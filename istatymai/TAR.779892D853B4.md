@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2004-09-30
+Suvestinė redakcija nuo 2004-10-01 iki 2004-11-16
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -565,7 +565,15 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 
 
 
-18) elektroninių pinigų išleidimas ir tvarkymas.
+18) elektroninių pinigų išleidimas ir tvarkymas;
+
+
+
+
+19) investicinių fondų ar investicinių kintamojo kapitalo bendrovių administravimas. 
+Papildyta straipsnio punktu:
+Nr. IX-1720, 2003-07-04, Žin., 2003, Nr. 74-3435 (2003-07-25), i. k. 1031010ISTA0IX-1720
+ 
 
 
 
@@ -2932,3 +2940,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo 31 ir 59 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
 Lietuvos Respublikos finansų įstaigų įstatymo 2, 4, 45 straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1720, 2003-07-04, Žin., 2003, Nr. 74-3435 (2003-07-25), i. k. 1031010ISTA0IX-1720
+Lietuvos Respublikos finansų įstaigų įstatymo 3 straipsnio papildymo įstatymas
