@@ -937,10 +937,10 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 
 
 
-2. Pareiškėjui ar jo atstovui sumokėjus nustatytą mokestį, dizainas įrašomas į Lietuvos Respublikos dizaino registrą. Duomenys apie dizaino įrašymą skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+2. Pareiškėjui ar jo atstovui sumokėjus nustatytą mokestį, dizainas įregistruojamas Lietuvos Respublikos dizaino registro informacinėje sistemoje. Duomenys apie dizaino įregistravimą skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
 Straipsnio dalies pakeitimai:
 Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
- 
+ 
 
 
 
@@ -953,15 +953,15 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 4. Neteko galios nuo 2004-04-30
 Straipsnio dalies naikinimas:
 Nr. IX-2205, 2004-04-29, Žin. 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
- 
+ 
 
 
 
 
-4. Pareiškėjo ar jo atstovo prašymu duomenų apie dizaino įrašymą į Lietuvos Respublikos dizaino registrą paskelbimas Valstybinio patentų biuro oficialiame biuletenyje gali būti atidėtas iki 30 mėnesių nuo paraiškos padavimo arba, jei prašoma suteikti prioriteto datą, nuo prioriteto datos.
+4. Pareiškėjo ar jo atstovo prašymu duomenų apie dizaino įregistravimą Lietuvos Respublikos dizaino registro informacinėje sistemoje paskelbimas Valstybinio patentų biuro oficialiame biuletenyje gali būti atidėtas iki 30 mėnesių nuo paraiškos padavimo arba, jei prašoma suteikti prioriteto datą, nuo prioriteto datos.
 Papildyta straipsnio dalimi:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
- 
+ 
 
 
 
@@ -969,22 +969,14 @@ Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA
 5. Neteko galios nuo 2004-04-30
 Straipsnio dalies naikinimas:
 Nr. IX-2205, 2004-04-29, Žin. 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
- 
+ 
 
 
 
 
 6. Neteko galios nuo 2004-04-30
 Straipsnio dalies naikinimas:
-Nr. IX-2205, 2004-04-29, Žin. 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
- 
-
-
-
-
-
-
-22 straipsnis. Paraiškos atšaukimas ir išskyrimas
+Nr. IX-2205, 2004-04-29, Žin. 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-220522 straipsnis. Paraiškos atšaukimas ir išskyrimas
 
 
 1. Jeigu pareiškėjas ar jo atstovas per 3 mėnesius nuo sprendimo įregistruoti dizainą išsiuntimo dienos nustatyto mokesčio nesumoka, paraiška Valstybinio patentų biuro sprendimu pripažįstama atšaukta.
@@ -1007,15 +999,7 @@ Nr. IX-2205, 2004-04-29, Žin. 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA
 
 
 
-5. Už kiekvieną išskirtą paraišką mokamas mokestis kaip už naujai paduotą paraišką.
- 
-
-
-
-
-
-
-23 straipsnis. Dizaino registracijos užprotestavimas
+5. Už kiekvieną išskirtą paraišką mokamas mokestis kaip už naujai paduotą paraišką.23 straipsnis. Dizaino registracijos užprotestavimas
 
 
 1. Šio Įstatymo 44 straipsnyje nurodyti asmenys per 3 mėnesius nuo įregistruoto dizaino paskelbimo Valstybinio patentų biuro oficialiame biuletenyje dienos, remdamiesi šio Įstatymo 9 ir (ar) 10 straipsniais, gali užprotestuoti dizaino registraciją, paduodami motyvuotą rašytinį protestą Apeliaciniam skyriui.
@@ -1112,20 +1096,12 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 
 
 
-3. Dizaino registracijos liudijimas yra teisinis dokumentas, patvirtinantis dizaino įrašymą į Lietuvos Respublikos dizaino registrą ir dizaino savininko išimtines teises į įregistruotą dizainą.
+3. Dizaino registracijos liudijimas yra teisinis dokumentas, patvirtinantis dizaino įregistravimą Lietuvos Respublikos dizaino registro informacinėje sistemoje ir dizaino savininko išimtines teises į įregistruotą dizainą.
 
 
 
 
-4. Jeigu dizaino savininkas dizaino registracijos liudijimą praranda, jo prašymu ir sumokėjus nustatytą mokestį išduodamas dizaino registracijos liudijimo dublikatas.
- 
-
-
-
-
-
-
-26 straipsnis. Lietuvos Respublikos dizaino registras
+4. Jeigu dizaino savininkas dizaino registracijos liudijimą praranda, jo prašymu ir sumokėjus nustatytą mokestį išduodamas dizaino registracijos liudijimo dublikatas.26 straipsnis. Lietuvos Respublikos dizaino registras
 
 
 1. Lietuvos Respublikos dizaino registras yra valstybės registras. Registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, registro tvarkytojas – Valstybinis patentų biuras. Lietuvos Respublikos Vyriausybė gali skirti papildomą registro tvarkytoją. 
@@ -1188,7 +1164,7 @@ Nr. XIII-265, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06265
 
 
 
-29 straipsnis. Pakeitimų paraiškoje ir Lietuvos Respublikos dizaino registre įrašymas
+29 straipsnis. Paraiškos ir kitų Lietuvos Respublikos dizaino registro duomenų pakeitimas
 
 
 1. Pareiškėjas, dizaino savininkas ar jo atstovas privalo pranešti Valstybiniam patentų biurui, kad: 
@@ -1204,7 +1180,7 @@ Nr. XIII-265, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06265
 
 
 
-3) keičiamas pateikto registruoti ar įregistruoto dizaino vaizdas, jeigu dizaino registracija pripažinta negaliojančia remiantis šio Įstatymo 9 straipsniu ir, Valstybinio patentų biuro nuomone, šis pakeitimas atitinka šio Įstatymo reikalavimus bei išlaikomas dizaino tapatumas; 
+3) keičiamas pateikto registruoti ar įregistruoto dizaino vaizdas, jeigu dizaino registracija pripažinta negaliojančia remiantis šio Įstatymo 9 straipsniu ir šis pakeitimas atitinka šio Įstatymo reikalavimus bei išlaikomas dizaino tapatumas;
 
 
 
@@ -1224,35 +1200,21 @@ Nr. XIII-265, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06265
 
 
 
+2. Pareiškėjas, dizaino savininkas ar jo atstovas, prašydamas pakeisti paraiškos ar kitus Lietuvos Respublikos dizaino registro duomenis, turi sumokėti nustatytą mokestį ir pateikti šiuos dokumentus:
 
 
-2. Pareiškėjas, dizaino savininkas ar jo atstovas, prašydamas įrašyti pakeitimą į paraišką ar Lietuvos Respublikos dizaino registrą, turi sumokėti nustatytą mokestį ir pateikti šiuos dokumentus:
-
-
-1) prašymą įrašyti pakeitimą į paraišką ar Lietuvos Respublikos dizaino registrą;
-
-
-
-
-2) prašymo pagrindimo dokumentus, kai prašoma įrašyti šio straipsnio 1 dalies 5 ar 6 punkte nurodytus pakeitimus. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
- 
+1) prašymą pakeisti paraiškos ar kitus Lietuvos Respublikos dizaino registro duomenis;
 
 
 
 
-3. Gavęs šio straipsnio 2 dalyje nurodytus dokumentus, Valstybinis patentų biuras per Taisyklėse nustatytą terminą juos patikrina ir, jeigu dokumentai atitinka šio Įstatymo ir Taisyklėse nustatytus reikalavimus, pakeitimą įrašo į paraišką ar Lietuvos Respublikos dizaino registrą. Jeigu pateikti dokumentai neatitinka šio Įstatymo ar Taisyklėse nustatytų reikalavimų, pareiškėjui, dizaino savininkui ar jo atstovui išsiunčiamas pranešimas apie trūkumus. Jeigu per vieną mėnesį nuo pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas pripažįstamas nepaduotu.
-Straipsnio dalies pakeitimai:
-Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
- 
+2) prašymo pagrindimo dokumentus, kai prašoma pakeisti šio straipsnio 1 dalies 5 ar 6 punkte nurodytus duomenis.
 
 
+3. Gavęs šio straipsnio 2 dalyje nurodytus dokumentus, Valstybinis patentų biuras per Taisyklėse nustatytą terminą juos patikrina ir, jeigu dokumentai atitinka šiame Įstatyme ir Taisyklėse nustatytus reikalavimus, pakeičia paraiškos ar kitus Lietuvos Respublikos dizaino registro duomenis. Jeigu pateikti dokumentai neatitinka šiame Įstatyme ar Taisyklėse nustatytų reikalavimų, pareiškėjui, dizaino savininkui ar jo atstovui išsiunčiamas pranešimas apie trūkumus. Jeigu per vieną mėnesį nuo pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas pripažįstamas nepaduotu.
 
 
-4. Pakeitimas įsigalioja nuo jo įrašymo dienos. Apie pakeitimą Lietuvos dizaino registre skelbiama Valstybinio patentų biuro oficialiame biuletenyje.
+4. Pakeitimas įsigalioja nuo duomenų įrašymo Lietuvos Respublikos dizaino registro informacinėje sistemoje dienos. Apie Lietuvos Respublikos dizaino registro duomenų pakeitimą skelbiama Valstybinio patentų biuro oficialiame biuletenyje.
 
 
 
@@ -1262,7 +1224,7 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 
 
 
-6. Registruojant šio straipsnio 1 dalies 3 punkte nurodytą dizaino vaizdo pakeitimą, Lietuvos Respublikos dizaino registre nurodoma, kad pakeitimas įrašomas:
+6. Keičiant šio straipsnio 1 dalies 3 punkte nurodytus duomenis, Lietuvos Respublikos dizaino registro informacinėje sistemoje nurodoma, kad duomenys keičiami:
 
 
 1) dizaino savininko iniciatyva;
@@ -1275,17 +1237,7 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 
 
 
-3) teismo sprendimu.
- 
-
-
-
-
-
-
-
-
-30 straipsnis. Dizaino išregistravimas
+3) teismo sprendimu.30 straipsnis. Dizaino išregistravimas
 
 
 1. Dizainas išregistruojamas iš Lietuvos Respublikos dizaino registro, jeigu:
@@ -1464,15 +1416,7 @@ TARPTAUTINĖ DIZAINO REGISTRACIJA
 
 
 
-4. Valstybinis patentų biuras duomenis apie tarptautinę dizaino registraciją, kai nurodoma Lietuvos Respublika, įrašo į Lietuvos Respublikos dizaino registrą.
- 
-
-
-
-
-
-
-332 straipsnis. Tarptautinės dizaino registracijos negaliojimas
+4. Valstybinis patentų biuras registruoja tarptautinės dizaino registracijos, kurioje nurodoma Lietuvos Respublika, juridinį faktą, įrašydamas duomenis Lietuvos Respublikos dizaino registro informacinėje sistemoje.332 straipsnis. Tarptautinės dizaino registracijos negaliojimas
 
 
 1. Jeigu tarptautinės dizaino registracijos visi arba dalis dizaino pavyzdžių neatitinka šio Įstatymo 9 straipsnio reikalavimų arba jeigu šio Įstatymo nustatyta tvarka yra paduotas protestas dėl tarptautinės dizaino registracijos, Valstybinis patentų biuras Hagos susitarimo taisyklių nustatytais terminais ir tvarka informuoja Tarptautinį biurą apie atsisakymą pripažinti tarptautinės dizaino registracijos galiojimą Lietuvos Respublikoje, nurodydamas atsisakymo priežastis. Valstybinis patentų biuras gali bet kuriuo metu visiškai ar iš dalies atšaukti tokį atsisakymą.
@@ -1542,10 +1486,10 @@ TARPTAUTINĖ DIZAINO REGISTRACIJA
 
 
 
-5. Duomenys apie tarptautinės dizaino registracijos savininko suteiktą licenciją gali būti įrašyti į Lietuvos Respublikos dizaino registrą šio Įstatymo 41 straipsnyje nustatyta tvarka.
+5. Duomenys apie tarptautinės dizaino registracijos savininko suteiktą licenciją gali būti įrašyti Lietuvos Respublikos dizaino registro informacinėje sistemoje šio Įstatymo 41 straipsnyje nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
- 
+ 
 
 
 
@@ -1562,17 +1506,13 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 
 Papildyta skirsniu:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
- 
+ 
 
 
 
 
 KETVIRTASIS SKIRSNIS
-DIZAINO REGISTRACIJOS GALIOJIMAS
- 
-
-
-34 straipsnis. Dizaino registracijos galiojimo terminas
+DIZAINO REGISTRACIJOS GALIOJIMAS34 straipsnis. Dizaino registracijos galiojimo terminas
 
 
 1. Pradinis dizaino registracijos galiojimo terminas yra 5 metai nuo paraiškos padavimo dienos.
@@ -1599,7 +1539,7 @@ DIZAINO REGISTRACIJOS GALIOJIMAS
 2. Dizaino registracijos galiojimas pratęsiamas Valstybinio patentų biuro sprendimu, jeigu sumokamas nustatytas mokestis ir Valstybiniam patentų biurui Taisyklėse nustatyta tvarka pateikiamas prašymas pratęsti dizaino registracijos galiojimą visiems arba daliai pavyzdžių. 
 Straipsnio dalies pakeitimai:
 Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
- 
+ 
 
 
 
@@ -1608,7 +1548,7 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 Straipsnio dalies pakeitimai:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
- 
+ 
 
 
 
@@ -1616,15 +1556,15 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 4. Sumokėję už dizaino registracijos galiojimo termino pratęsimą 50 procentų didesnį mokestį, dizaino savininkas ar jo atstovas per 6 mėnesius nuo dizaino registracijos galiojimo pabaigos dienos gali pateikti šio straipsnio 2 dalyje nurodytus dokumentus. Tokiu atveju laikoma, kad dizaino registracija nebuvo nustojusi galioti. 
 Papildyta straipsnio dalimi:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
- 
+ 
 
 
 
 
-5. Duomenys apie dizaino registracijos galiojimo pratęsimą įrašomi į Lietuvos Respublikos dizaino registrą ir skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+5. Duomenys apie dizaino registracijos galiojimo pratęsimą įrašomi Lietuvos Respublikos dizaino registro informacinėje sistemoje ir skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
- 
+ 
 
 
 
@@ -1633,7 +1573,7 @@ Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA
 Straipsnio dalies pakeitimai:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
- 
+ 
 
 
 
@@ -1643,11 +1583,7 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 
 
 PENKTASIS SKIRSNIS
-DIZAINO REGISTRACIJOS SUTEIKIAMOS TEISĖS
- 
-
-
-36 straipsnis. Dizaino savininko teisės
+DIZAINO REGISTRACIJOS SUTEIKIAMOS TEISĖS36 straipsnis. Dizaino savininko teisės
 
 
 1. Įregistruoto dizaino savininkas turi išimtinę teisę dizainą naudoti, leisti arba drausti kitiems asmenims be jo leidimo gaminti, siūlyti parduoti, parduoti, pateikti į rinką, importuoti, eksportuoti, kaupti ir naudoti bet kokius gaminius ar jų dalis, kurių dizainas informuotam vartotojui nesudaro bendro įspūdžio, kuris yra skirtingas nuo įregistruoto dizaino.
@@ -1771,63 +1707,25 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 
 40 straipsnis. Teisės į pareikštą registruoti ar įregistruotą dizainą perdavimas
 
-
 1. Teisė į pareikštą registruoti ar įregistruotą dizainą gali būti perduota pagal sutartį kartu su kitomis su dizaino savininko veikla susijusiomis teisėmis arba atskirai, išskyrus atvejus, kai teisės perėmėjas nėra gavęs leidimo ar sutikimo pagal šio Įstatymo 9 straipsnio 3 ar 4 punktą. Teisė į dizainą pereina kartu su įmone, jeigu sutartyje nenustatyta kitaip.
 
+2. Teisė į pareikštą registruoti ar įregistruotą dizainą gali būti perduota daliai dizaino pavyzdžių.
 
+3. Duomenys apie teisės į pareikštą registruoti ar įregistruotą dizainą perdavimą įrašomi Lietuvos Respublikos dizaino registro informacinėje sistemoje vienos iš šios teisės perdavimo šalių prašymu, jeigu yra sumokėtas nustatytas mokestis ir Valstybiniam patentų biurui pateikiami šie dokumentai:
 
+1) prašymas įrašyti duomenis apie šios teisės perdavimą;
 
-2. Teisė į pareikštą registruoti ar įregistruotą dizainą gali būti perduota daliai dizaino pavyzdžių. 
-
-
-
-
-3. Teisės į pareikštą registruoti ar įregistruotą dizainą perdavimas įrašomas į Lietuvos Respublikos dizaino registrą vienos iš teisės perdavimo šalių prašymu, jeigu yra sumokėtas nustatytas mokestis ir Valstybiniam patentų biurui pateikiami šie dokumentai:
-
-
-1) prašymas įrašyti teisės perdavimą;
-
-
-
-
-2) šalių pasirašytas teisės perdavimą patvirtinantis dokumentas arba vienos iš šalių ar jos atstovo pasirašytas išrašas iš teisės perdavimo sutarties;
-
-
-
+2) šalių pasirašytas šios teisės perdavimą patvirtinantis dokumentas arba vienos iš šalių ar jos atstovo pasirašytas išrašas iš šios teisės perdavimo sutarties;
 
 3) įgaliojimas atstovui (jeigu reikia);
 
-
-
-
 4) šio Įstatymo 9 straipsnio 3 ar 4 punkte nurodytas leidimas ar sutikimas, išduotas teisių perėmėjui (jeigu reikia).
 
+4. Valstybinis patentų biuras per Taisyklėse nustatytą terminą gautus dokumentus patikrina ir, jeigu dokumentai atitinka šiame Įstatyme ir Taisyklėse nustatytus reikalavimus, duomenis apie teisės į pareikštą registruoti ar įregistruotą dizainą perdavimą įrašo Lietuvos Respublikos dizaino registro informacinėje sistemoje. Nustatęs, kad pateikti dokumentai neatitinka šiame Įstatyme ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras išsiunčia pareiškėjui, dizaino savininkui ar jo atstovui pranešimą, kuriame nurodo trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per vieną mėnesį nuo pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas įrašyti duomenis apie šios teisės perdavimą Lietuvos Respublikos dizaino registro informacinėje sistemoje laikomas nepaduotu.
 
+5. Teisės į pareikštą registruoti ar įregistruotą dizainą perdavimas įsigalioja nuo duomenų apie šį faktą įrašymo Lietuvos Respublikos dizaino registro informacinėje sistemoje dienos. Duomenys apie teisės į įregistruotą dizainą perdavimą skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
 
-
-
-
-4. Valstybinis patentų biuras per Taisyklėse nustatytą terminą gautus dokumentus patikrina ir, jeigu dokumentai atitinka šio Įstatymo ir Taisyklėse nustatytus reikalavimus, duomenis apie teisės į pareikštą registruoti ar įregistruotą dizainą perdavimą įrašo į Lietuvos Respublikos dizaino registrą. Nustatęs, kad pateikti dokumentai neatitinka šio Įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras išsiunčia pareiškėjui, dizaino savininkui ar jo atstovui pranešimą, kuriame nurodo trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per vieną mėnesį nuo pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas įrašyti teisės perdavimą į Lietuvos Respublikos dizaino registrą laikomas nepaduotu.
-
-
-
-
-5. Teisės į pareikštą registruoti ar įregistruotą dizainą perdavimas įsigalioja nuo jo įrašymo į Lietuvos Respublikos dizaino registrą dienos. Duomenys apie teisės į įregistruotą dizainą perdavimą skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
-
-
-
-
-6. Jeigu perdavus teisę į pareikštą registruoti ar įregistruotą dizainą teisės perėmėjas nėra gavęs leidimo ar sutikimo pagal šio Įstatymo 9 straipsnio 3 ar 4 punktą, Valstybinis patentų biuras priima sprendimą neįrašyti teisės į pareikštą įregistruoti ar įregistruotą dizainą perdavimo duomenų į Lietuvos Respublikos dizaino registrą.
-
-
-Straipsnio pakeitimai:
-Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
- 
-
-
-
-
-41 straipsnis. Licencijos suteikimas
+6. Jeigu teisės į pareikštą registruoti ar įregistruotą dizainą perėmėjas nėra gavęs leidimo ar sutikimo pagal šio Įstatymo 9 straipsnio 3 ar 4 punktą, Valstybinis patentų biuras priima sprendimą neįrašyti duomenų apie šios teisės perdavimą Lietuvos Respublikos dizaino registro informacinėje sistemoje.41 straipsnis. Licencijos suteikimas
 
 
 1. Dizaino savininkas turi teisę suteikti kitam asmeniui išimtinę ar neišimtinę licenciją naudoti dizainą visoje Lietuvos Respublikos teritorijoje arba tam tikroje jos dalyje.
@@ -1925,27 +1823,21 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 
 
 
-2. Gavęs Sutarčių ir teisių suvaržymų registro ar Turto arešto aktų registro tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į dizainą, Valstybinis patentų biuras teisės į dizainą įkeitimo ar arešto duomenis įrašo į Lietuvos Respublikos dizaino registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje. 
+2. Gavęs Sutarčių ir teisių suvaržymų registro informacinės sistemos ar Turto arešto aktų registro informacinės sistemos tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į dizainą, Valstybinis patentų biuras teisės į dizainą įkeitimo ar arešto duomenis įrašo Lietuvos Respublikos dizaino registro informacinėje sistemoje ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2731, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00106
- 
+ 
 
 
 Straipsnio pakeitimai:
 Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
- 
-
-
+ 
 
 
 
 
 SEPTINTASIS SKIRSNIS 
-DIZAINO REGISTRACIJOS PRIPAŽINIMAS NEGALIOJANČIA 
- 
-
-
-43 straipsnis. Dizaino registracijos pripažinimas negaliojančia
+DIZAINO REGISTRACIJOS PRIPAŽINIMAS NEGALIOJANČIA43 straipsnis. Dizaino registracijos pripažinimas negaliojančia
 
 
 1. Šio Įstatymo 44 straipsnyje nurodytų asmenų prašymu teismas, remdamasis šio Įstatymo 9 ir (ar) 10 straipsniuose nustatytais pagrindais, gali pripažinti dizaino registraciją negaliojančia. 
