@@ -13,6 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5AEF6420B16"
 
 # Lietuvos Respublikos krašto apsaugos tarnybos įstatymas
 
+Įstatymas netenka galios 1998-05-27:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-723, 1998-05-05, Žin., 1998, Nr. 49-1325 (1998-05-27), i. k. 0981010ISTAVIII-723
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
+ 
+Suvestinė redakcija nuo 1997-04-09 iki 1998-05-26
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 101-2302, i. k. 0961010ISTA00I-1548
+ 
+ 
 LIETUVOS RESPUBLIKOS
 KRAŠTO APSAUGOS TARNYBOS
 ĮSTATYMAS
@@ -78,7 +88,10 @@ Krašto apsaugos sistemos institucijos finansuojamos iš valstybės biudžeto. V
 
 1. Sprendimus dėl krašto apsaugos sistemos priima demokratiškai išrinktos civilinės valdžios institucijos. Nacionalinė gynybos politika ir gynybos išlaidos skelbiamos viešai.
 
-2. Krašto apsaugos ministru ir ministerijos sekretoriais gali būti tik civiliai asmenys.
+2. Krašto apsaugos ministru, ministerijos viceministrais ir sekretoriumi gali būti tik civiliai asmenys. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-149, 1997-03-25, Žin., 1997, Nr. 30-705 (1997-04-09), i. k. 0971010ISTAVIII-149
+ 
 
 3. Vyriausiasis valstybės ginkluotųjų pajėgų vadas yra Respublikos Prezidentas. Jis tvirtina kariuomenės dislokavimo taikos metu vietas ir manevravimo teritorines ribas. Taikos metu sprendimus dėl kariuomenės dalinių perkėlimo į kitą dislokavimo vietą savo dekretu turi teisę priimti tik Respublikos Prezidentas.
 
@@ -809,4 +822,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-149, 1997-03-25, Žin., 1997, Nr. 30-705 (1997-04-09), i. k. 0971010ISTAVIII-149
+Lietuvos Respublikos krašto apsaugos tarnybos įstatymo 6 straipsnio pakeitimo įstatymas
 
