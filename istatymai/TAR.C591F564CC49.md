@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C591F564CC49"
 
 # Lietuvos Respublikos laikinasis vidaus tarnybos įstatymas
 
+Suvestinė redakcija nuo 1996-01-01 iki 2003-04-30
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 2-0; Žin. 1992, Nr.3-34, i. k. 0911010ISTA00I-2120
+ 
+ 
 LIETUVOS RESPUBLIKOS
 LAIKINASIS VIDAUS TARNYBOS
 ĮSTATYMAS
@@ -382,7 +387,10 @@ nuo 10 iki 15 metų – 35 kalendorinės dienos;
 nuo 15 iki 20 metų – 40 kalendorinių dienų;
 daugiau kaip 20 metų – 45 kalendorinės dienos.
 
-Vidaus tarnybos pareigūnai Lietuvos Respublikos teritorijoje nemokamai naudojasi valstybiniu (miesto, priemiesčio, tarpmiestiniu) transportu, išskyrus lėktuvus ir taksi.
+3 dalis neteko galios.
+Straipsnio dalies pakeitimai:
+Nr. I-1080, 1995-10-31, Žin., 1995, Nr. 92-2056 (1995-11-10), i. k. 0951010ISTA00I-1080
+ 
 
 Vidaus tarnybos pareigūnams teikiamos ir kitos Lietuvos Respublikos Vyriausybės numatytos socialinės garantijos bei lengvatos.
  
@@ -420,4 +428,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1991 m. gruodžio 18 d.
 Nr. I-2120
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1080, 1995-10-31, Žin., 1995, Nr. 92-2056 (1995-11-10), i. k. 0951010ISTA00I-1080
+Dėl kai kurių Lietuvos Respublikos įstatymų ir kitų teisės aktų, susijusių su Lietuvos Respublikos įstatymu "Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos", pakeitimo ir papildymo
 
