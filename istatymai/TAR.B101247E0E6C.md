@@ -1130,23 +1130,39 @@ algos dydžio;
 algos dydžio.
 4. Saugumo pareigūno pareiginė alga, priedas už tarnybos
 stažą bei priemokos mokami Valstybės tarnybos įstatymo nustatyta tvarka.
+ 
+5 dalies redakcija iki 2005 m. kovo 1 d.:
 5. Laikinojo nedarbingumo laikotarpiu, nėštumo ir gimdymo
 atostogų metu saugumo pareigūnui iš darbo užmokesčio fondo mokama jam nustatyta
 pareiginė alga ir priedai. Vaiko priežiūros atostogų, kol vaikui sukaks vieneri
 metai, laiku saugumo pareigūnui iš tam tikslui skirtų lėšų mokama 60 procentų
 nuo jam nustatytos pareiginės algos ir priedų.
+5 dalies redakcija nuo 2005 m. kovo 1 d.:
+5. Laikinojo nedarbingumo bei nėštumo ir gimdymo
+atostogų laikotarpiu saugumo pareigūnams mokamas Vyriausybės nustatyta
+tvarka apskaičiuotas vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam
+sueis vieni metai, atostogų laikotarpiu – 70 procentų šia tvarka
+apskaičiuoto vidutinio jų darbo užmokesčio.
+Pastaba. Jeigu pareigūnams, esantiems vaiko priežiūros, kol
+jam sueis vieni metai, atostogose, pagal šio įstatymo nuostatas apskaičiuota 70
+procentų vidutinio jų darbo užmokesčio suma yra mažesnė nei mokėta iki įstatymo
+Nr. X-122
+įsigaliojimo, toliau mokama anksčiau nustatyto dydžio suma.
+Straipsnio pakeitimai:
+Nr. X-122, 2005-02-15,
+Žin., 2005, Nr. 28-874 (2005-02-26)
  
 44 straipsnis.
 Kompensacijos
 1. Saugumo
 pareigūnui žuvus dėl tarnybos Saugumo departamente, jo šeimai – nepilnamečiams
-vaikams (įvaikiams), kol jiems sukaks 16 metų, taip pat besimokantiems
-nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose vaikams
-(įvaikiams), kol jiems sukaks 24 metai, sutuoktiniui, mirusiojo vaikams,
-gimusiems po jo mirties, tėvui ar motinai – bei nedarbingiems asmenims, kurie
-buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą,
-per 1 metus nuo pareigūno mirties lygiomis dalimis išmokama 120 mėnesių darbo
-užmokesčio dydžio vienkartinė kompensacija.
+vaikams (įvaikiams), kol jiems sukaks 16 metų, taip pat besimokantiems nustatyta
+tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose vaikams (įvaikiams),
+kol jiems sukaks 24 metai, sutuoktiniui, mirusiojo vaikams, gimusiems po jo
+mirties, tėvui ar motinai – bei nedarbingiems asmenims, kurie buvo mirusiojo
+išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per 1 metus
+nuo pareigūno mirties lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio
+dydžio vienkartinė kompensacija.
 2. Saugumo
 pareigūną pripažinus nežinia kur esančiu ar paskelbus mirusiu, laikoma, kad jis
 yra pripažintas nežinia kur esančiu ar paskelbtas žuvusiu dėl tarnybos, jeigu
@@ -1214,8 +1230,8 @@ pareigūnai, išskyrus generalinį direktorių ir jo pavaduotojus, Saugumo
 departamente tarnauja:
 1) iki saugumo I
 rango patarėjo įskaitytinai – kol sukanka 50 metų;
-2) saugumo vyresnieji
-valstybės patarėjai – kol sukanka 55 metai.
+2) saugumo
+vyresnieji valstybės patarėjai – kol sukanka 55 metai.
 3. Saugumo
 departamento generalinis direktorius ir jo pavaduotojai Saugumo departamente
 tarnauja iki Respublikos Prezidento dekreto dėl jų atleidimo iš pareigų
@@ -1257,12 +1273,26 @@ Nr. IX-1752,
 VALSTYBĖS
 SAUGUMO DEPARTAMENTO STATUTO 32 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-122,
+2005-02-15, Žin., 2005, Nr. 28-874 (2005-02-26)
+VALSTYBĖS
+SAUGUMO DEPARTAMENTO STATUTO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2005 m. kovo 1 d.
+Jeigu pareigūnams, esantiems vaiko priežiūros, kol jam
+sueis vieni metai, atostogose, pagal šio įstatymo nuostatas apskaičiuota 70
+procentų vidutinio jų darbo užmokesčio suma yra mažesnė nei mokėta iki šio
+įstatymo įsigaliojimo, toliau mokama anksčiau nustatyto dydžio suma.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-10-29)
+Aušrinė Trapinskienė (2005-02-28)
                  
 autrap@lrs.lt
 
