@@ -23,8 +23,6 @@ PILIETYBĖS ĮSTATYMO ĮGYVENDINIMO
 2002 m. rugsėjo 17 d. Nr. IX-1079
 Vilnius
  
-
- 
 1 straipsnis.
 Prašymų dėl Lietuvos Respublikos pilietybės pateikimas
 Asmenys,
@@ -52,21 +50,8 @@ institucijose arba giminaičių, prilyginami Lietuvos Respublikos pilietybės
 2. Repatrijavimu
 laikomas išvykimas į etninę tėvynę ir apsigyvenimas etninėje tėvynėje.
  
-3 dalies redakcija iki 2003 m. kovo 1
-d.:
-3. Asmenims iki
-18 metų, kurie gali įrodyti turėtą tėvų, senelių ar prosenelių Lietuvos
-Respublikos pilietybę iki 1940 m. birželio 15 d. ar lietuvių kilmę, Lietuvos
-Respublikos pilietybės klausimas gali būti sprendžiamas pagal Lietuvos
-Respublikos pilietybės įstatymo 8 ir 9 straipsnių bei 1 straipsnio 1 dalies 1
-ar 3 punktų arba Lietuvos Respublikos pilietybės įstatymo 22–25 straipsnių ir 1
-straipsnio 1 dalies 1 ar 3 punktų reikalavimus. Sprendžiant vaikų Lietuvos
-Respublikos pilietybės klausimą pagal Lietuvos Respublikos pilietybės įstatymo
-23 straipsnį, vieno iš tėvų auginami nepilnamečiai vaikai prilyginami Lietuvos
-Respublikos pilietybės įstatymo 23 straipsnyje nurodytiems vaikams,
-gyvenantiems su išsituokusiais tėvais.
-3 dalies redakcija nuo 2003 m. kovo 1
-d.:
+3 dalies
+redakcija iki 2005 m. sausio 1 d.:
 3.
 Asmenims iki 18 metų, kurie gali įrodyti turėtą tėvų, senelių ar prosenelių
 Lietuvos Respublikos pilietybę iki 1940 m. birželio 15 d. ar lietuvių kilmę,
@@ -78,25 +63,31 @@ Respublikos pilietybės klausimą pagal Lietuvos Respublikos pilietybės įstaty
 23 straipsnį, vieno iš tėvų auginami nepilnamečiai vaikai prilyginami Lietuvos
 Respublikos pilietybės įstatymo 23 straipsnyje nurodytiems vaikams,
 gyvenantiems su išsituokusiais tėvais.
+3 dalies
+redakcija nuo 2005 m. sausio 1 d.:
+3. Asmenims iki
+18 metų, kurie gali įrodyti turėtą tėvų, senelių ar prosenelių Lietuvos
+Respublikos pilietybę iki 1940 m. birželio 15 d. ar lietuvių kilmę, Lietuvos
+Respublikos pilietybės klausimas gali būti sprendžiamas pagal Lietuvos
+Respublikos pilietybės įstatymo 8 ir 9 straipsnių bei 1 straipsnio 1 dalies 1
+ar 3 punktų arba Lietuvos Respublikos pilietybės įstatymo 22–23 straipsnių ir 1
+straipsnio 1 dalies 1 ar 3 punktų reikalavimus. Ši nuostata taikoma ir asmenų,
+įgijusių Lietuvos Respublikos pilietybę pagal Lietuvos Respublikos pilietybės
+įstatymo 16 straipsnį, nepilnamečiams vaikams. Sprendžiant vaikų Lietuvos
+Respublikos pilietybės klausimą pagal Lietuvos Respublikos pilietybės įstatymo
+23 straipsnį, vieno iš tėvų auginami nepilnamečiai vaikai prilyginami Lietuvos
+Respublikos pilietybės įstatymo 23 straipsnyje nurodytiems vaikams,
+gyvenantiems su išsituokusiais tėvais.
 Straipsnio pakeitimai:
 Nr. IX-1298,
 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07)
+Nr. IX-2558,
+2004-11-11, Žin., 2004, Nr. 173-6379 (2004-12-02)
  
-3 straipsnio redakcija iki 2003 m. kovo
-1 d.:
 3 straipsnis. Dokumentų
 dėl Lietuvos Respublikos pilietybės suteikimo padavimas
-Užsienio
-valstybės pilietis arba asmuo be pilietybės, kuris kreipiasi dėl Lietuvos
-Respublikos pilietybės suteikimo pagal Lietuvos Respublikos pilietybės įstatymo
-12 ar 14 straipsnius, pateikia dokumentus, patvirtinančius, kad jis teisėtai
-atvyko ir teisėtai gyvena Lietuvos Respublikoje Lietuvos Respublikos pilietybės
-įstatyme nurodytą laikotarpį, bei kitus dokumentus, patvirtinančius, jog
-įvykdyti Lietuvos Respublikos pilietybės įstatymo reikalavimai.
-3 straipsnio redakcija nuo 2003 m. kovo
-1 d.:
-3 straipsnis. Dokumentų
-dėl Lietuvos Respublikos pilietybės suteikimo padavimas
+1 dalies redakcija
+iki 2005 m. sausio 1 d.:
 1.
 Asmuo, kuris kreipiasi dėl Lietuvos Respublikos pilietybės suteikimo pagal
 Lietuvos Respublikos pilietybės įstatymo 12 ar 14 straipsnius, pateikia
@@ -104,13 +95,25 @@ dokumentus, patvirtinančius, kad jis teisėtai atvyko ir nuolat gyvena Lietuvos
 Respublikoje Lietuvos Respublikos pilietybės įstatyme nurodytą laikotarpį, bei
 kitus dokumentus, patvirtinančius, jog įvykdyti Lietuvos Respublikos pilietybės
 įstatymo reikalavimai.
-            2. Lietuvos Respublikoje nuolat
-gyvenančiu asmeniu yra laikomas užsienietis, kuris turi leidimą nuolat gyventi
-Lietuvos Respublikoje ir kurio duomenys apie gyvenamąją vietą Lietuvos
+1 dalies
+redakcija nuo 2005 m. sausio 1 d.:
+1.
+Asmuo, kuris kreipiasi dėl Lietuvos Respublikos pilietybės suteikimo pagal
+Lietuvos Respublikos pilietybės įstatymo 12 ar 14 straipsnius, pateikia
+dokumentus, patvirtinančius, kad jis teisėtai atvyko ir gyvena Lietuvos
+Respublikoje Lietuvos Respublikos pilietybės įstatyme nurodytą laikotarpį, bei
+kitus dokumentus, patvirtinančius, jog įvykdyti Lietuvos Respublikos pilietybės
+įstatymo reikalavimai.
+ 
+            2. Lietuvos Respublikoje
+nuolat gyvenančiu asmeniu yra laikomas užsienietis, kuris turi leidimą nuolat
+gyventi Lietuvos Respublikoje ir kurio duomenys apie gyvenamąją vietą Lietuvos
 Respublikoje yra įrašyti į Lietuvos Respublikos gyventojų registrą.
 Straipsnio pakeitimai:
 Nr. IX-1298,
 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07)
+Nr. IX-2558,
+2004-11-11, Žin., 2004, Nr. 173-6379 (2004-12-02)
  
 4
 straipsnis. Sprendimai dėl Lietuvos Respublikos pilietybę patvirtinančio 
@@ -121,19 +124,9 @@ kuriam buvo nepagrįstai ar neteisėtai išduoti Lietuvos Respublikos pilietybę
 patvirtinantys dokumentai, asmens tapatybės kortelė ar pasas negali būti
 išduoti tol, kol jo pilietybės klausimas nebus išspręstas pagal Lietuvos
 Respublikos pilietybės įstatymą.
- 
-2 dalies redakcija iki 2003 m. kovo 1
-d.:
-2. Lietuvos
-Respublikos piliečio pažymėjimo, pažymėjimo apie apsisprendimą dėl Lietuvos
-Respublikos pilietybės pripažinimas negaliojančiais pasekmes sukelia tik dėl
-pilietybės dokumentų. 
-2 dalies redakcija nuo 2003 m. kovo 1
-d.:
 2. Lietuvos Respublikos
 pilietybę patvirtinančių dokumentų pripažinimas negaliojančiais pasekmes
 sukelia tik dėl pilietybės dokumentų.
- 
 3. Sprendimą dėl
 neteisėtai ar nepagrįstai išduoto Lietuvos Respublikos pilietybę patvirtinančio
 dokumento priima vidaus reikalų ministras ar jo įgaliota institucija.
@@ -146,15 +139,33 @@ kuriems buvo neteisėtai ar nepagrįstai išduoti Lietuvos Respublikos pilietyb�
 patvirtinantys dokumentai, šiuos dokumentus privalo grąžinti vidaus reikalų
 ministrui ar jo įgaliotai institucijai, migracijos tarnyboms arba Lietuvos
 Respublikos diplomatinėms atstovybėms ar konsulinėms įstaigoms užsienyje.
+ 
+5 dalies
+redakcija iki 2006 m. balandžio 1 d.:
 5. Nustačius,
 kad asmens Lietuvos Respublikos pilietybės klausimas išspręstas pažeidžiant
-Lietuvos Respublikos pilietybės įstatymo reikalavimus ir dėl to neteisėtai išduoti
-Lietuvos Respublikos pilietybę patvirtinantys dokumentai, sprendimą dėl asmens
+Lietuvos Respublikos pilietybės įstatymo reikalavimus ir dėl to neteisėtai
+išduoti Lietuvos Respublikos pilietybę patvirtinantys dokumentai, sprendimą dėl
+asmens Lietuvos Respublikos pilietybės priima vidaus reikalų ministras ar jo
+įgaliota institucija pagal Pilietybės reikalų komisijos rekomendacinio pobūdžio
+išvadą.
+5 dalies
+redakcija nuo 2006 m. balandžio 1 d.:
+5. Nustačius,
+kad asmens Lietuvos Respublikos pilietybės klausimas išspręstas pažeidžiant
+Lietuvos Respublikos pilietybės įstatymo reikalavimus ir dėl to neteisėtai
+išduoti Lietuvos Respublikos pilietybę patvirtinantys dokumentai, šis klausimas
+gali būti svarstomas Lietuvos Respublikos Vyriausybės sudarytoje Komisijoje
+Lietuvos Respublikos pilietybės klausimams nagrinėti. Sprendimą dėl asmens
 Lietuvos Respublikos pilietybės priima vidaus reikalų ministras ar jo įgaliota
-institucija pagal Pilietybės reikalų komisijos rekomendacinio pobūdžio išvadą.
-6. Šio straipsnio
-5 dalies reikalavimai netaikomi asmenims, kurie Lietuvos Respublikos pilietybę
-įgijo apgaulės būdu.
+institucija.
+ 
+6. Šio
+straipsnio 5 dalies reikalavimai netaikomi asmenims, kurie Lietuvos Respublikos
+pilietybę įgijo apgaulės būdu.
+ 
+7 dalies
+redakcija iki 2006 m. balandžio 1 d.:
 7. Asmenys,
 teisėtai apsisprendę dėl Lietuvos Respublikos pilietybės iki 1991 m. lapkričio
 4 d. pagal 1989 m. lapkričio 3 d. Pilietybės įstatymą, gyvenantys užsienio
@@ -166,6 +177,21 @@ m. gruodžio 31 d. Klausimą dėl to, ar šioje dalyje nurodyti asmenys laikomi
 netekusiais Lietuvos Respublikos pilietybės, sprendžia vidaus reikalų ministras
 ar jo įgaliota institucija pagal Pilietybės reikalų komisijos rekomendacinio
 pobūdžio išvadą.
+7 dalies
+redakcija nuo 2006 m. balandžio 1 d.:
+7. Asmenys,
+teisėtai apsisprendę dėl Lietuvos Respublikos pilietybės iki 1991 m. lapkričio
+4 d. pagal 1989 m. lapkričio 3 d. Pilietybės įstatymą, gyvenantys užsienio
+valstybėse, gali būti laikomi netekusiais Lietuvos Respublikos pilietybės,
+jeigu jie nesikreipia dėl Lietuvos Respublikos pilietybę patvirtinančio
+dokumento gavimo į vidaus reikalų ministro įgaliotas institucijas arba Lietuvos
+Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje iki 2003
+m. gruodžio 31 d. Klausimą dėl to, ar šioje dalyje nurodyti asmenys laikomi
+netekusiais Lietuvos Respublikos pilietybės, sprendžia vidaus reikalų ministras
+ar jo įgaliota institucija prieš tai šį klausimą apsvarsčius Lietuvos
+Respublikos Vyriausybės sudarytoje Komisijoje Lietuvos Respublikos pilietybės
+klausimams nagrinėti.
+ 
 8.
 Šio straipsnio 7 dalies reikalavimai netaikomi asmenims, atitinkantiems
 Lietuvos Respublikos pilietybės įstatymo 1 straipsnio 1 dalies 1, 2 ar 3 punktų
@@ -173,17 +199,9 @@ sąlygas.
 Straipsnio pakeitimai:
 Nr. IX-1298,
 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07)
+Nr. IX-2558,
+2004-11-11, Žin., 2004, Nr. 173-6379 (2004-12-02)
  
-5 straipsnio redakcija iki 2003 m. kovo
-1 d.:
-5 straipsnis.
-Lietuvos Respublikos kompetentinga institucija, išduodanti leidimą
-Lietuvos Respublikos
-kompetentinga institucija, išduodanti leidimą stoti į kitos valstybės karo
-tarnybą ar dirbti pareigūnu valstybės tarnyboje, yra Lietuvos Respublikos
-Vyriausybė.
-5 straipsnio redakcija nuo 2003 m. kovo
-1 d.:
 5 straipsnis.
 Lietuvos Respublikos kompetentinga institucija, išduodanti leidimą
 Lietuvos
@@ -205,29 +223,22 @@ Respublikos įstatymas „Dėl Lietuvos Respublikos pilietybės įstatymo
 įgyvendinimo tvarkos“ ( Žin., 1995, Nr. 90-2014);
 2) Lietuvos
 Respublikos įstatymas „Dėl Lietuvos Respublikos įstatymo „Dėl Lietuvos
-Respublikos pilietybės įstatymo įgyvendinimo tvarkos“ 1 ir 5 straipsnių
-pakeitimo“ (Žin., 1997, Nr. 67-1669);
+Respublikos pilietybės įstatymo įgyvendinimo tvarkos“ 1 ir 5 straipsnių pakeitimo“
+(Žin., 1997, Nr. 67-1669);
 3) Lietuvos
 Respublikos įstatymas „Dėl Lietuvos Respublikos įstatymo „Dėl Lietuvos
 Respublikos pilietybės įstatymo įgyvendinimo tvarkos“ 5 straipsnio pakeitimo“
-(Žin., 1997, 
-Nr. 99-2505). 
- 
+(Žin., 1997, Nr. 99-2505). 
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
- 
-
- 
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
  
-_________________
- 
+_______________
 Pakeitimai:
- 
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
@@ -243,12 +254,24 @@ LAIKINOJO ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
 Įstatymas, išskyrus šio Įstatymo šeštojo skirsnio 2 straipsnį, įsigalioja nuo
 2003 m. kovo 1 d.
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2558,
+2004-11-11, Žin., 2004, Nr. 173-6379 (2004-12-02)
+PILIETYBĖS
+ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 2, 3, 4 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
+Šio įstatymo 1 ir 2 straipsniai
+įsigalioja nuo 2005 m. sausio 1 d.
+Šis
+įstatymas, išskyrus 4 straipsnio 1 dalyje nurodytus atvejus, įsigalioja nuo
+2006 m. balandžio 1 d.
 ***
 Pabaiga ***
- 
- 
 Redagavo:
-Aušrinė Trapinskienė (2003-02-10)
+Aušrinė Trapinskienė (2004-12-03)
                  
 autrap@lrs.lt
 
