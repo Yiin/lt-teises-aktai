@@ -121,19 +121,21 @@ draudžiama streikuoti.
 straipsnis. Mokesčių policijos departamentas prie Vidaus reikalų ministerijos
 Iki atskiro
 įstatymo, reglamentuojančio Mokesčių policijos departamento prie Vidaus reikalų
-ministerijos reorganizavimą, teisinį statusą bei veiklos pagrindus, priėmimo,
-tačiau ne ilgiau kaip iki 2001 m. liepos 1 d., Mokesčių policijos departamentui
-prie Vidaus reikalų ministerijos vadovauja vyriausiasis mokesčių policijos
-komisaras. Mokesčių policijos departamento prie Vidaus reikalų ministerijos bei
-šio departamento padalinių pareigūnai iki atskiro įstatymo, reglamentuojančio
-Mokesčių policijos departamento prie Vidaus reikalų ministerijos
-reorganizavimą, teisinį statusą bei veiklos pagrindus, priėmimo, tačiau ne
-ilgiau kaip iki 2001 m. liepos 1 d., turi visas policijos pareigūnų pareigas
-bei teises, nustatytas Lietuvos Respublikos policijos veiklos įstatyme.
+ministerijos reorganizavimą, teisinį statusą bei veiklos pagrindus,
+įsigaliojimo, tačiau ne ilgiau kaip iki 2002 m. sausio 1 d., Mokesčių policijos
+departamentui prie Vidaus reikalų ministerijos vadovauja šio departamento
+vyriausiasis komisaras. Mokesčių policijos departamento prie Vidaus
+reikalų ministerijos bei šio departamento padalinių pareigūnai iki atskiro
+įstatymo, reglamentuojančio Mokesčių policijos departamento prie Vidaus reikalų
+ministerijos reorganizavimą, teisinį statusą bei veiklos pagrindus, įsigaliojimo,
+tačiau ne ilgiau kaip iki 2002 m. sausio 1 d., turi visas policijos pareigūnų
+pareigas ir teises, nustatytas Lietuvos Respublikos policijos veiklos įstatyme.
 Įstatymas
 papildytas straipsniu:
 Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
 109-3478 (2000 12 22)
+Nr. IX-393, 2001-06-26, Žin., 2001, Nr.
+60-2139 (2001-07-11)
  
  
             9 straipsnis. Neteko galios.
@@ -181,8 +183,7 @@ Nr.90-2777 (00.10.27)
 Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
 109-3478 (2000 12 22)
  
-            13 straipsnis. Neteko
-galios.
+            13 straipsnis. Neteko galios.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -274,8 +275,8 @@ Specialiųjų tyrimų tarnybos uždaviniai
 renka, analizuoja, klasifikuoja, o jeigu reikia, perduoda vidaus reikalų
 sistemos padaliniams ir suinteresuotoms tarnyboms operatyvinę ir kitą
 informaciją apie nusikalstamus susivienijimus (organizuotas grupes), jų
-organizatorius bei narius, taip pat rengiančius ar padariusius nusikaltimus valstybės
-tarnybai ar susijusius su nusikalstamo susivienijimo veikla valstybės
+organizatorius bei narius, taip pat rengiančius ar padariusius nusikaltimus
+valstybės tarnybai ar susijusius su nusikalstamo susivienijimo veikla valstybės
 pareigūnus bei organizuoja priemones šiai informacijai realizuoti, tiria
 nusikalstamų susivienijimų (organizuotų grupių) narių, asmenų, susijusių su
 nusikalstamo susivienijimo veikla, padarytus nusikaltimus, taip pat
@@ -288,8 +289,7 @@ VIII-356,
 97.07.01, Žin., 1997, Nr.69-1734 (97.07.23)
  
  
-            17 straipsnis. Neteko
-galios.
+            17 straipsnis. Neteko galios.
 Straipsnio
 pakeitimai:
 Nr. VIII-2048, 00.10.17, Žin., 2000,
@@ -302,7 +302,8 @@ pakeitimai:
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
  
-            19 straipsnis. Neteko galios.
+            19 straipsnis. Neteko
+galios.
 Straipsnio
 pakeitimai:
 Nr. VIII-2048, 00.10.17, Žin., 2000,
@@ -379,15 +380,15 @@ asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka
 policijos pareigūno pareigoms. 
 Į tarnybą
 policijoje savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų
-mokantys valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal
-išsilavinimą, asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos
-būklę tinka policijos pareigūno pareigoms.
+mokantys valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą,
+asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka
+policijos pareigūno pareigoms.
             Pirmą kartą priimtiems į
 tarnybą Lietuvos Respublikos policijoje ir neturintiems specialiojo ar aukštojo
 išsilavinimo piliečiams suteikiamas pirmasis policininko stažuotojo pareiginis
 laipsnis ir nustatomas l metų stažuotės terminas.
-            Policijos pareigūnai negali būti
-politinių partijų ar kitų politinių organizacijų nariais.
+            Policijos pareigūnai negali
+būti politinių partijų ar kitų politinių organizacijų nariais.
             Tarnyba policijoje tvarkoma
 statutinės drausmės pagrindais.
             Tarnybos policijoje sąlygas
@@ -543,8 +544,8 @@ perkvalifikavimo kursai.
  
  
 IV SKIRSNIS.
-POLICIJOS PAREIGŪNŲ
-TEISĖS, PAREIGOS, ATSAKOMYBĖ
+POLICIJOS
+PAREIGŪNŲ TEISĖS, PAREIGOS, ATSAKOMYBĖ
  
             33 straipsnis. Neteko
 galios.
@@ -713,8 +714,8 @@ Už tai jiems papildomai apmokama šio įstatymo 45 straipsnyje numatyta tvarka.
             Nustatoma tokia kasmetinių
 atostogų trukmė policijos pareigūnams, ištarnavusiems policijoje (vidaus
 reikalų sistemoje):
-            iki 10 metų - 30
-kalendorinių dienų;
+            iki 10 metų - 30 kalendorinių
+dienų;
             nuo 10 iki 15 metų - 35
 kalendorinės dienos;
             nuo 15 iki 20 metų - 40
@@ -830,7 +831,8 @@ I-601,
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
  
-            50 straipsnis. Neteko galios.
+            50 straipsnis. Neteko
+galios.
 Straipsnio
 pakeitimai:
 Nr.
@@ -948,13 +950,19 @@ PAPILDYMO 8(1) STRAIPSNIU ĮSTATYMAS
  
 9.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2048, 00.10.17, Žin., 2000,
-Nr.90-2777 (00.10.27)
+Nr. VIII-2048,
+00.10.17, Žin., 2000, Nr.90-2777 (00.10.27)
 POLICIJOS VEIKLOS ĮSTATYMAS
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-393, 2001-06-26, Žin., 2001, Nr.
+60-2139 (2001-07-11)
+POLICIJOS ĮSTATYMO 8(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000 12 22)
-                  autrap@lrs.lt
+Redagavo: Aušra Petraitienė (2001-07-12)
+                  aupetr@lrs.lt
 
