@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
+Suvestinė redakcija nuo 1995-05-03 iki 1996-07-04
+ 
+Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
+ 
 LIETUVOS RESPUBLIKOS VALSTYBĖS IR SAVIVALDYBĖS ĮMONIŲ Į S T A T Y M A S
  
 1994 m. gruodžio 21 d. Nr. I-722
@@ -1013,7 +1017,10 @@ BAIGIAMOSIOS NUOSTATOS
 22 straipsnis
 
 
-1. Valstybinės įmonės, kurios įrašytos į Lietuvos Respublikos Seimo patvirtintą įmonių, kurių nenumatoma iki 2000 metų nei akcionuoti, nei privatizuoti, sąrašą, turi pataisyti savo įstatus pagal šį įstatymą ir įregistruoti juos per 3 mėnesius nuo šio įstatymo įsigaliojimo Įmonių rejestro įstatymo nustatyta tvarka. Šių įmonių įstatai iki jų perregistravimo galioja tiek, kiek jie neprieštarauja šiam įstatymui.
+1. Valstybinės įmonės, kurios įrašytos į Lietuvos Respublikos Seimo patvirtintą įmonių, kurių nenumatoma iki 2000 metų nei akcionuoti, nei privatizuoti, sąrašą, turi pataisyti savo įstatus pagal šį įstatymą ir įregistruoti juos per 6 mėnesius nuo šio įstatymo įsigaliojimo Įmonių rejestro įstatymo nustatyta tvarka. Šių įmonių įstatai iki jų perregistravimo galioja tiek, kiek jie neprieštarauja šiam įstatymui.
+Straipsnio dalies pakeitimai:
+Nr. I-866, 1995-04-27, Žin., 1995, Nr. 36-888 (1995-05-03), i. k. 0951010ISTA000I-866
+ 
 
 
 
@@ -1044,3 +1051,13 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-866, 1995-04-27, Žin., 1995, Nr. 36-888 (1995-05-03), i. k. 0951010ISTA000I-866
+Dėl Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo
