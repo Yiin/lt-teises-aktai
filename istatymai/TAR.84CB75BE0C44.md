@@ -13,9 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.84CB75BE0C44"
 
 # Lietuvos Respublikos juridinių asmenų pelno mokesčio įstatymas
 
-@D1=19900731;D2=19960328;D3=19960422
+@D1=19900731;D2=19960430;D3=19960603
 
-@D1=19900731;D2=19960328;D3=19960422
+@D1=19900731;D2=19960430;D3=19960603
 Pakeitimai:
  1.
  Parlamentas,
@@ -142,6 +142,20 @@ RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 6 IR
  8 STRAIPSNIŲ
 PAPILDYMO ĮSTATYMAS
  
+ 14.
+ Parlamentas,
+Įstatymas
+{#96C]AA1310 ;} Nr.
+1-1310, 96.04.30, Žin., 1996, Nr. 46-1105 (96.05.17)
+ LIETUVOS
+RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 14,
+ 15, 16 STRAIPSNIŲ
+PAKEITIMO ĮSTATYMAS
+ 
+  Šis įstatymas
+įsigalioja nuo 1996 metų liepos 1 dienos.
+ 
+ 
  *** Pabaiga ***
  
                       
@@ -197,8 +211,8 @@ investuotą turtą.
      Į
 nerealizacines  pajamas,  apskaičiuojant  apmokestinamąjį
 pelną, neįskaitoma:
-     1) gauti dividendai
-ir palūkanos už obligacijas;
+     1) gauti
+dividendai ir palūkanos už obligacijas;
      2) pajininkų iš
 kitų įmonių gauta pelno dalis;
      3)   iš  
@@ -297,8 +311,8 @@ muitinės deklaracijomis.
 straipsnis.   Nustatant  apmokestinamąjį   pelną  iš    4
 straipsnyje
 nustatyta tvarka apskaičiuoto pelno atimamos Lietuvos
-Respublikos 
-labdaros   ir  paramos  įstatymo  numatytų  labdaros
+Respublikos  labdaros  
+ir  paramos  įstatymo  numatytų  labdaros
 organizacijų ir
 fondų, invalidų draugijų ir sąjungų bei jų įmonių
 visos  faktiškai  
@@ -321,7 +335,7 @@ išlaidos,  skirtos  labdarai  ir  paramai,  bet  ne
 daugiau kaip  40
 procentų  apmokestinamojo pelno.  Lėšos, skirtos
 labdarai ir 
-paramai, viršijančios  40  procentų  apmokestinamojo
+paramai, viršijančios  40  procentų  apmokestinamojo
 pelno,
 apmokestinamos bendra tvarka.
      Šiame
@@ -330,8 +344,8 @@ paramai, 
 teikiamai   užsienio  valstybių  juridiniams  asmenims,
 išskyrus atvejus, 
 kai  tokia  labdara  ar  parama  teikiama  per
-tarptautines labdaros 
-organizacijas arba  lietuvių bendruomenes,
+tarptautines
+labdaros  organizacijas arba  lietuvių bendruomenes,
 esančias užsienyje.
      Laisvųjų  
 ekonominių  zonų įmonių ir zonų valdymo bendrovių
@@ -350,7 +364,7 @@ Vyriausybe.
                      
 III. Mokesčio tarifai
  
-    7 straipsnis.
+    7 straipsnis.
 Mokesčio tarifai:
     1)  10%   
 apmokestinamojo  pelno,   panaudoto   kapitalinėms
@@ -434,7 +448,7 @@ dirbančiųjų sumažinimas
 40-50% 75%
                  
 30-40% 50%
-                  20-30%
+                  20-30%
 25%
      Kategorijas 
 asmenų,  kuriems  taikomas  riboto   darbingumo
@@ -462,8 +476,8 @@ mokėtojas  pagal Lietuvos  Respublikos įstatymus turi
 teisę  į  kelias 
 mokesčio  lengvatas,  teikiama  tik  didžiausia
 lengvata.
-      Lietuvos  Respublikos  
-įstatymai  gali  numatyti  atvejus,
+      Lietuvos 
+Respublikos   įstatymai  gali  numatyti  atvejus,
 kuriems  esant  
 mokesčių  mokėtojai   gali  būti   atleisti  nuo
 nesumokėtų
@@ -482,16 +496,16 @@ Lietuvos  Respublikos  biudžetinės   sandaros
 biudžetą.
      Juridiniai 
 asmenys,  turintys  nesavarankiškų  struktūrinių
-padalinių  kitų 
-savivaldybių  teritorijose,  apskaičiuoto  pelno
+padalinių  kitų  savivaldybių 
+teritorijose,  apskaičiuoto  pelno
 mokesčio dalį, 
 priklausančią sumokėti  į savivaldybės  biudžetą,
 paskirsto   tarp  
 savivaldybių   proporcingai   jų  teritorijose
 esančių  
 nesavarankiškų   struktūrinių   padalinių   dirbančiųjų
-skaičiui  atitinkamo
- periodo  pabaigoje.
+skaičiui 
+atitinkamo  periodo  pabaigoje.
  
      12 
 straipsnis.   Per  metus  mokami  avansiniai  mokėjimai,
@@ -508,8 +522,8 @@ apskaičiuotas  kaip  santykis  už  praėjusį  ketvirtį
 apskaičiuotos pelno 
 mokesčio sumos  su to  ketvirčio realizavimo
 pajamomis.
-     Išėmimo  koeficientas 
-nustatomas  pagal  mokėtojo  pateiktą
+     Išėmimo 
+koeficientas  nustatomas  pagal  mokėtojo  pateiktą
 apskaičiavimą,
 suderinus  tai su  atitinkama valstybine  mokesčių
 inspekcija Finansų
@@ -553,88 +567,72 @@ atskaitomybę  ir  pelno  mokesčio  apyskaitą. Mokesčio
 apyskaitos  formą 
 ir  jos   užpildymo  tvarką  nustato   Finansų
 ministerija.
-     Jei mokesčio
-apyskaita rodo, kad per apyskaitinį  laikotarpį
-sumokėta  mažiau 
-negu  priklauso,  mokėtojas  per  10  dienų  po
-mokesčio 
-apskaičiavimui  pateikti   nustatyto  termino   privalo
-papildomai 
-apskaičiuotą  sumą  sumokėti  į  Lietuvos Respublikos
-biudžetinės   
-sandaros    įstatymo    numatytą    biudžetą,    o
-permokamokėtojo 
-pageidavimu  grąžinama  arba užskaitoma eilinėms
-įmokoms į biudžetą
-padengti.
+     Jei   
+mokesčio   apyskaita   rodo,   kad   per  apyskaitinį
+laikotarpį 
+mokesčio  sumokėta  mažiau  negu priklauso, mokėtojas
+per  10  dienų  po 
+mokesčio  apskaičiavimui  pateikti  nustatyto
+termino  privalo
+papildomai apskaičiuotą sumą sumokėti į Lietuvos
+Respublikos
+biudžetinės sandaros įstatymo numatytą biudžetą.
+ 
  
             VI.
 Atsakomybė už teisingą pelno mokesčio
                      
 apskaičiavimą ir sumokėjimą
  
-     15 straipsnis.
-Mokėtojas atsako  už tai, kad pelno  mokestis
+     15 
+straipsnis.  Mokėtojas atsako už tai, kad pelno mokestis
 būtų teisingai
 apskaičiuotas.
      Jeigu    
 mokėtojų     pateiktose    mokesčių    apyskaitose
 apmokestinamasis 
-pelnas  ir  pelno  mokestis  yra  sumažinti,  į
-Lietuvos  Respublikos 
-biudžetinės  sandaros  įstatymo  nustatytą
-biudžetą  
-išieškoma    nuo   sumažinto   apmokestinamojo   pelno
-apskaičiuota pelno
-mokesčio suma ir dvigubo jos dydžio bauda.
-     Nuo 
-sumažinto   apmokestinamojo  pelno  apskaičiuota  pelno
-mokesčio suma  ir
-bauda  sumokama per penkias dienas po pažeidimo
-nustatymo.
-     Lietuvos 
-Respublikos  Vyriausybė, atsižvelgusi  į  padarytų
-pažeidimų
-priežastis,  gali savo  nutarimu kai kuriems mokėtojams
-pratęsti šiame 
-straipsnyje nustatytą  baudų mokėjimo  į biudžetą
-terminą.
+pelnas  ir  pelno  mokestis  yra sumažinti, tai
+sumažinta  mokesčio 
+suma ir bauda išieškoma Lietuvos Respublikos
+mokesčių
+administravimo įstatymo nustatyta tvarka.
+ 
  
      16 
 straipsnis.  Mokėtojai  atsako,  kad pelno mokestis būtų
-sumokėtas  laiku.  
-Mokesčio  laiku  nesumokėjus,  už   kiekvieną
-pavėluotą  dieną 
-imami  0,3%  delspinigiai.  Laiku   nesumokėtas
-įmokas  į  biudžetą 
-valstybinė  mokesčių  inspekcija  išieško ne
-ginčo tvarka.
-     Lietuvos
+sumokėtas  laiku. 
+Mokesčio laiku nesumokėjus, imami delspinigiai
+Lietuvos 
+Respublikos  mokesčių administravimo įstatymo nustatyta
+tvarka.
+     Lietuvos 
 Respublikos Vyriausybė, atsižvelgusi į priežastis,
-dėl kurių  mokėtojas
-laiku  neatsiskaitė su  biudžetu,  gali  kai
-kuriems mokėtojams 
-atidėti priskaičiuotų  delspinigių mokėjimo į
-biudžetą    terminą.    
-Atidėjimo    laikotarpiu    delspinigiai
-neskaičiuojami. 
-Jeigu   mokėtojas   iki   delspinigių   mokėjimo
-atidėjimo
-paskutinės  dienos nesumoka  priskaičiuotų delspinigių,
-tai delspinigiai 
-priskaičiuojami ir  sumokami į  biudžetą ir  už
-visą atidėjimo 
-laikotarpį. Mokėjimo  atidėjimo  pradžia  laikoma
-diena,  kurią  
+dėl  kurių 
+mokėtojas  laiku  neatsiskaitė  su biudžetu, gali kai
+kuriems  mokėtojams 
+atidėti priskaičiuotų delspinigių mokėjimo į
+biudžetą    
+terminą.    Atidėjimo    laikotarpiu    delspinigiai
+neskaičiuojami.   Jeigu  
+mokėtojas   iki   delspinigių  mokėjimo
+atidėjimo 
+paskutinės  dienos nesumoka priskaičiuotų delspinigių,
+tai  delspinigiai 
+priskaičiuojami  ir  sumokami į biudžetą ir už
+visą  atidėjimo 
+laikotarpį.  Mokėjimo  atidėjimo pradžia laikoma
+diena,   kurią 
 įsigaliojo  priimtas  Vyriausybės  nutarimas  dėl
 priskaičiuotų
 delspinigių atidėjimo termino nustatymo.
-     Mokėjimo
-atidėjimo terminas taikomas delspinigių sumai, kuri
-buvo priskaičiuota 
-iki Vyriausybės  nutarimo  dėl  priskaičiuotų
-delspinigių
-atidėjimo termino nustatymo įsigaliojimo dienos.
+     Mokėjimo 
+atidėjimo  terminas  taikomas  delspinigių  sumai,
+kuri    buvo  
+priskaičiuota   iki   Vyriausybės   nutarimo   dėl
+priskaičiuotų    delspinigių   
+atidėjimo    termino    nustatymo
+įsigaliojimo dienos.
+ 
  
      17 
 straipsnis.  Mokėtojo  pareigūnai,  pateikę  neteisingas
@@ -662,7 +660,7 @@ apmokestinamą užsienyje, ir nėra sutarties dvigubam
 apmokestinimui
 išvengti,  Lietuvos Respublikos  Vyriausybės  arba
 jos pavedimu 
-Finansų ministerijos  nustatyta  tvarka  galima  iš
+Finansų ministerijos  nustatyta  tvarka  galima  iš
 tokio juridinio 
 asmens apskaičiuoto  pelno mokesčio atimti sumą,
 lygią užsienio 
@@ -683,6 +681,10 @@ V. LANDSBERGIS
 Vilnius, 1990 m.
 liepos 31 d.
      Nr. I-442
+ 
+ 
+ 
+ 
  
 _
 
