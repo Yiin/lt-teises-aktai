@@ -321,8 +321,7 @@ Nr. IX-681,
 2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
  
 11 straipsnis. Apskrities viršininko
-įgaliojimai gamtos išteklių naudojimo ir aplinkos 
-apsaugos klausimais 
+įgaliojimai gamtos išteklių naudojimo ir aplinkos apsaugos klausimais 
 Apskrities viršininkas:
 1) organizuoja veiklą apskričiai priskirtose saugomose
 teritorijose ir dalyvauja valdant kitas valstybės saugomas teritorijas
@@ -377,13 +376,17 @@ darbus;
 reorganizuoja, likviduoja valstybės įmones, valdo apskričių viršininkams
 perduotų įmonių valstybei priklausančias akcijas;
 8) Vyriausybės
-įgaliotos institucijos nustatyta tvarka atstovauja valstybei akcinėse bendrovėse
-ar uždarosiose akcinėse bendrovėse, kuriose valstybei priklausančių akcijų
-valdytojas yra Valstybės turto fondas ar kita valstybės institucija;
+įgaliotos institucijos nustatyta tvarka atstovauja valstybei akcinėse
+bendrovėse ar uždarosiose akcinėse bendrovėse, kuriose valstybei priklausančių
+akcijų valdytojas yra Valstybės turto fondas ar kita valstybės institucija;
 9) teikia Vyriausybei Apskrities administracinių ginčų
 komisijos narių kandidatūras, tarp jų - ir pirmininko kandidatūrą;
 10) Regioninės
-plėtros įstatymo nustatyta tvarka vykdo regionų plėtros institucijos funkcijas.
+plėtros įstatymo nustatyta tvarka vykdo regionų plėtros institucijos funkcijas;
+11) kartu su
+savivaldybėmis organizuoja apskrities informacinės visuomenės plėtros
+programos, kurią tvirtina regiono plėtros taryba, rengimą ir koordinuoja jos
+įgyvendinimą.
             Apskrities
 viršininkas atlieka ir kitus Lietuvos Respublikos įstatymuose ir Vyriausybės
 nutarimuose numatytus įgaliojimus.
@@ -402,6 +405,9 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 92-2886 (2000 10 31)
 Nr. IX-681,
 2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
+Nr.
+IX-1413,
+2003-04-01, Žin., 2003, Nr. 38-1659 (2003-04-24), įsigalioja nuo 2003-07-01
  
             13
 straipsnis. Apskrities viršininko teisės
@@ -419,8 +425,8 @@ apskrities viršininko kompetencija susijusius klausimus, taip pat apskrityje
 esančių ministerijų ir kitų Vyriausybės institucijų struktūrinių padalinių bei
 savivaldybių institucijų posėdžiuose;
             4)
-prireikus kviesti apskrityje esančių ministerijų ir kitų Vyriausybės
-institucijų struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkauti;
+prireikus kviesti apskrityje esančių ministerijų ir kitų Vyriausybės institucijų
+struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkauti;
 5) gauti iš kitų
 valstybės valdymo ir apskrities savivaldybių institucijų, įmonių, įstaigų ir
 organizacijų informaciją savo kompetencijos klausimais;
@@ -503,11 +509,13 @@ viršininkui apie savo veiklą apskrityje.
             Apskrities
 viršininkas praneša atitinkamai Lietuvos Respublikos Seimui ar Vyriausybei apie
 valstybės valdymo institucijų padalinių apskrityje veiklą ir sprendimus, jei
-jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba pažeidžia
-piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina ar
-nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar aukštesnioji
-valstybės valdymo institucija, galutinį sprendimą priima Vyriausybė.
-Straipsnio žymėjimas pakeistas:
+jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba
+pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina
+ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar
+aukštesnioji valstybės valdymo institucija, galutinį sprendimą priima
+Vyriausybė.
+Straipsnio žymėjimas
+pakeistas:
 Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 Straipsnio pakeitimai:
@@ -788,12 +796,22 @@ Iki
 šio Įstatymo įsigaliojimo apskričių viršininkai negali pertvarkyti rajonų žemės
 ūkio skyrių ir mažinti šiems skyriams asignavimus.
  
+17.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1413,
+2003-04-01, Žin., 2003, Nr. 38-1659 (2003-04-24)
+APSKRITIES
+VALDYMO ĮSTATYMO 12 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+Įsigalioja
+nuo 2003-07-01.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-01-22)
+Aušra Bodin (2003-04-24)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
 
