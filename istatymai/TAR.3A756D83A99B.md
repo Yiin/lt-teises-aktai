@@ -23,7 +23,6 @@ paskelbtas: Žin., 1995, Nr.104-2322
 Neoficialus
 įstatymo tekstas
  
- 
 LIETUVOS
 RESPUBLIKOS
 BIUDŽETINIŲ
@@ -31,7 +30,7 @@ BIUDŽETINIŲ
 ĮSTATYMAS
  
 1995 m. gruodžio
-5 d. Nr.I-1113
+5 d. Nr. I-1113
 Vilnius 
  
  
@@ -68,7 +67,6 @@ Nr.
 VIII-322,
 97.06.26, Žin., 1997, Nr.66-1601 (97.07.11)
  
- 
 4
 straipsnis. Biudžetinių įstaigų reorganizavimas ir likvidavimas
 1.
@@ -103,7 +101,6 @@ Vyriausybės nustatyta tvarka steigėjo sprendimu perduodamas steigiamai viešaj
 Straipsnio pakeitimai:
 Nr. VIII-1919, 00.09.12, Žin., 2000,
 Nr.83-2511 (00.10.04)
- 
  
             5 straipsnis. Biudžetinių
 įstaigų nuostatai
@@ -151,6 +148,9 @@ paskirstyti jiems skirtas biudžeto lėšas pavaldžioms įstaigoms.
             Asignavimų valdytojai
 organizuoja socialinių ekonominių programų finansavimą ir tvirtina jų išlaidų
 apmokėjimo įkainius, normas bei sąlygas.
+ 
+3
+dalies redakcija iki 2005 m. sausio 1 d.:
             Biudžetinių įstaigų
 asignavimų valdytojai yra atsakingi už teisingą pavaldžių įstaigų išlaidų
 sąmatų bei nebiudžetinių lėšų sąmatų sudarymą. Jie turi užtikrinti, kad
@@ -158,12 +158,22 @@ biudžetinės įstaigos laiku išmokėtų darbuotojams apskaičiuotus atlyginimu
 laiku atsiskaitytų su biudžetu ir valstybinio socialinio draudimo fondo
 įstaigomis, taip pat už įstaigose sunaudotą visų rūšių energiją ir kitas
 paslaugas.
+3
+dalies redakcija nuo 2005 m. sausio 1 d.:
+Biudžetinių
+įstaigų asignavimų valdytojai yra atsakingi už teisingą pavaldžių įstaigų
+išlaidų sąmatų bei nebiudžetinių lėšų sąmatų sudarymą. Jie turi užtikrinti, kad
+biudžetinės įstaigos laiku išmokėtų darbuotojams apskaičiuotus atlyginimus,
+laiku atsiskaitytų su biudžetu ir valstybinio socialinio draudimo fondo
+administravimo įstaigomis, taip pat už įstaigose sunaudotą visų rūšių energiją
+ir kitas paslaugas.
+ 
             Valstybės biudžeto
 asignavimų valdytojai turi:
             rengti pavaldžioms įstaigoms
-darbų, paslaugų, valdymo ir aptarnaujančio personalo etatų normatyvus, materialinių
-vertybių atsargų, inventoriaus, mitybos, medikamentų finansinius normatyvus ir,
-suderinę su Finansų ministerija, juos tvirtinti bei taikyti;
+darbų, paslaugų, valdymo ir aptarnaujančio personalo etatų normatyvus,
+materialinių vertybių atsargų, inventoriaus, mitybos, medikamentų finansinius
+normatyvus ir, suderinę su Finansų ministerija, juos tvirtinti bei taikyti;
             prižiūrėti apskaitos
 tvarkymą, kontroliuoti įsiskolinimus bei imtis visų priemonių jiems išvengti ir
 analizuoti pavaldžių įstaigų apyskaitas;
@@ -181,7 +191,8 @@ pakeitimai:
 Nr.
 VIII-127,
 97.02.25, Žin., 1997, Nr.20-449 (97.03.07) 
- 
+Nr. IX-2536,
+2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
  
             9 straipsnis. Biudžetinių
 įstaigų išlaidos
@@ -209,16 +220,14 @@ savivaldybių biudžetų, - savivaldybių vykdomosios institucijos.
  
             12 straipsnis. Materialinių
 vertybių nurašymas ir realizavimas
-            Biudžetinės įstaigos
-susidėvėjusias ar joms nereikalingas materialines vertybes nurašo ar realizuoja
-ir gautas pajamas naudoja Lietuvos Respublikos įstatymų ar Vyriausybės
-nustatyta tvarka.
+            Biudžetinės įstaigos susidėvėjusias
+ar joms nereikalingas materialines vertybes nurašo ar realizuoja ir gautas
+pajamas naudoja Lietuvos Respublikos įstatymų ar Vyriausybės nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
 VIII-639,
 98.02.24, Žin., 1998, Nr.25-635 (98.03.13)
- 
  
             13 straipsnis. Biudžetinių
 įstaigų registravimas
@@ -239,8 +248,7 @@ Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS
 PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
 
-___________
- 
+________________
 Pakeitimai:
  
 1.
@@ -278,7 +286,23 @@ Nr.83-2511 (00.10.04)
 BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2536,
+2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
+VALSTYBĖS
+TARNYBOS ĮSTATYMO, VIDAUS TARNYBOS STATUTO, BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO,
+DIPLOMATINĖS TARNYBOS ĮSTATYMO, KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO
+TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
+***
+Pabaiga ***
  
-Redagavo: Aušrinė Trapinskienė (2000.10.04)
+Redagavo:
+Aušrinė Trapinskienė (2004-12-06)
+                 
+autrap@lrs.lt
