@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B810DCE56C74"
 
 # Lietuvos Respublikos laukinių augalų ir grybų įstatymas
 
-Suvestinė redakcija nuo 2004-01-01 iki 2004-02-27
+Suvestinė redakcija nuo 2004-02-28 iki 2021-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1944, i. k. 0991010ISTAIII-1226
  
@@ -360,7 +360,7 @@ Laukinės augalijos ištekliai yra Lietuvos Respublikos gamtos išteklių sudėt
 
 
 
-13 straipsnis.       Žemės, miškų, vandens telkinių savininkų, valdytojų ir laukinės augalijos išteklių naudotojų pareigos
+13 straipsnis. Žemės, miškų, vandens telkinių savininkų, valdytojų ir laukinės augalijos išteklių naudotojų pareigos
 
 
 Žemės, miškų, vandens telkinių savininkai, valdytojai ir laukinės augalijos išteklių naudotojai privalo:
@@ -386,7 +386,7 @@ Laukinės augalijos ištekliai yra Lietuvos Respublikos gamtos išteklių sudėt
 
 
 
-14 straipsnis.       Laukinių augalų, grybų naudojimas mokslo, kultūros, švietimo, auklėjimo ir estetikos tikslams
+14 straipsnis. Laukinių augalų, grybų naudojimas mokslo, kultūros, švietimo, auklėjimo ir estetikos tikslams
 
 
 Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisių, turi teisę naudoti laukinius augalus ir grybus mokslo, kultūros, švietimo, auklėjimo ir estetikos tikslams, botaninėms ir mikologinėms kolekcijoms sudaryti ar pildyti Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
@@ -442,7 +442,9 @@ Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisi
 
 
 KETVIRTASIS SKIRSNIS
-LAUKINĖS AUGALIJOS IŠTEKLIŲ APSKAITA IR LAUKINĖS AUGALIJOS VALSTYBĖS REGISTRAS
+LAUKINĖS AUGALIJOS IŠTEKLIŲ APSKAITA IR DUOMENŲ APIE LAUKINĘ AUGALIJĄ TVARKYMAS
+Pakeistas skirsnio pavadinimas:
+Nr. IX-2028, 2004-02-17, Žin., 2004, Nr. 32-1012 (2004-02-28), i. k. 1041010ISTA0IX-2028
  
 
 
@@ -462,23 +464,20 @@ LAUKINĖS AUGALIJOS IŠTEKLIŲ APSKAITA IR LAUKINĖS AUGALIJOS VALSTYBĖS REGIST
 
 
 
-18 straipsnis. Laukinės augalijos valstybės registras
+18 straipsnis. Duomenų apie laukinę augaliją tvarkymas
 
 
-1. Laukinės augalijos apsaugai ir jos išteklių racionaliam naudojimui organizuoti yra steigiamas Laukinės augalijos valstybės registras (toliau – Registras).
-
-
-
-
-2. Registre kaupiami duomenys apie atskirų laukinių augalų ir grybų rūšis, augalų bendrijas, mokslo, kultūros, švietimo, mokymo ir auklėjimo ar estetinę vertę turinčias botanines, mikologines kolekcijas, laukinės augalijos išteklių plotus, išteklių kiekį, kokybę, taip pat kiti duomenys, reikalingi laukinės augalijos veiksmingai apsaugai, jos atkūrimui, augalijos išteklių racionaliam naudojimui užtikrinti.
+1. Laukinės augalijos ir jos išteklių apskaitai bei racionaliam naudojimui užtikrinti Aplinkos ministerija organizuoja duomenų apie laukinę augaliją tvarkymą.
 
 
 
 
-3. Registrą tvarkančias įstaigas, jo duomenų naudojimo tvarką, apsaugą, Registro finansavimą nustato Vyriausybė arba jos įgaliota institucija.
+2. Aplinkos ministerijos nustatyta tvarka yra kaupiami duomenys apie atskirų laukinių augalų ir grybų rūšių paplitimą, laukinės augalijos išteklių plotus, kiekį, kokybę, naudojimą ir kiti su laukine augalija bei jos ištekliais susiję duomenys.
+
+
+Straipsnio pakeitimai:
+Nr. IX-2028, 2004-02-17, Žin., 2004, Nr. 32-1012 (2004-02-28), i. k. 1041010ISTA0IX-2028
  
-
-
 
 
 
@@ -547,3 +546,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1616, 2003-06-10, Žin., 2003, Nr. 61-2769 (2003-06-27), i. k. 1031010ISTA0IX-1616
 Lietuvos Respublikos laukinės augalijos įstatymo 8 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2028, 2004-02-17, Žin., 2004, Nr. 32-1012 (2004-02-28), i. k. 1041010ISTA0IX-2028
+Lietuvos Respublikos laukinės augalijos įstatymo ketvirtojo skirsnio pavadinimo ir 18 straipsnio pakeitimo įstatymas
