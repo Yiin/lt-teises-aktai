@@ -13,18 +13,28 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5D30795710C9"
 
 # Lietuvos Respublikos paveldimo ar dovanojamo turto mokesčio įstatymas
 
-@D1=19950613;D2=19960430;D3=19960603
+@D1=19950613;D2=19960620;D3=19960709
 
-@D1=19950613;D2=19960430;D3=19960603
+@D1=19950613;D2=19960620;D3=19960709
 Pakeitimai:
  1.
  Parlamentas,
 Įstatymas
-{#96C]AA1320 ;} Nr.
-1-1320, 96.04.30, Žin., 1996, Nr. 46-1115 (96.05.17)
+{#19960430AA1320 ;}
+Nr. 1-1320, 96.04.30, Žin., 1996, Nr. 46-1115 (96.05.17)
  LIETUVOS
 RESPUBLIKOS PAVELDIMO AR DOVANOJAMO TURTO MOKESČIO
  ĮSTATYMO 8
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+ 2.
+ Parlamentas,
+Įstatymas
+{#19960620AA1394 ;}
+Nr. 1-1394, 96.06.20, Žin., 1996, Nr. 62-1462 (96.07.02)
+ LIETUVOS
+RESPUBLIKOS PAVELDIMO AR DOVANOJAMO TURTO MOKESČIO
+ ĮSTATYMO 11
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
  *** Pabaiga ***
@@ -40,8 +50,8 @@ TURTO MOKESČIO
  
                 
 1995 m. birželio 13 d. Nr.I-935
-                      
-      Vilnius
+                            
+Vilnius
  
  
      1 straipsnis.
@@ -83,8 +93,8 @@ Mokesčio objektas
  
      Mokesčio
 objektas  yra šio  įstatymo 2  straipsnyje nurodytų
-fizinių asmenų  paveldimas
-ar  pagal dovanojimo  sutartį įgyjamas
+fizinių asmenų 
+paveldimas ar  pagal dovanojimo  sutartį įgyjamas
 šio   įstatymo   
 1   straipsnyje   įvardytas   kilnojamasis   ir
 nekilnojamasis
@@ -92,8 +102,8 @@ turtas, kuriam nustatyta teisinė registracija arba
 numatyta dovanojimo
 sutarties sudarymo notarinė forma.
  
-     4 straipsnis. Apmokestinimo
-vienetas
+     4 straipsnis.
+Apmokestinimo vienetas
  
      Apmokestinimo
 vienetas  yra paveldimo  ar  dovanojamo  turto
@@ -113,16 +123,16 @@ Paveldimo ar dovanojamo turto įvertinimas
  
      Paveldimo ar 
 dovanojamo  turto  įvertinimas  yra  pagrindas
-apmokestinamajai  vertei  
-nustatyti.  Turto,   kuriam  privaloma
+apmokestinamajai 
+vertei   nustatyti.  Turto,   kuriam  privaloma
 teisinė 
 registracija,   rūšį   įvertina   Lietuvos   Respublikos
 Vyriausybės
 įsteigtos arba įgaliotos valstybės institucijos.
      Turtas
 įvertinamas  remiantis rinkos kainomis pagal Lietuvos
-Respublikos Vyriausybės
-nustatytą metodiką.
+Respublikos
+Vyriausybės nustatytą metodiką.
  
      6 straipsnis.
 Mokesčio tarifai
@@ -156,7 +166,7 @@ litų, taikomi šie
 tarifai:
      1) paveldint
 turtą:
-     vaikams
+     vaikams
 (įvaikiams), tėvams (įtėviams)       2 procentai
      senoliams,
 vaikaičiams, broliams, seserims   4 procentai
@@ -165,7 +175,7 @@ asmenims                             20 procentų
      2) dovanojant
 turtą:
      vaikams
-(įvaikiams), tėvams (įtėviams)       3 procentai
+(įvaikiams), tėvams (įtėviams)       3 procentai
      senoliams,
 vaikaičiams, broliams, seserims   6 procentai
      kitiems
@@ -210,7 +220,7 @@ mirties, paveldimas turtas.
 paveldėtą turtą  bei
 asmenys,  kurie buvo  palikėjo ar dovanotojo
 išlaikomi ne  mažiau
-kaip  trejus metus  ir  neturi  savarankiškų
+kaip  trejus metus  ir  neturi  savarankiškų
 pajamų, moka  50
 procentų  mažesnį paveldimo  ar dovanojamo turto
 mokestį.
@@ -263,7 +273,7 @@ savivaldybės, 
 kurios  teritorijoje  yra  nekilnojamasis  turtas,
 biudžetą;
      paveldint  
-ar   pagal   dovanojimo   sutartį   įgyjant  tik
+ar   pagal   dovanojimo   sutartį   įgyjant  tik
 kilnojamąjį  turtą 
 -  į  savivaldybės, kurios teritorijoje turto
 paveldėjimas ar
@@ -272,8 +282,8 @@ dovanojimas įforminamas, biudžetą.
 sumokėtas arba permokėtas mokesčio sumas išieško
 arba  grąžina
 valstybinė mokesčių inspekcija Lietuvos Respublikos
-mokesčių
-administravimo įstatymo nustatyta tvarka.
+mokesčių administravimo
+įstatymo nustatyta tvarka.
  
 Straipsnio
 pakeitimai:
@@ -304,45 +314,51 @@ nagrinėjami įstatymų nustatyta tvarka.
      11 straipsnis.
 Baigiamosios nuostatos
  
-     Šis įstatymas 
-pradedamas  taikyti  nuo  1996  m.  liepos  1
+     Šis  įstatymas 
+pradedamas  taikyti  nuo  1998  m.  sausio 1
 dienos.
-     Lietuvos Respublikos 
-Vyriausybė, vadovaudamasi šio įstatymo
+     Lietuvos 
+Respublikos Vyriausybė, vadovaudamasi šio įstatymo
 nuostatomis:
-     1) iki  1996
-m.  vasario 1  d. nustato ar įsteigia valstybės
-institucijas 
-turto,   kuriam  privaloma   teisinė  registracija,
+     1)  iki  1997
+m. birželio 1 d. nustato ar įsteigia valstybės
+institucijas  
+turto,   kuriam  privaloma  teisinė  registracija,
 atskiroms rūšims
 įvertinti;
-     2) iki 1996 m.
-balandžio 1 dienos:
-     a) nustato 
-atskirų  turto  rūšių  apmokestinamosios  vertės
-apskaičiavimo
-tvarką  bei turto  įvertinimo pagal  rinkos  kainas
+     2) iki 1997 m.
+liepos 1 dienos:
+     a)  nustato 
+atskirų  turto  rūšių  apmokestinamosios vertės
+apskaičiavimo 
+tvarką  bei  turto  įvertinimo pagal rinkos kainas
 metodiką;
-     b)  
-pateikia    Lietuvos   Respublikos   Seimui   įstatymų,
+     b)   
+pateikia   Lietuvos   Respublikos   Seimui   įstatymų,
 nustatančių
 atsakomybę už šio įstatymo pažeidimus, projektus;
-     c) pateikia
-Lietuvos Respublikos civilinio kodekso pakeitimo
-projektą,
-numatantį,  kad  dovanojimo  sutartys,  kai  dovanojamų
-pinigų suma ir
-vertybinių popierių vertė viršija 30000 litų, turi
-būti tvirtinamos
-notarine tvarka;
-     d)  pateikia  
-Lietuvos   Respublikos   notariato   įstatymo
+     c)   pateikia  
+Lietuvos   Respublikos   civilinio   kodekso
 pakeitimo 
-projektą,   numatantį,  kad   notarų  atlyginimas   už
-dovanojimo sutarčių 
-tvirtinimą ir  paveldėjimo teisės  dokumentų
+projektą,  numatantį,  kad  dovanojimo  sutartys,  kai
+dovanojamų  pinigų 
+suma  ir vertybinių popierių vertė viršija 30
+000 litų, turi būti
+tvirtinamos notarine tvarka;
+     d)   pateikia  
+Lietuvos   Respublikos   notariato  įstatymo
+pakeitimo  
+projektą,   numatantį,   kad  notarų  atlyginimas  už
+dovanojimo 
+sutarčių  tvirtinimą  ir paveldėjimo teisės dokumentų
 išdavimą padengtų
-tik minimalias paslaugos išlaidas.
+tik minimalias paslaugų išlaidas.
+ 
+Straipsnio
+pakeitimai:
+{#19960620AA1394 ;}
+Nr. 1-1394, 96.06.20, Žin., 1996, Nr. 62-1462 (96.07.02)
+ 
  
      Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
