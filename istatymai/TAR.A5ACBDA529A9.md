@@ -1968,29 +1968,32 @@ pajamas neįtraukia, o jo nuosavybėn perleisto turto įsigijimo kaina yra to
 turto įsigijimo kaina, buvusi prieš pat turto perleidimą nuosavybėn turtą
 perdavusiame vienete. 
 3. Šio straipsnio 1 ir 2 dalys netaikomos vienetams,
-kurie nėra pelno mokesčio arba Įstatymo 2 priedėlyje išvardytų mokesčių
-mokėtojai.
+kurie nėra pelno mokesčio arba 1990 m. liepos 23 d. Tarybos direktyvos
+90/434/EB dėl bendros mokesčių sistemos, taikomos įvairių valstybių narių
+įmonių jungimui, skaidymui, turto perleidimui ir keitimuisi akcijomis (toliau –
+Direktyva 90/434/EB) 3 straipsnio c punkte išvardytų mokesčių mokėtojai.
 4. Jei pajamos
 dėl šio Įstatymo 41 straipsnyje nurodytų operacijų yra Lietuvos vienetų, kurie
 yra mokesčio mokėtojai ir jų apmokestinamasis pelnas yra apmokestinamas taikant
 šio Įstatymo 5 straipsnyje nustatytus 15 arba 13 procentų mokesčio tarifus, ir
 užsienio valstybių, kurios yra Europos Sąjungos narės, vienetų, kurių formos
-yra išvardytos šio Įstatymo 2 priedėlyje ir kurie yra šiame priedėlyje
-nustatytų mokesčių mokėtojai, turto ir teisių perleidimo išdava, tai:
-1) jei vieneto dalyviai vieneto reorganizavimo metu
-ir pagal reorganizavimo sąlygas perduoda mainais vieno vieneto akcijas (dalis,
-pajus) į kito vieneto akcijas (dalis, pajus) ir abu vienetai dalyvauja
-reorganizavimo procese, toks turto vertės padidėjimas nelaikomas šių dalyvių
-pajamomis. Tokiais atvejais vieneto dalyvių naujai gautų mainais akcijų (dalių,
-pajų) įsigijimo kaina yra jų įsigijimo kaina, buvusi prieš pat ankstesniems
-dalyviams perduodant mainais akcijas (dalis, pajus);
-2) jei reorganizavimo metu ir pagal reorganizavimo
-sąlygas vienas vienetas perleidžia turtą kitam vienetui ir abu vienetai yra
-reorganizavimo dalyviai, toks turto vertės padidėjimas nelaikomas turtą
-perleidusio vieneto pajamomis. Vienetas, kuris gauna turtą, jokių pajamų, gautų
-iš tokio perdavimo, į savo pajamas neįtraukia, o jo nuosavybėn perleisto turto
-įsigijimo kaina yra to turto įsigijimo kaina, buvusi prieš pat turto perleidimą
-nuosavybėn turtą perdavusiame vienete;
+yra išvardytos Direktyvos 90/434/EB priede ir kurie yra šios direktyvos 3
+straipsnio c punkte nustatytų mokesčių mokėtojai, turto ir teisių perleidimo išdava,
+tai:
+1) jei vieneto
+dalyviai vieneto reorganizavimo metu ir pagal reorganizavimo sąlygas perduoda
+mainais vieno vieneto akcijas (dalis, pajus) į kito vieneto akcijas (dalis,
+pajus) ir abu vienetai dalyvauja reorganizavimo procese, toks turto vertės padidėjimas
+nelaikomas šių dalyvių pajamomis. Tokiais atvejais vieneto dalyvių naujai gautų
+mainais akcijų (dalių, pajų) įsigijimo kaina yra jų įsigijimo kaina, buvusi
+prieš pat ankstesniems dalyviams perduodant mainais akcijas (dalis, pajus);
+2) jei reorganizavimo
+metu ir pagal reorganizavimo sąlygas vienas vienetas perleidžia turtą kitam
+vienetui ir abu vienetai yra reorganizavimo dalyviai, toks turto vertės
+padidėjimas nelaikomas turtą perleidusio vieneto pajamomis. Vienetas, kuris
+gauna turtą, jokių pajamų, gautų iš tokio perdavimo, į savo pajamas neįtraukia,
+o jo nuosavybėn perleisto turto įsigijimo kaina yra to turto įsigijimo kaina,
+buvusi prieš pat turto perleidimą nuosavybėn turtą perdavusiame vienete;
 3) akcijų kainų
 skirtumas gali būti apmokėtas pinigais, tačiau ne daugiau kaip 10 procentų
 įsigyjamųjų vienetų akcijų nominalios vertės arba, jei nominalios vertės nėra,
@@ -2000,6 +2003,11 @@ straipsnyje nurodytas operacijas atlieka ir užsienio vienetai, įregistruoti
 arba organizuoti tikslinėse teritorijose, šių sandorių metu dėl turto vertės
 padidėjimo gautos pajamos įtraukiamos į įsigyjančiojo ar įsigyjamojo vieneto
 bei jų dalyvių pajamas, o gauti nuostoliai nepripažįstami. 
+Straipsnio
+pakeitimai:
+Nr.
+IX-2418,
+2004-08-23, Žin., 2004, Nr. 134-4836 (2004-09-02)
  
 43 straipsnis.
 Nuostoliai vienetus reorganizuojant, pertvarkant
@@ -2039,13 +2047,13 @@ mokestinių laikotarpių apmokestinamojo pelno sumos.
  
 45
 straipsnis. Turto vertės padidėjimo pajamos bei nuostoliai įmones likviduojant
-1. Jei likviduojamas vienetas paskirsto
-turtą savo dalyviams, toks paskirstymas yra laikomas to turto pardavimu už to
-turto tikrąją rinkos kainą, nustatytą nuosavybės teisės perleidimo dieną, o
-skirtumas tarp to turto įsigijimo kainos ir pardavimo kainos bus laikomas
-vieneto turto vertės padidėjimo pajamomis, jei šiame Įstatyme nenustatyta
-kitaip. Likviduojant vienetą, vieneto patirti nuostoliai dėl turto perleidimo
-laikomi likviduojamo vieneto nuostoliais.
+1. Jei likviduojamas vienetas
+paskirsto turtą savo dalyviams, toks paskirstymas yra laikomas to turto
+pardavimu už to turto tikrąją rinkos kainą, nustatytą nuosavybės teisės
+perleidimo dieną, o skirtumas tarp to turto įsigijimo kainos ir pardavimo
+kainos bus laikomas vieneto turto vertės padidėjimo pajamomis, jei šiame
+Įstatyme nenustatyta kitaip. Likviduojant vienetą, vieneto patirti nuostoliai
+dėl turto perleidimo laikomi likviduojamo vieneto nuostoliais.
 2. Likviduojamo vieneto dalyviai
 pripažįsta turto vertės padidėjimo pajamas (turto vertės nuostolius)
 likviduojamo vieneto turto ar jo dalies gavimo momentu. Tokias pajamas
@@ -2064,10 +2072,10 @@ aiškinamajame rašte pateikta šioje dalyje nustatyta informacija.
 2. Kartu su
 aiškinamuoju raštu pateikiamas paskutinis įsigytojo vieneto balansas (vienetų
 balansai).
-3. Kartu su
-aiškinamuoju raštu pateikiami apskaičiuoti skirtumai tarp to turto, kuris
-nudėvimas arba amortizuojamas, likutinės vertės, užfiksuotos įsigytajame
-vienete ar vienetuose ir įsigijusiame vienete.
+3. Kartu su aiškinamuoju
+raštu pateikiami apskaičiuoti skirtumai tarp to turto, kuris nudėvimas arba
+amortizuojamas, likutinės vertės, užfiksuotos įsigytajame vienete ar vienetuose
+ir įsigijusiame vienete.
 4. Vienetų
 dalyviai (akcijų (dalių, pajų) savininkai) aiškinamajame rašte nurodo įsigytojo
 vieneto ar vienetų akcijų nominalią vertę ir kainą, kuria gautos akcijos
@@ -2107,8 +2115,8 @@ apskaičiuota suma pagal numatytą mokestinio laikotarpio pelno mokesčio sumą
 turi sudaryti ne mažiau kaip 80 procentų faktiškos metinio pelno mokesčio
 sumos. Jeigu avansinio pelno mokesčio deklaracijoje apskaičiuota numatyta pelno
 mokesčio suma yra mažesnė kaip 80 procentų metinėje pelno mokesčio
-deklaracijoje apskaičiuotos pelno mokesčio sumos, nuo kiekvieną ketvirtį nesumokėtos
-avansinio pelno mokesčio sumos skaičiuojami delspinigiai Mokesčių
+deklaracijoje apskaičiuotos pelno mokesčio sumos, nuo kiekvieną ketvirtį
+nesumokėtos avansinio pelno mokesčio sumos skaičiuojami delspinigiai Mokesčių
 administravimo įstatymo nustatyta tvarka. Mokesčio mokėtojas gali patikslinti
 avansinio pelno mokesčio deklaraciją, apskaičiuodamas kiekvieno ketvirčio
 avansinio pelno mokesčio sumą lygiomis dalimis nuo mokestinio laikotarpio
@@ -2153,8 +2161,8 @@ pajamas (sumas) ir apskaičiuotą bei į biudžetą sumokėtą pelno mokestį;
 Respublikoje (nuolatinės buveinės) deklaracija;
 5) deklaracija
 apie nuo gautų ir išmokėtų dividendų apskaičiuotą ir sumokėtą pelno mokestį.
-2. Ataskaitos – metinės pelno mokesčio
-deklaracijos priedai:
+2. Ataskaitos – metinės pelno mokesčio deklaracijos
+priedai:
 1) pagal šį Įstatymą galimų koreguoti reikšmingų
 sandorių dėl turto perleidimo su susijusiais asmenimis ataskaita;
 2) ataskaita apie kontroliuojamuosius ir
@@ -2177,8 +2185,7 @@ straipsnio 3 dalies 1 punkte nustatyta ataskaita, nustato centrinis mokesčio
 administratorius. Šio straipsnio 2 dalies 1 punkte nustatytos ataskaitos formą,
 jos užpildymo ir pateikimo tvarką nustato centrinis mokesčio administratorius,
 suderinęs su finansų ministru.
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
 Nr. IX-1972,
 2004-01-22, Žin., 2004, Nr. 25-748 (2004-02-14)
  
@@ -2220,9 +2227,9 @@ bei į biudžetą sumokėtą pelno mokestį pateikimas
 1. Kai užsienio vieneto pajamos
 yra apmokestinamos pelno mokesčiu šio Įstatymo 37 straipsnyje nustatyta tvarka,
 pelno mokestį išskaičiuojantis asmuo – Lietuvos vienetas arba nuolatinė buveinė
-užpildo deklaraciją ir pateikia ją vietos mokesčio administratoriui, kurio veiklos
-teritorijoje yra arba privalo būti įregistruotas mokesčio mokėtoju mokestį
-išskaičiuojantis asmuo.
+užpildo deklaraciją ir pateikia ją vietos mokesčio administratoriui, kurio
+veiklos teritorijoje yra arba privalo būti įregistruotas mokesčio mokėtoju
+mokestį išskaičiuojantis asmuo.
 2. Deklaracija apie užsienio
 vienetui išmokėtas pajamas (sumas) ir apskaičiuotą bei į biudžetą sumokėtiną
 pelno mokestį pateikiama ne vėliau kaip per 15 dienų pasibaigus mėnesiui, kurį
@@ -2235,9 +2242,9 @@ mokestis mokamas pagal metinę pelno mokesčio deklaraciją. Pelno mokestis turi
 būti sumokėtas ne vėliau kaip paskutinę metinės pelno mokesčio deklaracijos
 pateikimo termino dieną. Jeigu metinėje pelno mokesčio deklaracijoje
 apskaičiuota pelno mokesčio suma viršija už mokestinį laikotarpį sumokėtą
-avansinio pelno mokesčio sumą, mokesčio mokėtojas privalo šį skirtumą sumokėti į
-biudžetą. Mokesčio permoka grąžinama Mokesčių administravimo įstatymo nustatyta
-tvarka.
+avansinio pelno mokesčio sumą, mokesčio mokėtojas privalo šį skirtumą sumokėti
+į biudžetą. Mokesčio permoka grąžinama Mokesčių administravimo įstatymo
+nustatyta tvarka.
  
 2
 dalies redakcija iki 2011 m. sausio 1 d.:
@@ -2289,8 +2296,8 @@ pagal prigimtį daiktą, esantį Lietuvos Respublikos teritorijoje (toliau
 straipsnyje – turtas), turi teisę kreiptis į vietos mokesčio administratorių,
 kurio veiklos teritorijoje įregistruotas mokestį išskaičiuojantis asmuo, dėl
 apskaičiuoto ir sumokėto pelno mokesčio už parduotą ar kitaip perleistą
-nuosavybėn turtą perskaičiavimo. Šiuo atveju pelno mokestis būtų
-apskaičiuojamas nuo turto vertės padidėjimo pajamų. 
+nuosavybėn turtą perskaičiavimo. Šiuo atveju pelno mokestis būtų apskaičiuojamas
+nuo turto vertės padidėjimo pajamų. 
 2. Prašymas ir
 dokumentai, pagrindžiantys turto įsigijimo kainą, dėl pelno mokesčio
 perskaičiavimo pateikiami tam vietos mokesčio administratoriui, kurio veiklos
@@ -2302,12 +2309,12 @@ administravimo įstatymo nustatyta tvarka.
  
 55
 straipsnis. Pelno mokesčio, sumokėto užsienio valstybėse, atskaitymai
-1. Lietuvos vienetas
-iš šio Įstatymo nustatyta tvarka apskaičiuoto pelno mokesčio sumos gali
-atskaityti pelno mokesčio arba jam tapataus mokesčio sumą, sumokėtą užsienio
-valstybėje nuo toje valstybėje per tuos mokestinius metus gautų pajamų,
-atsižvelgiant į dividendus, kurie neįtraukiami į vieneto pajamas, jeigu šis
-straipsnis nenustato ko kita.
+1. Lietuvos
+vienetas iš šio Įstatymo nustatyta tvarka apskaičiuoto pelno mokesčio sumos
+gali atskaityti pelno mokesčio arba jam tapataus mokesčio sumą, sumokėtą
+užsienio valstybėje nuo toje valstybėje per tuos mokestinius metus gautų
+pajamų, atsižvelgiant į dividendus, kurie neįtraukiami į vieneto pajamas, jeigu
+šis straipsnis nenustato ko kita.
 2. Jeigu nuo
 užsienio valstybėje gautų pajamų šio Įstatymo nustatyta tvarka apskaičiuota
 pelno mokesčio suma yra mažesnė negu pelno mokesčio arba jam tapataus mokesčio
@@ -2321,9 +2328,8 @@ pagal šį Įstatymą apmokestinamos palūkanos.
 4. Tuo atveju,
 kai užsienio valstybėse gaunamos pagal šį Įstatymą apmokestinamos palūkanos,
 kurios sudaro ne daugiau kaip 25 procentus jas gaunančio vieneto pajamų,
-atskaitoma pelno mokesčio suma atskaitoma nuo bendros pelno mokesčio sumos,
-skaičiuojant nuo visų pajamų, bet ne daugiau kaip 1/5 bendros pelno mokesčio
-sumos.
+atskaitoma pelno mokesčio suma atskaitoma nuo bendros pelno mokesčio sumos, skaičiuojant
+nuo visų pajamų, bet ne daugiau kaip 1/5 bendros pelno mokesčio sumos.
 5. Atskaitymai iš apskaičiuotos
 pelno mokesčio sumos šiame straipsnyje nustatyta tvarka leidžiami tik tuo
 atveju, kai yra išduoti užsienio valstybės mokesčio administratoriaus
@@ -2382,17 +2388,17 @@ buhalterinės apskaitos įstatymu bei kitais teisės aktais.
 3. Pelno mokesčiui skaičiuoti vienetas gali naudoti
 buhalterinėje apskaitoje naudojamus visuotinai pripažintus pajamų, sąnaudų
 pripažinimo, atsargų įkainojimo metodus, jei šis Įstatymas nenustato ko kita.
-4. Apskaičiuojant
-pelno mokestį, atsargos apskaitomos „pirmasis į – pirmasis iš (FIFO)“ metodu.
-Centrinio mokesčio administratoriaus nustatyta tvarka mokesčio mokėtojo prašymu
-ir atsižvelgdamas į jo veiklos ypatybes vietos mokesčio administratorius gali
-leisti apskaityti atsargas taikant tą buhalterinę apskaitą reglamentuojančių
-teisės aktų numatytą metodą, kurį vienetas taiko sudarydamas finansinę
-atskaitomybę.
+4.
+Apskaičiuojant pelno mokestį, atsargos apskaitomos „pirmasis į – pirmasis iš
+(FIFO)“ metodu. Centrinio mokesčio administratoriaus nustatyta tvarka mokesčio
+mokėtojo prašymu ir atsižvelgdamas į jo veiklos ypatybes vietos mokesčio
+administratorius gali leisti apskaityti atsargas taikant tą buhalterinę
+apskaitą reglamentuojančių teisės aktų numatytą metodą, kurį vienetas taiko
+sudarydamas finansinę atskaitomybę.
 Straipsnio
 pakeitimai:
-Nr. IX-1659, 2003-07-01,
-Žin., 2003, Nr. 74-3417 (2003-07-25)
+Nr. IX-1659,
+2003-07-01, Žin., 2003, Nr. 74-3417 (2003-07-25)
  
 XII
 SKYRIUS
@@ -2429,22 +2435,22 @@ nustatyta Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo
 įstatymo 24 straipsnyje, perduodami panaudos būdu, investuojami į kitą vienetą
 arba pakeičiama jų naudojimo paskirtis, įskaitant atvejus, kai ūkinių bendrijų
 nariai ir individualių (personalinių) įmonių savininkai išsimoka ūkinių
-bendrijų ir individualių (personalinių) įmonių pajamų dalį, panaudotą toms investicijoms,
-ūkinės bendrijos ir individualios (personalinės) įmonės pajamos didinamos suma,
-atitinkančia apmokestinamųjų pajamų dalį, panaudotą investicijoms, tuo
-mokestiniu laikotarpiu, kuriuo turtas, perduodamas panaudos būdu, investuojamas
-į kitą vienetą arba pakeičiama jo naudojimo paskirtis.
+bendrijų ir individualių (personalinių) įmonių pajamų dalį, panaudotą toms
+investicijoms, ūkinės bendrijos ir individualios (personalinės) įmonės pajamos
+didinamos suma, atitinkančia apmokestinamųjų pajamų dalį, panaudotą
+investicijoms, tuo mokestiniu laikotarpiu, kuriuo turtas, perduodamas panaudos
+būdu, investuojamas į kitą vienetą arba pakeičiama jo naudojimo paskirtis.
 4. Ilgalaikio
 materialiojo turto arba kompiuterių programų, kuriems buvo taikoma investicijos
 lengvata, nustatyta Lietuvos Respublikos juridinių asmenų pelno mokesčio
 įstatymo 21 straipsnio 1 dalies 2 punkte ir Lietuvos Respublikos fizinių asmenų
 pajamų mokesčio laikinojo įstatymo 24 straipsnyje, nusidėvėjimas arba
 amortizacija neskaičiuojami. Jeigu ši investicijos lengvata buvo taikoma
-ilgalaikio materialiojo turto arba kompiuterių programų vertės daliai, nusidėvėjimas
-arba amortizacija pradedami skaičiuoti nuo to momento, kai nusidėvėjimo arba
-amortizacijos suma, kuri pagal šio Įstatymo nuostatas būtų skaičiuojama, jeigu
-įsigyjant turtą nebūtų taikyta investicijų lengvata, pasiekia vertės dalį,
-kuriai taikyta investicijų lengvata.
+ilgalaikio materialiojo turto arba kompiuterių programų vertės daliai,
+nusidėvėjimas arba amortizacija pradedami skaičiuoti nuo to momento, kai
+nusidėvėjimo arba amortizacijos suma, kuri pagal šio Įstatymo nuostatas būtų
+skaičiuojama, jeigu įsigyjant turtą nebūtų taikyta investicijų lengvata,
+pasiekia vertės dalį, kuriai taikyta investicijų lengvata.
 5. Nuo 2002 metų
 prasidėjusiu mokestiniu laikotarpiu gauti dividendai apmokestinami taikant
 šiuos pelno mokesčio tarifus:
@@ -2461,12 +2467,13 @@ straipsnio 2 dalies ir 34 straipsnio 2 dalies nuostatos.
 taikomos tik toms skoloms, kurios buvo įtrauktos į mokesčio mokėtojo
 realizavimo pajamas, arba jei šių skolų atsiradimas buvo užfiksuotas mokesčio
 mokėtojo apskaitos dokumentuose ne anksčiau kaip 1996 metais. Tačiau jei
-beviltiškų skolų suma buvo įtraukta į mokesčio mokėtojo realizavimo pajamas arba
-šių skolų atsiradimas buvo užfiksuotas mokesčio mokėtojo apskaitos dokumentuose
-nuo 1996 m. sausio 1 d. iki 1999 m. gruodžio 31
-d., beviltiškų skolų suma arba beviltiškoms skoloms tenkanti sąnaudų dalis į vieneto leidžiamus ribojamų dydžių atskaitymus
-įtraukiama lygiomis dalimis per 5 metus, pradedant 2000 metais prasidėjusiu
-mokestiniu laikotarpiu.
+beviltiškų skolų suma buvo įtraukta į mokesčio mokėtojo realizavimo pajamas
+arba šių skolų atsiradimas buvo užfiksuotas mokesčio mokėtojo apskaitos
+dokumentuose nuo 1996 m. sausio 1 d. iki 1999 m.
+gruodžio 31 d., beviltiškų skolų suma arba beviltiškoms skoloms tenkanti
+sąnaudų dalis į vieneto leidžiamus ribojamų
+dydžių atskaitymus įtraukiama lygiomis dalimis per 5 metus, pradedant 2000
+metais prasidėjusiu mokestiniu laikotarpiu.
 7. Iš draudimo įmonių (draudikų) gautos draudimo
 išmokos neapmokestinamos pagal draudimo sutartis, sudarytas iki 2002 m. sausio
 1 d.
@@ -2489,8 +2496,8 @@ laikotarpio pajamas, turi teisę ne vėliau kaip prieš mėnesį iki eilinio
 avansinio pelno mokesčio mokėjimo termino, nustatyto šioje dalyje, kreiptis į
 vietos mokesčio administratorių, kad sumažintų likusį avansinį pelno mokestį
 arba nuo jo atleistų. Vietos mokesčio administratorius tokiam vienetui turi
-sumažinti avansinio pelno mokesčio sumą proporcingai sumažėjusioms pajamoms arba
-atleisti nuo avansinio pelno mokesčio. Jeigu šio vieneto 2002 metais
+sumažinti avansinio pelno mokesčio sumą proporcingai sumažėjusioms pajamoms
+arba atleisti nuo avansinio pelno mokesčio. Jeigu šio vieneto 2002 metais
 prasidėjusio mokestinio laikotarpio pajamos padidės iki 25 procentų ir daugiau,
 jis privalo ne vėliau kaip prieš mėnesį iki eilinio avansinio pelno mokesčio
 mokėjimo termino kreiptis į vietos mokesčio administratorių, kad padidintų
@@ -2509,8 +2516,8 @@ iki mokestinio laikotarpio penktojo mėnesio paskutinės dienos. Jeigu vienetas
 pasirinko avansinį pelno mokestį mokėti pagal apskaičiuotą 2002 metais
 prasidėjusio mokestinio laikotarpio kiekvieno mėnesio pelno mokesčio sumą,
 avansinio pelno mokesčio deklaracija pateikiama ne vėliau kaip pasibaigus
-kiekvienam 2002 metais prasidėjusio mokestinio laikotarpio mėnesiui iki kito mėnesio
-15 dienos. Pelno avansinis mokestis turi būti sumokėtas ne vėliau kaip
+kiekvienam 2002 metais prasidėjusio mokestinio laikotarpio mėnesiui iki kito
+mėnesio 15 dienos. Pelno avansinis mokestis turi būti sumokėtas ne vėliau kaip
 pasibaigus kiekvienam 2002 metais prasidėjusio mokestinio laikotarpio mėnesiui
 iki kito mėnesio 15 dienos.
 10. Už 2001 metais prasidėjusį mokestinį laikotarpį
@@ -2559,9 +2566,10 @@ sausio 1 d.
 14. Pagal šio Įstatymo 4
 straipsnio nuostatas apmokestinamos palūkanos už Lietuvos Respublikos
 Vyriausybės ir savivaldybių bei tarptautinių finansų organizacijų, kurių narė
-yra Lietuvos Respublika ir kurių steigimo sutartys yra ratifikuotos pagal Lietuvos
-Respublikos tarptautinių sutarčių įstatymą, vertybinius popierius, jeigu
-sutartys dėl vertybinių popierių platinimo sudarytos po 2003 m. sausio 1 d.
+yra Lietuvos Respublika ir kurių steigimo sutartys yra ratifikuotos pagal
+Lietuvos Respublikos tarptautinių sutarčių įstatymą, vertybinius popierius,
+jeigu sutartys dėl vertybinių popierių platinimo sudarytos po 2003 m. sausio 1
+d.
 15. Iki 2003 m.
 sausio 1 d. neapmokestinamos: 
 1) palūkanos už Lietuvos
@@ -2612,10 +2620,10 @@ pritaikyta tik tuo atveju, kai laisvosios ekonominės zonos įmonė turi
 auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį.
 Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo
 investicijų suma sumažėja ir nebesiekia 1 milijono eurų, lengvatos taikymas
-sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma taip sumažėjo,
-ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl
-pasiekia 1 milijoną eurų. Šioje dalyje nustatyta lengvata jokiais atvejais
-negali būti taikoma kredito įstaigoms ir draudimo įmonėms;
+sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma taip
+sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo
+investicija vėl pasiekia 1 milijoną eurų. Šioje dalyje nustatyta lengvata
+jokiais atvejais negali būti taikoma kredito įstaigoms ir draudimo įmonėms;
 *3) juridiniai
 asmenys
 (išskyrus
@@ -2691,15 +2699,15 @@ kriterijų, tačiau jų pajamų iš šios dalies 1 punkte nustatytos veiklos ir
 taikomos šios dalies 1 punkto nuostatos, ar gyventojų, kuriems gali būti
 taikomos Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio
 1 dalies 24 ir 25 punktų nuostatos dėl pajamų iš žemės ūkio produktų pardavimo)
-šių narių pagamintus žemės ūkio produktus ir (arba) savo nariams (vienetams,
-kuriems gali būti taikomos šios dalies 1 punkto nuostatos, ar gyventojams,
-kuriems gali būti taikomos Lietuvos Respublikos gyventojų pajamų mokesčio
-įstatymo 17 straipsnio 1 dalies 24 ir 25 punktų nuostatos dėl pajamų iš žemės
-ūkio produktų pardavimo) parduotus degalus, trąšas, sėklas, pašarus, priemones
-nuo kenkėjų ir piktžolių bei materialųjį turtą, skirtą naudoti tik savo narių
-žemės ūkio veikloje, dalis sudaro 85 ir daugiau procentų pajamų, šių
-kooperatinių bendrovių (kooperatyvų) apmokestinamasis pelnas apmokestinamas
-taikant 0 procentų pelno mokesčio tarifą.
+šių narių pagamintus žemės ūkio produktus ir (arba) savo nariams (vienetams, kuriems
+gali būti taikomos šios dalies 1 punkto nuostatos, ar gyventojams, kuriems gali
+būti taikomos Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17
+straipsnio 1 dalies 24 ir 25 punktų nuostatos dėl pajamų iš žemės ūkio produktų
+pardavimo) parduotus degalus, trąšas, sėklas, pašarus, priemones nuo kenkėjų ir
+piktžolių bei materialųjį turtą, skirtą naudoti tik savo narių žemės ūkio
+veikloje, dalis sudaro 85 ir daugiau procentų pajamų, šių kooperatinių
+bendrovių (kooperatyvų) apmokestinamasis pelnas apmokestinamas taikant 0
+procentų pelno mokesčio tarifą.
 17. Vieneto turto arba turtinio
 komplekso perdavimas pagal nuomos sandorį šio Įstatymo 38 straipsnio numatytais
 atvejais apskaičiuojant pelno mokestį apmokestinamas kaip pardavimas, jei
@@ -2771,11 +2779,11 @@ avansinis pelno mokestis ir išskaičiuotas prie šaltinio pelno mokestis.
 Straipsnio
 pakeitimai:
 Nr.
-IX-1008,
-2002-07-02, Žin., 2002, Nr. 73-3086 (2002-07-19)
-Nr. IX-1659, 2003-07-01,
-Žin., 2003, Nr. 74-3417 (2003-07-25), atitaisymas skelbtas: Žin., 2003, Nr.
-81(1)
+IX-1008, 2002-07-02,
+Žin., 2002, Nr. 73-3086 (2002-07-19)
+Nr. IX-1659,
+2003-07-01, Žin., 2003, Nr. 74-3417 (2003-07-25), atitaisymas skelbtas:
+Žin., 2003, Nr. 81(1)
 Nr. IX-1972,
 2004-01-22, Žin., 2004, Nr. 25-748 (2004-02-14)
  
@@ -2827,7 +2835,8 @@ Ilgalaikio
 Metodas
 
 
-Normatyvas metais
+Normatyvas
+  metais
 
 
 
@@ -3041,8 +3050,8 @@ tiesinis
 
 
 
-Krovininiai automobiliai,
-  priekabos ir puspriekabės, autobusai – ne senesni kaip 5 metų
+Krovininiai automobiliai, priekabos
+  ir puspriekabės, autobusai – ne senesni kaip 5 metų
 
 
  
@@ -3199,117 +3208,76 @@ tiesinis
  
  
  
-                                                                                                Lietuvos
+Lietuvos
 Respublikos
-                                                                                                2001m.
-gruodžio 20 d. 
-                                                                                                įstatymo
-Nr. IX-675
-                                                                                                2
-priedėlis
+2001m. gruodžio 20 d. 
+įstatymo Nr. IX-675
+2 priedėlis
+Neteko
+galios:
+Nr.
+IX-2418,
+2004-08-23, Žin., 2004, Nr. 134-4836 (2004-09-02)
  
-EUROPOS
-SĄJUNGOS VIENETŲ VERSLO ORGANIZAVIMO 
-GALIMOS FORMOS
- 
-1. Įmonės, įsteigtos pagal Belgijos Karalystės
-įstatymus kaip „société anonyme“/„naamloze vennootschap“, „société en comandite
-par actions“/„commanditaire vennootschap op aandelen“, „société privée ą
-responsabilité limitée“/„besloten vennootschap met beperkte aansprakelijkheid“
-ir tos viešosios teisės organizacijos, kurios veikia pagal privatinę teisę.
-2. Įmonės,
-įsteigtos pagal Danijos Karalystės įstatymus kaip „aktieselskab“,
-„anpartsselskab“.
-3. Įmonės, įsteigtos pagal Vokietijos Federacinės
-Respublikos įstatymus kaip „Aktiengesellschaft“, „Kommanditgesellschaft auf
-Aktien“, „Gesellschaft mit beschraenkter Haftung“, „bergrechtliche
-Gewerkschaft.“
-4. Įmonės,
-įsteigtos pagal Graikijos Respublikos įstatymus kaip „anonymi etaireia“.
-5. Įmonės, įsteigtos pagal Ispanijos Karalystės
-įstatymus kaip „sociedad anonima“, „sociedad comanditaria por acciones“,
-„sociedad de responsabilidad limitada“ ir tos viešosios teisės organizacijos,
-kurios veikia pagal privatinę teisę.
-6. Įmonės, įsteigtos pagal Prancūzijos Respublikos
-įstatymus kaip „société anonyme“, „société en comandite par actions“, société ą
-responsabilité limitée“, industrinės ir komercinės įstaigos bei ūkio subjektai.
-7. Įmonės, įsteigtos pagal Airijos įstatymus kaip
-viešos uždarosios akcinės ar garantijų įmonės (public companies limited by
-shares or by guarantee), privačios uždarosios akcinės ar garantijų įmonės
-(private companies limited by shares or by guarantee), organizacijos, įsteigtos
-pagal the Industrial and Provident Societies Act arba statybų bendrijos,
-įsteigtos pagal the Building Societies Acts.
-8. Įmonės, įsteigtos pagal Italijos Respublikos
-įstatymus kaip „societą per azioni“, „societą in accomandita per azioni“,
-„societą a responsabilitą limitata“ ir viešieji bei privatūs vienetai,
-vykdantys gamybinę ir komercinę veiklą.
-9. Įmonės, įsteigtos pagal Liuksemburgo Didžiosios
-Hercogystės įstatymus kaip „société anonyme“, „société en comandite par
-actions“, „société ą responsabilité limitée“.
-10. Įmonės, įsteigtos pagal Nyderlandų Karalystės
-įstatymus kaip „naamloze vennootschap“, „besloten vennootschap met beperkte
-aanspraelijkheid“.
-11. Komercinės įmonės arba civilinės teisės įmonės,
-turinčios komercinę formą kaip ir kiti juridiniai asmenys, vykdantys komercinę
-ar gamybinę veiklą ir yra įsteigti pagal Portugalijos Respublikos įstatymus.
-12. Įmonės, įsteigtos pagal Jungtinės Didžiosios
-Britanijos ir Šiaurės Airijos Karalystės įstatymus.
- 
-IŠVARDYTŲ VERSLO
-ORGANIZAVIMO FORMŲ ĮMONĖS YRA ŠIŲ MOKESČIŲ MOKĖTOJOS (PAGAL TŲ VALSTYBIŲ VIDAUS
-ĮSTATYMUS ARBA PAGAL DVIGUBO APMOKESTINIMO IŠVENGIMO SUTARTIS, JEI TOKIOS
-SUDARYTOS):
- 
-a) impôt des
-sociétés/vennootschapsbelasting, Belgijos Karalystė;
-b) selskabsskat,
-Danijos Karalystė;
-c)
-Koerperschaftsteuer, Vokietijos Federacinė Respublika,
-d) foros
-eisodimatos nomikon prosopon kerdoskopikoy charaktira, Graikijos Respublika;
-e) impuesto sobre sociedades, Ispanijos Karalystė;
-f) impôt sur les
-sociétés, Prancūzijos Respublika;
-g) corporation
-tax, Airija;
-h) imposta sul reddito delle
-persone giuridiche, Italijos Respublika;
-i) impôt sur le
-revenu des collectivités, Liuksemburgo Didžioji Hercogystė;
-j)
-vennootschapsbelasting, Nyderlandų Karalystė;
-k) imposto sobre
-o rendimento das pessoas colectivas, Portugalijos Respublika;
-l) corporation
-tax, Jungtinė Didžiosios Britanijos ir Šiaurės Airijos Karalystė.
- 
-
-
  
 Lietuvos
 Respublikos 
-                                                                                                pelno
-mokesčio
-                                                                                                įstatymo
-
-                                                                                                3
+pelno
+mokesčio įstatymo 
+3
 priedėlis 
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 1. 1985 m.
 liepos 25 d. Tarybos reglamentas (EEB) Nr. 2137/85 dėl Europos ekonominių
 interesų grupių (EEIG).
 2. 1990 m.
 liepos 23 d. Tarybos direktyva 90/435/EEB dėl bendrosios mokesčių sistemos,
-taikomos skirtingų valstybių narių patronuojančioms ir dukterinėms bendrovėms.
-3. 2003 m.
+taikomos įvairių valstybių narių patronuojančioms ir dukterinėms bendrovėms.
+3. 1990 m.
+liepos 23 d. Tarybos direktyva 90/434/EEB dėl bendros mokesčių sistemos,
+taikomos įvairių valstybių narių įmonių jungimui, skaidymui, turto perleidimui
+ir keitimuisi akcijomis.
+4. Belgijos
+Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos
+Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos
+Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės,
+Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos
+Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės
+(Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos,
+Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos
+Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos,
+Slovakijos Respublikos sutarties dėl Čekijos Respublikos, Estijos Respublikos,
+Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos
+Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos
+ir Slovakijos Respublikos stojimo į Europos Sąjungą aktas dėl Čekijos
+Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos,
+Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos
+Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo sąlygų ir
+sutarčių, kuriomis yra grindžiama Europos Sąjunga, pritaikomųjų pataisų.
+5. 2003 m.
 birželio 3 d. Tarybos direktyva 2003/49/EB dėl bendros apmokestinimo sistemos,
 taikomos palūkanų ir autorinių atlyginimų mokėjimams tarp skirtingų valstybių
 narių asocijuotų bendrovių.
-4. 2003 m.
-gruodžio 22 d. Tarybos direktyva 2003/123/EB dėl Direktyvos 90/435/EEB, iš
-dalies keičiančios Direktyvą 90/435 EEB dėl bendrosios mokesčių sistemos,
-taikomos įvairių valstybių narių patronuojančioms ir dukterinėms bendrovėms.
+6. 2003 m.
+gruodžio 22 d. Tarybos direktyva 2003/123/EB, iš dalies keičianti Direktyvą
+90/435/EEB dėl bendrosios mokesčių sistemos, taikomos įvairių valstybių narių
+patronuojančioms ir dukterinėms bendrovėms.
+7. 2004 m.
+balandžio 26 d. Tarybos direktyva 2004/66/EB, adaptuojanti Europos Parlamento
+ir Tarybos direktyvas 1999/45/EB, 2002/83/EB, 2003/37/EB ir 2003/59/EB ir
+Tarybos direktyvas 77/388/EEB, 91/414/EEB, 96/26/EB, 2003/48/EB ir 2003/49/EB
+laisvo prekių judėjimo, laisvės teikti paslaugas, žemės ūkio, transporto
+politikos ir mokesčių srityse dėl Čekijos Respublikos, Estijos, Kipro,
+Latvijos, Lietuvos, Vengrijos, Maltos, Lenkijos, Slovėnijos ir Slovakijos
+stojimo.
+8. 2004 m.
+balandžio 29 d. Tarybos direktyva 2004/76/EB, iš dalies keičianti Direktyvą
+2003/49/EB dėl galimybės tam tikroms valstybėms narėms nustatyti pereinamuosius
+laikotarpius taikant bendrą apmokestinimo sistemą, taikomą palūkanų ir
+autorinių atlyginimų mokėjimams tarp skirtingų valstybių narių asocijuotų
+bendrovių.
 Įstatymas
 papildytas priedėliu:
 Nr. IX-2102,
@@ -3317,6 +3285,9 @@ Nr. IX-2102,
 Priedėlio pakeitimai:
 Nr. IX-2201,
 2004-04-29, Žin., 2004, Nr. 73-2534 (2004-04-30)
+Nr.
+IX-2418,
+2004-08-23, Žin., 2004, Nr. 134-4836 (2004-09-02)
  
 _______________
  
@@ -3477,8 +3448,8 @@ dalies nuostatos taikomos apskaičiuojant 2004 metais prasidėjusio mokestinio
 laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną. 
 Šio Įstatymo 1 straipsnio ir 2
 straipsnio 2 dalies nuostatos taikomos apskaičiuojant 2005 metais prasidėjusio
-mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį
-pelną. 
+mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
+
  
 12.
 Lietuvos Respublikos Seimas,
@@ -3511,11 +3482,21 @@ IR VIEŠŲJŲ PIRKIMŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 apskaičiuojant 2005 metais prasidėjusio ir vėlesnių mokestinių laikotarpių
 apmokestinamąjį pelną.
  
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2418,
+2004-08-23, Žin., 2004, Nr. 134-4836 (2004-09-02)
+PELNO MOKESČIO ĮSTATYMO 42
+STRAIPSNIO PAKEITIMO, ĮSTATYMO 2 PRIEDĖLIO PRIPAŽINIMO NETEKUSIU GALIOS IR 3
+PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2004-06-21)
+Aušra Bodin (2004-09-02)
                  
-aubodi@lrs.lt
+ausra.bodin@lrs.lt
