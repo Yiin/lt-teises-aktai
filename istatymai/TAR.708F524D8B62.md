@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.708F524D8B62"
 
 # Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymas
 
+Suvestinė redakcija nuo 1998-05-13 iki 2005-03-04
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 61-1528, i. k. 0951010ISTA000I-996
+ 
 LIETUVOS RESPUBLIKOS
 TAURIŲJŲ METALŲ IR BRANGAKMENIŲ VALSTYBINĖS PRIEŽIŪROS
 Į S T A T Y M A S
@@ -61,7 +65,22 @@ taurieji metalai – auksas, sidabras, platinos grupės metalai (rutenis, rodis,
 
 
 
-brangakmeniai – natūralūs apdirbti bei neapdirbti brangieji akmenys: deimantai, smaragdai, rubinai, safyrai ir kiti juvelyriniai bei puošnieji akmenys (pagal Juvelyrinių akmenų, sidabro dirbinių, deimantų ir perlų tarptautinės konfederacijos CIBJO patvirtintą klasifikaciją) bei organinės kilmės brangakmeniai – gintaras ir perlai. Brangakmeniais taip pat laikomi deimantų laužas ir atliekos;
+brangakmeniai – natūralūs apdirbti bei neapdirbti brangieji akmenys: deimantai, smaragdai, rubinai, safyrai ir kiti juvelyriniai bei puošnieji akmenys ir organinės kilmės brangakmeniai (išskyrus gintarą) (pagal Juvelyrinių akmenų, sidabro dirbinių, deimantų ir perlų tarptautinės konfederacijos CIBJO patvirtintą klasifikaciją). Brangakmeniais taip pat laikomi deimantų laužas ir atliekos;
+
+
+
+
+tauriųjų metalų laužas – tauriųjų metalų turintys įvairios paskirties gaminiai, pusfabrikačiai, netinkami naudoti pagal ankstesnę tiesioginę paskirtį, taip pat lydiniai, žaliava, įvairaus pavidalo cheminiai junginiai;
+
+
+
+
+brangakmenių laužas – įvairios paskirties gaminiai, turintys brangakmenių ir netinkami naudoti pagal ankstesnę tiesioginę paskirtį;
+
+
+
+
+tauriųjų metalų ir brangakmenių atliekos – technologinių gamybos procesų metu susidarančios atliekos, turinčios tauriųjų metalų ir brangakmenių, tinkamų rekuperacijai;
 
 
 
@@ -101,7 +120,7 @@ Lietuvos valstybinis kontrolinis prabavimo ženklas – nustatytas vieno pavyzd�
 
 
 
-ūkio subjektai – juridiniai ir fiziniai asmenys, užsiimantys visokia komercine-ūkine veikla, susijusia su tauriaisiais metalais, brangakmeniais bei jų gaminiais, nesvarbu, kokia nuosavybės forma ir įmonės rūšis;
+ūkio subjektai – juridiniai asmenys, įmonės, neturinčios juridinio asmens teisių, ir fiziniai asmenys, užsiimantys visokia komercine-ūkine veikla, susijusia su tauriaisiais metalais, brangakmeniais bei jų gaminiais, nesvarbu, kokia nuosavybės forma ir įmonės rūšis;
 
 
 
@@ -126,10 +145,12 @@ remediumas – leistinas nukrypimas praboje;
 
 
 
-kokybės pažymėjimas – dokumentas, patvirtinantis brangakmenių tapatybę ir charakteristikas.
+kokybės pažymėjimas – dokumentas, patvirtinantis tauriųjų metalų prabą, masę, kiekį bei brangakmenių tapatybę ir charakteristikas.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
  
-
-
 
 
 
@@ -142,7 +163,9 @@ l. Visi tauriųjų metalų ir brangakmenių gaminiai, skirti realizuoti Lietuvos
 
 
 
-2. Jeigu yra Lietuvos Respublikos tarptautinė sutartis ar susitarimas dėl abipusio įspaudavimo bei kokybės pažymėjimo pripažinimo, tauriųjų metalų ir brangakmenių gaminiai iš susitarusiųjų šalių gali būti eksportuojami arba importuojami be papildomo kontrolinio įspaudavimo bei kokybės pažymėjimo.
+2. Jeigu yra Lietuvos Respublikos tarptautinė sutartis ar susitarimas dėl abipusio įspaudavimo bei kokybės pažymėjimo pripažinimo, tauriųjų metalų ir brangakmenių gaminiai iš susitarusiųjų šalių gali būti eksportuojami arba importuojami be papildomo kontrolinio įspaudavimo bei kokybės pažymėjimo. Taurieji metalai ir brangakmeniai, kurie laikinai įvežti į Lietuvos Respubliką perdirbti ir kuriuos numatoma reeksportuoti pakeitus jų pavidalą, reeksportuojami be papildomo kontrolinio įspaudavimo. Reeksportuojami tauriųjų metalų ir brangakmenių gaminiai turi turėti Lietuvos prabavimo rūmų išduotą kokybės pažymėjimą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
  
 
 
@@ -164,7 +187,10 @@ Lietuvos Respublikoje tauriųjų metalų ir brangakmenių bei jų gaminių valst
 6 straipsnis
 
 
-l. Ūkio subjektai gali užsiimti Lietuvos Respublikoje komercine-ūkine veikla pagal Lietuvos Respublikos Vyriausybės arba jos pavedimu kitos institucijos išduotą leidimą (licenciją).
+1. Ūkio subjektai gali užsiimti Lietuvos Respublikoje komercine-ūkine veikla, susijusia su tauriaisiais metalais ir brangakmeniais, tik įsiregistravę Lietuvos prabavimo rūmuose. Ūkio subjektų registravimo tvarką nustato Lietuvos prabavimo rūmų steigėjas.
+Straipsnio dalies pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+ 
 
 
 
@@ -219,22 +245,22 @@ l) platinos – 950;
 3. Naujiems gaminiams bei skirtiems eksportui, taip pat importuojamiems tauriųjų metalų gaminiams nustatomos šios prabos:
 
 
-1) platinos – 950; 
+1) platinos – 850o, 900o, 950, 999o;
 
 
 
 
-2) aukso – 375, 585, 750;
+2) aukso – 375, 585, 750, 916o, 999o;
 
 
 
 
-3) sidabro – 800, 830 , 925;
+3) sidabro – 800, 830, 925, 999o;
 
 
 
 
-4) paladžio – 500, 850.
+4) paladžio – 500, 850, 950o, 999o.
 
 
 
@@ -242,6 +268,9 @@ l) platinos – 950;
 Tarptautinė standartizacijos organizacija nurodo šių prabų remediumą.
 
 
+Straipsnio dalies pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+ 
 
 
 
@@ -256,18 +285,25 @@ Tarptautinė standartizacijos organizacija nurodo šių prabų remediumą.
 
 
 
-6. Dantų techninės produkcijos gaminiams nustatomos prabos: 
+6. Dantų techninės produkcijos gaminiams nustatomos prabos:
 
 
-1) aukso diskų – 916;
+1) aukso diskų – 900o, 916o;
 
 
 
 
-2) apkabėlių, lydmetalio ir kitų detalių – 750.
+2) apkabėlių, lydmetalio ir kitų detalių – 750o.
+
+
+
+
+Dantų lietų protezų gamybai leidžiama naudoti ne mažesnės kaip 650o prabos aukso ir ne mažesnės kaip 750o prabos aukso ir platinos grupės metalų lydinius, atitinkančius tarptautinius standartus, suderinus su Lietuvos prabavimo rūmais, ir aprobuotus Lietuvos Respublikos sveikatos apsaugos ministerijos.
+
+
+Straipsnio dalies pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
  
-
-
 
 
 
@@ -308,10 +344,12 @@ Lietuvos prabavimo rūmai prabuoja ir įspauduoja tauriųjų metalų ir brangakm
 9 straipsnis 
 
 
-Tauriųjų metalų ir brangakmenių gaminiai atitinka prabą, jei santykinis gryno aukso, sidabro, platinos ar paladžio kiekis juose yra ne mažesnis kaip nurodyta praboje. Jei šis kiekis mažesnis, gaminys yra laikomas nustatytos iš eilės einančios žemesnės prabos, kuria ir yra įspauduojamas.
+Tauriųjų metalų ir brangakmenių gaminiai atitinka prabą, jei santykinis gryno aukso, sidabro, platinos ar paladžio kiekis juose atsižvelgiant į remediumą yra ne mažesnis kaip nurodyta praboje. Jei šis kiekis mažesnis, gaminys yra laikomas nustatytos iš eilės einančios žemesnės prabos, kuria ir yra įspauduojamas.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
  
-
-
 
 
 
@@ -319,10 +357,12 @@ Tauriųjų metalų ir brangakmenių gaminiai atitinka prabą, jei santykinis gry
 10 straipsnis
 
 
-Lietuvos prabavimo rūmai nustato prabavimo metodus, bandinių parinkimo tvarką bei skaičių ir tai turi garantuoti prabavimo rezultatų patikimumą. Mokestis už prabavimo ir įspaudavimo bei kokybės pažymėjimų išdavimo paslaugas negali būti didesnis nei 5–10 procentų gaminio mažmeninės kainos. Šių ir kitų paslaugų mokestį nustato Lietuvos prabavimo rūmų steigėjas.
+Lietuvos prabavimo rūmai nustato prabavimo metodus, bandinių parinkimo tvarką bei skaičių ir tai turi garantuoti prabavimo rezultatų patikimumą. Prabavimo, įspaudavimo bei kokybės pažymėjimų išdavimo ir kitų paslaugų mokestį nustato Lietuvos Respublikos Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
  
-
-
 
 
 
@@ -330,10 +370,12 @@ Lietuvos prabavimo rūmai nustato prabavimo metodus, bandinių parinkimo tvarką
 11 straipsnis
 
 
-Lietuvos prabavimo rūmams pateikti tauriųjų metalų ir brangakmenių gaminiai, neatitinkantys deklaruojamų prabų, taip pat brangakmeniai, neatitinkantys deklaruojamo kokybės pažymėjimo, jeigu pateikėjas sutinka, įspauduojami atitinkama žemesne praba arba išduodamas atitinkamas kokybės pažymėjimas. Šiuo atveju pateikėjas moka dvigubą mokestį. Lietuvos prabavimo rūmai apie deklaruojamos prabos ar kokybės pažymėjimo neatitikimą informuoja gaminius pateikusį ūkio subjektą ar fizinį asmenį, kuris turi teisę per 10 dienų pareikalauti, kad jo lėšomis būtų atliktas pakartotinis prabavimas. Jeigu ūkio subjektas nesutinka gaminio įspauduoti žemesne nei jo deklaruojama praba ar gauti atitinkamą kokybės pažymėjimą arba jei yra neigiami pakartotinio prabavimo rezultatai, gaminiai iš tauriųjų metalų ir brangakmenių grąžinami deformuoti (sulaužyti). Fiziniams asmenims (privatūs daiktai) grąžinami neįspauduoti ir be kokybės pažymėjimo.
+Lietuvos prabavimo rūmams pateikti tauriųjų metalų ir brangakmenių gaminiai, neatitinkantys deklaruojamų prabų, taip pat brangakmeniai, neatitinkantys deklaruojamos kokybės, jeigu pateikėjas sutinka, įspauduojami atitinkama žemesne praba arba išduodamas atitinkamas kokybės pažymėjimas. Lietuvos prabavimo rūmai apie deklaruojamos prabos ar kokybės neatitikimą informuoja gaminius pateikusį ūkio subjektą ar fizinį asmenį, kuris turi teisę per l0 dienų pareikalauti, kad jo lėšomis būtų atliktas pakartotinis prabavimas. Jeigu ūkio subjektas nesutinka gaminio įspauduoti žemesne nei jo deklaruojama praba ar gauti atitinkamą kokybės pažymėjimą arba jei yra neigiami pakartotinio prabavimo rezultatai, gaminiai iš tauriųjų metalų ir brangakmenių grąžinami deformuoti (sulaužyti). Fiziniams asmenims (privatūs daiktai) grąžinami neįspauduoti ir be kokybės pažymėjimo.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
  
-
-
 
 
 
@@ -341,7 +383,10 @@ Lietuvos prabavimo rūmams pateikti tauriųjų metalų ir brangakmenių gaminiai
 12 straipsnis
 
 
-l. Prabuodami tauriuosius metalus bei jų gaminius, Lietuvos prabavimo rūmai gali išlydyti reikiamą gaminių kiekį arba gaminio dalį.
+1. Prabavimo metu leidžiamo išlydyti, iškirpti arba panaudoti kitiems bandymams tauriųjų metalų gaminių kiekio normas bei panaudotų tauriųjų metalų gaminių laužo ir atliekų grąžinimo tvarką tvirtina Lietuvos prabavimo rūmų steigėjas.
+Straipsnio dalies pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+ 
 
 
 
@@ -455,7 +500,9 @@ l. Lietuvos valstybinio kontrolinio prabavimo ženklo ir prabos įspaudai įspau
 
 
 
-2. Lietuvos Respublikos finansų ministerija Lietuvos prabavimo rūmų teikimu turi teisę pakeisti šio įstatymo 7 straipsnyje nustatytas prabas.
+2. Neteko galios nuo 1998-05-13.
+Straipsnio dalies pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
  
 
 
@@ -487,9 +534,16 @@ l. Į Lietuvos Respubliką importuoti tauriųjų metalų ir brangakmenių gamini
 
 
 2) monetos, ordinai, garbės ženklai, prizai, išgraviruotos asmeninės dovanos, tauriųjų metalų ir brangakmenių gaminių siuntos bei prekės, gabenamos tranzitu.
+
+
+
+
+
+
+3. Lietuvos Respublikoje draudžiama realizuoti reeksportui skirtus tauriuosius metalus ir brangakmenius, kurie laikinai įvežti į Lietuvos Respubliką perdirbti ar pavidalui pakeisti.
+Papildyta straipsnio dalimi:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
  
-
-
 
 
 
@@ -504,7 +558,9 @@ l. Į Lietuvos Respubliką importuoti tauriųjų metalų ir brangakmenių gamini
 
 
 
-2. Lietuvos prabavimo rūmai gali leisti gaminti gaminius iš užsienio ūkio subjektų pateiktų tauriųjų metalų, kurių prabos neatitinka šio įstatymo 7 straipsnyje nustatytų prabų. Šiais atvejais prabų neatitinkantys gaminiai Lietuvos Respublikos Vyriausybės nustatyta tvarka turi būti grąžinami į užsienį. Šios tvarkos laikymąsi kontroliuoja Lietuvos prabavimo rūmai.
+2. Lietuvos prabavimo rūmai gali leisti gaminti gaminius iš užsienio ūkio subjektų pateiktų tauriųjų metalų, kurių prabos neatitinka šio įstatymo 7 straipsnyje nustatytų prabų. Tokie gaminiai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi būti grąžinami į užsienį. Šios tvarkos laikymąsi kontroliuoja Lietuvos prabavimo rūmai.
+Straipsnio dalies pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
  
 
 
@@ -570,7 +626,10 @@ Tauriųjų metalų ir brangakmenių valstybinės priežiūros institucija Lietuv
 22 straipsnis
 
 
-1. Lietuvos prabavimo rūmai yra ne pelno organizacija, turinti juridinio asmens teises ir antspaudą su Lietuvos Respublikos herbu.
+1. Lietuvos prabavimo rūmai yra valstybės įmonė, turinti antspaudą su Lietuvos Respublikos herbu.
+Straipsnio dalies pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+ 
 
 
 
@@ -624,7 +683,10 @@ Lietuvos prabavimo rūmai:
 
 
 
-7) teikia pasiūlymus Lietuvos Respublikos finansų ministerijai dėl licencijų ūkio subjektams išdavimo, tvarko tokių ūkio subjektų apskaitą, registruoja gamintojų ženklus;
+7) registruoja ūkio subjektus, užsiimančius komercine-ūkine veikla, susijusia su tauriaisiais metalais ir brangakmeniais, tvarko tokių ūkio subjektų registrą, registruoja gamintojų ženklus;
+Straipsnio punkto pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+ 
 
 
 
@@ -681,7 +743,10 @@ Tauriųjų metalų ir brangakmenių valstybinės priežiūros pareigūnai pagal 
 
 
 
-4) įstatymų nustatyta tvarka konfiskuoti realizuojamus tauriuosius metalus ir brangakmenius, tauriųjų metalų ir brangakmenių gaminius, kurių praba ar kokybės pažymėjimas neatitinka deklaruojamųjų, tauriųjų metalų ir brangakmenių gaminius be prabų ar kokybės pažymėjimo, su padirbtomis (suklastotomis) prabomis arba kokybės pažymėjimais, taip pat tuos, kurie šio įstatymo 18 straipsnio antrojoje dalyje numatytais atvejais negrąžinami į užsienį;
+4) įstatymų nustatyta tvarka konfiskuoti realizuojamus tauriuosius metalus ir brangakmenius, tauriųjų metalų ir brangakmenių gaminius, kurių praba ar kokybė neatitinka deklaruojamųjų, tauriųjų metalų ir brangakmenių gaminius be prabų ar kokybės pažymėjimo, su padirbtomis (suklastotomis) prabomis arba kokybės pažymėjimais, taip pat tuos, kurie pažeidžiant šio įstatymo 18 straipsnio antrąją dalį nebuvo grąžinti į užsienį;
+Straipsnio punkto pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+ 
 
 
 
@@ -696,7 +761,10 @@ Tauriųjų metalų ir brangakmenių valstybinės priežiūros pareigūnai pagal 
 
 
 
-7) uždrausti tauriųjų metalų ir brangakmenių gaminių gamybą, realizavimą, paslaugų teikimą ir kitą su tuo susijusią veiklą, jeigu ūkio subjektai neturi licencijos verstis šia veikla arba nuolat pažeidžia šio įstatymo, valstybės standartų ar kitų norminių aktų reikalavimus;
+7) uždrausti tauriųjų metalų ir brangakmenių gaminių gamybą, realizavimą, paslaugų teikimą ir kitą su tuo susijusią veiklą, jeigu ūkio subjektai neįsiregistravę Lietuvos prabavimo rūmuose arba pažeidžia šio įstatymo, valstybės standartų ar kitų norminių aktų reikalavimus;
+Straipsnio punkto pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+ 
 
 
 
@@ -711,7 +779,10 @@ Tauriųjų metalų ir brangakmenių valstybinės priežiūros pareigūnai pagal 
 
 
 
-10) teikti pasiūlymus Lietuvos Respublikos finansų ministerijai panaikinti ūkio subjektui licenciją, jeigu ūkio subjektas nuolat pažeidžia šio įstatymo, valstybės standartų ar kitų norminių aktų reikalavimus. Panaikinus licenciją, ji gali būti išduota iš naujo praėjus ne mažiau kaip vieneriems metams nuo ankstesnės licencijos panaikinimo;
+10) jei leidimas panaikintas, teikti pasiūlymus iš naujo jį išduoti praėjus ne mažiau kaip vieneriems metams nuo ankstesnio leidimo panaikinimo;
+Straipsnio punkto pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+ 
 
 
 
@@ -735,10 +806,12 @@ V. BAIGIAMOSIOS NUOSTATOS
 26 straipsnis
 
 
-Ūkio subjektų ir fizinių asmenų skundus dėl tauriųjų metalų ir brangakmenių valstybinės priežiūros pareigūnų veiksmų per 30 dienų sprendžia Lietuvos prabavimo rūmų vadovas arba jo nesant – pavaduotojas. Pastarųjų sprendimai gali būti apskųsti Lietuvos Respublikos finansų ministerijai. Jeigu pareiškėjas nesutinka su Finansų ministerijos sprendimu, jis turi teisę per 10 dienų po sprendimo gavimo kreiptis į teismą.
+Ūkio subjektų ir fizinių asmenų skundus dėl tauriųjų metalų ir brangakmenių valstybinės priežiūros pareigūnų veiksmų per 15 dienų nuo skundo gavimo dienos išnagrinėja Lietuvos prabavimo rūmų vadovas arba jo nesant – pavaduotojas. Jeigu pareiškėjas nesutinka su Lietuvos prabavimo rūmų vadovo sprendimu, jis turi teisę per 30 dienų po sprendimo gavimo kreiptis į teismą.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
  
-
-
 
 
 
@@ -772,3 +845,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo 3, 4, 6, 7, 9, 10, 11, 12, 16, 17, 18, 22, 23, 25, 26 straipsnių pakeitimo ir papildymo įstatymas
