@@ -13,6 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5B5E3D4666A4"
 
 # Lietuvos Respublikos valstybinio socialinio aprūpinimo sistemos pagrindų įstatymas
 
+Įstatymas netenka galios 2019-11-22:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2525, 2019-11-14, paskelbta TAR 2019-11-21, i. k. 2019-18577
+Lietuvos Respublikos valstybinio socialinio aprūpinimo sistemos pagrindų įstatymo Nr. I-696 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 1991-05-25 iki 2019-11-21
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 111-0; Žin. 1990, Nr.32-761, i. k. 0901010ISTA000I-696
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBINIO SOCIALINIO APRŪPINIMO SISTEMOS PAGRINDŲ
 ĮSTATYMAS
@@ -73,6 +82,9 @@ Lietuvos Respublikos socialinio draudimo biudžetas yra savarankiškas ir neįtr
  
 
 10 straipsnis. Valstybinio socialinio draudimo įmokų tarifus nustato Lietuvos Respublikos Vyriausybė.
+Privalomojo valstybinio socialinio draudimo įmokų dalių, mokamų iš pačių apdraustųjų pajamų, susijusių su darbo santykiais, tarifus nustato Lietuvos Respublikos Aukščiausioji Taryba.
+Straipsnio pakeitimai:
+Nr. I-1339, 1991-05-21, Lietuvos aidas, 1991, Nr. 102-0 (1991-05-24); Žin., 1991, Nr. 16-411 (1991-06-10), i. k. 0911010ISTA00I-1339
  
 
 11 straipsnis. Iš Lietuvos Respublikos socialinio draudimo biudžeto išmokamos Valstybinio socialinio draudimo įstatyme numatomos išmokos.
@@ -122,4 +134,14 @@ PIRMININKO PAVADUOTOJAS                            �
  
 Vilnius, 1990 m. spalio 23 d. 
 Nr. I-696
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-1339, 1991-05-21, Lietuvos aidas, 1991, Nr. 102-0 (1991-05-24); Žin., 1991, Nr. 16-411 (1991-06-10), i. k. 0911010ISTA00I-1339
+Dėl Lietuvos Respublikos valstybinio socialinio aprūpinimo sistemos pagrindų įstatymo 10 straipsnio papildymo
 
