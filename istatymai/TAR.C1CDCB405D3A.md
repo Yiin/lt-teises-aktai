@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/c1cdcb405d3a11ee81b8b446907f594f"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 10, 12 ir 17 straipsnių pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2025-03-19 iki 2026-12-31
+Suvestinė redakcija nuo 2027-01-01
  
 Įstatymas paskelbtas: TAR 2023-09-27, i. k. 2023-18812
  
