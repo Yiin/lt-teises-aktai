@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB9B34EA4BA1"
 
 # Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas
 
+Suvestinė redakcija nuo 1998-12-18 iki 2005-03-14
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 84-2002, i. k. 0961010ISTA00I-1494
+ 
 LIETUVOS RESPUBLIKOS MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJŲ STATUSO Į S T A T Y M A S
  
 1996 m. rugpjūčio 15 d. Nr. I-1494
@@ -39,7 +43,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Įstatyme vartojamos pagrindinės sąvokos
 
 
-1. Meno kūrėjas – asmuo, kuriantis meno vertybes.
+1. Meno kūrėjas – fizinis asmuo, kuriantis meno vertybes (meno kūrinius) ar (ir) meniškai atliekantis kūrinius.
+Straipsnio dalies pakeitimai:
+Nr. VIII-943, 1998-11-26, Žin., 1998, Nr. 111-3058 (1998-12-18), i. k. 0981010ISTAVIII-943
+ 
 
 
 
@@ -95,13 +102,20 @@ MENO KŪRĖJŲ IR JŲ ORGANIZACIJŲ TEISINĖ PADĖTIS
 
 
 
-4 straipsnis. Meno kūrėjo socialinė apsauga
+4 straipsnis. Meno kūrėjų socialinės garantijos ir kūrybinės veiklos skatinimas
 
 
-Valstybinių pensijų ir stipendijų skyrimo tvarka, socialinis draudimas, visų kitų ekonominių ir socialinių teisių apsauga nustatoma pagal įstatymus. Meno kūrėjų organizacijos rūpinasi socialinio draudimo fondų sudarymu, gali pasirašyti sutartis su valstybinėmis ar kitomis socialinio draudimo organizacijomis savo nariams apdrausti.
+1. Valstybinių pensijų skyrimo tvarką, socialinį draudimą ir kitas meno kūrėjų socialines garantijas nustato įstatymai. 
+
+
+
+
+2. Valstybės stipendijos meno kūrėjams skiriamos jų kūrybinei veiklai skatinti. Stipendijų skyrimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-943, 1998-11-26, Žin., 1998, Nr. 111-3058 (1998-12-18), i. k. 0981010ISTAVIII-943
  
-
-
 
 
 
@@ -200,7 +214,7 @@ MENO KŪRĖJŲ ORGANIZACIJOS TURTAS
 9 straipsnis. Meno kūrėjų organizacijos turtas ir pajamų šaltiniai
 
 
-1. Meno kūrėjų organizacijai nuosavybės teise gali priklausyti nekilnojamasis turtas (žemė, pastatai, statiniai, įmonės ir kt.) ir kilnojamasis turtas, reikalingas jos veiklai.
+1. Meno kūrėjų organizacijai nuosavybės teise įstatymų nustatyta tvarka gali priklausyti nekilnojamasis turtas ir kilnojamasis turtas, reikalingas jos veiklai.
 
 
 
@@ -228,7 +242,7 @@ MENO KŪRĖJŲ ORGANIZACIJOS TURTAS
 
 
 
-5) valstybės ir savivaldybės perduotos tikslinės lėšos;
+5) valstybės ir savivaldybės skiriamos tikslinės lėšos; 
 
 
 
@@ -239,11 +253,20 @@ MENO KŪRĖJŲ ORGANIZACIJOS TURTAS
 
 
 7) kitos teisėtos pajamos.
+
+
+
+
+
+
+3. Valstybės biudžeto lėšos meno kūrėjų organizacijoms gali būti skiriamos šių 
+organizacijų pateiktoms ir Lietuvos Respublikos kultūros ministerijos patvirtintoms
+programoms finansuoti.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-943, 1998-11-26, Žin., 1998, Nr. 111-3058 (1998-12-18), i. k. 0981010ISTAVIII-943
  
-
-
-
-
 
 
 
@@ -264,39 +287,33 @@ MENO KŪRĖJŲ ORGANIZACIJOS TURTAS
 
 
 
-11 straipsnis. Meno kūrėjų organizacijų teisė steigti įmones
+11 straipsnis. Meno kūrėjų organizacijos teisė steigti įmones ir viešąsias įstaigas bei kitas ne pelno organizacijas
 
 
-1. Meno kūrėjų organizacija turi teisę steigti įstatymų tvarka nustatytas ir registruojamas įmones (individualias įmones, ūkines bendrijas, uždarąsias akcines bendroves ir kt.).
+Įstatymų nustatyta tvarka meno kūrėjų organizacija turi teisę steigti įmones, taip pat viešąsias įstaigas bei kitas ne pelno organizacijas.
 
 
-
-
-2. Įstatuose nurodytiems tikslams ir uždaviniams įgyvendinti meno kūrėjų organizacija įstatymų nustatyta tvarka gali steigti ne pelno organizacijas (įmones). Meno kūrėjų organizacijos individualioms įmonėms, kurios ne mažiau kaip 30 procentų pelno naudoja organizacijos poreikiams, pagal įstatymus turi būti suteiktos mokesčių lengvatos.
+Straipsnio pakeitimai:
+Nr. VIII-943, 1998-11-26, Žin., 1998, Nr. 111-3058 (1998-12-18), i. k. 0981010ISTAVIII-943
  
 
 
 
 
+12 straipsnis. Meno kūrėjų organizacijos viešųjų įstaigų ir personalinių(individualių) įmonių turtas
 
 
-12 straipsnis. Meno kūrėjų organizacijos ne pelno įmonių ir personalinių (individualių) įmonių turtas
-
-
-1. Meno kūrėjų organizacijos ne pelno įmonės turtą sudaro steigėjų jai perduoti pastatai, kitas ilgalaikis turtas, kilnojamasis turtas, finansiniai ištekliai ir kitas su įmonės veikla susijęs turtas, taip pat turtas, perduotas panaudos pagrindais.
-
-
-
-
-2. Meno kūrėjų organizacijos – individualios įmonės steigėjos perduotą įmonei turtą įmonės administracija valdo, juo naudojasi ir disponuoja patikėjimo teise pagal organizacijos valdymo institucijos patvirtintus nuostatus.
+1. Meno kūrėjų organizacijos viešosios įstaigos turtą sudaro steigėjų jai perduoti pastatai, kitas ilgalaikis turtas, kilnojamasis turtas, finansiniai ištekliai ir kitas su viešosios įstaigos veikla susijęs turtas. Valstybės ar savivaldybės turtas meno kūrėjų organizacijos viešajai įstaigai gali būti perduotas laikinai neatlygintinai naudotis panaudos pagrindais.
 
 
 
 
-3. Meno kūrėjų organizacijos individuali įmonė, gavusi įstatymų nustatytas mokesčių lengvatas, įmonės veiklai plėsti turi teisę panaudoti ne daugiau kaip 50 procentų pelno. Likusi pelno dalis perduodama meno kūrėjų organizacijai ir turi būti skirta šio įstatymo 13 straipsnyje nurodytiems fondams formuoti.
+2. Meno kūrėjų organizacijos - individualios įmonės steigėjos perduotą įmonei turtą įmonės administracija valdo, juo naudojasi ir disponuoja patikėjimo teise pagal organizacijos valdymo institucijos patvirtintus nuostatus.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-943, 1998-11-26, Žin., 1998, Nr. 111-3058 (1998-12-18), i. k. 0981010ISTAVIII-943
  
-
-
 
 
 
@@ -311,20 +328,12 @@ MENO KŪRĖJŲ ORGANIZACIJŲ FONDAI, SUSIVIENIJIMAI, SUTARTYS
 13 straipsnis. Meno kūrėjų organizacijų fondai
 
 
-1. Meno kūrėjų organizacijų narių kūrybinio darbo ir socialinėms gyvenimo sąlygoms gerinti steigiami labdaros ir paramos, taip kiti įstatymų nustatyti fondai. Fonduose kaupiamų lėšų naudojimo tvarką nustato atitinkami įstatymai ir meno kūrėjų organizacijos įstatai.
+Meno kūrėjų organizacijos savo narių socialinei apsaugai gerinti gali steigti labdaros ir paramos bei kitus įstatymų nustatytus fondus. Fonduose kaupiamų lėšų naudojimo tvarką nustato atitinkami įstatymai ir fondų įstatai.
 
 
-
-
-2. Pagal meno kūrėjų organizacijų pasiūlytas ir Vyriausybės patvirtintas programas Vyriausybė nustato rėmimo iš biudžeto tvarką lėšoms fonduose kaupti.
-
-
-
-
-3. Vyriausybės arba savivaldybės tikslinės lėšos meno kūriniams kurti meno kūrėjų organizacijų nariams suteikiamos tik per jų organizacijų fondus.
+Straipsnio pakeitimai:
+Nr. VIII-943, 1998-11-26, Žin., 1998, Nr. 111-3058 (1998-12-18), i. k. 0981010ISTAVIII-943
  
-
-
 
 
 
@@ -367,3 +376,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-943, 1998-11-26, Žin., 1998, Nr. 111-3058 (1998-12-18), i. k. 0981010ISTAVIII-943
+Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo 2, 4, 9, 11, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
