@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2002-04-30 iki 2003-07-24
+Suvestinė redakcija nuo 2003-07-25 iki 2003-12-11
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
  
@@ -67,8 +67,11 @@ Vėliava ir jos atvaizdas visada turi atitikti Lietuvos valstybės vėliavos spa
 Lietuvos valstybės vėliava iškeliama:
 
 
-1) prie Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės, Lietuvos Respublikos krašto apsaugos ministerijos ir savarankiškų karinių dalinių teritorijose, prie apskričių viršininkų administracijų, savivaldybių tarybų pastatų, taip pat ant Gedimino pilies bokšto Vilniuje – nuolat.
+1) prie Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės, Lietuvos Respublikos krašto apsaugos ministerijos ir savarankiškų karinių dalinių teritorijose, prie apskričių viršininkų administracijų, savivaldybių tarybų pastatų, taip pat ant Gedimino pilies bokšto Vilniuje – nuolat. Prie valstybinių aukštųjų ir valstybės bei savivaldybių bendrojo lavinimo mokyklų – paprastai iškeliama prasidėjus mokslo metams ir nuleidžiama jiems pasibaigus.
 Prie Lietuvos Respublikos valstybės ir savivaldybių institucijų bei įstaigų nuolat iškeliama tik Lietuvos valstybės vėliava. Naudoti kitų valstybių vėliavas prie Lietuvos Respublikos valstybės ir savivaldybių institucijų bei įstaigų, taip pat jų pastatų viduje neleidžiama, išskyrus šio įstatymo 5 straipsnyje nurodytus atvejus;
+Straipsnio punkto pakeitimai:
+Nr. IX-1704, 2003-07-04, Žin., 2003, Nr. 74-3422 (2003-07-25), i. k. 1031010ISTA0IX-1704
+ 
 
 
 
@@ -379,3 +382,8 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
 Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3, 5, 8 ir 12 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1704, 2003-07-04, Žin., 2003, Nr. 74-3422 (2003-07-25), i. k. 1031010ISTA0IX-1704
+Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 straipsnio papildymo įstatymas
