@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AD44354DA25E"
 
 # Lietuvos Respublikos augalų apsaugos įstatymas
 
+Suvestinė redakcija nuo 1997-06-25 iki 1998-06-18
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 90-2013, i. k. 0951010ISTA00I-1069
+ 
+ 
 LIETUVOS RESPUBLIKOS
 AUGALŲ APSAUGOS
 ĮSTATYMAS
@@ -73,7 +78,10 @@ augalų apsaugos priemonių registracija – procesas, kurio metu įteisinamas n
 3 straipsnis. Augalų apsaugos valstybinis valdymas ir valstybinė priežiūra
 
 
-Lietuvos Respublikoje augalų apsaugos valstybinį valdymą, atsižvelgdamos į šio darbo specifinį pobūdį, vykdo Žemės ūkio ir Miškų ūkio ministerijos per valstybines augalų ir miškų apsaugos tarnybas, Aplinkos apsaugos ministerija per regionines aplinkos apsaugos agentūras, Sveikatos apsaugos ministerija per visuomenės sveikatos priežiūros tarnybas ir apskričių valdytojų administracijos per žemės ūkio departamentus bei apskričių žemės ūkio departamentų rajonų žemės ūkio valdybas. Minėtos tarnybos, neatsižvelgdamos į naudotojų pavaldumą, kontroliuoja cheminių ir biologinių augalų apsaugos priemonių įvežimą, saugojimą, prekybą ir naudojimą.
+Lietuvos Respublikoje augalų apsaugos valstybinį valdymą, atsižvelgdama į šio darbo specifinį pobūdį, vykdo Žemės ir miškų ūkio ministerija per valstybines augalų ir miškų apsaugos tarnybas, Aplinkos apsaugos ministerija per regionines aplinkos apsaugos agentūras, Sveikatos apsaugos ministerija per visuomenės sveikatos priežiūros tarnybas ir apskričių viršininkų administracijos per žemės ūkio departamentus bei apskričių žemės ūkio departamentų rajonų žemės ūkio valdybas. Minėtos tarnybos, neatsižvelgdamos į naudotojų pavaldumą, kontroliuoja cheminių ir biologinių augalų apsaugos priemonių įvežimą, saugojimą, prekybą ir naudojimą. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
+ 
 
 
 
@@ -124,10 +132,12 @@ Valstybiniai augalų apsaugos inspektoriai turi teisę žemės naudotojus traukt
 4 straipsnis. Valstybinės augalų apsaugos tarnybos finansavimas
 
 
-Žemės ūkio ministerijos Valstybinė augalų apsaugos tarnyba yra išlaikoma iš valstybės biudžeto lėšų, o Miškų ūkio ministerijos – iš Miško fondo lėšų.
+Žemės ir miškų ūkio ministerijos Valstybinė augalų apsaugos tarnyba yra išlaikoma iš valstybės biudžeto lėšų, o miškų apsaugos tarnyba – iš Miško fondo lėšų. 
+
+
+Straipsnio pakeitimai:
+Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
  
-
-
 
 
 
@@ -204,12 +214,18 @@ Augalų apsaugos priemonės naudojamos atsižvelgiant į augalų sanitarinę bū
 9 straipsnis. Augalų apsaugos priemonių bei medžiagų naudotojai ir jų pareigos
 
 
-Augalų apsaugos priemonių naudotojais gali būti fiziniai ir juridiniai asmenys, turintys šiai veiklai nustatyta tvarka Žemės ūkio ministerijos Valstybinės augalų apsaugos tarnybos išduotus leidimus.
+Augalų apsaugos priemonių naudotojais gali būti fiziniai ir juridiniai asmenys, turintys šiai veiklai nustatyta tvarka Žemės ir miškų ūkio ministerijos Valstybinės augalų apsaugos tarnybos išduotus leidimus
+Straipsnio dalies pakeitimai:
+Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
+ 
 
 
 
 
-Be Žemės ūkio ministerijos Valstybinės augalų apsaugos tarnybos leidimų gali būti naudojami tik mažo nuodingumo preparatai.
+Be Žemės ir miškų ūkio ministerijos Valstybinės augalų apsaugos tarnybos leidimų gali būti naudojami tik mažo nuodingumo preparatai. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
+ 
 
 
 
@@ -272,11 +288,12 @@ Fiziniai ir juridiniai asmenys, pažeidę Lietuvos Respublikos augalų apsaugos 
 12 straipsnis. Tarptautinis bendradarbiavimas augalų apsaugos srityje
 
 
-Žemės ūkio ir Miškų ūkio ministerijų valstybinės augalų ir miškų apsaugos tarnybos pagal savo kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose, bendradarbiauja su augalų apsaugos priemones tiriančiomis, gaminančiomis ir prekiaujančiomis organizacijomis, keičiasi naujausia informacija augalų apsaugos klausimais.
- 
- 
+Žemės ir miškų ūkio ministerijos valstybinės augalų ir miškų apsaugos tarnybos pagal savo kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose, bendradarbiauja su augalų apsaugos priemones tiriančiomis, gaminančiomis ir prekiaujančiomis organizacijomis, keičiasi naujausia informacija augalų apsaugos klausimais. 
 
 
+Straipsnio pakeitimai:
+Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
+ 
 
 
 
@@ -286,3 +303,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
+Lietuvos Respublikos augalų apsaugos įstatymo 3, 4, 9 ir 12 straipsnių pakeitimo įstatymas
