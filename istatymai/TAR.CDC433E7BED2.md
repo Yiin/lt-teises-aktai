@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2"
 Redagavo: Ramun? L??ait? (1996
 
 Redagavo:
-Ramunė Lūžaitė (1997.12.12)
+Ramunė Lūžaitė (1999.04.14)
  
 Įstatymas
 paskelbtas: Žin., 1993, Nr.28-640
@@ -61,6 +61,15 @@ VIII-552, 97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
 LIETUVOS
 RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 2, 3, 6 STRAIPSNIŲ
 PAPILDYMO IR PAKEITIMO ĮSTATYMAS 
+ 
+5.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1115,
+99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
+LIETUVOS RESPUBLIKOS
+UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 4 IR 7 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -135,33 +144,34 @@ I-1617, 96.11.14, Žin., 1996, Nr.116-2692 (96.12.04)
 Nr.
 VIII-552, 97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
  
-     4
+4
 straipsnis. Užsienio paskolos
  
-     Tarpvalstybinės,
-tarpbankinės  sutartys bei sutartys su tarptautinėmis kredito įstaigomis ir
-organizacijomis dėl užsienio paskolų gavimo arba paskolų suteikimo į užsienį
-turi būti įregistruotos Lietuvos Respublikos finansų ministerijoje.
-     Tokia
-pat tvarka taikoma sutartims dėl paskolų užsienio valiuta, kurių  grąžinimą 
-garantuoja  Lietuvos  Respublikos Vyriausybė.
-     Užsienio
-paskolų sutarčių registravimo, paskolų paskirstymo ir grąžinimo tvarką nustato
-Lietuvos Respublikos Vyriausybė ir Lietuvos bankas.
+Valstybės
+vardu ir su valstybės garantija gaunamos užsienio paskolos turi būti
+įregistruojamos Lietuvos Respublikos finansų ministerijoje Lietuvos Respublikos
+Vyriausybės nustatyta tvarka.
+Lietuvos
+Respublikos juridinių asmenų ir įmonių, neturinčių juridinio asmens teisių,
+gaunamos užsienio paskolos be valstybės garantijos ir užsienio ūkio subjektams
+suteikiamos paskolos turi būti įregistruojamos Lietuvos banke Lietuvos banko
+nustatyta tvarka.
  
 Straipsnio
 pakeitimai:
 Nr.
 I-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
+Nr. VIII-1115,
+99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
  
      5
-straipsnis. Kapitalo ŌveŲimas ir iÕveŲimas
+straipsnis. Kapitalo įvežimas ir išvežimas
  
-     UŲsienio 
-kapitalo,  investuojamo Lietuvos Respublikoje, ŌveŲimŠ,  taip pat Õio kapitalo,
-gauto pelno ir dividendÖ iÕveŲimŠ  nustato  UŲsienio  kapitalo  investicijÖ 
-Lietuvos Respublikoje  Ōstatymas  ir  Lietuvos  Respublikos  laisvÖjÖ
-ekonominiÖ zonÖ pagrindÖ Ōstatymas.
+     Užsienio 
+kapitalo,  investuojamo Lietuvos Respublikoje, įvežimą,  taip pat šio kapitalo,
+gauto pelno ir dividendų išvežimą  nustato  užsienio  kapitalo  investicijų 
+Lietuvos Respublikoje  įstatymas  ir  Lietuvos  Respublikos  laisvųjų
+ekonominių zonų pagrindų įstatymas.
  
 Straipsnio
 pakeitimai:
@@ -183,12 +193,18 @@ I-451, 94.04.28, Žin., 1994, Nr. 34-622 (94.05.06)
 Nr.
 VIII-552, 97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
  
-     7
+7
 straipsnis. Atsakomybė už įstatymo pažeidimą
  
-     Asmenys
-už užsienio valiutos naudojimo, operacijų, įvežimo ir išvežimo tvarkos
-pažeidimus atsako pagal Lietuvos Respublikos įstatymus.
+Asmenys
+už užsienio valiutos naudojimo, operacijų, įvežimo ir išvežimo, taip pat už
+užsienio paskolų registravimo tvarkos pažeidimus atsako pagal Lietuvos
+Respublikos įstatymus.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-1115,
+99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
  
      8
 straipsnis. Baigiamieji nuostatai
@@ -198,14 +214,14 @@ nuosavybės  formų įmonės, įstaigos, organizacijos, bankai, draudimo
 organizacijos perrašo į litus įstatinio kapitalo dalį, turimą užsienio valiuta,
 taip pat akcijas, dividendus, tantjemas, draudimo atlyginimą, draudimo sumas ir
 kitas išmokas 1993 m. rugpjūčio 1 dienos duomenimis pagal Lietuvos banko
-nustatytą oficialų  kursą arba  kita  Lietuvos  Respublikos Vyriausybės
-nustatyta tvarka.
+nustatytą oficialų  kursą arba  kita  Lietuvos  Respublikos Vyriausybės nustatyta
+tvarka.
      Piniginiai
 įsipareigojimai užsienio valiuta, kurie turi būti vykdomi Lietuvoje ir jų
 terminas baigiasi po 1993 m. rugpjūčio 1 dienos, išskyrus bankų įsipareigojimus
-išmokėti iš valiutinių sąskaitų indėlius, taip pat palūkanas už juos ir
-įsipareigojimus bankams dėl užsienio valiuta išduotų paskolų grąžinimo,
-įvykdomi litais pagal Lietuvos banko nustatytą oficialų kursą.
+išmokėti iš valiutinių sąskaitų indėlius, taip pat palūkanas už juos ir įsipareigojimus
+bankams dėl užsienio valiuta išduotų paskolų grąžinimo, įvykdomi litais pagal
+Lietuvos banko nustatytą oficialų kursą.
  
      9
 straipsnis. Įstatymo įsigaliojimas
