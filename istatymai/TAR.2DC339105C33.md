@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2DC339105C33"
 
 # Lietuvos Respublikos muitų tarifų įstatymas
 
-Suvestinė redakcija nuo 1997-05-07 iki 1997-12-31
+Įstatymas netenka galios 1998-07-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-633, 1998-02-19, Žin., 1998, Nr. 28-727 (1998-03-25), i. k. 0981010ISTAVIII-633
+Lietuvos Respublikos muitų tarifų įstatymas
+ 
+Suvestinė redakcija nuo 1998-01-01 iki 1998-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 88-0; Žin. 1993, Nr.15-375, i. k. 0931010ISTA000I-138
  
@@ -106,44 +111,9 @@ Lietuvos Respublikos muitų teritorijoje, atsižvelgiant į Lietuvos ūkio inter
 9) statistiniai – taikomi Lietuvos Respublikos prekybos apyvartai apskaičiuoti.
  
 
-III. PREKIŲ KILMĖ IR MUITŲ DYDIS
- 
-
-9 straipsnis. 
-
-Taikant sumažintus muitus prekėms, kilusioms iš atskirų šalių, prekių kilmės šalimi laikoma šalis, kurioje prekės išgautos arba pagamintos.
-
-Prekių, pagamintų ne vienoje šalyje, kilmės šalimi laikoma šalis, kurioje atliktas esminis, ekonomiškai pagrįstas prekes sudarančių žaliavų, medžiagų arba sudėtinių dalių perdirbimas. Jeigu kitko nenumatyta Lietuvos Respublikos tarptautinėse sutartyse arba Lietuvos Respublikos Vyriausybės priimtuose teisės aktuose, prekių perdirbimas laikomas esminiu, kai pagaminta prekė klasifikuojama kitoje muitų tarifų pozicijoje, identifikuojamoje pagal pirmuosius keturis Harmonizuotos prekių aprašymo ir kodavimo sistemos prekių kodo ženklus, negu jos gamyboje panaudotos žaliavos, medžiagos arba sudėtinės dalys.
- 
-
-10 straipsnis. 
-
-Apmokestinamų prekių muitas apskaičiuojamas pagal jų muitinę vertę. Prekių muitinė vertė yra kaina (sandorio vertė), sumokėta ar priklausanti sumokėti už parduodamas prekes, kartu su į šią kainą neįskaičiuotomis, tačiau pirkėjui tenkančiomis išlaidomis:
-
-1) transporto ir draudimo iki Lietuvos Respublikos valstybės sienos ar uosto kaštais;
-
-2) komisiniu atlyginimu, sumokėtu už prekių pardavimą;
-
-3) prekių įpakavimo verte, jeigu prekės pateikiamos įpakuotos;
-
-4) mokesčiais už patentus ir licencijas, jeigu šie mokesčiai yra prekių pardavimo pirkėjui sąlyga;
-
-5) pajamomis (jų dalimi), gautomis parduodant, naudojant prekes arba kitaip disponuojant jomis, tiesiogiai arba netiesiogiai tenkančiomis pardavėjui;
-
-6) išlaidomis, susijusiomis su pirkėjo nemokamai ar mažesne negu rinkos kaina tiekiamomis prekėmis ar teikiamomis paslaugomis, kurios susijusios su įvertinamų prekių gamyba arba pardavimu.
-
-Jeigu sandorio vertės šiame straipsnyje nurodyta tvarka nustatyti neįmanoma, prekių muitinė vertė nustatoma paeiliui taikant šiuos įvertinimo metodus:
-
-1) tapačių prekių pardavimo sandorio maksimalios vertės;
-
-2) panašių prekių pardavimo sandorio maksimalios vertės;
-
-3) dedukcinį (prekių muitinė vertė nustatoma remiantis tapačių ar panašių prekių pardavimu Lietuvos Respublikoje maksimalia kaina);
-
-4) sumavimo (prekių muitinė vertė nustatoma sudedant prekių gamybos, įpakavimo, gabenimo ir kitas paprastai į prekių kainą įskaičiuojamas išlaidas).
-
-Prekių muitinio įvertinimo metodų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota valstybės institucija.
-
+3 skyrius. Neteko galios nuo 1998-01-01
+Skyriaus naikinimas:
+Nr. I-1360, 1996-06-04, Žin. 1996, Nr. 55-1295 (1996-06-12), i. k. 0961010ISTA00I-1360
 Skyriaus pakeitimai:
 Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
  
@@ -301,4 +271,9 @@ Lietuvos Respublikos muitų tarifų įstatymo 13 straipsnio papildymo ir pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-201, 1997-04-29, Žin., 1997, Nr. 39-953 (1997-05-07), i. k. 0971010ISTAVIII-201
 Lietuvos Respublikos muitų tarifų įstatymo 18 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1360, 1996-06-04, Žin., 1996, Nr. 55-1295 (1996-06-12), i. k. 0961010ISTA00I-1360
+Lietuvos Respublikos muitinės kodekso įgyvendinimo įstatymas
 
