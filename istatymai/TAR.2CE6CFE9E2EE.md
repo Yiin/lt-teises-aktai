@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2004-04-01 iki 2004-05-13
+Suvestinė redakcija nuo 2004-05-14 iki 2004-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -53,7 +53,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Nuolat Lietuvos Respublikoje gyvenančiais asmenimis laikomi Lietuvos Respublikos piliečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje yra įrašyti į Lietuvos Respublikos gyventojų registrą arba kurie, vadovaujantis Civiliniu kodeksu, yra pripažįstami turinčiais nuolatinę gyvenamąją vietą Lietuvos Respublikoje, taip pat nuolat Lietuvos Respublikoje gyvenantys užsieniečiai. 
+4. Nuolat Lietuvos Respublikoje gyvenančiais asmenimis laikomi Lietuvos Respublikos piliečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčių gyvenamosios vietos – apie savivaldybę, kurioje jie gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą, taip pat nuolat Lietuvos Respublikoje gyvenantys užsieniečiai. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2217, 2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14), i. k. 1041010ISTA0IX-2217
  
 
 
@@ -965,3 +967,8 @@ Lietuvos Respublikos pilietybės įstatymo įgyvendinimo įstatymo, Valstybinių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1966, 2004-01-20, Žin., 2004, Nr. 21-619 (2004-02-07), i. k. 1041010ISTA0IX-1966
 Lietuvos Respublikos šalpos (socialinių) pensijų įstatymo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2217, 2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14), i. k. 1041010ISTA0IX-2217
+Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo, Valstybinių šalpos išmokų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Valstybės paramos būstui įsigyti ar išsinuomoti įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas
