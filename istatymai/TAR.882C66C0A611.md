@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.882C66C0A611"
 
 # Lietuvos Respublikos vietos savivaldybės Tarybos deputato statuso įstatymas
 
-Suvestinė redakcija nuo 1991-03-14 iki 1991-11-04
+Įstatymas netenka galios 1995-03-26:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-790, 1995-02-07, Žin., 1995, Nr. 18-403 (1995-03-01), i. k. 0951010ISTA000I-790
+Lietuvos Respublikos savivaldybės tarybos nario statuso įstatymas
+ 
+Suvestinė redakcija nuo 1991-11-05 iki 1995-03-25
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 8-0; Žin. 1990, Nr.17-441, i. k. 0901010ISTA000I-242
  
@@ -68,7 +73,10 @@ Deputato įgaliojimai gali būti nutraukti prieš terminą:
 
 1) deputatui netekus Lietuvos Respublikos pilietybės;
 
-2) Tarybai priėmus sprendimą, jeigu deputatas, negalėdamas vykdyti savo įgaliojimų, jų atsisako;
+2) Tarybai priėmus sprendimą, jeigu deputatas, negalėdamas vykdyti savo įgaliojimų, jų atsisako arba iš eilės nedalyvauja trijose tarybos sesijose be pateisinamos priežasties;
+Straipsnio punkto pakeitimai:
+Nr. I-1943, 1991-11-05, Lietuvos aidas, 1991, Nr. 224-0 (1991-11-08); Žin., 1991, Nr. 32-870 (1991-11-20), i. k. 0911010ISTA00I-1943
+ 
 
 3) atšaukus deputatą pagal įstatymą, jeigu jis nepateisina rinkėjų pasitikėjimo;
 
@@ -182,11 +190,16 @@ Deputato veiklos laikas Tarybos renkamojoje pareigybėje įskaitomas į visų r�
 
 Savivaldybės Tarybos deputatas jos teritorijoje negali būti patrauktas baudžiamojon atsakomybėn, suimtas, jam negali būti taikomos administracinės nuobaudos teismine tvarka be šios Tarybos sutikimo, išskyrus atvejus, kai jis užtinkamas darant nusikaltimą.
 
-Tarybos sprendimą neleisti patraukti deputato baudžiamojon atsakomybėn gali panaikinti atitinkama aukštesnioji Taryba, perduodama Tarybai klausimą apsvarstyti pakartotinai. Jeigu Taryba vėl patvirtins pradinį sprendimą, klausimą iš esmės gali spręsti Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas Respublikos prokuroro teikimu.
+Tarybos sprendimą neleisti patraukti deputato baudžiamojon atsakomybėn jį suimti, skirti administracinę nuobaudą teismine tvarka gali panaikinti atitinkama aukštesnioji Taryba, perduodama Tarybai klausimą apsvarstyti pakartotinai. Jeigu Taryba vėl patvirtins pradinį sprendimą, klausimą iš esmės gali spręsti Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas Respublikos prokuroro teikimu.
+Straipsnio dalies pakeitimai:
+Nr. I-1943, 1991-11-05, Lietuvos aidas, 1991, Nr. 224-0 (1991-11-08); Žin., 1991, Nr. 32-870 (1991-11-20), i. k. 0911010ISTA00I-1943
+ 
 
-Jeigu Taryba per vieną mėnesį nesprendė klausimo dėl leidimo patraukti deputatą baudžiamojon atsakomybėn, jį gali spręsti Lietuvos Respublikos Aukščiausioji Taryba. 
+Jeigu Taryba per vieną mėnesį nesprendė klausimo dėl leidimo patraukti deputatą baudžiamojon atsakomybėn jį suimti, skirti administracinę nuobaudą teismine tvarka, jį gali spręsti Lietuvos Respublikos Aukščiausioji Taryba. 
 Papildyta straipsnio dalimi:
 Nr. I-1144, 1991-03-14, Lietuvos aidas, 1991, Nr. 96-0 (1991-03-20); Žin., 1991, Nr. 9-250 (1991-03-31), i. k. 0911010ISTA00I-1144
+Straipsnio dalies pakeitimai:
+Nr. I-1943, 1991-11-05, Lietuvos aidas, 1991, Nr. 224-0 (1991-11-08); Žin., 1991, Nr. 32-870 (1991-11-20), i. k. 0911010ISTA00I-1943
  
 
 23 straipsnis. Savivaldybės Tarybos deputato pažymėjimas ir deputato ženklas
@@ -215,4 +228,9 @@ Pakeitimai:
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-1144, 1991-03-14, Lietuvos aidas, 1991, Nr. 96-0 (1991-03-20); Žin., 1991, Nr. 9-250 (1991-03-31), i. k. 0911010ISTA00I-1144
 Dėl Lietuvos Respublikos vietos savivaldybės Tarybos deputato statuso įstatymo 22 straipsnio papildymo
+ 
+2.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-1943, 1991-11-05, Lietuvos aidas, 1991, Nr. 224-0 (1991-11-08); Žin., 1991, Nr. 32-870 (1991-11-20), i. k. 0911010ISTA00I-1943
+Dėl Lietuvos Respublikos vietos savivaldybės Tarybos deputato statuso įstatymo 8 ir 22 straipsnių papildymo
 
