@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
+Suvestinė redakcija nuo 2003-05-01 iki 2004-12-31
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
+ 
+ 
 LIETUVOS RESPUBLIKOS
 ANTSTOLIŲ
 Į S T A T Y M A S
@@ -284,7 +289,10 @@ Antstolis, vykdydamas šiame Įstatyme numatytą veiklą, negali eiti kitų apmo
 1. Antstolio įgaliojimai teisingumo ministro įsakymu gali būti sustabdomi, jei:
 
 
-1) antstolis patraukiamas kaltinamuoju. Antstolio įgaliojimai sustabdomi iki sprendimo baudžiamojoje byloje įsiteisėjimo. Jei baudžiamoji byla nutraukiama arba įsiteisėja išteisinamasis nuosprendis, teisingumo ministro įsakymu antstolio įgaliojimai atnaujinami;
+1) antstolis yra įtariamas arba kaltinamas padaręs nusikalstamą veiką. Antstolio įgaliojimai sustabdomi iki sprendimo baudžiamojoje byloje įsiteisėjimo. Jei baudžiamoji byla nutraukiama arba įsiteisėja išteisinamasis nuosprendis, teisingumo ministro įsakymu antstolio įgaliojimai atnaujinami;
+Straipsnio punkto pakeitimai:
+Nr. IX-1459, 2003-04-03, Žin., 2003, Nr. 38-1704 (2003-04-24), i. k. 1031010ISTA0IX-1459
+ 
 
 
 
@@ -1498,3 +1506,13 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1459, 2003-04-03, Žin., 2003, Nr. 38-1704 (2003-04-24), i. k. 1031010ISTA0IX-1459
+Lietuvos Respublikos antstolių įstatymo 11 straipsnio pakeitimo įstatymas
