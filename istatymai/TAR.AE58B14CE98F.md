@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AE58B14CE98F"
 
 # Lietuvos Respublikos peticijų įstatymas
 
-Suvestinė redakcija nuo 2003-09-24 iki 2003-12-17
+Suvestinė redakcija nuo 2003-12-18 iki 2006-01-27
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2128; Žin. 1999, Nr.104-0, i. k. 0991010ISTAIII-1313
  
@@ -47,7 +47,10 @@ Bendrosios nuostatos
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Peticijos teisė – Konstitucijoje laiduojama teisė kreiptis šio įstatymo nustatyta tvarka į Seimą, Vyriausybę ar vietos savivaldos valdžios ir valdymo institucijas – tarybą bei merą (valdybą) (toliau – vietos savivaldos valdžios ir valdymo institucijos).
+1. Peticijos teisė – Konstitucijoje laiduojama teisė kreiptis šio įstatymo nustatyta tvarka į Seimą, Vyriausybę ar savivaldybės institucijas – savivaldybės tarybą bei savivaldybės administracijos direktorių (toliau – savivaldybės institucijos). 
+Straipsnio dalies pakeitimai:
+Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010ISTA0IX-1869
+ 
 
 2. Pareiškėjas – ne jaunesnis kaip 16 metų Lietuvos Respublikos pilietis ar užsienietis, nuolat gyvenantis Lietuvos Respublikoje, arba jų grupė, šio įstatymo nustatyta tvarka parašę ir pateikę kreipimąsi (peticiją).
 Straipsnio dalies pakeitimai:
@@ -56,7 +59,10 @@ Nr. IX-1723, 2003-09-04, Žin., 2003, Nr. 90-4062 (2003-09-24), i. k. 1031010IST
 
 3. Pareiškėjo atstovas – pirmasis kreipimąsi pasirašęs ar kitas kreipimesi nurodytas asmuo, kuriam turi būti pranešta apie peticijos nagrinėjimą, priimtus sprendimus ir kuris turi teisę dalyvauti ją nagrinėjant.
 
-4. Peticija – raštiškas pareiškėjo kreipimasis į Seimą, Vyriausybę ar vietos savivaldos valdžios ir valdymo institucijas su reikalavimais ar siūlymais spręsti šio įstatymo 3 straipsnio 1 dalyje nurodytus klausimus, kai tam reikia priimti naują teisės aktą, pakeisti, papildyti ar pripažinti netekusiu galios galiojantį teisės aktą ir kai peticijų komisijos tokį kreipimąsi pripažįsta peticija.
+4. Peticija – raštiškas pareiškėjo kreipimasis į Seimą, Vyriausybę ar savivaldybės institucijas su reikalavimais ar siūlymais spręsti šio įstatymo 3 straipsnio 1 dalyje nurodytus klausimus, kai tam reikia priimti naują teisės aktą, pakeisti, papildyti ar pripažinti netekusiu galios galiojantį teisės aktą ir kai peticijų komisijos tokį kreipimąsi pripažįsta peticija.
+Straipsnio dalies pakeitimai:
+Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010ISTA0IX-1869
+ 
 
 5. Peticijų komisijos – nuolatinės komisijos, kurios sprendžia kreipimosi pripažinimo peticija bei peticijų priėmimo nagrinėti klausimus, jas nagrinėja ir pateikia išvadas dėl peticijoje išdėstytų reikalavimų ir siūlymų tenkinimo.
  
@@ -67,9 +73,15 @@ Nr. IX-1723, 2003-09-04, Žin., 2003, Nr. 90-4062 (2003-09-24), i. k. 1031010IST
 
 1) žmogaus teisių ir laisvių apsaugos ar įgyvendinimo;
 
-2) valdžios ir valdymo institucijų reformavimo; 
+2) valstybės ir savivaldybės institucijų reformavimo; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010ISTA0IX-1869
+ 
 
-3) kitus svarbius visuomenei, savivaldai ar valstybei klausimus.
+3) kitus svarbius visuomenei, savivaldybėms ar valstybei klausimus.
+Straipsnio punkto pakeitimai:
+Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010ISTA0IX-1869
+ 
 
 2. Kreipimesi negali būti keliami tokie reikalavimai ir siūlymai, kurių išsprendimas varžytų kitų žmonių teises ir laisves, grėstų Lietuvos valstybės nepriklausomybei, teritorijos vientisumui, konstitucinei santvarkai.
  
@@ -108,7 +120,10 @@ Pareiškėjas turi teisę:
 
 6 straipsnis. Peticijų komisijos
 
-1. Peticijų komisijos sudaromos ir veikia vadovaudamosi šiuo įstatymu, savo nuostatais ir kitais teisės aktais. Peticijų komisijos yra atsakingos ir atskaitingos jas sudariusioms valstybės ir vietos savivaldos valdžios ir valdymo institucijoms.
+1. Peticijų komisijos sudaromos ir veikia vadovaudamosi šiuo įstatymu, savo nuostatais ir kitais teisės aktais. Peticijų komisijos yra atsakingos ir atskaitingos jas sudariusioms valstybės ir savivaldybės institucijoms.
+Straipsnio dalies pakeitimai:
+Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010ISTA0IX-1869
+ 
 
 2. Vykdydamos šio įstatymo nustatytas funkcijas, peticijų komisijos turi teisę pasitelkti specialistų (ekspertų), kreiptis į valstybės institucijas, mokslo bei studijų institucijas, švietimo įstaigas su prašymu pateikti išvadas ir kitokią reikiamą medžiagą, pakviesti į savo posėdžius valstybės institucijų, išskyrus teismų, atstovus iš anksto su jais suderintu laiku ir išklausyti jų informaciją.
 
@@ -127,7 +142,10 @@ Kreipimosi padavimas, jo pripažinimas peticija ir peticijos priėmimas nagrinė
 
 7 straipsnis. Kreipimosi padavimas
 
-1. Kreipimasis gali būti paduodamas tiesiogiai arba siunčiamas paštu. Kreipimasis paduodamas Seimui, Vyriausybei ar vietos savivaldos valdžios ir valdymo institucijai atsižvelgiant į tai, kieno kompetencija yra jame iškeltų reikalavimų ir siūlymų nagrinėjimas. Kreipimąsi gali paduoti pats pareiškėjas arba jo atstovas.
+1. Kreipimasis gali būti paduodamas tiesiogiai arba siunčiamas paštu. Kreipimasis paduodamas Seimui, Vyriausybei ar savivaldybės institucijai atsižvelgiant į tai, kieno kompetencija yra jame iškeltų reikalavimų ir siūlymų nagrinėjimas. Kreipimąsi gali paduoti pats pareiškėjas arba jo atstovas.
+Straipsnio dalies pakeitimai:
+Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010ISTA0IX-1869
+ 
 
 2. Pareiškėjas, nesutinkantis su peticijų komisijos ar Seimo, Vyriausybės ar savivaldybės tarybos sprendimu dėl peticijoje iškeltų reikalavimų ir siūlymų, turi teisę po vienerių metų nuo šio įstatymo 15 straipsnyje numatyto pranešimo gavimo dienos šio įstatymo nustatyta tvarka pakartotinai pateikti kreipimąsi. 
  
@@ -179,9 +197,11 @@ Savivaldybės peticijų komisija apie peticijos nagrinėjimo vietą ir laiką pa
 
 11. Kreipimosi pripažinimo peticija ir peticijų priėmimo nagrinėti klausimą peticijų komisija išsprendžia ne vėliau kaip per 20 darbo dienų nuo kreipimosi įregistravimo dienos. Jei kreipimosi pripažinimo peticija ir peticijų priėmimo nagrinėti klausimui išspręsti reikalingi papildomi dokumentai ar išvados, terminas skaičiuojamas nuo paskutinio reikiamo dokumento gavimo dienos.
 
-12. Tuo atveju, kai kreipimasis pripažįstamas peticija ir priimamas nagrinėti, tačiau Seime, Vyriausybėje ar vietos savivaldos valdžios ir valdymo institucijose jau yra užregistruotas ar svarstomas teisės akto projektas, kuriame yra suformuluoti pareiškėjo peticijoje pateikti siūlymai ar reikalavimai, tokia peticija yra perduodama svarstyti kartu su minėtu teisės akto projektu.
+12. Tuo atveju, kai kreipimasis pripažįstamas peticija ir priimamas nagrinėti, tačiau Seime, Vyriausybėje ar savivaldybės institucijose jau yra užregistruotas ar svarstomas teisės akto projektas, kuriame yra suformuluoti pareiškėjo peticijoje pateikti siūlymai ar reikalavimai, tokia peticija yra perduodama svarstyti kartu su minėtu teisės akto projektu.
 Papildyta straipsnio dalimi:
 Nr. IX-1723, 2003-09-04, Žin., 2003, Nr. 90-4062 (2003-09-24), i. k. 1031010ISTA0IX-1723
+Straipsnio dalies pakeitimai:
+Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010ISTA0IX-1869
  
 
 10 straipsnis. Kreipimosi nepripažinimo peticija ir atsisakymo priimti peticiją nagrinėti apskundimas
@@ -221,7 +241,9 @@ Nagrinėjant peticijas, vadovaujamasi šiais principais:
 
 6) bendradarbiavimo – peticijų komisijos bei valstybės institucijos bendradarbiauja siekdamos, kad peticija būtų tinkamai išnagrinėta. Kai peticijoje keliamų klausimų sprendimas pagal kompetenciją priklauso kelioms institucijoms, peticiją nagrinėja platesnę dalykinę ir teritorinę kompetenciją turinčios institucijos sudaryta peticijų komisija;
 
-7) procedūrų konfidencialumo – peticijų komisijų, valstybės ir savivaldybių valdžios ir valdymo institucijų procedūros ir susirašinėjimas su pareiškėjais iki sprendimo priėmimo negali būti viešinami.
+7) procedūrų konfidencialumo – peticijų komisijų, valstybės ir savivaldybės institucijų procedūros ir susirašinėjimas su pareiškėjais iki sprendimo priėmimo negali būti viešinami.
+Straipsnio punkto pakeitimai:
+Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010ISTA0IX-1869
  
 
 12 straipsnis. Seimui pateiktų peticijų nagrinėjimas
@@ -242,13 +264,16 @@ Nagrinėjant peticijas, vadovaujamasi šiais principais:
 3. Vyriausybės Peticijų komisija, išnagrinėjusi peticiją, Vyriausybės darbo reglamento nustatyta tvarka teikia Vyriausybei išvadas dėl peticijoje išdėstytų reikalavimų ir siūlymų tenkinimo. Tuo atveju, kai prieinama išvados tenkinti peticijoje išdėstytus reikalavimus ir siūlymus, gali būti parengiamas atitinkamo teisės akto projektas arba siūloma sudaryti komisiją ar darbo grupę teisės akto projektui parengti, arba siūloma pavesti atitinkamoms valstybės institucijoms parengti teisės akto projektą.
  
 
-14 straipsnis. Vietos savivaldos valdžios ir valdymo institucijai pateiktų peticijų nagrinėjimas
+14 straipsnis. Savivaldybės institucijai pateiktų peticijų nagrinėjimas
 
-1. Peticijos, pateiktos vietos savivaldos valdžios ir valdymo institucijai, nagrinėjamos šio įstatymo, Vietos savivaldos įstatymo, savivaldybės tarybos statuto ir peticijų komisijos nuostatų nustatyta tvarka. 
+1. Peticijos, pateiktos savivaldybės institucijai, nagrinėjamos šio įstatymo, Vietos savivaldos įstatymo, savivaldybės tarybos veiklos reglamento ir peticijų komisijos nuostatų nustatyta tvarka.
 
 2. Savivaldybės peticijų komisijai nusprendus peticiją priimti nagrinėti, peticija išnagrinėjama iš esmės peticijų komisijos paskirtu laiku.
 
-3. Savivaldybės peticijų komisija, išnagrinėjusi peticiją, Vietos savivaldos įstatymo ir tarybos statuto nustatyta tvarka teikia savivaldybės tarybai išvadas dėl peticijoje išdėstytų reikalavimų ir siūlymų tenkinimo. Tuo atveju, kai prieinama išvados tenkinti peticijoje išdėstytus reikalavimus ir siūlymus, gali būti parengiamas atitinkamo teisės akto projektas arba siūloma sudaryti komisiją ar darbo grupę teisės akto projektui parengti, arba siūloma pavesti merui (valdybai) parengti teisės akto projektą.
+3. Savivaldybės peticijų komisija, išnagrinėjusi peticiją, Vietos savivaldos įstatymo ir savivaldybės tarybos veiklos reglamento nustatyta tvarka teikia savivaldybės tarybai išvadas dėl peticijoje išdėstytų reikalavimų ir siūlymų tenkinimo. Tuo atveju, kai prieinama išvados tenkinti peticijoje išdėstytus reikalavimus ir siūlymus, gali būti parengiamas atitinkamo teisės akto projektas arba siūloma sudaryti komisiją ar darbo grupę teisės akto projektui parengti, arba siūloma pavesti savivaldybės administracijos direktoriui parengti teisės akto projektą.
+
+Straipsnio pakeitimai:
+Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010ISTA0IX-1869
  
 
 15 straipsnis. Pranešimas apie peticijų išnagrinėjimą
@@ -289,4 +314,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1723, 2003-09-04, Žin., 2003, Nr. 90-4062 (2003-09-24), i. k. 1031010ISTA0IX-1723
 Lietuvos Respublikos peticijų įstatymo 2 ir 9 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010ISTA0IX-1869
+Lietuvos Respublikos peticijų įstatymo 2, 3, 6, 7, 9, 11 ir 14 straipsnių pakeitimo įstatymas
 
