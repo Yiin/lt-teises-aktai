@@ -2028,20 +2028,11 @@ telekomunikacijų tinklais.
 telekomunikacijų įrenginiai turi atitikti Ryšių reguliavimo tarnybos nustatytus
 reikalavimus. Jų turi laikytis visi tokius įrenginius turintys telekomunikacijų
 operatoriai ir paslaugų teikėjai.
-4. Telekomunikacijų operatoriai ir
-telekomunikacijų paslaugų teikėjai turi teisę fiksuoti telekomunikacijų įvykius
-ir jų dalyvius tik tiek, kiek yra būtina telekomunikacijų operatorių ir
-telekomunikacijų paslaugų teikėjų ūkinei veiklai užtikrinti. Telekomunikacijų
-operatoriai ir telekomunikacijų paslaugų teikėjai privalo įstatymų nustatyta
-tvarka turimą ir nusikaltimų užkardymui, tyrimui, nustatymui reikalingą
-informaciją pateikti operatyvinės veiklos subjektams, kvotos ir tardymo
-organams, prokurorui, teismui ar teisėjui. Šią informaciją telekomunikacijų
-operatoriai teikia operatyvinės veiklos subjektų pagrindinėms institucijoms
-pagal jų paklausimus elektroniniu būdu ir nedelsdami.
+4. Telekomunikacijų operatoriai ir telekomunikacijų paslaugų teikėjai turi teisę fiksuoti telekomunikacijų įvykius ir jų dalyvius tik tiek, kiek yra būtina telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų ūkinei veiklai užtikrinti. Telekomunikacijų operatoriai ir telekomunikacijų paslaugų teikėjai privalo įstatymų nustatyta tvarka turimą ir nusikalstamų veikų užkardymui, tyrimui, nustatymui reikalingą informaciją pateikti operatyvinės veiklos subjektams, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui. Šią informaciją telekomunikacijų operatoriai teikia operatyvinės veiklos subjektų pagrindinėms institucijoms pagal jų paklausimus elektroniniu būdu ir nedelsdami.
 5. Kai yra motyvuotas teismo sprendimas,
 telekomunikacijų operatoriai ir telekomunikacijų paslaugų teikėjai privalo
-sudaryti techninę galimybę operatyvinės veiklos subjektams, kvotos ir tardymo
-organams įstatymų nustatyta tvarka kontroliuoti telekomunikacijų tinklais
+sudaryti techninę galimybę operatyvinės veiklos subjektams, ikiteisminio tyrimo
+įstaigoms įstatymų nustatyta tvarka kontroliuoti telekomunikacijų tinklais
 perduodamos informacijos turinį. Tam reikalingos įrangos įsigijimas ir
 palaikymas atliekamas valstybės lėšomis.
 6. Telekomunikacijų operatoriai ir
@@ -2068,7 +2059,9 @@ Respublikos Konstitucinis Teismas, Nutarimas
 Žin., 2002, Nr. 93-4000 (2002-09-25)
 Nr. IX-1221,
 2002-12-05, Žin., 2002, Nr. 123-5514 (2002-12-24)
- 
+Nr.
+IX-1473,
+2003-04-03, Žin., 2003, Nr. 38-1718 (2003-04-24)
  
 AŠTUNTASIS
 SKIRSNIS
@@ -2101,9 +2094,9 @@ kuriam pritaria ūkio subjektas arba kurį Ryšių reguliavimo tarnyba nustato
 pakartotinio pažeidimo atveju;
 3) Ryšių
 reguliavimo tarnybos nustatytą ilgesnį terminą.
-3. Jei ūkio
-subjektas per šio straipsnio 2 dalyje nurodytą laiką nepašalina pažeidimų,
-Ryšių reguliavimo tarnyba turi teisę per 2 mėnesius nuo pirmo pranešimo apie
+3. Jei ūkio subjektas
+per šio straipsnio 2 dalyje nurodytą laiką nepašalina pažeidimų, Ryšių
+reguliavimo tarnyba turi teisę per 2 mėnesius nuo pirmo pranešimo apie
 pažeidimą dienos imtis priemonių, užtikrinančių teisės aktų vykdymą, įskaitant
 nustatytas ekonomines sankcijas. Ryšių reguliavimo tarnyba per 7 dienas nuo
 sprendimo taikyti priemones priėmimo informuoja ūkio subjektą apie priemones,
@@ -2150,8 +2143,8 @@ paskirtam teikti universaliąsias paslaugas, turi teisę reikalauti tik tokios
 informacijos, kuri reikalinga patikrinti, ar laikomasi įstatymo nuostatų,
 įvertinti teisės naudoti radijo dažnius (kanalus) ir telefono ryšio numerius
 suteikimo procedūras ir skelbti paslaugų kokybės ir kainos apžvalgas, aiškiai
-apibrėžtiems statistiniams tikslams, rinkos tyrimui bei kitiems Ryšių
-reguliavimo tarnybos uždaviniams bei funkcijoms atlikti.
+apibrėžtiems statistiniams tikslams, rinkos tyrimui bei kitiems Ryšių reguliavimo
+tarnybos uždaviniams bei funkcijoms atlikti.
 2. Ryšių
 reguliavimo tarnyba, reikalaudama pateikti informaciją, praneša ūkio subjektams
 apie tikslą, kuriam informacija bus naudojama.
@@ -2163,14 +2156,14 @@ informaciją.
  
 60 straipsnis. Ekonominių sankcijų skyrimas ir jų
 dydžio nustatymas
-1. Ūkio subjektams
-skiriamų ekonominių sankcijų dydis nustatomas atsižvelgiant į:
+1. Ūkio subjektams skiriamų
+ekonominių sankcijų dydis nustatomas atsižvelgiant į:
 1) pažeidimu
 padarytos žalos dydį;
 2) pažeidimo
 trukmę;
-3) ūkio subjekto atsakomybę
-lengvinančias ar sunkinančias aplinkybes;
+3) ūkio subjekto
+atsakomybę lengvinančias ar sunkinančias aplinkybes;
 4) ūkio subjektui
 dėl pažeidimo tekusių pajamų dydį;
 5) kiekvieno ūkio
@@ -2183,7 +2176,8 @@ pažeidimo tyrimo metu, atlygino nuostolius ar pašalino padarytą žalą.
 sunkinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai kliudė vykdyti
 tyrimą, slėpė įvykdytą pažeidimą, tęsė pažeidimą nepaisydami Ryšių reguliavimo
 tarnybos įpareigojimo nutraukti neteisėtus veiksmus arba pakartotinai įvykdė
-pažeidimą, už kurį ūkio subjektams jau buvo paskirtos šio Įstatymo nustatytos sankcijos.
+pažeidimą, už kurį ūkio subjektams jau buvo paskirtos šio Įstatymo nustatytos
+sankcijos.
 4. Ryšių
 reguliavimo tarnyba, nustatydama skiriamos ekonominės sankcijos dydį, gali
 pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas čia nenurodytas
@@ -2217,10 +2211,10 @@ tarp telekomunikacijų paslaugų gavėjų bei paslaugų teikėjų, ir ginčus ki
 šiame Įstatyme nustatytais atvejais. Jeigu ginčo šalys nesutinka su Ryšių
 reguliavimo tarnybos sprendimu, jos turi teisę kreiptis į teismą įstatymų
 nustatyta tvarka.
-4. Ryšių
-reguliavimo tarnybos ginčai nagrinėjami viešai, išskyrus atvejus, kai uždaras
-posėdis būtinas siekiant apsaugoti valstybės, tarnybos ar komercines paslaptis
-arba užtikrinti asmens teisę į privataus gyvenimo neliečiamumą.
+4. Ryšių reguliavimo
+tarnybos ginčai nagrinėjami viešai, išskyrus atvejus, kai uždaras posėdis
+būtinas siekiant apsaugoti valstybės, tarnybos ar komercines paslaptis arba
+užtikrinti asmens teisę į privataus gyvenimo neliečiamumą.
 5. Ryšių
 reguliavimo tarnyba asmeniui, kuris nesilaiko šio Įstatymo reikalavimų, skiria
 tokias ekonomines sankcijas:
@@ -2250,17 +2244,17 @@ BAIGIAMOSIOS NUOSTATOS
 1. Ūkio subjektai turi teisę toliau
 tęsti licencijose ir leidimuose, išduotuose iki šio Įstatymo įsigaliojimo
 dienos, nurodytą veiklą, kiek tai neprieštarauja šio Įstatymo nuostatoms.
-2. Ūkio subjektai, šio Įstatymo įsigaliojimo
-metu turintys licencijas ar leidimus verstis telekomunikacine veikla, turi
-teisę per 2 mėnesius nuo šio Įstatymo įsigaliojimo dienos pareikšti Ryšių
-reguliavimo tarnybai, kad šio Įstatymo nuostatos, palyginti su galiojančių
-licencijų ir (ar) leidimų nuostatomis, sumažins šių ūkio subjektų teises. Ryšių
-reguliavimo tarnyba, nustačiusi, kad ūkio subjekto nurodytos aplinkybės yra
-teisingos ir jos sukels šiam ūkio subjektui nepagrįstų ir siekiamiems tikslams
-neproporcingų nuostolių, turi teisę nustatyti ne ilgesnį kaip 9 mėnesių
-pereinamąjį laikotarpį nuo Įstatymo įsigaliojimo, jei tai neturės įtakos kitų
-ūkio subjektų teisėms, nurodydama, kokie Įstatymo įpareigojimai konkretiems
-ūkio subjektams nėra taikomi ir kokios teisės išlaikomos.
+2. Ūkio subjektai, šio Įstatymo
+įsigaliojimo metu turintys licencijas ar leidimus verstis telekomunikacine
+veikla, turi teisę per 2 mėnesius nuo šio Įstatymo įsigaliojimo dienos
+pareikšti Ryšių reguliavimo tarnybai, kad šio Įstatymo nuostatos, palyginti su
+galiojančių licencijų ir (ar) leidimų nuostatomis, sumažins šių ūkio subjektų
+teises. Ryšių reguliavimo tarnyba, nustačiusi, kad ūkio subjekto nurodytos aplinkybės
+yra teisingos ir jos sukels šiam ūkio subjektui nepagrįstų ir siekiamiems
+tikslams neproporcingų nuostolių, turi teisę nustatyti ne ilgesnį kaip 9
+mėnesių pereinamąjį laikotarpį nuo Įstatymo įsigaliojimo, jei tai neturės
+įtakos kitų ūkio subjektų teisėms, nurodydama, kokie Įstatymo įpareigojimai
+konkretiems ūkio subjektams nėra taikomi ir kokios teisės išlaikomos.
  
  
 Skelbiu šį Lietuvos Respublikos Seimo
@@ -2271,6 +2265,7 @@ priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS
                                                     VALDAS ADAMKUS
+ 
 ________________
  
 Pakeitimai:
@@ -2326,6 +2321,18 @@ TELEKOMUNIKACIJŲ
 ĮSTATYMO PAKEITIMO ĮSTATYMO 1 STRAIPSNIU PAKEISTO TELEKOMUNIKACIJŲ ĮSTATYMO 8,
 24, 52, 57 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1473,
+2003-04-03, Žin., 2003, Nr. 38-1718 (2003-04-24)
+TELEKOMUNIKACIJŲ
+ĮSTATYMO 57 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja
+kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341),
+t.y. nuo 2003 m. gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
@@ -2354,7 +2361,7 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-01-17)
+Aušrinė Trapinskienė (2003-05-09)
                  
 autrap@lrs.lt
 
