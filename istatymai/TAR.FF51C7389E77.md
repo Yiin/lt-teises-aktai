@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF51C7389E77"
 
 # Lietuvos Respublikos visuomenės informavimo įstatymo pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2000-11-29
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 75-2272, i. k. 1001010ISTAIII-1905
+ 
+ 
 LIETUVOS RESPUBLIKOS
 VISUOMENĖS INFORMAVIMO ĮSTATYMO PAKEITIMO
 Į S T A T Y M A S
@@ -2340,7 +2345,10 @@ TEISĖS AKTŲ PAŽEIDIMUS IR JOS ĮGYVENDINIMO TVARKA
 3 straipsnis. Įstatymo įgyvendinimas
 
 
-1. Licenciją turintys transliuotojai šio įstatymo 38 straipsnio 3 ir 4 dalių nuostatas įgyvendina nuosekliai, tolygiai didindami Europos kūrinių ir nepriklausomų kūrėjų produkcijos dalį transliuojamose televizijos programose. 
+1. Televizijos transliuotojai, išskyrus vietinius, įsipareigoję savo žiūrovams transliuoti informacinio, švietimo, kultūrinio ar pramoginio pobūdžio programas, privalo įgyvendinti Visuomenės informavimo įstatymo 38 straipsnio 3 ir 4 dalių nuostatas. Šių nuostatų reikalavimai įgyvendinami nuosekliai, kiek tai praktiškai įmanoma, tačiau įstatymo įsigaliojimo metu pasiekti Europos kūrinių ir nepriklausomų kūrėjų produkcijos transliavimo mastai negali būti sumažinti. Transliuotojai (išskyrus LRT) kas 2 metai pateikia Radijo ir televizijos komisijai ataskaitą dėl Visuomenės informavimo įstatymo 38 straipsnio 3 ir 4 dalių nuostatų įgyvendinimo. Ataskaitoje turi būti nurodytos priežastys, kurios trukdo šias nuostatas įgyvendinti bei kokių priemonių imtasi ar numatoma imtis trūkumams pašalinti. Taikant Visuomenės informavimo įstatymo 38 straipsnio 3 ir 4 dalių nuostatas, atsižvelgiama į tai, kad teminiams kanalams nėra tinkamų Europos kūrinių, taip pat į tai, kad televizijos transliuotojas dar tik pradeda savo veiklą.
+Straipsnio dalies pakeitimai:
+Nr. IX-39, 2000-11-21, Žin., 2000, Nr. 102-3215 (2000-11-29), i. k. 1001010ISTA000IX-39
+ 
 
 
 
@@ -2369,3 +2377,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-39, 2000-11-21, Žin., 2000, Nr. 102-3215 (2000-11-29), i. k. 1001010ISTA000IX-39
+Lietuvos Respublikos visuomenės informavimo įstatymo 2, 4, 18, 26, 28, 37, 38, 39, 49 straipsnių pakeitimo ir papildymo ir Visuomenės informavimo įstatymo pakeitimo įstatymo 3 straipsnio pakeitimo ir papildymo įstatymas
