@@ -42,6 +42,19 @@ LIETUVOS RESPUBLIKOS PRIDĖTOSIOS VERTĖS MOKESČIO ĮSTATYMO
 PAKEITIMO
 IR PAPILDYMO
  
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. I-567, 94.07.20,
+Žin., 1994, Nr.59-1158 (94.08.03)
+DĖL LIETUVOS
+RESPUBLIKOS PRIDĖTOSIOS VERTĖS MOKESČIO ĮSTATYMO
+PAKEITIMO IR
+PAPILDYMO
+ 
+Šis
+įstatymas įsigalioja nuo 1994 m. rugpjūčio 1 dienos.
+ 
 ***
 Pabaiga ***
  
@@ -49,10 +62,10 @@ Pabaiga ***
 RESPUBLIKOS
  
                   
-PRIDĖTOSIOS VERTĖS MOKESČIO
+PRIDĖTINĖS VERTĖS MOKESČIO
  
-                           
-ĮSTATYMAS
+       
+                    ĮSTATYMAS
  
  
                 
@@ -64,11 +77,11 @@ Vilnius
 I. MOKESČIO OBJEKTAS
  
     
-1 straipsnis.  Pridėtosios vertės  mokesčio (toliau  -  PVM)
+1 straipsnis.  Pridėtinės vertės  mokesčio (toliau  -  PVM)
 objektas
 yra  prekių     gamybos,  atliekamų  darbų  ir  teikiamų
 paslaugų
-procese  sukurta ir   realizuota  pridėtoji vertė    bei
+procese  sukurta ir   realizuota  pridėtinė vertė    bei
 importuojamos
 prekės.
  
@@ -89,7 +102,7 @@ pagal darbo sutartį.
      4 
 straipsnis.   PVM  imamas  nuo  visų  prekių  gamybos  ir
 paslaugų    
-teikimo  procese   sukurtos  pridėtosios  vertės  ir
+teikimo  procese   sukurtos  pridėtinės  vertės  ir
 importuojamų prekių,
 išskyrus:
      1) medicinos ir
@@ -97,7 +110,7 @@ stomatologines paslaugas, vaistus, vaistines
 prekes ir medicinos
 techniką;
      2)  vaikų  
-darželių  ir   lopšelių,  senelių   ir  invalidų
+darželių  ir   lopšelių,  senelių   ir  invalidų
 pensionatų teikiamas
 socialines paslaugas;
      3)  švietimo, 
@@ -127,30 +140,36 @@ platinimą;
      9)   paslaugas
 ir veiksmus, mokestis už kuriuos įskaitomas į
 biudžetą;
-     10)  prekes  
-ir   paslaugas,   teikiamas   užsienio   šalių
-diplomatinėms  ir  
-konsulinėms  atstovybėms   bei  tarptautinėms
-organizacijoms;
-     11)
+     10)
 privatizuojamą valstybinį turtą;
-     12) darbus ir
+     11) darbus ir
 paslaugas, atliekamus (apmokamus) už paaukotas
 lėšas;
-     13) gyvenamųjų
+     12) gyvenamųjų
 namų ir butų, išnuomotų gyventi ilgiau kaip 2
 mėnesius, nuomą;
-     14) žemės
+     13) žemės
 nuomą;
-     15)  
+     14)  
 tradicinius    dailiųjų   amatų   dirbinius,   kuriems
 tarpžinybinė 
 tradicinių   dailiųjų   amatų   ekspertų   komisija
 nustatyta tvarka
-suteikė šių dirbinių statusą.
+suteikė šių dirbinių statusą;
+     15) 
+veterinarines  paslaugas,  veterinarinius  vaistus  ir
+vaistines prekes;
+     16)   turizmo  
+įmonių   teikiamas   įvažiuojamojo   turizmo
+paslaugas.
+ 
+Straipsnio
+pakeitimai:
+Nr. I-567, 94.07.20,
+Žin., 1994, Nr.59-1158 (94.08.03)
  
             II.
-PRIDĖTOSIOS VERTĖS MOKESČIO MOKĖTOJAI
+PRIDĖTINĖS VERTĖS MOKESČIO MOKĖTOJAI
  
      5 
 straipsnis.   PVM  apskaičiuoja  ir  sumoka  į  biudžetą:
@@ -188,8 +207,8 @@ biudžeto) pradėdami nuo kito mėnesio po registracijos.
 metus šių asmenų pajamos už realizuotas prekes ir
 suteiktas paslaugas 
 viršija 50  tūkst. litų,  tai pradedant  tuo
-mėnesiu, kurį 
-viršijo, PVM  turi skaičiuoti ir mokėti į biudžetą
+mėnesiu, kurį  viršijo,
+PVM  turi skaičiuoti ir mokėti į biudžetą
 bendra tvarka.
  
 Straipsnio
@@ -212,8 +231,8 @@ privalo  užsiregistruoti  valstybinėje  mokesčių
 inspekcijoje ne
 vėliau kaip 10 dienų prieš veiklos pradžią.
  
-     8 straipsnis.  Asmenys,
-kurie  nėra  PVM  mokėtojai,  neturi
+     8 straipsnis. 
+Asmenys, kurie  nėra  PVM  mokėtojai,  neturi
 teisės šio  mokesčio
 imti  iš prekių  pirkėjų (paslaugos gavėjų).
 Jeigu šie  asmenys
@@ -222,8 +241,8 @@ biudžetą.
  
                  
 III. APMOKESTINAMOJI VERTĖ IR
-                  MOKESČIO
-APSKAIČIAVIMO LAIKAS
+                 
+MOKESČIO APSKAIČIAVIMO LAIKAS
  
      9  straipsnis. 
 Apmokestinamąją  prekių  ir  paslaugų  vertę
@@ -274,8 +293,8 @@ prekių ar paslaugų kaina.
 PVM už prekes ir paslaugas apskaičiuojamas:
      pardavėjui
 (paslaugos teikėjui) išrašius pirkėjui (paslaugos
-gavėjui) sąskaitą-faktūrą 
-arba  kitą  dokumentą  už  parduodamas
+gavėjui)
+sąskaitą-faktūrą  arba  kitą  dokumentą  už  parduodamas
 prekes (teikiamas
 paslaugas);
      sumokėjus į 
@@ -293,11 +312,17 @@ IV. MOKESČIO TARIFAI
 PVM tarifai:
      1) 0 -
 eksportuojamoms prekėms ir paslaugoms;
-     2) 18  procentų
--  visoms prekėms  ir  paslaugoms,  išskyrus
-išvardintas šio
-įstatymo 4 ir 38 straipsniuose bei šio straipsnio
-1 punkte.
+    
+2) 18  procentų -  visoms prekėms  ir paslaugoms,   išskyrus
+išvardytas 
+šio   įstatymo  4,  23  ir  38  straipsniuose  ir  39
+straipsnio
+7 punkte.
+ 
+Straipsnio
+pakeitimai:
+Nr. I-567, 94.07.20,
+Žin., 1994, Nr.59-1158 (94.08.03)
  
      14 straipsnis.
 PVM skaičiuojamas taikant 18 procentų tarifą,
@@ -307,6 +332,28 @@ paslaugų)
 apmokestinamosios  vertės, arba 15,25  procento tarifą,
 skaičiuojant nuo
 prekių ir paslaugų vertės kartu su PVM.
+    
+Skaičiuojant PVM 15,25 procento tarifas taikomas:
+    
+1)  jeigu   prekės  parduodamos   (paslaugos  teikiamos)  už
+grynuosius
+pinigus neišrašant sąskaitos-faktūros; 
+    
+2) jeigu  prekių kainos  (paslaugų tarifų)  dydis nustatytas
+valstybės
+valdymo institucijų;
+    
+3)  jeigu   sąskaitoje-faktūroje  už  apmokestinamas  prekes
+(paslaugas)
+PVM neišskirtas;
+    
+4)  kitais   Lietuvos  Respublikos  Vyriausybės  nustatytais
+atvejais.
+ 
+Straipsnio
+pakeitimai:
+Nr. I-567, 94.07.20,
+Žin., 1994, Nr.59-1158 (94.08.03)
  
                   
 V. MOKESČIO APSKAIČIAVIMAS
@@ -374,7 +421,13 @@ kūrimo;
 prekėms
 gaminti atsargų sudarymo.
     
-Jeigu pakeičiama gamybinio ilgalaikio turto paskirtis ir dėl
+4)   paslaugų    ir   materialinių   vertybių   panaudojimo
+apmokestinamoms
+prekėms  gaminti, jeigu jų gamyba yra sezoninė ar
+ilgai
+trunkanti."
+ 
+   Jeigu pakeičiama gamybinio ilgalaikio turto paskirtis ir dėl
 to
 netenkama  teisės atskaityti PVM, atskaityta PVM suma Lietuvos
 Respublikos
@@ -390,6 +443,8 @@ Straipsnio
 pakeitimai:
 Nr. I-423, 94.04.07,
 Žin., 1994, Nr.28-489 (94.04.15)
+Nr. I-567, 94.07.20,
+Žin., 1994, Nr.59-1158 (94.08.03)
  
      18  
 straipsnis.    Atskaityti   kitiems    PVM   mokėtojams
@@ -472,24 +527,49 @@ Respublikos
 Vyriausybė  gali nustatyti  ir kitokią PVM atskaitymo
 tvarką.
  
-     21 straipsnis.
-Sumokėtas PVM grąžinamas:
-     1) užsienio 
-valstybių piliečiams,  specialiose parduotuvėse
-įsigijusiems prekių
-daugiau negu Lietuvos Respublikos Vyriausybės
-leista įvežti  be
-muitų  į Lietuvos Respubliką ir jas išvežusiems
-iš Lietuvos
-Respublikos;
-     2) užsienio 
-valstybių diplomatinių ir konsulinių atstovybių
-pareigūnams ir  jų
-šeimų  nariams (paritetiniais  pagrindais) bei
-tarptautinių
-organizacijų  pareigūnams ir  jų  šeimų  nariams  už
+    
+21 straipsnis. Sumokėtas PVM grąžinamas:
+  
+  1) užsienio  valstybių piliečiams,  specialiose parduotuvėse
+įsigijusiems
+prekių daugiau negu Lietuvos Respublikos Vyriausybės
+leista
+įvežti  be muitų  į Lietuvos Respubliką ir jas išvežusiems
+iš
+Lietuvos Respublikos;
+    
+2) paritetiniais  pagrindais užsienio šalių diplomatinėms ir
+konsulinėms
+atstovybėms  už įsigytas  prekes ir gautas paslaugas,
+taip
+pat  šių atstovybių  pareigūnams ir  jų   šeimų   nariams už
 asmeniniam
-naudojimui įsigytas prekes, gautas paslaugas.
+naudojimui įsigytas prekes;
+    
+3) tarptautinėms organizacijoms už įsigytas prekes ir gautas
+paslaugas,
+šių  organizacijų pareigūnams  ir jų  šeimų nariams už
+asmeniniam
+naudojimui  įsigytas   prekes, jeigu  šių organizacijų
+sutartyse
+su  Lietuvos Respublika  numatyta  neimti  PVM  ar  jam
+tapačių
+mokesčių arba numatyta juos grąžinti;
+    
+4) Lietuvos  Respublikos  Vyriausybės  nustatyta  tvarka  už
+prekes
+ir  paslaugas, apmokamas  užsienio valstybių, tarptautinių
+organizacijų
+ir fondų bei valstybei skirtų paskolų lėšomis. Jeigu
+importo
+PVM  mokėjimo terminas  nesuėjęs ir mokestis nesumokėtas,
+jis
+gali būti nuimtas.
+ 
+Straipsnio
+pakeitimai:
+Nr. I-567, 94.07.20,
+Žin., 1994, Nr.59-1158 (94.08.03)
  
              VI.
 IMPORTO IR EKSPORTO APMOKESTINIMAS
@@ -508,18 +588,53 @@ pakeitimai:
 Nr. I-423, 94.04.07,
 Žin., 1994, Nr.28-489 (94.04.15)
  
-     23 
-straipsnis.   PVM  neapmokestinamos  šios  importuojamos
+    
+23  straipsnis.  PVM  neapmokestinamos  šios  importuojamos
 prekės:
-     1) teikiant
-labdarą ar humanitarinę pagalbą;
-     2) apmokamos 
-užsienio valstybių,  tarptautinių organizacijų
-ir  fondų lėšomis;
-     3) įvežamos
-fizinių asmenų, jeigu prekių įvežama ne  daugiau
-kaip Lietuvos
-Respublikos Vyriausybės leista įvežti be muitų.
+    
+1) elektros energija;
+    
+2) gaunamos kaip labdara ar humanitarinė pagalba;
+    
+3) muitinės kontroliuojamos laikinai įvežtos;
+    
+4)  muitinės   kontroliuojamos  laikinai  įvežtos  perdirbti
+prekės
+pagal  Lietuvos Respublikos  Vyriausybės nustatytą sąrašą.
+Šių
+prekių ar jų dalies ar iš jų pagamintų kompensacinių produktų
+Lietuvos
+Respublikos  Vyriausybės nustatytu  laiku  neišvežus  iš
+Lietuvos
+Respublikos, už jas PVM imamas bendra tvarka;
+    
+5) muitinės  kontroliuojamos  laikinai  išvežtos,  taip  pat
+laikinai 
+išvežtos   perdirbti  prekės   ar   iš   jų   pagaminti
+kompensaciniai
+produktai,  jeigu jie  reimportuojami per Lietuvos
+Respublikos
+Vyriausybės nustatytą laiką;
+    
+6) įvežamos fizinių asmenų, jeigu prekių įvežama ne  daugiau
+kaip
+Lietuvos  Respublikos Vyriausybės  leista  jiems  įvežti  be
+muitų;
+    
+7)   grąžintos    garantiniam   taisymui    ar   išbrokuotos
+eksportuotos
+prekės;
+    
+8) išvardytos  šio įstatymo  4  straipsnyje,  38  straipsnio
+antrosios
+dalies  1 punkte,  penktojoje ir šeštojoje dalyse ir 39
+straipsnio
+7 punkte."
+ 
+Straipsnio
+pakeitimai:
+Nr. I-567, 94.07.20,
+Žin., 1994, Nr.59-1158 (94.08.03)
  
      24  
 straipsnis.   Importuojamų   prekių   vertė   nustatoma
@@ -537,7 +652,11 @@ Nr. I-423, 94.04.07,
 straipsnis.   13   straipsnyje   nustatytu   0   tarifu
 apmokestinamos:
      1) eksportuotos
-prekės;
+prekės įskaitant   grąžintas atgal į užsienį
+laikinai  įvežtas  
+perdirbti   prekes   ar  iš   jų   pagamintus
+kompensacinius
+produktus;
      2) prekės, 
 darbai ir paslaugos, susijusios su eksportuojamų
 prekių vežimu, 
@@ -554,14 +673,22 @@ nuoma;
 įvežamos į  muitinės sandėlius  ir  parduotuves,
 esančias ne Lietuvos
 Respublikos muitų teritorijoje;
- 
      5) mokėtojų  - 
 įmonių,  įstaigų  ir  organizacijų  atliktos
 paslaugos už
 Lietuvos Respublikos ribų.
+     6)  užsienio  
+subjektų  apmokamos   prekės  ir  paslaugos,
+susijusios su
+eksportui ir reeksportui skirtų prekių gamyba.
+ 
+Straipsnio
+pakeitimai:
+Nr. I-567, 94.07.20,
+Žin., 1994, Nr.59-1158 (94.08.03)
  
             VII.
-PRIDĖTOSIOS VERTĖS MOKESČIO APSKAITA
+PRIDĖTINĖS VERTĖS MOKESČIO APSKAITA
  
      26 
 straipsnis.  Pirkėjams  turi  būti  išrašytos  išsiųstos
@@ -582,8 +709,8 @@ patikslinanti anksčiau išrašytąją.
  
      28 straipsnis.
 Jeigu išrašytos sąskaitos-faktūros neatitinka
-šio  įstatymo   26  ir 
-27  straipsnių  reikalavimų,  pagal  šias
+šio  įstatymo   26 
+ir  27  straipsnių  reikalavimų,  pagal  šias
 sąskaitas-faktūras
 mokėtinos  tiekėjams PVM sumos, skaičiuojant į
 biudžetą mokėtiną
@@ -632,16 +759,23 @@ laikotarpio  PVM   sumą,  kuri  išieškoma  į
 biudžetą.
  
      34 straipsnis. 
-Jeigu deklaracija nepateikta per 5 dienas po
-nustatyto termino, 
-Valstybinė mokesčių  inspekcija laikinai, iki
-deklaracijos 
-pateikimo,  iš    mokėtojų  -  įmonių,  įstaigų  ir
-organizacijų išieško
-neginčo tvarka į biudžetą praėjusio mokesčio
-laikotarpio
-deklaracijoje  apskaičiuotą mokesčio  sumą, padidintą
-10 procentų.
+Jeigu   deklaracija    nepateikta   iki 
+PVM
+sumokėjimo  į 
+biudžetą termino,  Valstybinė mokesčių  inspekcija
+laikinai, iki
+deklaracijos  pateikimo,  iš    mokėtojų -  įmonių,
+įstaigų ir
+organizacijų išieško neginčo tvarka į biudžetą praėjusio
+mokesčio
+laikotarpio  deklaracijoje  apskaičiuotą mokesčio  sumą,
+padidintą 10
+procentų.
+ 
+Straipsnio
+pakeitimai:
+Nr. I-567, 94.07.20,
+Žin., 1994, Nr.59-1158 (94.08.03)
  
      35 straipsnis. 
 Apskaičiuota PVM  suma turi  būti sumokėta į
@@ -649,8 +783,8 @@ biudžetą (grąžinta
 iš biudžeto) per  10 dienų nuo šio įstatymo 32
 straipsnyje
 nustatyto deklaracijos pateikimo  termino.  Nustatytu
-laiku PVM nesumokėjus
-(negrąžinus), imama (grąžinama) 0,3 procento
+laiku PVM
+nesumokėjus (negrąžinus), imama (grąžinama) 0,3 procento
 delspinigių  už 
 kiekvieną   pradelstą  dieną, įskaitant mokesčio
 sumokėjimo   į 
@@ -669,7 +803,7 @@ MOKESČIO KONTROLĖ IR EKONOMINĖS SANKCIJOS
      36 straipsnis. 
 Jeigu  tikrinant  nustatoma,  kad  mokėtojas
 deklaracijoje
-sumažino  apskaičiuotą PVM  sumą arba  per daug šio
+sumažino  apskaičiuotą PVM  sumą arba  per daug šio
 mokesčio atskaitė 
 ir dėl  to per  mažai jo  sumokėjo į biudžetą,
 apskaičiuotą 
@@ -679,8 +813,8 @@ mokėtojas privalo 
 per  penkias  dienas  po  pažeidimo  nustatymo
 dienos sumokėti į
 biudžetą.
-     Laiku 
-nesumokėtas   mokesčių  ir  baudų  sumas  valstybinės
+     Laiku  nesumokėtas  
+mokesčių  ir  baudų  sumas  valstybinės
 mokesčių
 inspekcijos  iš įmonių,  įstaigų ir organizacijų išieško
 neginčo tvarka, o iš
@@ -698,34 +832,68 @@ pakeitimai:
 Nr. 1-412;
 1994.03.24; Žin., 1994, Nr. 25-399
  
-     38 
-straipsnis.   Gamintojams  ir   paslaugas   teikiančioms
-organizacijoms-PVM
-mokėtojams  sutikus, iki   1995 m. sausio 1 d.
-PVM neapmokestinama:
-     1)
-gyvenamiesiems  namams ir  butų  ūkiui  teikiamos  dujos,
-vanduo, elektros  ir
-šiluminė  energija, kanalizacijos  ir  kitos
-butų ūkio paslaugos;
-     2) Lietuvos
-Respublikos gamintojų parduodamos gyventojams ir
-prekybos įmonėms 
-maisto prekės,  kurios iki  įvedant PVM  nebuvo
-apmokestinamos
-bendruoju  akcizu.  Dėl  to  Lietuvos  Respublikos
-Vyriausybė prekybos
-įmonėms nustato laikiną, iki 1995 m. sausio 1
-d. galiojančią, PVM
-apskaičiavimo ir mokėjimo tvarką.  
-     Paslaugas  
-teikiančioms    organizacijoms-PVM    mokėtojoms
+     38 straipsnis. 
+Iki 1996  m. sausio 1 d. laikinu 9 procentų
+(o įstatymo  14
+straipsnio antrojoje dalyje numatytais atvejais -
+8,26 procento)  PVM 
+tarifu  apmokestinama  Lietuvos  Respublikos
+gamintojų pagaminti 
+kombinuotieji pašarai, žemės ūkio produkcija
+ir žuvis,  išskyrus
+mėsėdžius švelniaplaukius žvėrelius, nutrijas
+ir jų  kailiukus,
+iš  šios produkcijos pagamintos maisto  prekės,
+kurios   iki
+įvedant  PVM nebuvo apmokestinamos bendruoju akcizu.
+Šių prekių sąrašą
+nustato Lietuvos Respublikos Vyriausybė.
+     Iki 1996 m.
+sausio 1 d. PVM neapmokestinami:
+     1) 
+branduolinis   kuras,  akmens  anglis,  suskystintos  ir
+gamtinės dujos, nafta,
+krosninis kuras ir mazutas;
+     2)
+gyvenamiesiems  namams ir  butų ūkiui  tiekiamas  vanduo,
+elektros ir šiluminė
+energija, kanalizacijos ir kitos  butų  ūkio
+teikiamos paslaugos.
+     Paslaugas 
+teikiančioms   organizacijoms  -  PVM  mokėtojoms
 sutikus, iki  1996
 m.  sausio 1 d. PVM neapmokestinami gyvenamųjų
-namų  statybos  ir 
-projektavimo  darbai,  įskaitant  inžinerinių
-tinklų statybą ir
-teritorijos tvarkymą.
+namų statybos  ir
+projektavimo darbai, tarp jų inžinerinių tinklų
+statyba ir
+teritorijos tvarkymas.
+     Iki 1996  m.
+sausio  1 d.  PVM neapmokestinamos  žemės  ūkio
+bendrovių ir žemės
+ūkio kooperatyvų paslaugos jų nariams.
+     Iki 1996  m.
+sausio  1 d.  neapmokestinami  importuojami  ir
+parduodami vidaus 
+rinkoje traktoriai, varikliai, kita žemės ūkio
+technika ir jų
+atsarginės dalys.
+     Iki  2000   m. 
+sausio   1  d.   neapmokestinamos  žaliavos,
+naudojamos vaistams 
+gaminti, taip  pat  žaliavos,  medžiagos  ir
+komplektavimo 
+detalės,   naudojamos   svarbiausioms   vaistinėms
+prekėms ir 
+medicininei technikai  gaminti. Šių žaliavų, medžiagų
+ir komplektavimo
+detalių ir įmonių, kurios jas gali gauti be PVM,
+sąrašus sudaro
+Lietuvos Respublikos Vyriausybė.
+ 
+Straipsnio
+pakeitimai:
+Nr. I-567, 94.07.20,
+Žin., 1994, Nr.59-1158 (94.08.03)
  
     
 38-1 straipsnis.  Gamybinės  įmonės,  kuriose  dirba  riboto
@@ -739,8 +907,8 @@ riboto
 darbingumo asmenų dalis          PVM suma sumažinama
     
 tarp visų dirbančiųjų
- 
-   daugiau kaip 50 proc.                        100 proc.
+    
+daugiau kaip 50 proc.                        100 proc.
     
 40 - 50 proc.                                90 proc.
     
@@ -789,8 +957,8 @@ koregavimo  tvarką,   jeigu  pasikeitė   šio  turto
 paskirtis;
      4)  PVM   už 
 mažmeninėje   prekyboje  įsigytas  prekes  bei
-specialių  parduotuvių  
-supirktus  naudotus  daiktus  atskaitymo
+specialių 
+parduotuvių   supirktus  naudotus  daiktus  atskaitymo
 tvarką;
      5) PVM
 grąžinimo tvarką ir pradžią-
@@ -819,7 +987,7 @@ Nr. I-423, 94.04.07,
      40 straipsnis. 
 Lietuvos Respublikos  Vyriausybė,  remdamasi
 šiuo įstatymu, iki
-1994 m. balandžio 20 d. išleidžia  pridėtosios
+1994 m. balandžio 20 d. išleidžia  pridėtinės
 vertės mokesčio
 skaičiavimo ir mokėjimo instrukciją.
  
@@ -828,18 +996,27 @@ pakeitimai:
 Nr. I-423, 94.04.07,
 Žin., 1994, Nr.28-489 (94.04.15)
  
-      41
-straipsnis.  Lietuvos Respublikos  Vyriausybė gali  1994
+     41 straipsnis. 
+Lietuvos Respublikos  Vyriausybė gali  1994
 metams  nustatyti  
 kitus,   negu   35   straipsnyje   nustatyti,
-apskaičiuotos PVM 
-sumos  sumokėjimo  į  biudžetą  (grąžinimo  iš
-biudžeto) terminus.
+apskaičiuotos PVM  sumos 
+sumokėjimo  į  biudžetą  (grąžinimo  iš
+biudžeto) terminus, 
+o žemės  ūkio įmonėms  ir ūkininkams  PVM už
+realizuotą žemės 
+ūkio produkciją  sumokėjimo kitus terminus gali
+nustatyti
+laikotarpiui iki 1997 m. sausio 1 dienos.
  
 Įstatymas papildytas
 straipsniu:
 Nr. I-423, 94.04.07,
 Žin., 1994, Nr.28-489 (94.04.15)
+Straipsnio
+pakeitimai:
+Nr. I-567, 94.07.20,
+Žin., 1994, Nr.59-1158 (94.08.03)
  
      Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
