@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.13CA89C52085"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
+Suvestinė redakcija nuo 1998-12-11 iki 1998-12-29
+ 
+Įstatymas paskelbtas: Žin. 1997, Nr. 64-1500; Žin. 1997, Nr.87-0, i. k. 0971010ISTAVIII-270
+ 
 LIETUVOS RESPUBLIKOS
 ĮMONIŲ BANKROTO
 ĮSTATYMAS
@@ -69,7 +73,16 @@ BENDROJI DALIS
 
 2) darbo užmokesčio ir dėl darbo santykių atsiradusios žalos neatlyginimo atveju – įmonės darbuotojai (jų įpėdiniai);
 
-3) gautų valstybės vardu užsienio paskolų ir paskolų, gautų su valstybės ar Vyriausybės garantija, negrąžinimo atveju – Finansų ministerija.
+3) gautų valstybės vardu užsienio paskolų ir paskolų, gautų su valstybės ar Vyriausybės garantija, negrąžinimo atveju – Finansų ministerija;
+
+4) finansinės paramos negrąžinimo atveju – Fondas bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti;
+Papildyta straipsnio punktu:
+Nr. VIII-942, 1998-11-26, Žin., 1998, Nr. 109-2996 (1998-12-11), i. k. 0981010ISTAVIII-942
+ 
+
+5) finansinės paramos negrąžinimo atveju – Fondas fizinių asmenų reikalavimams apmokėti už bankrutuojančių ir bankrutavusių įmonių supirktą perdirbti žemės ūkio produkciją.
+Papildyta straipsnio punktu:
+Nr. VIII-942, 1998-11-26, Žin., 1998, Nr. 109-2996 (1998-12-11), i. k. 0981010ISTAVIII-942
  
 
 ANTRASIS SKIRSNIS
@@ -383,7 +396,10 @@ Nuo bankroto bylos iškėlimo dienos laikoma, kad visi bankrutuojančios įmonė
 
 2. Apie bankrutuojančios įmonės prisiimtų iki bankroto bylos iškėlimo įsipareigojimų vykdymą (ar jų nevykdymą) administratorius turi pranešti suinteresuotiems asmenims.
 
-3. Administratorius turi kreiptis į teismą dėl turto įkeitimo sutarčių pripažinimo negaliojančiomis, jeigu jos buvo sudarytos praėjus daugiau kaip vienam mėnesiui po sutarties dėl paskolos gavimo sudarymo.
+3. Administratorius turi kreiptis į teismą dėl turto įkeitimo sutarčių pripažinimo negaliojančiomis, jeigu jos buvo sudarytos praėjus daugiau kaip 30 dienų po sutarties dėl paskolos gavimo sudarymo. Kai paskolos sutartyje yra nurodyta įkeičiamo turto aprašymas, įkainojimas ir buvimo vieta, įkeitimu užtikrinamos prievolės esmė, dydis ir įvykdymo terminas, administratorius neturi teisės kreiptis į teismą dėl turto įkeitimo sutarčių pripažinimo negaliojančiomis.
+Straipsnio dalies pakeitimai:
+Nr. VIII-942, 1998-11-26, Žin., 1998, Nr. 109-2996 (1998-12-11), i. k. 0981010ISTAVIII-942
+ 
 
 4. Teismas, nustatęs, kad turto įkeitimo metu įmonė buvo nemoki, įkeitimo sutartį pripažįsta negaliojančia.
  
@@ -703,7 +719,10 @@ DEVINTASIS SKIRSNIS
 
 41 straipsnis. Kreditorių reikalavimų tenkinimo eilė ir tvarka
 
-1. Pirmąja eile yra tenkinami darbuotojų reikalavimai, kylantys iš darbo santykių, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine liga arba žuvus nuo nelaimingo atsitikimo darbe, taip pat fizinių asmenų reikalavimai apmokėti už perdirbti supirktą žemės ūkio produkciją.
+1. Pirmąja eile yra tenkinami darbuotojų reikalavimai, kylantys iš darbo santykių, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine liga arba žuvus nuo nelaimingo atsitikimo darbe, fizinių asmenų reikalavimai apmokėti už perdirbti supirktą žemės ūkio produkciją, taip pat Fondo bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti reikalavimai bei Fondo fizinių asmenų reikalavimams apmokėti už bankrutuojančių ir bankrutavusių įmonių supirktą perdirbti žemės ūkio produkciją reikalavimai. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-942, 1998-11-26, Žin., 1998, Nr. 109-2996 (1998-12-11), i. k. 0981010ISTAVIII-942
+ 
 
 2. Antrąja eile yra tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei privalomojo valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų; dėl užsienio paskolų, kurioms suteikta valstybės ar Vyriausybės garantija.
 
@@ -712,6 +731,10 @@ DEVINTASIS SKIRSNIS
 4. Kiekvienos paskesnės eilės kreditorių (išieškotojų) reikalavimai tenkinami po to, kai visiškai patenkinti pirmesnės eilės kreditorių (išieškotojų) reikalavimai. Jeigu neužtenka lėšų visiškai patenkinti visus vienos eilės reikalavimus, šie reikalavimai tenkinami proporcingai pagal priklausančią kiekvienam kreditoriui (išieškotojui) sumą.
 
 5. Bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams, kylantiems iš darbo santykių, nurodytiems šio straipsnio 1 dalyje, tenkinti Vyriausybė įsteigia fondą. Šiam fondui suformuoti gali būti naudojama dalis lėšų, gautų už privatizuotą valstybės turtą.
+
+6. Fizinių asmenų reikalavimams apmokėti už bankrutuojančių ir bankrutavusių įmonių supirktą perdirbti žemės ūkio produkciją Vyriausybė įsteigia fondą. Šiam fondui suformuoti naudojamos lėšos iš Kaimo rėmimo fondo ir(ar) dalis lėšų, gautų už privatizuotą valstybės turtą.
+Papildyta straipsnio dalimi:
+Nr. VIII-942, 1998-11-26, Žin., 1998, Nr. 109-2996 (1998-12-11), i. k. 0981010ISTAVIII-942
  
 
 42 straipsnis. Administravimo išlaidos
@@ -748,4 +771,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-942, 1998-11-26, Žin., 1998, Nr. 109-2996 (1998-12-11), i. k. 0981010ISTAVIII-942
+Lietuvos Respublikos įmonių bankroto įstatymo 3, 21, 41 straipsnių pakeitimo ir papildymo įstatymas
 
