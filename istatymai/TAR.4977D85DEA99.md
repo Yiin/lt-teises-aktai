@@ -320,7 +320,12 @@ mėnesį priima Finansų ministerija savivaldybių valdybų (merų) teikimu.
 dėl disponavimo atkuriamųjų sąskaitų lėšomis, jeigu Santaupų atkūrimo
 sąskaitoje nesukaupta pakankamai lėšų iš šio įstatymo 4 straipsnyje nurodytų
 šaltinių.
-7.
+7. Atkuriamųjų sąskaitų lėšos, kurios yra
+apskaitomos nebalansiniuose straipsniuose Vyriausybės ir Lietuvos banko
+nustatyta tvarka, gali būti įskaitomos atsiskaitant už žemę Valstybės paramos įsigyjant
+žemės ūkio paskirties žemę laikinojo įstatymo nustatyta tvarka, netaikant šio
+straipsnio 3 dalyje nustatytos eilės tvarkos.
+8.
 Šio įstatymo 2 straipsnio 2 dalies 5 punkte nurodytomis santaupomis gyventojai
 disponuoja Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 Straipsnio
@@ -330,6 +335,8 @@ Nr. VIII-1116,
 Nr.
 VIII-1467,
 1999-12-07, Žin., 1999, Nr. 107-3099 (1999-12-17)
+Nr. IX-1238,
+2002-12-10, Žin., 2002, Nr. 123-5530 (2002-12-24)
  
 7 straipsnis. Baigiamosios nuostatos
 1. Gyventojai, praleidę šio įstatymo 3
@@ -338,17 +345,17 @@ kovo 31 d. - dėl nuo jų nepriklausančių priežasčių, raštišką prašymą
 atkuriamąją sąskaitą gali pateikti Vyriausybės sudarytai komisijai. Komisijos
 sudėtį ir jos nuostatus tvirtina Vyriausybė. Ši komisija nusprendžia, priimti
 ar nepriimti gyventojo prašymą atidaryti atkuriamąją sąskaitą. Taip pat šiai
-komisijai suteikiama teisė nagrinėti prašymus ir priimti sprendimus dėl santaupų,
-nurodytų šio įstatymo 2 straipsnio 1 dalyje, ir lėšų, nurodytų šio įstatymo 2
-straipsnio 2 dalyje, atkūrimo, jei šios lėšos buvo pervestos ir laikomos
-Lietuvos valstybiniuose bankuose buvusių tremtinių ir politinių kalinių, kurie
-negrįžo gyventi į Lietuvą, sąskaitose. Komisijos sprendimai perduodami vykdyti
-AB Lietuvos taupomasis bankas.
+komisijai suteikiama teisė nagrinėti prašymus ir priimti sprendimus dėl
+santaupų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, ir lėšų, nurodytų šio
+įstatymo 2 straipsnio 2 dalyje, atkūrimo, jei šios lėšos buvo pervestos ir
+laikomos Lietuvos valstybiniuose bankuose buvusių tremtinių ir politinių
+kalinių, kurie negrįžo gyventi į Lietuvą, sąskaitose. Komisijos sprendimai
+perduodami vykdyti AB Lietuvos taupomasis bankas.
 2. Iki 1997 m. gruodžio 31 d. gyventojų
 santaupos kompensuojamos Seimo 1993 m. gruodžio 15 d. nutarimo “Dėl gyventojų
 santaupų indeksavimo” ir atitinkamų Vyriausybės nutarimų nustatyta tvarka.
-3. Nuo 1998 m. sausio 1 d. Seimo
-nutarimą “Dėl gyventojų santaupų indeksavimo” 
+3. Nuo 1998 m. sausio 1 d. Seimo nutarimą
+“Dėl gyventojų santaupų indeksavimo” 
 (Žin., 1993, Nr.71-1329), taip pat Seimo nutarimą “Dėl santaupų atkūrimo ir
 kompensavimo fondo nuostatų patvirtinimo” (Žin., 1994, Nr.33-589) pripažinti
 netekusiais galios.
@@ -381,6 +388,7 @@ Nr. VIII-1116,
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą
+ 
  
 RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS
 BRAZAUSKAS
@@ -431,11 +439,21 @@ Nr. VIII-1467,
 GYVENTOJŲ
 SANTAUPŲ ATKŪRIMO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1238, 2002-12-10,
+Žin., 2002, Nr. 123-5530 (2002-12-24)
+GYVENTOJŲ
+SANTAUPŲ ATKŪRIMO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-01-07)
-                  autrap@lrs.lt
+Aušrinė Trapinskienė (2003-01-08)
+                 
+autrap@lrs.lt
 
