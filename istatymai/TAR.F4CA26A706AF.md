@@ -162,11 +162,10 @@ apie valstybės gynybinį rezervą bei suvestiniai duomenys apie mobilizacinį
 materialinių išteklių rezervą;
 2) valstybės
 institucijų veiklos karo padėties sąlygomis planai;
-3) informacija
-apie vertybinių popierių, dokumentų, dokumentų blankų, banknotų, monetų,
-Lietuvos Respublikos akcizų įstatyme nustatytų etilo alkoholio ir alkoholinių
-gėrimų bei apdoroto tabako specialių ženklų – banderolių technologinės apsaugos
-elementų kūrimą, gamybą ir naudojimą;
+3) informacija apie vertybinių
+popierių, dokumentų, dokumentų blankų, banknotų, monetų, Lietuvos Respublikos
+akcizų įstatyme nustatytų etilo alkoholio ir alkoholinių gėrimų bei apdoroto
+tabako banderolių technologinės apsaugos priemonių kūrimą, gamybą ir naudojimą;
 4) informacija
 apie naujausius mokslo ir technikos laimėjimus, naujus technologinius procesus,
 leidžiančius kokybiškai tobulinti ginkluotę, specialiąją ir karinę techniką;
@@ -212,11 +211,11 @@ ginkluotųjų pajėgų, operatyvinės veiklos subjektų, Ginklų fondo prie
 Lietuvos Respublikos Vyriausybės aprūpinimą ginklais, šaudmenimis,
 sprogmenimis, kovine technika, specialiosiomis priemonėmis, taip pat
 informacija apie operatyvinės veiklos subjektų aprūpinimą specialiąja technika;
-16) ginklų registro
-duomenys, kai ginklo savininkas, valdytojas ar naudotojas yra krašto apsaugos
-sistemos institucija, vidaus reikalų sistemos institucija, Valstybės saugumo
-departamentas, Specialiųjų tyrimų tarnyba, prokuratūra, Ginklų fondas prie
-Lietuvos Respublikos Vyriausybės, Lietuvos muitinės įstaiga, vykdanti
+16) ginklų
+registro duomenys, kai ginklo savininkas, valdytojas ar naudotojas yra krašto
+apsaugos sistemos institucija, vidaus reikalų sistemos institucija, Valstybės
+saugumo departamentas, Specialiųjų tyrimų tarnyba, prokuratūra, Ginklų fondas
+prie Lietuvos Respublikos Vyriausybės, Lietuvos muitinės įstaiga, vykdanti
 operatyvinę veiklą, taip pat detalizuoti duomenys apie operatyvinės veiklos
 subjektų turimus ginklus, šaudmenis, sprogmenis, kovinę techniką, specialiąsias
 priemones bei specialiąją techniką;
@@ -301,14 +300,18 @@ Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, prokuratūros,
 Lietuvos banko, Ginklų fondo prie Lietuvos Respublikos Vyriausybės, Lietuvos
 muitinės įstaigos, vykdančios operatyvinę veiklą, saugomų ginklų, šaudmenų,
 asmens saugos ir aktyviosios ginties, radiacinės ir cheminės saugos,
-specialiųjų degazavimo priemonių ir inžinerinės technikos saugojimo bei
-apskaitos normas, paskirstymą ir apsaugos organizavimą;
+specialiųjų degazavimo priemonių ir inžinerinės technikos saugojimo bei apskaitos
+normas, paskirstymą ir apsaugos organizavimą;
 13) informacija,
 gauta iš bankų ir kitų kredito įstaigų jų priežiūros tikslams;
 14) nacionalinės
 ir bazinės valiutos kurso nustatymo projektai bei duomenys apie Lietuvos banko
 vykdomų atpirkimo sandorių, terminuotų indėlių, Vyriausybės, Lietuvos banko
-vertybinių popierių aukcionų dalyvius ir jų siūlymus, likvidumo paskolas.
+vertybinių popierių aukcionų dalyvius ir jų siūlymus, likvidumo paskolas;
+15) informacija,
+telekomunikacinės veiklos reguliavimo ir priežiūros tikslams gauta iš valstybės
+ir savivaldybės institucijų, telekomunikacijų operatorių bei paslaugų teikėjų
+ir radijo dažnių (kanalų) bei telefono ryšio numerių naudotojų.
 3. Informacija,
 išvardyta šio straipsnio 1 dalies 1-24 punktuose, jei jos atskleidimas ar
 praradimas negali padaryti žalos valstybės interesams ir jei tokiai
@@ -338,6 +341,8 @@ IX-813,
 2002-03-26, Žin., 2002, Nr. 38-1360 (2002-04-10)
 Nr. IX-1425,
 2003-04-03, Žin., 2003, Nr. 38-1670 (2003-04-24)
+Nr. IX-1603, 2003-06-05,
+Žin., 2003, Nr. 61-2759 (2003-06-27)
  
 6 straipsnis.
 Įslaptinimo terminai
@@ -363,15 +368,16 @@ datos.
 atvejais, kai valstybės paslaptį sudarančią informaciją tikslinga įslaptinti
 trumpesniam įslaptinimo terminui, nei numatyta šio straipsnio 1 dalies 1-3
 punktuose, įslaptinimo terminas nurodomas šalia slaptumo žymos. 
-5. Tais atvejais,
-kai valstybės saugumo interesams tam tikros informacijos įslaptinimo terminas
-turi būti ilgesnis, nei numatyta šio straipsnio 1 dalies 1-3 punktuose, šį
-klausimą paslapčių subjekto teikimu sprendžia bei įslaptinimo terminą pratęsia
-Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija. Įslaptinimo
-terminas gali būti pratęsiamas iki 10 metų. Pratęsimų skaičius neribojamas,
-tačiau bendras informacijos įslaptinimo terminas negali būti ilgesnis nei 95
-metai, išskyrus informaciją apie slaptuosius operatyvinės veiklos dalyvius bei
-įslaptintus žvalgybos tarnautojus ir žvalgybos bendradarbius.
+5. Tais
+atvejais, kai valstybės saugumo interesams tam tikros informacijos įslaptinimo
+terminas turi būti ilgesnis, nei numatyta šio straipsnio 1 dalies 1-3
+punktuose, šį klausimą paslapčių subjekto teikimu sprendžia bei įslaptinimo
+terminą pratęsia Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija.
+Įslaptinimo terminas gali būti pratęsiamas iki 10 metų. Pratęsimų skaičius
+neribojamas, tačiau bendras informacijos įslaptinimo terminas negali būti
+ilgesnis nei 95 metai, išskyrus informaciją apie slaptuosius operatyvinės
+veiklos dalyvius bei įslaptintus žvalgybos tarnautojus ir žvalgybos
+bendradarbius.
 Straipsnio
 pakeitimai:
 Nr. VIII-1862, 00.07.17, Žin., 2000,
@@ -412,9 +418,9 @@ informaciją, privalo kontroliuoti perduotos informacijos apsaugą ir užtikrint
 kad visi asmenys, susiję su informacijos, žymimos slaptumo žymomis „Visiškai
 slaptai“, „Slaptai“ arba „Konfidencialiai“, naudojimu, turėtų atitinkamus
 leidimus dirbti ar susipažinti su tokia informacija.
-7. Įslaptinta informacija saugoma,
-tvarkoma ir naikinama Lietuvos Respublikos Vyriausybės ar jos įgaliotos
-institucijos nustatyta tvarka.
+7. Įslaptinta informacija
+saugoma, tvarkoma ir naikinama Lietuvos Respublikos Vyriausybės ar jos
+įgaliotos institucijos nustatyta tvarka.
  
 8 straipsnis.
 Įslaptintos informacijos išslaptinimas
@@ -456,10 +462,9 @@ suderinus, išskyrus slaptuosius operatyvinės veiklos dalyvius, su Valstybės
 saugumo departamentu. Prieš priimdamos galutinį sprendimą, asmens kandidatūrą
 tikrinančios institucijos asmenį gali iškviesti pokalbio ir prireikus, jei šis
 asmuo sutinka, patikrinti poligrafu arba pareikalauti raštiškų asmens
-paaiškinimų. Paslapčių subjektui draudžiama išduoti asmeniui leidimą dirbti ar
-susipažinti su valstybės paslaptį sudarančia informacija, jeigu Valstybės
-saugumo departamentas, vadovaudamasis šio straipsnio 5 dalimi, tam
-prieštarauja.
+paaiškinimų. Paslapčių subjektui draudžiama išduoti asmeniui leidimą dirbti ar susipažinti
+su valstybės paslaptį sudarančia informacija, jeigu Valstybės saugumo
+departamentas, vadovaudamasis šio straipsnio 5 dalimi, tam prieštarauja.
 4. Dirbti ar
 susipažinti su valstybės paslaptį sudarančia informacija leidžiama asmeniui,
 jeigu:
@@ -515,9 +520,9 @@ pateikė melagingus biografijos faktus arba kitus duomenis apie save;
 11) įstatymų ar
 kitų teisės aktų nustatyta tvarka buvo atleistas iš pareigų dėl darbo su
 įslaptinta informacija tvarkos pažeidimo;
-12) yra asmuo, kurio
-atžvilgiu atliekamas operatyvinis tyrimas, arba yra patrauktas baudžiamojon
-atsakomybėn už tyčinę nusikalstamą veiką;
+12) yra asmuo,
+kurio atžvilgiu atliekamas operatyvinis tyrimas, arba yra patrauktas
+baudžiamojon atsakomybėn už tyčinę nusikalstamą veiką;
 13) yra asmuo,
 kuriam taikomos prevencinio poveikio priemonės pagal Organizuoto
 nusikalstamumo užkardymo įstatymą;
@@ -569,9 +574,9 @@ nustatytą darbo su įslaptinta informacija tvarką;
 subjektu nutraukiami asmens darbo (tarnybos) santykiai arba asmuo perkeliamas į
 pareigas, nesusijusias su valstybės paslaptį sudarančios informacijos
 naudojimu; 
-4) asmuo nuteisiamas už
-nusikaltimo Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir
-konstitucinei santvarkai ar už kitos tyčinės nusikalstamos veikos padarymą;
+4) asmuo nuteisiamas už nusikaltimo
+Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei
+santvarkai ar už kitos tyčinės nusikalstamos veikos padarymą;
 5) asmuo
 įstatymo nustatyta tvarka pripažįstamas neveiksniu ar ribotai veiksniu;
 6) nustatoma,
@@ -598,8 +603,8 @@ dėl leidimo dirbti ar susipažinti su valstybės paslaptį sudarančia informac
 panaikinimo gali būti skundžiamas Lietuvos Respublikos paslapčių apsaugos
 koordinavimo komisijai, kuri priima galutinį sprendimą.
 Straipsnio pakeitimai:
-Nr. IX-1425,
-2003-04-03, Žin., 2003, Nr. 38-1670 (2003-04-24)
+Nr. IX-1425, 2003-04-03,
+Žin., 2003, Nr. 38-1670 (2003-04-24)
  
 11 straipsnis. Teisės susipažinti
 su įslaptinta informacija, kuria disponuoja kitas 
@@ -614,9 +619,9 @@ yra susijusi su jo pareigų atlikimu.
 teisę susipažinti su įslaptinta informacija, kuria disponuoja kitas paslapčių
 subjektas, suteikia šia informacija disponuojančio paslapčių subjekto vadovas.
 Asmuo privalo pateikti institucijos, kurioje jis dirba, vadovo tikslinį
-siuntimą. Siuntime turi būti patvirtinta, kad asmuo turi leidimą dirbti ar
-susipažinti su atitinkama slaptumo žyma pažymėta įslaptinta informacija, bei
-nurodyta, kodėl ir su kokia informacija asmeniui reikia susipažinti. 
+siuntimą. Siuntime turi būti patvirtinta, kad asmuo turi leidimą dirbti ar susipažinti
+su atitinkama slaptumo žyma pažymėta įslaptinta informacija, bei nurodyta,
+kodėl ir su kokia informacija asmeniui reikia susipažinti. 
 3. Jei priimamas
 sprendimas neleisti asmeniui susipažinti su siuntime nurodyta įslaptinta
 informacija, šia informacija disponuojančio paslapčių subjekto vadovas savo
@@ -649,8 +654,8 @@ apsaugos rengimą bei įgyvendinimą;
 Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoda
 asmens patikimumo pažymėjimus;
 3) teikia
-Lietuvos Respublikos Vyriausybei pasiūlymus dėl šio įstatymo ir kitų teisės aktų,
-susijusių su įslaptintos informacijos apsauga, keitimo ar pripažinimo
+Lietuvos Respublikos Vyriausybei pasiūlymus dėl šio įstatymo ir kitų teisės
+aktų, susijusių su įslaptintos informacijos apsauga, keitimo ar pripažinimo
 netekusiais galios, galiojančios įslaptintos informacijos apsaugos sistemos
 tobulinimo; 
 4) analizuoja
@@ -761,8 +766,8 @@ Nr.96-2146; 1997, Nr.59-1369; 1998, Nr.65-1872);
 2) Lietuvos
 Respublikos Seimo nutarimas “Dėl Lietuvos Respublikos valstybės paslapčių ir jų
 apsaugos įstatymo įgyvendinimo” (Žin., 1995, Nr.96-2147);
-3) Valstybės ir tarnybos
-paslapčių įstatymo įgyvendinimo įstatymas (Žin., 1999, Nr.81-2378).
+3) Valstybės ir tarnybos paslapčių
+įstatymo įgyvendinimo įstatymas (Žin., 1999, Nr.81-2378).
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
@@ -844,11 +849,20 @@ Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y. nuo
 2003 m. 
 gegužės 1 d.
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1603,
+2003-06-05, Žin., 2003, Nr. 61-2759 (2003-06-27)
+VALSTYBĖS
+IR TARNYBOS PASLAPČIŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-06-04)
+Aušrinė Trapinskienė (2003-06-27)
                  
 autrap@lrs.lt
