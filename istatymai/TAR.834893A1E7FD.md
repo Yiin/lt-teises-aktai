@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.834893A1E7FD"
 
 # Lietuvos Respublikos antidempingo įstatymas
 
-Suvestinė redakcija nuo 1999-10-13 iki 2000-12-31
+Suvestinė redakcija nuo 2001-01-01 iki 2002-03-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 62-1776, i. k. 0981010ISTAVIII-807
  
@@ -510,18 +510,20 @@ NUTARIMŲ dėl antidempingo priemonių apskundimas
 
 35 straipsnis. Konkurencijos tarybos nutarimų apskundimas
 
-1. Jei suinteresuotoji šalis nesutinka su Konkurencijos tarybos priimtais nutarimais dėl antidempingo muito taikymo ar netaikymo ir su nutarimais priimti įsipareigojimą dėl kainos ar su nutarimais, priimtais atlikus peržiūras pagal šio įstatymo šeštojo skirsnio nuostatas, arba nesutinka su šį įstatymą vykdančių institucijų veiksmais, susijusiais su šių nutarimų priėmimu, ji gali kreiptis į Vyriausiąją administracinių ginčų komisiją. Nesutikusi su šios komisijos sprendimu, suinteresuotoji šalis gali jį apskųsti Aukštesniajam administraciniam teismui. 
+1. Jei suinteresuotoji šalis nesutinka su Konkurencijos tarybos priimtais nutarimais dėl antidempingo muito taikymo ar netaikymo ir su nutarimais priimti įsipareigojimą dėl kainos ar su nutarimais, priimtais atlikus peržiūras pagal šio įstatymo šeštojo skirsnio nuostatas, arba nesutinka su šį įstatymą vykdančių institucijų veiksmais, susijusiais su šių nutarimų priėmimu, ji gali kreiptis į Vyriausiąją administracinių ginčų komisiją. Nesutikusi su šios komisijos sprendimu, suinteresuotoji šalis gali jį apskųsti Vilniaus apygardos administraciniam teismui. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-1339, 1999-09-28, Žin., 1999, Nr. 85-2513 (1999-10-13), i. k. 0991010ISTAIII-1339
+Nr. VIII-1934, 2000-09-19, Žin., 2000, Nr. 84-2531 (2000-10-06), i. k. 1001010ISTAIII-1934
  
 
 2. Jeigu prieš priimdama nutarimą Konkurencijos taryba atmetė suinteresuotosios šalies pareikštas pretenzijas arba į jas neatsakė, arba jeigu suinteresuotoji šalis prieš priimant nutarimą nebuvo informuota, kaip tai numatyta šio įstatymo devintajame skirsnyje, suinteresuotoji šalis turi teisę šiuos veiksmus apskųsti.
 
 3. Jei suinteresuotosios šalies pretenzijos buvo atmestos, apskųsti galima per 2 mėnesius nuo Konkurencijos tarybos galutinio nutarimo įsigaliojimo dienos, o jei suinteresuotoji šalis nebuvo tinkamai informuota, apskųsti galima per 6 mėnesius nuo galutinio nutarimo įsigaliojimo dienos.
 
-4. Apskundimas Aukštesniajam administraciniam teismui nesustabdo Konkurencijos tarybos nutarimų galiojimo, jei Aukštesnysis administracinis teismas nenustato kitaip.
+4. Apskundimas Vilniaus apygardos administraciniam teismui nesustabdo Konkurencijos tarybos nutarimų galiojimo, jei Vilniaus apygardos administracinis teismas nenustato kitaip.
 Straipsnio dalies pakeitimai:
 Nr. VIII-1339, 1999-09-28, Žin., 1999, Nr. 85-2513 (1999-10-13), i. k. 0991010ISTAIII-1339
+Nr. VIII-1934, 2000-09-19, Žin., 2000, Nr. 84-2531 (2000-10-06), i. k. 1001010ISTAIII-1934
  
 
 DEVINTASIS SKIRSNIS
@@ -675,4 +677,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1339, 1999-09-28, Žin., 1999, Nr. 85-2513 (1999-10-13), i. k. 0991010ISTAIII-1339
 Lietuvos Respublikos antidempingo įstatymo 35 ir 43 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1934, 2000-09-19, Žin., 2000, Nr. 84-2531 (2000-10-06), i. k. 1001010ISTAIII-1934
+Lietuvos Respublikos antidempingo įstatymo 35 straipsnio pakeitimo įstatymas
 
