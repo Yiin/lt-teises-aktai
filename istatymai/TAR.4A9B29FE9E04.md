@@ -13,9 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-LIETUVOS RESPUBLIKOS
-ŽEMĖS ŪKIO BENDROVIŲ
-Į S T A T Y M A S
+Suvestinė redakcija nuo 1992-04-30 iki 1993-03-10
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
+ 
+LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO BENDROVIŲ Į S T A T Y M A S
  
  
 I S K I R S N I S
@@ -437,7 +439,10 @@ Rezervinio kapitalo fondą sudaro privalomi atskaitymai iš pelno. Rezervinio ka
 
 
 
-7. Pajai negali būti pardavinėjami ir perkami per biržos įstaigas. 
+7. Neteko galios nuo 1992-04-30. 
+Straipsnio dalies pakeitimai:
+Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992, Nr. 14-386 (1992-05-20), i. k. 0921010ISTA00I-2523
+ 
 
 
 
@@ -684,8 +689,10 @@ Nutarimai priimami paprasta balsų dauguma, jeigu šiame įstatyme ar bendrovės
 
 
 
-3. Narys visais atvejais turi teisę gauti, o bendrovė privalo išmokėti pinigais ar natūra jam priklausantį pajų. Išstodamas iš bendrovės, narys turi teisę susigrąžinti nekilnojamąjį turtą, įskaitant ir žemę. 
-Nario išstojimo iš bendrovės ir atsiskaitymo sąlygas bei terminus nustato bendrovės įstatai. 
+3. Narys visais atvejais turi teisę gauti, o bendrovė privalo išmokėti pinigais ar natūra jam priklausantį pajų. Išstodamas iš bendrovės, narys turi teisę susigrąžinti nekilnojamąjį turtą, įskaitant ir žemę. Nariui, pareiškusiam norą išstoti iš bendrovės ir steigiančiam ūkininko ūkį, jo pageidavimu, pajus (pirmiausia nario materialinis įnašas) Lietuvos Respublikos Vyriausybės nustatyta tvarka grąžinamas natūra. Kitas nario išstojimo iš bendrovės ir atsiskaitymo sąlygas bei terminus nustato bendrovės įstatai.
+Straipsnio dalies pakeitimai:
+Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992, Nr. 14-386 (1992-05-20), i. k. 0921010ISTA00I-2523
+ 
 
 
 
@@ -1111,3 +1118,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1991 m. balandžio 16 d. 
 Nr. I-1222
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992, Nr. 14-386 (1992-05-20), i. k. 0921010ISTA00I-2523
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo papildymo ir pakeitimo
