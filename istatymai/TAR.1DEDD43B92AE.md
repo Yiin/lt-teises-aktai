@@ -52,16 +52,6 @@ Straipsnio pakeitimai:
 Nr. IX-168, 2001 01 25, Žin., 2001, Nr.
 16-495 (2001 02 21)
  
-2 straipsnio redakcija iki
-2002 m. birželio 1 d.:
-2 straipsnis. Vienkartinė pašalpa gimus kūdikiui
-Gimus kūdikiui, šeimai mokama 6 minimalių gyvenimo
-lygių (toliau – MGL) dydžio vienkartinė pašalpa. Ji mokama už kiekvieną gimusį
-gyvą kūdikį vieno iš tėvų (ar turimo vienintelio iš tėvų) prašymu. Jei tėvai
-arba vienas iš tėvų yra miręs, atsisakė kūdikio, jo neaugina arba tėvai yra
-išsituokę, pašalpa išmokama vaiką auginančiai motinai (tėvui) ar globėjui.
-2 straipsnio redakcija nuo
-2002 m. birželio 1 d.:
 2 straipsnis. Vienkartinė pašalpa gimus kūdikiui
 Gimus kūdikiui, motinai (tėvui) ar globėjui mokama 6
 minimalių gyvenimo lygių (toliau – MGL) dydžio vienkartinė pašalpa. Ji mokama
@@ -88,27 +78,6 @@ Straipsnio pakeitimai:
 Nr. IX-168, 2001 01 25, Žin., 2001, Nr.
 16-495 (2001 02 21)
  
-4 straipsnio redakcija iki
-2002 m. birželio 1 d.:
-4
-straipsnis. Šeimos pašalpa
-Šeimai,
-pagal Ligos ir motinystės socialinio draudimo įstatymą neturinčiai teisės gauti
-motinystės (tėvystės) pašalpos, gimus kūdikiui, mokama 0,75 MGL dydžio pašalpa
-kas mėnesį už kiekvieną vaiką nuo jo gimimo iki trejų metų.
-Šeimai,
-pagal Ligos ir motinystės socialinio draudimo įstatymą turinčiai teisę gauti
-motinystės (tėvystės) pašalpą, gimus kūdikiui, mokama 0,75 MGL dydžio pašalpa
-kas mėnesį už kiekvieną nuo vienerių iki trejų metų vaiką.
-Pašalpa
-mokama vieno iš tėvų (ar turimo vienintelio iš tėvų) prašymu. Jei vienas iš
-tėvų yra miręs, atsisakė vaiko, jo neaugina arba tėvai yra išsituokę, pašalpa
-mokama vaiką auginančiai motinai (tėvui). Už vaiką, kuris nuolat arba darbo
-dienomis išlaikomas (nakvynė ir maistas) valstybės ar savivaldybės
-finansuojamoje įstaigoje, ir už vaiką, kuriam įstatymų nustatyta tvarka
-įsteigta globa, ši pašalpa nemokama.
-4 straipsnio redakcija nuo
-2002 m. birželio 1 d.:
 4 straipsnis. Šeimos pašalpa
 Motinai (tėvui) mokama 0,75 MGL dydžio pašalpa
 kas mėnesį už kiekvieną vaiką nuo jo gimimo iki trejų metų per laikotarpius,
@@ -130,40 +99,17 @@ Nr. IX-168, 2001 01 25, Žin., 2001, Nr.
 Nr. IX-878,
 2002-05-09, Žin., 2002, Nr. 53-2044 (2002-05-29)
  
-4(1) straipsnio
-redakcija iki 2002 m. birželio 1 d.:
-4(1)
-straipsnis. Pašalpa šeimoms, auginančioms tris ir daugiau vaikų
-Šeimai už tris ir daugiau vaikų iki 16 metų ir
-vyresnius, iki jie baigs dienines bendrojo lavinimo mokyklas, aukštųjų,
-aukštesniųjų ir profesinių mokyklų dieninius skyrius, mokama vieno MGL dydžio
-pašalpa per mėnesį. Už ketvirtą ir kiekvieną paskesnį vaiką pašalpa didinama
-0,3 MGL.
-Šio straipsnio pirmojoje dalyje nurodyta pašalpa
-šeimai už tris vaikus iki 16 metų ir vyresnius, iki jie baigs dienines bendrojo
-lavinimo mokyklas, aukštųjų, aukštesniųjų ir profesinių mokyklų dieninius
-skyrius, mokama, jeigu šeimos pajamos, tenkančios vienam jos nariui, yra
-mažesnės už trigubo dydžio Vyriausybės tvirtinamas valstybės remiamas pajamas.
-Pašalpa mokama vieno iš
-tėvų (ar turimo vienintelio iš tėvų) prašymu. Jei vienas iš tėvų yra miręs,
-atsisakė vaikų, jų neaugina arba tėvai yra išsituokę, pašalpa mokama vaikus
-auginančiai motinai (tėvui). Už vaiką, kuris nuolat arba darbo dienomis
-išlaikomas (nakvynė ir maistas) valstybės ar savivaldybės finansuojamoje
-įstaigoje, ir už vaiką, kuriam įstatymų nustatyta tvarka įsteigta globa, ši
-pašalpa nemokama.
-4(1) straipsnio
-redakcija nuo 2002 m. birželio 1 d.:
 4(1) straipsnis. Pašalpa šeimoms,
 auginančioms tris ir daugiau vaikų
 Motinai (tėvui) už tris ir daugiau vaikų iki 16 metų
 ir vyresnius, iki jie baigs dienines bendrojo lavinimo mokyklas, profesinių,
 aukštesniųjų ir aukštųjų mokyklų dieninius skyrius, mokama 1 MGL dydžio pašalpa
 per mėnesį. Už ketvirtą ir kiekvieną paskesnį vaiką pašalpa didinama 0,3 MGL. 
-Šio straipsnio pirmojoje dalyje nurodyta pašalpa
-šeimai, auginančiai tris vaikus iki 16 metų ir vyresnius, iki jie baigs
-dienines bendrojo lavinimo mokyklas, profesinių, aukštesniųjų ir aukštųjų
-mokyklų dieninius skyrius, yra mokama, jeigu šeimos pajamos, tenkančios vienam
-jos nariui, yra mažesnės už trigubo dydžio Vyriausybės tvirtinamas valstybės
+Šio straipsnio pirmojoje dalyje nurodyta pašalpa šeimai,
+auginančiai tris vaikus iki 16 metų ir vyresnius, iki jie baigs dienines
+bendrojo lavinimo mokyklas, profesinių, aukštesniųjų ir aukštųjų mokyklų
+dieninius skyrius, yra mokama, jeigu šeimos pajamos, tenkančios vienam jos
+nariui, yra mažesnės už trigubo dydžio Vyriausybės tvirtinamas valstybės
 remiamas pajamas.
 Pašalpa mokama vieno iš tėvų (ar turimo vienintelio iš
 tėvų) prašymu. Jei vienas iš tėvų yra miręs, vaikų neaugina, jo valdžia
@@ -179,44 +125,47 @@ Nr. IX-168, 2001 01 25, Žin., 2001, Nr.
 16-495 (2001 02 21)
 Nr. IX-878,
 2002-05-09, Žin., 2002, Nr. 53-2044 (2002-05-29), atitaisymas skelbtas:
-Žin., 2002,
-Nr. 55 (2002-06-05)
+Žin., 2002, Nr. 55
  
-5 straipsnio redakcija iki
-2002 m. birželio 1 d.:
-5 straipsnis.Vaiko globos pašalpa
-Fiziniam asmeniui, šeimynai arba nevyriausybinei
-globos institucijai, įstatymų nustatyta tvarka paskirtai likusio be tėvų globos
-vaiko globėju, šiam vaikui išlaikyti mokama 4 MGL dydžio pašalpa kiekvieną
-mėnesį, kol jam sukaks 18 metų. 
-Likusiam be tėvų globos vaikui, sulaukusiam pilnametystės,
-nustatyto dydžio pašalpa mokama jam pačiam, kol jis mokosi dieninėje bendrojo
-lavinimo mokykloje arba ją baigus iki tų pačių metų rugsėjo 1 d., jeigu jis tuo
-metu nedirba. 
-Kai globojamas vaikas įstatymų nustatyta tvarka gauna
-našlaičių pensiją arba alimentus, globėjui šiam vaikui išlaikyti mokama
-pašalpa, lygi skirtumui tarp šio straipsnio pirmojoje dalyje nustatyto vaiko
-globos pašalpos dydžio ir gaunamos našlaičių pensijos bei gaunamų alimentų
-dydžio.
-Už valstybės išlaikomą vaiką globos pašalpa nemokama.
-5 straipsnio redakcija nuo
-2002 m. birželio 1 d.:
 5 straipsnis. Vaiko globos (rūpybos) pašalpa
 Fiziniam asmeniui, šeimynai arba nevyriausybinei
 globos institucijai, įstatymų nustatyta tvarka paskirtai likusio be tėvų globos
 vaiko globėju (rūpintoju), šiam vaikui išlaikyti mokama 4 MGL dydžio pašalpa
 kiekvieną mėnesį, kol Lietuvos Respublikos civiliniame kodekse nustatytais
 pagrindais baigiasi vaiko globa (rūpyba).
+ 
+2 dalies redakcija iki 2004
+m. sausio 1 d.:
 Jeigu
 vaikas, kuriam iki pilnametystės buvo nustatyta globa (rūpyba), tęsia mokslus
 dieninėje bendrojo lavinimo mokykloje sulaukęs pilnametystės, nustatyto dydžio
 pašalpa mokama jam pačiam, kol baigs šią mokyklą ir ją baigus iki tų pačių metų
 rugsėjo 1 dienos, jeigu jis tuo metu nedirba.
+2 dalies redakcija nuo 2004
+m. sausio 1 d.:
+Jeigu pasibaigus vaiko globai (rūpybai) dėl
+pilnametystės, emancipacijos ar santuokos sudarymo asmuo, kuriam buvo nustatyta
+vaiko globa (rūpyba), toliau nenutrūkstamai mokosi dieninėje bendrojo lavinimo
+mokykloje arba miršta dieninėje bendrojo lavinimo mokykloje besimokančio
+pilnamečio, emancipuoto ar susituokusio asmens abu tėvai (turėtas vienintelis
+iš tėvų), nustatyto dydžio pašalpa mokama jam pačiam, kol baigia šią mokyklą ir
+ją baigus iki tų pačių metų rugsėjo 1 dienos, jeigu jis tuo metu nedirba.
+ 
+3 dalies redakcija iki 2004
+m. sausio 1 d.:
 Kai vaikas, kuriam nustatyta globa (rūpyba), įstatymų
 nustatyta tvarka gauna našlaičių pensiją arba alimentus, šiam vaikui išlaikyti
 globėjui (rūpintojui) mokama pašalpa, lygi skirtumui tarp šio straipsnio
 pirmojoje dalyje nustatyto vaiko globos (rūpybos) pašalpos dydžio ir gaunamos
 našlaičių pensijos bei gaunamų alimentų dydžio.
+3 dalies redakcija nuo 2004
+m. sausio 1 d.:
+Kai šio straipsnio pirmojoje ar antrojoje dalyse
+nurodytas asmuo įstatymų nustatyta tvarka gauna našlaičių pensiją ir (arba)
+alimentus, vaiko globos (rūpybos) pašalpos dydis yra lygus skirtumui tarp šio
+straipsnio pirmojoje dalyje nustatyto vaiko globos (rūpybos) pašalpos dydžio ir
+gaunamos našlaičių pensijos bei (arba) gaunamų alimentų dydžio.
+ 
 Už valstybės išlaikomą vaiką globos (rūpybos) pašalpa
 nemokama.
 Straipsnio pakeitimai:
@@ -226,6 +175,8 @@ Nr. VIII-985,
 98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
 Nr. IX-878,
 2002-05-09, Žin., 2002, Nr. 53-2044 (2002-05-29)
+Nr. IX-1750,
+2003-10-07, Žin., 2003, Nr. 101-4537 (2003-10-29)
  
             6
 straipsnis. Pašalpa tikrosios krašto apsaugos tarnybos karių (prievolininkų) 
@@ -238,24 +189,7 @@ pašalpa mokama už kiekvieną vaiką motinai arba kitam faktiškai jį auginan�
 asmeniui.
  
 7 straipsnio redakcija iki
-2002 m. birželio 1 d.:
-7 straipsnis. Našlaičio stipendija
-Našlaičiams ir likusiems be tėvų globos vyresniems
-negu 18 metų aukštųjų mokyklų dieninių skyrių nedirbantiems studentams, pirmą
-kartą įgyjantiems bakalauro ar magistro laipsnį, bei aukštesniųjų ir profesinių
-mokyklų dieninių skyrių nedirbantiems moksleiviams, pirmą kartą įgyjantiems
-profesiją, mokama 3 MGL, o nuo 2000 m. sausio 1 d. - 4 MGL dydžio našlaičio
-stipendija. Jiems paliekama teisė gauti stipendijas pagal mokymosi rezultatus. 
-Našlaičiui ar likusiam be tėvų globos vaikui, įstatymų
-nustatyta tvarka gaunančiam našlaičių pensiją, mokama našlaičio stipendija,
-lygi skirtumui tarp šio straipsnio pirmojoje dalyje nustatyto našlaičio
-stipendijos dydžio ir gaunamos našlaičių pensijos dydžio.
-Našlaičiams ir likusiems be tėvų globos vaikams,
-nesukakusiems 18 metų, kai jie mokosi pirmojoje šio straipsnio dalyje
-nurodytose mokymo įstaigose, nustatyto dydžio našlaičio stipendija mokama,
-jeigu jiems nėra įsteigta globa.
-7 straipsnio redakcija nuo
-2002 m. birželio 1 d.:
+2004 m. sausio 1 d.:
 7 straipsnis. Našlaičio stipendija 
 Vyresniems kaip 18 metų, bet nesukakusiems 24 metų
 nedirbantiems asmenims, kuriems iki pilnametystės buvo nustatyta globa
@@ -270,23 +204,33 @@ asmenims.
 įstatymų nustatyta tvarka gaunantiems našlaičių pensiją, mokama našlaičio
 stipendija. Ji yra lygi skirtumui tarp šio straipsnio pirmojoje dalyje
 nustatyto našlaičio stipendijos dydžio ir gaunamos našlaičių pensijos dydžio.
+7 straipsnio redakcija nuo
+2004 m. sausio 1 d.:
+7 straipsnis. Našlaičio stipendija
+Nedirbantiems asmenims, kuriems iki pilnametystės,
+emancipacijos ar santuokos sudarymo buvo nustatyta vaiko globa (rūpyba), taip
+pat nedirbantiems asmenims, kurių abu tėvai (turėtas vienintelis iš tėvų) yra
+mirę, pirmą kartą įgyjantiems bakalauro ar magistro laipsnį arba profesinę
+kvalifikaciją aukštųjų, aukštesniųjų ir profesinių mokyklų dieniniame skyriuje,
+mokymosi laikotarpiu, iki jiems sukanka 24 metai, mokama 4 MGL dydžio našlaičio
+stipendija. Jiems paliekama teisė gauti stipendijas pagal mokymosi rezultatus.
+Našlaičio stipendija neskiriama asmenims, pakartotinai įstojusiems į tos pačios
+pakopos mokymosi įstaigą bei išlaikomiems (nakvynė ir maistas) valstybės ar
+savivaldybės finansuojamose įstaigose.
+Šio straipsnio pirmojoje dalyje nurodytiems asmenims,
+įstatymų nustatyta tvarka gaunantiems našlaičių pensiją, našlaičio stipendijos
+dydis yra lygus skirtumui tarp šio straipsnio pirmojoje dalyje nustatyto
+našlaičio stipendijos dydžio ir gaunamos našlaičių pensijos dydžio.
 Straipsnio pakeitimai:
 Nr. VIII-985,
 98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
-Nr. IX-878, 2002-05-09,
-Žin., 2002, Nr. 53-2044 (2002-05-29), įsigalioja nuo 2002-06-01
+Nr. IX-878,
+2002-05-09, Žin., 2002, Nr. 53-2044 (2002-05-29)
+Nr. IX-1750,
+2003-10-07, Žin., 2003, Nr. 101-4537 (2003-10-29)
  
 8 straipsnio redakcija iki
-2002 m. birželio 1 d.:
-8 straipsnis. Pašalpa našlaičiams ir likusiems be tėvų
-globos vaikams įsikurti
-Sukakusiems 18 metų našlaičiams ir likusiems be tėvų globos
-vaikams, kurie iki pilnametystės buvo globojami globos institucijose, šeimynose
-arba globėjų, skiriama vienkartinė 50 MGL dydžio pašalpa gyvenamajam namui,
-butui (gyvenamajai patalpai) įsigyti arba įsikurti, jeigu jie nėra toliau
-valstybės išlaikomi globos institucijose.
-8 straipsnio redakcija nuo
-2002 m. birželio 1 d.:
+2004 m. sausio 1 d.:
 8 straipsnis. Pašalpa našlaičiams ir
 likusiems be tėvų globos vaikams įsikurti
 Sukakusiems 18 metų našlaičiams ir likusiems be tėvų
@@ -294,11 +238,23 @@ globos vaikams, kurie iki pilnametystės buvo globojami globos institucijose,
 šeimynose arba globėjų (rūpintojų), skiriama vienkartinė 50 MGL dydžio pašalpa
 gyvenamajam namui, butui (gyvenamajai patalpai) įsigyti arba įsikurti, jeigu
 jie nėra toliau valstybės išlaikomi globos institucijose.
+8 straipsnio redakcija nuo
+2004 m. sausio 1 d.:
+8 straipsnis. Pašalpa likusiems be tėvų globos vaikams
+įsikurti
+Asmenims, kuriems buvo nustatyta vaiko globa (rūpyba),
+pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos
+sudarymo, skiriama vienkartinė 50 MGL dydžio pašalpa gyvenamajam namui, butui
+(gyvenamajai patalpai) įsigyti arba įsikurti. Dėl šios pašalpos asmenys gali
+kreiptis, iki jiems sukanka 25 metai, jeigu jie nėra toliau išlaikomi (nakvynė
+ir maistas) valstybės ar savivaldybės finansuojamose įstaigose.
 Straipsnio pakeitimai:
 Nr. VIII-985,
 98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
 Nr. IX-878,
 2002-05-09, Žin., 2002, Nr. 53-2044 (2002-05-29)
+Nr. IX-1750,
+2003-10-07, Žin., 2003, Nr. 101-4537 (2003-10-29)
  
 9 straipsnis. Lėšos pašalpoms mokėti
 Lėšos pašalpoms, nurodytoms šio įstatymo 2, 4, 4(1),
@@ -395,8 +351,8 @@ Nr. IX-168, 2001 01 25, Žin., 2001, Nr.
 VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 1, 2, 3, 4,
 4(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001
-m. liepos 1 d., išskyrus šio įstatymo 3 straipsnį ir 4 straipsnyje išdėstyto 
-4 straipsnio 1 ir 2 dalis.
+m. liepos 1 d., išskyrus šio įstatymo 3 straipsnį ir 4 straipsnyje išdėstyto 4
+straipsnio 1 ir 2 dalis.
  
 6.
 Lietuvos
@@ -412,11 +368,23 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šio Įstatymo atitaisymas skelbtas: Žin., 2002, Nr.
 55 (2002-06-05)
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1750,
+2003-10-07, Žin., 2003, Nr. 101-4537 (2003-10-29)
+VALSTYBINIŲ
+PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 5, 7, 8 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-05-29)
+Aušrinė Trapinskienė (2003-10-30)
                  
 autrap@lrs.lt
