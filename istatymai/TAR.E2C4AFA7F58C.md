@@ -59,6 +59,30 @@ METŲ VALSTYBĖS BIUDŽETO IR ATSKAITYMŲ Į SAVIVALDYBIŲ
 BIUDŽETUS
 NORMATYVŲ BEI DOTACIJŲ" PAKEITIMO 
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-697, 94.12.13, Žin., 1994, Nr.99-1962 (94.12.23)
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS RESPUBLIKOS
+1994
+METŲ VALSTYBĖS BIUDŽETO IR ATSKAITYMŲ Į SAVIVALDYBIŲ
+BIUDŽETUS
+NORMATYVŲ BEI DOTACIJŲ" PAKEITIMO
+ 
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-717, 94.12.20, Žin., 1994, Nr.99-1963 (94.12.23)
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS RESPUBLIKOS
+1994
+METŲ VALSTYBĖS BIUDŽETO IR ATSKAITYMŲ Į SAVIVALDYBIŲ
+BIUDŽETUS
+NORMATYVŲ BEI DOTACIJŲ" PAKEITIMO
+ 
 ***
 Pabaiga ***
  
@@ -74,8 +98,8 @@ LIETUVOS RESPUBLIKOS
                             
 Vilnius
  
-      DĖL
-LIETUVOS RESPUBLIKOS 1994 METŲ VALSTYBĖS BIUDŽETO
+     
+DĖL LIETUVOS RESPUBLIKOS 1994 METŲ VALSTYBĖS BIUDŽETO
             
 IR ATSKAITYMŲ Į SAVIVALDYBIŲ BIUDŽETUS
                     
@@ -144,8 +168,8 @@ PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
  
  
  
-                                    
-   Lietuvos Respublikos
+                            
+           Lietuvos Respublikos
                                        
 1993 m. gruodžio 23 d.
                                        
@@ -156,8 +180,8 @@ PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
  
                 
 LIETUVOS RESPUBLIKOS 1994 METŲ
-        
-              VALSTYBĖS BIUDŽETAS
+                      
+VALSTYBĖS BIUDŽETAS
  
  
 _________________________________________________________________
@@ -165,8 +189,8 @@ _________________________________________________________________
 Pajamos                       tūkst. Lt
 _________________________________________________________________
  
-                      
-MOKESTINĖS PAJAMOS
+                  
+    MOKESTINĖS PAJAMOS
  
 Fizinių
 asmenų pajamų mokestis                             539261
@@ -174,8 +198,8 @@ Juridinių
 asmenų pelno mokestis                            547494
 Pridėtosios
 vertės mokestis                                969309
-Akcizai                                  
-                 301700
+Akcizai                          
+                         301700
 Tarptautinės
 prekybos ir sandėrių mokesčiai                180000
 Kiti
@@ -210,7 +234,7 @@ iš baudų ir konfiskacijų                          �
 Kitos
 nemokestinės pajamos
     
-iš viso                                               103608
+iš viso                                               103608
          
 iš jų:
          
@@ -219,8 +243,8 @@ mokestis už aplinkos teršimą                       3250
 pajamos už monetų kaldinimą ir
          
 Lietuvos banko pelno likutis                      60000
-         
-įplaukos iš ūkiui suteiktų paskolų                 3303
+      
+   įplaukos iš ūkiui suteiktų paskolų                 3303
          
 kitos pajamos                                     37055
               
@@ -230,8 +254,8 @@ Iš viso pajamų                   2782322
  
  
  
-                         I
-Š L A I D O S
+                        
+I Š L A I D O S
  
                                                  
 (tūkst. Lt)
@@ -246,16 +270,16 @@ valdytojų
 pavadinimas                        išlaidos       prast
                                                            
 osios
-                         
-                               išlaidos
+                 
+                                       išlaidos
                                             
 _______________
                                             
 iš viso   iš jų
                                                       
 darbo
-                                
-                      užmo-
+                        
+                              užmo-
                                                       
 kestis
 _________________________________________________________________
@@ -266,11 +290,11 @@ Respublikos Seimas        30427     19783     6359 10644
     
 iš jų - Baltijos Asamblėja    200       200
 Seimo
-kontrolieriai                192       192       269  
+kontrolieriai                192       10        7    182
 Konstitucinis
 Teismas              1957      1846      738  111
 Aplinkos
-apsaugos departamentas    11778     11223     3256 555
+apsaugos departamentas    11778     11223     3256 555
 Valstybės
 kontrolės departamentas  6584      6074      4134 510
 Kultūros
@@ -280,8 +304,8 @@ Respublikos Vyriausybės
 kanceliarija                      
 10609     9850,5   2420 758,5
  
-         
-I. Ministerijos
+     
+    I. Ministerijos
  
 Ekonomikos
 ministerija             3146      3085      1267 61
@@ -290,7 +314,7 @@ ministerija            4049      2949      383  1100
 Finansų
 ministerija                43857     43307     25457 550
 Krašto
-apsaugos ministerija        130242    103678   47572 26564
+apsaugos ministerija        130242    103678   47572 26564
 Kultūros
 ir švietimo ministerija   217137    192475   58077 24662
 Miškų
@@ -318,7 +342,7 @@ iš jų: valstybės įmokos
            
 tarptautinėms
            
-organizacijoms         41820     41820
+organizacijoms         41820     41820
            
 Lietuvos diplomatinės
            
@@ -328,7 +352,7 @@ atstovybės užsienio
 Vidaus
 reikalų ministerija         243660    225350  122739 18310
 Žemės
-ūkio ministerija             292396    274969   17482 17427
+ūkio ministerija             292396    274969   17482 17427
  
          
 II. Departamentai, tarnybos ir inspekcijos
@@ -342,7 +366,7 @@ apsaugos
 departamentas
 prie Vidaus
 reikalų
-ministerijos               38807     28612   19515  10195
+ministerijos               38807     28612   19515  10195
 Lietuvos
 Respublikos Prezidento,
 Seimo
@@ -354,7 +378,7 @@ departamentas
 prie
 Vidaus reikalų ministerijos   4526      4077      2578 449
 Statistikos
-departamentas          5441      5422      2288 19
+departamentas          5441      5422      2288 19
 Tautybių
 departamentas             312       308       70   4
 Valstybinė
@@ -364,7 +388,7 @@ tarnyba               408       397       159  11
 Valstybinė
 technikos priežiūros
 tarnyba                           
-641       616       328  25
+641       616       328  25
 Valstybinė
 turizmo tarnyba         290       273       100  17
 Valstybinė
@@ -409,8 +433,8 @@ Energetikos ministerijos reguliavimo sritis
  
 Lietuvos
 valstybinė energetikos
-sistema                           
-107440    96000          11440
+sistema                      
+     107440    96000          11440
 Valstybinė
 įmonė "Lietuvos kuras"  100                      100
 Dujų
@@ -447,7 +471,7 @@ institutas                 120       117       60 �
 Vertybinių
 popierių komisija       472       419       181  53
 Apsaugos
-tarnyba                   2940      1872      1285 1068
+tarnyba                   2940      1872      1285 1068
 Valstybinė
 prabavimo priežiūros
 įmonė
@@ -461,7 +485,7 @@ reguliavimo sritis
 Valstybinė
 įmonė
 "Vilniaus
-aerouostas"              7740                     7740
+aerouostas"              7740                     7740
 Valstybinė
 įmonė
 "Kauno
@@ -473,7 +497,7 @@ inspekcija              53        53        35
 Lietuvos
 valstybinė tiltų
 kelių
-inspekcija                   47        47        27
+inspekcija                   47        47        27
 Vandens
 transporto valstybinės
 kontrolės
@@ -486,8 +510,8 @@ kelių
 valdyba                      1267      1267
 Lietuvos
 valstybinė upių
-laivininkystė                   
-  89        89
+laivininkystė        
+             89        89
 Klaipėdos
 valstybinė įmonė
 "Smiltynės
@@ -497,7 +521,7 @@ valstybinė automobilių
 kelių
 direkcija                    98359     82059     273  16300
 Lietuvos
-jūrų uostų direkcija      220                      220
+jūrų uostų direkcija      220                      220
 Valstybinė
 įmonė
 "Lietuvos
@@ -521,8 +545,8 @@ europinio standarto
 geležinkelio
 direkcija             114       64        44   50
  
-    
-Žemės ūkio ministerijos
+     Žemės
+ūkio ministerijos
     
 reguliavimo sritis
  
@@ -536,8 +560,8 @@ perdirbimo
 įmonė                   499                      499
 Kauno
 valstybinis pieno
-kombinatas 
-                       500                      500
+kombinatas                        
+500                      500
 Obelių
 valstybinė rapsų
 aliejaus
@@ -549,7 +573,7 @@ utilizacijos
 Rietavo
 valstybinė
 utilizacijos
-įmonė                 689       689
+įmonė                 689       689
  
     
 Aplinkos apsaugos departamento
@@ -602,8 +626,8 @@ valstybinė gamykla
  
     
 Valstybinės veterinarijos tarnybos
-    
-reguliavimo sritis
+     reguliavimo
+sritis
  
 Ukmergės
 valstybinis biofabrikas   350                      350
@@ -630,8 +654,8 @@ Generalinė
 prokuratūra ir
 teritorinės
 prokuratūros           16785     14445     8275 2340
-Teismai                           
-24842     23051    11296 1791
+Teismai                 
+          24842     22351    10796 2491
 Valstybinis
 arbitražas             72        72        51
  
@@ -644,8 +668,8 @@ Archyvų
 generalinė direkcija
 prie
 Lietuvos Respublikos
-Vyriausybės                      
- 3478      3419      1499 59
+Vyriausybės           
+            3478      3419      1499 59
 Technikos
 biblioteka               2180      2162      485  18
 Valstybės
@@ -657,7 +681,7 @@ gyventojų genocido
 ir
 rezistencijos
 tyrimo
-centras                     439       406       221  33
+centras                     439       406       221  33
     
 iš jų -   Rezistencijos
               
@@ -669,7 +693,7 @@ radijas ir televizija     20716     15899     6819 4817
 Lietuvos
 profesinių sąjungų
 bendrijos
-kultūros rūmai           347       347       267
+kultūros rūmai           347       347       267
 Valstybinis
 patentų biuras         803       736       216  67
 Spaudos
@@ -689,7 +713,7 @@ sąjunga               62        62        25
 Rašytojų
 sąjunga                   113       113       37
 Studijų
-kreditai                   1200      1200
+kreditai                   1200      1200
 Mokslas
 ir studijos                180511    160237   76092 20274
 Lietuvos
@@ -707,7 +731,7 @@ ir rūpybos fondas           76        61        26   
 Marijampolės
 krikščioniškosios
 kultūros
-centras                   213       213       152
+centras                   213       213       152
 Lietuvos
 invalidų draugijos
 centro
@@ -719,7 +743,7 @@ regioninių problemų
 komisija                          
 132       127       81   5
 Valstybinė
-draudimo įstaiga        6100      6100
+draudimo įstaiga        6100      6100
 Subsidijos
 už šildymą              19933     19933
 Palūkanos
@@ -730,8 +754,8 @@ aptarnavimo
 išlaidos               7040      7040
 Lėšos
 restitucijos aktui
-įgyvendinti                       
-2000                     2000
+įgyvendinti                      
+ 2000                     2000
 Butų
 statyba politiniams kaliniams
 ir
@@ -762,7 +786,7 @@ VIII. Asignavimai
     
 savivaldybių biudžetams
     
-paramai mirties atveju        3000      3000
+paramai mirties atveju        3000      3000
  
     
 IX. Paramos visuomeninėms
@@ -778,7 +802,7 @@ programos                     15        15
 Iš viso                     2793311  2362604  565753  430707
  
     
-Perduota dotacija             152544    152544
+Perduota dotacija             152544    152544
  
     
 Iš viso                     2945855  2515148  565753  430707
@@ -801,7 +825,10 @@ Nr.
 I-574, 94.07.20, Žin., 1994, Nr.59-1160 (94.08.03)
 Nr.
 I-683, 94.12.07, Žin., 1994, Nr.96-1878 (94.12.14)
- 
+Nr.
+I-697, 94.12.13, Žin., 1994, Nr.99-1962 (94.12.23)
+Nr.
+I-717, 94.12.20, Žin., 1994, Nr.99-1963 (94.12.23)
  
                                        
 Lietuvos Respublikos
@@ -845,7 +872,7 @@ Klaipėda           
 Marijampolė        
 60             10
 Neringa            
-100            70
+100            70
 Palanga            
 100            100                 304
 Panevėžys          
@@ -858,7 +885,7 @@ Rajonai
 Akmenės            
 100            42,5
 Alytaus            
-100            100                 10203
+100            100                 10203
 Anykščių           
 100            100                 4489
 Biržų              
@@ -874,7 +901,7 @@ Jurbarko           
 Kaišiadorių        
 100            67,8
 Kauno              
-100            100                 3633
+100            100                 3633
 Kėdainių           
 90             32,4
 Kelmės             
@@ -884,17 +911,17 @@ Klaipėdos          
 Kretingos          
 100            100                 2032
 Kupiškio           
-100            100                 1822
+100            100                 1822
 Lazdijų            
 100            100                 3487
 Marijampolės       
-100            100                 15503
+100            100                 15503
 Mažeikių           
 30             10,3
 Molėtų             
 100            100                 1882
 Pakruojo           
-100            100                 6022
+100            100                 6022
 Panevėžio          
 100            100                 2115
 Pasvalio           
@@ -902,17 +929,17 @@ Pasvalio           
 Plungės            
 100            100                 145
 Prienų             
-100            100                 6597
+100            100                 6597
 Radviliškio        
 100            100                 4008
 Raseinių           
-100            100                 1268
+100            100                 1268
 Rokiškio           
 100            50,7
 Skuodo             
 100            100                 5013
-Šakių           
-   100            100                 7936
+Šakių              
+100            100                 7936
 Šalčininkų         
 100            100                 7781
 Šiaulių            
@@ -920,7 +947,7 @@ Skuodo             
 Šilalės            
 100            100                 6536
 Šilutės            
-100            100                 18171
+100            100                 18171
 Širvintų           
 100            100                 2662
 Švenčionių         
@@ -932,7 +959,7 @@ Telšių             
 Trakų              
 90             34,9
 Ukmerėgės          
-100            75,2
+100            75,2
 Utenos             
 70             16,5
 Varėnos            
@@ -942,7 +969,7 @@ Vilkaviškio        
 Vilniaus           
 100            100                 8053
 Zarasų             
-100            100                 6829
+100            100                 6829
                    
 _____________________________________________
                    
@@ -957,33 +984,33 @@ Lietuvos Respublikos
 1993 m. gruodžio 23 d.
                                        
 įstatymo Nr.I-349
-                                       
-3 priedėlis
+                            
+           3 priedėlis
  
  
        
 ASIGNAVIMAI MELIORACIJOS IR GAMTOSAUGOS OBJEKTAMS
         
 FINANSUOTI, NUMATYTI ATSKAITYMŲ Į SAVIVALDYBIŲ
-             
-       BIUDŽETUS NORMATYVUOSE
+                    
+BIUDŽETUS NORMATYVUOSE
  
                                                       
 (tūkst.Lt)
  
-                             
-Melioracijai        Gamtos apsaugos
+    
+                         Melioracijai        Gamtos apsaugos
                                                  
 objektams
  
     
 Miestai
-Vilnius          
-                                40850
+Vilnius                                          
+40850
 Alytus                                           
 6332
-Kaunas                                           
-41912
+Kaunas   
+                                        41912
 Klaipėda                                         
 9850
 Neringa                                          
@@ -992,8 +1019,8 @@ Palanga                                    �
 3430
 Panevėžys                                        
 550
-Šiauliai                                         
-8190
+Šiauliai                             
+            8190
  
     
 Rajonai
@@ -1023,14 +1050,14 @@ Kelmės                            
 2900
 Klaipėdos                         
 2300           350
-Kretingos
-                         2100           125
+Kretingos                         
+2100           125
 Kupiškio                          
 2050
 Lazdijų                           
 1350
-Marijampolės                      
-2150           4000
+Marijampolės            
+          2150           4000
 Mažeikių                          
 1650
 Molėtų                            
@@ -1049,8 +1076,8 @@ Radviliškio                       
 2900           480
 Raseinių                          
 2700           40
-Rokiškio                          
-3500
+Rokiškio             
+             3500
 Skuodo                            
 1900           490
 Šakių                             
@@ -1064,19 +1091,19 @@ Skuodo                            
 Šilutės                           
 9000           4626
 Širvintų                          
-1400           1000
+1400           1000
 Švenčionių                        
 1400           140
 Tauragės                          
 1500
 Telšių                            
 2200
-Trakų                             
-950
+Trakų  
+                           950
 Ukmergės                          
 2050           1100
-Utenos              
-              1800           3000
+Utenos                            
+1800           3000
 Varėnos                           
 1100           600
 Vilkaviškio                       
@@ -1085,7 +1112,7 @@ Vilniaus                          
 2000           230
 Zarasų                            
 2150           4276
-    
-                    ________________________________________
+                        
+________________________________________
                         
 Iš viso   100000         150000
