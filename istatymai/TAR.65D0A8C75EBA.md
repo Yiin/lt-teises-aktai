@@ -14,7 +14,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65D0A8C75EBA"
 # Lietuvos Respublikos teismų įstatymo pakeitimo ir papildymo įstatymo įsigaliojimo įstatymas
 
 Redagavo: Ramunė Lūžaitė
-(1998.11.04)
+(1999.01.27)
  
 Įstatymas paskelbtas: Žin., 1998, Nr.38-1002
  
@@ -29,6 +29,15 @@ Nr. VIII-912, 98.10.22,
 Žin., 1998, Nr.95-2636 (98.10.30)
 LIETUVOS RESPUBLIKOS TEISMŲ
 ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO ĮSTATYMO 6 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. VIII-1037, 99.01.14,
+Žin., 1999, Nr.11-248 (99.01.27)
+LIETUVOS RESPUBLIKOS TEISMŲ
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO ĮSTATYMO 4 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
 *** pABAIGA ***
@@ -79,8 +88,14 @@ Lietuvos apeliacinio teismo ir Lietuvos Aukščiausiojo Teismo teisėjų skyrima
 gali būti skiriami apygardų teismų teisėjai ir neturintys 5 metų apygardos
 teisėjo darbo stažo.
 2. Iki 2000-ųjų metų Lietuvos Aukščiausiojo Teismo
-teisėjais gali būti skiriami Lietuvos apeliacinio teismo teisėjai ir neturintys
-5 metų Apeliacinio teismo teisėjo darbo stažo.
+teisėjais gali būti skiriami apygardų teismų teisėjai bei Lietuvos apeliacinio
+teismo teisėjai ir neturintys Lietuvos Respublikos teismų įstatymo 24
+straipsnio 1 dalies 1 punkte nustatyto apygardos ar Apeliacinio teismo teisėjo
+darbo stažo.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-1037, 99.01.14,
+Žin., 1999, Nr.11-248 (99.01.27)
  
 5 straipsnis. Lietuvos Aukščiausiojo Teismo statuto
 keitimas
