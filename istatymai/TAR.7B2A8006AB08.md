@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7B2A8006AB08"
 
 # Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto
 
-Suvestinė redakcija nuo 2002-02-13 iki 2003-10-02
+Įstatymas netenka galios 2004-09-21:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2436, 2004-09-14, Žin., 2004, Nr. 141-5156 (2004-09-21), i. k. 1041010ISTA0IX-2436
+Lietuvos Respublikos įstatymo "Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto" ir jį keitusių įstatymų pripažinimo netekusiais galios įstatymas
+ 
+Suvestinė redakcija nuo 2003-10-03 iki 2004-09-20
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-486, i. k. 0931010ISTA000I-160
  
@@ -40,23 +45,34 @@ DĖL BUVUSIŲ LIETUVOS TSR VALSTYBINIŲ PROFESINIŲ SĄJUNGŲ TURTO
 1) valstybei – Lietuvos žmonių poreikiams tenkinti ir Lietuvos sporto draugijai „Žalgiris“;
 2) Lietuvos sporto draugijai „Žalgiris“ ir Specialiajam fondui veikiančioms ir besisteigiančioms profesinėms sąjungoms remti, kurio nuostatus tvirtina Lietuvos Respublikos Seimas;
 3) buvusiems savininkams pagal Lietuvos Respublikos įstatymą „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Konstitucijos 7 straipsnio 2 daliai, konstituciniam teisinės valstybės principui prieštarauja: 2002 m. sausio 22 d priimto Lietuvos Respublikos įstatymo „Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto“ 3 ir 6 straipsnių pakeitimo įstatymo 1 straipsnis ta apimtimi, kuria juo pakeistas Lietuvos Respublikos įstatymo „Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto“ 3 straipsnio 2 punktas (2000 m. liepos 20 d. redakcija), šiame punkte išbraukti žodžiai „ir kuris veikia iki 2001 metų liepos 1 dienos“ ir šiame punkte (2002 m. sausio 22 d. redakcija) įtvirtinta nuostata „Specialiajam fondui veikiančioms ir besisteigiančioms profsąjungoms remti, kurio nuostatus tvirtina Lietuvos Respublikos Seimas“.
+Pripažinti, kad Lietuvos Respublikos Konstitucijos 7 straipsnio 2 daliai, konstituciniam teisinės valstybės principui prieštarauja Lietuvos Respublikos įstatymo „Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto“ 3 straipsnio (2002 m. sausio 22 d. redakcija) nuostata „Buvusių Lietuvos TSR valstybinių profesinių sąjungų turtas <....>; perduodamas nuosavybėn: <....>; 2) <....>; Specialiajam fondui veikiančioms ir besisteigiančioms profsąjungoms remti, kurio nuostatus tvirtina Lietuvos Respublikos Seimas“, o šios nuostatos dalis „perduodamas nuosavybėn: <....>; 2) <....>; specialiajam fondui veikiančioms ir besisteigiančioms profesinėms sąjungoms remti“ prieštarauja ir Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 23 straipsnio 2 daliai, 50 straipsnio 1 daliai, 128 straipsnio 2 daliai.
 Straipsnio pakeitimai:
 Nr. I-969, 1995-06-27, Žin., 1995, Nr. 56-1389 (1995-07-08), i. k. 0951010ISTA000I-969
 Nr. VIII-1891, 2000-07-20, Žin., 2000, Nr. 67-2019 (2000-08-09), i. k. 1001010ISTAIII-1891
 Nr. IX-724, 2002-01-22, Žin., 2002, Nr. 15-550 (2002-02-13), i. k. 1021010ISTA00IX-724
+2003-09-30, Žin., 2003, Nr. 93-4223 (2003-10-03); Žin., 2003, Nr. 100-0 (2003-10-24), i. k. 1031000NUTARG036367            
  
 
 4 straipsnis. Buvusių Lietuvos TSR valstybinių profesinių sąjungų turto ir jo dalių perdavimo tvarką nustato Lietuvos Respublikos Seimo nutarimas „Dėl Lietuvos Respublikos įstatymo „Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto“ įgyvendinimo“.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 23 straipsnio 2 daliai, 50 straipsnio 1 daliai, 128 straipsnio 2 daliai, konstituciniam teisinės valstybės principui prieštarauja: <...> Lietuvos Respublikos įstatymo „Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto“ 4 straipsnis.
+Straipsnio pakeitimai:
+2003-09-30, Žin., 2003, Nr. 93-4223 (2003-10-03); Žin., 2003, Nr. 100-0 (2003-10-24), i. k. 1031000NUTARG036367            
  
 
 5 straipsnis. Lietuvos sanatorijų ir poilsio namų turto perdavimo ir naudojimo tvarką nustato atskiras Lietuvos Respublikos Seimo įstatymas.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 23 straipsnio 2 daliai, 50 straipsnio 1 daliai, 128 straipsnio 2 daliai, konstituciniam teisinės valstybės principui prieštarauja: <...> Lietuvos Respublikos įstatymo „Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto“ 5 straipsnis (1995 m. birželio 27 d. redakcija).
 Straipsnio pakeitimai:
 Nr. I-969, 1995-06-27, Žin., 1995, Nr. 56-1389 (1995-07-08), i. k. 0951010ISTA000I-969
+2003-09-30, Žin., 2003, Nr. 93-4223 (2003-10-03); Žin., 2003, Nr. 100-0 (2003-10-24), i. k. 1031000NUTARG036367            
  
 
 6 straipsnis. 1 dalis neteko galios 2002-02-13. 
 Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti taryba privalo per 2 mėnesius nuo šio įstatymo įsigaliojimo nustatyti Specialiajam fondui veikiančioms ir besisteigiančioms profesinėms sąjungoms remti perduoto turto valdymo, naudojimo ir disponavimo juo tvarką ir numatyti, kaip bus atsiskaityta už Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti įsteigtų viešųjų įstaigų įsipareigojimus.
 Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti taryba privalo iki 1999 m. spalio 1 d. perimti perduotą buvusių Lietuvos TSR valstybinių profesinių sąjungų turtą.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 23 straipsnio 2 daliai, 50 straipsnio 1 daliai, 128 straipsnio 2 daliai, konstituciniam teisinės valstybės principui prieštarauja: <...> 
+Lietuvos Respublikos įstatymo „Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto“ 6 straipsnio 2 dalies (2002 m. sausio 22 d. redakcija) nuostata „Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti taryba privalo <....>; nustatyti Specialiajam fondui veikiančioms ir besisteigiančioms profesinėms sąjungoms remti perduoto turto valdymo, naudojimo ir disponavimo juo tvarką;
+Lietuvos Respublikos įstatymo „Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto“ 6 straipsnio 3 dalies (1999 m. birželio 24 d. redakcija) nuostata „Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti taryba privalo <....>; perimti perduotą buvusių Lietuvos TSR valstybinių profesinių sąjungų turtą“.
 Papildyta straipsniu:
 Nr. I-817, 1995-02-23, Žin., 1995, Nr. 19-437 (1995-03-03), i. k. 0951010ISTA000I-817
 Straipsnio pakeitimai:
@@ -67,6 +83,7 @@ Nr. VIII-1485, 1999-12-21, Žin., 1999, Nr. 112-3257 (1999-12-30), i. k. 0991010
 Nr. VIII-1696, 2000-05-23, Žin., 2000, Nr. 45-1296 (2000-06-02), i. k. 1001010ISTAIII-1696
 Nr. VIII-1891, 2000-07-20, Žin., 2000, Nr. 67-2019 (2000-08-09), i. k. 1001010ISTAIII-1891
 Nr. IX-724, 2002-01-22, Žin., 2002, Nr. 15-550 (2002-02-13), i. k. 1021010ISTA00IX-724
+2003-09-30, Žin., 2003, Nr. 93-4223 (2003-10-03); Žin., 2003, Nr. 100-0 (2003-10-24), i. k. 1031000NUTARG036367            
  
 
 7 straipsnis. Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti veiklą turi teisę kontroliuoti Valstybės kontrolės departamentas. 
@@ -129,4 +146,9 @@ Lietuvos Respublikos įstatymo "Dėl buvusių Lietuvos TSR valstybinių profesin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-724, 2002-01-22, Žin., 2002, Nr. 15-550 (2002-02-13), i. k. 1021010ISTA00IX-724
 Lietuvos Respublikos įstatymo "Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto" 3 ir 6 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2003-09-30, Žin., 2003, Nr. 93-4223 (2003-10-03); Žin., 2003, Nr. 100-0 (2003-10-24), i. k. 1031000NUTARG036367                
+Dėl teisės aktų, kuriais buvo sprendžiami iki Lietuvos nepriklausomos valstybės atkūrimo Lietuvoje veikusių valstybinių profesinių sąjungų valdyto turto klausimai, atitikties Lietuvos Respublikos Konstitucijai
 
