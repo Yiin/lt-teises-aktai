@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6BD96A0CAF5"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
-Lūžaitė (1997.12.02)
+Lūžaitė (1998.07.22)
  
 Įstatymas
 paskelbtas: Žin., 1995, Nr.63-1578
@@ -43,6 +43,15 @@ Nr. VIII-517,
 LIETUVOS RESPUBLIKOS
 ĮSTATYMO “DĖL PABĖGĖLIŲ LIETUVOS RESPUBLIKOJE STATUSO” 18 STRAIPSNIO
 PRIPAŽINIMO NETEKUSIU GALIOS IR 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-860,
+98.07.16, Žin., 1998, Nr.65-1879 (98.07.22)
+LIETUVOS RESPUBLIKOS
+ĮSTATYMO “DĖL PABĖGĖLIŲ LIETUVOS RESPUBLIKOJE STATUSO” 5 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -92,8 +101,8 @@ straipsnis. Priežastys, kliudančios užsieniečiui naudotis
 prieglobsčiu Lietuvos Respublikoje
  
        
-Užsieniečiui teisė  naudotis prieglobsčiu  Lietuvos Respublikoje nepripažįstama,
-jei:
+Užsieniečiui teisė  naudotis prieglobsčiu  Lietuvos Respublikoje
+nepripažįstama, jei:
      1)
 yra rimtų priežasčių manyti, jog jis įvykdė nusikaltimą taikai, žmonijai arba
 karinį nusikaltimą, kaip šie nusikaltimai yra apibrėžti tarptautiniuose
@@ -150,6 +159,18 @@ teises ir pareigas, susijusias su tos šalies pilietybe;
 yra rimtų priežasčių manyti, kad jis įvykdė nepolitinio pobūdžio nusikaltimą
 arba kaltinamas veikla, prieštaraujančia Jungtinių Tautų tikslams ir principams
 iki prieglobsčio gavimo Lietuvos Respublikoje.
+4) yra rimtų priežasčių manyti, kad jis
+įvykdė nusikaltimą taikai, žmonijai arba karinį nusikaltimą, taip pat yra rimtų
+priežasčių manyti, kad jis tarnaudamas totalitarinių režimų represinėse
+struktūrose ar kolaboruodamas su šalį valdžiusiu okupaciniu režimu, ar dalyvaudamas
+teroristinėse grupuotėse šiurkščiai pažeidė pagrindines žmogaus teises ir
+laisves ir, vengdamas atsakomybės už šias nusikalstamas veikas, pabėgo iš savo
+šalies.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-860,
+98.07.16, Žin., 1998, Nr.65-1879 (98.07.22)
  
      6
 straipsnis. Užsieniečio teisės į pabėgėlio statusą išnykimas
@@ -199,9 +220,9 @@ straipsnis. Atsakomybės netaikymas už neteisėtą įvažiavimą
  
      Užsieniečiui,
 neteisėtai atvykusiam į Lietuvos Respubliką iš šalies, kurioje jo gyvybei ar
-laisvei gresia pavojus, šio įstatymo 2  straipsnyje numatytais  atvejais
-atsakomybė  už neteisėtą įvažiavimą ir buvimą netaikoma, jeigu jis per 48
-valandas prisistato vietos valdžios institucijų arba miesto (rajono) policijos
+laisvei gresia pavojus, šio įstatymo 2  straipsnyje numatytais  atvejais atsakomybė 
+už neteisėtą įvažiavimą ir buvimą netaikoma, jeigu jis per 48 valandas
+prisistato vietos valdžios institucijų arba miesto (rajono) policijos
 komisariato pareigūnams.
  
      9
@@ -265,8 +286,8 @@ Respublikos socialinės apsaugos ir darbo ministerija arba, pritarus 
 Vyriausybei, Raudonojo kryžiaus  draugija.  Pabėgėlių  priėmimo  centrams
 išlaikyti skiriamos lėšos iš Lietuvos Respublikos valstybės biudžeto.
 Pabėgėlių  priėmimo centrų  steigėjams  suteikiama Lietuvos Respublikos
-Vyriausybės parama, taip pat jie turi teisę naudotis kitų valstybių,
-tarptautinių organizacijų bei užsienio privačių asmenų parama.
+Vyriausybės parama, taip pat jie turi teisę naudotis kitų valstybių, tarptautinių
+organizacijų bei užsienio privačių asmenų parama.
      Teisėtai 
 atvykęs  ir  esantis  Lietuvos  Respublikos teritorijoje asmuo prašymą suteikti
 pabėgėlio statusą pateikia miesto (rajono) policijos komisariatui.
@@ -285,8 +306,8 @@ nuo jo pateikimo.
  
      13
 straipsnis. Užsieniečio teisės ir pareigos prašymo suteikti 
-                   
-pabėgėlio statusą nagrinėjimo laikotarpiu
+ 
+                  pabėgėlio statusą nagrinėjimo laikotarpiu
  
      Užsieniečio,
 prašančio suteikti pabėgėlio statusą, teisės prašymo nagrinėjimo laikotarpiu:
