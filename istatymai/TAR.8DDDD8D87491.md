@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2000-07-26 iki 2001-12-31
+Suvestinė redakcija nuo 2002-01-01 iki 2003-07-24
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
  
@@ -29,7 +29,10 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymas nustato fizinių ir juridinių asmenų elgesio su naminiais, ūkinės paskirties, dekoratyviniais, laboratoriniais, nelaisvėje laikomais ir laukiniais gyvūnais bendruosius principus, kad gyvūnai būtų apsaugoti nuo kančių, žiauraus elgesio ir kitų neigiamų poveikių.
+1. Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymas nustato fizinių ir juridinių asmenų elgesio su naminiais, ūkinės paskirties, dekoratyviniais, laboratoriniais, nelaisvėje laikomais ir laukiniais gyvūnais bendruosius principus, kad gyvūnai būtų apsaugoti nuo kančių, žiauraus elgesio ir kitų neigiamų poveikių ir būtų užtikrintas žmonių saugumas.
+Straipsnio dalies pakeitimai:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
 
 
 
@@ -95,27 +98,49 @@ Vilnius
 
 
 
-10. Žmogaus elgesys su gyvūnais – tiesioginiai ir netiesioginiai žmonių veiksmai, kurie gali būti naudingi, nekenksmingi arba kenksmingi gyvūnui.
+10. Agresyvūs šunys – kovoms išvestų veislių šunys bei jų mišrūnai, Vyriausybės ar jos įgaliotos institucijos specialiu sąrašu nustatytų veislių šunys bei jų mišrūnai. 
+Papildyta straipsnio dalimi:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
 
 
 
 
-11. Kenksmingas elgesys su gyvūnais – gyvūno mušimas, tyčinis žalojimas, spardymas, užmušimas kankinant, erzinimas, gąsdinimas ar kitoks streso sukėlimas, vertimas pernelyg ilgai dirbti, pjudymas, peštynių organizavimas, veterinarinės pagalbos susirgusiam ar susižeidusiam gyvūnui nesuteikimas, transportavimas ar laikymas tai rūšiai nepalankiomis sąlygomis, operavimas nenuskausminus, zoofiliniai ir sadistiniai veiksmai, taip pat gyvūno savininko leidimas atlikti tiesiogiai kenksmingus gyvūnui veiksmus.
+11. Žmogaus elgesys su gyvūnais – tiesioginiai ir netiesioginiai žmonių veiksmai, kurie gali būti naudingi, nekenksmingi arba kenksmingi gyvūnui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
 
 
 
 
-12. Naudingas ir nekenksmingas elgesys su gyvūnais (gyvūnų globa) – žmogaus veikla, kuri tiesiogiai teigiamai veikia gyvūnų fizinę ir emocinę būseną arba nesukelia jokių neigiamų pasekmių.
+12. Kenksmingas elgesys su gyvūnais – gyvūno mušimas, tyčinis žalojimas, spardymas, užmušimas kankinant, erzinimas, gąsdinimas ar kitoks streso sukėlimas, vertimas pernelyg ilgai dirbti, pjudymas, peštynių organizavimas, veterinarinės pagalbos susirgusiam ar susižeidusiam gyvūnui nesuteikimas, transportavimas ar laikymas tai rūšiai nepalankiomis sąlygomis, operavimas nenuskausminus, zoofiliniai ir sadistiniai veiksmai, taip pat gyvūno savininko leidimas atlikti tiesiogiai kenksmingus gyvūnui veiksmus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
 
 
 
 
-13. Gyvūno laikymas – žmogaus veikla, nuo kurios priklauso gyvūno egzistavimo zoohigienos sąlygos, komfortas ar diskomfortas. 
+13. Naudingas ir nekenksmingas elgesys su gyvūnais (gyvūnų globa) – žmogaus veikla, kuri tiesiogiai teigiamai veikia gyvūnų fizinę ir emocinę būseną arba nesukelia jokių neigiamų pasekmių.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
 
 
 
 
-14. Gyvūno savininkas – kiekvienas sukakęs 16 metų fizinis ar juridinis asmuo , kuris nuolat ar laikinai augina gyvūną.
+14. Gyvūno laikymas – žmogaus veikla, nuo kurios priklauso gyvūno egzistavimo zoohigienos sąlygos, komfortas ar diskomfortas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
+
+
+
+
+15. Gyvūno savininkas – kiekvienas sukakęs 16 metų fizinis ar juridinis asmuo , kuris nuolat ar laikinai augina gyvūną.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
  
 
 
@@ -198,27 +223,42 @@ Vilnius
 5 straipsnis. Gyvūnų auginimas ir laikymas
 
 
-1. Savivaldybės tvirtina gyvūnų laikymo miestuose, rajonuose, miesto tipo gyvenvietėse taisykles ir kontroliuoja, kaip jų laikomasi.
+1. Gyvūnų laikymo gyvenamosiose vietovėse bei atskirų rūšių gyvūnų registravimo tvarką nustato Vyriausybė ar jos įgaliota institucija. Kaip laikomasi šios tvarkos, kontroliuoja Vyriausybės įgaliotos institucijos. 
+Papildyta straipsnio dalimi:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
 
 
 
 
-2. Savininkai privalo garantuoti, kad gyvūnų ir pavojingų gyvūnų auginimas ir laikymas nekels grėsmės žmonių ramybei, sveikatai, gyvybei, nuosavybei, nepažeis kitų asmenų teisių ir interesų.
+2. Savivaldybės tvirtina gyvūnų laikymo gyvenamosiose vietovėse savivaldybės teritorijoje taisykles ir prižiūri, kaip jos įgyvendinamos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
 
 
 
 
-3. Laikyti šunis, kates bute, privačiame name, kur gyvena kelios šeimos, leidžiama tik turint raštišką visų jame gyvenančių pilnamečių asmenų sutikimą.
+3. Savininkai privalo garantuoti, kad gyvūnų ir pavojingų gyvūnų auginimas ir laikymas nekels grėsmės žmonių ramybei, sveikatai, gyvybei, nuosavybei, nepažeis kitų asmenų teisių ir interesų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
 
 
 
 
-4. Gyvūnų, leidžiamų laikyti daugiabučiame name, skaičių nustato specialūs teisės aktai, kuriuos tvirtina Vyriausybės įgaliota institucija.
+4. Laikyti šunis, kates bute, privačiame name, kur gyvena kelios šeimos, leidžiama tik turint raštišką visų jame gyvenančių pilnamečių asmenų sutikimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
 
 
 
 
-5. Visuomeninėse transporto priemonėse (priemiestiniuose ir tarpmiestiniuose autobusuose, traukiniuose, lėktuvuose ir laivuose) leidžiama vežti šunis, kates bei kitus ne žemės ūkio paskirties gyvūnus pagal galiojančias Keleivių ir bagažo vežimo taisykles. Gyvūnų vežimo tvarką miesto ir rajono transportu nustato savivaldybės. Keliaudamas savininkas privalo turėti šuns pasą ar veterinarinės tarnybos pažymėjimą, kuriame nurodyta šuns sveikatos būklė ir skiepai.
+5. Gyvūnų, leidžiamų laikyti daugiabučiame name, skaičių nustato specialūs teisės aktai, kuriuos tvirtina Vyriausybės įgaliota institucija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
 
 
 
@@ -243,6 +283,84 @@ Pavojingi gyvūnai gali būti laikomi ir auginami tik pagal taisykles, kurias nu
  
 
 
+
+
+
+
+61 straipsnis. Agresyvių šunų įvežimas, įsigijimas, laikymas, registravimas, veisimas, dresavimas, prekyba jais bei jų paėmimas
+
+
+1. Agresyvius šunis įvežti į Lietuvos Respubliką, įsigyti, laikyti, veisti, dresuoti ir jais prekiauti gali tik asmenys, turintys savivaldybės ar Vyriausybė įgaliotos institucijos išduotus leidimus. Agresyvių šunų įvežimo į Lietuvos Respubliką, įsigijimo, laikymo, registravimo, veisimo, dresavimo ir prekybos jais taisykles, kuriose nustatoma taip pat ir leidimų įvežti, įsigyti, laikyti, veisti, dresuoti ir prekiauti išdavimo, sustabdymo ir panaikinimo tvarka, tvirtina Vyriausybė ar jos įgaliota institucija. Šias taisykles įgyvendina ir jų priežiūrą vykdo savivaldybės ir Vyriausybės įgaliotos institucijos. 
+
+
+
+
+2. Leidimai, nurodyti šio straipsnio 1 dalyje, neišduodami asmenims:
+
+
+1) jaunesniems nei 18 metų;
+
+
+
+
+2) įrašytiems į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos ar psichinės ligos;
+
+
+
+
+3) teistiems už tyčinius smurtinius nusikaltimus, kuriems teistumas neišnykęs arba nepanaikintas;
+
+
+
+
+4) nepateikusiems pažymos apie atitinkamos mokymo programos, kurią tvirtina Vyriausybės įgaliota institucija, išklausymą;
+
+
+
+
+5) gyvenantiems kartu su asmenimis, nurodytais šio straipsnio 2 dalies 2 ir 3 punktuose.
+
+
+
+
+
+
+3. Savivaldybės ar Vyriausybės įgaliotos institucijos agresyvius šunis gali paimti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka:
+
+
+1) kai atsiranda šio straipsnio 2 dalies 2, 3 ir 5 punktuose numatyti pagrindai;
+
+
+
+
+2) panaikinus leidimą laikyti agresyvų šunį;
+
+
+
+
+3) sustabdžius leidimo laikyti agresyvų šunį galiojimą, kol išnyks leidimo sustabdymo pagrindai;
+
+
+
+
+4) mirus šuns savininkui, kol jo įpėdiniui bus išduotas leidimas laikyti agresyvų šunį;
+
+
+
+
+5) mirus šuns savininkui, jei įpėdinis nepriėmė palikimo ar įpėdiniui atsisakyta išduoti leidimą laikyti agresyvų šunį.
+
+
+
+
+
+
+4. Šio straipsnio 3 dalies 1, 2 ir 4 punktuose numatytais atvejais paimti agresyvūs šunys realizuojami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Realizavus šunį, gauti pinigai, atskaičius realizavimo išlaidas, grąžinami šuns savininkui ar įpėdiniui (išskyrus atvejį, jeigu įpėdinis nepriėmė palikimo).
+
+
+Papildyta straipsniu:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
 
 
 
@@ -283,7 +401,9 @@ Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010I
 
 
 
-7. Visuomeninėse transporto priemonėse (priemiestiniuose ir tarpmiestiniuose autobusuose, traukiniuose, taip pat lėktuvuose ir laivuose) gyvūnus leidžiama vežti pagal galiojančias Keleivių ir bagažo vežimo taisykles. Vežimo tvarką miesto ir rajono transportu nustato savivaldybės.
+7. Visuomeninėse transporto priemonėse (priemiestiniuose ir tarpmiestiniuose autobusuose, traukiniuose, taip pat lėktuvuose ir laivuose) gyvūnus leidžiama vežti pagal galiojančias Keleivių ir bagažo vežimo taisykles. Vežimo tvarką miesto ir rajono transportu nustato savivaldybės.  Keliaudamas savininkas privalo turėti šuns dokumentus, kuriuose nurodoma šuns sveikatos būklė ir skiepai.
+Straipsnio dalies pakeitimai:
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
  
 
 
@@ -663,3 +783,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
 Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 7, 9, 10, 12, 13, 14 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 1, 2, 5, 7 straipsnių pakeitimo bei papildymo ir įstatymo papildymo 6(1) straipsniu įstatymas
