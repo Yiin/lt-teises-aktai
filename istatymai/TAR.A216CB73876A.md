@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A216CB73876A"
 
 # Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymas
 
-Suvestinė redakcija nuo 1990-10-18 iki 1990-11-07
+Suvestinė redakcija nuo 1990-11-08 iki 1990-11-20
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-592, i. k. 090XX01ISTA000I-422
  
@@ -279,7 +279,9 @@ Kitiems kariams (išskyrus būtinosios tarnybos karius), liktinės tarnybos kari
 15 straipsnis. 
 
 
-Skirti senatvės pensijas 14 straipsnio pirmojoje ir trečiojoje dalyse nurodytiems asmenims, karo invalidams ir karo dalyviams, invalidų nuo vaikystės motinoms (7 straipsnis) – 55 procentų uždarbio (26 straipsni) dydžio. Be to, padidinti pensiją vienu procentu uždarbio už kiekvienus visus darbo metus (16 straipsnis), vyresniems kaip 25 metų vyrams ir vyresnėms kaip 20 metų moterims.
+Skirti senatvės pensijas 14 straipsnio pirmojoje ir trečiojoje dalyse nurodytiems asmenims, išskyrus reabilituotus politinius kalinius, tremtinius ir rezistencijos dalyvius, karo invalidams ir karo dalyviams, invalidų nuo vaikystės motinoms (7 straipsnis) – 55 procentų uždarbio (26 straipsnis) dydžio. Be to, padidinti pensiją vienu procentu uždarbio už kiekvienus visus darbo metus (16 straipsnis) išdirbusiems daugiau kaip 25 metus vyrams ir daugiau kaip 20 metų – moterims, tačiau ne daugiau kaip iki 75 procentų uždarbio. Reabilituotiems politiniams kaliniams, tremtiniams ir rezistencijos dalyviams skirti senatvės pensiją 55 procentų uždarbio už kiekvienus visus darbo metus (16 straipsnis) išdirbusiems daugiau kaip 25 metus vyrams ir daugiau kaip 20 metų – moterims. Jų pensijos neturi būti mažesnės kaip 120 rublių ir didesnės kaip 300 rublių.
+Straipsnio dalies pakeitimai:
+Nr. I-716, 1990-10-30, Lietuvos aidas, 1990, Nr. 117-0 (1990-11-07); Žin., 1990, Nr. 32-767 (1990-11-20), i. k. 0901010ISTA000I-716
  
 
 
@@ -654,3 +656,8 @@ Pakeitimai:
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-671, 1990-10-11, Lietuvos aidas, 1990, Nr. 104-0 (1990-10-17); Žin., 1990, Nr. 31-746 (1990-11-10), i. k. 0901010ISTA000I-671
 Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo pakeitimo ir papildymo
+ 
+2.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-716, 1990-10-30, Lietuvos aidas, 1990, Nr. 117-0 (1990-11-07); Žin., 1990, Nr. 32-767 (1990-11-20), i. k. 0901010ISTA000I-716
+Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo 15 straipsnio pakeitimo ir papildymo
