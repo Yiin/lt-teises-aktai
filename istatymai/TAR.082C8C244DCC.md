@@ -54,30 +54,32 @@ priedėlis).
 3. Patvirtinti savivaldybių
 biudžetams valstybės biudžeto bendrąją dotaciją mokestinėms pajamoms išlyginti
 – 89426 tūkst. litų (7 priedėlis).
-4. Patvirtinti savivaldybių biudžetams valstybės
-biudžeto bendrosios dotacijos kompensacijas – 147095 tūkst. litų (7 priedėlis).
-5. Patvirtinti savivaldybių biudžetams valstybės
-biudžeto specialias dotacijas – 16727 tūkst. litų (8 priedėlis).
+4. Patvirtinti savivaldybių biudžetams
+valstybės biudžeto bendrosios dotacijos kompensacijas – 147095 tūkst. litų (7 priedėlis).
+5. Patvirtinti savivaldybių biudžetams valstybės biudžeto
+specialias dotacijas – 
+14527 tūkst. litų (8 priedėlis).
 Straipsnio pakeitimai:
 Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 66-2406 (2001-08-01)
- 
+Nr. IX-641, 2001-12-11,
+Žin., 2001, Nr. 105-3739 (2001-12-14)
  
 3 straipsnis. Atskaitymų iš fizinių asmenų pajamų mokesčio į
-Privalomojo sveikatos draudimo fondo biudžetą dydis
+Privalomojo sveikatos 
+draudimo fondo biudžetą dydis
 Nustatyti, kad 2001 metais fizinių asmenų pajamų
 mokesčio įmokos į Privalomojo sveikatos draudimo fondo biudžetą sudaro 30
 procentų apskaičiuotos šio mokesčio sumos.
  
-4 straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus
-asmenis
+4 straipsnis. Įmokų dydis už valstybės lėšomis
+draudžiamus asmenis
 Nustatyti, kad 2001 metais valstybės biudžeto įmokos į
 Privalomojo sveikatos draudimo fondo biudžetą yra po 187,6 lito už kiekvieną
 valstybės lėšomis draudžiamą asmenį.
 Straipsnio pakeitimai:
 Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 66-2406 (2001-08-01)
- 
  
 5 straipsnis. Įmokų į valstybės
 biudžetą, skiriamų pagal įstatymus specialiosioms
@@ -97,7 +99,6 @@ Straipsnio pakeitimai:
 Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 66-2406 (2001-08-01)
  
- 
 6
 straipsnis.
 Garantijų institucijų ir draudimo įmonių prisiimamų įsipareigojimų su 
@@ -106,7 +107,6 @@ garantija limitas
 Nustatyti, kad garantijų
 institucijų ir draudimo įmonių prisiimamų įsipareigojimų, dėl kurių teikiama
 valstybės garantija, suma negali viršyti 250000 tūkst. litų. 
- 
  
 7 straipsnis.
 Valstybės skolos limitai
@@ -119,7 +119,6 @@ kurių teikiama valstybės garantija, sumos).
 Straipsnio pakeitimai:
 Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 66-2406 (2001-08-01)
- 
  
 8 straipsnis. Savivaldybių skolinimosi
 limitai
@@ -146,7 +145,6 @@ paskolos, skirtos laikinam pajamų trūkumui padengti.
 Straipsnio pakeitimai:
 Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 66-2406 (2001-08-01)
- 
  
 9 straipsnis. Vyriausybės
 teisės vykdant biudžetą
@@ -179,8 +177,7 @@ valstybės skola, apmokėti ir valstybės skolai dengti bei kitiems tikslams, ka
 yra atskiras Lietuvos Respublikos įstatymas;
 7) pirminei teisinei pagalbai finansuoti valstybės biudžete
 numatytus asignavimus paskirstyti savivaldybėms;
-8) iš valstybės biudžeto savivaldybių biudžetams 1997–2000
-metais neperduotą valstybės biudžeto lėšų dalį ir 2001 metais prognozuojamoms
+8) 2001 metais prognozuojamoms
 savivaldybių biudžetų negautoms pajamoms kompensuoti numatytus asignavimus –
 25643 tūkst. litų paskirstyti savivaldybėms;
 9) valstybės biudžeto pajamos,
@@ -191,7 +188,8 @@ valstybės turto eksploatavimo išlaidoms dengti.
 Straipsnio pakeitimai:
 Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 66-2406 (2001-08-01)
- 
+Nr. IX-641,
+2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
  
 10 straipsnis.
 Biudžetinių įstaigų skolų padengimas
@@ -223,6 +221,28 @@ metais krašto apsaugos sistemos investicijų projektams įgyvendinti skiria
 asignavimų ne tik iš valstybės biudžeto, bet ir iš Privatizavimo fondo bei
 skolintų lėšų.
  
+14
+straipsnis. Švietimo ir mokslo ministerijos Švietimo aprūpinimo centro
+debitorinio 
+įsiskolinimo
+panaudojimas mokyklų vadovėlių leidybai
+Suteikti teisę Švietimo ir mokslo ministerijai Švietimo
+aprūpinimo centro 1094 tūkst. litų debitorinį įsiskolinimą, perimtą iš
+likviduoto Bibliotekų kolektoriaus, panaudoti mokyklų vadovėlių leidybai.
+Įstatymas papildytas straipsniu:
+Nr. IX-641,
+2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
+ 
+15
+straipsnis. Kreditorinio įsiskolinimo dengimas
+Suteikti teisę
+Mokslo ir studijų departamentui prie Švietimo ir mokslo ministerijos šiuo
+įstatymu patvirtintus 700 tūkst. litų panaudoti mokslo ir studijų įstaigų
+kreditoriniam įsiskolinimui dengti.
+Įstatymas papildytas straipsniu:
+Nr. IX-641,
+2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
+ 
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -244,7 +264,7 @@ Respublikos
 m. gruodžio 19 d.
                                                                                                 įstatymo
 Nr. IX-89
-                                                                                                1
+                                                                                                1
 priedėlis
  
 LIETUVOS RESPUBLIKOS 2001 METŲ
@@ -479,7 +499,7 @@ Lt
 
 Ministerijų,
   departamentų, 
-valstybinių
+Valstybinių
   tarnybų, įstaigų ir organizacijų – asignavimų valdytojų 
 pavadinimas
 
@@ -855,10 +875,10 @@ Aplinkos ministerija
 Finansų ministerija
 
 
-1561691
+1508654
 
 
-1464772
+1411735
 
 
 8488
@@ -869,7 +889,7 @@ Finansų ministerija
 
 
 
-iš jų: Vyriausybės rezervui
+Iš jų: Vyriausybės rezervui
 
 
 10205
@@ -920,7 +940,7 @@ Kultūros ministerija
 
 
 
-iš jų: Valdovų rūmams atstatyti
+Iš jų: Valdovų rūmams atstatyti
 
 
 1000
@@ -978,7 +998,7 @@ Susisiekimo ministerija
 Sveikatos apsaugos ministerija
 
 
-140530
+140297
 
 
 75247
@@ -987,7 +1007,7 @@ Sveikatos apsaugos ministerija
 36778
 
 
-65283
+65050
 
 
 
@@ -995,16 +1015,16 @@ Sveikatos apsaugos ministerija
 Švietimo ir mokslo ministerija
 
 
-416338
+417479
 
 
-385413
+386658
 
 
 198590
 
 
-30925
+30821
 
 
 
@@ -1015,13 +1035,13 @@ Teisingumo ministerija
 31728
 
 
-27418
+26348
 
 
 13540
 
 
-4310
+5380
 
 
 
@@ -1046,7 +1066,7 @@ Teisingumo ministerija
 Užsienio reikalų ministerija
 
 
-112707
+142707
 
 
 107821
@@ -1055,7 +1075,7 @@ Užsienio reikalų ministerija
 43236
 
 
-4886
+34886
 
 
 
@@ -1066,13 +1086,13 @@ Vidaus reikalų ministerija
 167201
 
 
-146918
+144708
 
 
 42153
 
 
-20283
+22493
 
 
 
@@ -1080,16 +1100,35 @@ Vidaus reikalų ministerija
 Žemės ūkio ministerija
 
 
-454387
+474387
 
 
-447908
+467908
 
 
 8608
 
 
 6479
+
+
+
+
+Iš jų: Valstybės įmonės
+  Lietuvos žemės ūkio ir maisto produktų rinkos reguliavimo agentūros
+  nuostoliams padengti
+
+
+20000
+
+
+20000
+
+
+ 
+
+
+ 
 
 
 
@@ -1146,24 +1185,24 @@ Alytaus apskrities viršininko
 
 
 
-administracija
+Administracija
 
 
 20648
 
 
-19113
+19107
 
 
-9616
+9611
 
 
-1535
+1541
 
 
 
 
-iš jų: žemės reformai vykdyti
+Iš jų: žemės reformai vykdyti
 
 
 2271
@@ -1184,11 +1223,11 @@ Kauno apskrities viršininko administracija
 
 
  
-57531
+58331
 
 
  
-51221
+52021
 
 
  
@@ -1201,13 +1240,13 @@ Kauno apskrities viršininko administracija
 
 
 
-iš jų: žemės reformai vykdyti
+Iš jų: žemės reformai vykdyti
 
 
-4421
+4203
 
 
-4421
+4203
 
 
  
@@ -1231,7 +1270,7 @@ Klaipėdos apskrities viršininko
 
 
  
-16437
+16407
 
 
  
@@ -1240,7 +1279,7 @@ Klaipėdos apskrities viršininko
 
 
 
-iš jų: žemės reformai vykdyti
+Iš jų: žemės reformai vykdyti
 
 
 3448
@@ -1279,7 +1318,7 @@ Marijampolės apskrities viršininko
 
 
 
-iš jų: žemės reformai vykdyti
+Iš jų: žemės reformai vykdyti
 
 
 2151
@@ -1301,7 +1340,7 @@ Panevėžio apskrities viršininko
 
 
  
-37255
+37488
 
 
  
@@ -1309,16 +1348,16 @@ Panevėžio apskrities viršininko
 
 
  
-13219
+13215
 
 
  
-7870
+8103
 
 
 
 
-iš jų: žemės reformai vykdyti
+Iš jų: žemės reformai vykdyti
 
 
 4401
@@ -1357,7 +1396,7 @@ iš jų: žemės reformai vykdyti
 
 
 
-iš jų: žemės reformai vykdyti
+Iš jų: žemės reformai vykdyti
 
 
 4421
@@ -1396,7 +1435,7 @@ Tauragės apskrities viršininko
 
 
 
-iš jų: žemės reformai vykdyti
+Iš jų: žemės reformai vykdyti
 
 
 1741
@@ -1435,7 +1474,7 @@ Telšių apskrities viršininko
 
 
 
-iš jų: žemės reformai vykdyti
+Iš jų: žemės reformai vykdyti
 
 
 1831
@@ -1474,7 +1513,7 @@ Utenos apskrities viršininko
 
 
 
-iš jų: žemės reformai vykdyti
+Iš jų: žemės reformai vykdyti
 
 
 4201
@@ -1491,8 +1530,7 @@ iš jų: žemės reformai vykdyti
 
 
 
-Vilniaus apskrities viršininko
-  administracija
+Vilniaus apskrities viršininko administracija
 
 
  
@@ -1504,7 +1542,7 @@ Vilniaus apskrities viršininko
 
 
  
-29426
+29302
 
 
  
@@ -1513,7 +1551,7 @@ Vilniaus apskrities viršininko
 
 
 
-iš jų: žemės reformai vykdyti
+Iš jų: žemės reformai vykdyti
 
 
 5124
@@ -1925,11 +1963,11 @@ Mokslo ir studijų departamentas prie
 
 
  
-4352
+5052
 
 
  
-4152
+4852
 
 
  
@@ -2166,7 +2204,7 @@ Aplinkos ministerijos
 
 
 Valstybinė teritorijų planavimo ir
-statybos inspekcija prie Aplinkos
+Statybos inspekcija prie Aplinkos
 ministerijos
 
 
@@ -2185,7 +2223,7 @@ ministerijos
 
 
 Žemės ir kito nekilnojamojo turto
-kadastro ir registro valstybės įmonė
+Kadastro ir registro valstybės įmonė
 
 
 150
@@ -2361,7 +2399,7 @@ Valstybinė mokesčių inspekcija prie
 
 
 Valstybės dokumentų technologinės
-apsaugos tarnyba prie Finansų
+Apsaugos tarnyba prie Finansų
 ministerijos
 
 
@@ -2899,7 +2937,8 @@ Teismų departamentas prie Teisingumo
 
 
 
-Kalėjimų departamentas prie Teisingumo ministerijos
+Kalėjimų departamentas prie Teisingumo
+  ministerijos
 
 
 90464
@@ -3725,8 +3764,8 @@ Etninės kultūros globos taryba
 
 
 
-Lietuvos gyventojų genocido ir rezistencijos
-  tyrimo centras
+Lietuvos gyventojų genocido ir
+  rezistencijos tyrimo centras
 
 
 3198
@@ -3904,21 +3943,21 @@ Mokslas
   ir studijos
 
 
-611531
+611927
 
 
-572621
+572663
 
 
 322099
 
 
-38910
+39264
 
 
 
 
-iš jų: Kunigų seminarijoms
+Iš jų: Kunigų seminarijoms
 
 
 1307
@@ -4042,7 +4081,7 @@ Tradicinių religinių bendrijų maldos
 
 
 
-iš jų: Kauno Kristaus Prisikėlimo
+Iš jų: Kauno Kristaus Prisikėlimo
   parapijai
 
 
@@ -4189,13 +4228,13 @@ IŠ VISO:
 7414456
 
 
-6839684
+6806184
 
 
-2018479
+2018316
 
 
-574772
+608308
 
 
 
@@ -4263,16 +4302,20 @@ Išlaidos viršija pajamas
 Priedėlio pakeitimai:
 Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 66-2406 (2001-08-01)
+Nr. IX-641, 2001-12-11,
+Žin., 2001, Nr. 105-3739 (2001-12-14)
  
 
 
+ 
 Lietuvos Respublikos
-                                                                                    2000
-m. gruodžio 19 d.
-                                                                            įstatymo
-Nr. IX-89
-                                                                                                2
-priedėlis
+2000 m. gruodžio 19 d.
+įstatymo Nr. IX-89
+2 priedėlis
+(Lietuvos Respublikos
+2001 m. gruodžio 11 d.
+įstatymo Nr. IX-641
+redakcija)
  
 LIETUVOS RESPUBLIKOS 2001 METŲ
 VALSTYBĖS BIUDŽETO ASIGNAVIMAI
@@ -4297,17 +4340,13 @@ paprastosioms išlaidoms
 
 Nepaprasto-sioms išlaidoms
 
- 
 
 
 
 iš viso
 
 
-iš jų darbo užmokesčiui
-
-
- 
+iš jų darbo užmokes-čiui
 
 
 
@@ -4326,25 +4365,23 @@ iš jų darbo užmokesčiui
 
  
 
- 
 
 
 
 Bendrosios valstybės paslaugos
 
 
-656853
+687161
 
 
-617166
+617424
 
 
-355728
+355580
 
 
-39687
+69737
 
- 
 
 
 
@@ -4362,25 +4399,23 @@ iš jų:
 
  
 
- 
 
 
 
 valstybės valdymo išlaidos
 
 
-190414
+190037
 
 
-175798
+175371
 
 
-102948
+102458
 
 
-14616
+14666
 
- 
 
 
 
@@ -4398,7 +4433,6 @@ fundamentalūs moksliniai tyrimai
 
 8500
 
- 
 
 
 
@@ -4416,14 +4450,13 @@ fundamentalūs moksliniai tyrimai
 
  
 
- 
 
 
 
 Krašto apsauga
 
 
-718105
+717505
 
 
 626520
@@ -4432,9 +4465,8 @@ Krašto apsauga
 279782
 
 
-91585
+90985
 
- 
 
 
 
@@ -4452,7 +4484,6 @@ iš jų:
 
  
 
- 
 
 
 
@@ -4470,7 +4501,6 @@ Krašto apsaugos ministerija
 
 71782
 
- 
 
 
 
@@ -4488,35 +4518,28 @@ Krašto apsaugos ministerija
 
  
 
- 
 
 
 
 Viešoji tvarka ir visuomenės apsauga
 
 
-945660
-
-
-893393
-
-
-596065
-
-
-52267
-
  
-
+949261
 
 
  
+893224
 
 
  
+596051
 
 
  
+56037
+
+
 
 
  
@@ -4524,29 +4547,33 @@ Viešoji tvarka ir visuomenės apsauga
 
  
 
+
  
+
+
+ 
+
+
+ 
+
 
 
 
 Švietimas
 
 
-1014447
+1017748
 
 
-953762
+956755
 
 
-490013
+489932
 
 
-60685
-
- 
+60993
 
 
-
- 
 
 
  
@@ -4560,29 +4587,27 @@ Viešoji tvarka ir visuomenės apsauga
 
  
 
+
  
+
 
 
 
 Sveikatos priežiūra
 
 
-586906
+589256
 
 
-518983
+521223
 
 
 44280
 
 
-67923
-
- 
+68033
 
 
-
- 
 
 
  
@@ -4596,29 +4621,27 @@ Sveikatos priežiūra
 
  
 
+
  
+
 
 
 
 Socialinė apsauga, globa ir rūpyba
 
 
-633763
+633556
 
 
-623504
+623349
 
 
 56859
 
 
-10259
-
- 
+10207
 
 
-
- 
 
 
  
@@ -4632,7 +4655,9 @@ Socialinė apsauga, globa ir rūpyba
 
  
 
+
  
+
 
 
 
@@ -4640,18 +4665,21 @@ Sveikatingumas (sportas), rekreacija,
   kultūra
 
 
+ 
 235901
 
 
+ 
 225138
 
 
+ 
 38670
 
 
+ 
 10763
 
- 
 
 
 
@@ -4669,25 +4697,26 @@ Sveikatingumas (sportas), rekreacija,
 
  
 
- 
 
 
 
 Kuro ir energijos tiekimo paslaugos
 
 
+ 
 6099
 
 
+ 
 6099
 
 
+ 
 3224
 
 
  
 
- 
 
 
 
@@ -4705,7 +4734,6 @@ Kuro ir energijos tiekimo paslaugos
 
  
 
- 
 
 
 
@@ -4713,23 +4741,22 @@ Kuro ir energijos tiekimo paslaugos
   veterinarija
 
 
-667539
+ 
+687572
 
 
-595455
+ 
+615488
 
 
-59336
+ 
+59467
 
 
+ 
 72084
 
- 
 
-
-
- 
- 
 
 
  
@@ -4743,7 +4770,9 @@ Kuro ir energijos tiekimo paslaugos
 
  
 
+
  
+
 
 
 
@@ -4751,16 +4780,20 @@ Mineralinių išteklių gavyba (išskyrus
   kurą), pramonė ir statyba
 
 
-151772
+ 
+151722
 
 
+ 
 100454
 
 
+ 
 8188
 
 
-51318
+ 
+51268
 
 
 
@@ -4819,10 +4852,10 @@ Transportas ir ryšiai
 Kita ekonominė veikla
 
 
-70554
+70769
 
 
-64757
+64972
 
 
 34239
@@ -4853,15 +4886,19 @@ iš jų:
 Aplinkos ministerija ir jos valdymo sritis
 
 
+ 
 43460
 
 
+ 
 38603
 
 
+ 
 18604
 
 
+ 
 4857
 
 
@@ -4888,15 +4925,19 @@ Išlaidos, nepriskirtinos pagrindinių
   funkcijų grupėms
 
 
-1660100
+ 
+1601149
 
 
-1560729
+ 
+1501778
 
 
-37712
+ 
+37661
 
 
+ 
 99371
 
 
@@ -4922,15 +4963,18 @@ iš jų:
 valstybės skolos aptarnavimo išlaidos
 
 
-1069464
+ 
+1014827
 
 
-974445
+ 
+919808
 
 
  
 
 
+ 
 95019
 
 
@@ -4939,27 +4983,12 @@ valstybės skolos aptarnavimo išlaidos
 dotacijos ir kompensacija savivaldybėms
 
 
-253248
-
-
-253248
+ 
+251048
 
 
  
-
-
- 
-
-
-
-
- 
-
-
- 
-
-
- 
+251048
 
 
  
@@ -4976,31 +5005,36 @@ IŠ VISO:
 7414456
 
 
-6839684
+6806148
 
 
-2018479
+2018316
 
 
-574772
+608308
 
 
 
- 
+
+
+
+
+
+
+
+
 Priedėlio pakeitimai:
 Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 66-2406 (2001-08-01)
+Nr. IX-641,
+2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
  
 
 
-                                                                                    Lietuvos
-Respublikos
-                                                                                    2000
-m. gruodžio 19 d.
-                                                                            įstatymo
-Nr. IX-89
-                                                                                    3
-priedėlis
+Lietuvos Respublikos
+2000 m. gruodžio 19 d.
+įstatymo Nr. IX-89
+3 priedėlis
  
 LIETUVOS RESPUBLIKOS 2001 METŲ VALSTYBĖS
 INSTITUCIJŲ, ĮSTAIGŲ, VYKDANČIŲ VIEŠOJO ADMINISTRAVIMO FUNKCIJAS, IR KONTROLĖS
@@ -5354,11 +5388,11 @@ Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
  
 
 
-                                                                                    Lietuvos
+                                                                                    Lietuvos
 Respublikos
                                                                                     2000
 m. gruodžio 19 d.
-                                                                            įstatymo
+                                                                            įstatymo
 Nr. IX-89
                                                                                     5
 priedėlis
@@ -6588,8 +6622,8 @@ pajamos iš Valstybės iždo mokestinėms pajamoms
   išlyginti
 
 
-pajamos iš Valstybės iždo išlaidų struktūros
-  skirtumams išlyginti
+pajamos iš Valstybės iždo išlaidų struktūros skirtumams
+  išlyginti
 
 
 
@@ -8528,14 +8562,15 @@ Iš viso:
  
 
 
-                                                                                    Lietuvos
-Respublikos
-                                                                                    2000
-m. gruodžio 19 d.
-                                                                            įstatymo
-Nr. IX-89
-                                                                                    8
-priedėlis
+ 
+Lietuvos Respublikos
+2000 m. gruodžio 19 d.
+įstatymo Nr. IX-89
+8 priedėlis
+(Lietuvos Respublikos
+2001 m. gruodžio 11 d.
+įstatymo Nr. IX-641
+redakcija)
  
 VALSTYBĖS BIUDŽETO SPECIALIOS DOTACIJOS
 SAVIVALDYBĖMS
@@ -8544,8 +8579,7 @@ SAVIVALDYBĖMS
 
 
 
-Savivaldybės 
-pavadinimas
+Savivaldybės pavadinimas
 
 
 Karo prievolei administruoti
@@ -8553,10 +8587,6 @@ Karo prievolei administruoti
 
 Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo pakeitimo
    ir papildymo įstatymui vykdyti
-
-
-Palūkanoms už valstybės vardu gaunamas paskolas švietimo įstaigoms
-   atnaujinti mokėti
 
 
 
@@ -8571,9 +8601,6 @@ Vilniaus miesto
 206,1
 
 
-292,3
-
-
 
 
 Alytaus miesto
@@ -8583,9 +8610,6 @@ Alytaus miesto
 
 
 7,9
-
-
-47,3
 
 
 
@@ -8599,9 +8623,6 @@ Birštono
  
 
 
-3,5
-
-
 
 
 Druskininkų
@@ -8611,9 +8632,6 @@ Druskininkų
 
 
 10,5
-
-
-17,2
 
 
 
@@ -8627,9 +8645,6 @@ Kauno miesto
 47,3
 
 
-197,7
-
-
 
 
 Klaipėdos miesto
@@ -8639,9 +8654,6 @@ Klaipėdos miesto
 
 
 90,6
-
-
-106
 
 
 
@@ -8655,9 +8667,6 @@ Marijampolės
 7,9
 
 
-43,7
-
-
 
 
 Neringos
@@ -8667,9 +8676,6 @@ Neringos
 
 
  
-
-
-1,5
 
 
 
@@ -8683,9 +8689,6 @@ Palangos miesto
 5,3
 
 
-12,6
-
-
 
 
 Panevėžio miesto
@@ -8695,9 +8698,6 @@ Panevėžio miesto
 
 
 13,1
-
-
-72
 
 
 
@@ -8711,9 +8711,6 @@ Panevėžio miesto
 10,5
 
 
-82,1
-
-
 
 
 Visagino miesto
@@ -8723,9 +8720,6 @@ Visagino miesto
 
 
 32,8
-
-
-25,3
 
 
 
@@ -8739,9 +8733,6 @@ Akmenės rajono
 2,6
 
 
-21
-
-
 
 
 Alytaus rajono
@@ -8751,9 +8742,6 @@ Alytaus rajono
 
 
 1,3
-
-
-19,7
 
 
 
@@ -8767,9 +8755,6 @@ Anykščių rajono
  
 
 
-25
-
-
 
 
 Biržų rajono
@@ -8779,9 +8764,6 @@ Biržų rajono
 
 
 4
-
-
-26,9
 
 
 
@@ -8795,9 +8777,6 @@ Ignalinos rajono
 6,6
 
 
-17,2
-
-
 
 
 Jonavos rajono
@@ -8807,9 +8786,6 @@ Jonavos rajono
 
 
 14,4
-
-
-35,6
 
 
 
@@ -8823,9 +8799,6 @@ Joniškio rajono
 6,6
 
 
-22,1
-
-
 
 
 Jurbarko rajono
@@ -8835,9 +8808,6 @@ Jurbarko rajono
 
 
 2,6
-
-
-29,9
 
 
 
@@ -8851,9 +8821,6 @@ Kaišiadorių rajono
 2,6
 
 
-23,9
-
-
 
 
 Kauno rajono
@@ -8863,9 +8830,6 @@ Kauno rajono
 
 
 7,9
-
-
-45,9
 
 
 
@@ -8879,9 +8843,6 @@ Kėdainių rajono
 13,1
 
 
-41,9
-
-
 
 
 Kelmės rajono
@@ -8891,9 +8852,6 @@ Kelmės rajono
 
 
 4
-
-
-29,2
 
 
 
@@ -8907,9 +8865,6 @@ Klaipėdos rajono
 11,8
 
 
-34
-
-
 
 
 Kretingos rajono
@@ -8919,9 +8874,6 @@ Kretingos rajono
 
 
 4
-
-
-29,6
 
 
 
@@ -8935,9 +8887,6 @@ Kupiškio rajono
 5,3
 
 
-19,7
-
-
 
 
 Lazdijų rajono
@@ -8947,9 +8896,6 @@ Lazdijų rajono
 
 
 2,6
-
-
-21,8
 
 
 
@@ -8963,9 +8909,6 @@ Mažeikių rajono
 11,8
 
 
-48,1
-
-
 
 
 Molėtų rajono
@@ -8975,9 +8918,6 @@ Molėtų rajono
 
 
 1,3
-
-
-17,8
 
 
 
@@ -8991,9 +8931,6 @@ Pakruojo rajono
 2,6
 
 
-22
-
-
 
 
 Panevėžio rajono
@@ -9003,9 +8940,6 @@ Panevėžio rajono
 
 
  
-
-
-25,7
 
 
 
@@ -9019,9 +8953,6 @@ Pasvalio rajono
  
 
 
-25,4
-
-
 
 
 Plungės rajono
@@ -9031,9 +8962,6 @@ Plungės rajono
 
 
 5,3
-
-
-30,4
 
 
 
@@ -9047,9 +8975,6 @@ Prienų rajono
  
 
 
-23,3
-
-
 
 
 Radviliškio rajono
@@ -9059,9 +8984,6 @@ Radviliškio rajono
 
 
 1,3
-
-
-40,9
 
 
 
@@ -9075,9 +8997,6 @@ Raseinių rajono
  
 
 
-30,4
-
-
 
 
 Rokiškio rajono
@@ -9087,9 +9006,6 @@ Rokiškio rajono
 
 
 2,6
-
-
-29,9
 
 
 
@@ -9103,9 +9019,6 @@ Skuodo rajono
 1,3
 
 
-20,7
-
-
 
 
 Šakių rajono
@@ -9115,9 +9028,6 @@ Skuodo rajono
 
 
  
-
-
-28,2
 
 
 
@@ -9131,9 +9041,6 @@ Skuodo rajono
 19,7
 
 
-26,4
-
-
 
 
 Šiaulių rajono
@@ -9143,9 +9050,6 @@ Skuodo rajono
 
 
 6,6
-
-
-29,9
 
 
 
@@ -9159,9 +9063,6 @@ Skuodo rajono
  
 
 
-25,6
-
-
 
 
 Šilutės rajono
@@ -9171,9 +9072,6 @@ Skuodo rajono
 
 
 7,9
-
-
-43,4
 
 
 
@@ -9187,9 +9085,6 @@ Skuodo rajono
 1,3
 
 
-13,5
-
-
 
 
 Švenčionių rajono
@@ -9199,9 +9094,6 @@ Skuodo rajono
 
 
 2,6
-
-
-21,3
 
 
 
@@ -9215,9 +9107,6 @@ Tauragės rajono
 1,3
 
 
-35,6
-
-
 
 
 Telšių rajono
@@ -9227,9 +9116,6 @@ Telšių rajono
 
 
 5,3
-
-
-42,9
 
 
 
@@ -9243,9 +9129,6 @@ Trakų rajono
 10,5
 
 
-24,9
-
-
 
 
 Ukmergės rajono
@@ -9255,9 +9138,6 @@ Ukmergės rajono
 
 
 2,6
-
-
-32,6
 
 
 
@@ -9271,9 +9151,6 @@ Utenos rajono
 2,6
 
 
-38,4
-
-
 
 
 Varėnos rajono
@@ -9283,9 +9160,6 @@ Varėnos rajono
 
 
 1,3
-
-
-21,2
 
 
 
@@ -9299,9 +9173,6 @@ Vilkaviškio rajono
 5,3
 
 
-32,9
-
-
 
 
 Vilniaus rajono
@@ -9311,9 +9182,6 @@ Vilniaus rajono
 
 
 23,6
-
-
-49,7
 
 
 
@@ -9327,9 +9195,6 @@ Zarasų rajono
  
 
 
-18,3
-
-
 
 
 Elektrėnų 
@@ -9339,9 +9204,6 @@ Elektrėnų
 
 
 7,9
-
-
-18,9
 
 
 
@@ -9355,9 +9217,6 @@ Kalvarijos
 1,3
 
 
-9,2
-
-
 
 
 Kazlų Rūdos 
@@ -9367,9 +9226,6 @@ Kazlų Rūdos
 
 
 1,3
-
-
-9,8
 
 
 
@@ -9383,9 +9239,6 @@ Pagėgių
  
 
 
-9,7
-
-
 
 
 Rietavo 
@@ -9397,9 +9250,6 @@ Rietavo
 1,3
 
 
-8,4
-
-
 
 
 Iš viso:
@@ -9409,9 +9259,6 @@ Iš viso:
 
 
 650
-
-
-2200
 
 
 
@@ -9428,7 +9275,7 @@ ir narkomanijos prevencijos programai vykdyti – 400 tūkst. litų;
 Neringos
 savivaldybės biudžetui Nidos oro uostui rekonstruoti – 674 tūkst. litų;
 Palangos miesto
-savivaldybės biudžetui Ražės upės daliai ekologiškai sutvarkyti – 709 tūkst.
+savivaldybės biudžetui Rąžės upės daliai ekologiškai sutvarkyti – 709 tūkst.
 litų;
 Kauno rajono
 savivaldybės biudžetui Lapių pagrindinės mokyklos statybai – 500 tūkst. litų;
@@ -9446,6 +9293,8 @@ savivaldybės biudžetui – 206 tūkst. litų jų įsikūrimo išlaidoms padeng
 Priedėlio pakeitimai:
 Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 66-2406 (2001-08-01)
+Nr. IX-641,
+2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
  
 
 
@@ -9549,7 +9398,7 @@ III. Išlaidos
 
 1. Gyventojų santaupoms atkurti ir su
   tuo susijusioms išlaidoms padengti, taip pat Lietuvos Respublikos Vyriausybės
-  sprendimu rezerviniam (stabilizavimo) fondui sudaryti                        
+  sprendimu rezerviniam (stabilizavimo) fondui sudaryti
 
 
 1566300
@@ -9745,10 +9594,10 @@ metams iš viso
 Iš viso
 
 
-1275998
+1305587
 
 
-313256
+349845
 
 
 227000
@@ -9757,7 +9606,7 @@ Iš viso
 410000
 
 
-325742
+318742
 
 
 1103526
@@ -9849,10 +9698,10 @@ Iš jų:
 švietimas
 
 
-129813
+131467
 
 
-19700
+21354
 
 
 28113
@@ -9954,10 +9803,10 @@ narystė Europos
   Sąjungoje
 
 
-3700
+33700
 
 
-2700
+32700
 
 
 1000
@@ -10111,10 +9960,10 @@ tolesnis verslo
 informa-tika
 
 
-76216
+78316
 
 
-51746
+53846
 
 
 8200
@@ -10186,8 +10035,7 @@ Energetika
 
 
 
-Transpor-tas ir
-  ryšiai
+Transpor-tas ir ryšiai
 
 
 192294
@@ -10348,10 +10196,10 @@ Sveikatos
   apsauga
 
 
-101861
+96626
 
 
-30362
+32127
 
 
 15499
@@ -10360,7 +10208,7 @@ Sveikatos
 49000
 
 
-7000
+ 
 
 
 105610
@@ -10400,10 +10248,10 @@ Sveikatos
 Teisėsauga
 
 
-51490
+52560
 
 
-2010
+3080
 
 
 14570
@@ -10621,8 +10469,10 @@ Valstybės
 Priedėlio pakeitimai:
 Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 66-2406 (2001-08-01)
+Nr. IX-641,
+2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
  
-______________________
+______________
  
 Pakeitimai:
  
@@ -10635,9 +10485,21 @@ Nr. IX-454, 2001-07-12, Žin., 2001, Nr.
 VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-641,
+2001-12-11, Žin., 2001, Nr. 105-3739 (2001-12-14)
+2001
+METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+PATVIRTINIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Angonita
-Rupšytė (2001-08-01)
-                  anrups@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2001-12-14)
+                 
+autrap@lrs.lt
