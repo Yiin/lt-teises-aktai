@@ -27,22 +27,25 @@ Vilnius
 
 
  
-1 straipsnis. 2002 metų valstybės
-biudžeto pajamų ir asignavimų patvirtinimas
-Patvirtinti
-Lietuvos Respublikos 2002 metų valstybės biudžetą – 8868023 tūkst. litų pajamų,
-10003411 tūkst. litų asignavimų (asignavimai viršija pajamas 1135388 tūkst.
-litų) ir 62066 tūkst. litų apyvartos lėšų (1, 2, 5 priedėliai).
+1 straipsnis. 2002 metų valstybės biudžeto pajamų ir asignavimų
+patvirtinimas
+Patvirtinti Lietuvos Respublikos
+2002 metų valstybės biudžetą – 8924943 tūkst. litų pajamų, 10060331 tūkst. litų
+asignavimų (asignavimai viršija pajamas 1135388 tūkst. litų) ir 62066 tūkst.
+litų apyvartos lėšų (1, 2, 5 priedėliai).
+Straipsnio pakeitimai:
+Nr. IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
  
-2 straipsnis. Savivaldybių
-biudžetų finansinių rodiklių patvirtinimas
+2 straipsnis.
+Savivaldybių biudžetų finansinių rodiklių patvirtinimas
 1. Patvirtinti
 fizinių asmenų pajamų mokesčio dalį, tenkančią visų savivaldybių biudžetams, –
 43,46 procento.
-2. Patvirtinti
-savivaldybių biudžetams valstybės biudžeto specialias tikslines dotacijas –
-1997382 tūkst. litų ir valstybės biudžeto bendrosios dotacijos kompensacijas –
-35754 tūkst. litų 
+2.
+Patvirtinti savivaldybių biudžetams valstybės biudžeto specialias tikslines
+dotacijas – 2006411 tūkst. litų ir valstybės biudžeto bendrosios dotacijos
+kompensacijas – 35754 tūkst. litų 
 (6 priedėlis).
 3. Patvirtinti
 iš savivaldybių biudžetų valstybės biudžetui grąžinamas bendrosios dotacijos
@@ -51,10 +54,11 @@ biudžetą kas ketvirtį lygiomis dalimis (7 priedėlis).
 Straipsnio pakeitimai:
 Nr. IX-851,
 2002-04-18, Žin., 2002, Nr. 42-1558 (2002-04-24)
+Nr. IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
  
-3
-straipsnis. Specialios tikslinės dotacijos valstybinėms (perduotoms
-savivaldybėms) 
+3 straipsnis. Specialios tikslinės
+dotacijos valstybinėms (perduotoms savivaldybėms) 
 funkcijoms
 atlikti naudojimas
 Nustatyti, kad
@@ -74,14 +78,21 @@ pajamoms iš dalies dengti naudojimas
 1. Nustatyti, kad speciali
 tikslinė dotacija 1997–2000 metų savivaldybių biudžetų negautoms pajamoms,
 priimtoms skaičiuojant 1997–2000 metų savivaldybių biudžetų finansinius
-rodiklius, iš dalies dengti skiriama savivaldybių biudžetinių įstaigų
-įsiskolinimui kreditoriams, susidariusiam iki 2002 m. sausio 1 d., dengti pagal
-savivaldybių tarybų patvirtintus šio įsiskolinimo dengimo grafikus ir kitoms
-savivaldybių biudžetų skoloms dengti.
-2. Nustatyti, kad savivaldybės
+rodiklius, iš dalies dengti skiriama savivaldybių biudžetinių įstaigų įsiskolinimui
+kreditoriams, susidariusiam iki 2002 m. sausio 1 d., dengti pagal savivaldybių
+tarybų patvirtintus šio įsiskolinimo dengimo grafikus ir kitoms savivaldybių
+biudžetų skoloms dengti.
+2. Nustatyti,
+kad speciali tikslinė dotacija savivaldybėms pervedama atsižvelgiant į tai, kad
+praėjusio ataskaitinio laikotarpio įsiskolinimas kreditoriams sumažintas ne
+mažesne kaip anksčiau pervesta tikslinės dotacijos suma.
+3. Nustatyti, kad savivaldybės
 kiekvienam ketvirčiui pasibaigus pateikia Finansų ministerijai informaciją apie
 specialios tikslinės dotacijos, skirtos įsiskolinimui kreditoriams dengti,
 panaudojimą. 
+Straipsnio pakeitimai:
+Nr. IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
  
 5
 straipsnis. Specialios tikslinės dotacijos moksleivio krepšeliui
@@ -110,15 +121,15 @@ ministerija atitinkamoms savivaldybėms ir valstybės biudžeto asignavimų
 valdytojams tarpusavio atsiskaitymų tvarka, – kai mokiniai migruoja tarp
 savivaldybių ir valstybės biudžeto finansuojamų mokyklų. 
  
-7 straipsnis. Atskaitymų iš fizinių asmenų pajamų mokesčio į
-Privalomojo sveikatos 
+7 straipsnis. Atskaitymų iš fizinių asmenų pajamų
+mokesčio į Privalomojo sveikatos 
 draudimo fondo biudžetą dydis
 Nustatyti, kad 2002 metais fizinių asmenų pajamų
 mokesčio įmokos į Privalomojo sveikatos draudimo fondo biudžetą sudaro 30
 procentų apskaičiuotos šio mokesčio sumos.
  
-8 straipsnis. Įmokų dydis už valstybės lėšomis
-draudžiamus asmenis
+8 straipsnis. Įmokų dydis už
+valstybės lėšomis draudžiamus asmenis
 Nustatyti, kad 2002 metais valstybės biudžeto įmokos į
 Privalomojo sveikatos draudimo fondo biudžetą yra po 187,2 lito už kiekvieną
 valstybės lėšomis draudžiamą asmenį.
@@ -128,30 +139,33 @@ straipsnis.
 Įmokos į valstybės biudžetą, skiriamos pagal įstatymus specialiosioms 
 programoms
 finansuoti
-1. Patvirtinti iš valstybės
-biudžeto išlaikomų įstaigų ir valstybinių mokslo bei studijų institucijų pajamų
-už teikiamas paslaugas įmokas į valstybės biudžetą – 356318 tūkst. litų (3
-priedėlis).
-2. Patvirtinti valstybės biudžeto asignavimų valdytojų
-administruojamų pajamų įmokas į valstybės biudžetą – 407112 tūkst. litų (4
+1. Patvirtinti iš valstybės biudžeto išlaikomų
+įstaigų ir valstybinių mokslo bei studijų institucijų pajamų už teikiamas
+paslaugas įmokas į valstybės biudžetą – 355876 tūkst. litų 
+(3 priedėlis).
+2. Patvirtinti
+valstybės biudžeto asignavimų valdytojų administruojamų pajamų įmokas į
+valstybės biudžetą – 434112 tūkst. litų (4
 priedėlis).
 3. Nustatyti, kad nuompinigiai už valstybės ilgalaikį
 materialųjį turtą, kurį patikėjimo teise valdo ir išnuomoja valstybės
 institucijos ir įstaigos, valstybinės mokslo ir studijų institucijos, pervesti
-į valstybės biudžetą, kompensuojami iš Specialiosios valstybės paramos
-gyvenamiesiems namams, butams įsigyti finansavimo programos lėšų.
+į valstybės biudžetą, kompensuojami iš Specialiosios valstybės paramos gyvenamiesiems
+namams, butams įsigyti finansavimo programos lėšų.
+Straipsnio pakeitimai:
+Nr. IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
  
-10
-straipsnis.
-Garantijų institucijų ir draudimo įmonių prisiimtų įsipareigojimų su 
+10 straipsnis. Garantijų institucijų ir
+draudimo įmonių prisiimtų įsipareigojimų su 
 valstybės
 garantija limitas
 Nustatyti, kad garantijų
 institucijų ir draudimo įmonių prisiimtų įsipareigojimų, dėl kurių suteikta
 valstybės garantija, suma negali viršyti 250000 tūkst. litų. 
  
-11 straipsnis.
-Valstybės skolos limitai
+11
+straipsnis. Valstybės skolos limitai
 1. Nustatyti 2002 metų valstybės
 grynojo skolinimosi limitą – 1100000 tūkst. litų.
 2. Nustatyti
@@ -162,10 +176,10 @@ Straipsnio pakeitimai:
 Nr. IX-947,
 2002-06-11, Žin., 2002, Nr. 58-2349 (2002-06-14)
  
-12 straipsnis. Savivaldybių skolinimosi
-limitai
-1. Nustatyti šiuos savivaldybės skolinimosi
-limitus:
+12 straipsnis.
+Savivaldybių skolinimosi limitai
+1. Nustatyti šiuos savivaldybės
+skolinimosi limitus:
 1) savivaldybės
 skola negali viršyti 35 procentų (Vilniaus miesto savivaldybės – 50 procentų)
 patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės
@@ -189,8 +203,9 @@ didesni skolinimosi limitai.
 limitus neįskaitomos trumpalaikės beprocentės paskolos, teikiamos iš valstybės
 biudžeto, skirtos laikinam pajamų trūkumui padengti.
  
-13 straipsnis. Vyriausybės
-teisės vykdant biudžetą
+13
+straipsnis.
+Vyriausybės teisės vykdant biudžetą
 Suteikti Vyriausybei arba jos
 įgaliotai institucijai teisę:
 1) asignavimus, valstybės
@@ -208,8 +223,8 @@ vardu valstybės biudžeto deficitui dengti – iki 1135388 tūkst. litų, valst
 investicijoms finansuoti – iki 150000 tūkst. litų, Valstybinio socialinio
 draudimo fondo 2002 metų biudžeto laikinam lėšų trūkumui finansuoti – iki 34300
 tūkst. litų, taip pat Valstybinio socialinio draudimo fondo biudžeto gautoms
-paskoloms su valstybės garantija ir finansų ministro pasirašytais pritarimo raštais,
-kurių grąžinimo terminas sueina 2002 metais, finansuoti;
+paskoloms su valstybės garantija ir finansų ministro pasirašytais pritarimo
+raštais, kurių grąžinimo terminas sueina 2002 metais, finansuoti;
 5) laikantis valstybės grynojo
 skolinimosi limito, finansuoti Valstybės investicijų programą iš jau pasirašytų
 arba numatomų pasirašyti paskolų su valstybės garantija – iki 270000 tūkst.
@@ -259,8 +274,8 @@ Valstybės investicijų 2002–2004 metų programa
 Patvirtinti Valstybės investicijų
 2002–2004 metų programą (10 priedėlis).
  
-18
-straipsnis. Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo  
+18 straipsnis. Valstybės įmonės
+Ignalinos atominės elektrinės eksploatavimo  
 nutraukimo
 fondo lėšos
 Patvirtinti 2002 metų Valstybės
@@ -323,7 +338,7 @@ Fizinių asmenų pajamų mokestis
 
 
 
-Juridinių asmenų pelno mokestis
+Pelno (Juridinių asmenų pelno) mokestis
 
 
 348028
@@ -334,7 +349,7 @@ Juridinių asmenų pelno mokestis
 Pridėtinės vertės mokestis
 
 
-3858081
+3863987
 
 
 
@@ -366,7 +381,7 @@ Transporto priemonių mokestis
 Mokestis už valstybinius gamtos išteklius
 
 
-89115
+90495
 
 
 
@@ -423,7 +438,7 @@ Palūkanos už kapitalo naudojimą
 Dividendai
 
 
-28200
+49525
 
 
 
@@ -455,7 +470,7 @@ Rinkliavos
 Konsulinis mokestis
 
 
-11000
+12751
 
 
 
@@ -472,8 +487,7 @@ Biudžetinių įstaigų pajamos, gautos už
   teikiamas paslaugas
 
 
- 
-356318
+355876
 
 
 
@@ -482,7 +496,7 @@ Asignavimų valdytojų administruojamos
   pajamos
 
 
-407112
+434112
 
 
 
@@ -522,7 +536,7 @@ PAJAMOS IŠ KAPITALO
 IŠ VISO
 
 
-8868023
+8924943
 
 
 
@@ -533,58 +547,35 @@ IŠ VISO
 
 1 priedėlio tęsinys
 ASIGNAVIMAI
- 
-tūkst.Lt
-
-
-
+                                                                                                                        tūkst.
+Lt
  
 
 
- 
+
+Pavadinimas
 
 
- 
+Iš viso
 
 
 Iš jų:
 
 
- 
-
-
-
-
-Valstybės institucijos ir įstaigos
-
-
- 
-Iš viso
 
 
 paprastosioms išlaidoms 
 
 
-nepapras-
-tosioms 
+nepapras-tosioms išlaidoms
 
 
-
-
- 
-
-
- 
 
 
 iš viso
 
 
-iš jų darbo
-užmokesčiui
-
-
-išlaidoms
+iš jų darbo užmokesčiui
 
 
 
@@ -609,19 +600,15 @@ Lietuvos Respublikos Prezidentūra
 Lietuvos Respublikos Seimo kanceliarija
 
 
- 
 54193
 
 
- 
 52250
 
 
- 
 24321
 
 
- 
 1943
 
 
@@ -648,15 +635,12 @@ Lietuvos Respublikos Seimo kontrolierių
   įstaiga
 
 
- 
 2258
 
 
- 
 2258
 
 
- 
 1560
 
 
@@ -668,20 +652,16 @@ Lietuvos Respublikos Seimo kontrolierių
 Lietuvos Respublikos Konstitucinis Teismas
 
 
- 
-4523
+4886
 
 
- 
-4473
+4811
 
 
- 
-2883
+3103
 
 
- 
-50
+75
 
 
 
@@ -689,19 +669,15 @@ Lietuvos Respublikos Konstitucinis Teismas
 Lietuvos Respublikos valstybės kontrolė
 
 
- 
 15728
 
 
- 
 15003
 
 
- 
 10206
 
 
- 
 725
 
 
@@ -710,16 +686,33 @@ Lietuvos Respublikos valstybės kontrolė
 Valstybinė lietuvių kalbos komisija
 
 
-3078
+3108
 
 
-3078
+3100
 
 
-1803
+1806
 
 
- 
+8
+
+
+
+
+Lietuvos Respublikos konkurencijos taryba
+
+
+2651
+
+
+2281
+
+
+1535
+
+
+370
 
 
 
@@ -744,13 +737,13 @@ Vyriausioji tarnybinės etikos komisija
 Žurnalistų etikos inspektorius
 
 
-234
+294
 
 
-234
+294
 
 
-142
+162
 
 
  
@@ -779,15 +772,12 @@ Vaiko teisių apsaugos kontrolieriaus
   įstaiga
 
 
- 
 443
 
 
- 
 443
 
 
- 
 269
 
 
@@ -796,19 +786,16 @@ Vaiko teisių apsaugos kontrolieriaus
 
 
 
-Moterų ir vyrų lygių galimybių
-  kontrolieriaus tarnyba
+Moterų ir vyrų lygių galimybių kontrolieriaus
+  tarnyba
 
 
- 
 415
 
 
- 
 415
 
 
- 
 259
 
 
@@ -820,13 +807,13 @@ Moterų ir vyrų lygių galimybių
 Valstybinė paminklosaugos komisija
 
 
-543
+593
 
 
-543
+593
 
 
-384
+389
 
 
  
@@ -838,15 +825,12 @@ Lietuvos Respublikos vertybinių popierių
   komisija
 
 
- 
 2743
 
 
- 
 2743
 
 
- 
 1596
 
 
@@ -859,19 +843,15 @@ Lietuvos Respublikos Vyriausybės
   kanceliarija
 
 
- 
-15421
+15581
 
 
- 
-13595
+13755
 
 
- 
 7039
 
 
- 
 1826
 
 
@@ -881,15 +861,12 @@ Valstybinė kainų ir energetikos kontrolės
   komisija
 
 
- 
 2018
 
 
- 
 2018
 
 
- 
 1345
 
 
@@ -911,27 +888,6 @@ Etninės kultūros globos taryba
 
 
  
-
-
-
-
-Lietuvos Respublikos konkurencijos tarnyba
-
-
- 
-2541
-
-
- 
-2211
-
-
- 
-1485
-
-
- 
-330
 
 
 
@@ -973,16 +929,16 @@ I. Ministerijos
 Aplinkos ministerija
 
 
-49142
+52794
 
 
-47866
+51438
 
 
-19270
+20410
 
 
-1276
+1356
 
 
 
@@ -990,27 +946,27 @@ Aplinkos ministerija
 Finansų ministerija
 
 
-3228931
+3177417
 
 
-3145071
+3110864
 
 
-9128
+9583
 
 
-83860
+66553
 
 
 
 
-iš jų:  Vyriausybės rezervas
+iš jų Vyriausybės rezervas
 
 
-20000
+22727
 
 
-20000
+22727
 
 
  
@@ -1041,33 +997,33 @@ Krašto apsaugos ministerija
 Kultūros ministerija
 
 
-92416
+93471
 
 
-78138
+79113
 
 
-18005
+18072
 
 
-14278
+14358
 
 
 
 
-iš jų:  Valdovų rūmams atstatyti
+iš jų Valdovų rūmams atstatyti
 
 
-7000
-
-
- 
+7080
 
 
  
 
 
-7000
+ 
+
+
+7080
 
 
 
@@ -1075,16 +1031,16 @@ iš jų:  Valdovų rūmams atstatyti
 Socialinės apsaugos ir darbo ministerija
 
 
-523906
+528964
 
 
-515755
+520819
 
 
-8102
+8440
 
 
-8151
+8145
 
 
 
@@ -1092,73 +1048,16 @@ Socialinės apsaugos ir darbo ministerija
 Susisiekimo ministerija
 
 
-69452
+70242
 
 
-39153
+39853
 
 
 3785
 
 
-30299
-
-
-
-
-1 priedėlio tęsinys
-tūkst. Lt
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
-Iš jų:
-
-
- 
-
-
-
-
-Valstybės institucijos ir įstaigos
-
-
- 
-Iš viso
-
-
-Paprastosioms išlaidoms 
-
-
-nepapras-
-tosioms 
-
-
-
-
- 
-
-
- 
-
-
-iš viso
-
-
-iš jų darbo
-užmokesčiui
-
-
-išlaidoms
+30389
 
 
 
@@ -1166,16 +1065,16 @@ išlaidoms
 Sveikatos apsaugos ministerija
 
 
-132695
+138886
 
 
-78979
+82279
 
 
-40719
+40757
 
 
-53716
+56607
 
 
 
@@ -1183,16 +1082,16 @@ Sveikatos apsaugos ministerija
 Švietimo ir mokslo ministerija
 
 
-450743
+457186
 
 
-411755
+412828
 
 
-208851
+208989
 
 
-38988
+44358
 
 
 
@@ -1200,16 +1099,51 @@ Sveikatos apsaugos ministerija
 Teisingumo ministerija
 
 
-32637
+35407
 
 
-26904
+29254
 
 
-13871
+15629
 
 
-5733
+6153
+
+
+
+
+ 
+ 
+1 priedėlio tęsinys
+tūkst. Lt
+
+
+
+
+Pavadinimas
+
+
+Iš viso
+
+
+Iš jų:
+
+
+
+
+paprastosioms išlaidoms 
+
+
+nepapras-tosioms išlaidoms
+
+
+
+
+iš viso
+
+
+iš jų darbo užmokesčiui
 
 
 
@@ -1217,16 +1151,16 @@ Teisingumo ministerija
 Ūkio ministerija
 
 
-64392
+64522
 
 
-41983
+41933
 
 
-6072
+6122
 
 
-22409
+22589
 
 
 
@@ -1234,16 +1168,16 @@ Teisingumo ministerija
 Užsienio reikalų ministerija
 
 
-109666
+117449
 
 
-106638
+108124
 
 
-43472
+45606
 
 
-3028
+9325
 
 
 
@@ -1251,16 +1185,16 @@ Užsienio reikalų ministerija
 Vidaus reikalų ministerija
 
 
-175524
+181724
 
 
-152073
+154773
 
 
 41928
 
 
-23451
+26951
 
 
 
@@ -1268,16 +1202,16 @@ Vidaus reikalų ministerija
 Žemės ūkio ministerija
 
 
-437197
+439127
 
 
-422474
+423974
 
 
-13446
+13796
 
 
-14723
+15153
 
 
 
@@ -1320,31 +1254,27 @@ Alytaus apskrities viršininko
   administracija
 
 
- 
-21799
+20434
 
 
- 
-17434
+19475
 
 
- 
-9064
+9078
 
 
- 
-4365
+959
 
 
 
 
-iš jų:   žemės reformai vykdyti
+iš jų žemės reformai vykdyti
 
 
-1341
+3241
 
 
-1341
+3241
 
 
  
@@ -1358,31 +1288,27 @@ iš jų:   žemės reformai vykdyti
 Kauno apskrities viršininko administracija
 
 
- 
-48843
+51236
 
 
- 
-47601
+49394
 
 
- 
-24841
+25015
 
 
- 
-1242
+1842
 
 
 
 
-iš jų:   žemės reformai vykdyti
+iš jų žemės reformai vykdyti
 
 
-1900
+3150
 
 
-1900
+3150
 
 
  
@@ -1397,31 +1323,27 @@ Klaipėdos apskrities viršininko
   administracija
 
 
- 
-34960
+37973
 
 
- 
-34437
+36359
 
 
- 
-16912
+16943
 
 
- 
-523
+1614
 
 
 
 
-iš jų:   žemės reformai vykdyti
+iš jų žemės reformai vykdyti
 
 
-1650
+3450
 
 
-1650
+3450
 
 
  
@@ -1436,31 +1358,27 @@ Marijampolės apskrities viršininko
   administracija
 
 
- 
-21630
+22605
 
 
- 
-19900
+20875
 
 
- 
-8436
+8463
 
 
- 
 1730
 
 
 
 
-iš jų:   žemės reformai vykdyti
+iš jų žemės reformai vykdyti
 
 
-1350
+2210
 
 
-1350
+2210
 
 
  
@@ -1475,31 +1393,27 @@ Panevėžio apskrities viršininko
   administracija
 
 
- 
-29565
+31025
 
 
- 
-26839
+28299
 
 
- 
-13141
+13339
 
 
- 
 2726
 
 
 
 
-iš jų:   žemės reformai vykdyti
+iš jų žemės reformai vykdyti
 
 
-2050
+3100
 
 
-2050
+3100
 
 
  
@@ -1514,31 +1428,27 @@ iš jų:   žemės reformai vykdyti
   administracija
 
 
- 
-37863
+39233
 
 
- 
-36160
+37530
 
 
- 
-17399
+17431
 
 
- 
 1703
 
 
 
 
-iš jų:   žemės reformai vykdyti
+iš jų žemės reformai vykdyti
 
 
-2050
+3310
 
 
-2050
+3310
 
 
  
@@ -1553,94 +1463,33 @@ Tauragės apskrities viršininko
   administracija
 
 
- 
-13478
+12426
 
 
- 
-10577
+11756
 
 
- 
-5167
+5183
 
 
- 
-2901
+670
 
 
 
 
-iš jų:   žemės reformai vykdyti
+iš jų žemės reformai vykdyti
 
 
-1170
+2320
 
 
-1170
+2320
 
 
  
 
 
  
-
-
-
-
-1 priedėlio tęsinys
-tūkst. Lt
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
-Iš jų:
-
-
- 
-
-
-
-
-Valstybės institucijos ir įstaigos
-
-
- 
-Iš viso
-
-
-paprastosioms išlaidoms 
-
-
-nepapras-
-tosioms 
-
-
-
-
- 
-
-
- 
-
-
-iš viso
-
-
-iš jų darbo
-užmokesčiui
-
-
-Išlaidoms
 
 
 
@@ -1649,31 +1498,27 @@ Telšių apskrities viršininko
   administracija
 
 
- 
-18356
+19022
 
 
- 
-17861
+18295
 
 
- 
-8651
+8667
 
 
- 
-495
+727
 
 
 
 
-iš jų:   žemės reformai vykdyti
+iš jų žemės reformai vykdyti
 
 
-1110
+1520
 
 
-1110
+1520
 
 
  
@@ -1688,31 +1533,27 @@ Utenos apskrities viršininko
   administracija
 
 
- 
-26507
+27400
 
 
- 
-26156
+27049
 
 
- 
-11958
+11980
 
 
- 
 351
 
 
 
 
-iš jų:   žemės reformai vykdyti
+iš jų žemės reformai vykdyti
 
 
-1750
+2560
 
 
-1750
+2560
 
 
  
@@ -1727,31 +1568,27 @@ Vilniaus apskrities viršininko
   administracija
 
 
- 
-59820
+63190
 
 
- 
-56280
+59030
 
 
- 
-29448
+29517
 
 
- 
-3540
+4160
 
 
 
 
-iš jų:   žemės reformai vykdyti
+iš jų žemės reformai vykdyti
 
 
-2400
+4910
 
 
-2400
+4910
 
 
  
@@ -1779,7 +1616,7 @@ iš jų:   žemės reformai vykdyti
 
 
 
-III.Vyriausybės įstaigos ir kitos
+III. Vyriausybės įstaigos ir kitos
   valstybės institucijos bei įstaigos
 
 
@@ -1797,24 +1634,58 @@ III.Vyriausybės įstaigos ir kitos
 
 
 
-Lietuvos archyvų departamentas prie Lietuvos
-  Respublikos Vyriausybės
+Lietuvos archyvų departamentas prie
+  Lietuvos Respublikos Vyriausybės
 
 
- 
-9252
+9652
 
 
- 
-8702
+9102
 
 
- 
 5925
 
 
- 
 550
+
+
+
+
+
+ 
+
+
+
+1 priedėlio tęsinys
+tūkst. Lt
+
+
+
+
+Pavadinimas
+
+
+Iš viso
+
+
+Iš jų:
+
+
+
+
+paprastosioms išlaidoms 
+
+
+nepapras-tosioms išlaidoms
+
+
+
+
+iš viso
+
+
+iš jų darbo užmokesčiui
 
 
 
@@ -1823,15 +1694,12 @@ Europos teisės departamentas prie Lietuvos
   Respublikos Vyriausybės
 
 
- 
 1121
 
 
- 
 1121
 
 
- 
 733
 
 
@@ -1844,15 +1712,12 @@ Europos komitetas prie Lietuvos
   Respublikos Vyriausybės
 
 
- 
 6047
 
 
- 
 6047
 
 
- 
 2350
 
 
@@ -1865,19 +1730,15 @@ Kūno kultūros ir sporto departamentas prie
   Lietuvos Respublikos Vyriausybės
 
 
- 
-28888
+29738
 
 
- 
-27312
+28162
 
 
- 
-2950
+3100
 
 
- 
 1576
 
 
@@ -1887,24 +1748,16 @@ Tautinių mažumų ir išeivijos departamentas
   prie Lietuvos Respublikos Vyriausybės
 
 
- 
- 
-9328
+10056
 
 
- 
- 
-4535
+4655
 
 
- 
- 
 2110
 
 
- 
- 
-4793
+5401
 
 
 
@@ -1913,19 +1766,15 @@ Statistikos departamentas prie Lietuvos
   Respublikos Vyriausybės
 
 
- 
-21152
+21613
 
 
- 
-20667
+21128
 
 
- 
-11366
+11764
 
 
- 
 485
 
 
@@ -1935,15 +1784,12 @@ Mokestinių ginčų komisija prie Lietuvos
   Respublikos Vyriausybės
 
 
- 
 1261
 
 
- 
 1261
 
 
- 
 860
 
 
@@ -1955,15 +1801,12 @@ Mokestinių ginčų komisija prie Lietuvos
 Vyriausioji administracinių ginčų komisija
 
 
- 
 886
 
 
- 
 886
 
 
- 
 600
 
 
@@ -1973,26 +1816,18 @@ Vyriausioji administracinių ginčų komisija
 
 
 Informacinės visuomenės plėtros komitetas
-  prie   Lietuvos Respublikos Vyriausybės
+  prie Lietuvos Respublikos Vyriausybės
 
 
- 
- 
 5029
 
 
- 
- 
 3429
 
 
- 
- 
 1020
 
 
- 
- 
 1600
 
 
@@ -2015,80 +1850,16 @@ Valstybinė lošimų priežiūros komisija
 
 
 
-1 priedėlio tęsinys
-tūkst. Lt
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
-Iš jų:
-
-
- 
-
-
-
-
-Valstybės institucijos ir įstaigos
-
-
- 
-Iš viso
-
-
-paprastosioms išlaidoms 
-
-
-nepapras-
-tosioms 
-
-
-
-
- 
-
-
- 
-
-
-iš viso
-
-
-iš jų darbo
-užmokesčiui
-
-
-išlaidoms
-
-
-
-
- 
 Valstybinė tabako ir alkoholio kontrolės
   tarnyba prie Lietuvos Respublikos Vyriausybės
 
 
- 
- 
 1161
 
 
- 
- 
 1161
 
 
- 
- 
 697
 
 
@@ -2101,19 +1872,15 @@ Ryšių reguliavimo tarnyba prie Lietuvos
   Respublikos Vyriausybės
 
 
- 
 4000
 
 
- 
 2500
 
 
- 
 2350
 
 
- 
 1500
 
 
@@ -2123,19 +1890,15 @@ Viešųjų pirkimų tarnyba prie Lietuvos
   Respublikos Vyriausybės
 
 
- 
 1209
 
 
- 
 1159
 
 
- 
 755
 
 
- 
 50
 
 
@@ -2145,19 +1908,15 @@ Ginklų fondas prie Lietuvos Respublikos
   Vyriausybės
 
 
- 
 56945
 
 
- 
 15555
 
 
- 
 566
 
 
- 
 41390
 
 
@@ -2166,13 +1925,13 @@ Ginklų fondas prie Lietuvos Respublikos
 Lietuvos ekonominės plėtros agentūra
 
 
-3364
+3814
 
 
-2089
+2539
 
 
-1440
+1690
 
 
 1275
@@ -2184,20 +1943,16 @@ Lietuvos Respublikos valstybės saugumo
   departamentas
 
 
- 
 45318
 
 
- 
-29366
+29426
 
 
- 
-18733
+18793
 
 
- 
-15952
+15892
 
 
 
@@ -2206,15 +1961,12 @@ Mokslo ir studijų departamentas prie
   Švietimo ir mokslo ministerijos
 
 
- 
 2398
 
 
- 
 2398
 
 
- 
 200
 
 
@@ -2226,20 +1978,16 @@ Mokslo ir studijų departamentas prie
 Valstybinė maisto ir veterinarijos tarnyba
 
 
- 
-59248
+62248
 
 
- 
 41222
 
 
- 
 24420
 
 
- 
-18026
+21026
 
 
 
@@ -2248,15 +1996,12 @@ Valstybinė atominės energetikos saugos
   inspekcija
 
 
- 
-3898
+4263
 
 
- 
-3898
+4263
 
 
- 
 1693
 
 
@@ -2269,19 +2014,15 @@ Lietuvos Respublikos specialiųjų tyrimų
   tarnyba
 
 
- 
 13746
 
 
- 
 12674
 
 
- 
 9000
 
 
- 
 1072
 
 
@@ -2291,28 +2032,58 @@ Vyriausybinių ryšių centras prie Lietuvos
   Respublikos valstybės saugumo departamento
 
 
- 
- 
 4374
 
 
- 
- 
 3668
 
 
- 
- 
 2043
 
 
- 
- 
 706
 
 
 
 
+
+ 
+
+
+
+1 priedėlio tęsinys
+tūkst. Lt
+
+
+
+
+Pavadinimas
+
+
+Iš viso
+
+
+Iš jų:
+
+
+
+
+paprastosioms išlaidoms 
+
+
+nepapras-tosioms išlaidoms
+
+
+
+
+iš viso
+
+
+iš jų darbo užmokesčiui
+
+
+
+
  
 
 
@@ -2330,7 +2101,8 @@ Vyriausybinių ryšių centras prie Lietuvos
 
 
 
-IV. Įstaigos prie ministerijų
+IV. Įstaigos prie
+  ministerijų
 
 
  
@@ -2364,7 +2136,8 @@ IV. Įstaigos prie ministerijų
 
 
 
-Aplinkos ministerijos valdymo sritis
+Aplinkos ministerijos
+  valdymo sritis
 
 
  
@@ -2385,19 +2158,15 @@ Valstybinė saugomų teritorijų tarnyba prie
   Aplinkos ministerijos
 
 
- 
 13596
 
 
- 
 13357
 
 
- 
 7755
 
 
- 
 239
 
 
@@ -2407,15 +2176,12 @@ Lietuvos hidrometeorologijos tarnyba prie
   Aplinkos ministerijos
 
 
- 
 4460
 
 
- 
 4460
 
 
- 
 3020
 
 
@@ -2428,67 +2194,31 @@ Lietuvos geologijos tarnyba prie Aplinkos
   ministerijos
 
 
- 
 4214
 
 
- 
 4174
 
 
- 
 2156
 
 
- 
 40
 
 
 
 
-Valstybinė teritorijų planavimo ir statybos
-  inspekcija prie Aplinkos ministerijos
+Valstybinė teritorijų planavimo ir
+  statybos inspekcija prie Aplinkos ministerijos
 
 
- 
- 
-614
+864
 
 
- 
- 
-614
+864
 
 
- 
- 
-400
-
-
- 
- 
- 
- 
-
-
-
-
-1 priedėlio tęsinys
-tūkst. Lt
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
-Iš jų:
+570
 
 
  
@@ -2496,62 +2226,19 @@ Iš jų:
 
 
 
-Valstybės institucijos ir įstaigos
-
-
- 
-Iš viso
-
-
-paprastosioms išlaidoms 
-
-
-nepapras-
-tosioms 
-
-
-
-
- 
-
-
- 
-
-
-iš viso
-
-
-iš jų darbo
-užmokesčiui
-
-
-išlaidoms
-
-
-
-
- 
 Lietuvos standartizacijos departamentas
   prie Aplinkos ministerijos
 
 
- 
- 
 3213
 
 
- 
- 
 3193
 
 
- 
- 
 1460
 
 
- 
- 
 20
 
 
@@ -2561,64 +2248,40 @@ Valstybinė metrologijos tarnyba prie
   Aplinkos ministerijos
 
 
- 
 2075
 
 
- 
 1575
 
 
- 
 460
 
 
- 
 500
 
 
 
 
-Nacionalinis akreditacijos biuras prie
-  Aplinkos ministerijos
+Nacionalinis akreditacijos biuras prie Aplinkos
+  ministerijos
 
 
- 
 864
 
 
- 
 844
 
 
- 
 450
 
 
- 
 20
 
 
 
 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-Finansų ministerijos valdymo sritis
+Finansų ministerijos
+  valdymo sritis
 
 
  
@@ -2639,20 +2302,16 @@ Muitinės departamentas prie Finansų
   ministerijos
 
 
- 
-109425
+115186
 
 
- 
-87821
+91102
 
 
- 
-59321
+59853
 
 
- 
-21604
+24084
 
 
 
@@ -2674,45 +2333,19 @@ Finansų ministerijos mokymo centras
 
 
 
-Revizijų departamentas prie Finansų
-  ministerijos
-
-
- 
-7414
-
-
- 
-7366
-
-
- 
-5197
-
-
- 
-48
-
-
-
-
 Valstybinė mokesčių inspekcija prie
   Finansų ministerijos
 
 
- 
 179276
 
 
- 
 154047
 
 
- 
 76200
 
 
- 
 25229
 
 
@@ -2722,19 +2355,13 @@ Valstybės dokumentų technologinės apsaugos
   tarnyba prie Finansų ministerijos
 
 
- 
- 
-2139
+2153
 
 
- 
- 
-2139
+2153
 
 
- 
- 
-1442
+1414
 
 
  
@@ -2746,7 +2373,6 @@ Viešoji įstaiga Būsto ir urbanistikos
   plėtros fondas
 
 
- 
 4800
 
 
@@ -2756,7 +2382,6 @@ Viešoji įstaiga Būsto ir urbanistikos
  
 
 
- 
 4800
 
 
@@ -2779,24 +2404,8 @@ Viešoji įstaiga Būsto ir urbanistikos
 
 
 
-Kultūros ministerijos valdymo sritis
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
- 
+Kultūros ministerijos
+  valdymo sritis
 
 
  
@@ -2817,19 +2426,15 @@ Kultūros ministerijos Kultūros vertybių
   apsaugos departamentas
 
 
- 
 15449
 
 
- 
 15424
 
 
- 
 2400
 
 
- 
 25
 
 
@@ -2855,20 +2460,16 @@ Valstybinė kalbos inspekcija
 Nacionalinė Martyno Mažvydo biblioteka
 
 
- 
-18381
+20051
 
 
- 
-9413
+9583
 
 
- 
 5358
 
 
- 
-8968
+10468
 
 
 
@@ -2893,13 +2494,13 @@ Lietuvos aklųjų biblioteka
 Lietuvos nacionalinis muziejus
 
 
-3462
+3565
 
 
-3458
+3561
 
 
-2355
+2388
 
 
 4
@@ -2910,38 +2511,72 @@ Lietuvos nacionalinis muziejus
 Lietuvos dailės muziejus
 
 
-5754
+6154
 
 
-5604
+5804
 
 
 3612
 
 
-150
+350
 
 
 
 
-Valstybinis M. K. Čiurlionio dailės
+Nacionalinis M. K. Čiurlionio dailės
   muziejus
 
 
- 
 7690
 
 
- 
 2952
 
 
- 
 1814
 
 
- 
 4738
+
+
+
+
+
+ 
+
+
+
+1 priedėlio tęsinys
+tūkst. Lt
+
+
+
+
+Pavadinimas
+
+
+Iš viso
+
+
+Iš jų:
+
+
+
+
+paprastosioms išlaidoms 
+
+
+nepapras-tosioms išlaidoms
+
+
+
+
+iš viso
+
+
+iš jų darbo užmokesčiui
 
 
 
@@ -2950,18 +2585,15 @@ Lietuvos nacionalinis operos ir baleto
   teatras
 
 
- 
-10562
+10692
+
+
+10492
 
 
  
-10362
 
 
- 
-
-
- 
 200
 
 
@@ -2987,39 +2619,16 @@ Lietuvos nacionalinis dramos teatras
 Lietuvos nacionalinė filharmonija
 
 
-10192
+10392
 
 
-10192
-
-
- 
-
-
- 
-
-
+10392
 
 
  
 
 
  
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-1 priedėlio tęsinys
-tūkst. Lt
 
 
 
@@ -3033,44 +2642,10 @@ tūkst. Lt
  
 
 
-Iš jų:
-
-
- 
-
-
-
-
-Valstybės institucijos ir įstaigos
-
-
- 
-Iš viso
-
-
-paprastosioms išlaidoms 
-
-
-nepapras-
-tosioms 
-
-
-
-
  
 
 
  
-
-
-iš viso
-
-
-iš jų darbo
-užmokesčiui
-
-
-išlaidoms
 
 
 
@@ -3097,24 +2672,16 @@ Valstybinė darbo inspekcija prie
   Socialinės apsaugos ir darbo ministerijos
 
 
- 
- 
-6731
+6901
 
 
- 
- 
-6611
+6771
 
 
- 
- 
 4286
 
 
- 
- 
-120
+130
 
 
 
@@ -3136,7 +2703,8 @@ Valstybinė darbo inspekcija prie
 
 
 
-Susisiekimo ministerijos valdymo sritis
+Susisiekimo
+  ministerijos valdymo sritis
 
 
  
@@ -3156,13 +2724,13 @@ Susisiekimo ministerijos valdymo sritis
 Valstybinė kelių transporto inspekcija
 
 
-13779
+14519
 
 
-13429
+14169
 
 
-3085
+3225
 
 
 350
@@ -3174,19 +2742,16 @@ Valstybinė vidaus vandenų laivybos
   inspekcija
 
 
- 
+742
+
+
 712
 
 
- 
-712
-
-
- 
 480
 
 
- 
+30
 
 
 
@@ -3211,16 +2776,16 @@ Valstybinė geležinkelio inspekcija
 Transporto investicijų direkcija
 
 
-374
+1544
 
 
-324
+504
 
 
-225
+344
 
 
-50
+1040
 
 
 
@@ -3245,19 +2810,15 @@ Civilinės aviacijos administracija
 Lietuvos saugios laivybos administracija
 
 
- 
 6500
 
 
- 
 6000
 
 
- 
 2000
 
 
- 
 500
 
 
@@ -3318,27 +2879,10 @@ Sveikatos apsaugos ministerijos valdymo
 Valstybinė ligonių kasa
 
 
-424150
+426550
 
 
-424150
-
-
- 
-
-
- 
-
-
-
-
- 
-
-
- 
-
-
- 
+426550
 
 
  
@@ -3349,7 +2893,7 @@ Valstybinė ligonių kasa
 
 
 
-Teisingumo ministerijos valdymo sritis
+ 
 
 
  
@@ -3366,26 +2910,37 @@ Teisingumo ministerijos valdymo sritis
 
 
 
-Teismų departamentas prie Teisingumo
-  ministerijos (nuo 2002 m. gegužės 1 d.-Nacionalinė teismų administracija)
+Teisingumo
+  ministerijos valdymo sritis
 
 
  
- 
-551
 
 
  
- 
-551
 
 
  
- 
-368
 
 
  
+
+
+
+
+Nacionalinė teismų administracija
+
+
+1601
+
+
+851
+
+
+578
+
+
+750
 
 
 
@@ -3394,20 +2949,16 @@ Kalėjimų departamentas prie Teisingumo
   ministerijos
 
 
- 
-95183
+102985
 
 
- 
-91543
+96512
 
 
- 
-51842
+52372
 
 
- 
-3640
+6473
 
 
 
@@ -3449,19 +3000,16 @@ Lietuvos metrologijos inspekcija
 Valstybinė duomenų apsaugos inspekcija
 
 
- 
+724
+
+
 714
 
 
- 
-714
-
-
- 
 419
 
 
- 
+10
 
 
 
@@ -3470,20 +3018,16 @@ Nacionalinė vartotojų teisių apsaugos
   taryba
 
 
- 
-655
+823
 
 
- 
-615
+730
 
 
- 
-380
+450
 
 
- 
-40
+93
 
 
 
@@ -3505,7 +3049,8 @@ Nacionalinė vartotojų teisių apsaugos
 
 
 
-Ūkio ministerijos valdymo sritis
+Ūkio ministerijos
+  valdymo sritis
 
 
  
@@ -3526,19 +3071,15 @@ Valstybinis turizmo departamentas prie
   Ūkio ministerijos
 
 
- 
 2048
 
 
- 
 1748
 
 
- 
 380
 
 
- 
 300
 
 
@@ -3548,21 +3089,40 @@ Valstybinė ne maisto produktų inspekcija
   prie Ūkio ministerijos
 
 
- 
 4122
 
 
- 
 4097
 
 
- 
 2694
 
 
- 
 25
 
+
+
+
+Energetikos valstybinė inspekcija prie
+  Ūkio ministerijos
+
+
+2843
+
+
+2843
+
+
+2031
+
+
+ 
+
+
+
+
+
+ 
 
 
 
@@ -3572,74 +3132,29 @@ tūkst. Lt
 
 
 
- 
+Pavadinimas
 
 
- 
-
-
- 
+Iš viso
 
 
 Iš jų:
 
 
- 
-
-
-
-
-Valstybės institucijos ir įstaigos
-
-
- 
-Iš viso
 
 
 paprastosioms išlaidoms 
 
 
-nepapras-
-tosioms 
+nepapras-tosioms išlaidoms
 
 
-
-
- 
-
-
- 
 
 
 iš viso
 
 
-iš jų darbo
-užmokesčiui
-
-
-išlaidoms
-
-
-
-
-Energetikos valstybinė inspekcija prie
-  Ūkio ministerijos
-
-
- 
-2843
-
-
- 
-2843
-
-
- 
-2031
-
-
- 
+iš jų darbo užmokesčiui
 
 
 
@@ -3648,15 +3163,12 @@ Energetikos valstybinė inspekcija prie
   Ūkio ministerijos
 
 
- 
 849
 
 
- 
 849
 
 
- 
 570
 
 
@@ -3701,24 +3213,15 @@ Vidaus reikalų ministerijos valdymo sritis
 
 Lietuvos Respublikos Prezidento, Seimo
   Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamentas
-  prie VRM
+  prie Vidaus reikalų ministerijos
 
 
- 
- 
- 
 14966
 
 
- 
- 
- 
 14966
 
 
- 
- 
- 
 11412
 
 
@@ -3731,24 +3234,35 @@ Priešgaisrinės apsaugos ir gelbėjimo
   departamentas prie Vidaus reikalų ministerijos
 
 
- 
- 
-94819
+99184
 
 
- 
- 
-92731
+96196
 
 
- 
- 
 67082
 
 
- 
- 
-2088
+2988
+
+
+
+
+Revizijų departamentas prie Vidaus reikalų
+  ministerijos (iki 2002 m. rugpjūčio 1 d.– Revizijų departamentas prie Finansų
+  ministerijos)
+
+
+7414
+
+
+7366
+
+
+5197
+
+
+48
 
 
 
@@ -3757,54 +3271,33 @@ Valstybės sienos apsaugos tarnyba prie
   Vidaus reikalų ministerijos
 
 
- 
 144206
 
 
- 
-121131
+120731
 
 
- 
-80843
+81250
 
 
- 
-23075
+23475
 
 
 
 
 Finansinių nusikaltimų tyrimo tarnyba prie
-  Vidaus reikalų ministerijos (iki 2002 m. balandžio 1 d. - Mokesčių policijos
-  departamentas prie Vidaus reikalų ministerijos)
+  Vidaus reikalų ministerijos
 
 
- 
- 
- 
- 
-9218
+9165
 
 
- 
- 
- 
- 
-9176
+9123
 
 
- 
- 
- 
- 
-6600
+6557
 
 
- 
- 
- 
- 
 42
 
 
@@ -3814,20 +3307,16 @@ Policijos departamentas prie Vidaus
   reikalų ministerijos
 
 
- 
-423171
+425824
 
 
- 
-414240
+416393
 
 
- 
-291459
+291502
 
 
- 
-8931
+9431
 
 
 
@@ -3836,11 +3325,9 @@ Viešoji įstaiga Valstybės ir savivaldybių
   tarnautojų mokymo centras „Dainava“
 
 
- 
 190
 
 
- 
 190
 
 
@@ -3855,15 +3342,13 @@ Viešoji įstaiga Valstybės ir savivaldybių
 Lietuvos viešojo administravimo institutas
 
 
- 
+1000
+
+
 1000
 
 
  
-1000
-
-
- 
 
 
  
@@ -3888,7 +3373,8 @@ Lietuvos viešojo administravimo institutas
 
 
 
-Žemės ūkio ministerijos valdymo sritis
+Žemės ūkio
+  ministerijos valdymo sritis
 
 
  
@@ -3909,23 +3395,15 @@ Lietuvos viešojo administravimo institutas
   Europos Sąjungą departamentas prie Žemės ūkio ministerijos
 
 
- 
- 
 1230
 
 
- 
- 
 1215
 
 
- 
- 
 826
 
 
- 
- 
 15
 
 
@@ -3935,19 +3413,15 @@ Valstybinė sėklų ir grūdų tarnyba prie
   Žemės ūkio ministerijos
 
 
- 
 2937
 
 
- 
 2912
 
 
- 
 2053
 
 
- 
 25
 
 
@@ -3957,23 +3431,15 @@ Valstybinė gyvulių veislininkystės
   priežiūros tarnyba prie Žemės ūkio ministerijos
 
 
- 
- 
 1403
 
 
- 
- 
 1319
 
 
- 
- 
 914
 
 
- 
- 
 84
 
 
@@ -3983,19 +3449,15 @@ Valstybinė gyvulių veislininkystės
   ūkio ministerijos
 
 
- 
 911
 
 
- 
 886
 
 
- 
 532
 
 
- 
 25
 
 
@@ -4004,21 +3466,40 @@ Valstybinė gyvulių veislininkystės
 Lietuvos Respublikos žemės ūkio rūmai
 
 
- 
+1765
+
+
 1765
 
 
  
-1765
-
-
- 
- 
- 
 
 
  
 
+
+
+
+Nacionalinė mokėjimo agentūra prie Žemės
+  ūkio ministerijos
+
+
+5478
+
+
+3250
+
+
+2132
+
+
+2228
+
+
+
+
+
+ 
 
 
 
@@ -4028,75 +3509,29 @@ tūkst. Lt
 
 
 
- 
+Pavadinimas
 
 
- 
-
-
- 
+Iš viso
 
 
 Iš jų:
 
 
- 
-
-
-
-
-Valstybės institucijos ir įstaigos
-
-
- 
-Iš viso
 
 
 paprastosioms išlaidoms 
 
 
-nepapras-
-tosioms 
+nepapras-tosioms išlaidoms
 
 
-
-
- 
-
-
- 
 
 
 iš viso
 
 
-iš jų darbo
-užmokesčiui
-
-
-išlaidoms
-
-
-
-
-Nacionalinė mokėjimo agentūra prie Žemės
-  ūkio ministerijos
-
-
- 
-4205
-
-
- 
-2180
-
-
- 
-1332
-
-
- 
-2025
+iš jų darbo užmokesčiui
 
 
 
@@ -4105,11 +3540,9 @@ Nacionalinė mokėjimo agentūra prie Žemės
   ir registro valstybės įmonė
 
 
- 
 4138
 
 
- 
 4138
 
 
@@ -4125,20 +3558,16 @@ Nacionalinė žemės tarnyba prie Žemės ūkio
   ministerijos
 
 
- 
-33462
+36038
 
 
- 
-28395
+28971
 
 
- 
 1814
 
 
- 
-5067
+7067
 
 
 
@@ -4160,7 +3589,8 @@ Nacionalinė žemės tarnyba prie Žemės ūkio
 
 
 
-V. Teisėsaugos valdžios institucijos
+V. Teisėsaugos
+  valdžios institucijos
 
 
  
@@ -4197,16 +3627,16 @@ Lietuvos Aukščiausiasis Teismas
 Generalinė prokuratūra
 
 
-65106
+66031
 
 
-64892
+65717
 
 
-45000
+45330
 
 
-214
+314
 
 
 
@@ -4214,24 +3644,18 @@ Generalinė prokuratūra
 Teismai
 
 
-97995
+99375
 
 
-97995
+99375
 
 
-70109
-
-
- 
-
-
+70239
 
 
  
 
 
- 
 
 
  
@@ -4243,9 +3667,16 @@ Teismai
  
 
 
+ 
 
 
-VI. Švietimo, kultūros ir kitos įstaigos bei organizacijos
+ 
+
+
+
+
+VI. Švietimo, kultūros ir kitos įstaigos
+  bei organizacijos
 
 
  
@@ -4317,11 +3748,9 @@ Viešoji įstaiga Spaudos, radijo ir
   televizijos rėmimo fondas
 
 
- 
 2844
 
 
- 
 2844
 
 
@@ -4354,15 +3783,12 @@ Lietuvos smulkaus ir vidutinio verslo
   plėtros agentūra
 
 
- 
 1637
 
 
- 
 1637
 
 
- 
 480
 
 
@@ -4375,11 +3801,9 @@ Viešoji įstaiga Nacionalinė regionų
   plėtros agentūra
 
 
- 
 185
 
 
- 
 185
 
 
@@ -4395,11 +3819,9 @@ Lietuvos prekybos, pramonės ir amatų rūmų
   asociacija
 
 
- 
 186
 
 
- 
 186
 
 
@@ -4415,15 +3837,12 @@ Komisija privalomam registruoti turtui
   įvertinti
 
 
- 
 181
 
 
- 
 181
 
 
- 
 134
 
 
@@ -4436,19 +3855,15 @@ Lietuvos gyventojų genocido ir
   rezistencijos tyrimo centras
 
 
- 
-5925
+5975
 
 
- 
-3199
+3249
 
 
- 
 2118
 
 
- 
 2726
 
 
@@ -4458,18 +3873,12 @@ Lietuvos gyventojų genocido ir
   rezistencijos tyrimo, aukų rėmimo ir atminimo įamžinimo fondas
 
 
- 
- 
 431
 
 
- 
- 
 431
 
 
- 
- 
 45
 
 
@@ -4482,18 +3891,15 @@ Viešoji įstaiga Lietuvos nacionalinis
   radijas ir televizija
 
 
- 
-35507
+36507
+
+
+35754
 
 
  
-34754
 
 
- 
-
-
- 
 753
 
 
@@ -4519,77 +3925,16 @@ Lietuvos šaulių sąjunga
 Valstybės įmonė Poilsio namai „Baltija“
 
 
- 
 1094
 
 
- 
 1094
 
 
- 
 267
- 
 
 
  
-
-
-
-
-1 priedėlio tęsinys
-tūkst. Lt
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
-Iš jų:
-
-
- 
-
-
-
-
-Valstybės institucijos ir įstaigos
-
-
- 
-Iš viso
-
-
-paprastosioms išlaidoms 
-
-
-nepapras-
-tosioms 
-
-
-
-
- 
-
-
- 
-
-
-iš viso
-
-
-iš jų darbo
-užmokesčiui
-
-
-išlaidoms
 
 
 
@@ -4598,19 +3943,30 @@ Lietuvos tūkstantmečio minėjimo direkcija
   prie Lietuvos Respublikos Prezidento kanceliarijos
 
 
- 
- 
-512
+588
 
 
- 
- 
-512
+588
 
 
- 
- 
 135
+
+
+ 
+
+
+
+
+Lietuvos vyskupų konferencija
+
+
+900
+
+
+900
+
+
+ 
 
 
  
@@ -4639,15 +3995,12 @@ Lietuvių grįžimo į Tėvynę informacijos
   centras
 
 
- 
-118
+138
 
 
- 
-118
+138
 
 
- 
 79
 
 
@@ -4656,19 +4009,52 @@ Lietuvių grįžimo į Tėvynę informacijos
 
 
 
+1 priedėlio tęsinys
+tūkst. Lt
+
+
+
+
+Pavadinimas
+
+
+Iš viso
+
+
+Iš jų:
+
+
+
+
+paprastosioms išlaidoms 
+
+
+nepapras-tosioms išlaidoms
+
+
+
+
+iš viso
+
+
+iš jų darbo užmokesčiui
+
+
+
+
 Mokslas ir studijos
 
 
-632236
+189880
 
 
-597638
+181380
 
 
-78970
+ 73092
 
 
-34598
+8500
 
 
 
@@ -4676,13 +4062,13 @@ Mokslas ir studijos
 iš jų: mokslo institutai
 
 
-129565
+70184
 
 
-121565
+62184
 
 
-78970
+53878
 
 
 8000
@@ -4707,17 +4093,251 @@ kunigų seminarijos
 
 
 
+Vilniaus universitetas
+
+
+90638
+
+
+84013
+
+
+ 
+
+
+6625
+
+
+
+
+Vytauto Didžiojo universitetas
+
+
+24038
+
+
+20921
+
+
+ 
+
+
+3117
+
+
+
+
+Kauno technologijos universitetas
+
+
+82953
+
+
+81308
+
+
+239
+
+
+1645
+
+
+
+
+Vilniaus Gedimino technikos universitetas
+
+
+48705
+
+
+45146
+
+
+ 
+
+
+3559
+
+
+
+
+Klaipėdos universitetas
+
+
+24158
+
+
+22425
+
+
+ 
+
+
+1733
+
+
+
+
+Lietuvos žemės ūkio universitetas
+
+
+24089
+
+
+22565
+
+
+ 
+
+
+1524
+
+
+
+
+Lietuvos veterinarijos akademija
+
+
+8131
+
+
+8072
+
+
+ 
+
+
+59
+
+
+
+
+Lietuvos teisės universitetas
+
+
+24937
+
+
+23130
+
+
+ 
+
+
+1807
+
+
+
+
+Kauno medicinos universitetas
+
+
+42863
+
+
+40562
+
+
+5372
+
+
+2301
+
+
+
+
+Vilniaus dailės akademija
+
+
+13690
+
+
+10684
+
+
+ 
+
+
+3006
+
+
+
+
+Vilniaus pedagoginis universitetas
+
+
+26842
+
+
+26552
+
+
+ 
+
+
+290
+
+
+
+
+Lietuvos kūno kultūros universitetas
+
+
+8149
+
+
+8092
+
+
+ 
+
+
+57
+
+
+
+
+Šiaulių universitetas
+
+
+20003
+
+
+19344
+
+
+ 
+
+
+659
+
+
+
+
+Lietuvos muzikos akademija
+
+
+11787
+
+
+10994
+
+
+ 
+
+
+793
+
+
+
+
 Viešoji įstaiga Lietuvos Respublikos
   audito, apskaitos ir turto vertinimo institutas
 
 
- 
- 
 82
 
 
- 
- 
 82
 
 
@@ -4733,11 +4353,9 @@ Viešoji įstaiga Lietuvos Respublikos
   apskaitos institutas
 
 
- 
 195
 
 
- 
 195
 
 
@@ -4753,20 +4371,16 @@ Lietuvos invalidų reikalų taryba prie
   Lietuvos Respublikos Vyriausybės
 
 
- 
-21121
+22873
 
 
- 
-19127
+19627
 
 
- 
 157
 
 
- 
-1994
+3246
 
 
 
@@ -4775,21 +4389,12 @@ Tarptautinės komisijos nacių ir sovietinio
   okupacinių režimų nusikaltimams Lietuvoje įvertinti sekretoriatas
 
 
- 
- 
- 
 369
 
 
- 
- 
- 
 369
 
 
- 
- 
- 
 147
 
 
@@ -4802,15 +4407,12 @@ Viešoji įstaiga Vertimo, dokumentacijos ir
   informacijos centras
 
 
- 
 2040
 
 
- 
 2040
 
 
- 
 1780
 
 
@@ -4836,17 +4438,13 @@ Lietuvos Raudonojo Kryžiaus draugija
 
 
 
-Tradicinių Lietuvos religinių bendruomenių
-  ir bendrijų maldos namams atstatyti ir kitoms reikmėms
+Tradicinių religinių bendruomenių ir
+  bendrijų maldos namams atstatyti ir kitoms reikmėms
 
 
- 
- 
 2879
 
 
- 
- 
 2879
 
 
@@ -4862,12 +4460,10 @@ Viešoji įstaiga Nusikalstamumo prevencijos
   Lietuvoje centras
 
 
- 
-283
+343
 
 
- 
-283
+343
 
 
  
@@ -4882,12 +4478,10 @@ Viešoji įstaiga Centrinė finansų ir
   kontraktų agentūra
 
 
- 
-1007
+1017
 
 
- 
-1007
+1017
 
 
  
@@ -4902,46 +4496,10 @@ Dotacija politinėms partijoms ir
   politinėms organizacijoms
 
 
- 
 483
 
 
- 
 483
-
-
- 
-
-
- 
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
- 
-
-
- 
-
-
- 
 
 
  
@@ -4955,108 +4513,47 @@ Dotacija politinėms partijoms ir
 IŠ VISO:
 
 
-10003411
+10060331
 
 
-9157593
+9196673
 
 
-1871822
+1883221
 
 
-845818
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-Asignavimai viršija pajamas
-
-
-1135388
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-
+863658
 
 
 
 Priedėlio pakeitimai:
 Nr. IX-851,
 2002-04-18, Žin., 2002, Nr. 42-1558 (2002-04-24)
+Nr. IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
  
 
 
-                                                                                                Lietuvos
-Respublikos
+Lietuvos Respublikos
                                                                                                 2001
 m. gruodžio 13 d.
                                                                                                 įstatymo
 Nr. IX-643
+                                                                                                (Lietuvos
+Respublikos
+                                                                                                2002
+m. liepos 4 d.
+                                                                                                įstatymo
+Nr. IX-1031
+                                                                                                redakcija)
                                                                                                 2
 priedėlis
- 
-Lietuvos Respublikos
-2002 metų valstybės biudžeto asignavimai
- 
-                                                                                                                        tūkst.
-Lt
+LIETUVOS RESPUBLIKOS 2002 METŲ VALSTYBĖS
+BIUDŽETO ASIGNAVIMAI
 
 
 
- 
-
-
- 
-
-
-Iš jų:
+tūkst. Lt
 
 
 
@@ -5067,29 +4564,23 @@ Pavadinimas
 Iš viso
 
 
-paprastosioms 
-išlaidoms 
-
-
-nepapras-tosioms 
+Iš jų:
 
 
 
 
- 
+paprastosioms išlaidoms 
 
 
- 
+nepapras-tosioms išlaidoms
+
+
 
 
 iš viso
 
 
-iš jų darbo 
-užmokesčiui
-
-
-išlaidoms
+iš jų darbo užmokesčiui
 
 
 
@@ -5097,16 +4588,16 @@ išlaidoms
 Bendrosios valstybės paslaugos
 
 
-730506
+746058
 
 
-666792
+673441
 
 
-365036
+368235
 
 
-63714
+72617
 
 
 
@@ -5131,16 +4622,16 @@ iš jų:
 valstybės valdymo išlaidos
 
 
-213465
+218086
 
 
-185721
+189869
 
 
-105627
+108268
 
 
-27744
+28217
 
 
 
@@ -5148,13 +4639,13 @@ valstybės valdymo išlaidos
 fundamentalūs moksliniai tyrimai
 
 
-173031
+173081
 
 
-165031
+165081
 
 
-78970
+78703
 
 
 8000
@@ -5162,47 +4653,30 @@ fundamentalūs moksliniai tyrimai
 
 
 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
 Krašto apsauga
 
 
-855181
+854860
 
 
-691335
+690174
 
 
-302737
+302704
 
 
-163846
+164686
 
 
 
 
-iš jų  Krašto apsaugos ministerija
+iš jų Krašto apsaugos ministerija
 
 
-629421
+629291
 
 
-528885
+528755
 
 
 212019
@@ -5213,57 +4687,19 @@ iš jų  Krašto apsaugos ministerija
 
 
 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
 Viešoji tvarka ir visuomenės apsauga
 
 
- 
-980608
+1007910
 
 
- 
-914447
+933246
 
 
- 
-619175
+622628
 
 
- 
-66161
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
+74664
 
 
 
@@ -5271,33 +4707,16 @@ Viešoji tvarka ir visuomenės apsauga
 Švietimas
 
 
-1084860
+1102461
 
 
-1017879
+1027046
 
 
-272813
+273025
 
 
-66981
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
+75415
 
 
 
@@ -5305,33 +4724,16 @@ Viešoji tvarka ir visuomenės apsauga
 Sveikatos priežiūra
 
 
-599629
+609720
 
 
-537667
+544417
 
 
-49247
+49285
 
 
-61962
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
+65303
 
 
 
@@ -5339,33 +4741,16 @@ Sveikatos priežiūra
 Socialinė apsauga, globa ir rūpyba
 
 
-652831
+658708
 
 
-640715
+645240
 
 
-59599
+60109
 
 
-12116
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
+13468
 
 
 
@@ -5374,37 +4759,16 @@ Sveikatingumas (sportas), rekreacija,
   kultūra
 
 
- 
-251897
+259209
 
 
- 
-215581
+220305
 
 
- 
-40418
+40668
 
 
- 
-36316
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
+38904
 
 
 
@@ -5412,30 +4776,13 @@ Sveikatingumas (sportas), rekreacija,
 Kuro ir energijos tiekimo paslaugos
 
 
-6741
+7106
 
 
-6741
+7106
 
 
 3724
-
-
- 
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
 
 
  
@@ -5447,37 +4794,16 @@ Kuro ir energijos tiekimo paslaugos
   veterinarija
 
 
- 
-606747
+628497
 
 
- 
-566465
+582582
 
 
- 
-69678
+70788
 
 
- 
-40282
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
+45915
 
 
 
@@ -5486,37 +4812,16 @@ Mineralinių išteklių gavyba (išskyrus
   kurą), pramonė ir statyba
 
 
- 
-74869
+75249
 
 
- 
-47620
+47820
 
 
- 
-9198
+9418
 
 
- 
-27249
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
+27429
 
 
 
@@ -5524,16 +4829,16 @@ Mineralinių išteklių gavyba (išskyrus
 Transportas ir ryšiai
 
 
-763986
+766716
 
 
-554710
+556330
 
 
-17301
+17560
 
 
-209276
+210386
 
 
 
@@ -5555,127 +4860,37 @@ iš jų kelių programoms
 
 
 
-2 priedėlio tęsinys
-tūkst. Lt
-
-
-
-
- 
-
-
- 
-
-
-Iš jų:
-
-
-
-
- 
-Pavadinimas
-
-
- 
-Iš viso
-
-
-paprastosioms 
-išlaidoms 
-
-
-nepapras-tosioms išlaidoms
-
-
-
-
- 
-
-
- 
-
-
-iš viso
-
-
-iš jų darbo
-užmokesčiui
-
-
- 
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
 Kita ekonominė veikla
 
 
-91342
+90128
 
 
-78333
+82856
 
 
-39041
+40403
 
 
-13009
-
-
-
-
-iš jų   Aplinkos ministerija ir jos
-  valdymo sritis
-
-
- 
-42547
-
-
- 
-40731
-
-
- 
-19490
-
-
- 
-1816
+7272
 
 
 
 
- 
+iš jų Aplinkos ministerija ir jos valdymo
+  sritis
 
 
- 
+46199
 
 
- 
+44303
 
 
- 
+20630
 
 
- 
+1896
 
 
 
@@ -5684,20 +4899,16 @@ Išlaidos, nepriskirtinos pagrindinių
   funkcijų grupėms
 
 
- 
-3304214
+3253709
 
 
- 
-3219308
+3186110
 
 
- 
-23855
+24674
 
 
- 
-84906
+67599
 
 
 
@@ -5722,19 +4933,16 @@ iš jų:
 valstybės skolos aptarnavimo išlaidos
 
 
- 
-1107155
+1041562
+
+
+983096
 
 
  
-1031382
 
 
- 
-
-
- 
-75773
+58466
 
 
 
@@ -5742,29 +4950,10 @@ valstybės skolos aptarnavimo išlaidos
 dotacijos ir kompensacija savivaldybėms
 
 
- 
-2033136
+2042165
 
 
- 
-2033136
-
-
- 
-
-
- 
-
-
-
-
- 
-
-
- 
-
-
- 
+2042165
 
 
  
@@ -5778,32 +4967,24 @@ dotacijos ir kompensacija savivaldybėms
 IŠ VISO:
 
 
-10003411
+10060331
 
 
-9157593
+9196673
 
 
-1871822
+1883221
 
 
-845818
-
-
-
-
-
-
-
-
+863658
 
 
 
 Priedėlio pakeitimai:
 Nr. IX-851,
 2002-04-18, Žin., 2002, Nr. 42-1558 (2002-04-24)
- 
- 
+Nr. IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
  
 
 
@@ -5822,8 +5003,8 @@ RESPUBLIKOS 2002 METŲ IŠ VALSTYBĖS BIUDŽETO IŠLAIKOMŲ ĮSTAIGŲ IR VALSTYB
 MOKSLO BEI STUDIJŲ INSTITUCIJŲ PAJAMŲ UŽ TEIKIAMAS PASLAUGAS 
 ĮMOKOS Į VALSTYBĖS BIUDŽETĄ
  
-                                                    
-                                                         tūkst. Lt
+                                                                                                             
+tūkst. Lt
 
 
 
@@ -5863,7 +5044,7 @@ Kultūros ministerija
 Socialinės apsaugos ir darbo ministerija
 
 
-299
+257
 
 
 
@@ -5904,14 +5085,6 @@ Teisingumo ministerija
 
 
 300
-
-
-
-
-Užsienio reikalų ministerija
-
-
-1200
 
 
 
@@ -6003,8 +5176,7 @@ Telšių apskrities viršininko
 
 
 
-Utenos apskrities viršininko
-  administracija
+Utenos apskrities viršininko administracija
 
 
 1955
@@ -6128,7 +5300,7 @@ Muitinės departamentas prie Finansų
   ministerijos
 
 
-6600
+7400
 
 
 
@@ -6250,6 +5422,11 @@ Kalėjimų departamentas prie Teisingumo
 
 1579
 
+
+
+
+
+ 
 
 
 
@@ -6419,7 +5596,7 @@ Mokslo ir studijų institucijos
 Iš viso:
 
 
-356318
+355876
 
 
 
@@ -6428,6 +5605,9 @@ Iš viso:
 Iš šių lėšų 1000 tūkst. Lt skirti bendroms biudžeto reikmėms.
 **  
 Iš šių lėšų 8000 tūkst. Lt skirti bendroms biudžeto reikmėms.
+Priedėlio pakeitimai:
+Nr. IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
  
 
 
@@ -6452,8 +5632,7 @@ tūkst. Lt
 
 
 
-Asignavimų valdytojų
-  pavadinimas
+Asignavimų valdytojų pavadinimas
 
 
 Iš viso
@@ -6519,7 +5698,7 @@ Lietuvos
   automobilių kelių direkcija
 
 
-294996
+321996**
 
 
 
@@ -6528,7 +5707,7 @@ Iš
   viso:
 
 
-407112
+434112
 
 
 
@@ -6536,6 +5715,11 @@ Iš
  
 *
 Iš šių lėšų 3500 tūkst. Lt skirti bendroms biudžeto reikmėms.
+**
+Iš šių lėšų 27000 tūkst. Lt skirti bendroms biudžeto reikmėms.
+Priedėlio pakeitimai:
+Nr. IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
  
 
 
@@ -6543,25 +5727,23 @@ Iš šių lėšų 3500 tūkst. Lt skirti bendroms biudžeto reikmėms.
 Respublikos
                                                                                                 2001
 m. gruodžio 13 d.
-                                                                                    įstatymo
+                                                                                                įstatymo
 Nr. IX-643
-                                                                                    5
+                                                                                                (Lietuvos
+Respublikos
+                                                                                                2002
+m. liepos 4 d.
+                                                                                                įstatymo
+Nr. IX-1031
+                                                                                                redakcija)
+                                                                                                5
 priedėlis
- 
 ASIGNAVIMŲ TEISMAMS PASKIRSTYMAS
  
-                                                                          
-            tūkst.Lt
 
 
 
- 
-
-
- 
-
-
-Iš jų
+tūkst. Lt
 
 
 
@@ -6572,29 +5754,23 @@ Asignavimų valdytojų pavadinimas
 Iš viso
 
 
- paprastosioms 
-išlaidoms 
-
-
-nepaprasto-sioms 
+Iš jų:
 
 
 
 
- 
+ paprastosioms išlaidoms 
 
 
- 
+nepapras-tosioms išlaidoms 
+
+
 
 
 iš viso
 
 
-iš jų darbo
-užmokesčiui
-
-
-išlaidoms
+iš jų darbo užmokesčiui
 
 
 
@@ -6619,10 +5795,10 @@ Lietuvos apeliacinis teismas
 Vilniaus apygardos teismas
 
 
-7908
+8108
 
 
-7908
+8108
 
 
 5876
@@ -6636,10 +5812,10 @@ Vilniaus apygardos teismas
 Kauno apygardos teismas
 
 
-5642
+5692
 
 
-5642
+5692
 
 
 4195
@@ -6670,10 +5846,10 @@ Klaipėdos apygardos teismas
 Šiaulių apygardos teismas
 
 
-3156
+3166
 
 
-3156
+3166
 
 
 2324
@@ -6687,10 +5863,10 @@ Klaipėdos apygardos teismas
 Panevėžio apygardos teismas
 
 
-3276
+3286
 
 
-3276
+3286
 
 
 2413
@@ -6704,10 +5880,10 @@ Panevėžio apygardos teismas
 Vilniaus miesto 1 apylinkės teismas
 
 
-4711
+4796
 
 
-4711
+4796
 
 
 3339
@@ -6721,10 +5897,10 @@ Vilniaus miesto 1 apylinkės teismas
 Vilniaus miesto 2 apylinkės teismas
 
 
-2904
+2984
 
 
-2904
+2984
 
 
 2093
@@ -6738,13 +5914,13 @@ Vilniaus miesto 2 apylinkės teismas
 Vilniaus miesto 3 apylinkės teismas
 
 
-2193
+2263
 
 
-2193
+2263
 
 
-1565
+1605
 
 
  
@@ -6755,10 +5931,10 @@ Vilniaus miesto 3 apylinkės teismas
 Vilniaus miesto 4 apylinkės teismas
 
 
-720
+810
 
 
-720
+810
 
 
 484
@@ -6772,10 +5948,10 @@ Vilniaus miesto 4 apylinkės teismas
 Kauno miesto apylinkės teismas
 
 
-6114
+6124
 
 
-6114
+6124
 
 
 4328
@@ -6789,10 +5965,10 @@ Kauno miesto apylinkės teismas
 Klaipėdos miesto apylinkės teismas
 
 
-4363
+4373
 
 
-4363
+4373
 
 
 3059
@@ -6806,10 +5982,10 @@ Klaipėdos miesto apylinkės teismas
 Šiaulių miesto apylinkės teismas
 
 
-2248
+2268
 
 
-2248
+2268
 
 
 1626
@@ -6823,10 +5999,10 @@ Klaipėdos miesto apylinkės teismas
 Panevėžio miesto apylinkės teismas
 
 
-2671
+2721
 
 
-2671
+2721
 
 
 1907
@@ -6840,10 +6016,10 @@ Panevėžio miesto apylinkės teismas
 Druskininkų miesto apylinkės teismas
 
 
-537
+547
 
 
-537
+547
 
 
 369
@@ -6857,10 +6033,10 @@ Druskininkų miesto apylinkės teismas
 Palangos miesto apylinkės teismas
 
 
-528
+538
 
 
-528
+538
 
 
 367
@@ -6891,10 +6067,10 @@ Akmenės rajono apylinkės teismas
 Alytaus rajono apylinkės teismas
 
 
-1751
+1771
 
 
-1751
+1771
 
 
 1259
@@ -6939,13 +6115,46 @@ Biržų rajono apylinkės teismas
 
 
 
+5 priedėlio tęsinys
+tūkst. Lt
+
+
+
+
+Asignavimų valdytojų pavadinimas
+
+
+Iš viso
+
+
+Iš jų:
+
+
+
+
+ paprastosioms išlaidoms 
+
+
+nepapras-tosioms išlaidoms 
+
+
+
+
+iš viso
+
+
+iš jų darbo užmokesčiui
+
+
+
+
 Ignalinos rajono apylinkės teismas
 
 
-508
+518
 
 
-508
+518
 
 
 362
@@ -6959,10 +6168,10 @@ Ignalinos rajono apylinkės teismas
 Jonavos rajono apylinkės teismas
 
 
-791
+801
 
 
-791
+801
 
 
 554
@@ -6973,63 +6182,13 @@ Jonavos rajono apylinkės teismas
 
 
 
-5 priedėlio tęsinys
-tūkst. Lt
-
-
-
-
- 
-
-
- 
-
-
-Iš jų
-
-
-
-
-Asignavimų valdytojų pavadinimas
-
-
-Iš viso
-
-
- paprastosioms 
-išlaidoms 
-
-
-nepaprasto-sioms 
-
-
-
-
- 
-
-
- 
-
-
-iš viso
-
-
-iš jų darbo
-užmokesčiui
-
-
-išlaidoms
-
-
-
-
 Joniškio rajono apylinkės teismas
 
 
-535
+545
 
 
-535
+545
 
 
 370
@@ -7043,10 +6202,10 @@ Joniškio rajono apylinkės teismas
 Jurbarko rajono apylinkės teismas
 
 
-664
+679
 
 
-664
+679
 
 
 472
@@ -7060,10 +6219,10 @@ Jurbarko rajono apylinkės teismas
 Kaišiadorių rajono apylinkės teismas
 
 
-815
+820
 
 
-815
+820
 
 
 571
@@ -7077,10 +6236,10 @@ Kaišiadorių rajono apylinkės teismas
 Kauno rajono apylinkės teismas
 
 
-1171
+1191
 
 
-1171
+1191
 
 
 787
@@ -7094,13 +6253,13 @@ Kauno rajono apylinkės teismas
 Kėdainių rajono apylinkės teismas
 
 
-923
+973
 
 
-923
+973
 
 
-662
+672
 
 
  
@@ -7111,10 +6270,10 @@ Kėdainių rajono apylinkės teismas
 Kelmės rajono apylinkės teismas
 
 
-574
+579
 
 
-574
+579
 
 
 414
@@ -7128,10 +6287,10 @@ Kelmės rajono apylinkės teismas
 Klaipėdos rajono apylinkės teismas
 
 
-689
+709
 
 
-689
+709
 
 
 490
@@ -7162,10 +6321,10 @@ Kretingos rajono apylinkės teismas
 Kupiškio rajono apylinkės teismas
 
 
-523
+533
 
 
-523
+533
 
 
 368
@@ -7179,10 +6338,10 @@ Kupiškio rajono apylinkės teismas
 Lazdijų rajono apylinkės teismas
 
 
-866
+871
 
 
-866
+871
 
 
 597
@@ -7196,15 +6355,12 @@ Lazdijų rajono apylinkės teismas
 Marijampolės rajono apylinkės teismas
 
 
- 
-1644
+1654
 
 
- 
-1644
+1654
 
 
- 
 1157
 
 
@@ -7216,10 +6372,10 @@ Marijampolės rajono apylinkės teismas
 Mažeikių rajono apylinkės teismas
 
 
-782
+812
 
 
-782
+812
 
 
 538
@@ -7233,10 +6389,10 @@ Mažeikių rajono apylinkės teismas
 Molėtų rajono apylinkės teismas
 
 
-609
+624
 
 
-609
+624
 
 
 424
@@ -7267,10 +6423,10 @@ Pakruojo rajono apylinkės teismas
 Pasvalio rajono apylinkės teismas
 
 
-488
+503
 
 
-488
+503
 
 
 334
@@ -7284,10 +6440,10 @@ Pasvalio rajono apylinkės teismas
 Plungės rajono apylinkės teismas
 
 
-637
+652
 
 
-637
+652
 
 
 442
@@ -7301,10 +6457,10 @@ Plungės rajono apylinkės teismas
 Prienų rajono apylinkės teismas
 
 
-546
+556
 
 
-546
+556
 
 
 382
@@ -7335,10 +6491,10 @@ Radviliškio rajono apylinkės teismas
 Raseinių rajono apylinkės teismas
 
 
-628
+648
 
 
-628
+648
 
 
 438
@@ -7352,10 +6508,10 @@ Raseinių rajono apylinkės teismas
 Rokiškio rajono apylinkės teismas
 
 
-738
+748
 
 
-738
+748
 
 
 504
@@ -7386,10 +6542,10 @@ Skuodo rajono apylinkės teismas
 Šakių rajono apylinkės teismas
 
 
-650
+660
 
 
-650
+660
 
 
 456
@@ -7403,10 +6559,10 @@ Skuodo rajono apylinkės teismas
 Šalčininkų rajono apylinkės teismas
 
 
-734
+754
 
 
-734
+754
 
 
 507
@@ -7420,10 +6576,10 @@ Skuodo rajono apylinkės teismas
 Šiaulių rajono apylinkės teismas
 
 
-870
+880
 
 
-870
+880
 
 
 621
@@ -7457,46 +6613,29 @@ tūkst. Lt
 
 
 
- 
-
-
- 
-
-
-Iš jų
-
-
-
-
 Asignavimų valdytojų pavadinimas
 
 
 Iš viso
 
 
- paprastosioms 
-išlaidoms 
-
-
-nepaprasto-sioms 
+Iš jų:
 
 
 
 
- 
+ paprastosioms išlaidoms 
 
 
- 
+nepapras-tosioms išlaidoms 
+
+
 
 
 iš viso
 
 
-iš jų darbo
-užmokesčiui
-
-
-išlaidoms
+iš jų darbo užmokesčiui
 
 
 
@@ -7504,10 +6643,10 @@ išlaidoms
 Šilutės rajono apylinkės teismas
 
 
-1033
+1073
 
 
-1033
+1073
 
 
 715
@@ -7521,10 +6660,10 @@ išlaidoms
 Širvintų rajono apylinkės teismas
 
 
-464
+474
 
 
-464
+474
 
 
 332
@@ -7538,10 +6677,10 @@ išlaidoms
 Švenčionių rajono apylinkės teismas
 
 
-510
+530
 
 
-510
+530
 
 
 350
@@ -7555,10 +6694,10 @@ išlaidoms
 Tauragės rajono apylinkės teismas
 
 
-882
+907
 
 
-882
+907
 
 
 629
@@ -7572,10 +6711,10 @@ Tauragės rajono apylinkės teismas
 Telšių rajono apylinkės teismas
 
 
-718
+743
 
 
-718
+743
 
 
 513
@@ -7589,10 +6728,10 @@ Telšių rajono apylinkės teismas
 Trakų rajono apylinkės teismas
 
 
-937
+957
 
 
-937
+957
 
 
 671
@@ -7606,10 +6745,10 @@ Trakų rajono apylinkės teismas
 Ukmergės rajono apylinkės teismas
 
 
-843
+853
 
 
-843
+853
 
 
 607
@@ -7623,10 +6762,10 @@ Ukmergės rajono apylinkės teismas
 Utenos rajono apylinkės teismas
 
 
-845
+855
 
 
-845
+855
 
 
 609
@@ -7640,10 +6779,10 @@ Utenos rajono apylinkės teismas
 Varėnos rajono apylinkės teismas
 
 
-600
+605
 
 
-600
+605
 
 
 425
@@ -7657,13 +6796,13 @@ Varėnos rajono apylinkės teismas
 Vilkaviškio rajono apylinkės teismas
 
 
-1085
+1105
 
 
-1085
+1105
 
 
-550
+560
 
 
  
@@ -7674,10 +6813,10 @@ Vilkaviškio rajono apylinkės teismas
 Vilniaus rajono apylinkės teismas
 
 
-1237
+1267
 
 
-1237
+1267
 
 
 858
@@ -7708,10 +6847,10 @@ Visagino miesto apylinkės teismas
 Zarasų rajono apylinkės teismas
 
 
-509
+519
 
 
-509
+519
 
 
 355
@@ -7726,15 +6865,12 @@ Lietuvos vyriausiasis administracinis
   teismas
 
 
- 
 2723
 
 
- 
 2723
 
 
- 
 1928
 
 
@@ -7746,15 +6882,12 @@ Lietuvos vyriausiasis administracinis
 Vilniaus apygardos administracinis teismas
 
 
- 
-2674
+2694
 
 
- 
-2674
+2694
 
 
- 
 1983
 
 
@@ -7766,15 +6899,12 @@ Vilniaus apygardos administracinis teismas
 Kauno apygardos administracinis teismas
 
 
- 
 1390
 
 
- 
 1390
 
 
- 
 1036
 
 
@@ -7787,16 +6917,13 @@ Klaipėdos apygardos administracinis
   teismas
 
 
- 
-1106
+1156
 
 
- 
-1106
+1156
 
 
- 
-815
+865
 
 
  
@@ -7807,15 +6934,12 @@ Klaipėdos apygardos administracinis
 Šiaulių apygardos administracinis teismas
 
 
- 
-852
+857
 
 
- 
-852
+857
 
 
- 
 621
 
 
@@ -7828,33 +6952,13 @@ Panevėžio apygardos administracinis
   teismas
 
 
- 
-709
+739
 
 
- 
-709
+739
 
 
- 
-523
-
-
- 
-
-
-
-
- 
-
-
- 
-
-
- 
-
-
- 
+543
 
 
  
@@ -7865,99 +6969,79 @@ Panevėžio apygardos administracinis
 Iš viso:
 
 
-97995
+99375
 
 
-97995
+99375
 
 
-70109
-
-
- 
-
-
-
-
-
-
-
-
-
+70239
 
 
  
+
+
+
+Priedėlio pakeitimai:
+Nr. IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
  
  
 
 
- 
- 
-                                                                                    Lietuvos
-Respublikos
-                                                                                    2001
+                                                                                                Lietuvos Respublikos
+                                                                                                2001
 m. gruodžio 13 d.
-                                                                                    įstatymo
+                                                                                                įstatymo
 Nr. IX-643
-                                                                                    (Lietuvos
+                                                                                                (Lietuvos
 Respublikos
-                                                                                    2002
-m. balandžio 18 d.
-                                                                                    įstatymo
-Nr. IX-851 redakcija)
-                                                                                    6
+                                                                                                2002
+m. liepos 4 d.
+                                                                                                įstatymo
+Nr. IX-1031
+                                                                                                redakcija) 
+                                                                                                6
 priedėlis
  
-VALSTYBĖS BIUDŽETO DOTACIJOS SAVIVALDYBIŲ BIUDŽETAMS
+VALSTYBĖS
+BIUDŽETO DOTACIJOS SAVIVALDYBIŲ BIUDŽETAMS
  
 tūkst. Lt
 
 
 
-Savivaldybės pavadinimas
+Savivaldybės
+  pavadinimas
 
 
-Specialios
-  tikslinės dotacijos
+Specialios tikslinės dotacijos
 
 
-Bendrosios dotacijos
-  kompensacija
-
-
-
-
-lėšos
-  valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti
-
-
-moksleivio
-  krepšeliui finansuoti
-
-
-specialiųjų
-poreikių moksleiviams išlaikyti
-
-
-palūkanoms už valstybės vardu gaunamas paskolas švietimo įstaigoms
-  atnaujinti mokėti
-
-
-negautoms
-  1997–2000 metų pajamoms iš dalies kompensuoti
-
-
-Valstybės
-  investicijų programoje numatytiems projektams finansuoti
+Bendrosios
+  dotacijos kompensacija
 
 
 
 
-iš viso
+lėšos valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti
 
 
-iš jų melioracijai ir dirvoms
-  kalkinti
+lėšos moksleivio krepšeliui finansuoti
+
+
+specialiųjų poreikių moksleiviams išlaikyti
+
+
+palūkanoms už valstybės vardu gaunamas paskolas
+  švietimo įstaigoms atnaujinti mokėti
+
+
+negautoms 1997–2000 metų pajamoms iš dalies kompensuoti
+
+
+lėšos Valstybės investicijų programoje numatytiems projektams
+  finansuoti
 
 
 
@@ -7966,39 +7050,15 @@ iš viso
 
 
 iš jų
-  polde-riams eksploa-tuoti
+  meliora-cijai ir dirvoms kalkinti
 
 
 
 
- 
+iš viso
 
 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
+iš jų polderiams eksploatuoti
 
 
 
@@ -8021,13 +7081,13 @@ Vilniaus miesto
  
 
 
-743
+549,5
 
 
 181
 
 
-11288
+11588
 
 
 44,6
@@ -8053,7 +7113,7 @@ Alytaus miesto
  
 
 
-120
+70,9
 
 
 2434
@@ -8085,7 +7145,7 @@ Birštono
  
 
 
-9
+7,2
 
 
 199
@@ -8117,7 +7177,7 @@ Druskininkų
  
 
 
-44
+29,3
 
 
 349
@@ -8149,13 +7209,13 @@ Kauno miesto
  
 
 
-502
+347,8
 
 
 8494
 
 
-3697
+3977
 
 
 32,1
@@ -8181,13 +7241,13 @@ Klaipėdos miesto
  
 
 
-269
+187,1
 
 
 2032
 
 
-2200
+2470
 
 
 16,1
@@ -8213,7 +7273,7 @@ Marijampolės
  
 
 
-111
+79,5
 
 
 1349
@@ -8245,7 +7305,7 @@ Neringos
  
 
 
-4
+2,1
 
 
  
@@ -8277,7 +7337,7 @@ Palangos miesto
  
 
 
-32
+22,2
 
 
  
@@ -8309,13 +7369,13 @@ Panevėžio miesto
  
 
 
-183
+143,5
 
 
 2371
 
 
-1500
+1650
 
 
 10,5
@@ -8341,13 +7401,13 @@ Panevėžio miesto
  
 
 
-209
+134,4
 
 
 2505
 
 
-7000
+15142
 
 
 12,1
@@ -8373,7 +7433,7 @@ Visagino miesto
  
 
 
-64
+41,9
 
 
 284
@@ -8383,73 +7443,6 @@ Visagino miesto
 
 
 12491,7
-
-
-
-
-
- 
- 
-6 priedėlio tęsinys
-tūkst. Lt
-
-
-
-
-Savivaldybės pavadinimas
-
-
-Specialios
-   tikslinės dotacijos
-
-
-Bendrosios dotacijos
-   kompensacija
-
-
-
-
-
-lėšos
-  valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti
-
-
-moksleivio
-  krepšeliui finansuoti
-
-
-specialiųjų
-poreikių moksleiviams išlaikyti
-
-
-palūkanoms už valstybės vardu gaunamas paskolas švietimo įstaigoms
-  atnaujinti mokėti
-
-
-negautoms
-  1997–2000 metų pajamoms iš dalies kompensuoti
-
-
-Valstybės
-  investicijų programoje numatytiems projektams finansuoti
-
-
-
-
-iš viso
-
-
-iš jų melioracijai ir dirvoms
-  kalkinti
-
-
-
-
-iš viso
-
-
-iš jų
-  polde-riams eksploa-tuoti
 
 
 
@@ -8472,7 +7465,7 @@ Akmenės rajono
  
 
 
-54
+30,4
 
 
 674
@@ -8504,7 +7497,7 @@ Alytaus rajono
  
 
 
-50
+33,6
 
 
 578
@@ -8536,13 +7529,13 @@ Anykščių rajono
  
 
 
-64
+50,1
 
 
 252
 
 
-2412
+1912
 
 
 7,1
@@ -8568,7 +7561,7 @@ Biržų rajono
  
 
 
-68
+54,4
 
 
 1100
@@ -8600,7 +7593,7 @@ Ignalinos rajono
  
 
 
-44
+34
 
 
 383
@@ -8632,7 +7625,7 @@ Jonavos rajono
  
 
 
-90
+64,6
 
 
 1223
@@ -8642,6 +7635,69 @@ Jonavos rajono
 
 
 7,3
+
+
+
+
+
+ 
+
+
+
+6 priedėlio tęsinys
+tūkst. Lt
+
+
+
+
+Savivaldybės
+  pavadinimas
+
+
+Specialios tikslinės dotacijos
+
+
+Bendrosios
+  dotacijos kompensacija
+
+
+
+
+lėšos valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti
+
+
+lėšos moksleivio krepšeliui finansuoti
+
+
+specialiųjų poreikių moksleiviams išlaikyti
+
+
+palūkanoms už valstybės vardu gaunamas paskolas
+  švietimo įstaigoms atnaujinti mokėti
+
+
+negautoms 1997–2000 metų pajamoms iš dalies kompensuoti
+
+
+lėšos Valstybės investicijų programoje numatytiems projektams
+  finansuoti
+
+
+
+
+iš viso
+
+
+iš jų
+  meliora-cijai ir dirvoms kalkinti
+
+
+
+
+iš viso
+
+
+iš jų polderiams eksploatuoti
 
 
 
@@ -8664,13 +7720,13 @@ Joniškio rajono
  
 
 
-56
+41,2
 
 
 651
 
 
-286
+765
 
 
 5,7
@@ -8696,7 +7752,7 @@ Jurbarko rajono
  
 
 
-76
+59
 
 
 835
@@ -8728,13 +7784,13 @@ Kaišiadorių rajono
  
 
 
-61
+51,5
 
 
 907
 
 
-300
+550
 
 
 6,6
@@ -8760,7 +7816,7 @@ Kauno rajono
  
 
 
-117
+88,8
 
 
 1464
@@ -8792,7 +7848,7 @@ Kėdainių rajono
  
 
 
-106
+75,8
 
 
 3759
@@ -8824,7 +7880,7 @@ Kelmės rajono
  
 
 
-74
+51,7
 
 
 583
@@ -8856,7 +7912,7 @@ Klaipėdos rajono
  
 
 
-86
+70,5
 
 
 841
@@ -8888,7 +7944,7 @@ Kretingos rajono
  
 
 
-75
+56,8
 
 
 888
@@ -8920,7 +7976,7 @@ Kupiškio rajono
  
 
 
-50
+41,5
 
 
 545
@@ -8952,7 +8008,7 @@ Lazdijų rajono
  
 
 
-55
+43,6
 
 
 31
@@ -8984,7 +8040,7 @@ Mažeikių rajono
  
 
 
-122
+77,4
 
 
 1396
@@ -9016,13 +8072,13 @@ Molėtų rajono
  
 
 
-45
+36,1
 
 
 125
 
 
-808
+1808
 
 
 1089,1
@@ -9048,13 +8104,13 @@ Pakruojo rajono
  
 
 
-56
+38
 
 
 359
 
 
- 
+200
 
 
 2211,9
@@ -9080,7 +8136,7 @@ Panevėžio rajono
  
 
 
-65
+51,8
 
 
 837
@@ -9112,7 +8168,7 @@ Pasvalio rajono
  
 
 
-65
+46
 
 
 800
@@ -9144,7 +8200,7 @@ Plungės rajono
  
 
 
-77
+59,9
 
 
 300
@@ -9154,69 +8210,6 @@ Plungės rajono
 
 
 7,1
-
-
-
-
-6 priedėlio tęsinys
-tūkst. Lt
-
-
-
-
-Savivaldybės pavadinimas
-
-
-Specialios
-  tikslinės dotacijos
-
-
-Bendrosios dotacijos
-  kompensacija
-
-
-
-
-lėšos
-  valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti
-
-
-moksleivio
-  krepšeliui finansuoti
-
-
-specialiųjų
-poreikių moksleiviams išlaikyti
-
-
-palūkanoms už valstybės vardu gaunamas paskolas švietimo įstaigoms
-  atnaujinti mokėti
-
-
-negautoms
-  1997–2000 metų pajamoms iš dalies kompensuoti
-
-
-Valstybės
-  investicijų programoje numatytiems projektams finansuoti
-
-
-
-
-iš viso
-
-
-iš jų melioracijai ir dirvoms
-  kalkinti
-
-
-
-
-iš viso
-
-
-iš jų
-  polde-riams eksploa-tuoti
 
 
 
@@ -9239,7 +8232,7 @@ Prienų rajono
  
 
 
-59
+43,6
 
 
 715
@@ -9271,7 +8264,7 @@ Radviliškio rajono
  
 
 
-104
+70,2
 
 
 956
@@ -9303,13 +8296,13 @@ Raseinių rajono
  
 
 
-77
+59,1
 
 
 746
 
 
- 
+200
 
 
 8,4
@@ -9335,7 +8328,7 @@ Rokiškio rajono
 416
 
 
-76
+61,4
 
 
 2947
@@ -9367,7 +8360,7 @@ Skuodo rajono
  
 
 
-53
+43,2
 
 
 340
@@ -9399,7 +8392,7 @@ Skuodo rajono
  
 
 
-72
+53,8
 
 
 255
@@ -9431,7 +8424,7 @@ Skuodo rajono
  
 
 
-67
+42,5
 
 
 1446
@@ -9463,7 +8456,7 @@ Skuodo rajono
  
 
 
-76
+56
 
 
 981
@@ -9473,6 +8466,70 @@ Skuodo rajono
 
 
 9,5
+
+
+
+
+
+ 
+
+
+
+6 priedėlio tęsinys
+tūkst. Lt
+ 
+
+
+
+
+Savivaldybės
+  pavadinimas
+
+
+Specialios tikslinės dotacijos
+
+
+Bendrosios
+  dotacijos kompensacija
+
+
+
+
+lėšos valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti
+
+
+lėšos moksleivio krepšeliui finansuoti
+
+
+specialiųjų poreikių moksleiviams išlaikyti
+
+
+palūkanoms už valstybės vardu gaunamas paskolas
+  švietimo įstaigoms atnaujinti mokėti
+
+
+negautoms 1997–2000 metų pajamoms iš dalies kompensuoti
+
+
+lėšos Valstybės investicijų programoje numatytiems projektams
+  finansuoti
+
+
+
+
+iš viso
+
+
+iš jų
+  meliora-cijai ir dirvoms kalkinti
+
+
+
+
+iš viso
+
+
+iš jų polderiams eksploatuoti
 
 
 
@@ -9495,7 +8552,7 @@ Skuodo rajono
  
 
 
-65
+50,2
 
 
 435
@@ -9527,7 +8584,7 @@ Skuodo rajono
  
 
 
-110
+86,7
 
 
 1030
@@ -9559,7 +8616,7 @@ Skuodo rajono
  
 
 
-34
+27,3
 
 
 340
@@ -9591,7 +8648,7 @@ Skuodo rajono
  
 
 
-54
+40,5
 
 
 756
@@ -9623,7 +8680,7 @@ Tauragės rajono
  
 
 
-91
+62,8
 
 
 795
@@ -9655,7 +8712,7 @@ Telšių rajono
  
 
 
-109
+65,6
 
 
 5190
@@ -9687,7 +8744,7 @@ Trakų rajono
  
 
 
-63
+39,5
 
 
 2058
@@ -9719,7 +8776,7 @@ Ukmergės rajono
  
 
 
-83
+62,2
 
 
 699
@@ -9751,7 +8808,7 @@ Utenos rajono
  
 
 
-98
+73,6
 
 
 884
@@ -9783,7 +8840,7 @@ Varėnos rajono
  
 
 
-54
+45
 
 
 620
@@ -9815,85 +8872,16 @@ Vilkaviškio rajono
 630
 
 
-84
+63,7
 
 
 1150
 
 
-3500
+3800
 
 
 8,3
-
-
-
-
- 
- 
- 
- 
- 
- 
-6 priedėlio tęsinys
-tūkst. Lt
-
-
-
-
-Savivaldybės pavadinimas
-
-
-Specialios
-  tikslinės dotacijos
-
-
-Bendrosios dotacijos
-  kompensacija
-
-
-
-
-lėšos
-  valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti
-
-
-moksleivio
-  krepšeliui finansuoti
-
-
-specialiųjų
-poreikių moksleiviams išlaikyti
-
-
-palūkanoms už valstybės vardu gaunamas paskolas švietimo įstaigoms
-  atnaujinti mokėti
-
-
-negautoms
-  1997–2000 metų pajamoms iš dalies kompensuoti
-
-
-Valstybės
-  investicijų programoje numatytiems projektams finansuoti
-
-
-
-
-iš viso
-
-
-iš jų melioracijai ir dirvoms
-  kalkinti
-
-
-
-
-iš viso
-
-
-iš jų
-  polde-riams eksploa-tuoti
 
 
 
@@ -9916,7 +8904,7 @@ Vilniaus rajono
  
 
 
-126
+78,2
 
 
 1881
@@ -9948,7 +8936,7 @@ Zarasų rajono
  
 
 
-47
+34,1
 
 
 588
@@ -9980,7 +8968,7 @@ Elektrėnų
  
 
 
-48
+39
 
 
 472
@@ -10012,7 +9000,7 @@ Kalvarijos
  
 
 
-23
+18,4
 
 
 195
@@ -10044,13 +9032,13 @@ Kazlų Rūdos
  
 
 
-25
+21,2
 
 
 170
 
 
-800
+300
 
 
 2,5
@@ -10076,7 +9064,7 @@ Pagėgių
  
 
 
-25
+21,6
 
 
 177
@@ -10108,7 +9096,7 @@ Rietavo
  
 
 
-21
+16,5
 
 
  
@@ -10140,35 +9128,24 @@ Iš viso:
 1046
 
 
-5590
+4048
 
 
 64555
 
 
-64731
+75302
 
 
 35754
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Priedėlio pakeitimai:
 Nr. IX-851,
 2002-04-18, Žin., 2002, Nr. 42-1558 (2002-04-24)
+Nr. IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
  
  
 
@@ -10422,8 +9399,11 @@ Nr. IX-947,
 Respublikos 
                                                                                                 2001
 m. gruodžio 13 d. 
-                                                                                                įstatymo
-Nr. IX-643
+įstatymo Nr. IX-643 
+(Lietuvos Respublikos 
+2002 m. liepos 4 d. 
+įstatymo Nr. IX-1031
+redakcija)
                                                                                                 10
 priedėlis
  
@@ -10437,7 +9417,8 @@ Respublikos valstybės remiamų programų investicijų projektams įgyvendinti 2
 Privatizavimo fondo lėšos ir paskolos, gaunamos valstybės vardu ir su valstybės
 garantija
                                                                                                                         
-tūkst. Lt
+                                                                                                            tūkst.
+Lt
 
 
 
@@ -10447,7 +9428,7 @@ tūkst. Lt
  
 
 
-Iš jų
+Iš jų:
 
 
  
@@ -10464,7 +9445,7 @@ Sritis
 2002 metams iš viso
 
 
-valstybės biudžetas
+Valstybės biudžetas
 
 
 Privatiza-vimo fondas
@@ -10473,10 +9454,9 @@ Privatiza-vimo fondas
 valstybės vardu gauna-mos paskolos
 
 
-paskolos,
-gauna-mos su
-valstybės
-garantija
+Paskolos,
+  gauna-mos su valstybės
+Garantija
 
 
 2003 metams iš viso
@@ -10490,10 +9470,10 @@ garantija
 Valstybės valdymas
 
 
-75293
+84153
 
 
-63482
+72342
 
 
 11811
@@ -10516,10 +9496,10 @@ Valstybės valdymas
 Krašto apsauga
 
 
-279965
+280305
 
 
-99860
+100200
 
 
 180105
@@ -10542,10 +9522,10 @@ Krašto apsauga
 Viešoji tvarka
 
 
-10760
+14956
 
 
-10760
+14956
 
 
  
@@ -10568,16 +9548,16 @@ Viešoji tvarka
 Švietimas
 
 
-103585
+118002
 
 
-85971
+96288
 
 
 1714
 
 
-15900
+20000
 
 
  
@@ -10594,10 +9574,10 @@ Viešoji tvarka
 Sveikatos apsauga
 
 
-66745
+70086
 
 
-39318
+42659
 
 
 4387
@@ -10620,16 +9600,16 @@ Sveikatos apsauga
 Socialinė apsauga
 
 
-19895
+22283
 
 
-13135
+14523
 
 
  
 
 
-6760
+7760
 
 
  
@@ -10646,10 +9626,10 @@ Socialinė apsauga
 Aplinkos apsauga
 
 
-94769
+96854
 
 
-38294
+40379
 
 
 750
@@ -10672,10 +9652,10 @@ Aplinkos apsauga
 Kultūra
 
 
-31262
+34220
 
 
-31262
+34220
 
 
  
@@ -10698,10 +9678,10 @@ Kultūra
 Energetika
 
 
-52553
+52803
 
 
- 
+250
 
 
  
@@ -10724,10 +9704,10 @@ Energetika
 Žemės ūkis
 
 
-78805
+82438
 
 
-78661
+82294
 
 
 144
@@ -10750,10 +9730,10 @@ Energetika
 Visuomenės apsauga
 
 
-20556
+25456
 
 
-19467
+24367
 
 
 1089
@@ -10776,10 +9756,10 @@ Visuomenės apsauga
 Transportas ir ryšiai
 
 
-318319
+319429
 
 
-159267
+160377
 
 
  
@@ -10802,10 +9782,10 @@ Transportas ir ryšiai
 Kita veikla
 
 
-37244
+37384
 
 
-22484
+22624
 
 
 1760
@@ -10828,16 +9808,16 @@ Kita veikla
 Iš viso
 
 
-1189751
+1238369
 
 
-661961
+705479
 
 
 201760
 
 
-144807
+149907
 
 
 181223
@@ -10854,29 +9834,24 @@ Iš viso
 iš jų informacinėms technologijoms
 
 
- 
-78574
+90504
+
+
+69020
 
 
  
-57090
 
 
- 
-
-
- 
 21484
 
 
  
 
 
- 
 23980
 
 
- 
 20176
 
 
@@ -10897,6 +9872,8 @@ iš jų informacinėms technologijoms
 Priedėlio pakeitimai:
 Nr. IX-851,
 2002-04-18, Žin., 2002, Nr. 42-1558 (2002-04-24)
+Nr. IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
  
  
 
@@ -10911,8 +9888,9 @@ Nr. IX-643
 priedėlis
  
  
-2002 METŲ VALSTYBĖS
-ĮMONĖS IGNALINOS ATOMINĖS ELEKTRINĖS EKSPLOATAVIMO NUTRAUKIMO FONDO LĖŠŲ SĄMATA
+2002 METŲ
+VALSTYBĖS ĮMONĖS IGNALINOS ATOMINĖS ELEKTRINĖS EKSPLOATAVIMO NUTRAUKIMO FONDO
+LĖŠŲ SĄMATA
  
                                                                                     tūkst.
 Lt
@@ -11035,11 +10013,21 @@ IX-947,
 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
 PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1031,
+2002-07-04, Žin., 2002, Nr. 72-3023 (2002-07-17)
+2002
+METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-06-17)
+Aušrinė Trapinskienė (2002-07-19)
                  
 autrap@lrs.lt
