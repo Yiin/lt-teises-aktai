@@ -107,15 +107,12 @@ Nr.
 VIII-390, 1997
 07 02, Žin., 1997, Nr. 67-1667 (1997 07 16)
  
- 
             3 straipsnis. Neapmuitinamos
 parduotuvės steigimas
-1.Neapmuitinamą
-parduotuvę (toliau - parduotuvė) gali steigti visų rūšių įmonės, įregistruotos
-pagal Įmonių rejestro įstatymo reikalavimus, gavusios Vyriausybės ar jos
-įgaliotos valstybės institucijos išduotą leidimą. Leidimą steigti neapmuitinamą
-parduotuvę Lietuvos Respublikos valstybės sienos perėjimo punkte išduoda tik
-Vyriausybė.
+1. Neapmuitinamą
+parduotuvę (toliau – parduotuvė) gali steigti visų teisinių formų įmonės,
+įregistruotos teisės aktų nustatyta tvarka, gavusios Vyriausybės ar jos
+įgaliotos valstybės institucijos išduotą leidimą.
             2. Leidimas steigti
 parduotuvę išduodamas viešo konkurso būdu, išskyrus atvejus, kai laivo(-ų) ar
 orlaivio(-ių) savininkas (valdytojas) steigia parduotuvę tarptautiniame jūrų
@@ -133,17 +130,21 @@ valstybės institucijos nustatytą garantiją.
             6. Įmonė turi teisę teisės
 aktų nustatyta tvarka steigti uždarąjį muitinės sandėlį, skirtą parduotuvės
 prekėms laikyti.
-            7. Parduotuvės teritorija
-turi būti atskirta nuo likusios Lietuvos Respublikos muitų teritorijos dalies.
-Teritorijos atskyrimo, joje esančių pastatų ir kitų statinių statybos, patalpų
-įrengimo, naudojimo, apsaugos projektai ir kiti su statinių statyba ir jų
-įrengimu susiję klausimai turi būti Vyriausybės ar jos įgaliotos valstybės institucijos
-nustatyta tvarka suderinti su Muitinės departamentu prie Finansų ministerijos
-(toliau - Muitinės departamentas), kitomis valstybės institucijomis ir miestų
-(rajonų) savivaldybėmis.
-            8. Parduotuvės veikla
-nutraukiama, kai pasibaigia leidimo galiojimo laikas arba Vyriausybė ar jos
-įgaliota valstybės institucija atšaukia leidimą steigti parduotuvę.
+7. Parduotuvės teritorija turi būti atskirta nuo
+likusios Lietuvos Respublikos muitų teritorijos dalies. Teritorijos atskyrimo,
+joje esančių pastatų ir kitų statinių statybos, patalpų įrengimo, naudojimo, apsaugos
+projektai ir kiti su statinių statyba ir jų įrengimu susiję klausimai turi būti
+Vyriausybės ar jos įgaliotos valstybės institucijos nustatyta tvarka suderinti
+su Muitinės departamentu prie Finansų ministerijos (toliau – Muitinės
+departamentas), kitomis valstybės ir savivaldybių institucijomis.
+8. Parduotuvės
+veikla nutraukiama, kai pasibaigia leidimo galiojimo laikas arba Vyriausybė ar
+jos įgaliota valstybės institucija atšaukia leidimą steigti parduotuvę.
+Leidimas steigti parduotuvę gali būti atšauktas, jeigu šį leidimą gavusi įmonė
+pažeidė parduotuvės veiklą reglamentuojančias šio įstatymo ir kitų Lietuvos
+Respublikos teisės aktų nuostatas, leidimo turėtojas pateikia prašymą atšaukti
+leidimo galiojimą, gaunamas pranešimas, kad įmonė likviduota ar reorganizuota
+ir baigia veiklą kaip savarankiškas ūkio subjektas.
             9. Lietuvos Respublikai
 įstojus į muitų sąjungą, neapmuitinamos parduotuvės, esančios valstybės sienos
 su muitų sąjungai priklausančiomis valstybėmis perėjimo punktuose, netenka
@@ -155,6 +156,9 @@ VIII-390, 1997
 07 02, Žin., 1997, Nr. 67-1667 (1997 07 16)
 Nr. IX-286, 2001 04 19, Žin., 2001, Nr.
 39-1356 (2001 05 09)
+Nr.
+IX-541,
+2001-10-09, Žin., 2001, Nr. 90-3146 (2001-10-24)
  
  
             4 straipsnis. Parduotuvės
@@ -211,8 +215,8 @@ VIII-390, 1997
 07 02, Žin., 1997, Nr. 67-1667 (1997 07 16)
  
  
-            5 straipsnis. Prekių
-pristatymas į parduotuvės teritoriją, jų laikymas, išdavimas 
+            5 straipsnis. Prekių pristatymas
+į parduotuvės teritoriją, jų laikymas, išdavimas 
 parduoti ir
 išgabenimas iš šios teritorijos
             1. Ne Lietuvos prekės gabenamos į parduotuvę
@@ -223,18 +227,19 @@ deklaruojamos išleidimui laisvai cirkuliuoti kaip prekės, kurioms netaikomi
 importo muitai ir mokesčiai, nes šios prekės yra skirtos parduoti
 neapmuitinamoje parduotuvėje.
             3. Į parduotuvę pristatytos
-Lietuvos prekės turi būti pateikiamos muitinei ir nustatyta tvarka deklaruojamos
-negrąžinamojo eksporto muitinės procedūrai kaip prekės, kurioms netaikomi
-eksporto muitai ir mokesčiai, nes šios prekės yra skirtos parduoti
+Lietuvos prekės turi būti pateikiamos muitinei ir nustatyta tvarka
+deklaruojamos negrąžinamojo eksporto muitinės procedūrai kaip prekės, kurioms
+netaikomi eksporto muitai ir mokesčiai, nes šios prekės yra skirtos parduoti
 neapmuitinamoje parduotuvėje.
             4. Į parduotuvę pristatytos
 prekės į prekybos salę, laivus ir orlaivius, kuriuose šiomis prekėmis gali būti
 prekiaujama, išduodamos bei grąžinamos atgal su muitinės priežiūra. Nurodytas
 prekių judėjimas įforminamas Muitinės departamento nustatyta tvarka.
-            5. Prekės, išgabenamos iš
-parduotuvės į likusią Lietuvos Respublikos muitų teritorijos dalį arba į
-užsienį (išskyrus išvežamas keleivių), turi būti nustatyta tvarka pateikiamos
-pasirinktai muitinės procedūrai įforminti.
+5. Prekės,
+išgabenamos iš parduotuvės į likusią Lietuvos Respublikos muitų teritorijos
+dalį arba į užsienį (išskyrus išvežamas keleivių), turi būti nustatyta tvarka
+pateikiamos pasirinktai muitinės procedūrai ar kitam muitinės sankcionuotam
+veiksmui įforminti.
             6. Parduotuvėje neleidžiama
 prekiauti:
             1) prekėmis, kurias įvežti,
@@ -247,14 +252,20 @@ pristatytos prekės turi būti tuojau pat įtrauktos į apskaitą.
             8. Vyriausybė ar jos
 įgaliota valstybės institucija turi teisę nustatyti papildomus parduotuvės
 apskaitos reikalavimus arba tipinę neapmuitinamos parduotuvės apskaitos tvarką.
-            
+Straipsnio
+pakeitimai:
+Nr.
+IX-541,
+2001-10-09, Žin., 2001, Nr. 90-3146 (2001-10-24)
+ 
             6 straipsnis. Parduotuvės
 priežiūra ir kontrolė
-            1. Į parduotuvę pristatytos
-ir joje laikomos prekės yra muitinės prižiūrimos tol, kol išvežamos iš Lietuvos
-Respublikos muitų teritorijos, sunaikinamos, neatlygintinai perduodamos
-valstybei arba, sumokėjus už jas nustatytus importo muitus ir mokesčius,
-išleidžiamos laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje.
+1. Į parduotuvę
+pristatytos ir joje laikomos prekės yra muitinės prižiūrimos tol, kol išvežamos
+iš Lietuvos Respublikos muitų teritorijos, įvežamos į laisvąją zoną, padedamos
+į laisvąjį sandėlį, sunaikinamos, neatlygintinai perduodamos valstybei arba,
+sumokėjus už jas nustatytus importo muitus ir mokesčius, išleidžiamos laisvai
+cirkuliuoti Lietuvos Respublikos muitų teritorijoje.
             2. Visos į parduotuvę
 pristatomos ir iš jos išgabenamos prekės (išskyrus išvežamas keleivių) turi
 būti pateikiamos muitiniam tikrinimui.
@@ -288,8 +299,13 @@ kitų teisės aktų nustatytą parduotuvės priežiūrą.
 Valstybinė mokesčių inspekcija bei pagal savo kompetenciją kitos valstybės
 valdymo institucijos vykdo parduotuvių kontrolę.
             6. Asmenų ( išskyrus
-keleivius, vykstančius iš Lietuvos Respublikos į užsienį) patekimo į neapmuitinamos
-parduotuvės teritoriją tvarką nustato Muitinės departamentas.
+keleivius, vykstančius iš Lietuvos Respublikos į užsienį) patekimo į
+neapmuitinamos parduotuvės teritoriją tvarką nustato Muitinės departamentas.
+Straipsnio
+pakeitimai:
+Nr.
+IX-541,
+2001-10-09, Žin., 2001, Nr. 90-3146 (2001-10-24)
             
             7 straipsnis. Atsakomybė už
 šio įstatymo pažeidimą
@@ -322,7 +338,7 @@ Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 BRAZAUSKAS
  
-________
+_______________
  
 Pakeitimai:
  
@@ -343,9 +359,21 @@ Nr. IX-286, 2001 04 19, Žin., 2001, Nr.
 NEAPMUITINAMŲ PARDUOTUVIŲ ĮSTATYMO 3 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-541,
+2001-10-09, Žin., 2001, Nr. 90-3146 (2001-10-24)
+NEAPMUITINAMŲ
+PARDUOTUVIŲ ĮSTATYMO 3, 5, 6 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 05 16)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2001-10-24)
+                 
+autrap@lrs.lt
 
