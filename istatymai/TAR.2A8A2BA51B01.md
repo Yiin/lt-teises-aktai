@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2A8A2BA51B01"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymas
 
+Suvestinė redakcija nuo 2003-12-17 iki 2006-10-31
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 42-1928, i. k. 1031010ISTA0IX-1539
+ 
 LIETUVOS RESPUBLIKOS
 VIDAUS TARNYBOS STATUTO PATVIRTINIMO ĮSTATYMO ĮGYVENDINIMO
 Į S T A T Y M A S
@@ -98,6 +102,13 @@ Vilnius
 
 
 3. Pareigūnams paliekamos iki Statuto patvirtinimo įstatymo įsigaliojimo suteiktos kvalifikacinės kategorijos. 
+
+
+
+
+4. Statuto patvirtinimo įstatymu patvirtinto Vidaus tarnybos statuto 48 straipsnyje ir 52 straipsnio 4 dalyje nustatytos socialinės garantijos pradedamos taikyti nuo 2005 m. sausio 1 d., o 47 straipsnio 4 dalyje nustatyta socialinė garantija – nuo 2006 m. sausio 1 d.
+Papildyta straipsnio dalimi:
+Nr. IX-1859, 2003-11-27, Žin., 2003, Nr. 117-5322 (2003-12-17), i. k. 1031010ISTA0IX-1859
  
 
 
@@ -371,3 +382,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1859, 2003-11-27, Žin., 2003, Nr. 117-5322 (2003-12-17), i. k. 1031010ISTA0IX-1859
+Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo 2 straipsnio papildymo įstatymas
