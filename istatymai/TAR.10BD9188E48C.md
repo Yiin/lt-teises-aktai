@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10BD9188E48C"
 
 # Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymas
 
+Suvestinė redakcija nuo 2003-04-09 iki 2006-07-13
+ 
+Įstatymas paskelbtas: Žin. 2001, Nr. 56-1976, i. k. 1011010ISTA00IX-375
+ 
 LIETUVOS RESPUBLIKOS
 GENETIŠKAI MODIFIKUOTŲ ORGANIZMŲ
 ĮSTATYMAS
@@ -61,7 +65,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Genetiškai modifikuotas produktas – medžiaga, kurios sudėtyje yra ar kuri susideda iš genetiškai modifikuotų organizmų, jų dalių ar iš genetiškai modifikuotų organizmų išskirtų medžiagų ir yra teikiama į rinką.
+3. Genetiškai modifikuotas produktas – toks preparatas, kurio sudėtyje yra ar kuris susideda iš genetiškai modifikuotų organizmų ar jų dalių ir yra teikiamas į rinką. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+ 
 
 
 
@@ -101,7 +108,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Teikimas į rinką – genetiškai modifikuotų organizmų ir (ar) genetiškai modifikuotų produktų išleidimas į apyvartą, jų realizavimas, importas, nuoma, pardavimas ar kitoks teikimas fiziniam ar juridiniam asmeniui, kuris verčiasi ar gali verstis veikla, susijusia su genetiškai modifikuotais organizmais ir (ar) genetiškai modifikuotais produktais, ir kuriai pagal šį ir kitus įstatymus ar kitus teisės aktus nereikia atskiro leidimo.
+11. Teikimas į rinką – genetiškai modifikuotų organizmų ir (ar) genetiškai modifikuotų produktų išleidimas į apyvartą, jų realizavimas, importas, eksportas, nuoma, pardavimas ar kitoks teikimas fiziniam ar juridiniam asmeniui, kuris verčiasi ar gali verstis veikla, susijusia su genetiškai modifikuotais organizmais ir (ar) genetiškai modifikuotais produktais. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+ 
 
 
 
@@ -111,7 +121,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-13. Genetiškai modifikuoto produkto saugos kontrolė – pagal kompetenciją Valstybinės maisto ir veterinarijos tarnybos arba Sveikatos apsaugos ministerijos ar jos įgaliotos institucijos vykdoma genetiškai modifikuoto produkto saugos kontrolė, siekiant nustatyti, ar teikiamas į rinką genetiškai modifikuotas produktas atitinka privalomus saugos reikalavimus.
+13. Genetiškai modifikuoto produkto saugos kontrolė – valstybės institucijų ir įstaigų vykdoma genetiškai modifikuoto produkto saugos kontrolė, siekiant nustatyti, ar teikiamas į rinką genetiškai modifikuotas produktas atitinka privalomus saugos reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
  
 
 
@@ -168,17 +180,33 @@ Aplinkos ministerija:
 
 
 
-6) kartu su Sveikatos apsaugos ministerija, Valstybine maisto ir veterinarijos tarnyba nustato genetiškai modifikuotų organizmų klasifikavimo kriterijus; 
+6) nustato genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų, išskyrus maisto prekes, kuriose yra genetiškai modifikuotų organizmų arba kurios iš jų susideda ar yra iš jų pagamintos, privalomus ženklinimo reikalavimus; 
+Papildyta straipsnio punktu:
+Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+ 
 
 
 
 
-7) kaupia ir tvarko genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų duomenų bazę; 
+7) kartu su Sveikatos apsaugos ministerija, Valstybine maisto ir veterinarijos tarnyba nustato genetiškai modifikuotų organizmų klasifikavimo kriterijus; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+ 
 
 
 
 
-8) atlieka šio įstatymo ir kitų Lietuvos Respublikos teisės aktų jai priskirtas funkcijas.
+8) kaupia ir tvarko genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų duomenų bazę; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+ 
+
+
+
+
+9) atlieka šio įstatymo ir kitų Lietuvos Respublikos teisės aktų jai priskirtas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
  
 
 
@@ -286,38 +314,40 @@ Valstybinė maisto ir veterinarijos tarnyba:
 
 
 
-8 straipsnis. Genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų valstybinė saugos kontrolė
+8 straipsnis. Genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų valstybinė saugos kontrolė 
 
 
 Genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų valstybinę saugos kontrolę atlieka:
 
 
-1) genetiškai modifikuotų organizmų išleidimo į aplinką – Valstybinė aplinkos apsaugos inspekcija;
+1) genetiškai modifikuotų organizmų išleidimo į aplinką kontrolę – Aplinkos ministerija ar jos įgaliotos institucijos;
 
 
 
 
-2) genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų teikimo į rinką saugos kontrolę ir rinkos priežiūrą – pagal kompetenciją Valstybinė maisto ir veterinarijos tarnyba arba Sveikatos apsaugos ministerija ar jos įgaliota institucija;
+2) genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų teikimo į rinką saugos kontrolę ir rinkos priežiūrą – pagal kompetenciją Valstybinė maisto ir veterinarijos tarnyba, Žemės ūkio ministerija ir Sveikatos apsaugos ministerija ar jų įgaliotos institucijos;
 
 
 
 
-3) genetiškai modifikuotų sėklų – Valstybinė sėklų ir grūdų tarnyba; 
+3) genetiškai modifikuotų organizmų riboto naudojimo kontrolę – pagal kompetenciją Aplinkos ministerija, Valstybinė maisto ir veterinarijos tarnyba, Žemės ūkio ministerija ir Sveikatos apsaugos ministerija ar jų įgaliotos institucijos;
 
 
 
 
-4) genetiškai modifikuotų organizmų naudojimo laboratorijose – Sveikatos apsaugos ministerijos nustatytos institucijos; 
+4) žmonėms skirtų medicininių gaminių, vaistų, kurių sudėtyje yra genetiškai modifikuotų organizmų ar kurie yra iš jų pagaminti, saugos kontrolę – Sveikatos apsaugos ministerija ar jos įgaliotos institucijos;
 
 
 
 
-5) žmonėms skirtų vaistų naudojimo kontrolę – Sveikatos apsaugos ministerija arba jos įgaliota institucija.
+5) veterinarinės paskirties gaminių ir preparatų, prekinių pašarų, kurių sudėtyje yra genetiškai modifikuotų organizmų ar kurie yra iš jų pagaminti, saugos kontrolę – Valstybinė maisto ir veterinarijos tarnyba. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
  
-
-
-
-
 
 
 
@@ -482,3 +512,29 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+
+
+
+
+
+ 
+Lietuvos Respublikos
+genetiškai modifikuotų
+organizmų įstatymo
+Nr. IX-375
+priedas
+ 
+Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymas yra suderintas su 2001 m. kovo 12 d. Tarybos direktyva Nr. 2001/18/EB dėl genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką ir 1998 m. spalio 26 d. Tarybos direktyva Nr. 98/81/EB dėl riboto genetiškai modifikuotų mikroorganizmų naudojimo. 
+Papildyta priedu:
+Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
+Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymo 2, 4, 8 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas
