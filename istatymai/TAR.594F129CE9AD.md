@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2002-03-31
+Suvestinė redakcija nuo 2002-04-01 iki 2002-06-25
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
  
@@ -227,12 +227,7 @@ Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010I
 
 
 
-2. Vyriausioji administracinių ginčų komisija taip pat sprendžia ginčus dėl Lietuvos Respublikos antidempingo įstatymo pažeidimų.
-
-
-
-
-3. Vyriausioji administracinių ginčų komisija nesprendžia: 
+2. Vyriausioji administracinių ginčų komisija nesprendžia:
 
 
 1) Administracinių bylų teisenos įstatymo 16 straipsnyje, 18 straipsnyje, 19 straipsnio 2 ir 3 dalyse ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų;
@@ -243,11 +238,11 @@ Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010I
 2) administracinių ginčų, kuriems nagrinėti įstatymai numato kitokią tvarką.
 
 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
+
+
+Straipsnio pakeitimai:
+Nr. IX-664, 2001-12-17, Žin., 2001, Nr. 112-4083 (2001-12-30); Žin., 2002, Nr. 5-0 (2002-01-18), i. k. 1011010ISTA00IX-664
  
-
-
 
 
 
@@ -447,3 +442,8 @@ Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2, 5, 9, 13, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
 Lietuvos Respublikos administracinių ginčų komisijų įstatymo 3, 4, 6 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-664, 2001-12-17, Žin., 2001, Nr. 112-4083 (2001-12-30); Žin., 2002, Nr. 5-0 (2002-01-18), i. k. 1011010ISTA00IX-664
+Lietuvos Respublikos administracinių ginčų komisijų įstatymo 9 straipsnio pakeitimo įstatymas
