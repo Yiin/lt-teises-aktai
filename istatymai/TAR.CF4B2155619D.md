@@ -301,25 +301,25 @@ straipsnyje numatytomis ataskaitomis, o jei pastarasis pareikalauja raštu, už
 turi pateikti vertybinių popierių biržai, kurios prekybos sąrašuose yra jo
 vertybinių popierių, tuo pačiu laiku kaip ir Vertybinių popierių komisijai.
 Straipsnio pakeitimai:
-Nr. VIII-671,
-98.03.19, Žin., 1998, Nr.33-873 (98.04.08)
+Nr. VIII-671, 98.03.19, Žin., 1998,
+Nr.33-873 (98.04.08)
  
  
             6
 straipsnis. Informacijos apie esminius įvykius atskleidimas
  
-1. Atskaitingas emitentas Vertybinių popierių
-komisijos nustatyta tvarka ne vėliau kaip per 5 darbo dienas turi bent vienai
-šalies visuomenės informavimo priemonei, Vertybinių popierių komisijai ir
-vertybinių popierių biržai, kurios prekybos sąrašuose yra jo vertybinių
-popierių, pateikti vadovo pasirašytą informacinį pranešimą apie kiekvieną
-esminį įvykį, išskyrus šio straipsnio antrojoje dalyje numatytus atvejus.
-Informaciniame pranešime turi būti atskleistas įvykio pobūdis ir trumpas
-turinys. Visuomenės informavimo priemonės, kurioms bus pateikiama informacija
-apie esminius įvykius, turi būti nurodytos emitento įstatuose ir prospekte.
-Vertybinių popierių komisija, atsižvelgdama į emitento ir jo išleistų
-vertybinių popierių apyvartos dydį, gali nustatyti ir trumpesnį nei 5 darbo
-dienų laikotarpį, per kurį turi būti pranešta apie esminį įvykį.
+1. Atskaitingas emitentas Vertybinių popierių komisijos
+nustatyta tvarka ne vėliau kaip per 5 darbo dienas turi bent vienai šalies
+visuomenės informavimo priemonei, Vertybinių popierių komisijai ir vertybinių
+popierių biržai, kurios prekybos sąrašuose yra jo vertybinių popierių, pateikti
+vadovo pasirašytą informacinį pranešimą apie kiekvieną esminį įvykį, išskyrus
+šio straipsnio antrojoje dalyje numatytus atvejus. Informaciniame pranešime
+turi būti atskleistas įvykio pobūdis ir trumpas turinys. Visuomenės informavimo
+priemonės, kurioms bus pateikiama informacija apie esminius įvykius, turi būti
+nurodytos emitento įstatuose ir prospekte. Vertybinių popierių komisija,
+atsižvelgdama į emitento ir jo išleistų vertybinių popierių apyvartos dydį,
+gali nustatyti ir trumpesnį nei 5 darbo dienų laikotarpį, per kurį turi būti
+pranešta apie esminį įvykį.
 2. Jeigu, atskaitingo emitento nuomone, dėl šio
 straipsnio pirmojoje dalyje numatyto informacijos atskleidimo emitentas gali
 patirti finansinės ar konkurencinės žalos, atskaitingas emitentas gali
@@ -327,8 +327,8 @@ neskelbti šio straipsnio pirmojoje dalyje numatyto informacinio pranešimo ir
 pateiktį jį tik Vertybinių popierių komisijai su žyma “konfidenciali
 informacija” bei rašytinį paaiškinimą, kodėl negalima atskleisti informacijos.
 3. Atskaitingas emitentas, pateikdamas informacinį
-pranešimą pagal šio straipsnio antrosios dalies reikalavimus, privalo jame nurodyti
-datą, iki kurios informacija turi likti konfidenciali. Informacijos
+pranešimą pagal šio straipsnio antrosios dalies reikalavimus, privalo jame
+nurodyti datą, iki kurios informacija turi likti konfidenciali. Informacijos
 konfidencialumo pasibaigimo dieną ji turi būti atskleista šio straipsnio
 pirmojoje dalyje nustatyta tvarka.
 4. Asmenys, kurie žino viešai neatskleistą informaciją
@@ -337,15 +337,15 @@ neturi teisės sudaryti sandorių dėl vertybinių popierių, su kuriais informa
 susijusi, kol informacija apie esminius įvykius nebus viešai atskleista šio
 straipsnio pirmosios dalies nustatyta tvarka. Šis draudimas taikomas
 juridiniams asmenims ir juridinio asmens teisių neturinčioms įmonėms, jeigu
-viešai neatskleistą informaciją žino nors vienas įmonės vadovas, sprendimą
-vykdyti sandorį įmonės vardu priimantis asmuo ar įmonę kontroliuojantis asmuo.
+viešai neatskleistą informaciją žino nors vienas įmonės vadovas, sprendimą vykdyti
+sandorį įmonės vardu priimantis asmuo ar įmonę kontroliuojantis asmuo.
 5. Asmenims, žinantiems viešai neatskleistą
 informaciją apie esminius įvykius, iki viešo jos atskleidimo taip pat
 draudžiama:
-1) tiesiogiai ar netiesiogiai perduoti viešai
-neatskleistą informaciją apie esminius įvykius trečiajam asmeniui, išskyrus
-atvejus, kada informacija atskleidžiama atliekant savo įprastas tarnybines
-pareigas arba dėl privalomo nurodymo;
+1) tiesiogiai ar netiesiogiai perduoti viešai neatskleistą
+informaciją apie esminius įvykius trečiajam asmeniui, išskyrus atvejus, kada
+informacija atskleidžiama atliekant savo įprastas tarnybines pareigas arba dėl
+privalomo nurodymo;
 2) remiantis viešai neatskleista informacija apie
 esminius įvykius rekomenduoti ar pasiūlyti trečiajam asmeniui sudaryti
 sandorius dėl vertybinių popierių.
@@ -359,9 +359,9 @@ informaciją apie emitento esminius įvykius. Prieš kiekvieną numatomą ar nuo
 emitento valdymo organų sprendimo priklausantį esminį įvykį atskaitingas
 emitentas privalo sudaryti asmenų, kurie kartu su emitento vadovais turės teisę
 sužinoti šią informaciją iki jos viešo atskleidimo, sąrašą. Konstatuojama, kad
-šie asmenys bei su jais ir su emitento vadovais susiję asmenys, nurodyti šio įstatymo
-9 straipsnio pirmojoje dalyje, taip pat žino viešai neatskleistą informaciją
-apie esminius įvykius.
+šie asmenys bei su jais ir su emitento vadovais susiję asmenys, nurodyti šio
+įstatymo 9 straipsnio pirmojoje dalyje, taip pat žino viešai neatskleistą
+informaciją apie esminius įvykius.
 8. Emitento vadovai, savo vardu sudarę sandorius dėl
 emitento, kurio vadovais jie yra, vertybinių popierių, Vertybinių popierių
 komisijos nustatyta tvarka ir terminais turi pranešti apie tokių sandorių
@@ -374,8 +374,8 @@ Vertybinių popierių komisijai, yra konfidenciali.
 9. Asmenys, sudarę sandorius dėl vertybinių popierių
 žinodami viešai neatskleistą informaciją, rekomendavę ar pasiūlę tretiesiems
 asmenims sudaryti sandorius dėl vertybinių popierių tokios informacijos
-pagrindu ir (arba) perdavę viešai neatskleistą informaciją tretiesiems asmenims,
-atsako įstatymų nustatyta tvarka.
+pagrindu ir (arba) perdavę viešai neatskleistą informaciją tretiesiems
+asmenims, atsako įstatymų nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. VIII-671,
 98.03.19, Žin., 1998, Nr.33-873 (98.04.08)
@@ -650,10 +650,10 @@ popieriams įsigyti ir skolintis iš klientų vertybinius popierius.
 Finansų maklerio įmonėms draudžiama verstis kita šiame straipsnyje nenurodyta
 veikla.
             4.
-Finansų maklerio įmonės turi teisę steigti dukterines įmones. Finansų maklerio įmonių
-dukterinės įmonės turi teisę užsiimti tik investicinių bendrovių ir pensijų
-fondų vertybinių popierių porfelių valdymu arba tik veikla, nurodyta šio
-straipsnio antrojoje dalyje, išskyrus vertybinių popierių pirkimą-pardavimą
+Finansų maklerio įmonės turi teisę steigti dukterines įmones. Finansų maklerio
+įmonių dukterinės įmonės turi teisę užsiimti tik investicinių bendrovių ir
+pensijų fondų vertybinių popierių porfelių valdymu arba tik veikla, nurodyta
+šio straipsnio antrojoje dalyje, išskyrus vertybinių popierių pirkimą-pardavimą
 savo ar klientų vardu klientų sąskaita. Finansų maklerio įmonėms draudžiama
 steigti dukterines įmones, kurios verstųsi abiem šioje dalyje nurodytomis
 veiklos rūšimis arba kita šioje dalyje nenurodyta veikla.
@@ -686,8 +686,8 @@ Finansų maklerio įmonė gali vykdyti sandorius dėl vertybinių popierių savo
 lėšomis, tik įvykdžiusi visų klientų pavedimus atlikti šią operaciją arba
 pasiūliusi geresnes negu kliento sąlygas: didesnę kainą, turėdama pavedimą
 pirkti vertybinius popierius, arba mažesnę kainą, turėdama pavedimą juos
-parduoti, jeigu vertybinių popierių biržos, kuriai pateiktas pavedimas,
-prekybos taisyklės nenumato ko kita.
+parduoti, jeigu vertybinių popierių biržos, kuriai pateiktas pavedimas, prekybos
+taisyklės nenumato ko kita.
             5.
 Finansų maklerio įmonei draudžiama teikti klientui žinomai klaidingas
 rekomendacijas bei informaciją.
@@ -746,19 +746,20 @@ prieštaraujančius valdymo sutarčiai, už šių veiksmų pasekmes abi įmonės
 solidariai.
             2.
 Investicijų valdymo ir konsultavimo įmonės pagal Vertybinių popierių komisijos
-patvirtintas taisykles turi tvarkyti apskaitos ir kitus dokumentus, pateikti
-savo klientams vertybinių popierių sandorius patvirtinančius dokumentus,
-išrašus iš sąskaitų, ataskaitas apie jų finansinę būklę, rengti metų bei
-periodines ataskaitas apie savo veiklą bei finansinę būklę.
+patvirtintas taisykles turi tvarkyti apskaitos ir kitus dokumentus, pateikti savo
+klientams vertybinių popierių sandorius patvirtinančius dokumentus, išrašus iš
+sąskaitų, ataskaitas apie jų finansinę būklę, rengti metų bei periodines
+ataskaitas apie savo veiklą bei finansinę būklę.
             3.
 Teikiant profesines konsultacijas ar valdant klientų vertybinių popierių
 portfelius, investicijų valdymo ir konsultavimo įmonei atstovauja makleris,
 išlaikęs Vertybinių popierių komisijos organizuotus kvalifikacinius egzaminus
 arba turintis kitokį šios komisijos pripažintą kvalifikacijos sertifikatą.
             4.
-Investicijų valdymo ir konsultavimo įmonė privalo saugoti klientų konfidencialią
-informaciją. Tas pats reikalavimas taikomas investicijų valdymo ir konsultavimo
-įmonės makleriams, valdymo organų nariams ir kitiems darbuotojams.
+Investicijų valdymo ir konsultavimo įmonė privalo saugoti klientų
+konfidencialią informaciją. Tas pats reikalavimas taikomas investicijų valdymo
+ir konsultavimo įmonės makleriams, valdymo organų nariams ir kitiems
+darbuotojams.
 Straipsnio pakeitimai:
 Nr. VIII-671,
 98.03.19, Žin., 1998, Nr.33-873 (98.04.08)
@@ -791,8 +792,8 @@ kurioje turi būti nurodyta:
             1)
 įmonės pavadinimas ir buveinės adresas;
             2)
-įmonės savininkų (akcininkų) vardai ir pavardės, adresai, kapitalo ir balsų dalis
-bei duomenys apie dalyvavimą kitų įmonių veikloje ir turimą kitų įmonių
+įmonės savininkų (akcininkų) vardai ir pavardės, adresai, kapitalo ir balsų
+dalis bei duomenys apie dalyvavimą kitų įmonių veikloje ir turimą kitų įmonių
 kapitalo dalį;
             3)
 veikla, kuriai vykdyti norima gauti licenciją;
@@ -810,8 +811,8 @@ nutraukiama;
 asmenų, pagal šio įstatymo 17 straipsnį turinčių teisę įmonės vardu sudaryti
 sandorius dėl vertybinių popierių, sąrašas;
             8)
-duomenys apie visų paraiškoje nurodytų asmenų neišnykusį teistumą už nusikaltimus
-nuosavybei, ūkininkavimo tvarkai, finansams.
+duomenys apie visų paraiškoje nurodytų asmenų neišnykusį teistumą už
+nusikaltimus nuosavybei, ūkininkavimo tvarkai, finansams.
             4.
 Prie paraiškos finansų maklerio įmonės ar investicijų valdymo ir konsultavimo
 įmonės licencijai gauti turi būti pridėtas veiklos planas, apibūdinantis, kaip
@@ -880,8 +881,8 @@ straipsnis. Makleriai
 Makleriu gali būti fizinis asmuo, turintis Vertybinių popierių komisijos
 išduotą licenciją. Vertybinių popierių komisija gali išduoti generalinę
 licenciją, suteikiančią teisę vykdyti visas numatytas finansų maklerių
-operacijas, arba specializuotą licenciją, suteikiančią teisę vykdyti vieną ar
-kelias numatytas maklerių operacijas.
+operacijas, arba specializuotą licenciją, suteikiančią teisę vykdyti vieną ar kelias
+numatytas maklerių operacijas.
             2.
 Asmuo, pretenduojantis gauti maklerio licenciją, turi išlaikyti Vertybinių
 popierių komisijos organizuojamus egzaminus ar pateikti šiai komisijai jos
@@ -949,12 +950,13 @@ Licencijos panaikinimas įsigalioja iškart po sprendimo ją panaikinti
 paskelbimo, nepaisant to, ar jis yra ginčijamas, ar ne.
             3.
 Vertybinių popierių komisija gali sustabdyti licencijos galiojimą, jeigu
-finansų maklerio įmonė ar investicijų valdymo ir konsultavimo įmonė, jos makleris
-ar kitas darbuotojas pažeidžia šį įstatymą ar kitus vertybinių popierių
-apyvartą reglamentuojančius teisės aktus. Licencijos galiojimas sustabdomas ne
-ilgiau kaip 3 mėnesiams. Per šį laiką Vertybinių popierių komisija išsprendžia
-klausimą dėl licencijos galiojimo atnaujinimo ar jos panaikinimo. Licencijos
-galiojimo sustabdymo laikotarpiu gali būti įšaldomos įmonės sąskaitos.
+finansų maklerio įmonė ar investicijų valdymo ir konsultavimo įmonė, jos
+makleris ar kitas darbuotojas pažeidžia šį įstatymą ar kitus vertybinių
+popierių apyvartą reglamentuojančius teisės aktus. Licencijos galiojimas
+sustabdomas ne ilgiau kaip 3 mėnesiams. Per šį laiką Vertybinių popierių
+komisija išsprendžia klausimą dėl licencijos galiojimo atnaujinimo ar jos
+panaikinimo. Licencijos galiojimo sustabdymo laikotarpiu gali būti įšaldomos
+įmonės sąskaitos.
             4.
 Prieš priimdama sprendimą panaikinti ar sustabdyti licencijos galiojimą,
 Vertybinių popierių komisija turi informuoti įmonę ar maklerį, kurių atžvilgiu
@@ -1087,9 +1089,9 @@ notarine tvarka sudarę steigimo sutartį.
             3.
 Vertybinių popierių birža negali pradėti ir vykdyti savo veiklos, jeigu neturi
 Vertybinių popierių komisijos leidimo ir nėra įregistruota šioje komisijoje
-pagal šį įstatymą ir poįstatyminius aktus, reglamentuojančius Vertybinių
-popierių biržų registravimo tvarką. Vertybinių popierių birža gali būti reorganizuota
-ar likviduota tik gavusi išankstinį Vertybinių popierių komisijos sutikimą.
+pagal šį įstatymą ir poįstatyminius aktus, reglamentuojančius Vertybinių popierių
+biržų registravimo tvarką. Vertybinių popierių birža gali būti reorganizuota ar
+likviduota tik gavusi išankstinį Vertybinių popierių komisijos sutikimą.
             4.
 Norintys gauti leidimą steigti biržą jos steigėjai Vertybinių popierių
 komisijai turi pateikti:
@@ -1188,7 +1190,8 @@ valdyba gali disponuoti lėšomis, gautomis už įnašus.
             11.
 Kartu su paraiška biržai įregistruoti pateikiami šie dokumentai:
             1)
-biržos steigimo ataskaita ir biržos revizijos komisijos išvados apie šią ataskaitą;
+biržos steigimo ataskaita ir biržos revizijos komisijos išvados apie šią
+ataskaitą;
             2)
 dokumentai apie biržos nuomojamas ar nuosavybės teise valdomas patalpas
 (pastatus).
@@ -1221,10 +1224,10 @@ ir nariai
 1. Vertybinių popierių biržos akcininkų teises ir
 pareigas, nenustatytas šiame įstatyme, reglamentuoja Lietuvos Respublikos
 akcinių bendrovių įstatymas ir Vertybinių popierių biržos įstatai. 
-2. Vertybinių popierių biržos akcininkai, gavę
-Vertybinių popierių komisijos licenciją ir įvykdę kitas biržos prekybos
-taisyklėse numatytas sąlygas, tampa vertybinių popierių biržos nariais ir įgyja
-teisę dalyvauti biržos prekyboje.
+2. Vertybinių popierių biržos akcininkai, gavę Vertybinių
+popierių komisijos licenciją ir įvykdę kitas biržos prekybos taisyklėse
+numatytas sąlygas, tampa vertybinių popierių biržos nariais ir įgyja teisę
+dalyvauti biržos prekyboje.
 3. Vertybinių popierių biržos narių teises ir
 pareigas, taip pat atsakomybę už šių pareigų nevykdymą ar netinkamą vykdymą
 numato vertybinių popierių biržos prekybos taisyklės. Biržos nariui,
@@ -1246,9 +1249,9 @@ Vertybinių popierių biržos valdymas organizuojamas pagal Akcinių bendrovių
 2. Vertybinių popierių biržoje privalo būti sudarytos
 stebėtojų taryba ir valdyba. Stebėtojų tarybos funkcijas vertybinių popierių
 biržoje atlieka biržos taryba. Biržos taryba sudaroma laikantis šių proporcijų:
-1) 1/3 - emitentų, investitorių, jų susivienijimų
-(asociacijų, konfederacijų ir pan.) pasiūlyti asmenys, neturintys nuosavybės ar
-darbo santykių su vertybinių popierių biržos nariais;
+1) 1/3 - emitentų, investitorių, jų susivienijimų (asociacijų,
+konfederacijų ir pan.) pasiūlyti asmenys, neturintys nuosavybės ar darbo
+santykių su vertybinių popierių biržos nariais;
 2) ne mažiau kaip 1/3 - biržos narių pasiūlyti asmenys.
             3.
 Vertybinių popierių komisijos įgaliotas atstovas turi teisę dalyvauti biržos
@@ -1308,8 +1311,8 @@ Nr. VIII-671,
 98.03.19, Žin., 1998, Nr.33-873 (98.04.08)
  
  
-26 straipsnis. Prekyba vertybiniais popieriais vertybinių
-popierių biržoje
+26 straipsnis. Prekyba vertybiniais popieriais
+vertybinių popierių biržoje
  
 1. Prekyba vertybiniais popieriais vertybinių popierių
 biržoje vyksta pagal šio įstatymo 21 straipsnyje nurodytas prekybos taisykles,
@@ -1334,10 +1337,10 @@ emitento ar jo įgaliotos finansų maklerio įmonės paraišką. Prie paraiškos
 būti pridėti prospektas, paskutinis metų prospektas-ataskaita, visos einamųjų
 metų periodinės ataskaitos bei kita biržos prekybos taisyklėse numatyta
 informacija.
-6. Vertybinių popierių birža turi nustatyti reikalavimus,
-kuriuos privalo tenkinti emitentas, kad jo vertybiniai popieriai būtų įtraukti
-į oficialųjį prekybos sąrašą. Į šį sąrašą gali būti įtraukti tik visiškai
-apmokėti, be perleidimo teisių apribojimų vertybiniai popieriai. Kiti
+6. Vertybinių popierių birža turi nustatyti
+reikalavimus, kuriuos privalo tenkinti emitentas, kad jo vertybiniai popieriai
+būtų įtraukti į oficialųjį prekybos sąrašą. Į šį sąrašą gali būti įtraukti tik
+visiškai apmokėti, be perleidimo teisių apribojimų vertybiniai popieriai. Kiti
 reikalavimai nustatomi biržos prekybos taisyklėse, tačiau jie negali būti
 mažesni negu šiame įstatyme nustatyti atskaitingiems emitentams.
 7. Vertybinių popierių įtraukimas į oficialųjį biržos
@@ -1363,11 +1366,11 @@ priežasčių, numatytų biržos prekybos taisyklėse.
 popieriais, vertybinių popierių birža turi nedelsdama, tą pačią dieną, apie tai
 pranešti Vertybinių popierių komisijai ir emitentui. Jeigu per 3 mėnesius nuo
 prekybos sustabdymo šį sprendimą sąlygojusios priežastys nepašalinamos,
-vertybinių popierių birža turi teisę išbraukti vertybinius popierius iš
-oficialiojo prekybos sąrašo.
-10. Vertybinių popierių birža turi skelbti bendrą kiekvienos
-prekybos vertybiniais popieriais dienos prekybos apimtį ir vertybinių popierių,
-kuriais buvo prekiaujama, prekybos apimtį ir kainas.
+vertybinių popierių birža turi teisę išbraukti vertybinius popierius iš oficialiojo
+prekybos sąrašo.
+10. Vertybinių popierių birža turi skelbti bendrą
+kiekvienos prekybos vertybiniais popieriais dienos prekybos apimtį ir
+vertybinių popierių, kuriais buvo prekiaujama, prekybos apimtį ir kainas.
 11. Vertybinių popierių birža turi informuoti
 Vertybinių popierių komisiją apie:
 1) biržoje sudarytus sandorius dėl vertybinių
@@ -1393,8 +1396,8 @@ prekybos taisyklėse ir kituose biržos norminiuose aktuose nustatytų
 reikalavimų, ir taikyti savo prekybos taisyklėse numatytas sankcijas už
 padarytus pažeidimus.
 15. Vertybinių popierių biržos valdybos, tarybos,
-revizijos komisijos nariai, arbitražo darbuotojai, taip pat visi biržos tarnautojai
-neturi teisės be specialaus biržos valdybos įgaliojimo atskleisti
+revizijos komisijos nariai, arbitražo darbuotojai, taip pat visi biržos
+tarnautojai neturi teisės be specialaus biržos valdybos įgaliojimo atskleisti
 konfidencialios informacijos, kurią jie sužino dirbdami biržoje.
 16. Ketindama sudaryti sandorį vertybinių popierių
 biržoje, finansų maklerio įmonė turi pateikti pavedimą ir garantuoti vertybinių
@@ -1403,8 +1406,8 @@ popierių apmokėjimą ar pateikimą kitai sandorio šaliai.
 fondą, kuris padėtų ištaisyti padėtį, jeigu viena ar kelios finansų maklerio
 įmonės nesugeba įvykdyti įsipareigojimų. Garantinis fondas formuojamas iš
 biržos narių įnašų. Garantinio fondo formavimo ir naudojimo taisykles tvirtina
-Vertybinių popierių komisija. Garantinio fondo lėšos negali būti naudojamos
-biržos einamosioms išlaidoms finansuoti. Vertybinių popierių komisija turi teisę
+Vertybinių popierių komisija. Garantinio fondo lėšos negali būti naudojamos biržos
+einamosioms išlaidoms finansuoti. Vertybinių popierių komisija turi teisę
 nustatyti minimalius garantinio fondo dydžio ir jo veiklos reikalavimus.
 Straipsnio pakeitimai:
 Nr. VIII-671,
@@ -1457,26 +1460,23 @@ popierių sąskaitose, atidaromose vertybinių popierių savininkų vardu. Įra�
 vertybinių popierių sąskaitoje yra tiesioginis nuosavybės teisės į jame
 nurodytus vertybinius popierius įrodymas. Vertybinių popierių sąskaitos gali
 būti tvarkomos popieriuje arba kompiuteriniu būdu.
-            2.
-Vertybinių popierių asmenines sąskaitas turi teisę atidaryti ir tvarkyti
-emitentai, išleidžiantys į apyvartą vertybinius popierius, arba viešosios
-apyvartos tarpininkai (finansų maklerio įmonės arba bankai) - Centrinio
-depozitoriumo, veikiančio šio įstatymo 29 straipsnyje nustatyta tvarka,
-dalyviai. Vertybinių popierių asmeninės sąskaitos Vertybinių popierių komisijos
-nustatyta tvarka gali būti atidarytos ir tvarkomos Centriniame depozitoriume.
-Jeigu šio įstatymo apibrėžtos vertybinių popierių sąskaitų tvarkymo nuostatos
-taikomos ir emitentams, ir viešosios apyvartos tarpininkams, toliau jie
-vadinami sąskaitų tvarkytojais.
-            3.
-Emitentas turi teisę atidaryti ir tvarkyti tik savo išleistų vertybinių
-popierių asmenines sąskaitas, išskyrus atvejus, kai jis kartu yra ir vertybinių
-popierių viešosios apyvartos tarpininkas. Emitentas privalo atidaryti savo
-išleistų vertybinių popierių asmenines sąskaitas kiekvienam investitoriui,
-kuris nėra raštu pareiškęs, kad perduoda sąskaitos tvarkymą viešosios apyvartos
-tarpininkui. Sutartimi, patvirtinta notaro, emitentas gali perduoti tokių
-sąskaitų tvarkymą viešosios apyvartos tarpininkui, ne vėliau kaip 10 dienų iki
-perdavimo informavęs apie tai Vertybinių popierių komisiją bei Centrinį
-depozitoriumą. Tokiai sutarčiai sudaryti investitorių sutikimas nėra būtinas.
+2. Vertybinių popierių asmenines sąskaitas turi teisę
+atidaryti ir tvarkyti viešosios apyvartos tarpininkai (finansų maklerio įmonės
+arba bankai) - Centrinio depozitoriumo, veikiančio šio įstatymo 29 straipsnyje
+nustatyta tvarka, dalyviai. Vertybinių popierių asmeninės sąskaitos Vertybinių
+popierių komisijos nustatyta tvarka gali būti atidarytos ir tvarkomos
+Centriniame depozitoriume. Viešosios apyvartos tarpininkai, atidarantys ir
+tvarkantys vertybinių popierių asmenines sąskaitas, toliau vadinami sąskaitų
+tvarkytojais.
+3. Emitentas privalo perduoti savo išleistų vertybinių
+popierių asmeninių sąskaitų tvarkymą sąskaitų tvarkytojams per šio straipsnio 1
+dalyje nustatytą terminą. Tokiai sutarčiai sudaryti investitorių sutikimas nebūtinas.
+Centrinis depozitoriumas praneša Vertybinių popierių komisijai šios nustatyta
+tvarka apie emitentų, išleidusių vertybinius popierius, įgaliotus šių
+vertybinių popierių sąskaitų tvarkytojus. Emitento įgaliotas sąskaitų
+tvarkytojas privalo atidaryti emitento išleistų vertybinių popierių asmenines
+sąskaitas kiekvienam investitoriui, kuris nėra raštu pareiškęs emitentui, kad
+perduoda sąskaitos tvarkymą kitam viešosios apyvartos tarpininkui.
             4.
 Vertybinių popierių viešosios apyvartos tarpininkai gali atidaryti ir tvarkyti
 asmenines vertybinių popierių sąskaitas tik sudarę rašytines sutartis su
@@ -1536,8 +1536,8 @@ sąskaitų tvarkytojas turi pateikti Centriniam depozitoriumui. Keisti
 investitoriaus vertybinių popierių sąskaitos turinį turi teisę tik ją
 tvarkantis sąskaitų tvarkytojo įgaliotas darbuotojas.
             10.
-Sąskaitų tvarkytojo vadovai ir darbuotojai privalo užtikrinti informacijos,
-kurią jie sužinojo tvarkydami investitorių sąskaitas, konfidencialumą, išskyrus
+Sąskaitų tvarkytojo vadovai ir darbuotojai privalo užtikrinti informacijos, kurią
+jie sužinojo tvarkydami investitorių sąskaitas, konfidencialumą, išskyrus
 atvejus, kai pagal šį ar kitus įstatymus jie yra įpareigoti suteikti tokią
 informaciją.
             11.
@@ -1552,6 +1552,8 @@ Vertybinių popierių komisija.
 Straipsnio pakeitimai:
 Nr. VIII-671,
 98.03.19, Žin., 1998, Nr.33-873 (98.04.08)
+Nr. VIII-1839, 00.07.13, Žin., 2000,
+Nr.61-1837 (00.07.26)
  
  
 29 straipsnis. Lietuvos centrinis vertybinių popierių
@@ -1611,11 +1613,11 @@ bei jų pataisos turi būti suderinti su Vertybinių popierių komisija.
 5. Vertybinių popierių komisijos atstovas su
 patariamuoju balsu turi teisę dalyvauti Centrinio depozitoriumo valdymo organų
 posėdžiuose.
-6. Centrinio depozitoriumo instrukcijos bei nurodymai vertybinių
-popierių apskaitos klausimais yra privalomi visiems sąskaitų tvarkytojams.
-Centrinis depozitoriumas, veikdamas kaip sąskaitų tvarkytojas, privalo
-vadovautis visais norminiais aktais, reglamentuojančiais asmeninių vertybinių
-popierių sąskaitų tvarkymą.
+6. Centrinio depozitoriumo instrukcijos bei nurodymai
+vertybinių popierių apskaitos klausimais yra privalomi visiems sąskaitų
+tvarkytojams. Centrinis depozitoriumas, veikdamas kaip sąskaitų tvarkytojas,
+privalo vadovautis visais norminiais aktais, reglamentuojančiais asmeninių
+vertybinių popierių sąskaitų tvarkymą.
 Straipsnio pakeitimai:
 Nr. VIII-671,
 98.03.19, Žin., 1998, Nr.33-873 (98.04.08)
@@ -1658,8 +1660,8 @@ Pasibaigus įgaliojimų laikui, komisijos nariai atskiru Seimo sprendimu savo
 pareigas gali eiti tol, kol bus paskirti nauji nariai.
             4.
 Jeigu pirmininkas ar komisijos nariai atsisako savo pareigų arba dėl objektyvių
-priežasčių negali jų eiti nesibaigus įgaliojimų terminui, Respublikos Prezidentas
-į jų vietas likusiam jų įgaliojimų laikui skiria kitus asmenis.
+priežasčių negali jų eiti nesibaigus įgaliojimų terminui, Respublikos
+Prezidentas į jų vietas likusiam jų įgaliojimų laikui skiria kitus asmenis.
             5.
 Vertybinių popierių komisijos pirmininkas ir komisijos nariai per savo
 kadenciją gali būti atleisti iš pareigų tik jų pačių prašymu, taip pat
@@ -1737,9 +1739,9 @@ popierių biržų patvirtintas taisykles ar instrukcijas;
             8)
 registruoja vertybinių popierių emisiją;
             9)
-turi teisę kreiptis į teismą dėl investitorių pažeistų teisių gynimo, jeigu emitentų,
-vertybinių popierių viešosios apyvartos tarpininkų, kitų ūkio subjektų ar
-maklerių veiksmais buvo pažeisti daugelio investitorių interesai;
+turi teisę kreiptis į teismą dėl investitorių pažeistų teisių gynimo, jeigu
+emitentų, vertybinių popierių viešosios apyvartos tarpininkų, kitų ūkio
+subjektų ar maklerių veiksmais buvo pažeisti daugelio investitorių interesai;
             10)
 organizuoja kursus, publikuoja ar dalyvauja publikuojant bendro pobūdžio ir
 specialius leidinius apie vertybinių popierių rinkos funkcionavimą ir
@@ -1888,26 +1890,22 @@ Nr. VIII-671,
 AŠTUNTASIS SKIRSNIS
 ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
  
-            38
-straipsnis. Įstatymo pažeidimo pasekmės
+38 straipsnis. Įstatymo pažeidimo pasekmės
  
-            1.
-Ūkio subjektai, pažeidę šį įstatymą, privalo:
-            1)
-vykdyti Vertybinių popierių komisijos nurodymus nutraukti veiksmus, atkurti
-ankstesnę padėtį, nutraukti arba pakeisti sutartis, atlikti kitus
-įpareigojimus;
-            2)
-atlyginti padarytus nuostolius;
-            3)
-vykdyti šiame įstatyme numatytas Vertybinių popierių komisijos paskirtas
-sankcijas.
+1. Ūkio subjektai, pažeidę šį įstatymą, privalo:
+1) vykdyti Vertybinių popierių komisijos nurodymus
+nutraukti veiksmus, atkurti ankstesnę padėtį, nutraukti arba pakeisti sutartis,
+atlikti kitus įpareigojimus;
+2) atlyginti padarytus nuostolius;
+3) vykdyti šiame įstatyme numatytas Vertybinių
+popierių komisijos paskirtas sankcijas.
 2. Vertybinių popierių komisija pagal patvirtintas
 taisykles turi teisę skirti pinigines baudas:
 1) emitentams, pagal šį įstatymą turintiems
-įregistruoti vertybinius popierius ar atidaryti sąskaitą Centriniame depozitoriume,
-bet to nepadariusiems, - iki 10 procentų registruotinų ar įregistruotų
-vertybinių popierių bendros nominalios vertės;
+įregistruoti vertybinius popierius, atidaryti sąskaitą Centriniame
+depozitoriume ar perduoti sąskaitų tvarkymą viešosios apyvartos tarpininkui,
+bet to nepadariusiems, - iki 10 procentų registruotinų, įregistruotų ar
+perduotinų vertybinių popierių bendros nominalios vertės;
 2) emitentams, viešosios apyvartos tarpininkams ar
 kitiems ūkio subjektams, organizuojantiems ar vykdantiems Vertybinių popierių
 komisijoje neįregistruotų vertybinių popierių, taip pat vertybinių popierių,
@@ -1931,20 +1929,22 @@ iki 100 tūkstančių litų;
 8) ūkio subjektams, besiverčiantiems vertybinių
 popierių biržos veikla be šio įstatymo 21 straipsnyje numatyto Vertybinių
 popierių komisijos leidimo, - iki dvigubo neteisėtai gautų pajamų dydžio;
-9) ūkio subjektams, pažeidusiems šio įstatymo 6 straipsnio
-šeštojoje dalyje ir 26 straipsnio tryliktojoje dalyje numatytus reikalavimus, -
-iki trigubo neteisėtai gautų pajamų dydžio arba iki 100 tūkstančių litų.
-            3.
-Vertybinių popierių komisija, prieš skirdama šio straipsnio antrojoje dalyje
-numatytas pinigines baudas, turi sudaryti sąlygas baudžiamo ūkio subjekto
-vadovams pateikti paaiškinimus apie padarytą pažeidimą.
-            4.
-Šio straipsnio antrojoje dalyje numatytų sankcijų taikymas ūkio subjektams
-neatleidžia jų vadovų nuo įstatymų numatytos civilinės, administracinės ir
-baudžiamosios atsakomybės.
+9) ūkio subjektams, pažeidusiems šio įstatymo 6
+straipsnio šeštojoje dalyje ir 26 straipsnio tryliktojoje dalyje numatytus
+reikalavimus, - iki trigubo neteisėtai gautų pajamų dydžio arba iki 100
+tūkstančių litų.
+            3. Vertybinių popierių komisija, prieš
+skirdama šio straipsnio antrojoje dalyje numatytas pinigines baudas, turi
+sudaryti sąlygas baudžiamo ūkio subjekto vadovams pateikti paaiškinimus apie
+padarytą pažeidimą.
+            4. Šio straipsnio antrojoje dalyje
+numatytų sankcijų taikymas ūkio subjektams neatleidžia jų vadovų nuo įstatymų
+numatytos civilinės, administracinės ir baudžiamosios atsakomybės.
 Straipsnio pakeitimai:
 Nr. VIII-671,
 98.03.19, Žin., 1998, Nr.33-873 (98.04.08)
+Nr. VIII-1839, 00.07.13, Žin., 2000,
+Nr.61-1837 (00.07.26)
  
  
             39
@@ -2004,11 +2004,17 @@ tarnybinio atlyginimo priedus. Vertybinių popierių komisijos administracijos
 darbuotojų darbo užmokestį nustato komisijos pirmininkas vadovaudamasis
 Vyriausybės nustatyta Vyriausybės kanceliarijos darbuotojų darbo apmokėjimo
 tvarka.
+4. Emitentai, patys tvarkantys savo išleistų
+vertybinių popierių asmenines sąskaitas, privalo perduoti šių sąskaitų tvarkymą
+viešosios apyvartos tarpininkams šio įstatymo 28 straipsnio 3 dalies nustatyta
+tvarka iki 2002 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr. I-1480,
 96.07.11, Žin., 1996, Nr. 71-1713 (96.07.26)
 Nr. VIII-671,
 98.03.19, Žin., 1998, Nr.33-873 (98.04.08)
+Nr. VIII-1839, 00.07.13, Žin., 2000,
+Nr.61-1837 (00.07.26)
  
  
  
@@ -2017,7 +2023,7 @@ Nr. VIII-671,
  
  
 RESPUBLIKOS
-PREZIDENTAS                                          ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
 _____________
  
 Pakeitimai:
@@ -2054,8 +2060,16 @@ Nr.61-1824 (00.07.26)
 VERTYBINIŲ POPIERIŲ VIEŠOSIOS APYVARTOS ĮSTATYMO 3, 7 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1839, 00.07.13, Žin., 2000,
+Nr.61-1837 (00.07.26)
+VERTYBINIŲ POPIERIŲ VIEŠOSIOS APYVARTOS ĮSTATYMO 28, 38 STRAIPSNIŲ
+PAKEITIMO IR 41 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.10)
+Redagavo: Aušrinė
+Trapinskienė (2000.08.10)
 
