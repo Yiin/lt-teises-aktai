@@ -1716,17 +1716,18 @@ veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais
 viešasis juridinis asmuo, turi savo antspaudą su valstybės herbu bei sąskaitų
 bankuose. Komisijos būstinė yra Vilniuje. 
 4. Komisiją
-sudaro 12 narių: 1 narį skiria Respublikos Prezidentas, 3 narius – Seimas
+sudaro 13 narių: 1 narį skiria Respublikos Prezidentas, 3 narius – Seimas
 Švietimo, mokslo ir kultūros komiteto teikimu, po 1 narį – Lietuvos dailininkų
 sąjunga, Lietuvos kinematografininkų sąjunga, Lietuvos kompozitorių sąjunga,
 Lietuvos rašytojų sąjunga, Lietuvos teatro sąjunga, Lietuvos žurnalistų
 sąjunga, Lietuvos žurnalistų draugija, Lietuvos katalikų bažnyčios Vyskupų
-konferencija. Komisijos narys skiriamas jį paskyrusios institucijos kadencijos
-ar jį paskyrusios organizacijos valdymo organų įgaliojimų laikui. Komisijos
-nariu gali būti skiriamas tik nepriekaištingos reputacijos asmuo. Asmenys
-Komisijos nariais gali būti ne ilgiau kaip dvi kadencijas iš eilės.
-Komisijos nario darbo Komisijoje teisinis pagrindas yra jį paskyrusios
-institucijos ar organizacijos priimtas sprendimas.
+konferencija, Lietuvos periodinės spaudos leidėjų asociacija. Komisijos narys
+skiriamas jį paskyrusios institucijos kadencijos ar jį paskyrusios
+organizacijos valdymo organų įgaliojimų laikui. Komisijos nariu gali būti
+skiriamas tik nepriekaištingos reputacijos asmuo. Asmenys Komisijos nariais
+gali būti ne ilgiau kaip dvi kadencijas iš eilės. Komisijos nario darbo
+Komisijoje teisinis pagrindas yra jį paskyrusios institucijos ar organizacijos
+priimtas sprendimas.
 5. Komisijos
 narys negali būti atšauktas iš pareigų, kol nesibaigė jo įgaliojimų laikas,
 išskyrus atvejus, kai:
@@ -1792,12 +1793,12 @@ Komisijos sprendimai skelbiami „Valstybės žiniose“ ir įsigalioja kitą di
 jų paskelbimo, jeigu pačiuose sprendimuose nenustatyta vėlesnė jų įsigaliojimo
 data. Juos asmenys gali skųsti teismui per 30 dienų nuo įsigaliojimo dienos.
 14. Komisijos
-funkcijoms atlikti sudaroma Komisijos administracija. Jai vadovauja
-administracijos direktorius. Administracijos direktoriumi negali būti Komisijos
-narys. Komisija direktorių skiria konkurso tvarka. Direktorius už
-administracijos veiklą kasmet atsiskaito Komisijai. Administracijos sudėtį ir
-darbuotojų skaičių tvirtina Komisija. Administracijos veikla organizuojama
-pagal Komisijos patvirtintus nuostatus. 
+funkcijoms atlikti sudaroma Komisijos administracija. Jai vadovauja administracijos
+direktorius. Administracijos direktoriumi negali būti Komisijos narys. Komisija
+direktorių skiria konkurso tvarka. Direktorius už administracijos veiklą kasmet
+atsiskaito Komisijai. Administracijos sudėtį ir darbuotojų skaičių tvirtina
+Komisija. Administracijos veikla organizuojama pagal Komisijos patvirtintus
+nuostatus. 
 15. Komisijos
 veiklai finansuoti transliuotojai ir retransliuotojai, išskyrus LRT, gaunantys
 pajamas iš transliavimo ir (ar) retransliavimo veiklos, kas mėnesį privalo
@@ -1818,6 +1819,9 @@ Straipsnio
 pakeitimai:
 Nr. IX-2176,
 2004-04-27, Žin., 2004, Nr. 73-2515 (2004-04-30)
+Nr.
+IX-2396,
+2004-07-15, Žin., 2004, Nr. 120-4436 (2004-08-03)
  
 49 straipsnis.
 Lietuvos radijo ir televizijos komisijos kompetencija
@@ -1838,9 +1842,9 @@ licencijos mokesčio ir mokesčio už paraiškos licencijai gauti nagrinėjimą 
 4) kontroliuoti,
 kaip transliuotojai ir retransliuotojai laikosi prisiimtų įsipareigojimų,
 licencijų sąlygų ir Komisijos priimtų sprendimų;
-5) pagal savo
-kompetenciją vykdyti Nepilnamečių apsaugos nuo neigiamo viešosios informacijos
-poveikio įstatymo nuostatų įgyvendinimo priežiūrą;
+5) pagal savo kompetenciją
+vykdyti Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio
+įstatymo nuostatų įgyvendinimo priežiūrą;
 6) nustatyti
 įstatymų ir Europos Sąjungos reikalavimų programų sandarai ir turiniui,
 reklamos transliavimui įgyvendinimo tvarką;
@@ -1851,7 +1855,8 @@ rodyti laidas apie visuomenei itin reikšmingus įvykius, šio įstatymo 39
 straipsnio 10 ir 11 dalyse nustatytų reikalavimų televizijos reklamai, nuostatų
 dėl programų rėmimo;
 8) kontroliuoti,
-kaip retransliuotojai laikosi šio įstatymo nuostatų dėl programų retransliavimo;
+kaip retransliuotojai laikosi šio įstatymo nuostatų dėl programų
+retransliavimo;
 9)
 kontroliuojant įstatymų, Komisijos sprendimų, reglamentuojančių transliuotojų
 bei retransliuotojų veiklą, ir licencijų sąlygų laikymąsi, vykdyti
@@ -2000,14 +2005,15 @@ AKTŲ PAŽEIDIMUS IR JOS ĮGYVENDINIMO TVARKA
 52
 straipsnis. Viešosios informacijos rengėjų, platintojų bei pareigūnų atsakomybė
 1. Už šio ir kitų įstatymų, Lietuvos Respublikos
-tarptautinių sutarčių, reglamentuojančių viešosios informacijos rengimą,
-pažeidimus, taip pat už įstatymų nustatytos viešosios informacijos platinimo
-tvarkos pažeidimus atsako viešosios informacijos rengėjas ar platintojas šio ir kitų įstatymų nustatyta tvarka.
-2. Valstybės ir savivaldybių institucijos bei
-įstaigos, kitos biudžetinės įstaigos, pareigūnai už trukdymą viešosios
-informacijos rengėjams ar platintojams skleisti žinias, neteisėtą atsisakymą pateikti viešąją informaciją arba neteisingos
-informacijos pateikimą atsako įstatymų nustatyta tvarka. Tokie jų veiksmai gali
-būti skundžiami teismui.
+tarptautinių sutarčių, reglamentuojančių
+viešosios informacijos rengimą, pažeidimus, taip pat už įstatymų nustatytos
+viešosios informacijos platinimo tvarkos pažeidimus atsako viešosios
+informacijos rengėjas ar platintojas šio ir kitų įstatymų nustatyta tvarka.
+2. Valstybės ir savivaldybių institucijos bei įstaigos, kitos biudžetinės įstaigos, pareigūnai
+už trukdymą viešosios informacijos rengėjams ar platintojams skleisti žinias,
+neteisėtą atsisakymą pateikti viešąją informaciją arba neteisingos informacijos
+pateikimą atsako įstatymų nustatyta tvarka.
+Tokie jų veiksmai gali būti skundžiami teismui.
  
 53 straipsnis.
 Viešosios informacijos rengėjų ir (ar) platintojų veiklos sustabdymas arba 
@@ -2041,10 +2047,10 @@ tikrovės neatitinkančią, žeminančią asmens garbę ir orumą informaciją, 
 asmeniui padarytą moralinę žalą įstatymų nustatyta tvarka. Moralinės
 žalos atlyginimo dydis negali viršyti 10 tūkstančių litų, išskyrus atvejus, kai
 teismas nustato, kad tikrovės neatitinkanti, asmens garbę ir orumą žeminanti
-informacija buvo paskelbta tyčia. Tokiais atvejais teismo sprendimu ši suma gali
-būti padidinta, bet ne daugiau kaip 5 kartus. Kiekvienu atveju priteisiama suma
-negali būti didesnė kaip 5 procentai viešosios informacijos rengėjo ir (ar)
-platintojo metinių pajamų.
+informacija buvo paskelbta tyčia. Tokiais atvejais teismo sprendimu ši suma
+gali būti padidinta, bet ne daugiau kaip 5 kartus. Kiekvienu atveju priteisiama
+suma negali būti didesnė kaip 5 procentai viešosios informacijos rengėjo ir
+(ar) platintojo metinių pajamų.
 2. Viešosios
 informacijos rengėjo šio įstatymo nustatyta tvarka paskelbtas tikrovės
 neatitinkančios, žeminančios garbę ir orumą informacijos paneigimas bei
@@ -2086,8 +2092,9 @@ informacija nebuvo paneigta ją paskelbusiose visuomenės informavimo priemonės
 4) paskelbta
 tiesioginių radijo ar televizijos laidų dalyvių, nepavaldžių viešosios
 informacijos rengėjui;
-5) paskelbta specialioje
-rinkimų laidoje, kurią rengė ne pats viešosios informacijos rengėjas;
+5) paskelbta
+specialioje rinkimų laidoje, kurią rengė ne pats viešosios informacijos
+rengėjas;
 6) paskelbta
 neanoniminiuose reklaminiuose skelbimuose, užsakomuosiuose straipsniuose ar
 laidose;
@@ -2113,8 +2120,8 @@ Nr. IX-2176,
 2004-04-27, Žin., 2004, Nr. 73-2515 (2004-04-30)
  
  
-            Skelbiu šį Lietuvos Respublikos
-Seimo priimtą įstatymą.
+            Skelbiu šį Lietuvos
+Respublikos Seimo priimtą įstatymą.
             
  
 RESPUBLIKOS PREZIDENTAS                                               
@@ -2306,8 +2313,13 @@ GALIOS IR ĮSTATYMO PAPILDYMO 56 STRAIPSNIU BEI PRIEDU ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
  
-***
-Pabaiga ***
+18.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-2396, 2004-07-15,
+Žin., 2004, Nr. 120-4436 (2004-08-03)
+VISUOMENĖS
+INFORMAVIMO ĮSTATYMO 48 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
  
 Konstitucinio
@@ -2326,6 +2338,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-05-14)
+Aušra Bodin (2004-08-03)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
