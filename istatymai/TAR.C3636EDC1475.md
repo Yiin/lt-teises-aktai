@@ -16,6 +16,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C3636EDC1475"
 Įstatymas skelbtas: Žin., 2003, Nr. 17-711
 Neoficialus įstatymo tekstas
  
+Pastaba. Pripažinti, kad Lietuvos
+Respublikos savivaldybių tarybų rinkimų įstatymo 86, 87 straipsnių papildymo
+bei pakeitimo ir įstatymo papildymo 881 straipsniu įstatymas pagal priėmimo tvarką prieštarauja
+Lietuvos Respublikos Konstitucijos 69 straipsnio 1 daliai.
+Lietuvos Respublikos Konstitucinis
+Teismas, Nutarimas
+2005-01-19, Žin., 2005, Nr. 9-289 (2005-01-22)
+ 
 LIETUVOS RESPUBLIKOS
 SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 86, 87 STRAIPSNIŲ PAPILDYMO BEI
 PAKEITIMO IR ĮSTATYMO PAPILDYMO 88(1) STRAIPSNIU
@@ -54,13 +62,14 @@ kitam sąrašui pagal kandidatų sąrašų eilę, sudarytą po rinkimų mandatam
 paskirstyti liekanų metodu, t. y. tam sąrašui, kuris yra pirmasis po sąrašo,
 kuris paskutinis gavo mandatą pagal šią eilę, ir tarybos nariu tampa naujai
 mandatą gavusio sąrašo pirmasis tarybos nario mandato negavęs kandidatas.
-Vyriausioji rinkimų komisija sprendimą dėl tarybos nario mandato pripažinimo
-naujam tarybos nariui turi priimti ne vėliau kaip per 7 dienas po to, kai
-atsirado laisva tarybos nario vieta.“
+Vyriausioji rinkimų komisija sprendimą dėl tarybos nario mandato pripažinimo naujam
+tarybos nariui turi priimti ne vėliau kaip per 7 dienas po to, kai atsirado
+laisva tarybos nario vieta.“
  
 3 straipsnis.
 Įstatymo papildymas 88(1) straipsniu
-Papildyti Įstatymą 88(1) straipsniu:
+Papildyti Įstatymą 88(1)
+straipsniu:
 „88(1 )straipsnis.
 Pareigos, nesuderinamos su savivaldybės tarybos nario pareigomis, ir tarybos
 nario mandato netekimas
@@ -74,23 +83,23 @@ tarnybos valstybės tarnautojo, su savivaldybės administracijos direktoriaus ir
 jo pavaduotojo ar savivaldybės administracijos valstybės tarnautojo pareigomis.
 
 2. Jeigu šio
-straipsnio 1 dalyje nurodytas pareigas einantis asmuo išrenkamas savivaldybės tarybos
-nariu arba būdamas savivaldybės tarybos nariu dirba arba pereina dirbti į šio
-straipsnio 1 dalyje nurodytas pareigas, jis turi apsispręsti ir atsisakyti šių
-pareigų arba savivaldybės tarybos nario mandato. Išrinktas tarybos narys,
-apsisprendęs atsisakyti tarybos nario mandato, ne vėliau kaip likus 10 dienų
-iki savivaldybės tarybos pirmojo posėdžio dienos paduoda Vyriausiajai rinkimų
-komisijai asmeniškai arba išsiunčia jai notarine tvarka patvirtintą pareiškimą
-dėl savivaldybės tarybos nario mandato atsisakymo. Gavusi šį pareiškimą,
-Vyriausioji rinkimų komisija mandatų komisijos teisėmis ne vėliau kaip likus 7
-dienoms iki savivaldybės tarybos pirmojo posėdžio dienos priima sprendimą dėl
-savivaldybės tarybos nario mandato netekimo ir mandato naujam tarybos nariui
-pripažinimo. Porinkiminio kandidatų sąrašo kandidatai į atsiradusią laisvą
-tarybos nario vietą, apsisprendę atsisakyti tarybos nario mandato, taip pat
-turi paduoti Vyriausiajai rinkimų komisijai pareiškimus dėl savivaldybės
-tarybos nario mandato atsisakymo ne vėliau kaip likus 7 dienoms iki
-savivaldybės tarybos pirmojo posėdžio dienos. Sprendimą dėl asmens, turinčio
-tarybos nario įgaliojimus ir dirbančio ar perėjusio dirbti į pareigas,
+straipsnio 1 dalyje nurodytas pareigas einantis asmuo išrenkamas savivaldybės
+tarybos nariu arba būdamas savivaldybės tarybos nariu dirba arba pereina dirbti
+į šio straipsnio 1 dalyje nurodytas pareigas, jis turi apsispręsti ir
+atsisakyti šių pareigų arba savivaldybės tarybos nario mandato. Išrinktas
+tarybos narys, apsisprendęs atsisakyti tarybos nario mandato, ne vėliau kaip
+likus 10 dienų iki savivaldybės tarybos pirmojo posėdžio dienos paduoda
+Vyriausiajai rinkimų komisijai asmeniškai arba išsiunčia jai notarine tvarka
+patvirtintą pareiškimą dėl savivaldybės tarybos nario mandato atsisakymo.
+Gavusi šį pareiškimą, Vyriausioji rinkimų komisija mandatų komisijos teisėmis
+ne vėliau kaip likus 7 dienoms iki savivaldybės tarybos pirmojo posėdžio dienos
+priima sprendimą dėl savivaldybės tarybos nario mandato netekimo ir mandato
+naujam tarybos nariui pripažinimo. Porinkiminio kandidatų sąrašo kandidatai į
+atsiradusią laisvą tarybos nario vietą, apsisprendę atsisakyti tarybos nario
+mandato, taip pat turi paduoti Vyriausiajai rinkimų komisijai pareiškimus dėl
+savivaldybės tarybos nario mandato atsisakymo ne vėliau kaip likus 7 dienoms
+iki savivaldybės tarybos pirmojo posėdžio dienos. Sprendimą dėl asmens,
+turinčio tarybos nario įgaliojimus ir dirbančio ar perėjusio dirbti į pareigas,
 nesuderinamas su savivaldybės tarybos nario pareigomis, pareiškimo Vyriausioji
 rinkimų komisija priima šio Įstatymo 86 ir 87 straipsniuose nustatyta tvarka.“
  
@@ -101,19 +110,16 @@ straipsnis. Baigiamosios nuostatos
 Straipsnio pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2003-05-30, Žin., 2003, Nr. 53-2361 (2003-05-31)
-Nr. IX-1585, 2003-05-27, Žin., 2003, Nr. 57-2533
-(2003-06-13)
- 
+Nr. IX-1585,
+2003-05-27, Žin., 2003, Nr. 57-2533 (2003-06-13)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
- 
  
 
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-____________________
  
 Pakeitimai:
  
@@ -121,7 +127,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1585, 2003-05-27, Žin., 2003, Nr. 57-2533 (2003-06-13)
+IX-1585,
+2003-05-27, Žin., 2003, Nr. 57-2533 (2003-06-13)
 SAVIVALDYBIŲ
 TARYBŲ RINKIMŲ ĮSTATYMO 86, 87 STRAIPSNIŲ PAPILDYMO BEI PAKEITIMO IR ĮSTATYMO
 PAPILDYMO 88(1) STRAIPSNIU ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -130,7 +137,7 @@ PAPILDYMO 88(1) STRAIPSNIU ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Pabaiga ***
  
  
-KONSTITUCINIO TEISMO NUTARIMAI:
+Konstitucinio Teismo nutarimai:
  
 1.
 Lietuvos
@@ -139,19 +146,26 @@ Respublikos Konstitucinis Teismas, Nutarimas
 Žin., 2003, Nr. 53-2361 (2003-05-31)
 DĖL
 LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 86, 87 STRAIPSNIŲ
-PAPILDYMO BEI PAKEITIMO IR ĮSTATYMO PAPILDYMO 88(1) STRAIPSNIU ĮSTATYMO 4 STRAIPSNIO
-2 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR LIETUVOS RESPUBLIKOS
-VYRIAUSYBĖS 2003 M. BALANDŽIO 11 D. NUTARIMO NR. 457 „DĖL VILNIAUS APSKRITIES
+PAPILDYMO BEI PAKEITIMO IR ĮSTATYMO PAPILDYMO 88(1) STRAIPSNIU ĮSTATYMO 4
+STRAIPSNIO 2 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR LIETUVOS
+RESPUBLIKOS VYRIAUSYBĖS 2003 M. BALANDŽIO 11 D. NUTARIMO NR. 457 „DĖL VILNIAUS APSKRITIES
 VIRŠININKO ATLEIDIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI BEI
 LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS
 AKTŲ SKELBIMO IR ĮSIGALIOJIMO TVARKOS" 9 STRAIPSNIO 1 DALIAI
  
-***
-Pabaiga ***
+2.
+Lietuvos Respublikos Konstitucinis
+Teismas, Nutarimas
+2005-01-19, Žin., 2005, Nr. 9-289
+(2005-01-22)
+DĖL LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ
+TARYBŲ RINKIMŲ ĮSTATYMO 86, 87 STRAIPSNIŲ PAPILDYMO BEI PAKEITIMO IR ĮSTATYMO
+PAPILDYMO 88(1) STRAIPSNIU ĮSTATYMO ATITIKTIES LIETUVOS RESPUBLIKOS
+KONSTITUCIJAI
+ 
+*** Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2003-06-13)
-                 
-autrap@lrs.lt
+Redagavo Aušrinė Trapinskienė  (2005-01-22
+            ausrine.trapinskiene@lrs.lt
 
