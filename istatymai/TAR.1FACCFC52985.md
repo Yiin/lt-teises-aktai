@@ -13,11 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FACCFC52985"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2000-01-01 iki 2000-12-31
+Suvestinė redakcija nuo 2001-01-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 190-0; Žin. 1992, Nr.29-841, i. k. 0921010ISTA00I-2878
  
-TAR pastaba. Nuo 1999-04-02 netenka galios Lietuvos Respublikos konkurencijos įstatymas, išskyrus jo 4 straipsnį, kuris netenka galios nuo 2000-01-01., ir 7 straipsnio 1 dalies 2 punktą, kuris netenka galios nuo Lietuvos Respublikos įstatymo, reglamentuojančio klaidinančios reklamos naudojimą, įsigaliojimo (2001-01-01)
+TAR pastaba. Nuo 1999-04-02 neteko galios Lietuvos Respublikos konkurencijos įstatymas Nr. I-2878, išskyrus jo 4 straipsnį, kuris neteko galios nuo 2000-01-01, ir 7 straipsnio 1 dalies 2 punktą, kuris netenka galios nuo Lietuvos Respublikos įstatymo, reglamentuojančio klaidinančios reklamos naudojimą, įsigaliojimo (2001-01-01)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1100, 1999-03-23, Žin., 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
 Lietuvos Respublikos konkurencijos įstatymo įsigaliojimo įstatymas
@@ -39,28 +39,8 @@ Skirsnio naikinimas:
 Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
  
 
-III SKIRSNIS
-NESĄŽININGA KONKURENCIJA
- 
-
-7 straipsnis. Nesąžiningos konkurencijos veikų draudimas
-
-Ūkiniams subjektams draudžiama atlikti nesąžiningos konkurencijos veikas:
-
-1) Neteko galios nuo 1999-04-02
-Straipsnio punkto naikinimas:
-Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
- 
-
-2) klaidinti vartotojus, nurodant neteisingas žinias apie prekės kokybę, vartojimo savybes, pagaminimo vietą ir būdą, parduodamą kiekį ir kainą;
-
-3) Neteko galios nuo 1999-04-02
-Straipsnio punkto naikinimas:
-Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
- 
-
-4) Neteko galios nuo 1999-04-02
-Straipsnio punkto naikinimas:
+3 skirsnis. Neteko galios nuo 2001-01-01
+Skirsnio naikinimas:
 Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
  
 
