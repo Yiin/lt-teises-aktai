@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 
 # Lietuvos Respublikos vandens įstatymas
 
+Suvestinė redakcija nuo 2000-07-26 iki 2003-04-15
+ 
+Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
+ 
 LIETUVOS RESPUBLIKOS VANDENS ĮSTATYMAS
  
 1997 m. spalio 21 d. Nr. VIII-474
@@ -707,7 +711,10 @@ Juridiniai ir fiziniai asmenys, kurie tiesiogiai naudoja vandens išteklius ir t
 
 
 
-4. Valstybinės reikšmės paviršiniai vandens telkiniai žuvininkystei nenuomojami. Kitų valstybinio vidaus vandenų fondo paviršinio vandens telkinių nuomos žuvininkystei bei leidimų žvejybai išdavimo tvarką nustato Vyriausybė.
+4. Valstybinio vidaus vandenų fondo paviršinio vandens telkinių naudojimo žuvininkystei tvarką nustato bei nenuomotinų vandens telkinių sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1807, 2000-07-05, Žin., 2000, Nr. 61-1816 (2000-07-26), i. k. 1001010ISTAIII-1807
+ 
 
 
 
@@ -1388,3 +1395,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1807, 2000-07-05, Žin., 2000, Nr. 61-1816 (2000-07-26), i. k. 1001010ISTAIII-1807
+Lietuvos Respublikos vandens įstatymo 21 straipsnio pakeitimo įstatymas
