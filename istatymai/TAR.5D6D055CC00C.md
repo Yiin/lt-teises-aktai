@@ -246,6 +246,11 @@ Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 
 
 
+20-1. Miško žemės taksacinis sklypas – miško žemės dalis, nustatoma pagal teritorijos administracinį suskirstymą, miško augavietės tipą, Valstybinės miškų tarnybos nustatytus medyno kiekybinius ir kokybinius rodiklius.
+
+
+
+
 21. Miškų grupė – miško žemės plotai, kuriuose panašūs pagrindiniai ūkininkavimo tikslai ir ūkininkavimo režimas. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
@@ -395,7 +400,7 @@ Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 
 
 
-36. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme ir Lietuvos Respublikos žemės įstatyme.
+36. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos geodezijos ir kartografijos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos laukinės gyvūnijos įstatyme, Lietuvos Respublikos laukinių augalų ir grybų įstatyme, Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos želdynų įstatyme, Lietuvos Respublikos žemės įstatyme, Lietuvos Respublikos žemės reformos įstatyme.
 
 
 Straipsnio pakeitimai:
@@ -404,230 +409,13 @@ Nr. X-119, 2005-02-15, Žin., 2005, Nr. 31-977 (2005-03-05)
 Nr. XI-1448, 2011-06-16, Žin., 2011, Nr. 74-3548 (2011-06-18)
 Nr. XII-386, 2013-06-18, Žin., 2013, Nr. 73-3651 (2013-07-09)
 Straipsnio pakeitimai:
-Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-105863 straipsnis. Miškų grupės, ūkininkavimo jose tikslai ir režimas
-
-
-1. Pagal ūkininkavimo tikslus, ūkininkavimo režimą ir pagrindinę funkcinę paskirtį miškai skirstomi į grupes.
-
-
-
-
-2. I grupė – rezervatiniai miškai. Tai yra valstybinių gamtinių rezervatų, valstybinių parkų ir biosferos stebėsenos (monitoringo) teritorijose esančių gamtinių rezervatų ir rezervatinių apyrubių miškai. Ūkininkavimo tikslas – sudaryti sąlygas miškams natūraliai augti. Miško kirtimai, išskyrus Lietuvos Respublikos saugomų teritorijų įstatyme ir rezervatų nuostatuose numatytus atvejus, draudžiami.
-
-
-
-
-3. II grupė – specialios paskirties miškai. Joje skiriami:
-
-
-1) A – ekosistemų apsaugos miškai. Kraštovaizdžio, telmologinių, pedologinių, botaninių, zoologinių, botaninių-zoologinių draustinių miškai ar jų dalys, priešeroziniai miškai. Ūkininkavimo tikslas – išsaugoti arba atkurti miško ekosistemas ar atskirus jų komponentus. Šios miškų grupės medynuose draudžiami plynieji pagrindiniai miško kirtimai, o gamtinės brandos nepasiekusiuose medynuose draudžiami atvejiniai pagrindiniai miško kirtimai; 
-
-
-
-
-2) B – rekreaciniai miškai. Tai yra miško parkai, miestų miškai, valstybinių parkų rekreacinių zonų miškai, rekreaciniai miško sklypai ir kiti poilsiui skirti miškai. Ūkininkavimo tikslas – formuoti ir išsaugoti rekreacinę miško aplinką. Šios miškų grupės medynuose draudžiami plynieji pagrindiniai miško kirtimai, o gamtinės brandos nepasiekusiuose medynuose draudžiami atvejiniai pagrindiniai miško kirtimai. Kirtimus draudžiama vykdyti poilsiavimo sezono metu, išskyrus stichinių arba biotinių veiksnių sudarkytus medynus.
-
-
-
-
-4. III grupė – apsauginiai miškai. Tai yra genetinių, geologinių, geomorfologinių, hidrografinių, kultūrinių draustinių ar jų dalių, kultūrinių rezervatų miškai, atkuriamųjų ir genetinių sklypų, miško sėklinių medynų, laukų apsauginiai, apsaugos zonų miškai. Ūkininkavimo tikslas – formuoti produktyvius medynus, galinčius atlikti dirvožemio, oro, vandens, žmogaus gyvenamosios aplinkos apsaugos funkcijas. Plynųjų pagrindinių miško kirtimų biržės plotas negali būti didesnis kaip 5 hektarai. Plynieji pagrindiniai miško kirtimai draudžiami nacionaliniuose parkuose, išskyrus pelkinių ir užmirkusių augaviečių medynus.
-
-
-
-
-5. IV grupė – ūkiniai miškai. Tai yra miškai, nepriskirti I, II, III miškų grupėms. Šioje miškų grupėje skiriami:
-
-
-1) A – normalaus kirtimo amžiaus ūkiniai miškai. Ūkininkavimo tikslas – laikantis aplinkosaugos reikalavimų, formuoti produktyvius medynus, nepertraukiamai tiekti medieną. Plynųjų pagrindinių miško kirtimų, išskyrus plynuosius sanitarinius miško kirtimus, biržės plotas negali būti didesnis kaip 8 hektarai. Draudžiami plynieji pagrindiniai miško kirtimai nacionaliniuose parkuose, išskyrus pelkinių ir užmirkusių augaviečių medynus;
-
-
-
-
-2) B – trumpo kirtimo amžiaus plantaciniai miškai. Ūkininkavimo tikslas – greičiau išauginti kuo daugiau medienos. Tai yra miškai, kuriuose taikant spartaus auginimo technologijas auginami greitai augančių medžių rūšių medynai, kurių kirtimo amžius turi būti ne mažesnis kaip 15 metų. Šiems miškams gali būti priskiriami tik tos pačios amžiaus klasės medynai. Plantacinius miškus draudžiama veisti neplantacinių miškų kirtavietėse arba šių miškų žuvusių želdinių, žėlinių ir medynų vietose, miško aikštėse ir miško laukymėse.
-
-
-
-
-6. Draustinių miškų dalys, vadovaujantis specialiojo teritorijų planavimo dokumentais, gali būti priskirtos skirtingoms miškų grupėms.
-
-
-
-
-7. Miškus miškų grupėms priskiria Aplinkos ministerija, vadovaudamasi Vyriausybės nustatyta tvarka ir normatyvais.
-
-
-
-
-8. Šio straipsnio apribojimai dėl miško kirtimo netaikomi įgyvendinant valstybei svarbius projektus, išskyrus apribojimus I grupės miškuose.
-Papildyta straipsnio dalimi:
-Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
- 
-
-
-Straipsnio pakeitimai:
-Nr. X-1208, 2007-06-26, Žin., 2007, Nr. 77-3044 (2007-07-12)
-Straipsnio pakeitimai:
-Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-105864 straipsnis. Nuosavybės teisė į miškus ir valstybinės reikšmės miškai
-
-
-1. Miškas nuosavybės teise gali priklausyti valstybei, fiziniams ir juridiniams asmenims bei užsienio valstybėse įsteigtoms organizacijoms, neturinčioms juridinio asmens statuso, tačiau turinčioms civilinį teisnumą pagal tų valstybių įstatymus. Užsieniečiai, užsienio juridiniai asmenys, užsienio valstybėse įsteigtos organizacijos, neturinčios juridinio asmens statuso, tačiau turinčios civilinį teisnumą pagal tų valstybių įstatymus, mišką turi teisę įsigyti Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo nustatyta tvarka. Lietuvos Respublikos miškuose pagal plotą vyrauja valstybinė miškų nuosavybė.
-
-
-
-
-2. Asmuo ar susiję asmenys gali įsigyti tiek miškų ūkio paskirties žemės Lietuvos Respublikos teritorijoje, kad bendras jiems priklausantis iš valstybės ir kitų asmenų įsigytos miškų ūkio paskirties žemės sklypų plotas nebūtų didesnis kaip 1 500 ha. Asmenys gali įsigyti miškų ūkio paskirties žemės sklypą arba daugiau negu 20 procentų juridinio asmens, nuosavybės teise turinčio daugiau negu 400 ha miškų ūkio paskirties žemės Lietuvos Respublikos teritorijoje, akcijų tik gavę Nacionalinės žemės tarnybos prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) sutikimą. Sutikimas įsigyti miškų ūkio paskirties žemės sklypą išduodamas Nacionalinei žemės tarnybai valstybės registruose ir (ar) valstybės informacinėse sistemose patikrinus duomenis apie asmenų turimus ir planuojamus įsigyti miškų ūkio paskirties žemės sklypų plotus ir (ar) akcijas juridiniuose asmenyse, kurie valdo miškų ūkio paskirties žemę, ir nustačius, kad bendras įsigyto (priklausančio) ir norimo įsigyti miškų ūkio paskirties žemės sklypų plotas neviršija šiame įstatyme nustatytų didžiausių įsigyjamo miško žemės ploto dydžių. Bendras įsigytas ir įsigyjamas miško žemės plotas apskaičiuojamas pagal formulę:
- 
-
- 
-Šioje formulėje:
-S – bendras asmens, kuris siekia įsigyti miško žemės, įsigyto ir norimo įsigyti miškų ūkio paskirties žemės sklypų plotas (ha);
-ai – asmeniui, kuris siekia įsigyti miško žemės, priklausančio miškų ūkio paskirties žemės i-tojo sklypo plotas (ha);
-bj – j-ojo juridinio asmens, kuriame asmuo, kuris siekia įsigyti miško žemės, yra akcininkas arba planuoja įsigyti akcijų, bendras priklausančio miškų ūkio paskirties žemės sklypų plotas (ha);
-sj – j-ojo juridinio asmens asmeniui, kuris siekia įsigyti miško žemės, priklausančių ar planuojamų įsigyti akcijų skaičius;
-mj – bendras j-ojo juridinio asmens, kuriame asmuo, kuris siekia įsigyti miško žemės, yra akcininkas arba planuoja įsigyti akcijų, skaičius;
-Sį – norimo įsigyti miškų ūkio paskirties žemės sklypo plotas (ha).
-Straipsnio dalies pakeitimai:
-Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
- 
-
-
-
-
-3. Susijusiais asmenimis laikomi sutuoktiniai, taip pat tėvai (įtėviai) ir nepilnamečiai jų vaikai (įvaikiai).
-
-
-
-
-4. Susijusiais asmenimis laikomi juridiniai asmenys, kurie tiesiogiai ar netiesiogiai (per juridinį asmenį, kuriame valdo ne mažiau kaip 25 procentus akcijų (teisių, pajų), suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime) valdo daugiau kaip 25 procentus kito juridinio asmens akcijų (teisių, pajų), suteikiančių teisę balsuoti šio juridinio asmens dalyvių susirinkime.
-
-
-
-
-5. Susijusiais asmenimis taip pat laikomi juridiniai asmenys, kuriuose, kaip ir pageidaujančiame įsigyti miškų ūkio paskirties žemės sklypą juridiniame asmenyje, tas pats asmuo arba tie patys asmenys valdo daugiau kaip 25 procentus juridinio asmens akcijų (teisių, pajų), suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime.
-
-
-
-
-6. Asmuo, pageidaujantis įsigyti miškų ūkio paskirties žemės sklypą, iki miškų ūkio paskirties žemės sklypo perleidimo sandorio sudarymo privalo užpildyti miškų ūkio paskirties žemės sklypo pirkėjo deklaraciją, patvirtinančią, kad sudarius miškų ūkio paskirties žemės sklypo perleidimo sandorį asmens ir su juo susijusių asmenų turimo miško žemės plotas neviršys didžiausio ploto dydžio, kurį asmuo ir su juo susiję asmenys kartu gali įsigyti pagal šio straipsnio 2 dalį. Jeigu sudaromas miškų ūkio paskirties žemės sklypo perleidimo sandoris atitinka Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 20 straipsnyje apibrėžtus požymius, pirkėjas miškų ūkio paskirties žemės sklypo pirkėjo deklaracijoje nurodo lėšų, už kurias įsigyjamas miškų ūkio paskirties žemės sklypas, įsigijimo šaltinius. Miškų ūkio paskirties žemės sklypo pirkėjo deklaracijos formą, jos pildymo ir pateikimo taisykles tvirtina aplinkos ministras. Asmuo, įsigyjantis miškų ūkio paskirties žemės sklypą, atsako už miškų ūkio paskirties žemės sklypo pirkėjo deklaracijoje pateiktų duomenų teisingumą. Pagal prokuroro, ginančio viešąjį interesą, pareikštą ieškinį teismo sprendimu iš miškų ūkio paskirties žemės sklypo įgijėjo paimamas ir perduodamas valstybės nuosavybėn miško žemės plotas, kuris įsigytas pažeidžiant šio straipsnio 2 dalyje nurodytus reikalavimus. Valstybė Vyriausybės nustatyta tvarka asmeniui atlygina paimto miškų ūkio paskirties žemės sklypo ploto žemės įsigijimo kainą arba vidutinę rinkos vertę, jeigu vidutinė rinkos vertė yra mažesnė.
-
-
-
-
-7. Kai susiję asmenys Lietuvos Respublikos teritorijoje nuosavybės teise valdo didesnį miškų ūkio paskirties žemės sklypų plotą, negu nurodyta šio straipsnio 2 dalyje, jie tarpusavyje gali sudaryti miško žemės sklypų perleidimo sandorius, jeigu dėl tokių sandorių sudarymo bendras šių susijusių asmenų įsigyto miško žemės sklypo plotas nepadidėja ir kiekvieno iš susijusių asmenų įsigyto miško žemės sklypo plotas netampa didesnis už nurodytąjį šio straipsnio 2 dalyje.
-
-
-
-
-8. Valstybinė miško žemė Vyriausybės nustatyta tvarka gali būti nuomojama poilsiui ar kitiems tikslams, išskyrus miškų ūkio veiklai organizuoti.
-
-
-
-
-9. Privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esanti miško žemė į dalis neskaidoma, jeigu privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esančios miško žemės plotas yra arba tampa mažesnis kaip 5 ha, išskyrus atvejus, kai:
-
-
-1) atidalijama bendraturčių valdoma privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esanti miško žemė, jeigu šie sklypai buvo suformuoti atkuriant nuosavybės teises asmenims bendrosios nuosavybės teise pagal įstatymus, reglamentuojančius piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimą. Šiuo atveju privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esanti miško žemė gali būti padalyta į ne daugiau dalių, negu sprendime nurodytas bendraturčių skaičius dėl nuosavybės teisių atkūrimo šiame sklype;
-
-
-
-
-2) atidalijama privati miško valda, kurioje yra žemės ūkio naudmenos, atidalijant šias žemės ūkio naudmenas. Šiuo atveju formuojami du – miškų ūkio paskirties ir žemės ūkio paskirties – žemės sklypai, o suformuoto miškų ūkio paskirties žemės sklypo plotas negali būti mažesnis negu iki atidalijimo buvusios miško žemės plotas;
-
-
-
-
-3) atidalijama privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esanti miško žemė, kurioje yra teisėtai pastatytas pastatas arba pastatas kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotas atskiru nekilnojamojo turto objektu (pagrindiniu daiktu), formuojant atskirus žemės sklypus – miškų ūkio paskirties žemės sklypą ir kitos paskirties žemės sklypą, kuris formuojamas pastatui arba pastatui kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotam atskiru nekilnojamojo turto objektu (pagrindiniu daiktu), eksploatuoti;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2527, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19115
- 
-
-
-
-
-4) atidalijama privati miško valda buvusiai sodybai atstatyti.
-
-
-
-
-
-
-10. Lietuvos Respublikai išimtine nuosavybės teise priklauso valstybinės reikšmės miškai. Valstybinės reikšmės miškai – tai:
-
-
-1) miškai, esantys valstybiniuose rezervatuose, valstybinių parkų rezervatuose ir rezervatinėse apyrubėse, Kuršių nerijos nacionaliniame parke;
-
-
-
-
-2) miestų miškai. Vadovaujantis Lietuvos Respublikos žemės įstatymu, visuomenės poreikiams paimami privačios nuosavybės teise valdomi žemės sklypai (jų dalys), kuriuose yra Lietuvos Respublikos nekilnojamojo turto registre registruoti miškų plotai, esantys miesto savivaldybės teritorijai po 1995 m. birželio 1 d. priskirtoje teritorijoje, dėl kurios priskyrimo miesto savivaldybės teritorijai Vyriausybės nutarimas priimtas iki 2024 m. sausio 1 d. Sprendimą dėl šiame punkte nurodytų žemės sklypų paėmimo visuomenės poreikiams priima Nacionalinės žemės tarnybos vadovas be valstybės institucijos ar savivaldybės tarybos prašymo. Privačios nuosavybės teise valdomi žemės sklypai (jų dalys), kuriuose yra Lietuvos Respublikos nekilnojamojo turto registre registruoti miškų plotai ir kurie patenka į miestų plėtros teritorijas, dėl kurių priskyrimo miesto savivaldybės teritorijai Vyriausybė priima sprendimą po 2024 m. sausio 1 d., Lietuvos Respublikos žemės įstatymo nustatyta tvarka paimami visuomenės poreikiams suinteresuotos institucijos (savivaldybės) prašymu ir šios institucijos lėšomis; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-2336, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25317
- 
-
-
-
-
-3) valstybiniai miško medelynai ir sėklinės miško medžių plantacijos;
-
-
-
-
-4) miškų mokslinio tyrimo ir mokymo bei selekcinės sėklininkystės objektų miškai, kurių plotus ir ribas tvirtina Vyriausybė;
-
-
-
-
-5) valstybiniai miškai 7 km pločio juostoje nuo Baltijos jūros ir Kuršių marių, į kuriuos neatkurta nuosavybės teisė pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą;
-
-
-
-
-6) kiti miškai, Vyriausybės sprendimu priskirti valstybinės reikšmės miškams.
-
-
-
-
-
-
-11. Vyriausybė ar jos įgaliota Aplinkos ministerija įgyvendina valstybinių miškų savininko teises ir pareigas.
-
-
-
-
-12. Valstybinę miško žemę patikėjimo teise valdo miškų urėdija, valstybinių rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės ir kiti juridiniai asmenys. Valstybinės miško žemės sklypai patikėjimo teise perduodami šiems subjektams Vyriausybės nutarimais valstybinėms funkcijoms įgyvendinti Lietuvos Respublikos žemės įstatymo nustatyta tvarka.
-
-
-
-
-13. Laisvos valstybinės žemės fonde esantys ir nepanaudoti nuosavybės teisėms atkurti valstybinių miškų sklypai, kurie yra įsiterpę į valstybinės reikšmės miškus arba su jais ribojasi, arba yra 5 ha ir didesni ir turi privažiavimo kelius, Vyriausybės nutarimais perduodami patikėjimo teise valdyti miškų urėdijai. Kiti nuosavybės teisėms atkurti nepanaudoti valstybinių miškų sklypai parduodami aukcionuose, jeigu kituose įstatymuose nenustatyta kitaip.
-
-
-
-
-14. Privačios nuosavybės teise valdomas žemės sklypas (jo dalis), kuriame yra Lietuvos Respublikos miškų valstybės kadastre registruotas miškas, esantis miestui po 1995 m. birželio 1 d. priskirtoje teritorijoje, dėl kurios priskyrimo miestui ar miesto savivaldybės teritorijai priimtas sprendimas iki 2024 m. sausio 1 d., visuomenės poreikiams paimamas vadovaujantis Lietuvos Respublikos žemės įstatymu. Šiuo atveju sprendimą dėl žemės sklypo paėmimo visuomenės poreikiams priima Nacionalinės žemės tarnybos vadovas be valstybės institucijos ar savivaldybės tarybos prašymo. Privačios nuosavybės teise valdomas žemės sklypas (jo dalis), kuriame yra Lietuvos Respublikos miškų valstybės kadastre registruotas miškas ir kuris patenka į miestų plėtros teritorijas, dėl kurių priskyrimo miestui ar miesto savivaldybės teritorijai sprendimas priimamas po 2024 m. sausio 1 d., visuomenės poreikiams paimamas suinteresuotos institucijos prašymu ir šios institucijos lėšomis Lietuvos Respublikos žemės įstatymo nustatyta tvarka.
-Papildyta straipsnio dalimi:
-Nr. XIV-2336, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25317
- 
-
-
-Straipsnio pakeitimai:
-Nr. IX-1925, 2003-12-18, Žin., 2003, Nr. 123-5593 (2003-12-30)
-Nr. XI-1448, 2011-06-16, Žin., 2011, Nr. 74-3548 (2011-06-18)
-Nr. XI-2361, 2012-11-06, Žin., 2012, Nr. 132-6687 (2012-11-15)
-Straipsnio pakeitimai:
-Nr. XIII-2418, 2019-08-22, paskelbta TAR 2019-08-23, i. k. 2019-13433
- 
-
-
-
-
-41 straipsnis. Pirmumo teisė įsigyti privačią miškų ūkio paskirties žemę
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586341 straipsnis. Pirmumo teisė įsigyti privačią miškų ūkio paskirties žemę
 
 
 1. Pirmumo teisę įsigyti privačią miškų ūkio paskirties žemę už tokią pat kainą ir kitomis tokiomis pat sąlygomis, išskyrus atvejus, kai ši žemė parduodama iš viešųjų varžytynių, pagal šią eilės tvarką turi:
 
 
-1) žemės sklypo bendraturčiai –  Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) 4.79 straipsnyje nustatyta tvarka;
+1) žemės sklypo bendraturčiai –  Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) 4.79 straipsnyje nustatyta tvarka;
 
 
 
@@ -637,9 +425,7 @@ Nr. XIII-2418, 2019-08-22, paskelbta TAR 2019-08-23, i. k. 2019-13433
 
 
 
-
-
-2. Pirmumo teisę (išskyrus atvejus, kai pirmumo teise pasinaudoja žemės sklypo  bendraturčiai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka) įsigyti privačią miškų ūkio paskirties žemę, kuri yra valstybinių parkų konservacinio, ekologinės apsaugos ir rekreacinio prioriteto zonose, valstybiniuose draustiniuose ir kitose saugomose teritorijose, kurioms suteiktas Natura 2000 statusas, arba kuri ribojasi su valstybinės reikšmės mišku, už tokią pat kainą ir kitomis tokiomis pat sąlygomis turi valstybė. Kaina, kurią valstybė gali mokėti už perkamus privačios žemės sklypus, negali viršyti šių žemės sklypų vidutinės rinkos vertės, apskaičiuotos atliekant vertinimą masiniu būdu Vyriausybės įgaliotos institucijos nustatyta tvarka, arba rinkos vertės, apskaičiuotos taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, jeigu pastaroji vertė yra didesnė.
+2. Pirmumo teisę (išskyrus atvejus, kai pirmumo teise pasinaudoja žemės sklypo  bendraturčiai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka) įsigyti privačią miškų ūkio paskirties žemę, kuri yra valstybinių parkų konservacinio, ekologinės apsaugos ir rekreacinio prioriteto zonose, valstybiniuose draustiniuose ir kitose saugomose teritorijose, kurioms suteiktas Natura 2000 statusas, arba kuri ribojasi su valstybinės reikšmės mišku, už tokią pat kainą ir kitomis tokiomis pat sąlygomis turi valstybė. Kaina, kurią valstybė gali mokėti už perkamus privačios žemės sklypus, negali viršyti šių žemės sklypų vidutinės rinkos vertės, apskaičiuotos atliekant vertinimą masiniu būdu Vyriausybės įgaliotos institucijos nustatyta tvarka, arba rinkos vertės, apskaičiuotos taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, jeigu pastaroji vertė yra didesnė.
 
 
 
@@ -649,15 +435,15 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-2410, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12400
 Nr. XIII-2418, 2019-08-22, paskelbta TAR 2019-08-23, i. k. 2019-13433
 Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
- 
+ 
 
 
 
 
-4. Kai pirmumo teisę įsigyti parduodamą miškų ūkio paskirties žemės sklypą turi valstybė, sprendimą pirkti šį žemės sklypą ar atsisakyti jį pirkti valstybės vardu turi priimti Nacionalinės žemės tarnybos vadovas per 30 dienų nuo šio straipsnio 3 dalyje nurodyto pranešimo gavimo dienos. Kitu atveju Nacionalinės žemės tarnybos teritorinis padalinys apie parduodamą miškų ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kuriomis asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemę, ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 3 dalyje nurodyto žemės sklypo savininko pranešimo gavimo dienos raštu praneša asmenims, kurių nuosavybės teise turimi žemės sklypai ribojasi su parduodamu miškų ūkio paskirties žemės sklypu. Šie asmenys sutikimą pirkti miškų ūkio paskirties žemės sklypą ar atsisakymą jį pirkti turi pateikti Nacionalinės žemės tarnybos teritoriniam padaliniui ne vėliau kaip per 15 darbo dienų nuo pranešimo gavimo dienos. 
+4. Kai pirmumo teisę įsigyti parduodamą miškų ūkio paskirties žemės sklypą turi valstybė, sprendimą pirkti šį žemės sklypą ar atsisakyti jį pirkti valstybės vardu turi priimti Nacionalinės žemės tarnybos vadovas per 30 dienų nuo šio straipsnio 3 dalyje nurodyto pranešimo gavimo dienos. Kitu atveju Nacionalinės žemės tarnybos teritorinis padalinys apie parduodamą miškų ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kuriomis asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemę, ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 3 dalyje nurodyto žemės sklypo savininko pranešimo gavimo dienos raštu praneša asmenims, kurių nuosavybės teise turimi žemės sklypai ribojasi su parduodamu miškų ūkio paskirties žemės sklypu. Šie asmenys sutikimą pirkti miškų ūkio paskirties žemės sklypą ar atsisakymą jį pirkti turi pateikti Nacionalinės žemės tarnybos teritoriniam padaliniui ne vėliau kaip per 15 darbo dienų nuo pranešimo gavimo dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
- 
+ 
 
 
 
@@ -665,15 +451,15 @@ Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
 5. Nacionalinės žemės tarnybos teritorinis padalinys, gavęs šio straipsnio 4 dalyje nurodytą rašytinį sutikimą pirkti žemės sklypą, ne vėliau kaip per 5 darbo dienas nuo termino, per kurį asmenys, pageidaujantys pasinaudoti pirmumo teise pirkti miškų ūkio paskirties žemės sklypą, galėjo pateikti sutikimą jį pirkti, pabaigos dienos išduoda pažymą, kad šis žemės sklypas parduodamas šio straipsnio nustatyta tvarka pirmumo teise turinčiam jį pirkti asmeniui. Kai pirkti parduodamą miškų ūkio paskirties žemės sklypą pirmumo teise pageidauja keli vienodą pirmumo teisę turintys asmenys, šioje pažymoje išvardijami visi vienodą pirmumo teisę turintys asmenys ir žemės savininkas nusprendžia, kuriam asmeniui arba asmenims, kai parduodama keliems asmenims bendrosios nuosavybės teise, pasiūlytomis sąlygomis parduoti miškų ūkio paskirties žemės sklypą. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
- 
+ 
 
 
 
 
-6. Kai turintys pirmumo teisę asmenys atsisako pirkti miškų ūkio paskirties žemės sklypą arba per nustatytą terminą nepateikia sutikimo pirkti miškų ūkio paskirties žemės sklypą, Nacionalinės žemės tarnybos teritorinis padalinys ne vėliau kaip per 5 darbo dienas nuo termino, per kurį asmenys, pageidaujantys pasinaudoti pirmumo teise pirkti miškų ūkio paskirties žemės sklypą, galėjo pateikti sutikimą jį pirkti, pabaigos dienos išduoda pažymą, kad siūlomo parduoti miškų ūkio paskirties žemės sklypo nepageidavo pirkti asmenys, turintys pirmumo teisę jį pirkti pagal šio straipsnio nuostatas, ir žemės savininkas šį žemės sklypą gali perleisti kitiems asmenims. Kai miškų ūkio paskirties žemės sklypas parduodamas kitiems asmenims už mažesnę kainą ir (ar) kitomis sąlygomis, negu buvo nurodyta pirminiame žemės savininko pranešime, šio straipsnio 3 dalyje nustatyta tvarka turi būti teikiamas pakartotinis pranešimas.
+6. Kai turintys pirmumo teisę asmenys atsisako pirkti miškų ūkio paskirties žemės sklypą arba per nustatytą terminą nepateikia sutikimo pirkti miškų ūkio paskirties žemės sklypą, Nacionalinės žemės tarnybos teritorinis padalinys ne vėliau kaip per 5 darbo dienas nuo termino, per kurį asmenys, pageidaujantys pasinaudoti pirmumo teise pirkti miškų ūkio paskirties žemės sklypą, galėjo pateikti sutikimą jį pirkti, pabaigos dienos išduoda pažymą, kad siūlomo parduoti miškų ūkio paskirties žemės sklypo nepageidavo pirkti asmenys, turintys pirmumo teisę jį pirkti pagal šio straipsnio nuostatas, ir žemės savininkas šį žemės sklypą gali perleisti kitiems asmenims. Kai miškų ūkio paskirties žemės sklypas parduodamas kitiems asmenims už mažesnę kainą ir (ar) kitomis sąlygomis, negu buvo nurodyta pirminiame žemės savininko pranešime, šio straipsnio 3 dalyje nustatyta tvarka turi būti teikiamas pakartotinis pranešimas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
- 
+ 
 
 
 
@@ -682,13 +468,7 @@ Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
 
 
 Papildyta straipsniu :
-Nr. XII-855, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04859
- 
-
-
-
-
-5 straipsnis. Miškų valstybinis valdymas ir Miškų įstatymo vykdymo priežiūra 
+Nr. XII-855, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-048595 straipsnis. Miškų valstybinis valdymas ir Miškų įstatymo vykdymo priežiūra 
 
 
 1. Valstybės miškų ūkio politikos kryptis nustato Seimas, priimdamas įstatymus. 
@@ -1473,7 +1253,7 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 
 
-9) teisėtai pastatyto pastato arba pastato kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruoto kaip atskiro nekilnojamojo turto objekto (pagrindinio daikto), sklypui formuoti.
+9) teisėtai pastatyto pastato arba pastato kartu su jo priklausiniais, Nekilnojamojo turto registro informacinėje sistemoje įregistruoto kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), sklypui formuoti.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2527, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19115
  
@@ -1660,29 +1440,28 @@ Nr. X-1208, 2007-06-26, Žin., 2007, Nr. 77-3044 (2007-07-12)16 straipsnis. Medy
 
 Straipsnio pakeitimai:
 Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
- 
-
-
+ 
 
 
 
 
 V SKYRIUS
-MIŠKO APSAUGA 
- 
-
-
-17 straipsnis. Miško apsaugos uždaviniai
+MIŠKO APSAUGA17 straipsnis. Miško apsaugos uždaviniai
 
 
 Miško apsaugos uždaviniai – saugoti mišką ir jo išteklius nuo neteisėtų veiksmų: savavališko miško kirtimo, miško naudojimo tvarkos pažeidimų, miško išteklių grobstymo, miško teršimo, šiukšlinimo, miško padegimo, naminių gyvulių daromos žalos; taip pat saugoti mišką nuo žvėrių daromos žalos, gaisrų, ligų, kenkėjų ir kitų stichinių nelaimių, miško dirvožemio ir medžių mechaninių pažeidimų.
- 
 
-
-
-
-
-
+13^1 straipsnis. Miškų registras ir Miškų registro informacinė sistema
+1. Miškų registro objektas – miško žemės taksacinis sklypas. Miško žemės taksacinių sklypų kadastro duomenų nustatymo, atnaujinimo tvarką nustato aplinkos ministras.
+2. Subjektai, turintys teisę teikti prašymus įregistruoti, išregistruoti ar pakeisti Miškų registro objektų duomenis Miškų registro informacinėje sistemoje:
+1) miško valdytojai;
+2) miško žemės pavertimą kitomis naudmenomis inicijavę ar organizavę asmenys;
+3) Valstybinė miškų tarnyba.
+3. Miškų registro informacinėje sistemoje tvarkomi miško žemės taksacinius sklypus apibūdinantys kadastro duomenų rinkiniai. Miškų registro informacinėje sistemoje tvarkomus duomenų rinkinius sudarantys duomenys detalizuojami šio registro informacinės sistemos nuostatuose.
+4. Miškų registro informacinės sistemos valdytoja ir joje tvarkomų duomenų, įskaitant asmens duomenis, valdytoja yra Aplinkos ministerija.
+5. Šio straipsnio 2 dalyje nurodyti objektai Miškų registro informacinėje sistemoje registruojami pagal registravimo sąlygas, nustatytas Miškų registro informacinės sistemos nuostatuose. Miškų registro informacinėje sistemoje objektai įregistruojami ir jų duomenys pakeičiami per 20 darbo dienų nuo jų nustatymo ir (arba) patvirtinimo dienos.
+6. Miškų registro informacinėje sistemoje duomenys tvarkomi siekiant užtikrinti miško žemės kokybinę ir kiekybinę apskaitą. Miškų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Miškų registro informacinės sistemos duomenys teikiami laikantis Valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje nurodytų apribojimų, Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) 5 straipsnyje apibrėžtų asmens duomenų tvarkymo principų ir 6 straipsnyje nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
+7. Miškų registro informacinėje sistemoje tvarkomi duomenys atveriami pakartotinai naudoti, išskyrus asmens duomenis ir duomenis, susijusius su visuomenės ir viešuoju saugumu.
 18 straipsnis. Miško apsauga nuo gaisrų ir stichinių nelaimių
 
 
