@@ -494,19 +494,21 @@ SKIRSNIS
 SKUNDŲ
 NAGRINĖJIMAS. ATSAKOMYBĖ
  
-20
-straipsnis. Skundų nagrinėjimas
+20 straipsnis.
+Skundų nagrinėjimas
 Skundus
 dėl gamtinių dujų įmonių veiklos ar neveikimo perduodant, paskirstant,
 tiekiant, perkant ir laikant gamtines dujas, nesuteikimo teisės pasinaudoti
 sistema, prisijungimo, sistemos balansavimo, kainų nustatymo nagrinėja Komisija
 ginčų sprendimo iki teismo tvarka. Skundus dėl įrenginių bei apskaitos
 prietaisų gedimų, sistemų eksploatavimo pažeidimų, avarijų, dujų tiekimo
-nutraukimo nagrinėja Energetikos valstybinė inspekcija ginčų sprendimo iki
+nutraukimo nagrinėja Valstybinė energetikos inspekcija ginčų sprendimo iki
 teismo tvarka.
 Straipsnio pakeitimai:
 Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
 56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
+Nr. IX-1334,
+2003-01-28, Žin., 2003, Nr. 17-709 (2003-02-19)
  
 21 straipsnis.
 Atsakomybė 
@@ -520,7 +522,8 @@ Komisija įstatymų nustatyta tvarka gali skirti baudas už:
 1)
 veiklą be licencijos ar joje nurodytų reikalavimų nesilaikymą;
 2)
-pažeidžiant nustatytą tvarką apskaičiuotų tarifų ir mokesčių taikymą vartotojams;
+pažeidžiant nustatytą tvarką apskaičiuotų tarifų ir mokesčių taikymą
+vartotojams;
 3)
 įstatymų ir kitų teisės aktų nustatytų veiklos skaidrumo reikalavimų
 nesilaikymą;
@@ -534,7 +537,8 @@ Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
 56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
  
  
-DEVINTASIS SKIRSNIS
+DEVINTASIS
+SKIRSNIS
 BAIGIAMOSIOS
 NUOSTATOS
  
@@ -545,9 +549,9 @@ Paskirstymo įmonės privalo prie jų sistemų prijungtiems vartotojams pasiūly
 eksploatuoti bendro naudojimo sistemos dalis pagal atskiras sutartis.
 2.
 Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka dujų perdavimo ir
-paskirstymo įmonės išperka ar perima eksploatuoti vartotojų lėšomis iki šio
-įstatymo įsigaliojimo įrengtas bendro naudojimo sistemas ir dujų kiekio
-matavimo priemones.
+paskirstymo įmonės išperka ar perima eksploatuoti vartotojų lėšomis iki šio įstatymo
+įsigaliojimo įrengtas bendro naudojimo sistemas ir dujų kiekio matavimo
+priemones.
 3.
 Vyriausybė paskiria institucijas, kurios parengtų šio įstatymo nuostatoms
 įgyvendinti reikalingus teisės aktus.
@@ -563,8 +567,8 @@ per metus;
 3)
 vartotojai, kurių sistemos tiesiogiai prijungtos prie magistralinių dujotiekių;
 4)
-paskirstymo įmonės, kurių dujų sistemos tiesiogiai prijungtos prie magistralinių
-dujotiekių. 
+paskirstymo įmonės, kurių dujų sistemos tiesiogiai prijungtos prie
+magistralinių dujotiekių. 
 6.
 Laisvojo vartotojo kriterijus vėlesniam laikotarpiui, atsižvelgdama į rinkos
 atvirumo laipsnį, nustato Vyriausybė ar jos įgaliota institucija.
@@ -576,15 +580,14 @@ Komisija turi teisę susipažinti su dujų įmonių ir vartotojų sudaromomis
 sutartimis.
 9.
 Vyriausybė ar jos įgaliotos institucijos iki 2002 m. sausio 1 d. parengia
-Administracinių teisės pažeidimų kodekso pataisas, numatančias atsakomybę už šio
-įstatymo nuostatų pažeidimus.
+Administracinių teisės pažeidimų kodekso pataisas, numatančias atsakomybę už
+šio įstatymo nuostatų pažeidimus.
 10.
 Vyriausybė ar jos įgaliota institucija patvirtina gamtinių dujų perdavimo,
 paskirstymo, laikymo, tiekimo taisykles šio įstatymo nuostatoms įgyvendinti.
 Straipsnio pakeitimai:
 Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
 56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
- 
  
 23 straipsnis.
 Įstatymo įsigaliojimas
@@ -599,9 +602,8 @@ Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
 56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
  
  
- 
 Skelbiu šį
-Lietuvos Respublikos Seimo priimtą įstatymą.  
+Lietuvos Respublikos Seimo priimtą įstatymą.
  
 
 
@@ -621,8 +623,8 @@ Nr. IX-130, 2000 12 21, Žin., 2000, Nr.
 GAMTINIŲ DUJŲ ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 2.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
 56-1980 (2001-06-30)
 GAMTINIŲ DUJŲ
@@ -639,11 +641,21 @@ Nr. IX-927,
 GAMTINIŲ
 DUJŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1334,
+2003-01-28, Žin., 2003, Nr. 17-709 (2003-02-19)
+GAMTINIŲ
+DUJŲ ĮSTATYMO 20 STRAIPSNIO IR NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
+ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-06-21)
-                 
-autrap@lrs.lt
+Aušrinė Trapinskienė (2003-02-21)
+           
+      autrap@lrs.lt
