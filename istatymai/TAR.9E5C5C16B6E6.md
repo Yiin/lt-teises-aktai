@@ -1428,17 +1428,17 @@ institucijų pareigūnai.
             Piliečių ir pareigūnų
 patraukimas administracinėn atsakomybėn neatleidžia jų nuo prievolės atlyginti
 Alkoholio įstatymo pažeidimais padarytą žalą sveikatai ir turtui.
-            Lietuvos Respublikoje
-pagaminti falsifikuoti, į ją įvežti kaip kontrabanda bei joje realizuojami,
-laikomi (saugomi), gabenami alkoholio produktai, kurie neatitinka kokybės
-reikalavimų, reglamentuotų Lietuvos Respublikos norminiuose dokumentuose, taip
-pat kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais,
-Administracinių teisės pažeidimų kodekso nustatyta tvarka gali būti VTAKT ar
-kitų tam įgaliotų institucijų, kontroliuojančių įmonių komercinę ir ūkinę ar
-sveikatingumo veiklą, konfiskuojami.
+            Lietuvos
+Respublikoje pagaminti falsifikuoti, į ją įvežti kaip kontrabanda bei joje
+realizuojami, laikomi (saugomi), gabenami alkoholio produktai, kurie neatitinka
+kokybės reikalavimų, reglamentuotų Lietuvos Respublikos norminiuose
+dokumentuose, taip pat kurių įsigijimas nepatvirtintas juridinę galią
+turinčiais dokumentais, Administracinių teisės pažeidimų kodekso nustatyta
+tvarka gali būti VTAKT ar kitų tam įgaliotų institucijų, kontroliuojančių
+įmonių komercinę ir ūkinę ar sveikatingumo veiklą, konfiskuojami.
 Konfiskuoti
-alkoholio produktai sunaikinami Lietuvos Respublikos Vyriausybės nustatyta
-tvarka.
+alkoholio produktai sunaikinami arba panaudojami biodegalų gamybai Lietuvos
+Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1447,6 +1447,9 @@ VIII-372,
 Nr.
 VIII-961,
 98.12.10, Žin., 1998, Nr.114-3188 (98.12.30)
+Nr.
+IX-2064,
+2004-03-18, Žin., 2004, Nr. 53-1789 (2004-04-10)
  
             44 straipsnis. Ekonominių
 sankcijų už Alkoholio kontrolės įstatymo pažeidimus 
@@ -1489,8 +1492,8 @@ Valstybinė maisto ir veterinarijos tarnyba.
 Baudas už
 alkoholio produktų, neatitinkančių higienos normų reikalavimų, gamybą ir
 realizavimą, šio įstatymo 20 straipsnio pirmosios dalies 5 ir 12 punktuose
-numatytų alkoholio produktų realizavimo ir laikymo (saugojimo) reikalavimų
-nesilaikymą skiria Valstybinė maisto ir veterinarijos tarnyba.
+numatytų alkoholio produktų realizavimo ir laikymo (saugojimo) reikalavimų nesilaikymą
+skiria Valstybinė maisto ir veterinarijos tarnyba.
 Baudas už šio
 įstatymo 20 straipsnio pirmosios dalies 2, 3, 6–22 punktuose, šio straipsnio
 antrojoje, trečiojoje, ketvirtojoje, penktojoje ir šeštojoje dalyse, 21
@@ -1575,9 +1578,9 @@ baudų išieškojimas
 pirmojoje dalyje nurodytų institucijų nutarimas dėl piniginės baudos skyrimo už
 šio įstatymo pažeidimus, kuriame nurodomas baudos dydis (suma), per 2
 darbo dienas nuo nutarimo priėmimo siunčiamas teisės aktų pažeidėjui.
-Piniginė bauda
-turi būti sumokama į valstybės biudžetą ne vėliau kaip per vieną mėnesį nuo
-dienos, kurią šio įstatymo pažeidėjams įteiktas nutarimas paskirti baudą.
+Piniginė bauda turi
+būti sumokama į valstybės biudžetą ne vėliau kaip per vieną mėnesį nuo dienos,
+kurią šio įstatymo pažeidėjams įteiktas nutarimas paskirti baudą.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1603,9 +1606,9 @@ VIII-961,
             47 straipsnis. Nutarimo
 taikyti ekonominę sankciją vykdymo atidėjimas
             Jei yra aplinkybių, dėl
-kurių nedelsiant įvykdyti nutarimą taikyti ekonominę sankciją negalima, šio
-įstatymo 44 straipsnio pirmojoje dalyje nurodytų institucijų pareigūnas, kuris
-priėmė nutarimą, pagal ūkio subjektų, dėl kurių priimtas nutarimas, motyvuotą
+kurių nedelsiant įvykdyti nutarimą taikyti ekonominę sankciją negalima, šio įstatymo
+44 straipsnio pirmojoje dalyje nurodytų institucijų pareigūnas, kuris priėmė
+nutarimą, pagal ūkio subjektų, dėl kurių priimtas nutarimas, motyvuotą
 pareiškimą gali atidėti nutarimo vykdymą iki mėnesio.
             Nutarimų taikyti ekonomines
 sankcijas atidėjimo pagrindus nustato Lietuvos Respublikos Vyriausybė.
@@ -1835,8 +1838,8 @@ IX-964,
 2002-06-20, Žin., 2002, Nr. 65-2632 (2002-06-28)
 ALKOHOLIO
 KONTROLĖS ĮSTATYMO 1, 2, 3, 6, 8, 12, 13, 14, 16, 17, 19, 20, 21, 23, 25, 27,
-28, 30, 41, 44, 45, 48, 52 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 53
-STRAIPSNIU ĮSTATYMAS
+28, 30, 41, 44, 45, 48, 52 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 53 STRAIPSNIU
+ĮSTATYMAS
  
 16.
 Lietuvos
@@ -1884,6 +1887,14 @@ Nr. IX-1875,
 ALKOHOLIO
 KONTROLĖS ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+21.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-2064,
+2004-03-18, Žin., 2004, Nr. 53-1789 (2004-04-10)
+ALKOHOLIO
+KONTROLĖS ĮSTATYMO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
@@ -1913,8 +1924,8 @@ M. LIEPOS 2 D. REDAKCIJA), 2 STRAIPSNIO 1 DALIES (1995 M. BALANDŽIO 18 D.
 REDAKCIJA), 3 STRAIPSNIO 1 DALIES 2 PUNKTO (1995 M. BALANDŽIO 18 D. REDAKCIJA),
 4 STRAIPSNIO 2 DALIES (1998 M. GRUODŽIO 10 D. REDAKCIJA), 13 STRAIPSNIO (2000
 M. LIEPOS 18 D. REDAKCIJA), 30 STRAIPSNIO 1 DALIES (1997 M. LIEPOS 2 D.
-REDAKCIJA) BEI 44 STRAIPSNIO 4 DALIES (2002 M. BIRŽELIO 20 D. REDAKCIJA) IR LIETUVOS
-RESPUBLIKOS VYRIAUSYBĖS 2001 M. SAUSIO 22 D. NUTARIMU NR. 67 "DĖL
+REDAKCIJA) BEI 44 STRAIPSNIO 4 DALIES (2002 M. BIRŽELIO 20 D. REDAKCIJA) IR
+LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2001 M. SAUSIO 22 D. NUTARIMU NR. 67 "DĖL
 ALKOHOLIO PRODUKTŲ GAMYBOS LICENCIJAVIMO TAISYKLIŲ PATVIRTINIMO"
 PATVIRTINTŲ ALKOHOLIO PRODUKTŲ GAMYBOS LICENCIJAVIMO TAISYKLIŲ 7 BEI 9 PUNKTŲ
 (2001 M. SAUSIO 22 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
@@ -1922,7 +1933,8 @@ PATVIRTINTŲ ALKOHOLIO PRODUKTŲ GAMYBOS LICENCIJAVIMO TAISYKLIŲ 7 BEI 9 PUNKT�
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2004-01-29)
+Aušrinė Trapinskienė (2004-04-13)
                  
 autrap@lrs.lt
