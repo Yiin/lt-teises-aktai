@@ -166,7 +166,7 @@ išduoti valstybės garantinį dokumentą (toliau – valstybės garantija).
 kad nuomininkams per šiame dokumente nurodytą laiką:
 1) bus Vyriausybės nustatyta tvarka
 kompensuojamos gyvenamųjų patalpų įsigijimo išlaidos, neviršijančios valstybės
-garantijoje nurodytos nuomojamų patalpų vertės, arba 
+garantijoje nurodytos nuomojamų patalpų rinkos vertės, arba
 2) bus suteiktos kitos didesnės vertės
 gyvenamosios patalpos, kurių dalis, atitinkanti nuomojamų patalpų vertę,
 nurodytą valstybės garantijoje, bus neatlygintinai perduota nuosavybėn,
@@ -233,30 +233,30 @@ paveldėjimo teisės į garantijos turėtojo reikalavimo teisę, atsirandančią
 valstybės garantijos, notaro patvirtintą liudijimo nuorašą. Savivaldybės
 vykdomoji institucija, išdavusi valstybės garantiją, paveldėjimo teisės
 liudijimo nuorašo pagrindu patikslina valstybės garantiją, nurodydama naujo
-garantijos turėtojo (asmens, paveldėjusio reikalavimo teisę, atsirandančią iš valstybės
-garantijos) duomenis.
+garantijos turėtojo (asmens, paveldėjusio reikalavimo teisę, atsirandančią iš
+valstybės garantijos) duomenis.
 8. Garantijos turėtojai turi
 teisę reikalavimo teisę, atsirandančią iš valstybės garantijos, perleisti
 kitiems asmenims. Garantijos turėtojai kartu su reikalavimo teisės,
 atsirandančios iš valstybės garantijos, perleidimo sutartimi perduoda ir
 dokumentus, patvirtinančius reikalavimo teisę. Teisė į valstybės garantijoje
 numatytus valstybės įsipareigojimus, kurie buvo suteikti garantijos turėtojui,
-gyvenančiam savininkams grąžintuose gyvenamuosiuose namuose, jų dalyse,
-butuose, asmeniui, įgijusiam reikalavimo teisę, atsirandančią iš valstybės
-garantijos, yra įgyvendinama pagal šio Įstatymo 9 straipsnio 11 dalį,
-kai valstybės garantiją išdavusiai institucijai asmuo, įgijęs reikalavimo
-teisę, atsirandančią iš valstybės garantijos, pateikia nuomininko
-reikalavimo teisės, atsirandančios iš valstybės garantijos, perleidimo
-sutarties kopiją. Savivaldybės vykdomoji institucija, išdavusi valstybės
-garantiją, valstybės garantijos perleidimo sutarties kopijos pagrindu
-patikslina valstybės garantiją, nurodydama naujo garantijos turėtojo (asmens,
-įgijusio reikalavimo teisę, atsirandančią iš valstybės garantijos) duomenis.
-Valstybės garantija garantijos turėtojui, perleidusiam reikalavimo teisę,
-atsirandančią iš valstybės garantijos, laikoma pasibaigusia nuo reikalavimo
-teisės, atsirandančios iš valstybės garantijos, perleidimo. Nuomininkas,
-perleidęs reikalavimo teisę, atsirandančią iš valstybės garantijos, privalo per
-2 mėnesius išsikelti iš turėtų gyvenamųjų ir kitų patalpų. Neišsikėlusieji iš
-jų iškeldinami teismo tvarka ir kita gyvenamoji patalpa jiems nesuteikiama.
+gyvenančiam savininkams grąžintuose gyvenamuosiuose namuose, jų dalyse, butuose,
+asmeniui, įgijusiam reikalavimo teisę, atsirandančią iš valstybės garantijos,
+yra įgyvendinama pagal šio Įstatymo 9 straipsnio 11 dalį, kai valstybės
+garantiją išdavusiai institucijai asmuo, įgijęs reikalavimo teisę, atsirandančią
+iš valstybės garantijos, pateikia nuomininko reikalavimo teisės, atsirandančios
+iš valstybės garantijos, perleidimo sutarties kopiją. Savivaldybės vykdomoji
+institucija, išdavusi valstybės garantiją, valstybės garantijos perleidimo
+sutarties kopijos pagrindu patikslina valstybės garantiją, nurodydama naujo
+garantijos turėtojo (asmens, įgijusio reikalavimo teisę, atsirandančią iš
+valstybės garantijos) duomenis. Valstybės garantija garantijos turėtojui,
+perleidusiam reikalavimo teisę, atsirandančią iš valstybės garantijos, laikoma
+pasibaigusia nuo reikalavimo teisės, atsirandančios iš valstybės garantijos,
+perleidimo. Nuomininkas, perleidęs reikalavimo teisę, atsirandančią iš
+valstybės garantijos, privalo per 2 mėnesius išsikelti iš turėtų gyvenamųjų ir
+kitų patalpų. Neišsikėlusieji iš jų iškeldinami teismo tvarka ir kita
+gyvenamoji patalpa jiems nesuteikiama.
 9. Valstybės garantija savininkui (savininkams)
 – tai Vyriausybės nustatytos formos dokumentas, kuriuo valstybė (garantas)
 įsipareigoja per jame nurodytą laiką perduoti savininkui (savininkams)
@@ -286,15 +286,17 @@ jo šeimos nariai) gyvena avarinės būklės namuose, taip pat 1992–2002
 metais nuomininkams išduotos garantijos, o antrąja eile – kitų turėtojų
 garantijos.
 12. Valstybės garantijos galiojimo
-laikas pasibaigia, kai ji įvykdoma. Pasibaigus  valstybės garantijai, šio
-straipsnio 2 dalies 1, 2, 3, 5 punktuose nurodytų garantijų turėtojai privalo
-per 2 mėnesius, o šio straipsnio 2 dalies 4 punkte nurodytos garantijos
-turėtojai per 2 metus patuštinti turėtas gyvenamąsias ir kitas patalpas.
-Nuomininkai, neįvykdę šios sąlygos, iškeldinami iš turėtų gyvenamųjų
-patalpų vadovaujantis Civilinio kodekso 6.613 straipsniu. Kai sugrąžinto
-gyvenamojo namo, jo dalies ar buto nuomininkai patuština turėtas gyvenamąsias
-ir kitas patalpas ar nuomininkai iškeldinami iš jų, savivaldybės vykdomoji
-institucija privalo šias patalpas per 1 mėnesį Vyriausybės nustatyta
+laikas pasibaigia, kai ji įvykdoma. Pasibaigus valstybės garantijai, šio
+straipsnio 2 dalies 1, 2, 3, 5 punktuose nurodytų garantijų turėtojai per 4
+mėnesius, o šio straipsnio 2 dalies 1 punkte nurodytos garantijos turėtojas,
+įsigyjantis gyvenamąsias patalpas statomame name – per 6 mėnesius privalo
+patuštinti turėtas gyvenamąsias ir kitas patalpas. Šio straipsnio 2 dalies 4
+punkte nurodytos garantijos turėtojai per 2 metus privalo patuštinti turėtas
+gyvenamąsias ir kitas patalpas. Nuomininkai, neįvykdę šios sąlygos, iškeldinami
+iš turėtų gyvenamųjų patalpų vadovaujantis Civilinio kodekso 6.613 straipsniu.
+Kai sugrąžinto gyvenamojo namo, jo dalies ar buto nuomininkai patuština turėtas
+gyvenamąsias ir kitas patalpas ar nuomininkai iškeldinami iš jų, savivaldybės
+vykdomoji institucija privalo šias patalpas per 1 mėnesį Vyriausybės nustatyta
 tvarka perduoti šio gyvenamojo namo, jo dalies ar buto savininkui
 (savininkams).
 13. Valstybės garantija savininkui
@@ -307,6 +309,13 @@ dalyje nustatyti terminai. Vyriausybė kasmet, atsižvelgdama į
 valstybės finansines išgales, valstybės biudžeto ir savivaldybių biudžetų
 finansinių rodiklių patvirtinimo įstatymo projekte numato lėšas valstybės
 garantijoms vykdyti, bet ne vėliau kaip iki 2009 m.
+15. Ginčai dėl valstybės garantijų
+nagrinėjami teismo tvarka. Šiose bylose šalys atleidžiamos nuo žyminio
+mokesčio.
+Straipsnio
+pakeitimai:
+Nr. IX-2393,
+2004-07-15, Žin., 2004, Nr. 117-4374 (2004-07-29)
  
 10 straipsnis. Atlyginimo už žemę, mišką
 padidinimo tvarka
@@ -325,7 +334,6 @@ priskirtą valstybės išperkamai žemei ir naudojamą asmeniniam arba valstieč
 pinigais padidinamas 15 procentų.
  
  
- 
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
@@ -338,15 +346,15 @@ _____________________
 Pakeitimai:
  
 1.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. VIII-1182,
 1999.05.13, Žin., 1999, Nr. 48-1523 (1999.06.02)
 LIETUVOS
 RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO,
-ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
-NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
-ĮSTATYME, ĮSTATYMO 8, 9, 10, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS 
+ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ
+PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME,
+ĮSTATYMO 8, 9, 10, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS 
  
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -394,8 +402,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1760,
-2003-10-14, Žin., 2003, Nr. 102-4582 (2003-10-31)
+IX-1760, 2003-10-14,
+Žin., 2003, Nr. 102-4582 (2003-10-31)
 KOMPENSACIJŲ
 UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ
 BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ NUOSAVYBĖS
@@ -403,11 +411,23 @@ TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO PAKE
 ĮSTATYMAS
 Nauja įstatymo redakcija (keistas įstatymo pavadinimas)
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2393,
+2004-07-15, Žin., 2004, Nr. 117-4374 (2004-07-29)
+KOMPENSACIJŲ
+UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ
+BEI TVARKOS, TAIP PAT VALSTYBĖS GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ
+NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 9
+STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-10-31)
+Aušrinė Trapinskienė (2004-07-29)
                  
 autrap@lrs.lt
