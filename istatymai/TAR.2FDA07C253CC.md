@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2FDA07C253CC"
 
 # Lietuvos Respublikos valstybinių įmonių įstatymas
 
-Suvestinė redakcija nuo 1993-11-19 iki 1994-07-19
+Suvestinė redakcija nuo 1994-07-20 iki 1994-11-17
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 92-0; Žin. 1990, Nr.30-709, i. k. 0901010ISTA000I-604
+ 
+TAR pastaba. Lietuvos Respublikos valstybinių įmonių įstatymas (Žin., 1990, Nr. 30-709; 1991, Nr. 4-107; 1992, Nr. 30-914; 1993, Nr. 31-710, Nr. 32-730, Nr. 49-963, Nr. 52-995, Nr. 62-1169) galioja tik valstybinėms įmonėms, kurios įrašytos 50 straipsnio  trečiojoje dalyje nustatytame įmonių sąraše.  50 str. 3 dalis: 3. Valstybinės ir valstybinės akcinės įmonės, išskyrus valstybines įmones, kurių Lietuvos Respublikos Vyriausybė nenumato iki 2000 metų nei akcionuoti, nei privatizuoti, taip pat individualios (personalinės) įmonės, kurioms suteiktos juridinio asmens teisės, turi būti reorganizuotos į bendroves Lietuvos Respublikos Vyriausybės nustatyta tvarka ir per 9 mėnesius nuo šio įstatymo įsigaliojimo įregistruotos Lietuvos Respublikos įmonių rejestre. Nurodytas laikas įmonėms, tęsiančioms privatizavimą pagal Valstybinio turto pirminio privatizavimo įstatymą, skaičiuojamas nuo jų privatizavimo termino pabaigos. Lietuvos Respublikos Vyriausybė turi parengti ir iki 1994 m. lapkričio 1 d. pateikti Seimui tvirtinti tokių įmonių sąrašą (nurodydama įstatinį kapitalą) ir Lietuvos Respublikos valstybės ir savivaldybių įmonių įstatymo projektą.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-528, 1994-07-05, Žin., 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA000I-528
+Lietuvos Respublikos akcinių bendrovių įstatymas
  
  
 LIETUVOS RESPUBLIKOS VALSTYBINIŲ ĮMONIŲ ĮSTATYMAS
@@ -818,4 +823,9 @@ Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
 Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-528, 1994-07-05, Žin., 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA000I-528
+Lietuvos Respublikos akcinių bendrovių įstatymas
 
