@@ -55,12 +55,12 @@ Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
 2 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-1. Donoras – sveikas asmuo, kurio sveikatos būklė atitinka Sveikatos apsaugos ministerijos nustatytus reikalavimus, savanoriškai duodantis kraujo ar kraujo sudėtinių dalių. 
+1. Kraujo donoras (toliau – donoras) – sveikatos apsaugos ministro nustatytus sveikatos būklės reikalavimus atitinkantis sveikas asmuo, savanoriškai duodantis kraujo ar kraujo sudėtinių dalių. 
 
 
 
 
-2. Donoro kraujas (toliau – kraujas) – iš donoro surinktas kraujas, susidedantis iš plazmos ir ląstelinių komponentų (eritrocitų, trombocitų, leukocitų, kamieninių ląstelių) ir paruoštas transfuzijai ar toliau perdirbti. 
+2. Kraujo donoro kraujas (toliau – kraujas) – iš kraujo donoro surinktas kraujas, susidedantis iš plazmos ir ląstelinių komponentų (eritrocitų, trombocitų, leukocitų, kamieninių ląstelių) ir paruoštas transfuzijai ar perdirbti. 
 
 
 
@@ -68,16 +68,16 @@ Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
 3. Kraujo donorystė – priemonių visuma, apimanti visuomenės skatinimą duoti kraujo, donorų atranką, kraujo ir jo komponentų surinkimą ir ištyrimą, neatsižvelgiant į tai, kokiam tikslui jie būtų naudojami, taip pat transfuzijai naudojamo kraujo ir jo komponentų perdirbimą, laikymą ir paskirstymą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
- 
+ 
 
 
 
 
-4. Kraujo donorystės įstaiga – Lietuvos Respublikos teisės aktų nustatyta tvarka licencijuota valstybės asmens sveikatos priežiūros viešoji įstaiga ar jos padalinys, atsakingi už kraujo ar jo komponentų surinkimą ir ištyrimą, neatsižvelgiant į tai, kokiam tikslui bus naudojamas kraujas ar jo komponentai, ir už kraujo ir jo komponentų surinkimą, ištyrimą, perdirbimą, laikymą ir paskirstymą, jeigu kraujas ir jo komponentai naudojami transfuzijai, arba Lietuvos Respublikos teisės aktų nustatyta tvarka licencijuota įmonė, atsakinga už plazmos, naudojamos tik kaip pradinė medžiaga vaistiniams preparatams gaminti,  surinkimą ir ištyrimą. Ši sąvoka neapima ligoninių kraujo bankų.
+4. Kraujo donorystės įstaiga – Lietuvos Respublikos teisės aktų nustatyta tvarka licencijuota valstybės asmens sveikatos priežiūros viešoji įstaiga ar jos padalinys, atsakingi už kraujo ar jo komponentų surinkimą ir ištyrimą, neatsižvelgiant į tai, kokiam tikslui bus naudojamas kraujas ar jo komponentai, ir už kraujo ir jo komponentų surinkimą, ištyrimą, perdirbimą, laikymą ir paskirstymą, jeigu kraujas ir jo komponentai naudojami transfuzijai, arba Lietuvos Respublikos teisės aktų nustatyta tvarka licencijuota įmonė, atsakinga už plazmos, naudojamos tik kaip pradinė medžiaga vaistiniams preparatams gaminti,  surinkimą ir ištyrimą. Ši sąvoka neapima ligoninių kraujo bankų.
 Straipsnio dalies pakeitimai:
 Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
 Nr. XII-918, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07396
- 
+ 
 
 
 
@@ -90,7 +90,7 @@ Nr. XII-918, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07396
 6. Neteko galios nuo 2015-05-01
 Straipsnio dalies naikinimas:
 Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
- 
+ 
 
 
 
@@ -98,7 +98,7 @@ Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
 7. Ligoninės kraujo bankas – ligoninės padalinys, laikantis ir skirstantis kraują ir jo komponentus, turintis teisę atlikti kraujo ir jo komponentų suderinamumo tyrimus ir vykdyti transfuzinę veiklą išimtinai ligoninės reikmėms tenkinti. 
 Papildyta straipsnio dalimi:
 Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
- 
+ 
 
 
 
@@ -106,7 +106,7 @@ Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010IS
 8. Recipientas – asmuo, kuriam gydymo tikslu atliekama kraujo ar kraujo komponentų transfuzija. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
- 
+ 
 
 
 
@@ -114,25 +114,19 @@ Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010IS
 9. Transfuzija – kraujo ar kraujo komponentų perpylimas į žmogaus organizmą gydymo tikslu. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
- 
+ 
 
 
 Straipsnio pakeitimai:
 Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
- 
-
-
+ 
 
 
 
 
 II SKYRIUS
 KRAUJO DONORYSTĖS ĮGYVENDINIMO TVARKA,
-SĄLYGOS IR PRINCIPAI. DONORŲ TEISĖS IR PAREIGOS
- 
-
-
-3 straipsnis. Kraujo donorystės veiklos principai
+SĄLYGOS IR PRINCIPAI. DONORŲ TEISĖS IR PAREIGOS3 straipsnis. Kraujo donorystės veiklos principai
 
 
 Kraujo donorystė remiasi donorystės savanoriškumo, donoro anonimiškumo, neatlygintinumo ir kraujo donorystės įstaigų pelno nesiekimo principais.
@@ -140,13 +134,7 @@ Kraujo donorystė remiasi donorystės savanoriškumo, donoro anonimiškumo, neat
 
 Straipsnio pakeitimai:
 Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
-Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
- 
-
-
-
-
-4 straipsnis. Donorų atranka
+Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-205584 straipsnis. Donorų atranka
 
 
 1. Donoru gali būti kiekvienas sveikas ir veiksnus 18–65 metų asmuo, savanoriškai pateikęs raštišką sutikimą duoti kraujo ar kraujo sudėtinių dalių.
@@ -336,37 +324,39 @@ Donoras privalo:
 9 straipsnis. Kraujo donorų registras
 
 
-1. Duomenys apie donorus įrašomi Kraujo donorų registre.
+1. Kraujo donorų registras yra šio registro informacinėje sistemoje tvarkomas duomenų apie registro objektus – kraujo ir kraujo sudėtinių dalių donorus – rinkinys. Kraujo donorų registro informacinėje sistemoje (toliau – Registro informacinė sistema) tvarkomi donorus identifikuojančių duomenų rinkiniai ir duomenų apie apsilankymus kraujo donorystės įstaigose ir donacijas rinkiniai. Konkretūs Registro informacinėje sistemoje tvarkomų duomenų rinkinius sudarantys duomenys yra nustatomi Registro informacinės sistemos nuostatuose. Registro informacinės sistemos objektai registruojami neatlygintinai.
 
 
 
 
-2. Kraujo donorų registrą steigia ir jo nuostatus tvirtina Sveikatos apsaugos ministerija.
+2. Kraujo donorų registro informacinės sistemos valdytojas ir duomenų, įskaitant asmens duomenis, valdytojas yra Higienos institutas.
 
 
 
 
-3. Atsakingasis Kraujo donorų registro tvarkytojas yra Sveikatos apsaugos ministerija.
+3. Kraujo donorų registro duomenys tvarkomi siekiant identifikuoti kraujo ir kraujo sudėtinių dalių donorus.
 
 
 
 
-4. Juridiniai ir fiziniai asmenys Kraujo donorų registro duomenimis turi teisę naudotis šio registro nuostatų nustatyta tvarka.
- 
+4. Registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Registro informacinės sistemos duomenys teikiami laikantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus bei Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytus sveikatos duomenų teikimo pacientams reikalavimus.
 
 
 
 
+5. Registro informacinės sistemos duomenys gali būti teikiami pakartotinai naudoti vadovaujantis Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymo nuostatomis arba kitu teisėtu pagrindu, nustatytu Reglamente (ES) 2016/679 arba specialiuosiuose įstatymuose, reglamentuojančiuose asmens duomenų tvarkymą asmens sutikimu. Asmens duomenis teikti pakartotinai naudoti galima tik kai yra bent vienas teisėtas duomenų tvarkymo pagrindas pagal Reglamento (ES) 2016/679 6 straipsnį, o jeigu bus tvarkomi specialių kategorijų (sveikatos) duomenys, taikoma bent viena iš šio reglamento 9 straipsnio 2 dalyje nustatytų išimčių, leidžiančių tvarkyti specialių kategorijų (sveikatos) duomenis, ir toks tvarkymas atitinka Reglamento (ES) 2016/679 5 straipsnyje nustatytus duomenų tvarkymo principus.
+
+
+
+
+6. Registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra atveriami pakartotinai naudoti.
+ 
 
 
 
 
 III SKYRIUS
-KRAUJO DONORYSTĖS SUBJEKTAI
- 
-
-
-10 straipsnis. Kraujo donorystės valdymas
+KRAUJO DONORYSTĖS SUBJEKTAI10 straipsnis. Kraujo donorystės valdymas
 
 
 Kraujo donorystės veiklą kontroliuoja ir koordinuoja Sveikatos apsaugos ministerija.
