@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2000-01-01 iki 2004-03-31
+Suvestinė redakcija nuo 2004-04-01 iki 2004-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -43,7 +43,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis įstatymas taip pat apibrėžia visiškos negalios invalido sąvoką, nustato pagrindinius kriterijus, pagal kuriuos I grupės invalidui ir vaikui invalidui iki 16 metų (toliau – visiškos negalios invalidas) pripažįstama visiška negalia, nustato slaugos pašalpų visiškos negalios invalidams ir jų slaugytojams (tėvams, globėjams, rūpintojams) dydžius bei šių pašalpų skyrimo ir mokėjimo tvarką.
+2. Šis įstatymas taip pat apibrėžia visiškos negalios invalido sąvoką, nustato pagrindinius kriterijus, pagal kuriuos I grupės invalidui ir vaikui invalidui pripažįstama visiška negalia (toliau – visiškos negalios invalidas).
+Straipsnio dalies pakeitimai:
+Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
+ 
 
 
 
@@ -132,7 +135,10 @@ INVALIDUMO NUSTATYMAS. INVALIDUMO STATISTIKA
 
 
 
-2. Pagal pasireiškimo laipsnį invalidumas skirstomas į tris grupes (I, II, III). Bendrojo ir profesinio darbingumo netekimas reiškiamas procentais (%).
+2. Asmenų iki 18 metų, išskyrus tuos, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, invalidumas pagal pasireiškimo mastą skirstomas į tris lygius: sunkią, vidutinę ir lengvą negalią. Asmenų iki 18 metų, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, ir asmenų nuo 18 metų invalidumas pagal pasireiškimo mastą skirstomas į tris grupes: I, II ir III grupių invalidumą. Bendrojo ir profesinio darbingumo netekimas reiškiamas procentais (%). 
+Straipsnio dalies pakeitimai:
+Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
+ 
 
 
 
@@ -158,17 +164,20 @@ INVALIDUMO NUSTATYMAS. INVALIDUMO STATISTIKA
 4 straipsnis. Invalidumo nustatymas
 
 
-1. Invalidumą nustato:
+1. Invalidumą nustato: 
 
 
-1) vaikams iki 16 metų – Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigų, teikiančių sveikatos priežiūros paslaugas vaikams, gydytojų konsultacinės komisijos, kurių nuostatus tvirtina Sveikatos apsaugos ministerija;
+1) asmenims iki 18 metų, išskyrus tuos, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, – Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigų gydytojų konsultacinės komisijos; jų nuostatus tvirtina Sveikatos apsaugos ministerija. Šie asmenys pripažįstami vaikais invalidais; 
 
 
 
 
-2) asmenims nuo 16 metų – valstybinės medicininės-socialinės ekspertizės komisijos, kurių nuostatus tvirtina Vyriausybė (toliau šios dalies 1 ir 2 punktuose nurodytos komisijos vadinamos invalidumą nustatančiomis komisijomis).
+2) asmenims iki 18 metų, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, ir asmenims nuo 18 metų – valstybinės medicininės-socialinės ekspertizės komisijos; jų nuostatus tvirtina Vyriausybė (toliau šios dalies 1 ir 2 punktuose nurodytos komisijos vadinamos invalidumą nustatančiomis komisijomis). Šie asmenys pripažįstami invalidais. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
+ 
 
 
 
@@ -181,7 +190,10 @@ INVALIDUMO NUSTATYMAS. INVALIDUMO STATISTIKA
 3. Invalidumą nustatančios komisijos priima sprendimus dėl: 
 
 
-1) invalidumo fakto, pobūdžio, priežasties, atsiradimo laiko, grupės, termino, bendrojo ir profesinio darbingumo netekimo laipsnio;
+1) invalidumo fakto, pobūdžio, priežasties, atsiradimo laiko, grupės (lygio), termino, bendrojo ir profesinio darbingumo netekimo masto; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
+ 
 
 
 
@@ -213,7 +225,9 @@ INVALIDUMO NUSTATYMAS. INVALIDUMO STATISTIKA
 
 
 
-4. Invalidumą nustatančių komisijų sprendimai privalomi socialinės globos ir rūpybos įstaigoms (pensionatams), savivaldybių globos ir rūpybos institucijoms, darbdaviams, ugdymo, mokymo, specialioms invalidų medicininės, profesinės ir socialinės reabilitacijos įstaigoms, invalidams, jų tėvams, globėjams, rūpintojams.
+4. Invalidumą nustatančių komisijų sprendimai privalomi socialinės globos ir rūpybos įstaigoms (pensionatams), savivaldybių globos ir rūpybos institucijoms, Valstybinio socialinio draudimo fondo valdybai, darbdaviams, ugdymo, mokymo, specialioms invalidų medicininės, profesinės ir socialinės reabilitacijos įstaigoms, invalidams, jų tėvams, globėjams, rūpintojams.
+Straipsnio dalies pakeitimai:
+Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
  
 
 
@@ -224,10 +238,12 @@ INVALIDUMO NUSTATYMAS. INVALIDUMO STATISTIKA
 5 straipsnis. Suinteresuotų asmenų dalyvavimas nustatant invalidumą
 
 
-Nustatant invalidumą, gali dalyvauti su patariamojo balso teise asmenį gydantis gydytojas, darbdavių, ugdymo, mokymo įstaigų, socialinės globos ir rūpybos įstaigų (pensionatų), savivaldybių globos ir rūpybos institucijų, invalidų visuomeninių organizacijų atstovai. Jų dalyvavimo tvarką reglamentuoja invalidumą nustatančių komisijų nuostatai.
+Nustatant invalidumą, gali dalyvauti su patariamojo balso teise asmenį gydantis gydytojas, darbdavių, ugdymo, mokymo įstaigų, socialinės globos ir rūpybos įstaigų (pensionatų), savivaldybių globos ir rūpybos institucijų, Valstybinio socialinio draudimo fondo valdybos, invalidų visuomeninių organizacijų atstovai. Jų dalyvavimo tvarką reglamentuoja invalidumą nustatančių komisijų nuostatai.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
  
-
-
 
 
 
@@ -630,33 +646,22 @@ INVALIDŲ MATERIALINĖS PADĖTIES GARANTIJOS
 22 straipsnis. Pensijos, pašalpos, kitos išmokos invalidams, jų tėvams, globėjams, rūpintojams
 
 
-1. Pensijų, pašalpų dydį, jų mokėjimo tvarką, kitas sąlygas nustato Valstybinių socialinio draudimo pensijų, Valstybinių pensijų, Šalpos (socialinių) pensijų, Gyventojų pajamų garantijų, šis ir kiti įstatymai.
+1. Pensijų, valstybinių šalpos išmokų, pašalpų dydį, jų mokėjimo tvarką, kitas sąlygas nustato Valstybinių socialinio draudimo pensijų, Valstybinių pensijų, Valstybinių šalpos išmokų, Gyventojų pajamų garantijų, šis ir kiti įstatymai.
 
 
 
 
-2. Visiškos negalios invalidui skiriama ir mokama valstybinės socialinio draudimo bazinės pensijos dydžio slaugos pašalpa. Visiškos negalios invalidui, kuris nustatyta tvarka yra pripažintas neveiksniu, priklausanti slaugos pašalpa skiriama ir mokama jo globėjui. Slaugos pašalpos skiriamos ir mokamos iš valstybės biudžeto, neatsižvelgiant į visiškos negalios invalido ar jo globėjo gaunamas kitas pensijas ir pajamas. Slaugos pašalpos skiriamos, mokamos ir ginčai dėl šių pašalpų nagrinėjami Šalpos (socialinių) pensijų skyrimo ir mokėjimo nuostatų nustatyta šalpos (socialinėms) pensijoms tvarka. Slaugos pašalpa neskiriama visiškos negalios invalidui, gyvenančiam globos įstaigose.
-TAR pastaba. Invalidų socialinės integracijos įstatymo 22 straipsnio 2 dalis įsigalioja nuo 1999 m. spalio 1 d.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1015, 1998-12-29, Žin., 1998, Nr. 115-3273 (1998-12-31), i. k. 0981010ISTAIII-1015
+2. Vienas iš visiškos negalios invalido tėvų arba asmuo, nustatyta tvarka pripažintas visiškos negalios invalido globėju arba rūpintoju, slaugantis namuose visiškos negalios invalidą, valstybės lėšomis privalomai draudžiamas valstybiniu socialiniu pensijų draudimu bazinei pensijai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Šis asmuo privalomai draudžiamas valstybės lėšomis tik tuo atveju, kai jis negauna jam pačiam priklausančios valstybinės socialinio draudimo pensijos, valstybinės pensijos, šalpos pensijos už invalidų slaugą namuose, socialinės pensijos ar šalpos pensijos. 
+
+
+
+
+3. Savivaldybės, įmonės, įstaigos, organizacijos, invalidų visuomeninės organizacijos gali mokėti invalidams, jų tėvams, globėjams, rūpintojams nuolatines ar vienkartines pašalpas, kitas išmokas.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
  
-
-
-
-
-3. Vienas iš visiškos negalios invalido tėvų arba asmuo, nustatyta tvarka pripažintas visiškos negalios invalido globėju arba rūpintoju, slaugantis namuose visiškos negalios invalidą, valstybės lėšomis privalomai draudžiamas valstybiniu socialiniu pensijų draudimu bazinei pensijai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Šis asmuo privalomai draudžiamas valstybės lėšomis tik tuo atveju, kai jis negauna jam pačiam priklausančios valstybinės socialinio draudimo pensijos, valstybinės pensijos ar šalpos (socialinės) pensijos.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1015, 1998-12-29, Žin., 1998, Nr. 115-3273 (1998-12-31), i. k. 0981010ISTAIII-1015
-Nr. VIII-1480, 1999-12-16, Žin., 1999, Nr. 113-3284 (1999-12-30), i. k. 0991010ISTAIII-1480
- 
-
-
-
-
-4. Savivaldybės, įmonės, įstaigos, organizacijos, invalidų visuomeninės organizacijos gali mokėti invalidams, jų tėvams, globėjams, rūpintojams nuolatines ar vienkartines pašalpas, kitas išmokas.
- 
-
-
 
 
 
@@ -895,3 +900,8 @@ Lietuvos Respublikos invalidų socialinės integracijos įstatymo pakeitimo ir p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1480, 1999-12-16, Žin., 1999, Nr. 113-3284 (1999-12-30), i. k. 0991010ISTAIII-1480
 Lietuvos Respublikos invalidų socialinės integracijos įstatymo 22 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
+Lietuvos Respublikos invalidų socialinės integracijos įstatymo 1, 3, 4, 5 ir 22 straipsnių pakeitimo įstatymas
