@@ -1361,9 +1361,10 @@ metus neviršija 10 tūkst. litų, taip pat dovanojimo būdu gautos pajamos
 gaunami alimentai;
 4)
 žalai atlyginti gautos sumos netekus maitintojo bei darbingumo;
-5) teismų priteistos
-sumos materialinei ir moralinei žalai atlyginti bei įstatymų ir Vyriausybės
-nustatytų normų neviršijančios piniginės kompensacijos;
+5) teismų priteistos sumos materialinei ir moralinei žalai atlyginti bei
+įstatymų ir Vyriausybės nustatytų normų neviršijančios piniginės kompensacijos,
+taip pat kompensacijos, mokamos iš Austrijos Respublikos Susitaikymo, santarvės
+ir bendradarbiavimo fondo;
 6) palūkanos už Lietuvos
 Respublikos ūkio subjektų obligacijas ir už Lietuvos Respublikos Vyriausybės
 bei savivaldybių vertybinius popierius, taip pat palūkanos už tarptautinių
@@ -1372,8 +1373,8 @@ popierius;
 7)
 loterijų laimėjimai;
  
-[7 punkto
-redakcija nuo 2001 m. liepos 1 d.:
+[7 punkto redakcija
+nuo 2001 m. liepos 1 d.:
 7)
 loterijų ir azartinių lošimų laimėjimai;]
  
@@ -1393,8 +1394,8 @@ vertės vienos ar kitos rūšies daiktas;
 11)
 sporto ir kitų varžybų bei konkursų prizai ir dovanos;
 12)
-palūkanos, gautos už Lietuvos banko licencijas turinčiose banko ir kitose kredito
-įstaigose laikomus indėlius;
+palūkanos, gautos už Lietuvos banko licencijas turinčiose banko ir kitose
+kredito įstaigose laikomus indėlius;
 13)
 pagal 1992, 1993, 1994, 1995, 1996 ir 1997 metų veiklos rezultatus akcininkams
 ar įmonės darbuotojams išduotų akcijų nominali vertė arba anksčiau išduotų
@@ -1419,8 +1420,8 @@ pagalbiniame ūkyje pagamintą ir realizuotą žemės ūkio produkciją, išskyr
 pajamas už realizuotus mėsėdžius švelniaplaukius žvėrelius, nutrijas ir jų
 produkciją, taip pat ūkininkų ir ūkio narių pajamos už ūkininkų ūkiuose,
 įregistruotuose Ūkininko ūkio įstatymo nustatyta tvarka, vykdomą žemės ūkio
-veiklą ir gyventojų pajamos už parduodamas miško gėrybes (grybus, uogas, riešutus,
-vaistažoles ir kt.);
+veiklą ir gyventojų pajamos už parduodamas miško gėrybes (grybus, uogas,
+riešutus, vaistažoles ir kt.);
 20)
 pajamos, gautos pardavus ar kitu būdu perleidus nuosavybėn vertybinius
 popierius.
@@ -1484,6 +1485,8 @@ Nr. IX-83, 2000 12 19, Žin., 2000, Nr.
 113-3603 (2000 12 30), įsigalioja nuo 2001 01 01
 Nr. IX-257, 2001 04 17, Žin., 2001, Nr.
 39-1329 (2001 05 09), įsigalioja nuo 2001 07 01
+Nr. IX-300, 2001 04 26, Žin., 2001, Nr.
+41-1421 (2001 05 16)
  
  
      36
@@ -1529,8 +1532,8 @@ jų buvo sumokėti mokesčiai užsienyje;
 patikslinta praėjusiais metais faktiškai gautų bendrųjų pajamų deklaracija
 pateikiama pasibaigus metams iki kitų metų vasario 1 dienos;
 6)
-einamaisiais metais gerokai pasikeitus (sumažėjus arba padidėjus) gaunamų pajamų
-dydžiui, fiziniai asmenys, anksčiau deklaravę numatomas gauti pajamas ir
+einamaisiais metais gerokai pasikeitus (sumažėjus arba padidėjus) gaunamų
+pajamų dydžiui, fiziniai asmenys, anksčiau deklaravę numatomas gauti pajamas ir
 mokantys avansinius mokesčius, gali pateikti naują pajamų deklaraciją, kuria
 remiantis patikslinamas apskaičiuoto pajamų mokesčio įmokų dydis;
 7)
@@ -1569,10 +1572,10 @@ Nr. IX-83, 2000 12 19, Žin., 2000, Nr.
  
  
 38 straipsnis.
-Laiku
-neapmokestinti mokėtojai apmokestinami, neteisingas apmokestinimas
-patikslinamas ir mokestis grąžinamas arba išieškomas Lietuvos Respublikos
-mokesčių administravimo įstatymo nustatyta tvarka.
+Laiku neapmokestinti
+mokėtojai apmokestinami, neteisingas apmokestinimas patikslinamas ir mokestis
+grąžinamas arba išieškomas Lietuvos Respublikos mokesčių administravimo
+įstatymo nustatyta tvarka.
 Už praėjusį laikotarpį
 papildomai apskaičiuotas mokestis ir sankcijos sumokami Lietuvos Respublikos
 mokesčių administravimo įstatymo nustatytais terminais.
@@ -1648,20 +1651,19 @@ Nr.I-430,
  
  
             41 straipsnis.
-            Įmonės, įstaigos ir organizacijos
-privalo valstybinėms mokesčių inspekcijoms pateikti žinias apie visas Lietuvos
-Respublikos gyventojams, užsienio valstybių piliečiams ir asmenims be
-pilietybės išmokėtas sumas (pinigais ir natūra), išskyrus išmokas, nurodytas
-šio įstatymo II, III ir IV dalyse, 33 straipsnio ketvirtojoje dalyje ir 35
-straipsnyje (išskyrus šio straipsnio 11 punkto nuostatą dėl per metus parduoto
-vieno bet kokios vertės vienos ar kitos rūšies daikto).
+            Įmonės, įstaigos ir
+organizacijos privalo valstybinėms mokesčių inspekcijoms pateikti žinias apie
+visas Lietuvos Respublikos gyventojams, užsienio valstybių piliečiams ir
+asmenims be pilietybės išmokėtas sumas (pinigais ir natūra), išskyrus išmokas,
+nurodytas šio įstatymo II, III ir IV dalyse, 33 straipsnio ketvirtojoje dalyje
+ir 35 straipsnyje (išskyrus šio straipsnio 11 punkto nuostatą dėl per metus
+parduoto vieno bet kokios vertės vienos ar kitos rūšies daikto).
      Žinios apie
-Lietuvos Respublikos gyventojams išmokėtas sumas pateikiamos valstybinei
-mokesčių inspekcijai, kurios veiklos teritorijoje nuolat gyvena pajamas gavęs
-asmuo. Šia tvarka žinios pateikiamos ir tuo atveju, kai įmonės, įstaigos ir
-organizacijos Lietuvos Respublikos gyventojams išmoka sumas už parduotą vieną
-bet kokios vertės vienos arba kitos rūšies daiktą ir neišskaito pajamų
-mokesčio.
+Lietuvos Respublikos gyventojams išmokėtas sumas pateikiamos valstybinei mokesčių
+inspekcijai, kurios veiklos teritorijoje nuolat gyvena pajamas gavęs asmuo. Šia
+tvarka žinios pateikiamos ir tuo atveju, kai įmonės, įstaigos ir organizacijos
+Lietuvos Respublikos gyventojams išmoka sumas už parduotą vieną bet kokios
+vertės vienos arba kitos rūšies daiktą ir neišskaito pajamų mokesčio.
      Žinios apie
 užsienio valstybių piliečiams ir asmenims be pilietybės Lietuvoje išmokėtas
 sumas pateikiamos Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos
@@ -2099,8 +2101,8 @@ nuo 2001 m. sausio 1 d.
  
 33.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1615, 00.04.11, Žin., 2000, Nr.34-955
-(00.04.26)
+Nr. VIII-1615, 00.04.11, Žin., 2000,
+Nr.34-955 (00.04.26)
 FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 4
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja
@@ -2141,14 +2143,14 @@ projektavimo-konstravimo, darbo organizavimo, valdymo, koordinavimo paslaugas,
 už turto nuomą, už parduotą arba kitaip perleistą nuosavybėn nekilnojamąjį
 turtą, kuris registruojamas Nekilnojamojo turto registre, dėl autorinio
 atlyginimo, atlyginimo už perduotas ar autorinėje licencinėje sutartyje
-suteiktas autorių teises ir gretutines teises, taip pat už perduotas ar licencinėje
-sutartyje suteiktas teises naudotis išradimo patentu, pramoniniu dizainu,
-puslaidininkio gaminio topografija, paslaugų ženklu, slapta formule ar metodu,
-frančize, nuostolių ir materialinės žalos atlyginimo už autorių ir gretutinių
-teisių pažeidimą arba kompensacijų už autorių ir gretutinių teisių pažeidimą
-bei dėl palūkanų, išskyrus palūkanas už paskolas, kurias suteikė tarptautinės
-finansinės institucijos (institucijos arba organizacijos, kurių visi nariai
-arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio valstybių
+suteiktas autorių teises ir gretutines teises, taip pat už perduotas ar
+licencinėje sutartyje suteiktas teises naudotis išradimo patentu, pramoniniu
+dizainu, puslaidininkio gaminio topografija, paslaugų ženklu, slapta formule ar
+metodu, frančize, nuostolių ir materialinės žalos atlyginimo už autorių ir
+gretutinių teisių pažeidimą arba kompensacijų už autorių ir gretutinių teisių
+pažeidimą bei dėl palūkanų, išskyrus palūkanas už paskolas, kurias suteikė
+tarptautinės finansinės institucijos (institucijos arba organizacijos, kurių
+visi nariai arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio valstybių
 fondai ir valstybinės finansinės institucijos, kurių daugiau kaip 50 procentų
 akcijų paketo turėtojai yra užsienio valstybių vyriausybės) apmokestinimo taikomos nuo 2002 m. sausio 1 d.,
 apmokestinant šias pajamas ir palūkanas, gautas pagal sutartis, sudarytas iki
@@ -2205,9 +2207,16 @@ Nr. IX-257, 2001 04 17, Žin., 2001, Nr.
 FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 35
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-300, 2001 04
+26, Žin., 2001, Nr. 41-1421 (2001 05 16)
+FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 35
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 05 11)
-                  autrap@lrs.lt
+Redagavo: Aušrinė Trapinskienė (2001 05 16)
+                  autrap@lrs.lt
 
