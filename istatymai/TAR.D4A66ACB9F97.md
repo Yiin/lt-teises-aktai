@@ -13,13 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 
 # Lietuvos Respublikos gyventojų turto deklaravimo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 
 
 
 Redagavo:
-Ramunė Lūžaitė (1997.03.17)
+Ramunė Lūžaitė (1998.02.18)
+ 
+Įstatymas
+paskelbtas: Žin., 1996, Nr.50-1197
  
 Neoficialus
 įstatymo tekstas
@@ -34,6 +37,15 @@ VIII-134, 97.02.25, Žin., 1997, Nr. 23-542 (97.03.15)
 LIETUVOS
 RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAPILDYMO IR
 PAKEITIMO ĮSTATYMAS
+ 
+2.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-623,
+98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
+LIETUVOS RESPUBLIKOS
+GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 3, 6 IR 10 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -54,8 +66,7 @@ I-1338
                                  
 Vilnius
                           
-(Žin., 1996, Nr.50-1197)
- 
+
  
     
 1 straipsnis. Įstatymo paskirtis
@@ -99,20 +110,25 @@ išskyrus užsienio valstybių diplomatus, diplomatinių atstovybių ir konsulin
 pajamas, pateikdami pagal gyvenamąją vietą valstybinei mokesčių inspekcijai
 Vyriausybės nustatytos formos turto ir pajamų deklaracijas. Nepilnamečių asmenų
 turtą ir pajamas deklaruoja vienas iš tėvų, įtėvių, globėjų ar rūpintojų.
-     2.
-Deklaracija pateikiama kasmet iki kovo 1 dienos už praėjusius kalendorinius
-metus. Už turto ir pajamų deklaracijose nurodytų duomenų teisingumą atsako pats
-deklaruojantysis.
-
+    
+2. Deklaracija pateikiama kasmet iki gegužės 1 dienos už praėjusius
+kalendorinius metus. Už turto ir pajamų deklaracijose nurodytų duomenų
+teisingumą atsako pats deklaruojantysis.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-623, 98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
+ 
      4
 straipsnis. Turto ir pajamų deklaravimas
 
      Turto
 ir pajamų deklaracijos formą bei metodinius nurodymus, kaip ją pildyti, nustato
 Vyriausybė. Valstybinė mokesčių inspekcija pagal šį įstatymą deklaruojančius
-turtą ir pajamas asmenis nemokamai aprūpina turto ir pajamų deklaracijų
-blankais bei metodiniais nurodymais. Užpildytos turto ir pajamų deklaracijos
-saugomos nuolatinai.
+turtą ir pajamas asmenis nemokamai aprūpina turto ir pajamų deklaracijų blankais
+bei metodiniais nurodymais. Užpildytos turto ir pajamų deklaracijos saugomos
+nuolatinai.
 
      5
 straipsnis. Kandidatų į politikus, naujų politikų ar valstybės
@@ -142,19 +158,23 @@ atskaitomybėje atskiriami nuo nuolat dirbančiųjų.
      6
 straipsnis. Pažymų pateikimo tvarka
 
-     Lietuvos
-Respublikos juridiniai ir fiziniai asmenys, išmokėję gyventojams bet kokios
-rūšies pajamas, nemokamai išdavę turto bei vertybių ar suteikę paslaugų ir
-išskaitę mokesčius, kasmet iki vasario 15 dienos privalo:
-     1)
-parengti pažymą apie Lietuvos Respublikos gyventojams per praėjusius metus
-išmokėtas pajamų sumas, išskaičiuotus mokesčius ar kitus privalomus mokėjimus,
-nemokamai išduotą turtą ar suteiktas paslaugas pagal Vyriausybės patvirtintą
-formą;
-     2)
-pateikti Lietuvos Respublikos gyventojams ir jų gyvenamosios vietos valstybinei
-mokesčių inspekcijai šio straipsnio 1 punkte nurodytą pažymą.
-
+Lietuvos Respublikos juridiniai ir fiziniai
+asmenys, išmokėję gyventojams bet kokios rūšies pajamas, nemokamai išdavę turto
+bei vertybių ar suteikę paslaugų ir išskaitę mokesčius, kasmet iki kovo 1
+dienos privalo:
+1) parengti pažymą apie Lietuvos Respublikos
+gyventojams per praėjusius metus išmokėtas pajamų sumas, išskaičiuotus
+mokesčius ar kitus privalomus mokėjimus, nemokamai išduotą turtą ar suteiktas
+paslaugas pagal Vyriausybės patvirtintą formą;
+2) pateikti Lietuvos Respublikos gyventojams
+ir jų gyvenamosios vietos valstybinei mokesčių inspekcijai šio straipsnio 1
+punkte nurodytą pažymą.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-623, 98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
+ 
      7
 straipsnis. Duomenų kaupimas ir kontrolė
 
@@ -212,8 +232,8 @@ narių deklaracijų informaciją.
 politikai ir valstybės tarnautojai skelbia “Valstybės žinių” specialiame priede
 valstybės lėšomis savo bei savo šeimos narių turto ir pajamų deklaracijų
 informaciją. Jų patvirtintų deklaracijų nuorašus “Valstybės žinių” redakcijai
-kasmet iki kovo 31 dienos pateikia mokesčių inspekcijos. “Valstybės žinios”
-deklaracijų informaciją kasmet paskelbia iki gegužės 1 dienos.
+kasmet iki liepos 1 dienos pateikia mokesčių inspekcijos. “Valstybės žinios”
+deklaracijų informaciją kasmet paskelbia iki rugsėjo 1 dienos.
      3.
 Šio įstatymo 2 priedėlyje išvardinti Lietuvos Respublikos gyventojai -
 valstybės tarnautojai ir jų šeimos nariai gali skelbti “Valstybės žinių”
@@ -227,7 +247,9 @@ Straipsnio
 pakeitimai:
 Nr.
 VIII-134, 97.02.25, Žin., 1997, Nr. 23-542 (97.03.15) 
-
+Nr.
+VIII-623, 98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
+ 
      11
 straipsnis. Įstatymo taikymo tvarka
 
@@ -267,8 +289,8 @@ Lietuvos Respublikos
 1 priedėlis
 
      
-                   
-Politikų, valstybės tarnautojų ir jų šeimos narių,
+          
+         Politikų, valstybės tarnautojų ir jų šeimos narių,
                     
 kurie nuo 1996 metų deklaruoja turtą ir pajamas,
                                      
@@ -310,19 +332,13 @@ mokesčių inspekcijų pareigūnai
 Vidaus reikalų ministerijos Ekonominių nusikaltimų tyrimo valdybos ir miestų
 bei rajonų komisariatų ekonominių nusikaltimų tyrimo skyrių (poskyrių)
 pareigūnai
-     *
-13. Policijos komisarai inspektoriai, komisarai, vyresnieji komisarai,
-vyriausieji komisarai, generalinis komisaras
+     13.
+Policijos komisarai inspektoriai, komisarai, vyresnieji komisarai, vyriausieji
+komisarai, generalinis komisaras
      14.
 Savivaldybių tarybų nariai
      15.
 Seimo kontrolieriai
- 
- *
-Pastaba : 1 priedėlio 13 punkte išvardinti valstybės tarnautojai bei jų šeimos
-nariai, taip pat viceministrai bei jų šeimos nariai deklaracijas už 1996 metus
-gali užpildyti ir pateikti valstybinei mokesčių inspekcijai iki 1997 m. kovo 20
-d.
  
 Priedėlio
 pakeitimai:
@@ -364,9 +380,8 @@ inspekcijų), prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų,
 valstybės valdymo institucijų vyriausieji buhalteriai (finansininkai) ir
 vyriausiųjų buhalterių (finansininkų) pavaduotojai
      6.
-Ministerijų struktūrinių padalinių (departamentų, valdybų, kanceliarijų,
-skyrių, poskyrių, sektorių, biurų, grupių) vadovai ir padalinių vadovų
-pavaduotojai
+Ministerijų struktūrinių padalinių (departamentų, valdybų, kanceliarijų, skyrių,
+poskyrių, sektorių, biurų, grupių) vadovai ir padalinių vadovų pavaduotojai
      7.
 Lietuvos kariuomenės vadas ir kariuomenės vado pavaduotojai
      8.
