@@ -13,21 +13,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.027489452776"
 
 # Lietuvos Respublikos telekomunikacijų įstatymas
 
-Redagavo: Aušrinė Trapinskienė (2000.04.20)
- 
- 
-Įstatymas paskelbtas: Žin., 1998, Nr.56-1548
- 
+Įstatymas paskelbtas: Žin., 1998, Nr. 56-1548
 Neoficialus įstatymo tekstas
- 
-Pakeitimai:
-1.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1607, 00.04.04, Žin., 2000, Nr.32-892 (00.04.19)
-TELEKOMUNIKACIJŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
- 
-**** Pabaiga ****
- 
  
 LIETUVOS RESPUBLIKOS
 TELEKOMUNIKACIJŲ
@@ -65,9 +52,9 @@ telekomunikacijų paslaugų teikėju.
 2. Atgalinio ryšio paslauga -
 tarptautinio telefono ryšio paslauga, kai telefono pokalbį inicijavęs abonentas
 papildomų techninių priemonių dėka tampa abonentu, kuriam skambinama.
-3. Aparatūra ir įrenginiai - radioelektroninė
-aparatūra ir elektros įrenginiai, kurie veikdami spinduliuoja arba gali
-spinduliuoti radijo bangas.
+3. Aparatūra ir įrenginiai -
+radioelektroninė aparatūra ir elektros įrenginiai, kurie veikdami spinduliuoja
+arba gali spinduliuoti radijo bangas.
 4. Asmenys - fiziniai ir
 juridiniai asmenys, taip pat juridinio asmens teisių neturinčios įmonės.
 5. Balso telefonijos paslauga -
@@ -97,8 +84,8 @@ optinėmis ar kitomis elektromagnetinėmis sistemomis, išskyrus balso telefonij
 paslaugas.
 11. Galiniai įrenginiai -
 telefono, telegrafo, faksimilinio ryšio aparatai, modemai ir kiti
-telekomunikacijų paslaugų vartotojų įrenginiai, skirti prijungti prie atitinkamo
-telekomunikacijų tinklo galinių taškų.
+telekomunikacijų paslaugų vartotojų įrenginiai, skirti prijungti prie
+atitinkamo telekomunikacijų tinklo galinių taškų.
 12. Nacionalinė radijo dažnių
 paskirstymo lentelė - oficialus dokumentas, kuriame nustatytas radijo
 dažnių paskirstymas radijo ryšio, gamybos, mokslo, medicinos bei kitiems
@@ -114,8 +101,9 @@ signalas - radijo signalas, skirtas pranešti apie pavojų žmogaus gyvybei ar
 turtui.
 16. Radijo įrenginiai - radijo
 signalų siuntimo ar priėmimo įrenginiai.
-17. Radijo bangos - laisvai sklindančios
-erdvėje elektromagnetinės bangos, kurių dažnis - nuo 9 kHz iki 3000 GHz.
+17. Radijo bangos - laisvai
+sklindančios erdvėje elektromagnetinės bangos, kurių dažnis - nuo 9 kHz iki
+3000 GHz.
 18. Radijo dažnio (kanalo) skyrimas
 - Ryšių reguliavimo tarnybos išduodamas leidimas nustatytomis sąlygomis naudoti
 radijo dažnį arba radijo kanalą.
@@ -168,10 +156,10 @@ televizijos priėmimo tinklus.
 fizinės jungtys, atitinkančios jų prieigos techninius reikalavimus, sudarančios
 bendrojo telekomunikacijų tinklo dalį ir būtinos galiniam įrenginiui prijungti
 prie bendrojo telekomunikacijų tinklo bei tuo tinklu palaikyti efektyvų ryšį.
-33. Transliuotojas - Radijo ir televizijos
-komisijos išduotą licenciją turintis asmuo, kuris parengia radijo, televizijos
-programas siųsti ir siunčia arba leidžia jas, užbaigtas ir nepakeistas, siųsti
-trečiajai pusei.
+33. Transliuotojas - Radijo ir
+televizijos komisijos išduotą licenciją turintis asmuo, kuris parengia radijo,
+televizijos programas siųsti ir siunčia arba leidžia jas, užbaigtas ir
+nepakeistas, siųsti trečiajai pusei.
 34. Universaliosios (visuotinės)
 paslaugos - visiems vartotojams teikiamas Vyriausybės nustatytas
 telekomunikacijų paslaugų minimumas.
@@ -183,8 +171,8 @@ VEIKLOS REGULIAVIMO INSTITUCIJOS
  
 3 straipsnis. Telekomunikacijų veiklos
 reguliavimo institucijos
-1. Telekomunikacijas Lietuvos
-Respublikoje valstybės vardu šio įstatymo nustatyta tvarka reguliuoja:
+1. Telekomunikacijas Lietuvos Respublikoje
+valstybės vardu šio įstatymo nustatyta tvarka reguliuoja:
 1) Vyriausybė ar jos įgaliota
 institucija;
 2) Ryšių reguliavimo tarnyba.
@@ -223,23 +211,22 @@ telekomunikacijų operatoriams;
 įstatymų ir kitų teisės aktų nustatytas funkcijas.
  
 5 straipsnis. Ryšių reguliavimo tarnyba
- 
 1. Ryšių
 reguliavimo tarnyba - telekomunikacijų veiklą reguliuojanti ir šio įstatymo
 nuostatas įgyvendinanti savarankiška Vyriausybės įstaiga, veikianti pagal šį
 įstatymą ir kitus Lietuvos Respublikos įstatymus bei savo nuostatus.
 2. Ryšių reguliavimo tarnybos nuostatus
 tvirtina Vyriausybė.
-3. Ryšių reguliavimo tarnyba yra juridinis
-asmuo, turintis antspaudą su valstybės herbu, galintis savo vardu įgyti
-turtinių bei asmeninių neturtinių teisių ir pareigų.
+3. Ryšių reguliavimo tarnyba yra
+juridinis asmuo, turintis antspaudą su valstybės herbu, galintis savo vardu
+įgyti turtinių bei asmeninių neturtinių teisių ir pareigų.
 4. Ryšių reguliavimo tarnybai vadovauja
 direktorius. Direktorių ir šios tarnybos tarybą, kurios nuostatus tvirtina
 Vyriausybė, penkeriems metams skiria ir atleidžia Respublikos Prezidentas
 Ministro Pirmininko teikimu.
- 
 Straipsnio pakeitimai:
-Nr. VIII-1607, 00.04.04, Žin., 2000, Nr.32-892 (00.04.19)
+Nr. VIII-1607, 00.04.04, Žin., 2000,
+Nr.32-892 (00.04.19)
  
 6 straipsnis. Ryšių reguliavimo tarnybos
 uždaviniai, funkcijos ir teisės
@@ -256,8 +243,8 @@ diskriminuojami - turėtų vienodas galimybes naudotis bendraisiais
 telekomunikacijų tinklais bei telekomunikacijų paslaugomis;
 4) užtikrinti, kad bendrųjų
 telekomunikacijų tinklų operatoriai ir telekomunikacijų paslaugų teikėjai
-vykdytų įpareigojimus, kurie gali būti nustatyti krašto apsaugos, nacionalinio
-saugumo bei viešosios tvarkos palaikymo interesais, taip pat ypatingų situacijų
+vykdytų įpareigojimus, kurie gali būti nustatyti krašto apsaugos, nacionalinio saugumo
+bei viešosios tvarkos palaikymo interesais, taip pat ypatingų situacijų
 atvejais;
 5) užtikrinti aparatūros ir įrenginių
 elektromagnetinį suderinamumą.
@@ -286,9 +273,9 @@ kainų ir tarifų aukščiausią ribą šiame įstatyme nustatytais atvejais;
 tarptautinėse organizacijose Radijo ryšio reglamento klausimais, rengia radijo
 ryšio plėtros planus ir radijo ryšį reglamentuojančius norminius teisės aktus,
 atlieka tarptautinį radijo dažnių koordinavimą;
-8) rengia ir teikia Vyriausybei
-tvirtinti Nacionalinę radijo dažnių paskirstymo lentelę, nustato ir įgyvendina
-radijo dažnių naudojimo Lietuvoje strategiją;
+8) rengia ir teikia Vyriausybei tvirtinti
+Nacionalinę radijo dažnių paskirstymo lentelę, nustato ir įgyvendina radijo
+dažnių naudojimo Lietuvoje strategiją;
 9) kartu su Radijo ir televizijos
 komisija rengia ir teikia Vyriausybei tvirtinti radijo dažnių skyrimo radijo ir
 televizijos programoms transliuoti ir siųsti strategiją ir strateginį planą
@@ -302,7 +289,10 @@ sutartį;
 12) nagrinėja ginčus tarp
 telekomunikacijų operatorių dėl telekomunikacijų tinklų sujungimo bei vamzdynų,
 kabelių kanalų, kolektorių, bokštų ir stiebų bendro naudojimo;
-13) atlieka kitas Lietuvos Respublikos
+13) Vyriausybės nustatyta tvarka kaupia ir saugo
+informaciją apie tai, kokius techninių įvykių duomenis fiksuoja ir saugo
+telekomunikacijų operatoriai ir telekomunikacijų paslaugų teikėjai;
+14) atlieka kitas Lietuvos Respublikos
 įstatymų ir kitų teisės aktų nustatytas funkcijas.
 3. Ryšių reguliavimo tarnyba turi teisę:
 1) kontroliuoti šio įstatymo,
@@ -323,6 +313,9 @@ pavestų uždavinių vykdymu susijusią informaciją, įskaitant ir finansinę;
 patariamąsias komisijas bei tvirtinti jų darbo reglamentus; 
 9) turėti ir kitų teisės aktų nustatytų
 teisių.
+Straipsnio pakeitimai:
+Nr. IX-1220,
+2002-12-05, Žin., 2002, Nr. 123-5513 (2002-12-24)
  
 7 straipsnis. Ryšių reguliavimo tarnybos
 inspektorius
@@ -378,8 +371,8 @@ licencijuojama ar nelicencijuojama.
 2. Licencijuojama tik tokia
 telekomunikacinė veikla, kuriai vykdyti yra riboti ištekliai - radijo dažniai
 ir telefono ryšio numeriai.
-3. Licencijuojamos telekomunikacinės veiklos
-sąrašą ir telekomunikacinės veiklos licencijavimo sąlygas bei taisykles
+3. Licencijuojamos telekomunikacinės
+veiklos sąrašą ir telekomunikacinės veiklos licencijavimo sąlygas bei taisykles
 tvirtina Vyriausybė.
 4. Licencija verstis telekomunikacine
 veikla išduodama konkurso būdu Vyriausybės nustatyta tvarka. Konkurso sąlygose
@@ -392,21 +385,23 @@ vamzdynais, kabelių kanalais, kolektoriais, bokštais, stiebais ir kitais
 sustabdytas ar panaikintas Vyriausybės patvirtintose telekomunikacinės veiklos
 licencijavimo taisyklėse nustatytais atvejais.
 7. Jeigu telekomunikacinė veikla
-neįtraukta į licencijuojamos telekomunikacinės veiklos sąrašą, ja verstis išduodamas
-leidimas. Šis leidimas išduodamas kiekvienam juridiniam asmeniui ar neturinčiai
-juridinio asmens statuso įmonei, jeigu jie yra pateikę nelicencijuojamos
-telekomunikacinės veiklos leidimų išdavimo taisyklėse nurodytus dokumentus.
-Leidimas išduodamas ne vėliau kaip per mėnesį nuo dokumentų pateikimo Ryšių
-reguliavimo tarnybai dienos. Leidimo turėtojas privalo laikytis leidimų
-išdavimo sąlygose keliamų reikalavimų, nustatytų techninių standartų ir
-paslaugų teikimo standartų.
+neįtraukta į licencijuojamos telekomunikacinės veiklos sąrašą, ja verstis
+išduodamas leidimas. Šis leidimas išduodamas kiekvienam juridiniam asmeniui ar
+neturinčiai juridinio asmens statuso įmonei, jeigu jie yra pateikę
+nelicencijuojamos telekomunikacinės veiklos leidimų išdavimo taisyklėse
+nurodytus dokumentus. Leidimas išduodamas ne vėliau kaip per mėnesį nuo
+dokumentų pateikimo Ryšių reguliavimo tarnybai dienos. Leidimo turėtojas
+privalo laikytis leidimų išdavimo sąlygose keliamų reikalavimų, nustatytų
+techninių standartų ir paslaugų teikimo standartų.
 8. Už licencijų ir leidimų verstis
 nelicencijuojama telekomunikacine veikla išdavimą mokamas žyminis mokestis
 Lietuvos Respublikos žyminio mokesčio įstatymo nustatyta tvarka.
  
 10
 straipsnis. Licencijos radijo ir televizijos programų transliuotojams ir
-siuntimo paslaugų teikėjams
+siuntimo 
+paslaugų
+teikėjams
 1. Licenciją teikti siuntimo paslaugas
 išduoda Vyriausybė ar jos įgaliota institucija. 
 2. Transliuotojas, kuris naudojasi
@@ -437,10 +432,10 @@ nustato šiais atvejais:
 telekomunikacijų paslaugos rūšies teikėjas;
 2) kai telekomunikacijų paslaugos
 teikėjas yra dominuojantis konkrečios telekomunikacijų paslaugos rinkoje;
-3) kai vienintelis ar dominuojantis
-telekomunikacijų operatorius arba telekomunikacijų paslaugų teikėjas kryžmiškai
-subsidijuoja kitą jam priklausantį tinklą, kuriuo teikiamos konkurenciniu
-pagrindu siūlomos paslaugos.
+3) kai vienintelis ar dominuojantis telekomunikacijų
+operatorius arba telekomunikacijų paslaugų teikėjas kryžmiškai subsidijuoja
+kitą jam priklausantį tinklą, kuriuo teikiamos konkurenciniu pagrindu siūlomos
+paslaugos.
 4. Vykdant tarptautinius įsipareigojimus
 telekomunikacinių paslaugų kainų tarifų klausimais Vyriausybės priimti
 nutarimai yra privalomi visiems telekomunikacijų paslaugų teikėjams.
@@ -452,12 +447,12 @@ operatoriai privalo šio įstatymo numatytais atvejais patenkinti kitų turinči
 licencijas telekomunikacijų operatorių prašymus sujungti bendruosius bei vidaus
 telekomunikacijų tinklus. Telekomunikacijų tinklai turi būti sujungti ne vėliau
 kaip per 3 mėnesius nuo prašymo gavimo dienos. 
-2. Tais atvejais, kai atsisakoma
-sujungti telekomunikacijų tinklus arba telekomunikacijų operatoriai negali
-susitarti, kad tai būtų padaryta per tris mėnesius nuo pirmojo prašymo gavimo,
-kiekviena iš ginčo šalių turi teisę kreiptis į Ryšių reguliavimo tarnybą, kad
-ši išspręstų ginčą. Ryšių reguliavimo tarnyba išnagrinėja ginčą per du mėnesius
-ir priima sprendimą. Jeigu ginčo šalys nesutinka su Ryšių reguliavimo tarnybos
+2. Tais atvejais, kai atsisakoma sujungti
+telekomunikacijų tinklus arba telekomunikacijų operatoriai negali susitarti,
+kad tai būtų padaryta per tris mėnesius nuo pirmojo prašymo gavimo, kiekviena
+iš ginčo šalių turi teisę kreiptis į Ryšių reguliavimo tarnybą, kad ši
+išspręstų ginčą. Ryšių reguliavimo tarnyba išnagrinėja ginčą per du mėnesius ir
+priima sprendimą. Jeigu ginčo šalys nesutinka su Ryšių reguliavimo tarnybos
 sprendimu, jos turi teisę kreiptis į teismą įstatymų nustatyta tvarka.
 3. Negalima atsisakyti sujungti
 telekomunikacijų tinklus, jei prašymas yra pagrįstas ir techniniu požiūriu gali
@@ -517,25 +512,34 @@ kam priklauso, išskyrus Lietuvos Respublikos įstatymų numatytus atvejus.
 operatorius tvarko teikiamų telekomunikacijų paslaugų išlaidų apskaitą pagal
 atskiras jų rūšis, tarp jų ir tų telekomunikacijų paslaugų, kurių kainos nėra
 reguliuojamos.
+11. Telekomunikacijų operatoriai ir
+telekomunikacijų paslaugų teikėjai privalo pateikti Ryšių reguliavimo tarnybai
+informaciją apie tai, kokius techninių įvykių duomenis apie telekomunikacijas
+jie fiksuoja bei saugo, ir šių duomenų saugojimo terminą.
+Straipsnio pakeitimai:
+Nr. IX-1220,
+2002-12-05, Žin., 2002, Nr. 123-5513 (2002-12-24)
  
 15 straipsnis. Numerių išteklių valdymas
 ir numerių skyrimas
 1. Numerių ištekliai valdomi ir numeriai
 skiriami vadovaujantis Vyriausybės patvirtintu Nacionaliniu telefono ryšio
 numeracijos planu.
-2. Nacionalinis telefono ryšio
-numeracijos planas reglamentuoja bendrųjų telekomunikacijų tinklų, skirtų
-teikti balso telefonijos paslaugas, naudojamus telefono ryšio numerius. 
+2. Nacionalinis telefono ryšio numeracijos
+planas reglamentuoja bendrųjų telekomunikacijų tinklų, skirtų teikti balso
+telefonijos paslaugas, naudojamus telefono ryšio numerius. 
  
 KETVIRTASIS
 SKIRSNIS
 TELEKOMUNIKACIJŲ
-TINKLŲ STATYBA, PRIEŽIŪRA , APSAUGA IR TELEKOMUNIKACIJŲ ĮRENGINIŲ BENDRAS
-NAUDOJIMAS
+TINKLŲ STATYBA, PRIEŽIŪRA , APSAUGA IR 
+TELEKOMUNIKACIJŲ
+ĮRENGINIŲ BENDRAS NAUDOJIMAS
  
 16
 straipsnis. Telekomunikacijų linijų ir telekomunikacijų įrenginių statyba ir
-bendras naudojimas
+bendras 
+naudojimas
 1. Telekomunikacijų operatoriai turi
 teisę tiesti telekomunikacijų linijas ir statyti telekomunikacijų įrenginius
 žemėje, kuriai teisės aktų yra nustatytas servitutas, nekeisdami žemės
@@ -562,9 +566,9 @@ patalpose, o jų nuomojamose gyvenamosiose patalpose - tik gavę patalpų
 savininko leidimą. Jeigu norima telekomunikacinę aparatūrą įrengti
 daugiabučiuose (trijų ir daugiau butų) gyvenamuosiuose namuose, reikalingas
 visų gyvenamųjų ir negyvenamųjų patalpų, esančių to paties aukšto laiptinėje,
-vienu aukštu aukščiau ir žemiau, taip pat turinčių su tomis patalpomis bendras
-sienas, savininkų bei neprivatizuotų butų nuomininkų notariškai patvirtintas
-raštiškas sutikimas.
+vienu aukštu aukščiau ir žemiau, taip pat turinčių su tomis patalpomis bendras sienas,
+savininkų bei neprivatizuotų butų nuomininkų notariškai patvirtintas raštiškas
+sutikimas.
 6. Jeigu telekomunikacijų operatorius
 negali įgyvendinti teisės tiesti naujas papildomas telekomunikacijų linijas ir
 įrengti telekomunikacijų įrenginius arba jei tokios teisės įgyvendinimo
@@ -579,8 +583,8 @@ vamzdynais, kanalais, kolektoriais, bokštais, stiebais ir kitais įrenginiais
 tvarka ir sąlygos nustatomos sutartimi. Telekomunikacijų operatorius, kuriam
 priklauso šioje dalyje minimi telekomunikacijų įrenginiai, šio įstatymo
 nustatytais atvejais negali atsisakyti sudaryti su kitu telekomunikacijų
-operatoriumi tokią sutartį, reikalauti ją pakeisti, nutraukti, jei yra vykdomi sutartyje
-nustatyti įpareigojimai.
+operatoriumi tokią sutartį, reikalauti ją pakeisti, nutraukti, jei yra vykdomi
+sutartyje nustatyti įpareigojimai.
 8. Telekomunikacijų operatorius šalių
 susitarimu moka atitinkamą užmokestį kitam operatoriui, kurio vamzdynais,
 kanalais, kolektoriais, bokštais, stiebais ir kitais įrenginiais naudojasi.
@@ -594,20 +598,21 @@ Ryšių reguliavimo tarnybos sprendimu, jos turi teisę kreiptis į teismą įst
 nustatyta tvarka.
  
 17
-straipsnis. Telekomunikacijų linijų tiesimas ir priežiūra kelio juostoje ar jo
-sanitarinėje zonoje
+straipsnis. Telekomunikacijų linijų tiesimas ir priežiūra kelio juostoje ar jo 
+sanitarinėje
+zonoje
 1. Telekomunikacijų tinklų, linijų,
 įrenginių statybą, telekomunikacijų tinklų apsaugą, jų bendrą naudojimą,
 telekomunikacijų linijų tiesimą ir priežiūrą kelio juostoje ar jo sanitarinėje
 zonoje reglamentuoja Telekomunikacijų tinklų statybos, naudojimo ir apsaugos
 taisyklės, Lietuvos Respublikos kelių įstatymas ir kiti teisės aktai.
 2. Asmenys, nustatyta tvarka gavę
-leidimą tiesti bendrųjų telekomunikacijų tinklų linijas ir suderinę su
-valstybės ar savivaldybių institucijomis, turi teisę nemokamai naudotis
-valstybės ir savivaldybių kelių juostomis, aikštėmis, vamzdynais, vandenimis ir
-jų pakrantėmis, tiltais, viadukais, tuneliais, kitais statiniais.
-3. Telekomunikacijų operatorius,
-tiesdamas naujas ar prižiūrėdamas esamas telekomunikacijų linijas, įrengtas kelio
+leidimą tiesti bendrųjų telekomunikacijų tinklų linijas ir suderinę su valstybės
+ar savivaldybių institucijomis, turi teisę nemokamai naudotis valstybės ir
+savivaldybių kelių juostomis, aikštėmis, vamzdynais, vandenimis ir jų
+pakrantėmis, tiltais, viadukais, tuneliais, kitais statiniais.
+3. Telekomunikacijų operatorius, tiesdamas
+naujas ar prižiūrėdamas esamas telekomunikacijų linijas, įrengtas kelio
 juostoje ar jo sanitarinėje zonoje, privalo vadovautis Lietuvos Respublikos
 kelių įstatymu ir kitais teisės aktais. 
 4. Norint tiesti ar rekonstruoti
@@ -649,10 +654,10 @@ televizijos programoms transliuoti ir siųsti yra skiriami pagal strateginį
 planą. 
 3. Informacija apie sukoordinuotos
 veiklos radijo ir televizijos stočių dažnius, pagal strateginį planą numatytus
-transliuotojams, kartu su telekomunikacijų tinklų pagrindinėmis veiklos sąlygomis
-pateikiama Radijo ir televizijos komisijai. Leidimus statyti ir eksploatuoti
-transliacijos siųstuvus Ryšių reguliavimo tarnyba išduoda asmenims, turintiems
-Radijo ir televizijos komisijos išduotą licenciją.
+transliuotojams, kartu su telekomunikacijų tinklų pagrindinėmis veiklos
+sąlygomis pateikiama Radijo ir televizijos komisijai. Leidimus statyti ir
+eksploatuoti transliacijos siųstuvus Ryšių reguliavimo tarnyba išduoda
+asmenims, turintiems Radijo ir televizijos komisijos išduotą licenciją.
 4. Sukoordinuotos veiklos radijo ir
 televizijos stočių dažnius (kanalus), pagal strateginį planą numatytus siuntimo
 paslaugas teikiantiems telekomunikacijų operatoriams,  telekomunikacijų tinklų,
@@ -674,9 +679,9 @@ savininko arba naudotojo pareigos
 naudotojas privalo leisti Ryšių reguliavimo tarnybos inspektoriams Lietuvos
 Respublikos įstatymų nustatyta tvarka patikrinti aparatūrą ir įrenginius jų
 naudojimo vietoje. 
-2. Šio įstatymo 27 straipsnyje numatytais
-atvejais aparatūros ir įrenginių savininkas ar naudotojas privalo vykdyti
-Vyriausybės ar jos įgaliotos institucijos nurodymus.
+2. Šio įstatymo 27 straipsnyje
+numatytais atvejais aparatūros ir įrenginių savininkas ar naudotojas privalo
+vykdyti Vyriausybės ar jos įgaliotos institucijos nurodymus.
  
 22 straipsnis. Radijo ryšio slaptumas
 1. Draudžiama atskleisti, platinti ar
@@ -729,8 +734,8 @@ Aparatūra ir įrenginiai, galiniai
 nustatyta tvarka.
  
 ŠEŠTASIS SKIRSNIS
-Telekomunikacijų TINKLAIS PERDUODAMOS 
-INFORMACIJOS SAUGUMAS
+Telekomunikacijų TINKLAIS PERDUODAMOS INFORMACIJOS
+SAUGUMAS
  
 26 straipsnis. Telekomunikacijų tinklais
 perduodamų pranešimų slaptumas
@@ -741,36 +746,70 @@ turinį arba sudaryti sąlygas sužinoti informaciją, su kuria telekomunikacij�
 numatytus atvejus.
 2. Informacija apie telekomunikacijų
 paslaugų vartotojus, reikalinga mokesčiams už telekomunikacijų paslaugas
-nustatyti, turi būti minimali ir negali būti atskleista kitiems asmenims, išskyrus
-pačius paslaugų vartotojus ar jų įgaliotus asmenis arba įstatymų numatytus
-atvejus.
+nustatyti, turi būti minimali ir negali būti atskleista kitiems asmenims,
+išskyrus pačius paslaugų vartotojus ar jų įgaliotus asmenis arba įstatymų
+numatytus atvejus.
 3. Telekomunikacijų operatoriai ir
-telekomunikacijų paslaugų teikėjai, šio straipsnio 1 ir 2 dalyse nurodytais
-veiksmais padarę žalą kitiems asmenims, ją atlygina Lietuvos Respublikos
-įstatymų nustatyta tvarka.
+telekomunikacijų paslaugų teikėjai Lietuvos Respublikos asmens duomenų teisinės
+apsaugos įstatymo nustatyta tvarka privalo pranešti Valstybinei duomenų
+apsaugos inspekcijai apie asmens duomenų tvarkymą automatiniu būdu, taip pat
+visų jų fiksuojamų ir saugomų su viešųjų telekomunikacijų paslaugų abonentu ir
+faktiniu telekomunikacijų paslaugų naudotoju susijusių telekomunikacijų srauto
+duomenų sąrašą.
+4. Telekomunikacijų operatoriai ir telekomunikacijų
+paslaugų teikėjai, šio straipsnio 1 ir 2 dalyse nurodytais veiksmais padarę
+žalą kitiems asmenims, ją atlygina Lietuvos Respublikos įstatymų nustatyta
+tvarka.
+Straipsnio pakeitimai:
+Nr. IX-1220,
+2002-12-05, Žin., 2002, Nr. 123-5513 (2002-12-24)
  
 27 straipsnis. Ypatingos aplinkybės
-1. Nenugalimos jėgos ir ekstremalių
-situacijų atvejais Vyriausybė ar jos įgaliota institucija įstatymų bei kitų
-teisės aktų nustatyta tvarka gali duoti telekomunikacijų operatoriams ir
-telekomunikacijų paslaugų teikėjams privalomus nurodymus apsaugoti ir palaikyti
-gyvybiškai svarbius telekomunikacijų tinklus, apribojant, jei reikia,
-visuomenės galimybę naudotis telekomunikacijų tinklais.
-2. Telekomunikacijų operatoriai privalo užtikrinti
-techninę galimybę operatyvinės veiklos subjektams Lietuvos Respublikos įstatymų
-nustatyta tvarka kontroliuoti telekomunikacijų tinklais perduodamos
-informacijos turinį, taip pat teikti šiems subjektams visą turimą informaciją
-apie abonentus. Už tai apmokama Lietuvos Respublikos Vyriausybės nustatyta
-tvarka.
-3. Telekomunikacijų tinklais perduodamos
-informacijos kontrolę vykdo Lietuvos Respublikos Vyriausybės įgaliota
-institucija - operatyvinės veiklos subjektas. Kiti Lietuvos Respublikos
-operatyvinės veiklos subjektai jų darbui reikalingą telekomunikacijų tinklais
-perduodamą informaciją gauna iš šios institucijos Lietuvos Respublikos
-Vyriausybės nustatyta tvarka. Telekomunikacijų tinklais perduodamos
-informacijos turinio kontrolei reikalinga programinė ir techninė įranga perkama
-ir informacijos kontrolę vykdančios institucijos padalinio veikla finansuojama
-iš valstybės biudžeto.
+1.
+Nenugalimos jėgos ir ekstremalių situacijų atvejais Vyriausybė ar jos įgaliota
+institucija įstatymų bei kitų teisės aktų nustatyta tvarka gali duoti
+telekomunikacijų operatoriams ir telekomunikacijų paslaugų teikėjams privalomus
+nurodymus apsaugoti ir palaikyti gyvybiškai svarbius telekomunikacijų tinklus,
+prireikus apribojant visuomenės galimybę naudotis telekomunikacijų tinklais.
+2.
+Telekomunikacijų operatoriai ir telekomunikacijų paslaugų teikėjai turi teisę
+fiksuoti telekomunikacijų įvykius ir jų dalyvius tik tiek, kiek yra būtina
+telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų ūkinei veiklai
+užtikrinti. Telekomunikacijų operatoriai ir telekomunikacijų paslaugų teikėjai
+privalo įstatymų nustatyta tvarka turimą ir nusikaltimų užkardymui, tyrimui,
+nustatymui reikalingą informaciją pateikti operatyvinės veiklos subjektams,
+kvotos ir tardymo organams. Šią informaciją telekomunikacijų operatoriai teikia
+operatyvinės veiklos subjektų pagrindinėms institucijoms pagal jų paklausimus
+elektroniniu būdu ir nedelsdami.
+3.
+Kai yra motyvuotas teismo sprendimas, telekomunikacijų operatoriai ir
+telekomunikacijų paslaugų teikėjai privalo sudaryti techninę galimybę
+operatyvinės veiklos subjektams, kvotos ir tardymo organams įstatymų nustatyta
+tvarka kontroliuoti telekomunikacijų tinklais perduodamos informacijos turinį.
+Tam reikalingos įrangos įsigijimas ir palaikymas atliekamas valstybės lėšomis.
+4.
+Telekomunikacijų operatoriai ir telekomunikacijų paslaugų teikėjai apie savo
+tinkle ar savo ir kitų telekomunikacijų operatorių sujungimo taškuose numatomus
+daryti pakeitimus, galinčius turėti įtakos įrangos, nustatytos šio straipsnio 3
+dalyje, veikimui, privalo Vyriausybės įgaliotai institucijai – operatyvinės
+veiklos subjektui – ir Ryšių reguliavimo tarnybai pranešti, kai tik apie tai sužino.
+5.
+Vyriausybės įgaliota institucija – operatyvinės veiklos subjektas – organizuoja
+ir Vyriausybės nustatyta tvarka sudaro technines galimybes kiekvienam
+operatyvinės veiklos subjektui savarankiškai vykdyti telekomunikacijų tinklais
+perduodamos informacijos turinio kontrolę.
+6. Telekomunikacijų operatoriaus tinklui
+siunčiamos techninės komandos pradėti ar nutraukti pasiklausymą ar kitą
+telekomunikacijų tinklais perduodamos informacijos kontrolę saugomos taip, kad
+siųstų ir gautų komandų duomenų negalėtų pakeisti komandą siuntęs operatyvinės
+veiklos subjektas ar komandą gavęs telekomunikacijų operatorius.
+Straipsnio pakeitimai:
+Nr. VIII-1827, 00.07.11, Žin., 2000,
+Nr.61-1830 (00.07.26)
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2002-09-19, Žin., 2002, Nr. 93-4000 (2002-09-25)
+Nr. IX-1220,
+2002-12-05, Žin., 2002, Nr. 123-5513 (2002-12-24)
  
 28
 straipsnis. Atsakomybė už šio įstatymo ir kitų norminių aktų pažeidimus
@@ -829,10 +868,71 @@ priimtą įstatymą.
  
  
  
- 
 
  
-RESPUBLIKOS
-PREZIDENTAS                                                                 VALDAS
-ADAMKUS
+RESPUBLIKOS PREZIDENTAS
+                                        VALDAS ADAMKUS
+____________
+ 
+Pakeitimai:
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1607, 00.04.04, Žin., 2000,
+Nr.32-892 (00.04.19)
+TELEKOMUNIKACIJŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1827, 00.07.11, Žin., 2000,
+Nr.61-1830 (00.07.26)
+TELEKOMUNIKACIJŲ ĮSTATYMO 27 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Telekomunikacijų
+operatoriams, kurie gavo licencijas iki šio įstatymo įsigaliojimo,
+telekomunikacijų tinklais perduodamos informacijos turiniui kontroliuoti
+skirtos įrangos įsigijimą finansuoja Vyriausybė. Telekomunikacijų operatoriai
+šią įrangą atnaujina ir palaiko jos technines galimybes savo lėšomis.
+Visa telekomunikacijų
+įranga, pradedama eksploatuoti įsigaliojus šiam įstatymui, privalo atitikti šio
+įstatymo 1 straipsnio reikalavimus.
+ 
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1220,
+2002-12-05, Žin., 2002, Nr. 123-5513 (2002-12-24)
+TELEKOMUNIKACIJŲ
+ĮSTATYMO 6, 14, 26, 27 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+ 
+*** Pabaiga ***
+ 
+ 
+Konstitucinio Teismo nutarimai:
+ 
+1.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2002-09-19,
+Žin., 2002, Nr. 93-4000 (2002-09-25)
+DĖL
+LIETUVOS RESPUBLIKOS TELEKOMUNIKACIJŲ ĮSTATYMO (2000 M. LIEPOS 11 D. REDAKCIJA)
+27 STRAIPSNIO 2 DALIES, LIETUVOS RESPUBLIKOS TELEKOMUNIKACIJŲ ĮSTATYMO 27
+STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO 1 DALIES, LIETUVOS RESPUBLIKOS
+TELEKOMUNIKACIJŲ ĮSTATYMO (2002 M. LIEPOS 5 D. REDAKCIJA) 57 STRAIPSNIO 4
+DALIES, LIETUVOS RESPUBLIKOS OPERATYVINĖS VEIKLOS ĮSTATYMO (1997 M. GEGUŽĖS 22
+D. REDAKCIJA) 7 STRAIPSNIO 3 DALIES 4 PUNKTO, LIETUVOS RESPUBLIKOS OPERATYVINĖS
+VEIKLOS ĮSTATYMO (2002 M. BIRŽELIO 20 D. REDAKCIJA) 7 STRAIPSNIO 3 DALIES 6
+PUNKTO, LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO KODEKSO 48 STRAIPSNIO 1 DALIES
+(1961 M. BIRŽELIO 26 D. REDAKCIJA) IR 75 STRAIPSNIO 1 DALIES (1975 M. SAUSIO 29
+D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+***
+Pabaiga ***
+ 
+ 
+Redagavo:
+Aušrinė Trapinskienė (2003-01-17)
+                 
+autrap@lrs.lt
 
