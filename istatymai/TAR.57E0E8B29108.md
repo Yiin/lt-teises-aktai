@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
+Suvestinė redakcija nuo 2003-07-23 iki 2004-02-20
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
+ 
 LIETUVOS RESPUBLIKOS
 STRATEGINĘ REIKŠMĘ NACIONALINIAM SAUGUMUI TURINČIŲ ĮMONIŲ IR ĮRENGINIŲ BEI KITŲ NACIONALINIAM SAUGUMUI UŽTIKRINTI SVARBIŲ ĮMONIŲ
 Į S T A T Y M A S
@@ -198,6 +202,22 @@ Vilnius
 
 
 5. Po pertvarkymo ar reorganizavimo veiksiančiose šio straipsnio 1 dalyje nurodytose įmonėse turi išlikti valstybės sprendžiamoji galia.
+
+
+
+
+
+
+6. Likviduojant (taip pat dėl bankroto) šio straipsnio 1 dalyje nurodytas įmones, išskyrus šio straipsnio 1 dalies 7 punkte nurodytą įmonę, joms priklausantis nekilnojamasis ir įkeistas turtas, taip pat šio straipsnio 2 dalyje nurodytas turtas gali būti parduodamas ar kitaip perleidžiamas tik Lietuvos Respublikos valstybės institucijoms, valstybės įmonėms arba įmonėms, kurių kapitalo dalį sudaro privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis kapitalas, tačiau valstybei ar savivaldybei priklauso daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų.
+
+
+
+
+7. Likviduojant (taip pat dėl bankroto) šio straipsnio 1 dalies 7 punkte nurodytą įmonę, jai priklausantis nekilnojamasis ir įkeistas turtas parduodamas ar kitaip perleidžiamas tik Lietuvos Respublikos valstybės institucijoms ar valstybės įmonėms. 
+
+
+Papildyta citata:
+Nr. IX-1677, 2003-07-01, Žin., 2003, Nr. 73-3354 (2003-07-23), i. k. 1031010ISTA0IX-1677
  
 
 
@@ -262,3 +282,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 ______________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1677, 2003-07-01, Žin., 2003, Nr. 73-3354 (2003-07-23), i. k. 1031010ISTA0IX-1677
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 3 straipsnio papildymo įstatymas
