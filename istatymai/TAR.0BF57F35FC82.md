@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BF57F35FC82"
 
 # Lietuvos Respublikos pramoninio dizaino įstatymas
 
+Suvestinė redakcija nuo 2000-05-24 iki 2000-12-31
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 61-1531, i. k. 0951010ISTA00I-1006
+ 
 LIETUVOS RESPUBLIKOS PRAMONINIO DIZAINO ĮSTATYMAS
  
 1995 m. liepos 4 d. Nr. I-1006
@@ -67,11 +71,10 @@ Pramoninis dizainas turi individualias savybes, jeigu informuotas vartotojas ats
 
 5 straipsnis. Pramoninio dizaino savininko teisės
 
-Be pramoninio dizaino savininko leidimo kitas asmuo neturi teisės atlikti šių veiksmų:
-
-1) gaminti gaminį, kuris ar jo dalis yra įregistruotas kaip pramoninis dizainas;
-
-2) siūlyti įvežti ar eksportuoti bei kaupti rinkai gaminius ar jų dalis, įregistruotus kaip pramoninis dizainas.
+Įregistruoto pramoninio dizaino savininkas turi išimtinę teisę leisti arba drausti kitiems asmenims, neturintiems jo leidimo, gaminti, siūlyti parduoti, parduoti, išleisti į rinką, importuoti ar eksportuoti, kaupti ir naudoti gaminius ar jų dalis, kurie yra įregistruoto pramoninio dizaino kopija ar iš esmės yra kopija, kai tokie veiksmai vykdomi komerciniais tikslais.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1676, 2000-05-11, Žin., 2000, Nr. 42-1196 (2000-05-24), i. k. 1001010ISTAIII-1676
+ 
 
 Pramoninio dizaino savininko teisių pažeidimu nelaikoma šio straipsnio pirmojoje dalyje išvardyti veiksmai, jeigu:
 
@@ -332,4 +335,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1676, 2000-05-11, Žin., 2000, Nr. 42-1196 (2000-05-24), i. k. 1001010ISTAIII-1676
+Lietuvos Respublikos pramoninio dizaino įstatymo 5 straipsnio pakeitimo įstatymas
 
