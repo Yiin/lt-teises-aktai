@@ -13,53 +13,67 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.075D49C59279"
 
 # Lietuvos Respublikos žemės reformos įstatymas
 
-Redaguota: 1995 12 20
+Redagavo: Ramunė Lūžaitė (1996
 
 
 
 
-     Redaguota: 1995
-12 20
+Redagavo: Ramunė
+Lūžaitė (1996.11.20)
  
-     1. Nr.1-2138;
+Pakeitimai:
+ 
+ 1. Nr.1-2138;
 1991.12.20.; Žin., 1992, Nr.1-11;
-     2. Nr.1-2214;
+ 2. Nr.1-2214;
 1992.01.16.; Žin., 1992, Nr.3-45;
-     3. Nr.1-2565;
+ 3. Nr.1-2565;
 1992.05.07.; Žin., 1992, Nr.15-404;
-     4. Nr.1-230;
+ 4. Nr.1-230;
 1993.07.15.; Žin., 1993, Nr.32-727;
-     5. Nr.1-447;
+ 5. Nr.1-447;
 1994.04.26.; Žin., 1994, Nr.34-621;
-     6. Nr.1-476;
+ 6. Nr.1-476;
 1994.05.24.; Žin., 1994, Nr.43-777.
-     7. Lietuvos
+ 7.
+ Lietuvos
 Respublikos 1995 06 13
-        Įstatymas
-Nr.1-940
-        Žin., 1995,
+ Įstatymas Nr.1-940
+ Žin., 1995,
 Nr.53-1295
-        DĖL LIETUVOS
+ DĖL LIETUVOS
 RESPUBLIKOS ŽEMĖS REFORMOS
-        ĮSTATYMO
-PAKEITIMO IR PAPILDYMO
-    8. Lietuvos
-Respublikos 1995 11 30
-        Įstatymas
-Nr.1-1112
-        Žin., 1995,
-Nr.103-2301
-        DĖL LIETUVOS
-RESPUBLIKOS ŽEMĖS 
-        REFORMOS
-ĮSTATYMO PAPILDYMO
+ ĮSTATYMO PAKEITIMO
+IR PAPILDYMO
  
+ 8.
+ Lietuvos
+Respublikos 1995 11 30
+ Įstatymas Nr.1-1112
+ Žin., 1995,
+Nr.103-2301
+ DĖL LIETUVOS
+RESPUBLIKOS ŽEMĖS 
+ REFORMOS ĮSTATYMO
+PAPILDYMO
+ 
+ 9.
+ Parlamentas,
+Įstatymas
+ Nr. I-1606,
+96.11.05, Žin., 1996, Nr.109-2475 (96.11.13)
+ LIETUVOS
+RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO 10 STRAIPSNIO 
+ PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
+ 
+ *** Pabaiga ***
  
                      
 LIETUVOS RESPUBLIKOS
  
-                    ŽEMĖS
-REFORMOS ĮSTATYMAS
+                   
+ŽEMĖS REFORMOS ĮSTATYMAS
  
  
                 I
@@ -89,16 +103,14 @@ suformuoti efektyviam ūkininkavimui pritaikytas
 žemės  ūkio  
 paskirties   žemėnaudas;   sudaryti   teisines   ir
 organizacines 
-prielaidas   disponuoti   privačia   žeme   rinkos
+prielaidas   disponuoti   privačia   žeme   rinkos
 ekonomikos
 sąlygomis.
  
-         
-Pakeitimai: 
-        1.Nr.1-230; 
-1993.07.15.;
-          Žin., 
-1993, Nr.32-727;
+Straipsnio
+pakeitimai: 
+Nr.1-230; 
+1993.07.15.; Žin.,  1993, Nr.32-727;
  
  
     
@@ -114,12 +126,12 @@ fondas.
  
      1.   Žemės 
 reforma  kaimo  vietovėje  vykdoma  pagal  žemės
-reformos žemėtvarkos 
-projektus,  vadovaujantis  šiuo  ir  kitais
+reformos
+žemėtvarkos  projektus,  vadovaujantis  šiuo  ir  kitais
 žemės  santykius 
 reguliuojančiais  įstatymais,  atsižvelgiant  į
-pageidaujančių
-įsigyti  bei naudoti  žemę  fizinių  ir  juridinių
+pageidaujančių įsigyti 
+bei naudoti  žemę  fizinių  ir  juridinių
 asmenų interesus 
 bei būtinumą  suformuoti ekonomiškai efektyvias
 ūkines struktūras.
@@ -147,12 +159,10 @@ priežiūrą   ir  apsaugą  reglamentuoja  Lietuvos
 Respublikos žemės
 įstatymas ir kiti teisiniai aktai.
  
-         
-Pakeitimai: 
-        1.Nr.1-230; 
-1993.07.15.;  
-          Žin., 
-1993, Nr.32-727;
+Straipsnio
+pakeitimai:
+Nr.1-230; 
+1993.07.15.; Žin.,  1993, Nr.32-727;
  
  
     
@@ -161,8 +171,8 @@ Pakeitimai:
      Lietuvos 
 Respublikoje  žemė  yra  privatinė  ir  valstybinė
 nuosavybė.
-     Privatinės
-nuosavybės  žemę sudaro  piliečių  įsigyta  žemė,
+     Privatinės nuosavybės 
+žemę sudaro  piliečių  įsigyta  žemė,
 įskaitant šioje
 žemėje augantį mišką arba joje esančius vandenis.
     Valstybei 
@@ -180,23 +190,16 @@ valstybei,  taip pat  (bendrosios nuosavybės  teise) -
 keliems fiziniams
 asmenims arba fiziniams asmenims ir valstybei.
  
-         
-Pakeitimai: 
-         
-1.Nr.1-230;  1993.07.15.;
-            Žin., 
-1993, Nr.32-727;
-          2.Lietuvos
-Respublikos 1995 06 13
-           
-Įstatymas Nr.1-94.
-            Žin.,
-1995, Nr.53-1295
+Straipsnio
+pakeitimai:
+Nr.1-230; 
+1993.07.15.; Žin.,  1993, Nr.32-727;
+Nr.1-94; 1995 06 13
+; Žin., 1995, Nr.53-1295
  
  
                          
 II skyrius
- 
  
                       
 Privati žemė
@@ -302,36 +305,20 @@ tikslumo,   
 valstybei     arba    žemės    (miško)    savininkui
 nekompensuojama.
  
-         
-Pakeitimai: 
-         
-1.Nr.1-2138;  1991.12.20.; 
-            Žin., 
-1992, Nr.1-11;  
-         
-2.Nr.1-2214;   1992.01.16.;  
-            Žin., 
-1992,  Nr.3-45;  
-         
-3.Nr.1-230; 1993.07.15.;
-            Žin., 
-1993, Nr.32-727; 
-         
-4.Nr.1-447; 1994.04.26.; 
-            Žin.,
-1994, Nr.34-621.
-          5.
-Lietuvos Respublikos 1995 06 13
-           
-Įstatymas Nr.1-94.
-            Žin.,
-1995, Nr.53-1295
-          6.
-Lietuvos Respublikos 1995 11 30
-           
-Įstatymas Nr.1-1112
-            Žin.,
-1995, Nr.103-2301
+Straipsnio
+pakeitimai: 
+Nr.1-2138; 
+1991.12.20.; Žin.,  1992, Nr.1-11;
+Nr.1-2214;  
+1992.01.16.; Žin.,  1992,  Nr.3-45;
+Nr.1-230; 1993.07.15.;
+Žin.,  1993, Nr.32-727; 
+Nr.1-447;
+1994.04.26.; Žin., 1994, Nr.34-621.
+Nr.1-94; 1995 06 13
+; Žin., 1995, Nr.53-1295
+Nr.1-1112 ; 1995 11
+30; Žin., 1995, Nr.103-2301
  
  
     
@@ -345,8 +332,7 @@ sąlygas nustato 
 Lietuvos   Respublikos įstatymas   "Dėl piliečių
 nuosavybės teisių  
 į   išlikusį  nekilnojamąjį  turtą  atstatymo
-tvarkos  ir
-sąlygų".
+tvarkos  ir sąlygų".
  
  
     
@@ -411,26 +397,16 @@ valstybinės žemės ir miško kainą bei mokėjimo
 tvarką nustato
 Lietuvos Respublikos Vyriausybė.
  
-          Pakeitimai:
-
-         
-1.Nr.1-2214;  1992.01.16.; 
-            Žin., 
-1992, Nr.3-45; 
-         
-2.Nr.1-2565;  1992.05.07.;
-            Žin., 
-1992,  Nr.15-404;  
-         
-3.Nr.1-230; 1993.07.15.; 
-            Žin.,
-1993, Nr.32-727;
-          4.
-Lietuvos Respublikos 1995 06 13
-           
-Įstatymas Nr.1-94.
-            Žin.,
-1995, Nr.53-1295
+Straipsnio
+pakeitimai: 
+Nr.1-2214; 
+1992.01.16.; Žin.,  1992, Nr.3-45; 
+Nr.1-2565; 
+1992.05.07.; Žin.,  1992,  Nr.15-404;
+Nr.1-230;
+1993.07.15.; Žin., 1993, Nr.32-727;
+Nr.1-94; 1995 06 13;
+Žin., 1995, Nr.53-1295
  
  
     
@@ -481,17 +457,17 @@ produkciją 
 gaminančių  įmonių  savininkams  šių  įmonių  veiklai
 parduodamo žemės
 sklypo dydis nustatomas:
-     įmonių rejestre 
-įregistruotoms įmonėms  -  pagal  faktiškai
+     įmonių
+rejestre  įregistruotoms įmonėms  -  pagal  faktiškai
 įmonių veiklai
 reikalingą žemės plotą;
      steigiamoms
-įmonėms  - pagal  detaliuose planuose nustatytas
+įmonėms  - pagal  detaliuose planuose nustatytas
 žemės sklypų ribas.
      4. Atskirai 
 sodybai (namų  valdai) parduodama  žemė, užimta
-statiniais, daugiamečiais 
-sodiniais, kitais  sodybos želdiniais,
+statiniais,
+daugiamečiais  sodiniais, kitais  sodybos želdiniais,
 kiemas  ir  sodybos 
 ribose  pastoviai  daržui  naudojamos  žemės
 sklypas.  Kaip  
@@ -499,7 +475,7 @@ taisyklė,  sodybai   parduodamas  žemės   plotas
 faktiškai yra
 sodybos užimamose ribose.
      5.Miestuose,
-išskyrus  Kuršių   nerijos  nacionalinį  parką,
+išskyrus  Kuršių   nerijos  nacionalinį  parką,
 privačių namų 
 valdoms parduodami faktiško valdos dydžio sklypai,
 bet  ne   didesni 
@@ -514,8 +490,8 @@ padidinta parduodant
 visą faktiškai  naudojamą namų  valdos žemės
 sklypą namo 
 savininkui, jeigu  šio žemės sklypo  arba jo  dalies
-pagal  nustatyta  tvarka  
-patvirtintus   ir   savivaldybės  mero
+pagal  nustatyta 
+tvarka   patvirtintus   ir   savivaldybės  mero
 (valdybos) 
 suderintus teritorijų planavimo dokumentus nenumatoma
 panaudoti  miesto 
@@ -534,8 +510,8 @@ savivaldos institucija.
 bendrijų  nariams  ir  asmenims,  norintiems
 steigti sodus, 
 parduodamas žemės  sklypas nustatomas  pagal sodo
-išplanavimo
-projektą, bet ne didesnis kaip 0,12 ha.
+išplanavimo projektą,
+bet ne didesnis kaip 0,12 ha.
      7. Nauji  
 žemės sklypai vienbučių ir daugiabučių gyvenamųjų
 namų  statybai  
@@ -544,99 +520,94 @@ nustatyto  dydžio  
 pagal  patvirtintus   teritorinio   planavimo
 dokumentus.
  
-         
-Pakeitimai: 
-         
-1.Nr.1-2214;  1992.01.16.; 
-            Žin., 
-1992, Nr.3- 45; 
-         
-2.Nr.1-2565;  1992.05.07.;  
-            Žin., 
-1992,  Nr.15-404;  
-         
-3.Nr.1-230; 1993.07.15.; 
-            Žin.,
-1993, Nr.32-727;
-          4.
-Lietuvos Respublikos 1995 06 13
-           
-Įstatymas Nr.1-94.
-            Žin.,
-1995, Nr.53-1295
-          5.Lietuvos
-Respublikos 1995 11 30
-            Įstatymas
-Nr.1-1112
-            Žin.,
-1995, Nr.103-2301
+Straipsnio pakeitimai:
+
+Nr.1-2214; 
+1992.01.16.; Žin.,  1992, Nr.3- 45; 
+Nr.1-2565; 
+1992.05.07.; Žin.,  1992,  Nr.15-404;  
+Nr.1-230;
+1993.07.15.; Žin., 1993, Nr.32-727;
+Nr.1-94; 1995 06 13;
+Žin., 1995, Nr.53-1295
+Nr.1-1112; 1995 11
+30; Žin., 1995, Nr.103-2301
  
  
  
-    
-10 straipsnis. Pretendentų įsigyti žemės ūkio
+  
+  10 straipsnis. Pretendentų įsigyti žemės ūkio
                     
 paskirties žemę eilė
  
-     1.  Vykdant  
-žemės  reformą,  žemės  ūkio  paskirties  žemė
-įsigyjama  pagal  
-suprojektuotas   žemėnaudas   laikantis   šios
+     1.  Vykdant 
+žemės reformą,  žemės  ūkio   paskirties   žemė
+įsigyjama  pagal   
+suprojektuotas  žemėnaudas   laikantis   šios
 pretendentų įsigyti
 žemę eilės:
      1) asmenys,
-turintys teisę įsigyti žemę asmeniniam ūkiui;
-     2) kaime 
-gyvenantys asmenys, susigrąžinantys toje vietovėje
-esančią žemę natūra;
-     3)  asmenys,  
-kuriems  žemė   buvo  leista  naudotis  pagal
-Valstiečio ūkio 
-įstatymą, tačiau  šios žemės  suteikimas  nebuvo
-nustatytu laiku 
-įformintas, taip  pat kaimo vietovėje gyvenantys
-asmenys, kurių
-turėtoji žemė buvo suteikta kitiems asmenims pagal
+turintys teisę  įsigyti  žemę asmeniniam  ūkiui;
+     2)   kaime  
+gyvenantys   asmenys,   susigrąžinantys    toje
+vietovėje esančią
+žemę natūra;
+     3)  asmenys, 
+kuriems   žemė  buvo   leista  naudotis  pagal
 Valstiečio ūkio
-įstatymą;
+įstatymą,  tačiau šios  žemės  suteikimas  nebuvo
+nustatytu   laiku  
+įformintas,   taip    pat   kaimo   vietovėje
+gyvenantys asmenys,
+kurių turėtoji  žemė  buvo  suteikta  kitiems
+asmenims pagal
+Valstiečio ūkio įstatymą;
      4) kiti
 asmenys, susigrąžinantys žemę natūra;
-     5) vietos 
-gyventojai, susigrąžinantys  ekvivalentine natūra
-toje buvusioje žemės
-ūkio įmonėje ir toje apylinkėje turėtą žemę;
-     6) kaime 
-gyvenantys politiniai  kaliniai ir tremtiniai arba
-jų vaikai,  susigrąžinantys
-žemę  toje  apylinkėje  ekvivalentine
-natūra.  Jeigu  
-šie  asmenys   gyvena  mieste   ar  miesto  tipo
-gyvenvietėje, tai 
-jų  prašymu  jiems  gali  būti  sugrąžinta  to
-regiono kaimo 
-vietovėje tik  dalis (ne  daugiau 2  ha kiekvienam
-pretendentui)  
-turėtos   žemės,   už   likusią   dalį   išmokant
-kompensaciją;
-     7) vietos 
-gyventojai, susigrąžinantys  ekvivalentine natūra
-kitose to  rajono
-apylinkėse ar to rajono teritorijoje esančiuose
-miestuose  ir  
-miesto  tipo   gyvenvietėse  turėtą   žemės  ūkio
-paskirties žemę;
-     8) vietos 
-gyventojai, susigrąžinantys  ekvivalentine natūra
-kituose rajonuose ir
-kitų rajonų miestuose turėtą žemę;
-     9) vietos 
+     5)   vietos  
+gyventojai,   susigrąžinantys    ekvivalentine
+natūra  buvusios
+apylinkės  teritorijoje  turėtą  žemę, taip  pat
+asmenys, 
+susigrąžinantys  ekvivalentine  natūra  arba  perkantys
+jų nuomojamą ar
+laisvą valstybinę žemę  ūkininko  ūkiui  steigti,
+kai   ši  žemė  
+pagal  Žemės  ūkio   ministerijos   patvirtintus
+normatyvus 
+reikalinga  įsigytų  nuosavybėn  buvusių  žemės  ūkio
+įmonių gamybiniams
+pastatams eksploatuoti;
+     6)  kaime 
+gyvenantys  politiniai  kaliniai   ir  tremtiniai
+arba    jų   
+vaikai,    susigrąžinantys    buvusios    apylinkės
+teritorijoje turėtą
+žemę ekvivalentine  natūra. Kai  šie  asmenys
+gyvena   mieste,  
+jų   prašymu  jiems   gali   būti   sugrąžinta
+apskrities, kurioje
+jie gyvena, kaimo  vietovėje  tik  dalis  (ne
+daugiau kaip 2 ha
+kiekvienam  pretendentui)  turėtos  žemės, o už
+likusią  dalį 
+išmokama   kompensacija,   jeigu   įstatyme   "Dėl
+piliečių 
+nuosavybės  teisių  į  išlikusį   nekilnojamąjį   turtą
+atstatymo tvarkos ir
+sąlygų" nenustatyta kitaip;
+     7)   kiti   
+vietos   gyventojai,    susigrąžinantys    žemę
+ekvivalentine
+natūra;
+     8)  vietos
 gyventojai, perkantys  valstybinę  žemę  ūkininko
 ūkiui steigti ar
 bendrai žemės ūkio veiklai;
-     10)  kiti  
-piliečiai,  susigrąžinantys  žemę  ekvivalentine
+     9)  kiti  
+piliečiai,  susigrąžinantys   žemę  ekvivalentine
 natūra;
-     11) kiti
+     10) kiti
 piliečiai, perkantys valstybinę žemę.
      2.  Jeigu  tą 
 patį  žemės  plotą  pretenduoja  susigrąžinti
@@ -665,16 +636,15 @@ valstybinių  miškų sklypus, kurių vietos gyventojai
 nepretenduoja
 susigrąžinti natūra arba ekvivalentine natūra.
  
-         
-Pakeitimai: 
-         
-1.Nr.1-230;  1993.07.15.; 
-            Žin., 
-1993, Nr.32-727;
+Straipsnio
+pakeitimai: 
+Nr.1-230; 
+1993.07.15.; Žin.,  1993, Nr.32-727;
+Nr. I-1606,
+96.11.05, Žin., 1996, Nr.109-2475 (96.11.13)
  
  
-   
-11 straipsnis. Disponavimas privatizuota žeme ir mišku
+  11 straipsnis. Disponavimas privatizuota žeme ir mišku
                   
 ir jų naudojimo apribojimai
  
@@ -685,27 +655,19 @@ Lietuvos Respublikos  žemės įstatymas, Miškų
 įstatymas ir Saugomų
 teritorijų įstatymas.
  
-        Pakeitimai: 
-        1.Nr.2565; 
-1992.05.07.; 
-          Žin., 
-1992,  Nr.15- 404; 
-        2.Nr.1-230;
-1993.07.15.; 
-          Žin.,
-1993, Nr.32-727;
-        3.Lietuvos
-Respublikos 1995 06 13
-          Įstatymas
-Nr.1-94.
-          Žin.,
-1995, Nr.53-1295
+Straipsnio
+pakeitimai: 
+Nr.2565; 
+1992.05.07.; Žin.,  1992,  Nr.15- 404; 
+Nr.1-230;
+1993.07.15.; Žin., 1993, Nr.32-727;
+Nr.1-94; 1995 06 13;
+Žin., 1995, Nr.53-1295
  
  
     
 12 straipsnis. Riboto ūkinio naudojimo žemės
-                   
-privatizavimas
+                    privatizavimas
  
      1. Saugomų 
 vietovių žemė,  kurioje ūkinė  veikla  ribojama,
@@ -734,14 +696,10 @@ taikoma   Lietuvos  Respublikos  įstatymų  nustatyta
 materialinė
 atsakomybė.
  
-         
-Pakeitimai:
-          1.
-Lietuvos Respublikos 1995 06 13
-           
-Įstatymas Nr.1-94.
-            Žin.,
-1995, Nr.53-1295
+Straipsnio
+pakeitimai:
+Nr.1-94.; 1995 06
+13; Žin., 1995, Nr.53-1295
  
  
                           
@@ -793,14 +751,14 @@ miško parkams, miško
 genetiniams rezervatams, miško medelynams ir
 sėklininkystės
 plantacijoms.
-     Taip pat  neprivatizuojami
-miškai,  priskirti Baltijos jūros
+     Taip pat 
+neprivatizuojami miškai,  priskirti Baltijos jūros
 ir Kuršių  marių
 apsauginėms  juostoms  iki  7  km  pločio,  ypač
 vertingiems
 rekreaciniams  prie vandens  telkinių ir  gyvenviečių
-esantiems 
-miškams,   miškų  mokslinio   tyrimo  ir   mokymo  bei
+esantiems  miškams,  
+miškų  mokslinio   tyrimo  ir   mokymo  bei
 selekcinės 
 sėklininkystės   objektams,  kurių  sąrašus  tvirtina
 Lietuvos
@@ -842,53 +800,34 @@ taip pat  šioms įstaigoms priskirta žemės ūkio
 paskirties žemė ar
 miškas;
      11)  
-buvusios   bažnyčių   (religinių   konfesijų   ir   jų
+buvusios   bažnyčių   (religinių   konfesijų   ir   jų
 institucijų)  žemės 
-valdos,  kurios  nėra  priskirtos  valstybės
+valdos,  kurios  nėra  priskirtos  valstybės
 išperkamai žemei.
      12) žemė, 
 nustatyta  tvarka  priskirta Lietuvos Respublikos
 pajūrio juostai.
  
-        Pakeitimai: 
-       
-1.Nr.1-2565;  1992.05.07.; 
-          Žin.,
-1992, Nr.15- 404; 
-        2.Nr.1-230;
-1993.07.15.; 
-          Žin., 1993,
-Nr.32-727,
-        3.Lietuvos
-Respublikos 1995 06 13
-          Įstatymas
-Nr.1-94.
-          Žin.,
-1995, Nr.53-1295
-       4. Lietuvos
-Respublikos 1995 11 30
-          Įstatymas
-Nr.1-1112
-          Žin.,
-1995, Nr.103-2301
- 
- 
+Straipsnio
+pakeitimai: 
+Nr.1-2565; 
+1992.05.07.; Žin., 1992, Nr.15- 404; 
+Nr.1-230; 1993.07.15.;
+Žin., 1993, Nr.32-727,
+Nr.1-94; 1995 06 13;
+Žin., 1995, Nr.53-1295
+Nr.1-1112; 1995 11
+30; Žin., 1995, Nr.103-2301
  
     
-14 straipsnis. Neteko galios.
+14 straipsnis. (Panaikintas)
  
-        Pakeitimai: 
-        1.Nr.1-230; 
-1993.07.15.; 
-          Žin., 
-1993, Nr.32-727;
-        2.Lietuvos
-Respublikos 1995 06 13
-          Įstatymas
-Nr.1-94.
-          Žin.,
-1995, Nr.53-1295
- 
+Straipsnio
+pakeitimai: 
+Nr.1-230; 
+1993.07.15.; Žin.,  1993, Nr.32-727;
+Nr.1-94; 1995 06 13;
+Žin., 1995, Nr.53-1295
  
     
 15 straipsnis. Valstybinės žemės suteikimas naudojimui
@@ -900,31 +839,31 @@ kaimo vietovėje,  žemės reformos  metu  pateikia
 paraiškas agrarinės
 reformos tarnyboms, nurodydami šiuo
 metu jiems 
-nustatyta  tvarka  suteiktos  naudotis  žemės  plotą,
+nustatyta  tvarka  suteiktos  naudotis  žemės  plotą,
 pageidaujamos 
 žemės   plotą,  ūkinės   veiklos  būdą,  naudojimo
 terminą, sklypo 
 vietą ir,  prireikus  žemės  poreikio  techninį-
 ekonominį
 pagrindimą.
-     2.  Pagal  
-fizinių  ir   juridinių  asmenų   prašymus   bei
+     2.  Pagal   fizinių 
+ir   juridinių  asmenų   prašymus   bei
 valstybinio žemės 
-kadastro  medžiagą,  atsižvelgiant  į  turimos
+kadastro  medžiagą,  atsižvelgiant  į  turimos
 valstybinio žemės 
 fondo  žemės  plotą  ir  žemės  naudotojų  bei
 valstybės 
 interesus,   žemės   reformos   žemėtvarkos   projekte
 numatomas žemės 
 ploto paskirstymas  naujiems žemės  naudotojams.
-Patvirtinus žemės  reformos
-žemėtvarkos  projektą, žemės  sklypai
+Patvirtinus žemės 
+reformos žemėtvarkos  projektą, žemės  sklypai
 Lietuvos 
 Respublikos  Vyriausybės  nustatyta  tvarka  suteikiami
 naudotis arba
 išnuomojami.
      3.  Kuriant  
-žemės  ūkio  bendroves  ir  kitas  įmones,  jų
+žemės  ūkio  bendroves  ir  kitas  įmones,  jų
 steigėjai iki 
 steigimo sutarties  sudarymo turi  gauti 
 agrarinės reformos 
@@ -935,7 +874,8 @@ plotą ir jo vietą.
 suteikiamų  naudotis  žemės  sklypų  dydis  ir
 išsidėstymas turi 
 užtikrinti galimybę  juos racionaliai tvarkyti
-ir efektyviai ūkininkauti.
+ir efektyviai
+ūkininkauti.
      5. Miestuose  
 valstybinė žemė
 parduodama, 
@@ -946,19 +886,12 @@ Vyriausybės
 nustatyta  tvarka, vadovaujantis  statybos projektais
 ir schemomis.
  
-         
-Pakeitimai: 
-         
-1.Nr.1-230;  1993.07.15.; 
-            Žin., 
-1993, Nr.32- 727;
-          2.
-Lietuvos Respublikos 1995 06 13
-           
-Įstatymas Nr.1-94.
-            Žin.,
-1995, Nr.53-1295
- 
+Straipsnio
+pakeitimai: 
+Nr.1-230; 
+1993.07.15.; Žin.,  1993, Nr.32- 727;
+Nr.1-94; 1995 06 13;
+Žin., 1995, Nr.53-1295
  
   
 16 straipsnis. Gyventojų asmeninio ūkio žemė
@@ -979,8 +912,8 @@ teisę  rinktis  
 sklypo  vietą  turi  toje  vietovėje  gyvenantys
 asmenys,  kurių  
 žemę  išperka   valstybė,  remdamasi   Lietuvos
-Respublikos įstatymo 
-"Dėl piliečių  nuosavybės teisių į išlikusį
+Respublikos
+įstatymo  "Dėl piliečių  nuosavybės teisių į išlikusį
 nekilnojamąjį turtą 
 atstatymo tvarkos  ir sąlygų"  12 straipsnio
 pirmosios dalies 3
@@ -1020,8 +953,8 @@ kitų pretendentų naudai, asmeninio ūkio žemė
 neparduodama.
      4.  Asmeniniam 
 ūkiui  skirtą  žemę  turi  teisę  nusipirkti
-lengvatinėmis 
-sąlygomis   iš  šeimos  tik  vienas  asmuo,  kuris
+lengvatinėmis  sąlygomis  
+iš  šeimos  tik  vienas  asmuo,  kuris
 Lietuvos
 Respublikos  Aukščiausiosios Tarybos nutarimo "Dėl kaimo
 gyventojų sodybinių
@@ -1078,8 +1011,8 @@ asmeninio ūkio žemės.
 apylinkių  tarybos   pagal  anksčiau   galiojusius
 įstatymus 
 nepriėmė   sprendimo  suteikti   asmeninio  ūkio  žemę
-piliečiams,  turėjusiems  
-teisę  šią   žemę  gauti,   apskrities
+piliečiams, 
+turėjusiems   teisę  šią   žemę  gauti,   apskrities
 valdytojas, 
 remdamasis   agrarinės  reformos  tarnybos  pateikta
 medžiaga,  gali  
@@ -1101,27 +1034,16 @@ asmenims,  kuriems jis  buvo suteiktas  pažeidžiant
 galiojančius
 įstatymus.
  
-     Pakeitimai:
-     1.Nr.1-230;
-1993.07.15.; 
-       Žin., 1993,
-Nr.32-727;
-     2.Nr.1-476;
-1994.05.24; 
-       Žin., 1994,
-Nr.43-777.
-     3.Lietuvos
-Respublikos 1995 06 13
-       Įstatymas
-Nr.1-94.
-       Žin., 1995,
-Nr.53-1295
-    6. Lietuvos
-Respublikos 1995 11 30
-       Įstatymas
-Nr.1-1112
-       Žin., 1995,
-Nr.103-2301
+Straipsnio
+pakeitimai:
+Nr.1-230;
+1993.07.15.; Žin., 1993, Nr.32-727;
+Nr.1-476;
+1994.05.24; Žin., 1994, Nr.43-777.
+Nr.1-94; 1995 06 13;
+Žin., 1995, Nr.53-1295
+Nr.1-1112; 1995 11
+30; Žin., 1995, Nr.103-2301
  
  
                     
@@ -1171,27 +1093,18 @@ geodezijos  tarnyba prie Žemės ūkio ministerijos.
 Žemės   reformą  
 vykdantys   pareigūnai,  pažeidę  šio  įstatymo 
 reikalavimus, 
-traukiami   atsakomybėn   įstatymų   ir   Lietuvos
+traukiami   atsakomybėn   įstatymų   ir   Lietuvos
 Respublikos
 Vyriausybės nustatyta tvarka.
  
-         
-Pakeitimai:
-     1.Nr.1-230;
-1993.07.15.; 
-       Žin., 1993,
-Nr.32-727;
-     2.Nr.1-476;
-1994.05.24.; 
-       Žin., 1994,
-Nr.43-777.
-     3.Lietuvos
-Respublikos 1995 06 13
-       Įstatymas
-Nr.1-94.
-       Žin., 1995,
-Nr.53-1295
- 
+Straipsnio
+pakeitimai:
+Nr.1-230;
+1993.07.15.; Žin., 1993, Nr.32-727;
+Nr.1-476;
+1994.05.24.; Žin., 1994, Nr.43-777.
+Nr. 1-94; 1995 06
+13; Žin., 1995, Nr.53-1295
  
     
 18 straipsnis. Prašymų žemei gauti pateikimo  ir
@@ -1215,22 +1128,17 @@ išanalizuoja prašymus žemei gauti, parengia  sprendimų  dėl
 jų tenkinimo
 projektus ir apie tai raštu informuoja pretendentus.
  
-         
-Pakeitimai:
-          1.
-Lietuvos Respublikos 1995 06 13
-          Įstatymas
-Nr.1-94.
-          Žin.,
-1995, Nr.53-1295
+Straipsnio
+pakeitimai:
+Nr.1-94; 1995 06 13;
+Žin., 1995, Nr.53-1295
  
  
     
 19 straipsnis. Skundų dėl žemės reformos vykdytojų
                    
 sprendimų pateikimo ir nagrinėjimo
-                   
-tvarka
+                    tvarka
  
     1. Fiziniai  
 ir  juridiniai   asmenys   agrarinės   reformos
@@ -1252,21 +1160,14 @@ neteisėtai įsigyta
 ie Lietuvos
 Respublikos nustatyta tvarka, netaikant senaties terminų.
  
-     Pakeitimai:
-     1. Nr.1-230;
-1993.07.15.; 
-        Žin., 1993,
-Nr.32-727;
-     2. Nr.1-476;
-1994.05.24.; 
-        Žin., 1994,
-Nr.43-777.
-     3. Lietuvos
-Respublikos 1995 06 13
-        Įstatymas
-Nr.1-94.
-        Žin., 1995,
-Nr.53-1295
+Straipsnio
+pakeitimai:
+Nr.1-230;
+1993.07.15.; Žin., 1993, Nr.32-727;
+Nr.1-476;
+1994.05.24.; Žin., 1994, Nr.43-777.
+Nr.1-94; 1995 06 13;
+Žin., 1995, Nr.53-1295
  
  
                    
@@ -1279,7 +1180,8 @@ V skyrius
  
     
 20 straipsnis. Žemės reformos žemėtvarkos projektų
-                    sudarymas
+                   
+sudarymas
  
      1.Žemė
 reformos  žemėtvarkos projektas rengiamas teritorijai,
@@ -1298,17 +1200,12 @@ atliekami  valstybės  lėšomis.  Jų  parengimo
 grafikus tvirtina
 Žemės ūkio ministerija.
  
-     Pakeitimai:
-     1.Nr.1-476;
-1994.05.24.; 
-       Žin., 1994,
-Nr.43-777.
-     2.Lietuvos
-Respublikos 1995 06 13
-       Įstatymas
-Nr.1-94.
-       Žin., 1995,
-Nr.53-1295
+Straipsnio
+pakeitimai:
+Nr.1-476;
+1994.05.24.; Žin., 1994, Nr.43-777.
+Nr.1-94; 1995 06 13;
+Žin., 1995, Nr.53-1295
  
  
     
@@ -1332,13 +1229,10 @@ Suderintus   kompleksinius  žemės  reformos  žemėtvarkos
 projektus tvirtina
 apskrities valdytojas.
  
-         Pakeitimai:
-          1.
-Lietuvos Respublikos 1995 06 13
-            Įstatymas
-Nr.1-94.
-            Žin.,
-1995, Nr.53-1295
+Straipsnio
+pakeitimai:
+Nr.1-94; 1995 06 13;
+Žin., 1995, Nr.53-1295
  
  
      
