@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.882C66C0A611"
 
 # Lietuvos Respublikos vietos savivaldybės Tarybos deputato statuso įstatymas
 
+Suvestinė redakcija nuo 1991-03-14 iki 1991-11-04
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 8-0; Žin. 1990, Nr.17-441, i. k. 0901010ISTA000I-242
+ 
+ 
 LIETUVOS RESPUBLIKOS
 VIETOS SAVIVALDYBĖS TARYBOS DEPUTATO STATUSO
 ĮSTATYMAS
@@ -178,6 +183,10 @@ Deputato veiklos laikas Tarybos renkamojoje pareigybėje įskaitomas į visų r�
 Savivaldybės Tarybos deputatas jos teritorijoje negali būti patrauktas baudžiamojon atsakomybėn, suimtas, jam negali būti taikomos administracinės nuobaudos teismine tvarka be šios Tarybos sutikimo, išskyrus atvejus, kai jis užtinkamas darant nusikaltimą.
 
 Tarybos sprendimą neleisti patraukti deputato baudžiamojon atsakomybėn gali panaikinti atitinkama aukštesnioji Taryba, perduodama Tarybai klausimą apsvarstyti pakartotinai. Jeigu Taryba vėl patvirtins pradinį sprendimą, klausimą iš esmės gali spręsti Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas Respublikos prokuroro teikimu.
+
+Jeigu Taryba per vieną mėnesį nesprendė klausimo dėl leidimo patraukti deputatą baudžiamojon atsakomybėn, jį gali spręsti Lietuvos Respublikos Aukščiausioji Taryba. 
+Papildyta straipsnio dalimi:
+Nr. I-1144, 1991-03-14, Lietuvos aidas, 1991, Nr. 96-0 (1991-03-20); Žin., 1991, Nr. 9-250 (1991-03-31), i. k. 0911010ISTA00I-1144
  
 
 23 straipsnis. Savivaldybės Tarybos deputato pažymėjimas ir deputato ženklas
@@ -195,4 +204,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1990 m. gegužės 29 d. 
 Nr. I-242
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-1144, 1991-03-14, Lietuvos aidas, 1991, Nr. 96-0 (1991-03-20); Žin., 1991, Nr. 9-250 (1991-03-31), i. k. 0911010ISTA00I-1144
+Dėl Lietuvos Respublikos vietos savivaldybės Tarybos deputato statuso įstatymo 22 straipsnio papildymo
 
