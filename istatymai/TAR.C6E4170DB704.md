@@ -13,14 +13,18 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 1998-06-05 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2010-02-28
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
+ 
+Nauja redakcija nuo 2005-01-01:
+Nr. IX-2361, 2004-07-13, Žin. 2004, Nr. 115-4284 (2004-07-24), i. k. 1041010ISTA0IX-2361
  
 LIETUVOS RESPUBLIKOS PACIENTŲ TEISIŲ IR ŽALOS SVEIKATAI ATLYGINIMO Į S T A T Y M A S
  
 1996 m. spalio 3 d. Nr. I-1562
 Vilnius
+ 
  
 
 
@@ -29,45 +33,10 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Šiame įstatyme vartojamos sąvokos
+1 straipsnis. Įstatymo paskirtis
 
 
-1. Pacientas – asmuo, kuris naudojasi asmens sveikatos priežiūra nepriklausomai nuo to, ar jis sveikas, ar ligonis.
-
-
-
-
-2. Nepilnametis – pacientas iki 18 metų.
-
-
-
-
-3. Paciento atstovas – įstatyminis atstovas (tėvai, įtėviai, globėjai, rūpintojai) ar atstovas pagal pavedimą. Atstovą pagal pavedimą pasirenka pacientas. Atstovo pagal pavedimą įgaliojimų įforminimas turi būti atliktas Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-
-
-
-4. Sveikatos priežiūros įstaigos – įstaigos, įmonės, organizacijos, Lietuvos Respublikos teisės aktų nustatyta tvarka akredituotos teikti asmens sveikatos priežiūros paslaugas nepriklausomai nuo jų nuosavybės formos.
-
-
-
-
-5. Gydytojas – asmuo, pagal Lietuvos Respublikos teisės aktus turintis teisę verstis medicinos praktika.
-
-
-
-
-6. Slaugos darbuotojas – asmuo, pagal Lietuvos Respublikos teisės aktus turintis teisę verstis slaugos praktika.
-
-
-
-
-7. Paciento dokumentai – ligos istorija ir kiti dokumentai, kuriuose fiksuojama paciento sveikatos būklė, jam taikomos sveikatos priežiūros rūšys ir metodai.
-
-
-
-
-8. Pacientų sveikatai padarytos žalos įvertinimo komisija (toliau – komisija) – prie Sveikatos apsaugos ministerijos veikianti institucija, kurios tikslas – konstatuoti pacientų sveikatai padarytą žalą ir nustatyti kompensacijos dydį, išmokamą iš Valstybinės ligonių kasos Asmens sveikatos priežiūros įstaigų civilinės atsakomybės už žalą, padarytą pacientams, draudimo fondo. Komisijos formavimą ir veiklą reglamentuoja Sveikatos apsaugos ministerijos patvirtinti nuostatai.
+Šio įstatymo paskirtis – reglamentuoti paciento teisę į kokybišką sveikatos priežiūrą, paciento teisę į sveikatos priežiūros prieinamumą ir priimtinumą, paciento teisę pasirinkti gydytoją, slaugos specialistą ir sveikatos priežiūros įstaigą, paciento teisę į informaciją, paciento teisę rinktis diagnostikos bei gydymo metodikas ir teisę atsisakyti gydymo, paciento teisę nežinoti, paciento teisę į privataus gyvenimo neliečiamumą, paciento teisę skųstis, taip pat paciento teisę į žalos atlyginimą ir šios teisės įgyvendinimo tvarką. Pacientai turi ir kituose teisės aktuose nustatytas teises. Pacientų teises, kai teikiamos jiems sveikatos priežiūros paslaugos pagal asmens sveikatos priežiūros paslaugų sutartis, be šio įstatymo, reglamentuoja Civilinis kodeksas.
  
 
 
@@ -75,16 +44,51 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Įstatymo paskirtis
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Pacientų teisių ir žalos sveikatai atlyginimo įstatymo tikslas – nustatyti pacientų teises ir pacientų sveikatai padarytos žalos įvertinimo bei kompensavimo tvarką, kai žala pacientams padaryta gydytojo ar slaugos darbuotojo teisėtais veiksmais (be jų kaltės).
+1. Pacientas – asmuo, kuris naudojasi sveikatos priežiūros įstaigų teikiamomis paslaugomis, nepaisant to, ar jis sveikas, ar ligonis, ir gaudamas šias paslaugas turi įstatymų nustatytas teises bei pareigas. 
 
 
 
 
-2. Specialiąsias pacientų teises vykdant audinių ir organų transplantaciją, taip pat ir psichikos ligonių teises reglamentuoja šis, kiti Lietuvos Respublikos įstatymai bei teisės aktai.
+2. Nepilnametis pacientas – pacientas iki 18 metų, išskyrus asmenis nuo 16 iki 18 metų, kuriuos teismas pripažino visiškai veiksniais (emancipuotais). 
+
+
+
+
+3. Paciento atstovas – atstovas pagal įstatymą (tėvai, įtėviai, globėjai, rūpintojai) ar atstovas pagal pavedimą. Atstovą pagal pavedimą pasirenka pacientas. Atstovo pagal pavedimą įgaliojimai įforminami Lietuvos Respublikos įstatymų nustatyta tvarka. Jeigu pilnametis pacientas negali būti laikomas gebančiu protingai vertinti savo interesų ir jeigu jam nenustatyta nei rūpyba, nei globa, visos sveikatos priežiūros paslaugų teikėjo pareigos pacientui pagal šį įstatymą vykdomos asmeniui, kurį pacientas yra raštu įgaliojęs veikti savo vardu. Jeigu tokio įgalioto asmens nėra arba jeigu įgaliotas asmuo nesiėmė būtinų veiksmų, pareigos turi būti vykdomos paciento sutuoktiniui ar sugyventiniui (partneriui), išskyrus atvejus, kai jie to atsisako, o jei sutuoktinio ar sugyventinio (partnerio) nėra, pareigos vykdomos paciento tėvui arba vaikui, išskyrus atvejus, kai šie atsisako.
+
+
+
+
+4. Sveikatos priežiūros normos – Sveikatos apsaugos ministerijos nustatyta tvarka pripažintos diagnostikos ir gydymo metodikos bei technologijos, tinkančios daugkartiniam naudojimui. 
+
+
+
+
+5. Kokybiška sveikatos priežiūra – sveikatos priežiūra, teikiama laikantis nustatytų sveikatos priežiūros normų, kitų teisės aktų ir vykdoma asmenų, turinčių medicinos ar kitos atitinkamos praktikos licencijas sveikatos priežiūros įstaigose, turinčiose licenciją teikti sveikatos priežiūros paslaugas ir apdraudusiose savo civilinę atsakomybę už žalą pacientams.
+
+
+
+
+6. Sveikatos priežiūros priimtinumas – valstybės nustatytos sveikatos priežiūros sąlygos, kurių turi laikytis sveikatos priežiūros įstaigos, kad užtikrintų sveikatos priežiūros paslaugų kokybę ir veiksmingumą, sveikatos priežiūros paslaugų atitiktį medicinos mokslo principams bei medicinos etikos reikalavimams, asmens sveikatos priežiūros paslaugų ekonominį, komunikacinį ir organizacinį priimtinumą pacientui ir visuomenei.
+
+
+
+
+7. Sveikatos priežiūros įstaiga:
+
+
+1) įstaiga ar įmonė, šio ir kitų įstatymų bei teisės aktų nustatyta tvarka turinti teisę teikti sveikatos priežiūros paslaugas ir patarnavimus (toliau – paslaugos);
+
+
+
+
+2) įstaigos ar įmonės, kurios verčiasi kita (ne sveikatos priežiūros) veikla, filialas ar padalinys, turintis teisę teikti sveikatos priežiūros paslaugas. 
  
+
+
 
 
 
@@ -98,35 +102,30 @@ PACIENTŲ TEISĖS
  
 
 
-3 straipsnis. Teisė į sveikatos priežiūrą
+3 straipsnis. Teisė į kokybišką sveikatos priežiūrą 
 
 
-1. Sveikatos priežiūros įstaigose pacientų teisių negalima varžyti dėl jų lyties, amžiaus, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų.
-
-
-
-
-2. Pacientams turi būti suteikta kvalifikuota sveikatos priežiūra. Gydytojai ir slaugos darbuotojai turi gerbti pacientų asmens privatumą. Pacientai turi teisę būti gydomi taip, kad į jų diagnozę, gydymą ir slaugą būtų žiūrima pagarbiai.
+1. Kiekvienam pacientui turi būti suteikta kokybiška sveikatos priežiūra. Sveikatos priežiūros įstaigose pacientų teisių negalima varžyti dėl jų lyties, amžiaus, rasės, pilietybės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų, pažiūrų, seksualinės orientacijos, genetinių savybių, neįgalumo ar dėl kokių nors kitų įstatymais nepagrįstų aplinkybių.
 
 
 
 
-3. Jeigu sveikatos priežiūros įstaigose ribotos gydymo galimybės neleidžia visiems pacientams suteikti tuo pačiu metu vienodą gydymą, gydytojo pasirinktas gydymas turi būti mediciniškai pagrįstas ir nediskriminuojantis kitų pacientų.
+2. Kiekvienas pacientas turi teisę į savo garbės ir orumo nežeminančias sąlygas ir sveikatos priežiūros įstaigos personalo pagarbų elgesį teikiant paslaugas pacientui bei jam mirus. Kiekviena intervencija į paciento sveikatą, įskaitant tyrimus, turi būti atliekama laikantis atitinkamų profesinių pareigų ir standartų. 
 
 
 
 
-4. Jeigu pacientų tolesnis buvimas sveikatos priežiūros įstaigoje nėra mediciniškai pagrįstas, prieš išrašant iš sveikatos priežiūros įstaigos į namus ar perkeliant į kitą sveikatos priežiūros įstaigą, pacientui turi būti išsamiai paaiškintas tokio sprendimo pagrįstumas.
+3. Jeigu paciento tolesnis buvimas sveikatos priežiūros įstaigoje nėra mediciniškai pagrįstas, prieš išrašant iš sveikatos priežiūros įstaigos į namus ar siunčiant į kitą sveikatos priežiūros įstaigą, pacientui turi būti išsamiai paaiškintas tokio sprendimo pagrįstumas. Gavęs tokią informaciją, pacientas patvirtina parašu. 
 
 
 
 
-5. Pacientams turi būti suteikiamos mokslu pagrįstos nuskausminančios priemonės, kad jie nekentėtų dėl savo sveikatos sutrikimų.
+4. Pacientams turi būti teikiamos moksliškai pagrįstos nuskausminamosios priemonės, kad jie nekentėtų dėl savo sveikatos sutrikimų.
 
 
 
 
-6. Pacientai turi teisę būti prižiūrimi ir numirti pagarboje.
+5. Paciento kūnas ar jo kūno dalys neturi būti naudojamos komercinei naudai gauti. Kuri nors paciento kūno dalis gali būti pašalinta tik paciento sveikatos priežiūros tikslais. Kitais tikslais pašalinta kūno dalis gali būti laikoma ir naudojama tik teisės aktų nustatyta tvarka ir tik tuo atveju, jei yra gautas paciento sutikimas, prieš tai tinkamai informavus pacientą apie tokio sutikimo pasekmes.
  
 
 
@@ -134,20 +133,15 @@ PACIENTŲ TEISĖS
 
 
 
-4 straipsnis. Teisė į prieinamą sveikatos priežiūrą
+4 straipsnis. Teisė į sveikatos priežiūros prieinamumą
 
 
-1. Paciento teisę gauti nemokamą sveikatos priežiūrą, kompensuojamą iš valstybės ar savivaldybių biudžetų, nustato kiti Lietuvos Respublikos įstatymai ir teisės aktai. Paciento teisę gauti sveikatos priežiūros paslaugas, kompensuojamas iš privalomojo sveikatos draudimo lėšų, nustato Sveikatos draudimo įstatymas.
-
-
-
-
-2. Būtinoji medicinos pagalba pacientui turi būti suteikta neatidėliotinai. Jeigu paciento gyvenamojoje vietovėje greitai suteikti būtinąją medicinos pagalbą nėra galimybių, sveikatos priežiūros įstaigos administracija, gydytojas, į kuriuos kreipiasi pacientas, turi informuoti jį apie priežastis ir laiką, kurį pacientas turės laukti, kol jam bus suteikta būtinoji medicinos pagalba šioje įstaigoje. Jeigu paciento gyvenamojoje vietovėje tokios rūšies medicinos pagalbos nėra galimybių suteikti, sveikatos priežiūros įstaigos, į kurią kreipiasi pacientas, administracija ar gydytojas turi informuoti pacientą, kur jis gali gauti būtinąją medicinos pagalbą. Prireikus sveikatos priežiūros įstaiga savo lėšomis privalo pervežti pacientą į kitą sveikatos priežiūros įstaigą Sveikatos apsaugos ministerijos nustatyta tvarka.
+1. Pacientui sveikatos priežiūra turi būti prieinama. Šios teisės įgyvendinimo sąlygas nustato Lietuvos Respublikos įstatymai ir kiti teisės aktai. 
 
 
 
 
-3. Teisę į kitos rūšies sveikatos priežiūrą nustato kiti Lietuvos Respublikos įstatymai ir teisės aktai.
+2. Būtinoji medicinos pagalba pacientui turi būti suteikta neatidėliotinai. Gelbstint asmenų, kuriems dėl nelaimingo atsitikimo, avarijų, ekologinių ir gaivalinių nelaimių arba dėl ūmaus susirgimo yra būtina medicinos pagalba, gyvybę, pirmąją medicinos pagalbą privalo nedelsdami suteikti sveikatos priežiūros, farmacijos specialistai ir kiti asmenys, buvę kartu su nukentėjusiaisiais ar ligoniais nelaimingų atsitikimų ar gyvybei pavojingo ūmaus susirgimo vietose ir pagal nustatytą tvarką privalantys tokią pagalbą teikti. Jeigu paciento buvimo vietovės sveikatos priežiūros įstaigoje nėra galimybių laiku suteikti tinkamą būtinąją medicinos pagalbą arba jei sveikatos priežiūros įstaiga pagal savo kompetenciją pacientui būtinosios medicinos pagalbos suteikti negali, ji turi informuoti apie tai pacientą ir užtikrinti, kad pacientas, kaip įmanoma greičiau, būtų pervežtas į kitą sveikatos priežiūros įstaigą. Būtinosios medicinos pagalbos mastą ir teikimo tvarką nustato Sveikatos apsaugos ministerija.
  
 
 
@@ -155,15 +149,15 @@ PACIENTŲ TEISĖS
 
 
 
-5 straipsnis. Teisė pasirinkti gydytoją, slaugos darbuotoją, sveikatos priežiūros įstaigą
+5 straipsnis. Teisė pasirinkti gydytoją, slaugos specialistą ir sveikatos priežiūros įstaigą
 
 
-1. Pacientas turi teisę pasirinkti gydytoją, slaugos darbuotoją, sveikatos priežiūros įstaigą, nepriklausančią arba priklausančią Lietuvos nacionalinės sveikatos sistemai. Lietuvos nacionalinės sveikatos sistemos sveikatos priežiūros įstaigose pacientas turi teisę pasirinkti gydytoją ar slaugos darbuotoją nepažeisdamas įstaigos priklausomumo Lietuvos nacionalinės sveikatos sistemos veiklos organizavimo lygiui.
+1. Pacientas turi teisę pasirinkti gydytoją, slaugos specialistą ir sveikatos priežiūros įstaigą. 
 
 
 
 
-2. Ši teisė gali būti ribojama Lietuvos Respublikos įstatymų numatyta tvarka.
+2. Ši teisė gali būti ribojama tik Lietuvos Respublikos įstatymuose nurodytais pagrindais ir teisės aktų nustatyta tvarka.
  
 
 
@@ -171,50 +165,45 @@ PACIENTŲ TEISĖS
 
 
 
-6 straipsnis. Teisė į informaciją
+6 straipsnis. Teisė į informaciją 
 
 
-1. Pacientas turi teisę gauti informaciją apie sveikatos priežiūros sistemoje teikiamas paslaugas ir galimybes jomis pasinaudoti.
-
-
-
-
-2. Pacientas turi būti informuotas apie jį gydančio gydytojo ir slaugančio darbuotojo vardą, pavardę, pareigas ir kvalifikaciją.
+1. Pacientas turi teisę gauti informaciją apie sveikatos priežiūros įstaigose teikiamas paslaugas ir galimybes jomis pasinaudoti. 
 
 
 
 
-3. Pacientas turi būti informuojamas apie sveikatos priežiūros ar slaugos įstaigos vidaus tvarkos taisykles ir tvarką, kiek tai susiję su jo buvimu toje įstaigoje. Pacientas turi teisę reikalauti ir gauti diagnozės, gydymo ir slaugos aprašymą.
+2. Sveikatos priežiūros įstaigoje pacientui turi būti pateiktas jį gydančio gydytojo ir slaugos specialisto vardas, pavardė, pareigos ir informacija apie kvalifikaciją. 
 
 
 
 
-4. Pacientas turi teisę į informaciją apie savo sveikatos būklę, ligos diagnozę, medicininio tyrimo duomenis, gydymo metodus ir gydymo prognozę. Informacija pacientui turi būti pateikta jam suprantama forma paaiškinant specialius medicinos terminus. Informuodamas apie gydymą, gydytojas turi paaiškinti pacientui gydymo eigą, galimus gydymo rezultatus, galimus alternatyvius gydymo metodus ir kitas aplinkybes, kurios gali turėti įtakos paciento apsisprendimui sutikti ar atsisakyti siūlomo gydymo, taip pat apie pasekmes atsisakius siūlomo gydymo. Informacija neturi būti pateikta pacientui prieš jo valią, tačiau toks jo noras turi būti aiškiai išreikštas ir apie tokį paciento pageidavimą turi būti pažymima jo ligos istorijoje.
+3. Pacientas turi būti supažindintas su sveikatos priežiūros įstaigos vidaus tvarkos taisyklėse nustatytomis paciento teisėmis ir pareigomis. Pacientas turi teisę gauti diagnozės, gydymo ir slaugos aprašymą.
 
 
 
 
-5. Pacientui pageidaujant, turi būti pateikta ligos istorija ar kiti jo medicininiai dokumentai, išskyrus atvejus, kai tai iš esmės gali pakenkti paciento sveikatai ar net sukelti pavojų jo gyvybei (apie tai sprendžia jį gydantis gydytojas ar gydytojų konsiliumas). Tokiais atvejais apie informacijos teikimo ribojimus gydantis gydytojas pažymi ligos istorijoje.
+4. Pacientas turi teisę į informaciją apie savo sveikatos būklę, ligos diagnozę, medicininio tyrimo duomenis, gydymo metodus ir gydymo prognozę. Informuodamas apie gydymą, gydytojas turi paaiškinti pacientui gydymo eigą, galimus gydymo rezultatus, galimus alternatyvius gydymo metodus ir kitas aplinkybes, kurios gali turėti įtakos paciento apsisprendimui sutikti ar atsisakyti siūlomo gydymo, taip pat apie pasekmes atsisakius siūlomo gydymo. Informacija pacientui turi būti pateikta atsižvelgiant į jo amžių ir sveikatos būklę, jam suprantama forma, paaiškinant specialius medicinos terminus. 
 
 
 
 
-6. Pacientas turi teisę prašyti, kad jo lėšomis būtų padarytos jo ligos istorijos ir (ar) kitų dokumentų kopijos. Ši paciento teisė gali būti ribojama tik Lietuvos Respublikos įstatymų nustatyta tvarka. Gydytojas privalo paaiškinti pacientui įrašų ligos istorijoje reikšmę. Jeigu paciento reikalavimas yra pagrįstas, gydytojas privalo ištaisyti, užbaigti, panaikinti, paaiškinti ir (ar) pakeisti netikslius, neišsamius, dviprasmiškus duomenis arba duomenis, nesusijusius su diagnoze, gydymu ar slauga. Jeigu gydantis gydytojas nesutinka su tokiu paciento pageidavimu, tai paciento pageidavimo pagrįstumą sprendžia gydytojų konsiliumas.
+5. Sveikatos priežiūros įstaiga šiame straipsnyje numatytos informacijos pacientui, įskaitant nepilnamečius nuo 16 iki 18 metų, gali nepranešti tik tais atvejais, jeigu pranešimas būtų aiški prielaida rimtai žalai pacientui atsirasti (pakenktų paciento sveikatai ar sukeltų pavojų jo gyvybei). Tokiais atvejais visa šiame straipsnyje numatyta informacija pateikiama paciento atstovui ir tai prilyginama informacijos pateikimui pacientui. Atstovui pateikta informacija pateikiama pacientui iš karto, kai išnyksta pavojus, kad jos pranešimas pacientui gali nulemti minėtą žalą. Sveikatos priežiūros įstaiga šiame straipsnyje numatytos informacijos nepraneša pacientui ir tuo atveju, jei pacientas atsisako informacijos (šio įstatymo 9 straipsnis). 
 
 
 
 
-7. Informacija nepilnamečiui pacientui, jo tėvams ar globėjams turi būti pateikta jiems suvokiama forma. Jeigu yra nesutarimų tarp nepilnamečio ir jo tėvų ar globėjų, gydantis gydytojas, pateikdamas informaciją, turi vadovautis nepilnamečio paciento interesais.
+6. Paciento pageidavimu turi būti pateikta ligos istorija, ambulatorinė kortelė ar kiti paciento medicinos dokumentai, išskyrus atvejus, kai tai iš esmės gali pakenkti paciento sveikatai ar sukelti pavojų jo gyvybei. Tokiais atvejais apie informacijos teikimo ribojimus gydantis gydytojas pažymi ligos istorijoje. Psichikos ligonio teisės susipažinti su paciento medicinos dokumentais ypatumus nustato Psichikos sveikatos priežiūros įstatymas.
 
 
 
 
-8. Nepilnametis pacientas, kuris, gydytojo nuomone, gali teisingai vertinti savo sveikatos būklę, turi teisę savarankiškai kreiptis ir spręsti dėl jam siūlomo gydymo. Gydantis gydytojas nepilnamečio tėvų ar globėjų prašymu turi informuoti nepilnamečio įstatyminius atstovus apie gydymą, tačiau, nepilnamečiui paprašius, tokia informacija gali būti ir nesuteikta, jeigu tai iš esmės gali pakenkti nepilnamečio paciento interesams, jeigu kiti teisės aktai nenustato kitaip. Jeigu nepilnametis yra hospitalizuotas, apie tai turi būti informuojami jo tėvai ar globėjai.
+7. Pacientas turi teisę prašyti, kad jo lėšomis būtų padarytos jo ligos istorijos ir (ar) kitų medicinos dokumentų kopijos. Ši paciento teisė gali būti ribojama tik Lietuvos Respublikos įstatymų nustatyta tvarka. Gydytojas privalo paaiškinti pacientui įrašų jo ligos istorijoje prasmę. Jeigu paciento reikalavimas yra pagrįstas, gydytojas privalo ištaisyti, užbaigti, panaikinti ir (ar) pakeisti netikslius, neišsamius, dviprasmiškus duomenis arba duomenis, nesusijusius su diagnoze, gydymu ar slauga. Jeigu gydantis gydytojas nesutinka su tokiu paciento pageidavimu, ar paciento pageidavimas pagrįstas, sprendžia gydytojų konsiliumas.
 
 
 
 
-9. Pacientas turi teisę sužinoti kito specialisto nuomonę apie savo sveikatos būklę ir siūlomą gydymą.
+8. Pacientas turi teisę sužinoti kito specialisto nuomonę apie savo sveikatos būklę ir siūlomą gydymą bei diagnozę.
  
 
 
@@ -222,15 +211,20 @@ PACIENTŲ TEISĖS
 
 
 
-7 straipsnis. Paciento dalyvavimas mokymo procese, moksliniuose ir medicinos bandymuose
+7 straipsnis. Paciento dalyvavimas mokymo procese ir biomedicininiuose tyrimuose
 
 
-1. Be paciento sutikimo negalima jo panaudoti mokymo procese, moksliniuose ar medicinos bandymuose. Jeigu pacientas yra nepilnametis, tokį sutikimą duoda vienas iš tėvų ar įstatyminis atstovas ir rajono, miesto vaikų teisių apsaugos tarnyba.
+1. Be paciento rašytinio sutikimo negalima jo įtraukti į mokymo procesą ir biomedicininius tyrimus. Sutikimo gali būti prašoma tik išaiškinus pacientui apie nurodyto proceso ir tyrimų tikslą, pobūdį, padarinius ir pavojus. Dėl nepilnamečio paciento įtraukimo į mokymo procesą reikalingas ir nepilnamečio atstovo sutikimas. Dėl nepilnamečio paciento įtraukimo į biomedicininius tyrimus, be nepilnamečio ir jo atstovų sutikimo, reikalingas ir rajono, miesto vaikų teisių apsaugos tarnybos sutikimas.
 
 
 
 
-2. Paciento naudojimo mokymo procese, moksliniuose ir medicinos bandymuose tvarką nustato Lietuvos Respublikos įstatymai ir kiti teisės aktai.
+2. Kai yra šio straipsnio 1 dalyje nurodytas sutikimas (leidimas), pacientą galima įtraukti į mokymo procesą ir biomedicininius tyrimus tik laikantis tvarkos, kurią nustato Biomedicininių tyrimų etikos įstatymas ir kiti teisės aktai.
+
+
+
+
+3. Įtraukiant pacientą į mokymo procesą ir mokslinius medicinos bandymus (biomedicininius tyrimus), turi būti vadovaujamasi nuostata, kad paciento interesai ir gerovė yra svarbesni už mokslo interesus.
  
 
 
@@ -238,35 +232,30 @@ PACIENTŲ TEISĖS
 
 
 
-8 straipsnis. Teisė atsisakyti gydymo
+8 straipsnis. Teisė rinktis diagnostikos bei gydymo metodikas ir atsisakyti gydymo
 
 
-1. Pacientas negali būti gydomas ar jam teikiama kokia kita sveikatos priežiūra ar slauga prieš jo valią, jeigu Lietuvos Respublikos įstatymų nenustatyta kitaip. Jeigu yra galimybė, pacientui turi būti pasiūlytas kitas gydymas ar kitos sveikatos priežiūros paslaugos.
-
-
-
-
-2. Nepilnametis pacientas turi būti informuotas apie gydymą ir, jeigu jis pagal savo amžių ir išsivystymo lygį gali teisingai vertinti savo sveikatos būklę ir siūlomą gydymą (apie tai sprendžia gydantis gydytojas), nepilnametis negali būti gydomas prieš jo valią, jeigu Lietuvos Respublikos įstatymų nenustatyta kitaip. Gydytojas turi parinkti gydymo metodus, labiausiai atitinkančius nepilnamečio interesus.
+1. Pacientai, įskaitant nepilnamečius pacientus nuo 16 iki 18 metų, gali būti gydomi arba jiems teikiama kokia kita sveikatos priežiūra ar slauga, tik kai yra jų sutikimas. Sveikatos priežiūra ar slauga nepilnamečiams pacientams iki 16 metų teikiama, kai yra jų atstovų sutikimas, išskyrus atvejus, jei tokio sutikimo prašymas prieštarautų nepilnamečio paciento interesams. 
 
 
 
 
-3. Teikiant būtinąją (pirmąją ar skubiąją) medicinos pagalbą, jeigu pacientas yra be sąmonės ar dėl kitos priežasties negalima sužinoti jo valios ir gresia rimtas pavojus jo gyvybei ar sveikatai, tokia medicinos pagalba turi būti suteikta ir be paciento sutikimo.
+2. Kai laikantis sveikatos priežiūros normų yra galimybė rinktis diagnostikos ir gydymo metodikas, pacientas turi būti supažindintas su šių metodikų ypatybėmis ir jam turi būti suteikta pasirinkimo galimybė. Pacientų, įskaitant nepilnamečius pacientus nuo 16 iki 18 metų, pasirinkimas įforminamas raštu. Už nepilnamečius pacientus iki 16 metų, taip pat už kitus pacientus, kurie dėl savo būklės negali objektyviai vertinti diagnostikos ir gydymo metodikų, pasirenka ir pasirašo jų atstovai. Jeigu yra nesutarimų tarp nepilnamečio paciento iki 16 metų ir jo atstovų, tai diagnostikos ir gydymo metodikas parenka gydytojų konsiliumas, atsižvelgdamas į nepilnamečio interesus.
 
 
 
 
-4. Paciento, psichikos ligonio, nesugebančio teisingai įvertinti savo sveikatos būklės, gydymo ypatumus nustato Psichikos sveikatos priežiūros įstatymas.
+3. Prieš prašant šio straipsnio 2 dalyje nurodyto sutikimo, pacientui (jo atstovui) išaiškinami intervencijos į paciento sveikatą tikslas, pobūdis, padariniai ir pavojai. Asmens sveikatos priežiūros paslaugų teikėjas apie visas asmens sveikatos priežiūros paslaugas turi įrašyti į paciento medicinos dokumentus. Sutikimas dėl paslaugų, dėl kurių nesudaryta sveikatos priežiūros paslaugų sutartis, patvirtinamas paciento (jo atstovo) parašu paciento medicinos dokumentuose. 
 
 
 
 
-5. Teikiant būtinąją (pirmąją ar skubiąją) medicinos pagalbą, kuriai yra būtinas paciento įstatyminio atstovo sutikimas, ji gali būti teikiama ir be įstatyminio atstovo sutikimo, jei jo negalima gauti laiku arba įstatyminis atstovas atsisako duoti sutikimą, o gydančio gydytojo ar slaugos darbuotojo nuomone, medicinos pagalbos suteikimas atitinka paciento interesus. Apie tai turi būti pažymima paciento ligos istorijoje.
+4. Pacientas bet kada raštu gali atšaukti savo sutikimą gydytis. Kai pacientas yra tokios sveikatos būklės, kad negali pareikšti savo valios dėl sutikimo gydytis ir dėl diagnostikos bei gydymo metodikų pasirinkimo, kiek įmanoma, nepakenkiant paciento interesams, atsižvelgiama į jo anksčiau raštu pareikštą valią. Kai nėra nustatyta tvarka išreikštos paciento (jo atstovo) valios, slauga, diagnostika ir gydymas gali būti taikomi tik įstatymų nustatytais pagrindais ir tvarka, kai yra reali grėsmė paciento arba aplinkinių asmenų sveikatai ar gyvybei. Teikiant būtinąją (pirmąją ar skubiąją) medicinos pagalbą pacientui, kuris dėl amžiaus ar sveikatos būklės negali tinkamai išreikšti savo valios, yra būtinas paciento atstovo sutikimas. Pacientas, kiek įmanoma, dalyvauja, kai sprendžiamas sutikimo gydyti klausimas. Pagalba gali būti teikiama be atstovo sutikimo, jei jo nėra arba sutikimo negalima gauti laiku, arba atstovas atsisako duoti sutikimą, o medicinos pagalbos suteikimas atitinka paciento interesus. Apie tai pažymima paciento ligos istorijoje. 
 
 
 
 
-6. Jeigu paciento įstatyminis atstovas atsisako duoti sutikimą gydymui, kuris nėra skubus, o gydančio gydytojo nuomone, medicinos pagalbos suteikimas atitinka paciento interesus, tokiam gydymui sutikimą turi teisę duoti sveikatos priežiūros įstaigos medicinos etikos komisija ar Lietuvos medicinos etikos komitetas. Į šią komisiją ar komitetą turi kreiptis sveikatos priežiūros įstaigos administracija ar gydantis gydytojas.
+5. Jeigu paciento, kuris dėl amžiaus ar sveikatos būklės negali išreikšti savo valios, atstovas atsisako duoti sutikimą gydyti, kuris nėra skubus, o medicinos pagalbos suteikimas atitinka paciento interesus, tokiam pacientui gydymas galimas, jei yra gydytojų konsiliumo, sveikatos priežiūros įstaigos medicinos etikos komisijos ar Lietuvos bioetikos komiteto sutikimas. Gydančio gydytojo prašymu sveikatos priežiūros įstaigos administracija sudaro gydytojų konsiliumą. Į Medicinos etikos komisiją ar Lietuvos bioetikos komitetą gali kreiptis sveikatos priežiūros įstaigos administracija ar gydantis gydytojas. Paciento, psichikos ligonio, nesugebančio teisingai įvertinti savo sveikatos būklės, gydymo ypatumus nustato Psichikos sveikatos priežiūros įstatymas. Visais atvejais pacientas, kiek įmanoma, dalyvauja duodamas sutikimą gydyti.
  
 
 
@@ -274,15 +263,15 @@ PACIENTŲ TEISĖS
 
 
 
-9 straipsnis. Teisė skųstis
+9 straipsnis. Teisė nežinoti
 
 
-1. Nepatenkintas sveikatos priežiūra pacientas turi teisę kreiptis į sveikatos priežiūros įstaigos administracijos darbuotoją, atsakingą už sveikatos priežiūrą šioje įstaigoje. Administracijos darbuotojas per penkias darbo dienas privalo atsakyti į paciento kreipimąsi.
+1. Informacija apie savo sveikatos būklę, ligos diagnozę, medicininio tyrimo duomenis, gydymo metodus ir gydymo prognozę neturi būti pacientui pateikta prieš jo valią. Paciento, įskaitant nepilnamečius nuo 16 iki 18 metų, valia turi būti aiškiai pareikšta sveikatos priežiūros paslaugų sutartyje ar patvirtinta paciento parašu paciento medicinos dokumentuose. 
 
 
 
 
-2. Pacientas turi teisę apskųsti sveikatos priežiūros įstaigų veiklą Sveikatos apsaugos ministerijai, kitoms kontroliuojančioms institucijoms, teismui.
+2. Šio straipsnio 1 dalies nuostatos netaikomos, kai, informacijos nepateikus pacientui ar kitiems asmenims, gali atsirasti žalingų pasekmių ir tų pasekmių negalima išvengti pateikus informaciją paciento šeimos nariams, jo atstovui ar kitiems asmenims. Apie informacijos pateikimą pacientui prieš jo valią pažymima paciento medicinos dokumentuose. Elgesio su pacientu, kuris dėl psichinės ligos nesugeba teisingai įvertinti savo sveikatos būklės, ypatumus nustato Psichikos sveikatos priežiūros įstatymas.
  
 
 
@@ -293,17 +282,59 @@ PACIENTŲ TEISĖS
 10 straipsnis. Privataus gyvenimo neliečiamumas
 
 
-1. Pacientų privatus gyvenimas yra neliečiamas. Informacija apie pacientų gyvenimo faktus gali būti renkama ligos istorijai pacientų sutikimu ir jei, gydančio gydytojo nuomone, tai yra būtina diagnozuoti ligą, gydyti ar slaugyti.
+1. Pacientų privatus gyvenimas yra neliečiamas. Informacija apie pacientų gyvenimo faktus gali būti renkama pacientų sutikimu ir tik tuo atveju, jei tai yra būtina diagnozuoti ligą, gydyti ar slaugyti.
 
 
 
 
-2. Visa informacija apie paciento sveikatos būklę, diagnozę, prognozes ir gydymą, taip pat visa kita asmeninio pobūdžio informacija apie pacientą turi būti laikoma konfidencialia net ir po paciento mirties. Tokios konfidencialios informacijos saugojimo tvarką nustato Lietuvos Respublikos įstatymai ir Sveikatos apsaugos ministerijos teisės aktai. Konfidenciali informacija gali būti suteikta kitiems asmenims tik turint raštišką paciento sutikimą arba jei tai numato šis ir kiti Lietuvos Respublikos įstatymai.
+2. Sveikatos priežiūros įstaigose duomenys apie paciento buvimą sveikatos priežiūros įstaigoje, jo sveikatos būklę, jam taikytas diagnostikos, gydymo bei slaugos priemones įrašomi į Sveikatos apsaugos ministerijos nustatytos formos ir rūšių pacientų medicinos dokumentus. Nustatant šių dokumentų formą, turinį ir naudojimo tvarką, turi būti užtikrinama paciento privataus gyvenimo apsauga. 
 
 
 
 
-3. Sutikimas nėra būtinas, jei informacija yra suteikiama asmenims, tiesiogiai dalyvaujantiems gydant ar slaugant pacientus, atliekantiems pacientų sveikatos ekspertizę, taip pat institucijoms, kurioms Lietuvos Respublikos įstatymai suteikia teisę kontroliuoti sveikatos priežiūros veiklą.
+3. Visa informacija apie paciento buvimą sveikatos priežiūros įstaigoje, gydymą, sveikatos būklę, diagnozę, prognozes ir gydymą, taip pat visa kita asmeninio pobūdžio informacija apie pacientą turi būti laikoma konfidencialia net ir po paciento mirties. Tokios konfidencialios informacijos saugojimo tvarką nustato Lietuvos Respublikos įstatymai ir sveikatos apsaugos ministro tvirtinami teisės aktai. Konfidenciali informacija gali būti suteikta kitiems asmenims tik turint rašytinį paciento sutikimą. Asmenims, tiesiogiai dalyvaujantiems gydant ar slaugant pacientą, atliekantiems paciento sveikatos ekspertizę, be paciento sutikimo konfidenciali informacija gali būti suteikta tais atvejais ir tiek, kiek tai būtina paciento interesams apsaugoti. Be paciento sutikimo teisės aktų nustatyta tvarka konfidenciali informacija gali būti suteikta valstybės institucijoms, kurioms Lietuvos Respublikos įstatymai suteikia teisę gauti konfidencialią informaciją apie pacientą prieš jo valią. Kai pacientas yra praradęs sąmonę ir nėra jo sutikimo, konfidenciali informacija gali būti suteikiama paciento atstovui, sutuoktiniui (partneriui), tėvams (įtėviams) ar pilnamečiams vaikams tik tais atvejais ir tiek, kiek tai būtina paciento interesams apsaugoti. 
+
+
+
+
+4. Nepilnamečio paciento atstovai turi teisę susipažinti su nepilnamečio paciento medicinos dokumentais, jeigu tai neprieštarauja šio įstatymo reikalavimams ir nepilnamečio paciento interesams. 
+
+
+
+
+5. Naudojant informaciją mokslo ir mokymo tikslais, neturi būti pažeidžiamas paciento asmens privatumas. Pacientų medicinos dokumentuose esančios informacijos panaudojimo tvarką mokslo tikslams nustato Biomedicininių tyrimų etikos įstatymas, o šios informacijos panaudojimo mokymo reikalams tvarką nustato Vyriausybė arba jos įgaliota institucija. 
+
+
+
+
+6. Užtikrinant paciento teisę į privataus gyvenimo neliečiamumą, turi būti vadovaujamasi nuostata, kad paciento interesai ir gerovė yra svarbesni už visuomenės interesus. Už neteisėtą konfidencialios informacijos apie pacientą rinkimą bei panaudojimą atsakoma teisės aktų nustatyta tvarka. Be turtinės žalos, pacientui taip pat atlyginama ir neturtinė žala. 
+ 
+
+
+
+
+
+
+11 straipsnis. Teisė skųstis
+
+
+1. Manydamas, kad yra pažeistos jo, kaip paciento, teisės, pacientas (jo atstovas) raštu kreipiasi į sveikatos priežiūros įstaigos vadovą. Sveikatos priežiūros įstaigos vadovas ar jo pareigas einantis asmuo per įmanomai trumpą laiką, bet ne ilgiau kaip per 5 dienas privalo išnagrinėti kreipimąsi ir raštu pranešti pacientui (jo atstovui) apie nagrinėjimo rezultatus.
+
+
+
+
+2. Nepatenkintas šio straipsnio 1 dalyje nurodytu nagrinėjimu ir jo rezultatais, pacientas (jo atstovas) gali kreiptis į teismą arba į valstybės institucijas, kurios pagal Sveikatos priežiūros įstaigų įstatymą kontroliuoja sveikatos priežiūros paslaugų teikėją. Jei pacientas (jo atstovas) kreipiasi į Sveikatos apsaugos ministeriją, kuri kreipimąsi išnagrinėja pati arba pagal nagrinėjamo klausimo pobūdį privalo jį perduoti nagrinėti kitoms valstybės institucijoms, kurios kontroliuoja sveikatos priežiūros paslaugų teikėją. Šių institucijų, Sveikatos apsaugos ministerijos pareigūnų sprendimus ir veiksmus (neveikimą) pacientas (jo atstovas) taip pat turi teisę apskųsti teismui.
+ 
+
+
+
+
+
+
+12 straipsnis. Teisė į žalos atlyginimą
+
+
+Pacientas turi teisę į žalos, padarytos pažeidus jo teises teikiant sveikatos priežiūros paslaugas, atlyginimą. Žalos atlyginimo sąlygas ir tvarką nustato šio įstatymo III skyrius, taip pat Civilinis kodeksas, Draudimo įstatymas, kiti teisės aktai.
  
 
 
@@ -314,38 +345,29 @@ PACIENTŲ TEISĖS
 
 
 III SKYRIUS
-PACIENTŲ DOKUMENTAI
+ŽALOS, PADARYTOS PACIENTAMS TEIKIANT SVEIKATOS PRIEŽIŪROS PASLAUGAS, ATLYGINIMAS
  
 
 
-11 straipsnis. Pacientų dokumentų būtinumas
+13 straipsnis. Bendrosios žalos atlyginimo nuostatos 
 
 
-Sveikatos priežiūros įstaigos, gydytojai ir slaugos darbuotojai privalo turėti Sveikatos apsaugos ministerijos nustatytos formos ir rūšių pacientų dokumentus (ligos istorijas, kitus medicininius dokumentus) ir juos saugoti Lietuvos Respublikos įstatymų ir Sveikatos apsaugos ministerijos nustatyta tvarka.
- 
-
-
+1. Sveikatos priežiūros įstaiga privalo atlyginti žalą, padarytą pacientams dėl šios įstaigos ar jos darbuotojų kaltės teikiant sveikatos priežiūros paslaugas, taip pat dėl biomedicininių tyrimų etikos reikalavimų neatitinkančios tyrėjo ir kitų šiuos tyrimus atliekančių asmenų veiklos. 
 
 
 
 
-12 straipsnis. Pacientų dokumentuose esančios informacijos konfidencialumas
-
-
-1. Nepilnamečio paciento tėvai ar globėjai turi teisę susipažinti su nepilnamečio paciento dokumentais, jeigu tai neprieštarauja šio įstatymo 6 straipsnio 7 ir 8 dalių reikalavimams. Psichikos ligonio atstovo teisę susipažinti su paciento dokumentais nustato Psichikos sveikatos priežiūros įstatymas.
+2. Jei pažeidžiami sveikatos priežiūros kokybės ir priimtinumo reikalavimai, asmens sveikatos informacijos konfidencialumas (asmens medicininė paslaptis), be turtinės žalos, taip pat atlyginama ir neturtinė žala. Nustatant neturtinės žalos, išreikštos pinigais, dydį, atsižvelgiama į žalos padarymo aplinkybes, laikantis nuostatos, kad paprastai šis dydis kiekvienu atveju negali viršyti 50 minimalių mėnesinių algų. Kai ginčas nagrinėjamas teisme, konkretus neturtinės žalos dydis nustatomas vadovaujantis Civilinio kodekso reikalavimais. 
 
 
 
 
-2. Reikalavimai dėl informacijos konfidencialumo netaikomi:
-
-
-1) kai susipažinti su informacija kreipiasi teismas, komisija ar kitos valstybės institucijos, kurioms tokią teisę suteikia Lietuvos Respublikos įstatymai;
+3. Žala atlyginama pacientui, o pacientui mirus – mirusiojo išlaikomiems arba jo mirties dieną turėjusiems teisę gauti jo išlaikymą mirusiojo nepilnamečiams vaikams, sutuoktiniui, nedarbingiems tėvams ir kitiems faktiniams nedarbingiems išlaikytiniams bei mirusiojo vaikui, gimusiam po jo mirties. Šie asmenys taip pat turi teisę į neturtinės žalos atlyginimą. 
 
 
 
 
-2) kai informacija apie paciento sveikatos būklę yra suteikiama šio įstatymo 10 straipsnio 3 dalyje numatytais atvejais.
+4. Mirus pacientui dėl sveikatos priežiūros įstaigos ir jos darbuotojų kaltės, paciento laidojimo išlaidos atlyginamos jas turėjusiam asmeniui teisės aktų nustatyta tvarka.
  
 
 
@@ -353,12 +375,83 @@ Sveikatos priežiūros įstaigos, gydytojai ir slaugos darbuotojai privalo turė
 
 
 
+14 straipsnis. Sveikatos priežiūros įstaigos ir darbuotojų kaltė
 
 
-13 straipsnis. Pacientų dokumentuose esančios informacijos panaudojimas moksliniam tiriamajam darbui ir studentams mokyti
+Laikoma, kad yra sveikatos priežiūros įstaigos ir jos darbuotojų kaltė, jei teikiant sveikatos priežiūros paslaugas buvo pažeisti sveikatos priežiūros paslaugų teikimą reglamentuojantys teisės aktų reikalavimai, patvirtintos diagnostikos bei gydymo metodikos ir tie pažeidimai sukėlė paciento sveikatos pablogėjimą ar mirtį. Taip pat laikoma, kad yra sveikatos priežiūros įstaigos ir jos darbuotojų kaltė, jei nurodyti reikalavimai nebuvo pažeisti, bet paciento sveikatos pablogėjimą ar mirtį sukėlė sveikatos priežiūros paslaugas teikiančių asmenų tyčia arba šie asmenys nebuvo tiek rūpestingi ir apdairūs, kiek atitinkamomis sąlygomis buvo būtina.
+ 
 
 
-Pacientų dokumentuose esančios informacijos panaudojimo moksliniam tiriamajam darbui ir studentams mokyti tvarką nustato Lietuvos medicinos etikos komitetas. Šiais tikslais naudojant informaciją, turi būti gerbiamas paciento asmens privatumas.
+
+
+
+
+15 straipsnis. Atsižvelgimas į paciento elgesį
+
+
+Jeigu yra ne tik sveikatos priežiūros įstaigos, jos darbuotojų kaltė, bet ir pacientas nesilaikė savo pareigų bei sveikatos priežiūros įstaigos taisyklių, su kuriomis buvo pasirašytinai supažindintas, ir tas pažeidimas arba paciento tyčia ar dėl didelio neatsargumo kiti atlikti veiksmai prisidėjo prie jo sveikatos pablogėjimo ar mirties, sveikatos priežiūros įstaigos, jos darbuotojų atsakomybė už žalą mažinama atsižvelgiant į paciento kaltės mastą. Sprendžiant, ar buvo paciento kaltė ir koks jos mastas, atsižvelgiama į paciento sveikatos būklę. Į paciento kaltę neatsižvelgiama nustatant žalą, atsiradusią atėmus maitintojo gyvybę ir susijusią su paciento laidojimo išlaidomis. 
+ 
+
+
+
+
+
+
+16 straipsnis. Sveikatos priežiūros įstaigų civilinės atsakomybės draudimas
+
+
+1. Sveikatos priežiūros įstaigos privalo drausti savo civilinę atsakomybę už pacientams padarytą žalą. Šio įstatymo III skyriaus nuostatos draudimo teisiniams santykiams taikomos tiek, kiek jos neprieštarauja Draudimo įstatymui ir kitiems draudimo teisės aktams. Jeigu draudimo išmokos žalai atlyginti nepakanka, žalą padariusi sveikatos priežiūros įstaiga atlygina pacientui arba šio įstatymo 13 straipsnio 3 dalyje nurodytiems asmenimis faktinės žalos ir draudimo išmokos skirtumą.
+
+
+
+
+2. Civilinės atsakomybės privalomojo draudimo minimali draudimo suma yra  50 000 Lt vienai asmens sveikatos priežiūros įstaigai kiekvienam draudiminiam įvykiui. Draudikui dėl draudiminio įvykio išmokėjus draudimo išmoką, draudimo prievolė lieka galioti visai draudimo sumai, neišskaičiuojant iš jos sumokėtų draudimo išmokų.
+
+
+
+
+3. Sveikatos priežiūros įstaigos gali papildomai draustis civilinės atsakomybės draudimu už pacientams padarytą žalą.
+
+
+
+
+4. Sveikatos priežiūros įstaigų civilinės atsakomybės už pacientams padarytą žalą privalomojo draudimo tvarką nustato Vyriausybė ar jos įgaliota institucija. 
+ 
+
+
+
+
+
+
+17 straipsnis. Kaltės, žalos dydžio ir atlyginimo tvarkos nustatymas
+
+
+1. Jei kyla ginčas tarp suinteresuotų asmenų, tai pacientui arba, jam mirus, šio įstatymo 13 straipsnio 3 dalyje nurodytiems asmenimis padarytos žalos dydį pagal paciento (jo atstovo) ar kitų suinteresuotų asmenų pareiškimą nustato Pacientų sveikatai padarytos žalos nustatymo komisija, dalyvaujant gydytojams ir kitiems tretiesiems asmenims, iš kurių vėliau žalos atlyginimas gali būti išieškotas regreso tvarka. 
+
+
+
+
+2. Pacientų sveikatai padarytos žalos nustatymo komisiją ketveriems metams iš 7 asmenų, turinčių medicininį, teisinį arba kitą universitetinį aukštąjį išsilavinimą, sudaro Sveikatos apsaugos ministerija. Ji užtikrina technines sąlygas šiai komisijai veikti. Parenkant atstovus į šią komisiją, atsižvelgiama į tai, kad joje vienodai būtų atstovaujama pacientų ir asmens sveikatos priežiūros įstaigų interesams. Ne mažiau kaip 2 šios komisijos nariai turi būti pacientų teises ginančių nevyriausybinių organizacijų deleguoti atstovai. 
+
+
+
+
+3. Pacientų sveikatai padarytos žalos nustatymo komisija yra ikiteisminė institucija ginčams dėl pacientams padarytos žalos atlyginimo, išskyrus ginčus, kylančius iš civilinės atsakomybės draudimo santykių. Šios komisijos sudarymo, veiklos, jos kompetencijai priskiriamų pacientams padarytos žalos nustatymo ir atlyginimo klausimų sprendimo tvarką reglamentuoja Pacientų sveikatai padarytos žalos nustatymo komisijos nuostatai, kuriuos, remdamasi šiuo įstatymu, Civiliniu kodeksu ir kitais teisės aktais, tvirtina Vyriausybė. 
+
+
+
+
+4. Pacientų sveikatai padarytos žalos nustatymo komisija, priimdama sprendimą, atsižvelgia į Valstybinės medicininio audito inspekcijos ir kitų sveikatos priežiūros įstaigas kontroliuojančių institucijų bei ekspertų išvadas, taip pat į kitas reikšmingas aplinkybes. Ši komisija turi teisę gauti visą reikiamą informaciją ir dokumentus, reikalingus sprendimui priimti.
+
+
+
+
+5. Paciento (jo atstovo) ar kitų suinteresuotų asmenų pareiškimai Pacientų sveikatai padarytos žalos nustatymo komisijoje turi būti išnagrinėti ir sprendimas priimtas ne vėliau kaip per 2 mėnesius nuo pareiškimų pateikimo dienos. Pacientų sveikatai padarytos žalos nustatymo komisijos sprendimai sveikatos priežiūros įstaigoms yra privalomi.
+
+
+
+
+6. Pacientas (jo atstovas), kitas suinteresuotas asmuo ar sveikatos priežiūros įstaiga, nesutikdami su Pacientų sveikatai padarytos žalos nustatymo komisijos sprendimu, per 30 dienų nuo sprendimo priėmimo dienos, o sprendimo priėmimo metu nedalyvavę asmenys – per 30 dienų nuo tos dienos, kai jie sužinojo apie sprendimą, turi teisę įstatymų nustatyta tvarka kreiptis su ieškiniu į teismą ginčydami šios komisijos sprendimą. Teismas gali atnaujinti šioje dalyje nurodytą terminą, jei jis praleistas dėl priežasčių, kurias teismas pripažįsta svarbiomis. Pacientas arba jo mirties atveju šio įstatymo 13 straipsnio 3 dalyje nurodyti asmenys atleidžiami nuo žyminio mokesčio mokėjimo. Jei ginčas nenagrinėjamas teisme, turi būti vykdomas Pacientų sveikatai padarytos žalos nustatymo komisijos priimtas sprendimas. Jo vykdymui, kiek tai susiję su turtinio pobūdžio išieškojimais, taikomos Civilinio proceso kodekso VI dalies nuostatos.
  
 
 
@@ -369,244 +462,15 @@ Pacientų dokumentuose esančios informacijos panaudojimo moksliniam tiriamajam 
 
 
 IV SKYRIUS
-PACIENTŲ SVEIKATAI PADARYTOS ŽALOS
-ATLYGINIMO PAGRINDAI IR TVARKA
- 
-TAR pastaba. Nutraukiamas IV skyriaus galiojimas ir nustatoma, kad šis skyrius galioja nuo 1999 m. sausio 1 d. (pagal 1998 m. gegužės 21 d. priimtą  įstatymą Nr. VIII-755).
- 
-
-
-14 straipsnis. Pacientams padarytos žalos samprata
-
-
-1. Šiame įstatyme pacientams padaryta žala – tai žala, kuri:
-
-
-1) atsirado kaip pacientų gydymo ar medicininio tyrimo pasekmė;
-
-
-
-
-2) atsirado dėl infekcijos ar uždegimo, siejamų su pacientų tyrimu ar gydymu;
-
-
-
-
-3) atsirado dėl diagnostinės procedūros ar pjūvio, jeigu tai nepagrįstai sukelia ilgalaikius sveikatos sutrikimus;
-
-
-
-
-4) atsirado dėl medicinos aparatūros konstrukcinių trūkumų ar sugedus medicinos aparatūrai, ar pan.
-
-
-
-
-
-
-2. Visuotinai pripažintais medicinos praktikos ir mokslo principais ar standartais pagrįsto gydymo pasekmės, kurių negalima buvo išvengti kitu lygiaverčiu efektyviu gydymo metodu, šiame įstatyme nėra traktuojama kaip pacientams padaryta žala.
-
-
-
-
-3. Žala, padaryta pacientams gydytojo ar slaugos darbuotojo kaltais veiksmais, atlyginama Civilinio kodekso nustatyta tvarka.
- 
-
-
-
-
-
-
-15 straipsnis. Žalos atlyginimas
-
-
-1. Gydytojo ar slaugos darbuotojo teisėtais veiksmais padarytos žalos pacientų sveikatai dydį nustato komisija.
-
-
-
-
-2. Jeigu pacientų sveikatai padaryta žala padidėjo dėl pacientų tyčios ar jų didelio neatsargumo, kompensacija turi būti mokama tik už žalą, kuriai neturėjo įtakos šios aplinkybės.
-
-
-
-
-3. Pacientų sveikatai padarytos žalos dydžio nustatymo ir kompensavimo tvarką nustato šis ir kiti Lietuvos Respublikos įstatymai, teisės aktai.
- 
-
-
-
-
-
-
-16 straipsnis. Sveikatos priežiūros įstaigų draudimas
-
-
-1. Lietuvos nacionalinės sveikatos sistemos sveikatos priežiūros įstaigos, akredituotos asmens sveikatos priežiūrai, vykdydamos asmens sveikatos priežiūrą, privalo drausti savo civilinę atsakomybę už žalą, padarytą pacientams gydytojų ar slaugos darbuotojų teisėtais veiksmais. Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigų privalomąjį draudimą dėl civilinės atsakomybės už žalą, padarytą pacientams, vykdo Valstybinė ligonių kasa, šiuo tikslu suformuodama savarankišką Asmens sveikatos priežiūros įstaigų civilinės atsakomybės už žalą, padarytą pacientams, draudimo fondą. Šio fondo nuostatus tvirtina Vyriausybė. Lietuvos nacionalinės sveikatos sistemos sveikatos priežiūros įstaigos, teikiančios stacionarią pagalbą, moka 0,2 procento, o neteikiančios stacionarios pagalbos – 0,1 procento nuo priskaičiuoto gydytojų ir slaugos darbuotojų darbo užmokesčio fondo.
-
-
-
-
-2. Asmens sveikatos priežiūros įstaigų civilinės atsakomybės už žalą, padarytą pacientams, draudimo fondo lėšos naudojamos tikslingai kompensacijoms pacientams už padarytą žalą išmokėti. Už šio fondo lėšų naudojimą Valstybinė ligonių kasa kasmet atsiskaito Privalomojo sveikatos draudimo tarybai ir Sveikatos apsaugos ministerijai.
-
-
-
-
-3. Lietuvos nacionalinės sveikatos sistemos sveikatos priežiūros įstaigų privalomojo draudimo sąlygas, tikslingo lėšų išmokėjimo pacientams tvarką nustato Vyriausybė.
-
-
-
-
-4. Sveikatos priežiūros įstaigos, akredituotos asmens sveikatos priežiūrai ir nepriklausančios Lietuvos nacionalinės sveikatos sistemai, vykdydamos asmens sveikatos priežiūrą, privalo drausti savo civilinę atsakomybę už žalą, padarytą pacientams gydytojų ar slaugos darbuotojų teisėtais veiksmais, sudarydamos draudimo sutartis su draudimo įmonėmis, turinčiomis teisę vykdyti bendrosios civilinės atsakomybės draudimą pagal Lietuvos Respublikos įstatymus arba sudarydamos sutartis su Valstybine ligonių kasa. Jeigu sveikatos priežiūros įstaigos, nepriklausančios Lietuvos nacionalinės sveikatos sistemai, vykdydamos asmens sveikatos priežiūrą, draudžia savo civilinę atsakomybę už žalą, padarytą pacientams gydytojų ar slaugos darbuotojų teisėtais veiksmais, sudarydamos draudimo sutartis su draudimo įmonėmis, tai draudimo sąlygos, draudimo išmokų dydis, jų mokėjimo tvarka ir kita nustatoma draudimo sutartyse. Jeigu sveikatos priežiūros įstaigos, nepriklausančios Lietuvos nacionalinės sveikatos sistemai, sudaro sutartis su Valstybine ligonių kasa, tai joms galioja tos pačios draudimo sąlygos ir įmokų mokėjimo tvarka kaip ir Lietuvos nacionalinės sveikatos sistemos sveikatos priežiūros įstaigoms.
-
-
-
-
-5. Sveikatos priežiūros įstaigos, neapdraudusios savo civilinės atsakomybės už žalą, padarytą pacientams, neturi teisės vykdyti asmens sveikatos priežiūros.
- 
-
-
-
-
-
-
-17 straipsnis. Privalomojo sveikatos priežiūros įstaigų draudimo dėl civilinės atsakomybės už žalą, padarytą pacientams, įmokų mokėjimo Valstybinei ligonių kasai tvarka
-
-
-1. Asmens sveikatos priežiūros įstaigos, sudariusios draudimo sutartis su Valstybine ligonių kasa, pačios apskaičiuoja įmokų dydį pagal šio įstatymo 16 straipsnyje nustatytus dydžius ir perveda jas į Valstybinės ligonių kasos Asmens sveikatos priežiūros įstaigų civilinės atsakomybės už žalą, padarytą pacientams, draudimo fondą.
-
-
-
-
-2. Įmokų mokėjimo terminus ir tvarką nustato Vyriausybė.
- 
-
-
-
-
-
-
-18 straipsnis. Kompensacijos pacientui išmokėjimas
-
-
-1. Kompensacija už pacientui padarytą žalą yra išmokama iš Valstybinės ligonių kasos Asmens sveikatos priežiūros įstaigų civilinės atsakomybės už žalą, padarytą pacientams, draudimo fondo lėšų, jeigu pacientui buvo padaryta žala sveikatos priežiūros įstaigoje, sudariusioje draudimo sutartį pagal šio įstatymo reikalavimus su Valstybine ligonių kasa. Kompensacijos išmokamos komisijos sprendimu pagal Vyriausybės patvirtintą tvarką ir dydžius, bet ne daugiau kaip 15 minimalių mėnesinių algų. Žala atlyginama pagal minimalios mėnesinės algos dydį, galiojusį prašymo dėl padarytos žalos atlyginimo komisijai pateikimo dieną.
-
-
-
-
-2. Jeigu pacientui buvo padaryta žala sveikatos priežiūros įstaigoje, nepriklausančioje Lietuvos nacionalinės sveikatos sistemai ir nesudariusioje draudimo sutarties su Valstybine ligonių kasa, tai draudimo išmoka mokama pagal sveikatos priežiūros įstaigos ir draudimo įmonės sutartyje numatytas sąlygas. Šiuo atveju maksimali žalos atlyginimo suma negali būti mažesnė nei šio straipsnio 1 dalyje numatyta suma.
- 
-
-
-
-
-
-
-19 straipsnis. Prašymo komisijai kompensacijai gauti pateikimas
-
-
-Prašymą dėl padarytos žalos atlyginimo iš Valstybinės ligonių kasos Asmens sveikatos priežiūros įstaigų civilinės atsakomybės už žalą, padarytą pacientams, draudimo fondo pacientas (ar jo atstovas) turi pateikti komisijai ne vėliau kaip praėjus vieneriems metams nuo to momento, kai pacientas sužinojo apie jam padarytą žalą. Tačiau bet kuriuo atveju prašymas negali būti pateikiamas, jeigu nuo įvykio, dėl kurio atsirado žala, praėjo daugiau kaip treji metai.
- 
-
-
-
-
-
-
-20 straipsnis. Komisijos formavimas, veikla, kontrolė
-
-
-1. Komisiją formuoja Sveikatos apsaugos ministerija ketveriems metams iš asmenų, turinčių medicininį, teisinį, kitokį aukštąjį ar aukštesnįjį išsilavinimą, iš Valstybinės ligonių kasos, Privalomojo sveikatos draudimo tarybos, gydytojų ir slaugos darbuotojų organizacijų, pacientų visuomeninių organizacijų ir kitų institucijų atstovų. Komisijos sudarymą ir veiklą nustato nuostatai, kuriuos tvirtina Sveikatos apsaugos ministerija.
-
-
-
-
-2. Ši komisija sprendžia pacientų prašymų dėl žalos atlyginimo pagrįstumą ir nustato kompensacijų dydį, atsižvelgdama į paciento darbingumo praradimo laipsnį ir trukmę, į sveikatos netekimo laipsnį. Komisijos sprendimai dėl žalos atlyginimo yra privalomi Valstybinei ligonių kasai.
-
-
-
-
-3. Komisijos veiklą kontroliuoja Sveikatos apsaugos ministerija, kitos Lietuvos Respublikos įstatymų nustatyta tvarka įgaliotos institucijos.
- 
-
-
-
-
-
-
-21 straipsnis. Komisijos teisė susipažinti su būtina informacija
-
-
-1. Komisijos nariai, nagrinėdami paciento prašymą dėl žalos atlyginimo, turi teisę susipažinti su reikalingais dokumentais. Sveikatos priežiūros įstaigų administracija, gydytojai, slaugos ir kiti darbuotojai komisijos prašymu privalo per penkias darbo dienas pateikti informaciją, dokumentus.
-
-
-
-
-2. Komisijos nariai, nagrinėdami paciento prašymą, privalo laikytis konfidencialumo.
- 
-
-
-
-
-
-
-22 straipsnis. Pacientų prašymų pateikimo ir komisijos sprendimų priėmimo tvarka
-
-
-1. Pacientų prašymai dėl žalos atlyginimo yra pateikiami ir nagrinėjami komisijos nuostatuose nustatyta tvarka.
-
-
-
-
-2. Paciento prašymas turi būti išnagrinėtas per tris mėnesius ir apie komisijos sprendimą pacientui turi būti pranešta raštu.
- 
-
-
-
-
-
-
-23 straipsnis. Komisijos sprendimų apskundimas
-
-
-Komisijos sprendimai gali būti skundžiami Sveikatos apsaugos ministerijai, o šios ministerijos sprendimai – teismui.
- 
-
-
-
-
-
-
-24 straipsnis. Atsakomybė už šio įstatymo pažeidimus
-
-
-Asmuo, pažeidęs šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-
-
-
-Skyriaus pakeitimai:
-Nr. VIII-755, 1998-05-21, Žin., 1998, Nr. 52-1425 (1998-06-05), i. k. 0981010ISTAVIII-755
- 
-
-
-
-
-V SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-25 straipsnis. Pacientų teisių ir žalos sveikatai atlyginimo įstatymo įsigaliojimas
+18 straipsnis. Įstatymo įsigaliojimas 
 
 
-1. Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo I, II ir III skyriai įsigalioja nuo 1997 m. gegužės 1 d.
-
-
-
-
-2. Neteko galios nuo 1998-06-05
-Straipsnio dalies naikinimas:
-Nr. VIII-755, 1998-05-21, Žin. 1998, Nr. 52-1425 (1998-06-05), i. k. 0981010ISTAVIII-755
+Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+ 
  
 
 
@@ -625,9 +489,15 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-755, 1998-05-21, Žin., 1998, Nr. 52-1425 (1998-06-05), i. k. 0981010ISTAVIII-755
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 25 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2361, 2004-07-13, Žin., 2004, Nr. 115-4284 (2004-07-24), i. k. 1041010ISTA0IX-2361
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo pakeitimo įstatymas
