@@ -490,6 +490,9 @@ labdaros ir paramos organizacijoms bei fondams;
 visuomeninėms organizacijoms, asociacijoms, asociacijų sąjungoms ir politinėms
 partijoms;
 5)
+valstybės ir savivaldybių įmonėms, organizuojančioms orlaivių skrydžius bei
+eksploatuojančioms oro uostus;
+6)
 kitiems subjektams, jei tai nustatyta įstatymuose arba tarptautinėse sutartyse.
 2.
 Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1
@@ -509,13 +512,15 @@ panaudos sutartį perduodamo turto naudojimo paskirtis, panaudos gavėjo pareiga
 savo lėšomis apdrausti gaunamą turtą ir kitos Civiliniame kodekse nustatytos
 panaudos sąlygos. Panaudos davėjas privalo nutraukti panaudos sutartį, jei
 panaudos gavėjas nesiverčia veikla, dėl kurios buvo perduotas valstybės ar
-savivaldybės turtas, ar šį turtą naudoja ne pagal paskirtį. Panaudos gavėjui,
-pagerinusiam pagal panaudos sutartį perduotą turtą, už pagerinimą neatlyginama.
+savivaldybės turtas, ar šį turtą naudoja ne pagal paskirtį. Panaudos gavėjui, pagerinusiam
+pagal panaudos sutartį perduotą turtą, už pagerinimą neatlyginama.
 Straipsnio
 pakeitimai:
 Nr.
 IX-2252,
 2004-06-01, Žin., 2004, Nr. 96-3520 (2004-06-19)
+Nr. IX-2543,
+2004-11-04, Žin., 2004, Nr. 168-6175 (2004-11-20)
  
 14
 straipsnis. Valstybės ir savivaldybių ilgalaikio materialiojo turto nuoma
@@ -626,9 +631,8 @@ užsienio valstybėms jų diplomatinėms ir konsulinėms įstaigoms įkurti, tai
 tarptautinėms organizacijoms jų atstovybėms įkurti bei sprendimą dėl šio
 straipsnio 1 dalies 3 punkte nurodyto užsienio valstybėje esančio turto
 pardavimo priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės
-institucija ar įstaiga, įgaliota sudaryti turto pirkimo–pardavimo sutartį.
-Parduodamas turtas turi būti įvertintas pagal Turto ir verslo vertinimo
-pagrindų įstatymą.
+institucija ar įstaiga, įgaliota sudaryti turto pirkimo–pardavimo sutartį. Parduodamas
+turtas turi būti įvertintas pagal Turto ir verslo vertinimo pagrindų įstatymą.
 3. Savivaldybės turtas savivaldybės tarybos sprendimu
 gali būti perduotas valstybės arba kitos savivaldybės nuosavybėn, kai yra
 atitinkamai Vyriausybės ar jos įgaliotos institucijos arba kitos savivaldybės
@@ -641,9 +645,9 @@ straipsnis. Valstybės ir savivaldybių turto mainai
 1.
 Pagal mainų sutartį valstybės ar savivaldybių institucijos, valstybės ar
 savivaldybės įmonės, įstaigos ir organizacijos turi teisę perleisti viena kitai
-joms patikėjimo teise priklausantį lygiavertį (iki 10 procentų vertės besiskiriantį)
-ilgalaikį ir trumpalaikį materialųjį turtą, jeigu šis turtas reikalingas
-valstybės ar savivaldybės funkcijoms įgyvendinti.
+joms patikėjimo teise priklausantį lygiavertį (iki 10 procentų vertės
+besiskiriantį) ilgalaikį ir trumpalaikį materialųjį turtą, jeigu šis turtas
+reikalingas valstybės ar savivaldybės funkcijoms įgyvendinti.
 2.
 Pagal mainų sutartį valstybės ar savivaldybės institucijos, valstybės ir
 savivaldybės įmonės, įstaigos ir organizacijos turi teisę perleisti kitiems
@@ -679,19 +683,19 @@ Valstybės ir savivaldybių turto investavimas – tai valstybei ar savivaldybei
 nuosavybės teise priklausančio turto, kaip įnašo, perdavimas steigiamai
 viešajai įstaigai, akcinei bendrovei ar uždarajai akcinei bendrovei, taip pat
 šio turto perdavimas didinant viešosios įstaigos kapitalą arba akcinės
-bendrovės ar uždarosios akcinės bendrovės įstatinį kapitalą, jei valstybė ir (ar)
-savivaldybė yra jų dalyvė. Gali būti investuojami pinigai, taip pat pagal Turto
-ir verslo vertinimo pagrindų įstatymą įvertintas ilgalaikis ir trumpalaikis
-materialusis turtas bei nematerialusis turtas.
+bendrovės ar uždarosios akcinės bendrovės įstatinį kapitalą, jei valstybė ir
+(ar) savivaldybė yra jų dalyvė. Gali būti investuojami pinigai, taip pat pagal
+Turto ir verslo vertinimo pagrindų įstatymą įvertintas ilgalaikis ir
+trumpalaikis materialusis turtas bei nematerialusis turtas.
 2.
 Sprendimą dėl valstybei nuosavybės teise priklausančio turto investavimo priima
 Vyriausybė. Sprendimą dėl savivaldybei nuosavybės teise priklausančio turto
 investavimo priima savivaldybės taryba. Prieš priimant tokį sprendimą būtina jį
 pagrįsti. 
 3.
-Valstybės ar savivaldybių turtas negali būti investuojamas įmonei ar
-vertybiniams popieriams įsigyti iš fizinių ir privačiųjų juridinių asmenų, taip
-pat privačiajam juridiniam asmeniui steigti, išskyrus šio ir kitų įstatymų
+Valstybės ar savivaldybių turtas negali būti investuojamas įmonei ar vertybiniams
+popieriams įsigyti iš fizinių ir privačiųjų juridinių asmenų, taip pat
+privačiajam juridiniam asmeniui steigti, išskyrus šio ir kitų įstatymų
 nustatytus atvejus.
 4.
 Valstybė ar savivaldybė gali turtą investuoti įsigydama steigiamos arba
@@ -799,9 +803,9 @@ turto
 panaudojimas ir nurašymas
 1.
 Panaudoti nereikalingą ar netinkamą (negalimą) naudoti valstybės ar
-savivaldybės nematerialųjį, ilgalaikį ir trumpalaikį materialųjį turtą,
-išskyrus šio Įstatymo 22 straipsnio 1 dalies 6 punkte nurodytą atvejį, galima
-šiais būdais:
+savivaldybės nematerialųjį, ilgalaikį ir trumpalaikį materialųjį turtą, išskyrus
+šio Įstatymo 22 straipsnio 1 dalies 6 punkte nurodytą atvejį, galima šiais
+būdais:
 1)
 perduodant patikėjimo teise iš vienos valstybės ar savivaldybių institucijos,
 valstybės ar savivaldybės įstaigos ar organizacijos kitai tokiai institucijai,
@@ -837,15 +841,14 @@ kenksmingumą, jei reikia. Likviduojamas ir nereikalingu arba netinkamu
 (negalimu) naudoti pripažintas nematerialusis turtas.
 3.
 Su valstybės paslaptis sudarančia informacija susijusio turto, kuris laikantis
-nustatytos valstybės paslaptis sudarančios informacijos apsaugos reikalavimų
-privalomai turi būti sunaikintas, kai tampa nereikalingas arba netinkamas
-(negalimas) naudoti, sąrašą sudaro naikintino turto valdytojas, t. y. paslapčių
-subjektais esančios valstybės ar savivaldybių institucijos bei jų steigiamos
-įmonės ir įstaigos, kurių veikla yra susijusi su įslaptintos informacijos
-naudojimu ar jos apsauga ir kurioms Valstybės ir tarnybos paslapčių įstatymo
-nustatyta tvarka suteikiama teisė įslaptinti bei išslaptinti informaciją,
-suderinusios jį su Lietuvos Respublikos paslapčių apsaugos koordinavimo
-komisija.
+nustatytos valstybės paslaptis sudarančios informacijos apsaugos reikalavimų privalomai
+turi būti sunaikintas, kai tampa nereikalingas arba netinkamas (negalimas)
+naudoti, sąrašą sudaro naikintino turto valdytojas, t. y. paslapčių subjektais
+esančios valstybės ar savivaldybių institucijos bei jų steigiamos įmonės ir
+įstaigos, kurių veikla yra susijusi su įslaptintos informacijos naudojimu ar
+jos apsauga ir kurioms Valstybės ir tarnybos paslapčių įstatymo nustatyta
+tvarka suteikiama teisė įslaptinti bei išslaptinti informaciją, suderinusios jį
+su Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija.
 4.
 Valstybės ar savivaldybės institucija, įmonė ar iš valstybės ar savivaldybės
 biudžeto išlaikoma įstaiga ar organizacija, panaudojusi turtą šio straipsnio 1
@@ -1008,8 +1011,8 @@ Nr.
 IX-1586,
 2003-05-27, Žin., 2003, Nr. 57-2534 (2003-06-13)
 VALSTYBĖS
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 11.
 Lietuvos
@@ -1018,8 +1021,8 @@ Nr.
 IX-1652,
 2003-06-26, Žin., 2003, Nr. 70-3165 (2003-07-16)
 VALSTYBĖS
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 4
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 4 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 12.
 Lietuvos
@@ -1031,11 +1034,20 @@ MOKESČIO ĮSTATYMO, VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR
 DISPONAVIMO JUO ĮSTATYMO IR VIEŠŲJŲ PIRKIMŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2543,
+2004-11-04, Žin., 2004, Nr. 168-6175 (2004-11-20)
+VALSTYBĖS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 13
+STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušra Bodin (2004-06-21)
+Aušrinė Trapinskienė (2004-11-22)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
