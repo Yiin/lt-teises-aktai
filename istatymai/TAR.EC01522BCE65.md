@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
+Suvestinė redakcija nuo 2001-01-01 iki 2001-05-08
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
+ 
 LIETUVOS RESPUBLIKOS SEIMO KONTROLIERIŲ Į S T A T Y M A S
  
 1998 m. gruodžio 3 d. Nr. VIII-950
@@ -889,7 +893,9 @@ Seimo kontrolieriai, vykdydami savo funkcijas, vadovaujasi Lietuvos Respublikos 
 
 
 
-2. Seimo kontrolierių padėjėjai yra valdininkai. Tirdami skundą Seimo kontrolieriaus pavedimu, jie turi šio straipsnio 1 dalies 1-4 punktuose išvardytas teises, išskyrus teisę pasitelkti policijos pareigūnus.
+2. Seimo kontrolierių padėjėjai yra valstybės tarnautojai. Tirdami skundą Seimo kontrolieriaus pavedimu, jie turi šio straipsnio 1 dalies 1–4 punktuose išvardytas teises, išskyrus teisę pasitelkti policijos pareigūnus.
+Straipsnio dalies pakeitimai:
+Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010ISTA00IX-123
  
 
 
@@ -931,7 +937,9 @@ Seimo kontrolieriai, vykdydami savo funkcijas, vadovaujasi Lietuvos Respublikos 
 
 
 
-3. Atleidus Seimo kontrolierių iš pareigų, išskyrus, kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė Seimo narių pareiškia nepasitikėjimą juo, Seimo kontrolieriui turi būti suteiktas iki tol turėtas darbas (pareigos) valstybės įmonėje, įstaigoje ar organizacijoje, išskyrus Vyriausybės nario, teisėjo ir renkamas pareigas. Jei buvusios pareigos panaikintos arba įmonė, įstaiga ar organizacija likviduota, turi būti suteiktas kitas tolygus darbas (pareigos) toje pačioje įmonėje, įstaigoje, organizacijoje arba, jeigu buvęs Seimo kontrolierius sutinka, kitoje valstybės įmonėje, įstaigoje, organizacijoje. Seimo kontrolierius taip pat turi teisę kreiptis į Valdymo reformų ir savivaldybių reikalų ministeriją, kuri turi informuoti buvusį Seimo kontrolierių apie laisvas valdininkų darbo vietas jo nuolatinėje gyvenamojoje vietoje. Prašymą suteikti iki tol turėtą arba tolygų darbą (pareigas) valstybės įmonėje, įstaigoje, organizacijoje Seimo kontrolierius privalo pateikti jos vadovui ne vėliau kaip per 10 dienų nuo jo atleidimo iš Seimo kontrolieriaus pareigų dienos. Apie galimybę patenkinti prašymą suteikti iki tol turėtą arba tolygų darbą (pareigas) valstybės įmonėje, įstaigoje, organizacijoje buvusiam Seimo kontrolieriui turi būti pranešta per 10 dienų nuo prašymo gavimo dienos.
+3. Atleidus Seimo kontrolierių iš pareigų, išskyrus, kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė Seimo narių pareiškia nepasitikėjimą juo, Seimo kontrolierius Valstybės tarnybos įstatymo nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.
+Straipsnio dalies pakeitimai:
+Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010ISTA00IX-123
  
 
 
@@ -964,3 +972,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010ISTA00IX-123
+Lietuvos Respublikos Seimo kontrolierių įstatymo 28 ir 30 straipsnių pakeitimo įstatymas
