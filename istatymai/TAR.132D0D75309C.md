@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2003-01-01 iki 2003-12-29
+Suvestinė redakcija nuo 2003-12-30 iki 2006-07-17
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
  
@@ -32,49 +32,52 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis Įstatymas nustato finansinės atskaitomybės sudarymo ir pateikimo tvarką, turto, nuosavo kapitalo ir įsipareigojimų įvertinimo sudarant finansinę atskaitomybę taisykles.
+1. Šis Įstatymas nustato finansinės atskaitomybės sudarymo ir pateikimo tvarką, turto, nuosavo kapitalo ir įsipareigojimų įvertinimo sudarant finansinę atskaitomybę taisykles.
+
+2. Šiuo Įstatymu siekiama finansinės atskaitomybės sudarymo ir pateikimo tvarką, turto, nuosavo kapitalo ir įsipareigojimų įvertinimo sudarant finansinę atskaitomybę reglamentavimą suderinti su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo priede.
+
+Straipsnio pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
  
 
 2 straipsnis. Įstatymo taikymas
 
-1. Šis Įstatymas taikomas juridinio asmens teises turinčioms ribotos civilinės atsakomybės pelno siekiančioms įmonėms (toliau – įmonės), įstatymų nustatyta tvarka įregistruotoms Lietuvos Respublikoje. 
+„1. Šis Įstatymas taikomas ribotos civilinės atsakomybės pelno siekiantiems juridiniams asmenims (toliau – įmonės), įstatymų nustatyta tvarka įregistruotiems Lietuvos Respublikoje.
 
-2. Jei finansinę atskaitomybę savo nuožiūra nusprendžia sudaryti juridinio asmens teises turinčios neribotos civilinės atsakomybės pelno siekiančios įmonės, kurių šis Įstatymas neįpareigoja jos sudaryti, finansinę atskaitomybę jos turi sudaryti pagal šio Įstatymo reikalavimus. 
+2. Jei finansinę atskaitomybę savo nuožiūra nusprendžia sudaryti tikroji ūkinė bendrija, komanditinė ūkinė bendrija ar individuali įmonė, kurių šis Įstatymas neįpareigoja jos sudaryti, finansinę atskaitomybę jos turi sudaryti pagal šio Įstatymo reikalavimus. 
 
-3. Ūkininkų ūkių finansinės atskaitomybės sudarymo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+3. Tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, kurių visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, privalo sudaryti finansinę atskaitomybę.
 
-4. Šis Įstatymas netaikomas bankams ir kitoms kredito įstaigoms, finansų įstaigoms, draudimo įmonėms, ne pelno juridiniams asmenims (biudžetinėms, viešosioms įstaigoms ir kitoms ne pelno organizacijoms). Jų finansinės atskaitomybės sudarymo ir pateikimo tvarką nustato Vyriausybė arba jos įgaliota institucija, jeigu jų veiklą reglamentuojantys įstatymai nenustato kitaip.
+4. Ūkininkų ūkių finansinės atskaitomybės sudarymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+5. Šis Įstatymas netaikomas bankams ir kitoms kredito įstaigoms, finansų įstaigoms, draudimo įmonėms, ne pelno juridiniams asmenims (biudžetinėms, viešosioms įstaigoms ir kitoms ne pelno organizacijoms). Jų finansinės atskaitomybės sudarymo ir pateikimo tvarką nustato Vyriausybė arba jos įgaliota institucija, jeigu jų veiklą reglamentuojantys įstatymai nenustato kitaip.
+
+Straipsnio pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
  
 
 3 straipsnis. Pagrindinės Įstatymo sąvokos
 
 1. Ataskaitinis laikotarpis – laikotarpis, kurio metinė arba tarpinė finansinė atskaitomybė rengiama.
 
-2. Buhalterinė apskaita (toliau – apskaita) – ūkinių operacijų ir ūkinių įvykių, išreikštų pinigais, registravimo, grupavimo ir apibendrinimo sistema, skirta gauti informaciją ekonominiams sprendimams priimti ir (arba) finansinei atskaitomybei sudaryti. 
+2. Finansiniai metai – laikotarpis, kurio metinė finansinė atskaitomybė rengiama.
 
-3. Finansiniai metai – laikotarpis, kurio metinė finansinė atskaitomybė rengiama.
+3. Inventorizacija – įmonių turto ir įsipareigojimų patikrinimas ir faktiškai rasto turto ir įsipareigojimų palyginimas su buhalterinės apskaitos duomenimis. 
 
-4. Inventorizacija – įmonių turto ir įsipareigojimų patikrinimas ir faktiškai rasto turto ir įsipareigojimų palyginimas su buhalterinės apskaitos duomenimis. 
+4. Finansinė atskaitomybė – finansinių duomenų apie įmonės finansinę būklę, veiklos rezultatus, pinigų srautus bei jų aiškinimo periodinis parengimas nustatyta forma.
 
-5. Įsipareigojimas – prievolė, atsirandanti dėl atliktų ūkinių operacijų ir ūkinių įvykių, už kuriuos įmonė privalės atsiskaityti turtu ir kurių dydį galima objektyviai nustatyti.
+5. Metinė finansinė atskaitomybė – finansinė atskaitomybė, parengta apibendrinus įmonės finansinių metų duomenis.
 
-6. Finansinė atskaitomybė – finansinių duomenų apie įmonės finansinę būklę, veiklos rezultatus, pinigų srautus bei jų aiškinimo periodinis parengimas nustatyta forma.
+6. Reikšminga informacija – informacija laikoma reikšminga, jei jos nepateikimas arba klaidingas pateikimas gali iškreipti finansinę atskaitomybę ir turėti įtakos informacijos vartotojų priimamiems sprendimams.
 
-7. Metinė finansinė atskaitomybė – finansinė atskaitomybė, parengta apibendrinus įmonės finansinių metų duomenis.
+7. Straipsnis – eilutė finansinėse ataskaitose.
 
-8. Nuosavas kapitalas – įmonės turto dalis, likusi iš viso turto atėmus visus įsipareigojimus.
+8. Tarpinė finansinė atskaitomybė – finansinė atskaitomybė, parengta apibendrinus laikotarpio, trumpesnio negu finansiniai metai, duomenis.
 
-9. Pajamos – ekonominės naudos padidėjimas per ataskaitinį laikotarpį, t. y. įmonės turto padidėjimas arba įsipareigojimų sumažėjimas, kai dėl to padidėja nuosavas kapitalas, išskyrus papildomus savininkų įnašus.
+9. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos buhalterinės apskaitos įstatyme.
 
-10. Reikšminga informacija – informacija laikoma reikšminga, jei jos nepateikimas arba klaidingas pateikimas gali iškreipti finansinę atskaitomybę ir turėti įtakos informacijos vartotojų priimamiems sprendimams.
-
-11. Sąnaudos – ekonominės naudos sumažėjimas dėl turto sunaudojimo, turto pardavimo, turto netekimo arba turto vertės sumažėjimo ar įsipareigojimų prisiėmimo per ataskaitinį laikotarpį, kai dėl to sumažėja nuosavas kapitalas, išskyrus tiesioginį jo mažinimą. 
-
-12. Straipsnis – lėšų pozicija balanse.
-
-13. Tarpinė finansinė atskaitomybė – finansinė atskaitomybė, parengta apibendrinus laikotarpio, trumpesnio negu finansiniai metai, duomenis.
-
-14. Turtas – materialiosios, nematerialiosios ir finansinės vertybės, kurias valdo ir naudoja ir (arba) kuriomis disponuoja įmonė, ir kurias naudojant tikimasi gauti ekonominės naudos.
+Straipsnio pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
  
 
 ANTRASIS SKIRSNIS
@@ -83,7 +86,10 @@ BENDRIEJI APSKAITOS PRINCIPAI
 
 4 straipsnis. Bendrųjų apskaitos principų taikymas sudarant finansinę atskaitomybę
 
-1. Finansinė atskaitomybė turi būti sudaryta taip, kad teisingai atspindėtų įmonės turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir sąnaudas.
+1. Finansinė atskaitomybė turi būti sudaryta taip, kad tikrai ir teisingai parodytų įmonės turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir sąnaudas.
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+ 
 
 2. Visos įmonės, tvarkydamos apskaitą ir sudarydamos finansinę atskaitomybę, vadovaujasi šiais bendraisiais apskaitos principais:
 
@@ -135,7 +141,9 @@ BENDRIEJI APSKAITOS PRINCIPAI
 
 1. Įmonė pasirinktą apskaitos metodą turi taikyti kiekvienais finansiniais metais.
 
-2. Apskaitos metodą galima keisti tik tuo atveju, jeigu tuo siekiama teisingai atspindėti įmonės finansinių metų turtą, nuosavą kapitalą ir įsipareigojimus.
+2. Apskaitos metodą galima keisti tik tuo atveju, jeigu tuo siekiama teisingai parodyti įmonės finansinių metų turtą, nuosavą kapitalą ir įsipareigojimus. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
  
 
 9 straipsnis. Piniginio mato principas
@@ -182,9 +190,15 @@ TAR pastaba. Skirsnis įsigalioja 2004-01-01.
 
 3. Įregistruotos naujos įmonės parengia ūkinės veiklos pradžios balansą, kuriame turi būti nurodytas įmonės veiklos pradžioje buvęs turtas, nuosavas kapitalas ir įsipareigojimai.
 
-4. Finansinė atskaitomybė sudaroma vadovaujantis bendraisiais apskaitos principais, šiuo Įstatymu ir Verslo apskaitos standartais.
+4. Finansinė atskaitomybė sudaroma vadovaujantis šiuo Įstatymu, Verslo apskaitos standartais ir kitais teisės aktais. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+ 
 
-5. Įmonės, kurių vertybiniai popieriai yra įtraukti į Vertybinių popierių biržos prekybos sąrašus, tvarko apskaitą ir finansinę atskaitomybę sudaro pagal Tarptautinius apskaitos standartus.
+5. Įmonės, kurių vertybiniais popieriais prekiaujama reguliuojamose rinkose, tvarko apskaitą ir finansinę atskaitomybę sudaro pagal Tarptautinius apskaitos standartus. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+ 
 
 6. Finansinės atskaitomybės aiškinamajame rašte turi būti nurodyta, pagal kokius standartus ji sudaryta. 
 
@@ -198,16 +212,24 @@ TAR pastaba. Skirsnis įsigalioja 2004-01-01.
 
 11. Finansinę atskaitomybę įmonės sudaro pagal finansinių metų paskutinės dienos duomenis. Įvykiai, buvę nuo finansinių metų pabaigos iki finansinės atskaitomybės parengimo, registruojami Verslo apskaitos standartuose nustatyta tvarka. Jei yra priimtas sprendimas likviduoti ar reorganizuoti įmonę, ta įmonė turi parengti balansą ir pagal sprendimo priėmimo dienos duomenis, ir pagal likvidavimo bei reorganizavimo dienos duomenis.
 
-12. Kai bendrųjų apskaitos principų ir kitų šio Įstatymo reikalavimų bei Verslo apskaitos standartų neužtenka, kad finansinė atskaitomybė teisingai atspindėtų įmonės finansinių metų turtą, savininkų nuosavybę, įsipareigojimus, pajamas ir sąnaudas, turi būti pateikta papildoma informacija.
+12. Kai bendrųjų apskaitos principų ir kitų šio Įstatymo reikalavimų bei Verslo apskaitos standartų neužtenka, kad finansinė atskaitomybė tikrai ir teisingai parodytų įmonės finansinių metų turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir sąnaudas, turi būti pateikta papildoma informacija. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+ 
 
-13. Jeigu taikant bendruosius apskaitos principus ir Verslo apskaitos standartus sudaryta finansinė atskaitomybė teisingai neatspindėtų įmonės finansinių metų turto, nuosavo kapitalo ir įsipareigojimų, nuo Verslo apskaitos standartų galima nukrypti, kad būtų įvykdytas šio Įstatymo 4 straipsnio 1 dalies reikalavimas. Kiekvienas nukrypimas nuo Verslo apskaitos standartų, jo priežastys ir poveikis įmonės turtui, nuosavam kapitalui ir įsipareigojimams aptariamas aiškinamajame rašte.
+13. Išskirtiniais atvejais, kai taikant bendruosius apskaitos principus ir Verslo apskaitos standartus sudaryta finansinė atskaitomybė prieštarauja šio Įstatymo 4 straipsnio 1 dalies reikalavimams, nuo Verslo apskaitos standartų ir bendrųjų apskaitos principų galima nukrypti, kad būtų įvykdytas šio Įstatymo 4 straipsnio 1 dalies reikalavimas tikrai ir teisingai parodyti įmonės finansinių metų turtą, nuosavą kapitalą ir įsipareigojimus. Kiekvienas nukrypimas nuo Verslo apskaitos standartų, jo priežastys ir poveikis įmonės turtui, nuosavam kapitalui ir įsipareigojimams aptariamas aiškinamajame rašte.
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
  
 
 16 straipsnis. Finansiniai metai
 
 1. Įmonės finansiniai metai trunka 12 mėnesių. Įmonės pasirenka finansinius metus atsižvelgdamos į savo veiklos pobūdį. 
 
-2. Finansiniai metai gali būti keičiami ne dažniau kaip vieną kartą per penkerius metus. Finansinių metų keitimas gali būti susijęs tik su įmonės veiklos pobūdžio pasikeitimu.
+2. Finansiniai metai gali būti keičiami dėl įmonės veiklos pobūdžio pasikeitimo (ne dažniau kaip vieną kartą per penkerius metus) arba dėl finansinės atskaitomybės konsolidavimo (šiuo atveju dukterinei įmonei leidžiama keisti finansinius metus ir suderinti su patronuojančios įmonės finansiniais metais). 
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+ 
 
 3. Įmonės, kuri pradeda ūkinę veiklą, yra reorganizuojama, likviduojama arba keičia finansinius metus, finansiniai metai gali būti trumpesni arba ilgesni negu 12 mėnesių, bet negali viršyti 18 mėnesių.
  
@@ -230,14 +252,24 @@ Po metinės finansinės atskaitomybės patvirtinimo paaiškėjusių klaidų tais
 
 19 straipsnis. Finansinės atskaitomybės pasirašymas ir tvirtinimas
 
-1. Įmonės finansinę atskaitomybę pasirašo įmonės administracijos vadovas. Neribotos civilinės atsakomybės įmonėse, kurios sudaro finansinę atskaitomybę pagal šį Įstatymą ir kurios neturi administracijos vadovo, finansinę atskaitomybę pasirašo savininkas.
+1. Įmonės finansinę atskaitomybę pasirašo įmonės vadovas (nurodomos jo pareigos, vardas ir pavardė). Neribotos civilinės atsakomybės įmonėse, kurios sudaro finansinę atskaitomybę pagal šį Įstatymą, finansinę atskaitomybę pasirašo turintis (turintys) teisę veikti įmonės vardu asmuo (asmenys) (nurodomos jo (jų) pareigos, vardas ir pavardė).
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+ 
 
 2. Finansinė atskaitomybė tvirtinama įmonės įstatuose nustatyta tvarka.
  
 
 20 straipsnis. Metinės finansinės atskaitomybės skelbimas
 
-Įmonės patvirtintą metinę finansinę atskaitomybę kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas) skelbia viešai įstatymų nustatyta tvarka.
+1. Įmonės patvirtintą metinę finansinę atskaitomybę kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas arba pagal įstatymus privalo būti atliktas) skelbia viešai įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka.
+
+2. Skelbiama visa metinė finansinė atskaitomybė turi būti tokios formos ir toks jos tekstas, pagal kurį buvo parengta auditoriaus išvada. Prie skelbiamos metinės finansinės atskaitomybės turi būti pridėta visa auditoriaus išvada. 
+
+3. Kai teisės aktų nustatytais atvejais ir tvarka skelbiama ne visa metinė finansinė atskaitomybė, turi būti nurodyta, kad skelbiama sutrumpinta metinė finansinė atskaitomybė ir kur galima susipažinti su visa metine finansine atskaitomybe. Šiuo atveju turi būti pridėtas auditoriaus pranešimas, kokia nuomonė buvo pateikta auditoriaus išvadoje.
+
+Straipsnio pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
  
 
 KETVIRTASIS SKIRSNIS
@@ -270,7 +302,9 @@ Finansinę atskaitomybę sudaro šios finansinės ataskaitos:
 
 4. Nuosavo kapitalo pokyčių ataskaita – finansinė ataskaita, kurioje nurodomas nuosavo kapitalo padidėjimas ir sumažėjimas per finansinius metus.
 
-5. Aiškinamasis raštas – metinės finansinės atskaitomybės dalis, kurioje paaiškinamos balanse, pelno (nuostolių), pinigų srautų ir nuosavo kapitalo pokyčių ataskaitose nurodytos sumos arba pateikiama išsami jų analizė, taip pat papildoma informacija, kurios nereikalaujama pateikti finansinės atskaitomybės ataskaitose. Į aiškinamąjį raštą įtraukiama Verslo apskaitos standartų reikalaujama pateikti informacija, taip pat kita informacija, kuri būtina teisingai atspindėti įmonės finansinę būklę. 
+5. Aiškinamasis raštas – metinės finansinės atskaitomybės dalis, kurioje paaiškinamos balanse, pelno (nuostolių), pinigų srautų ir nuosavo kapitalo pokyčių ataskaitose nurodytos sumos arba pateikiama išsami jų analizė, taip pat papildoma informacija, kurios nereikalaujama pateikti finansinės atskaitomybės ataskaitose. Į aiškinamąjį raštą įtraukiama Verslo apskaitos standartų reikalaujama pateikti informacija, taip pat kita informacija, kuri būtina tikrai ir teisingai parodyti įmonės finansinę būklę ir veiklos rezultatus.
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
  
 
 23 straipsnis. Finansinės atskaitomybės ataskaitų įforminimo bendrieji reikalavimai 
@@ -288,37 +322,32 @@ Finansinę atskaitomybę sudaro šios finansinės ataskaitos:
 
 24 straipsnis. Finansinės atskaitomybės ataskaitų formos
 
-1. Finansinėje atskaitomybėje gali būti pateiktos pilnos, sutrumpintos arba trumpos balanso, pelno (nuostolių) ir pinigų srautų ataskaitos.
+1. Finansinėje atskaitomybėje gali būti pateiktos pilnos balanso, pelno (nuostolių) ir pinigų srautų ataskaitos arba trumpos balanso ir pelno (nuostolių) ataskaitos.
 
-2. Finansinės atskaitomybės pavyzdines ataskaitas, įskaitant pilnas, sutrumpintas ir trumpas balanso, pelno (nuostolių) ir pinigų srautų ataskaitas, nustato Verslo apskaitos standartai. 
+2. Finansinės atskaitomybės pavyzdinių ataskaitų formas nustato Verslo apskaitos standartai. 
 
-3. Valstybės ir savivaldybės įmonių finansinės atskaitomybės pavyzdines ataskaitas nustato Vyriausybė arba jos įgaliota institucija.
+3. Valstybės ir savivaldybės įmonių finansinės atskaitomybės pavyzdinių ataskaitų formas nustato Vyriausybė arba jos įgaliota institucija.
 
-4. Metinę finansinę atskaitomybę sutrumpintų balanso, pelno (nuostolių) ir pinigų srautų ataskaitų forma sudaro įmonės, kurių ne mažiau kaip du rodikliai finansinės atskaitomybės sudarymo dieną neviršija šių dydžių dvejus metus iš eilės, įskaitant ataskaitinius finansinius metus:
+4. Pardavimo grynąsias pajamas sudaro ataskaitiniais finansiniais metais pardavus prekes ir paslaugas uždirbtos pajamos, iš kurių atimtos grąžintų prekių, nukainojimo, nuolaidų sumos ir PVM. 
 
-1) pardavimo grynosios pajamos per ataskaitinius metus – 10 mln. litų;
+5. Vidutinis metų sąrašinis darbuotojų skaičius apskaičiuojamas Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
+
+6. Metinę finansinę atskaitomybę trumpų balanso, pelno (nuostolių) ataskaitų forma sudaro įmonės, kurių ne mažiau kaip du rodikliai finansinės atskaitomybės sudarymo dieną neviršija šių dydžių dvejus metus iš eilės, įskaitant ataskaitinius finansinius metus:
+
+1) pardavimo grynosios pajamos per ataskaitinius metus – 7 mln. litų;
 
 2) balanse nurodyto turto vertė – 5 mln. litų;
 
-3) vidutinis metų sąrašinis darbuotojų skaičius per ataskaitinius metus – 250 žmonių.
+3) vidutinis metų sąrašinis darbuotojų skaičius per ataskaitinius metus – 10 žmonių.
 
-5. Pardavimo grynąsias pajamas sudaro ataskaitiniais finansiniais metais pardavus prekes ir paslaugas uždirbtos pajamos, iš kurių atimtos grąžintų prekių, nukainojimo, nuolaidų sumos ir PVM. 
+7. Šio straipsnio 6 dalyje nurodytos įmonės gali sudaryti finansinę atskaitomybę be pinigų srautų ataskaitos.
 
-6. Vidutinis metų sąrašinis darbuotojų skaičius apskaičiuojamas Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
+8. Įmonės, kurios sudaro šio straipsnio 6 dalyje nurodytą finansinę atskaitomybę, savo nuožiūra arba prireikus gali rengti pilnas finansinės atskaitomybės ataskaitas.
 
-7. Metinę finansinę atskaitomybę trumpų balanso, pelno (nuostolių) ir pinigų srautų ataskaitų forma sudaro įmonės, kurių ne mažiau kaip du rodikliai finansinės atskaitomybės sudarymo dieną neviršija šių dydžių dvejus metus iš eilės, įskaitant ataskaitinius finansinius metus:
+9. Šio straipsnio 6 dalyje nenurodytos įmonės parengia pilnas balanso, pelno (nuostolių) ir pinigų srautų ataskaitas. 
 
-1) pardavimo grynosios pajamos per ataskaitinius metus – 1 mln. litų;
-
-2) balanse nurodyto turto vertė – 500 000 litų;
-
-3) vidutinis metų sąrašinis darbuotojų skaičius per ataskaitinius metus – 50 žmonių.
-
-8. Šio straipsnio 7 dalyje nurodytos įmonės gali sudaryti finansinę atskaitomybę be pinigų srautų ataskaitos.
-
-9. Įmonės, kurios sudaro šio straipsnio 4 ir 7 dalyse nurodytą finansinę atskaitomybę, savo nuožiūra arba prireikus gali atitinkamai rengti sutrumpintas arba pilnas finansinės atskaitomybės ataskaitas.
-
-10. Įmonės, kurios nesudaro šio straipsnio 4 arba 7 dalyse nurodytų finansinės atskaitomybės ataskaitų, parengia pilnas balanso, pelno (nuostolių) ir pinigų srautų ataskaitas.
+Straipsnio pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
  
 
 PENKTASIS SKIRSNIS
@@ -330,7 +359,10 @@ TAR pastaba. Skirsnis įsigalioja 2004-01-01.
 
 1. Sudarydamos finansinę atskaitomybę, įmonės įvertina turtą, nuosavą kapitalą ir įsipareigojimus vadovaudamosi bendraisiais apskaitos principais ir Verslo apskaitos standartais.
 
-2. Nuo Verslo apskaitos standartų, kurių taikymas prieštarautų šio Įstatymo 4 straipsnio 1 dalies nuostatoms, galima nukrypti. Visi tokio pobūdžio nukrypimai, taip pat jų priežastys ir poveikis įmonės turtui, nuosavam kapitalui ir įsipareigojimams turi būti aptarti aiškinamajame rašte.
+2. Nuo bendrųjų apskaitos principų ir Verslo apskaitos standartų išskirtiniais atvejais galima nukrypti, jeigu pagal Verslo apskaitos standartus ir bendruosius apskaitos principus parengta finansinė atskaitomybė prieštarauja šio Įstatymo 4 straipsnio 1 dalies nuostatoms. Visi tokio pobūdžio nukrypimai, taip pat jų priežastys ir poveikis įmonės turtui, nuosavam kapitalui ir įsipareigojimams turi būti aptarti aiškinamajame rašte.
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+ 
 
 3. Kiekvienas turto, nuosavo kapitalo ir įsipareigojimų straipsnis vertinamas atskirai. Ilgalaikio bei trumpalaikio turto, nuosavo kapitalo, ilgalaikių ir trumpalaikių įsipareigojimų, pajamų ir sąnaudų straipsnių tarpusavio užskaitos negali būti atliekamos, išskyrus Verslo apskaitos standartuose nurodytus atvejus.
 
@@ -343,7 +375,12 @@ FINANSINĖS ATSKAITOMYBĖS SAUGOJIMAS
 
 26 straipsnis. Finansinės atskaitomybės saugojimo tvarka
 
-Finansinės atskaitomybės saugojimo tvarką nustatyto Buhalterinės apskaitos įstatymas.
+26 straipsnis. Finansinės atskaitomybės saugojimo tvarka
+
+Finansinės atskaitomybės saugojimo tvarką nustato Buhalterinės apskaitos įstatymas.
+
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
  
 
 27 straipsnis. Finansinės atskaitomybės perimamumas 
@@ -359,7 +396,9 @@ ATSAKOMYBĖ UŽ FINANSINĖS ATSKAITOMYBĖS SUDARYMĄ
 
 1. Asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
 
-2. Už įmonės finansinę atskaitomybę, kuri neatitinka šio Įstatymo reikalavimų, atsako įmonės administracijos vadovas.
+2. Už įmonės finansinės atskaitomybės sudarymą ir pateikimą laiku atsako įmonės vadovas, o neribotos civilinės atsakomybės įmonėse, jeigu jos finansinę atskaitomybę sudaro pagal šį Įstatymą, – turintis (turintys) teisę veikti įmonės vardu asmuo (asmenys).
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
  
 
 AŠTUNTASIS SKIRSNIS
@@ -370,7 +409,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 1. Įstatymas įsigalioja nuo 2003 m. sausio 1 d., išskyrus trečiąjį, ketvirtąjį ir penktąjį skirsnius.
 
-2. Įstatymo trečiasis, ketvirtasis ir penktasis skirsniai įsigalioja nuo 2004 m. sausio 1 d.
+2. Įstatymo trečiasis, ketvirtasis ir penktasis skirsniai įsigalioja nuo 2004 m. sausio 1 d., išskyrus 15 straipsnio 5 dalį, kuri įsigalioja nuo 2005 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+ 
 
 3. Pagal šį Įstatymą rengiama 2004 metų ir vėlesnių metų įmonių finansinė atskaitomybė.
 
@@ -388,10 +430,35 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+Lietuvos Respublikos
+2001 m. lapkričio 6 d.
+įstatymo Nr. IX-575
+Priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+1. 1978 m. liepos 25 d. Ketvirtoji Tarybos direktyva 78/660/ EEB, grindžiama Europos ekonominės bendrijos steigimo sutarties 54 straipsnio 3 dalies g punktu, dėl tam tikrų tipų bendrovių metinių atskaitomybių.
+
+2. 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1606/2002 dėl Tarptautinių apskaitos standartų taikymo.
+
+3. 2003 m. rugsėjo 29 d. Europos Bendrijų Komisijos reglamentas (EB) 1725/2003 dėl pagal 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 priimtų Tarptautinių apskaitos standartų. 
+
+Papildyta priedu:
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+ 
+
+ 
+ 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1261, 2002-12-10, Žin., 2002, Nr. 123-5546 (2002-12-24), i. k. 1021010ISTA0IX-1261
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 29 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 1, 2, 3, 4, 8, 15, 16, 19, 20, 22, 24, 25, 26, 28, 29 straipsnių pakeitimo bei papildymo ir Įstatymo papildymo priedu įstatymas
 
