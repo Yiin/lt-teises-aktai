@@ -30,12 +30,21 @@ RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES
  BENDROVIŲ IR JŲ
 VEIKLOS SRIČIŲ" PAPILDYMO
  
- ***Pabaiga*** 
+ 2.
+ Parlamentas,
+Įstatymas
+ Nr. I-1409,
+96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
+ LIETUVOS
+RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES 
+ BENDROVIŲ IR JŲ
+VEIKLOS SRIČIŲ"  PAKEITIMO ĮSTATYMAS
+ 
+***Pabaiga*** 
  
                     
 LIETUVOS RESPUBLIKOS
-                           
-ĮSTATYMAS
+                            ĮSTATYMAS
  
                 
 1995 m. vasario 15 d. Nr.I-794
@@ -72,14 +81,40 @@ akcines bendroves. 
 Visos valstybei  priklausančios akcijos šiose
 bendrovėse turi
 balsavimo teisę.
-     Uždrausti
-įmonėms,  įrašytoms į  šio  įstatymo  2  priedėlį,
-kaupti ir  didinti
-šiose  įmonėse  fizinių  ir  juridinių  asmenų
-akcinį  kapitalą  
-kitaip   negu   pagal   Lietuvos   Respublikos
-valstybinio turto
-pirminio privatizavimo įstatymą.
+     Įmonės,  
+įrašytos    į  šio    įstatymo   2   priedėlį   ir
+reorganizuotos   į  
+specialios  paskirties   bendroves,  Akcinių
+bendrovių  įstatymo 
+nustatyta  tvarka  gali   didinti   įstatinį
+kapitalą  tik iš
+bendrovės lėšų.  Didinti  įstatinį  kapitalą  iš
+juridinių   ir  
+fizinių   asmenų,  valstybės    ir  savivaldybės
+papildomų  įnašų 
+galima  Akcinių  bendrovių  įstatymo  nustatyta
+tvarka  tik  
+Vyriausybei   priėmus  nutarimą.  Šioms  specialios
+paskirties  
+bendrovėms  įstatinį  kapitalą  didinti  papildomais
+įnašais  leidžiama, 
+kai  visos perkainojimo rezervo  lėšos   yra
+panaudotos  
+įstatiniam  kapitalui  didinti ir  bendrovės  įstatų
+pakeitimai   dėl  
+įstatinio   kapitalo  padidinimo  įregistruoti
+Įmonių  rejestro
+įstatymo  nustatyta  tvarka.  Įstatinį  kapitalą
+didinti  
+perkainojimo   rezervo    lėšomis   galima   ir   esant
+nepadengtiems
+bendrovės finansinėje ataskaitomybėje apskaitytiems
+bendrovės  
+nuostoliams. Didinant įstatinį kapitalą  iš papildomų
+įnašų,  naujų 
+akcijų  emisijos  kainą  ir turtinių  įnašų vertę 
+tvirtina Vyriausybė.
+
      Uždrausti
 įmonėms,  įrašytoms į  šio įstatymo  2 priedėlį ir
 reorganizuotoms į
@@ -88,34 +123,28 @@ specialios 
 bendrovės  statusą,  reorganizuotis  kitaip,  kaip  į
 specialios
 paskirties bendroves.
-     Lietuvos 
-valstybinei  energetikos  sistemai  (įmonės  kodas
-2055155) 
-papildomai   taikomos  ir  šio  įstatymo  3  straipsnio
-nuostatos.
  
-     3 straipsnis. 
-Nustatyti  Lietuvos  valstybinės  energetikos
-sistemos (įmonės 
-kodas 2055155)  privatizavimo pagal Valstybinio
-turto pirminio 
-privatizavimo įstatymą  laipsnį - iki 15 procentų
-įstatinio kapitalo.
-     Uždrausti
-Lietuvos  valstybinei energetikos sistemai (įmonės
-kodas 2055155), 
-reorganizuotai į specialios paskirties bendrovę,
-iki 2000 metų
-mažinti valstybei priklausančių akcijų dalį.
+Straipsnio
+pakeitimai:
+Nr. I-1409,
+96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
  
-     4  
+     3 straipsnis.
+(Panaikintas) 
+ 
+Straipsnio
+pakeitimai:
+Nr. I-1409, 96.06.27,
+Žin., 1996, Nr.62-1468 (96.07.02)
+ 
+     3  
 straipsnis.    Valstybinių   įmonių   įstatai   iki   jų
 perregistravimo  
 pagal   Lietuvos   Respublikos   valstybės   ir
 savivaldybės įmonių
 įstatymą, taip pat valstybinių ir valstybinių
-akcinių  įmonių 
-įstatai  iki  šių  įmonių  reorganizavimo  pagal
+akcinių  įmonių  įstatai 
+iki  šių  įmonių  reorganizavimo  pagal
 Akcinių bendrovių 
 įstatymą galioja tiek, kiek jie neprieštarauja
 Valstybės ir
@@ -127,13 +156,19 @@ pagal Akcinių bendrovių įstatymą galioja tiek,
 kiek jie
 neprieštarauja Akcinių bendrovių įstatymui.
  
+Straipsnio žymėjimas
+pakeistas:
+Nr. I-1409,
+96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
+ 
+ 
      Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS
-PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                      
+ALGIRDAS BRAZAUSKAS
  
  
                                        
@@ -142,8 +177,8 @@ Lietuvos Respublikos
 1995 m. vasario 15 d.
                                        
 įstatymo Nr.I-794
-                                        1
-priedėlis
+                    
+                   1 priedėlis
  
  
                
@@ -154,8 +189,8 @@ specialios paskirties bendrovių,
 s ą r a š a s
  
 _________________________________________________________________
-Veiklos kodas           
-Veiklos pavadinimas
+Veiklos kodas            Veiklos
+pavadinimas
 _________________________________________________________________
  
                           
@@ -164,7 +199,8 @@ _________________________________________________________________
 grunto daržininkystė
 012100    Galvijų,
 avių, ožkų, arklių, kiaulių veisimas
-014003    Dirbtinis sėklinimas
+014003    Dirbtinis
+sėklinimas
  
                          
 Miškininkystė
@@ -191,7 +227,7 @@ spirito gamyba
 155104    Vyno ir
 šampano gamyba
  
-          Leidyba,
+          Leidyba,
 poligrafijos pramonė ir spausdinimas
 221100    Leidinių
 leidimas
@@ -232,7 +268,7 @@ gaminių iš stiklo gamyba
 292700    Ginklų
 gamyba
  
-      Medicinos
+      Medicinos
 prietaisų, tikslių ir optinių instrumentų,
              
 rankinių ir kitokių laikrodžių gamyba
@@ -256,7 +292,7 @@ neįtrauktų į kitas kategorijas, gamyba
 369910    Vaizdinių
 mokymo priemonių gamyba
  
-                 Elektros
+                 Elektros
 energijos, dujų, garo
                   
 ir karšto vandens tiekimas
@@ -294,8 +330,8 @@ gatvių tiesimas
 452012   
 Geležinkelių tiesimas
 454009    Remontas
-454010    Restauravimo
-darbai
+454010   
+Restauravimo darbai
  
                  
 Didmeninė ir komisinė prekyba
@@ -335,8 +371,8 @@ prekyba farmacijos prekėmis
 prekyba medicinos ir ortopedinėmis prekėmis
 523105    Mažmeninė
 prekyba ne vaistinės paskirties stipriai
-         
-veikiančiomis ir nuodingosiomis medžiagomis
+          veikiančiomis
+ir nuodingosiomis medžiagomis
 523903    Mažmeninė
 prekyba knygomis
 523913    Mažmeninė
@@ -397,7 +433,7 @@ ir eksploatacija
 priežiūra ir remontas
 630311    Oro uostų
 aptarnavimas
-630312    Jūrų uostų
+630312    Jūrų uostų
 aptarnavimas
  
                        
@@ -410,8 +446,8 @@ Nacionalinio pašto veikla
 ir konstravimo - bandomieji darbai
 731011    Tyrimai ir
 konstravimo - bandomieji darbai vidaus
-          reikalų, krašto
-apsaugos ir saugumo sistemai
+          reikalų,
+krašto apsaugos ir saugumo sistemai
 731012    Tyrimai
 architektūros srityje
  
@@ -487,8 +523,8 @@ priežiūra
 paslaugos
 930401    Pirčių
 paslaugos
-930406    Prekyviečių
-(turgaviečių) paslaugos
+930406   
+Prekyviečių (turgaviečių) paslaugos
  
 Priedėlio
 pakeitimai:
@@ -499,8 +535,8 @@ Nr. I-1091,
 Lietuvos Respublikos
                                        
 1995 m. vasario 15 d.
-                                        įstatymo
-Nr.I-794
+                            
+           įstatymo Nr.I-794
                                        
 2 priedėlis
  
@@ -529,7 +565,7 @@ Valstybinė įmonė "Lietuvos dujos"
 Valstybinė įmonė "Lietuvos geležinkeliai"
 4035584       
 Lietuvos jūrų laivininkystė
-2005728        Valstybinė
+2005728        Valstybinė
 įmonė "Vilniaus degtinė"
 3208278       
 Valstybinė bendrovė "Stumbras"
@@ -567,8 +603,8 @@ Birštono valstybinė vandens tiekimo įmonė
  
 5300599       
 Valstybinė Naujosios Akmenės šilumos ir vandens
-               tiekimo
-įmonė
+              
+tiekimo įmonė
 5413866       
 Anykščių valstybinė vandens tiekimo įmonė
 5414164       
@@ -577,7 +613,7 @@ Kavarsko valstybinė vandens perkėlimo įmonė
 Ignalinos valstybinė vandens tiekimo įmonė
 5656435       
 Jonavos valstybinė vandens tiekimo įmonė
-5753195        Joniškio
+5753195        Joniškio
 valstybinė vandens tiekimo įmonė
 5883472       
 Kaišiadorių valstybinė vandens tiekimo įmonė
@@ -586,8 +622,8 @@ Kaišiadorių valstybinė vandens tiekimo įmonė
                įmonė
 6118642       
 Kėdainių valstybinė vandens tiekimo įmonė
-6243382       
-Kelmės valstybinė vandens tiekimo įmonė
+6243382        Kelmės
+valstybinė vandens tiekimo įmonė
 6399442       
 Kretingos valstybinė vandens tiekimo įmonė
 6517137       
@@ -623,8 +659,8 @@ Tauragės valstybinė vandens tiekimo įmonė
 Telšių valstybinė vandens tiekimo įmonė
 8274336       
 Ukmergės valstybinė vandens tiekimo įmonė
-8363398        Utenos
-valstybinė vandens tiekimo įmonė
+8363398       
+Utenos valstybinė vandens tiekimo įmonė
 8459818       
 Varėnos valstybinė vandens tiekimo įmonė
 4703879       
