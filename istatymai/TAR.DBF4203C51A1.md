@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DBF4203C51A1"
 
 # Lietuvos Respublikos nacionalinės teismų administracijos įstatymas
 
+Suvestinė redakcija nuo 2004-04-24 iki 2008-08-31
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 31-1130, i. k. 1021010ISTA00IX-787
+ 
 LIETUVOS RESPUBLIKOS NACIONALINĖS TEISMŲ ADMINISTRACIJOS Į S T A T Y M A S
  
 2002 m. kovo 14 d. Nr. IX-787
@@ -62,7 +66,10 @@ Vilnius
 
 
 
-2) sudaro ir tvarko su Nacionalinės teismų administracijos veikla susijusias duomenų bazes;
+2) sudaro ir tvarko su Nacionalinės teismų administracijos veikla susijusias duomenų bazes, dalyvauja kuriant ir diegiant teismuose informacines sistemas, atlieka jų administravimą ir tobulinimą;
+Straipsnio punkto pakeitimai:
+Nr. IX-2109, 2004-04-08, Žin., 2004, Nr. 60-2119 (2004-04-24), i. k. 1041010ISTA0IX-2109
+ 
 
 
 
@@ -77,7 +84,15 @@ Vilnius
 
 
 
-5) analizuoja teismų darbo sąlygas.
+5) analizuoja teismų darbo sąlygas;
+
+
+
+
+6) atlieka vidaus auditą apylinkių, apygardų, apygardų administraciniuose teismuose, taip pat Nacionalinėje teismų administracijoje.
+Papildyta straipsnio punktu:
+Nr. IX-2109, 2004-04-08, Žin., 2004, Nr. 60-2119 (2004-04-24), i. k. 1041010ISTA0IX-2109
+ 
 
 
 
@@ -183,3 +198,13 @@ Lietuvos Respublikos Vyriausybė iki 2002 m. liepos 1 d. suteikia patalpas Nacio
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2109, 2004-04-08, Žin., 2004, Nr. 60-2119 (2004-04-24), i. k. 1041010ISTA0IX-2109
+Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 2 straipsnio papildymo įstatymas
