@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2004-01-07 iki 2004-04-14
+Suvestinė redakcija nuo 2004-04-15 iki 2004-04-29
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
  
@@ -591,7 +591,9 @@ Nr. IX-1941, 2003-12-22, Žin., 2004, Nr. 4-44 (2004-01-07), i. k. 1031010ISTA0I
 
 
 
-3. Draudžiama statyti užtvankas saugomų žuvų rūšių apsaugai svarbiose upėse ar jų ruožuose. Saugomų žuvų rūšių apsaugai svarbių upių ir jų ruožų sąrašą tvirtina aplinkos ministras. 
+3. Draudžiama statyti užtvankas Nemuno upėje bei ekologiniu ir kultūriniu požiūriu vertingose upėse. Ekologiniu ir kultūriniu požiūriu vertingų upių ar jų ruožų sąrašą patvirtina Vyriausybė iki 2004 m. liepos 1 d.
+Straipsnio dalies pakeitimai:
+Nr. IX-2089, 2004-03-30, Žin., 2004, Nr. 54-1833 (2004-04-15), i. k. 1041010ISTA0IX-2089
  
 
 
@@ -1110,3 +1112,8 @@ Lietuvos Respublikos vandens įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1941, 2003-12-22, Žin., 2004, Nr. 4-44 (2004-01-07), i. k. 1031010ISTA0IX-1941
 Lietuvos Respublikos vandens įstatymo 10 ir 13 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2089, 2004-03-30, Žin., 2004, Nr. 54-1833 (2004-04-15), i. k. 1041010ISTA0IX-2089
+Lietuvos Respublikos vandens įstatymo 14 straipsnio pakeitimo įstatymas
