@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 1996-10-23 iki 1997-07-10
+Suvestinė redakcija nuo 1997-07-11 iki 2004-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
  
@@ -206,7 +206,10 @@ Nr. I-1558, 1996-09-25, Žin., 1996, Nr. 102-2316 (1996-10-23), i. k. 0961010IST
 
 
 
-3. Valstybės įstaigas steigia Sveikatos apsaugos ministerija, apskrities valdytojas, o savivaldybės įstaigas – vietos savivaldybė.
+3. Valstybės įstaigas steigia Sveikatos apsaugos ministerija, apskrities viršininkas, o savivaldybės įstaigas – vietos savivaldybė.
+Straipsnio dalies pakeitimai:
+Nr. VIII-327, 1997-06-26, Žin., 1997, Nr. 66-1602 (1997-07-11), i. k. 0971010ISTAVIII-327
+ 
 
 
 
@@ -959,3 +962,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1558, 1996-09-25, Žin., 1996, Nr. 102-2316 (1996-10-23), i. k. 0961010ISTA00I-1558
 Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-327, 1997-06-26, Žin., 1997, Nr. 66-1602 (1997-07-11), i. k. 0971010ISTAVIII-327
+Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo 5 straipsnio pakeitimo įstatymas
