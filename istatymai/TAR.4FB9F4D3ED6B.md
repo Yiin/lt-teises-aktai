@@ -45,10 +45,21 @@ netaikomas fiziniams ir juridiniams asmenims, užsiimantiems nekomercine veikla
 (veikla, kuria nesiekiama pelno), taip pat fiziniams asmenims, kurie Lietuvos
 Respublikos Vyriausybės nustatyta tvarka įsigyja patentą ir pagal jį užsiima
 komercine-ūkine veikla bei nėra susiję darbo santykiais pagal darbo sutartį
-kaip darbdaviai su kitais asmenimis, išskyrus šio įstatymo 4 straipsnio
-antrosios dalies nuostatą, kuri taikoma ir ne pelno įmonėms. Nepelno įmonių
-steigimą, likvidavimą, reorganizavimą, veiklą reglamentuoja Lietuvos
-Respublikos civilinis kodeksas ir šių įmonių įstatai.
+kaip darbdaviai su kitais asmenimis, išskyrus šio įstatymo 
+4 straipsnio antrosios dalies nuostatą, kuri taikoma ir ne pelno įmonėms.
+Nepelno įmonių steigimą, likvidavimą, reorganizavimą, veiklą reglamentuoja
+Lietuvos Respublikos civilinis kodeksas ir šių įmonių įstatai.
+ 
+[3
+dalies redakcija nuo 2003 m. sausio 1 d.:
+Šis įstatymas
+netaikomas fiziniams ir juridiniams asmenims, užsiimantiems nekomercine veikla
+(veikla, kuria nesiekiama pelno), taip pat fiziniams asmenims, kurie verčiasi
+individualia veikla, kaip ji apibrėžta Lietuvos Respublikos gyventojų pajamų
+mokesčio įstatyme, išskyrus šio įstatymo 4 straipsnio antrosios dalies
+nuostatą, kuri taikoma ir ne pelno įmonėms. Ne pelno įmonių steigimą,
+likvidavimą, reorganizavimą, veiklą reglamentuoja Lietuvos Respublikos
+civilinis kodeksas ir šių įmonių įstatai.]
 Straipsnio
 pakeitimai:
 Nr.
@@ -56,7 +67,9 @@ I-1015,
 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.
 108-3129 (99.12.22)
- 
+Nr.
+IX-1268,
+2002-12-10, Žin., 2002, Nr. 124-5624 (2002-12-27), įsigalioja nuo 2003-01-01
  
      2
 straipsnis.Įmonė
@@ -77,9 +90,7 @@ pakeitimai:
 Nr. VIII-1465, 99.12.07, Žin., 1999,
 Nr.108-3129 (99.12.22)
  
- 
-     3
-straipsnis.Įmonininkas
+     3 straipsnis.Įmonininkas
      Įmonininkas
 yra fizinis arba juridinis asmuo, taip pat į bendrovę (bendriją) susijungę keli
 fiziniai ar juridiniai asmenys, kurie nuosavybės teise valdo, naudoja ir
@@ -114,12 +125,10 @@ I-1015,
 Nr. VIII-422,
 97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
  
- 
      5
 straipsnis.Darbo santykiai įmonėje
-     Darbo
-santykiai įmonėje gali būti grindžiami samdos sutartimi arba naryste ūkinėje
-bendrijoje.
+     Darbo santykiai
+įmonėje gali būti grindžiami samdos sutartimi arba naryste ūkinėje bendrijoje.
      Darbo
 santykius, atsiradusius samdos sutarties pagrindu, reguliuoja samdos sutartis
 ir Lietuvos Respublikos darbo įstatymai, kurie nustato visų rūšių įmonių
@@ -171,7 +180,6 @@ I-1015,
 Nr. VIII-422,
 97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
  
- 
      7
 straipsnis.Individuali (personalinė) įmonė
      Individuali
@@ -196,7 +204,6 @@ I-529,
 Nr. VIII-1843, 00.07.13, Žin., 2000, Nr.
 64-1920 (00.07.31)
  
- 
      8
 straipsnis.Tikroji ūkinė bendrija
      Tikroji
@@ -220,7 +227,6 @@ Straipsnio
 pakeitimai: 
 Nr. VIII-1843, 00.07.13, Žin., 2000, Nr.
 64-1920 (00.07.31)
- 
  
      9
 straipsnis.Komanditinė (pasitikėjimo) ūkinė bendrija
@@ -252,13 +258,12 @@ pakeitimai:
 Nr. VIII-1843, 00.07.13, Žin., 2000, Nr.
 64-1920 (00.07.31)
  
- 
      10
 straipsnis. Akcinė bendrovė, uždaroji akcinė bendrovė ir investicinė bendrovė
      Akcinė bendrovė, uždaroji
-akcinė bendrovė ir investicinė bendrovė yra ribotos turtinės atsakomybės įmonės,
-turinčios juridinio asmens teises, kurių įstatinis (nuosavas) kapitalas yra
-padalytas į dalis - akcijas. Akcininkai yra akcinės bendrovės, uždarosios
+akcinė bendrovė ir investicinė bendrovė yra ribotos turtinės atsakomybės
+įmonės, turinčios juridinio asmens teises, kurių įstatinis (nuosavas) kapitalas
+yra padalytas į dalis - akcijas. Akcininkai yra akcinės bendrovės, uždarosios
 akcinės bendrovės ar investicinės bendrovės nariai, kuriais tampama įstatymų
 nustatyta tvarka įsigijus šių bendrovių akcijų. Akcininkais gali būti fiziniai
 asmenys, juridiniai asmenys ar valstybė (vietos savivaldybė), kuriai atstovauja
@@ -266,10 +271,10 @@ atitinkama valstybės institucija. Akcinės bendrovės, uždarosios akcinės
 bendrovės ir investicinės bendrovės steigimą, likvidavimą, reorganizavimą ir
 veiklą, akcininkų teises ir pareigas, santykius su akcininkais, kreditoriais ir
 su bendrovės veikla susijusius santykius taip pat reglamentuoja Lietuvos
-Respublikos civilinis kodeksas, Akcinių bendrovių įstatymas, Investicinių bendrovių
-įstatymas ir kiti norminiai aktai bei nustatyta tvarka įregistruoti atskiros
-akcinės bendrovės, uždarosios akcinės bendrovės ar investicinės bendrovės
-įstatai.
+Respublikos civilinis kodeksas, Akcinių bendrovių įstatymas, Investicinių
+bendrovių įstatymas ir kiti norminiai aktai bei nustatyta tvarka įregistruoti
+atskiros akcinės bendrovės, uždarosios akcinės bendrovės ar investicinės
+bendrovės įstatai.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -278,7 +283,6 @@ I-529,
 Nr.
 I-1015,
 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
- 
  
 11 straipsnis.
 Valstybės ir savivaldybės įmonės
@@ -293,8 +297,8 @@ savivaldybės įmonės turtą valdo, naudoja ir juo disponuoja turto patikėjimo
 teisėmis.
 Valstybės ir
 savivaldybės įmonės pagal savo prievoles atsako tik tuo įmonės turtu, į kurį
-gali būti nukreipiamas išieškojimas. Įmonės neatsako už valstybės ar savivaldybės
-prievoles. 
+gali būti nukreipiamas išieškojimas. Įmonės neatsako už valstybės ar
+savivaldybės prievoles. 
 Valstybės ir
 savivaldybės įmonių steigimą, veiklą, reorganizavimą ir likvidavimą taip pat
 reglamentuoja Lietuvos Respublikos civilinis kodeksas, Lietuvos Respublikos
@@ -304,7 +308,6 @@ Straipsnio
 pakeitimai:
 Nr. VIII-422,
 97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
- 
  
 11(1)
 straipsnis. Valstybinės ir valstybinės akcinės įmonės
@@ -332,14 +335,6 @@ užsiimti bet kokia komercine-ūkine ar kitokia veikla, nesuvaržyta šio ar kit
 tvarka. Komercinės-ūkinės veiklos, kuria verstis reikalinga licencija, sritis,
 licencijas išduodančias institucijas bei licencijų išdavimo tvarką nustato šis
 ir kiti įstatymai.
-Lietuvos
-Respublikoje draudžiama steigti ir laikyti lošimo namus, organizuoti azartinius
-lošimus.
- 
-***[12 straipsnio 2 dalis netenka galios
-nuo Azartinių lošimų įstatymo įsigaliojimo
-dienos, tai yra nuo 2001 m. liepos 1 d.]***
- 
 Įmonių įstatymo
 6 straipsnyje nurodytoms įmonėms ir jų junginiams draudžiama verstis kredito
 įstaigų veikla, taip pat draudžiama skolintis pinigų iš fizinių asmenų,
@@ -348,9 +343,8 @@ Komercinės-ūkinės veiklos sritis,
 kuriose neleidžiamos užsienio investicijos, nustato Lietuvos Respublikos
 investicijų įstatymas.
 Laisvųjų
-ekonominių zonų įmonių veiklos sritis, kuriose draudžiamos kapitalo
-investicijos, nustato Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų
-įstatymas.
+ekonominių zonų įmonių veiklos sritis, kuriose draudžiamos kapitalo investicijos,
+nustato Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas.
 Individualių
 (personalinių) įmonių savininkai gali panaudoti savo ir savo šeimos narių
 (sutuoktinių, tėvų, įtėvių, vaikų, įvaikių), jiems sutikus, pinigines lėšas ir
@@ -405,25 +399,25 @@ veikla turėdama licenciją.
 Licencija yra dokumentas, suteikiantis teisę verstis
 įmonei licencijoje nurodyta komercine-ūkine veikla.
 Licencijuojamos tos komercinės-ūkinės veiklos
-sritys, kurios yra susijusios su padidėjusiu pavojumi žmogaus gyvybei,
-sveikatai, aplinkai, ginkluotės gamyba ir įsigijimu, taip pat prekėmis ir
-paslaugomis, kurioms įstatymai gali nustatyti specialią prekių pardavimo ar
-paslaugų teikimo tvarką.
+sritys, kurios yra susijusios su padidėjusiu pavojumi žmogaus gyvybei, sveikatai,
+aplinkai, ginkluotės gamyba ir įsigijimu, taip pat prekėmis ir paslaugomis,
+kurioms įstatymai gali nustatyti specialią prekių pardavimo ar paslaugų teikimo
+tvarką.
 Kiekvienai įstatymo nustatytai licencijuojamai
 komercinės-ūkinės veiklos sričiai Lietuvos Respublikos Vyriausybė tvirtina
 licencijavimo taisykles, jeigu kiti įstatymai nenustato ko kita.
 Licencijavimo taisyklėse nurodoma:
 1) licencijuojama komercinės-ūkinės veiklos sritis;
 2) licencijų rūšys;
-3) licenciją išduodanti institucija ir jos
-įgaliojimai; 
+3) licenciją išduodanti institucija ir jos įgaliojimai;
+
 4) dokumentai, reikalingi licencijai gauti;
 5) dokumentų nagrinėjimo tvarka ir terminai;
 6) licencijos rekvizitai;
 7) išduodamų licencijų ir jose nurodytų pasikeitusių
 duomenų registravimo tvarka; 
-8) licencijuojamos komercinės-ūkinės veiklos
-sąlygos; 
+8) licencijuojamos komercinės-ūkinės veiklos sąlygos;
+
 9) licencijos turėtojų teisės ir pareigos;
 10) pranešimų apie pasikeitusius licencijos duomenis
 tvarka;
@@ -586,16 +580,16 @@ privaloma tvarka veda apskaitą, apie kurią pagal Lietuvos Respublikos įstatym
 valstybės organams teikia informaciją įmonių apmokestinimo ir
 buhalterinės-finansinės apskaitos reikmėms. Įmonė turi teisę laikyti paslaptyje
 dokumentus apie savo komercinę veiklą.
-     Įmonių veiklos
-tikrinimas ir revizija leidžiama tik Lietuvos Respublikos įstatymų numatytais
-atvejais.
+     Įmonių
+veiklos tikrinimas ir revizija leidžiama tik Lietuvos Respublikos įstatymų
+numatytais atvejais.
      Valstybės institucija, išdavusi įmonei
 licenciją (leidimą), suteikiančią teisę užsiimti tam tikra komercine-ūkine
 veikla, ar kitokį įstatymų numatytą leidimą, turi teisę gauti iš tos įmonės
 informaciją, reikalingą jos veiklos priežiūrai ir kontrolei vykdyti. Įmonė
 negali trukdyti priežiūrą ir kontrolę vykdančioms valstybės institucijoms (jų
-įgaliotiems pareigūnams) atlikti jų kompetencijai priskirtas priežiūros ir kontrolės
-funkcijas.
+įgaliotiems pareigūnams) atlikti jų kompetencijai priskirtas priežiūros ir
+kontrolės funkcijas.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -603,7 +597,6 @@ I-888,
 95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
 Nr. VIII-422,
 97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
- 
  
      16
 straipsnis.Atsakomybė už įmonių įstatymų pažeidimus
@@ -628,7 +621,6 @@ Nr.
 I-1015,
 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
  
- 
             18 straipsnis.Įmonės
 steigimo tvarka
             Įmonės steigimo tvarką
@@ -643,9 +635,8 @@ dokumentai, atsižvelgiant į steigiamos įmonės rūšį, yra įmonės steigimo
 kiti įstatymų nustatyti steigimo dokumentai. Įmonės steigimo dokumentų turinį
 ir formą nustato norminiai aktai, reglamentuojantys atskirų rūšių įmonių
 steigimą.
-Įmonės
-registravimo dokumentai yra įstatymų nustatyti dokumentai, reikalingi įmonei
-įregistruoti.
+Įmonės registravimo
+dokumentai yra įstatymų nustatyti dokumentai, reikalingi įmonei įregistruoti.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -669,7 +660,6 @@ I-1552,
 Nr. VIII-422,
 97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
  
- 
      20
 straipsnis.Vietos savivaldybės leidimas užsiimti ūkine veikla
      Vietos
@@ -692,8 +682,8 @@ steigiamos įmonės įstatai ar kiti steigimo dokumentai neatitinka įstatymų;
 įstatymų nustatytais atvejais.
      Savivaldybės
 organas privalo per 15 dienų po įmonės steigimo dokumentų įteikimo išnagrinėti
-leidimo užsiimti ūkine veikla klausimą ir apie savo sprendimą per 3 dienas raštu
-pranešti įmonės steigėjui.
+leidimo užsiimti ūkine veikla klausimą ir apie savo sprendimą per 3 dienas
+raštu pranešti įmonės steigėjui.
      Savivaldybės
 organas privalo atšaukti leidimą užsiimti ūkine veikla, jeigu vėliau paaiškėja
 šio straipsnio 4 dalyje nustatytos aplinkybės. Apie leidimo atšaukimą
@@ -713,7 +703,6 @@ I-888,
 95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
 Nr. VIII-422,
 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
- 
  
 21
 straipsnis.Įmonės registravimas ir perregistravimas
@@ -749,8 +738,8 @@ Nr. VIII-422,
 97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
  
  
-     22
-straipsnis.Atsisakymas įregistruoti ar perregistruoti įmonę
+     22 straipsnis.Atsisakymas
+įregistruoti ar perregistruoti įmonę
      Atsisakyti
 įregistruoti įmonę galima, jeigu nepateikti šio įstatymo 21 straipsnyje
 nustatyti dokumentai arba šie dokumentai neatitinka įstatymo nustatytų
@@ -774,7 +763,6 @@ I-678,
 90.10.16, Žin., 1990, Nr. 31-749
 Nr. VIII-422,
 97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
- 
  
      23
 straipsnis.Įmonės likvidavimas ir reorganizavimas
@@ -812,8 +800,8 @@ civilinis kodeksas, Lietuvos Respublikos konkurencijos ir Įmonių bankroto
 dokumentai. Įmonę reorganizavus, naujam juridiniam asmeniui pereina teisės ir
 prievolės, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo
 biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės
-institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki
-reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka.
+institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos
+įmonės išregistravimo įstatymų nustatyta tvarka.
      Įmonę
 likvidavus arba reorganizavus daromi atitinkami įrašai įmonių registravimo
 rejestre. Apie tai skelbiama vietos ir Respublikos spaudoje.
@@ -828,7 +816,6 @@ I-1252,
 Nr.
 VIII-376,
 97.07.02, Žin., 1997, Nr. 69-1737 (97.07.23)
- 
  
 24 straipsnis.
 Įmonės filialai ir atstovybės
@@ -916,7 +903,6 @@ I-1015,
 Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.
 108-3129 (99.12.22)
  
- 
 25 straipsnis.
 Užsienio valstybės įmonės filialai ir atstovybės
 Užsienio valstybės įmonė gali
@@ -996,8 +982,8 @@ valstybių įmonės filialo ir atstovybės veiklą tikrinti leidžiama šio įst
 Užsienio valstybės filialo raštuose ir dokumentuose,
 kuriais pateikiami užsakymai, turi būti nurodyta:
 1) rejestras, kuriame įregistruotas filialas;
-2) rejestro tvarkytojo, kuris tvarko filialo
-dokumentų bylą, pavadinimas ir buveinės adresas;
+2) rejestro tvarkytojo, kuris tvarko filialo dokumentų
+bylą, pavadinimas ir buveinės adresas;
 3) filialo pavadinimas;
 4) filialo buveinės adresas;
 5) filialo kodas;
@@ -1038,7 +1024,7 @@ AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                     �
 LANDSBERGIS
  
 Vilnius, 1990 m. gegužės 8 d. 
-Nr.I-196 
+Nr. I-196 
  
 _________
  
@@ -1396,8 +1382,8 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1465, 99.12.07, Žin., 1999,
 Nr.108-3129 (99.12.22)
 LIETUVOS
-RESPUBLIKOS ĮMONIŲ ĮSTATYMO 1, 2, 12, 24
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI PAPILDYMO 25 STRAIPSNIU ĮSTATYMAS
+RESPUBLIKOS ĮMONIŲ ĮSTATYMO 1, 2, 12, 24 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO BEI PAPILDYMO 25 STRAIPSNIU ĮSTATYMAS
  
 40.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1428,9 +1414,22 @@ Nr. IX-253, 2001 04 17, Žin., 2001, Nr.
 įstatymas įsigalioja nuo Azartinių lošimų įstatymo įsigaliojimo dienos, tai yra
 nuo 2001 m. liepos 1 d.
  
-*** Pabaiga ***
+44.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1268,
+2002-12-10, Žin., 2002, Nr. 124-5624 (2002-12-27)
+ĮMONIŲ
+ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
  
  
-Redagavo: Aušrinė Trapinskienė (2001 05 09)
-                  autrap@lrs.lt
+***
+Pabaiga ***
+ 
+ 
+Redagavo:
+Aušrinė Trapinskienė (2003-01-07)
+                 
+autrap@lrs.lt
 
