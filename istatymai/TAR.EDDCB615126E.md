@@ -326,7 +326,7 @@ pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
 Pensininkams, gaunantiems visišką
 valstybės išlaikymą, pareigūnų ir karių valstybinės pensijos nemokamos.
  
-* Pastaba. 1. Pripažinti, kad Lietuvos
+*Pastaba. 1. Pripažinti, kad Lietuvos
 Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo,
 krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei
 valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 11
@@ -345,12 +345,12 @@ Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo,
 krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei
 valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 11
 straipsnio 2 dalies (2000 m. gruodžio 21 d. redakcija) nuostata „išėjusiems
-iš tarnybos pareigūnams ir kariams, kurie po pareigūnų ar karių valstybinių pensijų
-už tarnybą arba po pareigūnų ar karių valstybinių invalidumo pensijų paskyrimo
-turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų
-draudimo įmokos <...>, mokama 30 procentų dydžio pareigūno ar kario
-valstybinės pensijos dalis“ prieštarauja Lietuvos Respublikos Konstitucijos
-48 straipsnio 1 daliai.
+iš tarnybos pareigūnams ir kariams, kurie po pareigūnų ar karių valstybinių
+pensijų už tarnybą arba po pareigūnų ar karių valstybinių invalidumo pensijų
+paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio
+socialinio pensijų draudimo įmokos <...>, mokama 30 procentų dydžio
+pareigūno ar kario valstybinės pensijos dalis“ prieštarauja Lietuvos
+Respublikos Konstitucijos 48 straipsnio 1 daliai.
 Straipsnio
 pakeitimai:
 Nr. IX-115, 2000
@@ -405,26 +405,18 @@ institucijoje dienos.
             Pareigūnų ir karių valstybinės pensijos
 skiriamos iki gyvos galvos arba laikotarpiui, kuriuo pensijos gavėjas pagal šį
 įstatymą turi teisę gauti paskirtą pensiją.
-            **Nuteistiems už tyčinių nusikaltimų
-padarymą asmenims pareigūnų ir karių valstybinė pensija neskiriama, o
-paskirtoji pensija nebemokama.
+Nuteistiems už tyčinių nusikaltimų padarymą
+asmenims pareigūnų ir karių valstybinė pensija neskiriama.
             Pensininkui mirus, pensija išmokama jį
 laidojusiems asmenims už mirties mėnesį, jei dar nebuvo išmokėta, ir dar už du
 mėnesius tokio dydžio, kokia ji buvo mirties mėnesį. 
- 
-**Pastaba.  Pripažinti, kad Lietuvos
-Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo,
-krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei
-valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 13
-straipsnio 3 dalies nuostata, kad nuteistiems už tyčinių nusikaltimų
-padarymą asmenims paskirtoji pareigūnų ir karių valstybinė pensija nebemokama, prieštarauja
-Lietuvos Respublikos Konstitucijos 23 straipsniui, 31 straipsnio 5 daliai, 52
-straipsniui.
 Straipsnio pakeitimai:
 Lietuvos Respublikos
 Konstitucinis Teismas, Nutarimas
 2003-07-04, Žin., 2003, Nr.
 68-3094 (2003-07-09)
+Nr. IX-2239,
+2004-05-18, Žin., 2004, Nr. 88-3210 (2004-06-03)
  
             14 straipsnis. Pensijos skyrimas iš naujo 
             Jei pareigūnui arba kariui, kuriam paskirta
@@ -469,8 +461,7 @@ Asmenims,
 priimtiems tarnauti vidaus reikalų, valstybės saugumo, krašto apsaugos,
 prokuratūros sistemos, Specialiųjų tyrimų tarnybos, Kalėjimų departamento, jam
 pavaldžių įstaigų bei valstybės įmonių pareigūnais ir kariais, tarnybos laikui
-pensijai skirti prilyginami šie laikotarpiai, buvę iki šio įstatymo
-įsigaliojimo:
+pensijai skirti prilyginami šie laikotarpiai, buvę iki šio įstatymo įsigaliojimo:
 1)
 faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje,
 vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir
@@ -503,11 +494,11 @@ m. gruodžio 31 d.,
 6) mokymosi aukštosiose,
 specialiosiose vidurinėse, aukštesniosiose Lietuvos Respublikos policijos
 (vidaus reikalų), saugumo bei karo mokyklose laikas. Mokymosi analogiškose kitų
-valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai skirti
-Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką pensijai
-skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose, aukštesniosiose ir
-specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę asmenys iš karto
-paskirti pareigūnais.
+valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai
+skirti Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką
+pensijai skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose,
+aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę
+asmenys iš karto paskirti pareigūnais.
             Į Valstybės saugumo departamento sistemos
 pareigūnų tarnybos laiką pensijai skirti įskaitomas ištarnautas laikas,
 numatytas Lietuvos Respublikos valstybės saugumo departamento įstatymo 28
@@ -573,12 +564,12 @@ Nr. VIII-1632,
 00.04.18, Žin., 2000, Nr.36-986 (00.05.03)
 Nr. VIII-1654,
 00.05.02, Žin., 2000, Nr.41-1167 (00.05.19)
-Nr. VIII-1851, 00.07.13,
-Žin., 2000, Nr.64-1923 (00.07.31)
+Nr. VIII-1851,
+00.07.13, Žin., 2000, Nr.64-1923 (00.07.31)
 Nr. VIII-2008,
 2000 10 10, Žin., 2000, Nr. 92-2860 (2000 10 31)
-Nr. IX-814,
-2002-03-26, Žin., 2002, Nr. 38-1361 (2002-04-10)
+Nr. IX-814, 2002-03-26,
+Žin., 2002, Nr. 38-1361 (2002-04-10)
  
  
             Skelbiu šį Lietuvos Respublikos Seimo
@@ -703,10 +694,9 @@ Nr.
 IX-1412,
 2003-04-01, Žin., 2003, Nr. 36-1545 (2003-04-16)
 VIDAUS
-REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
-PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
-PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1 IR 6 STRAIPSNIŲ PAKEITIMO
-ĮSTATYMAS
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS,
+KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR
+KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1 IR 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 13.
 Lietuvos
@@ -721,6 +711,17 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 14 STRAIPSNIO PAPILDYMO
 ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+ 
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2239,
+2004-05-18, Žin., 2004, Nr. 88-3210 (2004-06-03)
+VIDAUS
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -754,6 +755,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-04-07)
+Aušrinė Trapinskienė (2004-06-03)
                  
 autrap@lrs.lt
