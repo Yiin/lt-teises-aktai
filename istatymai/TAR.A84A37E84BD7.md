@@ -104,7 +104,6 @@ Nr. VIII-2070,
 Nr. IX-155,
 2001 01 25, Žin., 2001, Nr. 16-491 (2001 02 21)
  
- 
 5 straipsnis. LRT teisės ir pareigos 
 1. LRT yra Seimo
 įsteigto Lietuvos radijo ir televizijos teisių ir pareigų perėmėja. Negali būti
@@ -185,7 +184,6 @@ pakeitimai:
 Nr. VIII-2070,
 2000 10 17, Žin., 2000, Nr. 94-2919 (2000 11 03)
  
- 
 7 straipsnis. LRT programų rėmimas
 LRT programos
 gali būti remiamos Visuomenės informavimo įstatymo nustatyta tvarka. 
@@ -201,8 +199,8 @@ Respublikos Prezidento, Seimo, Vyriausybės, Konstitucinio Teismo, Generalinės
 prokuratūros oficialius pranešimus.
  
 II SKYRIUS
-LIETUVOS NACIONALINIO
-RADIJO IR TELEVIZIJOS VALDYMAS
+LIETUVOS
+NACIONALINIO RADIJO IR TELEVIZIJOS VALDYMAS
  
 9 straipsnis. LRT taryba
 1. LRT valdymo organai yra Taryba ir
@@ -280,7 +278,6 @@ pakeitimai:
 Nr. VIII-1911,
 2000 08 31, Žin., 2000, Nr. 78-2362 (2000 09 15), įsigalioja nuo 2000 10 01
  
- 
 10 straipsnis.
 Tarybos funkcijos, teisės ir atskaitomybė 
 1. Taryba:
@@ -324,8 +321,8 @@ direktoriaus pareigoms;
 konkurso būdu 5 metams skiria generalinį direktorių, nustato jo atlyginimą;
 17) nustato generalinio direktoriaus
 pavaduotojų skaičių;
-18) generalinio direktoriaus teikimu skiria
-ir atleidžia jo pavaduotojus.
+18) generalinio direktoriaus teikimu
+skiria ir atleidžia jo pavaduotojus.
 2. Tarybos narys negali būti generaliniu
 direktoriumi.
 3. Tarybos nutarimai LRT yra privalomi.
@@ -351,7 +348,6 @@ Straipsnio
 pakeitimai:
 Nr. IX-155,
 2001 01 25, Žin., 2001, Nr. 16-491 (2001 02 21)
- 
  
 11 straipsnis.
 Administracinė komisija, jos funkcijos, teisės ir atskaitomybė 
@@ -434,7 +430,8 @@ nepasibaigus jo įgaliojimų laikui, jeigu už tai balsuoja ne mažiau kaip 2/3
 visų Tarybos narių.
 5. Generalinis
 direktorius gali atsistatydinti nepasibaigus kadencijai. Tuo atveju
-atsistatydina ir jo teikimu Tarybos paskirti generalinio direktoriaus pavaduotojai.
+atsistatydina ir jo teikimu Tarybos paskirti generalinio direktoriaus
+pavaduotojai.
 6. Tarybai
 atsistatydinus, generalinis direktorius bei jo teikimu Tarybos paskirti
 generalinio direktoriaus pavaduotojai atleidžiami. Tarybai arba generaliniam
@@ -451,8 +448,8 @@ veiklai, atstovauja LRT šalyje, užsienyje ir tarptautinėse organizacijose, ta
 pat teisme, tvirtina LRT struktūrą, darbo apmokėjimo sistemą, sudaro sutartis,
 skelbia įsakymus ir kontroliuoja, kaip jie įgyvendinami;
 2) Tarybos
-prašymu informuoja Tarybą apie įstatymuose numatytų LRT funkcijų, Tarybos
-nutarimų vykdymą bei Administracinės komisijos išvadas. 
+prašymu informuoja Tarybą apie įstatymuose numatytų LRT funkcijų, Tarybos nutarimų
+vykdymą bei Administracinės komisijos išvadas. 
 2. Generalinis
 direktorius turi teisę gauti Tarybos nutarimus, Administracinės komisijos
 išvadas bei kitą informaciją, būtiną savo funkcijoms atlikti, be balsavimo
@@ -512,7 +509,7 @@ reorganizuojama ar likviduojama Lietuvos Respublikos įstatymu.“
 2 straipsnis.
 Baigiamosios nuostatos
 1. LRT
-finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2002 m. sausio 1 d.
+finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2003 m. sausio 1 d.
 2. LRT
 administracinė komisija įsteigiama ne vėliau kaip per 1 mėnesį po šio įstatymo
 nustatytos finansavimo tvarkos įsigaliojimo.
@@ -521,6 +518,8 @@ nustatytos finansavimo tvarkos įsigaliojimo.
 Straipsnio pakeitimai:
 Nr. IX-137,
 2000 12 23, Žin., 2000, Nr. 111-3587 (2000 12 29)
+Nr. IX-695,
+2001-12-21, Žin., 2002, Nr. 2-52 (2002-01-09)
  
  
  
@@ -567,8 +566,8 @@ Respublikos Seimas, Įstatymas
 Nr. IX-137,
 2000 12 23, Žin., 2000, Nr. 111-3587 (2000 12 29)
 LIETUVOS
-NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
+NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 
+2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 4.
 Lietuvos
@@ -579,8 +578,21 @@ LIETUVOS
 NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4 IR 10 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
  
-*** Pabaiga ***
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-695,
+2001-12-21, Žin., 2002, Nr. 2-52 (2002-01-09)
+LIETUVOS
+NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 
+2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 02 21)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2002-01-09)
+                 
+autrap@lrs.lt
