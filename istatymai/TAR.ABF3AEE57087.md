@@ -13,13 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ABF3AEE57087"
 
 # Lietuvos Respublikos profesinių sąjungų įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 
 
 
-Redagavo:
-Ramunė Lūžaitė (1997.03.24)
+Redagavo: Ramunė
+Lūžaitė (1997.07.09)
+ 
+Įstatymas
+paskelbtas: Žin., 1991, Nr.34-933
  
 Neoficialus
 įstatymo tekstas
@@ -50,6 +53,14 @@ I-933, 95.06.08, Žin., 1995, Nr.52-1276 (95.06.23)
 DĖL
 LIETUVOS RESPUBLIKOS PROFESINIŲ SĄJUNGŲ ĮSTATYMO PAKEITIMO
  
+4.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-308,
+97.06.26, Žin., 1997, Nr.65-1539 (97.07.09)
+LIETUVOS
+RESPUBLIKOS PROFESINIŲ SĄJUNGŲ ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -61,8 +72,7 @@ PROFESINIŲ SĄJUNGŲ                   
 ĮSTATYMAS
  
                              
-(Žin., 1991, Nr.34-933) 
- 
+
  
      Lietuvos
 Respublikos piliečiai, taip pat kiti asmenys, nuolat gyvenantys Lietuvoje,
@@ -129,8 +139,7 @@ partijoms ir kitoms visuomeninėms organizacijoms  draudžiama kištis į
 profesinių sąjungų vidaus reikalus. Asmenys, trukdantys teisėtą profesinių
 sąjungų veiklą, atsako pagal įstatymus.
      Profesinių
-sąjungų veikla negali būti administracine tvarka nutraukta ar laikinai
-sustabdyta.
+sąjungų veikla negali būti administracine tvarka nutraukta ar laikinai sustabdyta.
  
      4
 straipsnis. Profesinių sąjungų veiklos teisiniai pagrindai
@@ -185,8 +194,8 @@ susitarimu ir jų iniciatyva.
  
      8
 straipsnis. Profesinės sąjungos įstatai (statutas) ir jų
-                  
-registracija
+     
+             registracija
      
      Profesinės
 sąjungos  arba jų  susivienijimai, turi  šio įstatymo nustatyta tvarka
@@ -209,20 +218,20 @@ sąjungų, kurių struktūriniai padaliniai yra vieno miesto  ar  rajono 
 teritorijoje,  įstatus  (statutą) registruoja vietos savivaldos vykdomoji
 institucija.
      Profesinių
-sąjungų, jų susivienijimų, kurie pagal savo įstatus (statutą)  veikia daugiau 
+sąjungų, jų susivienijimų, kurie pagal savo įstatus (statutą) veikia daugiau
 kaip vienos savivaldybės teritorijoje ir kurių buveinė yra apskrities centre ar
 kitoje apskrities teritorijoje - miesto ar kaimo gyvenamojoje vietovėje,
-įstatus registruoja apskrities valdytojas.
+įstatus registruoja apskrities viršininkas.
      Profesinių
 sąjungų, jų susivienijimų, kurių veikla apima daugiau kaip vienos apskrities
 teritoriją, įstatus (statutą) registruoja Lietuvos Respublikos teisingumo
 ministerija.
      Profesinių
-sąjungų, jų susivienijimų įstatai (statutas) registruojami ne vėliau kaip per mėnesį
-nuo kreipimosi dėl registravimo pagal šį įstatymą gavimo dienos, pateikus
-profesinės sąjungos įstatus  (statutą) ir  susirinkimo  (konferencijos,
-suvažiavimo) protokolą (arba protokolo išrašą) dėl profesinės sąjungos,
-susivienijimo įsteigimo.
+sąjungų, jų susivienijimų įstatai (statutas) registruojami ne vėliau kaip per
+mėnesį nuo kreipimosi dėl registravimo pagal šį įstatymą gavimo dienos,
+pateikus profesinės sąjungos įstatus  (statutą) ir  susirinkimo 
+(konferencijos, suvažiavimo) protokolą (arba protokolo išrašą) dėl profesinės
+sąjungos, susivienijimo įsteigimo.
      Profesinės
 sąjungos,  jų  susivienijimai įgyja juridinio asmens teises nuo jų įstatų
 (statuto) įregistravimo dienos.
@@ -232,8 +241,8 @@ ne vėliau kaip per tris dienas nuo sprendimo priėmimo raštu pranešama
 steigėjams ir nurodoma, kokio Lietuvos Respublikos  įstatymų  akto  neatitinka 
 profesinės sąjungos, jų susivienijimo įstatai (statutas).
      Atsisakymas 
-registruoti   profesinės  sąjungos,  jų susivienijimų įstatus (statutą) gali būti
-apskųstas apylinkės teismui, kuris skundą išnagrinėja per dešimt dienų.
+registruoti   profesinės  sąjungos,  jų susivienijimų įstatus (statutą) gali
+būti apskųstas apylinkės teismui, kuris skundą išnagrinėja per dešimt dienų.
  
 Straipsnio
 pakeitimai:
@@ -243,6 +252,9 @@ Nr.1-640,
 94.11.08., Žin., 1994, Nr.91-1764 
 Nr.
 I-933, 95.06.08, Žin., 1995, Nr.52-1276 (95.06.23)
+Nr. VIII-308,
+97.06.26, Žin., 1997, Nr.65-1539 (97.07.09)
+ 
  
      9
 straipsnis. Profesinės sąjungos, jų susivienijimų veiklos
@@ -398,7 +410,7 @@ ir  socialinius įstatymus,   kolektyvines sutartis ir  susitarimus. Šiems
 tikslams profesinės sąjungos gali turėti inspekcijas,  teisinės pagalbos 
 tarnybas  ir  kitas institucijas.
      Profesinės
-sąjungos  įgalioti  asmenys,  vykdydami  šio straipsnio pirmojoje dalyje
+sąjungos  įgalioti  asmenys,  vykdydami  šio straipsnio pirmojoje dalyje
 numatytas kontrolės funkcijas, turi teisę nekliudomai lankytis įmonėse,
 įstaigose, organizacijose, kuriose dirba tos profesinės sąjungos atstovaujami
 darbuotojai, ir susipažinti  su dokumentais apie  darbo, ekonomines ir
