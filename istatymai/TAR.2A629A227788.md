@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2A629A227788"
 
 # Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatymas
 
+Suvestinė redakcija nuo 2004-07-27 iki 2005-12-31
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 36-987, i. k. 1001010ISTAIII-1641
+ 
 LIETUVOS RESPUBLIKOS CHEMINIŲ MEDŽIAGŲ IR PREPARATŲ Į S T A T Y M A S
  
 2000 m. balandžio 18 d. Nr. VIII-1641
@@ -186,17 +190,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-22. Licencija – valstybės institucijos išduotas oficialus dokumentas, suteikiantis teisę verstis tam tikra veikla cheminių medžiagų tvarkymo srityje, laikantis nustatytų sąlygų bei reikalavimų.
+22. Pranešimas apie naujas chemines medžiagas – dokumentų su būtina informacija, nustatyta pagal šio įstatymo 7 straipsnio 2 dalį, pateikimas ne maisto produktų saugos kontrolės institucijai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-2381, 2004-07-15, Žin., 2004, Nr. 116-4329 (2004-07-27), i. k. 1041010ISTA0IX-2381
+ 
 
 
 
 
-23. Pranešimas apie naujas chemines medžiagas – dokumentų su būtina informacija, nustatyta pagal šio įstatymo 7 straipsnio 2 dalį, pateikimas ne maisto produktų saugos kontrolės institucijai.
-
-
-
-
-24. Pavojingos cheminės medžiagos ir preparatai – tokios cheminės medžiagos ir preparatai, kurių bent viena savybė gali būti priskiriama vienai iš šių kategorijų:
+23. Pavojingos cheminės medžiagos ir preparatai – tokios cheminės medžiagos ir preparatai, kurių bent viena savybė gali būti priskiriama vienai iš šių kategorijų:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-2381, 2004-07-15, Žin., 2004, Nr. 116-4329 (2004-07-27), i. k. 1041010ISTA0IX-2381
+ 
 
 
 1) sprogstamosios medžiagos ir preparatai – tai kietos, skystos, pastos ar drebučių pavidalo medžiagos ir preparatai, galintys ir be atmosferos deguonies egzotermiškai reaguoti, greitai išskirdami dujas, ir nustatytomis bandymo sąlygomis detonuoti, greitai užsiliepsnoti ar iš dalies ribotoje erdvėje pakaitinti sprogti;
@@ -290,7 +295,6 @@ d) medžiagos ir preparatai, kurie nuo sąlyčio su vandeniu ar drėgnu oru išs
 
 
 15) aplinkai pavojingos medžiagos ir preparatai – medžiagos ir preparatai, kurie, patekę į aplinką, gali sukelti tiesioginį ar uždelstą pavojų vienam ar keletui aplinkos komponentų.
- 
 
 
 
@@ -804,17 +808,10 @@ CHEMINIŲ MEDŽIAGŲ IR PREPARATŲ TIEKIMO Į RINKĄ BEI NAUDOJIMO APRIBOJIMAI
  
 
 
-23 straipsnis. Ūkinės-komercinės veiklos licencijavimas 
-
-
-Be Vyriausybės nustatyta tvarka išduotos licencijos draudžiama užsiimti Vyriausybės ar jos įgaliotos institucijos patvirtintame sąraše nurodytų pavojingų cheminių medžiagų ir preparatų gamyba, didmenine prekyba ir sandėliavimu
-
-
-
-
-.
-
-
+23 straipsnis. Neteko galios nuo 2004-07-27
+Straipsnio naikinimas:
+Nr. IX-2381, 2004-07-15, Žin. 2004, Nr. 116-4329 (2004-07-27), i. k. 1041010ISTA0IX-2381
+ 
 
 
 
@@ -909,7 +906,10 @@ Lietuvos Respublikoje cheminių medžiagų ir preparatų tvarkymo valstybinę ko
 
 
 
-6) surašyti privalomus nurodymus dėl veiklos sustabdymo, kai ji susijusi su pavojingų cheminių medžiagų ir preparatų naudojimu ar kitokiu jų tvarkymu, jei nustatomas galiojančių reikalavimų pažeidimas ir pavojus žmogaus sveikatai ar gyvybei arba avarijos galimybės, pateikti licenciją išdavusiai institucijai teikimą dėl licencijos galiojimo sustabdymo ar licencijos galiojimo panaikinimo;
+6) surašyti privalomus nurodymus dėl veiklos sustabdymo, kai ji susijusi su pavojingų cheminių medžiagų ir preparatų naudojimu ar kitokiu jų tvarkymu, jei nustatomas galiojančių reikalavimų pažeidimas ir pavojus žmogaus sveikatai ar gyvybei arba avarijos galimybės;
+Straipsnio punkto pakeitimai:
+Nr. IX-2381, 2004-07-15, Žin., 2004, Nr. 116-4329 (2004-07-27), i. k. 1041010ISTA0IX-2381
+ 
 
 
 
@@ -984,3 +984,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2381, 2004-07-15, Žin., 2004, Nr. 116-4329 (2004-07-27), i. k. 1041010ISTA0IX-2381
+Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 3, 26 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas
