@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
 
+Suvestinė redakcija nuo 1996-07-17 iki 1996-12-23
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS 
  
@@ -55,6 +59,10 @@ Pagal šį įstatymą „Valstybės žiniose“ turi būti skelbiami:
 3 straipsnis
 
 Lietuvos Respublikos Seimo priimti teisės aktai, išskyrus įstatymus, Respublikos Prezidento dekretai, Lietuvos Respublikos Vyriausybės nutarimai, Lietuvos banko, ministerijų, departamentų ir Vyriausybės įstaigų bei kitų valstybės valdymo institucijų aktai, kuriuose nėra nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, neturintys visuotinės reikšmės Konstitucinio Teismo sprendimai, šiuos aktus pasirašiusių asmenų nuožiūra „Valstybės žiniose“ gali būti neskelbiami. Nepaisant to, ar jie paskelbti „Valstybės žiniose“, šie aktai turi būti išsiunčiami juose minimoms valstybės institucijoms, įmonėms, įstaigoms ir organizacijoms, juridiniams bei fiziniams asmenims.
+
+Teisės aktai, kuriuose yra valstybės ar tarnybinę paslaptį sudarančių žinių, „Valstybės žiniose“ neskelbiami. Šie aktai turi būti išsiunčiami toms institucijoms, kurios įstatymų nustatyta tvarka gali disponuoti valstybės ar tarnybinę paslaptį sudarančiomis žiniomis. 
+Papildyta straipsnio dalimi:
+Nr. I-1443, 1996-07-04, Žin., 1996, Nr. 67-1604 (1996-07-17), i. k. 0961010ISTA00I-1443
  
 
 4 straipsnis
@@ -228,4 +236,14 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 Vilnius, 1993 m. balandžio 6 d. 
 Nr. I-119
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1443, 1996-07-04, Žin., 1996, Nr. 67-1604 (1996-07-17), i. k. 0961010ISTA00I-1443
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 3 straipsnio papildymo įstatymas
 
