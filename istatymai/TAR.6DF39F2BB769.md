@@ -15,8 +15,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6DF39F2BB769"
 
 Redagavo: Ramun? L??ait? (1996
 
-Redagavo:
-Ramunė Lūžaitė (1997.04.18)
+Redagavo: Ramunė
+Lūžaitė (1997.10.29)
+ 
+Įstatymas
+paskelbtas: Žin., 1994, Nr.51-950
  
 Neoficialus
 įstatymo tekstas
@@ -27,7 +30,7 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
+I-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 DĖL
 LIETUVOS RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO PAKEITIMO
  
@@ -38,7 +41,7 @@ LIETUVOS RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-899, 95.05.23, Žin., 1995, Nr. 47-1135 (95.06.07)
+I-899, 95.05.23, Žin., 1995, Nr. 47-1135 (95.06.07)
 DĖL
 LIETUVOS RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO PAKEITIMO
  
@@ -46,7 +49,7 @@ LIETUVOS RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-1211, 96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
+I-1211, 96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
 LIETUVOS
 RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
@@ -54,7 +57,7 @@ RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
+I-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
 LIETUVOS
 RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO 7 IR 8 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
@@ -75,21 +78,25 @@ Respublikos Seimas, Įstatymas
 Nr.
 VIII-177, 97.04.08, Žin., 1997, Nr.33-810 (97.04.18)
 LIETUVOS
-RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS 
+RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+7.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-448,
+97.10.14, Žin., 1997, Nr.97-2443 (97.10.29)
+LIETUVOS RESPUBLIKOS
+ŽYMINIO MOKESČIO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR PAPILDYMO
  
 ***
 Pabaiga ***
  
 LIETUVOS RESPUBLIKOS
- 
 ŽYMINIO MOKESČIO
- 
 ĮSTATYMAS 
- 
  
 1994 m. birželio 23 d. Nr.I-508
 Vilnius 
-(Žin., 1994, Nr.51-950)
  
      1
 straipsnis. Įstatymo paskirtis
@@ -102,7 +109,7 @@ dokumentus ėmimą.
 Straipsnio
 pakeitimai:
 Nr.
-1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
+I-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
  
      2
 straipsnis. Mokesčio mokėtojai
@@ -118,7 +125,7 @@ straipsnis. Mokesčio objektas ir tarifai
 mokestis imamas už:
      1)
 civilinės būklės aktų registravimą civilinės metrikacijos įstaigose, įrašų
-civilinės būklės aktuose pakeitimą bei papildymą ir dokumentų,  patvirtinančių
+civilinės būklės aktuose pakeitimą bei papildymą ir dokumentų,  patvirtinančių
 įrašą  civilinės būklės akte, išdavimą;
      2)
 išduodamus dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos
@@ -142,7 +149,7 @@ leidimo prekiauti šaunamaisiais ginklais, medžiokliniais peiliais, dujiniais 
 pistoletais (revolveriais), šaudmenimis, dujiniais balionėliais, pneumatiniais
 šautuvais (pistoletais), arbaletais, spalvoto dauginimo technika išdavimą;
      7)
-leidimo  steigti  antspaudų  ir  spaudų  dirbtuves, medžioklinių peilių
+leidimo  steigti  antspaudų  ir  spaudų  dirbtuves, medžioklinių peilių
 dirbtuves, ginklų remonto dirbtuves išdavimą;
      8)
 leidimo pasigaminti antspaudus ir spaudus išdavimą;
@@ -156,7 +163,8 @@ arbaletą išdavimą ir šio leidimo pratęsimą;
      11)
 masinės informacijos priemonės steigimą, perregistravimą ir atitinkamų
 dokumentų išdavimą, steigimo liudijimo dublikato išdavimą, taip pat už
-konsultacijas valstybės paslapčių ar viešai neskelbtinų žinių apsaugos klausimais;
+konsultacijas valstybės paslapčių ar viešai neskelbtinų žinių apsaugos
+klausimais;
      12)
 kelių  policijos atliekamus veiksmus ir išduodamus dokumentus;
      13)
@@ -183,8 +191,12 @@ liudijimo potencialiai pavojingiems įrenginiams gaminti, montuoti ir
 rekonstruoti išdavimą, šių įrenginių registravimą ir leidimo eksploatuoti juos
 po registravimo išdavimą;
      19)
-leidimo vežti pavojingas medžiagas pagal Jungtinių Tautų Organizacijos klasifikaciją,
-radioaktyviąsias medžiagas išdavimą;
+licencijų importuoti, vežti tranzitu bei eksportuoti kontroliuojamąsias prekes
+pagal Lietuvos Respublikos Vyriausybės patvirtintą kontroliuojamųjų prekių
+sąrašą, leidimų vežti radioaktyviąsias ir pavojingas medžiagas (neįtrauktas į
+kontroliuojamųjų prekių sąrašą) pagal Jungtinių Tautų Organizacijos
+klasifikaciją ir importo bei pristatymo patvirtinimo sertifikatų
+kontroliuojamosioms prekėms išdavimą;
      20)
 potencialiai pavojingų įrenginių periodišką  techninį patikrinimą;
      21)
@@ -233,9 +245,12 @@ išdavimą;
 leidimų  išvežti (išsiųsti)  kilnojamąsias kultūros vertybes ir antikvarinius
 daiktus išdavimą;
      37) 
-leidimų steigti neapmuitinamas parduotuves išdavimą.
-     Žyminio
-mokesčio tarifus, išskyrus už teismų nagrinėjamas bylas ir  išduodamų
+leidimų steigti neapmuitinamas parduotuves išdavimą;
+     38)
+Viešųjų pirkimų tarnybos prie Lietuvos Respublikos Vyriausybės teikiamą
+informaciją iš pirkimų procedūrų ataskaitų.
+    
+Žyminio mokesčio tarifus, išskyrus už teismų nagrinėjamas bylas ir  išduodamų
 dokumentų  nuorašus,  nustato  Lietuvos Respublikos Vyriausybė.
      Mokesčio
 tarifai indeksuojami kartą per ketvirtį taikant ketvirčio vartojimo kainų
@@ -244,15 +259,17 @@ indeksą, jeigu šis didesnis negu 1.1.
 Straipsnio
 pakeitimai:
 Nr.
-1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
+I-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 Nr.
-1-899, 95.05.23, Žin., 1995, Nr. 47-1135 (95.06.07)
+I-899, 95.05.23, Žin., 1995, Nr. 47-1135 (95.06.07)
 Nr.
-1-1211, 96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
+I-1211, 96.02.15, Žin., 1996, Nr. 18-462 (96.02.28)
 Nr.
 I-1616, 96.11.14, Žin., 1996, Nr.116-2691 (96.12.04)
 Nr.
 VIII-177, 97.04.08, Žin., 1997, Nr.33-810 (97.04.18)
+Nr. VIII-448,
+97.10.14, Žin., 1997, Nr.97-2443 (97.10.29)
  
      4
 straipsnis. Mokesčio lengvatos
@@ -302,7 +319,7 @@ nuo žyminio mokesčio, kai šis mokestis įskaitomas į valstybės biudžetą.
 Straipsnio
 pakeitimai:
 Nr.
-1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18) 
+I-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18) 
  
      5
 straipsnis. Mokesčio mokėjimas
@@ -340,9 +357,9 @@ mokesčio  grąžinimo  tvarką  nustato  Lietuvos Respublikos Vyriausybė.
 Straipsnio
 pakeitimai:
 Nr.
-1-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
+I-637, 94.11.08, Žin., 1994, Nr. 89-1712 (94.11.18)
 Nr.
-1-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
+I-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
  
      8
 straipsnis. Mokesčio ėmimo kontrolė
@@ -360,7 +377,7 @@ sumą  mokėtojui  grąžina valstybinė mokesčių inspekcija.
 Straipsnio
 pakeitimai:
 Nr.
-1-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
+I-1317, 96.04.30, Žin., 1996, Nr. 46-1112 (96.05.17)
  
      9
 straipsnis. Baigiamosios nuostatos
@@ -371,8 +388,8 @@ Respublikos žyminio mokesčio įstatymas įsigalioja nuo 1995 m. sausio 1 dieno
 bus priimti pagrindiniai Lietuvos Respublikos pramoninės nuosavybės apsaugos
 įstatymai (išradimų (patentų), pramoninių pavyzdžių), už Patentų biuro
 atliekamas paslaugas valstybinė rinkliava imama pagal Lietuvos Respublikos
-Vyriausybės 1993 m. kovo 12  d. nutarimo  Nr.163 "Dėl  valstybinės
-rinkliavos" nustatytus tarifus.
+Vyriausybės 1993 m. kovo 12  d. nutarimo  Nr.163 "Dėl  valstybinės rinkliavos"
+nustatytus tarifus.
      Lietuvos
 Respublikos Vyriausybė iki 1994 m. lapkričio 1 d. nustato žyminio mokesčio
 tarifus, mokėjimo ir grąžinimo tvarką.
@@ -380,6 +397,7 @@ tarifus, mokėjimo ir grąžinimo tvarką.
      Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
- RESPUBLIKOS
-PREZIDENTAS            ALGIRDAS BRAZAUSKAS
+ 
+RESPUBLIKOS
+PREZIDENTAS                               ALGIRDAS BRAZAUSKAS
 
