@@ -13,10 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06D7603A1FDE"
 
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramunė Lūžaitė (1997.07.17)
 
 Redagavo:
-Ramunė Lūžaitė (1997.07.17)
+Ramunė Lūžaitė (1998.11.16)
  
 Įstatymas
 paskelbtas: Žin., 1994, Nr.87-1644
@@ -44,6 +44,15 @@ LIETUVOS
 RESPUBLIKOS VALSTYBINĖS DARBO INSPEKCIJOS ĮSTATYMO 6 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
+LIETUVOS
+RESPUBLIKOS VALSTYBINĖS DARBO INSPEKCIJOS ĮSTATYMO 4, 5, 6, 7, 8, 12, 13, 15,
+18, 21, 25 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -59,10 +68,10 @@ I SKIRSNIS
 BENDRIEJI NUOSTATAI
  
      1
-straipsnis. Šis įstatymas nustato Lietuvos Respublikos valstybinės darbo  inspekcijos
-(toliau  - Darbo inspekcija) uždavinius, funkcijas,  struktūrą, darbo
-inspektorių teises, pareigas, atsakomybę,  tikrinimų vykdymo  tvarką  ir  darbo
-organizavimą.
+straipsnis. Šis įstatymas nustato Lietuvos Respublikos valstybinės darbo 
+inspekcijos (toliau  - Darbo inspekcija) uždavinius, funkcijas,  struktūrą,
+darbo inspektorių teises, pareigas, atsakomybę,  tikrinimų vykdymo  tvarką  ir 
+darbo organizavimą.
  
      2
 straipsnis. Darbo inspekcija yra valstybinė kontrolės įstaiga,  veikianti 
@@ -77,9 +86,12 @@ reglamentuojančiais darbo san- tykius ir darbų saugą.
  
      4
 straipsnis. Darbo inspekcijos veikla pagal kompetenciją apima:
-     1)
-Lietuvos  Respublikos teritorijoje  esančias įmones, įstaigas ir organizacijas
-(toliau - įmonės), nesvarbu, koks jų pavaldumas ir nuosavybės formos;
+      1)
+Lietuvos Respublikos teritorijoje esančias įmones, įstaigas, organizacijas,
+ūkines bendrijas, žemės ūkio bendroves, ūkininkus, kooperatines organizacijas
+ir kitus subjektus (toliau - įmonės), kuriuose darbo santykiai turi būti
+grindžiami Darbo sutarties įstatymu, kitais darbo santykius reglamentuojančiais
+teisės aktais;
      2)
 užsienio kapitalo įmones, esančias Lietuvos Respublikos teritorijoje, įmones,
 kuriose įstatinio kapitalo dalis priklauso užsienio investitoriui  (bendras
@@ -94,119 +106,137 @@ apsaugos, vidaus reikalų, valstybės saugumo sistemų įmonių  inspektavimo d
 santykių ir darbų saugos srityse tvarka, suderinus su šiomis institucijomis,
 nustatoma Valstybinės darbo inspekcijos nuostatuose (toliau - Nuostatai),
 kuriuos tvirtina socialinės apsaugos ir darbo ministras.
-     Darbo
-inspekcija tam tikruose objektuose nekontroliuoja tų darbų saugos  sričių,
-kurias  kontroliuoti  pavesta  kitoms specializuotoms inspekcijoms.
-     Kitų
-inspekcijų, valstybinių tarnybų kompetenciją darbų saugos klausimais jų
-kontroliuojamose įmonėse, vadovaudamasi potencialiai pavojingų techninių
-įrenginių būtinosios priežiūros taisyklėmis, kitais darbų saugos norminiais aktais,
-nustato šių inspekcijų ir tarnybų nuostatai, kuriuos tvirtina   Lietuvos
-Respublikos Vyriausybė.
+      Įstatymų
+numatytais atvejais Darbo inspekcija tam tikruose objektuose gali
+nekontroliuoti darbų saugos. Tuose objektuose institucijų, kontroliuojančių
+darbų saugą, kompetenciją darbų saugos klausimais nustato įstatymai ir institucijų
+nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
+ 
  
                               
 II SKIRSNIS
                
 DARBO INSPEKCIJOS UŽDAVINIAI IR FUNKCIJOS
  
-     5
-straipsnis. Pagrindiniai Darbo inspekcijos uždaviniai:
-     vykdyti
-valstybinę darbų saugos politiką, kad būtų užtikrinta darbų saugos pažeidimų,
-nelaimingų atsitikimų darbe ir profesinių ligų prevencija;
-     kontroliuoti,
-ar laikomasi darbo ir darbų saugos įstatymų, kitų šiuos klausimus reglamentuojančių
-norminių aktų.
+5 straipsnis. Pagrindinis Darbo inspekcijos
+uždavinys - vykdyti teisės aktų, reglamentuojančių darbų saugą ir darbo
+santykius, pažeidimų prevenciją įmonėse, kontroliuojant, kaip laikomasi šių
+teisės aktų, ir konsultuojant darbuotojus bei darbdavius.
  
-     6
-straipsnis. Darbo inspekcija:
-     1)
-tikrina, kaip įmonėse laikomasi darbo, darbų saugos įstatymų  (Darbo 
-sutarties,  Žmonių  saugos  darbe,  Darbo apmokėjimo, Atostogų, Bedarbių
-rėmimo, Kolektyvinių susitarimų ir sutarčių), taip pat kitų su šiais klausimais
-susijusių norminių  aktų.  Tikrindama, kaip laikomasi Bedarbių rėmimo įstatymo,
-Darbo inspekcija kontroliuoja, kaip darbdaviai laikosi šiame įstatyme
-nustatytos darbo sutarčių sudarymo ir nutraukimo tvarkos.
-     Darbo
- inspekcija  teikia išvadas sprendžiant teismuose ginčus darbo ir darbų saugos
-klausimais;
-     2)
-konsultuoja ir teikia informaciją darbdaviams bei jų organizacijoms, įmonių
-darbų saugos tarnyboms, darbuotojams, profesinėms sąjungoms darbo, darbų
-saugos, kolektyvinių sutarčių ir kolektyvinių susitarimų sudarymo ir vykdymo
-klausimais;
-     3)
-tikrina, ar įmonėse eksploatuojamos darbo priemonės, taip pat darbo sąlygos
-atitinka norminių aktų reikalavimus bei kaip  fiziniai  ir  juridiniai 
-asmenys  laikosi nustatytos potencialiai pavojingų įrenginių priežiūros
-tvarkos;
-     4) 
-tikrina,  kaip  įmonėse  darbuotojai  aprūpinami bendrosiomis ir
-individualiosiomis saugos darbe priemonėmis, nemokamų medicininių adaptogeninių
-preparatų išdavimą, taip pat tikrina,  ar  darbdaviai sudaro sąlygas ir
-reikalauja, kad darbuotojai, kuriems privaloma tikrintis sveikatą, laiku ją
-pasitikrintų;
-     5)
-Nuostatuose nustatyta tvarka:
-     atlieka
-naujai kuriamų darbo priemonių, taip pat saugos darbe priemonių projektų
-ekspertizes ir pateikia išvadas dėl šių projektų  atitikimo darbų saugos
-reikalavimams, pagal darbo priemonių, saugos darbe priemonių pavyzdžių bandymų
-rezultatus išduoda įmonėms leidimus priemonių gamybai;
-     nustato
-paslaugų teikimo įmonėms darbų saugos klausimais (mokymo ir atestavimo,
-konsultavimo, techninių paslaugų) tvarką, išduoda  juridiniams ir fiziniams
-asmenims leidimus tokioms paslaugoms teikti;
-     išduoda
-leidimus kasybos, sprogdinimo, naudingųjų iškasenų gavybos ir perdirbimo,
-geologinio gręžimo, seismo žvalgybos, degiųjų dujų, chemijos, naftos perdirbimo
-darbams, taip pat technologiniams procesams, kuriems vykstant galimi sprogimo,
-gaisro ar apsinuodijimo atvejai;
-     teikia 
-išvadas rengiant mokymo programas darbų saugos specialistams mokyti ir kvalifikacijai
-kelti, aukštųjų mokyklų studentams, aukštesniųjų, profesinių, bendrojo lavinimo
-mokyklų moksleiviams apmokyti darbų saugos;
-     koordinuoja
-taisyklių, tipinių instrukcijų rengimą kitose institucijose;
-     6)
-išduoda leidimus eksploatuoti naujas ir rekonstruotas įmones (jų padalinius),
-naujas technologijas, užsiimti nauja veikla, teikia pasiūlymus įmonių rejestro
-tvarkytojui atšaukti įmonės registravimą, kai darbdavys pradėjo eksploatuoti
-naują ar rekonstruotą įmonę (jos padalinį), naudoti naują technologiją, pradėjo
-naują veiklą ir tam negavo Darbo inspekcijos leidimo, taip  pat  kai 
-darbdavys  ar  jo įgaliotas asmuo pradėjo eksploatuoti įmonę nustatyta tvarka
-nepasitikrinę žinių saugos darbe klausimais.
-     Darbo 
-inspekcija  dalyvauja  atestuojant  darbuotojus, darbdavius (jų įgaliotus
-asmenis) darbų saugos klausimais;
-     7)
-tiria sunkių bei nelaimingų atsitikimų su mirtinomis pasekmėmis  priežastis 
-ir  aplinkybes, tikrina, ar įmonėse laikomasi nelaimingų atsitikimų tyrimo
-nustatytos tvarkos, taip pat kaip diegiamos prevencinės priemonės, kad būtų
-išvengta nelaimingų  atsitikimų,  profesinių  ligų,  teikia  išvadas
-valstybinio privalomojo draudimo nuo nelaimingų atsitikimų darbe vykdytojui, 
-ar nelaimingą atsitikimą pripažinti draudiminiu įvykiu, vykdo kitas įstatymo
-nustatytas funkcijas, susijusias su valstybiniu  privalomuoju draudimu nuo
-nelaimingų atsitikimų darbe;
-     registruoja
-nelaimingus atsitikimus darbe, apibendrina jų priežastis ir aplinkybes;
-     dalyvauja
-profesinių ligų ir avarijų įmonėse tyrime;
-     8)
-teikia informaciją Lietuvos Respublikos Vyriausybei, taip pat ataskaitas
-socialinės apsaugos ir darbo ministrui apie įstatymų ir kitų norminių aktų,
-kurie priskirti Valstybinės darbo inspekcijos kontrolės kompetencijai, laikymąsi
-įmonėse. Apie šių norminių aktų laikymąsi informuoja visuomenę;
-     9)  
-registruoja  darbų  saugos  norminius  aktus, reglamentuojančius  Darbo
-inspekcijos kontrolės kompetencijai priskirtus klausimus;
-     10)
-tikrina, ar nedirbamas nelegalus darbas, duoda privalomus vykdyti nurodymus
-darbdaviams dėl sutarčių, kuriose yra visos būtinos darbo sutarties sąlygos,
-įforminimo darbo sutartimis;
-     11)
-vykdo kituose įstatymuose, Nuostatuose, norminiuose aktuose nustatytas
-funkcijas.
+Straipsnio
+pakeitimai:
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
+ 
+6 straipsnis. Darbo inspekcija, įgyvendindama
+pagrindinį uždavinį:
+1) tikrina, kaip įmonėse laikomasi teisės
+aktų, reglamentuojančių darbų saugą ir darbo santykius. Tikrindama, kaip laikomasi
+Bedarbių rėmimo įstatymo, Darbo inspekcija kontroliuoja, ar darbdaviai laikosi
+šiame įstatyme nustatytos darbo sutarčių sudarymo ir nutraukimo tvarkos; 
+2) konsultuoja darbuotojus, profesines
+sąjungas, darbdavius, įmonių saugos tarnybas saugos, darbo higienos
+reikalavimų, darbo įstatymų vykdymo, taip pat kolektyvinių susitarimų ir
+sutarčių sudarymo klausimais;
+3) nustatyta tvarka skiria valstybines darbų
+saugos ekspertizes naujai steigiamų bei rekonstruojamų įmonių ar jų padalinių
+(darboviečių), naujai kuriamų darbo priemonių, taip pat asmeninės apsaugos
+priemonių, naujų technologinių procesų projektams, dalyvauja priimant naudoti
+įmones ar jų padalinius (darbovietes);
+4) kontroliuoja saugos darbe ir darbo
+medicinos tarnybų, saugos darbe komitetų steigimą, vidinės darbų saugos
+kontrolės organizavimą įmonėse;
+5) tikrina, ar įmonėse eksploatuojamos darbo
+priemonės, darbo vietos, technologiniai procesai, taip pat darbo sąlygos
+atitinka norminių aktų reikalavimus, kontroliuoja, kaip laikomasi nustatytos potencialiai
+pavojingų įrenginių priežiūros tvarkos, elektros, šilumos ir dujų įrenginių
+saugaus naudojimo reikalavimų ir kaip organizuojamas transporto eismas įmonėse;
+6) tikrina įmonių pasirengimą vykdyti
+kasybos, sprogdinimo, naudingųjų iškasenų gavybos ir perdirbimo, geologinio
+gręžimo, naudingųjų iškasenų žvalgybos, degiųjų dujų, chemijos, naftos
+perdirbimo darbus, taip pat technologinius procesus, kuriems vykstant galimi
+sprogimo, gaisro ar apsinuodijimo atvejai, ir norminių aktų nustatyta tvarka
+teikia išvadas bei pasiūlymus įmonėms;
+7) tikrina, kaip įmonėse laikomasi darbo
+higienos reikalavimų, ir norminių aktų nustatyta tvarka teikia išvadas bei
+priima sprendimus;
+8) kontroliuoja, kaip darbdaviai organizuoja
+įmonėse kenksmingų ir pavojingų medžiagų gamybą ir naudojimą, darbo aplinkos
+įvertinimą. Reikalauja, kad būtų atlikti darbo aplinkos kenksmingų veiksnių
+matavimai, jei nustatoma, kad technologiniuose procesuose ir (ar) darbo vietoje
+naudojamos pavojingos medžiagos arba darbo aplinka kenksminga darbuotojų
+sveikatai;
+9) tikrina, ar įmonėse įrengtos gamybinės
+buities patalpos, kolektyvinės saugos priemonės (kur tai reikalinga), ar
+nustatyta tvarka išduodamos bei naudojamos asmeninės apsaugos priemonės, ar
+teisingai sudaryti darbuotojų, kuriems privaloma tikrintis sveikatą, sąrašai,
+kontroliuoja, kaip darbdaviai organizuoja privalomus darbuotojų sveikatos
+patikrinimus;
+10) tikrina įmonėse jaunimo, moterų ir riboto
+darbingumo asmenų darbą, darbo ir poilsio organizavimą, ar nedirbamas nelegalus
+(nesudarius darbo sutarties su darbuotojais) darbas, duoda darbdaviams
+privalomus vykdyti nurodymus dėl darbo, atitinkančio visas būtinąsias darbo
+sutarties sąlygas, įforminimo rašytinėmis darbo sutartimis;
+ 11) nustatyta tvarka tiria sunkių nelaimingų
+atsitikimų darbe bei nelaimingų atsitikimų darbe su mirtinomis pasekmėmis
+aplinkybes ir priežastis. Sunkių ir mirtinų nelaimingų atsitikimų darbe
+atvejais Valstybinė darbo inspekcija medžiagą apie nelaimingą atsitikimą
+perduoda prokuratūrai. Tikrina, ar įmonėse laikomasi nustatytos nelaimingų
+atsitikimų darbe tyrimo tvarkos, taip pat kaip diegiamos prevencinės priemonės,
+kad būtų išvengta nelaimingų atsitikimų, profesinių ligų. Nustatyta tvarka
+organizuoja ir kartu su sveikatos priežiūros įstaigų atstovais tiria profesinių
+ligų, taip pat ūmių profesinių ligų (apsinuodijimų), atsiradusių kartu su
+nelaimingu atsitikimu darbe, aplinkybes ir priežastis; 
+12) teikia išvadas įmonei, darbuotojui dėl
+įmonės atsakomybės už padarytą žalą darbuotojo sveikatai. Dalyvauja tiriant avarijas
+įmonėse. Registruoja sunkius ir mirtinus nelaimingus atsitikimus darbe, kaupia
+iš įmonių gautą informaciją apie lengvus nelaimingus atsitikimus darbe,
+nustatyta tvarka saugo nelaimingų atsitikimų darbe, profesinių ligų priežasčių
+tyrimo aktus;
+13) analizuoja nelaimingų atsitikimų,
+profesinių ligų, avarijų įmonėse aplinkybes bei priežastis, saugos darbe
+pažeidimus, rengia pasiūlymus darbų saugos būklei Lietuvos Respublikoje
+gerinti;
+14) tikrina fizinių, juridinių asmenų įmonėms
+teikiamų darbų saugos paslaugų kokybę;
+15) sprendžia ginčus tarp darbdavio ir
+darbuotojo dėl darbuotojo atsisakymo dirbti motyvuojant, kad negarantuota darbų
+sauga;
+16) nagrinėja darbdavių pareiškimus dėl
+sutikimo atleisti iš darbo darbdavio iniciatyva darbuotojus, kurie yra įmonės
+saugos darbe komiteto nariai (įmonės profesinės sąjungos skirti ar darbuotojų
+išrinkti atstovai);
+17) tiria pareiškimus bei skundus Darbo
+inspekcijos kompetencijos klausimais, užtikrina pareiškėjų konfidencialumą, jei
+jie to pageidauja;
+18) teikia išvadas rengiamoms mokymo
+programoms darbų saugos specialistams mokyti, jų kvalifikacijai kelti bei
+aukštųjų mokyklų studentams, aukštesniųjų, profesinių, bendrojo lavinimo
+mokyklų moksleiviams apmokyti darbų saugos klausimais, kontroliuoja įmonėse
+darbų saugos mokymą, atestavimą bei instruktavimą, dalyvauja atestuojant šiais
+klausimais atskirų kategorijų darbuotojus bei darbdavius (jų įgaliotus
+asmenis);
+19) teikia pastabas bei pasiūlymus dėl darbų
+saugos ir darbo santykių klausimais rengiamų norminių aktų projektų ir,
+įvertindama galiojančių darbų saugos ir darbo įstatymų vykdymą įmonėse, teikia
+siūlymus Socialinės apsaugos ir darbo ministerijai pakeisti ar papildyti
+galiojančius norminius aktus;
+20) pasibaigus kalendoriniams metams, rengia
+darbų saugos būklės ir darbo įstatymų vykdymo ataskaitą ir iki birželio 1 d.
+pateikia ją Socialinės apsaugos ir darbo ministerijai bei Lietuvos Respublikos
+saugos darbe komisijai. Rengia kasmetinę Tarptautinės darbo organizacijos
+konvencijos “Dėl darbo inspekcijos pramonėje ir prekyboje” įgyvendinimo
+ataskaitą, teikia Socialinės apsaugos ir darbo ministerijai įmonių patikrinimo
+duomenis, kaip laikomasi kitų ratifikuotų konvencijų, susijusių su darbų sauga
+ir darbo santykiais;
+      21)
+atlieka kitas funkcijas, nustatytas darbų saugą ir darbo santykius
+reglamentuojančių teisės aktų.
  
 Straipsnio
 pakeitimai:
@@ -214,99 +244,109 @@ Nr.
 I-1289, 96.04.17, Žin., 1996, Nr. 41-987 (96.05.08) 
 Nr.
 VIII-364, 97.07.01, Žin., 1997, Nr.67-1654 (97.07.16)
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
+ 
  
                             
 III SKIRSNIS
                  
 DARBO INSPEKTORIŲ TEISĖS IR PAREIGOS
  
-     7
-straipsnis. Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius
-(toliau - vyriausiasis valstybinis darbo inspektorius), jo pavaduotojas
-(pavaduotojai), skyrių vyriausieji darbo inspektoriai,  vyresnieji  darbo 
-inspektoriai,  darbo inspektoriai (šiame įstatyme - darbo inspektoriai),
-vykdydami pavestas funkcijas, turi teisę:
-     1)
-pateikę tarnybinį pažymėjimą, bet kuriuo paros metu įeiti į įmones  ir 
-tikrinti,  ar  laikomasi  Darbo  inspekcijos kompetencijai priskirtų norminių
-aktų;
-     2)
-gauti iš įmonių duomenis ir dokumentus (jų nuorašus, išrašus), reikalingus
-Darbo inspekcijos funkcijoms vykdyti;
-     3)
-gauti iš darbdavių, darbuotojų, o tiriant nelaimingus at- sitikimus ir iš kitų
-asmenų, pasiaiškinimus, paaiškinimus žodžiu ar raštu dėl darbo, darbų saugos
-įstatymų, kitų norminių aktų, reglamentuojančių darbų saugą ir darbo santykius,
-pažeidimų, taip pat dėl teisėtų Darbo inspekcijos nurodymų nevykdymo;
-     4)
-sustabdyti šio įstatymo 6 straipsnio 5 punkte nurodytų leidimų galiojimą, kai
-nustatomas veiklos, kuriai išduoti šie leidimai, pažeidimas;
-     5)
-teikti nurodymus dėl statomų, rekonstruojamų įmonių, jų padalinių bei darbo
-priemonių projektų, kai paaiškėja, kad projektuose  numatyti  sprendimai 
-neatitinka  darbų  saugos reikalavimų;
-     6)
-Nuostatuose nustatyta tvarka:
-     uždrausti
-gaminti, reklamuoti ir realizuoti darbo ir saugos darbe priemones, jeigu jos
-neatitinka darbų saugos norminių aktų reikalavimų, kenkia žmonių sveikatai ir
-kelia pavojų gyvybei;
-     pranešus
-darbdaviui, paimti darbų saugos ekspertizei darbo priemonių (žaliavų, gaminių)
-pavyzdžius, pareikalauti, kad įmonės lėšomis būtų  atlikti darbo aplinkos
-kontroliniai matavimai, laboratorinės analizės, darbo bei saugos priemonių
-ekspertizės ar specialūs jų tyrimai;
-     7)
-informuoti darbdavį apie darbuotojus, nevykdančius darbų saugos reikalavimų;
-     8)
-pagal kompetenciją spręsti ginčą tarp darbdavio ir darbuotojo dėl darbuotojo
-atsisakymo dirbti motyvuojant, jog negarantuota darbų sauga;
-     9)
-reikalauti, kad darbdavys, jo įgalioti asmenys sustabdytų darbus, kai:
-     darbuotojai
-neapmokyti saugiai dirbti,
-     dėl
-darbo  priemonių gedimo  ar avarinės  būklės gali susidaryti arba susidarė
-sąlygos nelaimingiems atsitikimams, ūmiems apsinuodijimams,
-     dėl
+ 7 straipsnis. Lietuvos Respublikos
+vyriausiasis valstybinis darbo inspektorius (toliau - vyriausiasis valstybinis
+darbo inspektorius), jo pavaduotojas (pavaduotojai), skyrių vyriausieji darbo
+inspektoriai, vyresnieji darbo inspektoriai, darbo inspektoriai (šiame įstatyme
+- darbo inspektoriai), vykdydami pavestas funkcijas, turi teisę:
+ 1) pateikę tarnybinį pažymėjimą, laisvai ir
+be išankstinio perspėjimo bet kuriuo paros metu nekliudomai įeiti į įmones
+tikrinti, kaip įmonėse laikomasi darbo įstatymų ir darbų saugos teisės aktų
+reikalavimų, vykdyti kitas šio ir kitų įstatymų Darbo inspekcijai nustatytas
+funkcijas;
+2) gauti iš įmonių duomenis ir dokumentus (jų
+nuorašus, išrašus), reikalingus Darbo inspekcijos funkcijoms vykdyti;
+3) gauti iš darbdavių, jų įgaliotų asmenų,
+darbuotojų paaiškinimus žodžiu ar raštu dėl darbo, darbų saugos įstatymų, kitų
+teisės aktų, reglamentuojančių darbų saugą ir darbo santykius, pažeidimų ar dėl
+teisėtų Darbo inspekcijos nurodymų nevykdymo. Tirdami nelaimingą atsitikimą
+darbe, profesinės ligos priežastis, gauti reikiamus jų tyrimui dokumentus
+(susijusius su žalos, padarytos darbuotojo sveikatai, įstatymų ir kitų darbų
+saugos teisės aktų reikalavimų pažeidimų teisiniu įvertinimu) iš įmonių,
+sveikatos priežiūros įstaigų, teisėsaugos ir kitų institucijų, taip pat gauti
+darbdavių, jų įgaliotų asmenų, darbuotojų ar kitų liudininkų paaiškinimus dėl
+nelaimingo atsitikimo aplinkybių ar priežasčių;
+4) atlikti kontrolinius darbo aplinkos
+parametrų matavimus;
+5) teikti nurodymus dėl statomų,
+rekonstruojamų įmonių, jų padalinių bei darbo priemonių projektų, kai
+paaiškėja, kad projektuose numatyti sprendimai neatitinka darbų saugos
+reikalavimų;
+6) uždrausti įmonėse naudoti darbo ir
+asmeninės apsaugos priemones, jeigu jos neatitinka darbų saugos teisės aktų
+reikalavimų, kenkia žmonių sveikatai ar kelia pavojų gyvybei;
+7) pranešę darbdaviui, skirti darbų saugos
+ekspertizes asmeninėms apsaugos ir darbo priemonėms įvertinti, ar jos atitinka
+darbų saugos teisės aktų reikalavimus, nurodyti darbdaviui atlikti darbo
+aplinkos tyrimus; 
+8) informuoti darbdavį apie darbuotojus,
+kurie nevykdo darbų saugos reikalavimų;
+9) pagal kompetenciją spręsti ginčą tarp
+darbdavio ir darbuotojo dėl darbuotojo atsisakymo dirbti motyvuojant, jog
+negarantuota darbų sauga;
+10) reikalauti, kad darbdavys, jo įgalioti
+asmenys sustabdytų darbus, kuriuos vykdant kyla neišvengiamas pavojus
+darbuotojų sveikatai ar gyvybei (kai darbuotojai neapmokyti saugiai dirbti, kai
+dėl darbo priemonių gedimo ar avarinės būklės gali susidaryti arba susidarė
+sąlygos nelaimingiems atsitikimams, ūmiems apsinuodijimams, kai dėl
 technologinių ar darbo procesų pažeidimų darbo aplinka tampa pavojinga
-sveikatai ar gyvybei,
-     darbuotojai 
-neaprūpinti  reikiamomis  kolektyvinės  ar individualios saugos priemonėmis,
-     paaiškėja,
-kad  gaminama darbo  priemonė kenks  žmonių sveikatai ar kels pavojų jų
-gyvybei;
-     10)
-Administracinių  teisės pažeidimų kodekso nustatyta tvarka skirti pinigines
-baudas asmenims, pažeidusiems darbo įstatymus, darbų saugos norminius aktus;
-     11)
-atvykus  į įmonę tirti sunkių, mirtinų nelaimingų atsitikimų ir  avarijų
-priežasčių,  jeigu būtina, nemokamai naudotis tikrinamų įmonių ryšio ir
-transporto priemonėmis.
-     Šio
-straipsnio 4, 6 punktuose nurodytos teisės suteikiamos vyriausiajam
+darbuotojų sveikatai ar gyvybei, kai darbuotojai neaprūpinti reikiamomis
+kolektyvinės ar asmeninės apsaugos priemonėmis). Tuo atveju, kai darbdavys ar
+jo įgaliotas asmuo atsisako vykdyti darbo inspektoriaus reikalavimą sustabdyti
+darbus, darbo inspektorius kreipiasi į savivaldybės policijos pareigūnus dėl
+darbuotojų išvedimo iš pavojingų darbo vietų ar zonos;
+11) Administracinių teisės pažeidimų kodekso
+nustatyta tvarka skirti baudas asmenims, pažeidusiems darbo įstatymus, darbų
+saugos teisės aktus. Nustačius darbo įstatymų, darbų saugos ir darbo higienos
+teisės aktų pažeidimus, nurodyti laiką, per kurį darbdavys įpareigojamas juos
+pašalinti; 
+12) atvykę į įmonę tirti sunkių, mirtinų
+nelaimingų atsitikimų ir avarijų priežasčių, jeigu būtina, nemokamai naudotis
+tikrinamų įmonių ryšio ir transporto priemonėmis.
+      Šio
+straipsnio 6 ir 7 punktuose nurodytos teisės suteikiamos vyriausiajam
 valstybiniam darbo inspektoriui, jo pavaduotojui, skyrių vyriausiesiems darbo
 inspektoriams.
  
+Straipsnio
+pakeitimas:
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
+ 
      8
 straipsnis. Darbo inspektoriai privalo:
-     1)
-nustatę darbo, darbų saugos reikalavimų pažeidimus, įspėti darbdavį ir
-įpareigoti juos pašalinti, o esant šio įstatymo 7 straipsnio 9 punkto 1, 2, 3
-ir 4 pastraipose nurodytiems atvejams -  sustabdyti darbus ir, jeigu reikia,
-išvesti darbuotojus  iš pavojingos zonos, kai tai padaryti darbdavys atsisakė;
+      1)
+nustatę darbo, darbų saugos ir darbo higienos teisės aktų pažeidimus, nurodyti
+juos darbdaviui ir nustatyti laiką, per kurį darbdavys įpareigojamas juos
+pašalinti, o esant šio įstatymo 7 straipsnio 10 punkte nurodytiems atvejams, -
+pareikalauti, kad darbdavys ar jo įgaliotas asmuo sustabdytų darbus;
      2)
 perduoti teisėsaugos institucijoms medžiagą dėl darbo, darbų saugos  norminių
-aktų pažeidimų įmonėje, jeigu tai sukėlė arba galėjo sukelti sunkius nelaimingus
-atsitikimus žmonėms arba kitokias sunkias pasekmes;
+aktų pažeidimų įmonėje, jeigu tai sukėlė arba galėjo sukelti sunkius
+nelaimingus atsitikimus žmonėms arba kitokias sunkias pasekmes;
      3) 
 neatskleisti  valstybinių,  įmonių  komercinių  bei technologinių paslapčių,
 kurias jie sužinojo vykdydami tarnybines pareigas.
  
+Straipsnio
+pakeitimas:
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
+ 
+ 
                              
 IV SKIRSNIS
-                
-       TIKRINIMŲ VYKDYMO TVARKA
+                       
+TIKRINIMŲ VYKDYMO TVARKA
  
      9
 straipsnis. Darbo inspekcija nustato įmonių inspektavimo periodiškumą, būdą ir
@@ -326,13 +366,19 @@ straipsnis. Darbo inspektorius apie savo atvykimą į įmonę gali pranešti 
 darbdaviui (jo  įgaliotam asmeniui),  įmonės profesinių sąjungų atstovams,
 kurie gali (jeigu pageidauja) dalyvauti inspektuojant įmonę.
  
-     12
-straipsnis. Darbo inspektorius, patikrinęs įmonę, surašo nustatytos formos
-dokumentus ir su jais supažindina darbdavį (jo įgaliotą asmenį). Su patikrinimo
-medžiaga supažindina profesinių sąjungų atstovus, jeigu jie to pageidauja.
-     Darbo  
-inspektoriaus    nurodymai,    reikalavimai, neprieštaraujantys norminiams
-aktams, yra privalomi darbdaviui (jo įgaliotam asmeniui), darbuotojams.
+12 straipsnis. Darbo inspektorius, patikrinęs
+įmonę, privalo surašyti vyriausiojo valstybinio darbo inspektoriaus
+patvirtintos formos dokumentus, su jais supažindinti darbdavį (jo įgaliotą
+asmenį) ir turi teisę pateikti patikrinimo medžiagą įmonės profesinių sąjungų
+atstovams.
+Darbo inspektoriaus nurodymai bei
+reikalavimai yra privalomi darbdaviui, jo įgaliotam asmeniui ir darbuotojams.
+ 
+Straipsnio
+pakeitimas:
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
+ 
  
                              
 V SKIRSNIS
@@ -345,76 +391,84 @@ inspektavimo  skyriai  (tarp  jų  ir teritoriniai), jeigu reikia, neviršij
 biudžetinių asignavimų, gali būti steigiami kiti padaliniai, kurių steigimą
 vyriausiojo valstybinio darbo  inspektoriaus teikimu tvirtina socialinės
 apsaugos ir darbo ministras.
-     Atskiri
-Darbo inspekcijos padaliniai gali turėti juridinio asmens ar ne pelno
-organizacijos statusą.
+ 
+Straipsnio
+pakeitimas:
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
  
      14
 straipsnis. Darbo inspekcijai ir jos valdybai vadovauja vyriausiasis
 valstybinis darbo inspektorius. Jį skiria ir iš pareigų atleidžia socialinės
 apsaugos ir darbo ministras.
  
-     15  
-straipsnis.   Vyriausiasis  valstybinis  darbo inspektorius:
-     1)
-organizuoja Darbo inspekcijos darbą ir atsako už jos veiklą;
-     2)
-veikia Darbo inspekcijos vardu ir jai atstovauja;
-     3) 
-tvirtina  Darbo  inspekcijos  darbo  reglamentą, struktūrinių  padalinių  bei 
-darbo  inspektorių pareiginius nuostatus, Darbo inspekcijos etatus;
-     4)
-skiria ir atleidžia iš pareigų skyrių ir kitų padalinių vadovus, kitus
-darbuotojus;
-     5)
-tvirtina sąrašą įmonių, kuriose reikia privaloma tvarka įdiegti  specialiąsias 
-darbų  saugos  valdymo ir kontrolės sistemas, priemones;
-     6) 
-turi  teisę teikti pasiūlymus Lietuvos Respublikos Vyriausybei dėl valdymo ir
-kitų valstybinių įstaigų sprendimų sustabdymo ir panaikinimo, jeigu jie
-prieštarauja darbų saugos įstatymams ir kitiems norminiams aktams darbų saugos
-klausimais;
-     7) 
-teikia privalomas išvadas dėl darbo priemonių bei gaminamos produkcijos
-techninių sąlygų, taip pat dėl statybinių normų  bei  darbų  saugos taisyklių
-atitikimo darbų saugos reikalavimams;
-     leidžia
-įsakymus, nustatyta tvarka tvirtina ministerijų, kitų valstybinių įstaigų
-parengtas darbų saugos taisykles ir tipines instrukcijas;
-     8)
-turi teisę dalyvauti Lietuvos Respublikos Vyriausybės posėdžiuose, kai
-svarstomi klausimai, susiję su darbo ir darbų saugos norminiais aktais bei jų
-vykdymu;
-     9)
-nagrinėja skundus dėl darbo inspektorių veiksmų ir sprendimų;
-     vykdo
-kitus socialinės apsaugos ir darbo ministro suteiktus įgaliojimus;
-     10)
-nustato rekomenduojamus darbo inspektoriams piniginių baudų, įstatymo nustatyta
-tvarka skiriamų asmenims, pažeidusiems darbo, darbų saugos ir darbo higienos
-norminius aktus, dydžius.
+15 straipsnis. Vyriausiasis valstybinis darbo
+inspektorius:
+1) organizuoja Darbo inspekcijos darbą,
+atsako už jos veiklą, tvarko iš valstybės biudžeto gautus asignavimus;
+2) veikia Darbo inspekcijos vardu ir jai
+atstovauja;
+3) tvirtina Darbo inspekcijos padalinių
+nuostatus, darbo inspektorių pareiginius nuostatus, etatų sąrašą (neviršijant
+darbo užmokesčiui skirtų lėšų ir Lietuvos Respublikos Vyriausybės patvirtinto
+didžiausio leistino darbuotojų skaičiaus), Darbo inspekcijos darbo reglamentą,
+Darbo inspekcijos darbe naudojamų dokumentų formas;
+4) skiria ir atleidžia iš pareigų skyrių ir
+kitų padalinių vadovus, kitus darbuotojus;
+5) tvirtina sąrašą įmonių, kuriose reikia
+privaloma tvarka įdiegti specialiąsias darbų saugos valdymo ir kontrolės
+sistemas bei priemones;
+6) turi teisę teikti pasiūlymus Lietuvos
+Respublikos Vyriausybei dėl valdymo ir kitų valstybinių įstaigų sprendimų
+sustabdymo ir panaikinimo, jeigu jie prieštarauja darbų saugos įstatymams ar
+kitiems teisės aktams darbų saugos klausimais;
+7) teikia privalomas išvadas dėl darbo
+priemonių bei gaminamos produkcijos techninių sąlygų, taip pat ar statybinės
+normos bei darbų saugos taisyklės atitinka darbų saugos reikalavimus;
+8) leidžia įsakymus, nustatyta tvarka
+tvirtina ministerijų, kitų valstybės įstaigų parengtas darbų saugos taisykles
+ir tipines instrukcijas;
+9) įsakymu arba nutarimu turi teisę nurodyti
+darbdaviams, kad įgyvendintų prevencines priemones darbų saugos būklei gerinti;
+10) turi teisę dalyvauti Lietuvos Respublikos
+Vyriausybės posėdžiuose, kai svarstomi klausimai, susiję su darbo ir darbų
+saugos teisės aktais bei jų vykdymu;
+11) nagrinėja skundus dėl darbo inspektorių
+veiksmų ir sprendimų;
+12) vykdo kitus socialinės apsaugos ir darbo
+ministro suteiktus įgaliojimus;
+13) nustato darbo inspektoriams piniginių
+baudų, įstatymo nustatyta tvarka skiriamų asmenims, pažeidusiems darbo, darbų
+saugos ir darbo higienos norminius aktus, rekomenduojamus dydžius.
  
 Straipsnio
 pakeitimai:
 Nr.
 I-1289, 96.04.17, Žin., 1996, Nr. 41-987 (96.05.08)
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
  
      16
 straipsnis. Vyriausiojo valstybinio darbo inspektoriaus pavaduotojas vykdo
 vyriausiojo valstybinio darbo inspektoriaus pavedimus, o jo nesant, jį
 pavaduoja.
      Vyriausiojo
-valstybinio  darbo inspektoriaus pavaduotoją (pavaduotojus) skiria  ir iš
+valstybinio  darbo inspektoriaus pavaduotoją (pavaduotojus) skiria  ir iš
 pareigų atleidžia vyriausiasis valstybinis darbo inspektorius.
  
      17
 straipsnis. Darbo inspekcijos skyriams (tarp jų ir teritoriniams) vadovauja
 skyrių vyriausieji darbo inspektoriai.
  
-     18
-straipsnis.  Eiti darbo inspektoriaus pareigas gali Lietuvos Respublikos
-piliečiai, turintys aukštąjį išsilavinimą, specialių žinių ir atestuoti
-norminių aktų nustatyta tvarka.
+18 straipsnis. Darbo inspektoriumi gali
+dirbti Lietuvos Respublikos pilietis, turintis aukštąjį arba aukštesnįjį
+išsilavinimą, praktiką darbų saugos srityje bei specialiųjų žinių ir atestuotas
+teisės aktų nustatyta tvarka.
+ 
+Straipsnio
+pakeitimas:
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
  
      19
 straipsnis. Profesinio kvalifikavimo reikalavimus darbo inspektoriams, jų
@@ -422,14 +476,18 @@ mokymo, kvalifikacijos kėlimo ir atestavimo tvarką nustato socialinės apsaugo
 ir darbo ministras.
  
      20
-straipsnis. Darbo inspektoriai negali būti valstybinių, akcinių, privataus
-verslo įmonių valdymo organų nariais, eiti kitų renkamų ar skiriamų pareigų,
-dirbti kitose valstybinėse ar privačiose įmonėse, gauti kito papildomo
-atlyginimo, išskyrus atlyginimą už kūrybinę veiklą.
+straipsnis. Darbo inspektoriai negali būti valstybinių, akcinių, privataus verslo
+įmonių valdymo organų nariais, eiti kitų renkamų ar skiriamų pareigų, dirbti
+kitose valstybinėse ar privačiose įmonėse, gauti kito papildomo atlyginimo,
+išskyrus atlyginimą už kūrybinę veiklą.
  
      21
-straipsnis. Valstybinės darbo inspekcijos lėšos, gautos už paslaugas, skiriamos
-Lietuvos Respublikos saugos darbe fondui.
+straipsnis.(Neteko galios)
+ 
+Straipsnio
+pakeitimas:
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
  
      22
 straipsnis.  Išlaidas darbo  inspekcijos  paskirtoms ekspertizėms, susijusioms 
@@ -453,8 +511,8 @@ ir sprendimus, o jų padaryta žala įmonei ar darbuotojui atlyginama Lietuvos
 Respublikos įstatymų nustatyta tvarka.
      Darbo
 inspektoriaus veiksmai ir sprendimai gali būti apskųsti vyriausiajam
-valstybiniam  darbo inspektoriui arba socialinės apsaugos ir darbo ministrui,
-arba teismui. Vyriausiojo valstybinio darbo inspektoriaus sprendimai gali būti
+valstybiniam  darbo inspektoriui arba socialinės apsaugos ir darbo ministrui, arba
+teismui. Vyriausiojo valstybinio darbo inspektoriaus sprendimai gali būti
 apskųsti socialinės apsaugos ir darbo ministrui arba teismui.
  
                              
@@ -464,7 +522,13 @@ BAIGIAMIEJI NUOSTATAI
  
      25
 straipsnis. Darbo inspektoriai yra valstybės tarnautojai ir jiems taikomos
-įstatymo nustatytos garantijos, susijusios su darbu valstybės tarnyboje.
+įstatymo nustatytos priėmimo į valstybės tarnybą, tarnybos, mokymo,
+kvalifikacijos kėlimo, darbo apmokėjimo sąlygos bei socialinės garantijos.
+ 
+Straipsnio
+pakeitimas:
+Nr.
+VIII-910, 98.10.22, Žin., 1998, Nr.98-2712 (98.11.11)
  
      26
 straipsnis. Darbo inspekcijos steigimo, reorganizavimo ar veiklos nutraukimo 
