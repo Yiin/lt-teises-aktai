@@ -350,11 +350,7 @@ prižiūri, kaip eismo dalyviai laikosi šio įstatymo nuostatų ir Kelių eismo
 taisyklėse nustatytos eismo tvarkos;
 2)
 reguliuoja eismą;
-3)
-tiria Kelių eismo taisyklių pažeidimus, atlieka kvotą eismo įvykių bylose,
-įstatymų numatytais atvejais surašo administracinių teisės pažeidimų protokolus,
-nagrinėja administracinių teisės pažeidimų bylas bei skiria administracines
-nuobaudas ir kitas įstatymų numatytas priemones;
+3) tiria Kelių eismo taisyklių pažeidimus, atlieka ikiteisminį tyrimą eismo įvykių bylose, įstatymų numatytais atvejais surašo administracinių teisės pažeidimų protokolus, nagrinėja administracinių teisės pažeidimų bylas bei skiria administracines nuobaudas ir kitas įstatymų numatytas priemones;
 4)
 tikrina, ar neviršyti leistini transporto priemonių masė ir matmenys;
 5)
@@ -381,9 +377,9 @@ krovinio ir kitus vairuotojo su savimi privalomus turėti dokumentus, transporto
 priemonėje įrengtų privalomų prietaisų rodmenis;
 2)
 nušalinti nuo vairavimo asmenis, neturinčius teisės vairuoti, taip pat
-įtariant, jog jie yra neblaivūs, apsvaigę nuo narkotikų, vaistų ar kitų svaigiųjų
-medžiagų. Naudoti teisės aktuose numatytas priemones apsvaigimui nustatyti arba
-pristatyti įtariamus vairuotojus į medicinos įstaigą;
+įtariant, jog jie yra neblaivūs, apsvaigę nuo narkotikų, vaistų ar kitų
+svaigiųjų medžiagų. Naudoti teisės aktuose numatytas priemones apsvaigimui
+nustatyti arba pristatyti įtariamus vairuotojus į medicinos įstaigą;
 3) iškviesti į policiją eismo taisyklių pažeidėjus, eismo įvykio
 dalyvius bei liudininkus;
 4)
@@ -405,6 +401,8 @@ dokumentuose.
 Straipsnio pakeitimai:
 Nr. IX-1256,
 2002-12-10, Žin., 2002, Nr. 123-5543 (2002-12-24)
+Nr. IX-1470,
+2003-04-03, Žin., 2003, Nr. 38-1715 (2003-04-24)
  
 TREČIASIS
 SKIRSNIS
@@ -445,14 +443,14 @@ transporto priemonės vairuotojas privalo mokėti suteikti pirmąją medicinos
 pagalbą eismo įvykyje nukentėjusiems asmenims.
 7. Motorinės transporto priemonės
 vairuotojas privalo su savimi turėti ir policijos pareigūno reikalavimu
-pateikti Vyriausybės nustatyto pavyzdžio nuolat galiojantį ar laikiną
-vairuotojo pažymėjimą, transporto priemonės registravimo, valstybinės techninės
-apžiūros ir kitus Lietuvos Respublikos įstatymų ir Kelių eismo taisyklių
-numatytus dokumentus. Asmenys, nuolat gyvenantys užsienio valstybėje, privalo
-pateikti toje valstybėje galiojantį vairuotojo pažymėjimą ir transporto
-priemonės registravimo dokumentą, taip pat kitus dokumentus, kuriuos transporto
-priemonės vairuotojas privalo pateikti, vykdydamas kitų Lietuvos Respublikos
-įstatymų ir Kelių eismo taisyklių reikalavimus.
+pateikti Vyriausybės nustatyto pavyzdžio nuolat galiojantį ar laikiną vairuotojo
+pažymėjimą, transporto priemonės registravimo, valstybinės techninės apžiūros
+ir kitus Lietuvos Respublikos įstatymų ir Kelių eismo taisyklių numatytus
+dokumentus. Asmenys, nuolat gyvenantys užsienio valstybėje, privalo pateikti
+toje valstybėje galiojantį vairuotojo pažymėjimą ir transporto priemonės
+registravimo dokumentą, taip pat kitus dokumentus, kuriuos transporto priemonės
+vairuotojas privalo pateikti, vykdydamas kitų Lietuvos Respublikos įstatymų ir
+Kelių eismo taisyklių reikalavimus.
 8.
 Policijos pareigūno reikalavimu vairuotojas privalo leistis Vyriausybės
 nustatyta tvarka patikrinamas, ar nėra neblaivus, apsvaigęs nuo narkotikų,
@@ -497,8 +495,8 @@ važiuojamosios dalies, pėsčiųjų ir dviračių takų, kelio statinių, eismo
 reguliavimo priemonių, avarinio ryšio linijų ar želdinių;
 4) privalo imtis
 visų būtinų priemonių, siekdami išvengti nuostolingų padarinių arba jiems
-sumažinti, išskyrus atvejus, kai dėl to kyla pavojus jo ar kitų žmonių gyvybei ar
-sveikatai, arba tokios priemonės sudarytų sąlygas didesnei žalai atsirasti
+sumažinti, išskyrus atvejus, kai dėl to kyla pavojus jo ar kitų žmonių gyvybei
+ar sveikatai, arba tokios priemonės sudarytų sąlygas didesnei žalai atsirasti
 palyginti su ta, kurios būtų galima išvengti;
 5) sudarę
 kliūtį, sukėlę pavojų kelyje, pastebėję kliūtį ar pavojų, šią kliūtį ar pavojų
@@ -561,12 +559,12 @@ vairuotojai privalo su savimi turėti Vyriausybės arba jos įgaliotos
 institucijos nustatyta tvarka išduotą leidimą.
 9. Vežant
 pavojingus krovinius, įtrauktus į pavojingų medžiagų sąrašą, turi būti
-laikomasi teisės aktų, reglamentuojančių pavojingų krovinių vežimą,
-reikalavimų. Vairuotojas, išskyrus įstatymų ir kitų teisės aktų,
-reglamentuojančių pavojingų krovinių vežimą, nustatytus atvejus, privalo su
-savimi turėti pasirengimo vežti pavojingus krovinius ir transporto priemonės
-tinkamumo juos vežti pažymėjimus, o veždamas sprogstamąsias ar (ir)
-radioaktyviąsias medžiagas – ir nustatyta tvarka išduotą leidimą.
+laikomasi teisės aktų, reglamentuojančių pavojingų krovinių vežimą, reikalavimų.
+Vairuotojas, išskyrus įstatymų ir kitų teisės aktų, reglamentuojančių pavojingų
+krovinių vežimą, nustatytus atvejus, privalo su savimi turėti pasirengimo vežti
+pavojingus krovinius ir transporto priemonės tinkamumo juos vežti pažymėjimus,
+o veždamas sprogstamąsias ar (ir) radioaktyviąsias medžiagas – ir nustatyta
+tvarka išduotą leidimą.
  
 10 straipsnis.
 Specialiųjų transporto priemonių vairuotojų teisės ir pareigos
@@ -615,8 +613,8 @@ išlaikiusiems kvalifikacinius egzaminus.
 straipsnio 1 dalyje nurodyto vairuotojo pažymėjimo nereikia asmenims,
 turintiems 1968 metų Vienos konvencijos dėl kelių eismo reikalavimus
 atitinkantį tarptautinį vairuotojo pažymėjimą, Europos Sąjungos valstybėse
-narėse išduotus vairuotojo pažymėjimus bei vairuotojo pažymėjimus, kuriuos Lietuvos
-Respublika tarptautinėmis sutartimis yra įsipareigojusi pripažinti.
+narėse išduotus vairuotojo pažymėjimus bei vairuotojo pažymėjimus, kuriuos
+Lietuvos Respublika tarptautinėmis sutartimis yra įsipareigojusi pripažinti.
 3. Ligų,
 kuriomis sergant asmenims draudžiama vairuoti tam tikros kategorijos transporto
 priemones, sąrašą, vairuotojų sveikatos tikrinimo reikalavimus nustato
@@ -625,9 +623,9 @@ Vyriausybė arba jos įgaliota institucija.
 Vairuotojo pažymėjimas patvirtina teisę vairuoti tų kategorijų transporto
 priemones, kurios nurodytos vairuotojo pažymėjime.
 5. Vairuodamas transporto
-priemonę, vairuotojas privalo vykdyti vairuotojo pažymėjime nurodytas sąlygas (vairuoti
-tik su akiniais ar kontaktiniais lęšiais; rankinis valdymas, transporto
-priemonė su automatine pavarų dėže ir pan.).
+priemonę, vairuotojas privalo vykdyti vairuotojo pažymėjime nurodytas sąlygas
+(vairuoti tik su akiniais ar kontaktiniais lęšiais; rankinis valdymas,
+transporto priemonė su automatine pavarų dėže ir pan.).
  
 13 straipsnis.
 Vairuotojų ir kitų eismo dalyvių amžius
@@ -678,7 +676,8 @@ kaip 750 kg, junginius (CE kategorija);
 10) 22 metų –
 automobilius, skirtus vežti keleivius ir turinčius daugiau kaip aštuonias
 sėdimąsias vietas be vairuotojo vietos; šie automobiliai gali būti sujungti su
-priekaba, kurios leidžiama maksimali masė ne didesnė kaip 750 kg (D kategorija);
+priekaba, kurios leidžiama maksimali masė ne didesnė kaip 750 kg (D
+kategorija);
 11) 21 metų –
 automobilius, skirtus vežti keleivius ir turinčius daugiau kaip aštuonias, bet
 ne daugiau kaip šešiolika sėdimųjų vietų be vairuotojo vietos; šie automobiliai
@@ -768,8 +767,8 @@ PRIEMONĖS
 Bendrieji reikalavimai kelių transporto priemonėms
 1.
 Eisme dalyvauti leidžiama tik techniškai tvarkingoms transporto priemonėms,
-atitinkančioms Vyriausybės arba jos įgaliotos institucijos nustatytus
-techninius reikalavimus. 
+atitinkančioms Vyriausybės arba jos įgaliotos institucijos nustatytus techninius
+reikalavimus. 
 2.
 Kelių transporto priemonės, dalyvaujančios eisme, techninę būklę užtikrina
 transporto priemonės valdytojas ir vairuotojas.
@@ -868,8 +867,8 @@ reikalavimus nustato Vyriausybė arba jos įgaliota institucija.
 4. Valstybines
 technines apžiūras atlieka įmonės, turinčios leidimą užsiimti šia veikla,
 išskyrus įmones, užsiimančias transporto priemonių technine priežiūra ir
-remontu. Leidimą atlikti valstybinę techninę apžiūrą Vyriausybės ar jos įgaliotos
-institucijos nustatyta tvarka išduoda jos įgaliota institucija.
+remontu. Leidimą atlikti valstybinę techninę apžiūrą Vyriausybės ar jos
+įgaliotos institucijos nustatyta tvarka išduoda jos įgaliota institucija.
  
 22 straipsnis.
 Greičio ribojimas bei darbo ir poilsio apskaita
@@ -881,10 +880,9 @@ kontrolės bei periodinio patikrinimo reikalavimus nustato Vyriausybė arba jos
 PENKTASIS
 SKIRSNIS
 EISMO ĮVYKIAI
-Keistas skirsnio pavadinimas:
+Skirsnio pavadinimas keistas:
 Nr. IX-1256,
 2002-12-10, Žin., 2002, Nr. 123-5543 (2002-12-24)
- 
  
 23
 straipsnis. Eismo dalyvio pareigos įvykus eismo įvykiui
@@ -899,26 +897,27 @@ medicinos pagalba nukentėjusiesiems, iškviesti medicinos pagalbą ar prireikus
 nuvežti nukentėjusįjį į medicinos įstaigą, išskyrus atvejus, kai tai sukeltų
 pavojų nukentėjusiojo gyvybei ar sveikatai;
 5) su eismo įvykiu susiję eismo dalyviai privalo iš karto po jo
-nevartoti alkoholio ar kitų svaiginamųjų medžiagų, kol eismo įvykio vietoje
-bus nustatytos ir ištirtos jo aplinkybės.
+nevartoti alkoholio ar kitų svaiginamųjų medžiagų, kol eismo įvykio
+vietoje bus nustatytos ir ištirtos jo aplinkybės.
 Straipsnio pakeitimai:
 Nr. IX-1256,
 2002-12-10, Žin., 2002, Nr. 123-5543 (2002-12-24)
  
 24 straipsnis. Gelbėjimo darbai
 Jeigu eismo įvykyje buvo sužeistas arba žuvo žmogus, jei dėl eismo
-įvykio susidarė transporto grūstis, jei eismo įvykyje dalyvauja kelių
-transporto priemonė, kuri veža pavojingą krovinį arba krovinį, kurio išsipylė
-ant kelio, ir taip sudaro pavojų eismui, Vyriausybės įgaliotų institucijų
-tarnybos privalo nedelsdamos atvykti į eismo įvykio vietą.
+įvykio susidarė transporto grūstis, jei eismo įvykyje dalyvauja kelių transporto
+priemonė, kuri veža pavojingą krovinį arba krovinį, kurio išsipylė ant kelio,
+ir taip sudaro pavojų eismui, Vyriausybės įgaliotų institucijų tarnybos privalo
+nedelsdamos atvykti į eismo įvykio vietą.
 Straipsnio pakeitimai:
 Nr. IX-1256,
 2002-12-10, Žin., 2002, Nr. 123-5543 (2002-12-24)
  
 25 straipsnis. Eismo įvykių
 tyrimas
-1. Eismo įvykių tyrimą, kvotą, siekiant nustatyti eismo įvykio
-kaltininką, eismo įvykių bylose atlieka policija. 
+1.
+Eismo įvykių tyrimą, ikiteisminį tyrimą, siekiant nustatyti eismo įvykio
+kaltininką, eismo įvykių bylose atlieka policija.
 2.
 Eismo įvykius, sukėlusius itin sunkių pasekmių, siekiant nustatyti ir pašalinti
 tokių eismo įvykių priežastis, tiria Komisijos sudaryta speciali ekspertų
@@ -932,7 +931,8 @@ suinteresuotoms institucijoms.
 Straipsnio pakeitimai:
 Nr. IX-1256,
 2002-12-10, Žin., 2002, Nr. 123-5543 (2002-12-24)
- 
+Nr. IX-1470,
+2003-04-03, Žin., 2003, Nr. 38-1715 (2003-04-24)
  
 ŠEŠTASIS
 SKIRSNIS
@@ -943,7 +943,6 @@ Atsakomybė
 
 Asmenys, pažeidę
 šį įstatymą, atsako įstatymų nustatyta tvarka.
- 
  
 SEPTINTASIS
 SKIRSNIS
@@ -956,6 +955,7 @@ straipsnis. Įstatymo įsigaliojimas
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d. 
 2.
 Vyriausybė parengia šio įstatymo įgyvendinimui reikalingus teisės aktus.
+ 
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -992,8 +992,8 @@ panaikinimo;
 Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d.
 Hagoje.
 Įstatymas papildytas priedu:
-Nr. IX-1256, 2002-12-10,
-Žin., 2002, Nr. 123-5543 (2002-12-24)
+Nr. IX-1256,
+2002-12-10, Žin., 2002, Nr. 123-5543 (2002-12-24)
  
 ________________
  
@@ -1010,11 +1010,25 @@ EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 4, 5, 6, 7, 13, 14, 17, 23, 24, 25
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, PENKTOJO SKIRSNIO PAVADINIMO PAKEITIMO IR
 ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1470,
+2003-04-03, Žin., 2003, Nr. 38-1715 (2003-04-24)
+SAUGAUS
+EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 6 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos
+baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos
+baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y. nuo 2003 m. 
+gegužės 1 d.
+ 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-01-23)
-            
-     autrap@lrs.lt
+Aušrinė Trapinskienė (2003-05-12)
+                 
+autrap@lrs.lt
