@@ -1039,19 +1039,27 @@ Nr. VIII-1757,
 Nr. IX-496,
 2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
  
-22
-straipsnis. Specialiosios nuostatos
-Savivaldybių institucijos
-iki 2002 m. liepos 1 d. savo biudžeto lėšomis parengia ir patvirtina
-miestų vietovių, kuriose numatoma už nuosavybės teise turėtą žemę suteikti
-žemės sklypus individualaus gyvenamojo namo statybai ar kitai paskirčiai,
-teritorijų planavimo dokumentus (detaliuosius planus).
+22 straipsnis. Specialiosios nuostatos
+1.
+Savivaldybių institucijos iki 2002 m. liepos 1 d. savo biudžeto lėšomis
+parengia ir patvirtina miestų vietovių, kuriose numatoma už nuosavybės teise
+turėtą žemę suteikti žemės sklypus individualaus gyvenamojo namo statybai ar
+kitai paskirčiai, teritorijų planavimo dokumentus (detaliuosius planus).
+2. Valstybinės
+žemės sklypų naudotojai, kuriems žemės sklypai suteikti teisės aktų nustatyta
+tvarka arba kuriems žemę administruojančių institucijų sprendimais leista žeme
+naudotis žemės reformos metu, Lietuvos Respublikos Vyriausybės nustatyta tvarka
+už naudojimąsi žeme iki nuomos ar pirkimo–pardavimo sutarčių sudarymo moka
+žemės nuomos mokestį, išskyrus už žemę, perduotą naudotis panaudai.
 Straipsnio
 pakeitimai:
 Nr. VIII-1757,
 00.06.27, Žin., 2000, Nr.56-1649 (00.07.12)
-Nr. IX-496, 2001-08-03,
-Žin., 2001, Nr. 71-2524 (2001-08-17)
+Nr. IX-496,
+2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
+Nr.
+IX-1415,
+2003-04-03, Žin., 2003, Nr. 38-1660 (2003-04-24)
  
  
 LIETUVOS RESPUBLIKOS 
@@ -1217,11 +1225,19 @@ Nr. IX-1171,
 REFORMOS ĮSTATYMO 7, 9, 10, 14, 15, 16, 18, 19 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
  
+17.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1415,
+2003-04-03, Žin., 2003, Nr. 38-1660 (2003-04-24)
+ŽEMĖS
+REFORMOS ĮSTATYMO 22 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2002-11-25)
+Aušra Bodin (2003-04-24)
                  
 aubodi@lrs.lt
