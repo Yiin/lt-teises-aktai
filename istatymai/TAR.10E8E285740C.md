@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
+Suvestinė redakcija nuo 1998-06-05 iki 2001-05-08
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
+ 
+ 
 LIETUVOS RESPUBLIKOS GYDYTOJO MEDICINOS PRAKTIKOS Į S T A T Y M A S
  
 1996 m. rugsėjo 25 d. Nr. I-1555
@@ -43,7 +48,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Gydytojas tyrėjas – asmuo, turintis gydytojo diplomą ir sertifikatą, patvirtinantį teisę atlikti tam tikras ligų diagnozavimo (tyrimo) procedūras, bet neturintis teisės verstis savarankiška medicinos praktika.
+4. Gydytojas tyrėjas – asmuo, turintis gydytojo diplomą ir sertifikatą, patvirtinantį teisę atlikti tam tikras ligų diagnozavimo (tyrimo) procedūras, bei turintis teisę savarankiškai verstis medicinos praktika, kurią apibrėžia gydytojo tyrėjo specialybės norma.
+Straipsnio dalies pakeitimai:
+Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
+ 
 
 
 
@@ -132,15 +140,17 @@ TEISĖ VERSTIS MEDICINOS PRAKTIKA
 3 straipsnis. Gydytojo medicinos praktikos reguliavimo pagrindai
 
 
-1. Licencijas verstis medicinos praktika (pirmine ir specializuota) gydytojams išduoda, įregistruoja, perregistruoja, sustabdo, atnaujina ir panaikina Sveikatos apsaugos ministerija šio įstatymo ir Gydytojo medicinos praktikos licencijavimo nuostatų nustatyta tvarka. Gydytojo medicinos praktikos licencijavimo nuostatus tvirtina Vyriausybė.
+1. Licencijas verstis medicinos praktika (pirmine ir specializuota) gydytojams išduoda, įregistruoja, perregistruoja, sustabdo, atnaujina ir panaikina Sveikatos apsaugos ministerija šio įstatymo ir Gydytojo medicinos praktikos licencijavimo nuostatų nustatyta tvarka. Gydytojo medicinos praktikos licencijavimo nuostatus tvirtina Sveikatos apsaugos ministerija.
 
 
 
 
-2. Sveikatos apsaugos ministerija šio straipsnio 1 dalyje nurodytai veiklai sudaro nuolatinę komisiją iš Sveikatos apsaugos ministerijos specialistų, Lietuvos gydytojų sąjungos, gydytojų specialybių draugijų ir kitų medicinos darbuotojų profesinių sąjungų atstovų bei ekspertų iš Kauno medicinos akademijos ir Vilniaus universiteto Medicinos fakulteto. Komisija sudaroma pagal trišalį principą paritetiniais pagrindais. Jos sudarymo tvarką ir veiklą reglamentuoja Gydytojo medicinos praktikos licencijavimo nuostatai.
+2. Sveikatos apsaugos ministerija šio straipsnio 1 dalyje nurodytai veiklai sudaro nuolatinę komisiją, kurios sudėtį, sudarymo tvarką ir veiklą reglamentuoja Gydytojo medicinos praktikos licencijavimo nuostatai.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
  
-
-
 
 
 
@@ -293,7 +303,10 @@ Asmuo, gaudamas ar perregistruodamas licenciją, taip pat gaudamas sertifikatą,
 9 straipsnis. Licencijų registras
 
 
-1. Sveikatos apsaugos ministerija, priėmusi sprendimą išduoti, perregistruoti, sustabdyti, atnaujinti, panaikinti licenciją, privalo per tris darbo dienas šį sprendimą įrašyti į licencijų registrą.
+1. Sveikatos apsaugos ministerija, priėmusi sprendimą išduoti, perregistruoti, sustabdyti, atnaujinti, panaikinti licenciją, privalo per penkias darbo dienas šį sprendimą įrašyti į licencijų registrą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
+ 
 
 
 
@@ -329,7 +342,10 @@ Asmuo, gaudamas ar perregistruodamas licenciją, taip pat gaudamas sertifikatą,
 
 
 
-3. Pirminės medicinos praktikos licencija Sveikatos apsaugos ministerijos sprendimu perregistruojama per du mėnesius nuo asmens kreipimosi į Sveikatos apsaugos ministeriją.
+3. Pirminės ar specializuotos medicinos praktikos licencija Sveikatos apsaugos ministerijos sprendimu perregistruojama per du mėnesius nuo asmens kreipimosi į Sveikatos apsaugos ministeriją dienos.
+Straipsnio dalies pakeitimai:
+Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
+ 
 
 
 
@@ -379,7 +395,10 @@ Licencijos galiojimas panaikinamas, jeigu:
 
 
 
-3) asmuo padarė grubią medicinos praktikos klaidą ar dažnai pasikartojančių medicinos praktikos klaidų. Medicinos praktikos klaidos pripažinimo grubia ar dažnai pasikartojančia klaida kriterijus nustato Sveikatos apsaugos ministerija;
+3) asmuo padarė grubią medicinos praktikos klaidą ar dažnai pasikartojančių medicinos praktikos klaidų;
+Straipsnio punkto pakeitimai:
+Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
+ 
 
 
 
@@ -407,12 +426,18 @@ Licencijos galiojimas panaikinamas, jeigu:
 13 straipsnis. Licencijų galiojimo panaikinimo tvarka
 
 
-1. Pirminės ar specializuotos medicinos praktikos licencijų galiojimą panaikina Sveikatos apsaugos ministerija savo iniciatyva arba kai dėl to kreipiasi šio straipsnio 2 dalyje nurodytos institucijos šio įstatymo 12 straipsnyje nurodytais pagrindais. Licencijos galiojimo panaikinimo klausimas turi būti išnagrinėtas per vieną mėnesį nuo kreipimosi į Sveikatos apsaugos ministeriją dienos.
+1. Pirminės ar specializuotos medicinos praktikos licencijų galiojimą panaikina Sveikatos apsaugos ministerija savo iniciatyva arba kai dėl to kreipiasi šio straipsnio 2 dalyje nurodytos institucijos šio įstatymo 12 straipsnyje nurodytais pagrindais. Licencijos galiojimo panaikinimo klausimas turi būti išnagrinėtas per vieną mėnesį nuo kreipimosi į Sveikatos apsaugos ministeriją dienos. Sveikatos apsaugos ministerija apie priimtą sprendimą per penkias darbo dienas praneša gydytojui bei jo darbdaviui. Pagal šį sprendimą darbdavys privalo nutraukti darbo sutartį su gydytoju Darbo sutarties įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
+ 
 
 
 
 
-2. Dėl licencijos galiojimo panaikinimo gali kreiptis Lietuvos medicinos etikos komitetas, sveikatos priežiūros įstaigos medicinos etikos komisija, apskrities ar savivaldybės gydytojai, sveikatos priežiūros įstaigos administracija, Lietuvos gydytojų sąjunga, gydytojų specialybės draugija.
+2. Dėl licencijos galiojimo panaikinimo gali kreiptis Lietuvos medicinos etikos komitetas, Valstybinė medicininio audito inspekcija, savivaldybių gydytojai, sveikatos priežiūros įstaigos administracija, atitinkamos gydytojų specialybės mokslinė draugija.
+Straipsnio dalies pakeitimai:
+Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
+ 
 
 
 
@@ -453,7 +478,10 @@ Licencijos galiojimas panaikinamas, jeigu:
 
 
 
-5. Sprendimą sustabdyti licencijos galiojimą priima Sveikatos apsaugos ministerija ir per tris darbo dienas apie tai praneša gydytojui bei jo darbdaviui.
+5. Sprendimą sustabdyti licencijos galiojimą priima Sveikatos apsaugos ministerija ir per penkias darbo dienas apie tai praneša gydytojui bei jo darbdaviui. Pagal šį Sveikatos apsaugos ministerijos sprendimą darbdavys privalo licencijos galiojimo sustabdymo laikotarpiui nušalinti gydytoją nuo darbo (pareigų) įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
+ 
 
 
 
@@ -541,7 +569,10 @@ Gydytojas turi teisę:
 
 
 
-2) skirti ir išrašyti vaistus. Vaistų skyrimo ir išrašymo receptuose tvarką reglamentuoja Sveikatos apsaugos ir Socialinės apsaugos ir darbo ministerijų teisės aktai;
+2) skirti ir išrašyti vaistus. Vaistų skyrimo ir išrašymo receptuose tvarką reglamentuoja Sveikatos apsaugos ministerija;
+Straipsnio punkto pakeitimai:
+Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
+ 
 
 
 
@@ -668,3 +699,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
+Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 1, 3, 9, 10, 12, 13, 14, 17 straipsnių pakeitimo ir papildymo įstatymas
