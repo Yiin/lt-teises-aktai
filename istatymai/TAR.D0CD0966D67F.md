@@ -13,15 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 
 # Lietuvos Respublikos vietos savivaldos įstatymas
 
-Redaguota: 1995 07 19
+Redaguota: 1996 03 14
 
 
 
 
-Redaguota: 1995 07
-19
+Redaguota: 1996 03
+14
 g
-  Pakeitimai:
+Pakeitimai:
  
 1.Lietuvos
 Respublikos 1995 04 04
@@ -54,15 +54,25 @@ RESPUBLIKOS VIETOS SAVIVALDOS
   ĮSTATYMO 19
 SRAIPSNIO PAPILDYMO
  
+4.Lietuvos
+Respublikos 1996 03 14
+  Įstatymas
+Nr.1-1227
+  Žin., 1996,
+Nr.33-804
+  LIETUVOS
+RESPUBLIKOS VIETOS SAVIVALDOS 
+  ĮSTATYMO 29
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-                      LIETUVOS
-RESPUBLIKOS
+ 
+                     
+LIETUVOS RESPUBLIKOS
  
                       
 VIETOS SAVIVALDOS
  
-                           
-ĮSTATYMAS
+                            ĮSTATYMAS
  
                  
 1994 m. liepos 7 d. Nr.I-533
@@ -73,8 +83,8 @@ Vilnius
                            
 I skyrius
  
-                      BENDROSIOS
-NUOSTATOS
+                     
+BENDROSIOS NUOSTATOS
  
  
      1 straipsnis.
@@ -111,8 +121,8 @@ Konstitucija, šis ir kiti įstatymai, tarybų statutai.
 įstatymas   nustato   bendrą   savivaldos   institucijų
 organizavimo ir
 veiklos tvarką.
-     Jeigu savivaldybei 
-deleguojamos kitokios  valstybės valdymo
+     Jeigu
+savivaldybei  deleguojamos kitokios  valstybės valdymo
 ar administravimo 
 funkcijos  arba  to  reikia  jos  išskirtiniam
 statusui
@@ -148,8 +158,8 @@ savarankiškumo.
      3 straipsnis.
 Savivaldos teritorinis pagrindas
  
-     Savivaldos
-teisė  laiduojama įstatymo  numatytiems valstybės
+     Savivaldos teisė 
+laiduojama įstatymo  numatytiems valstybės
 teritorijos
 administraciniams vienetams.
  
@@ -204,7 +214,7 @@ išrinkti ar paskirti
 nauji pareigūnai.
  
  
-     5 straipsnis.
+     5 straipsnis.
 Taryba
  
      Tarybų narius 
@@ -220,7 +230,7 @@ rinkimų įstatymo nustatyta tvarka.
 turi juridinio
 asmens teises.
      Taryba   
-sudaro  komitetus,  komisijas  ir  kitus  Lietuvos
+sudaro  komitetus,  komisijas  ir  kitus  Lietuvos
 Respublikos įstatymų
 numatytus organus.
      Tarybos 
@@ -232,7 +242,7 @@ teritorijoje
 laikinai įvedamas tiesioginis valdymas.
  
  
-     6 straipsnis.
+     6 straipsnis.
 Tarybos veiklos formos
  
      Tarybos darbo 
@@ -245,7 +255,7 @@ pagrindinė tarybos veiklos forma.
 klausimus tarybos,
 komitetų bei komisijų posėdžiuose, frakcijų ir
 grupių 
-pasitarimuose.   Taryba  svarstomais   klausimais  priima
+pasitarimuose.   Taryba  svarstomais   klausimais  priima
 sprendimus ir
 organizuoja jų įgyvendinimą bei kontrolę.
      Taryba ne 
@@ -300,7 +310,7 @@ reikalavimo gavimo.
      Jeigu per 
 nustatytą laiką  posėdis nesušaukiamas,  jį  gali
 šaukti ne  mažiau
-kaip  1/3 visų  tarybos narių,  apie tai  raštu
+kaip  1/3 visų  tarybos narių,  apie tai  raštu
 pranešę kitiems 
 tarybos nariams  ir gyventojams. Jei meras ir jo
 pavaduotojas 
@@ -332,7 +342,7 @@ balsai  pasiskirsto po  lygiai, sprendžiamąjį
 balsą turi  meras.
 Tarybos  narys neturi  balsavimo  teisės,  kai
 sprendžiami su  juo
-susiję  turtiniai ir  finansiniai  klausimai.
+susiję  turtiniai ir  finansiniai  klausimai.
 Tarybos sprendimai 
 įsigalioja kitą dieną po jų paskelbimo, jeigu
 juose nenustatyta
@@ -356,10 +366,10 @@ atstovų  ir  
 gyventojų  dalyvavimo  tarybos  posėdžiuose  tvarką
 nustato tarybos
 statutas.
-     Tarybos posėdžiuose 
-svarstomi tik  tie klausimai, dėl kurių
+     Tarybos
+posėdžiuose  svarstomi tik  tie klausimai, dėl kurių
 tarybos  statuto  
-nustatyta  tvarka   yra   pateikti   sprendimų
+nustatyta  tvarka   yra   pateikti   sprendimų
 projektai.
  
   Pakeitimai:
@@ -375,8 +385,8 @@ Tarybos komitetai
  
      Tarybos
 komitetai - tai tarybos organai, sudaromi klausimams
-preliminariai 
-nagrinėti,   rengti  ir   teikti  tarybai,  merui,
+preliminariai  nagrinėti,  
+rengti  ir   teikti  tarybai,  merui,
 valdybai bei 
 kontroliuoti, kaip  laikomasi įstatymų  ir  vykdomi
 tarybos, mero,
@@ -401,7 +411,7 @@ kompetenciją  bei darbo tvarką nustato tarybos statutas.
 Komitetų pirmininkai
 renkami mero siūlymu.
      Komitetų
-posėdžiai  protokoluojami.  Išvadas  ir  sprendimus
+posėdžiai  protokoluojami.  Išvadas  ir  sprendimus
 pasirašo komitetų
 pirmininkai.
  
@@ -413,22 +423,22 @@ Meras, mero pavaduotojas
 įgaliojimų  laikui  iš  tarybos  narių  renka
 savivaldybės merą ir
 mero siūlymu - mero pavaduotoją. Meras, mero
-pavaduotojas
-renkami  slaptu balsavimu.  Meras, mero pavaduotojas
+pavaduotojas renkami
+ slaptu balsavimu.  Meras, mero pavaduotojas
 laikomi išrinktais, 
 jeigu už  jų kandidatūras  balsavo nustatyto
 viso tarybos narių
 skaičiaus dauguma.
-     Už savarankiškosios 
-kompetencijos įgaliojimų vykdymą meras,
+     Už
+savarankiškosios  kompetencijos įgaliojimų vykdymą meras,
 mero pavaduotojas
 yra atsakingi ir atskaitingi tarybai.
      Meras,  mero  
 pavaduotojas  yra   tiesiogiai  atsakingi  už
 valstybės 
 deleguotų   įgaliojimų  vykdymą.   Jei   meras,   mero
-pavaduotojas  nevykdo 
-arba  blogai  vykdo  valstybės  deleguotus
+pavaduotojas 
+nevykdo  arba  blogai  vykdo  valstybės  deleguotus
 įgaliojimus, 
 Vyriausybė   apie  tai  praneša  tarybai,  o  šiuos
 pareigūnus įspėja 
@@ -447,14 +457,14 @@ Vyriausybė kreipiasi į Seimą dėl tiesioginio valdymo
      Meras, mero 
 pavaduotojas taip  pat netenka savo įgaliojimų,
 jeigu:
-     l)  
-įsigalioja   teismo   nuosprendis   dėl   jų   padarytų
+     l)   įsigalioja  
+teismo   nuosprendis   dėl   jų   padarytų
 nusikaltimų;
      2) jie
 neatsisako kito darbo ar pareigų pagal šio straipsnio
 dešimtąją dalį;
-     3) savivaldybės 
-teritorijoje laikinai  įvedamas tiesioginis
+     3)
+savivaldybės  teritorijoje laikinai  įvedamas tiesioginis
 valdymas.
      Prieš 
 terminą   motyvuotu  tarybos  sprendimu  meras,  mero
@@ -506,10 +516,10 @@ posėdžiui, kai
 svarstomi su mero asmeniu susiję klausimai.
      Merui, mero 
 pavaduotojui įgaliojimai pratęsiami ir po naujų
-rinkimų  iki 
+rinkimų  iki 
 reikalų  perdavimo  naujai  išrinktam  merui,  mero
 pavaduotojui  arba 
-Vyriausybės  įgaliotiniui,  kai  savivaldybės
+Vyriausybės  įgaliotiniui,  kai  savivaldybės
 teritorijoje
 laikinai įvedamas tiesioginis valdymas.
  
@@ -553,24 +563,24 @@ paskelbimo,  jeigu  
 pačiuose  aktuose   nenustatyta  vėlesnė  jų
 įsigaliojimo data. 
 Valdybos sprendimus  tarybos savarankiškosios
-kompetencijos klausimais 
-privalo pasirašyti  meras.  Meras  turi
+kompetencijos
+klausimais  privalo pasirašyti  meras.  Meras  turi
 teisę nepasirašyti 
 valdybos sprendimų,  susijusių  su  valstybės
 deleguotomis 
 funkcijomis,  jeigu  jie  prieštarauja  įstatymams.
 Piliečių ir 
 organizacijų teises  pažeidžiantys mero veiksmai dėl
-sprendimo nepasirašymo
-gali būti skundžiami teisme.
+sprendimo
+nepasirašymo gali būti skundžiami teisme.
      Taryba  gali  
 1/3  tarybos   narių   iniciatyva   pareikšti
 nepasitikėjimą visa 
 valdyba, jeigu  ši  sudaroma,  arba  atskiru
 valdybos nariu, 
 jeigu už  tai balsuoja  nustatyto  viso  tarybos
-narių  skaičiaus   dauguma. 
-Kai   pareiškiamas  nepasitikėjimas,
+narių  skaičiaus  
+dauguma.  Kai   pareiškiamas  nepasitikėjimas,
 valdyba ar  atskiras
 jos narys privalo iš pareigų atsistatydinti.
 Jeigu sprendimas 
@@ -593,14 +603,14 @@ techniškai aptarnauja administracija.
      Administracijos
 struktūrą,  jos nuostatus tvirtina taryba, o
 etatus  bei  
-administracijos  darbuotojų   atlyginimus  -  meras
+administracijos  darbuotojų   atlyginimus  -  meras
 (valdyba,  jeigu  
 ji  sudaroma),  vadovaudamasis  įstatymų  arba
 Vyriausybės
 nutarimų  patvirtintais normatyvais  ir  neviršydamas
 nustatyto mokos
 fondo.
-     Administracijai
+     Administracijai
 vadovauja administratorius.
     
 Administratorius:
@@ -630,7 +640,7 @@ darbuotojai  negali būti  tarybos, kurią jie
 aptarnauja, nariai.
      
  
-     12 straipsnis.
+     12 straipsnis.
 Seniūnas
  
      Seniūnas  yra 
@@ -717,21 +727,21 @@ kontrolieriui.
                           
 III skyrius
  
-               SAVIVALDOS
-INSTITUCIJŲ KOMPETENCIJA
+              
+SAVIVALDOS INSTITUCIJŲ KOMPETENCIJA
  
  
      14 straipsnis.
 Bendrosios nuostatos
  
-     Savivaldos
+     Savivaldos
 institucijų  kompetencija yra  savarankiškoji  ir
 valstybės
 deleguotoji.
      Savivaldos
 institucijos  pagal šio  įstatymo joms  priskirtą
-savarankiškąją  kompetenciją  
-turi  veikimo,   iniciatyvos   bei
+savarankiškąją 
+kompetenciją   turi  veikimo,   iniciatyvos   bei
 sprendimų priėmimo 
 laisvę, kiek tai leidžia Lietuvos Respublikos
 Konstitucija, 
@@ -761,8 +771,8 @@ numatytais atvejais ir formomis.
  
      15 straipsnis.
 Tarybos savarankiškoji kompetencija
-     Taryba:
  
+     Taryba:
      1) renka bei
 atleidžia iš pareigų merą ir mero pavaduotoją;
      2)  sudaro    
@@ -770,13 +780,13 @@ komitetus,   o   nutarusi   -   ir   valdybą,
 administracinę bei 
 kitas komisijas,   keičia jų sudėtį, tvirtina
 mero pasiūlytas
-komitetų ir komisijų  pirmininkų kandidatūras;
+komitetų ir komisijų  pirmininkų kandidatūras;
      3) nustato 
 administracijos struktūrą,  etatų skaičių, darbo
 užmokesčio fondą;
      4) skiria
 kontrolierių bei jo pavaduotoją;
-     5)   priima   
+     5)   priima   
 sprendimus   dėl   savivaldybės   teritorijos
 suskirstymo į
 seniūnijas ir nustato jų ribas;
@@ -786,8 +796,8 @@ tarybos statutą;
 mero  (valdybos,   jeigu  ji   sudaroma)  bei
 kontrolieriaus
 veiklos nuostatus;
-     8) nutraukia  tarybos
-narių įgaliojimus prieš terminą Vietos
+     8) nutraukia 
+tarybos narių įgaliojimus prieš terminą Vietos
 savivaldybės
 tarybos  nario statuso įstatymo nustatytais atvejais
 ir tvarka;
@@ -873,8 +883,8 @@ institucijų 
 siūlymu   ar  reikalavimu   panaikina  ar   atšaukia
 įstatymams,
 Vyriausybės  ar tarybos sprendimams prieštaraujančius
-tarybos, mero  (valdybos,
-jeigu  ji sudaroma) bei kitų savivaldos
+tarybos, mero 
+(valdybos, jeigu  ji sudaroma) bei kitų savivaldos
 institucijų
 sprendimus ir potvarkius;
      26) tvirtina
@@ -896,8 +906,8 @@ siūlymus  dėl  savivaldybės  teritorijos  ribų
 keitimo.
  
  
-     16 straipsnis.
-Valstybės deleguotoji kompetencija
+     16 straipsnis. Valstybės
+deleguotoji kompetencija
  
      Savivaldos 
 institucijos   atlieka  civilinės   metrikacijos
@@ -919,12 +929,13 @@ savivaldybės  teritorijoje  Vyriausybės nustatyta tvarka,
 institucijos, įgyvendindamos deleguotas valstybės
 funkcijas,
 vadovaujasi įstatymais, vykdo Vyriausybės nutarimus.
-Pakeitimai:
  
+  Pakeitimai:
 1.Lietuvos
 Respublikos 1995 07 05
-Įstatymas Nr.1-1033
-Žin., 1995
+  Įstatymas
+Nr.1-1033
+  Žin., 1995
 Nr.59-1486
  
  
@@ -988,7 +999,7 @@ bendrosios   ir   etnokultūros   puoselėjimu,
 organizuoja
 gyventojų  pirminę  sveikatos  apsaugą  ir  sergamumo
 prevenciją, 
-ligonių,   invalidų  ir   senelių  slaugą,  rūpinasi
+ligonių,   invalidų  ir   senelių  slaugą,  rūpinasi
 teritorijos
 sanitarija  ir kad būtų laikomasi higienos bei gamtos
 apsaugos 
@@ -996,8 +1007,8 @@ reikalavimų,   plėtoja  gyventojų  poilsio  ir  turizmo
 industriją;
      6) organizuoja 
 invalidų, vienišų  nusenusių asmenų  rūpybą,
-priežiūrą ir  aptarnavimą,
-labdaros  renginius, tarybos nustatyta
+priežiūrą ir 
+aptarnavimą, labdaros  renginius, tarybos nustatyta
 tvarka skirsto
 surinktas lėšas ir aukas.
      Vykdydamas
@@ -1022,8 +1033,8 @@ biudžeto lėšas bei
 kitus išteklius;
      3) 
 organizuoja   teritorijos   raidos   analizę,   bendrųjų
-ilgalaikių  
-socialinių,    kultūrinių,   ūkinių,   investicinių,
+ilgalaikių   socialinių,   
+kultūrinių,   ūkinių,   investicinių,
 demografinių,
 ekologinių ir kitų programų projektų rengimą;
      4) organizuoja 
@@ -1055,7 +1066,8 @@ biudžeto įvykdymo
 apyskaitą;
      9)   pagal   
 tarybos    patvirtintus    nuostatus    sudaro
-nebiudžetinius  fondus;
+nebiudžetinius 
+fondus;
      10) 
 kontroliuoja,   ar  tikslingai  ir  teisėtai  naudojami
 savivaldybės
@@ -1084,7 +1096,7 @@ kitomis  valstybės  institucijomis  rengia  ir
 įgyvendina 
 prevencines   priemones,  gyventojų   gelbėjimą   nuo
 katastrofų, 
-stichinių   nelaimių,  epidemijų,  užkrečiamų  ligų,
+stichinių   nelaimių,  epidemijų,  užkrečiamų  ligų,
 likviduoja jų
 padarinius;
      15) rengia 
@@ -1103,7 +1115,7 @@ taip pat kartą per
 metus ir pagal  reikalavimą atsiskaito už savo
 veiklą tarybai.
      Valdybos  
-kompetenciją   reguliuoja   tarybos   patvirtinti
+kompetenciją   reguliuoja   tarybos   patvirtinti
 nuostatai.
      Jeigu   valdyba
 nesudaroma,  tai visus  valdybai  priskirtus
@@ -1114,19 +1126,19 @@ meras.
      19 straipsnis.
 Seniūno kompetencija
  
-     Seniūno darbą
+     Seniūno darbą
 reglamentuoja jo veiklos nuostatai.
      Seniūnas: 
-     1) mero 
-pavedimu rengia  ir teikia mero potvarkių (valdybos
+     1) mero  pavedimu
+rengia  ir teikia mero potvarkių (valdybos
 sprendimų, jeigu ji
 sudaroma) projektus seniūnijos klausimais;
      2) teikia merui
 rekomendacijas dėl socialinės globos;
      3)  teikia  
 merui  pasiūlymus   dėl  savivaldybės   saugomų
-teritorijų ir
-kraštovaizdžio objektų priežiūros;
+teritorijų ir kraštovaizdžio
+objektų priežiūros;
      4) renka jo
 kompetencijai priskirtus statistikos duomenis;
      5) išduoda 
@@ -1161,11 +1173,12 @@ kitas mero potvarkiu (valdybos sprendimu, jeigu
 ji sudaroma)
 deleguotas funkcijas.
  
-Pakeitimai:
+  Pakeitimai:
 1.Lietuvos
 Respublikos 1995 09 14
-Įstatymas Nr.1-1041
-Žin., 1995
+  Įstatymas
+Nr.1-1041
+  Žin., 1995
 Nr.79-1820
  
  
@@ -1177,7 +1190,7 @@ neviršydamas Lietuvos Respublikos įstatymų ir
 tarybos 
 sprendimų     nustatytų   įgaliojimų,   prižiūri,   kaip
 naudojamos
-savivaldybės  biudžeto lėšos,  ar teisėtai, tikslingai
+savivaldybės  biudžeto lėšos,  ar teisėtai, tikslingai
 ir efektyviai 
 eksploatuojama   savivaldybės nuosavybė,  taip pat
 savivaldybei
@@ -1188,7 +1201,7 @@ pagal savo
 kompetenciją leidžia įsakymus.
      Kontrolierius:
      1) vadovauja 
-kontrolieriaus tarnybai,  priima  į  darbą  ir
+kontrolieriaus tarnybai,  priima  į  darbą  ir
 atleidžia tarnybos 
 darbuotojus (neviršydamas biudžeto asignavimų
 ir nustatyto mokos
@@ -1206,7 +1219,7 @@ administracijoje,    savivaldybės   valstybinėse   ir
 valstybinėse
 akcinėse įmonėse, įstaigose, organizacijose;
      4) teikia 
-savivaldybės institucijoms  išvadas ir pasiūlymus
+savivaldybės institucijoms  išvadas ir pasiūlymus
 dėl patikrinimų ir
 revizijų rezultatų;
      5)  atlieka  
@@ -1262,14 +1275,15 @@ institucijoms arba
      22 straipsnis.
 Turtiniai santykiai, keičiant Lietuvos
                    
-Respublikos savivaldybių teritorijų ribas
+Respublikos savivaldybių teritorijų
+                    ribas
  
      Likviduojant
 savivaldybę  ar keičiant  Lietuvos  Respublikos
 teritorijos
 administracinio  vieneto  ribas,  kitai  savivaldybei
 priskiriama ta 
-savivaldybės nekilnojamojo  turto dalis, kuri yra
+savivaldybės nekilnojamojo  turto dalis, kuri yra
 priskiriamojoje 
 teritorijoje;   kitas  jos   turtas  ir   skolos
 paskirstomos  
@@ -1326,7 +1340,7 @@ skiriamos
 subsidijos  iš Lietuvos  valstybės biudžeto  tikslinėms
 programoms
 įgyvendinti.
-     Papildomos
+     Papildomos
 savivaldybių  biudžetų  pajamos,  gautos  vykdant
 biudžetą, taip pat
 sutaupytos išlaidos lieka savivaldybėms.
@@ -1394,8 +1408,8 @@ institucijos.
 ir   jos   institucijos   sprendimus   valstybės
 teritorijos
 planavimo  klausimais  derina  su  savivaldybėmis  ir
-savivaldybių ribas  siūlo
-keisti,  atsižvelgdamos į  savivaldybių
+savivaldybių ribas 
+siūlo keisti,  atsižvelgdamos į  savivaldybių
 pasiūlymus.
      Vyriausybė 
 remia   savivaldybes  rengiant,   tobulinant  ir
@@ -1483,24 +1497,38 @@ teisme.
      29 straipsnis.
 Savivaldybių atributika ir raštvedyba
  
-     Savivaldybės 
+     Savivaldybės
 herbu  laikomas  savivaldybės  centro  herbas.
-Savivaldybė,
-neturinti savo herbo, naudoja valstybės herbą.
+Savivaldybės, 
+kurios   neturi   nustatyta   tvarka   patvirtinto
+savivaldybės herbo,
+naudoja valstybės herbą.
      Savivaldybės 
-herbas   naudojamas   herbiniuose   savivaldos
-institucijų
-antspauduose, iškabose ir firminiuose blankuose.
+herbas   naudojamas  savivaldybės   vėliavoje,
+vietos savivaldos 
+institucijų, savivaldybės  administracijos bei
+jos  padalinių   ir 
+pareigūnų   antspauduose,  merų   ženkluose,
+dokumentų blankuose
+ir iškabose.
      Savivaldybių
 raštvedyba  tvarkoma  lietuvių  kalba  ir  turi
 atitikti valstybės
 nustatytus raštvedybos reikalavimus.
  
+  Pakeitimai:
+1.Lietuvos
+Respublikos 1996 03 14
+  Įstatymas
+Nr.1-1227
+  Žin., 1996,
+Nr.33-804
+ 
  
      30 straipsnis.
-Tiesioginio valdymo įvedimas savivaldybės
+Tiesioginio valdymo įvedimas
                    
-teritorijoje
+savivaldybės teritorijoje
  
      Savivaldybės
 teritorijoje  laikinai, bet  ne ilgiau kaip iki
@@ -1517,7 +1545,7 @@ valdymas gali būti įvedamas, jeigu:
 savivaldos   institucijos  savo   veiksmais  kėsinasi  į
 valstybės
 teritorijos vientisumą bei konstitucinę santvarką;
-     2)  teismai  
+     2)  teismai  
 nustato,   kad   taryba   nesilaiko   Lietuvos
 Respublikos
 Konstitucijos, nuolat pažeidinėja įstatymus;    
@@ -1554,8 +1582,8 @@ valdymo"
  
      Šis įstatymas 
 įsigalioja pirmą  dieną po įvykusių rinkimų į
-Lietuvos 
-Respublikos   savivaldybių  tarybas.  Įsigaliojus  šiam
+Lietuvos  Respublikos  
+savivaldybių  tarybas.  Įsigaliojus  šiam
 įstatymui, nustoja 
 galios Lietuvos Respublikos vietos savivaldos
 pagrindų įstatymas.
