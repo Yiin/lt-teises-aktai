@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E4628D05BECC"
 
 # Dėl Lietuvos Respublikos policijos įstatymo, Lietuvos Respublikos laikinojo krašto apsaugos prievolės įstatymo ir Lietuvos Respublikos krašto apsaugos tarnybos įstatymo pakeitimo ir papildymo
 
+Suvestinė redakcija nuo 1996-10-18
+ 
+Įstatymas paskelbtas: Žin. 1994, Nr. 53-994, i. k. 0941010ISTA000I-514
+ 
+ 
 LIETUVOS RESPUBLIKOS
 DĖL LIETUVOS RESPUBLIKOS POLICIJOS ĮSTATYMO, LIETUVOS RESPUBLIKOS LAIKINOJO KRAŠTO APSAUGOS PRIEVOLĖS ĮSTATYMO IR LIETUVOS RESPUBLIKOS KRAŠTO APSAUGOS TARNYBOS ĮSTATYMO PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
@@ -94,35 +99,26 @@ a) atskiruose krašto apsaugos daliniuose, steigiamuose Lietuvos Respublikos Sei
 b) vidaus daliniuose ir pasienio policijoje;
 c) sukarintos priešgaisrinės apsaugos, svarbių civilinių objektų apsaugos bei gelbėjimo tarnybų junginiuose.“
 
-III. Pakeisti ir papildyti Lietuvos Respublikos krašto apsaugos tarnybos įstatymą (Žin., 1990, Nr.36-861):
-
-1. 6 straipsnį išdėstyti taip:
-
-„6 straipsnis
-
-Kariai tikrąją krašto apsaugos tarnybą atlieka:
-
-1) atskiruose krašto apsaugos daliniuose, steigiamuose Lietuvos Respublikos Seimo nutarimais;
-
-2) vidaus daliniuose ir pasienio policijoje;
-
-3) sukarintos priešgaisrinės apsaugos, svarbių civilinių objektų apsaugos bei gelbėjimo tarnybų junginiuose.
-
-Krašto apsaugos tarnybos tvarką nustato drausmės, vidaus tarnybos, sargybos, rikiuotės ir atskirų krašto apsaugos tarnybų statutai, taip pat kiti teisės aktai.“
-
-2. 7 straipsnyje:
-
-1) išbraukti žodžius „Krašto apsaugos departamento siuntimu pageidaujantieji“;
-
-2) įrašyti antrąją dalį:
-
-„Karių tarnybos tvarką vidaus daliniuose, policijoje, civilinėje aviacijoje, laivyne ar geležinkelyje reguliuoja Laikinasis vidaus tarnybos ir Policijos įstatymai, taip pat kiti įstatymai bei teisės aktai.“
-
+3 dalis. Neteko galios nuo 1996-10-18
+Dalies naikinimas:
+Nr. I-1548, 1996-09-25, Žin. 1996, Nr. 101-2302 (1996-10-18), i. k. 0961010ISTA00I-1548
  
+
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1548, 1996-09-25, Žin., 1996, Nr. 101-2302 (1996-10-18), i. k. 0961010ISTA00I-1548
+Lietuvos Respublikos krašto apsaugos tarnybos įstatymas
 
