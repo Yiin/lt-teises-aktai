@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8C46EE8DC023"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2002-07-19 iki 2002-12-31
+Suvestinė redakcija nuo 2003-01-01 iki 2004-07-02
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 45-1709, i. k. 1021010ISTA00IX-856
  
@@ -31,7 +31,10 @@ Vilnius
 
 2. Valstybės tarnybos įstatymo 2, 21 ir 22 straipsniai įsigalioja nuo 2002 m. gegužės 1 d.
 
-3. Valstybės tarnybos įstatymo VI skyriuje nustatytas darbo užmokestis 2002 metais mokamas iš 2002 metų valstybės ir savivaldybių biudžetuose darbo užmokesčiui patvirtintų asignavimų. 
+3. Valstybės tarnybos įstatymo VI skyriuje nustatytas darbo užmokestis mokamas iš atitinkamų metų valstybės ir savivaldybių biudžetuose darbo užmokesčiui patvirtintų asignavimų. Jeigu valstybės ar savivaldybės institucijos ar įstaigos apskaičiuotas pagal patvirtintas valstybės tarnautojų suvienodintų pareigybių kategorijas lėšų valstybės tarnautojų darbo užmokesčiui poreikis viršys atitinkamiems metams Lietuvos Respublikos valstybės biudžete ir savivaldybių biudžetuose darbo užmokesčiui patvirtintus asignavimus, valstybės tarnautojų darbo užmokestis skaičiuojamas pagal Vyriausybės patvirtintas valstybės tarnautojų darbo užmokesčio skaičiavimo taisykles, tačiau valstybės tarnautojo pareiginė alga neturi būti mažesnė už jo pareiginę algą, gautą iki 2002 m. birželio 30 d.
+Straipsnio dalies pakeitimai:
+Nr. IX-1243, 2002-12-10, Žin., 2002, Nr. 123-5534 (2002-12-24), i. k. 1021010ISTA0IX-1243
+ 
 
 4. Valstybės tarnybos įstatymo (Žin., 1999, Nr. 66-2130; 2000, Nr. 75-2270; 2001, Nr. 37-1231; 2002, Nr. 38-1362) 25–29 straipsniai, 65 straipsnis nuo 2002 m. gegužės 1 d. netenka galios.
  
@@ -153,4 +156,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1037, 2002-07-04, Žin., 2002, Nr. 73-3099 (2002-07-19), i. k. 1021010ISTA0IX-1037
 Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1243, 2002-12-10, Žin., 2002, Nr. 123-5534 (2002-12-24), i. k. 1021010ISTA0IX-1243
+Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 1 straipsnio pakeitimo įstatymas
 
