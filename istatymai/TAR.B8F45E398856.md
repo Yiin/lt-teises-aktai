@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
 
+Suvestinė redakcija nuo 1996-10-23 iki 1997-07-10
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
+ 
 LIETUVOS RESPUBLIKOS
 STOMATOLOGINĖS PRIEŽIŪROS (PAGALBOS)
 Į S T A T Y M A S
@@ -94,11 +98,6 @@ Lietuvos nacionalinės sveikatos sistemos stomatologinės priežiūros (pagalbos
 
 
 
-Gydytojų licencijų komitetas (GLK) – institucija, steigiama prie Sveikatos apaugos ministerijos licencijavimo funkcijoms vykdyti;
-
-
-
-
 sertifikatas – specialus dokumentas, patvirtinantis specialisto pasirengimą atlikti tam tikras stomatologines paslaugas;
 
 
@@ -110,11 +109,13 @@ pirminės stomatologinės praktikos licencija – dokumentas, leidžiantis asmen
 
 
 specializuotos stomatologinės praktikos licencija – dokumentas, leidžiantis asmeniui verstis viena iš specializuotų stomatologinės praktikos rūšių.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. I-1558, 1996-09-25, Žin., 1996, Nr. 102-2316 (1996-10-23), i. k. 0961010ISTA00I-1558
  
-
-
-
-
 
 
 
@@ -140,7 +141,10 @@ IR PRAKTIKA
 
 
 
-3. Licencijas verstis stomatologine praktika ir sertifikatus teikti tam tikras stomatologinės priežiūros paslaugas išduoda GLK. GLK formavimo tvarką, licencijų ir sertifikatų išdavimo, sustabdymo ir atšaukimo tvarką nustato įstatymai ir kiti teisės aktai.
+3. Licencijas verstis stomatologine praktika ir sertifikatus teikti tam tikras stomatologinės priežiūros paslaugas išduoda, atnaujina, sustabdo ir panaikina Sveikatos apsaugos ministerija Gydytojo medicinos praktikos įstatymo ir kitų teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. I-1558, 1996-09-25, Žin., 1996, Nr. 102-2316 (1996-10-23), i. k. 0961010ISTA00I-1558
+ 
 
 
 
@@ -158,7 +162,7 @@ IR PRAKTIKA
 
 
 
-4 straipsnis.         Teisė verstis dantų techniko, burnos higienisto ir stomatologo padėjėjo praktika
+4 straipsnis. Teisė verstis dantų techniko, burnos higienisto ir stomatologo padėjėjo praktika
 
 
 1. Teisę verstis dantų techniko praktika turi asmenys, turintys aukštesniojo mokslo dantų techniko diplomą, įgytą ar nostrifikuotą Lietuvos Respublikoje, ir gavę dantų techniko licenciją. Dantų technikas, norintis gaminti dantų protezus iš brangiųjų metalų, privalo gauti sertifikatą.
@@ -305,7 +309,10 @@ Stomatologai ir stomatologai specialistai privalo:
 
 
 
-7) Sveikatos apsaugos ministerijos, GLK, teisėtvarkos ar teisėsaugos institucijų prašymu pateikti stomatologinės priežiūros duomenis;
+7) Sveikatos apsaugos ministerijos, teisėtvarkos ar teisėsaugos institucijų prašymu pateikti stomatologinės priežiūros duomenis;
+Straipsnio punkto pakeitimai:
+Nr. I-1558, 1996-09-25, Žin., 1996, Nr. 102-2316 (1996-10-23), i. k. 0961010ISTA00I-1558
+ 
 
 
 
@@ -941,3 +948,14 @@ Stomatologinės priežiūros (pagalbos) įstatymas įsigalioja Stomatologinės p
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1558, 1996-09-25, Žin., 1996, Nr. 102-2316 (1996-10-23), i. k. 0961010ISTA00I-1558
+Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymas
