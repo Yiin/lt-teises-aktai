@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DED6F61055E5"
 
 6
 
-Įstatymas paskelbtas: Žin., 1996,
+Įstatymas skelbtas: Žin., 1996,
 Nr. 116-2701
 Neoficialus įstatymo tekstas
  
@@ -108,9 +108,9 @@ veikianti tarnyba prie Sveikatos apsaugos ministerijos.
 Vakcinos - vaistai, turintys antigenų ir padedantys žmogaus ar gyvūno
 organizmui pasigaminti apsauginių ir gynybinių medžiagų.
             21.
-Veterinariniai premiksai - daugiakomponenčiai mišiniai, turintys vitaminų,
-mikroelementų, fermentų, amino rūgščių, antioksidantų, skirti gyvūnų ligų
-profilaktikai ir gydymui.
+Veterinariniai premiksai - daugiakomponenčiai mišiniai, turintys vitaminų, mikroelementų,
+fermentų, amino rūgščių, antioksidantų, skirti gyvūnų ligų profilaktikai ir
+gydymui.
             22.
 Veterinariniai vaistai - vaistai, skirti tik gyvūnams.
             23.
@@ -140,24 +140,30 @@ diagnostinių alergenų, diagnostinių antigenų, diagnostinių serumų, vakcin�
 biotechnologinių produktų, kraujo preparatų, gydomosios kosmetikos priemonių
 bei specialios paskirties maisto produktų registravimą vykdo ir Vaistų
 registravimo taisykles tvirtina Valstybinė vaistų kontrolės tarnyba.
-            5.
-Veterinarinių vaistų registravimą vykdo ir Veterinarinių vaistų registravimo
-taisykles tvirtina Valstybinė veterinarijos tarnyba.
-            6.
-Valstybinį vaistų registrą tvarko ir jo duomenis platina Valstybinė vaistų
-kontrolės tarnyba ir Valstybinė veterinarijos tarnyba.
-            
+5. Veterinarinių vaistų registravimą vykdo ir
+Veterinarinių vaistų registravimo taisykles tvirtina Valstybinė maisto ir
+veterinarijos tarnyba.
+6. Valstybinį vaistų registrą tvarko ir jo duomenis
+platina Valstybinė vaistų kontrolės tarnyba ir Valstybinė maisto
+ir veterinarijos tarnyba.
+Straipsnio
+pakeitimai:
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
+ 
+ 
             4
 straipsnis. Bendrieji vaistų registravimo reikalavimai
-            1.
-Prašymą įregistruoti vaistą vaisto gamintojas ar jo įgaliotas atstovas pateikia
-Valstybinei vaistų kontrolės tarnybai arba Valstybinei veterinarijos tarnybai.
+1. Prašymą
+įregistruoti vaistą vaisto gamintojas ar jo įgaliotas atstovas pateikia
+Valstybinei vaistų kontrolės tarnybai arba Valstybinei maisto ir veterinarijos
+tarnybai.
             2.
 Kartu su prašymu įregistruoti vaistą vaisto ekspertizei pareiškėjas privalo
 pateikti:
-            1)
-Valstybinės vaistų kontrolės tarnybos arba Valstybinės veterinarijos tarnybos
-nustatyto turinio vaisto dokumentus;
+1) Valstybinės vaistų kontrolės tarnybos arba
+Valstybinės maisto ir veterinarijos tarnybos nustatyto turinio vaisto
+dokumentus;
             2)
 vaisto pavyzdžius;
             3)
@@ -168,60 +174,66 @@ ekspertizei atlikti.
             3.
 Pateikiama informacija apie vaistą turi būti objektyvi ir atitikti šiuolaikinį
 mokslą.
-            4.
-Vaisto gamintojas privalo nedelsdamas informuoti Valstybinę vaistų kontrolės
-tarnybą arba Valstybinę veterinarijos tarnybą, jeigu jis, dar nesibaigus vaisto
-registravimo procedūrai, savo iniciatyva keičia duomenis ir dokumentus, taip
-pat informuoti apie išaiškėjusią šalutinę reakciją į vaistą ar kitas
-aplinkybes, keliančias tiesioginį ar netiesioginį pavojų žmogaus ar gyvūno
-sveikatai.
-            5.
-Vaisto gamintojas vaistą registruojančiai institucijai apmoka išlaidas,
-susijusias su vaisto ekspertizės atlikimu ir kitomis registravimo paslaugomis,
-Sveikatos apsaugos ministerijos arba Valstybinės veterinarijos tarnybos
-nustatyta tvarka.
-            
-            5
-straipsnis. Sprendimas dėl vaisto įregistravimo
-            1.
-Sprendimą dėl vaisto įregistravimo priima Valstybinė vaistų kontrolės tarnyba
-arba Valstybinė veterinarijos tarnyba.
-            2.
-Valstybinė vaistų kontrolės tarnyba arba Valstybinė veterinarijos tarnyba,
-atlikusi vaisto ekspertizę, nusprendžia, ar pateiktas registruoti vaistas gali
-būti priskiriamas vaisto kategorijai, ir priskiria jį tam tikrai vaistų grupei.
-            3.
-Valstybinė vaistų kontrolės tarnyba arba Valstybinė veterinarijos tarnyba turi
-teisę atsisakyti įregistruoti vaistą, jei įvertinus galiojančius reikalavimus
-registruojamam vaistui nustatoma, jog:
-            1)
-nepakanka dokumentų ar informacijos apie vaistą;
-            2)
-nepakankama vaisto kokybė;
-            3)
-nepakankamas vaisto saugumas;
-            4)
-nepakankamas vaisto efektyvumas.
-            4.
-Valstybinė vaistų kontrolės tarnyba arba Valstybinė veterinarijos tarnyba
-registruodama vaistus turi teisę nustatyti vaistų vartojimo tvarką.
-            
-            6
-straipsnis. Vaisto registravimo dokumento galiojimas
-            1.
-Įregistravus vaistą Valstybiniame vaistų registre, Valstybinė vaistų kontrolės
-tarnyba arba Valstybinė veterinarijos tarnyba išduoda vaisto gamintojui vaisto
-registravimo liudijimą. Vaisto registravimo liudijimo formą ir jo rekvizitus
-nustato Valstybinė vaistų kontrolės tarnyba arba Valstybinė veterinarijos
+4. Vaisto gamintojas privalo nedelsdamas informuoti
+Valstybinę vaistų kontrolės tarnybą arba Valstybinę maisto ir veterinarijos
+tarnybą, jeigu jis, dar nesibaigus vaisto registravimo procedūrai, savo
+iniciatyva keičia duomenis ir dokumentus, taip pat informuoti apie išaiškėjusią
+šalutinę reakciją į vaistą ar kitas aplinkybes, keliančias tiesioginį ar
+netiesioginį pavojų žmogaus ar gyvūno sveikatai.
+5. Vaisto gamintojas vaistą registruojančiai
+institucijai apmoka išlaidas, susijusias su vaisto ekspertizės atlikimu ir
+kitomis registravimo paslaugomis, Sveikatos apsaugos ministerijos arba
+Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
+ 
+ 
+5 straipsnis. Sprendimas dėl vaisto įregistravimo
+1. Sprendimą dėl vaisto įregistravimo priima
+Valstybinė vaistų kontrolės tarnyba arba Valstybinė maisto ir veterinarijos
 tarnyba.
-            2.
-Vaisto registravimo liudijimas išduodamas ne ilgesniam kaip penkerių metų
-laikotarpiui. Kai šis terminas pasibaigia, vaistas gali būti vartojamas tik
-perregistruotas.Vaisto perregistravimo tvarką nustato Valstybinė vaistų
-kontrolės tarnyba arba Valstybinė veterinarijos tarnyba.
-            
+2. Valstybinė vaistų kontrolės tarnyba arba Valstybinė
+maisto ir veterinarijos tarnyba atlikusi vaisto ekspertizę, nusprendžia,
+ar pateiktas registruoti vaistas gali būti priskiriamas vaisto kategorijai, ir
+priskiria jį tam tikrai vaistų grupei.
+3. Valstybinė vaistų kontrolės tarnyba arba Valstybinė
+maisto ir veterinarijos tarnyba turi teisę atsisakyti įregistruoti
+vaistą, jei įvertinus galiojančius reikalavimus registruojamam vaistui
+nustatoma, jog:
+1) nepakanka dokumentų ar informacijos apie vaistą;
+2) nepakankama vaisto kokybė;
+3) nepakankamas vaisto saugumas;
+4) nepakankamas vaisto efektyvumas.
+4. Valstybinė vaistų kontrolės tarnyba arba Valstybinė
+maisto ir veterinarijos tarnyba registruodama vaistus turi teisę nustatyti
+vaistų vartojimo tvarką.
+Straipsnio
+pakeitimai:
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
+ 
+ 
+6 straipsnis. Vaisto registravimo dokumento galiojimas
+1. Įregistravus vaistą Valstybiniame vaistų registre,
+Valstybinė vaistų kontrolės tarnyba arba Valstybinė maisto ir veterinarijos
+tarnyba išduoda vaisto gamintojui vaisto registravimo liudijimą. Vaisto
+registravimo liudijimo formą ir jo rekvizitus nustato Valstybinė vaistų
+kontrolės tarnyba arba Valstybinė maisto ir veterinarijos tarnyba.
+2. Vaisto registravimo liudijimas išduodamas ne
+ilgesniam kaip penkerių metų laikotarpiui. Kai šis terminas pasibaigia, vaistas
+gali būti vartojamas tik perregistruotas. Vaisto perregistravimo tvarką nustato
+Valstybinė vaistų kontrolės tarnyba arba Valstybinė maisto ir veterinarijos tarnyba.
+Straipsnio
+pakeitimai:
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
+ 
+ 
             7
-straipsnis. Vaistų laikinas išėmimas iš apyvartos ir vaistų registravimo galiojimo
+straipsnis. Vaistų laikinas išėmimas iš apyvartos ir vaistų registravimo
+galiojimo 
 panaikinimas
             1.
 Vaistai laikinai išimami iš apyvartos ar vaistų registravimo galiojimas
@@ -235,26 +247,24 @@ VAISTŲ GAMINIMO IR ATIDAVIMO Į APYVARTĄ YPATUMAI
             
             8
 straipsnis. Vaistų atidavimo į apyvartą ypatumai
-            1.
-Vaistai, pagaminti Lietuvos Respublikoje, gali būti atiduodami į apyvartą,
-jeigu jie yra įregistruoti Lietuvos Respublikoje, atitinka standartizacijos
-norminių dokumentų ir Valstybinės vaistų kontrolės tarnybos arba Valstybinės
-veterinarijos tarnybos patvirtintus pakuotės teksto ir ženklinimo reikalavimus;
-būtinųjų (kompensuojamų) vaistų sąrašo vaistams turi būti patvirtintas įsigijimo
-išlaidų kompensavimo dydis bei mažmeninės kainos Sveikatos apsaugos
-ministerijos nustatyta tvarka.
-            2.
-Vaisto gamintojas gali keisti vaisto ženklinimą bei vaisto kokybinius rodiklius
-tik nustatyta tvarka gavęs Valstybinės vaistų kontrolės tarnybos arba Valstybinės
-veterinarijos tarnybos leidimą.
+1. Vaistai, pagaminti Lietuvos Respublikoje, gali būti
+atiduodami į apyvartą, jeigu jie yra įregistruoti Lietuvos Respublikoje,
+atitinka standartizacijos norminių dokumentų ir Valstybinės vaistų kontrolės
+tarnybos arba Valstybinės maisto ir veterinarijos tarnybos patvirtintus
+pakuotės teksto ir ženklinimo reikalavimus; būtinųjų (kompensuojamų) vaistų
+sąrašo vaistams turi būti patvirtintas įsigijimo išlaidų kompensavimo dydis bei
+mažmeninės kainos Sveikatos apsaugos ministerijos nustatyta tvarka.
+2. Vaisto gamintojas gali keisti vaisto ženklinimą bei
+vaisto kokybinius rodiklius tik nustatyta tvarka gavęs Valstybinės vaistų
+kontrolės tarnybos arba Valstybinės maisto ir veterinarijos tarnybos leidimą.
             3.
 Vaisto gamintojas atsako už pagaminto ir atiduodamo į apyvartą gatavo vaisto
 kokybę.
-            4.
-Valstybinė vaistų kontrolės tarnyba arba Valstybinė veterinarijos tarnyba gali
-pareikalauti, kad ant vaisto pakuotės ar Vaisto vartojimo instrukcijoje
-medicinos specialistams ir Informacijoje vartotojui apie vaistą būtų įrašyti
-papildomi įspėjimai, pažymėti įspėjamieji ir atpažinimo ženklai.
+4. Valstybinė vaistų kontrolės tarnyba arba Valstybinė
+maisto ir veterinarijos tarnyba gali pareikalauti, kad ant vaisto
+pakuotės ar Vaisto vartojimo instrukcijoje medicinos specialistams ir
+Informacijoje vartotojui apie vaistą būtų įrašyti papildomi įspėjimai, pažymėti
+įspėjamieji ir atpažinimo ženklai.
             5.
 Importuojamus į Lietuvos Respubliką vaistus leidžiama atiduoti į apyvartą:
             1)
@@ -267,58 +277,68 @@ patvirtintas įsigijimo išlaidų kompensavimo dydis bei mažmeninės kainos
 Sveikatos apsaugos ministerijos nustatyta tvarka. Vaisto vartojimo instrukcijos
 medicinos specialistams ir Informacijos vartotojui apie vaistą turinį bei
 pateikimo sąlygas nustato Valstybinė vaistų kontrolės tarnyba;
-            2)
-jei vaistai, skirti tik veterinarijos reikmėms, yra įregistruoti Lietuvos
-Respublikoje, atitinka Valstybinės veterinarijos tarnybos patvirtintus pakuotės
-teksto ir ženklinimo reikalavimus ir kartu su jais lietuvių kalba yra
-pateikiamos Vaisto vartojimo instrukcija veterinarinės medicinos specialistams
-ir Informacija apie veterinarinį vaistą. Vaisto vartojimo instrukcijos
-veterinarinės medicinos specialistams ir Informacijos apie veterinarinį vaistą
-turinį ir pateikimo sąlygas nustato Valstybinė veterinarijos tarnyba.
+2) jei vaistai, skirti tik veterinarijos reikmėms, yra
+įregistruoti Lietuvos Respublikoje, atitinka Valstybinės maisto ir
+veterinarijos tarnybos patvirtintus pakuotės teksto ir ženklinimo reikalavimus
+ir kartu su jais lietuvių kalba yra pateikiamos Vaisto vartojimo instrukcija
+veterinarinės medicinos specialistams ir Informacija apie veterinarinį vaistą.
+Vaisto vartojimo instrukcijos veterinarinės medicinos specialistams ir
+Informacijos apie veterinarinį vaistą turinį ir pateikimo sąlygas nustato
+Valstybinė maisto ir veterinarijos tarnyba.
             6.
-Vaistai, skirti veterinarijos reikmėms, privalo būti ženklinami užrašu “Veterinarijos
-tikslams”.
+Vaistai, skirti veterinarijos reikmėms, privalo būti ženklinami užrašu
+“Veterinarijos tikslams”.
             7.
 Vaisto pavadinimas ir informacija apie vaistą neturi būti klaidinantys.
+Straipsnio
+pakeitimai:
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
+ 
  
 KETVIRTASIS SKIRSNIS
 VAISTŲ KOKYBĖS KONTROLĖ
  
-            9
-straipsnis. Institucijos, vykdančios vaistų kokybės kontrolę
-            Vaistų
-kokybės kontrolę vykdo Valstybinė vaistų kontrolės tarnyba ir Valstybinė
-veterinarijos tarnyba.
-            
-            10
-straipsnis. Vaistų kokybės kontrolę vykdančių institucijų kompetencija
-            1.
-Valstybinė vaistų kontrolės tarnyba arba Valstybinė veterinarijos tarnyba turi
-teisę priimti sprendimą uždrausti vaistų atidavimą į apyvartą arba išimti juos
-iš apyvartos, uždrausti naudoti vaistus kitų vaistų gamybai, jeigu:
-            1)
-vaisto gamintojas neturėjo teisės juos gaminti;
-            2)
-nevykdoma privalomoji vaisto kokybės kontrolė;
-            3)
-vaistų kokybė neatitinka patvirtintų standartizacijos norminių dokumentų;
-            4)
-pasibaigęs vaistų vartojimo laikas;
-            5)
-vaistų pakuotė ir ženklinimas neatitinka nustatytų reikalavimų.
-            2.
-Valstybinė vaistų kontrolės tarnyba arba Valstybinė veterinarijos tarnyba,
-kontroliuodama vaistų kokybę, turi teisę:
-            1)
-tikrinti farmacine veikla besiverčiančias įmones, susipažinti su vaistų kokybės
-kontrole susijusiais dokumentais, būtinais inspektavimui, taip pat duoti
-nurodymus ir teikti pasiūlymus farmacinės veiklos klausimais Sveikatos apsaugos
-ministerijos nustatyta tvarka;
-            2)
-nemokamai imti ekspertizei vaistų bei kitų medicinos paskirties gaminių,
-kuriais prekiaujama vaistinėse ar kurie yra tiekimo ir gamybos įmonėse, būtiną
-minimalų pavyzdžių kiekį Sveikatos apsaugos ministerijos nustatyta tvarka.
-            
+9 straipsnis. Institucijos, vykdančios vaistų kokybės
+kontrolę
+Vaistų kokybės kontrolę vykdo Valstybinė vaistų
+kontrolės tarnyba ir Valstybinė maisto ir veterinarijos tarnyba.
+Straipsnio
+pakeitimai:
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
+ 
+ 
+10 straipsnis. Vaistų kokybės kontrolę vykdančių
+institucijų kompetencija
+1. Valstybinė vaistų kontrolės tarnyba arba Valstybinė
+maisto ir veterinarijos tarnyba turi teisę priimti sprendimą uždrausti
+vaistų atidavimą į apyvartą arba išimti juos iš apyvartos, uždrausti naudoti
+vaistus kitų vaistų gamybai, jeigu: 
+1) vaisto gamintojas neturėjo teisės juos gaminti; 
+2) nevykdoma privalomoji vaisto kokybės kontrolė; 
+3) vaistų kokybė neatitinka patvirtintų
+standartizacijos norminių dokumentų; 
+4) pasibaigęs vaistų vartojimo laikas; 
+5) vaistų pakuotė ir ženklinimas neatitinka nustatytų
+reikalavimų. 
+2. Valstybinė vaistų kontrolės tarnyba arba Valstybinė
+maisto ir veterinarijos tarnyba, kontroliuodama vaistų kokybę, turi
+teisę: 
+1) tikrinti farmacine veikla besiverčiančias įmones,
+susipažinti su vaistų kokybės kontrole susijusiais dokumentais, būtinais
+inspektavimui, taip pat duoti nurodymus ir teikti pasiūlymus farmacinės veiklos
+klausimais Sveikatos apsaugos ministerijos nustatyta tvarka; 
+2) nemokamai imti ekspertizei vaistų bei kitų
+medicinos paskirties gaminių, kuriais prekiaujama vaistinėse ar kurie yra
+tiekimo ir gamybos įmonėse, būtiną minimalų pavyzdžių kiekį Sveikatos apsaugos
+ministerijos nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
+ 
+ 
 PENKTASIS SKIRSNIS
 KLINIKINIŲ TIRIAMOJO VAISTO TYRINĖJIMŲ YPATUMAI
             
@@ -333,32 +353,38 @@ kontrolės tarnyba ir kitos įstatymų įgaliotos institucijos.
 tyrinėjimus išduoda Lietuvos bioetikos komitetas Valstybinės vaistų kontrolės
 tarnybos teikimu.
             3.
-Veterinarinių vaistų tyrinėjimo tvarką nustato Valstybinė veterinarijos
-tarnyba.
+Veterinarinių vaistų tyrinėjimo tvarką nustato Valstybinė maisto ir
+veterinarijos tarnyba.
 Straipsnio pakeitimai:
 Nr. VIII-1673, 00.05.11, Žin., 2000,
 Nr.44-1246 (00.05.31) 
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
  
  
 ŠEŠTASIS SKIRSNIS
 VAISTŲ RIZIKOS VEIKSNIŲ VERTINIMAS.
 INFORMAVIMAS APIE VAISTUS
-            
-            12
-straipsnis. Vaistų rizikos veiksnių vertinimas
-            1.
-Vaistų vartojimo rizikos veiksnių keliamą tiesioginį ir netiesioginį pavojų
-žmogaus, visuomenės ar gyvūno sveikatai vertina Valstybinė vaistų kontrolės
-tarnyba arba Valstybinė veterinarijos tarnyba.
-            2. Vaisto gamintojas privalo informuoti
-Valstybinę vaistų kontrolės tarnybą arba Valstybinę veterinarijos tarnybą apie
+ 
+12 straipsnis. Vaistų rizikos veiksnių vertinimas 
+1. Vaistų vartojimo rizikos veiksnių keliamą
+tiesioginį ir netiesioginį pavojų žmogaus, visuomenės ar gyvūno sveikatai
+vertina Valstybinė vaistų kontrolės tarnyba arba Valstybinė maisto ir veterinarijos
+tarnyba.
+2. Vaisto gamintojas privalo informuoti Valstybinę
+vaistų kontrolės tarnybą arba Valstybinę maisto ir veterinarijos tarnybą apie
 gaminamų vaistų rizikos veiksnius Valstybinės vaistų kontrolės tarnybos arba
-Valstybinės veterinarijos tarnybos nustatyta tvarka.
-            3.
-Medicinos ir veterinarijos medicinos specialistų pranešimus apie šalutinę
-reakciją į vaistą, kontraindikacijas arba vaistų rizikos veiksnius registruoja
-Valstybinė vaistų kontrolės tarnyba arba Valstybinė veterinarijos tarnyba.
-            
+Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka.
+3. Medicinos ir veterinarijos medicinos specialistų
+pranešimus apie šalutinę reakciją į vaistą, kontraindikacijas arba vaistų
+rizikos veiksnius registruoja Valstybinė vaistų kontrolės tarnyba arba
+Valstybinė maisto ir veterinarijos tarnyba.
+Straipsnio
+pakeitimai:
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
+ 
+ 
             13
 straipsnis. Informavimas apie vaistus
             1.
@@ -366,8 +392,14 @@ Informavimą apie vaistus reglamentuoja Farmacinės veiklos bei kiti įstatymai.
             2.
 Vaisto gamintojas privalo teikti medicinos specialistams ir vartotojams
 informaciją apie jo gaminamą vaistą Valstybinės vaistų kontrolės tarnybos arba
-Valstybinės veterinarijos tarnybos nustatyta informavimo apie vaistus tvarka.
-            
+Valstybinės maisto ir veterinarijos tarnybos nustatyta informavimo apie vaistus
+tvarka.
+Straipsnio
+pakeitimai:
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
+ 
+ 
 SEPTINTASIS SKIRSNIS
 VETERINARINIAI VAISTAI
             
@@ -375,20 +407,25 @@ VETERINARINIAI VAISTAI
 straipsnis. Veterinarinių vaistų vartojimo sąlygos
             1.
 Veterinarinių vaistų vartojimo ypatumus nustato Farmacinės veiklos įstatymas ir
-Valstybinė veterinarijos tarnyba.
+Valstybinė maisto ir veterinarijos tarnyba.
             2.
 Draudžiama vartoti ir registruoti hormoninius preparatus bei žalingus žmonių
 sveikatai augimo stimuliatorius, skirtus gyvūnų produktyvumui didinti ir
 augimui skatinti.
             3.
 Veterinarinių hormoninių preparatų vartojimo gyvūnų gydymui tvarką nustato
-Valstybinė veterinarijos tarnyba.
+Valstybinė maisto ir veterinarijos tarnyba.
             4.
-Valstybinė veterinarijos tarnyba gali uždrausti vartoti veterinarinius vaistus,
-veterinarinius premiksus, veterinarinius vaistinius pašarus gyvūnams, iš kurių
-gaminami maisto produktai, jei šie tiesiogiai ar netiesiogiai gali pakenkti
-žmonių sveikatai.
-            
+Valstybinė maisto ir veterinarijos tarnyba gali uždrausti vartoti
+veterinarinius vaistus, veterinarinius premiksus, veterinarinius vaistinius
+pašarus gyvūnams, iš kurių gaminami maisto produktai, jei šie tiesiogiai ar
+netiesiogiai gali pakenkti žmonių sveikatai.
+Straipsnio
+pakeitimai:
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
+ 
+ 
 AŠTUNTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
             
@@ -403,15 +440,14 @@ straipsnis. Įstatymo įsigaliojimas
 įstatymas įsigalioja 1997 m. sausio l d.
  
  
- 
             Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
 RESPUBLIKOS
-PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
  
-___________
+________________
  
 Pakeitimai: 
  
@@ -420,8 +456,17 @@ Nr. VIII-1673, 00.05.11, Žin., 2000,
 Nr.44-1246 (00.05.31) 
 VAISTŲ ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS 
  
+2.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1798, 00.07.04, Žin., 2000,
+Nr.61-1809 (00.07.26)
+VAISTŲ ĮSTATYMO 3, 4, 5,
+6, 8, 9, 10, 11, 12, 13, 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.05.31)
+Redagavo: Aušrinė
+Trapinskienė (2000.08.16)
 
