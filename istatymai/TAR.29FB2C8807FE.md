@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 1999-07-09 iki 2000-04-04
+Suvestinė redakcija nuo 2000-04-05 iki 2000-04-25
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -91,9 +91,11 @@ Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA
 
 
 
-4) tantjemoms skiriamas lėšas.
+4) neteko galios nuo 2000-04-05.
 Papildyta straipsnio punktu:
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+Straipsnio punkto pakeitimai:
+Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
  
 
 
@@ -434,9 +436,10 @@ Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010IST
 11 straipsnis. Valdyba
 
 
-1. Valdyba įmonėje sudaroma steigėjo sprendimu. Valdybos narių skaičius, jos pareigos, teisės, atsakomybė nustatoma įmonės įstatuose. Valdybos narių darbui valdyboje apmokėti steigėjo sprendimu gali būti skiriamos tantjemos iš grynojo pelno. Šios tantjemos pervedamos tai valstybės institucijai ar savivaldybei, kuri deleguoja valdininkus į įmonės valdybą. Administracijos vadovo darbas valdyboje taip pat apmokamas iš tantjemų.
+1. Valdyba įmonėje sudaroma steigėjo sprendimu. Valdybos narių skaičius, jos pareigos, teisės, atsakomybė nustatoma įmonės įstatuose.
 Straipsnio dalies pakeitimai:
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
  
 
 
@@ -749,9 +752,10 @@ V SKIRSNIS
 
 
 
-3. Likusi pelno dalis steigėjo nustatytu santykiu skiriama įmonės įstatiniam kapitalui didinti ir ne mažiau kaip 25 procentai – kitoms reikmėms (premijoms, tantjemoms, socialinėms ir kultūrinėms priemonėms ir kt. finansuoti bei rezervams sudaryti).
+3. Likusi pelno dalis steigėjo nustatytu santykiu skiriama įmonės įstatiniam kapitalui didinti ir ne mažiau kaip 25 procentai - kitoms reikmėms (premijoms, socialinėms ir kultūrinėms priemonėms finansuoti bei rezervams sudaryti).
 Straipsnio dalies pakeitimai:
 Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
  
 
 
@@ -1168,3 +1172,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 9, 10, 11
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 5, 11, 19 straipsnių pakeitimo ir papildymo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 11 ir 18 straipsnių pakeitimo įstatymas
