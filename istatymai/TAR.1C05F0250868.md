@@ -21,8 +21,6 @@ GARANTINIO FONDO
 ĮSTATYMAS
 2000 m. rugsėjo 12 d. Nr. VIII-1926
 Vilnius
-
- 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
@@ -34,18 +32,20 @@ NUOSTATOS
 nustato Garantinio fondo paskirtį, veiklos teisinius pagrindus, valdymą, lėšų
 šaltinius.
 2. Šio įstatymo
-nuostatos taikomos visoms įmonėms, viešosioms įstaigoms, bankams ir kredito
-unijoms (toliau – įmonės), kurios įregistruotos Lietuvos Respublikos įstatymų
-nustatyta tvarka.
+nuostatos taikomos visoms įmonėms, viešosioms įstaigoms, bankams, išskyrus
+Lietuvos banką, ir kredito unijoms (toliau – įmonės), kurios įregistruotos
+Lietuvos Respublikos įstatymų nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
  
 2 straipsnis.
 Bendrosios Garantinio fondo steigimo bei valdymo nuostatos
 1. Garantinio
 fondo steigėjas – Lietuvos Respublikos Vyriausybė.
 2. Garantinio
-fondo administratorius – Vyriausybės įgaliota institucija. Garantinio fondo
-administratoriaus veiklą reglamentuoja Garantinio fondo nuostatai, kuriuos
-tvirtina Vyriausybė. 
+fondo administratorius – Vyriausybės įgaliota institucija. Garantinio fondo administratoriaus
+veiklą reglamentuoja Garantinio fondo nuostatai, kuriuos tvirtina Vyriausybė. 
 3. Garantinis
 fondas yra pinigų fondas.
 4. Garantinis
@@ -87,8 +87,7 @@ fondo lėšos ir valstybės biudžeto lėšos, skiriamos pagal atskirą program�
 iš bankrutuojančių ir bankrutavusių įmonių Garantinio fondo kreditoriniams
 reikalavimams tenkinti;
 4) juridinių ir
-fizinių asmenų bei įmonių, neturinčių juridinio asmens teisių, savanoriškos
-įmokos.
+fizinių asmenų bei įmonių, neturinčių juridinio asmens teisių, savanoriškos įmokos.
 2. Garantinio
 fondo lėšos kaupiamos ir saugomos Valstybės iždo sąskaitoje, kuri atidaroma
 Lietuvos banke.
@@ -104,8 +103,8 @@ mokamos kartą per mėnesį ne vėliau kaip iki kito mėnesio 15 dienos.
 5. Garantinio
 fondo lėšos naudojamos tik pagal šio įstatymo 3 straipsnyje numatytą paskirtį.
 Straipsnio pakeitimai:
-Nr. IX-191, 2001 02 27, Žin., 2001, Nr. 22-716
-(2001 03 14)
+Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
+22-716 (2001 03 14)
  
 5 straipsnis.
 Garantinio fondo lėšų naudojimas 
@@ -152,9 +151,9 @@ su darbo santykiais iki įmonės bankroto proceso pradžios, ir už laikotarpį,
 ilgesnį kaip du mėnesiai nuo įmonės bankroto proceso pradžios. Išmokos,
 numatytos šio straipsnio 1 dalies 2 ir 3 punktuose, skaičiuojamos nutraukiant
 darbo sutartį.
-4. Patvirtinta darbuotojų
-kreditorinių reikalavimų suma mažinama iš Garantinio fondo sumokėtos išmokos
-suma. Garantinio fondo administratorius į šią sumą įgyja atgręžtinio
+4. Patvirtinta
+darbuotojų kreditorinių reikalavimų suma mažinama iš Garantinio fondo sumokėtos
+išmokos suma. Garantinio fondo administratorius į šią sumą įgyja atgręžtinio
 reikalavimo teisę. Jo kreditoriniai reikalavimai tenkinami Įmonių bankroto
 įstatymo nustatyta tvarka.
 5. Išmokos,
@@ -171,8 +170,8 @@ nenumatytiems šiame įstatyme.
 Straipsnio pakeitimai:
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 22-716 (2001 03 14)
-Nr. IX-1119, 2002-10-08,
-Žin., 2002, Nr. 102-4544 (2002-10-25)
+Nr. IX-1119,
+2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
 Nr. IX-1673,
 2003-07-01, Žin., 2003, Nr. 73-3350 (2003-07-23)
  
@@ -217,8 +216,8 @@ su bankrutuojančia ar bankrutavusia įmone arba savivaldybės tarybos įgaliota
 įmonių bankroto administravimo paslaugas, sudaro lėšų iš Garantinio fondo
 perdavimo įmonei (savivaldybės įstaigai, juridiniam asmeniui, teikiančiam
 bankroto administravimo paslaugas) sutartį.
-8. Garantinio fondo
-tarybos sprendimai gali būti skundžiami įstatymų nustatyta tvarka.
+8. Garantinio
+fondo tarybos sprendimai gali būti skundžiami įstatymų nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-1119,
 2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
@@ -229,9 +228,9 @@ Garantinio fondo finansinė kontrolė
 finansinę veiklą kontroliuoja Valstybės kontrolė.
 2. Garantinio
 fondo finansinė atskaitomybė kasmet turi būti tikrinama auditoriaus ar audito
-įmonės. Garantinio fondo taryba ne vėliau kaip per 3 mėnesius pasibaigus finansiniams
-metams skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“ metinę
-finansinę atskaitomybę kartu su auditoriaus išvada. 
+įmonės. Garantinio fondo taryba ne vėliau kaip per 3 mėnesius pasibaigus
+finansiniams metams skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“
+metinę finansinę atskaitomybę kartu su auditoriaus išvada. 
  
 TREČIASIS
 SKIRSNIS
@@ -367,8 +366,7 @@ Garantinio fondo tarybos sudėtį;
 įmonėms, kuriose bankroto procesas pradėtas iki šio įstatymo įsigaliojimo
 dienos, 5 straipsnio 1 dalies 1 ir 4 punktų taikymo tvarką;
 4) 2001 metų
-valstybės biudžeto projekte numato asignavimus pradiniam įnašui į Garantinį
-fondą;
+valstybės biudžeto projekte numato asignavimus pradiniam įnašui į Garantinį fondą;
 5) parengia
 Valstybės ir savivaldybių turto privatizavimo įstatymo pakeitimus, nustatančius
 privatizavimo lėšų dalies naudojimą Garantiniam fondui;
@@ -382,10 +380,8 @@ Nr. IX-1119,
 2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
  
  
-Skelbiu šį
-Lietuvos Respublikos Seimo priimtą įstatymą. 
- 
-
+Skelbiu šį Lietuvos
+Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
@@ -413,8 +409,8 @@ FONDO ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1119,
-2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
+IX-1119, 2002-10-08,
+Žin., 2002, Nr. 102-4544 (2002-10-25)
 GARANTINIO
 FONDO ĮSTATYMO 3, 5, 6, 12, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -427,11 +423,27 @@ IX-1673,
 GARANTINIO
 FONDO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+ĮMONIŲ
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
+PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
+ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO,
+MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS
+BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Angonita Rupšytė (2003-07-31)
-anrups@lrs.lt
+Aušrinė Trapinskienė (2004-05-03)
+                 
+autrap@lrs.lt
 
