@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
+Suvestinė redakcija nuo 1997-07-09 iki 1999-12-29
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
+ 
 LIETUVOS RESPUBLIKOS
 KŪNO KULTŪROS IR SPORTO
 Į S T A T Y M A S
@@ -175,7 +179,10 @@ KŪNO KULTŪROS IR SPORTO VALDYMAS
 9 straipsnis.         Valstybės institucijos, vykdančios kūno kultūros ir sporto valdymo funkcijas
 
 
-Kūno kultūros ir sporto valstybinio valdymo funkcijas šalyje vykdo Lietuvos Respublikos Vyriausybė, Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės, Švietimo ir mokslo ministerija, apskričių valdytojai, savivaldos institucijos, bendradarbiaudamos su įvairiomis suinteresuotomis organizacijomis.
+Kūno kultūros ir sporto valstybinio valdymo funkcijas šalyje vykdo Lietuvos Respublikos Vyriausybė, Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės, Švietimo ir mokslo ministerija, apskričių viršininkai, savivaldos institucijos, bendradarbiaudamos su įvairiomis suinteresuotomis organizacijomis.
+Straipsnio dalies pakeitimai:
+Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
+ 
 
 
 
@@ -331,7 +338,10 @@ Kūno kultūros ir sporto departamentas:
 
 
 
-9) teikia pasiūlymus bei rekomendacijas apskričių valdytojų ir savivaldos administracijų švietimo padaliniams moksleivių kūno kultūros ir sporto klausimais;
+9) teikia pasiūlymus bei rekomendacijas apskričių viršininkų ir savivaldos administracijų švietimo padaliniams moksleivių kūno kultūros ir sporto klausimais;
+Straipsnio punkto pakeitimai:
+Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
+ 
 
 
 
@@ -351,10 +361,10 @@ Kūno kultūros ir sporto departamentas:
 
 
 
-13 straipsnis. Apskrities valdytojo kompetencija kūno kultūros ir sporto srityje
+13 straipsnis. Apskrities viršininko kompetencija kūno kultūros ir sporto srityje
 
 
-Apskrities valdytojas:
+Apskrities viršininkas:
 
 
 1) įstatymų nustatyta tvarka steigia, reorganizuoja ir likviduoja valstybines kūno kultūros ir sporto įstaigas bei tarnybas;
@@ -388,11 +398,13 @@ Apskrities valdytojas:
 
 
 7) rūpinasi sportininkų rezervo, didelio meistriškumo sportininkų rengimu, rengia iš valstybės lėšų finansuojamų apskrities sporto varžybų sistemą ir ją įgyvendina.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
  
-
-
-
-
 
 
 
@@ -1382,3 +1394,14 @@ Sporto organizacijos įstatymų ir savo įstatų nustatyta tvarka gali stoti į 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 9, 12, 13 straipsnių pakeitimo įstatymas
