@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6C28AE400CB"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
-Ramunė Lūžaitė (1997.10.30)
+Ramunė Lūžaitė (1998.06.22)
  
 Įstatymas
 paskelbtas: Žin., 1995, Nr.102-2280
@@ -42,6 +42,25 @@ Nr. VIII-446,
 LIETUVOS RESPUBLIKOS
 RYŠIŲ ĮSTATYMO 6 IR 8 STRAIPSNIŲ PAKEITIMO
  
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-758,
+98.06.02, Žin., 1998, Nr.56-1541 (98.06.19)
+LIETUVOS RESPUBLIKOS
+RYŠIŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+4.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
+LIETUVOS RESPUBLIKOS
+TELEKOMUNIKACIJŲ ĮSTATYMAS
+ 
+Įstatymas
+įsigalioja nuo 1998 m. rugpjūčio 1 d.
+ 
 ***
 Pabaiga ***
  
@@ -63,12 +82,21 @@ straipsnis. Įstatymo paskirtis
 asmenų teises ir pareigas valdant, naudojant pašto ir telekomunikacijų
 technines priemones bei disponuojant jomis, įrengiant ir eksploatuojant
 telekomunikacijų tinklus, teikiant  pašto ir  telekomunikacijų paslaugas bei
-naudojantis jomis, taip pat bendrus atsakomybės principus už šio įstatymo pažeidimą.
+naudojantis jomis, taip pat bendrus atsakomybės principus už šio įstatymo
+pažeidimą.
      Tais
 atvejais, kai Lietuvos Respublikos Seimo ratifikuotose tarptautinėse sutartyse 
 yra nustatytos  kitokios nei šiame įstatyme pašto  ir telekomunikacijų  veiklos
-taisyklės, yra taikomos  tarptautinės  sutarties  taisyklės,  jeigu  jos neprieštarauja
-Lietuvos Respublikos Konstitucijai.
+taisyklės, yra taikomos  tarptautinės  sutarties  taisyklės,  jeigu  jos
+neprieštarauja Lietuvos Respublikos Konstitucijai.
+ 
+      Nuo
+1998 m. rugpjūčio 1 d. 1 straipsnis netenka galios.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
  
      2
 straipsnis. Pagrindinės sąvokos
@@ -117,8 +145,8 @@ adresatui;
 siunta - laiškas, atvirukas (atvirlaiškis), spaudinys, sekograma, aerograma,
 smulkus paketas, siuntinys;
      atvirukas
-(atvirlaiškis) - pašto lapelis laiškui, siunčiamas be voko, su užklijuotais pašto
-ženklais ar kitaip pažymėta pašto rinkliava;
+(atvirlaiškis) - pašto lapelis laiškui, siunčiamas be voko, su užklijuotais
+pašto ženklais ar kitaip pažymėta pašto rinkliava;
      laiškas
 -  paštu siunčiamas  rašytinis ar  nerašytinis pranešimas, dedamas į voką su
 užklijuotais pašto ženklais ar kitaip pažymėta pašto rinkliava;
@@ -202,14 +230,15 @@ perdavimas   gyventojams   naudojant elektromagnetines bangas;
 ir televizijos tinklas - techninių priemonių visuma radijo ir televizijos
 laidoms transliuoti visoje šalyje ar jos dalyje;
      licencija
-- dokumentas, suteikiantis jo gavėjui teisę tam tikrą laiką nustatytoje teritorijoje
-plėtoti dokumente nurodytą veiklą bei nustatantis šios veiklos sąlygas;
+- dokumentas, suteikiantis jo gavėjui teisę tam tikrą laiką nustatytoje
+teritorijoje plėtoti dokumente nurodytą veiklą bei nustatantis šios veiklos
+sąlygas;
      privalomos
 teikti paslaugos - pašto ir telekomunikacijų paslaugos, kurios įmonių įstatuose
 arba veiklos licencijose nurodytos kaip privalomos.
  
-                          
-    II skirsnis
+                              
+II skirsnis
                        
 RYŠIŲ VEIKLOS REGULIAVIMAS
  
@@ -221,15 +250,24 @@ Ryšių veiklą ir santykius tarp pašto bei telekomunikacijų operatorių ir  
 paslaugų  naudotojų Lietuvos Respublikoje reguliuoja šis įstatymas, kiti
 Lietuvos Respublikos įstatymai, Vyriausybės nutarimai, taip pat kiti teisės
 aktai.
+      [Nuo
+1998 m. rugpjūčio 1 d. 3 straipsnio 2 dalis netenka galios]
      2. 
-Radijo  ryšio  valdymą,  naudojimą,  kontrolę  ir elektromagnetines bangas 
-skleidžiančių  įrenginių  gaminimą, įvežimą iš užsienio, pardavinėjimą,
-naudojimą bei priežiūrą reguliuoja Radijo ryšio įstatymas.
+Radijo  ryšio  valdymą,  naudojimą,  kontrolę  ir elektromagnetines bangas  skleidžiančių 
+įrenginių  gaminimą, įvežimą iš užsienio, pardavinėjimą, naudojimą bei
+priežiūrą reguliuoja Radijo ryšio įstatymas.
      3.
 Lietuvos Respublikos tarptautinį bendradarbiavimą pašto ir telekomunikacijų 
 srityse reguliuoja Lietuvos Respublikos įstatymai, Vyriausybės nutarimai bei
 tarptautinės sutartys.
  
+Straipsnio
+pakeitimai:
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
+ 
+      [Nuo
+1998 m. rugpjūčio 1 d. 4 straipsnis netenka galios]
      4
 straipsnis. Valstybinis ryšių veiklos reguliavimas
  
@@ -273,43 +311,50 @@ kitiems tinklams;
 valstybinių specialios paskirties telekomunikacijų tinklų veiklos, jei ji
 netrukdo kitiems tinklams.
  
+Straipsnio
+pakeitimai:
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
+ 
+      [Nuo
+1998 m. rugpjūčio 1 d. 5 straipsnis netenka galios]
      5
 straipsnis. Ryšių ir informatikos ministerija
  
      1.
 Ryšių ir informatikos ministerija šio ir kitų Lietuvos Respublikos įstatymų 
 yra įgaliota  įgyvendinti  Vyriausybės politiką  ryšių  srityje,  reguliuoti 
-šalyje  pašto  ir telekomunikacijų veiklą. Ji rūpinasi pašto ir
-telekomunikacijų infrastruktūros plėtojimu ir modernizavimu, stengiasi sudaryti
-visiems Lietuvoje esantiems asmenims lygias galimybes naudotis ryšių
-paslaugomis, skatina konkurenciją tarp ryšių paslaugų teikėjų.
+šalyje  pašto  ir telekomunikacijų veiklą. Ji rūpinasi pašto ir telekomunikacijų
+infrastruktūros plėtojimu ir modernizavimu, stengiasi sudaryti visiems
+Lietuvoje esantiems asmenims lygias galimybes naudotis ryšių paslaugomis,
+skatina konkurenciją tarp ryšių paslaugų teikėjų.
      2.
 Ryšių  ir informatikos ministerija , vykdydama jai nustatytas pareigas, privalo
 ir turi teisę:
      1) 
-steigti,  reorganizuoti,  likviduoti  pašto  ir telekomunikacijų  veiklos 
+steigti,  reorganizuoti,  likviduoti  pašto  ir telekomunikacijų  veiklos 
 reguliavimo  bei  telekomunikacijų techninių priemonių  naudojimo  priežiūros 
 institucijas  ir tarnybas, tvirtinti jų įstatus;
      2)
-teikti  Vyriausybei pasiūlymus  finansuoti pašto ir telekomunikacijų  infrastruktūros 
-plėtros  ir  modernizavimo programas, kompensuoti  iš  valstybės  biudžeto 
-nuostolius, atsiradusius teikiant  privalomas pašto  ir telekomunikacijų
+teikti  Vyriausybei pasiūlymus  finansuoti pašto ir telekomunikacijų 
+infrastruktūros  plėtros  ir  modernizavimo programas, kompensuoti  iš 
+valstybės  biudžeto  nuostolius, atsiradusius teikiant  privalomas pašto  ir telekomunikacijų
 paslaugas, taip  pat suteikti valstybės pašto ir valstybės telekomunikacijų
 įmonių paskolų garantijas;
      3)
 sudaryti  bendrojo naudojimo telekomunikacijų tinklų numeracijos  planus  ir 
 skirti  telekomunikacijų  tinklams atitinkamus numerius;  išduoti arba pavesti
-telekomunikacijų veiklos reguliavimo bei telekomunikacijų techninių priemonių naudojimo
-priežiūros institucijoms ir tarnyboms išduoti leidimus naudoti telekomunikacijų
-technines priemones ir radijo dažnius spinduliuojančius ar galinčius
-spinduliuoti įrenginius;
+telekomunikacijų veiklos reguliavimo bei telekomunikacijų techninių priemonių
+naudojimo priežiūros institucijoms ir tarnyboms išduoti leidimus naudoti
+telekomunikacijų technines priemones ir radijo dažnius spinduliuojančius ar
+galinčius spinduliuoti įrenginius;
      4)
 nustatyti juridinių ir fizinių asmenų, teikiančių pašto ir telekomunikacijų 
 paslaugas bei įrengiančių, plėtojančių, prižiūrinčių ir naudojančių
 telekomunikacijų technines priemones, kvalifikacijos ir jų veikloje naudojamos
 įrangos reikalavimus, taip pat šių asmenų atestavimo tvarką;
      5) 
-kontroliuoti  vartotojams  teikiamų  pašto  ir telekomunikacijų paslaugų
+kontroliuoti  vartotojams  teikiamų  pašto  ir telekomunikacijų paslaugų
 kokybę, tikrinti bendrųjų ir su jais sujungtų telekomunikacijų tinklų
 techninius parametrus;
      6)
@@ -346,7 +391,8 @@ Straipsnio
 pakeitimai:
 Nr.
 VIII-279, 97.06.19, Žin., 1997, Nr.64-1506 (97.07.04)
- 
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
  
      6
 straipsnis. Ryšių veiklos licencijavimas
@@ -366,24 +412,28 @@ pakeitimai:
 Nr. VIII-446,
 97.10.14, Žin., 1997, Nr.98-2476 (97.10.30)
  
-     7
-straipsnis. Kainos ir tarifai
+      [Nuo
+1998 m. rugpjūčio 1 d. 7 straipsnis netenka galios]
+    
+7 straipsnis. Kainos ir tarifai
  
-     1.
-Ryšių ir informatikos ministerijai pavaldžių įmonių teikiamų privalomųjų pašto
-ir telekomunikacijų paslaugų bei pašto ir telekomunikacijų paslaugų, kurių
-rinkoje įmonė dominuoja, kainas ir tarifus, taip pat kitų įmonių teikiamų
-pagrindinių telekomunikacijų paslaugų  kainų  aukščiausią  ribą  nustato
-Vyriausybė.
-     2.
-Pašto  ir telekomunikacijų  veiklos reguliavimo bei telekomunikacijų 
-techninių  priemonių  naudojimo  priežiūros institucijų ir  tarnybų paslaugų 
-tarifus nustato Ryšių ir informatikos ministerija.
+  
+Pašto ir telekomunikacijų įmonių teikiamų privalomųjų pašto ir telekomunikacijų
+paslaugų kainas ir tarifus nustato įmonės - paslaugų teikėjos. Šių paslaugų
+kainų ir tarifų aukščiausią ribą tvirtina Vyriausybė.
+ 
+Straipsnio
+pakeitimai
+Nr. VIII-758,
+98.06.02, Žin., 1998, Nr.56-1541 (98.06.19)
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
+ 
  
                               
 III skirsnis
-                            
-     PAŠTAS
+                                 
+PAŠTAS
  
      8
 straipsnis. Valstybės pašto išimtinės teisės ir pareigos
@@ -495,11 +545,14 @@ pristatymą išmokėjimo tvarką nustato Vyriausybė.
 Jeigu  paprasti laiškai  arba juose ar paprastuose siuntiniuose siųsti  pinigai
 bei  kitos  vertybės  dingsta, kompensacija nemokama.
  
+ 
                                
 IV skirsnis
-                             
-TELEKOMUNIKACIJOS
+                         
+    TELEKOMUNIKACIJOS
  
+      [Nuo
+1998 m. rugpjūčio 1 d. 14 straipsnis netenka galios]
      14
 straipsnis. Telekomunikacijų tinklų sąveika
  
@@ -539,11 +592,15 @@ Straipsnio
 pakeitimai:
 Nr.
 VIII-279, 97.06.19, Žin., 1997, Nr.64-1506 (97.07.04)
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
  
+      [Nuo
+1998 m. rugpjūčio 1 d. 15 straipsnis netenka galios]
      15
 straipsnis. Telekomunikacijų techninių priemonių įvežimas,
-                
-   gaminimas, pardavinėjimas ir naudojimas
+                   
+gaminimas, pardavinėjimas ir naudojimas
  
      1. 
 Telekomunikacijų  techninių  priemonių  įvežimas (atsiuntimas) iš  užsienio,
@@ -571,12 +628,26 @@ nesujungtus su kitais tinklais ir naudojamus savo poreikiams tenkinti.
 Bendruosiuose telekomunikacijų tinkluose ir su jais sujungtuose tinkluose
 galima naudoti tik sertifikuotas technines telekomunikacijų priemones.
  
+Straipsnio
+pakeitimai:
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
+ 
+      [Nuo
+1998 m. rugpjūčio 1 d. 16 straipsnis netenka galios]
      16
 straipsnis. Telekomunikacijų techninių priemonių sertifikavimas
  
      Telekomunikacijų
 techninių priemonių sertifikavimo tvarką nustato Vyriausybė.
  
+Straipsnio
+pakeitimai:
+Nr. VIII-774, 98.06.09,
+Žin., 1998, Nr.56-1548 (98.06.19)
+ 
+      [Nuo
+1998 m. rugpjūčio 1 d. 17 straipsnis netenka galios]
      17
 straipsnis. Telekomunikacijų galinių įrenginių jungimas prie
                    
@@ -589,6 +660,13 @@ taip pat juos prižiūrėti gali tik atitinkamų bendrųjų tinklų operatorių
 Leidimai išduodami tinkamos kvalifikacijos asmenims, turintiems reikiamą
 įrangą, Ryšių ir informatikos ministerijos nustatyta tvarka.
  
+Straipsnio
+pakeitimai:
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
+ 
+      [Nuo
+1998 m. rugpjūčio 1 d. 18 straipsnis netenka galios]
      18
 straipsnis. Telekomunikacijų tinklų įrengimas
  
@@ -632,6 +710,13 @@ reikalavimu telekomunikacijų linijas iš jo žemės valdos, įgyja teisę išju
 iš įmonės telekomunikacijų tinklo visus šioje valdoje esančius galinius
 telekomunikacijų įrenginius.
  
+Straipsnio
+pakeitimai:
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
+ 
+      [Nuo
+1998 m. rugpjūčio 1 d. 19 straipsnis netenka galios]
      19
 straipsnis. Telekomunikacijų tinklų apsauga
  
@@ -640,7 +725,7 @@ Telekomunikacijų  tinklų apsaugos zoną sudaro žemės ruožas, esantis  iš
 telekomunikacijų  linijų ir aplink telekomunikacijų objektus,  su jame
 esančiais augmenimis ir statiniais. Šioje  zonoje draudžiama keisti žemės
 paskirtį, statyti pastatus ar kitus statinius, laikyti įrenginius ir medžiagas,
-kasinėti, daryti gręžinius, sprogdinti ir atlikti kitus darbus,  kurių metu  ar
+kasinėti, daryti gręžinius, sprogdinti ir atlikti kitus darbus,  kurių metu  ar
 dėl  jų gali būti pažeisti telekomunikacijų statiniai,  be išankstinio 
 telekomunikacijų linijų ir (arba) objektų savininkų sutikimo.
      2.
@@ -653,8 +738,8 @@ turi atlyginti šias priemones eksploatuojančiai įmonei padarytus nuostolius.
      4.
 Telekomunikacijų technines priemones eksploatuojančios įmonės įgalioti 
 darbuotojai, suderinę su valstybinės žemės valdytojais ir  naudotojais, turi 
-teisę laisvai vaikščioti telekomunikacijų  linijų  apsaugos  zonose,  taisyti 
-arba rekonstruoti linijas, kasti duobes, tranšėjas. Šiems darbuotojams taip pat
+teisę laisvai vaikščioti telekomunikacijų  linijų  apsaugos  zonose,  taisyti  arba
+rekonstruoti linijas, kasti duobes, tranšėjas. Šiems darbuotojams taip pat
 leidžiama genėti medžių šakas, kirsti krūmus, kad būtų galima palaikyti
 projekte nustatytą proskynų plotį bei atstumą iki oro linijų laidų.
      5.
@@ -662,6 +747,13 @@ Baigus šio straipsnio ketvirtojoje dalyje nurodytus darbus, telekomunikacijų
 įmonės turi sutvarkyti pažeistą aplinką ir atlyginti žemės naudotojams
 padarytus nuostolius.
  
+Straipsnio
+pakeitimai:
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
+ 
+      [Nuo
+1998 m. rugpjūčio 1 d. 20 straipsnis netenka galios]
      20
 straipsnis. Radijo ir televizijos laidų transliavimas
  
@@ -676,6 +768,13 @@ laidas.  Kitų  visuomenės informavimo priemonių (radijo ir televizijos stud
 redakcijų) laidas šios įmonės gali transliuoti Vyriausybės nustatytais atvejais
 ir tvarka.
  
+Straipsnio
+pakeitimai:
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
+ 
+      [Nuo
+1998 m. rugpjūčio 1 d. 21 straipsnis netenka galios]
      21
 straipsnis. Telekomunikacijų techninėmis priemonėmis perduodamų
                    
@@ -706,18 +805,27 @@ Telekomunikacijų įmonių darbuotojai, padarę tokių pažeidimų, atleidžiami
 pareigų kaip netekę pasitikėjimo. Asmenys, pažeidę šio straipsnio antrosios
 dalies reikalavimus, traukiami administracinėn atsakomybėn.
  
+Straipsnio
+pakeitimai:
+Nr. VIII-774, 98.06.09,
+Žin., 1998, Nr.56-1548 (98.06.19)
+ 
+ 
                                
 V skirsnis
         
 PAŠTO IR TELEKOMUNIKACIJŲ ĮMONIŲ TEISĖS, PAREIGOS IR ATSAKOMYBĖ
  
+      [22
+straipsnio redakcija iki 1998 m. rugpjūčio 1 d.]
      22
 straipsnis. Įėjimo teisė
  
      1.
 Telekomunikacijų įmonės raštu įgaliotas asmuo, iš anksto perspėjęs žemės valdos
-savininką, gali įeiti į šią valdą (jei ji neužstatyta pastatais,  nenaudojama kaip 
-sodas ar  pramogų aikštelė) telekomunikacijų įrenginių projektiniams tyrimams.
+savininką, gali įeiti į šią valdą (jei ji neužstatyta pastatais,  nenaudojama
+kaip  sodas ar  pramogų aikštelė) telekomunikacijų įrenginių projektiniams
+tyrimams.
      2.
 Paštai ir telekomunikacijų įmonės turi teisę įrengti ir prižiūrėti abonentines
 pašto dėžutes bei dėžutes laiškams ir telekomunikacijų technines priemones
@@ -730,9 +838,34 @@ nuostolius.
      3.
 Į Krašto apsaugos ir Vidaus reikalų ministerijoms bei jų struktūroms
 priklausančias žemės valdas telekomunikacijų įmonės atstovai gali įeiti šių
-ministerijų bei Ryšių ir informatikos ministerijos bendro įsakymo nustatyta
-tvarka.
+ministerijų bei Ryšių ir informatikos ministerijos bendro įsakymo nustatyta tvarka.
  
+      [22
+straipsnio redakcija nuo 1998 m. rugpjūčio 1 d.]
+     22
+straipsnis. Įėjimo teisė
+ 
+      1.
+(Neteko galios).
+     2.
+Paštai ir telekomunikacijų įmonės turi teisę įrengti ir prižiūrėti abonentines
+pašto dėžutes bei dėžutes laiškams ir telekomunikacijų technines priemones
+gatvėse bei kitose viešose vietose, jeigu tai netrukdo žmonių bei transporto
+judėjimui, taip pat patekti į privačios nuosavybės objektus, kai reikia
+įrengti, patikrinti ar pataisyti juose esančias telekomunikacijų ryšių
+technines priemones. Jeigu naudojantis šiomis teisėmis privačiai ar viešajai
+nuosavybei padaroma materialinė žala, įmonė turi atlyginti padarytus
+nuostolius.
+     3.
+(Neteko galios).
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
+ 
+      [Nuo
+1998 m. rugpjūčio 1 d. 23 straipsnis netenka galios]
      23
 straipsnis. Informavimo pareiga
  
@@ -744,6 +877,13 @@ pradžią, nutraukimą, taip pat apie jų teikimo sąlygų pasikeitimus.
 Paštai ir telekomunikacijų įmonės privalo iš anksto viešai skelbti  apie
 paslaugų teikimo sąlygų bei jų kainų pasikeitimus.
  
+Straipsnio
+pakeitimai:
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
+ 
+      [Nuo
+1998 m. rugpjūčio 1 d. 24 straipsnis netenka galios]
      24
 straipsnis. Taisyklių privalomumas
  
@@ -752,6 +892,11 @@ ir telekomunikacijų įmonės, taip pat kiti juridiniai ir fiziniai  asmenys,
 teikiantys  pašto ir telekomunikacijų paslaugas ar kitokiu būdu susiję su pašto
 ir telekomunikacijų veikla, privalo laikytis Ryšių ir informatikos ministerijos
 patvirtintų taisyklių.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-774,
+98.06.09, Žin., 1998, Nr.56-1548 (98.06.19)
  
      25
 straipsnis. Atsakomybė
