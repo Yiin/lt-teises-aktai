@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23C5BC14E2B6"
 
 # Lietuvos Respublikos karo policijos įstatymas
 
+Suvestinė redakcija nuo 2003-05-01 iki 2004-10-25
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 98-2713, i. k. 0981010ISTAVIII-911
+ 
 LIETUVOS RESPUBLIKOS KARO POLICIJOS ĮSTATYMAS
  
 1998 m. spalio 22 d. Nr. VIII-911
@@ -207,12 +211,18 @@ Pagrindiniai karo policijos uždaviniai yra nusikaltimų bei kitų teisės paže
 
 
 
-5) įstatymų nustatyta tvarka atlieka kvotą jos kompetencijai pagal baudžiamojo proceso įstatymus priklausančiose bylose;
+5) įstatymų nustatyta tvarka atlieka ikiteisminį tyrimą jos kompetencijai pagal baudžiamojo proceso įstatymus priklausančiose bylose; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+ 
 
 
 
 
-6) įstatymų numatytais atvejais ir tvarka vykdo tardytojo, prokuroro, teisėjo ir teismo pavedimus;
+6) įstatymų numatytais atvejais ir tvarka vykdo ikiteisminio tyrimo pareigūno, prokuroro, teisėjo ir teismo pavedimus;
+Straipsnio punkto pakeitimai:
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+ 
 
 
 
@@ -359,7 +369,10 @@ KARO POLICININKŲ PAREIGOS, TEISĖS IR ATSAKOMYBĖ
 
 
 
-3) įstatymų nustatyta tvarka sulaikyti asmenis, darančius ar įtariamus darant nusikaltimą ar kitokį teisės pažeidimą, imtis priemonių įvykio vietai apsaugoti bei nusikaltimo liudytojams nustatyti, atlikti kitus būtinus procesinius veiksmus;
+3) įstatymų nustatyta tvarka sulaikyti asmenis, darančius ar įtariamus darant nusikaltimą ar kitokį teisės pažeidimą, imtis priemonių įvykio vietai apsaugoti bei nusikalstamos veikos liudytojams nustatyti, atlikti kitus būtinus procesinius veiksmus;
+Straipsnio punkto pakeitimai:
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+ 
 
 
 
@@ -415,7 +428,10 @@ KARO POLICININKŲ PAREIGOS, TEISĖS IR ATSAKOMYBĖ
 
 
 
-6) vykdydamas tiesiogines pareigas, taip pat persekiodamas įtariamus padarius nusikaltimą asmenis, besislepiančius nuo teisėsaugos institucijų nusikaltėlius ar siekdamas užkirsti kelią daromiems nusikaltimams ir kitiems teisės pažeidimams, bet kuriuo paros metu įeiti į visas karinėje teritorijoje esančias patalpas;
+6) vykdydamas tiesiogines pareigas, taip pat persekiodamas įtariamus padarius nusikalstamą veiką asmenis, besislepiančius nuo teisėsaugos institucijų nusikaltėlius ar siekdamas užkirsti kelią daromiems nusikaltimams ir kitiems teisės pažeidimams, bet kuriuo paros metu įeiti į visas karinėje teritorijoje esančias patalpas;
+Straipsnio punkto pakeitimai:
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+ 
 
 
 
@@ -468,7 +484,10 @@ KARO POLICININKŲ PAREIGOS, TEISĖS IR ATSAKOMYBĖ
 
 
 
-2. Už padarytus nusikaltimus karo policininkas atsako Lietuvos Respublikos įstatymų nustatyta tvarka. Už administracinius teisės pažeidimus karo policininkas atsako pagal drausmės statutus, išskyrus Lietuvos Respublikos administracinių teisės pažeidimų kodekso 15 straipsnio 1 dalyje numatytas išimtis. Už drausminius nusižengimus karo policininkas atsako drausmės statutų nustatyta tvarka.
+2. Už padarytas nusikalstamas veikas karo policininkas atsako Lietuvos Respublikos įstatymų nustatyta tvarka. Už administracinius teisės pažeidimus karo policininkas atsako pagal drausmės statutus, išskyrus Lietuvos Respublikos administracinių teisės pažeidimų kodekso 15 straipsnio 1 dalyje numatytas išimtis. Už drausminius nusižengimus karo policininkas atsako drausmės statutų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+ 
 
 
 
@@ -575,7 +594,10 @@ SPECIALIŲJŲ PRIEMONIŲ IR GINKLŲ PANAUDOJIMAS
 
 
 
-7) persekioti arba sulaikyti įtariamą padarius nusikaltimą asmenį, jeigu šis asmuo, norėdamas išvengti sulaikymo, ketina panaudoti ar panaudoja šaunamąjį ginklą, taip pat kitokius daiktus arba įrankius bei veiksmus, pavojingus žmonių sveikatai ar gyvybei;
+7) persekioti arba sulaikyti įtariamą padarius nusikalstamą veiką asmenį, jeigu šis asmuo, norėdamas išvengti sulaikymo, ketina panaudoti ar panaudoja šaunamąjį ginklą, taip pat kitokius daiktus arba įrankius bei veiksmus, pavojingus žmonių sveikatai ar gyvybei;
+Straipsnio punkto pakeitimai:
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+ 
 
 
 
@@ -741,7 +763,10 @@ SPECIALIŲJŲ PRIEMONIŲ IR GINKLŲ PANAUDOJIMAS
 
 
 
-3) sulaikant asmenį, padariusį nusikaltimą arba šiurkščiai pažeidžiantį viešąją tvarką ar tvarką karinėje teritorijoje;
+3) sulaikant asmenį, įtariamą padarius nusikalstamą veiką arba šiurkščiai pažeidžiantį viešąją tvarką ar tvarką karinėje teritorijoje;
+Straipsnio punkto pakeitimai:
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+ 
 
 
 
@@ -789,15 +814,15 @@ Karo policija bendradarbiauja su Lietuvos Respublikos policija, prokuratūra ir 
 
 
 
-20 straipsnis. Karo policijos santykiai su prokuratūra ir parengtinio tardymo institucijomis
+20 straipsnis. Karo policijos santykiai su prokuratūra ir ikiteisminio tyrimo įstaigomis
 
 
-1. Karo policija palaiko santykius su prokuratūros ir parengtinio tardymo institucijų specializuotais karinės teisėsaugos padaliniais ir pareigūnais.
+1. Karo policija palaiko santykius su prokuratūros ir ikiteisminio tyrimo įstaigų specializuotais karinės teisėsaugos padaliniais ir pareigūnais.
 
 
 
 
-2. Prokuratūra įstatymų nustatyta tvarka kontroliuoja karo policijos atliekamą kvotą bei derina karo policijos ir kitų kvotos ir parengtinio tardymo institucijų kovos su nusikalstamumu veiksmus.
+2. Prokuratūra įstatymų nustatyta tvarka organizuoja karo policijos atliekamą ikiteisminį tyrimą ir jam vadovauja bei derina karo policijos ir ikiteisminio tyrimo įstaigų kovos su nusikalstamumu veiksmus.
 
 
 
@@ -807,10 +832,12 @@ Karo policija bendradarbiauja su Lietuvos Respublikos policija, prokuratūra ir 
 
 
 
-4. Prokuratūra ir parengtinio tardymo institucijos informuoja karo policiją apie nusikaltimų, kuriais įtariami kariai, tyrimą.
+4. Prokuratūra ir ikiteisminio tyrimo įstaigos informuoja karo policiją apie nusikalstamų veikų, kuriomis įtariami kariai, tyrimą.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
  
-
-
 
 
 
@@ -823,12 +850,18 @@ Karo policija bendradarbiauja su Lietuvos Respublikos policija, prokuratūra ir 
 
 
 
-2. Policija, karo policijai pareikalavus, įstatymų ir kitų teisės aktų nustatyta tvarka privalo pateikti visus duomenis, reikalingus karo policijai kvotos veiksmams bei kitoms funkcijoms atlikti.
+2. Policija, karo policijai pareikalavus, įstatymų ir kitų teisės aktų nustatyta tvarka privalo pateikti visus duomenis, reikalingus karo policijai ikiteisminio tyrimo veiksmams bei kitoms funkcijoms atlikti. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+ 
 
 
 
 
-3. Policijai pareikalavus, karo policija įstatymų ir kitų teisės aktų nustatyta tvarka privalo pateikti visus duomenis, reikalingus policijai kvotos ir tardymo veiksmams bei kitoms funkcijoms atlikti.
+3. Ikiteisminio tyrimo įstaigoms ar prokurorui pareikalavus, karo policija įstatymų ir kitų teisės aktų nustatyta tvarka privalo pateikti visus duomenis, reikalingus ikiteisminio tyrimo veiksmams bei kitoms funkcijoms atlikti. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+ 
 
 
 
@@ -838,7 +871,10 @@ Karo policija bendradarbiauja su Lietuvos Respublikos policija, prokuratūra ir 
 
 
 
-5. Karo policija privalo nedelsdama pranešti policijai apie sulaikytus civilius bei juos perduoti atvykusiems policijos pareigūnams, jeigu sulaikytieji įtariami padarę nusikaltimą ar kitą teisės pažeidimą. Policijai taip pat perduodama visa karo policijos turima medžiaga, reikalinga nusikaltimui ar kitam teisės pažeidimui tirti. Policija informuoja karo policiją apie tokio nusikaltimo ar teisės pažeidimo tyrimą. Policijai neperduodami civiliai, įtariami padarę nusikaltimus, dėl kurių pagal baudžiamojo proceso įstatymus bylose kvotą atlieka karo policija.
+5. Karo policija privalo nedelsdama pranešti policijai apie sulaikytus civilius bei juos perduoti atvykusiems policijos pareigūnams, jeigu sulaikytieji įtariami padarę nusikaltimą ar kitą teisės pažeidimą. Policijai taip pat perduodama visa karo policijos turima medžiaga, reikalinga nusikaltimui ar kitam teisės pažeidimui tirti. Policija informuoja karo policiją apie tokio nusikaltimo ar teisės pažeidimo tyrimą. Policijai neperduodami civiliai, įtariami padarę nusikalstamas veikas, dėl kurių pagal baudžiamojo proceso įstatymus ikiteisminį tyrimą atlieka karo policija.
+Straipsnio dalies pakeitimai:
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+ 
 
 
 
@@ -859,3 +895,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
+Lietuvos Respublikos karo policijos įstatymo 10, 13, 14, 15, 17, 18, 20 ir 21 straipsnių pakeitimo įstatymas
