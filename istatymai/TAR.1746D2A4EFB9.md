@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1746D2A4EFB9"
 
 # Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2026-12-31
+Suvestinė redakcija nuo 2027-01-01
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2727, i. k. 0971010ISTAVIII-499
  
@@ -680,7 +680,10 @@ Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 
 
 
-3) prekiaujama saugomų rūšių laukiniais gyvūnais, skirtais veislinei bandai specializuotuose kailinių žvėrelių auginimo ūkiuose sudaryti.
+3) Neteko galios nuo 2027-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2223, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22369
+ 
 
 
 
