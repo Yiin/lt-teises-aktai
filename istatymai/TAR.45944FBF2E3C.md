@@ -13,6 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.45944FBF2E3C"
 
 # Dėl deputatų, įtariamų sąmoningu bendradarbiavimu su kitų valstybių specialiosiomis tarnybomis, mandatų patikrinimo
 
+Įstatymas netenka galios 2007-06-21:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1162, 2007-06-05, Žin., 2007, Nr. 68-2649 (2007-06-21), i. k. 1071010ISTA00X-1162
+Lietuvos Respublikos įstatymo "Dėl deputatų, įtariamų sąmoningu bendradarbiavimu su kitų valstybių specialiosiomis tarnybomis, mandatų patikrinimo" pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 1995-01-01 iki 2007-06-20
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 257-0; Žin. 1992, Nr.1-1, i. k. 091XX01ISTA00I-2115
+ 
+ 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
  
@@ -44,11 +54,14 @@ Deputatų komisija, gavusi bendradarbiavimo faktus patvirtinantį teismo sprendi
 
 Deputatų komisijos teikimus teisiškai įvertinti surinktą medžiagą nagrinėja:
 
-1) dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato – Lietuvos Aukščiausiojo Teismo teisminė civilinių bylų kolegija pirmąja instancija;
+1) dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato – Vilniaus apygardos teismas;
 
-2) dėl savivaldybės tarybos deputato – rajono, miesto teismas.
+2) dėl savivaldybės tarybos deputato – apylinkės teismas.
 
-Tokius teikimus teismai nagrinėja ypatingosios teisenos tvarka ir neatidėliodami.
+Tokius teikimus teismai nagrinėja neatidėliodami.
+
+Straipsnio pakeitimai:
+Nr. I-644, 1994-11-08, Žin., 1994, Nr. 89-1717 (1994-11-18), i. k. 0941010ISTA000I-644
  
 
 5 straipsnis
@@ -134,4 +147,14 @@ PIRMININKAS                                  �
  
 Vilnius, 1991 m. gruodžio 17 d. 
 Nr. I-2115
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-644, 1994-11-08, Žin., 1994, Nr. 89-1717 (1994-11-18), i. k. 0941010ISTA000I-644
+Dėl Lietuvos Respublikos įstatymo "Dėl deputatų, įtariamų sąmoningu bendradarbiavimu su kitų valstybių specialiosiomis tarnybomis, mandatų patikrinimo" pakeitimo
 
