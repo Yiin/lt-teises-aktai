@@ -59,6 +59,8 @@ Nr.
 I-169,
 93.06.01, Žin., 1993, Nr. 20-492 (93.06.09)
  
+3
+straipsnio redakcija iki 2002 m. liepos 1 d.:
 3 straipsnis.
 Įmonių rejestro steigėjas ir tvarkytojai
 1. Įmonių
@@ -66,14 +68,14 @@ rejestro steigėjas yra Lietuvos Respublikos Vyriausybė, vyriausiasis
 tvarkytojas – Statistikos departamentas prie Lietuvos Respublikos Vyriausybės.
 Šį rejestrą taip pat tvarko Ūkio ministerija ir vietos savivaldos vykdomosios
 institucijos.
-2. Ūkio ministerija
-registruoja iš valstybės lėšų steigiamas įmones, taip pat įmones, į kurias
-investuotas užsienio kilmės kapitalas, draudimo veiklą vykdančias įmones,
-Prekybos, pramonės ir amatų rūmus bei jų asociaciją, užsienio įmonių
+2. Ūkio
+ministerija registruoja iš valstybės lėšų steigiamas įmones, taip pat įmones, į
+kurias investuotas užsienio kilmės kapitalas, draudimo veiklą vykdančias
+įmones, Prekybos, pramonės ir amatų rūmus bei jų asociaciją, užsienio įmonių
 atstovybes, komercinius bankus ir jų padalinius (filialus, skyrius), kitas
 kredito įstaigas, jų statutus (įstatus), užsienio valstybių bankų dukterinius
-bankus, užsienio valstybių bankų filialus (skyrius) bei Lietuvos ir užsienio
-valstybių bankų atstovybes.
+bankus, užsienio valstybių bankų filialus (skyrius) bei Lietuvos ir užsienio valstybių
+bankų atstovybes.
 3. Statistikos departamentas kaupia, tvarko visų
 Lietuvos Respublikoje įregistruotų įmonių registravimo duomenis, metodiškai
 vadovauja registravimą atliekantiems rejestro tvarkytojams, kontroliuoja jų
@@ -88,6 +90,34 @@ registravimo duomenys turi būti per 5 dienas pateikti vyriausiajam rejestro
 tvarkytojui. Ūkio ministerijoje įregistruotos įmonės registravimo duomenis
 vyriausiasis rejestro tvarkytojas turi per 
 3 dienas perduoti vietos savivaldos vykdomajai institucijai, kurios
+teritorijoje yra įmonės buveinė.
+3
+straipsnio redakcija nuo 2002 m. liepos 1 d.:
+3 straipsnis.
+Įmonių rejestro steigėjas ir tvarkytojai
+1. Įmonių rejestro steigėjas yra Lietuvos
+Respublikos Vyriausybė, vyriausiasis tvarkytojas – Žemės ir kito nekilnojamojo
+turto kadastro ir registro valstybės įmonė. Šį rejestrą taip pat tvarko ir
+vietos savivaldos vykdomosios institucijos.
+2. Žemės ir kito nekilnojamojo turto kadastro ir
+registro valstybės įmonė registruoja iš valstybės lėšų steigiamas įmones, taip
+pat įmones, į kurias investuotas užsienio kilmės kapitalas, draudimo veiklą
+vykdančias įmones, Prekybos, pramonės ir amatų rūmus bei jų asociaciją,
+užsienio įmonių atstovybes, komercinius bankus ir jų padalinius (filialus,
+skyrius), kitas kredito įstaigas, jų statutus (įstatus), užsienio valstybių
+bankų dukterinius bankus, užsienio valstybių bankų filialus (skyrius) bei
+Lietuvos ir užsienio valstybių bankų atstovybes, kaupia, tvarko visų Lietuvos
+Respublikoje įregistruotų įmonių registravimo duomenis, metodiškai vadovauja
+registravimą atliekantiems rejestro tvarkytojams. 
+3. Vietos savivaldos vykdomosios institucijos
+registruoja įmones, kaupia ir tvarko įmonių, įsteigtų jų teritorijose,
+registravimo duomenis, išskyrus įmones, registruojamas Žemės ir kito nekilnojamojo
+turto kadastro ir registro valstybės įmonėje.
+4. Įregistravus įmonę vietos savivaldos vykdomojoje
+institucijoje, registravimo duomenys per 5 dienas turi būti pateikti
+vyriausiajam rejestro tvarkytojui. Žemės ir kito nekilnojamojo turto kadastro
+ir registro valstybės įmonėje įregistruotos įmonės registravimo duomenys per 3
+dienas turi būti perduoti vietos savivaldos vykdomajai institucijai, kurios
 teritorijoje yra įmonės buveinė.
 Straipsnio
 pakeitimai:
@@ -105,6 +135,9 @@ VIII-69,
 97.01.09, Žin., 1997, Nr.5-72 (97.01.17)
 Nr. IX-206, 2001 03 13, Žin., 2001, Nr.
 28-891 (2001 03 30)
+Nr.
+IX-918,
+2002-05-30, Žin., 2002, Nr. 60-2413 (2002-06-19), įsigalioja nuo 2002-07-01
  
             4 straipsnis.Registravimo
 duomenys
@@ -152,9 +185,9 @@ pavardės ir adresai;
 pirmininko ir jo pavaduotojo vardai, pavardės ir adresai;
             7) administracijos vadovo
 vardas, pavardė ir adresas;
-            8) likviduojamos įmonės statuso
-įgijimo data ir jos likvidatorių vardai, pavardės (juridinių asmenų pavadinimai
-ir buveinės).
+            8) likviduojamos įmonės
+statuso įgijimo data ir jos likvidatorių vardai, pavardės (juridinių asmenų
+pavadinimai ir buveinės).
             4. Jeigu registruojamos
 įmonių asociacijos, į kurias įeina 2 ar daugiau įmonių, turi būti papildomai
 nurodyta:
@@ -172,9 +205,9 @@ vardai, pavardės ir adresai.
             1) valstybės (vietos
 savivaldybės) įmonės, akcinės bendrovės ar ūkinės bendrijos pavadinimas (firmos
 vardas) ir buveinė;
-            2) jos vadovų (valdybos pirmininko,
-prezidento arba visiško atstovavimo teisę turinčių ūkinės bendrijos narių ar
-įgaliotų asmenų) vardai, pavardės ir adresai.
+            2) jos vadovų (valdybos
+pirmininko, prezidento arba visiško atstovavimo teisę turinčių ūkinės bendrijos
+narių ar įgaliotų asmenų) vardai, pavardės ir adresai.
             6. Lietuvos Respublikos
 Vyriausybės nutarimu gali būti nustatomi kiti papildomi registravimo duomenys,
 reikalingi valstybės valdymui.
@@ -197,9 +230,9 @@ uždarosios akcinės bendrovės, įmonių asociacijos, kooperatinės bendrovės
 (kooperatyvo) ir žemės ūkio bendrovės steigimo sutartis (aktas) arba jos
 nuorašas ir steigiamojo susirinkimo protokolo nuorašas, ūkinės bendrijos
 bendrosios jungtinės veiklos sutartis arba nuorašas;
-            4) akcinės bendrovės
-steigimo ataskaita ir akcinės bendrovės revizoriaus (auditoriaus) išvada dėl
-šios ataskaitos;
+            4) akcinės bendrovės steigimo
+ataskaita ir akcinės bendrovės revizoriaus (auditoriaus) išvada dėl šios
+ataskaitos;
             5) akcinės bendrovės ar
 uždarosios akcinės bendrovės buhalteriniai balansai, jeigu tai Lietuvos
 Respublikos įstatymų numatyta;
@@ -209,9 +242,18 @@ bendrovės (kooperatyvo), žemės ūkio bendrovės, įmonių asociacijos įstata
 filialų nuostatai;
             7) pažyma apie šio įstatymo
 10 straipsnyje nurodyto registravimo mokesčio sumokėjimą;
+ 
+1
+dalies 8 punkto redakcija iki 2002 m. liepos 1 d.:
             8) savivaldybės leidimas
 užsiimti komercine-ūkine veikla, jei įmonė registruojama Ekonomikos
 ministerijoje;
+1
+dalies 8 punkto redakcija nuo 2002 m. liepos 1 d.:
+8) savivaldybės
+leidimas užsiimti ūkine komercine veikla, jei įmonė registruojama Žemės ir kito
+nekilnojamojo turto kadastro ir registro valstybės įmonėje;
+ 
             9) negyvenamųjų patalpų
 savininko pažyma apie patalpų suteikimą (nurodant, kuriam laikui, ir adresą)
 įmonės komercinei - ūkinei veiklai;
@@ -225,8 +267,8 @@ su administracijos vadovo parašu patvirtintu antspaudu. Patalpų savininkai
 fiziniai asmenys, suteikiantys patalpas asmenims, kurie nėra patalpų (buto)
 savininkai, išduoda laisvos formos pažymą, patvirtintą notaro. Patalpų
 savininkui, pačiam steigiančiam įmonę, pažyma apie patalpų suteikimą
-komercinei- ūkinei veiklai nereikalinga, tačiau būtina pateikti dokumentus,
-patvirtinančius jo nuosavybės teises į šias patalpas;
+komercinei- ūkinei veiklai nereikalinga, tačiau būtina pateikti dokumentus, patvirtinančius
+jo nuosavybės teises į šias patalpas;
             11) leidimas veiklai
 laisvojoje ekonominėje zonoje, išduotas zonos valdymo bendrovės, jei
 registruojama zonos įmonė;
@@ -250,6 +292,9 @@ I-1254,
 Nr.
 I-1440,
 96.07.04, Žin., 1996, Nr. 68-1638 (96.07.19)
+Nr.
+IX-918,
+2002-05-30, Žin., 2002, Nr. 60-2413 (2002-06-19), įsigalioja nuo 2002-07-01
  
             6 straipsnis.Rejestro
 standartas
@@ -261,20 +306,33 @@ dokumentų ir duomenų naudojimas
             1. Rejestro duomenimis ir
 dokumentais turi teisę atlygintinai naudotis visi juridiniai ir fiziniai
 asmenys.
-            2. Apie naujai įsteigtų įmonių
-įregistravimą arba įmonių išregistravimą vietos savivaldybių spaudoje kartą per
-mėnesį paskelbia vietos savivaldos vykdomosios institucijos, o respublikinėje
-spaudoje apie tai (išskyrus individualias (personalines) įmones ir ūkines
-bendrijas) paskelbia Statistikos departamentas. Tokiame skelbime turi būti
-nurodyta: įmonės pavadinimas, jos veiklos pobūdis, steigėjai ir įstatinis
+ 
+2
+dalies redakcija iki 2002 m. liepos 1 d.:
+            2. Apie naujai įsteigtų
+įmonių įregistravimą arba įmonių išregistravimą vietos savivaldybių spaudoje
+kartą per mėnesį paskelbia vietos savivaldos vykdomosios institucijos, o
+respublikinėje spaudoje apie tai (išskyrus individualias (personalines) įmones
+ir ūkines bendrijas) paskelbia Statistikos departamentas. Tokiame skelbime turi
+būti nurodyta: įmonės pavadinimas, jos veiklos pobūdis, steigėjai ir įstatinis
 kapitalas. Skelbimo išlaidas apmoka rejestro tvarkytojas.
+2
+dalies redakcija nuo 2002 m. liepos 1 d.:
+2. Apie naujai įsteigtų įmonių įregistravimą arba
+įmonių išregistravimą vietos savivaldybių spaudoje kartą per mėnesį paskelbia
+vietos savivaldos vykdomosios institucijos, o respublikinėje spaudoje apie tai
+(išskyrus individualias (personalines) įmones ir ūkines bendrijas) paskelbia
+Žemės ir kito nekilnojamojo turto kadastro ir registro valstybės įmonė. Tokiame
+skelbime turi būti nurodyta: įmonės pavadinimas, jos veiklos pobūdis, steigėjai
+ir įstatinis kapitalas. Skelbimo išlaidas apmoka rejestro tvarkytojas.
+ 
             3. Jeigu apie įmonių
 įregistravimą (išregistravimą) paskelbta viešai, tai nagrinėjant bylas teisme,
 asmenys negali nežinojimu apie įmonės įregistravimą (išregistravimą) grįsti
 savo reikalavimų ar atsikirtimų.
-            4. Rejestro tvarkytojas
-Lietuvos Respublikos Vyriausybės nustatyta tvarka pateikia duomenis atitinkamo
-miesto ar rajono Valstybinei mokesčių inspekcijai.
+            4. Rejestro tvarkytojas Lietuvos
+Respublikos Vyriausybės nustatyta tvarka pateikia duomenis atitinkamo miesto ar
+rajono Valstybinei mokesčių inspekcijai.
 Straipsnio
 pakeitimai:
 Nr.
@@ -283,6 +341,9 @@ I-677,
 Nr.
 I-1440,
 96.07.04, Žin., 1996, Nr. 68-1638 (96.07.19) 
+Nr.
+IX-918,
+2002-05-30, Žin., 2002, Nr. 60-2413 (2002-06-19), įsigalioja nuo 2002-07-01
  
             8 straipsnis. Registravimo
 pažymėjimas
@@ -296,6 +357,8 @@ Nr.
 I-677,
 94.11.29, Žin., 1994, Nr. 96-1875 (94.12.14)
  
+9
+straipsnio redakcija iki 2002 m. liepos 1 d.:
             9 straipsnis. Rejestro
 tvarkytojo įgaliojimai
             1. Jeigu po registravimo
@@ -324,6 +387,31 @@ nustatyta tvarka.
             7. Apie pasikeitusius registravimo duomenis
 įmonės privalo pranešti rejestro tvarkytojui 
 per 15 dienų.
+9
+straipsnio redakcija nuo 2002 m. liepos 1 d.:
+            9 straipsnis. Rejestro
+tvarkytojo įgaliojimai
+1. Jeigu po
+registravimo atsirado aplinkybės, dėl kurių įmonę įregistruoti negalima,
+rejestro tvarkytojas turi teisę nustatyti laiką, ne trumpesnį kaip 15 dienų,
+per kurį steigėjas (įmonininkas) privalo pašalinti aplinkybes, trukdančias ją
+įregistruoti. Jeigu per nustatytą laiką trūkumai nepašalinami, rejestro tvarkytojas
+turi teisę įregistravimą panaikinti.
+2. Jeigu į
+rejestrą buvo įrašytas klaidingas įrašas, rejestro tvarkytojas turi teisę tokį
+įrašą pakeisti.
+3. Rejestro
+tvarkytojas, pakeitęs įrašą, apie tai per 3 dienas privalo pranešti steigėjui
+(įmonininkui).
+4. Rejestro
+tvarkytojui draudžiama koreguoti pateikiamus duomenis ir dokumentus arba
+reikalauti to iš jų pateikėjo, jei įmonės įstatai ar steigimo sutartis (aktas)
+neprieštarauja įstatymams.
+5. Ginčai dėl
+įregistravimo priskiriami teismui.
+6. Apie pasikeitusius
+registravimo duomenis įmonės privalo pranešti rejestro tvarkytojui per 15
+dienų.
 Straipsnio
 pakeitimai:
 Nr.
@@ -338,6 +426,9 @@ I-677,
 Nr.
 I-1017,
 95.07.05, Žin., 1995, Nr. 59-1478 (95.07.19)
+Nr.
+IX-918,
+2002-05-30, Žin., 2002, Nr. 60-2413 (2002-06-19), įsigalioja nuo 2002-07-01
  
             10 straipsnis. Registravimo
 mokesčiai
@@ -366,10 +457,10 @@ I-1440,
 Pasekmės įmonėms, nesilaikančioms įstatymų
             1. Įmonėms, nesuformavusioms įstatinio
 kapitalo per įstatymo nustatytą laiką ir nepateikusioms mokesčių ataskaitų
-valstybinėms mokesčių inspekcijoms, socialinio draudimo įstaigoms bei statistikos
-ataskaitų - Statistikos departamentui, taip pat nesumokėjusioms mokesčių
-muitinėms, valstybinėms mokesčių inspekcijoms ir socialinio draudimo įstaigoms,
-prevencine tvarka taikomi šie komercinės-ūkinės veiklos apribojimai:
+valstybinėms mokesčių inspekcijoms, socialinio draudimo įstaigoms bei
+statistikos ataskaitų - Statistikos departamentui, taip pat nesumokėjusioms
+mokesčių muitinėms, valstybinėms mokesčių inspekcijoms ir socialinio draudimo
+įstaigoms, prevencine tvarka taikomi šie komercinės-ūkinės veiklos apribojimai:
 sustabdomos muitinės procedūros, naujų įmonių, filialų steigimas, ūkinių
 sandorių sudarymas, įsigytų transporto priemonių valstybinė registracija.
 2. (Neteko
@@ -380,12 +471,23 @@ statistikos skyriai, praėjus ne daugiau kaip vienam mėnesiui po ataskaitinio
 periodo, praneša vyriausiajam rejestro tvarkytojui apie įmones, nuolat (daugiau
 kaip 2 kartus) darančias įstatymų pažeidimus, kurie yra nurodyti šio straipsnio
 pirmojoje dalyje.
+ 
+4
+dalies redakcija iki 2002 m. liepos 1 d.:
             4. Remdamasis vyriausiojo
 rejestro tvarkytojo pateikta informacija, šiuos apribojimus taiko Muitinės
 departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos
 Respublikos vidaus reikalų ministerijos Policijos departamento Kelių policijos
 valdyba ir valstybinės institucijos, kurios atlieka teisinę įmonių
 registraciją.
+4
+dalies redakcija nuo 2002 m. liepos 1 d.:
+4. Remdamasis
+vyriausiojo rejestro tvarkytojo pateikta informacija, šiuos apribojimus taiko
+Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos
+Respublikos vidaus reikalų ministerijos Policijos departamento Kelių policijos
+valdyba.
+ 
             5. Šio straipsnio pirmojoje
 dalyje nurodyti komercinės- ūkinės veiklos apribojimai panaikinami, jeigu įmonė
 pateikia vyriausiajam rejestro tvarkytojui laisvos formos pažymą, išduotą
@@ -404,6 +506,9 @@ Nr. VIII-952,
 Nr.
 IX-601,
 2001-11-13, Žin., 2001, Nr. 99-3532 (2001-11-28)
+Nr.
+IX-918,
+2002-05-30, Žin., 2002, Nr. 60-2413 (2002-06-19), įsigalioja nuo 2002-07-01
  
             11 straipsnis. Rejestro
 likvidavimas
@@ -532,12 +637,21 @@ Nr. IX-601,
 ĮMONIŲ
 REJESTRO ĮSTATYMO 10(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-918,
+2002-05-30, Žin., 2002, Nr. 60-2413 (2002-06-19)
+ĮMONIŲ
+REJESTRO ĮSTATYMO 3, 5, 7, 9 IR 10(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja nuo 2002 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001-11-28)
+Aušrinė Trapinskienė (2002-06-20)
                  
 autrap@lrs.lt
 
