@@ -37,7 +37,6 @@ NUOSTATOS
             
             1 straipsnis. Įstatymo
 paskirtis
- 
             1. Įstatymo tikslas -
 reglamentuoti draudimo įmonių bei draudimo tarpininkų veiklą, kad draudimo
 sistema būtų stabili, patikima, efektyvi ir saugi.
@@ -62,7 +61,6 @@ sistemos pagrindų įstatymo.
             
             2 straipsnis. Pagrindinės įstatyme
 vartojamos sąvokos
- 
             Šiame įstatyme:
             1) draudimo veikla -
 finansinė ūkinė veikla, kuria siekiama apsaugoti fizinių ir juridinių asmenų
@@ -117,8 +115,8 @@ perdraudimo įmonei;
             15) perdraudėjas - draudimo
 įmonė, perdavusi savo prisiimtos rizikos dalį kitai draudimo ar perdraudimo
 įmonei;
-            16) perdraudikas - draudimo
-ar perdraudimo įmonė, perėmusi tam tikrą rizikos dalį iš kitos draudimo įmonės;
+            16) perdraudikas - draudimo ar
+perdraudimo įmonė, perėmusi tam tikrą rizikos dalį iš kitos draudimo įmonės;
             17) draudimo tarpininkas -
 draudimo agentas ir (ar) draudimo brokeris, kurių paslaugomis turi teisę
 naudotis draudimo įmonės ir draudėjai;
@@ -140,9 +138,7 @@ Nr. VIII-1587, 00.03.23, Žin., 2000,
 Nr.29-803 (00.04.07)
  
  
-            3 straipsnis. Draudimo
-objektas
- 
+            3 straipsnis. Draudimo objektas
             Draudimo objektai gali būti
 turtiniai interesai:
             1) susiję su asmens gyvenimo
@@ -157,7 +153,6 @@ padaryta juridiniam asmeniui.
             
             4 straipsnis. Draudimo
 formos
- 
             1. Draudimas gali būti
 privalomasis ir savanoriškasis.
             2. Privalomojo draudimo
@@ -168,9 +163,8 @@ sutartimi.
             
             5 straipsnis. Draudimo šakos
 ir grupės
- 
-            1. Draudimo šakos - tai
-gyvybės ir ne gyvybės draudimas.
+            1. Draudimo šakos - tai gyvybės
+ir ne gyvybės draudimas.
             2. Gyvybės draudimo šakai
 priskiriamos šios grupės:
             1) sutuoktuvinis ir gimimų
@@ -235,17 +229,15 @@ SUTARTIS
             
             6 straipsnis. Draudimo
 sutartis
- 
             1. Draudimo sutartis
 sudaroma draudimo rūšies taisyklių pagrindu.
-            2. Draudimo sutartyje draudėjas
-įsipareigoja nustatytu laiku mokėti draudimo įmokas (premijas), o draudimo
-įmonė įsipareigoja atsitikus draudiminiam įvykiui mokėti draudimo išmokas
-draudėjui ar asmeniui, kuris įgyja tokią teisę pagal draudimo sutartį.
+            2. Draudimo sutartyje
+draudėjas įsipareigoja nustatytu laiku mokėti draudimo įmokas (premijas), o
+draudimo įmonė įsipareigoja atsitikus draudiminiam įvykiui mokėti draudimo
+išmokas draudėjui ar asmeniui, kuris įgyja tokią teisę pagal draudimo sutartį.
             
-            7 straipsnis. Draudimo sutarties
-šalys
- 
+            7 straipsnis. Draudimo
+sutarties šalys
             1. Draudimo sutarties šalys
 yra draudimo įmonė ir draudėjas.
             2. Draudimo sutartyje
@@ -259,7 +251,6 @@ Nr.29-803 (00.04.07)
  
             8 straipsnis. Draudimo
 sutarties sudarymo tvarka 
- 
             1. Draudimo sutartis
 sudaroma rašytine forma.
             2. Draudėjas, prieš
@@ -273,12 +264,11 @@ sudėtine draudimo sutarties dalimi.
             
             9 straipsnis. Draudimo
 rūšies taisyklės
- 
             1. Valstybinė draudimo
 priežiūros tarnyba prie Finansų ministerijos (toliau - Priežiūros tarnyba) gali
 nustatyti bendrąsias draudimo rūšies sąlygas, kuriomis draudimo įmonė, rengdama
-draudimo rūšies taisykles, privalo vadovautis. Privalomojo draudimo rūšies taisykles
-reglamentuoja Lietuvos Respublikos įstatymai.
+draudimo rūšies taisykles, privalo vadovautis. Privalomojo draudimo rūšies
+taisykles reglamentuoja Lietuvos Respublikos įstatymai.
             2. Draudimo rūšies
 taisyklėse turi būti nustatyta:
             1) draudėjo prašymo sudaryti
@@ -292,8 +282,8 @@ kurių atveju draudimo įmonė neprivalo mokėti draudimo išmokų;
 pasekmės dėl jų nesilaikymo;
             6) draudimo sutarties
 galiojimo terminai;
-            7) keleriopo draudimo ar draudimo
-padidintomis sumomis sąlygos;
+            7) keleriopo draudimo ar
+draudimo padidintomis sumomis sąlygos;
             8) ikisutartinės draudėjo ir
 draudimo įmonės teisės ir pareigos;
             9) draudėjo ir draudimo
@@ -321,7 +311,6 @@ sąlygoms pasikartojus daugiau kaip tris kartus, draudimo įmonė privalo šio
             
             10 straipsnis. Draudimo
 liudijimas (polisas)
- 
             1. Draudimo liudijime
 (polise) turi būti nurodyta:
             1) draudimo liudijimo
@@ -356,7 +345,6 @@ ar panaudoję draudimo liudijimą (polisą), atsako įstatymų nustatyta tvarka.
             
             11 straipsnis. Draudimo
 sutarties šalių teisės ir pareigos
- 
             1. Draudimo įmonė turi teisę
 reikalauti iš asmens, sudariusio ar ketinančio sudaryti draudimo sutartį,
 pateikti reikalingą informaciją apie apdraudžiamą ar apdraustą asmenį ar
@@ -394,7 +382,6 @@ Nr.29-803 (00.04.07)
             
             12 straipsnis. Atsakomybė už
 draudimo sutarties pažeidimus
- 
             1. Draudimo sutarties šalys,
 pažeidusios draudimo sutarties sąlygas, atsako įstatymų nustatyta tvarka.
             2. Draudėjas ar draudimo
@@ -407,7 +394,6 @@ draudėju gyvenantys asmenys.
             
             13 straipsnis. Draudimo
 sutarties šalių pasikeitimas sutartyje
- 
             1. Draudimo įmonė, gavusi
 draudėjo (draudėjų) sutikimą bei Priežiūros tarnybos valdybos leidimą, turi
 teisę visas ar dalį draudimo (perdraudimo) sutarčių sutarties pagrindu perduoti
@@ -426,9 +412,8 @@ nuo turto perleidimo sutarties pasirašymo dienos.
 vieną mėnesį neinformuojama raštu apie apdrausto turto savininko pasikeitimą,
 tai ji atleidžiama nuo pareigų, numatytų draudimo sutartyje, vykdymo.
             
-            14 straipsnis. Draudimo
-įmoka (premija)
- 
+14 straipsnis.
+Draudimo įmoka (premija)
             1. Draudimo įmoka mokama
 draudimo įmonei grynaisiais pinigais arba naudojantis banko ar pašto
 paslaugomis.
@@ -451,7 +436,6 @@ privalo informuoti draudėją.
             
             15 straipsnis. Draudimo
 išmoka
- 
             1. Įvykus draudiminiam
 įvykiui ir nustačius, kad dėl tų pačių rizikų draudėjas yra sudaręs draudimo
 sutartis daugiau nei su viena draudimo įmone, draudimo išmoką kiekviena
@@ -478,7 +462,6 @@ išmoka negali viršyti draudimo sutartyje nustatytos draudimo sumos.
             
             16 straipsnis. Draudimas
 padidintomis sumomis
- 
             1. Draudimas padidintomis
 sumomis galimas tik siekiant išvengti pinigų nuvertėjimo ir kai numatomas
 apdraudžiamo objekto vertės padidėjimas, jei tai numatyta draudimo sutartyje.
@@ -493,7 +476,6 @@ nepagrįstai padidindamas draudimo sumą.
             
             17 straipsnis. Draudimo
 išmokos sumažinimas ir jos nemokėjimo pagrindai
- 
             1. Draudimo įmonė turi teisę
 sumažinti ar atsisakyti išmokėti draudimo išmoką:
             1) jeigu draudiminis įvykis
@@ -521,8 +503,8 @@ išmokėtos, - susigrąžinti, kai apgaulė įtakojo draudimo sutarties sudarym�
 draudiminį įvykį ar sąlygojo draudimo išmokos dydį.
             3. Dėl draudimo išmokos
 nemokėjimo ar sumažinimo sprendžia draudimo įmonė motyvuotai paaiškindama
-priežastis ir apie tai raštu praneša asmenims, pagal draudimo sutartį
-turintiems teisę į draudimo išmokas.
+priežastis ir apie tai raštu praneša asmenims, pagal draudimo sutartį turintiems
+teisę į draudimo išmokas.
             4. Asmenys, pagal draudimo
 sutartį turintys teisę į draudimo išmokas ir nesutinkantys su draudimo įmonės
 sprendimu dėl draudimo išmokų nemokėjimo ar jų sumažinimo, turi teisę apskųsti
@@ -534,7 +516,6 @@ Nr.29-803 (00.04.07)
  
             18 straipsnis. Draudiminis
 įvykis
- 
             1. Draudėjas privalo
 pranešti draudimo įmonei apie draudiminį įvykį ir pateikti visą ir teisingą
 informaciją bei dokumentus.
@@ -565,7 +546,6 @@ aplinkybes arba kreiptis pagalbos į teisėsaugos organus.
             
             19 straipsnis. Bendrasis
 draudimas
- 
             1. Draudimo įmonėms
 tarpusavyje susitarus, gali būti sudaryta sutartis dėl bendrojo to paties
 objekto draudimo nuo tų pačių rizikų. Šiuo atveju kiekviena iš draudimo įmonių
@@ -574,8 +554,8 @@ prisiima atitinkamą dalį atsakomybės pagal vieną draudimo sutartį. Draudimo
 draudimo įmonių vardu. Bendrojo draudimo liudijime (polise) turi būti nurodomi:
             1) draudimo liudijimo
 (poliso) numeris;
-            2) pagrindinės draudimo įmonės
-pavadinimas ir buveinės adresas;
+            2) pagrindinės draudimo
+įmonės pavadinimas ir buveinės adresas;
             3) draudimo įmonių,
 dalyvaujančių bendrajame draudime, pavadinimai ir buveinių adresai (išskyrus
 pagrindinę draudimo įmonę);
@@ -608,7 +588,6 @@ dalyvaujančios draudimo įmonės atsakomybės už savo įsipareigojimus rūšį
 draudimo sutartyje.
             
             20 straipsnis. Perdraudimas
- 
             1. Draudimo veiklos
 licencija suteikia teisę draudimo įmonei vykdyti perdraudimą.
             2. Lietuvos Respublikoje
@@ -623,7 +602,6 @@ pripažintoms finansiškai patikimomis.
             
             21 straipsnis. Draudimo
 sutarties terminai
- 
             1. Draudimo sutartis
 įsigalioja nuo to momento, kai draudėjas sumoka visą ar pirmą draudimo įmoką
 (premiją). Draudimo sutartyje gali būti nustatyta, kad draudimo sutartis
@@ -636,7 +614,6 @@ sutarties terminui, - ne trumpesniam kaip trejų metų laikotarpiui.
             
             22 straipsnis. Draudimo
 sutarties nutraukimo ir pasibaigimo terminai
- 
             1. Draudimo sutarties šalis,
 įspėdama raštiškai kitą šalį ne vėliau kaip prieš vieną mėnesį iki numatytos
 draudimo sutarties nutraukimo datos, turi teisę nutraukti draudimo sutartį.
@@ -672,8 +649,8 @@ draudimo sutarties sąlygas, draudėjui:
             1) ne gyvybės draudimo
 atveju - draudimo įmokos negrąžinamos;
             2) gyvybės draudimo atveju -
-grąžinamos visos draudėjo sumokėtos draudimo įmokos, išskaičiavus draudimo sutarties
-sudarymo ir vykdymo išlaidas.
+grąžinamos visos draudėjo sumokėtos draudimo įmokos, išskaičiavus draudimo
+sutarties sudarymo ir vykdymo išlaidas.
 7. Draudėjas - fizinis asmuo - turi
 teisę savo iniciatyva nutraukti gyvybės draudimo sutartį, raštu pranešęs
 draudimo įmonei per 30 dienų nuo sutarties sudarymo. Šiuo atveju draudėjui
@@ -709,7 +686,6 @@ Nr.29-803 (00.04.07)
  
             23 straipsnis. Negaliojanti
 draudimo sutartis
- 
             Draudimo sutartis negalioja,
 jeigu:
             1) ji sudaryta po
@@ -728,18 +704,17 @@ STEIGIMAS, VEIKLA, REORGANIZAVIMAS IR LIKVIDAVIMAS
             
             24 straipsnis. Draudimo
 įmonių veikla
- 
             1. Lietuvos Respublikoje
 draudimo veiklą turi teisę vykdyti Lietuvos Respublikos įstatymų nustatyta
 tvarka įsteigtos draudimo įmonės: akcinės bendrovės ir uždarosios akcinės
 bendrovės.
-            2. Draudimo įmonės negali verstis
-jokia kita komercine ūkine veikla, išskyrus draudimo bei su ja susijusia
-veikla. Tiesiogiai su draudimo veikla susijusi veikla yra perdraudimas,
-draudiminių įvykių likvidavimas bei administravimas, tarpininkavimas sudarant
-draudimo sutartis, konsultavimas draudimo ir perdraudimo klausimais, draudimo
-ir perdraudimo specialistų mokymas, kvalifikacijos kėlimas bei nekilnojamojo
-turto nuoma ir draudžiamo turto įvertinimas.
+            2. Draudimo įmonės negali
+verstis jokia kita komercine ūkine veikla, išskyrus draudimo bei su ja
+susijusia veikla. Tiesiogiai su draudimo veikla susijusi veikla yra
+perdraudimas, draudiminių įvykių likvidavimas bei administravimas,
+tarpininkavimas sudarant draudimo sutartis, konsultavimas draudimo ir perdraudimo
+klausimais, draudimo ir perdraudimo specialistų mokymas, kvalifikacijos kėlimas
+bei nekilnojamojo turto nuoma ir draudžiamo turto įvertinimas.
             3. Draudimo įmonė, vykdanti
 ne gyvybės draudimą, negali vykdyti gyvybės draudimo.
             4. Draudimo įmonė, vykdanti
@@ -754,7 +729,6 @@ tarnybos nutarimais.
             
             25 straipsnis. Kitų šalių
 draudimo įmonių draudimo veikla Lietuvos Respublikoje
- 
             1. Kitų šalių draudimo
 įmonėms, neregistruotoms Lietuvos Respublikoje, tiesiogiai ar per draudimo
 tarpininkus draudžiama sudarinėti draudimo sutartis su Lietuvos Respublikos
@@ -768,7 +742,6 @@ ar per tarpininkus sudaryti draudimo sutartis.
             
             26 straipsnis. Draudimo
 tarpininkai
- 
             1. Draudimo brokerio veikla
 gali verstis akcinės ir uždarosios akcinės bendrovės, turinčios šiai veiklai
 Priežiūros tarnybos valdybos išduotą leidimą. Leidimų išdavimo tvarką nustato
@@ -782,21 +755,19 @@ draudimo tarpininkavimo veiklą Lietuvos Respublikoje.
             
             27 straipsnis. Draudimo
 įmonės steigėjai
- 
             1. Draudimo įmonės
 steigėjai, išskyrus, kai steigiama užsienio draudimo įmonės dukterinė draudimo
 įmonė ar filialas, yra Lietuvos Respublikos fiziniai ir juridiniai asmenys bei
 įmonės, neturinčios juridinio asmens teisių, Akcinių bendrovių įstatymo
-nustatyta tvarka sudariusios steigimo sutartį. Šioje sutartyje nustatomos
-steigėjų teisės ir pareigos steigiant draudimo įmonę bei atsakomybė už
-įsipareigojimų nevykdymą. Kiekvienas draudimo įmonės steigėjas turi būti jos
-akcininkas. Jei vienas ar keli draudimo įmonės steigėjai iki draudimo veiklos licencijos
-gavimo atsisako įsigyti draudimo įmonės akcijų arba jas perleidžia kitiems
-asmenims, Priežiūros tarnybos valdyba gali atsisakyti duoti draudimo veiklos
-licenciją.
+nustatyta tvarka sudariusios steigimo sutartį. Šioje sutartyje nustatomos steigėjų
+teisės ir pareigos steigiant draudimo įmonę bei atsakomybė už įsipareigojimų
+nevykdymą. Kiekvienas draudimo įmonės steigėjas turi būti jos akcininkas. Jei
+vienas ar keli draudimo įmonės steigėjai iki draudimo veiklos licencijos gavimo
+atsisako įsigyti draudimo įmonės akcijų arba jas perleidžia kitiems asmenims,
+Priežiūros tarnybos valdyba gali atsisakyti duoti draudimo veiklos licenciją.
 2. Užsienio
-draudimo įmonė gali būti draudimo įmonės ar filialo steigėja Lietuvos Respublikoje,
-jeigu:
+draudimo įmonė gali būti draudimo įmonės ar filialo steigėja Lietuvos
+Respublikoje, jeigu:
 1)
 turi užsienio valstybės, kurios jurisdikcijai ji priklauso, duotą draudimo
 veiklos licenciją;
@@ -826,7 +797,6 @@ Nr.64-1915 (00.07.31)
  
             28 straipsnis. Organizacinis
 fondas
- 
             1. Organizacinis fondas
 skirtas draudimo įmonės steigimo bei pradinio etapo (nuo steigimo iki
 įregistravimo) išlaidoms padengti.
@@ -844,7 +814,6 @@ Nr.29-803 (00.04.07)
  
             29 straipsnis. Draudimo
 įmonių steigimas
- 
             1. Draudimo įmonės
 steigiamos vadovaujantis Akcinių bendrovių įstatymu, jei šis įstatymas
 nenustato kitaip.
@@ -870,7 +839,6 @@ Nr.64-1915 (00.07.31)
  
             30 straipsnis. Draudimo
 įmonių filialų steigimas
- 
             Lietuvos Respublikoje
 įregistruotų draudimo įmonių filialai steigiami gavus Priežiūros tarnybos
 valdybos leidimą ir įregistruojami Lietuvos Respublikos įstatymų nustatyta
@@ -882,7 +850,6 @@ neviršydami draudimo įmonės suteiktų įgaliojimų, vadovaudamiesi draudimo �
             
             31 straipsnis. Prašymas
 draudimo veiklos licencijai gauti
- 
             1. Draudimo įmonės steigėjai
 arba veikianti bendrovė, kurios visuotinis akcininkų susirinkimas priėmė
 sprendimą reorganizuotis į draudimo įmonę, pateikia Priežiūros tarnybos
@@ -895,9 +862,9 @@ reorganizuotis į draudimo įmonę, veiklos metmenys, buveinės adresas.
 pateikiami šie dokumentai ir informacija:
             1) įstatų projektas;
             2) steigimo dokumentai
-(steigimo sutartis, akcijų pasirašymo sutartis, steigiamojo susirinkimo protokolas,
-nutarimas dėl draudimo įmonės steigimo, veikiančios bendrovės visuotinio
-akcininkų susirinkimo sprendimas reorganizuotis į draudimo įmonę);
+(steigimo sutartis, akcijų pasirašymo sutartis, steigiamojo susirinkimo
+protokolas, nutarimas dėl draudimo įmonės steigimo, veikiančios bendrovės
+visuotinio akcininkų susirinkimo sprendimas reorganizuotis į draudimo įmonę);
             3) draudimo įmonės
 pavadinimas;
             4) Priežiūros tarnybos
@@ -928,8 +895,8 @@ patvirtinantys, jog yra suformuotas steigiamos draudimo įmonės organizacinis
 fondas.
             4. Jei steigėjas yra
 juridinis asmuo, papildomai turi būti pateikta:
-            1) steigėjo-įmonės
-registracijos pažymėjimo nuorašas;
+            1) steigėjo-įmonės registracijos
+pažymėjimo nuorašas;
             2) steigėjo-įmonės
 paskutiniųjų ir einamųjų metų finansinės ataskaitos kartu su nepriklausomų
 auditorių išvadomis.
@@ -958,7 +925,6 @@ Nr.29-803 (00.04.07)
  
             32 straipsnis. Sprendimas
 dėl draudimo veiklos licencijos išdavimo
- 
             1. Per 4 mėnesius nuo
 prašymo išduoti draudimo veiklos licenciją pateikimo dienos Priežiūros tarnybos
 valdyba priima sprendimą dėl draudimo veiklos licencijos išdavimo ir apie tai
@@ -974,28 +940,31 @@ dokumentai ir turima informacija patvirtina, kad steigiama draudimo įmonė:
 įstatinį kapitalą;
             2) turi nepriekaištingos
 reputacijos valdybos narius bei kvalifikuotą ir turintį darbo draudimo įmonėse
-patirtį administracijos vadovą ir vyriausiąjį buhalterį (finansininką), o jei numatoma
-vykdyti gyvybės draudimą - ir aktuarijų (draudimo matematiką);
+patirtį administracijos vadovą ir vyriausiąjį buhalterį (finansininką), o jei
+numatoma vykdyti gyvybės draudimą - ir aktuarijų (draudimo matematiką);
             3) turi patalpas;
-            4) yra sumokėjusi žyminį
-mokestį;
+4) yra
+sumokėjusi valstybės rinkliavą už draudimo veiklos licencijos išdavimą;
             5) pateikė duomenis apie
 organizacinio fondo naudojimą ir jo likutį.
             4. Draudimo veiklos
 licencija išduodama neribotam laikui ir negali būti perduodama.
-            5. Už draudimo veiklos
-licencijos išdavimą mokamas įstatymų nustatytas žyminis mokestis.
+5. Už draudimo
+veiklos licencijos išdavimą mokama Rinkliavų įstatymo ir kitų teisės aktų
+nustatyta valstybės rinkliava.
             6. Priežiūros tarnybos
-valdyba, pranešdama pareiškėjui apie sprendimą neduoti draudimo veiklos
-licencijos, raštu pateikia tokio sprendimo motyvus ir informuoja rejestro
-tvarkytoją.
+valdyba, pranešdama pareiškėjui apie sprendimą neduoti draudimo veiklos licencijos,
+raštu pateikia tokio sprendimo motyvus ir informuoja rejestro tvarkytoją.
             7. Sprendimas neduoti
 draudimo veiklos licencijos gali būti apskundžiamas teismui įstatymų nustatyta
 tvarka.
-            
+Straipsnio pakeitimai:
+Nr. IX-281, 2001 04 19, Žin., 2001, Nr.
+39-1351 (2001 05 09)
+ 
+ 
             33 straipsnis. Draudimo
 veiklos licencijos rekvizitai
- 
             Draudimo veiklos licencijoje
 turi būti šie rekvizitai:
             1) draudimo įmonės
@@ -1011,7 +980,6 @@ vadovo (jo pavaduotojo) parašas ir herbinis antspaudas.
             
             34 straipsnis. Leidimas
 draudimo rūšiai
- 
             1. Naujai įregistruotai
 draudimo įmonei leidimas draudimo rūšiai, kurios draudimo rūšies taisyklės,
 draudimo įmokų tarifai ir draudimo liudijimo (poliso) pavyzdys buvo pateikti
@@ -1020,8 +988,8 @@ draudimo veiklos licencija.
             2. Jeigu veikianti draudimo
 įmonė nori vykdyti draudimo rūšį, kuriai nėra gavusi Priežiūros tarnybos
 valdybos leidimo, pateikia šiuos dokumentus:
-            1) draudimo rūšies taisykles,
-draudimo įmokų tarifus ir draudimo liudijimo (poliso) pavyzdį;
+            1) draudimo rūšies
+taisykles, draudimo įmokų tarifus ir draudimo liudijimo (poliso) pavyzdį;
             2) Priežiūros tarnybos
 valdybos nustatytos formos ekonominės veiklos pagrindimą (draudimo rūšies
 verslo planą);
@@ -1052,14 +1020,12 @@ draudimo rūšies taisykles, draudimo įmokų tarifus ar draudimo liudijimą
             
             35 straipsnis. Draudimo
 įmonių įstatų pakeitimai
- 
             Keičiami veikiančios
 draudimo įmonės įstatai prieš perregistravimą turi būti suderinti su Priežiūros
 tarnybos valdyba.
             
             36 straipsnis. Draudimo
 įmonių reorganizavimas
- 
             1. Draudimo įmonės
 reorganizuojamos įstatymų nustatyta tvarka.
             2. Draudimo įmonėms
@@ -1067,7 +1033,6 @@ reorganizuoti reikalingas Priežiūros tarnybos valdybos leidimas.
             
             37 straipsnis. Draudimo
 įmonių likvidavimas
- 
             1. Draudimo įmonė
 likviduojama šio įstatymo ir Akcinių bendrovių įstatymo nustatyta tvarka.
             2. Draudimo įmonės
@@ -1087,10 +1052,10 @@ tarnybos valdyba turi teisę pakeisti likvidatorių.
 priverstinai likviduojama Priežiūros tarnybos valdybos sprendimu šio įstatymo
 nustatyta tvarka anuliavus draudimo veiklos licenciją. Priežiūros tarnybos
 valdyba, nusprendusi likviduoti draudimo įmonę, skiria jos likvidatorių.
-            7. Kai draudimo įmonė priverstinai
-likviduojama kitais įstatymų numatytais atvejais, organas, priėmęs sprendimą
-likviduoti draudimo įmonę, turi per 3 darbo dienas apie tai raštu pranešti
-Priežiūros tarnybos valdybai ir likvidatoriui.
+            7. Kai draudimo įmonė
+priverstinai likviduojama kitais įstatymų numatytais atvejais, organas, priėmęs
+sprendimą likviduoti draudimo įmonę, turi per 3 darbo dienas apie tai raštu
+pranešti Priežiūros tarnybos valdybai ir likvidatoriui.
             8. Likvidatorius Įmonių
 rejestro įstatymo nustatyta tvarka praneša draudimo įmonę registravusiam
 rejestro tvarkytojui apie priimtą sprendimą likviduoti draudimo įmonę ir
@@ -1120,7 +1085,6 @@ Nr.29-803 (00.04.07)
  
             38 straipsnis. Draudimo
 įmonės bankrotas
- 
             1. Draudimo įmonės bankroto
 byla nagrinėjama Įmonių bankroto įstatymo nustatyta tvarka, jei šis įstatymas
 nenustato kitaip.
@@ -1143,8 +1107,8 @@ apie tai informuoja teismą, kuris šias sutartis gali paskelbti nutrauktomis nu
 tos dienos, kada priimtas sprendimas likviduoti bankrutavusią draudimo įmonę.
             7. Draudėjų, kurių sutartys
 neperduodamos kitoms draudimo įmonėms, bei kitų kreditorių finansiniai
-reikalavimai pradedami tenkinti tik teismui priėmus sprendimą likviduoti bankrutavusią
-draudimo įmonę.
+reikalavimai pradedami tenkinti tik teismui priėmus sprendimą likviduoti
+bankrutavusią draudimo įmonę.
             8. Pirmiausia tenkinami
 įkaitų garantuoti kreditorių reikalavimai, darbuotojų reikalavimai, susiję su
 darbo santykiais, reikalavimai atlyginti žalą už suluošinimą ar kitokį
@@ -1165,19 +1129,17 @@ FINANSAI
             
             39 straipsnis. Nuosavas
 kapitalas
- 
             Nuosavas kapitalas
 formuojamas iš akcijų emisijos kainos, bendrovės pelno ir organizacinio fondo
 likučio. Draudimo įmonių nuosavo kapitalo sudėtį nustato Akcinių bendrovių
 įstatymas.
 Straipsnio pakeitimai:
-Nr. VIII-1587, 00.03.23, Žin., 2000,
-Nr.29-803 (00.04.07)
+Nr. VIII-1587, 00.03.23, Žin., 2000, Nr.29-803
+(00.04.07)
  
  
             40 straipsnis. Įstatinis
 kapitalas
- 
             1. Draudimo įmonės įstatinį
 kapitalą sudaro įmonės įstatuose nurodytas, visiškai apmokėtas ir įstatymų
 nustatyta tvarka įregistruotas kapitalas.
@@ -1187,8 +1149,8 @@ kapitalas turi būti ne mažesnis kaip:
 vykdančiose įmonėse - 4000000 Lt;
             2) ne gyvybės draudimą,
 išskyrus kredito draudimą, vykdančiose įmonėse - 2000000 Lt;
-            3) kredito draudimą vykdančiose
-įmonėse - 7000000 Lt.
+            3) kredito draudimą
+vykdančiose įmonėse - 7000000 Lt.
             3. Įstatinis kapitalas
 registruojamas tik visiškai jį apmokėjus.
             4. Įstatinis kapitalas turi
@@ -1198,7 +1160,6 @@ negali būti apmokėtas skolintais pinigais.
             
             41 straipsnis. Skolintas
 kapitalas
- 
             Skolintas kapitalas
 sudarytas iš:
             1) draudimo techninių
@@ -1210,7 +1171,6 @@ būsimųjų laikotarpių pajamų.
             
             42 straipsnis. Draudimo
 techniniai atidėjimai
- 
             1. Draudimo įmonės sudaro
 tik joms būdingus draudimo techninius atidėjimus, kurie skirti tam, kad būtų
 laiku vykdomi įsipareigojimai. Sudarant perkeltų įmokų techninį
@@ -1241,7 +1201,6 @@ Nr.29-803 (00.04.07)
  
             43 straipsnis. Perkeltų
 įmokų techninis atidėjimas
- 
             Perkeltų įmokų techninis
 atidėjimas sudaro tą bruto draudimo įmokų dalį, kuri draudimo įmonės pajamoms
 bus priskiriama vėlesniais ataskaitiniais laikotarpiais.
@@ -1252,14 +1211,12 @@ Nr.29-803 (00.04.07)
  
             44 straipsnis. Žalos
 padengimo (matematinis) techninis atidėjimas
- 
             Šis techninis atidėjimas
 apima matematiškai apskaičiuotą draudimo įmonės įsipareigojimų sumą, kurią
 sudaro galimi draudimo išmokėjimai.
             
             45 straipsnis. Numatomų
 išmokėjimų techninis atidėjimas
- 
             Numatomų išmokėjimų
 techninis atidėjimas sudaromas iki ataskaitinio laikotarpio pabaigos
 neišmokėtoms draudimo išmokoms dėl draudiminių įvykių, įvykusių ataskaitiniu
@@ -1276,7 +1233,6 @@ Nr.29-803 (00.04.07)
  
             46 straipsnis. Draudimo
 įmokų grąžinimo techninis atidėjimas
- 
             Draudimo įmokų grąžinimo
 techninis atidėjimas sudaromas iš įmonės arba atskirų draudimo rūšių pelno dėl
 tų draudimo sutarčių, kuriose yra numatyta grąžinti draudimo įmokos dalį, taip
@@ -1289,35 +1245,30 @@ Nr.29-803 (00.04.07)
  
             47 straipsnis. Nuostolių
 svyravimo išlyginimo techninis atidėjimas
- 
 Nuostolių
 svyravimo išlyginimo techninis atidėjimas sudaromas nuostolingumo svyravimui
 išlyginti.
  
             48 straipsnis. Gyvybės
 draudimo, kai investavimo rizika tenka draudėjui, techninis atidėjimas
- 
             Šis techninis atidėjimas
 apima gyvybės draudimo įmonės įsipareigojimus, kai investavimo objektą nurodo
 draudėjas. Tokiu atveju investavimo rizika tenka pačiam draudėjui.
             
             49 straipsnis. Kiti draudimo
 techniniai atidėjimai
- 
             Kitus draudimo techninius
 atidėjimus (galimų nuostolių padengimo ir kt.) ir jų sudarymo tikslus nustato
 Priežiūros tarnybos valdyba.
             
             50 straipsnis. Perdraudikų
 depozitai
- 
             Perdraudikų depozitai sudaro
 lėšas, kurias perdraudėjas pasilieka savo įmonėje kaip garantą arba kurias jam
 palieka perdraudikas.
             
             51 straipsnis. Kiti
 įsipareigojimai
- 
             Kitus įsipareigojimus apima
 draudimo įmonės skolos, susijusios su:
             1) draudimo operacijomis;
@@ -1330,16 +1281,14 @@ valstybės biudžetui, socialiniam draudimui, darbuotojams ir kt.
             
             52 straipsnis. Sukauptos
 sąnaudos ir būsimųjų laikotarpių pajamos
- 
             Sukauptos sąnaudos ir
 būsimųjų laikotarpių pajamos apima tolygiai didėjančias pajamas, kurios yra
 gautos per ataskaitinį laikotarpį, tačiau rezultatams priskirtinos būsimaisiais
 ataskaitiniais laikotarpiais, taip pat tolygiai didėjančias sąnaudas, kurios
-įtakoja rezultatus per ataskaitinį laikotarpį, tačiau bus apmokėtos
-būsimaisiais ataskaitiniais laikotarpiais.
+įtakoja rezultatus per ataskaitinį laikotarpį, tačiau bus apmokėtos būsimaisiais
+ataskaitiniais laikotarpiais.
             
             53 straipsnis. Mokumas
- 
             1. Draudimo įmonės turi
 užtikrinti nuolatinį finansinių įsipareigojimų vykdymą bei sudaryti pakankamus
 draudimo techninius atidėjimus ir rezervus, reikalingus draudimo (perdraudimo)
@@ -1352,7 +1301,6 @@ apskaičiavimo metodiką nustato Priežiūros tarnybos valdyba.
             
             54 straipsnis. Įstatinio
 kapitalo lėšų investavimas
- 
             1. Visas įstatinio kapitalo
 lėšas draudimo įmonei leidžiama investuoti tik į:
             1) valstybės ir savivaldos
@@ -1372,7 +1320,6 @@ ministras.
             
             55 straipsnis. Draudimo
 techninių atidėjimų investavimas
- 
             1. Draudimo įmonės turi
 investuoti draudimo techninių atidėjimų lėšas patikimai ir saugiai.
             2. Visas draudimo techninių
@@ -1403,7 +1350,6 @@ finansų ministras.
             
             56 straipsnis. Apskaita,
 atskaitomybė ir auditas
- 
             1. Draudimo įmonės, jų
 padaliniai ir draudimo brokeriai tvarko apskaitą ir atskaitomybę vadovaudamiesi
 Buhalterinės apskaitos pagrindų įstatymu, taip pat Vyriausybės nutarimais.
@@ -1422,7 +1368,6 @@ pateikti Priežiūros tarnybos valdybai paaiškinimus dėl finansinių ataskait�
             
             57 straipsnis. Neto ir bruto
 įmokos (premijos)
- 
             1. Neto įmoka (premija) yra
 draudimo įmonės galimo nuostolio, susijusio su tam tikra draudimo sutartimi,
 vidutinė matematinė reikšmė.
@@ -1432,7 +1377,6 @@ parengimu, tvarkymu ir vykdymu, suma.
             
             58 straipsnis. Draudimo
 įmokų (premijų) apmokestinimas
- 
             1. Fizinio asmens sumokėtos
 gyvybės draudimo, draudimo nuo nelaimingų atsitikimų ir draudimo ligos atvejui
 draudimo įmokos (premijos) atitinkamu dydžiu mažina fizinio asmens
@@ -1484,7 +1428,6 @@ DRAUDIMO VEIKLOS PRIEŽIŪRA
             
             59 straipsnis. Draudimo
 priežiūros institucija ir jos tikslai
- 
             1. Draudimo veiklos
 priežiūrą Lietuvos Respublikoje vykdo Valstybinė draudimo priežiūros tarnyba
 prie Finansų ministerijos. Priežiūros tarnybos nuostatus tvirtina Vyriausybė.
@@ -1495,7 +1438,6 @@ veiklą besiverčiančių draudimo įmonių, taip pat draudimo tarpininkų prie�
             
             60 straipsnis. Priežiūros
 tarnybos struktūra
- 
             1. Priežiūros tarnybą
 sudaro:
             1) vadovas;
@@ -1525,7 +1467,6 @@ Nr.29-803 (00.04.07)
  
             61 straipsnis. Priežiūros
 tarnybos paslapčių saugojimas
- 
             1. Žinių, kurios sudaro
 Priežiūros tarnybos paslaptis, sąrašą nustato Priežiūros tarnybos valdyba.
             2. Priežiūros tarnybos
@@ -1542,14 +1483,12 @@ bei darbuotojai atsako įstatymų nustatyta tvarka.
             
             62 straipsnis. Priežiūros
 tarnybos išlaikymas
- 
             Draudimo įmonių Priežiūros
 tarnyba išlaikoma iš draudimo įmonių gautų bruto įmokų Vyriausybės nustatyta
 tvarka ir dydžiais.
             
             63 straipsnis. Priežiūros
 tarnybos valdybos funkcijos
- 
             Priežiūros tarnybos valdyba,
 įgyvendindama šio įstatymo nuostatas, atlieka šias funkcijas:
             1) nagrinėja dokumentus,
@@ -1603,7 +1542,6 @@ Nr.29-803 (00.04.07)
  
             64 straipsnis. Priežiūros
 tarnybos valdybos teisės
- 
             Priežiūros tarnybos valdyba
 , įgyvendindama jai patikėtus tikslus, turi teisę:
             1) gauti informaciją,
@@ -1628,12 +1566,12 @@ licencijos;
             7) dalyvauti draudimo įmonių
 ir kitų finansinių institucijų priežiūros tarptautinėse institucijose;
             8) sudaryti sutartis su kitų
-valstybių draudimo įmonių ar kitų institucijų priežiūros įstaigomis dėl bendradarbiavimo
-ir keistis informacija užtikrinus tokios informacijos konfidencialumą.
+valstybių draudimo įmonių ar kitų institucijų priežiūros įstaigomis dėl
+bendradarbiavimo ir keistis informacija užtikrinus tokios informacijos
+konfidencialumą.
             
             65 straipsnis. Poveikio
 priemonės
- 
             1. Priežiūros tarnybos
 vadovas, remdamasis valdybos nutarimu, turi teisę taikyti draudimo įmonei,
 draudimo brokeriui ar jų vadovams šias poveikio priemones:
@@ -1659,8 +1597,8 @@ draudimo įmonių ar draudimo brokerių tarybos narių įgaliojimus;
 įmonių ar draudimo tarpininkų tarybos įgaliojimus, nušalinti valdybą,
 administracijos vadovą ir paskirti laikinąjį draudimo įmonės ar draudimo
 brokerio administratorių;
-            9) apriboti disponavimą banko
-sąskaitomis ir kitu turtu;
+            9) apriboti disponavimą
+banko sąskaitomis ir kitu turtu;
             10) laikinai sustabdyti
 draudimo įmonių draudimo veiklos licencijas;
             11) atšaukti draudimo įmonių
@@ -1676,7 +1614,6 @@ priėmimo dienos. Apskundimas nesustabdo tokio nutarimo vykdymo.
             
             66 straipsnis. Poveikio
 priemonių taikymo pagrindai
- 
             1. Priežiūros tarnybos
 valdyba šio įstatymo 65 straipsnyje nurodytas poveikio priemones taiko esant
 bent vienam iš šių pagrindų:
@@ -1687,8 +1624,8 @@ nepateikta būtina draudimo įmonių ar draudimo brokerių priežiūrai vykdyti
 informacija ir dokumentai;
             3) nesilaikyta Priežiūros
 tarnybos valdybos nustatytų normatyvų;
-            4) pažeisti Lietuvos
-Respublikos įstatymai ar kiti teisės aktai;
+            4) pažeisti Lietuvos Respublikos
+įstatymai ar kiti teisės aktai;
             5) ilgiau kaip 12 mėnesių
 nepasinaudota draudimo veiklos licencija ar leidimu draudimo brokerio veiklai;
             6) jei draudimo įmonė ilgiau
@@ -1713,17 +1650,15 @@ Nr.29-803 (00.04.07)
  
             67 straipsnis. Laikinasis
 administratorius
- 
             1. Laikinasis
 administratorius - tai draudimo įmonės ar draudimo brokerio tarybos įgaliojimų
 sustabdymo ir draudimo įmonės ar draudimo brokerio valdybos bei administracijos
 vadovo nušalinimo laikotarpiui Priežiūros tarnybos valdybos skiriamas draudimo
 įmonės ar draudimo brokerio vadovas.
             2. Visi draudimo įmonės ar
-draudimo brokerio tarybos, valdybos ir administracijos vadovo įgaliojimai nuo
-laikinojo administratoriaus paskyrimo dienos pereina laikinajam
-administratoriui, o po šio paskyrimo priimti jų sprendimai yra neteisėti ir
-nevykdytini.
+draudimo brokerio tarybos, valdybos ir administracijos vadovo įgaliojimai nuo laikinojo
+administratoriaus paskyrimo dienos pereina laikinajam administratoriui, o po
+šio paskyrimo priimti jų sprendimai yra neteisėti ir nevykdytini.
             3. Laikinasis
 administratorius turi teisę nutraukti darbo sutartis su draudimo įmonės ar
 draudimo brokerio valdybos nariais ir draudimo įmonės ar draudimo brokerio
@@ -1756,12 +1691,12 @@ bankroto bylos iškėlimo.
             9. Laikinajam
 administratoriui atsistatydinus iš pareigų, Priežiūros tarnybos valdyba
 sprendžia klausimą dėl kito laikinojo administratoriaus paskyrimo ar bankroto
-bylos iškėlimo draudimo įmonei ar draudimo brokeriui. Laikinojo administratoriaus
-ir revizoriaus išlaidas kompensuoja draudimo įmonė ar draudimo brokeris.
+bylos iškėlimo draudimo įmonei ar draudimo brokeriui. Laikinojo
+administratoriaus ir revizoriaus išlaidas kompensuoja draudimo įmonė ar
+draudimo brokeris.
             
             68 straipsnis. Laikinojo
 administratoriaus atšaukimas
- 
             Laikinasis administratorius
 atšaukiamas prieš terminą:
             1) Priežiūros tarnybos
@@ -1779,7 +1714,6 @@ NUOSTATOS
             
             69 straipsnis. Baigiamosios
 nuostatos
- 
             1. Veikiančios draudimo
 įmonės, vykdančios asmens ir turto draudimą, privalo per 1 metus nuo šio
 įstatymo įsigaliojimo dienos pertvarkyti savo veiklą pagal šio įstatymo,
@@ -1805,8 +1739,8 @@ atveju, kai savidraudos draugijos nepriima tokio sprendimo, jos likviduojamos
             4. Draudimo įmonės, kurioms
 iki šio įstatymo įsigaliojimo dienos buvo duoti atitinkami Draudimo reikalų
 tarybos prie Lietuvos Respublikos finansų ministerijos leidimai, turi teisę
-vykdyti gyvybės ir ne gyvybės draudimą, sudaryti naujas draudimo sutartis iki
-draudimo įmonės įstatų perregistravimo pagal šį įstatymą dienos.
+vykdyti gyvybės ir ne gyvybės draudimą, sudaryti naujas draudimo sutartis iki draudimo
+įmonės įstatų perregistravimo pagal šį įstatymą dienos.
             5. Draudimo įmonės vykdo
 savo įsipareigojimus ir įgyvendina savo teises pagal jų sudarytas draudimo
 sutartis iki tokių sutarčių pasibaigimo.
@@ -1874,8 +1808,15 @@ Nr.64-1915 (00.07.31)
 DRAUDIMO ĮSTATYMO 27 IR 29 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
  
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-281, 2001 04 19, Žin., 2001, Nr.
+39-1351 (2001 05 09)
+DRAUDIMO ĮSTATYMO 32 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.18)
+Redagavo: Aušrinė Trapinskienė (2001 05 14)
+                  autrap@lrs.lt
 
