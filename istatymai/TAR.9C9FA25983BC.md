@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
+Suvestinė redakcija nuo 2000-11-01 iki 2001-05-08
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
+ 
 LIETUVOS RESPUBLIKOS
 SPECIALIŲJŲ TYRIMŲ TARNYBOS
 ĮSTATYMAS
@@ -401,7 +405,10 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ TEISĖS, PAREIGOS IR VEIKLOS APRIBOJI
 
 
 
-2) sulaikyti pasienio ir muitų režimo pažeidėjus bei kitus asmenis, atlikti jų asmens bei daiktų apžiūrą ir pristatyti juos į pasienio policijos, muitinės ar kitų teisėsaugos institucijų tarnybines patalpas, laikantis įstatymų, reglamentuojančių asmenų sulaikymo tvarką bei sulaikytų asmenų garantijas;
+2) sulaikyti pasienio ir muitų režimo pažeidėjus bei kitus asmenis, atlikti jų asmens bei daiktų apžiūrą ir pristatyti juos į Valstybės sienos apsaugos tarnybos, muitinės ar kitų teisėsaugos institucijų tarnybines patalpas, laikantis įstatymų, reglamentuojančių asmenų sulaikymo tvarką bei sulaikytų asmenų garantijas;
+Straipsnio punkto pakeitimai:
+Nr. VIII-2011, 2000-10-10, Žin., 2000, Nr. 92-2863 (2000-10-31), i. k. 1001010ISTAIII-2011
+ 
 
 
 
@@ -736,3 +743,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2011, 2000-10-10, Žin., 2000, Nr. 92-2863 (2000-10-31), i. k. 1001010ISTAIII-2011
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 13 straipsnio pakeitimo įstatymas
