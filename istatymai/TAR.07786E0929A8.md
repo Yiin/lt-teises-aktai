@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2000-07-05 iki 2000-12-31
+Suvestinė redakcija nuo 2001-01-01 iki 2001-11-08
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
  
@@ -1153,6 +1153,19 @@ Jeigu patento objektas yra gaminio gamybos būdas ir atsakovo gaminamas gaminys 
 
 
 
+411 straipsnis. Muitinės priežiūros priemonių taikymas
+
+
+Gaminiams, kurių importas į Lietuvos Respubliką ir eksportas iš jos laikytinas išradimo patento savininko teisių pažeidimu, gali būti taikomos įstatymų nustatytos muitinės priežiūros priemonės.
+
+
+Papildyta straipsniu:
+Nr. IX-118, 2000-12-21, Žin., 2000, Nr. 113-3612 (2000-12-30), i. k. 1001010ISTA00IX-118
+ 
+
+
+
+
 42 straipsnis. Patento pažeidimo fakto nebuvimo nustatymas
 
 
@@ -1659,3 +1672,8 @@ Lietuvos Respublikos patentų įstatymo 7, 8, 22 straipsnių pakeitimo ir papild
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1738, 2000-06-15, Žin., 2000, Nr. 54-1560 (2000-07-05), i. k. 1001010ISTAIII-1738
 Lietuvos Respublikos patentų įstatymo 26, 39, 40 straipsnių pakeitimo ir papildymo bei 38 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-118, 2000-12-21, Žin., 2000, Nr. 113-3612 (2000-12-30), i. k. 1001010ISTA00IX-118
+Lietuvos Respublikos patentų įstatymo papildymo 41(1) straipsniu įstatymas
