@@ -103,7 +103,7 @@ I-1184,
 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 Nr.
 VIII-291,
-97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+97.06.24, Žin., 1997, Nr.61-1443 (97.06.24)
 Nr. VIII-865,
 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
 Nr. VIII-1813, 00.07.11, Žin., 2000,
@@ -352,8 +352,7 @@ VIII-166,
 97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
  
  
-     7
-straipsnis.
+     7 straipsnis.
      Į
 apmokestinamąsias pajamas neįskaitoma:
      1) socialinio aprūpinimo ir socialinės paramos
@@ -363,6 +362,13 @@ ligos, motinystės (tėvystės) pašalpas;
 pašalpos, kurias išmoka darbdaviai mirus darbuotojo sutuoktiniui arba kitam
 darbuotojo pirmosios eilės įstatyminiam įpėdiniui, taip pat pašalpos stichinių
 nelaimių bei gaisrų atvejais;
+ 
+[2 punkto redakcija nuo 2002 m. sausio 1
+d.:
+2) pašalpos,
+kurias išmoka darbdaviai mirus darbuotojo sutuoktiniui, vaikams (įvaikiams),
+tėvams (įtėviams), taip pat pašalpos stichinių nelaimių bei gaisrų atvejais;]
+ 
      3) teismų
 priteistos materialinės ir moralinės žalos atlyginimo sumos;
      4) draudimo
@@ -410,6 +416,8 @@ VIII-1303,
 99.07.07, Žin., 1999, Nr.66-2121 (99.07.30), įsigalioja nuo 2000.01.01
 Nr. VIII-1813, 00.07.11, Žin., 2000,
 Nr.64-1911 (00.07.31)
+Nr. IX-678,
+2001-12-21, Žin., 2001, Nr. 110-3994 (2001-12-29), įsigalioja nuo 2002-01-01
  
  
      8
@@ -471,8 +479,8 @@ Straipsnio
 pakeitimai: 
 Nr. VIII-865,
 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
-Nr. IX-438, 2001-07-10, Žin., 2001, Nr. 62-2236
-(2001-07-18)
+Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
+62-2236 (2001-07-18)
  
  
 10
@@ -509,8 +517,8 @@ Straipsnio
 pakeitimai: 
 Nr.I-1055,
 1991.02.14, Žin., 1991, Nr. 6-170 
-Nr. VIII-1520, 00.01.04, Žin., 2000,
-Nr.5-127 (00.01.19), įsigalioja nuo 2001.01.01
+Nr. VIII-1520, 00.01.04, Žin., 2000, Nr.5-127
+(00.01.19), įsigalioja nuo 2001.01.01
  
  
      12
@@ -632,9 +640,9 @@ straipsnis.
 už kūrinius ir darbus, už kuriuos toks atlyginimas jau buvo mokėtas, imamas 60%
 dydžio pajamų mokestis.
      Vaikams iki
-18 metų, sutuoktiniams ir tėvams (moterims per 55 metus ir vyrams per 60 metų
-amžiaus bei I ir II grupės invalidams nepriklausomai nuo amžiaus) pagal šį
-straipsnį apskaičiuotas pajamų mokestis mažinamas 50%.
+18 metų, sutuoktiniams ir tėvams (moterims per 55 metus ir vyrams per 60 metų amžiaus
+bei I ir II grupės invalidams nepriklausomai nuo amžiaus) pagal šį straipsnį
+apskaičiuotas pajamų mokestis mažinamas 50%.
  
      19
 straipsnis.
@@ -716,24 +724,43 @@ taip pat kitų
 pajamų apmokestinimo tvarka
  
 33 straipsnis.
-Bendrosios
-pajamos už turto nuomą bei kitos pajamos, neišvardytos šio įstatymo II, III ir
-IV dalyse bei šio straipsnio trečiojoje, ketvirtojoje, penktojoje ir šeštojoje
+Bendrosios pajamos
+už turto nuomą bei kitos pajamos, neišvardytos šio įstatymo II, III ir IV
+dalyse bei šio straipsnio trečiojoje, ketvirtojoje, penktojoje ir šeštojoje
 dalyse, apmokestinamos taikant 20 procentų pajamų mokesčio tarifą.
 Bendrosioms pajamoms
 nepriskiriama iš įmonės lėšų arba dėl turto vertės padidėjimo akcininkams
 nemokamai išduotos akcijos arba anksčiau išduotų akcijų nominalios vertės
 padidinimo suma, taip pat pajaus vertės padidinimo suma. Iš šiame straipsnyje
 nurodytų bendrųjų pajamų jokios išlaidos neišskaitomos, išskyrus sumas, kurias
-paramos teikėjas davė Labdaros ir paramos įstatymo nustatyta tvarka, tačiau neviršijančias
-15 procentų bendrųjų pajamų. Bendrosios pajamos nustatomos atskaičius fizinių
-asmenų, įsiregistravusių pridėtinės vertės mokesčio mokėtojais, apskaičiuotą, o
-fizinių asmenų, neįsiregistravusių pridėtinės vertės mokesčio mokėtojais, į
-biudžetą sumokėtą pridėtinės vertės mokestį už parduotas prekes, suteiktas
-paslaugas, atliktus darbus arba kitą apmokamą veiklą. Fizinių asmenų,
-neįsiregistravusių pridėtinės vertės mokesčio mokėtojais, bendrųjų pajamų be
-pridėtinės vertės mokesčio apskaičiavimo tvarką nustato Lietuvos Respublikos
-Vyriausybė ar jos įgaliota institucija.
+paramos teikėjas davė Labdaros ir paramos įstatymo nustatyta tvarka, tačiau
+neviršijančias 15 procentų bendrųjų pajamų. Bendrosios pajamos nustatomos
+atskaičius fizinių asmenų, įsiregistravusių pridėtinės vertės mokesčio
+mokėtojais, apskaičiuotą, o fizinių asmenų, neįsiregistravusių pridėtinės
+vertės mokesčio mokėtojais, į biudžetą sumokėtą pridėtinės vertės mokestį už
+parduotas prekes, suteiktas paslaugas, atliktus darbus arba kitą apmokamą
+veiklą. Fizinių asmenų, neįsiregistravusių pridėtinės vertės mokesčio
+mokėtojais, bendrųjų pajamų be pridėtinės vertės mokesčio apskaičiavimo tvarką
+nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+ 
+[2 dalies redakcija nuo 2002 m. sausio 1
+d.:
+Bendrosioms pajamoms nepriskiriama
+iš įmonės lėšų arba dėl turto vertės padidėjimo akcininkams proporcingai jų
+turimų akcijų skaičiui nemokamai išduotos akcijos arba anksčiau išduotų
+akcijų nominalios vertės padidinimo suma, taip pat pajininkams proporcingai jų
+turimai daliai pajaus vertės padidinimo suma. Iš šiame straipsnyje
+nurodytų bendrųjų pajamų jokios išlaidos neišskaičiuojamos, išskyrus sumas,
+kurias paramos teikėjas davė Labdaros ir paramos įstatymo nustatyta tvarka,
+tačiau neviršijančias 15 procentų bendrųjų pajamų. Bendrosios pajamos
+nustatomos atskaičius fizinių asmenų, įsiregistravusių pridėtinės vertės
+mokesčio mokėtojais, apskaičiuotą, o fizinių asmenų, neįsiregistravusių
+pridėtinės vertės mokesčio mokėtojais, į biudžetą sumokėtą pridėtinės vertės
+mokestį už parduotas prekes, suteiktas paslaugas, atliktus darbus arba kitą
+apmokamą veiklą. Fizinių asmenų, neįsiregistravusių pridėtinės vertės mokesčio
+mokėtojais, bendrųjų pajamų be pridėtinės vertės mokesčio apskaičiavimo tvarką
+nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.]
+ 
 Pajamos
 už gyventojų parduotą turtą, viršijančios šio įstatymo 35 straipsnio 10
 punkte nustatytą dydį, apmokestinamos taikant 10 procentų pajamų mokesčio
@@ -804,6 +831,8 @@ Nr. IX-400, 2001-06-26, Žin., 2001, Nr.
 62-2217 (2001-07-18), įsigalioja nuo 2001-09-01
 Nr. IX-676,
 2001-12-20, Žin., 2001, Nr. 110-3993 (2001-12-29), įsigalioja nuo 2002-01-01
+Nr. IX-678,
+2001-12-21, Žin., 2001, Nr. 110-3994 (2001-12-29), įsigalioja nuo 2002-01-01
  
  
 33(1)
@@ -919,6 +948,14 @@ pat Vyriausybės sprendimu;
 pašalpos, kurias darbuotojui (buvusiam darbuotojui) mirus darbdaviai išmoka jo
 sutuoktiniui arba kitam jo pirmosios eilės įstatyminiam įpėdiniui, taip pat
 pašalpos, išmokėtos stichinių nelaimių bei gaisrų atvejais;
+ 
+[17 punkto redakcija nuo 2002 m. sausio
+1 d.:
+17) pašalpos, kurias
+darbuotojui (buvusiam darbuotojui) mirus darbdaviai išmoka jo sutuoktiniui,
+vaikams (įvaikiams), tėvams (įtėviams), taip pat pašalpos, išmokėtos
+stichinių nelaimių bei gaisrų atvejais;]
+ 
 18)
 Politinių kampanijų finansavimo kontrolės įstatymo nustatyta tvarka politinės
 kampanijos metu gautos aukos ir dovanos;
@@ -1003,6 +1040,8 @@ Nr. IX-300, 2001 04 26, Žin., 2001, Nr.
 41-1421 (2001 05 16)
 Nr. IX-676,
 2001-12-20, Žin., 2001, Nr. 110-3993 (2001-12-29), įsigalioja nuo 2002-01-01
+Nr. IX-678,
+2001-12-21, Žin., 2001, Nr. 110-3994 (2001-12-29), įsigalioja nuo 2002-01-01
  
  
      36
@@ -1505,7 +1544,7 @@ Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
 VIII-291,
-97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+97.06.24, Žin., 1997, Nr.61-1443 (97.06.24)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO PAPILDYMO 26(1)
 STRAIPSNIU IR 1, 24, 26, 27, 28, 30 STRAIPSNIŲ PAKEITIMO
@@ -1666,11 +1705,11 @@ licencinėje sutartyje suteiktas teises naudotis išradimo patentu, pramoniniu
 dizainu, puslaidininkio gaminio topografija, paslaugų ženklu, slapta formule ar
 metodu, frančize, nuostolių ir materialinės žalos atlyginimo už autorių ir
 gretutinių teisių pažeidimą arba kompensacijų už autorių ir gretutinių teisių
-pažeidimą bei dėl palūkanų, išskyrus palūkanas už paskolas, kurias suteikė tarptautinės
-finansinės institucijos (institucijos arba organizacijos, kurių visi nariai
-arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio valstybių
-fondai ir valstybinės finansinės institucijos, kurių daugiau kaip 50 procentų
-akcijų paketo turėtojai yra užsienio valstybių vyriausybės) apmokestinimo taikomos nuo 2002 m. sausio 1 d.,
+pažeidimą bei dėl palūkanų, išskyrus palūkanas už paskolas, kurias suteikė
+tarptautinės finansinės institucijos (institucijos arba organizacijos, kurių
+visi nariai arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio
+valstybių fondai ir valstybinės finansinės institucijos, kurių daugiau kaip 50
+procentų akcijų paketo turėtojai yra užsienio valstybių vyriausybės) apmokestinimo taikomos nuo 2002 m. sausio 1 d.,
 apmokestinant šias pajamas ir palūkanas, gautas pagal sutartis, sudarytas iki
 šio įstatymo įsigaliojimo.
 4. Šio įstatymo 2, 3, 11
@@ -1686,8 +1725,8 @@ PAPILDYMO VI SKYRIUMI ĮSTATYMAS
  
 37.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1958, 00.09.26, Žin., 2000,
-Nr.84-2534 (00.10.06)
+Nr. VIII-1958, 00.09.26, Žin., 2000, Nr.84-2534
+(00.10.06)
 FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 5
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Įstatymas įsigalioja nuo 2001 m. sausio 1 d.
@@ -1749,8 +1788,6 @@ Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
 FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 1, 4,
 8(1), 9, 10, 24, 26, 28, 29, 30 IR 
 41 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-***
-Pabaiga ***
  
 45.
 Lietuvos
@@ -1774,6 +1811,16 @@ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 1, 33 IR 35 STRAIPSNIŲ PAKEITIMO 
 ĮSTATYMO IV DALIES PRIPAŽINIMO NETEKUSIA GALIOS ĮSTATYMAS
 Įstatymas įsigalioja nuo 2002 m. sausio 1 d. 
  
+47.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-678,
+2001-12-21, Žin., 2001, Nr. 110-3994 (2001-12-29)
+FIZINIŲ
+ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 7, 33, 35 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+Įstatymas įsigalioja nuo 2002 m. sausio 1 d. 
  
 ***
 Pabaiga ***
