@@ -4464,16 +4464,31 @@ Specialistas
  
  
  
-4. VALSTYBĖS KONTROLĖ
+ 
+4. Valstybės kontrolė
  
 
 
 
-PareigybėS 
-  PAVADINIMAS
+Pareigybės
+  pavadinimas
 
 
 Kategorija
+
+
+ 
+
+
+
+
+Departamento direktorius
+
+
+28-29
+
+
+ 
 
 
 
@@ -4481,42 +4496,61 @@ Kategorija
 Skyriaus viršininkas
 
 
-27 
+27-28
+
+
+ 
 
 
 
 
-Vyriausiasis kontrolierius
+Vyriausiasis kontrolierius,
+  vyriausiasis specialistas
 
 
-25-26 
+25-26
 
 
-
-
-Vyresnysis kontrolierius, vyresnysis kvotėjas
-
-
-22-24 
+ 
 
 
 
 
-Kontrolierius, kvotėjas
+Vyresnysis
+  kontrolierius, vyresnysis specialistas
 
 
-20-21 
+24-25
 
 
-
-
-Jaunesnysis kontrolierius
-
-
-18-19
+ 
 
 
 
+
+Kontrolierius, specialistas
+
+
+22-24
+
+
+ 
+
+
+
+
+Jaunesnysis kontrolierius, jaunesnysis
+  specialistas
+
+
+19-21
+
+
+ 
+
+
+
+ 
  
 5. KONSTITUCINIS
 TEISMAS
@@ -4692,6 +4726,14 @@ Teismo posėdžio sekretorius
 
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 7.
@@ -4980,6 +5022,9 @@ Jaunesnysis specialistas
 
 
 
+ 
+ 
+ 
  
 11.
 DIPLOMATINĖ TARNYBA
@@ -5277,25 +5322,31 @@ Kategorija
 
  
  
-14.
-SEIMO KONTROLIERIŲ ĮstaigA
+14. SEIMO
+KONTROLIERIŲ ĮSTAIGA, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ KONTROLIERIAUS TARNYBA,
+VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTAIGA 
  
 
 
 
-Pareigybės
-  pavadinimas
+Pareigybės pavadinimas
 
 
 Kategorija
 
 
+ 
 
 
-Kancleris
 
 
-27  
+Seimo kontrolierių įstaigos kancleris
+
+
+27
+
+
+ 
 
 
 
@@ -5306,12 +5357,18 @@ Vyresnysis patarėjas
 26
 
 
+ 
+
+
 
 
 Patarėjas
 
 
 25
+
+
+ 
 
 
 
@@ -5322,12 +5379,18 @@ Skyriaus vedėjas
 24
 
 
+ 
+
+
 
 
 Vyresnysis specialistas
 
 
 20-23
+
+
+ 
 
 
 
@@ -5338,13 +5401,10 @@ Specialistas
 18-19
 
 
+ 
 
- 
- 
- 
- 
- 
- 
+
+
  
 15. VERTYBINIŲ POPIERIŲ KOMISIJA, KONKURENCIJOS
 TARYBA, VALSTYBINĖ KAINŲ IR ENERGETIKOS KONTROLĖS KOMISIJA
@@ -5816,6 +5876,14 @@ Jaunesnysis revizorius, jaunesnysis inspektorius
 
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 20.
 ĮSTAIGOS, PAVALDŽIOS MINISTERIJOMS, VYRIAUSYBĖS 
 ĮSTAIGOMS
@@ -6185,8 +6253,8 @@ Vyresnysis specialistas,
 
 
 
-Specialistas,
-  inspektorius, pamainos vadas
+Specialistas, inspektorius,
+  pamainos vadas
 
 
 15–20
@@ -6217,10 +6285,6 @@ Ugniagesys gelbėtojas, dispečeris
 
 
 
- 
- 
- 
- 
  
  
 24.
@@ -6506,11 +6570,6 @@ Specialistas
 
  
  
- 
- 
- 
- 
- 
 27. SAVIVALDYBĖS
             
 
@@ -6791,6 +6850,9 @@ Nr. IX-37, 2000 11 21, Žin., 2000, Nr.
 102-3213 (2000 11 29)
 Nr. IX-247, 2001 04 12, Žin., 2001, Nr.
 37-1231 (2001 05 02)
+Nr.
+IX-648,
+2001-12-13, Žin., 2001, Nr. 111-4024 (2001-12-30)
  
 
 
@@ -7088,8 +7150,8 @@ Nr. VIII-1988, 2000 10 10, Žin., 2000, Nr.
 92-2845 (2000 10 31)
 VALSTYBĖS TARNYBOS
 ĮSTATYMO 2 STRAIPSNIO IR PRIEDĖLIO PAKEITIMO BEI PAPILDYMO ĮSTATYMAS
-Šis įstatymas įsigalioja nuo 2000 m.
-lapkričio 1 d.
+Šis įstatymas įsigalioja nuo 2000 m. lapkričio
+1 d.
  
 4.
 Lietuvos
@@ -7110,16 +7172,16 @@ VALSTYBĖS TARNYBOS
  
 6.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-129, 2000 12 21, Žin., 2000, Nr.
-111-3585 (2000 12 29)
+Nr. IX-129, 2000 12 21, Žin., 2000, Nr. 111-3585
+(2000 12 29)
 VALSTYBĖS TARNYBOS ĮSTATYMO 63, 67, 75 IR 77 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001 m.
 sausio 1 d.
  
 7.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. IX-133, 2000 12 23, Žin., 2000, Nr.
 111-3586 (2000 12 29)
 VALSTYBĖS TARNYBOS
@@ -7166,12 +7228,19 @@ TARNYBOS ĮSTATYMO 62 IR 69 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šio Įstatymo 2 straipsnio 2 dalies
 nuostatos taikomos nuo 2001 m. spalio 1 d.
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-648,
+2001-12-13, Žin., 2001, Nr. 111-4024 (2001-12-30)
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 2 PRIEDĖLIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001-10-31)
+Aušrinė Trapinskienė (2002-01-03)
                  
 autrap@lrs.lt
