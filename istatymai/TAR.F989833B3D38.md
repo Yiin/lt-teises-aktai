@@ -16,9 +16,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F989833B3D38"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
-Lūžaitė (1997.06.30)
+Lūžaitė (1997.07.11)
  
-Įstatymas
+ Įstatymas
 paskelbtas: Žin., 1994, Nr.102-2051
  
 Neoficialus įstatymo
@@ -62,6 +62,15 @@ LIETUVOS RESPUBLIKOS
 ĮSTATYMO “DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI
 AKCIONUOTI, NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
  
+5.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-317,
+97.06.26, Žin., 1997, Nr.66-1599 (97.07.11)
+LIETUVOS RESPUBLIKOS
+ĮSTATYMO “DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI AKCIONUOTI,
+NEI PRIVATIZUOTI” DALINIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
 LIETUVOS RESPUBLIKOS
@@ -73,7 +82,7 @@ Vilnius
 DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ
 METŲ
 NENUMATOMA NEI AKCIONUOTI, NEI PRIVATIZUOTI
-                     
+                     
  
     
 Patvirtinti valstybinių  įmonių,  kurių  iki  2000-ųjų  metų nenumatoma nei
@@ -85,7 +94,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS
-PREZIDENTAS                                ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                ALGIRDAS BRAZAUSKAS
  
  
  
@@ -144,7 +153,7 @@ Statybos ir urbanistikos ministerija
 Respublikinis valstybinis inventorizavimo,
          
 projektavimo ir paslaugų biuras
-2008215   Valstybinė
+2008215   Valstybinė
 projektų ekspertizės valdyba
 2135144  
 Valstybinis distancinių tyrimų ir geoinformatikos
@@ -320,25 +329,25 @@ Lietuvos bankas
 1005293   Lietuvos
 monetų kalykla 
  
-              Alytaus
-apskrities valdytojo administracija
+              Alytaus
+apskrities viršininko administracija
 8453729  
 Valstybinė  gyvulių  sėklinimo  įmonė  (Varėnos rajonas)
      
               Kauno
-apskrities valdytojo administracija
+apskrities viršininko administracija
 5657226  
 Valstybinė   veislininkystės   įmonė   (Jonavos rajonas)
 6113181   Valstybinė 
 įmonė  “Pagirių  sodai”   (Kėdainių rajonas)
      
             
-Panevėžio apskrities valdytojo administracija
+Panevėžio apskrities viršininko administracija
 6913115  Valstybinė 
 gyvulių  sėklinimo  įmonė  (Pasvalio rajonas)
      
               
-Šiaulių apskrities valdytojo administracija
+Šiaulių apskrities viršininko administracija
 7132079  Šeduvos 
 valstybinė avių  veislininkystės  įmonė
 (Radviliškio
@@ -347,17 +356,17 @@ rajonas)
 sėklinimo įmonė (Kelmės rajonas)
      
             Telšių
-apskrities valdytojo administracija
+apskrities viršininko administracija
 6981037  
 Valstybinė  gyvulių  sėklinimo  įmonė  (Plungės rajonas)
      
               Utenos
-apskrities valdytojo administracija
+apskrities viršininko administracija
 8365663  
 Valstybinė  gyvulių  sėklinimo  įmonė   (Utenos rajonas)
      
             Vilniaus
-apskrities valdytojo administracija
+apskrities viršininko administracija
 8276783  Valstybinė 
 gyvulių  sėklinimo  įmonė  (Ukmergės rajonas)
  
@@ -445,4 +454,6 @@ Nr. VIII-175,
 97.04.03, Žin., 1997, Nr.32-785 (97.04.16)
 Nr. VIII-259,
 97.06.12, Žin., 1997, Nr.60-1402 (97.06.27)
+Nr. VIII-317,
+97.06.26, Žin., 1997, Nr.66-1599 (97.07.11)
 
