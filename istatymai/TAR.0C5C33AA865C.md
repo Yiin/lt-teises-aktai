@@ -128,12 +128,25 @@ tiekėjo.
 27.
 Dujų tranzitas – dujų, kilusių iš kitos valstybės teritorijos ir skirtų
 trečiosios valstybės teritorijai, transportavimas per šalies teritoriją. 
+ 
+[27 dalies redakcija nuo 2001 m. liepos
+1 d.:
+27.
+Dujų tranzitas – dujų, kilusių iš kitos valstybės teritorijos ir skirtų
+šios ir (ar) trečiosios valstybės teritorijai, transportavimas per
+šalies teritoriją.]
+ 
 28. Tiesioginis
 vamzdynas - jungtinę sistemą papildantis dujų vamzdynas (dujotiekis),
 jungiantis vartotojo sistemą su magistraliniu dujotiekiu ar skirstomaisiais
 tinklais, kad laisvasis vartotojas galėtų naudotis sistema.
+Straipsnio pakeitimai:
+Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
+56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
  
-ANTRASIS SKIRSNIS
+ 
+ANTRASIS
+SKIRSNIS
 BENDROSIOS DUJŲ
 SEKTORIAUS ORGANIZAVIMO TAISYKLĖS
  
@@ -163,6 +176,12 @@ Dujų įmonės privalo turėti licenciją šioms veiklos rūšims:
 2) paskirstymui;
 3) laikymui;
 4) tiekimui.
+ 
+[4 punkto
+redakcija nuo 2001 m. liepos 1 d.:
+4) tiekimui
+(reguliuojamiesiems vartotojams).]
+ 
 2.
 Licencijos perduoti, paskirstyti ir laikyti dujas išduodamos dujų sistemas
 nuosavybės teise turinčioms ar kitais teisėtais būdais jas naudojančioms
@@ -174,11 +193,15 @@ Licencijavimo taisykles nustato Vyriausybė ar jos įgaliota institucija.
 4.
 Licencijų nereikia dujų savininkui dujoms transportuoti tranzitu per šalies
 teritoriją ir dujoms, naudojamoms kaip žaliava, tiekti. 
+Straipsnio pakeitimai:
+Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
+56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
  
 6 straipsnis.
 Dujų įmonių ir vartotojų bei sistemos naudotojų santykiai
 1.
-Dujų įmonių santykiai su vartotojais ir sistemos naudotojais grindžiami sutartimis.
+Dujų įmonių santykiai su vartotojais ir sistemos naudotojais grindžiami
+sutartimis.
 2.
 Draudžiama perduoti, paskirstyti, laikyti, tiekti ir naudoti dujas be sutarties
 arba nesilaikant sutarties sąlygų.
@@ -211,6 +234,18 @@ jeigu vartotojas nevykdo arba netinkamai vykdo sutartimi prisiimtus
 3)
 dėl būtinų remonto, kitų vartotojų sistemų prijungimo darbų, avarijų,
 ekstremalių situacijų ir kitais įstatymų numatytais atvejais.
+ 
+[3 punkto
+redakcija nuo 2001 m. liepos 1 d.:
+3)
+avarijų, ekstremalių situacijų ir kitais įstatymų numatytais atvejais;]
+ 
+[2 dalį
+papildyti 4 punktu nuo 2001 m. liepos 1 d.:
+4) dėl būtinų remonto ir kitų vartotojų sistemų
+prijungimo darbų, suderinus su laisvaisiais vartotojais ir įspėjus
+reguliuojamuosius vartotojus dujų tiekimo sutartyse numatyta tvarka.]
+ 
 3.
 Dujų įmonės turi teisę tiekti dujas laisviesiems vartotojams tiesioginiais
 vamzdynais. Laisvieji vartotojai turi teisę gauti dujas, tiekiamas
@@ -220,6 +255,9 @@ tiesioginiais vamzdynais. Tiesioginių vamzdynų įrengimo bei leidimų jiems
 4.
 Dujų tiekimas nustatytomis sąlygomis turi būti užtikrintas iki patiekto dujų
 kiekio apskaitos prietaiso sujungimo su vartotojo sistema taško.
+Straipsnio pakeitimai:
+Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
+56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
  
 TREČIASIS
 SKIRSNIS
@@ -292,28 +330,47 @@ vartotojams.
 Dujų tiekėjai turi teisę sudaryti dujų tiekimo sutartis su laisvaisiais
 vartotojais ir paskirstymo įmonėmis.
 4.
-Laisvieji vartotojai turi teisę nevaržomi sudaryti tiekimo sutartis su bet
-kuriomis licencijuotomis dujų įmonėmis. Laisvieji vartotojai turi teisę
+Laisvieji vartotojai turi teisę nevaržomi sudaryti tiekimo sutartis su bet kuriomis
+licencijuotomis dujų įmonėmis. Laisvieji vartotojai turi teisę sudaryti
+naudojimosi sistema sutartis dėl tokio dujų kiekio, kurį sunaudoja jie patys.
+ 
+[4 dalies
+redakcija nuo 2001 m. liepos 1 d.:
+4. Laisvieji vartotojai turi teisę sudaryti tiekimo
+sutartis su bet kuriomis dujų tiekimo įmonėmis. Laisvieji vartotojai turi teisę
 sudaryti naudojimosi sistema sutartis dėl tokio dujų kiekio, kurį sunaudoja jie
-patys.
+patys.]
+ 
 5.
 Dujų įmonė gali neleisti naudotis sistema, jeigu yra per mažas sistemos
 pajėgumas arba jei įmonė negalėtų vykdyti jai nustatytų pareigų arba turėtų
 nuostolių dėl sudarytose tiekimo sutartyse numatytų netesybų mokėjimo.
 Atsisakymas leisti naudotis sistema turi būti motyvuotas.
+ 
+[5 dalies
+redakcija nuo 2001 m. liepos 1 d.:
+5.
+Dujų įmonė gali neleisti naudotis sistema, jeigu yra per mažas sistemos
+pajėgumas arba jei įmonė negalėtų vykdyti jai Vyriausybės arba jos įgaliotos
+institucijos nustatytų pareigų.Atsisakymas leisti naudotis sistema turi būti
+objektyvus, nediskriminuojantis ir motyvuotas.]
+ 
 6.
 Perdavimo ar paskirstymo įmonės vartotojų ar kitų dujų įmonių prašymu privalo
 padidinti sistemos našumą arba nutiesti naują dujotiekį, jeigu tai ekonomiškai
-pagrįsta arba jeigu prašytojas įsipareigoja padengti sistemos našumo didinimo išlaidas
-tiek, kiek jos viršija ekonomiškai pagrįstas sistemos našumo didinimo išlaidas.
-Sistemos našumo didinimo, naujų dujotiekių tiesimo klausimai sprendžiami šalių
-susitarimu.
+pagrįsta arba jeigu prašytojas įsipareigoja padengti sistemos našumo didinimo
+išlaidas tiek, kiek jos viršija ekonomiškai pagrįstas sistemos našumo didinimo
+išlaidas. Sistemos našumo didinimo, naujų dujotiekių tiesimo klausimai
+sprendžiami šalių susitarimu.
 7.
-Skundus dėl teisės naudotis sistema, jos pajėgumo padidinimo, investicijų atsipirkimo
-laiko pagrįstumo nagrinėja Komisija. Komisija gali įpareigoti dujų įmones
-sudaryti atitinkamas sutartis.
- 8.
+Skundus dėl teisės naudotis sistema, jos pajėgumo padidinimo, investicijų
+atsipirkimo laiko pagrįstumo nagrinėja Komisija. Komisija gali įpareigoti dujų
+įmones sudaryti atitinkamas sutartis.
+8.
 Reguliuojamiesiems vartotojams dujas tiekia skirstymo įmonė 
+Straipsnio pakeitimai:
+Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
+56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
  
 13 straipsnis.
 Rinkos liberalizavimas
@@ -358,10 +415,10 @@ ištaisyti per 30 dienų. Jei įmonė nevykdo Komisijos reikalavimo, Komisija tu
 teisę vienašališkai nustatyti šio straipsnio 4 ir 5 dalyse nurodytas kainas.
 7. Naujų
 vartotojų prijungimo prie esamų dujų sistemų išlaidos negali būti pripažintos
-pagrįstomis, jeigu dėl jų padidėtų kainos esamiems dujų vartotojams. Naujai
-dujofikuojamoms teritorijoms laikotarpiui iki 10 metų gali būti nustatyta tokia
-dujų perdavimo kaina, kuri padengtų investicijas, išskyrus 15 straipsnio 1 dalyje
-numatytus atvejus. 
+pagrįstomis, jeigu dėl jų padidėtų kainos esamiems dujų vartotojams. Naujai dujofikuojamoms
+teritorijoms laikotarpiui iki 10 metų gali būti nustatyta tokia dujų perdavimo
+kaina, kuri padengtų investicijas, išskyrus 15 straipsnio 1 dalyje numatytus
+atvejus. 
  
 ŠEŠTASIS
 SKIRSNIS
@@ -377,6 +434,18 @@ nuostatomis, parengus atitinkamus plėtros projektus. Vyriausybė arba jos
 įgaliota institucija priima sprendimus dėl magistralinio dujotiekio ar (ir)
 saugyklos įrengimo, kurie reikalingi dujų tiekimo saugumui užtikrinti. Dujų
 įmonės ir Komisija privalo užtikrinti tokių sprendimų įgyvendinimą.
+ 
+[1 dalies
+redakcija nuo 2001 m. liepos 1 d.:
+1.
+Dujų perdavimo sistemos, laikymo statiniai bei įrenginiai, terminalai įrengiami
+vadovaujantis Nacionalinės energetikos strategijos, Vyriausybės programos
+nuostatomis, parengus atitinkamus plėtros projektus. Vyriausybė arba jos
+įgaliota institucija priima sprendimus dėl magistralinio dujotiekio statybos,
+išplėtimo ar (ir) saugyklos įrengimo, kurie reikalingi dujų tiekimo
+saugumui užtikrinti. Dujų įmonės ir Komisija privalo užtikrinti tokių sprendimų
+įgyvendinimą.]
+ 
 2.
 Leidimas tiesti valstybės sieną kertantį magistralinį dujotiekį išduodamas tik
 Lietuvos Respublikos Vyriausybės pritarimu. Leidimai perdavimo ir paskirstymo
@@ -390,7 +459,22 @@ poreikiams tenkinti, dujų įmonė esant techninėms galimybėms privalo našum�
 padidinti. Prisijungiančios dujų įmonės ir vartotojai padengia prijungimo
 išlaidas, o jeigu reikia, ir sistemos našumo padidinimo išlaidas. Prijungimo
 išlaidų dydį nustato prijungiančios perdavimo ir paskirstymo įmonės,
-suderinusios su Komisija. 
+suderinusios su Komisija.
+ 
+[3 dalies
+redakcija nuo 2001 m. liepos 1 d.:
+3. Dujų įmonės prijungia prie savo sistemų kitų
+dujų įmonių, vartotojų sistemas, jeigu yra pakankamas sistemos našumas,
+įvykdytos techninės sąlygos, taip pat jeigu prijungimas nesutrukdys dujų
+įmonėms vykdyti šio įstatymo nustatytus įpareigojimus. Jeigu sistemos našumo
+nepakanka būsimiems vartotojo dujų poreikiams tenkinti, dujų įmonė esant
+techninėms galimybėms privalo našumą padidinti. Prisijungiančios dujų įmonės ir
+vartotojai padengia prijungimo išlaidas, o jeigu reikia, ir sistemos našumo
+padidinimo išlaidas. Prijungimo įkainių dydį nustato prijungiančios perdavimo
+ir paskirstymo įmonės, suderinusios su Komisija.]
+Straipsnio pakeitimai:
+Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
+56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
  
 16 straipsnis.
 Dujų sistemos žemėje ir statiniuose
@@ -473,8 +557,24 @@ NAGRINĖJIMAS. ATSAKOMYBĖ
 Skundų nagrinėjimas
 Skundus
 dėl šio įstatymo nuostatų taikymo ar šiame įstatyme nustatytų asmenų veiklos
-nagrinėja Komisija. Skundams nagrinėti Komisija gali pasitelkti kitų institucijų.
-
+nagrinėja Komisija. Skundams nagrinėti Komisija gali pasitelkti kitų
+institucijų. 
+ 
+[20 straipsnio redakcija nuo 2001 m.
+liepos 1 d.:
+20
+straipsnis. Skundų nagrinėjimas
+Skundus
+dėl gamtinių dujų įmonių veiklos ar neveikimo perduodant, paskirstant,
+tiekiant, perkant ir laikant gamtines dujas, nesuteikimo teisės pasinaudoti
+sistema, prisijungimo, sistemos balansavimo, kainų nustatymo nagrinėja Komisija
+ginčų sprendimo iki teismo tvarka. Skundus dėl įrenginių bei apskaitos
+prietaisų gedimų, sistemų eksploatavimo pažeidimų, avarijų, dujų tiekimo
+nutraukimo nagrinėja Energetikos valstybinė inspekcija ginčų sprendimo iki
+teismo tvarka.]
+Straipsnio pakeitimai:
+Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
+56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
  
 21 straipsnis.
 Atsakomybė 
@@ -496,6 +596,15 @@ nesilaikymą;
 4)
 nepagrįstą atsisakymą teikti gamtinių dujų transportavimo paslaugas.
  
+[21 straipsnis
+papildomas 4 dalimi nuo 2001 m. liepos 1 d.:
+4. Skiriamų baudų dydis diferencijuojamas
+atsižvelgiant į pažeidimu padarytos žalos dydį, pažeidimo trukmę, atsakomybę
+lengvinančias ar sunkinančias aplinkybes.]
+Straipsnio pakeitimai:
+Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
+56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
+ 
 DEVINTASIS
 SKIRSNIS
 BAIGIAMOSIOS
@@ -512,16 +621,30 @@ paskirstymo įmonės išperka ar perima eksploatuoti vartotojų lėšomis iki š
 įstatymo įsigaliojimo įrengtas bendro naudojimo sistemas ir dujų kiekio
 matavimo priemones.
 3.
-Vyriausybė paskiria institucijas, kurios parengtų šio įstatymo nuostatoms
-įgyvendinti reikalingus teisės aktus.
+Vyriausybė paskiria institucijas, kurios parengtų šio įstatymo nuostatoms įgyvendinti
+reikalingus teisės aktus.
 4.
 Vyriausybė nustato 20 straipsnyje numatyto skundų nagrinėjimo tvarką.
+ 
+[4 dalies redakcija nuo 2001 m. liepos 1
+d.:
+4.
+Vyriausybė ar jos įgaliota institucija nustato 20 straipsnyje numatyto
+skundų nagrinėjimo tvarką.]
+ 
 5. Įsigaliojus
 šiam įstatymui, laisvaisiais pripažįstami šie vartotojai:
 1) elektrinės;
 2)
 vartotojai, kurie viename objekte sunaudoja daugiau kaip 25 milijonus kubinių
 metrų dujų per metus;
+ 
+[5 dalies 2 punkto redakcija nuo 2001 m.
+liepos 1 d.:
+2)
+vartotojai, kurie sunaudoja daugiau kaip 15 milijonų kubinių metrų dujų
+per metus;]
+ 
 3)
 vartotojai, kurių sistemos tiesiogiai prijungtos prie magistralinių dujotiekių;
 4)
@@ -541,15 +664,32 @@ Vyriausybė ar jos įgaliotos institucijos iki 2002 m. sausio 1 d. parengia
 Administracinių teisės pažeidimų kodekso pataisas, numatančias atsakomybę už
 šio įstatymo nuostatų pažeidimus.
  
+[22 straipsnis papildomas 10 dalimi nuo
+2001 m. liepos 1 d.:
+10.
+Vyriausybė ar jos įgaliota institucija patvirtina gamtinių dujų perdavimo,
+paskirstymo, laikymo, tiekimo taisykles šio įstatymo nuostatoms įgyvendinti.]
+Straipsnio pakeitimai:
+Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
+56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
+ 
 23 straipsnis.
 Įstatymo įsigaliojimas
 1.
 Šis įstatymas, išskyrus 10 straipsnį, įsigalioja nuo 2001 m. liepos 1 d.
 2. Šio įstatymo
 10 straipsnis įsigalioja nuo 2003 m. sausio 1 d.
+ 
+[2 dalies redakcija nuo 2001 m. liepos 1
+d.:
+2. Šio įstatymo
+10 straipsnis įsigalioja nuo 2002 m. sausio 1 d.]
 Straipsnio pakeitimai:
 Nr. IX-130, 2000 12 21, Žin., 2000, Nr.
 113-3618 (2000 12 30)
+Straipsnio pakeitimai:
+Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
+56-1980 (2001-06-30), įsigalioja nuo 2001-07-01
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.  
@@ -571,8 +711,20 @@ Nr. IX-130, 2000 12 21, Žin., 2000, Nr.
 113-3618 (2000 12 30)
 GAMTINIŲ DUJŲ ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-382, 2001-06-19, Žin., 2001, Nr.
+56-1980 (2001-06-30)
+GAMTINIŲ DUJŲ
+ĮSTATYMO 2, 5, 8, 12, 15, 20, 21, 22, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2001 m.
+liepos 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 01 02)
-                  autrap@lrs.lt
+Redagavo: Angonita
+Rupšytė (2001-07-04)
+                  anrups@lrs.lt
