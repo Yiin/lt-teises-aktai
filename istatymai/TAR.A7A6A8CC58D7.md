@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
 
+Suvestinė redakcija nuo 2002-09-01 iki 2003-04-10
+ 
+Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
+ 
+ 
 LIETUVOS RESPUBLIKOS
 AZARTINIŲ LOŠIMŲ MOKESČIO
 Į S T A T Y M A S
@@ -50,12 +55,11 @@ Lošimų mokestį moka akcinės bendrovės ir uždarosios akcinės bendrovės (t
 
 
 3 straipsnis. Mokestinis laikotarpis
-
-
-Lošimų mokesčio mokestinis laikotarpis yra kalendorinių metų mėnuo.
+Lošimų mokesčio mokestinis laikotarpis yra kalendorinių metų ketvirtis.
  
-
-
+Straipsnio pakeitimai:
+Nr. IX-996, 2002-06-27, Žin., 2002, Nr. 72-3011 (2002-07-17), i. k. 1021010ISTA00IX-996
+ 
 
 
 
@@ -99,15 +103,27 @@ Lošimų mokesčio bazė yra:
 2. Organizuojant lošimus automatais, stalo lošimus, nustatomas fiksuotas lošimų mokesčio dydis už kiekvieną lošimo įrenginį:
 
 
-1) lošimo automatą – 600 litų per mokestinį laikotarpį;
+
+ 1) už A kategorijos lošimo automatą 
+ – 
+ 1800 litų per mokestinį laikotarpį; 
+
+
+ 2) už B kategorijos lošimo automatą 
+ – 
+ 600 litų per mokestinį laikotarpį; 
+
+
+ 3) už ruletes, kortų arba kauliukų stalą 
+ – 
+ 12 000 litų per mokestinį laikotarpį.“ 
 
 
 
-
-2) ruletės, kortų arba kauliukų stalą – 4000 litų per mokestinį laikotarpį.
  
-
-
+Straipsnio dalies pakeitimai:
+Nr. IX-996, 2002-06-27, Žin., 2002, Nr. 72-3011 (2002-07-17), i. k. 1021010ISTA00IX-996
+ 
 
 
 
@@ -223,3 +239,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-996, 2002-06-27, Žin., 2002, Nr. 72-3011 (2002-07-17), i. k. 1021010ISTA00IX-996
+Lietuvos Respublikos azartinių lošimų mokesčio įstatymo 3 ir 5 straipsnių pakeitimo įstatymas
