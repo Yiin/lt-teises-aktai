@@ -92,20 +92,7 @@ ekspertizės komisija (toliau - VMSEK) Vyriausybės ar jos įgaliotos institucij
 nustatyta tvarka.
 8. Darbingumo netekimo koeficientas (d) - vieneto dalimis
 išreikštas dydis, apskaičiuojamas netekto darbingumo procentą dalijant iš 100.
-9. Vidutinės mėnesinės draudžiamosios pajamos - Valstybinių
-socialinio draudimo pensijų įstatymo nustatytos draudžiamosios pajamos.
- 
-[9 dalies redakcija nuo 2003 m. sausio 1 d.:9. Einamųjų metų draudžiamosios pajamos – pajamos, apskaičiuotos pagal Valstybinio socialinio draudimo fondo tarybos patvirtintą metodiką. Jų apskaičiavimo ir tvirtinimo tvarką nustato Valstybinių socialinio draudimo pensijų įstatymas.] 
-10. Kompensavimo koeficientas (k) – asmens vidutinių
-mėnesinių draudžiamųjų pajamų per paskutiniuosius paeiliui einančius 12
-mėnesių, skaičiuojant atgal nuo užpraeito kalendorinio ketvirčio pabaigos,
-buvusio iki netenkant darbingumo dėl nelaimingo atsitikimo darbe ar profesinės
-ligos, santykis su nelaimingo atsitikimo ar susirgimo profesine liga nustatymo
-metu galiojančiomis vidutinėmis mėnesinėmis draudžiamosiomis pajamomis.
-Apdraustajam apskaičiuotas kompensavimo koeficientas negali būti mažesnis kaip
-0,25 ir didesnis kaip 3.
- 
-[10 dalies redakcija nuo 2003 m. sausio 1 d.:
+9. Einamųjų metų draudžiamosios pajamos – pajamos, apskaičiuotos pagal Valstybinio socialinio draudimo fondo tarybos patvirtintą metodiką. Jų apskaičiavimo ir tvirtinimo tvarką nustato Valstybinių socialinio draudimo pensijų įstatymas.
 10.
 Kompensavimo koeficientas (k) – asmens vidutinių mėnesinių draudžiamųjų
 pajamų per paskutiniuosius paeiliui einančius 12 mėnesių, skaičiuojant atgal
@@ -113,8 +100,7 @@ nuo užpraeito kalendorinio ketvirčio pabaigos, buvusio iki netenkant darbingum
 dėl nelaimingo atsitikimo darbe ar profesinės ligos, santykis su nelaimingo
 atsitikimo ar susirgimo profesine liga nustatymo metu galiojančiomis einamųjų
 metų draudžiamosiomis pajamomis. Apdraustajam apskaičiuotas kompensavimo
-koeficientas negali būti mažesnis kaip 0,25 ir didesnis kaip 3.]
- 
+koeficientas negali būti mažesnis kaip 0,25 ir didesnis kaip 3.
 11. Apdraustojo
 asmens draudžiamosios pajamos - visos pajamos, nuo kurių buvo mokamos
 valstybinio socialinio draudimo įmokos, taip pat šio įstatymo nustatytos ligos
@@ -140,15 +126,15 @@ privalomai draudžiami:
 narystės pagrindu renkamąsias pareigas renkamose organizacijose, dirbantys
 narystės pagrindu ūkinėse bendrijose, žemės ūkio bendrovėse arba kooperatinėse
 organizacijose, kandidatai į notarus (asesoriai);
-2) valstybės politikai, Konstitucinio Teismo
-teisėjai, Lietuvos Aukščiausiojo Teismo teisėjai, kitų teismų teisėjai,
-kandidatai į teisėjus, prokuratūros pareigūnai, Lietuvos banko valdybos
-pirmininkas, jo pavaduotojai, valdybos nariai, Seimo ar Respublikos Prezidento
-paskirti valstybės institucijų ar įstaigų vadovai, kiti Seimo ar Respublikos
-Prezidento paskirti valstybės institucijų ar įstaigų pareigūnai, Seimo ar
-Respublikos Prezidento paskirti valstybinių (nuolatinių) komisijų ir tarybų,
-kitų valstybinių (nuolatinių) komisijų ir tarybų pirmininkai, jų pavaduotojai
-ir nariai, taip pat pagal specialius įstatymus įsteigtų komisijų ar tarybų
+2) valstybės politikai, Konstitucinio Teismo teisėjai,
+Lietuvos Aukščiausiojo Teismo teisėjai, kitų teismų teisėjai, kandidatai į
+teisėjus, prokuratūros pareigūnai, Lietuvos banko valdybos pirmininkas, jo
+pavaduotojai, valdybos nariai, Seimo ar Respublikos Prezidento paskirti
+valstybės institucijų ar įstaigų vadovai, kiti Seimo ar Respublikos Prezidento
+paskirti valstybės institucijų ar įstaigų pareigūnai, Seimo ar Respublikos
+Prezidento paskirti valstybinių (nuolatinių) komisijų ir tarybų, kitų
+valstybinių (nuolatinių) komisijų ir tarybų pirmininkai, jų pavaduotojai ir
+nariai, taip pat pagal specialius įstatymus įsteigtų komisijų ar tarybų
 pareigūnai, viešojo administravimo valstybės tarnautojai, išskyrus Vidaus
 reikalų ministerijos, policijos, Valstybės sienos apsaugos tarnybos ir kitų
 vidaus reikalų įstaigų pareigūnus, vidaus tarnybos dalinių karininkus, liktinės
@@ -227,12 +213,18 @@ Draudiminiams įvykiams nepriskiriami nelaimingi atsitikimai darbe,
 kuriuos ištyrus nustatyta, kad jie įvyko:
 1) dėl to, kad nukentėjusysis buvo apsvaigęs nuo alkoholio,
 narkotikų ar toksinių medžiagų ir tai nebuvo susiję su technologiniu procesu;
-2) nukentėjusiajam darant tyčinį nusikaltimą;
+2)
+nukentėjusiajam darant tyčinę nusikalstamą veiką;
 3) nukentėjusiajam savavališkai (be draudėjo žinios) atliekant
 darbą ne draudėjo naudai (ne draudėjo interesais); 
 4) nukentėjusiajam sąmoningai siekiant, jog įvyktų
 nelaimingas atsitikimas;
 5) dėl bendro susirgimo.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1484,
+2003-04-03, Žin., 2003, Nr. 38-1729 (2003-04-24)
  
 8 straipsnis. Draudėjų pareigos ir atsakomybė 
 1. Draudėjai privalo:
@@ -313,16 +305,9 @@ draudžiamąsias pajamas tokia pat tvarka, kokia yra Vyriausybės ar jos įgalio
 institucijos nustatyta ligos ir motinystės (tėvystės) pašalpoms apskaičiuoti.
 2.
 Vidutinis mėnesinis kompensuojamasis uždarbis nelaimingų atsitikimų darbe
-draudimo išmokoms skaičiuoti negali viršyti Vyriausybės patvirtintų vidutinių
-mėnesinių draudžiamųjų pajamų, galiojusių draudiminio įvykio atsitikimo mėnesį,
-trijų su puse dydžio sumos.
- 
-[2 dalies redakcija nuo 2003 m. sausio 1 d.:
-2.
-Vidutinis mėnesinis kompensuojamasis uždarbis nelaimingų atsitikimų darbe
 draudimo išmokoms skaičiuoti negali viršyti Vyriausybės patvirtintų einamųjų
 metų draudžiamųjų pajamų, galiojusių draudiminio įvykio atsitikimo
-mėnesį, trijų su puse dydžio sumos.]
+mėnesį, trijų su puse dydžio sumos.
 Straipsnio
 pakeitimai:
 Nr. VIII-1787, 2000 07 04, Žin., 2000, Nr.
@@ -400,20 +385,13 @@ procentų darbingumo, jam išmokama 20 procentų jo 24 mėnesių kompensuojamojo
 uždarbio dydžio netekto darbingumo vienkartinė kompensacija.
 3. Jeigu
 apdraustajam nustatytas neterminuotas nedarbingumas, netekto darbingumo
-vienkartinė kompensacija išmokama trigubai didesnė, negu nurodyta šio
-straipsnio 1 ar 2 dalyje. 
+vienkartinė kompensacija išmokama trigubai didesnė, negu nurodyta šio straipsnio
+1 ar 2 dalyje. 
  
 24 straipsnis. Netekto darbingumo periodinė kompensacija 
 1. Jeigu nustatoma, kad apdraustasis neteko 30 ir daugiau procentų
 darbingumo, jam mokama netekto darbingumo periodinė kompensacija. 
-2. Netekto
-darbingumo periodinė kompensacija apdraustajam mokama kas mėnesį. Ji
-apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 3
-straipsnio 8 dalis), kompensavimo koeficiento (k) (šio įstatymo 3 straipsnio 10
-dalis) ir mokėjimo mėnesį galiojančių vidutinių mėnesinių draudžiamųjų pajamų
-(D) sandaugos pusė, t. y. pagal formulę 0,5 x d x k x D.
- 
-[2 dalies redakcija nuo 2003 m. sausio 1 d.:2. Netekto darbingumo periodinė kompensacija apdraustajam mokama kas mėnesį. Ji apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 3 straipsnio 8 dalis), kompensavimo koeficiento (k) (šio įstatymo 3 straipsnio 10 dalis) ir mokėjimo mėnesį galiojančių einamųjų metų draudžiamųjų pajamų (D) sandaugos pusė, t. y. pagal formulę 0,5 x d x k x D.] 
+2. Netekto darbingumo periodinė kompensacija apdraustajam mokama kas mėnesį. Ji apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 3 straipsnio 8 dalis), kompensavimo koeficiento (k) (šio įstatymo 3 straipsnio 10 dalis) ir mokėjimo mėnesį galiojančių einamųjų metų draudžiamųjų pajamų (D) sandaugos pusė, t. y. pagal formulę 0,5 x d x k x D.
 Straipsnio
 pakeitimai:
 Nr. IX-374, 2001-06-12, Žin., 2001, Nr.
@@ -502,21 +480,12 @@ Nr. IX-428, 2001-07-05, Žin., 2001, Nr.
 64-2325 (2001-07-25)
  
 31 straipsnis. Laidojimo pašalpa
-1. Apdraustajam mirus dėl nelaimingo atsitikimo darbe ar
-ūmios profesinės ligos, pripažintų draudiminiais įvykiais, mirusiojo šeimai
-išmokama vienkartinė laidojimo pašalpa, lygi 100 vidutinių mėnesinių
-draudžiamųjų pajamų, galiojusių tą mėnesį, kurį įvyko mirtinas nelaimingas
-atsitikimas darbe. Ši pašalpa lygiomis dalimis išmokama kiekvienam mirusiojo
-šeimos nariui. 
- 
-[1 dalies redakcija nuo 2003 m. sausio 1 d.:
 1. Apdraustajam
 mirus dėl nelaimingo atsitikimo darbe ar ūmios profesinės ligos, pripažintų
 draudiminiais įvykiais, mirusiojo šeimai išmokama vienkartinė laidojimo
 pašalpa, lygi 100 einamųjų metų draudžiamųjų pajamų, galiojusių tą mėnesį, kurį
 įvyko mirtinas nelaimingas atsitikimas darbe ar ištiko ūmi profesinė liga. Ši
-pašalpa lygiomis dalimis išmokama kiekvienam mirusiojo šeimos nariui.]
- 
+pašalpa lygiomis dalimis išmokama kiekvienam mirusiojo šeimos nariui.
 2. Žuvusiojo šeimos nariais laikomi jo sutuoktinis, nepilnamečiai
 vaikai (įvaikiai), iki jiems sukaks 18 metų, taip pat vaikai (įvaikiai),
 besimokantys nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose
@@ -565,12 +534,12 @@ Nr. IX-1133,
 tvarka
 1. Šiame
 įstatyme nustatytos valstybinio socialinio draudimo rūšies valstybinio
-socialinio draudimo įmokos už kiekvieną apdraustąjį, nurodytą šio įstatymo 4 straipsnio
-1 dalies 1, 2 punktuose, ir skaičiuojamos, ir mokamos įstatymų nustatyta tvarka
-kartu su kitomis valstybinio socialinio draudimo įmokomis. 
-2. Valstybinio socialinio draudimo įmokos už apdraustuosius,
-nurodytus šio įstatymo 4 straipsnio 1 dalies 3-5 punktuose, mokamos už tuos
-laikotarpius, kai jiems už darbą mokamas darbo užmokestis. 
+socialinio draudimo įmokos už kiekvieną apdraustąjį, nurodytą šio įstatymo 4
+straipsnio 1 dalies 1, 2 punktuose, ir skaičiuojamos, ir mokamos įstatymų
+nustatyta tvarka kartu su kitomis valstybinio socialinio draudimo įmokomis. 
+2. Valstybinio socialinio draudimo įmokos už apdraustuosius, nurodytus
+šio įstatymo 4 straipsnio 1 dalies 3-5 punktuose, mokamos už tuos laikotarpius,
+kai jiems už darbą mokamas darbo užmokestis. 
  
  
 KETVIRTASIS SKIRSNIS
@@ -664,8 +633,8 @@ PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 33 IR 36 STRAIPSNIŲ PAKEITIMO
 6.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-1247,
-2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
+Nr. IX-1247, 2002-12-10,
+Žin., 2002, Nr. 123-5535 (2002-12-24)
 VALSTYBINIŲ SOCIALINIO DRAUDIMO
 PENSIJŲ ĮSTATYMO, VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO, LIGOS IR MOTINYSTĖS
 SOCIALINIO DRAUDIMO ĮSTATYMO, NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ
@@ -674,8 +643,25 @@ AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYM
 Šis Įstatymas įsigalioja nuo 2003
 m. sausio 1 d.
  
-*** Pabaiga ***
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1484,
+2003-04-03, Žin., 2003, Nr. 38-1729 (2003-04-24)
+NELAIMINGŲ
+ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 7 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja kartu su
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+2003 m. 
+gegužės 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2003-01-21)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2003-05-07)
+                 
+autrap@lrs.lt
