@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 1997-07-23 iki 1997-12-23
+Suvestinė redakcija nuo 1997-12-24 iki 1998-03-17
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -147,32 +147,42 @@ Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA
 
 
 
-6) parduoti ar kitaip perleisti įmonės turtą Valstybinio turto privatizavimo įstatymo nustatyta tvarka;
+6) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus tais atvejais, kada šio bei kitų Lietuvos Respublikos įstatymų nustatyta tvarka jų nenustato Lietuvos Respublikos Vyriausybė arba steigėjas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
+ 
 
 
 
 
-7) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus tais atvejais, kada šio bei kitų Lietuvos Respublikos įstatymų nustatyta tvarka jų nenustato Lietuvos Respublikos Vyriausybė arba steigėjas;
+7) atsiskaityti už pateiktas prekes, atliktus darbus ir paslaugas bet kuria sutarta forma, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
+ 
 
 
 
 
-8) atsiskaityti už pateiktas prekes, atliktus darbus ir paslaugas bet kuria sutarta forma, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams;
+8) nustatyti įmonės vidaus struktūrą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
+ 
 
 
 
 
-9) nustatyti įmonės vidaus struktūrą;
+9) steigėjo leidimu steigti filialus, jungtis į asociacijas ar konsorciumus tik komanditoriaus teisėmis, jeigu tai neprieštarauja Lietuvos Respublikos konkurencijos įstatymui;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
+ 
 
 
 
 
-10) steigėjo leidimu steigti filialus, jungtis į asociacijas ar konsorciumus tik komanditoriaus teisėmis, jeigu tai neprieštarauja Lietuvos Respublikos konkurencijos įstatymui;
-
-
-
-
-11) turėti kitokių, šio įstatymo nenustatytų, civilinių teisių ir pareigų, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams.
+10) turėti kitokių, šio įstatymo nenustatytų, civilinių teisių ir pareigų, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
+ 
 
 
 
@@ -1085,3 +1095,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 4 ir 13 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-377, 1997-07-02, Žin., 1997, Nr. 69-1738 (1997-07-23), i. k. 0971010ISTAVIII-377
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 ir 21 straipsnių papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 4 straipsnio pakeitimo įstatymas
