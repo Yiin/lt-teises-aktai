@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D271421EA014"
 
 # Dėl baudų ir mokesčių, numatytų Lietuvos Respublikos kodeksuose, indeksavimo
 
-Suvestinė redakcija nuo 1994-08-03 iki 1994-11-28
+Įstatymas netenka galios 1995-07-05:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-950, 1995-06-13, Žin., 1995, Nr. 55-1353 (1995-07-05), i. k. 0951010ISTA000I-950
+Dėl Lietuvos Respublikos civilinio proceso kodekso pakeitimo ir papildymo
+ 
+Suvestinė redakcija nuo 1994-11-29 iki 1995-07-04
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 140-0; Žin. 1992, Nr.22-641, i. k. 0921010ISTA00I-2750
  
@@ -31,7 +36,10 @@ Punkto naikinimas:
 Nr. I-546, 1994-07-18, Žin. 1994, Nr. 59-1152 (1994-08-03), i. k. 0941010ISTA000I-546
  
 
-2. Nustatyti, kad Lietuvos Respublikos baudžiamajame kodekse numatytos baudos indeksuojamos kartą per ketvirtį, naudojant suvestinį gyventojų vartojamų prekių ir paslaugų kainų indeksą.
+2. Neteko galios nuo 1994-11-29
+Punkto naikinimas:
+Nr. I-654, 1994-11-10, Žin. 1994, Nr. 92-1800 (1994-11-29), i. k. 0941010ISTA000I-654
+ 
 
 3. Nustatyti, kad Lietuvos Respublikos civilinio proceso kodekso 104 ir 217 straipsniuose nustatytas valstybinio mokesčio dydis, išskyrus apskaičiuojamą procentais, bei šio kodekso 402 straipsnio pirmosios dalies 3, 4 ir 5 punktuose numatytos išlaidos, susijusios su sprendimų vykdymu, indeksuojami šio įstatymo nustatyta tvarka.
 
@@ -62,4 +70,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-546, 1994-07-18, Žin., 1994, Nr. 59-1152 (1994-08-03), i. k. 0941010ISTA000I-546
 Dėl Lietuvos Respublikos įstatymo "Dėl baudų ir mokesčių, numatytų Lietuvos Respublikos kodeksuose, indeksavimo" 1 straipsnio pripažinimo netekusiu galios
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-654, 1994-11-10, Žin., 1994, Nr. 92-1800 (1994-11-29), i. k. 0941010ISTA000I-654
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" Nr. I-551, priimto 1994 m. liepos 19 d., įsigaliojimo tvarkos
 
