@@ -18,13 +18,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Redagavo: Aušrinė Trapinskienė
-(2000.05.12)
- 
 Įstatymas paskelbtas: Žin., 1992,
-Nr.5-75
+Nr. 5-75
 Neoficialus įstatymo tekstas 
- 
  
 LIETUVOS RESPUBLIKOS
 APLINKOS APSAUGOS
@@ -69,8 +65,8 @@ susilpnėjimas arba netekimas;
 monitoringas - sistemingas aplinkos bei jos komponentų būklės ir kitimo
 stebėjimas, antropogeninio poveikio įvertinimas ir prognozė;
             poveikio
-aplinkai vertinimas - planuojamos ūkinės veiklos galimo poveikio
-aplinkai nustatymo, apibūdinimo ir įvertinimo procesas;
+aplinkai vertinimas - planuojamos ūkinės veiklos galimo poveikio aplinkai
+nustatymo, apibūdinimo ir įvertinimo procesas;
             ekologinė
 informacija - duomenų apie aplinkos kokybės būklę visuma;
             ūkinė
@@ -82,10 +78,10 @@ vykstantiems gamtos procesams;
             teršalų
 emisija - tai teršiančios medžiagos išmetimas į aplinką.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
- 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
+Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr.39-1093 (00.05.12)
  
             2
 straipsnis. Įstatymo paskirtis
@@ -99,9 +95,7 @@ ekonominėje zonoje.
 Šio įstatymo pagrindu priimami kiti gamtos išteklių
 naudojimą bei aplinkos apsaugą reglamentuojantys įstatymai ir norminiai aktai.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
- 
+Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             3
 straipsnis. Aplinkos apsaugos objektas
@@ -141,9 +135,8 @@ bei gamtos išteklių naudojimo tarptautines sutartis;
             5)
 vykdo kitas įstatymų nustatytas funkcijas.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
- 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             6
 straipsnis. Valstybinio aplinkos apsaugos valdymo sistema
@@ -162,8 +155,8 @@ Aplinkos apsaugos ministerijos teikimu tvirtina aplinkos apsaugos strategijos
 veiksmų programą, valstybines gamtos išteklių naudojimo ir aplinkos apsaugos
 programas bei schemas;
             2)
-įstatymų nustatyta tvarka formuoja valstybės institucijų, įgyvendinančių aplinkos
-apsaugos ir gamtos išteklių naudojimo politiką, sistemą;
+įstatymų nustatyta tvarka formuoja valstybės institucijų, įgyvendinančių
+aplinkos apsaugos ir gamtos išteklių naudojimo politiką, sistemą;
             3)
 koordinuoja valstybės ir vietos savivaldos valdymo institucijų veiklą aplinkos
 apsaugos ir gamtos išteklių naudojimo srityje;
@@ -207,11 +200,11 @@ teikia Lietuvos Respublikos Vyriausybei valstybinių rezervatų,
 draustinių,valstybinių parkų, gamtos paminklų, kitų gamtinio pobūdžio saugomų
 teritorijų steigimo projektus;
             7)
-reglamentuoja ir kontroliuoja veiklą saugomose teritorijose, organizuoja valstybinių
-rezervatų valdymą, sudaro ir tikslina Raudonąją knygą, organizuoja ir atlieka
-darbus, susijusius su retų bei nykstančių augalų, grybų ir gyvūnų išsaugojimu
-bei gausinimu, reglamentuoja augalų, gyvūnų medžioklės ir žūklės trofėjų
-įvežimo, išvežimo, taip pat gyvūnų laikymo nelaisvėje tvarką;
+reglamentuoja ir kontroliuoja veiklą saugomose teritorijose, organizuoja
+valstybinių rezervatų valdymą, sudaro ir tikslina Raudonąją knygą, organizuoja
+ir atlieka darbus, susijusius su retų bei nykstančių augalų, grybų ir gyvūnų
+išsaugojimu bei gausinimu, reglamentuoja augalų, gyvūnų medžioklės ir žūklės
+trofėjų įvežimo, išvežimo, taip pat gyvūnų laikymo nelaisvėje tvarką;
             8)
 nustato ir kontroliuoja teršalų (ir radioaktyviųjų medžiagų) emisijos į aplinką
 normas bei apskaitos tvarką, nustato leidimų atlikti teršalų (ir radioaktyviųjų
@@ -241,7 +234,8 @@ nustatyta tvarka pagal savo kompetenciją palaiko ryšius su užsienio valstybi�
 atitinkamomis institucijomis ir tarptautinėmis organizacijomis, rengia
 tarptautinių sutarčių projektus, pasirašo šias sutartis, organizuoja jų
 įgyvendinimą, taip pat Lietuvos Respublikos Vyriausybės ar Ministro Pirmininko
-pavedimu atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose;
+pavedimu atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse
+organizacijose;
             16)
 informuoja visuomenę apie aplinkos būklę ir koordinuoja ekologinį švietimą,
 rūpinasi aplinkos apsaugos specialistų rengimu bei tobulinimu, atlieka
@@ -292,9 +286,8 @@ pagal kompetenciją priima sprendimus ir kontroliuoja jų vykdymą;
             10)
 vykdo kitas įstatymų nustatytas funkcijas.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
- 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
 II SKYRIUS. LIETUVOS RESPUBLIKOS PILIEČIŲ IR
 VISUOMENINIŲ
@@ -329,10 +322,10 @@ pareigūnus, netinkamai vykdančius jiems pavestas aplinkos apsaugos funkcijas;
 lankytis gamtinėse teritorijose, išskyrus tas, kurių lankymas draudžiamas ar
 ribojamas nustatyta tvarka.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
- 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
+Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr.39-1093 (00.05.12)
  
             8
 straipsnis. Valstybinės valdžios, valdymo ir kontrolės institucijų pareigos
@@ -366,10 +359,10 @@ organizuoti ekologinį švietimą ir mokymą;
             9)
 skatinti piliečius, visuomenines organizacijas dalyvauti saugant aplinką.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
- 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
+Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr.39-1093 (00.05.12)
  
             9
 straipsnis. Piliečių ir visuomeninių organizacijų pareigos
@@ -386,7 +379,6 @@ valstybių piliečiai bei asmenys be pilietybės privalo vykdyti šio įstatymo
 nustatytas Lietuvos Respublikos piliečių pareigas ir turi visas šiame įstatyme
 įtvirtintas Lietuvos Respublikos piliečių teises, jeigu kiti Lietuvos
 Respublikos įstatymai nenumato kitko. 
- 
  
 III SKYRIUS. GAMTOS IŠTEKLIŲ NAUDOJIMAS IR APSKAITA
  
@@ -419,9 +411,8 @@ gamtinis karkasas.
 teritorijų apsaugą ir gamtos išteklių naudojimą jose reglamentuoja Lietuvos
 Respublikos saugomų teritorijų įstatymas,kiti įstatymai ir teisės aktai.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
- 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             13
 straipsnis. Valstybinė gamtos išteklių apskaita
@@ -429,9 +420,8 @@ straipsnis. Valstybinė gamtos išteklių apskaita
 gamtos išteklių apskaitos, kadastrų tvarkymo ir atskaitomybės tvarką nustato
 Lietuvos Respublikos Vyriausybė.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
- 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             14
 straipsnis. Gamtos išteklių naudotojai
@@ -474,16 +464,17 @@ veiklos galimą poveikį aplinkai, parengia poveikio aplinkai vertinimo dokument
 ir teikia ją poveikio aplinkai vertinimo proceso dalyviams įstatymų nustatyta
 tvarka.
             Šio
-straipsnio antrojoje dalyje nurodytos institucijos įvertina pateiktą dokumentaciją
-apie galimą ūkinės veiklos įtaką aplinkai ir pateikia pagal savo kompetenciją
-išvadas arba motyvuotą sprendimą dėl veiklos galimumo. Sprendimas privalomas
-institucijai, išduodančiai leidimus ūkinei veiklai.
+straipsnio antrojoje dalyje nurodytos institucijos įvertina pateiktą
+dokumentaciją apie galimą ūkinės veiklos įtaką aplinkai ir pateikia pagal savo
+kompetenciją išvadas arba motyvuotą sprendimą dėl veiklos galimumo. Sprendimas
+privalomas institucijai, išduodančiai leidimus ūkinei veiklai.
 Dokumentacijos apie ūkinės veiklos galimą poveikį
 aplinkai rengimo tvarką nustato Lietuvos Respublikos aplinkos ministerija.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
+Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr.39-1093 (00.05.12)
  
             16
 straipsnis. Ūkinės veiklos, galinčios turėti poveikio aplinkai, projektavimas
@@ -494,16 +485,17 @@ vykdomas pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
             Juridiniai
 ir fiziniai asmenys, projektuojantys objektų, galinčių turėti poveikio
 aplinkai, statybą, rekonstravimą ar plėtimą, rengiantys bendruosius ir
-specialiuosius teritorinio planavimo projektus, projektinėje dokumentacijoje privalo
-numatyti priemones gamtos ištekliams racionaliai naudoti, neigiamam poveikiui
-aplinkai išvengti.
+specialiuosius teritorinio planavimo projektus, projektinėje dokumentacijoje
+privalo numatyti priemones gamtos ištekliams racionaliai naudoti, neigiamam
+poveikiui aplinkai išvengti.
             Projektinė
 dokumentacija nustatyta tvarka suderinama su vietos savivaldos institucijomis
 ir Aplinkos ministerija.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
+Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr.39-1093 (00.05.12)
  
             17
 straipsnis. Ūkinės veiklos objektų statyba, rekonstravimas ir plėtimas
@@ -511,13 +503,13 @@ straipsnis. Ūkinės veiklos objektų statyba, rekonstravimas ir plėtimas
 ir fiziniai asmenys gali statyti, rekonstruoti ar plėsti ūkinės veiklos
 objektus tik turėdami šio įstatymo 16 straipsnio reikalavimus atitinkančią
 projektinę dokumentaciją.
-             Ūkinės
+            Ūkinės
 veiklos objektų statyba, rekonstravimas ar plėtimas be projektinės
 dokumentacijos, numatytos šio įstatymo 16 straipsnyje, arba nesilaikant joje
 nustatytų aplinkos apsaugos reikalavimų, pažeidžiant statybos, rekonstravimo ar
 plėtimo darbų aplinkosauginius apribojimus užtraukia įstatymų numatytą
 atsakomybę.
-             Atsakomybės
+            Atsakomybės
 taikymas neužkerta kelio šio įstatymo 6 straipsnyje nurodytoms valstybinio
 aplinkos apsaugos valdymo ir kontrolės institucijoms arba jų pareigūnams
 nustatyta tvarka sustabdyti ūkinės veiklos objektų statybos, rekonstravimo ar
@@ -531,11 +523,11 @@ rekonstruoti ir išplėsti ūkinės veiklos objektai priimami eksploatuoti tik
 įvykdžius visas projektinėje dokumentacijoje numatytas aplinkos apsaugos
 priemones.
             Priimant
-pastatytus, rekonstruotus, išplėstus ūkinės veiklos objektus, dalyvauja Aplinkos
-apsaugos ministerijos sistemos pareigūnai arba pateikiamos jų išvados.
+pastatytus, rekonstruotus, išplėstus ūkinės veiklos objektus, dalyvauja
+Aplinkos apsaugos ministerijos sistemos pareigūnai arba pateikiamos jų išvados.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             19
 straipsnis. Ūkinės veiklos objektų eksploatavimas
@@ -561,8 +553,8 @@ nereikalingas gamtos išteklių naudojimo ir teršalų emisijos į aplinką leid
 privalo laikytis tokiems objektams nustatytų aplinkos apsaugos normatyvų ir
 standartų.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             20
 straipsnis. Pavojingų cheminių medžiagų gamyba ir naudojimas
@@ -580,8 +572,8 @@ apsaugos ministerija.
 Respublikoje draudžiama cheminio ginklo gamyba, dislokavimas, tranzitas ir
 įvežimas.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
 21 straipsnis. Radioaktyviųjų medžiagų gamyba ir
 naudojimas
@@ -598,8 +590,8 @@ Lietuvos Respublikos teritorijoje draudžiama.
 Respublikoje draudžiama branduolinio ginklo gamyba, dislokavimas, tranzitas ir
 įvežimas.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             22
 straipsnis. Biologiniai taršos šaltiniai
@@ -611,8 +603,8 @@ Aplinkos apsaugos ministerija kartu su Sveikatos apsaugos ministerija.
 Respublikoje draudžiama biologinio ginklo gamyba, dislokavimas, tranzitas ir
 įvežimas.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             23
 straipsnis. Atliekų tvarkymas
@@ -639,8 +631,8 @@ ir radioaktyviųjų atliekų tvarkymą organizuoja Lietuvos Respublikos Vyriausy
 įvežti į Lietuvos Respubliką joms saugoti, nukenksminti arba laidoti
 draudžiama.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             24
 straipsnis. Ypatingosios ekologinės situacijos
@@ -655,17 +647,17 @@ arba ekologinės nelaimės zonomis.
 kurioje labai viršijami aplinkos kokybės normatyvai, pavojingai degraduoja
 aplinka, Aplinkos apsaugos ministerija skelbia ekologinio pavojaus zona.
             Vietovę,
-kurioje dėl ūkinės veiklos, avarijos, kitokio poveikio ar gamtinių priežasčių negrįžtamai
-degradavo aplinka ir ji nebetinka žmonėms gyventi, Aplinkos apsaugos
-ministerijos teikimu Lietuvos Respublikos Vyriausybė skelbia ekologinės
-nelaimės zona.
+kurioje dėl ūkinės veiklos, avarijos, kitokio poveikio ar gamtinių priežasčių
+negrįžtamai degradavo aplinka ir ji nebetinka žmonėms gyventi, Aplinkos
+apsaugos ministerijos teikimu Lietuvos Respublikos Vyriausybė skelbia
+ekologinės nelaimės zona.
             Vietovė,
 kuri paskelbiama ekologinės nelaimės zona, žymima specialiais ženklais.
             Ekologinio
 pavojaus ir ekologinės nelaimės zonose sustabdoma, ribojama arba uždraudžiama
-neigiamos įtakos aplinkai ir žmonių sveikatai turinti veikla. Ekologinio
-pavojaus zonos režimą nustato Aplinkos apsaugos ministerija, o ekologinės
-nelaimės zonos režimą - Lietuvos Respublikos Vyriausybė.
+neigiamos įtakos aplinkai ir žmonių sveikatai turinti veikla. Ekologinio pavojaus
+zonos režimą nustato Aplinkos apsaugos ministerija, o ekologinės nelaimės zonos
+režimą - Lietuvos Respublikos Vyriausybė.
             Ypatingųjų
 ekologinių situacijų metu juridiniai ir fiziniai asmenys šalina priežastis,
 likviduoja padarinius, vykdo kitas nustatyto režimo priemones.
@@ -678,11 +670,10 @@ sprendimus dėl gyventojų evakuacijos.
 nelaimių likvidavimo išlaidas atlygina kalti juridiniai ir fiziniai asmenys, o
 kitais atvejais - valstybė.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
-Nr. VIII-310, 97.06.26, Žin.,
-1997, Nr.65-1540 (97.07.09)
- 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
+Nr. VIII-310,
+97.06.26, Žin., 1997, Nr.65-1540 (97.07.09)
  
 V SKYRIUS. APLINKOS BŪKLĖS STEBĖJIMO IR NEIGIAMO
 POVEIKIO APLINKAI RIBOJIMO SISTEMA
@@ -701,8 +692,8 @@ monitoringą vykdo savo lėšomis.
 ir ūkio subjektų aplinkos monitoringo turinį, struktūrą bei vykdymo tvarką
 nustato Aplinkos monitoringo įstatymas.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             26
 straipsnis. Neigiamo poveikio aplinkai ribojimo sistema
@@ -719,18 +710,18 @@ Diegiant naujas technologijas, naujus gaminius ar
 medžiagas, jie turi atitikti aplinkos apsaugos ir kitų teisės aktų numatytus
 normatyvus, standartus.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
- 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
+Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr.39-1093 (00.05.12)
  
             27
 straipsnis. Neteko galios nuo 2000 m. gegužės 12 d.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
- 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
+Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr.39-1093 (00.05.12)
  
 VI SKYRIUS. EKONOMINIS APLINKOS APSAUGOS MECHANIZMAS
  
@@ -776,17 +767,26 @@ būti užsienio kreditai.
             Valstybinio
 gamtos apsaugos fondo sudarymo ir disponavimo juo tvarką nustato Lietuvos
 Respublikos Seimas.
-Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19)
  
+[3
+ir 4 dalių redakcija nuo 2001 m. sausio 1 d.:
+Aplinkos apsaugos rėmimo programos lėšos ir
+savivaldybių gamtos apsaugos fondai yra papildomi aplinkos apsaugos finansavimo
+šaltiniai. Papildomas finansavimo šaltinis gali būti užsienio kreditai.
+Aplinkos apsaugos rėmimo programos lėšas bei jų
+panaudojimo tvarką nustato Lietuvos Respublikos aplinkos apsaugos rėmimo
+programos įstatymas.]
+Straipsnio pakeitimai:
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
+Nr. VIII-2026, 00.10.12, Žin., 2000,
+Nr.90-2773 (00.10.27), įsigalioja nuo 2001.01.01
  
 VII skyrius. Aplinkos apsaugos valstybinė kontrolė ir
 teisinė atsakomybė
-Skyriaus pavadinimas
-pakeistas:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
+Skyriaus pavadinimas keistas:
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             31
 straipsnis. Valstybinė aplinkos apsaugos kontrolė
@@ -815,8 +815,8 @@ administracines nuobaudas;
 sustabdyti ir tikrinti Lietuvos Respublikos bei užsienio valstybių laivus,
 kitas vandens transporto priemones Lietuvos Respublikos vidaus, teritoriniuose
 vandenyse ir ekonominėje zonoje - vykdyti juose valstybinę aplinkos apsaugos ir
-gamtos išteklių naudojimo kontrolę, taip pat vykdyti šią kontrolę tarptautiniuose
-vandenyse esančiuose Lietuvos Respublikos laivuose;
+gamtos išteklių naudojimo kontrolę, taip pat vykdyti šią kontrolę
+tarptautiniuose vandenyse esančiuose Lietuvos Respublikos laivuose;
             6)
 kad būtų užkirstas kelias aplinkos apsaugos įstatymų pažeidimams, už kuriuos
 numatyta administracinė ar baudžiamoji atsakomybė, sustabdyti ir apžiūrėti
@@ -840,8 +840,8 @@ apsaugos ministerija, vykdydama valstybinę aplinkos apsaugos ir gamtos ištekli
 naudojimo kontrolę, steigia neetatinių aplinkos apsaugos inspektorių
 institucijas, tvirtina jų nuostatus.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             32
 straipsnis. Neteisėta veika padarytos žalos aplinkai atlyginimo būdai
@@ -851,8 +851,8 @@ gyvybei, kitų juridinių ir fizinių asmenų turtui bei interesams, privalo
 atlyginti visus nuostolius ir, esant galimybei, atstatyti aplinkos objekto
 būklę.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             33
 straipsnis. Ieškiniai dėl neteisėta veika padarytos žalos atlyginimo
@@ -865,8 +865,8 @@ juridiniai ir fiziniai asmenys, kurių sveikatai, turtui ar interesams padaryta
 Lietuvos Respublikos aplinkos apsaugos ministerijos pareigūnai, kiti įstatymų
 įgalioti pareigūnai, kai padaryta žalos valstybės interesams.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
             34
 straipsnis. Teisinė atsakomybė, ginčų aplinkos apsaugos klausimais nagrinėjimo
@@ -884,12 +884,12 @@ sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka, jeigu Lietuvos
 Respublikos tarptautinėse sutartyse nenumatyta kita šių ginčų nagrinėjimo ir
 sprendimo tvarka.
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin.,
-1996, Nr.57-1335 (96.06.19) 
- 
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
  
 VIII SKYRIUS. LIETUVOS RESPUBLIKOS TARPTAUTINIS
-BENDRADARBIAVIMAS APLINKOS APSAUGOS SRITYJE
+BENDRADARBIAVIMAS 
+APLINKOS APSAUGOS SRITYJE
  
             35
 straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas aplinkos
@@ -938,35 +938,46 @@ TARYBOS
 PIRMININKO
 PAVADUOTOJAS                               BRONISLOVAS KUZMICKAS
  
- 
 Vilnius,
 1992 m. sausio 21 d.
             Nr.I-2223
  
-_______________
+__________
  
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. I-1352, 96.05.28, Žin., 1996,
-Nr.57-1335 (96.06.19)
+Nr. I-1352,
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 LIETUVOS RESPUBLIKOS APLINKOS
 APSAUGOS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 2.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. VIII-310, 97.06.26, Žin.,
-1997, Nr.65-1540 (97.07.09)
+Nr. VIII-310,
+97.06.26, Žin., 1997, Nr.65-1540 (97.07.09)
 LIETUVOS RESPUBLIKOS APLINKOS
 APSAUGOS ĮSTATYMO 24 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 3.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
+Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr.39-1093 (00.05.12)
 APLINKOS APSAUGOS ĮSTATYMO 1, 7, 8, 15, 16, 26 STRAIPSNIŲ PAKEITIMO IR 27
 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
-***Pabaiga***
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2026, 00.10.12, Žin., 2000, Nr.90-2773
+(00.10.27)
+APLINKOS APSAUGOS ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2001
+m. sausio 1 d.
+ 
+*** Pabaiga ***
+ 
+ 
+Redagavo: Aušrinė Trapinskienė (2000.11.09)
