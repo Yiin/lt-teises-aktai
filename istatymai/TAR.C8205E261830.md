@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 1999-07-30 iki 2001-08-19
+Suvestinė redakcija nuo 2001-08-20 iki 2002-10-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -1263,6 +1263,13 @@ Asmenys, pažeidę vaiko teises, numatytas Lietuvos Respublikos Konstitucijoje, 
 
 
 2. Jeigu tėvas (motina) arba kitas teisėtas vaiko atstovas pažeidžia vaiko teises, žiauriai elgiasi su juo arba kitaip piktnaudžiauja savo teisėmis (pareigomis), pats vaikas ir kiti asmenys turi teisę kreiptis pagalbos į vaiko teisių apsaugos, teisėsaugos ar kitą instituciją, kuri privalo imtis įstatymų nustatytų priemonių.
+
+
+
+
+3. Kai tėvai (tėvas, motina) arba kitas teisėtas vaiko atstovas smurtaudamas arba kitaip sukeldamas pavojų vaikui piktnaudžiauja tėvų valdžia ir dėl to kyla reali grėsmė vaiko sveikatai ar gyvybei, valstybinė vaiko teisių apsaugos institucija arba valstybinė vaiko teisių apsaugos institucija kartu su policija nedelsdama paima vaiką iš tėvų arba kitų teisėtų vaiko atstovų ir perduoda jį globoti (rūpintis) Civilinio kodekso nustatyta tvarka. Šiuo atveju policijos pareigūnas turi teises, numatytas Lietuvos Respublikos policijos veiklos įstatymo 18 straipsnio 1 dalies 3 punkte. Paėmusi vaiką, valstybinė vaiko teisių apsaugos institucija apie tai nedelsdama praneša vaiko tėvams ar kitiems teisėtiems jo atstovams. 
+Papildyta straipsnio dalimi:
+Nr. IX-495, 2001-08-03, Žin., 2001, Nr. 71-2523 (2001-08-17), i. k. 1011010ISTA00IX-495
  
 
 
@@ -1423,3 +1430,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1315, 1999-07-07, Žin., 1999, Nr. 66-2129 (1999-07-30), i. k. 0991010ISTAIII-1315
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 62 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-495, 2001-08-03, Žin., 2001, Nr. 71-2523 (2001-08-17), i. k. 1011010ISTA00IX-495
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 56 straipsnio papildymo įstatymas
