@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Suvestinė redakcija nuo 1991-01-12 iki 1991-01-23
+Suvestinė redakcija nuo 1991-01-24 iki 1991-03-05
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
  
@@ -80,7 +80,10 @@ kolegialiai svarsto klausimus, priima sprendimus ir užtikrina asmeninę Lietuvo
 
 4 straipsnis. Lietuvos Respublikos Vyriausybės sudėtis. Lietuvos Respublikos Vyriausybės sudarymo tvarka
 
-Lietuvos Respublikos Vyriausybė sudaroma šios sudėties: Lietuvos Respublikos Vyriausybės Pirmininkas (Ministras Pirmininkas), jo pavaduotojai ir Lietuvos Respublikos ministrai.
+Lietuvos Respublikos Vyriausybė sudaroma šios sudėties: Lietuvos Respublikos Vyriausybės Pirmininkas (Ministras Pirmininkas), jo pavaduotojai ir Lietuvos Respublikos ministrai. Lietuvos Respublikos Vyriausybėje gali būti ministras be portfelio.
+Straipsnio dalies pakeitimai:
+Nr. I-979, 1991-01-22, Lietuvos aidas, 1991, Nr. 16-0 (1991-01-23); Žin., 1991, Nr. 4-109 (1991-02-10), i. k. 0911010ISTA000I-979
+ 
 
 Lietuvos Respublikos Vyriausybės nariu gali būti tik Lietuvos pilietis, skiriamas ne daugiau kaip dviem kadencijoms paeiliui.
 
@@ -422,13 +425,20 @@ Lietuvos Respublikos Vyriausybės potvarkius pasirašo Lietuvos Respublikos Vyri
 
 30 straipsnis. Lietuvos Respublikos Vyriausybės aparatas
 
-Lietuvos Respublikos Vyriausybės aparatas yra Vyriausybės reikalų valdyba.
+Lietuvos Respublikos Vyriausybės aparatui vadovauja vienas iš Lietuvos Respublikos Vyriausybės Pirmininko (Ministro Pirmininko) pavaduotojų arba ministras be portfelio. 
+Straipsnio dalies pakeitimai:
+Nr. I-979, 1991-01-22, Lietuvos aidas, 1991, Nr. 16-0 (1991-01-23); Žin., 1991, Nr. 4-109 (1991-02-10), i. k. 0911010ISTA000I-979
+ 
 
-Reikalų valdybos funkcijas nustato Lietuvos Respublikos Vyriausybės tvirtinami nuostatai.
+Vyriausybės aparato struktūrą ir funkcijas tvirtina Lietuvos Respublikos Vyriausybės Pirmininkas (Ministras Pirmininkas). 
+Straipsnio dalies pakeitimai:
+Nr. I-979, 1991-01-22, Lietuvos aidas, 1991, Nr. 16-0 (1991-01-23); Žin., 1991, Nr. 4-109 (1991-02-10), i. k. 0911010ISTA000I-979
+ 
 
-Reikalų valdybos struktūrą tvirtina Lietuvos Respublikos Vyriausybės Pirmininkas (Ministras Pirmininkas).
-
-Lietuvos Respublikos Vyriausybės Pirmininkui (Ministrui Pirmininkui), Lietuvos Respublikos Vyriausybės nariams svarbiais valstybės valdymo ir ekonomikos klausimais konsultuoti Reikalų valdyboje įvedamos Vyriausybės patarėjų ir ekspertų pareigybės.
+Lietuvos Respublikos Vyriausybės Pirmininkui (Ministrui Pirmininkui), Lietuvos Respublikos Vyriausybės nariams svarbiais valstybės valdymo ir ekonomikos klausimais konsultuoti įvedamos Vyriausybės patarėjų ir ekspertų pareigybės.
+Straipsnio dalies pakeitimai:
+Nr. I-979, 1991-01-22, Lietuvos aidas, 1991, Nr. 16-0 (1991-01-23); Žin., 1991, Nr. 4-109 (1991-02-10), i. k. 0911010ISTA000I-979
+ 
 
 Vyriausybės patarėjus skiria ir atleidžia iš pareigų Lietuvos Respublikos Vyriausybės Pirmininkas (Ministras Pirmininkas).
 
@@ -472,4 +482,9 @@ Dėl Lietuvos Respublikos Vyriausybės įstatymo kai kurių straipsnių pakeitim
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-922, 1991-01-09, Lietuvos aidas, 1991, Nr. 7-0 (1991-01-11); Žin., 1991, Nr. 2-45 (1991-01-20), i. k. 0911010ISTA000I-922
 Dėl Lietuvos Respublikos Vyriausybės įstatymo 9 straipsnio pakeitimo
+ 
+6.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-979, 1991-01-22, Lietuvos aidas, 1991, Nr. 16-0 (1991-01-23); Žin., 1991, Nr. 4-109 (1991-02-10), i. k. 0911010ISTA000I-979
+Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo ir papildymo
 
