@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.897569AA8270"
 
 # Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymas
 
+Suvestinė redakcija nuo 1994-04-22 iki 1996-06-30
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 75-0; Žin. 1991, Nr.12-309, i. k. 0911010ISTA00I-1188
+ 
+ 
 LIETUVOS RESPUBLIKOS
 MOKESČIŲ UŽ APLINKOS TERŠIMĄ
 ĮSTATYMAS
@@ -315,7 +320,12 @@ Mokesčių už vandens teršimą pagrindiniai tarifai
  Vinilacetatas 
  2320 
 
+Iš Panevėžio miesto ir Panevėžio rajono įmonių į Nevėžio upę išmetamiems teršalams pagrindiniai tarifai didinami 2 kartus.
+ 
 ______________
+Priedo pakeitimai:
+Nr. I-427, 1994-04-12, Žin., 1994, Nr. 30-528 (1994-04-22), i. k. 0941010ISTA000I-427
+ 
 
  
  
@@ -763,4 +773,12 @@ N – normatyvas (t).
 ______________
 * Mažiau kaip 50 procentų LDT neapmokestinama
 ______________
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-427, 1994-04-12, Žin., 1994, Nr. 30-528 (1994-04-22), i. k. 0941010ISTA000I-427
+Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo papildymo
 
