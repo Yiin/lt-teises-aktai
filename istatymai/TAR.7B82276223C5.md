@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7B82276223C5"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
-Ramunė Lūžaitė (1998.03.02)
+Ramunė Lūžaitė (1998.06.24)
  
 Įstatymas
 paskelbtas: Žin., 1991, Nr.2-22
@@ -82,6 +82,15 @@ LIETUVOS
 RESPUBLIKOS POLICIJOS ĮSTATYMO 5, 27 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
  
+7.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr.
+VIII-772, 98.06.09, Žin., 1998, Nr.57-1579 (98.06.24)
+LIETUVOS
+RESPUBLIKOS POLICIJOS ĮSTATYMO 48 STRAIPSNIO PAKEITIMO IR PAPILDYMO 48(1)
+STRAIPNIU ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -103,12 +112,14 @@ policijos uždaviniai  yra nusikaltimų  bei kitokių teisės pažeidimų prev
 nusikaltimų atskleidimas ir tyrimas, viešosios tvarkos, visuomeninės rimties
 bei saugumo, piliečių teisių, laisvių ir turto apsauga, valstybės sienų
 apsauga, taip pat pagal kompetenciją aplinkos apsauga. Be to, policija vykdo
-eismo saugumo priežiūrą, teikia neatidėliotiną ir kitokią socialinę pagalbą gyventojams.
+eismo saugumo priežiūrą, teikia neatidėliotiną ir kitokią socialinę pagalbą
+gyventojams.
      Policija
 gina  visus Lietuvos Respublikos piliečius ir organizacijas,  taip  pat 
 asmenis,  esančius  Respublikos teritorijoje  ir  priklausančius  Respublikos 
-jurisdikcijai, nepriklausomai nuo jų pilietybės, tautybės, kilmės, socialinės ir
-turtinės padėties, visuomeninių, politinių pažiūrų, tikybos ir kitų aplinkybių.
+jurisdikcijai, nepriklausomai nuo jų pilietybės, tautybės, kilmės, socialinės
+ir turtinės padėties, visuomeninių, politinių pažiūrų, tikybos ir kitų
+aplinkybių.
  
 Straipsnio
 pakeitimai:
@@ -131,10 +142,10 @@ straipsnis. Policijos veiklos teisiniai pagrindai
      Policija 
 vadovaujasi  Lietuvos  Respublikos  Laikinuoju Pagrindiniu Įstatymu 
 (Konstitucija), šiuo  įstatymu, kitais Lietuvos Respublikos įstatymais,
-Lietuvos Respublikos Vyriausybės nutarimais ir potvarkiais, Lietuvos Respublikos
-vidaus reikalų ministerijos norminiais aktais, o savivaldybių policija savo
-veikloje -  ir savivaldybių  valdžios bei  valdymo  organų sprendimais, 
-neprieštaraujančiais  Lietuvos   Respublikos įstatymams.
+Lietuvos Respublikos Vyriausybės nutarimais ir potvarkiais, Lietuvos
+Respublikos vidaus reikalų ministerijos norminiais aktais, o savivaldybių
+policija savo veikloje -  ir savivaldybių  valdžios bei  valdymo  organų
+sprendimais,  neprieštaraujančiais  Lietuvos   Respublikos įstatymams.
  
      4
 straipsnis. Policijos veiklos viešumas
@@ -154,9 +165,9 @@ draudžiama.
 negali skelbti žinių, kurios yra valstybinė, krašto apsaugos, komercinė ar
 tarnybinė paslaptis. Taip pat neskelbiama tarnybinės veiklos metu gauta
 informacija, kuri gali pakenkti piliečių garbei, orumui bei saugumui, policijos
-pareigūno ar jo šeimos narių  saugumui, organizacijų  teisėtiems interesams, sutrukdyti
-nusikaltimų išaiškinimą arba sąlygoti jų padarymą, jeigu pareigos vykdymas ar
-teisingumas tiesiogiai nereikalauja kitko.
+pareigūno ar jo šeimos narių  saugumui, organizacijų  teisėtiems interesams,
+sutrukdyti nusikaltimų išaiškinimą arba sąlygoti jų padarymą, jeigu pareigos
+vykdymas ar teisingumas tiesiogiai nereikalauja kitko.
  
      5
 straipsnis. Policijos pareigūnas ir jo teisinis statusas
@@ -238,9 +249,9 @@ straipsnis. Profesinių interesų įgyvendinimas
  
      Policijos
 pareigūnai  gali steigti  draugijas,  klubus, profesines sąjungas ir kitus
-susivienijimus, tenkinančius jų profesinius, kultūrinius ir socialinius
-poreikius. Jų veiklą reglamentuoja įstatymo numatyta tvarka priimti ir
-užregistruoti įstatai (nuostatai).
+susivienijimus, tenkinančius jų profesinius, kultūrinius ir socialinius poreikius.
+Jų veiklą reglamentuoja įstatymo numatyta tvarka priimti ir užregistruoti
+įstatai (nuostatai).
      Policijos
 pareigūnams draudžiama streikuoti.
  
@@ -278,7 +289,6 @@ ar kompetentingą kontroliuoti policijos veiklą organą arba teismą.
         
         POLICIJOS ORGANIZACIJA. POLICIJOS FUNKCIJOS 
  
- 
      12
 straipsnis. Policijos organizacija ir struktūra
  
@@ -287,8 +297,8 @@ Lietuvos Respublikos policijos sistemą sudaro Lietuvos Respublikos vidaus
 reikalų ministerijos Policijos departamento vadovaujamos respublikinės ir
 savivaldybių policijos tarnybos bei struktūriniai padaliniai, Pasienio
 policijos departamento prie Vidaus reikalų ministerijos padaliniai, Mokesčių
-policijos departamento prie Vidaus reikalų ministerijos padaliniai ir Specialiųjų
-tyrimų tarnybos prie Vidaus reikalų ministerijos padaliniai.
+policijos departamento prie Vidaus reikalų ministerijos padaliniai ir
+Specialiųjų tyrimų tarnybos prie Vidaus reikalų ministerijos padaliniai.
     
 Policijos departamentui vadovauja generalinis komisaras. Jį skiria ir atleidžia
 vidaus reikalų ministras. Pasienio policijos departamentui prie Vidaus
@@ -396,8 +406,8 @@ atleidžia miesto (rajono) policijos komisaras.
 komisarui suteikiami kvotos organo vadovo bei pareigūno,  kompetentingo 
 nagrinėti  administracinės  teisės pažeidimų bylas,  įgaliojimai.
      Kitus  
-savivaldybių  policijos pareigūnus   skiria miesto  (rajono)  policijos 
-komisaras savivaldybių policijos komisaro teikimu.
+savivaldybių  policijos pareigūnus   skiria miesto  (rajono)  policijos  komisaras
+savivaldybių policijos komisaro teikimu.
      Nuovadų
 sudarymas ir aptarnaujamos teritorijos nustatymas yra valstybės deleguotoji
 savivaldybės funkcija.
@@ -417,8 +427,8 @@ straipsnis. Savivaldybių policijos uždaviniai
      Savivaldybių
 policija savo teritorijoje vykdo teisėtvarkos pažeidimų prevenciją, saugo
 viešąją tvarką ir visuomeninę rimtį, užtikrina piliečių teisių ir teisėtų
-interesų apsaugą, taip pat pagal savo kompetenciją - ir aplinkos apsaugą;
-atlieka kvotą įstatymo nustatyta tvarka jų kompetencijai skirtose bylose; vykdo
+interesų apsaugą, taip pat pagal savo kompetenciją - ir aplinkos apsaugą; atlieka
+kvotą įstatymo nustatyta tvarka jų kompetencijai skirtose bylose; vykdo
 atitinkamos savivaldybės teritorijoje esančių teismų pavedimus; padeda kelių 
 policijai savo  teritorijoje užtikrinti eismo saugumą.
  
@@ -582,8 +592,8 @@ jų prevencijos tikslais ir yra operatyvinių policijos tarnybų išimtinė teis
  
      21
 straipsnis. Viešiosios tvarkos, visuomeninės rimties ir
-                   
-saugumo, piliečių teisių ir laisvių apsauga
+         
+          saugumo, piliečių teisių ir laisvių apsauga
  
      Policija:
      1)
@@ -595,8 +605,9 @@ vykdo įstatymus dėl kovos su nusikaltimais, girtavimu, narkotikų vartojimu, 
 prostitucija, kitais antivisuomeniniais reiškiniais;
      4)
 prižiūri, kad būtų laikomasi nustatytos tvarkos įgyjant, laikant, saugant,
-perduodant šaunamuosius ginklus, šaudmenis, sprogstamąsias medžiagas, narkotines
-priemones ir kitus leidimų sistemos reglamentuojamus daiktus bei medžiagas;
+perduodant šaunamuosius ginklus, šaudmenis, sprogstamąsias medžiagas,
+narkotines priemones ir kitus leidimų sistemos reglamentuojamus daiktus bei
+medžiagas;
      5)
 surašo  administracinių teisės pažeidimų protokolus, nagrinėja tokių  pažeidimų
 bylas, teisės pažeidėjams skiria administracines nuobaudas  bei taiko  kitas 
@@ -605,9 +616,9 @@ administracines prievartos priemones;
 įstatymo  numatytais atvejais  saugo ir  konvojuoja sulaikytuosius asmenis,
 vykdo teismų ir tardytojų nutarimus baudžiamosiose bylose;
      7)
-užtikrina viešąją tvarką, teismo vykdytojams, valstybės kontrolieriams, medicinos
-personalui ir kitiems pareigūnams ar tarnautojams vykdant įstatymo nustatyta
-tvarka pavestas pareigas.
+užtikrina viešąją tvarką, teismo vykdytojams, valstybės kontrolieriams,
+medicinos personalui ir kitiems pareigūnams ar tarnautojams vykdant įstatymo
+nustatyta tvarka pavestas pareigas.
  
      21-1
 straipsnis. Valstybės sienų apsauga
@@ -738,8 +749,8 @@ nelaukdamos atskiro įsakymo ar nurodymo.
  
      25
 straipsnis. Priėmimas tarnybon. Tarnybos policijoje teisinis 
-                   
-reguliavimas
+                  
+ reguliavimas
  
      Į
 tarnybą policijoje savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip
@@ -806,9 +817,9 @@ atsisakiusieji prisiekti, į policiją nepriimami.
      27
 straipsnis. Pareiginiai laipsniai
  
-Policijos pareigūnų tarnybos stažui,
-kvalifikacijai ir einamoms pareigoms pažymėti bei santykiams reguliuoti yra šie
-pareiginiai laipsniai:
+Policijos pareigūnų tarnybos stažui, kvalifikacijai
+ir einamoms pareigoms pažymėti bei santykiams reguliuoti yra šie pareiginiai
+laipsniai:
 policininkas stažuotojas
 policininkas
 vyresnysis policininkas
@@ -917,13 +928,12 @@ Respublikos  policijos įstaigos turi policijos rezervą. Jį  sudaro policijo
 pareigūnai,  dėl  objektyvių priežasčių atleisti iš tarnybos ir jų sutikimu
 perkelti į policijos rezervą, bei tinkantys tarnybai policijoje Lietuvos
 Respublikos piliečiai, kurie pasižada sąžiningai ir dorai vykdyti jiems
-patikėtas pareigas. Asmenys į policijos rezervą atrenkami pagal  šiame  įstatyme 
-numatytus  bendruosius  policijos komplektavimo reikalavimus.
+patikėtas pareigas. Asmenys į policijos rezervą atrenkami pagal  šiame 
+įstatyme  numatytus  bendruosius  policijos komplektavimo reikalavimus.
      Piliečiai,
 esantys  policijos rezerve,  gauna nustatyto pavyzdžio pažymėjimus,  yra
 mokomi,  aprūpinami apranga  ir amunicija valstybės lėšomis. Tarnybos metu jie
-vykdo policijos pareigūnų funkcijas, turėdami bendrąsias jų teises bei
-pareigas.
+vykdo policijos pareigūnų funkcijas, turėdami bendrąsias jų teises bei pareigas.
      Įtraukimo
 į policijos rezervą sąlygas ir tvarką nustato Lietuvos Respublikos  policijos
 rezervo  nuostatai,  kuriuos tvirtina Vyriausybė.
@@ -947,18 +957,17 @@ organizuojami perkvalifikavimo kursai.
          POLICIJOS PAREIGŪNŲ TEISĖS, PAREIGOS,
 ATSAKOMYBĖ
  
- 
      33
 straipsnis. Policijos pareigūnų bendrosios ir specialiosios teisės 
-    
-               bei pareigos
+                   
+bei pareigos
  
      Policijos
 pareigūnai turi Lietuvos Respublikos Laikinajame Pagrindiniame Įstatyme
 (Konstitucijoje) ir kituose įstatymuose įtvirtintas socialines,  ekonomines,
 politines  ir asmenines Lietuvos Respublikos piliečių teises bei laisves.
      Policijos
-pareigūnai  turi bendrąsias  ir specialiąsias profesines teises ir pareigas.
+pareigūnai  turi bendrąsias  ir specialiąsias profesines teises ir pareigas.
      Bendrąsias
 profesines teises ir pareigas turi visi policijos pareigūnai.  Specialiosios 
 profesinės  teisės  ir  pareigos suteikiamos policijos  pareigūnams,
@@ -977,9 +986,9 @@ prievartą;
 įtarus teisės pažeidimą ir pareiškus apie tai piliečiui ar pareigūnui, tikrinti
 jų asmens dokumentus;
      3)
-pristatyti teisėtvarkos pažeidėjus į policiją ar kitas tarnybines patalpas ne
-ilgiau kaip 3 valandoms jų asmenybei nustatyti, protokolams, aktams,
-pranešimams surašyti, asmenims ir jų turimiems daiktams apžiūrėti;
+pristatyti teisėtvarkos pažeidėjus į policiją ar kitas tarnybines patalpas ne ilgiau
+kaip 3 valandoms jų asmenybei nustatyti, protokolams, aktams, pranešimams
+surašyti, asmenims ir jų turimiems daiktams apžiūrėti;
      4)
 šiame įstatyme numatytais atvejais panaudoti šaunamuosius ginklus,
 specialiąsias priemones, kovinių imtynių veiksmus;
@@ -1041,10 +1050,10 @@ ypatingų situacijų atvejais;
      6)
 vykdydamas tarnybines pareigas, policijos pareigūnas privalo prisistatyti. Jei
 neturi skiriamųjų policijos ženklų ar asmeniui pareikalavus - pateikti
-tarnybinį pažymėjimą. Policijos pareigūnų veiksmai, kuriais laikinai
-apribojamos piliečių teisės, palydimi žodžiais  "Įstatymo vardu". 
-Kiekvienas  asmuo  ir pareigūnas tokiu atveju privalo besąlygiškai paklusti ir
-vykdyti policijos pareigūno reikalavimus;
+tarnybinį pažymėjimą. Policijos pareigūnų veiksmai, kuriais laikinai apribojamos
+piliečių teisės, palydimi žodžiais  "Įstatymo vardu".  Kiekvienas 
+asmuo  ir pareigūnas tokiu atveju privalo besąlygiškai paklusti ir vykdyti
+policijos pareigūno reikalavimus;
      7)
 laikyti paslaptyje konfidencialaus pobūdžio informaciją, jeigu ko kito
 nereikalauja tarnybinių pareigų ar teisių vykdymas.
@@ -1054,8 +1063,8 @@ užtikrinti ir saugoti jų teises bei laisves.
  
      36
 straipsnis. Policijos pareigūnų teisės vykdant nusikaltimų ir 
-                   
-teisės pažeidimų prevenciją
+     
+              teisės pažeidimų prevenciją
  
      Policijos 
 pareigūnas,  vykdydamas  teisės  pažeidimų prevenciją, turi teisę:
@@ -1088,12 +1097,13 @@ garso įrašus, fotografuoti,  dalyvaujant medikams, atlikti apžiūrą ypating
 žymėms nustatyti. Prireikus iš tokio asmens leidžiama paimti rašysenos 
 pavyzdžius, laikinai - taip pat daiktus, galinčius padėti nustatyti asmenybę;
      7)
-tikrinti  asmenis, ketinančius  skristi lėktuvu, jų daiktus, rankinį bagažą; neleisti
-skristi keleiviams, kurie atsisako tai  pateikti apžiūrai,  taip pat  kurie 
-pateikė negaliojančius ar suklastotus dokumentus, pas kuriuos rasta uždraustų
-pervežti  daiktų; surašyti  administracinio teisės pažeidimo protokolą;
+tikrinti  asmenis, ketinančius  skristi lėktuvu, jų daiktus, rankinį bagažą;
+neleisti skristi keleiviams, kurie atsisako tai  pateikti apžiūrai,  taip pat 
+kurie  pateikė negaliojančius ar suklastotus dokumentus, pas kuriuos rasta
+uždraustų pervežti  daiktų; surašyti  administracinio teisės pažeidimo
+protokolą;
      8) 
-pristatyti  į  medicinos  įstaigas  priverstiniam patikrinimui dėl venerinių
+pristatyti  į  medicinos  įstaigas  priverstiniam patikrinimui dėl venerinių
 ligų ir AIDS, narkomanus, prostitutes, homoseksualistus ir kitus asmenis,
 įrašytus į profilaktines medicinos įstaigų ar policijos įskaitas;
      9)
@@ -1133,12 +1143,12 @@ reikalauti, kad būtų sutvarkyta buhalterinė apskaita;
 d) pasitelkti atitinkamus specialistus, 
 reikalauti ir gauti iš vadovų, pareigūnų, materialiai atsakingų ir kitų asmenų
 duomenis, paaiškinimus dėl pažeidimų ar nusikaltimų;
-e) rengti pasalas ir įstatymo nustatyta
-tvarka atlikti transporto, piliečių bei jų asmeninio bagažo apžiūrą mobiliuose
-ar stacionariniuose kontrolės punktuose;
+e) rengti pasalas ir įstatymo nustatyta tvarka
+atlikti transporto, piliečių bei jų asmeninio bagažo apžiūrą mobiliuose ar
+stacionariniuose kontrolės punktuose;
      4)
-nekliudomai  įeiti į  visų rūšių  įmonių, įstaigų, organizacijų patalpas jų darbo
-metu, o ne darbo metu - su tos įmonės, įstaigos  ar organizacijos 
+nekliudomai  įeiti į  visų rūšių  įmonių, įstaigų, organizacijų patalpas jų
+darbo metu, o ne darbo metu - su tos įmonės, įstaigos  ar organizacijos 
 administracijos atstovu, savininku arba jo atstovu;
      5)
 pavesti daryti kriminalistinius ir kitokius tyrimus bei ekspertizes;
@@ -1160,8 +1170,8 @@ visuomeninę rimtį, piliečių teises ir laisves
 pareigūnas,  saugantis  viešąją  tvarką  ir visuomeninę rimtį, užtikrinantis
 visuomenės saugumą, piliečių teises ir laisves, turi teisę:
      1)
-reikalauti  iš piliečių ir pareigūnų, pažeidžiančių teisėtvarką, nutraukti neteisėtus
-veiksmus, o prireikus - juos įspėti;
+reikalauti  iš piliečių ir pareigūnų, pažeidžiančių teisėtvarką, nutraukti
+neteisėtus veiksmus, o prireikus - juos įspėti;
      2)
 atlikdamas tarnybines pareigas, turėti ir šio įstatymo numatytais atvejais
 panaudoti šaunamąjį ginklą bei specialiąsias policijos priemones;
@@ -1220,8 +1230,8 @@ taip pat kurių variklio, kėbulo (rėmo)  ar važiuoklės  numeriai  neatiti
  
      39-1
 straipsnis. Pasienio policijos pareigūnų teisės užtikrinant 
-            
-         valstybės sienų apsaugą
+                     
+valstybės sienų apsaugą
  
      Pasienio
 policijos pareigūnai, atlikdami tarnybines pareigas tose vietose, kuriose
@@ -1237,9 +1247,10 @@ pažeidėjus pristatyti į pasienio policijos, teisėsaugos institucijų, muitin
 tarnybines patalpas kvotai ar asmens indentifikavimo veiksmams atlikti;
      4)
 sustabdyti  ir apžiūrėti  transporto priemones; jei nustatomas pasienio  režimo
-pažeidimas, transporto priemones sulaikyti; asmenims, esantiems transporto priemonėje,
-atsisakius paklusti, panaudoti šio įstatymo 41-43 straipsniuose numatytas
-poveikio priemones ir jėgą, kad būtų galima patekti į transporto priemonę;
+pažeidimas, transporto priemones sulaikyti; asmenims, esantiems transporto
+priemonėje, atsisakius paklusti, panaudoti šio įstatymo 41-43 straipsniuose
+numatytas poveikio priemones ir jėgą, kad būtų galima patekti į transporto
+priemonę;
      5)
 pasienio  ruože ir kitose vietose, kuriose galioja pasienio režimas (ne
 muitinės priežiūros zonoje), atlikti poėmį uždraustiems vežti daiktams ir
@@ -1268,7 +1279,8 @@ tarnybines pareigas, turi teisę:
 1) areštuoti asmens turtą bei sąskaitas
 banke, jeigu nustatyta tvarka nesumokėti mokesčiai. Sprendimą šiais klausimais
 gali priimti Mokesčių policijos departamento prie Vidaus reikalų ministerijos
-vyriausiasis komisaras, vyresnieji komisarai, komisarai ir komisarai-inspektoriai;
+vyriausiasis komisaras, vyresnieji komisarai, komisarai ir
+komisarai-inspektoriai;
 2) duoti raštiškus nurodymus banko įstaigoms
 nutraukti pinigų išmokėjimą bei pervedimą iš įmonių bei fizinių asmenų
 sąskaitų, jeigu nustatytos neteisėtos finansinės operacijos ar trukdoma atlikti
@@ -1315,8 +1327,8 @@ straipsnis. Policijos pareigūno atsakomybė
 pareigūnas asmeniškai atsako už savo veiksmus ir sprendimus bei jų pasekmes.
      Policijos
 pareigūnas, vykdydamas jam patikėtas pareigas pažeidęs įstatymo  reikalavimus,
-įstatymų  nustatyta  tvarka traukiamas  drausminėn,  administracinėn,  materialinėn 
-ar baudžiamojon atsakomybėn, atsižvelgiant į pažeidimo pobūdį.
+įstatymų  nustatyta  tvarka traukiamas  drausminėn,  administracinėn, 
+materialinėn  ar baudžiamojon atsakomybėn, atsižvelgiant į pažeidimo pobūdį.
      Žinomai
 nusikalstamo, neteisėto įsakymo ar nurodymo vykdymas policijos pareigūno nuo
 atsakomybės neatleidžia.
@@ -1339,7 +1351,6 @@ būdu neperkelti į aukštesnįjį kursą atsisako nustatytą laiką dirbti poli
 V SKIRSNIS.
     
 POLICIJOS GINKLAI IR SPECIALIOSIOS PRIEMONĖS, JŲ NAUDOJIMO SĄLYGOS
- 
  
      41
 straipsnis. Šaunamųjų ginklų ir specialiųjų priemonių naudojimo 
@@ -1433,8 +1444,8 @@ dalies 1-8 punktuose, taip pat sulaikant asmenį, pažeidžiantį viešąją tva
 jeigu jis neklauso policijos pareigūno reikalavimų ar priešinasi jam;
      2)
 antrankius  bei surišimo  priemones - sulaikant ir pristatant į policiją
-asmenį, padariusį pavojingą visuomenei veiką, jeigu yra pagrindo manyti, kad jis
-gali pasipriešinti policijos pareigūnui arba bando išvengti sulaikymo;
+asmenį, padariusį pavojingą visuomenei veiką, jeigu yra pagrindo manyti, kad
+jis gali pasipriešinti policijos pareigūnui arba bando išvengti sulaikymo;
      -
 lydint sulaikytuosius bei suimtuosius;
      -
@@ -1488,7 +1499,6 @@ VI SKIRSNIS.
        
          POLICIJOS PAREIGŪNŲ SOCIALINĖS GARANTIJOS
  
- 
      44
 straipsnis. Aprūpinimas butais
  
@@ -1521,8 +1531,8 @@ pareiginį  laipsnį,  kvalifikacinę kategoriją, ištarnautą laiką, taip p
 priemokos (pagal darbo įstatymų kodeksą) už darbą poilsio ir švenčių dienomis,
 už darbą nakties metu bei viršvalandinį darbą. Be to, mokami priedai už
 tarnybos atlikimo sąlygas ir vietą, užsienio kalbų mokėjimą, taip pat
-šeimyniniai  ir specialūs  priedai  už  slaptą  darbą, kompensuojamos
-persikėlimo  išlaidos, išmokamos  vienkartinės pašalpos bei kitos išmokos.
+šeimyniniai  ir specialūs  priedai  už  slaptą  darbą, kompensuojamos persikėlimo 
+išlaidos, išmokamos  vienkartinės pašalpos bei kitos išmokos.
      Pagrindinės 
 algos,  papildomo  apmokėjimo,  priedų, kompensacijų, pašalpų ir kitų išmokų
 dydį bei skyrimo tvarką reguliuoja Lietuvos Respublikos įstatymai ir nustato
@@ -1576,28 +1586,84 @@ I-1338, 91.05.21, Žin., 1991, Nr. 16-410
 Nr.
 I-1080, 95.10.31, Žin., 1995, Nr. 92-2056 (95.11.10) 
  
-     48
-straipsnis. Kompensacijos policijos pareigūnams
+48 straipsnis. Policijos pareigūnų draudimas 
  
-     Žuvus
-policijos pareigūnui, vykdžiusiam tarnybines pareigas, jo šeimai išmokama
-vienkartinė dešimties metų (120 mėnesių) darbo užmokesčio dydžio kompensacija.
-Jis laidojamas valstybės lėšomis pagal gyvenamosios vietos papročius.
+Policijos pareigūnų gyvybė ir sveikata
+privalomai draudžiama valstybės biudžeto lėšomis nuo nelaimingų atsitikimų
+tarnybinių pareigų vykdymo metu. Policijos pareigūnas apdraudžiamas suma, lygia
+jo darbo užmokesčiui, kuris mokamas draudiminio įvykio mėnesį, padaugintam iš
+12, bet ne didesne kaip 48 Vyriausybės nustatytos minimalios mėnesinės algos. 
+Pripažinimo draudiminiais įvykiais atvejus,
+draudimo išmokų dydžius, atsižvelgiant į sveikatos sutrikimo laipsnį, ir
+išmokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+Draudimo išmokos nemokamos, jeigu:
+1) pareigūnas žuvo ar susižalojo darydamas
+tyčinį nusikaltimą;
+2) pareigūno žuvimo ar susižalojimo
+priežastis buvo su tarnybinių pareigų vykdymu nesusijęs apsvaigimas nuo
+alkoholio, narkotinių, psichotropinių ar toksinių medžiagų;
+3) pareigūnas nusižudė, kėsinosi nusižudyti
+ar tyčia save sužalojo;
+4) pareigūno žuvimo ar susižalojimo
+priežastis buvo transporto priemonės vairavimas neturint teisės ją vairuoti
+arba perdavimas ją vairuoti asmeniui, apsvaigusiam nuo alkoholio, narkotinių,
+psichotropinių ar toksinių medžiagų arba neturinčiam teisės ją vairuoti;
+5) pareigūno sveikata sutriko ar jis mirė dėl
+ligos ar karo veiksmų ir jei tai nesusiję su tarnybinių pareigų vykdymu.
+   
+Teisės akademijos Policijos fakulteto studentų gyvybė ir sveikata, remiantis
+šio straipsnio 2 ir 3 dalimis, privalomai draudžiama valstybės biudžeto lėšomis
+nuo nelaimingų atsitikimų viešosios tvarkos palaikymo, praktikos bei stažuotės
+policijoje metu, taip pat tarnybinių ir specialaus policijos rengimo užsiėmimų
+metu. Studentas apdraudžiamas suma, lygia draudiminio įvykio metu esančiam
+minimaliam darbo užmokesčiui, padaugintam iš 12.
  
-     Policijos
-pareigūnui, kuris buvo sužeistas ryšium su tarnyba policijoje, išmokama nuo
+Straipsnio
+pakeitimai:
+Nr.
+VIII-772, 98.06.09, Žin., 1998, Nr.57-1579 (98.06.24)
+ 
+48(1) straipsnis.
+Kompensacijos policijos pareigūno žūties ar 
+                 sveikatos
+sutrikimo atveju
+ 
+Žuvus tarnybines pareigas vykdžiusiam
+policijos pareigūnui, lygiomis dalimis išmokama vienkartinė dešimties metų (120
+mėnesių) darbo užmokesčio dydžio kompensacija jo sutuoktiniui, nepilnamečiams
+vaikams (įvaikiams), iki jiems sukaks 16 metų, taip pat vaikams (įvaikiams),
+besimokantiems nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose
+skyriuose, iki jiems sukaks 24 metai, žuvusiojo vaikams, gimusiems po jo
+mirties, tėvui (motinai) bei nedarbingiems asmenims, kurie buvo žuvusiojo
+išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą. Žuvusysis
+laidojamas valstybės lėšomis.
+Policijos pareigūnui, kuris buvo sužalotas
+vykdydamas tarnybines pareigas ir dėl to liko sveikatos pakitimų bei sumažėjo
+jo tinkamumas tarnybai, neatsižvelgiant į draudimo išmokas, išmokama nuo
 vienerių iki penkerių metų (nuo 12 iki 60 mėnesių) darbo užmokesčio dydžio
-kompensacija priklausomai nuo kūno sužalojimų sunkumo laipsnio.
-     Policijos
-pareigūnams atlyginama materialinė žala, kurią jie patiria ryšium su tarnyba
-policijoje. 
+kompensacija.
+Kompensacijų dydžius, atsižvelgiant į
+sveikatos sutrikimo laipsnį, ir kompensacijų išmokėjimo tvarką nustato
+Vyriausybė arba jos įgaliota institucija.
+Kompensacijos nemokamos šio įstatymo 48
+straipsnio 3 dalyje nurodytais atvejais.
+Ar policijos pareigūno žūtis arba sveikatos
+sužalojimas susijęs su tarnybinių pareigų vykdymu, nustatoma vidaus reikalų
+ministro nustatyta tvarka.
+    
+Policijos pareigūnams atlyginama materialinė žala, tiesiogiai susijusi su jo
+tarnybinių pareigų vykdymu.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-772, 98.06.09, Žin., 1998, Nr.57-1579 (98.06.24)
  
  
                                
 VII SKIRSNIS.
           
 POLICIJOS FINANSAVIMAS IR MATERIALINIS TECHNINIS APRŪPINIMAS
- 
  
      49
 straipsnis. Policijos finansavimas
