@@ -16,9 +16,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F989833B3D38"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
-Lūžaitė (1997.07.11)
+Lūžaitė (1997.12.02)
  
- Įstatymas
+Įstatymas
 paskelbtas: Žin., 1994, Nr.102-2051
  
 Neoficialus įstatymo
@@ -71,6 +71,15 @@ LIETUVOS RESPUBLIKOS
 ĮSTATYMO “DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI AKCIONUOTI,
 NEI PRIVATIZUOTI” DALINIO PAKEITIMO ĮSTATYMAS
  
+6.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-531,
+97.11.20, Žin., 1997, Nr.108-2738 (97.11.28)
+LIETUVOS RESPUBLIKOS
+ĮSTATYMO “DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI AKCIONUOTI,
+NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
 LIETUVOS RESPUBLIKOS
@@ -82,7 +91,8 @@ Vilnius
 DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ
 METŲ
 NENUMATOMA NEI AKCIONUOTI, NEI PRIVATIZUOTI
-                     
+                    
+
  
     
 Patvirtinti valstybinių  įmonių,  kurių  iki  2000-ųjų  metų nenumatoma nei
@@ -107,8 +117,8 @@ Lietuvos Respublikos
                                        
 priedėlis
  
-          
-Valstybinių įmonių, kurių iki 2000-ųjų metų
+           Valstybinių
+įmonių, kurių iki 2000-ųjų metų
           nenumatoma
 nei akcionuoti, nei privatizuoti,
                           
@@ -119,19 +129,10 @@ ______________________________________________________________
 pavadinimas
 ______________________________________________________________
  
-              
-Lietuvos Respublikos Seimo kanceliarija
-2173997   Valstybinė
-įmonė "Greminta"
-5245037  
-Valstybiniai poilsio namai "Eglė"  
- 
-          Lietuvos
+          Lietuvos
 Respublikos Vyriausybės kanceliarija
 5200457   Valstybinė
 sanatorija "Lietuva"
-5240953  
-Valstybiniai poilsio namai "Baltija"
  
                       
 Finansų ministerija
@@ -223,7 +224,7 @@ valstybinė 17-oji vaistinė
 Vilniaus Rotušės vaistinė
 3352858   Kauno
 valstybinė centro vaistinė
-3396632   Valstybinė
+3396632   Valstybinė
 įmonė "Aleksoto vaistinė"
 3396647   Valstybinė
 įmonė "Gričiupio vaistinė"
@@ -246,7 +247,8 @@ Valstybinis geležinkelio projektavimo institutas
 Respublikos civilinės aviacijos direkcija
 3218218   Valstybinė
 įmonė "Transporto kelių tyrimo
-          institutas"
+         
+institutas"
 2086407   Valstybinė
 įmonė "Vilniaus aerouostas"
 3302149   Valstybinė
@@ -329,25 +331,25 @@ Lietuvos bankas
 1005293   Lietuvos
 monetų kalykla 
  
-              Alytaus
-apskrities viršininko administracija
+             
+Alytaus apskrities viršininko administracija
 8453729  
 Valstybinė  gyvulių  sėklinimo  įmonė  (Varėnos rajonas)
      
               Kauno
 apskrities viršininko administracija
 5657226  
-Valstybinė   veislininkystės   įmonė   (Jonavos rajonas)
-6113181   Valstybinė 
-įmonė  “Pagirių  sodai”   (Kėdainių rajonas)
+Valstybinė   veislininkystės   įmonė   (Jonavos rajonas)
+6113181  
+Valstybinė  įmonė  “Pagirių  sodai”   (Kėdainių rajonas)
      
             
 Panevėžio apskrities viršininko administracija
 6913115  Valstybinė 
 gyvulių  sėklinimo  įmonė  (Pasvalio rajonas)
      
-              
-Šiaulių apskrities viršininko administracija
+               Šiaulių
+apskrities viršininko administracija
 7132079  Šeduvos 
 valstybinė avių  veislininkystės  įmonė
 (Radviliškio
@@ -401,7 +403,7 @@ valstybinė komunalinio butų ūkio įmonė
 Valstybinis laidojimo biuras "Liūdesys"
 3351718   Valstybinė
 įmonė "Atgaiva"
-3352403   Valstybinė
+3352403   Valstybinė
 skalbykla "Šarma"
 3360704   Centrinis
 knygynas
@@ -429,8 +431,8 @@ Akmenės rajono valdyba
 5302496   Valstybinė
 ekologijos laboratorija
  
-                     
-Biržų rajono valdyba
+                      Biržų
+rajono valdyba
 5472442   Valstybinė
 agrolaboratorija
  
@@ -456,4 +458,6 @@ Nr. VIII-259,
 97.06.12, Žin., 1997, Nr.60-1402 (97.06.27)
 Nr. VIII-317,
 97.06.26, Žin., 1997, Nr.66-1599 (97.07.11)
+Nr. VIII-531,
+97.11.20, Žin., 1997, Nr.108-2738 (97.11.28)
 
