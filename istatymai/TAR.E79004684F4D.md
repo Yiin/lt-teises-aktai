@@ -427,11 +427,19 @@ teritorijų;
 7)
 pridėtinės vertės mokestį ir akcizą, išskyrus už prekes, esančias laisvosiose
 teritorijose veikiančiose įmonėse.
-            2. Zonos valdymo
-bendrovė už nuomojamą valstybinę žemę moka lengvatinį - 50 procentų mažesnį
-žemės nuomos mokestį. Zonos valdymo bendrovės ir zonos įmonių privatus
-kapitalas, investuotas į zonos infrastruktūrą, į žemės vertę, nustatant jos
-nuomos mokestį, neįskaičiuojamas.
+2.
+Zonos valdymo bendrovė už nuomojamą valstybinę žemę moka lengvatinį – 50
+procentų mažesnį žemės nuomos mokestį. Valstybinės žemės nuomos sutartyje gali
+būti numatyta, kad visas valstybinės žemės nuomos mokestis sumokamas iš karto
+už visą nuomos laikotarpį. Tokiu atveju sukauptos lėšos už laisvųjų ekonominių
+zonų teritorijoje išnuomotą žemę skiriamos žemei, paimamai visuomenės
+poreikiams iš žemės savininkų šioje teritorijoje išpirkti. Zonos valdymo
+bendrovės ir zonos įmonių privatus kapitalas, investuotas į zonos infrastruktūrą,
+į žemės vertę, nustatant jos nuomos mokestį, neįskaičiuojamas. Jei zonos
+valdymo bendrovė iš anksto sumokėjo visą žemės nuomos mokestį už įstatymo
+numatytą nuomos laikotarpį, o vėliau pasikeitė žemės vertė, pagal kurią
+skaičiuojamas žemės mokesčio dydis, ar žemės mokesčio tarifas, žemės nuomos
+mokesčio dydis nekeičiamas.
             3. Zonos įmonė 5 metus nuo
 įregistravimo dienos moka 80 procentų mažesnį pelno (pajamų) mokestį, kitus 5
 metus moka 50 procentų mažesnį pelno (pajamų) mokestį.
@@ -471,6 +479,9 @@ Nr. IX-285, 2001 04 19, Žin., 2001, Nr.
 39-1355 (2001 05 09)
 Nr. IX-668,
 2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
+Nr.
+IX-973,
+2002-06-20, Žin., 2002, Nr. 68-2772 (2002-07-03)
  
 16
 straipsnis. Muitų lengvatos ir muitinės priežiūros ypatumai laisvosiose
@@ -542,7 +553,6 @@ atskaitomybė zonoje
 zonoje ūkio subjektai atlieka pagal Lietuvos Respublikoje galiojančius
 įstatymus ir kitus teisės aktus. 
  
- 
 V SKYRIUS. DARBO
 SANTYKIAI, KALBŲ VARTOJIMAS
 LAISVOJOJE
@@ -560,7 +570,6 @@ vartojimas zonoje
             Zonos teritorijoje
 oficialiai vartojama valstybinė lietuvių kalba. Užsienio kalbos gali būti
 vartojamos pagal Lietuvos Respublikos valstybinės kalbos įstatymą. 
- 
  
 VI SKYRIUS.
 EKONOMINIŲ SANTYKIŲ SU LIETUVOS RESPUBLIKOS
@@ -589,8 +598,8 @@ kaip ir kitiems jų teritorijoje veikiantiems ūkio subjektams.
 institucijų veikla zonoje
             Lietuvos Respublikos
 teisėsaugos institucijos zonoje veikia pagal savo kompetenciją Lietuvos
-Respublikos įstatymų nustatyta tvarka. Zonos valdymo bendrovė sudaro šių
-institucijų darbui būtinas sąlygas. 
+Respublikos įstatymų nustatyta tvarka. Zonos valdymo bendrovė sudaro šių institucijų
+darbui būtinas sąlygas. 
  
             24 straipsnis. Priežiūros
 institucijų veikla zonoje
@@ -612,9 +621,9 @@ ATVYKIMAS Į LAISVĄJĄ EKONOMINĘ ZONĄ
             26 straipsnis. Piliečių
 atvykimo į zoną tvarka
             1. Užsienio šalių piliečiai
-ir asmenys be pilietybės, nuolat gyvenantys užsienyje, jeigu nori atvykti į
-zoną, turi gauti zonos valdymo bendrovės iškvietimą ir į zoną atvyksta gavę
-Lietuvos Respublikos vizą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+ir asmenys be pilietybės, nuolat gyvenantys užsienyje, jeigu nori atvykti į zoną,
+turi gauti zonos valdymo bendrovės iškvietimą ir į zoną atvyksta gavę Lietuvos
+Respublikos vizą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
             2. Užsienio šalių piliečiai
 ir asmenys be pilietybės, nuolat gyvenantys užsienyje ir neturintys leidimų
 nuolat gyventi Lietuvos Respublikoje, gali atvykti laikinai dirbti į zonos
@@ -797,11 +806,19 @@ LAISVŲJŲ
 EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 2, 6, 7, 8, 9, 11, 12, 15, 16, 29 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-973,
+2002-06-20, Žin., 2002, Nr. 68-2772 (2002-07-03)
+LAISVŲJŲ
+EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 15 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-01-08)
-               
-  autrap@lrs.lt
+Aušrinė Trapinskienė (2002-07-04)
+                 
+autrap@lrs.lt
