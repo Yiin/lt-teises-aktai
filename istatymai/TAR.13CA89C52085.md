@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.13CA89C52085"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 1998-12-30 iki 2000-04-18
+Įstatymas netenka galios 2020-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2221, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10324
+Lietuvos Respublikos juridinių asmenų nemokumo įstatymas
+ 
+Suvestinė redakcija nuo 2000-04-19 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1500; Žin. 1997, Nr.87-0, i. k. 0971010ISTAVIII-270
  
@@ -73,16 +78,28 @@ BENDROJI DALIS
 
 2) darbo užmokesčio ir dėl darbo santykių atsiradusios žalos neatlyginimo atveju – įmonės darbuotojai (jų įpėdiniai);
 
-3) gautų valstybės vardu užsienio paskolų ir paskolų, gautų su valstybės ar Vyriausybės garantija, negrąžinimo atveju – Finansų ministerija;
-
-4) finansinės paramos negrąžinimo atveju – Fondas bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti;
+3) žalos atlyginimo prievolės dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga perėjimo valstybei Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo numatytais atvejais - Vyriausybės įgaliota institucija; 
 Papildyta straipsnio punktu:
-Nr. VIII-942, 1998-11-26, Žin., 1998, Nr. 109-2996 (1998-12-11), i. k. 0981010ISTAVIII-942
+Nr. VIII-1604, 2000-03-30, Žin., 2000, Nr. 32-889 (2000-04-19), i. k. 1001010ISTAIII-1604
  
 
-5) finansinės paramos negrąžinimo atveju – Fondas fizinių asmenų reikalavimams apmokėti už bankrutuojančių ir bankrutavusių įmonių supirktą perdirbti žemės ūkio produkciją.
+4) gautų valstybės vardu užsienio paskolų ir paskolų, gautų su valstybės ar Vyriausybės garantija, negrąžinimo atveju – Finansų ministerija;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1604, 2000-03-30, Žin., 2000, Nr. 32-889 (2000-04-19), i. k. 1001010ISTAIII-1604
+ 
+
+5) finansinės paramos negrąžinimo atveju – Fondas bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti;
 Papildyta straipsnio punktu:
 Nr. VIII-942, 1998-11-26, Žin., 1998, Nr. 109-2996 (1998-12-11), i. k. 0981010ISTAVIII-942
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1604, 2000-03-30, Žin., 2000, Nr. 32-889 (2000-04-19), i. k. 1001010ISTAIII-1604
+ 
+
+6) finansinės paramos negrąžinimo atveju – Fondas fizinių asmenų reikalavimams apmokėti už bankrutuojančių ir bankrutavusių įmonių supirktą perdirbti žemės ūkio produkciją.
+Papildyta straipsnio punktu:
+Nr. VIII-942, 1998-11-26, Žin., 1998, Nr. 109-2996 (1998-12-11), i. k. 0981010ISTAVIII-942
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1604, 2000-03-30, Žin., 2000, Nr. 32-889 (2000-04-19), i. k. 1001010ISTAIII-1604
  
 
 ANTRASIS SKIRSNIS
@@ -322,7 +339,12 @@ BANKROTO BYLŲ TEISMINIS NAGRINĖJIMAS
 
 20) įstatymų ir (ar) steigimo dokumentų nustatyta tvarka informuoja įmonės savininką, valstybės ar savivaldybės įmonės steigėją, įmonės valdymo organą, kuris turi teisę priimti nutarimą reorganizuoti įmonę ar ją likviduoti, kai būtini jų nutarimai šio įstatymo 32, 35 ir 38 straipsniuose nustatytais atvejais;
 
-21) vykdo kitus teismo ir (ar) kreditorių susirinkimo, kreditorių susirinkimo pirmininko bei kreditorių komiteto nutarimus.
+21) vykdo kitus teismo ir (ar) kreditorių susirinkimo, kreditorių susirinkimo pirmininko bei kreditorių komiteto nutarimus;
+
+22) Vyriausybės nustatyta tvarka pateikia dokumentus ir duomenis apie žalos atlyginimo mokėjimo prievolės dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga vykdymą žalos atlyginimo gavėjų gyvenamosios vietos savivaldos institucijoms. 
+Papildyta straipsnio punktu:
+Nr. VIII-1604, 2000-03-30, Žin., 2000, Nr. 32-889 (2000-04-19), i. k. 1001010ISTAIII-1604
+ 
 
 5. Administratoriumi negali būti paskirtas įmonės, kuriai iškelta bankroto byla, kreditorius (su kreditoriumi darbo santykiais susijęs asmuo ar jo valdymo organų narys), asmuo, kuris pagal Lietuvos Respublikos įstatymus ar kitus teisės aktus neturi teisės būti administracijos vadovu, įmonės savininkas, jos tarybos, valdybos narys arba asmuo iš netekusios įgaliojimų dėl bankroto bylos iškėlimo įmonės administracijos akcininkas, nuosavybės teise turintis daugiau kaip 10 procentų bankrutuojančios įmonės akcijų. Šie reikalavimai taikomi ir asmenims, kurie dirbo bankrutuojančioje įmonėje ir buvo atleisti iš tokių pareigų per paskutiniuosius 12 mėnesių iki bankroto bylos iškėlimo.
 
@@ -688,7 +710,12 @@ BANKRUTAVUSIOS ĮMONĖS LIKVIDAVIMAS
 
 5) pateikia teismui likvidacinį balansą ir likusio turto grąžinimo aktą;
 
-6) perduoda duomenis apie likviduotą įmonę Vyriausybės įgaliotai institucijai.
+6) perduoda duomenis apie likviduotą įmonę Vyriausybės įgaliotai institucijai;
+
+7) Vyriausybės nustatyta tvarka pateikia dokumentus ir duomenis apie žalos atlyginimo mokėjimo prievolės dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga vykdymą žalos atlyginimo gavėjų gyvenamosios vietos savivaldos institucijoms. 
+Papildyta straipsnio punktu:
+Nr. VIII-1604, 2000-03-30, Žin., 2000, Nr. 32-889 (2000-04-19), i. k. 1001010ISTAIII-1604
+ 
 
 9. Teismas, gavęs šio straipsnio 8 dalies 5 punkte nurodytus dokumentus, priima nutartį išregistruoti likviduotą dėl bankroto umonę.
 
@@ -719,9 +746,10 @@ DEVINTASIS SKIRSNIS
 
 41 straipsnis. Kreditorių reikalavimų tenkinimo eilė ir tvarka
 
-1. Pirmąja eile yra tenkinami darbuotojų reikalavimai, kylantys iš darbo santykių, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine liga arba žuvus nuo nelaimingo atsitikimo darbe, fizinių asmenų reikalavimai apmokėti už perdirbti supirktą žemės ūkio produkciją, taip pat Fondo bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti reikalavimai bei Fondo fizinių asmenų reikalavimams apmokėti už bankrutuojančių ir bankrutavusių įmonių supirktą perdirbti žemės ūkio produkciją reikalavimai. 
+1. Pirmąja eile yra tenkinami darbuotojų reikalavimai, kylantys iš darbo santykių, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine liga arba žuvus nuo nelaimingo atsitikimo darbe, fizinių asmenų reikalavimai apmokėti už perdirbti supirktą žemės ūkio produkciją, taip pat Fondo bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti reikalavimai bei Fondo fizinių asmenų reikalavimams apmokėti už bankrutuojančių ir bankrutavusių įmonių supirktą perdirbti žemės ūkio produkciją reikalavimai. Šia eile tenkinami atgręžtiniai valstybės reikalavimai, kai prievolė atlyginti žalą darbuotojui pereina valstybei Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo numatytais atvejais. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-942, 1998-11-26, Žin., 1998, Nr. 109-2996 (1998-12-11), i. k. 0981010ISTAVIII-942
+Nr. VIII-1604, 2000-03-30, Žin., 2000, Nr. 32-889 (2000-04-19), i. k. 1001010ISTAIII-1604
  
 
 2. Antrąja eile yra tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei privalomojo valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų; dėl užsienio paskolų, kurioms suteikta valstybės ar Vyriausybės garantija.
@@ -791,4 +819,9 @@ Lietuvos Respublikos įmonių bankroto įstatymo 3, 21, 41 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-962, 1998-12-10, Žin., 1998, Nr. 114-3189 (1998-12-30), i. k. 0981010ISTAVIII-962
 Lietuvos Respublikos įmonių bankroto įstatymo 43 straipsnio papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1604, 2000-03-30, Žin., 2000, Nr. 32-889 (2000-04-19), i. k. 1001010ISTAIII-1604
+Lietuvos Respublikos įmonių bankroto įstatymo 3, 15, 38, 41 straipsnių papildymo ir pakeitimo įstatymas
 
