@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
-Lūžaitė (1999.04.02)
+Lūžaitė (1999.06.10)
  
 Įstatymas
 paskelbtas: Žin., 1994, Nr.101-2015
@@ -101,6 +101,14 @@ Nr. VIII-1093, 99.03.18,
 LIETUVOS RESPUBLIKOS
 APSKRITIES VALDYMO ĮSTATYMO 12 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+10.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1195,
+99.05.20, Žin., 1999, Nr.50-1602 (99.06.09)
+LIETUVOS RESPUBLIKOS
+APSKRITIES VALDYMO ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -144,8 +152,8 @@ straipsnis. Apskrities lėšos
 valdymui organizuoti ir valdytojo funkcijoms įgyvendinti lėšos skiriamos iš
 valstybės biudžeto bei kitų finansavimo šaltinių.
  
-       
-                        II skyrius
+                               
+II skyrius
                
 APSKRITIES VIRŠININKAS IR JO KOMPETENCIJA
  
@@ -220,16 +228,17 @@ Apskrities viršininkas:
     
 1) įstatymų nustatyta tvarka steigia, reorganizuoja ir likviduoja apskrities
 valstybines švietimo, išskyrus aukštąsias mokyklas, įstaigas,
-kultūros, kūno kultūros ir sporto, socialinės paramos ir globos įstaigas bei tarnybas,
-taip pat specialiųjų socialinių paslaugų institucijas;
+kultūros, kūno kultūros ir sporto, socialinės paramos ir globos įstaigas bei
+tarnybas, taip pat specialiųjų socialinių paslaugų institucijas;
     
 2) atsako už šio straipsnio 1 punkte nurodytų valstybinių įstaigų funkcionavimą
 ir jų išlaikymą;
     
 3) prižiūri bendrosios valstybinės švietimo, kultūros ir socialinės politikos
 vykdymą;
-     4) rengia,
-koordinuoja ir vykdo apskrities socialines programas ir socialinius projektus;
+    
+4) rengia, koordinuoja ir vykdo apskrities socialines programas ir socialinius
+projektus;
     
 5) kontroliuoja socialinių paslaugų teikimą apskričiai priklausančiose
 socialinių paslaugų teikimo įstaigose;
@@ -245,8 +254,8 @@ Nr.
 VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 Nr. VIII-129,
 97.02.25, Žin., 1997, Nr.21-489 (97.03.12)
-Nr. VIII-471, 97.10.21,
-Žin., 1997, Nr.101-2549 (97.11.07)
+Nr. VIII-471,
+97.10.21, Žin., 1997, Nr.101-2549 (97.11.07)
  
     
 8 straipsnis. Apskrities viršininko įgaliojimai sveikatos
@@ -349,7 +358,9 @@ supirkimo kvotas;
 kontroliuoja augalų apsaugos priemonių naudojimą;
 6) atlieka
 valstybinę melioracijos ir hidrotechnikos įrenginių priežiūrą, organizuoja
-valstybei priklausančių melioracijos ir hidrotechnikos įrenginių eksploataciją.
+valstybei priklausančių melioracijos ir hidrotechnikos įrenginių eksploataciją;
+7) prižiūri, kaip vykdomi Žemės ūkio
+bendrovių įstatymo reikalavimai.
  
 Straipsnio
 pakeitimai:
@@ -357,6 +368,8 @@ Nr.
 VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 Nr. VIII-456,
 97.10.16, Žin., 1997, Nr.97-2444 (97.10.29)
+Nr. VIII-1195,
+99.05.20, Žin., 1999, Nr.50-1602 (99.06.09)
  
 11 straipsnis. Apskrities
 viršininko įgaliojimai gamtos išteklių naudojimo ir aplinkos apsaugos
@@ -364,8 +377,8 @@ klausimais
  
 Apskrities viršininkas:
 1) organizuoja veiklą apskričiai priskirtose
-saugomose teritorijose ir dalyvauja valdant kitas valstybės saugomas teritorijas
-(išskyrus rezervatus); 
+saugomose teritorijose ir dalyvauja valdant kitas valstybės saugomas
+teritorijas (išskyrus rezervatus); 
 2) pagal savo kompetenciją teikia pasiūlymus
 gamtos išteklių naudojimo limitams nustatyti; 
 3) rengia apskrities aplinkos apsaugos
@@ -453,8 +466,8 @@ teikti pasiūlymus su apskrities teritorija susijusiais klausimais valstybinėms
 ir tarpregioninėms programoms rengti bei išvadas dėl parengtų valstybinių ir
 tarpregioninių programų projektų;
      2)
-teikti pasiūlymus Vyriausybei ir kitoms valstybės valdymo institucijoms apskrities
-raidos klausimais;
+teikti pasiūlymus Vyriausybei ir kitoms valstybės valdymo institucijoms
+apskrities raidos klausimais;
      3)
 dalyvauti Vyriausybės posėdžiuose svarstant su apskrities valdytojo
 kompetencija susijusius klausimus, taip pat apskrityje esančių ministerijų ir
@@ -464,9 +477,9 @@ posėdžiuose;
 prireikus kviesti apskrityje esančių ministerijų ir kitų Vyriausybės
 institucijų struktūrinių padalinių vadovų pasitarimus ir jiems pirmininkauti;
      5)
-sustabdyti ar panaikinti apskrityje esančių įmonių, įstaigų ir organizacijų priimtus
-teisės aktus, neatitinkančius Lietuvos Respublikos įstatymų ir Vyriausybės
-nutarimų;
+sustabdyti ar panaikinti apskrityje esančių įmonių, įstaigų ir organizacijų
+priimtus teisės aktus, neatitinkančius Lietuvos Respublikos įstatymų ir
+Vyriausybės nutarimų;
      6)
 gauti iš kitų valstybės valdymo ir apskrities savivaldos institucijų, įmonių,
 įstaigų ir organizacijų informaciją savo kompetencijos klausimais;
@@ -535,8 +548,8 @@ VIII-33, 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 IV skyrius
            
 APSKRITIES VIRŠININKO SANTYKIAI SU SAVIVALDOS
-              
-  IR VALSTYBĖS VALDYMO INSTITUCIJOMIS
+                
+IR VALSTYBĖS VALDYMO INSTITUCIJOMIS
  
      16
 straipsnis. Apskrities viršininkO santykiai su savivaldos
@@ -560,8 +573,9 @@ viršininkas  praneša  atitinkamai  Lietuvos Respublikos Seimui  ar Vyriaus
 apie valstybės  valdymo institucijų padalinių apskrityje veiklą ir sprendimus,
 jei jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba
 pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina
-ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys  ar  aukštesnioji 
-valstybės  valdymo institucija, galutinį sprendimą priima Vyriausybė.
+ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys  ar 
+aukštesnioji  valstybės  valdymo institucija, galutinį sprendimą priima
+Vyriausybė.
  
 Straipsnio
 žymėjimas pakeistas:
@@ -578,8 +592,8 @@ straipsnis. Apskrities taryba
      Prie
 apskrities viršininko sudaroma taryba.
 Į tarybą pagal pareigas įeina apskrities
-viršininkas, kuris yra šios tarybos pirmininkas, apskrities viršininko
-pavaduotojas (pavaduotojai), apskrityje esančių savivaldybių merai.
+viršininkas, kuris yra šios tarybos pirmininkas, apskrities viršininko pavaduotojas
+(pavaduotojai), apskrityje esančių savivaldybių merai.
      Taryba
 svarsto apskrities raidos kryptis, apskrities gyventojų sveikatos problemas ir
 jų sprendimo būdus, socialinės ekonominės raidos ir aplinkos apsaugos bei
