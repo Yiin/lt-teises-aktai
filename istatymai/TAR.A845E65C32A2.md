@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A845E65C32A2"
 
 # Lietuvos Respublikos produktų saugos įstatymas
 
-Suvestinė redakcija nuo 2001-07-25 iki 2004-02-13
+Suvestinė redakcija nuo 2004-02-14 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 52-1673, i. k. 0991010ISTAIII-1206
  
@@ -106,7 +106,10 @@ Nr. IX-427, 2001-07-05, Žin., 2001, Nr. 64-2324 (2001-07-25), i. k. 1011010ISTA
 
 
 
-3. Gaminys – kiekvienas gaminys, skirtas vartotojams ar gali būti jų vartojamas ir teikiamas už atlyginimą ar be jokio atlyginimo, kai vykdoma komercinė veikla, nepaisant to, ar gaminys naujas, naudotas ar perdirbtas.
+3. Gaminys – kiekvienas gaminys, taip pat ir naudojamas teikiant paslaugas, skirtas vartotojams ar gali būti jų vartojamas ir teikiamas už atlyginimą ar be jokio atlyginimo, kai vykdoma komercinė veikla, nepaisant to, ar gaminys naujas, naudotas ar perdirbtas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+ 
 
 
 
@@ -116,57 +119,69 @@ Nr. IX-427, 2001-07-05, Žin., 2001, Nr. 64-2324 (2001-07-25), i. k. 1011010ISTA
 
 
 
-5. Saugus gaminys – bet koks gaminys, kurio vartojimas įprastomis, gamintojo nustatytomis ar galimomis iš anksto pagrįstai numatyti vartojimo sąlygomis, įskaitant ir ilgalaikį vartojimą, nesukelia jokios rizikos arba kelia vartotojų gyvybei ir sveikatai ne didesnę riziką negu ta, kuri teisės aktuose nustatoma kaip leistina bei laikoma atitinkančia aukštą vartotojų apsaugos lygį, įvertinant:
+5. Saugus gaminys – bet koks gaminys, kurio naudojimas įprastomis, gamintojo nustatytomis ar galimomis iš anksto pagrįstai numatyti vartojimo sąlygomis, įskaitant ilgalaikį naudojimą, taip pat surinkimo, įrengimo bei priežiūros naudojant reikalavimus, nesukelia jokios rizikos arba kelia vartotojų gyvybei ir sveikatai tik minimalią riziką, kuri yra suderinama su gaminio vartojimu ir laikoma priimtina bei atitinkančia aukštą vartotojų saugos ir sveikatos apsaugos lygį, ypač atkreipiant dėmesį į:
 
 
-1) gaminio parametrus, jo sandarą, pakuotę, surinkimo ir naudojimo tvarką, priežiūrą vartojant;
-
-
-
-
-2) poveikį kitiems gaminiams, jei yra pagrindas numatyti, kad jis bus vartojamas su kitais gaminiais;
+1) gaminio parametrus, jo sandarą, pakuotę, surinkimo ir naudojimo tvarką, priežiūrą naudojant;
 
 
 
 
-3) gaminio pateikimą vartotojui, užrašus ant gaminio ar pakuotės, vartojimo ir sunaikinimo po vartojimo instrukciją ir kitą gamintojo pateiktą informaciją;
+2) poveikį kitiems gaminiams, jei yra pagrindas numatyti, kad jis bus naudojamas su kitais gaminiais;
 
 
 
 
-4) vartotojų grupes, ypač vaikus, kuriems gaminio vartojimas gali sukelti didesnę riziką.
+3) gaminio pateikimą vartotojui, ženklinimą, įspėjimus, užrašus ant gaminio ar pakuotės, naudojimo ir sunaikinimo po naudojimo instrukciją ir kitą gamintojo pateiktą informaciją;
 
 
 
 
+4) vartotojų grupes, ypač vaikus ir pagyvenusius žmones, kuriems gaminio vartojimas gali sukelti didesnę riziką. 
 
 
-6. Nesaugus produktas – vartotojams skirtas gaminys ar paslauga, kuris neatitinka šiame įstatyme saugiam gaminiui ar saugiai paslaugai nustatytų reikalavimų.
-
-
-
-
-7. Saugi paslauga – kiekviena paslauga, kuri teikiama pagal numatytas sąlygas ir nepažeidžiant teisės aktuose paslaugai nustatytų saugos reikalavimų, jos teikimo metu ar po to nekelia jokios rizikos arba kelia vartotojų gyvybei ir sveikatai ne didesnę riziką negu ta, kuri teisės aktuose nustatoma kaip leistina.
-
-
-
-
-8. Gamintojas – teisės aktų nustatyta tvarka savo veiklą įregistravęs fizinis arba juridinis asmuo, kuris:
-
-
-1) pagamino gaminį arba apie tai viešai pareiškė pažymėdamas jį savo pavadinimu, prekės ženklu ar kitu skiriamuoju ženklu, arba gaminį perdirbo;
+Straipsnio dalies pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+ 
 
 
 
 
-2) veikia kaip gamintojo atstovas arba, jei gamintojo atstovo nėra, – gaminį importuoja;
+6. Pavojingas produktas – vartotojams skirtas gaminys ar paslauga, kuris neatitinka šiame įstatyme saugiam gaminiui ar saugiai paslaugai nustatytų reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+ 
 
 
 
 
-3) kaip gaminio tiekimo ar paslaugos teikimo proceso dalyvis gali daryti poveikį teikiamo į rinką gaminio saugai.
+7. Saugi paslauga – kiekviena paslauga, kuri teikiama laikantis numatytų sąlygų ir nepažeidžiant teisės aktuose paslaugai nustatytų saugos reikalavimų ir teikimo metu ar po to nekelianti jokios rizikos arba kelianti vartotojų gyvybei ir sveikatai minimalią riziką, kuri yra būdinga paslaugai ir laikoma priimtina bei atitinkančia aukštą vartotojų saugos ir sveikatos apsaugos lygį. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+ 
 
 
+
+
+8. Gamintojas – fizinis ar juridinis asmuo (ar kita organizacija) teisės aktų nustatyta tvarka vykdantis savo veiklą (įsteigtas) Lietuvos Respublikoje ar Europos Bendrijoje (Europos Sąjungoje), kuris:
+
+
+1) pagamino gaminį arba apie gaminį viešai pareiškė pažymėdamas jį savo pavadinimu, prekės ženklu ar kitu skiriamuoju ženklu, arba gaminį perdirbo;
+
+
+
+
+2) veikia kaip gamintojo atstovas, kai gamintojas nėra įsisteigęs Europos Bendrijoje (Europos Sąjungoje), arba, jei Europos Bendrijoje (Europos Sąjungoje) įsisteigusio gamintojo atstovo nėra, gaminį importuoja;
+
+
+
+
+3) kaip gaminio tiekimo proceso dalyvis gali daryti poveikį teikiamo į rinką gaminio saugai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+ 
 
 
 
@@ -225,15 +240,27 @@ Nr. IX-427, 2001-07-05, Žin., 2001, Nr. 64-2324 (2001-07-25), i. k. 1011010ISTA
 4 straipsnis. Bendrieji produktų saugos reikalavimai
 
 
-1. Į rinką teikiamas produktas turi būti saugus. Galimybė užtikrinti aukštesnį saugos lygį arba gauti kitus produktus, kuriuos vartojant yra mažesnė rizika negu leistina, neturi būti pagrindas priskirti produktą prie nesaugių, jeigu jis atitinka teisės aktuose nustatytus produktų saugos reikalavimus.
+1. Į rinką teikiamas produktas turi būti saugus. Galimybė užtikrinti aukštesnį saugos lygį arba gauti kitus produktus, kuriuos vartojant yra mažesnė rizika negu leistina, neturi būti pagrindas priskirti produktą prie pavojingų, jeigu jis atitinka teisės aktuose nustatytus produktų saugos reikalavimus.
 
 
 
 
-2. Gamintojas, platintojas ar paslaugos teikėjas, teikdami į rinką produktus, turi užtikrinti, kad produktas atitiktų konkrečių produktų saugą reglamentuojančių privalomųjų Europos Sąjungos ir Lietuvos Respublikos teisės aktų nustatytus produktų saugos reikalavimus. Kai nėra konkretaus produkto saugą reglamentuojančio teisės akto, produktas laikomas saugiu, jei jis atitinka Lietuvos standartus, perimančius Europos standartus, o jei jų nėra – Lietuvos standartus ar technines specifikacijas arba produkto sauga vertinama atsižvelgiant į geros gamybos praktikos kodeksus, mokslo ir technologijų pažangą bei saugą, kurios vartotojas pagrįstai gali tikėtis.
+2. Kai nėra konkretaus produkto saugą reglamentuojančių Europos Sąjungos teisės aktų, produktas laikomas saugiu, jei jis atitinka konkrečius Europos Sąjungos valstybės narės, kurioje yra pateiktas į rinką, nacionalinius teisės aktus, kurie priimti laikantis Europos Bendrijos steigimo sutarties, visų pirma jos 28 ir 30 straipsnių, ir nustato sveikatos bei saugos reikalavimus, kuriuos produktas turi tenkinti, kad jį galima būtų pateikti į rinką toje valstybėje narėje.
+
+
+
+
+3. Produktas yra saugus, kai pavojaus ir pavojaus kategorijų aspektu jis atitinka savanoriškai taikomus kaip nacionalinius standartus perimtus Europos standartus, nuorodos į kuriuos buvo paskelbtos Europos Bendrijų oficialiajame leidinyje, o Lietuvos nuorodos į tokius nacionalinius standartus nustatyta tvarka buvo paskelbtos „Valstybės žiniose“. 
+
+
+
+
+4. Kitais, nei nurodyta šio straipsnio 2 ir 3 dalyse, atvejais produktas vertinamas kaip atitinkantis bendruosius saugos reikalavimus pirmiausia atsižvelgiant į savanoriškai taikomus kitus, nei šio straipsnio 2 ir 3 dalyse nurodytus, ES standartus perimančius nacionalinius standartus, kitus nacionalinius standartus, Europos Komisijos rekomendacijas, nustatančias produktų saugos vertinimo gaires, atitinkamame sektoriuje galiojančius geros gamybos praktikos kodeksus, naujausius mokslo ir technikos laimėjimus, saugą, kurios vartotojas gali pagrįstai tikėtis.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
-
-
 
 
 
@@ -272,29 +299,15 @@ Vyriausybė, Vyriausybės įstaigos, ministerijos, prie jų įsteigti departamen
 
 
 
-7 straipsnis. Informacijos apie nesaugius produktus teikimas Europos Komisijai ir (ar) užsienio valstybėms 
+7 straipsnis. Informacijos apie pavojingus gaminius teikimas Europos Komisijai ir (ar) užsienio valstybėms 
 
 
-1. Kai Taryba nutaria ar valstybinės produktų saugos kontrolės institucijos (toliau – kontrolės institucijos) priima sprendimą taikyti priemones, apribojančias produkto pateikimą į rinką arba reikalaujančias pašalinti jį iš rinkos, apie tai jos privalo pranešti Europos Komisijai ar valstybių, su kuriomis sudarytos tai numatančios tarptautinės sutartys, institucijoms ir nurodyti priežastis, dėl kurių taiko rinkos ribojimo priemones. Šis reikalavimas netaikomas, kai taikomos rinkos ribojimo priemonės yra susijusios su vietinį poveikį turinčiu ir tik su Lietuvos Respublikos teritorija susijusiu įvykiu. 
+Informacija apie pavojingus gaminius ir kompetentingas institucijas bei jų įgaliojimus Europos Komisijai ir (ar) užsienio valstybėms teikiama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 
-
-
-2. Kai Taryba nutaria ar kontrolės institucijos priima sprendimą taikyti ar taiko neatidėliotinas priemones, kuriomis draudžiama naudotis ar prekiauti produktu arba reikalaujama vykdyti išankstines prekybos produktu ar jo vartojimo sąlygas dėl to, kad produktas kelia rimtą ir tiesioginį pavojų vartotojų sveikatai ir saugai, šios institucijos nedelsdamos privalo apie tai pranešti Europos Komisijai ar valstybių, su kuriomis sudarytos tai numatančios tarptautinės sutartys, institucijoms. Šis reikalavimas netaikomas, jei pavojus kyla tik Lietuvos Respublikos teritorijoje. 
-
-
-
-
-3. Taryba ar kontrolės institucijos gali teikti bet kokią turimą informaciją Europos Komisijai apie kilusį rimtą ir tiesioginį pavojų vartotojų sveikatai ir saugai dar prieš priimdamos sprendimą taikyti šio straipsnio 2 dalyje nurodytas priemones. 
-
-
-
-
-4. Šio straipsnio 1, 2 ir 3 dalyse nurodyta informacija teikiama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
-TAR pastaba. 7 straipsnis įsigalioja 2002-01-01.
+Straipsnio pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
-
-
 
 
 
@@ -318,32 +331,49 @@ Gamintojas privalo:
 
 
 
-2) tinkamai ženklinti gaminius ir teikti vartotojams reikiamą informaciją prieš perduodamas gaminį vartotojams, kad jie galėtų įvertinti su gaminiu susijusią riziką per visą nurodytą, įprastą ar numanomą jo vartojimo laiką;
+2) tinkamai ženklinti gaminius ir teikti vartotojams reikiamą informaciją prieš jiems perduodamas gaminį, kad vartotojai galėtų įvertinti su gaminiu susijusią riziką per visą nurodytą, įprastą ar numanomą jo vartojimo laiką, kai rizika be reikiamo perspėjimo nėra akivaizdi. Įspėjimų pateikimas neatleidžia gamintojo nuo prievolės laikytis kitų šiame įstatyme ir kituose produktų saugą reglamentuojančiuose teisės aktuose nustatytų reikalavimų;
 
 
 
 
-3) sužinojęs, kad gaminys nesaugus, nedelsdamas informuoti apie tai vartotojus, Tarybą bei atitinkamos srities kontrolės institucijas ir Vyriausybės nustatyta tvarka pašalinti jį iš rinkos;
+3) žinoti apie galimą su gaminiu susijusią riziką per visą gaminio vartojimo laiką;
 
 
 
 
-4) vykdyti kontrolės institucijų nurodymus ir reikalavimus;
+4) sužinojęs, kad gaminys kelia riziką vartotojų saugai, imtis atitinkamų veiksmų rizikai pašalinti;
 
 
 
 
-5) įstatymų nustatyta tvarka atlyginti vartotojui nesaugiu gaminiu padarytą žalą;
+5) sužinojęs, kad gaminys pavojingas, nedelsdamas informuoti apie tai vartotojus, Tarybą bei atitinkamos srities kontrolės institucijas, pašalinti jį iš rinkos, ir, jei būtina, gaminį susigrąžinti;
 
 
 
 
-6) vykdyti kitas pareigas, nustatytas šiame įstatyme ir kituose produktų saugą reglamentuojančiuose teisės aktuose.
+6) bendradarbiauti su kontrolės institucijomis, kad būtų išvengta tiekiamų ar patiektų į rinką gaminių rizikos;
+
+
+
+
+7) vykdyti kontrolės institucijų nurodymus ir reikalavimus;
+
+
+
+
+8) įstatymų nustatyta tvarka atlyginti vartotojui pavojingu gaminiu padarytą žalą;
+
+
+
+
+9) vykdyti kitas pareigas, nustatytas šiame įstatyme ir kituose produktų saugą reglamentuojančiuose teisės aktuose.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
-
-
-
-
 
 
 
@@ -359,32 +389,39 @@ Platintojas privalo:
 
 
 
-2) teikti vartotojams visą iš gamintojo gautą bei kitą reikiamą informaciją prieš perduodamas gaminį vartotojams, kad šie galėtų įvertinti su gaminiu susijusią riziką per visą nurodytą, įprastą ar numanomą jo vartojimo laiką;
+2) teikti vartotojams visą iš gamintojo gautą bei kitą reikiamą informaciją prieš perduodamas gaminį vartotojams, kad šie galėtų įvertinti su gaminiu susijusią riziką per visą nurodytą, įprastą ar numanomą jo vartojimo laiką, kai tokia rizika be reikiamo perspėjimo nėra akivaizdi. Įspėjimų pateikimas neatleidžia platintojo nuo prievolės laikytis kitų šiame įstatyme ir kituose produktų saugą reglamentuojančiuose teisės aktuose nustatytų reikalavimų;
 
 
 
 
-3) sužinojęs, kad gaminys nesaugus, nedelsdamas nutraukti gaminio pateikimą į rinką, informuoti gamintoją, vartotojus, Tarybą bei atitinkamos srities kontrolės instituciją ir Vyriausybės nustatyta tvarka pašalinti gaminį iš rinkos;
+3) sužinojęs, kad gaminys pavojingas, nedelsdamas nutraukti gaminio pateikimą į rinką, informuoti gamintoją, vartotojus, Tarybą bei atitinkamos srities kontrolės instituciją ir imtis kitų tinkamų veiksmų rizikai vartotojams pašalinti;
 
 
 
 
-4) vykdyti kontrolės institucijų nurodymus ir reikalavimus;
+4) bendradarbiauti su kontrolės institucijomis ir gamintojais, siekiant išvengti tiekiamų gaminių keliamos rizikos vartotojams;
 
 
 
 
-5) įstatymų nustatyta tvarka atlyginti vartotojui nesaugiu gaminiu padarytą žalą;
+5) vykdyti kontrolės institucijų nurodymus ir reikalavimus;
 
 
 
 
-6) vykdyti kitas pareigas, nustatytas šiame įstatyme ir kituose produktų saugą reglamentuojančiuose teisės aktuose.
+6) įstatymų nustatyta tvarka atlyginti vartotojui pavojingu gaminiu padarytą žalą;
+
+
+
+
+7) vykdyti kitas pareigas, nustatytas šiame įstatyme ir kituose produktų saugą reglamentuojančiuose teisės aktuose.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
-
-
-
-
 
 
 
@@ -405,27 +442,44 @@ Paslaugos teikėjas privalo:
 
 
 
-3) sužinojęs apie suteiktos paslaugos galimą riziką vartotojui, nedelsdamas nutraukti paslaugos teikimą ir informuoti vartotoją, Tarybą bei atitinkamos srities kontrolės instituciją;
+3) žinoti apie galimą su paslauga susijusią riziką vartotojui;
 
 
 
 
-4) vykdyti kontrolės institucijų nurodymus ir reikalavimus;
+4) sužinojęs apie suteiktos paslaugos galimą riziką vartotojui, imtis tinkamų veiksmų rizikai pašalinti;
 
 
 
 
-5) įstatymų nustatyta tvarka atlyginti vartotojui nesaugia paslauga padarytą žalą;
+5) sužinojęs, kad suteikta paslauga pavojinga, nedelsdamas nutraukti paslaugos teikimą ir informuoti vartotoją, Tarybą bei atitinkamos srities kontrolės instituciją, jei būtina imtis vartotojų saugą užtikrinančių kitų veiksmų;
 
 
 
 
-6) vykdyti kitas pareigas, nustatytas šiame įstatyme ir kituose produktų saugą reglamentuojančiuose teisės aktuose.
+6) vykdyti kontrolės institucijų nurodymus ir reikalavimus;
+
+
+
+
+7) įstatymų nustatyta tvarka atlyginti vartotojui pavojinga paslauga padarytą žalą;
+
+
+
+
+8) bendradarbiauti su kontrolės institucijomis, siekiant išvengti teikiamų paslaugų keliamos rizikos vartotojui;
+
+
+
+
+9) vykdyti kitas pareigas, nustatytas šiame įstatyme ir kituose produktų saugą reglamentuojančiuose teisės aktuose. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
-
-
-
-
 
 
 
@@ -433,19 +487,28 @@ Paslaugos teikėjas privalo:
 
 
 KETVIRTASIS SKIRSNIS
-VISUOMENINIŲ Vartotojų teisių gynimo organizacijų
-teisės produktų saugos srityje
+VISUOMENINIŲ VARTOTOJŲ TEISIŲ GYNIMO ORGANIZACIJŲ TEISĖS IR MOKSLO KOMITETŲ VAIDMUO PRODUKTŲ SAUGOS SRITYJE 
+ 
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
 
 
-11 straipsnis. Visuomeninių vartotojų teisių gynimo organizacijų teisės produktų saugos srityje
+11 straipsnis. Visuomeninių vartotojų teisių gynimo organizacijų teisės ir mokslo komitetų vaidmuo produktų saugos srityje
 
 
-Visuomeninių vartotojų teisių gynimo organizacijų teises produktų saugos srityje nustato Vartotojų teisių gynimo įstatymas ir kiti teisės aktai.
+1. Visuomeninių vartotojų teisių gynimo organizacijų teises produktų saugos srityje nustato Vartotojų teisių gynimo įstatymas ir kiti teisės aktai.
+
+
+
+
+2. Kad rinkos ribojimo klausimais būtų kompetentingai bendradarbiaujama su Europos Komisija ir suinteresuotoms Lietuvos Respublikos institucijoms dėl pavojingų produktų (produktų saugos ir vartotojų sveikatos klausimais) būtų teikiamos moksliškai pagrįstos rekomendacinės išvados, prie ministerijų gali būti steigiami mokslo komitetai. Mokslo komitetų sudėtį ir darbą reglamentuoja nustatyta tvarka parengti ir patvirtinti nuostatai.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
- 
-
-
 
 
 
@@ -484,7 +547,10 @@ VALSTYBINĖ PRODUKTŲ SAUGOS KONTROLĖ
 
 
 
-3) nesaugių produktų pašalinimo iš rinkos ir gaminių sunaikinimo kontrolė;
+3) pavojingų produktų pašalinimo iš rinkos ir gaminių sunaikinimo kontrolė; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+ 
 
 
 
@@ -496,7 +562,9 @@ VALSTYBINĖ PRODUKTŲ SAUGOS KONTROLĖ
 
 
 
-2. Į netiesioginę produktų saugos kontrolę įeina statistinių duomenų apie nesaugių produktų gamybą, importą ir prekybą jais, taip pat informacijos apie bet kokius vartojimo rizikos didėjimą ar mažėjimą galinčius nulemti veiksnius rinkimas, kaupimas, apdorojimas ir analizė.
+2. Į netiesioginę produktų saugos kontrolę įeina statistinių duomenų apie pavojingų produktų gamybą, importą ir prekybą jais, taip pat informacijos apie bet kokius vartojimo rizikos didėjimą ar mažėjimą galinčius nulemti veiksnius rinkimas, kaupimas, apdorojimas ir analizė.
+Straipsnio dalies pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
 
 
@@ -510,7 +578,10 @@ VALSTYBINĖ PRODUKTŲ SAUGOS KONTROLĖ
 1. Kontrolės institucijos, atlikdamos valstybinę produktų saugos kontrolę, turi teisę:
 
 
-1) tikrinti, ar laikomasi produktų saugą reglamentuojančių teisės aktų, kaupti duomenis produktų saugos klausimais;
+1) tikrinti, ar laikomasi produktų saugą reglamentuojančių teisės aktų, organizuoti reikiamus produkto saugos ypatybių patikrinimus netgi po to, kai jis jau yra pateiktas į rinką ir laikomas saugiu, ir iki pat jo sunaudojimo ar suvartojimo galutinio etapo bei kaupti duomenis produktų saugos klausimais; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+ 
 
 
 
@@ -555,14 +626,27 @@ VALSTYBINĖ PRODUKTŲ SAUGOS KONTROLĖ
 2. Kontrolės institucijos privalo:
 
 
-1) perduoti teisėsaugos institucijoms medžiagą dėl produktų saugos teisės aktų pažeidimų, jei šie produktai galėjo pakenkti ar pakenkė sveikatai arba dėl to ištiko mirtis;
+1) užtikrinti, kad visos priemonės, kurių jos imasi, ypač nurodytos šio įstatymo 17 straipsnio 1 dalyje, atitiktų pavojaus rimtumą ir būtų tinkamai įvertintos priemonių naudojimo pasekmės; 
 
 
 
 
-2) užtikrinti iš produkto gamintojų, platintojų ar paslaugų teikėjų gautos informacijos, kuri sudaro komercinę paslaptį, konfidencialumą.
+2) skatinti savanoriškus gamintojų ir platintojų veiksmus, atitinkančius šio įstatymo trečiajame skirsnyje jiems nustatytas pareigas, taip pat skatinti geros praktikos kodeksų rengimą ir taikymą;
 
 
+
+
+3) perduoti teisėsaugos institucijoms medžiagą dėl produktų saugos teisės aktų pažeidimų, jei šie produktai galėjo pakenkti ar pakenkė sveikatai arba dėl to ištiko mirtis;
+
+
+
+
+4) užtikrinti iš produkto gamintojų, platintojų ar paslaugų teikėjų gautos informacijos, kuri sudaro komercinę paslaptį, konfidencialumą.
+
+
+Straipsnio dalies pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+ 
 
 
 
@@ -575,13 +659,28 @@ VALSTYBINĖ PRODUKTŲ SAUGOS KONTROLĖ
 
 
 
-15 straipsnis. Informacija, kuri nėra komercinė paslaptis
+15 straipsnis. Informacijos prieinamumas visuomenei 
 
 
-Šie produkto duomenys negali būti komercine paslaptimi:
+1. Tarybos ir kontrolės institucijų turima informacija apie produktų keliamą riziką vartotojų sveikatai ir saugai turi būti prieinama visuomenei nepažeidžiant taikomų apribojimų. Visuomenė gali susipažinti su informacija apie produktų identifikavimą, rizikos pobūdį ir jiems taikomas priemones.
 
 
-1) produkto pavadinimas;
+
+
+2. Taryba ir kontrolės institucijos imasi būtinų priemonių, kad jų pareigūnai ir atstovai būtų įpareigoti neatskleisti šio įstatymo įgyvendinimo tikslams gautos informacijos, kuriai pagal jos pobūdį taikomos komercinės paslapties nuostatos, išskyrus informaciją apie gaminių saugą, kuri turi būti paskelbta, kad būtų galima apsaugoti vartotojų sveikatą ir saugą.
+
+
+
+
+3. Komercinės paslapties saugojimas netrukdo kompetentingoms institucijoms skleisti informaciją, svarbią rinkos stebėsenos ir priežiūros veiksmingumui užtikrinti. Institucijos, gaunančios informaciją, kuriai taikomos komercinės paslapties nuostatos, užtikrina jos slaptumą. 
+
+
+
+
+4. Komercine paslaptimi negali būti šie produkto duomenys:
+
+
+1) produkto pavadinimas ir identifikavimo duomenys;
 
 
 
@@ -601,22 +700,24 @@ VALSTYBINĖ PRODUKTŲ SAUGOS KONTROLĖ
 
 
 
-5) produkto tyrimo metodai;
+5) produkto tyrimo metodai; 
 
 
 
 
-6) potencialiai pavojingos produkto sudedamosios dalys;
+6) potencialiai pavojingos produkto sudedamosios dalys; 
 
 
 
 
 7) su paslaugos teikimu susiję potencialiai pavojingi veiksniai.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
-
-
-
-
 
 
 
@@ -631,7 +732,10 @@ VALSTYBINĖS PRODUKTŲ SAUGOS KONTROLĖS INSTITUCIJŲ ĮGALIOJIMŲ ĮGYVENDINIMA
 16 straipsnis. Produktų pateikimo į rinką ribojimo priemonių taikymo pagrindai
 
 
-1. Produktų pateikimo į rinką ribojimo priemonės (toliau – rinkos ribojimo priemonės) gali būti taikomos, jei produktai pateikti į rinką pažeidžiant šio įstatymo 8 straipsnio 1, 2 ir 3 punktų, 9 straipsnio 1, 2 ir 3 punktų ir 10 straipsnio 1, 2 ir 3 punktų reikalavimus.
+1. Produktų pateikimo į rinką ribojimo priemonės (toliau – rinkos ribojimo priemonės) gali būti taikomos, jei produktai pateikti į rinką pažeidžiant šio įstatymo 8 straipsnio 1, 2 ir 5 punktų, 9 straipsnio 1, 2 ir 3 punktų ir 10 straipsnio 1, 2 ir 5 punktų reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+ 
 
 
 
@@ -644,63 +748,75 @@ VALSTYBINĖS PRODUKTŲ SAUGOS KONTROLĖS INSTITUCIJŲ ĮGALIOJIMŲ ĮGYVENDINIMA
 
 
 
-17 straipsnis. Rinkos ribojimo priemonės 
+17 straipsnis. Rinkos ribojimo priemonės
 
 
-1. Taryba arba kontrolės institucijos šio įstatymo 16 straipsnyje nurodytais rinkos ribojimo priemonių taikymo pagrindais turi teisę Vyriausybės nustatyta tvarka taikyti tokias rinkos ribojimo priemones: 
+1. Taryba arba kontrolės institucijos šio įstatymo 16 straipsnyje nurodytais rinkos ribojimo priemonių taikymo pagrindais turi teisę Vyriausybės nustatyta tvarka taikyti šias rinkos ribojimo priemones: 
 
 
-1) nustatyti produkto prekybai išankstines sąlygas, kuriomis siekiama užtikrinti produkto saugą, ir reikalauti iš gamintojų, platintojų ir paslaugų teikėjų informuoti vartotojus apie su šiuo produktu susijusią riziką; 
-
-
-
-
-2) laikinai, kol teisės aktų nustatyta tvarka bus atlikta valstybinė produktų saugos ekspertizė, uždrausti teikti, siūlyti teikti į rinką ir demonstruoti produktą, kai yra aiškių požymių, kad jis yra nesaugus; 
+1) reikalauti, kad bet koks produktas, kuris konkrečiomis aplinkybėmis gali kelti riziką, būtų paženklintas valstybine kalba surašytais tinkamais, aiškiais ir lengvai suprantamais įspėjimais apie galimą su gaminiu susijusią riziką; nustatyti išankstines produkto prekybos sąlygas, kuriomis siekiama užtikrinti jo saugą;
 
 
 
 
-3) sustabdyti ar uždrausti bet kokį nesaugių produktų pateikimą į rinką, įpareigoti gamintoją, platintoją, paslaugos teikėją padaryti produktą nekenksmingą ar saugiai sunaikinti nesaugų produktą; 
+2) nurodyti, kad apie bet kokio produkto, kuris gali kelti riziką konkretiems asmenims, keliamą riziką šie asmenys būtų laiku ir tinkamai, įskaitant ir specialių įspėjimų paskelbimą, įspėti;
 
 
 
 
-4) reikalauti nesaugų produktą pašalinti iš rinkos, o kai gamintojas, platintojas ar paslaugos teikėjas laiku nesiima tai padaryti arba kai gamintojo, platintojo ar paslaugos teikėjo neįmanoma greitai nustatyti, kontrolės institucijoms pačioms pašalinti iš rinkos nesaugų produktą; 
+3) laikinai, kol bus atlikti įvairūs saugos įvertinimai, patikrinimai ir kontrolė, uždrausti tiekti, siūlyti tiekti ir demonstruoti bet kokį produktą, dėl kurio yra pagrįstai įtariama, kad jis gali būti pavojingas;
 
 
 
 
-5) uždrausti reklamuoti nesaugų produktą ir pareikalauti nutraukti tokio produkto reklamą. 
+4) uždrausti bet kokio pavojingo produkto pardavimą ir toliau imtis priemonių, kurios užtikrintų tokio draudimo laikymąsi;
+
+
+
+
+5) nurodyti nedelsiant pašalinti iš rinkos bet kokį jau rinkoje esantį pavojingą produktą arba organizuoti tokį pašalinimą ir įspėti vartotojus apie su tokiu produktu susijusią riziką; nurodyti arba koordinuoti, arba prireikus kartu su gamintojais ir platintojais organizuoti, kad šis produktas būtų susigrąžintas iš vartotojų ir sunaikintas atitinkamomis sąlygomis.
 
 
 
 
 
 
-2. Visi sprendimai dėl rinkos ribojimo priemonių taikymo turi būti motyvuoti. Apie šiuos sprendimus būtina skubiai pranešti asmenims, kuriems jie yra taikomi. Jei yra galimybė, šiems asmenims leidžiama pareikšti savo nuomonę prieš priimant sprendimą. Jei dėl sprendimo vykdymo skubos tai nebuvo padaryta iš anksto, tokia galimybė suteikiama jau priėmus sprendimą. 
+2. Šio straipsnio 1 dalies 1–5 punktuose išvardytos priemonės taikomos gamintojui, platintojui atsižvelgiant į jo veiklą, bet kokiam kitam asmeniui, kai tai yra būtina bendradarbiavimui siekiant išvengti produkto keliamo pavojaus.
 
 
 
 
-3. Jei kontrolės institucija pati pašalina iš rinkos nesaugų produktą, jos patirtos išlaidos Tarybos nutarimu išieškomos iš gamintojo, platintojo ir paslaugos teikėjo ne ginčo tvarka. 
+3. Visi sprendimai dėl rinkos ribojimo priemonių taikymo turi būti motyvuoti. Apie šiuos sprendimus būtina skubiai pranešti asmenims, kuriems jie yra taikomi. Jei yra galimybė, šiems asmenims leidžiama pareikšti savo nuomonę prieš priimant sprendimą. Jei dėl sprendimo vykdymo skubos tai nebuvo padaryta iš anksto, tokia galimybė suteikiama jau priėmus sprendimą.
 
 
 
 
-4. Taryba ar kontrolės institucijos privalo informuoti platintojus, vartotojus bei visuomenines vartotojų teisių gynimo organizacijas apie sprendimus produktus pašalinti iš rinkos, siekiant paskatinti juos prisidėti prie tokių sprendimų įgyvendinimo.
+4. Jei kontrolės institucija pati pašalina iš rinkos pavojingą produktą, jos patirtos išlaidos Tarybos nutarimu išieškomos iš gamintojo, platintojo ir paslaugos teikėjo ne ginčo tvarka.
 
 
 
 
-5. Tarybos nutarimai arba kontrolės institucijų sprendimai dėl rinkos ribojimo priemonių taikymo turi būti skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“ Vyriausybės nustatyta tvarka.
+5. Taryba ir kontrolės institucijos privalo užtikrinti galimybę vartotojams ir suinteresuotiems asmenims pateikti skundus dėl produkto saugos bei priežiūros, dėl kontrolės veiksmų ir į tuos skundus tinkamai reaguoti. Jos turi informuoti vartotojus ir suinteresuotus asmenis apie skundų pateikimo procedūrą.
 
 
 
 
-6. Gamintojai, platintojai ir paslaugų teikėjai privalo vykdyti Tarybos nutarimus arba kontrolės institucijų sprendimus nuo jų gavimo momento, jeigu sprendimas ar nutarimas nenustato vėlesnės datos.
+6. Taryba ar kontrolės institucijos privalo informuoti platintojus, vartotojus bei visuomenines vartotojų teisių gynimo organizacijas apie sprendimus produktus pašalinti iš rinkos, siekiant paskatinti juos prisidėti prie tokių sprendimų įgyvendinimo.
+
+
+
+
+7. Tarybos nutarimai arba kontrolės institucijų sprendimai dėl rinkos ribojimo priemonių taikymo turi būti skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“ Vyriausybės nustatyta tvarka.
+
+
+
+
+8. Gamintojai, platintojai ir paslaugų teikėjai privalo vykdyti Tarybos nutarimus arba kontrolės institucijų sprendimus nuo jų gavimo momento, jeigu sprendimas ar nutarimas nenustato vėlesnės datos.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
-
-
 
 
 
@@ -731,10 +847,12 @@ VALSTYBINĖ PRODUKTŲ SAUGOS EKSPERTIZĖ
 19 straipsnis. Valstybinės produktų saugos ekspertizės išvados
 
 
-Jeigu valstybinės produktų saugos ekspertizės tyrimais nustatoma, kad gaminių bandiniai ar paslaugos yra nesaugūs, tai laikoma nesaugia visa partija, iš kurios buvo paimti bandiniai ekspertizei, arba visos nuo paaiškėjimo momento paslaugų teikėjo suteiktos paslaugos.
+Jeigu valstybinės produktų saugos ekspertizės tyrimais nustatoma, kad gaminių bandiniai ar paslaugos yra pavojingi, tai laikoma pavojinga visa partija, iš kurios buvo paimti bandiniai ekspertizei, arba visos nuo paaiškėjimo momento paslaugų teikėjo suteiktos paslaugos.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
-
-
 
 
 
@@ -766,7 +884,10 @@ PAŽEIDIMUS TAIKYMO TVARKA
 21 straipsnis. Žalos atlyginimas
 
 
-1. Žala vartotojams, atsiradusi dėl nesaugių produktų, atlyginama Civilinio kodekso nustatyta tvarka.
+1. Žala vartotojams, atsiradusi dėl pavojingų produktų, atlyginama Civilinio kodekso nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+ 
 
 
 
@@ -790,48 +911,50 @@ Baudos už šio įstatymo pažeidimus taikomos produkto gamintojui, platintojui 
 
 
 
-23 straipsnis. Baudos už šio įstatymo pažeidimus 
+23 straipsnis. Baudos už šio įstatymo pažeidimus
 
 
-1. Gamintojui, platintojui, pateikusiems į rinką nesaugių gaminių, skiriama nuo 500 iki 5 000 litų bauda.
-
-
-
-
-2. Gamintojui, platintojui, pateikusiems į rinką nesaugių gaminių po įpareigojimo nutraukti jų realizavimą nevykdymo, skiriama nuo 3 000 iki 15 000 litų bauda. 
+1. Gamintojui, platintojui, pateikusiems į rinką pavojingų gaminių, skiriama nuo 500 iki 5000 litų bauda.
 
 
 
 
-3. Suteikusiam ar teikiančiam nesaugias paslaugas paslaugos teikėjui skiriama nuo 500 iki 2 500 litų bauda.
+2. Gamintojui, platintojui, pateikusiems į rinką pavojingų gaminių po įpareigojimo nutraukti jų realizavimą nevykdymo skiriama nuo 3000 iki 15000 litų bauda.
 
 
 
 
-4. Suteikusiam ar teikiančiam nesaugią paslaugą po įpareigojimo nutraukti jos teikimą paslaugos teikėjui skiriama nuo 2 000 iki 10 000 litų bauda. 
+3. Suteikusiam ar teikiančiam pavojingas paslaugas paslaugos teikėjui skiriama nuo 500 iki 2500 litų bauda.
 
 
 
 
-5. Šio įstatymo 22 straipsnyje nurodytiems asmenins, nevykdantiems Tarybos ar kontrolės institucijų reikalavimų pašalinti nesaugius produktus iš rinkos ar juos sunaikinti, skiriama nuo 5 000 iki 20 000 litų bauda.
+4. Suteikusiam ar teikiančiam pavojingą paslaugą po įpareigojimo nutraukti jos teikimą paslaugos teikėjui skiriama nuo 2000 iki 10000 litų bauda.
 
 
 
 
-6. Pateikusiems į rinką nesaugius produktus, jeigu šie produktai padarė žalos vartotojo sveikatai, šio įstatymo 22 straipsnyje nurodytiems asmenims skiriama nuo 5 000 iki 40 000 litų bauda. 
+5. Šio įstatymo 22 straipsnyje nurodytiems asmenims, nevykdantiems Tarybos ar kontrolės institucijų reikalavimų pašalinti pavojingus produktus iš rinkos ar juos sunaikinti, skiriama nuo 5000 iki 20000 litų bauda.
 
 
 
 
-7. Pateikusiems į rinką nesaugius produktus, jeigu šie produktai sukėlė vartotojo mirtį, šio įstatymo 22 straipsnyje nurodytiems asmenims skiriama nuo 20 000 iki 80 000 litų bauda. 
+6. Pateikusiems į rinką pavojingus produktus, jeigu šie produktai padarė žalos vartotojo sveikatai, šio įstatymo 22 straipsnyje nurodytiems asmenims skiriama nuo 5000 iki 40000 litų bauda.
+
+
+
+
+7. Pateikusiems į rinką pavojingus produktus, jeigu šie produktai sukėlė vartotojo mirtį, šio įstatymo 22 straipsnyje nurodytiems asmenims skiriama nuo 20000 iki 80000 litų bauda.
 
 
 
 
 8. Baudų taikymas neatleidžia nuo pareigos atlyginti vartotojams padarytą žalą.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
-
-
 
 
 
@@ -839,20 +962,20 @@ Baudos už šio įstatymo pažeidimus taikomos produkto gamintojui, platintojui 
 24 straipsnis. Atleidimas nuo atsakomybės ir atsakomybę lengvinančios bei sunkinančios aplinkybės
 
 
-1. Nesaugaus produkto gamintojas, platintojas ar nesaugios paslaugos teikėjas neatsako už nesaugaus produkto pateikimą į rinką, jei jis įrodo, kad: 
+1. Pavojingo produkto gamintojas, platintojas ar pavojingos paslaugos teikėjas neatsako už pavojingo produkto pateikimą į rinką, jei jis įrodo, kad:
 
 
-1) jis nesaugaus produkto į rinką nepateikė;
-
-
-
-
-2) produktas tapo nesaugus vėliau dėl trečiojo asmens veiksmų netinkamai (neatsargiai) gabenant ar saugant (sandėliuojant) produktą ar kitų nuo gamintojo, platintojo ar paslaugos teikėjo valios nepriklausančių priežasčių;
+1) jis pavojingo produkto į rinką nepateikė;
 
 
 
 
-3) tuo metu, kai nesaugus produktas buvo pateiktas į rinką, mokslo ir technikos pažanga nebuvo tokio lygio, kad būtų galima nustatyti galimą pavojų;
+2) produktas tapo pavojingas vėliau dėl trečiojo asmens veiksmų netinkamai (neatsargiai) gabenant ar saugant (sandėliuojant) produktą ar kitų nuo gamintojo, platintojo ar paslaugos teikėjo valios nepriklausančių priežasčių;
+
+
+
+
+3) tuo metu, kai pavojingas produktas buvo pateiktas į rinką, mokslo ir technikos pažanga nebuvo tokio lygio, kad būtų galima nustatyti galimą pavojų; 
 
 
 
@@ -862,9 +985,12 @@ Baudos už šio įstatymo pažeidimus taikomos produkto gamintojui, platintojui 
 
 
 
-5) produkto nesaugias savybes nulėmė nenugalima jėga.
+5) produkto pavojingas savybes nulėmė nenugalima jėga.
 
 
+Straipsnio dalies pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+ 
 
 
 
@@ -890,10 +1016,12 @@ Baudos už šio įstatymo pažeidimus taikomos produkto gamintojui, platintojui 
 25 straipsnis. Baudų skyrimo terminas
 
 
-Šio įstatymo 23 straipsnyje numatytos baudos gali būti skiriamos ne vėliau kaip per šešis mėnesius nuo šio įstatymo pažeidimo nustatymo, o esant tęstiniam pažeidimui – nuo jo išaiškėjimo dienos. Ši nuostata netaikoma, kai nesaugiu produktu pakenkiama vartotojo sveikatai ar atimama gyvybė.
+Šio įstatymo 23 straipsnyje numatytos baudos gali būti skiriamos ne vėliau kaip per šešis mėnesius nuo šio įstatymo pažeidimo nustatymo, o esant tęstiniam pažeidimui – nuo jo išaiškėjimo dienos. Ši nuostata netaikoma, kai pavojingu produktu pakenkiama vartotojo sveikatai ar atimama gyvybė.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
  
-
-
 
 
 
