@@ -13,13 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0539E2FEB29E"
 
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 
 
 
 Redagavo:
-Ramunė Lūžaitė (1997.07.10)
+Ramunė Lūžaitė (1997.10.24)
  
 Įstatymas
 paskelbtas: Žin., 1996, Nr.82-1965
@@ -38,6 +38,15 @@ LIETUVOS
 RESPUBLIKOS PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO 6 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-436,
+97.10.07, Žin., 1997, Nr.96-2428 (97.10.24)
+LIETUVOS RESPUBLIKOS
+PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO ĮSTATYMO 1, 3, 7, 10, 11
+IR 12 STRAIPSNIŲ PAKEITIMO
+ 
 ***
 Pabaiga ***
               
@@ -46,11 +55,11 @@ Pabaiga ***
  LIETUVOS RESPUBLIKOS
            
 PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO
-                       
-          ĮSTATYMAS
+                                 
+ĮSTATYMAS
  
-            
-          1996 m. rugpjūčio 15 d. Nr. I-1495
+     
+                 1996 m. rugpjūčio 15 d. Nr. I-1495
                                    
 Vilnius
                  
@@ -60,15 +69,14 @@ Vilnius
                
              BENDROSIOS NUOSTATOS
  
-     
-     1
+          1
 straipsnis. Pagrindinės sąvokos
  
      1.
 Aplinka - gamtoje funkcionuojanti visuma tarpusavyje susijusių elementų (žemės
 paviršius ir gelmės, oras, vanduo, dirvožemis, augalai, organinės ir
-neorganinės  medžiagos, antropogeniniai elementai) bei juos vienijančios
-natūralios ir antropogeninės sistemos.
+neorganinės  medžiagos, antropogeniniai elementai) bei juos vienijančios natūralios
+ir antropogeninės sistemos.
      2.
 Poveikis aplinkai - numatomas pokytis aplinkoje, kurio priežastis yra
 planuojama ūkinė veikla.
@@ -104,8 +112,13 @@ planuojamą ūkinę veiklą, galimą poveikį aplinkai.
      10.
 Poveikio aplinkai vertinimo valstybinė ekspertizė - tai užsakovo atlikto
 planuojamos ūkinės veiklos poveikio aplinkai vertinimo teisingumo išsamus
-patikrinimas,  kurį organizuoja tam įgaliota valstybės institucija - Aplinkos
-apsaugos  ministerija,  pasitelkusi  licencijas  turinčius ekspertus.
+patikrinimas, kurį organizuoja tam įgaliota valstybės institucija - Aplinkos
+apsaugos ministerija, pasitelkusi atestatus turinčius ekspertus.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-436,
+97.10.07, Žin., 1997, Nr.96-2428 (97.10.24)
      
      2
 straipsnis. Įstatymo paskirtis
@@ -117,14 +130,19 @@ aplinkai, vertinimą bei šio proceso dalyvių santykius.
      3
 straipsnis. Poveikio aplinkai vertinimo tikslai
  
-     1. 
-Pirminio poveikio aplinkai vertinimo tikslas  - preliminariai nustatyti, ar
+     1.
+Poveikio aplinkai pirminio vertinimo tikslas - preliminariai nustatyti, ar
 planuojama ūkinė veikla, įvertinus situaciją ir planuojamos ūkinės veiklos
-poveikį,  galima pasirinktoje vietoje.
-     2. 
-Išsamaus poveikio aplinkai vertinimo tikslas  - nustatyti visą galimą
-planuojamos ūkinės veiklos poveikį aplinkai,  įvertinti planuojamą ūkinę  veiklą 
-socialiniu aspektu, parinkti neigiamą poveikį mažinančias priemones.
+poveikį, galima pasirinktoje vietoje.
+    
+2. Poveikio aplinkai išsamaus vertinimo tikslas - nustatyti visą galimą
+planuojamos ūkinės veiklos poveikį aplinkai, įvertinti planuojamą ūkinę veiklą
+socialiniu aspektu, parinkti neigiamą poveikį mažinančias priemones. 
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-436,
+97.10.07, Žin., 1997, Nr.96-2428 (97.10.24)
      
      4 
 straipsnis. Poveikio aplinkai vertinimo  teisinis pagrindas
@@ -132,8 +150,7 @@ straipsnis. Poveikio aplinkai vertinimo  teisinis pagrindas
      Poveikio
 aplinkai vertinimo teisinis pagrindas yra šis įstatymas, Aplinkos apsaugos
 įstatymas, Teritorijų planavimo įstatymas, gamtos išteklių naudojimą bei
-aplinkos apsaugą reglamentuojantys įstatymai, kiti įstatymai bei norminiai
-aktai.
+aplinkos apsaugą reglamentuojantys įstatymai, kiti įstatymai bei norminiai aktai.
      
      5
 straipsnis. Poveikio aplinkai vertinimo objektas
@@ -174,49 +191,51 @@ POVEIKIO APLINKAI VERTINIMO TVARKA
      7
 straipsnis. Poveikio aplinkai vertinimo etapai
  
-     1.
-Poveikio aplinkai vertinimas atliekamas šiais etapais:
-     1)
-pirminis poveikio aplinkai vertinimas - rengiant teritorijų planavimo dokumentų
-sprendinius bei projektinius pasiūlymus;
-     2) 
-išsamus poveikio aplinkai vertinimas - rengiant techninius projektus .
-     2. 
-Pirminis poveikio aplinkai vertinimas atliekamas nagrinėjant:
-     1)
-visus rengiamus teritorijų planavimo dokumentus ir įvertinant sprendinių
-pasekmes pagal Vyriausybės patvirtintą sprendinių pasekmių vertinimo tvarką;
-     2)
-planuojamos ūkinės veiklos projektinius pasiūlymus.
-     3.
-Užsakovas pirminį poveikio aplinkai vertinimą atlieka pagal poveikio aplinkai
-vertinimo subjektų išduotas teritorijų planavimo ir objektų projektavimo
-specialiąsias sąlygas.
-     4. 
-Teritorijų  planavimo dokumentų sprendinius  bei planuojamos ūkinės veiklos
-projektinius pasiūlymus, atlikus pirminį  poveikio aplinkai vertinimą,
-užsakovas  pateikia poveikio aplinkai vertinimo subjektams suderinti, taip pat
-su jais supažindina visuomenę ir apibendrina jos atsiliepimus.
-     5.
-Aplinkos apsaugos ministerija, išnagrinėjusi pirminį poveikio aplinkai
-vertinimą ir kitų vertinimą nagrinėjusių institucijų  išvadas bei pasiūlymus,
-bendru nutarimu  su planuojamos  ūkinės  veiklos poveikio aplinkai  vertinimo
-subjektais priima sprendimą dėl planuojamos ūkinės veiklos galimybių
-pasirinktoje vietoje poveikio aplinkai atžvilgiu.
-     6. 
-Išsamus  poveikio aplinkai vertinimas atliekamas planuojamos ūkinės veiklos
-rūšims ir objektams, kurių sąrašą Aplinkos apsaugos ministerijos teikimu
-tvirtina Vyriausybė.
-     7.
-Visi planuojamos ūkinės veiklos poveikio aplinkai vertinimo proceso dalyviai
-turi teisę reikalauti, o Aplinkos apsaugos ministerija - priimti sprendimą, kad
-išsamus poveikio aplinkai vertinimas būtų atliekamas ir tos planuojamos ūkinės
-veiklos, kuri nenumatyta sąraše, jeigu pirminio poveikio aplinkai vertinimo
-rezultatai parodo, kad planuojama ūkinė veikla aplinkai darys esminį poveikį,
-kurį tinkamai įvertinti galima tik atlikus išsamų poveikio aplinkai vertinimą.
-     8.
-Užsakovas pagal programą atlieka poveikio aplinkai išsamų vertinimą ir parengia
-ataskaitą.
+1. Poveikio aplinkai vertinimas atliekamas šiais
+etapais:
+1) poveikio aplinkai pirminis vertinimas -
+rengiant teritorijų planavimo dokumentų sprendinius bei projektinius
+pasiūlymus;
+2) poveikio aplinkai išsamus vertinimas -
+rengiant techninius projektus.
+2. Poveikio aplinkai pirminis vertinimas atliekamas
+nagrinėjant:
+1) visus rengiamus teritorinio planavimo
+dokumentus ir įvertinant sprendinių pasekmes pagal Vyriausybės patvirtintą
+sprendinių pasekmių vertinimo tvarką;
+2) planuojamos ūkinės veiklos projektinius
+pasiūlymus.
+3. Užsakovas poveikio aplinkai pirminį
+vertinimą atlieka pagal poveikio aplinkai vertinimo subjektų išduotas
+teritorijų planavimo ir objektų projektavimo specialiąsias sąlygas.
+4. Teritorijų planavimo dokumentų sprendinius
+bei planuojamos ūkinės veiklos projektinius pasiūlymus, atlikus poveikio
+aplinkai pirminį vertinimą, užsakovas pateikia poveikio aplinkai vertinimo
+subjektams suderinti, taip pat su jais supažindina visuomenę ir apibendrina jos
+atsiliepimus.
+5. Aplinkos apsaugos ministerija,
+išnagrinėjusi poveikio aplinkai pirminį vertinimą ir kitų vertinimą
+nagrinėjusių institucijų išvadas bei pasiūlymus, bendru sutarimu su planuojamos
+ūkinės veiklos poveikio aplinkai vertinimo subjektais priima sprendimą dėl
+planuojamos ūkinės veiklos galimybių pasirinktoje vietoje poveikio aplinkai
+atžvilgiu.
+6. Poveikio aplinkai išsamus vertinimas
+atliekamas planuojamos ūkinės veiklos rūšims ir objektams, kurių sąrašą
+Aplinkos apsaugos ministerijos teikimu tvirtina Vyriausybė.
+7. Visi planuojamos ūkinės veiklos poveikio
+aplinkai vertinimo proceso dalyviai turi teisę reikalauti, o Aplinkos apsaugos
+ministerija - priimti sprendimą, kad poveikio aplinkai išsamus vertinimas būtų
+atliekamas ir tos planuojamos ūkinės veiklos, kuri nenumatyta sąraše, jeigu
+poveikio aplinkai pirminio vertinimo rezultatai parodo, kad planuojama ūkinė
+veikla aplinkai darys esminį poveikį, kurį tinkamai įvertinti galima tik
+atlikus poveikio aplinkai išsamų vertinimą.
+8. Užsakovas pagal programą atlieka poveikio
+aplinkai išsamų vertinimą ir parengia ataskaitą.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-436,
+97.10.07, Žin., 1997, Nr.96-2428 (97.10.24)
      
      8 
 straipsnis. Poveikio aplinkai išsamaus  vertinimo programos
@@ -224,9 +243,9 @@ straipsnis. Poveikio aplinkai išsamaus  vertinimo programos
 rengimas
  
      1.
-Poveikio aplinkai išsamaus vertinimo programa rengiama vadovaujantis Aplinkos
-apsaugos ministerijos parengtais ir patvirtintais poveikio aplinkai vertinimo
-programos rengimo nuostatais, numatant alternatyvų nagrinėjimą.
+Poveikio aplinkai išsamaus vertinimo programa rengiama vadovaujantis Aplinkos apsaugos
+ministerijos parengtais ir patvirtintais poveikio aplinkai vertinimo programos
+rengimo nuostatais, numatant alternatyvų nagrinėjimą.
      2. 
 Poveikio  aplinkai vertinimo programą  užsakovas suderina  su  poveikio 
 aplinkai  vertinimo  subjektais, supažindina su ja visuomenę ir, įvertinęs jos
@@ -267,13 +286,18 @@ visuomenės pasiūlymų analize.
      3. 
 Aplinkos  apsaugos  ministerija,  per  mėnesį išnagrinėjusi poveikio aplinkai
 vertinimo ataskaitą ir kitų ataskaitą nagrinėjusių institucijų išvadas bei
-pasiūlymus, priima sprendimą, ar numatomos neigiamą poveikį mažinančios priemonės 
-yra pakankamos, kad būtų užtikrinta normatyvų nustatyta  aplinkos kokybė.Savo
-sprendimą  ir  argumentus ministerija užsakovui pateikia raštu.
-     4. 
-Planuojamai  ūkinei  veiklai,  kuriai  privaloma valstybinė poveikio aplinkai
-vertinimo ekspertizė, Aplinkos apsaugos ministerija dėl šios veiklos galimybių
-poveikio aplinkai  požiūriu  priima sprendimą tik  atlikus  tokią ekspertizę.
+pasiūlymus, priima sprendimą, ar numatomos neigiamą poveikį mažinančios
+priemonės  yra pakankamos, kad būtų užtikrinta normatyvų nustatyta  aplinkos
+kokybė.Savo sprendimą  ir  argumentus ministerija užsakovui pateikia raštu.
+     4.
+Planuojamai ūkinei veiklai, kuriai privaloma poveikio aplinkai vertinimo
+valstybinė ekspertizė, Aplinkos apsaugos ministerija dėl šios veiklos galimybių
+poveikio aplinkai požiūriu priima sprendimą tik atlikus tokią ekspertizę.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-436,
+97.10.07, Žin., 1997, Nr.96-2428 (97.10.24)
      
      11
 straipsnis. Poveikio aplinkai vertinimo valstybinė ekspertizė
@@ -283,10 +307,10 @@ Poveikio aplinkai vertinimo valstybinė ekspertizė privaloma planuojamos ūkin�
 veiklos rūšims ir atskiriems objektams, kurių sąrašą Aplinkos apsaugos
 ministerijos teikimu tvirtina Vyriausybė.
      2.
-Poveikio aplinkai vertinimo valstybinę ekspertizę gali atlikti tik licenciją
+Poveikio aplinkai vertinimo valstybinę ekspertizę gali atlikti tik atestatą
 turintys ekspertai.
-     3. 
-Poveikio  aplinkai vertinimo eksperto  licencija išduodama Vyriausybės
+    
+3. Poveikio aplinkai vertinimo eksperto atestatas išduodamas Vyriausybės
 nustatyta tvarka.
      4.
 Poveikio aplinkai vertinimo valstybinę ekspertizę organizuoja Aplinkos apsaugos
@@ -316,9 +340,15 @@ veiklos galimybių poveikio aplinkai požiūriu priima galutinį sprendimą.
      5.
 Poveikio aplinkai vertinimo valstybinė ekspertizė sudaro valstybinės
 kompleksinės projektų ekspertizės dalį.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-436,
+97.10.07, Žin., 1997, Nr.96-2428 (97.10.24)
+ 
      
-                             
-III SKYRIUS
+      
+                       III SKYRIUS
                         
 BAIGIAMOSIOS NUOSTATOS
      
@@ -330,15 +360,20 @@ Visuomenė turi teisę gauti iš planuojamos ūkinės veiklos poveikio aplinkai
 vertinimo subjektų informaciją apie tai, kaip vertinamas poveikis aplinkai,
 teikti pasiūlymus, pastabas ir pretenzijas, kurias planuojamos ūkinės veiklos
 užsakovas privalo išnagrinėti ir savo sprendimą pagrįsti.
-     2. 
-Visuomenės dalyvavimą planuojamos ūkinės veiklos pirminio  poveikio aplinkai vertinimo
-procese organizuoja savivaldybės.
+     2.
+Visuomenės dalyvavimą planuojamos ūkinės veiklos poveikio aplinkai pirminio
+vertinimo procese organizuoja savivaldybės.
      3.
 Planuojamos ūkinės veiklos poveikio aplinkai išsamaus vertinimo rezultatų viešą
 svarstymą savo lėšomis organizuoja užsakovas.
      4.
-Visuomenės informavimo apie planuojamą ūkinę veiklą ir jos pasiūlymų įgyvendinimo
-tvarką nustato Vyriausybė.
+Visuomenės informavimo apie planuojamą ūkinę veiklą ir jos pasiūlymų
+įgyvendinimo tvarką nustato Vyriausybė.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-436,
+97.10.07, Žin., 1997, Nr.96-2428 (97.10.24)
      
      13
 straipsnis. Išvadų dėl poveikio aplinkai vertinimo galiojimas
