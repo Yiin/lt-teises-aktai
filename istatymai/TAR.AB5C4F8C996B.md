@@ -13,87 +13,37 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB5C4F8C996B"
 
 # Lietuvos Respublikos strateginių prekių kontrolės įstatymas
 
-Suvestinė redakcija nuo 1998-07-15 iki 2002-07-23
+Suvestinė redakcija nuo 2002-07-24 iki 2004-04-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1533, i. k. 0951010ISTA00I-1022
  
+Nauja redakcija nuo 2002-07-24:
+Nr. IX-1051, 2002-07-05, Žin. 2002, Nr. 74-3142 (2002-07-24), i. k. 1021010ISTA0IX-1051
+ 
 LIETUVOS RESPUBLIKOS
-STRATEGINIŲ PREKIŲ IR TECHNOLOGIJŲ IMPORTO,
-TRANZITO IR EKSPORTO KONTROLĖS
-ĮSTATYMAS
+STRATEGINIŲ PREKIŲ EKSPORTO,
+IMPORTO IR TRANZITO KONTROLĖS
+Į S T A T Y M A S
  
 1995 m. liepos 5 d. Nr. I-1022
 Vilnius
  
 
 
-I. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS
+BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis
+1 straipsnis. Įstatymo paskirtis
 
 
-Šio įstatymo tikslas – padėti įgyvendinti tarptautinius susitarimus ir priemones, draudžiančius masinio naikinimo ginklų ir raketų, nešančių tuos ginklus, platinimą; garantuoti tarptautinių įsipareigojimų vykdymą sukuriant Lietuvos Respublikoje efektyvią strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės sistemą, kuri būtų integruota į daugiašalės eksporto kontrolės sistemą; skatinti užsienio prekybą ir užsienio investicijas Lietuvos Respublikoje pažangioms technologijoms įsigyti; sudaryti sąlygas, kurios užtikrintų Lietuvos Respublikos saugumą ir sparčią jos ekonomikos plėtrą.
-
-
-
-
-Šis įstatymas nustato strateginių prekių ir technologijų įvežimo į Lietuvos Respublikos teritoriją, strateginių prekių ir technologijų tranzito per Lietuvos Respublikos teritoriją, šių prekių ir technologijų išvežimo iš Lietuvos Respublikos teritorijos sąlygas bei veiklos, kuri gali prisidėti prie masinio naikinimo ginklų platinimo, kontrolės sąlygas.
- 
+1. Šio Įstatymo paskirtis – įgyvendinti tarptautinius susitarimus ir priemones, draudžiančius masinio naikinimo ginklų ir raketų, nešančių tuos ginklus, platinimą; garantuoti tarptautinių įsipareigojimų vykdymą sukuriant Lietuvos Respublikoje efektyvią strateginių prekių eksporto, importo ir tranzito kontrolės sistemą, kuri būtų integruota į Europos Sąjungos ir tarptautinių neplatinimo režimų eksporto kontrolės sistemą; sudaryti sąlygas Lietuvos Respublikos saugumui užtikrinti, modernioms technologijoms įsigyti bei užsienio prekybai augti.
 
 
 
 
-
-
-2 straipsnis
-
-
-Šiame įstatyme vartojamos pagrindinės sąvokos:
-
-
-kontroliuojamosios prekės – strateginės prekės, technologijos ir programinė įranga. Jos apima:
-
-
-dvigubos paskirties (civilinės ir karinės) prekes, technologijas ir programinę įrangą;
-
-
-
-
-gynybos priemones ir paslaugas;
-
-
-
-
-chemines ir biologines medžiagas, kurios gali būti naudojamos cheminių ginklų ir cheminių bakteriologinių masinio naikinimo ginklų gamyboje;
-
-
-
-
-branduolines medžiagas, branduolinėje veikloje naudojamas nebranduolines medžiagas, branduolinę įrangą ir technologiją, taip pat dvigubos paskirties prekes, kurios gali būti naudojamos branduolinėje veikloje;
-
-
-
-
-prekes ir technologijas, naudojamas raketų gamyboje;
-
-
-
-
-
-
-kontroliuojamųjų prekių importas – strateginių prekių, technologijų ir programinės įrangos įvežimas į Lietuvos Respublikos teritoriją;
-
-
-
-
-kontroliuojamųjų prekių tranzitas – strateginių prekių, technologijų ir programinės įrangos vežimas per Lietuvos Respublikos teritoriją;
-
-
-
-
-kontroliuojamųjų prekių eksportas – visoks strateginių prekių, technologijų ir programinės įrangos perdavimas Lietuvos Respublikos teritorijoje arba už jos ribų, visoks strateginių prekių, technologijų ir programinės įrangos perdavimas Lietuvos Respublikos teritorijoje žinant, kad jos bus išvežamos iš Lietuvos Respublikos teritorijos arba kad jas ketinama išvežti; visoks strateginių prekių, technologijų ir programinės įrangos perdavimas kitos valstybės ambasadai, konsulatui arba atstovybei; visoks strateginės technologijos arba programinės įrangos perdavimas Lietuvos Respublikos teritorijoje kitos valstybės piliečiui, jeigu kitaip nenumatyta Lietuvos Respublikos Vyriausybės.
+2. Šis Įstatymas nustato strateginių prekių eksporto, importo ir tranzito bei veiklos, kuri gali prisidėti prie masinio naikinimo ginklų ir įprastinės ginkluotės platinimo, kontrolės sąlygas.
  
 
 
@@ -101,20 +51,15 @@ kontroliuojamųjų prekių eksportas – visoks strateginių prekių, technologi
 
 
 
+2 straipsnis. Įstatymo taikymas
 
 
-3 straipsnis
-
-
-Pagal šį įstatymą:
-
-
-1) Lietuvos Respublikos Vyriausybė sudaro ir tvirtina kontroliuojamųjų prekių sąrašą, vadovaudamasi režimų sąrašais tų tarptautinių kontrolės institucijų, su kuriomis Lietuvos Respublika bendradarbiauja atlikdama importo, tranzito ir eksporto kontrolę;
+1. Šis Įstatymas taikomas juridiniams ir fiziniams asmenims, kurių veikla susijusi su strateginių prekių eksportu, importu bei tranzitu, įskaitant atstovavimą arba tarpininkavimą vykdant šių prekių eksporto, importo bei tranzito sandorius. 
 
 
 
 
-2) Lietuvos Respublikos Seimas tvirtina sąrašą valstybių, į kurias draudžiama eksportuoti kontroliuojamąsias prekes, ir sąrašą valstybių, iš kurių draudžiama importuoti kontroliuojamąsias prekes.
+2. Įstatymo nuostatos netaikomos paslaugų teikimui arba technologijos perdavimui, jei tas tiekimas arba perdavimas yra susijęs su tuo, kad fiziniai asmenys kerta Lietuvos Respublikos sieną. 
  
 
 
@@ -122,28 +67,55 @@ Pagal šį įstatymą:
 
 
 
+3 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
-4 straipsnis
-
-
-Pagal šį įstatymą kontrolė taikoma ūkio subjektams, fiziniams asmenims ir valstybės institucijoms, kurios vykdo kontroliuojamųjų prekių sandorius.
-
-
-
-
-Ši kontrolė taikoma reguliuojant Lietuvos Respublikoje gyvenančių asmenų (Lietuvos Respublikos piliečių, užsieniečių, asmenų be pilietybės) veiklą (finansavimas, paslaugos, sutarčių sudarymas, konsultacijos ir pan.), kuri gali prisidėti prie masinio naikinimo ginklų ir raketų, nešančių tuos ginklus, platinimo.
- 
+1. Strateginės prekės – dvigubos paskirties prekės ir (ar) karinė įranga, įtrauktos į šio Įstatymo 4 straipsnyje nurodytus Strateginių prekių sąrašus, taip pat paslaugos, susijusios su šiomis prekėmis.
 
 
 
 
+2. Dvigubos paskirties prekės – prekės, programinė įranga ir technologijos, kurios gali būti naudojamos ir civiliniams, ir kariniams tikslams, taip pat visos prekės, kurios pagal tiesioginę paskirtį nėra skirtos sprogdinimams, tačiau kokiu nors būdu gali būti panaudotos branduolinių ginklų ar kitų branduolinių sprogstamųjų įtaisų gamybai.
 
 
-5 straipsnis
 
 
-Importuotos kontroliuojamosios prekės negali būti panaudotos kariniams tikslams, jeigu šito reikalauja eksportuojanti šalis.
+3. Programinė įranga – vienos ar daugiau programų arba mikroprogramų rinkinys, įrašytas bet kurioje laikmenoje.
+
+
+
+
+4. Technologija – speciali informacija, reikalinga prekėms sukurti, gaminti ir naudoti, kuri gali būti pateikiama kaip techniniai duomenys ir kaip techninė pagalba. 
+
+
+
+
+5. Karinė įranga – technika ir jos komponentai, technologijos, programinė įranga, ginklai, amunicija bei jos dalys, sprogmenys, specialiai sukurti ar pritaikyti kariniams tikslams.
+
+
+
+
+6. Importas – strateginių prekių įvežimas į Lietuvos Respublikos muitų teritoriją, programinės įrangos bei technologijų perdavimas faksu, telefonu ar kitu būdu ir (ar) kitomis elektroninėmis priemonėmis iš už Lietuvos Respublikos ribų. Žodinis technologijos perdavimas telefonu į šią sąvoką įeina tais atvejais, kai ši technologija yra aprašyta dokumente, iš kurio esminė technologijos aprašymo dalis yra perskaitoma ar apibūdinama telefonu. 
+
+
+
+
+7. Eksportas – strateginių prekių išvežimas iš Lietuvos Respublikos muitų teritorijos, strateginių prekių reeksportas, programinės įrangos bei technologijų perdavimas faksu, telefonu ar kitu būdu ir (ar) kitomis elektroninėmis priemonėmis į paskirties vietą už Lietuvos Respublikos ribų. Žodinis technologijos perdavimas telefonu į šią sąvoką įeina tais atvejais, kai ši technologija yra aprašyta dokumente, iš kurio esminė technologijos aprašymo dalis yra perskaitoma ar apibūdinama telefonu. 
+
+
+
+
+8. Reeksportas – strateginių prekių, anksčiau importuotų į Lietuvos Respublikos muitų teritoriją, eksportas iš šios teritorijos.
+
+
+
+
+9. Tranzitas – ne Lietuvos Respublikos strateginių prekių gabenimas per Lietuvos Respublikos muitų teritoriją.
+
+
+
+
+10. Tarptautiniai neplatinimo režimai – Wassenaaro susitarimas (WA), Raketų technologijų kontrolės režimas (MTCR), Branduolinių tiekėjų grupė (NSG), Australijos grupė (AG), Konvencija dėl cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo bei jo sunaikinimo (CWC), Konvencija dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo (BTWC), Branduolinio ginklo neplatinimo sutartis (NPT) ir kiti susitarimai bei tarptautiniai valstybių įsipareigojimai, kurių tikslas – politinėmis, ekonominėmis, diplomatinėms bei teisinėmis priemonėmis užkirsti kelią cheminio, biologinio ir branduolinio ginklo bei įprastinės ginkluotės platinimui. 
  
 
 
@@ -153,43 +125,15 @@ Importuotos kontroliuojamosios prekės negali būti panaudotos kariniams tikslam
 
 
 
-II. LICENCIJAVIMO PROCEDŪRA
+ANTRASIS SKIRSNIS
+STRATEGINIŲ PREKIŲ EKSPORTAS, IMPORTAS IR TRANZITAS
  
 
 
-6 straipsnis
+4 straipsnis. Strateginių prekių sąrašų sudarymas
 
 
-Kontroliuojamųjų prekių importui, tranzitui ir eksportui reikalinga Ūkio ministerijos licencija. Šis reikalavimas netaikomas, kai šias prekes importuoja Lietuvos Respublikos krašto apsaugos ministerija ir Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-814, 1998-06-25, Žin., 1998, Nr. 63-1800 (1998-07-15), i. k. 0981010ISTAVIII-814
- 
-
-
-
-
-Lietuvos Respublikos Vyriausybės nustatyta tvarka Aplinkos, Krašto apsaugos, Užsienio reikalų, Vidaus reikalų ministerijos, Valstybinė atominės energetikos saugos inspekcija, Muitinės departamentas prie Finansų ministerijos ir valstybinės tarnybos, kurių veiklos sričiai priklauso kontroliuojamosios prekės, pateikia savo išvadas Ūkio ministerijai, kai ji priima galutinį sprendimą išduoti licenciją, bei kontroliuoja šių prekių importo ir eksporto sandorius. Ūkio ministerija vadovauja importo, tranzito ir eksporto kontrolės darbams bei koordinuoja šią veiklą Lietuvoje.
-Straipsnio dalies pakeitimai:
-Nr. VIII-814, 1998-06-25, Žin., 1998, Nr. 63-1800 (1998-07-15), i. k. 0981010ISTAVIII-814
- 
-
-
-
-
-Kontroliuojamųjų prekių importo, tranzito ir eksporto kompiuterizuotą apskaitą tvarko teritorinės muitinės Muitinės departamento prie Finansų ministerijos nustatyta tvarka, o išduotų ir panaikintų licencijų kompiuterizuotą apskaitą - Ūkio ministerija.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
- 
-
-
-
-
-7 straipsnis
-
-
-Licencijos gavimo sąlygas bei licencijų išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Vyriausybė ar jos įgaliota institucija, vadovaudamasi Europos Sąjungos, tarptautinių neplatinimo režimų kontroliuojamų prekių sąrašais bei atsižvelgdama į Lietuvos Respublikos užsienio politikos ir nacionalinio saugumo interesus, sudaro ir tvirtina Strateginių prekių sąrašus, susidedančius iš Dvigubos paskirties prekių ir technologijų sąrašo bei Bendrojo karinės įrangos sąrašo.
  
 
 
@@ -197,10 +141,15 @@ Licencijos gavimo sąlygas bei licencijų išdavimo tvarką nustato Lietuvos Res
 
 
 
-8 straipsnis
+5 straipsnis. Valstybių, į kurias draudžiama eksportuoti ir iš kurių draudžiama importuoti strategines prekes, sąrašų sudarymas
 
 
-Kontroliuojamosios prekės importuojamos pagal eksportuojančios šalies ir Lietuvos Respublikos įstatymus bei nustatytas sąlygas.
+1. Vyriausybė ar jos įgaliota institucija sudaro ir tvirtina sąrašą valstybių, į kurias draudžiama eksportuoti ar gabenti tranzitu strategines prekes, bei sąrašą valstybių, iš kurių draudžiama importuoti ar gabenti tranzitu strategines prekes. 
+
+
+
+
+2. Sudarant šio straipsnio 1 dalyje nurodytus sąrašus, atsižvelgiama į Jungtinių Tautų Organizacijos Saugumo Tarybos, Europos Sąjungos, Europos Saugumo ir Bendradarbiavimo Organizacijos nustatytas sankcijas, Lietuvos Respublikos tarptautines sutartis, taip pat Lietuvos Respublikos užsienio politikos, valstybės saugumo bei šalies gynybos ir nacionalinės ekonomikos interesus.
  
 
 
@@ -208,63 +157,15 @@ Kontroliuojamosios prekės importuojamos pagal eksportuojančios šalies ir Liet
 
 
 
-9 straipsnis
+6 straipsnis. Strateginių prekių eksporto, importo ir tranzito administravimas
 
 
-Kontroliuojamųjų prekių gavėjas privalo raštu pateikti Ūkio ministerijai informaciją apie gautas kontroliuojamąsias prekes.
-Straipsnio dalies pakeitimai:
-Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
- 
+1. Ūkio ministerija vadovauja strateginių prekių eksporto, importo ir tranzito kontrolės darbams ir juos vykdo kartu su kitomis valstybės institucijomis bei įstaigomis šio Įstatymo ir kitų teisės aktų nustatyta tvarka.
 
 
 
 
-Kontroliuojamųjų prekių importo, tranzito ir eksporto licencijų vienkartinis perdavimas galimas gavus raštišką Lietuvos Respublikos Vyriausybės leidimą, su sąlyga, kad licencijos gavėjas prisiima įpareigojimą vykdyti tas kontrolės sąlygas, kurias nustato šis įstatymas.
- 
-
-
-
-
-
-
-
-
-III. KONTROLĖS ATLIKIMAS
- 
-
-
-10 straipsnis
-
-
-Lietuvos Respublikos Vyriausybės nustatyta tvarka Ūkio ministerijos ar eksportuojančios šalies atitinkamų institucijų prašymu Aplinkos, Krašto apsaugos, Vidaus reikalų ministerijos, Valstybinė atominės energetikos saugos inspekcija, Muitinės departamentas prie Finansų ministerijos atlieka išankstinę kontroliuojamųjų prekių kontrolę.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
-Nr. VIII-814, 1998-06-25, Žin., 1998, Nr. 63-1800 (1998-07-15), i. k. 0981010ISTAVIII-814
- 
-
-
-
-
-11 straipsnis
-
-
-Kad būtų užtikrintas kontrolės sąlygų vykdymas, Aplinkos, Krašto apsaugos, Vidaus reikalų ministerijos, Valstybinė atominės energetikos saugos inspekcija, Muitinės departamentas prie Finansų ministerijos kartu su Ūkio ministerija Lietuvos Respublikos Vyriausybės nustatyta tvarka atlieka nuolatinę kontrolę, t. y. tikrina joms priskirtų kontroliuojamųjų prekių buvimo vietą ir jų naudojimą.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
-Nr. VIII-814, 1998-06-25, Žin., 1998, Nr. 63-1800 (1998-07-15), i. k. 0981010ISTAVIII-814
- 
-
-
-
-
-12 straipsnis
-
-
-Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka kontroliuojamosios prekės gali būti tikrinamos eksportuojančių šalių prašymu taip pat ir dalyvaujant šių eksportuojančių šalių atitinkamiems pareigūnams. Be to, Lietuvos Respublikos Vyriausybės pareigūnai gali būti įgalioti pagal tarptautinių susitarimų reikalavimus patikrinti kontroliuojamąsias prekes importuojančioje šalyje.
+2. Strateginių prekių eksporto, importo ir tranzito kontrolę vykdančias valstybės institucijas ir įstaigas skiria bei šių prekių eksporto, importo ir tranzito kontrolės vykdymo tvarką nustato Vyriausybė.
  
 
 
@@ -272,15 +173,45 @@ Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka kontroliuojamosio
 
 
 
-13 straipsnis
+7 straipsnis. Reikalavimas turėti licenciją strateginių prekių eksportui, importui bei tranzitui
 
 
-Lietuvos Respublikos įstatymų nustatyta tvarka kai kurių valstybės institucijų pareigūnams suteikiami įgaliojimai tikrinti ūkio subjektų, fizinių asmenų ir valstybės institucijų veiklą, kurią reglamentuoja šis įstatymas.
+1. Į Strateginių prekių sąrašus įtrauktų prekių eksportui, importui bei tranzitui reikalinga licencija. Šio straipsnio 8 dalyje nustatyta tvarka ją išduoda Ūkio ministerija.
 
 
 
 
-Informacija, gauta remiantis šiuo įstatymu, yra slapta ir ją paskleidęs asmuo baudžiamas Lietuvos Respublikos įstatymų nustatyta tvarka.
+2. Į Strateginių prekių sąrašus įtrauktų prekių tranzitui, kai jų siuntėjas ir gavėjas (arba bent vienas iš jų) yra užsienio valstybės karinės institucijos arba siuntėjas ir gavėjas veikia šių institucijų įgalioti, licencijų (leidimų) išdavimo tvarką nustato kiti Lietuvos Respublikos teisės aktai.
+
+
+
+
+3. Į Strateginių prekių sąrašus įtrauktų prekių importui, kai šias prekes importuoja Lietuvos Respublikos krašto apsaugos ministerija ir Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės, Ūkio ministerijos licencijos nereikalaujama.
+
+
+
+
+4. Ūkio ministerijos išduota licencija reikalinga į Strateginių prekių sąrašus neįtrauktų prekių eksportui, jei Ūkio ministerija ar kitos strateginių prekių eksporto, importo ir tranzito kontrolę vykdančios valstybės institucijos ir įstaigos yra raštu pranešusios juridiniam ar fiziniam asmeniui, kad atitinkamos prekės yra arba gali būti panaudotos kuriant, gaminant, tvarkant, naudojant, prižiūrint, laikant, nustatant ar platinant cheminį, biologinį, branduolinį ginklą ar kitus branduolinius sprogstamuosius įtaisus arba kuriant, gaminat, prižiūrint ar laikant tokius ginklus nešančias raketas, arba atitinkamos prekės yra ar gali būti panaudotos į Bendrąjį karinės įrangos sąrašą įtrauktoms prekėms kurti ar gaminti. 
+
+
+
+
+5. Ūkio ministerijos išduota licencija reikalinga į Strateginių prekių sąrašus neįtrauktų prekių eksportui, jei importuojančiai šaliai arba galutinio panaudojimo šaliai yra taikomas ginklų embargas, nustatytas Europos Sąjungos Tarybos, Europos Saugumo ir Bendradarbiavimo Organizacijos, Jungtinių Tautų Organizacijos Saugumo Tarybos sprendimais, ir jeigu šio straipsnio 4 dalyje nurodytos institucijos yra raštu pranešusios juridiniam ar fiziniam asmeniui, kad atitinkamos prekės yra arba gali būti panaudotos į Bendrąjį karinės įrangos sąrašą įtrauktų prekių gamybai arba bandymų ar analitinės įrangos, naudojamos šioms prekėms kurti, gaminti ir prižiūrėti, gamybai, arba kaip nebaigtas gaminys gamykloje, kurioje gaminamos į Bendrąjį karinės įrangos sąrašą įtrauktos prekės.
+
+
+
+
+6. Jeigu juridinis ar fizinis asmuo žino, kad jo numatytos eksportuoti į Strateginių prekių sąrašus neįtrauktos prekės yra skirtos kuriam nors iš šio straipsnio 4 ir 5 dalyse nurodytų panaudojimo tikslų, jis turi raštu pranešti Ūkio ministerijai. Ši kartu su strateginių prekių eksporto, importo ir tranzito kontrolę vykdančiomis valstybės institucijomis ir įstaigomis sprendžia, ar reikia licencijos atitinkamai prekei eksportuoti. 
+
+
+
+
+7. Eksportuojančios šalies valstybės institucijų prašymu juridiniam ar fiziniam asmeniui, importuojančiam strategines prekes, išduodamas importo sertifikatas arba analogiškas dokumentas, patvirtinantis strateginių prekių galutinį panaudojimą. 
+
+
+
+
+8. Licencijų rūšis, jų išdavimo, pratęsimo, sustabdymo, atšaukimo, panaikinimo sąlygas ir tvarką, importo sertifikatų bei analogiškų dokumentų, patvirtinančių strateginių prekių galutinį panaudojimą, išdavimo tvarką nustato Vyriausybė.
  
 
 
@@ -288,19 +219,15 @@ Informacija, gauta remiantis šiuo įstatymu, yra slapta ir ją paskleidęs asmu
 
 
 
-14 straipsnis
+8 straipsnis. Apribojimai išduodant strateginių prekių eksporto, importo bei tranzito licencijas
 
 
-Lietuvos Respublikos Vyriausybės nustatyta tvarka ministerijos ir valstybės tarnybos, kurių veiklos sričiai priklauso kontroliuojamosios prekės, informuoja Ūkio ministeriją apie ūkio subjektus, fizinius asmenis ir valstybės institucijas, kurios nevykdo įsipareigojimų arba kontrolės sąlygų.
+1. Sprendžiant, ar išduoti strateginių prekių eksporto ir importo licenciją, privaloma atsižvelgti į Lietuvos Respublikos tarptautinių sutarčių nuostatas, užsienio politikos ir valstybės saugumo interesus, Europos Sąjungos elgesio kodekso dėl ginklų eksporto reikalavimus, tarptautinius neplatinimo režimus bei aplinkybes, susijusias su numatomo strateginių prekių galutinio panaudojimo ir galimybių panaudoti šias prekes masinio naikinimo ginklų gamybai rizika.
 
 
 
 
-Ūkio ministerija parengia ir atspausdina sąrašą asmenų, kurie nevykdo įsipareigojimų arba kontrolės sąlygų. Šie asmenys Ūkio ministerijos sprendimu netenka galimybės užsiimti šio įstatymo nustatyta veikla.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
+2. Strateginių prekių eksporto, importo, tranzito licencija neišduodama, jei tai prieštarauja sankcijoms, taikomoms pagal Jungtinių Tautų Organizacijos Saugumo Tarybos, Europos Saugumo ir Bendradarbiavimo Organizacijos, Europos Sąjungos Tarybos sprendimus, ar Lietuvos Respublikos tarptautinėms sutartims. 
  
 
 
@@ -308,37 +235,107 @@ Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010IS
 
 
 
-IV. ĮSIPAREIGOJIMŲ NEVYKDYMAS
+
+
+TREČIASIS SKIRSNIS
+DUOMENŲ APIE STRATEGINES PREKES PATEIKIMAS, KAUPIMAS IR
+APSKAITA
  
 
 
-15 straipsnis
+9 straipsnis. Duomenų apie strategines prekes pateikimas
 
 
-Jeigu ūkio subjektas, fizinis asmuo arba valstybės institucija nevykdo įsipareigojimų arba kontrolės sąlygų, pateikia ne visą ar klaidinančią informaciją, Ūkio ministerija Lietuvos Respublikos Vyriausybės nustatyta tvarka panaikina licenciją.
-Straipsnio dalies pakeitimai:
-Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
+1. Juridiniai ir fiziniai asmenys, vykdantys strateginių prekių eksportą, importą ir tranzitą, ar šių prekių galutiniai vartotojai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo pateikti strateginių prekių eksporto, importo ir tranzito kontrolę vykdančioms valstybės institucijoms ir įstaigoms visus strateginių prekių kontrolei atlikti reikalingus duomenis. 
+
+
+
+
+2. Duomenys apie strategines prekes, kurie sudaro valstybės ar tarnybos paslaptį, šių prekių kontrolę vykdančioms valstybės institucijoms ir įstaigoms teikiami bei šiose institucijose ir įstaigose kaupiami ir saugomi Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
  
 
 
 
 
-Už šio įstatymo pažeidimus ūkio subjektai, fiziniai asmenys ir valstybės institucijos atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+
+10 straipsnis. Duomenų apie strategines prekes kaupimas
+
+
+1. Ūkio ministerija kaupia duomenis apie strategines prekes bei juridinius ir fizinius asmenis, eksportuojančius, importuojančius ar gabenančius tranzitu strategines prekes, šių prekių galutinius vartotojus ar kitaip su jomis susijusius asmenis ir naudoja šiuos duomenis strateginių prekių eksporto, importo ir tranzito kontrolei.
 
 
 
 
-Jeigu negalima nustatyti teisėto kontroliuojamųjų prekių savininko, Lietuvos Respublikos įstatymų nustatyta tvarka jos pereina valstybės nuosavybėn.
+2. Strateginių prekių eksporto, importo ir tranzito statistinius duomenis Muitinės kodekso, Statistikos įstatymo ir kitų teisės aktų nustatyta tvarka renka, apdoroja ir teikia muitinės įstaigos.
+ 
 
 
 
 
-Jeigu neįrodoma, kad kontroliuojamosios prekės yra gautos legaliai, jos yra sulaikomos ir konfiskuojamos Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+
+11 straipsnis. Duomenų apie strategines prekes apskaita
+
+
+1. Juridiniai ir fiziniai asmenys, kuriems yra išduotos strateginių prekių eksporto, importo ir tranzito licencijos arba kurie yra šių prekių galutiniai vartotojai, teisės aktų nustatyta tvarka privalo tvarkyti išsamią duomenų apie strategines prekes apskaitą, kurioje būtų pakankamai informacijos, leidžiančios nustatyti strateginių prekių tapatybę, jų kiekį, kokybę, rūšį, vertę, eksportuotojo, importuotojo, šių prekių gavėjo pavadinimus ir adresus, strateginių prekių galutinį panaudojimą ir galutinį vartotoją.
 
 
 
 
-Konfiskuotos kontroliuojamosios prekės realizuojamos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+2. Juridiniai ir fiziniai asmenys privalo saugoti šio straipsnio 1 dalyje nurodytus strateginių prekių apskaitos dokumentus ne mažiau kaip 3 metus nuo kalendorinių metų, kuriais atitinkamos prekės buvo eksportuotos, importuotos ar gabentos tranzitu, pabaigos, jeigu Lietuvos Respublikos įstatymai ir kiti teisės aktai nenustato kitaip.
+ 
+
+
+
+
+
+
+
+
+KETVIRTASIS SKIRSNIS
+STRATEGINIŲ PREKIŲ KONTROLĖS PRIEMONĖS
+ 
+
+
+12 straipsnis. Strateginių prekių kontrolės vykdymas
+
+
+1. Strateginių prekių kontrolę vykdantys valstybės tarnautojai turi teisę tikrinti, kaip juridiniai ir fiziniai asmenys, vykdantys strateginių prekių eksportą, importą bei tranzitą, ar šių prekių galutiniai vartotojai laikosi šio Įstatymo ir kitų teisės aktų, reglamentuojančių strateginių prekių kontrolę, reikalavimų, taip pat patekti į teritoriją ir patalpas, kuriose yra saugomos ar naudojamos strateginės prekės, gauti strateginių prekių apskaitos dokumentus bei kitą kontrolei vykdyti reikalingą informaciją. Kontrolės vykdymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+
+
+
+2. Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka į Lietuvos Respubliką importuotos strateginės prekės gali būti tikrinamos eksportuojančių valstybių prašymu taip pat dalyvaujant šių valstybių atstovams, o Lietuvos Respublikos valstybės tarnautojai gali būti įgalioti patikrinti iš Lietuvos Respublikos eksportuotas strategines prekes importuojančioje valstybėje.
+
+
+
+
+3. Importuotas į Lietuvos Respubliką strategines prekes gali tikrinti tarptautinės inspekcijos, pagal tarptautines sutartis turinčios įgaliojimus kontroliuoti neplatinimo režimų įgyvendinimą. 
+
+
+
+
+4. Strateginių prekių eksporto, importo ir tranzito kontrolę vykdantys valstybės tarnautojai privalo užtikrinti iš juridinių ir fizinių asmenų gautos informacijos apsaugą Lietuvos Respublikos įstatymų nustatyta tvarka. 
+ 
+
+
+
+
+
+
+
+
+PENKTASIS SKIRSNIS
+BAIGIAMOSIOS NUOSTATOS
+ 
+
+
+13 straipsnis. Atsakomybė už Įstatymo pažeidimus
+
+
+Už šio Įstatymo pažeidimus juridiniai ir fiziniai asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+ 
 
 
 
@@ -357,6 +354,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
@@ -368,3 +366,8 @@ Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-814, 1998-06-25, Žin., 1998, Nr. 63-1800 (1998-07-15), i. k. 0981010ISTAVIII-814
 Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo 6, 10, 11 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1051, 2002-07-05, Žin., 2002, Nr. 74-3142 (2002-07-24), i. k. 1021010ISTA0IX-1051
+Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo pakeitimo įstatymas
