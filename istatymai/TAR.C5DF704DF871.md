@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C5DF704DF871"
 Redagavo: Ramun? L??ait? (1996
 
 Įstatymas
-paskelbtas: Žin., 1994, Nr.3-40
+paskelbtas: Žin., 1994, Nr. 3-40
 Neoficialus
 įstatymo tekstas
  
@@ -75,6 +75,19 @@ veterinarinius), medicinos techniką, įrengimus ir žaliavas, naudojamas vaista
 gaminti, ir vaistines prekes. Medicinos technikos, įrengimų, naudojamų vaistams
 gaminti, žaliavų ir vaistinių prekių, už kurias PVM nemokamas, sąrašą sudaro
 Lietuvos Respublikos Vyriausybė;
+ 
+[1 punkto redakcija nuo 2001 m. sausio 1
+d.:
+1) sveikatos
+priežiūros paslaugas, kurias teikia sveikatos priežiūros įstaigos ir kurių
+kaina neviršija Sveikatos apsaugos ministerijos patvirtintų sveikatos
+priežiūros paslaugų bazinių kainų, bei veterinarinio aptarnavimo paslaugas,
+kurias teikia valstybinės veterinarijos įstaigos, vaistus (įskaitant
+veterinarinius), medicinos techniką, įrengimus ir žaliavas, naudojamas vaistams
+gaminti, ir vaistines prekes. Medicinos technikos, įrengimų, naudojamų vaistams
+gaminti, žaliavų ir vaistinių prekių, už kurias PVM nemokamas, sąrašą sudaro
+Lietuvos Respublikos Vyriausybė;]
+ 
 2) vaikų
 darželių ir lopšelių, senelių ir invalidų pensionatų teikiamas socialines
 paslaugas;
@@ -151,6 +164,8 @@ Nr. VIII-1606, 00.04.04, Žin., 2000, Nr.32-891
 (00.04.19), įsigalioja nuo 2000.05.01
 Nr. VIII-1879, 00.07.18, Žin., 2000, Nr.64-1944
 (00.07.31)
+Nr. VIII-2040, 00.10.12, Žin., 2000, Nr.92-2880
+(00.10.31), įsigalioja nuo 2001.01.01
  
  
 II. PRIDĖTINĖS
@@ -199,18 +214,13 @@ mėnesiais nuo kiekvieną mėnesį gautų pajamų (įplaukų) už realizuotas pr
 suteiktas paslaugas PVM turi apskaičiuoti ir mokėti į biudžetą iki kito po
 ataskaitinio mėnesio 25 dienos. PVM mokėtojų registravimo tvarką nustato
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
-Laisvosiose
-ekonominėse zonose zonų įmonės PVM neskaičiuoja ir į biudžetą nemoka.
- 
-[Straipsnis papildomas nauja 4 dalimi,
-buvusi 4 dalis laikoma 5 dalimi nuo 2000m. spalio 1d.:
 Lietuvos
 Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais ir
 tvarka PVM mokėtojai gali būti išregistruojami iš PVM mokėtojų registro.
 Išregistruotų PVM mokėtojų pakartotinio įregistravimo PVM mokėtojais tvarką
 nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 Laisvosiose
-ekonominėse zonose zonų įmonės PVM neskaičiuoja ir į biudžetą nemoka.]
+ekonominėse zonose zonų įmonės PVM neskaičiuoja ir į biudžetą nemoka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -230,17 +240,10 @@ Nr. VIII-1841, 00.07.13, Žin., 2000, Nr.64-1918
             7 straipsnis.
 Asmenys, kurie pagal 6 straipsnio nuostatas yra PVM mokėtojai, privalo
 registruotis valstybinėje mokesčių inspekcijoje kaip PVM mokėtojai.
-            Valstybinė mokesčių
-inspekcija įregistruoja ir naujai įsisteigusias įmones, numatančias, kad jų
-realizacinės pajamos viršys 6 straipsnyje nustatytą sumą.
- 
-[2 dalies redakcija nuo 2000 m. spalio 1
-d.:
 Valstybinė
 mokesčių inspekcija Lietuvos Respublikos Vyriausybės ar jos įgaliotos
 institucijos nustatyta tvarka gali įregistruoti ir naujai įsisteigusias įmones,
-numatančias, kad jų realizacinės pajamos viršys 6 straipsnyje nustatytą sumą.]
- 
+numatančias, kad jų realizacinės pajamos viršys 6 straipsnyje nustatytą sumą.
             Registruotis valstybinėje
 mokesčių inspekcijoje taip pat turi ūkininkai, kuriems taikomas PVM
 kompensacinis tarifas.
@@ -250,6 +253,7 @@ Nr.
 I-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
 Nr. VIII-1841, 00.07.13, Žin., 2000, Nr.64-1918
 (00.07.31), įsigalioja nuo 2000.10.01
+ 
  
             8 straipsnis. Asmenys,
 kurie nėra PVM mokėtojai, neturi teisės šio mokesčio imti iš prekių pirkėjų
@@ -340,12 +344,12 @@ TARIFAI
             13 straipsnis. PVM tarifai:
             1) 0 - eksportuotoms prekėms
 ir paslaugoms, suteiktoms už Lietuvos Respublikos ribų;
-2) 18 procentų -
-visoms prekėms ir paslaugoms, išskyrus išvardytas šio įstatymo 4 ir 23
-straipsniuose bei šio straipsnio pirmosios dalies 1 ir 3 punktuose;
-3) 5 procentai - maršrutinio keleivinio
-transporto paslaugoms Susisiekimo ministerijos ir vietos savivaldos institucijų
-nustatytais maršrutais.
+2) 18 procentų - visoms prekėms ir
+paslaugoms, išskyrus išvardytas šio įstatymo 4 ir 23 straipsniuose bei šio
+straipsnio pirmosios dalies 1 ir 3 punktuose;
+3) 5 procentai -
+maršrutinio keleivinio transporto paslaugoms Susisiekimo ministerijos ir vietos
+savivaldos institucijų nustatytais maršrutais.
 Tarifo dydį
 ūkininkams, kuriems taikomas PVM kompensacinis tarifas, nustato Lietuvos
 Respublikos Vyriausybė. Tarifo dydis negali viršyti 9 procentų.
@@ -415,73 +419,22 @@ VIII-451, 97.10.14, Žin., 1997, Nr.98-2479 (97.10.30)
  
 17 straipsnis. Jeigu per
 mokesčio laikotarpį atskaitoma PVM suma yra didesnė už parduotų prekių ir
-suteiktų paslaugų PVM sumą, mokėtojas gali pateikti teritorinei valstybinei
-mokesčių inspekcijai nustatytos formos prašymą skirtumą grąžinti. Skirtumas
-grąžinamas ne vėliau kaip per 10 dienų nuo mokėtojo raštiško prašymo bei
-reikalaujamų dokumentų pateikimo dienos, bet ne anksčiau kaip nuo šio įstatymo
-35 straipsnyje nustatyto PVM sumokėjimo į biudžetą termino pradžios ir tik tuo
-atveju, jei jis susidarė dėl: 
-1) prekių ir
-paslaugų eksporto. Šiuo atveju eksportuotojas - PVM mokėtojas, įregistruotas
-valstybinėje mokesčių inspekcijoje, turi pateikti dokumentus, įrodančius, kad
-prekės pripažintos eksportuotomis Muitinės departamento prie Lietuvos
-Respublikos finansų ministerijos nustatyta tvarka. Dėl akcizais apmokestinamų
-eksportuojamų alkoholinių gėrimų, tabako gaminių, naftos produktų bei prekių,
-nurodytų Lietuvos Respublikos finansų ministerijos sąraše, eksportuotojas turi
-papildomai pateikti užsienio valstybės, į kurią išgabentos prekės, importo
-deklaracijos kopiją su tos šalies muitinės žymomis ar kitus dokumentus Lietuvos
-Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir
-atvejais. Jeigu eksportuotojas negali pateikti įrodymų, reikalingų prekėms
-(paslaugoms) pripažinti eksportuotomis, arba paaiškėja, kad buvo pateikti
-neteisingi duomenys, suklastoti dokumentai, tos prekės (paslaugos)
-apmokestinamos pagal 13 straipsnio 2 punkte nustatytą tarifą;
-2) ilgalaikio
-turto įsigijimo naudoti veikloje, išvardytoje Ekonominės veiklos rūšių
-klasifikatoriaus A, B, C, D, E, F, G, H, I sekcijose;
-3) žemės ūkio
-sezoninių žaliavų bei medžiagų apmokestinamosioms prekėms gaminti atsargų
-sudarymo;
-4) paslaugų ir
-materialinių vertybių panaudojimo apmokestinamoms prekėms gaminti, jei jų
-gamybos ciklas ilgesnis kaip pusė metų. Tokių gamybos šakų sąrašą tvirtina
-Lietuvos Respublikos Vyriausybė;
-5) skirtingų PVM
-tarifų; 
-6) akmens
-anglies, suskystintų ir gamtinių dujų, naftos, krosnims kuro, mazuto, malkų,
-branduolinio kuro įsigijimo naudoti veikloje, išvardytoje Ekonominės veiklos
-rūšių klasifikatoriaus A, B, C, D, E, F sekcijose.
-Šio straipsnio 1 dalies 1 punkte
-nustatyta tvarka grąžinama dėl prekių (paslaugų) eksporto suma gali būti ne
-didesnė kaip sąlyginė 18 procentų PVM suma, apskaičiuota nuo eksportuotų prekių
-ir paslaugų apmokestinamosios vertės. Skirtumas, susidaręs ne dėl 1
-dalies 1-6 punktuose nurodytų priežasčių, įskaitomas eilinėms įmokoms į
-biudžetą padengti. Jeigu šis skirtumas susidaro tris mokesčio laikotarpius iš
-eilės, teritorinė valstybinė mokesčių inspekcija privalo patikrinti PVM
-mokėtoją ir, jeigu nustato pažeidimus, gali panaikinti mokėtojo registraciją 12
-mėnesių, nutraukdama tolesnę susidariusio skirtumo užskaitą. Pažeidimų
-nenustačiusi, teritorinė valstybinė mokesčių inspekcija grąžina PVM skirtumą per
-10 dienų nuo patikrinimo dienos.
- 
-[1 ir 2 dalių redakcija nuo 2000 m.
-spalio 1 d.:
-Jeigu per mokesčio laikotarpį atskaitoma PVM suma
-yra didesnė už parduotų prekių ir suteiktų paslaugų PVM sumą, susidaręs skirtumas, mokesčio mokėtojui pateikus centrinio mokesčio
-administratoriaus nustatytos formos raštišką prašymą, įskaitomas. Kartu su
-prašymu įskaityti skirtumą mokėtojas privalo pateikti dokumentus, suteikiančius
-teisę taikyti nulinį (0 procentų) PVM tarifą, bei kitus teisės aktuose
-numatytus dokumentus. Skirtumas įskaitomas Mokesčių administravimo įstatymo
-nustatyta tvarka ir terminais. Įmonėms, įrašytoms į centrinio mokesčio
-administratoriaus nustatyta tvarka teritorinių valstybinių mokesčių inspekcijų
-sudaromą Įmonių, turinčių teisę susigrąžinti iš biudžeto per mokestinį
-laikotarpį susidariusio PVM skirtumo likutį, sąrašą, PVM skirtumo likučio,
-likusio po įskaitymo, dalis (tačiau ne didesnė kaip sąlyginė 18 procentų PVM suma,
-apskaičiuota nuo apmokestinamos vertės prekių ir paslaugų, kurioms pritaikytas
-nulinis (0 procentų) PVM tarifas, ir PVM suma, per mokestinį laikotarpį
-atskaityta už įsigytą ilgalaikį turtą) grąžinama Mokesčio administravimo
-įstatymo nustatyta tvarka ir terminais. Į Įmonių, turinčių teisę
-susigrąžinti iš biudžeto per mokestinį laikotarpį susidariusio PVM skirtumo
-likutį, sąrašą įrašomos įmonės, atitinkančios šiuos kriterijus:
+suteiktų paslaugų PVM sumą, susidaręs skirtumas, mokesčio mokėtojui pateikus
+centrinio mokesčio administratoriaus nustatytos formos raštišką prašymą,
+įskaitomas. Kartu su prašymu įskaityti skirtumą mokėtojas privalo pateikti
+dokumentus, suteikiančius teisę taikyti nulinį (0 procentų) PVM tarifą, bei
+kitus teisės aktuose numatytus dokumentus. Skirtumas įskaitomas Mokesčių
+administravimo įstatymo nustatyta tvarka ir terminais. Įmonėms, įrašytoms į
+centrinio mokesčio administratoriaus nustatyta tvarka teritorinių valstybinių
+mokesčių inspekcijų sudaromą Įmonių, turinčių teisę susigrąžinti iš biudžeto
+per mokestinį laikotarpį susidariusio PVM skirtumo likutį, sąrašą, PVM skirtumo
+likučio, likusio po įskaitymo, dalis (tačiau ne didesnė kaip sąlyginė
+18 procentų PVM suma, apskaičiuota nuo apmokestinamos vertės prekių ir
+paslaugų, kurioms pritaikytas nulinis (0 procentų) PVM tarifas, ir PVM suma,
+per mokestinį laikotarpį atskaityta už įsigytą ilgalaikį turtą) grąžinama
+Mokesčio administravimo įstatymo nustatyta tvarka ir terminais. Į Įmonių,
+turinčių teisę susigrąžinti iš biudžeto per mokestinį laikotarpį susidariusio
+PVM skirtumo likutį, sąrašą įrašomos įmonės, atitinkančios šiuos kriterijus:
 1)
 įmonės pajamų (įplaukų) dalis iš veiklos, nurodytos Lietuvos Respublikos
 Vyriausybės ar jos įgaliotos institucijos išvardytose Ekonominės veiklos rūšių
@@ -498,12 +451,12 @@ kaip 3 kalendoriniai mėnesiai ir ne ilgesnį kaip 12 kalendorinių mėnesių;
 privalomus mokesčius, delspinigius, baudas, palūkanas už suteiktas mokestines
 paskolas į valstybės ir savivaldybės biudžetus bei fondus (arba šių mokesčių,
 delspinigių, baudų mokėjimas atidėtas arba pateiktas prašymas dėl atidėjimo
-Lietuvos Respublikos teisės aktų nustatyta tvarka, arba dėl šių mokesčių, delspinigių,
-baudų vyksta mokestinis ginčas, arba įmonė Lietuvos Respublikos Vyriausybės
-nustatyta tvarka kreipėsi į Komisiją mokesčio mokėtojų prašymams dėl
-atsiskaitymo akcijomis ir turtu nagrinėti dėl atsiskaitymo už šiuos mokesčius,
-delspinigius ir baudas akcijomis ir turtu) ir pateikusi visas reikalaujamas
-mokesčių deklaracijas ar apyskaitas;
+Lietuvos Respublikos teisės aktų nustatyta tvarka, arba dėl šių mokesčių,
+delspinigių, baudų vyksta mokestinis ginčas, arba įmonė Lietuvos Respublikos
+Vyriausybės nustatyta tvarka kreipėsi į Komisiją mokesčio mokėtojų prašymams
+dėl atsiskaitymo akcijomis ir turtu nagrinėti dėl atsiskaitymo už šiuos
+mokesčius, delspinigius ir baudas akcijomis ir turtu) ir pateikusi visas
+reikalaujamas mokesčių deklaracijas ar apyskaitas;
 3)
 įmonei
 nėra įsigaliojęs nutarimas skirti baudą už padarytą piktybinį mokesčių įstatymų
@@ -524,11 +477,10 @@ laikotarpius iš eilės. Jeigu mokesčio mokėtojas likviduojamas arba
 išregistruojamas iš PVM mokėtojų, neįskaitytas ir negrąžintas PVM skirtumo
 likutis grąžinamas Mokesčių administravimo įstatymo nustatyta tvarka,
 neatsižvelgiant į šioje dalyje nustatytus apribojimus. PVM skirtumo likutis
-grąžinamas Mokesčių administravimo įstatymo nustatytais terminais.]
- 
+grąžinamas Mokesčių administravimo įstatymo nustatytais terminais.
 Skirtumo (viso
-ar jo dalies) grąžinimas (įskaitymas) šio straipsnio pirmojoje ir antrojoje dalyse
-nustatytais atvejais gali būti sustabdomas Lietuvos Respublikos mokesčių
+ar jo dalies) grąžinimas (įskaitymas) šio straipsnio pirmojoje ir antrojoje
+dalyse nustatytais atvejais gali būti sustabdomas Lietuvos Respublikos mokesčių
 administravimo įstatymo nustatyta tvarka.
 Atskaityta PVM suma Lietuvos Respublikos
 Vyriausybės nustatyta tvarka grąžinama į biudžetą, jeigu pakeičiama ilgalaikio
@@ -561,18 +513,19 @@ VIII-1276, 99.07.01, Žin., 1999, Nr.62-2033 (99.07.16)
 Nr. VIII-1841, 00.07.13, Žin., 2000, Nr.64-1918
 (00.07.31), įsigalioja nuo 2000.10.01
  
+ 
             18 straipsnis.
 Atskaityti kitiems PVM mokėtojams priklausančias sumokėti mokesčio sumas galima
-tik tuo atveju, kai jos išskirtos juridinę galią turinčiose PVM sąskaitose-faktūrose
-arba Lietuvos Respublikos Vyriausybės nustatytais atvejais kituose juridinę
-galią turinčiuose apskaitos dokumentuose. Už importuotas prekes PVM sumos gali
-būti atskaitomos tik tuomet, kai prekių įvežimo dokumentuose yra atitinkama
-muitinės žyma apie mokesčio apskaičiavimą ir šis mokestis importuotojo
-sumokėtas į biudžetą. Už importuojamą mazutą, skirtą naudoti veikloje, kuri yra
-nurodyta Ekonominės veiklos rūšių klasifikatoriaus DF posekcijoje ir E
-sekcijoje, ir už importuojamą ilgalaikį gamybinės paskirties turtą, naftą,
-branduolinį kurą, suskystintas ir gamtines dujas PVM gali būti užskaitomas
-Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+tik tuo atveju, kai jos išskirtos juridinę galią turinčiose PVM
+sąskaitose-faktūrose arba Lietuvos Respublikos Vyriausybės nustatytais atvejais
+kituose juridinę galią turinčiuose apskaitos dokumentuose. Už importuotas
+prekes PVM sumos gali būti atskaitomos tik tuomet, kai prekių įvežimo
+dokumentuose yra atitinkama muitinės žyma apie mokesčio apskaičiavimą ir šis
+mokestis importuotojo sumokėtas į biudžetą. Už importuojamą mazutą, skirtą
+naudoti veikloje, kuri yra nurodyta Ekonominės veiklos rūšių klasifikatoriaus
+DF posekcijoje ir E sekcijoje, ir už importuojamą ilgalaikį gamybinės
+paskirties turtą, naftą, branduolinį kurą, suskystintas ir gamtines dujas PVM
+gali būti užskaitomas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
             Specialios parduotuvės,
 pardavusios iš Lietuvos Respublikos gyventojų supirktus naudotus daiktus,
 Lietuvos Respublikos Vyriausybės nustatyta tvarka gali pagal supirktų daiktų
@@ -592,8 +545,8 @@ VIII-843, 98.07.02, Žin., 1998, Nr.68-1982 (98.07.31)
  
  
 19 straipsnis. Iš
-apskaičiuotos PVM už realizuotas prekes ir paslaugas sumos neatskaitomas įtrauktas
-į apskaitą PVM už prekes ir paslaugas, panaudotas:
+apskaičiuotos PVM už realizuotas prekes ir paslaugas sumos neatskaitomas
+įtrauktas į apskaitą PVM už prekes ir paslaugas, panaudotas:
 1) PVM
 neapmokestinamoms prekėms gaminti ir paslaugoms teikti (nurodytoms šio įstatymo
 4 ir 38 straipsniuose);
@@ -645,18 +598,19 @@ nariams už asmeniniam naudojimui įsigytas prekes, jeigu šių organizacijų
 sutartyse su Lietuvos Respublika numatyta neimti PVM ar jam tapačių mokesčių
 arba numatyta juos grąžinti, pagal Lietuvos Respublikos Vyriausybės sudarytą
 sąrašą;
-            3) Lietuvos Respublikos Vyriausybės
-nustatyta tvarka už importuojamas prekes ir paslaugas, apmokamas pagal
-techninės bei humanitarinės pagalbos programas užsienio valstybių, tarptautinių
-organizacijų ir fondų bei valstybei skirtų paskolų lėšomis, taip pat valstybės
-garantuotų paskolų lėšomis biudžetinėms įstaigoms. Jeigu PVM mokėjimo terminas
-nesuėjęs ir mokestis nesumokėtas, jis gali būti panaikintas. Šis mokestis
-Lietuvos Respublikos Vyriausybės nustatyta tvarka taip pat gali būti grąžinamas
-už prekes ir paslaugas, įsigyjamas Lietuvos Respublikoje pagal techninės
-pagalbos programas ir už valstybei skirtų paskolų lėšas bei valstybės
+            3) Lietuvos Respublikos
+Vyriausybės nustatyta tvarka už importuojamas prekes ir paslaugas, apmokamas
+pagal techninės bei humanitarinės pagalbos programas užsienio valstybių,
+tarptautinių organizacijų ir fondų bei valstybei skirtų paskolų lėšomis, taip
+pat valstybės garantuotų paskolų lėšomis biudžetinėms įstaigoms. Jeigu PVM
+mokėjimo terminas nesuėjęs ir mokestis nesumokėtas, jis gali būti panaikintas.
+Šis mokestis Lietuvos Respublikos Vyriausybės nustatyta tvarka taip pat gali
+būti grąžinamas už prekes ir paslaugas, įsigyjamas Lietuvos Respublikoje pagal
+techninės pagalbos programas ir už valstybei skirtų paskolų lėšas bei valstybės
 garantuotas paskolų lėšas biudžetinėms įstaigoms. Jeigu tarptautinėse sutartyse
-nustatytos kitokios apmokestinimo PVM taisyklės ir šios sutartys yra ratifikuotos
-Lietuvos Respublikoje, tai taikomos tarptautinių sutarčių taisyklės;
+nustatytos kitokios apmokestinimo PVM taisyklės ir šios sutartys yra
+ratifikuotos Lietuvos Respublikoje, tai taikomos tarptautinių sutarčių
+taisyklės;
             4) Muitinės kodekso
 nustatytais atvejais.
 Straipsnio
@@ -697,7 +651,7 @@ neapmokestinamos šios importuojamos prekės:
 1) gaunamos kaip
 labdara;
  
-[1 punkto redakcija nuo 2001 sausio 1
+[1 punkto redakcija nuo 2001 m. sausio 1
 d.:
 1) gaunamos kaip
 parama - Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos
@@ -706,10 +660,10 @@ nustatytais atvejais ir tvarka;]
 2) įvežamos
 fizinių asmenų (keleivių), jeigu prekių įvežama ne daugiau kaip Lietuvos
 Respublikos Vyriausybės leista jiems įvežti be importo mokesčių;
-3) įvežamos
-užsienio šalių diplomatinių ir konsulinių atstovybių, taip pat tarptautinių
-organizacijų oficialiai misijos veiklai, jeigu šių tarptautinių organizacijų
-sutartyse su Lietuvos Respublika numatyta neimti PVM;
+3) įvežamos užsienio
+šalių diplomatinių ir konsulinių atstovybių, taip pat tarptautinių organizacijų
+oficialiai misijos veiklai, jeigu šių tarptautinių organizacijų sutartyse su
+Lietuvos Respublika numatyta neimti PVM;
 4) prekės,
 kurios pagal Muitinės kodeksą neapmokestinamos importo mokesčiais;
 5) išvardytos
@@ -724,8 +678,8 @@ parama biudžetinėms įstaigoms;
 punktas laikomas 7 punktu nuo 2001 m. sausio 1 d.]
  
 8) susijusios su
-Lietuvos Respublikos gynyba ir saugumu pavieniais Lietuvos Respublikos Vyriausybės
-nustatytais atvejais.
+Lietuvos Respublikos gynyba ir saugumu pavieniais Lietuvos Respublikos
+Vyriausybės nustatytais atvejais.
 Straipsnio
 pakeitimai:
 Nr.
@@ -744,8 +698,8 @@ Nr. VIII-1879, 00.07.18, Žin., 2000, Nr.64-1944
 (00.07.31)
  
  
-24 straipsnis. Atsisakoma išieškoti
-PVM už importuojamas prekes Muitinės kodekso nustatytais atvejais.
+24 straipsnis. Atsisakoma
+išieškoti PVM už importuojamas prekes Muitinės kodekso nustatytais atvejais.
 Straipsnio
 pakeitimai:
 Nr.
@@ -756,44 +710,8 @@ VIII-557, 97.12.09, Žin., 1997, Nr.117-2997 (97.12.24)
  
 25 straipsnis. 13 straipsnyje
 nustatytu 0 tarifu apmokestinama:
-1) eksportuotos
-prekės, įskaitant grąžintas atgal į užsienį laikinai įvežtas perdirbti prekes
-ar iš jų pagamintus kompensacinius produktus;
-2) eksportuojamų
-prekių gabenimas, kai maršruto galutinis punktas yra už Lietuvos Respublikos
-teritorijos ribų, taip pat visos paslaugos, susijusios su užsienio krovinių
-pervežimu tranzitu per Lietuvos Respubliką;
-3) lėktuvų ir
-laivų, vežančių prekes ir keleivius tarptautiniais maršrutais, aprūpinimas,
-komplektavimas (įskaitant bilietų pardavimą), remontas, eksploatavimas ir
-nuoma;
-            4) prekės, įvežamos į
-muitinės sandėlius, neapmuitinamas parduotuves, laisvąsias ekonomines
-zonas ir laisvuosius sandėlius;
-5) mokėtojų -
-įmonių, įstaigų ir organizacijų atliktos paslaugos už Lietuvos Respublikos
-ribų; 
-6) užsienio
-šalies rezidentų tiesiogiai apmokamos prekės ir paslaugos, susijusios su
-eksportui ir reeksportui skirtų prekių gamyba.
-Norėdamas
-taikyti 0 tarifą eksportuotoms prekėms, asmuo - PVM mokėtojas, įregistruotas
-valstybinėje mokesčių inspekcijoje, turi turėti dokumentus, įrodančius, kad
-prekės Muitinės departamento prie Lietuvos Respublikos finansų ministerijos
-nustatyta tvarka pripažintos eksportuotomis.
-Jeigu mokesčio
-administratorius turi patvirtinimą, kad pateikti klaidingi duomenys apie
-užsienio šalies rezidentą, tai parduodamos prekės (teikiamos paslaugos (šio
-straipsnio 6 punktas), už kurias tiesiogiai apmoka užsienio šalies subjektas,
-susijusios su eksportui ir reeksportui skirtų prekių gamyba, apmokestinamos
-taikant 13 straipsnio 2 punkte nustatytą tarifą.
- 
-[25 straipsnio redakcija nuo 2000 m.
-spalio 1 d.:
-25 straipsnis. 13 straipsnyje
-nustatytu 0 tarifu apmokestinama:
-1) eksportuotos prekės, įskaitant
-grąžintas atgal į užsienį laikinai įvežtas perdirbti prekes ar iš jų pagamintus
+1) eksportuotos prekės, įskaitant grąžintas
+atgal į užsienį laikinai įvežtas perdirbti prekes ar iš jų pagamintus
 kompensacinius produktus;
 2) eksportuojamų prekių gabenimas, kai
 maršruto galutinis punktas yra už Lietuvos Respublikos teritorijos ribų, taip
@@ -810,36 +728,35 @@ organizacijų atliktos paslaugos už Lietuvos Respublikos ribų;
 6) užsienio šalies rezidentų tiesiogiai
 apmokamos prekės ir paslaugos, susijusios su eksportui ir reeksportui skirtų
 prekių gamyba.
-Norėdamas taikyti
-0 tarifą eksportuotoms prekėms, asmuo PVM mokėtojas, įregistruotas valstybinėje
-mokesčių inspekcijoje, turi turėti dokumentus, įrodančius, kad prekės Muitinės
-departamento prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka
-pripažintos eksportuotomis. Dėl akcizais apmokestinamų eksportuojamų
-alkoholinių gėrimų, tabako gaminių, naftos produktų, taip pat kitų prekių,
-nurodytų Lietuvos Respublikos finansų ministerijos sąraše, eksportuotojas turi
-papildomai turėti ir kitus dokumentus Lietuvos Respublikos Vyriausybės ar jos
-įgaliotos institucijos nustatyta tvarka ir atvejais. 
+Norėdamas
+taikyti 0 tarifą eksportuotoms prekėms, asmuo PVM mokėtojas, įregistruotas
+valstybinėje mokesčių inspekcijoje, turi turėti dokumentus, įrodančius, kad
+prekės Muitinės departamento prie Lietuvos Respublikos finansų ministerijos
+nustatyta tvarka pripažintos eksportuotomis. Dėl akcizais apmokestinamų
+eksportuojamų alkoholinių gėrimų, tabako gaminių, naftos produktų, taip pat
+kitų prekių, nurodytų Lietuvos Respublikos finansų ministerijos sąraše,
+eksportuotojas turi papildomai turėti ir kitus dokumentus Lietuvos Respublikos
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais. 
 Jeigu
-eksportuotojas negali pateikti įrodymų, reikalingų prekėms (paslaugoms)
-pripažinti eksportuotomis, arba paaiškėja, kad buvo pateikti neteisingi
-duomenys arba suklastoti dokumentai, tos prekės (paslaugos) apmokestinamos
-pagal 13 straipsnio 2 punkte nustatytą tarifą. 
+eksportuotojas negali pateikti įrodymų, reikalingų prekėms (paslaugoms) pripažinti
+eksportuotomis, arba paaiškėja, kad buvo pateikti neteisingi duomenys arba
+suklastoti dokumentai, tos prekės (paslaugos) apmokestinamos pagal 13
+straipsnio 2 punkte nustatytą tarifą. 
 Jeigu mokesčio administratorius apie
 išsiųstas prekes arba suteiktas paslaugas, apie užsienio valstybės rezidentą,
 kuriam išsiųstos prekės arba suteiktos paslaugos, gauna informacijos, kuri
 neatitinka eksportuotojo pateiktos informacijos, prekės arba paslaugos, su
 kuriomis prieštaringa informacija yra susijusi, apmokestinamos pagal 13
 straipsnio 2 punkte nustatytą tarifą.
-Jeigu mokesčio administratorius turi patvirtinimą,
-kad pateikti klaidingi duomenys apie užsienio šalies rezidentą, tai parduodamos
-prekės (teikiamos paslaugos (šio straipsnio 1 dalies 6 punktas), už kurias
-tiesiogiai apmoka užsienio šalies subjektas, susijusios su eksportui ir
-reeksportui skirtų prekių gamyba, apmokestinamos taikant 13 straipsnio 2 punkte
-nustatytą tarifą.
+Jeigu mokesčio administratorius turi
+patvirtinimą, kad pateikti klaidingi duomenys apie užsienio šalies rezidentą,
+tai parduodamos prekės (teikiamos paslaugos (šio straipsnio 1 dalies 6
+punktas), už kurias tiesiogiai apmoka užsienio šalies subjektas, susijusios su
+eksportui ir reeksportui skirtų prekių gamyba, apmokestinamos taikant 13
+straipsnio 2 punkte nustatytą tarifą.
 Jeigu
-mokėtojas nesutinka su dėl šio straipsnio 3-5 dalyse nurodytų priežasčių
-papildomai apskaičiuota PVM suma, jis privalo pats įrodyti, kad ši suma yra
-neteisinga.]
+mokėtojas nesutinka su dėl šio straipsnio 3-5 dalyse nurodytų priežasčių papildomai
+apskaičiuota PVM suma, jis privalo pats įrodyti, kad ši suma yra neteisinga.
 Straipsnio
 pakeitimai:
 Nr.
@@ -854,6 +771,7 @@ Nr.
 VIII-557, 97.12.09, Žin., 1997, Nr.117-2997 (97.12.24)
 Nr. VIII-1841, 00.07.13, Žin., 2000, Nr.64-1918
 (00.07.31), įsigalioja nuo 2000.10.01
+ 
  
 VII. PRIDĖTINĖS
 VERTĖS MOKESČIO APSKAITA
@@ -945,19 +863,12 @@ Nr.
 I-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
  
-            32 straipsnis.
-Mokesčio laikotarpiui pasibaigus, kiekvienas PVM mokėtojas privalo iki kito
-mėnesio 15 dienos pateikti teritorinei valstybinei mokesčių inspekcijai
-deklaraciją apie apskaičiuotą ir atskaitomą PVM sumą.
- 
-[32 straipsnio redakcija nuo 2000 m.
-spalio 1 d.:
 32 straipsnis. Mokesčio
 laikotarpiui pasibaigus, kiekvienas PVM mokėtojas privalo iki kito mėnesio 15
 dienos pateikti teritorinei valstybinei mokesčių inspekcijai deklaraciją apie
 apskaičiuotą ir atskaitomą PVM sumą. Šio įstatymo nustatytais atvejais
 PVM mokėtojas pateikia ir pusmečio deklaraciją. PVM deklaracijų formas ir
-užpildymo tvarką nustato centrinis mokesčio administratorius.]
+užpildymo tvarką nustato centrinis mokesčio administratorius.
 Straipsnio
 pakeitimai:
 Nr.
@@ -977,11 +888,11 @@ I-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
  
             34 straipsnis. Jeigu
-deklaracija nepateikta iki PVM sumokėjimo į biudžetą termino, teritorinė valstybinė
-mokesčių inspekcija laikinai, iki deklaracijos pateikimo, iš mokėtojų - įmonių,
-įstaigų ir organizacijų išieško ne ginčo tvarka į biudžetą praėjusio mokesčio
-laikotarpio, per kurį buvo priskaičiuotas mokėtinas PVM, deklaracijoje
-apskaičiuotą mokesčio sumą, padidintą 10 procentų.
+deklaracija nepateikta iki PVM sumokėjimo į biudžetą termino, teritorinė
+valstybinė mokesčių inspekcija laikinai, iki deklaracijos pateikimo, iš
+mokėtojų - įmonių, įstaigų ir organizacijų išieško ne ginčo tvarka į biudžetą
+praėjusio mokesčio laikotarpio, per kurį buvo priskaičiuotas mokėtinas PVM,
+deklaracijoje apskaičiuotą mokesčio sumą, padidintą 10 procentų.
 Straipsnio
 pakeitimai:
 Nr.
@@ -992,26 +903,14 @@ Nr.
 I-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
  
-            35 straipsnis.
-Apskaičiuota mokėtina PVM suma turi būti sumokėta į biudžetą per 10 dienų nuo
-šio įstatymo 32 straipsnyje nustatyto deklaracijos pateikimo termino, išskyrus
-Lietuvos Respublikoje pagamintus ir įvežamus alkoholinius gėrimus, tabako
-gaminius bei naftos produktus, kuriems Lietuvos Respublikos Vyriausybė gali
-nustatyti kitą PVM apskaičiavimo ir mokėjimo tvarką. Apskaičiuota grąžintina
-PVM suma turi būti grąžinta iš biudžeto šio įstatymo 17 straipsnyje nustatyta
-tvarka ir terminais.
- 
-[1 dalies redakcija nuo 2000 m. spalio 1
-d.:
-Apskaičiuota
+            35 straipsnis. Apskaičiuota
 mokėtina PVM suma turi būti sumokėta į biudžetą per 10 dienų nuo šio įstatymo
 32 straipsnyje nustatyto deklaracijos pateikimo termino, išskyrus Lietuvos
 Respublikoje pagamintus ir įvežamus alkoholinius gėrimus, tabako gaminius bei
 naftos produktus, kuriems Lietuvos Respublikos Vyriausybė gali nustatyti kitą
 PVM apskaičiavimo ir mokėjimo tvarką. Apskaičiuota grąžintina PVM suma turi
 būti įskaityta, o likusi dalis grąžinta iš biudžeto šio įstatymo 17
-straipsnyje nustatyta tvarka ir terminais.]
- 
+straipsnyje nustatyta tvarka ir terminais.
             Nustatytu laiku PVM
 nesumokėjus (negrąžinus), imami delspinigiai Lietuvos Respublikos mokesčių
 administravimo įstatymo nustatyta tvarka. Ta pačia tvarka delspinigiai
@@ -1048,21 +947,10 @@ KONTROLĖ IR EKONOMINĖS SANKCIJOS
 tikrinant nustatoma, kad asmenys, nurodyti šio įstatymo 6 straipsnio trečiojoje
 dalyje ir 8 straipsnyje, nesumokėjo PVM, o mokėtojai deklaracijoje sumažino
 apskaičiuotą PVM sumą arba per daug šio mokesčio atskaitė ir dėl to per mažai
-jo sumokėjo į biudžetą (per daug grąžinta iš biudžeto), apskaičiuota papildoma
-mokesčio suma, bauda ir delspinigiai turi būti sumokėti į biudžetą Lietuvos
-Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
- 
-[1 dalies redakcija nuo 2000 m. spalio 1
-d.:
-Jeigu
-tikrinant nustatoma, kad asmenys, nurodyti šio įstatymo 6 straipsnio trečiojoje
-dalyje ir 8 straipsnyje, nesumokėjo PVM, o mokėtojai deklaracijoje sumažino
-apskaičiuotą PVM sumą arba per daug šio mokesčio atskaitė ir dėl to per mažai
 jo sumokėjo į biudžetą (per daug įskaityta arba grąžinta iš biudžeto),
 apskaičiuota papildoma mokesčio suma, bauda ir delspinigiai turi būti sumokėti
 į biudžetą Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta
-tvarka.]
- 
+tvarka.
             PVM už prekes (išskyrus
 importuojamas) ir paslaugas mokėjimą kontroliuoja teritorinės valstybinės
 mokesčių inspekcijos, kurios PVM nepriemokas, delspinigius ir Lietuvos
@@ -1073,9 +961,9 @@ nepriemokas ir delspinigius išieško Muitinės kodekso nustatyta tvarka. Šio
 įstatymo nustatytais atvejais Lietuvos Respublikos Vyriausybės nustatyta tvarka
 PVM už importuojamas prekes mokėjimo kontrolė gali būti perduota teritorinėms
 valstybinėms mokesčių inspekcijoms.
-            Lietuvos Respublikos
-įstatymų nustatytais atvejais mokesčio mokėtojai gali būti atleisti nuo
-nesumokėto pridėtinės vertės mokesčio ir dėl to priskaičiuotos baudos mokėjimo.
+            Lietuvos Respublikos įstatymų
+nustatytais atvejais mokesčio mokėtojai gali būti atleisti nuo nesumokėto
+pridėtinės vertės mokesčio ir dėl to priskaičiuotos baudos mokėjimo.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1137,8 +1025,8 @@ santykiais susijusių pajamų suma, neviršydamos kiekvienam asmeniui vieno
 Lietuvos Respublikos ūkio vidutinio mėnesinio bruto darbo užmokesčio, skelbiamo
 Statistikos departamento prie Lietuvos Respublikos Vyriausybės “Valstybės
 žiniose”.
-Gamybinės įmonės,
-kuriose dirba I ir II grupių invalidų, apskaičiuotą į biudžetą mokėtiną
+Gamybinės
+įmonės, kuriose dirba I ir II grupių invalidų, apskaičiuotą į biudžetą mokėtiną
 skirtumą tarp PVM sumos už parduotas prekes bei suteiktas paslaugas ir
 atskaitomos sumos sumažina faktiškai per mokesčio laikotarpį nurodytiems
 asmenims apskaičiuota su darbo santykiais susijusių pajamų suma, neviršydamos
@@ -1156,9 +1044,9 @@ visuomeninėms organizacijoms, kitų rūšių įmonės, kurių steigėjai yra ti
 invalidų visuomeninės organizacijos ir kurios įsteigtos iki šio įstatymo
 įsigaliojimo dienos, pataisos darbų įstaigos, kuriose dirba nuteistieji,
 sveikatos priežiūros įstaigų darbo terapijos dirbtuvės, kuriose dirba ligoniai,
-apskaičiuotą mokėti į biudžetą PVM skirtumą mažina 100 procentų. Invalidų
-draugijos akcinė bendrovė “Puntukas” apskaičiuotą mokėti į biudžetą PVM
-skirtumą mažina proporcingai draugijos turimo kapitalo procentui.
+apskaičiuotą mokėti į biudžetą PVM skirtumą mažina 100 procentų. Invalidų draugijos
+akcinė bendrovė “Puntukas” apskaičiuotą mokėti į biudžetą PVM skirtumą mažina
+proporcingai draugijos turimo kapitalo procentui.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1175,8 +1063,8 @@ Nr.
 VIII-707, 98.04.16, Žin., 1998, Nr.41-1095 (98.05.01)
  
  
-            39 straipsnis.
-Lietuvos Respublikos Vyriausybė:
+            39 straipsnis. Lietuvos
+Respublikos Vyriausybė:
             1) iki 1995 m. balandžio 15
 d. nustato PVM kompensacinį tarifą ir jo taikymo tvarką ūkininkams, kurių
 metinės pajamos neviršija 50 tūkst. litų. Ši tvarka pradedama taikyti
@@ -1200,17 +1088,10 @@ Nr.
 I-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
  
  
-            41 straipsnis. Lietuvos
-Respublikos Vyriausybė gali nustatyti kitus negu 35 straipsnyje yra nustatyti apskaičiuotos
-PVM sumos sumokėjimo į biudžetą (grąžinimo iš biudžeto) terminus.
- 
-[41 straipsnio redakcija nuo 2000 m.
-spalio 1 d.:
 41
 straipsnis. Lietuvos Respublikos Vyriausybė gali
 nustatyti kitus, negu 35 straipsnyje yra nustatyti, apskaičiuotos PVM sumos
-sumokėjimo į biudžetą (įskaitymo į biudžetą ir grąžinimo iš biudžeto)
-terminus.]
+sumokėjimo į biudžetą (įskaitymo į biudžetą ir grąžinimo iš biudžeto) terminus.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1499,9 +1380,9 @@ PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 6, 7, 17, 25, 32,
 Šis įstatymas įsigalioja nuo 2000 m.
 spalio 1 d.
 Mokėtojams, iki šio įstatymo
-įsigaliojimo pateikusiems prašymą gražinti (įskaityti) PVM skirtumą, įsigaliojus šiam įstatymui, negrąžintas
-(neįskaitytas) skirtumas įskaitomas (grąžinamas), kaip nustatyta šiame
-įstatyme.
+įsigaliojimo pateikusiems prašymą gražinti (įskaityti) PVM skirtumą,
+įsigaliojus šiam įstatymui, negrąžintas (neįskaitytas) skirtumas įskaitomas
+(grąžinamas), kaip nustatyta šiame įstatyme.
  
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1510,8 +1391,17 @@ Nr. VIII-1879, 00.07.18, Žin., 2000, Nr.64-1944
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4 IR 23 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
  
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2040, 00.10.12, Žin., 2000, Nr.92-2880
+(00.10.31)
+PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.04)
+Redagavo: Aušrinė Trapinskienė (2000.11.02)
 
