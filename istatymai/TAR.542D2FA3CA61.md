@@ -13,55 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61"
 
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas
 
-Redagavo: Aušrinė Trapinskienė
-(2000.04.11)
- 
- 
-Įstatymas paskelbtas: Žin., 1998, Nr. 61-1728
+Įstatymas paskelbtas: Žin., 1998, Nr.
+61-1728
 Neoficialus įstatymo tekstas
- 
-Pakeitimai:
-1.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr. VIII-1182, 99.05.13,
-Žin., 1999, Nr.48-1523 (99.06.02)
-LIETUVOS
-RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO,
-ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
-NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
-ĮSTATYME, ĮSTATYMO 8, 9, 10, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS 
- 
-2.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1386, 99.11.04, Žin., 1999,
-Nr.98-2810 (99.11.19)
-LIETUVOS RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS
-IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS,
-TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAPILDYMO
-ĮSTATYMAS
- 
-3.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1499, 99.12.23, Žin., 1999,
-Nr.113-3292 (99.12.30)
-LIETUVOS
-RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ
-DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
-NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
-ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
- 
-4.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1580, 00.03.21, Žin., 2000,
-Nr.28-767 (00.04.05)
-KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ,
-MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ
-NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 9
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
- 
-*** Pabaiga ***
  
 LIETUVOS RESPUBLIKOS
 KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ,
@@ -96,8 +50,8 @@ principo.
 1. Atlyginant už valstybės išperkamą
 žemę, mišką, vandens telkinius, perduodamų neatlygintinai nuosavybėn žemės,
 miško, vandens telkinio vertė, mokamų pinigų suma, išduodamų vertybinių
-popierių skaičius bei vertė, įskaitomos piniginės prievolės valstybei dydis
-apskaičiuojami pagal Vyriausybės patvirtintą metodiką.
+popierių skaičius bei vertė, įskaitomos piniginės prievolės valstybei dydis apskaičiuojami
+pagal Vyriausybės patvirtintą metodiką.
 2. Atlyginant už miesto teritorijoje
 esančią žemę, laikomasi nuostatos, kad po neteisėto žemės nacionalizavimo
 miestams priskirta žemė vertinama priemiestinėse teritorijose esančios žemės
@@ -106,18 +60,17 @@ miestams priskirta žemė vertinama priemiestinėse teritorijose esančios žem�
  
 4
 straipsnis. Atlyginimas už išperkamus ūkinės-komercinės paskirties pastatus
-Atlyginant už valstybės išperkamus
-ūkinės-komercinės paskirties pastatus ir jų priklausinius, išduodamų vertybinių
-popierių skaičius bei vertė apskaičiuojama pagal Vyriausybės patvirtintą
-metodiką.
+Atlyginant už valstybės išperkamus ūkinės-komercinės
+paskirties pastatus ir jų priklausinius, išduodamų vertybinių popierių skaičius
+bei vertė apskaičiuojama pagal Vyriausybės patvirtintą metodiką.
  
 5
 straipsnis. Atlyginimas už išperkamus gyvenamuosius namus, jų dalis, butus
 Atlyginant už valstybės išperkamus
 gyvenamuosius namus, jų dalis, butus, perduodamo neatlygintinai turto, mokamų
-pinigų suma, išduodamų vertybinių popierių skaičius bei vertė, įskaitomos piniginės
-prievolės valstybei dydis apskaičiuojama pagal Vyriausybės patvirtintą
-metodiką.
+pinigų suma, išduodamų vertybinių popierių skaičius bei vertė, įskaitomos
+piniginės prievolės valstybei dydis apskaičiuojama pagal Vyriausybės
+patvirtintą metodiką.
  
 6
 straipsnis. Atlyginimo piliečiams už valstybės išperkamą išlikusį nekilnojamąjį
@@ -138,20 +91,30 @@ mokėjimo terminus ir tvarką kasmet, patvirtinus valstybės biudžeto ir
 savivaldybių biudžetų finansinius rodiklius, nustato Vyriausybė, atsižvelgdama
 į valstybės finansines išgales, įskaitant naujus valstybės turtinius
 įsipareigojimus ir valstybės pajamų šaltinius.
-2. Piniginės kompensacijos
-mokamos nuo sprendimo atkurti nuosavybės teises priėmimo dienos Vyriausybės
-nustatyta tvarka ir sąlygomis:
+2. Piniginės
+kompensacijos mokamos nuo sprendimo atkurti nuosavybės teises priėmimo dienos
+Vyriausybės nustatyta tvarka ir sąlygomis:
 1) už išperkamą žemę, mišką, vandens
-telkinius - iki 2009 m. sausio 1 d.;
+telkinius – iki 2009 m. sausio 1 d.;
 2) už gyvenamuosius namus, jų dalis,
-butus - iki 2011 m. sausio 1 d.;
-3) I grupės invalidams, 1918-1920 m.
-nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos)
-dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu iki 1940
-m. birželio 15 d. apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams),
-vaikams (įvaikiams) kompensacijos už išperkamą žemę, mišką, vandens telkinius
-išmokamos iki 2003 m. rugpjūčio 1 d., o už gyvenamuosius namus, jų dalis, butus
-- iki 2007 m. sausio 1 d.
+butus – iki 2011 m. sausio 1 d.;
+3) I grupės invalidams, asmenims,
+kuriems reikalingos endoprotezavimo operacijos, 
+1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo
+(rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus
+ordinu iki 1940 m. birželio 15 d. apdovanotiems asmenims kompensacijos už
+išperkamą žemę, mišką, vandens telkinius, gyvenamuosius namus, jų dalis, butus
+išmokamos iki 2007 m. sausio 1 d.;
+4) I grupės invalidų, 1918–1920 m. nepriklausomybės kovų karių savanorių,
+pasipriešinimo (rezistencijos) dalyvių, politinių kalinių, tremtinių ir Vyčio
+Kryžiaus ordinu iki 1940 m. birželio 15 d. apdovanotų asmenų sutuoktiniams,
+tėvams (įtėviams), vaikams (įvaikiams) kompensacijos už išperkamą žemę, mišką,
+vandens telkinius, gyvenamuosius namus, jų dalis, butus išmokamos iki 
+2009 m. sausio 1 d.; 
+5) Vyriausybė kasmet iš kompensacijoms
+mokėti numatytų biudžeto lėšų 20 procentų skiria asmenims, sergantiems
+sunkiomis ligomis, įrašytomis į Sveikatos apsaugos ministerijos patvirtintą
+sąrašą.
 3. Piliečiams neišmokėtos piniginių
 kompensacijų sumos indeksuojamos atsižvelgiant į metų infliaciją.
 4. Vyriausybė ar jos įgaliota
@@ -160,11 +123,12 @@ kompensacijoms už išlikusį nekilnojamąjį turtą mokėti. Kompensacijoms ski
 lėšas paskirsto Vyriausybė ar jos įgaliota institucija.
 Straipsnio
 pakeitimai:
-Nr. VIII-1386, 99.11.04, Žin., 1999,
-Nr.98-2810 (99.11.19)
-Nr. VIII-1499, 99.12.23, Žin., 1999,
-Nr.113-3292 (99.12.30)
- 
+Nr. VIII-1386, 1999.11.04, Žin., 1999, Nr.
+98-2810 (1999.11.19)
+Nr. VIII-1499, 1999.12.23, Žin., 1999, Nr.
+113-3292 (1999.12.30)
+Nr. IX-1299,
+2003-01-21, Žin., 2003, Nr. 14-539 (2003-02-07)
  
 8
 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą
@@ -186,21 +150,20 @@ institucija raštu praneša piliečiui. Piliečiui apsisprendus ir per vieną m�
 pateikus rašytinį prašymą, institucija priima papildomą sprendimą dėl išpirkimo
 būdo. Jeigu pilietis neapsisprendžia ir per vieną mėnesį nepateikia rašytinio
 pareiškimo dėl išpirkimo būdo, institucija savo nuožiūra priima sprendimą dėl
-išpirkimo būdo, pateikia jį tvirtinti apskrities viršininkui ir apie šį sprendimą
-raštu informuoja pilietį. Pilietis, nesutinkantis su institucijos sprendimu,
-gali per vieną mėnesį motyvuotu prašymu kreiptis į apskrities viršininką
-panaikinti institucijos sprendimą. Apskrities viršininko sprendimas yra
-galutinis ir gali būti skundžiamas tik teismui.
+išpirkimo būdo, pateikia jį tvirtinti apskrities viršininkui ir apie šį
+sprendimą raštu informuoja pilietį. Pilietis, nesutinkantis su institucijos
+sprendimu, gali per vieną mėnesį motyvuotu prašymu kreiptis į apskrities
+viršininką panaikinti institucijos sprendimą. Apskrities viršininko sprendimas
+yra galutinis ir gali būti skundžiamas tik teismui.
 Straipsnio
 pakeitimai:
 Nr. VIII-1182,
-99.05.13, Žin., 1999, Nr.48-1523 (99.06.02)
+1999.05.13, Žin., 1999, Nr. 48-1523 (1999.06.02)
  
- 
-9 straipsnis.
-Valstybės garantijos sugrąžintų gyvenamųjų namų, jų dalių ar butų 
-nuomininkams
-ir savininkams, šių garantijų įgyvendinimo tvarka ir sąlygos
+9 straipsnis. Valstybės garantijos
+sugrąžintų gyvenamųjų namų, jų dalių ar butų 
+nuomininkams ir
+savininkams, šių garantijų įgyvendinimo tvarka ir sąlygos
 1. Institucija, priimanti sprendimą
 grąžinti piliečiui natūra gyvenamąjį namą, jo dalį, butą, privalo išduoti
 nuomininkams, gyvenantiems piliečiui grąžinamame name, jo dalyje, bute,
@@ -221,8 +184,8 @@ nuosavybėn žemės sklypas gyvenamajam namui statyti ir lengvatinėmis sąlygom
 bus suteiktas kreditas šiai statybai, ar
 5) bus lengvatinėmis sąlygomis suteiktas
 kreditas statyti ar įsigyti gyvenamąjį būstą, ar
-6) bus kompensuojamos kitų gyvenamųjų
-patalpų įsigijimo išlaidos.
+6) bus kompensuojamos kitų gyvenamųjų patalpų
+įsigijimo išlaidos.
 2. Piliečiui natūra grąžinamo
 namo, jo dalies ar buto nuomininkai turi teisę tik į vieną iš šio straipsnio 1
 dalyje nurodytų garantijų. 
@@ -245,9 +208,9 @@ garantijos turėtojo šeimos nariai bei kiti gyventojai, pagal įstatymus turint
 teisę į nuomojamą gyvenamąją patalpą (išskyrus subnuomininkus ir laikinus
 gyventojus), ją pasirašiusio asmens pavardė, vardas, pareigos, institucijos
 antspaudas. Šią garantiją pasirašo garantijos turėtojas, nuomininko šeimos
-nariai ir kiti gyventojai, pagal įstatymus turintys teisę į nuomojamą
-gyvenamąją patalpą. Šios garantijos turėtojui mirus, kol ji neįvykdyta,
-garantija lieka galioti.
+nariai ir kiti gyventojai, pagal įstatymus turintys teisę į nuomojamą gyvenamąją
+patalpą. Šios garantijos turėtojui mirus, kol ji neįvykdyta, garantija lieka
+galioti.
 5. Valstybės garantija savininkui - tai
 nustatyta tvarka išduotas dokumentas, kuriuo valstybė (garantas) įsipareigoja
 per jame nurodytą laiką perduoti savininkui (garantijos turėtojui) nuomininkų
@@ -284,10 +247,10 @@ patalpas ar nuomininkai iškeldinami iš jų, patalpas per 1 mėnesį šio strai
 gyvenamojo namo, jo dalies ar buto savininkui. 
 8. Valstybės garantijos nuomininkams
 vykdomos pagal Vyriausybės parengtą programą, kuri sudaroma atsižvelgiant į
-miestų, rajonų savivaldybių pateiktus duomenis. Remdamasi šiais duomenimis, Vyriausybė
-kasmet valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
-patvirtinimo įstatymo projekte numato, kiek turi būti skirta lėšų nurodytai
-programai įvykdyti.
+miestų, rajonų savivaldybių pateiktus duomenis. Remdamasi šiais duomenimis,
+Vyriausybė kasmet valstybės biudžeto ir savivaldybių biudžetų finansinių
+rodiklių patvirtinimo įstatymo projekte numato, kiek turi būti skirta lėšų
+nurodytai programai įvykdyti.
 9. Nuomininkui neatlygintinai
 skiriamo žemės sklypo gyvenamajam namui statyti vertė, kitoms gyvenamosioms
 patalpoms įsigyti kompensuojamos išlaidos, taip pat neatlygintinai suteikiamų
@@ -300,10 +263,9 @@ suteikiamų kreditų gyvenamajam namui statyti arba gyvenamajam būstui statyti 
 Straipsnio
 pakeitimai:
 Nr. VIII-1182,
-99.05.13, Žin., 1999, Nr.48-1523 (99.06.02)
-Nr. VIII-1580, 00.03.21, Žin., 2000,
-Nr.28-767 (00.04.05)
- 
+1999.05.13, Žin., 1999, Nr. 48-1523 (1999.06.02)
+Nr. VIII-1580, 2000.03.21, Žin., 2000, Nr.
+28-767 (2000.04.05)
  
 10 straipsnis. Atlyginimo už žemę, mišką
 padidinimo tvarka
@@ -323,12 +285,11 @@ pinigais padidinamas 15 procentų.
 Straipsnio
 pakeitimai:
 Nr. VIII-1182,
-99.05.13, Žin., 1999, Nr.48-1523 (99.06.02)
- 
+1999.05.13, Žin., 1999, Nr. 48-1523 (1999.06.02)
  
 11
-straipsnis. Valstybės išperkamo ir perduodamo nuosavybėn neatlygintinai turto
-vertės 
+straipsnis. Valstybės išperkamo ir perduodamo nuosavybėn neatlygintinai turto 
+vertės
 nustatymas
 1. Vyriausybė nustato išperkamo ir
 perduodamo neatlygintinai savininkų nuosavybėn turto bei savininkams sugrąžintų
@@ -347,11 +308,77 @@ priima šiam įstatymui įgyvendinti reikalingus lydimuosius aktus.
 Straipsnio
 pakeitimai:
 Nr. VIII-1182,
-99.05.13, Žin., 1999, Nr.48-1523 (99.06.02)
+1999.05.13, Žin., 1999, Nr. 48-1523 (1999.06.02)
  
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                     VALDAS
 ADAMKUS
+ 
+_____________________
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. VIII-1182,
+1999.05.13, Žin., 1999, Nr. 48-1523 (1999.06.02)
+LIETUVOS
+RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO,
+ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
+NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
+ĮSTATYME, ĮSTATYMO 8, 9, 10, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS 
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1386, 1999.11.04, Žin., 1999, Nr.
+98-2810 (1999.11.19)
+LIETUVOS RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS
+IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS,
+TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1499, 1999.12.23, Žin., 1999, Nr.
+113-3292 (1999.12.30)
+LIETUVOS
+RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ
+DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
+NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
+ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1580, 2000.03.21, Žin., 2000, Nr.
+28-767 (2000.04.05)
+KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ,
+MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ
+NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 9
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1299,
+2003-01-21, Žin., 2003, Nr. 14-539 (2003-02-07)
+KOMPENSACIJŲ
+UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ
+BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ NUOSAVYBĖS
+TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
+ 
+ 
+Redagavo:
+Aušrinė Trapinskienė (2003-02-07)
+           
+      autrap@lrs.lt
