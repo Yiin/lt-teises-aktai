@@ -90,8 +90,9 @@ sistemos dalis.
 Turto arešto aktų registrą steigia ir jo nuostatus tvirtina Lietuvos
 Respublikos Vyriausybė.
  
-4 straipsnis.
-Turto arešto aktų įregistravimo teisinės pasekmės ir registro duomenų 
+4
+straipsnis. Turto arešto aktų įregistravimo teisinės pasekmės ir registro
+duomenų 
 teisinis
 statusas
 1. Turto areštas sukelia teisines pasekmes asmeniui,
@@ -116,22 +117,21 @@ duomenys yra žinomi kiekvienam asmeniui, jeigu turto arešto aktas yra
  
 6
 straipsnis. Turto arešto aktų registro objektas
+1 dalies
+redakcija iki 2004 m. sausio 1 d.:
 1.
-Turto arešto aktų registre registruojami teismų, teisėjų, teismo antstolių,
-prokurorų, tardytojų, kvotėjų, Valstybinės mokesčių inspekcijos, Valstybinio
-socialinio draudimo fondo valdybos ir kitų valstybės institucijų bei pareigūnų
-turto arešto aktai, kuriais įstatymų nustatytais pagrindais ir tvarka
-laikinai priverstinai apribojamos teisės į Lietuvos Respublikoje esantį turtą,
-jį areštuojant.
- 
-[1 dalies
+Turto arešto aktų registre registruojami teismų, teisėjų, antstolių, prokurorų,
+Valstybinės mokesčių inspekcijos, Valstybinio socialinio draudimo fondo
+valdybos ir kitų valstybės institucijų bei pareigūnų turto arešto aktai,
+kuriais įstatymų nustatytais pagrindais ir tvarka laikinai priverstinai
+apribojamos teisės į Lietuvos Respublikoje esantį turtą, jį areštuojant.
+1 dalies
 redakcija nuo 2004 m. sausio 1 d.:
-1.
-Turto arešto aktų registre registruojami teismų, teisėjų, teismo antstolių,
-prokurorų, tardytojų, kvotėjų, Valstybinės mokesčių inspekcijos ir kitų
-valstybės institucijų bei pareigūnų turto arešto aktai, kuriais įstatymų
-nustatytais pagrindais ir tvarka laikinai priverstinai apribojamos teisės į
-Lietuvos Respublikoje esantį turtą, jį areštuojant.]
+1. Turto arešto
+aktų registre registruojami teismų, teisėjų, antstolių, prokurorų, Valstybinės
+mokesčių inspekcijos ir kitų valstybės institucijų bei pareigūnų turto arešto
+aktai, kuriais įstatymų nustatytais pagrindais ir tvarka laikinai priverstinai
+apribojamos teisės į Lietuvos Respublikoje esantį turtą, jį areštuojant.
  
 2.
 Šio straipsnio 1 dalyje nurodytų institucijų (pareigūnų) priimti turto arešto
@@ -145,6 +145,8 @@ Nr. IX-873,
 2002-05-07, Žin., 2002, Nr. 52-1986 (2002-05-24), įsigalioja nuo 2003-07-01
 Nr. IX-1232,
 2002-12-10, Žin., 2002, Nr. 123-5524 (2002-12-24)
+Nr. IX-1474,
+2003-04-03, Žin., 2003, Nr. 38-1719 (2003-04-24)
  
 7
 straipsnis. Turto arešto aktų registro tvarkymo įstaigos
@@ -174,9 +176,9 @@ areštuotas turtas - turto pavadinimas, kodas (jei turtas registruojamas turto
 registre), buvimo vieta, trumpas aprašymas, kiti turtą identifikuojantys
 duomenys;
 4)
-areštuoto turto savininkas (bendrasavininkiai) - fizinio asmens vardas,
-pavardė, kodas, adresas; juridinio asmens arba įmonės, neturinčios juridinio
-asmens teisių, pavadinimas, kodas, buveinės adresas;
+areštuoto turto savininkas (bendrasavininkiai) - fizinio asmens vardas, pavardė,
+kodas, adresas; juridinio asmens arba įmonės, neturinčios juridinio asmens
+teisių, pavadinimas, kodas, buveinės adresas;
 5)
 turto arešto pagrindai;
 6)
@@ -186,9 +188,9 @@ nustatytas turto arešto terminas, jeigu jis nustatomas;
 7)
 kiti teisių apribojimai, susiję su turto areštu, jeigu jie taikomi;
 8)
-areštuoto turto saugotojas ar administratorius - fizinio asmens vardas,
-pavardė, kodas, adresas; juridinio asmens arba įmonės, neturinčios juridinio
-asmens teisių, pavadinimas, kodas, buveinės adresas;
+areštuoto turto saugotojas ar administratorius - fizinio asmens vardas, pavardė,
+kodas, adresas; juridinio asmens arba įmonės, neturinčios juridinio asmens
+teisių, pavadinimas, kodas, buveinės adresas;
 9)
 turto arešto akto priėmimo laikas ir vieta;
 10)
@@ -245,14 +247,14 @@ turtas areštuojamas, turto sudėtis, buvimo vieta ir dėl to turto arešto akte
 nenurodyti visą areštuojamą turtą ar jo dalį identifikuojantys duomenys, šis
 aktas įregistruojamas turto arešto aktų registre laikinai, nenurodant išsamių
 duomenų apie visą ar dalį areštuojamo turto.
-2.
-Pateikus hipotekos skyriui turto arešto akto pakeitimą arba papildomą turto
-arešto aktą, kuriame nurodyti visi areštuotą turtą identifikuojantys duomenys,
-turto arešto aktų registre daromi atitinkami pakeitimai ir turto arešto akto
-laikino įregistravimo žyma panaikinama. Teismo (teisėjo) nutarties areštuoti
-turtą, kurioje nenurodyti išsamūs duomenys apie visą areštuojamą turtą ar jo
-dalį, laikino įregistravimo žyma panaikinama, kai teismo antstolis pateikia
-areštuoto turto apyrašą, sudarytą vykdant teismo (teisėjo) nutartį.
+2. Pateikus
+hipotekos skyriui turto arešto akto pakeitimą arba papildomą turto arešto aktą,
+kuriame nurodyti visi areštuotą turtą identifikuojantys duomenys, turto arešto
+aktų registre daromi atitinkami pakeitimai ir turto arešto akto laikino
+įregistravimo žyma panaikinama. Teismo (teisėjo) nutarties areštuoti turtą,
+kurioje nenurodyti išsamūs duomenys apie visą areštuojamą turtą ar jo dalį,
+laikino įregistravimo žyma panaikinama, kai antstolis pateikia areštuoto turto
+apyrašą, sudarytą vykdant teismo (teisėjo) nutartį.
 3.
 Jeigu per 1 mėnesį nuo turto arešto akto laikino įregistravimo dienos hipotekos
 skyriui nepateikiamas turto arešto akto pakeitimas ar papildomas turto arešto
@@ -261,8 +263,13 @@ papildomai pateiktuose hipotekos skyriui dokumentuose nepakanka duomenų
 areštuotam turtui identifikuoti, hipotekos teisėjo nutartimi laikinai
 įregistruotas turto arešto aktas gali būti išregistruotas iš turto arešto aktų
 registro. 
+Straipsnio
+pakeitimai:
+Nr. IX-1474,
+2003-04-03, Žin., 2003, Nr. 38-1719 (2003-04-24)
  
-12 straipsnis. Turto arešto aktų registro duomenų pakeitimo tvarka
+12 straipsnis. Turto arešto aktų registro duomenų
+pakeitimo tvarka
 Turto
 arešto aktų registro duomenys keičiami, kai hipotekos skyriui pateikiamas
 dokumentas (sprendimas, nutartis, nutarimas, papildomas turto arešto aktas ir
@@ -284,25 +291,25 @@ turto arešto aktą, sprendimu;
 turto pardavimo (perdavimo išieškotojui) aktu, jei turtas parduotas (perduotas
 išieškotojui) Civilinio proceso kodekso nustatyta tvarka.
  
-14
-straipsnis. Pažymėjimas apie turto arešto akto (jo pakeitimo) įregistravimą ir 
+14 straipsnis. Pažymėjimas apie turto arešto akto
+(jo pakeitimo) įregistravimą ir 
 išregistravimą
-Pažymėjimas apie turto arešto akto (jo pakeitimo) įregistravimą turto
-arešto aktų registre ar išregistravimą per 3 darbo dienas nuo šio akto
-įregistravimo ar išregistravimo išsiunčiamas institucijai, kuri pateikė
-registruoti turto arešto aktą. Pažymėjimas apie turto arešto akto įregistravimą
-per 3 darbo dienas taip pat išsiunčiamas asmeniui, kurio turtas areštuotas
-teismo (teisėjo) nutartimi.
+Pažymėjimas apie turto arešto akto (jo pakeitimo) įregistravimą turto arešto
+aktų registre ar išregistravimą per 3 darbo dienas nuo šio akto įregistravimo
+ar išregistravimo išsiunčiamas institucijai, kuri pateikė registruoti turto
+arešto aktą. Pažymėjimas apie turto arešto akto įregistravimą per 3 darbo
+dienas taip pat išsiunčiamas asmeniui, kurio turtas areštuotas teismo (teisėjo)
+nutartimi.
  
-15
-straipsnis. Duomenų apie turto arešto akto įregistravimą perdavimas kitiems 
+15 straipsnis. Duomenų apie turto arešto akto
+įregistravimą perdavimas kitiems 
 valstybės
 registrams
 1.
-Tais atvejais, kai areštuojamas valstybės registre įregistruotas turtas, turto arešto
-aktų registro duomenų bazės tvarkytojas apie teisės į registre įregistruotą
-turtą apribojimą per 8 darbo valandas praneša atitinkamam turto registrui Turto
-arešto aktų registro nuostatų nustatyta tvarka.
+Tais atvejais, kai areštuojamas valstybės registre įregistruotas turtas, turto
+arešto aktų registro duomenų bazės tvarkytojas apie teisės į registre
+įregistruotą turtą apribojimą per 8 darbo valandas praneša atitinkamam turto
+registrui Turto arešto aktų registro nuostatų nustatyta tvarka.
 2.
 Tais atvejais, kai areštavus juridinio asmens ar neturinčios juridinio asmens
 teisių įmonės turtą yra skiriamas turto administratorius, turto arešto aktų
@@ -389,10 +396,10 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 
 
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS
 ADAMKUS
  
-_______
+_____________
  
 Pakeitimai:
  
@@ -411,15 +418,51 @@ PAKEITIMO ĮSTATYMAS
 Pakeistas įstatymo įsigaliojimas:
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
 Pakeitimai:
+1)
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1232,
-2002-12-10, Žin., 2002, Nr. 123-5524 (2002-12-24)
+Nr. IX-1232, 2002-12-10,
+Žin., 2002, Nr. 123-5524 (2002-12-24)
 TURTO AREŠTO AKTŲ REGISTRO
 ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+2)
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-1474,
+2003-04-03, Žin., 2003, Nr. 38-1719 (2003-04-24)
+TURTO AREŠTO AKTŲ REGISTRO
+ĮSTATYMO 6 IR 11 STRAIPSNIŲ PAKEITIMO IR TURTO AREŠTO AKTŲ REGISTRO ĮSTATYMO 6
+STRAIPSNIO PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Šio Įstatymo pirmasis skirsnis
+įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y.
+nuo 2003 m. gegužės 1 d.
+Šio Įstatymo antrasis skirsnis
+įsigalioja nuo 2004 m. sausio 1 d.
+ 
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1474,
+2003-04-03, Žin., 2003, Nr. 38-1719 (2003-04-24)
+TURTO
+AREŠTO AKTŲ REGISTRO ĮSTATYMO 6 IR 11 STRAIPSNIŲ PAKEITIMO IR TURTO AREŠTO AKTŲ
+REGISTRO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Šio
+Įstatymo pirmasis skirsnis įsigalioja kartu su Lietuvos Respublikos
+baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y.
+nuo 2003 m. gegužės 1 d.
+Šio
+Įstatymo antrasis skirsnis įsigalioja nuo 2004 m. sausio 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2003-01-14)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2003-05-13)
+                 
+autrap@lrs.lt
