@@ -19,7 +19,7 @@ LIETUVOS RESPUBLIKOS
 
 
 Redagavo:
-Ramunė Lūžaitė (1997.11.03)
+Ramunė Lūžaitė (1998.05.04)
  
 Įstatymas
 paskelbtas: Žin., 1994,
@@ -38,6 +38,18 @@ VIII-478, 97.10.23, Žin., 1997, Nr.99-2506 (97.10.31)
 LIETUVOS
 RESPUBLIKOS VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO
 PAPILDYMO 4(1) STRAIPSNIU IR 9 BEI 11 STRAIPSNIŲ PAPILDYMO
+ 
+2.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr.
+VIII-676, 98.03.24, Žin., 1998, Nr.35-934 (98.04.15)
+LIETUVOS
+RESPUBLIKOS VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 4, 5, 9
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+Šis įstatymas
+įsigalioja nuo 1998 m. liepos 1 d.
  
 ***
 Pabaiga ***
@@ -101,12 +113,21 @@ motinystės (tėvystės) pašalpą, mokama 0,75 MGL dydžio pašalpa kas mėnes�
 kiekvieną nuo vienerių iki trejų metų vaiką.
      Jei
 motina atsisako vaiko arba jį palieka, pašalpa jai neskiriama.
+      [4
+straipsnio 4 dalies redakcija iki 1998 m. liepos 1 d.]
      Jei
 motina mirė ar iš jos atimtos motinystės teisės, taip pat kai ji neaugina
 vaiko, pašalpa mokama kūdikio tėvui arba globėjui.
+     
+[4 straipsnio 4 dalies redakcija nuo 1998 m. liepos 1 d.]
+Jei motina mirė ar iš jos atimtos motinystės
+teisės, taip pat kai ji neaugina vaiko, pašalpa mokama kūdikio tėvui.
  
-      [4-1
-straipsnio redakcija nuo  1997 m. lapkričio 1 d.]
+Straipsnio
+pakeitimai:
+Nr.
+VIII-676, 98.03.24, Žin., 1998, Nr.35-934 (98.04.15)
+ 
 4(1 )straipsnis. Pašalpa šeimoms,
 auginančioms tris ir daugiau vaikų
  
@@ -122,7 +143,7 @@ mokyklų dieninius skyrius, mokama, jeigu šeimos pajamos, tenkančios vienam jo
 nariui, yra mažesnės už trigubo dydžio Vyriausybės tvirtinamas valstybės
 remiamas pajamas.
 Jei motinos nėra, jei ji atsisako vaikų, jei
-iš jos atimtos motinystės  teisės arba jei ji negali prižiūrėti vaikų dėl
+iš jos atimtos motinystės  teisės arba jei ji negali prižiūrėti vaikų dėl
 ligos, pašalpa mokama tėvui arba kitam vaikus auginančiam asmeniui.
  
 Straipsnio
@@ -130,6 +151,8 @@ pakeitimai:
 Nr.
 VIII-478, 97.10.23, Žin., 1997, Nr.99-2506 (97.10.31)
  
+    
+[5 straipsnio redakcija iki 1998 m. liepos 1 d.]
      5
 straipsnis. Vaiko globos (rūpybos) pašalpa
  
@@ -146,6 +169,26 @@ vaikų įstaigoje laikui, ir kitiems negaunantiems valstybės arba artimųjų
 paramos našlaičiams bei likusiems be tėvų globos vaikams jų mokymosi dieninėse
 bendrojo lavinimo mokyklose metu ir po mokyklos baigimo iki tų pačių metų
 rugsėjo 1 dienos, jeigu jie tuo metu nedirba ir ketina toliau mokytis.
+ 
+    
+[5 straipsnio redakcija nuo 1998 m. liepos 1 d.]
+   
+ 5 straipsnis. Vaiko globos
+pašalpa
+ 
+    
+Fiziniam asmeniui, šeimynai arba nevyriausybinei globos institucijai, įstatymų
+nustatyta tvarka paskirtai likusio be tėvų globos vaiko globėju, šiam vaikui
+išlaikyti nuo 1998 m. liepos 1 d. mokama 2 MGL, o nuo 1999 m. sausio 1 d. - 4
+MGL dydžio pašalpa kiekvieną mėnesį, kol jam sukaks 18 metų. Pasibaigus globai,
+kai vaikas sulaukia pilnametystės, nurodyta pašalpa mokama tol, kol jis baigs
+bendrojo lavinimo mokyklą ir ją baigus iki tų pačių metų rugsėjo 1 dienos,
+jeigu jis tuo metu nedirba.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-676, 98.03.24, Žin., 1998, Nr.35-934 (98.04.15)
  
      6
 straipsnis. Pašalpa tikrosios krašto apsaugos tarnybos karių 
@@ -169,8 +212,8 @@ paliekama jiems teisė gauti stipendijas pagal mokymosi rezultatus.
  
      8
 straipsnis. Pašalpa našlaičiams ir likusiems be tėvų globo
-      
-            vaikams įsikurti
+          
+        vaikams įsikurti
  
      Našlaičiams
 ir likusiems be tėvų globos vaikams, kurie buvo auklėjami vaikų namuose
@@ -185,6 +228,8 @@ sumos pervedamos į šių vaikų asmenines sąskaitas banke.
      9
 straipsnis. Lėšos pašalpoms mokėti
  
+    
+[9 straipsnio redakcija iki 1998 m. liepos 1 d.]
      Pašalpos,
 nurodytos šio įstatymo 2, 4, 4(1), 5, 6 ir 8 straipsniuose,
 mokamos iš savivaldybių biudžeto lėšų. Lėšos, reikalingos 4(1)
@@ -194,10 +239,25 @@ biudžeto pervedamos į savivaldybių biudžetus.
 nurodytos šio įstatymo 3 ir 7 straipsniuose, mokamos iš valstybės biudžeto lėšų
 mokymo įstaigoms skirtų asignavimų.
  
+    
+[9 straipsnio redakcija nuo 1998 m. liepos 1 d.]
+Pašalpos, nurodytos šio įstatymo 2, 4, 4(1),
+6 ir 8 straipsniuose, mokamos iš savivaldybių biudžetų lėšų. Lėšos, reikalingos
+4(1) straipsnyje nurodytoms pašalpoms mokėti 1997 metų gruodžio
+mėnesį, iš valstybės biudžeto pervedamos į savivaldybių biudžetus.
+Pašalpos, nurodytos šio įstatymo 3 ir 7
+straipsniuose, mokamos iš valstybės biudžeto lėšų mokymo įstaigoms skirtų
+asignavimų.
+Pašalpa, nurodyta šio įstatymo 5 straipsnyje,
+mokama iš valstybės biudžete savivaldybėms numatytų lėšų specialiai tikslinei
+dotacijai.
+ 
 Straipsnio
 pakeitimai:
 Nr.
 VIII-478, 97.10.23, Žin., 1997, Nr.99-2506 (97.10.31)
+Nr.
+VIII-676, 98.03.24, Žin., 1998, Nr.35-934 (98.04.15)
  
      10
 straipsnis. Atsakomybė už neteisėtą pašalpos gavimą
