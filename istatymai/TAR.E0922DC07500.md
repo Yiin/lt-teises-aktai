@@ -119,7 +119,8 @@ gamyba, didmeninė prekyba, sandėliavimas;
 pirotechnikos priemonių (pagal Vidaus reikalų ministerijos patvirtintą sąrašą)
 importas, pardavimas; 
 5)
-vertybinių popierių ir dokumentų blankų spausdinimas; 
+vertybinių popierių, dokumentų blankų ir specialių ženklų – banderolių
+alkoholiniams gėrimams ir tabako gaminiams ženklinti spausdinimas; 
 6)
 geodeziniai topografiniai darbai;
 7)
@@ -143,6 +144,8 @@ straipsnių pakeitimo ir papildymo 11(1) straipsniu įstatymo
 įgyvendinimo“ (Žin., 1997, Nr.96-2420).
 Straipsnio pakeitimai:
 Nr. IX-314, 2001 05 08, Žin., 2001, Nr. 43-1494 (2001 05 23)
+Nr. IX-812,
+2002-03-26, Žin., 2002, Nr. 38-1359 (2002-04-10)
  
  
 3
@@ -176,9 +179,20 @@ Nr. IX-314, 2001 05 08, Žin.,
 ĮMONIŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMO 2
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-812, 2002-03-26,
+Žin., 2002, Nr. 38-1359 (2002-04-10)
+ĮMONIŲ ĮSTATYMO 13 STRAIPSNIO
+PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 05 23)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2002-04-10)
+                 
+autrap@lrs.lt
 
