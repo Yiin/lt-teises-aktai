@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2000-04-21 iki 2000-08-03
+Suvestinė redakcija nuo 2000-08-04 iki 2001-12-06
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
  
@@ -906,6 +906,13 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 4. Informaciniai leidiniai apie tiesioginių derybų būdu parduodamus akcinių ir uždarųjų akcinių bendrovių akcijų paketus yra rengiami Turto fondo nustatyta tvarka. Šiems informaciniams leidiniams Vertybinių popierių viešosios apyvartos įstatymo reikalavimai netaikomi.
+
+
+
+
+5. Tiesioginių derybų būdu gali būti privatizuojami valstybei ar savivaldybei nuosavybės teise priklausantys pastatai ar patalpos, į kuriuos buvo investuota privataus kapitalo, ir tenkinamos sąlygos, nustatytos Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 20 straipsnio 5 dalyje. Privatizuojant tokį turtą, Vyriausybės nustatyta tvarka tiesioginės derybos gali būti vykdomos su vienu pirkėju, investavusiu privatų kapitalą. 
+Papildyta straipsnio dalimi:
+Nr. VIII-1888, 2000-07-20, Žin., 2000, Nr. 66-1986 (2000-08-04), i. k. 1001010ISTAIII-1888
  
 
 
@@ -942,7 +949,20 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-2. Nuoma su išsipirkimu gali būti taikoma privatizuoti ilgalaikį materialųjį turtą, kurio pagal šį įstatymą nepavyko privatizuoti viešame aukcione. Nuomos su išsipirkimu vertinimo kriterijus yra nuomos kaina, diskontuota nuomos su išsipirkimu konkurso rengimo dieną. 
+2. Nuoma su išsipirkimu gali būti taikoma privatizuoti:
+
+
+1) ilgalaikį materialųjį turtą, kurio pagal šį įstatymą nepavyko privatizuoti viešame aukcione. Nuomos su išsipirkimu vertinimo kriterijus yra nuomos kaina, diskontuota nuomos su išsipirkimu konkurso rengimo dieną;
+
+
+
+
+2) valstybei ar savivaldybei nuosavybės teise priklausančius pastatus ar patalpas, į kurias buvo investuota privataus kapitalo, ir yra tenkinamos sąlygos, nustatytos Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 20 straipsnio 5 dalyje. Privatizuojant tokį turtą nuomos su išsipirkimu būdu, Vyriausybės nustatyta tvarka derybos gali būti vykdomos su vienu nuomininku (pirkėju), investavusiu privatų kapitalą. Tokiais atvejais nuomos su išsipirkimu vertinimo kriterijus yra nuomos kaina, diskontuota nuomos su išsipirkimu sutarties pasirašymo dieną. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. VIII-1888, 2000-07-20, Žin., 2000, Nr. 66-1986 (2000-08-04), i. k. 1001010ISTAIII-1888
+ 
 
 
 
@@ -1410,3 +1430,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1614, 2000-04-11, Žin., 2000, Nr. 33-923 (2000-04-21), i. k. 1001010ISTAIII-1614
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 14 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1888, 2000-07-20, Žin., 2000, Nr. 66-1986 (2000-08-04), i. k. 1001010ISTAIII-1888
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 17, 19 straipsnių papildymo ir pakeitimo įstatymas
