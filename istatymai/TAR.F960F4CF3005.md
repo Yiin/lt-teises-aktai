@@ -27,7 +27,7 @@ Vilnius
 Nauja įstatymo
 redakcija:
 Nr. VIII-1362,
-99.10.19, Žin., 1999, Nr.93-2709 (99.11.04)
+1999.10.19, Žin., 1999, Nr.93-2709 (1999.11.04)
 Nr. IX-566, 2001-10-23,
 Žin., 2001, Nr. 94-3307 (2001-11-09)
  
@@ -78,8 +78,8 @@ iždo sąskaitą;
 pajamas, kurias savivaldybės biudžetui pagal įstatymus sumoka fiziniai ir
 juridiniai asmenys.
  
-4 straipsnis.
-Valstybės biudžeto dotacijos savivaldybių biudžetams 
+4 straipsnis. Valstybės
+biudžeto dotacijos savivaldybių biudžetams 
 Savivaldybės
 gauna valstybės biudžeto dotacijų. Jų apskaičiavimo, tvirtinimo ir pervedimo
 tvarką nustato šis Įstatymas.
@@ -157,9 +157,8 @@ savivaldybės gyventojui (xif), pagal formulę L1i = Gi
 fizinių asmenų pajamų mokesčiui išlyginti; 
 2) Gi – i-osios savivaldybės gyventojų skaičius;
 
-3) xf – faktinės praėjusio mėnesio visų
-savivaldybių vidutinės pajamos iš fizinių asmenų pajamų mokesčio vienam
-gyventojui; 
+3) xf – faktinės praėjusio mėnesio visų savivaldybių
+vidutinės pajamos iš fizinių asmenų pajamų mokesčio vienam gyventojui; 
 4) xif – faktinės praėjusio mėnesio i-osios savivaldybės pajamos iš fizinių asmenų pajamų
 mokesčio vienam savivaldybės gyventojui;
 5) BD1i – i-ajai savivaldybei skiriama valstybės
@@ -170,9 +169,8 @@ dalis.
 3. Kai Valstybės iždo sąskaitoje pritrūksta lėšų fizinių
 asmenų pajamų mokesčiui išlyginti, apskaičiuota trūkstama suma pervedama
 kiekvienai savivaldybei iš kito mėnesio įplaukų Valstybės iždo sąskaitoje. Jei
-pajamos iš fizinių asmenų pajamų mokesčio apskaičiuotos pagal šio straipsnio 2
-dalies formulę, liktų neišlygintos, trūkstama suma dengiama iš valstybės
-biudžeto.
+pajamos iš fizinių asmenų pajamų mokesčio apskaičiuotos pagal šio straipsnio 2 dalies
+formulę, liktų neišlygintos, trūkstama suma dengiama iš valstybės biudžeto.
 4. Valstybės biudžeto bendrosios dotacijos dalis (BD1),
 skiriama savivaldybei ateinančių biudžetinių metų fizinių asmenų pajamų
 mokesčiui išlyginti, apskaičiuojama pagal formulę 
@@ -316,14 +314,18 @@ dalimis.
 nurodytas 6 straipsnyje, Finansų ministerija apskaičiuoja pagal 7 ir 8
 straipsniuose pateiktas formules ir ne rečiau kaip keturis kartus per mėnesį
 skiria savivaldybėms.
-4. Jeigu Seimas ar Vyriausybė biudžetiniais metais priima
-ar ateinančiais biudžetiniais metais numato priimti sprendimus, dėl kurių keičiasi
-savivaldybių biudžetų pajamos ir išlaidos, pajamų ir išlaidų pokyčiai
-kompensuojami. Biudžetiniais metais turi būti skiriama reikiamo dydžio
-valstybės biudžeto bendrosios dotacijos kompensacija (BDK), susijusi su
-savivaldybių pajamų ir išlaidų pasikeitimu, arba iš savivaldybių biudžetų
-paimamos reikiamos sumos, o ateinančiais biudžetiniais metais koreguojama
-fizinių asmenų pajamų mokesčio dalis, tenkanti visų savivaldybių biudžetams.
+4. Jeigu Seimas ar
+Vyriausybė biudžetiniais metais priima ar ateinančiais biudžetiniais metais
+numato priimti sprendimus, dėl kurių keičiasi savivaldybių biudžetų pajamos ir
+išlaidos, pajamų ir išlaidų pokyčiai, išskyrus
+pokyčius, kuriais savivaldybių biudžetai sumažėja dėl žemės nuomos mokesčio už
+valstybinę žemę laisvosios ekonominės zonos teritorijoje, panaudoto šioje
+teritorijoje esančiai žemei išpirkti iš žemės savininkų, kompensuojami.
+Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto
+bendrosios dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir
+išlaidų pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o
+ateinančiais biudžetiniais metais koreguojama fizinių asmenų pajamų mokesčio
+dalis, tenkanti visų savivaldybių biudžetams.
 5. Valstybės biudžeto bendrosios dotacijos kompensacija,
 taip pat iš savivaldybių biudžetų paimamos sumos, susijusios su savivaldybių
 pajamų ir išlaidų pasikeitimu, apskaičiuojamos:
@@ -334,13 +336,17 @@ i-ajai savivaldybei skiriama arba paimama valstybės biudžeto bendrosios
 dotacijos kompensacijos suma;
 2) jeigu Seimo
 ar Vyriausybės sprendimai turi įtakos tik kai kurioms savivaldybėms, su
-savivaldybių pajamų ir išlaidų pokyčiais susijusios sumos apskaičiuojamos taikant
-konkrečius valstybės institucijų, įstaigų ir savivaldybių suderintus dydžius.
+savivaldybių pajamų ir išlaidų pokyčiais susijusios sumos apskaičiuojamos
+taikant konkrečius valstybės institucijų, įstaigų ir savivaldybių suderintus dydžius.
 6. Kai Seimas priima įstatymus arba Vyriausybė vykdydama
 įstatymus, priima nutarimus, dėl kurių keičiasi valstybės ir savivaldybių
 biudžetų einamųjų metų įsipareigojimai, Finansų ministerija bei savivaldybių
 vykdomosios institucijos patikslina valstybės biudžeto ir savivaldybių biudžetų
 tarpusavio atsiskaitymus.
+Straipsnio
+pakeitimai:
+Nr. IX-974,
+2002-06-20, Žin., 2002, Nr. 68-2773 (2002-07-03)
  
 11 straipsnis.
 Finansinių rodiklių derinimas
@@ -936,16 +942,25 @@ IX-566,
 2001-10-23, Žin., 2001, Nr. 94-3307 (2001-11-09)
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Šio Įstatymo nuostatomis Vyriausybė pradeda vadovautis
-rengdama 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių
-rodiklių patvirtinimo įstatymo projektą.
+Šio Įstatymo nuostatomis Vyriausybė pradeda vadovautis rengdama
+2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
+patvirtinimo įstatymo projektą.
 Nauja įstatymo redakcija
+ 
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-974,
+2002-06-20, Žin., 2002, Nr. 68-2773 (2002-07-03)
+SAVIVALDYBIŲ
+BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001-11-09)
+Aušrinė Trapinskienė (2002-07-03)
                  
 autrap@lrs.lt
