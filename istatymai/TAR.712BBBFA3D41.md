@@ -13,134 +13,188 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 
 # Lietuvos Respublikos biudžeto sandaros įstatymas
 
-Redaguota: 1995 06 07
+@D1=19900730;D2=19960514;D3=19960523
 
 
 
 
-     Redaguota: 1995
-06 07
-     Pakeitimai:
- 
-     1.Parlamentas,
+@D1=19900730;D2=19960514;D3=19960523
+Pakeitimai:
+ 1.
+ Parlamentas,
 Įstatymas
-     Nr.1-2914;
-1992.09.24; Žin., 1992, Nr.29(1)-854;
-     DĖL LIETUVOS
-RESPUBLIKOS BIUDŽETINĖS SANDAROS
-     ĮSTATYMO
-DALINIO PAKEITIMO
+{#92HWAA2914 ;} Nr.
+1-2914, 92.09.24, Žin., 1992, Nr. 29(1)-854
+ DĖL LIETUVOS
+RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO DALINIO
+ PAKEITIMO
  
-     2. Parlamentas,
+ 2.
+ Parlamentas,
 Įstatymas
-     Nr.1-3072;
-1992.11.19; Žin., 1992,Nr.34 -1036;
-     DĖL LIETUVOS
-RESPUBLIKOS BIUDŽETINĖS SANDAROS
-     ĮSTATYMO 31
-STRAIPSNIO PAKEITIMO
- 
-     3. Parlamentas,
-Įstatymas
-     Nr.1-271;
-1993.10.12; Žin., 1993,  Nr.54-1049;         
-     DĖL LIETUVOS
-RESPUBLIKOS BIUDŽETINĖS SANDAROS
-     ĮSTATYMO
+{#92JRAA3072 ;} Nr.
+1-3072, 92.11.19, Žin., 1992, Nr. 34-1036
+ DĖL LIETUVOS
+RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 31
+ STRAIPSNIO
 PAKEITIMO
  
-     4. Parlamentas,
+ 3.
+ Parlamentas,
 Įstatymas
-     Nr.1-793;
-1995.02.14.; Žin., 1995, Nr.18-404
-     DĖL LIETUVOS
-RESPUBLIKOS BIUDŽETINĖS SANDAROS
-     ĮSTATYMO
-PAKEITIMO IR PAPILDYMO
+{#93IKAA0271 ;} Nr.
+1-271, 93.10.12, Žin., 1993, Nr. 54-1049 (93.10.20)
+ DĖL LIETUVOS
+RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO
+ IR PAPILDYMO
  
-     5. Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
-     DĖL LIETUVOS
-RESPUBLIKOS BIUDŽETINĖS SANDAROS
-     ĮSTATYMO
-PAKEITIMO IR PAPILDYMO
+ 4.
+ Parlamentas,
+Įstatymas
+{#95AMAA0793 ;} Nr.
+1-793, 95.02.14, Žin., 1995, Nr. 18-404 (95.03.01)
+ DĖL LIETUVOS
+RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO
+ IR PAPILDYMO
  
+ 5.
+ Parlamentas, Įstatymas
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+ DĖL LIETUVOS
+RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO
+ IR PAPILDYMO
  
-                     
+ 6.
+ Parlamentas,
+Įstatymas
+{#95I^AA1080 ;} Nr.
+1-1080, 95.10.31, Žin., 1995, Nr. 92-2056 (95.11.10)
+ DĖL KAI KURIŲ
+LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ,
+ SUSIJUSIŲ SU
+LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO
+ KELEIVINIU
+TRANSPORTU LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ,
+ TARNAUTOJŲ BEI KITŲ
+ASMENŲ VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ
+ KOMPENSAVIMO
+TVARKOS", PAKEITIMO IR PAPILDYMO
+ 
+ 7.
+ Parlamentas,
+Įstatymas
+{#96DMAA1333 ;} Nr.
+1-1333, 96.05.14, Žin., 1996, Nr. 48-1141 (96.05.22)
+ LIETUVOS
+RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 1 IR 2
+ STRAIPSNIŲ
+PAPILDYMO IR 21-1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+ *** Pabaiga ***
+ 
+                      
 LIETUVOS RESPUBLIKOS
  
                      
 BIUDŽETINĖS SANDAROS
- 
                        
 Į S T A T Y M A S
- 
  
                    
 I skyrius. BENDROJI DALIS
  
- 
-    1 straipsnis.
- 
-  Lietuvos
-valstybinę  biudžeto sistemą sudaro
+     1 straipsnis. 
+Lietuvos valstybinę  biudžeto sistemą sudaro
 savarankiškas
 Lietuvos  Respublikos valstybės  biudžetas ir  taip
 pat savarankiški
 savivaldybių biudžetai.
-     Biudžetai sudaromi 
-vieneriems metams  - nuo sausio 1 d. iki
-gruodžio 31 d.
-įskaitytinai.
+     Biudžetai  
+sudaromi vieneriems metams - nuo sausio 1 dienos
+iki  gruodžio  31 
+dienos  įskaitytinai.  Į  atitinkamų  biudžetų
+pajamas  įskaitomos 
+mokėtojų  įmokos,  pervestos iki gruodžio 31
+dienos 
+įskaitytinai.  Metams  pasibaigus,  nepanaudotus Lietuvos
+Respublikos  
+valstybės   ir   savivaldybių  biudžetų  asignavimų
+likučius 
+asignavimų  valdytojai grąžina atitinkamiems biudžetams
+iki  sausio  10 
+dienos.  Užsienio reikalų ministerijai paliekami
+mėnesio   išlaidų 
+dydžio  pereinamieji  lėšų  likučiai,  esantys
+Lietuvos Respublikos
+diplomatinėse atstovybėse užsienyje.
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr. 1-901,
+95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+{#96DMAA1333 ;} Nr.
+1-1333, 96.05.14, Žin., 1996, Nr. 48-1141 (96.05.22)
  
  
-     2 straipsnis.
- 
-     Lietuvos
-biudžetuose   sukaupiama nacionalinių pajamų dalis,
-kuri   skiriama   
-Respublikos    švietimo,    kultūros,  mokslo,
-sveikatos  apsaugos,
-socialinio aprūpinimo bei socialinės šalpos,
-gamtos     apsaugos 
-programoms   įgyvendinti,  ūkiui    plėtoti,
+     2 straipsnis. 
+Lietuvos biudžetuose  sukaupiama nacionalinių
+pajamų  dalis, 
+kuri  skiriama  Respublikos  švietimo,  kultūros,
+mokslo, sveikatos 
+apsaugos, socialinio aprūpinimo bei socialinės
+šalpos, gamtos 
+apsaugos programoms  įgyvendinti, ūkiui  plėtoti,
 valstybinės valdžios
 ir valstybės valdymo įstaigoms išlaikyti bei
 krašto apsaugai.
+     Valstybės
+biudžeto asignavimų valdytojai yra:
+     1)  valstybės 
+institucijų,  įstaigų  bei  įmonių,  nurodytų
+Seimo patvirtintame
+valstybės biudžete, vadovai;
+     2)  
+valstybės   institucijų,   kurioms   asignavimus  Seimo
+pavedimu  
+patvirtina   Vyriausybė,   neviršydama  bendros  Seimo
+patvirtintos   
+asignavimų    sumos    atitinkamoms    priemonėms
+finansuoti, vadovai.
+     Savivaldybių
+biudžetų asignavimų valdytojai yra:
+     1) 
+savivaldybių  institucijų,  įstaigų bei įmonių, nurodytų
+savivaldybės  
+tarybos   patvirtintame   savivaldybės   biudžete,
+vadovai;
+     2)   
+savivaldybių    institucijų,    kurioms    asignavimus
+savivaldybės 
+tarybos  pavedimu  patvirtina  savivaldybės valdyba
+(meras), 
+neviršydama  bendros  savivaldybės tarybos patvirtintos
+asignavimų sumos
+atitinkamoms priemonėms finansuoti, vadovai.
  
+Straipsnio
+pakeitimai:
+{#96DMAA1333 ;} Nr.
+1-1333, 96.05.14, Žin., 1996, Nr. 48-1141 (96.05.22)
  
      3 straipsnis.
- 
- Mokesčius ir kitas
-įmokas į biudžetus nustato
+Mokesčius ir kitas įmokas į biudžetus nustato
 Lietuvos Respublikos
 įstatymai.
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
  
-     4  straipsnis. 
- 
-  Pajamų  ir 
-išlaidų  paskirstymas  Lietuvos
+     4 
+straipsnis.   Pajamų  ir  išlaidų  paskirstymas  Lietuvos
 Respublikos 
 valstybės   biudžetui  ir   savivaldybių  biudžetams
 nustatytas šio
@@ -158,165 +212,125 @@ Lietuvos  Respublikos  Vyriausybės  teikimu.
 asmenų pajamų
 mokestį ir juridinių asmenų pelno mokestį.
  
-     Pakeitimai:
-     1.1-2914;
-1992.09.24.; 
-     Žin., 1992,
-Nr.29(1)-854;
- 
-     2.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
+Straipsnio
+pakeitimai:
+{#92HWAA2914 ;} Nr.
+1-2914, 92.09.24, Žin., 1992, Nr. 29(1)-854
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
  
-     5 straipsnis.
+     5  straipsnis. 
+Įstaigoms,  išlaikomoms  iš  biudžetų  lėšų,
+leidžiama  turėti 
+nebiudžetinių  lėšų. Įstaigoms, finansuojamoms
+iš  valstybės 
+biudžeto, nebiudžetinių lėšų sudarymo ir naudojimo
+taisykles  nustato 
+Lietuvos Respublikos Vyriausybė, o įstaigoms,
+finansuojamoms  iš 
+savivaldybių  biudžetų,  -  vietos savivaldos
+vykdomosios
+institucijos.
  
-     Įstaigoms,
-išlaikomoms  iš biudžetų  lėšų, leidžiama  turėti
-nebiudžetinių 
-lėšų.   Įstaigoms,  finansuojamoms   iš  valstybės
-biudžeto,  
-nebiudžetinių  lėšų  sudarymo  ir naudojimo taisykles
-nustato    
-Lietuvos   Respublikos   Vyriausybė,   o   įstaigoms,
-finansuojamoms iš 
-savivaldybių biudžetų,     -      savivaldybių
-vykdomieji organai.
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
- 
- 
-     6 straipsnis.
- 
-     Lietuvos
-Respublikos  valstybės  ir  savivaldybių  biudžetai
-sudaromi     ir 
-vykdomi   vadovaujantis   Lietuvos   Respublikos
+     6 straipsnis. Lietuvos
+Respublikos valstybės ir savivaldybių
+biudžetai sudaromi 
+ir vykdomi vadovaujantis Lietuvos Respublikos
 įstatymais ir 
 bendrosiomis taisyklėmis, kurias tvirtina Lietuvos
 Respublikos
 Vyriausybė.
  
- 
      7 straipsnis.
+Lietuvos Respublikos valstybės ir savivaldybių
+biudžetams taikoma
+vienoda pajamų ir išlaidų klasifikacija, kurią
+nustato Lietuvos
+Respublikos finansų ministerija.
  
-     Lietuvos
-Respublikos  valstybės ir  savivaldybių  biudžetams
-taikoma vienoda 
-pajamų ir  išlaidų klasifikacija,  kurią nustato
+     8 straipsnis.  
+Savivaldybių biudžetų, taip pat ministerijų,
+kitų  Lietuvos  
+Respublikos  Vyriausybės  įstaigų,  savarankiškų
+departamentų,
+įmonių  bei įstaigų  ir apskričių  finansinių planų
+sudarymo metodikos 
+klausimus tvarko Lietuvos Respublikos finansų
+ministerija.
+ 
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+ 
+     9 straipsnis. 
+Lietuvos valstybės  biudžeto kasos  operacijų
+vykdymą organizuoja 
+Valstybės  iždas  per  Lietuvos  Respublikos
+kredito įstaigas.
+ 
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+ 
+     10 straipsnis. 
+Lietuvos  Respublikos  Vyriausybės ir vietos
+savivaldos  
+vykdomųjų   institucijų   žinias  apie  patvirtintus
+biudžetus   ir  
+jų   įvykdymą  skelbia  valstybinės  statistikos
+įstaigos. 
+Informacija  apie  savivaldybių biudžetų tvirtinimą ir
+vykdymą  pateikiama 
+Lietuvos  Respublikos  finansų  ministerijai
 Lietuvos Respublikos
-finansų ministerija.
+Vyriausybės nustatyta tvarka.
+ 
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
  
-     8 straipsnis.
- 
-      Savivaldybių
-biudžetų, taip pat ministerijų, kitų  Lietuvos
-Respublikos
-Vyriausybės įstaigų, savarankiškų departamentų, įmonių
-bei  įstaigų  ir 
-apskričių  finansinių  planų sudarymo metodikos
-klausimus tvarko
-Lietuvos Respublikos finansų ministerija.
- 
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
- 
- 
-     9 straipsnis.
- 
-      Lietuvos
-valstybės biudžeto kasos operacijų vykdymą organizuoja
-Valstybės  iždas 
-per  Lietuvos  Respublikos kredito įstaigas.
- 
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136
- 
- 
-     10 straipsnis.
- 
-     Lietuvos
-Respublikos  Vyriausybės ir  vietos savivaldos
-vykdomųjų
-institucijų patvirtintus biudžetus ir jų įvykdymą skelbia
-valstybinės 
-statistikos įstaigos. Informacija apie  savivaldybių
-biudžetų  
-tvirtinimą ir  vykdymą pateikiama Lietuvos Respublikos
-finansų
-ministerijai   Lietuvos Respublikos Vyriausybės nustatyta
-tvarka.
- 
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136
- 
- 
-      II skyrius.
+       II skyrius.
 LIETUVOS RESPUBLIKOS VALSTYBĖS BIUDŽETAS
  
- 
-     11 straipsnis.
- 
-     Lietuvos
-Respublikos  valstybės biudžetas yra centralizuotas
-finansinių  
-išteklių fondas,  kuriame sukaupiama  ir perskirtoma
-dalis Respublikos
-nacionalinių pajamų.
+     11 straipsnis. 
+Lietuvos Respublikos valstybės biudžetas yra
+centralizuotas
+finansinių  išteklių fondas, kuriame sukaupiama ir
+perskirtoma dalis
+Respublikos nacionalinių pajamų.
      Lietuvos
 Respublikos valstybės biudžeto sukaupti finansiniai
-ištekliai yra  
-naudojami bendravalstybinėms reikmėms finansuoti.
+ištekliai yra 
+naudojami bendravalstybinėms  reikmėms finansuoti.
 Be to,  per
 Lietuvos  Respublikos valstybės  biudžetą šio ir kitų
-įstatymų   nustatyta
+įstatymų  nustatyta 
 tvarka  perskirstomi  finansiniai  ištekliai
 savivaldybės
 poreikiams tenkinti.
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136
+Straipsnio pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
- 
-     12  straipsnis.
- 
-     Lietuvos
-Respublikos valstybės biudžeto pajamas sudaro
-Lietuvos Respublikos
-įstatymų nustatyti mokesčiai ir kitos
-įmokos į biudžetą.
-     Lietuvos
-Respublikos valstybės biudžetui priskiriama:
+     12  
+straipsnis.  Lietuvos  Respublikos  valstybės  biudžeto
+pajamas sudaro 
+Lietuvos Respublikos įstatymų nustatyti mokesčiai
+ir kitos įmokos į
+biudžetą.
+     Lietuvos Respublikos
+valstybės biudžetui priskiriama:
      1) juridinių
 asmenų pelno mokestis;
      2) pridėtinės
@@ -328,7 +342,7 @@ asmenų pajamų mokestis;
 prekybos ir sandorių mokesčiai;
      6) žyminis
 mokestis;
-     7) konsulinis
+     7) konsulinis
 mokestis;
      8) pajamos iš
 valstybės nuosavybės;
@@ -348,41 +362,32 @@ valstybės biudžetą.
 nurodytas mokestis į valstybės biudžetą įskaitomas
 Lietuvos Respublikos
 žyminio mokesčio įstatyme nustatyta tvarka.
-     8 punkte 
-nurodytų pajamų  į Lietuvos  Respublikos valstybės
+     8 punkte  nurodytų
+pajamų  į Lietuvos  Respublikos valstybės
 biudžetą įskaitoma 
 ta  dalis,  kuri  gaunama  už  eksploatuojamą
 valstybės turtą.
      9  punkte  
 nurodytos  kitos   įmokos  Lietuvos  Respublikos
-valstybės ar  savivaldybių
-biudžetams  priskiriamos vadovaujantis
+valstybės ar 
+savivaldybių biudžetams  priskiriamos vadovaujantis
 įstatymų nustatyta 
 jų ėmimo  tvarka, o  jos  nesant  -  Lietuvos
 Respublikos
 Vyriausybės nutarimais.
  
-     Pakeitimai:
  
-     1.Nr.1-793;
-1995.02.14.; 
-     Žin., 1995,
-Nr.18-404
-     
-     2.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136
+Straipsnio
+pakeitimai:
+{#95AMAA0793 ;} Nr.
+1-793, 95.02.14, Žin., 1995, Nr. 18-404 (95.03.01)
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
- 
-     13  straipsnis.
- 
-     Lietuvos
-Respublikos valstybės biudžeto asignavimai skiriami
-šioms valstybės
-reikmėms:
+     13 
+straipsnis.   Lietuvos  Respublikos  valstybės  biudžeto
+asignavimai skiriami
+šioms valstybės reikmėms:
      1)  švietimo,  
 kultūros,  sveikatos   apsaugos  ir   sporto
 programoms
@@ -411,96 +416,84 @@ valstybės ryšiams;
 skolos aptarnavimo išlaidoms;
      12) valstybės
 biudžeto kasos apyvartos lėšoms padidinti;
-     13) kitoms 
+     13)   išlaidoms,  
+patirtoms   dėl   važiavimo   keleiviniu
+transportu lengvatų
+taikymo, kompensuoti;
+     14) kitoms 
 priemonėms pagal  Lietuvos Respublikos įstatymus
 įgyvendinti.
  
-     Pakeitimai:
+Straipsnio
+pakeitimai:
+{#95AMAA0793 ;} Nr.
+1-793, 95.02.14, Žin., 1995, Nr. 18-404 (95.03.01)
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+{#95I^AA1080 ;} Nr.
+1-1080, 95.10.31, Žin., 1995, Nr. 92-2056 (95.11.10)
  
-     Nr.1-793;
-1995.02.14.; 
-     Žin., 1995,
-Nr.18-404
-     
-     2.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr. 1-901
-     Žin., 1995, Nr.
-47-1136 
- 
- 
-     14  straipsnis.
- 
-     Lietuvos    
-Respublikos    valstybės    biudžete  sudaromas
-Lietuvos  
-Respublikos Vyriausybės  rezervo fondas,  kurio  dydis
-nustatomas 
-tvirtinant  valstybės  biudžetą.  Jo  lėšos  Lietuvos
+     14 
+straipsnis.   Lietuvos  Respublikos  valstybės  biudžete
+sudaromas Lietuvos 
+Respublikos Vyriausybės rezervo fondas, kurio
+dydis nustatomas
+tvirtinant valstybės biudžetą. Jo lėšos Lietuvos
 Respublikos
 Vyriausybės nutarimais skirstomos apmokėti išlaidoms,
-kurių negalima  
-numatyti tvirtinant biudžetą (išskyrus  išlaidas
+kurių negalima 
+numatyti tvirtinant  biudžetą (išskyrus  išlaidas
 valdymo aparatui
 išlaikyti).
  
- 
-     15  straipsnis.
- 
-     Lietuvos  
-Respublikos   valstybės  biudžete sudaromos kasos
-apyvartos lėšos. 
-Jos sudaromos iš biudžeto lėšų likučio,  o  kai
-jo   nepakanka, - 
-iš   planinių   pajamų. Kasos  apyvartos  lėšų
-dydis  nustatomas   
-tvirtinant  Lietuvos  Respublikos  valstybės
-biudžetą.
-     Kasos  
-apyvartos  lėšos  naudojamos  kasos  pajamų laikinam
+     15 
+straipsnis.   Lietuvos  Respublikos  valstybės  biudžete
+sudaromos kasos 
+apyvartos lėšos.  Jos sudaromos iš biudžeto lėšų
+likučio,  o  kai 
+jo  nepakanka,  -  iš  planinių  pajamų.  Kasos
+apyvartos lėšų 
+dydis nustatomas  tvirtinant Lietuvos Respublikos
+valstybės biudžetą.
+     Kasos 
+apyvartos  lėšos  naudojamos  kasos  pajamų  laikinam
 trūkumui padengti 
 ir turi  būti atstatytos  ne vėliau  kaip  iki
 biudžetinių metų
 pabaigos.
  
- 
-     16  straipsnis.
- 
-     Lietuvos 
-Respublikos  valstybės  biudžeto projekto sudarymą
-organizuoja 
-Lietuvos     Respublikos      Vyriausybė.   Lietuvos
-Respublikos    
-valstybės  biudžeto   projektą  rengia   Lietuvos
+     16 
+straipsnis.   Lietuvos  Respublikos  valstybės  biudžeto
+projekto sudarymą 
+organizuoja Lietuvos  Respublikos  Vyriausybė.
+Lietuvos
+Respublikos  valstybės biudžeto projektą rengia Lietuvos
 Respublikos finansų
 ministerija.
      Lietuvos
 Respublikos  valstybės biudžeto projektas rengiamas
-remiantis  
-valstybės  įstatymų  aktais, valstybinės  statistikos
-duomenimis, socialinėmis
-ekonominėmis programomis ir mokslinėmis-
+remiantis  valstybės 
+įstatymų  aktais,  valstybinės  statistikos
+duomenimis,
+socialinėmis-ekonominėmis programomis ir mokslinėmis-
 techninėmis
 prognozėmis.
  
- 
-     17  straipsnis.
- 
-     Lietuvos
-Respublikos Vyriausybė svarsto Lietuvos Respublikos
-valstybės biudžeto 
-projektą ir  teikia  jį Lietuvos Respublikos
-Seimui. Biudžeto
-projekte nurodoma:
+     17 
+straipsnis.  Lietuvos  Respublikos  Vyriausybė  svarsto
+Lietuvos
+Respublikos  valstybės biudžeto  projektą ir  teikia  jį
+Lietuvos Respublikos
+Seimui. Biudžeto projekte nurodoma:
      1) bendra 
 pajamų suma  ir jų  paskirstymas  pagal  mokesčių
 (pajamų) rūšis;
      2) bendra 
 asignavimų suma ir jų paskirstymas ministerijoms,
 kitoms   
-Lietuvos     Respublikos     Vyriausybės     įstaigoms,
+Lietuvos     Respublikos     Vyriausybės     įstaigoms,
 savarankiškiems 
-departamentams,   įmonėms   bei   įstaigoms   ir
+departamentams,   įmonėms   bei   įstaigoms   ir
 apskritims, 
 išskiriant   socialines  ir   ekonomines  programas.
 Asignavimai 
@@ -514,229 +507,171 @@ klasifikaciją;
      3) kasos
 apyvartos lėšų suma.
  
-     Pakeitimai:
-     1.1-2914;
-1992.09.24.; 
-     Žin., 1992,
-Nr.29(1)-854;
  
-     2.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
+Straipsnio
+pakeitimai:
+{#92HWAA2914 ;} Nr.
+1-2914, 92.09.24, Žin., 1992, Nr. 29(1)-854
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
- 
-     18 straipsnis. 
- 
-     Lietuvos
-Respublikos Seimo komitetai svarsto Lietuvos
-Respublikos
-valstybės biudžeto projektą ir rengia pasiūlymus
-bei išvadas Lietuvos
-Respublikos Seimui.
- 
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
- 
- 
-     19 straipsnis.
- 
-     Lietuvos
-Respublikos Seimas svarsto Lietuvos Respublikos
-valstybės biudžeto
-projektą atsižvelgdamas į Lietuvos Respublikos
-Vyriausybės 
-pranešimą,  Lietuvos  Respublikos  Seimo komitetų
+     18 straipsnis. 
+Lietuvos Respublikos Seimo komitetai svarsto
+Lietuvos 
+Respublikos   valstybės  biudžeto  projektą  ir  rengia
 pasiūlymus bei
-išvadas ir papildomus pranešimus.
- 
-     Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995,
-Nr.47-1136
+išvadas Lietuvos Respublikos Seimui.
  
  
-     20  straipsnis.
-
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-     Lietuvos 
-Respublikos  valstybės  biudžetą tvirtina Lietuvos
-Respublikos Seimas 
-pagal rodiklius, nurodytus šio įstatymo 17
-straipsnio 1,2 ir 3
-punktuose.
+     19 straipsnis. 
+Lietuvos Respublikos Seimas svarsto Lietuvos
+Respublikos
+valstybės biudžeto projektą atsižvelgdamas į Lietuvos
+Respublikos
+Vyriausybės  pranešimą,  Lietuvos  Respublikos  Seimo
+komitetų pasiūlymus
+bei išvadas ir papildomus pranešimus.
+ 
+ 
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+ 
+     20 
+straipsnis.   Lietuvos  Respublikos  valstybės  biudžetą
+tvirtina Lietuvos 
+Respublikos Seimas  pagal rodiklius, nurodytus
+šio įstatymo 17
+straipsnio 1,2 ir 3 punktuose.
      Lietuvos 
 Respublikos   valstybės  biudžetas   patvirtinamas
 Lietuvos Respublikos
 įstatymu.
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
- 
-     21  straipsnis.
- 
-     Lietuvos  
-Respublikos   vasltybės  biudžetas tvirtinamas ne
-vėliau kaip prieš
-dvi savaites iki biudžetinių metų pradžios.
+     21 
+straipsnis.  Lietuvos  Respublikos  vasltybės  biudžetas
+tvirtinamas ne 
+vėliau kaip  prieš dvi  savaites iki  biudžetinių
+metų pradžios.
      Jeigu
-valstybės   biudžetas  laiku   nepatvirtinamas,jo (iki
+valstybės  biudžetas laiku  nepatvirtinamas,  jo  (iki
 patvirtinimo) 
 išlaidos  biudžetinių  metų  pradžioje  kiekvienam
 mėnesiui negali 
 viršyti praėjusiųjų metų valstybės biudžeto 1/12
 išlaidų.
  
- 
      21-1 
-straipsnis. 
+straipsnis.   Lietuvos   Respublikos   Vyriausybė  per
+pusantro   mėnesio  
+nuo   einamųjų   metų  Lietuvos  Respublikos
+valstybės  
+biudžeto   įstatymo  įsigaliojimo  pateikia  Lietuvos
+Respublikos  
+Seimui   patvirtinto   valstybės  biudžeto  išlaidų
+paskirstymą  pagal 
+asignavimų  valdytojų  finansuojamas įstaigas
+bei organizacijas ir
+biudžeto išlaidų klasifikacijos kodus.
  
-     Lietuvos 
-Respublikos   Vyriausybė  per pusantro mėnesio nuo
-einamųjų metų
-Lietuvos Respublikos valstybės biudžeto įstatymo
-įsigaliojimo
-pateikia Lietuvos Respublikos Seimui patvirtinto
-valstybės biudžeto
-išlaidų paskirstymą pagal asignavimų vyriausiųjų
-valdytojų
-finansuojamas įstaigas bei organizacijas   ir   biudžeto
-išlaidų
-klasifikacijos kodus.
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+{#96DMAA1333 ;} Nr.
+1-1333, 96.05.14, Žin., 1996, Nr. 48-1141 (96.05.22)
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
- 
- 
-     22 straipsnis.
- 
-     Lietuvos   
-Respublikos    Vyriausybė    valstybės  biudžeto
-vykdymą    
-organizuoja  per     Lietuvos    Respublikos  finansų
+     22 straipsnis. 
+Lietuvos  Respublikos  Vyriausybė  valstybės
+biudžeto vykdymą 
+organizuoja per  Lietuvos  Respublikos  finansų
 ministeriją ir jos
 įstaigas, kitas valstybės įstaigas bei įmones.
  
- 
-     23 straipsnis.
- 
-     Lėšas, 
-papildomai   gautas  vykdant   Lietuvos  Respublikos
-valstybės 
-biudžetą,   ir   netekusius   paskirties   asignavimus
-valstybės 
-papildomoms  reikmėms  tenkinti  Lietuvos  Respublikos
-Vyriausybės  
-teikimu   skirsto   Lieutvos   Respublikos   Seimas
-priimdamas
+     23 straipsnis. 
+Lėšas, papildomai  gautas vykdant  Lietuvos
+Respublikos 
+valstybės   biudžetą,   ir   netekusius   paskirties
+asignavimus 
+valstybės  papildomoms  reikmėms  tenkinti  Lietuvos
+Respublikos 
+Vyriausybės  teikimu  skirsto  Lietuvos  Respublikos
+Seimas priimdamas
 atitinkamus įstatymus.
  
+Straipsnio
+pakeitimai:
+{#95AMAA0793 ;} Nr.
+1-793, 95.02.14, Žin., 1995, Nr. 18-404 (95.03.01)
  
-     24  straipsnis.
- 
-     Lietuvos    
-Respublikos     valstybės    biudžeto  įvykdymo
-apyskaitą rengia 
-Lietuvos  Respublikos  finansų  ministerija  ir
-nustatyta  tvarka  
-bei   laiku   teikia   Lietuvos   Respublikos
+     24 
+straipsnis.   Lietuvos  Respublikos  valstybės  biudžeto
+įvykdymo  
+apyskaitą    rengia   Lietuvos   Respublikos   finansų
+ministerija  ir  
+nustatyta  tvarka  bei  laiku  teikia  Lietuvos
+Respublikos
 Vyriausybei.
  
+     25  
+straipsnis.  Lietuvos  Respublikos  Vyriausybė  svarsto
+Lietuvos
+Respublikos  valstybės biudžeto  įvykdymo  apyskaitą  ir
+teikia  ją  
+tvirtinti  Lietuvos   Respublikos  Seimui.  Lietuvos
+Respublikos 
+valstybės  biudžeto  įvykdymo  apyskaita  tvirtinama
+pagal rodiklius, 
+nurodytus šio  įstatymo 17  straipsnio 1,2 ir 3
+punktuose.
  
-     25 
-straipsnis.  
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-     Lietuvos
-Respublikos Vyriausybė svarsto Lietuvos Respublikos
-valstybės biudžeto 
-įvykdymo  apyskaitą  ir teikia  ją  tvirtinti
-Lietuvos  
-Respublikos  Seimui.  Lietuvos Respublikos  valstybės
-biudžeto  įvykdymo 
-apyskaita  tvirtinama pagal rodiklius,  
-nurodytus šio 
-įstatymo 17  straipsnio 1,2 ir 3 punktuose.
+            III
+skyrius. SAVIVALDYBIŲ BIUDŽETAI
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
+     26 straipsnis. 
+Savivaldybių biudžetuose  sukaupiamos lėšos
+socialinėms  ir  
+ekonominėms  bei   kitoms   vietinės   reikšmės
+programoms
+finansuoti ir savivaldybių įstaigoms išlaikyti.
  
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-           III
-skyrius.  SAVIVALDYBIŲ BIUDŽETAI
- 
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
- 
- 
-     26 straipsnis.
- 
-     Savivaldybių
-biudžetuose  sukaupiamos lėšos socialinėms
-ir ekonominėms bei  
-kitoms   vietinės   reikšmės programoms
-finansuoti ir
-savivaldybių įstaigoms išlaikyti.
- 
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
+     27 
+straipsnis.  Kiekviena  savivaldybė  turi  savarankišką
+biudžetą. 
+Savivaldybių   biudžetai  turi   būti  patvirtinti  be
+deficito.
  
  
-     27  straipsnis.
- 
-     Kiekviena 
-savivaldybė  turi  savarankišką biudžetą. 
-Savivaldybių
-biudžetai turi būti patvirtinti be deficito.
- 
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
- 
+Straipsnio
+pakeitimai:
+{#92HWAA2914 ;} Nr.
+1-2914, 92.09.24, Žin., 1992, Nr. 29(1)-854
+{#95DVAA0901 ;} Nr. 1-901,
+95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
      28 straipsnis.
- 
-     Savivaldybių
-biudžetų pajamas sudaro:
+Savivaldybių biudžetų pajamas sudaro:
      1) juridinių
 asmenų pelno mokestis;
      2) fizinių
@@ -770,19 +705,16 @@ numatytos  dotacijos   savivaldybių   biudžetams
 skiriamos iš
 Lietuvos Respublikos valstybės biudžeto.
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136
  
+Straipsnio
+pakeitimai:
+{#93IKAA0271 ;} Nr.
+1-271, 93.10.12, Žin., 1993, Nr. 54-1049 (93.10.20)
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-     29 straipsnis. 
- 
-     Savivaldybių
-biudžetų asignavimai skiriami:
+     29 straipsnis.
+Savivaldybių biudžetų asignavimai skiriami:
      1)  vietos  
 savivaldos  institucijų   vykdomoms   švietimo,
 kultūros, 
@@ -796,95 +728,72 @@ finansuoti;
 savivaldos institucijoms išlaikyti;
      4) savivaldybės
 biudžeto kasos apyvartos lėšoms padidinti;
-     5) kitoms
+     5) išlaidoms,
+patirtoms dėl važiavimo keleiviniu transportu
+lengvatų taikymo,
+kompensuoti;
+     6) kitoms
 priemonėms pagal Lietuvos Respublikos įstatymus ir
 savivaldybių tarybų
 sprendimus įgyvendinti.
  
-     Pakeitimai:
-     1.1-271;
-1993.10.12; 
-     Žin., 1993,
-Nr.54-1049;
- 
-     2.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+{#95I^AA1080 ;} Nr.
+1-1080, 95.10.31, Žin., 1995, Nr. 92-2056 (95.11.10)
  
  
-     30  straipsnis.
- 
-     Savivaldybių
-biudžetuose   sudaromos  kasos apyvartos lėšos.
-Jos sudaromos  iš
-atitinkamo  biudžeto lėšų  likučio, o   kai  jo
-nepakanka,  -    iš 
-planinių    pajamų.  Lėšų  dydis  nustatomas
-tvirtinant
-savivaldybių biudžetus.
-     Kasos  
-apyvartos   lėšos  naudojamos  kasos pajamų laikinam
+     30 
+straipsnis.  Savivaldybių  biudžetuose  sudaromos  kasos
+apyvartos  lėšos. 
+Jos  sudaromos  iš  atitinkamo  biudžeto  lėšų
+likučio, o  kai jo 
+nepakanka, -  iš planinių  pajamų. Lėšų dydis
+nustatomas
+tvirtinant savivaldybių biudžetus.
+     Kasos 
+apyvartos  lėšos  naudojamos  kasos  pajamų  laikinam
 trūkumui padengti 
 ir turi  būti atstatytos  ne vėliau  kaip  iki
 biudžetinių metų
 pabaigos.
- 
- 
-     31 straipsnis.
- 
-     Vykdant
-savivaldybių  biudžetus, papildomai gautos 
-lėšos   ir 
+     31 straipsnis. 
+Vykdant savivaldybių  biudžetus, papildomai
+gautos  lėšos   ir 
 netekusieji   paskirties  asignavimai   lieka
-savivaldybių 
-tarybų  žinioje ir jų  arba  jų   įgaliotų
-institucijų
-sprendimais skiriami savivaldybių papildomoms
-reikmėms tenkinti.
+savivaldybių tarybų 
+žinioje ir  jų arba  jų įgaliotų institucijų
+sprendimais skiriami
+savivaldybių papildomoms reikmėms tenkinti.
  
-     Pakeitimai:
-     1.1-3072;
-1992.11.19; 
-     Žin., 1992,
-Nr.34-1036;
+Straipsnio
+pakeitimai:
+{#92JRAA3072 ;} Nr.
+1-3072, 92.11.19, Žin., 1992, Nr. 34-1036
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-     2.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
- 
- 
-     32 straipsnis.
- 
-     Lietuvos 
-Respublikos  Seimui  arba  Lietuvos  Respublikos
-Vyriausybei priėmus
-sprendimus, dėl kurių keičiasi savivaldybių
-biudžetų  pajamos
-arba  išlaidos, daromi  atitinkami tarpusavio
-atsiskaitymai tarp
-Lietuvos Respublikos  valstybės biudžeto ir
+     32 straipsnis. 
+Lietuvos Respublikos  Seimui  arba  Lietuvos
+Respublikos Vyriausybei 
+priėmus sprendimus,  dėl kurių  keičiasi
 savivaldybių
-biudžetų.
+biudžetų  pajamos arba  išlaidos, daromi  atitinkami
+tarpusavio 
+atsiskaitymai  tarp  Lietuvos  Respublikos  valstybės
+biudžeto ir
+savivaldybių biudžetų.
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
  
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
      33 straipsnis.
- 
-     Savivaldybių
-biudžetų projektus rengia vietos
+Savivaldybių biudžetų projektus rengia vietos
 savivaldos 
 vykdomosios   institucijos.   Savivaldybių   biudžetų
 projektai 
@@ -904,72 +813,51 @@ duomenimis,  socialinėmis ir ekonominėmis programomis
 ir
 mokslinėmis-techninėmis prognozėmis.
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
+ 
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+ 
+     34 straipsnis. 
+Vietos savivaldos  vykdomosios  institucijos
+parengtus biudžetų
+projektus teikia savivaldybių taryboms.
  
  
-     34 straipsnis.
-   
-     Vietos
-savivaldos  vykdomosios  institucijos parengtus
-biudžetų projektus
-teikia savivaldybių taryboms.
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
+     35  straipsnis.  
+Savivaldybių  tarybų   komitetai   svarsto
+savivaldybių
+biudžetų projektus ir rengia pasiūlymus bei išvadas.
  
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-     35  straipsnis.
- 
-     Savivaldybių 
-tarybų   komitetai   svarsto savivaldybių
-biudžetų projektus
-ir rengia pasiūlymus bei išvadas.
- 
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
- 
- 
-     36  straipsnis.
- 
-     Savivaldybių   
-Tarybos    svarsto    biudžetų    projektus,
-atsižvelgdamos į
-Tarybų vykdomųjų organų pranešimus ir nuolatinių
-komisijų pasiūlymus
+     36 
+straipsnis.   Savivaldybių  tarybos   svarsto   biudžetų
+projektus,
+atsižvelgdamos  į vykdomųjų  institucijų pranešimus ir
+komitetų pasiūlymus
 bei išvadas.
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
  
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-    37 straipsnis.
-  
-    Savivaldybių
-biudžetus tvirtina savivaldybių tarybos.
-Biudžetas 
-tvirtinamas  savivaldybės  tarybos  sprendimu.  Jame
-nurodoma:
+     37 straipsnis. 
+Savivaldybių biudžetus tvirtina savivaldybių
+tarybos. Biudžetas 
+tvirtinamas savivaldybės  tarybos  sprendimu.
+Jame nurodoma:
      1) bendra 
 pajamų suma  ir jų  paskirstymas  pagal  mokesčių
 (pajamų) rūšis;
@@ -984,53 +872,43 @@ užmokesčiui, ir nepaprastąsias išlaidas;
      3) kasos
 apyvartos lėšų suma.
  
-     Pakeitimai:
-     1.1-2914;
-1992.09.24; 
-     Žin., 1992, Nr.29(1)-854;
  
-     2.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
- 
+Straipsnio
+pakeitimai:
+{#92HWAA2914 ;} Nr.
+1-2914, 92.09.24, Žin., 1992, Nr. 29(1)-854
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
      38 straipsnis.
- 
-     Savivaldybių
-tarybos biudžetus patvirtina per vieną  mėnesį
-nuo  Lietuvos  
-Respublikos  valstybės   biudžeto patvirtinimo.
+Savivaldybių tarybos biudžetus patvirtina per
+vieną  mėnesį   nuo 
+Lietuvos   Respublikos  valstybės   biudžeto
+patvirtinimo.
      Jei
 savivaldybių biudžetai nepatvirtinami iki metų pradžios,
 jų (iki
 patvirtinimo) išlaidos metų pradžioje kiekvienam mėnesiui
 negali viršyti
-praėjusių metų šių biudžetų 1/12 išlaidų.    
+praėjusių metų šių biudžetų 1/12 išlaidų.
      Patvirtintus 
 biudžetus  savivaldybių  merai  informaciniams
 tikslams pateikia
 Finansų ministerijai jos nustatyta tvarka.
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
  
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-     39 straipsnis.
- 
-     Savivaldybių
-biudžetų vykdymą organizuoja vietos savivaldos
-vykdomosios
-institucijos   per   savo administracijos padalinius 
-bei kitas 
-savivaldybės  įstaigas  ir organizacijas.
+     39 straipsnis. 
+Savivaldybių  biudžetų  vykdymą  organizuoja
+vietos   savivaldos   
+vykdomosios    institucijos    per    savo
+administracijos
+padalinius  bei kitas  savivaldybės  įstaigas  ir
+organizacijas.
      Savivaldybės
 biudžeto  lėšų naudojimą  prižiūri savivaldybės
 kontrolierius.
@@ -1045,21 +923,16 @@ savivaldybių biudžetų vykdymą, savivaldybių įstaigų bei
 finansinę   veiklą   kontroliuoja   valstybės
 kontrolierius.
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
  
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-     40 straipsnis.
- 
-     Vietos 
-savivaldos   vykdomosios   institucijos   sudaro
-savivaldybių  
-biudžetų  įvykdymo  apyskaitas  ir  jas  teikia
+     40 straipsnis. 
+Vietos savivaldos  vykdomosios  institucijos
+sudaro savivaldybių 
+biudžetų įvykdymo  apyskaitas ir  jas teikia
 tvirtinti
 savivaldybių  taryboms. Savivaldybių  biudžetų įvykdymo
 apyskaitos
@@ -1070,22 +943,23 @@ biudžetų   įvykdymo   apyskaitos   pateikiamos
 Finansų ministerijai
 jos nustatyta tvarka ir terminais.
  
-      Pakeitimai:
-     1.Lietuvos
-Respublikos 1995 05 23
-     Įstatymas Nr.
-1-901
-     Žin., 1995, Nr.
-47-1136 
- 
+Straipsnio
+pakeitimai:
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS
 TARYBOS
-PIRMININKAS                       
+PIRMININKAS                            
 V. LANDSBERGIS
  
-Vilnius,
-1990 m. liepos 30 d.
+Vilnius, 1990 m.
+liepos 30 d.
+ 
      Nr. I-430
+ 
+ 
+ 
+ 
 _
