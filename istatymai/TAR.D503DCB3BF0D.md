@@ -262,6 +262,12 @@ dalis papildoma 23 punktu nuo 2003 m. liepos 1 d.:
 apyvartos mokestis;
 25) pelno
 mokestis.
+ 
+[1
+dalis papildoma 26 punktu nuo 2002 m. lapkričio 22 d.:
+26) atskaitymai
+nuo pajamų pagal Lietuvos Respublikos miškų įstatymą.]
+ 
 2. Apmokestinimo
 tam tikru mokesčiu tvarką nustato tik atitinkamas mokesčio įstatymas arba jo
 pagrindu priimtas Lietuvos Respublikos Vyriausybės nutarimas, arba jų pagrindu
@@ -274,20 +280,20 @@ Administruojant muitų ir socialinio draudimo mokesčius, taikomos tik šio
  
 [4
 dalies redakcija nuo 2003 m. liepos 1 d.:
-4.
-Administruojant muitų mokesčius, taikomos tik šio įstatymo normos,
-reglamentuojančios mokesčio mokėtojo turto arešto tvarką.]
+4. Administruojant
+muitų mokesčius, taikomos tik šio įstatymo normos, reglamentuojančios mokesčio
+mokėtojo turto arešto tvarką.]
  
 5. Šio
 straipsnio 1 dalies 18 punkte nurodyta valstybės rinkliava pagal šį įstatymą
 administruojama tik tiek, kiek tai nustatyta Lietuvos Respublikos rinkliavų
 įstatyme (valstybės rinkliavos rinkimo kontrolė, paimtos per mažos arba iš viso
 nepaimtos valstybės rinkliavos išieškojimas iš institucijos, dėl kurios kaltės
-buvo paimta per maža arba iš viso nepaimta valstybės rinkliava, prašymo dėl
-valstybės rinkliavos grąžinimo pateikimo terminas).
+buvo paimta per maža arba iš viso nepaimta valstybės rinkliava, prašymo dėl valstybės
+rinkliavos grąžinimo pateikimo terminas).
 6. Šio
-straipsnio 1 dalies 20 punkte nurodyti mokesčiai už pramoninės nuosavybės objektų
-registravimą pagal šį įstatymą administruojami tiek, kiek tai nustatyta
+straipsnio 1 dalies 20 punkte nurodyti mokesčiai už pramoninės nuosavybės
+objektų registravimą pagal šį įstatymą administruojami tiek, kiek tai nustatyta
 Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą
 įstatyme (mokesčių mokėjimo kontrolė, mokesčių grąžinimas, per mažai sumokėtų
 arba iš viso nesumokėtų mokesčių išieškojimas iš institucijos, dėl kurios
@@ -333,6 +339,9 @@ IX-897,
 Nr.
 IX-1009,
 2002-07-02, Žin., 2002, Nr. 73-3087 (2002-07-19)
+Nr.
+IX-1174,
+2002-11-05, Žin., 2002, Nr. 112-4978 (2002-11-22)
  
 5(1) straipsnis. Sutartys su strateginiais
 investuotojais
@@ -350,13 +359,13 @@ pridėtinės vertės mokestį ir akcizą), nustatyti tą dieną galiojusiuose
 atitinkamuose mokesčių įstatymuose, šiam ūkio subjektui nedidinami 10 metų nuo
 investicijų sutarties sudarymo dienos.
 2. Jeigu
-investicijų sutartyse, sudarytose iki šio įstatymo įsigaliojimo, numatytas tiesioginių
-mokesčių tarifų (Mokesčių administravimo įstatymo 5 straipsnio 1 dalyje
-išvardytų mokesčių, išskyrus pridėtinės vertės mokestį ir akcizą), nustatytų
-galiojusiuose atitinkamuose mokesčių įstatymuose tą dieną, kai investicija
-pasiekė 200 mln. litų, nedidinimo terminas, investicijų sutartį sudariusiam
-ūkio subjektui šių mokesčių tarifai nedidinami iki sutartyje numatyto
-nedidinimo termino.
+investicijų sutartyse, sudarytose iki šio įstatymo įsigaliojimo, numatytas
+tiesioginių mokesčių tarifų (Mokesčių administravimo įstatymo 5 straipsnio 1
+dalyje išvardytų mokesčių, išskyrus pridėtinės vertės mokestį ir akcizą),
+nustatytų galiojusiuose atitinkamuose mokesčių įstatymuose tą dieną, kai
+investicija pasiekė 200 mln. litų, nedidinimo terminas, investicijų sutartį
+sudariusiam ūkio subjektui šių mokesčių tarifai nedidinami iki sutartyje
+numatyto nedidinimo termino.
 Straipsnio pakeitimai:
 Nr. IX-481,
 2001-08-02, Žin., 2001, Nr. 71-2514 (2001-08-17), įsigalioja nuo 2001-09-01
@@ -989,7 +998,7 @@ elektroniniu būdu per 5 darbo dienas nuo sąskaitos atidarymo ar uždarymo
 dienos.
  
 [4
-dalies redakcija nuo 2003 m. sausio 1 d.:
+dalies redakcija nuo 2003 m. sausio 1d.:
 4. Komerciniai
 bankai ir užsienio banko filialai (skyriai) (toliau – komerciniai bankai)
 privalo pateikti centriniam mokesčio administratoriui informaciją apie Lietuvos
@@ -3305,6 +3314,14 @@ MOKESČIŲ
 ADMINISTRAVIMO ĮSTATYMO 26(1) STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
+ 
+39.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1174,
+2002-11-05, Žin., 2002, Nr. 112-4978 (2002-11-22)
+MOKESČIŲ
+ADMINISTRAVIMO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
  
 ***
