@@ -15,54 +15,55 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8E4050F57F92"
 
 Redagavo: Ramunė Lūžaitė (1997.07.17)
 
-Redagavo:
-Ramunė Lūžaitė (1998.11.16)
+Redagavo: Ramunė Lūžaitė (2000.02.23)
  
-Įstatymas
-paskelbtas: Žin., 1991, Nr. 29-787
  
-Neoficialus
-įstatymo tekstas
+Įstatymas paskelbtas: Žin., 1991, Nr.
+29-787
+ 
+Neoficialus įstatymo tekstas
  
 Pakeitimai:
  
 1.
-Lietuvos
-Respublikos Aukščiausioji Taryba-Atkūriamasis Seimas, Įstatymas      Nr.
-I-2119, 91.12.18, Žin., 1991, Nr. 36-986
+Lietuvos Respublikos Aukščiausioji
+Taryba-Atkuriamasis Seimas, Įstatymas      
+Nr. I-2119, 91.12.18, Žin., 1991, Nr.
+36-986
  
 2.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-I-196, priimtas 93.07.01, Žin., 1993, Nr. 28-638
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-196, priimtas 93.07.01, Žin.,
+1993, Nr. 28-638
  
 3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-399, 97.07.03, Žin., 1997,
+Nr.67-1675 (97.07.16)
+LIETUVOS RESPUBLIKOS ORDINŲ, MEDALIŲ IR
+KITŲ PASIŽYMĖJIMO ŽENKLŲ ĮSTATYMO 133 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+4.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-399, 97.07.03, Žin., 1997, Nr.67-1675 (97.07.16)
-LIETUVOS
-RESPUBLIKOS ORDINŲ, MEDALIŲ IR KITŲ PASIŽYMĖJIMO ŽENKLŲ ĮSTATYMO 133 STRAIPSNIO
-PAPILDYMO ĮSTATYMAS
+VIII-917, 98.11.05, Žin., 1998, Nr.99-2739 (98.11.13)
+LIETUVOS RESPUBLIKOS ORDINŲ, MEDALIŲ IR
+KITŲ PASIŽYMĖJIMO ŽENKLŲ ĮSTATYMO 91 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
-4.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. VIII-917,
-98.11.05, Žin., 1998, Nr.99-2739 (98.11.13)
-LIETUVOS
-RESPUBLIKOS ORDINŲ, MEDALIŲ IR KITŲ PASIŽYMĖJIMO ŽENKLŲ ĮSTATYMO 91 STRAIPSNIO
-PAPILDYMO ĮSTATYMAS
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1536,
+00.02.10, Žin., 2000, Nr.15-383 (00.02.23)
+LIETUVOS RESPUBLIKOS ORDINŲ, MEDALIŲ IR KITŲ PASIŽYMĖJIMO ŽENKLŲ ĮSTATYMO 95, 96 IR 97
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
- 
+*** Pabaiga ***
  
 LIETUVOS RESPUBLIKOS
-ORDINŲ, MEDALIŲ IR KITŲ PASIŽYMĖJIMO ŽENKLŲ
+ORDINŲ, MEDALIŲ
+IR KITŲ PASIŽYMĖJIMO ŽENKLŲ
 ĮSTATYMAS 
- 
  
      Lietuvos
 Respublikos Aukščiausioji Taryba, atkurdama visus Lietuvos valstybės
@@ -70,10 +71,10 @@ apdovanojimus, priima šį įstatymą, kuris yra Lietuvos valstybės ordinų, me
 ir kitų pasižymėjimo ženklų įstatymo, galiojusio Lietuvos Respublikoje nuo 1930
 metų rugsėjo 1 dienos, nauja redakcija.
  
-         
-I. Lietuvos valstybės ordinai, medaliai ir kiti pasižymėjimo 
-                  
-ženklai. Ordinų kavalieriai ir kancleris
+I. Lietuvos
+valstybės ordinai, medaliai ir kiti pasižymėjimo
+ženklai. Ordinų
+kavalieriai ir kancleris
  
      1
 straipsnis. Lietuvos valstybės ordinai, medaliai ir kiti pasižymėjimo ženklai
@@ -82,21 +83,21 @@ piliečiams skatinti atsidėjus dirbti Lietuvos valstybės ir visuomenės gerove
  
      2
 straipsnis. Lietuvos valstybės ordinai:
-     1)
-Vytauto Didžiojo ordinas,
-     2)
-Vyčio Kryžiaus ordinas,
+     1) Vytauto
+Didžiojo ordinas,
+     2) Vyčio
+Kryžiaus ordinas,
      3)
 Didžiojo Lietuvos Kunigaikščio Gedimino ordinas.
  
      3
 straipsnis.  Lietuvos  valstybės  medaliai  ir  kiti pasižymėjimo ženklai:
-     1)
-Vyčio Kryžius,
-     2)
-Vyčio Kryžiaus ordino vėliava,
-     3)
-Vytauto Didžiojo ordino medalis,
+     1) Vyčio
+Kryžius,
+     2) Vyčio
+Kryžiaus ordino vėliava,
+     3) Vytauto
+Didžiojo ordino medalis,
      4)
 Didžiojo Lietuvos Kunigaikščio Gedimino ordino medalis,
      5)
@@ -106,52 +107,50 @@ Lietuvos nepriklausomybės medalis,
      7)
 Žūvančiųjų gelbėjimo kryžius (buvęs Žūstančių gelbėjimo
      kryžius),
-     8)
-Šaulių žvaigždė,
-     9)
-Šaulių žvaigždės medalis.
-     10)
-Sausio 13-osios atminimo medalis.
+     8) Šaulių
+žvaigždė,
+     9) Šaulių
+žvaigždės medalis.
+     10) Sausio
+13-osios atminimo medalis.
      11)
 Dariaus ir Girėno medalis.
  
-Straipsnio
-pakeitimai:
-Nr.
-I-2119; 1991.12.18; Žin., 1991, Nr.36-986;
-Nr.
-I-196; 1993.07.01; Žin., 1993, Nr.28-638;
+Straipsnio pakeitimai:
+Nr. I-2119; 1991.12.18; Žin., 1991,
+Nr.36-986;
+Nr. I-196; 1993.07.01; Žin., 1993, Nr.28-638;
  
      4
 straipsnis. Ordinų, medalių ir kitų pasižymėjimo ženklų vyresniškumo eilė:
-     1)
-Vytauto Didžiojo ordinas su aukso grandine,
-     2)
-Vyčio Kryžiaus 1-ojo laipsnio ordinas,
-     3)
-Vytauto Didžiojo 1-ojo laipsnio ordinas,
-     4)
-Vyčio Kryžiaus 2-ojo laipsnio ordinas,
+     1) Vytauto
+Didžiojo ordinas su aukso grandine,
+     2) Vyčio
+Kryžiaus 1-ojo laipsnio ordinas,
+     3) Vytauto
+Didžiojo 1-ojo laipsnio ordinas,
+     4) Vyčio
+Kryžiaus 2-ojo laipsnio ordinas,
      5)
 Didžiojo Lietuvos Kunigaikščio Gedimino 1-ojo laipsnio ordinas,
-     6)
-Vytauto Didžiojo 2-ojo laipsnio ordinas,
-     7)
-Vyčio Kryžiaus 3-ojo laipsnio ordinas,
+     6) Vytauto
+Didžiojo 2-ojo laipsnio ordinas,
+     7) Vyčio
+Kryžiaus 3-ojo laipsnio ordinas,
      8)
 Didžiojo Lietuvos Kunigaikščio Gedimino 2-ojo laipsnio ordinas,
-     9)
-Vyčio Kryžiaus 4-ojo laipsnio ordinas,
+     9) Vyčio
+Kryžiaus 4-ojo laipsnio ordinas,
      10)
 Vytauto Didžiojo 3-ojo laipsnio ordinas,
-     11)
-Vyčio Kryžiaus 5-ojo laipsnio ordinas,
-     12)
-Vyčio Kryžius 1-ojo laipsnio,
-     13)
-Vyčio Kryžius 2-ojo laipsnio,
-     14)
-Vyčio Kryžius 3-ojo laipsnio,
+     11) Vyčio
+Kryžiaus 5-ojo laipsnio ordinas,
+     12) Vyčio
+Kryžius 1-ojo laipsnio,
+     13) Vyčio
+Kryžius 2-ojo laipsnio,
+     14) Vyčio
+Kryžius 3-ojo laipsnio,
      15)
 Didžiojo Lietuvos Kunigaikščio Gedimino 3-ojo laipsnio ordinas,
      16)
@@ -170,8 +169,8 @@ Vytauto Didžiojo ordino 1-ojo laipsnio medalis,
 Didžiojo Lietuvos Kunigaikščio Gedimino ordino 1-ojo laipsnio medalis,
      23)
 Lietuvos kariuomenės kūrėjų savanorių medalis,
-     24)
-Šaulių žvaigždė,
+     24) Šaulių
+žvaigždė,
      25)
 Lietuvos nepriklausomybės medalis,
      26)
@@ -182,19 +181,18 @@ Didžiojo Lietuvos Kunigaikščio Gedimino ordino 2-ojo laipsnio medalis,
 Vytauto Didžiojo ordino 3-ojo laipsnio medalis,
      29)
 Didžiojo Lietuvos Kunigaikščio Gedimino ordino 3-ojo laipsnio medalis,
-     30)
-Šaulių žvaigždės medalis.
-     31)
-Sausio 13-osios atminimo medalis.
+     30) Šaulių
+žvaigždės medalis.
+     31) Sausio
+13-osios atminimo medalis.
      32)
 Dariaus ir Girėno medalis.
  
-Straipsnio
-pakeitimai:
-Nr.
-I-2119; 1991.12.18; Žin., 1991, Nr.36-986
-Nr.
-I-196; 1993.07.01; Žin., 1993, Nr.28-638
+Straipsnio pakeitimai:
+Nr. I-2119; 1991.12.18; Žin., 1991,
+Nr.36-986
+Nr. I-196; 1993.07.01; Žin., 1993,
+Nr.28-638
  
      5 
 straipsnis.  Esant  reikalui,  Lietuvos  Respublikos Aukščiausiosios Tarybos 
@@ -218,31 +216,29 @@ straipsnis. Lietuvos valstybės ordinų, medalių ir kitų pasižymėjimo ženkl
 vyriausiasis tvarkytojas  yra  Lietuvos Respublikos ordinų  kancleris. Juo yra
 Respublikos Prezidento kanceliarijos vadovas.
  
-Straipsnio
-pakeitimai:
-Nr.
-I-196; 1993.07.01; Žin., 1993, Nr.28-638
+Straipsnio pakeitimai:
+Nr. I-196; 1993.07.01; Žin., 1993,
+Nr.28-638
  
      9
 straipsnis. Ordinų kancleris visus darbus, susijusius su ordinų, medalių ir
-kitų pasižymėjimo ženklų reikalais, atlieka per Lietuvos Respublikos Aukščiausiosios
-Tarybos aparatą. Vieną aparato tarnautoją ordinų kancleris skiria ordinų
-reikalų vedėju.
+kitų pasižymėjimo ženklų reikalais, atlieka per Lietuvos Respublikos
+Aukščiausiosios Tarybos aparatą. Vieną aparato tarnautoją ordinų kancleris
+skiria ordinų reikalų vedėju.
  
      10
 straipsnis. Ordinų kancleris pats arba per ordinų reikalų vedėją, jeigu
-atskiruose ordinų, medalių arba kitų pasižymėjimo ženklų statutuose kitaip nenustatyta,
-atlieka šiuos darbus:
+atskiruose ordinų, medalių arba kitų pasižymėjimo ženklų statutuose kitaip
+nenustatyta, atlieka šiuos darbus:
      1)
 tikrina, ar pristatymai apdovanoti atitinka įstatymo reikalavimus;
-     2)
-šaukia  ordinų tarybas  ir siūlo  joms apsvarstyti pristatymus bei kitus
-klausimus;
-     3)
-tvarko apdovanotųjų sąrašus ir apdovanojimo bylas;
-     4)
-laiko  tarybų protokolus  ir  Lietuvos  Respublikos Aukščiausiosios Tarybos
-Prezidiumo apdovanojimų aktus;
+     2) šaukia 
+ordinų tarybas  ir siūlo  joms apsvarstyti pristatymus bei kitus klausimus;
+     3) tvarko
+apdovanotųjų sąrašus ir apdovanojimo bylas;
+     4) laiko 
+tarybų protokolus  ir  Lietuvos  Respublikos Aukščiausiosios Tarybos Prezidiumo
+apdovanojimų aktus;
      5)
 išduoda  apdovanotiesiems  diplomus  ir  liudijimus, išsiuntinėja garbės
 ženklus;
@@ -258,22 +254,21 @@ tvarkos.
      Ordinų
 kancleris turi savo antspaudą.
  
-        
-II. Ordinų, medalių ir kitų pasižymėjimo ženklų tarybos
+II. Ordinų,
+medalių ir kitų pasižymėjimo ženklų tarybos
  
      11
 straipsnis. Yra Vytauto Didžiojo ordino, Vyčio Kryžiaus ordino, Didžiojo
 Lietuvos Kunigaikščio Gedimino ordino ir Šaulių žvaigždės tarybos.
-     Taip
-pat yra Lietuvos kariuomenės kūrėjų savanorių, Sausio 13-osios atminimo,
-Dariaus ir Girėno medalių ir Žūvančiųjų gelbėjimo kryžiaus komisijos.
+     Taip pat
+yra Lietuvos kariuomenės kūrėjų savanorių, Sausio 13-osios atminimo, Dariaus ir
+Girėno medalių ir Žūvančiųjų gelbėjimo kryžiaus komisijos.
  
-Straipsnio
-pakeitimai: 
-Nr.
-I-2119; 1991.12.18; Žin., 1991, Nr.36-986 
-Nr.
-I-196; 1993.07.01; Žin., 1993, Nr.28-638;
+Straipsnio pakeitimai: 
+Nr. I-2119; 1991.12.18; Žin., 1991,
+Nr.36-986 
+Nr. I-196; 1993.07.01; Žin., 1993,
+Nr.28-638;
  
      12
 straipsnis. Tarybos reiškia savo nuomonę dėl pristatytų apdovanoti asmenų, taip
@@ -311,10 +306,10 @@ piliečiai tarybų nariais būti negali.
 straipsnis.  Tarybų sudėtį,  sudarymo būdą  ir  jų skirtingumus nustato ordinų,
 medalių ir kitų pasižymėjimo ženklų statutai.
  
-             
-III. Apdovanojimo ordinais, medaliais ir kitais
-                 
-pasižymėjimo ženklais bei jų atėmimo tvarka
+III.
+Apdovanojimo ordinais, medaliais ir kitais
+pasižymėjimo
+ženklais bei jų atėmimo tvarka
  
      20
 straipsnis. Lietuvos valstybės ordinais, medaliais ir kitais pasižymėjimo
@@ -323,18 +318,18 @@ Apdovanoti medaliais arba kitais pasižymėjimo ženklais atskiruose statutuose
 nustatyta tvarka gali būti pavesta ir kitiems valstybės organams bei
 pareigūnams.
  
-     21
-straipsnis.  Teisę pristatyti  Lietuvos  Respublikos piliečius apdovanoti
-ordinais, medaliais ir kitais pasižymėjimo ženklais turi:  Lietuvos Respublikos
-Aukščiausiosios Tarybos Pirmininkas,  Lietuvos  Respublikos  Ministras 
-Pirmininkas, Vyriausybės nariai,  valstybės kontrolierius, jei atskiruose
-ordinų, medalių  ir  kitų  pasižymėjimo  ženklų  statutuose nenustatyta kitaip.
+     21 straipsnis.  Teisę
+pristatyti  Lietuvos  Respublikos piliečius apdovanoti ordinais, medaliais ir
+kitais pasižymėjimo ženklais turi:  Lietuvos Respublikos Aukščiausiosios
+Tarybos Pirmininkas,  Lietuvos  Respublikos  Ministras  Pirmininkas,
+Vyriausybės nariai,  valstybės kontrolierius, jei atskiruose ordinų, medalių 
+ir  kitų  pasižymėjimo  ženklų  statutuose nenustatyta kitaip.
      Užsienio
 valstybių piliečius apdovanoti ordinais, medaliais ir kitais pasižymėjimo
 ženklais pristato Lietuvos Respublikos užsienio reikalų ministras.
-     Asmenų
-be pilietybės pristatymo apdovanoti tvarką nustato atskirų ordinų, medalių ir
-kitų pasižymėjimo ženklų statutai.
+     Asmenų be
+pilietybės pristatymo apdovanoti tvarką nustato atskirų ordinų, medalių ir kitų
+pasižymėjimo ženklų statutai.
  
      22
 straipsnis. Numatomų apdovanoti asmenų pristatymai ordinų kancleriui
@@ -344,8 +339,8 @@ turimus garbės ženklus ir nurodymu, kuriuo garbės ženklu apdovanoti jis
 pristatomas.
  
      23
-straipsnis. Pristatymai apdovanoti ordinais arba kitais pasižymėjimo ženklais 
-svarstomi atitinkamoje  taryboje arba komisijoje.
+straipsnis. Pristatymai apdovanoti ordinais arba kitais pasižymėjimo ženklais  svarstomi
+atitinkamoje  taryboje arba komisijoje.
      Kai
 kuriais atvejais Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas gali
 apdovanoti ir tarybai nesvarsčius.
@@ -379,12 +374,10 @@ taisyklės  netaikomos apdovanojimams Vyčio Kryžiaus ordinu, Vyčio Kryžiumi
 Žūvančiųjų gelbėjimo kryžiumi, Sausio 13- osios atminimo medaliu bei Dariaus ir
 Girėno medaliu.
  
-Straipsnio
-pakeitimai:
-Nr.
-I-2119; 1991.12.18; Žin., 1991, Nr.36-986
-Nr.
-I-196; 1993.07.01; Žin., 1993, Nr.28-638
+Straipsnio pakeitimai:
+Nr. I-2119; 1991.12.18; Žin., 1991, Nr.36-986
+Nr. I-196; 1993.07.01; Žin., 1993,
+Nr.28-638
  
      27
 straipsnis.  Apdovanotieji gauna  garbės ženklus ir apdovanojimo dokumentus.
@@ -392,9 +385,9 @@ Apdovanojimo dokumentai yra šie:
      1)
 Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko pasirašytas ordino
 diplomas;
-     2)
-ordinų  kanclerio  pasirašytas  medalio  arba  kito pasižymėjimo ženklo
-liudijimas, jeigu statutuose nenustatyta kitaip.
+     2) ordinų 
+kanclerio  pasirašytas  medalio  arba  kito pasižymėjimo ženklo liudijimas,
+jeigu statutuose nenustatyta kitaip.
      Ant 
 ordino  diplomo  dedamas  Lietuvos  Respublikos Aukščiausiosios Tarybos
 antspaudas.
@@ -405,14 +398,14 @@ antspaudas,  jeigu  atskiruose  statutuose nenustatyta kitaip.
      28
 straipsnis. Garbės ženklai ir apdovanojimo dokumentai apdovanotiesiems
 įteikiami iškilmingai, dalyvaujant valdžios ar visuomenės atstovams.
+ 
      29
 straipsnis. Jeigu apdovanotas ordinu, medaliu arba kitu pasižymėjimo ženklu 
 asmuo miršta negavęs garbės ženklo ir apdovanojimo dokumentų, ženklas ir
 apdovanojimo dokumentai gali būti įteikti artimiausiems giminėms.
  
-     30
-straipsnis. Pametus ar dingus apdovanojimo dokumentams, gali būti išduoti jų
-dublikatai.
+     30 straipsnis.
+Pametus ar dingus apdovanojimo dokumentams, gali būti išduoti jų dublikatai.
  
      31
 straipsnis. Apdovanotųjų pavardės skelbiamos "Lietuvos Respublikos
@@ -423,8 +416,8 @@ straipsnis. Jeigu ordinų kavalierius arba medaliais ir kitais pasižymėjimo 
 ženklais  apdovanotus  asmenis  teismas nubaudžia bausme, susijusia su
 pasižymėjimo ženklų netekimu, jie nustoja ir pirmenybių, kurias teikia ordinai,
 medaliai arba kiti pasižymėjimo ženklai, ir išbraukiami iš apdovanotųjų sąrašo.
-     Apie
-šiuos asmenis teismas praneša ordinų kancleriui.
+     Apie šiuos
+asmenis teismas praneša ordinų kancleriui.
  
      33
 straipsnis. Jeigu Vytauto Didžiojo ir Didžiojo Lietuvos Kunigaikščio Gedimino
@@ -439,21 +432,21 @@ straipsnis. Asmenys išbraukti iš ordino kavalierių arba medaliais ir kitais
 pasižymėjimo ženklais apdovanotųjų sąrašo, apdovanojimo dokumentus ir gautus
 garbės ženklus turi grąžinti ordinų kancleriui.
  
-                 
-IV. Ordinų, medalių ir kitų pasižymėjimo
-                          
-ženklų nešiojimo tvarka
+IV. Ordinų,
+medalių ir kitų pasižymėjimo
+ženklų nešiojimo
+tvarka
  
      35
-straipsnis.  Lietuvos  ordinai,  medaliai  ir  kiti pasižymėjimo ženklai
+straipsnis.  Lietuvos  ordinai,  medaliai  ir  kiti pasižymėjimo ženklai
 nešiojami laikantis jų vyresniškumo tvarkos, nustatytos šio įstatymo 4
 straipsnyje.
  
      36
 straipsnis. Vietoj ordinų, medalių ir kitų pasižymėjimo ženklų galima  nešioti
 vieną iš šių apdovanojimų simbolių: juostelę, miniatiūrą, rozetę.
-     Vienu
-metu galima nešioti vienos rūšies simbolius.
+     Vienu metu
+galima nešioti vienos rūšies simbolius.
      Juosteles,
 rozetes ir miniatiūras galima nešioti kiekvieno turimo aukščiausio laipsnio
 ordino arba kito garbės ženklo po vieną.
@@ -465,8 +458,8 @@ pasižymėjimo ženklo kaspino. Jos yra 32 mm ilgio ir 10 mm pločio.
 laipsniai juostelėse žymimi taip:
      1)
 Vytauto  Didžiojo ir Didžiojo Lietuvos Kunigaikščio Gedimino ordinų:
-     5-ojo
-laipsnio - vien kaspinėliu,
+     5-ojo laipsnio
+- vien kaspinėliu,
      4-ojo
 laipsnio - kaspinėliu su rozetėle iš ordino kaspino,
      3-ojo
@@ -478,8 +471,8 @@ ir sidabrinio galionėlio,
      1-ojo
 laipsnio - kaspinėliu su rozetėle iš ordino kaspino, uždėta ant auksinio
 galionėlio;
-     2)
-Vyčio Kryžiaus ordino:
+     2) Vyčio
+Kryžiaus ordino:
      5-ojo
 laipsnio - viena metaline ąžuolo šakele,
      4-ojo
@@ -495,8 +488,8 @@ laipsnio - viena metaline ąžuolo šakele, uždėta ant auksinio galionėlio.
 Didžiojo, Didžiojo Lietuvos Kunigaikščio Gedimino ordinų medalių ir Vyčio
 Kryžiaus laipsniai juostelėse pažymimi viena metaline medalio arba kryžiaus
 spalvos žvaigždute.
-     Rozetės
-daromos iš atitinkamo ordino, medalio arba kito pasižymėjimo ženklo kaspino.
+     Rozetės daromos iš atitinkamo
+ordino, medalio arba kito pasižymėjimo ženklo kaspino.
      Ordinų
 rozetėse laipsniai žymimi taip:
      1)
@@ -511,8 +504,8 @@ laipsnio - 8 mm skersmens rozete ant sidabrinio galionėlio,
 laipsnio - 8 mm skersmens rozete ant pusiau sidabrinio ir auksinio galionėlio,
      1-ojo
 laipsnio  - 8 mm skersmens rozete ant auksinio galionėlio;
-     2)
-Vyčio Kryžiaus ordino:
+     2) Vyčio
+Kryžiaus ordino:
      5-ojo
 laipsnio - 22 mm skersmens rozete su viena metaline ąžuolo šakele,
      4-ojo
@@ -524,9 +517,8 @@ laipsnio - 22 mm skersmens rozete su Vyčio Kryžiumi ant pusiau sidabrinio ir
 auksinio galionėlio,
      1-ojo
 laipsnio - 22 mm skersmens rozete su Vyčio Kryžiumi ant auksinio galionėlio.
-     Medalio
-arba kito pasižymėjimo ženklo rozetė yra maža kokardėlė; joje laipsniai
-nežymimi.
+     Medalio arba
+kito pasižymėjimo ženklo rozetė yra maža kokardėlė; joje laipsniai nežymimi.
      Miniatiūros
 - tokie pat, tik maži garbės ženklai.
  
@@ -541,25 +533,24 @@ Prezidiumas.
 medalių  ir kitų  pasižymėjimo ženklų  nešioti neleidžiama:
      1)
 įstatymo  nustatyta tvarka, nors ir trumpam laikui suvaržius asmens laisvę;
-     2)
-kai  apdovanojimo garbingumas  ir orumas gali būti pažeminti.
+     2) kai 
+apdovanojimo garbingumas  ir orumas gali būti pažeminti.
  
-           
-V. Užsienio valstybių ordinų, medalių ir kitų
-                    
-garbės ženklų nešiojimo tvarka
+V. Užsienio
+valstybių ordinų, medalių ir kitų
+garbės ženklų
+nešiojimo tvarka
  
      39
 straipsnis. Užsienio valstybių ordinai, medaliai ir kiti garbės ženklai  ar jų 
 simboliai nešiojami žemiau Lietuvos Respublikos ordinų, medalių ir kitų
 pasižymėjimo ženklų arba jų simbolių.
      Užsienio
-valstybių apdovanojimų nešiojimo tvarką nustato Lietuvos Respublikos
-Aukščiausiosios Tarybos Prezidiumas, jeigu Lietuvos Respublikos įstatymuose
-nenumatyta kitaip.
+valstybių apdovanojimų nešiojimo tvarką nustato Lietuvos Respublikos Aukščiausiosios
+Tarybos Prezidiumas, jeigu Lietuvos Respublikos įstatymuose nenumatyta kitaip.
  
-                
-VI. Apdovanotųjų teisės ir pirmenybės
+VI. Apdovanotųjų
+teisės ir pirmenybės
  
      40
 straipsnis. Kiekvienas apdovanojimas ordinu, medaliu arba kitu pasižymėjimo
@@ -570,15 +561,15 @@ valstybės tarnyboje.
 straipsnis. Ordinų kavalieriai turi teisę naudoti ordino ženklus savo
 asmeniniuose antspauduose, vizitinėse kortelėse ir privačiuose blankuose.
  
-     42
-straipsnis. Apdovanotųjų teises ir pirmenybes nustato šis ir kiti Lietuvos
-Respublikos įstatyminiai aktai.
+     42 straipsnis. Apdovanotųjų
+teises ir pirmenybes nustato šis ir kiti Lietuvos Respublikos įstatyminiai
+aktai.
  
-       
-ORDINŲ, MEDALIŲ IR KITŲ PASIŽYMĖJIMO ŽENKLŲ STATUTAI
+ORDINŲ, MEDALIŲ
+IR KITŲ PASIŽYMĖJIMO ŽENKLŲ STATUTAI
  
-     
-          VII. Vytauto Didžiojo ordino statutas
+VII. Vytauto
+Didžiojo ordino statutas
  
      43
 straipsnis. Vytauto Didžiojo ordinas skiriamas Lietuvos ir užsienio  valstybių
@@ -590,18 +581,18 @@ straipsnis. Vytauto Didžiojo ordinas yra su grandine ir be grandinės. Ordinas
 be grandinės yra penkių laipsnių.
      Vytauto
 Didžiojo ordino garbės ženklai:
-     ordinas
-su grandine    1) auksinė grandinė, padaryta iš besikeičiančių didesnių
-grandžių, papuoštų Vyčio Kryžiaus motyvu, ir mažesnių grandžių, vaizduojančių
-stilizuotą raidę V; abu grandinės galus  jungia centrinė  grandis, kurios forma
-ir ornamentai paimti  iš Vytauto Didžiojo anspaudo; ant šitos grandinės
-kabinamas 1-ojo laipsnio ordino ženklas;
-     2)
-auksinė devynių kampų su kristaliniais spinduliais 85 mm skersmens žvaigždė; 
-žvaigždės viduryje  apskritame raudonai emaliuotame dugne - sumažintas Vytauto
-Didžiojo ordino ženklas;
-     3)
-1-ojo laipsnio ordino kaspinas;
+     ordinas su
+grandine    1) auksinė grandinė, padaryta iš besikeičiančių didesnių grandžių,
+papuoštų Vyčio Kryžiaus motyvu, ir mažesnių grandžių, vaizduojančių stilizuotą
+raidę V; abu grandinės galus  jungia centrinė  grandis, kurios forma ir
+ornamentai paimti  iš Vytauto Didžiojo antspaudo; ant šitos grandinės kabinamas
+1-ojo laipsnio ordino ženklas;
+     2) auksinė
+devynių kampų su kristaliniais spinduliais 85 mm skersmens žvaigždė;  žvaigždės
+viduryje  apskritame raudonai emaliuotame dugne - sumažintas Vytauto Didžiojo
+ordino ženklas;
+     3) 1-ojo
+laipsnio ordino kaspinas;
      1-ojo
 laipsnio ordinas  1) baltas emaliuotas auksiniais krašteliais 50 mm didumo
 kryžius. Priešakinėje kryžiaus pusėje, jo viduryje - skydo pavidalo ornamentas
@@ -618,9 +609,8 @@ kraštuose;
 dugnu viduryje;
      2-ojo
 laipsnio ordinas   1) toks pat, kaip ir 1-ojo laipsnio ordino, kryžius;
-     2)
-tokia pat, kaip ir 1-ojo laipsnio ordino, žvaigždė, tik su juodu dugnu
-viduryje;
+     2) tokia
+pat, kaip ir 1-ojo laipsnio ordino, žvaigždė, tik su juodu dugnu viduryje;
      3-ojo
 laipsnio ordinas - toks pat, kaip ir 1-ojo laipsnio ordino, kryžius;
      4-ojo
@@ -656,8 +646,8 @@ trijų narių.
 straipsnis. Apdovanotieji Vytauto Didžiojo ordinu įrašomi į garbės knygą,
 laikomą Lietuvos Respublikos Aukščiausiojoje Taryboje.
  
-             
-VIII. Vytauto Didžiojo ordino medalio statutas
+VIII. Vytauto
+Didžiojo ordino medalio statutas
  
      49
 straipsnis. Vytauto Didžiojo ordino medalis steigiamas didžiai nusipelniusiems
@@ -683,9 +673,8 @@ metaliniai medalio spalvos kardai.
 straipsnis. Vytauto Didžiojo ordino medaliu gali būti apdovanojami ir užsienio
 valstybių piliečiai.
  
-     52
-straipsnis. Vytauto Didžiojo ordino medaliu apdovanojama šito ordino šventės
-dieną.
+     52 straipsnis.
+Vytauto Didžiojo ordino medaliu apdovanojama šito ordino šventės dieną.
      Užsienio
 valstybių piliečiai, o ypatingais atvejais ir Lietuvos Respublikos piliečiai,
 gali būti apdovanojami ir kitu laiku.
@@ -725,8 +714,8 @@ pridedami palaipsniui, pradedant 3-uoju laipsniu.
 straipsnis. Netekti Vytauto Didžiojo ordino medalio galima tik teismo
 sprendimu.
      
-                   
-IX. Vyčio Kryžiaus ordino statutas
+IX. Vyčio
+Kryžiaus ordino statutas
  
      57
 straipsnis. Vyčio Kryžiaus ordinu apdovanojami asmenys, pasižymėję didvyrišku 
@@ -749,19 +738,18 @@ ir žemutinio skersinių po 4 mm. Taigi skydo ilgis nuo apačios ligi viršūnė
 sudėti aukso spalvos kardai rankenomis žemyn. Kitoje kryžiaus pusėje įrašas
 "Už narsumą" ir Vyčio Kryžiaus ordino įsteigimo metai
 "1919";
-     2)
-ordino  kaspinas skaisčiai  raudonas, su keturiomis juodomis vertikaliomis
-juostelėmis;
-     3)
-sidabrinė, devynių kampų žvaigždė. Trys jos kampai kristaliniai ir ir šeši
-lygių spindulių. Žvaigždės skersmuo - 85 mm. Žvaigždės viduryje - 25 mm ilgio
-ir 15 mm pločio Vyčio Kryžiaus ordinas;
+     2) ordino 
+kaspinas skaisčiai  raudonas, su keturiomis juodomis vertikaliomis juostelėmis;
+     3) sidabrinė,
+devynių kampų žvaigždė. Trys jos kampai kristaliniai ir šeši lygių spindulių.
+Žvaigždės skersmuo - 85 mm. Žvaigždės viduryje - 25 mm ilgio ir 15 mm pločio
+Vyčio Kryžiaus ordinas;
      2-ojo
 laipsnio ordinas -
-     1)
-toks pat, kaip ir 1-ojo laipsnio ordino, kryžius;
-     2)
-tokia pat, kaip ir 1-ojo laipsnio ordino, žvaigždė;
+     1) toks
+pat, kaip ir 1-ojo laipsnio ordino, kryžius;
+     2) tokia
+pat, kaip ir 1-ojo laipsnio ordino, žvaigždė;
      3-ojo
 laipsnio ordinas  toks pat, kaip ir 1-ojo laipsnio ordino, kryžius;
      4-ojo
@@ -790,7 +778,6 @@ atliekantys krašto apsaugos tarnybą,
      savanoriai,
      kiti
 Lietuvos Respublikos piliečiai.
- 
      Išimtiniais
 atvejais  Vyčio Kryžiaus  ordinu gali būti apdovanojami ir ne Lietuvos
 Respublikos piliečiai.
@@ -799,36 +786,35 @@ Kryžiaus ordinu apdovanojami ir didvyriškai žuvusieji.
  
      62
 straipsnis. Vyčio Kryžiaus ordinu apdovanojama:
-     1)
-už  itin reikšmingus žygdarbius, atliktus kovinėmis aplinkybėmis;
-     2)
-už sumanų vadovavimą krašto apsaugos dalinių kovinėms operacijoms;
-     3)
-už drąsą ir dvasios tvirtybę ginant krašto teritoriją, saugant valstybės
-sienas;
-     4) 
-už  ištvermę  bei  pasišventimą  saugant  svarbius valstybinius, ūkio ir kitus
+     1) už 
+itin reikšmingus žygdarbius, atliktus kovinėmis aplinkybėmis;
+     2) už
+sumanų vadovavimą krašto apsaugos dalinių kovinėms operacijoms;
+     3) už
+drąsą ir dvasios tvirtybę ginant krašto teritoriją, saugant valstybės sienas;
+     4)  už 
+ištvermę  bei  pasišventimą  saugant  svarbius valstybinius, ūkio ir kitus
 civilinius objektus;
-     5)
-už narsumą likviduojant ekologinių katastrofų, stichinių nelaimių, avarijų
+     5) už
+narsumą likviduojant ekologinių katastrofų, stichinių nelaimių, avarijų
 padarinius ir pasižymėjimą kitomis ypatingomis aplinkybėmis, kai gresia aiškus
 pavojus gyvybei;
-     6)
-už ypatingą narsumą ir ištvermę užtikrinant viešąją tvarką, visuomenės rimtį
-bei saugumą saugant piliečių teises ir laisves;
-     7)
-už  pasiaukojimą, kai  pagal  Lietuvos  Respublikos aukščiausiųjų valstybinių
+     6) už
+ypatingą narsumą ir ištvermę užtikrinant viešąją tvarką, visuomenės rimtį bei
+saugumą saugant piliečių teises ir laisves;
+     7) už 
+pasiaukojimą, kai  pagal  Lietuvos  Respublikos aukščiausiųjų valstybinių
 valdžios ir valdymo organų atskirus nutarimus atliekama valstybinė užduotis
 sunkiomis aplinkybėmis bei esant dideliam pavojui;
-     8)
-už  didvyrišką narsumą  ir pasiaukojimą užtikrinant valstybės saugumą, vykdant
+     8) už 
+didvyrišką narsumą  ir pasiaukojimą užtikrinant valstybės saugumą, vykdant
 specialias užduotis;
-     9)
-už įžymius mokslo darbus krašto apsaugai;
-     10)
-už  įžymų krašto apsaugos organizavimo, aprūpinimo projektą;
-     11)
-už kitokius itin reikšmingus asmeninius nuopelnus ginant Lietuvos laisvę ir
+     9) už
+įžymius mokslo darbus krašto apsaugai;
+     10) už 
+įžymų krašto apsaugos organizavimo, aprūpinimo projektą;
+     11) už
+kitokius itin reikšmingus asmeninius nuopelnus ginant Lietuvos laisvę ir
 nepriklausomybę.
  
      63
@@ -849,13 +835,12 @@ atvejais galima apdovanoti iš karto bet kurio laipsnio Vyčio Kryžiaus ordinu.
      65
 straipsnis. Netekti Vyčio Kryžiaus ordino galima tik Lietuvos Respublikos
 Aukščiausiosios Tarybos Prezidiumo sprendimu šiais atvejais:
-     1)
-kai apdovanotasis nuteistas už sunkų nusikaltimą - teismo teikimu įstatymų
-numatyta tvarka;
-     2)
-kai asmuo padarė nusižengimą, kuris žemina jį kaip apdovanotąjį, - Krašto
-apsaugos departamento, Vidaus reikalų ministerijos, Generalinės prokuratūros
-teikimu.
+     1) kai
+apdovanotasis nuteistas už sunkų nusikaltimą - teismo teikimu įstatymų numatyta
+tvarka;
+     2) kai
+asmuo padarė nusižengimą, kuris žemina jį kaip apdovanotąjį, - Krašto apsaugos
+departamento, Vidaus reikalų ministerijos, Generalinės prokuratūros teikimu.
  
      66
 straipsnis. Vyčio Kryžiaus ordino tarybą sudaro 12 narių, kurie iš savo narių
@@ -866,15 +851,14 @@ Aukščiausiosios Tarybos Pirmininkas.
      Ordino
 tarybos posėdžio kvorumą sudaro ne mažiau kaip 7 nariai. 
  
-                      
-X. Vyčio Kryžiaus statutas 
+X. Vyčio
+Kryžiaus statutas
  
-     
-67 straipsnis. Vyčio Kryžiumi apdovanojami Krašto apsaugos departamento, 
-Vidaus  reikalų  ministerijos,  Generalinės prokuratūros  pareigūnai  ir 
-tarnautojai  pagerbiant  jų pasižymėjimus tarnyboje, saugant Lietuvos
-Respublikos laisvę ir nepriklausomybę.   68 straipsnis. Vyčio Kryžius yra trijų
-laipsnių:
+      67
+straipsnis. Vyčio Kryžiumi apdovanojami Krašto apsaugos departamento,  Vidaus 
+reikalų  ministerijos,  Generalinės prokuratūros  pareigūnai  ir  tarnautojai 
+pagerbiant  jų pasižymėjimus tarnyboje, saugant Lietuvos Respublikos laisvę ir
+nepriklausomybę.   68 straipsnis. Vyčio Kryžius yra trijų laipsnių:
      1-ojo
 laipsnio - auksinis Vyčio Kryžius su kardais ir Vyčiu raudoname skyde. Kryžius
 - tokio pat didumo, kaip 5-ojo laipsnio Vyčio Kryžiaus ordino;
@@ -884,9 +868,9 @@ laipsnio - baltas sidabrinis kryžius, tokio pat pavidalo ir didumo, kaip ir
      3-ojo
 laipsnio - tamsus žalvarinis kryžius,  tokio pat pavidalo ir didumo, kaip ir
 pirmojo laipsnio Vyčio Kryžius.
-     Visų
-trijų laipsnių Vyčio Kryžiaus kitoje pusėje yra įrašas "Už narsumą"
-ir Vyčio Kryžiaus įsteigimo metai "1919".
+     Visų trijų
+laipsnių Vyčio Kryžiaus kitoje pusėje yra įrašas "Už narsumą" ir
+Vyčio Kryžiaus įsteigimo metai "1919".
      Vyčio
 Kryžius nešiojamas ant Vyčio Kryžiaus ordino kaspino.
  
@@ -897,13 +881,13 @@ neturėdamas žemesnio.
      70
 straipsnis. Netekti Vyčio Kryžiaus galima tik teismo sprendimu.
  
-               
-XI. Vyčio Kryžiaus ordino vėliavos statutas
+XI. Vyčio
+Kryžiaus ordino vėliavos statutas
  
-     71
-straipsnis. Vyčio Kryžiaus ordino vėliava gali būti apdovanojami krašto
-apsaugos daliniai ir miestai, gyvenvietės bei kaimai, pasižymėję didvyrišku
-narsumu ir ištverme ginant Lietuvos Respublikos laisvę ir nepriklausomybę.
+     71 straipsnis.
+Vyčio Kryžiaus ordino vėliava gali būti apdovanojami krašto apsaugos daliniai
+ir miestai, gyvenvietės bei kaimai, pasižymėję didvyrišku narsumu ir ištverme
+ginant Lietuvos Respublikos laisvę ir nepriklausomybę.
  
      72
 straipsnis. Krašto apsaugos daliniams teikiamoji Vyčio Kryžiaus ordino vėliava
@@ -938,10 +922,9 @@ pusėje - baltas Vytis raudoname dugne, o kitoje - geltoname dugne išsiūtas
 didelis Vyčio Kryžiaus ordino ženklas ir apdovanojamojo miesto, gyvenvietės
 arba kaimo vardas. Prie vėliavos pritaisytas dvilinkas platus Vyčio Kryžiaus
 ordino kaspinas.  Prie kaspino  galo  prisegtos  sidabrinės oksiduotos
-lentelės, kuriose įrašyti miesto, gyvenvietės arba kaimo gyventojų
-pasižymėjimai. Ant vėliavos koto žiedo įrašytas apdovanojimas šita vėliava ir
-apdovanojimo data. Vėliavos koto viršūnėje - Vyčio Kryžiaus ordino garbės
-ženklas.
+lentelės, kuriose įrašyti miesto, gyvenvietės arba kaimo gyventojų pasižymėjimai.
+Ant vėliavos koto žiedo įrašytas apdovanojimas šita vėliava ir apdovanojimo
+data. Vėliavos koto viršūnėje - Vyčio Kryžiaus ordino garbės ženklas.
  
      76
 straipsnis. Miestų ir gyvenviečių vėliavos laikomos savivaldybių tarybose, o
@@ -950,8 +933,8 @@ kaimų vėliavos - apylinkių savivaldybių tarybose.
      77
 straipsnis. Miestams, gyvenvietėms ir kaimams įteiktos Vyčio Kryžiaus ordino
 vėliavos gali būti viešai iškeliamos arba nešamos:
-     1)
-švenčių ir atmintinomis dienomis;
+     1) švenčių
+ir atmintinomis dienomis;
      2)
 oficialių vietos švenčių dienomis;
      3)
@@ -965,16 +948,16 @@ Aukščiausiosios Tarybos Prezidiumas.
 straipsnis. Vyčio Kryžiaus ordino vėliava gali būti atimta Lietuvos Respublikos
 Aukščiausiosios Tarybos Prezidiumo aktu.
  
-       
-XII. Didžiojo Lietuvos Kunigaikščio Gedimino ordino statutas
+XII. Didžiojo
+Lietuvos Kunigaikščio Gedimino ordino statutas
  
      80
-straipsnis.  Didžiojo Lietuvos Kunigaikščio Gedimino ordinu apdovanojami
-nusipelnę Lietuvai asmenys, pasižymėję uoliu ir sąžiningu  darbu valstybinėje
-tarnyboje ar visuomeninėje veikloje.
+straipsnis.  Didžiojo Lietuvos Kunigaikščio Gedimino ordinu apdovanojami nusipelnę
+Lietuvai asmenys, pasižymėję uoliu ir sąžiningu  darbu valstybinėje tarnyboje
+ar visuomeninėje veikloje.
      Didžiojo
-Lietuvos Kunigaikščio Gedimino ordinu gali būti apdovanojami ir užsienio valstybių
-piliečiai.
+Lietuvos Kunigaikščio Gedimino ordinu gali būti apdovanojami ir užsienio
+valstybių piliečiai.
  
      81
 straipsnis.  Didžiojo Lietuvos Kunigaikščio Gedimino ordinas yra penkių
@@ -998,12 +981,12 @@ juostelėmis;
      3)
 sidabrinė gaubta devynių kampų žvaigždė, kurios viduryje - ordino ženklas, tik
 jo skersmuo per vidurį - 28 mm. Žvaigždės skersmuo - 85 mm;
-     2-ojo
-laipsnio ordinas -
-     1)
-toks pat, kaip 1-ojo laipsnio ordino, kryžius;
-     2)
-tokia pat, kaip 1-ojo laipsnio ordino, žvaigždė;
+     2-ojo laipsnio
+ordinas -
+     1) toks
+pat, kaip 1-ojo laipsnio ordino, kryžius;
+     2) tokia
+pat, kaip 1-ojo laipsnio ordino, žvaigždė;
      3-ojo
 laipsnio ordinas - toks pat, kaip 1-ojo laipsnio ordino, kryžius;
      4-ojo
@@ -1018,25 +1001,24 @@ straipsnis.  Didžiojo Lietuvos Kunigaikščio Gedimino ordino šventė - Vasar
 16-oji - Lietuvos valstybės atkūrimo diena.
  
      83
-straipsnis.  Didžiojo Lietuvos Kunigaikščio Gedimino ordinu apdovanojama šito ordino
-šventės dieną.
+straipsnis.  Didžiojo Lietuvos Kunigaikščio Gedimino ordinu apdovanojama šito
+ordino šventės dieną.
      Užsienio
 valstybių piliečiai, o ypatingais atvejais ir Lietuvos Respublikos piliečiai,
 gali būti apdovanojami ir kitu laiku.
  
      84
 straipsnis.  Didžiojo Lietuvos Kunigaikščio Gedimino ordino tarybą  sudaro
-pirmininkas  ir 5  nariai,  Lietuvos Respublikos Aukščiausiosios Tarybos
-Pirmininko skiriami trejiems metams iš  Didžiojo Lietuvos  Kunigaikščio
-Gedimino  ordino kavalierių. Taryba iš narių išsirenka pirmininko pavaduotoją
-ir sekretorių.
+pirmininkas  ir 5  nariai,  Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko
+skiriami trejiems metams iš  Didžiojo Lietuvos  Kunigaikščio Gedimino  ordino
+kavalierių. Taryba iš narių išsirenka pirmininko pavaduotoją ir sekretorių.
      Tarybos
 kvorumą sudaro pirmininkas arba jo pavaduotojas ir ne mažiau kaip trys nariai.
  
-    
-        XIII. Didžiojo Lietuvos Kunigaikščio Gedimino
-                         
-ordino medalio statutas
+XIII. Didžiojo
+Lietuvos Kunigaikščio Gedimino
+ordino medalio
+statutas
  
      85
 straipsnis.  Didžiojo Lietuvos Kunigaikščio Gedimino ordino medalis  skiriamas
@@ -1079,9 +1061,9 @@ sąžiningai yra ištarnavę ne mažiau kaip 15 metų;
      3)
 apdovanoti 3-ojo laipsnio medaliu gali būti pristatyti asmenys, kurie uoliai ir
 sąžiningai yra ištarnavę ne mažiau kaip 5 metus.
-     Pristatant
-apdovanoti netarnaujančius asmenis ir užsienio valstybių piliečius, žiūrima jų
-nuopelnų svarbumo ir visuomeninės padėties.
+     Pristatant apdovanoti
+netarnaujančius asmenis ir užsienio valstybių piliečius, žiūrima jų nuopelnų
+svarbumo ir visuomeninės padėties.
      Išimtiniuose
 atsitikimuose pasižymėję tarnautojai gali būti apdovanoti Didžiojo  Lietuvos
 Kunigaikščio  Gedimino  ordino medaliu, nežiūrint jų ištarnauto laiko.
@@ -1089,8 +1071,8 @@ Kunigaikščio  Gedimino  ordino medaliu, nežiūrint jų ištarnauto laiko.
      90
 straipsnis. Netekti medalio galima tik teismo sprendimu.
  
-        
-XIV. Lietuvos kariuomenės kūrėjų savanorių medalio statutas
+XIV. Lietuvos
+kariuomenės kūrėjų savanorių medalio statutas
  
      91
 straipsnis. Lietuvos kariuomenės kūrėjų savanorių medaliu apdovanojami
@@ -1100,18 +1082,17 @@ metų kovo 11 dienos kuriant ir stiprinant Lietuvos Respublikos krašto apsaugą
 nuopelnus 1918-1920 metais kuriant Lietuvos kariuomenę apdovanojama laikantis
 1930 metų Lietuvos valstybės ordinų, medalių ir kitų pasižymėjimo ženklų
 įstatymo reikalavimų.
-Lietuvos kariuomenės kūrėjų savanorių medaliu
-taip pat apdovanojami ginkluoto pasipriešinimo 1940-1990 metų okupacijoms
-dalyviai, įstatymo nustatyta tvarka pripažinti kariais savanoriais, ir tie,
-kuriems ginkluoto pasipriešinimo (rezistencijos) struktūrų vadovybės buvo
-suteikusios pasižymėjimo ženklus, taip pat asmenys, pasižymėję organizuojant
-ginkluoto pasipriešinimo (rezistencijos) karių savanorių padalinius ir jiems
-vadovavę.
+Lietuvos
+kariuomenės kūrėjų savanorių medaliu taip pat apdovanojami ginkluoto
+pasipriešinimo 1940-1990 metų okupacijoms dalyviai, įstatymo nustatyta tvarka
+pripažinti kariais savanoriais, ir tie, kuriems ginkluoto pasipriešinimo
+(rezistencijos) struktūrų vadovybės buvo suteikusios pasižymėjimo ženklus, taip
+pat asmenys, pasižymėję organizuojant ginkluoto pasipriešinimo (rezistencijos)
+karių savanorių padalinius ir jiems vadovavę.
  
-Straipsnio
-pakeitimai:
-Nr. VIII-917,
-98.11.05, Žin., 1998, Nr.99-2739 (98.11.13)
+Straipsnio pakeitimai:
+Nr.
+VIII-917, 98.11.05, Žin., 1998, Nr.99-2739 (98.11.13)
  
      92
 straipsnis. Lietuvos kariuomenės kūrėjų savanorių medalis žalvarinis,
@@ -1139,37 +1120,60 @@ nutarimus priima balsų dauguma. Balsams pasidalijus po lygiai, lemia pirmininko
 balsas.
      Komisija
 nutarimus protokoluoja. Protokolų įrašai pateikiami ordinų kancleriui.
+ 
      94
 straipsnis. Netekti Lietuvos kariuomenės kūrėjų savanorio medalio galima tik
 teismo sprendimu.
  
-         
-XV. Lietuvos nepriklausomybės medalio statutas
+XV. Lietuvos
+nepriklausomybės medalio statutas
  
-     95 
-straipsnis.  Lietuvos  nepriklausomybės  medaliu apdovanojami asmenys už
-nuopelnus kuriant ir atstatant Lietuvos nepriklausomybę, Nepriklausomybės
-jubiliejaus proga.
+95 straipsnis. Lietuvos nepriklausomybės medalis yra
+Lietuvos nepriklausomybės medalio, kuriuo buvo apdovanojami asmenys už
+nuopelnus atkuriant ir įtvirtinant Lietuvos nepriklausomybę 1918-1928 metais,
+istorinis analogas.
+Lietuvos
+nepriklausomybės medaliu apdovanojami asmenys už nuopelnus atkuriant ir
+įtvirtinant Lietuvos nepriklausomą valstybę 1990-2000 metais Lietuvos
+nepriklausomybės atkūrimo dienos proga.
+Lietuvos
+nepriklausomybės medaliu apdovanojami Lietuvos Respublikos piliečiai, užsienio
+valstybių piliečiai, taip pat asmenys be pilietybės.
  
-     96
-straipsnis. Lietuvos nepriklausomybės medalis žalvarinis. Priešakinėje medalio
-pusėje yra laisvės statula, kitoje - įrašas "Per amžius budėję - laisvę
-laimėjom per aukas ir pasišventimą. 1918-1928".
-     Medalio
-kaspinas  aukso  spalvos,  su  dviem  juodomis juostelėmis kraštuose.
+Straipsnio pakeitimai:
+Nr. VIII-1536,
+00.02.10, Žin., 2000, Nr.15-383 (00.02.23)
  
-     97
-straipsnis.  Apdovanojimo  Lietuvos  nepriklausomybės medaliu tvarką nustato
-atskiras įstatymas.
-     Lietuvos
-nepriklausomybės medaliu gali būti apdovanojami ir užsienio valstybių
-piliečiai.
-     98
-straipsnis. Netekti Lietuvos nepriklausomybės medalio galima tik teismo
-sprendimu.
+96 straipsnis. Lietuvos nepriklausomybės medalis
+žalvarinis. Priešakinėje medalio pusėje yra laisvės statula, kitoje - įrašas
+„Per amžius budėję – laisvę laimėjom per aukas ir pasišventimą. 1990-2000“.
+Medalio kaspinas
+yra aukso spalvos, su dviem juodomis juostelėmis kraštuose.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-1536,
+00.02.10, Žin., 2000, Nr.15-383 (00.02.23)
+ 
+97 straipsnis. Lietuvos nepriklausomybės medaliu
+apdovanojama šio medalio komisijos teikimu. Komisiją sudaro ordinų kancleris,
+krašto apsaugos ministras, kultūros ministras ir dar 2 nariai, kuriuos paskiria
+ordinų kancleris.
+Komisijos posėdį
+kviečia ordinų kancleris. 
+Komisijos
+nutarimai priimami Komisijos narių balsų dauguma. Komisija savo nutarimus įrašo
+į posėdžio protokolą.
+ 
+Straipsnio
+pakeitimai:    
+Nr. VIII-1536,
+00.02.10, Žin., 2000, Nr.15-383 (00.02.23)
+ 
+98 straipsnis.
+Netekti Lietuvos nepriklausomybės medalio galima tik teismo sprendimu.
      
-           
-    XVI. Žūvančiųjų gelbėjimo kryžiaus statutas
+XVI. Žūvančiųjų
+gelbėjimo kryžiaus statutas
  
      99
 straipsnis. Žūvančiųjų gelbėjimo kryžiumi apdovanojami asmenys, kurie,
@@ -1182,7 +1186,6 @@ kraštais. Priešakinėje pusėje, kryžiaus viduryje -  karvelis neša laurų 
 apatinėje kryžiaus skersmens dalyje - auksinėmis raidėmis pagalbos šūkis
 "SOS". Kitoje kryžiaus pusėje - Vyčio  ženklas, o aplinkui įrašas
 "Žūvančiųjų gelbėtojui".
- 
      Kryžiaus
 kaspinas raudonas muarinis, su dviem plačiomis ir dviem siauromis baltomis
 juostelėmis kraštuose.
@@ -1192,8 +1195,8 @@ straipsnis. Žūvančiųjų gelbėjimo kryžiumi apdovanojami Lietuvos ir užsie
 valstybių piliečiai, taip pat asmenys be pilietybės už žmonių gelbėjimą
 Lietuvos Respublikos teritorijoje, taip pat už Lietuvos Respublikos piliečių
 gelbėjimą užsienyje.
-     Asmenis
-be pilietybės apdovanoti pristato vidaus reikalų ministras.
+     Asmenis be
+pilietybės apdovanoti pristato vidaus reikalų ministras.
  
      102
 straipsnis. Žūvančiųjų gelbėjimo kryžiumi gali būti apdovanotas tas pats asmuo
@@ -1216,8 +1219,8 @@ iš narių išsirenka posėdžio pirmininką.
      104
 straipsnis. Netekti Žūvančiųjų gelbėjimo kryžiaus galima tik teismo sprendimu.
  
-                    
-XVII. Šaulių žvaigždės statutas
+XVII. Šaulių
+žvaigždės statutas
  
      105
 straipsnis. Šaulių žvaigždė yra garbės ženklas pagerbti šauliams ir kitiems
@@ -1226,11 +1229,11 @@ asmenims, padariusiems Šaulių sąjungai arba Lietuvai naudingų darbų.
      106
 straipsnis. Šaulių žvaigždę sudaro trys trikampiai, sujungti valstybiniu 
 Vyčiu, apsuptu  spinduliais su šaulių emblema. Kryžmai sudėti šautuvas ir
-senovės lietuvių trimitas. Kitoje žvaigždės pusėje įrašas "Už
-nuopelnus", Šaulių sąjungos inicialai bei Šaulių sąjungos ir Šaulių
-žvaigždės įsteigimo metai "1919-1930".
-     Žvaigždė
-- balto metalo. Trikampių viršus žaliai emaliuotas. Vytis sidabrinis 
+senovės lietuvių trimitas. Kitoje žvaigždės pusėje įrašas "Už nuopelnus",
+Šaulių sąjungos inicialai bei Šaulių sąjungos ir Šaulių žvaigždės įsteigimo
+metai "1919-1930".
+     Žvaigždė -
+balto metalo. Trikampių viršus žaliai emaliuotas. Vytis sidabrinis 
 apskritame,  raudonai  emaliuotame  dugne. Viršutinio trikampio vidury - šaulių
 skydas. Trikampio spindulių ir dugno apskritimo kraštai ornamentuoti. Žvaigždės
 skersmuo - 44 mm. Kaspinas žalias, su baltomis juostelėmis kraštuose ir raudona
@@ -1242,8 +1245,8 @@ straipsnis. Šaulių žvaigžde apdovanojami:
 šauliai,  kurie, eidami atsakingas Šaulių sąjungoje pareigas, pasižymėjo 
 organizaciniais darbais  arba,  būdami paprastais  šauliais,  pasižymėjo 
 sąžiningumu,  uolumu  ir ištvermingumu;
-     2)
-Šaulių sąjungai arba Lietuvai nusipelnę asmenys.
+     2) Šaulių
+sąjungai arba Lietuvai nusipelnę asmenys.
  
      108
 straipsnis. Šaulių žvaigžde gali būti apdovanojami ir užsienio valstybių
@@ -1291,21 +1294,24 @@ dėvėdami uniformą, tiek civilinius rūbus.
      114
 straipsnis. Šaulių žvaigždė gali būti atimta teismo sprendimu arba  Šaulių
 žvaigždės  tarybai pasiūlius, Krašto apsaugos departamento generalinio
-direktoriaus įsakymu už su šaulio garbe nesuderinamus nusižengimus.    115
-straipsnis. Apdovanoti Šaulių žvaigžde šauliai per šaulių paradus, šventes ir
-kitus viešus  pasirodymus pagerbiami  specialiu ceremonialu, nustatytu Šaulių
-sąjungos centro vadovybės ir patvirtintu Krašto apsaugos departamento 
-generalinio direktoriaus.  
-     116
-straipsnis. Šaulių žvaigždės garbės ženklų atsarga laikoma Šaulių sąjungos
-štabe. Šitie ženklai gaminami už Šaulių sąjungos lėšas.
+direktoriaus įsakymu už su šaulio garbe nesuderinamus nusižengimus.    
+ 
+115 straipsnis.
+Apdovanoti Šaulių žvaigžde šauliai per šaulių paradus, šventes ir kitus viešus 
+pasirodymus pagerbiami  specialiu ceremonialu, nustatytu Šaulių sąjungos centro
+vadovybės ir patvirtintu Krašto apsaugos departamento  generalinio
+direktoriaus.  
+ 
+116 straipsnis.
+Šaulių žvaigždės garbės ženklų atsarga laikoma Šaulių sąjungos štabe. Šitie
+ženklai gaminami už Šaulių sąjungos lėšas.
  
      117
 straipsnis. Šaulių žvaigždės apdovanojimo reikalus ir apdovanotųjų sąrašus
 tvarko Šaulių sąjungos štabas.
  
-            
-    XVIII. Šaulių žvaigždės medalio statutas
+XVIII. Šaulių
+žvaigždės medalio statutas
  
      118
 straipsnis. Šaulių žvaigždės medalis yra garbės ženklas pagerbti
@@ -1338,8 +1344,8 @@ generalinis direktorius. Jis išduoda ir apdovanojimo liudijimą.
 straipsnis. Šaulių žvaigždės medaliu apdovanojama ir apdovanojimo reikalai
 tvarkomi vadovaujantis šio įstatymo 110-117 straipsniais.
  
-          
- XIX. Sausio 13-osios atminimo medalio statutas
+XIX. Sausio
+13-osios atminimo medalio statutas
      
      123
 straipsnis. Sausio 13-osios atminimo medalis įsteigtas 1991 metų sausio 13
@@ -1350,8 +1356,8 @@ m. sausio-rugsėjo mėnesiais.
      124 
 straipsnis.  Sausio  13-osios  atminimo  medaliu apdovanojami Lietuvos ir kitų
 valstybių piliečiai, taip pat asmenys be pilietybės.
-     Asmenis
-be pilietybės apdovanoti pristato vidaus reikalų ministras.
+     Asmenis be
+pilietybės apdovanoti pristato vidaus reikalų ministras.
  
      125
 straipsnis.  Sausio 13-osios  atminimo medalis yra bronzinis, sidabruotas,
@@ -1362,8 +1368,8 @@ reljefinis sužeistojo karžygio, besiremiančio į angelą, atvaizdas; karžygi
 dešinėje rankoje - skydas su Gediminaičių stulpais. Viršuje įrašas "Sausio
 13", o apačioje skaičiai "1991".
      Kitos
-medalio pusės krašte yra tokia pat, kaip ir priekinėje pusėje, briauna; per
-centrą - horeljefinis žodis "Lietuva", ant kurio  mažesnėmis raidėmis
+medalio pusės krašte yra tokia pat, kaip ir priekinėje pusėje, briauna; per centrą
+- horeljefinis žodis "Lietuva", ant kurio  mažesnėmis raidėmis
 reljefinis įrašas "buvom, esam ir būsim". Medalio viršuje -
 reljefinis Vytis, apačioje - ąžuolo šaka.
      Medalio
@@ -1384,13 +1390,13 @@ iš narių išsirenka posėdžio pirmininką.
 straipsnis. Netekti Sausio 13-osios atminimo medalio galima tik teismo
 sprendimu.
  
-               
- XX. Dariaus ir Girėno medalio statutas
+XX. Dariaus ir
+Girėno medalio statutas
  
      128
-straipsnis. Dariaus ir Girėno medalis įsteigtas Stepono Dariaus ir Stasio Girėno
-1933 metais atliktam skrydžiui per Atlantą  įamžinti  ir  skiriamas  pagerbti 
-asmenims,  ypač nusipelniusiems Lietuvos aviacijai.
+straipsnis. Dariaus ir Girėno medalis įsteigtas Stepono Dariaus ir Stasio
+Girėno 1933 metais atliktam skrydžiui per Atlantą  įamžinti  ir  skiriamas 
+pagerbti  asmenims,  ypač nusipelniusiems Lietuvos aviacijai.
  
      129
 straipsnis. Dariaus ir Girėno medaliu apdovanojami Lietuvos Respublikos ir kitų
@@ -1417,50 +1423,45 @@ posėdį kviečia ordinų kancleris.
      Komisija
 nutarimus priima balsų dauguma. Balsams pasidalijus po lygiai, lemia komisijos
 pirmininko balsas.
- 
      Komisija
 savo  nutarimus įrašo  į posėdžio  protokolą. Protokolo išrašai  pateikiami
 ordinų kavalieriams ir ordinų kancleriui.
  
      132
 straipsnis. Netekti Dariaus ir Girėno medalio galima tik teismo sprendimu.
-           
-
-                          
-BAIGIAMIEJI NUOSTATAI
+            
+BAIGIAMIEJI
+NUOSTATAI
      
-     133
+            133
 straipsnis. Asmenys, apdovanoti Vyčio Kryžiaus ordinu pagal 1991 m. sauso 15 d.
 Lietuvos Respublikos Vyčio Kryžiaus ordino atkūrimo įstatymą, taip pat asmenys,
-apdovanoti Lietuvos Respublikos ordinais, medaliais ir kitais pasižymėjimo
-ženklais iki šio  įstatymo naujos  redakcijos priėmimo,  prilyginami
-apdovanotiesiems pagal šį įstatymą.
-Ginkluoto pasipriešinimo (rezistencijos)
-dalyvių - karių savanorių ir neginkluoto pasipriešinimo (rezistencijos) dalyvių
-- laisvės kovų dalyvių apdovanojimai prilyginami valstybiniams apdovanojimams
-pagal Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių
-teisinio statuso pripažinimo ir karių savanorių karinių laipsnių bei
-apdovanojimų prilyginimo įstatymą. Asmenims, apdovanotiems visų rūšių ir
-laipsnių Laisvės Kovos Kryžiais, Laisvės Kovos Kryžiaus medaliais bei Laisvės
-Kovos Karžygio garbės vardu, yra suteikiamas atitinkamo laipsnio Vyčio Kryžiaus
-ordinas. Apdovanojimo suteikimo faktą patvirtina Lietuvos gyventojų genocido ir
-rezistencijos tyrimo centras.
+apdovanoti Lietuvos Respublikos ordinais, medaliais ir kitais pasižymėjimo ženklais
+iki šio  įstatymo naujos  redakcijos priėmimo,  prilyginami apdovanotiesiems
+pagal šį įstatymą.
+Ginkluoto
+pasipriešinimo (rezistencijos) dalyvių - karių savanorių ir neginkluoto
+pasipriešinimo (rezistencijos) dalyvių - laisvės kovų dalyvių apdovanojimai
+prilyginami valstybiniams apdovanojimams pagal Lietuvos Respublikos
+pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso pripažinimo
+ir karių savanorių karinių laipsnių bei apdovanojimų prilyginimo įstatymą.
+Asmenims, apdovanotiems visų rūšių ir laipsnių Laisvės Kovos Kryžiais, Laisvės
+Kovos Kryžiaus medaliais bei Laisvės Kovos Karžygio garbės vardu, yra
+suteikiamas atitinkamo laipsnio Vyčio Kryžiaus ordinas. Apdovanojimo suteikimo
+faktą patvirtina Lietuvos gyventojų genocido ir rezistencijos tyrimo centras.
  
-Straipsnio
-pakeitimai:
-Nr.
-VIII-399, 97.07.03, Žin., 1997, Nr.67-1675 (97.07.16)
- 
+Straipsnio pakeitimai:
+Nr. VIII-399, 97.07.03, Žin., 1997,
+Nr.67-1675 (97.07.16)
  
      134
 straipsnis. Šis įstatymas įsigalioja nuo jo priėmimo dienos. 
  
  
-LIETUVOS
-RESPUBLIKOS
-AUKŠČIAUSIOSIOS
-TARYBOS PIRMININKAS                 VYTAUTAS LANDSBERGIS
+LIETUVOS RESPUBLIKOS
+AUKŠČIAUSIOSIOS TARYBOS
+PIRMININKAS                 VYTAUTAS LANDSBERGIS
  
-Vilnius,
-1991 m. rugsėjo 12 d.  Nr.I-1799
+Vilnius, 1991 m. rugsėjo 12 d. 
+Nr.I-1799
 
