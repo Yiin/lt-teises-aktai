@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.22F9E22CD358"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 1993-11-19 iki 1997-07-10
+Suvestinė redakcija nuo 1997-07-11 iki 1997-07-22
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 107-0; Žin. 1990, Nr.31-747, i. k. 090XX01ISTA000I-676
  
@@ -49,10 +49,11 @@ BENDROJI DALIS
 
 
 
-2. Bendrijoje turi būti ne mažiau kaip 2 ir ne daugiau kaip 20 narių. Bendrijos nariu negali būti valstybinės valdžios ir valdymo organai, valstybinės ir valstybinės akcinės įmonės, išskyrus tuos atvejus, kai jos yra konsorciumų, steigiamų kaip tikrosios ūkinės bendrijos, nariai. 
+2. Bendrijoje turi būti ne mažiau kaip 2 ir ne daugiau kaip 20 narių. Bendrijos nariu negali būti valstybės valdžios, valdymo ir valstybės kontrolės institucijos, teismai. Tikruoju ūkinės bendrijos nariu negali būti valstybės ir savivaldybės įmonės.
 Straipsnio dalies pakeitimai:
 Nr. I-233, 1993-07-15, Žin., 1993, Nr. 32-731 (1993-07-28), i. k. 0931010ISTA000I-233
 Nr. I-249, 1993-09-21, Žin., 1993, Nr. 49-964 (1993-09-29), i. k. 0931010ISTA000I-249
+Nr. VIII-339, 1997-06-26, Žin., 1997, Nr. 66-1608 (1997-07-11), i. k. 0971010ISTAVIII-339
  
 
 
@@ -817,3 +818,8 @@ Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
 Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-339, 1997-06-26, Žin., 1997, Nr. 66-1608 (1997-07-11), i. k. 0971010ISTAVIII-339
+Lietuvos Respublikos ūkinių bendrijų įstatymo 2 straipsnio pakeitimo įstatymas
