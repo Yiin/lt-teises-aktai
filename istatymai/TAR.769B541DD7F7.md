@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-Suvestinė redakcija nuo 2003-04-01 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2005-12-19
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
  
@@ -396,7 +396,10 @@ PARAMA ŪKININKUI
 
 
 
-4. Ūkininkas ir jo partneriai, nurodyti Ūkininkų ūkių registre, valstybiniu socialiniu draudimu draudžiami laisvai, o sveikatos draudimu – privalomai.
+4. Ūkininkas ir jo partneriai, nurodyti Ūkininkų ūkių registre, valstybiniu socialiniu draudimu draudžiasi savanoriškai, o sveikatos draudimu – privalomai.
+Straipsnio dalies pakeitimai:
+Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
+ 
 
 
 
@@ -426,3 +429,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1250, 2002-12-10, Žin., 2002, Nr. 123-5537 (2002-12-24), i. k. 1021010ISTA0IX-1250
 Lietuvos Respublikos ūkininko ūkio įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
+Lietuvos Respublikos garantinio fondo įstatymo, Įmonių bankroto įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo, Žemės ūkio bendrovių įstatymo, Ūkininko ūkio įstatymo pakeitimo įstatymas
