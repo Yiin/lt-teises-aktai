@@ -13,13 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9BC8AEE9D9F8"
 
 # Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 
 
 
 Redagavo:
-Ramunė Lūžaitė (1997.04.09)
+Ramunė Lūžaitė (1997.07.17)
+ 
+Įstatymas
+paskelbtas: Žin., 1995, Nr.3-37
  
 Neoficialus
 įstatymo tekstas
@@ -35,6 +38,15 @@ LIETUVOS
 RESPUBLIKOS NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 4 IR 5 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-401,
+97.07.03, Žin., 1997, Nr.67-1676 (97.07.16)
+LIETUVOS RESPUBLIKOS
+NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 4 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -44,7 +56,7 @@ NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS
  
 1994 m. gruodžio 22 d. Nr.I-733
 Vilnius 
-(Žin., 1995, Nr.3-37)
+ 
  
 I skyrius
 BENDROSIOS NUOSTATOS 
@@ -169,11 +181,12 @@ ir savivaldybių kultūros vertybių apsaugos valdymo institucijų ir kultūros
 vertybių apsaugos biudžetinių įstaigų vadovai, pavaduotojai ar jų įgalioti
 asmenys turi teisę dalyvauti ir pasisakyti Valstybinės paminklosaugos komisijos
 posėdžiuose.
-     Valstybinei
-paminklosaugos komisijai vadovauja pirmininkas, kurį šios komisijos ir Lietuvos
-Respublikos Seimo Švietimo, mokslo ir kultūros komiteto teikimu skiria ir
-keičia Seimo Pirmininkas. Komisijos pirmininkas skiriamas dvejiems metams iš
-komisijos narių.
+    
+Valstybinei paminklosaugos komisijai vadovauja pirmininkas, kurį šios komisijos
+ir Lietuvos Respublikos Seimo Švietimo, mokslo ir kultūros komiteto teikimu
+skiria ir keičia Seimo Pirmininkas. Komisijos pirmininkas skiriamas dvejiems
+metams iš komisijos narių. Pareiginį atlyginimą Komisijos pirmininkui nustato
+Lietuvos Respublikos Vyriausybė.
      Valstybinė
 paminklosaugos komisija turi sekretoriatą ir kontrolės tarnybą. Sekretoriato ir
 kontrolės tarnybos veikla organizuojama pagal  nuostatus, kuriuos tvirtina
@@ -236,6 +249,9 @@ Straipsnio
 pakeitimai:
 Nr.
 VIII-168, 97.03.27, Žin., 1997, Nr.30-713 (97.04.09)
+Nr. VIII-401,
+97.07.03, Žin., 1997, Nr.67-1676 (97.07.16)
+ 
  
      5
 straipsnis. Kultūros vertybių apsaugos valstybinis valdymas
@@ -274,8 +290,7 @@ kitų  valstybės  valdymo  institucijų  ir savivaldybių  priimami  akta
 kurie  gali  turėti  įtakos nekilnojamųjų kultūros vertybių ir jų teritorijų
 saugojimui, taip pat teritorinio planavimo dokumentai turi būti suderinti su
 Kultūros vertybių apsaugos departamentu. Nesuderinti aktai ir dokumentai yra
-negaliojantys nekilnojamųjų kultūros vertybių, jų teritorijų bei apsaugos zonų
-atžvilgiu.
+negaliojantys nekilnojamųjų kultūros vertybių, jų teritorijų bei apsaugos zonų atžvilgiu.
      Kultūros
 vertybių apsaugos departamento reikalavimai dėl konkrečių nekilnojamųjų
 kultūros vertybių apsaugos, pagrįsti šio įstatymo nuostatomis,  yra privalomi 
@@ -377,9 +392,9 @@ kultūros vertybes;
 apžiūrėti, fiksuoti ir tirti nekilnojamąsias kultūros vertybes ir objektus,
 kurie gali būti nekilnojamosiomis kultūros vertybėmis;
      6)
-susipažinti  su juridinių ir fizinių asmenų turima inventorizacijos,
-ikonografijos ir kitokiais dokumentais apie nekilnojamąsias kultūros vertybes
-ir objektus, kurie gali būti nekilnojamosiomis kultūros vertybėmis;
+susipažinti  su juridinių ir fizinių asmenų turima inventorizacijos, ikonografijos
+ir kitokiais dokumentais apie nekilnojamąsias kultūros vertybes ir objektus,
+kurie gali būti nekilnojamosiomis kultūros vertybėmis;
      7)
 pareikalauti, kad būtų pašalinti šio įstatymo pažeidimai;
      8)
@@ -613,7 +628,7 @@ reikalavimų.
 straipsnis. Nekilnojamųjų kultūros vertybių ženklinimas
  
      Nekilnojamosios
-kultūros  vertybės bei  jų  teritorijos ženklinamos Kultūros vertybių apsaugos
+kultūros  vertybės bei  jų  teritorijos ženklinamos Kultūros vertybių apsaugos
 departamento nustatyta tvarka.
  
      17
@@ -699,8 +714,8 @@ nenustatomos.
  
      20
 straipsnis. Nekilnojamųjų kultūros vertybių saugojimo priemonės
-                   
-teritorinio planavimo dokumentuose
+              
+     teritorinio planavimo dokumentuose
  
      Rengiamuose
 Lietuvos Respublikos, jos regionų ar vietovių teritorinio  planavimo 
@@ -820,8 +835,8 @@ tyrimus, rastų vertybių tyrimo ir perkėlimo į valstybines saugyklas darbus.
  
      26
 straipsnis. Žemėje, vandenyje, pastatuose ir kitur rastų objektų,
-  
-                 turinčių nekilnojamųjų kultūros vertybių požymių, 
+                   
+turinčių nekilnojamųjų kultūros vertybių požymių, 
                    
 apsauga
  
@@ -859,8 +874,8 @@ vykdymo išlaidų dalis.
      Iš
 savivaldybių biudžeto finansuojama:
      1)
-savivaldybėms priklausančių kultūros vertybių apsaugos, priešavariniai,
-remonto, tyrimo, konservavimo, restauravimo ir kiti darbai;
+savivaldybėms priklausančių kultūros vertybių apsaugos, priešavariniai, remonto,
+tyrimo, konservavimo, restauravimo ir kiti darbai;
      2)
 ūkiškai nenaudojamų, kultūros paminklais nepaskelbtų nekilnojamųjų kultūros 
 vertybių priežiūros,  priešavariniai, remonto, tyrimo, konservavimo,
@@ -880,8 +895,8 @@ kultūros  vertybių  savininkams  taikomos įstatymų nustatytos mokesčių
 lengvatos.
      Lėšos, 
 gaunamos  už  nekilnojamųjų  kultūros  vertybių naudojimą, ir baudos už šių
-vertybių žalojimą nustatyta tvarka įskaitomos į kultūros vertybių apsaugos sąskaitas
-ir naudojamos šioms vertybėms remontuoti, konservuoti ir restauruoti.
+vertybių žalojimą nustatyta tvarka įskaitomos į kultūros vertybių apsaugos
+sąskaitas ir naudojamos šioms vertybėms remontuoti, konservuoti ir restauruoti.
  
      29
 straipsnis. Sandoriai dėl nekilnojamųjų kultūros vertybių
@@ -925,8 +940,8 @@ BAIGIAMOSIOS NUOSTATOS
  
      32
 straipsnis. Atsakomybė už nekilnojamųjų kultūros vertybių apsaugos
-                   
-įstatymų pažeidimus
+                
+   įstatymų pažeidimus
  
      Asmenims,
 pažeidusiems  nekilnojamųjų kultūros  vertybių apsaugos įstatymus,  taikoma
@@ -953,8 +968,8 @@ vertybių saugojimo darbams finansuoti.
  
      34
 straipsnis. Priverstinai valstybės išperkamos nekilnojamosios
-                   
-kultūros vertybės
+        
+           kultūros vertybės
  
      Jeigu
 nekilnojamųjų kultūros vertybių savininkai nesilaiko šių vertybių apsaugos
@@ -973,7 +988,8 @@ sprendimas
  
      Ginčai
 dėl nekilnojamųjų kultūros vertybių apsaugos tarp Kultūros vertybių apsaugos
-departamento ir šių vertybių savininkų ar valdytojų sprendžiami teismine tvarka.
+departamento ir šių vertybių savininkų ar valdytojų sprendžiami teismine
+tvarka.
  
      36
 straipsnis. Tarptautinės sutartys ir susitarimai
