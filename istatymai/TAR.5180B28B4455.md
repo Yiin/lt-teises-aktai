@@ -128,10 +128,14 @@ RESPUBLIKOS
 PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS
  
  
-Lietuvos Respublikos
-1995 m. vasario 15 d.
-įstatymo Nr.I-794
-1 priedėlis
+                                                                                                            Lietuvos
+Respublikos
+                                                                                                            1995
+m. vasario 15 d.
+                                                                                                            įstatymo
+Nr.I-794
+                                                                                                            1
+priedėlis
  
  
 Veiklos sričių, kuriose gali būti specialios
@@ -386,8 +390,8 @@ Gydymas gyvulių, sergančių ypač pavojingomis ligomis
 853000
 Socialinės paslaugos
  
-Kanalizacija ir atliekų pašalinimas, sanitarinis apdorojimas
-ir kitos paslaugos
+Kanalizacija ir atliekų pašalinimas, sanitarinis
+apdorojimas ir kitos paslaugos
 900001
 Šiukšlių ir gamybos atliekų surinkimas ir transportavimas
 900002
@@ -432,20 +436,24 @@ Nr. I-1091,
 95.11.09, Žin., 1995, Nr.94-2088 (95.11.17)
  
  
-Lietuvos Respublikos
-1995 m. vasario 15 d.
-įstatymo Nr.I-794
-2 priedėlis
  
-Valstybinių įmonių, kurios iki 2000 metų
-turi būti specialios paskirties bendrovės,
+                                                                                                Lietuvos
+Respublikos
+                                                                                                            1995
+m. vasario 15 d.
+                                                                                                            įstatymo
+Nr.I-794
+                                                                                                            2
+priedėlis
+ 
+Valstybinių įmonių, 
+kurios iki 2000 metų turi būti specialios paskirties
+bendrovės,
 s ą r a š a s
 _______________________________________________________________________________
 Įmonės
-kodas                                       Pavadinimas
+kodas                                                   Pavadinimas
 _______________________________________________________________________________
-1005384          
-Valstybinė įmonė "Lietuvos geležinkeliai"
 2005728          
 Valstybinė įmonė "Vilniaus degtinė"
 3208278          
@@ -541,6 +549,9 @@ Nr. I-1537,
 96.09.24, Žin., 1996, Nr.100-2259 (96.10.16)
 Nr. VIII-1365, 99.10.19, Žin., 1999,
 Nr.90-2641 (99.10.27)
+Nr. IX-313, 2001 05 08, Žin., 2001, Nr.
+43-1493 (2001 05 23)
+ 
  
 ______________
  
@@ -612,8 +623,17 @@ Nr.64-1916 (00.07.31)
 ĮSTATYMO „DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“
 PAKEITIMO ĮSTATYMAS
  
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-313, 2001 05 08, Žin., 2001, Nr.
+43-1493 (2001 05 23)
+ĮSTATYMO „DĖL SPECIALIOS
+PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“ PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.22)
+Redagavo: Aušrinė
+Trapinskienė (2001 05 23)
+                  autrap@lrs.lt
 
