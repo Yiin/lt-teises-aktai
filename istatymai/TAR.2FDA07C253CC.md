@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2FDA07C253CC"
 
 # Lietuvos Respublikos valstybinių įmonių įstatymas
 
-Suvestinė redakcija nuo 1992-10-11 iki 1993-07-22
+Suvestinė redakcija nuo 1993-07-23 iki 1993-07-27
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 92-0; Žin. 1990, Nr.30-709, i. k. 0901010ISTA000I-604
  
@@ -82,7 +82,10 @@ Nr. I-977, 1991-01-22, Lietuvos aidas, 1991, Nr. 16-0 (1991-01-23); Žin., 1991,
 
 1. Įmonė, vadovaudamasi Lietuvos Respublikos įstatymais ir siekdama savo įstatuose suformuluotų tikslų, gali:
 
-1) turėti Lietuvos Respublikoje ir užsienio valstybėse įregistruotų bankų įstaigose savo sąskaitas ir naudoti jose esančias lėšas;
+1) turėti atsiskaitomąją ir valiutinę sąskaitas tik viename iš Lietuvos Respublikoje pasirinktų bankų, taip pat po vieną valiutinę sąskaitą bet kurioje užsienio valstybėje;
+Straipsnio punkto pakeitimai:
+Nr. I-219, 1993-07-14, Žin., 1993, Nr. 31-710 (1993-07-23), i. k. 0931010ISTA000I-219
+ 
 
 2) nustatyti viso turimo valstybinio ir akcinio kapitalo naudojimo kryptis ir būdus;
 
@@ -771,4 +774,9 @@ Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-2927, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-914 (1992-10-31), i. k. 0921010ISTA00I-2927
 Dėl Lietuvos Respublikos valstybinių įmonių įstatymo kai kurių straipsnių pakeitimo
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-219, 1993-07-14, Žin., 1993, Nr. 31-710 (1993-07-23), i. k. 0931010ISTA000I-219
+Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
 
