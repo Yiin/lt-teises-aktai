@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2000-05-24 iki 2001-07-24
+Suvestinė redakcija nuo 2001-07-25 iki 2003-07-09
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -65,7 +65,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Investuotojai – Lietuvos Respublika bei užsienio valstybės, tarptautinės organizacijos, Lietuvos Respublikos ir užsienio juridiniai ir fiziniai asmenys bei juridinio asmens teisių neturinčios įmonės, kurie Lietuvos Respublikos įstatymų nustatyta tvarka investuoja nuosavą, skolintą ar patikėjimo teise valdomą bei naudojamą turtą.
+4. Investuotojai – Lietuvos Respublika bei užsienio valstybės, tarptautinės organizacijos, Lietuvos Respublikos ir užsienio juridiniai ir fiziniai asmenys, kurie Lietuvos Respublikos įstatymų nustatyta tvarka investuoja nuosavą, skolintą ar patikėjimo teise valdomą bei naudojamą turtą.
+Straipsnio dalies pakeitimai:
+Nr. IX-450, 2001-07-11, Žin., 2001, Nr. 64-2329 (2001-07-25), i. k. 1011010ISTA00IX-450
+ 
 
 
 
@@ -129,7 +132,10 @@ BENDROSIOS NUOSTATOS
 2. Investicijų rūšys pagal investuotojo nuolatinę buveinę (rezidavimą):
 
 
-1) vidaus investicijos – Lietuvos valstybės, Lietuvos Respublikos fizinių ir juridinių asmenų bei juridinio asmens teisių neturinčių įmonių investicijos Lietuvos Respublikoje;
+1) vidaus investicijos – Lietuvos valstybės, Lietuvos Respublikos fizinių ir juridinių asmenų investicijos Lietuvos Respublikoje;
+Straipsnio punkto pakeitimai:
+Nr. IX-450, 2001-07-11, Žin., 2001, Nr. 64-2329 (2001-07-25), i. k. 1011010ISTA00IX-450
+ 
 
 
 
@@ -355,7 +361,10 @@ Investavimo laisvosiose ekonominėse zonose ypatumus reglamentuoja Lietuvos Resp
 
 
 
-3. Investuotojai gali išsinuomoti valstybei nuosavybės teise priklausančius žemės sklypus Lietuvos Respublikos žemės nuomos įstatymo nustatyta tvarka.
+3. Investuotojai gali išsinuomoti valstybei nuosavybės teise priklausančius žemės sklypus Lietuvos Respublikos civilinio kodekso nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. IX-450, 2001-07-11, Žin., 2001, Nr. 64-2329 (2001-07-25), i. k. 1011010ISTA00IX-450
+ 
 
 
 
@@ -524,3 +533,8 @@ Lietuvos Respublikos investicijų įstatymo 8 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1659, 2000-05-02, Žin., 2000, Nr. 42-1187 (2000-05-24), i. k. 1001010ISTAIII-1659
 Lietuvos Respublikos investicijų įstatymo 14 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-450, 2001-07-11, Žin., 2001, Nr. 64-2329 (2001-07-25), i. k. 1011010ISTA00IX-450
+Lietuvos Respublikos investicijų įstatymo 2, 3 ir 10 straipsnių pakeitimo įstatymas
