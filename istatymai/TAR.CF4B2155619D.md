@@ -23,7 +23,7 @@ LIETUVOS RESPUBLIKOS
 VERTYBINIŲ POPIERIŲ RINKOS
 ĮSTATYMAS
  
-1996 m. sausio 16 d. Nr.I-1169
+1996 m. sausio 16 d. Nr. I-1169
 Vilnius
  
 Nauja įstatymo redakcija (pakeistas įstatymo pavadinimas):
@@ -131,12 +131,12 @@ investuotoju.
 18. Prospektas – investuotojams ir
 visuomenei skirtas dokumentas, kuriame yra pagrindinė informacija apie emitentą
 ir siūlomus jo vertybinius popierius.
-19. Reklama arba viešas
-kreipimasis į visuomenę – skelbimas (reklama) visuomenės informavimo
-priemonėse, informacija apie vertybinių popierių pardavimą, nurodant vertybinių
-popierių požymius, bet kokio pobūdžio publikacijose, interviu visuomenės
-informavimo priemonėms, rašytiniai, nuotolinio ryšio, garsiniai, vaizdiniai ir
-kitokie skelbimai.
+19. Reklama arba viešas kreipimasis
+į visuomenę – skelbimas (reklama) visuomenės informavimo priemonėse,
+informacija apie vertybinių popierių pardavimą, nurodant vertybinių popierių
+požymius, bet kokio pobūdžio publikacijose, interviu visuomenės informavimo
+priemonėms, rašytiniai, nuotolinio ryšio, garsiniai, vaizdiniai ir kitokie
+skelbimai.
 20. Sąskaitų tvarkytojai
 – vertybinių popierių viešosios apyvartos tarpininkai ir Lietuvos centrinis
 vertybinių popierių depozitoriumas.
@@ -236,8 +236,8 @@ VERTYBINIŲ POPIERIŲ APYVARTA
  
 4 straipsnis. Pareiga įregistruoti vertybinių popierių
 emisiją
-1. Vertybinių popierių įregistravimas patvirtina, kad emitento
-teikiama informacija atitinka šiame Įstatyme ir kituose teisės aktuose
+1. Vertybinių popierių įregistravimas patvirtina, kad
+emitento teikiama informacija atitinka šiame Įstatyme ir kituose teisės aktuose
 nustatytas informacijos pateikimo taisykles. Jis nepatvirtina pateiktos
 informacijos teisingumo, taip pat negali būti laikomas Vertybinių popierių
 komisijos rekomendacija investuotojams. Vertybinių popierių įregistravimo
@@ -784,7 +784,8 @@ valdymo organo buvimo vieta yra ne Lietuvos Respublikos teritorijoje (užsienio
 juridinio asmens – ne licenciją
 išdavusioje valstybėje);
 8) tarp juridinio asmens ir kito asmens yra toks
-glaudus ryšys, kuris trukdytų Vertybinių popierių komisijai atlikti veiksmingą priežiūrą;
+glaudus ryšys, kuris trukdytų Vertybinių popierių komisijai atlikti veiksmingą
+priežiūrą;
 9) juridinis asmuo yra glaudžiu ryšiu susijęs su
 asmenimis iš tokios valstybės ne Europos Sąjungos narės, kurios teisės aktai,
 reglamentuojantys šių asmenų veiklą, ar tų teisės aktų laikymosi užtikrinimo
@@ -824,8 +825,7 @@ popierių komisija praneša atitinkamam įmonių registro tvarkytojui ir paskelb
 „Valstybės žinių“ priede „Informaciniai pranešimai“.
  
 23 straipsnis. Europos Sąjungos valstybėse
-narėse licencijuotų finansų maklerio įmonių 
-teisė teikti investicines paslaugas
+narėse licencijuotų finansų maklerio įmonių teisė teikti investicines paslaugas
 Lietuvos Respublikoje
 1. Europos Sąjungos valstybėje narėje licencijuota
 finansų maklerio įmonė gali įsteigti filialą Lietuvos Respublikoje, jei
@@ -1056,8 +1056,8 @@ sugebėjimu įvykdyti savo įsipareigojimus ar veiklos tęstinumu.
 patikrinimą įmonėje, glaudžiu ryšiu  susijusioje su finansų maklerio įmone.
  
 30 straipsnis. Lietuvos Respublikos
-finansų maklerio įmonių teisė teikti investicines 
-paslaugas užsienio valstybėse 
+finansų maklerio įmonių teisė teikti investicines paslaugas užsienio valstybėse
+
 1. Šis straipsnis nustato reikalavimus, kurių turi
 laikytis finansų maklerio įmonė steigdama filialą Europos Sąjungos valstybėje
 narėje arba tokioje valstybėje teikdama investicines paslaugas nesteigdama
@@ -1517,8 +1517,7 @@ VERTYBINIŲ
 POPIERIŲ KOMISIJA
  
 50 straipsnis. Vertybinių popierių
-komisija – vertybinių popierių rinkos priežiūros 
-institucija
+komisija – vertybinių popierių rinkos priežiūros institucija
 1. Vertybinių popierių apyvartą reguliuoja ir prižiūri
 Lietuvos Respublikos vertybinių popierių komisija (toliau – Vertybinių popierių
 komisija).
@@ -1547,7 +1546,8 @@ jei netenka Lietuvos Respublikos pilietybės;
 3)
 dėl sveikatos būklės (jei negali dirbti ne mažiau kaip 3 mėnesius iš eilės);
 4) įsiteisėjus teismo nuosprendžiui, kuriuo nuteisiama
-už tyčinį nusikaltimą arba nusikaltimą valstybės tarnybai;
+už tyčinį nusikaltimą nusikalstamą veiką valstybės tarnybai ir viešiesiems
+interesams ar korupcinio pobūdžio nusikaltimą ir baudžiamąjį nusižengimą;
 5) už šiurkštų šio Įstatymo nuostatų dėl prekybos
 vertybiniais popieriais apribojimų, taikomų Vertybinių popierių komisijos
 nariams ir administracijos darbuotojams, pažeidimą.
@@ -1559,14 +1559,18 @@ vietas Seimas Respublikos Prezidento teikimu likusiam jų įgaliojimų laikui
 skiria kitus asmenis.
 6. Vertybinių popierių komisijos nariui neleidžiama
 verstis veikla, kuri yra nesuderinama su valstybės tarnyba.
+Straipsnio pakeitimai:
+Nr.
+IX-1442,
+2003-04-03, Žin., 2003, Nr. 38-1687 (2003-04-24)
  
 52 straipsnis. Vertybinių popierių komisijos
 uždaviniai ir funkcijos
 1. Vertybinių popierių komisijos uždaviniai yra:
 1) prižiūrėti, kaip laikomasi sąžiningos prekybos
 taisyklių vertybinių popierių apyvartoje;
-2) imtis priemonių, užtikrinančių veiksmingą vertybinių
-popierių rinkos veikimą ir investuotojų apsaugą;
+2) imtis priemonių, užtikrinančių veiksmingą
+vertybinių popierių rinkos veikimą ir investuotojų apsaugą;
 3) teikti pasiūlymus dėl valstybės ekonominės
 politikos, skatinančios vertybinių popierių rinkos plėtrą, formavimo;
 4) skleisti informaciją apie vertybinių popierių
@@ -1575,17 +1579,17 @@ rinkos veikimo principus;
 teisės aktams, susijusiems su vertybinių popierių rinka, įgyvendinti.
 2. Įgyvendindama šio straipsnio 1 dalyje numatytus
 uždavinius, Vertybinių popierių komisija atlieka šias funkcijas:
-1) rengia, tvirtina, keičia ir pripažįsta
-negaliojančiomis taisykles, reglamentuojančias vertybinių popierių biržų bei
-tarpininkų licencijavimą ir veiklą, vertybinių popierių emisiją ir apyvartą;
+1) rengia, tvirtina, keičia ir pripažįsta negaliojančiomis
+taisykles, reglamentuojančias vertybinių popierių biržų bei tarpininkų
+licencijavimą ir veiklą, vertybinių popierių emisiją ir apyvartą;
 2) rengia, tvirtina, keičia ir pripažįsta
 negaliojančiomis prospektų (memorandumų), metų bei periodinių ataskaitų formas
 vertybinių popierių emitentams, taip pat nustato šių dokumentų pateikimo ir
 paskelbimo tvarką;
 3) teikia išaiškinimus ir rekomendacijas vertybinių
 popierių apyvartos klausimais;
-4) vertybinių popierių biržoms, finansų maklerio įmonėms,
-makleriams išduoda ar panaikina licencijas;
+4) vertybinių popierių biržoms, finansų maklerio
+įmonėms, makleriams išduoda ar panaikina licencijas;
 5) stebi, analizuoja, tikrina bei kitaip prižiūri
 tarpininkų, vertybinių popierių biržų ir jų narių, Centrinio depozitoriumo bei
 sąskaitų tvarkytojų veiklą;
@@ -1620,14 +1624,14 @@ organizavimas
 pirmininkas, o kai jo nėra, – pirmininko pavaduotojas. 
 2. Vertybinių popierių komisijos pirmininkas:
 1) užtikrina, kad būtų reguliariai šaukiami Vertybinių
-popierių komisijos posėdžiai, nustato kiekviename posėdyje nagrinėtinus klausimus,
-teikia Vertybinių popierių komisijos veiklos ataskaitas, tarp posėdžių duoda
-Vertybinių popierių komisijos nariams pavedimus ir tikrina, kaip jie vykdomi;
+popierių komisijos posėdžiai, nustato kiekviename posėdyje nagrinėtinus
+klausimus, teikia Vertybinių popierių komisijos veiklos ataskaitas, tarp
+posėdžių duoda Vertybinių popierių komisijos nariams pavedimus ir tikrina, kaip
+jie vykdomi;
 2) pasirašo Vertybinių popierių komisijos
 sprendimus (nutarimus);
-3) tvirtina etatinių darbuotojų administracijos
-struktūrą ir etatus, neviršydamas Seimo nustatyto metinio darbo apmokėjimo
-fondo;
+3) tvirtina etatinių darbuotojų administracijos struktūrą
+ir etatus, neviršydamas Seimo nustatyto metinio darbo apmokėjimo fondo;
 4) vadovauja administracijai, jei nėra įgaliojęs tai
 daryti administracijos darbuotojo.
 3. Kiekvienas Vertybinių popierių komisijos narys yra
@@ -1646,8 +1650,8 @@ konfidencialia informacija. Kiti klausimai svarstomi viešuose posėdžiuose.
 jeigu jame dalyvauja ne mažiau kaip 3 Vertybinių popierių komisijos nariai. 
 6. Vertybinių popierių
 komisijos sprendimas priimamas paprasta posėdžio dalyvių balsų dauguma, o
-nutarimas dėl teisės aktų priėmimo, keitimo ar pripažinimo negaliojančiu laikomas
-priimtu, jeigu už jį balsuoja ne mažiau kaip 3 nariai.
+nutarimas dėl teisės aktų priėmimo, keitimo ar pripažinimo negaliojančiu
+laikomas priimtu, jeigu už jį balsuoja ne mažiau kaip 3 nariai.
 7. Vertybinių popierių komisijos nariai turi lygias
 sprendžiamojo balso teises. Vertybinių popierių komisijos narys neturi teisės
 atsisakyti balsuoti arba susilaikyti. Jei narių balsai pasiskirsto po lygiai,
@@ -1683,9 +1687,8 @@ portfelio valdytojui;
 Vyriausybės ar Lietuvos banko vertybiniams popieriams.
  
 56 straipsnis. Vertybinių popierių
-komisijos narių ir administracijos darbuotojų pareiga 
-neatskleisti konfidencialios
-informacijos
+komisijos narių ir administracijos darbuotojų pareiga neatskleisti
+konfidencialios informacijos
 1. Esami ir buvę Vertybinių popierių komisijos nariai
 ir administracijos darbuotojai neturi teisės patys pasinaudoti konfidencialia
 informacija, įgyta jų darbo Vertybinių popierių komisijoje metu, ar skleisti ją
@@ -1695,8 +1698,8 @@ turintiems teisę gauti iš Vertybinių popierių komisijos konfidencialią
 informaciją.
 2. Šio straipsnio 1 dalyje uždraustu konfidencialios
 informacijos atskleidimu nėra laikomas:
-1) informacijos apie tarpininkus pateikimas tokia
-apibendrinta forma, kad negali būti nustatyta konkretaus tarpininko tapatybė;
+1) informacijos apie tarpininkus pateikimas tokia apibendrinta
+forma, kad negali būti nustatyta konkretaus tarpininko tapatybė;
 2) informacijos perdavimas baudžiamajai bylai tirti ar
 nagrinėti įstatymų nustatyta tvarka;
 3) informacijos perdavimas civilinėse bylose tarpininko
@@ -1710,12 +1713,12 @@ komisijos teisė perduoti konfidencialią informaciją
 konfidencialią informaciją perduoti Lietuvos Respublikos priežiūros
 institucijoms, užsienio priežiūros institucijoms, esančioms Europos Sąjungos
 valstybėse narėse, ir šiame straipsnyje nurodytoms kitoms institucijoms jų
-priežiūros funkcijoms atlikti. Šiame straipsnyje numatytas perdavimas
-leidžiamas tik tuo atveju, jei informaciją gaunančioms institucijoms taikomas
-toks pat draudimas atskleisti konfidencialią informaciją kaip ir Vertybinių
-popierių komisijai. Priežiūros funkcijos yra teisės aktų laikymosi priežiūra,
-poveikio priemonių taikymas ar dalyvavimas teismo procesuose dėl priimto
-priežiūros institucijos sprendimo.
+priežiūros funkcijoms atlikti. Šiame straipsnyje numatytas perdavimas leidžiamas
+tik tuo atveju, jei informaciją gaunančioms institucijoms taikomas toks pat
+draudimas atskleisti konfidencialią informaciją kaip ir Vertybinių popierių
+komisijai. Priežiūros funkcijos yra teisės aktų laikymosi priežiūra, poveikio
+priemonių taikymas ar dalyvavimas teismo procesuose dėl priimto priežiūros
+institucijos sprendimo.
 2. Vertybinių popierių komisija turi teisę sudaryti
 bendradarbiavimo susitarimus, numatančius apsikeitimą konfidencialia
 informacija, ir su užsienio priežiūros institucijomis, kurios yra valstybėse ne
@@ -1758,8 +1761,8 @@ tikslui, kuriam tas sutikimas buvo duotas.
 6. Vertybinių popierių komisija turi teisę
 konfidencialią informaciją perduoti ir tarpininkų asociacijai, prižiūrinčiai,
 kaip jos nariai laikosi asociacijos nustatytų taisyklių, jeigu jos atstovai,
-atliekantys priežiūros funkcijas, užtikrina informacijos konfidencialumo
-išsaugojimą. 
+atliekantys priežiūros funkcijas, užtikrina informacijos konfidencialumo išsaugojimą.
+
  
 58 straipsnis. Vertybinių popierių komisijos
 finansavimas
@@ -1767,14 +1770,13 @@ Vertybinių popierių komisija finansuojama iš valstybės
 biudžeto.
  
 59 straipsnis. Vertybinių popierių
-komisijos teisės nagrinėjant vertybinių popierių 
-rinkos veikimą reglamentuojančių
-norminių aktų pažeidimus
+komisijos teisės nagrinėjant vertybinių popierių rinkos veikimą
+reglamentuojančių norminių aktų pažeidimus
 1. Vertybinių popierių komisija turi teisę organizuoti
 ir atlikti patikrinimus, kad nustatytų, ar laikomasi šio Įstatymo bei jo
 pagrindu priimtų teisės aktų.
-2. Atlikdami patikrinimą, Vertybinių popierių komisijos
-pareigūnai turi teisę:
+2. Atlikdami patikrinimą, Vertybinių popierių
+komisijos pareigūnai turi teisę:
 1) gauti paaiškinimus žodžiu ar raštu iš
 asmenų, susijusių su tiriamais pažeidimais, reikalauti, kad jie atvyktų duoti
 paaiškinimų į patikrinimą atliekančio pareigūno tarnybines patalpas;
@@ -1874,8 +1876,8 @@ pagrindo skirti baudą;
 3) pratęsti tyrimą.
 5. Vertybinių popierių komisija diferencijuoja
 skiriamos baudos dydį, atsižvelgdama į:
-1) pažeidimu padarytos žalos
-dydį;
+1)
+pažeidimu padarytos žalos dydį;
 2) pažeidimo trukmę;
 3) asmeniui dėl pažeidimo tekusių pajamų dydį;
 4) atsakomybę lengvinančias ar sunkinančias
@@ -1927,11 +1929,11 @@ kurie negali būti šių bendrovių akcininkais.
 3. Emitentai, patys tvarkantys savo išleistų
 vertybinių popierių asmenines sąskaitas, privalo perduoti šių sąskaitų tvarkymą
 tarpininkams iki 2004 m. sausio 1 d.
-4. Tiems savarankiškai ar kartu veikiantiems asmenims, kurie
-Įstatymo įsigaliojimo dieną turėjo daugiau nei 40 procentų, tačiau ne daugiau
-nei 50 procentų balsų atskaitingo emitento visuotiniame akcininkų susirinkime,
-pareiga skelbti oficialų pasiūlymą atsiranda, jeigu jie įgyja daugiau nei 50
-procentų balsų.
+4. Tiems savarankiškai ar kartu veikiantiems asmenims,
+kurie Įstatymo įsigaliojimo dieną turėjo daugiau nei 40 procentų, tačiau ne
+daugiau nei 50 procentų balsų atskaitingo emitento visuotiniame akcininkų
+susirinkime, pareiga skelbti oficialų pasiūlymą atsiranda, jeigu jie įgyja
+daugiau nei 50 procentų balsų.
 5. Kol Lietuvos Respublika nėra Europos Sąjungos narė,
 finansų maklerio įmonėms, licencijuotoms Europos Sąjungos valstybėse narėse,
 taikomi tokie pat reikalavimai, kokie Įstatyme nustatyti įmonėms,
@@ -1945,9 +1947,9 @@ yra laikomos atsakingomis institucijomis;
 Lietuvos Respublikoje atlieka Įstatymo 57 straipsnio 3 dalyje nurodytas
 funkcijas;
 3) perduoda Lietuvos Respublikos reguliuojamų rinkų sąrašą
-ir jų veiklą reglamentuojančias taisykles Europos bendrijų komisijai bei
-Europos Sąjungos valstybėms narėms ir informuoja apie vėliau įvykusius sąrašo
-ar taisyklių pasikeitimus.
+ir jų veiklą reglamentuojančias taisykles Europos bendrijų komisijai bei Europos
+Sąjungos valstybėms narėms ir informuoja apie vėliau įvykusius sąrašo ar
+taisyklių pasikeitimus.
 7. Iki 2003 m. sausio 1 d. Vertybinių popierių
 komisija turi teisę skirti juridiniams asmenims, pažeidusiems Įstatymo 9 ar 10
 straipsniuose numatytus reikalavimus, baudas iki trigubo neteisėtai gautų
@@ -1960,6 +1962,7 @@ pajamų dydžio arba iki 100 tūkstančių litų.
  
 RESPUBLIKOS
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
+ 
 _____________
  
 Pakeitimai:
@@ -2021,8 +2024,8 @@ APYVARTOS ĮSTATYMO 3, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-521,
-2001-09-25, Žin., 2001, Nr. 85-2971 (2001-10-05)
+IX-521, 2001-09-25,
+Žin., 2001, Nr. 85-2971 (2001-10-05)
 VERTYBINIŲ
 POPIERIŲ VIEŠOSIOS APYVARTOS ĮSTATYMO 28 STRAIPSNIO PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
@@ -2037,14 +2040,27 @@ IX-655,
 2001-12-17, Žin., 2001, Nr. 112-4074 (2001-12-30)
 VERTYBINIŲ
 POPIERIŲ VIEŠOSIOS APYVARTOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Nauja įstatymo redakcija
+Nauja įstatymo redakcija (pakeistas įstatymo
+pavadinimas)
+ 
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1442,
+2003-04-03, Žin., 2003, Nr. 38-1687 (2003-04-24)
+VERTYBINIŲ
+POPIERIŲ RINKOS ĮSTATYMO 51 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja kartu su
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+2003 m. gegužės 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-01-07)
+Aušrinė Trapinskienė (2003-05-08)
                  
 autrap@lrs.lt
 
