@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
+Suvestinė redakcija nuo 2000-06-09 iki 2003-12-11
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
+ 
+ 
 LIETUVOS RESPUBLIKOS
 TEISĖS GAUTI INFORMACIJĄ IŠ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ
 ĮSTATYMAS
@@ -72,7 +77,10 @@ Valstybės ir savivaldybių įstaigos privalo teikti informaciją apie savo veik
 
 
 
-5. Valstybės ar savivaldybės įstaiga (toliau - įstaiga) - ši sąvoka vartojama pagal Valstybės tarnybos įstatymą. 
+5. Valstybės ar savivaldybės įstaiga (toliau – įstaiga) – valstybės ar savivaldybių įstaigos ir institucijos, apibrėžtos Valstybės tarnybos įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1700, 2000-05-23, Žin., 2000, Nr. 47-1344 (2000-06-09), i. k. 1001010ISTAIII-1700
+ 
 
 
 
@@ -356,3 +364,15 @@ Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi,
  
 LIETUVOS RESPUBLIKOS
 SEIMO PIRMININKAS                                                                     VYTAUTAS LANDSBERGIS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1700, 2000-05-23, Žin., 2000, Nr. 47-1344 (2000-06-09), i. k. 1001010ISTAIII-1700
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas
