@@ -14,7 +14,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61"
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas
 
 Redagavo: Ramunė Lūžaitė
-(1999.11.19)
+(2000.01.11)
  
  
 Įstatymas paskelbtas: Žin., 1998, Nr.61-1728
@@ -41,8 +41,15 @@ RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYD�
 NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
 ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1499, 99.12.23, Žin., 1999, Nr.113-3292 (99.12.30)
+LIETUVOS RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO,
+ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
+NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
+ĮSTATYME, ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+*** Pabaiga ***
 LIETUVOS RESPUBLIKOS
 KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ,
 MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ
@@ -51,12 +58,6 @@ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME,
  
 1998 m. birželio 16 d. Nr. VIII-792
 Vilnius
- 
- 
-
-
-
-
  
 1 straipsnis. Įstatymo paskirtis
  
@@ -98,16 +99,17 @@ straipsnis. Atlyginimas už išperkamus ūkinės-komercinės paskirties pastatus
  
 Atlyginant už valstybės išperkamus
 ūkinės-komercinės paskirties pastatus ir jų priklausinius, išduodamų vertybinių
-popierių skaičius bei vertė apskaičiuojama pagal Vyriausybės patvirtintą metodiką.
+popierių skaičius bei vertė apskaičiuojama pagal Vyriausybės patvirtintą
+metodiką.
  
 5
 straipsnis. Atlyginimas už išperkamus gyvenamuosius namus, jų dalis, butus
  
-Atlyginant už valstybės išperkamus
-gyvenamuosius namus, jų dalis, butus, perduodamo neatlygintinai turto, mokamų
-pinigų suma, išduodamų vertybinių popierių skaičius bei vertė, įskaitomos
-piniginės prievolės valstybei dydis apskaičiuojama pagal Vyriausybės
-patvirtintą metodiką.
+Atlyginant už valstybės išperkamus gyvenamuosius
+namus, jų dalis, butus, perduodamo neatlygintinai turto, mokamų pinigų suma,
+išduodamų vertybinių popierių skaičius bei vertė, įskaitomos piniginės
+prievolės valstybei dydis apskaičiuojama pagal Vyriausybės patvirtintą
+metodiką.
  
 6
 straipsnis. Atlyginimo piliečiams už valstybės išperkamą išlikusį nekilnojamąjį
@@ -124,25 +126,25 @@ nekilnojamąjį turtą terminai
  
 1. Atlyginimo už atskirus nekilnojamojo
 turto objektus (žemę, mišką, vandens telkinius, ūkinės-komercinės paskirties
-pastatus ir jų priklausinius, gyvenamuosius namus, jų dalis, butus) terminus
-nustato Vyriausybė. 
-2. Kompensacijos pinigais
-išmokamos kasmet lygiomis dalimis nuo sprendimo atkurti nuosavybės teises
-priėmimo dienos. Per metus kompensacijos išmokamos kas ketvirtį lygiomis
-dalimis. Vyriausybei suteikiama teisė kiekvienais metais išleisti Vyriausybės
-vertybinių popierių už tokią sumą, kuri reikalinga kompensacijoms išmokėti.
-Piniginės kompensacijos išmokamos:
-1) už išperkamus
-žemę, mišką, vandens telkinius - iki 2006 m. rugpjūčio 1 d.; 
-2) už
-gyvenamuosius namus, jų dalis, butus - iki 2010 m. sausio 1 d.;
-3) 1918-1920 m.
+pastatus ir jų priklausinius, gyvenamuosius namus, jų dalis, butus) dydžius, jo
+mokėjimo terminus ir tvarką kasmet, patvirtinus valstybės biudžeto ir
+savivaldybių biudžetų finansinius rodiklius, nustato Vyriausybė, atsižvelgdama
+į valstybės finansines išgales, įskaitant naujus valstybės turtinius
+įsipareigojimus ir valstybės pajamų šaltinius.
+2. Piniginės
+kompensacijos mokamos nuo sprendimo atkurti nuosavybės teises priėmimo dienos
+Vyriausybės nustatyta tvarka ir sąlygomis:
+1) už išperkamą žemę, mišką, vandens
+telkinius - iki 2009 m. sausio 1 d.;
+2) už gyvenamuosius namus, jų dalis,
+butus - iki 2011 m. sausio 1 d.;
+3) I grupės invalidams, 1918-1920 m.
 nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos)
-dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu
-apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams)
-kompensacijos už išperkamą žemę, mišką, vandens telkinius išmokamos iki 2002 m.
-rugpjūčio 1 d., o už gyvenamuosius namus, jų dalis, butus - iki 2006 m. sausio
-1 d.
+dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu iki 1940
+m. birželio 15 d. apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams),
+vaikams (įvaikiams) kompensacijos už išperkamą žemę, mišką, vandens telkinius
+išmokamos iki 2003 m. rugpjūčio 1 d., o už gyvenamuosius namus, jų dalis, butus
+- iki 2007 m. sausio 1 d.
 3. Piliečiams neišmokėtos piniginių
 kompensacijų sumos indeksuojamos atsižvelgiant į metų infliaciją.
 4. Vyriausybė ar jos įgaliota
@@ -153,6 +155,7 @@ lėšas paskirsto Vyriausybė ar jos įgaliota institucija.
 Straipsnio
 pakeitimai:
 Nr. VIII-1386, 99.11.04, Žin., 1999, Nr.98-2810 (99.11.19)
+Nr. VIII-1499, 99.12.23, Žin., 1999, Nr.113-3292 (99.12.30)
  
 8
 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą
@@ -176,8 +179,8 @@ pareiškimo dėl išpirkimo būdo, institucija savo nuožiūra priima sprendimą
 išpirkimo būdo, pateikia jį tvirtinti apskrities viršininkui ir apie šį
 sprendimą raštu informuoja pilietį. Pilietis, nesutinkantis su institucijos
 sprendimu, gali per vieną mėnesį motyvuotu prašymu kreiptis į apskrities
-viršininką panaikinti institucijos sprendimą. Apskrities viršininko sprendimas yra
-galutinis ir gali būti skundžiamas tik teismui.
+viršininką panaikinti institucijos sprendimą. Apskrities viršininko sprendimas
+yra galutinis ir gali būti skundžiamas tik teismui.
  
 Straipsnio
 pakeitimai:        
