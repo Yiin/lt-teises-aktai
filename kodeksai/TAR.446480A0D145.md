@@ -3936,9 +3936,18 @@ vadovaujantis įstatymais ir kitais teisės aktais, perduodamas teismo
 antstoliams vykdyti. 
 3. Mokesčių įstatymų nustatyti delspinigiai ir (arba)
 baudos išieškomi šio straipsnio 1 ir 2 dalyse nustatyta tvarka. 
+ 
+[216
+straipsnis papildomas 4 dalimi nuo 2001 m. rugsėjo 1 d.:
+4. Muitų ir mokesčių, taip
+pat baudų ir delspinigių išieškojimas finansų ministro nustatyta tvarka gali
+būti perduotas akcinei bendrovei Turto bankui.]
 Straipsnio pakeitimai:
 Nr. VIII-1377, 99.11.04, Žin., 1999,
-Nr.101-2899 (99.11.26) 
+Nr.101-2899 (99.11.26)
+Nr. IX-401, 2001-06-26, Žin., 2001, Nr.
+62-2218 (2001-07-18), įsigalioja nuo 2001-09-01
+ 
  
  
 XX SKYRIUS
@@ -4147,12 +4156,12 @@ straipsnis. Skundo pateikimas Muitinės departamentui arba teismui
 pateikęs teritorinei muitinei šio kodekso 226 arba 227 straipsnyje nurodytą
 skundą, kuris per šio kodekso taikymą reglamentuojančių teisės aktų nustatytą
 laikotarpį nebuvo išnagrinėtas arba buvo nepatenkintas, turi teisę ne vėliau
-kaip po 1 mėnesio nuo nurodyto laikotarpio pabaigos apskųsti teritorinės
-muitinės priimtą sprendimą arba sprendimo nepriėmimą Muitinės departamentui
-arba teismui. Jei Muitinės departamentas skundo neišnagrinėja arba palieka
-galioti teritorinės muitinės sprendimą, šis sprendimas arba sprendimo
-nepriėmimas gali būti apskųstas teismui. Muitinės departamento sprendimas arba
-sprendimo nepriėmimas taip pat gali būti apskųstas teismui.
+kaip po 1 mėnesio nuo nurodyto laikotarpio pabaigos apskųsti teritorinės muitinės
+priimtą sprendimą arba sprendimo nepriėmimą Muitinės departamentui arba
+teismui. Jei Muitinės departamentas skundo neišnagrinėja arba palieka galioti
+teritorinės muitinės sprendimą, šis sprendimas arba sprendimo nepriėmimas gali
+būti apskųstas teismui. Muitinės departamento sprendimas arba sprendimo
+nepriėmimas taip pat gali būti apskųstas teismui.
             
             230
 straipsnis. Muitinės sprendimo, dėl kurio pateiktas skundas, galiojimas
@@ -4240,9 +4249,7 @@ PAPILDYMO IR XII SKYRIAUS PIRMOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
 Pakeistas įstatymo įsigaliojimas:
 Šis įstatymas įsigalioja nuo 2000
 m. spalio 1 d.
- 
 Pakeitimai:
-1)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1966, 00.09.26, Žin., 2000,
 Nr.85-2587 (00.10.11)
@@ -4251,9 +4258,20 @@ MUITINĖS KODEKSO 2, 38, 39, 113,
 186, 189, 221 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR XII SKYRIAUS PIRMOJO
 SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMO 25 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. IX-401, 2001-06-26, Žin., 2001, Nr.
+62-2218 (2001-07-18)
+MUITINĖS KODEKSO 216
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2001
+m. rugsėjo 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė
-Trapinskienė (2000.10.16)
+Redagavo: Aušra
+Petraitienė (2001-07-18)
+                  aupetr@lrs.lt
 
