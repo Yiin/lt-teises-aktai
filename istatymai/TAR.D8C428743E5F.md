@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D8C428743E5F"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 1999-06-09 iki 2000-04-04
+Suvestinė redakcija nuo 2000-04-05 iki 2000-05-11
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 50-1190, i. k. 0971010ISTAVIII-222
  
@@ -85,7 +85,9 @@ Nr. VIII-1199, 1999-05-25, Žin., 1999, Nr. 50-1604 (1999-06-09), i. k. 0991010I
 
 4. Operatyvinės paieškos pagrindas yra pirminė informacija apie rengiamą ar padarytą nusikaltimą, nusikaltimą rengusį ar padariusį asmenį, taip pat asmens dingimą be žinios.
 
-5. Negalima taikyti specialios technikos, gyvenamosios patalpos slaptos apžiūros, susirašinėjimo, telegrafo ir kitų pranešimų slaptos kontrolės prieš Lietuvos Respublikos Prezidentą, Seimo narius ir Vyriausybės narius.
+5. Negalima taikyti specialios technikos, gyvenamosios patalpos slaptos apžiūros, susirašinėjimo, telegrafo ir kitų pranešimų slaptos kontrolės prieš Lietuvos Respublikos Prezidentą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1572, 2000-03-16, Žin., 2000, Nr. 28-762 (2000-04-05), i. k. 1001010ISTAIII-1572
  
 
 5 straipsnis. Operatyvinės veiklos subjektai ir slaptieji dalyviai
@@ -294,4 +296,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1199, 1999-05-25, Žin., 1999, Nr. 50-1604 (1999-06-09), i. k. 0991010ISTAIII-1199
 Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 5, 16 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1572, 2000-03-16, Žin., 2000, Nr. 28-762 (2000-04-05), i. k. 1001010ISTAIII-1572
+Lietuvos Respublikos operatyvinės veiklos įstatymo 4 straipsnio pakeitimo įstatymas
 
