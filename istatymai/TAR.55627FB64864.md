@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.55627FB64864"
 
 # Lietuvos Respublikos valstybės iždo įstatymas
 
+Suvestinė redakcija nuo 1997-04-09 iki 1999-04-13
+ 
+Įstatymas paskelbtas: Žin. 1994, Nr. 100-2001, i. k. 0941010ISTA000I-712
+ 
 LIETUVOS RESPUBLIKOS VALSTYBĖS IŽDO Į S T A T Y M A S
  
 1994 m. gruodžio 20 d. Nr. I-712
@@ -96,7 +100,9 @@ Finansų ministras patvirtina Valstybės iždo departamento struktūrą ir veikl
 
 
 
-Valstybės iždo departamentui vadovauja Finansų ministerijos sekretorius – departamento direktorius, kurį finansų ministro teikimu skiria, taip pat atleidžia Lietuvos Respublikos Ministras Pirmininkas.
+Valstybės iždo departamentui vadovauja direktorius, kurį skiria ir atleidžia finansų ministras.
+Straipsnio dalies pakeitimai:
+Nr. VIII-153, 1997-03-25, Žin., 1997, Nr. 30-709 (1997-04-09), i. k. 0971010ISTAVIII-153
  
 
 
@@ -137,3 +143,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-153, 1997-03-25, Žin., 1997, Nr. 30-709 (1997-04-09), i. k. 0971010ISTAVIII-153
+Lietuvos Respublikos valstybės iždo įstatymo 3 straipsnio pakeitimo įstatymas
