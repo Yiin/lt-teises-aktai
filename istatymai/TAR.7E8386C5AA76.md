@@ -21,13 +21,8 @@ REGIONINĖS PLĖTROS
 ĮSTATYMAS
 2000 m. liepos 20 d. Nr. VIII-1889
 Vilnius
-
-
-
-
- 
 Nauja
-įstatymo redakcija nuo 2002 m. gruodžio 24 d.:
+įstatymo redakcija:
 Nr.
 IX-1285,
 2002-12-10, Žin., 2002, Nr. 123-5558 (2002-12-24)
@@ -73,13 +68,13 @@ plėtros planas – vidutinės trukmės strateginio planavimo dokumentas,
 kuriame pateikiami regiono socialinės ir ekonominės būklės įvertinimo
 pagrindiniai duomenys ir jų analizė, nurodomi regiono plėtros strateginiai
 tikslai ir uždaviniai bei galimos jų įgyvendinimo priemonės.
-7. Regionų
-socialinių ir ekonominių skirtumų mažinimo iniciatyvos (planas) –
-strateginio planavimo dokumentas, kuriame nurodomi išskirtų probleminių
-teritorijų plėtros strateginiai tikslai ir uždaviniai bei pasiūlymai dėl
-regionų, turinčių atskirų ūkio šakų (sektorių) specifinių regioninių ir
-vietinių problemų, kurios spręstinos per tų ūkio šakų (sektorių) plėtros
-strategijas ir programas, plėtros.
+7. Regionų socialinių
+ir ekonominių skirtumų mažinimo iniciatyvos (planas) – strateginio
+planavimo dokumentas, kuriame nurodomi išskirtų probleminių teritorijų plėtros
+strateginiai tikslai ir uždaviniai bei pasiūlymai dėl regionų, turinčių atskirų
+ūkio šakų (sektorių) specifinių regioninių ir vietinių problemų, kurios
+spręstinos per tų ūkio šakų (sektorių) plėtros strategijas ir programas,
+plėtros.
  
 II SKYRIUS
 NACIONALINĖS REGIONINĖS POLITIKOS
@@ -104,9 +99,9 @@ sąlygas tolygiai ir tvariai ilgalaikei visų regionų plėtrai.
 4 straipsnis.
 Nacionalinės regioninės politikos įgyvendinimo priemonės
 1. Įgyvendinant
-nacionalinę regioninę politiką, gali būti teikiama valstybės pagalba
-vadovaujantis Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės
-įstatymu. 
+nacionalinę regioninę politiką, gali būti teikiama valstybės pagalba Europos
+Sąjungos ir Lietuvos Respublikos teisės aktų dėl valstybės pagalbos teikimo
+nustatyta tvarka.
 2. Nacionalinė
 regioninė politika įgyvendinama per valstybės viešąją politiką, pirmiausia per
 verslo, žmogiškųjų išteklių ir infrastruktūros plėtrą. Ji yra sudedamoji
@@ -117,14 +112,17 @@ teritorijos plėtros programos socialinių ir ekonominių plėtros priemonių
 kitų finansavimo šaltinių ir iš Europos Sąjungos paramos fondų, jeigu
 Nacionaliniame plėtros plane (Bendrajame programavimo dokumente) yra numatyta
 remti tos probleminės teritorijos plėtros programą atitinkančius projektus. 
-4. Socialinės ir ekonominės plėtros bei infrastruktūros projektai,
-skirti konkrečių regionų atskirų ūkio šakų (sektorių) specifinėms regioninėms
-ir vietinėms problemoms spręsti, gali būti finansuojami iš valstybės biudžeto,
-jeigu jie yra įtraukti į atskirų ūkio šakų (sektorių) plėtros strategijas, taip
-pat iš kitų finansavimo šaltinių ir iš Europos Sąjungos paramos fondų, jeigu
-atitinka Nacionaliniame plėtros plane (Bendrajame programavimo dokumente)
-nustatytus tų ūkio šakų (sektorių) plėtros uždavinius bei priemones ir tenkina
-atrankos kriterijus.
+4. Socialinės ir ekonominės plėtros bei infrastruktūros
+projektai, skirti konkrečių regionų atskirų ūkio šakų (sektorių) specifinėms
+regioninėms ir vietinėms problemoms spręsti, gali būti finansuojami iš
+valstybės biudžeto, jeigu jie yra įtraukti į atskirų ūkio šakų (sektorių)
+plėtros strategijas, taip pat iš kitų finansavimo šaltinių ir iš Europos
+Sąjungos paramos fondų, jeigu atitinka Nacionaliniame plėtros plane (Bendrajame
+programavimo dokumente) nustatytus tų ūkio šakų (sektorių) plėtros uždavinius
+bei priemones ir tenkina atrankos kriterijus.
+Straipsnio pakeitimai:
+Nr. IX-2372,
+2004-07-15, Žin., 2004, Nr. 116-4324 (2004-07-27)
  
 III SKYRIUS
 REGIONAI
@@ -152,10 +150,11 @@ Probleminė teritorija
 1) vieno regiono
 teritorija;
 2) kelių
-regionų, turinčių bendras administracines ribas, teritorija;
-3) regiono dalis, į kurią įeina kelios bendras
-administracines ribas turinčios savivaldybės, priklausančios tam pačiam
-regionui.
+regionų, turinčių bendras administracines ribas, arba tų regionų savivaldybių,
+turinčių bendras administracines ribas, teritorija;
+3) regiono
+dalis, kurioje yra viena savivaldybė arba kelios bendras administracines ribas
+turinčios savivaldybės, priklausančios tam pačiam regionui.
 2. Probleminės
 teritorijos yra išskiriamos rengiant regionų socialinių ir ekonominių skirtumų
 mažinimo iniciatyvas (planą). Sprendimą dėl teritorijos pripažinimo problemine
@@ -163,6 +162,9 @@ teritorija priima Vyriausybė institucijos, atsakingos už nacionalinės
 regioninės politikos koordinavimą, teikimu. Iki teikimo klausimas dėl
 teritorijos pripažinimo problemine turi būti apsvarstytas Nacionalinėje
 regioninės plėtros taryboje. 
+Straipsnio pakeitimai:
+Nr. IX-2372, 2004-07-15,
+Žin., 2004, Nr. 116-4324 (2004-07-27)
  
 IV SKYRIUS
 REGIONINĖS
@@ -207,8 +209,8 @@ socialinės ir ekonominės būklės analizės pagrindiniai duomenys;
 2) regiono
 plėtros strateginiai tikslai ir uždaviniai atskirų ūkio šakų (sektorių)
 specifinėms regioninėms ir vietinėms problemoms spręsti;
-3) galimos įgyvendinimo
-priemonės.
+3) galimos
+įgyvendinimo priemonės.
 3. Regionų
 plėtros planai rengiami vadovaujantis metodika, kurią tvirtina institucija,
 atsakinga už nacionalinės regioninės politikos koordinavimą.
@@ -224,9 +226,8 @@ socialinių ir ekonominių skirtumų mažinimo iniciatyvas (planą) rengia
 institucija, atsakinga už nacionalinės regioninės politikos koordinavimą: 
 1) atsižvelgdama
 į Valstybės ilgalaikės raidos strategiją, atskirų ūkio šakų (sektorių) plėtros
-strategijas, Lietuvos Respublikos teritorijos bendrąjį planą, Nacionalinį
-plėtros planą (Bendrąjį programavimo dokumentą) ir Lietuvos Respublikos
-valstybės pagalbos ūkio subjektams kontrolės įstatymą;
+strategijas, Lietuvos Respublikos teritorijos bendrąjį planą, Nacionalinį plėtros
+planą (Bendrąjį programavimo dokumentą);
 2) atlikusi regionų socialinės ir
 ekonominės būklės ir plėtros tendencijų lyginamąją analizę;
 3) įvertinusi
@@ -263,8 +264,8 @@ jų plėtros strateginius tikslus ir uždavinius bei tose teritorijose
 nacionalinės regioninės politikos koordinavimą, teikia svarstyti Vyriausybei.
 Sprendimą dėl probleminių teritorijų plėtros programų parengimo ir jų
 įgyvendinimo priemonių įtraukimo į Nacionalinį plėtros planą (Bendrąjį
-programavimo dokumentą) priima Vyriausybė pagal šio dokumento rengimo procedūras
-ir tvarką.
+programavimo dokumentą) priima Vyriausybė pagal šio dokumento rengimo
+procedūras ir tvarką.
 4. Kai
 Vyriausybė priima sprendimą dėl probleminių teritorijų ir joms teiktinos
 valstybės pagalbos, institucija, atsakinga už nacionalinės regioninės politikos
@@ -274,6 +275,9 @@ teritorijos plėtros programos parengimą. Probleminės teritorijos plėtros
 programą svarsto Nacionalinė regioninės plėtros taryba. Nacionalinės regioninės
 plėtros tarybos pritarimu probleminės teritorijos plėtros programą tvirtina
 Vyriausybė.
+Straipsnio pakeitimai:
+Nr. IX-2372,
+2004-07-15, Žin., 2004, Nr. 116-4324 (2004-07-27)
  
 V SKYRIUS
 NACIONALINĘ
@@ -344,9 +348,9 @@ ir uždavinius;
 8) konsultuoja
 regionų plėtros tarybas ir apskričių viršininkų administracijas dėl rengiamų
 regionų plėtros planų, teikia siūlymus dėl jų tobulinimo;
-9) rengia siūlymus
-Nacionalinei regioninės plėtros tarybai dėl regionų plėtros programos, skirtos
-teikti pagalbą rengiant regionų plėtros planus, vietines iniciatyvas
+9) rengia
+siūlymus Nacionalinei regioninės plėtros tarybai dėl regionų plėtros programos,
+skirtos teikti pagalbą rengiant regionų plėtros planus, vietines iniciatyvas
 atitinkančius projektinius pasiūlymus bei įgyvendinant tarptautinį
 bendradarbiavimą regioninės politikos srityje, dėl lėšų naudojimo,
 administruoja regionų plėtros programos lėšas;
@@ -403,8 +407,8 @@ Regionų plėtros tarybos ir jų įgaliojimai
 1. Regiono
 plėtros tarybą sudaro ir jos pirmąjį posėdį šaukia apskrities viršininkas. Jis
 vadovauja regiono plėtros tarybos darbui, kol taryba išsirenka pirmininką.
-2. Regiono plėtros
-taryba susideda iš apskrities viršininko, regiono savivaldybių merų,
+2. Regiono
+plėtros taryba susideda iš apskrities viršininko, regiono savivaldybių merų,
 teritorinės darbo biržos atstovo ir deleguotų savivaldybių tarybų narių.
 3. Savivaldybių
 tarybų narius į regiono plėtros tarybą deleguoja savivaldybių tarybos pagal
@@ -431,14 +435,14 @@ tvirtina regiono plėtros planą;
 3) teikia
 išvadas Vyriausybės įgaliotai institucijai ir Nacionalinei regioninės plėtros
 tarybai dėl regiono plėtros plano įgyvendinimo;
-4) svarsto ir teikia
-siūlymus Vyriausybės įgaliotai institucijai ir Nacionalinei regioninės plėtros
-tarybai dėl regionų socialinių ir ekonominių skirtumų mažinimo iniciatyvų
-(plano);
+4) svarsto ir
+teikia siūlymus Vyriausybės įgaliotai institucijai ir Nacionalinei regioninės
+plėtros tarybai dėl regionų socialinių ir ekonominių skirtumų mažinimo
+iniciatyvų (plano);
 5) teikia
-siūlymus Vyriausybės įgaliotai institucijai dėl probleminių teritorijų išskyrimo
-bei tose teritorijose įgyvendinamiems projektams teiktinos valstybės pagalbos
-kriterijų;
+siūlymus Vyriausybės įgaliotai institucijai dėl probleminių teritorijų
+išskyrimo bei tose teritorijose įgyvendinamiems projektams teiktinos valstybės
+pagalbos kriterijų;
 6) teikia
 siūlymus Vyriausybei ir jos įgaliotai institucijai dėl probleminės teritorijos
 plėtros programos ir jos vykdymo;
@@ -489,8 +493,8 @@ teiktinų valstybės pagalbos kriterijų;
 rengiant ir vykdant probleminės teritorijos plėtros programas, probleminėje
 teritorijoje atlieka asignavimų valdytojo funkcijas, jei nenustatyta kitaip;
 4) koordinuoja
-savivaldybių institucijų, socialinių ir ekonominių partnerių veiklą jiems vykdant
-priimtus sprendimus, susijusius su nacionalinės regioninės politikos
+savivaldybių institucijų, socialinių ir ekonominių partnerių veiklą jiems
+vykdant priimtus sprendimus, susijusius su nacionalinės regioninės politikos
 įgyvendinimu tame regione;
 5) atlieka
 regiono plėtros tarybos sekretoriato funkcijas, kaupia regiono plėtros tarybos
@@ -505,11 +509,6 @@ planų rengimą ir įgyvendinimą;
 nuostatų numatytas funkcijas.
  
  
-
-
-
-
- 
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
  
@@ -520,7 +519,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-___________________
+_________________
  
 Pakeitimai:
  
@@ -534,11 +533,20 @@ PLĖTROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
 įstatymo redakcija
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2372,
+2004-07-15, Žin., 2004, Nr. 116-4324 (2004-07-27)
+REGIONINĖS
+PLĖTROS ĮSTATYMO 4, 6 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-01-10)
+Aušrinė Trapinskienė (2004-07-29)
                  
 autrap@lrs.lt
