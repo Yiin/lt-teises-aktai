@@ -27,7 +27,7 @@ Vilnius
 
  
 I SKYRIUS
- BENDROSIOS NUOSTATOS
+BENDROSIOS NUOSTATOS
  
 1 straipsnis.
 Įstatymo paskirtis
@@ -376,22 +376,31 @@ teritorijoje šis asmuo įregistruotas mokesčio mokėtoju.
 2.
 Jeigu vienas savininkas turi kelis akcizais apmokestinamų prekių sandėlius,
 deklaracija pateikiama už kiekvieną sandėlį atskirai.
-3. Akcizų
+3.
+Jeigu vienas savininkas turi kelis akcizais apmokestinamų prekių sandėlius,
+kuriuose vykdoma mažmeninė prekyba skirtais naudoti kaip degalai (variklių
+kuras) naftos dujomis ir dujiniais angliavandeniliais, akcizų deklaracija už
+kiekvieną sandėlį atskirai pateikiama tam vietos mokesčio administratoriui,
+kurio teritorijoje šis savininkas yra įregistruotas mokesčio mokėtoju.
+4. Akcizų
 deklaracijoje atskirai turi būti deklaruojamos iš akcizais apmokestinamų prekių
 sandėlio išgabentos, akcizais apmokestinamų prekių sandėlyje sunaudotos,
 akcizais apmokestinamų prekių sandėlyje arba gabenimo taikant akcizų mokėjimo
 laikino atidėjimo režimą metu prarastos akcizais apmokestinamos prekės, už
 kurias pagal šio Įstatymo nuostatas akcizai neturi būti skaičiuojami. 
-4. Panaikinus
+5. Panaikinus
 leidimą steigti akcizais apmokestinamų prekių sandėlį, akcizų deklaracijos už
 tokį sandėlį teikiamos dar už 3 mokestinius laikotarpius, įskaitant tą, kurį
 priimtas sprendimas panaikinti leidimą. Šis reikalavimas netaikomas, jeigu
 visos su tokiame sandėlyje laikytomis ir (arba) iš tokio sandėlio išgabentomis
 prekėmis susijusios mokestinės prievolės šio Įstatymo nustatyta tvarka
 įvykdomos anksčiau. 
-5. Šio
-straipsnio 1–4 dalių nuostatos netaikomos importuojamoms akcizais apmokestinamoms
-prekėms. 
+6. Šio
+straipsnio 1–4 dalių nuostatos netaikomos importuojamoms akcizais
+apmokestinamoms prekėms. 
+Straipsnio pakeitimai:
+Nr. IX-993,
+2002-06-27, Žin., 2002, Nr. 66-2706 (2002-06-29)
  
 9 straipsnis. Mokėtinos akcizų sumos
 apskaičiavimas
@@ -402,10 +411,10 @@ privalo deklaruoti akcizus už:
 apmokestinamas prekes, kurioms akcizų mokėjimo laikino atidėjimo režimas
 panaikintas, t. y. iš akcizais apmokestinamų prekių sandėlio išgabentas
 akcizais apmokestinamas prekes, už kurias akcizai nesumokėti, išskyrus prekes,
-išgabentas taikant akcizų mokėjimo laikino atidėjimo režimą. Akcizai
-neskaičiuojami už akcizais apmokestinamas prekes, kurioms akcizų mokėjimo
-laikino atidėjimo režimas panaikintas, jeigu jos pagal šio Įstatymo nuostatas
-atleidžiamos nuo akcizų; 
+išgabentas taikant akcizų mokėjimo laikino atidėjimo režimą. Akcizai neskaičiuojami
+už akcizais apmokestinamas prekes, kurioms akcizų mokėjimo laikino atidėjimo
+režimas panaikintas, jeigu jos pagal šio Įstatymo nuostatas atleidžiamos nuo
+akcizų; 
 2) akcizais
 apmokestinamų prekių sandėlyje sunaudotas akcizais apmokestinamas prekes, už
 kurias akcizai nesumokėti, išskyrus, kai šios prekės panaudotos kitoms prekėms,
@@ -432,9 +441,9 @@ kurie neviršija teisės aktų nustatytų leistinų matavimo prietaisų paklaid�
 1) už akcizais
 apmokestinamas prekes, kurioms akcizų mokėjimo laikino atidėjimo režimas
 panaikintas, – taikant akcizų tarifus, galiojusius prekių išgabenimo dieną;
-2) už akcizais
-apmokestinamų prekių sandėlyje sunaudotas akcizais apmokestinamas prekes –
-taikant akcizų tarifus, galiojusius prekių sunaudojimo dieną;
+2) už akcizais apmokestinamų
+prekių sandėlyje sunaudotas akcizais apmokestinamas prekes – taikant akcizų
+tarifus, galiojusius prekių sunaudojimo dieną;
 3) už akcizais
 apmokestinamų prekių sandėlyje ir gabenimo metu prarastas akcizais
 apmokestinamas prekes, kurioms buvo taikomas akcizų mokėjimo laikino atidėjimo
@@ -444,8 +453,8 @@ režimas, – taikant akcizų tarifus, galiojusius prekių praradimo dieną, o j
 įsigijęs arba importavęs akcizais apmokestinamas prekes be akcizų šio Įstatymo
 13, 22 arba 36 straipsniuose nustatytiems tikslams, bet panaudojęs jas kitiems
 tikslams, privalo šio Įstatymo nustatyta tvarka pateikti akcizų deklaraciją ir
-joje deklaruoti mokėtiną už šias prekes akcizų sumą, apskaičiuotą taikant akcizų
-tarifus, galiojusius tų prekių panaudojimo dieną. 
+joje deklaruoti mokėtiną už šias prekes akcizų sumą, apskaičiuotą taikant
+akcizų tarifus, galiojusius tų prekių panaudojimo dieną. 
 4. Bet kuris asmuo,
 kaip degalus (variklių kurą) panaudojęs naftos dujas ar dujinius
 angliavandenilius, kurie pagal šį Įstatymą yra akcizų objektas, tačiau už
@@ -456,10 +465,10 @@ apskaičiuotą taikant akcizų tarifus, galiojusius prekių panaudojimo dieną.
 pažeisdamas šio Įstatymo 4 straipsnio 1 dalies reikalavimus, bet kokiu būdu
 pagamina akcizais apmokestinamas prekes ne akcizais apmokestinamų prekių
 sandėlyje, jis privalo ne vėliau kaip kitą darbo dieną po prekių pagaminimo
-pateikti akcizų deklaraciją ir joje deklaruoti mokėtiną už taip pagamintas
-prekes akcizų sumą, apskaičiuotą taikant akcizų tarifus, galiojusius prekių
-pagaminimo dieną. Šios dalies nuostatos netaikomos tais atvejais, kai taip
-pagamintos prekės pagal šio Įstatymo nuostatas atleidžiamos nuo akcizų.
+pateikti akcizų deklaraciją ir joje deklaruoti mokėtiną už taip pagamintas prekes
+akcizų sumą, apskaičiuotą taikant akcizų tarifus, galiojusius prekių pagaminimo
+dieną. Šios dalies nuostatos netaikomos tais atvejais, kai taip pagamintos
+prekės pagal šio Įstatymo nuostatas atleidžiamos nuo akcizų.
 6. Panaikinus leidimą
 steigti akcizais apmokestinamų prekių sandėlį, akcizų deklaracijoje, teikiamoje
 už mokestinį laikotarpį, kurį baigėsi šio Įstatymo 6 straipsnio 8 dalyje
@@ -480,7 +489,14 @@ nėra akcizais apmokestinamų prekių sandėlio savininkas, – į to, kurio
 teritorijoje jis įregistruotas mokesčio mokėtoju. Mokėtina akcizų suma,
 apskaičiuota šio Įstatymo 9 straipsnio 5 dalyje nurodytu atveju, turi būti
 sumokėta tą pačią dieną, kurią turi būti pateikta akcizų deklaracija.
-2. Vyriausybė ar jos
+2.
+Jeigu vienas savininkas turi kelis akcizais apmokestinamų prekių sandėlius,
+kuriuose vykdoma mažmeninė prekyba skirtais naudoti kaip degalai (variklių
+kuras) naftos dujomis ir dujiniais angliavandeniliais, už mokestinį laikotarpį
+mokėtina akcizų suma turi būti sumokėta į to vietos mokesčio administratoriaus
+surenkamąją sąskaitą, kurio teritorijoje jis yra įregistruotas mokesčio
+mokėtoju.
+3. Vyriausybė ar jos
 įgaliota institucija turi teisę nustatyti už mokestinį laikotarpį mokėtinos
 akcizų sumos ribą, ir tuo atveju, jeigu už konkretų akcizais apmokestinamų
 prekių sandėlį teikiamoje akcizų deklaracijoje apskaičiuota už mokestinį
@@ -494,9 +510,12 @@ mokestinio laikotarpio dešimtadienį – iki to paties mėnesio paskutinės die
 3) už likusią
 mokestinio laikotarpio dalį – iki šio Įstatymo 8 straipsnio 1 dalyje nurodyto
 akcizų deklaracijos pateikimo termino pabaigos.
-3. Už išleistas
+4. Už išleistas
 laisvai cirkuliuoti importuotas akcizais apmokestinamas prekes akcizai mokami
 Vyriausybės nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. IX-993,
+2002-06-27, Žin., 2002, Nr. 66-2706 (2002-06-29)
  
 11 straipsnis. Apskaičiuotos akcizų sumos nurodymas
 prekių pardavimo 
@@ -526,9 +545,15 @@ administratoriaus nustatytos formos akcizais apmokestinamų prekių gabenimo
 dokumentas. Vieną jo egzempliorių privalo pasirašytinai patvirtinti gavėjo
 savininko ir vietos mokesčio administratoriaus, kurio veiklos teritorijoje yra
 gavėjas, įgalioti asmenys. Šis egzempliorius turi būti grąžintas siuntėjo
-savininkui. Akcizais apmokestinamų prekių gabenimo dokumento pildymo ir
-įforminimo tvarką, taip pat šio dokumento blanko reikalavimus nustato centrinis
-mokesčio administratorius. 
+savininkui. Kai akcizais apmokestinamos prekės (naftos dujos ir dujiniai
+angliavandeniliai, skirti naudoti kaip degalai) gabenamos į akcizais
+apmokestinamų prekių sandėlius, kuriuose vykdoma mažmeninė prekyba skirtais
+naudoti kaip degalai (variklių kuras) naftos dujomis ir dujiniais
+angliavandeniliais, vietos mokesčio administratoriaus įgalioti asmenys akcizais
+apmokestinamų prekių gabenimo dokumento egzemplioriaus pasirašytinai
+netvirtina. Akcizais apmokestinamų prekių gabenimo dokumento pildymo ir įforminimo
+tvarką, taip pat šio dokumento blanko reikalavimus nustato centrinis mokesčio
+administratorius.
 3. Jeigu gautas
 akcizais apmokestinamų prekių kiekis nesutampa su išgabenant šias prekes
 išrašytame akcizais apmokestinamų prekių gabenimo dokumente nurodytu kiekiu,
@@ -557,11 +582,11 @@ akcizų mokėjimo laikino atidėjimo režimą iš jo išgabentos akcizais
 apmokestinamos prekės, kurių gavimas, praradimas dėl nenugalimos jėgos (force
 majeure) aplinkybių ar grąžinimas paskutinio mokestinio laikotarpio, už
 kurį šio Įstatymo nustatyta tvarka privaloma teikti akcizų deklaraciją,
-paskutinę dieną nėra patvirtintas arba įrodytas šiame straipsnyje nustatyta tvarka
-ir už kurias akcizai dar nebuvo sumokėti, turi būti deklaruojamos paskutinėje
-už šį sandėlį pateikiamoje akcizų deklaracijoje kaip akcizais apmokestinamos
-prekės, kurioms per mokestinį laikotarpį buvo panaikintas akcizų mokėjimo
-laikino atidėjimo režimas. 
+paskutinę dieną nėra patvirtintas arba įrodytas šiame straipsnyje nustatyta
+tvarka ir už kurias akcizai dar nebuvo sumokėti, turi būti deklaruojamos
+paskutinėje už šį sandėlį pateikiamoje akcizų deklaracijoje kaip akcizais
+apmokestinamos prekės, kurioms per mokestinį laikotarpį buvo panaikintas akcizų
+mokėjimo laikino atidėjimo režimas. 
 6. Mokestinių
 prievolių, galinčių atsirasti gabenimo taikant prekėms akcizų mokėjimo laikino
 atidėjimo režimą metu, įvykdymas turi būti užtikrintas, jeigu šiame straipsnyje
@@ -588,8 +613,8 @@ savininkas vietos mokesčio administratoriui pateikia patvirtintą šio straipsn
 2 dalyje nurodyto dokumento egzempliorių, o jame nėra žymų apie nustatytus
 kiekio trūkumus. Jeigu patvirtintame egzemplioriuje yra tokių žymų, piniginis
 užstatas grąžinamas arba laidavimo dokumentas panaikinamas ne anksčiau, negu už
-šiuos trūkumus šio Įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka sumokami
-turimi mokėti akcizai;
+šiuos trūkumus šio Įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka
+sumokami turimi mokėti akcizai;
 2) Vyriausybės ar jos
 įgaliotos institucijos nustatyta tvarka įrodoma, kad išgabentos prekės, kurioms
 buvo taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo metu
@@ -603,11 +628,10 @@ aktų nustatyta tvarka sumokami turimi mokėti akcizai;
 4) kai už prekes,
 išgabentas taikant akcizų mokėjimo laikino atidėjimo režimą, sumokami šiame
 Įstatyme nustatyto dydžio akcizai.
-9. Akcizų
-deklaracijos priede, kurio formą nustato centrinis mokesčio administratorius,
-deklaruojami duomenys apie visus per mokestinį laikotarpį įvykusius akcizais
-apmokestinamų prekių išgabenimo taikant akcizų mokėjimo laikino atidėjimo
-režimą atvejus. 
+9. (Neteko galios)
+Straipsnio pakeitimai:
+Nr. IX-993,
+2002-06-27, Žin., 2002, Nr. 66-2706 (2002-06-29)
  
 13 straipsnis. Atvejai, kai akcizais apmokestinamos
 prekės atleidžiamos nuo akcizų 
@@ -616,9 +640,9 @@ atleidžiamos akcizais apmokestinamos prekės, jeigu jos:
 1) eksportuotos;
 2) skirtos užsienio
 šalių diplomatinių ir konsulinių atstovybių veiklai;
-3) atgabenamos keleivių
-asmeniniame bagaže ir neviršija Vyriausybės nustatytų kiekių, kuriuos fiziniams
-asmenimis (keleiviams) leista įvežti be importo mokesčių;
+3) atgabenamos
+keleivių asmeniniame bagaže ir neviršija Vyriausybės nustatytų kiekių, kuriuos
+fiziniams asmenimis (keleiviams) leista įvežti be importo mokesčių;
 4) pagal Muitinės
 kodeksą neapmokestinamos importo mokesčiais;
 5) Vyriausybės ar jos
@@ -637,28 +661,40 @@ panaikinta. Tokiu atveju importuotojas privalo pateikti muitinei, įforminusiai
 išleidimo laisvai cirkuliuoti procedūrą, vietos mokesčio administratoriaus,
 kurio veiklos teritorijoje yra akcizais apmokestinamų prekių sandėlis, įgalioto
 asmens patvirtintą pažymą, kad prekės, už kurias apskaičiuotą importo akcizų
-sumą prašoma grąžinti arba panaikinti, gautos akcizais apmokestinamų prekių
+sumą prašoma grąžinti arba panaikinti, yra gautos akcizais apmokestinamų prekių
 sandėlyje. Importo akcizų suma grąžinama arba akcizas panaikinamas tik už
-faktiškai akcizais apmokestinamų prekių sandėlyje gautą prekių kiekį, kuris
-nurodomas pažymoje. Akcizais apmokestinamų prekių sandėlyje gavus prekes, už
+faktiškai akcizais apmokestinamų prekių sandėlyje gautą prekių kiekį, taip pat
+už prekių kiekį, prarastą gabenimo į akcizais apmokestinamų prekių sandėlį
+metu, neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų
+natūralios netekties dėl prekių transportavimo normų, ir prekes, prarastas dėl
+nenugalimos jėgos (force majeure) aplinkybių, jeigu tai įrodyta
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, taip pat už kiekio,
+už kurį buvo apskaičiuoti importo akcizai, ir faktiškai akcizais apmokestinamų
+prekių sandėlyje gauto kiekio skirtumus, kurie neviršija teisės aktų nustatytų
+matavimo prietaisų leistinų paklaidų. Prekių kiekis, už kurį apskaičiuota
+importo akcizų suma grąžinama ar akcizas panaikinamas, nurodomas šioje dalyje
+nurodytoje pažymoje. Akcizais apmokestinamų prekių sandėlyje gavus prekes, už
 kurias importo akcizai buvo grąžinti (panaikinti), laikoma, kad šioms prekėms
+(išskyrus šioje dalyje nurodytas netektis, praradimus ir kiekio skirtumus)
 pradėtas taikyti akcizų mokėjimo laikino atidėjimo režimas. Vyriausybė ar jos
 įgaliota institucija nustato šios straipsnio dalies nuostatų taikymo ir importo
-akcizų grąžinimo (panaikinimo) tvarką. 
-3. Kiti atvejai, kai atskiros
-akcizais apmokestinamos prekės atleidžiamos nuo akcizų, nustatyti šio Įstatymo
-specialiosiose nuostatose.
-4. Jeigu už šio
-straipsnio 1 dalyje nurodytas akcizais apmokestinamas prekes akcizai buvo
-sumokėti, jie grąžinami Vyriausybės ar jos įgaliotos institucijos nustatyta
-tvarka. 
+akcizų grąžinimo (panaikinimo) tvarką.
+3. Kiti atvejai, kai
+atskiros akcizais apmokestinamos prekės atleidžiamos nuo akcizų, nustatyti šio
+Įstatymo specialiosiose nuostatose.
+4. Jeigu už šio straipsnio
+1 dalyje nurodytas akcizais apmokestinamas prekes akcizai buvo sumokėti, jie
+grąžinami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
+Straipsnio pakeitimai:
+Nr. IX-993, 2002-06-27,
+Žin., 2002, Nr. 66-2706 (2002-06-29)
  
 14 straipsnis.
 Nepagrįstai sumokėtų (išieškotų) akcizų grąžinimas
 1. Sumokėta
 (išieškota) per didelė akcizų suma grąžinama (įskaitoma) Mokesčių
-administravimo įstatymo nustatyta tvarka, išskyrus šio straipsnio 2 dalyje nurodytą
-atvejį.
+administravimo įstatymo nustatyta tvarka, išskyrus šio straipsnio 2 dalyje
+nurodytą atvejį.
 2. Už importuojamas
 prekes sumokėti akcizai grąžinami arba atsisakoma juos išieškoti Muitinės
 kodekso nustatytais atvejais. Prašymai grąžinti sumokėtus akcizus arba
@@ -681,8 +717,8 @@ Atsakomybė
 1. Akcizais
 apmokestinamų prekių sandėlio savininkas už šio Įstatymo pažeidimus atsako
 Mokesčių administravimo įstatymo ir kitų įstatymų nustatyta tvarka.
-2. Kiti asmenys už
-šio Įstatymo pažeidimus atsako įstatymų nustatyta tvarka. Už reikalavimo šio
+2. Kiti asmenys už šio
+Įstatymo pažeidimus atsako įstatymų nustatyta tvarka. Už reikalavimo šio
 Įstatymo 4 straipsnio 1 dalyje nurodyta veikla verstis tik akcizais
 apmokestinamų prekių sandėlyje nevykdymą taikomos įstatymų nustatytos
 sankcijos. 
@@ -710,14 +746,14 @@ litų už 1 procentą faktinės alkoholio koncentracijos, išreikštos tūrio
 procentais, akcizo tarifas, kuris nustatomas už produkto hektolitrą. 
 2. Mažos alų
 gaminančios įmonės (toliau – mažosios alaus daryklos) 100 tūkst. dekalitrų per
-metus realizuoto alaus taikomas 50 procentų mažesnis akcizo tarifas, negu nustatytas
-šio straipsnio 1 dalyje. Šiame Įstatyme mažąja alaus darykla, kuriai taikoma ši
-lengvata, laikoma per kalendorinius metus ne daugiau kaip 800 tūkst. dekalitrų
-alaus pagaminanti įmonė, pagal Vyriausybės ar jos įgaliotos institucijos
-nustatytus kriterijus pripažįstama teisiškai ir ekonomiškai nepriklausančia nuo
-bet kurios kitos alų gaminančios įmonės, o jos gamybinės patalpos yra fiziškai
-atskirtos nuo bet kurios kitos alų gaminančios įmonės. Šios lengvatos taikymo
-tvarką nustato Vyriausybė ar jos įgaliota institucija. 
+metus realizuoto alaus taikomas 50 procentų mažesnis akcizo tarifas, negu
+nustatytas šio straipsnio 1 dalyje. Šiame Įstatyme mažąja alaus darykla, kuriai
+taikoma ši lengvata, laikoma per kalendorinius metus ne daugiau kaip 800 tūkst.
+dekalitrų alaus pagaminanti įmonė, pagal Vyriausybės ar jos įgaliotos
+institucijos nustatytus kriterijus pripažįstama teisiškai ir ekonomiškai
+nepriklausančia nuo bet kurios kitos alų gaminančios įmonės, o jos gamybinės
+patalpos yra fiziškai atskirtos nuo bet kurios kitos alų gaminančios įmonės.
+Šios lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija. 
 3. Akcizo už alų
 apskaičiavimo pagal faktinę alkoholio koncentraciją taisykles nustato
 Vyriausybė ar jos įgaliota institucija.
@@ -749,9 +785,8 @@ gruodžio 31 d. imtinai – 250 litų už produkto hektolitrą, nuo 2004 m. saus
 d. – 150 litų už produkto hektolitrą;
 2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija,
 išreikšta tūrio procentais, yra didesnė kaip 15 procentų tūrio: iki 2003 m.
-gruodžio 
-31 d. imtinai – 370 litų už produkto hektolitrą, nuo 2004 m. sausio 1 d. – 230
-litų už produkto hektolitrą.
+gruodžio 31 d. imtinai – 370 litų už produkto hektolitrą, nuo 2004 m. sausio 1
+d. – 230 litų už produkto hektolitrą.
 2. Tarpiniams produktams, kurie atitinka Vyriausybės ar jos įgaliotos
 institucijos patvirtintą vaisių-uogų vynų apibūdinimą, taip pat tarpiniams
 produktams, pagamintiems iš midaus, taikomi tokie akcizo tarifai:
@@ -826,11 +861,11 @@ mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį, nurodyt
 akcizų mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį ir
 (arba) alkoholinius gėrimus, skirtus šio straipsnio 1 dalies 5–8 punktuose
 nurodytiems tikslams, akcizai turi būti apskaičiuoti ir sumokėti šio Įstatymo
-nustatyta tvarka, o nurodytos lengvatos taikomos grąžinant šiuose punktuose
-nurodyto etilo alkoholio ir (arba) alkoholinių gėrimų pirkėjui arba
-importuotojui akcizus, kuriuos šis asmuo sumokėjo įsigydamas iš tiekėjo (akcizų
-mokėtojo) arba importuodamas šį etilo alkoholį ir (arba) alkoholinius gėrimus.
-Šio straipsnio 1 dalies 3–8 punktuose nurodytų lengvatų taikymo tvarką nustato
+nustatyta tvarka, o nurodytos lengvatos taikomos grąžinant šiuose punktuose nurodyto
+etilo alkoholio ir (arba) alkoholinių gėrimų pirkėjui arba importuotojui
+akcizus, kuriuos šis asmuo sumokėjo įsigydamas iš tiekėjo (akcizų mokėtojo)
+arba importuodamas šį etilo alkoholį ir (arba) alkoholinius gėrimus. Šio
+straipsnio 1 dalies 3–8 punktuose nurodytų lengvatų taikymo tvarką nustato
 Vyriausybė ar jos įgaliota institucija.]
 Straipsnio
 pakeitimai:
@@ -926,9 +961,10 @@ gazoliams (buitiniam krosnių kurui), pažymėtiems šio Įstatymo 37 straipsnyj
 nustatyta tvarka, taikomas 80 litų už toną produkto akcizo tarifas.
 3. Gazolių ir
 biologinės kilmės žaliavų mišiniams, pagamintiems laikantis Biokuro įstatymo ir
-jo įgyvendinimą reglamentuojančių teisės aktų reikalavimų, taikomas šiame straipsnyje
-tiems gazoliams nustatytas akcizo tarifas, sumažintas dalimi, proporcingai
-atitinkančia biologinės kilmės priemaišų dalį (procentais) tonoje produkto.
+jo įgyvendinimą reglamentuojančių teisės aktų reikalavimų, taikomas šiame
+straipsnyje tiems gazoliams nustatytas akcizo tarifas, sumažintas dalimi,
+proporcingai atitinkančia biologinės kilmės priemaišų dalį (procentais) tonoje
+produkto.
  
 32 straipsnis. Skystajam kurui (mazutams), jo
 pakaitalams ir priedams taikomi 
@@ -989,11 +1025,10 @@ kodus pagal KPN nustato Vyriausybė;
 3) šio Įstatymo 29–33
 straipsniuose nurodyti produktai, kai jie naudojami kitiems tikslams negu kaip
 degalai (variklių kuras), kuras šildymui arba degalų (variklių kuro) priedai;
-4) kuras,
-sunaudojamas akcizais apmokestinamų prekių sandėlio, kuriame šis kuras
-gaminamas, teritorijoje šio kuro gamybos procese, išskyrus kurą, sunaudojamą
-gamintojo reikmėms kaip degalai (variklių kuras), kuriam akcizai taikomi bendra
-tvarka;
+4) kuras, sunaudojamas
+akcizais apmokestinamų prekių sandėlio, kuriame šis kuras gaminamas,
+teritorijoje šio kuro gamybos procese, išskyrus kurą, sunaudojamą gamintojo
+reikmėms kaip degalai (variklių kuras), kuriam akcizai taikomi bendra tvarka;
 5) mineralinio kuro
 (variklių benzino ir (arba) gazolių) ir biologinės kilmės žaliavų mišiniai,
 kuriuos pasigamina fizinis asmuo ar žemės ūkio subjektas su sąlyga, kad šie
@@ -1043,8 +1078,8 @@ lengvata, įstatymų nustatyta tvarka taikomos sankcijos.
 III SKYRIUS 
 BAIGIAMOSIOS NUOSTATOS
  
-38 straipsnis.
-Įskaitymas į biudžetą
+38 straipsnis. Įskaitymas
+į biudžetą
 Akcizai įskaitomi į
 valstybės biudžetą.
  
@@ -1081,10 +1116,10 @@ straipsnio 1 dalies 6 punktas įsigalioja nuo 2003 m. sausio 1 d.
 straipsnis galioja iki 2002 m. gruodžio 31 d. imtinai.
 5. Asmenims, kurie
 iki šio Įstatymo įsigaliojimo pradėjo verstis veikla, pagal šio Įstatymo 4
-straipsnio 1 dalies nuostatas leidžiama tik akcizais apmokestinamų prekių
-sandėlyje, leidimai steigti akcizais apmokestinamų prekių sandėlį (sandėlius)
-išduodami laikantis Vyriausybės ar jos įgaliotos institucijos nustatytos
-specialios tvarkos. 
+straipsnio 1 dalies nuostatas leidžiama tik akcizais apmokestinamų prekių sandėlyje,
+leidimai steigti akcizais apmokestinamų prekių sandėlį (sandėlius) išduodami
+laikantis Vyriausybės ar jos įgaliotos institucijos nustatytos specialios
+tvarkos. 
 6. Pasiūlyti
 Vyriausybei iki 2002 m. kovo 1 d. patvirtinti teisės aktus, reikalingus šiam
 Įstatymui įgyvendinti, arba įgalioti kitas institucijas tai padaryti iki
@@ -1142,15 +1177,14 @@ pakeitimo ir papildymo įstatymas (Žin., 1999, Nr. 113-3289);
 17) Lietuvos
 Respublikos akcizų įstatymo 2, 5, 6 straipsnių pakeitimo ir papildymo įstatymas
 (Žin., 2000, Nr. 22-554);
-18) Lietuvos
-Respublikos akcizų įstatymo 6 straipsnio pakeitimo įstatymas (Žin., 2000, Nr.
-61-1820);
+18) Lietuvos Respublikos
+akcizų įstatymo 6 straipsnio pakeitimo įstatymas (Žin., 2000, Nr. 61-1820);
 19) Lietuvos
 Respublikos akcizų įstatymo 3 ir 6 straipsnių pakeitimo ir papildymo įstatymas
 ( Žin., 2000, Nr. 64-1941);
 20) Lietuvos
-Respublikos akcizų įstatymo 2, 3, 5, 5(1) straipsnių
-pakeitimo ir papildymo įstatymas ( Žin., 2001, Nr. 14-425);
+Respublikos akcizų įstatymo 2, 3, 5, 5(1)
+straipsnių pakeitimo ir papildymo įstatymas ( Žin., 2001, Nr. 14-425);
 21) Lietuvos
 Respublikos akcizų įstatymo 6 straipsnio papildymo įstatymas (Žin., 2001, Nr.
 16-494);
@@ -1190,11 +1224,19 @@ AKCIZŲ
 Šis
 Įstatymas įsigalioja nuo 2002 m. liepos 1 d.
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-993,
+2002-06-27, Žin., 2002, Nr. 66-2706 (2002-06-29)
+AKCIZŲ
+ĮSTATYMO 8, 10, 12, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-06-12)
-                 
-autrap@lrs.lt
+Aušrinė Trapinskienė (2002-07-01)
+                  autrap@lrs.lt
