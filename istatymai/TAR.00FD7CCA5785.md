@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.00FD7CCA5785"
 
 # Lietuvos Respublikos Ignalinos atominės elektrinės eksploatavimo nutraukimo įstatymas
 
+Suvestinė redakcija nuo 2000-06-30 iki 2005-06-06
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 42-1189, i. k. 1001010ISTAIII-1661
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS ĮMONĖS IGNALINOS ATOMINĖS ELEKTRINĖS PIRMOJO BLOKO EKSPLOATAVIMO NUTRAUKIMO
 ĮSTATYMAS
@@ -25,7 +29,9 @@ Vilnius
 
 PREAMBULĖ
  
-Ignalinos atominė elektrinė buvo statyta didelės dalies Rytų Europos šalių energetikos problemoms spręsti, todėl šios elektrinės uždarymas yra ne tik Lietuvos, bet ir tarptautinė problema. Įstatymas priimamas remiantis Nacionaline energetikos strategija.
+Ignalinos atominės elektrinės uždarymas yra ne tik Lietuvos, bet ir tarptautinė problema. Įstatymas priimamas remiantis Nacionaline energetikos strategija.
+Skirsnio pakeitimai:
+Nr. VIII-1747, 2000-06-22, Žin., 2000, Nr. 53-1523 (2000-06-30), i. k. 1001010ISTAIII-1747
  
 
 
@@ -233,3 +239,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1747, 2000-06-22, Žin., 2000, Nr. 53-1523 (2000-06-30), i. k. 1001010ISTAIII-1747
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės pirmojo bloko eksploatavimo nutraukimo įstatymo preambulės pakeitimo įstatymas
