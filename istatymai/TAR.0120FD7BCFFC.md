@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 2003-12-10 iki 2004-09-03
+Suvestinė redakcija nuo 2004-09-04 iki 2005-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
  
@@ -35,7 +35,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Lietuvos Respublikos teritorijos administraciniai vienetai ir gyvenamosios vietovės
 
 
-Lietuvos Respublikos teritorija skirstoma į administracinius vienetus, kurie susideda iš gyvenamųjų vietovių. Lietuvos Respublikos teritorijos administracinis vienetas yra teritorijos dalis, kurioje valdymą organizuoja Lietuvos Respublikos Vyriausybė arba savivaldos institucijos.
+Lietuvos Respublikos teritorija skirstoma į administracinius vienetus, kurie susideda iš gyvenamųjų vietovių. Lietuvos Respublikos teritorijos administracinis vienetas yra teritorijos dalis, kurioje valdymą organizuoja Lietuvos Respublikos Vyriausybė arba savivaldybės institucijos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
+ 
 
 
 
@@ -68,7 +71,10 @@ Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA
 2 straipsnis. Lietuvos Respublikos teritorijos administracinių vienetų samprata
 
 
-Savivaldybė yra Lietuvos Respublikos teritorijos administracinis vienetas, kurį valdo jos gyventojų bendruomenės išrinktos savivaldos institucijos pagal Lietuvos Respublikos vietos savivaldos įstatymą ir kitus įstatymus. Savivaldybė sudaroma iš gyvenamųjų vietovių. Pagrindiniai savivaldybės steigimo kriterijai yra jos pasirengimas tvarkyti ir prižiūrėti savo aplinką, komunalinį ūkį, teikti gyventojams paslaugas ir vykdyti kitas funkcijas, numatytas Lietuvos Respublikos vietos savivaldos įstatyme.
+Savivaldybė yra Lietuvos Respublikos teritorijos administracinis vienetas, kurį valdo jos gyventojų bendruomenės išrinkta savivaldybės taryba pagal Lietuvos Respublikos vietos savivaldos įstatymą ir kitus įstatymus. Savivaldybė sudaroma iš gyvenamųjų vietovių. Jos teritorija gali būti skirstoma į seniūnijų aptarnaujamas teritorijas. Pagrindiniai savivaldybės steigimo kriterijai yra jos pasirengimas tvarkyti ir prižiūrėti savo aplinką, komunalinį ūkį, teikti gyventojams paslaugas ir vykdyti kitas funkcijas, numatytas Lietuvos Respublikos vietos savivaldos įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
+ 
 
 
 
@@ -86,7 +92,12 @@ Apskritis sudaroma iš savivaldybių teritorijų, pasižyminčių socialinių, e
 
 
 
-3 straipsnis. Lietuvos Respublikos teritorijos gyvenamųjų vietovių samprata
+3 straipsnis. Lietuvos Respublikos seniūnijų aptarnaujamų teritorijų ir gyvenamųjų vietovių samprata
+
+
+Seniūnijos aptarnaujama teritorija yra savivaldybės teritorijos dalis, susidedanti iš gyvenamųjų vietovių ar dalies miesto teritorijos. Seniūnija turi savo aptarnaujamos teritorijos ribas ir pavadinimą.
+
+
 
 
 Miestai yra kompaktiškai užstatytos gyvenamosios vietovės, turinčios daugiau kaip 3 tūkst. gyventojų, kurių daugiau kaip 2/3 dirbančiųjų dirba pramonėje, verslo bei gamybinės ir socialinės infrastruktūros srityse.
@@ -104,25 +115,22 @@ Miesteliai yra kompaktiškai užstatytos gyvenamosios vietovės, turinčios nuo 
 
 
 
-Kaimai yra kitos gyvenamosios vietovės, neturinčios miesto ir miestelio požymių.
+Kaimai yra kitos gyvenamosios vietovės, neturinčios miesto ir miestelio požymių. 
 
 
 
 
-Gyvenamosios vietovės, kuriose yra gamtinių gydomųjų veiksnių (mineralinių vandenų, gydomojo purvo, sveikatai palankus klimatas, rekreacinių želdinių, vandens telkinių) bei speciali infrastruktūra šiems veiksniams naudoti gydymui, profilaktikai ir poilsiui, gali turėti kurorto statusą
-Papildyta straipsnio dalimi:
-Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
+Gyvenamosios vietovės, kuriose yra gamtinių gydomųjų veiksnių (mineralinių vandenų, gydomojo purvo, sveikatai palankus klimatas, rekreacinių želdinių, vandens telkinių) bei speciali infrastruktūra šiems veiksniams naudoti gydymui, profilaktikai ir poilsiui, gali turėti kurorto statusą.
+
+
+
+
+Kurorto statusą turi Birštonas, Druskininkai, Neringa, Palanga. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
  
-
-
-
-
-Kurorto statusą turi Birštonas, Druskininkai, Neringa, Palanga.
-Papildyta straipsnio dalimi:
-Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
- 
-
-
 
 
 
@@ -258,9 +266,9 @@ Nr. VIII-1492, 1999-12-21, Žin., 1999, Nr. 109-3176 (1999-12-24), i. k. 0991010
 
 
 III SKYRIUS
-LIETUVOS RESPUBLIKOS TERITORIJOS
-ADMINISTRACINIŲ VIENETŲ IR GYVENAMŲJŲ VIETOVIŲ
-NUSTATYMAS IR JŲ RIBŲ KEITIMAS
+LIETUVOS RESPUBLIKOS TERITORIJOS ADMINISTRACINIŲ VIENETŲ, SENIŪNIJŲ APTARNAUJAMŲ TERITORIJŲ IR GYVENAMŲJŲ VIETOVIŲ NUSTATYMAS IR JŲ RIBŲ KEITIMAS 
+Pakeistas skyriaus pavadinimas:
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
  
 
 
@@ -283,6 +291,24 @@ Savivaldybes steigia, esamas panaikina, taip pat jų teritorijų ribas bei centr
 
 Straipsnio pakeitimai:
 Nr. VIII-1163, 1999-05-04, Žin., 1999, Nr. 43-1362 (1999-05-19), i. k. 0991010ISTAIII-1163
+ 
+
+
+
+
+71 straipsnis. Seniūnijų aptarnaujamų teritorijų ribų nustatymas ir keitimas
+
+
+Seniūnijų aptarnaujamų teritorijų ribas nustato ir keičia savivaldybės taryba.
+
+
+
+
+Seniūnijų aptarnaujamų teritorijų ribų nustatymo ir keitimo, dokumentų pateikimo Lietuvos Respublikos adresų registro tvarkymo įstaigai tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė. 
+
+
+Papildyta straipsniu:
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
  
 
 
@@ -333,14 +359,19 @@ Nr. IX-1839, 2003-11-20, Žin., 2003, Nr. 115-5194 (2003-12-10), i. k. 1031010IS
 
 
 
-Valstybinės nuosavybės objektams pavadinimus suteikia ir juos keičia Lietuvos Respublikos Vyriausybė.
+Valstybės nuosavybės objektams pavadinimus suteikia ir juos keičia Lietuvos Respublikos Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
+ 
 
 
 
 
-Gyvenamųjų vietovių gatvėms priskirtų pastatų bei gyvenamųjų namų butų numerius suteikia ir keičia vietos savivaldos vykdomosios institucijos. Numerių suteikimo, keitimo ir apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė
+Gyvenamųjų vietovių gatvėms ar gyvenamosioms vietovėms priskirtų pastatų ir šių pastatų butų ar patalpų numerius suteikia ir keičia savivaldybės vykdomoji institucija. Numerių suteikimo, keitimo ir apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė. 
 Papildyta straipsnio dalimi:
 Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
+Straipsnio dalies pakeitimai:
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
  
 
 
@@ -380,30 +411,34 @@ Nr. VIII-1163, 1999-05-04, Žin., 1999, Nr. 43-1362 (1999-05-19), i. k. 0991010I
 
 
 V SKYRIUS
-LIETUVOS RESPUBLIKOS TERITORIJOS
-ADMINISTRACINIŲ VIENETŲ IR GYVENAMŲJŲ VIETOVIŲ
-REGISTRAVIMAS IR APSKAITA
+LIETUVOS RESPUBLIKOS TERITORIJOS ADMINISTRACINIŲ VIENETŲ, SENIŪNIJŲ IR GYVENAMŲJŲ VIETOVIŲ REGISTRAVIMAS IR APSKAITA 
+Pakeistas skyriaus pavadinimas:
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
  
 
 
 11 straipsnis. Apskričių, savivaldybių registravimas ir apskaita
 
 
-Remiantis šiuo įstatymu nustatytos apskritys ir savivaldybės registruojamos, o jų teritorijų pakeitimai apskaitomi Lietuvos Respublikos teritorijos administracinių vienetų ir gyvenamųjų vietovių rejestre Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Remiantis šiuo įstatymu įsteigtos apskritys ir savivaldybės registruojamos, o jų teritorijų pakeitimai apskaitomi Lietuvos Respublikos adresų registre Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
  
 
 
 
 
+12 straipsnis. Seniūnijų ir gyvenamųjų vietovių registravimas ir apskaita
 
 
-12 straipsnis. Gyvenamųjų vietovių registravimas ir apskaita
+Lietuvos Respublikos seniūnijos ir gyvenamosios vietovės registruojamos, o jų teritorijų arba pavadinimų pakeitimai apskaitomi Lietuvos Respublikos adresų registre Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
 
 
-Lietuvos Respublikos gyvenamosios vietovės registruojamos, o jų teritorijų arba pavadinimų pakeitimai apskaitomi Lietuvos Respublikos teritorijos administracinių vienetų ir gyvenamųjų vietovių rejestre Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
  
-
-
 
 
 
@@ -424,7 +459,10 @@ Vietos gyventojų apklausos tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 
 
-Vyriausybės įgaliota institucija, teikdama išvadą dėl teritorijos administracinių vienetų steigimo, jų ribų nustatymo ar keitimo, pateikia vietos gyventojų apklausos rezultatus, jų prašymus bei savivaldybės tarybos siūlymus, įvertina gyvenamosios vietovės bendruomenės ir savivaldybės tarybos nuomonės pagrįstumą ir tikslingumą. Institucija taip pat pateikia pertvarkomų teritorijų administracinių vienetų 1:100000 mastelio planus (2 egzempliorius) su siūlomais pakeitimais, o jeigu keičiamos teritorijos ribos nesutampa su žemės naudotojų ribomis, – 1:10000 mastelio ribų planus (2 egzempliorius). Planai turi būti suderinti su apskrities viršininku bei Lietuvos Respublikos teritorijos administracinių vienetų ir gyvenamųjų vietovių rejestro tvarkytoju. 
+Vyriausybės įgaliota institucija, teikdama išvadą dėl teritorijos administracinių vienetų steigimo, jų ribų nustatymo ar keitimo, pateikia vietos gyventojų apklausos rezultatus, jų prašymus bei savivaldybės tarybos siūlymus, įvertina gyvenamosios vietovės bendruomenės ir savivaldybės tarybos nuomonės pagrįstumą ir tikslingumą. Institucija taip pat pateikia pertvarkomų teritorijų administracinių vienetų 1:50000 mastelio planus (2 egzempliorius) su siūlomais pakeitimais, o jeigu keičiamos teritorijos ribos nesutampa su žemės naudotojų ribomis, – 1:10000 mastelio ribų planus (2 egzempliorius). Planai turi būti suderinti su apskrities viršininku ir Lietuvos Respublikos adresų registro tvarkymo įstaiga.
+Straipsnio dalies pakeitimai:
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
+ 
 
 
 Straipsnio pakeitimai:
@@ -526,3 +564,8 @@ Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1839, 2003-11-20, Žin., 2003, Nr. 115-5194 (2003-12-10), i. k. 1031010ISTA0IX-1839
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 9, 11, 12, 13 straipsnių pakeitimo ir papildymo, III ir V skyrių pavadinimų pakeitimo ir Įstatymo papildymo 7(1) straipsniu įstatymas
