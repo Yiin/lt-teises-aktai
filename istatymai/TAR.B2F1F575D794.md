@@ -19,7 +19,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 
 
 Redagavo:
-Ramunė Lūžaitė (1997.10.29)
+Ramunė Lūžaitė (1998.01.19)
  
 Įstatymas
 paskelbtas: Žin., 1994,
@@ -49,6 +49,14 @@ VIII-444, 97.10.14, Žin., 1997, Nr.97-2441 (97.10.29)
 LIETUVOS
 RESPUBLIKOS KONSULINIO MOKESČIO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-601, 98.01.08, Žin., 1998, Nr.6-115 (98.01.16)
+LIETUVOS
+RESPUBLIKOS KONSULINIO MOKESČIO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -69,8 +77,8 @@ diplomatinių atstovybių ir konsulinių įstaigų užsienyje teikiamas konsulin
 paslaugas, atliekamus notarinius veiksmus ar išduodamus juridinę  galią
 turinčius dokumentus.
      Konsulinis
-mokestis imamas remiantis Lietuvos Respublikos sutartimis su  kitomis
-valstybėmis, šiuo įstatymu, Lietuvos Respublikos notariato įstatymu.
+mokestis imamas remiantis Lietuvos Respublikos sutartimis su  kitomis valstybėmis,
+šiuo įstatymu, Lietuvos Respublikos notariato įstatymu.
  
      2
 straipsnis. Mokesčio mokėtojai
@@ -110,15 +118,18 @@ Respublikos įstatymuose ir Lietuvos Respublikos Vyriausybės nutarimuose.
 straipsnis. Mokesčio tarifai
  
      Konsulinio
-mokesčio tarifus iki 1998 m. sausio 1 d. nustato Lietuvos Respublikos 
-Vyriausybė. Nuo  1998 metų konsulinio mokesčio tarifus tvirtina Lietuvos
-Respublikos Seimas.
+mokesčio tarifus nustato Lietuvos Respublikos Vyriausybė.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-601, 98.01.08, Žin., 1998, Nr.6-115 (98.01.16)
  
      5
 straipsnis. Mokesčio tikslinimas pariteto pagrindais
  
      Lietuvos
-Respublikos  Vyriausybė  turi  teisę  pariteto pagrindais padidinti, sumažinti
+Respublikos  Vyriausybė  turi  teisę  pariteto pagrindais padidinti, sumažinti
 arba panaikinti konsulinį mokestį už vizas, dokumentų pareikalavimą ir jų
 legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims,
 atsižvelgdama į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos
@@ -168,10 +179,11 @@ norinčių imigruoti asmenų iki 18 metų prašymų imigruoti per teisėtus atst
 dokumentų,  susijusių  su  alimentų  išieškojimu, pareikalavimą ir
 legalizavimą;
      12)
-įvairių  dokumentų  baudžiamosioms  byloms,  teismo išduodamų dokumentų  pareikalavimą 
-(jeigu  jų  pareikalauja valstybių, su  kuriomis Lietuvos Respublika yra
-pasirašiusi sutartis dėl  teisinės pagalbos,  valstybės institucijos ar
-piliečiai ir tose sutartyse tokia lengvata numatyta) ir jų legalizavimą;
+įvairių  dokumentų  baudžiamosioms  byloms,  teismo išduodamų dokumentų 
+pareikalavimą  (jeigu  jų  pareikalauja valstybių, su  kuriomis Lietuvos
+Respublika yra pasirašiusi sutartis dėl  teisinės pagalbos,  valstybės
+institucijos ar piliečiai ir tose sutartyse tokia lengvata numatyta) ir jų
+legalizavimą;
      13)
 konsulines paslaugas jūrų laivų, lėktuvų bei kitų Lietuvos Respublikos
 transporto priemonių ekipažo narių bei keleivių turtui, likusiam jiems mirus,
@@ -191,12 +203,12 @@ Respublikos diplomatinių atstovybių ar konsulinių įstaigų užsienio valstyb
 pareigūnų išduotus Lietuvos Respublikos užsienio reikalų ministerijos
 patvirtintos formos pažymėjimus;
 17) specialiųjų vizų išdavimą užsieniečiams,
-atvykstantiems dirbti pedagoginį darbą Lietuvos Respublikos aukštosiose, aukštesniosiose,
-profesinėse ir bendrojo lavinimo mokyklose;
-18) asmens grįžimo pažymėjimo išdavimą
-asmenims, kurie dėl svarbių priežasčių (nelaimingas atsitikimas, liga,
-nukentėjimas nuo nusikaltimo) negali sumokėti konsulinio mokesčio, pateikusiems
-oficialiai nukentėjimo faktą patvirtinantį dokumentą.
+atvykstantiems dirbti pedagoginį darbą Lietuvos Respublikos aukštosiose,
+aukštesniosiose, profesinėse ir bendrojo lavinimo mokyklose;
+18) asmens grįžimo pažymėjimo išdavimą asmenims,
+kurie dėl svarbių priežasčių (nelaimingas atsitikimas, liga, nukentėjimas nuo
+nusikaltimo) negali sumokėti konsulinio mokesčio, pateikusiems oficialiai
+nukentėjimo faktą patvirtinantį dokumentą.
  
 Straipsnio
 pakeitimai:
@@ -270,4 +282,4 @@ tarifus, mokėjimo ir grąžinimo tvarką.
  
  
 RESPUBLIKOS
-PREZIDENTAS                           ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                          ALGIRDAS BRAZAUSKAS
