@@ -280,6 +280,9 @@ tvarką pasirenka pati administravimo institucija, jei kitaip nenustato šis
 įstatymas ar jo pagrindu priimtas kitas teisės aktas. Tai gali būti:
 1) vidaus administravimo kontrolė,
 vykdoma pagal administracines pareigas ir vidaus reglamentavimo dokumentus;
+ 
+2 punkto
+redakcija iki 2004 m. sausio 1 d.:
 2) vidaus auditas, atliekamas
 administravimo institucijos auditoriaus ar audito įmonės jų nuostatuose
 nustatyta tvarka, turint tikslą patikrinti, ar viskas institucijoje vyksta
@@ -288,10 +291,29 @@ ir kontroliuojamas; ar sandorius vykdo atitinkamus įgaliojimus turintys
 asmenys; ar ištekliai tvarkomi ekonomiškai, o atliekamos finansinės ir
 organizacinės operacijos yra efektyvios; taip pat teikti vadovybei
 rekomendacijas administravimo kontrolei gerinti; 
+2 punkto
+redakcija nuo 2004 m. sausio 1 d.:
+2) finansų kontrolė ir  vidaus auditas,
+atliekamas Vidaus kontrolės ir vidaus audito įstatymo nustatyta tvarka;
+ 
+3 punkto
+redakcija iki 2004 m. sausio 1 d.:
 3) išorės auditas, atliekamas
 nepriklausomų auditorių arba audito įmonių, siekiant įvertinti administracinės
 veiklos kokybę bei efektyvumą, taip pat vidaus audito sistemos patikimumą ir
 teikti rekomendacijas jai gerinti.
+3 punkto
+redakcija nuo 2004 m. sausio 1 d.:
+3) išorės auditas, atliekamas Valstybės
+kontrolės pareigūnų ar savivaldybių kontrolierių (savivaldybių kontrolierių
+tarnybų) ir audito įmonių, siekiant įvertinti administracinės veiklos
+kokybę bei efektyvumą, taip pat vidaus kontrolės ir vidaus audito sistemos
+patikimumą ir įstatymų nustatyta tvarka teikti rekomendacijas jai gerinti.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1765,
+2003-10-14, Žin., 2003, Nr. 104-4637 (2003-11-05)
  
 14
 straipsnis. Viešųjų paslaugų teikimo administravimo reikalavimai
@@ -377,8 +399,8 @@ institucija privalo priimti asmenų prašymus ir juos nagrinėti pagal savo
 kompetenciją. Prašymo priėmimo faktas patvirtinamas atitinkamu dokumentu,
 kuriame nurodoma prašymo priėmimo data, valstybės tarnautojo, kuriam pavesta
 nagrinėti prašymą, vardas, pavardė, telefono numeris, prašymo registracijos
-numeris. Patvirtinimo dokumentas įteikiamas arba siunčiamas paštu prašymo
-pateikėjui. 
+numeris. Patvirtinimo dokumentas įteikiamas arba siunčiamas paštu prašymo pateikėjui.
+
 2. Jeigu institucija neįgaliota priimti
 sprendimo prašomu klausimu, ji ne vėliau kaip per 5 darbo dienas perduoda
 prašymą kompetentingai institucijai, apie tai pranešdama pareiškėjui. Kai
@@ -430,8 +452,8 @@ derinimo valstybės tarnyboje įstatymo nustatyta tvarka.
  
 22 straipsnis. Papildomos informacijos
 sprendimui priimti reikalavimas
-1.   Papildomos informacijos ar komentarų
-reikalavimas iš pareiškėjo turi būti pagrįstas ir motyvuotas.
+1.   Papildomos informacijos ar komentarų reikalavimas
+iš pareiškėjo turi būti pagrįstas ir motyvuotas.
 2. Papildomai informacijai pateikti turi
 būti nustatytas realus terminas. Pakartotinis papildomos informacijos
 reikalavimas galimas tik išimtiniais atvejais, atitinkamai motyvuojant, kodėl
@@ -482,10 +504,10 @@ pagal įstatymus negali būti vieša, pareiškėjui ir suinteresuotiems asmenims
 sudaroma galimybė susipažinti tik su patikrinimo rezultatais. Tikrinant
 faktinius duomenis, gali būti paprašyta paaiškinimų iš asmenų, turinčių
 reikalingos informacijos dėl tikrinamų faktinių duomenų. 
-2. Žodiniai pareiškimai arba žodžiu
-pateikti parodymai bei patikrinimo metu nustatyti faktiniai duomenys
-turi būti užfiksuoti patikrinimo akte (išvadoje) ir tikrintojų pasirašyti.
-Rašytiniai paaiškinimai pridedami prie patikrinimo akto. 
+2. Žodiniai pareiškimai arba žodžiu pateikti
+parodymai bei patikrinimo metu nustatyti faktiniai duomenys turi būti
+užfiksuoti patikrinimo akte (išvadoje) ir tikrintojų pasirašyti. Rašytiniai
+paaiškinimai pridedami prie patikrinimo akto. 
  
 27
 straipsnis. Teisė susipažinti su administravimo procedūros metu surinktais 
@@ -518,16 +540,16 @@ administraciniams sprendimams priimti
 Valstybės ar savivaldybės tarnautojas,
 atlikęs administracinę procedūrą, surašo raštišką teikimą ir perduoda jį
 institucijos vadovui sprendimui priimti. Teikime turi būti nurodytos visos
-faktinės aplinkybės sprendžiamu klausimu, teisės aktai, reglamentuojantys šį
-klausimą, siūlomo sprendimo projektas ir teikimo data. 
+faktinės aplinkybės sprendžiamu klausimu, teisės aktai, reglamentuojantys šį klausimą,
+siūlomo sprendimo projektas ir teikimo data. 
  
 31 straipsnis. Sprendimo priėmimas 
 1.   Sprendimas,
 atitinkantis šio įstatymo reikalavimus, turi būti priimtas ne vėliau kaip per
 10 dienų nuo teikimo gavimo dėl administracinio sprendimo datos. 
-2.   Jeigu per prašymo
-nagrinėjimo terminą, nustatytą šiame įstatyme, sprendimas nėra priimamas,
-laikoma, kad priimtas neigiamas sprendimas, kurį asmuo (pareiškėjas)
+2.   Jeigu per
+prašymo nagrinėjimo terminą, nustatytą šiame įstatyme, sprendimas nėra
+priimamas, laikoma, kad priimtas neigiamas sprendimas, kurį asmuo (pareiškėjas)
 turi teisę apskųsti Administracinių ginčų komisijai. 
 3. Administracinė procedūra baigiama
 priėmus sprendimą dėl prašymo patenkinimo ar dėl jo atmetimo ir informavus apie
@@ -623,8 +645,9 @@ BAIGIAMOSIOS NUOSTATOS
 taikymas 
 1. Šio įstatymo administracinių
 procedūrų nuostatos privalomos tik viešojo administravimo institucijoms ir
-įstaigoms, praktiškai įgyvendinančioms įstatymus ir valstybės vykdomosios valdžios
-priimtus teisės aktus, priimant, nagrinėjant ir sprendžiant asmenų prašymus.
+įstaigoms, praktiškai įgyvendinančioms įstatymus ir valstybės vykdomosios
+valdžios priimtus teisės aktus, priimant, nagrinėjant ir sprendžiant asmenų
+prašymus.
 2. Šio įstatymo trečiojo skirsnio
 „Administracinės procedūros ir prievolės“ nuostatos netaikomos Valstybės
 kontrolei, Seimo kontrolieriams, Vyriausybės atstovams apskrityse, Lietuvos
@@ -662,7 +685,7 @@ priimtą įstatymą.
 RESPUBLIKOS
 PREZIDENTAS                                                     VALDAS ADAMKUS
  
-___________________
+__________________
  
 Pakeitimai:
  
@@ -674,11 +697,21 @@ Nr. IX-1281,
 VIEŠOJO
 ADMINISTRAVIMO ĮSTATYMO 39 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1765,
+2003-10-14, Žin., 2003, Nr. 104-4637 (2003-11-05)
+VIEŠOJO
+ADMINISTRAVIMO ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-01-09)
+Aušrinė Trapinskienė (2003-11-06)
                  
 autrap@lrs.lt
