@@ -1803,6 +1803,13 @@ nariai
 
 
 
+   11.     Lietuvos
+Respublikos draudimo priežiūros komisija:
+ 11.1.     pirmininkas                                                                                                  12
+ 11.2.     pavaduotojai                                                                                                11
+ 11.3.   
+nariai                                                                                                            
+9,5
 Pastaba. Komisijų ir
 tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 apskaičiuojamas proporcingai dirbtam laikui.
@@ -1819,8 +1826,10 @@ Nr. IX-1012,
 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 Nr. IX-1045, 2002-07-05, Žin., 2002,
 Nr. 73-3104 (2002-07-19)
-Nr. IX-1390, 2003-03-25,
-Žin., 2003, Nr. 35-1464 (2003-04-11)
+Nr. IX-1390,
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
+Nr. IX-1738,
+2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
  
 __________________
  
@@ -1949,8 +1958,8 @@ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1520,
-2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
+IX-1520, 2003-04-22,
+Žin., 2003, Nr. 42-1920 (2003-05-01)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 3
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 5(1) STRAIPSNIU IR
@@ -1968,6 +1977,16 @@ VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 4
 STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
+15.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1738,
+2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
+VALSTYBĖS
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO
+PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
@@ -1979,9 +1998,9 @@ Lietuvos
 Respublikos Konstitucinis Teismas, Nutarimas
 2001-07-12, Žin.,
 2001, Nr. 62-2276 (2001-07-18)
-DĖL LIETUVOS
-RESPUBLIKOS VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO
-ĮSTATYMO 4 STRAIPSNIO 1 IR 2 DALIŲ, 5 STRAIPSNIO 1 IR 3 DALIŲ, 
+DĖL LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ, TEISĖJŲ IR
+VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 4 STRAIPSNIO 1 IR 2 DALIŲ, 5
+STRAIPSNIO 1 IR 3 DALIŲ, 
 7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO ĮSTATYMO PRIEDĖLIO II
 SKIRSNIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ
 BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6 PRIEDĖLIO, LIETUVOS
@@ -2004,6 +2023,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-06-20)
+Aušrinė Trapinskienė (2003-10-08)
                  
 autrap@lrs.lt
