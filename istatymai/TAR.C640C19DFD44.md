@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C640C19DFD44"
 
 # Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos
 
-Suvestinė redakcija nuo 1996-01-01 iki 1997-12-23
+Suvestinė redakcija nuo 1997-12-24 iki 1999-07-08
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 87-1954, i. k. 0951010ISTA00I-1047
  
@@ -89,15 +89,28 @@ Papildyta straipsnio dalimi:
 Nr. I-1163, 1995-12-28, Žin., 1995, Nr. 107-2399 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1163
  
 
+Aukštųjų ir aukštesniųjų mokyklų dieninių skyrių studentams, profesinių mokyklų dieninių skyrių moksleiviams, nuo rugsėjo 1 d. iki liepos 1 d. važiuojantiems vietinio susisiekimo traukiniais 2 ir 3 klasės sėdimuose vagonuose, pateikus Švietimo ir mokslo ministerijos nustatyto pavyzdžio pažymėjimus, taikoma 50 procentų bilieto vertės nuolaida.
+Papildyta straipsnio dalimi:
+Nr. VIII-578, 1997-12-09, Žin., 1997, Nr. 117-3014 (1997-12-24), i. k. 0971010ISTAVIII-578
+ 
+
 6 straipsnis. Nuostolių kompensavimo vežėjams tvarka ir šaltiniai
 
 Nuostoliai dėl lengvatų, nustatytų šio įstatymo 3 straipsnyje ir 4 straipsnio antrojoje dalyje, Lietuvos Respublikos vežėjams kompensuojami atitinkamai iš valstybės ir savivaldybių biudžetų.
 
-Nuostoliai dėl šio įstatymo 5 straipsnyje nustatytų lengvatų apskaičiuojami kiekvieną mėnesį pagal parduotus lengvatinius bilietus (vienkartinius, mėnesinius, vardinius) ir kompensuojami iš savivaldybių biudžetų.
+Nuostoliai dėl šio įstatymo 5 straipsnio pirmojoje-ketvirtojoje dalyse nustatytų lengvatų apskaičiuojami kiekvieną mėnesį pagal parduotus lengvatinius bilietus (vienkartinius, mėnesinius, vardinius) ir kompensuojami iš savivaldybių biudžetų. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-578, 1997-12-09, Žin., 1997, Nr. 117-3014 (1997-12-24), i. k. 0971010ISTAVIII-578
+ 
 
 Miestų ir rajonų savivaldybių tarybos, formuodamos savo biudžetus, kasmet numato ir skiria lėšas keleivinio transporto vežėjų nuostoliams dėl lengvatų, nustatytų šio įstatymo 5 straipsnio pirmojoje ir antrojoje dalyse, kompensuoti.
 
 Nuostoliai dėl šio įstatymo 5 straipsnio trečiojoje ir ketvirtojoje dalyse nustatytų lengvatų kompensuojami vežėjams iš valstybės ir savivaldybių biudžetų Lietuvos Respublikos Vyriausybės nustatyta tvarka 
+
+Nuostoliai dėl lengvatų, nustatytų šio įstatymo 5 straipsnio penktojoje dalyje, kompensuojami vežėjams iš valstybės biudžeto Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. VIII-578, 1997-12-09, Žin., 1997, Nr. 117-3014 (1997-12-24), i. k. 0971010ISTAVIII-578
+ 
 
 Straipsnio pakeitimai:
 Nr. I-1163, 1995-12-28, Žin., 1995, Nr. 107-2399 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1163
@@ -124,7 +137,9 @@ Teisė į visą važiavimo išlaidų atlyginimą (darbovietėse, mokymo įstaigo
 
 7) pedagogams ir kultūros darbuotojams, važiavusiems dirbti į kaimo ir miesto tipo gyvenviečių švietimo ir kultūros įstaigas vietinio susisiekimo (priemiesčio) autobusais, traukiniais sėdimuose vagonuose reikiamu maršrutu;
 
-8) aukštųjų ir aukštesniųjų mokyklų dieninių skyrių studentams, profesinių mokyklų dieninių skyrių moksleiviams, nuo rugsėjo 1 d. iki liepos 1 d. važiavusiems tolimojo susisiekimo autobusais, vietinio susisiekimo traukiniais sėdimuose vagonuose.
+8) aukštųjų ir aukštesniųjų mokyklų dieninių skyrių studentams, profesinių mokyklų dieninių skyrių moksleiviams, nuo rugsėjo 1 d. iki liepos 1 d. važiavusiems tolimojo susisiekimo autobusais.
+Straipsnio punkto pakeitimai:
+Nr. VIII-578, 1997-12-09, Žin., 1997, Nr. 117-3014 (1997-12-24), i. k. 0971010ISTAVIII-578
  
 
 8 straipsnis. Teisės į važiavimo išlaidų visą ir dalinę kompensaciją įgyvendinimo tvarka
@@ -167,4 +182,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1163, 1995-12-28, Žin., 1995, Nr. 107-2399 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1163
 Dėl Lietuvos Respublikos įstatymo "Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos" pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-578, 1997-12-09, Žin., 1997, Nr. 117-3014 (1997-12-24), i. k. 0971010ISTAVIII-578
+Lietuvos Respublikos įstatymo "Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos" 5, 6, 7 straipsnių pakeitimo ir papildymo įstatymas
 
