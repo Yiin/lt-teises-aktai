@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.22F9E22CD358"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 1997-07-11 iki 1997-07-22
+Suvestinė redakcija nuo 1997-07-23 iki 1997-12-23
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 107-0; Žin. 1990, Nr.31-747, i. k. 090XX01ISTA000I-676
  
@@ -739,7 +739,10 @@ Nr. I-257, 1993-09-28, Žin., 1993, Nr. 52-998 (1993-10-13), i. k. 0931010ISTA00
 21 straipsnis. Likviduojamosios bendrijos turto padalijimas
 
 
-1. Atsiskaičius su kreditoriais pagal bendrijos prievoles, likusį turtą likvidatoriai padalija bendrijos nariams. Pirmiausia atsiskaitoma su komanditoriais. Komanditoriams, įnešusiems visą įnašą, grąžinama visa jo suma. Tikriesiems nariams ir ne įnešusiems viso sutartyje numatyto įnašo komanditoriams, likusį turtą likvidatoriai padalija proporcingai jų dalies dydžiui. Bendrijos nuostoliai paskirstomi tikriesiems jos nariams proporcingai jų dalies dydžiui, o komanditoriams – proporcingai jų nepadaryto įnašo sumai.
+1. Atsiskaičius su kreditoriais pagal bendrijos prievoles, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki bendrijos veiklos nutraukimo įregistravimo įstatymų nustatyta tvarka, likusį turtą likvidatoriai padalija bendrijos nariams. Pirmiausia atsiskaitoma su komanditoriais. Komanditoriams, įnešusiems visą įnašą, grąžinama visa jo suma. Tikriesiems nariams ir neįnešusiems viso sutartyje numatyto įnašo komanditoriams likusį turtą likvidatoriai padalija proporcingai jų dalies dydžiui. Bendrijos nuostoliai paskirstomi tikriesiems jos nariams proporcingai jų dalies dydžiui, o komanditoriams – proporcingai jų nepadaryto įnašo sumai. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-381, 1997-07-02, Žin., 1997, Nr. 69-1742 (1997-07-23), i. k. 0971010ISTAVIII-381
+ 
 
 
 
@@ -823,3 +826,8 @@ Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių ve
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-339, 1997-06-26, Žin., 1997, Nr. 66-1608 (1997-07-11), i. k. 0971010ISTAVIII-339
 Lietuvos Respublikos ūkinių bendrijų įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-381, 1997-07-02, Žin., 1997, Nr. 69-1742 (1997-07-23), i. k. 0971010ISTAVIII-381
+Lietuvos Respublikos ūkinių bendrijų įstatymo 21 straipsnio papildymo įstatymas
