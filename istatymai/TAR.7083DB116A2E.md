@@ -483,18 +483,9 @@ VALSTYBINIS RADIACINĖS SAUGOS VALDYMAS
 
 2. Vyriausybė:
 
-
 1) nustato valstybės radiacinės saugos politikos principus;
 
-
-
-
-2) steigia Valstybės jonizuojančiosios spinduliuotės šaltinių ir darbuotojų apšvitos registrą ir tvirtina jo nuostatus;
-
-
-
-
-3) atlieka kitas šiame įstatyme ir kituose įstatymuose nustatytas funkcijas.
+2) atlieka kitas šiame įstatyme ir kituose įstatymuose nustatytas funkcijas.
 
 
 
