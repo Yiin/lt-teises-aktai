@@ -13,45 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6E6D07011CF5"
 
 # Lietuvos Respublikos kilnojamojo turto įkeitimo įstatymas
 
-Redagavo:
-Ramunė Lūžaitė (1999.11.25)
- 
- 
 Įstatymas
-paskelbtas: Žin., 1997, Nr.60-1400
- 
+paskelbtas: Žin., 1997, Nr. 60-1400
 Neoficialus
 įstatymo tekstas
  
-Pakeitimai:
- 
-1.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr. VIII-568,
-97.12.09, Žin., 1997, Nr.117-3008 (97.12.24)
-LIETUVOS
-RESPUBLIKOS KILNOJAMOJO TURTO ĮKEITIMO ĮSTATYMO 58 IR 59 STRAIPSNIŲ PAKEITIMO
-ĮSTATYMAS
- 
-2.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-669, 98.03.19, Žin., 1998, Nr.31-821 (98.04.01)
-LIETUVOS
-RESPUBLIKOS KILNOJAMOJO TURTO ĮKEITIMO ĮSTATYMO 59 STRAIPSNIO PAKEITIMO IR PAPILDYMO
-58(1), 60 STRAIPSNIAIS ĮSTATYMAS
- 
-3.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1380, 99.11.04, Žin., 1999, Nr.99-2843 (99.11.24)
-LIETUVOS
-RESPUBLIKOS KILNOJAMOJO TURTO ĮKEITIMO ĮSTATYMO 5, 12 STRAIPSNIŲ
-PAPILDYMO IR PAKEITIMO ĮSTATYMAS
- 
-***
-Pabaiga ***
  
 LIETUVOS RESPUBLIKOS
 KILNOJAMOJO TURTO ĮKEITIMO
@@ -66,9 +32,8 @@ BENDROSIOS
 NUOSTATOS
  
 1 straipsnis. Įstatymo paskirtis
- 
-1. Šis įstatymas reglamentuoja prievolių
-įvykdymo užtikrinimo kilnojamojo turto įkeiti­mu ir iš šių prievolių kylančių
+1. Šis įstatymas reglamentuoja prievolių įvykdymo
+užtikrinimo kilnojamojo turto įkeiti­mu ir iš šių prievolių kylančių
 reikalavimų tenkinimo tvarką.
 2. Šis įstatymas netaikomas įkeičiant
 Hipotekos įstatyme nurodytą turtą bei tais atvejais, kai įkeistas turtas
@@ -76,28 +41,45 @@ perduodamas saugoti įkaito turėtojui ar turtas įkeičiamas lombarde, taip pat
 kai Lietuvos banko ar komercinių bankų paskoloms užtikrinti įkeičiami Lietuvos
 Respublikos Vyriausybės ar Lietuvos banko vertybiniai popieriai.
  
+[1 straipsnio
+redakcija nuo 2001 m. liepos 1 d.
+1
+straipsnis. Įstatymo paskirtis 
+Šis įstatymas nustato prievolių įvykdymo užtikrinimo
+kilnojamųjų daiktų ir turtinių teisių (toliau – kilnojamojo turto) įkeitimu,
+išieškojimo iš įkeisto turto, taip pat kreditorių reikalavimų tenkinimo tvarką,
+kiek šios tvarkos nereglamentuoja Civilinis kodeksas.]
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 2 straipsnis. Pagrindinės šio įstatymo
 sąvokos 
- 
 1. Turtas - kilnojamasis turtas
 (daiktai ir turtinės teisės), nurodytas šio įstatymo 15 straipsnyje.
 2. Kilnojamojo turto įkeitimas (toliau
-- įkeitimas) - prievolių įvykdymo užtikrinimo būdas, kai įkeisto turto nuosavybės
-teisė bei teisė savo nuožiūra naudoti iš įkeisto turto gautas pajamas paliekama
-įkeisto turto savininkui. Jei suėjus nustatytam terminui prievolė tebėra
-neįvykdyta, kreditorius turi teisę reikalauti, kad jo reikalavimas būtų
-patenkintas iš įkeisto turto vertės. 
+- įkeitimas) - prievolių įvykdymo užtikrinimo būdas, kai įkeisto turto
+nuosavybės teisė bei teisė savo nuožiūra naudoti iš įkeisto turto gautas
+pajamas paliekama įkeisto turto savininkui. Jei suėjus nustatytam terminui
+prievolė tebėra neįvykdyta, kreditorius turi teisę reikalauti, kad jo
+reikalavimas būtų patenkintas iš įkeisto turto vertės. 
 3. Įkeitimo registravimas - kilnojamojo
 turto įkeitimo sandorio įregistravimas hipotekos registre.
  
+2 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 3 straipsnis. Įkeitimo atsiradimo
 pagrindai
- 
 1. Įkeitimas atsiranda:
-1) šio įstatymo nustatyta tvarka
-sudarius skolininko ar kito asmens (įkaito davėjo) ir kreditoriaus (įkaito
-turėtojo) turto įkeitimo sutartį bei įkeitimo sandorį įregistravus hipotekos
-registre;
+1) šio įstatymo nustatyta tvarka sudarius
+skolininko ar kito asmens (įkaito davėjo) ir kreditoriaus (įkaito turėtojo)
+turto įkeitimo sutartį bei įkeitimo sandorį įregistravus hipotekos registre;
 2) įregistravus turto įkeitimo sandorį
 hipotekos registre vienašaliu įkeičiamo turto sa­vininko pareiškimu.
 2. Teisę įkeisti turtą turi šio turto
@@ -106,85 +88,135 @@ nustatytais atvejais būsimas turto savininkas (toliau - savininkas). Įkeisti
 bendrosios nuosavybės turtą galima tik esant rašytiniam visų bendrasavininkių
 sutikimui.
  
+3 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 4 straipsnis. Įkeitimu užtikrinami
 reikalavimai
- 
-1. Įkeitimu gali būti užtikrintas bet
-kurios prievolės, kylančios iš sutarties (paskolos, pirkimo-pardavimo ir kt.),
+1. Įkeitimu gali būti užtikrintas bet kurios
+prievolės, kylančios iš sutarties (paskolos, pirkimo-pardavimo ir kt.),
 įvykdymas.
 2. Jeigu ko kita nenustatyta sutartyje,
 įkeitimas užtikrina reikalavimą tokio dydžio, kuris yra jo patenkinimo momentu,
 įskaitant palūkanas, netesybas, nuostolius, padarytus dėl prievolės įvykdymo
 termino praleidimo, taip pat išieškojimo išlaidas.
  
-5 straipsnis. Įkeitimo dalykas
+4 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
-1. Įkeitimo dalyku gali būti šio
-įstatymo 15 straipsnyje nurodytas turtas, kuris priklauso įkaito davėjui
-nuosavybės teise, taip pat šio įstatymo nustatytais atvejais turtas, kuris taps
-įkaito davėjo nuosavybe ateityje.
+5 straipsnis. Įkeitimo dalykas
+1. Įkeitimo dalyku gali būti šio įstatymo 15
+straipsnyje nurodytas turtas, kuris priklauso įkaito davėjui nuosavybės teise,
+taip pat šio įstatymo nustatytais atvejais turtas, kuris taps įkaito davėjo
+nuosavybe ateityje.
 2. Įkeitimo dalyku negali būti valstybės valdžios ir
 valdymo institucijų, įstaigų ir organizacijų, išlaikomų iš valstybės ar
 savivaldybės biudžeto, turtas. Negali būti įkeičiamas turtas, išimtas iš
 civilinės apyvartos, areštuotas turtas, kuriuo uždrausta disponuoti, taip pat
-turtas, į kurį pagal galiojančius įstatymus negali būti nukreiptas išieškojimas.
+turtas, į kurį pagal galiojančius įstatymus negali būti nukreiptas
+išieškojimas.
  
+5 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
 Straipsnio
 pakeitimai:
-Nr. VIII-1380, 99.11.04, Žin., 1999, Nr.99-2843 (99.11.24)
+Nr. VIII-1380, 1999 11 04, Žin., 1999, Nr.
+99-2843 (1999 11 24)
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 6 straipsnis. Reikalavimų, užtikrintų
 įkeitimu, tenkinimo eilė
+Reikalavimai, užtikrinti šiame įstatyme nustatyta
+tvarka įregistruotu įkeitimu, tenki­na­mi pirmiau už visus kitus reikalavimus.
  
-Reikalavimai, užtikrinti šiame įstatyme
-nustatyta tvarka įregistruotu įkeitimu, tenki­na­mi pirmiau už visus kitus
-reikalavimus.
+6 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 7 straipsnis. Reikalavimų, užtikrintų
 būsimo turto įkeitimu, tenkinimas
- 
 Tais atvejais, kai įkeičiamas turtas,
 kurį įkaito davėjas įgis nuosavybės teise ateityje, išieškojimas į įkeistą
 turtą gali būti nukreiptas tik įkaito davėjui įgijus šį turtą nuosavybės teise.
  
+7 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 8 straipsnis. Hipotekos registro duomenų
 apie įkeitimus teisinis statusas
- 
-1. Hipotekos registro duomenys apie
-įkeitimus laikomi teisingais ir išsamiais, kol jie nenuginčyti įstatymų
-nustatyta tvarka.
+1. Hipotekos registro duomenys apie įkeitimus
+laikomi teisingais ir išsamiais, kol jie nenuginčyti įstatymų nustatyta tvarka.
 2. Iškilus ginčui dėl hipotekos registre
 įregistruoto įkeitimo, asmenys negali įrodinėti, kad nežinojo įkeitimo buvimo
 fakto.
  
+8 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 9 straipsnis. Duomenų apie hipotekos
 registre įregistruotus įkeitimus viešumas
+Kiekvienas asmuo Hipotekos registro nuostatų
+nustatyta tvarka turi teisę atlygintinai susipažinti su hipotekos registro
+duomenimis apie jame registruojamus bei įregistruotus įkeitimus.
  
-Kiekvienas asmuo Hipotekos registro
-nuostatų nustatyta tvarka turi teisę atlygintinai susipažinti su hipotekos
-registro duomenimis apie jame registruojamus bei įregistruotus įkeitimus.
+9 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 10 straipsnis. Įkeisto turto perleidimas
- 
-1. Įkeistą turtą jo savininkas gali
-perleisti kitam asmeniui, jeigu tai leidžiama įkeitimo sutartyje. Perleisdamas
-įkeistą turtą, jo savininkas privalo informuoti įkeisto turto įgijėją apie tai,
-kad turtas yra įkeistas, bei pranešti kreditoriui apie įkeisto turto
-perleidimą.
+1. Įkeistą turtą jo savininkas gali perleisti kitam
+asmeniui, jeigu tai leidžiama įkeitimo sutartyje. Perleisdamas įkeistą turtą,
+jo savininkas privalo informuoti įkeisto turto įgijėją apie tai, kad turtas yra
+įkeistas, bei pranešti kreditoriui apie įkeisto turto perleidimą.
 2. Perleidus įkeistą turtą, įkeisto
 turto įgijėjas atsako kreditoriui įkeisto turto verte pagal prievolę,
 užtikrintą šio turto įkeitimu, išskyrus šio įstatymo 23 straipsnyje nustatytus
 atvejus.
  
+10 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 11 straipsnis. Draudimas atsisakyti
 įkeistos reikalavimo teisės
- 
 Asmeniui, įkeitusiam reikalavimo teisę,
 draudžiama atsisakyti įkeistos reikalavimo teisės.
  
+11 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 12 straipsnis. Įkeisto turto perleidimo
 sutarties, jeigu ji pažeidžiama, negaliojimas
- 
 1. Tais atvejais, kai įkeistas turtas
 perleidžiamas kitam asmeniui, o įkeitimo sutartyje nebuvo leista jį perleisti
 ir turto įgijėjas tą žinojo ar galėjo žinoti, turto perleidimo sutartis
@@ -197,13 +229,17 @@ sutartį negaliojančia turto savininkui grąžinamas turtas mažesnės vertės,
 jis buvo perleidimo momentu, turto įgijėjas atsako kreditoriui ta suma, kuria
 sumažėjo turto vertė.
  
+12 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
 Straipsnio
 pakeitimai:
-Nr. VIII-1380, 99.11.04, Žin., 1999, Nr.99-2843 (99.11.24)
+Nr. VIII-1380, 1999 11 04, Žin., 1999, Nr.
+99-2843 (1999 11 24)
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 13 straipsnis. Teisė reikalauti
 patenkinti įkeitimu užtikrintą reikalavimą prieš terminą
- 
 Kreditorius gali reikalauti patenkinti
 užtikrintą įkeitimu reikalavimą prieš terminą, jeigu:
 1) kiti kreditoriai įstatymų nustatytais
@@ -237,9 +273,16 @@ nutraukta prieš terminą;
 įkeitimo sutartyje nustatytų sąlygų bei reikalavimų ir dėl to gali sumažėti
 turto vertė.
  
-14 straipsnis. Įkeitimo perregistravimas
-į hipoteką ir kreditorių reikalavimų tenkinimo eilė
+13 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
+14 straipsnis. Įkeitimo perregistravimas
+į hipoteką ir kreditorių reikalavimų tenkinimo 
+eilė
 1. Jeigu įkeistas kilnojamasis turtas
 įregistruojamas kaip nekilnojamojo turto priklau­sinys, kreditorius gali
 reikalauti, kad hipotekos registre įregistruotas kilnojamojo turto įkeitimas
@@ -250,6 +293,12 @@ kilnojamasis turtas vėliau yra įkeičiamas kaip nekilnojamojo turto
 priklausinys, reikalavimai, atsiradę iš kilnojamojo turto įkeitimo, tenkinami
 pirmiau už hipotekos reikalavimus.
  
+14 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 ANTRASIS
 SKIRSNIS
@@ -257,7 +306,6 @@ KILNOJAMOJO
 TURTO ĮKEITIMO TVARKA
  
 15 straipsnis. Įkeičiamas turtas
- 
 Pagal šį įstatymą gali būti įkeičiama:
 1) kiekvienas kilnojamasis
 individualiais ar rūšiniais požymiais apibrėžtas daiktas, išskyrus daiktus,
@@ -270,17 +318,30 @@ sąskaitoje;
 6) prievolinės teisės, atsiradusios iš
 rašytinės sutarties.
  
-16 straipsnis. Įkeitimo administratorius
+15 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
+16 straipsnis. Įkeitimo administratorius
 Jeigu įkeitimu užtikrinamas vienos
 paskolos, kurią teikia keli kreditoriai, įvykdymas, kreditoriai gali paskirti
 įkeitimo administratorių, kuris įgaliojamas Civilinio kodekso nustatyta tvarka
 visų kreditorių vardu sudaryti įkeitimo sutartį, ją įregist­ruoti ir atstovauti
 visų kreditorių interesams.
  
-17 straipsnis. Įkeitimo sutarties ir
-turto savininko vienašalio pareiškimo įkeisti turtą forma
+16 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
+17 straipsnis. Įkeitimo sutarties ir
+turto savininko vienašalio pareiškimo įkeisti turtą 
+forma
 1. Įkeitimo sutartis sudaroma arba
 įkeičiamo turto savininko vienašalis pareiškimas įkeisti turtą surašomas
 įforminant kilnojamojo turto įkeitimo lakštą (toliau - įkeitimo lakštas), kurio
@@ -296,17 +357,22 @@ hipotekos registre.
 sutarties pakeitimai įrašomi įkeitimo lakšte ir registruojami ta pačia tvarka
 kaip ir įkeitimas.
  
-18 straipsnis. Įkeitimo lakšto turinys
+17 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
+18 straipsnis. Įkeitimo lakšto turinys
 1. Įkeitimo lakšte turi būti nurodyta:
 1) įkeitimo sandorio sudarymo vieta ir
 data;
 2) skolininkas (fizinio asmens vardas,
-pavardė, adresas, identifikavimo kodas; juridinio asmens arba įmonės,
-neturinčios juridinio asmens teisių, pavadinimas, buveinė, identifikavimo
-kodas);
+pavardė, adresas, identifikavimo kodas; juridinio asmens arba įmonės, neturinčios
+juridinio asmens teisių, pavadinimas, buveinė, identifikavimo kodas);
 3) įkeisto turto savininkas, jei
-skolininkas ir įkeisto turto savininkas yra ne tas pats as­muo (fizinio asmens
+skolininkas ir įkeisto turto savininkas yra ne tas pats asmuo (fizinio asmens
 vardas, pavardė, adresas, identifikavimo kodas; juridinio asmens arba įmonės,
 neturinčios juridinio asmens teisių, pavadinimas, buveinė, identifikavimo
 kodas);
@@ -346,9 +412,15 @@ vienašaliu pareiškimu, įkeitimo lakšte kredi­torius gali būti nenurodytas.
 lakštas jo turėtojo prašymu bet kada gali būti įforminamas vardiniu hipotekos
 lakštu.
  
+18 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 19 straipsnis. Turto, kuris yra
 pirkimo-pardavimo arba nuomos dalykas, įkeitimas
- 
 1. Šio įstatymo nustatyta tvarka gali
 būti įkeičiamas turtas, kuris yra pirkimo-pardavimo sutarties dalykas, siekiant
 užtikrinti:
@@ -363,8 +435,14 @@ prekės kaina ar visiškai grąžinta suteikta paskola, taip pat tais atvejais, 
 įkeitimu užtikrinamas nuomos, kuriai pasibaigus nuomininkas tampa nuomojamo
 turto savi­ninku, sutarties įvykdymas.
  
-20 straipsnis. Maksimalusis įkeitimas
+19 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
+20 straipsnis. Maksimalusis įkeitimas
 1. Sudaryti įkeitimo sutartį, kurioje
 nurodomas ne konkretus skolos dydis, o tik maksi­maliai galima skolos suma,
 leidžiama ne ilgesniam kaip 5 metų laikotarpiui. Pasibaigus šiam terminui,
@@ -392,21 +470,39 @@ ar kreditoriaus bankroto procedūra.
 5. Skolos dydis fiksuojamas ir jo
 fiksavimas registruojamas Hipotekos registro nuostatų nustatyta tvarka.
  
-21 straipsnis. Įkeisto turto žymėjimas
+20 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
+21 straipsnis. Įkeisto turto žymėjimas
 Įkeitimo sutartyje gali būti nustatyta,
 kad įkeistas turtas turi būti pažymėtas specialiomis žymomis. Šiuo atveju
 įkeisto turto savininkas atsako už žymų ant turto išsaugojimą iki įkeitimo
 sutarties išregistravimo momento.
  
-22 straipsnis. Įkeisto turto apskaita
+21 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
+22 straipsnis. Įkeisto turto apskaita
 Kreditorius, remdamasis įkeitimo
 sutartimi, gali reikalauti, kad įkeisto turto savininkas tvarkytų specialią
 įkeisto turto inventorizacijos ir apyvartos apskaitą.
  
-23 straipsnis. Prekių atsargų įkeitimas
+22 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
+23 straipsnis. Prekių atsargų įkeitimas
 1. Įkaito davėjas, įkeitęs esančias
 apyvartoje prekių atsargas (prekes, žaliavas, pusgaminius, pagamintą
 produkciją), turi teisę keisti įkeistų prekių atsargų sudėtį ir formą su sąly­ga,
@@ -416,34 +512,45 @@ davėjui, vykdant jo įstatuose (nuostatuose) nustatytą veiklą, išlaisvina pr
 nuo įkeitimo, o įkaito davėjo įsigytos naujos prekių atsargos tampa įkeitimo
 dalyku šių prekių įsigijimo nuosavybėn momentu.
  
+23 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 24 straipsnis. Įkeitimo teisė, kai
 įkeistas turtas sujungiamas su kitu turtu
+1. Jeigu įkeistas turtas gamybos procese
+sujungiamas su kitu kilnojamuoju turtu arba pakeičiamas taip, kad pradinę
+(pirminę) formą atgauti yra neįmanoma, įkeitimas apima naujai sukurtą turtą.
+Jei egzistuoja daugiau nei vienas reikalavimas į naujai sukurtą turtą kaip
+visumą, kylantis iš turto sudėtinių dalių įkeitimų, kiekvieno įkeitimu užtikrinto
+reika­lavimo maksimalus dydis apskaičiuojamas pagal įkeistų sudėtinių dalių
+vertės lyginamuosius svorius naujai suformuoto turto gamybos kaštuose.
+Kreditorių reikalavimai patenkinami pa­gal prašymo įregistruoti įkeitimą
+pateikimo datą eilės tvarka.
+2. Jeigu įkeistas turtas yra sujungiamas
+su kitu turtu tokiu būdu, kad juos galima atskirti, nesumažinus jų vertės, tai
+įkeitimas neapima naujai sukurto turto.
+3. Jeigu įkeičiamas naujai sukurtas
+turtas, kurio sudėtinės dalys buvo įkeistos, reikalavimai, užtikrinti
+ankstesniu sudėtinių dalių įkeitimu, tenkinami pirmiau už reikalavimus,
+užtikrintus viso turto įkeitimu.
  
- 1. Jeigu įkeistas turtas gamybos
-procese sujungiamas su kitu kilnojamuoju turtu arba pakeičiamas taip, kad
-pradinę (pirminę) formą atgauti yra neįmanoma, įkeitimas apima naujai sukurtą
-turtą. Jei egzistuoja daugiau nei vienas reikalavimas į naujai sukurtą turtą
-kaip visumą, kylantis iš turto sudėtinių dalių įkeitimų, kiekvieno įkeitimu
-užtikrinto reika­lavimo maksimalus dydis apskaičiuojamas pagal įkeistų
-sudėtinių dalių vertės lyginamuosius svorius naujai suformuoto turto gamybos
-kaštuose. Kreditorių reikalavimai patenkinami pa­gal prašymo įregistruoti
-įkeitimą pateikimo datą eilės tvarka.
- 2. Jeigu įkeistas turtas yra
-sujungiamas su kitu turtu tokiu būdu, kad juos galima atskirti, nesumažinus jų
-vertės, tai įkeitimas neapima naujai sukurto turto.
- 3. Jeigu įkeičiamas naujai sukurtas
-turtas, kurio sudėtinės dalys buvo įkeistos, reikalavimai, užtikrinti ankstesniu
-sudėtinių dalių įkeitimu, tenkinami pirmiau už reikalavimus, užtikrintus viso
-turto įkeitimu.
+24 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 25 straipsnis. Įkeisto turto
 pakartotinis įkeitimas
- 
 1. Įkeisto turto savininkas gali šį
-turtą dar kartą įkeisti šio įstatymo nustatyta tvarka, jei tai nedraudžia
-įkeitimo sutartis. Apie pakartotinį įkeisto turto įkeitimą įkeisto turto
-savininkas turi pranešti ankstesniam kreditoriui įkeitimo sutartyje nustatyta
-tvarka.
+turtą dar kartą įkeisti šio įstatymo nustatyta tvarka, jei tai nedraudžia įkeitimo
+sutartis. Apie pakartotinį įkeisto turto įkeitimą įkeisto turto savininkas turi
+pranešti ankstesniam kreditoriui įkeitimo sutartyje nustatyta tvarka.
 2. Įkeisti šio įstatymo nustatyta tvarka
 įkeistą turtą, jį perduodant įkaito turėtojui, (už­statyti) draudžiama, jei
 sutartyje nenustatyta kitaip.
@@ -451,9 +558,15 @@ sutartyje nenustatyta kitaip.
 įkeitimo sutartį, pagal kurią pakartotinai įkeičiamas turtas, daro
 negaliojančią.
  
+25 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 26 straipsnis. Reikalavimų tenkinimo
 eilė, kai turtas įkeičiamas kelis kartus
- 
 1. Jeigu turtas įkeičiamas kelis kartus,
 kreditorių reikalavimai tenkinami pagal prašymo įregistruoti įkeitimą pateikimo
 datą eilės tvarka. Tolesnės eilės kreditorių reikalavimai iš įkeisto turto
@@ -468,17 +581,29 @@ turto sudėtinė dalis, tai reikalavimas, kylantis iš turto sudėtinės dalies
 įkeitimo, negali būti patenkintas pirmiau už reikalavimą, kylantį iš vi­so
 turto įkeitimo.
  
+26 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 27 straipsnis. Kelių turto objektų
 įkeitimu užtikrinto reikalavimo tenkinimas
- 
 Jeigu skolininkas (skolininkai) įkeitė
 kelis turto objektus, kad apsaugotų vieną konkretų reikalavimą, vykdant
 išieškojimą galima parduoti tik tiek turto objektų, kiek reikia kreditoriaus
 reikalavimui patenkinti. Turto objektų pardavimo eilę nustato jų savininkas
 (savininkai), jeigu įkeitimo sutartyje nenustatyta kitaip.
  
-28 straipsnis. Įkaito davėjo teisės
+27 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
+28 straipsnis. Įkaito davėjo teisės
 1. Įkeisto turto savininkas turi teisę:
 1) naudoti turtą pagal paskirtį;
 2) gauti iš įkeisto turto vaisių bei
@@ -499,9 +624,14 @@ turtu už skolininko įsipareigojimo vykdymą.
 įsipareigojimo įvykdymas buvo užtikrintas priverstinai parduotu įkeistu turtu,
 dėl nuostolių atlyginimo.
  
-29 straipsnis. Įkaito davėjo pareigos
-
+28 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
+29 straipsnis. Įkaito davėjo pareigos 
 Įkaito davėjas privalo:
 1) tinkamai naudoti ir prižiūrėti
 įkeistus daiktus;
@@ -517,9 +647,15 @@ turto įkeitimą ar perleidimą įkeitimo sutartyje nustatyta tvarka;
 6) vykdyti kitas įkeitimo sutartyje
 nustatytas sąlygas.
  
+29 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 30 straipsnis. Prievolių, kurių
 įvykdymas užtikrintas įkeitimu, vykdymas
- 
 1. Prievolės, kurių įvykdymas
 užtikrintas įkeitimu, vykdomos pateikus įkeitimo lakš­tą. Jeigu kreditorius
 nepateikia įkeitimo lakšto, skolininkas gali prievolės ir nevykdyti.
@@ -530,9 +666,9 @@ užtikrintą prievolę, kreditorius privalo jam grąžinti įkeitimo lakštą, k
 užtikrintos prievolės, kreditorius privalo apie tai įrašyti įkeitimo lakšte ir
 skolininko pageidavimu išduoti pakvitavimą.
  
-31 straipsnis. Kreditoriaus teisė
-reikalauti patenkinti savo reikalavimą iš įkeisto turto vertės
- 
+31 straipsnis. Kreditoriaus teisė reikalauti
+patenkinti savo reikalavimą iš įkeisto turto
+vertės
 1. Jeigu skolininkas neįvykdė įkeitimu
 užtikrintos prievolės, kreditorius turi teisę reika­lauti patenkinti savo
 reikalavimą iš lėšų, gautų priverstinai pardavus įkeistą turtą šio įsta­tymo
@@ -541,14 +677,20 @@ nustatyta tvarka.
 pardavus įkeistą turtą, neužtenka kreditoriaus (įkai­to turėtojo) reikalavimui
 visiškai patenkinti, jis turi teisę išieškoti trūkstamą sumą iš skoli­ninko
 kito turto lygiomis teisėmis su kitais kreditoriais.
-3. Jeigu įkeistas turtas dingsta, žūva
-ar jo vertė sumažėja, kreditorius turi teisę paten­kinti savo reikalavimą iš
-visų piniginių ir natūrinių kompensacijų, kurios priklausytų įkeisto turto
+3. Jeigu įkeistas turtas dingsta, žūva ar
+jo vertė sumažėja, kreditorius turi teisę paten­kinti savo reikalavimą iš visų
+piniginių ir natūrinių kompensacijų, kurios priklausytų įkeisto turto
 savininkui už padarytą įkeistam turtui žalą.
+ 
+31 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 32 straipsnis. Įkeitimo teisės
 pasibaigimas
- 
 1. Įkeitimo teisės pasibaigimo
 pagrindai:
 1) įkeitimu užtikrintos prievolės
@@ -560,10 +702,16 @@ galiojimo termino pasibaigimas;
 įkeistų teisių perleidimas įkaito turėtojui;
 5) įkeisto turto priverstinis
 pardavimas.
- 2. Įkeisto turto priverstinis
-pardavimas vykdant išieškojimą išlaisvina turtą nuo visų įkeitimų.
- 3. Įkeitimo teisė pasibaigia
+2. Įkeisto turto priverstinis pardavimas
+vykdant išieškojimą išlaisvina turtą nuo visų įkeitimų.
+3. Įkeitimo teisė pasibaigia
 išregistravus įkeitimą iš hipotekos registro.
+ 
+32 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 TREČIASIS
 SKIRSNIS
@@ -572,34 +720,51 @@ TEISĖS, ATSIRADUSIOS IŠ TURTO ĮKEITIMO,
 PERLEIDIMAS
 IR ĮKEITIMAS
  
-33 straipsnis. Reikalavimo teisės perleidimas
- 
+33 straipsnis. Reikalavimo teisės
+perleidimas
 Reikalavimo teisę, atsiradusią iš turto
 įkeitimo, kreditorius gali perleisti kitam asmeniui, išskyrus tuos atvejus, kai
 sutartyje nustatyta, jog kreditorius neturi teisės tai daryti.
  
+33 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 34 straipsnis. Reikalavimo teisės
 perleidimo tvarka
- 
 1. Reikalavimo teisė, atsiradusi iš
 turto įkeitimo, perleidžiama perduodant įkeitimo lakštą indosamentu.
- 2. Indosamentas turi būti įrašytas
+2. Indosamentas turi būti įrašytas
 įkeitimo lakšte, nurodant asmenį, kuriam perlei­džiamas reikalavimas. Jis turi
 būti pasirašytas indosanto (įkeitimo lakšto turėtojo) ir įregistruotas
 hipotekos registre.
- 3. Reikalavimo teisės perleidimas
+3. Reikalavimo teisės perleidimas
 (įkeitimo lakšto indosamentas) registruojamas hipotekos registre ta pačia
 tvarka kaip ir įkeitimas.
  
+34 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 35 straipsnis. Reikalavimo teisės
 įkeitimas
- 
 Reikalavimo teisę, atsiradusią iš
 įkeitimo, galima įkeisti prievolės įvykdymui užtikrinti.
  
+35 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 36 straipsnis. Reikalavimo teisės
 įkeitimo tvarka
- 
 1. Reikalavimo teisė, atsiradusi iš
 turto įkeitimo, įkeičiama šalių susitarimu. Tai įrašoma įkeitimo lakšte.
 2. Atsiradusios iš turto įkeitimo
@@ -608,14 +773,27 @@ registre.
 3. Jeigu nesilaikoma šiame straipsnyje
 nustatytų taisyklių, reikalavimo teisės įkeitimo sutartis tampa negaliojančia.
  
-37 straipsnis. Prievolės, kurios
-įvykdymas užtikrintas reikalavimo teisės įkeitimu, įvykdymo 
-           
-terminas
+36 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
+37 straipsnis. Prievolės, kurios
+įvykdymas užtikrintas reikalavimo teisės įkeitimu,
+įvykdymo
+terminas
 Įkeičiant reikalavimo teisę, atsiradusią
-iš turto įkeitimo, šio reikalavimo įkeitimu užtik­rinamos prievolės įvykdymo
-terminas negali būti ilgesnis už įkeičiamo reikalavimo įvykdy­mo terminą.
+iš turto įkeitimo, šio reikalavimo įkeitimu užtikrinamos prievolės įvykdymo
+terminas negali būti ilgesnis už įkeičiamo reikalavimo įvykdymo terminą.
+ 
+37 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 KETVIRTASIS
 SKIRSNIS
@@ -624,18 +802,23 @@ SKIRSNIS
  
 38 straipsnis. Įkeitimo registravimo
 vieta
- 
 1. Įkeitimai registruojami hipotekos
 registre, kurį tvarko apylinkių teismų hipotekos skyriai (toliau - hipotekos
 skyriai).
-2. Hipotekos registro steigimo ir funkcionavimo
-tvarką bei struktūrą, taip pat naudojimosi hipotekos registro duomenimis tvarką
-reglamentuoja Hipotekos registro steigimo įstatymas, Hipotekos įstatymas bei
-Vyriausybės patvirtinti Hipotekos registro nuostatai.
+2. Hipotekos registro steigimo ir
+funkcionavimo tvarką bei struktūrą, taip pat naudojimosi hipotekos registro
+duomenimis tvarką reglamentuoja Hipotekos registro steigimo įstatymas,
+Hipotekos įstatymas bei Vyriausybės patvirtinti Hipotekos registro nuostatai.
+ 
+38 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 39 straipsnis. Prašymo įregistruoti
 įkeitimą pateikimo vieta
- 
 1. Prašymas įregistruoti kilnojamojo
 turto įkeitimą gali būti paduotas bet kuriam hipotekos skyriui, o prašymas
 įregistruoti kilnojamojo turto įkeitimo sutarties pakeitimą bei išregistruoti
@@ -646,26 +829,23 @@ registruojamas pateikus įkeitimo lakštą ta pačia tvarka kaip ir prašymas
 (valanda ir minutės) nenurodomas.
  
 40 straipsnis. Įkeitimo įregistravimas
-ir dokumentų, patvirtinančių įkeitimą, išda­vimas
- 
+ir dokumentų, patvirtinančių įkeitimą, išdavimas
 1. Įkeitimas registruojamas kaip ir
 hipoteka Hipotekos įstatymo bei Hipotekos registro nuostatų nustatyta tvarka.
 Įkeitimas laikomas įregistruotu nuo jo įregistravimo centriniame hipotekos
 registre momento.
 2. Įregistravus įkeitimą, įregistruotas
-įkeitimo lakšto originalas bei pažymėjimas apie įkeitimo įregistravimą
-centriniame hipotekos registre išsiunčiamas kreditoriui, o jeigu kreditorius
-įkeitimo lakšte nenurodytas, - įkeisto turto savininkui, kurio vienašaliu
-pareiškimu įregistruotas įkeitimas. Pažymėjimo apie įkeitimo įregistravimą
-turinį ir formą nustato Hipotekos registro nuostatai.
+įkeitimo lakšto originalas bei pažymėjimas apie įkeitimo įregistravimą centriniame
+hipotekos registre išsiunčiamas kreditoriui, o jeigu kreditorius įkeitimo
+lakšte nenurodytas, - įkeisto turto savininkui, kurio vienašaliu pareiškimu
+įregistruotas įkeitimas. Pažymėjimo apie įkeitimo įregistravimą turinį ir formą
+nustato Hipotekos registro nuostatai.
 3. Įkeitimo lakšto kopija saugoma
 hipotekos skyriuje Hipotekos registro nuostatų nustatyta tvarka.
  
-41 straipsnis. Duomenų perdavimas turto
-registrams ir apsikeitimo 
-                     duomenimis su jais
+41 straipsnis. Duomenų perdavimas turto registrams
+ir apsikeitimo duomenimis su jais
 tvarka
- 
 1. Tais atvejais, kai įkeistas
 kilnojamasis turtas įregistruotas turto registre, duomenys apie įregistruotą
 šio turto įkeitimą ne vėliau kaip per 24 valandas turi būti perduoti turto
@@ -675,30 +855,48 @@ registrui.
 nuostatų nustatyta tvarka.
  
 42 straipsnis. Įkeitimo išregistravimas
- 
 1. Teisę kreiptis į hipotekos registro
 tvarkytoją išregistruoti įkeitimą turi:
 1) kreditorius (įkaito turėtojas),
 pateikęs įkeitimo lakštą;
 2) skolininkas ar įkaito davėjas (kai
-skolininkas ir įkaito davėjas ne tas pats asmuo), pa­teikęs įkeitimo lakštą,
+skolininkas ir įkaito davėjas ne tas pats asmuo), pateikęs įkeitimo lakštą,
 patvirtinantį, kad kreditoriaus reikalavimas, užtikrintas hipotekos registre
 įregistruotu įkeitimu, yra patenkintas;
- 3) šio įstatymo 52 straipsnyje
-nustatyta tvarka turtą įgijęs asmuo, pateikęs įkeitimo lakštą bei kitus
-dokumentus, patvirtinančius, kad turtas įgytas vykdant išieškojimą.
+ 
+[1 dalies 2
+punkto redakcija nuo 2001 m. liepos 1 d.
+2) skolininkas ar įkaito davėjas (kai skolininkas ir
+įkaito davėjas ne tas pats asmuo), pateikęs įkeitimo lakštą, patvirtinantį, kad
+kreditoriaus reikalavimas, užtikrintas hipotekos registre įregistruotu
+įkeitimu, yra patenkintas, arba įmokėjęs visą skolos sumą į hipotekos skyriaus
+depozitinę sąskaitą, arba kitaip pasibaigus įkeitimo teisei;]
+ 
+3) šio įstatymo 52 straipsnyje nustatyta
+tvarka turtą įgijęs asmuo, pateikęs įkeitimo lakštą bei kitus dokumentus,
+patvirtinančius, kad turtas įgytas vykdant išieškojimą.
 2. Tais atvejais, kai įkeitimo sutartis
 įstatymų nustatyta tvarka pripažįstama negaliojančia, hipotekos registre
 įregistruotas įkeitimas išregistruojamas pateikus hipotekos skyriui
 įsiteisėjusį teismo sprendimą.
 3. Įkeitimas išregistruojamas ta pačia
 tvarka kaip ir hipoteka.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 43 straipsnis. Duomenų apie įkeitimą
 saugojimo terminas
- 
 Duomenys apie įkeitimą saugomi hipotekos
 registre 5 metus po įkeitimo išregistravimo.
+ 
+43 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 PENKTASIS
 SKIRSNIS
@@ -707,7 +905,6 @@ IŠ ĮKEISTO TURTO
  
 44 straipsnis. Kreditoriaus teisė
 pradėti išieškojimą
- 
 1. Skolininkui neįvykdžius hipotekos
 registre įregistruotu įkeitimu užtikrintos prievolės ar esant kitiems šio
 įstatymo 13 straipsnyje nurodytiems pagrindams, kreditorius turi teisę
@@ -718,9 +915,15 @@ skyrių Hipotekos registro nuostatų nustatyta tvarka.
 2. Hipotekos registre pažymima apie
 įspėjimo skolininkui įteikimą Hipotekos registro nuostatų nustatyta tvarka.
  
+44 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 45 straipsnis. Įspėjimo dėl išieškojimo
 turinys
- 
 1. Įspėjime dėl išieškojimo turi būti
 nurodyta:
 1) skolininkas bei įkeisto turto
@@ -728,49 +931,73 @@ savininkas ir jų adresai;
 2) įkeitimo, pagal kurį vykdomas
 išieškojimas, įregistravimo hipotekos registre data ir numeris;
 3) įkeitimu užtikrinta prievolė;
-4) turtas, į kurį nukreipiamas
-išieškojimas;
+4) turtas, į kurį nukreipiamas išieškojimas;
 5) reikalavimo įvykdyti įkeitimu
 užtikrintą prievolę turinys.
 2. Įspėjimas turi būti pasirašytas
 kreditoriaus ar jo įgalioto atstovo.
  
 46 straipsnis. Hipotekos skyriaus
-pareiga pranešti suinteresuotiems asmenims apie pradėtą 
-           
+pareiga pranešti suinteresuotiems asmenims apie 
+pradėtą
 išieškojimą
- 
 Hipotekos skyrius, įteikęs skolininkui
-įspėjimą dėl išieškojimo, privalo apie tai infor­muoti kitus hipotekos registre
-įrašytus asmenis, turinčius teisę į turtą, į kurį nukreiptas iš­ieškojimas.
+įspėjimą dėl išieškojimo, privalo apie tai informuoti kitus hipotekos registre
+įrašytus asmenis, turinčius teisę į turtą, į kurį nukreiptas išieškojimas.
+ 
+46 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 47 straipsnis. Draudimas perleisti ir
 apsunkinti įkeistą turtą
- 
 Skolininkas, gavęs įspėjimą dėl turto
 išieškojimo, neturi teisės įkeisto turto parduoti, išnuomoti ar kitaip jį
 apsunkinti.
  
+47 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 48 straipsnis. Įkeisto turto perdavimas
 kreditoriaus žinion
- 
 1. Įteikus skolininkui įspėjimą dėl
 išieškojimo, įkeistas turtas turi būti perduotas kredi­toriaus žinion.
- 2. Jeigu įspėjimą dėl išieškojimo gavęs
+2. Jeigu įspėjimą dėl išieškojimo gavęs
 skolininkas kreditoriui pareikalavus neperduoda jam įkeisto turto, kreditorius
 gali kreiptis į hipotekos teisėją su prašymu areštuoti įkeistą turtą ir
 perduoti jam (kreditoriui). Prašymas nagrinėjamas ir hipotekos teisėjo nutartis
 pri­imama šio įstatymo 49 straipsnyje nustatytais terminais bei tvarka. Įkeistą
 turtą areštuoja ir perduoda kreditoriui teismo antstolis Civilinio proceso
 kodekso nustatyta tvarka.
- 3. Kreditorius, kuriam perduotas
+3. Kreditorius, kuriam perduotas
 įkeistas turtas, privalo šį turtą tinkamai laikyti. Jis atsako už šio turto
 išsaugojimą, jeigu neįrodo, kad turtas prarastas, jo vertė sumažėjo arba turtas
 sugedo ne dėl jo kaltės.
  
+[48 straipsnio
+redakcija nuo 2001 m. liepos 1 d.:
+48
+straipsnis. Įkeisto turto perdavimas kreditoriaus žinion 
+Jeigu įspėjimą dėl išieškojimo gavęs skolininkas
+kreditoriui pareikalavus neperduoda jam įkeisto turto, kreditorius gali
+kreiptis į hipotekos teisėją su prašymu areštuoti įkeistą turtą ir perduoti jam
+(kreditoriui). Prašymas nagrinėjamas ir hipotekos teisėjo nutartis priimama šio
+įstatymo 49 straipsnyje nustatytais terminais bei tvarka. Įkeistą turtą
+areštuoja ir perduoda kreditoriui teismo antstolis Civilinio proceso kodekso
+nustatyta tvarka.]
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 49 straipsnis. Prašymų areštuoti įkeistą
 turtą ir perduoti jį kreditoriui nagrinėjimas
- 
 1. Prašymus areštuoti įkeistą turtą ir
 perduoti jį kreditoriui nagrinėja įkeitimą įregistravusio hipotekos skyriaus
 hipotekos teisėjas. Prašymas turi būti išnagrinėtas per 3 darbo dienas nuo jo
@@ -780,16 +1007,15 @@ gavimo.
 būti išsiųsta suinteresuotiems asmenims.
  
 50 straipsnis. Kreditoriaus reikalavimo
-iš įkeistų lėšų, esančių įkaito davėjo banko sąskaitoje, 
-           
+iš įkeistų lėšų, esančių įkaito davėjo banko
+sąskaitoje,
 tenkinimo tvarka
- 
 1. Tais atvejais, kai prievolės
-įvykdymui užtikrinti buvo įkeistos lėšos, esančios įkaito da­vėjo banko
-sąskaitoje, įteikus skolininkui įspėjimą dėl išieškojimo, kreditoriui pereina
-teisė tvarkyti įkaito davėjo banko sąskaitą. Teisė tvarkyti banko sąskaitą
-perduodama rašytiniu įkaito davėjo pareiškimu, o jeigu įkaito davėjas
-nesutinka, - hipotekos teisėjo nutartimi.
+įvykdymui užtikrinti buvo įkeistos lėšos, esančios įkaito da­vėjo banko sąskaitoje,
+įteikus skolininkui įspėjimą dėl išieškojimo, kreditoriui pereina teisė
+tvarkyti įkaito davėjo banko sąskaitą. Teisė tvarkyti banko sąskaitą perduodama
+rašytiniu įkaito davėjo pareiškimu, o jeigu įkaito davėjas nesutinka, -
+hipotekos teisėjo nutartimi.
 2. Kreditorius, kuriam perduota teisė
 tvarkyti įkaito davėjo sąskaitą, turi teisę naudoti įplaukiančias į šią
 sąskaitą lėšas savo reikalavimams patenkinti.
@@ -799,9 +1025,15 @@ Kreditorius, kurio reikalavimas patenkintas iš įkaito davėjo sąskaitoje esan
 lėšų, per 3 darbo dienas privalo grąžinti įkaito davėjui įkeitimo lakštą su
 įrašu apie reikalavimo patenkinimą.
  
+50 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 51 straipsnis. Skolininko teisės vykdant
 išieškojimą
- 
 Skolininkas, gavęs įspėjimą dėl
 išieškojimo, turi teisę:
 1) ginčyti kreditoriaus veiksmus,
@@ -809,9 +1041,15 @@ susijusius su išieškojimu, ieškininės teisenos tvarka;
 2) įvykdyti įkeitimu užtikrintą
 prievolę, o ją įvykdžius, - susigrąžinti turtą.
  
+51 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 52 straipsnis. Perduoto kreditoriaus
 žinion įkeisto turto pardavimo tvarka
- 
 1. Perduotą kreditoriaus žinion įkeistą
 turtą parduoda:
 1) kreditorius, jeigu tai nustatyta
@@ -821,40 +1059,67 @@ asmuo.
 2. Kreditorius įkeistą turtą parduoda
 aukcione, o kreditoriaus ir skolininko įgaliotas asmuo - kreditoriaus ir
 skolininko nurodytu būdu. Vertybiniai popieriai, įregistruoti Vertybinių
-popierių komisijoje, parduodami Vertybinių popierių viešosios apyvartos įstatymo
-nustatyta tvarka.
+popierių komisijoje, parduodami Vertybinių popierių viešosios apyvartos
+įstatymo nustatyta tvarka.
 3. Įkeistas turtas, areštuotas kitų
 įstatymų nustatyta tvarka, parduodamas Civilinio proceso kodekso nustatyta
 tvarka.
 4. Įkaito davėjo, kuriam pradėta
-bankroto procedūra, turtas parduodamas ir kreditorių reikalavimai tenkinami Įmonių
-bankroto įstatymo nustatyta tvarka.
+bankroto procedūra, turtas parduodamas ir kreditorių reikalavimai tenkinami
+Įmonių bankroto įstatymo nustatyta tvarka.
 5. Lėšos, gautos pardavus įkeistą turtą
 šio straipsnio 2 ir 3 dalyse nustatyta tvarka, pervedamos į hipotekos skyriaus
 depozitinę sąskaitą.
 6. Šiame straipsnyje nustatytų taisyklių
 nesilaikymas įkeisto turto pirkimo-pardavimo sutartį daro negaliojančią.
  
+[52 straipsnio
+redakcija nuo 2001 m. liepos 1 d.:
+52
+straipsnis. Įkeisto turto pardavimo tvarka 
+1. Įkeistas
+turtas parduodamas Civilinio kodekso ir Civilinio proceso kodekso nustatyta
+tvarka.
+2. Įkaito davėjo, kuriam pradėta bankroto
+(restruktūrizavimo) procedūra, turtas parduodamas ir kreditorių reikalavimai
+tenkinami Įmonių bankroto įstatymo (Įmonių restruktūrizavimo įstatymo)
+nustatyta tvarka.]
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 53 straipsnis. Išieškojimo iš įkeisto
 turto nutraukimas
- 
 Kreditorius privalo nutraukti
 išieškojimą, jeigu:
 1) teismo sprendimu nustatyta, kad
 kreditorius neturi teisės vykdyti išieškojimo;
 2) skolininkas įvykdo prievolę.
  
+53 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 54 straipsnis. Skolininko teisė į
 nuostolių atlyginimą
- 
 Skolininkas turi teisę reikalauti, kad
 kreditorius atlygintų jo patirtus nuostolius, atsira­dusius kreditoriui vykdant
 išieškojimą, taip pat nuostolius, atsiradusius kreditoriui netinka­mai laikant
 turtą ar jį priverstinai parduodant.
  
+54 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 55 straipsnis. Atsiskaitymai pardavus
 įkeistą turtą
- 
 1. Reikalavimai iš sumos, gautos
 priverstinai pardavus įkeistą turtą, tenkinami šia tvarka:
 1) atlyginamos turto pardavimo išlaidos;
@@ -871,9 +1136,22 @@ nutartį dėl kreditorių reikalavimų tenkinimo ne vėliau kaip per 7 darbo die
 nuo pirkimo-pardavimo sutarties pateikimo ir lėšų už parduotą įkeistą turtą
 pervedimo į hipotekos skyriaus depozitinę sąskaitą dienos.
  
+[55 straipsnio
+redakcija nuo 2001 m. liepos 1 d.:
+55
+straipsnis. Nutarties dėl kreditorių reikalavimų priėmimas 
+Hipotekos teisėjas turi priimti nutartį dėl
+kreditorių reikalavimų tenkinimo ne vėliau kaip per 7 darbo dienas nuo
+pirkimo–pardavimo sutarties, o kai įkeitimas neįregistruotas hipotekos
+registre, ir nuo įkeitimo sutarties pateikimo, ir lėšų už parduotą įkeistą
+turtą pervedimo į hipotekos skyriaus depozitinę sąskaitą dienos.]
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 56 straipsnis. Lėšų kreditoriams
 paskirstymas
- 
 1. Jeigu priverstinai parduotas turtas
 buvo įkeistas kelių skirtingų kreditorių reikalavimams patenkinti, hipotekos
 teisėjas sudaro sumų paskirstymo kreditoriams projektą ir išsiunčia jį
@@ -887,10 +1165,9 @@ nurodytas sąskaitas ne vėliau kaip per 7 darbo dienas po hipotekos teisėjo
 nutarties dėl sumų paskirstymo įsiteisėjimo.
  
 57 straipsnis. Įkeitimo teisės
-pasibaigimas pervedus pinigus į hipotekos skyriaus depozitinę 
-           
+pasibaigimas pervedus pinigus į hipotekos skyriaus 
+depozitinę
 sąskaitą
- 
 1. Kreditoriui atsisakius priimti
 hipotekos registre įregistruotu įkeitimu užtikrintos pi­niginės prievolės
 įvykdymą, skolininkas gali pervesti atitinkamą sumą į hipotekos skyriaus
@@ -900,25 +1177,32 @@ depozitinę sąskaitą ir kreiptis su prašymu į hipotekos teisėją patvirtint
 patvirtinti įkeitimo teisės pasibaigimą turi iš­nagrinėti ir priimti nutartį
 per 7 darbo dienas po prašymo įteikimo.
  
+57 straipsnis. Neteko galios
+nuo 2001 m. liepos 1 d.
+Straipsnio
+pakeitimai:
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
+ 
 ŠEŠTASIS
 SKIRSNIS
 BAIGIAMOSIOS
 NUOSTATOS
  
 58 straipsnis. Įstatymo įsigaliojimas
- 
 Šis įstatymas įsigalioja nuo 1998 m.
 balandžio 1 d.
- 
 Straipsnio
 pakeitimai:
-Nr. VIII-568,
-97.12.09, Žin., 1997, Nr.117-3008 (97.12.24)
+Nr. VIII-568, 1997 12
+09, Žin., 1997, Nr. 117-3008 (1997 12 24)
  
 58(1) straipsnis. Duomenų apie įkeitimo
-sutartis, sudarytas iki 1998 m. balandžio 1 d., perdavimo hipotekos skyriams ir
-įrašymo į Hipotekos registro duomenų bazę tvarka
- 
+sutartis, sudarytas iki 1998 m. balandžio 1 d., 
+perdavimo
+hipotekos skyriams ir įrašymo į Hipotekos registro duomenų 
+bazę
+tvarka
 1. Duomenis apie kilnojamojo turto
 įkeitimo sutartis, sudarytas iki 1998 m. balandžio 1 d., kreditoriai turi
 perduoti hipotekos skyriams, kad šie duomenys, jeigu įkeistas turtas nėra
@@ -941,28 +1225,28 @@ duomenis apie įkeitimo sutartis, sudarytas iki 1998 m. balandžio 1 d., iš
 Hipotekos registro duomenų bazės priimama, kai yra pateiktas kreditoriaus
 pareiškimas dėl skolinio įsipareigojimo įvykdymo arba įkeisto turto pardavimo
 iš varžytynių aktas.
- 
 Straipsnio
 pakeitimai:
 Nr.
-VIII-669, 98.03.19, Žin., 1998, Nr.31-821 (98.04.01)
+VIII-669, 98.03.19,
+Žin., 1998, Nr.31-821 (98.04.01)
  
-59
-straipsnis. Reikalavimų, atsiradusių iš turto įkeitimo sutarčių, sudarytų iki
-1998 m. balandžio 1 d., tenkinimo tvarka
- 
-1. Reikalavimus dėl išieškojimo
-nukreipimo į turtą, įkeistą iki 1998 m. balandžio 1 d., kai duomenys apie šį
-įkeitimą įrašyti į Hipotekos registro duomenų bazę, kreditoriai gali pareikšti
-paduodami pareiškimą hipotekos skyriui dėl priverstinio skolos išieškojimo arba
-ieškininį pareiškimą teismui. Teismas, priėmęs ieškininį pareiškimą, apie tai
-per 10 dienų turi raštu pranešti hipotekos skyriui. 
-2. Teismas apie priimtą ieškininį pareiškimą
-praneša, taip pat kreditorius pareiškimą pradėti skolos išieškojimą paduoda tam
-hipotekos skyriui, kuriam buvo perduoti duomenys apie įkeitimo sutartį.
-Pareiškime pradėti skolos išieškojimą nurodoma įkeitimo sutarties sudarymo
-data, įkeistas turtas, negrąžintos skolos dydis, skolininkas, įkeisto turto
-savininkas ir jų adresai.
+59 straipsnis. Reikalavimų, atsiradusių iš turto
+įkeitimo sutarčių, sudarytų iki 1998 m. 
+balandžio 1 d.,
+tenkinimo tvarka
+1. Reikalavimus dėl išieškojimo nukreipimo į turtą,
+įkeistą iki 1998 m. balandžio 1 d., kai duomenys apie šį įkeitimą įrašyti į
+Hipotekos registro duomenų bazę, kreditoriai gali pareikšti paduodami
+pareiškimą hipotekos skyriui dėl priverstinio skolos išieškojimo arba ieškininį
+pareiškimą teismui. Teismas, priėmęs ieškininį pareiškimą, apie tai per 10
+dienų turi raštu pranešti hipotekos skyriui. 
+2. Teismas apie priimtą ieškininį
+pareiškimą praneša, taip pat kreditorius pareiškimą pradėti skolos išieškojimą
+paduoda tam hipotekos skyriui, kuriam buvo perduoti duomenys apie įkeitimo
+sutartį. Pareiškime pradėti skolos išieškojimą nurodoma įkeitimo sutarties
+sudarymo data, įkeistas turtas, negrąžintos skolos dydis, skolininkas, įkeisto
+turto savininkas ir jų adresai.
 3. Pareiškimas dėl skolos išieškojimo
 nagrinėjamas hipotekos skyriuje šia tvarka:
 1) hipotekos teisėjas per 3 darbo dienas
@@ -992,8 +1276,19 @@ hipotekos teisėjas priima nutartį panaikinti turto areštą.
 nustatyta tvarka kreditoriui pradėjus išieškojimą iš įkeisto turto kiti
 kreditoriai per 1 mėnesį nuo įspėjimo skolininkui įteikimo dienos raštu
 pareiškia prieštaravimus dėl skolos išieškojimo ne ginčo tvarka ir pateikia
+juos hipotekos skyriui, hipotekos teisėjas priima nutartį sustabdyti išieškojimą
+ir pasiūlo kreditoriams spręsti ginčą ieškininės teisenos tvarka.
+ 
+[4 dalies
+redakcija nuo 2001 m. liepos 1 d.:
+4. Jeigu iki 1998 m. balandžio 1 d. įkeistas turtas
+pakartotinai įkeičiamas pagal šį įstatymą arba Civilinį kodeksą ir šio įstatymo
+nustatyta tvarka kreditoriui pradėjus išieškojimą iš įkeisto turto kiti
+kreditoriai per 1 mėnesį nuo įspėjimo skolininkui įteikimo dienos raštu
+pareiškia prieštaravimus dėl skolos išieškojimo ne ginčo tvarka ir pateikia
 juos hipotekos skyriui, hipotekos teisėjas priima nutartį sustabdyti
-išieškojimą ir pasiūlo kreditoriams spręsti ginčą ieškininės teisenos tvarka.
+išieškojimą ir pasiūlo kreditoriams spręsti ginčą ieškininės teisenos tvarka.]
+ 
 5. Kreditorių reikalavimai, atsiradę iš
 turto įkeitimo sutarčių, sudarytų iki 1998 m. balandžio 1 d., jeigu duomenys
 apie šias sutartis įrašyti į Hipotekos registro duomenų bazę, tenkinami pagal
@@ -1005,17 +1300,18 @@ keliems kreditoriams, kreditorių reikalavimų tenkinimo eilė nustatoma pagal
 nustatyta tvarka ir terminais hipotekos skyriams duomenų apie įkeitimo
 sutartis, sudarytas iki 1998 m. balandžio 1 d., praranda teisę į reikalavimų,
 atsiradusių iš šių sutarčių, patenkinimą pagal Civilinio proceso kodekso 426(1) straipsnį.
- 
 Straipsnio
 pakeitimai:
-Nr. VIII-568,
-97.12.09, Žin., 1997, Nr.117-3008 (97.12.24)
+Nr. VIII-568, 1997 12
+09, Žin., 1997, Nr. 117-3008 (1997 12 24)
 Nr.
-VIII-669, 98.03.19, Žin., 1998, Nr.31-821 (98.04.01)
+VIII-669, 1998 03
+19, Žin., 1998, Nr. 31-821 (1998 04 01)
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27), įsigalioja nuo 2001-07-01
  
 60 straipsnis. Kreditorių reikalavimų
 tenkinimo termino atidėjimas
- 
 1. Kreditorių, kurių reikalavimų
 įvykdymui užtikrinti įkeistas kilnojamasis turtas šio įstatymo nustatyta
 tvarka, reikalavimai pagal šio įstatymo 55 straipsnį gali būti pradedami
@@ -1032,11 +1328,11 @@ hipotekos skyrių. Šiais atvejais hipotekos teisėjas sustabdo išieškojimo i�
 įkeisto turto vykdymą, iki įsiteisės teismo sprendimas. Kreditoriai, kurie per
 šioje dalyje nustatytą terminą nepareiškia ieškinio, praranda teisę į
 reikalavimų patenkinimą šio įstatymo nustatyta tvarka.
- 
 Straipsnio
 pakeitimai:
 Nr.
-VIII-669, 98.03.19, Žin., 1998, Nr.31-821 (98.04.01)
+VIII-669, 1998
+03 19, Žin., 1998, Nr. 31-821 (1998 04 01)
  
  
 Skelbiu šį Lietuvos Respublikos Seimo
@@ -1045,6 +1341,54 @@ priimtą įstatymą.
  
 
  
-RESPUBLIKOS PREZIDENTAS                           ALGIRDAS
-BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS
+                                   ALGIRDAS BRAZAUSKAS
+______________________
+Pakeitimai:
+ 
+1.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. VIII-568, 1997 12
+09, Žin., 1997, Nr. 117-3008 (1997 12 24)
+LIETUVOS
+RESPUBLIKOS KILNOJAMOJO TURTO ĮKEITIMO ĮSTATYMO 58 IR 59 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-669, 1998
+03 19, Žin., 1998, Nr. 31-821 (1998 04 01)
+LIETUVOS
+RESPUBLIKOS KILNOJAMOJO TURTO ĮKEITIMO ĮSTATYMO 59 STRAIPSNIO PAKEITIMO IR
+PAPILDYMO 58(1), 60 STRAIPSNIAIS ĮSTATYMAS
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1380, 1999 11 04, Žin., 1999, Nr.
+99-2843 (1999 11 24)
+LIETUVOS
+RESPUBLIKOS KILNOJAMOJO TURTO ĮKEITIMO ĮSTATYMO 5, 12 STRAIPSNIŲ
+PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-370, 2001-06-12, Žin., 2001, Nr.
+55-1942 (2001-06-27)
+KILNOJAMOJO TURTO ĮKEITIMO ĮSTATYMO 1, 42, 48, 52, 55, 59
+STRAIPSNIŲ PAKEITIMO IR 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17,
+18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37, 38,
+43, 44, 46, 47, 50, 51, 53, 54, 57 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
+ĮSTATYMAS
+Šis įstatymas
+įsigalioja nuo Lietuvos Respublikos civilinio kodekso įsigaliojimo, t.y. nuo
+2001 m. liepos 1 d.
+ 
+*** Pabaiga ***
+ 
+ 
+Redagavo: Angonita Rupšytė (2001-07-03)
+                  anrups@lrs.lt
 
