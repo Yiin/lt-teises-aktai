@@ -13,144 +13,167 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C5DF704DF871"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-@D1=19931222;D2=19960625;D3=19960709
+Redagavo: Ramunė Lūžaitė (1996
 
-@D1=19931222;D2=19960625;D3=19960709
+Redagavo: Ramunė
+Lūžaitė (1996.12.04)
+ 
 Pakeitimai:
- 1.
- Parlamentas,
+ 
+1.
+Parlamentas,
 Įstatymas
-{#19940324AA0412 ;}
-Nr. 1-412, 94.03.24, Žin., 1994, Nr. 25-399 (94.04.01)
- DĖL LIETUVOS
+Nr. 1-412, 94.03.24,
+Žin., 1994, Nr. 25-399 (94.04.01)
+DĖL LIETUVOS
 RESPUBLIKOS PRIDĖTOSIOS VERTĖS MOKESČIO ĮSTATYMO
- PAKEITIMO
- 
- 2.
- Parlamentas,
-Įstatymas
-{#19940407AA0423 ;}
-Nr. 1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
- DĖL LIETUVOS
-RESPUBLIKOS PRIDĖTOSIOS VERTĖS MOKESČIO ĮSTATYMO
- PAKEITIMO IR
-PAPILDYMO
- 
- 3.
- Parlamentas,
-Įstatymas
-{#19940720AA0567 ;}
-Nr. 1-567, 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
- DĖL LIETUVOS
-RESPUBLIKOS PRIDĖTOSIOS VERTĖS MOKESČIO ĮSTATYMO
- PAKEITIMO IR
-PAPILDYMO
- 
- 4.
- Parlamentas,
-Įstatymas
-{#19950126AA0774 ;}
-Nr. 1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
- DĖL LIETUVOS
-RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO
- PAKEITIMO IR
-PAPILDYMO
- 
- 5.
- Parlamentas,
-Įstatymas
-{#19950530AA0904 ;}
-Nr. 1-904, 95.05.30, Žin., 1995, Nr. 49-1178 (95.06.14)
- DĖL LIETUVOS
-RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO
- PAKEITIMO IR
-PAPILDYMO
- 
- 6.
- Parlamentas,
-Įstatymas
-{#19951031AA1083 ;}
-Nr. 1-1083, 95.10.31, Žin., 1995, Nr. 92-2057 (95.11.10)
- DĖL LIETUVOS
-RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 38
- STRAIPSNIO
 PAKEITIMO
  
- 7.
- Parlamentas,
+2.
+Parlamentas,
 Įstatymas
-{#19951228AA1159 ;}
-Nr. 1-1159, 95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
- DĖL LIETUVOS
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
+DĖL LIETUVOS
+RESPUBLIKOS PRIDĖTOSIOS VERTĖS MOKESČIO ĮSTATYMO
+PAKEITIMO IR
+PAPILDYMO
+ 
+3.
+Parlamentas,
+Įstatymas
+Nr. 1-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
+DĖL LIETUVOS
+RESPUBLIKOS PRIDĖTOSIOS VERTĖS MOKESČIO ĮSTATYMO
+PAKEITIMO IR
+PAPILDYMO
+ 
+Šis įstatymas
+įsigalioja nuo 1994 metų rugpjūčio 1 dienos.
+ 
+4.
+Parlamentas,
+Įstatymas
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+DĖL LIETUVOS
+RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO
+PAKEITIMO IR
+PAPILDYMO
+ 
+Šis įstatymas
+įsigalioja nuo 1995 metų kovo 1 dienos.
+ 
+5.
+Parlamentas,
+Įstatymas
+Nr. 1-904, 95.05.30,
+Žin., 1995, Nr. 49-1178 (95.06.14)
+DĖL LIETUVOS
+RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO
+PAKEITIMO IR
+PAPILDYMO
+ 
+6.
+Parlamentas,
+Įstatymas
+Nr. 1-1083,
+95.10.31, Žin., 1995, Nr. 92-2057 (95.11.10)
+DĖL LIETUVOS
+RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 38
+STRAIPSNIO PAKEITIMO
+ 
+7.
+Parlamentas,
+Įstatymas
+Nr. 1-1159,
+95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
+DĖL LIETUVOS
 RESPUBLIKOS MOKESČIŲ ĮSTATYMŲ PAPILDYMO
  
- 8.
- Parlamentas,
+8.
+Parlamentas,
 Įstatymas
-{#19960123AA1185 ;}
-Nr. 1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
- LIETUVOS
-RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO PAKEITIMO
- IR PAPILDYMO
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+LIETUVOS RESPUBLIKOS
+PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO PAKEITIMO
+IR PAPILDYMO
 ĮSTATYMAS
- Pakeitimai:
+ 
+Šis įstatymas
+įsigalioja nuo 1996 metų balandžio 1 dienos.
+ 
+Pakeitimai:
   01. Parlamentas,
 Įstatymas
-       Nr. 1-1244,
+  Nr. 1-1244,
 96.03.21, Žin., 1996, Nr. 28-671 (96.03.27)
  
- 
- 9.
- Parlamentas,
+9.
+Parlamentas,
 Įstatymas
-{#19960328AA1259 ;}
-Nr. 1-1259, 96.03.28, Žin., 1996, Nr. 35-866 (96.04.19)
- LIETUVOS
-RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 6
- STRAIPSNIO
+Nr. 1-1259,
+96.03.28, Žin., 1996, Nr. 35-866 (96.04.19)
+LIETUVOS RESPUBLIKOS
+PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 6
+STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
+ 
+10.
+Parlamentas,
+Įstatymas
+Nr. 1-1308,
+96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
+LIETUVOS RESPUBLIKOS
+PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 35 IR 36
+STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+ 
+Šis įstatymas
+įsigalioja nuo 1996 metų liepos 1 dienos.
+ 
+11.
+Parlamentas,
+Įstatymas
+Nr. 1-1339,
+96.05.16, Žin., 1996, Nr. 49-1172 (96.05.24)
+LIETUVOS RESPUBLIKOS
+PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 38
+STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
+12.
+Parlamentas,
+Įstatymas
+Nr. 1-1346,
+96.05.21, Žin., 1996, Nr. 50-1198 (96.05.29)
+LIETUVOS RESPUBLIKOS
+PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 38(1)
+STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
+13.
+Parlamentas,
+Įstatymas
+Nr. 1-1402,
+96.06.25, Žin., 1996, Nr. 62-1466 (96.07.02)
+LIETUVOS RESPUBLIKOS
+PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 23
+STRAIPSNIO PAKEITIMO
+IR PAPILDYMO ĮSTATYMAS
+ 
+14.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. I-1615,
+96.11.14, Žin., 1996, Nr.116-2690 (96.12.04)
+PRIDĖTINĖS VERTĖS
+MOKESČIO ĮSTATYMO 25 IR 38 STRAIPSNIŲ
 PAPILDYMO ĮSTATYMAS
  
- 10.
- Parlamentas,
-Įstatymas
-{#19960430AA1308 ;}
-Nr. 1-1308, 96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
- LIETUVOS
-RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 35 IR 36
- STRAIPSNIŲ
-PAKEITIMO ĮSTATYMAS
- 
- 11.
- Parlamentas,
-Įstatymas
-{#19960516AA1339 ;}
-Nr. 1-1339, 96.05.16, Žin., 1996, Nr. 49-1172 (96.05.24)
- LIETUVOS
-RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 38
- STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
- 
- 12.
- Parlamentas,
-Įstatymas
-{#19960521AA1346 ;}
-Nr. 1-1346, 96.05.21, Žin., 1996, Nr. 50-1198 (96.05.29)
- LIETUVOS
-RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 38(1)
- STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
- 
- 13.
- Parlamentas,
-Įstatymas
-{#19960625AA1402 ;}
-Nr. 1-1402, 96.06.25, Žin., 1996, Nr. 62-1466 (96.07.02)
- LIETUVOS
-RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 23
- STRAIPSNIO
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
- 
- *** Pabaiga ***
+*** Pabaiga ***
  
                      
 LIETUVOS RESPUBLIKOS
@@ -162,8 +185,8 @@ PRIDĖTINĖS VERTĖS MOKESČIO
 ĮSTATYMAS
  
  
-                 1993
-m. gruodžio 22 d. Nr.I-345
+                
+1993 m. gruodžio 22 d. Nr.I-345
  
                             
 Vilnius
@@ -182,15 +205,15 @@ prekės.
  
      2 straipsnis.  
 Prekė, kaip  mokesčio objektas, yra daiktai,
-numizmatinės  
-paskirties    pinigai,   visų    rūšių   energija,
+numizmatinės   paskirties   
+pinigai,   visų    rūšių   energija,
 nekilnojamasis
 turtas, išskyrus žemę.
  
 Straipsnio
 pakeitimai:
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      3 straipsnis.  
 Paslaugos, kaip  mokesčio objektas, yra visų
@@ -207,8 +230,8 @@ vidaus vartojimui
 prekių, išskyrus:
      1)  medicinos  
 ir   stomatologines   paslaugas,   teikiamas
-valstybinių sveikatos 
-priežiūros  ir  veterinarinio  aptarnavimo
+valstybinių
+sveikatos  priežiūros  ir  veterinarinio  aptarnavimo
 įstaigų, vaistus 
 (įskaitant veterinarinius), medicinos techniką,
 įrengimus ir 
@@ -229,8 +252,8 @@ Lietuvos 
 Respublikos  Vyriausybės  nustatyta  tvarka,  teikiamas
 mokymo, mokslo,
 studijų paslaugas, taip pat nekomercines kultūros
-paslaugas, kurių
-sąrašą sudaro Lietuvos Respublikos Vyriausybė;
+paslaugas, kurių sąrašą
+sudaro Lietuvos Respublikos Vyriausybė;
      4) pašto 
 patarnavimus (išskyrus  siuntinių  persiuntimo  ir
 telekomunikacijų
@@ -310,14 +333,14 @@ biudžetų lėšų.
  
 Straipsnio
 pakeitimai:
-{#94FSAA0567 ;} Nr.
-1-567, 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
-            II.
+            II.
 PRIDĖTOSIOS VERTĖS MOKESČIO MOKĖTOJAI
  
      5  
@@ -343,11 +366,11 @@ litų.
  
 Straipsnio
 pakeitimai:
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
  
-     6  
-straipsnis.   PVM  už   parduotas  prekes  ir  suteiktas
+     6   straipsnis.
+  PVM  už   parduotas  prekes  ir  suteiktas
 paslaugas 
 neskaičiuoja  ir  nemoka  į  biudžetą  asmenys,  kurių
 realizacinės
@@ -376,18 +399,18 @@ mėnesiu, kurį 
 viršijo, PVM  turi skaičiuoti ir mokėti į biudžetą
 bendra tvarka.
      Laisvosiose   
-ekonominÓse    zonose    zonÖ   ŌmonÓs   PVM
-neskaiŃiuoja ir Ō
-biudŲetŠ nemoka.
+ekonominėse    zonose    zonų   įmonės   PVM
+neskaičiuoja ir į
+biudžetą nemoka.
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
-{#96B[AA1259 ;} Nr.
-1-1259, 96.03.28, Žin., 1996, Nr. 35-866 (96.04.19)
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-1259,
+96.03.28, Žin., 1996, Nr. 35-866 (96.04.19)
  
      7 straipsnis.  
 Asmenys, kurie  pagal 6 straipsnio nuostatas
@@ -408,8 +431,8 @@ kuriems taikomas PVM kompensacinis tarifas.
  
 Straipsnio
 pakeitimai:
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
  
      8 straipsnis.  
 Asmenys, kurie  nėra PVM  mokėtojai,  neturi
@@ -421,9 +444,11 @@ Jeigu  šie  asmenys 
 mokestį  paėmė,  tai  jį  privalo sumokėti į
 biudžetą.
  
-Straipsnio pakeitimai:
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
+Straipsnio
+pakeitimai:
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+ 
  
    III.
 APMOKESTINAMOJI VERTĖ IR MOKESČIO APSKAIČIAVIMO LAIKAS
@@ -451,8 +476,8 @@ produkcijos  realizavimu  susiję    mokesčiai
 išskyrus PVM;
      8)
 aptarnavimo   išlaidos  arba  kitos  į  prekių gamybos ar
-paslaugų   teikimo   kainą 
-neįskaitytos  sumos,  kurias pirkėjai
+paslaugų   teikimo  
+kainą  neįskaitytos  sumos,  kurias pirkėjai
 (paslaugų gavėjai)
 sumoka prekių pardavėjui (paslaugos teikėjui).
  
@@ -465,9 +490,8 @@ skaičiuoti
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
- 
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
  
      11 straipsnis. 
 Mainant prekes  (paslaugas), apmokestinamoji
@@ -484,16 +508,16 @@ prekes (teikiamas
 paslaugas);
      sumokėjus į
 kasą pinigus, kai neišrašoma sąskaita-faktūra;
-importo mokesčiams 
-apskaičiuoti  nustatyta  tvarka,  kai  prekės
+     importo
+mokesčiams apskaičiuoti nustatyta tvarka, kai prekės
 importuojamos.
  
 Straipsnio
 pakeitimai:
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
                      
 IV. MOKESČIO TARIFAI
@@ -516,13 +540,14 @@ Lietuvos Respublikos  Vyriausybė. Tarifo  dydis
 negali viršyti 9
 procentų.
  
-Straipsnio pakeitimai:
-{#94FSAA0567 ;} Nr.
-1-567, 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Straipsnio
+pakeitimai:
+Nr. 1-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      14 straipsnis.
 PVM skaičiuojamas taikant 18 procentų tarifą,
@@ -538,12 +563,12 @@ PVM 15,25 procento tarifas taikomas:
 prekės  parduodamos   (paslaugos  teikiamos)  už
 grynuosius pinigus
 neišrašant PVM sąskaitos-faktūros;
-     2) jeigu 
-prekių kainos  (paslaugų tarifų)  dydis nustatytas
+     2) jeigu  prekių
+kainos  (paslaugų tarifų)  dydis nustatytas
 valstybės valdymo
 institucijų;
-     3)  jeigu   sąskaitoje-faktūroje 
-už  apmokestinamas  prekes
+     3)  jeigu  
+sąskaitoje-faktūroje  už  apmokestinamas  prekes
 (paslaugas) PVM 
 neišskirtas. Prekių  ir paslaugų  gavėjai neturi
 teisės taip
@@ -554,10 +579,10 @@ atvejais.
  
 Straipsnio
 pakeitimai:
-{#94FSAA0567 ;} Nr.
-1-567, 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
                   
 V. MOKESČIO APSKAIČIAVIMAS
@@ -571,8 +596,8 @@ parduotas   prekes   bei  suteiktas paslaugas    ir
 atskaitomos PVM
 sumos.
  
-     16
-straipsnis.   Atskaitoma PVM suma yra įtraukta į apskaitą
+     16 straipsnis.  
+Atskaitoma PVM suma yra įtraukta į apskaitą
 PVM suma  už
 tiekėjų  pateiktas prekes,  suteiktas paslaugas  bei
 importuotas 
@@ -591,10 +616,10 @@ nuostatų.
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      17  straipsnis.
 Jeigu per mokesčio laikotarpį atskaitoma PVM
@@ -625,8 +650,8 @@ apmokestinamosioms
 prekėms gaminti atsargų sudarymo;
      4)  
 paslaugų    ir   materialinių    vertybių   panaudojimo
-apmokestinamoms prekėms 
-gaminti, jei  jų gamybos ciklas ilgesnis
+apmokestinamoms
+prekėms  gaminti, jei  jų gamybos ciklas ilgesnis
 kaip pusė  metų.
 Tokių  gamybos  šakų  sąrašą  tvirtina  Lietuvos
 Respublikos
@@ -643,8 +668,8 @@ laikotarpius iš 
 eilės, teritorinė valstybinė mokesčių inspekcija
 privalo patikrinti 
 tokį PVM  mokėtoją ir, nustačiusi pažeidimus,
-gali panaikinti  mokėtojo
-registraciją  12  mėnesių,  nutraukdama
+gali panaikinti 
+mokėtojo registraciją  12  mėnesių,  nutraukdama
 tolesnę
 susidariusio  skirtumo užskaitą.  Nenustačiusi pažeidimų,
 teritorinė
@@ -668,14 +693,14 @@ metai.
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
-{#94FSAA0567 ;} Nr.
-1-567, 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
+Nr. 1-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      18   
 straipsnis.    Atskaityti   kitiems   PVM   mokėtojams
@@ -696,8 +721,8 @@ Lietuvos  Respublikos  Vyriausybės  nustatyta
 tvarka.
      Specialios
 parduotuvės,  pardavusios iš Lietuvos Respublikos
-gyventojų 
-supirktus   naudotus  daiktus,   Lietuvos  Respublikos
+gyventojų  supirktus  
+naudotus  daiktus,   Lietuvos  Respublikos
 Vyriausybės
 nustatyta  tvarka gali  pagal supirktų  daiktų  kainą
 apskaičiuoti ir
@@ -705,12 +730,12 @@ atskaityti PVM.
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      19 
 straipsnis.  Iš apskaičiuotos  PVM už realizuotas prekes
@@ -724,8 +749,8 @@ teikti (nurodytoms
 šio įstatymo 4 ir 38 straipsniuose);
      2) mokėtojo
 darbuotojams maitinti;
-     3) atlyginti natūra
-mokėtojo darbuotojams už darbą;
+     3) atlyginti
+natūra mokėtojo darbuotojams už darbą;
      4) vaikų 
 darželiams, lopšeliams,  reabilitacijos  centrams,
 gyvenamajam 
@@ -736,7 +761,7 @@ tenkinti, išlaikyti;
      5) dovanoms,
 reprezentacijai ir įvairioms pramogoms;
      6) 
-keleiviniams   automobiliams  (įskaitant   lengvuosius),
+keleiviniams   automobiliams  (įskaitant   lengvuosius),
 skirtiems  vežti  
 ne  daugiau  kaip  10  žmonių  (neskaičiuojant
 vairuotojo), 
@@ -755,13 +780,13 @@ keleivių vežimu.
  
 Straipsnio
 pakeitimai:
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      20 straipsnis. 
 Jeigu   mokėtojas  gamina  apmokestinamas ir
-neapmokestinamas PVM
-  prekes (teikia  paslaugas), tai įtraukta į
+neapmokestinamas
+PVM   prekes (teikia  paslaugas), tai įtraukta į
 apskaitą per
 mokesčio laikotarpį tiekėjams sumokėtina PVM suma už
 prekes   ir   
@@ -776,10 +801,11 @@ straipsnyje  išvardintiems      atvejams      Lietuvos
 Respublikos
 Vyriausybė  gali nustatyti  ir kitokią PVM atskaitymo
 tvarką.
+ 
      21 straipsnis.
 Sumokėtas PVM grąžinamas:
-     1) paritetiniais 
-pagrindais užsienio šalių diplomatinėms ir
+     1)
+paritetiniais  pagrindais užsienio šalių diplomatinėms ir
 konsulinėms
 atstovybėms  už Lietuvos Respublikoje įsigytas prekes
 ir gautas paslaugas,
@@ -789,8 +815,8 @@ pareigūnams ir  jų šeimų  nariams  už  asmeniniam
 naudojimui įsigytas
 prekes pagal Lietuvos Respublikos Vyriausybės
 sudarytą sąrašą;
-     2)
-tarptautinėms  organizacijoms  už  Lietuvos  Respublikoje
+     2) tarptautinėms 
+organizacijoms  už  Lietuvos  Respublikoje
 įsigytas prekes  ir
 gautas  paslaugas, skirtas oficialiai misijos
 veiklai, šių 
@@ -834,14 +860,14 @@ taikomos tarptautinių sutarčių taisyklės.
  
 Straipsnio
 pakeitimai:
-{#94FSAA0567 ;} Nr.
-1-567, 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#95D]AA0904 ;} Nr.
-1-904, 95.05.30, Žin., 1995, Nr. 49-1178 (95.06.14)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-904, 95.05.30,
+Žin., 1995, Nr. 49-1178 (95.06.14)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
              VI.
 IMPORTO IR EKSPORTO APMOKESTINIMAS
@@ -850,22 +876,22 @@ IMPORTO IR EKSPORTO APMOKESTINIMAS
 straipsnis.  Nuo importuojamų  prekių vertės  imamas šio
 įstatymo 13
 straipsnio pirmosios dalies 2 punkte nustatyto dydžio
-PVM, kuris 
-sumokamas į biudžetą Lietuvos Respublikos Vyriausybės
+PVM, kuris  sumokamas
+į biudžetą Lietuvos Respublikos Vyriausybės
 nustatyta mokesčiams
 mokėti muitinėje tvarka.
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
-     23   straipsnis. 
-PVM  neapmokestinamos  šios   importuojamos
+     23  
+straipsnis.  PVM  neapmokestinamos  šios   importuojamos
 prekės:
    1) gaunamos kaip
 labdara (humanitarinė pagalba);
@@ -899,12 +925,12 @@ parama biudžetinėms įstaigoms.
  
 Straipsnio
 pakeitimai:
-{#94FSAA0567 ;} Nr.
-1-567, 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#19960625AA1402 ;}
-Nr. 1-1402, 96.06.25, Žin., 1996, Nr. 62-1466 (96.07.02)
+Nr. 1-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1402,
+96.06.25, Žin., 1996, Nr. 62-1466 (96.07.02)
  
      24  
 straipsnis.   Importuojamų   prekių   vertė   nustatoma
@@ -915,8 +941,8 @@ tarifų įstatymo nuostatas.
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
  
      25  
 straipsnis.   13   straipsnyje   nustatytu   0   tarifu
@@ -939,10 +965,12 @@ tarptautiniais
 maršrutais, aprūpinimas, komplektavimas, remontas,
 eksploatavimas ir
 nuoma;
-     4) prekės, 
-įvežamos į  muitinės sandėlius  ir  parduotuves,
-esančias ne Lietuvos
-Respublikos muitų teritorijoje;
+      4)  prekės, 
+įvežamos  į  muitinės sandėlius,  parduotuves,
+esančias  ne 
+Lietuvos   Respublikos   muitų   teritorijoje,   ir
+neapmuitinamas
+parduotuves;
      5) mokėtojų  - 
 įmonių,  įstaigų  ir  organizacijų  atliktos
 paslaugos už
@@ -954,10 +982,13 @@ eksportui ir reeksportui skirtų prekių gamyba.
  
 Straipsnio
 pakeitimai:
-{#94FSAA0567 ;} Nr.
-1-567, 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. I-1615,
+96.11.14, Žin., 1996, Nr.116-2690 (96.12.04)
+ 
  
             VII.
 PRIDĖTOSIOS VERTĖS MOKESČIO APSKAITA
@@ -981,28 +1012,29 @@ gautoms iš 
 išrašo prekių ir
 paslaugų gavėjas.
  
-Straipsnio pakeitimai:
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Straipsnio
+pakeitimai:
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      27 
 straipsnis.    Jeigu   išrašius   PVM   sąskaitą-faktūrą
 keičiamos prekių 
-kainos ar  jų kiekis,  turi būti išrašoma nauja
+kainos ar  jų kiekis,  turi būti išrašoma nauja
 PVM
 sąskaita-faktūra, patikslinanti anksčiau išrašytąją.
  
 Straipsnio
 pakeitimai:
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      28 
 straipsnis.   Jeigu  išrašytos  PVM  sąskaitos-faktūros
-neatitinka šio 
-įstatymo 26  ir 27  straipsnių reikalavimų, pagal
+neatitinka šio  įstatymo
+26  ir 27  straipsnių reikalavimų, pagal
 šias  
 sąskaitas-faktūras    mokėtinos   tiekėjams   PVM   sumos,
 skaičiuojant į
@@ -1010,8 +1042,8 @@ biudžetą mokėtiną PVM sumą, neatskaitomos.
  
 Straipsnio
 pakeitimai:
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      29 straipsnis. 
 Jeigu mokėtojas  apskaičiavo ir įrašė į PVM
@@ -1022,10 +1054,9 @@ neturi būti  skaičiuojamas,  tai  jis  privalo
 nustatyta tvarka šį
 PVM sumokėti į biudžetą.
  
-Straipsnio
-pakeitimai:
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Straipsnio pakeitimai:
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      30 
 straipsnis.   PVM  mokėtojai   privalo   vesti   atskirą
@@ -1044,8 +1075,8 @@ apskaitos pagrindų
  
 Straipsnio
 pakeitimai:
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
  
             VIII.
 MOKESČIO MOKĖJIMO Į BIUDŽETĄ TVARKA
@@ -1064,10 +1095,10 @@ naftos produktus.
  
 Straipsnio
 pakeitimai:
-{#95D]AA0904 ;} Nr.
-1-904, 95.05.30, Žin., 1995, Nr. 49-1178 (95.06.14)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-904, 95.05.30,
+Žin., 1995, Nr. 49-1178 (95.06.14)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      32 straipsnis.
 Mokesčio laikotarpiui pasibaigus, kiekvienas
@@ -1080,8 +1111,8 @@ atskaitomą PVM sumą.
  
 Straipsnio
 pakeitimai:
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      33 straipsnis.
 Jeigu mokėtojas nustatytu laiku deklaracijos
@@ -1092,9 +1123,10 @@ mokesčio  laikotarpio  PVM  sumą,  kuri  išieškoma  į
 biudžetą, arba
 sumažina 1 procentu grąžintiną PVM sumą.
  
-Straipsnio pakeitimai:
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Straipsnio
+pakeitimai:
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      34 
 straipsnis.   Jeigu  deklaracija   nepateikta  iki  PVM
@@ -1113,12 +1145,12 @@ procentų.
  
 Straipsnio
 pakeitimai:
-{#94FSAA0567 ;} Nr.
-1-567, 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      35
 straipsnis.   Apskaičiuota mokėtina  PVM suma  turi  būti
@@ -1128,8 +1160,8 @@ nustatyto 
 deklaracijos  pateikimo  termino,  išskyrus   Lietuvos
 Respublikoje
 pagamintus ir įvežamus alkoholinius gėrimus,  tabako
-gaminius  bei  naftos 
-produktus,  kuriems  Lietuvos  Respublikos
+gaminius  bei 
+naftos  produktus,  kuriems  Lietuvos  Respublikos
 Vyriausybė  gali 
 nustatyti  kitą  PVM  apskaičiavimo ir mokėjimo
 tvarką.
@@ -1159,16 +1191,16 @@ metus.
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#95D]AA0904 ;} Nr.
-1-904, 95.05.30, Žin., 1995, Nr. 49-1178 (95.06.14)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
-{#19960430AA1308 ;}
-Nr. 1-1308, 96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-904, 95.05.30,
+Žin., 1995, Nr. 49-1178 (95.06.14)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-1308,
+96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
  
  
           IX.
@@ -1210,15 +1242,12 @@ priskaičiuotos baudos mokėjimo.
  
 Straipsnio
 pakeitimai:
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#95K[AA1159 ;} Nr.
-1-1159, 95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
-{#19960430AA1308 ;}
-Nr. 1-1308, 96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
-   Šis įstatymas
-įsigalioja nuo 1996 metų liepos 1 dienos.
- 
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1159,
+95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
+Nr. 1-1308,
+96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
  
  
                    
@@ -1230,53 +1259,61 @@ X. BAIGIAMOSIOS NUOSTATOS
  
 Straipsnio
 pakeitimai:
-{#94BWAA0412 ;} Nr.
-1-412, 94.03.24, Žin., 1994, Nr. 25-399 (94.04.01)
+Nr. 1-412, 94.03.24,
+Žin., 1994, Nr. 25-399 (94.04.01)
  
-     38 
-straipsnis.  Iki  1997 m. sausio 1 d. laikinu 9 procentų
-(o  įstatymo 14
-straipsnio antrojoje dalyje numatytais atvejais -
-8,26  procento) 
-PVM  tarifu  apmokestinama  Lietuvos Respublikos
+     38  straipsnis.
+PVM  neapmokestinamos  prekės,   parduodamos
+neapmuitinamose
+parduotuvėse.
+     Iki 1997 m. 
+sausio  1 d.  laikinu 9 procentų (o įstatymo 14
+straipsnio 
+antrojoje   dalyje   numatytais   atvejais   -   8,26
+procento)   PVM  
+tarifu   apmokestinama   Lietuvos   Respublikos
 gamintojų 
 pagaminti  kombinuotieji  pašarai, žuvis ir žemės ūkio
-produkcija,   
-išskyrus   mėsėdžius   švelniakailius   žvėrelius,
-nutrijas  ir  jų
-kailiukus, iš šios produkcijos pagamintos maisto
-prekės.   Šių  
-prekių   sąrašą   nustato   Lietuvos  Respublikos
+produkcija,  
+išskyrus   mėsėdžius    švelniakailius   žvėrelius,
+nutrijas  ir   jų  
+kailiukus,  iš  šios  produkcijos  pagamintos
+maisto  prekės. Šių
+prekių sąrašą  nustato  Lietuvos  Respublikos
 Vyriausybė.
-     Iki 1997 m. sausio
-1 d. neapmokestinama:
-     1) akmens 
-anglis, suskystintos  ir gamtinės  dujos,  nafta,
+     Iki 1997 m.
+sausio 1 d. neapmokestinama:
+     1)  akmens
+anglis, suskystintos  ir  gamtinės  dujos, nafta,
 krosnims kuras,
 mazutas, malkos, branduolinis kuras;
-     2)
-gyvenamiesiems  namams ir  butų ūkiui  tiekiamas  vanduo,
-elektros ir 
-šiluminė energija  bei jų išleidžiamas kanalizacinis
+     2) 
+gyvenamiesiems  namams  ir  butų ūkiui tiekiamas vanduo,
+elektros    ir   
+šiluminė    energija   bei    jų   išleidžiamas
+kanalizacinis
 vanduo;
-     3) žemės  ūkio
-bendrovių ir žemės ūkio kooperatyvų paslaugos
-jų nariams;
+     3)   žemės  
+ūkio   bendrovių   ir  žemės  ūkio  kooperatyvų
+paslaugos jų
+nariams;
      4) medicinos 
-paslaugos, kurias  teikia privačios  sveikatos
+paslaugos,  kurias  teikia privačios sveikatos
 priežiūros ir
-veterinarinio aptarnavimo įstaigos.
+veterinarinio aptarnavimo įstaigos.”
  
 Straipsnio
 pakeitimai:
-{#94FSAA0567 ;} Nr.
-1-567, 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#95I^AA1083 ;} Nr.
-1-1083, 95.10.31, Žin., 1995, Nr. 92-2057 (95.11.10)
-{#19960516AA1339 ;}
-Nr. 1-1339, 96.05.16, Žin., 1996, Nr. 49-1172 (96.05.24)
+Nr. 1-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1083,
+95.10.31, Žin., 1995, Nr. 92-2057 (95.11.10)
+Nr. 1-1339,
+96.05.16, Žin., 1996, Nr. 49-1172 (96.05.24)
+Nr. I-1615,
+96.11.14, Žin., 1996, Nr.116-2690 (96.12.04)
  
      38(1) 
 straipsnis.  Gamybinės  įmonės,  kuriose dirba riboto
@@ -1297,7 +1334,7 @@ dalis                   PVM suma sumažinama
 dirbančiųjų
  
   daugiau kaip 50
-proc.                            100 proc.
+proc.                            100 proc.
   daugiau kaip 45
 proc., bet mažiau kaip 50 proc.  90 proc.
   nuo 40 iki 45
@@ -1306,7 +1343,7 @@ proc.                              70 proc.
      Invalidų  
 visuomeninių   organizacijų  akcinės   bendrovės,
 uždarosios  akcinės 
-bendrovės,  kurių  visos  akcijos  priklauso
+bendrovės,  kurių  visos  akcijos  priklauso
 invalidų 
 visuomeninėms  organizacijoms,  apskaičiuotą  mokėti  į
 biudžetą PVM 
@@ -1324,8 +1361,8 @@ grupių invalidai;
 kurtumo laipsnio asmenys (pagal Neimaną);
      pataisos
 įstaigose dirbantys nuteistieji;
-     gydymo    
-įstaigų  darbo   terapijos  dirbtuvėse  dirbantys
+     gydymo     įstaigų 
+darbo   terapijos  dirbtuvėse  dirbantys
 ligoniai.
      Įmonių  
 priskyrimo   prie   gamybinių įmonių tvarką nustato
@@ -1334,16 +1371,16 @@ Vyriausybė.
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#95D]AA0904 ;} Nr.
-1-904, 95.05.30, Žin., 1995, Nr. 49-1178 (95.06.14)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
-{#19960521AA1346 ;}
-Nr. 1-1346, 96.05.21, Žin., 1996, Nr. 50-1198 (96.05.29)
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-904, 95.05.30,
+Žin., 1995, Nr. 49-1178 (95.06.14)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-1346,
+96.05.21, Žin., 1996, Nr. 50-1198 (96.05.29)
  
      39 straipsnis.
 Lietuvos Respublikos Vyriausybė:
@@ -1359,12 +1396,12 @@ dienos.
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-{#96@VAA1185 ;} Nr.
-1-1185, 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-1185,
+96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
  
      40
 straipsnis.   Lietuvos Respublikos Vyriausybė,  remdamasi
@@ -1375,8 +1412,8 @@ skaičiavimo ir mokėjimo instrukciją.
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
  
      41 straipsnis. 
 Lietuvos Respublikos  Vyriausybė gali  1996
@@ -1393,12 +1430,12 @@ laikotarpiui iki 1997 m. sausio 1 dienos.
  
 Straipsnio
 pakeitimai:
-{#94CFAA0423 ;} Nr.
-1-423, 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
-{#94FSAA0567 ;} Nr.
-1-567, 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
-{#95@YAA0774 ;} Nr.
-1-774, 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
+Nr. 1-423, 94.04.07,
+Žin., 1994, Nr. 28-489 (94.04.15)
+Nr. 1-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
+Nr. 1-774, 95.01.26,
+Žin., 1995, Nr. 12-261 (95.02.08)
  
  
      Skelbiu šį
