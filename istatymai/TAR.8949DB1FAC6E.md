@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8949DB1FAC6E"
 
 # Lietuvos Respublikos referendumo įstatymas
 
+Suvestinė redakcija nuo 1990-10-27 iki 1992-06-07
+ 
+Įstatymas paskelbtas: Žin. 1989, Nr. 33-445, i. k. 0891010ISTA0XI-3335
+ 
 LIETUVOS RESPUBLIKOS
 REFERENDUMO
 Į S T A T Y M A S
@@ -83,9 +87,14 @@ II. REFERENDUMO PASKELBIMAS
 
 7 straipsnis. Referendumo rūšys
 
-Referendumu gali būti priimami įstatymai ir sprendžiami kiti svarbūs valstybinio gyvenimo klausimai.
+Referendumu gali būti priimami įstatymai ir sprendžiami kiti svarbūs valstybinio gyvenimo klausimai
+Straipsnio dalies pakeitimai:
+Nr. I-695, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-755 (1990-11-10), i. k. 0901010ISTA000I-695
+ 
 
-Prireikus gali būti rengiami ir konsultaciniai (patariamieji) referendumai.
+Prireikus gali būti rengiami ir konsultaciniai (patariamieji) referendumai. 
+Straipsnio dalies pakeitimai:
+Nr. I-695, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-755 (1990-11-10), i. k. 0901010ISTA000I-695
  
 
 8 straipsnis. Referendumo paskelbimo iniciatyvos teisė
@@ -408,4 +417,15 @@ TARYBOS PREZIDIUMO SEKRETORIUS                         
  
 Vilnius, 1989 m. lapkričio 3 d. 
 Nr. XI-3335
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-695, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-755 (1990-11-10), i. k. 0901010ISTA000I-695
+Dėl Lietuvos Respublikos referendumo įstatymo 7 straipsnio pakeitimo
 
