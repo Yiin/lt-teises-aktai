@@ -186,10 +186,11 @@ kombinuotų vežimų veiklos ypatumus nustato specialieji transporto rūšių
  
 6
 straipsnis. Transporto objektų nuosavybė
-1.
-Transporto objektai nuosavybės teise gali priklausyti Lietuvos valstybei,
-savivaldybių institucijoms, Lietuvos Respublikos ir užsienio fiziniams bei
-juridiniams asmenims.
+1. Transporto objektai nuosavybės teise gali
+priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio
+fiziniams bei juridiniams asmenims. Nuosavybės teisė į viešosios transporto
+infrastruktūros objektus – autobusų stotis negali būti perleista kitiems
+Lietuvos Respublikos ar užsienio fiziniams ar juridiniams asmenims.
 2.
 Viešojo naudojimo geležinkeliai, valstybinės reikšmės keliai, tarptautinių oro
 uostų infrastruktūra, skrydžių valdymo sistemos įrenginiai, valstybinės
@@ -203,6 +204,11 @@ Viešosios transporto infrastruktūros objektus, žemę, akvatoriją (vandens
 plotus), kitą priskirtą ar sukurtą turtą viešosios transporto infrastruktūros
 valdytojas valdo, naudoja bei disponuoja turto patikėjimo teisėmis
 vadovaudamasis šiuo ir kitais įstatymais, administraciniu aktu ar sutartimi.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1866,
+2003-12-02, Žin., 2003, Nr. 119-5403 (2003-12-18)
  
 7
 straipsnis. Transporto teisinių  santykių reglamentavimas
@@ -272,9 +278,8 @@ jos vykdymą kontroliuoja Vyriausybė arba jos įgaliota institucija. Transporto
 priemonių registraciją vykdančių įmonių skaičių, atsižvelgiant į transporto
 priemonių registravimo poreikį ir jų išdėstymą šalies teritorijoje, nustato
 Vyriausybės įgaliota institucija pagal jos patvirtintą metodiką.
-5.
-Transporto infrastruktūros objektai pripažįstami tinkamais naudoti Statybos
-įstatymo ir kitų teisės aktų nustatyta tvarka.
+5. Transporto infrastruktūros objektai pripažįstami
+tinkamais naudoti Statybos įstatymo ir kitų teisės aktų nustatyta tvarka.
 6.
 Teisės vairuoti (valdyti, pilotuoti) transporto priemones įgijimo tvarką
 nustato Vyriausybė ar jos įgaliotos institucijos. Teisės vairuoti (valdyti,
@@ -311,10 +316,10 @@ priemones.
 straipsnis. Visuomenės aptarnavimo organizavimas
 1. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių
 institucijos užtikrina socialiai būtinų transporto paslaugų teikimą visuomenei.
-Patiriami dėl šių paslaugų teikimo nuostoliai vežėjams (operatoriams) yra kompensuojami
-Vyriausybės ar jos įgaliotos institucijos ir (ar) savivaldybių. Šiems
-visuomenės aptarnavimo įsipareigojimams vykdyti vežėjai (operatoriai) parenkami konkurso
-tvarka.
+Patiriami dėl šių paslaugų teikimo nuostoliai vežėjams (operatoriams) yra
+kompensuojami Vyriausybės ar jos įgaliotos institucijos ir (ar) savivaldybių.
+Šiems visuomenės aptarnavimo įsipareigojimams vykdyti vežėjai (operatoriai) parenkami
+konkurso tvarka.
 2.
 Konkurso organizavimo bei visuomenės aptarnavimo sutarčių sudarymo ir
 nutraukimo tvarką nustato Vyriausybė. Su konkurso nugalėtoju Vyriausybė ar jos
@@ -342,22 +347,21 @@ Viešosios transporto infrastruktūros savininkas yra valstybė ir savivaldybės
 Privačios transporto infrastruktūros savininkas yra fizinis ar juridinis asmuo.
 4.
 Viešosios transporto infrastruktūros valdytoją skiria Vyriausybė ar jos
-įgaliota institucija arba savivaldybės institucija. Valdytojui parinkti
-skelbiamas konkursas arba viešajai transporto infrastruktūrai valdyti steigiama
-įmonė.  
+įgaliota institucija arba savivaldybės institucija. Valdytojui parinkti skelbiamas
+konkursas arba viešajai transporto infrastruktūrai valdyti steigiama įmonė.  
  
 15 straipsnis. Viešosios transporto infrastruktūros valdytojo
 veiklos ypatumai
 1. Viešosios
 transporto infrastruktūros objekto valdytojas, garantuodamas optimalų šio
 objekto funkcionavimą, išlaidų ir pajamų subalansavimą:
-1) sudaro  galimybę
-nediskriminacinėmis sąlygomis naudotis viešosios transporto infrastruktūros
-objektu;
+1) sudaro 
+galimybę nediskriminacinėmis sąlygomis naudotis viešosios transporto
+infrastruktūros objektu;
 2) užtikrina,
 kad viešosios transporto infrastruktūros objektas  atitiktų saugaus eismo, 
-aplinkosaugos ir kitus reikalavimus, nustatytus šio Įstatymo 10 ir 11 straipsniuose,
-tinkamai prižiūri, modernizuoja ir plėtoja  viešosios transporto
+aplinkosaugos ir kitus reikalavimus, nustatytus šio Įstatymo 10 ir 11
+straipsniuose, tinkamai prižiūri, modernizuoja ir plėtoja  viešosios transporto
 infrastruktūros objektus.
 2.
 Lėšas, gautas už naudojimąsi viešąja transporto infrastruktūra (jūrų uostų
@@ -454,12 +458,19 @@ TRANSPORTO
 VEIKLOS PAGRINDŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1866,
+2003-12-02, Žin., 2003, Nr. 119-5403 (2003-12-18)
+TRANSPORTO
+VEIKLOS PAGRINDŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-03-26)
-          
-       autrap@lrs.lt
+Aušra Bodin (2003-12-19)
+                 
+aubodi@lrs.lt
