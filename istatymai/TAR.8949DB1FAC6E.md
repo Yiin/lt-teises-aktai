@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8949DB1FAC6E"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 1997-12-24 iki 1999-04-30
+Suvestinė redakcija nuo 1999-05-01 iki 2000-12-31
  
 Įstatymas paskelbtas: Žin. 1989, Nr. 33-445, i. k. 0891010ISTA0XI-3335
  
@@ -173,9 +173,10 @@ Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA
 
 Vyriausioji rinkimų komisija, gavusi dokumentus dėl referendumo paskelbimo, per penkiolika dienų juos patikrina. Jeigu Vyriausioji rinkimų komisija nustato, kad jie atitinka šio įstatymo reikalavimus, piliečių iniciatyvinės grupės baigiamąjį aktą kartu su piliečių reikalavimais – pareiškimais ir savo išvada perduoda Lietuvos Respublikos Seimui.
 
-Jeigu randa dokumentuose neesminių trūkumų ar trūksta labai nedaug (iki 0,5 procento) piliečių parašų, Vyriausioji rinkimų komisija apie tai praneša iniciatyvinei grupei ir nustato iki penkiolikos dienų terminą šiems trūkumams pašalinti. Jeigu per nustatytą laiką šie trūkumai pašalinami, reikalavimas dėl referendumo paskelbimo toliau nagrinėjamas bendra tvarka. Jeigu pažeistas iniciatyvos teisės įgyvendinimo terminas, nesurinktas reikiamas skaičius Lietuvos Respublikos piliečių parašų arba jeigu pateiktuose dokumentuose nustatyta rimtų įstatymo pažeidimų (suklastoti piliečių parašai ar pažeistas savanoriškumo principas renkant parašus), Vyriausioji rinkimų komisija motyvuotu sprendimu atmeta reikalavimą paskelbti referendumą ir praneša apie tai iniciatyvinei grupei bei Lietuvos Respublikos Seimui. Šį sprendimą piliečių iniciatyvinė grupė turi teisę per vieną mėnesį apskųsti Lietuvos Aukščiausiajam Teismui, o esant apygardos teismams – Vilniaus apygardos teismui.
+Jeigu randa dokumentuose neesminių trūkumų ar trūksta labai nedaug (iki 0,5 procento) piliečių parašų, Vyriausioji rinkimų komisija apie tai praneša iniciatyvinei grupei ir nustato iki penkiolikos dienų terminą šiems trūkumams pašalinti. Jeigu per nustatytą laiką šie trūkumai pašalinami, reikalavimas dėl referendumo paskelbimo toliau nagrinėjamas bendra tvarka. Jeigu pažeistas iniciatyvos teisės įgyvendinimo terminas, nesurinktas reikiamas skaičius Lietuvos Respublikos piliečių parašų arba jeigu pateiktuose dokumentuose nustatyta rimtų įstatymo pažeidimų (suklastoti piliečių parašai ar pažeistas savanoriškumo principas renkant parašus), Vyriausioji rinkimų komisija motyvuotu sprendimu atmeta reikalavimą paskelbti referendumą ir praneša apie tai iniciatyvinei grupei bei Lietuvos Respublikos Seimui. Šį sprendimą piliečių iniciatyvinė grupė turi teisę per vieną mėnesį apskųsti Aukštesniajam administraciniam teismui. 
 Straipsnio dalies pakeitimai:
 Nr. I-643, 1994-11-08, Žin., 1994, Nr. 89-1716 (1994-11-18), i. k. 0941010ISTA000I-643
+Nr. VIII-1048, 1999-02-09, Žin., 1999, Nr. 19-512 (1999-02-24), i. k. 0991010ISTAIII-1048
  
 
 Jeigu aptinkama, kad pilietis už to paties referendumo paskelbimą pasirašė du kartus ar daugiau, jo visi parašai neįskaitomi. Taip pat parašai neįskaitomi, jeigu piliečių parašų rinkimo lape neįrašyti visi šiame įstatyme nustatyti duomenys arba jie nurodyti neteisingai. 
@@ -369,14 +370,21 @@ Politinės partijos ir kitos politinės ar visuomeninės organizacijos įgalioti
 
 2) miestų, rajonų referendumo komisijų – Vyriausiajai rinkimų komisijai;
 
-3) Vyriausiosios rinkimų komisijos – Vilniaus apygardos teismui.
+3) Vyriausiosios rinkimų komisijos – Aukštesniajam administraciniam teismui. 
 Straipsnio punkto pakeitimai:
 Nr. I-643, 1994-11-08, Žin., 1994, Nr. 89-1716 (1994-11-18), i. k. 0941010ISTA000I-643
+Nr. VIII-1048, 1999-02-09, Žin., 1999, Nr. 19-512 (1999-02-24), i. k. 0991010ISTAIII-1048
  
 
-Šie skundai turi būti išnagrinėti ne vėliau kaip per 48 valandas nuo skundo padavimo. Vilniaus apygardos teismo sprendimas įsiteisėja nuo paskelbimo. 
+Pilietis, politinės partijos, politinės ar visuomeninės organizacijos atstovas, nesutikdamas su apylinkės referendumo komisijos sprendimu, priimtu pagal jo skundą dėl rinkėjų sąraše padarytų klaidų, dėl kurių pilietis negali įgyvendinti savo teisės dalyvauti referendume (neteisingai įrašytas į sąrašą arba išbrauktas iš sąrašo, taip pat kai sąraše netiksliai nurodyti duomenys apie rinkėją), gali apylinkės referendumo komisijos sprendimą apskųsti atitinkamos apygardos administraciniam teismui
+Papildyta straipsnio dalimi:
+Nr. VIII-1048, 1999-02-09, Žin., 1999, Nr. 19-512 (1999-02-24), i. k. 0991010ISTAIII-1048
+ 
+
+Šie skundai turi būti išnagrinėti ne vėliau kaip per 48 valandas nuo skundo padavimo. Į šį terminą įskaitomos ir ne darbo dienos. Teismo sprendimas įsiteisėja nuo paskelbimo. 
 Straipsnio dalies pakeitimai:
 Nr. I-643, 1994-11-08, Žin., 1994, Nr. 89-1716 (1994-11-18), i. k. 0941010ISTA000I-643
+Nr. VIII-1048, 1999-02-09, Žin., 1999, Nr. 19-512 (1999-02-24), i. k. 0991010ISTAIII-1048
  
 
 Papildyta straipsniu:
@@ -842,4 +850,9 @@ Lietuvos Respublikos referendumo įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-571, 1997-12-09, Žin., 1997, Nr. 117-3011 (1997-12-24), i. k. 0971010ISTAVIII-571
 Lietuvos Respublikos referendumo įstatymo 16 ir 32(3) straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1048, 1999-02-09, Žin., 1999, Nr. 19-512 (1999-02-24), i. k. 0991010ISTAIII-1048
+Lietuvos Respublikos referendumo įstatymo 11, 23(1) straipsnių pakeitimo ir papildymo įstatymas
 
