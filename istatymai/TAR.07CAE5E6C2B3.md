@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2003-07-25 iki 2003-12-11
+Suvestinė redakcija nuo 2003-12-12 iki 2004-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
  
@@ -76,7 +76,10 @@ Nr. IX-1704, 2003-07-04, Žin., 2003, Nr. 74-3422 (2003-07-25), i. k. 1031010IST
 
 
 
-2) prie valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų pastatų, gyvenamųjų namų – Vasario 16-ąją, o prie valstybės ir savivaldybių institucijų bei įstaigų – ir kitomis dienomis Lietuvos Respublikos Vyriausybės nutarimu;
+2) prie valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų pastatų, gyvenamųjų namų – vasario 16-ąją ir kovo 11-ąją, o prie valstybės ir savivaldybių institucijų bei įstaigų – ir kitomis dienomis Lietuvos Respublikos Vyriausybės nutarimu; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1845, 2003-11-25, Žin., 2003, Nr. 116-5251 (2003-12-12), i. k. 1031010ISTA0IX-1845
+ 
 
 
 
@@ -153,9 +156,11 @@ Miestų arba apskričių istorinių ar naujo pavyzdžio vėliavų tvirtinimo ir 
 
 
 
-Vasario 16-ąją – Lietuvos valstybės atkūrimo dieną, taip pat vasario 24-ąją – Estijos Nepriklausomybės dieną ir lapkričio 18-ąją – Latvijos Nepriklausomybės paskelbimo dieną prie Lietuvos Respublikos Seimo kartu su Lietuvos valstybės vėliava iškeliamos Latvijos ir Estijos valstybių vėliavos. 
+Vasario 16-ąją – Lietuvos valstybės atkūrimo dieną, kovo 11-ąją – Lietuvos nepriklausomybės atkūrimo dieną, taip pat vasario 24-ąją – Estijos Nepriklausomybės dieną ir lapkričio 18-ąją – Latvijos Nepriklausomybės paskelbimo dieną prie Lietuvos Respublikos Seimo kartu su Lietuvos valstybės vėliava iškeliamos Latvijos ir Estijos valstybių vėliavos. 
 Papildyta straipsnio dalimi:
 Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
+Straipsnio dalies pakeitimai:
+Nr. IX-1845, 2003-11-25, Žin., 2003, Nr. 116-5251 (2003-12-12), i. k. 1031010ISTA0IX-1845
  
 
 
@@ -387,3 +392,8 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3, 5, 8 ir 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1704, 2003-07-04, Žin., 2003, Nr. 74-3422 (2003-07-25), i. k. 1031010ISTA0IX-1704
 Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 straipsnio papildymo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1845, 2003-11-25, Žin., 2003, Nr. 116-5251 (2003-12-12), i. k. 1031010ISTA0IX-1845
+Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 ir 5 straipsnių pakeitimo įstatymas
