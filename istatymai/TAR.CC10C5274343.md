@@ -497,7 +497,9 @@ nustato Vyriausybė.
 terminą nuomotojo reikalavimu, jeigu žemės nuomininkas naudoja žemę ne pagal
 sutartyje numatytą pagrindinę tikslinę žemės naudojimo paskirtį, būdą ar pobūdį
 arba yra keičiama pagrindinė tikslinė žemės naudojimo paskirtis, būdas ar
-pobūdis. 
+pobūdis, išskyrus atvejus, kai Vyriausybės nustatytais atvejais ir tvarka
+valstybinės žemės nuomos sutartyje arba jos pakeitime numatyta galimybė keisti
+pagrindinę tikslinę žemės naudojimo paskirtį, būdą ar pobūdį.
 15. Jeigu
 išnuomota valstybinė žemė paimama naudoti visuomenės poreikiams, valstybinės
 žemės nuomos sutartis nutraukiama prieš terminą, žemės sklype esančių statinių
@@ -510,6 +512,11 @@ nustatyta tvarka atsiskaičius su nuomininkais.
 įstaigoms tvarką bei sąlygas nustato Žemės sklypų perleidimo ir nuomos užsienio
 valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų
 įstatymas.
+Straipsnio
+pakeitimai:
+Nr.
+IX-2325,
+2004-07-08, Žin., 2004, Nr. 117-4368 (2004-07-29)
  
 10 straipsnis. Valstybinės žemės perleidimas 
 1. Valstybinę
@@ -517,9 +524,9 @@ valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei s�
 privatizuojamiems statiniams ir įrenginiams, ir ne žemės ūkio paskirties žemės
 sklypus, perduodamus neatlygintinai savivaldybių nuosavybėn, parduoda ar kitaip
 privačion nuosavybėn perleidžia apskričių viršininkai Civilinio kodekso, kitų
-įstatymų ir Vyriausybės nustatyta tvarka. Valstybinės žemės sklypų, priskirtų privatizuojamiems
-statiniams ir įrenginiams, pardavimo ar kitokio perleidimo tvarką nustato
-Vyriausybė. 
+įstatymų ir Vyriausybės nustatyta tvarka. Valstybinės žemės sklypų, priskirtų
+privatizuojamiems statiniams ir įrenginiams, pardavimo ar kitokio perleidimo
+tvarką nustato Vyriausybė. 
 2. Valstybinės
 žemės pirkimo-pardavimo ar
 kitoje perleidimo sutartyje turi būti numatoma, kad pirkėjas ar kitas įgijėjas
@@ -567,9 +574,9 @@ dokumentus. Maksimalius parduodamų valstybinės žemės sklypų dydžius nustat
 žemės sklypų pardavimo aukcione ir be aukciono tvarkas nustato Vyriausybė.
 8. Valstybinės
 žemės sklypų pirkimo-pardavimo ar
-kitas įstatymų numatytas valstybinės žemės perleidimo privačion nuosavybėn sutartis
-sudaro bei perleistų žemės sklypų perdavimo–priėmimo aktus pasirašo apskrities
-viršininkas arba jo paskirtas apskrities viršininko administracijos
+kitas įstatymų numatytas valstybinės žemės perleidimo privačion nuosavybėn
+sutartis sudaro bei perleistų žemės sklypų perdavimo–priėmimo aktus pasirašo
+apskrities viršininkas arba jo paskirtas apskrities viršininko administracijos
 darbuotojas. Parduodant ar kitaip privačion nuosavybėn perleidžiant valstybinės
 žemės sklypus, priskirtus privatizavimo objektams, sutartį sudaro šios žemės
 patikėtinis – valstybės turto privatizavimo institucija.
@@ -589,10 +596,10 @@ atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymas.
 11 straipsnis. Valstybinės žemės mainai
 į privačią žemę ir kitus nekilnojamuosius daiktus
 1. Sprendimus mainyti laisvos
-valstybinės žemės fondo žemę į savivaldybėms ir kitiems fiziniams ar juridiniams
-asmenims nuosavybės teise priklausantį lygiavertį arba, nesant galimybės
-mainyti į lygiavertį, iki 5 procentų vertės besiskiriantį žemės sklypą ar kitus
-nekilnojamuosius daiktus priima apskrities viršininkas, jeigu:
+valstybinės žemės fondo žemę į savivaldybėms ir kitiems fiziniams ar
+juridiniams asmenims nuosavybės teise priklausantį lygiavertį arba, nesant
+galimybės mainyti į lygiavertį, iki 5 procentų vertės besiskiriantį žemės
+sklypą ar kitus nekilnojamuosius daiktus priima apskrities viršininkas, jeigu:
 1) vykdoma žemės sklypų
 konsolidacija pagal parengtą teritorijos žemės konsolidacijos projektą.
 Valstybinės žemės mainų į privačią žemę ar kitą nekilnojamąjį daiktą žemės
@@ -618,11 +625,11 @@ mainų sutartis.
 Vyriausybė.
 4. Mainomas valstybinės žemės
 sklypas ir kitos mainų sutarties šalies žemės sklypas ar kitas nekilnojamasis
-daiktas įvertinami taikant Turto ir verslo vertinimo pagrindų įstatyme
-nustatytus turto vertinimo metodus. Abiejų šalių mainomas turtas turi būti
-vertinamas tuo pačiu metodu. Mainomų žemės sklypų ar valstybinės žemės sklypo
-ir kito nekilnojamojo daikto vertės skirtumas turi būti atlyginamas pinigais
-mainų sutartyje nustatyta tvarka.
+daiktas įvertinami taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytus
+turto vertinimo metodus. Abiejų šalių mainomas turtas turi būti vertinamas tuo
+pačiu metodu. Mainomų žemės sklypų ar valstybinės žemės sklypo ir kito
+nekilnojamojo daikto vertės skirtumas turi būti atlyginamas pinigais mainų
+sutartyje nustatyta tvarka.
  
 12
 straipsnis. Bendroji dalinė valstybės ir kitų fizinių ar juridinių asmenų
@@ -641,8 +648,8 @@ taryba.
 tvarkymas
 1. Laisvos
 valstybinės žemės fondą šio Įstatymo ir Vyriausybės nustatyta tvarka tvarko
-apskrities viršininkas ir savivaldybės taryba arba įstatymų nustatytais atvejais
-savivaldybės vykdomoji institucija, jeigu valstybinė žemė Vyriausybės
+apskrities viršininkas ir savivaldybės taryba arba įstatymų nustatytais
+atvejais savivaldybės vykdomoji institucija, jeigu valstybinė žemė Vyriausybės
 nutarimais perduota patikėjimo teise savivaldybėms. 
 2. Laisvos
 valstybinės žemės fondo žemė perleidžiama nuosavybėn, perduodama naudotis ar
@@ -852,9 +859,9 @@ naudoti ir tausoti žemę, mišką, vandenį, įstatymų nustatyta tvarka leista
 eksploatuoti naudingąsias iškasenas ir kitus gamtos bei rekreacinius išteklius;
 
 4) įgyvendinti
-teisės aktų nustatytas žemės, miško ir vandenų apsaugos nuo užteršimo, dirvožemio
-apsaugos nuo erozijos ir nualinimo, aplinkos apsaugos priemones, kad neblogėtų
-aplinkos ekologinė būklė;
+teisės aktų nustatytas žemės, miško ir vandenų apsaugos nuo užteršimo,
+dirvožemio apsaugos nuo erozijos ir nualinimo, aplinkos apsaugos priemones, kad
+neblogėtų aplinkos ekologinė būklė;
 5) laikytis
 teisės aktų nustatytų melioracijos statinių ir kelių priežiūros bei
 eksploatavimo reikalavimų; 
@@ -864,7 +871,8 @@ nustatytų reikalavimų, kad būtų išsaugotas derlingasis dirvožemio sluoksni
 rekultivuotos pažeistos žemės; 
 7) savo
 naudojamuose žemės sklypuose vykdydami ūkinę ir kitą veiklą, nepažeisti gretimų
-žemės naudotojų ir gyventojų interesų; 
+žemės sklypų savininkų ar naudotojų ir gyventojų teisių ir įstatymų saugomų
+interesų;
 8) leisti
 vykdyti žemės ir jos gelmių bei paviršinio vandens tyrimus ir matavimus šalims
 suderinus tyrimų trukmę, tiriamo ploto ribas, darbų atlikimo laiką ir nuostolių
@@ -876,12 +884,16 @@ saugoti;
 10) leisti
 kitiems asmenims prieiti prie paviršinio vandens telkinių nustatytomis
 pakrantės apsaugos juostomis, lankyti gamtos ir kultūros paveldo teritorinius
-kompleksus bei objektus ir bendro naudojimo rekreacinius objektus
-(teritorijas);
+kompleksus bei objektus ir bendro naudojimo rekreacinius objektus (teritorijas);
 11) statyti
 statinius ir įrenginius tik teisės aktų nustatyta tvarka gavus reikalingus
 leidimus;
 12) laikytis kitų įstatymų nustatytų reikalavimų.
+Straipsnio
+pakeitimai:
+Nr.
+IX-2325,
+2004-07-08, Žin., 2004, Nr. 117-4368 (2004-07-29)
  
 22 straipsnis.
 Specialiosios žemės naudojimo sąlygos 
@@ -921,11 +933,11 @@ naudojimo sąlygos arba panaikinamos anksčiau sklypui taikytos sąlygos,
 teritorijų planavimo dokumento ar jo patikslinimo rengimo organizatorius per 10
 dienų nuo teritorijų planavimo dokumento ar jo patikslinimo patvirtinimo apie
 tai raštu praneša žemės sklypo savininkui arba valstybinės ar savivaldybės
-žemės naudotojui, nurodydamas konkrečias taikytinas ar panaikinamas specialiąsias
-žemės naudojimo sąlygas, ir Nekilnojamojo turto kadastro bei Nekilnojamojo
-turto registro įstatymų nustatyta tvarka pateikia Nekilnojamojo turto
-kadastro ir Nekilnojamojo turto registro tvarkytojui informaciją apie žemės
-sklypų kadastro ir registro duomenų pakeitimą. 
+žemės naudotojui, nurodydamas konkrečias taikytinas ar panaikinamas
+specialiąsias žemės naudojimo sąlygas, ir Nekilnojamojo turto kadastro bei
+Nekilnojamojo turto registro įstatymų nustatyta tvarka pateikia Nekilnojamojo
+turto kadastro ir Nekilnojamojo turto registro tvarkytojui informaciją apie
+žemės sklypų kadastro ir registro duomenų pakeitimą. 
 6. Institucijos
 sprendimas patvirtinti teritorijų planavimo dokumentą ar jo patikslinimą, pagal
 kurį žemės sklypui turi būti taikomos specialiosios žemės naudojimo sąlygos ar
@@ -976,8 +988,8 @@ perduoti ar suteikti nuosavybėn neatlygintinai, parduoti ar kitaip perleisti;
 ar perduoti neatlygintinai naudotis;
 3) išnuomotiems
 ar perduotiems neatlygintinai naudotis valstybinės žemės sklypams, taip pat
-savivaldybių ir privačios žemės sklypams, kai pagal teritorijų planavimo
-dokumentus numatomas kelio servitutas, suteikiantis teisę įvairiomis transporto
+savivaldybių ir privačios žemės sklypams, kai pagal teritorijų planavimo dokumentus
+numatomas kelio servitutas, suteikiantis teisę įvairiomis transporto
 priemonėmis privažiuoti ar naudojantis juo kaip pėsčiųjų taku prieiti prie
 kapinių, rekreacinių ir kitų gyventojų bendram naudojimui skirtų
 teritorijų bei gamtos ir kultūros paveldo teritorinių kompleksų ir
@@ -1006,17 +1018,17 @@ teritorijų planavimo dokumentą nustatymo pateikia esamų statinių, prie kuri�
 reikia prieiti ar privažiuoti, savininkai arba patikėjimo teisės subjektai; kai
 rekreacinėse bei kitose gyventojų bendram naudojimui skirtose teritorijose
 gamtos ir kultūros paveldo teritorinių kompleksų ir objektų teritorijose
-statinių nėra – šiose teritorijose esančių žemės sklypų savininkai arba
-valstybinės žemės patikėtiniai, o tais atvejais, kai žemės sklype
-numatoma tiesti centralizuotus (bendrojo naudojimo) inžinerinės infrastruktūros
-tinklus (požemines ir antžemines komunikacijas), kelius ir takus – šių darbų
-užsakovas. Kai siūloma nustatyti servitutą prieiti ar privažiuoti prie gamtos ir
-kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės
-įgaliotos institucijos patvirtintą sąrašą, valią dėl servituto reikalingumo
-išreiškia valstybės ar savivaldybės institucija, atsakinga už šių kompleksų ir
-objektų apsaugą. Jeigu viešpataujančiuoju tampančio daikto patikėtinis
-yra apskrities viršininkas, jo valia išreiškiama priimant sprendimą dėl
-servituto nustatymo. 
+statinių nėra – šiose teritorijose esančių žemės sklypų savininkai arba valstybinės
+žemės patikėtiniai, o tais atvejais, kai žemės sklype numatoma tiesti
+centralizuotus (bendrojo naudojimo) inžinerinės infrastruktūros tinklus
+(požemines ir antžemines komunikacijas), kelius ir takus – šių darbų užsakovas.
+Kai siūloma nustatyti servitutą prieiti ar privažiuoti prie gamtos ir kultūros
+paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos
+institucijos patvirtintą sąrašą, valią dėl servituto reikalingumo išreiškia
+valstybės ar savivaldybės institucija, atsakinga už šių kompleksų ir objektų
+apsaugą. Jeigu viešpataujančiuoju tampančio daikto patikėtinis yra
+apskrities viršininkas, jo valia išreiškiama priimant sprendimą dėl servituto
+nustatymo. 
 4. Apskrities
 viršininko sprendimas nustatyti servitutą gali būti skundžiamas Administracinių
 bylų teisenos įstatymo nustatyta tvarka.
@@ -1061,9 +1073,8 @@ praradimo. Vienkartinės ar periodinės kompensacijos, mokamos už naudojimąsi
 administraciniu aktu nustatytu servitutu, tarnaujančiojo daikto savininkui ar
 valstybinės žemės patikėtiniui apskaičiavimo metodiką tvirtina Vyriausybė. 
 9.
-Administraciniu aktu nustatytas servitutas Civilinio kodekso nustatytais
-pagrindais baigiasi apskrities viršininko sprendimu panaikinti nustatytą
-servitutą.
+Administraciniu aktu nustatytas servitutas Civilinio kodekso nustatytais pagrindais
+baigiasi apskrities viršininko sprendimu panaikinti nustatytą servitutą.
 10. Valstybinės
 žemės patikėtiniai turi teisę sudaryti sandorius dėl valstybinės žemės
 servitutų tais atvejais, kai servitutai negali būti nustatyti administraciniu
@@ -1082,8 +1093,8 @@ detaliuosius arba specialiuosius teritorijų planavimo dokumentus.
 savininkai naudoti žemę kitai paskirčiai, negu buvo nustatyta žemę įsigyjant
 nuosavybėn, gali tik apskrities viršininkui priėmus sprendimą pakeisti
 pagrindinę tikslinę žemės naudojimo paskirtį. Prašymų pakeisti pagrindinę
-tikslinę žemės naudojimo paskirtį padavimo, nagrinėjimo ir sprendimų priėmimo tvarką
-nustato Vyriausybė. 
+tikslinę žemės naudojimo paskirtį padavimo, nagrinėjimo ir sprendimų priėmimo
+tvarką nustato Vyriausybė. 
 3. Žemės ūkio
 paskirties žemėje įveisiant mišką, Vyriausybės nustatytais atvejais pagrindinė
 tikslinė žemės naudojimo paskirtis nekeičiama arba keičiama pagal
@@ -1109,8 +1120,7 @@ dokumentus. Žemės sklypams nustatomi šio Įstatymo 25–29 straipsniuose nuro
 žemės naudojimo būdai. Žemės naudojimo būdų turinį nustato Vyriausybė arba jos
 įgaliotos institucijos.
 7. Žemės sklypų
-naudojimo pobūdžių sąrašą ir jų turinį nustato Vyriausybės įgaliota
-institucija.
+naudojimo pobūdžių sąrašą ir jų turinį nustato Vyriausybės įgaliota institucija.
  
 25 straipsnis.
 Žemės ūkio paskirties žemė
@@ -1172,8 +1182,8 @@ numatyta įveisti mišką;
 įsiterpusios kitos žemės naudmenos, tarp jų atskirais žemės sklypais
 nesuformuotos žemės ūkio naudmenos. 
 2. Pagal
-teritorijų planavimo dokumentuose nustatytą naudojimo būdą miškų ūkio
-paskirties žemės sklypai skirstomi į:
+teritorijų planavimo dokumentuose nustatytą naudojimo būdą miškų ūkio paskirties
+žemės sklypai skirstomi į:
 1) ekosistemų
 apsaugos miškų sklypus;
 2) rekreacinių
@@ -1237,9 +1247,9 @@ paskirties žemės naudojimo tvarką ir apsaugą reglamentuoja Aplinkos apsaugos
 apsaugos įstatymas ir kiti įstatymai. 
  
 29 straipsnis. Kitos paskirties žemė
-1. Kitos
-paskirties žemei priskiriami žemės sklypai, kurie pagal teritorijų planavimo
-dokumentuose nustatytą žemės naudojimo būdą skirstomi į: 
+1. Kitos paskirties
+žemei priskiriami žemės sklypai, kurie pagal teritorijų planavimo dokumentuose
+nustatytą žemės naudojimo būdą skirstomi į: 
 1) gyvenamąsias
 teritorijas; 
 2) visuomeninės
@@ -1267,8 +1277,7 @@ paskirties žemės naudojimo sąlygas nustato įstatymai ir kiti teisės aktai.
 V skyrius 
 Žemės SANDORIAI
  
-30 straipsnis. Reikalavimai žemės
-sandoriams
+30 straipsnis. Reikalavimai žemės sandoriams
 1. Žemės sandorių formą nustato Civilinis kodeksas ir šis Įstatymas.
 Prie žemės sandorių privalo būti pridedamas žemės sklypo planas, o kai žemės
 sklypas nuomojamas arba perduodamas neatlygintinai naudotis iki trejų metų –
@@ -1336,10 +1345,10 @@ sąlygomis, išskyrus atvejus, kai žemė parduodama iš viešųjų varžytynių
 2. Asmenys,
 kurių žemės sklypai apskrities viršininko sprendimu priskirti žemės
 konsolidacijos projekto teritorijai, turi pirmumo teisę pirkti šioje
-teritorijoje esantį parduodamą privačios žemės sklypą ta kaina, kuria jis parduodamas,
-ir kitomis vienodomis sąlygomis, išskyrus atvejus, kai žemė parduodama iš
-viešųjų varžytynių. Šios pirmumo teisės įgyvendinimo tvarką nustato Žemės
-konsolidacijos projektų rengimo ir įgyvendinimo taisyklės.
+teritorijoje esantį parduodamą privačios žemės sklypą ta kaina, kuria jis
+parduodamas, ir kitomis vienodomis sąlygomis, išskyrus atvejus, kai žemė
+parduodama iš viešųjų varžytynių. Šios pirmumo teisės įgyvendinimo tvarką
+nustato Žemės konsolidacijos projektų rengimo ir įgyvendinimo taisyklės.
 3. Parduodant
 privačią žemę valstybinių parkų konservacinio, ekologinės apsaugos ir
 rekreacinio prioriteto zonose, valstybiniuose draustiniuose bei kitose
@@ -1349,17 +1358,17 @@ valstybė. Kaina, kurią valstybė gali mokėti už perkamus privačios žemės
 sklypus, negali viršyti šių žemės sklypų vidutinės rinkos vertės, apskaičiuotos
 atliekant vertinimą masiniu būdu Vyriausybės įgaliotos institucijos nustatyta
 tvarka.
-4. Žemės savininkas
-apie sprendimą parduoti žemės sklypą bei pardavimo sąlygas privalo registruotu
-laišku (įteikiant) pranešti šio straipsnio 1 dalyje nurodytam statinių ir
-įrenginių, esančių parduodamame žemės sklype, savininkui, o kai žemės sklypas
-parduodamas šio straipsnio 3 dalyje nurodytais atvejais – apskrities
-viršininkui pagal žemės sklypo buvimo vietą. Statinių ir įrenginių savininkas
-ar apskrities viršininkas sprendimą pirkti tokį žemės sklypą ar atsisakyti
-pirkti turi priimti per 30 dienų nuo pranešimo gavimo dienos. Statinių ar
-įrenginių savininkui ar apskrities viršininkui raštu atsisakius pirkti žemės
-sklypą arba per nustatytą terminą nepriėmus sprendimo, privačios žemės
-savininkas gali perleisti žemės sklypą kitiems asmenims.
+4. Žemės
+savininkas apie sprendimą parduoti žemės sklypą bei pardavimo sąlygas privalo
+registruotu laišku (įteikiant) pranešti šio straipsnio 1 dalyje nurodytam
+statinių ir įrenginių, esančių parduodamame žemės sklype, savininkui, o kai
+žemės sklypas parduodamas šio straipsnio 3 dalyje nurodytais atvejais –
+apskrities viršininkui pagal žemės sklypo buvimo vietą. Statinių ir įrenginių
+savininkas ar apskrities viršininkas sprendimą pirkti tokį žemės sklypą ar
+atsisakyti pirkti turi priimti per 30 dienų nuo pranešimo gavimo dienos.
+Statinių ar įrenginių savininkui ar apskrities viršininkui raštu atsisakius
+pirkti žemės sklypą arba per nustatytą terminą nepriėmus sprendimo, privačios
+žemės savininkas gali perleisti žemės sklypą kitiems asmenims.
 5. Kitus pirmumo
 teisės pirkti privačią žemę atvejus gali nustatyti kiti įstatymai. 
  
@@ -1370,9 +1379,9 @@ VI skyrius
 straipsnis. Valstybės ir savivaldybių institucijų kompetencija reguliuojant
 žemės santykius
 1. Vyriausybė: 
-1) įstatymų
-nustatytais atvejais ir tvarka priima nutarimus valstybinės žemės nuosavybės,
-žemės valdymo, naudojimo, disponavimo ja ir kitais žemės santykių reguliavimo
+1) įstatymų nustatytais
+atvejais ir tvarka priima nutarimus valstybinės žemės nuosavybės, žemės
+valdymo, naudojimo, disponavimo ja ir kitais žemės santykių reguliavimo
 klausimais; 
 2) nustato
 licencijų rengti žemėtvarkos planavimo dokumentus išdavimo tvarką;
@@ -1427,9 +1436,8 @@ valstybės politiką teritorijos planavimo, žemės naudojimo ir apsaugos sritys
 2) parduoda ar
 kitaip perleidžia savivaldybių ir privačion nuosavybėn valstybinę žemę,
 išskyrus privatizavimo objektams priskirtus žemės sklypus ir žemės
-sklypus, perduodamus neatlygintinai savivaldybių nuosavybėn, veikia valstybės
-vardu įsigyjant privačią žemę valstybės nuosavybėn ir valstybei
-paveldint žemę; 
+sklypus, perduodamus neatlygintinai savivaldybių nuosavybėn, veikia valstybės vardu
+įsigyjant privačią žemę valstybės nuosavybėn ir valstybei paveldint žemę; 
 3) perduoda
 neatlygintinai naudotis arba išnuomoja valstybinę žemę, išskyrus žemę, kuri
 perduota patikėjimo teise savivaldybėms; 
@@ -1453,8 +1461,8 @@ priežiūrą;
 10) šio Įstatymo
 nustatytais atvejais ir tvarka nustato žemės servitutus; 
 11) įstatymų
-nustatyta tvarka teikia duomenis Nekilnojamojo turto registro tvarkytojui
-valstybinės žemės sklypams įregistruoti;
+nustatyta tvarka teikia duomenis Nekilnojamojo turto registro tvarkytojui valstybinės
+žemės sklypams įregistruoti;
 12) kontroliuoja
 planuojamų darbų, susijusių su žemės naudmenų būklės ir žemės naudojimo sąlygų
 pakeitimu, derinimą su žemėtvarkos planavimo dokumentų sprendiniais;
@@ -1490,10 +1498,10 @@ darbus žemės naudojimui gerinti;
 1) planuoti
 Lietuvos Respublikos žemės fondo naudojimą ir spręsti dėl administracinių
 vienetų ribų patikslinimo, suderinant su bendrųjų planų sprendiniais;
-2) planuoti ir įgyvendinti
-teritorijų tvarkymo priemones, sudarant palankias sąlygas konkurencingų ūkių
-kūrimui, kaimo infrastruktūros plėtrai, racionaliam žemės ūkio naudmenų, miškų,
-kitų gamtos išteklių naudojimui;
+2) planuoti ir
+įgyvendinti teritorijų tvarkymo priemones, sudarant palankias sąlygas
+konkurencingų ūkių kūrimui, kaimo infrastruktūros plėtrai, racionaliam žemės
+ūkio naudmenų, miškų, kitų gamtos išteklių naudojimui;
 3) planuoti ir
 įgyvendinti priemones aplinkos apsaugai ir kraštovaizdžio ekologiniam
 stabilumui užtikrinti.
@@ -1547,8 +1555,8 @@ antropogeninio poveikio, pagrįsti racionalaus žemės naudojimo ir aplinkos
 gerinimo priemones, įvertinti žemės tvarkymo ir administravimo priemonių
 veiksmingumą ir teikti reikiamą statistinę informaciją apie žemės naudojimą bei
 žemės išteklių būklę.
-2. Žemės
-išteklių naudojimo stebėsena susideda iš:
+2. Žemės išteklių
+naudojimo stebėsena susideda iš:
 1) natūralių ir
 antropogenizuotų žemės naudmenų ir dirvožemio stebėsenos; 
 2) žemės ūkio
@@ -1575,8 +1583,8 @@ organizuoja ir vykdo apskrities viršininkas, o koordinuoja Vyriausybės
 įgaliota institucija.
 2. Žemės
 naudojimo valstybinės kontrolės metu sistemingai tikrinama, ar žemę
-naudojantys asmenys savo veikla nepažeidė žemės naudojimo tvarkos, kurią nustato
-įstatymai ir Vyriausybės nutarimai.
+naudojantys asmenys savo veikla nepažeidė žemės naudojimo tvarkos, kurią
+nustato įstatymai ir Vyriausybės nutarimai.
  
 VII skyrius
 Žemėtvarka
@@ -1618,8 +1626,8 @@ ir pertvarkymo projektai rengiami ir įgyvendinami šio Įstatymo 40
 straipsnyje nustatyta tvarka tais atvejais, kai Nekilnojamojo turto registre
 įregistruotus žemės sklypus reikia padalyti, atidalyti, sujungti ar atlikti jų
 amalgamaciją, taip pat formuojant naujus žemės sklypus valstybinėje žemėje.
-7. Žemės paėmimo visuomenės
-poreikiams projektai rengiami ir įgyvendinami šio Įstatymo VIII skyriuje
+7. Žemės paėmimo visuomenės poreikiams
+projektai rengiami ir įgyvendinami šio Įstatymo VIII skyriuje
 nustatytais atvejais ir tvarka.
 8. Žemės konsolidacijos
 projektai rengiami ir įgyvendinami šio Įstatymo IX skyriuje nustatytais
@@ -1637,13 +1645,14 @@ savivaldybės teritorijos bendrojo plano sprendinius, schemos rengimui turi
 pritarti savivaldybės taryba.
 2. Žemėtvarkos
 schemose gali būti planuojama:
-1) administracinių
-vienetų ribų ir miestų, kaip gyvenamųjų vietovių, ribų pakeitimai;
+1)
+administracinių vienetų ribų ir miestų, kaip gyvenamųjų vietovių, ribų
+pakeitimai;
 2) kaimo
 gyvenamųjų vietovių ribų nustatymas;
 3) teritorijos
-zonavimas pagal ūkinės veiklos kryptis, geriausiai atitinkančias vietovės
-gamtines ir ūkines sąlygas, numatant žemės ūkio veiklai naudotinas teritorijas,
+zonavimas pagal ūkinės veiklos kryptis, geriausiai atitinkančias vietovės gamtines
+ir ūkines sąlygas, numatant žemės ūkio veiklai naudotinas teritorijas,
 nepalankias ūkininkauti teritorijas ir teritorijas, kuriose žemę tikslinga
 apsodinti mišku;
 4) gamtinio
@@ -1714,9 +1723,9 @@ infrastruktūros plėtra;
 40 straipsnis. Žemės sklypų
 formavimo ir pertvarkymo projektai 
 1. Žemės sklypų
-formavimo ir pertvarkymo projektų rengimą organizuoja privačios žemės sklypų
-savininkai, apskrities viršininkas, kai formuojami ir pertvarkomi valstybinės
-žemės sklypai, o savivaldybei nuosavybės teise priklausančių žemės sklypų –
+formavimo ir pertvarkymo projektų rengimą organizuoja privačios žemės sklypų savininkai,
+apskrities viršininkas, kai formuojami ir pertvarkomi valstybinės žemės
+sklypai, o savivaldybei nuosavybės teise priklausančių žemės sklypų –
 savivaldybės taryba arba jos pavedimu administracijos direktorius. Prašymus
 leisti rengti žemės sklypų pertvarkymo projektus ir gauti planavimo sąlygas
 projektų organizatoriai paduoda apskrities viršininkui. Šis priima sprendimą
@@ -1727,9 +1736,9 @@ pertvarkymo projektai rengiami apskrities viršininkui priėmus sprendimą rengt
 arba pertvarkant žemės sklypus, laikomasi šių reikalavimų:
 1) prie
 statinio ar įrenginio gali būti formuojamas tik vienas žemės sklypas,
-reikalingas statiniui ar įrenginiui eksploatuoti pagal Nekilnojamojo turto registre
-įrašytą jo tiesioginę paskirtį. Žemės sklypai, suformuoti statiniams arba
-įrenginiams eksploatuoti, natūra nedalijami, išskyrus atvejus, kai žemės
+reikalingas statiniui ar įrenginiui eksploatuoti pagal Nekilnojamojo turto
+registre įrašytą jo tiesioginę paskirtį. Žemės sklypai, suformuoti statiniams
+arba įrenginiams eksploatuoti, natūra nedalijami, išskyrus atvejus, kai žemės
 sklypas padalijamas arba atidalijama dalis iš bendrosios nuosavybės kartu su
 statinio ar įrenginio padalijimu ar dalies iš bendrosios nuosavybės
 atidalijimu, suformuojamas atskiras statinys ar įrenginys ir šiam statiniui ar
@@ -1774,10 +1783,10 @@ turto kadastrą.
 41 straipsnis. Žemėtvarkos planavimo
 dokumentus rengiantys ir įgyvendinantys asmenys, jų teisės ir pareigos
 1. Žemėtvarkos planavimo dokumentus
-rengia juridiniai asmenys, turintys Žemės ūkio ministerijos įgaliotos institucijos
-išduotas licencijas rengti žemėtvarkos planavimo dokumentus. Šie reikalavimai
-netaikomi Žemės reformos įstatymo nustatyta tvarka rengiant žemės reformos
-žemėtvarkos projektus.
+rengia juridiniai asmenys, turintys Žemės ūkio ministerijos įgaliotos
+institucijos išduotas licencijas rengti žemėtvarkos planavimo dokumentus. Šie
+reikalavimai netaikomi Žemės reformos įstatymo nustatyta tvarka rengiant žemės
+reformos žemėtvarkos projektus.
 2. Licencijų rengti žemėtvarkos
 planavimo dokumentus išdavimo tvarką nustato Vyriausybė.
 3. Licencija rengti žemėtvarkos
@@ -1880,7 +1889,7 @@ dėl žalos dydžio ir atlyginimo įstatymų nustatyta tvarka sprendžiami teism
  
 VIII skyrius
  Žemės paėmimas visuomenės poreikiams
-            
+ 
 45 straipsnis.
 Žemės paėmimo visuomenės poreikiams atvejai
 Žemė visuomenės
@@ -1920,13 +1929,13 @@ institucija ar įstaiga, pateikdama apskrities viršininkui prašymą paimti že
 visuomenės poreikiams, kartu raštu praneša žemės savininkui apie tokio prašymo
 pateikimą ir nurodo konkrečius tikslus, kuriems numatoma panaudoti paimamą
 visuomenės poreikiams žemę. Apskrities viršininkas, išnagrinėjęs valstybės ar
-savivaldybės institucijos ar įstaigos prašymą paimti žemę visuomenės poreikiams,
-prieš priimdamas sprendimą pradėti žemės paėmimo visuomenės poreikiams
-procedūrą, turi išnagrinėti galimybę su žemės sklypo, numatomo paimti
-visuomenės poreikiams, savininku sudaryti valstybinės žemės mainų į privačią
-žemę sutartį pagal šio Įstatymo 11 straipsnį. Jeigu su žemės sklypo, numatomo
-panaudoti visuomenės poreikiams, savininku per mėnesį nuo pasiūlymo raštu jam
-pateikimo dienos nesusitariama sudaryti mainų sutartį arba apskrities
+savivaldybės institucijos ar įstaigos prašymą paimti žemę visuomenės
+poreikiams, prieš priimdamas sprendimą pradėti žemės paėmimo visuomenės
+poreikiams procedūrą, turi išnagrinėti galimybę su žemės sklypo, numatomo
+paimti visuomenės poreikiams, savininku sudaryti valstybinės žemės mainų į
+privačią žemę sutartį pagal šio Įstatymo 11 straipsnį. Jeigu su žemės sklypo,
+numatomo panaudoti visuomenės poreikiams, savininku per mėnesį nuo pasiūlymo
+raštu jam pateikimo dienos nesusitariama sudaryti mainų sutartį arba apskrities
 viršininkas nustato, kad mainų sutartį sudaryti netikslinga, apskrities
 viršininkas priima motyvuotą sprendimą pradėti žemės paėmimo visuomenės
 poreikiams procedūrą arba prašymo netenkinti ir žemės paėmimo visuomenės
@@ -1942,12 +1951,12 @@ nagrinėjimo tvarką nustato Vyriausybė.
 3. Apskrities viršininkui priėmus
 sprendimą pradėti žemės paėmimo visuomenės poreikiams procedūrą, šio Įstatymo
 48 straipsnyje nustatyta tvarka rengiamas žemės paėmimo visuomenės poreikiams
-projektas. Jeigu reikia, projekto rengimo metu atliekamas privačios ir valstybinės
-žemės sklypo padalijimas atskiriant paimamą visuomenės poreikiams žemės sklypo
-dalį. Šie žemėtvarkos darbai atliekami šio Įstatymo 48 straipsnyje nustatyta
-tvarka, o duomenis apie padalytą žemės sklypą Nekilnojamojo turto registro
-tvarkytojui pateikia apskrities viršininkas, pranešęs apie tai žemės sklypo
-savininkui ir kitam naudotojui.
+projektas. Jeigu reikia, projekto rengimo metu atliekamas privačios ir
+valstybinės žemės sklypo padalijimas atskiriant paimamą visuomenės poreikiams
+žemės sklypo dalį. Šie žemėtvarkos darbai atliekami šio Įstatymo 48 straipsnyje
+nustatyta tvarka, o duomenis apie padalytą žemės sklypą Nekilnojamojo turto
+registro tvarkytojui pateikia apskrities viršininkas, pranešęs apie tai žemės
+sklypo savininkui ir kitam naudotojui.
 4. Po to, kai
 yra priimtas sprendimas pradėti žemės paėmimo visuomenės poreikiams procedūrą,
 žemės savininkas neturi teisės jos perleisti, įkeisti ar kitaip suvaržyti
@@ -2006,9 +2015,9 @@ vietoj jo suteikiamo lygiaverčio žemės ūkio paskirties žemės sklypo
 vertes, kurioms apskaičiuoti taikomas naudojimo pajamų vertės metodas. Paimamo
 žemės sklypo vertė apskaičiuojama pagal pagrindinę tikslinę žemės naudojimo
 paskirtį, nustatytą iki sprendimo paimti žemę visuomenės poreikiams. Jeigu
-visuomenės poreikiams paimamas statiniais užstatomas ar užstatytas žemės
-sklypas, tai už jau pastatytus ar statomus žemės sklype asmenims nuosavybės
-teise priklausančius statinius turi būti atlyginama pinigais rinkos kaina, kuri
+visuomenės poreikiams paimamas statiniais užstatomas ar užstatytas žemės sklypas,
+tai už jau pastatytus ar statomus žemės sklype asmenims nuosavybės teise
+priklausančius statinius turi būti atlyginama pinigais rinkos kaina, kuri
 apskaičiuojama pagal Turto ir verslo vertinimo pagrindų įstatymo nustatytą
 lyginamosios vertės metodą.
 2. Sprendimą
@@ -2016,13 +2025,13 @@ suteikti lygiavertį žemės sklypą apskrities viršininkas priima kartu su
 sprendimu paimti žemę visuomenės poreikiams.
 3. Jeigu
 sprendimas paimti žemę visuomenės poreikiams priimtas ne sutarties, nurodytos
-46 straipsnio 6 dalyje, pagrindu, laikoma, kad tarp žemės paėmimu suinteresuotos
-institucijos ir žemės savininko ar kito naudotojo yra ginčas, ir institucija,
-pateikusi prašymą paimti žemę visuomenės poreikiams, per 3 mėnesius nuo
-sprendimo paimti žemę visuomenės poreikiams gavimo dienos turi kreiptis į
-teismą dėl sprendimo paimti žemę visuomenės poreikiams teisėtumo, atlyginimo už
-paimamą visuomenės poreikiams žemę dydžio nustatymo bei daiktinių teisių,
-nustatytų į paimamą visuomenės poreikiams žemės sklypą, panaikinimo ir
+46 straipsnio 6 dalyje, pagrindu, laikoma, kad tarp žemės paėmimu
+suinteresuotos institucijos ir žemės savininko ar kito naudotojo yra ginčas, ir
+institucija, pateikusi prašymą paimti žemę visuomenės poreikiams, per 3
+mėnesius nuo sprendimo paimti žemę visuomenės poreikiams gavimo dienos turi
+kreiptis į teismą dėl sprendimo paimti žemę visuomenės poreikiams teisėtumo,
+atlyginimo už paimamą visuomenės poreikiams žemę dydžio nustatymo bei daiktinių
+teisių, nustatytų į paimamą visuomenės poreikiams žemės sklypą, panaikinimo ir
 atsiskaitymo su tokių daiktinių teisių turėtojais. 
 4. Teismas,
 išsprendęs klausimą dėl sprendimo paimti žemę visuomenės poreikiams
@@ -2037,31 +2046,31 @@ poreikiams nurodytą pinigų sumą į žemės savininko ar kito naudotojo vardu
 atidarytą sąskaitą arba, jeigu tokia sąskaita nežinoma ir žemės paėmimu
 suinteresuotas asmuo negali atidaryti kitos sąskaitos paimamo žemės sklypo
 savininko ar kito naudotojo vardu, į notaro, banko ar kitos kredito įstaigos
-depozitinę sąskaitą, įregistruoti paimtą visuomenės poreikiams žemės sklypą
-Nekilnojamojo turto registre valstybės vardu bei pradėti šį žemės sklypą
-naudoti sprendime paimti žemę visuomenės poreikiams nurodytiems tikslams. 
+depozitinę sąskaitą, įregistruoti paimtą visuomenės poreikiams žemės sklypą Nekilnojamojo
+turto registre valstybės vardu bei pradėti šį žemės sklypą naudoti sprendime
+paimti žemę visuomenės poreikiams nurodytiems tikslams. 
 5. Jei teismas
 nustato kitą paimamo žemės sklypo, statinių bei sodinių vertę bei patirtų
 nuostolių dydį, nei nurodyta sprendime paimti žemę visuomenės poreikiams, už
 paimtą visuomenės poreikiams žemę, taip pat su daiktinių teisių, nustatytų į
 paimtą visuomenės poreikiams žemės sklypą, turėtojais atsiskaitoma teismo
 sprendime nurodytomis sąlygomis. 
-6. Prašymą paimti žemę visuomenės poreikiams pateikusiai
-institucijai atsiskaičius su paimamos žemės savininku ar kitu naudotoju
-pagal sutartį dėl atlyginimo būdo ir dydžio už žemę, apskrities viršininkas
-paimamą visuomenės poreikiams žemės sklypą įregistruoja Nekilnojamojo turto
-registre kaip valstybinę žemę. Jeigu ginčas dėl sprendimo paimti žemę
-visuomenės poreikiams teisėtumo ir atlyginimo dydžio nagrinėjamas teisme,
-apskrities viršininkas paimamą visuomenės poreikiams žemės sklypą Nekilnojamojo
-turto registre kaip valstybinę žemę gali įregistruoti tik po to, kai prašymą
-paimti žemę visuomenės poreikiams pateikusi institucija teismo sprendime
-nurodytomis sąlygomis atsiskaito su paimamo visuomenės poreikiams žemės sklypo
-savininku ar kitu naudotoju, išskyrus atvejus, kai teismas savo sprendimu
-leidžia paimtą visuomenės poreikiams žemės sklypą įregistruoti Nekilnojamojo
-turto registre kaip valstybinę žemę iki ginčo dėl atlyginimo dydžio už paimamą
-visuomenės poreikiams žemę išsprendimo. Nuosavybės teisė į visuomenės
-poreikiams paimamą žemę pereina valstybei nuo žemės sklypo įregistravimo
-Nekilnojamojo turto registre momento. 
+6. Prašymą paimti žemę visuomenės poreikiams
+pateikusiai institucijai atsiskaičius su paimamos žemės savininku ar
+kitu naudotoju pagal sutartį dėl atlyginimo būdo ir dydžio už žemę,
+apskrities viršininkas paimamą visuomenės poreikiams žemės sklypą įregistruoja
+Nekilnojamojo turto registre kaip valstybinę žemę. Jeigu ginčas dėl sprendimo
+paimti žemę visuomenės poreikiams teisėtumo ir atlyginimo dydžio nagrinėjamas
+teisme, apskrities viršininkas paimamą visuomenės poreikiams žemės sklypą
+Nekilnojamojo turto registre kaip valstybinę žemę gali įregistruoti tik po to,
+kai prašymą paimti žemę visuomenės poreikiams pateikusi institucija teismo
+sprendime nurodytomis sąlygomis atsiskaito su paimamo visuomenės poreikiams
+žemės sklypo savininku ar kitu naudotoju, išskyrus atvejus, kai teismas savo
+sprendimu leidžia paimtą visuomenės poreikiams žemės sklypą įregistruoti
+Nekilnojamojo turto registre kaip valstybinę žemę iki ginčo dėl atlyginimo
+dydžio už paimamą visuomenės poreikiams žemę išsprendimo. Nuosavybės
+teisė į visuomenės poreikiams paimamą žemę pereina valstybei nuo žemės sklypo
+įregistravimo Nekilnojamojo turto registre momento. 
 7. Visuomenės poreikiams paimtas žemės sklypas,
 Nekilnojamojo turto registre įregistruotas kaip valstybinė žemė, perduodamas
 neatlygintinai naudotis arba išnuomojamas šio Įstatymo 8 ar 9 straipsnio
@@ -2131,10 +2140,10 @@ IX skyrius
 1. Žemės
 konsolidacijos projektų rengimą organizuoja apskrities viršininkas. 
 2. Prašymus
-rengti žemės konsolidacijos projektą žemės savininkai, valstybinės žemės patikėtiniai
-paduoda apskrities viršininkui. Nustatęs, kad rengti projektą pageidauja ne
-mažiau kaip 5 žemės sklypų savininkai ar valstybinės žemės patikėtiniai,
-apskrities viršininkas numato preliminarią teritoriją žemės konsolidacijos
+rengti žemės konsolidacijos projektą žemės savininkai, valstybinės žemės
+patikėtiniai paduoda apskrities viršininkui. Nustatęs, kad rengti projektą
+pageidauja ne mažiau kaip 5 žemės sklypų savininkai ar valstybinės žemės
+patikėtiniai, apskrities viršininkas numato preliminarią teritoriją žemės konsolidacijos
 projektui rengti, nustato šioje teritorijoje esančių žemės sklypų savininkus,
 valstybinės žemės patikėtinius ir kitus naudotojus bei organizuoja šios
 vietovės žemės savininkų ir valstybinės žemės patikėtinių susirinkimą. Į
@@ -2157,10 +2166,9 @@ sąlygos;
 asmenys, susirinkimo įgalioti spręsti žemės konsolidacijos projekto rengimo
 organizacinius klausimus.
 3. Susirinkimo
-sprendimai teisėti, kai jame dalyvauja ne mažiau kaip du trečdaliai žemės
-sklypų savininkų bei valstybinės žemės patikėtinių ir šiems sprendimams
-pritaria ne mažiau kaip pusė dalyvavusių žemės savininkų ir valstybinės žemės
-patikėtinių. 
+sprendimai teisėti, kai jame dalyvauja ne mažiau kaip du trečdaliai žemės sklypų
+savininkų bei valstybinės žemės patikėtinių ir šiems sprendimams pritaria ne
+mažiau kaip pusė dalyvavusių žemės savininkų ir valstybinės žemės patikėtinių. 
 4. Po
 susirinkimo žemės savininkai ne vėliau kaip per vieną mėnesį sudaro
 preliminarią žemės konsolidacijos sutartį, pagal kurią įsipareigoja per 3
@@ -2180,9 +2188,9 @@ suformuotų žemės sklypų vertė negali skirtis daugiau kaip 5 procentais. Mai
 žemės sklypų vertės skirtumas turi būti atlyginamas žemės konsolidacijos
 sutartyje nustatyta tvarka;
 3)
-preliminarios žemės konsolidacijos sutarties nutraukimo sąlygos ir tvarka bei nuostolių
-dėl nepagrįsto vengimo ar atsisakymo sudaryti pagrindinę žemės konsolidacijos
-sutartį atlyginimo tvarka. 
+preliminarios žemės konsolidacijos sutarties nutraukimo sąlygos ir tvarka bei
+nuostolių dėl nepagrįsto vengimo ar atsisakymo sudaryti pagrindinę žemės
+konsolidacijos sutartį atlyginimo tvarka. 
 5. Apskrities
 viršininkas tvirtina teritorijos žemės konsolidacijos projektui rengti ribas ir
 su savivaldybės vykdomąja institucija suderintas planavimo sąlygas, taip pat
@@ -2223,8 +2231,7 @@ ir valstybinės žemės patikėtinių susirinkimus. Žemės savininkų ir valsty
 asmuo. Susirinkimo sprendimai teisėti, kai šiems sprendimams pritaria ne mažiau
 kaip trys ketvirtadaliai visų žemės konsolidacijos projekto teritorijai
 priskirtų žemės sklypų savininkų ir valstybinės žemės patikėtinių. Susirinkimas
-turi teisę priimti sprendimus šiais žemės konsolidacijos projekto rengimo
-klausimais:
+turi teisę priimti sprendimus šiais žemės konsolidacijos projekto rengimo klausimais:
 1) dėl žemės
 vertinimo; 
 2) dėl projektuojamų bendro naudojimo kelių bei
@@ -2250,9 +2257,9 @@ konsolidacijos projektų rengimo ir įgyvendinimo taisykles nustato Vyriausybė.
 konsolidacijos projektas svarstomas viešai Teritorijų planavimo įstatymo
 nustatyta tvarka. 
 5. Pasiūlymus,
-pastabas ir pretenzijas dėl rengiamo žemės konsolidacijos projekto žemės
-savininkai ir valstybinės žemės patikėtiniai apskrities viršininkui ir Žemės
-ūkio ministerijos įgaliotai institucijai gali pateikti iki projekto viešo
+pastabas ir pretenzijas dėl rengiamo žemės konsolidacijos projekto žemės savininkai
+ir valstybinės žemės patikėtiniai apskrities viršininkui ir Žemės ūkio
+ministerijos įgaliotai institucijai gali pateikti iki projekto viešo
 svarstymo pabaigos. 
 6. Žemės
 konsolidacijos projektą tvirtina apskrities viršininkas. Apskrities viršininko
@@ -2262,8 +2269,8 @@ teisenos įstatymo nustatyta tvarka gali būti apskųstas teismui.
 52 straipsnis.
 Žemės konsolidacijos projektų įgyvendinimas
 1. Žemės
-konsolidacijos projekte suprojektuoti žemės sklypai paženklinami vietovėje atliekant
-kadastrinius matavimus. 
+konsolidacijos projekte suprojektuoti žemės sklypai paženklinami vietovėje
+atliekant kadastrinius matavimus. 
 2. Žemės sklypų,
 pertvarkytų pagal žemės konsolidacijos projektą, savininkai ne vėliau kaip per
 3 mėnesius nuo projekto patvirtinimo sudaro žemės konsolidacijos sutartį.
@@ -2272,9 +2279,9 @@ turi būti nurodyta:
 1) žemės sklypų
 savininkų, tarp jų ir valstybės, mainomi žemės sklypai ir vietoj jų šiems
 asmenims suprojektuoti lygiaverčiai žemės sklypai bei jų kadastro duomenys;
-2) pagal
-patvirtintą žemės konsolidacijos projektą suformuoti žemės sklypai, į kuriuos
-mainomi konkrečių žemės savininkų ir valstybinės žemės patikėtinių turimi žemės
+2) pagal patvirtintą
+žemės konsolidacijos projektą suformuoti žemės sklypai, į kuriuos mainomi
+konkrečių žemės savininkų ir valstybinės žemės patikėtinių turimi žemės
 sklypai. Mainomų valstybinės žemės sklypų ir suformuotų žemės sklypų
 vertė negali skirtis daugiau kaip 5 procentais;
 3)
@@ -2310,8 +2317,8 @@ reglamentuojančių pirmumo teisę įsigyti parduodamą žemę.
 X skyrius
 Baigiamosios nuostatos
                     
-53 straipsnis. Atsakomybė
-už Įstatymo pažeidimus 
+53 straipsnis.
+Atsakomybė už Įstatymo pažeidimus 
 1. Fiziniai
 ir juridiniai asmenys, pažeidę šio Įstatymo reikalavimus, traukiami atsakomybėn
 pagal įstatymus.
@@ -2425,11 +2432,19 @@ IX-1983,
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-2325,
+2004-07-08, Žin., 2004, Nr. 117-4368 (2004-07-29)
+ŽEMĖS
+ĮSTATYMO 9 IR 21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-02-24)
+Aušrinė Trapinskienė (2004-07-29)
                  
 autrap@lrs.lt
