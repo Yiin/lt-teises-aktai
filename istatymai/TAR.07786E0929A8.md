@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 1997-12-24 iki 1997-12-30
+Suvestinė redakcija nuo 1997-12-31 iki 2000-07-04
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
  
@@ -171,7 +171,10 @@ Išradėjas arba jo teisių perėmėjas, norintis pasinaudoti šio straipsnio pi
 7 straipsnis. Teisė į patentą
 
 
-Teisė į patentą priklauso išradėjui arba jo teisių perėmėjui. Išradimo bendraautoriai turi lygias teises į patentą, jeigu jie nėra susitarę kitaip.
+Teisė į patentą priklauso išradėjui arba teisių perėmėjui, arba darbdaviui, jeigu išradimas yra tarnybinis. Jeigu išradimas sukurtas įmonėje, įstaigoje, organizacijoje, atliekančioje mokslinio tyrimo, projektavimo, konstravimo ir kitus kūrybinio pobūdžio darbus pagal sutartį su užsakovu, kuris finansuoja atitinkamą darbą, teisė į išradimo patentą nustatoma šia sutartimi. Jeigu darbdavys atsisako teisės į patentą arba per keturis mėnesius nepraneša išradėjui apie ketinimą pasinaudoti šia teise, teisė į patentą pereina išradėjui. Išradimo bendraautoriai turi lygias teises į patentą, jeigu jie nėra susitarę kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-590, 1997-12-23, Žin., 1997, Nr. 119-3078 (1997-12-31), i. k. 0971010ISTAVIII-590
+ 
 
 
 
@@ -187,20 +190,57 @@ Jeigu keli išradėjai sukūrė tokį pat išradimą visiškai atskirai, teisė 
 8 straipsnis. Tarnybiniai išradimai
 
 
-Teisė į patentą už išradimą, kurį sukūrė darbuotojas eidamas tarnybines pareigas arba vykdydamas konkrečią tarnybinę užduotį, priklauso darbdaviui, jeigu tai nustatyta darbdavio ir darbuotojo sudarytoje sutartyje.
+Tarnybinis išradimas – tai išradimas, sukurtas:
+
+
+1) darbo sutarties, kuri numato išradybos veiklą, vykdymo metu;
 
 
 
 
-Darbdavys privalo sumokėti darbuotojui atlyginimą, kurio dydis priklauso nuo išradimo ekonominės vertės ir kitos naudos, darbdavio gautos panaudojus šį išradimą.
+2) esant konkrečiam pavedimui, projektavimo, konstravimo, mokslinio tyrimo arba technologijų kūrimo metu;
 
 
 
 
-Santykius tarp darbdavio ir išradėjo, susijusius su tarnybiniais išradimais, nustato atskiras įstatymas.
+3) naudojantis sukaupta įmonės, įstaigos ar organizacijos patirtimi arba jos technologijomis ir įrengimais.
+
+
+
+
+
+
+Darbuotojas, sukūręs tarnybinį išradimą, privalo nedelsdamas apie tai raštu pranešti darbdaviui. Iki patentinės paraiškos padavimo darbdavys ir darbuotojas negali atskleisti išradimo esmės.
+
+
+
+
+Patentinė paraiška dėl tarnybinio išradimo paduodama Valstybiniam patentų biurui įmonės, įstaigos ar organizacijos vardu.
+
+
+
+
+Darbdavys, gavęs tarnybinio išradimo patentą, privalo mokėti išradėjui autorinį atlyginimą. Šio atlyginimo dydis priklauso nuo išradimo ekonominės vertės ir kitos naudos, kurią darbdavys gali gauti panaudojęs šį išradimą. Autorinio atlyginimo ir mokėjimo sąlygos nustatomos darbdavio ir išradėjo pasirašomoje autorinio atlyginimo sutartyje, kuri sudaroma ne vėliau kaip per pusę metų nuo patento išdavimo arba per metus nuo išradimo naudojimo pradžios, jeigu išradimas pradėtas naudoti iki patento išdavimo. Jeigu darbdavys nevykdo autorinio atlyginimo mokėjimo sutarties reikalavimų arba tokia sutartis nurodytais terminais nesudaroma, išradėjas turi teisę kreiptis į teismą, kad būtų pripažintas tarnybinio išradimo patento savininku.
+
+
+
+
+Autorinis atlyginimas nemokamas, jeigu darbuotojo darbo sutartyje yra numatytas išradimų kūrimas ir už tai jam buvo arba yra mokamas sutartas padidintas atlyginimas.
+
+
+
+
+Jeigu tarp šalių nėra susitarimo, atlyginimo dydį nustato teismas.
+
+
+
+
+Darbdavio ir darbuotojo teisės ir pareigos, susijusios su tarnybiniais išradimais, išskyrus autorinio atlyginimo mokėjimą, pasibaigia patentui netekus galios arba po metų nuo darbo santykių nutraukimo. 
+
+
+Straipsnio pakeitimai:
+Nr. VIII-590, 1997-12-23, Žin., 1997, Nr. 119-3078 (1997-12-31), i. k. 0971010ISTAVIII-590
  
-
-
 
 
 
@@ -533,7 +573,10 @@ Jeigu paskelbta patentinė paraiška vėliau buvo atšaukta arba nuginčyta kito
 22 straipsnis. Patento išdavimas
 
 
-Jeigu patentinė paraiška atitinka ekspertizės reikalavimus, Valstybinis patentų biuras, pareiškėjui sumokėjus mokestį, per mėnesį išduoda patentą.
+Jeigu patentinė paraiška atitinka ekspertizės reikalavimus, Valstybinis patentų biuras, pareiškėjui sumokėjus mokestį, per šešis mėnesius išduoda patentą. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-590, 1997-12-23, Žin., 1997, Nr. 119-3078 (1997-12-31), i. k. 0971010ISTAVIII-590
+ 
 
 
 
@@ -1557,3 +1600,8 @@ Dėl Lietuvos Respublikos patentų įstatymo pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-565, 1997-12-09, Žin., 1997, Nr. 117-3005 (1997-12-24), i. k. 0971010ISTAVIII-565
 Lietuvos Respublikos patentų įstatymo 34 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-590, 1997-12-23, Žin., 1997, Nr. 119-3078 (1997-12-31), i. k. 0971010ISTAVIII-590
+Lietuvos Respublikos patentų įstatymo 7, 8, 22 straipsnių pakeitimo ir papildymo įstatymas
