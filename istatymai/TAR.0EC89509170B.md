@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
+Suvestinė redakcija nuo 1995-12-29 iki 2000-07-11
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
+ 
+ 
 LIETUVOS RESPUBLIKOS DAUGIABUČIŲ NAMŲ SAVININKŲ BENDRIJŲ ĮSTATYMAS
  
 1995 m. vasario 21 d. Nr. I-798
@@ -112,10 +117,12 @@ II. BENDRIJOS STEIGIMAS
 5 straipsnis. Bendrijos steigimas
 
 
-Daugiabučių namų savininkai arba savivaldybės meras (valdyba) šaukia savininkų susirinkimus bendrijai steigti. Name arba keliuose namuose, susietuose bendrojo naudojimo inžinerine įranga, gali būti steigiama tik viena daugiabučių namų savininkų bendrija.
+Daugiabučių namų savininkai arba savivaldybės meras (valdyba) šaukia savininkų susirinkimus bendrijai steigti. Name arba keliuose namuose, susietuose bendrojo naudojimo inžinerine įranga, jei nėra galimybės jų atskirai eksploatuoti, steigiama tik viena daugiabučių namų savininkų bendrija.
+
+
+Straipsnio pakeitimai:
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
  
-
-
 
 
 
@@ -392,7 +399,10 @@ Aukščiausiasis bendrijos valdymo organas yra bendrijos narių susirinkimas, ku
 
 
 
-3) nustatyti valdybos narių (valdytojo) apmokėjimo už atliekamą darbą dydį ir tvarką;
+3) nutarti, ar su valdybos nariais (valdytoju) bus sudaroma darbo sutartis, nustatyti apmokėjimo už jų darbą dydį ir tvarką; 
+Straipsnio punkto pakeitimai:
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
+ 
 
 
 
@@ -475,7 +485,10 @@ Susirinkimo nutarimai yra teisėti, jeigu už juos balsavo daugiau kaip pusė su
 13 straipsnis. Bendrijos valdyba arba valdytojas
 
 
-Bendrijos valdyba arba valdytojas yra bendrijos valdymo organas, vadovaujantis bendrijos veiklai tarp bendrijos narių (įgaliotinių) susirinkimų. Valdyba renkama ne mažiau kaip iš trijų bendrijos narių ne ilgesniam kaip trejų metų laikui. Valdybos narių kadencijų skaičius neribojamas. Su bendrijos valdybos nariais (valdytoju) darbo sutartis nesudaroma.
+Bendrijos valdyba arba valdytojas yra bendrijos valdymo organas, vadovaujantis bendrijos veiklai tarp bendrijos narių (įgaliotinių) susirinkimų. Valdyba renkama ne mažiau kaip iš trijų bendrijos narių ne ilgesniam kaip trejų metų laikui. Valdybos narių kadencijų skaičius neribojamas. 
+Straipsnio dalies pakeitimai:
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
+ 
 
 
 
@@ -754,7 +767,9 @@ Bendrija turi teisę valdyti ir naudoti bendrojo naudojimo patalpas, namo konstr
 
 
 
-Įregistravus bendrijos įstatus, savivaldybė per 1 mėnesį privalo nustatyta tvarka perduoti bendrijai valdyti ir naudoti gyvenamąjį namą (namus). Bendrija, perėmusi namą, sprendžia klausimą dėl gyventojų sutarčių su namą eksploatuojančia organizacija peržiūrėjimo ir naujų bendrijos sutarčių sudarymo.
+Įregistravus bendrijos įstatus, savivaldybė, įmonė, įstaiga, organizacija, kurios žinioje yra gyvenamasis namas (namai), per 1 mėnesį privalo nustatyta tvarka perduoti bendrijai valdyti ir naudoti gyvenamąjį namą (namus). Bendrija, perėmusi namą, sprendžia klausimą dėl gyventojų sutarčių su namą eksploatuojančia organizacija peržiūrėjimo ir naujų bendrijos sutarčių sudarymo.
+Straipsnio dalies pakeitimai:
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
  
 
 
@@ -901,8 +916,6 @@ Ginčus tarp bendrijos ir bendrijos narių, tarp bendrijos ir kitų juridinių a
 
 Patalpų savininkų skolos už namo eksploatavimo išlaidas ir komunalines paslaugas išieškomos Lietuvos Respublikos įstatymų nustatyta tvarka.
  
- 
- 
 
 
 
@@ -930,12 +943,26 @@ Valstybė ir savivaldybės, atsakydamos už nacionalinio turto – gyvenamojo fo
 
 
 
-4) atleidžia bendrijas nuo žemės mokesčio;
+4) atleidžia bendrijas nuo žemės nuomos mokesčio; 
+Straipsnio punkto pakeitimai:
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
+ 
 
 
 
 
-5) kitais paramos būdais.
+5) atleidžia bendrijas ir jų narius nuo žyminio mokesčio ginčuose tarp bendrijos ir nario, taip pat tarp bendrijų; 
+Papildyta straipsnio punktu:
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
+ 
+
+
+
+
+6) kitais paramos būdais.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
+ 
 
 
 
@@ -961,3 +988,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1138, 1995-12-19, Žin., 1995, Nr. 106-2353 (1995-12-29), i. k. 0951010ISTA00I-1138
+Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo ir papildymo
