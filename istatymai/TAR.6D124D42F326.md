@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6D124D42F326"
 
 # Lietuvos Respublikos pilietybės įstatymas
 
-Suvestinė redakcija nuo 1993-12-22 iki 1995-06-27
+Suvestinė redakcija nuo 1995-06-28 iki 1995-10-19
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 251-0; Žin. 1991, Nr.36-977, i. k. 0911010ISTA00I-2072
  
@@ -332,14 +332,18 @@ dokumentai, patvirtinantys nuolatinę gyvenamąją vietą ir nuolatinius darbą 
 
 Teikimus pripažinti asmenį netekusiu Lietuvos Respublikos pilietybės šio įstatymo 21 straipsnyje nurodytais atvejais turi teisę paduoti Lietuvos Respublikos vidaus reikalų ministerija, taip pat Lietuvos Respublikos užsienio reikalų ministerija.
 
-Prašymai suteikti Lietuvos Respublikos pilietybę, atsisakyti Lietuvos Respublikos pilietybės ar ją grąžinti paduodami Respublikos Prezidentui per rajono (apskrities), miesto valdybą. Lietuvos Respublikos piliečiai, nuolat gyvenantys užsienio valstybėse, prašymus atsisakyti Lietuvos Respublikos pilietybės gali paduoti per Lietuvos Respublikos diplomatines (konsulines) įstaigas užsienyje.
+Prašymai suteikti Lietuvos Respublikos pilietybę, atsisakyti Lietuvos Respublikos pilietybės ar ją grąžinti paduodami Respublikos Prezidentui per vietos savivaldos vykdomąją instituciją. Lietuvos Respublikos piliečiai, nuolat gyvenantys užsienio valstybėse, prašymus atsisakyti Lietuvos Respublikos pilietybės gali paduoti per Lietuvos Respublikos diplomatines (konsulines) įstaigas užsienyje.
 Straipsnio dalies pakeitimai:
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
+Nr. I-945, 1995-06-13, Žin., 1995, Nr. 53-1300 (1995-06-28), i. k. 0951010ISTA000I-945
  
 
 Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 1 punkte, prašymus įgyvendinti teisę į Lietuvos Respublikos pilietybę paduoda Lietuvos Respublikos vidaus reikalų ministerijos įstaigoms ar Lietuvos Respublikos diplomatinėms (konsulinėms) įstaigoms užsienyje. 
 
-Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 2 ir 3 punktuose, prašymus įgyvendinti teisę į Lietuvos Respublikos pilietybę paduoda Lietuvos Respublikos vidaus reikalų ministerijai per rajono (apskrities), miesto valdybą.
+Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 2 ir 3 punktuose, prašymus įgyvendinti teisę į Lietuvos Respublikos pilietybę paduoda Lietuvos Respublikos vidaus reikalų ministerijai per vietos savivaldos vykdomąją instituciją.
+Straipsnio dalies pakeitimai:
+Nr. I-945, 1995-06-13, Žin., 1995, Nr. 53-1300 (1995-06-28), i. k. 0951010ISTA000I-945
+ 
 
 Asmenys, atstatantys Lietuvos Respublikos pilietybę, prašymus paduoda Lietuvos Respublikos vidaus reikalų ministerijai tiesiog ar per Lietuvos Respublikos diplomatines įstaigas užsienyje.
 
@@ -384,11 +388,17 @@ Sprendimus dėl Lietuvos Respublikos pilietybės atstatymo ar teisės į Lietuvo
 
 Jeigu paaiškėja, kad asmuo įgijo kitos valstybės pilietybę, vidaus reikalų ministras konstatuoja Lietuvos Respublikos pilietybės netekimo faktą pagal šio įstatymo 19 straipsnio 2 punktą. Toks asmuo laikomas netekusiu Lietuvos Respublikos pilietybės nuo kitos valstybės pilietybės įgijimo dienos.
 
-Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo, vidaus reikalų ministro sprendimas dėl teisės į Lietuvos Respublikos pilietybę pagal šio įstatymo 18 straipsnio antrąją dalį įsigalioja tik asmeniui prisiekus rajonų (apskričių), miestų savivaldybėse arba Lietuvos Respublikos diplomatinėse (konsulinėse) įstaigose užsienyje.
+Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo, vidaus reikalų ministro sprendimas dėl teisės į Lietuvos Respublikos pilietybę pagal šio įstatymo 18 straipsnio antrąją dalį įsigalioja tik asmeniui prisiekus vietos savivaldos vykdomosiose institucijose arba Lietuvos Respublikos diplomatinėse (konsulinėse) įstaigose užsienyje.
+Straipsnio dalies pakeitimai:
+Nr. I-945, 1995-06-13, Žin., 1995, Nr. 53-1300 (1995-06-28), i. k. 0951010ISTA000I-945
+ 
 
 Asmenys, kurie įgydami Lietuvos Respublikos pilietybę netenka turėtos kitos valstybės pilietybės, prisiekia Lietuvos Respublikai po to, kai pateikia įrodymus, kad jie neteko kitos valstybės pilietybės.
 
-Rajonų (apskričių), miestų savivaldybės, Lietuvos Respublikos diplomatinės (konsulinės) įstaigos užsienyje per 7 dienas nuo priesaikos Lietuvos Respublikai apie tai praneša Respublikos Prezidento kanceliarijai ir Vidaus reikalų ministerijai.
+Vietos savivaldos vykdomosios institucijos, Lietuvos Respublikos diplomatinės (konsulinės) įstaigos užsienyje per 7 dienas nuo priesaikos Lietuvos Respublikai apie tai praneša Respublikos Prezidento kanceliarijai ir Vidaus reikalų ministerijai.
+Straipsnio dalies pakeitimai:
+Nr. I-945, 1995-06-13, Žin., 1995, Nr. 53-1300 (1995-06-28), i. k. 0951010ISTA000I-945
+ 
 
 Straipsnio pakeitimai:
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
@@ -476,4 +486,9 @@ Dėl Lietuvos Respublikos pilietybės įstatymo 18 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-332, 1993-12-14, Žin., 1993, Nr. 71-1327 (1993-12-22), i. k. 0931010ISTA000I-332
 Dėl Lietuvos Respublikos pilietybės įstatymo 23 straipsnio papildymo
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-945, 1995-06-13, Žin., 1995, Nr. 53-1300 (1995-06-28), i. k. 0951010ISTA000I-945
+Dėl Lietuvos Respublikos pilietybės įstatymo pakeitimo
 
