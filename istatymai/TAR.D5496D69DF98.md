@@ -774,12 +774,23 @@ BAIGIAMOSIOS
 NUOSTATOS
  
 25 straipsnis. Įstatymo taikymas
-Šis įstatymas netaikomas žemės valdoms,
-kurių valdymą, naudojimą ir disponavimą jomis reglamentuoja kiti įstatymai.
+Šis įstatymas netaikomas:
+1) žemės valdoms, kurių valdymą,
+naudojimą ir disponavimą jomis reglamentuoja kiti įstatymai;
+2) Lietuvos banko turtui, kurio valdymo,
+naudojimo ir disponavimo juo tvarką nustato Lietuvos banko valdyba,
+vadovaudamasi Lietuvos banko įstatymu. Lietuvos banko turtas valdomas,
+naudojamas ir disponuojama juo siekiant įstatymu nustatyto pagrindinio tikslo
+bei įgyvendinant Lietuvos banko funkcijas ir vykdant veiklą tam reikalingai
+infrastruktūrai sukurti bei palaikyti. Nereikalingas arba netinkamas
+(negalimas) naudoti Lietuvos banko nekilnojamasis turtas neatlygintinai gali
+būti perduodamas tik valstybės ar savivaldybių institucijoms.
 Skirsnio ir
 straipsnio numeracijos pakeitimas:
-Nr. VIII-1686, 00.05.18, Žin., 2000,
-Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
+Nr. VIII-1686, 2000 05 18, Žin., 2000, Nr.
+47-1340 (2000 06 09),įsigalioja nuo 2000 07 01
+Nr. IX-383, 2001-06-19, Žin., 2001, Nr.
+56-1981 (2001-06-30)
  
  
 Vadovaudamasis Lietuvos Respublikos
@@ -793,7 +804,6 @@ PIRMININKAS                                  �
 LANDSBERGIS
  
 _____________
- 
  
 Pakeitimai:
  
@@ -824,8 +834,15 @@ Nr. IX-351, 2001-06-05, Žin., 2001, Nr.
 VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO
 ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-383, 2001-06-19, Žin., 2001, Nr.
+56-1981 (2001-06-30)
+VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR
+DISPONAVIMO JUO ĮSTATYMO 25 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001-06-20)
-                  autrap@lrs.lt
+Redagavo: Angonita Rupšytė (2001-07-04)
+                  anrups@lrs.lt
