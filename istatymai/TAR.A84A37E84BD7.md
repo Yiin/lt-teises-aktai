@@ -514,11 +514,17 @@ reorganizuojama ar likviduojama Lietuvos Respublikos įstatymu.“
 2 straipsnis.
 Baigiamosios nuostatos
 1. LRT
-finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2001 m. sausio 1 d.
+finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2002 m. sausio 1 d.
 2. LRT
-administracinė komisija įsteigiama ne vėliau kaip 2001 m. sausio 31 d.
+administracinė komisija įsteigiama ne vėliau kaip per 1 mėnesį po šio įstatymo
+nustatytos finansavimo tvarkos įsigaliojimo.
 3. Šio įstatymo
 6 straipsnio 6 dalies nuostata įsigalioja nuo 2002 m. sausio 1 d. 
+Straipsnio pakeitimai:
+Nr. IX-137, 2000 12 23, Žin., 2000, Nr.
+111-3587 (2000 12 29)
+ 
+ 
  
 Vadovaudamasis
 Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi, skelbiu šį
@@ -557,9 +563,17 @@ LIETUVOS
 NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4 IR 6 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
  
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. IX-137, 2000 12 23, Žin., 2000, Nr.
+111-3587 (2000 12 29)
+LIETUVOS
+NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė
-Trapinskienė (2001 01 09)
+Redagavo: Aušrinė Trapinskienė (2001 01 09)
                   autrap@lrs.lt
