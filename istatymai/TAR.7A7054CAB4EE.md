@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7A7054CAB4EE"
 
 # Dėl darbuotojų privataus kapitalo kaupimo valstybinėse įmonėse
 
-Suvestinė redakcija nuo 1991-02-09 iki 1991-04-13
+Suvestinė redakcija nuo 1991-04-14 iki 1991-08-07
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 139-0; Žin. 1990, Nr.35-848, i. k. 0901010ISTA000I-828
  
@@ -43,10 +43,11 @@ Didinant įmonės pagrindinių fondų likutinę vertę, valstybinį kapitalą pe
 
 6. Už perduotas akcijas gautos pajamos (pirminiai ir paskesni įnašai) per 5 dienas perduodamos į Lietuvos Respublikos biudžetą Lietuvos Respublikos finansų ministerijos nustatyta tvarka ir kaupiamos atskirame fonde.
 
-7. Akcijos išleidžiamos viešai skelbiant jų pasirašymą įmonės darbuotojams. Pagal šį įstatymą akcijos pasirašomos ir įsigyjamos iki 1991 m. kovo 1 dienos. Apie akcijų pasirašymą paskelbiama ne vėliau kaip prieš 10 dienų iki pasirašymo pradžios.
-Akcijas įsigyjantis darbuotojas prieš jas pasirašydamas į nurodytą sąskaitą sumoka (perveda) ne mažiau kaip 1/4 akcijų kainos. Likusi akcijų kainos dalis sumokama iki 1991 m. gruodžio 31 dienos kas mėnesį lygiomis dalimis.
+7. Akcijos išleidžiamos viešai skelbiant jų pasirašymą įmonės darbuotojams. Pagal šį įstatymą akcijos pasirašomos ir įsigyjamos iki Lietuvos Respublikos valstybinio turto privatizavimo programos įgyvendinimo įmonėje pradžios. Apie akcijų pasirašymą paskelbiama ne vėliau kaip prieš 10 dienų iki pasirašymo pradžios.
+Akcijas įsigyjantis darbuotojas prieš jas pasirašydamas į nurodytą sąskaitą sumoka (perveda) ne mažiau kaip 1/4 akcijų kainos. Likusi akcijų kainos dalis sumokama iki 1991 m. gruodžio 31 dienos kas mėnesį lygiomis dalimis. Atliekant paskutinius mokėjimus gali būti panaudojama iki 1 tūkst. rub. pagal Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymą valstybės skiriamos vienkartinės išmokos.
 Straipsnio pakeitimai:
 Nr. I-1038, 1991-02-05, Lietuvos aidas, 1991, Nr. 28-0 (1991-02-08); Žin., 1991, Nr. 5-137 (1991-02-20), i. k. 0911010ISTA00I-1038
+Nr. I-1203, 1991-04-09, Lietuvos aidas, 1991, Nr. 73-0 (1991-04-13); Žin., 1991, Nr. 12-314 (1991-04-30), i. k. 0911010ISTA00I-1203
  
 
 8. Iniciatyvos teisę pagal šį įstatymą išleisti darbuotojų akcijas turi įmonės valdyba (jos nesant, įmonės vadovas), stebėtojų taryba arba iš įmonės darbuotojų išrinkti stebėtojų tarybos nariai (jų nesant, visuotinis darbuotojų susirinkimas ar atstovų konferencija). Darbuotojų akcijas išleidžia (įnašus priima) įmonės administracija valdybos (jos nesant, įmonės vadovo) nustatyta tvarka.
@@ -79,5 +80,10 @@ Pakeitimai:
 1.
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-1038, 1991-02-05, Lietuvos aidas, 1991, Nr. 28-0 (1991-02-08); Žin., 1991, Nr. 5-137 (1991-02-20), i. k. 0911010ISTA00I-1038
+Dėl Lietuvos Respublikos laikinojo įstatymo "Dėl darbuotojų privataus kapitalo kaupimo valstybinėse įmonėse" pakeitimo ir papildymo
+ 
+2.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-1203, 1991-04-09, Lietuvos aidas, 1991, Nr. 73-0 (1991-04-13); Žin., 1991, Nr. 12-314 (1991-04-30), i. k. 0911010ISTA00I-1203
 Dėl Lietuvos Respublikos laikinojo įstatymo "Dėl darbuotojų privataus kapitalo kaupimo valstybinėse įmonėse" pakeitimo ir papildymo
 
