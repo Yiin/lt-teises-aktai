@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C81A90CA4CCA"
 
 # Dėl Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų įsteigimo
 
+Suvestinė redakcija nuo 1994-06-08
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 17-0; Žin. 1990, Nr.11-352, i. k. 0901010ISTA000I-112
+ 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
  
@@ -26,7 +30,10 @@ Vykdydama Lietuvos Respublikos valdymo aparato reorganizavimą, Lietuvos Respubl
 
 
 
-1. Panaikinti Lietuvos Respublikos valstybinį gamtos apsaugos komitetą, o jo vietoje įsteigti Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingą Lietuvos Respublikos aplinkos apsaugos departamentą.
+1. Neteko galios nuo 1994-06-08
+Punkto naikinimas:
+Nr. I-486, 1994-05-31, Žin. 1994, Nr. 43-773 (1994-06-08), i. k. 0941010ISTA000I-486
+ 
 
 
 
@@ -36,7 +43,10 @@ Vykdydama Lietuvos Respublikos valdymo aparato reorganizavimą, Lietuvos Respubl
 
 
 
-3. Nustatyti, kad Lietuvos Respublikos aplinkos apsaugos departamento ir Lietuvos Respublikos valstybės kontrolės departamento vadovai gali dalyvauti patariamojo balso teise Lietuvos Respublikos Vyriausybės posėdžiuose.
+3. Neteko galios nuo 1994-06-08
+Punkto naikinimas:
+Nr. I-486, 1994-05-31, Žin. 1994, Nr. 43-773 (1994-06-08), i. k. 0941010ISTA000I-486
+ 
 
 
 
@@ -46,7 +56,10 @@ Vykdydama Lietuvos Respublikos valdymo aparato reorganizavimą, Lietuvos Respubl
 
 
 
-5. Lietuvos Respublikos valstybinis gamtos apsaugos komitetas ir Lietuvos Respublikos liaudies kontrolės komitetas vykdo savo funkcijas, kol bus sudaryti šio įstatymo 1 ir 2 straipsniuose nurodyti valstybės organai.
+5. Neteko galios nuo 1994-06-08
+Punkto naikinimas:
+Nr. I-486, 1994-05-31, Žin. 1994, Nr. 43-773 (1994-06-08), i. k. 0941010ISTA000I-486
+ 
 
 
 
@@ -60,3 +73,14 @@ PIRMININKAS                                  �
  
 Vilnius, 1990 m. balandžio 5 d. 
 Nr. I-112
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-486, 1994-05-31, Žin., 1994, Nr. 43-773 (1994-06-08), i. k. 0941010ISTA000I-486
+Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo
