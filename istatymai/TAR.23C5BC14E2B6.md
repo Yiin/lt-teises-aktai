@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23C5BC14E2B6"
 
 # Lietuvos Respublikos karo policijos įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2004-10-25
+Suvestinė redakcija nuo 2004-10-26 iki 2011-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 98-2713, i. k. 0981010ISTAVIII-911
  
@@ -124,18 +124,20 @@ Karo policija vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, kr
 
 
 
-6 straipsnis. Karo policijos dalyvavimas tarptautinėse operacijose ir pratybose
+6 straipsnis. Karo policijos dalyvavimas tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose
 
 
-1. Karo policininkai dalyvauja tarptautinėse operacijose ir pratybose Lietuvos Respublikos kariuomenės vienetų dalyvavimo tarptautinėse operacijose ir pratybose, taip pat tarptautinių pratybų rengimo Lietuvos teritorijoje įstatymo nustatytomis sąlygomis ir tvarka.
+1. Karo policininkai dalyvauja tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose įstatymų nustatyta tvarka.
 
 
 
 
-2. Karo policija turi šio įstatymo nustatytus įgaliojimus tarptautinėse operacijose ir pratybose dalyvaujančių bei bendruose su kitomis valstybėmis kariniuose vienetuose tarnaujančių Lietuvos karių atžvilgiu, taip pat kitus įgaliojimus, numatytus tarptautinėse sutartyse ar tarptautinių organizacijų rezoliucijose.
+2. Karo policija turi šio įstatymo nustatytus įgaliojimus tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose dalyvaujantiems bei bendruose su kitomis valstybėmis kariniuose vienetuose tarnaujantiems Lietuvos kariams ir civiliams krašto apsaugos sistemos tarnautojams, taip pat kitus įgaliojimus, numatytus tarptautinėse sutartyse ar tarptautinių organizacijų rezoliucijose.
+
+
+Straipsnio pakeitimai:
+Nr. IX-2485, 2004-10-12, Žin., 2004, Nr. 156-5692 (2004-10-26), i. k. 1041010ISTA0IX-2485
  
-
-
 
 
 
@@ -906,3 +908,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
 Lietuvos Respublikos karo policijos įstatymo 10, 13, 14, 15, 17, 18, 20 ir 21 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2485, 2004-10-12, Žin., 2004, Nr. 156-5692 (2004-10-26), i. k. 1041010ISTA0IX-2485
+Lietuvos Respublikos karo policijos įstatymo 6 straipsnio pakeitimo įstatymas
