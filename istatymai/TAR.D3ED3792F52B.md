@@ -3158,39 +3158,50 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 Nr. IX-247, 2001 04 12, Žin., 2001, Nr.
 37-1231 (2001 05 02)
  
-***69 straipsnis. Valstybės tarnautojų
+69 straipsnis. Valstybės tarnautojų
 darbo užmokestis
 1. Šio įstatymo šeštajame skirsnyje
 nustatyta darbo apmokėjimo sistema pradedama įgyvendinti pagal šio straipsnio
 2, 3 ir 4 dalių nuostatas nuo 2001 m. spalio 1 d., išskyrus paslaugų valstybės
 tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m.
 liepos 1 d.
-2. Valstybės tarnautojams, kurių iki šio
-straipsnio 1 dalyje nurodytos datos gautas vidutinis darbo užmokestis (toliau –
-buvęs darbo užmokestis) yra didesnis už darbo užmokestį, nustatomą pagal šio
-įstatymo šeštajame skirsnyje nurodytas darbo apmokėjimo sąlygas:
+2. Valstybės
+tarnautojams, kurių iki šio straipsnio 1 dalyje nurodytos datos gautas
+vidutinis darbo užmokestis (toliau – buvęs darbo užmokestis) yra didesnis už
+darbo užmokestį, nustatomą pagal šio įstatymo šeštajame skirsnyje nurodytas
+darbo apmokėjimo sąlygas (neįskaičiuojant šio įstatymo 
+33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatytų priedų ir 34 straipsnio 1
+dalies 1 ir 3 punktuose numatytų priemokų): 
 1) buvęs darbo užmokestis
 apskaičiuojamas iš paskutinių 3 mėnesių tarnybinių atlyginimų (pareiginių algų)
-ir iš paskutinių 12 mėnesių nustatytų priedų bei priemokų dydžių, vadovaujantis
-Vyriausybės patvirtinta tvarka;
-***2) pereinamuoju
-laikotarpiu – iki 2004 m. liepos 1 d. – buvęs darbo užmokestis nuosekliai
-mažinamas ir priartinamas prie naujo darbo užmokesčio dydžio, kiekvieną mėnesį
-valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę
-(kol susilygins su pagal šį įstatymą nustatytu darbo užmokesčiu):
+ir iš paskutinių 12 mėnesių nustatytų priedų bei priemokų dydžių
+(neįskaičiuojant įstatymuose ir statutuose diplomatams ir statutiniams
+valstybės tarnautojams numatytų priedų už laipsnį, klasę, rangą, kvalifikacinę
+kategoriją), vadovaujantis Vyriausybės patvirtinta tvarka; 
+2) pereinamuoju laikotarpiu – iki 2004
+m. liepos 1 d. – buvęs darbo užmokestis nuosekliai mažinamas ir priartinamas
+prie naujo darbo užmokesčio dydžio, kiekvieną mėnesį valstybės tarnautojui
+priklausantį darbo užmokestį apskaičiuojant pagal formulę (kol susilygins su
+pagal šį įstatymą nustatytu darbo užmokesčiu): 
 A = C - [ ( C -
-B) x M], čia:
-A – pereinamuoju
-laikotarpiu valstybės tarnautojui priklausantis darbo užmokestis;
+B) x M] + P + S , čia: 
+A – pereinamuoju laikotarpiu
+valstybės tarnautojui priklausantis darbo užmokestis; 
 B – pagal šį
-įstatymą nustatytas valstybės tarnautojo darbo užmokestis;
+įstatymą nustatytas valstybės tarnautojo darbo užmokestis, neįskaičiuojant šio
+įstatymo 33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatytų priedų ir 34
+straipsnio 1 dalies 1 ir 
+3 punktuose numatytų priemokų;
 C – valstybės
-tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1 punktas);
+tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1 punktas),
+neįskaičiuojant įstatymuose ir statutuose diplomatams ir statutiniams valstybės
+tarnautojams numatytų priedų už laipsnį, klasę, rangą, kvalifikacinę
+kategoriją; 
 M – valstybės
 tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis
 buvusį darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai
 viešojo administravimo valstybės tarnautojams – M (viešojo administravimo) ir
-paslaugų valstybės tarnautojams – M (paslaugų):
+paslaugų valstybės tarnautojams – M (paslaugų): 
  
 
 
@@ -3208,9 +3219,6 @@ Metai
 
 
 2004
-
-
- 
 
 
 
@@ -3234,9 +3242,6 @@ II
 
 
 I
-
-
- 
 
 
 
@@ -3268,12 +3273,9 @@ M(viešojo administravimo)
 0,9
 
 
- 
 
 
-
-
-M (paslaugų )
+M (paslaugų)
 
 
 0
@@ -3294,59 +3296,63 @@ M (paslaugų )
 0,9
 
 
- 
-
-
 
  
-3. Valstybės tarnautojams, kurių
-buvęs darbo užmokestis (šio straipsnio 2 dalies 
-1 punktas) yra mažesnis už šio įstatymo šeštajame skirsnyje nustatytą darbo
-užmokestį, naujasis darbo užmokesčio dydis pasiekiamas nuosekliai: pereinamuoju
-laikotarpiu – iki 2007 m. sausio 
-1 d. kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį
-apskaičiuojant pagal formulę:
+P – šio įstatymo
+34 straipsnio 1 dalies 1 ir 3 punktuose numatytos priemokos;
+S – šio įstatymo
+33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatyti priedai diplomatams ir
+statutiniams valstybės tarnautojams.
+3. Valstybės
+tarnautojams, kurių buvęs darbo užmokestis (šio straipsnio 2 dalies 1 punktas)
+yra mažesnis už šio įstatymo šeštajame skirsnyje nustatytą darbo užmokestį
+(neįskaičiuojant šio įstatymo 33 straipsnio 1 dalies 2 punkte ir 6 dalyje
+numatytų priedų ir 34 straipsnio 1 dalies 1 ir 
+3 punktuose numatytų priemokų), naujasis darbo užmokesčio dydis
+pasiekiamas nuosekliai: pereinamuoju laikotarpiu – iki 2007 m. sausio 1 d. –
+kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį apskaičiuojant
+pagal formulę: 
 A = [ (B - C) x
-D] + C, čia:
+D] + C + P + S, čia: 
 A – pereinamuoju
-laikotarpiu valstybės tarnautojui priklausantis darbo užmokestis;
+laikotarpiu valstybės tarnautojui priklausantis darbo užmokestis; 
 B – valstybės
 tarnautojo darbo užmokestis, apskaičiuotas pagal šio įstatymo nuostatas ir
-dydžius;
-C – valstybės
-tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1 punktas);
-D – valstybės
-tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuosekliai didinantis
-buvusį darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
+dydžius (neįskaičiuojant šio įstatymo 33 straipsnio 1 dalies 2 punkte ir 6
+dalyje numatytų priedų ir 34 straipsnio 1 dalies 1 ir 3 punktuose numatytų
+priemokų); 
+C – valstybės tarnautojo buvęs
+darbo užmokestis (šio straipsnio 2 dalies 1 punktas), neįskaičiuojant
+įstatymuose ir statutuose diplomatams ir statutiniams valstybės tarnautojams
+numatytų priedų už laipsnį, klasę, rangą, kvalifikacinę kategoriją;
+D – valstybės tarnautojo darbo
+užmokesčio perskaičiavimo koeficientas, nuosekliai didinantis buvusį darbo
+užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
  
- 
- 
+
 
 
 
 Metai
 
 
-2001 
+2001
 
 
-2002 
+2002
 (II pusmetis)
 
 
-2003 
+2003
 
 
-2004 
+2004
 
 
-2005 
+2005
 
 
-2006 
-
-
- 
+2006
 
 
 
@@ -3372,11 +3378,14 @@ D
 0,9
 
 
- 
-
 
 
  
+P – šio įstatymo
+34 straipsnio 1 dalies 1 ir 3 punktuose numatytos priemokos;
+S – šio įstatymo 33 straipsnio 1
+dalies 2 punkte ir 6 dalyje numatyti priedai diplomatams ir statutiniams
+valstybės tarnautojams.
 4. Šio straipsnio 3 dalies nuostatos
 turi būti įgyvendintos ne vėliau kaip iki 2007 m. sausio 
 1 d. Šiuo pereinamuoju laikotarpiu į valstybės tarnautojo pareigas paskirtiems
@@ -3414,11 +3423,13 @@ dydžius;
 4) priedo už
 tarnybos stažą, skaičiuojamo pagal šio įstatymo 33 straipsnio 2 dalį, mokėjimą
 Vyriausybė įgyvendina laipsniškai.
-6. Šio
+6. Valstybės tarnautojams ne
+diplomatams, paskirtiems į pareigas Lietuvos Respublikos diplomatinėse
+atstovybėse ar konsulinėse įstaigose, darbo užmokestis apskaičiuojamas pagal
+šio įstatymo 31–34 straipsnių nuostatas ir dydžius, netaikant šio straipsnio 2,
+3 ir 4 dalių nuostatų.
+7. Šio
 straipsnio įgyvendinimo tvarką nustato Vyriausybė.
- 
-*** Pastaba. Šio straipsnio
-2 dalies 2 punkto nuostatos taikomos nuo 2001 m. spalio 1 d.
 Straipsnio pakeitimai:
 Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 75-2270 (2000 09 07)
@@ -3435,6 +3446,9 @@ Nr. IX-525,
 Nr.
 IX-564,
 2001-10-18, Žin., 2001, Nr. 92-3210 (2001-10-31)
+Nr.
+IX-797,
+2002-03-21, Žin., 2002, Nr. 33-1249 (2002-03-30), įsigalioja nuo 2002-04-01
  
 70 straipsnis.
 Su valstybės tarnyba nesuderinamos veiklos nutraukimas
@@ -3518,8 +3532,8 @@ straipsnio įgyvendinimas
 1. Įsigaliojus
 šiam įstatymui, per 3 metus Valdininkų registras reorganizuojamas į Valstybės
 tarnautojų registrą.
-2. Po šio
-įstatymo įsigaliojimo Valstybės tarnautojų registras 3 metus tvarkomas pagal už
+2. Po šio įstatymo
+įsigaliojimo Valstybės tarnautojų registras 3 metus tvarkomas pagal už
 valstybės tarnybą atsakingo ministro patvirtintus laikinuosius nuostatus.
 Straipsnio pakeitimai:
 Nr. IX-129, 2000 12 21, Žin., 2000, Nr.
@@ -3539,8 +3553,8 @@ valstybės tarnybų ir pareigybių sąrašą, taip pat statutinių valstybės
 tarnautojų statuso pagrindų įstatymo projektą; 
 3) per 3 metus
 atlieka galiojančių įstatymų, statutų, kitų teisės aktų, susijusių su
-statutinių valstybės tarnautojų tarnybos ypatumais, ekspertizę ir pateikia
-Seimui jų pakeitimų ir papildymų projektus;
+statutinių valstybės tarnautojų tarnybos ypatumais, ekspertizę ir pateikia Seimui
+jų pakeitimų ir papildymų projektus;
 4) per 3 metus
 priima visus kitus Valstybės tarnybos įstatymui įgyvendinti būtinus teisės
 aktus, išskyrus tuos, kurie pagal šio įstatymo nustatytą kompetenciją priimami
@@ -3586,11 +3600,11 @@ atidėjimo įstatymas
 (Žin., 1998, Nr.61-1732).
 2. Iki šio
 įstatymo įsigaliojimo priimti teisės aktai, reglamentuojantys valstybės
-tarnautojų priėmimą į pareigas valstybės tarnyboje, profesionalumo vertinimą
-(atestaciją), darbo užmokestį, kiti su valstybės tarnyba susiję teisės aktai,
-išskyrus nurodytus šio straipsnio 1 dalyje, galioja tol, kol bus priimti
-atitinkami juos pakeičiantys ir šį įstatymą įgyvendinantys teisės aktai, bet ne
-ilgiau negu numatyta šio įstatymo 78 straipsnyje.
+tarnautojų priėmimą į pareigas valstybės tarnyboje, profesionalumo vertinimą (atestaciją),
+darbo užmokestį, kiti su valstybės tarnyba susiję teisės aktai, išskyrus
+nurodytus šio straipsnio 1 dalyje, galioja tol, kol bus priimti atitinkami juos
+pakeičiantys ir šį įstatymą įgyvendinantys teisės aktai, bet ne ilgiau negu
+numatyta šio įstatymo 78 straipsnyje.
 3. Iki bus
 priimti ir įsigalios įstatymu patvirtinti statutinių valstybės tarnautojų
 statusą reglamentuojantys statutai, bet ne ilgiau negu 3 metus po Valstybės
@@ -4219,8 +4233,7 @@ tarnybos įstatymo
 priedėlis
  
 VIEŠOJO
-ADMINISTRAVIMO - ĮSTAIGŲ VADOVŲ IR KARJEROS - VALSTYBĖS TARNAUTOJŲ TIPINIŲ
-PAREIGYBIŲ
+ADMINISTRAVIMO - ĮSTAIGŲ VADOVŲ IR KARJEROS - VALSTYBĖS TARNAUTOJŲ TIPINIŲ PAREIGYBIŲ
 KATEGORIJOS
  
 1.
@@ -4504,8 +4517,8 @@ Skyriaus viršininkas
 
 
 
-Vyriausiasis kontrolierius,
-  vyriausiasis specialistas
+Vyriausiasis kontrolierius, vyriausiasis
+  specialistas
 
 
 25-26
@@ -6253,8 +6266,8 @@ Vyresnysis specialistas,
 
 
 
-Specialistas, inspektorius,
-  pamainos vadas
+Specialistas,
+  inspektorius, pamainos vadas
 
 
 15–20
@@ -7236,11 +7249,21 @@ Nr. IX-648,
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 2 PRIEDĖLIO PAKEITIMO ĮSTATYMAS
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-797,
+2002-03-21, Žin., 2002, Nr. 33-1249 (2002-03-30)
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 69 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis Įstatymas įsigalioja nuo 2002 m.
+balandžio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-01-03)
+Aušrinė Trapinskienė (2002-04-02)
                  
 autrap@lrs.lt
