@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.08F2F39FF20B"
 
 # Lietuvos Respublikos laukinės gyvūnijos įstatymas
 
-Suvestinė redakcija nuo 2002-10-04 iki 2003-12-31
+Suvestinė redakcija nuo 2004-01-01 iki 2005-05-04
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2726, i. k. 0971010ISTAVIII-498
  
@@ -307,7 +307,10 @@ Nr. IX-1091, 2002-09-19, Žin., 2002, Nr. 96-4168 (2002-10-04), i. k. 1021010IST
 4. Savivaldybės:
 
 
-1) Savivaldybės gamtos apsaugos fondo nuostatų nustatyta tvarka finansuoja laukinių gyvūnų daromos žalos prevencijos priemones;
+1) Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo nustatyta tvarka finansuoja laukinių gyvūnų daromos žalos prevencijos priemones;
+Straipsnio punkto pakeitimai:
+Nr. IX-1614, 2003-06-10, Žin., 2003, Nr. 61-2767 (2003-06-27), i. k. 1031010ISTA0IX-1614
+ 
 
 
 
@@ -385,7 +388,10 @@ LAUKINĖS GYVŪNIJOS APSAUGA
 8 straipsnis. Laukinės gyvūnijos išteklių apsaugos, atkūrimo ir laukinių gyvūnų daromos žalos prevencijos priemonių finansavimas
 
 
-1. Aplinkos apsaugos rėmimo programos įstatymo, Savivaldybės gamtos apsaugos fondo nuostatų ir kitų teisės aktų nustatytais atvejais laukinės gyvūnijos išteklių apsaugos ir atkūrimo priemones finansuoja valstybė, savivaldybės ir laukinės gyvūnijos išteklių naudotojai.
+1. Aplinkos apsaugos rėmimo programos įstatymo, Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo ir kitų teisės aktų nustatytais atvejais laukinės gyvūnijos išteklių apsaugos ir atkūrimo priemones finansuoja valstybė, savivaldybės ir laukinės gyvūnijos išteklių naudotojai. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1614, 2003-06-10, Žin., 2003, Nr. 61-2767 (2003-06-27), i. k. 1031010ISTA0IX-1614
+ 
 
 
 
@@ -395,8 +401,9 @@ LAUKINĖS GYVŪNIJOS APSAUGA
 
 
 
-3. Prevencijos priemonės, kurių imasi žemės, miško ir vandens telkinių savininkai, valdytojai ir naudotojai siekdami išvengti retų ir nykstančių rūšių laukinių gyvūnų arba medžiojamųjų gyvūnų daromos žalos, finansuojamos Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybės gamtos apsaugos fondo nuostatų nustatytais atvejais bei tvarka, išskyrus atvejus, kai medžiojamųjų gyvūnų daromą žalą privalo atlyginti medžiojamųjų gyvūnų išteklių naudotojai pagal šio Įstatymo 24 straipsnio reikalavimus.
- 
+3. Prevencijos priemonės, kurių imasi žemės, miško ir vandens telkinių savininkai, valdytojai ir naudotojai siekdami išvengti retų ir nykstančių rūšių laukinių gyvūnų arba medžiojamųjų gyvūnų daromos žalos, finansuojamos Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo nustatytais atvejais bei tvarka, išskyrus atvejus, kai medžiojamųjų gyvūnų daromą žalą privalo atlyginti medžiojamųjų gyvūnų išteklių naudotojai pagal šio Įstatymo 24 straipsnio reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1614, 2003-06-10, Žin., 2003, Nr. 61-2767 (2003-06-27), i. k. 1031010ISTA0IX-1614
  
 
 
@@ -443,7 +450,10 @@ LAUKINĖS GYVŪNIJOS IŠTEKLIŲ NAUDOJIMAS
 
 
 
-2) Aplinkos apsaugos rėmimo programos įstatymo, Savivaldybės gamtos apsaugos fondo nuostatų ir kitų teisės aktų nustatytais atvejais ir tvarka gauti finansinę pagalbą laisvėje gyvenančios laukinės gyvūnijos ištekliams apsaugoti ir atkurti;
+2) Aplinkos apsaugos rėmimo programos įstatymo, Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo ir kitų teisės aktų nustatytais atvejais ir tvarka gauti finansinę pagalbą laisvėje gyvenančios laukinės gyvūnijos ištekliams apsaugoti ir atkurti; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1614, 2003-06-10, Žin., 2003, Nr. 61-2767 (2003-06-27), i. k. 1031010ISTA0IX-1614
+ 
 
 
 
@@ -829,7 +839,7 @@ Fiziniai ir juridiniai asmenys, pažeidę šio Įstatymo reikalavimus, įstatym�
 
 
 
-6. Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybės gamtos apsaugos fondo nuostatų nustatyta tvarka valstybės vardu šiuose teisės aktuose nurodytos institucijos atlygina laukinių gyvūnų padarytą žalą:
+6. Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo nustatyta tvarka valstybės vardu šiuose teisės aktuose nurodytos institucijos atlygina laukinių gyvūnų padarytą žalą:
 
 
 1) žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams, kai pakenkdami žemės ūkio pasėliams, miškui ir hidrotechnikos įrenginiams ją padarė kanopiniai žvėrys ir bebrai ir šios žalos neprivalo atlyginti laukinės gyvūnijos išteklių naudotojai pagal šio straipsnio 5 dalį;
@@ -837,9 +847,12 @@ Fiziniai ir juridiniai asmenys, pažeidę šio Įstatymo reikalavimus, įstatym�
 
 
 
-2) žemės, miško ir vandens telkinių savininkams, valdytojams ir naudotojams, kai pakenkdami žemės ūkio pasėliams, miškui ir hidrotechnikos įrenginiams žalos padarė retų ir nykstančių rūšių laukiniai gyvūnai.
+2) žemės, miško ir vandens telkinių savininkams, valdytojams ir naudotojams, kai pakenkdami žemės ūkio pasėliams, miškui ir hidrotechnikos įrenginiams žalos padarė retų ir nykstančių rūšių laukiniai gyvūnai. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. IX-1614, 2003-06-10, Žin., 2003, Nr. 61-2767 (2003-06-27), i. k. 1031010ISTA0IX-1614
+ 
 
 
 
@@ -876,3 +889,8 @@ Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1091, 2002-09-19, Žin., 2002, Nr. 96-4168 (2002-10-04), i. k. 1021010ISTA0IX-1091
 Lietuvos Respublikos laukinės gyvūnijos įstatymo 4, 10 ir 13 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1614, 2003-06-10, Žin., 2003, Nr. 61-2767 (2003-06-27), i. k. 1031010ISTA0IX-1614
+Lietuvos Respublikos laukinės gyvūnijos įstatymo 4, 8, 10 ir 24 straipsnių pakeitimo įstatymas
