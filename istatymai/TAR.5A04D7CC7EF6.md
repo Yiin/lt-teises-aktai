@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 
 # Lietuvos Respublikos bibliotekų įstatymas
 
+Suvestinė redakcija nuo 2000-05-26 iki 2004-08-02
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
+ 
 LIETUVOS RESPUBLIKOS
 BIBLIOTEKŲ
 Į S T A T Y M A S
@@ -427,12 +431,18 @@ Bibliotekos turtą gali sudaryti pastatai, patalpos, kitos pagrindinės priemon�
 
 
 
-Apskričių bibliotekų nuomojami ar kitaip naudojami pastatai ir patalpos yra šių bibliotekų balansuose.
+Valstybinių bibliotekų, jų skyrių ir filialų patalpos yra valdomos ir naudojamos patikėjimo teise
+Straipsnio dalies pakeitimai:
+Nr. VIII-1681, 2000-05-16, Žin., 2000, Nr. 43-1223 (2000-05-26), i. k. 1001010ISTAIII-1681
+ 
 
 
 
 
-Pastatai ir patalpos, kuriose yra valstybinės bibliotekos, bei šių bibliotekų turtas neprivatizuojami.
+Pastatai ir patalpos, kuriose yra valstybinės bibliotekos, bei šių bibliotekų turtas neprivatizuojami, neparduodami, neperduodami, taip pat neįkeičiami. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1681, 2000-05-16, Žin., 2000, Nr. 43-1223 (2000-05-26), i. k. 1001010ISTAIII-1681
+ 
 
 
 
@@ -903,3 +913,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1681, 2000-05-16, Žin., 2000, Nr. 43-1223 (2000-05-26), i. k. 1001010ISTAIII-1681
+Lietuvos Respublikos bibliotekų įstatymo 16 straipsnio pakeitimo ir papildymo įstatymas
