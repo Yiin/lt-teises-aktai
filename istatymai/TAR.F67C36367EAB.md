@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F67C36367EAB"
 
 # Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" Nr. I-551, priimto 1994 m. liepos 19 d., įsigaliojimo tvarkos
 
+Suvestinė redakcija nuo 1994-12-14
+ 
+Įstatymas paskelbtas: Žin. 1994, Nr. 92-1800, i. k. 0941010ISTA000I-654
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
@@ -136,8 +140,10 @@ Baudžiamosios bylos, iškeltos pagal šiuos straipsnius, nutraukiamos.
 
 
 
-19. Asmenų, nuteistų mirties bausme, kuri neįvykdyta, bausmės vykdymas laikinai sustabdomas. Generalinė prokuratūra iki 1995 m. vasario 1 d. peržiūri šias bylas, atsižvelgdama į Baudžiamojo kodekso 121 ir 24 straipsnių reikalavimus ir, jei yra pagrindas, pateikia savo išvadą dėl bylos atnaujinimo dėl naujai paaiškėjusių aplinkybių Lietuvos Aukščiausiajam Teismui, kuris per dvi savaites priima sprendimą dėl jos.
-Mirties bausmės vykdymas atnaujinamas tik po Aukščiausiojo Teismo sprendimo dėl Generalinės prokuratūros išvados kopijos gavimo bausmės vykdymo institucijoje.
+19. Neteko galios nuo 1994-12-14
+Punkto naikinimas:
+Nr. I-686, 1994-12-08, Žin. 1994, Nr. 96-1879 (1994-12-14), i. k. 0941010ISTA000I-686
+ 
 
 
 
@@ -219,3 +225,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-686, 1994-12-08, Žin., 1994, Nr. 96-1879 (1994-12-14), i. k. 0941010ISTA000I-686
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" (Nr. I-551) ir Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" Nr. I-551, priimto 1994 m. liepos 19 d., įsigaliojimo tvarkos" pakeitimo
