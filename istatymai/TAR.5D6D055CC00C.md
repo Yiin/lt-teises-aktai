@@ -400,7 +400,7 @@ Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 
 
 
-36. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme ir Lietuvos Respublikos žemės įstatyme.
+36. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos geodezijos ir kartografijos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos laukinės gyvūnijos įstatyme, Lietuvos Respublikos laukinių augalų ir grybų įstatyme, Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatymu, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos želdynų įstatyme, Lietuvos Respublikos žemės įstatyme, Lietuvos Respublikos žemės reformos įstatyme.
 
 
 Straipsnio pakeitimai:
@@ -469,7 +469,7 @@ Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
 9. Privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esanti miško žemė į dalis neskaidoma, jeigu privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esantis vientisas miško žemės plotas yra arba tampa mažesnis kaip 5 hektarai, išskyrus atvejus, kai:
 1) atidalijama bendraturčių valdoma privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esanti miško žemė, jeigu šie sklypai suformuoti atkuriant nuosavybės teises asmenims bendrosios nuosavybės teise pagal įstatymus, reglamentuojančius piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimą. Šiuo atveju privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esanti miško žemė gali būti padalyta į ne daugiau dalių, negu sprendime dėl nuosavybės teisių į šį sklypą atkūrimo nurodytas bendraturčių skaičius;
 2) padalijama privati miško valda, kurioje yra žemės ūkio naudmenos, atskiriant šias žemės ūkio naudmenas. Šiuo atveju formuojami du ar daugiau – miškų ūkio paskirties ir žemės ūkio paskirties – žemės sklypai; suformuoto miškų ūkio paskirties žemės sklypo ar sklypų plotas negali būti mažesnis už iki padalijimo buvusį miško žemės plotą;
-3) padalijama privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esanti miško žemė, kurioje yra teisėtai pastatytas pastatas arba pastatas su jo priklausiniais, Nekilnojamojo turto registre įregistruotas kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), formuojant atskirus žemės sklypus – miškų ūkio paskirties žemės sklypą ir kitos paskirties žemės sklypą, kuris formuojamas pastatui arba pastatui su jo priklausiniais, Nekilnojamojo turto registre įregistruotam kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), eksploatuoti;
+3) atidalijama privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esanti miško žemė, kurioje yra teisėtai pastatytas pastatas arba pastatas kartu su jo priklausiniais, Nekilnojamojo turto registro informacinėje sistemoje įregistruotas kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), formuojant atskirus žemės sklypus – miškų ūkio paskirties žemės sklypą ir kitos paskirties žemės sklypą, kuris formuojamas pastatui arba pastatui kartu su jo priklausiniais, Nekilnojamojo turto registro informacinėje sistemoje įregistruotam kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), eksploatuoti;
 4) privati miško valda arba privačiame ne miškų ūkio paskirties žemės sklype esanti miško žemė padalijama į atskirus žemės sklypus, kai juos skiria valstybinės reikšmės, vietinės reikšmės viešieji keliai, geležinkeliai ir neprivatizuojami vandens telkiniai, taip pat kelių užimti plotai, neįskaityti į žemės sklypo bendrą plotą;
 5) perdalijamos privačių miškų valdos keičiant gretimų privačių miško valdų ribas, kai privačios miško valdos dalys atidalijamos ir sujungiamos su gretimomis privačiomis miško valdomis nesuformuojant atskirų miško valdų.
 
@@ -1457,8 +1457,22 @@ MIŠKO APSAUGA17 straipsnis. Miško apsaugos uždaviniai
 
 Miško apsaugos uždaviniai – saugoti mišką ir jo išteklius nuo neteisėtų veiksmų: savavališko miško kirtimo, miško naudojimo tvarkos pažeidimų, miško išteklių grobstymo, miško teršimo, šiukšlinimo, miško padegimo, naminių gyvulių daromos žalos; taip pat saugoti mišką nuo žvėrių daromos žalos, gaisrų, ligų, kenkėjų ir kitų stichinių nelaimių, miško dirvožemio ir medžių mechaninių pažeidimų.
 
-13^1 straipsnis. Miškų registras ir Miškų registro informacinė sistema
+13 straipsnis. Valstybinė miškų inventorizacija ir miškų apskaita
 1. Miškų registro objektas – miško žemės taksacinis sklypas. Miško žemės taksacinių sklypų kadastro duomenų nustatymo, atnaujinimo tvarką nustato aplinkos ministras.
+2. Subjektai, turintys teisę teikti prašymus įregistruoti, išregistruoti ar pakeisti Miškų registro objektų duomenis Miškų registro informacinėje sistemoje:
+1) miško valdytojai;
+2) miško žemės pavertimą kitomis naudmenomis inicijavę ar organizavę asmenys;
+3) Valstybinė miškų tarnyba.
+3. Miškų registro informacinėje sistemoje tvarkomi miško žemės taksacinius sklypus apibūdinantys kadastro duomenų rinkiniai. Miškų registro informacinėje sistemoje tvarkomus duomenų rinkinius sudarantys duomenys detalizuojami šio registro informacinės sistemos nuostatuose.
+4. Miškų registro informacinės sistemos valdytoja ir joje tvarkomų duomenų, įskaitant asmens duomenis, valdytoja yra Aplinkos ministerija.
+5. Šio straipsnio 2 dalyje nurodyti objektai Miškų registro informacinėje sistemoje registruojami pagal registravimo sąlygas, nustatytas Miškų registro informacinės sistemos nuostatuose. Miškų registro informacinėje sistemoje objektai įregistruojami ir jų duomenys pakeičiami per 20 darbo dienų nuo jų nustatymo ir (arba) patvirtinimo dienos.
+6. Remiantis valstybinės miškų inventorizacijos duomenimis, tvarkoma miškų apskaita.
+
+
+
+
+13-1 straipsnis. Miškų registras ir Miškų registro informacinė sistema
+1. Miško registro objektas – miško žemės taksacinis sklypas. Miško žemės taksacinių sklypų kadastro duomenų nustatymo, atnaujinimo tvarką nustato aplinkos ministras.
 2. Subjektai, turintys teisę teikti prašymus įregistruoti, išregistruoti ar pakeisti Miškų registro objektų duomenis Miškų registro informacinėje sistemoje:
 1) miško valdytojai;
 2) miško žemės pavertimą kitomis naudmenomis inicijavę ar organizavę asmenys;
@@ -1468,6 +1482,10 @@ Miško apsaugos uždaviniai – saugoti mišką ir jo išteklius nuo neteisėtų
 5. Šio straipsnio 2 dalyje nurodyti objektai Miškų registro informacinėje sistemoje registruojami pagal registravimo sąlygas, nustatytas Miškų registro informacinės sistemos nuostatuose. Miškų registro informacinėje sistemoje objektai įregistruojami ir jų duomenys pakeičiami per 20 darbo dienų nuo jų nustatymo ir (arba) patvirtinimo dienos.
 6. Miškų registro informacinėje sistemoje duomenys tvarkomi siekiant užtikrinti miško žemės kokybinę ir kiekybinę apskaitą. Miškų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Miškų registro informacinės sistemos duomenys teikiami laikantis Valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje nurodytų apribojimų, Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) 5 straipsnyje apibrėžtų asmens duomenų tvarkymo principų ir 6 straipsnyje nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
 7. Miškų registro informacinėje sistemoje tvarkomi duomenys atveriami pakartotinai naudoti, išskyrus asmens duomenis ir duomenis, susijusius su visuomenės ir viešuoju saugumu.
+
+
+
+
 18 straipsnis. Miško apsauga nuo gaisrų ir stichinių nelaimių
 
 
