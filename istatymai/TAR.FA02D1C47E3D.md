@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Suvestinė redakcija nuo 1991-07-30 iki 1991-09-20
+Suvestinė redakcija nuo 1991-09-21 iki 1991-10-20
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
  
@@ -294,7 +294,10 @@ SU KITAIS VALSTYBINIAIS ORGANAIS
 
 Lietuvos Respublikos Vyriausybė pagal savo įgaliojimus:
 
-1) kontroliuoja, kaip vietos savivaldybės vykdo Lietuvos Respublikos įstatymus ir Vyriausybės sprendimus;
+1) kontroliuoja, kaip vietos savivaldybės vykdo Lietuvos Respublikos įstatymus ir Vyriausybės sprendimus; gali reikalauti iš savivaldybių tarybų ir valdybų prieš terminą atleisti iš pareigų tarybų rinktus, skirtus ar tvirtintus, taip pat valdybų skirtus pareigūnus, jeigu jie nevykdo Lietuvos Respublikos įstatymų, Aukščiausiosios Tarybos nutarimų ar Lietuvos Respublikos Vyriausybės sprendimų arba juos šiurkščiai pažeidžia, taip pat įstatymų nustatytais atvejais atleisti iš darbo savivaldybių valdybų pareigūnus. 
+Straipsnio punkto pakeitimai:
+Nr. I-1795, 1991-09-12, Lietuvos aidas, 1991, Nr. 190-0 (1991-09-20); Žin., 1991, Nr. 27-737 (1991-09-30), i. k. 091XX01ISTA00I-1795
+ 
 
 2) gali sustabdyti ir užprotestuoti aukštesniosios pakopos savivaldybės valdymo organų sprendimus šios savivaldybės Taryboje, jeigu jie prieštarauja Lietuvos Respublikos Konstitucijai (Pagrindiniam įstatymui), ar kitiems Respublikos įstatymams, kilus ginčui, klausimus galutinai sprendžia Lietuvos Respublikos Aukščiausioji Taryba;
 
@@ -499,4 +502,9 @@ Dėl Lietuvos Respublikos pramonės ministerijos panaikinimo
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-1628, 1991-07-30, Lietuvos aidas, 1991, Nr. 151-0 (1991-08-02); Žin., 1991, Nr. 23-598 (1991-08-20), i. k. 0911010ISTA00I-1628
 Dėl Lietuvos Respublikos Vyriausybės įstatymo 4 straipsnio pakeitimo
+ 
+9.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-1795, 1991-09-12, Lietuvos aidas, 1991, Nr. 190-0 (1991-09-20); Žin., 1991, Nr. 27-737 (1991-09-30), i. k. 091XX01ISTA00I-1795
+Dėl Lietuvos Respublikos Vyriausybės įstatymo 19 straipsnio papildymo
 
