@@ -253,38 +253,26 @@ Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
  
             16(4) straipsnis.
-Specialiųjų tyrimų tarnyba 
-            Specialiųjų tyrimų tarnybą
-sudaro padaliniai, įstatymų nustatyta tvarka vykdantys operatyvinę veiklą,
-atliekantys kvotą ir parengtinį tardymą dėl nusikalstamų susivienijimų
-(organizuotų grupių) rengiamų ar padarytų nusikaltimų ir nusikaltimų valstybės
-tarnybai, užkertantys kelią korupcijai.
+Neteko galios. 
 Įstatymas
 papildytas straipsniu:
 Nr.
 VIII-356,
 97.07.01, Žin., 1997, Nr.69-1734 (97.07.23)
- 
+Nr.
+IX-1411,
+2003-04-01, Žin., 2003, Nr. 38-1658 (2003-04-24)
  
             16(5) straipsnis.
-Specialiųjų tyrimų tarnybos uždaviniai
-            Specialiųjų tyrimų tarnyba
-renka, analizuoja, klasifikuoja, o jeigu reikia, perduoda vidaus reikalų
-sistemos padaliniams ir suinteresuotoms tarnyboms operatyvinę ir kitą
-informaciją apie nusikalstamus susivienijimus (organizuotas grupes), jų
-organizatorius bei narius, taip pat rengiančius ar padariusius nusikaltimus
-valstybės tarnybai ar susijusius su nusikalstamo susivienijimo veikla valstybės
-pareigūnus bei organizuoja priemones šiai informacijai realizuoti, tiria
-nusikalstamų susivienijimų (organizuotų grupių) narių, asmenų, susijusių su
-nusikalstamo susivienijimo veikla, padarytus nusikaltimus, taip pat
-nusikaltimus valstybės tarnybai, atlieka kvotą ir parengtinį tardymą šiose baudžiamosiose
-bylose, imasi priemonių tokių nusikaltimų prevencijai.
+Neteko galios.
 Įstatymas
 papildytas straipsniu:
 Nr.
 VIII-356,
 97.07.01, Žin., 1997, Nr.69-1734 (97.07.23)
- 
+Nr.
+IX-1411,
+2003-04-01, Žin., 2003, Nr. 38-1658 (2003-04-24)
  
             17 straipsnis. Neteko
 galios.
@@ -373,8 +361,8 @@ POLICIJOJE
 tarnybon. Tarnybos policijoje teisinis reguliavimas
             Į tarnybą policijoje
 savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų mokantys
-valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą, asmenines
-savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka policijos
+valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą,
+asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka policijos
 pareigūno pareigoms. 
 Į tarnybą
 policijoje savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų
@@ -430,9 +418,9 @@ prisiekti, į policiją nepriimami.
  
 27 straipsnis. Pareiginiai
 laipsniai 
-Policijos pareigūnų
-tarnybos stažui, kvalifikacijai ir einamoms pareigoms pažymėti bei santykiams
-reguliuoti yra šie pareiginiai laipsniai:
+Policijos
+pareigūnų tarnybos stažui, kvalifikacijai ir einamoms pareigoms pažymėti bei
+santykiams reguliuoti yra šie pareiginiai laipsniai:
 policininkas
 stažuotojas
 policininkas
@@ -460,8 +448,8 @@ tvarką nustato Lietuvos Respublikos vidaus reikalų ministras. Lietuvos teisės
 universiteto Policijos fakulteto policijos pareigūnus į pareigas Universiteto
 statute nustatyta tvarka skiria Universiteto rektorius, o pareiginius laipsnius
 Universiteto rektoriaus teikimu jiems suteikia vidaus reikalų ministras.
-Policijos
-pareigūnų kvalifikacijai pažymėti nustatomos pareiginio laipsnio kvalifikacinės
+Policijos pareigūnų
+kvalifikacijai pažymėti nustatomos pareiginio laipsnio kvalifikacinės
 kategorijos.
 Straipsnio
 pakeitimai:
@@ -514,8 +502,8 @@ Nr.90-2777 (00.10.27)
 Straipsnio
 pakeitimai:
 Nr.
-IX-888,
-2002-05-16, Žin., 2002, Nr. 54-2117 (2002-05-31)
+IX-888, 2002-05-16,
+Žin., 2002, Nr. 54-2117 (2002-05-31)
  
             32 straipsnis. Policijos
 kadrų rengimas
@@ -540,8 +528,8 @@ Nr.90-2777 (00.10.27)
 galios.
 Straipsnio
 pakeitimai:
-Nr. VIII-2048, 00.10.17, Žin., 2000, Nr.90-2777
-(00.10.27)
+Nr. VIII-2048, 00.10.17, Žin., 2000,
+Nr.90-2777 (00.10.27)
  
             35 straipsnis. Neteko
 galios.
@@ -567,7 +555,8 @@ VIII-356,
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
  
-            38 straipsnis. Neteko galios.
+            38 straipsnis. Neteko
+galios.
 Straipsnio
 pakeitimai:
 Nr. VIII-2048, 00.10.17, Žin., 2000,
@@ -655,8 +644,8 @@ patalpos.
             Vyriausybės nustatyta tvarka
 atskirų policijos tarnybų pareigūnams gali būti suteikiami tarnybiniai butai. 
             Policijos pareigūnai turi
-teisę į butų nuomos nuolaidas ir lengvatas, panaudojant valstybės ir savivaldybių
-lėšas, skirtas policijos socialinėms reikmėms tenkinti.
+teisę į butų nuomos nuolaidas ir lengvatas, panaudojant valstybės ir
+savivaldybių lėšas, skirtas policijos socialinėms reikmėms tenkinti.
  
             45 straipsnis. Policijos
 pareigūnų atlyginimai
@@ -869,8 +858,8 @@ I-1080,
 95.10.31, Žin., 1995, Nr. 92-2056 (95.11.10)
 DĖL
 KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU
-LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU LENGVATŲ
-IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO
+LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU
+LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO
 KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO IR
 PAPILDYMO
  
@@ -961,12 +950,20 @@ Nr. IX-888,
 POLICIJOS
 ĮSTATYMO 31 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1411,
+2003-04-01, Žin., 2003, Nr. 38-1658 (2003-04-24)
+POLICIJOS
+ĮSTATYMO 16(4) IR 16(5) STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-05-31)
-                 
-autrap@lrs.lt
+Aušra Bodin (2003-04-24)
+           
+      aubodi@lrs.lt
 
