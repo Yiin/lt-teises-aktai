@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8C46EE8DC023"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2004-12-18 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2006-01-11
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 45-1709, i. k. 1021010ISTA00IX-856
  
@@ -32,11 +32,11 @@ Vilnius
 
 2. Valstybės tarnybos įstatymo 2, 21 ir 22 straipsniai įsigalioja nuo 2002 m. gegužės 1 d.
 
-3. Valstybės tarnybos įstatymo VI skyriuje nustatytas darbo užmokestis mokamas iš atitinkamų metų valstybės ir savivaldybių biudžetuose darbo užmokesčiui patvirtintų asignavimų. Jeigu valstybės ar savivaldybės institucijos ar įstaigos apskaičiuotas pagal patvirtintas valstybės tarnautojų suvienodintų pareigybių kategorijas lėšų valstybės tarnautojų darbo užmokesčiui poreikis viršys atitinkamiems metams Lietuvos Respublikos valstybės biudžete ir savivaldybių biudžetuose darbo užmokesčiui patvirtintus asignavimus, valstybės tarnautojų darbo užmokestis skaičiuojamas pagal Vyriausybės patvirtintas valstybės tarnautojų darbo užmokesčio skaičiavimo taisykles, tačiau valstybės tarnautojo pareiginė alga neturi būti mažesnė už jo pareiginę algą, gautą iki 2002 m. birželio 30 d.
-TAR pastaba. Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 1 straipsnio 3 dalies (2002 m. gruodžio 10 d. redakcija) nuostata „Jeigu valstybės ar savivaldybės institucijos ar įstaigos apskaičiuotas pagal patvirtintas valstybės tarnautojų suvienodintų pareigybių kategorijas lėšų valstybės tarnautojų darbo užmokesčiui poreikis viršys atitinkamiems metams Lietuvos Respublikos valstybės biudžete ir savivaldybių biudžetuose darbo užmokesčiui patvirtintus asignavimus, valstybės tarnautojų darbo užmokestis skaičiuojamas pagal Vyriausybės patvirtintas valstybės tarnautojų darbo užmokesčio skaičiavimo taisykles, tačiau valstybės tarnautojo pareiginė alga neturi būti mažesnė už jo pareiginę algą, gautą iki 2002 m. birželio 30 d.“ prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims, 29 straipsniui, 48 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+3. Neteko galios 2005-01-01.
 Straipsnio dalies pakeitimai:
 Nr. IX-1243, 2002-12-10, Žin., 2002, Nr. 123-5534 (2002-12-24), i. k. 1021010ISTA0IX-1243
 2004-12-13, Žin., 2004, Nr. 181-6708 (2004-12-18); Žin., 2004, Nr. 186-0 (2004-12-29); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1041000NUTARG049446            
+Nr. X-69, 2004-12-22, Žin., 2004, Nr. 188-7001 (2004-12-31), i. k. 1041010ISTA0000X-69
  
 
 4. Valstybės tarnybos įstatymo (Žin., 1999, Nr. 66-2130; 2000, Nr. 75-2270; 2001, Nr. 37-1231; 2002, Nr. 38-1362) 25–29 straipsniai, 65 straipsnis nuo 2002 m. gegužės 1 d. netenka galios.
@@ -179,4 +179,9 @@ Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendi
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2004-12-13, Žin., 2004, Nr. 181-6708 (2004-12-18); Žin., 2004, Nr. 186-0 (2004-12-29); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1041000NUTARG049446                
 Dėl kai kurių teisės aktų, kuriais reguliuojami valstybės tarnybos ir su ja susiję santykiai, atitikties Lietuvos Respublikos Konstitucijai ir įstatymams
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-69, 2004-12-22, Žin., 2004, Nr. 188-7001 (2004-12-31), i. k. 1041010ISTA0000X-69
+Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 1 straipsnio pakeitimo įstatymas
 
