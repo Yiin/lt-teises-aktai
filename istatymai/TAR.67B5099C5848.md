@@ -20,7 +20,7 @@ Projektas    XXXX XX XX Nr. –––––
 
  
 Redagavo: Ramunė Lūžaitė
-(1999.04.26)
+(1999.07.09)
  
 Įstatymas paskelbtas: Žin., 1999, Nr.13-308
  
@@ -40,8 +40,15 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo
 1999 m. gegužės 1 d.
  
-*** Pabaiga ***
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. VIII-1262, 99.06.22,
+Žin., 1999, Nr.60-1955 (99.07.09)
+LIETUVOS RESPUBLIKOS
+ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+*** Pabaiga ***
  
 LIETUVOS RESPUBLIKOS
 ADMINISTRACINIŲ
@@ -78,9 +85,8 @@ gali reglamentuoti ir kiti įstatymai.
 1. Viešasis administravimas - įstatymais ir kitais
 teisės aktais reglamentuojama valstybės ir vietos savivaldos institucijų, kitų
 įstatymais įgaliotų subjektų vykdomoji veikla, skirta įstatymams, kitiems
-teisės aktams, vietos savivaldos institucijų aktams įgyvendinti ir taikyti,
-numatytoms viešosioms paslaugoms teikti bei valstybės ir vietos savivaldos
-institucijų vidiniam administravimui organizuoti bei vykdyti.
+teisės aktams, vietos savivaldos institucijų sprendimams įgyvendinti,
+numatytoms viešosioms paslaugoms administruoti.
 2. Vidinis administravimas - administravimo veikla,
 kuria užtikrinamas konkrečios valstybės ar vietos savivaldos institucijos,
 įstaigos, tarnybos ar organizacijos funkcionavimas (struktūros tvarkymas,
@@ -122,8 +128,8 @@ viešosios įstaigos bei nevyriausybinės organizacijos, kurioms įstatymo
 nustatyta tvarka suteikti viešojo administravimo įgaliojimai.
 11. Kolegiali institucija - institucija, kurioje
 sprendimus priima ne vien vadovas, o grupė asmenų balsų dauguma.
-12. Asmuo - fizinis asmuo ar jų grupė, juridinis asmuo,
-kitas asmuo, neturintis juridinio asmens teisių.
+12. Asmuo - fizinis asmuo ar jų grupė, juridinis
+asmuo, kitas asmuo, neturintis juridinio asmens teisių.
 13. Norminis teisės aktas - įstatymas ar kitas
 (įstatymo papildomasis) teisės aktas, nustatantis elgesio taisykles, skirtas
 individualiai neapibrėžtai subjektų grupei.
@@ -151,6 +157,10 @@ kompetentingą instituciją kreipiasi privatūs asmenys, o su prašymais - vald�
 institucijos, jų atstovai, tarnautojai. Įstatymai gali numatyti ir kitas
 kreipimosi formas.
  
+Straipsnio pakeitimai:
+Nr. VIII-1262, 99.06.22,
+Žin., 1999, Nr.60-1955 (99.07.09)
+ 
 3 straipsnis. Ginčai dėl teisės
  
 1. Administracinis teismas sprendžia ginčus dėl
@@ -159,8 +169,8 @@ teisės viešojo ar vidinio administravimo srityje.
 bei veiksmų (ar neveikimo) politinio ar ekonominio tikslingumo požiūriu, o tik
 nustato, ar konkrečiu atveju nebuvo pažeistas įstatymas ar įstatymo
 papildomasis teisės aktas, ar administravimo subjektas neviršijo kompetencijos,
-taip pat ar aktas (veika) neprieštarauja tikslams bei uždaviniams, dėl kurių institucija
-buvo įsteigta ir gavo atitinkamus įgaliojimus.
+taip pat ar aktas (veika) neprieštarauja tikslams bei uždaviniams, dėl kurių
+institucija buvo įsteigta ir gavo atitinkamus įgaliojimus.
  
  
 Antrasis skirsnis
@@ -204,46 +214,25 @@ bylos
 1. Administraciniai teismai nesprendžia bylų, kurios
 yra priskirtos Konstitucinio Teismo kompetencijai, taip pat bylų, priskirtų
 bendrosios kompetencijos arba kitiems specializuotiems teismams.
-[5 straipsnio 2 ir 3 dalių redakcija iki 1999 m.
-gegužės 1 d.]
-2. Administracinių teismų kompetencijai
-nepriskiriama tirti Respublikos Prezidento, Seimo, Seimo narių, Ministro
-Pirmininko, Vyriausybės (kaip kolegialios institucijos), Seimo kontrolierių
-veiklos, Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo ir Lietuvos
-apeliacinio teismo teisėjų veiklos, taip pat kitų teismų teisėjų, prokurorų,
-tardytojų ir kvotėjų procesinių veiksmų, susijusių su teisingumo vykdymu ar
-bylos tyrimu.
-3. Administraciniai teismai nesprendžia bylų dėl
-administracinių teisės pažeidimų, kuriuos pirmąja instancija pagal
-Administracinių teisės pažeidimų kodeksą nagrinėja apylinkių teismai.
-[5 straipsnio 2 ir 3 dalių redakcija nuo 1999 m.
-gegužės 1 d.]
 2. Administracinių teismų kompetencijai
 nepriskiriama tirti Respublikos Prezidento, Seimo, Seimo narių, Ministro
 Pirmininko, Vyriausybės (kaip kolegialios institucijos), Seimo kontrolierių
 veiklos, Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo ir Lietuvos
 apeliacinio teismo teisėjų veiklos, kitų teismų teisėjų, taip pat prokurorų,
-tardytojų, kvotėjų ir teismo antstolių procesinių veiksmų, susijusių su teisingumo
-vykdymu ar bylos tyrimu.
+tardytojų, kvotėjų ir teismo antstolių procesinių veiksmų, susijusių su
+teisingumo vykdymu ar bylos tyrimu.
 3. Bylas dėl administracinių teisės pažeidimų
 pirmąja instancija pagal Administracinių teisės pažeidimų kodeksą nagrinėja
 apylinkių teismai ir įgaliotos valstybės institucijos.
  
 Straipsnio pakeitimai:
-Nr. VIII-1137, 99.04.13, Žin.,
-1999, Nr.36-1067 (99.04.23)
+Nr. VIII-1137, 99.04.13,
+Žin., 1999, Nr.36-1067 (99.04.23)
  
 6 straipsnis. Apygardos administracinio teismo
 kompetencija
  
 1. Apygardos administracinis teismas yra: 
-[6 straipsnio 1 dalies 1 punkto redakcija iki 1999
-m. gegužės 1 d.]
-1) pirmoji instancija administracinėms byloms, nurodytoms
-šio įstatymo 4 straipsnyje, išskyrus tas, kurios priskirtos Aukštesniojo
-administracinio teismo kompetencijai;
-[6 straipsnio 1 dalies 1 punkto redakcija nuo 1999
-m. gegužės 1 d.]
 1) pirmoji instancija administracinėms byloms,
 nurodytoms šio įstatymo 4 straipsnyje, išskyrus šio straipsnio 2 dalies 8
 punkte nurodytas bylas ir tas, kurios paskirtos Aukštesniojo administracinio
@@ -254,8 +243,8 @@ administracinių teisės pažeidimų.
 instancijos teismas, nagrinėja šias bylas:
 1) dėl norminių administracinių aktų, kuriuos priėmė
 teritoriniai valstybiniai ar savivaldybių administravimo subjektai, teisėtumo;
-2) pagal Seimo kontrolierių pareiškimus remiantis Seimo
-kontrolierių įstatymu;
+2) pagal Seimo kontrolierių pareiškimus remiantis
+Seimo kontrolierių įstatymu;
 3) pagal savivaldybių tarybų pareiškimus dėl jų
 teisių pažeidimo, kai atsakovais yra teritoriniai valstybiniai administravimo
 subjektai;
@@ -292,14 +281,6 @@ Nr. VIII-1137, 99.04.13,
 kompetencija
  
 1. Aukštesnysis administracinis teismas yra:
-[7 straipsnio 1 dalies 1 punkto redakcija iki 1999
-m. gegužės 1 d.]
-1) pirmoji instancija šio įstatymo 4 straipsnyje
-nurodytoms byloms, kai viena iš šalių yra centrinis valstybinio administravimo
-subjektas, taip pat mokestinėms byloms, išskyrus ginčus dėl privalomų mokėjimų
-bei rinkliavų;
-[7 straipsnio 1 dalies 1 punkto redakcija nuo 1999
-m. gegužės 1 d.]
 1) pirmoji instancija šio įstatymo 4 straipsnyje
 nurodytoms byloms, kai viena iš šalių yra centrinis valstybinio administravimo
 subjektas, taip pat visoms mokestinių ginčų, kitų privalomų mokėjimų ir
@@ -332,17 +313,17 @@ institucija, įstaiga ar tarnyba;
 7) pagal skundus dėl rinkimų ir Referendumo įstatymų
 pažeidimo arba Vyriausiosios rinkimų komisijos sprendimų;
 8) pagal šio įstatymo 28 straipsnio 1 dalyje
-nurodytų subjektų pareiškimus dėl visuomeninių organizacijų, bendrijų,
-politinių partijų, politinių organizacijų ar asociacijų priimtų bendro pobūdžio
-aktų teisėtumo;
+nurodytų subjektų pareiškimus dėl visuomeninių organizacijų, bendrijų, politinių
+partijų, politinių organizacijų ar asociacijų priimtų bendro pobūdžio aktų
+teisėtumo;
 9) pagal skundus (prašymus) dėl Vyriausiosios
 administracinių ginčų komisijos sprendimų;
 10) pagal prašymus užtikrinti administracinių ginčų
 komisijų sprendimų vykdymą.
  
 Straipsnio pakeitimai:
-Nr. VIII-1137, 99.04.13, Žin.,
-1999, Nr.36-1067 (99.04.23)
+Nr. VIII-1137, 99.04.13,
+Žin., 1999, Nr.36-1067 (99.04.23)
  
 8 straipsnis.
 Lietuvos apeliacinio teismo Administracinių bylų skyriaus kompetencija
@@ -355,8 +336,6 @@ Aukštesnysis administracinis teismas, kaip pirmosios instancijos teismas;
 teismingumo klausimais.
 2. Lietuvos apeliacinio teismo Administracinių bylų
 skyrius formuoja vienodą administracinių teismų praktiką taikant įstatymus.
-[8 straipsnio 3 dalies redakcija nuo 1999 m. gegužės
-1 d.]
 3. Ginčus dėl teismingumo tarp bendrosios
 kompetencijos teismo ir administracinio teismo išsprendžia speciali teisėjų
 kolegija, į kurią įeina Lietuvos Aukščiausiojo Teismo Civilinių bylų skyriaus
@@ -387,13 +366,6 @@ administravimo subjekto priimto administracinio akto ar veiksmo (neveikimo)
 turi teisę paduoti asmenys, kiti viešojo administravimo subjektai, įskaitant
 valstybės bei savivaldybių tarnautojus, kai jie mano, kad jų teisės yra
 pažeistos.
-[9 straipsnio 2 dalies redakcija iki 1999 m. gegužės
-1 d.]
-2. Skundas (prašymas) paduodamas administracinių
-ginčų komisijai arba tiesiogiai administraciniam teismui. Administracinių ginčų
-komisijai skundas (prašymas) gali būti siunčiamas paštu.
-[9 straipsnio 2 dalies redakcija nuo 1999 m. gegužės
-1 d.]
 2. Skundas (prašymas) paduodamas administracinių
 ginčų komisijai arba tiesiogiai administraciniam teismui. Administracinių ginčų
 komisijai skundas (prašymas) gali būti siunčiamas paštu. Prieš kreipiantis į
@@ -430,14 +402,6 @@ gyvenamosios vietos, kitų įrodymų buvimo vieta;
 atlyginimo;
 8) pridedamų dokumentų sąrašas;
 9) skundo (prašymo) surašymo vieta ir data.
-[10 straipsnio 3 dalies redakcija iki 1999 m.
-gegužės 1 d.]
-3. Skundą (prašymą) pasirašo pareiškėjas ar jo
-atstovas, o apeliacinius skundus, taip pat kitais įstatymo numatytais atvejais
-- ir advokatas. Prie atstovo paduodamo skundo (prašymo) turi būti pridedamas įgaliojimas
-ar kitoks dokumentas, patvirtinantis atstovo įgalinimus.
-[10 straipsnio 3 dalies redakcija nuo 1999 m.
-gegužės 1 d.]
 3. Skundą (prašymą) ir apeliacinį skundą pasirašo
 pareiškėjas ar jo atstovas. Prie atstovo paduodamo skundo (prašymo) turi būti
 pridedamas įgaliojimas ar kitoks dokumentas, patvirtinantis atstovo įgalinimus.
@@ -448,17 +412,17 @@ Nr. VIII-1137, 99.04.13,
  
 11 straipsnis. Skundo (prašymo) priedai
  
-1. Prie skundo (prašymo) pridedami šie priedai: skundžiamas
-aktas; jei skundas (prašymas) buvo nagrinėtas administracinių ginčų komisijoje,
-- atitinkamos administracinių ginčų komisijos sprendimas; jei būtina, -
-dokumentas, patvirtinantis reikalavimų ar prieštaravimų skundžiamai
+1. Prie skundo (prašymo) pridedami šie priedai:
+skundžiamas aktas; jei skundas (prašymas) buvo nagrinėtas administracinių ginčų
+komisijoje, - atitinkamos administracinių ginčų komisijos sprendimas; jei
+būtina, - dokumentas, patvirtinantis reikalavimų ar prieštaravimų skundžiamai
 institucijai, įstaigai, tarnybai įteikimo datą.
 2. Išskyrus šio įstatymo 26 straipsnyje nustatytus
 atvejus, prie skundo (prašymo) turi būti pridedamas žyminio mokesčio kvitas
 arba motyvuotas prašymas atleisti nuo žyminio mokesčio.
-3. Skundo (prašymo) su priedais egzempliorių turi būti
-tiek, kad jų kopijas būtų galima įteikti kiekvienai proceso šaliai ir dar liktų
-egzempliorius teismo dokumentacijai.
+3. Skundo (prašymo) su priedais egzempliorių turi
+būti tiek, kad jų kopijas būtų galima įteikti kiekvienai proceso šaliai ir dar
+liktų egzempliorius teismo dokumentacijai.
  
  
 Ketvirtasis skirsnis
@@ -496,11 +460,11 @@ administravimo subjektų priimtų individualių administracinių aktų ar veiksm
 (neveikimo) gali būti paduotas savivaldybės visuomeninei administracinei ginčų
 komisijai, jeigu įstatymai nenustato kitaip.
 2. Skundas (prašymas) dėl apskrityje esančių
-teritorinių valstybinio administravimo subjektų priimtų individualių
-administracinių aktų ar veiksmų (neveikimo), taip pat apskrities teritorijoje
-esančių savivaldybių administravimo subjektų priimtų individualių
-administracinių aktų ar veiksmų (neveikimo) gali būti paduotas apskrities
-administracinių ginčų komisijai, jeigu įstatymai nenustato kitaip.
+teritorinių valstybinio administravimo subjektų priimtų individualių administracinių
+aktų ar veiksmų (neveikimo), taip pat apskrities teritorijoje esančių
+savivaldybių administravimo subjektų priimtų individualių administracinių aktų
+ar veiksmų (neveikimo) gali būti paduotas apskrities administracinių ginčų
+komisijai, jeigu įstatymai nenustato kitaip.
  
 15 straipsnis. Vyriausiosios administracinių ginčų
 komisijos 
@@ -514,10 +478,9 @@ Vyriausiajai administracinių ginčų komisijai, jeigu įstatymai nenustato kita
 16 straipsnis. Administracinių ginčų komisijų
 nespręstini ginčai
  
-Ginčai, kurių nesprendžia savivaldybių, apskričių
-administracinių ginčų komisijos ir Vyriausioji administracinių ginčų komisija,
-yra nurodyti šio įstatymo 5 straipsnyje, 6 straipsnio 2 dalyje ir 7 straipsnio
-2 dalyje.
+Ginčai, kurių nesprendžia savivaldybių, apskričių administracinių
+ginčų komisijos ir Vyriausioji administracinių ginčų komisija, yra nurodyti šio
+įstatymo 5 straipsnyje, 6 straipsnio 2 dalyje ir 7 straipsnio 2 dalyje.
  
 17 straipsnis.
 Skundų (prašymų) padavimo administracinių ginčų komisijoms terminai
@@ -555,8 +518,8 @@ administracinį teismą galima kreiptis per 20 dienų nuo sprendimo gavimo dieno
 2. Tais atvejais, kai administracinių ginčų komisija
 nustatytu laiku skundo (prašymo) neišnagrinėja, šio įstatymo 9 straipsnio 1
 dalyje nurodyti subjektai skundą (prašymą) dėl pažeistos teisės gali paduoti
-administraciniam teismui per 1 mėnesį nuo to laiko, iki kada turėjo būti
-priimtas sprendimas.
+administraciniam teismui per 1 mėnesį nuo to laiko, iki kada turėjo būti priimtas
+sprendimas.
  
 20 straipsnis.
 Kiti skundų (prašymų) padavimo administraciniam teismui terminai
@@ -646,7 +609,8 @@ dėl kitų asmenų teisių gynimo;
 kontrolierių įstatymą;
 10) Vyriausybės atstovo kreipimosi dėl savivaldybių
 institucijų, įstaigų, tarnybų priimtų aktų bei tarnautojų neteisėtų veiksmų;
-11) administracinių nuobaudų paskyrimo (nepaskyrimo);
+11) administracinių nuobaudų paskyrimo
+(nepaskyrimo);
 12) žalos, padarytos fiziniam ar juridiniam asmeniui
 valstybės ar vietos savivaldos institucijos, įstaigos, tarnybos ar jos
 tarnautojo, einančio tarnybines pareigas, neteisėtais veiksmais ar neveikimu
@@ -702,20 +666,6 @@ bylos nagrinėjimą ir jeigu toks aktas priskirtas jo kompetencijai, pirmiausia
 išsprendžia norminio administracinio akto teisėtumo klausimą. Kitais atvejais
 taikomas šio įstatymo 30 straipsnis.
  
-[30 straipsnio redakcija iki 1999 m. gegužės 1 d.]
-30 straipsnis. Bendrosios
-kompetencijos ar specializuoto teismo kreipimasis į administracinį teismą
- 
-Tais atvejais, kai bendrosios kompetencijos ar
-specializuotam teismui kyla abejonių, ar viešojo administravimo subjekto
-priimtas norminis administracinis aktas (ar jo dalis) neprieštarauja įstatymui
-ar Vyriausybės norminiam aktui, šis teismas sustabdo bylos nagrinėjimą ir
-nutartimi kreipiasi į administracinį teismą prašydamas patikrinti, ar
-atitinkamas aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės norminį aktą.
-Gavęs įsiteisėjusį administracinio teismo sprendimą, bendrosios kompetencijos
-ar specializuotas teismas atnaujina bylos nagrinėjimą.
- 
-[30 straipsnio redakcija nuo 1999 m. gegužės 1 d.]
 30 straipsnis. Bendrosios
 kompetencijos ar specializuoto teismo kreipimasis į administracinį teismą
  
@@ -765,15 +715,15 @@ Skundai dėl rinkimų ar referendumo
 Skundo dėl rinkimų ar dalyvavimo referendume teisės atkūrimo padavimas
  
 1. Rinkėjas, politinės partijos, politinės ar
-visuomeninės organizacijos atstovas, nesutikdamas su apylinkės rinkimų
-komisijos sprendimu arba apylinkės referendumo komisijos sprendimu, priimtu
-pagal jo skundą dėl rinkėjų sąraše ar piliečių, turinčių teisę dalyvauti
-referendume, sąraše padarytų klaidų, dėl kurių rinkėjas negali įgyvendinti savo
-teisės rinkti (neteisingai įrašytas į sąrašą arba išbrauktas iš sąrašo, taip
-pat kai sąraše netiksliai nurodyti duomenys apie rinkėją), gali apylinkės
-rinkimų komisijos ar apylinkės referendumo komisijos sprendimą apskųsti
-atitinkamos apygardos administraciniam teismui per rinkimų arba Referendumo
-įstatymuose numatytus terminus.
+visuomeninės organizacijos atstovas, nesutikdamas su apylinkės rinkimų komisijos
+sprendimu arba apylinkės referendumo komisijos sprendimu, priimtu pagal jo
+skundą dėl rinkėjų sąraše ar piliečių, turinčių teisę dalyvauti referendume,
+sąraše padarytų klaidų, dėl kurių rinkėjas negali įgyvendinti savo teisės
+rinkti (neteisingai įrašytas į sąrašą arba išbrauktas iš sąrašo, taip pat kai
+sąraše netiksliai nurodyti duomenys apie rinkėją), gali apylinkės rinkimų
+komisijos ar apylinkės referendumo komisijos sprendimą apskųsti atitinkamos
+apygardos administraciniam teismui per rinkimų arba Referendumo įstatymuose
+numatytus terminus.
 2. Jeigu kreipiamasi į teismą prieš tai nepateikus
 skundo apylinkės komisijai, teisėjas perduoda skundą atitinkamai komisijai ir
 apie tai praneša pareiškėjui.
@@ -835,8 +785,8 @@ dienų nuo skundo gavimo dienos, jeigu įstatymai nenumato kito bylos
 išnagrinėjimo termino.
 2. Apie teismo posėdžio laiką ir vietą pranešama
 skundą padavusiam asmeniui ir administracinę nuobaudą paskyrusiai institucijai
-(pareigūnui). Šių asmenų neatvykimas, jeigu jiems buvo apie teismo posėdį pranešta,
-nekliudo teismui skundą išnagrinėti.
+(pareigūnui). Šių asmenų neatvykimas, jeigu jiems buvo apie teismo posėdį
+pranešta, nekliudo teismui skundą išnagrinėti.
 3. Nagrinėdamas skundą, administracinis teismas
 patikrina administracinės nuobaudos paskyrimo teisėtumą ir pagrįstumą.
  
@@ -871,9 +821,9 @@ administracinėje byloje Dalyvaujantys asmenys
  
 39 straipsnis. Proceso šalys ir dalyviai
  
-1. Administracinės bylos proceso šalys yra: pareiškėjas
-(skundą, prašymą padavęs subjektas; teismas, priėmęs nutartį); atsakovas
-(institucija, įstaiga, tarnyba, tarnautojas, kurių aktai ar veiksmai
+1. Administracinės bylos proceso šalys yra:
+pareiškėjas (skundą, prašymą padavęs subjektas; teismas, priėmęs nutartį);
+atsakovas (institucija, įstaiga, tarnyba, tarnautojas, kurių aktai ar veiksmai
 skundžiami); tretieji suinteresuoti asmenys (t.y. tie, kurių interesams bylos
 išsprendimas gali turėti įtakos).
 2. Administracinės bylos proceso dalyviais laikomi
@@ -893,17 +843,9 @@ suteiktų remiantis įstatymu ar kitais teisės aktais. Šie asmenys pateikia
 teismui dokumentus, patvirtinančius jų pareigas. Teismui, kuris kreipėsi į
 administracinį teismą, atstovauja nutartį priėmęs teisėjas (arba kolegijos
 pirmininkas).
-[40 straipsnio 3 dalies redakcija iki 1999 m.
-gegužės 1 d.]
-3. Įgaliotais atstovais (pagal pavedimą) teisme
-paprastai būna advokatai. Advokato įgaliojimai patvirtinami advokato orderiu.
-Kitų atstovų įgalinimai turi būti nurodyti įgaliojime, išduotame ir įformintame
-Civilinio kodekso nustatyta tvarka.
-[40 straipsnio 3 dalies redakcija nuo 1999 m.
-gegužės 1 d.]
-3. Įgaliotais atstovais (pagal pavedimą) teisme
-paprastai būna advokatai. Advokato įgaliojimai patvirtinami advokato orderiu.
-Kitų atstovų įgalinimai turi būti nurodyti įgaliojime, išduotame ir įformintame
+3. Įgaliotais atstovais (pagal pavedimą) teisme paprastai
+būna advokatai. Advokato įgaliojimai patvirtinami advokato orderiu. Kitų
+atstovų įgalinimai turi būti nurodyti įgaliojime, išduotame ir įformintame
 Civilinio kodekso ir Civilinio proceso kodekso nustatyta tvarka.
 4. Jeigu proceso šalimi yra nepilnametis ar neįgalus
 asmuo, jų interesams turi teisę atstovauti jų įstatyminiai atstovai (tėvai,
@@ -941,10 +883,10 @@ pareigos
 2. Proceso šalys turi teisę pareikšti nušalinimus ir
 prašymus, teikti įrodymus, dalyvauti tiriant įrodymus, užduoti klausimų kitiems
 proceso dalyviams, duoti paaiškinimus, pateikti savo argumentus ir
-samprotavimus, prieštarauti kitų dalyvaujančių byloje asmenų prašymams, argumentams
-ir samprotavimams, gauti teismo sprendimų, nutarčių, kuriais išsprendžiama
-byla, nuorašus, apskųsti teismo sprendimus bei nutartis ir naudotis kitomis
-Civilinio proceso kodekso numatytomis teisėmis.
+samprotavimus, prieštarauti kitų dalyvaujančių byloje asmenų prašymams,
+argumentams ir samprotavimams, gauti teismo sprendimų, nutarčių, kuriais
+išsprendžiama byla, nuorašus, apskųsti teismo sprendimus bei nutartis ir
+naudotis kitomis Civilinio proceso kodekso numatytomis teisėmis.
 3. Proceso šalys privalo savo procesinėmis teisėmis
 naudotis sąžiningai.
  
@@ -953,15 +895,6 @@ Teisminis posėdis
  
 44 straipsnis. Administracinių teismų kolegijos
  
-[44 straipsnio 1 dalies redakcija iki 1999 m.
-gegužės 1 d.]
-1. Administraciniuose teismuose bylas nagrinėja
-trijų teisėjų kolegija. Sudėtingoms byloms nagrinėti gali būti sudaroma penkių
-teisėjų kolegija. Kolegijos sudėtį sudaro ir jos pirmininką skiria
-administracinio teismo pirmininkas arba Lietuvos apeliacinio teismo
-Administracinių bylų skyriaus pirmininkas.
-[44 straipsnio 1 dalies redakcija nuo 1999 m.
-gegužės 1 d.]
 1. Administraciniuose teismuose bylas, numatytas šio
 įstatymo 4 straipsnio 3, 5 ir 8 punktuose, išskyrus skundus dėl apylinkės
 teismo nutarimų administracinių teisės pažeidimų bylose, nagrinėja vienas
@@ -1010,8 +943,8 @@ nenustato trumpesnių nagrinėjimo terminų.
 bendras terminas gali būti pratęstas, bet ne ilgiau kaip 1 mėnesiui, o bylose
 dėl norminių administracinių aktų teisėtumo - iki 3 mėnesių.
  
-48 straipsnis. Teisėjų pareigos nagrinėjant
-administracines bylas
+48 straipsnis. Teisėjų pareigos nagrinėjant administracines
+bylas
  
 1. Nagrinėdami administracines bylas, teisėjai
 privalo aktyviai dalyvauti renkant bei tiriant įrodymus, nustatant visas bylai
@@ -1070,9 +1003,8 @@ pagrindinės nustatytos procedūros, ypač taisyklės, turėjusios užtikrinti
 objektyvų visų aplinkybių įvertinimą bei sprendimo pagrįstumą.
 [51 straipsnio 2 dalies redakcija nuo 1999 m.
 gegužės 1 d.]
-2. Skundžiamas aktas (ar jo dalis) gali būti
-panaikintas ir kitais, administracinio teismo pripažintais itin svarbiais,
-pagrindais.
+2. Skundžiamas aktas (ar jo dalis) gali būti panaikintas
+ir kitais, administracinio teismo pripažintais itin svarbiais, pagrindais.
  
 Straipsnio pakeitimai:
 Nr. VIII-1137, 99.04.13,
@@ -1092,11 +1024,11 @@ Teismo sprendimas užtikrinti administracinės ginčų komisijos sprendimo vykdy
  
 1. Tais atvejais, kai pareiškėjas kreipiasi į
 administracinį teismą su prašymu užtikrinti administracinių ginčų komisijos
-priimto sprendimo vykdymą, teismas išreikalauja iš atitinkamos komisijos medžiagą,
-kurios pagrindu buvo priimtas sprendimas, ir patikrina jo teisėtumą. Jeigu
-teismas nustato, kad administracinių ginčų komisijos sprendimas yra neteisėtas,
-teismas priima sprendimą panaikinti komisijos sprendimą ir pats išsprendžia
-ginčą iš esmės.
+priimto sprendimo vykdymą, teismas išreikalauja iš atitinkamos komisijos
+medžiagą, kurios pagrindu buvo priimtas sprendimas, ir patikrina jo teisėtumą.
+Jeigu teismas nustato, kad administracinių ginčų komisijos sprendimas yra
+neteisėtas, teismas priima sprendimą panaikinti komisijos sprendimą ir pats
+išsprendžia ginčą iš esmės.
 2. Jeigu administracinis teismas nustato, kad
 komisijos sprendimas yra teisėtas, teismas priima sprendimą įpareigoti viešojo
 administravimo subjektą per teismo nustatytą laiką įvykdyti administracinių
@@ -1129,18 +1061,12 @@ teismo sprendimo įsiteisėjimo dienos.
  
 56 straipsnis. Teismo sprendimų nuorašų išsiuntimas
  
-[56 straipsnio 1 dalies redakcija iki 1999 m.
-gegužės 1 d.]
-1. Jeigu įstatymas nenustato kitaip, per 3 dienas
-nuo sprendimo priėmimo dienos bylos šalims ir tretiesiems asmenims išsiunčiami
-administracinio teismo sprendimo nuorašai.
-[56 straipsnio 1 dalies redakcija nuo 1999 m.
-gegužės 1 d.]
 1. Jeigu įstatymas nenustato kitaip, per 3 dienas
 nuo sprendimo priėmimo dienos bylos šalims ir tretiesiems suinteresuotiems
 asmenims išsiunčiami administracinio teismo sprendimo nuorašai.
-2. Tais atvejais, kai bylą inicijavo Seimo kontrolierius,
-priėmus sprendimą (nutartį), jo kopija išsiunčiama ir Seimo kontrolieriui.
+2. Tais atvejais, kai bylą inicijavo Seimo
+kontrolierius, priėmus sprendimą (nutartį), jo kopija išsiunčiama ir Seimo
+kontrolieriui.
  
 Straipsnio pakeitimai:
 Nr. VIII-1137, 99.04.13,
@@ -1198,10 +1124,10 @@ Išlaidų atlyginimas
 teisę gauti iš kitos šalies savo turėtų išlaidų atlyginimą.
 2. Kai sprendimas priimtas pareiškėjo naudai, šis
 turi teisę reikalauti atlyginti: sumokėtą žyminį mokestį; kitas išlaidas dėl
-skundo (prašymo) surašymo ir padavimo; išlaidas dėl teisminio nagrinėjimo; transporto
-išlaidas; gyvenamosios patalpos nuomojimo teismo buvimo vietoje už laiką, kol
-vyko procesas, bei dienpinigių - 10 procentų patvirtinto taikomojo minimalaus
-gyvenimo lygio už kiekvieną proceso dieną - išlaidas.
+skundo (prašymo) surašymo ir padavimo; išlaidas dėl teisminio nagrinėjimo;
+transporto išlaidas; gyvenamosios patalpos nuomojimo teismo buvimo vietoje už
+laiką, kol vyko procesas, bei dienpinigių - 10 procentų patvirtinto taikomojo
+minimalaus gyvenimo lygio už kiekvieną proceso dieną - išlaidas.
 3. Kai sprendimas priimtas atsakovo naudai, jis turi
 teisę reikalauti atlyginti: išlaidas, kurias turėjo rengdamas ir raštu
 pateikdamas teismui dokumentus bei kontrargumentus; kitas išlaidas dėl
@@ -1209,13 +1135,6 @@ teisminio nagrinėjimo; transporto išlaidas; gyvenamosios patalpos nuomojimo
 teismo buvimo vietoje už laiką, kol vyko procesas, bei dienpinigių - 10
 procentų patvirtinto taikomojo minimalaus gyvenimo lygio už kiekvieną proceso
 dieną - išlaidas.
-[59 straipsnio 4 dalies redakcija iki 1999 m.
-gegužės 1 d.]
-4. Kai išnagrinėjus bylą yra patenkinami ar apginami
-trečiųjų suinteresuotų asmenų interesai, šių asmenų teisės į išlaidų atlyginimą
-yra tokios pačios kaip ir pareiškėjo, jei sprendimas priimamas jo naudai.
-[59 straipsnio 4 dalies redakcija nuo 1999 m.
-gegužės 1 d.]
 4. Kai išnagrinėjus bylą yra patenkinami ar apginami
 trečiųjų suinteresuotų asmenų interesai, šie asmenys turi šio straipsnio 2
 dalyje nurodytas teises į išlaidų atlyginimą.
@@ -1234,13 +1153,6 @@ Nr. VIII-1137, 99.04.13,
 60 straipsnis. Sprendimo dėl išlaidų atlyginimo
 priėmimas ir vykdymas
  
-[60 straipsnio 1 dalies redakcija iki 1999 m.
-gegužės 1 d.]
-1. Iki bylos nagrinėjimo administraciniame teisme
-pateiktus prašymus dėl išlaidų atlyginimo teismas išnagrinėja ir priima
-sprendimą dėl administracinės bylos. Kitais atvejais teismas priima nutartį.
-[60 straipsnio 1 dalies redakcija nuo 1999 m.
-gegužės 1 d.]
 1. Iki bylos nagrinėjimo administraciniame teisme
 pateiktus prašymus dėl išlaidų atlyginimo teismas išsprendžia priimdamas
 sprendimą dėl administracinės bylos. Kitais atvejais teismas priima nutartį.
@@ -1249,8 +1161,8 @@ teismui pateikia prašymą raštu su turėtų išlaidų apskaičiavimu ir pagrin
 Prašymai dėl išlaidų atlyginimo turi būti pateikti ne vėliau kaip per 14 dienų
 nuo sprendimo įsiteisėjimo. 
 3. Priimdamas sprendimą dėl išlaidų atlyginimo,
-administracinis teismas nustato 2 savaičių terminą jam sumokėti. Laiku
-neįvykdyti sprendimai vykdomi Civilinio proceso kodekso nustatyta tvarka.
+administracinis teismas nustato 2 savaičių terminą jam sumokėti. Laiku neįvykdyti
+sprendimai vykdomi Civilinio proceso kodekso nustatyta tvarka.
  
 Straipsnio pakeitimai:
 Nr. VIII-1137, 99.04.13,
@@ -1260,15 +1172,6 @@ Nr. VIII-1137, 99.04.13,
 Keturioliktasis skirsnis
 Teismų sprendimų apskundimas
  
-[61 straipsnio redakcija iki 1999 m. gegužės 1 d.]
-61 straipsnis. Apygardų administracinių teismų
-sprendimų apskundimas
- 
-Apygardų administracinių teismų sprendimai ir
-nutartys dėl išlaidų atlyginimo apeliacine tvarka per 14 dienų nuo sprendimo
-priėmimo gali būti skundžiami Aukštesniajam administraciniam teismui.
- 
-[61 straipsnio redakcija nuo 1999 m. gegužės 1 d.]
 61 straipsnis. Apygardų
 administracinių teismų sprendimų ir nutarčių apskundimas
  
@@ -1280,24 +1183,13 @@ Straipsnio pakeitimai:
 Nr. VIII-1137, 99.04.13,
 Žin., 1999, Nr.36-1067 (99.04.23)
  
-[62 straipsnio redakcija iki 1999 m. gegužės 1 d.]
-62 straipsnis. Aukštesniojo administracinio teismo
-sprendimų
-               apskundimas
- 
-Aukštesniojo administracinio teismo sprendimai ir
-nutartys dėl išlaidų atlyginimo, priimti nagrinėjant administracines bylas
-pirmąja instancija, apeliacine tvarka per 14 dienų nuo sprendimo priėmimo gali
-būti skundžiami Lietuvos apeliacinio teismo Administracinių bylų skyriui.
- 
-[62 straipsnio redakcija nuo 1999 m. gegužės 1 d.]
 62 straipsnis.
 Aukštesniojo administracinio teismo sprendimų ir nutarčių apskundimas
  
 Aukštesniojo administracinio teismo sprendimai ir
-nutartys, priimti nagrinėjant administracines bylas pirmąja instancija,
-apeliacine tvarka per 14 dienų nuo sprendimo ar nutarties priėmimo gali būti
-skundžiami Lietuvos apeliacinio teismo Administracinių bylų skyriui.
+nutartys, priimti nagrinėjant administracines bylas pirmąja instancija, apeliacine
+tvarka per 14 dienų nuo sprendimo ar nutarties priėmimo gali būti skundžiami
+Lietuvos apeliacinio teismo Administracinių bylų skyriui.
  
 Straipsnio pakeitimai:
 Nr. VIII-1137, 99.04.13,
