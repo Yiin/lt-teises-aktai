@@ -515,13 +515,31 @@ antrojoje bei trečiojoje dalyse, taip pat 9 straipsnio pirmojoje dalyje
 nurodyti procentai didinami 1,8 karto. Prilyginant tarnybos laiką 20 metų pagal
 šio įstatymo 9 straipsnio antrąją dalį, ši taisyklė taikoma tik tarnybos
 metams, buvusiems iki šio įstatymo įsigaliojimo.
+ 
+7 dalies
+redakcija iki 2005 m. sausio 1 d.:
             Pensininkams, neturintiems kitų pajamų,
-išskyrus pensiją, prie pareigūnų ir karių valstybinės pensijos už tarnybą mokamas
-valstybinės socialinio draudimo bazinės pensijos dydžio priedas, iki jie įgys
-teisę gauti valstybinę socialinio draudimo pensiją. Po 2005 m. sausio 1 d. šis
-priedas mokamas tik pensininkams, išėjusiems į pensiją iki šios datos. Lietuvos
-Respublikos Vyriausybė iki šio termino privalo parengti pareigūnų ir karių,
-išleidžiamų į atsargą, perkvalifikavimo sistemą.
+išskyrus pensiją, prie pareigūnų ir karių valstybinės pensijos už tarnybą
+mokamas valstybinės socialinio draudimo bazinės pensijos dydžio priedas, iki
+jie įgys teisę gauti valstybinę socialinio draudimo pensiją. Po 2005 m. sausio
+1 d. šis priedas mokamas tik pensininkams, išėjusiems į pensiją iki šios datos.
+Lietuvos Respublikos Vyriausybė iki šio termino privalo parengti pareigūnų ir
+karių, išleidžiamų į atsargą, perkvalifikavimo sistemą.
+7 dalies
+redakcija nuo 2005 m. sausio 1 d.:
+Pensininkui, kuris nėra vienas iš
+asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio
+1 dalies 1–6, 8 ir 9 punktuose, taip pat nėra ūkininkas ar jo partneris pagal
+Ūkininko ūkio įstatymą, prie pareigūnų ir karių valstybinės pensijos už tarnybą
+mokamas valstybinės socialinio draudimo bazinės pensijos dydžio priedas, iki
+jis įgis teisę gauti valstybinę socialinio draudimo pensiją. Kai pensininkas
+tampa nurodytu asmeniu, šis priedas nebemokamas, neatsižvelgiant į valstybinio
+socialinio draudimo įmokų mokėjimą nuo tos dienos, nuo kurios jis tapo vienu iš
+asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio
+1 dalies 1–6, 8 ir 9 punktuose, arba ūkininku ar jo partneriu. Po 2006 m.
+sausio 1 d. šis priedas skiriamas ir mokamas tik pensininkams, išėjusiems į
+pensiją iki šios datos.
+ 
             Lietuvos Respublikos Vyriausybės nustatyta
 tvarka ištarnavusiems ne mažiau kaip 30 metų ir tebetarnaujantiems pareigūnams
 ir kariams gali būti skiriama ir mokama valstybinės socialinio draudimo bazinės
@@ -575,6 +593,8 @@ Nr. VIII-2008,
 2000 10 10, Žin., 2000, Nr. 92-2860 (2000 10 31)
 Nr. IX-814,
 2002-03-26, Žin., 2002, Nr. 38-1361 (2002-04-10)
+Nr. X-67, 2004-12-22,
+Žin., 2004, Nr. 188-6999 (2004-12-31)
  
  
             Skelbiu šį Lietuvos Respublikos Seimo
@@ -584,7 +604,7 @@ priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                 ALGIRDAS
 BRAZAUSKAS
  
-____________________
+__________________
  
 Pakeitimai:
  
@@ -625,8 +645,8 @@ IR PAPILDYMO ĮSTATYMAS
 įsigalioja nuo 1999 m. sausio 1 d.
  
 5. Lietuvos Respublikos Seimas, Įstatymas 
-Nr. VIII-1632, 00.04.18, Žin., 2000, Nr.36-986
-(00.05.03) 
+Nr. VIII-1632, 00.04.18, Žin., 2000,
+Nr.36-986 (00.05.03) 
 VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO
 APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO
 PAVADINIMO, 1, 3, 6, 12, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
@@ -711,10 +731,9 @@ Nr.
 IX-2073,
 2004-03-23, Žin., 2004, Nr. 50-1635 (2004-04-06)
 VIDAUS
-REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
-PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
-PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 14 STRAIPSNIO PAPILDYMO
-ĮSTATYMAS
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS,
+KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR
+KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 14 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
@@ -744,11 +763,10 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 7 IR 9 STRAIPSNIŲ PAKEITI
 Iki 1991 m.
 liepos 1 d. paskirtos pareigūnų ir karių valstybinės pensijos už tarnybą
 (ištarnautus metus) ir invalidumo pensijos, kurios yra mažesnės už Vyriausybės
-nustatytą minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir
-valstybės tarnautojams dydį, nuo 2004 m. rugsėjo 1 d. didinamos vieną kartą 30
-procentų, bet ne daugiau kaip iki Vyriausybės nustatytos minimaliosios
-mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams
-dydžio. 
+nustatytą minimaliosios mėnesinės algos valstybės pareigūnams, kariams ir valstybės
+tarnautojams dydį, nuo 2004 m. rugsėjo 1 d. didinamos vieną kartą 30 procentų,
+bet ne daugiau kaip iki Vyriausybės nustatytos minimaliosios mėnesinės algos
+valstybės pareigūnams, kariams ir valstybės tarnautojams dydžio. 
 Iki 1995 m.
 sausio 1 d. paskirtos pareigūnų ir karių valstybinės pensijos už tarnybą
 (ištarnautus metus) ir invalidumo pensijos, kurios yra mažesnės už Vyriausybės
@@ -757,6 +775,20 @@ ir valstybės tarnautojams dydį, nuo 2005 m. sausio 1 d. didinamos vieną kart�
 20 procentų, bet ne daugiau kaip iki Vyriausybės nustatytos minimaliosios
 mėnesinės algos valstybės pareigūnams, kariams ir valstybės tarnautojams
 dydžio.
+ 
+16.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-67,
+2004-12-22, Žin., 2004, Nr. 188-6999 (2004-12-31)
+VIDAUS
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
 ***
 Pabaiga ***
@@ -788,8 +820,7 @@ KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO 4 DALIAI
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušrinė Trapinskienė (2004-07-29)
+Aušrinė Trapinskienė (2005-01-03)
                  
 autrap@lrs.lt
