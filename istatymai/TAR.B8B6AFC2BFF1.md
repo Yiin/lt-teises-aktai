@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
+Suvestinė redakcija nuo 2001-01-01 iki 2003-07-24
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
+ 
 LIETUVOS RESPUBLIKOS KONKURENCIJOS ĮSTATYMAS
  
 1999 m. kovo 23 d. Nr. VIII-1099
@@ -887,7 +891,10 @@ KONKURENCIJĄ RIBOJANČIŲ VEIKSMŲ KONTROLĖS INSTITUCIJA
 
 
 
-4) nagrinėja, ar valstybės valdymo ir savivaldos institucijų priimti teisės aktai ar kiti sprendimai atitinka šio įstatymo 4 straipsnio reikalavimus ir, esant pagrindui, kreipiasi į valstybės valdymo ir savivaldos institucijas su reikalavimu pakeisti ar panaikinti teisės aktus ar kitus konkurenciją ribojančius sprendimus. Jeigu reikalavimas neįvykdytas, Taryba turi teisę tokius sprendimus, išskyrus Lietuvos Respublikos Vyriausybės norminius teisės aktus, apskųsti Aukštesniajam administraciniam teismui;
+4) nagrinėja, ar valstybės valdymo ir savivaldos institucijų priimti teisės aktai ar kiti sprendimai atitinka šio įstatymo 4 straipsnio reikalavimus ir, esant pagrindui, kreipiasi į valstybės valdymo ir savivaldos institucijas su reikalavimu pakeisti ar panaikinti teisės aktus ar kitus konkurenciją ribojančius sprendimus. Jeigu reikalavimas neįvykdytas, Taryba turi teisę valstybės valdymo institucijų sprendimus, išskyrus Lietuvos Respublikos Vyriausybės norminius teisės aktus, apskųsti Lietuvos vyriausiajam administraciniam teismui, savivaldos institucijų sprendimus – apygardos administraciniam teismui; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+ 
 
 
 
@@ -1294,7 +1301,9 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 
 
 
-2. Jeigu ūkio subjektai, įtariami pažeidę Konkurencijos įstatymą, nesutinka su Konkurencijos tarybos sprendimu arba jeigu Konkurencijos taryba nepriėmė sprendimo per 10 dienų, ūkio subjektai turi teisę paduoti skundą Aukštesniajam administraciniam teismui. Skundo pateikimas tyrimo veiksmų nesustabdo.
+2. Jeigu ūkio subjektai, įtariami pažeidę Konkurencijos įstatymą, nesutinka su Konkurencijos tarybos sprendimu arba jeigu Konkurencijos taryba nepriėmė sprendimo per 10 dienų, ūkio subjektai turi teisę paduoti skundą Vilniaus apygardos administraciniam teismui. Skundo pateikimas tyrimo veiksmų nesustabdo. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
  
 
 
@@ -1318,7 +1327,10 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 
 
 
-2) gavus Aukštesniojo administracinio teismo teisėjo sankciją, įpareigoti ūkio subjektus atlikti tam tikrus veiksmus, jeigu jų neatlikimas padarytų kitiems ūkio subjektams ar visuomenės interesams esminės žalos ar susidarytų nepataisomos pasekmės. 
+2) gavus Vilniaus apygardos administracinio teismo teisėjo sankciją, įpareigoti ūkio subjektus atlikti tam tikrus veiksmus, jeigu jų neatlikimas padarytų kitiems ūkio subjektams ar visuomenės interesams esminės žalos ar susidarytų nepataisomos pasekmės. 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+ 
 
 
 
@@ -1330,7 +1342,9 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 
 
 
-4. Konkurencijos tarybos sprendimas taikyti laikinojo pobūdžio priemones gali būti skundžiamas Aukštesniajam administraciniam teismui 1 mėnesį nuo sprendimo priėmimo dienos. Skundo padavimas laikinų priemonių taikymo nesustabdo.
+4. Konkurencijos tarybos sprendimas taikyti laikinojo pobūdžio priemones gali būti skundžiamas Vilniaus apygardos administraciniam teismui 1 mėnesį nuo sprendimo priėmimo dienos. Skundo padavimas laikinų priemonių taikymo nesustabdo. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
  
 
 
@@ -1341,7 +1355,10 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 29 straipsnis. Tyrimo veiksmų, laikinojo pobūdžio priemonių ir ūkinės veiklos apribojimų sankcionavimo tvarka
 
 
-1. Konkurencijos tarybai priėmus nutarimą dėl tyrimo veiksmų, numatytų 26 straipsnio 2 dalyje, arba dėl laikinojo pobūdžio priemonių taikymo pagal 28 straipsnio 2 dalies 2 punktą, arba dėl ūkinės veiklos apribojimų pagal 40 straipsnio 2 dalį, šios tarybos įgaliotas pareigūnas pateikia teismui prašymą šiuos veiksmus, priemones ar apribojimus sankcionuoti. Prašymas pateikiamas Aukštesniajam administraciniam teismui. 
+1. Konkurencijos tarybai priėmus nutarimą dėl tyrimo veiksmų, numatytų 26 straipsnio 2 dalyje, arba dėl laikinojo pobūdžio priemonių taikymo pagal 28 straipsnio 2 dalies 2 punktą, arba dėl ūkinės veiklos apribojimų pagal 40 straipsnio 2 dalį, šios tarybos įgaliotas pareigūnas pateikia teismui prašymą šiuos veiksmus, priemones ar apribojimus sankcionuoti. Prašymas pateikiamas Vilniaus apygardos administraciniam teismui. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+ 
 
 
 
@@ -1351,7 +1368,10 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 
 
 
-3. Prašymą dėl tyrimo veiksmų, laikinojo pobūdžio priemonių arba ūkinės veiklos apribojimų sankcionavimo išnagrinėja Aukštesniojo administracinio teismo teisėjas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. 
+3. Prašymą dėl tyrimo veiksmų, laikinojo pobūdžio priemonių arba ūkinės veiklos apribojimų sankcionavimo išnagrinėja Vilniaus apygardos administracinio teismo teisėjas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+ 
 
 
 
@@ -1361,17 +1381,26 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 
 
 
-5. Jeigu Konkurencijos tarybos įgaliotas pareigūnas nesutinka su Aukštesniojo administracinio teismo teisėjo sprendimu atmesti prašymą, jis turi teisę per 7 dienas apskųsti teisėjo nutartį apeliacinės instancijos teismui.
+5. Jeigu Konkurencijos tarybos įgaliotas pareigūnas nesutinka su Vilniaus apygardos administracinio teismo teisėjo sprendimu atmesti prašymą, jis turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+ 
 
 
 
 
-6. Apeliacinės instancijos teismas turi išnagrinėti skundą dėl Aukštesniojo administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Konkurencijos tarybos atstovas turi teisę dalyvauti nagrinėjant skundą. 
+6. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Konkurencijos tarybos atstovas turi teisę dalyvauti nagrinėjant skundą. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+ 
 
 
 
 
-7. Apeliacinės instancijos teismo priimta nutartis yra galutinė ir kasacine tvarka neskundžiama.
+7. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+ 
 
 
 
@@ -1579,7 +1608,10 @@ SKUNDŲ DĖL KONKURENCIJOS TARYBOS NUTARIMŲ TEISMINIS NAGRINĖJIMAS
 38 straipsnis. Konkurencijos tarybos nutarimų apskundimas
 
 
-1. Ūkio subjektai, taip pat kiti asmenys, manantys, kad buvo pažeistos jų šiuo įstatymu ginamos teisės, turi teisę Konkurencijos tarybos nutarimus apskųsti Aukštesniajam administraciniam teismui. Konkurencijos tarybos nutarimus, priimtus pagal šio įstatymo 36 straipsnį, turi teisę skųsti proceso šalys.
+1. Ūkio subjektai, taip pat kiti asmenys, manantys, kad buvo pažeistos jų šiuo įstatymu ginamos teisės, turi teisę Konkurencijos tarybos nutarimus apskųsti Vilniaus apygardos administraciniam teismui. Konkurencijos tarybos nutarimus, priimtus pagal šio įstatymo 36 straipsnį, turi teisę skųsti proceso šalys. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+ 
 
 
 
@@ -1589,7 +1621,9 @@ SKUNDŲ DĖL KONKURENCIJOS TARYBOS NUTARIMŲ TEISMINIS NAGRINĖJIMAS
 
 
 
-3. Skundo padavimas nesustabdo Konkurencijos tarybos nutarimų vykdymo, jei Aukštesnysis administracinis teismas nenusprendžia kitaip.
+3. Skundo padavimas nesustabdo Konkurencijos tarybos nutarimų vykdymo, jei Vilniaus apygardos administracinis teismas nenusprendžia kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
  
 
 
@@ -1661,7 +1695,10 @@ ATSAKOMYBĖ UŽ KONKURENCIJOS ĮSTATYMO PAŽEIDIMUS
 
 
 
-2. Gavusi Aukštesniojo administracinio teismo teisėjo sankciją, Konkurencijos taryba nutarimu ūkio subjektams, nevykdantiems paskirtų sankcijų, nurodytų šio straipsnio 1 dalyje, gali nustatyti ūkinės veiklos apribojimus: laikinai sustabdyti eksporto ir importo operacijas, bankines operacijas, leidimo (licencijos) verstis atitinkama veikla galiojimą. Konkurencijos tarybos nutarimai yra privalomi institucijoms, galinčioms taikyti tokius apribojimus, ir turi būti vykdomi nedelsiant. Apribojimai panaikinami, kai įvykdomos Konkurencijos tarybos paskirtos sankcijos.
+2. Gavusi Vilniaus apygardos administracinio teismo teisėjo sankciją, Konkurencijos taryba nutarimu ūkio subjektams, nevykdantiems paskirtų sankcijų, nurodytų šio straipsnio 1 dalyje, gali nustatyti ūkinės veiklos apribojimus: laikinai sustabdyti eksporto ir importo operacijas, bankines operacijas, leidimo (licencijos) verstis atitinkama veikla galiojimą. Konkurencijos tarybos nutarimai yra privalomi institucijoms, galinčioms taikyti tokius apribojimus, ir turi būti vykdomi nedelsiant. Apribojimai panaikinami, kai įvykdomos Konkurencijos tarybos paskirtos sankcijos. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+ 
 
 
 
@@ -1873,3 +1910,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
+Lietuvos Respublikos konkurencijos įstatymo 19, 27, 28, 29, 38 ir 40 straipsnių pakeitimo įstatymas
