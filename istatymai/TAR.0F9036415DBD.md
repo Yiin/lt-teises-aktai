@@ -40,12 +40,49 @@ ir kitokių pajamų arba dėl įstatymo numatytų svarbių priežasčių turi pa
 išlaidų. Įgyvendinant valstybinį socialinį draudimą, dalyvauja draudėjų ir
 draudžiamųjų interesus ginančios organizacijos.
  
-2 straipsnis. Valstybinio socialinio draudimo
-reglamentavimas
+[1 straipsnio redakcija nuo
+2003 m. liepos 1 d.:
+1 straipsnis. Valstybinis socialinis draudimas
+1. Valstybinis socialinis draudimas – valstybės
+nustatytų socialinių ekonominių priemonių sistema, teikianti apdraustiesiems
+Respublikos gyventojams, taip pat įstatymo numatytais atvejais apdraustųjų
+šeimų nariams gyvenimui reikalingų lėšų ir paslaugų, jei jie negali dėl
+įstatymo numatytų priežasčių apsirūpinti iš darbo ir kitokių pajamų arba dėl
+įstatymo numatytų svarbių priežasčių turi papildomų išlaidų. Įgyvendinant
+valstybinį socialinį draudimą, dalyvauja draudėjų ir draudžiamųjų interesus
+ginančios organizacijos.
+2. Šio įstatymo sąvokos:
+1) valstybinio socialinio draudimo įmoka –
+šiame įstatyme draudėjui ar apdraustajam nustatyta piniginė prievolė
+Valstybinio socialinio draudimo fondo biudžetui; 
+2) valstybinio socialinio draudimo
+išmoka – apdraustiesiems mokamos pensijos, ligos, motinystės ir motinystės
+(tėvystės) pašalpos bei Nelaimingų atsitikimų darbe ir profesinių ligų
+socialinio draudimo, Bedarbių rėmimo įstatymuose numatytos draudimo išmokos,
+skiriamos įvykus draudiminiam įvykiui; 
+3) asmenys, kurie valstybiniu socialiniu draudimu
+draudžiasi savanoriškai, – asmenys, kurie sutarčių pagrindu moka
+valstybinio socialinio draudimo įmokas ir kurie turi teisę atsitikus
+draudiminiam įvykiui gauti
+valstybinio socialinio draudimo išmokas.]
+Straipsnio pakeitimai:
+Nr. IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+ 
+2 straipsnis. Valstybinio socialinio draudimo reglamentavimas
 Valstybinį
 socialinį draudimą reglamentuoja šis, Valstybinio socialinio draudimo fondo
 biudžeto sandaros, Valstybinių socialinio draudimo pensijų, taip pat kiti
 Lietuvos Respublikos socialinio aprūpinimo įstatymai. 
+ 
+[1 dalies redakcija nuo 2003
+m. liepos 1 d.:
+Valstybinį socialinį draudimą reglamentuoja šis,
+Valstybinio socialinio draudimo fondo biudžeto sandaros, Mokesčių
+administravimo, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio
+draudimo, Ligos ir motinystės socialinio draudimo, Valstybinių socialinio
+draudimo pensijų, taip pat kiti Lietuvos Respublikos įstatymai.]
+ 
 Šių įstatymų
 nuostatų įgyvendinimo tvarką reglamentuoja Lietuvos Respublikos Vyriausybės
 patvirtinti teisės aktai.
@@ -58,6 +95,8 @@ Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
 111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
 Nr. IX-546,
 2001-10-11, Žin., 2001, Nr. 91-3189 (2001-10-26)
+Nr. IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
  
             3
 straipsnis. Valstybinio socialinio draudimo rūšys
@@ -96,19 +135,9 @@ Valstybiniu socialiniu draudimu privalomai draudžiami
 šie asmenys:
 1) gaunantys atlyginimą už darbą asmenys: dirbantys
 pagal darbo sutartis, einantys narystės pagrindu renkamąsias pareigas renkamose
-organizacijose, dirbantys narystės pagrindu ūkinėse bendrijose, žemės ūkio bendrovėse
-arba kooperatinėse organizacijose, kandidatai į notarus (asesoriai), viešojo
-administravimo valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus
-šios straipsnio 1 dalies 3–5 punktuose);
- 
-[1
-dalies 1 punkto redakcija nuo 2002 m. sausio 1 d.:
-1) gaunantys atlyginimą už darbą asmenys: dirbantys
-pagal darbo sutartis, einantys narystės pagrindu renkamąsias pareigas renkamose
 organizacijose, dirbantys žemės ūkio bendrovėse arba kooperatinėse organizacijose,
 kandidatai į notarus (asesoriai), viešojo administravimo valstybės tarnautojai
-(išskyrus valstybės tarnautojus, nurodytus šios dalies 3 ir 5 punktuose);]
- 
+(išskyrus valstybės tarnautojus, nurodytus šios dalies 3 ir 5 punktuose);
 2) valstybės politikai, Konstitucinio Teismo teisėjai,
 Lietuvos Aukščiausiojo Teismo teisėjai, kitų teismų teisėjai, kandidatai į
 teisėjus, prokuratūros pareigūnai, Lietuvos banko valdybos pirmininkas, jo
@@ -117,9 +146,9 @@ valstybės institucijų ar įstaigų vadovai, kiti Seimo ar Respublikos Preziden
 paskirti valstybės institucijų ar įstaigų pareigūnai, Seimo ar Respublikos
 Prezidento paskirti valstybinių (nuolatinių) komisijų ir tarybų, kitų
 valstybinių (nuolatinių) komisijų ir tarybų  pirmininkai, jų pavaduotojai ir
-nariai, taip pat pagal specialius įstatymus įsteigtų komisijų ar tarybų
-pareigūnai.  Asmenys, išvardyti šiame punkte, valstybiniu socialiniu draudimu
-draudžiami tuo atveju, jei jie gauna atlyginimą už darbą;
+nariai, taip pat pagal specialius įstatymus įsteigtų komisijų ar tarybų pareigūnai. 
+Asmenys, išvardyti šiame punkte, valstybiniu socialiniu draudimu draudžiami tuo
+atveju, jei jie gauna atlyginimą už darbą;
 3) Vidaus reikalų ministerijos, policijos, Valstybės
 sienos apsaugos tarnybos ir kitų vidaus reikalų įstaigų pareigūnai, vidaus
 tarnybos dalinių karininkai, liktinės tarnybos puskarininkiai ir kariai,
@@ -128,17 +157,10 @@ teisingumo ministerijos bei jam pavaldžių įstaigų pareigūnai;
 4) krašto apsaugos sistemos profesinės karo tarnybos
 kariai;
 5) Valstybės saugumo departamento sistemos pareigūnai;
-6) individualių (personalinių) įmonių savininkai ir
-jiems Vyriausybės nustatyta tvarka prilyginti savarankiškai dirbantys asmenys
-(išskyrus šios dalies 8 punkte nurodytus asmenis);
- 
-[1
-dalies 6 punkto redakcija nuo 2002 m. sausio 1 d.:
 6) individualių (personalinių) įmonių savininkai,
 individualių (personalinių) įmonių nuomininkai, advokatai, advokatų padėjėjai,
 notarai, tikrųjų ūkinių bendrijų nariai, komanditinių ūkinių bendrijų tikrieji
-nariai;]
- 
+nariai;
 7) ūkininkai ir dirbantys ūkyje jų ūkių nariai;
 8) patentus įsigiję asmenys;
 9) nedirbantys diplomatų sutuoktiniai - tuo
@@ -162,21 +184,11 @@ draudžiami visų šio įstatymo 3 straipsnyje nurodytų rūšių valstybiniu
 socialiniu draudimu.
 Šio įstatymo 4 straipsnio 1 dalies 3–14 punktuose
 nurodyti asmenys privalomai draudžiami valstybiniu socialiniu pensijų draudimu
-(6, 7, 8 punktuose nurodyti asmenys privalomai draudžiami bazinei pensijai).
-Asmenys, nurodyti 10–14 punktuose, valstybiniu socialiniu pensijų draudimu
-privalomai draudžiami valstybės lėšomis Vyriausybės ar jos įgaliotos
-institucijos nustatyta tvarka.
- 
-[3
-dalies redakcija nuo 2002 m. sausio 1 d.:
-Šio įstatymo 4 straipsnio 1 dalies 3–14 punktuose
-nurodyti asmenys privalomai draudžiami valstybiniu socialiniu pensijų draudimu
 (6 punkte nurodyti asmenys privalomai draudžiami bazinei pensijai ir papildomai
 pensijos daliai 34 straipsnyje nustatyta tvarka, 7 ir 8 punktuose nurodyti
 asmenys privalomai draudžiami bazinei pensijai). Asmenys, nurodyti 10–14
 punktuose, valstybiniu socialiniu pensijų draudimu privalomai draudžiami
-valstybės lėšomis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.]
- 
+valstybės lėšomis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 Asmenų, draudžiamų privalomuoju sveikatos draudimu,
 įmokų dydžius, mokėjimo šaltinius bei tvarką nustato Sveikatos draudimo
 įstatymas.
@@ -228,8 +240,8 @@ Nr. VIII-1188,
 99.05.18, Žin., 1999, Nr.50-1599 (99.06.09)
 Nr. VIII-1573, 00.03.16, Žin., 2000,
 Nr.28-763 (00.04.05)
-Nr. IX-113, 2000 12 21, Žin., 2000, Nr. 111-3577
-(2000 12 29), įsigalioja nuo 2001 01 01
+Nr. IX-113, 2000 12 21, Žin., 2000, Nr.
+111-3577 (2000 12 29), įsigalioja nuo 2001 01 01
  
             8
 straipsnis. Neteko galios nuo 2001 m.
@@ -502,36 +514,16 @@ dydžio valstybinio socialinio draudimo įmokas.
 apdraustajam apskaičiuoto atlyginimo už darbą. Atlyginimo suma, nuo kurios
 skaičiuojamos įmokos, negali būti mažesnė kaip kiekvieno kalendorinio mėnesio
 minimali mėnesinė alga.
-3. Asmenys, išvardyti šio įstatymo 4 straipsnio 1
-dalies 6, 7 ir 8 punktuose, valstybinio socialinio draudimo įmokas moka patys:
-1) individualių (personalinių) įmonių savininkai ir
-jiems Lietuvos Respublikos Vyriausybės nustatyta tvarka prilyginti
-savarankiškai dirbantys asmenys draudžiasi valstybinei socialinio draudimo
-bazinei pensijai; 
-2) patentus įsigiję asmenys draudžiasi valstybinio
-socialinio draudimo bazinei pensijai. Vyriausybės nustatyta tvarka atskiros šių
-asmenų kategorijos gali draustis pusei bazinės valstybinio socialinio draudimo
-pensijos ir mokėti proporcingai mažesnę valstybinio socialinio draudimo įmokos
-dalį. Jiems įskaitomas draudimo stažas pagal faktiškai sumokėtas įmokas į
-Valstybinio socialinio draudimo fondo biudžetą;
-3) ūkininkai save ir dirbančius ūkyje pilnamečius jų
-ūkių narius draudžia valstybinio socialinio draudimo bazinei pensijai.
-Vyriausybės nustatyta tvarka ekonomiškai silpnų ūkių ūkininkai, drausdami save
-ir dirbančius ūkyje pilnamečius ūkių narius, turi teisę mokėti valstybinio
-socialinio draudimo įmokos dalį. Kita valstybinio socialinio draudimo įmokos
-dalis dengiama iš valstybės biudžeto lėšų. 
-4. Individualių (personalinių) įmonių savininkai,
-įsigiję patentus asmenys ir ūkininkai už save ir dirbančius ūkyje pilnamečius
-jų ūkių narius gali įmokų nemokėti (tas laikotarpis bus neįskaitytas į
-valstybinio socialinio draudimo stažą) tik tada, jeigu jie yra Valstybinio
-socialinio draudimo fondo pensininkai arba I ar II grupių invalidai nuo
-vaikystės, gaunantys šalpos (socialinę) pensiją, senatvės pensijos amžių sukakę
-asmenys, kurie gauna šalpos (socialinę) pensiją, taip pat jei yra draudžiami
-valstybiniu socialiniu draudimu pagal Lietuvos Respublikos įstatymus arba turi
-būtinąjį stažą valstybinei socialinio draudimo senatvės pensijai gauti.
  
-[3
-ir 4 dalių redakcija nuo 2002 m. sausio 1 d.:
+[2 dalies redakcija nuo 2003
+m. liepos 1 d.:
+2. Įmokos skaičiuojamos ir mokamos nuo kiekvienam
+apdraustajam priskaičiuoto atlyginimo už darbą, įskaitant ir kitas išmokas bei
+kompensacijas, taip pat nuo priskaičiuotų sumų, kurios skiriamos darbuotojui
+(tarnautojui) premijuoti ir skatinti. Darbo užmokesčio suma, nuo kurios
+skaičiuojamos įmokos, negali būti mažesnė kaip Lietuvos Respublikos Vyriausybės
+patvirtinta minimali mėnesinė alga.]
+ 
 3. Asmenys, išvardyti šio įstatymo 4 straipsnio 1
 dalies 6, 7 ir 8 punktuose, valstybinio socialinio draudimo įmokas moka patys:
 1) individualių (personalinių) įmonių savininkai,
@@ -567,18 +559,20 @@ neįskaitytas į valstybinio socialinio draudimo stažą) tik tada, jeigu jie yr
 Valstybinio socialinio draudimo fondo pensininkai arba I ar II grupės invalidai
 nuo vaikystės, gaunantys šalpos (socialinę) pensiją, asmenys, sukakę senatvės
 pensijos amžių, gaunantys šalpos (socialinę) pensiją arba kompensaciją pagal
-Šalpos (socialinių) pensijų įstatymą, o įsigiję patentus asmenys ir ūkininkai
-už save ir dirbančius ūkyje pilnamečius savo ūkio narius dar ir tuo atveju, jei
+Šalpos (socialinių) pensijų įstatymą, o įsigiję patentus asmenys ir ūkininkai už
+save ir dirbančius ūkyje pilnamečius savo ūkio narius dar ir tuo atveju, jei
 yra draudžiami valstybiniu socialiniu draudimu pagal Lietuvos Respublikos
 įstatymus arba turi būtinąjį stažą valstybinei socialinio draudimo senatvės
-pensijai gauti.]
- 
+pensijai gauti.
 5. Įmokų dydis valstybinio socialinio draudimo bazinei
 pensijai gauti apskaičiuojamas pagal aktuarinius skaičiavimus ir Vyriausybės
 teikimu tvirtinamas Lietuvos Respublikos valstybinio socialinio draudimo fondo
 biudžeto rodiklių patvirtinimo įstatymu.
 6. Įmokų mokėjimo tvarką nustato Lietuvos Respublikos
 Vyriausybė ar jos įgaliota institucija.
+ 
+[6 dalis netenka galios nuo
+2003 m. liepos 1 d.]
 Straipsnio pakeitimai:
 Nr. I-676,
 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
@@ -600,6 +594,8 @@ Nr. IX-546,
 2001-10-11, Žin., 2001, Nr. 91-3189 (2001-10-26)
 Nr. IX-615,
 2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07), įsigalioja nuo 2002 01 01
+Nr. IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
  
 35 straipsnis. Neteko galios.
 Straipsnio pakeitimai:
@@ -617,21 +613,12 @@ mokėjimo tvarka
 Valstybinio socialinio draudimo įmokų mokėtojas
 (draudėjas) pats jas apskaičiuoja ir sumoka į Valstybinio socialinio draudimo
 fondo biudžetą.
-Draudėjai - įmonės, įstaigos ir organizacijos, kuriose
-dirba 4 straipsnio antrosios dalies 
-1 punkte išvardinti apdraustieji asmenys, apskaičiuoja, išskaito ir įmoka į
-Valstybinio socialinio draudimo fondo biudžetą iš minėtų apdraustųjų asmenų
-pajamų mokamas socialinio draudimo įmokas.
- 
-[2
-dalies redakcija nuo 2002 m. sausio 1 d.:
 Draudėjai – visi viešieji ir
 privatūs juridiniai asmenys, kurie privalo apskaičiuoti, išskaityti ir įmokėti
 į Valstybinio socialinio draudimo fondo biudžetą iš apdraustųjų asmenų pajamų
 mokamas valstybinio socialinio draudimo įmokas, taip pat fiziniai asmenys,
 kurie patys privalo mokėti valstybinio socialinio draudimo įmokas Lietuvos
-Respublikos Vyriausybės nustatyta tvarka.]
- 
+Respublikos Vyriausybės nustatyta tvarka.
 Valstybinio
 socialinio draudimo fondo valdyba turi teisę perimti akcinės ar uždarosios
 akcinės bendrovės, siekiančios išvengti bankroto bylos iškėlimo už nesumokėtas
@@ -644,6 +631,84 @@ atidėti privalomųjų įmokų į Valstybinio socialinio draudimo fondo biudžet
 sumokėjimą iki 1 metų. 
 Įmokų mokėjimo ir jų mokėjimo atidėjimo tvarką nustato
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+ 
+[36 straipsnio redakcija nuo
+2003 m. liepos 1 d.:
+36 straipsnis. Valstybinio socialinio draudimo
+įmokų mokėjimo tvarka
+1. Draudėjas pats apskaičiuoja ir sumoka į teritorinių
+valstybinių mokesčių inspekcijų surenkamąsias sąskaitas valstybinio socialinio
+draudimo įmokas.
+2. Draudėjai apskaičiuoja, išskaito ir moka darbdavio
+bei apdraustųjų, išvardytų šio įstatymo 4 straipsnio 1 dalies 1-5 punktuose valstybinio socialinio draudimo įmokas į teritorinių
+valstybinių mokesčių inspekcijų surenkamąsias sąskaitas. 
+3. Darbdavio ir apdraustojo asmens privalomąsias
+valstybinio socialinio draudimo įmokas apskaičiuoja ir moka draudėjas nuo tos
+dienos, kurią darbuotojas pradeda dirbti, neatsižvelgdamas į draudėjo
+įregistravimo teritorinėje valstybinėje mokesčių inspekcijoje datą.
+4. Asmenys, išvardyti šio įstatymo 4 straipsnio 1
+dalies 6 ir 8 punktuose, valstybinio socialinio draudimo įmokas moka nuo įmonės
+įregistravimo juridinių asmenų registre dienos arba įrašymo į atitinkamus
+sąrašus dienos. Ūkininkai už save ir už dirbančius ūkyje jų ūkių narius valstybinio
+socialinio draudimo įmokas moka nuo ūkio įregistravimo ūkininkų ūkių registre
+dienos. Patentus įsigyjantys asmenys valstybinio socialinio draudimo įmokas
+sumoka nuo patento įsigijimo dienos Lietuvos Respublikos Vyriausybės nustatyta
+tvarka.
+5. Apskaičiuotas valstybinio socialinio
+draudimo įmokas draudėjas sumoka ne vėliau kaip iki kito mėnesio 15 dienos,
+išskyrus šiame įstatyme numatytus atvejus. Įstaigos ir organizacijos, visiškai
+išlaikomos iš Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų,
+apskaičiuotas valstybinio socialinio draudimo įmokas turi sumokėti tą
+dieną, kurią iš Lietuvos Respublikos kredito įstaigų gauna lėšas praėjusio
+mėnesio darbo užmokesčiui mokėti, bet ne vėliau kaip iki kito mėnesio 15
+dienos. 
+6.
+Žemės ūkio bendrovės, žemės ūkio kooperatyvai ir ūkininkai už samdomus
+darbuotojus įmokas į Valstybinio socialinio draudimo fondo biudžetą gali
+sumokėti iš anksto draudėjo ir teritorinės valstybinės mokesčių inspekcijos
+pasirašytose sutartyse aptartu laiku. Kalendoriniais metais gali būti
+pasirašyta tik atsiskaitymo už einamuosius kalendorinius metus sutartis.
+7. Asmenys, išvardyti šio įstatymo 4
+straipsnio 1 dalies 6 punkte, valstybinio socialinio draudimo įmokas už save
+moka kartą per ketvirtį, ne vėliau kaip iki to ketvirčio paskutinio
+mėnesio 15 dienos. 
+8. Ūkininkai už save ir dirbančius ūkyje
+jų ūkių narius įmokas gali mokėti jiems patogiu laiku, bet ne vėliau kaip iki
+kiekvienų einamųjų metų lapkričio 15 dienos. Įregistravus ūkininko ūkį po
+lapkričio 15 dienos, ūkininkai už save ir jų ūkių narius įmokas už einamuosius
+metus sumoka ne vėliau kaip einamųjų metų paskutinę darbo dieną.
+9. Asmenys, kurie draudžiasi savanoriškai, socialinio
+draudimo įmokas moka draudimo sutartyje nurodyto dydžio ir nustatytu laiku į teritorinių
+valstybinių mokesčių inspekcijų surenkamąsias sąskaitas.
+10. Valstybės biudžeto asignavimų valdytojai šio
+įstatymo 4 straipsnio 1 dalies 9 ir 10 punktuose išvardytų asmenų socialiniam
+draudimui skirtas lėšas perveda tiesiogiai į Valstybinio socialinio draudimo
+fondo biudžetą.
+11. Valstybės biudžeto asignavimai, skirti ekonomiškai
+silpnų ūkių ūkininkų ir šio įstatymo 4 straipsnio 1 dalies 11-14 punktuose išvardytų asmenų socialiniam draudimui, tiesiogiai
+pervedami į Valstybinio socialinio draudimo fondo biudžetą.
+12. Asmenys, dirbantys pagal patentus, įgytus
+trumpesniam negu 3 mėnesių laikotarpiui, privalo sumokėti valstybinio
+socialinio draudimo įmokas už visą patento galiojimo laikotarpį iki patento
+įsigijimo ar jo galiojimo laiko pratęsimo. Asmenys, dirbantys pagal patentus,
+įsigytus ketvirčiui ar ilgesniam laikotarpiui, valstybinio socialinio draudimo
+įmokas moka šio straipsnio 7 dalyje nustatytais terminais.
+13. Valstybinio socialinio draudimo įmokų mokėjimo
+tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+14. Valstybinio socialinio draudimo
+įmokas administruoja Valstybinė mokesčių inspekcija prie Finansų ministerijos
+ir teritorinės valstybinės mokesčių inspekcijos. Teritorinės valstybinės
+mokesčių inspekcijos surinktas valstybinio socialinio draudimo įmokas,
+delspinigius, baudas ne vėliau kaip kitą darbo dieną nuo įmokų ir su jomis
+susijusių sumų gavimo perveda į Valstybinio socialinio draudimo fondo biudžetą
+pagal atskiras valstybinio socialinio draudimo rūšis.
+15. Valstybinė mokesčių inspekcija prie Finansų
+ministerijos ir teritorinės valstybinės mokesčių inspekcijos teikia Valstybinio
+socialinio draudimo fondo valdybai ir jos teritoriniams skyriams informaciją,
+reikalingą valstybiniam socialiniam draudimui vykdyti. Valstybinio socialinio
+draudimo įmokų kontrolės, administravimo ir informacijos teikimo tvarką nustato
+Valstybinė mokesčių inspekcija prie Finansų ministerijos, suderinusi su
+Valstybinio socialinio draudimo fondo valdyba.]
 Straipsnio pakeitimai:
 Nr. I-676,
 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
@@ -655,6 +720,8 @@ Nr. IX-546,
 2001-10-11, Žin., 2001, Nr. 91-3189 (2001-10-26)
 Nr. IX-615,
 2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07), įsigalioja nuo 2002 01 01
+Nr. IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
  
 37 straipsnis. Atsakomybė valstybiniam socialiniam
 draudimui
@@ -664,8 +731,8 @@ tikras išmokas arba kurių kaltais veiksmais buvo padaryta kitokia žala
 valstybinio socialinio draudimo turtui, privalo tą žalą atlyginti įstatymų
 nustatyta tvarka.
  
-37(1) straipsnis. Valstybinio socialinio draudimo
-fondo įstaigų santykiai su Lietuvos 
+37(1) straipsnis. Valstybinio socialinio
+draudimo fondo įstaigų santykiai su Lietuvos 
 bankų įstaigomis
 Lietuvos bankų įstaigos Valstybinio socialinio
 draudimo fondo lėšų apyvartos operacijas atlieka nemokamai. Atidarydamos ūkio
@@ -679,6 +746,15 @@ pagal Civilinio kodekso 6.923 straipsnyje nustatytą lėšų nurašymo eilę.
 Lietuvos bankų įstaigos, pažeidusios šio straipsnio
 nuostatas ir padariusios žalos Valstybinio socialinio draudimo fondui, privalo
 ją atlyginti.
+ 
+[37(1) straipsnio
+redakcija nuo 2003 m. liepos 1 d.:
+37(1) straipsnis.
+Valstybinio socialinio draudimo fondo įstaigų santykiai su Lietuvos 
+Respublikos kredito įstaigomis
+Lietuvos
+Respublikos kredito įstaigos Valstybinio socialinio draudimo fondo
+lėšų apyvartos operacijas atlieka nemokamai.]
 Straipsnio pakeitimai:
 Nr. I-676,
 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
@@ -690,6 +766,8 @@ Nr. VIII-384,
 97.07.02, Žin., 1997, Nr.67-1665 (97.07.16)
 Nr. IX-546,
 2001-10-11, Žin., 2001, Nr. 91-3189 (2001-10-26)
+Nr. IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
  
 38 straipsnis. Atsakomybė už įmokų mokėjimo teisingumą
 Už pavėluotai pervestas į Valstybinio socialinio
@@ -705,9 +783,9 @@ pat dvigubos šios sumos dydžio bauda. Jeigu draudėjas pastebėjo, kad
 apskaičiavo per mažas valstybinio socialinio draudimo įmokas, bet iki pavedimo
 patikrinti draudėją (jei pavedimo nėra - iki tikrinimo pradžios) klaidas
 savanoriškai ištaisė, sumokėjo trūkstamą įmokų sumą ir pristatė valstybinio
-socialinio draudimo įstaigoms patikslintas apyskaitas bei informaciją apie draudžiamųjų
-asmenų pajamas, už padarytą pažeidimą bauda neskiriama. Šiuo atveju
-delspinigiai skaičiuojami nuo kitos dienos po to, kai įmokos turėjo būti
+socialinio draudimo įstaigoms patikslintas apyskaitas bei informaciją apie
+draudžiamųjų asmenų pajamas, už padarytą pažeidimą bauda neskiriama. Šiuo
+atveju delspinigiai skaičiuojami nuo kitos dienos po to, kai įmokos turėjo būti
 sumokėtos, iki įmokų sumokėjimo dienos.
 Valstybinio socialinio draudimo
 fondo valdyba Valstybinio socialinio draudimo fondo biudžeto sudarymo ir
@@ -724,10 +802,10 @@ nebuvo finansuojamos pagal Finansų ministerijos ir savivaldybių pateiktas
 ataskaitas.
 Valstybinio socialinio draudimo fondo valdyba gali
 atleisti draudėjus nuo baudų mokėjimo, jei draudėjas įrodo, kad apskaičiavo per
-mažas įmokas dėl aplinkybių, kurios nepriklausė nuo jo valios ir kurių jis
-nenumatė ir negalėjo numatyti. Kad kaltės nėra, draudėjas turi įrodyti pats. Ši
-lengvata netaikoma draudėjui, kuris padarė bent vieną šiame straipsnyje
-nurodytą piktybinį įstatymų pažeidimą.
+mažas įmokas dėl aplinkybių, kurios nepriklausė nuo jo valios ir kurių jis nenumatė
+ir negalėjo numatyti. Kad kaltės nėra, draudėjas turi įrodyti pats. Ši lengvata
+netaikoma draudėjui, kuris padarė bent vieną šiame straipsnyje nurodytą
+piktybinį įstatymų pažeidimą.
 Piktybiniu įstatymų pažeidimu laikoma, jei:
 1) nustatytais terminais neatvykstama į valstybinio
 socialinio draudimo įstaigą įsiregistruoti draudėju ar nepranešamas pasikeitęs
@@ -748,8 +826,8 @@ ar kitą dokumentą ir sumokėti įmokas;
 5) draudėjas leidžia dirbti asmenims neįforminus darbo
 santykių, nepasirašius darbo sutarčių;
 6) draudėjas pažeidžia Darbo apmokėjimo įstatymą;
-7) draudėjas į buhalterinės apskaitos dokumentus neįtraukia
-darbuotojams mokamų su darbo santykiais susijusių išmokų;
+7) draudėjas į buhalterinės apskaitos dokumentus
+neįtraukia darbuotojams mokamų su darbo santykiais susijusių išmokų;
 8) draudėjas neleidžia valstybinio socialinio draudimo
 įstaigos pareigūnui susipažinti su apskaitos dokumentais;
 9) draudėjas, gavęs valstybinio socialinio draudimo
@@ -760,15 +838,32 @@ socialinio draudimo įstaigų pareigūnams žinomai suklastotus dokumentus;
 arba trukdo jas nustatyti ar surinkti;
 12) draudėjas pažeidinėja apskaitos taisykles.
 Valstybinio socialinio draudimo fondo valdybos
-teritoriniai skyriai gali atidėti baudų išieškojimą iki vienerių metų,
-nustatydami baudos mokėjimo grafiką. Delspinigiai skaičiuojami, jeigu
-pažeidžiamas mokėjimo grafikas.
+teritoriniai skyriai gali atidėti baudų išieškojimą iki vienerių metų, nustatydami
+baudos mokėjimo grafiką. Delspinigiai skaičiuojami, jeigu pažeidžiamas mokėjimo
+grafikas.
 Apskaičiuotos, bet į valstybinio socialinio draudimo
 fondą nesumokėtos draudėjų ir draudžiamųjų asmenų įmokos, delspinigiai ir
 baudos išieškomi ne ginčo tvarka netaikant senaties termino. Pirmiausia
 sumokamos privalomosios įmokos, po to - baudos, o vėliausiai - delspinigiai.
 Apskaičiuoti arba perskaičiuoti galima ne daugiau kaip penkerių praėjusių
 kalendorinių metų valstybinio socialinio draudimo fondui priklausančias įmokas.
+ 
+[38 straipsnio redakcija nuo 2003 m. liepos 1 d.:
+38 straipsnis. Atsakomybė už
+valstybinio socialinio draudimo įmokų, išmokų 
+apskaičiavimo ir jų mokėjimo
+tvarkos pažeidimą
+1. Atsakomybę už valstybinio socialinio draudimo įmokų
+neteisingą apskaičiavimą, nemokėjimą, mokėjimą ne laiku, taip pat jų
+išieškojimo, atidėjimo, įskaitymo, grąžinimo tvarką nustato Mokesčių
+administravimo įstatymas.
+2. Už sumokėtų ar išieškotų valstybinio socialinio
+draudimo įmokų nepervedimą laiku į Valstybinio socialinio draudimo fondo
+biudžetą valstybinės mokesčių inspekcijos pareigūnai atsako įstatymų nustatyta
+tvarka. Laiku nepervedusi surinktų valstybinio socialinio draudimo įmokų į
+Valstybinio socialinio draudimo fondo biudžetą teritorinė valstybinė mokesčių inspekcija
+moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą
+už pavėluotą mokesčio mokėjimą.]
 Straipsnio pakeitimai:
 Nr. I-676,
 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
@@ -782,6 +877,8 @@ Nr. VIII-1188,
 99.05.18, Žin., 1999, Nr.50-1599 (99.06.09)
 Nr. IX-546,
 2001-10-11, Žin., 2001, Nr. 91-3189 (2001-10-26)
+Nr. IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
  
 38(1) straipsnis. Valstybinio socialinio
 draudimo įstaigų delspinigiai
@@ -873,9 +970,19 @@ Nr.58-1714 (00.07.19)
 Valstybinio socialinio draudimo fondo valdyba
 Valstybinio
 socialinio draudimo fondo valdyba yra Valstybinio socialinio draudimo fondą
-administruojanti centrinė institucija, kurios pagrindinis uždavinys - operatyvus
+administruojanti centrinė institucija, kurios pagrindinis uždavinys -
+operatyvus Valstybinio socialinio draudimo fondo biudžeto lėšų tvarkymas ir
+apskaita, užtikrinant įmokų surinkimą bei išmokų paskyrimą ir pristatymą
+gavėjams.
+ 
+[1 dalies redakcija nuo 2003 m. liepos 1 d.:
+Valstybinio socialinio draudimo fondo
+valdyba yra Valstybinio socialinio draudimo fondą administruojanti centrinė
+institucija, kurios pagrindinis uždavinys - operatyvus
 Valstybinio socialinio draudimo fondo biudžeto lėšų tvarkymas ir apskaita,
-užtikrinant įmokų surinkimą bei išmokų paskyrimą ir pristatymą gavėjams.
+užtikrinant teisingą duomenų apie apdraustuosius tvarkymą bei išmokų paskyrimą
+ir pristatymą gavėjams.]
+ 
 Valstybinio
 socialinio draudimo fondo valdyba yra juridinis asmuo, turintis savo sąskaitas
 bankuose bei antspaudą su Lietuvos valstybės herbu.
@@ -898,8 +1005,27 @@ tvarka turtu, akcijomis ir vertybiniais popieriais, kai bankrutuojanti įmonė
 sanuojama ar sudaroma taikos sutartis;
 5) įstatymų nustatyta tvarka organizuoja savanorišką
 valstybinį socialinį draudimą;
-6) kita veikla, numatyta Valstybinio socialinio draudimo
-įstaigų nuostatuose.
+6) kita veikla, numatyta Valstybinio socialinio
+draudimo įstaigų nuostatuose.
+ 
+[4 dalies redakcija nuo 2003 m. liepos 1 d.:
+Valstybinio socialinio draudimo fondo valdybos
+funkcijos:
+1) vykdo Lietuvos Respublikos valstybinio socialinio
+draudimo fondo biudžetą;
+2) sudaro sutartis su kitais juridiniais ar fiziniais
+asmenimis dėl kai kurių draudimo funkcijų atlikimo;
+3) užtikrina šiame įstatyme numatytą apdraustųjų
+aprūpinimą;
+4) tvarko, kaupia ir naudoja išmokų apskaičiavimui
+duomenis apie apdraustųjų privalomojo ir savanoriškojo valstybinio socialinio
+draudimo laikotarpius, draudžiamąsias pajamas ir valstybinio socialinio
+draudimo įmokas Lietuvos Respublikos Vyriausybės nustatyta tvarka;
+5) Lietuvos Respublikos Vyriausybės nustatyta tvarka
+organizuoja savanoriškąjį valstybinį socialinį draudimą;
+6) kita veikla, susijusi su valstybiniu socialiniu
+draudimu, teisės aktų nustatyta tvarka.]
+ 
 Valstybinio socialinio draudimo fondo valdyba ir jos
 teritoriniai skyriai Lietuvos Respublikos Vyriausybės ar jos įgaliotos
 institucijos nustatyta tvarka patikėjimo teise naudoja, valdo Valstybinio
@@ -913,6 +1039,12 @@ Respublikos ir užsienio ūkio subjektais, atsiskaityti už pateiktas prekes,
 atliktus darbus ir paslaugas bet kokia sutarta forma;
 4) įstatymų nustatyta tvarka steigti įmones veiklai,
 susijusiai su socialiniu draudimu;
+ 
+[6 dalies 4 punkto redakcija nuo 2003 m. liepos 1 d.:
+4)
+įstatymų nustatyta tvarka steigti įmones, įstaigas veiklai, susijusiai su
+valstybiniu socialiniu draudimu;]
+ 
 5) Lietuvos Respublikos Vyriausybės nustatyta tvarka
 įgyvendinti priemones papildomoms pajamoms gauti.
 Valdybai vadovauja direktorius, kurį socialinės
@@ -927,6 +1059,8 @@ Nr. VIII-1086,
 99.03.16, Žin., 1999, Nr.32-900 (99.04.09)
 Nr. VIII-1188,
 99.05.18, Žin., 1999, Nr.50-1599 (99.06.09)
+Nr. IX-869, 2002-05-07,
+Žin., 2002, Nr. 52-1983 (2002-05-24)
  
 43 straipsnis. Valstybinio socialinio draudimo fondo
 valdybos teritorinės įstaigos
@@ -936,12 +1070,22 @@ socialinio draudimo fondo valdybos skyriai, kurie yra tiesiogiai atsakingi už:
 2) pensijų išmokėjimą teisingai ir laiku;
 3) kitų Valstybinio socialinio draudimo įstaigų
 nuostatuose numatytų funkcijų vykdymą.
+ 
+[1 dalies redakcija nuo 2003 m. liepos 1 d.:
+Rajonuose ir miestuose steigiami Valstybinio
+socialinio draudimo fondo valdybos skyriai, kurie yra tiesiogiai atsakingi už:
+1) išmokų mokėjimą teisingai ir laiku;
+2) kitų Valstybinio socialinio draudimo fondo įstaigų
+nuostatuose numatytų funkcijų vykdymą.]
+ 
 Valstybinio socialinio draudimo fondo valdyba ir jos
 teritoriniai skyriai yra juridiniai asmenys, turi antspaudą su Lietuvos
 Respublikos valstybinio herbo atvaizdu.
 Straipsnio pakeitimai:
 Nr. I-676,
 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
  
             44
 straipsnis. Draudėjų pareigos
@@ -957,11 +1101,32 @@ biudžetą.
             Draudėjai
 išmoka apdraustiesiems valstybinio socialinio draudimo pašalpas Valstybinio
 socialinio draudimo pašalpų nuostatų numatyta tvarka.
+ 
+[44 straipsnio redakcija nuo 2003 m. liepos 1 d. 44
+straipsnio 1 dalis įsigalioja nuo 2002 m. spalio 1 d.:
+44 straipsnis. Draudėjų pareigos
+1. Visi draudėjai, kurie turi mokėti valstybinio
+socialinio draudimo įmokas už save ir už draudžiamus asmenis, išvardytus šio
+įstatymo 4 straipsnio 1 dalies 1-8 punktuose, privalo
+registruotis teritorinėse valstybinėse mokesčių inspekcijose Mokesčių
+administravimo įstatymo nustatyta tvarka.
+2. Draudėjai yra atsakingi už teisingą ir laiku
+atliekamą valstybinio socialinio draudimo įmokų priskaičiavimą ir sumokėjimą į
+teritorinių valstybinių mokesčių inspekcijų surenkamąsias sąskaitas.
+3. Draudėjai išmoka apdraustiems asmenims valstybinio
+socialinio draudimo pašalpas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+4. Draudėjai teikia valstybinio
+socialinio draudimo lėšų finansines apyskaitas ir informaciją apie apdraustųjų
+valstybinio socialinio draudimo laikotarpius bei draudžiamąsias pajamas ir
+valstybinio socialinio draudimo įmokas Lietuvos Respublikos Vyriausybės
+nustatyta tvarka.]
 Straipsnio pakeitimai:
 Nr. I-676,
 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
 Nr. VIII-1573, 00.03.16, Žin., 2000,
 Nr.28-763 (00.04.05)
+Nr. IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
  
             45
 straipsnis. Valstybinio socialinio draudimo įstaigų teisė į kontrolę
@@ -1051,6 +1216,48 @@ pareigūnų, vykdančių kontrolę, veiksmų sprendžia atitinkamos įstaigos va
 arba jo pavaduotojas, o dėl pastarųjų pareigūnų veiksmų - Valstybinio
 socialinio draudimo fondo valdyba. Pareiškėjas, nesutinkantis su Valdybos
 sprendimu, turi teisę per 10 dienų po sprendimo gavimo kreiptis į teismą.
+ 
+[45 straipsnio redakcija nuo 2003 m. liepos 1 d.:
+45 straipsnis. Valstybinio socialinio draudimo fondo
+įstaigų teisė į kontrolę
+1. Valstybinio socialinio draudimo fondo valdyba ir
+teritoriniai jos skyriai turi teisę patikrinti dokumentus, kuriais grindžiamos
+jos administruojamos valstybinio socialinio draudimo išmokos.
+2. Valstybinio socialinio draudimo fondo įstaigų
+pareigūnai, atlikdami šio įstatymo jiems pavestas funkcijas, turi teisę:
+1) gauti iš įmonių, įstaigų, organizacijų ir kitų
+asmenų, įskaitant Lietuvos Respublikos kredito bei finansų įstaigas, savo
+pareigoms atlikti reikalingus duomenis bei dokumentus;
+2) norėdami nustatyti, kaip mokamos išmokos iš
+Valstybinio socialinio draudimo fondo biudžeto lėšų, be išankstinio įspėjimo,
+pateikę tarnybinį pažymėjimą, įeiti į draudėjo patalpas ar teritoriją,
+susijusias su jo veikla (įskaitant ir nuomojamas). Įmonių, įstaigų,
+organizacijų vadovai bei fiziniai asmenys, trukdantys pareigūnui pasinaudoti
+šia teise, atsako įstatymų nustatyta tvarka. Be išankstinio įspėjimo įeiti į
+draudėjo patalpas ar teritoriją (įskaitant ir nuomojamas) galima tik draudėjo
+darbo metu. Kitais atvejais reikalingas draudėjo sutikimas;
+3) paimti laikinai - iki 30 kalendorinių
+dienų - iš draudėjo dokumentus, kuriuose fiksuojamos sumos,
+nuo kurių skaičiuojamos išmokos iš Valstybinio socialinio draudimo fondo
+biudžeto lėšų, palikus dokumentų paėmimo aktą (šiuo atveju, jeigu draudėjas
+prašo, jam turi būti leidžiama pasidaryti paimamų dokumentų kopijas);
+4) užantspauduoti laikinai - iki 30 kalendorinių dienų - dokumentų,
+vertybinių popierių, pinigų ir materialinių vertybių saugojimo vietas (jei
+įmanoma, netrukdant draudėjo veiklai), daryti dokumentų kopijas arba išrašus,
+žymas ant draudėjo dokumentų, kad būtų išvengta jų klastojimo;
+5) duoti draudėjui privalomus vykdyti nurodymus
+valstybinio socialinio draudimo klausimais;
+6) surašyti administracinių teisės pažeidimų
+protokolus bylose, kurios pagal įstatymus priskirtos Valstybinio socialinio
+draudimo fondo įstaigų pareigūnų kompetencijai;
+7) pareikalauti iš draudėjo sutvarkyti buhalterinę
+apskaitą, kiek ji susijusi su valstybinio socialinio draudimo išmokomis;
+8) gauti iš draudėjo paaiškinimus dėl valstybinio socialinio
+draudimo išmokų apskaičiavimo;
+9) surašyti nustatytų pažeidimų aktus dėl valstybinio
+socialinio draudimo išmokų apskaičiavimo, žalos, padarytos Valstybinio
+socialinio draudimo fondo biudžetui, atlyginimo arba nepriemokų išmokėjimo
+gavėjams, taip pat kitų šio įstatymo reikalavimų vykdymo.]
 Straipsnio pakeitimai:
 Nr. I-455,
 94.05.12, Žin., 1994, Nr. 39-702 (94.05.25)
@@ -1062,6 +1269,8 @@ Nr. VIII-1086,
 99.03.16, Žin., 1999, Nr.32-900 (99.04.09)
 Nr. VIII-1383, 99.11.04, Žin., 1999,
 Nr.99-2844 (99.11.24)
+Nr. IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
  
 46 straipsnis. Ginčų, kylančių iš valstybinio
 socialinio draudimo teisių santykių, 
@@ -1073,30 +1282,63 @@ Apdraustųjų ginčai su draudėjais ir valstybinio
 socialinio draudimo įstaigomis dėl pensijų, pašalpų ir kitokio aprūpinimo yra
 sprendžiami Valstybinių pensijų įstatyme, kituose įstatymuose, taip pat
 Valstybinio socialinio draudimo pašalpų nuostatuose numatyta tvarka.
- 
-[Straipsnis
-papildomas 3 dalimi nuo 2002 m. sausio 1 d.:
 Ginčus dėl valstybinių socialinio draudimo pensijų
-stažo ir dėl draudžiamųjų bei joms prilyginamų pajamų nagrinėja teismas.]
+stažo ir dėl draudžiamųjų bei joms prilyginamų pajamų nagrinėja teismas.
+ 
+[46 straipsnio redakcija nuo 2003 m. liepos 1 d.:
+46 straipsnis. Ginčų, kylančių iš
+valstybinio socialinio draudimo teisinių santykių, 
+sprendimas
+1. Draudėjai ir apdrausti asmenys turi teisę apskųsti
+Valstybinio socialinio draudimo fondo įstaigų pareigūnų, atliekančių šio
+įstatymo jiems pavestą kontrolę, veiksmus.
+2. Skundus nagrinėja atitinkamo Valstybinio socialinio
+draudimo fondo valdybos teritorinio skyriaus vedėjas arba jo pavaduotojas, o
+skundus dėl šių pareigūnų veiksmų - Valstybinio
+socialinio draudimo fondo valdyba. Skundus dėl Valstybinio socialinio draudimo
+fondo valdybos veiksmų nagrinėja teismas.
+3. Skundai dėl Valstybinio socialinio draudimo fondo
+įstaigų pareigūnų veiksmų nagrinėjami, jeigu jie pateikti per 30 kalendorinių
+dienų nuo tos dienos, kurią draudėjas ar apdraustas asmuo sužinojo arba turėjo
+sužinoti apie pažeistą teisę. Skundą dėl nepriimto sprendimo draudėjai ir
+apdrausti asmenys turi teisę pateikti per 30 kalendorinių dienų nuo tos dienos,
+kurią baigėsi sprendimui priimti nustatytas terminas.
+4. Šiame straipsnyje nustatytais terminais pateiktą
+skundą Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus
+vedėjas, jo pavaduotojas arba Valstybinio socialinio draudimo fondo valdyba
+pagal savo kompetenciją išnagrinėja ir priima sprendimą ne vėliau kaip per 30
+kalendorinių dienų.
+5. Apdraustų asmenų ginčai su draudėjais ir
+valstybinio socialinio draudimo fondo įstaigomis dėl pensijų, pašalpų ir kitų
+išmokų yra sprendžiami šiame įstatyme, Valstybinių socialinio draudimo pensijų
+įstatyme, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo
+įstatyme, Ligos ir motinystės socialinio draudimo įstatyme bei kituose teisės
+aktuose nustatyta tvarka.
+6. Draudėjų skundai dėl papildomai priskaičiuotų
+valstybinio socialinio draudimo įmokų sumų, paskirtų baudų, priskaičiuotų
+delspinigių bei dėl kitų mokesčio administratoriaus pareigūnų veiksmų
+nagrinėjami Mokesčių administravimo įstatymo nustatyta tvarka.]
 Straipsnio pakeitimai:
 Nr. I-676,
 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
 Nr. IX-615,
 2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07), įsigalioja nuo 2002 01 01
+Nr. IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
  
  
  
 LIETUVOS
 RESPUBLIKOS
 AUKŠČIAUSIOSIOS
-TARYBOS PIRMININKAS                               V.LANDSBERGIS 
+TARYBOS PIRMININKAS                                           V.LANDSBERGIS 
  
 Vilnius,
 1991 m. gegužės 21 d.
             Nr.
 I-1336 
  
-___________
+______________________
  
 Pakeitimai:
  
@@ -1173,8 +1415,8 @@ Lietuvos Respublikos Seimas,
 Nr. I-1369,
 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
 LIETUVOS RESPUBLIKOS VALSTYBINIO
-SOCIALINIO DRAUDIMO ĮSTATYMO 3, 27, 37(1) STRAIPSNIŲ PAKEITIMO IR 23,
-24, 25 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+SOCIALINIO DRAUDIMO ĮSTATYMO 3, 27, 37(1) STRAIPSNIŲ PAKEITIMO IR
+23, 24, 25 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 1997
 metų sausio 1 dienos.
  
@@ -1346,19 +1588,35 @@ delspinigių ir baudų mokėjimo.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-615, 2001-11-20,
-Žin., 2001, Nr. 103-3657 (2001-12-07)
+IX-615,
+2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07)
 VALSTYBINIO
 SOCIALINIO DRAUDIMO ĮSTATYMO 4, 34, 36, 46 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
 Įstatymas
 įsigalioja nuo 2002 m. sausio 1 d. 
  
+27.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO 1, 2, 34, 36, 37(1), 38, 42, 43, 44, 45, 46
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis Įstatymas, išskyrus 12
+straipsnį ir šio straipsnio 2 dalyje numatytą išlygą, įsigalioja nuo 2003 m.
+liepos 1 d.
+Valstybinio socialinio draudimo
+įstatymo 44 straipsnio 1 dalis įsigalioja nuo 2002 m. spalio 1 d.
+ 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001-12-10)
+Aušrinė Trapinskienė (2002-05-29)
                  
 autrap@lrs.lt
