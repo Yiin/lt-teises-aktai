@@ -105,7 +105,7 @@ sąskaitose-faktūrose bei mokėjimo dokumentuose nenurodomi.
 1) nedenatūruotam etilo alkoholiui ir alkoholiniams
 gėrimams, išskyrus midaus trauktines, šampaną, vyną, alų ir medikamentus su
 vaistažolėmis, kurių sudėtyje yra etilo alkoholio, įregistruotus Lietuvos
-Respublikos valstybiniame vaistų ir vaistinių medžiagų registre, - 0,54 lito už
+Respublikos valstybiniame vaistų ir vaistinių medžiagų registre, - 0,30 lito už
 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
 2) midaus trauktinėms (pagamintoms natūralaus bičių
 medaus pagrindu) - 0,12 lito už 1 procentą tūrinės alkoholio koncentracijos
@@ -124,13 +124,13 @@ procentų tūrio:
 a) šviežių vynuogių - 0,29 lito už 1 procentą tūrinės
 alkoholio koncentracijos litre gėrimo,
 b) kitiems fermentuotiems gėrimams bei jų mišiniams -
-0,20 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
+0,16 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
 5) vynui, kitiems fermentuotiems gėrimams bei jų
 mišiniams, kurių faktinė tūrinė alkoholio koncentracija didesnė kaip 18
 procentų tūrio, - 0,38 lito už 1 procentą tūrinės alkoholio koncentracijos
 litre gėrimo;
 6) šampanui, putojančiam vynui, perteklinio slėgio
-vynui - 0,42 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
+vynui - 0,25 lito už 1 procentą tūrinės alkoholio koncentracijos litre gėrimo;
 7) alui - 0,40 lito už litrą;
 8) cigaretėms su filtru ir be filtro - 25 litai už
 1000 cigarečių;
@@ -189,6 +189,8 @@ pagal Kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklat�
 Įstatymas papildytas straipsniu:
 Nr. VIII-982, 98.12.21, Žin., 1998,
 Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
+Nr. VIII-1342, 99.09.30, Žin., 1999,
+Nr.85-2514 (99.10.13)
  
  
 6 straipsnis. Akcizų netaikymo atvejai
@@ -200,9 +202,9 @@ Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 konsulinių atstovybių, taip pat tarptautinių organizacijų oficialiai misijos
 veiklai, jeigu šių tarptautinių organizacijų sutartyse su Lietuvos Respublika
 numatyta neimti akcizų;
-4) į Lietuvos Respublikos muitų teritoriją
-atsiunčiamos pašto siuntos, kurių svoris ne didesnis kaip 31,5 kilogramo, o
-vertė ne didesnė kaip 400 litų;
+4) į Lietuvos Respublikos muitų teritoriją atsiunčiamos
+pašto siuntos, kurių svoris ne didesnis kaip 31,5 kilogramo, o vertė ne didesnė
+kaip 400 litų;
 5) importuojamos prekės, kurios pagal Muitinės kodeksą
 neapmokestinamos importo mokesčiais;
 6) neišpilstyti alkoholiniai gėrimai ir jų žaliava,
@@ -221,8 +223,8 @@ maršrutais per paskutiniuosius 12 mėnesių sudaro ne mažiau kaip 75 procentus
 visų realizavimo pajamų;
 10) Lietuvos
 Respublikos įmonių, gaminančių cigaretes, importuojamas tabakas (kodą pagal KPN
-nustato Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata, sąrašą
-nustato Vyriausybė. Tuo atveju, kai nurodytas tabakas šiose įmonėse bus
+nustato Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata,
+sąrašą nustato Vyriausybė. Tuo atveju, kai nurodytas tabakas šiose įmonėse bus
 panaudotas ne cigaretėms gaminti, o kitiems tikslams, nurodytos įmonės turi
 apskaičiuoti ir sumokėti už jį nustatyto dydžio akcizą.
 2. Be to, akcizas netaikomas, kai etilo alkoholis bei
@@ -285,7 +287,8 @@ pateikti akcizų apyskaitą.
 į biudžetą iki kito mėnesio 30 dienos.
 2. Mokėtojai, kurių praėjusio pusmečio vidutinė
 mėnesinė akcizų suma buvo didesnė kaip 50 tūkst. litų, akcizus moka:
-1) iki mėnesio 30 dienos - už mėnesio pirmąjį dešimtadienį;
+1) iki mėnesio 30 dienos - už mėnesio pirmąjį
+dešimtadienį;
 2) iki kito mėnesio 10 dienos - už mėnesio antrąjį
 dešimtadienį;
 3) iki kito mėnesio 20 dienos - už likusią mėnesio
@@ -422,8 +425,8 @@ Nauja įstatymo redakcija nuo
 9.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. VIII-626, 98.02.17, Žin., 1998, Nr.25-629
-(98.03.13)
+Nr. VIII-626, 98.02.17, Žin., 1998,
+Nr.25-629 (98.03.13)
 AKCIZŲ ĮSTATYMO 6
 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 1998 m. liepos 1 d.
@@ -448,6 +451,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1321, 99.07.08, Žin., 1999,
 Nr.66-2132 (99.07.30)
 AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+13.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1342, 99.09.30, Žin., 1999,
+Nr.85-2514 (99.10.13)
+AKCIZŲ ĮSTATYMO 5(1)
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 *** Pabaiga ***
  
