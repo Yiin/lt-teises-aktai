@@ -43,15 +43,23 @@ valstybės ir savivaldybių biudžetinėms viešosioms įstaigoms.
             
             2 straipsnis. Viešosios
 įstaigos samprata
-            1. Viešoji įstaiga - tai šio
-įstatymo nustatyta tvarka iš dalininkų (savininko) turto įsteigta ne pelno
-organizacija, veikianti socialinėje, švietimo, mokslo, kultūros, sporto ar
-kitose panašiose srityse ir viešai teikianti šių sričių paslaugas visuomenės
-nariams.
+            1. Viešoji įstaiga – tai šio įstatymo
+nustatyta tvarka iš dalininkų (savininko) turto įsteigta ne pelno organizacija,
+veikianti socialinėje, švietimo, mokslo, kultūros, sporto ar kitose panašiose
+srityse ir viešai teikianti šių sričių paslaugas visuomenės nariams, taip pat
+savivaldybės tarybos sprendimu iš savivaldybės turto įsteigta ne pelno
+organizacija, teikianti paslaugas keleivinio transporto, ryšių, elektros,
+šilumos, dujų, vandentiekio, komunalinio ūkio ar kitose panašiose srityse.
             2. Ne pelno organizacija -
 tai įstatymų nustatyta tvarka įsteigtas juridinio asmens teises turintis
 subjektas, kurio veiklos tikslas nėra pelno siekimas. Ji gauto pelno negali
 skirstyti steigėjams, nariams, dalininkams (savininkui).
+Straipsnio
+pakeitimai:
+Nr.
+IX-686,
+2001-12-21, Žin., 2001, Nr. 112-4092 (2001-12-30)
+ 
             
             3 straipsnis. Viešosios
 įstaigos statusas
@@ -143,8 +151,8 @@ vienas steigėjas yra fizinis asmuo, steigimo sutartis turi būti patvirtinta
 notaro. Jeigu steigėjas yra įmonė ar juridinis asmuo, vadovo ar įgalioto asmens
 parašas tvirtinamas antspaudu. Neturinčiam antspaudo užsienio juridiniam
 asmeniui taikoma fiziniams asmenims nustatyta tvarka.
-            6. Viešosios įstaigos
-steigėjai, sudarę steigimo sutartį, priima viešosios įstaigos įstatus.
+            6. Viešosios įstaigos steigėjai,
+sudarę steigimo sutartį, priima viešosios įstaigos įstatus.
             7. Jeigu valstybės ar
 savivaldos institucija viešajai įstaigai suteikia turtą panaudos pagrindais,
 sudaroma sutartis, kurioje nurodoma tokio turto naudojimo paskirtis, sąlygos,
@@ -224,8 +232,8 @@ skyrimo tvarka ir kompetencija;
 turtu tvarka;
             10) lėšų šaltiniai ir lėšų
 panaudojimo tvarka;
-            11) finansinės veiklos kontrolės
-tvarka;
+            11) finansinės veiklos
+kontrolės tvarka;
             12) įstatų keitimo ir
 papildymo tvarka;
             13) filialų steigimo bei
@@ -244,8 +252,8 @@ juridinio asmens antspaudu.
             5. Keisti ir papildyti
 įstatus iniciatyvos teisę turi viešosios įstaigos administracija, viešosios
 įstaigos kolegialus valdymo organas ir viešosios įstaigos visuotinis
-susirinkimas. Pakeistus ar papildytus įstatus tvirtina viešosios įstaigos visuotinis
-susirinkimas.
+susirinkimas. Pakeistus ar papildytus įstatus tvirtina viešosios įstaigos
+visuotinis susirinkimas.
             6. Įstatų pakeitimai ir
 papildymai įsigalioja nuo jų įregistravimo įstatymų nustatyta tvarka.
             
@@ -269,9 +277,9 @@ viešosios įstaigos įstatuose, įstatymų nustatyta tvarka reikalinga licencij
             1. Filialas yra viešosios
 įstaigos padalinys, turintis atskirą buveinę ir administraciją. Filialas nėra
 juridinis asmuo ir veikia viešosios įstaigos, kaip juridinio asmens, vardu
-pagal viešosios įstaigos įstatus ir jos administracijos vadovo suteiktus įgaliojimus,
-kurie turi būti nurodyti įstaigos įstatuose ir filialo nuostatuose. Viešosios
-įstaigos filialų skaičius neribojamas.
+pagal viešosios įstaigos įstatus ir jos administracijos vadovo suteiktus
+įgaliojimus, kurie turi būti nurodyti įstaigos įstatuose ir filialo
+nuostatuose. Viešosios įstaigos filialų skaičius neribojamas.
             2. Filialui leidžiama turėti
 subsąskaitą. Filialo turtas apskaitomas viešosios įstaigos finansinėje
 atskaitomybėje, taip pat atskiroje filialo finansinėje atskaitomybėje.
@@ -302,11 +310,11 @@ sprendimai prilygsta viešosios įstaigos visuotinio susirinkimo nutarimams.
 priklauso:
             1) keisti ir papildyti
 įstatus;
-            2) nustatyti privalomas
-veiklos užduotis;
+            2) nustatyti privalomas veiklos
+užduotis;
             3) nustatyti paslaugų, darbų
-bei produkcijos kainas ir tarifus bei jų apskaičiavimo taisykles, jeigu to nenustato
-Vyriausybė;
+bei produkcijos kainas ir tarifus bei jų apskaičiavimo taisykles, jeigu to
+nenustato Vyriausybė;
             4) skirti ir atleisti iš
 pareigų viešosios įstaigos administracijos vadovą ir nustatyti jo atlyginimą;
             5) nustatyti kolegialaus
@@ -337,12 +345,12 @@ funkcijas pagal sutartį gali atlikti juridinis asmuo.
             8. Administracijos vadovas
 nustato darbuotojų etatus ir priima bei atleidžia darbuotojus. Administracijos
 vadovo kompetencija ir funkcijos nustatomos įstatuose.
-            9. Kolegialūs viešosios
-įstaigos valdymo organai (taryba, valdyba) sudaromi viešosios įstaigos
-visuotinio susirinkimo nutarimu. Kolegialių valdymo organų narių skaičius, jų
-pareigos, teisės, atsakomybė, sudarymo ir atšaukimo tvarka, darbo apmokėjimo
-tvarka nustatoma viešosios įstaigos įstatuose. Tik vieno kolegialaus valdymo
-organo narių darbas gali būti apmokamas.
+            9. Kolegialūs viešosios įstaigos
+valdymo organai (taryba, valdyba) sudaromi viešosios įstaigos visuotinio
+susirinkimo nutarimu. Kolegialių valdymo organų narių skaičius, jų pareigos,
+teisės, atsakomybė, sudarymo ir atšaukimo tvarka, darbo apmokėjimo tvarka
+nustatoma viešosios įstaigos įstatuose. Tik vieno kolegialaus valdymo organo
+narių darbas gali būti apmokamas.
             
             12 straipsnis. Finansinės
 veiklos kontrolė
@@ -351,10 +359,10 @@ finansinės veiklos vidaus kontrolės tvarka nustatoma jos įstatuose.
             2. Valstybės ir savivaldybių
 kontrolės institucijos turi teisę įstatymų nustatyta tvarka tikrinti viešosios
 įstaigos veiklą.
-            3. Viešosios įstaigos administracija
-privalo pateikti valstybės (savivaldybės) kontrolės institucijoms bei įstaigos
-įstatuose nustatytiems finansinės veiklos kontrolės subjektams jų reikalaujamus
-viešosios įstaigos dokumentus.
+            3. Viešosios įstaigos
+administracija privalo pateikti valstybės (savivaldybės) kontrolės
+institucijoms bei įstaigos įstatuose nustatytiems finansinės veiklos kontrolės
+subjektams jų reikalaujamus viešosios įstaigos dokumentus.
             
             13 straipsnis. Viešosios
 įstaigos lėšos
@@ -447,8 +455,8 @@ kuri tęsia veiklą, atskiriant dalis, kurios jungiamos prie kitų viešųjų į
 arba iš kurių steigiamos naujos viešosios įstaigos.
             5. Viešajai įstaigai
 reorganizuoti, ją jungiant arba skaidant, rengiamas projektas. Jame nurodoma
-kiekvienos reorganizuojamos viešosios įstaigos pavadinimas, adresas, reorganizavimo
-iniciatorius, reorganizavimo būdas, reorganizavimo pagrindimas,
+kiekvienos reorganizuojamos viešosios įstaigos pavadinimas, adresas,
+reorganizavimo iniciatorius, reorganizavimo būdas, reorganizavimo pagrindimas,
 inventorizacijos tvarka, turto vertinimas, prievolių ir dokumentų perėmėjai ir
 perėmimo terminai, viešųjų įstaigų administracijai ir ekspertams reorganizavimo
 laikotarpiu suteikiamos teisės, reorganizavimo terminai. Kartu su
@@ -481,18 +489,18 @@ viešosios įstaigos visuotinis susirinkimas, kolegialūs valdymo organai ir
 administracija netenka įgaliojimų, jų funkcijas atlieka likvidatorius.
             3. Kai likviduojamoji
 viešoji įstaiga sumoka skolas, iš likusio jos turto ir lėšų dalininkams
-(savininkui) gali būti grąžinta tik jų dalininkų kapitalo dalis. Likus nepaskirstyto
-turto ar lėšų, jis perduodamas kitai ar kitoms ne pelno organizacijoms,
-įregistruotoms Lietuvos Respublikoje, kurias nustato institucija, nutarusi
-likviduoti viešąją įstaigą.
+(savininkui) gali būti grąžinta tik jų dalininkų kapitalo dalis. Likus
+nepaskirstyto turto ar lėšų, jis perduodamas kitai ar kitoms ne pelno
+organizacijoms, įregistruotoms Lietuvos Respublikoje, kurias nustato
+institucija, nutarusi likviduoti viešąją įstaigą.
             4. Likviduotos viešosios
 įstaigos dokumentai saugomi Archyvų įstatymo nustatyta tvarka.
             5. Likviduojant viešąją
 įstaigą, jos darbuotojai atleidžiami ir su jais atsiskaitoma Darbo sutarties
 įstatymo nustatyta tvarka.
             6. Apie viešosios įstaigos
-likvidavimą viešai skelbiama du kartus ne rečiau kaip kas mėnesį arba kiekvienam
-kreditoriui pranešama raštu.
+likvidavimą viešai skelbiama du kartus ne rečiau kaip kas mėnesį arba
+kiekvienam kreditoriui pranešama raštu.
 Straipsnio
 pakeitimai:
 Nr.
@@ -542,8 +550,8 @@ ji sudaro sutartį ne pelno organizacijai (įmonei) steigimo metu perduotą turt
 perduoti panaudos pagrindu viešajai įstaigai. Tuo atveju, kai ne pelno
 organizacijos steigimo metu valstybės ar savivaldos institucija perdavė lėšas
 ne pelno organizacijos įstatiniam kapitalui formuoti, reorganizuojant ne pelno
-organizaciją į viešąją įstaigą, šios lėšos įskaitomos į viešosios įstaigos
-nuosavą kapitalą.
+organizaciją į viešąją įstaigą, šios lėšos įskaitomos į viešosios įstaigos nuosavą
+kapitalą.
  
  
             Skelbiu šį Lietuvos
@@ -582,7 +590,19 @@ Nr.83-2513 (00.10.04)
 VIEŠŲJŲ ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
-*** Pabaiga ***
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-686,
+2001-12-21, Žin., 2001, Nr. 112-4092 (2001-12-30)
+VIEŠŲJŲ
+ĮSTAIGŲ ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.10.04)
+Redagavo:
+Aušrinė Trapinskienė (2002-01-04)
+                 
+autrap@lrs.lt
