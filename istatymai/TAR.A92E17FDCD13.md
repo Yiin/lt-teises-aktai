@@ -13,6 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
+Suvestinė redakcija nuo 2004-01-01 iki 2005-05-12
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
+ 
+ 
+ 
 LIETUVOS RESPUBLIKOS MEDŽIOKLĖS ĮSTATYMAS
  
 2002 m. birželio 20 d. Nr. IX-966
@@ -413,7 +419,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Žemės sklypų, kuriuose medžioklė neuždrausta, savininkai, valdytojai ir naudotojai turi teisę Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybės gamtos apsaugos fondo nuostatų nustatyta tvarka gauti finansinę paramą medžiojamųjų gyvūnų daromos žalos prevencijos priemonėms įgyvendinti. Prevencijos priemonėms, kuriomis miško savininkai, valdytojai ir naudotojai siekia išvengti medžiojamųjų gyvūnų daromos žalos miškui (želdinių apdorojimas repelentais, aptvėrimas tvoromis ar apsauginėmis juostomis, želdinių, gerinančių laukinių gyvūnų natūralias mitybos sąlygas, veisimas ir kitos priemonės), finansuoti turi būti skiriama ne mažiau kaip 70 procentų lėšų, surinktų iš mokesčių už medžiojamųjų gyvūnų išteklių naudojimą.
+3. Žemės sklypų, kuriuose medžioklė neuždrausta, savininkai, valdytojai ir naudotojai turi teisę Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo nustatyta tvarka gauti finansinę paramą medžiojamųjų gyvūnų daromos žalos prevencijos priemonėms įgyvendinti. Prevencijos priemonėms, kuriomis miško savininkai, valdytojai ir naudotojai siekia išvengti medžiojamųjų gyvūnų daromos žalos miškui (želdinių apdorojimas repelentais, aptvėrimas tvoromis ar apsauginėmis juostomis, želdinių, gerinančių laukinių gyvūnų natūralias mitybos sąlygas, veisimas ir kitos priemonės), finansuoti turi būti skiriama ne mažiau kaip 70 procentų lėšų, surinktų iš mokesčių už medžiojamųjų gyvūnų išteklių naudojimą.
+Straipsnio dalies pakeitimai:
+Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. 1031010ISTA0IX-1612
+ 
 
 
 
@@ -784,7 +793,10 @@ MEDŽIOKLĖS PLOTŲ VIENETAI IR TEISĖS NAUDOTI JUOSE MEDŽIOJAMŲJŲ GYVŪNŲ I
 
 
 
-4) Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybės gamtos apsaugos fondo nuostatų nustatyta tvarka gauti finansinę pagalbą medžiojamųjų gyvūnų gyvenamosios aplinkos sąlygoms gerinti, retų ir nykstančių medžiojamųjų gyvūnų rūšių populiacijoms atkurti, laukinių gyvūnų užkrečiamųjų ligų židinių (epizootijų) likvidavimo priemonėms ir kitiems šiuose teisės aktuose numatytiems tikslams;
+4) Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo nustatyta tvarka gauti finansinę pagalbą medžiojamųjų gyvūnų gyvenamosios aplinkos sąlygoms gerinti, retų ir nykstančių medžiojamųjų gyvūnų rūšių populiacijoms atkurti, laukinių gyvūnų užkrečiamųjų ligų židinių (epizootijų) likvidavimo priemonėms ir kitiems šiuose teisės aktuose numatytiems tikslams;
+Straipsnio punkto pakeitimai:
+Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. 1031010ISTA0IX-1612
+ 
 
 
 
@@ -1101,7 +1113,10 @@ Fiziniai ir juridiniai asmenys, pažeidę šio Įstatymo reikalavimus, atsako ci
 
 
 
-4. Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybės gamtos apsaugos fondo nuostatų nustatyta tvarka valstybės vardu šiuose teisės aktuose nurodytos institucijos atlygina laisvėje gyvenančių medžiojamųjų gyvūnų padarytą žalą žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams, kai pakenkdami žemės ūkio pasėliams, miškui ir hidrotechnikos įrenginiams ją padarė medžiojamieji gyvūnai, kuriuos medžioti yra uždrausta ištisus metus.
+4. Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo nustatyta tvarka valstybės vardu šiuose teisės aktuose nurodytos institucijos atlygina laisvėje gyvenančių medžiojamųjų gyvūnų padarytą žalą žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams, kai pakenkdami žemės ūkio pasėliams, miškui ir hidrotechnikos įrenginiams ją padarė medžiojamieji gyvūnai, kuriuos medžioti yra uždrausta ištisus metus.
+Straipsnio dalies pakeitimai:
+Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. 1031010ISTA0IX-1612
+ 
 
 
 
@@ -1281,3 +1296,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. 1031010ISTA0IX-1612
+Lietuvos Respublikos medžioklės įstatymo 6, 12 ir 18 straipsnių pakeitimo įstatymas
