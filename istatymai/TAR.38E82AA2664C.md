@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 1997-10-30 iki 1999-11-25
+Suvestinė redakcija nuo 1999-11-26 iki 2000-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
  
@@ -59,9 +59,11 @@ Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010IS
 
 
 
-2. Nuosavybės ir kitos daiktinės teisės (išskyrus hipotekos) į nekilnojamąjį turtą, šių teisių apribojimai, turto savininkų prievolės bei kitų asmenų teisės į nekilnojamąjį turtą atsiranda jas įregistravus Nekilnojamojo turto registro centriniame duomenų banke. 
+2. Nuosavybės ir kitos daiktinės teisės (išskyrus hipotekos) į nekilnojamąjį turtą, šių teisių apribojimai (išskyrus turto areštą), turto savininkų prievolės bei kitų asmenų teisės į nekilnojamąjį turtą atsiranda jas įregistravus Nekilnojamojo turto registro centriniame duomenų banke.
+TAR pastaba. 2 dalies redakcija įsigalioja turto arešto aktų registrui pradėjus darbą.
 Straipsnio dalies pakeitimai:
 Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010ISTAVIII-453
+Nr. VIII-1384, 1999-11-04, Žin., 1999, Nr. 101-2904 (1999-11-26), i. k. 0991010ISTAIII-1384
  
 
 
@@ -162,27 +164,25 @@ Nekilnojamojo turto registre registruojamos šios daiktinės teisės į nekilnoj
 Nekilnojamojo turto registre registruojami šie teisių į nekilnojamąjį turtą apribojimai:
 
 
-1) nekilnojamojo turto areštas;
+1) apribojimai keisti nekilnojamojo turto pagrindinę tikslinę naudojimo paskirtį;
 
 
 
 
-2) apribojimai keisti nekilnojamojo turto pagrindinę tikslinę naudojimo paskirtį;
+2) nekilnojamojo turto savininko pripažinimas neveiksniu;
 
 
 
 
-3) nekilnojamojo turto savininko pripažinimas neveiksniu;
+3) sąlyga neperleisti nekilnojamojo turto trečiajam asmeniui.
+TAR pastaba. 8 straipsnio redakcija įsigalioja turto arešto aktų registrui pradėjus darbą.
 
 
 
 
-4) sąlyga neperleisti nekilnojamojo turto trečiajam asmeniui.
+Straipsnio pakeitimai:
+Nr. VIII-1384, 1999-11-04, Žin., 1999, Nr. 101-2904 (1999-11-26), i. k. 0991010ISTAIII-1384
  
-
-
-
-
 
 
 
@@ -214,6 +214,30 @@ Nekilnojamojo turto registre registruojamos šios nekilnojamojo turto savininko 
 
 
 
+
+
+
+
+91 straipsnis. Nekilnojamojo turto registre daromos žymos
+
+
+Nekilnojamojo turto registre daromos šios žymos:
+
+
+1) nekilnojamojo turto hipotekos;
+
+
+
+
+2) nekilnojamojo turto arešto, nurodant priverstinai laikinai apribojamas teises į turtą.
+TAR pastaba. Papildymas 91 straipsniu įsigalioja turto arešto aktų registrui pradėjus darbą.
+
+
+
+
+Papildyta straipsniu:
+Nr. VIII-1384, 1999-11-04, Žin., 1999, Nr. 101-2904 (1999-11-26), i. k. 0991010ISTAIII-1384
+ 
 
 
 
@@ -317,47 +341,30 @@ Nekilnojamojo turto ir teisių į jį įregistravimo Nekilnojamojo turto registr
 
 
 
-3) teismo sprendimas dėl bankroto bylos iškėlimo;
+3) teismo sprendimas dėl turto savininko pripažinimo neveiksniu arba ribotai veiksniu;
 
 
 
 
-4) teismo arba teisėjo nutartis areštuoti turtą civiliniam ieškiniui ar turto konfiskavimui užtikrinti;
+4) sutartis dėl nekilnojamojo turto ir nuosavybės teisių, registruojamų Nekilnojamojo turto registre;
 
 
 
 
-5) tardytojo nutarimas areštuoti turtą civiliniam ieškiniui arba galimam turto konfiskavimui baudžiamojoje byloje užtikrinti;
+5) sutartis dėl daiktinių teisių, registruojamų Nekilnojamojo turto registre;
 
 
 
 
-6) teismo antstolio reikalavimas įregistruoti turto areštą;
+6) kiti dokumentai, patvirtinantys registruojamas Nekilnojamojo turto registre teises į nekilnojamąjį turtą, teisių į nekilnojamąjį turtą apribojimus ar nekilnojamojo turto savininko prievoles, susijusias su šiuo turtu.
+TAR pastaba. 16 straipsnio redakcija įsigalioja turto arešto aktų registrui pradėjus darbą.
 
 
 
 
-7) teismo sprendimas dėl turto savininko pripažinimo neveiksniu arba ribotai veiksniu;
-
-
-
-
-8) kreditorių susirinkimo sprendimas dėl neteisminės bankroto procedūros taikymo;
-
-
-
-
-9) sutartis dėl nekilnojamojo turto ir nuosavybės teisių, registruojamų Nekilnojamojo turto registre;
-
-
-
-
-10) sutartis dėl daiktinių teisių, registruojamų Nekilnojamojo turto registre.
+Straipsnio pakeitimai:
+Nr. VIII-1384, 1999-11-04, Žin., 1999, Nr. 101-2904 (1999-11-26), i. k. 0991010ISTAIII-1384
  
-
-
-
-
 
 
 
@@ -873,11 +880,12 @@ Teises į nekilnojamąjį turtą ir nekilnojamojo turto bei teisių į jį įreg
 35 straipsnis. Atsisakymo įregistruoti nekilnojamąjį turtą ir teises į jį apskundimas
 
 
-Atsisakymas įregistruoti nekilnojamąjį turtą ir teises į jį per 10 darbo dienų nuo atsisakymo gavimo gali būti Civilinio proceso kodekso nustatyta tvarka apskųstas apylinkės teismui pagal turto buvimo vietą. 
+Atsisakymas įregistruoti nekilnojamąjį turtą ir teises į jį skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010ISTAVIII-453
+Nr. VIII-1384, 1999-11-04, Žin., 1999, Nr. 101-2904 (1999-11-26), i. k. 0991010ISTAIII-1384
  
 
 
@@ -894,19 +902,25 @@ Jei Nekilnojamojo turto registro tvarkytojas atmeta prašymą įregistruoti neki
 
 
 
-37 straipsnis. Apsikeitimas Nekilnojamojo turto registro ir Hipotekos registro duomenimis
+37 straipsnis. Apsikeitimas Nekilnojamojo turto registro ir hipotekos registro bei turto arešto aktų registro duomenimis
 
 
-1. Centrinis hipotekos registras Hipotekos registro nuostatų nustatyta tvarka duomenis apie nekilnojamojo turto įkeitimo (hipotekos) įregistravimą ne vėliau kaip per 24 valandas elektroniniu būdu perduoda Nekilnojamojo turto registro centriniam duomenų bankui. Nekilnojamojo turto registro centrinis duomenų bankas, gavęs hipotekos teisėjo arba Centrinio hipotekos registro paklausimą, Nekilnojamojo turto registro nuostatų nustatyta tvarka ne vėliau kaip per 24 valandas elektroniniu būdu perduoda duomenis apie įkeičiamą arba įkeistą nekilnojamąjį turtą ir teises į jį Centriniam hipotekos registrui. 
+1. Centrinis hipotekos registras Hipotekos registro nuostatų nustatyta tvarka duomenis apie nekilnojamojo turto įkeitimo (hipotekos) įregistravimą ne vėliau kaip per 24 valandas elektroniniu būdu perduoda Nekilnojamojo turto registro centriniam duomenų bankui. Nekilnojamojo turto registro centrinis duomenų bankas, pasikeitus įkeisto turto duomenims Nekilnojamojo turto registre, taip pat gavęs hipotekos teisėjo arba centrinio hipotekos registro paklausimą, Nekilnojamojo turto registro nuostatų nustatyta tvarka ne vėliau kaip per 24 valandas elektroniniu būdu perduoda duomenis apie įkeičiamą arba įkeistą nekilnojamąjį turtą ir teises į jį centriniam hipotekos registrui.
 
 
 
 
-2. Keitimosi kitais Nekilnojamojo turto registro ir Hipotekos registro duomenimis tvarką sutartimi nustato vadovaujančios šių registrų tvarkymo įstaigos. 
+2. Keitimosi kitais Nekilnojamojo turto registro ir hipotekos registro duomenimis tvarką sutartimi nustato vadovaujančios šių registrų tvarkymo įstaigos.
+
+
+
+
+3. Keitimosi Nekilnojamojo turto registro ir turto arešto aktų registro duomenimis tvarką nustato šių registrų nuostatai.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010ISTAVIII-453
+Nr. VIII-1384, 1999-11-04, Žin., 1999, Nr. 101-2904 (1999-11-26), i. k. 0991010ISTAIII-1384
  
 
 
@@ -947,7 +961,10 @@ Dokumentai, pagal kuriuos buvo įregistruotas nekilnojamasis turtas ir teisės �
 
 
 
-2. Nekilnojamojo turto registro tvarkytojo atsisakymas tenkinti prašymą ištaisyti netikslius ar neteisingus arba papildyti neišsamius Nekilnojamojo turto registro duomenis per 10 darbo dienų nuo atsisakymo gavimo gali būti apskųstas apylinkės teismui pagal nekilnojamojo turto buvimo vietą. 
+2. Nekilnojamojo turto registro tvarkytojo atsisakymas patenkinti prašymą ištaisyti Nekilnojamojo turto registro netikslius ar neteisingus duomenis arba papildyti neišsamius šio registro duomenis gali būti apskųstas teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1384, 1999-11-04, Žin., 1999, Nr. 101-2904 (1999-11-26), i. k. 0991010ISTAIII-1384
+ 
 
 
 Straipsnio pakeitimai:
@@ -1081,3 +1098,8 @@ Lietuvos Respublikos nekilnojamojo turto registro įstatymo 4, 14, 17, 40 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010ISTAVIII-453
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo 2, 3, 4, 14, 17, 22, 24, 26, 28, 29, 30, 31, 35, 37, 40, 43, 46 straipsnių pakeitimo ir papildymo bei 32 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1384, 1999-11-04, Žin., 1999, Nr. 101-2904 (1999-11-26), i. k. 0991010ISTAIII-1384
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo 3, 8, 16, 35, 37, 40 straipsnių pakeitimo ir papildymo 9(1)straipsniu įstatymas
