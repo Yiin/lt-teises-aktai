@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
+Suvestinė redakcija nuo 1999-07-09 iki 2000-03-30
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
+ 
+ 
 LIETUVOS RESPUBLIKOS GYVENAMOSIOS VIETOS DEKLARAVIMO Į S T A T Y M A S
  
 1998 m. liepos 2 d. Nr. VIII-840
@@ -477,18 +482,30 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-3. Šis įstatymas įsigalioja nuo 1999 m. liepos 1 d.
+3. Šis įstatymas įsigalioja nuo 2000 m. balandžio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1259, 1999-06-22, Žin., 1999, Nr. 60-1953 (1999-07-09), i. k. 0991010ISTAIII-1259
  
+
+
+
+
+
+
+
+
  
-
-
-
-
-
-
-
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1259, 1999-06-22, Žin., 1999, Nr. 60-1953 (1999-07-09), i. k. 0991010ISTAIII-1259
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 17 straipsnio pakeitimo įstatymas
