@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CDBE4C20D83B"
 
 # Lietuvos Respublikos žemės sklypų perleidimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymas
 
+Suvestinė redakcija nuo 1995-06-28 iki 1996-07-04
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 23-0; Žin. 1993, Nr.6-114, i. k. 0931010ISTA0000I-61
+ 
 LIETUVOS RESPUBLIKOS  DĖL ŽEMĖS SKLYPŲ PARDAVIMO IR NUOMOJIMO TVARKOS BEI SĄLYGŲ UŽSIENIO VALSTYBIŲ DIPLOMATINĖMS IR KONSULINĖMS ĮSTAIGOMS ĮSTATYMAS 
  
  
@@ -24,11 +28,20 @@ LIETUVOS RESPUBLIKOS  DĖL ŽEMĖS SKLYPŲ PARDAVIMO IR NUOMOJIMO TVARKOS BEI S�
 
 2 straipsnis. Žemės sklypų įgijimas nuosavybės teise
 
-Užsienio valstybėms – jų diplomatinėms ir konsulinėms įstaigoms įkurti – gali būti parduodami žemės sklypai. Taip pat žemės sklypai gali būti iškeičiami į lygiaverčius žemės sklypus užsienio valstybėse.
+Užsienio valstybėms – jų diplomatinėms ir konsulinėms įstaigoms įkurti – gali būti parduodami žemės sklypai. Taip pat žemės sklypai gali būti iškeičiami į lygiaverčius žemės sklypus užsienio valstybėse ar suteikiami neatlygintinai ne didesni kaip turėti iki 1940 metų nuosavybės teise žemės sklypai. Tais atvejais, kai turėti žemės sklypai neišlikę, valstybių susitarimu jie gali būti suteikiami kitoje vietoje.
+Straipsnio dalies pakeitimai:
+Nr. I-955, 1995-06-20, Žin., 1995, Nr. 53-1303 (1995-06-28), i. k. 0951010ISTA000I-955
+ 
 
-Žemės sklypus parduoda aukštesniosios pakopos savivaldybės Lietuvos Respublikos Vyriausybei, Aplinkos apsaugos departamentui ir Kultūros paveldo inspekcijai sutikus.
+Žemės sklypai parduodami ar suteikiami Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. I-955, 1995-06-20, Žin., 1995, Nr. 53-1303 (1995-06-28), i. k. 0951010ISTA000I-955
+ 
 
-Apsikeitimo žemės sklypais susitarimai įforminami vyriausybių sutartimis pasikeičiant atitinkamomis notomis. Apsikeitus žemės sklypais, nuosavybės teisė į žemės sklypą pereina atitinkamai valstybei.
+Susitarimai dėl apsikeitimo žemės sklypais ir jų suteikimo neatlygintinai įforminami vyriausybių sutartimis pasikeičiant atitinkamomis notomis. Apsikeitus žemės sklypais, nuosavybės teisė į žemės sklypą pereina atitinkamai valstybei.
+Straipsnio dalies pakeitimai:
+Nr. I-955, 1995-06-20, Žin., 1995, Nr. 53-1303 (1995-06-28), i. k. 0951010ISTA000I-955
+ 
 
 Užsienio valstybė, įsigijusi nuosavybės teise žemės sklypą, gali jį perleisti nekeisdama paskirties kitai valstybei Lietuvos Respublikos Vyriausybei sutikus.
  
@@ -62,9 +75,28 @@ Lėšos už parduotus ir išnuomotus žemės sklypus naudojamos Lietuvos Respubl
  
  
 
+7 straipsnis. Užsienio valstybių diplomatinių ir konsulinių įstaigų patalpų įsigijimas
+
+Užsienio valstybių diplomatinės ir konsulinės įstaigos negali įsigyti patalpų ne joms priklausančiuose ir neišsinuomotuose žemės sklypuose.
+
+Papildyta straipsniu:
+Nr. I-955, 1995-06-20, Žin., 1995, Nr. 53-1303 (1995-06-28), i. k. 0951010ISTA000I-955
+ 
+
+ 
+ 
 LAIKINAI EINANTIS 
 RESPUBLIKOS PREZIDENTO PAREIGAS                                    ALGIRDAS BRAZAUSKAS
  
 Vilnius, 1993 m. vasario 2 d. 
 Nr. I-61
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-955, 1995-06-20, Žin., 1995, Nr. 53-1303 (1995-06-28), i. k. 0951010ISTA000I-955
+Dėl Lietuvos Respublikos įstatymo "Dėl žemės sklypų pardavimo ir nuomojimo tvarkos bei sąlygų užsienio valstybių diplomatinėms ir konsulinėms įstaigoms" pakeitimo ir papildymo
 
