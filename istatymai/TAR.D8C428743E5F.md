@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D8C428743E5F"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2000-05-12 iki 2000-05-31
+Suvestinė redakcija nuo 2000-06-01 iki 2000-12-28
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 50-1190, i. k. 0971010ISTAVIII-222
  
@@ -59,10 +59,11 @@ Vilnius
 
 3 straipsnis. Teisiniai operatyvinės veiklos pagrindai
 
-Operatyvinės veiklos subjektai vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, kitais Lietuvos Respublikos įstatymais, Vyriausybės nutarimais bei Vidaus reikalų ministerijos, Krašto apsaugos ministerijos, Valstybės saugumo departamento, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ir kitais teisės aktais.
+Operatyvinės veiklos subjektai vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, kitais Lietuvos Respublikos įstatymais, Vyriausybės nutarimais bei Vidaus reikalų ministerijos, Krašto apsaugos ministerijos, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ir kitais teisės aktais.
 
 Straipsnio pakeitimai:
 Nr. VIII-1199, 1999-05-25, Žin., 1999, Nr. 50-1604 (1999-06-09), i. k. 0991010ISTAIII-1199
+Nr. VIII-1655, 2000-05-02, Žin., 2000, Nr. 41-1168 (2000-05-19), i. k. 1001010ISTAIII-1655
  
 
 4 straipsnis. Operatyvinių veiksmų pagrindai
@@ -92,9 +93,10 @@ Nr. VIII-1572, 2000-03-16, Žin., 2000, Nr. 28-762 (2000-04-05), i. k. 1001010IS
 
 5 straipsnis. Operatyvinės veiklos subjektai ir slaptieji dalyviai
 
-1. Operatyvinės veiklos subjektų sistemą sudaro tik specialius valstybės įgaliojimus turinčios valstybės institucijos – Krašto apsaugos ministerijos, Vidaus reikalų ministerijos, Valstybės saugumo departamento ir Muitinės departamento prie Lietuvos Respublikos finansų ministerijos tarnybos, kurioms pavedama operatyvinė funkcija, o jų darbuotojai įgaliojami ją atlikti. Šių institucijų tarnybų sąrašą sudaro ir jų operatyvinių teisių mastą nustato Vyriausybė operatyvinės veiklos subjektų teikimu.
+1.Operatyvinės veiklos subjektų sistemą sudaro tik specialius valstybės įgaliojimus turinčios valstybės institucijos – Krašto apsaugos ministerijos, Vidaus reikalų ministerijos, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos ir Muitinės departamento prie Lietuvos Respublikos finansų ministerijos padaliniai, kuriems pavedama operatyvinė funkcija, o jų darbuotojai įgaliojami ją atlikti. Šių institucijų padalinių sąrašą sudaro ir jų operatyvinių teisių mastą nustato Vyriausybė operatyvinės veiklos subjektų teikimu. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-1199, 1999-05-25, Žin., 1999, Nr. 50-1604 (1999-06-09), i. k. 0991010ISTAIII-1199
+Nr. VIII-1655, 2000-05-02, Žin., 2000, Nr. 41-1168 (2000-05-19), i. k. 1001010ISTAIII-1655
  
 
 2. Operatyvinės veiklos slaptieji dalyviai yra operatyvinės veiklos subjektų etatiniai slaptieji darbuotojai, kurių priklausomybė operatyvinės veiklos subjektui užšifruota, ir slaptai bendradarbiaujantys fiziniai asmenys, su kuriais operatyvinės veiklos subjektų darbuotojai sudarė raštišką sutartį ar žodinį susitarimą dėl slapto bendradarbiavimo.
@@ -264,10 +266,11 @@ Straipsnio pakeitimai:
 
 16 straipsnis. Parlamentinė priežiūra
 
-Generalinis prokuroras, generalinis policijos komisaras, Valstybės saugumo departamento generalinis direktorius, Krašto apsaugos ministerijos tarnybos, kuriai pavesta operatyvinė veikla, vadovas, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos direktorius Lietuvos Respublikos Seimo kiekvienos eilinės sesijos pradžioje pateikia Seimo Teisės ir teisėtvarkos bei Nacionalinio saugumo ir gynybos komitetų sudarytai specialiai komisijai ataskaitas, kuriose turi būti pažymėti visų operatyvinės veiklos metodų ir priemonių naudojimo teikimų sankcijai gauti skaičius, atmestų teikimų skaičius, patenkintų teikimų skaičius ir pratęstų teikimų skaičius. Komisija turi teisę savo posėdyje išklausyti minėtų pareigūnų paaiškinimus apie Operatyvinės veiklos įstatymo įgyvendinimo rezultatus, kylančias problemas, teisėtumo aspektus bei lėšų, skirtų operatyvinei veiklai, naudojimą. Komisija  Seimo kiekvienos eilinės sesijos pabaigoje privalo atsiskaityti už šio įstatymo vykdymą.
+Generalinis prokuroras, generalinis policijos komisaras, Valstybės saugumo departamento generalinis direktorius, Krašto apsaugos ministerijos tarnybos, kuriai pavesta operatyvinė veikla, vadovas, Specialiųjų tyrimų tarnybos direktorius, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos direktorius Lietuvos Respublikos Seimo kiekvienos eilinės sesijos pradžioje pateikia Seimo Teisės ir teisėtvarkos bei Nacionalinio saugumo ir gynybos komitetų sudarytai specialiai komisijai ataskaitas, kuriose turi būti pažymėti visų operatyvinės veiklos metodų ir priemonių naudojimo teikimų sankcijai gauti skaičius, atmestų teikimų skaičius, patenkintų teikimų skaičius ir pratęstų teikimų skaičius. Komisija turi teisę savo posėdyje išklausyti minėtų pareigūnų paaiškinimus apie Operatyvinės veiklos įstatymo įgyvendinimo rezultatus, kylančias problemas, teisėtumo aspektus bei lėšų, skirtų operatyvinei veiklai, naudojimą. Komisija Seimo kiekvienos eilinės sesijos pabaigoje privalo atsiskaityti už šio įstatymo vykdymą.
 
 Straipsnio pakeitimai:
 Nr. VIII-1199, 1999-05-25, Žin., 1999, Nr. 50-1604 (1999-06-09), i. k. 0991010ISTAIII-1199
+Nr. VIII-1655, 2000-05-02, Žin., 2000, Nr. 41-1168 (2000-05-19), i. k. 1001010ISTAIII-1655
  
 
 17 straipsnis. Operatyvinės veiklos finansavimas
