@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.890D3838A27D"
 
 # Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymas
 
+Suvestinė redakcija nuo 1999-06-23 iki 2002-04-25
+ 
+Įstatymas paskelbtas: Žin. 1997, Nr. 30-712, i. k. 0971010ISTAVIII-157
+ 
+ 
 LIETUVOS RESPUBLIKOS
 ŽMOGAUS MIRTIES NUSTATYMO IR KRITINIŲ BŪKLIŲ
 Į S T A T Y M A S
@@ -246,29 +251,35 @@ KRITINĘ BŪKLĘ IR MIRTĮ NUSTAČIUSIŲ ASMENŲ PAREIGOS
 
 
 
-2) kai yra su gyvybe nesuderinamų kūno sužalojimų, kurių sąrašą nustato Sveikatos apsaugos ministerija;
+2) kai gydytojų konsiliumas nusprendė, kad sunki lėtinė liga neabejotinai sukėlė negrįžtamą organizmo pakenkimą, dėl kurio jis negali funkcionuoti; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
+ 
 
 
 
 
-3) kai gydytojų konsiliumas nusprendė, kad sunki lėtinė liga neabejotinai sukėlė negrįžtamą gyvybiškai svarbių organų pakenkimą, dėl kurio šie organai negali funkcionuoti;
+3) jeigu pacientas įstatymų nustatyta tvarka yra pareiškęs nesutikimą, kad būtų gaivinamas, ir yra gydytojų konsiliumo pritarimas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
+ 
 
 
 
 
-4) jeigu pacientas įstatymų nustatyta tvarka yra pareiškęs nesutikimą, kad būtų gaivinamas, ir yra gydytojų konsiliumo pritarimas;
-
-
-
-
-5) tais atvejais, kai gaivinimas kelia tiesioginę grėsmę kritinę būklę nustačiusio asmens gyvybei.
-
+4) tais atvejais, kai gaivinimas kelia tiesioginę grėsmę kritinę būklę nustačiusio asmens gyvybei.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
+ 
 
 
 
 
 
-2. Jeigu dėl šio straipsnio 1 dalies 1, 2, 3 ir 4 punktuose nustatytų sąlygų yra abejonių, kritinę būklę nustatęs asmuo privalo pradėti gaivinimą.
+
+2. Jeigu dėl šio straipsnio 1 dalies 1, 2, 3 punktuose nustatytų sąlygų yra abejonių, kritinę būklę nustatęs asmuo privalo pradėti gaivinimą. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
  
 
 
@@ -307,18 +318,15 @@ Leidžiama nutraukti gaivinimą:
 
 
 
-13 straipsnis. Draudimas gaivinti
+13 straipsnis. Sąlygos, kurioms esant asmuo gali būti negaivinamas
 
 
-1. Gydytojų konsiliumui nusprendus, kad nėra pagrindo abejoti, jog gyvybiškai svarbūs mirštančiojo organai yra negrįžtamai pakenkti ligos ir dėl to negali funkcionuoti, gaivinti draudžiama.
+Gydytojų konsiliumui nusprendus, kad nėra pagrindo abejoti, jog mirštančiojo organizmas yra negrįžtamai pakenktas ligos ir dėl to negali funkcionuoti, asmuo gali būti negaivinamas. 
 
 
-
-
-2. Draudžiama gaivinti asmenį, kuriam įvykdyta mirties bausmė.
+Straipsnio pakeitimai:
+Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
  
-
-
 
 
 
@@ -386,12 +394,9 @@ Leidžiama nutraukti gaivinimą:
 
 
 
-3. Apie asmens, kuriam įvykdyta mirties bausmė, mirties faktą pranešama institucijoms, numatytoms bausmių vykdymą reglamentuojančiuose įstatymuose, šių įstatymų nustatyta tvarka.
-
-
-
-
-4. Apie žmogaus mirties faktą turi būti pranešta jo giminėms ar artimiesiems įstatymų nustatyta tvarka.
+3. Apie žmogaus mirties faktą turi būti pranešta jo giminėms ar artimiesiems įstatymų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
  
 
 
@@ -556,7 +561,10 @@ Teisiniai mirties registravimo pagrindai yra:
 
 
 
-5. Asmens, kuriam įvykdyta mirties bausmė, medicininiame mirties liudijime mirties vieta nenurodoma.
+5. Neteko galios nuo 1999-06-23
+Straipsnio dalies naikinimas:
+Nr. VIII-1214, 1999-06-08, Žin. 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
+ 
 
 
 
@@ -735,3 +743,13 @@ Lietuvos Respublikos Vyriausybė ir Sveikatos apsaugos ministerija iki 1997 m. r
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
+Lietuvos Respublikos žmogaus mirties registravimo ir kritinių būklių įstatymo 11, 13, 14 ir 17 straipsnių pakeitimo įstatymas
