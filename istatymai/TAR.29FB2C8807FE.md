@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 1996-07-05 iki 1997-07-22
+Suvestinė redakcija nuo 1997-07-23 iki 1997-12-23
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -862,7 +862,10 @@ VI SKIRSNIS
 
 
 
-6) prievolių perėmimas ir perėmimo terminai;
+6) prievolių, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka, perėmimas ir perėmimo terminai;
+Straipsnio punkto pakeitimai:
+Nr. VIII-377, 1997-07-02, Žin., 1997, Nr. 69-1738 (1997-07-23), i. k. 0971010ISTAVIII-377
+ 
 
 
 
@@ -975,7 +978,10 @@ Praėjus ne mažiau kaip dviems mėnesiams nuo tos dienos, kai trečią kartą b
 
 
 
-2) baigia vykdyti prievoles pagal anksčiau sudarytus sandorius ir sudaro naujus sandorius pagal savo kompetenciją;
+2) baigia vykdyti prievoles, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka, pagal anksčiau sudarytus sandorius ir sudaro naujus sandorius pagal savo kompetenciją;
+Straipsnio punkto pakeitimai:
+Nr. VIII-377, 1997-07-02, Žin., 1997, Nr. 69-1738 (1997-07-23), i. k. 0971010ISTAVIII-377
+ 
 
 
 
@@ -1074,3 +1080,8 @@ Dėl Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA00I-1403
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-377, 1997-07-02, Žin., 1997, Nr. 69-1738 (1997-07-23), i. k. 0971010ISTAVIII-377
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 ir 21 straipsnių papildymo įstatymas
