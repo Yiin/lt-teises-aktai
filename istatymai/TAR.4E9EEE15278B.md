@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B"
 
 # Lietuvos Respublikos hipotekos įstatymas
 
-Suvestinė redakcija nuo 1994-09-30 iki 1996-10-15
+Suvestinė redakcija nuo 1996-10-16 iki 1997-07-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 200-0; Žin. 1992, Nr.31-951, i. k. 0921010ISTA00I-2936
  
@@ -30,10 +30,15 @@ I. BENDRIEJI NUOSTATAI
 2 straipsnis. Hipotekinis kreditorius turi teisę iki galo patenkinti savo reikalavimą iš įkeisto turto pirmiau už kitus kreditorius. Jei pardavus įkeistą turtą varžytinėse gaunama mažesnė suma nei priklauso kreditoriui, jis turi teisę nukreipti savo reikalavimą į kitą skolininko turtą lygiomis teisėmis su kitais kreditoriais.
  
 
-3 straipsnis. Turtas įkeičiamas sudarant sutartį tarp kreditoriaus ir įkeičiamo turto savininko arba surašant hipotekos lakštą, kuris atstoja sutartį.
+3 straipsnis. Turtas įkeičiamas sudarant sutartį tarp kreditoriaus ir įkeičiamo turto savininko ar asmens, turinčio į tą turtą patikėjimo teisę (toliau vadinama - savininkas), arba surašant hipotekos lakštą.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 4 straipsnis. Jei turtas įkeičiamas kelis kartus, kreditorių reikalavimai patenkinami pagal jų hipotekos įregistravimo datą eilės tvarka.
+Hipotekinio reikalavimo suma, palūkanos ir delspinigiai negali būti didinami, taip pat skolinio įsipareigojimo įvykdymo terminas negali būti sutrumpintas hipotekinio kreditoriaus ir skolininko ar įkeisto turto savininko susitarimu be visų paskesnės eilės kreditorių raštiško sutikimo.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 5 straipsnis. Įkeisto turto nuosavybės teisei perėjus kitam savininkui, hipoteka seka paskui turtą.
@@ -57,8 +62,10 @@ II. HIPOTEKOS OBJEKTAS
 Norint įkeisti dalį turto, toji dalis turi būti tiksliai apibrėžta ir įregistruota turto registre kaip atskiras objektas.
 Turtas, priklausantis bendrosios nuosavybės teise, gali būti įkeistas tik visiems bendrasavininkiams sutikus.
 Pagal Hipotekos įstatymą gali būti įkeičiamas bet koks turtas, išskyrus tą, į kurį pagal Lietuvos Respublikos įstatymus negali būti nukreipiamas išieškojimas. 
+Jeigu įkeistas turtas pereina valstybės arba savivaldybės nuosavybėn paveldėjimo teise ar įkeistas bešeimininkis turtas perduodamas teismo sprendimu valstybės arba savivaldybės nuosavybėn, kreditorius turi teisę reikalauti įvykdyti skolinį įsipareigojimą iš valstybės arba savivaldybės ne daugiau nei įkeisto turto vertė.
 Straipsnio pakeitimai:
 Nr. I-594, 1994-09-22, Žin., 1994, Nr. 76-1419 (1994-09-30), i. k. 0941010ISTA000I-594
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 9 straipsnis. Nekilnojamojo turto įkeitimas apima:
@@ -66,13 +73,17 @@ Nr. I-594, 1994-09-22, Žin., 1994, Nr. 76-1419 (1994-09-30), i. k. 0941010ISTA0
 2) vėliau prie to turto jo savininko valia prijungtus ar dėl gamtinių įvykių prisijungusius objektus;
 3) žemės, ant kurios stovi įkeistasis pastatas, nuomos teisę.
 Hipoteka neapima turto, kurį prie pagrindinio objekto po jo įkeitimo prijungė nuomininkas.
-Įkeičiant žemę, hipoteka neapima ant jos pastatytų statinių bei iš šios žemės gaunamų pajamų.
+Įkeičiant žemę, hipoteka neapima ant jos pastatytų statinių, nesančių žemės sklypo priklausiniais, bei iš šios žemės gaunamų pajamų.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 10 straipsnis. Kilnojamojo turto įkeitimas apima įkeitimo momentu registre nurodytos sudėties turtą.
  
 
-11 straipsnis. Įmonės, kaip kapitalo, įkeitimas apima tokį įmonės turtą, kuris įtrauktas į specialų įmonės finansinį fondą.
+11 straipsnis. Įmonės įkeitimas apima tą įmonės turtą, kuris įrašytas į įmonės įkeisto turto sąrašą.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 12 straipsnis. Įkeisto turto savininkas neturi teisės mažinti įkeisto turto vertės. Jei įkeisto turto vertė sumažinama taip, kad kyla pavojus, jog nebebus galima iki galo atlyginti hipotekinio kreditoriaus reikalavimo, kreditorius gali teismine tvarka reikalauti iš įkeisto turto savininko anksčiau nei sueis sutartas terminas įvykdyti tą skolinio įsipareigojimo dalį, kuria sumažėjo įkeisto turto vertė.
@@ -80,6 +91,9 @@ Hipoteka neapima turto, kurį prie pagrindinio objekto po jo įkeitimo prijungė
 
 13 straipsnis. Jeigu įkeisto turto vertė sumažėja ar žūva dėl kitų priežasčių (gaisras, stichinė nelaimė ar kita), kreditorius turi teisę į turto draudimo sumą, neviršijančią reikalavimo. Įkeisto turto draudimo suma turi būti pervedama į depozitinę hipotekos įstaigos sąskaitą ir išmokama kreditoriams tokia pat eile, kokia turėjo būti grąžinta skola.
 Gavus raštišką visų kreditorių sutikimą, draudimo suma gali būti išmokama ir įkeisto turto savininkui.
+Įkeisto turto savininkui nutraukus įkeisto turto draudimo sutartį, pažymėtą hipotekinėje sutartyje, hipotekinis kreditorius turi teisę kreiptis į hipotekos įstaigą dėl pirmalaikio skolos išieškojimo ta pačia tvarka, kaip ir suėjus skolos grąžinimo terminui.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 III. HIPOTEKOS RŪŠYS
@@ -126,43 +140,35 @@ Bendrosios hipotekos sutartyje turi būti nurodyta įkeistų objektų pardavimo 
 Sąlyga gali būti nustatoma tiek kreditoriui, tiek skolininkui.
  
 
-IV. HIPOTEKOS ĮSTAIGOS
- 
-
-21 straipsnis. Hipotekos įstaigos vykdo šias funkcijas: registruoja hipotekas, išieško skolą kreditoriaus naudai, kaupia ir saugo informaciją apie hipotekas bei teikia ją suinteresuotiems asmenims.
- 
-
-22 straipsnis. Hipotekos įstaigos steigiamos Lietuvos Respublikos Vyriausybės nutarimu ir yra pavaldžios Teisingumo ministerijai. Hipotekos įstaigoms vadovauja hipotekos teisėjai, kuriuos skiria Lietuvos Respublikos teisingumo ministras. Hipotekos teisėjai privalo turėti teisinį išsilavinimą. 
-Hipotekos teisėjas tvirtina turto įkeitimo sutartis, priima nutarimus dėl hipotekos registravimo, skelbia turto pardavimą iš viešųjų varžytinių, tvirtina turto pardavimo varžytinėse aktą, paskirsto kreditoriams gautas už parduotą turtą sumas, priima nutarimus dėl hipotekos užbaigimo, taip pat atlieka kitus veiksmus.
-Hipotekos teisėjo priimti nutarimai ar atlikti veiksmai, jeigu jie varžo kieno nors teises, gali būti apskųsti miesto ar rajono apylinkės teismui pagal Lietuvos Respublikos civilinio proceso kodeksą.
- 
-
-23 straipsnis. Hipotekos įstaigose pildomi šie dokumentai: hipotekos knygos, hipotekos bylos, dokumentų registracijos žurnalas bei abėcėlinė įkeisto turto savininkų rodyklė. Hipotekos įstaigų dokumentų formas bei pildymo tvarką nustato Lietuvos Respublikos Vyriausybė ir Teisingumo ministerija.
- 
-
-24 straipsnis. Hipotekos įstaigų teikiamų paslaugų apmokėjimo tvarką bei rinkliavų dydį nustato Lietuvos Respublikos Vyriausybė.
- 
-
-25 straipsnis. Jeigu dėl hipotekos įstaigos darbuotojų kaltės, jiems einant tarnybines pareigas, padaryta žala hipotekiniams kreditoriams, skolininkams ar kitiems asmenims, tai šią žalą hipotekos įstaiga privalo atlyginti, jeigu ji neatlyginta pagal įstatymus, sandorius pripažinus negaliojančiais ir sugrąžinus šalis į buvusią turtinę padėtį, ar kitu būdu.
-Atlyginusi žalą, hipotekos įstaiga turi regreso teisę į kaltus darbuotojus, kurie privalo atlyginti įstaigai žalą darbo įstatymų nustatytu dydžiu ir tvarka.
+4 skyrius. Neteko galios nuo 1996-10-16
+Skyriaus naikinimas:
+Nr. I-1542, 1996-09-24, Žin. 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 V. HIPOTEKOS ĮREGISTRAVIMO TVARKA
  
 
-26 straipsnis. Hipoteka įsigalioja nuo jos įregistravimo hipotekos knygoje. Bet kokie įrašai hipotekos knygoje atliekami hipotekos teisėjo nutarimu.
+26 straipsnis. Hipoteka įsigalioja nuo jos įregistravimo hipotekos knygoje. Bet kokie įrašai hipotekos knygoje atliekami hipotekos teisėjo nutartimi.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 27 straipsnis. Hipotekos teisėjas, gavęs prašymą įregistruoti hipoteką bei kitus reikalingus dokumentus, ne vėliau kaip kitą dieną privalo priimti nutarimą dėl hipotekos registravimo.
  
 
-28 straipsnis. Jei hipotekai įregistruoti susidaro kliūčių, hipotekos teisėjas prašymą įregistruoti hipoteką gali rašytiniu motyvuotu nutarimu atmesti arba paskirti terminą kliūtims pašalinti. Jei kliūtys iki paskirto termino nepašalinamos, prašymas atmetamas.
+28 straipsnis. Jei hipotekai įregistruoti susidaro kliūčių, hipotekos teisėjas prašymą įregistruoti hipoteką gali rašytine motyvuota nutartimi atmesti arba paskirti terminą kliūtims pašalinti. Jei kliūtys iki paskirto termino nepašalinamos, prašymas atmetamas.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
-29 straipsnis. Visi įrašai hipotekos knygoje turi būti padaryti nutarimo priėmimo arba kitą darbo dieną.
+29 straipsnis. Visi įrašai hipotekos knygoje turi būti padaryti nutarties priėmimo arba kitą darbo dieną.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
-30 straipsnis. Hipoteką įregistravus, hipotekos įstaiga per 3 dienas privalo informuoti apie tai įkeisto turto registro tarnybą.
+30 straipsnis. Hipoteką įregistravus, hipotekos įstaiga per 24 valandas apie tai privalo pranešti įkeisto turto registrui.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 31 straipsnis. Hipotekos įstaigos įspėjimai ir pranešimai, siunčiami suinteresuotiems asmenims, turi būti įteikti asmeniškai. Pranešimo gavimą asmuo patvirtina parašu.
@@ -179,15 +185,19 @@ apsaugine hipoteka,
 lakštine hipoteka.
  
 
-34 straipsnis. Apsauginė hipoteka įregistruojama remiantis turto įkeitimo sutartimi. Sutartyje turi būti nurodyta:
+34 straipsnis. Apsauginė hipoteka įregistruojama remiantis hipotekine sutartimi. Sutartyje turi būti nurodyta:
 1) sutarties sudarymo data;
 2) sutarties šalys;
-3) sutarties turinys: įkeičiamasis turtas, nurodant esamas kitokias teises į jį; jo buvimo vieta, registracijos numeris; turtu apsaugojamos skolos suma arba maksimalus apsaugojamas įsipareigojimų dydis ir paskolos naudojimo sritis; įsipareigojimo įvykdymo terminas; palūkanos ir jų mokėjimo terminai; jei įsipareigojimas bus vykdomas pagal reikalavimą, – nuo kada kreditorius gali reikalauti įvykdyti įsipareigojimą; jei bus registruojama sąlyginė hipoteka, – tiksliai nurodyta sąlyga, kuriai esant hipoteka galios, arba sąlyga, kurią įvykdžius hipoteka įsigalios, taip pat sąlygos, dėl kurių vienos iš šalių pareiškimu turi būti susitarta.
+3) sutarties turinys: įkeičiamasis turtas, nurodant esamas kitokias teises į jį; jo buvimo vieta, registracijos numeris; turtu apsaugojamos skolos suma arba maksimalus apsaugojamas įsipareigojimų dydis ir paskolos naudojimo sritis; įsipareigojimo įvykdymo terminas; palūkanos ir jų mokėjimo terminai; jei įsipareigojimas bus vykdomas pagal reikalavimą, - nuo kada kreditorius gali reikalauti įvykdyti įsipareigojimą; jei bus registruojama sąlyginė hipoteka, - tiksliai nurodyta sąlyga, kuriai esant hipoteka galios, arba sąlyga, kurią įvykdžius hipoteka įsigalios, taip pat sąlygos, dėl kurių vienos iš šalių pareiškimu turi būti susitarta.
 Notariškai patvirtinus sutartį, hipotekos teisėjo nutarimu apsauginė hipoteka registruojama hipotekos knygoje.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
-35 straipsnis. Lakštinė hipoteka įregistruojama remiantis paskolos sutartimi arba vienašališku įkeičiamo turto savininko prašymu, kuriame išdėstytos turto įkeitimo sąlygos. Lakštinę hipoteką galima įregistruoti tik tuo atveju, jeigu yra nurodyta įkeitimu apsaugomo skolinio įsipareigojimo suma ir įvykdymo data.
+35 straipsnis. Lakštinė hipoteka įregistruojama hipotekos įstaigoje remiantis hipotekine sutartimi arba vienašališku įkeičiamo turto savininko prašymu, kuriame išdėstytos turto įkeitimo sąlygos. Lakštinę hipoteką galima įregistruoti tik tuo atveju, jeigu yra nurodyta įkeitimu apsaugomo skolinio įsipareigojimo suma ir įvykdymo data.
 Hipotekos teisėjui priėmus nutarimą registruoti lakštinę hipoteką, daromas įrašas hipotekos knygoje ir išrašomas hipotekos lakštas.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 36 straipsnis. Hipotekos lakšte turi būti nurodyta:
@@ -208,7 +218,9 @@ Pareikštinis hipotekos lakštas jo turėtojo pageidavimu bet kuriuo momentu gal
 38 straipsnis. Lakštinę hipoteką galima perleisti, įkeisti ar reikalauti vykdyti skolinį įsipareigojimą tik pateikus hipotekos lakštą. Kreditoriui nepateikus hipotekos lakšto, skolininkas savo įsipareigojimo gali nevykdyti.
  
 
-39 straipsnis. Įkeitimo sutarties šalių raštišku prašymu apsauginė hipoteka gali būti perregistruota į lakštinę hipoteką. Jei yra įkeistas svetimas turtas, hipotekai perregistruoti reikalingas raštiškas įkeisto turto savininko sutikimas. Perregistruotai lakštinei hipotekai paliekamas apsauginės hipotekos eiliškumas kitų hipotekų atžvilgiu. Apsauginė hipoteka turi būti išregistruota prieš performinant ją į lakštinę.
+39 straipsnis. Įkeitimo sutarties šalių raštišku prašymu apsauginė hipoteka gali būti perregistruota į lakštinę hipoteką. Jei yra įkeistas svetimas turtas, hipotekai perregistruoti reikalingas raštiškas įkeisto turto savininko sutikimas. Perregistruotai lakštinei hipotekai paliekamas apsauginės hipotekos eiliškumas kitų hipotekų atžvilgiu.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 40 straipsnis. Jeigu įregistruotos lakštinės hipotekos skolinis reikalavimas papildomai apsaugomas dar kitu turtu, į tą patį lakštą įrašomas ir papildomai įkeičiamas turtas.
@@ -234,19 +246,28 @@ Pareikštinis hipotekos lakštas jo turėtojo pageidavimu bet kuriuo momentu gal
 45 straipsnis. Jeigu hipotekos lakšto tekstas nesutampa su hipotekos knygos įrašu, tai sprendžiamąją galią turi hipotekos knygos įrašas. Tačiau jei sąžiningas lakšto įgyjėjas dėl neteisingai užpildyto lakšto turi nuostolių, tai šie nuostoliai jam turi būti atlyginti įstatymo nustatyta tvarka.
  
 
-46 straipsnis. Jeigu hipotekos lakštas yra prarastas, skolininkas ar kreditorius gali prašyti miesto, rajono apylinkės teismą pripažinti prarastą lakštą negaliojančiu ir atstatyti pagal jį teises Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka (šaukiamoji teisena).
+46 straipsnis. Jeigu hipotekos lakštas yra prarastas, skolininkas ar kreditorius gali prašyti apylinkės teismą pripažinti prarastą lakštą negaliojančiu ir atstatyti pagal jį teises Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka (šaukiamoji teisena). 
 Jei teisme buvo pripažintas negaliojančiu hipotekos lakštas, pagal kurį dar turi būti vykdomas skolinis įsipareigojimas, hipotekos įstaiga suinteresuotam asmeniui išduoda naują hipotekos lakštą.
 Jei teisme buvo pripažintas negaliojančiu jau išmokėtas hipotekos lakštas, hipotekos įstaiga tokio nutarimo pagrindu panaikina įkeitimo įrašą hipotekos knygoje ir hipoteka užbaigiama.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
-VI. HIPOTEKOS PERLEIDIMAS IR UŽSTATYMAS
+VI. HIPOTEKOS PERLEIDIMAS IR ĮKEITIMAS 
+Pakeistas skyriaus pavadinimas:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 47 straipsnis. Hipotekinį reikalavimą kreditorius gali perleisti kitam asmeniui, išskyrus atvejus, kai šalių susitarimu hipotekos knygoje buvo įrašyta, jog kreditorius neturi teisės tai daryti. Toks šalių susitarimas negalimas, jei reikalavimas apsaugomas lakštine hipoteka.
 Asmeniui, įgijusiam hipotekinį reikalavimą, pereina visos ankstesnio hipotekinio kreditoriaus teisės.
  
 
-48 straipsnis. Perleisti vardinį hipotekos lakštą galima hipotekos įstaigoje arba pas notarą vertybiniams popieriams perduoti nustatyta indosamento tvarka.
+48 straipsnis. 
+
+Vardinis hipotekos lakštas perleidžiamas hipotekos įstaigoje vertybiniams popieriams perleisti nustatyta indosamento tvarka.
+
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 49 straipsnis. Perleidžiant apsauginės hipotekos reikalavimą, hipotekos įstaigoje turi būti sudaroma perleidimo sutartis, kuri įsigalioja nuo jos įregistravimo hipotekos knygoje dienos. Perleidimo įraše hipotekos knygoje turi būti nurodyta: hipotekos įstaigos pavadinimas, įrašymo data, įkeistas turtas ir jo savininkas, asmuo, įgyjantis hipotekinį reikalavimą, asmuo, perleidžiantis hipotekinį reikalavimą.
@@ -258,30 +279,72 @@ Asmeniui, įgijusiam hipotekinį reikalavimą, pereina visos ankstesnio hipoteki
 51 straipsnis. Kai turtas įkeistas kelis kartus, vienas apsauginės hipotekos kreditorius gali perleisti savo eilės pirmumą kitam to paties skolininko hipotekiniam kreditoriui. Jeigu kreditoriaus, perleidžiančio savo eilės pirmumą, reikalavimo suma yra mažesnė nei perėmėjo, būtinas tolesnės nei perleidėjo ir pirmesnės nei perėmėjo eilės kreditorių notariškai patvirtintas sutikimas.
  
 
-52 straipsnis. Hipotekinis kreditorius gali užstatyti hipotekos lakštą gaunamai paskolai apsaugoti. Užstatant hipotekos lakštą, skolos grąžinimo terminas negali būti ilgesnis už hipotekos lakšte nurodytą skolos grąžinimo terminą. Palūkanas, priklausančias pagal lakštą, gauna lakšto turėtojas. Gaunamai paskolai apsaugoti negali būti užstatomas apsauginės hipotekos reikalavimas.
+52 straipsnis. Hipotekinis kreditorius gali įkeisti savo hipotekinį reikalavimą gaunamai paskolai apsaugoti. Įkeičiant hipotekinį reikalavimą, skolos grąžinimo terminas negali būti ilgesnis už hipotekinėje sutartyje nurodytą skolos grąžinimo terminą.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 VII. SKOLOS IŠIEŠKOJIMAS HIPOTEKINIO KREDITORIAUS NAUDAI 
  
 
-53 straipsnis. Sutartyje nustatytu terminu skolininkui neįvykdžius įsipareigojimo, kreditorius gali kreiptis į hipotekos įstaigą dėl skolos išieškojimo. Hipotekos įstaiga įspėja skolininką ir įkeisto turto savininką, kad negrąžinus skolos per du mėnesius, įkeistas turtas bus parduotas iš varžytinių.
- 
- 
-
-54 straipsnis. Nuo įspėjimo momento įkeisto turto savininkas netenka teisės perleisti turtą kitiems asmenims, taip pat įkeisti, išnuomoti ar kitokiomis teisėmis jį apsunkinti. Sutartys, sudarytos pažeidžiant šiuos draudimus, teismine tvarka gali būti pripažintos negaliojančiomis.
+53 straipsnis. Jeigu skolininkas sutartyje nustatytu terminu neįvykdo įsipareigojimo, kreditorius gali kreiptis į hipotekos įstaigą dėl skolos išieškojimo. Hipotekos teisėjas per 3 dienas priima nutartį areštuoti įkeistą turtą ir areštavimo ar kitą darbo dieną praneša turto registrui(-ams) bei įspėja skolininką ir įkeisto turto savininką, kad, negrąžinus skolos per 1 mėnesį, įkeistas turtas bus parduotas iš varžytinių.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
-55 straipsnis. 
-Pajamos, gautos iš įkeisto turto po hipotekos įstaigos įspėjimo įteikimo dienos, apskaitomos atskirai nuo įkeisto turto ir panaudojamos visų esamų kreditorių reikalavimams tenkinti.
+54 straipsnis. Nuo įkeisto turto arešto momento įkeisto turto savininkas netenka teisės perleisti turtą kitiems asmenims, taip pat įkeisti, išnuomoti ar kitokiomis teisėmis jį apsunkinti, kirsti įkeistame žemės sklype augantį mišką, parduoti ar naikinti daiktus, kurie įstatymo laikomi turto priklausiniais, reikalauti padalinti įkeistą turtą ar atskirti priklausinius nuo įkeisto turto. Sutartys, sudarytos pažeidžiant šiuos draudimus, teismine tvarka gali būti pripažintos negaliojančiomis. 
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
-56 straipsnis. Įspėjime nurodytu terminu skolos negrąžinus, kreditorius turi pateikti hipotekos įstaigai prašymą išieškoti skolą. Gavęs prašymą, hipotekos teisėjas priima nutarimą už skolą įkeistą turtą parduoti iš varžytinių.
+55 straipsnis. Pajamos, gautos iš įkeisto turto po šio turto arešto, apskaitomos atskirai nuo įkeisto turto ir panaudojamos visų esamų hipotekinių kreditorių reikalavimams tenkinti.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
+ 
+
+56 straipsnis. Negrąžinus skolos per 1 mėnesį nuo įkeisto turto arešto dienos, kreditorius pakartotinai kreipiasi su prašymu į hipotekos įstaigą dėl skolos išieškojimo. Gavęs prašymą, hipotekos teisėjas per 3 dienas priima nutartį už skolą įkeistą turtą parduoti iš varžytinių ir kitą darbo dieną praneša apie tai turto registrui. Hipotekos teisėjo nutartis kartu su kreditoriaus prašymu išieškoti skolą bei turto registro bylos kopija per 3 dienas išsiunčiama teismo antstolių kontorai prie apylinkės teismo.
+Jeigu 2 mėnesiams praėjus nuo įkeisto turto arešto kreditorius nesikreipė dėl skolos išieškojimo, hipotekos teisėjas priima nutartį panaikinti įkeisto turto areštą ir nutarties priėmimo ar kitą darbo dieną praneša apie tai turto registrui.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 57 straipsnis. Apie varžytines raštiškai turi būti informuoti visi hipotekiniai kreditoriai, kurių reikalavimams patenkinti yra įkeistas šis turtas.
  
 
-58 straipsnis. Varžytinės skelbiamos ir vykdomos Lietuvos Respublikos civilinio proceso kodekso ir šio įstatymo nustatyta tvarka. Jei turto kaina, gauta varžytinėse, bet kuriam hipotekiniam kreditoriui pasirodo per maža, jis gali per 10 dienų nuo varžytinių dienos reikalauti naujų varžytinių, pasiūlęs ne mažiau kaip dešimtadaliu didesnę kainą už tą, kuria turtas buvo parduotas. Kreditoriams varžytinių neužprotestavus, hipotekos teisėjas patvirtina turto pardavimo varžytinėse aktą ir per 3 dienas priima nutarimą baigti visas hipotekas bei informuoja apie tai turto registro tarnybą.
+58 straipsnis. Varžytinės skelbiamos ir vykdomos Civilinio proceso kodekso nustatyta tvarka. Jas vykdo teismo antstolis pagal hipotekos įstaigos, įregistravusios hipoteką, buvimo vietą.
+Straipsnio pakeitimai:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
+ 
+
+581 straipsnis. Kreditorius, padavęs prašymą už skolą įkeistą turtą parduoti iš varžytinių, ne vėliau kaip prieš 7 dienas iki varžytinių privalo raštu pranešti teismo antstoliui įkeitimo sumą bei nurodyti prašomą patenkinti reikalavimų sumą.
+Asmenys, kurie turi vykdomuosius dokumentus kitose bylose, gali prisijungti prie išieškojimo paduodami prašymą teismo antstoliui šio straipsnio pirmojoje dalyje nurodytu terminu
+Papildyta straipsniu:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
+ 
+
+582 straipsnis. Teismo antstolis kiekvienam parduodamam turtui surašo varžytinių lapą, kuriame nurodo:
+1) parduodamą iš varžytinių įkeistą turtą;
+2) turtui paliekamus apribojimus (nuomą, servitutus ir kita) bei prievoles;
+3) įkainojimo sumą;
+4) pradinę turto kainą per varžytines.
+Kreditorių reikalavimai surašomi jų tenkinimo eilės tvarka nurodant tikslias sumas
+Papildyta straipsniu:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
+ 
+
+583 straipsnis. Varžytinės pradedamos nuo pradinės turto kainos, kuri gali būti turto įkainojimo suma arba bendroji suma, priklausomai nuo to, kuri iš jų yra didesnė. Bendrąją sumą sudaro turtą apribojanti skola bei vykdymo išlaidos
+Papildyta straipsniu:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
+ 
+
+584 straipsnis. Jeigu turto kaina gauta varžytinėse, bet kuriam hipotekiniam kreditoriui pasirodo per maža, jis gali per 10 dienų nuo varžytinių dienos reikalauti naujų varžytinių, pasiūlęs ne mažiau kaip dešimtadaliu didesnę kainą už tą, už kurią turtas buvo parduotas. Kreditoriams varžytinių neužprotestavus, vyresnysis teismo antstolis patvirtina turto pardavimo varžytinėse aktą ir ne vėliau kaip kitą darbo dieną perduoda jį hipotekos įstaigai bei išsiunčia pirkėjui
+Papildyta straipsniu:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
+ 
+
+585 straipsnis. Hipotekos teisėjas per 3 darbo dienas nuo turto pardavimo varžytinėse akto gavimo dienos priima nutartį baigti hipoteką.
+Papildyta straipsniu:
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
  
 
 59 straipsnis. Lėšos už varžytinėse nupirktą turtą įmokamos į hipotekos įstaigos depozitinę sąskaitą ir hipotekos teisėjo nutarimu per 3 dienas po turto pardavimo akto patvirtinimo paskirstomos hipotekiniams kreditoriams pagal jų reikalavimų garantavimo eiliškumą. Tą pačią dieną įregistruotų hipotekų kreditorių reikalavimai patenkinami proporcingai jų reikalavimų sumai.
@@ -351,4 +414,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-594, 1994-09-22, Žin., 1994, Nr. 76-1419 (1994-09-30), i. k. 0941010ISTA000I-594
 Dėl Lietuvos Respublikos hipotekos įstatymo 8 straipsnio pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1542, 1996-09-24, Žin., 1996, Nr. 100-2264 (1996-10-16), i. k. 0961010ISTA00I-1542
+Lietuvos Respublikos hipotekos įstatymo pakeitimo ir papildymo įstatymas
 
