@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EA056AD6E9DA"
 
 # Lietuvos Respublikos valstybinės mokesčių inspekcijos įstatymas
 
-Suvestinė redakcija nuo 1993-11-19 iki 1994-11-08
+Įstatymas netenka galios 1995-07-26:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-975, 1995-06-28, Žin., 1995, Nr. 61-1526 (1995-07-26); Žin., 1996, Nr. 78-0 (1996-08-16), i. k. 0951010ISTA000I-975
+Dėl Lietuvos Respublikos mokesčių administravimo įstatymo įsigaliojimo
+ 
+Suvestinė redakcija nuo 1994-11-09 iki 1995-07-25
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 30-0; Žin. 1990, Nr.19-493, i. k. 0901010ISTA000I-324
  
@@ -53,9 +58,19 @@ Valstybinė mokesčių inspekcija:
 
 5) organizuoja konfiskuoto, bešeimininkio ir valstybės paveldėto turto bei lobių apskaitą, įkainojimą bei realizavimą.;
 
-6) tikrina, ar ūkiniai subjektai nepažeidžia paskolų sutartis reguliuojančių įstatymų. 
+6) tikrina, ar ūkiniai subjektai nepažeidžia paskolų sutartis reguliuojančių įstatymų; 
 Papildyta straipsnio punktu:
 Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
+ 
+
+7) išduoda pažymas apie pajamų deklaravimą asmenims, įsigijusiems arba įsigyjantiems brangų turtą;
+Papildyta straipsnio punktu:
+Nr. I-608, 1994-10-20, Žin., 1994, Nr. 86-1619 (1994-11-09), i. k. 0941010ISTA000I-608
+ 
+
+8) kontroliuoja, kaip įmonės, įstaigos ir kiti ūkio subjektai vykdo Lietuvos Respublikos įstatymo „Dėl brangų turtą įsigijusių arba įsigyjančių Lietuvos Respublikos gyventojų pajamų deklaravimo“ 8 straipsnio reikalavimus. 
+Papildyta straipsnio punktu:
+Nr. I-608, 1994-10-20, Žin., 1994, Nr. 86-1619 (1994-11-09), i. k. 0941010ISTA000I-608
  
 
 III. Valstybinės mokesčių inspekcijos teisės
@@ -75,7 +90,11 @@ Valstybinės mokesčių inspekcijos pareigūnai turi teisę:
 
 5) juridiniams ir fiziniams asmenims duoti privalomus įvykdyti nurodymus mokesčių ir kitų įmokų į biudžetus apskaičiavimo bei mokėjimo klausimais;
 
-6) surašyti administracinių teisės pažeidimų protokolus bylose, kurias įstatymas priskiria valstybinės mokesčių inspekcijos kompetencijai.
+6) surašyti administracinių teisės pažeidimų protokolus bylose, kurias įstatymas priskiria valstybinės mokesčių inspekcijos kompetencijai;
+
+7) pareikalauti iš gyventojų, po 1990 m. kovo 11 d. visais būdais įsigijusių brangų turtą, pateikti pajamų deklaraciją. 
+Papildyta straipsnio punktu:
+Nr. I-608, 1994-10-20, Žin., 1994, Nr. 86-1619 (1994-11-09), i. k. 0941010ISTA000I-608
  
 
 5 straipsnis. 
@@ -88,9 +107,14 @@ Valstybinės mokesčių inspekcijos viršininkas ir jo pavaduotojas, be šio įs
 
 3) įstatymo nustatyta tvarka skirti administracines nuobaudas;
 
-4) teikia pasiūlymus įmonių rejestro tvarkytojams už Lietuvos Respublikos įstatymų numatytus pažeidimus atšaukti įmonės įregistravimą įstatymų nustatyta tvarka.
+4) teikia pasiūlymus įmonių rejestro tvarkytojams už Lietuvos Respublikos įstatymų numatytus pažeidimus atšaukti įmonės įregistravimą įstatymų nustatyta tvarka;
 Papildyta straipsnio punktu:
 Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
+ 
+
+5) kreiptis į teismą dėl turto, įsigyto nedeklaravus pajamų, kai pajamų deklaracijos duomenys yra neteisingi arba pajamos gautos neteisėtai, registravimo panaikinimo ir dėl nesumokėtų mokesčių išieškojimo. 
+Papildyta straipsnio punktu:
+Nr. I-608, 1994-10-20, Žin., 1994, Nr. 86-1619 (1994-11-09), i. k. 0941010ISTA000I-608
  
 
 IV. Valstybinės mokesčių inspekcijos pareigūnų atsakomybė
@@ -123,4 +147,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
 Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-608, 1994-10-20, Žin., 1994, Nr. 86-1619 (1994-11-09), i. k. 0941010ISTA000I-608
+Dėl Lietuvos Respublikos valstybinės mokesčių inspekcijos įstatymo papildymo
 
