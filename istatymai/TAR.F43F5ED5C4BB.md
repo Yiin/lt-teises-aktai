@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F43F5ED5C4BB"
 
 # Lietuvos Respublikos karių materialinės atsakomybės įstatymas
 
+Suvestinė redakcija nuo 2003-05-01 iki 2006-12-31
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 64-1928, i. k. 1001010ISTAIII-1857
+ 
 LIETUVOS RESPUBLIKOS KARIŲ MATERIALINĖS ATSAKOMYBĖS ĮSTATYMAS
  
 2000 m. liepos 17 d. Nr. VIII-1857
@@ -264,7 +268,10 @@ KARIŲ MATERIALINĖ ATSAKOMYBĖ
 2. Kariai materialiai atsako už visą dėl jų kaltės krašto apsaugos sistemos, vidaus reikalų sistemos ar kitoms institucijoms padarytą žalą neatsižvelgiant į einamas pareigas šiais atvejais:
 
 
-1) kai žala padaryta nusikaltimu arba kai esant nusikaltimo sudėčiai atsisakoma iškelti baudžiamąją bylą, arba kai asmuo atleidžiamas nuo baudžiamosios atsakomybės nereabilituojančiais pagrindais;
+1) kai žala padaryta nusikalstama veika;
+Straipsnio punkto pakeitimai:
+Nr. IX-1421, 2003-04-03, Žin., 2003, Nr. 38-1666 (2003-04-24), i. k. 1031010ISTA0IX-1421
+ 
 
 
 
@@ -466,7 +473,10 @@ TREČIASIS SKIRSNIS
 
 
 
-3) nedelsdamas informuoti vadą (viršininką), paskyrusį tarnybinį patikrinimą, apie patikrinimo metu nustatytą veiką, turinčią nusikaltimo, administracinės teisės pažeidimo ar drausmės pažeidimo požymių;
+3) nedelsdamas informuoti vadą (viršininką), paskyrusį tarnybinį patikrinimą, apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos, administracinės teisės pažeidimo ar drausmės pažeidimo požymių;
+Straipsnio punkto pakeitimai:
+Nr. IX-1421, 2003-04-03, Žin., 2003, Nr. 38-1666 (2003-04-24), i. k. 1031010ISTA0IX-1421
+ 
 
 
 
@@ -1028,7 +1038,10 @@ VYKDYMO TVARKA
 26 straipsnis. Išskaitymų iš kario tarnybinio atlyginimo apribojimas
 
 
-1. Mėnesiniai išskaitymai už padarytą žalą negali viršyti 20 procentų profesinės karo tarnybos kario tarnybinio atlyginimo bei 50 procentų privalomosios karo tarnybos kario išmokų buitinėms išlaidoms. Kai žala padaryta nusikaltimu ir išieškojimas nėra nukreiptas į kitą turtą arba kai atliekami ir kiti išskaitymai, jei išieškojimas nėra nukreiptas į kario turtą, išskaitymai už padarytą žalą negali viršyti 50 procentų profesinės karo tarnybos kario tarnybinio atlyginimo ar 70 procentų privalomosios karo tarnybos kario išmokų buitinėms išlaidoms.
+1. Mėnesiniai išskaitymai už padarytą žalą negali viršyti 20 procentų profesinės karo tarnybos kario tarnybinio atlyginimo bei 50 procentų privalomosios karo tarnybos kario išmokų buitinėms išlaidoms. Kai žala padaryta nusikalstama veika ir išieškojimas nėra nukreiptas į kitą turtą arba kai atliekami ir kiti išskaitymai, jei išieškojimas nėra nukreiptas į kario turtą, išskaitymai už padarytą žalą negali viršyti 50 procentų profesinės karo tarnybos kario tarnybinio atlyginimo ar 70 procentų privalomosios karo tarnybos kario išmokų buitinėms išlaidoms.
+Straipsnio dalies pakeitimai:
+Nr. IX-1421, 2003-04-03, Žin., 2003, Nr. 38-1666 (2003-04-24), i. k. 1031010ISTA0IX-1421
+ 
 
 
 
@@ -1060,3 +1073,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1421, 2003-04-03, Žin., 2003, Nr. 38-1666 (2003-04-24), i. k. 1031010ISTA0IX-1421
+Lietuvos Respublikos karių materialinės atsakomybės įstatymo 7, 12 ir 26 straipsnių pakeitimo įstatymas
