@@ -206,8 +206,7 @@ Nr. IX-687,
  
             9
 straipsnis. Darbdavio pareiga įspėti darbuotoją apie samdos sutarties 
-nutraukimą
-
+nutraukimą 
 Darbdavys savo iniciatyva,
 jei nėra darbuotojo kaltės, gali nutraukti neterminuotą darbo sutartį įstatymų
 nustatyta tvarka tik prieš 2 mėnesius įspėjęs darbuotoją raštu. Darbuotojui,
@@ -358,7 +357,9 @@ organizuoti savo verslą;
 9) Lietuvos darbo biržos ir Lietuvos darbo rinkos
 mokymo tarnybos veiklai finansuoti;
 10) rezerviniam fondui, kuris naudojamas
-centralizuotai vykdomoms priemonėms, finansuoti.
+centralizuotai vykdomoms priemonėms, finansuoti;
+11) darbuotojų perkvalifikavimo išlaidoms iš dalies ar
+visiškai padengti Vyriausybės nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. I-1191, 1996
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
@@ -368,7 +369,9 @@ Nr. IX-687,
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 Nr. IX-1366,
 2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
- 
+Nr.
+IX-1646,
+2003-06-24, Žin., 2003, Nr. 68-3072 (2003-07-09)
  
 IV skyrius. SOCIALINĖS GARANTIJOS BEDARBIAMS
 Skyriaus pavadinimas keistas:
@@ -412,12 +415,12 @@ laikotarpis buvo ilgesnis kaip 6 mėnesiai;
 6) yra motina arba tėvas, nedirbusi (nedirbęs) dėl to,
 kad augino vaiką iki 8 metų.
             Bedarbiai,
-kurie neturi šio straipsnio pirmojoje dalyje nurodyto reikiamo valstybinio
-socialinio draudimo stažo bedarbio pašalpai gauti, šią teisę įgyja po to, kai
-su darbo biržos siuntimu per paskutiniuosius 12 mėnesių nuo užsiregistravimo
-darbo biržoje dirbo viešuosius arba Užimtumo fondo remiamus darbus, baigė
-profesinį mokymą ir šių darbų bei mokymosi bendra trukmė buvo ne mažesnė kaip
-180 kalendorinių dienų arba tiek laiko, kiek trūksta iki reikiamo valstybinio
+kurie neturi šio straipsnio pirmojoje dalyje nurodyto reikiamo valstybinio socialinio
+draudimo stažo bedarbio pašalpai gauti, šią teisę įgyja po to, kai su darbo
+biržos siuntimu per paskutiniuosius 12 mėnesių nuo užsiregistravimo darbo
+biržoje dirbo viešuosius arba Užimtumo fondo remiamus darbus, baigė profesinį
+mokymą ir šių darbų bei mokymosi bendra trukmė buvo ne mažesnė kaip 180
+kalendorinių dienų arba tiek laiko, kiek trūksta iki reikiamo valstybinio
 socialinio draudimo stažo, jei tai sudaro ne daugiau kaip 180 kalendorinių
 dienų.
             Šio
@@ -427,8 +430,8 @@ buvo nutraukta, pasibaigė jos mokėjimo terminas.
 Straipsnio pakeitimai:
 Nr. I-1191, 1996
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
-Nr. IX-1366, 2003-03-13,
-Žin., 2003, Nr. 32-1313 (2003-04-02)
+Nr. IX-1366,
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
  
 16 straipsnis. Bedarbio pašalpa
 Bedarbio
@@ -603,8 +606,8 @@ užmokesčio ir bedarbio pašalpos skirtumą.
 Asmenys, dirbantys viešuosius darbus, toliau
 registruojami valstybinėje darbo biržoje ir jiems taikomos šio ir kitų įstatymų
 nustatytos valstybinės užimtumo ir socialinės garantijos.
-Viešųjų darbų atlikimo tvarką nustato Lietuvos Respublikos
-Vyriausybė ar jos įgaliota institucija.
+Viešųjų darbų atlikimo tvarką nustato Lietuvos
+Respublikos Vyriausybė ar jos įgaliota institucija.
 Straipsnio pakeitimai:
 Nr. VIII-608,
 1998 01 15, Žin., 1998, Nr. 8-165 (1998 01 25)
@@ -613,9 +616,9 @@ Nr. VIII-608,
 darbai
             Užimtumo
 fondo remiami darbai organizuojami bedarbiams, nurodytiems šio įstatymo 15
-straipsnio trečiojoje ir ketvirtojoje dalyse, taip pat 19 straipsnyje nurodyta tvarka
-baigusiems profesinį mokymą, kuriems darbo birža negali pasiūlyti nuolatinio
-darbo.
+straipsnio trečiojoje ir ketvirtojoje dalyse, taip pat 19 straipsnyje nurodyta
+tvarka baigusiems profesinį mokymą, kuriems darbo birža negali pasiūlyti
+nuolatinio darbo.
             Užimtumo
 fondo remiamus darbus valstybinė darbo birža organizuoja ne daugiau kaip 6
 mėnesiams, sudarydama sutartis su darbdaviais dėl bedarbių, pirmiausia
@@ -635,8 +638,8 @@ Straipsnio pakeitimai:
 Nr. IX-687,
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
  
-20(2) straipsnis. Vietinių užimtumo
-iniciatyvų projektų įgyvendinimas
+20(2) straipsnis. Vietinių užimtumo iniciatyvų
+projektų įgyvendinimas
 Vietinių užimtumo iniciatyvų projektai – tai naujų
 darbo vietų kūrimo projektai, padedantys sutelkti vietos bendruomenės, įmonių,
 įstaigų ir trišalių socialinių partnerių pastangas didinti savivaldybės
@@ -666,9 +669,10 @@ V skyrius. LIETUVOS DARBO BIRŽA
 darbo biržos valdymo organizavimas
 Šiuo įstatymu ir jį
 įgyvendinančiais teisės aktais nustatytas paslaugas ir paramą bedarbiams bei
-ieškantiems darbo asmenims, taip pat darbdaviams, ieškantiems reikiamos kvalifikacijos
-darbuotojų, teikia Lietuvos darbo birža prie Socialinės apsaugos ir darbo
-ministerijos (toliau – Lietuvos darbo birža) ir jos teritorinės darbo biržos.
+ieškantiems darbo asmenims, taip pat darbdaviams, ieškantiems reikiamos
+kvalifikacijos darbuotojų, teikia Lietuvos darbo birža prie Socialinės apsaugos
+ir darbo ministerijos (toliau – Lietuvos darbo birža) ir jos teritorinės darbo
+biržos.
 Lietuvos darbo biržą
 steigia Lietuvos Respublikos Vyriausybė.
 Lietuvos darbo biržos
@@ -687,18 +691,19 @@ direktorius atskaitingas socialinės apsaugos ir darbo ministrui.
 Teritorines darbo biržas
 steigia ir jų nuostatus tvirtina Lietuvos darbo birža.
 Lietuvos darbo birža ir jos
-teritorinės darbo biržos yra išlaikomos iš Užimtumo fondo lėšų ir paslaugas teikia
-nemokamai.
-Darbo rinkos būklės bei darbo rinkos politikos
-priemonių ir paslaugų įgyvendinimo klausimams nagrinėti prie Lietuvos darbo
-biržos bei teritorinių darbo biržų steigiamos visuomeniniais pagrindais
-veikiančios trišalės komisijos. Jos sudaromos
-iš vienodo skaičiaus lygiateisių narių: darbuotojų (profesinių sąjungų,
-susivienijimų, asociacijų ir kt.), darbdavių (asociacijų, konfederacijų ir kt.)
-ir valstybės bei savivaldybių institucijų atstovų.
-Trišalės komisijos prie Lietuvos darbo biržos nuostatus
-bei pavyzdinius trišalės komisijos prie teritorinės darbo biržos nuostatus
-tvirtina socialinės apsaugos ir darbo ministras.
+teritorinės darbo biržos yra išlaikomos iš Užimtumo fondo lėšų ir paslaugas
+teikia nemokamai.
+Darbo rinkos
+būklės bei darbo rinkos politikos priemonių ir paslaugų įgyvendinimo klausimams
+nagrinėti prie Lietuvos darbo biržos bei teritorinių darbo biržų steigiamos
+visuomeniniais pagrindais veikiančios trišalės komisijos. Jos sudaromos iš
+vienodo skaičiaus lygiateisių narių:
+darbuotojų (profesinių sąjungų, susivienijimų, asociacijų ir kt.), darbdavių
+(asociacijų, konfederacijų ir kt.) ir valstybės bei savivaldybių institucijų
+atstovų.
+Trišalės komisijos prie Lietuvos darbo biržos
+nuostatus bei pavyzdinius trišalės komisijos prie teritorinės darbo biržos
+nuostatus tvirtina socialinės apsaugos ir darbo ministras.
 Straipsnio pakeitimai:
 Nr. I-1191, 1996
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
@@ -740,16 +745,16 @@ Nr. I-1191, 1996
  
 VI SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 Skyriaus pavadinimas keistas:
-Nr. IX-1366, 2003-03-13,
-Žin., 2003, Nr. 32-1313 (2003-04-02)
+Nr. IX-1366,
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
  
 24 straipsnis. Bedarbių rėmimo įstatymo laikymosi
 kontrolė
 Bedarbių rėmimo įstatymo laikymąsi kontroliuoja
 Valstybinė darbo inspekcija.
 Straipsnio pakeitimai:
-Nr. IX-1366,
-2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Nr. IX-1366, 2003-03-13,
+Žin., 2003, Nr. 32-1313 (2003-04-02)
  
 25 straipsnis. Ginčų sprendimas
 Ginčai, kilę dėl šio įstatymo taikymo, nagrinėjami
@@ -834,12 +839,20 @@ RĖMIMO ĮSTATYMO 4, 5, 7, 11, 12, 14, 15, 16, 16(1), 21, 24 STRAIPSNIŲ PAKEITI
 BEI PAPILDYMO, VI SKYRIAUS PAVADINIMO PAKEITIMO, ĮSTATYMO PAPILDYMO 20(2)
 STRAIPSNIU IR 3 BEI 22 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1646,
+2003-06-24, Žin., 2003, Nr. 68-3072 (2003-07-09)
+BEDARBIŲ
+RĖMIMO ĮSTATYMO 14 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-04-03)
+Aušrinė Trapinskienė (2003-07-09)
                  
 autrap@lrs.lt
 
