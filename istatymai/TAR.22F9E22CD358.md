@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.22F9E22CD358"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2001-12-05 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2003-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 107-0; Žin. 1990, Nr.31-747, i. k. 090XX01ISTA000I-676
  
@@ -632,10 +632,12 @@ BENDRIJOS VEIKLOS APSKAITA IR KONTROLĖ
 17 straipsnis. Bendrijos veiklos kontrolė
 
 
-Be bendrijos narių bendrijos veiklą tikrinti gali tik finansų, teismo ir tardymo įstaigos Lietuvos Respublikos įstatymų numatytais atvejais. Jeigu šių įstaigų pareigūnai savo veiksmais pažeidžia bendrijos teises arba trukdo jos normaliai veiklai ir dėl to padaro jai nuostolių, bendrija turi teisę teismine tvarka reikalauti iš tų įstaigų juos atlyginti.
+Be bendrijos narių bendrijos veiklą tikrinti gali tik prokuroras, finansų, teismo ir ikiteisminio tyrimo įstaigos Lietuvos Respublikos įstatymų numatytais atvejais. Jeigu šių įstaigų pareigūnai savo veiksmais pažeidžia bendrijos teises arba trukdo jos normaliai veiklai ir dėl to padaro jai nuostolių, bendrija turi teisę teismine tvarka reikalauti iš tų įstaigų juos atlyginti. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1475, 2003-04-03, Žin., 2003, Nr. 38-1720 (2003-04-24), i. k. 1031010ISTA0IX-1475
  
-
-
 
 
 
@@ -850,3 +852,8 @@ Lietuvos Respublikos ūkinių bendrijų įstatymo 21 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-606, 2001-11-15, Žin., 2001, Nr. 102-3626 (2001-12-05), i. k. 1011010ISTA00IX-606
 Lietuvos Respublikos ūkinių bendrijų įstatymo 12 straipsnio papildymo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1475, 2003-04-03, Žin., 2003, Nr. 38-1720 (2003-04-24), i. k. 1031010ISTA0IX-1475
+Lietuvos Respublikos ūkinių bendrijų įstatymo 17 straipsnio pakeitimo įstatymas
