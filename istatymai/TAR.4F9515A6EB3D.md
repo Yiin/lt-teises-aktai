@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 2002-07-17 iki 2002-11-21
+Suvestinė redakcija nuo 2002-11-22 iki 2002-12-23
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
  
@@ -31,12 +31,18 @@ Vilnius
 Patvirtinti Lietuvos Respublikos teritorijoje galiojančių įstatymų, kurie buvo priimti iki 1990 m. kovo 11 d. ir kurių galiojimas laikinai pratęsiamas, sąrašą ir į jį įrašyti šiuos įstatymus bei pratęsti jų galiojimą: 
 
 
-1) Lietuvos Respublikos baudžiamąjį kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-147) su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.;
+1) Lietuvos Respublikos baudžiamąjį kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-147) su vėlesniais pakeitimais ir papildymais – iki 2003 m. gegužės 1 d. 
+Straipsnio punkto pakeitimai:
+Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1167
+ 
 
 
 
 
-2) Lietuvos Respublikos baudžiamojo proceso kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-148) su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.;
+2) Lietuvos Respublikos baudžiamojo proceso kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-148) su vėlesniais pakeitimais ir papildymais – iki 2003 m. gegužės 1 d. 
+Straipsnio punkto pakeitimai:
+Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1167
+ 
 
 
 
@@ -65,7 +71,10 @@ Nr. IX-642, 2001-12-11, Žin. 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010ISTA
 
 
 
-6) Lietuvos Respublikos pataisos darbų kodeksą, priimtą 1971 m. liepos 15 d., (Žin., 1971, Nr. 20-142) su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.;
+6) Lietuvos Respublikos pataisos darbų kodeksą, priimtą 1971 m. liepos 15 d., (Žin., 1971, Nr. 20-142) su vėlesniais pakeitimais ir papildymais – iki 2003 m. gegužės 1 d. 
+Straipsnio punkto pakeitimai:
+Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1167
+ 
 
 
 
@@ -78,7 +87,10 @@ Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010IST
 
 
 
-8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.;
+8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2004 m. sausio 1 d.
+Straipsnio punkto pakeitimai:
+Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1167
+ 
 
 
 
@@ -158,4 +170,9 @@ Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m.
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1000, 2002-06-27, Žin., 2002, Nr. 72-3015 (2002-07-17), i. k. 1021010ISTA0IX-1000
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1167
 Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
