@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-LIETUVOS RESPUBLIKOS
-ŽUVININKYSTĖS
-Į S T A T Y M A S
+Suvestinė redakcija nuo 2004-05-01 iki 2004-11-30
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
+ 
+Nauja redakcija nuo 2004-05-01:
+Nr. IX-2193, 2004-04-29, Žin. 2004, Nr. 73-2527 (2004-04-30), i. k. 1041010ISTA0IX-2193
+ 
+LIETUVOS RESPUBLIKOS ŽUVININKYSTĖS ĮSTATYMAS
  
 2000 m. birželio 27 d. Nr. VIII-1756
 Vilnius
@@ -27,20 +32,25 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Žuvininkystės įstatymo paskirtis ir galiojimo teritorija 
+1 straipsnis. Įstatymo paskirtis ir galiojimo teritorija
 
 
-1. Žuvininkystės įstatymas reglamentuoja santykius, atsirandančius žvejybos, akvakultūros, žuvų perdirbimo ir pateikimo į rinką srityse.
-
-
-
-
-2. Šio įstatymo tikslas – užtikrinti tausojančią žvejybą, žuvų išteklių apsaugą bei atkūrimą ir žvejybos kontrolę, atsižvelgiant į ekologines sąlygas, žuvininkystės ekonomiką, žvejų, žuvų augintojų, perdirbėjų bei vartotojų interesus. 
+1. Šis Įstatymas reglamentuoja santykius, atsirandančius žvejybos, akvakultūros, žuvų perdirbimo ir tiekimo į rinką srityse.
 
 
 
 
-3. Šio įstatymo nuostatos galioja Lietuvos Respublikos sausumos teritorijoje, vidaus vandenyse, teritorinėje jūroje, išskirtinėje ekonominėje zonoje, o Lietuvos žvejybos laivuose – visuose vandenyse.
+2. Šio Įstatymo tikslas – užtikrinti žuvų išteklius tausojančią žvejybą, jų išsaugojimą bei atkūrimą ir žvejybos kontrolę, atsižvelgiant į ekologines sąlygas, žuvininkystės ekonomiką, žvejų, žuvų augintojų, perdirbėjų bei vartotojų interesus.
+
+
+
+
+3. Šio Įstatymo nuostatos galioja Lietuvos Respublikos sausumos teritorijoje, vidaus vandenyse, teritoriniuose vandenyse, išskirtinėje ekonominėje zonoje, o Lietuvos Respublikos žvejybos laivuose – jūrų vandenyse.
+
+
+
+
+4. Šio Įstatymo nuostatos suderintos su Įstatymo priede nurodytais Europos Sąjungos teisės aktais.
  
 
 
@@ -48,120 +58,175 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Akvakultūra – žuvų, moliuskų, vėžiagyvių ir kitų organizmų dirbtinis auginimas gėlame arba jūros vandenyje, sudarant šiems organizmams optimalias mitybos ir gyvenimo sąlygas. 
+1. Akvakultūra – žuvų auginimas gėlame arba jūros vandenyje, sudarant joms dirbtines mitybos ir gyvenimo sąlygas.
 
 
 
 
-2. Jūrų žvejybos laivas – žvejybos laivas, kuriam Lietuvos Respublikos Vyriausybės nustatyta tvarka pripažintos Lietuvoje veikiančios klasifikacinės bendrovės suteikė teisę plaukioti jūrose. 
+2. Europos Bendrijos žvejybos laivas – žvejybos laivas, plaukiojantis su Europos Sąjungos valstybės narės vėliava ir registruotas Europos Bendrijos žvejybos laivyno rejestre.
 
 
 
 
-3. Kita (speciali) žvejyba – žvejyba mokslinių tyrimų, monitoringo, žuvivaisos, aklimatizacijos, žuvų kontrolinių gaudymų, biologinės melioracijos, mokymo tikslais. 
+3. Intervencinės žuvininkystės produktų rinkos reguliavimo priemonės – priemonės, kuriomis siekiama reguliuoti pirminio žuvininkystės produktų pardavimo rinką, užtikrinti stabilias kainas ir žuvų išteklių naudotojų pajamas.
 
 
 
 
-4. Lietuvos žuvininkystės vandens telkiniai – Lietuvos teritorinė jūra ir išskirtinė ekonominė zona Baltijos jūroje, visi paviršiniai Lietuvos Respublikos vidaus vandenys, kurie naudojami žuvininkystei. 
+4. Jūrų vandenys – Europos Sąjungos valstybių narių vidaus vandenims bei tarpiniams vandenims ir ne Europos Sąjungos valstybių narių vidaus vandenims nepriklausantys vandens telkiniai.
 
 
 
 
-5. Lietuvos žvejybos laivas – žvejybos laivas, plaukiojantis su Lietuvos valstybės vėliava ir įregistruotas Lietuvos Respublikos jūrų laivų registre.
+5. Leidimas žvejybai – nustatyta tvarka išduotas dokumentas, suteikiantis teisę žvejoti.
 
 
 
 
-6. Mėgėjiška žvejyba – žvejyba mėgėjiškais žvejybos įrankiais pagal mėgėjiškai žvejybai nustatytą tvarką. 
+6. Lietuvos Respublikos žvejybos laivas – bet koks laivas su jame esančia verslinės žvejybos įranga arba laivas, naudojamas šiai žvejybai ir įregistruotas Lietuvos Respublikos jūrų laivų registre ar Lietuvos Respublikos vidaus vandenų laivų registre ir įgaliotos klasifikacinės bendrovės išduotuose laivo dokumentuose turintis įrašą „Žvejybos laivas“. Lietuvos Respublikos žvejybos laivas, žvejojantis jūrų vandenyse, turi būti įregistruotas Žvejybos laivų rejestre.
 
 
 
 
-7. Pirminis žuvų pardavimas – pirminis didmeninis uoste iškrautų žuvų pardavimas arba pardavimas iš žvejybos bei kitų žuvis gabenančių laivų. 
+7. Mažos apimties priekrantės žvejyba – žvejyba laivais, kai laivo ilgis mažesnis kaip 12 metrų.
 
 
 
 
-8. Tvenkinių žuvininkystė – žuvų veisimas, auginimas ir žvejyba žuvininkystės tvenkiniuose. 
+8. Mėgėjiška žvejyba – žvejyba mėgėjiškos žvejybos įrankiais pagal nustatytą mėgėjiškos žvejybos tvarką.
 
 
 
 
-9. Vandens augalai – vandenyje augantys augalai, turintys ūkinę reikšmę, naudojami vandens gyvūnų kaip maistas, sudarantys substratą žuvų nerštui arba turintys reikšmę natūraliam vandens valymui. Vandens augalų naudojimui taikomos tos pačios šio įstatymo nuostatos kaip ir žuvų išteklių naudojimui. 
+9. Pirminiai žuvininkystės produktų supirkėjai – juridiniai asmenys, vykdantys pirminį žuvininkystės produktų supirkimą.
 
 
 
 
-10. Verslinė žvejyba – žvejyba versliniais žvejybos įrankiais komerciniams tikslams. 
+10. Pirminis žuvininkystės produktų pardavimas – pirminis didmeninis sužvejotų, apdorotų ar laive perdirbtų žuvininkystės produktų, iškrautų uoste, pardavimas arba pardavimas iš žvejybos bei kitų žuvininkystės produktus vežančių laivų.
 
 
 
 
-11. Žuvininkystė – veikla, susijusi su žuvų išteklių valdymu, apsauga ir atkūrimu, žvejyba, akvakultūra, tvenkinių žuvininkyste, žuvų perdirbimu ir pirminiu žuvų pardavimu. 
+11. Pirminis žuvininkystės produktų supirkimas – pirminis didmeninis sužvejotų, apdorotų ar laive perdirbtų žuvininkystės produktų, iškrautų uoste, supirkimas arba supirkimas iš žvejybos bei kitų žuvininkystės produktus vežančių laivų.
 
 
 
 
-12. Žuvininkystės tvenkinys – upės vagoje arba žemės paviršaus įdauboje, iškasoje, pylimų apsuptame plote įrengtas vandens telkinys žuvims auginti ir veisti. 
+12. Specialioji žvejyba – žvejyba mokslinių tyrimų, stebėsenos, žuvivaisos, biologinės melioracijos, mokymo tikslais.
 
 
 
 
-13. Žuvys – visų rūšių žuvys, nėgės, vandens vėžiagyviai ir moliuskai.
+13. Tvenkinių žuvininkystė – žuvų veisimas, auginimas ir žvejyba žuvininkystės tvenkiniuose.
 
 
 
 
-14. Žuvivaisa – žuvų veisimas, paauginimas bei perkėlimas iš vienų vandens telkinių į kitus, taip pat reproduktorių gaudymas ir laikymas žuvų išteklių atkūrimo, palaikymo ir gausinimo tikslais. 
+14. Valstybinis žuvininkystės reglamentavimas – teisinė ir institucinė sistema, skirta garantuoti, kad žuvininkystės veikla būtų priimtina visuomenei, išlaikant šakos viduje konkurenciją bei užtikrinant tausojantį žuvų išteklių naudojimą.
 
 
 
 
-15. Žuvų ištekliai – visos gėlųjų ir jūrų vandenų žuvys, kurias žmogus naudoja arba gali naudoti savo poreikiams. 
+15. Verslinė žvejyba – žvejyba verslinės žvejybos įrankiais pagal nustatytą verslinės žvejybos tvarką.
 
 
 
 
-16. Žuvų išteklių apsauga ir atkūrimas – teisinių, techninių-materialinių ir finansinių priemonių, padedančių išlaikyti stabilias, natūraliai atsikuriančias arba atkurti nykstančias žuvų populiacijas, visuma. 
+16. Vidaus vandenys – visi Lietuvos Respublikos sausumos teritorijoje esantys paviršinio vandens telkiniai ir tarpiniai vandenys.
 
 
 
 
-17. Žuvų išteklių naudotojai – fiziniai ir juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių, turintys teisę naudoti žuvų išteklius. 
+17. Žuvininkystė – su žuvų išteklių valdymu, išsaugojimu ir atkūrimu, žvejyba, akvakultūra, žuvų perdirbimu, pirminiu žuvininkystės produktų pardavimu ir supirkimu susijusi veikla.
 
 
 
 
-18. Žvejyba – žuvų gaudymas, jų laikymas ar perdirbimas laivuose ir sugautų žuvų gabenimas laivais.
+18. Žuvininkystės produktai – žuvys ir iš jų pagaminti produktai.
 
 
 
 
-19. Žvejyba atviroje jūroje – žvejyba jūrų vandenyse, kurie neįeina į valstybių išskirtinę ekonominę zoną, teritorinę jūrą ar vidaus vandenis. 
+19. Žuvininkystės produktų gamintojų organizacija – juridinis asmuo, vienijantis fizinius ir (ar) juridinius asmenis, kurie užsiima versline žvejyba arba akvakultūra ir pirminiu žuvininkystės produktų pardavimu, jei apdorojant ar perdirbant žuvininkystės produktus atitinkamos procedūros atliekamos žvejybos laivuose, pripažintas Žemės ūkio ministerijos ar jos įgaliotos institucijos tam tikros rūšies ar rūšių žuvininkystės produktų gamybai (žvejybai ar akvakultūrai) bei prekybai ir siekiantis savo įstatuose (nuostatuose) numatytų šių svarbiausių tikslų – užtikrinti žuvų išteklius tausojančią žvejybą ir gerinti žuvininkystės produktų pardavimo sąlygas. Įgyvendindamas nustatytus tikslus, taiko šiuos būdus: gamybos planavimą pagal paklausą, gamintojų organizacijos narių pagamintų produktų pasiūlos ir tiekimo į rinką koncentraciją, palaiko žuvininkystės produktų stabilias kainas, žvejybos metodus, užtikrinančius žuvų išteklius tausojančią žvejybą.
 
 
 
 
-20. Žvejybos kvota – žvejybos limito dalis, skiriama Lietuvos fiziniam, juridiniam asmeniui bei įmonei, neturinčiai juridinio asmens teisių, kurie verčiasi versline žvejyba, arba užsienio valstybei. 
+20. Žuvininkystės tarpšakinė organizacija – fizinius ir juridinius asmenis, kurie užsiima įvairiomis su žuvininkystės verslu susijusiomis veiklomis ir atstovauja didelei žuvininkystės produktų gamybos, prekybos ir (arba) perdirbimo daliai, vienijantis juridinis asmuo, kuris pats nedalyvauja su žuvininkystės produktų arba perdirbtų žuvininkystės produktų gamyba, perdirbimu arba pardavimu susijusioje veikloje ir įsteigtas tam, kad būtų plėtojama žuvininkystės produktų rinka ir gerinamos žuvininkystės produktų pardavimo sąlygos.
 
 
 
 
-21. Žvejybos laivas – bet kurio tipo savaeigis ar nesavaeigis plaukiojantis statinys, pritaikytas verslinei žvejybai.
+21. Žuvininkystės tvenkinys – hidrotechninis statinys (pylimai, krantų stiprinimo įrenginiai, vandens padavimo, nuleidimo ir dugno sausinimo kanalai, įleistuvai, išleistuvai, šliuzai, slenksčiai, pralaidos), įrengtas žemės paviršiuje, jo įdauboje, iškasoje arba upės vagoje ir naudojamas žuvims auginti ir veisti.
 
 
 
 
-22. Žvejybos leidimas – nustatyta tvarka išduotas dokumentas, suteikiantis teisę žvejoti.
+22. Žuvininkystės vandens telkinys – Lietuvos Respublikos išskirtinė ekonominė zona, teritoriniai vandenys, visi paviršiniai vidaus vandenų telkiniai, kurie naudojami arba gali būti naudojami žuvininkystei. 
 
 
 
 
-23. Žvejybos limitas – maksimalus leistinas atskirų rūšių žuvų sugavimo kiekis atskirame vandens telkinyje. 
+23. Žuvivaisa – žuvų veisimas, paauginimas bei jų perkėlimas iš vienų žuvininkystės vandens telkinių į kitus, taip pat reproduktorių gaudymas ir laikymas žuvų išteklių atkūrimo, palaikymo bei gausinimo tikslais.
+
+
+
+
+24. Žuvys – visų rūšių žuvys, nėgės, vėžiagyviai, moliuskai ir kiti vandens bestuburiai.
+
+
+
+
+25. Žuvų augintojai – fiziniai ar juridiniai asmenys, kurie užsiima žuvų auginimu gėlame ar jūros vandenyje, sudarydami joms dirbtines mitybos ir gyvenimo sąlygas.
+
+
+
+
+26. Žuvų ištekliai – visos gėlavandenės ir jūrų žuvys, išskyrus dirbtinai auginamas žuvis, kurias žmogus naudoja arba gali naudoti savo poreikiams.
+
+
+
+
+27. Žuvų išteklių išsaugojimas ir kontrolė – teisinės, materialios ir finansinės priemonės žuvų ištekliams išsaugoti.
+
+
+
+
+28. Žuvų išteklių atkūrimas – teisinės, materialios ir finansinės priemonės, padedančios išlaikyti stabilias, natūraliai atsikuriančias arba atkurti nykstančias žuvų populiacijas.
+
+
+
+
+29. Žuvų išteklių naudotojai – fiziniai ir juridiniai asmenys, turintys teisę naudoti žuvų išteklius.
+
+
+
+
+30. Žvejyba – žuvų gaudymas, laikymas ar perdirbimas bei sugautų žuvų vežimas, nepažeidžiant teritorinių vandenų leistino perplaukimo teisės ir navigacijos laisvės išskirtinėje ekonominėje zonoje.
+
+
+
+
+31. Žvejybos kvota – žuvų išteklių naudotojams skiriama žvejybos limito dalis.
+
+
+
+
+32. Žvejyba Lietuvos Respublikos teritoriniuose vandenyse Baltijos jūroje – žvejyba Lietuvos Respublikos teritoriniuose vandenyse Baltijos jūroje laivais, atitinkančiais Vyriausybės ar jos įgaliotos institucijos nustatytus priekrantės žvejybos techninius reikalavimus.
+
+
+
+
+33. Žvejybos limitas – žuvininkystės vandens telkiniui nustatytas didžiausias žuvų sugavimo kiekis arba žvejybos įrankių kiekis, arba žvejybos dienų skaičius, arba nustatytos žvejybos vietos.
+
+
+
+
+34. Žvejybos stebėtojas – asmuo, įgaliotas stebėti, kaip Lietuvos Respublikos žvejybos laivo kapitonas ir kiti įgulos nariai laikosi teisės aktų žvejybos srityje.
  
 
 
@@ -172,34 +237,29 @@ BENDROSIOS NUOSTATOS
 
 
 ANTRASIS SKIRSNIS
-VALSTYBINIS ŽUVININKYSTĖS REGULIAVIMAS
+VALSTYBINIS ŽUVININKYSTĖS regLAMENTAvimas
  
 
 
-3 straipsnis. Valstybinis žuvininkystės reguliavimas
+3 straipsnis. Valstybinis žuvininkystės reglamentavimas
 
 
-1. Valstybinio žuvininkystės reguliavimo funkcijas ir šiame įstatyme nurodytus uždavinius pagal kompetenciją vykdo:
+1. Valstybinio žuvininkystės reglamentavimo funkcijas pagal kompetenciją atlieka:
 
 
-1) Žemės ūkio ministerija – žuvininkystės ūkio politikos formavimo, šios ūkio šakos valstybinio reguliavimo bei integravimo į Europos Sąjungą funkcijas;
-
-
-
-
-2) Aplinkos ministerija – žuvų išteklių apsaugos ir kontrolės funkcijas.
+1) Žemės ūkio ministerija – žuvininkystės politikos formavimo, šios šakos valstybinio reglamentavimo ir Europos Sąjungos bendrosios žuvininkystės politikos įgyvendinimo bei žuvų išteklių išsaugojimo ir jų kontrolės funkcijas jūrų vandenyse;
 
 
 
 
-
-
-2. Kaip patariamasis žuvininkystės politikos ir strategijos formavimo organas sudaroma Žuvininkystės taryba. 
-
+2) Aplinkos ministerija – žuvų išteklių išsaugojimo politikos formavimo vidaus vandenų žuvininkystės vandens telkiniuose, žvejybos taisyklių kontrolės funkcijas žuvininkystės vandens telkiniuose.
 
 
 
-3. Žuvininkystės taryba sudaroma iš Lietuvos Respublikos Vyriausybės deleguotų atstovų, žuvininkystės verslo atstovų ir mokslininkų. Ji atlieka žuvininkystės verslo ekspertizę, teikia valstybės institucijoms rekomendacijas žvejybos kvotų nustatymo, žvejybos, žuvų išteklių apsaugos ir atkūrimo bei kitais žuvininkystės klausimais. Ši taryba vadovaujasi Lietuvos Respublikos įstatymais, Vyriausybės nutarimais ir savo nuostatais, patvirtintais Vyriausybės.
+
+
+
+2. Kaip patariamasis žuvininkystės politikos ir strategijos formavimo organas sudaroma Žuvininkystės taryba, kurią tvirtina Aplinkos ministerija ir Žemės ūkio ministerija.
  
 
 
@@ -207,40 +267,10 @@ VALSTYBINIS ŽUVININKYSTĖS REGULIAVIMAS
 
 
 
-4 straipsnis. Lietuvos žuvininkystės vandens telkiniai
+4 straipsnis. Žvejybos laivų registravimas
 
 
-1. Lietuvos žuvininkystės vandens telkiniai yra valstybiniai ir privatūs.
-
-
-
-
-2. Lietuvos valstybiniai žuvininkystės vandens telkiniai yra šie:
-
-
-1) išskirtinė ekonominė zona Baltijos jūroje; 
-
-
-
-
-2) teritorinė jūra; 
-
-
-
-
-3) Kuršių marių dalis, esanti Lietuvos Respublikos teritorijoje;
-
-
-
-
-4) kiti valstybinio vidaus vandenų fondo paviršiniai vandens telkiniai, nurodyti Vandens įstatyme. 
-
-
-
-
-
-
-3. Privatūs žuvininkystės vandens telkiniai yra vandens telkiniai, priklausantys jų savininkams privačios nuosavybės teise.
+Lietuvos Respublikos žvejybos laivai turi būti registruoti Žvejybos laivų rejestre. Registravimo Žvejybos laivų rejestre taisykles nustato Žemės ūkio ministerija ar jos įgaliota institucija. 
  
 
 
@@ -248,20 +278,40 @@ VALSTYBINIS ŽUVININKYSTĖS REGULIAVIMAS
 
 
 
-5 straipsnis. Lietuvos žuvininkystės vandens telkinių valdymas
+5 straipsnis. Integruota žuvininkystės duomenų sistema
 
 
-1. Lietuvos valstybinius žuvininkystės vandens telkinius valdo Vyriausybė arba jos įgaliotos institucijos šio ir kitų įstatymų nustatyta tvarka.
+1. Integruotą žuvininkystės duomenų sistemą sudaro:
 
 
-
-
-2. Nenuomotinų valstybės vandens telkinių sąrašą tvirtina Vyriausybė.
+1) kompiuterinių duomenų bazė apie žuvų išteklių naudojimą (duomenys apie žvejybos kvotas, leidimus žvejybai, žuvų sugavimą, iškrovimą, pirminį pardavimą, žvejybą reglamentuojančių teisės aktų pažeidimus ir kita informacija);
 
 
 
 
-3. Privačius žuvininkystės vandens telkinius valdo jų savininkai, vadovaudamiesi įstatymais ir kitais teisės aktais. 
+2) palydovinio ryšio Lietuvos Respublikos žvejybos laivų stebėjimo sistema;
+
+
+
+
+3) Žvejybos laivų rejestras;
+
+
+
+
+4) ekonominių ir biologinių duomenų bazė.
+
+
+
+
+
+
+2. Integruotą žuvininkystės duomenų sistemą valdo Žemės ūkio ministerija ar jos įgaliota institucija.
+
+
+
+
+3. Asmenys, kurie užsiima žuvininkyste, bei vežėjai Žemės ūkio ministerijos nustatyta tvarka teikia jai duomenis apie žvejybą, žuvininkystės produktų iškrovimą, jų vežimą per Lietuvos Respublikos teritoriją iki pirminio pardavimo, apie pirminį žuvininkystės produktų pardavimą ir supirkimą bei žuvų perdirbimą.
  
 
 
@@ -276,26 +326,10 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
  
 
 
-6 straipsnis. Lietuvos žuvų ištekliai
+6 straipsnis. Žvejybos rūšys
 
 
-1. Lietuvos žuvininkystės vandens telkinių žuvų išteklius, išskyrus privačius žuvininkystės tvenkinius, valdo Lietuvos valstybė. Jų išteklių naudojimo tvarką nustato šis ir kiti įstatymai bei teisės aktai. 
-
-
-
-
-2. Privačių vandens telkinių savininkai naudoja žuvų išteklius šio ir kitų įstatymų bei kitų teisės aktų nustatyta tvarka.
- 
-
-
-
-
-
-
-7 straipsnis. Žvejybos rūšys
-
-
-Žvejybos rūšys Lietuvos žuvininkystės telkiniuose yra šios: 
+Žvejybos rūšys yra šios:
 
 
 1) verslinė žvejyba;
@@ -308,7 +342,7 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-3) kita (speciali) žvejyba.
+3) specialioji žvejyba.
  
 
 
@@ -318,15 +352,20 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-8 straipsnis. Verslinė žvejyba
+7 straipsnis. Verslinė žvejyba
 
 
-1. Versline žvejyba gali verstis Lietuvos fiziniai, juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių, Lietuvos Respublikos įstatymų nustatyta tvarka įteisinę veiklą šioje srityje ir pagal šio įstatymo 12 straipsnį įgiję teisę žvejoti.
+1. Asmenys versline žvejyba užsiima įgiję žvejybos teisę.
 
 
 
 
-2. Teisė į verslinę žvejybą suteikiama žvejybos leidimais arba vidaus vandens telkinių nuomos verslinei žvejybai sutartimis. 
+2. Verslinei žvejybai Lietuvos Respublikos teritoriniuose vandenyse Baltijos jūroje ir mažos apimties priekrantės žvejybai specifinius reikalavimus, atsižvelgiant į veiklos sąlygas, nustato Vyriausybė arba jos įgaliotos institucijos. 
+
+
+
+
+3. Mažos apimties priekrantės žvejybos laivo reisu asmenų pasirinkimu Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti laikoma laivo kelionė nuo išplaukimo iš uosto iki pirminio žuvų pardavimo sugrįžus į uostą, kai šį pardavimą vykdo laivo įgula, arba vienas kalendorinis mėnuo, neatsižvelgiant į laivo išplaukimų ir jo sugrįžimų į uostą skaičių ar žuvininkystės produktų iškrovimo vietų skaičių.
  
 
 
@@ -334,25 +373,10 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-9 straipsnis. Mėgėjiška žvejyba
+8 straipsnis. Mėgėjiška žvejyba
 
 
-1. Mėgėjiška žvejyba leidžiama visuose Lietuvos žuvininkystės vandens telkiniuose, jeigu juose ši žvejyba nėra ribojama.
-
-
-
-
-2. Užsienio valstybių piliečiai žvejoja Lietuvos Respublikos vandens telkiniuose Lietuvos Respublikos įstatymų, žvejybos taisyklių, kitų teisės aktų nustatyta tvarka. 
-
-
-
-
-3. Privačiuose ir nuomojamuose Lietuvos žuvininkystės vandens telkiniuose mėgėjiškos žvejybos tvarką nustato savininkas arba nuomininkas. Prie tokių vandens telkinių turi būti įrengti informaciniai ženklai.
-
-
-
-
-4. Mėgėjiškos žvejybos organizavimo ir žvejybos leidimų išdavimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+Mėgėjiška žvejyba leidžiama visuose žuvininkystės vandens telkiniuose Aplinkos ministerijos nustatyta tvarka.
  
 
 
@@ -360,30 +384,15 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-10 straipsnis. Kita (speciali) žvejyba 
+9 straipsnis. Specialioji žvejyba
 
 
-1. Leidimus kitai (specialiai) žvejybai išduoda Žemės ūkio ministerija, o į Lietuvos raudonąją knygą įtrauktų žuvų žvejybai - Aplinkos ministerija. Žemės ūkio ministerija ir Aplinkos ministerija nustato tokios žvejybos sąlygas ir ataskaitų pateikimo tvarką.
-
-
-
-
-2. Leidimai kitai (specialiai) žvejybai gali būti išduodami žvejoti bet kuriame valstybiniame žuvininkystės vandens telkinyje. 
+1. Vadovaujantis specialiosios žvejybos taisyklėmis, specialiosios žvejybos leidimai suteikia žvejybos teisę bet kuriame žuvininkystės vandens telkinyje.
 
 
 
 
-3. Leidimai žvejoti žuvivaisos tikslais žvejybai išnuomotuose valstybiniuose žuvininkystės vandens telkiniuose gali būti išduodami tik nuomininko sutikimu. 
-
-
-
-
-4. Privačiuose vandens telkiniuose leidimai kitai (specialiai) žvejybai išduodami tik savininko sutikimu. Be savininko sutikimo leidimai kitai (specialiai) žvejybai gali būti išduodami tik esant ypatingai ekologinei situacijai (epizootijos židinys, ypač vertingų mokslui objektų tyrimai, nepageidaujamų Lietuvai augalų ir gyvūnų rūšių atsiradimas ir kt.). 
-
-
-
-
-5. Vandens telkinio savininkas, o jeigu telkinys išnuomotas, nuomininkas turi teisę gauti kompensaciją už kitos (specialios) žvejybos metu jo telkinyje sugautas žuvis. Kompensavimo už kitą (specialią) žvejybą tvarką ir dydžius nustato Žemės ūkio ministerija.
+2. Specialiosios žvejybos kompensavimo tvarką nustato Žemės ūkio ministerija ir Aplinkos ministerija. Už specialiosios žvejybos metu sugautas žuvis vandens telkinių savininkams ir nuomininkams nustatyta tvarka kompensuoja asmenys, užsiimantys specialiąja žvejyba.
  
 
 
@@ -391,50 +400,65 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-11 straipsnis. Žvejybos reguliavimas ir žuvų išteklių naudojimo tvarka 
+10 straipsnis. Žvejybos reglamentavimas ir žuvų išteklių naudojimo tvarka
 
 
-1. Naudojant žuvų išteklius, turi būti užtikrinamos jų natūralaus atsikūrimo galimybės, palaikomas optimalus vandens telkinių produktyvumas ir išvengiama neigiamų vandens ekosistemų pakitimų.
-
-
-
-
-2. Žvejyba reguliuojama remiantis mokslinių tyrimų duomenimis. Nustatant žvejybos apribojimus Lietuvos Respublikos išskirtinėje ekonominėje zonoje ir teritorinėje jūroje, atsižvelgiama į Tarptautinės žvejybos Baltijos jūroje komisijos rekomendacijas.
+1. Naudojant žuvų išteklius, turi būti užtikrinamos jų natūralaus atsikūrimo galimybės, palaikomas optimalus žuvininkystės vandens telkinių produktyvumas ir vengiama neigiamų vandens ekosistemų pakitimų.
 
 
 
 
-3. Žvejybos reguliavimo priemonės gali būti šios:
-
-
-1) žvejybos draudimas arba ribojimas tam tikru laiku arba tam tikrose vietose;
+2. Žvejyba reglamentuojama remiantis mokslinių tyrimų duomenimis pagal tarptautinius žuvų išteklių valdymo principus, atsižvelgiant į Lietuvos Respublikos teisės aktus.
 
 
 
 
-2) atskirų rūšių žuvų žvejybos uždraudimas arba sugavimo limitų nustatymas;
+3. Žvejybos reglamentavimo priemonės gali būti šios:
+
+
+1) tam tikrų rūšių žuvų sugavimo limitų nustatymas;
 
 
 
 
-3) leidžiamų žvejybos įrankių, jų kiekio ir žvejybos būdų nustatymas;
+2) leidžiamų žvejybos įrankių, jų kiekio ir žvejybos būdų nustatymas;
 
 
 
 
-4) žvejybos laivų skaičiaus ir tipo nustatymas;
+3) žvejybos laivų skaičiaus nustatymas;
 
 
 
 
-5) minimalaus gaudomų žuvų dydžio nustatymas.
+4) minimalaus gaudomų žuvų dydžio nustatymas;
+
+
+
+
+5) žvejybos draudimas arba ribojimas tam tikru laiku ir (arba) tam tikrose vietose;
+
+
+
+
+6) tam tikrų rūšių žuvų žvejybos uždraudimas.
 
 
 
 
 
 
-4. Žvejybos reguliavimo priemonėms, labai ribojančioms žvejybą arba keičiančioms žvejybos sąlygas, taip pat jeigu joms įgyvendinti reikia lėšų, įsigalioti būtina numatyti ne mažesnį kaip vienerių metų laikotarpį.
+4. Žvejybos jūrų vandenyse reglamentavimo priemones nustato Žemės ūkio ministerija ar jos įgaliota institucija. Žvejybos vidaus vandenų žuvininkystės vandens telkiniuose reglamentavimo priemones nustato Aplinkos ministerija. 
+
+
+
+
+5. Žuvų rūšims, kurioms Europos Bendrijos teisės aktai žvejybos limitų nenustato, žvejybos limitus Lietuvos Respublikos teritoriniuose vandenyse, vadovaudamasi mokslinių tyrimų duomenimis, gali nustatyti Žemės ūkio ministerija ar jos įgaliota institucija, o vidaus vandenyse – Aplinkos ministerija.
+
+
+
+
+6. Žvejybos kvotų skyrimo tvarką nustato ir kvotas žuvų išteklių naudotojams paskirsto Žemės ūkio ministerija ar jos įgaliota institucija.
  
 
 
@@ -442,40 +466,70 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-12 straipsnis. Žvejybos teisės suteikimas
+11 straipsnis. Žvejybos teisės suteikimas
 
 
-1. Teisė žvejoti suteikiama:
-
-
-1) išduodant žvejybos leidimus;
+1. Žvejybos teisė suteikiama išduodant leidimus žvejybai. Asmenys, Vyriausybės nustatyta tvarka turintys nemokamą žvejybos teisę, gali užsiimti žvejyba turėdami šią lengvatą patvirtinantį dokumentą.
 
 
 
 
-2) sudarant vidaus vandens telkinių nuomos verslinei ir mėgėjiškai žvejybai sutartis.
+2. Leidimai užsiimti versline žvejyba jūrų vandenyse išduodami Žemės ūkio ministerijos nustatyta tvarka, o vidaus vandenyse, išskyrus verslinę žvejybą privačiuose žuvininkystės tvenkiniuose, – Aplinkos ministerijos nustatyta tvarka.
 
 
 
 
-
-
-2. Teisę žvejoti Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka suteikia vandens telkinio savininkas, o išnuomotuose telkiniuose – jų nuomininkai. Nuomininkas gali suteikti teisę tik mėgėjiškai žvejybai, jeigu nuomos sutartyje nenumatyta kitaip.
-
-
-
-
-3. Teisę kitai (specialiai) žvejybai suteikia Žemės ūkio ministerija bei vandens telkinių savininkai, o į Lietuvos raudonąją knygą įtrauktų žuvų žvejybai – Aplinkos ministerija.
+3. Leidimus užsiimti versline ar specialiąja žvejyba jūrų vandenyse išduoda Žemės ūkio ministerija ar jos įgaliota institucija. 
 
 
 
 
-4. Žvejybos teisės suteikimo dokumentuose nustatomos žuvų išteklių naudojimo vietos, būdai, atkūrimo ir saugojimo sąlygos.
+4. Leidimus užsiimti specialiąja ar versline žvejyba valstybiniuose vidaus vandenyse išduoda Aplinkos ministerija ar jos įgaliota institucija.
 
 
 
 
-5. Žvejybos limitus tarptautinių žvejybos organizacijų reguliuojamuose žvejybos rajonuose nustato šios organizacijos, o žvejybos limitus Lietuvos vidaus žuvininkystės vandenyse pagal mokslininkų rekomendacijas nustato Aplinkos ministerija. Žvejybos kvotų skyrimo tvarką nustato Žemės ūkio ministerija. Tais atvejais, kai nustatyto žvejybos limito nepakanka visiems fiziniams ir juridiniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, Lietuvos Respublikos įstatymų nustatyta tvarka įteisinusiems verslinės žvejybos veiklą, Žemės ūkio ministerija turi teisę skirti žvejybos kvotas konkurso būdu.
+5. Leidimus užsiimti versline žvejyba privačiuose žuvininkystės vandens telkiniuose įstatymų ir kitų teisės aktų nustatyta tvarka išduoda šių telkinių savininkai.
+
+
+
+
+6. Leidimus užsiimti specialiąja žvejyba privačiuose žuvininkystės vandens telkiniuose išduoda Aplinkos ministerija.
+
+
+
+
+7. Leidimai užsiimti mėgėjiška žvejyba valstybiniuose žvejybai neišnuomotuose žuvininkystės vandens telkiniuose išduodami Aplinkos ministerijos nustatyta tvarka.
+
+
+
+
+8. Privačiuose arba išnuomotuose žuvininkystės vandens telkiniuose leidimus užsiimti mėgėjiška žvejyba įstatymų ir kitų teisės aktų nustatyta tvarka išduoda šių telkinių savininkai arba nuomininkai.
+
+
+
+
+9. Valstybinių žuvininkystės vandens telkinių nuomos taisykles nustato Vyriausybė, o privačių – šių telkinių savininkai.
+
+
+
+
+10. Leidimai užsiimti specialiąja žvejyba žuvininkystės vandens telkiniuose išduodami Žemės ūkio ministerijos ir Aplinkos ministerijos nustatyta tvarka.
+
+
+
+
+11. Leidimai užsiimti specialiąja žvejyba privačiuose arba išnuomotuose žuvininkystės vandens telkiniuose išduodami tik savininko ar nuomininko sutikimu. Be savininko ar nuomininko sutikimo leidimai užsiimti specialiąja žvejyba gali būti išduodami tik esant ypatingai ekologinei situacijai (epizootijos židinys, ypač vertingų mokslui objektų tyrimai, nepageidaujamų Lietuvai gyvūnų rūšių atsiradimas ir kt.).
+
+
+
+
+12. Vadovaujantis leidimų išdavimo tvarka, leidimuose nurodomas žuvų išteklių naudotojas, žvejybos vietos, įrankiai ir laikas bei kitos sąlygos.
+
+
+
+
+13. Leidimuose užsiimti versline žvejyba žvejybai neišnuomotuose žuvininkystės vandens telkiniuose nurodomos ir žuvų išteklių atkūrimo bei išsaugojimo sąlygos.
  
 
 
@@ -483,40 +537,40 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-13 straipsnis. Žvejybos teisės pasibaigimo pagrindai
+12 straipsnis. Teisės žvejoti pasibaigimo pagrindai
 
 
 1. Žvejybos teisė pasibaigia:
 
 
-1) pasibaigus leidimu arba nuomos sutartimi nustatytam terminui;
+1) pasibaigus žvejybos leidime nurodytam terminui;
 
 
 
 
-2) mirus nuomininkui, kai įpėdiniai neperima su nuomos sutartimi susijusių teisių ir pareigų arba įpėdinių nėra;
+2) likvidavus arba reorganizavus juridinį asmenį;
 
 
 
 
-3) likvidavus juridinį asmenį ar įmonę, neturinčius juridinio asmens teisių, išskyrus atvejus, kai individualios (personalinės) įmonės likviduojamos, o vietoj jų įkuriamos kitos rūšies įmonės.
+3) vadovaujantis leidimų išdavimo tvarka panaikinus žvejybos leidimą;
+
+
+
+
+4) įstatymų ir kitų teisės aktų nustatyta tvarka atėmus šią teisę.
 
 
 
 
 
 
-2. Žvejybos teisė pasibaigia anuliavus žvejybos leidimą, kai fiziniai ir juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių, nesilaiko žvejybą reglamentuojančių įstatymų, kitų teisės norminių aktų, šiurkščiai ir pakartotinai pažeidžia žvejybos taisykles, žvejybą reglamentuojančius norminius aktus, žvejybos leidimų sąlygas. Vandens telkinių nuomos sutartį gali nutraukti tik teismas.
+2. Jeigu žvejybos galimybių netenkama (taip pat ir terminuotai) dėl kitų asmenų veikos, patirtų nuostolių apskaičiavimo tvarką bei įkainius nustato Vyriausybė arba jos įgaliota institucija.
 
 
 
 
-3. Jeigu žvejybos galimybės nutraukiamos (taip pat ir terminuotai) dėl kitų subjektų veiklos, patirti nuostoliai turi būti tų subjektų atlyginami Vyriausybės nustatyta tvarka. 
-
-
-
-
-4. Ginčus dėl žvejybos ir žuvų išteklių naudojimo teisės sprendžia teismas.
+3. Jeigu įstatymų ir kitų teisės aktų nustatyta tvarka žvejybos teisė atimama dėl to, kad žuvų išteklių naudotojai nesilaiko įstatymų ir kitų teisės aktų reikalavimų, tai šių naudotojų patirti nuostoliai atėmus žvejybos teisę neatlyginami.
  
 
 
@@ -524,30 +578,18 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-14 straipsnis. Žuvų išteklių naudotojų teisės
+13 straipsnis. Žuvų išteklių naudotojų teisės
 
 
-1. Žuvų išteklių naudotojai turi teisę:
+Žuvų išteklių naudotojai turi teisę:
 
 
-1) žvejoti leidime arba nuomos sutartyje nustatytomis sąlygomis;
-
-
-
-
-2) naudoti vandens telkinių pakrantės apsaugos juostas veiklai, susijusiai su žvejyba, pagal žemės servitutus;
+1) užsiimti žvejyba žvejybos leidime nustatytomis sąlygomis;
 
 
 
 
-3) Vyriausybės nustatyta tvarka gauti paramą iš valstybės atkurti ir apsaugoti žuvų išteklius, kuriuos valdo Lietuvos valstybė. 
-
-
-
-
-
-
-2. Privataus žuvininkystės tvenkinio savininkas turi teisę naudoti žuvininkystės tvenkinio žuvų išteklius ir leisti jais naudotis kitiems fiziniams ir juridiniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, šio įstatymo nustatyta tvarka. Žuvininkystės tvenkinio savininkas gali nustatyti papildomas sąlygas asmenims, kuriems jis suteikia teisę naudoti žuvų išteklius.
+2) naudoti žuvininkystės vandens telkinių pakrantės apsaugos juostas veiklai, susijusiai su žvejyba, pagal žemės servitutus.
  
 
 
@@ -555,7 +597,9 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-15 straipsnis. Žuvų išteklių naudotojų pareigos
+
+
+14 straipsnis. Žuvų išteklių naudotojų pareigos
 
 
 Žuvų išteklių naudotojai privalo:
@@ -566,37 +610,27 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-2) laikytis žvejybą ir žuvų apsaugą reglamentuojančių Lietuvos Respublikos tarptautinių sutarčių, Lietuvos Respublikos įstatymų, žvejybos taisyklių, kitų teisės aktų reikalavimų bei leidimuose, vandens telkinių nuomos sutartyse ar kituose dokumentuose, suteikiančiuose teisę naudoti žuvų išteklius, nustatytų sąlygų;
+2) laikytis žvejybą ir žuvų išsaugojimą reglamentuojančių tarptautinių sutarčių, Lietuvos Respublikos įstatymų, žvejybos taisyklių, kitų teisės aktų reikalavimų bei žvejybos leidimuose, suteikiančiuose teisę naudoti žuvų išteklius, nustatytų sąlygų;
 
 
 
 
-3) jeigu jie yra valstybinių vidaus vandens telkinių nuomininkai, Vyriausybės įgaliotos institucijos nustatyta tvarka atlikti naudojamų žuvų išteklių tyrimo bei jų būklės įvertinimo darbus ir pateikti tyrimų duomenis Vyriausybės įgaliotai institucijai ir telkinių savininkams; 
+3) Vyriausybės nustatyta tvarka ištirti naudojamus žuvų išteklius ir pateikti tyrimų duomenis Aplinkos ministerijai;
 
 
 
 
-4) vykdyti žuvų išteklių atkūrimo ir saugojimo priemones, suderintas su Vyriausybės įgaliota institucija ir telkinių savininkais;
+4) paaiškėjus, kad naudojamiems žuvų ištekliams gresia pavojus, imtis priemonių jo išvengti, o atsiradus žalingiems padariniams nedelsiant juos šalinti ir apie tai informuoti Aplinkos ministeriją bei žuvininkystės vandens telkinių savininkus;
 
 
 
 
-5) paaiškėjus, kad naudojamiems žuvų ištekliams gresia pavojus, imtis priemonių jo išvengti, o atsiradus žalingiems padariniams, neatidėliotinai imtis priemonių jiems pašalinti ir apie tai informuoti Aplinkos ministeriją bei vandens telkinių savininkus;
+5) atlyginti neteisėtais veiksmais žuvų ištekliams padarytą žalą;
 
 
 
 
-6) Žemės ūkio ministerijos nustatyta tvarka tvarkyti apskaitą ir nemokamai teikti duomenis apie sugautas žuvis, sugautų žuvų pardavimą žvejybos teisę suteikusiai institucijai (asmeniui);
-
-
-
-
-7) atlyginti neteisėtais veiksmais žuvų ištekliams padarytą žalą;
-
-
-
-
-8) vykdyti teisėtus Vyriausybės įgaliotų institucijų bei pareigūnų reikalavimus.
+6) vykdyti teisėtus Vyriausybės įgaliotų institucijų bei pareigūnų reikalavimus.
  
 
 
@@ -606,25 +640,20 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-16 straipsnis. Žuvininkystės vandens telkinių ir žuvų išteklių  apsauga
+15 straipsnis. Žuvininkystės vandens telkinių ir žuvų išteklių išsaugojimas
 
 
-1. Žuvų ir vandens augalų apsaugą nustato šis įstatymas, Aplinkos apsaugos, Vandens, Laukinės gyvūnijos, Jūros aplinkos apsaugos įstatymai ir kiti teisės aktai.
-
-
-
-
-2. Darbų užsakovai privalo užtikrinti, kad žuvininkystės vandens telkiniuose ir vandens apsaugos zonose projektuojant, statant, rekonstruojant įmones, statinius ir kitus objektus, taip pat atliekant įvairius darbus, kurie gali neigiamai veikti žuvis ir vandens augalus bei jų aplinką, bus išsaugotos palankios šiems organizmams reprodukcijos, migracijos bei gyvenimo sąlygos. Jeigu dėl tokios veiklos neigiamas poveikis žuvims, vandens augalams bei jų aplinkai neišvengiamas, darbų projektuose turi būti numatytas nuostolių atlyginimas arba jų kompensavimo priemonės, suderintos su Vyriausybės įgaliotomis institucijomis.
+1. Planuojant, projektuojant, statant ir eksploatuojant ūkinės ar kitokios veiklos objektus, galinčius neigiamai veikti žuvis bei jų aplinką, turi būti numatytos priemonės, užtikrinančios palankias žuvų reprodukcijos, migracijos ir gyvenimo sąlygas. Jeigu dėl tokios veiklos neigiamas poveikis žuvims bei jų aplinkai neišvengiamas, projektuose turi būti numatytas žalos atlyginimas arba jos kompensavimo priemonės, kurias turi atlikti darbų užsakovai.
 
 
 
 
-3. Kompensavimo priemonių parengimo ir įgyvendinimo bei nuostolių skaičiavimo tvarką nustato Vyriausybės įgaliota institucija.
+2. Saugomų rūšių žuvų ir jų buveinių bei migracijos kelių išsaugojimo priemones nustato ir jų vykdymą kontroliuoja Aplinkos ministerija. Saugomų rūšių žuvų veisimo, neršto ir migracijos sąlygų gerinimo darbus organizuoja Žemės ūkio ministerija ar jos įgaliota institucija.
 
 
 
 
-4. Vyriausybės įgaliota institucija kontroliuoja vandens telkinių epizootinę būklę bei pasireiškus masiniams užkrečiamiems žuvų susirgimams atlieka diagnostinius tyrimus ir organizuoja gydymo bei profilaktikos darbus.
+3. Valstybinė maisto ir veterinarijos tarnyba kontroliuoja vandens telkinių epizootinę būklę, o masiškai pasireiškus užkrečiamosioms žuvų ligoms – atlieka diagnostinius tyrimus ir organizuoja gydymo bei profilaktikos darbus.
  
 
 
@@ -632,60 +661,40 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 
-17 straipsnis. Tvenkinių žuvininkystės ir žuvivaisos  reguliavimas
+16 straipsnis. Žuvininkystės tvenkinių ir žuvininkystės vandens telkinių bei žuvivaisos reglamentavimas
 
 
-1. Tvenkinių ir kitų vidaus vandenų žuvininkystės produktų gamyba priskiriama žemės ūkio veiklai.
-
-
-
-
-2. Žuvininkystės tvenkiniai naudojami pagal Žemės ūkio ministerijos nustatytas žuvų auginimo žuvininkystės tvenkiniuose technologijas.
+1. Žuvininkystės tvenkinių, vidaus vandenų ir mažos apimties priekrantės žvejybos žuvininkystės produktų gamyba priskiriama žemės ūkio veiklai.
 
 
 
 
-3. Aplink žuvininkystės tvenkinių teritorijas privalo būti vandens apsaugos zonos.
+2. Privačių žuvininkystės tvenkinių žuvų ištekliai nuosavybės teise priklauso šių tvenkinių savininkams.
 
 
 
 
-4. To paties vandens šaltinio baseine draudžiama įrengti naujus tvenkinius virš aukščiau esančių žuvininkystės tvenkinių be Žemės ūkio ministerijos ir Aplinkos ministerijos leidimo.
+3. To paties vandens šaltinio baseine draudžiama įrengti naujus tvenkinius aukštupio kryptimi virš jau esančių žuvininkystės tvenkinių be Aplinkos ministerijos leidimo.
 
 
 
 
-5. Vyriausybės įgaliota institucija kontroliuoja tvenkiniuose auginamų žuvų ir kitų hidrobiontų sanitarinę ir epizootinę būklę.
+4. Valstybinė maisto ir veterinarijos tarnyba kontroliuoja žuvininkystės tvenkiniuose auginamų žuvų sanitarinę ir epizootinę būklę.
 
 
 
 
-6. Žuvivaisa, žuvininkystės tvenkinių priešepizootinės ir profilaktinės priemonės, kalkinimas gali būti finansuojami iš valstybės biudžeto.
+5. Žuvivaisa valstybiniuose žuvininkystės vandens telkiniuose vykdoma pagal Žemės ūkio ministerijos patvirtintą ir su Aplinkos ministerija suderintą programą.
 
 
 
 
-7. Fiziniai ir juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių, besiverčiantys tvenkinių žuvininkyste ir žuvivaisa, žuvalesių paukščių skaičiaus reguliavimo priemones taiko Aplinkos ministerijos nustatyta tvarka.
+6. Žuvivaisos valstybiniuose žuvininkystės vandens telkiniuose tvarką nustato Žemės ūkio ministerija kartu su Aplinkos ministerija.
 
 
 
 
-8. Žuvivaisa valstybiniuose žuvininkystės vandens telkiniuose vykdoma pagal Žemės ūkio ministerijos patvirtintą ir su Aplinkos ministerija suderintą programą. 
-
-
-
-
-9. Naujų žuvų rūšių introdukcija, išnykusių žuvų rūšių reintrodukcija bei retų ir nykstančių žuvų rūšių perkėlimas bei veisimas vykdomas Aplinkos ministerijos nustatyta tvarka tik gavus Aplinkos ministerijos ir Veterinarijos tarnybos leidimą.
-
-
-
-
-10. Retų, vertingų, nykstančių rūšių žuvų, vėžiagyvių, moliuskų veisimas valstybiniuose neišnuomotuose žuvininkystės vandens telkiniuose, mokslinio tyrimo, naujų technologijų rengimo ir diegimo, žuvų selekcijos ir veislininkystės darbai finansuojami iš valstybės biudžeto, taip pat iš savivaldybių biudžetų, tikslinių fondų ir kitų lėšų.
-
-
-
-
-11. Žuvų gaudymo žuvivaisai ir žuvų įveisimo vandens telkiniuose tvarką nustato Žemės ūkio ministerija.
+7. Valstybiniai vidaus vandenys ( išskyrus upes), iš kurių vandeniu aprūpinami visų nuosavybės formų tvenkiniai ir įmonės, užsiimančios žuvivaisa, taip pat inkubacijos cechai, žvejybai nuomojami suteikiant pirmumo teisę minėtoms įmonėms ir tvenkinių savininkams.
  
 
 
@@ -696,19 +705,78 @@ LIETUVOS ŽUVŲ IŠTEKLIŲ NAUDOJIMAS
 
 
 KETVIRTASIS SKIRSNIS
-LIETUVOS ŽVEJYBOS LAIVŲ REGISTRAVIMAS
+ŽVEJYBA LIETUVOS RESPUBLIKOS ŽVEJYBOS LAIVAIS BEI ŽVEJYBA EUROPOS SĄJUNGOS IR TREČIŲJŲ ŠALIŲ ŽVEJYBOS LAIVAIS LIETUVOS RESPUBLIKOS IŠSKIRTINĖJE EKONOMINĖJE ZONOJE
  
 
 
-18 straipsnis. Žvejybos laivų registravimas
+17 straipsnis. Lietuvos Respublikos žvejybos laivų kapitonų pareigos
 
 
-1. Lietuvos Respublikos jūrų laivų registre arba Lietuvos Respublikos vidaus vandenų laivų registre įregistruoti žvejybos laivai turi būti papildomai įregistruoti Žemės ūkio ministerijos tvarkomame žvejybos laivų rejestre.
+1. Lietuvos Respublikos žvejybos laivų kapitonai turi Lietuvos Respublikos ir Europos Sąjungos teisės aktuose bei tarptautinėse sutartyse jiems nustatytas teises ir pareigas.
 
 
 
 
-2. Žvejybos laivų registravimo rejestre tvarką nustato Vyriausybė. 
+2. Lietuvos Respublikos žvejybos laivo įgulą (įskaitant laivo kapitoną ir laivo kapitono vyriausiąjį padėjėją) turi sudaryti ne mažiau kaip du trečdaliai Europos Sąjungos valstybių piliečių ar nuolatinių Lietuvos Respublikos gyventojų. Laivo kapitono ir laivo kapitono vyriausiojo padėjėjo pareigas gali eiti tik Lietuvos Respublikos piliečiai.
+ 
+
+
+
+
+
+
+18 straipsnis. Palydovinio ryšio Lietuvos Respublikos žvejybos laivų stebėjimo sistema
+
+
+1. Vadovaujantis Europos Sąjungos teisės aktais, Lietuvos Respublikos žvejybos laivuose užtikrinama palydovinio ryšio Lietuvos Respublikos žvejybos laivų stebėjimo sistemos veikla.
+
+
+
+
+2. Palydovinio ryšio Lietuvos Respublikos žvejybos laivų stebėjimo sistemą valdo, naudoja ir ja disponuoja Žemės ūkio ministerija ar jos įgaliota institucija, kuri nustato šių teisių įgyvendinimo tvarką.
+ 
+
+
+
+
+
+
+19 straipsnis. Žvejybos stebėtojai
+
+
+1. Tarptautinių žvejybos organizacijų reikalavimu jų jurisdikcijai priklausančiose akvatorijose žvejojančiuose Lietuvos Respublikos žvejybos laivuose privalo dirbti žvejybos stebėtojai. Žemės ūkio ministerijos nustatyta tvarka žvejybos stebėtojai skiriami ir į kitose akvatorijose žvejojančius Lietuvos Respublikos žvejybos laivus.
+
+
+
+
+2. Žvejybos stebėtojų veiklos, jų mokymo ir atestavimo tvarką nustato Žemės ūkio ministerija.
+ 
+
+
+
+
+
+
+20 straipsnis. Žvejyba trečiųjų šalių žvejybos laivais Lietuvos Respublikos išskirtinėje ekonominėje zonoje
+
+
+1. Trečiųjų šalių žvejybos laivai, žvejojantys Lietuvos Respublikos išskirtinėje ekonominėje zonoje, iškraudami žuvis Lietuvos uostuose arba perkraudami į kitą laivą Lietuvos Respublikos išskirtinėje ekonominėje zonoje, privalo vadovautis Europos Sąjungos ir Lietuvos Respublikos įstatymais ir kitais teisės aktais.
+
+
+
+
+2. Žemės ūkio ministerija informuoja Lietuvos Respublikos kariuomenės karines jūrų pajėgas apie gautus trečiųjų šalių žvejybos laivų pranešimus dėl įplaukimo į Lietuvos Respublikos išskirtinę ekonominę zoną.
+ 
+
+
+
+
+
+
+21 straipsnis. Europos Sąjungos ir trečiųjų šalių žvejybos laivų tikrinimas ir sulaikymas
+
+
+Europos Sąjungos ir trečiųjų šalių žvejybos laivai, užsiimantys žvejyba Lietuvos Respublikos išskirtinėje ekonominėje zonoje, tikrinami ir sulaikomi Vyriausybės nustatyta tvarka.
  
 
 
@@ -719,59 +787,29 @@ LIETUVOS ŽVEJYBOS LAIVŲ REGISTRAVIMAS
 
 
 PENKTASIS SKIRSNIS
-ŽVEJYBA LIETUVOS RESPUBLIKOS JŪRŲ ŽVEJYBOS LAIVAIS
+PREKYBA žuvininkystės produktAIS iR parama žuvininkystei
  
 
 
-19 straipsnis. Lietuvos Respublikos jūrų žvejybos laivų kapitonų pareigos
+22 straipsnis. Pirminis žuvininkystės produktų pardavimas ir supirkimas
 
 
-1. Lietuvos Respublikos jūrų žvejybos laivų kapitonai privalo: 
-
-
-1) vykdyti Lietuvos Respublikos laivų kapitonams Vyriausybės nustatytas pareigas ir laikytis Vyriausybės nustatytos tvarkos įplaukiant į Lietuvos uostus bei teritorinius vandenis ir išplaukiant iš jų;
+1. Pirminio žuvininkystės produktų pardavimo, supirkimo ir kontrolės tvarką nustato Vyriausybė.
 
 
 
 
-2) pildyti žvejybos žurnalus pagal Žemės ūkio ministerijos patvirtintas žvejybos žurnalų pildymo taisykles;
+2. Pirminį žuvininkystės produktų supirkimą vykdo Žemės ūkio ministerijos ar jos įgaliotos institucijos registruoti pirminiai žuvininkystės produktų supirkėjai.
 
 
 
 
-3) teikti informaciją apie žvejybą, žuvų iškrovimą krante bei perkrovimą į kitus laivus jūroje Žemės ūkio ministerijos nustatyta tvarka;
+3. Pirminis žuvininkystės produktų pardavimas ir supirkimas vykdomas Žemės ūkio ministerijos nustatytose pirminio žuvininkystės produktų pardavimo vietose arba aukcionuose, išskyrus išimtis, kurias nustato Vyriausybė. Pirminio žuvininkystės produktų pardavimo aukciono nuostatus tvirtina Žemės ūkio ministerija.
 
 
 
 
-4) Vyriausybės įgaliotos institucijos pareigūnų reikalavimu priimti juos į laivą, perkelti į tame rajone esančius kitus laivus, leisti apžiūrėti visas laivo patalpas, tikrinti laimikį ir žvejybos įrankius, laivo dokumentus, teikti pagalbą tikrinimo metu;
-
-
-
-
-5) suteikti Vyriausybės įgaliotos institucijos pareigūnams galimybę daryti išrašus arba jų reikalavimu pateikti parengtus išrašus iš žvejybos ir laivų žurnalų bei kitų su žvejyba susijusių dokumentų;
-
-
-
-
-6) perduoti nemokamai per laivo radijo stotį Vyriausybės įgaliotos institucijos pareigūnų tarnybines radiogramas ir pranešimus;
-
-
-
-
-7) turėti laive ir Vyriausybės įgaliotos institucijos pareigūnų reikalavimu pateikti (ir žvejybos vietoje, ir uoste) žvejybos leidimą, nustatytos formos žvejybos bilietą, žvejybos žurnalą, žuvų iškrovimo krante, perkrovimo į kitus laivus jūroje dokumentus ar patvirtintas jų kopijas;
-
-
-
-
-8) vykdyti kitus teisėtus Vyriausybės įgaliotos institucijos pareigūnų reikalavimus.
-
-
-
-
-
-
-2. Kapitono patvirtintos žuvų iškrovimo ir pardavimo krante, perkrovimo į kitus laivus jūroje dokumentų kopijos, užbaigti pildyti žvejybos žurnalai turi būti saugomi laive ne mažiau kaip 12 mėnesių.
+4. Šio straipsnio reikalavimai netaikomi vidaus vandenyse sugautoms žuvims ir iš jų pagamintiems produktams bei pirkėjams, įsigyjantiems žuvininkystės produktus, kurie ne parduodami, o naudojami tik asmeniniam vartojimui.
  
 
 
@@ -779,15 +817,45 @@ PENKTASIS SKIRSNIS
 
 
 
-20 straipsnis. Žvejyba atviroje jūroje
+23 straipsnis. Žuvininkystės produktų realizavimo kontrolė
 
 
-1. Atviroje jūroje žvejoti turi teisę Lietuvos Respublikos jūrų žvejybos laivai, gavę žvejybos leidimą. Leidimų išdavimo ir informacijos apie žvejybą atviroje jūroje pateikimo tvarką nustato Žemės ūkio ministerija. 
+1. Žuvininkystės produktų kilmė, įsigijimo teisėtumas, sauga ir kokybė Vyriausybės įgaliotų institucijų kontroliuojama visais gamybos, apdorojimo, perdirbimo, laikymo, vežimo, supirkimo ir realizavimo etapais.
 
 
 
 
-2. Atviros jūros rajonuose Lietuvos Respublikos jūrų žvejybos laivai žvejoja laikydamiesi šio įstatymo ir kitų žvejybos tvarką reguliuojančių teisės aktų reikalavimų. 
+2. Žuvininkystės produktai iš žvejybos laivų iškraunami Žemės ūkio ministerijos nustatytose vietose.
+
+
+
+
+3. Visais žuvininkystės produktų realizavimo etapais atsekamumą nuo žuvų sugavimo iki galutinio vartotojo kontroliuoja Valstybinė maisto ir veterinarijos tarnyba.
+
+
+
+
+4. Draudžiama sandėliuoti, vežti, perdirbti ir parduoti mažesnes, negu yra nustatyta, minimalaus parduoti nustatyto dydžio žuvis, skirtas maistui, išskyrus akvakultūros įmonėse išaugintas žuvis ir iš jų pagamintus produktus, bei žuvis, skirtas žuvivaisai.
+
+
+
+
+5. Draudžiama prekiauti specialiosios žvejybos metu mokslinių tyrimų tikslais sužvejotomis žuvimis bei iš jų pagamintais žuvininkystės produktais.
+
+
+
+
+6. Draudžiama gabenti, sandėliuoti, perdirbti uždraustos žvejybos metu sužvejotas šviežias žuvis ir prekiauti jomis, išskyrus dirbtinai išaugintas žuvis, kurioms turi būti tai patvirtinantys dokumentai. 
+
+
+
+
+7. Draudžiamų sandėliuoti, vežti, perdirbti ar parduoti žuvų ar žuvininkystės produktų panaudojimo tvarką nustato Žemės ūkio ministerija ar jos įgaliota institucija.
+
+
+
+
+8. Lietuvos Respublikos žvejybos laivai ir įmonės turi turėti Valstybinės maisto ir veterinarijos tarnybos patvirtinimą, kad jie atitinka teisės aktų nustatytus reikalavimus.
  
 
 
@@ -795,20 +863,32 @@ PENKTASIS SKIRSNIS
 
 
 
-21 straipsnis. Žvejyba kitų valstybių išskirtinėse ekonominėse zonose ir tarptautinių žvejybos organizacijų reguliuojamose akvatorijose
+24 straipsnis. Žuvininkystės produktų gamintojų organizacijų ir žuvininkystės tarpšakinių organizacijų pripažinimas ir pripažinimo panaikinimas
 
 
-1. Kitų valstybių išskirtinėse ekonominėse zonose Lietuvos Respublikos jūrų žvejybos laivai žvejoja Lietuvos Respublikos tarptautinėse sutartyse dėl žvejybos santykių nustatyta tvarka, laikydamiesi tų valstybių nustatytos žvejybos tvarkos, šio įstatymo ir kitų Lietuvos Respublikos žvejybos tvarką reguliuojančių teisės aktų reikalavimų. 
-
-
-
-
-2. Kitų valstybių išskirtinėse ekonominėse zonose žvejoti turi teisę Lietuvos Respublikos jūrų žvejybos laivai, gavę žvejybos leidimą. Leidimų išdavimo ir informacijos apie žvejybą kitų valstybių išskirtinėse ekonominėse zonose pateikimo tvarką nustato Žemės ūkio ministerija.
+Žemės ūkio ministerija ar jos įgaliota institucija nustato žuvininkystės produktų gamintojų organizacijų ir žuvininkystės tarpšakinių organizacijų pripažinimo ir pripažinimo panaikinimo tvarką.
+ 
 
 
 
 
-3. Tarptautinių žvejybos organizacijų reguliuojamose akvatorijose Lietuvos Respublikos jūrų žvejybos laivai žvejoja šių organizacijų nustatyta tvarka, laikydamiesi šio įstatymo ir kitų Lietuvos Respublikos teisės aktų reikalavimų. Tarptautinių žvejybos organizacijų skirtų žuvų sugavimo limitų paskirstymo tvarką nustato Žemės ūkio ministerija.
+
+
+25 straipsnis. Intervencinės žuvininkystės produktų rinkos reguliavimo priemonės
+
+
+Siekdamos palaikyti žuvų išteklių naudotojų pajamų lygį ir stabilią žuvininkystės produktų rinką, žuvininkystės produktų gamintojų organizacijos vykdo intervencines žuvininkystės produktų rinkos reguliavimo priemones, kurias administruoja ir kontroliuoja Vyriausybės įgaliotos institucijos.
+ 
+
+
+
+
+
+
+26 straipsnis. Žuvininkystės rėmimas
+
+
+Žuvininkystė remiama pagal Vyriausybės arba jos įgaliotos institucijos patvirtintas paramos priemones ir programas.
  
 
 
@@ -819,60 +899,14 @@ PENKTASIS SKIRSNIS
 
 
 ŠEŠTASIS SKIRSNIS
-ŽVEJYBA UŽSIENIO VALSTYBIŲ LAIVAIS LIETUVOS RESPUBLIKOS
-IŠSKIRTINĖJE EKONOMINĖJE ZONOJE
+BAIGIAMOSIOS NUOSTATOS
  
 
 
-22 straipsnis. Žvejyba užsienio valstybių laivais Lietuvos Respublikos išskirtinėje ekonominėje zonoje
+27 straipsnis. Įstatymo vykdymo kontrolė
 
 
-1. Užsienio valstybių laivai žvejoja Lietuvos Respublikos išskirtinėje ekonominėje zonoje tik Lietuvos Respublikos tarptautinėse sutartyse dėl žvejybos santykių nustatyta tvarka.
-
-
-
-
-2. Užsienio valstybių, su kuriomis nesudarytos sutartys dėl žvejybos santykių, laivams draudžiama žvejoti Lietuvos Respublikos išskirtinėje ekonominėje zonoje.
-
-
-
-
-3. Lietuvos fiziniams, juridiniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, įgijusiems teisę naudoti žuvų išteklius, draudžiama išnuomoti užsienio valstybių fiziniams ir juridiniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, laivus verslinei žvejybai Lietuvos Respublikos išskirtinėje ekonominėje zonoje.
-
-
-
-
-4. Užsienio valstybių laivų, žvejojančių Lietuvos Respublikos išskirtinėje ekonominėje zonoje, kapitonai turi laikytis šių reikalavimų:
-
-
-1) pranešti Lietuvos Respublikos Vyriausybės įgaliotoms institucijoms apie įplaukimą į Lietuvos išskirtinę ekonominę zoną ne vėliau kaip prieš 3 valandas, nurodyti registravimo valstybę, borto numerį, pavadinimą, radijo šaukinį, įplaukimo laiką (pagal Grinvičą), įplaukimo į Lietuvos išskirtinę ekonominę zoną koordinates, turimą laive žuvų kiekį pagal rūšis;
-
-
-
-
-2) žuvis iškrauti Lietuvos uostuose arba perkrauti į kitą laivą Lietuvos Respublikos išskirtinėje ekonominėje zonoje Žemės ūkio ministerijos nustatyta tvarka;
-
-
-
-
-3) pranešti Lietuvos Respublikos Vyriausybės įgaliotoms institucijoms apie išplaukimą iš Lietuvos išskirtinės ekonominės zonos ne vėliau kaip prieš 3 valandas, nurodyti registravimo valstybę, borto numerį, pavadinimą, radijo šaukinį, išplaukimo laiką (pagal Grinvičą), išplaukimo iš Lietuvos išskirtinės ekonominės zonos koordinates, Lietuvos vandenyse sužvejotų žuvų kiekį pagal rūšis;
-
-
-
-
-4) laikytis šio įstatymo 19 straipsnio 1 dalies 4, 5, 6, 8 punktų reikalavimų. 
-
-
-
-
-
-
-5. Lietuvos Respublikos Vyriausybės įgaliotos institucijos informuoja Lietuvos Respublikos kariuomenės karines jūrų pajėgas apie gautus užsienio žvejybos laivų pranešimus dėl įplaukimo į Lietuvos Respublikos išskirtinę ekonominę zoną.
-
-
-
-
-6. Užsienio žvejybos laivų žvejybos žurnalai turi būti pildomi pagal Tarptautinės žvejybos Baltijos jūroje komisijos nustatytas taisykles.
+Šio Įstatymo vykdymą pagal kompetenciją kontroliuoja Vyriausybės įgaliotos institucijos.
  
 
 
@@ -880,25 +914,10 @@ IŠSKIRTINĖJE EKONOMINĖJE ZONOJE
 
 
 
-23 straipsnis. Užsienio žvejybos laivų tikrinimas ir sulaikymas
+28 straipsnis. Atsakomybė už šio Įstatymo pažeidimus
 
 
-1. Užsienio žvejybos laivai, žvejojantys Lietuvos Respublikos išskirtinėje ekonominėje zonoje, gali būti tikrinami Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
-
-
-
-
-2. Jeigu laivo kapitonas atsisako vykdyti Lietuvos Respublikos Vyriausybės įgaliotos institucijos pareigūnų reikalavimus, taip pat jeigu pagal pažeidimo pobūdį administracinė nuobauda negali būti paskirta vietoje arba jeigu pažeidėjas, kuriam paskirta administracinė bauda vietoje, atsisako pateikti baudos sumokėjimo garantiją, Lietuvos Respublikos Vyriausybės įgaliotos institucijos pareigūnai turi teisę sulaikyti pažeidėjus ir pristatyti jų laivus į uostą.
-
-
-
-
-3. Sulaikytas užsienio žvejybos laivas nedelsiant paleidžiamas, jeigu pateikia pakankamą užstatą arba raštišką laivo savininko ar draudimo kompanijos laidavimą, patvirtintą sulaikytojo laivo kapitono, kad žala bus atlyginta, o piniginės baudos sumokėtos. Nustatant užstato arba laidavimo dydį, atsižvelgiama į maksimalią nuobaudą, kuri gali būti paskirta pažeidėjui, padarytos žalos dydį ir kitas aplinkybes.
-
-
-
-
-4. Apie užsienio žvejybos laivų sulaikymą ar kitas pritaikytas priemones ir paskirtas nuobaudas nedelsiant pranešama Užsienio reikalų ministerijai, o ši apie tai informuoja laivo vėliavos valstybę.
+Fiziniai ir juridiniai asmenys, pažeidę šį Įstatymą, atsako pagal Lietuvos Respublikos įstatymus.
  
 
 
@@ -906,240 +925,84 @@ IŠSKIRTINĖJE EKONOMINĖJE ZONOJE
 
 
 
+29 straipsnis. Žalos žuvų ištekliams atlyginimas
 
 
-SEPTINTASIS SKIRSNIS
-PIRMINIO ŽUVŲ PARDAVIMO IR ŽUVŲ PERDIRBIMO REGULIAVIMAS
- 
+1. Fiziniai ir juridiniai asmenys, padarę žalos žuvų ištekliams, privalo ją atlyginti Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
 
 
-24 straipsnis. Pirminis žuvų pardavimas
 
 
-1. Pirminio žuvų pardavimo tvarką nustato Žemės ūkio ministerija.
+2. Padarytos žalos žuvų ištekliams apskaičiavimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
 
 
 
-2. Fiziniai, juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių, vykdydami žuvų pardavimą ar pirkimą, Žemės ūkio ministerijai privalo pateikti žuvų pirkimo- pardavimo pranešimus, kuriuose nurodoma:
 
 
-1) kiekvienos rūšies žuvų svoris, kokybė, perdirbimo laipsnis ir šviežumas;
 
 
-
-
-2) kiekvienos rūšies žuvų pirminio pardavimo kaina;
-
-
-
-
-3) pirkėjas ir pardavėjas;
-
-
-
-
-4) pirkimo-pardavimo vieta ir data;
-
-
-
-
-5) laivo išoriniai atpažinimo ženklai ir pavadinimas; 
-
-
-
-
-6) laivo savininko arba kapitono vardas, pavardė; 
-
-
-
-
-7) žuvų iškrovimo uostas.
- 
-
-
-
-
-
-
-
-
-25 straipsnis. Žuvų perdirbimas
-
-
-Žemės ūkio ministerija nustato šiuos reikalavimus: 
-
-
-1) žuvų paruošimo, tvarkymo ir perdirbimo sąlygų;
-
-
-
-
-2) sanitarijos, higienos ir darbo sąlygų;
-
-
-
-
-3) inventoriaus ir darbo patalpų;
-
-
-
-
-4) technologinių procesų, produktų saugos užtikrinimo ir gamybos proceso kontrolės;
-
-
-
-
-5) žaliavų ir gatavų produktų laikymo, gabenimo ir pateikimo į rinką.
-
-
-
-
-
-
-2. Vyriausybės įgaliota institucija rengia žuvų ir žuvų produktų importo bei eksporto plėtros valstybinių programų projektus.
- 
-
-
-
-
-
-
-
-
-AŠTUNTASIS SKIRSNIS
-ĮSTATYMO VYKDYMO KONTROLĖ IR ATSAKOMYBĖ UŽ JO PAŽEIDIMUS
- 
-
-
-26 straipsnis. Žuvininkystės įstatymo vykdymo kontrolė
-
-
-Šio įstatymo vykdymą pagal kompetenciją kontroliuoja Vyriausybės įgaliotos institucijos.
- 
-
-
-
-
-
-
-27 straipsnis. Atsakomybė už Žuvininkystės įstatymo pažeidimus
-
-
-Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisių, pažeidusios šio įstatymo reikalavimus, traukiamos atsakomybėn pagal Lietuvos Respublikos įstatymus.
- 
-
-
-
-
-
-
-28 straipsnis. Žalos ar nuostolių žuvų ištekliams atlyginimas
-
-
-1. Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisių, padariusios žalos ar nuostolių žuvų ištekliams, privalo atlyginti žalą ar nuostolius Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-
-
-
-2. Žalos ar nuostolių žuvų ištekliams apskaičiavimo tvarką bei įkainius nustato Vyriausybė arba jos įgaliota institucija. 
- 
-
-
-
-
-
-
-29 straipsnis. Ieškiniai dėl padarytos žalos ar nuostolių atlyginimo
-
-
-Reikšti ieškinius dėl padarytos žalos ar nuostolių turi teisę:
-
-
-1) žuvų išteklių naudotojai, kurių turtui ar interesams padaryta žala;
-
-
-
-
-2) Vyriausybės įgaliotos institucijos, kiti įstatymų įgalioti pareigūnai, kai žala padaryta valstybės interesams.
- 
-
-
-
-
-
-
-
-
-30 straipsnis. Ginčai dėl Žuvininkystės įstatymo pažeidimų
-
-
-Ginčus dėl Žuvininkystės įstatymo pažeidimų įstatymų nustatyta tvarka nagrinėja ir sprendžia Lietuvos Respublikos teismai, jeigu kitaip nenumatyta Lietuvos Respublikos tarptautinėse sutartyse.
- 
-
-
-
-
-
-
-
-
-DEVINTASIS SKIRSNIS
-TARPTAUTINIS BENDRADARBIAVIMAS ŽUVININKYSTĖS SRITYJE
- 
-
-
-31 straipsnis. Tarptautinis bendradarbiavimas žuvininkystės srityje
-
-
-1. Lietuvos Respublika, vadovaudamasi tarptautiniais natūralių žuvų išteklių išsaugojimo ir valdymo principais, sudaro tarptautines sutartis žuvininkystės klausimais, dalyvauja tarptautinių organizacijų, susijusių su žuvininkyste, veikloje.
-
-
-
-
-2. Bendradarbiaudamos su kitomis valstybėmis ir tarptautinėmis organizacijomis žuvininkystės srityje, Lietuvos Respublikos Vyriausybės įgaliotos institucijos:
-
-
-1) sprendžia regionines ir globalines žuvų išteklių naudojimo bei apsaugos problemas;
-
-
-
-
-2) teikia suinteresuotoms valstybėms ir tarptautinėms organizacijoms informaciją žuvininkystės klausimais, praneša apie tarptautinių gyvųjų vandens išteklių išsaugojimo ir valdymo priemonių naudojimą ar naudojimo pažeidimus.
- 
-
-
-
-
-
-
-
-
-32 straipsnis. Tarptautinės sutartys
-
-
-Jeigu Lietuvos Respublikos tarptautinėse sutartyse su užsienio valstybėmis ir tarptautinėmis žvejybos organizacijomis numatytos kitokios žvejybos ir žuvų išteklių apsaugos taisyklės, negu numato Lietuvos Respublikos teisės aktai, taikomos šių sutarčių numatytos taisyklės. 
- 
-
-
-
-
-
-
-33 straipsnis. Įstatymo įgyvendinimas
-
-
-Vyriausybė iki 2000 m. spalio 1 d. parengia ir priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
  
  
-
-
-
-
-
-
-
-
+ 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                                VALDAS ADAMKUS
+ 
+
+
+ 
+
+
+
+
+Lietuvos Respublikos
+žuvininkystės įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 1993 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2847/93, nustatantis bendrosios žuvininkystės politikos kontrolės sistemą (su paskutiniais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 806/2003).
+
+
+
+
+2. 1999 m. birželio 21 d. Tarybos reglamentas (EB) Nr. 1263/1999 dėl Žuvininkystės orientavimo finansinio instrumento.
+
+
+
+
+3. 1999 m. gruodžio 17 d. Tarybos reglamentas (EB) Nr. 2792/1999, nustatantis išsamias Bendrijos struktūrinės paramos žuvininkystės sektoriuje taisykles ir tvarką (su paskutiniais pakeitimais, padarytais 2002 m. gruodžio 20 d. Tarybos reglamentu (EB) Nr. 2369/2002).
+
+
+
+
+4. 1999 m. gruodžio 17 d. Tarybos reglamentas (EB) Nr. 104/2000 dėl bendro žuvininkystės ir akvakultūros produktų rinkų organizavimo.
+
+
+
+
+5. 2000 m. birželio 29 d. Tarybos reglamentas (EB) Nr. 1543/2000, nustatantis duomenų, būtinų Bendrijos bendrosios žuvininkystės politikos vykdymui, rinkimo ir tvarkymo sistemą.
+
+
+
+
+6. 2002 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 2371/2002 dėl žuvų išteklių išsaugojimo ir tausojančio naudojimo pagal bendrąją žuvininkystės politiką.
+
+
+
+
+7. 2003 m. gruodžio 30 d. Komisijos reglamentas (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivų registro.
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2193, 2004-04-29, Žin., 2004, Nr. 73-2527 (2004-04-30), i. k. 1041010ISTA0IX-2193
+Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas
