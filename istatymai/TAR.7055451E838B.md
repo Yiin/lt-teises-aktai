@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1999-12-09 iki 2000-04-04
+Suvestinė redakcija nuo 2000-04-05 iki 2000-04-20
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
  
@@ -636,6 +636,13 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, o jo privatizavimo programa gali būti sustabdyta ir(ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, ar dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas.
+
+
+
+
+13. Nuomos metu dėl privatizavimo objekto (statinio) pagerinimo padarytas išlaidas pagal Lietuvos Respublikos civilinį kodeksą nuomininkui Lietuvos Respublikos Vyriausybės nustatyta tvarka atlygina potencialus pirkėjas, įsigyjantis privatizavimo objektą. Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka vertinant tokį privatizavimo objektą turi būti nustatytas vertės padidėjimas procentais dėl šiam objektui (statiniui) pagerinti padarytų išlaidų. Gaunamos iš privatizavimo sandorio lėšos, atitinkamai jas sumažinus dėl privatizavimo objekto vertės padidėjimo, pervedamos į Finansų ministerijai atidarytą privatizavimo fondo sąskaitą (jei privatizavimo objektas nuosavybės teise priklauso savivaldybei, - į savivaldybės specialiąją sąskaitą). Likusi privatizavimo lėšų dalis pervedama nuomininkui, išskyrus tą dalį, kuri buvo įskaityta į nuomos mokestį. Ši lėšų dalis pervedama į privatizavimo objekto valdytojo sąskaitą.
+Papildyta straipsnio dalimi:
+Nr. VIII-1575, 2000-03-16, Žin., 2000, Nr. 28-765 (2000-04-05), i. k. 1001010ISTAIII-1575
  
 
 
@@ -1389,3 +1396,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 5
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1454, 1999-11-25, Žin., 1999, Nr. 105-3030 (1999-12-09), i. k. 0991010ISTAIII-1454
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1575, 2000-03-16, Žin., 2000, Nr. 28-765 (2000-04-05), i. k. 1001010ISTAIII-1575
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10 straipsnio papildymo įstatymas
