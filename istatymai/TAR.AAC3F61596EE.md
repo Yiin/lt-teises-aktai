@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AAC3F61596EE"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2002-09-25 iki 2002-12-23
+Suvestinė redakcija nuo 2002-12-24 iki 2003-05-13
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2633, i. k. 1021010ISTA00IX-965
  
@@ -54,7 +54,10 @@ Operatyvinės veiklos subjektai vadovaujasi Lietuvos Respublikos Konstitucija, �
 
 7. Techninių priemonių naudojimas operatyvinėje veikloje – techninių priemonių įrengimas, eksploatavimas ar išmontavimas, taip pat kiti su tuo susiję teisėti veiksmai. Techninės priemonės operatyvinėje veikloje gali būti naudojamos bendra ir specialia tvarka.
 
-8. Techninių priemonių naudojimas specialia tvarka – teismo sankcionuotas techninių priemonių naudojimas operatyvinėje veikloje kontroliuojant ar fiksuojant asmenų pokalbius, kitokį susižinojimą ar veiksmus, kai nė vienam pokalbio, kitokio susižinojimo ar veiksmų dalyviui apie tokią kontrolę nėra žinoma ir tai vykdoma įstatymų nustatyta tvarka apribojant žmogaus privataus gyvenimo neliečiamumą. Telekomunikacijų tinklais perduodamos asmenų informacijos turinio kontrolė bei jos fiksavimas, net ir žinant apie tokią kontrolę vienam iš jų, reikalauja teismo sankcijos, išskyrus atvejus, kai asmuo paprašo arba sutinka su tokia kontrole ar fiksavimu nesinaudojant telekomunikacijų operatorių paslaugomis ir įrenginiais.
+8. Techninių priemonių naudojimas specialia tvarka – motyvuota teismo nutartimi sankcionuotas techninių priemonių naudojimas operatyvinėje veikloje kontroliuojant ar fiksuojant asmenų pokalbius, kitokį susižinojimą ar veiksmus, kai nė vienam pokalbio, kitokio susižinojimo ar veiksmų dalyviui apie tokią kontrolę nėra žinoma ir tai vykdoma įstatymų nustatyta tvarka apribojant žmogaus privataus gyvenimo neliečiamumą. Telekomunikacijų tinklais perduodamos asmenų informacijos turinio kontrolė bei jos fiksavimas, net ir žinant apie tokią kontrolę vienam iš jų, reikalauja motyvuotos teismo nutarties, išskyrus atvejus, kai asmuo paprašo arba sutinka su tokia kontrole ar fiksavimu nesinaudojant telekomunikacijų operatorių paslaugomis ir įrenginiais.
+Straipsnio dalies pakeitimai:
+Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
+ 
 
 9. Techninių priemonių naudojimas bendra tvarka – techninių priemonių naudojimas operatyvinėje veikloje operatyvinės veiklos subjektų pagrindinių institucijų nustatyta tvarka šio straipsnio 8 dalyje neišvardytais atvejais, taip pat ir šio straipsnio 8 dalyje išvardytais atvejais, kai jos naudojamos operatyvinės veiklos subjektų patalpose ir transporto priemonėse tų pačių subjektų iniciatyva saugumui bei imunitetui užtikrinti, išskyrus patalpas, naudojamas įmonių, įstaigų ar organizacijų, įsteigtų pagal šio Įstatymo 7 straipsnio 3 dalies 2 punktą, taip pat pokalbių telefonu kontrolę.
 
@@ -172,7 +175,12 @@ OPERATYVINĖS VEIKLOS SUBJEKTŲ TEISĖS IR PAREIGOS
 
 10) asmens sutikimu tirti jį poligrafu įstatymų nustatyta tvarka;
 
-11) įstatymų nustatyta tvarka įpareigoti asmenį, kuriam atliekamas operatyvinis tyrimas, ir (ar) jo vaikus, sutuoktinį, tėvus, senelius, vaikaičius, brolius, seseris ir (ar) kitus su juo susijusius asmenis pagrįsti turto įsigijimo ir pajamų teisėtumą.
+11) įstatymų nustatyta tvarka įpareigoti asmenį, kuriam atliekamas operatyvinis tyrimas, ir (ar) jo vaikus, sutuoktinį, tėvus, senelius, vaikaičius, brolius, seseris ir (ar) kitus su juo susijusius asmenis pagrįsti turto įsigijimo ir pajamų teisėtumą;
+
+12) gauti iš įmonių, įstaigų ir organizacijų operatyvinei veiklai reikalingą informaciją, išskyrus informaciją, kuriai gauti pagal įstatymus reikalinga motyvuota teismo nutartis. 
+Papildyta straipsnio punktu:
+Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
+ 
 
 2. Operatyvinės veiklos subjektų pagrindinės institucijos gali nustatyti šio straipsnio 1 dalyje išvardytų teisių įgyvendinimo tvarką.
 
@@ -188,19 +196,19 @@ OPERATYVINĖS VEIKLOS SUBJEKTŲ TEISĖS IR PAREIGOS
 
 5) naudoti specialias chemines medžiagas, nesukeliančias pavojaus žmogaus gyvybei ar sveikatai, skirtas įvairiems objektams žymėti specifinėmis žymomis, leidžiančiomis juos išskirti iš tokių pačių objektų visumos;
 
-6) gauti iš įmonių, įstaigų ir organizacijų operatyvinei veiklai reikalingą informaciją;
-TAR pastaba. Lietuvos Respublikos operatyvinės veiklos įstatymo (2002 m. birželio 20 d. redakcija) 7 straipsnio 3 dalies 6 punkto nuostata, kad operatyvinės veiklos subjektai Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka turi teisę gauti iš įmonių, įstaigų ir organizacijų operatyvinei veiklai reikalingą informaciją, ta apimtimi, kuria nustatyta, kad informacija ir apie privatų asmens gyvenimą gali būti renkama Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka, prieštarauja Lietuvos Respublikos Konstitucijos 22 straipsniui ir konstituciniam teisinės valstybės principui.
-Straipsnio punkto pakeitimai:
-2002-09-19, Žin., 2002, Nr. 93-4000 (2002-09-25), i. k. 1021000NUTARG023218            
+6) įsigyti psichotropinių ar narkotinių medžiagų bei I kategorijos pirmtakų (prekursorių).
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
  
-
-7) įsigyti psichotropinių ar narkotinių medžiagų bei I kategorijos pirmtakų (prekursorių).
 
 4. Operatyvinės veiklos subjektai, esant šio Įstatymo 9 straipsnyje numatytiems operatyvinio tyrimo pagrindams, gavę šio Įstatymo 10, 11, 12 arba 13 straipsniuose nustatytą sankciją, turi teisę:
 
 1) slapta kontroliuoti pašto siuntas, dokumentų siuntas, pašto perlaidas bei jų dokumentus;
 
-2) specialia tvarka naudoti technines priemones;
+2) specialia tvarka naudoti technines priemones ir gauti informaciją iš telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų;
+Straipsnio punkto pakeitimai:
+Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
+ 
 
 3) slaptai patekti į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones bei jas apžiūrėti, laikinai paimti ir apžiūrėti dokumentus, imti tyrimui medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų neskelbdami apie jų paėmimą;
 
@@ -249,21 +257,21 @@ Operatyvinis tyrimas atliekamas, kai:
 7) turima informacijos apie veikas, keliančias grėsmę valstybės konstitucinei santvarkai, jos nepriklausomybei, ekonominiam saugumui, valstybės gynybinės galios užtikrinimui ar kitiems svarbiems nacionalinio saugumo interesams.
  
 
-10 straipsnis.       Pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slapta kontrolė, techninių priemonių naudojimas specialia tvarka
+10 straipsnis. Pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slapta kontrolė, techninių priemonių naudojimas specialia tvarka ir informacijos gavimas iš telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų
 
-1. Pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slaptą kontrolę, techninių priemonių naudojimą specialia tvarka sankcionuoja apygardų teismų pirmininkai ar šių teismų Baudžiamųjų bylų skyrių pirmininkai pagal generalinio prokuroro ar jo įgalioto generalinio prokuroro pavaduotojo arba apygardų prokuratūrų vyriausiųjų prokurorų ar jų įgaliotų vyriausiųjų prokurorų pavaduotojų motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis.
+1. Pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slaptą kontrolę, techninių priemonių naudojimą specialia tvarka motyvuota nutartimi sankcionuoja apygardų teismų pirmininkai ar šių teismų Baudžiamųjų bylų skyrių pirmininkai pagal generalinio prokuroro ar jo įgalioto generalinio prokuroro pavaduotojo arba apygardų prokuratūrų vyriausiųjų prokurorų ar jų įgaliotų vyriausiųjų prokurorų pavaduotojų motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis.
 
-2. Neatidėliotinais atvejais, kai iškyla pavojus žmogaus gyvybei, sveikatai, nuosavybei, visuomenės ar valstybės saugumui, leidžiama atlikti šio straipsnio 1 dalyje nurodytus veiksmus remiantis šio straipsnio 1 dalyje išvardytų prokurorų nutarimu. Tokiu atveju prokuroras, priėmęs šį nutarimą, per 24 valandas šio straipsnio 1 dalyje nurodytam teisėjui pateikia teikimą dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo. Jei terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas kitą dieną po poilsio ar švenčių dienos. Teisėjui nepatvirtinus minėtų veiksmų pagrįstumo, jie nutraukiami, o jų metu gauta informacija nedelsiant sunaikinama.
+2. Neatidėliotinais atvejais, kai iškyla pavojus žmogaus gyvybei, sveikatai, nuosavybei, visuomenės ar valstybės saugumui, leidžiama atlikti šio straipsnio 1 dalyje nurodytus veiksmus remiantis šio straipsnio 1 dalyje išvardytų prokurorų nutarimu. Tokiu atveju prokuroras, priėmęs šį nutarimą, per 24 valandas šio straipsnio 1 dalyje nurodytam teisėjui pateikia teikimą dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo motyvuota nutartimi. Jei terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas kitą dieną po poilsio ar švenčių dienos. Teisėjui nepatvirtinus minėtų veiksmų pagrįstumo motyvuota nutartimi, jie nutraukiami, o jų metu gauta informacija nedelsiant sunaikinama.
 
-3. Konspiracijos tikslais teikimas dėl šio straipsnio 1 dalyje nurodytų operatyvinių veiksmų atlikimo gali būti sankcionuotas bet kuriame apygardos teisme.
+3. Konspiracijos tikslais motyvuota nutartis dėl šio straipsnio 1 dalyje nurodytų operatyvinių veiksmų atlikimo gali būti priimta bet kuriame apygardos teisme.
 
-4. Teikime nurodoma:
+4. Teikime nurodoma: 
 
 1) teikimą pateikusio pareigūno vardas, pavardė, pareigos;
 
-2) duomenys apie asmenis (vardas ir pavardė, asmens kodas), kuriems bus taikomi operatyviniai veiksmai arba objekto apibūdinimas;
+2) duomenys apie asmenis (vardas ir pavardė, asmens kodas), kuriems bus taikomi operatyviniai veiksmai arba objekto apibūdinimas; 
 
-3) duomenys (motyvai), pagrindžiantys būtinumą atlikti operatyvinius veiksmus;
+3) duomenys (motyvai), pagrindžiantys būtinumą atlikti operatyvinius veiksmus; 
 
 4) telekomunikacijų tinklais perduodamos informacijos kontroliuojamo abonento numeris (kai siekiama kontroliuoti telekomunikacijų tinklais perduodamą informaciją);
 
@@ -277,18 +285,27 @@ Operatyvinis tyrimas atliekamas, kai:
 
 6. Šio straipsnio 5 dalyje numatytas veiksmų pratęsimas sankcionuojamas ta pačia tvarka kaip ir šių veiksmų skyrimas. Pratęsimų skaičius neribojamas, tačiau kiekvienu atveju pratęsti galima ne ilgesniam nei šio straipsnio 5 dalyje nustatytam laikotarpiui.
 
-7. Sankcionavus teikimą dėl pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slaptos kontrolės, techninių priemonių naudojimo specialia tvarka arba dėl šių veiksmų pratęsimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas vieną teikimo egzempliorių nedelsdamas išsiunčia generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui.
+7. Priėmus motyvuotą nutartį dėl pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slaptos kontrolės, techninių priemonių naudojimo specialia tvarka arba dėl šių veiksmų pratęsimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas vieną nutarties egzempliorių nedelsdamas išsiunčia generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui. 
 
 8. Jei prokuroras atsisako teikti teikimą dėl veiksmų, nustatytų šio straipsnio 1 dalyje, sankcionavimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas turi teisę kreiptis į aukštesnįjį prokurorą iš nurodytų šio straipsnio 1 dalyje, turintį įgaliojimus teikti teikimus sankcionuoti šiuos veiksmus. Prokuroro atsisakymas turi būti motyvuotas raštu. Sprendimą atsisakyti teikti teikimą sankcionuoti nurodytus veiksmus priėmęs prokuroras apie atsisakymą praneša generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui. Aukštesniojo prokuroro sprendimas yra galutinis.
 
-9. Jei apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas atsisako sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti sprendimą apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis.
+9. Jei apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas priima motyvuotą nutartį atsisakyti sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti nutartį apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis.
 
-10. Teismui sankcionavus, o neatidėliotinais atvejais šio straipsnio 1 dalyje nurodytam prokurorui priėmus nutarimą, Vyriausybės įgaliota institucija praneša telekomunikacijų operatoriui apie jo tinkle vykdomą techninių priemonių panaudojimą specialia tvarka, nurodydama sankcionuoto teikimo (ar nutarimo) numerį bei operatyvinių veiksmų taikymo trukmę. Telekomunikacijų operatorius privalo sudaryti galimybę vykdyti telekomunikacijos priemonėmis perduodamos informacijos kontrolę.
+10. Teismui priėmus nutartį, o neatidėliotinais atvejais šio straipsnio 1 dalyje nurodytam prokurorui priėmus nutarimą, Vyriausybės įgaliota institucija praneša telekomunikacijų operatoriui ar telekomunikacijų paslaugų teikėjui apie jo tinkle vykdomą techninių priemonių panaudojimą specialia tvarka, nurodydama teikimo numerį, nutarties priėmimo datą ir nutartį priėmusį teismą, ar prokuroro nutarimo datą, jį priėmusį prokurorą bei operatyvinių veiksmų taikymo trukmę. Už pranešimo, skirto telekomunikacijų operatoriui ar telekomunikacijų paslaugų teikėjui, turinio atitikimą teismo nutarčiai įstatymų nustatyta tvarka atsako pranešimą teikiantis pareigūnas. Telekomunikacijų operatorius ar telekomunikacijų paslaugų teikėjas privalo sudaryti techninę galimybę vykdyti telekomunikacijos priemonėmis perduodamos informacijos kontrolę.
 
-11. Telekomunikacijų operatoriaus tinkle technines priemones panaudojus specialia tvarka, Vyriausybės įgaliota institucija pateikia teikimą rengusiam arba šio straipsnio 2 dalyje nustatyta tvarka nutarimą priėmusiam prokurorui laikmenos kopiją, kurioje užfiksuotos telekomunikacijų operatoriaus tinklui perduodamos techninės komandos pradėti arba baigti techninių priemonių panaudojimą specialia tvarka (įskaitant kontroliuojamo abonento numerį).
+11. Į telekomunikacijų operatoriaus tinklą siunčiamos techninės komandos pradėti ar nutraukti pasiklausymą ar kitą telekomunikacijų tinklais perduodamos informacijos kontrolę saugomos taip, kad siųstų ir gautų komandų duomenų negalėtų pakeisti komandą siuntęs operatyvinės veiklos subjektas ar komandą gavęs telekomunikacijų operatorius. Vyriausybės įgaliota institucija privalo sudaryti galimybę generaliniam prokurorui ar jo įgaliotam prokurorui prieiti prie duomenų laikmenos, kurioje užfiksuotos šios komandos. 
+
+12. Operatyviniam tyrimui reikalingą konkrečią informaciją apie buvusius telekomunikacijų įvykius iš telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų operatyvinės veiklos subjektai turi teisę gauti motyvuota apylinkės teismo teisėjo nutartimi, priimta pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų motyvuotus teikimus. 
+
+13. Siekiant gauti šio straipsnio 12 dalyje nurodytą informaciją, telekomunikacijų operatoriams ar telekomunikacijų paslaugų teikėjams pateikiamas pranešimas, kuriame nurodomi teikimo numeris, nutarties priėmimo data ir nutartį priėmęs teismas. Už šio pranešimo turinio atitikimą teismo nutarčiai įstatymų nustatyta tvarka atsako pranešimą teikiantis pareigūnas. 
+
+14. Informacijai, tiesiogiai susijusiai su abonentų turimais telefono numeriais ar tinklo galiniais įrenginiais, telefono numerio ar tinklo galinio įrenginio priklausomybe, gauti teismo nutartis nereikalinga. Konkreti informacija apie telekomunikacijų įvykius, tiesiogiai susijusius su asmeniu, gali būti renkama ir šio asmens prašymu ar sutikimu. Ši informacija teikiama pagal operatyvinės veiklos subjektų pareigūnų prašymus. Kai dėl informacijos kreipiamasi asmens prašymu ar sutikimu, pateikiamas ir šio asmens prašymo ar sutikimo nuorašas, patvirtintas prašymą pateikti informaciją pateikiančio pareigūno.
+
+Straipsnio pakeitimai:
+Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
  
 
-11 straipsnis.       Slaptas patekimas į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones bei jų apžiūra, laikinas dokumentų paėmimas ir apžiūra, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimas tirti neskelbiant apie jų paėmimą
+11 straipsnis. Slaptas patekimas į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones bei jų apžiūra, laikinas dokumentų paėmimas ir apžiūra, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimas tirti neskelbiant apie jų paėmimą
 
 1. Slaptą patekimą į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones, taip pat jų apžiūrą, laikiną dokumentų paėmimą ir apžiūrą, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimą tirti neskelbiant apie jų paėmimą sankcionuoja apygardų teismų pirmininkai ar šių teismų Baudžiamųjų bylų skyrių pirmininkai pagal generalinio prokuroro ar jo įgalioto generalinio prokuroro pavaduotojo arba apygardų prokuratūrų vyriausiųjų prokurorų ar jų įgaliotų vyriausiųjų prokurorų pavaduotojų motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis.
 
@@ -399,7 +416,7 @@ ASMENŲ DALYVAVIMAS OPERATYVINĖJE VEIKLOJE
 4. Skundus dėl operatyvinės veiklos subjektų sudarytų susitarimų su asmenimis dėl slapto bendradarbiavimo nagrinėja operatyvinės veiklos subjektas, su kuriuo asmuo buvo sudaręs tokį susitarimą, arba šio subjekto pagrindinė institucija. Skundą privaloma išnagrinėti per 30 dienų nuo jo gavimo dienos.
  
 
-16 straipsnis.       Pagal legendą naudojamų procesinių dokumentų,būtinų taikant suimtiems asmenims agentūrinį metodą, rengimas
+16 straipsnis. Pagal legendą naudojamų procesinių dokumentų, būtinų taikant suimtiems asmenims agentūrinį metodą, rengimas
 
 1. Pagal legendą naudojamus procesinius dokumentus, kuriems reikalinga teismo sankcija ir kurie būtini taikant suimtiems asmenims agentūrinį metodą, sankcionuoja apylinkių teismų pirmininkai ar jų įgalioti pirmininkų pavaduotojai pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų motyvuotus teikimus, suderintus su apylinkių prokuratūrų vyriausiaisiais prokurorais ar vyriausiųjų prokurorų pavaduotojais.
 
@@ -412,7 +429,7 @@ PANAUDOJIMAS NE OPERATYVINĖJE VEIKLOJE IR ATSAKOMYBĖ UŽ ŠIO
 ĮSTATYMO REIKALAVIMŲ PAŽEIDIMUS
  
 
-17 straipsnis.       Įslaptintos operatyvinės bei kitos įslaptintos informacijos panaudojimas ne operatyvinėje veikloje ir šios informacijos atskleidimas
+17 straipsnis. Įslaptintos operatyvinės bei kitos įslaptintos informacijos panaudojimas ne operatyvinėje veikloje ir šios informacijos atskleidimas
 
 1. Įslaptinta operatyvinė informacija įstatymų nustatyta tvarka gali būti išslaptinama ir panaudojama baudžiamojoje byloje kaip įrodymai. Jeigu tokia informacija baudžiamojoje byloje panaudojama kaip įrodymai, byloje turi būti dokumentas, patvirtinantis, jog operatyviniai veiksmai yra atlikti šio Įstatymo nustatyta tvarka.
 
@@ -492,7 +509,10 @@ Operatyvinės veiklos subjektų operatyvinius veiksmus koordinuoja ir jų teisė
 
 2) savo darbe pasitelkti profesionalius ekspertus, turinčius leidimus susipažinti su valstybės paslaptį sudarančia informacija;
 
-3) reikalauti ir gauti iš valstybės ir savivaldybių institucijų, organizacijų, operatyvinės veiklos subjektų dokumentų, paaiškinimų ir kitos informacijos, reikalingos kontrolei atlikti;
+3) reikalauti ir gauti iš valstybės ir savivaldybių institucijų, organizacijų, operatyvinės veiklos subjektų, telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų dokumentų, paaiškinimų ir kitos informacijos, reikalingos kontrolei atlikti;
+Straipsnio punkto pakeitimai:
+Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
+ 
 
 4) kviesti į posėdžius pareigūnus, kitus asmenis, juos išklausyti bei reikalauti iš pareigūnų, kad būtų pateikti žodiniai ar rašytiniai paaiškinimai dėl šio Įstatymo bei kitų teisės aktų reikalavimų nevykdymo arba pažeidimo.
 
@@ -517,9 +537,9 @@ AŠTUNTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
  
 
-24 straipsnis. Įstatymo 10 straipsnio 11 dalies įsigaliojimas
-
-Šio Įstatymo 10 straipsnio 11 dalis įsigalioja nuo 2003 m. rugsėjo 1 d.
+24 straipsnis. Neteko galios nuo 2002-12-24
+Straipsnio naikinimas:
+Nr. IX-1222, 2002-12-05, Žin. 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
  
 
 25 straipsnis. Įstatymo taikymas
@@ -564,4 +584,9 @@ Pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2002-09-19, Žin., 2002, Nr. 93-4000 (2002-09-25), i. k. 1021000NUTARG023218                
 Dėl Lietuvos Respublikos telekomunikacijų įstatymo (2000 m. liepos 11 d. redakcija) 27 straipsnio 2 dalies, Lietuvos Respublikos telekomunikacijų įstatymo 27 straipsnio pakeitimo įstatymo 2 straipsnio 1 dalies, Lietuvos Respublikos telekomunikacijų įstatymo (2002 m. liepos 5 d. redakcija) 57 straipsnio 4 dalies, Lietuvos Respublikos operatyvinės veiklos įstatymo (1997 m. gegužės 22 d. redakcija) 7 straipsnio 3 dalies 4 punkto, Lietuvos Respublikos operatyvinės veiklos įstatymo (2002 m. birželio 20 d. redakcija) 7 straipsnio 3 dalies 6 punkto, Lietuvos Respublikos baudžiamojo proceso kodekso 48 straipsnio 1 dalies (1961 m. birželio 26 d. redakcija) ir 75 straipsnio 1 dalies (1975 m. sausio 29 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
+Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 7, 10, 23 straipsnių pakeitimo bei papildymo ir 24 straipsnio pripažinimo netekusiu galios įstatymas
 
