@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0B0253BB424C"
 
 # Lietuvos Respublikos valstybinės kalbos įstatymas
 
+Suvestinė redakcija nuo 2002-07-03 iki 2025-12-31
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 15-344, i. k. 0951010ISTA000I-779
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBINĖS KALBOS
 Į S T A T Y M A S
@@ -270,10 +274,12 @@ Asmenvardžiai keičiami bei koreguojami įstatymų nustatyta tvarka.
 16 straipsnis. 
 
 
-Visų Lietuvos Respublikoje veikiančių įmonių, įstaigų ir organizacijų pavadinimai daromi laikantis lietuvių kalbos normų ir Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo patvirtintų taisyklių.
+Visų Lietuvos Respublikoje veikiančių įmonių, įstaigų ir organizacijų pavadinimai daromi laikantis lietuvių kalbos normų ir Valstybinės lietuvių kalbos komisijos nutarimų.
+
+
+Straipsnio pakeitimai:
+Nr. IX-954, 2002-06-13, Žin., 2002, Nr. 68-2760 (2002-07-03), i. k. 1021010ISTA00IX-954
  
-
-
 
 
 
@@ -404,13 +410,15 @@ Asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
 
 
 
-25 straipsnis.
+25 straipsnis. 
 
 
-Šio įstatymo vykdymą kontroliuoja Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo Kalbos inspekcija.
+Šio įstatymo vykdymą kontroliuoja Valstybinė kalbos inspekcija.
+
+
+Straipsnio pakeitimai:
+Nr. IX-954, 2002-06-13, Žin., 2002, Nr. 68-2760 (2002-07-03), i. k. 1021010ISTA00IX-954
  
-
-
 
 
 
@@ -447,3 +455,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-954, 2002-06-13, Žin., 2002, Nr. 68-2760 (2002-07-03), i. k. 1021010ISTA00IX-954
+Lietuvos Respublikos valstybinės kalbos įstatymo 16 ir 25 straipsnių pakeitimo įstatymas
