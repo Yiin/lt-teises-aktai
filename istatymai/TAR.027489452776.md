@@ -1325,8 +1325,9 @@ atliekama Vyriausybės nustatyta tvarka.
 1. Skirtųjų linijų paslaugų teikimo, apribojimo ir
 sustabdymo atvejus bei tvarką nustato Ryšių reguliavimo tarnybos parengtos ir
 patvirtintos taisyklės.
-2. Taisyklės nustato informacijos apie skirtąsias linijas, jų
-technines charakteristikas, tarifus, teikimo ir naudojimo sąlygas, galinių
+2. Taisyklės nustato
+informacijos apie skirtąsias linijas,
+jų technines charakteristikas, tarifus, teikimo ir naudojimo sąlygas, galinių
 įrenginių prijungimo sąlygas skelbimo bei pateikimo tvarką, taip pat minimalų mastą skirtųjų linijų paslaugų, kurias
 Lietuvos Respublikos teritorijoje turi teikti didelę įtaką rinkoje turintis
 skirtųjų linijų teikėjas, ir jų kokybės reikalavimus.
@@ -1991,7 +1992,7 @@ aptarnaujančioms pagalbos skambučius, kaip antai: teisėsaugos, greitosios
 pagalbos bei priešgaisrinės apsaugos institucijoms, kad būtų galima atsakyti į
 tokius skambučius.
  
-57 straipsnis. Ypatingos aplinkybės
+*57 straipsnis. Ypatingos aplinkybės
 1. Ūkio subjektai turi dalyvauti
 rengiant ryšio organizavimo nepaprastųjų ar ekstremalių situacijų atvejais
 schemą ir užtikrinti jos efektyvų funkcionavimą.
@@ -2007,7 +2008,7 @@ telekomunikacijų tinklais.
 telekomunikacijų įrenginiai turi atitikti Ryšių reguliavimo tarnybos nustatytus
 reikalavimus. Jų turi laikytis visi tokius įrenginius turintys telekomunikacijų
 operatoriai ir paslaugų teikėjai.
-4. Telekomunikacijų operatoriai ir
+*4. Telekomunikacijų operatoriai ir
 telekomunikacijų paslaugų teikėjai privalo teisės aktų nustatyta tvarka
 fiksuoti telekomunikacijų įvykius ir jų dalyvius, savo lėšomis bei įranga
 užtikrinti ir nuolat palaikyti techninę galimybę operatyvinės veiklos
@@ -2026,6 +2027,49 @@ operatyvinės veiklos subjektas – organizuoja ir Vyriausybės nustatyta tvarka
 kiekvienam operatyvinės veiklos subjektui sudaro technines galimybes
 savarankiškai vykdyti telekomunikacijų tinklais perduodamos informacijos
 turinio kontrolę.
+ 
+*Pastaba. Lietuvos Respublikos
+telekomunikacijų įstatymo (2002 m. liepos 5 d. redakcija) 57 straipsnio 4
+dalies nuostata „telekomunikacijų operatoriai ir telekomunikacijų paslaugų
+teikėjai privalo teisės aktų nustatyta tvarka fiksuoti telekomunikacijų įvykius
+ir jų dalyvius“ ta apimtimi, kuria telekomunikacijų operatoriams ir
+telekomunikacijų paslaugų teikėjams nustatyta pareiga telekomunikacijų įvykius
+ir jų dalyvius fiksuoti daugiau negu reikia telekomunikacijų operatorių ūkinei
+veiklai užtikrinti, taip įsiterpiant į žmogaus privatų gyvenimą, prieštarauja
+Lietuvos Respublikos Konstitucijos 22 straipsniui ir konstituciniam teisinės
+valstybės principui.
+Lietuvos
+Respublikos telekomunikacijų įstatymo (2002 m. liepos 5 d. redakcija) 57
+straipsnio 4 dalies nuostata „telekomunikacijų operatoriai ir
+telekomunikacijų paslaugų teikėjai privalo <...> Vyriausybės nustatyta
+tvarka operatyvinės veiklos subjektams, kvotos ir tardymo organams
+neatlygintinai teikti nusikaltimų užkardymui, tyrimui, nustatymui reikalingą
+Vyriausybės nustatytą informaciją apie operatyvinės veiklos objektus ir kitus
+tyrimui reikalingus abonentus bei jų telekomunikacijas“ ta apimtimi, kuria
+nustatyta, jog įgaliojimus nustatyti teiktinos informacijos ir apie privatų
+asmens gyvenimą apimtį bei jos teikimo tvarką turi Vyriausybė, prieštarauja
+Lietuvos Respublikos Konstitucijos 22 straipsniui ir konstituciniam teisinės
+valstybės principui.
+Lietuvos
+Respublikos telekomunikacijų įstatymo (2002 m. liepos 5 d. redakcija) 57
+straipsnio 4 dalies nuostata „telekomunikacijų operatoriai ir
+telekomunikacijų paslaugų teikėjai privalo <...> savo lėšomis bei įranga
+užtikrinti ir nuolat palaikyti techninę galimybę operatyvinės veiklos
+subjektams, kvotos ir tardymo organams įstatymų nustatyta tvarka ir pagal
+teismo išduotą sankciją kontroliuoti telekomunikacijų tinklais perduodamos
+informacijos turinį“ ta apimtimi, kuria telekomunikacijų operatoriams ir
+telekomunikacijų paslaugų teikėjams – ne valstybės nuosavybės subjektams
+nustatyta pareiga savo lėšomis užtikrinti ir nuolat palaikyti telekomunikacijų
+tinklais perduodamos informacijos turinio kontrolei reikalingos įrangos, kuri
+nėra reikalinga telekomunikacijų operatorių ūkinėje veikloje, technines
+galimybes, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsniui ir
+konstituciniam teisinės valstybės principui.
+Straipsnio
+pakeitimai:
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2002-09-19,
+Žin., 2002, Nr. 93-4000 (2002-09-25)
  
 AŠTUNTASIS
 SKIRSNIS
@@ -2070,12 +2114,12 @@ terminą ūkio subjektui įvykdyti šias priemones.
 arba pakartotinį vertimosi telekomunikacine veikla sąlygas nustatančių teisės
 aktų ar radijo dažnių (kanalų) arba telefono ryšio numerių naudojimo sąlygų,
 arba įpareigojimų, nustatytų ūkio subjektui, turinčiam didelę įtaką
-atitinkamoje rinkoje arba
-paskirtam teikti universaliąsias paslaugas, pažeidimą, kai priemonių, kurių
-buvo imtasi pagal šio straipsnio 3 dalį, nepakako pažeidimams ištaisyti, Ryšių
-reguliavimo tarnyba turi teisę uždrausti ūkio subjektui teikti telekomunikacijų
-tinklus ar paslaugas arba sustabdyti teisę naudoti radijo dažnius (kanalus) ir
-(arba) telefono ryšio numerius.
+atitinkamoje rinkoje arba paskirtam
+teikti universaliąsias paslaugas, pažeidimą, kai priemonių, kurių buvo imtasi
+pagal šio straipsnio 3 dalį, nepakako pažeidimams ištaisyti, Ryšių reguliavimo
+tarnyba turi teisę uždrausti ūkio subjektui teikti telekomunikacijų tinklus ar
+paslaugas arba sustabdyti teisę naudoti radijo dažnius (kanalus) ir (arba)
+telefono ryšio numerius.
 5. Ryšių
 reguliavimo tarnyba, gavusi įrodymų apie vertimosi telekomunikacine veikla
 sąlygas nustatančių teisės aktų ar radijo dažnių (kanalų) arba telefono ryšio
@@ -2113,9 +2157,10 @@ reguliavimo tarnybos uždaviniams bei funkcijoms atlikti.
 reguliavimo tarnyba, reikalaudama pateikti informaciją, praneša ūkio subjektams
 apie tikslą, kuriam informacija bus naudojama.
 3. Ryšių
-reguliavimo tarnyba turi teisę reikalauti, kad asmenys, naudojantys radijo dažnius
-(kanalus) ir telefono ryšio numerius, tačiau nesiverčiantys telekomunikacine
-veikla, pateiktų Ryšių reguliavimo tarnybos reikalaujamą informaciją.
+reguliavimo tarnyba turi teisę reikalauti, kad asmenys, naudojantys radijo
+dažnius (kanalus) ir telefono ryšio numerius, tačiau nesiverčiantys
+telekomunikacine veikla, pateiktų Ryšių reguliavimo tarnybos reikalaujamą
+informaciją.
  
 60 straipsnis. Ekonominių sankcijų skyrimas ir jų
 dydžio nustatymas
@@ -2243,11 +2288,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1827, 00.07.11, Žin., 2000,
 Nr.61-1830 (00.07.26)
 TELEKOMUNIKACIJŲ ĮSTATYMO 27 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Telekomunikacijų operatoriams,
-kurie gavo licencijas iki šio įstatymo įsigaliojimo, telekomunikacijų tinklais
-perduodamos informacijos turiniui kontroliuoti skirtos įrangos įsigijimą
-finansuoja Vyriausybė. Telekomunikacijų operatoriai šią įrangą atnaujina ir
-palaiko jos technines galimybes savo lėšomis.
+Telekomunikacijų
+operatoriams, kurie gavo licencijas iki šio įstatymo įsigaliojimo,
+telekomunikacijų tinklais perduodamos informacijos turiniui kontroliuoti
+skirtos įrangos įsigijimą finansuoja Vyriausybė. Telekomunikacijų operatoriai
+šią įrangą atnaujina ir palaiko jos technines galimybes savo lėšomis.
 Visa telekomunikacijų
 įranga, pradedama eksploatuoti įsigaliojus šiam įstatymui, privalo atitikti šio
 įstatymo 
@@ -2279,8 +2324,31 @@ Nauja
 Pabaiga ***
  
  
+Konstitucinio Teismo nutarimai:
+ 
+1.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2002-09-19,
+Žin., 2002, Nr. 93-4000 (2002-09-25)
+DĖL
+LIETUVOS RESPUBLIKOS TELEKOMUNIKACIJŲ ĮSTATYMO (2000 M. LIEPOS 11 D. REDAKCIJA)
+27 STRAIPSNIO 2 DALIES, LIETUVOS RESPUBLIKOS TELEKOMUNIKACIJŲ ĮSTATYMO 27
+STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO 1 DALIES, LIETUVOS RESPUBLIKOS
+TELEKOMUNIKACIJŲ ĮSTATYMO (2002 M. LIEPOS 5 D. REDAKCIJA) 57 STRAIPSNIO 4
+DALIES, LIETUVOS RESPUBLIKOS OPERATYVINĖS VEIKLOS ĮSTATYMO (1997 M. GEGUŽĖS 22
+D. REDAKCIJA) 7 STRAIPSNIO 3 DALIES 4 PUNKTO, LIETUVOS RESPUBLIKOS OPERATYVINĖS
+VEIKLOS ĮSTATYMO (2002 M. BIRŽELIO 20 D. REDAKCIJA) 7 STRAIPSNIO 3 DALIES 6
+PUNKTO, LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO KODEKSO 48 STRAIPSNIO 1 DALIES
+(1961 M. BIRŽELIO 26 D. REDAKCIJA) IR 75 STRAIPSNIO 1 DALIES (1975 M. SAUSIO 29
+D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+***
+Pabaiga ***
+ 
+ 
 Redagavo:
-Aušrinė Trapinskienė (2002-07-30)
+Aušrinė Trapinskienė (2002-09-26)
                  
 autrap@lrs.lt
 
