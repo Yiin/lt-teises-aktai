@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2002-06-26 iki 2003-04-10
+Suvestinė redakcija nuo 2003-04-11 iki 2004-01-06
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
  
@@ -207,9 +207,10 @@ Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA
 
 
 
-2. Komisijos pirmininkas ir nariai yra valstybės tarnautojai ir jų darbas komisijose laikytinas darbu pagrindinėje darbovietėje. Vyriausiosios administracinių ginčų komisijos pagalbiniam personalui taikomas Valstybės tarnybos įstatymas. 
+2. Komisijos pirmininko ir narių darbas komisijoje laikytinas darbu pagrindinėje darbovietėje ir apmokamas Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Vyriausiosios administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, darbo užmokesčio jiems mokėjimo tvarką ir sąlygas nustato Valstybės tarnybos įstatymas, kiti įstatymai ir teisės aktai. 
 Straipsnio dalies pakeitimai:
 Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
+Nr. IX-1389, 2003-03-25, Žin., 2003, Nr. 35-1463 (2003-04-11), i. k. 1031010ISTA0IX-1389
  
 
 
@@ -450,3 +451,8 @@ Lietuvos Respublikos administracinių ginčų komisijų įstatymo 9 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
 Lietuvos Respublikos administracinių ginčų komisijų įstatymo 3, 6, 8 straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1389, 2003-03-25, Žin., 2003, Nr. 35-1463 (2003-04-11), i. k. 1031010ISTA0IX-1389
+Lietuvos Respublikos administracinių ginčų komisijų įstatymo 8 straipsnio pakeitimo įstatymas
