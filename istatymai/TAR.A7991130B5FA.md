@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7991130B5FA"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymas
 
+Suvestinė redakcija nuo 1996-10-16 iki 1996-12-30
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 61-1530, i. k. 0951010ISTA00I-1001
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS IR SAVIVALDYBIŲ TURTO PRIVATIZAVIMO
 ĮSTATYMAS
@@ -618,7 +622,9 @@ Lietuvos Respublikos Vyriausybė turi teisę nustatyti ir kitus privatizavimo pr
 
 
 
-7. Privatizavimo objektas iš Lietuvos Respublikos Vyriausybės patvirtinto sąrašo ar iš Privatizavimo komisijos patvirtintos privatizavimo programos gali būti išbrauktas tik po to, kai tas objektas šio įstatymo nustatyta tvarka bent vieną kartą buvo siūlomas parduoti, bet per privatizavimo programoje nustatytą laiką parduotas nebuvo.
+7. Privatizavimo objektas iš Lietuvos Respublikos Vyriausybės patvirtinto sąrašo ar iš Privatizavimo komisijos patvirtintos privatizavimo programos gali būti išbrauktas po to, kai tas objektas šio įstatymo nustatyta tvarka bent vieną kartą buvo siūlomas parduoti, bet per privatizavimo programoje nustatytą laiką parduotas nebuvo, ir kitais įstatymų numatytais atvejais. 
+Straipsnio dalies pakeitimai:
+Nr. I-1538, 1996-09-24, Žin., 1996, Nr. 100-2260 (1996-10-16), i. k. 0961010ISTA00I-1538
  
 
 
@@ -1001,3 +1007,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1538, 1996-09-24, Žin., 1996, Nr. 100-2260 (1996-10-16), i. k. 0961010ISTA00I-1538
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 13 straipsnio pakeitimo įstatymas
