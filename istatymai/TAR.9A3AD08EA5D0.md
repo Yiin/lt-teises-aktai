@@ -900,7 +900,6 @@ informaciją apie švietimo įstaigos veiklą.
 valstybės ir savivaldybių švietimo įstaigų finansavimo šaltiniai yra valstybės
 ir savivaldybių biudžetai. Finansavimas iš valstybės ar savivaldybių biudžeto
 užtikrina normalias šių įstaigų veiklos sąlygas. Kiti finansavimo šaltiniai yra
-Lietuvos švietimo fondas, apskričių, miestų ir rajonų švietimo fondai bei
 švietimo įstaigų nebiudžetinės lėšos.
 2. Užsienio
 kapitalo dalis bendrose su užsieniu švietimo institucijose nustatoma Švietimo
@@ -928,11 +927,11 @@ kapitalo dalis bendrose su užsieniu švietimo institucijose nustatoma Švietimo
 ir mokslo ministerijos išduodamame leidime tokiai institucijai steigti.
 3. Nevalstybines
 švietimo įstaigas, išskyrus tradicinių religinių bendrijų švietimo įstaigas,
-suteikiančias valstybinio standarto bendrąjį išsilavinimą, išlaiko steigėjai.
-Nevalstybinėms švietimo įstaigoms valstybinio standarto bendrąjį išsilavinimą
-suteikiančioms programoms finansuoti Vyriausybės ar jos įgaliotos institucijos
-nustatyta tvarka skiriama biudžeto lėšų tiek pat, kiek ir atitinkamo tipo
-(pakopos) valstybės ar savivaldybių švietimo įstaigoms. Lėšų dydis nustatomas
+suteikiančias valstybinio standarto bendrąjį išsilavinimą, išlaiko steigėjai. Nevalstybinėms
+švietimo įstaigoms valstybinio standarto bendrąjį išsilavinimą suteikiančioms
+programoms finansuoti Vyriausybės ar jos įgaliotos institucijos nustatyta
+tvarka skiriama biudžeto lėšų tiek pat, kiek ir atitinkamo tipo (pakopos)
+valstybės ar savivaldybių švietimo įstaigoms. Lėšų dydis nustatomas
 atsižvelgiant į išlaidas, numatytas vienam vaikui, moksleiviui atitinkamo tipo
 (pakopos) valstybinėse ar savivaldybių švietimo įstaigose.]
 Straipsnio
@@ -941,23 +940,16 @@ Nr. VIII-1678, 2000 05 11, Žin., 2000, Nr.
 40-1116 (2000 05 17), įsigalioja nuo 2001 09 01
 Nr. VIII-2038, 2000 10 12, Žin., 2000, Nr.
 92-2878 (2000 10 31)
+Nr. VIII-2039, 2000 10 12, Žin., 2000, Nr.
+92-2879 (2000 10 31)
  
  
-42 straipsnis.
-Švietimo fondai
-1. Lietuvos
-švietimo fondo, apskričių, savivaldybių bei švietimo įstaigos fondų sudarymo
-šaltiniai yra:
-1) savanoriški
-asmenų, organizacijų ar įmonių įnašai;
-2) pajamos iš
-paties fondo veiklos;
-3) užsienio
-valstybių organizacijų bei piliečių, taip pat tarptautinių organizacijų
-aukojamos lėšos ir materialinės vertybės.
-2. Lietuvos
-švietimo fondo, apskrities, miestų (rajonų) švietimo fondų bei švietimo
-įstaigos fondo bendruosius nuostatus tvirtina Vyriausybė.
+42 straipsnis. Neteko galios.
+Straipsnio
+pakeitimai:
+Nr. VIII-2039, 2000 10 12, Žin., 2000, Nr.
+92-2879 (2000 10 31)
+ 
  
 KETVIRTASIS
 SKIRSNIS
@@ -1086,8 +1078,15 @@ Nr. VIII-2038, 2000 10 12, Žin., 2000, Nr.
 ĮSTATYMO 15 STRAIPSNIO PAPILDYMO IR 41 STRAIPSNIO PAKEITIMO ĮSTATYMO 2
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2039, 2000 10 12, Žin., 2000, Nr.
+92-2879 (2000 10 31)
+ŠVIETIMO ĮSTATYMO 41 STRAIPSNIO PAKEITIMO IR 42
+STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 *** Pabaiga ***
+ 
  
  
 Konstitucinio
@@ -1101,9 +1100,8 @@ STRAIPSNIO 2 PUNKTO, 32 STRAIPSNIO 2 DALIES, 34 STRAIPSNIO 2, 3 IR 4 DALIŲ, 35
 STRAIPSNIO 2 IR 5 PUNKTŲ, 37 STRAIPSNIO 2 PUNKTO IR 38 STRAIPSNIO 2 IR 3 PUNKTŲ
 ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
- 
 *** Pabaiga ***
  
  
 Redagavo: Aušrinė Trapinskienė (2000 11 21)
-                  autrap@lrs.lt
+                  autrap@lrs.lt
