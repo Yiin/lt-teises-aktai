@@ -21,11 +21,6 @@ KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO
 ĮSTATYMAS
 2000 m. spalio 12 d. Nr. VIII-2032
 Vilnius
-
-
-
-
- 
 Nauja
 įstatymo redakcija nuo 2002 m. sausio 1 d.:
 Nr. IX-682,
@@ -177,28 +172,21 @@ deklaracijos formą ir pildymo tvarką nustato centrinis mokesčių
 administratorius. 
 6. Nuo pajamų
 atskaitymų mokėjimo į Programos finansavimo sąskaitą atleidžiami:
- 
-6 dalies 1
-punkto redakcija iki 2004 m. sausio 1 d.:
-1) žemės ūkio subjektai;
-6 dalies 1
-punkto redakcija nuo 2004 m. sausio 1 d.:
 1)
 žemės ūkio veiklos subjektai ir kooperatinės bendrovės (kooperatyvai), kurių
 apmokestinamasis pelnas pagal Lietuvos Respublikos pelno mokesčio įstatymo
 nuostatas apmokestinamas taikant 0 procentų pelno mokesčio tarifą;
- 
 2) kūrybinės
 sąjungos (architektų, mokslininkų, dailininkų, dizainerių, fotomenininkų,
-kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro, žurnalistų),
-jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų pelno sunaudoja
-kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų įstatuose;
+kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro,
+žurnalistų), jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų
+pelno sunaudoja kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų
+įstatuose;
 3) įmonės,
 kuriose dirba ne mažiau kaip 50 procentų riboto darbingumo darbuotojų ir kurių
 pajamos gaunamos tik už jų pačių pagamintą produkciją;
 4) biudžetinės
-įstaigos, valstybės ir savivaldybių institucijos, įstaigos, tarnybos ar
-organizacijos;
+įstaigos, valstybės ir savivaldybių institucijos, įstaigos, tarnybos ar organizacijos;
 5) daugiabučių
 namų savininkų bendrijos;
 6) laisvosiose
@@ -208,7 +196,9 @@ ir savivaldybių sveikatos priežiūros viešosios įstaigos;
 8) socialinės
 globos viešosios įstaigos;
 9) ikimokyklinio
-ugdymo įstaigos.
+ugdymo įstaigos;
+10) Lietuvos
+bankas.
 7. Atskaitymų
 nuo pajamų apskaičiavimo, mokėjimo ir kontrolės tvarką bei dydžius, neviršydama
 šio Įstatymo 1 priedėlyje nurodytų maksimalių dydžių, nustato Lietuvos
@@ -218,6 +208,8 @@ Nr. IX-840,
 2002-04-09, Žin., 2002, Nr. 43-1605 (2002-04-26)
 Nr. IX-1776,
 2003-10-14, Žin., 2003, Nr. 104-4646 (2003-11-05)
+Nr. IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
  
 5 straipsnis. Dalis akcizo
 pajamų, gautų už realizuotą benziną, dyzelinius degalus, bei 
@@ -327,10 +319,10 @@ valstybinės ir vietinės reikšmės keliais transporto priemonėmis (jų
 junginiais), kurių matmenys su kroviniu ar be jo, ašies (ašių) apkrova ir (ar)
 bendroji masė viršija maksimalius leidžiamus dydžius, galima tik suderinus tai
 su kelio savininku ir gavus jo leidimą. Leidimai išduodami Susisiekimo
-ministerijos ir savivaldybių nustatyta tvarka, sumokėjus įstatymų nustatyto dydžio
-mokestį už naudojimąsi keliais ir jų infrastruktūra stambiagabaritėmis ir (ar)
-sunkiasvorėmis transporto priemonėmis. Mokesčio dydį, neviršydama šio Įstatymo
-5 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos
+ministerijos ir savivaldybių nustatyta tvarka, sumokėjus įstatymų nustatyto
+dydžio mokestį už naudojimąsi keliais ir jų infrastruktūra stambiagabaritėmis
+ir (ar) sunkiasvorėmis transporto priemonėmis. Mokesčio dydį, neviršydama šio
+Įstatymo 5 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos
 Respublikos Vyriausybė. Mokestis mokamas už kiekvieną leidimą. Dėl
 mokesčio, jo dydžio už naudojimąsi vietinės reikšmės vidaus keliais gali būti
 sprendžiama šalių tarpusavio sutarimu vadovaujantis Civiliniame kodekse
@@ -401,9 +393,9 @@ priežiūros, uosto saugos tarnyboms, prokuratūros, muitinės, inspekcijų, tai
 pat kitiems valstybės pareigūnams, nurodytiems Vyriausybės nustatytoje
 tvarkoje, ir jų transporto priemonėms, tolimojo, vietinio (miesto) reguliaraus
 susisiekimo autobusams, dviračiams, autocisternoms, vežančioms kurą į Kuršių
-neriją, juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę, 
-transporto priemonėms ir darbuotojams, Neringos mieste ir Klaipėdos miesto
-dalyje Smiltynėje gyvenamąją vietą deklaravusiems asmenims ir jų lengvosioms
+neriją, juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę,  transporto
+priemonėms ir darbuotojams, Neringos mieste ir Klaipėdos miesto dalyje
+Smiltynėje gyvenamąją vietą deklaravusiems asmenims ir jų lengvosioms
 transporto priemonėms neatlygintinai perkelti keltais per Klaipėdos valstybinio
 jūrų uosto akvatoriją į (iš) Kuršių neriją (-os) bei Šilutės rajono gyventojų
 ir jų lengvųjų transporto priemonių neatlygintino perkėlimo užlieta krašto
@@ -437,8 +429,7 @@ Respublikos
 m. gruodžio 21 d.
                                                                                                 įstatymo
 Nr. IX-682
-1
-priedėlis
+1 priedėlis
  
 ATSKAITYMŲ NUO PAJAMŲ Į PROGRAMOS FINANSAVIMO SĄSKAITĄ
 MAKSIMALŪS DYDŽIAI
@@ -716,8 +707,8 @@ RIBINIAI
 TARIFAI
  
 1. Lietuvos Respublikoje
-įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio
-ribiniai tarifai:
+įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio ribiniai
+tarifai:
  
 
 
@@ -880,7 +871,8 @@ O2–O4
 
 
 
-3 priedėlio tęsinys
+3 priedėlio
+  tęsinys
 
 
 
@@ -993,8 +985,8 @@ Nr. IX-682                                    
 priedėlis
  
 UŽSIENIO ŠALYSE
-ĮREGISTRUOTŲ TRANSPORTO PRIEMONIŲ  SAVININKŲ AR VALDYTOJŲ NAUDOTOJO MOKESČIO
-RIBINIAI TARIFAI
+ĮREGISTRUOTŲ TRANSPORTO PRIEMONIŲ  SAVININKŲ AR VALDYTOJŲ NAUDOTOJO MOKESČIO RIBINIAI
+TARIFAI
  
 Užsienio šalyse įregistruotų transporto
 priemonių savininkų ar valdytojų naudotojo mokesčio vienkartiniai
@@ -1780,11 +1772,26 @@ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
 Šis
 Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+ĮMONIŲ
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
+PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
+ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO
+UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-11-07)
+Aušrinė Trapinskienė (2004-05-03)
                  
 autrap@lrs.lt
