@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.33A63C3E9D4C"
 
 # Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymas
 
-Suvestinė redakcija nuo 2004-07-01 iki 2004-07-23
+Suvestinė redakcija nuo 2004-07-24 iki 2013-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 58-0; Žin. 1993, Nr.11-265, i. k. 0931010ISTA000I-108
  
@@ -93,47 +93,81 @@ Kalbos komisija:
 
 
 
-3) nustato lietuvių kalbos tvarkybos kryptis, sprendžia lietuvių kalbos norminimo ir kodifikavimo klausimus;
+3) teikia valstybės institucijoms ir įstaigoms išvadas dėl teisės aktų projektų, kuriuose yra nuostatų, reglamentuojančių valstybinės kalbos vartojimą; 
+Papildyta straipsnio punktu:
+Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
+ 
 
 
 
 
-4) vertina ir tvirtina svarbiausius norminamuosius kalbos veikalus (žodynus, žinynus, vadovus, vadovėlius);
+4) nustato lietuvių kalbos tvarkybos kryptis, sprendžia lietuvių kalbos norminimo ir kodifikavimo klausimus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
+ 
 
 
 
 
-5) rūpinasi lietuvių kalbos diegimu į informacijos technologijas;
+5) vertina ir tvirtina svarbiausius norminamuosius kalbos veikalus (žodynus, žinynus, vadovus, vadovėlius);
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
+ 
 
 
 
 
-6) rūpinasi svetimybių keitimu lietuviškais atitikmenimis, tarmių ir etninių vietovardžių išsaugojimu, tvirtina lietuvių, latvių, prūsų ir kitų baltų etninių žemių lietuviškų tradicinių vietovardžių sąrašą ir nustato tradicinių vietovardžių vartojimo Lietuvos Respublikoje tvarką;
+6) rūpinasi lietuvių kalbos diegimu į informacijos technologijas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
+ 
 
 
 
 
-7) rūpinasi visuomenės kalbos kultūra – kalbos būkle švietimo įstaigose, visuomenės informavimo priemonėse (žiniasklaidoje), leidyboje, mokslo veikloje, viešajame gyvenime ir kitose srityse;
+7) rūpinasi svetimybių keitimu lietuviškais atitikmenimis, tarmių ir etninių vietovardžių išsaugojimu, tvirtina lietuvių, latvių, prūsų ir kitų baltų etninių žemių lietuviškų tradicinių vietovardžių sąrašą ir nustato tradicinių vietovardžių vartojimo Lietuvos Respublikoje tvarką;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
+ 
 
 
 
 
-8) svarsto visuomenės keliamus svarbius kalbos vartosenos ir norminimo klausimus ir priima dėl jų sprendimus;
+8) rūpinasi visuomenės kalbos kultūra – kalbos būkle švietimo įstaigose, visuomenės informavimo priemonėse (žiniasklaidoje), leidyboje, mokslo veikloje, viešajame gyvenime ir kitose srityse;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
+ 
 
 
 
 
-9) tvirtina Kalbos komisijos pajamų ir išlaidų sąmatą;
+9) svarsto visuomenės keliamus svarbius kalbos vartosenos ir norminimo klausimus ir priima dėl jų sprendimus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
+ 
 
 
 
 
-10) tvirtina Kalbos komisijos sekretoriato (toliau – sekretoriatas) nuostatus, jo sandarą ir pareigybių sąrašus;
+10) tvirtina Kalbos komisijos pajamų ir išlaidų sąmatą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
+ 
 
 
 
 
-11) nustato bendruosius kalbos tvarkytojų kvalifikacinius reikalavimus.
+11) tvirtina Kalbos komisijos sekretoriato (toliau – sekretoriatas) nuostatus, jo sandarą ir pareigybių sąrašus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
+ 
+
+
+
+
+12) nustato bendruosius kalbos tvarkytojų kvalifikacinius reikalavimus.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
  
 
 
@@ -457,3 +491,8 @@ Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2231, 2004-05-11, Žin., 2004, Nr. 83-2985 (2004-05-22), i. k. 1041010ISTA0IX-2231
 Lietuvos Respublikos valstybinės lietuvių kalbos komisijos įstatymo 8, 9 straipsnių pakeitimo ir papildymo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
+Lietuvos Respublikos valstybinės lietuvių kalbos komisijos įstatymo 3 straipsnio papildymo ir pakeitimo įstatymas
