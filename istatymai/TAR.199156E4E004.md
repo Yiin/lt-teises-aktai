@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 1999-01-01 iki 1999-12-31
+Suvestinė redakcija nuo 2000-01-01 iki 2004-03-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -644,10 +644,10 @@ Nr. VIII-1015, 1998-12-29, Žin., 1998, Nr. 115-3273 (1998-12-31), i. k. 0981010
 
 
 
-3. Asmuo, slaugantis visiškos negalios invalidą, arba visiškos negalios invalido, kuris nustatyta tvarka yra pripažintas neveiksniu, globėjas valstybės lėšomis draudžiami valstybiniu socialiniu draudimu bazinei pensijai, išskyrus atvejus, kai jie yra valstybinės socialinio draudimo pensijos, valstybinės ar šalpos (socialinės) pensijos gavėjai.
-TAR pastaba. Invalidų socialinės integracijos įstatymo 22 straipsnio 3 dalis įsigalioja nuo 1999 m. spalio 1 d.
+3. Vienas iš visiškos negalios invalido tėvų arba asmuo, nustatyta tvarka pripažintas visiškos negalios invalido globėju arba rūpintoju, slaugantis namuose visiškos negalios invalidą, valstybės lėšomis privalomai draudžiamas valstybiniu socialiniu pensijų draudimu bazinei pensijai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Šis asmuo privalomai draudžiamas valstybės lėšomis tik tuo atveju, kai jis negauna jam pačiam priklausančios valstybinės socialinio draudimo pensijos, valstybinės pensijos ar šalpos (socialinės) pensijos.
 Straipsnio dalies pakeitimai:
 Nr. VIII-1015, 1998-12-29, Žin., 1998, Nr. 115-3273 (1998-12-31), i. k. 0981010ISTAIII-1015
+Nr. VIII-1480, 1999-12-16, Žin., 1999, Nr. 113-3284 (1999-12-30), i. k. 0991010ISTAIII-1480
  
 
 
@@ -890,3 +890,8 @@ Lietuvos Respublikos invalidų socialinės integracijos įstatymo pakeitimo ir p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1015, 1998-12-29, Žin., 1998, Nr. 115-3273 (1998-12-31), i. k. 0981010ISTAIII-1015
 Lietuvos Respublikos invalidų socialinės integracijos įstatymo pakeitimo ir papildymo įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1480, 1999-12-16, Žin., 1999, Nr. 113-3284 (1999-12-30), i. k. 0991010ISTAIII-1480
+Lietuvos Respublikos invalidų socialinės integracijos įstatymo 22 straipsnio pakeitimo įstatymas
