@@ -18,7 +18,11 @@ Neoficialus ?statymo tekstas
 
 
 
-Redagavo: Ramunė Lūžaitė (1997.04.23)
+Redagavo:
+Ramunė Lūžaitė (1997.07.17)
+ 
+Įstatymas
+paskelbtas: Žin., 1994, Nr.99-1957
  
 Neoficialus įstatymo tekstas
  
@@ -26,7 +30,7 @@ Pakeitimai:
 
 1.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
 LIETUVOS RESPUBLIKOS LIETUVOS BANKO ĮSTATYMO PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
 
@@ -36,12 +40,19 @@ Nr. VIII-179, 97.04.08, Žin., 1997, Nr.33-812 (97.04.18)
 LIETUVOS RESPUBLIKOS LIETUVOS BANKO ĮSTATYMO 44 STRAIPSNIO
 PAPILDYMO ĮSTATYMAS
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-389, 97.07.02, Žin., 1997, Nr.67-1666 (97.07.16)
+LIETUVOS
+RESPUBLIKOS LIETUVOS BANKO ĮSTATYMO 11, 43(1) STRAIPSNIŲ PAPILDYMO IR PAKEITIMO
+ĮSTATYMAS
+ 
 *** Pabaiga ***
  
 LIETUVOS RESPUBLIKOS
-
 LIETUVOS BANKO
-
 ĮSTATYMAS
 
 1994 m.  gruodžio 1 d. Nr.I-678
@@ -68,8 +79,8 @@ valstybės herbas ir žodžiai "Lietuvos bankas".
      Lietuvos banko buveinė yra Vilniuje.
      Lietuvos valstybė neatsako už Lietuvos banko prievoles ir
 Lietuvos bankas neatsako už Lietuvos valstybės prievoles, išskyrus tuos
-atvejus, kai pats Lietuvos bankas prisiima tokią atsakomybę arba kai tokią Lietuvos
-banko atsakomybę nustato Lietuvos Respublikos įstatymai.
+atvejus, kai pats Lietuvos bankas prisiima tokią atsakomybę arba kai tokią
+Lietuvos banko atsakomybę nustato Lietuvos Respublikos įstatymai.
      Lietuvos bankas atskaitingas Lietuvos Respublikos Seimui.
   
      3 straipsnis. Lietuvos banko nepriklausomumas
@@ -98,7 +109,7 @@ kreditų ir atsiskaitymų politikos tobulinimu ir Lietuvos banko tikslų
   
      6 straipsnis. Lietuvos banko išimtinė teisė leisti pinigus
  
-     Pinigų  emisijos  teisę  turi  tik  Lietuvos  bankas.
+     Pinigų  emisijos  teisę  turi  tik  Lietuvos  bankas.
 Įgyvendindamas ją, Lietuvos bankas:
      1) nustato Lietuvos Respublikos pinigų nominalus, formą,
 skiriamuosius, apsaugos ir mokumo požymius, organizuoja pinigų gaminimą,
@@ -111,7 +122,7 @@ iš apyvartos banknotus ir monetas pakeisdamas juos kitais. Pakeitimo tvarką
 nustato ir paskelbia Lietuvos bankas.
  
 Straipsnio pakeitimai:
- Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+ Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
  
      7 straipsnis. Lietuvos banko pagrindinis tikslas
  
@@ -158,15 +169,14 @@ kredito įstaigų apskaitos, ataskaitų ir atskaitomybės tvarką;
 įstaigų teisinę  registraciją bei  registruoja jų  statutus (įstatus).
 
 Straipsnio pakeitimai:
- Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+ Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
  
-     9
-straipsnis. Lietuvos banko teisės aktai
+     9 straipsnis. Lietuvos banko teisės aktai
  
-    
-Lietuvos  bankas  leidžia  teisės  aktus  pagal  savo kompetenciją.
+     Lietuvos  bankas  leidžia  teisės  aktus  pagal  savo
+kompetenciją.
 
-                             II skyrius
+                             II skyrius
                LIETUVOS BANKO VEIKLOS ORGANIZAVIMAS IR VALDYMAS
 
 
@@ -174,7 +184,7 @@ Lietuvos  bankas  leidžia  teisės  aktus  pagal  savo kompetenciją.
  
      Lietuvos bankui  vadovauja banko valdyba, kurią sudaro
 pirmininkas, trys jo pavaduotojai ir dešimt narių.
-     Lietuvos banko valdybos pirmininku, jo pavaduotojais ir
+     Lietuvos banko valdybos pirmininku, jo pavaduotojais ir
 nariais gali būti tik Lietuvos Respublikos piliečiai.
      Lietuvos banko valdybos pirmininku, jo pavaduotojais ir
 nariais negali būti Respublikos Prezidentas, Lietuvos Respublikos Seimo ir
@@ -188,7 +198,7 @@ pirmininko teikimu.
      Lietuvos banko  valdyba, išskyrus  pirmininką ir vieną
 pirmininko pavaduotoją, atnaujinama trečdaliu kas treji metai.
  
-     11 straipsnis. Lietuvos banko valdybos pagrindinės
+     11 straipsnis. Lietuvos banko valdybos pagrindinės
 funkcijos
  
      Lietuvos banko valdyba:
@@ -202,9 +212,9 @@ ribojančius normatyvus bei privalomųjų atsargų normas bankams;
      3) priima teisės aktus;
      4) sprendžia  klausimus dėl  Lietuvos banko dalyvavimo
 užsienio ir tarptautinėse organizacijose;
-     5) sprendžia pinigų išleidimo į apyvartą ir išėmimo iš apyvartos
-bei kitus su tuo susijusius klausimus, kurie yra nustatyti šio įstatymo 6
-straipsnyje;
+     5) sprendžia pinigų išleidimo į apyvartą ir išėmimo iš
+apyvartos bei kitus su tuo susijusius klausimus, kurie yra nustatyti šio
+įstatymo 6 straipsnyje;
      6) steigia ir likviduoja Lietuvos banko skyrius, filialus,
 kitas įstaigas ir įmones savo funkcijoms atlikti;
      7) tvirtina Lietuvos banko etatų sąrašą, struktūrą ir
@@ -224,7 +234,10 @@ klausimus;
      14) nustato  atlyginimo dydį  Lietuvos banko  valdybos
 pirmininko pavaduotojams ir valdybos nariams;
      15) rengia ir teikia Lietuvos Respublikos Seimui tvirtinti
-Lietuvos banko ūkinių bei bendrųjų valdymo išlaidų ir pajamų metinę sąmatą.
+Lietuvos banko ūkinių bei bendrųjų valdymo išlaidų ir pajamų metinę sąmatą;
+     16) vykdo komercinio banko tarybos įgaliojimus, kurie
+pereina Lietuvos banko valdybai pagal Komercinių bankų įstatymo 39 straipsnio
+ketvirtosios dalies 1 punkto nuostatas.
      Lietuvos bankas, įgyvendindamas savo tikslus, atlieka šias
 pagrindines funkcijas:
      1) išleidžia į apyvartą ir išima iš apyvartos Lietuvos
@@ -261,7 +274,9 @@ atlikti valdybos pirmininkui, išskyrus šio straipsnio pirmosios dalies 1, 2, 4
 5, 8, 9, 10, 11, 12, 13 ir 14 punktuose nustatytas funkcijas.
 
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. VIII-389, 97.07.02, Žin., 1997, Nr.67-1666 (97.07.16)
+ 
 
      12 straipsnis. Lietuvos banko valdybos narių atleidimas iš
 pareigų
@@ -286,8 +301,8 @@ atsistatydinimas
 įteikęs pareiškimą Respublikos Prezidentui, o valdybos pirmininko pavaduotojai
 ir nariai - Lietuvos banko valdybos pirmininkui.
      Valdybos pirmininko  atsistatydinimo pareiškimą  svarsto
-Lietuvos Respublikos Seimas, o pirmininko pavaduotojų ir valdybos narių -
-Respublikos Prezidentas.
+Lietuvos Respublikos Seimas, o pirmininko pavaduotojų ir valdybos narių - Respublikos
+Prezidentas.
      Sprendimai dėl atsistatydinimo priimami per vieną mėnesį
 nuo pareiškimų atsistatydinti įteikimo dienos.
      Jeigu sprendimas nepriimtas, atsistatydinusiu laikoma po
@@ -340,8 +355,8 @@ Respublikoje bei užsienyje ir atlieka visus su tuo susijusius veiksmus;
    3) sudaro darbo sutartis su Lietuvos banko darbuotojais bei
 Lietuvos banko  skyrių, filialų  ar Lietuvos banko įstaigų vadovais, skatina
 pasižymėjusius darbuotojus, skiria drausmines nuobaudas;
-   4) tvirtina  valdybos  pirmininko  ir  jo  pavaduotojų
-pasiskirstymą pareigomis;
+   4) tvirtina  valdybos  pirmininko  ir  jo  pavaduotojų pasiskirstymą
+pareigomis;
    5) išduoda įgaliojimus;
    6) tvirtina Lietuvos banko struktūrinių padalinių nuostatus;
    7) vykdo kitas Lietuvos banko valdybos pavestas funkcijas.
@@ -350,14 +365,14 @@ valdybos pirmininko pareigas jo pavedimu eina vienas iš jo pavaduotojų.
    Lietuvos banko valdybos pirmininkas arba jo pavaduotojas turi
 dalyvauti  Lietuvos Respublikos Vyriausybės posėdžiuose patariamojo balso
 teise.
-   Atleistas ar atstatydintas iš Lietuvos banko valdybos
-pirmininko pareigų asmuo Lietuvos banko reikalus naujai paskirtam Lietuvos
-banko valdybos pirmininkui arba laikinai eiti šias pareigas paskirtam  asmeniui
-perduoda  dalyvaujant  Lietuvos Respublikos Seimo valdybos paskirtam atstovui,
-kuris, be kita ko, taip pat pasirašo reikalų perdavimo aktą.
+   Atleistas ar atstatydintas iš Lietuvos banko valdybos pirmininko
+pareigų asmuo Lietuvos banko reikalus naujai paskirtam Lietuvos banko valdybos
+pirmininkui arba laikinai eiti šias pareigas paskirtam  asmeniui perduoda 
+dalyvaujant  Lietuvos Respublikos Seimo valdybos paskirtam atstovui, kuris, be
+kita ko, taip pat pasirašo reikalų perdavimo aktą.
 
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
  
    18 straipsnis. Lietuvos banko darbuotojai
  
@@ -373,7 +388,7 @@ paslaugos (išskyrus kreditų teikimą) Lietuvos banko valdybos nustatyta tvarka
 ir sąlygomis.
 
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
  
    19 straipsnis. Lietuvos banko paslapčių saugojimas
  
@@ -398,14 +413,14 @@ nustatyta tvarka.
    Lietuvos banko įstatinis kapitalas yra 50 mln. litų.
    Įstatinis kapitalas formuojamas iš Lietuvos Respublikos
 valstybės lėšų ir Lietuvos banko pelno atskaitymų.
-   Lietuvos banko atsargos kapitalas sudaromas iš Lietuvos banko
+   Lietuvos banko atsargos kapitalas sudaromas iš Lietuvos banko
 pelno metinių atskaitymų, kurie daromi tol, kol atsargos kapitalo suma pasieks
 200 mln. litų. Atsargos kapitalas gali būti naudojamas tik banko nuostoliams
 atlyginti. Panaudojus dalį atsargos kapitalo banko nuostoliams atlyginti, vėl
 daromi pelno atskaitymai šiam kapitalui, kol jis pasieks 200 mln. litų.
 
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
  
    21 straipsnis. Lietuvos banko pajamos
  
@@ -440,7 +455,7 @@ amortizacijos išlaidos;
 banko funkcijoms atlikti ir neprieštarauja įstatymams.
 
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
  
    23 straipsnis. Lietuvos banko pelnas
  
@@ -464,7 +479,7 @@ biudžetą iki kiekvienų metų gegužės 1 dienos.
 neapmokestinamas.
 
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
  
                              IV skyrius
                     LIETUVOS BANKO PINIGŲ POLITIKA
@@ -493,7 +508,7 @@ užtikrintus dviejų garantų ir laiduotojų, iš kurių bent vienas yra bankas,
 parašais, jeigu nuo diskontavimo dienos iki jų apmokėjimo yra likę ne daugiau
 kaip šeši mėnesiai, ir su dviejų garantų ir laiduotojų parašais, iš kurių bent
 vienas yra bankas.
-   Lietuvos  bankas  rediskontuoja  vekselius  neviršydamas
+   Lietuvos  bankas  rediskontuoja  vekselius  neviršydamas
 kiekvieno banko maksimalaus galimo rediskontavimo dydžio, kuris apskaičiuojamas
 atitinkamu  santykiu nuo  bankų  registruoto kapitalo.
    Lietuvos bankas nustato, didina ar mažina kiekvieno banko
@@ -516,7 +531,7 @@ paskolą, turto įkeitimu;
 įkeitimu, garantija ar laidavimu.
 
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731 
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731 
  
    28 straipsnis. Palūkanų normos
  
@@ -604,13 +619,13 @@ kredito įstaigų steigimą bei jų veiklą reglamentuojantys ir kiti Lietuvos
 Respublikos įstatymai bei Lietuvos banko leidžiami teisės aktai.
  
    35 straipsnis. Bankų ir kitų kredito įstaigų riziką
-                  ribojančių normatyvų ir privalomųjų
-           atsargų formavimas
+ribojančių normatyvų 
+                  ir privalomųjų atsargų formavimas
  
    Lietuvos bankas nustato bankams ir kitoms kredito įstaigoms
 riziką ribojančius normatyvus ir privalomąsias atsargas nuo jų indėlių bei kitų
-skolintų lėšų (pasyvų). Normatyvų, privalomųjų atsargų dydį ir šių atsargų
-laikymo tvarką nustato Lietuvos bankas valdybos nutarimais.
+skolintų lėšų (pasyvų). Normatyvų, privalomųjų atsargų dydį ir šių atsargų laikymo
+tvarką nustato Lietuvos bankas valdybos nutarimais.
  
    36 straipsnis. Bankų ir kitų kredito įstaigų veiklos
 priežiūra
@@ -640,8 +655,7 @@ buhalterinius ir kitus dokumentus bet kurio ūkio subjekto, kuris Lietuvos banko
 turimomis žiniomis verčiasi kredito įstaigos veikla be Lietuvos banko
 licencijos.
  
-   37 straipsnis. Lietuvos banko poveikio priemonės bankams ir
-kitoms
+   37 straipsnis. Lietuvos banko poveikio priemonės bankams ir kitoms
                    kredito įstaigoms
  
    Lietuvos bankas turi teisę taikyti bankams ir kitoms kredito
@@ -683,7 +697,7 @@ praktika.
 nuostolių ataskaita ir paaiškinamasis raštas.
 
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
  
    41 straipsnis. Lietuvos banko veiklos kontrolė ir ataskaitų
 auditas
@@ -694,7 +708,7 @@ naudojamas valstybės turtas.
 patikrinti samdo nepriklausomus auditorius konkurso tvarka.
 
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
  
    42 straipsnis. Metinė Lietuvos banko ataskaita
  
@@ -713,7 +727,7 @@ ketvirčio pirmąjį mėnesį atsiskaito Seimo Biudžeto ir finansų komitetui u
 veiklą bei darbo rezultatus.
 
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
  
    43-1 straipsnis. Bendradarbiavimas su Lietuvos Respublikos
 Vyriausybe
@@ -727,16 +741,17 @@ užtikrinti.
 apie bankuose ir kitose kredito įstaigose nustatytus įstatymų, kitų teisės
 aktų, tarnybinių instrukcijų ir finansinių operacijų pažeidimus. Informacijos
 pateikimo tvarką nustato Lietuvos bankas ir Lietuvos Respublikos Vyriausybė.
-   Lietuvos bankas, prieš skirdamas laikinąjį komercinio banko
-administratorių, prieš kreipdamasis į teismą dėl banko bankroto bylos iškėlimo
-Lietuvos Respublikos komercinių bankų įstatymo 34 straipsnyje nurodytu pagrindu
-arba prieš taikydamas Komercinių bankų įstatymo 37 straipsnio pirmosios dalies
-3 (moratoriumas), 7 ir 9 punktuose nurodytas poveikio priemones, informuoja
-Ministrą Pirmininką ir finansų ministrą, tačiau savarankiškai priima sprendimus
-bei prisiima atsakomybę šiais klausimais.
-
+    Lietuvos bankas, prieš skirdamas laikinąjį komercinio banko
+administratorių, o jei reikia, ir jo padėjėjus, prieš kreipdamasis į teismą dėl
+banko bankroto bylos iškėlimo Lietuvos Respublikos komercinių bankų įstatymo 34
+straipsnyje nurodytu pagrindu arba prieš taikydamas Komercinių bankų įstatymo
+37 straipsnio pirmosios dalies 3 (moratoriumas), 7 ir 9 punktuose nurodytas
+poveikio priemones, informuoja Ministrą Pirmininką ir finansų ministrą, tačiau
+savarankiškai priima sprendimus bei prisiima atsakomybę šiais klausimais.
+ 
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. VIII-389, 97.07.02, Žin., 1997, Nr.67-1666 (97.07.16)
  
                                  VIII skyrius
                               BAIGIAMOSIOS NUOSTATOS
@@ -760,7 +775,7 @@ pervesti įkeistus vertybinius popierius už tokią sumą, kokia buvo neįvykdyt
 prievolės, jei tai numatyta Lietuvos banko ir skolininko sutartyje.
  
 Straipsnio pakeitimai:
-Nr.1-1225, 96.03.12, Žin., 1996,  Nr. 30-731
+Nr. I-1225, 96.03.12, Žin., 1996,  Nr. 30-731
 Nr. VIII-179, 97.04.08, Žin., 1997, Nr.33-812 (97.04.18) 
 
    45 straipsnis. Lietuvos banko atleidimas nuo mokesčių
