@@ -324,12 +324,13 @@ valstybės biudžete numatytų lėšų.
 6. Pasibaigus Vyriausybės nario įgaliojimams šio
 įstatymo 9 straipsnio 1 dalies 4 punkte numatytu atveju, Vyriausybės nariui
 išmokama dviejų Vyriausybės nario vidutinių mėnesinių darbo užmokesčių dydžio
-kompensacija, o pasibaigus Vyriausybės nario įgaliojimams šio įstatymo 9
-straipsnio 1 dalies 1, 2, 3 ir 5 punktuose, 10 ir 11 straipsniuose numatytais
-atvejais – vieno vidutinio mėnesinio darbo užmokesčio dydžio kompensacija.
+kompensacija, o pasibaigus Vyriausybės nario įgaliojimams šio įstatymo 
+9 straipsnio 1 dalies 1, 2, 3 ir 5 punktuose numatytais atvejais, – vieno
+vidutinio mėnesinio darbo užmokesčio dydžio kompensacija..
 7. Šio straipsnio 6 dalyje numatytos kompensacijos
 nemokamos Vyriausybės nariams, kai jie paskiriami Ministru Pirmininku ar
-ministrais naujai sudarytoje Vyriausybėje.
+ministrais naujai sudarytoje Vyriausybėje, taip pat jei jie yra išrinkti Seimo
+nariais.
 8. Lėšos šiame straipsnyje numatytoms
 socialinėms garantijoms skiriamos iš valstybės biudžeto. 
 9. Vyriausybės
@@ -337,6 +338,8 @@ nariai negali turėti teisės aktuose nenustatytų socialinių garantijų.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
+Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
+66-2407 (2001-08-01)
  
  
 14 straipsnis.
@@ -344,11 +347,11 @@ Draudimas Ministrui Pirmininkui ir ministrams eiti kitas renkamas ar
 skiriamas
 pareigas ir dirbti kitą darbą
 Ministras
-Pirmininkas ir ministrai negali eiti jokių kitų renkamų ar skiriamų
-pareigų (išskyrus galimybę Seimo nariams eiti Ministro Pirmininko ar ministro
-pareigas), negali dirbti verslo, komercijos ar kitose privačiose įstaigose ar
-įmonėse, taip pat gauti kito atlyginimo, išskyrus jiems nustatytą darbo
-užmokestį pagal pareigas Vyriausybėje bei užmokestį už kūrybinę veiklą.
+Pirmininkas ir ministrai negali eiti jokių kitų renkamų ar
+skiriamų pareigų (išskyrus galimybę Seimo nariams eiti Ministro Pirmininko ar
+ministro pareigas), negali dirbti verslo, komercijos ar kitose privačiose
+įstaigose ar įmonėse, taip pat gauti kito atlyginimo, išskyrus jiems nustatytą
+darbo užmokestį pagal pareigas Vyriausybėje bei užmokestį už kūrybinę veiklą.
 Užmokesčiu už kūrybinę veiklą laikomas autorinis atlyginimas už
 kūrinius, laikomus autorinių teisių objektais pagal Autorinių teisių ir
 gretutinių teisių įstatymą, už mokslinį ir pedagoginį darbą aukštosiose
@@ -368,8 +371,8 @@ PREZIDENTU
 15 straipsnis.
 Vyriausybės teisė teikti siūlymą dėl pirmalaikių Seimo rinkimų
 Vyriausybė turi
-teisę teikti siūlymą Respublikos Prezidentui paskelbti pirmalaikius Seimo
-rinkimus, jeigu Seimas pareiškia tiesioginį nepasitikėjimą Vyriausybe.
+teisę teikti siūlymą Respublikos Prezidentui paskelbti pirmalaikius Seimo rinkimus,
+jeigu Seimas pareiškia tiesioginį nepasitikėjimą Vyriausybe.
  
 16 straipsnis.
 Vyriausybės teisė skelbti Respublikos Prezidento rinkimus
@@ -420,8 +423,13 @@ pasirašiusiam Ministrui Pirmininkui arba ministrui.
 Vyriausybės įstatymų leidybos iniciatyvos teisė
 1. Vyriausybė
 turi įstatymų leidybos iniciatyvos teisę Seime.
-2. Vyriausybė
-dėl Seimui teikiamų įstatymų ar Seimo nutarimų projektų priima nutarimą.
+2. Vyriausybė dėl Seimui teikiamų įstatymų ar Seimo
+nutarimų projektų priima nutarimą. Svarstant šiuos projektus Seime, Vyriausybei
+atstovauja Ministras Pirmininkas arba jo įgaliotas ministras.
+Straipsnio
+pakeitimai:
+Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
+66-2407 (2001-08-01)
  
 21 straipsnis.
 Pasitikėjimo Vyriausybe patikrinimas
@@ -448,8 +456,8 @@ veiklą; svarsto ir aprobuoja ministerijų ir Vyriausybės įstaigų strateginiu
 veiklos planus; rengia ir tvirtina periodiškai atnaujinamą Vyriausybės
 ilgalaikį strateginį veiklos planą (vieneriems, trejiems, penkeriems ir
 dešimčiai metų). Vyriausybės ilgalaikis strateginis veiklos planas sudaromas
-remiantis Vyriausybės programa, nacionalinėmis programomis. Nacionalinės
-programos rengiamos Vyriausybėje ir teikiamos tvirtinti Seimui;
+remiantis Vyriausybės programa, nacionalinėmis programomis. Nacionalinės programos
+rengiamos Vyriausybėje ir teikiamos tvirtinti Seimui;
 4) rengia ir
 teikia Seimui valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 patvirtinimo įstatymo projektą; organizuoja valstybės biudžeto vykdymą,
@@ -548,12 +556,12 @@ Respublikos Konstitucijos numatytais atvejais teikia Respublikos Prezidentui
 siūlymus pavesti vienam iš ministrų pavaduoti Ministrą Pirmininką;
 9) teikia Seimui
 svarstyti Vyriausybės programą;
-10) teikia Vyriausybei
-siūlymus dėl apskričių viršininkų, jų pavaduotojų skyrimo ir atleidimo iš
-pareigų;
-11) kviečia
-Vyriausybės posėdžius ir jiems vadovauja (pirmininkauja), tvirtina Vyriausybės
-posėdžio darbotvarkę;
+10) teikia
+Vyriausybei siūlymus dėl apskričių viršininkų, jų pavaduotojų skyrimo ir
+atleidimo iš pareigų;
+11) kviečia Vyriausybės
+posėdžius ir jiems vadovauja (pirmininkauja), tvirtina Vyriausybės posėdžio
+darbotvarkę;
 12) suteikia
 įgaliojimus derėtis ir pasirašyti Lietuvos Respublikos tarptautines sutartis; 
 13) sudaro
@@ -694,8 +702,7 @@ ministerija;
 ministerija;
 3) Krašto
 apsaugos ministerija;
-4) Kultūros
-ministerija;
+4) Kultūros ministerija;
 5) Socialinės
 apsaugos ir darbo ministerija;
 6) Susisiekimo
@@ -722,8 +729,8 @@ funkcijas ir įgyvendina šioje srityje valstybės politiką.
 4. Ministerijai
 vadovauja ministras.
 5. Ministerija
-yra juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu bei
-savo pavadinimu.
+yra juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu
+bei savo pavadinimu.
 6. Ministerija
 savo veiklą grindžia Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos
 Respublikos tarptautinėmis sutartimis, Vyriausybės nutarimais, kitais teisės
@@ -743,10 +750,11 @@ strateginiais veiklos planais, kuriuose apibūdinami pagrindiniai ministerijos
 uždaviniai ir būdai juos įgyvendinti. Ministerijos strateginiai veiklos planai
 rengiami vieneriems, trejiems, penkeriems ir dešimčiai metų atsižvelgiant į
 Vyriausybės ilgalaikį strateginį veiklos planą. Seimui pritarus naujos
-Vyriausybės programai, ministerijos savo parengtus arba atnaujintus strateginius
-veiklos planus per tris mėnesius pateikia Vyriausybei aprobuoti. Jeigu įsteigta
-nauja ministerija, ji ilgalaikius ministerijos strateginius veiklos planus
-pateikia Vyriausybei aprobuoti per tris mėnesius nuo įsteigimo dienos.
+Vyriausybės programai, ministerijos savo parengtus arba atnaujintus
+strateginius veiklos planus per tris mėnesius pateikia Vyriausybei aprobuoti.
+Jeigu įsteigta nauja ministerija, ji ilgalaikius ministerijos strateginius
+veiklos planus pateikia Vyriausybei aprobuoti per tris mėnesius nuo įsteigimo
+dienos.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
@@ -797,8 +805,8 @@ ministro įsakymų projektų rengimą, pagal savo kompetenciją leidžia vykdomo
 pobūdžio potvarkius;
 5) skiria ir
 atleidžia iš pareigų savo pavaduotoją, ministerijos administracijos padalinių
-vadovus, kitus ministerijos valstybės tarnautojus, išskyrus politinio
-(asmeninio) pasitikėjimo tarnautojus;
+vadovus, kitus ministerijos valstybės tarnautojus, išskyrus politinio (asmeninio)
+pasitikėjimo tarnautojus;
 6) atlieka kitas
 ministro jam pavestas funkcijas.
 Straipsnio pakeitimai:
@@ -845,15 +853,15 @@ tikrina, kaip jie vykdomi.
 7. Vyriausybės
 įstaigos veikla organizuojama vadovaujantis Vyriausybės aprobuotais
 strateginiais veiklos planais, kuriuose apibūdinami pagrindiniai Vyriausybės
-įstaigos uždaviniai ir būdai juos įgyvendinti. Vyriausybės įstaigos
-strateginiai veiklos planai rengiami vieneriems, trejiems, penkeriems ir
-dešimčiai metų atsižvelgiant į Vyriausybės ilgalaikį strateginį veiklos planą.
-Seimui pritarus naujos Vyriausybės programai, Vyriausybės įstaigos per tris
-mėnesius pateikia savo parengtus arba atnaujintus Vyriausybės įstaigų
-strateginius veiklos planus Vyriausybei aprobuoti. Jeigu įsteigta nauja ar
-reorganizuota esanti Vyriausybės įstaiga, ji ilgalaikius Vyriausybės įstaigos
-strateginius veiklos planus pateikia Vyriausybei aprobuoti per tris mėnesius
-nuo įsteigimo ar reorganizavimo dienos.
+įstaigos uždaviniai ir būdai juos įgyvendinti. Vyriausybės įstaigos strateginiai
+veiklos planai rengiami vieneriems, trejiems, penkeriems ir dešimčiai metų
+atsižvelgiant į Vyriausybės ilgalaikį strateginį veiklos planą. Seimui pritarus
+naujos Vyriausybės programai, Vyriausybės įstaigos per tris mėnesius pateikia
+savo parengtus arba atnaujintus Vyriausybės įstaigų strateginius veiklos planus
+Vyriausybei aprobuoti. Jeigu įsteigta nauja ar reorganizuota esanti Vyriausybės
+įstaiga, ji ilgalaikius Vyriausybės įstaigos strateginius veiklos planus
+pateikia Vyriausybei aprobuoti per tris mėnesius nuo įsteigimo ar
+reorganizavimo dienos.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
@@ -911,9 +919,9 @@ darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
  
 37 straipsnis.
 Vyriausybės posėdžiai
-1. Vyriausybė
-valstybės valdymo reikalus sprendžia posėdžiuose visų Vyriausybės narių balsų
-dauguma priimdama nutarimus. 
+1. Vyriausybė valstybės
+valdymo reikalus sprendžia posėdžiuose visų Vyriausybės narių balsų dauguma
+priimdama nutarimus. 
 2. Vyriausybės
 posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos
 Respublikos Konstitucija ir kiti įstatymai.
@@ -948,25 +956,23 @@ Nr. VIII-1980,
 39
 straipsnis. Nesutarimų, kylančių derinant teisės aktų projektus, sprendimo
 tvarka 
-1. Teisės aktų
-projektų, apimančių kelių ministrų valdymo sritis, derinimo metu iškilę
-nesutarimai paprastai svarstomi Ministro Pirmininko aparate. 
-2. Jeigu Ministro
-Pirmininko aparate nuomonių suderinti nepavyksta, Vyriausybės kancleris arba
-ministrai kreipiasi į Ministrą Pirmininką. Šis gali siūlyti klausimą svarstyti
-Vyriausybės komitete (toliau - komitetai).
-3. Komitetams
+1. Teisės
+aktų projektų, apimančių kelių ministrų valdymo sritis, derinimo metu iškilę
+nesutarimai paprastai svarstomi Vyriausybės komitete.
+2. Komitetams
 pirmininkauja Ministro Pirmininko paskirti Vyriausybės nariai.
-4. Komitetų posėdžiuose dalyvauja Vyriausybės posėdyje
+3. Komitetų posėdžiuose dalyvauja Vyriausybės posėdyje
 svarstomų norminių teisės aktų projektais suinteresuotų ministerijų atstovai –
 ministrai ar jų įgalioti viceministrai, prireikus – kiti asmenys.
-5. Vyriausybės
+4. Vyriausybės
 posėdyje svarstant teisės akto projektą, prieš tai aptartą komitete, šio
 komiteto posėdžio pirmininkas informuoja apie ministrų (jų įgaliotų atstovų)
 susitarimus ar diskusijų išvadas.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
+Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
+66-2407 (2001-08-01)
  
  
 40
@@ -990,18 +996,13 @@ pranešėjus ir pateikia Ministrui Pirmininkui.
 Pirmininkas pasirašo posėdžio darbotvarkę, Vyriausybės sekretorius ne vėliau
 kaip prieš 3 dienas iki posėdžio išsiunčia posėdžio medžiagą Vyriausybės
 nariams, pranešėjams ir kitiems posėdyje dalyvausiantiems asmenims.
-5. Ministras
-Pirmininkas turi teisę Vyriausybės posėdžio metu pasiūlyti įtraukti į
-darbotvarkę ir naujus klausimus. Pasiūlyti Ministrui Pirmininkui įtraukti
-klausimą į darbotvarkę turi teisę ir ministras. Darbotvarkę papildyti,
-įtraukiant į ją teisės akto priėmimą, galima, jei šis teisės akto projektas yra
-iš anksto suderintas su suinteresuotomis institucijomis, vizuotas teisingumo
-ministro, Vyriausybės kanceliarijos atsakingo patarėjo ir teisės padalinio
-vadovo ar jo įgalioto asmens. Dėl klausimo įtraukimo į darbotvarkę yra
-balsuojama ir priimamas protokolinis sprendimas. Jei šiuo klausimu nepriimtas
-teigiamas sprendimas, klausimas turi būti teikiamas svarstyti Vyriausybės darbo
-reglamento nustatyta tvarka. Šia tvarka į darbotvarkę negali būti įtraukiami
-klausimai dėl įstatymų projektų.
+5. Ministras Pirmininkas turi teisę Vyriausybės
+posėdžio metu pasiūlyti į tvirtinamą darbotvarkę įtraukti ir naujų klausimų.
+Pasiūlyti Ministrui Pirmininkui įtraukti klausimą į darbotvarkę turi teisę ir
+ministras Vyriausybės darbo reglamento nustatyta tvarka. Balsuojama, ar
+klausimą įtraukti į darbotvarkę, ir priimamas protokolinis sprendimas. Jei šiuo
+klausimu teigiamas sprendimas nepriimamas, klausimas turi būti teikiamas
+svarstyti Vyriausybės darbo reglamento nustatyta tvarka.
 6. Vyriausybės
 posėdyje išklausomas pranešimas ir Vyriausybės narių nuomonė. Jeigu posėdžio
 pirmininkas leidžia, savo nuomonę gali pareikšti ir kiti posėdyje dalyvaujantys
@@ -1009,6 +1010,8 @@ asmenys.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
+Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
+66-2407 (2001-08-01)
  
  
 41 straipsnis.
@@ -1246,6 +1249,13 @@ Nr. IX-331, 2001 05 17, Žin., 2001, Nr.
 48-1656 (2001 06 06)
 VYRIAUSYBĖS ĮSTATYMO 45 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
+66-2407 (2001-08-01)
+VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ
+PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
@@ -1267,5 +1277,5 @@ LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 06 06)
-                  autrap@lrs.lt
+Redagavo: Angonita Rupšytė (2001-08-01)
+                  anrups@lrs.lt
