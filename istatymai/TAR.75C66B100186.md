@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.75C66B100186"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 1994-12-30 iki 1995-12-28
+Suvestinė redakcija nuo 1995-12-29 iki 1995-12-29
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 191-0; Žin. 1992, Nr.29-843, i. k. 0921010ISTA00I-2880
  
@@ -450,31 +450,16 @@ Teismas, priėmęs sprendimą likviduoti bankrutavusią įmonę, privalo:
 
 29 straipsnis. Kreditorių reikalavimų patenkinimo eilė ir tvarka
 
-Pirmąja eile yra tenkinama:
+Pirmąja eile yra tenkinami darbuotojų reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, taip pat gyvybės atėmimo, reikalavimai apmokėti už perdirbti supirktą ir neapmokėtą žemės ūkio produkciją.
 
-1) įkaitu garantuoti kreditorių reikalavimai;
+Antrąja eile yra tenkinami reikalavimai dėl privalomojo valstybinio socialinio draudimo įmokų ir netesybų.
 
-2) reikalavimai apmokėti už perdirbimui supirktą ir neapmokėtą žemės ūkio produkciją;
+Trečiąja eile yra tenkinami įkaitu garantuoti kreditorių reikalavimai, teismo ir administravimo išlaidos, susijusios su bylos nagrinėjimu, reikalavimai apmokėti prekes, kurie pateikti nuo įmonės bankroto bylos iškėlimo ar viešo įmonės paskelbimo bankrutuojančia dienos iki teismo ar kreditorių susirinkimo sprendimo likviduoti įmonę priėmimo dienos, taip pat kiti reikalavimai, kylantys dėl sprendimų, kuriuos priėmė administratorius bylos nagrinėjimo metu; reikalavimai dėl mokesčių ir kitų mokėjimų į valstybės ir savivaldybių biudžetą.
 
-3) darbuotojų reikalavimai, susiję su darbo santykiais;
+Ketvirtąja eile yra tenkinami visi kiti kreditorių reikalavimai.
 
-4) reikalavimai atlyginti žalą už suluošinimą ar kitokį sveikatos sužalojimą, taip pat gyvybės atėmimą. 
-
-Straipsnio dalies pakeitimai:
-Nr. I-739, 1994-12-22, Žin., 1994, Nr. 101-2020 (1994-12-30), i. k. 0941010ISTA000I-739
- 
-
-Antrąja eile yra tenkinama:
-
-1) teismo ir administravimo išlaidos, susijusios su bylos nagrinėjimu;
-
-2) reikalavimai dėl neapmokėtų prekių, pateiktų per laikotarpį nuo įmonės bankroto bylos iškėlimo ar viešo įmonės paskelbimo bankrutuojančia dienos iki teismo ar kreditorių susirinkimo sprendimo likviduoti įmonę priėmimo dienos, taip pat kiti reikalavimai, kylantys dėl sprendimų, kuriuos priėmė administratorius bylos nagrinėjimo metu.
-
-Trečiąja eile yra tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą, privalomo valstybinio socialinio draudimo.
-
-Ketvirtąja eile yra tenkinami įkaitu negarantuoti kreditorių reikalavimai ir kiti kreditorių reikalavimai.
-
-Kiekvienos paskesnės eilės kreditorių (išieškotojų) reikalavimai patenkinami po to, kai visiškai patenkinti pirmesnės eilės kreditorių (išieškotojų) reikalavimai. Jeigu finansinių lėšų neužtenka visiškai patenkinti visiems vienos eilės reikalavimams, tie reikalavimai patenkinami proporcingai pagal priklausančią kiekvienam kreditoriui (išieškotojui) sumą.
+Straipsnio pakeitimai:
+Nr. I-1136, 1995-12-19, Žin., 1995, Nr. 106-2352 (1995-12-29), i. k. 0951010ISTA00I-1136
  
 
 30 straipsnis. Bankrutavusios įmonės likvidavimo tvarka
@@ -508,5 +493,10 @@ Dėl Lietuvos Respublikos įmonių bankroto įstatymo pakeitimo ir papildymo
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-739, 1994-12-22, Žin., 1994, Nr. 101-2020 (1994-12-30), i. k. 0941010ISTA000I-739
+Dėl Lietuvos Respublikos įmonių bankroto įstatymo 29 straipsnio pakeitimo
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1136, 1995-12-19, Žin., 1995, Nr. 106-2352 (1995-12-29), i. k. 0951010ISTA00I-1136
 Dėl Lietuvos Respublikos įmonių bankroto įstatymo 29 straipsnio pakeitimo
 
