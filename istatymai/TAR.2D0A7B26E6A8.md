@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8"
 
 # Lietuvos Respublikos pensijų sistemos reformos įstatymas
 
-Suvestinė redakcija nuo 2004-06-19 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2008-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5511, i. k. 1021010ISTA0IX-1215
  
@@ -60,7 +60,10 @@ Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
  
 
-8. Pensijų kaupimo sutartis – įstatymų nustatyta tvarka pensijų įmokų kaupimo laikotarpiui sudaryta sutartis tarp asmens, draudžiamo privalomuoju valstybiniu socialiniu draudimu, ir pensijų kaupimo bendrovės dėl pensijų įmokos kaupimo asmens pensijų sąskaitoje, atidarytoje šioje bendrovėje.
+8. Pensijų kaupimo sutartis – įstatymų nustatyta tvarka pensijų įmokų kaupimo laikotarpiui sudaryta sutartis tarp asmens, draudžiamo valstybiniu socialiniu draudimu, ir pensijų kaupimo bendrovės dėl pensijų įmokos kaupimo asmens pensijų sąskaitoje, atidarytoje šioje bendrovėje.
+Straipsnio dalies pakeitimai:
+Nr. IX-2541, 2004-11-04, Žin., 2004, Nr. 171-6301 (2004-11-26), i. k. 1041010ISTA0IX-2541
+ 
 
 9. Pensijų kaupimo veikla – finansinė-ūkinė pensijų kaupimo bendrovių veikla, kuria siekiama sukaupti senatvei papildomas dalyvių pajamas, surenkant šio Įstatymo nustatytas dalyvių įmokas, jas investuojant ar reinvestuojant į diversifikuotą investicijų portfelį bei įstatymų nustatytomis sąlygomis dalyviams mokant pensijų išmokas. 
 
@@ -73,7 +76,9 @@ Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
  
 
-13. Valstybinio socialinio draudimo įmokos dalies kaupimas (toliau – pensijų kaupimas) – valstybės nustatytų priemonių sistema, suteikianti teisę Lietuvos Respublikos gyventojams, draudžiamiems privalomuoju valstybiniu socialiniu draudimu, kaupti pensijų kaupimo bendrovėje šio Įstatymo nustatytą valstybinio socialinio pensijų draudimo įmokos dalį, ją investuojant ar reinvestuojant į diversifikuotą investicijų portfelį bei įstatymų nustatytomis sąlygomis gauti pensijų išmokas.
+13. Valstybinio socialinio draudimo įmokos dalies kaupimas (toliau – pensijų kaupimas) – valstybės nustatytų priemonių sistema, suteikianti teisę Lietuvos Respublikos gyventojams, draudžiamiems valstybiniu socialiniu draudimu, kaupti pensijų kaupimo bendrovėje šio Įstatymo nustatytą valstybinio socialinio pensijų draudimo įmokos dalį, ją investuojant ar reinvestuojant į diversifikuotą investicijų portfelį, bei įstatymų nustatytomis sąlygomis gauti pensijų išmokas.
+Straipsnio dalies pakeitimai:
+Nr. IX-2541, 2004-11-04, Žin., 2004, Nr. 171-6301 (2004-11-26), i. k. 1041010ISTA0IX-2541
  
 
 3 straipsnis. Dalyvavimas kaupiant pensijas 
@@ -135,7 +140,10 @@ Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
  
 
-2. Dalyvių įskaitą tvarko ir pensijų įmokas į dalyvių pasirinktas pensijų kaupimo bendroves Vyriausybės nustatyta tvarka perveda Valstybinio socialinio draudimo fondo įstaigos. Pensijų kaupimo bendrovės privalo įstatymų nustatyta tvarka pranešti Valstybinio socialinio draudimo fondo įstaigoms apie sudarytas ir nutrauktas pensijų kaupimo sutartis.
+2. Dalyvių įskaitą tvarko ir pensijų įmokas į dalyvių pasirinktas pensijų kaupimo bendroves Vyriausybės nustatyta tvarka perveda Valstybinio socialinio draudimo fondo administravimo įstaigos. Pensijų kaupimo bendrovės privalo įstatymų nustatyta tvarka pranešti Valstybinio socialinio draudimo fondo administravimo įstaigoms apie sudarytas ir nutrauktas pensijų kaupimo sutartis.
+Straipsnio dalies pakeitimai:
+Nr. IX-2541, 2004-11-04, Žin., 2004, Nr. 171-6301 (2004-11-26), i. k. 1041010ISTA0IX-2541
+ 
 
 3. Valdymo įmonių pensijų kaupimo veiklos valstybinę priežiūrą įstatymų nustatyta tvarka atlieka Vertybinių popierių komisija. Gyvybės draudimo įmonių pensijų kaupimo veiklos valstybinę priežiūrą įstatymų nustatyta tvarka atlieka pagal Draudimo įstatymą draudimo veiklos priežiūrą vykdanti institucija (toliau – draudimo priežiūros institucija).
 Straipsnio dalies pakeitimai:
@@ -209,4 +217,9 @@ Lietuvos Respublikos pensijų sistemos reformos įstatymo, Valstybinių socialin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010ISTA0IX-2255
 Lietuvos Respublikos pensijų sistemos reformos įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2541, 2004-11-04, Žin., 2004, Nr. 171-6301 (2004-11-26), i. k. 1041010ISTA0IX-2541
+Lietuvos Respublikos pensijų sistemos reformos įstatymo, Papildomo savanoriško pensijų kaupimo įstatymo, Pensijų kaupimo įstatymo pakeitimo įstatymas
 
