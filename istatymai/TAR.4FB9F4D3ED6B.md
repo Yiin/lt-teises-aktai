@@ -335,8 +335,13 @@ ir kiti įstatymai.
 Lietuvos
 Respublikoje draudžiama steigti ir laikyti lošimo namus, organizuoti azartinius
 lošimus.
-Įmonių įstatymo 6
-straipsnyje nurodytoms įmonėms ir jų junginiams draudžiama verstis kredito
+ 
+***[12 straipsnio 2 dalis netenka galios
+nuo Azartinių lošimų įstatymo įsigaliojimo
+dienos, tai yra nuo 2001 m. liepos 1 d.]***
+ 
+Įmonių įstatymo
+6 straipsnyje nurodytoms įmonėms ir jų junginiams draudžiama verstis kredito
 įstaigų veikla, taip pat draudžiama skolintis pinigų iš fizinių asmenų,
 išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus ir būdus.
 Komercinės-ūkinės veiklos sritis,
@@ -389,6 +394,8 @@ Nr. VIII-1305,
 99.07.07, Žin., 1999, Nr. 66-2122 (99.07.30)
 Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.
 108-3129 (99.12.22)
+Nr. IX-253,
+2001 04 17, Žin., 2001, Nr. 39-1325 (2001 05 09), įsigalioja nuo 2001 07 01
  
  
 13 straipsnis. Komercinės-ūkinės veiklos
@@ -398,18 +405,18 @@ veikla turėdama licenciją.
 Licencija yra dokumentas, suteikiantis teisę verstis
 įmonei licencijoje nurodyta komercine-ūkine veikla.
 Licencijuojamos tos komercinės-ūkinės veiklos
-sritys, kurios yra susijusios su padidėjusiu pavojumi žmogaus gyvybei, sveikatai,
-aplinkai, ginkluotės gamyba ir įsigijimu, taip pat prekėmis ir paslaugomis,
-kurioms įstatymai gali nustatyti specialią prekių pardavimo ar paslaugų teikimo
-tvarką.
+sritys, kurios yra susijusios su padidėjusiu pavojumi žmogaus gyvybei,
+sveikatai, aplinkai, ginkluotės gamyba ir įsigijimu, taip pat prekėmis ir
+paslaugomis, kurioms įstatymai gali nustatyti specialią prekių pardavimo ar
+paslaugų teikimo tvarką.
 Kiekvienai įstatymo nustatytai licencijuojamai
 komercinės-ūkinės veiklos sričiai Lietuvos Respublikos Vyriausybė tvirtina
 licencijavimo taisykles, jeigu kiti įstatymai nenustato ko kita.
 Licencijavimo taisyklėse nurodoma:
 1) licencijuojama komercinės-ūkinės veiklos sritis;
 2) licencijų rūšys;
-3) licenciją išduodanti institucija ir jos įgaliojimai;
-
+3) licenciją išduodanti institucija ir jos
+įgaliojimai; 
 4) dokumentai, reikalingi licencijai gauti;
 5) dokumentų nagrinėjimo tvarka ir terminai;
 6) licencijos rekvizitai;
@@ -579,16 +586,16 @@ privaloma tvarka veda apskaitą, apie kurią pagal Lietuvos Respublikos įstatym
 valstybės organams teikia informaciją įmonių apmokestinimo ir
 buhalterinės-finansinės apskaitos reikmėms. Įmonė turi teisę laikyti paslaptyje
 dokumentus apie savo komercinę veiklą.
-     Įmonių
-veiklos tikrinimas ir revizija leidžiama tik Lietuvos Respublikos įstatymų
-numatytais atvejais.
+     Įmonių veiklos
+tikrinimas ir revizija leidžiama tik Lietuvos Respublikos įstatymų numatytais
+atvejais.
      Valstybės institucija, išdavusi įmonei
 licenciją (leidimą), suteikiančią teisę užsiimti tam tikra komercine-ūkine
 veikla, ar kitokį įstatymų numatytą leidimą, turi teisę gauti iš tos įmonės
 informaciją, reikalingą jos veiklos priežiūrai ir kontrolei vykdyti. Įmonė
 negali trukdyti priežiūrą ir kontrolę vykdančioms valstybės institucijoms (jų
-įgaliotiems pareigūnams) atlikti jų kompetencijai priskirtas priežiūros ir
-kontrolės funkcijas.
+įgaliotiems pareigūnams) atlikti jų kompetencijai priskirtas priežiūros ir kontrolės
+funkcijas.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -622,8 +629,8 @@ I-1015,
 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
  
  
-            18 straipsnis.Įmonės steigimo
-tvarka
+            18 straipsnis.Įmonės
+steigimo tvarka
             Įmonės steigimo tvarką
 nustato šis ir kiti norminiai aktai, reglamentuojantys atskirų rūšių įmonių
 steigimą.
@@ -685,8 +692,8 @@ steigiamos įmonės įstatai ar kiti steigimo dokumentai neatitinka įstatymų;
 įstatymų nustatytais atvejais.
      Savivaldybės
 organas privalo per 15 dienų po įmonės steigimo dokumentų įteikimo išnagrinėti
-leidimo užsiimti ūkine veikla klausimą ir apie savo sprendimą per 3 dienas
-raštu pranešti įmonės steigėjui.
+leidimo užsiimti ūkine veikla klausimą ir apie savo sprendimą per 3 dienas raštu
+pranešti įmonės steigėjui.
      Savivaldybės
 organas privalo atšaukti leidimą užsiimti ūkine veikla, jeigu vėliau paaiškėja
 šio straipsnio 4 dalyje nustatytos aplinkybės. Apie leidimo atšaukimą
@@ -864,8 +871,8 @@ filialo pavadinimas ir buveinės adresas;
 veiklos trukmė, jei numatoma terminuota jo veikla;
 4) filialo
 veiklos tikslai ir ūkinės veiklos rūšys;
-5) filialo vadovo
-įgaliojimai.
+5) filialo
+vadovo įgaliojimai.
 Filialo
 nuostatuose gali būti ir kitų Lietuvos Respublikos įstatymams
 neprieštaraujančių nuostatų.
@@ -888,8 +895,8 @@ sprendimą nutraukti filialo ar atstovybės veiklą;
 filialą įsteigusi įmonė.
 Įmonės valdymo
 organas, kuriam įstatai ar kiti steigimo dokumentai suteikė teisę priimti
-sprendimus nutraukti filialo ar atstovybės veiklą, priėmęs tokį sprendimą, paskiria
-atsakingą asmenį veiklos nutraukimo procedūrai atlikti. Apie sprendimą
+sprendimus nutraukti filialo ar atstovybės veiklą, priėmęs tokį sprendimą,
+paskiria atsakingą asmenį veiklos nutraukimo procedūrai atlikti. Apie sprendimą
 nutraukti filialo ar atstovybės veiklą įmonė viešai skelbia vietos ir šalies
 spaudoje. Veiklos nutraukimo procedūra gali būti užbaigta ne anksčiau kaip po
 15 dienų nuo paskelbimo. Atsakingas asmuo, užbaigęs filialo ar atstovybės
@@ -974,15 +981,15 @@ Užsienio
 valstybės įmonės filialas ir atstovybė registruojami Lietuvos Respublikos
 įmonių rejestre ir laikomi įsteigtais nuo jų įregistravimo dienos. Užsienio
 valstybės įmonės filialas komercinę-ūkinę veiklą gali pradėti tik
-jį įregistravus. Dokumentus, kuriuos reikia pateikti norint įregistruoti filialą
-ar atstovybę, nustato Lietuvos Respublikos Vyriausybė. 
+jį įregistravus. Dokumentus, kuriuos reikia pateikti norint įregistruoti
+filialą ar atstovybę, nustato Lietuvos Respublikos Vyriausybė. 
 Užsienio valstybės įmonės filialas
 ir atstovybė raštvedybą, apskaitą, atskaitomybę, finansinius bei techninius
 dokumentus tvarko lietuvių kalba, o jeigu reikia, - ir užsienio kalba. 
-Užsienio valstybės
-įmonės filialas ir atstovybė privalo tvarkyti apskaitą bei teikti valstybės
-institucijoms informaciją Lietuvos Respublikos įstatymų ir kitų teisės aktų
-nustatyta tvarka. 
+Užsienio
+valstybės įmonės filialas ir atstovybė privalo tvarkyti apskaitą bei teikti
+valstybės institucijoms informaciją Lietuvos Respublikos įstatymų ir kitų
+teisės aktų nustatyta tvarka. 
 Užsienio
 valstybių įmonės filialo ir atstovybės veiklą tikrinti leidžiama šio įstatymo
 15 straipsnio antrosios ir trečiosios dalių nustatyta tvarka. 
@@ -1389,8 +1396,8 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1465, 99.12.07, Žin., 1999,
 Nr.108-3129 (99.12.22)
 LIETUVOS
-RESPUBLIKOS ĮMONIŲ ĮSTATYMO 1, 2, 12, 24 STRAIPSNIŲ PAKEITIMO IR
-PAPILDYMO BEI PAPILDYMO 25 STRAIPSNIU ĮSTATYMAS
+RESPUBLIKOS ĮMONIŲ ĮSTATYMO 1, 2, 12, 24
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI PAPILDYMO 25 STRAIPSNIU ĮSTATYMAS
  
 40.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1412,8 +1419,18 @@ Nr.78-2361 (00.09.15)
 Šis
 įstatymas pradedamas įgyvendinti nuo 2001 m. liepos 1 d.
  
+43.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-253, 2001 04 17, Žin., 2001, Nr.
+39-1325 (2001 05 09)
+ĮMONIŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo Azartinių lošimų įstatymo įsigaliojimo dienos, tai yra
+nuo 2001 m. liepos 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.09.15)
+Redagavo: Aušrinė Trapinskienė (2001 05 09)
+                  autrap@lrs.lt
 
