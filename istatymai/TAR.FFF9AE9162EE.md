@@ -291,7 +291,7 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 
 
-8) žemės ūkio veiklai naudojami ne keliais judantys mechanizmai, registruojami pirmą kartą Lietuvoje ar keičiantis žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojui Traktorių, savaeigių ir žemės ūkio mašinų bei jų priekabų registre (toliau – Registras), išskyrus atvejus, kai keičiami žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojo duomenys: juridinio asmens pavadinimas arba fizinio asmens vardas ir (ar) pavardė, tačiau faktinis į Registrą įrašytas žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojas pakeitus valdytojo duomenis nesikeičia, arba į Registrą įrašomas naujas žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojas mirus valdytojui, kuris buvo žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo savininkas, arba į Registrą įrašomas naujas žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo savininkas, kai žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojas nesikeičia.
+8) žemės ūkio veiklai naudojami ne keliais judantys mechanizmai, registruojami pirmą kartą Lietuvoje ar keičiantis žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojui Traktorių, savaeigių ir žemės ūkio mašinų bei jų priekabų registro informacinėje sistemoje (toliau – Registro informacinė sistema), išskyrus atvejus, kai keičiami žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojo duomenys: juridinio asmens pavadinimas arba fizinio asmens vardas ir (ar) pavardė, tačiau faktinis į Registro informacinę sistemą įrašytas žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojas pakeitus valdytojo duomenis nesikeičia, arba į Registro informacinę sistemą įrašomas naujas žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojas mirus valdytojui, kuris buvo žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo savininkas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
  
@@ -315,9 +315,7 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 
 
-2) mokesčio mokėtojai, teršiantys iš transporto priemonių, naudojančių Lietuvos techninės specifikacijos standartus atitinkančius biodegalus: biodyzeliną, atitinkantį standartą LST EN 14214, ir sintetinį dyzeliną, atitinkantį standartą LST EN 15940, bioetanolį E85, atitinkantį standartą LST EN 15293, – už sunaudotą biodegalų kiekį, kurio sunaudojimas patvirtintas biodegalų įsigijimo dokumentais.
-
-
+2) mokesčio mokėtojai, teršiantys iš transporto priemonių, naudojančių Lietuvos techninės specifikacijos standartus atitinkančius biodegalus: biodyzeliną, atitinkantį standartą LST EN 14214, ir sintetinį dyzeliną, atitinkantį standartą LST EN 15940, bioetanolį E85, atitinkantį standartą LST EN 15293, – už sunaudotą biodegalų kiekį, kurio sunaudojimas patvirtintas biodegalų įsigijimo dokumentais.
 
 
 
@@ -372,13 +370,7 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 Straipsnio pakeitimai:
 Nr. XIV-1709, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27558
-Nr. XIV-2174, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19346
- 
-
-
-
-
-7 straipsnis. Mokesčio tarifų nustatymo ir jų indeksavimo tvarka
+Nr. XIV-2174, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-193467 straipsnis. Mokesčio tarifų nustatymo ir jų indeksavimo tvarka
 
 
 1. Mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių, kuriems išmesti teršalus į aplinką privalomas leidimas su nustatytais taršos normatyvais, tarifai, mokant mokestį už išmestą taršos normatyvo neviršijantį teršalo kiekį, nustatyti šio įstatymo 1 priede, už taršos normatyvą viršijantį teršalo kiekį – šio įstatymo 2 priede.
