@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97CC6DAA5C43"
 
 # Lietuvos Respublikos laikinasis valiutos fondų ir atskaitymų konvertuojama valiuta įstatymas
 
+Suvestinė redakcija nuo 1991-12-18 iki 1992-02-27
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.10-265, i. k. 0911010ISTA00I-1159
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
@@ -109,7 +113,10 @@ Mokesčių dydį nustato Lietuvos Respublikos juridinių ir fizinių asmenų mok
 
 8 straipsnis. Papildomos nuostatos
 
-1. Atskaitymų į valiutos fondus nevykdo aklųjų, kurčiųjų ir kitų invalidų draugijos, jų įmonės ir organizacijos, Raudonojo kryžiaus draugija, vyskupo M.Valančiaus blaivystės sąjūdis, Kultūros, Gailestingumo ir sveikatos, Vaikų fondai, kitos organizacijos ir fondai, kurių pagrindinis tikslas – labdara, bei jų įmonės ir organizacijos, taip pat gydymo įstaigos, jeigu valiutinės įplaukos nenaudojamos darbo užmokesčiui, premijoms ir kitoms išmokoms.
+1. Atskaitymų į valiutos fondus nevykdo aklųjų, kurčiųjų ir kitų invalidų draugijos, jų įmonės ir organizacijos, Raudonojo kryžiaus draugija, vyskupo M.Valančiaus blaivystės sąjūdis, Kultūros, Gailestingumo ir sveikatos, Vaikų fondai, kitos organizacijos ir fondai, kurių pagrindinis tikslas – labdara, bei jų įmonės ir organizacijos, taip pat gydymo įstaigos, valstybinė ortopedijos įmonė, jeigu valiutinės įplaukos nenaudojamos darbo užmokesčiui, premijoms ir kitoms išmokoms.
+Straipsnio dalies pakeitimai:
+Nr. I-2047, 1991-11-28, Lietuvos aidas, 1991, Nr. 251-0 (1991-12-17); Žin., 1991, Nr. 36-972 (1991-12-31), i. k. 0911010ISTA00I-2047
+ 
 
 2. Įmonės, realizuojančios produkciją ir teikiančios paslaugas už valiutą, gali perduoti dalį valiutinių lėšų kitoms įmonėms, susijusioms su šios produkcijos gamyba ir paslaugų teikimu, tarpusavio sutartyse numatytomis sumomis. Tuo atveju, kai valiutinėms prekėms (produkcijai) pagaminti naudojama centralizuotai skirstoma žaliava ar produkcija, jos gamintojui (Lietuvos Respublikoje įregistruotai įmonei) sumokama ne mažiau kaip 50 procentų nustatytos (sutartinės) kainos valiuta pagal skaičiuojamąjį kursą.
 
@@ -124,4 +131,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1991 m. kovo 21 d. 
 Nr. I-1159
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2047, 1991-11-28, Lietuvos aidas, 1991, Nr. 251-0 (1991-12-17); Žin., 1991, Nr. 36-972 (1991-12-31), i. k. 0911010ISTA00I-2047
+Dėl Lietuvos Respublikos laikinojo valiutos fondų ir atskaitymų konvertuojama valiuta įstatymo papildymo
 
