@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2000-11-01 iki 2001-05-08
+Suvestinė redakcija nuo 2001-05-09 iki 2003-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
  
@@ -613,7 +613,10 @@ SOCIALINĖS GARANTIJOS
 
 
 
-2. Specialiųjų tyrimų tarnybos pareigūnų pareiginės algos dydis nustatomas Valstybės tarnybos įstatymo nustatyta tvarka, o priedų, priemokų, kompensacijų ir pašalpų dydį bei tvarką nustato Lietuvos Respublikos specialiųjų tyrimų tarnybos statutas bei kiti teisės aktai.
+2. Specialiųjų tyrimų tarnybos direktoriaus ir direktoriaus pavaduotojų ir kitų pareigūnų pareiginės algos, priedų, priemokų, kompensacijų ir pašalpų dydį bei mokėjimo tvarką nustato Lietuvos Respublikos įstatymai.
+Straipsnio dalies pakeitimai:
+Nr. IX-269, 2001-04-19, Žin., 2001, Nr. 39-1340 (2001-05-09), i. k. 1011010ISTA00IX-269
+ 
 
 
 
@@ -754,3 +757,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2011, 2000-10-10, Žin., 2000, Nr. 92-2863 (2000-10-31), i. k. 1001010ISTAIII-2011
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 13 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-269, 2001-04-19, Žin., 2001, Nr. 39-1340 (2001-05-09), i. k. 1011010ISTA00IX-269
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 19 straipsnio pakeitimo įstatymas
