@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1999-07-30 iki 1999-10-26
+Suvestinė redakcija nuo 1999-10-27 iki 1999-11-25
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
  
@@ -165,7 +165,10 @@ PRIVATIZAVIMO INSTITUCIJOS
 
 
 
-3) konkurso būdu parenka ekspertus privatizavimo užduotims atlikti (įskaitant privatizavimo objektų vertinimą) ir pasirašo su jais sutartis dėl užduočių atlikimo;
+3) Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka samdo fizinius ar juridinius asmenis, taip pat įmones, neturinčias juridinio asmens teisių, privatizavimo užduotims atlikti (įskaitant privatizavimo objektų vertinimą) ir pasirašo su jais sutartis dėl užduočių atlikimo; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1360, 1999-10-14, Žin., 1999, Nr. 90-2640 (1999-10-27), i. k. 0991010ISTAIII-1360
+ 
 
 
 
@@ -781,7 +784,9 @@ PRIVATIZAVIMO BŪDAI IR PRIVATIZAVIMO OBJEKTO ĮSIGIJIMAS
 
 
 
-4. Kiekvienam iš privatizavimo objektų, privatizuojamų bet kuriuo šiame įstatyme nustatytu privatizavimo būdu, Turto fondas turi teisę Vyriausybės nustatyta tvarka viešo konkurso būdu parinkti fizinį ar juridinį asmenį visoms su privatizavimu susijusioms užduotims atlikti (įskaitant investitoriaus suradimą ir pirkimo-pardavimo sutarties projekto parengimą).
+4. Kiekvienam iš privatizavimo objektų, privatizuojamų bet kuriuo šiame įstatyme nustatytu privatizavimo būdu, Turto fondas turi teisę Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka samdyti fizinius ar juridinius asmenis, taip pat įmones, neturinčias juridinio asmens teisių, visoms su privatizavimu susijusioms užduotims atlikti (įskaitant investitoriaus suradimą ir pirkimo-pardavimo sutarties projekto parengimą). 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1360, 1999-10-14, Žin., 1999, Nr. 90-2640 (1999-10-27), i. k. 0991010ISTAIII-1360
  
 
 
@@ -1363,3 +1368,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 2, 5, 6, 7, 10, 14, 15, 17, 20, 21 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1360, 1999-10-14, Žin., 1999, Nr. 90-2640 (1999-10-27), i. k. 0991010ISTAIII-1360
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 4 ir 13 straipsnių pakeitimo įstatymas
