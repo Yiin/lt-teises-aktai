@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910"
 
 # Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymas
 
-Suvestinė redakcija nuo 2001-07-11 iki 2003-04-30
+Įstatymas netenka galios 2020-07-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3068, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14343
+Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymas
+ 
+Suvestinė redakcija nuo 2003-05-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1731, i. k. 0971010ISTAVIII-353
  
@@ -54,7 +59,10 @@ Jeigu yra šio įstatymo 4 straipsnyje numatyti pagrindai, gali būti taikomos p
 
 4 straipsnis. Prevencinių poveikio priemonių taikymo pagrindai
 
-Šio įstatymo 3 straipsnyje numatytos prevencinės poveikio priemonės gali būti taikomos asmenims, jei iš įstatymų nustatyta tvarka gautų duomenų apie šių asmenų ryšius su organizuotomis grupėmis, nusikalstamais susivienijimais ar jų nariais yra pakankamas pagrindas manyti, kad šie asmenys gali daryti sunkius nusikaltimus ir prevencines poveikio priemones reikia taikyti siekiant garantuoti visuomenės bei valstybės saugumą, užtikrinti viešąją tvarką, asmenų teises ir laisves.
+Šio įstatymo 3 straipsnyje numatytos prevencinės poveikio priemonės gali būti taikomos asmenims, jei iš įstatymų nustatyta tvarka gautų duomenų apie šių asmenų ryšius su organizuotomis grupėmis, nusikalstamais susivienijimais ar jų nariais yra pakankamas pagrindas manyti, kad šie asmenys gali daryti sunkius ar labai sunkius nusikaltimus ir prevencines poveikio priemones reikia taikyti siekiant garantuoti visuomenės bei valstybės saugumą, užtikrinti viešąją tvarką, asmenų teises ir laisves.
+
+Straipsnio pakeitimai:
+Nr. IX-1486, 2003-04-03, Žin., 2003, Nr. 38-1731 (2003-04-24), i. k. 1031010ISTA0IX-1486
  
 
 ANTRASIS SKIRSNIS
@@ -157,4 +165,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-392, 2001-06-26, Žin., 2001, Nr. 60-2138 (2001-07-11), i. k. 1011010ISTA00IX-392
 Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1486, 2003-04-03, Žin., 2003, Nr. 38-1731 (2003-04-24), i. k. 1031010ISTA0IX-1486
+Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo 4 straipsnio pakeitimo įstatymas
 
