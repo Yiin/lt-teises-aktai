@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 1997-07-11 iki 1998-07-07
+Suvestinė redakcija nuo 1998-07-08 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
  
@@ -46,7 +46,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės įstatyme vartojamos sąvokos
 
 
-1. Mobilizacija – valstybės ūkio pertvarkymas karo padėčiai ir ginkluotųjų pajėgų bei jų rezervo pervedimas iš taikos į kovos parengtį bei atsargos karo prievolininkų šaukimas į tikrąją karo tarnybą.
+1. Mobilizacija – valstybės valdymo, savivaldybių ir ūkio sistemos pertvarkymas karo padėčiai, ginkluotųjų pajėgų bei jų rezervo ir civilinės saugos bendrosios ir specialiosios paskirties formuočių (civilinės saugos formuočių) pervedimas iš taikos į kovos parengtį bei atsargos karo prievolininkų šaukimas į tikrąją karo tarnybą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
@@ -62,10 +65,12 @@ BENDROSIOS NUOSTATOS
 3 straipsnis. Mobilizacijos mastas
 
 
-Mobilizacija gali būti visuotinė arba dalinė. Visuotinė mobilizacija aprėpia visą valstybės ūkį, ginkluotąsias pajėgas ir jų rezervą. Dalinė mobilizacija aprėpia dalį valstybės ūkio, ribotą kiekį karinių dalinių (junginių) ir ginkluotųjų pajėgų rezervo.
+Mobilizacija gali būti visuotinė arba dalinė. Visuotinė mobilizacija aprėpia visą valstybės valdymo, savivaldybių ir ūkio sistemą, ginkluotąsias pajėgas bei jų rezervą ir civilinės saugos formuotes. Dalinė mobilizacija aprėpia dalį valstybės valdymo, savivaldybių ir ūkio sistemos, ribotą kiekį karinių dalinių ir civilinės saugos formuočių bei ginkluotųjų pajėgų rezervo.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
  
-
-
 
 
 
@@ -95,7 +100,10 @@ RENGIMO ORGANIZAVIMAS
 1. Pasirengimą mobilizacijai sudaro:
 
 
-1) atsargos karinių dalinių formavimas;
+1) atsargos karinių dalinių ir civilinės saugos formuočių sudarymas; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
@@ -110,7 +118,10 @@ RENGIMO ORGANIZAVIMAS
 2. Mobilizacinio rezervo rengimą sudaro:
 
 
-1) atsargos karo prievolininkų mobilizacinė apskaita ir kariniai mokymai;
+1) atsargos karo prievolininkų mobilizacinė apskaita ir kariniai bei specialūs mokymai; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
@@ -130,7 +141,10 @@ RENGIMO ORGANIZAVIMAS
 
 
 
-5) medicininės paskirties išteklių atsargų sukaupimas, karo lauko ligoninių ir kitų mobilių medicinos pagalbos teikimo struktūrų formavimas ir komplektavimas;
+5) medicininės paskirties išteklių atsargų sukaupimas, karo lauko ligoninių ir kitų mobilių pagalbos teikimo struktūrų formavimas ir komplektavimas; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
@@ -145,7 +159,10 @@ RENGIMO ORGANIZAVIMAS
 
 
 
-8) žaliavų bei pusfabrikačių atsargų sudarymas, atnaujinimas, papildymas ir saugojimas;
+8) gamtos išteklių išsaugojimas, žaliavų bei pusfabrikačių atsargų sudarymas, atnaujinimas, papildymas ir saugojimas;
+Straipsnio punkto pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
@@ -292,7 +309,15 @@ Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010IS
 
 
 
-6) kontroliuoja mobilizacinių atsargų kaupimą ir saugojimą visose ministerijose ir Vyriausybės įstaigose.
+6) kontroliuoja mobilizacinių atsargų kaupimą ir saugojimą visose ministerijose ir Vyriausybės įstaigose;
+
+
+
+
+7) sudaro valstybės ūkiui svarbių pareigų (specialybių) sąrašą, pagal kurį karo prievolininkai yra atleidžiami nuo mobilizacijos. 
+Papildyta straipsnio punktu:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
@@ -327,12 +352,18 @@ Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010IS
 
 
 
-6) planuoja atsargos karinių dalinių formavimą, komplektavimą ir pratybas;
+6) planuoja atsargos karinių dalinių ir civilinės saugos formuočių komplektavimą ir pratybas
+Straipsnio punkto pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
 
-7) užtikrina kariuomenės mobilizacinių atsargų paskirstymą, išdėstymą, saugojimą ir aptarnavimą;
+7) užtikrina kariuomenės mobilizacinių atsargų kaupimą, paskirstymą, išdėstymą, saugojimą ir aptarnavimą; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
@@ -360,7 +391,10 @@ Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010IS
 6. Vidaus reikalų ministerija:
 
 
-1) tvarko vidaus reikalų sistemoje dirbančių ir iš jos į atsargą išėjusių karo prievolininkų apskaitą;
+1) tvarko vidaus reikalų sistemoje dirbančių, taip pat mobilizacinio plano priemonėms įgyvendinti pasirinktų karo prievolininkų apskaitą; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
@@ -370,12 +404,18 @@ Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010IS
 
 
 
-3) organizuoja vidaus reikalų sistemoje dirbančių ir iš jos į atsargą išėjusių karo prievolininkų karinius mokymus;
+3) organizuoja vidaus reikalų sistemoje dirbančių karo prievolininkų karinius mokymus
+Straipsnio punkto pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
 
-4) planuoja iš vidaus reikalų sistemoje dirbančių ir iš jos į atsargą išėjusių karo prievolininkų atsargos karinio dalinio formavimą, komplektavimą ir pratybas;
+4) planuoja iš vidaus reikalų sistemoje dirbančių karo prievolininkų karinio dalinio formavimą, komplektavimą ir pratybas; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
@@ -390,7 +430,10 @@ Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010IS
 
 
 
-7) parengia ir teikia Vyriausybei tvirtinti ginklų, esančių civilinėje apyvartoje, rekvizicijos bei laikino paėmimo tvarką ir ją realizuoja.
+7) parengia ir teikia Vyriausybei tvirtinti ginklų, esančių civilinėje apyvartoje, rekvizicijos bei laikino paėmimo tvarką. 
+Straipsnio punkto pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+ 
 
 
 
@@ -584,23 +627,20 @@ MOBILIZACINIS REZERVAS
 
 
 
-11 straipsnis. Kariuomenės mobilizacinės atsargos
+11 straipsnis. Kariuomenės ir civilinės saugos mobilizacinės atsargos
 
 
-1. Kariuomenėje sudaromos ginkluotės, amunicijos, aprangos, ekipuotės, maisto ir kitų materialinių vertybių atsargos, būtinos kariuomenės mobilizacijai.
-
-
-
-
-2. Kariuomenės mobilizacinių atsargų kiekį nustato Vyriausybė.
+1. Kariuomenėje ir civilinės saugos sistemoje sudaromos ginkluotės, amunicijos, aprangos, ekipuotės, maisto ir kitų materialinių vertybių atsargos, būtinos kariuomenės mobilizacijai ir civilinei saugai.
 
 
 
 
-3. Kariuomenės mobilizacinių atsargų paskirstymą, išdėstymą, saugojimą ir aptarnavimą užtikrina Krašto apsaugos ministerija.
+2. Kariuomenės ir civilinės saugos mobilizacinių atsargų kiekį nustato Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
  
-
-
 
 
 
@@ -687,9 +727,17 @@ Paskelbus mobilizaciją:
 
 
 
-3) apskričių viršininkai, savivaldybių merai, įstaigų, įmonių ir organizacijų savininkai bei vadovai nedelsdami perduoda vietinei teritorinei karinei įstaigai laikinai naudoti patalpas, žemę bei inventorių, numatytus mobilizaciniuose planuose.
+3) apskričių viršininkai, savivaldybių merai, įstaigų, įmonių ir organizacijų savininkai bei vadovai nedelsdami perduoda vietinei teritorinei karinei įstaigai laikinai naudoti patalpas, žemę bei inventorių, numatytus mobilizaciniuose planuose;
 Straipsnio punkto pakeitimai:
 Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
+ 
+
+
+
+
+4) valstybės ūkis pertvarkomas į darbą karo padėtyje pagal iš anksto parengtus mobilizacinius planus.
+Papildyta straipsnio punktu:
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
  
 
 
@@ -747,3 +795,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
 Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 6, 12, 14, 15 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 2, 3, 5, 6, 11, 14 straipsnių pakeitimo ir papildymo įstatymas
