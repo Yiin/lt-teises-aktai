@@ -25,11 +25,6 @@ DIENŲ
 Vilnius
  
  
-
-
-
-
- 
 1 straipsnis. Atmintinos dienos
 Nustatyti šias atmintinas dienas:
 1) sausio 1-oji – Lietuvos vėliavos
@@ -40,51 +35,57 @@ Kazimiero diena;
 4) kovo 8-oji – Tarptautinė moterų
 solidarumo diena;
 5) kovo 20-oji – Žemės diena;
-6) gegužės 7-oji – Spaudos atgavimo,
+6) kovo 29 -oji – Lietuvos įstojimo į NATO diena;
+7) balandžio 27-oji – Medicinos
+darbuotojų diena;
+8) gegužės 1-oji – Lietuvos įstojimo į
+Europos Sąjungą diena;
+9) gegužės 7-oji – Spaudos atgavimo,
 kalbos ir knygos diena;
-7) gegužės 14-oji – Pilietinio
+10) gegužės 9-oji – Europos diena;
+11) gegužės 14-oji – Pilietinio
 pasipriešinimo diena;
-8) gegužės trečiasis sekmadienis –
-Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
-9) birželio 1-oji – Tarptautinė vaikų
+12) gegužės trečiasis sekmadienis
+– Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
+13) birželio 1-oji – Tarptautinė vaikų
 gynimo diena;
-10) birželio 3-ioji – Sąjūdžio diena;
-11) birželio pirmasis sekmadienis – Tėvo
+14) birželio 3-ioji – Sąjūdžio diena;
+15) birželio pirmasis sekmadienis – Tėvo
 diena;
-12) birželio 14-oji – Gedulo ir vilties
+16) birželio 14-oji – Gedulo ir vilties
 diena;
-13) birželio 15-oji – Okupacijos ir
+17) birželio 15-oji – Okupacijos ir
 genocido diena;
-14) birželio 23-ioji – Birželio sukilimo
+18) birželio 23-ioji – Birželio sukilimo
 diena;
-15) liepos 15-oji – Žalgirio mūšio
+19) liepos 15-oji – Žalgirio mūšio
 diena;
-16) liepos paskutinis sekmadienis –
+20) liepos paskutinis sekmadienis –
 Jūros diena;
-17) rugpjūčio 23-ioji – Juodojo kaspino
+21) rugpjūčio 23-ioji – Juodojo kaspino
 diena;
-18) rugpjūčio 31-oji – Laisvės diena;
-19) rugsėjo 1-oji – Mokslo ir žinių
+22) rugpjūčio 31-oji – Laisvės diena;
+23) rugsėjo 1-oji – Mokslo ir žinių
 diena;
-20) rugsėjo 8-oji – Šilinė (Švč.
+24) rugsėjo 8-oji – Šilinė (Švč.
 Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už
 Lietuvos nepriklausomybės ir laisvės apgynimą diena;
-21) rugsėjo 22-oji – Baltų vienybės
+25) rugsėjo 22-oji – Baltų vienybės
 diena;
-22) rugsėjo 23-ioji – Lietuvos žydų
+26) rugsėjo 23-ioji – Lietuvos žydų
 genocido diena;
-23) spalio 5-oji – Tarptautinė mokytojų
+27) spalio 5-oji – Tarptautinė mokytojų
 diena;
-24) spalio antrasis šeštadienis –
-Derliaus diena;
-25) spalio 25-oji – Konstitucijos diena;
-26) lapkričio 2-oji – Mirusiųjų atminimo
+28) spalio antrasis šeštadienis – Derliaus
+diena;
+29) spalio 25-oji – Konstitucijos diena;
+30) lapkričio 2-oji – Mirusiųjų atminimo
 (Vėlinių) diena;
-27) lapkričio 23-ioji – Lietuvos karių
+31) lapkričio 23-ioji – Lietuvos karių
 diena;
-28) lapkričio 30-oji – Mažosios Lietuvos
+32) lapkričio 30-oji – Mažosios Lietuvos
 prisijungimo prie Didžiosios Lietuvos akto diena;
-29) gruodžio 10-oji – Tarptautinė
+33) gruodžio 10-oji – Tarptautinė
 žmogaus teisių diena.
 Straipsnio
 pakeitimai:
@@ -110,20 +111,17 @@ IX-1633,
 2003-06-19, Žin., 2003, Nr. 69-3116 (2003-07-10)
 Nr. IX-1699,
 2003-07-04, Žin., 2003, Nr. 74-3420 (2003-07-25)
+Nr. IX-2099,
+2004-04-01, Žin., 2004, Nr. 55-1890 (2004-04-16)
  
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
  
-
-
-
-
- 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS
 BRAZAUSKAS
-______________
+___________________
  
 Pakeitimai:
  
@@ -202,10 +200,20 @@ IX-1699,
 ATMINTINŲ
 DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2099,
+2004-04-01, Žin., 2004, Nr. 55-1890 (2004-04-16)
+ATMINTINŲ
+DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Angonita Rupšytė (2003-07-25)
-anrups@lrs.lt
+Aušrinė Trapinskienė (2004-04-16)
+                 
+autrap@lrs.lt
