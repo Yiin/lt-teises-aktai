@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
+Suvestinė redakcija nuo 1991-04-11 iki 1991-08-02
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBINIO TURTO PIRMINIO PRIVATIZAVIMO
 ĮSTATYMAS
@@ -167,7 +171,10 @@ PRIVATIZAVIMO OBJEKTAI IR SUBJEKTAI
 
 9 straipsnis. Asmenys, turintys teisę įsigyti privatizuojamą turtą
 
-1. Privatizavimo objektus (akcijas) gali įsigyti Lietuvos Respublikos piliečiai, taip pat asmenys, kurie šio įstatymo įsigaliojimo dieną turėjo teisę gauti Lietuvos pilietybę pagal Lietuvos Respublikos pilietybės įstatymą.
+1. Privatizavimo objektus (akcijas) gali įsigyti Lietuvos Respublikos piliečiai. Ši nuostata netaikoma valstybinio ir visuomeninio butų fondo butams įsigyti 
+Straipsnio dalies pakeitimai:
+Nr. I-1146, 1991-03-14, Žin., 1991, Nr. 10-262 (1991-04-10), i. k. 0911010ISTA00I-1146
+ 
 
 2. Juridiniai asmenys negali už rublius įsigyti privatizavimo objektų (akcijų).
 
@@ -202,16 +209,20 @@ ATSISKAITYMAI UŽ PERKAMĄ PRIVATIZAVIMO OBJEKTĄ
 
 12 straipsnis. Valstybės vienkartinių išmokų ir tikslinių žemės ūkio kompensacijų skyrimo sąlygos ir tvarka
 
-1. Valstybės vienkartinės išmokos skiriamos visiems Lietuvos Respublikos piliečiams:
-1) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 35 metai, skiriama 10 tūkst. rub. išmoka;
-2) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 30 metų, skiriama 8 tūkst. rub. išmoka;
-3) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 25 metai, skiriama 6 tūkst. rub. išmoka;
-4) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 18 metų, skiriama 4 tūkst. rub. išmoka;
-5) asmenims, kuriems iki 1990 m. gruodžio 31 d. nesukako 18 metų, skiriama 2 tūkst. rub. išmoka. Jeigu tokio asmens vienas iš tėvų yra miręs iki 1990 m. gruodžio 31 d., tai šiam asmeniui skiriamos išmokos suma didinama iki 6 tūkst. rub., o jeigu mirę abu tėvai - skiriamos išmokos suma didinama iki 10 tūkst. rub.;
-6) pirmos ir antros grupės invalidams, nepriklausomai nuo jų amžiaus, skiriama 10 tūkst. rub. išmoka.
+1. Valstybės vienkartinės išmokos sudaro 2/3 privatizuojamo turto vertės, o privatizavimui skiriama 2/3 viso valstybinio turto (išskyrus žemę) vertės. Valstybės vienkartinės išmokos skiriamos visiems Lietuvos Respublikos piliečiams tokiomis proporcijomis:
+1) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 35 metai – 5 dalys;
+2) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 30 metų – 4 dalys;
+3) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 25 metai – 3 dalys;
+4) asmenims, kuriems iki 1990 m. gruodžio 31 d. sukako 18 metų – 2 dalys;
+5) asmenims, kuriems iki 1990 m. gruodžio 31 d. nesukako 18 metų – 1 dalis. Jeigu asmens vienas iš tėvų miręs iki 1990 m. gruodžio 31 d., tai šiam asmeniui skiriama šios dalies 3 punkte nurodyta išmoka, o jeigu mirę abu tėvai – skiriama išmoka, nurodyta šios dalies 1 punkte;
+6) pirmos ir antros grupės invalidams, nepriklausomai nuo jų amžiaus, skiriama šios dalies 1 punkte nurodyta išmoka.
 Valstybės vienkartinė išmoka neskiriama:
 1) asmenims, pripažintiems itin pavojingais recidyvistais;
 2) valstybės išlaikomiems asmenims, jei jie pripažinti neveiksniais ir neturi globėjų.
+Valstybės vienkartinės išmokos vienos dalies piniginė išraiška apskaičiuojama ir Lietuvos Respublikos Vyriausybės tvirtinama remiantis šio straipsnio nuostatomis 
+Straipsnio dalies pakeitimai:
+Nr. I-1146, 1991-03-14, Žin., 1991, Nr. 10-262 (1991-04-10), i. k. 0911010ISTA00I-1146
+ 
 
 2. Atsižvelgiant į vidutinio darbo užmokesčio Lietuvos ūkyje ir vidutinio darbo užmokesčio žemės ūkyje skirtumą, asmenims, po 1944 metų dirbusiems, taip pat dabar dirbantiems žemės ūkio įmonėse, pagal atskirus Lietuvos Respublikos įstatymus papildomai skiriamos tikslinės žemės ūkio kompensacijos (agrariniai čekiai).
 
@@ -382,4 +393,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1991 m. vasario 28 d. 
 Nr. I-1115
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-1146, 1991-03-14, Žin., 1991, Nr. 10-262 (1991-04-10), i. k. 0911010ISTA00I-1146
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo atskirų straipsnių pakeitimo
 
