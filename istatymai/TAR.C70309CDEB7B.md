@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2004-06-19 iki 2004-07-23
+Suvestinė redakcija nuo 2004-07-24 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
  
@@ -847,20 +847,22 @@ Saugotinų objektų, kurių veikla būtina norint užtikrinti svarbiausių valst
 37 straipsnis.       Laikinas ginklų, šaudmenų, sprogmenų, sprogstamųjų, radioaktyviųjų, nuodingųjų ir stipriai veikiančių, narkotinių ar psichotropinių medžiagų, taip pat transporto priemonių bei kitų daiktų paėmimas ar rekvizicija
 
 
-1. Karo padėties metu iš fizinių ir juridinių asmenų gali būti laikinai paimami arba rekvizuojami jų teisėtai laikomi ginklai, šaudmenys, sprogmenys, radioaktyviosios ir stipriai veikiančios medžiagos, taip pat, karinei būtinybei esant, transporto priemonės ir kiti daiktai. Laikino paėmimo ir rekvizicijos, taip pat laikinai paimtų daiktų grąžinimo ar teisingo atlyginimo už juos, atšaukus karo padėtį, tvarką nustato Vyriausybė.
+1. Karo padėties metu iš fizinių ir juridinių asmenų gali būti laikinai paimami jų teisėtai laikomi ginklai, šaudmenys, sprogmenys, sprogstamosios, radioaktyviosios ir stipriai veikiančios medžiagos, taip pat, karinei būtinybei esant, gali būti rekvizuojami teisėtai laikomi ginklai, šaudmenys, sprogmenys, sprogstamosios, nuodingosios ir stipriai veikiančios, narkotinės ir psichotropinės medžiagos, transporto priemonės ir kiti daiktai. Laikino paėmimo ir rekvizicijos, taip pat laikinai paimtų daiktų grąžinimo ar teisingo atlyginimo už juos, atšaukus karo padėtį, tvarką nustato Vyriausybė. 
 
 
 
 
-2. Laikiną ginklų, šaudmenų, sprogmenų, sprogstamųjų, radioaktyviųjų, nuodingųjų ir stipriai veikiančių, narkotinių ar psichotropinių medžiagų, taip pat transporto priemonių bei kitų daiktų paėmimą ar rekviziciją vykdo policija arba kariuomenė.
+2. Laikiną ginklų, šaudmenų, sprogmenų, sprogstamųjų, nuodingųjų ir stipriai veikiančių, narkotinių ar psichotropinių medžiagų, taip pat transporto priemonių bei kitų daiktų paėmimą ar rekviziciją vykdo policija arba kariuomenė, laikiną radioaktyviųjų medžiagų paėmimą organizuoja ir koordinuoja Radiacinės saugos centras kartu su savivaldybėmis, o į teisės aktų nustatytas vietas laikinai paimamas radioaktyviąsias medžiagas pristato radioaktyviųjų medžiagų turėtojai.
 
 
 
 
-3. Asmuo, iš kurio laikinai paimami ar rekvizuojami ginklai, šaudmenys, sprogmenys, sprogstamosios, radioaktyviosios, nuodingosios ir stipriai veikiančios, narkotinės ar psichotropinės medžiagos, taip pat kiti daiktai, supažindinamas su sprendimu paimti nurodytus daiktus. Šio straipsnio 2 dalyje nurodytos institucijos sudaro laikinai paimtų daiktų apyrašą.
+3. Asmuo, iš kurio laikinai paimami ginklai, šaudmenys, sprogmenys, sprogstamosios, radioaktyviosios, nuodingosios ir stipriai veikiančios, narkotinės ar psichotropinės medžiagos ar rekvizuojami ginklai, šaudmenys, sprogmenys, sprogstamosios, nuodingosios ir stipriai veikiančios, narkotinės ar psichotropinės medžiagos, transporto priemonės, taip pat kiti daiktai, supažindinamas su sprendimu paimti nurodytus daiktus. Šio straipsnio 2 dalyje nurodytos institucijos sudaro laikinai paimtų daiktų apyrašą. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-2330, 2004-07-08, Žin., 2004, Nr. 115-4273 (2004-07-24), i. k. 1041010ISTA0IX-2330
  
-
-
 
 
 
@@ -933,3 +935,8 @@ Lietuvos Respublikos karo padėties įstatymo 2, 3, 5, 6, 7, 8, 26, 27, 28, 29, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2258, 2004-06-01, Žin., 2004, Nr. 96-3524 (2004-06-19), i. k. 1041010ISTA0IX-2258
 Lietuvos Respublikos karo padėties įstatymo 14 ir 24 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2330, 2004-07-08, Žin., 2004, Nr. 115-4273 (2004-07-24), i. k. 1041010ISTA0IX-2330
+Lietuvos Respublikos karo padėties įstatymo 37 straipsnio pakeitimo įstatymas
