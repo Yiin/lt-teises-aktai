@@ -16,9 +16,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC"
 Redagavo: Ramun? L??ait? (1997
 
 Įstatymas
-paskelbtas: Žin., 1994, Nr. 3-41
+skelbtas: Žin., 1994, Nr. 3-41
 Nauja
-įstatymo redakcija paskelbta: Žin., 1998, Nr. 32-855
+įstatymo redakcija skelbta: Žin., 1998, Nr. 32-855
 Neoficialus
 įstatymo tekstas
  
@@ -46,8 +46,8 @@ juridiniams asmenims tvarką, reguliuoja žemės nuomotojų ir nuomininkų
 santykius. 
 2. Žemės nuomos
 užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarką
-nustato Žemės sklypų įsigijimo ir nuomos užsienio valstybių diplomatinėms ir konsulinėms
-įstaigoms tvarkos bei sąlygų įstatymas. 
+nustato Žemės sklypų įsigijimo ir nuomos užsienio valstybių diplomatinėms ir
+konsulinėms įstaigoms tvarkos bei sąlygų įstatymas. 
 3. Laisvųjų
 ekonominių zonų teritorijų žemės nuomos santykius reguliuoja šis įstatymas ir
 Laisvųjų ekonominių zonų pagrindų įstatymas.
@@ -82,14 +82,13 @@ naudoti ir disponuoti jais patikėjimo teise;
 2) apskrities
 viršininkas - išnuomoja kitų subjektų valdomą valstybinę žemę bei kitą
 valstybinę žemę.
-3. Žemės
-sklypas, priklausantis keliems asmenims bendrosios nuosavybės teise, gali būti
+3. Žemės sklypas,
+priklausantis keliems asmenims bendrosios nuosavybės teise, gali būti
 išnuomojamas, jeigu bendrasavininkiai sutinka arba nuomos sutartį pasirašo
 vienas bendrasavininkis, turintis notaro patvirtintą kitų bendrasavininkių
 įgaliojimą.
-4. Nuomotojo ir
-nuomininko pareigos apibrėžiamos žemės nuomos sutartyje, šiame ir kituose
-įstatymuose.
+4. Nuomotojo ir nuomininko
+pareigos apibrėžiamos žemės nuomos sutartyje, šiame ir kituose įstatymuose.
 5. Žemės
 nuomininku gali būti Lietuvos Respublikos ir užsienio valstybių fiziniai ir
 juridiniai asmenys.
@@ -152,6 +151,13 @@ nuomotojas;
 nuomininkas; 
 3) žemės nuomos
 objektas su žemės kadastro bei Nekilnojamojo turto registro duomenimis;
+ 
+[1 dalies 3 punkto redakcija nuo 2001
+sausio 1 d.:
+3) žemės nuomos
+objektas su nekilnojamojo turto kadastro bei Nekilnojamojo turto registro
+duomenimis;]
+ 
 4) žemės nuomos
 terminas; 
 5) pagrindinė
@@ -185,8 +191,7 @@ nuomos sutartį negali būti įrašytas:
 nuomininkui atstovauti žemės savininkui ir disponuoti šio savininko privačia
 žeme bei joje esančiu kitu nekilnojamuoju turtu;
 2) įgaliojimas
-privačios žemės nuomininkui keisti pagrindinę tikslinę žemės naudojimo
-paskirtį.
+privačios žemės nuomininkui keisti pagrindinę tikslinę žemės naudojimo paskirtį.
 3. Žemės nuomos
 sutartyje numatytos sąlygos naudoti išsinuomotą žemę neturi prieštarauti
 aplinkos apsaugos, visuomenės ir gretimų žemės sklypų savininkų ar naudotojų
@@ -194,6 +199,8 @@ interesams.
 Straipsnio pakeitimai:
 Nr. VIII-1729, 00.06.13, Žin., 2000,
 Nr.50-1434 (00.06.21)
+Nr. VIII-1767, 00.06.27, Žin., 2000,
+Nr.58-1707 (00.07.19), įsigalioja nuo 2001.01.01
  
  
 7 straipsnis.
@@ -234,8 +241,8 @@ Nr.50-1434 (00.06.21)
 nuompinigių (užmokesčio už žemės nuomą) dydis ir mokėjimo tvarka nustatomi
 nuomotojo ir nuomininko susitarimu.
 2. Nuompinigių
-(užmokesčio už žemės nuomą) už valstybinę žemę dydis nustatomas Vyriausybės nustatyta
-tvarka.
+(užmokesčio už žemės nuomą) už valstybinę žemę dydis nustatomas Vyriausybės
+nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. VIII-1729, 00.06.13, Žin., 2000,
 Nr.50-1434 (00.06.21)
@@ -339,9 +346,10 @@ Nr.50-1434 (00.06.21)
 16 straipsnis.
 Nuomotojo pareiga pranešti apie nuomos sutartį
 Nuomotojas,
-prieš parduodamas ar kitaip perduodamas nuomojamą žemės sklypą ar jį įkeisdamas,
-privalo informuoti žemės sklypo įgijėją ir būsimą įkaito turėtoją apie nuomos
-sutartį, o nuomininką - apie numatomą žemės sklypo perleidimą ar įkeitimą.
+prieš parduodamas ar kitaip perduodamas nuomojamą žemės sklypą ar jį
+įkeisdamas, privalo informuoti žemės sklypo įgijėją ir būsimą įkaito turėtoją
+apie nuomos sutartį, o nuomininką - apie numatomą žemės sklypo perleidimą ar
+įkeitimą.
  
 17 straipsnis.
 Draudimas išnuomoti įkeistą žemę 
@@ -550,8 +558,16 @@ Nr.50-1434 (00.06.21)
 ŽEMĖS NUOMOS ĮSTATYMO 1, 3, 5, 6, 7, 8, 15, 20
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1767, 00.06.27, Žin., 2000,
+Nr.58-1707 (00.07.19)
+ŽEMĖS NUOMOS ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.06.22)
+Redagavo: Aušrinė Trapinskienė (2000.08.01)
 
