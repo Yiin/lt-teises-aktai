@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
+Suvestinė redakcija nuo 1997-07-11 iki 1998-07-07
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
+ 
 LIETUVOS RESPUBLIKOS
 MOBILIZACIJOS IR MOBILIZACINIO REZERVO RENGIMO
 Į S T A T Y M A S
@@ -235,7 +239,10 @@ IR FUNKCIJOS RENGIANT MOBILIZACINĮ REZERVĄ BEI VYKDANT MOBILIZACIJĄ
 
 
 
-4) tvirtina ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių valdytojų sudarytus mobilizacinius planus;
+4) tvirtina ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių viršininkų sudarytus mobilizacinius planus
+Straipsnio punkto pakeitimai:
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
+ 
 
 
 
@@ -335,7 +342,10 @@ IR FUNKCIJOS RENGIANT MOBILIZACINĮ REZERVĄ BEI VYKDANT MOBILIZACIJĄ
 
 
 
-9) dalyvauja ministerijoms, Vyriausybės įstaigoms, apskričių valdytojams ir savivaldybėms sudarant mobilizacinius planus;
+9) dalyvauja ministerijoms, Vyriausybės įstaigoms, apskričių viršininkams ir savivaldybėms sudarant mobilizacinius planus; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
+ 
 
 
 
@@ -407,7 +417,7 @@ IR FUNKCIJOS RENGIANT MOBILIZACINĮ REZERVĄ BEI VYKDANT MOBILIZACIJĄ
 
 
 
-8. Apskričių valdytojai:
+8. Apskričių viršininkai:
 
 
 1) pagal jiems pavestas valstybines mobilizacines užduotis sudaro mobilizacinį planą, suderina jį su vietine teritorine karine įstaiga ir teikia Vyriausybei tvirtinti;
@@ -418,6 +428,9 @@ IR FUNKCIJOS RENGIANT MOBILIZACINĮ REZERVĄ BEI VYKDANT MOBILIZACIJĄ
 2) tvarko apskrities teritorijos mobilizacinių atsargų apskaitą ir teikia vietinei teritorinei karinei įstaigai duomenis, reikalingus mobilizaciniams planams sudaryti.
 
 
+Straipsnio dalies pakeitimai:
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
+ 
 
 
 
@@ -607,12 +620,17 @@ MOBILIZACINIS PLANAVIMAS
 
 
 
-2. Vyriausybė mobilizacinėse užduotyse nustato ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių valdytojų kompetenciją sudarant mobilizacinius planus, šių planų sudarymo ir įgyvendinimo tvarką.
+2. Vyriausybė mobilizacinėse užduotyse nustato ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių viršininkų kompetenciją sudarant mobilizacinius planus, šių planų sudarymo ir įgyvendinimo tvarką
+Straipsnio dalies pakeitimai:
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
+ 
 
 
 
 
-3. Skirdama mobilizacinio planavimo užduotis ir tvirtindama mobilizacinius planus, Vyriausybė arba jos įgaliota institucija nustato ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių valdytojų veiklos ribas.
+3. Skirdama mobilizacinio planavimo užduotis ir tvirtindama mobilizacinius planus, Vyriausybė arba jos įgaliota institucija nustato ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių viršininkų veiklos ribas.
+Straipsnio dalies pakeitimai:
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
  
 
 
@@ -669,7 +687,9 @@ Paskelbus mobilizaciją:
 
 
 
-3) apskričių valdytojai, savivaldybių merai, įstaigų, įmonių ir organizacijų savininkai bei vadovai nedelsdami perduoda vietinei teritorinei karinei įstaigai laikinai naudoti patalpas, žemę bei inventorių, numatytus mobilizaciniuose planuose.
+3) apskričių viršininkai, savivaldybių merai, įstaigų, įmonių ir organizacijų savininkai bei vadovai nedelsdami perduoda vietinei teritorinei karinei įstaigai laikinai naudoti patalpas, žemę bei inventorių, numatytus mobilizaciniuose planuose.
+Straipsnio punkto pakeitimai:
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
  
 
 
@@ -689,10 +709,12 @@ BAIGIAMOSIOS NUOSTATOS
 15 straipsnis. Asmenys, atsakingi už šio įstatymo vykdymą
 
 
-Šio įstatymo vykdymą užtikrina ministerijų, Vyriausybės įstaigų vadovai, apskričių valdytojai, savivaldybių merai, karinių dalinių vadai, visų rūšių bei nuosavybės formų įmonių, įstaigų ir organizacijų vadovai bei savininkai asmeniškai.
+Šio įstatymo vykdymą užtikrina ministerijų, Vyriausybės įstaigų vadovai, apskričių viršininkai, savivaldybių merai, karinių dalinių vadai, visų rūšių bei nuosavybės formų įmonių, įstaigų ir organizacijų vadovai bei savininkai asmeniškai.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
  
-
-
 
 
 
@@ -715,3 +737,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
+Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 6, 12, 14, 15 straipsnių pakeitimo įstatymas
