@@ -19,13 +19,10 @@ Redagavo: Ramun? L??ait? (1997
 
 
 Redagavo:
-Ramunė Lūžaitė (1997.06.10)
+Ramunė Lūžaitė (1997.07.03)
  
 Įstatymas
 paskelbtas: Žin., 1994, Nr.46-851
- 
-Redagavo:
-Ramunė Lūžaitė (1997.03.17)
  
 Neoficialus
 įstatymo tekstas
@@ -114,6 +111,16 @@ VIII-143, 97.03.13, Žin., 1997, Nr.22-544  (97.03.15)
 LIETUVOS
 RESPUBLIKOS TEISMŲ ĮSTATYMO 66 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+11.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+LIETUVOS
+RESPUBLIKOS TEISMŲ ĮSTATYMO 10, 15, 22, 33, 38, 39, 56, 68(1)-68(7) STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+ 
 ***
 Pabaiga ***
  
@@ -122,8 +129,8 @@ Pabaiga ***
 LIETUVOS RESPUBLIKOS
                
              T E I S M Ų
-              
-               ĮSTATYMAS
+               
+              ĮSTATYMAS
  
                       
 1994 m. gegužės 31 d. Nr.I-480
@@ -241,8 +248,8 @@ paslaugos atlyginamos iš valstybės biudžeto.
                               
 II skirsnis
  
-          
-           LIETUVOS RESPUBLIKOS TEISMŲ SISTEMA
+                     
+LIETUVOS RESPUBLIKOS TEISMŲ SISTEMA
  
      9
 straipsnis. Lietuvos Respublikos teismai
@@ -251,8 +258,8 @@ straipsnis. Lietuvos Respublikos teismai
 Respublikos teismai yra apylinkių ir apygardų teismai, Lietuvos apeliacinis
 teismas, Lietuvos Aukščiausiasis Teismas.
      Administracinių,
-darbo, šeimos ir kitų kategorijų byloms nagrinėti gali būti įsteigti
-specializuoti teismai, kurių statusą nustato įstatymas.
+darbo, šeimos ir kitų kategorijų byloms nagrinėti gali būti įsteigti specializuoti
+teismai, kurių statusą nustato įstatymas.
      Teismai
 steigiami įstatymu.
      Teismai
@@ -273,8 +280,18 @@ straipsnis. Apylinkių teismai
 teismą sudaro apylinkės teismo pirmininkas, jo pavaduotojai ir kiti teisėjai.
 Teismo pirmininko pavaduotojai skiriami teisme, kuriame yra ne mažiau kaip šeši
 teisėjai.
+    
+Apylinkės teisme gali būti steigiamas hipotekos skyrius. Apylinkės teismus,
+kuriuose steigiami hipotekos skyriai, ir šių skyrių veiklos teritoriją nustato
+teisingumo ministras.
      Apylinkės
 teismo veiklos teritoriją nustato įstatymas.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
  
      11
 straipsnis. Apygardų teismai
@@ -357,6 +374,15 @@ prokuroro veiksmų.
 nustatytais atvejais apylinkės teismo teisėjai vykdo ikiteisminio tyrimo
 teisėjo funkcijas. Apylinkės teismo teisėjas nenagrinėja tų bylų, kuriose vykdė
 ikiteisminio tyrimo teisėjo funkcijas.
+    
+Apylinkės teismo hipotekos skyriaus kompetencija nustatyta šio įstatymo XVI
+skirsnyje.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
  
      16
 straipsnis. Apygardų teismų kompetencija
@@ -374,7 +400,7 @@ apeliacinė  instancija apylinkių teismų sprendimams, nuosprendžiams, nutart
 nutarimams;
      4)
 kasacinė  instancija apylinkių  teismų  sprendimams, nuosprendžiams, 
-nutartims  ir  nutarimams,  nenagrinėtiems apeliacine tvarka.
+nutartims  ir  nutarimams,  nenagrinėtiems apeliacine tvarka.
      Apygardos 
 teismas  susipažindamas  su  savo  veiklos teritorijoje esančių apylinkių
 teismų darbu vietose bei kitais būdais konsultuoja teisėjus įstatymų taikymo
@@ -423,8 +449,8 @@ kitos institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus;
 analizuoja teismų praktiką įstatymų taikymo klausimais;
      3)
 susipažindamas su apygardų teismų ir Apeliacinio teismo darbu vietose bei
-kitais būdais konsultuoja teisėjus įstatymų taikymo klausimais. Aukščiausiasis
-Teismas gali konsultuoti ir apylinkių teismų teisėjus.
+kitais būdais konsultuoja teisėjus įstatymų taikymo klausimais. Aukščiausiasis Teismas
+gali konsultuoti ir apylinkių teismų teisėjus.
      Aukščiausiasis 
 Teismas  leidžia  biuletenį,  kuriame periodiškai skelbia:
      1)
@@ -509,9 +535,9 @@ sprendimų. Aukščiausiojo Teismo senato nutarimai šiais klausimais yra
 galutiniai.
      Teisingumo 
 ministras,  generalinis prokuroras, apygardų teismų ir Apeliacinio teismo
-pirmininkai turi teisę siūlyti Aukščiausiojo  Teismo  senato pirmininkui
-nagrinėti įstatymų taikymo  teismų  praktikoje  klausimus,  dalyvauti  Senato
-posėdžiuose ir ten reikšti nuomonę svarstomais klausimais.
+pirmininkai turi teisę siūlyti Aukščiausiojo  Teismo  senato pirmininkui nagrinėti
+įstatymų taikymo  teismų  praktikoje  klausimus,  dalyvauti  Senato posėdžiuose
+ir ten reikšti nuomonę svarstomais klausimais.
  
 Straipsnio
 pakeitimai:
@@ -566,19 +592,20 @@ reputacijos asmuo, turintis aukštąjį  teisinį  universitetinį  išsilavi
 įvykdęs šio įstatymo  22(1)  straipsnyje  kandidatui į apylinkės teismo
 teisėjus keliamus reikalavimus ir išlaikęs apylinkės teismo teisėjo egzaminus.
 Reikalavimai, keliami kandidatams į apylinkės teismo teisėjus, nėra taikomi
-asmenims, turintiems teisėjo darbo stažą ar 5 metų prokuroro, prokuroro pavaduotojo,
-prokuroro padėjėjo, advokato darbo stažą. Šie asmenys gali būti skiriami
-apylinkės  teismo teisėjais, neatlikę kandidato į apylinkės teismo teisėjus
-praktikos. Apylinkės teismo teisėjas nagrinėja visas apylinkės teismui
+asmenims, turintiems teisėjo darbo stažą ar 5 metų prokuroro, prokuroro
+pavaduotojo, prokuroro padėjėjo, advokato darbo stažą. Šie asmenys gali būti
+skiriami apylinkės  teismo teisėjais, neatlikę kandidato į apylinkės teismo
+teisėjus praktikos. Apylinkės teismo teisėjas nagrinėja visas apylinkės teismui
 priskirtas teismines bylas.
      Apylinkės
-teismo teisėju taip pat gali būti skiriamas ne jaunesnis  kaip 23 metų
+teismo teisėju taip pat gali būti skiriamas ne jaunesnis kaip 23 metų
 nepriekaištingos reputacijos asmuo, turintis aukštąjį teisinį universitetinį
-išsilavinimą, įvykdęs šio įstatymo 22(1) straipsnyje kandidatui į apylinkės
-teismo teisėjus keliamus reikalavimus ir išlaikęs apylinkės teismo teisėjo
-egzaminus. Toks teisėjas, iki jam sueis 25 metai, nagrinėja   administracinių 
-teisės  pažeidimų,  alimentų nepilnamečiams vaikams išieškojimo nesant ginčo
-civilines ir kitas įstatymų numatytas bylas.
+išsilavinimą, įvykdęs šio įstatymo 22(1) straipsnyje kandidatui į
+apylinkės teismo teisėjus keliamus reikalavimus ir išlaikęs apylinkės teismo
+teisėjo egzaminus. Toks teisėjas, iki jam sueis 25 metai, nagrinėja
+administracinių teisės pažeidimų, alimentų nepilnamečiams vaikams išieškojimo
+nesant ginčo civilines ir kitas įstatymų numatytas bylas, taip pat gali atlikti
+hipotekos teisėjo funkcijas.
  
 Straipsnio
 pakeitimai:
@@ -586,6 +613,9 @@ Nr.
 1-633, 94.11.08, Žin., 1994, Nr. 88-1709 (94.11.16)
 Nr.
 1-1387, 96.06.18, Žin., 1996, Nr. 60-1411 (96.06.26)
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
  
      22(1)
 straipsnis. Kandidatai į apylinkės teismo teisėjus
@@ -607,12 +637,13 @@ ministro paskirtas apylinkės teismo  teisėjas  -  kandidato į apylinkės t
 teisėjus praktikos  vadovas.  Kandidato praktikos vadovas turi teisę siūlyti 
 teisingumo  ministrui  nutraukti  darbo sutartį su kandidatu į teisėjus, jei
 šis nesilaiko darbo įstatymų, jei paaiškėja,  kad jis dėl savo profesinių,
-asmeninių savybių nesugebės  įgyti  reikiamos kvalifikacijos teisėjo pareigoms atlikti,
-arba jei jo elgesys nesuderinamas su teisėjo vardui keliamais reikalavimais.
+asmeninių savybių nesugebės  įgyti  reikiamos kvalifikacijos teisėjo pareigoms
+atlikti, arba jei jo elgesys nesuderinamas su teisėjo vardui keliamais
+reikalavimais.
      Kandidatas
 į apylinkės teismo teisėjus, pateikęs Teisingumo ministerijai praktikos vadovo
-teigiamą išvadą apie praktikos atlikimo rezultatus, turi teisę laikyti apylinkės
-teismo teisėjo egzaminus.
+teigiamą išvadą apie praktikos atlikimo rezultatus, turi teisę laikyti
+apylinkės teismo teisėjo egzaminus.
      Kandidatų 
 į  apylinkės  teismo  teisėjus priėmimo bei praktikos atlikimo tvarką, taip pat
 jų įgaliojimus nustato Teisingumo ministerija.
@@ -662,9 +693,9 @@ skiriamas:
 apygardos  teismo arba Apeliacinio teismo teisėjas, turintis ne mažesnį kaip
 dešimties metų teisėjo stažą;
      2)
-Generalinės prokuratūros prie Lietuvos Aukščiausiojo Teismo, taip pat ir
-buvusios Generalinės prokuratūros prokuroras, turintis ne mažesnį kaip
-dešimties metų stažą;
+Generalinės prokuratūros prie Lietuvos Aukščiausiojo Teismo, taip pat ir buvusios
+Generalinės prokuratūros prokuroras, turintis ne mažesnį kaip dešimties metų
+stažą;
      3)
 socialinių  mokslų daktaras,  apgynęs teisių mokslo disertaciją.
      Aukščiausiojo
@@ -683,8 +714,8 @@ Nr.
  
      24-1
 straipsnis. Konstitucinio Teismo teisėjo teisė būti šio įstatymo
-                 
-    numatytu teisėju
+                     
+numatytu teisėju
  
      Konstitucinio
 Teismo teisėjas, pasibaigus jo įgaliojimų laikui, gali būti paskirtas
@@ -719,8 +750,8 @@ trejiems metams Aukščiausiojo Teismo pirmininkas ir  teisingumo ministras. 
 Aukščiausiojo  Teismo pirmininkas skiria  tris Aukščiausiojo  Teismo teisėjus, 
 o teisingumo ministras - du komisijos narius iš teisėjų ar teisių mokslininkų.
      Teisėjų
-egzaminų komisijos nuostatus tvirtina Aukščiausiojo Teismo pirmininkas ir
-teisingumo ministras. 
+egzaminų komisijos nuostatus tvirtina Aukščiausiojo Teismo pirmininkas ir teisingumo
+ministras. 
  
  
      27
@@ -826,15 +857,15 @@ VIII skirsnis
  
      
 TEISĖJŲ, TEISMŲ PIRMININKŲ, PIRMININKŲ PAVADUOTOJŲ IR SKYRIŲ
-     
-                   PIRMININKŲ SKYRIMAS
+                        
+PIRMININKŲ SKYRIMAS
  
      33
-straipsnis. Apylinkių, apygardų teismų teisėjų, šių teismų
+straipsnis. Apylinkių, apygardų teismų teisėjų, šių teismų 
                    
-pirmininkų, pirmininkų pavaduotojų, skyrių pirmininkų
+pirmininkų, pirmininkų pavaduotojų, skyrių pirmininkų, 
                    
-skyrimas
+hipotekos teisėjų skyrimas
  
      Apylinkių,
 apygardų teismų teisėjų, šių teismų pirmininkų kandidatūras parenka teisingumo
@@ -846,10 +877,12 @@ teikimu ir patarus  Teisėjų tarybai.
 apygardų teismų pirmininkus iš paskirtų teisėjų skiria Respublikos Prezidentas
 teisingumo ministro teikimu ir patarus Teisėjų tarybai.
      Apylinkių,
-apygardų teismų pirmininkų pavaduotojus ar skyrių pirmininkus iš paskirtų
-teisėjų skiria teisingumo ministras, pasiūlius teismo pirmininkui.
-     Apylinkių 
-teismų pirmininkai, jų pavaduotojai skiriami 5 metams.
+apygardų teismų pirmininkų pavaduotojus ar skyrių pirmininkus, taip pat
+apylinkių teismų hipotekos skyrių hipotekos teisėjus iš paskirtų teisėjų skiria
+teisingumo ministras, pasiūlius teismo pirmininkui.
+    
+Apylinkių teismų pirmininkai, jų pavaduotojai, taip pat hipotekos skyrių
+hipotekos teisėjai skiriami 5 metams.
      Apygardų
 teismų pirmininkai ir skyrių pirmininkai skiriami 7 metams.
  
@@ -859,6 +892,9 @@ Nr.
 1-633, 94.11.08, Žin., 1994, Nr. 88-1709 (94.11.16)
 Nr.
 1-1387, 96.06.18, Žin., 1996, Nr. 60-1411 (96.06.26) 
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
  
      34
 straipsnis. Apeliacinio teismo teisėjų, šio teismo pirmininko,
@@ -887,8 +923,8 @@ Nr.
  
      35
 straipsnis. Aukščiausiojo Teismo teisėjų, šio teismo pirmininko,
-                   
-skyrių pirmininkų skyrimas
+            
+       skyrių pirmininkų skyrimas
  
      Aukščiausiojo 
 Teismo  teisėjų  kandidatūras  parenka Aukščiausiojo Teismo pirmininkas.
@@ -938,12 +974,26 @@ ir apygardų teismų teisėjus jiems sutikus į kitą tokį pat teismą perkelia
 teisingumo ministro teikimu Respublikos Prezidentas Teisėjų tarybai patarus.
  
      38
-straipsnis. Apylinkių teismų teisėjų pavadavimas
+straipsnis. Apylinkių teismų teisėjų ir hipotekos teisėjų
+                   
+pavadavimas
  
      Apylinkės
 teismo teisėjui susirgus arba dėl kitų jo nebuvimo priežasčių Respublikos
 Prezidentas teisingumo ministro teikimu šias pareigas gali pavesti laikinai
 eiti kito apylinkės teismo teisėjui.
+    
+Apylinkės teismo hipotekos skyriaus hipotekos teisėjui susirgus arba dėl kitų
+jo nebuvimo priežasčių teisingumo ministras, apylinkės teismo pirmininkui
+pasiūlius, šias pareigas gali pavesti laikinai eiti kitam to paties apylinkės
+teismo teisėjui arba kito apylinkės teismo hipotekos skyriaus hipotekos
+teisėjui.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
  
                            
 IX skirsnis
@@ -958,17 +1008,19 @@ pirmininkai
  
      Teismų
 pirmininkai vykdo teisingumą ir vadovauja teismų organizaciniam darbui,
-įstatymo numatytais atvejais nagrinėja skundus dėl kitų nutarimų, kuriuos teisėjai
-priėmė pagal sumarinį procesą, vadovauja teismo raštinės darbui, priima į darbą
-ir atleidžia iš  darbo teismo  raštinės tarnautojus bei kitus darbuotojus, 
-taip  pat  vykdo  įstatymų  jiems  suteiktus įgaliojimus.
+įstatymo numatytais atvejais nagrinėja skundus dėl kitų nutarimų, kuriuos
+teisėjai priėmė pagal sumarinį procesą, vadovauja teismo raštinės darbui,
+priima į darbą ir atleidžia iš darbo teismo raštinės, hipotekos skyriaus
+tarnautojus bei kitus darbuotojus, taip pat vykdo įstatymų jiems suteiktus
+įgaliojimus.
      Teismų
 pirmininkų pavaduotojai bei skyrių pirmininkai vykdo teisingumą ir atsako už tą
 teismų organizacinio darbo sritį, kurią jiems paveda atitinkamų teismų
 pirmininkai.
      Teismų
-pirmininkai, jų pavaduotojai ir skyrių pirmininkai, nagrinėdami bylas, turi
-tokias pat teises ir pareigas kaip ir kiti teisėjai.
+pirmininkai, jų pavaduotojai ir skyrių pirmininkai, nagrinėdami bylas, o
+apylinkės teismų hipotekos skyrių hipotekos teisėjai, vykdydami įstatymų jiems
+pavestas funkcijas, turi tokias pat teises ir pareigas kaip ir kiti teisėjai.
      Teismų
 pirmininkai, jų pavaduotojai ir skyrių pirmininkai neturi teisės daryti
 poveikio kitų teisėjų darbui, kai šie vykdo teisingumą, arba kitaip pažeisti
@@ -978,6 +1030,9 @@ Straipsnio
 pakeitimai:
 Nr.
 1-1543, 96.09.24, Žin., 1996, Nr. 100-2265 (96.10.16)
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
  
      40
 straipsnis. Apylinkių teismų pirmininkai
@@ -1055,8 +1110,8 @@ posėdžio metu advokatai ir prokuroras dėvi mantijas.
 straipsnis. Teisėjo priesaika
  
      Asmuo,
-paskirtas teisėju, prieš pradėdamas eiti pareigas jį paskyrusiems Seimui arba
-Respublikos Prezidentui prisiekia:
+paskirtas teisėju, prieš pradėdamas eiti pareigas jį paskyrusiems Seimui arba Respublikos
+Prezidentui prisiekia:
      "Aš,
 teisėjas  (a) (vardas,  pavardė), prisiekiu  būti ištikimas (a) Lietuvos
 Respublikai, vykdyti teisingumą tik pagal įstatymus, ginti žmogaus teises,
@@ -1151,15 +1206,15 @@ nevykdymas užtraukia įstatymo numatytą atsakomybę.
 straipsnis. Teisėjų depolitizavimas
  
      Teisėjas
-negali  dalyvauti politinių  partijų ir  kitų politinių organizacijų veikloje.
+negali  dalyvauti politinių  partijų ir  kitų politinių organizacijų veikloje.
  
      51
 straipsnis. Teisėjų darbas ne teisme
  
      Teisėjas
 negali užimti jokių kitų renkamų ar skiriamų pareigų, dirbti  verslo,
-komercijos ar kitokiose privačiose įstaigose ar įmonėse. Jis taip pat negali gauti
-jokio kito atlyginimo, išskyrus  teisėjo atlyginimą  bei užmokestį  už
+komercijos ar kitokiose privačiose įstaigose ar įmonėse. Jis taip pat negali
+gauti jokio kito atlyginimo, išskyrus  teisėjo atlyginimą  bei užmokestį  už
 pedagoginę ar kūrybinę veiklą.
      Teisėjai
 gali  jungtis į teisėjų asociacijas ar kitas organizacijas, atstovaujančias jų
@@ -1171,8 +1226,8 @@ Teisingumo ministerijos struktūrą, tiesiogiai susijusią su teismų veiklos
 organizavimu ir tikrinimu,  dirbti šios struktūros  vadovu, pavaduotoju  arba 
 specialistu.  Dirbant  šioje struktūroje išsaugomos visos  teisėjo socialinės 
 garantijos,  įskaitant tarnybinį atlyginimą ir darbo stažą.  Kai šio asmens
-darbo sutartis pasibaigia ir jis vėl skiriamas į tokį pat teismą, laikyti teisėjo
-egzaminų jam nereikia.
+darbo sutartis pasibaigia ir jis vėl skiriamas į tokį pat teismą, laikyti
+teisėjo egzaminų jam nereikia.
  
 Straipsnio
 pakeitimai:
@@ -1226,8 +1281,8 @@ atlyginimus nustato Lietuvos Respublikos įstatymai.
      Kitas
 teisėjų  socialines garantijas  nustato  Lietuvos Respublikos įstatymai.
  
-               
-             XIII skirsnis
+                      
+      XIII skirsnis
  
            
 TEISĖJŲ ATLEIDIMAS, PAŠALINIMAS IR DRAUSMINĖ ATSAKOMYBĖ
@@ -1269,12 +1324,12 @@ teismo skyrių pirmininkus atleidžia iš pareigų teisingumo ministras.
 teismų  pirmininkus ir kitus teisėjus teisingumo ministro teikimu ir patarus
 Teisėjų tarybai, atleidžia iš pareigų Respublikos Prezidentas.
      Kitų
-teismų pirmininkų pavaduotojus ar skyrių pirmininkus atleidžia iš pareigų
-teisingumo ministras.
+teismų pirmininkų pavaduotojus ar skyrių pirmininkus, taip pat apylinkių teismų
+hipotekos skyrių hipotekos teisėjus atleidžia iš pareigų teisingumo ministras.
      Šio  
 straipsnio  penktojoje  ir  septintojoje  dalyse išvardintus teisėjus
 Respublikos Prezidentas, esant Lietuvos Respublikos  Konstitucijos  115 
-straipsnyje  numatytiems pagrindams, gali atleisti iš pareigų ir be teisingumo
+straipsnyje  numatytiems pagrindams, gali atleisti iš pareigų ir be teisingumo
 ministro teikimo. Šiuo atveju Respublikos Prezidentas kreipiasi patarimo dėl
 atleidimo į Teisėjų tarybą, o dėl Apeliacinio teismo teisėjų atleidimo - dar ir
 pritarimo į Seimą.
@@ -1284,7 +1339,10 @@ pakeitimai:
 Nr.
 1-687, 94.12.08, Žin., 1994, Nr. 96-1880 (94.12.14)
 Nr.
-1-1387, 96.06.18, Žin., 1996, Nr. 60-1411 (96.06.26) 
+1-1387, 96.06.18, Žin., 1996, Nr. 60-1411 (96.06.26)
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
  
      57
 straipsnis. Teisėjų pašalinimas
@@ -1303,8 +1361,8 @@ atsako drausmine tvarka Teisėjų garbės teisme.
      Lietuvos
 teismų, išskyrus Aukščiausiojo Teismo, Teisėjų garbės  teismą  iš  penkių 
 narių renka visuotinis teisėjų susirinkimas  penkeriems metams pagal nustatytas
-kvotas: du apylinkės  teismo  teisėjai,  po  vieną  apygardos  teismo, Apeliacinio
-teismo ir Aukščiausiojo Teismo teisėją.
+kvotas: du apylinkės  teismo  teisėjai,  po  vieną  apygardos  teismo,
+Apeliacinio teismo ir Aukščiausiojo Teismo teisėją.
      Teisėjų
 garbės teismas nagrinėja teisėjų drausmines bylas, vadovaudamasis šiuo įstatymu
 ir visuotinio teisėjų susirinkimo tvirtinamais Teisėjų garbės teismo
@@ -1340,10 +1398,10 @@ apeliacinės instancijos teismo nustatytus nevienkartinius materialinės ar
 proceso teisės normų pažeidimus arba už vienkartinį šiurkštų šių normų
 pažeidimą.
      Teisėjo 
-vardą žeminančiu poelgiu laikoma ir tai, kai teisėjas per 1 metus nuo šio straipsnio
-pirmosios dalies 1-3 punktuose  ir  šio  straipsnio  antrojoje dalyje
-numatytais pagrindais paskirtos nuobaudos padaro materialinės ar proceso teisės
-pažeidimus, už kuriuos Teisėjų garbės teismas paskiria jam nuobaudą.
+vardą žeminančiu poelgiu laikoma ir tai, kai teisėjas per 1 metus nuo šio
+straipsnio pirmosios dalies 1-3 punktuose  ir  šio  straipsnio  antrojoje
+dalyje numatytais pagrindais paskirtos nuobaudos padaro materialinės ar proceso
+teisės pažeidimus, už kuriuos Teisėjų garbės teismas paskiria jam nuobaudą.
      Teisėjo 
 vardą žeminančiu poelgiu laikoma ir tai, kai teisėjas per 1 metus nuo šio
 straipsnio pirmosios dalies 1 - 3 punktuose numatytais pagrindais paskirtos
@@ -1399,7 +1457,7 @@ Nr.
 1-1432, 96.07.04, Žin., 1996, Nr. 67-1600 (96.07.17) 
  
              
-                XIV skirsnis
+                XIV skirsnis
  
            
             BYLŲ NAGRINĖJIMAS TEISMUOSE
@@ -1451,8 +1509,8 @@ Aukščiausiojo Teismo pirmininkas.
                               
 XV skirsnis
  
-                              
-PROKURATŪRA
+         
+                     PROKURATŪRA
  
      64
 straipsnis. Prokuratūros struktūra
@@ -1510,136 +1568,170 @@ finansuojama iš valstybės biudžeto ir turi atskirą išlaidų sąmatą.
  
                             
 XVI skirsnis
-                        
-Hipotekos įstaigos 
  
+     APYLINKĖS
+TEISMO HIPOTEKOS SKYRIUS
  
-     68(1)
-straipsnis. Hipotekos įstaigų teisinis statusas
+    
+68(1) straipsnis. Apylinkės teismo hipotekos skyriaus kompetencija 
  
-     Hipotekos
-įstaigos priklauso teismų sistemai ir steigiamos prie apylinkės teismų
-hipotekinėms ir kitoms apsaugotoms teisėms bei apsaugotoms sutartims
-registruoti, iš jų atsirandantiems reikalavimams  nagrinėti  bei  nutartims dėl
-jų patenkinimo priimti. Vilniaus mieste steigiama viena hipotekos įstaiga.
-     Hipotekos
-įstaiga yra juridinis asmuo, turi antspaudą su Lietuvos valstybės herbu ir
-sąskaitą banke.
-     Hipotekos 
-įstaigos  vadovaujasi  Lietuvos  Respublikos Konstitucija, šiuo ir kitais
-Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Teisingumo
-ministerijos teisės aktais bei Hipotekos įstaigų nuostatais.
- 
-Straipsnio
-pakeitimai:
-Nr.
-1-1543, 96.09.24, Žin., 1996, Nr. 100-2265 (96.10.16) 
- 
-     68(2)
-straipsnis. Hipotekos teisėjas
- 
-     Hipotekos 
-teisėjas  yra  hipotekos  įstaigos  vadovas. Hipotekos teisėją iš apylinkės
-teismo teisėjų skiria šio teismo pirmininkas. Jeigu hipotekos įstaigos vadovas
-negali eiti savo pareigų (atostogos, liga ar kitos priežastys), apylinkės
-teismo pirmininkas jam pavaduoti skiria kitą apylinkės teismo teisėją.
-     Hipotekos 
-teisėjas  vadovauja  hipotekos  įstaigai, organizuoja hipotekos įstaigos darbą,
-įstatymų nustatyta tvarka į darbą priima ir iš darbo atleidžia, taip pat
-atostogas suteikia kitiems hipotekos įstaigos darbuotojams.
-     Hipotekos
-teisėjas turi tokias pat teises ir pareigas kaip ir kiti apylinkės teisėjai.
-     Hipotekos
-teisėjas tvirtina hipotekines, apsaugoto įkeitimo ir kitas apsaugotas sutartis,
-perleidimo sutartis perleidžiant reikalavimus,  kylančius  iš  apsaugotų teisių
-ir apsaugotų sutarčių, įkeitimo sutartis įkeičiant reikalavimus, kylančius iš
-apsaugotų teisių ir apsaugotų sutarčių, priima nutartis dėl apsaugotų  teisių 
-bei  apsaugotų  sutarčių  įregistravimo, perregistravimo ir išregistravimo,
-turto arešto, turto pardavimo reikalavimui patenkinti bei vykdo kitus įstatymų
-jam suteiktus įgaliojimus ar pavestas funkcijas.
-     Hipotekos
-teisėjas turi teisę įgalioti hipotekos įstaigos darbuotojus atlikti jo
-kompetencijai priklausančius sutarčių tvirtinimo bei nutarčių priėmimo
-veiksmus.
-     Hipotekos
-teisėjo veiksmai, jeigu jie varžo kieno nors teises, gali būti apskundžiami
-apylinkės teismo pirmininkui.
-     Hipotekos
-teisėjo nutartys gali būti apskundžiamos kasacine ir apeliacine tvarka.
+    
+Apylinkės teismo hipotekos skyrius (toliau - hipotekos skyrius) įstatymų
+nustatytais atvejais ir tvarka registruoja turto įkeitimus, tvarko hipotekos
+registrą, priima sprendimus dėl skolos išieškojimo iš įkeisto turto bei
+paskirsto išieškotas sumas tarp išieškotojų.
+    
+Hipotekos skyrius vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais
+Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Vyriausybės
+patvirtintais Hipotekos registro nuostatais bei Teisingumo ministerijos teisės
+aktais.
+    
+Hipotekos skyrius turi antspaudą su savo pavadinimu bei Lietuvos valstybės
+herbu ir sąskaitą banke.     
  
 Straipsnio
 pakeitimai:
 Nr.
 1-1543, 96.09.24, Žin., 1996, Nr. 100-2265 (96.10.16) 
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
+ 
+    
+68(2) straipsnis. Hipotekos teisėjas
+ 
+    
+Hipotekos teisėjas vadovauja hipotekos skyriui, organizuoja ir kontroliuoja
+kitų hipotekos skyriaus darbuotojų darbą.
+    
+Hipotekos teisėjas turi tokias pat teises ir pareigas kaip ir kiti apylinkės
+teisėjai.
+    
+Hipotekos teisėjas įstatymų nustatyta tvarka registruoja turto įkeitimą
+hipotekos registre, priima nutartis dėl įkeisto turto arešto, išieškojimo iš
+įkeisto turto, paskirsto išieškotas sumas tarp išieškotojų, taip pat vykdo
+kitus įstatymų jam suteiktus įgaliojimus ar pavestas funkcijas. Hipotekos
+teisėjas taip pat gali liudyti parašų tikrumą hipotekos skyriui pateikiamuose
+dokumentuose. 
+    
+Hipotekos teisėjo pasiūlymu apylinkės teismo pirmininkas gali įgalioti kitus
+hipotekos skyriaus darbuotojus liudyti parašų tikrumą hipotekos skyriui
+pateikiamuose dokumentuose, taip pat atlikti su hipotekos registravimu bei
+hipotekos registro tvarkymu susijusius veiksmus.
+    
+Hipotekos teisėjo nutartys skundžiamos ta pačia tvarka ir terminais kaip
+apylinkės teismo sprendimai, nutartys ir nutarimai civilinėse bylose.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+1-1543, 96.09.24, Žin., 1996, Nr. 100-2265 (96.10.16) 
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
  
      68(3)
-straipsnis. Hipotekos įstaigų pavaldumas
-     Teisingumo 
-ministerija  koordinuoja  ir  kontroliuoja hipotekos įstaigų darbą bei vykdo
-šių įstaigų organizacinį vadovavimą. Teisingumo ministerija nustato hipotekos
-įstaigų darbuotojų skaičių, jų darbo užmokestį, teisingumo ministro nustatyta
-tvarka tikrina šių įstaigų ūkinę ir finansinę veiklą.
+straipsnis. Hipotekos skyrių veiklos užtikrinimas ir priežiūra
+ 
+    
+Hipotekos skyrių veiklą užtikrina ir prižiūri teisingumo ministras,
+laikydamasis šio įstatymo nustatytų teismų veiklos bei teisėjų ir teismų
+nepriklausomumo principų. Teisingumo ministras nustato hipotekos skyrių
+darbuotojų skaičių, jų darbo užmokestį, organizuoja hipotekos skyrių darbuotojų
+kvalifikacijos kėlimą.
+    
+Teisingumo ministerija tikrina hipotekos skyrių ūkinę ir finansinę veiklą
+teisingumo ministro nustatyta tvarka.
  
 Straipsnio
 pakeitimai:
 Nr.
 1-1543, 96.09.24, Žin., 1996, Nr. 100-2265 (96.10.16)
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
  
      68(4)
-straipsnis. Hipotekos įstaigų veiklos viešumas
+straipsnis. Hipotekos registro duomenų viešumas
  
-     Hipotekos
-įstaigose sukaupta ir saugoma informacija yra vieša. Hipotekos įstaigos privalo
-su šia informacija supažindinti kiekvieną to pareikalavusį asmenį. Naudojimasis
-hipotekos įstaigų informacija yra atlygintinas.
-     Hipotekos
-įstaigos yra atsakingos už jų išduotų dokumentų teisingumą.
+    
+Hipotekos registro duomenys apie įregistruotus įkeitimus yra vieši. Hipotekos
+skyriai privalo įstatymų nustatyta tvarka su šiais duomenimis supažindinti
+kiekvieną to pareikalavusį asmenį. Naudojimasis hipotekos registro duomenimis
+yra atlygintinas.
+    
+Hipotekos skyriai atsako už hipotekos registro duomenų teisingumą ir jų išduotų
+dokumentų atitikimą hipotekos registro duomenims.
  
 Straipsnio
 pakeitimai:
 Nr.
 1-1543, 96.09.24, Žin., 1996, Nr. 100-2265 (96.10.16) 
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
  
-     68(5)
-straipsnis. Žalos, patirtos dėl hipotekos įstaigų darbuotojų kaltės,
+ 
+    
+68(5) straipsnis. Žalos, patirtos dėl klaidų hipotekos registre,
+                     
 atlyginimas
  
-     Jeigu
-asmenys, atlikdami tarnybines pareigas, dėl hipotekos įstaigų  darbuotojų
-kaltės patiria žalą, šią žalą atlygina valstybė, jeigu kiti įstatymai nenumato
-ko kita.
+    
+Fizinių ir juridinių asmenų patirtą žalą dėl klaidų hipotekos registre,
+atsiradusių registruojant įkeitimus ir tvarkant vietinį hipotekos registrą,
+atlygina valstybė įstatymų nustatyta tvarka. Žala išieškoma teismine tvarka.
+Valstybei civilinėse bylose dėl žalos atlyginimo atstovauja Teisingumo
+ministerija.
+    
+Priteista atlygintinos žalos suma išieškoma iš hipotekos skyriaus lėšų, gautų
+už įkeitimų įregistravimą bei hipotekos registro duomenų naudojimą, o jei šių
+lėšų nepakanka, - iš valstybės biudžeto.
+    
+Valstybė, atlyginusi žalą, įgyja atgręžtinio reikalavimo teisę į hipotekos
+teisėją bei kitus hipotekos skyriaus darbuotojus, kurių neteisėtais veiksmais
+buvo padaryta žala. Atgręžtinio reikalavimo tvarka išieškotos sumos sumokamos į
+valstybės biudžetą.
  
 Straipsnio
 pakeitimai:
 Nr.
 1-1543, 96.09.24, Žin., 1996, Nr. 100-2265 (96.10.16)
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
  
-     68(6)
-straipsnis. Hipotekos įstaigų finansavimas
+    
+68(6) straipsnis. Hipotekos skyrių finansavimas
  
-     Hipotekos
-įstaigos yra finansuojamos iš valstybės biudžeto ir turi atskirą išlaidų
-sąmatą. Hipotekos įstaigų materialinei techninei bazei  stiprinti gali būti
-panaudojamos hipotekos įstaigų raštinės rinkliavos.
-     Hipotekos
-teikiamų paslaugų apmokėjimo tvarką bei hipotekos įstaigų raštinės rinkliavų
-dydį nustato Vyriausybė.
+    
+Hipotekos skyriai yra finansuojami iš valstybės biudžeto ir turi atskirą
+išlaidų sąmatą. Hipotekos skyrių materialinei techninei bazei stiprinti gali
+būti panaudojamos hipotekos skyrių raštinės rinkliavos.
+    
+Atlyginimo už įkeitimų įregistravimą bei hipotekos registro duomenų naudojimą
+(raštinės rinkliavų) dydį ir tvarką nustato Vyriausybė.
+    
+Atlyginimo už hipotekos skyriaus atliekamus notarinius veiksmus dydis
+nustatomas Notariato įstatymo 19 straipsnyje nustatyta tvarka, o gautos lėšos
+pervedamos į valstybės biudžetą.     
  
 Straipsnio
 pakeitimai:
 Nr.
 1-1543, 96.09.24, Žin., 1996, Nr. 100-2265 (96.10.16)
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
  
      68(7)
-straipsnis. Hipotekos įstaigų likvidavimas (reorganizavimas)
- 
-     Hipotekos 
-įstaigos  likviduojamos  (reorganizuojamos) įstatymu.
+straipsnis. (Neteko galios)
  
 Straipsnio
 pakeitimai:
 Nr.
 1-1543, 96.09.24, Žin., 1996, Nr. 100-2265 (96.10.16)
+Nr.
+VIII-253, 97.06.10, Žin., 1997, Nr.63-1470 (97.07.02)
+ 
  
                            
 XVII skirsnis
@@ -1677,10 +1769,10 @@ rengia metines, pusmetines ir kitokias statistines ataskaitas.
      Teismų
 statistinių  ataskaitų formas nustato teisingumo ministras.
      Statistinės 
-ataskaitos  nustatyta  tvarka  pateikiamos teisingumo ministrui. Teisingumo ministerijoje
-teismų veiklos statistika apibendrinama ir analizuojama, su ja supažindinami
-teismai.  Statistiniai  duomenys  pateikiami  Statistikos departamentui ir gali
-būti pateikiami kitoms institucijoms.
+ataskaitos  nustatyta  tvarka  pateikiamos teisingumo ministrui. Teisingumo
+ministerijoje teismų veiklos statistika apibendrinama ir analizuojama, su ja
+supažindinami teismai.  Statistiniai  duomenys  pateikiami  Statistikos
+departamentui ir gali būti pateikiami kitoms institucijoms.
  
      71
 straipsnis. Teismo raštinė
@@ -1701,9 +1793,9 @@ ministras.
 straipsnis. Teismų susižinojimas
  
      Teismai
-susižino su užsienio teismais ir kitomis užsienio įstaigomis per Lietuvos
-Respublikos teisingumo ministeriją, jeigu Lietuvos Respublikos  įstatymai arba 
-sudarytos su  kitomis valstybėmis tarptautinės sutartys nenumato kitaip.
+susižino su užsienio teismais ir kitomis užsienio įstaigomis per Lietuvos Respublikos
+teisingumo ministeriją, jeigu Lietuvos Respublikos  įstatymai arba  sudarytos
+su  kitomis valstybėmis tarptautinės sutartys nenumato kitaip.
  
      73
 straipsnis. Valdymo ir kitų institucijų santykis su teismais
@@ -1772,12 +1864,12 @@ straipsnis. Teismo antstoliai
  
      Teismo
 antstolis yra pareigūnas. Juo gali būti ne jaunesnis kaip 21 metų Lietuvos
-Respublikos pilietis, paprastai turintis aukštąjį arba vidurinį teisinį išsilavinimą
-ir išlaikęs teismo antstolio egzaminus. Sudarant su teismo antstoliu darbo
-sutartį nustatomas trijų mėnesių išbandymo terminas. Jeigu per šį terminą
-paaiškėja, kad teismo antstolio darbo rezultatai nepatenkinami ir jis neišlaikė
-egzaminų, teismo antstolis atleidžiamas iš darbo pagal Lietuvos Respublikos
-darbo sutarties įstatymo 14 straipsnį.
+Respublikos pilietis, paprastai turintis aukštąjį arba vidurinį teisinį
+išsilavinimą ir išlaikęs teismo antstolio egzaminus. Sudarant su teismo
+antstoliu darbo sutartį nustatomas trijų mėnesių išbandymo terminas. Jeigu per
+šį terminą paaiškėja, kad teismo antstolio darbo rezultatai nepatenkinami ir
+jis neišlaikė egzaminų, teismo antstolis atleidžiamas iš darbo pagal Lietuvos
+Respublikos darbo sutarties įstatymo 14 straipsnį.
      Teismo
 antstolius priima į darbą ir atleidžia iš darbo, jų skaičių nustato teisingumo
 ministras, atsižvelgdamas į apylinkės teismo pirmininko rekomendacijas.
@@ -1798,8 +1890,8 @@ teismo antstolį skiria teisingumo ministras.
      Vyresnysis
 teismo antstolis vadovauja teismo antstolių kontorai, organizuoja ir
 kontroliuoja teismo antstolių darbą, pats atlieka vykdymo veiksmus, priima į
-darbą ir atleidžia iš darbo raštvedybą tvarkančius bei kitus darbuotojus,
-suteikia atostogas kitiems teismo antstoliams.
+darbą ir atleidžia iš darbo raštvedybą tvarkančius bei kitus darbuotojus, suteikia
+atostogas kitiems teismo antstoliams.
  
 Straipsnio
 pakeitimai:
@@ -1842,8 +1934,8 @@ straipsnis. Teismo antstolių kontorų darbo revizija ir tikrinimas
      Teismo
 antstolių  kontorų darbą  revizuoja ir  tikrina Teisingumo ministerija.
      Teismo
-antstolių kontorų darbą pagal savo kompetenciją gali tikrinti Valstybės
-kontrolės departamentas, finansų ir kitos institucijos.
+antstolių kontorų darbą pagal savo kompetenciją gali tikrinti Valstybės kontrolės
+departamentas, finansų ir kitos institucijos.
      Apylinkių
 teismai  kontroliuoja prie jų esančių teismo antstolių kontorų darbą teisingumo
 ministro nustatyta tvarka.
@@ -1882,7 +1974,8 @@ antstoliams  atostogos  suteikiamos  Lietuvos Respublikos atostogų įstatymo
 nustatyta tvarka.
      Vyresniesiems 
 teismo  antstoliams ir vyresniųjų teismo antstolių pavaduotojams atostogas
-suteikia apylinkės teismo, prie kurio yra teismo antstolių kontora, pirmininkas.
+suteikia apylinkės teismo, prie kurio yra teismo antstolių kontora,
+pirmininkas.
      Kitiems
 teismo antstoliams atostogas suteikia vyresnysis teismo antstolis.
  
@@ -1893,8 +1986,8 @@ Nr.
  
      86
 straipsnis. Teismo antstolių atlyginimai ir kitos socialinės
-             
-      garantijos
+                   
+garantijos
  
      Teismo
 antstolių atlyginimus nustato Lietuvos Respublikos įstatymai.
