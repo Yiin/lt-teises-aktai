@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 1999-05-19 iki 1999-12-23
+Suvestinė redakcija nuo 1999-12-24 iki 2001-05-15
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
  
@@ -113,39 +113,113 @@ ADMINISTRACINIS SKIRSTYMAS
  
 
 
-4 straipsnis. Lietuvos Respublikos savivaldybės
+4 straipsnis. Lietuvos Respublikos savivaldybės ir jų centrai
 
 
-Lietuvos Respublikoje pirmajame teritorijos administracinių vienetų reformos etape steigiamos šios savivaldybės:
+Lietuvos Respublikoje pirmajame teritorijos administracinių vienetų reformos etape steigiamos šios savivaldybės: Vilniaus miesto, Alytaus miesto, Birštono miesto, Druskininkų miesto, Kauno miesto, Klaipėdos miesto, Marijampolės miesto, Neringos miesto, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Visagino miesto, Akmenės rajono, Alytaus rajono, Anykščių rajono, Biržų rajono, Ignalinos rajono, Jonavos rajono, Joniškio rajono, Jurbarko rajono, Kaišiadorių rajono, Kauno rajono, Kėdainių rajono, Kelmės rajono, Klaipėdos rajono, Kretingos rajono, Kupiškio rajono, Lazdijų rajono, Marijampolės rajono, Mažeikių rajono, Molėtų rajono, Pakruojo rajono, Panevėžio rajono, Pasvalio rajono, Plungės rajono, Prienų rajono, Radviliškio rajono, Raseinių rajono, Rokiškio rajono, Skuodo rajono, Šakių rajono, Šalčininkų rajono, Šiaulių rajono, Šilalės rajono, Šilutės rajono, Širvintų rajono, Švenčionių rajono, Tauragės rajono, Telšių rajono, Trakų rajono, Ukmergės rajono, Utenos rajono, Varėnos rajono, Vilkaviškio rajono, Vilniaus rajono, Zarasų rajono.
 
 
 
 
-Vilniaus miesto, Alytaus miesto, Birštono miesto, Druskininkų miesto, Kauno miesto, Klaipėdos miesto, Marijampolės miesto, Neringos miesto, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Visagino miesto, Akmenės rajono, Alytaus rajono, Anykščių rajono, Biržų rajono, Ignalinos rajono, Jonavos rajono, Joniškio rajono, Jurbarko rajono, Kaišiadorių rajono, Kauno rajono, Kėdainių rajono, Kelmės rajono, Klaipėdos rajono, Kretingos rajono, Kupiškio rajono, Lazdijų rajono, Marijampolės rajono, Mažeikių rajono, Molėtų rajono, Pakruojo rajono, Panevėžio rajono, Pasvalio rajono, Plungės rajono, Prienų rajono, Radviliškio rajono, Raseinių rajono, Rokiškio rajono, Skuodo rajono, Šakių rajono, Šalčininkų rajono, Šiaulių rajono, Šilalės rajono, Šilutės rajono, Širvintų rajono, Švenčionių rajono, Tauragės rajono, Telšių rajono, Trakų rajono, Ukmergės rajono, Utenos rajono, Varėnos rajono, Vilkaviškio rajono, Vilniaus rajono, Zarasų rajono.
+Antrojo teritorijos administracinių vienetų reformos etapo pirmojoje pakopoje:
+
+
+1) steigiamos šios savivaldybės: Elektrėnų savivaldybė, Kalvarijos savivaldybė, Kazlų Rūdos savivaldybė, Pagėgių savivaldybė, Rietavo savivaldybė;
+
+
+
+
+2) įsteigus Kalvarijos ir Kazlų Rūdos savivaldybes panaikinama Marijampolės rajono savivaldybė; 
+
+
+
+
+3) pakeičiamos šių savivaldybių teritorijos ir ribos: Birštono miesto, Druskininkų miesto, Marijampolės miesto, Vilniaus miesto, Akmenės rajono, Kaišiadorių rajono, Lazdijų rajono, Mažeikių rajono, Plungės rajono, Šakių rajono, Šilutės rajono, Trakų rajono, Varėnos rajono, Vilkaviškio rajono;
+
+
+
+
+4) pakeičiami šie savivaldybių pavadinimai: Birštono miesto – į Birštono, Druskininkų miesto – į Druskininkų, Marijampolės miesto – į Marijampolės, Neringos miesto – į Neringos.
+
+
+
+
+
+
+Nustatomos savivaldybės ir jų centrai: Akmenės rajono (centras – Naujoji Akmenė), Alytaus miesto (centras – Alytus), Alytaus rajono (centras – Alytus), Anykščių rajono (centras – Anykščiai), Birštono (centras – Birštonas), Biržų rajono (centras – Biržai), Druskininkų (centras – Druskininkai), Elektrėnų (centras – Elektrėnai), Klaipėdos rajono (centras – Gargždai), Ignalinos rajono (centras – Ignalina), Jonavos rajono (centras – Jonava), Joniškio rajono (centras – Joniškis), Jurbarko rajono (centras – Jurbarkas), Kaišiadorių rajono (centras – Kaišiadorys), Kalvarijos (centras – Kalvarija), Kauno miesto (centras – Kaunas), Kauno rajono (centras – Kaunas), Kazlų Rūdos (centras – Kazlų Rūda), Kelmės rajono (centras – Kelmė), Kėdainių rajono (centras – Kėdainiai), Klaipėdos miesto (centras – Klaipėda), Kretingos rajono (centras – Kretinga), Kupiškio rajono (centras – Kupiškis), Lazdijų rajono (centras – Lazdijai), Marijampolės (centras – Marijampolė), Mažeikių rajono (centras – Mažeikiai), Molėtų rajono (centras – Molėtai), Neringos (centras – Nida), Pagėgių (centras – Pagėgiai), Pakruojo rajono (centras – Pakruojis), Palangos miesto (centras – Palanga), Panevėžio miesto (centras – Panevėžys), Panevėžio rajono (centras – Panevėžys), Pasvalio rajono (centras – Pasvalys), Plungės rajono (centras – Plungė), Prienų rajono (centras – Prienai), Radviliškio rajono (centras – Radviliškis), Raseinių rajono (centras – Raseiniai), Rietavo (centras – Rietavas), Rokiškio rajono (centras – Rokiškis), Skuodo rajono (centras – Skuodas), Šakių rajono (centras – Šakiai), Šalčininkų rajono (centras – Šalčininkai), Šiaulių miesto (centras – Šiauliai), Šiaulių rajono (centras – Šiauliai), Šilalės rajono (centras – Šilalė), Šilutės rajono (centras –Šilutė), Širvintų rajono (centras – Širvintos), Švenčionių rajono (centras – Švenčionys), Tauragės rajono (centras – Tauragė), Telšių rajono (centras – Telšiai), Trakų rajono (centras – Trakai), Ukmergės rajono (centras – Ukmergė), Utenos rajono (centras – Utena), Varėnos rajono (centras – Varėna), Vilkaviškio rajono (centras – Vilkaviškis), Vilniaus miesto (centras – Vilnius), Vilniaus rajono (centras – Vilnius), Visagino miesto (centras – Visaginas) ir Zarasų rajono (centras – Zarasai).
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1492, 1999-12-21, Žin., 1999, Nr. 109-3176 (1999-12-24), i. k. 0991010ISTAIII-1492
  
 
 
 
 
+5 straipsnis. Lietuvos Respublikos apskritys, jų centrai ir teritorijos
 
 
-5 straipsnis. Lietuvos Respublikos apskritys ir jų teritorijos
+Lietuvos Respublikos teritorijoje yra šios apskritys: Alytaus – centras Alytaus miestas; Kauno – centras Kauno miestas; Klaipėdos – centras Klaipėdos miestas; Marijampolės – centras Marijampolės miestas; Panevėžio – centras Panevėžio miestas; Šiaulių – centras Šiaulių miestas; Tauragės – centras Tauragės miestas; Telšių – centras Telšių miestas; Utenos – centras Utenos miestas; Vilniaus – centras Vilniaus miestas.
 
 
-Lietuvos Respublikos teritorijoje yra šios apskritys:
-Alytaus – centras Alytaus miestas, priskirtos Alytaus ir Druskininkų miestų, Alytaus, Lazdijų ir Varėnos rajonų savivaldybių teritorijos;
-Kauno – centras Kauno miestas, priskirtos Kauno ir Birštono miestų, Jonavos, Kaišiadorių, Kauno, Kėdainių, Prienų ir Raseinių rajonų savivaldybių teritorijos;
-Klaipėdos – centras Klaipėdos miestas, priskirtos Klaipėdos, Neringos ir Palangos miestų, Klaipėdos, Kretingos, Skuodo ir Šilutės rajonų savivaldybių teritorijos;
-Marijampolės – centras Marijampolės miestas, priskirtos Marijampolės miesto, Marijampolės, Šakių ir Vilkaviškio rajonų savivaldybių teritorijos;
-Panevėžio – centras Panevėžio miestas, priskirtos Panevėžio miesto, Biržų, Kupiškio, Panevėžio, Pasvalio ir Rokiškio rajonų savivaldybių teritorijos;
-Šiaulių – centras Šiaulių miestas, priskirtos Šiaulių miesto, Akmenės, Joniškio, Kelmės, Pakruojo, Radviliškio ir Šiaulių rajonų savivaldybių teritorijos;
-Tauragės – centras Tauragės miestas, priskirtos Jurbarko, Šilalės ir Tauragės rajonų savivaldybių teritorijos;
-Telšių – centras Telšių miestas, priskirtos Mažeikių, Plungės ir Telšių rajonų savivaldybių teritorijos;
-Utenos – centras Utenos miestas, priskirtos Visagino miesto, Anykščių, Ignalinos, Molėtų, Utenos ir Zarasų rajonų savivaldybių teritorijos;
-Vilniaus – centras Vilniaus miestas, priskirtos Vilniaus miesto, Šalčininkų, Širvintų, Švenčionių, Trakų, Ukmergės ir Vilniaus rajonų savivaldybių teritorijos.
+
+
+Apskričių teritorijas sudaro šių savivaldybių teritorijos:
+
+
+1) Alytaus – Alytaus miesto, Alytaus rajono, Druskininkų, Lazdijų rajono, Varėnos rajono savivaldybės;
+
+
+
+
+2) Kauno – Birštono, Jonavos rajono, Kaišiadorių rajono, Kauno miesto, Kauno rajono, Kėdainių rajono, Prienų rajono, Raseinių rajono savivaldybės;
+
+
+
+
+3) Klaipėdos – Klaipėdos rajono, Klaipėdos miesto, Kretingos rajono, Neringos, Palangos miesto, Skuodo rajono, Šilutės rajono savivaldybės;
+
+
+
+
+4) Marijampolės – Kalvarijos, Kazlų Rūdos, Marijampolės, Šakių rajono, Vilkaviškio rajono savivaldybės;
+
+
+
+
+5) Panevėžio – Biržų rajono, Kupiškio rajono, Panevėžio miesto, Panevėžio rajono, Pasvalio rajono, Rokiškio rajono savivaldybės;
+
+
+
+
+6) Šiaulių – Joniškio rajono, Kelmės rajono, Pakruojo rajono, Akmenės rajono, Radviliškio rajono, Šiaulių miesto, Šiaulių rajono savivaldybės;
+
+
+
+
+7) Tauragės – Jurbarko rajono, Pagėgių, Šilalės rajono, Tauragės rajono savivaldybės;
+
+
+
+
+8) Telšių – Mažeikių rajono, Plungės rajono, Rietavo, Telšių rajono savivaldybės;
+
+
+
+
+9) Utenos – Anykščių rajono, Ignalinos rajono, Molėtų rajono, Utenos rajono, Visagino miesto, Zarasų rajono savivaldybės;
+
+
+
+
+10) Vilniaus – Elektrėnų, Šalčininkų rajono, Širvintų rajono, Švenčionių rajono, Trakų rajono, Ukmergės rajono, Vilniaus miesto, Vilniaus rajono savivaldybės.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1492, 1999-12-21, Žin., 1999, Nr. 109-3176 (1999-12-24), i. k. 0991010ISTAIII-1492
  
-
-
 
 
 
@@ -322,12 +396,20 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-14 straipsnis. Įstatymo įgyvendinimas
+14 straipsnis. Įstatymo įgyvendinimas 
 
 
 Šis įstatymas įgyvendinamas pagal Lietuvos Respublikos Seimo nutarimą „Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo įgyvendinimo“.
 
 
+
+
+Šio įstatymo 4 straipsnio 2 dalyje nurodytos savivaldybės steigiamos ir 4 bei 5 straipsnių nuostatos įgyvendinamos pagal Teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymą.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1492, 1999-12-21, Žin., 1999, Nr. 109-3176 (1999-12-24), i. k. 0991010ISTAIII-1492
+ 
 
 
 
@@ -373,3 +455,8 @@ Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1163, 1999-05-04, Žin., 1999, Nr. 43-1362 (1999-05-19), i. k. 0991010ISTAIII-1163
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 7, 10, 13 straipsnių pakeitimo ir papildymo bei papildymo 15 straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1492, 1999-12-21, Žin., 1999, Nr. 109-3176 (1999-12-24), i. k. 0991010ISTAIII-1492
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymas
