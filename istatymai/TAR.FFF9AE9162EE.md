@@ -317,23 +317,38 @@ pakuotės atliekomis, paskirstomas taip:
 30 procentų mokama į valstybės biudžetą. Šios lėšos naudojamos pagal tikslinę
 paskirtį Lietuvos aplinkos apsaugos investicijų fondo programoje numatytiems
 aplinkos apsaugos investiciniams projektams finansuoti; 
+ 
+1 dalies 2 punkto redakcija iki 2004 m.
+sausio 1 d.:
 2)
 70 procentų mokama į savivaldybės, kurios teritorijoje yra taršos objektas,
 gamtos apsaugos fondą. 
+1 dalies 2 punkto redakcija nuo 2004 m.
+sausio 1 d.:
+2) 70 procentų mokama į savivaldybės, kurios
+teritorijoje yra taršos objektas, biudžetą. Šios lėšos naudojamos pagal
+tikslinę paskirtį Savivaldybių aplinkos apsaugos rėmimo specialiojoje programoje
+numatytoms priemonėms finansuoti.
+ 
 2.
 Mokestis už aplinkos teršimą gaminių ar pakuotės atliekomis mokamas į valstybės
 biudžetą. Šios lėšos naudojamos Atliekų tvarkymo įstatyme numatytiems Gaminių
 ar pakuotės atliekų tvarkymo programos tikslams įgyvendinti.
 3.
-Didesnio tarifo mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą teršalų
-ir apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį, už normatyvus
-viršijantį teršalų kiekį, mokamas arba išieškomas iš pažeidėjo į valstybės
-biudžetą. Šios lėšos naudojamos Aplinkos apsaugos rėmimo programos įstatyme
-numatytiems tikslams įgyvendinti.
+Didesnio tarifo mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą
+teršalų ir apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį, už
+normatyvus viršijantį teršalų kiekį, mokamas arba išieškomas iš pažeidėjo į
+valstybės biudžetą. Šios lėšos naudojamos Aplinkos apsaugos rėmimo programos
+įstatyme numatytiems tikslams įgyvendinti.
 4.
 Nesumokėtas mokestis už aplinkos teršimą sumokamas arba išieškomas,
 delspinigiai skaičiuojami, permokėta mokesčio suma grąžinama Mokesčių
 administravimo įstatymo nustatyta tvarka. 
+Straipsnio
+pakeitimai:
+Nr.
+IX-1608,
+2003-06-10, Žin., 2003, Nr. 61-2761 (2003-06-27)
  
 11
 straipsnis. Mokesčio tarifų galiojimo terminas
@@ -373,7 +388,7 @@ Respublikos                                  �
 m. sausio 22 d. 
                                                                                                 įstatymo
 Nr. IX-720
-                                                                                                1
+                                                                                                1
 priedėlis        
  
 Mokesčio už
@@ -511,8 +526,7 @@ IV
 
  
 II.
-Teršalai, išmetami į vandens telkinius, žemės paviršių ir gilesnius jos
-sluoksnius
+Teršalai, išmetami į vandens telkinius, žemės paviršių ir gilesnius jos sluoksnius
 
 
 
@@ -677,8 +691,8 @@ Mokesčio už
 aplinkos teršimą iš stacionarių taršos šaltinių tarifai 2005–2009
 metų periodui (2003 m. balandžio 29 d. įstatymo Nr. IX-1547 1 priedėlis):
  
-MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ STACIONARIŲ
-TARŠOS ŠALTINIŲ TARIFAI
+MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
+STACIONARIŲ TARŠOS ŠALTINIŲ TARIFAI
  
 I.
 Teršalai, išmetami į atmosferą 
@@ -1684,7 +1698,7 @@ Tarifai
 
                                                                                                 Lietuvos
 Respublikos
-                                                                                                2002
+                                                                                                2002
 m. sausio 22 d. 
                                                                                                 įstatymo
 Nr. IX-720
@@ -2419,12 +2433,22 @@ STRAIPSNIO 2 DALIES ĮGYVENDINIMO ĮSTATYMAS
 Šis Įstatymas, išskyrus 1 ir 2
 straipsnius, įsigalioja nuo 2005 m. sausio 1 d.
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1608,
+2003-06-10, Žin., 2003, Nr. 61-2761 (2003-06-27)
+MOKESČIO
+UŽ APLINKOS TERŠIMĄ ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d. 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-27)
+Aušrinė Trapinskienė (2003-06-30)
                  
 autrap@lrs.lt
  
