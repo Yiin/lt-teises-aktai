@@ -63,22 +63,12 @@ Nr. IX-1112,
 valstybiniu socialiniu pensijų draudimu
 Valstybiniu socialiniu pensijų draudimu
 privalomai draudžiami: 
-1) gaunantys atlyginimą už darbą asmenys: dirbantys pagal
-darbo sutartis, einantys narystės pagrindu renkamąsias pareigas renkamose
-organizacijose, dirbantys žemės ūkio bendrovėse arba kooperatinėse
-organizacijose, kandidatai į notarus (asesoriai), viešojo administravimo
-valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios dalies 3
-ir 5 punktuose); 
- 
-[1 dalies
-1 punkto redakcija nuo 2003 m. sausio 1 d.:
 1) gaunantys atlyginimą už darbą
 asmenys: dirbantys pagal darbo sutartis, einantys narystės pagrindu renkamąsias
 pareigas renkamose organizacijose, dirbantys žemės ūkio bendrovėse arba
 kooperatinėse organizacijose, kandidatai į notarus (asesoriai), valstybės
 tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios dalies 3 ir 5
-punktuose);] 
- 
+punktuose);
 2) valstybės politikai, Konstitucinio
 Teismo teisėjai, Lietuvos Aukščiausiojo Teismo teisėjai, kitų teismų teisėjai,
 kandidatai į teisėjus, prokuratūros pareigūnai, Lietuvos banko valdybos
@@ -100,51 +90,26 @@ valstybės įmonių pareigūnai;
 karo tarnybos kariai; 
 5) Valstybės saugumo departamento
 sistemos pareigūnai;
-6) nedirbantys diplomatų sutuoktiniai –
-tuo laikotarpiu, kai jie gyvena užsienyje kartu su diplomatu, dirbančiu
-Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje; 
- 
-[1 dalies
-6 punkto redakcija nuo 2003 m. sausio 1 d.:
 6) nedirbantys valstybės tarnautojų
 sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės
 tarnautoju, dirbančiu Lietuvos Respublikos diplomatinėje atstovybėje ar
-konsulinėje įstaigoje;] 
- 
+konsulinėje įstaigoje;
 7) individualių (personalinių) įmonių
 savininkai, individualių (personalinių) įmonių nuomininkai, advokatai, advokatų
 padėjėjai, notarai, tikrųjų ūkinių bendrijų nariai, komanditinių ūkinių
 bendrijų tikrieji nariai; 
-8) patentus įsigiję asmenys; 
- 
-[1 dalies
-8 punkto redakcija nuo 2003 m. sausio 1 d.:
 8) verslo liudijimus
-turintys asmenys;]
- 
+turintys asmenys;
 9) ūkininkai ir dirbantys ūkyje jų ūkio
 nariai; 
 10) privalomosios nuolatinės pradinės
 karo tarnybos ir alternatyviosios krašto apsaugos tarnybos kariai; 
-11) motina (tėvas), turinti (turintis)
-vaiko nuo vienerių iki trejų metų priežiūros atostogas; 
- 
-[1 dalies
-11 punkto redakcija nuo 2003 m. sausio 1 d.:
 11) motina (tėvas) – vaiko iki trejų
 metų priežiūros atostogų metu, jeigu tuo laikotarpiu motina (tėvas) neturi
-draudžiamųjų pajamų;] 
- 
-12) motina (tėvas), nedirbanti (nedirbantis) ir neturinti
-(neturintis) vaiko priežiūros atostogų, bet auginanti (auginantis) vaiką iki
-trejų metų; 
- 
-[1 dalies
-12 punkto redakcija nuo 2004 m. sausio 1 d.:
+draudžiamųjų pajamų;
 12) motina (tėvas), neturinti
 (neturintis) vaiko priežiūros atostogų ir draudžiamųjų pajamų, tuo laikotarpiu,
-kai augina vaiką iki trejų metų;]
- 
+kai augina vaiką iki trejų metų;
 13) tradicinių ir kitų valstybės
 pripažintų religinių bendruomenių ir bendrijų dvasininkai ir tik vienuolyne
 dirbantys vienuoliai; 
@@ -183,16 +148,17 @@ Nr. VIII-2010, 2000 10 10, Žin., 2000, Nr.
 92-2862 (2000 10 31), įsigalioja nuo 2000 11 01
 Nr. IX-616,
 2001-11-20, Žin., 2001, Nr. 103-3658 (2001-12-07)
-Nr. IX-1245, 2002-12-10,
-Žin., 2002, Nr. 124-5620 (2002-12-27)
+Nr. IX-1245,
+2002-12-10, Žin., 2002, Nr. 124-5620 (2002-12-27)
  
             3 straipsnis. Valstybinių socialinio
 draudimo pensijų skyrimo sąlygos
             Valstybinės socialinio draudimo pensijos
-skiriamos asmenims, nurodytiems 1-2 straipsniuose, jeigu jie atitinka šio
-įstatymo nustatytus valstybinio socialinio pensijų draudimo stažo reikalavimus
-atitinkamai pensijos rūšiai skirti ir sukanka šio įstatymo nustatytą amžių,
-pripažįstami invalidais, o tokiems asmenims mirus jų šeimų nariams. 
+skiriamos asmenims, nurodytiems 
+1-2 straipsniuose, jeigu jie atitinka šio įstatymo nustatytus valstybinio
+socialinio pensijų draudimo stažo reikalavimus atitinkamai pensijos rūšiai
+skirti ir sukanka šio įstatymo nustatytą amžių, pripažįstami invalidais, o
+tokiems asmenims mirus jų šeimų nariams. 
  
 PENSIJŲ RŪŠYS 
  
@@ -245,10 +211,10 @@ Papildoma valstybinės socialinio
 draudimo pensijos dalis suteikia papildomą pensinį aprūpinimą asmenims,
 išvardytiems 2 straipsnio pirmosios dalies 1-6 punktuose, draustiems
 valstybiniu socialiniu pensijų draudimu, taip pat 2 straipsnio pirmosios dalies
-7 punkte nurodytiems asmenims, jeigu jie privalomai draudžiasi valstybiniu socialiniu
-pensijų draudimu papildomai pensijos daliai gauti, atsižvelgiant į šių asmenų
-draudimo stažą ir draudžiamąsias pajamas, turėtas per draudimo (draudimosi)
-laikotarpį.
+7 punkte nurodytiems asmenims, jeigu jie privalomai draudžiasi valstybiniu
+socialiniu pensijų draudimu papildomai pensijos daliai gauti, atsižvelgiant į
+šių asmenų draudimo stažą ir draudžiamąsias pajamas, turėtas per draudimo
+(draudimosi) laikotarpį.
 Straipsnio
 pakeitimai:
 Nr. VIII-905,
@@ -275,11 +241,11 @@ STAŽAS
  
 8 straipsnis. Asmens valstybinio
 socialinio pensijų draudimo stažas
-Apdraustojo asmens valstybinio
-socialinio pensijų draudimo stažą sudaro asmens valstybinio socialinio
-pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar
-tarnybos pagrindu, ir asmens valstybinio socialinio pensijų draudimo stažas,
-įgytas dirbant savarankiškai. 
+Apdraustojo asmens valstybinio socialinio
+pensijų draudimo stažą sudaro asmens valstybinio socialinio pensijų
+draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos
+pagrindu, ir asmens valstybinio socialinio pensijų draudimo stažas, įgytas
+dirbant savarankiškai. 
 Valstybinio socialinio pensijų draudimo
 stažą, dirbdami pagal darbo sutartį, narystės ar tarnybos pagrindu, įgyja
 asmenys, išvardyti 2 straipsnio pirmosios dalies 1–5 punktuose. Šį stažą
@@ -295,11 +261,11 @@ draudimo įstatymą, ligos dėl nelaimingo atsitikimo darbe arba profesinės lig
 pašalpas, mokamas pagal Nelaimingų atsitikimų darbe ir profesinių ligų
 socialinio draudimo įstatymą, ir bedarbio pašalpas, mokamas pagal Bedarbių
 rėmimo įstatymą. Šio punkto pirmajame sakinyje išvardytos pašalpos toliau šiame
-įstatyme vadinamos valstybinio socialinio draudimo ligos, motinystės, motinystės
-(tėvystės) ir bedarbio pašalpomis. Šių pašalpų gavimo laikas įskaitomas tik
-įstatymų nustatyta tvarka privalomai draustiems ligos ir motinystės socialiniu
-draudimu, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu
-bei socialiniu draudimu nuo nedarbo asmenims.
+įstatyme vadinamos valstybinio socialinio draudimo ligos, motinystės,
+motinystės (tėvystės) ir bedarbio pašalpomis. Šių pašalpų gavimo laikas
+įskaitomas tik įstatymų nustatyta tvarka privalomai draustiems ligos ir
+motinystės socialiniu draudimu, nelaimingų atsitikimų darbe ir profesinių ligų
+socialiniu draudimu bei socialiniu draudimu nuo nedarbo asmenims.
 Asmenų, išvardytų 2 straipsnio pirmosios
 dalies 6 punkte, draudimo valstybiniu socialiniu pensijų draudimu laikotarpiai
 yra prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam
@@ -362,30 +328,21 @@ skaičiuojamas valstybinio socialinio pensijų draudimo stažas, įgytas dirbant
 savarankiškai, stažą kalendoriniais metais įskaitoma tiek mėnesių, už kiek jis
 įmokėjo ar už jį buvo įmokėta visa jam nustatyta privaloma valstybinio
 socialinio pensijų draudimo įmoka.
-Patentus įsigijusių asmenų valstybinio
-socialinio pensijų draudimo stažas įskaitomas pagal faktiškai įmokėtas
-valstybinio socialinio pensijų draudimo įmokas į Valstybinio socialinio draudimo
-fondo biudžetą. Tokia pat tvarka įskaitomas ir valstybinio socialinio pensijų
-draudimo stažas nuo 1995 m. sausio 1 d. iki 1999 m. gruodžio 31 d. ūkininkams
-ir pilnamečiams jų šeimos nariams, dirbusiems ūkyje.
- 
-[2 dalies
-redakcija nuo 2003 m. sausio 1 d.:
 Verslo
 liudijimus turinčių asmenų valstybinio socialinio pensijų draudimo stažas
 įskaitomas pagal faktiškai įmokėtas valstybinio socialinio pensijų draudimo
 įmokas į Valstybinio socialinio draudimo fondo biudžetą. Tokia pat tvarka
 įskaitomas ir valstybinio socialinio pensijų draudimo stažas nuo 1995 m. sausio
 1 d. iki 1999 m. gruodžio 31 d. ūkininkams ir pilnamečiams jų šeimos nariams,
-dirbusiems ūkyje.] 
+dirbusiems ūkyje.
 Straipsnio pakeitimai:
 Nr. VIII-1479, 99.12.16, Žin., 1999,
 Nr.113-3283 (99.12.30)
 Nr. IX-1245,
 2002-12-10, Žin., 2002, Nr. 124-5620 (2002-12-27), įsigalioja nuo 2003-01-01
  
-            11 straipsnis. Valstybinio socialinio pensijų
-draudimo stažo apskaičiavimas
+            11 straipsnis. Valstybinio socialinio
+pensijų draudimo stažo apskaičiavimas
             Asmens valstybinio socialinio pensijų
 draudimo stažas apskaičiuojamas sudedant šio asmens kiekvienų metų valstybinio
 socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo sutartį, narystės
@@ -438,32 +395,26 @@ Nr.113-3283 (99.12.30)
 Nr. IX-616,
 2001-11-20, Žin., 2001, Nr. 103-3658 (2001-12-07)
  
-14 straipsnis. Vidutinės mėnesinės
-draudžiamosios pajamos 
-Vidutinės mėnesinės draudžiamosios
-pajamos yra visų apdraustų asmenų, išvardytų 
-2 straipsnio pirmosios dalies 1–6 punktuose, draudžiamųjų pajamų vidurkis,
-tenkantis vienam apdraustajam. Nustatant šį vidurkį, į vidutines mėnesines
-draudžiamąsias pajamas taip pat įskaičiuojamos sumos, nuo kurių 2 straipsnio
-pirmosios dalies 7 punkte nurodyti asmenys įmokėjo valstybinio socialinio
-pensijų draudimo įmokas papildomai pensijos daliai gauti. 
-Vidutinės mėnesinės
-draudžiamosios pajamos apskaičiuojamos pagal pajamas, nuo kurių buvo įmokėtos
-valstybinio socialinio pensijų draudimo įmokos į Valstybinio socialinio
-draudimo fondo biudžetą, taip pat pagal išmokėtas valstybinio socialinio
-draudimo pašalpas. 
-Ketvirčio vidutines mėnesines
-draudžiamąsias pajamas ne rečiau kaip kiekvieną ketvirtį tvirtina Lietuvos
-Respublikos Vyriausybė Valstybinio socialinio draudimo fondo tarybos teikimu.
-Ketvirčio vidutinės mėnesinės draudžiamosios pajamos apskaičiuojamos pagal
-Valstybinio socialinio draudimo fondo tarybos patvirtintą metodiką ir turi būti
-patvirtintos ne vėliau kaip per du mėnesius prasidėjus naujam ketvirčiui.
-Naujai patvirtintos ketvirčio vidutinės mėnesinės draudžiamosios pajamos
-taikomos nuo naujo ketvirčio trečio mėnesio pirmos dienos.
-Praeitų metų vidutines mėnesines
-draudžiamąsias pajamas Lietuvos Respublikos Vyriausybė Valstybinio socialinio
-draudimo fondo tarybos teikimu patvirtina ne vėliau kaip iki kitų metų kovo 1
-dienos.
+14 straipsnis. Metų draudžiamosios
+pajamos 
+Einamųjų
+metų draudžiamąsias pajamas ne rečiau kaip kartą per metus Valstybinio
+socialinio draudimo fondo tarybos teikimu tvirtina Lietuvos Respublikos
+Vyriausybė, nustatydama šių pajamų taikymo pradžią. Einamųjų metų
+draudžiamosios pajamos apskaičiuojamos pagal Valstybinio socialinio draudimo
+fondo tarybos patvirtintą metodiką, atsižvelgiant į atitinkamų metų ar
+atitinkamo metų laikotarpio Valstybinio socialinio draudimo fondo biudžeto
+pajamas ir išlaidas. Šios draudžiamosios pajamos taikomos valstybinės
+socialinio draudimo senatvės pensijos papildomai daliai apskaičiuoti (21
+straipsnis). 
+Praeitų metų draudžiamąsias pajamas ne
+vėliau kaip iki einamųjų metų kovo 1 d. Valstybinio socialinio draudimo fondo
+valdybos teikimu tvirtina Valstybinio socialinio draudimo fondo taryba. Metų
+draudžiamosios pajamos apskaičiuojamos pagal Valstybinio socialinio draudimo
+fondo tarybos patvirtintą metodiką, įvertinus tais metais galiojusias
+Vyriausybės patvirtintas einamųjų metų draudžiamąsias pajamas. Metų
+draudžiamosios pajamos taikomos apskaičiuojant asmens metinį draudžiamųjų
+pajamų koeficientą (15 straipsnio 1 ir 2 dalys).
 Straipsnio
 pakeitimai:
 Nr. VIII-1292,
@@ -473,50 +424,70 @@ Nr. VIII-1479, 99.12.16, Žin., 1999,
 Nr.113-3283 (99.12.30)
 Nr. VIII-1786, 2000 07 04, Žin., 2000, Nr.
 58-1715 (2000 07 19)
-Nr. IX-616, 2001-11-20,
-Žin., 2001, Nr. 103-3658 (2001-12-07)
+Nr. IX-616,
+2001-11-20, Žin., 2001, Nr. 103-3658 (2001-12-07)
+Nr. IX-1247,
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
  
-            15 straipsnis. Metinio draudžiamųjų pajamų
-koeficiento apskaičiavimas
-            Metinis apdraustojo asmens draudžiamųjų
-pajamų koeficientas apskaičiuojamas asmens kalendorinių metų draudžiamąsias
-pajamas dalijant iš tiek mėnesių, kiek tais metais asmeniui įskaitoma į
-valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo
-sutartį, narystės ar tarnybos pagrindu, ir iš vidutinių tų metų mėnesinių
-draudžiamųjų pajamų, apskaičiuotų pagal tų metų duomenis.
+15 straipsnis. Metinio draudžiamųjų
+pajamų koeficiento apskaičiavimas 
+Apdraustojo asmens 1995–2001 metų
+draudžiamųjų pajamų koeficientas apskaičiuojamas asmens kalendorinių metų
+draudžiamąsias pajamas dalijant iš tiek mėnesių, kiek tais metais asmeniui
+įskaitoma į valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal
+darbo sutartį, narystės ar tarnybos pagrindu (toliau šiame straipsnyje –
+stažas), ir iš vidutinių tų metų mėnesinių draudžiamųjų pajamų. Apdraustojo
+asmens 2002 ir kiekvienų vėlesnių metų draudžiamųjų pajamų koeficientas
+apskaičiuojamas asmens atitinkamų kalendorinių metų draudžiamąsias pajamas
+dalijant iš tiek mėnesių, kiek tais metais asmeniui įskaitoma į stažą, ir iš tų
+metų draudžiamųjų pajamų (14 straipsnio 2 dalis). 
 Jei pensija skiriama tuo metu, kai dar
-nepatvirtintos praeitų metų vidutinės mėnesinės draudžiamosios pajamos, vietoj
-jų asmens draudžiamųjų pajamų koeficientui apskaičiuoti naudojamos paskutinės
-ketvirčio vidutinės mėnesinės draudžiamosios pajamos. Patvirtinus praeitų metų
-vidutines mėnesines draudžiamąsias pajamas, paskirtoji pensija, atsižvelgiant į
-šias pajamas, perskaičiuojama nuo pensijos paskyrimo dienos.
+nepatvirtintos praeitų metų draudžiamosios pajamos, vietoj jų asmens
+draudžiamųjų pajamų koeficientui apskaičiuoti naudojamos užpraeitų metų draudžiamosios
+pajamos. Patvirtinus praeitų metų draudžiamąsias pajamas, paskirtoji pensija,
+atsižvelgiant į šias pajamas, perskaičiuojama nuo pensijos paskyrimo dienos,
+jeigu pensijos gavėjui tai naudinga.
+Jei asmens išėjimo į pensiją metais gautas
+draudžiamąsias pajamas naudinga imti asmens draudžiamųjų pajamų koeficientui
+apskaičiuoti, šių metų koeficientas apskaičiuojamas asmens išėjimo į pensiją
+metais gautas draudžiamąsias pajamas dalijant iš tiek mėnesių, kiek tais metais
+asmeniui įskaitoma į stažą, ir iš patvirtintų einamųjų metų draudžiamųjų
+pajamų. Patvirtinus išėjimo į pensiją metų draudžiamąsias pajamas, asmens
+draudžiamųjų pajamų koeficientas, atsižvelgiant į šias pajamas,
+perskaičiuojamas nuo pensijos paskyrimo dienos, jeigu pensijos gavėjui tai
+naudinga.
 Straipsnio
 pakeitimai:
 Nr. I-1438,
 96.07.04, Žin., 1996, Nr.68-1636 (96.07.19)
-Nr. IX-616,
-2001-11-20, Žin., 2001, Nr. 103-3658 (2001-12-07)
+Nr. IX-616, 2001-11-20,
+Žin., 2001, Nr. 103-3658 (2001-12-07)
+Nr. IX-1247,
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
  
             16 straipsnis. Asmens draudžiamųjų pajamų
 koeficientas
-            Apdraustojo asmens draudžiamųjų pajamų
-koeficientas apskaičiuojamas kaip metinių koeficientų vidurkis pagal dvidešimt
-penkerius to asmens pasirinktus palankiausius kalendorinius jo valstybinio
-socialinio pensijų draudimo stažo, įgyto dirbant pagal darbo sutartį, narystės
-ar tarnybos pagrindu, metus po 1994 metų sausio 1 dienos.
+Apdraustojo asmens draudžiamųjų pajamų
+koeficientas apskaičiuojamas kaip svertinis metinių koeficientų vidurkis
+pagal dvidešimt penkerius to asmens pasirinktus palankiausius kalendorinius jo
+valstybinio socialinio pensijų draudimo stažo, įgyto dirbant pagal darbo
+sutartį, narystės ar tarnybos pagrindu, metus po 1994 metų sausio 1 dienos.
             Šios nuostatos įsigaliojimo tvarka
 nustatoma šio įstatymo 54 straipsnyje.
             Jei asmens valstybinio socialinio pensijų
-draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu,
-mažesnis už metų skaičių, nurodytą šio straipsnio pirmojoje dalyje, bet ne
-mažesnis kaip vienas mėnuo, asmens draudžiamųjų pajamų koeficientas
+draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos
+pagrindu, mažesnis už metų skaičių, nurodytą šio straipsnio pirmojoje dalyje,
+bet ne mažesnis kaip vienas mėnuo, asmens draudžiamųjų pajamų koeficientas
 apskaičiuojamas pagal turimą stažą.
-            Jei stažas mažesnis už mėnesį, asmens
+Jei stažas mažesnis už mėnesį, asmens
 draudžiamųjų pajamų koeficientu laikomas apdraustajam asmeniui darbo arba
-kitokia sutartimi nustatyto darbo užmokesčio per mėnesį santykis su
-paskutinėmis patvirtintomis vidutinėms mėnesinėmis draudžiamosiomis pajamomis.
-Jei darbo užmokestis nebuvo nustatytas, laikoma, kad jis lygus to mėnesio
-minimaliai mėnesinei algai. 
+kitokia sutartimi nustatyto darbo užmokesčio per mėnesį santykis su tų metų,
+kuriais stažas įgytas, draudžiamosiomis pajamomis. Jei darbo užmokestis nebuvo
+nustatytas, laikoma, kad jis lygus to mėnesio minimaliai mėnesinei algai.
+Straipsnio
+pakeitimai:
+Nr. IX-1247,
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
  
 II SKYRIUS. VALSTYBINĖS SOCIALINIO DRAUDIMO SENATVĖS
 PENSIJOS 
@@ -580,24 +551,15 @@ valstybinės socialinio draudimo senatvės pensijos dalis apskaičiuojama
 proporcingai turimam stažui, dauginant bazinę pensiją iš asmens turimo stažo ir
 dalijant iš būtinojo. 
  
-21 straipsnis. Valstybinės
-socialinio draudimo pensijos papildomos dalies dydis 
-Valstybinės socialinio draudimo senatvės
-pensijos papildoma dalis apskaičiuojama asmenims, turintiems teisę gauti
-valstybinę socialinio draudimo senatvės pensiją ir turintiems valstybinio
-socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo sutartį, narystės
-ar tarnybos pagrindu, pagal formulę 0,005xSxKxD, kurioje: 
-dydis
-S – asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal
-darbo sutartį, narystės ar tarnybos pagrindu; 
-dydis K – asmens draudžiamųjų pajamų
-koeficientas (16 straipsnis); 
-dydis D – ketvirčio vidutinės mėnesinės
-draudžiamosios pajamos, kurios buvo patvirtintos iki to mėnesio, už kurį mokama
-pensija, pirmosios dienos (14 straipsnis).
+21 straipsnis. Valstybinės socialinio draudimo pensijos papildomos dalies dydis Valstybinės socialinio draudimo senatvės pensijos papildoma dalis apskaičiuojama asmenims, turintiems teisę gauti valstybinę socialinio draudimo senatvės pensiją ir turintiems valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, pagal formulę 0,005 x S x K x D, kurioje: dydis S – asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu; dydis K – asmens draudžiamųjų pajamų koeficientas (16 straipsnis); 
+dydis D – Vyriausybės patvirtintos
+einamųjų metų draudžiamosios pajamos, galiojančios tą mėnesį, už kurį mokama
+pensija.
 Straipsnio pakeitimai:
 Nr. IX-616,
 2001-11-20, Žin., 2001, Nr. 103-3658 (2001-12-07)
+Nr. IX-1247,
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
  
             22 straipsnis. Amžiaus ir būtinojo stažo
 sumažinimas asmenims, sergantiems 
@@ -607,57 +569,8 @@ hipofiziniu nanizmu
 nurodytąjį 18 straipsnyje, o būtinasis ir minimalus draudimo stažas - 10 metų
 mažesnis už nurodytąjį 19 straipsnyje. 
  
-*23 straipsnis. Senatvės pensijos mokėjimas
-pensininkams, turintiems 
-draudžiamųjų pajamų 
-Pensininkams, kurie po valstybinės
-socialinio draudimo senatvės pensijos paskyrimo turi pajamų, nuo kurių
-skaičiuojamos ir mokamos privalomosios valstybinio socialinio pensijų draudimo
-įmokos, arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant
-darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar
-bedarbio pašalpas (toliau šiame straipsnyje - draudžiamosios
-pajamos), jeigu jie turi būtinąjį senatvės pensijai valstybinio socialinio
-pensijų draudimo stažą (19, 22 straipsniai ir 46 straipsnio pirmoji dalis),
-mokama visa paskirta valstybinė socialinio draudimo senatvės pensija, kai jų
-draudžiamosios pajamos neviršija  1 minimalios mėnesinės  algos. Jeigu
-nurodytų  asmenų  draudžiamosios pajamos viršija  1 minimalią mėnesinę algą,
-bet neviršija 1,5 minimalios mėnesinės algos,  jiems mokama pagrindinė  valstybinės
-socialinio draudimo senatvės pensijos dalis (20 straipsnio pirmoji
-dalis) ir  paskirtos senatvės pensijos papildomos dalies (toliau šiame
-straipsnyje – papildoma dalis) dalis, kurią sudaro šių dydžių suma: 
-1) 50 procentų papildomos dalies,
-neviršijančios 100 litų;
-2) 20 procentų papildomos dalies, kuri
-yra nuo 100,01 iki 200 litų;
-3) 10 procentų papildomos dalies, kuri
-yra nuo 200,01 iki 300 litų.
-Senatvės pensijos papildomos dalies,
-kuri viršija 300 litų, dalis nemokama.
-Jeigu šio straipsnio pirmojoje dalyje
-nurodytų  asmenų draudžiamosios pajamos viršija 
-1,5 minimalios mėnesinės algos, jiems mokama pagrindinė valstybinės socialinio
-draudimo senatvės pensijos dalis. 
-Turintiems draudžiamųjų pajamų
-pensininkams, kurie neturi būtinojo senatvės pensijai valstybinio socialinio
-pensijų draudimo stažo, valstybinė socialinio draudimo senatvės pensija
-nemokama. 
-Ištarnauto laiko
-pensijos, paskirtos iki šio įstatymo įsigaliojimo galiojusia tvarka 
-(45 straipsnio ketvirtoji dalis), šių pensijų gavėjams, turintiems draudžiamųjų
-pajamų, mokamos šio straipsnio pirmojoje, antrojoje ir trečiojoje dalyse
-nustatyta tvarka.
- 
-*Pastaba. Pripažinti, kad Lietuvos
-Respublikos valstybinių socialinio draudimo pensijų įstatymo 23 straipsnis (2001
-m. gegužės 8 d. redakcija) ta apimtimi, kuria jame nustatyta, kad būtinąjį
-senatvės pensijai valstybinio socialinio pensijų draudimo stažą turintiems
-pensininkams, kurie po valstybinės socialinio draudimo senatvės pensijos
-paskyrimo turi draudžiamųjų pajamų, didesnių kaip 1 minimali mėnesinė alga,
-mokama ne visa paskirta ir iki tol mokėta valstybinė socialinio draudimo
-senatvės pensija, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsniui,
-48 straipsnio 1 dalies nuostatai, kad kiekvienas žmogus gali laisvai pasirinkti
-darbą bei verslą, 52 straipsniui ir konstituciniam teisinės valstybės
-principui.
+23 straipsnis. Neteko galios nuo 2003 m. sausio 31
+d. 
 Straipsnio
 pakeitimai:
 Nr.I-724,
@@ -670,6 +583,8 @@ Lietuvos Respublikos
 Konstitucinis Teismas, Nutarimas
 2002-11-25, Žin., 2002, Nr.
 113-5057 (2002-11-27)
+Nr. IX-1295,
+2003-01-16, Žin., 2003, Nr. 12-437 (2003-01-31)
  
 24 straipsnis. Senatvės pensijos
 padidinimas dėl atidėto kreipimosi
@@ -678,22 +593,20 @@ asmuo tam tikru metu įgyja teisę gauti valstybinę socialinio draudimo senatv�
 pensiją ir turi būtinąjį valstybinio socialinio pensijų draudimo stažą, bet
 pensijos neima ir kreipiasi dėl jos vėliau, tai pensija jam apskaičiuojama
 pagal duomenis kreipimosi metu ir didinama 4 procentais apskaičiuotojo dydžio
-už kiekvienus visus metus, praėjusius nuo dienos, kai jis įgijo teisę gauti senatvės
-pensiją turėdamas būtinąjį stažą.
+už kiekvienus visus metus, praėjusius nuo dienos, kai jis įgijo teisę gauti
+senatvės pensiją turėdamas būtinąjį stažą.
 Gaunančiam
 senatvės pensiją ir turinčiam būtinąjį valstybinio socialinio pensijų draudimo
 stažą asmeniui jo prašymu pensijos mokėjimas gali būti atidėtas. Šiuo atveju
 pensija jam iš naujo apskaičiuojama pagal duomenis kreipimosi metu ir didinama
 4 procentais apskaičiuotojo dydžio už kiekvienus visus metus, praėjusius nuo
 mokėjimo atidėjimo dienos.
+Atidėjus pensijos mokėjimą ne visiems
+metams, už paskutinių ne visų atidėjimo metų mėnesius pensija išmokama, bet
+nedidinama.
 Atidėjus
-pensijos mokėjimą ne visiems metams, už paskutinių ne visų atidėjimo metų
-mėnesius pensija išmokama, bet nedidinama. Išmokant pensiją, atsižvelgiama į
-pensininko draudžiamąsias pajamas ir amžių (23 straipsnis) per laikotarpį, už
-kurį išmokama pensija.
-Atidėjus
-kreipimąsi dėl pensijos daugiau negu 5 metams, pensija didinama tik už 5
-atidėjimo metus.
+kreipimąsi dėl pensijos daugiau negu 5 metams, pensija didinama tik už 
+5 atidėjimo metus.
 Valstybinio
 socialinio draudimo fondo tarybos sprendimu gali būti nustatytas didesnis
 pensijos didinimo dėl atidėto kreipimosi procentas.
@@ -702,6 +615,8 @@ pakeitimai:
 Nr. VIII-1292,
 99.07.07, Žin., 1999, Nr.66-2115 (99.07.30),
 įsigalioja nuo 2000.01.01
+Nr. IX-1295,
+2003-01-16, Žin., 2003, Nr. 12-437 (2003-01-31)
  
 III SKYRIUS. VALSTYBINĖS SOCIALINIO DRAUDIMO
 INVALIDUMO PENSIJOS 
@@ -715,14 +630,14 @@ pajamų.
             26 straipsnis. Invalidumo grupės
             Atsižvelgiant į darbingumo netekimo
 laipsnį, pensijoms apskaičiuoti nustatomos trys invalidumo grupės.
-            Invalidumo grupes, priežastis, atsiradimo
-laiką ir terminą nustato valstybinės medicininės socialinės ekspertizės
-komisijos (VMSEK), vadovaudamosi savo nuostatais, patvirtintais Lietuvos
-Respublikos Vyriausybės.
+            Invalidumo grupes, priežastis, atsiradimo laiką
+ir terminą nustato valstybinės medicininės socialinės ekspertizės komisijos
+(VMSEK), vadovaudamosi savo nuostatais, patvirtintais Lietuvos Respublikos
+Vyriausybės.
 Valstybinio
-socialinio draudimo fondo valdyba Vyriausybės nustatyta tvarka turi teisę
-ginčyti invalidumo nustatymo teisingumą asmeniui, turinčiam teisę gauti
-valstybinę socialinio draudimo invalidumo pensiją.
+socialinio draudimo fondo valdyba Vyriausybės nustatyta tvarka turi teisę ginčyti
+invalidumo nustatymo teisingumą asmeniui, turinčiam teisę gauti valstybinę
+socialinio draudimo invalidumo pensiją.
 Straipsnio
 pakeitimai:
 Nr. VIII-1292,
@@ -752,18 +667,6 @@ Nr. VIII-1292,
  
             28 straipsnis. Minimalus ir būtinasis
 draudimo stažas invalidumo pensijai
-Nesukakusiems
-23 metų asmenims, kuriems pirmą kartą invalidumas arba sunkesnio invalidumo
-grupė nustatomi valstybinio socialinio pensijų draudimo laikotarpiu, suteikiama
-teisė gauti valstybinę socialinio draudimo invalidumo pensiją, laikant, kad jie
-atitinka minimalaus ir būtinojo draudimo stažo invalidumo pensijai
-reikalavimus, ir netaikant jiems 27 straipsnio pirmosios dalies reikalavimo.
-Kitais atvejais nesukakusieji 23 metų asmenys įgyja teisę gauti valstybinę
-socialinio draudimo invalidumo pensiją tik tuomet, jeigu jie atitinka 27
-straipsnio pirmosios dalies reikalavimą.
- 
-[1 dalies
-redakcija nuo 2003 m. sausio 1 d.:
 Nesukakusiems 23 metų
 asmenims, kuriems pirmą kartą invalidumas arba sunkesnio invalidumo grupė
 nustatomi valstybinio socialinio pensijų draudimo laikotarpiu, suteikiama teisė
@@ -771,8 +674,7 @@ gauti valstybinę socialinio draudimo invalidumo pensiją, laikant, kad jie
 atitinka minimalaus ir būtinojo valstybinio socialinio pensijų draudimo stažo
 invalidumo pensijai reikalavimus. Kitais atvejais nesukakusieji 23 metų asmenys
 įgyja teisę gauti valstybinę socialinio draudimo invalidumo pensiją pagal šio
-įstatymo 27 straipsnio nuostatas.]
- 
+įstatymo 27 straipsnio nuostatas.
             Kitiems asmenims nustatomas toks minimalus
 valstybinio socialinio pensijų draudimo stažas invalidumo pensijai:
             iki sukanka 26 metai - 1 metai, sukakus 26
@@ -795,15 +697,9 @@ Nr. VIII-1292,
 Nr. IX-1245,
 2002-12-10, Žin., 2002, Nr. 124-5620 (2002-12-27), įsigalioja nuo 2003-01-01
  
-29 straipsnis. Valstybinės
-socialinio draudimo invalidumo pensijos apskaičiavimas 
+29 straipsnis. Valstybinės socialinio
+draudimo invalidumo pensijos apskaičiavimas 
 ir dydis
-Valstybinė socialinio draudimo
-invalidumo pensija turintiems teisę gauti šią pensiją invalidams apskaičiuojama
-sudedant pagrindinę ir papildomą invalidumo pensijos dalis.
- 
-[1 dalies
-redakcija nuo 2003 m. sausio 1 d.:
 Valstybinė socialinio draudimo
 invalidumo pensija turintiems teisę gauti šią pensiją invalidams apskaičiuojama
 sudedant pagrindinę ir papildomą invalidumo pensijos dalis. Apskaičiuojant
@@ -812,8 +708,7 @@ straipsnio 2 dalies 2 punktas) įskaitomas į valstybinio socialinio pensijų
 draudimo stažą, o įskaitytu į stažą bedarbystės laikotarpiu gautos bedarbio
 pašalpos – į  asmens draudžiamąsias pajamas (13 straipsnis), jeigu invalidui
 tai naudinga. Tokios pat nuostatos laikomasi ir tuo atveju, kai asmuo gavo
-bedarbio pašalpą išėjimo į invalidumo pensiją metais.]
- 
+bedarbio pašalpą išėjimo į invalidumo pensiją metais.
 Asmenų, turinčių būtinąjį valstybinio
 socialinio pensijų draudimo stažą invalidumo pensijai, pagrindinė I grupės
 invalidumo pensijos dalis lygi 1,5 bazinės pensijos, pagrindinė II
@@ -833,12 +728,12 @@ ar tarnybos pagrindu;
 senatvės pensijos amžiaus (18, 55 straipsniai) metų skaičių. Jei asmens
 valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo
 sutartį, narystės ar tarnybos pagrindu, mažesnis už būtinąjį invalidumo
-pensijai stažą (28 straipsnis), į stažą įskaitomas ne visas trūkstamas iki senatvės
-pensijos amžiaus metų skaičius, o proporcingai mažesnė jo dalis, kuri gaunama
-dauginant trūkstamą iki senatvės pensijos amžiaus metų skaičių iš asmens turimo
-valstybinio socialinio pensijų draudimo stažo, įgyto dirbant pagal darbo
-sutartį, narystės ar tarnybos pagrindu, ir dalijant iš būtinojo invalidumo
-pensijai stažo. 
+pensijai stažą (28 straipsnis), į stažą įskaitomas ne visas trūkstamas iki
+senatvės pensijos amžiaus metų skaičius, o proporcingai mažesnė jo dalis, kuri
+gaunama dauginant trūkstamą iki senatvės pensijos amžiaus metų skaičių iš
+asmens turimo valstybinio socialinio pensijų draudimo stažo, įgyto dirbant
+pagal darbo sutartį, narystės ar tarnybos pagrindu, ir dalijant iš būtinojo
+invalidumo pensijai stažo. 
             Valstybinė socialinio draudimo invalidumo
 pensija III grupės invalidams apskaičiuojama taip kaip II grupės invalidams, o
 po to mažinama 50 procentų.
@@ -861,58 +756,7 @@ pakeitimai:
 Nr. VIII-1510, 99.12.23, Žin., 1999,
 Nr.110-3208 (99.12.29), įsigalioja 2000.01.01
  
-32 straipsnis. Invalidumo pensijų mokėjimas invalidams, turintiems draudžiamųjų
-
-pajamų
-Sukakusiems nustatytą senatvės pensijos
-amžių (18, 22 straipsniai) ir vyresniems invalidams, kurie po valstybinės
-socialinio draudimo invalidumo pensijos paskyrimo turi pajamų, nuo kurių
-skaičiuojamos ir mokamos privalomosios valstybinio socialinio pensijų draudimo
-įmokos, arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant
-darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar
-bedarbio pašalpas (toliau šiame straipsnyje - draudžiamosios
-pajamos), jeigu jie turi būtinąjį invalidumo pensijai valstybinio socialinio
-pensijų draudimo stažą (28 straipsnis, 46 straipsnio pirmoji dalis), mokama
-visa paskirta valstybinė socialinio draudimo invalidumo pensija, kai jų
-draudžiamosios pajamos neviršija  1 minimalios mėnesinės  algos. Jeigu
-nurodytų  asmenų  draudžiamosios pajamos viršija  1 minimalią mėnesinę algą,
-bet neviršija 1,5 minimalios mėnesinės algos, jiems mokama pagrindinė
-paskirtos  valstybinės socialinio draudimo invalidumo  pensijos dalis (29
-straipsnio antroji ir ketvirtoji dalys) ir  paskirtos invalidumo
-pensijos papildomos dalies (toliau šiame straipsnyje – papildoma dalis) dalis,
-kurią sudaro šių dydžių suma:
-1) 50 procentų papildomos dalies, neviršijančios
-100 litų;
-2) 20 procentų papildomos dalies, kuri
-yra nuo 100,01 iki 200 litų;
-3) 10 procentų papildomos dalies, kuri
-yra nuo 200,01 iki 300 litų.
-Invalidumo pensijos papildomos dalies,
-kuri viršija 300 litų, dalis nemokama.
-Jeigu šio straipsnio
-pirmojoje dalyje nurodytų  asmenų draudžiamosios pajamos viršija 
-1,5 minimalios mėnesinės algos,  jiems mokama pagrindinė paskirtos valstybinės
-socialinio draudimo invalidumo  pensijos dalis. 
-Nesukakusiems senatvės pensijos
-amžiaus invalidams, kurie po valstybinės socialinio draudimo invalidumo
-pensijos paskyrimo turi draudžiamųjų pajamų, jeigu šie invalidai turi būtinąjį
-invalidumo pensijai valstybinio socialinio pensijų draudimo stažą, išskyrus I
-grupės invalidus, kuriems mokant pensiją būtinojo stažo reikalavimas
-netaikomas, mokama: 
-1) I grupės invalidams - visa paskirta valstybinė
-socialinio draudimo invalidumo pensija, nepaisant draudžiamųjų pajamų; 
-2) II ir III grupių invalidams, kurių
-draudžiamosios pajamos neviršija 1,5 minimalios mėnesinės algos, - visa paskirta valstybinė socialinio draudimo invalidumo pensija; 
-3) II ir III grupių invalidams, kurių
-draudžiamosios pajamos viršija 1,5 minimalios mėnesinės algos, - pagrindinė paskirtos valstybinės socialinio draudimo invalidumo
-pensijos dalis ir 50 procentų papildomos dalies. 
-Šio straipsnio pirmojoje, antrojoje,
-trečiojoje ir ketvirtojoje dalyse nurodytiems invalidams, kurie turi
-draudžiamųjų pajamų, jeigu jie neturi būtinojo invalidumo pensijai valstybinio
-socialinio pensijų draudimo stažo, valstybinė socialinio draudimo invalidumo
-pensija nemokama (išskyrus šio straipsnio ketvirtojoje  dalyje nurodytus I
-grupės invalidus, kuriems mokant pensiją būtinojo stažo reikalavimas
-netaikomas).
+32 straipsnis. Neteko galios nuo 2003 m. sausio 1 d.
 Straipsnio
 pakeitimai:
 Nr.I-724,
@@ -925,6 +769,8 @@ Nr. IX-109, 2000 12 21, Žin., 2000, Nr.
 111-3573 (2000 12 29), įsigalioja nuo 2001 01 01
 Nr. IX-307, 2001 05 08, Žin., 2001, Nr.
 43-1487 (2001 05 23), įsigalioja nuo 2001 07 01
+Nr. IX-1295,
+2003-01-16, Žin., 2003, Nr. 12-437 (2003-01-31)
  
 IV SKYRIUS. VALSTYBINĖS SOCIALINIO DRAUDIMO NAŠLIŲ IR
 NAŠLAIČIŲ
@@ -936,12 +782,12 @@ našlaičių pensiją
 našlių ar našlaičių pensiją turi šiame įstatyme nurodyti mirusiojo (arba
 nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu), drausto
 valstybiniu socialiniu pensijų draudimu, asmens sutuoktinis bei vaikai, taip
-pat jiems prilyginti asmenys, jei miręs asmuo buvo įgijęs šio įstatymo
-nustatytą teisę gauti valstybinę socialinio draudimo invalidumo pensiją (jei
-būtų tapęs invalidu) ar senatvės pensiją arba tokią pensiją gavo. Našlė arba
-našlys, neturėję su mirusiu sutuoktiniu vaikų, turi teisę gauti pensiją tik tuo
-atveju, jei nuo santuokos įregistravimo nustatyta tvarka iki sutuoktinio
-mirties dienos praėjo ne mažiau kaip 5 metai.
+pat jiems prilyginti asmenys, jei miręs asmuo buvo įgijęs šio įstatymo nustatytą
+teisę gauti valstybinę socialinio draudimo invalidumo pensiją (jei būtų tapęs
+invalidu) ar senatvės pensiją arba tokią pensiją gavo. Našlė arba našlys,
+neturėję su mirusiu sutuoktiniu vaikų, turi teisę gauti pensiją tik tuo atveju,
+jei nuo santuokos įregistravimo nustatyta tvarka iki sutuoktinio mirties dienos
+praėjo ne mažiau kaip 5 metai.
             Našlių ir našlaičių pensija neskiriama, o
 paskirtosios mokėjimas nutraukiamas asmenims, teismo nuosprendžiu pripažintiems
 kaltais už tyčinio nusikaltimo mirusiajam, už kurį ši pensija skiriama ar
@@ -951,42 +797,6 @@ pakeitimai:
 Nr. VIII-188,
 97.04.22, Žin., 1997, Nr.38-924 (97.05.02)
  
-            34 straipsnis. Asmenys, turintys teisę
-gauti našlių pensiją
-            Teisę gauti valstybinę socialinio draudimo
-našlių pensiją turi vienas iš šių asmenų:
-            našlė arba našlys, auginantys mirusio
-asmens vaikus (įvaikius), taip pat slaugantys namuose mirusiojo vaikus
-(įvaikius) I grupės invalidus, tapusius invalidais iki 18 metų, jeigu šiems
-vaikams (įvaikiams) mokama našlaičių pensija;
-            našlė arba našlys, kurie sukako senatvės
-pensijos amžių ar buvo pripažinti invalidais tuo metu, kai augino mirusio
-asmens vaikus (įvaikius), taip pat slaugė namuose mirusiojo vaikus (įvaikius) I
-grupės invalidus, tapusius invalidais iki 18 metų, jeigu šie vaikai (įvaikiai)
-tuo metu gavo ar turėjo teisę gauti našlaičių pensiją;
-            našlė arba našlys, kurie sukako senatvės
-pensijos amžių ar buvo pripažinti invalidais iki sutuoktinio mirties arba
-sukako tokį amžių ar pripažinti invalidais per 5 metus po sutuoktinio mirties.
-Našlė arba našlys, neturėję su mirusiu sutuoktiniu vaikų, turi teisę gauti
-pensiją tik tuo atveju, jei nuo santuokos įregistravimo nustatyta tvarka iki
-sutuoktinio mirties dienos praėjo ne mažiau kaip 5 metai; 
-            faktinis sutuoktinis, jei turėjo su
-mirusiuoju vaikų, kuriuos augina arba kuriuos slaugo namuose dėl to, kad jie
-yra I grupės invalidai, tapę invalidais iki 18 metų, jeigu šiems vaikams mokama
-našlaičių pensija ir jeigu nėra mirusio asmens sutuoktinio, kuriam gali būti
-paskirta našlių pensija.
-            Jei nėra šio straipsnio pirmojoje dalyje
-išvardytų asmenų, teisę gauti našlių pensiją turi nustatyta tvarka pripažintas
-globėju asmuo, auginantis mirusio asmens vaikus (įvaikius), taip pat slaugantis
-namuose mirusiojo vaikus (įvaikius) I grupės invalidus, tapusius invalidais iki
-18 metų, jeigu šiems vaikams (įvaikiams) mokama našlaičių pensija.
-            Našlei ar našliui, taip pat faktiniam
-sutuoktiniui, gaunančiam našlių pensiją, pensijos mokėjimas nutraukiamas naujai
-susituokus. Asmeniui, turinčiam teisę gauti kelias našlių pensijas, jo pasirinkimu
-skiriama ir mokama tik viena iš jų.
- 
-[34
-straipsnio redakcija nuo 2003 m. sausio 1 d.:
 34 straipsnis. Asmenys, turintys
 teisę gauti našlių pensiją
 Teisę gauti valstybinę socialinio
@@ -1029,7 +839,7 @@ grupės invalidus, tapusius invalidais iki 18 metų, jeigu šiems vaikams
 Našlei ar našliui, taip pat faktiniam
 sutuoktiniui, gaunančiam našlių pensiją, pensijos mokėjimas nutraukiamas naujai
 susituokus. Asmeniui, turinčiam teisę gauti kelias našlių pensijas, jo
-pasirinkimu skiriama ir mokama tik viena iš jų.]
+pasirinkimu skiriama ir mokama tik viena iš jų.
 Straipsnio
 pakeitimai:
 Nr.I-1011,
@@ -1049,18 +859,10 @@ vyresni, jei jie tapo invalidais iki 18 metų. Mirusiojo posūniai ir podukros,
 kurie iki jo mirties neturėjo teisės gauti našlaičių pensijos, turi teisę gauti
 valstybinę socialinio draudimo našlaičių pensiją tokiomis pat sąlygomis, kaip
 ir vaikai.
-            Nustatyta tvarka įregistruotų aukštųjų,
-aukštesniųjų, profesinių bei vidurinių mokyklų dieninių skyrių studentai ir
-moksleiviai turi teisę gauti našlaičių pensiją iki šių mokyklų baigimo, bet ne
-ilgiau kaip iki jiems sukaks 24 metai.
- 
-[2 dalies
-redakcija nuo 2003 m. sausio 1 d.:
 Nustatyta tvarka įregistruotų aukštųjų,
 aukštesniųjų, profesinių bei bendrojo lavinimo mokyklų dieninių skyrių
 studentai ir moksleiviai turi teisę gauti našlaičių pensiją iki šių mokyklų
-baigimo, bet ne ilgiau, negu kol jiems sukaks 24 metai.]
- 
+baigimo, bet ne ilgiau, negu kol jiems sukaks 24 metai.
             Mirusiojo vaikams, turintiems teisę gauti
 našlaičių pensiją, ši teisė išlieka taip pat tada, kai juos kas nors įvaikina. 
 Straipsnio
@@ -1068,19 +870,20 @@ pakeitimai:
 Nr. IX-1245,
 2002-12-10, Žin., 2002, Nr. 124-5620 (2002-12-27), įsigalioja nuo 2003-01-01
  
-36 straipsnis. Našlių ir našlaičių pensijos dydis
-Asmeniui, turinčiam teisę gauti
-našlių pensiją (34 straipsnis), našlių pensija skiriama 20 procentų mirusiam
-asmeniui galėjusios priklausyti valstybinės socialinio draudimo II grupės
-invalidumo pensijos dydžio (29 straipsnis), apskaičiuoto pagal 2002 metų kovo
-mėnesį buvusį valstybinės socialinio draudimo bazinės pensijos dydį ir 2002
-metų kovo mėnesį galiojusias vidutines mėnesines draudžiamąsias pajamas. Jeigu
-pagal 34 straipsnio antrąją dalį teisę gauti našlių pensiją turi keli globėjai,
+36 straipsnis. Našlių ir našlaičių
+pensijos dydis
+Asmeniui, turinčiam teisę gauti našlių
+pensiją (34 straipsnis), našlių pensija skiriama 20 procentų mirusiam asmeniui
+galėjusios priklausyti valstybinės socialinio draudimo II grupės invalidumo
+pensijos dydžio (29 straipsnis), apskaičiuoto pagal 2002 metų kovo mėnesį
+buvusį valstybinės socialinio draudimo bazinės pensijos dydį ir 2002 metų kovo mėnesį
+galiojusias vidutines mėnesines draudžiamąsias pajamas. Jeigu pagal 34
+straipsnio antrąją dalį teisę gauti našlių pensiją turi keli globėjai,
 kiekvienam skiriama po lygiai, bet ne daugiau kaip 20 procentų viso šioje
 dalyje nustatyta tvarka apskaičiuotos II grupės invalidumo pensijos dydžio.
 Patvirtinus naują, didesnį valstybinės socialinio draudimo bazinės pensijos
-dydį ar naujas, didesnes vidutines mėnesines draudžiamąsias pajamas, našlių
-pensijos nedidinamos.
+dydį ar naujas, didesnes einamųjų metų draudžiamąsias pajamas, našlių pensijos
+nedidinamos. 
 Asmeniui, turinčiam teisę gauti
 našlaičių pensiją (35 straipsnis), našlaičių pensija skiriama 25 procentų
 mirusiam asmeniui galėjusios priklausyti valstybinės socialinio draudimo II
@@ -1092,7 +895,7 @@ kai nėra asmenų, turinčių teisę gauti našlių pensiją, kiekvienam našlai
 skiriama po lygiai, bet ne daugiau kaip po 25 procentus apskaičiuotos II grupės
 invalidumo pensijos ir ne daugiau kaip 100 procentų šios pensijos dydžio.
 Patvirtinus naują, didesnį valstybinės socialinio draudimo bazinės pensijos
-dydį ar naujas, didesnes vidutines mėnesines draudžiamąsias pajamas, našlaičių
+dydį ar naujas, didesnes einamųjų metų draudžiamąsias pajamas, našlaičių
 pensijos yra atitinkamai didinamos.
 Senatvės ar invalidumo pensininkui
 mirus, valstybinės socialinio draudimo našlių pensijos dydžiui (šio straipsnio
@@ -1100,24 +903,27 @@ pirmoji dalis) nustatyti naudojamas mirusiajam paskirtos senatvės ar invalidumo
 pensijos dydis, apskaičiuotas pagal 2002 metų kovo mėnesį buvusį valstybinės
 socialinio draudimo bazinės pensijos dydį ir 2002 metų kovo mėnesį galiojusias
 vidutines mėnesines draudžiamąsias pajamas, netaikant III grupės invalidumo
-pensijos mažinimo (29 straipsnio ketvirtoji dalis). Patvirtinus naują, didesnį
-valstybinės socialinio draudimo bazinės pensijos dydį ar naujas, didesnes
-vidutines mėnesines draudžiamąsias pajamas, našlių pensijos nedidinamos.
+pensijos mažinimo 
+(29 straipsnio ketvirtoji dalis). Patvirtinus naują, didesnį valstybinės
+socialinio draudimo bazinės pensijos dydį ar naujas, didesnes einamųjų metų
+draudžiamąsias pajamas, našlių pensijos nedidinamos. 
 Senatvės ar invalidumo pensininkui
 mirus, valstybinės socialinio draudimo našlaičių pensijos apskaičiuojamos pagal
 mirusiojo gautos senatvės ar invalidumo pensijos dydį šio straipsnio antrojoje
 dalyje nustatyta tvarka, netaikant III grupės invalidumo pensijos mažinimo (29
 straipsnio ketvirtoji dalis). Patvirtinus naują, didesnį valstybinės socialinio
-draudimo bazinės pensijos dydį ar naujas, didesnes vidutines mėnesines
-draudžiamąsias pajamas, našlaičių pensijos yra atitinkamai didinamos.
+draudimo bazinės pensijos dydį ar naujas, didesnes einamųjų metų draudžiamąsias
+pajamas, našlaičių pensijos yra atitinkamai didinamos.
 Straipsnio
 pakeitimai:
 Nr. VIII-188,
 97.04.22, Žin., 1997, Nr.38-924 (97.05.02)
 Nr. VIII-905,
 98.10.22, Žin., 1998, Nr.98-2707 (98.11.11)
-Nr. IX-845, 2002-04-16,
-Žin., 2002, Nr. 47-1796 (2002-05-10), įsigalioja 2002-05-01
+Nr. IX-845,
+2002-04-16, Žin., 2002, Nr. 47-1796 (2002-05-10), įsigalioja 2002-05-01
+Nr. IX-1247,
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
  
             37 straipsnis. Našlaičių, netekusių abiejų
 tėvų, pensijos apskaičiavimas
@@ -1137,31 +943,20 @@ skiria ir moka Valstybinio socialinio draudimo fondo valdybos teritoriniai
 skyriai vadovaudamiesi šiuo įstatymu bei Lietuvos Respublikos Vyriausybės
 patvirtintais Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo
 nuostatais.
-            Pensijas moka Valstybinio socialinio
-draudimo fondo valdybos teritoriniai skyriai pagal nuolatinę arba faktinę
-pensininko gyvenamąją vietą. Paslaugas, susijusias su pensijų pristatymu, už
-sutartą kainą gali teikti pašto ir kitos įmonės konkurso tvarka. Konkursą
-skelbia ir rezultatus tvirtina Valstybinio socialinio draudimo fondo taryba.
-Jeigu konkurse dalyvauja daugiau kaip viena įmonė ir jų siūloma pensijų
-pristatymo kaina ir kitos sąlygos vienodos, pirmenybė teikiama paštui.
- 
-[2 dalies
-redakcija nuo 2003 m. sausio 1 d.:
 Pensijas moka Valstybinio socialinio
 draudimo fondo valdybos teritoriniai skyriai pagal nuolatinę arba faktinę
 pensininko gyvenamąją vietą. Paslaugas, susijusias su pensijų pristatymu, už
-sutartą kainą gali teikti pašto ir kitos įmonės konkurso tvarka. Konkursai
-rengiami Viešųjų pirkimų įstatymo nustatyta tvarka. Jeigu konkurse dalyvauja
-daugiau kaip viena įmonė ir jų siūloma pensijų pristatymo kaina ir kitos
-sąlygos vienodos, pirmenybė teikiama paštui.]
- 
+sutartą kainą gali teikti pašto ir kitos įmonės konkurso tvarka. Konkursai rengiami
+Viešųjų pirkimų įstatymo nustatyta tvarka. Jeigu konkurse dalyvauja daugiau
+kaip viena įmonė ir jų siūloma pensijų pristatymo kaina ir kitos sąlygos
+vienodos, pirmenybė teikiama paštui.
             Kreiptis dėl pensijos paskyrimo galima
 prieš tris mėnesius iki teisės gauti valstybinę socialinio draudimo senatvės
 pensiją atsiradimo arba bet kuriuo metu po teisės gauti valstybinę socialinio
 draudimo pensiją atsiradimo.
-            Kreipiantis dėl pensijos, privaloma pateikti
-visus Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose
-nurodytus dokumentus, būtinus pensijai paskirti.
+            Kreipiantis dėl pensijos, privaloma
+pateikti visus Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo
+nuostatuose nurodytus dokumentus, būtinus pensijai paskirti.
             Valstybinio socialinio draudimo fondo
 valdybos teritorinis skyrius per Valstybinių socialinio draudimo pensijų
 skyrimo ir mokėjimo nuostatuose nustatytą laiką privalo priimti sprendimą apie
@@ -1197,17 +992,11 @@ gavėjas dėl pateisinamos priežasties pavėluotai kreipiasi dėl pensijos mok�
 pratęsimo, pensija nepriskaičiuojant palūkanų išmokama už visą laiką, bet ne
 ilgiau kaip už 3 metus, kai jos mokėjimas buvo nutrauktas, o pensijos gavėjui
 teisė gauti pensiją buvo išlikusi. Jei pateisinamos priežasties nėra, bet teisė
-gauti pensiją išlieka, pensijos mokėjimas atnaujinamas nuo dokumentų dėl
-pensijos pratęsimo pateikimo dienos.
-            Pensininkui mirus, pensija išmokama jį
-laidojusiems asmenims už mirties mėnesį, jei ji dar nebuvo išmokėta, ir dar
-tokio pat dydžio už du mėnesius. 
- 
-[5 dalies
-redakcija nuo 2003 m. sausio 1 d.:
+gauti pensiją išlieka, pensijos mokėjimas atnaujinamas nuo dokumentų dėl pensijos
+pratęsimo pateikimo dienos.
 Pensininkui mirus, pensija išmokama jį
 laidojusiems asmenims už mirties mėnesį, jei ji dar nebuvo išmokėta, ir dar
-paskirtos pensijos dydžio už du mėnesius.]
+paskirtos pensijos dydžio už du mėnesius.
 Straipsnio
 pakeitimai:
 Nr. VIII-1292,
@@ -1218,50 +1007,30 @@ Nr. IX-1245,
  
 40 straipsnis. Pensijos skyrimas iš
 naujo
-Jei
-asmuo, kuriam paskirta valstybinė socialinio draudimo senatvės pensija, įgyja
-papildomą, ne mažesnį kaip 3 metų valstybinio socialinio pensijų draudimo stažą
-dirbdamas pagal darbo sutartį, narystės ar tarnybos pagrindu, pensija jo
-prašymu gali būti paskirta iš naujo pagal naujus duomenis.
-            Jei asmeniui nustatoma sunkesnio
-invalidumo grupė, valstybinė socialinio draudimo invalidumo pensija jo
-pageidavimu skiriama iš naujo pagal naujus duomenis arba mokama pagal
-ankstesnius stažo ir uždarbio duomenis, didinant ją dvigubai (nustačius vietoj
-III grupės II) arba pradedant mokėti 1,5 bazinės pensijos dydžio pagrindinę
-pensijos dalį (nustačius vietoj II grupės I). Jei nustatoma lengvesnio
-invalidumo grupė, valstybinė socialinio draudimo invalidumo pensija (jei ji
-buvo paskirta anksčiau) neskiriama iš naujo, o mokama pagal ankstesnius stažo
-ir uždarbio duomenis pradedant mokėti bazinės pensijos dydžio pagrindinę
-pensijos dalį (nustačius vietoj I grupės II) arba mokama 50 procentų
-mažesnė pensija (nustačius vietoj II grupės III).
- 
-[40
-straipsnio redakcija nuo 2003 m. sausio 1 d.:
-40 straipsnis. Pensijos skyrimas iš
-naujo
 Jei asmuo,
-kuriam paskirta valstybinė socialinio draudimo senatvės ar invalidumo pensija, įgyja
-papildomą, ne mažesnį kaip 3 metų valstybinio socialinio pensijų draudimo stažą
-dirbdamas pagal darbo sutartį, narystės ar tarnybos pagrindu, pensija jo
+kuriam paskirta valstybinė socialinio draudimo senatvės ar invalidumo pensija,
+įgyja papildomą, ne mažesnį kaip 3 metų valstybinio socialinio pensijų draudimo
+stažą dirbdamas pagal darbo sutartį, narystės ar tarnybos pagrindu, pensija jo
 prašymu gali būti paskirta iš naujo pagal naujus duomenis.
-Jeigu senatvės ar invalidumo pensininkas,
-kuriam pagal šio įstatymo nuostatas buvo paskirta pensija turint minimalų, bet
-neturint būtinojo stažo, po pensijos paskyrimo dirbdamas pagal darbo sutartį,
-narystės ar tarnybos pagrindu arba dirbdamas savarankiškai įgyja būtinąjį
-stažą, jo prašymu senatvės ar invalidumo pensija jam gali būti skiriama iš
-naujo, nepaisant to, kad po pensijos paskyrimo jo įgytas valstybinio socialinio
-pensijų draudimo stažas buvo mažesnis kaip 3 metai. 
+Jeigu senatvės ar invalidumo
+pensininkas, kuriam pagal šio įstatymo nuostatas buvo paskirta pensija turint
+minimalų, bet neturint būtinojo stažo, po pensijos paskyrimo dirbdamas pagal
+darbo sutartį, narystės ar tarnybos pagrindu arba dirbdamas savarankiškai įgyja
+būtinąjį stažą, jo prašymu senatvės ar invalidumo pensija jam gali būti
+skiriama iš naujo, nepaisant to, kad po pensijos paskyrimo jo įgytas
+valstybinio socialinio pensijų draudimo stažas buvo mažesnis kaip 3
+metai. 
 Jei asmeniui nustatoma sunkesnio
 invalidumo grupė, valstybinė socialinio draudimo invalidumo pensija jo
-pageidavimu skiriama iš naujo pagal naujus duomenis arba mokama pagal
-ankstesnius stažo ir uždarbio duomenis, didinant ją dvigubai (nustačius vietoj
-III grupės II) arba pradedant mokėti 1,5 bazinės pensijos dydžio pagrindinę
-pensijos dalį (nustačius vietoj II grupės I). Jei nustatoma lengvesnio
-invalidumo grupė, valstybinė socialinio draudimo invalidumo pensija (jeigu ji
-buvo paskirta anksčiau) neskiriama iš naujo, o mokama pagal ankstesnius stažo
-ir uždarbio duomenis pradedant mokėti bazinės pensijos dydžio pagrindinę
-pensijos dalį (nustačius vietoj I grupės II) arba mokama 50 procentų mažesnė
-pensija (nustačius vietoj II grupės III).]
+pageidavimu skiriama iš naujo pagal naujus duomenis arba mokama pagal ankstesnius
+stažo ir uždarbio duomenis, didinant ją dvigubai (nustačius vietoj III grupės
+II) arba pradedant mokėti 1,5 bazinės pensijos dydžio pagrindinę pensijos dalį
+(nustačius vietoj II grupės I). Jei nustatoma lengvesnio invalidumo grupė,
+valstybinė socialinio draudimo invalidumo pensija (jeigu ji buvo paskirta
+anksčiau) neskiriama iš naujo, o mokama pagal ankstesnius stažo ir uždarbio
+duomenis pradedant mokėti bazinės pensijos dydžio pagrindinę pensijos dalį
+(nustačius vietoj I grupės II) arba mokama 50 procentų mažesnė pensija
+(nustačius vietoj II grupės III).
 Straipsnio
 pakeitimai:
 Nr. VIII-905,
@@ -1351,23 +1120,15 @@ draudimo senatvės ir invalidumo pensijos buvo paskirtos iki šio įstatymo
 byloje fiksuotais stažo ir uždarbio duomenimis (47 ir 48 straipsniai). Jeigu
 pensijos byloje uždarbio duomenys buvo fiksuoti kelis kartus, pensijai
 perskaičiuoti nuo 1995 m. spalio 1 d. imamas tas fiksuotas uždarbis, kuriuo
-remiantis apskaičiuotas asmens draudžiamųjų pajamų koeficientas yra
-didžiausias. Jeigu pensininkai pageidauja, jie gali papildyti pensijos byloje
-esančius duomenis apie valstybinio socialinio pensijų draudimo stažui prilyginamus
-pagal 52 straipsnio nuostatas laikotarpius. Pageidaujantys taip pat gali
-pateikti kito laikotarpio duomenis apie uždarbį buvusia iki šio įstatymo
-įsigaliojimo tvarka, patikslinta Valstybinių socialinio draudimo pensijų
-skyrimo ir mokėjimo nuostatuose. Pateikus naujus duomenis iki 1996 m. liepos 1
-d., pensijos perskaičiuojamos nuo 1995 m. spalio 1 d., pateikus juos vėliau -
-nuo mėnesio, einančio po dokumentų pateikimo mėnesio, pirmos dienos.
-            Asmenų, kuriems valstybinė socialinio
-draudimo senatvės pensija buvo paskirta iki šio įstatymo įsigaliojimo ir
-kuriems po to ne mažiau kaip 3 metais padidėjo valstybinio socialinio pensijų
-draudimo stažas, pageidavimu pensija gali būti paskirta iš naujo remiantis šio
-įstatymo nuostatomis dėl naujai skiriamų pensijų.
- 
-[2 dalies
-redakcija nuo 2003 m. sausio 1 d.:
+remiantis apskaičiuotas asmens draudžiamųjų pajamų koeficientas yra didžiausias.
+Jeigu pensininkai pageidauja, jie gali papildyti pensijos byloje esančius
+duomenis apie valstybinio socialinio pensijų draudimo stažui prilyginamus pagal
+52 straipsnio nuostatas laikotarpius. Pageidaujantys taip pat gali pateikti
+kito laikotarpio duomenis apie uždarbį buvusia iki šio įstatymo įsigaliojimo
+tvarka, patikslinta Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo
+nuostatuose. Pateikus naujus duomenis iki 1996 m. liepos 1 d., pensijos
+perskaičiuojamos nuo 1995 m. spalio 1 d., pateikus juos vėliau - nuo mėnesio,
+einančio po dokumentų pateikimo mėnesio, pirmos dienos.
 Asmenų, kuriems valstybinė socialinio
 draudimo senatvės ar invalidumo pensija buvo paskirta iki šio įstatymo
 įsigaliojimo ir kuriems po to ne mažiau kaip 3 metais padidėjo valstybinio
@@ -1380,32 +1141,19 @@ neturint viso tuo metu reikalauto stažo pensijai skirti ir kurie po pensijos
 paskyrimo dirbdami pagal darbo sutartį, narystės ar tarnybos pagrindu arba
 dirbdami savarankiškai įgyja (įgijo) šio įstatymo nustatytą būtinąjį stažą,
 nepaisant to, kad po pensijos paskyrimo jų įgytas valstybinio socialinio
-pensijų draudimo stažas buvo mažesnis kaip 3 metai.]
- 
+pensijų draudimo stažas buvo mažesnis kaip 3 metai.
 Valstybinės socialinio draudimo našlių
-ir našlaičių pensijos už mirusius 1995 m. sausio 1 d. ir vėliau asmenis
-skiriamos pagal šio įstatymo 33-37 straipsnius. Už mirusius iki 1995 m. sausio
-1 d. asmenis našlių pensijos skiriamos pagal šio įstatymo 45(1)
-straipsnį, o našlaičių pensijos - pagal šio įstatymo 33, 35-37 straipsnius.
-Maitintojo netekimo pensijos, paskirtos buvusia iki šio įstatymo įsigaliojimo
-tvarka, pagal šį įstatymą neperskaičiuojamos ir kartu su senatvės, invalidumo,
-našlių ar našlaičių pensijomis nemokamos, išskyrus našlaičio pensiją, skiriamą
-už 1995 m. sausio 1 d. ir vėliau mirusį tėvą (motiną), kuri mokama kartu su
-maitintojo netekimo pensija už mirusį iki 1995 m. sausio 1 d. tėvą (motiną).
-Maitintojo netekimo pensijos mokamos Valstybinių socialinio draudimo pensijų
-skyrimo ir mokėjimo nuostatuose nustatyta tvarka.
-Ištarnauto laiko pensija perskaičiuojama
-į valstybinę socialinio draudimo senatvės ar invalidumo pensiją tik tuo atveju,
-jei jos gavėjas yra sukakęs šio įstatymo nustatytą senatvės pensijos amžių.
-Priešingu atveju pensininkui mokama paskirtoji pensija, indeksuojant ją šio
-įstatymo 50 straipsnyje nustatyta tvarka. Vidaus reikalų, Specialiųjų tyrimų
-tarnybos, krašto apsaugos, valstybės saugumo ir prokuratūros sistemų pareigūnų
-ir karių pensijų perskaičiavimo tvarką nustato Lietuvos Respublikos vidaus
-reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos ir
-prokuratūros pareigūnų ir karių valstybinių pensijų įstatymas.
- 
-[4 dalies
-redakcija nuo 2003 m. sausio 1 d.:
+ir našlaičių pensijos už mirusius 1995 m. 
+sausio 1 d. ir vėliau asmenis skiriamos pagal šio įstatymo 33-37 straipsnius.
+Už mirusius iki 1995 m. sausio 1 d. asmenis našlių pensijos skiriamos pagal šio
+įstatymo 45(1) straipsnį, o našlaičių pensijos - pagal šio įstatymo
+33, 35-37 straipsnius. Maitintojo netekimo pensijos, paskirtos buvusia iki šio
+įstatymo įsigaliojimo tvarka, pagal šį įstatymą neperskaičiuojamos ir kartu su
+senatvės, invalidumo, našlių ar našlaičių pensijomis nemokamos, išskyrus
+našlaičio pensiją, skiriamą už 1995 m. sausio 1 d. ir vėliau mirusį tėvą
+(motiną), kuri mokama kartu su maitintojo netekimo pensija už mirusį iki 1995
+m. sausio 1 d. tėvą (motiną). Maitintojo netekimo pensijos mokamos Valstybinių
+socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nustatyta tvarka.
 Ištarnauto laiko pensija perskaičiuojama
 į valstybinę socialinio draudimo senatvės ar invalidumo pensiją tik tuo atveju,
 jeigu jos gavėjas buvo sukakęs šio įstatymo nustatytą senatvės pensijos
@@ -1416,8 +1164,7 @@ krašto apsaugos, valstybės saugumo ir prokuratūros sistemų pareigūnų ir ka
 pensijų perskaičiavimo tvarką nustato Lietuvos Respublikos vidaus reikalų,
 Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros,
 Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir
-karių valstybinių pensijų įstatymas.]
- 
+karių valstybinių pensijų įstatymas.
 Valstybinio
 socialinio draudimo fondo valdybos teritoriniai skyriai privalo pradėti mokėti
 perskaičiuotas pensijas ne vėliau kaip praėjus 6 mėnesiams nuo šio įstatymo
@@ -1455,7 +1202,8 @@ buvo įgijęs minimalų valstybinio socialinio pensijų draudimo ar jam prilygin
 stažą invalidumo pensijai (28 ir 52 straipsniai) arba gavo valstybinę
 socialinio draudimo senatvės ar invalidumo pensiją. 
             Teisę gauti valstybinę socialinio draudimo
-našlių pensiją už mirusį iki 1995 m. sausio 1 d. sutuoktinį turi:
+našlių pensiją už mirusį iki 1995 m. 
+sausio 1 d. sutuoktinį turi:
             našlė arba našlys, kurie sukako senatvės
 pensijos amžių ar buvo pripažinti invalidais tuo metu, kai augino mirusio
 asmens vaikus (įvaikius), taip pat slaugė namuose mirusiojo vaikus (įvaikius) I
@@ -1468,9 +1216,9 @@ sukako tokį amžių ar pripažinti invalidais per 5 metus po sutuoktinio mirtie
 sutuoktiniu vaikų, turi teisę gauti pensiją tik tuo atveju, jei nuo santuokos
 įregistravimo nustatyta tvarka iki sutuoktinio mirties dienos praėjo ne mažiau
 kaip 5 metai. 
-            Šio straipsnio antrojoje dalyje išvardyti
-asmenys turi teisę gauti valstybinę socialinio draudimo našlių pensiją tik tuo
-atveju, jei sutuoktinis, miręs po Valstybinio socialinio draudimo įstatymo
+            Šio straipsnio antrojoje dalyje išvardyti asmenys
+turi teisę gauti valstybinę socialinio draudimo našlių pensiją tik tuo atveju,
+jei sutuoktinis, miręs po Valstybinio socialinio draudimo įstatymo
 įsigaliojimo, t.y. po 1991 m. birželio 1d., mirties metu buvo nuolatinis
 Lietuvos Respublikos gyventojas. 
             Našlei arba našliui, turinčiam teisę gauti
@@ -1500,8 +1248,8 @@ tai pagrindine perskaičiuotos pensijos dalimi laikoma atitinkamos
 pagrindinės valstybinės socialinio draudimo pensijos dalies dydžio dalis, kuri
 gaunama dauginant atitinkamos pagrindinės valstybinės socialinio draudimo
 pensijos dalies dydį (20 ir 29 straipsniai) iš pensijos byloje fiksuoto įrodyto
-stažo ir dalijant iš pensijos skyrimo metu reikalauto stažo viso dydžio
-pensijai skirti.
+stažo ir dalijant iš pensijos skyrimo metu reikalauto stažo viso dydžio pensijai
+skirti.
 Straipsnio
 pakeitimai:
 Nr.I-724,
@@ -1562,8 +1310,8 @@ Nr.I-1011,
 taisyklė
 Jei perskaičiavus pensiją jos dydis
 sumažėja palyginti su ankstesniu dydžiu, pensininkui toliau mokama anksčiau
-paskirtoji indeksuota pensija toliau indeksuojant ją šio įstatymo 50
-straipsnyje nustatyta tvarka.
+paskirtoji indeksuota pensija toliau indeksuojant ją šio įstatymo 
+50 straipsnyje nustatyta tvarka.
 Jei nustatoma sunkesnio invalidumo
 grupė asmeniui, kuriam buvo mokama neperskaičiuota invalidumo pensija pagal
 lengvesnio invalidumo grupę, šio asmens pageidavimu: 
@@ -1588,11 +1336,8 @@ dalyje nustatyta tvarka skiriama invalidumo pensija pagal naują grupę ir pagal
 duomenis;
 3) II grupės invalidui toliau mokama
 neperskaičiuota invalidumo pensija pagal anksčiau turėtą grupę, o III grupės
-invalidui toliau mokama pusė neperskaičiuotos invalidumo pensijos pagal
-anksčiau turėtą grupę, indeksuojant ją 50 straipsnio nustatyta tvarka.
- 
-[49
-straipsnis papildomas 4 dalimi nuo 2003 m. sausio 1 d.:
+invalidui toliau mokama pusė neperskaičiuotos invalidumo pensijos pagal anksčiau
+turėtą grupę, indeksuojant ją 50 straipsnio nustatyta tvarka.
 Jeigu asmeniui, kuriam buvo mokama
 neperskaičiuota invalidumo pensija ir buvo nustatyta sunkesnio ar lengvesnio
 invalidumo grupė ir invalidumo pensija buvo paskirta iš naujo pagal šio
@@ -1602,7 +1347,7 @@ turėta lengvesnio ar sunkesnio invalidumo grupė, pagal kurią buvo mokama
 neperskaičiuota invalidumo pensija, šio asmens pageidavimu jam gali būti
 atnaujinta neperskaičiuota invalidumo pensija pagal turėtą lengvesnio ar
 sunkesnio invalidumo grupę. Atnaujinta neperskaičiuota invalidumo pensija
-toliau indeksuojama 50 straipsnyje nustatyta tvarka.] 
+toliau indeksuojama 50 straipsnyje nustatyta tvarka. 
 Straipsnio
 pakeitimai:
 Nr.I-724,
@@ -1612,28 +1357,44 @@ Nr. VIII-846,
 Nr. VIII-1292,
 99.07.07, Žin., 1999, Nr.66-2115 (99.07.30),
 įsigalioja nuo 2000.01.01
-Nr. IX-1245,
-2002-12-10, Žin., 2002, Nr. 124-5620 (2002-12-27), įsigalioja nuo 2003-01-01
+Nr. IX-1245, 2002-12-10,
+Žin., 2002, Nr. 124-5620 (2002-12-27), įsigalioja nuo 2003-01-01
  
-            50 straipsnis. Neperskaičiuotos pensijos
-indeksavimas
-            Neperskaičiuota pensija indeksuojama
-kiekvieną kartą patvirtinus naują bazinės pensijos arba vidutinių mėnesinių
+50 straipsnis. Neperskaičiuotos
+pensijos indeksavimas
+Neperskaičiuota pensija indeksuojama
+kiekvieną kartą patvirtinus naują bazinės pensijos ir einamųjų metų
 draudžiamųjų pajamų dydį.
-            Pensijos dalis, neviršijanti naujo bazinės
-pensijos dydžio, indeksuojama kaip bazinė pensija, o likusi dalis - pagal
-naujai patvirtintų ir ankstesnių vidutinių mėnesinių draudžiamųjų pajamų
-santykį.
-            Jei neperskaičiuota pensija viršija ar po
-eilinio indeksavimo pradeda viršyti 500 litų, ji mokama 500 litų dydžio ir
-toliau nebeindeksuojama bei jokiu kitu būdu nedidinama, kol tam asmeniui
-mokėtina pagal šį įstatymą pensija ima viršyti 500 litų.
+Neperskaičiuotų senatvės, invalidumo,
+ištarnauto laiko, maitintojo netekimo pensijų dalis, neviršijanti 2002 metų
+gruodžio 31 dieną galiojusio bazinės pensijos dydžio, nuo 2003 metų sausio 1
+dienos toliau indeksuojama kaip pagrindinė pensijos dalis šio straipsnio
+trečiojoje dalyje nustatyta tvarka, atsižvelgiant į naujai patvirtintą bazinės
+pensijos dydį. 
+Indeksuojant neperskaičiuotos I grupės
+invalidumo pensijos pagrindinę dalį, prie jos pridedama 1,5 naujai patvirtintos
+bazinės pensijos prieaugio. Prie neperskaičiuotų senatvės, II grupės
+invalidumo, ištarnauto laiko, maitintojo netekimo pensijų pagrindinės dalies
+pridedamas 1 naujai patvirtintos bazinės pensijos prieaugis. Prie
+neperskaičiuotos III grupės invalidumo pensijos pagrindinės dalies pridedama 0,5
+naujai patvirtintos bazinės pensijos prieaugio. Šiuo būdu indeksuota
+neperskaičiuotos pensijos pagrindinė dalis laikoma nauja neperskaičiuotos
+pensijos pagrindine dalimi. 
+Likusi, atmetus pagrindinę pensijos
+dalį, nurodytų pensijų dalis indeksuojama pagal naujai patvirtintų einamųjų
+metų draudžiamųjų pajamų ir ankstesnių draudžiamųjų pajamų santykį.
+Jei neperskaičiuota pensija viršija ar po indeksavimo
+ima viršyti 500 litų, ji mokama 500 litų dydžio ir toliau nebeindeksuojama ir
+jokiu kitu būdu nedidinama, kol tam asmeniui mokėtina pagal šį įstatymą pensija
+ima viršyti 500 litų.
 Straipsnio
 pakeitimai:
 Nr.I-724,
 94.12.21, Žin., 1994, Nr.101-2017
 Nr.I-1052,
 95 09 28, Žin., 1995, Nr.84-1901 
+Nr. IX-1247,
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
  
 NAUJAI SKIRIAMOS PENSIJOS 
  
@@ -1648,19 +1409,19 @@ Nr. VIII-1292,
             52 straipsnis. Laikotarpiai, prilyginami
 valstybinio socialinio pensijų draudimo 
 stažui
-            Asmens valstybinio socialinio pensijų
-draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos
-pagrindu, prilyginami iki Valstybinio socialinio draudimo įstatymo įsigaliojimo
-buvę šie laikotarpiai:
+            Asmens valstybinio socialinio pensijų draudimo
+stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu,
+prilyginami iki Valstybinio socialinio draudimo įstatymo įsigaliojimo buvę šie
+laikotarpiai:
             1) visas darbininkų ir tarnautojų darbo
 laikas, taip pat kolūkio narių darbo kolūkiuose laikas bei Valstybinio
 socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nurodytų kitų
 asmenų, kurie pagal galiojusius įstatymus turėjo būti draudžiami valstybiniu
 socialiniu draudimu, darbo laikas;
-2) rašytojų sąjungos, dailininkų
-sąjungos, kompozitorių sąjungos, kinematografininkų sąjungos narių bei kitų
-kūrybinių darbuotojų, kurie nebuvo šių kūrybinių sąjungų nariai, bet kuriuos
-jungė šių kūrybinių sąjungų profesiniai komitetai, kūrybinės veiklos laikas
+2) rašytojų sąjungos, dailininkų sąjungos,
+kompozitorių sąjungos, kinematografininkų sąjungos narių bei kitų kūrybinių
+darbuotojų, kurie nebuvo šių kūrybinių sąjungų nariai, bet kuriuos jungė šių
+kūrybinių sąjungų profesiniai komitetai, kūrybinės veiklos laikas
 neatsižvelgiant į socialinio draudimo įmokų mokėjimą;
             3) tarnybos sukarintoje apsaugoje,
 specialaus ryšio institucijose ir specialiose gelbėjimo dalyse laikas
@@ -1760,34 +1521,11 @@ atitinkamai gavėjų kategorijai pajamos.
  
             54 straipsnis. Draudžiamųjų pajamų
 koeficiento apskaičiavimo ypatumai
-            Metiniams draudžiamųjų pajamų
-koeficientams apskaičiuoti iki 1995 metų sausio 1 dienos vietoj vidutinių
-mėnesinių draudžiamųjų pajamų naudojamas Statistikos departamento skelbiamas
-valstybinio sektoriaus, akcinių bei uždarųjų akcinių bendrovių darbuotojų
-apskaičiuotas vidutinis mėnesinis darbo užmokestis.
-Nuo šio įstatymo
-įsigaliojimo asmens draudžiamųjų pajamų koeficientai apskaičiuojami atskirai
-pagal penkerius paeiliui einančius to asmens pasirinktus palankiausius
-kalendorinius jo valstybinio socialinio pensijų draudimo stažo, įgyto dirbant
-pagal darbo sutartį, narystės ar tarnybos pagrindu (toliau šiame straipsnyje –
-stažas), metus iš laikotarpio nuo 1984 metų sausio 1 dienos iki 1994 metų
-sausio 1 dienos ir atskirai pagal visus metus, įskaitytus į valstybinio
-socialinio pensijų draudimo stažą, kai buvo dirbta pagal darbo sutartį,
-narystės ar tarnybos pagrindu, nuo 1994 metų sausio 1 dienos, bet ne daugiau
-kaip už 25 metus iš viso. Nuo 2004 metų sausio 1 dienos vidurkiui skaičiuoti
-įskaitomi tik ketveri paeiliui einantys asmeniui palankiausi stažo metai iš 1984-1993
-metų laikotarpio; nuo 2005 metų sausio 1 dienos – tik treji palankiausi metai
-ir t. t. iki 2008 metų sausio 1 dienos, kada asmens stažo metai, buvę iki 1994
-metų sausio 1 dienos, vidurkiui skaičiuoti neįskaitomi. Asmenims, iki 2008 metų
-sausio 1 dienos įgijusiems teisę gauti valstybinę socialinio draudimo senatvės
-pensiją, valstybinės socialinio draudimo senatvės pensijos papildomos dalies
-apskaičiavimo formulė (21 straipsnis) sudaroma iš dviejų atskirų dalių:
-pirmojoje dalyje įrašomas asmens stažas ir draudžiamųjų pajamų koeficientas iki
-1994 metų sausio 1 dienos, antrojoje dalyje – asmens stažas ir draudžiamųjų
-pajamų koeficientas nuo 1994 metų sausio 1 dienos.
- 
-[2 dalies
-redakcija nuo 2003 m. sausio 1 d.:
+Metiniams draudžiamųjų pajamų
+koeficientams apskaičiuoti iki 1995 metų sausio 1 dienos naudojamas Statistikos
+departamento paskelbtas atitinkamų metų valstybinio sektoriaus, akcinių bei
+uždarųjų akcinių bendrovių darbuotojų apskaičiuotas vidutinis mėnesinis darbo
+užmokestis.
 Nuo šio įstatymo įsigaliojimo asmens
 draudžiamųjų pajamų koeficientai apskaičiuojami atskirai pagal penkerius
 paeiliui einančius to asmens pasirinktus palankiausius kalendorinius jo
@@ -1805,14 +1543,13 @@ x K x D. Senatvės pensijos papildomos dalies pirmojoje dalyje įrašomas asmens
 stažas ir draudžiamųjų pajamų koeficientas iki 1994 metų sausio 1 dienos,
 antrojoje dalyje – asmens stažas ir draudžiamųjų pajamų koeficientas nuo 1994
 metų sausio 1 dienos. Asmenims, įgijusiems teisę gauti valstybinę socialinio
-draudimo senatvės pensiją pradedant 2009 metų sausio 1 diena ir vėliau, valstybinės
-socialinio draudimo senatvės pensijos papildomos dalies apskaičiavimo formulė
-sudaroma iš vienos dalies, kurioje įrašomas visas asmens įgytas stažas ir
-draudžiamųjų pajamų koeficientas, apskaičiuotas pagal asmens draudžiamąsias
-pajamas, turėtas nuo 1994 metų sausio 1 dienos, bet ne daugiau kaip pagal 25 to
-asmens pasirinktus palankiausius kalendorinius jo stažo metus (16  ir 21
-straipsniai).]
- 
+draudimo senatvės pensiją pradedant 2009 metų sausio 1 diena ir vėliau,
+valstybinės socialinio draudimo senatvės pensijos papildomos dalies
+apskaičiavimo formulė sudaroma iš vienos dalies, kurioje įrašomas visas asmens
+įgytas stažas ir draudžiamųjų pajamų koeficientas, apskaičiuotas pagal asmens
+draudžiamąsias pajamas, turėtas nuo 1994 metų sausio 1 dienos, bet ne daugiau
+kaip pagal 25 to asmens pasirinktus palankiausius kalendorinius jo stažo metus
+(16  ir 21 straipsniai).
             Asmens draudžiamųjų pajamų koeficientas
 pagal draudžiamąsias pajamas iki 1994 metų sausio 1 dienos ir po šios datos
 imamas ne didesnis kaip 5.
@@ -1825,20 +1562,20 @@ priežiūros atostogas, asmens draudžiamųjų pajamų koeficientas skaičiuojam
 pagal to laikotarpio minimalų mėnesinį darbo užmokestį. Jeigu visi archyviniai
 dokumentai išsaugoti, tačiau juose nėra duomenų apie asmens pajamas per
 valstybinio socialinio pensijų draudimo stažui prilygintą laiką, buvusį iki
-1991 metų birželio 1 dienos, asmens draudžiamųjų pajamų koeficientas skaičiuojamas
-laikant to laikotarpio pajamas nulinėmis.
+1991 metų birželio 1 dienos, asmens draudžiamųjų pajamų koeficientas
+skaičiuojamas laikant to laikotarpio pajamas nulinėmis.
 Jeigu asmuo neturi šio straipsnio
 antrojoje dalyje nurodytų palankiausių penkerių kalendorinių paeiliui einančių
 metų, tačiau kiekvienais metais per penkerius kalendorinius paeiliui einančius
-metus iš laikotarpio nuo 1984 metų sausio 1 dienos iki 1994 metų sausio 1
-dienos (toliau šioje dalyje – nurodytas laikotarpis) turėjo stažo, jo
+metus iš laikotarpio nuo 1984 metų sausio 1 dienos iki 1994 metų 
+sausio 1 dienos (toliau šioje dalyje – nurodytas laikotarpis) turėjo stažo, jo
 draudžiamųjų pajamų koeficientas skaičiuojamas pagal penkerius paeiliui
 einančius šio stažo metus. Jei asmuo nurodytu laikotarpiu turėjo stažo per
 penkerius ne paeiliui einančius kalendorinius metus, jo draudžiamųjų pajamų
 koeficientas apskaičiuojamas pagal penkerius ne paeiliui einančius stažo metus
-laikantis kalendorinės metų sekos. Jeigu asmuo nurodytu laikotarpiu stažo turėjo
-mažiau kaip per penkerius paeiliui ar nepaeiliui einančius kalendorinius metus
-arba nurodytu laikotarpiu iš viso stažo neturėjo, jo draudžiamųjų pajamų
+laikantis kalendorinės metų sekos. Jeigu asmuo nurodytu laikotarpiu stažo
+turėjo mažiau kaip per penkerius paeiliui ar nepaeiliui einančius kalendorinius
+metus arba nurodytu laikotarpiu iš viso stažo neturėjo, jo draudžiamųjų pajamų
 koeficientas apskaičiuojamas iki penkerių metų stažo trūkstamus metus imant iš
 ankstesnio laikotarpio, skaičiuojant atgal nuo 1983 metų iki 1974 metų imtinai.
 Straipsnio
@@ -1851,6 +1588,8 @@ Nr. IX-616,
 2001-11-20, Žin., 2001, Nr. 103-3658 (2001-12-07)
 Nr. IX-1245,
 2002-12-10, Žin., 2002, Nr. 124-5620 (2002-12-27), įsigalioja nuo 2003-01-01
+Nr. IX-1247,
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
  
             55 straipsnis. Pereinamojo laikotarpio
 senatvės pensijos amžiaus ir stažo 
@@ -1861,10 +1600,11 @@ sausio 1 dienos nustatomas 55 metai moterims ir
 Nuo 1995 ir kiekvienų vėlesnių metų
 sausio l dienos iki 2001 metų sausio 1 dienos senatvės pensijos amžius
 kasmet didinamas: moterims – keturiais mėnesiais per metus, vyrams – dviem
-mėnesiais per metus. Nuo 2001 metų sausio 1 dienos ir kiekvienų vėlesnių metų
+mėnesiais per metus. Nuo 2001 metų sausio 1 dienos ir kiekvienų vėlesnių metų 
 sausio l dienos senatvės pensijos amžius didinamas moterims ir vyrams šešiais
 mėnesiais per metus, kol pasieks šio įstatymo 18 straipsnyje nustatytą senatvės
-pensijos amžių: moterims – 60 metų, vyrams – 62 metus ir 6 mėnesius.
+pensijos amžių: moterims – 
+60 metų, vyrams – 62 metus ir 6 mėnesius.
             Būtinasis valstybinio socialinio pensijų
 draudimo stažas valstybinei socialinio draudimo senatvės pensijai iki 1995 metų
 sausio 1 dienos nustatomas 20 metų moterims ir 25 metai vyrams.
@@ -1879,8 +1619,6 @@ Nr.I-724,
 Nr. IX-84, 2000 12 19, Žin., 2000, Nr.
 111-3563 (2000 12 29), įsigalioja nuo 2001 01 01
  
-[Įstatymas
-papildomas 55(1) straipsniu nuo 2003 m. sausio 1 d.:
 55(1) straipsnis.
 Valstybinių socialinio draudimo senatvės ir invalidumo pensijų 
 padidinimo sąlygos
@@ -1901,21 +1639,19 @@ pensijos dydis arba paskirtų valstybinių socialinio draudimo pensijų ir
 Lietuvos Respublikos valstybinių pensijų dydžių suma ne didesnė kaip 325 Lt per
 mėnesį. Kai asmeniui paskirta ir mokama valstybinė socialinio draudimo III
 grupės invalidumo pensija, didinant šią pensiją atsižvelgiama į invalidumo
-pensijos dydį pagal II invalidumo grupę (29 straipsnio 4 dalis).]
+pensijos dydį pagal II invalidumo grupę (29 straipsnio 4 dalis).
 Įstatymas
 papildytas straipsniu:
 Nr. IX-1245,
 2002-12-10, Žin., 2002, Nr. 124-5620 (2002-12-27), įsigalioja nuo 2003-01-01
  
-[Įstatymas
-papildomas 55(2) straipsniu nuo 2003 m. sausio 1 d.:
 55(2) straipsnis.
 Valstybinių socialinio draudimo senatvės pensijų padidinimas
 Valstybinės
-socialinio draudimo senatvės pensijos padidinamos asmenims, turintiems ne
-mažesnį kaip 25 metų valstybinio socialinio pensijų draudimo stažą, įgytą
-dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu (52 straipsnio 1 ir
-2 dalys) iki 1995 metų sausio 1 dienos. Pensija padidinama pagal šią formulę:
+socialinio draudimo senatvės pensijos padidinamos asmenims, turintiems ne mažesnį
+kaip 25 metų valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal
+darbo sutartį, narystės ar tarnybos pagrindu (52 straipsnio 1 ir 2 dalys) iki
+1995 metų sausio 1 dienos. Pensija padidinama pagal šią formulę:
 PPs= [M+(R–M) BPS/R–BPS] S/Sn,
 kurioje:
 PPs – individualus senatvės
@@ -1925,31 +1661,29 @@ prieaugis – 50 Lt;
 R – senatvės pensijos padidinimo riba –
 325 Lt ;
 BPS – asmeniui
-paskirtos vienos valstybinės socialinio draudimo senatvės pensijos dydis arba
-paskirtų valstybinių socialinio draudimo pensijų ir Lietuvos Respublikos
-valstybinių pensijų dydžių suma;
+paskirtos vienos valstybinės socialinio draudimo senatvės pensijos dydis arba paskirtų
+valstybinių socialinio draudimo pensijų ir Lietuvos Respublikos valstybinių
+pensijų dydžių suma;
 S – asmens
 turimas visas valstybinio socialinio pensijų draudimo stažas, įgytas dirbant
 pagal darbo sutartį narystės ar tarnybos pagrindu;
 Sn – valstybinio socialinio
 pensijų draudimo stažo norma – 25 metai.
-Šio straipsnio pirmojoje dalyje nustatyta
-tvarka apskaičiavus individualų senatvės pensijos prieaugį PPs,
+Šio straipsnio pirmojoje dalyje
+nustatyta tvarka apskaičiavus individualų senatvės pensijos prieaugį PPs,
 asmens draudžiamųjų pajamų koeficientas, apskaičiuotas už laikotarpį iki 1994
 metų sausio 1 dienos, pakeičiamas  pagal formulę: 
-kp = k + PPs /0,005
-x s x D. 
+kp = k + PPs
+/0,005 x s x D. 
 Pakeistas koeficientas kp
 įrašomas senatvės pensijos papildomos dalies pirmosios dalies už laikotarpį iki
 1994 metų sausio 1 dienos apskaičiavimo formulėje (54 straipsnio 2 dalis)
-vietoj apskaičiuoto asmens draudžiamųjų pajamų koeficiento k.]
+vietoj apskaičiuoto asmens draudžiamųjų pajamų koeficiento k.
 Įstatymas
 papildytas straipsniu:
 Nr. IX-1245,
 2002-12-10, Žin., 2002, Nr. 124-5620 (2002-12-27), įsigalioja nuo 2003-01-01
  
-[Įstatymas
-papildomas 55(3) straipsniu nuo 2003 m. sausio 1 d.:
 55(3) straipsnis.
 Valstybinių socialinio draudimo invalidumo pensijų padidinimas
 Valstybinės
@@ -1964,17 +1698,16 @@ PPinv – individualus
 invalidumo pensijos prieaugis;
 M – maksimalus invalidumo pensijos
 prieaugis – 50 Lt; 
-R – invalidumo pensijos padidinimo riba –
-325 Lt;
+R – invalidumo pensijos padidinimo riba
+– 325 Lt;
 BPS – asmeniui
 paskirtos valstybinės socialinio draudimo invalidumo pensijos dydis arba
-paskirtų valstybinių socialinio draudimo pensijų ir Lietuvos Respublikos
-valstybinių pensijų dydžių suma. Kai asmeniui paskirta ir mokama valstybinė
-socialinio draudimo III grupės invalidumo pensija, didinant šią pensiją
-atsižvelgiama į invalidumo pensijos dydį pagal II invalidumo grupę (29
-straipsnio 4 dalis). 
-Šio straipsnio pirmojoje dalyje nustatyta
-tvarka apskaičiavus individualų invalidumo pensijos prieaugį PPinv,
+paskirtų valstybinių socialinio draudimo pensijų ir Lietuvos Respublikos valstybinių
+pensijų dydžių suma. Kai asmeniui paskirta ir mokama valstybinė socialinio
+draudimo III grupės invalidumo pensija, didinant šią pensiją atsižvelgiama į
+invalidumo pensijos dydį pagal II invalidumo grupę (29 straipsnio 4 dalis). 
+Šio straipsnio pirmojoje dalyje
+nustatyta tvarka apskaičiavus individualų invalidumo pensijos prieaugį PPinv,
 asmens draudžiamųjų pajamų koeficientas, apskaičiuotas už laikotarpį iki 1994
 metų sausio 1 dienos, pakeičiamas pagal formulę:
 kp = k + PPinv
@@ -1982,14 +1715,12 @@ kp = k + PPinv
 Pakeistas koeficientas kp
 įrašomas invalidumo pensijos papildomos dalies pirmosios dalies už laikotarpį
 iki 1994 metų sausio 1 dienos apskaičiavimo formulėje vietoj apskaičiuoto
-asmens draudžiamųjų pajamų koeficiento k.]
+asmens draudžiamųjų pajamų koeficiento k.
 Įstatymas
 papildytas straipsniu:
 Nr. IX-1245,
 2002-12-10, Žin., 2002, Nr. 124-5620 (2002-12-27), įsigalioja nuo 2003-01-01
  
-[Įstatymas
-papildomas 55(4) straipsniu nuo 2003 m. sausio 1 d.:
 55(4) straipsnis.
 Perskaičiuotų pagal šį įstatymą valstybinių socialinio draudimo 
 senatvės ir invalidumo pensijų
@@ -2014,34 +1745,33 @@ Kp = K +PPs /0,005
 x S x D  arba  Kp = K + PPinv /0,005 x S x D.
 Pakeistas koeficientas Kp
 įrašomas senatvės ir invalidumo pensijų papildomos dalies apskaičiavimo
-formulėje vietoj buvusio apskaičiuoto asmens draudžiamųjų pajamų koeficiento
-K.]
+formulėje vietoj buvusio apskaičiuoto asmens draudžiamųjų pajamų 
+koeficiento K.
 Įstatymas
 papildytas straipsniu:
 Nr. IX-1245,
 2002-12-10, Žin., 2002, Nr. 124-5620 (2002-12-27), įsigalioja nuo 2003-01-01
  
-[Įstatymas
-papildomas 55(5) straipsniu nuo 2003 m. sausio 1 d.:
 55(5) straipsnis.
 Neperskaičiuotų valstybinių socialinio draudimo senatvės ir 
 invalidumo pensijų padidinimas
-Pagal šio įstatymo 49 straipsnio 1 dalies
-nuostatas mokamos neperskaičiuotos senatvės ir invalidumo pensijos (toliau
-šiame straipsnyje - mokamos neperskaičiuotos pensijos) padidinamos esant 55(1)–55(3)
-straipsniuose nustatytoms stažo ir pensijos dydžio arba pensijų dydžių sumos
-sąlygoms. Neperskaičiuotos senatvės pensijos padidinamos pridedant prie
-asmeniui mokamos neperskaičiuotos senatvės pensijos prieaugį PPs (55(2
-)straipsnio 1 dalis), neperskaičiuotos I ir II grupių invalidumo pensijos
-– pridedant prie asmeniui mokamos neperskaičiuotos invalidumo pensijos prieaugį
-PPinv (55(3) straipsnio 1 dalis). Asmeniui mokama
-neperskaičiuota III grupės invalidumo pensija padidinama laikantis III grupės
-invalidumo pensijos apskaičiavimo nuostatų (29 straipsnio 4 dalis ir 49
-straipsnio 3 dalies 3 punktas). Mokama neperskaičiuota III grupės invalidumo
-pensija dauginama iš dviejų, gauta suma padidinama pridedant invalidumo
-pensijos prieaugį PPinv, paskui padidintos II grupės invalidumo
-pensijos suma mažinama 50 procentų. Padidintos neperskaičiuotos senatvės ir
-invalidumo pensijos toliau indeksuojamos 50 straipsnyje nustatyta tvarka.]
+Pagal šio įstatymo 49 straipsnio 1
+dalies nuostatas mokamos neperskaičiuotos senatvės ir invalidumo pensijos
+(toliau šiame straipsnyje - mokamos neperskaičiuotos pensijos) padidinamos esant
+55(1)–55(3) straipsniuose nustatytoms stažo ir pensijos
+dydžio arba pensijų dydžių sumos sąlygoms. Neperskaičiuotos senatvės pensijos
+padidinamos pridedant prie asmeniui mokamos neperskaičiuotos senatvės pensijos
+prieaugį PPs (55(2 )straipsnio 1 dalis), neperskaičiuotos
+I ir II grupių invalidumo pensijos – pridedant prie asmeniui mokamos
+neperskaičiuotos invalidumo pensijos prieaugį PPinv (55(3)
+straipsnio 1 dalis). Asmeniui mokama neperskaičiuota III grupės invalidumo
+pensija padidinama laikantis III grupės invalidumo pensijos apskaičiavimo
+nuostatų (29 straipsnio 4 dalis ir 49 straipsnio 3 dalies 3 punktas). Mokama
+neperskaičiuota III grupės invalidumo pensija dauginama iš dviejų, gauta suma
+padidinama pridedant invalidumo pensijos prieaugį PPinv, paskui
+padidintos II grupės invalidumo pensijos suma mažinama 50 procentų. Padidintos
+neperskaičiuotos senatvės ir invalidumo pensijos toliau indeksuojamos 50
+straipsnyje nustatyta tvarka.
 Įstatymas
 papildytas straipsniu:
 Nr. IX-1245,
@@ -2097,43 +1827,26 @@ kaip 15 metų, o moterims - ne mažiau kaip 10 metų;
             6) civilinės aviacijos inžinerijos -
 technikos darbuotojams, dirbusiems darbą pagal galiojusį iki šio įstatymo
 priėmimo civilinės aviacijos inžinerijos - technikos darbuotojų pareigų sąrašą,
-vyrams - išdirbusiems ne mažiau kaip 20 metų, moterims - ne mažiau kaip 15
-metų.
+vyrams - išdirbusiems ne mažiau kaip 20 metų, moterims - ne mažiau kaip 15 metų.
             Asmenims, išdirbusiems ne mažiau kaip pusę
 šio straipsnio antrojoje - ketvirtojoje dalyse nustatyto laiko kompensacijai už
 ypatingas darbo sąlygas gauti, išmokama kompensacijos dalis, proporcinga
 išdirbtam laikui. Jei kompensacijai gauti reikia išdirbti šiame straipsnyje
 nurodytomis sąlygomis ne mažiau kaip 10 metų, kompensacijos daliai gauti turi
 būti dirbta ne mažiau pusės šio laiko 1988- 1994 metais; jei reikia išdirbti ne
-daugiau kaip 15 metų, ne mažiau pusės šio laiko turi būti dirbta 1986- 1994
-metais; jei reikia išdirbti 20 metų, ne mažiau pusės šio laiko turi būti dirbta
+daugiau kaip 15 metų, ne mažiau pusės šio laiko turi būti dirbta 1986- 1994 metais;
+jei reikia išdirbti 20 metų, ne mažiau pusės šio laiko turi būti dirbta
 1983-1994 metais; jei reikia išdirbti 25 metus, ne mažiau pusės šio laiko turi
 būti dirbta 1980-1994 metais; jei reikia išdirbti 30 metų, ne mažiau pusės šio
 laiko turi būti dirbta 1978-1994 metais.
             Jei asmuo dėl šiame straipsnyje minėtų
 priežasčių turi teisę į kelias kompensacijas, tai išmokama tik didžiausioji.
-            Mėnesio kompensacijos dydis sudaro 150 procentų
-valstybinės socialinio draudimo bazinės pensijos. Asmenims, nurodytiems šio
-straipsnio trečiojoje dalyje ir ketvirtosios dalies 4 punkte, kompensacija gali
-būti mokama jų pasirinkto tvirto dydžio, tačiau ne mažiau kaip 50 procentų ir
-ne daugiau kaip 150 procentų valstybinės socialinio draudimo bazinės pensijos
-dydžio per mėnesį.
-Asmenims, išskyrus šio straipsnio
-trečiojoje dalyje ir ketvirtosios dalies 4 punkte nurodytuosius, turintiems
-teisę gauti visą kompensaciją arba jos dalį, kompensacija pradedama mokėti
-likus tiek mėnesių, iki jiems sukaks šio įstatymo nustatytas senatvės pensijos
-amžius, ir mokama, iki jiems sukaks senatvės pensijos amžius. Asmenims,
+            Mėnesio kompensacijos dydis sudaro 150
+procentų valstybinės socialinio draudimo bazinės pensijos. Asmenims,
 nurodytiems šio straipsnio trečiojoje dalyje ir ketvirtosios dalies 4 punkte,
-turintiems teisę gauti visą kompensaciją arba jos dalį, kompensacija gali būti
-pradėta mokėti anksčiau, jei jie nebedirba pagal pareigas, suteikusias teisę
-gauti kompensaciją. Kompensacija pradedama mokėti nuo jų pasirinktos datos
-pagal jų pareiškimą, paduotą Valstybinio socialinio draudimo fondo valdybos
-teritoriniam skyriui. Šiuo atveju bendras išmokėtinų mėnesio kompensacijų
-skaičius neturi viršyti šiam asmeniui priklausančių mėnesio kompensacijų
-skaičiaus.
- 
-[8 dalies
-redakcija nuo 2003 m. sausio 1 d.:
+kompensacija gali būti mokama jų pasirinkto tvirto dydžio, tačiau ne mažiau
+kaip 50 procentų ir ne daugiau kaip 150 procentų valstybinės socialinio
+draudimo bazinės pensijos dydžio per mėnesį.
 Asmenims, išskyrus šio straipsnio
 trečiojoje dalyje ir ketvirtosios dalies 4 punkte nurodytuosius, turintiems
 teisę gauti visą kompensaciją arba jos dalį, kompensacija pradedama mokėti
@@ -2150,18 +1863,16 @@ jeigu jie nebedirba pagal pareigas, suteikusias teisę gauti kompensaciją.
 Kompensacija pradedama mokėti nuo jų pasirinktos datos pagal jų pareiškimą,
 paduotą Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui.
 Šiuo atveju bendras išmokėtinų mėnesio kompensacijų skaičius neturi viršyti
-šiam asmeniui priklausančių mėnesio kompensacijų skaičiaus.]
- 
+šiam asmeniui priklausančių mėnesio kompensacijų skaičiaus.
 Kreiptis dėl kompensacijos paskyrimo ir
 mokėjimo galima prieš tris mėnesius iki teisės gauti kompensaciją atsiradimo
 dienos, nustatytos šio straipsnio aštuntojoje dalyje, arba bet kuriuo metu po
-teisės gauti kompensaciją atsiradimo dienos. Jeigu turintys teisę gauti
-kompensaciją asmenys dėl kompensacijos skyrimo kreipiasi po šio straipsnio
-aštuntojoje dalyje nustatytų kompensacijos mokėjimo pradžios terminų,
-kompensacija jiems mokama nuo teisės gauti kompensaciją atsiradimo dienos,
-tačiau ne daugiau kaip už 12 mėnesių iki dokumentų kompensacijai skirti ir
-mokėti gavimo Valstybinio socialinio draudimo fondo valdybos teritoriniame
-skyriuje dienos.
+teisės gauti kompensaciją atsiradimo dienos. Jeigu turintys teisę gauti kompensaciją
+asmenys dėl kompensacijos skyrimo kreipiasi po šio straipsnio aštuntojoje
+dalyje nustatytų kompensacijos mokėjimo pradžios terminų, kompensacija jiems
+mokama nuo teisės gauti kompensaciją atsiradimo dienos, tačiau ne daugiau kaip
+už 12 mėnesių iki dokumentų kompensacijai skirti ir mokėti gavimo Valstybinio
+socialinio draudimo fondo valdybos teritoriniame skyriuje dienos.
 Kompensacijų asmenims, dirbusiems
 ypatingomis darbo sąlygomis ne Lietuvoje, mokėjimo sąlygas ir tvarką nustato
 tarptautiniai susitarimai ir sutartys.
@@ -2198,9 +1909,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.I-724, 94.12.21, Žin., 1994, Nr.101-2017
-DĖL LIETUVOS
-RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO PAKEITIMO IR
-PAPILDYMO
+DĖL LIETUVOS RESPUBLIKOS
+VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
  
 2.
 Lietuvos
@@ -2232,9 +1942,9 @@ Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. I-1438,
 96.07.04, Žin., 1996, Nr.68-1636 (96.07.19)
-LIETUVOS RESPUBLIKOS
-VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 15, 38, 56 STRAIPSNIŲ
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+LIETUVOS
+RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 15, 38, 56
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja nuo 1997 m. sausio 1 d.
  
@@ -2303,8 +2013,8 @@ RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 6, 8, 27, 28,
 ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 11.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. VIII-1292,
 99.07.07, Žin., 1999, Nr.66-2115 (99.07.30)
 LIETUVOS
@@ -2343,8 +2053,8 @@ VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1652, 2000 05 02, Žin., 2000, Nr.
 41-1165 (2000 05 19)
-VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO
-2, 45 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2,
+45 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2000 m. birželio 1
 d.
  
@@ -2420,8 +2130,7 @@ PENSIJŲ ĮSTATYMO 2, 6, 8, 9, 13, 14, 15, 21, 54 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
  
 23.
-Lietuvos Respublikos Seimas,
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-845,
 2002-04-16, Žin., 2002, Nr. 47-1796 (2002-05-10) 
 VALSTYBINIŲ SOCIALINIO DRAUDIMO
@@ -2448,31 +2157,55 @@ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5)
 STRAIPSNIAIS ĮSTATYMAS
 Šis
 Įstatymas, išskyrus 1 straipsnio 4 dalies nuostatas dėl Valstybinių socialinio
-draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto pakeitimo, įsigalioja
-nuo 2003 m. sausio 1 d. 
+draudimo pensijų įstatymo 
+2 straipsnio 1 dalies 12 punkto pakeitimo, įsigalioja nuo 2003 m. sausio 1 d. 
 Šio Įstatymo 1 straipsnio 4
 dalies nuostatos dėl Valstybinių socialinio draudimo pensijų įstatymo 2
 straipsnio 1 dalies 12 punkto pakeitimo įsigalioja nuo 2004 m. sausio 1 d.
+ 
+26.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-1247,
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
+VALSTYBINIŲ SOCIALINIO DRAUDIMO
+PENSIJŲ ĮSTATYMO, VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO, LIGOS IR MOTINYSTĖS
+SOCIALINIO DRAUDIMO ĮSTATYMO, NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ
+SOCIALINIO DRAUDIMO ĮSTATYMO, ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE
+AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1295,
+2003-01-16, Žin., 2003, Nr. 12-437 (2003-01-31)
+VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 24
+STRAIPSNIO PAKEITIMO, 23 IR 32 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
+ĮSTATYMAS
+Šio Įstatymo 3 straipsnio nuostatos taikomos nuo
+2003 m. sausio 1 d.
  
 *** Pabaiga ***
  
  
 Konstitucinio Teismo nutarimai:
 1.
-Lietuvos Respublikos
-Konstitucinis Teismas, Nutarimas
+Lietuvos Respublikos Konstitucinis
+Teismas, Nutarimas
 2002-11-25, Žin., 2002, Nr.
 113-5057 (2002-11-27)
-DĖL LIETUVOS RESPUBLIKOS DIPLOMATINĖS
-TARNYBOS ĮSTATYMO 69 STRAIPSNIO 2 DALIES, LIETUVOS RESPUBLIKOS VALSTYBINIO
-SOCIALINIO DRAUDIMO ĮSTATYMO 4 STRAIPSNIO (2000 M. KOVO 16 D. REDAKCIJA) 1
-DALIES 9 PUNKTO IR LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ
-ĮSTATYMO 2 STRAIPSNIO (1999 M. GRUODŽIO 16 D. REDAKCIJA) 1 DALIES 5 PUNKTO BEI
-23 STRAIPSNIO (1994 M. GRUODŽIO 21 D., 2000 M. GRUODŽIO 21 D., 2001 M. GEGUŽĖS
-8 D. REDAKCIJOS) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DĖL LIETUVOS RESPUBLIKOS
+DIPLOMATINĖS TARNYBOS ĮSTATYMO 69 STRAIPSNIO 2 DALIES, LIETUVOS RESPUBLIKOS
+VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4 STRAIPSNIO (2000 M. KOVO 16 D.
+REDAKCIJA) 1 DALIES 9 PUNKTO IR LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO
+DRAUDIMO PENSIJŲ ĮSTATYMO 2 STRAIPSNIO (1999 M. GRUODŽIO 16 D. REDAKCIJA) 1
+DALIES 5 PUNKTO BEI 23 STRAIPSNIO (1994 M. GRUODŽIO 21 D., 2000 M. GRUODŽIO 21
+D., 2001 M. GEGUŽĖS 8 D. REDAKCIJOS) ATITIKTIES LIETUVOS RESPUBLIKOS
+KONSTITUCIJAI
  
 *** Pabaiga ***
  
- 
-Redagavo: Aušrinė Trapinskienė (2003-01-15)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2003-02-03)
+                 
+autrap@lrs.lt
