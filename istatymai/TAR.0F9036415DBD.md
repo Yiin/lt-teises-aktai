@@ -13,12 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymas
 
-@D1=19910521;D2=19960528;D3=19960614
+@D1=19910521;D2=19960606;D3=19960626
 
 
 
 
-@D1=19910521;D2=19960528;D3=19960614
+@D1=19910521;D2=19960606;D3=19960626
 Pakeitimai:
  1.
  Parlamentas,
@@ -96,6 +96,22 @@ RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 37-1
  IR 38 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
  
+ 9.
+ Parlamentas,
+Įstatymas
+{#19960606AA1369 ;}
+Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
+ LIETUVOS
+RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 3,
+ 27, 37(1)
+STRAIPSNIŲ PAKEITIMO IR 23, 24, 25 STRAIPSNIŲ
+ PRIPAŽINIMO
+NETEKUSIAIS GALIOS ĮSTATYMAS
+ 
+  Šis įstatymas
+įsigalioja nuo 1997 metų sausio 1 dienos.
+ 
+ 
  *** Pabaiga ***
  
  
@@ -105,8 +121,8 @@ LIETUVOS RESPUBLIKOS
                 
 VALSTYBINIO SOCIALINIO DRAUDIMO
  
-                       
-Į S T A T Y M A S
+                        Į
+S T A T Y M A S
  
  
  
@@ -123,8 +139,8 @@ socialinių   
 ekonominių priemonių sistema,  teikianti
 apdraustiesiems  
 Respublikos   gyventojams,  taip   pat įstatymo
-numatytais   atvejais  
-apdraustųjų   šeimų   nariams   gyvenimui
+numatytais  
+atvejais   apdraustųjų   šeimų   nariams   gyvenimui
 reikalingų lėšų ir
 paslaugų, jei jie negali dėl įstatymo numatytų
 priežasčių
@@ -156,7 +172,7 @@ pašalpų  nuostatai,  Valstybinio  socialinio
 draudimo  įstaigų 
 nuostatai,  taip  pat  Valstybinio  socialinio
 draudimo  fondo  
-biudžeto   sudarymo   ir   vykdymo   taisyklės,
+biudžeto   sudarymo   ir   vykdymo   taisyklės,
 Savanoriškojo
 valstybinių socialinio pensijų draudimo taisyklės.
  
@@ -184,11 +200,9 @@ straipsniuose, 
 taip  pat  laidojimo  pašalpoms,  numatytoms  šio
 įstatymo 20-22
 straipsniuose;
-     3)  
-sveikatos   draudimas,   kai   draudžiama   gydymo   ir
-profilaktikos
-išlaidų kompensacijoms, numatytoms šio įstatymo 23-
-26 straipsniuose;
+     3) draudimas 
+kompensacijoms,  numatytoms  šio  įstatymo  26
+straipsnyje;
      4) draudimas 
 nuo nedarbo, kai draudžiama bedarbio pašalpoms
 pagal Gyventojų 
@@ -209,6 +223,9 @@ Straipsnio
 pakeitimai:
 {#94J\AA0676 ;} Nr.
 1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+{#19960606AA1369 ;}
+Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
+ 
  
      4 straipsnis.
 Asmenys, draudžiami valstybiniu socialiniu
@@ -225,7 +242,7 @@ nustatyta tvarka privalomai draudžiami:
      1)  asmenys,  
 dirbantys  pagal  darbo  sutartis,  taip  pat
 dirbantys narystės 
-pagrindais renkamose  institucijose,  ūkinėse
+pagrindais renkamose  institucijose,  ūkinėse
 bendrijose,  
 žemės    ūkio   bendrovėse    arba    kooperatinėse
 organizacijose ir
@@ -247,8 +264,8 @@ pakeitimai:
      5 straipsnis.
 Valstybinio socialinio draudimo stažas
  
-     Valstybinio
-socialinio   draudimo stažas  - tai  laikas, kai
+     Valstybinio socialinio  
+draudimo stažas  - tai  laikas, kai
 asmuo pats   mokėjo
 ar  už  tą  asmenį  buvo  mokamos valstybinio
 socialinio draudimo 
@@ -262,8 +279,8 @@ socialinio  draudimo stažui  prilygina  galiojantys
       II SKYRIUS. 
 VALSTYBINIO SOCIALINIO DRAUDIMO PAŠALPOS
  
-                       1.
-Ligos pašalpa
+                      
+1. Ligos pašalpa
  
  
      6 straipsnis.
@@ -277,7 +294,7 @@ nedarbingumui dėl ligos ar traumos;
 šeimos nariui, kurį būtina slaugyti;
      3) epideminių
 situacijų atvejais;
-     4) esant
+     4) esant
 proteziniame-ortopediniame stacionare;
      5) laikinai 
 perkėlus į  kitą darbą  dėl susirgimo profesine
@@ -285,7 +302,7 @@ liga, tuberkulioze
 arba dėl užkrečiamų ligų sukėlėjų nešiojimo.
      Ligos  pašalpa 
 kaip  nedarbingumo   dėl  ligos  atveju   (1
-punktas)   taip  
+punktas)   taip  
 pat   skiriama   iškilus   būtinybei    gydytis
 tuberkuliozės arba
 kitoje sanatorijoje, į kurią siunčiama  baigti
@@ -303,8 +320,8 @@ pakeitimai:
      7 straipsnis.
 Teisė į ligos pašalpą
  
-     Teisę į  ligos 
-pašalpą turi  apdraustieji,
+     Teisę į  ligos  pašalpą
+turi  apdraustieji,
 išvardinti šio 
 įstatymo 4  straipsnio 1-6 punktuose, jei jie dėl
 šio įstatymo  6
@@ -323,15 +340,15 @@ pat  trijų kalendorinių dienų po savanoriško
 išėjimo iš  darbo
 arba  atleidimo su teise gauti išeitinę pašalpą
 laikotarpiu.
-     Asmenys,  kurie 
-buvo  draudžiami   pagal  šio  įstatymo   4
+     Asmenys, 
+kurie  buvo  draudžiami   pagal  šio  įstatymo   4
 straipsnio 1 punktą
 ir neteko  darbo, turi teisę į ligos  pašalpą
 dėl ligos arba
 traumos (6 straipsnio 1 punktas), jei jie  prarado
 darbingumą
 laikotarpiu,  kuriuo pagal  įstatymus mokama  išeitinė
-pašalpa,  visas 
+pašalpa,  visas 
 uždarbis  arba  jo  dalis ir yra nedarbingi šiam
 laikotarpiui
 pasibaigus.
@@ -362,8 +379,8 @@ atstatymo arba iki
 invalidumo pripažinimo.
      Ligos  pašalpa 
 už pirmąsias  dvi kalendorines  nedarbingumo
-dėl ligos,  nelaimingo
-atsitikimo darbe, susirgimo profesine liga
+dėl ligos, 
+nelaimingo atsitikimo darbe, susirgimo profesine liga
 ar kitokio 
 sveikatos  pakenkimo,  susijusio  su  darbu,  dienas,
 išskyrus motinystės 
@@ -395,7 +412,7 @@ ilgiau kaip trisdešimt kalendorinių dienų po
 darbo sutarties
 galiojimo pabaigos.
      Susižalojus  
-darbe,    susirgus   profesine    liga    arba
+darbe,    susirgus   profesine    liga    arba
 tuberkulioze,
 asmenims,  dirbantiems pagal laikinojo ar sezoninio
 darbo sutartį, 
@@ -521,7 +538,7 @@ mokama  ne  ilgiau 
 kaip   keturiolika  kalendorinių  dienų   per
 kalendorinius metus.
      Asmenims,
-pažeidžiantiems     gydytojo  nustatytą  gydymo ir
+pažeidžiantiems     gydytojo  nustatytą  gydymo ir
 slaugos režimą, 
 be   svarbių   priežasčių  neatvykstantiems  pas
 gydytoją  arba   į 
@@ -691,8 +708,8 @@ pakeitimai:
 {#94J\AA0676 ;} Nr.
 1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
  
-                  
-3. Pašalpa vaiko priežiūrai
+                   3.
+Pašalpa vaiko priežiūrai
  
      18 straipsnis.
 (Panaikintas)
@@ -722,8 +739,8 @@ straipsnis) arba jo
 išlaikomajam šeimos nariui.
      Mirus
 apdraustajam,  laidojimo  pašalpa  mokama    mirusiojo
-šeimos nariams   arba
-tiems  asmenims,  kurie  jį  laidojo. Mirus
+šeimos nariams  
+arba tiems  asmenims,  kurie  jį  laidojo. Mirus
 apdraustojo šeimos
 nariui, pašalpa mokama pačiam apdraustajam.
      Laidojimo 
@@ -745,8 +762,8 @@ turėjusiam teisę ją gauti
  
      Ligos, 
 nėštumo  ir  gimdymo  pašalpos,  negautos iki gavėjo
-mirties  dienos,  išmokamos 
-kartu  su  juo  gyvenusiems   šeimos
+mirties  dienos, 
+išmokamos  kartu  su  juo  gyvenusiems   šeimos
 nariams, taip  pat
 nedarbingiems  asmenims, kurie  buvo mirusiojo
 išlaikomi.
@@ -763,194 +780,35 @@ pakeitimai:
 {#94J\AA0676 ;} Nr.
 1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
  
-          III
+          III
 SKYRIUS. GYDYMO IR PROFILAKTIKOS IŠMOKOS
  
  
      23 straipsnis.
-Išlaidų vaistams ir medicinos pagalbos
-                   
-priemonėms kompensavimas
- 
-     Iš 
-valstybinio  socialinio  draudimo  fondo  kompensuojamos
-išlaidos 
-ambulatorinio  gydymo  metu  naudojamiems  būtiniesiems
-vaistams  ir  
-medicinos  pagalbos   priemonėms  pagal  Sveikatos
-apsaugos bei
-Socialinės apsaugos ir darbo ministerijų patvirtintą
-sąrašą. Vaistų 
-išlaidos  kompensuojamos  pagal  bazines  kainas,
-kurios
-apskaičiuojamos Vyriausybės nustatyta tvarka.
-     Visa  bazinė  
-vaistų  kaina   ir  visa  medicinos  pagalbos
-priemonių kaina
-kompensuojama:
-     1)
-apdraustųjų,  išvardintų  šio  įstatymo  4  straipsnio  1
-punkte,
-apdraustųjų,  netekusių darbo  ir gaunančių išeitinę arba
-bedarbio pašalpas,
-taip pat asmenų, gaunančių arba turinčių teisę
-gauti valstybinę 
-socialinio draudimo  pensiją, vaikams iki trejų
-metų;
-     2) I  grupės
-invalidams,  gaunantiems arba  turintiems teisę
-gauti valstybinę
-socialinio draudimo pensiją;
-     3) šio 
-įstatymo 4  straipsnyje  išvardintiems  apdraustiems
-asmenims, netekusiems
-darbo ir gaunantiems išeitinę arba bedarbio
-pašalpas, taip  pat
-asmenims,  gaunantiems arba  turintiems teisę
-gauti valstybinę 
-socialinio draudimo pensiją, ir jų išlaikomiems
-nedarbingiems
-šeimos  nariams, susirgusiems ligomis, įrašytomis į
-Sveikatos apsaugos 
-bei Socialinės  apsaugos ir darbo ministerijų
-patvirtintą sąrašą.
-     80 procentų 
-bazinės vaistų  kainos ir 80 procentų medicinos
-pagalbos priemonių
-kainos kompensuojama:
-     1)  šio  
-įstatymo  4   straipsnio   1   punkte   išvardintų
-apdraustųjų,
-netekusių  darbo ir gaunančių išeitinę arba bedarbio
-pašalpas, taip  pat
-asmenų,  gaunančių arba  turinčių teisę gauti
-valstybinę
-socialinio  draudimo pensiją,  vaikams nuo  trejų  iki
-septynerių metų;
-     2) 
-gaunantiems   arba  turintiems  teisę  gauti  valstybinę
-socialinio draudimo
-pensiją II grupės ir nedirbantiems III grupės
-invalidams bei
-kitiems nedirbantiems pensininkams.
+(Panaikintas)
  
 Straipsnio
 pakeitimai:
 {#94J\AA0676 ;} Nr.
 1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+{#19960606AA1369 ;}
+Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
      24 straipsnis.
-Kelialapiai į sanatorines įstaigas
+(Panaikintas)
  
-     Išlaidos    
-kelialapiams     į     sanatorines     įstaigas
-kompensuojamos,   
-remiantis    Vyriausybės    nustatyta   tvarka
-patvirtintomis   
-standartinėmis    sanatorinio   gydymo   dienos
-kainomis.
-     Valstybinio  socialinio 
-draudimo  lėšomis  apdraustiesiems,
-išvardintiems   
-4    straipsnyje,   ,pensininkams,   gaunantiems
-valstybinio  
-socialinio   draudimo   pensijas,   apmokama   visa
-standartinė  jų 
-sergančių  vaikų  iki septynerių metų amžiaus ir
-vaikų  invalidų 
-iki  šešiolikos  metų amžiaus sanatorinio gydymo
-dienų  kaina,  jei
-vaikas vyksta gydytis pagal atskirą kelialapį,
-arba  90  procentų
-standartinės kainos, jei vaikas vyksta gydytis
-pagal  bendrą 
-kelialapį  kartu su apdraustuoju. Visa standartinė
-sanatorinio  gydymo 
-kaina apmokama taip pat I grupės invalidams,
-kuriems paskirta
-valstybinio socialinio draudimo pensija.
-     Valstybinio  
-socialinio   draudimo  lėšomis  apmokama  visa
-standartinė 
-sanatorinio  gydymo  kaina šiems siunčiamiems baigti
-gydymą  po  sunkaus 
-susirgimo,  įrašyto  į Sveikatos apsaugos ir
-Socialinės 
-apsaugos  ir  darbo  ministerijų  patvirtintą sąrašą,
-asmenims:
-     1)
-apdraustiesiems, išvardintiems 4 straipsnio 1 punkte;
-     2)  asmenims, 
-kurie  buvo  draudžiami  pagal šio įstatymo 4
-straipsnio  1 
-punktą  ir  neteko  darbo, jei sanatorinis gydymas
-paskirtas 
-išeitinės  pašalpos  arba  ligos  pašalpos,  paskirtos
-darbo laikotarpiu,
-gavimo metu;
-     3) 
-pensininkams  arba  turintiems  teisę gauti, gaunantiems
-valstybinio socialinio
-draudimo pensijas;
-     4)   šio  
-straipsnio   1-3   punktuose   išvardintų  asmenų
-išlaikomiems šeimos
-nariams.
-     Kitais 
-atvejais apdraustiesiems, išvardintiems 4 straipsnio
-1  punkte,  ir  jų 
-vaikams nuo septynerių iki šešiolikos metų iš
-valstybinio  
-socialinio   draudimo  lėšų  apmokama  50  procentų
-kiekvienos 
-sanatorinio  gydymo  dienos  standartinės  kainos,  o
-pensininkams,  
-gaunantiems   valstybines   socialinio   draudimo
-pensijas, - 80
-procentų standartinės kainos.
- 
- 
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 {#94J\AA0676 ;} Nr.
 1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
 {#19951017AA1062 ;}
 Nr. 1-1062, 95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
+{#19960606AA1369 ;}
+Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
  
      25 straipsnis.
-Kompensacija donorams
- 
-     Apdraustajam
-donorui, davusiam 450 mililitrų kraujo arba 600
-mililitrų  plazmos, 
-iš  valstybinio  socialinio  draudimo  fondo
-mokama 
-kompensacija,   lygi   trijų   dienų   vidutiniam   darbo
-užmokesčiui Lietuvos
-Respublikoje. Apdraustajam donorui, davusiam
-mažiau kaip  450
-mililitrų  kraujo arba mažiau kaip 600 mililitrų
-plazmos,  iš  
-valstybinio  socialinio   draudimo  fondo   mokama
-kompensacija, lygi 
-dviejų  dienų  vidutiniam  darbo  užmokesčiui
-Lietuvos
-Respublikoje.
-     Vienos  
-dienos    vidutinis   darbo   užmokestis   Lietuvos
-Respublikoje 
-apskaičiuojamas   pagal  užpraeito   mėnesio  prieš
-duodant kraują  ar
-plazmą  vidutinį  darbo  užmokestį,  paskelbtą
-Statistikos
-departamento  prie Lietuvos  Respublikos Vyriausybės,
-dalijant jį  iš
-užpraeito  mėnesio prieš duodant kraują ar plazmą
-darbo dienų 
-skaičiaus. Užpraeito mėnesio prieš duodant kraują ar
-plazmą darbo  dienų
-skaičius  nustatomas pagal penkių darbo dienų
-savaitę.
+(Panaikintas)
  
 Straipsnio
 pakeitimai:
@@ -958,6 +816,8 @@ pakeitimai:
 1-2501, 92.04.16, Žin., 1992, Nr. 13-350
 {#95CZAA0869 ;} Nr.
 1-869, 95.04.27, Žin., 1995, Nr. 36-889 (95.05.03)
+{#19960606AA1369 ;}
+Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
      26 straipsnis.
 Išlaidų transportui kompensavimas
@@ -1012,18 +872,22 @@ pakeitimai:
 {#94J\AA0676 ;} Nr.
 1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
  
+ 
      27 straipsnis.
 Sąlygos, kurioms esant, gydymo ir
                    
 profilaktikos išmokos nemokamos
  
-     Apdraustasis  
-netenka    teisės   į   23-26   straipsniuose
-išvardintas
-išmokas   iš valstybinio  socialinio draudimo lėšų 12
-straipsnyje
+     Apdraustasis
+netenka  teisės į  26  straipsnyje  išvardintas
+išmokas iš 
+valstybinio socialinio  draudimo lėšų  12 straipsnyje
 nurodytais atvejais.
  
+Straipsnio
+pakeitimai:
+{#19960606AA1369 ;}
+Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
  
       IV SKYRIUS.
@@ -1059,8 +923,8 @@ skelbiami viešai Vyriausybės nustatyta tvarka.
 Respublikos  valstybinio socialinio  draudimo fondo
 biudžeto  projektą 
 rengia  ir  pateikia  Vyriausybei   tvirtinti
-Valstybinio
-socialinio draudimo fondo taryba.
+Valstybinio socialinio
+draudimo fondo taryba.
      Lietuvos
 Respublikos  valstybinio socialinio  draudimo fondo
 biudžeto  sudarymo  
@@ -1076,8 +940,8 @@ pakeitimai:
  
      29 straipsnis.
 Valstybinio socialinio draudimo ir Lietuvos
-                    Respublikos
-valstybės biudžetų santykiai
+                   
+Respublikos valstybės biudžetų santykiai
  
      Asignavimai 
 iš   Valstybės  biudžeto   skiriami,  kai   dėl
@@ -1097,15 +961,15 @@ pajamos
 Respublikos   valstybinio   socialinio   draudimo
 biudžeto pajamas
 sudaro:
-     1) juridinių  bei
-fizinių  asmenų privalomosios  valstybinio
+     1) juridinių 
+bei fizinių  asmenų privalomosios  valstybinio
 socialinio draudimo
 įmokos;
      2) Valstybinio 
 socialinio draudimo  fondo valdybos  veiklos
 pajamos;
-     3)
-asignavimai   iš Valstybės  biudžeto, skiriami  pagal šio
+     3) asignavimai  
+iš Valstybės  biudžeto, skiriami  pagal šio
 įstatymo 29
 straipsnį;
      4) valstybinio
@@ -1117,14 +981,15 @@ atskirose   sąskaitose  pagal  Lietuvos  Respublikos
 Vyriausybės
 nustatytus kiekvienos draudimo rūšies įmokų dydžius.
  
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 {#94J\AA0676 ;} Nr.
 1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
  
      31 straipsnis.
 Valstybinio socialinio draudimo fondo
-                   
-biudžeto išlaidos
+                    biudžeto
+išlaidos
  
      Valstybinio 
 socialinio  draudimo  fondo  biudžeto  išlaidos
@@ -1150,7 +1015,7 @@ socialinio    draudimo   fondui   stabilizuoti
 sudaromas fondo 
 rezervas, kuris yra ne mažesnis kaip 15 procentų
 metinės pajamų 
-sumos. Šis  fondas formuojamas  iš pajamų dalies,
+sumos. Šis  fondas formuojamas  iš pajamų dalies,
 viršijančios
 išlaidas.
      Jeigu  rezervo 
@@ -1198,8 +1063,8 @@ Valstybinio socialinio draudimo įmokos
  
      Drausdamas
 asmenis,  išvardintus šio įstatymo 4 straipsnio 1
-punkte, darbdavys 
-privalo mokėti  nustatyto  dydžio  valstybinio
+punkte, darbdavys  privalo
+mokėti  nustatyto  dydžio  valstybinio
 socialinio draudimo
 įmokas.
      Įmokos   
@@ -1219,15 +1084,15 @@ nemokėti  (tas  laikotarpis  bus neįskaitytas į
 valstybinio 
 socialinio  draudimo  stažą) tik tada, jeigu jie yra
 Valstybinio 
-socialinio  draudimo fondo pensininkai, taip pat jei
+socialinio  draudimo fondo pensininkai, taip pat jei
 yra  draudžiami 
 valstybiniu  socialiniu  draudimu pagal Lietuvos
 Respublikos 
 įstatymus,  o  ūkininkai  -  už  save ir pilnamečius
 šeimos  narius, 
 dirbančius  ūkyje,  - dar ir tuo atveju, kai šie
-asmenys  turi  būtinąjį
-stažą pensijai gauti. Įmokų dydis bazinei
+asmenys  turi 
+būtinąjį stažą pensijai gauti. Įmokų dydis bazinei
 valstybinei 
 socialinio  draudimo  pensijai gauti apskaičiuojamas
 pagal aktuarinius
@@ -1312,35 +1177,33 @@ kitokia  žala  valstybinio    socialinio  draudimo
 turtui, privalo tą
 žalą atlyginti įstatymų nustatyta tvarka.
  
-     37-1
+     37-1
 straipsnis. Valstybinio socialinio draudimo įstaigų
                      
 santykiai su Lietuvos bankų įstaigomis
  
      Lietuvos 
-komerciniai bankai valstybinio socialinio draudimo
+bankų  įstaigos  valstybinio  socialinio  draudimo
 fondo lėšų 
-apyvartos operacijas  atlieka nemokamai.  Atidarydami
+apyvartos operacijas  atlieka nemokamai. Atidarydamos
 ūkio subjektų 
-sąskaitas, bankai privalo išreikalauti pažymą apie
-ūkio  subjekto  
-įregistravimą  valstybinio  socialinio  draudimo
-įstaigoje, o 
-uždarydami sąskaitas,  - pažymą  apie tai, kad ūkio
-subjektas
-neskolingas  valstybinio  socialinio  draudimo  fondui.
-Bankai pirmiausiai 
-vykdo darbininkų  ir tarnautojų reikalavimus,
-susijusius su darbo
-teisiniais santykiais, reikalavimus atlyginti
-žalą  dėl  
-sveikatos  sužalojimo,   taip  pat  gyvybės  atėmimo,
-reikalavimus
-apmokėti  už perdirbti  supirktą ir neapmokėtą žemės
-ūkio produkciją,  po
-to - valstybinio socialinio draudimo įstaigų
-reikalavimus dėl socialinio
-draudimo lėšų išieškojimo.
+sąskaitas,  bankų  įstaigos  privalo  išreikalauti
+pažymą apie  ūkio
+subjekto  įregistravimą valstybinio  socialinio
+draudimo įstaigoje, 
+o uždarydamos  sąskaitas, - pažymą apie tai,
+kad ūkio  subjektas
+neskolingas  valstybinio socialinio  draudimo
+fondui. 
+Valstybinio  socialinio  draudimo  įstaigų  reikalavimus
+išieškoti
+valstybinio  socialinio draudimo  lėšas banko  įstaigos
+vykdo   pirmiau   
+už   kitus    reikalavimus   ir   proporcingai
+įsiskolinimams 
+privalomojo  sveikatos  draudimo  ir  valstybinio
+socialinio draudimo
+fondams.
      Lietuvos 
 bankų   įstaigos,   pažeidusios   šio   straipsnio
 nuostatas ir 
@@ -1354,6 +1217,8 @@ pakeitimai:
 1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
 {#19960528AA1353 ;}
 Nr. 1-1353, 96.05.28, Žin., 1996, Nr. 53-1250 (96.06.05)
+{#19960606AA1369 ;}
+Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
      38 straipsnis.
 Atsakomybė už įmokų mokėjimo teisingumą
@@ -1414,8 +1279,8 @@ sistema
      Lietuvos
 Respublikos valstybinio socialinio draudimo valdymo
 sistemą sudaro:
-     1) 
-Valstybinio   socialinio  draudimo   fondo  taryba  prie
+     1)  Valstybinio  
+socialinio  draudimo   fondo  taryba  prie
 Socialinės apsaugos
 ir darbo ministerijos;
      2) Valstybinio 
@@ -1425,7 +1290,7 @@ skyriai;
      3)  kitos  
 akredituotos  valstybinio   socialinio  draudimo
 įstaigos;
-     4) draudėjai.
+     4) draudėjai.
  
 Straipsnio
 pakeitimai:
@@ -1465,8 +1330,8 @@ tarybos narys.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+{#94J\AA0676 ;} Nr. 1-676,
+94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
  
      41 straipsnis.
 Valstybinio socialinio draudimo fondo
@@ -1516,8 +1381,7 @@ pakeitimai:
  
      42 straipsnis.
 Valstybinio socialinio draudimo fondo
-                   
-valdyba
+                    valdyba
  
      Valstybinio 
 socialinio   draudimo  fondo   valdyba  yra  iš
@@ -1529,7 +1393,8 @@ valstybės herbu ir
 sąskaitas bankuose. Valdyba:
      1)  vykdo  
 Lietuvos  Respublikos   valstybinio   socialinio
-draudimo fondo biudžetą;
+draudimo fondo
+biudžetą;
      2)  sudaro 
 sutartis  su  kitais  juridiniais  ar  fiziniais
 asmenimis dėl  kai
@@ -1568,7 +1433,7 @@ socialiniu draudimu;
 socialinio draudimo  fondo tarybos nustatyta
 tvarka įgyvendinti
 priemones papildomoms pajamoms gauti.
-     Valdybai 
+     Valdybai 
 vadovauja  direktorius,  kurį  skiria  Valstybinio
 socialinio draudimo
 fondo taryba.
@@ -1596,11 +1461,11 @@ už:
 socialinio draudimo įmokų surinkimą;
      2) pensijų
 išmokėjimą teisingai ir laiku;
-     3) kitų 
-Valstybinio socialinio draudimo įstaigų nuostatuose
+     3) kitų  Valstybinio
+socialinio draudimo įstaigų nuostatuose
 numatytų funkcijų
 vykdymą.
-     Valstybinio 
+     Valstybinio 
 socialinio  draudimo   fondo  valdyba  ir   jos
 teritoriniai
 skyriai  yra juridiniai  asmenys, turi  antspaudą su
@@ -1677,7 +1542,7 @@ netesybas;
      2) duoti
 nurodymus bankų įstaigoms nutraukti pinigų išdavimą
 bei pervedimą  iš
-įmonių  sąskaitų,  jeigu  jos  nustatytu  laiku
+įmonių  sąskaitų,  jeigu  jos  nustatytu  laiku
 nepateikė
 valstybinio  socialinio draudimo  įstaigoms  finansinės
 apyskaitos,
@@ -1711,7 +1576,7 @@ draudimo  įstaigų   pareigūnų,  vykdančių   kontrolę,
 veiksmų  
 sprendžia   atitinkamos   įstaigos   vadovas   arba  jo
 pavaduotojas,  o 
-dėl  pastarųjų  pareigūnų veiksmų - Valstybinio
+dėl  pastarųjų  pareigūnų veiksmų - Valstybinio
 socialinio draudimo 
 fondo valdyba.   Pareiškėjas,  nesutinkantis
 su  Valdybos 
@@ -1756,14 +1621,12 @@ pakeitimai:
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS
 TARYBOS
-PIRMININKAS            
-           V.LANDSBERGIS
+PIRMININKAS                       
+V.LANDSBERGIS
  
  
 Vilnius, 1991 m.
 gegužės 21 d.
      Nr. I-1336
- 
- 
  
 _
