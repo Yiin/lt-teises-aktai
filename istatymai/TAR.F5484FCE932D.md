@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F5484FCE932D"
 
 # Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo
 
-Suvestinė redakcija nuo 1994-11-29 iki 1994-12-13
+Įstatymas netenka galios 2003-05-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1162, 2002-10-29, Žin., 2002, Nr. 112-4970 (2002-11-22), i. k. 1021010ISTA0IX-1162
+Lietuvos Respublikos baudžiamojo kodekso, patvirtinto 2000 m. rugsėjo 26 d. įstatymu Nr. VIII-1968, Baudžiamojo proceso kodekso, patvirtinto 2002 m. kovo 14 d. įstatymu Nr. IX-785, ir Bausmių vykdymo kodekso, patvirtinto 2002 m. birželio 27 d. įstatymu Nr. IX-994, įsigaliojimo ir įgyvendinimo tvarkos įstatymas
+ 
+Suvestinė redakcija nuo 1994-12-14 iki 2003-04-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1182, i. k. 0941010ISTA000I-551
  
@@ -127,15 +132,10 @@ Asmenys, kurie padaro nusikaltimą turėdami nuo keturiolikos iki šešiolikos m
 
 10. Kodeksą papildyti 121 straipsniu:
 
-„121 straipsnis. Ribotas pakaltinamumas
-
-Asmuo, kuris darydamas nusikalstamą veiką ne visiškai galėjo suvokti savo veiksmų pobūdžio ar juos valdyti dėl psichikos nukrypimų, kurie vis dėl to nėra pakankamu pagrindu pripažinti jį nepakaltinamu, traukiamas baudžiamojon atsakomybėn.
-
-Asmeniui, pripažintam ribotai Ribotas pakaltinamumas
-
-Asmuo, kuris darydamas nusikalstamą veiką ne visiškai galėjo suvokti savo veiksmų pobūdžio ar juos valdyti dėl psichikos nukrypimų, kurie vis dėl to nėra pakankamu pagrindu pripažinti jį nepakaltinamu, traukiamas baudžiamojon atsakomybėn.pakaltinamu, gali būti skiriama švelnesnė negu įstatymo nustatyta bausmė arba atleidus nuo bausmės paskiriamos priverčiamosios medicininės priemonės.
-
-Nepilnametis, pripažintas ribotai pakaltinamu ir padaręs nesunkų nusikaltimą, nuo baudžiamosios atsakomybės atleidžiamas paskiriant priverčiamąsias auklėjamojo pobūdžio priemones, numatytas šio kodekso 61 straipsnyje, arba specialią globą.“
+121 straipsnis. Neteko galios nuo 1994-12-14
+Straipsnio naikinimas:
+Nr. I-686, 1994-12-08, Žin. 1994, Nr. 96-1879 (1994-12-14), i. k. 0941010ISTA000I-686
+ 
 
 11. 13 straipsnį išdėstyti taip:
 
@@ -209,11 +209,15 @@ Mirties bausmė yra pagrindinė ir išimtinė bausmė. Mirties bausmė gali būt
 
 Mirties bausmė vykdoma sušaudant.
 
-Mirties bausmė negali būti skiriama, o paskyrus – vykdoma moterims, asmenims, kuriems nusikaltimo padarymo momentu nebuvo suėję 18 metų, taip pat asmenims, pripažintiems ribotai pakaltinamais.
+Mirties bausmė negali būti skiriama, o paskyrus – vykdoma moterims, asmenims, kuriems nusikaltimo padarymo momentu nebuvo suėję 18 metų.
 
 Teismas, nuteisdamas asmenį mirties bausme, gali pakeisti ją laisvės atėmimu iki gyvos galvos. Mirties bausmė gali būti pakeista laisvės atėmimu iki gyvos galvos taip pat ir malonės tvarka.
 
 Asmenys, kuriems mirties bausmė pakeista laisvės atėmimu iki gyvos galvos, laikomi kalėjime.“
+
+Straipsnio dalies pakeitimai:
+Nr. I-686, 1994-12-08, Žin., 1994, Nr. 96-1879 (1994-12-14), i. k. 0941010ISTA000I-686
+ 
 
 16. Kodekso 251, 27, 28, 31, 33, 34, 341, 36, 38, 381, 46, 47, 481, 511, 52, 53 ir 60 straipsnius pripažinti netekusiais galios.
 Straipsnio dalies pakeitimai:
@@ -579,7 +583,7 @@ Asmuo, kuris po nuosprendžio priėmimo suserga psichine liga, dėl kurios jis n
 
 „61 straipsnis. Priverčiamosios auklėjamojo pobūdžio priemonės
 
-Asmeniui, atleistam nuo baudžiamosios atsakomybės šio kodekso 121 bei 521 straipsniuose numatytais pagrindais, taikomos šios priverčiamosios auklėjamojo pobūdžio priemonės:
+Asmeniui, atleistam nuo baudžiamosios atsakomybės šio kodekso 521 straipsnyje numatytais pagrindais, taikomos šios priverčiamosios auklėjamojo pobūdžio priemonės:
 
 1) įpareigojimas viešai ar kitokia forma atsiprašyti nukentėjusįjį;
 
@@ -598,6 +602,10 @@ Nepilnamečių buvimo specialioje auklėjimo ir drausmės įstaigoje tvarką ir 
 Teismo paskirtos priverčiamosios auklėjamojo pobūdžio priemonės, numatytos šio straipsnio pirmosios dalies 1–5 punktuose, vykdymą kontroliuoja vidaus reikalų organai ir nepilnamečių reikalų tarnybos.
 
 Jeigu nepilnametis nevykdo arba netinkamai vykdo jam paskirtą priverčiamąją auklėjamojo pobūdžio priemonę, tai teismas, vidaus reikalų organo ir nepilnamečių reikalų tarnybos bendru teikimu, gali pakeisti vieną priverčiamąją auklėjimo pobūdžio priemonę griežtesne priemone.“
+
+Straipsnio dalies pakeitimai:
+Nr. I-686, 1994-12-08, Žin., 1994, Nr. 96-1879 (1994-12-14), i. k. 0941010ISTA000I-686
+ 
 
 39. 64 straipsnio pavadinimą ir dispoziciją išdėstyti taip:
 
@@ -2342,4 +2350,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
 Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" pakeitimo ir papildymo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-686, 1994-12-08, Žin., 1994, Nr. 96-1879 (1994-12-14), i. k. 0941010ISTA000I-686
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" (Nr. I-551) ir Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" Nr. I-551, priimto 1994 m. liepos 19 d., įsigaliojimo tvarkos" pakeitimo
 
