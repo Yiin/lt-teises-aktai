@@ -13,35 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DD49A6FFBCA3"
 
 # Lietuvos Respublikos 1999 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
-Redagavo:
-Ramunė Lūžaitė (1999.06.16)
- 
 Įstatymas
 paskelbtas: Žin., 1998, Nr. 114-3186
- 
+Nauja įstatymo redakcija paskelbta: Žin., 1999,
+Nr.93-2708
 Neoficialus
 įstatymo tekstas
  
-Pakeitimai:
-1.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-1211, 99.06.03, Žin., 1999, Nr.52-1675 (99.06.16)
-LIETUVOS RESPUBLIKOS 1999 METŲ VALSTYBĖS
-BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 11
-STRAIPSNIO PAPILDYMO ĮSTATYMAS
- 
-2.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr. VIII-1354,
-99.10.14, Žin., 1999, Nr.93-2708 (99.11.04)
-LIETUVOS RESPUBLIKOS 1999 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ
-RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Nauja įstatymo redakcija 
- 
-*** Pabaiga ***
  
 LIETUVOS RESPUBLIKOS
 1999 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
@@ -55,8 +33,8 @@ Nauja įstatymo redakcija:
 Nr. VIII-1354,
 99.10.14, Žin., 1999, Nr.93-2708 (99.11.04)
  
-1 straipsnis. 1999 metų valstybės
-biudžeto pajamų ir išlaidų patvirtinimas
+1 straipsnis.
+1999 metų valstybės biudžeto pajamų ir išlaidų patvirtinimas
  
 1. Patvirtinti Lietuvos
 Respublikos 1999 metų valstybės biudžetą - 6760832 tūkst. litų pajamų, 6760832
@@ -67,8 +45,8 @@ kad valstybės biudžeto asignavimų sumos darbo užmokesčiui, nurodytos 1
 priedėlyje, yra maksimalios ir jų ekonomija gali būti asignavimų valdytojų
 nuožiūra naudojama kitoms paprastosioms išlaidoms finansuoti.
  
-2 straipsnis.
-Savivaldybių biudžetų finansinių rodiklių patvirtinimas
+2
+straipsnis. Savivaldybių biudžetų finansinių rodiklių patvirtinimas
  
 1. Atsižvelgiant
 į tai, kad pagal Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo
@@ -80,8 +58,8 @@ fizinių asmenų pajamų mokesčio skiriama mažesnes biudžeto pajamas turinči
 savivaldybėms; 
 2) patvirtinti
 savivaldybių biudžetams skiriamas fizinių asmenų pajamų mokesčio dalis
-procentais, fizinių asmenų pajamų mokesčio sumas pajamoms 
-išlyginti - 320898 tūkst. litų (3 priedėlis).
+procentais, fizinių asmenų pajamų mokesčio sumas pajamoms išlyginti - 320898
+tūkst. litų (3 priedėlis).
 2. Patvirtinti
 specialias tikslines dotacijas savivaldybių biudžetams - 126768 tūkst. litų, iš
 jų:
@@ -97,8 +75,9 @@ miesto senamiesčiui tvarkyti - 15000 tūkst. litų;
 c) savivaldybių
 biudžetų pajamoms išlyginti - 33047 tūkst. litų.
  
-3 straipsnis.
-Savivaldybių biudžetų pajamos išlaidų struktūros skirtumams išlyginti 
+3
+straipsnis. Savivaldybių biudžetų pajamos išlaidų struktūros skirtumams
+išlyginti 
  
 Atsižvelgiant į
 šio įstatymo 2 straipsnio 1 dalies 1 punkto nuostatą, prognozuojamas
@@ -107,32 +86,33 @@ išlaidų struktūros skirtumams išlyginti. Šios lėšos į savivaldybių biud
 pervedamos kas mėnesį, atsižvelgiant į faktines fizinių asmenų pajamų mokesčio
 įplaukas į valstybės iždo sąskaitą.
  
-4 straipsnis.
-Savivaldybių biudžetų tvirtinimas
+4
+straipsnis. Savivaldybių biudžetų tvirtinimas
  
 Nustatyti, kad
 miestų, rajonų tarybos patvirtina savivaldybių biudžetus per vieną mėnesį nuo
 valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo ir
 vieną egzempliorių pateikia Finansų ministerijai.
  
-5 straipsnis.
-Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo
+5
+straipsnis. Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo
+sveikatos 
+draudimo
 fondo biudžetą dydis
  
 Nustatyti, kad
-1999 metais fizinių asmenų pajamų mokesčio įmokos į Privalomojo sveikatos
-draudimo fondo biudžetą sudaro 30 procentų apskaičiuotos jų pajamų mokesčio
-sumos.
+1999 metais fizinių asmenų pajamų mokesčio įmokos į Privalomojo sveikatos draudimo
+fondo biudžetą sudaro 30 procentų apskaičiuotos jų pajamų mokesčio sumos.
  
-6 straipsnis.
-Įmokų dydis už valstybės lėšomis draudžiamus asmenis
+6
+straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis
  
 Nustatyti, kad
-1999 metais valstybės biudžeto įmokos į Privalomojo sveikatos draudimo fondo biudžetą
-yra po 222,7 lito už kiekvieną valstybės lėšomis draudžiamą asmenį.
+1999 metais valstybės biudžeto įmokos į Privalomojo sveikatos draudimo fondo
+biudžetą yra po 222,7 lito už kiekvieną valstybės lėšomis draudžiamą asmenį.
  
-7 straipsnis.
-Nebiudžetinių lėšų įmokos
+7
+straipsnis. Nebiudžetinių lėšų įmokos
  
 1. Valstybės
 institucijų ir kontroliuojančių organizacijų iš ūkinės veiklos gautas lėšas -
@@ -144,8 +124,9 @@ sumas, mažina finansavimą faktiškai negautomis (palyginti su planu)
 nebiudžetinių lėšų įmokomis į valstybės biudžetą.
  
 8
-straipsnis. Privatizavimo fondo lėšų naudojimas investiciniams projektams,
-numatytiems Valstybės investicijų programoje, finansuoti
+straipsnis. Privatizavimo fondo lėšų naudojimas investiciniams projektams, 
+numatytiems
+Valstybės investicijų programoje, finansuoti
  
 Nustatyti, kad
 1999 metais iš Privatizavimo fondo lėšų būtų skiriama 390700 tūkst. litų
@@ -154,8 +135,8 @@ Valstybės investicijų programoje), iš jų: 280118 tūkst. litų - valstybės
 pagrindiniam kapitalui (iš jų melioracijai ir dirvų kalkinimui - 80000 tūkst.
 litų) ir 110582 tūkst. litų - savivaldybių pagrindiniam kapitalui.
  
-9 straipsnis.
-Valstybės tarnautojų mokymas 
+9
+straipsnis. Valstybės tarnautojų mokymas 
  
 Nustatyti, kad
 valstybės ir savivaldybių institucijos ar įstaigos valstybės tarnautojų
@@ -163,8 +144,8 @@ mokymui skiria lėšų tiek, kad jos sudarytų ne mažiau kaip 3 procentus jų d
 užmokesčiui patvirtintų asignavimų.
  
  
-10 straipsnis. Vidaus
-ir užsienio paskolos
+10
+straipsnis. Vidaus ir užsienio paskolos
  
 Nustatyti 1999 metais valstybės
 grynojo skolinimosi (paskolos, atėmus grąžintas) limitą - 2900000 tūkst. litų. 
@@ -198,8 +179,9 @@ negautas planuotas mokestines pajamas;
 pagal šio straipsnio 2 punktą mokestinių pajamų išlyginimo rezervą Lietuvos
 Respublikos Vyriausybė skiria savivaldybių butų fondui kaupti.
  
-13 straipsnis.
-Kelių fondo lėšų naudojimas Nacionalinei žemės ūkio plėtojimo programai
+13
+straipsnis. Kelių fondo lėšų naudojimas Nacionalinei žemės ūkio plėtojimo
+programai
  
 Nustatyti, kad 1999 metais iš
 Kelių fondo lėšų iki 28000 tūkst. litų būtų skiriama Nacionalinėje žemės ūkio
@@ -207,7 +189,8 @@ plėtojimo programoje numatytoms ūkininkų įsikūrimo priemonėms įgyvendinti
 (keliams tiesti ir remontuoti).
  
 14
-straipsnis. Pajamų, faktiškai gautų iš akcizų už cukrų, naudojimas Nacionalinei
+straipsnis. Pajamų, faktiškai gautų iš akcizų už cukrų, naudojimas 
+Nacionalinei
 žemės ūkio plėtojimo programai
  
 Nustatyti, kad
@@ -216,27 +199,28 @@ produktuose, atskaičius eksportuotojams grąžintiną sumą, pervedamos Žemės
 ministerijai Nacionalinės žemės ūkio plėtojimo programos priemonėms finansuoti
 (subsidijoms už cukrinius runkelius mokėti).
  
-15 straipsnis.
-Valstybės skolinimosi ir paskolų grąžinimo mastai
+15
+straipsnis. Valstybės skolinimosi ir paskolų grąžinimo mastai
  
 Nustatyti
 skolintų lėšų pajamas - iki 5040509 tūkst. litų, skolintų lėšų išlaidas -
 4268509 tūkst. litų valstybės vardu gautoms skolintoms lėšoms grąžinti ir
 Lietuvos Respublikos įstatymų pripažintai valstybės vidaus skolai dengti.
  
-16 straipsnis.
-Kitų įstatymų taikymas
+16
+straipsnis. Neteko galios nuo 1999 m. gruodžio 30 d.
+Straipsnio pakeitimai:
+Nr. VIII-1505,
+99.12.23, Žin., 1999, Nr.113-3297 (99.12.30)
  
-Taikyti
-savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančius rodiklius, kurie
-1997 m. lapkričio 25 d. patvirtinti Lietuvos Respublikos savivaldybių biudžetų
-pajamų dydį ir išlyginimą lemiančių rodiklių patvirtinimo 1998-2000 metams
-įstatymu (Žin., 1997, Nr.116-2952), ir 2001 metais.
+ 
  
 Skelbiu šį Lietuvos
 Respublikos Seimo priimtą įstatymą.
  
-RESPUBLIKOS PREZIDENTAS         VALDAS
+ 
+ 
+RESPUBLIKOS PREZIDENTAS                                             VALDAS
 ADAMKUS
 
 
@@ -1673,8 +1657,8 @@ Iš viso
 90.900.2004
 
 
-Moterų ir vyrų lygių galimybių
-  kontrolieriaus tarnyba
+Moterų ir vyrų lygių galimybių kontrolieriaus
+  tarnyba
 
 
  
@@ -1801,8 +1785,8 @@ Valstybinė paminklosaugos komisija
 
 
 Kultūros vertybių apsaugos
-ir valstybės strategijos ir politikos
-  įgyvendinimo 
+ir valstybės strategijos ir politikos įgyvendinimo
+  
 kontrolė
 
 
@@ -3130,9 +3114,9 @@ Valstybės parama asmenims, patyrusiems
 13  1
 
 
-Žalos atlyginimas nukentėjusiems dėl sveikatos
-  suluošinimo darbe ar susirgimo profesine liga, kai ši prievolė pereina
-  valstybei
+Žalos atlyginimas nukentėjusiems dėl
+  sveikatos suluošinimo darbe ar susirgimo profesine liga, kai ši prievolė
+  pereina valstybei
 
 
  
@@ -5650,7 +5634,7 @@ Nacionalinė imunoprofilaktikos ir
 
  
 
-7  1
+7  1
 
 
 Medicinos specialistų kvalifikacijos
@@ -6273,7 +6257,7 @@ Socialinių-kultūrinių ugdymosi sąlygų
 
  
 
-1  5
+1  5
 
 
 Bendrojo lavinimo  mokyklų, finansuojamų
@@ -6750,7 +6734,7 @@ Teisingumo ministerija
 
  
 
-1  1
+1  1
 
 
 Teisėsaugos institucijų sistemos
@@ -7250,7 +7234,6 @@ Nacionalinės energijos vartojimo
 
 
  
-
 
 
 
@@ -11156,8 +11139,7 @@ Teritorinis planavimas
 1 17
 
 
-Civilinės saugos sistemos veiklos
-  organizavimas
+Civilinės saugos sistemos veiklos organizavimas
 
 
  
@@ -11381,8 +11363,7 @@ Iš viso
 90. 29.1270
 
 
-Marijampolės apskrities viršininko
-  administracija
+Marijampolės apskrities viršininko administracija
 
 
  
@@ -11489,8 +11470,7 @@ Vaikų našlaičių, sutrikusio intelekto
 1  5
 
 
-Socialinių paslaugų plėtra globos
-  įstaigose
+Socialinių paslaugų plėtra globos įstaigose
 
 
  
@@ -13714,7 +13694,8 @@ Rytų Lietuvos socialinio plėtojimo ir
 1  4
 
 
-Kultūrinės veiklos puoselėjimas Rytų Lietuvoje
+Kultūrinės veiklos puoselėjimas Rytų
+  Lietuvoje
 
 
  
@@ -15486,7 +15467,8 @@ Valstybės registrų tvarkymas
  
 
 
-Iš viso
+Iš
+  viso
 
 
  
@@ -15953,8 +15935,8 @@ Iš viso
 90. 15.1049
 
 
-Valstybinė konkurencijos ir vartotojų teisių
-  gynimo tarnyba prie Lietuvos Respublikos Vyriausybės
+Valstybinė konkurencijos ir vartotojų
+  teisių gynimo tarnyba prie Lietuvos Respublikos Vyriausybės
 
 
  
@@ -17372,7 +17354,6 @@ Iš viso
 
 
 
-
  
 
 
@@ -17806,8 +17787,7 @@ Valstybinė atominės energetikos saugos
 2  1
 
 
-Branduolinės energetikos saugos objektų
-  įvertinimas
+Branduolinės energetikos saugos objektų įvertinimas
 
 
  
@@ -18512,7 +18492,7 @@ Lietuvos hidrometeorologijos tarnyba prie
 
  
 
-1  1
+1  1
 
 
 Hidrometeorologiniai stebėjimai ir
@@ -20032,8 +20012,7 @@ Valstybės valdymas
  
 
 
-Iš
-  viso
+Iš viso
 
 
  
@@ -27114,7 +27093,6 @@ Iš
 
 
 
-
  
 
 
@@ -30539,7 +30517,6 @@ Paskolos, atėmus grąžintas lėšas
 
 
 
-
  
  
 
@@ -32033,13 +32010,6 @@ Iš
 
 
 
-
-
-
-
-
-
-
  
 * Prognozuojamos lėšų sumos
 perduodamos atsižvelgiant į faktines fizinių asmenų pajamų mokesčio įplaukas
@@ -33246,8 +33216,48 @@ Energetikos valstybinė inspekcija prie
 
 
 
-                                 
-                                             Iš viso:
+                                   
+                                           Iš viso:
 
 
 76862
+
+
+
+ 
+____________________
+ 
+Pakeitimai:
+1.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-1211, 99.06.03, Žin., 1999, Nr.52-1675 (99.06.16)
+LIETUVOS RESPUBLIKOS 1999 METŲ VALSTYBĖS
+BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 11
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. VIII-1354,
+99.10.14, Žin., 1999, Nr.93-2708 (99.11.04)
+LIETUVOS RESPUBLIKOS 1999 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ
+FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Nauja įstatymo
+redakcija 
+ 
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. VIII-1505,
+99.12.23, Žin., 1999, Nr.113-3297 (99.12.30)
+1999 METŲ
+VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO
+ĮSTATYMO 16 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+ 
+*** Pabaiga ***
+ 
+ 
+Redagavo: Aušrinė
+Trapinskienė (2000.06.06)
