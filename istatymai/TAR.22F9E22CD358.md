@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.22F9E22CD358"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 1993-10-13 iki 1993-11-18
+Suvestinė redakcija nuo 1993-11-19 iki 1997-07-10
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 107-0; Žin. 1990, Nr.31-747, i. k. 090XX01ISTA000I-676
  
@@ -145,7 +145,10 @@ Nr. I-249, 1993-09-21, Žin., 1993, Nr. 49-964 (1993-09-29), i. k. 0931010ISTA00
 
 
 
-5) bendrosios jungtinės veiklos sutartyje numatytais atvejais sudaryti sutartis, prisiimti įsipareigojimus, skolinti ir skolintis piniginių lėšų už palūkanas, nustatomas sutartimi;
+5) bendrosios jungtinės veiklos sutartyje numatytais atvejais sudaryti sutartis, prisiimti įsipareigojimus, skolinti (tik nuosavo kapitalo lėšas) ir skolintis piniginių lėšų už palūkanas, nustatomas sutartimi; 
+Straipsnio punkto pakeitimai:
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
+ 
 
 
 
@@ -809,3 +812,8 @@ Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-257, 1993-09-28, Žin., 1993, Nr. 52-998 (1993-10-13), i. k. 0931010ISTA000I-257
 Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo papildymo
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
+Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
