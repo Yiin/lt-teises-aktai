@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6BD96A0CAF5"
 Redagavo: Ramun? L??ait? (1997
 
 Įstatymas
-paskelbtas: Žin., 1995, Nr. 63-1578
+skelbtas: Žin., 1995, Nr. 63-1578
 Nauja įstatymo redakcija skelbta: Žin., 2000, Nr.
 56-1651
 Neoficialus
@@ -33,21 +33,18 @@ STATUSO
 d. Nr.I-1004
 Vilnius 
  
- 
 Nauja įstatymo redakcija (keistas
 įstatymo pavadinimas):
 Nr. VIII-1784, 2000 06 29, Žin., 2000, Nr.
 56-1651 (2000 07 12), įsigalioja nuo 2000 09 01
- 
- 
  
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
 NUOSTATOS
  
-1 straipsnis.
-Įstatymo paskirtis
+1 straipsnis. Įstatymo
+paskirtis
 Šis įstatymas
 nustato užsieniečiams, kurie ieško prieglobsčio Lietuvos Respublikoje,
 pabėgėlio statuso suteikimo ir panaikinimo tvarką, pabėgėlių teises, pareigas,
@@ -217,10 +214,10 @@ Draudimas užsienietį išsiųsti arba sugrąžinti
 pateikęs prašymą suteikti pabėgėlio statusą šio įstatymo numatytais atvejais,
 neišsiunčiamas iš Lietuvos Respublikos ir negrąžinamas į valstybę, kurioje jo
 gyvybei ar laisvei gresia pavojus.
-2. Šio
-straipsnio 1 dalies nuostata netaikoma užsieniečiui, kuris dėl svarbių
-priežasčių laikomas pavojingu Lietuvos Respublikos saugumui arba įsiteisėjusiu
-teismo nuosprendžiu nuteistas už sunkų nusikaltimą ir kelia pavojų visuomenei.
+2. Šio straipsnio
+1 dalies nuostata netaikoma užsieniečiui, kuris dėl svarbių priežasčių laikomas
+pavojingu Lietuvos Respublikos saugumui arba įsiteisėjusiu teismo nuosprendžiu
+nuteistas už sunkų nusikaltimą ir kelia pavojų visuomenei.
  
  
 ANTRASIS
@@ -230,38 +227,42 @@ STATUSO SUTEIKIMO TVARKA
  
 8 straipsnis.
 Užsieniečio prašymo suteikti pabėgėlio statusą padavimas
-1. Motyvuotą
-prašymą suteikti pabėgėlio statusą užsienietis gali paduoti raštu arba žodžiu
-Lietuvos Respublikos valstybės sienos perėjimo punkte pasienio policijai,
-miesto (rajono) policijos komisariatui, Užsieniečių registracijos centrui ar
-kitoms valstybės ar savivaldybių institucijoms bei įstaigoms. Kai užsienietis
-prašymą suteikti pabėgėlio statusą pateikia žodžiu, šių institucijų pareigūnai
-(valstybės tarnautojai) surašo protokolą. Informacija apie prašymo padavimą yra
-konfidenciali, jeigu prašytojas nepageidauja kitaip, išskyrus šio įstatymo 27
-straipsnio 2 dalyje nurodytą atvejį.
+1. Motyvuotą prašymą suteikti
+pabėgėlio statusą užsienietis gali paduoti raštu arba žodžiu Lietuvos
+Respublikos valstybės sienos perėjimo punkte Valstybės sienos apsaugos
+tarnybai, miesto (rajono) policijos komisariatui, Užsieniečių registracijos
+centrui ar kitoms valstybės ar savivaldybių institucijoms bei įstaigoms. Kai
+užsienietis prašymą suteikti pabėgėlio statusą pateikia žodžiu, šių institucijų
+pareigūnai (valstybės tarnautojai) surašo protokolą. Informacija apie prašymo
+padavimą yra konfidenciali, jeigu prašytojas nepageidauja kitaip, išskyrus šio
+įstatymo 27 straipsnio 2 dalyje nurodytą atvejį.
 2. Kitoms
 valstybės ar savivaldybių institucijoms bei įstaigoms paduotas užsieniečio
 prašymas suteikti pabėgėlio statusą ir protokolas (kai prašymas suteikti
-pabėgėlio statusą buvo pateiktas žodžiu) nedelsiant perduodami pasienio
-policijai, miesto (rajono) policijos komisariatui ar Užsieniečių registracijos
+pabėgėlio statusą buvo pateiktas žodžiu) nedelsiant perduodami Valstybės sienos
+apsaugos tarnybai, miesto (rajono) policijos komisariatui ar Užsieniečių registracijos
 centrui.
-3. Už nepilnametį
-vaiką prašymą gali paduoti jo tėvai arba kiti teisėti atstovai. Už nepilnametį,
-kurio nelydi tėvai arba teisėtas atstovas, prašymą gali paduoti vaikų teisių
-apsaugos institucijos paskirtas atstovas.
+3. Už
+nepilnametį vaiką prašymą gali paduoti jo tėvai arba kiti teisėti atstovai. Už
+nepilnametį, kurio nelydi tėvai arba teisėtas atstovas, prašymą gali paduoti
+vaikų teisių apsaugos institucijos paskirtas atstovas.
 4. Šeimos
 (sutuoktinio, vaikų ir įvaikių iki 18 metų, jeigu jie nesudarę santuokos, ir
 nedarbingų dėl amžiaus ar invalidumo tėvų) vardu prašymą gali pateikti vienas
 iš pilnamečių šeimos narių.
+Straipsnio pakeitimai:
+Nr. VIII-2007, 2000 10 10, Žin., 2000, Nr.
+92-2859 (2000 10 31)
+ 
  
 9 straipsnis.
 Užsieniečio įleidimas į Lietuvos Respublikos teritoriją
-1. Gavę
-užsieniečio prašymą suteikti pabėgėlio statusą pasienio policijos, miesto
-(rajono) policijos komisariato ar Užsieniečių registracijos centro pareigūnai
-apklausia užsienietį, surenka asmens duomenis apie jį bei kartu
-atvykusius jo šeimos narius, nustato kelionės maršrutą, taip pat išsiaiškina
-prašymo padavimo motyvus.
+1.
+Gavę užsieniečio prašymą suteikti pabėgėlio statusą, Valstybės sienos apsaugos
+tarnybos, miesto (rajono) policijos komisariato ar Užsieniečių registracijos
+centro pareigūnai apklausia užsienietį, surenka asmens duomenis apie jį bei
+kartu atvykusius jo šeimos narius, nustato kelionės maršrutą, taip pat
+išsiaiškina prašymo padavimo motyvus.
 2.
 Užsieniečio prašymas suteikti pabėgėlio statusą ir protokolas (kai prašymas
 suteikti pabėgėlio statusą buvo pateiktas žodžiu) bei surinkti duomenys
@@ -278,6 +279,10 @@ užsieniečio į Lietuvos Respublikos teritoriją arba neleisti joje būti
 užsienietis per 7 dienas nuo sprendimo gavimo dienos gali apskųsti Vilniaus
 apygardos administraciniam teismui. Skundo pateikimas sustabdo tik sprendimo
 neleisti būti Lietuvos Respublikoje vykdymą. 
+Straipsnio pakeitimai:
+Nr. VIII-2007, 2000 10 10, Žin., 2000, Nr.
+92-2859 (2000 10 31)
+ 
  
 10 straipsnis.
 Priežastys, kliudančios įleisti užsienietį į Lietuvos Respublikos teritoriją 
@@ -308,7 +313,7 @@ nustatymas
 kuriam leista atvykti į Lietuvos Respublikos teritoriją arba joje būti, šio
 straipsnio 2 dalyje nurodytų veiksmų atlikti nusiunčiamas į Užsieniečių
 registracijos centrą. Prireikus užsienietis į Užsieniečių registracijos centrą
-vyksta lydimas pasienio policijos ar policijos pareigūnų. 
+vyksta lydimas Valstybės sienos apsaugos tarnybos ar policijos pareigūnų.
 2. Užsieniečių
 registracijos centre užsienietis užpildo anketą pabėgėlio statusui gauti, po to
 jis apklausiamas, nufotografuojamas bei daktiloskopuojamas. Prireikus atliekama
@@ -323,6 +328,10 @@ patikrinimo laiką, bet ne ilgiau kaip 15 dienų.
 departamentas užsieniečiui jo prašymo suteikti pabėgėlio statusą nagrinėjimo iš
 esmės laikotarpiui išduoda registracijos pažymėjimą, suteikiantį teisę naudotis
 laikinu teritoriniu prieglobsčiu Lietuvos Respublikoje. 
+Straipsnio pakeitimai:
+Nr. VIII-2007, 2000 10 10, Žin., 2000, Nr.
+92-2859 (2000 10 31)
+ 
  
 12 straipsnis.
 Užsieniečio sulaikymo sąlygos ir pagrindai
@@ -354,9 +363,9 @@ dėl užsieniečio apgyvendinimo prašymo suteikti pabėgėlio statusą nagrinė
 esmės laikotarpiu priima Migracijos departamentas Vidaus reikalų ministerijos
 nustatyta tvarka.
 2. Teisėtai
-atvykusiam į Lietuvos Respublikos teritoriją ar teisėtai joje esančiam užsieniečiui,
-pateikusiam prašymą suteikti pabėgėlio statusą, gali būti leidžiama gyventi jo
-pasirinktoje gyvenamojoje vietoje.
+atvykusiam į Lietuvos Respublikos teritoriją ar teisėtai joje esančiam
+užsieniečiui, pateikusiam prašymą suteikti pabėgėlio statusą, gali būti
+leidžiama gyventi jo pasirinktoje gyvenamojoje vietoje.
 3. Užsienietis,
 kurio prašymas suteikti pabėgėlio statusą nagrinėjamas bendra tvarka,
 apgyvendinamas Pabėgėlių priėmimo centre arba jam leidžiama gyventi
@@ -411,13 +420,13 @@ Jei yra pagrįstų priežasčių, dėl kurių per šį laikotarpį prašymo išn
 negalima, jis nagrinėjamas bendra tvarka ir apie tai raštu pranešama
 Užsieniečių registracijos centrui.
 2.
-Jei taikoma prašymo nagrinėjimo bendra tvarka, užsieniečio prašymas suteikti pabėgėlio
-statusą turi būti išnagrinėtas ne vėliau kaip per 6 mėnesius nuo išvados dėl
-prašymo nagrinėjimo iš esmės gavimo Migracijos departamente dienos. Jei yra
-pagrįstų priežasčių, dėl kurių per šį laikotarpį prašymo išnagrinėti negalima,
-Migracijos departamento vadovas gali nustatyti ilgesnį terminą, tačiau
-užsieniečio prašymo suteikti pabėgėlio statusą nagrinėjimo bendras terminas
-negali viršyti 12 mėnesių.
+Jei taikoma prašymo nagrinėjimo bendra tvarka, užsieniečio prašymas suteikti
+pabėgėlio statusą turi būti išnagrinėtas ne vėliau kaip per 6 mėnesius nuo
+išvados dėl prašymo nagrinėjimo iš esmės gavimo Migracijos departamente dienos.
+Jei yra pagrįstų priežasčių, dėl kurių per šį laikotarpį prašymo išnagrinėti
+negalima, Migracijos departamento vadovas gali nustatyti ilgesnį terminą,
+tačiau užsieniečio prašymo suteikti pabėgėlio statusą nagrinėjimo bendras
+terminas negali viršyti 12 mėnesių.
  
 17
 straipsnis. Užsieniečio teisės ir pareigos, susijusios su pabėgėlio statuso
@@ -590,13 +599,13 @@ NUOSTATOS
 27 straipsnis.
 Bendradarbiavimas su tarptautinėmis organizacijomis
 1. Lietuvos
-Respublika, spręsdama pabėgėlių problemas, bendradarbiauja su Jungtinių Tautų Organizacijos
-pabėgėlių reikalų vyriausiojo komisaro valdyba, sudaro sąlygas šiai valdybai
-vykdyti įsipareigojimus stebėti, kaip Lietuvos Respublikoje laikomasi 1951 m.
-Konvencijos dėl pabėgėlių statuso ir 1967 m. Protokolo dėl pabėgėlių statuso
-reikalavimų, teikia reikalingą informaciją ir statistinius duomenis apie
-užsieniečius ir pabėgėlius, apie Konvencijos bei Protokolo įgyvendinimą ir
-galiojančius ar įsigaliosiančius norminius aktus dėl pabėgėlių.
+Respublika, spręsdama pabėgėlių problemas, bendradarbiauja su Jungtinių Tautų
+Organizacijos pabėgėlių reikalų vyriausiojo komisaro valdyba, sudaro sąlygas
+šiai valdybai vykdyti įsipareigojimus stebėti, kaip Lietuvos Respublikoje
+laikomasi 1951 m. Konvencijos dėl pabėgėlių statuso ir 1967 m. Protokolo dėl
+pabėgėlių statuso reikalavimų, teikia reikalingą informaciją ir statistinius
+duomenis apie užsieniečius ir pabėgėlius, apie Konvencijos bei Protokolo
+įgyvendinimą ir galiojančius ar įsigaliosiančius norminius aktus dėl pabėgėlių.
 2. Užsieniečiai
 ir pabėgėliai turi teisę kreiptis į Jungtinių Tautų Organizacijos pabėgėlių
 reikalų vyriausiojo komisaro valdybos atstovus. Šiems atstovams leidžiama
@@ -702,8 +711,17 @@ PAKEITIMO ĮSTATYMAS
 įstatymas įsigalioja nuo 2000 m. rugsėjo 1 d.
 Nauja įstatymo redakcija
  
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2007, 2000 10 10, Žin., 2000, Nr.
+92-2859 (2000 10 31)
+ĮSTATYMO „DĖL PABĖGĖLIŲ LIETUVOS RESPUBLIKOJE STATUSO“
+8, 9 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000 07 31)
+Redagavo: Aušrinė Trapinskienė (2000 11 20)
 
