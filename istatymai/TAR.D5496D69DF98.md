@@ -13,8 +13,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Įstatymas paskelbtas: Žin., 1998,
-Nr.54-1492
+Įstatymas paskelbtas: Žin., 1998, Nr.
+54-1492
 Neoficialus įstatymo tekstas
  
  
@@ -85,8 +85,8 @@ kai šis turtas perleidžiamas ar likviduojamas.
 nustatyta tvarka nurašyto turto išvežimas į sąvartyną arba jo sunaikinimas.
 Straipsnio
 pakeitimai:
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
  
  
 3 straipsnis. Valstybės turto sandara
@@ -133,9 +133,9 @@ rezultatai;
 1) gautos ir nepanaudotos valstybės
 biudžeto pajamos;
 2) Lietuvos banko kapitalas;
-3) valstybei nuosavybės teise priklausantys
-vertybiniai popieriai ir turtinės teisės, atsirandančios iš šių vertybinių
-popierių;
+3) valstybei nuosavybės teise
+priklausantys vertybiniai popieriai ir turtinės teisės, atsirandančios iš šių
+vertybinių popierių;
 4) valdant, naudojant valstybės
 ilgalaikį materialųjį turtą ar disponuojant juo gautos grynosios pajamos,
 kurios neįskaitomos į valstybės biudžetą;
@@ -144,12 +144,12 @@ išduotas paskolas;
 6) valstybės įmonių kapitalas.
 5. Valstybės trumpalaikis materialusis
 turtas yra valstybei nuosavybės teise priklausantis turtas, kurį numatoma
-sunaudoti ar parduoti per vienerius metus arba kurio įsigijimo vertė yra mažesnė
-už vertę, kurią ilgalaikiam materialiajam turtui nustatė Vyriausybė.
+sunaudoti ar parduoti per vienerius metus arba kurio įsigijimo vertė yra
+mažesnė už vertę, kurią ilgalaikiam materialiajam turtui nustatė Vyriausybė.
 Straipsnio
 pakeitimai:
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
  
  
 4 straipsnis. Savivaldybių turto sandara
@@ -175,10 +175,10 @@ yra:
 1) teisė naudotis savivaldybių
 heraldikos objektais;
 2) savivaldybės įmonių, įstaigų ir
-organizacijų vardu gauti patentai ir licencijos, taip pat teisės, atsirandančios
-iš patentų ir licencijų, sertifikavimo ženklai, techniniai projektiniai
-dokumentai, informacijos apdorojimo programos ir intelektinės veiklos
-rezultatai;
+organizacijų vardu gauti patentai ir licencijos, taip pat teisės,
+atsirandančios iš patentų ir licencijų, sertifikavimo ženklai, techniniai
+projektiniai dokumentai, informacijos apdorojimo programos ir intelektinės
+veiklos rezultatai;
 3) kitas nematerialusis turtas.
 4. Savivaldybių finansinis turtas yra:
 1) gautos ir nepanaudotos savivaldybės
@@ -236,14 +236,15 @@ savivaldybių nuosavybėn pagal Vyriausybės nutarimus, kai yra savivaldybės
 tarybos sutikimas;
 3) įstatymų nustatyta tvarka gaudama pajamų iš mokesčių,
 kitų įmokų ir rinkliavų;
-4) gaudama pajamų iš savivaldybės turto valdymo ir naudojimo;
+4) gaudama pajamų iš savivaldybės turto valdymo ir
+naudojimo;
 5) pagal sandorius;
 6) pagal testamentą paveldėdama turtą;
 7) kitais įstatymų nustatytais būdais.
 Straipsnio
 pakeitimai:
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
  
  
 TREČIASIS
@@ -264,15 +265,15 @@ aktais.
 institucijos, kurioms valdyti ir naudoti valstybės turtą priskiria Mokslo ir
 studijų įstatymas;
 3) valstybės įmonės.
-4) savivaldybės - šio įstatymo 11 straipsnyje
-nustatytais atvejais.
-2. Subjektų, valdančių, naudojančių
-valstybės turtą ir disponuojančių juo, teises ir pareigas nustato įstatymai,
-Vyriausybės nutarimai ir šių subjektų įstatai (nuostatai).
+4) savivaldybės - šio įstatymo 11
+straipsnyje nustatytais atvejais.
+2. Subjektų, valdančių, naudojančių valstybės
+turtą ir disponuojančių juo, teises ir pareigas nustato įstatymai, Vyriausybės
+nutarimai ir šių subjektų įstatai (nuostatai).
 Straipsnio
 pakeitimai:
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
  
  
 8
@@ -313,8 +314,8 @@ išvardytąjį, perduodamas valdyti, naudotis ir disponuoti juo Vyriausybės
 nustatyta tvarka, jeigu Lietuvos Respublikos Seimas nenustato kitaip.
 Straipsnio
 pakeitimai:
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
  
  
 10
@@ -336,8 +337,8 @@ steigėjas Valstybės ir savivaldybės įmonių įstatymo ir kitų įstatymų nu
 tvarka privalo siekti pelningos šių įmonių veiklos.
 Straipsnio
 pakeitimai:
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
  
  
 11 straipsnis.
@@ -360,8 +361,8 @@ valdžios ir valdymo institucijoms, valstybės įmonėms, įstaigoms ir
 organizacijoms.
 Straipsnio
 pakeitimai:
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
  
  
 12 straipsnis. Savivaldybių turto
@@ -404,8 +405,8 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1219,
 99.06.08, Žin., 1999, Nr.55-1772 (99.06.23)
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
  
  
 14 straipsnis. Valstybės ir savivaldybių
@@ -436,10 +437,13 @@ reikalavimai ir patvirtinta pavyzdinė nuomos sutartis.
 teise priklausantį turtą išnuomoja šio įstatymo nustatyta tvarka pagal
 Vyriausybės patvirtintus nuomos konkurso taisykles ir dokumentus.
  
-15 straipsnis. Valstybės ir savivaldybių
-turto apskaita bei indeksavimas
-1. Valstybės ir savivaldybių turto apskaita
-tvarkoma įstatymų nustatyta tvarka.
+15
+straipsnis. Valstybės ir savivaldybių turto apskaita, indeksavimas ir ataskaita
+apie 
+valstybei
+ir savivaldybei nuosavybės teise priklausantį turtą
+1. Valstybės ir savivaldybių turto
+apskaita tvarkoma įstatymų nustatyta tvarka.
 2. Valstybės ir savivaldybių ilgalaikio
 materialiojo turto indeksavimą skelbia bei indeksavimo koeficientą nustato
 Vyriausybė, atsižvelgdama į vartojimo prekių ir paslaugų kainų indeksą.
@@ -452,18 +456,20 @@ teisę taikyti mažesnį už vienetą indeksavimo koeficientą.
 3. Vyriausybė turi teisę indeksuoti
 ilgalaikį materialųjį turtą ir dažniau, neatsižvelgdama į vartojimo prekių ir
 paslaugų kainų indeksą.
-4. Viso valstybei nuosavybės teise
-priklausančio turto apskaitą tvarko Vyriausybės paskirta institucija
-Vyriausybės nustatyta tvarka. Vyriausybė kiekvienais metais iki rugsėjo 1 d.,
-vadovaudamasi šio įstatymo nuostatomis, privalo pateikti Seimui ataskaitą apie
-valstybės turtą. 
-5. Savivaldybei nuosavybės teise
-priklausančio turto apskaitą Vyriausybės nustatyta tvarka tvarko savivaldybės
-tarybos paskirta tarnyba.
+4. Ataskaitą apie valstybei nuosavybės teise priklausantį
+turtą rengia Statistikos departamentas Vyriausybės nustatyta tvarka ir
+kiekvienais metais iki liepos 1 d. teikia Vyriausybei. Vyriausybė kiekvienais
+metais iki rugsėjo 1 d., vadovaudamasi šio įstatymo nuostatomis, privalo
+pateikti Seimui ataskaitą apie valstybės turtą.
+5. Ataskaitą apie savivaldybei nuosavybės
+teise priklausantį turtą bei patikėjimo teise valdomą valstybės turtą rengia
+savivaldybės administracija Vyriausybės nustatyta tvarka.
 Straipsnio
 pakeitimai:
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
+Nr. IX-351, 2001-06-05, Žin., 2001, Nr.
+52-1810 (2001-06-20)
  
  
 16 straipsnis. Turto pirkimas valstybės
@@ -471,8 +477,8 @@ ar savivaldybės reikmėms
 Valstybės valdžios ir valdymo ar
 savivaldos institucijos, valstybės ar savivaldybės įmonės, įstaigos ir
 organizacijos, vadovaudamosi Viešojo pirkimo ir kitais įstatymais, perka prekes
-ir parenka Lietuvos Respublikos bei užsienio subjektus darbams atlikti ir
-paslaugoms teikti.
+ir parenka Lietuvos Respublikos bei užsienio subjektus darbams atlikti ir paslaugoms
+teikti.
  
 17
 straipsnis. Valstybės ir savivaldybių turto perdavimas kitų subjektų nuosavybėn
@@ -488,8 +494,8 @@ pagal Vertybinių popierių viešosios apyvartos įstatymą;
 nuo 2000 m. liepos 1 d.
 Straipsnio
 pakeitimai:
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
  
  
 19 straipsnis. Valstybės ir savivaldybių
@@ -498,10 +504,10 @@ turto mainai
 valdžios ir valdymo ar savivaldos institucijos, valstybės ar savivaldybės
 įmonės, įstaigos ir organizacijos turi teisę perleisti viena kitai joms
 patikėjimo teise priklausantį lygiavertį (iki 10 procentų vertės besiskiriantį)
-ilgalaikį ir trumpalaikį materialųjį turtą, jeigu šie mainai reikalingi
-valstybės valdžios ir valdymo ar savivaldybės funkcijoms įgyvendinti.
-Sprendimus dėl valstybei ar savivaldybei nuosavybės teise priklausančio
-ilgalaikio ir trumpalaikio materialiojo turto mainų priima:
+ilgalaikį ir trumpalaikį materialųjį turtą, jeigu šie mainai reikalingi valstybės
+valdžios ir valdymo ar savivaldybės funkcijoms įgyvendinti. Sprendimus dėl
+valstybei ar savivaldybei nuosavybės teise priklausančio ilgalaikio ir
+trumpalaikio materialiojo turto mainų priima:
 1) Vyriausybė arba jos įgaliota
 institucija - jei bent viena iš mainų šalių yra valstybės valdžios ir valdymo
 institucija, valstybės įmonė, įstaiga ar organizacija, patikėjimo teise
@@ -511,13 +517,13 @@ valdanti valstybės turtą;
 organizacijos, patikėjimo teise valdančios savivaldybių turtą.
 2. Mainomas ilgalaikis ir trumpalaikis
 materialusis turtas įvertinamas taikant bet kokį Turto ir verslo vertinimo
-pagrindų įstatyme nustatytą turto vertinimo metodą. Mainomo ilgalaikio ir
-trumpalaikio materialiojo turto vertės skirtumas gali būti atlyginamas kitu
-turtu ar pinigais.
+pagrindų įstatyme nustatytą turto vertinimo metodą. Mainomo ilgalaikio ir trumpalaikio
+materialiojo turto vertės skirtumas gali būti atlyginamas kitu turtu ar
+pinigais.
 Straipsnio
 pakeitimai:
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
  
  
 20
@@ -544,15 +550,15 @@ akcijas;
 3) valstybės ar savivaldybės įmonių
 ilgalaikis ir trumpalaikis materialusis turtas Valstybės ir savivaldybės įmonių
 įstatymo nustatyta tvarka sumažinus įmonės kapitalą.
-3. Sprendimą dėl valstybei ar
-savivaldybei nuosavybės teise priklausančio ilgalaikio ir trumpalaikio
-materialiojo turto investavimo priima Vyriausybė ar savivaldybės taryba.
-Vyriausybė ar savivaldybės taryba sprendimą dėl valstybei ar savivaldybei
+3. Sprendimą dėl valstybei ar savivaldybei
 nuosavybės teise priklausančio ilgalaikio ir trumpalaikio materialiojo turto
-investavimo į akcines bendroves ar uždarąsias akcines bendroves gali priimti
-tik tada, kai Valstybės ir savivaldybių turto privatizavimo įstatymo nustatyta
-tvarka to turto privatizuoti nepavyko, išskyrus šio straipsnio 5 dalyje
-nustatytus atvejus. 
+investavimo priima Vyriausybė ar savivaldybės taryba. Vyriausybė ar
+savivaldybės taryba sprendimą dėl valstybei ar savivaldybei nuosavybės teise
+priklausančio ilgalaikio ir trumpalaikio materialiojo turto investavimo į
+akcines bendroves ar uždarąsias akcines bendroves gali priimti tik tada, kai
+Valstybės ir savivaldybių turto privatizavimo įstatymo nustatyta tvarka to
+turto privatizuoti nepavyko, išskyrus šio straipsnio 5 dalyje nustatytus
+atvejus. 
 4. Valstybei ar savivaldybei nuosavybės
 teise priklausantis ilgalaikis ir trumpalaikis materialusis turtas į steigiamas
 ar veikiančias akcines bendroves arba uždarąsias akcines bendroves, kuriose
@@ -582,10 +588,10 @@ dalies 1, 2 ir 3 punktuose nurodytų darbų arba juose sumontuota technologinė
 žalos pastatui ar patalpoms.
 6. Vyriausybė ar savivaldybės taryba per
 9 mėnesius nuo privataus kapitalo įmonės dokumentų, patvirtinančių teisę į
-valstybės turtinį įnašą, gavimo dienos privalo nustatyta tvarka perduoti
-pastatą ar patalpas privataus kapitalo įmonei arba per 20 darbo dienų
-motyvuotai atsakyti, kodėl pagal pateiktuosius dokumentus tokiai įmonei
-negalima perduoti pastato arba patalpų. 
+valstybės turtinį įnašą, gavimo dienos privalo nustatyta tvarka perduoti pastatą
+ar patalpas privataus kapitalo įmonei arba per 20 darbo dienų motyvuotai
+atsakyti, kodėl pagal pateiktuosius dokumentus tokiai įmonei negalima perduoti
+pastato arba patalpų. 
  
 21 straipsnis. Valstybės ir savivaldybių
 turto įkeitimas
@@ -687,12 +693,11 @@ nustatyta tvarka.
 7. Pardavus nereikalingą arba netinkamą (negalimą) naudoti valstybės ir
 savivaldybių turtą, atskaičius jo saugojimo ir pardavimo išlaidas, gautos lėšos
 skiriamos:
-1) investicijoms į valstybės ar savivaldybės
-įmonę, valdžiusią šį turtą;
+1) investicijoms į valstybės ar
+savivaldybės įmonę, valdžiusią šį turtą;
 2) kai turtą valdo valdžios ir valdymo
 institucijos, įstaigos ir organizacijos - 50 procentų atitinkamai į valstybės
-ar savivaldybės biudžetą ir 50 procentų institucijoms, įstaigoms ir
-organizacijoms.
+ar savivaldybės biudžetą ir 50 procentų institucijoms, įstaigoms ir organizacijoms.
  
 24
 straipsnis. Nereikalingo arba netinkamo (negalimo) naudoti valstybės ir
@@ -718,11 +723,11 @@ nekilnojamąjį turtą, jei steigėjas raštiškai sutinka.
 3. Vieno steigėjo įsteigtos iš valstybės
 biudžeto išlaikomos įstaigos ir organizacijos, nenurodytos šio straipsnio 1
 dalyje, turi teisę neatlygintinai perduoti patikėjimo teise kito steigėjo
-įsteigtoms iš valstybės biudžeto išlaikomoms įstaigoms ar organizacijoms ilgalaikį
-materialųjį, nematerialųjį turtą, kai turto vieneto likutinė vertė neviršija 50
-tūkstančių litų, ir trumpalaikį materialųjį turtą, kai jo bendra vertė per
-metus neviršija 50 tūkstančių litų (išskyrus nekilnojamąjį turtą), jei abu
-steigėjai raštiškai sutinka.
+įsteigtoms iš valstybės biudžeto išlaikomoms įstaigoms ar organizacijoms
+ilgalaikį materialųjį, nematerialųjį turtą, kai turto vieneto likutinė vertė
+neviršija 50 tūkstančių litų, ir trumpalaikį materialųjį turtą, kai jo bendra
+vertė per metus neviršija 50 tūkstančių litų (išskyrus nekilnojamąjį turtą),
+jei abu steigėjai raštiškai sutinka.
 4. Vieno steigėjo įsteigtos iš valstybės
 biudžeto išlaikomos įstaigos ir organizacijos Vyriausybės nutarimu
 neatlygintinai perduoda patikėjimo teise kito steigėjo įsteigtoms iš valstybės
@@ -730,13 +735,13 @@ biudžeto išlaikomoms įstaigoms ar organizacijoms nematerialųjį ir ilgalaik�
 materialųjį turtą, kai turto vieneto likutinė vertė viršija 50 tūkstančių litų,
 ir trumpalaikį materialųjį turtą, kai jo bendra vertė per metus viršija 50
 tūkstančių litų, taip pat nekilnojamąjį turtą.
-5. Iš valstybės biudžeto išlaikomos įstaigos
-ir organizacijos turi teisę pagal Vyriausybės nutarimą neatlygintinai perduoti
-patikėjimo teise iš savivaldybių biudžetų išlaikomoms įstaigoms ir
-organizacijoms ilgalaikį materialųjį, nematerialųjį, trumpalaikį materialųjį
-turtą, o iš savivaldybių biudžetų išlaikomos įstaigos ir organizacijos turi
-teisę šį turtą pagal savivaldybių tarybų sprendimus neatlygintinai perduoti
-patikėjimo teise iš valstybės biudžeto išlaikomoms įstaigoms ir organizacijoms.
+5. Iš valstybės biudžeto išlaikomos
+įstaigos ir organizacijos turi teisę pagal Vyriausybės nutarimą neatlygintinai
+perduoti patikėjimo teise iš savivaldybių biudžetų išlaikomoms įstaigoms ir
+organizacijoms ilgalaikį materialųjį, nematerialųjį, trumpalaikį materialųjį turtą,
+o iš savivaldybių biudžetų išlaikomos įstaigos ir organizacijos turi teisę šį
+turtą pagal savivaldybių tarybų sprendimus neatlygintinai perduoti patikėjimo
+teise iš valstybės biudžeto išlaikomoms įstaigoms ir organizacijoms.
 6. Iš savivaldybės biudžeto išlaikomos
 įstaigos ir organizacijos turi teisę viena kitai perduoti patikėjimo teise
 valdomą savivaldybės nematerialųjį ir ilgalaikį materialųjį turtą, kai turto
@@ -773,9 +778,8 @@ NUOSTATOS
 kurių valdymą, naudojimą ir disponavimą jomis reglamentuoja kiti įstatymai.
 Skirsnio ir
 straipsnio numeracijos pakeitimas:
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09),įsigalioja nuo
-2000.07.01
- 
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09),įsigalioja nuo 2000.07.01
  
  
 Vadovaudamasis Lietuvos Respublikos
@@ -788,7 +792,7 @@ SEIMO
 PIRMININKAS                                                                    VYTAUTAS
 LANDSBERGIS
  
-______________
+_____________
  
  
 Pakeitimai:
@@ -805,14 +809,23 @@ JUO ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 2.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. VIII-1686, 00.05.18, Žin., 2000, Nr.47-1340 (00.06.09)
+Nr. VIII-1686, 00.05.18, Žin., 2000,
+Nr.47-1340 (00.06.09)
 LIETUVOS
 RESPUBLIKOS VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO
 JUO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja nuo 2000 m. liepos 1 d.
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-351, 2001-06-05, Žin., 2001, Nr.
+52-1810 (2001-06-20)
+VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO
+ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.06.09)
+Redagavo: Aušrinė Trapinskienė (2001-06-20)
+                  autrap@lrs.lt
