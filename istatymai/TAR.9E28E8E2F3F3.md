@@ -117,12 +117,26 @@ socialinio draudimo fondo valdybos ir kitų valstybės institucijų bei pareigū
 turto arešto aktai, kuriais įstatymų nustatytais pagrindais ir tvarka
 laikinai priverstinai apribojamos teisės į Lietuvos Respublikoje esantį turtą,
 jį areštuojant.
+ 
+[1 dalies redakcija nuo 2003 m. liepos 1
+d.:
+1. Turto arešto
+aktų registre registruojami teismų, teisėjų, teismo antstolių, prokurorų,
+tardytojų, kvotėjų, Valstybinės mokesčių inspekcijos ir kitų valstybės
+institucijų bei pareigūnų turto arešto aktai, kuriais įstatymų nustatytais
+pagrindais ir tvarka laikinai priverstinai apribojamos teisės į Lietuvos
+Respublikoje esantį turtą, jį areštuojant.]
+ 
 2. Šio
 straipsnio 1 dalyje nurodytų institucijų (pareigūnų) priimti turto arešto aktai
 neregistruojami, jeigu areštuotas kilnojamasis turtas (produktai, kiti greitai
 gendantys daiktai, gyvūnai) įstatymų nustatyta tvarka paimamas ir nedelsiant
 perduodamas realizuoti, taip pat jei areštuojami mažaverčiai asmeniniams ir
 namų ūkio poreikiams naudojami daiktai. 
+Straipsnio pakeitimai:
+Nr.
+IX-873,
+2002-05-07, Žin., 2002, Nr. 52-1986 (2002-05-24), įsigalioja nuo 2003-07-01
  
 7 straipsnis.
 Turto arešto aktų registro tvarkymo įstaigos
@@ -169,9 +183,8 @@ pavadinimas, kodas, buveinės adresas;
 akto priėmimo laikas ir vieta;
 10) turto arešto
 aktą priėmusi institucija (pareigūnas).
-2.
-Registruojamam turto arešto aktui suteikiamas unikalus numeris turto arešto
-aktų registre.
+2. Registruojamam
+turto arešto aktui suteikiamas unikalus numeris turto arešto aktų registre.
  
 9 straipsnis.
 Atsisakymas įregistruoti turto arešto aktą
@@ -218,10 +231,10 @@ areštuojamas, turto sudėtis, buvimo vieta ir dėl to turto arešto akte
 nenurodyti visą areštuojamą turtą ar jo dalį identifikuojantys duomenys, šis
 aktas įregistruojamas turto arešto aktų registre laikinai, nenurodant išsamių
 duomenų apie visą ar dalį areštuojamo turto.
-2. Pateikus
-hipotekos skyriui turto arešto akto pakeitimą arba papildomą turto arešto aktą,
-kuriame nurodyti visi areštuotą turtą identifikuojantys duomenys, turto arešto
-aktų registre daromi atitinkami pakeitimai ir turto arešto akto laikino
+2. Pateikus hipotekos
+skyriui turto arešto akto pakeitimą arba papildomą turto arešto aktą, kuriame
+nurodyti visi areštuotą turtą identifikuojantys duomenys, turto arešto aktų
+registre daromi atitinkami pakeitimai ir turto arešto akto laikino
 įregistravimo žyma panaikinama. Teismo (teisėjo) nutarties areštuoti turtą,
 kurioje nenurodyti išsamūs duomenys apie visą areštuojamą turtą ar jo dalį,
 laikino įregistravimo žyma panaikinama, kai teismo antstolis pateikia areštuoto
@@ -230,9 +243,10 @@ turto apyrašą, sudarytą vykdant teismo (teisėjo) nutartį.
 mėnesį nuo turto arešto akto laikino įregistravimo dienos hipotekos skyriui
 nepateikiamas turto arešto akto pakeitimas ar papildomas turto arešto aktas,
 kuriame nurodyti visi areštuotą turtą identifikuojantys duomenys, arba
-papildomai pateiktuose hipotekos skyriui dokumentuose nepakanka duomenų areštuotam
-turtui identifikuoti, hipotekos teisėjo nutartimi laikinai įregistruotas turto
-arešto aktas gali būti išregistruotas iš turto arešto aktų registro. 
+papildomai pateiktuose hipotekos skyriui dokumentuose nepakanka duomenų
+areštuotam turtui identifikuoti, hipotekos teisėjo nutartimi laikinai
+įregistruotas turto arešto aktas gali būti išregistruotas iš turto arešto aktų
+registro. 
  
 12 straipsnis. Turto
 arešto aktų registro duomenų pakeitimo tvarka
@@ -271,11 +285,11 @@ išsiunčiamas asmeniui, kurio turtas areštuotas teismo (teisėjo) nutartimi.
 straipsnis. Duomenų apie turto arešto akto įregistravimą perdavimas kitiems 
 valstybės
 registrams
-1. Tais atvejais,
-kai areštuojamas valstybės registre įregistruotas turtas, turto arešto aktų
-registro duomenų bazės tvarkytojas apie teisės į registre įregistruotą turtą
-apribojimą per 8 darbo valandas praneša atitinkamam turto registrui Turto
-arešto aktų registro nuostatų nustatyta tvarka.
+1. Tais
+atvejais, kai areštuojamas valstybės registre įregistruotas turtas, turto
+arešto aktų registro duomenų bazės tvarkytojas apie teisės į registre
+įregistruotą turtą apribojimą per 8 darbo valandas praneša atitinkamam turto
+registrui Turto arešto aktų registro nuostatų nustatyta tvarka.
 2. Tais
 atvejais, kai areštavus juridinio asmens ar neturinčios juridinio asmens teisių
 įmonės turtą yra skiriamas turto administratorius, turto arešto aktų registro
@@ -380,9 +394,21 @@ Nr. IX-190, 2001 02 22, Žin.,
 TURTO AREŠTO AKTŲ
 REGISTRO ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-873,
+2002-05-07, Žin., 2002, Nr. 52-1986 (2002-05-24)
+TURTO
+AREŠTO AKTŲ REGISTRO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2003 m. liepos 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė
-Trapinskienė (2001 03 02)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2002-05-27)
+                 
+autrap@lrs.lt
