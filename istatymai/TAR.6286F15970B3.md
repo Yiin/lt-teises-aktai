@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2001-11-28 iki 2002-06-30
+Suvestinė redakcija nuo 2002-07-01 iki 2002-07-16
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -866,7 +866,15 @@ Aplinkos ministerija:
 
 
 
-10) periodiškai informuoja visuomenę ir valstybės valdymo bei vietos savivaldos institucijas apie šalies radiacinę būklę, taip pat ir branduolinės energetikos objektų aplinkoje. 
+10) periodiškai informuoja visuomenę ir valstybės valdymo bei vietos savivaldos institucijas apie šalies radiacinę būklę, taip pat ir branduolinės energetikos objektų aplinkoje; 
+
+
+
+
+11) branduolinės energetikos objektų valstybinę statybos kontrolę ir priežiūrą atliekančių institucijų teikimu arba savo iniciatyva panaikina leidimą statyti ar rekonstruoti branduolinės energetikos objektą, kai paaiškėja, kad toks leidimas išduotas neteisėtai. 
+Papildyta straipsnio punktu:
+Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
+ 
 
 
 
@@ -1377,23 +1385,132 @@ Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, N
 32 straipsnis. Branduolinės energetikos objektų statybos valstybinė kontrolė ir priežiūra
 
 
-1. Leidimą statyti branduolinės energetikos objektą nustatyta tvarka išduoda apskrities viršininko administracija. 
+1. Leidimą statyti ar rekonstruoti branduolinės energetikos objektą išduoda Vyriausybė ar jos įgaliota institucija. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
+Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
  
 
 
 
 
-2. Branduolinės energetikos objektų statybos valstybinė kontrolė ir priežiūra atliekama visose pagrindinėse darbų vykdymo stadijose: objekto projektavimo ir statybos metu, perduodant jį eksploatuoti, eksploatuojant ir nutraukiant eksploataciją.
+2. Statytojas (užsakovas), norėdamas gauti leidimą statyti ar rekonstruoti branduolinės energetikos objektą, turi pateikti Vyriausybei ar jos įgaliotai institucijai:
+
+
+1) nustatytos formos prašymą;
 
 
 
 
-3. Visose darbų vykdymo stadijose branduolinės saugos, radiacinės apsaugos ir kituose norminiuose aktuose nustatytų sąlygų bei reikalavimų įgyvendinimą kontroliuoja ir prižiūri pagal kompetenciją: VATESI, Sveikatos apsaugos ministerija, Aplinkos ministerija, Socialinės apsaugos ir darbo ministerija, Vidaus reikalų ministerija, Valstybės saugumo departamentas, Radiacinės saugos centras ir apskrities viršininkas. 
+2) VATESI išduotą licenciją statyti branduolinės energetikos objektą;
+
+
+
+
+3) dokumentą, patvirtinantį statytojo (užsakovo) nuosavybės teisę ar kitokias teises į žemės sklypą;
+
+
+
+
+4) šio įstatymo 30 straipsnio nustatyta tvarka suderintą branduolinės energetikos objekto projektą;
+
+
+
+
+5) branduolinės energetikos objekto projekto ekspertizės, atliktos šio įstatymo 31 straipsnio nustatyta tvarka, išvadas;
+
+
+
+
+6) atsakingos institucijos sprendimą, kad planuojama ūkinė veikla poveikio aplinkai požiūriu pasirinktoje vietoje yra leistina;
+
+
+
+
+7) dokumentą dėl branduolinės energetikos objekto statybos techninės priežiūros vadovo paskyrimo; 
+
+
+
+
+8) branduolinės energetikos objekto kadastrinių matavimų ir teisinės registracijos pažymėjimą (kai branduolinės energetikos objektas rekonstruojamas) 
+
+
+Papildyta straipsnio dalimi:
+Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
+ 
+
+
+
+
+3. Leidimą statyti ar rekonstruoti branduolinės energetikos objektą Vyriausybė ar jos įgaliota institucija išduoda ne vėliau kaip per 20 dienų nuo šio straipsnio 2 dalyje nurodytų dokumentų pateikimo dienos, juos patikrinusi ir nustačiusi, kad branduolinės energetikos objekto statyba atitinka teritorijų planavimo dokumentų nustatyto statybos sklypo režimo reikalavimus
+Papildyta straipsnio dalimi:
+Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
+ 
+
+
+
+
+4. Jei leidimas statyti ar rekonstruoti branduolinės energetikos objektą neišduodamas, Vyriausybė ar jos įgaliota institucija per šio straipsnio 3 dalyje nurodytą laiką praneša apie tai raštu statytojui (užsakovui), nurodydama konkrečias minėto leidimo neišdavimo priežastis
+Papildyta straipsnio dalimi:
+Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
+ 
+
+
+
+
+5. Leidimas statyti ar rekonstruoti branduolinės energetikos objektą netenka galios:
+
+
+1) teismo sprendimu;
+
+
+
+
+2) Aplinkos ministerijos sprendimu – paaiškėjus, kad jis išduotas neteisėtai;
+
+
+
+
+3) jei per 10 metų nuo leidimo išdavimo dienos branduolinės energetikos objektas neperduotas eksploatuoti
+
+
+Papildyta straipsnio dalimi:
+Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
+ 
+
+
+
+
+6. Leidimų statyti ar rekonstruoti branduolinės energetikos objektą išdavimo taisykles nustato Vyriausybė
+Papildyta straipsnio dalimi:
+Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
+ 
+
+
+
+
+7. Leidimų statyti ar rekonstruoti branduolinės energetikos objektus apskaitą, sąrašą bei statistikos atskaitomybę tvarko Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
+ 
+
+
+
+
+8. Branduolinės energetikos objektų statybos valstybinė kontrolė ir priežiūra atliekama visose pagrindinėse darbų vykdymo stadijose: objekto projektavimo ir statybos metu, perduodant jį eksploatuoti, eksploatuojant ir nutraukiant eksploataciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
+ 
+
+
+
+
+9. Visose darbų vykdymo stadijose branduolinės saugos, radiacinės apsaugos ir kituose norminiuose aktuose nustatytų sąlygų bei reikalavimų įgyvendinimą kontroliuoja ir prižiūri pagal kompetenciją: VATESI, Sveikatos apsaugos ministerija, Aplinkos ministerija, Socialinės apsaugos ir darbo ministerija, Vidaus reikalų ministerija, Valstybės saugumo departamentas, Radiacinės saugos centras ir apskrities viršininkas. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
 Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
  
 
 
@@ -2399,3 +2516,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo 14, 16, 19, 26, 30, 31, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
 Lietuvos Respublikos branduolinės energijos įstatymo 1, 2, 48, 49, 50, 51 straipsnių pakeitimo bei papildymo ir devintojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
+Lietuvos Respublikos branduolinės energijos įstatymo 16 ir 32 straipsnių pakeitimo įstatymas
