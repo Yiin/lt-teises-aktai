@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2002-09-01 iki 2003-04-10
+Suvestinė redakcija nuo 2003-04-11 iki 2003-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
  
@@ -145,7 +145,10 @@ LOŠIMŲ MOKESČIO APSKAIČIAVIMO BEI SUMOKĖJIMO TVARKA
 
 
 
-2. Bendrovės, organizuojančios stalo lošimus (ruletės, kortų, kauliukų lošimus) ir lošimus automatais, už kiekvieną įrengtą ruletės, kortų arba kauliukų stalą ir įrengtą lošimo automatą (įskaitant ir tą mėnesį, kai šie lošimų įrenginiai buvo pradėti naudoti: buvo išduotas (papildytas) leidimas atidaryti lošimo namus (kazino), lošimo automatų saloną) lošimų mokestį apskaičiuoja taikydamos šio įstatymo 5 straipsnio 2 dalyje nustatytus dydžius ir sumoka iš anksto ne vėliau kaip prieš 5 dienas prasidedant kiekvienam mokestiniam laikotarpiui.
+2. Bendrovės, organizuojančios stalo lošimus (ruletės, kortų, kauliukų lošimus) ir lošimus automatais, už kiekvieną įrengtą ruletės, kortų arba kauliukų stalą ir įrengtą lošimo automatą lošimų mokestį apskaičiuoja taikydamos šio įstatymo 5 straipsnio 2 dalyje nustatytus dydžius ir sumoka ne vėliau kaip per 5 dienas nuo mokestinio laikotarpio pradžios. Lošimų mokesčio už kiekvieną lošimo įrenginį pirmasis mokestinis laikotarpis yra kalendorinių metų ketvirtis, kurį išduodamas, papildomas arba pakeičiamas leidimas atidaryti automatų, bingo saloną arba lošimo namus (kazino). Pirmąjį mokestinį laikotarpį lošimų mokestis už kiekvieną lošimo įrenginį apskaičiuojamas ir sumokamas ne vėliau kaip per 5 dienas nuo leidimo atidaryti automatų, bingo saloną arba lošimo namus (kazino) išdavimo, papildymo arba pakeitimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1391, 2003-03-25, Žin., 2003, Nr. 35-1465 (2003-04-11), i. k. 1031010ISTA0IX-1391
+ 
 
 
 
@@ -250,3 +253,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-996, 2002-06-27, Žin., 2002, Nr. 72-3011 (2002-07-17), i. k. 1021010ISTA00IX-996
 Lietuvos Respublikos azartinių lošimų mokesčio įstatymo 3 ir 5 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1391, 2003-03-25, Žin., 2003, Nr. 35-1465 (2003-04-11), i. k. 1031010ISTA0IX-1391
+Lietuvos Respublikos azartinių lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
