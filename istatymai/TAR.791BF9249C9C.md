@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 1997-07-09 iki 1999-12-29
+Suvestinė redakcija nuo 1999-12-30 iki 2005-06-17
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -262,12 +262,18 @@ Kūno kultūros ir sporto departamentas:
 
 
 
-8) Vyriausybės nustatyta tvarka atitinkamos sporto šakos federacijos teikimu išduoda licencijas sporto treneriams, sprendžia jų galiojimo nutraukimo prieš laiką klausimus;
+8) nustatyta tvarka atitinkamos sporto šakos federacijos teikimu išduoda licencijas kūno kultūros ir sporto specialistams, sprendžia jų galiojimo nutraukimo prieš laiką klausimus;
+Straipsnio punkto pakeitimai:
+Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
+ 
 
 
 
 
-9) Vyriausybės nustatyta tvarka išduoda licencijas steigti sportinio profilio mokyklas;
+9) nustatyta tvarka išduoda licencijas steigti sportinio profilio mokyklas;
+Straipsnio punkto pakeitimai:
+Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
+ 
 
 
 
@@ -804,12 +810,7 @@ Kūno kultūros ir sporto teorinio ir praktinio mokymo, treniravimo darbą valst
 27 straipsnis. Licencijų (leidimų) išdavimas kūno kultūros ir sporto specialistams
 
 
-Licencijų (leidimų) kūno kultūros ir sporto specialistams išdavimo tvarką nustato Vyriausybė.
-
-
-
-
-Licencijas išduoda Kūno kultūros ir sporto departamentas atitinkamų sporto šakų federacijų teikimu.
+Licencijų (leidimų) kūno kultūros ir sporto specialistams išdavimo tvarką nustato ir licencijas išduoda Kūno kultūros ir sporto departamentas. 
 
 
 
@@ -819,10 +820,12 @@ Licencijos galiojimas gali būti nutrauktas, jeigu licenciją turintis asmuo sav
 
 
 
-Licencijos galiojimo nutraukimo klausimą sprendžia Kūno kultūros ir sporto departamentas atitinkamos sporto šakos federacijos teikimu. Asmuo, kuriam buvo atsisakyta išduoti licenciją arba kurio licencijos galiojimas buvo nutrauktas, turi teisę ginčyti tokį Kūno kultūros ir sporto departamento sprendimą teisme.
+Licencijos galiojimo nutraukimo klausimą sprendžia Kūno kultūros ir sporto departamentas atitinkamos sporto šakos federacijos teikimu. Asmuo, kuriam buvo atsisakyta išduoti licenciją arba kurio licencijos galiojimas buvo nutrauktas, turi teisę ginčyti tokį Kūno kultūros ir sporto departamento sprendimą teisme. 
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
  
-
-
 
 
 
@@ -1314,10 +1317,12 @@ Sporto varžybas ir kitus sporto renginius turi teisę organizuoti valstybinės 
 49 straipsnis. Sporto varžybų nuostatai
 
 
-Sporto varžybos vykdomos pagal varžybų nuostatus. Nuostatuose turi būti nurodyti varžybų organizatoriai, taip pat varžybų vykdymo sąlygos ir tvarka.
+Sporto varžybos vykdomos pagal varžybų nuostatus. Nuostatai turi atitikti sporto varžybų taisykles, suderintas su Kūno kultūros ir sporto departamentu ir patvirtintas sporto šakos nacionalinės federacijos, sąjungos, asociacijos. Nuostatuose turi būti nurodyti varžybų organizatoriai, taip pat varžybų vykdymo sąlygos, tvarka ir saugos reikalavimai.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
  
-
-
 
 
 
@@ -1330,12 +1335,17 @@ Sporto varžybų ir kitų sporto renginių organizatoriai atsako už tai, kad to
 
 
 
-Sporto varžybų metu turi būti laikomasi Kūno kultūros ir sporto departamento nustatytų saugaus sportavimo taisyklių. Sporto varžybų metu privalo budėti gydytojas ar kitas medicinos darbuotojas.
+2. Neteko galios nuo 1999-12-30
+Straipsnio dalies naikinimas:
+Nr. VIII-1478, 1999-12-14, Žin. 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
+ 
 
 
 
 
-Sporto varžybų organizatoriai turi teisę neleisti dalyvauti jų rengiamose sporto varžybose sportininkų, kurių sveikata nėra apdrausta tos sporto šakos federacijos nustatyta tvarka.
+3. Neteko galios nuo 1999-12-30
+Straipsnio dalies naikinimas:
+Nr. VIII-1478, 1999-12-14, Žin. 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
  
 
 
@@ -1405,3 +1415,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
 Lietuvos Respublikos kūno kultūros ir sporto įstatymo 9, 12, 13 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 11, 27, 49, 50 straipsnių pakeitimo ir papildymo įstatymas
