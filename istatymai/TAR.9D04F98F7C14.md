@@ -68,10 +68,12 @@ rūsių, nešildomų lodžijų grindų plotas.
 ar kelių gyvenamųjų kambarių, virtuvės bei kitų patalpų, atitvarų
 konstrukcijomis atskirta nuo bendrojo naudojimo patalpų, kitų butų ar
 negyvenamųjų patalpų.
-5. Jauna
-šeima – šeima, kurioje kiekvienas iš sutuoktinių yra ne vyresnis kaip 35
-metų, taip pat šeima, kurioje motina arba tėvas vieni augina vieną ar daugiau
-vaikų (įvaikių) ir yra ne vyresni kaip 35 metų.
+5. Jauna šeima – šeima, kurioje kiekvienas iš
+sutuoktinių yra ne vyresnis kaip 35 metų, taip pat šeima, kurioje motina arba
+tėvas vieni augina vieną ar daugiau vaikų (įvaikių) ir yra ne vyresni kaip 35
+metų. Jaunos šeimos nariais taip pat laikomi asmenys, teismo tvarka pripažinti
+šeimos nariais, ir gali būti laikomi  sutuoktinių ar vienišo asmens kartu
+gyvenantys tėvai (įtėviai).
 6.
 Savivaldybės socialinio būsto fondas -
 savivaldybei nuosavybės teise priklausantys, taip pat patikėjimo teise jos
@@ -82,13 +84,15 @@ būstą.
 būstas – nekomerciniu pagrindu, pagal Vyriausybės nustatytą nuomos mokesčio
 apskaičiavimo tvarką nuomojamos savivaldybės gyvenamosios patalpos, skirtos
 mažas pajamas turintiems asmenims ir šeimoms apgyvendinti pagal šio Įstatymo
-nustatytas sąlygas (socialinio būsto kategorijai nepriskiriamos tarnybinės
-gyvenamosios patalpos, bendrabučiai, nakvynės namai, gydymo ar globos (rūpybos)
-gyvenamosios patalpos).
-8. Šeima - sutuoktiniai, jų nepilnamečiai
-vaikai (įvaikiai) iki 18 metų (toliau -
-vaikai (įvaikiai), taip pat motina arba tėvas, vieni auginantys vieną ar
-daugiau vaikų (įvaikių). 
+nustatytas sąlygas (socialinio būsto kategorijai nepriskiriamos tarnybinės gyvenamosios
+patalpos, bendrabučiai, nakvynės namai, gydymo ar globos (rūpybos) gyvenamosios
+patalpos).
+8. Šeima
+– sutuoktiniai, jų nepilnamečiai vaikai (įvaikiai) iki 18 metų (toliau – vaikai
+(įvaikiai), taip pat motina arba tėvas, vieni auginantys vieną ar daugiau vaikų
+(įvaikių). Šeimos nariais taip pat laikomi asmenys, teismo tvarka pripažinti
+šeimos nariais, ir gali būti laikomi sutuoktinių ar vienišo asmens kartu
+gyvenantys tėvai (įtėviai).
 9. Tinkamas
 būstas - būstas, kuris
 tinka gyventi vienam asmeniui ar šeimai ir atitinka statybos bei specialiųjų
@@ -103,6 +107,10 @@ draudimo įmokas ar jų dalį, teikiant subsidijas būsto kredito daliai padengt
 našlaitis (toliau - našlaitis) – asmuo, kurio
 abu tėvai yra mirę arba turėtas vienintelis iš tėvų yra miręs, iki šiam
 asmeniui sukankant 18 metų. 
+Straipsnio
+pakeitimai:
+Nr. IX-1549,
+2003-04-29, Žin., 2003, Nr. 48-2109 (2003-05-15)
  
 ANTRASIS
 SKIRSNIS
@@ -120,35 +128,33 @@ daliai padengti.
 Valstybės paramos teikimo sąlygos
 1. Valstybės
 parama būstui įsigyti teikiama asmenims (šeimoms), nurodytiems šio Įstatymo 1
-straipsnyje, jeigu jų vienų metų (12 paskutinių mėnesių) turtas ir pajamos
-prieš paramos suteikimą yra mažesni už turtą ir pajamas, kurių didžiausius
-dydžius ir (ar) jų apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota
-institucija Valstybės remiamų būsto kreditų teikimo tvarkoje, ir jeigu jie
-įsigyja pirmąjį tinkamą būstą, t. y. jeigu šie asmenys (šeimos) Lietuvos
-Respublikos teritorijoje:
-1) neturi ir
+straipsnyje, jeigu jų metinės pajamos ir turtas prieš paramos suteikimo metus
+yra mažesni už pajamas ir turtą, kurių didžiausius dydžius ir (ar) jų
+apskaičiavimo tvarką nustato Vyriausybė tvirtindama Valstybės remiamų būsto
+kreditų teikimo tvarką, ir jeigu jie įsigyja pirmąjį tinkamą būstą, t. y. jeigu
+šie asmenys (šeimos) Lietuvos Respublikos teritorijoje:
+1) neturi ar
 neturėjo būsto nuosavybės teise arba
-2) turi ar
-turėjo nuosavybės (ar bendrosios nuosavybės) teise būstą, kurio naudingasis
-plotas, tenkantis vienam šeimos nariui (ar bendraturčių namų ūkių nariui), yra
-mažesnis kaip 14 kvadratinių metrų, arba turimas būstas, nepaisant jo
-naudingojo ploto, Nekilnojamojo turto kadastro duomenimis, yra nusidėvėjęs
-daugiau kaip 60 procentų ir šis būstas yra kaimo vietovėje, kurioje jo
-savininkas negyvena ir (ar) nedirba, arba
+2) turi ar turėjo nuosavybės (ar bendrosios
+nuosavybės) teise būstą, kurio naudingasis plotas, tenkantis vienam šeimos
+nariui (ar bendraturčių namų ūkio nariui), yra mažesnis kaip 14 kvadratinių
+metrų, arba turimas būstas, nepaisant jo naudingojo ploto, Nekilnojamojo turto
+kadastro duomenimis, yra nusidėvėjęs daugiau kaip 60 procentų ir šis būstas yra
+kaimo vietovėje, kurioje jo savininkas negyvena ir  (ar) nedirba, arba
 3) Nekilnojamojo
 turto kadastro duomenimis, turi daugiau kaip 60 procentų nusidėvėjusį būstą
 (neatsižvelgiant į jo naudingojo ploto dydį), yra Statybos įstatymo bei kitų
 teisės aktų nustatyta tvarka parengę šio būsto rekonstravimo projektą, jeigu
 šis būstas yra deklaruojamas kaip paskolos gavėjo (ir (ar) jo šeimos narių)
 gyvenamoji vieta ir šie asmenys nuosavybės teise neturi kito būsto. Šiuo atveju
-parama teikiama turimam būstui rekonstruoti; arba
+parama teikiama turimam būstui rekonstruoti, arba
 4) turi būstą,
 nepritaikytą neįgaliųjų, kurių judėjimo funkcija sutrikusi, poreikiams, jei
 tokiems asmenims yra nustatytas I ar II grupės invalidumas, arba šeimoje yra
 neįgalus vaikas, kurio judėjimo funkcija sutrikusi, arba tokios pat negalios
 asmuo, kuriam nustatytas I ar II grupės invalidumas. Parama teikiama turimam
 būstui rekonstruoti, pritaikant jį neįgaliųjų poreikiams Valstybės remiamų
-būsto kreditų teikimo tvarka. 
+būsto kreditų teikimo tvarka.
 2. Valstybės
 remiama būsto kredito suma neturi būti didesnė kaip:
 1) 120
@@ -167,6 +173,10 @@ kreditų teikimo (Įstatymo nustatytų subsidijų padengimo) tvarkos. Sutartyse
 turi būti nustatytos didžiausios metinės šių kreditų apimtys (limitai)
 atsižvelgiant į valstybės biudžeto asignavimus valstybės paramai pagal šį
 Įstatymą teikti.
+Straipsnio
+pakeitimai:
+Nr. IX-1549,
+2003-04-29, Žin., 2003, Nr. 48-2109 (2003-05-15)
  
 5 straipsnis.
 Būsto kreditų draudimas ir draudimo įmokų mokėjimas
@@ -191,8 +201,9 @@ našlaičiai, kol jie sukanka 35 metus, arba I ar II grupės invalidai, arba
 20 procentų suteikto kredito (ar kredito likučio) sumos;
 2) šeimos,
 auginančios tris ar daugiau vaikų (įvaikių), taip pat jaunos šeimos,
-auginančios vieną ar daugiau vaikų (įvaikių) – padengiama 10 procentų suteikto
-kredito (ar kredito likučio) sumos.
+auginančios vieną ar daugiau vaikų (įvaikių), ir šeimos, kuriose vienas iš tėvų
+yra miręs, – padengiama 10 procentų suteikto kredito (ar kredito likučio)
+sumos.
 2. Subsidijos
 teikiamos pagal Valstybės remiamų būsto kreditų teikimo tvarką.
 3. Tuo atveju,
@@ -202,10 +213,13 @@ kreditą grąžina bankui anksčiau kaip per penkerius metus arba už šį kredi
 perleidžia kitam asmeniui, ši subsidija turi būti grąžinta pervedant pinigus į
 valstybės biudžetą. Subsidiją pagal kredito sutartį grąžina
 kreditą suteikęs bankas.
-4. Jeigu kredito
-gavėjas teisę į šią subsidiją įgijo nuo kredito gavimo, subsidija
-apskaičiuojama nuo kredito likučio sumos, esančios kredito gavėjo rašytinio
-prašymo, pateikto šio straipsnio 2 dalyje nurodyta tvarka, pateikimo dieną.
+4. Jeigu būsto kredito gavėjas teisę į šią subsidiją
+įgijo po kredito gavimo, subsidija apskaičiuojama nuo kredito likučio sumos
+vadovaujantis šio straipsnio 2 dalyje nurodyta tvarka.
+Straipsnio
+pakeitimai:
+Nr. IX-1549,
+2003-04-29, Žin., 2003, Nr. 48-2109 (2003-05-15)
  
 TREČIASIS
 SKIRSNIS
@@ -220,9 +234,9 @@ asignavimų ir savivaldybių lėšų, statant naujus arba rekonstruojant ir
 pritaikant būsto paskirčiai esamus pastatus, taip pat perkant ar kitokiu būdu
 teisėtai įsigyjant gyvenamuosius namus, jų dalis, butus. Šiais būdais įsigyti
 gyvenamieji namai, jų dalys, butai registruojami savivaldybės nuosavybės teise.
-Valstybės biudžeto asignavimai socialinio būsto fondui plėtoti planuojami ir
-paskirstomi savivaldybėms pagal Vyriausybės patvirtintą socialinio būsto fondo
-plėtros programą. 
+Valstybės biudžeto asignavimai socialinio būsto fondui plėtoti planuojami ir paskirstomi
+savivaldybėms pagal Vyriausybės patvirtintą socialinio būsto fondo plėtros
+programą. 
 2. Socialinis
 būstas neprivatizuojamas, išskyrus atvejus, nustatytus šio Įstatymo 12
 straipsnyje. 
@@ -232,12 +246,11 @@ Teisė į savivaldybės socialinį būstą ar jo sąlygų pagerinimą
 1. Teisę į
 savivaldybės socialinį būstą turi šio Įstatymo 1 straipsnyje nurodyti asmenys
 (šeimos), jeigu jie neturi Lietuvos Respublikos teritorijoje nuosavybės teise
-priklausančio būsto arba turimo būsto naudingasis plotas, tenkantis vienam
-šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų ir asmens (jo šeimos)
-vienų metų (12 paskutinių mėnesių) turtas ir pajamos prieš savivaldybės
-socialinio būsto suteikimą yra mažesnės už turtą ir pajamas, kurių didžiausius
-dydžius ir (ar) jų apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota
-institucija.
+priklausančio būsto arba turimo būsto naudingasis plotas, tenkantis vienam šeimos
+nariui, yra mažesnis kaip 10 kvadratinių metrų ir asmens (jo šeimos) metinės
+pajamos ir turtas prieš savivaldybės socialinio būsto suteikimo
+metus yra mažesni už pajamas ir turtą, kurių didžiausius dydžius
+ir (ar) jų apskaičiavimo tvarką nustato Vyriausybė.
 2. Asmuo
 (šeima), gyvenantis savivaldybės išnuomotame būste, kurio naudingasis plotas,
 tenkantis vienam šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų arba
@@ -249,6 +262,10 @@ nustatytus socialinio būsto naudingojo ploto normatyvus. Suteikus kitą būstą
 asmuo (šeima) privalo patuštinti nuomotą savivaldybės būstą. Šiais atvejais
 asmens (šeimos) turtas ir pajamos taip pat neturi viršyti dydžių, kurie
 nustatomi šio straipsnio 1 dalyje nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr. IX-1549,
+2003-04-29, Žin., 2003, Nr. 48-2109 (2003-05-15)
  
 9 straipsnis.
 Socialinio būsto naudingojo ploto normatyvas
@@ -261,11 +278,11 @@ socialinį būstą, atsižvelgiama į tai, kad būtų galimybė turėti atskirus
 kambarius I ir II grupės invalidams, vaikui invalidui, asmenims, sergantiems
 lėtinių ligų, įrašytų į Vyriausybės ar jos įgaliotos institucijos tvirtinamą
 sąrašą, sunkiomis formomis, taip pat skirtingų lyčių vaikams. Šiais atvejais
-savivaldybės vykdomosios institucijos sprendimu šeimai išnuomojamo būsto
-naudingasis plotas gali būti didesnis negu normatyvinis naudingasis plotas,
-apskaičiuotas pagal šio straipsnio 1 dalį. Šeimai išnuomojamo socialinio būsto
-naudingasis plotas taip pat gali būti padidintas, jeigu savivaldybės socialinio
-būsto fonde nėra laisvų butų, atitinkančių šio straipsnio 1 dalies sąlygas. 
+savivaldybės vykdomosios institucijos sprendimu šeimai išnuomojamo būsto naudingasis
+plotas gali būti didesnis negu normatyvinis naudingasis plotas, apskaičiuotas
+pagal šio straipsnio 1 dalį. Šeimai išnuomojamo socialinio būsto naudingasis
+plotas taip pat gali būti padidintas, jeigu savivaldybės socialinio būsto fonde
+nėra laisvų butų, atitinkančių šio straipsnio 1 dalies sąlygas. 
 3. Išnuomojant
 vieno kambario butą, jo naudingasis plotas, tenkantis vienam šeimos nariui,
 gali būti didesnis negu apskaičiuotas pagal šio straipsnio 1 dalyje nustatytus
@@ -332,9 +349,9 @@ lengvatinėmis
 sąlygomis
 1. Savivaldybės
 (valstybės) gyvenamosios patalpos gali būti privatizuojamos laikantis sąlygos,
-kad jų pardavimo kaina nebūtų didesnė negu kaina pinigais, kuri Butų privatizavimo
-įstatymo nustatyta tvarka galėjo būti apskaičiuota iki 1998 m. liepos 1 d. ir
-patikslinta atsižvelgiant į infliaciją šiais atvejais:
+kad jų pardavimo kaina nebūtų didesnė negu kaina pinigais, kuri Butų
+privatizavimo įstatymo nustatyta tvarka galėjo būti apskaičiuota iki 1998 m.
+liepos 1 d. ir patikslinta atsižvelgiant į infliaciją šiais atvejais:
 1) kai
 privatizuoja nuomininkai, kuriems įstatymo nustatyta tvarka iki 1998 m. liepos
 1 d. Seimo sudaryta butų privatizavimo komisija buvo išdavusi leidimus
@@ -370,10 +387,10 @@ religinėms bendruomenėms ar bendrijoms grąžintų gyvenamųjų patalpų;
 atvejais, kuriuos nustato Piliečių nuosavybės teisių į išlikusį nekilnojamąjį
 turtą atkūrimo įstatymas ir (ar) kiti teisės aktai, susiję su šio Įstatymo
 įgyvendinimu.
-2. Už kainą,
-Vyriausybės nustatyta tvarka apskaičiuotą pagal Turto ir verslo vertinimo
-pagrindų įstatymą, gali būti parduodamos šios savivaldybės (valstybės)
-gyvenamosios patalpos ir jų priklausiniai:
+2. Už kainą, Vyriausybės
+nustatyta tvarka apskaičiuotą pagal Turto ir verslo vertinimo pagrindų
+įstatymą, gali būti parduodamos šios savivaldybės (valstybės) gyvenamosios
+patalpos ir jų priklausiniai:
 1) kambariai (ir
 jų priklausiniai), esantys iš dalies privatizuotame bute su bendra virtuve,
 teikiant pirmenybę šio buto bendraturčiams, taip pat patuštinti bendrabučių
@@ -389,14 +406,22 @@ procentų fiziškai susidėvėję nuomojami vienbučiai gyvenamieji namai, jų d
 (ir priklausiniai), taip pat butai, jeigu šių namų, butų remontas ar
 rekonstrukcija savivaldybei (valstybei) yra ekonomiškai nenaudingi arba tam
 savivaldybė (valstybė) neturi lėšų – jų nuomininkams, jeigu šie nuomininkai yra
-išgyvenę juose ne mažiau kaip trejus metus.
+išgyvenę juose ne mažiau kaip trejus metus;
+4) tarnybinės
+gyvenamosios patalpos – Vyriausybės nustatyta tvarka jų nuomininkams, jeigu
+šios patalpos tampa nereikalingos institucijų, valdančių jas nuosavybės ar
+patikėjimo teise, darbuotojams (tarnautojams) apgyvendinti dėl šių darbo
+(tarnybos) pobūdžio ir yra priimti šių institucijų sprendimai dėl patalpų
+tarnybinio statuso panaikinimo ir išbraukimo iš tarnybinių gyvenamųjų patalpų
+apskaitos. Kriterijus, kuriais vadovaujantis tokios patalpos negali būti
+privatizuojamos, nustato Vyriausybė.
 3. Už
 privatizuojamas gyvenamąsias patalpas pagal šiame straipsnyje nurodytas sąlygas
 atsiskaitoma pinigais, sumokant nustatytą sumą iš karto arba privatizuojančiojo
 pageidavimu išsimokėtinai per 10 metų. Parduodant išsimokėtinai skaičiuojamos
 Vyriausybės arba jos įgaliotos institucijos nustatyto dydžio palūkanos.
-Privatizavimo tvarką, taip pat lėšų, gautų už privatizuojamas
-gyvenamąsias patalpas, apskaitos ir naudojimo tvarką nustato Vyriausybė.
+Privatizavimo tvarką, taip pat lėšų, gautų už privatizuojamas gyvenamąsias
+patalpas, apskaitos ir naudojimo tvarką nustato Vyriausybė.
 4. Savivaldybės
 vykdomosios institucijos pirkimo-pardavimo
 sutartis sudaro ir tais atvejais, jeigu gyventojai pagal Butų privatizavimo
@@ -407,8 +432,9 @@ sprendimas dėl privatizavimo, ir jeigu jie yra sumokėję nustatyto dydžio
 Straipsnio
 pakeitimai:
 12
-straipsnio 3 dalies atitaisymas  skelbtas: Žin., 2003, Nr. 3 (2003-01-10)
- 
+straipsnio 3 dalies atitaisymas skelbtas: Žin., 2003, Nr. 3 (2003-01-10)
+Nr. IX-1549,
+2003-04-29, Žin., 2003, Nr. 48-2109 (2003-05-15)
  
  
 LIETUVOS RESPUBLIKOS 
@@ -507,12 +533,21 @@ Nauja įstatymo redakcija
 Šio Įstatymo atitaisymas skelbtas: Žin., 2003, Nr. 3
 (2003-01-10)
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1549,
+2003-04-29, Žin., 2003, Nr. 48-2109 (2003-05-15)
+VALSTYBĖS
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO 2, 4, 6, 8, 12 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-12-09)
+Aušrinė Trapinskienė (2003-05-21)
                  
 autrap@lrs.lt
