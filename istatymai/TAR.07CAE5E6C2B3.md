@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 1996-04-12 iki 1997-05-13
+Suvestinė redakcija nuo 1997-05-14 iki 1997-07-08
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
  
@@ -67,8 +67,11 @@ Vėliava ir jos atvaizdas visada turi atitikti Lietuvos valstybės vėliavos spa
 Lietuvos valstybės vėliava iškeliama:
 
 
-1) prie Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės, apskričių valdytojų administracijos, savivaldybių tarybų pastatų, taip pat ant Gedimino pilies bokšto Vilniuje – nuolat.
+1) prie Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės, Lietuvos Respublikos krašto apsaugos ministerijos ir savarankiškų karinių dalinių teritorijose, apskričių valdytojų administracijos, savivaldybių tarybų pastatų, taip pat ant Gedimino pilies bokšto Vilniuje – nuolat.
 Prie Lietuvos Respublikos valdžios įstaigų nuolat iškeliama tik Lietuvos valstybės vėliava. Naudoti kitų valstybių vėliavas prie Lietuvos Respublikos valdžios įstaigų, taip pat jų pastatų viduje neleidžiama, išskyrus šio įstatymo 5 straipsnyje nurodytus atvejus;
+Straipsnio punkto pakeitimai:
+Nr. VIII-208, 1997-04-29, Žin., 1997, Nr. 41-991 (1997-05-14), i. k. 0971010ISTAVIII-208
+ 
 
 
 
@@ -113,7 +116,10 @@ Prie Lietuvos Respublikos valdžios įstaigų nuolat iškeliama tik Lietuvos val
 
 
 
-10) krašto apsaugos daliniuose – vadovaujantis krašto apsaugos tarnybos statutais. 
+10) prie Lietuvos Respublikos krašto apsaugos ministerijos pastatų ir savarankiškų karinių dalinių teritorijose - krašto apsaugos ministro nustatyta tvarka. 
+Straipsnio punkto pakeitimai:
+Nr. VIII-208, 1997-04-29, Žin., 1997, Nr. 41-991 (1997-05-14), i. k. 0971010ISTAVIII-208
+ 
 
 
 
@@ -345,3 +351,8 @@ Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybinės vėliavos" pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1229, 1996-03-14, Žin., 1996, Nr. 33-806 (1996-04-12), i. k. 0961010ISTA00I-1229
 Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 straipsnio pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-208, 1997-04-29, Žin., 1997, Nr. 41-991 (1997-05-14), i. k. 0971010ISTAVIII-208
+Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 straipsnio papildymo ir pakeitimo įstatymas
