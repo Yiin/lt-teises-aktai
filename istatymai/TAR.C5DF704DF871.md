@@ -113,6 +113,19 @@ RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO
 6
 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+1-1308, 96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
+LIETUVOS
+RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO 
+ĮSTATYMO
+35 IR 36 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+Šis
+įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.
+ 
 *** Pabaiga ***
  
                      
@@ -1253,23 +1266,20 @@ tvarką. Apskaičiuota
 grąžintina PVM  suma turi  būti  grąžinta iš
 biudžeto šio
 įstatymo 17 straipsnyje nustatyta tvarka ir terminais.
-     Nustatytu
-laiku  PVM  nesumokėjus  (negrąžinus),  imama  0,2
-procento
-delspinigių  už  kiekvieną  pradelstą  dieną  nuo  kitos
-dienos po to, kai
-mokestis turėjo būti sumokėtas arba pervestas į
-biudžetą
-(grąžintas).  Delspinigiai imami  ir už mokėtojo prašymu
-nepagrįstai jam 
-grąžintas PVM  sumas nuo  grąžinimo iš  biudžeto
-dienos. Jeigu 
-nesilaikoma nustatytos muitinės procedūrų atlikimo
-tvarkos  ir  importo 
-muitinės  deklaracija  laiku  nepateikiama,
-delspinigiai
-pradedami  skaičiuoti tą  dieną, kai  ši deklaracija
-turėjo būti
+     Nustatytu laiku
+PVM nesumokėjus (negrąžinus), imami delspinigiai
+Lietuvos 
+Respublikos  mokesčių  administravimo įstatymo nustatyta
+tvarka. Delspinigiai
+imami ir už mokėtojo prašymu nepagrįstai jam
+grąžintas  PVM 
+sumas. Jeigu   nesilaikoma   nustatytos  muitinės
+procedūrų  atlikimo 
+tvarkos ir laiku  nepateikiama  importo arba
+eksporto muitinės
+deklaracija, laikas, per kurį turi būti sumokėtas
+PVM, skaičiuojamas
+nuo tos dienos, kai ši deklaracija turėjo būti
 pateikta.
      Nesumokėtas
 PVM   išieškomas už  einamuosius ir 5 praėjusius
@@ -1282,7 +1292,7 @@ metus.
 Nr. 28-489
      2.Nr.1-774;
 1995.01.26.; 
-       Žin., 1995,
+       Žin., 1995,
 Nr.12-261
      3.Nr.1-904;
 1995 05 30
@@ -1294,38 +1304,42 @@ Respublikos 1996 01 23
 Nr.1-1185
        Žin., 1996,
 Nr.13-343
+Nr. 1-1308,
+96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
  
- 
-          IX.
+          IX.
 MOKESČIO KONTROLĖ IR EKONOMINĖS SANKCIJOS
  
  
-     36
-straipsnis.   Jeigu   tikrinant  nustatoma,  kad asmenys,
-nurodyti   šio 
-įstatymo  6  straipsnio  trečiojoje dalyje  ir  8
+     36
+straipsnis.  Jeigu   tikrinant  nustatoma,  kad  asmenys,
+nurodyti
+šio   įstatymo  6   straipsnio  trečiojoje  dalyje  ir 8
 straipsnyje,
-nesumokėjo  PVM, o  mokėtojai deklaracijoje sumažino
-apskaičiuotą PVM 
-sumą arba per daug šio mokesčio atskaitė ir dėl
-to per   mažai  jo
-sumokėjo  į biudžetą,  apskaičiuotą  papildomą
-mokesčio sumą   ir
-jos dydžio baudą privalo per penkias dienas po
-pažeidimo nustatymo
-dienos sumokėti į biudžetą.
-     Laiku  nesumokėtas  
-mokesčių   ir   baudų   sumas   išieško
-valstybinės mokesčių
-inspekcijos, o laiku nesumokėtas importo PVM
-sumas, baudas  ir
-delspinigius - muitinės įstaigos. Šios sumos iš
-įmonių, įstaigų  ir
-organizacijų išieškomos ne ginčo tvarka, o iš
-fizinių asmenų - per
-teismą.
-    Lietuvos
-Respublikos įstatymų nustatytais  atvejais  mokesčio 
+nesumokėjo PVM, o  mokėtojai  deklaracijoje sumažino
+apskaičiuotą
+PVM sumą arba per daug šio  mokesčio atskaitė ir dėl
+to
+per mažai jo  sumokėjo  į  biudžetą,  apskaičiuota   papildoma
+mokesčio
+suma, bauda ir delspinigiai turi būti sumokėti į biudžetą
+Lietuvos
+Respublikos mokesčių administravimo  įstatymo  nustatyta
+tvarka.
+     Laiku
+nesumokėtas mokesčių, baudų ir delspinigių sumas išieško
+valstybinės
+mokesčių  inspekcijos  Lietuvos  Respublikos  mokesčių
+administravimo 
+įstatymo  nustatyta  tvarka,  o  laiku nesumokėtas
+importo
+PVM sumas, baudas ir delspinigius išieško muitinės įstaigos
+iš
+įmonių, įstaigų ir organizacijų ne  ginčo  tvarka,  iš  fizinių
+asmenų
+- per teismą.
+     Lietuvos
+Respublikos įstatymų nustatytais  atvejais  mokesčio
 mokėtojai  gali 
 būti  atleisti  nuo nesumokėto pridėtinės vertės 
 mokesčio ir dėl to
@@ -1342,6 +1356,8 @@ respublikos 1995 12 28
 Nr.1-1159
        Žin., 1996,
 Nr1-3
+Nr. 1-1308,
+96.04.30, Žin., 1996, Nr. 46-1103 (96.05.17)
  
  
                    
@@ -1413,7 +1429,7 @@ Nr.92-2057
  
  
       38-1
-straipsnis. Gamybinės įmonės,   kuriose  dirba  riboto
+straipsnis. Gamybinės įmonės,   kuriose  dirba  riboto
 darbingumo asmenų, 
 aukštųjų ir  aukštesniųjų mokyklų studentų ir
 profesinių mokyklų 
@@ -1436,7 +1452,7 @@ proc., bet mažiau
      kaip 50
 proc.                                90 proc.
      nuo 40 iki 45
-proc.                          70 proc. 
+proc.                          70 proc. 
      Invalidų 
 visuomeninių   organizacijų   akcinės   bendrovės,
 uždarosios  akcinės 
@@ -1496,7 +1512,7 @@ taikymo  tvarką ūkininkams,  kurių metinės  pajamos
 neviršija 50 tūkst.
 litų. Ši tvarka pradedama taikyti realizuotai
 produkcijai  ir 
-suteiktoms  paslaugoms  nuo  1995  m.  liepos  1
+suteiktoms  paslaugoms  nuo  1995  m.  liepos  1
 dienos.
  
        Pakeitimai:
