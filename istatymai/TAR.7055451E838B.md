@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2002-04-01 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2007-02-28
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
  
@@ -88,20 +88,22 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Privatizavimo objektai privačios nuosavybės teise gali būti perleisti pagal šį įstatymą ir šio straipsnio 3 dalyje nurodytu atveju pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą. Valstybei ar savivaldybei nuosavybės teise priklausančios akcijos ir kitas turtas kitų asmenų nuosavybėn gali būti perleistas pagal šį įstatymą, jei kituose įstatymuose nenustatyta kitaip. 
+2. Privatizavimo objektai privačios nuosavybės teise gali būti perleisti pagal šį įstatymą ir šio straipsnio 3 dalyje nurodytais atvejais pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą. Valstybei ar savivaldybei nuosavybės teise priklausančios akcijos ir kitas turtas kitų asmenų nuosavybėn gali būti perleistas pagal šį įstatymą, jei kituose įstatymuose nenustatyta kitaip. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
+Nr. IX-2525, 2004-11-02, Žin., 2004, Nr. 167-6104 (2004-11-17), i. k. 1041010ISTA0IX-2525
  
 
 
 
 
-3. Valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, privatizavimo institucijos gali parduoti Lietuvos Respublikos vertybinių popierių rinkos įstatymo nustatyta tvarka, kai yra pateiktas privalomas oficialus pasiūlymas. 
+3. Pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą privatizavimo institucijos turi teisę parduoti valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 visų balsų, kai yra pateiktas privalomas oficialus pasiūlymas, taip pat nustatytais atvejais privalo parduoti valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie suteikia mažiau kaip 1/20 visų balsų, bei turi teisę reikalauti, kad tokie akcijų paketai būtų nupirkti, kai privalomai parduodamos ar perkamos akcijos. 
 Papildyta straipsnio dalimi:
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 Straipsnio dalies pakeitimai:
 Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
+Nr. IX-2525, 2004-11-02, Žin., 2004, Nr. 167-6104 (2004-11-17), i. k. 1041010ISTA0IX-2525
  
 
 
@@ -291,11 +293,19 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-5) pritarti ar nepritarti valstybei, taip pat savivaldybei nuosavybės teise priklausančių akcijų paketų, pagal sutartį perduotų privatizuoti valstybės įmonei Valstybės turto fondas, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, pardavimui, kai Lietuvos Respublikos vertybinių popierių rinkos įstatymo nustatyta tvarka yra pateiktas privalomas oficialus pasiūlymas pirkti šį akcijų paketą. 
+5) pritarti ar nepritarti valstybei, taip pat savivaldybei nuosavybės teise priklausančių akcijų paketų, pagal sutartį perduotų privatizuoti valstybės įmonei Valstybės turto fondas, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, pardavimui, kai Lietuvos Respublikos vertybinių popierių rinkos įstatymo nustatyta tvarka yra pateiktas privalomas oficialus pasiūlymas pirkti šį akcijų paketą; 
 Papildyta straipsnio punktu:
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
 Straipsnio punkto pakeitimai:
 Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
+ 
+
+
+
+
+6) pritarti ar nepritarti reikalavimui, kad būtų nupirkti valstybei, taip pat savivaldybei nuosavybės teise priklausantys akcijų paketai, pagal sutartį perduoti privatizuoti valstybės įmonei Valstybės turto fondas, kurie suteikia mažiau kaip 1/20 visų balsų, kai Lietuvos Respublikos vertybinių popierių rinkos įstatymo nustatytais atvejais ir tvarka privalomai perkamos akcijos. 
+Papildyta straipsnio punktu:
+Nr. IX-2525, 2004-11-02, Žin., 2004, Nr. 167-6104 (2004-11-17), i. k. 1041010ISTA0IX-2525
  
 
 
@@ -366,9 +376,10 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 1. Privatizavimo lėšos yra:
 
 
-1) pajamos, gautos iš privatizavimo sandorių ir pardavus valstybei (savivaldybei) nuosavybės teise priklausančius akcijų paketus pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą, kai yra pateiktas privalomas oficialus pasiūlymas; 
+1) pajamos, gautos iš privatizavimo sandorių ir pardavus valstybei (savivaldybei) nuosavybės teise priklausančius akcijų paketus pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą šio įstatymo 2 straipsnio 3 dalyje nurodytais atvejais; 
 Straipsnio punkto pakeitimai:
 Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
+Nr. IX-2525, 2004-11-02, Žin., 2004, Nr. 167-6104 (2004-11-17), i. k. 1041010ISTA0IX-2525
  
 
 
@@ -523,7 +534,10 @@ OBJEKTŲ PARENGIMAS PRIVATIZUOTI
 
 
 
-3. Jei valstybei ar savivaldybei nuosavybės teise priklauso mažiau kaip 1/3 akcinės bendrovės akcijų, šio straipsnio 2 dalyje išvardyti vertinimo metodai gali būti netaikomi vertinant akcijas, parduodamas viešo akcijų pardavimo ar viešo aukciono būdu, kurių rinkos kaina yra nustatyta Nacionalinėje vertybinių popierių biržoje.
+3. Jei valstybei ar savivaldybei nuosavybės teise priklauso mažiau kaip 1/3 akcinės bendrovės akcijų, šio straipsnio 2 dalyje išvardyti vertinimo metodai gali būti netaikomi vertinant akcijas, parduodamas viešo akcijų pardavimo ar viešo aukciono būdu, kurių rinkos kaina yra nustatyta vertybinių popierių biržoje. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2525, 2004-11-02, Žin., 2004, Nr. 167-6104 (2004-11-17), i. k. 1041010ISTA0IX-2525
+ 
 
 
 
@@ -708,9 +722,10 @@ Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA
 
 
 
-3. Šio straipsnio 1 dalyje nurodyta informacija apie privatizavimo objektą Informaciniame privatizavimo biuletenyje turi būti paskelbta ne vėliau kaip prieš 30 dienų iki paraiškų ar kitų privatizavimo dokumentų dėl dalyvavimo privatizavime priėmimo pradžios, o kai informacija apie privatizavimo objektą skelbiama ne pirmą kartą, – ne vėliau kaip prieš 10 dienų. Kai akcijos parduodamos Nacionalinėje vertybinių popierių biržoje, informacija apie privatizavimo objektą yra skelbiama Informaciniame privatizavimo biuletenyje ir biržos informaciniame leidinyje pagal šios biržos nustatytas taisykles. Kai yra reali tikimybė parduoti privatizavimo objektą užsienio fiziniam ar juridiniam asmeniui, Turto fondo nustatyta informacija apie privatizavimo objektą turi būti paskelbta ir užsienio spaudoje. 
+3. Šio straipsnio 1 dalyje nurodyta informacija apie privatizavimo objektą Informaciniame privatizavimo biuletenyje turi būti paskelbta ne vėliau kaip prieš 30 dienų iki paraiškų ar kitų privatizavimo dokumentų dėl dalyvavimo privatizavime priėmimo pradžios, o kai informacija apie privatizavimo objektą skelbiama ne pirmą kartą, – ne vėliau kaip prieš 10 dienų. Kai akcijos parduodamos vertybinių popierių biržoje, informacija apie privatizavimo objektą yra skelbiama Informaciniame privatizavimo biuletenyje ir biržos informaciniame leidinyje ar kituose biržos informacijos šaltiniuose pagal biržos nustatytas taisykles. Kai yra reali tikimybė parduoti privatizavimo objektą užsienio fiziniam ar juridiniam asmeniui, Turto fondo nustatyta informacija apie privatizavimo objektą turi būti paskelbta ir užsienio spaudoje. 
 Straipsnio dalies pakeitimai:
 Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
+Nr. IX-2525, 2004-11-02, Žin., 2004, Nr. 167-6104 (2004-11-17), i. k. 1041010ISTA0IX-2525
  
 
 
@@ -1498,3 +1513,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10, 11, 17, 19 straipsnių pakeitimo ir papildymo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2525, 2004-11-02, Žin., 2004, Nr. 167-6104 (2004-11-17), i. k. 1041010ISTA0IX-2525
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 2, 5, 7, 9 ir 11 straipsnių pakeitimo ir papildymo įstatymas
