@@ -116,9 +116,9 @@ gimimo, mirties, įvaikinimo ir tėvystės nustatymo registravimą, už klaidų,
 padarytų registruojant civilinės būklės aktus, ištaisymą, taip pat už
 nepilnamečių vaikų civilinės būklės aktų ištaisymą pasikeitus įrašams tėvų
 civilinės būklės aktuose;
-2) asmenys už
-vardo, pavardės, tėvo vardo pakeitimą, papildymą ir ištaisymą tikslinant
-įrašus, padarytus registruojant aktus okupacijų metais;
+2) asmenys už vardo, pavardės, tėvo
+vardo pakeitimą, papildymą ir ištaisymą tikslinant įrašus, padarytus
+registruojant aktus okupacijų metais;
 3) Užsienio
 reikalų ministerija už jai išduodamus metrikacijos liudijimų dublikatus.
 2. Už išduodamus
@@ -132,10 +132,30 @@ valstybės išlaikomi stacionariose globos įstaigose asmenys, vieni gyvenantys
 sutuoktinio neturintys asmenys, sukakę senatvės pensijos amžių, I ir II grupių
 invalidai - už Lietuvos Respublikos piliečio paso išdavimą bei paso pakeitimą,
 už dokumento, patvirtinančio asmens gyvenamąją vietą, išdavimą;
+ 
+[2 dalies 1
+punkto redakcija nuo 2003 m. sausio 1 d.:
+1) asmenys,
+turintys teisę gauti socialinę pašalpą Lietuvos Respublikos Vyriausybės
+nustatyta tvarka, vaikai, kuriems nustatyta globa ir rūpyba, valstybės
+išlaikomi stacionariose globos įstaigose asmenys, vieniši asmenys, sukakę
+senatvės pensijos amžių, nustatytą Valstybinių socialinio draudimo pensijų
+įstatyme, I ir II grupių invalidai, vaikai invalidai iki 16 metų – už asmens
+tapatybės kortelės ir paso išdavimą bei pakeitimą, už dokumento, patvirtinančio
+asmens gyvenamąją vietą, išdavimą;]
+ 
 2) politiniai
 kaliniai, tremtiniai, rezistencijos dalyviai - už Lietuvos Respublikos piliečio
 paso išdavimą bei paso pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens
 be pilietybės kelionės dokumento bei vizos išdavimą ir pratęsimą;
+ 
+[2 dalies 2
+punkto redakcija nuo 2003 m. sausio 1 d.:
+2) politiniai kaliniai, tremtiniai,
+rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei
+pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės
+dokumento bei vizos išdavimą ir pratęsimą;]
+ 
 3) asmenys iki
 16 metų - už asmens be pilietybės kelionės dokumento bei pabėgėlio kelionės
 dokumento išdavimą, už vizų išdavimą ir pratęsimą, už vaiko kelionės dokumento
@@ -171,6 +191,10 @@ išdavimą pasienio kontrolės punktuose;
 vykstantys dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias,
 aukštesniąsias, profesines ir bendrojo lavinimo mokyklas, - už vizų išdavimą ir
 pratęsimą.
+Straipsnio pakeitimai:
+Nr.
+IX-1077,
+2002-09-17, Žin., 2002, Nr. 95-4086 (2002-10-02)
  
 7
 straipsnis. Valstybės rinkliavos lengvatos
@@ -199,10 +223,8 @@ Straipsnio pakeitimai:
 Nr.IX-847,
 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
  
- 
- 
-10
-straipsnis. Valstybės rinkliavos grąžinimas
+10 straipsnis.
+Valstybės rinkliavos grąžinimas
 1. Sumokėta
 valstybės rinkliava arba jos dalis grąžinama šiais atvejais:
 1) kai sumokėta
@@ -351,8 +373,8 @@ panaikina.
 straipsnis. Įstatymo įsigaliojimas
 1. Šis įstatymas
 įsigalioja nuo 2001 m. sausio 1 d., išskyrus 17 straipsnį.
-2. Įsigaliojus
-šiam įstatymui, netenka galios:
+2. Įsigaliojus šiam
+įstatymui, netenka galios:
 1) Lietuvos
 Respublikos žyminio mokesčio įstatymas (Žin., 1994, Nr.51-950, Nr.89-1712;
 1995, Nr.47-1135; 1996, Nr.18-462, Nr.46-1112, Nr.116-2691; 1997, Nr.33-810,
@@ -398,12 +420,22 @@ IX-857, 2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
 RINKLIAVŲ
 ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1077,
+2002-09-17, Žin., 2002, Nr. 95-4086 (2002-10-02)
+RINKLIAVŲ
+ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2002-05-07)
+Aušrinė Trapinskienė (2002-10-03)
                  
-ausra.bodin@lrs.lt
+autrap@lrs.lt
