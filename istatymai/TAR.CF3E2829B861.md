@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2000-07-26 iki 2002-12-23
+Suvestinė redakcija nuo 2002-12-24 iki 2007-02-28
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
  
@@ -165,10 +165,12 @@ SU MEDŽIAGOMIS, ĮTRAUKTOMIS Į I SĄRAŠĄ, SUSIJUSIOS VEIKLOS REIKALAVIMAI
 7 straipsnis. Draudžiami augalai
 
 
-Lietuvos Respublikos teritorijoje draudžiama auginti opijines ir aliejines aguonas, kanapes bei kokamedžius.
+Lietuvos Respublikos teritorijoje draudžiama auginti opijines aguonas, kanapes bei kokamedžius.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1249, 2002-12-10, Žin., 2002, Nr. 123-5536 (2002-12-24), i. k. 1021010ISTA0IX-1249
  
-
-
 
 
 
@@ -612,4 +614,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1796, 2000-07-04, Žin., 2000, Nr. 61-1807 (2000-07-26), i. k. 1001010ISTAIII-1796
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1249, 2002-12-10, Žin., 2002, Nr. 123-5536 (2002-12-24), i. k. 1021010ISTA0IX-1249
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 7 straipsnio pakeitimo įstatymas
