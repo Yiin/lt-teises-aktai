@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.952D5CAC35AC"
 
 # Lietuvos Respublikos komercinio arbitražo įstatymas
 
+Suvestinė redakcija nuo 2001-03-30 iki 2008-07-30
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 39-961; Žin. 1996, Nr.45-0, i. k. 0961010ISTA00I-1274
+ 
+ 
 LIETUVOS RESPUBLIKOS
 KOMERCINIO ARBITRAŽO
 Į S T A T Y M A S
@@ -352,7 +357,10 @@ Teismas, gavęs ieškininį pareiškimą klausimu, dėl kurio šalys yra sudariu
 
 
 
-2. Arbitražui negali būti perduoti ginčai, jeigu viena iš šalių yra valstybės ar savivaldybės įmonė, taip pat valstybės ar savivaldybės įstaiga ar organizacija, jeigu tokiam susitarimui nebuvo gautas išankstinis šios įmonės, įstaigos ar organizacijos steigėjo sutikimas.
+2. Arbitražui negali būti perduoti ginčai, jeigu viena iš šalių yra valstybės ar savivaldybės įmonė, taip pat valstybės ar savivaldybės įstaiga ar organizacija, išskyrus Lietuvos banką, jeigu tokiam susitarimui nebuvo gautas išankstinis šios įmonės, įstaigos ar organizacijos steigėjo sutikimas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-210, 2001-03-13, Žin., 2001, Nr. 28-894 (2001-03-30), i. k. 1011010ISTA00IX-210
+ 
 
 
 
@@ -1234,3 +1242,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-210, 2001-03-13, Žin., 2001, Nr. 28-894 (2001-03-30), i. k. 1011010ISTA00IX-210
+Lietuvos Respublikos komercinio arbitražo įstatymo 11 straipsnio papildymo įstatymas
