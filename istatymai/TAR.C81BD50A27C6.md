@@ -1432,17 +1432,22 @@ ligonių kasomis dėl paslaugų teikimo ir kompensavimo;
             4)
 Lietuvos medicinos etikos komitetas - asmens sveikatos priežiūros įstaigos
 teikiamų paslaugų atitikimo medicinos etikos reikalavimams valstybinę kontrolę;
-            5)
-Valstybinė visuomenės sveikatos priežiūros tarnyba - paslaugų, teikiamų
-visuomenės sveikatos priežiūros įstaigose, prieinamumo, tinkamumo ir efektyvumo
-valstybinę kontrolę;
+5)
+Valstybinė visuomenės sveikatos priežiūros tarnyba -
+paslaugų, teikiamų visuomenės sveikatos priežiūros įstaigose, prieinamumo,
+tinkamumo ir efektyvumo valstybinę kontrolę, sveikatos priežiūros, švietimo,
+socialinės globos ir rūpybos  įstaigų valstybinę visuomenės sveikatos saugos
+kontrolę.
             6)
-Valstybinė higienos inspekcija prie Valstybinės visuomenės sveikatos priežiūros
-tarnybos - valstybinę higienos kontrolę.
+(Neteko galios).
             2.
 Valstybinė paslaugų kontrolė sveikatos priežiūros įstaigose, kurių steigėjai
 yra Krašto apsaugos ar Vidaus reikalų ministerijos, atliekama Vyriausybės ar
 jos įgaliotų institucijų nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. VIII-1800, 00.07.04, Žin., 2000,
+Nr.61-1811 (00.07.26)
+ 
  
 53
 straipsnis. Valstybės institucijų, kontroliuojančių paslaugų teikimą, teisės ir
@@ -1495,26 +1500,25 @@ Už tarnybinių įgaliojimų viršijimą pareigūnai atsako įstatymų nustatyta
             
             54
 straipsnis. Paslaugų teikimo įstaigoje sustabdymas
-            1. Akreditavimo
+1. Akreditavimo
 tarnyba, Valstybinė medicininio audito inspekcija, Valstybinė visuomenės
-sveikatos priežiūros tarnyba bei Valstybinė higienos inspekcija pagal
-kompetenciją priimtais sprendimais turi teisę sustabdyti įstaigoje visų ar tam
-tikrų paslaugų teikimą, jeigu:
-            1)
-įstaiga arba jos padalinys (filialas) verčiasi veikla, kuriai neturi licencijos
-ar akreditavimo pažymėjimo;
-            2)
-įstaigos arba jos padalinio (filialo) atliekama sveikatos priežiūra neatitinka
-teisės aktų ar normatyvinių dokumentų reikalavimų ir dėl to yra realus pavojus
-pacientų sveikatai arba daroma žala žmonių sveikatai, nuostoliai juridiniams ir
-fiziniams asmenims;
-            3)
-įstaiga nėra įregistruota Įstaigų registre arba įregistruota pažeidžiant šio
-įstatymo reikalavimus ir daugiau kaip tris mėnesius nevykdo Įstaigų registro
-tvarkytojo reikalavimų;
-            4)
-įstaigoje sveikatos priežiūrą atlieka asmenys, neturintys tam teisės;
-            5)
+sveikatos priežiūros tarnyba pagal kompetenciją priimtais sprendimais turi
+teisę sustabdyti įstaigoje visų ar tam tikrų paslaugų teikimą, jeigu: 
+1) įstaiga arba
+jos padalinys (filialas) verčiasi veikla, kuriai neturi licencijos ar
+akreditavimo pažymėjimo; 
+2) įstaigos arba
+jos padalinio (filialo) atliekama sveikatos priežiūra neatitinka teisės aktų ar
+normatyvinių dokumentų reikalavimų ir dėl to yra realus pavojus pacientų
+sveikatai arba daroma žala žmonių sveikatai, nuostoliai juridiniams ir
+fiziniams asmenims; 
+3) įstaiga nėra
+įregistruota Įstaigų registre arba įregistruota pažeidžiant šio įstatymo
+reikalavimus ir daugiau kaip tris mėnesius nevykdo Įstaigų registro tvarkytojo
+reikalavimų; 
+4) įstaigoje
+sveikatos priežiūrą atlieka asmenys, neturintys tam teisės; 
+5)
 įstaigos ar jos padalinio patalpos, jų eksploatavimas, sveikatos priežiūros
 technologijos neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų.
             2.
@@ -1536,10 +1540,14 @@ straipsnio 1 dalyje nurodytų valstybės institucijų įsakymu gali būti
 atnaujinta.
 6.
 Jei per nustatytą terminą įstaiga trūkumų nepašalina, paslaugų teikimą
-sustabdžiusi institucija kreipiasi į Akreditavimo tarnybą dėl įstaigos
-licencijos galiojimo panaikinimo ir į Sveikatos apsaugos ministeriją dėl
-įstaigos valdymo organų nušalinimo ir laikinojo administratoriaus paskyrimo.
-            
+sustabdžiusi institucija kreipiasi į Akreditavimo tarnybą dėl įstaigos licencijos
+galiojimo panaikinimo ir į Sveikatos apsaugos ministeriją dėl įstaigos valdymo
+organų nušalinimo ir laikinojo administratoriaus paskyrimo.
+Straipsnio pakeitimai:
+Nr. VIII-1800, 00.07.04, Žin., 2000,
+Nr.61-1811 (00.07.26)
+ 
+ 
 55
 straipsnis. Įstaigos valdymo organų nušalinimo ir laikinojo administratoriaus 
 skyrimo
@@ -1672,7 +1680,6 @@ Uždarosios
 biudžetinės įstaigos veiklos kontrolė atliekama Vyriausybės ar jos įgaliotų
 institucijų nustatyta tvarka.
  
- 
 61 straipsnis.
 Baigiamosios nuostatos
 1.Veikiančios
@@ -1682,8 +1689,8 @@ Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintą planą -
 grafiką. Šių įstaigų atliekama sveikatos priežiūra be licencijos nuo 2003 metų
 sausio 1 dienos yra neteisėta.
 2.
-LNSS viešųjų ir biudžetinių įstaigų vadovai turi būti atestuojami per trejus metus
-nuo šio įstatymo įsigaliojimo.
+LNSS viešųjų ir biudžetinių įstaigų vadovai turi būti atestuojami per trejus
+metus nuo šio įstatymo įsigaliojimo.
 Straipsnio pakeitimai:
 Nr. VIII-1512, 99.12.23, Žin., 2000,
 Nr.1-6 (00.01.05)
@@ -1726,6 +1733,13 @@ Nr. VIII-1512, 99.12.23, Žin., 2000,
 Nr.1-6 (00.01.05)
 SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 61 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1800, 00.07.04, Žin., 2000,
+Nr.61-1811 (00.07.26)
+SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 52 IR 54
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 *** Pabaiga ***
  
