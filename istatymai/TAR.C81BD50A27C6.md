@@ -21,7 +21,8 @@ Redagavo: Ramunė Lūžaitė (1997
 Įstatymas
 skelbtas: Žin., 1996, Nr. 66-1572
 Nauja
-įstatymo redakcija skelbta: Žin., 1998, Nr. 109-2995
+įstatymo redakcija skelbta: Žin., 1998, Nr.
+109-2995
 Neoficialus
 įstatymo tekstas
  
@@ -1065,8 +1066,14 @@ savivaldybių ambulatorijos;
 psichikos sveikatos centrai;
             5)
 bendrosios praktikos gydytojų kabinetai; 
+ 
+[Punkto redakcija iki 2004-05-01
             6)
-bendrosios praktikos stomatologų kabinetai;
+bendrosios praktikos stomatologų kabinetai;]
+[Punkto redakcija nuo 2004-05-01
+6)
+bendrosios praktikos odontologų kabinetai;]
+ 
             7)
 savivaldybių medicinos punktai;
             8) savivaldybių greitosios
@@ -1075,10 +1082,9 @@ asmenys ar kaip šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų pirminės
 sveikatos priežiūros įstaigų padaliniai;
             9)
 savivaldybės palaikomojo gydymo ir slaugos ligoninės (slaugos);
-            10)
-miestų ar rajonų savivaldybių ligoninės, įrašytos į Sveikatos apsaugos
-ministerijos patvirtintą sąrašą (jos gali turėti padalinius - konsultacines
-poliklinikas);
+            10) miestų ar rajonų savivaldybių ligoninės,
+įrašytos į Sveikatos apsaugos ministerijos patvirtintą sąrašą (jos gali turėti
+padalinius - konsultacines poliklinikas);
             11)
 medicininės reabilitacijos ir sanatorinio gydymo įstaigos, įrašytos į Sveikatos
 apsaugos ministerijos patvirtintą sąrašą.
@@ -1123,7 +1129,12 @@ specializuotos ligoninės, medicininės reabilitacijos ir sanatorinio gydymo
 Šio straipsnio 6 dalyje nurodytos nomenklatūros įstaigas pagal nustatytus
 minimalius LNSS įstaigų išdėstymo, jų struktūros reikalavimus bei paslaugų
 poreikį organizuoja ir tvarko Sveikatos apsaugos ministerija.
-            
+Straipsnio
+pakeitimai:
+Nr.
+IX-1931,
+2003-12-18, Žin., 2004, Nr. 4-37 (2004-01-07)
+ 
 40
 straipsnis. LNSS valstybės ir savivaldybių visuomenės sveikatos priežiūros
 viešųjų 
@@ -1151,8 +1162,8 @@ asmenimis).
 LNSS savivaldybių ir valstybės visuomenės sveikatos priežiūros viešųjų įstaigų
 sąrašą bei pavyzdinius įstatus tvirtina Sveikatos apsaugos ministerija.
              
-            41 straipsnis.
-LNSS įstaigų finansavimas iš valstybės ir savivaldybių biudžetų
+            41
+straipsnis. LNSS įstaigų finansavimas iš valstybės ir savivaldybių biudžetų
             1. Iš valstybės
 biudžeto asignavimų, skirtų sveikatos priežiūrai:
             1)
@@ -1297,8 +1308,8 @@ tvarka;
             7)
 ligos istorijų, ambulatorinių kortelių, kitų dokumentų nuorašų darymo, išdavimo
 pacientui ar kitiems fiziniams ir juridiniams asmenims tvarka;
-            8)
-įstaigos administracijos, kitų pagalbinių tarnybų darbo laikas;
+            8) įstaigos
+administracijos, kitų pagalbinių tarnybų darbo laikas;
             9)
 darbų saugą reglamentuojančių įstatymų, kitų teisės aktų ir norminių dokumentų
 nuostatos;
@@ -1450,8 +1461,8 @@ kontrolę ir privalomojo sveikatos draudimo fondo lėšų naudojimo finansinę b
 ekonominę analizę įstaigose, kurios sudariusios sutartis su teritorinėmis
 ligonių kasomis dėl paslaugų teikimo ir kompensavimo;
             4)
-Lietuvos medicinos etikos komitetas - asmens sveikatos priežiūros įstaigos teikiamų
-paslaugų atitikimo medicinos etikos reikalavimams valstybinę kontrolę;
+Lietuvos medicinos etikos komitetas - asmens sveikatos priežiūros įstaigos
+teikiamų paslaugų atitikimo medicinos etikos reikalavimams valstybinę kontrolę;
 5)
 Valstybinė visuomenės sveikatos priežiūros tarnyba -
 paslaugų, teikiamų visuomenės sveikatos priežiūros įstaigose, prieinamumo,
@@ -1465,8 +1476,8 @@ Valstybinė paslaugų kontrolė sveikatos priežiūros įstaigose, kurių steig�
 yra Krašto apsaugos ar Vidaus reikalų ministerijos, atliekama Vyriausybės ar
 jos įgaliotų institucijų nustatyta tvarka.
 Straipsnio pakeitimai:
-Nr. VIII-1800, 00.07.04, Žin., 2000,
-Nr.61-1811 (00.07.26)
+Nr. VIII-1800, 00.07.04, Žin., 2000, Nr.61-1811
+(00.07.26)
  
  
 53
@@ -1611,8 +1622,8 @@ sprendimai, išskyrus šio straipsnio 5 dalyje nurodytus atvejus.
             5.
 Laikinasis administratorius be įstaigos steigėjo ar savininko įgaliojimų ar
 sutikimo negali parduoti ar kitaip perleisti, įkeisti turto, reorganizuoti ar
-likviduoti įstaigos, spręsti kitų įstaigos steigėjo ar savininko išimtinei kompetencijai
-priklausančių klausimų.
+likviduoti įstaigos, spręsti kitų įstaigos steigėjo ar savininko išimtinei
+kompetencijai priklausančių klausimų.
             6.
 Apie administravimo eigą ir rezultatus laikinasis administratorius privalo
 informuoti sveikatos apsaugos ministrą, Akreditavimo tarnybą ir įstaigos
@@ -1786,16 +1797,26 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-593,
-2001-11-13, Žin., 2001, Nr. 97-3419 (2001-11-21)
+IX-593, 2001-11-13,
+Žin., 2001, Nr. 97-3419 (2001-11-21)
 SVEIKATOS
 PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 17 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1931,
+2003-12-18, Žin., 2004, Nr. 4-37 (2004-01-07)
+SVEIKATOS
+PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 39 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Įstatymas
+įsigalioja nuo 2004-05-01.
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001-11-21)
+Aušra Bodin (2004-01-07)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
