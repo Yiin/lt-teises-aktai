@@ -155,14 +155,17 @@ Valstybės skolos limitai
 1. Nustatyti 2002 metų valstybės
 grynojo skolinimosi limitą – 1100000 tūkst. litų.
 2. Nustatyti
-2002 metais pasirašomų naujų valstybės garantijų limitą – 100000 tūkst. litų
+2002 metais pasirašomų naujų valstybės garantijų limitą –400000 tūkst. litų
 (neįskaitant šio Įstatymo 10 straipsnyje nurodytų prisiimtų įsipareigojimų, dėl
 kurių suteikta valstybės garantija, sumos).
+Straipsnio pakeitimai:
+Nr. IX-947,
+2002-06-11, Žin., 2002, Nr. 58-2349 (2002-06-14)
  
 12 straipsnis. Savivaldybių skolinimosi
 limitai
-1. Nustatyti šiuos savivaldybės
-skolinimosi limitus:
+1. Nustatyti šiuos savivaldybės skolinimosi
+limitus:
 1) savivaldybės
 skola negali viršyti 35 procentų (Vilniaus miesto savivaldybės – 50 procentų)
 patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės
@@ -205,8 +208,8 @@ vardu valstybės biudžeto deficitui dengti – iki 1135388 tūkst. litų, valst
 investicijoms finansuoti – iki 150000 tūkst. litų, Valstybinio socialinio
 draudimo fondo 2002 metų biudžeto laikinam lėšų trūkumui finansuoti – iki 34300
 tūkst. litų, taip pat Valstybinio socialinio draudimo fondo biudžeto gautoms
-paskoloms su valstybės garantija ir finansų ministro pasirašytais pritarimo
-raštais, kurių grąžinimo terminas sueina 2002 metais, finansuoti;
+paskoloms su valstybės garantija ir finansų ministro pasirašytais pritarimo raštais,
+kurių grąžinimo terminas sueina 2002 metais, finansuoti;
 5) laikantis valstybės grynojo
 skolinimosi limito, finansuoti Valstybės investicijų programą iš jau pasirašytų
 arba numatomų pasirašyti paskolų su valstybės garantija – iki 270000 tūkst.
@@ -257,7 +260,7 @@ Patvirtinti Valstybės investicijų
 2002–2004 metų programą (10 priedėlis).
  
 18
-straipsnis. Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo  
+straipsnis. Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo  
 nutraukimo
 fondo lėšos
 Patvirtinti 2002 metų Valstybės
@@ -1794,8 +1797,8 @@ III.Vyriausybės įstaigos ir kitos
 
 
 
-Lietuvos archyvų departamentas prie
-  Lietuvos Respublikos Vyriausybės
+Lietuvos archyvų departamentas prie Lietuvos
+  Respublikos Vyriausybės
 
 
  
@@ -2443,8 +2446,8 @@ Lietuvos geologijos tarnyba prie Aplinkos
 
 
 
-Valstybinė teritorijų planavimo ir
-  statybos inspekcija prie Aplinkos ministerijos
+Valstybinė teritorijų planavimo ir statybos
+  inspekcija prie Aplinkos ministerijos
 
 
  
@@ -3697,8 +3700,8 @@ Vidaus reikalų ministerijos valdymo sritis
 
 
 Lietuvos Respublikos Prezidento, Seimo
-  Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamentas prie
-  VRM
+  Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamentas
+  prie VRM
 
 
  
@@ -4310,8 +4313,8 @@ Lietuvos medicinos biblioteka
 
 
 
-Viešoji įstaiga Spaudos, radijo ir televizijos
-  rėmimo fondas
+Viešoji įstaiga Spaudos, radijo ir
+  televizijos rėmimo fondas
 
 
  
@@ -5819,8 +5822,8 @@ RESPUBLIKOS 2002 METŲ IŠ VALSTYBĖS BIUDŽETO IŠLAIKOMŲ ĮSTAIGŲ IR VALSTYB
 MOKSLO BEI STUDIJŲ INSTITUCIJŲ PAJAMŲ UŽ TEIKIAMAS PASLAUGAS 
 ĮMOKOS Į VALSTYBĖS BIUDŽETĄ
  
-                                                                                                             
-tūkst. Lt
+                                                    
+                                                         tūkst. Lt
 
 
 
@@ -6536,7 +6539,7 @@ Iš šių lėšų 3500 tūkst. Lt skirti bendroms biudžeto reikmėms.
  
 
 
-                                                                                                Lietuvos
+                                                                                                Lietuvos
 Respublikos
                                                                                                 2001
 m. gruodžio 13 d.
@@ -7780,7 +7783,8 @@ Kauno apygardos administracinis teismas
 
 
 
-Klaipėdos apygardos administracinis teismas
+Klaipėdos apygardos administracinis
+  teismas
 
 
  
@@ -10163,8 +10167,8 @@ Iš viso:
 
 
 Priedėlio pakeitimai:
-Nr. IX-851, 2002-04-18,
-Žin., 2002, Nr. 42-1558 (2002-04-24)
+Nr. IX-851,
+2002-04-18, Žin., 2002, Nr. 42-1558 (2002-04-24)
  
  
 
@@ -10321,14 +10325,15 @@ METŲ PRIVATIZAVIMO FONDO LĖŠŲ SĄMATA
                                                                                                                         tūkst. Lt
  
 I. Numatomas lėšų likutis pagal 2002 m. sausio 1
-d. būklę                               948
+d. būklę                                      
+948
 II. Numatoma Privatizavimo fondo pajamų 2002
 metais                                 1160000
 Iš jų: 
 gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, 
 taip pat Vyriausybės sprendimu Rezerviniam (stabilizavimo) fondui 
 sudaryti (įskaitant atkuriamas 2000 metais laikinai panaudotas lėšas – 
-60000 tūkst. Lt)                                                                                                      833400
+60000 tūkst. Lt)                                                                                                       833400
  
 III.
 Išlaidos
@@ -10337,31 +10342,31 @@ Gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms
 padengti,
 taip pat Vyriausybės sprendimu Rezerviniam (stabilizavimo)
 fondui
-sudaryti                                                                                                      
+sudaryti                                                                                                        
 833400
 Iš
 jų:
 gyventojų
-santaupoms atkurti ir su tuo susijusioms išlaidoms padengti               
-43000
+santaupoms atkurti ir su tuo susijusioms išlaidoms padengti                     76000
 Rezerviniam
-(stabilizavimo) fondui sudaryti                                                         790400
-2. Vyriausybės patvirtintoms šalies programoms
-įgyvendinti                          217000*
+(stabilizavimo) fondui sudaryti                                                            757400
+2. Vyriausybės patvirtintoms šalies programoms įgyvendinti
+                                  217000*
 3. Privatizavimo komisijos ir Valstybės turto fondo
 funkcijoms atlikti 
-ir ekspertų paslaugoms apmokėti                      
-25000
+ir ekspertų paslaugoms apmokėti                                                                                25000
 4.
-Iš viso išlaidų                                                                                                     1075400
+Iš viso išlaidų                                                                                                      1075400
  
 IV.
-Numatomas lėšų likutis pagal 2003 m. sausio 1 d. būklę                            
-85548
+Numatomas lėšų likutis pagal 2003 m. sausio 1 d. būklę                                 85548
  
                                                                                                                         
 *Iš
 jų 45000 tūkst. litų naudojama pagal atskirą Vyriausybės sprendimą.
+Priedėlio pakeitimai:
+Nr. IX-947,
+2002-06-11, Žin., 2002, Nr. 58-2349 (2002-06-14)
  
  
 
@@ -10390,19 +10395,23 @@ I. Numatomas lėšų likutis pagal 2002 m. sausio 1
 d. būklę                        1086114
  
 II. Numatoma Rezervinio (stabilizavimo) fondo
-pajamų 2002 metais      860400
+pajamų 2002 metais        827400
  
  iš jų: 
  
-pajamos iš Privatizavimo fondo                                                          790400
+pajamos iš Privatizavimo fondo                                                           757400
  
-pajamos iš lėšų investavimo                                                                70000
+pajamos iš lėšų investavimo                                                                  
+70000
  
 III.
 Išlaidos                                                                                                     – 
  
 IV.
-Numatomas lėšų likutis pagal 2003 m. sausio 1 d. būklę                     1946514
+Numatomas lėšų likutis pagal 2003 m. sausio 1 d. būklę                     1913514
+Priedėlio pakeitimai:
+Nr. IX-947,
+2002-06-11, Žin., 2002, Nr. 58-2349 (2002-06-14)
  
  
  
@@ -10422,10 +10431,11 @@ VALSTYBĖS INVESTICIJŲ 2002–2004
 METŲ PROGRAMA
 (pagal investavimo sritis)
  
-Lietuvos Respublikos
-valstybės remiamų programų investicijų projektams įgyvendinti 2002 – 2004
-metams planuojamos šios Lietuvos Respublikos valstybės biudžeto, Privatizavimo
-fondo lėšos ir paskolos, gaunamos valstybės vardu ir su valstybės garantija
+Lietuvos
+Respublikos valstybės remiamų programų investicijų projektams įgyvendinti 2002
+– 2004 metams planuojamos šios Lietuvos Respublikos valstybės biudžeto,
+Privatizavimo fondo lėšos ir paskolos, gaunamos valstybės vardu ir su valstybės
+garantija
                                                                                                                         
 tūkst. Lt
 
@@ -10901,8 +10911,8 @@ Nr. IX-643
 priedėlis
  
  
-2002 METŲ VALSTYBĖS ĮMONĖS IGNALINOS ATOMINĖS ELEKTRINĖS
-EKSPLOATAVIMO NUTRAUKIMO FONDO LĖŠŲ SĄMATA
+2002 METŲ VALSTYBĖS
+ĮMONĖS IGNALINOS ATOMINĖS ELEKTRINĖS EKSPLOATAVIMO NUTRAUKIMO FONDO LĖŠŲ SĄMATA
  
                                                                                     tūkst.
 Lt
@@ -11009,11 +11019,21 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-851, 2002-04-18,
-Žin., 2002, Nr. 42-1558 (2002-04-24)
+IX-851,
+2002-04-18, Žin., 2002, Nr. 42-1558 (2002-04-24)
 2002
 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
 PATVIRTINIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-947,
+2002-06-11, Žin., 2002, Nr. 58-2349 (2002-06-14)
+2002
+METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
