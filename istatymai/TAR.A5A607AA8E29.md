@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1994-08-03 iki 1994-10-27
+Suvestinė redakcija nuo 1994-10-28 iki 1995-04-27
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
  
@@ -249,12 +249,13 @@ Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 199
 4. Privatizavimo objektas (akcijos) Lietuvos Respublikos finansų ministerijos nustatyta tvarka gali būti parduodamas išsimokėtinai, taikant lengvatines palūkanas.
 
 5. Asmenims, kuriems paskirta valstybės vienkartinė išmoka ar kita kompensacija, atidaromos asmeninės arba bendros šeimos narių investicinės sąskaitos, kuriose įrašomos paskirtų valstybės vienkartinių išmokų ir kitų tikslinių kompensacijų, papildomai skiriamų pagal Lietuvos Respublikos įstatymus, sumos. Investicijoms pagal nustatytas pinigų kvotas naudojami pinigai (rubliai) pervedami į tas pačias investicines sąskaitas. Privatizavimo objektams (akcijoms) įsigyti nepanaudotos pinigų (rublių) sumos, esančios investicinėje sąskaitoje, turi būti pervestos į jas įnešusių asmenų indėlių sąskaitas.
-Investicinės sąskaitos taip pat atidaromos investicinėms akcinėms bendrovėms. Į šias sąskaitas pervedamos asmenų, įsigyjančių investicinių akcinių bendrovių akcijas, asmeninėse investicinėse sąskaitose esančios investicinės lėšos. Investicinės akcinės bendrovės privatizavimo objektams (akcijoms) įsigyti turi teisę naudoti tik savo investicinėse sąskaitose turimas investicines lėšas. Investicinės akcinės bendrovės įstatinis kapitalas negali būti didesnis kaip 400 milijonų rublių.
+Investicinės sąskaitos taip pat atidaromos investicinėms akcinėms bendrovėms. Į šias sąskaitas pervedamos asmenų, įsigyjančių investicinių akcinių bendrovių akcijas, asmeninėse investicinėse sąskaitose esančios investicinės lėšos. Investicinės akcinės bendrovės privatizavimo objektams (akcijoms) įsigyti turi teisę naudoti tik savo investicinėse sąskaitose turimas investicines lėšas.
 Investicinės sąskaitos Taupomojo banko įstaigose atidaromos uždarosioms akcinėms bendrovėms ir žemės ūkio bendrovėms. Įsigydamos privatizavimo objektus, uždarosios akcinės bendrovės ir žemės ūkio bendrovės 80 procentų objektų vertės sumoka vienkartinėmis išmokomis ir kitomis tikslinėmis kompensacijomis. Mokėjimui pinigais uždarosioms akcinėms bendrovėms ir žemės ūkio bendrovėms nustatoma pinigų kvota 20 procentų skaičiuojant nuo jų nusipirktų vienkartinių išmokų ir tikslinių kompensacijų nominalios vertės. Dirbantiesiems leidžiama privatizacijai naudoti įmonės likutinį pelną.
 Straipsnio dalies pakeitimai:
 Nr. I-1635, 1991-07-30, Lietuvos aidas, 1991, Nr. 154-0 (1991-08-07); Žin., 1991, Nr. 23-604 (1991-08-20), i. k. 0911010ISTA00I-1635
 Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
 Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, Nr. 6-116 (1993-02-28), i. k. 0931010ISTA0000I-64
+Nr. I-610, 1994-10-20, Žin., 1994, Nr. 84-1585 (1994-10-28), i. k. 0941010ISTA000I-610
  
 
 6. Investicinių sąskaitų tvarkymo ir apmokėjimų už įsigyjamą privatizavimo objektą (akcijas) taisykles nustato Lietuvos Respublikos finansų ministerija ir Lietuvos bankas.
@@ -648,4 +649,9 @@ Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-570, 1994-07-20, Žin., 1994, Nr. 58-1137 (1994-07-29), i. k. 0941010ISTA000I-570
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 2 straipsnio pakeitimo
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-610, 1994-10-20, Žin., 1994, Nr. 84-1585 (1994-10-28), i. k. 0941010ISTA000I-610
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 11 straipsnio pakeitimo
 
