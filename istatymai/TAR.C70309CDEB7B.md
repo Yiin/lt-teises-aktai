@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2004-06-18
+Suvestinė redakcija nuo 2004-06-19 iki 2004-07-23
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
  
@@ -408,7 +408,9 @@ Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010IST
 
 
 
-3. Politinių partijų ir politinių organizacijų, visuomeninių organizacijų ar asociacijų, veikusių iki karo padėties įvedimo, veikla, joms pažeidus šio įstatymo nustatytus apribojimus, yra sustabdoma ginkluotojų pajėgų vado sprendimu, o karinėje apygardoje (srityje) ar apskrityje – atitinkamos teritorijos karo komendanto sprendimu. 
+3. Politinių partijų ir politinių organizacijų, visuomeninių organizacijų ar asociacijų, veikusių iki karo padėties įvedimo, veikla, joms pažeidus šio įstatymo nustatytus apribojimus, yra sustabdoma ginkluotųjų pajėgų vado sprendimu, o apskrityje – atitinkamos teritorijos karo komendanto sprendimu.
+Straipsnio dalies pakeitimai:
+Nr. IX-2258, 2004-06-01, Žin., 2004, Nr. 96-3524 (2004-06-19), i. k. 1041010ISTA0IX-2258
  
 
 
@@ -565,7 +567,10 @@ Karo padėties metu Vyriausybė gali sustabdyti apskričių viršininkų įgalio
 24 straipsnis. Karo komendantai
 
 
-1. Karo padėties metu karinėse apygardose (srityse) ar apskrityse veikia ginkluotojų pajėgų (kariuomenės) vado skiriami karo komendantai.
+1. Karo padėties metu apskrityse veikia ginkluotųjų pajėgų (kariuomenės) vado skiriami karo komendantai 
+Straipsnio dalies pakeitimai:
+Nr. IX-2258, 2004-06-01, Žin., 2004, Nr. 96-3524 (2004-06-19), i. k. 1041010ISTA0IX-2258
+ 
 
 
 
@@ -923,3 +928,8 @@ Lietuvos Respublikos karo padėties įstatymo 2 ir 21 straipsnių pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
 Lietuvos Respublikos karo padėties įstatymo 2, 3, 5, 6, 7, 8, 26, 27, 28, 29, 30 ir 31 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2258, 2004-06-01, Žin., 2004, Nr. 96-3524 (2004-06-19), i. k. 1041010ISTA0IX-2258
+Lietuvos Respublikos karo padėties įstatymo 14 ir 24 straipsnių pakeitimo įstatymas
