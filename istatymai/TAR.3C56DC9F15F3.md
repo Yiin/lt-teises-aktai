@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3C56DC9F15F3"
 
 # Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)
 
-Suvestinė redakcija nuo 1997-07-02 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2005-07-13
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1162, i. k. 0941010ISTA000I-576
  
@@ -102,14 +102,10 @@ Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010IS
 
 
 
-8 straipsnis. 
-
-
-Kompensacijos išmokamos iš Valstybės biudžeto ir kitų lėšų šiame įstatyme nurodytiems asmenims, jeigu jie kreipėsi dėl kompensacijų iki 1997 m. rugpjūčio 1 d. Kompensacijų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė. Įstatymas įsigalioja nuo 1995 m. sausio 1 dienos. 
-
-
+8 straipsnis. Šiame įstatyme nurodytiems asmenims kompensacijos išmokamos iš Valstybės biudžeto ir kitų lėšų. Kompensacijų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė. Įstatymas įsigalioja nuo 1995 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010ISTAVIII-241
+Nr. IX-1984, 2004-01-27, Žin., 2004, Nr. 25-755 (2004-02-14), i. k. 1041010ISTA0IX-1984
  
 
 
@@ -166,3 +162,8 @@ Dėl Lietuvos Respublikos įstatymo "Dėl socialinės paramos asmenims, sužalot
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010ISTAVIII-241
 Lietuvos Respublikos įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)" pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1984, 2004-01-27, Žin., 2004, Nr. 25-755 (2004-02-14), i. k. 1041010ISTA0IX-1984
+Lietuvos Respublikos įstatymo dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22-1991 12 31) 8 straipsnio pakeitimo įstatymas
