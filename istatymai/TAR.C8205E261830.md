@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2001-08-20 iki 2002-10-01
+Suvestinė redakcija nuo 2002-10-02 iki 2003-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -1349,20 +1349,62 @@ VAIKO TEISIŲ APSAUGOS INSTITUCIJŲ SISTEMA
 59 straipsnis. Valstybės institucijos ir vaiko teisių apsauga
 
 
-1. Respublikos Prezidentas, Seimas, Vyriausybė, ministerijos, teismai, prokuratūra, kitos valstybės institucijos įgyvendina priemones vaiko teisių apsaugos ir jų gynimo srityje pagal savo kompetenciją, kurią nustato Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai bei teisės aktai.
+1. Pagal savo kompetenciją, kurią nustato Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai bei teisės aktai, Lietuvos Respublikos Seimas, Vyriausybė, ministerijos, prokuratūra, kitos valstybės institucijos rengia ir įgyvendina priemones vaiko teisių apsaugos ir jų gynimo srityje. 
 
 
 
 
-2. Už vaiko teisių apsaugą reglamentuojančių įstatymų bei kitų teisės aktų vykdymo organizavimą, kontrolę ir priežiūrą atsako vaiko teisių apsaugos institucijos (tarnybos).
+2. Lietuvos Respublikos Vyriausybė vaiko teisių apsaugos ir jų gynimo srityje:
+
+
+1) rengia ir teikia Seimui svarstyti įstatymų ir kitų teisės aktų projektus, tvirtina programas;
 
 
 
 
-3. Bylos dėl vaiko teisių pažeidimų, bylos, susijusios su vaiko teisių apsauga, jų gynimu, taip pat bylos dėl vaikų padarytų teisės pažeidimų turi būti nagrinėjamos kiek įmanoma trumpiau. Jas turi nagrinėti tam skirti specializuoti teisėjai arba pagal įstatymą įsteigti specializuoti teismai.
+2) vykdo šį ir kitus įstatymus bei teisės aktus;
+
+
+
+
+3) nustatyta tvarka priskiria vienos ministerijos kompetencijai vaiko teisių apsaugos valdymo sritį;
+
+
+
+
+4) nustato kitų ministerijų kompetenciją.
+
+
+
+
+
+
+3. Ministerijos kompetencija vaiko teisių apsaugos srityje:
+
+
+1) formuoja bei įgyvendina vaiko teisių apsaugos politiką ir kartu su kitomis valstybės bei savivaldybių institucijomis užtikrina tinkamą vaiko teisių apsaugą;
+
+
+
+
+2) teikia metodinę paramą savivaldybių institucijoms ir įstaigoms;
+
+
+
+
+3) vykdo kitas įstatymuose, teisės aktuose ir ministerijos nuostatuose numatytas funkcijas.
+
+
+
+
+
+
+4. Už vaiko teisių apsaugą reglamentuojančių įstatymų bei kitų teisės aktų vykdymo kontrolę ir priežiūrą atsako vaiko teisių apsaugos kontrolierius pagal savo kompetenciją.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1094, 2002-09-24, Žin., 2002, Nr. 95-4090 (2002-10-02), i. k. 1021010ISTA0IX-1094
  
-
-
 
 
 
@@ -1386,10 +1428,27 @@ VAIKO TEISIŲ APSAUGOS INSTITUCIJŲ SISTEMA
 61 straipsnis. Visuomeninė vaiko teisių apsauga
 
 
-Visuomeninė vaiko teisių apsauga vykdoma bendradarbiaujant visuomeninėms organizacijoms su valstybės, vietos savivaldos institucijomis, laikantis šio įstatymo bei kitų teisės aktų, reglamentuojančių vaiko teisių apsaugą, nuostatų.
+1. Visuomeninė vaiko teisių apsauga vykdoma bendradarbiaujant visuomeninėms organizacijoms su valstybės, vietos savivaldos institucijomis, laikantis šio įstatymo bei kitų teisės aktų, reglamentuojančių vaiko teisių apsaugą, nuostatų.
+
+
+
+
+2. Prie savivaldybių tarybų veikia savivaldybių bendruomenių vaiko teisių apsaugos tarybos. Jas sudaro ir jų nuostatus tvirtina savivaldybių tarybos. Savivaldybių bendruomenių vaiko teisių apsaugos tarybas sudaro vietos savivaldos institucijų, vaiko teisių apsaugos institucijų (tarnybų), policijos nepilnamečių (jaunimo) reikalų inspektorių, švietimo, vaiko globos įstaigų atstovai, taip pat į tarybą gali įeiti vaikų (jaunimo) organizacijų ar (ir) mokyklų moksleivių tarybų, vaiko teisių apsaugos srityje veikiančių visuomeninių organizacijų ar (ir) tradicinių bei valstybės pripažintų religinių bendruomenių ir kitų įstaigų bei organizacijų atstovai. 
+
+
+
+
+3. Savivaldybių bendruomenių vaiko teisių apsaugos tarybos savivaldybės teritorijoje pagal kompetenciją teikia siūlymus vietos savivaldos institucijoms dėl bendruomenių vaiko teisių apsaugos politikos ir strategijos formavimo bei prioritetų nustatymo, dėl vaiko teisių apsaugos ir vaiko teisių pažeidimų prevencijos priemonių rengimo ir įgyvendinimo, taip pat vykdo kitas šių tarybų nuostatuose numatytas funkcijas. 
+
+
+
+
+4. Savivaldybių bendruomenių vaiko teisių apsaugos tarybos iš valstybės institucijų ir vietos savivaldos institucijų bei savivaldybių įstaigų turi teisę gauti informaciją šiame įstatyme ir jų nuostatuose numatytoms funkcijoms vykdyti.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1094, 2002-09-24, Žin., 2002, Nr. 95-4090 (2002-10-02), i. k. 1021010ISTA0IX-1094
  
-
-
 
 
 
@@ -1435,3 +1494,8 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 62 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-495, 2001-08-03, Žin., 2001, Nr. 71-2523 (2001-08-17), i. k. 1011010ISTA00IX-495
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 56 straipsnio papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1094, 2002-09-24, Žin., 2002, Nr. 95-4090 (2002-10-02), i. k. 1021010ISTA0IX-1094
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 59, 61 straipsnių pakeitimo ir papildymo įstatymas
