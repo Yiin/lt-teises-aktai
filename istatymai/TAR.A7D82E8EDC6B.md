@@ -381,12 +381,33 @@ procentų Programos finansavimo lėšų rezervas kitoms valstybės reikmėms,
 susijusioms su keliais, finansuoti.
 4. Metinėse
 sąmatose turi būti numatoma 20 procentų Programos finansavimo lėšų panaudoti
-vietinės reikšmės keliams bei gatvėms tiesti, taisyti,
-prižiūrėti. 
+vietinės reikšmės keliams bei gatvėms tiesti, taisyti, prižiūrėti. 
+ 
+5 dalies redakcija iki 2003 m.
+liepos 1 d.:
 5. Programos
 finansavimo lėšos taip pat naudojamos keleivių ir transporto priemonių
 neatlygintino perkėlimo keltais per Kuršių marias išlaidoms kompensuoti
 Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+5 dalies redakcija nuo 2003 m.
+liepos 1 d.:
+5.
+Lietuvos Respublikos Vyriausybės nustatyta tvarka programos finansavimo lėšos
+taip pat naudojamos tarnybos reikalais vykstantiems medicinos greitosios
+pagalbos ir reanimacijos automobiliams, priešgaisrinių gelbėjimo tarnybų,
+policijos, civilinės saugos, kelių priežiūros, uosto saugos tarnyboms,
+prokuratūros, muitinės, inspekcijų, taip pat kitų valstybės pareigūnų, nurodytų
+Vyriausybės nustatytoje tvarkoje, ir jų transporto priemonėms, tolimojo,
+vietinio (miesto) reguliaraus susisiekimo autobusams, Neringos mieste ir
+Klaipėdos miesto dalyje Smiltynėje gyvenamąją vietą deklaravusiems asmenims ir
+jų lengvosioms transporto priemonėms neatlygintinai perkelti keltais per
+Klaipėdos valstybinio jūrų uosto akvatoriją į (iš) Kuršių 
+neriją (-os) bei Šilutės rajono gyventojų ir jų lengvųjų transporto priemonių
+neatlygintino perkėlimo užlieta krašto kelio Šilutė–Rusnė atkarpa sąnaudoms
+kompensuoti.
+Straipsnio pakeitimai:
+Nr. IX-1592,
+2003-05-29, Žin., 2003, Nr. 59-2637 (2003-06-20)
  
 12 straipsnis. Programos
 finansavimo garantijos
@@ -395,8 +416,8 @@ finansavimo pajamos ir išlaidos, vadovaujantis Biudžeto sandaros įstatymo
 nustatytais specialiųjų programų finansavimo principais, planuojamos valstybės
 biudžete.
 2. Programos
-finansavimo lėšos negali būti naudojamos kitoms valstybės reikmėms,
-nenumatytoms šio Įstatymo 11 straipsnyje, finansuoti.
+finansavimo lėšos negali būti naudojamos kitoms valstybės reikmėms, nenumatytoms
+šio Įstatymo 11 straipsnyje, finansuoti.
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -418,13 +439,13 @@ priedėlis
 ATSKAITYMŲ NUO PAJAMŲ Į PROGRAMOS FINANSAVIMO SĄSKAITĄ
 MAKSIMALŪS DYDŽIAI
  
-Maksimalaus dydžio
-atskaitymus nuo pajamų į Programos finansavimo sąskaitą moka:
+Maksimalaus
+dydžio atskaitymus nuo pajamų į Programos finansavimo sąskaitą moka:
 1) juridiniai
 asmenys, išskyrus kredito įstaigas ir tuos, kurie verčiasi prekybos veikla,
 suskystintų dujų, skirtų automobiliams, realizavimu, – iki 0,5 procento pajamų;
-2) juridiniai asmenys,
-kurie verčiasi prekybos veikla, – iki 0,3 procento pajamų; 
+2) juridiniai
+asmenys, kurie verčiasi prekybos veikla, – iki 0,3 procento pajamų; 
 3) juridiniai
 asmenys, kurie verčiasi suskystintų dujų, skirtų automobiliams, realizavimu, –
 iki 0,1 procento pajamų;
@@ -432,8 +453,8 @@ iki 0,1 procento pajamų;
 įstaigos, išskyrus Lietuvos banką, – iki 1 procento pajamų, gautų iš maržos ir
 už kitas paslaugas.
 Priedėlio pakeitimai:
-Nr. IX-840,
-2002-04-09, Žin., 2002, Nr. 43-1605 (2002-04-26)
+Nr. IX-840, 2002-04-09,
+Žin., 2002, Nr. 43-1605 (2002-04-26)
  
  
 
@@ -481,8 +502,8 @@ Krovininės kelių transporto priemonės kategorijos
   (įskaitytinai)
 
 
-nuo 12 t (įskaitytinai)
-  iki 15 t bendrosios masės*
+nuo 12 t
+  (įskaitytinai) iki 15 t bendrosios masės*
 
 
  
@@ -509,8 +530,8 @@ nuo 12 t
 
 
 
-nuo 15 t
-  (įskaitytinai) iki 23 t bendrosios masės*
+nuo 15 t (įskaitytinai)
+  iki 23 t bendrosios masės*
 
 
 440–640
@@ -940,8 +961,8 @@ bibliotekų automobiliai;
 11) kelių valymo automobiliai;
 12) kelių priežiūros žiemą
 automobiliai;
-13) šiukšliavežės ir šiukšlių
-rinkimo automobiliai;
+13) šiukšliavežės ir šiukšlių rinkimo
+automobiliai;
 14) automobiliai, naudojami tik
 karjeruose;
 15) automobiliai, naudojami tik
@@ -1705,28 +1726,41 @@ IX-682,
 2001-12-21, Žin., 2001, Nr. 112-4089 (2001-12-30)
 KELIŲ
 PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Šis Įstatymas įsigalioja nuo 2002 m.
-sausio 1 d. 
-Nauja įstatymo redakcija
+Šis
+Įstatymas įsigalioja nuo 2002 m. sausio 1 d. 
+Nauja
+įstatymo redakcija
  
 2.
-Lietuvos Respublikos Seimas,
-Įstatymas
-Nr. IX-840,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-840,
 2002-04-09, Žin., 2002, Nr. 43-1605 (2002-04-26)
-KELIŲ PRIEŽIŪROS IR PLĖTROS
-PROGRAMOS FINANSAVIMO ĮSTATYMO 4 STRAIPSNIO IR 
-1 PRIEDĖLIO PAKEITIMO ĮSTATYMAS
-Šis Įstatymas
-taikomas apskaičiuojant atskaitymus į Programos finansavimo sąskaitą nuo 2002
-metų balandžio mėnesio ir vėlesnių mėnesių pajamų.
+KELIŲ
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 4 STRAIPSNIO IR 1
+PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas taikomas apskaičiuojant
+atskaitymus į Programos finansavimo sąskaitą nuo 2002 metų balandžio mėnesio ir
+vėlesnių mėnesių pajamų.
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1592,
+2003-05-29, Žin., 2003, Nr. 59-2637 (2003-06-20)
+KELIŲ
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2003 m. liepos 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-04-29)
+Aušrinė Trapinskienė (2003-06-23)
                  
 autrap@lrs.lt
