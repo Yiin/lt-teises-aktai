@@ -33,12 +33,15 @@ NUOSTATOS
  
 1 straipsnis. Įstatymo
 paskirtis
-1. Šis įstatymas nustato asmenų,
-kuriems teikiamos važiavimo keleiviniu transportu lengvatos, kategorijas,
-lengvatų rūšis, išlaidų keleiviniam transportui kompensavimą ir vežėjų negautų
-pajamų, susijusių su lengvatų teikimu, atlyginimo tvarką bei šaltinius.
+1. Šis įstatymas nustato asmenų, kuriems teikiamos
+važiavimo keleiviniu transportu lengvatos, kategorijas, lengvatų rūšis, išlaidų
+keleiviniam transportui kompensavimą ir vežėjų išlaidų (negautų pajamų),
+susijusių su lengvatų taikymu, kompensavimo (atlyginimo) tvarką bei šaltinius.
 2. Šis įstatymas privalomas visiems vežėjams nepaisant jų
 nuosavybės formos.
+Straipsnio pakeitimai:
+Nr. IX-1192,
+2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
  
 2 straipsnis. Pagrindinės
 šio įstatymo sąvokos
@@ -89,10 +92,9 @@ stotelėse arba pagal pageidavimą vietose, kuriose nedraudžia sustoti Kelių
 eismo taisyklės.
 9. Bendrojo
 lavinimo mokyklos - darželiai-mokyklos, pradinės, pagrindinės, jaunimo,
-vidurinės mokyklos, gimnazijos, tarptautinio bakalaureato mokyklos,
-specialiosios, internatinės, specialiosios internatinės, sanatorinės
-internatinės mokyklos, vaikų globos namai, specialieji vaikų globos ir
-auklėjimo namai.
+vidurinės mokyklos, gimnazijos, tarptautinio bakalaureato mokyklos, specialiosios,
+internatinės, specialiosios internatinės, sanatorinės internatinės mokyklos,
+vaikų globos namai, specialieji vaikų globos ir auklėjimo namai.
 10. Profesinio
 mokymo įstaigos - profesinės mokyklos ir specializuotos (reabilitacinės)
 profesinės mokyklos (centrai), įgyvendinančios pagrindinį profesinį mokymą.
@@ -107,7 +109,6 @@ Straipsnio pakeitimai:
 Nr.
 IX-791,
 2002-03-19, Žin., 2002, Nr. 37-1343 (2002-04-09)
- 
  
 ANTRASIS
 SKIRSNIS
@@ -129,58 +130,58 @@ važiuojant tolimojo reguliaraus susisiekimo autobusais, vietinio (miesto ir
 priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais
 traukiniais (2 ir 3 klasės sėdimuose vagonuose, kai keleivio kelionės pradinė
 ir galinė stotys yra Lietuvos Respublikos teritorijoje) bei reguliaraus
-susisiekimo laivais ir keltais. Šios lengvatos netaikomos važiuojant
-lengvaisiais automobiliais taksi ir maršrutiniais taksi. 
+susisiekimo laivais ir keltais. Šios lengvatos netaikomos važiuojant lengvaisiais
+automobiliais taksi ir maršrutiniais taksi. 
  
 4 straipsnis. Teisė važiuoti
 nemokamai
 1. Kiekvienam keleiviui
 suteikiama teisė nemokamai vežtis vietinio (miesto ir priemiestinio)
-reguliaraus susisiekimo autobusais ir troleibusais, tolimojo reguliaraus
-susisiekimo autobusais, keleiviniais traukiniais, reguliaraus susisiekimo
-laivais ir keltais du vaikus iki 7 metų neužimant atskiros sėdimos ar miegamos
-vietos.
+reguliaraus susisiekimo autobusais ir troleibusais, tolimojo reguliaraus susisiekimo
+autobusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir
+keltais du vaikus iki 7 metų neužimant atskiros sėdimos ar miegamos vietos.
 2. Teisė važiuoti keleiviniu
 transportu nemokamai suteikiama keleivinį transportą kontroliuojantiems
 pareigūnams Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
  
 5 straipsnis. Teisė įsigyti
 važiavimo bilietą su nuolaida
-1. Teisę įsigyti vienkartinį važiavimo tolimojo
-reguliaraus susisiekimo autobusais, keleiviniais traukiniais bei vienkartinį
-arba mėnesinį vardinį važiavimo vietinio (miesto ir priemiestinio) reguliaraus
-susisiekimo autobusais ir troleibusais, reguliaraus susisiekimo laivais ir
-keltais bilietą su 80 procentų nuolaida turi vaikai invalidai, I grupės
-invalidai, į Sveikatos apsaugos ministerijos nustatytą sąrašą įrašytomis
-ligomis sergantys asmenys, kuriems gydyti nuolat reikalinga hemodializė, bei
-juos lydintys asmenys (vienam asmeniui - vienas lydintysis), taip pat
-pasipriešinimo 1940-1990 metų okupacijoms dalyviai - kariai savanoriai, sukakę
-70 metų ir vyresni.
+1. Teisę įsigyti
+vienkartinį važiavimo tolimojo reguliaraus susisiekimo autobusais, keleiviniais
+traukiniais bei vienkartinį arba terminuotą vardinį važiavimo vietinio
+(miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais,
+reguliaraus susisiekimo laivais ir keltais bilietą su 80 procentų nuolaida turi
+vaikai invalidai, I grupės invalidai, į Sveikatos apsaugos ministerijos
+nustatytą sąrašą įrašytomis ligomis sergantys asmenys, kuriems gydyti nuolat
+reikalinga hemodializė, bei juos lydintys asmenys (vienam asmeniui – vienas
+lydintysis), taip pat pasipriešinimo 1940-1990
+metų okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
 2.
 Teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo
-autobusais, keleiviniais traukiniais bei vienkartinį arba mėnesinį vardinį
+autobusais, keleiviniais traukiniais bei vienkartinį arba terminuotą vardinį
 važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais
 ir troleibusais, reguliaraus susisiekimo laivais ir keltais bilietą su 50
 procentų nuolaida turi:
 1) II grupės invalidai;
 2)
-pasipriešinimo 1940-1990 metų okupacijoms dalyviai - kariai savanoriai,
+pasipriešinimo 1940-1990 metų okupacijoms dalyviai – kariai savanoriai,
 jaunesni nei 70 metų, ir laisvės kovų dalyviai;
 3)
-nuo 1939-1990 metų okupacijų nukentėję asmenys - politiniai kaliniai ir
-tremtiniai bei buvę getų, koncentracijos ar kitokio tipo prievartinių stovyklų
-kaliniai;
-4) Lietuvos Respublikos
-nepriklausomybės gynėjai, tapę invalidais dėl 1991 m. 
-sausio 11-13 d. ir po to vykdytos SSRS agresijos;
+nuo 1939-1990 metų okupacijų nukentėję asmenys – politiniai kaliniai
+ir tremtiniai bei buvę getų, koncentracijos ar kitokio tipo prievartinių
+stovyklų kaliniai;
+4)
+Lietuvos Respublikos nepriklausomybės gynėjai, tapę invalidais dėl 1991 m. 
+sausio 11–13 d. ir po to vykdytos SSRS agresijos;
 5) žuvusių
-Lietuvos Respublikos nepriklausomybės gynėjų šeimų nariai, nukentėję nuo1991 m.
-sausio 11-13 d. ir po to vykdytos SSRS agresijos;
-6) asmenys,
-sukakę 70 metų ir vyresni.
-3. Teisę įsigyti vienkartinį arba
-mėnesinį važiavimo keleiviniais traukiniais bilietą su 
-50 procentų nuolaida turi aukštųjų ir aukštesniųjų mokyklų dieninių skyrių
+Lietuvos Respublikos nepriklausomybės gynėjų šeimų nariai, nukentėję nuo 1991
+m. sausio 11-13 d. ir po to
+vykdytos SSRS agresijos;
+6) asmenys, sukakę 70 metų ir
+vyresni.
+3. Teisę įsigyti
+vienkartinį arba terminuotą važiavimo keleiviniais traukiniais bilietą su 50
+procentų nuolaida turi aukštųjų ir aukštesniųjų mokyklų dieninių skyrių
 studentai bei profesinio mokymo įstaigų dieninių skyrių moksleiviai,
 važiuojantys nuo rugsėjo 1 d. iki liepos 1 d.
 4.
@@ -196,11 +197,11 @@ suteikiama teisė trečiajam ir kitiems vaikams iki 7 metų įgyti vienkartinį
 važiavimo bilietą su 50 procentų nuolaida.
 6. Aukštųjų ir
 aukštesniųjų mokyklų dieninių skyrių studentai, dieninių bendrojo lavinimo
-mokyklų ir profesinio mokymo įstaigų
-moksleiviai turi teisę įsigyti važiavimo vietinio (miesto) reguliaraus
-susisiekimo autobusais ir troleibusais bilietą su šiomis nuolaidomis:
-1) 80 procentų -
-įsigyjantiems mėnesinį vardinį važiavimo bilietą;
+mokyklų ir profesinio mokymo įstaigų moksleiviai turi teisę įsigyti važiavimo
+vietinio (miesto) reguliaraus susisiekimo
+autobusais ir troleibusais bilietą su šiomis nuolaidomis:
+1) 80 procentų –
+įsigyjantiems terminuotą vardinį važiavimo bilietą;
 2) 50 procentų - įsigyjantiems
 vienkartinį važiavimo bilietą.
 7. Savivaldybės savo nustatyta
@@ -208,6 +209,9 @@ tvarka gali papildomai leisti įsigyti važiavimo bilietą su nuolaida ir kitų
 kategorijų asmenims, taip pat įsigyti važiavimo bilietą su nuolaida tam
 tikromis savaitės dienomis ar paros valandomis. Su šiomis lengvatomis
 susijusias išlaidas savivaldybės kompensuoja iš savo biudžeto lėšų.
+Straipsnio pakeitimai:
+Nr. IX-1192,
+2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
  
 6
 straipsnis. Važiavimo išlaidų kompensavimas moksleiviams, vaikų globos įstaigų 
@@ -235,14 +239,14 @@ susisiekimo autobusais, keleiviniais traukiniais bei reguliaraus
 susisiekimo laivais ir keltais.
 2. Aukštųjų ir
 aukštesniųjų mokyklų dieninių skyrių studentams bei profesinių mokymo įstaigų
-dieninių skyrių moksleiviams važiavimo tolimojo reguliaraus susisiekimo
-autobusais nuo rugsėjo 1 d. iki liepos 1 d. išlaidas iki 50 procentų šios mokyklos ir mokymo įstaigos gali kompensuoti
+dieninių skyrių moksleiviams važiavimo tolimojo reguliaraus susisiekimo autobusais nuo rugsėjo 1 d. iki liepos 1 d.
+išlaidas iki 50 procentų šios mokyklos ir mokymo įstaigos gali kompensuoti
 pagal steigėjų nustatytą tvarką.
  
 7 straipsnis. Teisė į
 transporto išlaidų kompensaciją
-1. Invalidai, turintys
-sutrikusią judėjimo funkciją, turi teisę:
+1. Invalidai, turintys sutrikusią
+judėjimo funkciją, turi teisę:
 1) kiekvieną mėnesį gauti 0,25 minimalaus gyvenimo lygio
 (MGL) dydžio transporto išlaidų kompensaciją;
 2)
@@ -250,74 +254,64 @@ vieną kartą per 6 metus gauti iki 32 MGL dydžio specialių lengvųjų automob
 įsigijimo ir jų techninio pritaikymo išlaidų kompensaciją, jeigu šie asmenys
 gali patys vairuoti šiuos lengvuosius automobilius.
 2.
-Kompensacijos, nustatytos šio straipsnio 1 dalyje, mokamos iš valstybės
-biudžeto.
-3.
-Transporto išlaidų kompensacijų mokėjimo tvarką nustato Vyriausybė arba jos
-įgaliota institucija.
- 
-[7 straipsnio redakcija nuo
-2002 m. liepos 1 d.:
-7 straipsnis. Teisė į
-transporto išlaidų kompensaciją
-1. Invalidai, turintys
-sutrikusią judėjimo funkciją, turi teisę:
-1) kiekvieną mėnesį gauti 0,25 minimalaus gyvenimo lygio
-(MGL) dydžio transporto išlaidų kompensaciją;
-2)
-vieną kartą per 6 metus gauti iki 32 MGL dydžio specialių lengvųjų automobilių
-įsigijimo ir jų techninio pritaikymo išlaidų kompensaciją, jeigu šie asmenys
-gali patys vairuoti šiuos lengvuosius automobilius.
-2.
-Laikotarpiu, kai invalidas, turintis teisę gauti transporto išlaidų kompensaciją,
-atlieka bausmę laisvės atėmimo vietoje, ši kompensacija nemokama. Šis
-laikotarpis taip pat neįskaitomas specialių lengvųjų automobilių įsigijimo ir
-jų techninio pritaikymo išlaidų kompensacijai gauti.
+Laikotarpiu, kai invalidas, turintis teisę gauti transporto išlaidų
+kompensaciją, atlieka bausmę laisvės atėmimo vietoje, ši kompensacija nemokama.
+Šis laikotarpis taip pat neįskaitomas specialių lengvųjų automobilių įsigijimo
+ir jų techninio pritaikymo išlaidų kompensacijai gauti.
 3.
 Kompensacijos, nustatytos šio straipsnio 1 dalyje, mokamos iš valstybės
 biudžeto.
 4.
 Transporto išlaidų kompensacijų mokėjimo tvarką nustato Vyriausybė arba jos
-įgaliota institucija.]
+įgaliota institucija.
 Straipsnio pakeitimai:
 Nr. IX-919,
 2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21), įsigalioja nuo 2002-07-01
  
- 
 TREČIASIS
 SKIRSNIS
-VEŽĖJŲ
-NEGAUTŲ PAJAMŲ ATLYGINIMO TVARKA IR ŠALTINIAI
+VEŽĖJŲ IŠLAIDŲ
+KOMPENSAVIMO (NEGAUTŲ PAJAMŲ ATLYGINIMO)
+TVARKA IR ŠALTINIAI
+Skirsnio pavadinimas keistas:
+Nr. IX-1192,
+2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
  
-8 straipsnis. Vežėjų negautų
-pajamų atlyginimo tvarka ir šaltiniai
-Vežėjų negautos dėl važiavimo
-keleiviniu transportu lengvatų pajamos atlyginamos pagal su jais sudarytas
-sutartis iš valstybės ir savivaldybių biudžetų Vyriausybės nustatyta tvarka:
+8
+straipsnis. Vežėjų išlaidų kompensavimo (negautų pajamų atlyginimo) tvarka ir 
+šaltiniai
+Vežėjų išlaidos (negautos
+pajamos), susijusios su lengvatų taikymu, kompensuojamos (atlyginamos) pagal
+su jais sudarytas sutartis iš valstybės ir savivaldybių biudžetų Vyriausybės
+nustatyta tvarka:
 1) dėl važiavimo keleiviniais
 traukiniais lengvatų, nustatytų šio įstatymo 5 straipsnio 
-1-5 dalyse, - iš valstybės biudžeto;
-2)
-dėl važiavimo reguliaraus susisiekimo laivais ir keltais lengvatų, nustatytų
-šio įstatymo 5 straipsnio 1, 2, 4 ir 5 dalyse, - iš savivaldybių, kuriose
-įregistruotos šių vežėjų įmonės, biudžetų;
-3)
-dėl važiavimo tolimojo reguliaraus susisiekimo autobusais lengvatų, nustatytų
-šio įstatymo 5 straipsnio 1, 2, 4 ir 5 dalyse, iki 2000 m. gruodžio 31 d. - iš
-savivaldybių, kuriose įregistruotos šių vežėjų įmonės, biudžetų, nuo 2001 m.
-sausio 1 d. - iš valstybės biudžeto;
+1-5 dalyse, – iš
+valstybės biudžeto;
+2) dėl važiavimo
+reguliaraus susisiekimo laivais ir keltais lengvatų, nustatytų šio įstatymo 5
+straipsnio 1, 2, 4 ir 5 dalyse, – iš savivaldybių, kuriose įregistruotos šių
+vežėjų įmonės, biudžetų;
+3) dėl važiavimo
+tolimojo reguliaraus susisiekimo autobusais lengvatų, nustatytų šio įstatymo 5
+straipsnio 1, 2, 4 ir 5 dalyse, iki 2000 m. gruodžio 31 d. – iš savivaldybių,
+kuriose įregistruotos šių vežėjų įmonės, biudžetų, nuo 2001 m. sausio 1 d. – iš
+valstybės biudžeto;
 4) dėl važiavimo
-vietinio (miesto ir priemiestinio)
-reguliaraus susisiekimo autobusais ir troleibusais lengvatų, nustatytų šio
-įstatymo 5 straipsnio 1, 2, 5 ir 6 dalyse, – iš savivaldybių, išdavusių šiems
-vežėjams leidimus vežti keleivius vietinio (miesto ir priemiestinio)
-reguliaraus susisiekimo autobusais ir
-troleibusais, biudžetų;
+vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir
+troleibusais lengvatų, nustatytų šio įstatymo 5 straipsnio 1, 2, 5 ir 6 dalyse,
+– iš savivaldybių, išdavusių šiems vežėjams leidimus vežti keleivius vietinio
+(miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais,
+biudžetų;
 5) dėl važiavimo
 vietinio (priemiestinio) reguliaraus susisiekimo autobusais, vežančiais
-keleivius per dviejų gretimų savivaldybių, iš kurių viena yra didžiųjų miestų -
-Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir Alytaus - savivaldybė, teritorijas, - iš miesto ir apie jį esančios
-savivaldybės biudžetų solidariai pagal tarpusavio susitarimą.
+keleivius per dviejų gretimų savivaldybių, iš kurių viena yra didžiųjų miestų –
+Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir Alytaus – savivaldybė,
+teritorijas, – iš miesto ir apie jį esančios savivaldybės biudžetų solidariai
+pagal tarpusavio susitarimą.
+Straipsnio pakeitimai:
+Nr. IX-1192,
+2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
  
 KETVIRTASIS
 SKIRSNIS
@@ -348,8 +342,8 @@ transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kit�
 asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos“ (Žin.,
 1995, Nr. 87-1954, Nr.107-2399; 1997, Nr.117-3014; 1999, Nr.60-1958).
  
-Skelbiu šį Lietuvos
-Respublikos Seimo priimtą įstatymą. 
+Skelbiu šį Lietuvos Respublikos
+Seimo priimtą įstatymą. 
  
  
 
@@ -361,15 +355,15 @@ RESPUBLIKOS
 PREZIDENTAS                                                         VALDAS
 ADAMKUS
  
-____________
+_______________
  
 Pakeitimai:
  
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-791,
-2002-03-19, Žin., 2002, Nr. 37-1343 (2002-04-09)
+Nr. IX-791, 2002-03-19,
+Žin., 2002, Nr. 37-1343 (2002-04-09)
 TRANSPORTO
 LENGVATŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -384,11 +378,21 @@ LENGVATŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2002 m. liepos 1 d.
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1192,
+2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
+TRANSPORTO
+LENGVATŲ ĮSTATYMO 1, 5, 8 STRAIPSNIŲ IR TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-06-21)
+Aušrinė Trapinskienė (2002-12-06)
                  
 autrap@lrs.lt
