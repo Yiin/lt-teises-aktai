@@ -16,7 +16,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2"
 Redagavo: Ramun? L??ait? (1996
 
 Redagavo:
-Ramunė Lūžaitė (1999.04.14)
+Ramunė Lūžaitė (1999.05.10)
+ 
  
 Įstatymas
 paskelbtas: Žin., 1993, Nr.28-640
@@ -68,8 +69,17 @@ Seimas, Įstatymas
 Nr. VIII-1115,
 99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
 LIETUVOS RESPUBLIKOS
-UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 4 IR 7 STRAIPSNIŲ PAKEITIMO
+UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 4 IR 7 STRAIPSNIØ PAKEITIMO
 ĮSTATYMAS
+ 
+6.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr.
+VIII-1154, 99.04.22, Ţin., 1999, Nr.39-1201 (99.05.05)
+LIETUVOS
+RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO
+PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -115,11 +125,11 @@ VIII-552, 97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
      3
 straipsnis. Užsienio valiutos naudojimas
  
-     Užsienio
-valiuta  gali  būti  naudojama mokėjimams bei atsiskaitymams su užsienio
-valstybių juridiniais ir fiziniais asmenimis,  esančiais  ne  Lietuvos
-Respublikoje.  Užsienio valiuta taip pat gali  būti  naudojama  atsiskaitymams 
-ir mokėjimams laisvosiose ekonominėse zonose bei neapmuitinamose parduotuvėse.
+Užsienio valiuta gali būti naudojama
+mokėjimams bei atsiskaitymams su užsienio valstybių juridiniais ir fiziniais
+asmenimis, esančiais ne Lietuvos Respublikoje. Užsienio valiuta taip pat gali
+būti naudojama atsiskaitymams ir mokėjimams laisvosiose ekonominėse zonose tarp
+zonos įmonių bei neapmuitinamose parduotuvėse.
 Lietuvos Respublikos ir užsienio valstybių
 juridiniai ir fiziniai asmenys bei Lietuvos Respublikos kredito unijų
 nariai ar asocijuoti nariai lėšas iš savo valiutinių sąskaitų ir indėlių
@@ -143,6 +153,8 @@ Nr.
 I-1617, 96.11.14, Žin., 1996, Nr.116-2692 (96.12.04)
 Nr.
 VIII-552, 97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
+Nr.
+VIII-1154, 99.04.22, Ţin., 1999, Nr.39-1201 (99.05.05)
  
 4
 straipsnis. Užsienio paskolos
@@ -170,7 +182,7 @@ straipsnis. Kapitalo įvežimas ir išvežimas
      Užsienio 
 kapitalo,  investuojamo Lietuvos Respublikoje, įvežimą,  taip pat šio kapitalo,
 gauto pelno ir dividendų išvežimą  nustato  užsienio  kapitalo  investicijų 
-Lietuvos Respublikoje  įstatymas  ir  Lietuvos  Respublikos  laisvųjų
+Lietuvos Respublikoje  įstatymas  ir  Lietuvos  Respublikos  laisvųjų
 ekonominių zonų pagrindų įstatymas.
  
 Straipsnio
@@ -214,14 +226,14 @@ nuosavybės  formų įmonės, įstaigos, organizacijos, bankai, draudimo
 organizacijos perrašo į litus įstatinio kapitalo dalį, turimą užsienio valiuta,
 taip pat akcijas, dividendus, tantjemas, draudimo atlyginimą, draudimo sumas ir
 kitas išmokas 1993 m. rugpjūčio 1 dienos duomenimis pagal Lietuvos banko
-nustatytą oficialų  kursą arba  kita  Lietuvos  Respublikos Vyriausybės nustatyta
-tvarka.
+nustatytą oficialų  kursą arba  kita  Lietuvos  Respublikos Vyriausybės
+nustatyta tvarka.
      Piniginiai
 įsipareigojimai užsienio valiuta, kurie turi būti vykdomi Lietuvoje ir jų
 terminas baigiasi po 1993 m. rugpjūčio 1 dienos, išskyrus bankų įsipareigojimus
-išmokėti iš valiutinių sąskaitų indėlius, taip pat palūkanas už juos ir įsipareigojimus
-bankams dėl užsienio valiuta išduotų paskolų grąžinimo, įvykdomi litais pagal
-Lietuvos banko nustatytą oficialų kursą.
+išmokėti iš valiutinių sąskaitų indėlius, taip pat palūkanas už juos ir
+įsipareigojimus bankams dėl užsienio valiuta išduotų paskolų grąžinimo,
+įvykdomi litais pagal Lietuvos banko nustatytą oficialų kursą.
  
      9
 straipsnis. Įstatymo įsigaliojimas
