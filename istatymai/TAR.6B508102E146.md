@@ -169,7 +169,7 @@ Nr. IX-309, 2001 05 08, Žin., 2001, Nr.
 Nr. IX-441, 2001-07-10, Žin., 2001, Nr.
 62-2239 (2001-07-18)
  
-5(1 )straipsnis. Akcizų tarifai 
+5(1)  straipsnis. Akcizų tarifai 
 1. Prekės apmokestinamos taikant šiuos akcizų tarifus:
 1) nedenatūruotam etilo alkoholiui ir alkoholiniams
 gėrimams, išskyrus šios dalies 
@@ -212,16 +212,35 @@ didesnė kaip 15 procentų tūrio, – 230 litų už produkto hektolitrą;
 procentą faktinės alkoholio koncentracijos, išreikštos tūrio procentais.
 8) cigaretėms su filtru ir be filtro – 32 litai už
 1000 cigarečių;
+ 
+[8
+punkto redakcija nuo 2002 m. balandžio 1 d. iki 2002 m. birželio 30 d. imtinai:
+8) cigaretėms su filtru ir be filtro – 36 litai už
+1000 cigarečių;]
+ 
 9) fasuotam rūkomajam tabakui ir kitiems tabako
 gaminiams - 50 procentų apmokestinamosios vertės;
 10) variklių benzinui - 1210 litų už toną;
 11) reaktyvinių variklių kurui, žibalui, gazoliui
 (dyzeliniams degalams), skystajam krosnių kurui - 560 litų už toną;
+ 
+[10
+ir 11 punktų redakcija nuo 2002 m. sausio 1 d. iki 2002 m. birželio 30 d.
+imtinai:
+10) variklių benzinui – 1250 litų už toną;
+11) reaktyvinių variklių kurui, žibalui, gazoliui
+(dyzeliniams degalams), skystajam krosnių kurui – 720 litų už toną;]
+ 
 12) visų rūšių tepalams - 240 litų už toną;
 13) šokoladui ir kitiems maisto produktams, turintiems
 kakavos, išskyrus kakavos miltelius ir produktus, turinčius mažiau kaip 18
 procentų masės kakavos sviesto, - 10 procentų apmokestinamosios vertės; 
 14) kavai - 10 procentų apmokestinamosios vertės;
+ 
+[14
+punkto redakcija nuo 2002 m. sausio 1 d. iki 2002 m. birželio 30 d. imtinai:
+14) kavai – 15 procentų apmokestinamosios vertės;]
+ 
 15) bižuterijai ir jos dalims iš tauriųjų metalų arba
 metalų, plakiruotų tauriaisiais metalais, aukso arba sidabro dailiadirbystės
 dirbiniams ir jų dalims iš tauriųjų metalų arba metalų, plakiruotų tauriaisiais
@@ -247,11 +266,20 @@ litrą preparato;
 21) mazutui ir orimulsijai - 20 litų už toną;
 22) suskystintoms dujoms, skirtoms automobilių
 transportui, – 170 litų už vieną tūkstantį litrų.
+ 
+[21
+ir 22 punktų redakcija nuo 2002 m. sausio 1 d. iki 2002 m. birželio 30 d.
+imtinai:
+21) mazutui – 45 litai už toną;
+22) suskystintoms dujoms, skirtoms automobilių
+transportui, – 200 litų už vieną tūkstantį litrų.]
+ 
 2. (Neteko galios).
 3. Kai šio straipsnio 1 dalies 16 punkte nurodyto
 importuojamo automobilio, priskirto prabangiems automobiliams, deklaruojamoji
-kaina mažesnė už naujo bazinio automobilio kainą, apskaičiuojant apmokestinamąją
-kainos dalį, maksimali neapmokestinamoji kaina proporcingai sumažinama. 
+kaina mažesnė už naujo bazinio automobilio kainą, apskaičiuojant
+apmokestinamąją kainos dalį, maksimali neapmokestinamoji kaina proporcingai
+sumažinama. 
 4. Cukraus kiekį (procentais), nuo kurio skaičiuojamas
 šio straipsnio 1 dalies 19 punkte nustatytas akcizo tarifas, nustato
 Vyriausybė.
@@ -275,12 +303,15 @@ Nr. VIII-1494,
 99.12.23, Žin., 1999, Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
 Nr. IX-170, 2001 01 26, Žin., 2001, Nr.
 14-425 (2001 02 14), įsigalioja nuo 2001 03 01
-Nr. IX-309, 2001 05 08, Žin., 2001, Nr.
-43-1489 (2001 05 23), įsigalioja nuo 2001 06 01
+Nr. IX-309, 2001 05 08, Žin., 2001, Nr. 43-1489
+(2001 05 23), įsigalioja nuo 2001 06 01
 Nr. IX-332, 2001 05 17, Žin., 2001, Nr.
 45-1575 (2001 05 30), įsigalioja nuo 2001 06 01
+Nr.
+IX-629,
+2001-12-06, Žin., 2001, Nr. 107-3861 (2001-12-21), įsigalioja nuo 2002-01-01
  
-5(2) straipsnis. 5(1 )straipsnyje
+5(2) straipsnis. 5(1)  straipsnyje
 vartojamos sąvokos 
 1. Alus –
 alkoholinis gėrimas, klasifikuojamas 22.03 pozicijoje, taip pat bet kuris
@@ -293,8 +324,8 @@ alkoholinis gėrimas, kuris klasifikuojamas
 KPN 22.04 ir 22.05 pozicijose ir kurio faktinė alkoholio koncentracija,
 išreikšta tūrio procentais, yra didesnė kaip 1,2 procento tūrio, bet ne didesnė
 kaip 18 procentų tūrio ir yra gauta tik fermentacijos būdu.
-4. Putojantis vynas iš šviežių vynuogių –
-alkoholinis gėrimas, kuris klasifikuojamas 
+4. Putojantis vynas iš šviežių vynuogių – alkoholinis
+gėrimas, kuris klasifikuojamas 
 KPN 2204.10, 2204.21.10 ir 2204.29.10 subpozicijose bei 22.05 pozicijoje, jeigu
 jis išpilstytas į butelius su grybo pavidalo kamščiais, kurie pritvirtinti
 raiščiais arba apkaustais, arba pateikiamas kitaip ir jo perteklinis slėgis dėl
@@ -339,13 +370,13 @@ neapmokestinamos importo mokesčiais;
 jeigu juos alkoholiniams gėrimams gaminti importuoja įmonės, turinčios teisę
 gaminti šiuos gėrimus;
 7) eksportuotos prekės;
-8) importuojamos prekės, jei jos atleidžiamos nuo importo
-muitų pagal Lietuvos Respublikos muitų tarifų įstatymą.
-9) orlaivių variklių kuras (kodus pagal KPN nustato
-Vyriausybė), kurį importuoja ar įsigyja iš Lietuvos gamintojų įmonės, turinčios
-licenciją verstis naftos produktų importu, prekyba ar eksportu, jeigu šioje
-licencijoje nurodyta, kad įmonė verčiasi orlaivių (lėktuvų) pripildymu, taip
-pat nurodyti šio kuro kodai pagal KPN;
+8) importuojamos prekės, jei jos atleidžiamos nuo
+importo muitų pagal Lietuvos Respublikos muitų tarifų įstatymą.
+9) orlaivių variklių kuras (kodus pagal KPN nustato Vyriausybė),
+kurį importuoja ar įsigyja iš Lietuvos gamintojų įmonės, turinčios licenciją
+verstis naftos produktų importu, prekyba ar eksportu, jeigu šioje licencijoje
+nurodyta, kad įmonė verčiasi orlaivių (lėktuvų) pripildymu, taip pat nurodyti
+šio kuro kodai pagal KPN;
 10) Lietuvos
 Respublikos įmonių, gaminančių cigaretes, importuojamas tabakas (kodą pagal KPN
 nustato Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata,
@@ -370,16 +401,16 @@ apmokestinamiems alkoholiniams gėrimams gaminti;
 įstaigoms – sveikatinimo reikmėms; veterinarinių vaistų gamybos įmonėms –
 veterinarinių vaistų gamybai; veterinarijos tiekimo 
 įmonėms – veterinarijos reikmėms.
-3. Mažos alų gaminančios įmonės (toliau - mažosios alaus
-daryklos) 100 tūkst. dekalitrų  per metus realizuoto alaus taikomas 50 procentų
-mažesnis negu šio įstatymo 5(1) straipsnyje nustatytas akcizo alui
-tarifas. Šiame įstatyme mažąja alaus darykla, kuriai taikoma ši lengvata,
-laikoma per kalendorinius metus ne daugiau kaip 800 tūkst. dekalitrų alaus
-pagaminanti teisiškai ir ekonomiškai nuo jokios kitos alaus daryklos
-nepriklausanti alaus darykla, kurios gamybinės patalpos yra fiziškai atskirtos
-nuo bet kokios kitos alaus daryklos ir kuri nevykdo savo veiklos pagal kitos
-įmonės suteiktą licenciją. Šios lengvatos taikymo tvarką nustato Lietuvos
-Respublikos Vyriausybė ar jos įgaliota institucija.
+3. Mažos alų gaminančios įmonės (toliau - mažosios
+alaus daryklos) 100 tūkst. dekalitrų  per metus realizuoto alaus taikomas 50
+procentų mažesnis negu šio įstatymo 5(1) straipsnyje nustatytas
+akcizo alui tarifas. Šiame įstatyme mažąja alaus darykla, kuriai taikoma ši
+lengvata, laikoma per kalendorinius metus ne daugiau kaip 800 tūkst. dekalitrų
+alaus pagaminanti teisiškai ir ekonomiškai nuo jokios kitos alaus daryklos nepriklausanti
+alaus darykla, kurios gamybinės patalpos yra fiziškai atskirtos nuo bet kokios
+kitos alaus daryklos ir kuri nevykdo savo veiklos pagal kitos įmonės suteiktą
+licenciją. Šios lengvatos taikymo tvarką nustato Lietuvos Respublikos
+Vyriausybė ar jos įgaliota institucija.
 4. Degtinei, kurios alkoholio koncentracija didesnė
 kaip 30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri
 atitinka Vyriausybės nustatytus technologinius bei kokybės reikalavimus,
@@ -461,8 +492,7 @@ pateikti akcizų apyskaitą.
 į biudžetą iki kito mėnesio 30 dienos.
 2. Mokėtojai, kurių praėjusio pusmečio vidutinė
 mėnesinė akcizų suma buvo didesnė kaip 50 tūkst. litų, akcizus moka:
-1) iki mėnesio 30 dienos - už mėnesio pirmąjį
-dešimtadienį;
+1) iki mėnesio 30 dienos - už mėnesio pirmąjį dešimtadienį;
 2) iki kito mėnesio 10 dienos - už mėnesio antrąjį
 dešimtadienį;
 3) iki kito mėnesio 20 dienos - už likusią mėnesio
@@ -514,8 +544,8 @@ Nr. VIII-982,
 98.12.21, Žin., 1998, Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
  
  
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
+Skelbiu šį Lietuvos Respublikos Seimo priimtą
+įstatymą. 
  
  
 RESPUBLIKOS
@@ -525,8 +555,7 @@ ___________
 Pakeitimai:
  
 1.
-Lietuvos Respublikos Seimas,
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-767,
 95.01.24, Žin., 1995, Nr. 12-260 (95.02.08)
 DĖL LIETUVOS RESPUBLIKOS AKCIZŲ
@@ -624,8 +653,8 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 5(1) STRAIPSNIU ĮSTATYMAS
  
 12.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1321, 99.07.08, Žin., 1999,
-Nr.66-2132 (99.07.30)
+Nr. VIII-1321, 99.07.08, Žin., 1999, Nr.66-2132
+(99.07.30)
 AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 13.
@@ -716,9 +745,8 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-332, 2001 05 17, Žin., 2001, Nr.
 45-1575 (2001 05 30)
-AKCIZŲ ĮSTATYMO 5(1), 6
-STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 5(2) STRAIPSNIU
-ĮSTATYMAS
+AKCIZŲ ĮSTATYMO 5(1), 6 STRAIPSNIŲ
+PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 5(2) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus 5
 straipsnį, įsigalioja nuo 2001 m. birželio 1 d.
  
@@ -744,12 +772,27 @@ AKCIZŲ
 Šio Įstatymo antrasis skirsnis
 galioja iki 2002 m. birželio 30 d. imtinai.
  
+24.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-629,
+2001-12-06, Žin., 2001, Nr. 107-3861 (2001-12-21)
+AKCIZŲ
+ĮSTATYMO 5(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Įstatymas, išskyrus 1 straipsnio
+1 dalį, įsigalioja nuo 2002 m. sausio 1 d.
+Įstatymo 1 straipsnio 1 dalis
+įsigalioja nuo 2002 m. balandžio 1 d.
+Įstatymas galioja iki 2002 m.
+birželio 30 d. imtinai.
+ 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001-11-28)
+Aušrinė Trapinskienė (2001-12-21)
                  
 autrap@lrs.lt
 
