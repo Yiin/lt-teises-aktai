@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 1999-01-01 iki 2000-12-31
+Suvestinė redakcija nuo 2001-01-01 iki 2005-06-06
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
  
@@ -28,13 +28,45 @@ DĖL PARAMOS MIRTIES ATVEJU
  
 
 
-1 straipsnis. Speciali laidojimo pašalpa mirties atveju
+1 straipsnis. Laidojimo pašalpa
 
 
-Mirus Lietuvos Respublikos nuolatiniam gyventojui, jo šeimos nariui ar kitam faktiškai jį laidojančiam asmeniui mokama paramos mirties atveju speciali laidojimo pašalpa (toliau – pašalpa).
+Laidojimo pašalpa (toliau – pašalpa) mokama mirus:
+
+
+1) Lietuvos Respublikos piliečiui, kurio nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje;
+
+
+
+
+2) Lietuvoje – užsieniečiui (užsienio valstybės pilietybę turinčiam asmeniui arba asmeniui be pilietybės), turinčiam leidimą nuolat gyventi Lietuvos Respublikoje;
+
+
+
+
+3) Lietuvoje – asmeniui, įstatymų nustatyta tvarka Lietuvos Respublikoje turinčiam pabėgėlio statusą.
+
+
+
+
+
+
+Pašalpa išmokama šio straipsnio 1 dalyje išvardytų mirusių asmenų šeimos nariui ar kitam juos laidojančiam asmeniui (toliau – laidojantis asmuo).
+
+
+
+
+Pašalpa taip pat mokama, kai Lietuvos Respublikos piliečio, kurio nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, turinčio leidimą nuolat gyventi Lietuvos Respublikoje užsieniečio, įstatymų nustatyta tvarka Lietuvos Respublikoje turinčio pabėgėlio statusą asmens vaikas gimsta negyvas (ne mažiau kaip 22 nėštumo savaičių kūdikis). Šiuo atveju pašalpa išmokama vienam iš gimusio negyvo vaiko tėvų arba jį laidojančiam asmeniui.
+
+
+
+
+Pašalpa nemokama, kai laidojama valstybės ar savivaldybės biudžeto lėšomis.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1704, 2000-05-23, Žin., 2000, Nr. 45-1298 (2000-06-02), i. k. 1001010ISTAIII-1704
  
-
-
 
 
 
@@ -42,23 +74,12 @@ Mirus Lietuvos Respublikos nuolatiniam gyventojui, jo šeimos nariui ar kitam fa
 2 straipsnis. Pašalpos dydis
 
 
-Pašalpos dydis lygus trims Lietuvos Respublikos Vyriausybės nustatytiems minimaliems gyvenimo lygiams (MGL).
+Pašalpa yra 6 minimalių gyvenimo lygių dydžio.
 
 
-
-
-Mirus invalidui, pensininkui, socialinę pašalpą gaunančiam šeimos nariui, bedarbiui, įsiregistravusiam darbo biržoje, mokama dvigubo šio straipsnio pirmojoje dalyje nustatyto dydžio pašalpa.
-Straipsnio dalies pakeitimai:
-Nr. VIII-473, 1997-10-21, Žin., 1997, Nr. 98-2484 (1997-10-30), i. k. 0971010ISTAVIII-473
+Straipsnio pakeitimai:
+Nr. VIII-1704, 2000-05-23, Žin., 2000, Nr. 45-1298 (2000-06-02), i. k. 1001010ISTAIII-1704
  
-
-
-
-
-Miestų (rajonų) valdybos gali skirti dvigubo dydžio pašalpą ir mirus kitiems asmenims, kurie šių valdybų sprendimu buvo pripažinti socialiai remtinais.
- 
-
-
 
 
 
@@ -113,3 +134,8 @@ Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2 straipsnio papild
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-986, 1998-12-21, Žin., 1998, Nr. 115-3241 (1998-12-31), i. k. 0981010ISTAVIII-986
 Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 3 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1704, 2000-05-23, Žin., 2000, Nr. 45-1298 (2000-06-02), i. k. 1001010ISTAIII-1704
+Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 1, 2 straipsnių pakeitimo įstatymas
