@@ -31,67 +31,45 @@ Vilnius
 
  
  
-1 straipsnis.
-Atmintinos dienos
-Nustatyti šias
-atmintinas dienas:
-1) sausio 1-oji –
-Lietuvos vėliavos diena;
-2) sausio 13-oji –
-Laisvės gynėjų diena;
-3) kovo 4-oji –
-Lietuvos globėjo šv. Kazimiero diena;
-4) kovo 8-oji –
-Tarptautinė moterų solidarumo diena;
-5) kovo 20-oji – Žemės
+1 straipsnis. Atmintinos dienos
+Nustatyti šias atmintinas dienas:
+1) sausio 1-oji – Lietuvos vėliavos diena;
+2) sausio 13-oji – Laisvės gynėjų diena;
+3) kovo 4-oji – Lietuvos globėjo šv. Kazimiero
 diena;
-6) gegužės 7-oji –
-Spaudos atgavimo, kalbos ir knygos diena;
-7) gegužės 14-oji –
-Pilietinio pasipriešinimo diena;
-8) gegužės trečiasis
-sekmadienis – Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
-9) birželio 1-oji –
-Tarptautinė vaikų gynimo diena;
-10) birželio pirmasis
-sekmadienis – Tėvo diena;
-11) birželio 14-oji –
-Gedulo ir vilties diena;
-12) birželio 15-oji –
-Okupacijos ir genocido diena;
-13) birželio 23-ioji –
-Birželio sukilimo diena;
-14) birželio 24-oji –
-Rasos (Joninių) diena;
-15) liepos 15-oji –
-Žalgirio mūšio diena;
-16) liepos paskutinysis
-sekmadienis – Jūros diena;
-17) rugpjūčio 23-ioji –
-Juodojo kaspino diena;
-18) rugsėjo 1-oji –
-Laisvės diena;
-19) rugsėjo 8-oji –
-Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir
-Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
-20) rugsėjo 22-oji –
-Baltų vienybės diena;
-21) rugsėjo 23-ioji –
-Lietuvos žydų genocido diena;
-22) spalio 5-oji –
-Tarptautinė mokytojų diena;
-23) spalio antrasis
-šeštadienis – Derliaus diena;
-24) spalio 25-oji –
-Konstitucijos diena;
-25) lapkričio 2-oji –
-Mirusiųjų atminimo (Vėlinių) diena;
-26) lapkričio 23-ioji –
-Lietuvos karių diena;
-27) lapkričio
-30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
-28) gruodžio
-10-oji – Tarptautinė žmogaus teisių diena.
+4) kovo 8-oji – Tarptautinė moterų solidarumo diena;
+5) kovo 20-oji – Žemės diena;
+6) gegužės 7-oji – Spaudos atgavimo, kalbos ir
+knygos diena;
+7) gegužės 14-oji – Pilietinio pasipriešinimo diena;
+8) gegužės trečiasis sekmadienis – Partizanų
+pagerbimo, kariuomenės ir visuomenės vienybės diena;
+9) birželio 1-oji – Tarptautinė vaikų gynimo diena;
+10) birželio pirmasis sekmadienis – Tėvo diena;
+11) birželio 14-oji – Gedulo ir vilties diena;
+12) birželio 15-oji – Okupacijos ir genocido diena;
+13) birželio 23-ioji – Birželio sukilimo diena;
+14) birželio 24-oji – Rasos (Joninių) diena;
+15) liepos 15-oji – Žalgirio mūšio diena;
+16) liepos paskutinysis sekmadienis – Jūros diena;
+17) rugpjūčio 23-ioji – Juodojo kaspino diena;
+18) rugpjūčio 31-oji – Laisvės diena;
+19) rugsėjo 1-oji – Mokslo ir žinių diena;
+20) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos
+gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos
+nepriklausomybės ir laisvės apgynimą diena;
+21) rugsėjo 22-oji – Baltų vienybės diena;
+22) rugsėjo 23-ioji – Lietuvos žydų genocido diena;
+23) spalio 5-oji – Tarptautinė mokytojų diena;
+24) spalio antrasis šeštadienis – Derliaus diena;
+25) spalio 25-oji – Konstitucijos diena;
+26) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių)
+diena;
+27) lapkričio 23-ioji – Lietuvos karių diena;
+28) lapkričio 30-oji – Mažosios Lietuvos
+prisijungimo prie Didžiosios Lietuvos akto diena;
+29) gruodžio 10-oji – Tarptautinė
+žmogaus teisių diena.
 Straipsnio
 pakeitimai:
 Nr. VIII-815,
@@ -109,6 +87,8 @@ Nr. IX-735,
 Nr.
 IX-874,
 2002-05-07, Žin., 2002, Nr. 48-1835 (2002-05-14)
+Nr. IX-1050,
+2002-07-05, Žin., 2002, Nr. 73-3105 (2002-07-19)
  
  
 Skelbiu šį Lietuvos Respublikos Seimo
@@ -131,8 +111,8 @@ Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. VIII-815,
 98.06.25, Žin., 1998, Nr.61-1733 (98.07.08)
-LIETUVOS
-RESPUBLIKOS ATMINTINŲ DIENŲ ĮSTATYMO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS
+ATMINTINŲ DIENŲ ĮSTATYMO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -175,11 +155,20 @@ Nr. IX-874,
 ATMINTINŲ
 DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1050,
+2002-07-05, Žin., 2002, Nr. 73-3105 (2002-07-19)
+ATMINTINŲ
+DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-05-14)
+Aušrinė Trapinskienė (2002-07-19)
                  
 autrap@lrs.lt
