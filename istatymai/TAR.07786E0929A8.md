@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 
 # Lietuvos Respublikos patentų įstatymas
 
+Suvestinė redakcija nuo 1994-11-18 iki 1997-12-23
+ 
+Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
+ 
+ 
 LIETUVOS RESPUBLIKOS PATENTŲ ĮSTATYMAS
  
 1994 m. sausio 18 d. Nr. I-372
@@ -1005,7 +1010,7 @@ Ginčus dėl išradimų patentavimo ir naudojimo nagrinėja šios institucijos:
 
 
 
-2) iki įsigalios Lietuvos Respublikos įstatymas „Dėl apygardos teismų, Lietuvos apeliacinio teismo ir Lietuvos Aukščiausiojo Teismo įsteigimo ir Lietuvos Respublikos teismų įstatymo 15 straipsnio papildymo“, kaip pirmos instancijos teismas – Lietuvos Aukščiausiasis Teismas, o įsigaliojus šiam įstatymui – Vilniaus apygardos teismas ginčus dėl:
+2) kol pradės veikti Lietuvos Respublikos Konstitucijoje numatyti teismai – Lietuvos Aukščiausiasis Teismas, o po to – Vilniaus apygardos teismas ginčus dėl:
 Valstybinio patentų biuro Apeliacinio skyriaus sprendimo atsisakyti išduoti patentą;
 patentinės paraiškos ar patento nuosavybės teisės pripažinimo kitam asmeniui;
 išduoto patento pripažinimo visiškai ar iš dalies negaliojančiu;
@@ -1013,6 +1018,8 @@ paskelbtos patentinės paraiškos, kuriai suteikta laikina apsauga, pažeidimo;
 išduoto patento pažeidimo;
 patento pažeidimo fakto nebuvimo nustatymo;
 priverstinės licencijos išdavimo ir patento panaikinimo.
+Straipsnio punkto pakeitimai:
+Nr. I-638, 1994-11-08, Žin., 1994, Nr. 89-1713 (1994-11-18), i. k. 0941010ISTA000I-638
  
 
 
@@ -1533,3 +1540,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-638, 1994-11-08, Žin., 1994, Nr. 89-1713 (1994-11-18), i. k. 0941010ISTA000I-638
+Dėl Lietuvos Respublikos patentų įstatymo pakeitimo
