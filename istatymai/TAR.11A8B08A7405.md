@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2000-09-01 iki 2001-07-17
+Suvestinė redakcija nuo 2001-07-18 iki 2004-03-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -246,7 +246,9 @@ Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA
 
 
 
-5. Jeigu kalinamiesiems iki priėmimo į kardomojo kalinimo vietas (tardymo izoliatorius) asmens bylos nebuvo pradėtos, jos pradedamos tardymo izoliatoriuose. Kalinamojo asmens bylos sudėtį ir jos vedimo tvarką nustato Kardomojo kalinimo vietų vidaus tvarkos taisyklės.
+5. Jeigu kalinamiesiems iki priėmimo į kardomojo kalinimo vietas (tardymo izoliatorius) asmens bylos nebuvo pradėtos, jos pradedamos tardymo izoliatoriuose. Kalinamo asmens bylos sudėtį ir jos vedimo tvarką nustato teisingumo ministro patvirtintos Kardomojo kalinimo vietų vidaus tvarkos taisyklės.
+Straipsnio dalies pakeitimai:
+Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA00IX-431
  
 
 
@@ -473,41 +475,37 @@ Nuo to momento, kai gynėjui leidžiama dalyvauti byloje, kalinamasis turi teis�
 15 straipsnis. Kalinamojo teisė susirašinėti, teikti pasiūlymus, prašymus (pareiškimus) ir skundus
 
 
-1. Kalinamieji turi teisę susirašinėti su artimais giminaičiais ir kitais asmenimis. Kardomojo kalinimo vietos administracija gautus kalinamojo vardu laiškus jam įteikia, taip pat kalinamųjų įteiktus laiškus išsiunčia adresatams ne vėliau kaip per tris paras nuo jų gavimo arba įteikimo. Kalinamojo siunčiami laiškai, išskyrus šio straipsnio antrojoje dalyje numatytus atvejus, taip pat jo vardu gauti laiškai gali būti cenzūruojami.
+1. Kalinamieji turi teisę susirašinėti su giminaičiais ir kitais asmenimis. Kardomojo kalinimo vietos administracija gautus kalinamojo vardu laiškus jam įteikia, taip pat kalinamųjų įteiktus laiškus išsiunčia adresatams nė vėliau kaip per tris darbo dienas nuo gavimo arba įteikimo. Kalinamojo siunčiami laiškai, išskyrus šio straipsnio antrojoje dalyje numatytus atvejus, taip pat jo vardu gauti laiškai gali būti cenzūruojami tik bylą tiriančio pareigūno, prokuroro nutarimu ar teismo nutartimi.
 
 
 
 
-2. Bylą tiriančiam pareigūnui, teismui, kurio žinioje yra byla, Lietuvos Respublikos Seimo kontrolieriui, prokurorui, valstybės institucijoms, teisingumo ministrui ir Europos žmogaus teisių teismui adresuoti pasiūlymai, pareiškimai ir skundai necenzūruojami ir išsiunčiami per vieną parą nuo jų gavimo momento.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
- 
+2. Bylą tiriančiam pareigūnui, teismui, kurio žinioje yra byla, Seimo kontrolieriui, prokurorui, valstybės ir savivaldybių institucijoms, teisingumo ministrui ir Europos žmogaus teisių teismui bei kitoms kompetentingoms tarptautinėms institucijoms adresuoti pasiūlymai, prašymai (pareiškimai) ir skundai necenzūruojami ir išsiunčiami per vieną darbo dieną nuo gavimo momento.
 
 
 
 
 3. Kalinamieji turi teisę tiesiogiai kreiptis į Respublikos Prezidentą, Seimo ar Vyriausybės narį, Seimo kontrolierių, prokurorą arba Teisingumo ministerijos atstovą jų lankymosi kardomojo kalinimo vietose metu.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
- 
 
 
 
 
-4. Kalinamiesiems draudžiama siųsti anoniminius ar kolektyvinius prašymus (pareiškimus) ir skundus. Jiems taip pat draudžiama kreiptis į valstybės institucijas, visuomenines organizacijas bei pareigūnus su pasiūlymais, prašymais (pareiškimais) ir skundais už kitus kalinamuosius arba ne per kardomojo kalinimo vietos administraciją.
+4. Kalinamiesiems draudžiama siųsti anoniminius ar kolektyvinius prašymus (pareiškimus) ir skundus. Jiems taip pat draudžiama kreiptis į valstybės ir savivaldybių institucijų pareigūnus, tarnautojus bei visuomenines organizacijas su pasiūlymais, prašymais (pareiškimais) ir skundais už kitus kalinamuosius arba ne per kardomojo kalinimo vietos administraciją.
 
 
 
 
-5. Kardomojo kalinimo vietos administracija su iš valstybės institucijų gautais atsakymais supažindina kalinamuosius pasirašytinai per tris paras nuo jų gavimo.
+5. Kardomojo kalinimo vietos administracija iš valstybės ir savivaldybių institucijų bei visuomeninių organizacijų gautus atsakymus, adresuotus kalinamiesiems, jiems įteikia per tris darbo dienas nuo gavimo. Europos žmogaus teisių teismo bei kitų kompetentingų tarptautinių institucijų atsakymai, adresuoti kalinamiesiems, jiems įteikiami ne vėliau kaip per vieną darbo dieną nuo gavimo.
 
 
 
 
 6. Siunčiamų giminaičiams ir kitiems asmenims laiškų pašto išlaidas apmoka patys kalinamieji.
+
+
+Straipsnio pakeitimai:
+Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA00IX-431
  
-
-
 
 
 
@@ -552,7 +550,10 @@ Kalinamiesiems pasimatyti su giminaičiais arba kitais asmenimis leidžia kardom
 18 straipsnis. Kalinamųjų materialinis buitinis aprūpinimas
 
 
-1. Kalinamieji laikomi kardomojo kalinimo vietų bendrose, skirtose ne daugiau kaip keturiems asmenims, kamerose arba vienutėse, kuriose užtikrintos reikiamos gyvenimo ir buities sąlygos, atitinkančios Lietuvos Respublikos sveikatos apsaugos ministerijos nustatytas sanitarijos ir higienos taisykles. Gyvenamojo ploto norma vienam kalinamajam negali būti mažesnė kaip trys kvadratiniai metrai. Kameroje turi būti langas, užtikrinantis natūralią dienos šviesą ir patalpos ventiliaciją.
+1. Kalinamieji laikomi kardomojo kalinimo vietų bendrose, skirtose ne daugiau kaip keturiems asmenims kamerose arba vienutėse, kuriose užtikrintos reikiamos gyvenimo ir buities sąlygos, atitinkančios Lietuvos higienos normas. Kameroje turi būti langas, užtikrinantis natūralią dienos šviesą ir patalpos ventiliaciją.
+Straipsnio dalies pakeitimai:
+Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA00IX-431
+ 
 
 
 
@@ -1364,7 +1365,10 @@ SĄRAŠAS
 
 
 
-15. Dokumentai (išskyrus įstatymų ir kitų teisės aktų, skelbiamų „Valstybės žiniose“, tekstus, teismų nuosprendžių, nutarčių ir nutarimų nuorašus, atiduotų saugoti pinigų, vertingų daiktų kvitus).
+15. Dokumentai (išskyrus įstatymų ir kitų teisės aktų, skelbiamų „Valstybės žiniose“, tekstus, teismų nuosprendžių, nutarčių ir nutarimų nuorašus, Europos žmogaus teisių teismo bei kitų kompetentingų tarptautinių institucijų, valstybės ir savivaldybių institucijų bei visuomeninių organizacijų atsakymus, adresuotus kalinamiesiems, atiduotų saugoti pinigų, vertingų daiktų kvitus).
+Punkto pakeitimai:
+Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA00IX-431
+ 
 
 
 
@@ -1467,3 +1471,8 @@ Lietuvos Respublikos kardomojo kalinimo įstatymo 5 straipsnio ir 1 priedėlio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
 Lietuvos Respublikos kardomojo kalinimo įstatymo 5, 15, 19, 32 ir 33 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA00IX-431
+Lietuvos Respublikos kardomojo kalinimo įstatymo 10, 15, 18 straipsnių bei 1 priedėlio pakeitimo ir papildymo įstatymas
