@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 1998-02-25 iki 2001-03-08
+Suvestinė redakcija nuo 2001-03-09 iki 2002-06-20
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -365,9 +365,10 @@ Lietuvos Respublikos įstatymo teksto pabaigoje prieš Respublikos Prezidento pa
 Nustatomas toks Respublikos Prezidento valstybinis aprūpinimas ir aptarnavimas:
 
 
-1) darbo užmokestis – 12 vidutinių mėnesinių darbo užmokesčių (VMDU) dydžio; 
+1) darbo užmokestis, lygus paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dvylikai dydžių. Ši norma galioja iki Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 1 dalies taikymo pradžios; 
 Straipsnio punkto pakeitimai:
 Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
+Nr. IX-180, 2001-02-20, Žin., 2001, Nr. 21-688 (2001-03-09), i. k. 1011010ISTA00IX-180
  
 
 
@@ -480,3 +481,8 @@ Dėl Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-642, 1998-02-24, Žin., 1998, Nr. 20-506 (1998-02-25), i. k. 0981010ISTAVIII-642
 Lietuvos Respublikos Prezidento įstatymo 6 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-180, 2001-02-20, Žin., 2001, Nr. 21-688 (2001-03-09), i. k. 1011010ISTA00IX-180
+Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas
