@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2003-01-01 iki 2003-12-31
+Suvestinė redakcija nuo 2004-01-01 iki 2004-07-26
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
  
@@ -105,7 +105,9 @@ Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010IST
 
 
 
-9) lėšos, išieškotos už savivaldybės gamtos apsaugos fondo naudojimo nuostatų pažeidimą;
+9) lėšos, išieškotos už Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo pažeidimą;
+Straipsnio punkto pakeitimai:
+Nr. IX-1611, 2003-06-10, Žin., 2003, Nr. 61-2764 (2003-06-27), i. k. 1031010ISTA0IX-1611
 Straipsnio punkto numeracijos pakeitimas:
 Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
  
@@ -225,3 +227,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3, 4 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1611, 2003-06-10, Žin., 2003, Nr. 61-2764 (2003-06-27), i. k. 1031010ISTA0IX-1611
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio pakeitimo įstatymas
