@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D8C428743E5F"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2000-06-01 iki 2000-12-28
+Įstatymas netenka galios 2002-06-28:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-965, 2002-06-20, Žin., 2002, Nr. 65-2633 (2002-06-28), i. k. 1021010ISTA00IX-965
+Lietuvos Respublikos operatyvinės veiklos įstatymas
+ 
+Suvestinė redakcija nuo 2000-12-29 iki 2002-06-27
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 50-1190, i. k. 0971010ISTAVIII-222
  
@@ -86,9 +91,10 @@ Nr. VIII-1655, 2000-05-02, Žin., 2000, Nr. 41-1168 (2000-05-19), i. k. 1001010I
 
 4. Operatyvinės paieškos pagrindas yra pirminė informacija apie rengiamą ar padarytą nusikaltimą, nusikaltimą rengusį ar padariusį asmenį, taip pat asmens dingimą be žinios.
 
-5. Negalima taikyti specialios technikos, gyvenamosios patalpos slaptos apžiūros, susirašinėjimo, telegrafo ir kitų pranešimų slaptos kontrolės prieš Lietuvos Respublikos Prezidentą.
+5. Negalima vykdyti operatyvinės veiklos prieš Respublikos Prezidentą.
 Straipsnio dalies pakeitimai:
 Nr. VIII-1572, 2000-03-16, Žin., 2000, Nr. 28-762 (2000-04-05), i. k. 1001010ISTAIII-1572
+Nr. IX-102, 2000-12-20, Žin., 2000, Nr. 111-3572 (2000-12-29), i. k. 1001010ISTA00IX-102
  
 
 5 straipsnis. Operatyvinės veiklos subjektai ir slaptieji dalyviai
@@ -214,7 +220,6 @@ Operatyvinių veiksmų teisėtumą kontroliuoja Lietuvos Respublikos generalinis
 6) numatomą nusikalstamą veiką imituojančio elgesio modelio trukmė.
 
 2. Operatyvinės veiklos subjekto parengtas nusikalstamos veikos imitacijos elgesio modelis sankcionuojamas vienerių metų laikotarpiui. Šiam laikotarpiui praėjus, jis gali būti pratęstas.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos operatyvinės veiklos įstatymo 11 straipsnis ta apimtimi, kuria leidžiama taikyti modelį Lietuvos Respublikos Prezidento atžvilgiu, prieštarauja Lietuvos Respublikos Konstitucijos 86 straipsnio 1 daliai.
 
 Straipsnio pakeitimai:
 2000-05-08, Žin., 2000, Nr. 39-1105 (2000-05-12), i. k. 1001000NUTARG001120            
@@ -318,4 +323,9 @@ Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 5, 16 straipsnių pakeit
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2000-05-08, Žin., 2000, Nr. 39-1105 (2000-05-12), i. k. 1001000NUTARG001120                
 Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo 2 straipsnio 12 dalies, 7 straipsnio 2 dalies 3 punkto, 11 straipsnio 1 dalies ir Lietuvos Respublikos baudžiamojo proceso kodekso 198-1 straipsnio 1 bei 2 dalių atitikimo Lietuvos Respublikos Konstitucijai
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-102, 2000-12-20, Žin., 2000, Nr. 111-3572 (2000-12-29), i. k. 1001010ISTA00IX-102
+Lietuvos Respublikos operatyvinės veiklos įstatymo 4 straipsnio pakeitimo įstatymas
 
