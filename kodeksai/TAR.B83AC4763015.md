@@ -131,8 +131,8 @@ Lietuvos Respublikoje, su apribojimais, įstatymų nustatytais nuteistiesiems,
 taip pat kylančiais iš teismo nuosprendžio ir režimo, kurį šis kodeksas nustato
 tos rūšies bausmei atlikti.
  
-9
-straipsnis. Visuomeninių organizacijų ir jų atstovų dalyvavimas taisant 
+9 straipsnis.
+Visuomeninių organizacijų ir jų atstovų dalyvavimas taisant 
 nuteistuosius
 Taisant
 nuteistuosius, taip pat įgyvendinant įstaigų ir organų, vykdančių teismų
@@ -1156,20 +1156,22 @@ nuteistiesiems, kurie moka alimentus nepilnamečiams vaikams.
  
 54 straipsnis. Išskaitos iš
 nuteistųjų bendrojo darbo užmokesčio
-Nuteistųjų išlaikymo išlaidos iš
-dalies apmokamos iš jų darbo užmokesčio išskaitant: pataisos darbų kolonijose -
-25 procentus, pataisos darbų kolonijose-gyvenvietėse - 10 procentų, auklėjimo
-darbų kolonijose - 20 procentų, kalėjimuose - 25 procentus bendrojo darbo
-užmokesčio. Šios išskaitos nedaromos iš darbo užmokesčio dalies, priskaičiuotos
-už nustatytos išdirbio normos viršijimą, bei premijų.
+Iš nuteistųjų uždarbio į pataisos darbų įstaigose
+sudaromą socialinės paramos nuteistiesiems fondą išskaičiuojama: pataisos darbų
+kolonijose - 25 procentai, pataisos darbų kolonijose-gyvenvietėse - 10
+procentų, auklėjimo darbų kolonijose - 20 procentų, kalėjimuose - 25 procentai
+bendrojo darbo užmokesčio. Šios išskaitos nedaromos iš darbo užmokesčio dalies,
+priskaičiuotos už nustatytų išdirbio normų viršijimą, ir premijų. Socialinės
+paramos nuteistiesiems fondo naudojimo tvarką nustato Lietuvos Respublikos
+Vyriausybė.
 Be to, iš bendrojo darbo
 užmokesčio, išskyrus pataisos darbų kolonijose-gyvenvietėse, išskaitomi 5
 procentai į nuteistojo neliečiamąją asmeninės sąskaitos dalį, kurios naudoti
 nuteistasis neturi teisės. Ypatingais atvejais bausmės atlikimo metu, pataisos
-darbų įstaigos viršininkui leidus, nuteistasis gali panaudoti pinigų sumas,
-esančias neliečiamojoje asmeninės sąskaitos dalyje. Likusi šioje sąskaitoje
-pinigų suma nuteistajam išduodama tik paleidimo iš laisvės atėmimo vietos metu
-arba pervedant jį į pataisos darbų koloniją-gyvenvietę.
+darbų įstaigos viršininkui leidus, nuteistasis gali panaudoti pinigų sumas, esančias
+neliečiamojoje asmeninės sąskaitos dalyje. Likusi šioje sąskaitoje pinigų suma
+nuteistajam išduodama tik paleidimo iš laisvės atėmimo vietos metu arba
+pervedant jį į pataisos darbų koloniją-gyvenvietę.
 Padarius išskaitas iš nuteistojo
 darbo užmokesčio, nustatytas šio straipsnio pirmojoje ir antrojoje dalyse, iš
 likusios uždarbio sumos daromos išskaitos pagal vykdomuosius raštus ir kitus
@@ -1184,19 +1186,24 @@ maistas ir drabužiai teikiami nemokamai.
 Straipsnio pakeitimai:
 Nr. I-280, 1993-10-19,
 Žin., Nr. 56-1078 (1993-10-27)
+Nr. VIII-518,
+1997-11-18, Žin., 1997, Nr. 109-2755 (1997-12-03)
  
-541 straipsnis.
-Atleidimas nuo išskaitų pataisos darbų įstaigoms išlaikyti
-Neturintiems nuobaudų ir
-įvykdantiems išdirbio normas ar nustatytąsias užduotis nuteistiesiems bei
-nevengiantiems darbo invalidams, kurių asmeninėse sąskaitose yra mažiau kaip
-vieno minimalaus gyvenimo lygio dydžio pinigų suma, pataisos darbų įstaigos
-viršininko sprendimu ne ilgiau kaip šešis mėnesius iki pasibaigiant bausmės
-laikui gali būti nedaromos išskaitos iš darbo užmokesčio pataisos darbų
-įstaigoms išlaikyti.
+54(1) straipsnis.
+Atleidimas nuo išskaitų į pataisos darbų įstaigose sudaromą socialinės paramos
+nuteistiesiems fondą
+Neturintiems nuobaudų ir įvykdantiems išdirbio normas
+ar nustatytąsias užduotis nuteistiesiems bei nevengiantiems darbo invalidams,
+kurių asmeninėse sąskaitose yra mažiau kaip vieno minimalaus gyvenimo lygio
+dydžio pinigų suma, pataisos darbų įstaigos viršininko sprendimu ne ilgiau kaip
+šešis mėnesius iki pasibaigiant bausmės laikui gali būti nedaromos išskaitos iš
+darbo užmokesčio į pataisos darbų įstaigose sudaromą socialinės paramos
+nuteistiesiems fondą.
 Straipsnio pakeitimai:
 Nr. I-280, 1993-10-19,
 Žin., Nr. 56-1078 (1993-10-27) 
+Nr. VIII-518,
+1997-11-18, Žin., 1997, Nr. 109-2755 (1997-12-03)
  
 55 straipsnis. Nuteistųjų
 įtraukimas į neapmokamus darbus
@@ -1204,8 +1211,8 @@ Nuteistieji gali būti, nemokant
 už darbą, įtraukiami tiktai į laisvės atėmimo vietų ir gretimų teritorijų
 tvarkymo, taip pat į nuteistųjų kultūrinių-buitinių sąlygų gerinimo darbus.
 Nurodytieji darbai atliekami
-eilės tvarka ir ne darbo metu. Tokie darbai neturi trukti ilgiau kaip dvi valandas
-per dieną.
+eilės tvarka ir ne darbo metu. Tokie darbai neturi trukti ilgiau kaip dvi
+valandas per dieną.
  
 56 straipsnis. Asmenų, netekusių
 darbingumo bausmės atlikimo metu, 
@@ -1267,9 +1274,9 @@ priemones.
 Nuteistieji, perkelti į tokį
 būrį, turi tas pačias bendrąsias teises ir pareigas kaip ir kiti nuteistieji,
 laikomi bendrojo, sustiprintojo ir griežtojo režimų pataisos darbų kolonijose,
-tačiau jiems taikoma griežtesnė izoliacija bei priežiūra. Šių būrių nuostatus tvirtina
-Lietuvos Respublikos vidaus reikalų ministras, suderinęs su generaliniu
-prokuroru.
+tačiau jiems taikoma griežtesnė izoliacija bei priežiūra. Šių būrių nuostatus
+tvirtina Lietuvos Respublikos vidaus reikalų ministras, suderinęs su
+generaliniu prokuroru.
 Straipsnio pakeitimai:
 Nr. I-1073, 1991-02-21,
 Žin., Nr. 8-214 (1991-03-20)
@@ -1286,8 +1293,8 @@ Nuteistieji, esantys
 savaveiksmiškų organizacijų sudėtyje, neatleidžiami nuo pagrindinio darbo
 gamyboje.
  
-60 straipsnis. Nuteistųjų savaveiksmiškų
-organizacijų rūšys ir jų darbo tvarka
+60 straipsnis. Nuteistųjų
+savaveiksmiškų organizacijų rūšys ir jų darbo tvarka
 Bendrojo, sustiprintojo,
 griežtojo režimų pataisos darbų kolonijose, kolonijose-gyvenvietėse ir
 auklėjimo darbų kolonijose, tarp nuteistųjų, sutinkamai su šio kodekso 17
@@ -1300,8 +1307,8 @@ Kolektyvų tarybų sudėtį tvirtina pataisos darbų įstaigos viršininkas.
 Kolektyvų tarybos reguliariai
 nuteistųjų susirinkimuose pateikia savo darbo ataskaitas. Kolektyvų tarybų
 priimamus nutarimus tvirtina pataisos darbų įstaigos administracija.
-Kalėjimuose sudaromos brigadininkų
-tarybos, kurias skiria administracija.
+Kalėjimuose sudaromos
+brigadininkų tarybos, kurias skiria administracija.
 Savaveiksmiškos organizacijos
 reguliariai vykdo renginius, kuriais siekiama padėti pataisos darbų įstaigų
 administracijai, dirbant nuteistųjų pataisymo ir perauklėjimo darbą.
@@ -1327,14 +1334,14 @@ GAMYBOJE
  
 61 straipsnis. Laisvės atėmimu
 nuteistų asmenų bendrasis vidurinis mokslas
-Pataisos darbų įstaigose vykdomas
-bendrasis vidurinis nuteistų jaunų žmonių mokslas.
+Pataisos darbų įstaigose
+vykdomas bendrasis vidurinis nuteistų jaunų žmonių mokslas.
 Vyresni kaip keturiasdešimties
 metų amžiaus nuteistieji ir pirmos ir antros grupių invalidai į bendrojo
 lavinimo mokymą įtraukiami jų pageidavimu.
 Nuteistų bendrojo lavinimo
-mokymasis skatinamas, į jį atsižvelgiama nustatant jų pasitaisymo ir
-persiauklėjimo laipsnį.
+mokymasis skatinamas, į jį atsižvelgiama nustatant jų pasitaisymo ir persiauklėjimo
+laipsnį.
  
 62 straipsnis. Neteko galios.
  
@@ -1349,8 +1356,8 @@ Pirmos ir antros grupių
 invalidai į profesinį techninį mokymą arba į profesinį mokymą gamyboje
 įtraukiami jų pageidavimu.
 Profesinis techninis mokymas
-arba profesinis mokymas gamyboje auklėjimo darbų kolonijose vykdomas
-neviršijant nuteistųjų darbo dienos trukmės.
+arba profesinis mokymas gamyboje auklėjimo darbų kolonijose vykdomas neviršijant
+nuteistųjų darbo dienos trukmės.
  
 64 straipsnis. Asmenų,
 atliekančių laisvės atėmimo bausmę, gamybinės 
@@ -1424,10 +1431,11 @@ koloniją, išskyrus asmenis, kuriems mirties bausmė pakeista laisvės atėmimu
 atbuvę ne mažiau kaip pusę teismo nuosprendžiu paskirto kalinimo laiko;
 iš bendrojo, sustiprintojo ir
 griežtojo režimų pataisos darbų kolonijų į koloniją-gyvenvietę asmenims,
-aiškiai ėmusiems taisytis, - atbuvę ne mažiau kaip vieną trečdalį bausmės laiko;
-nuteistieji, išvardinti Lietuvos Respublikos baudžiamojo kodekso 54 straipsnio
-septintojoje ir aštuntojoje dalyse bei 541 straipsnio trečiame ir
-penktame punktuose, - atbuvę ne mažiau kaip du trečdalius bausmės laiko.
+aiškiai ėmusiems taisytis, - atbuvę ne mažiau kaip vieną trečdalį bausmės
+laiko; nuteistieji, išvardinti Lietuvos Respublikos baudžiamojo kodekso 54
+straipsnio septintojoje ir aštuntojoje dalyse bei 541 straipsnio
+trečiame ir penktame punktuose, - atbuvę ne mažiau kaip du trečdalius bausmės
+laiko.
 Neperkeltini į
 kolonijas-gyvenvietes asmenims, aiškiai ėmusiems taisytis:
 1) itin pavojingi recidyvistai;
@@ -1538,10 +1546,11 @@ Nr. I-280, 1993-10-19,
 70 straipsnis. Nuobaudų skyrimo
 asmenims, atliekantiems laisvės atėmimo 
 bausmę, tvarka
-Skiriant nuobaudas, atsižvelgiama
-į aplinkybes, kuriomis padarytas pažeidimas, į pirmiau paskirtų nuobaudų kiekį
-ir pobūdį, taip pat į nuteistojo pasiaiškinimą dėl nusižengimo esmės. Skiriamos
-nuobaudos turi atitikti nuteistojo nusižengimo sunkumą ir pobūdį.
+Skiriant nuobaudas,
+atsižvelgiama į aplinkybes, kuriomis padarytas pažeidimas, į pirmiau paskirtų
+nuobaudų kiekį ir pobūdį, taip pat į nuteistojo pasiaiškinimą dėl nusižengimo
+esmės. Skiriamos nuobaudos turi atitikti nuteistojo nusižengimo sunkumą ir
+pobūdį.
 Nuobauda gali būti skiriama tik
 nusižengimą padariusiam asmeniui. Už kelis vienu metu padarytus nusižengimus
 skiriama viena nuobauda.
@@ -1580,8 +1589,8 @@ Aukštesnis pareigūnas gali nuobaudą sušvelninti, taip pat ją panaikinti, je
 paskyręs nuobaudą pareigūnas šiuo atveju viršijo savo įgaliojimus arba jeigu
 nuobauda buvo paskirta, nuteistajam nepadarius nusižengimo.
 Jeigu per vienerius metus nuo
-nuobaudos atlikimo dienos nuteistajam nėra paskiriama nauja nuobauda, jis laikomas
-neturinčiu nuobaudų.
+nuobaudos atlikimo dienos nuteistajam nėra paskiriama nauja nuobauda, jis
+laikomas neturinčiu nuobaudų.
  
 71 straipsnis. Pareigūnai,
 skiriantys paskatinimo priemones ir nuobaudas
@@ -1711,8 +1720,8 @@ sąlygos, atitinkančios sanitarijos ir higienos taisykles. Gyvenamojo ploto
 norma vienam nuteistajam pataisos darbų kolonijose negali būti mažesnė kaip 2
 kvadratiniai metrai, o auklėjimo darbų kolonijose ir kalėjimuose - kaip 2,5
 kvadratinio metro.
-Nuteistiesiems suteikiama individuali miegamoji vieta
-ir patalynė. Tie nuteistieji, kurie neturi savų drabužių ir avalynės, nemokamai
+Nuteistiesiems suteikiama individuali miegamoji vieta ir
+patalynė. Tie nuteistieji, kurie neturi savų drabužių ir avalynės, nemokamai
 aprūpinami vienodais drabužiais ir avalyne pagal sezoną. Vienodų drabužių ir
 avalynės išdavimo nuteistiesiems tvarką nustato Vidaus reikalų ministerija.
 Nuteistieji gauna maistą, kuris
@@ -1807,8 +1816,8 @@ ribų be palydovo, jeigu tai reikalinga dėl jų dirbamo darbo pobūdžio.
 Neleidžiama išvykti už kolonijos
 ribų be sargybos arba be palydovo itin pavojingiems recidyvistams,
 nuteistiesiems už itin pavojingus valstybinius nusikaltimus, nuteistiesiems,
-kuriems mirties bausmė pakeista laisvės atėmimu, asmenims, nuteistiems už
-banditizmą, netikrų pinigų ar vertybinių popierių pagaminimą arba realizavimą
+kuriems mirties bausmė pakeista laisvės atėmimu, asmenims, nuteistiems už banditizmą,
+netikrų pinigų ar vertybinių popierių pagaminimą arba realizavimą
 sunkinančiomis aplinkybėmis, valiutos operacijų taisyklių pažeidimą
 sunkinančiomis aplinkybėmis, tyčinį nužudymą sunkinančiomis aplinkybėmis,
 išžaginimą sunkinančiomis aplinkybėmis, neteisėtą šaunamojo ginklo, šaudmenų ir
@@ -1872,9 +1881,9 @@ apgyvendinamos netoli kolonijos
 teritorijos šiai kolonijai priklausančiose gyvenamosiose patalpose ir yra
 kolonijos administracijos nuolatinėje priežiūroje, gali dėvėti civilinius
 drabužius, turėti su savimi pinigų ir neribotai juos naudoti;
-turi teisę nuo nustatyto kėlimosi
-laiko iki gulimo laiko laisvai vaikščioti teritorijoje, kurios ribas nustato
-kolonijos viršininkas;
+turi teisę nuo nustatyto
+kėlimosi laiko iki gulimo laiko laisvai vaikščioti teritorijoje, kurios ribas
+nustato kolonijos viršininkas;
 gali be apribojimo siųsti
 laiškus, gauti banderoles, siuntinius, perdavimus ir pasimatymus;
 pasibaigus pogimdyminiam
@@ -1944,9 +1953,8 @@ Specialiosios priemonės
 naudojamos atsižvelgiant į teisėtvarkos pažeidimo pobūdį, pažeidėjo asmenybę ir
 konkrečias aplinkybes bei situaciją. Naudodami specialiąsias priemones,
 pareigūnai privalo stengtis išvengti sunkių pasekmių.
-Prieš naudojant specialiąsias
-priemones, jei leidžia aplinkybės, asmenys, prieš kuriuos jos bus naudojamos,
-įspėjami.
+Prieš naudojant specialiąsias priemones,
+jei leidžia aplinkybės, asmenys, prieš kuriuos jos bus naudojamos, įspėjami.
 Specialiųjų priemonių naudojimas
 privalo būti nutrauktas, išnykus jų panaudojimo pagrindui.
  
@@ -2148,8 +2156,9 @@ Nr. I-2061, 1991-12-03,
  
 849 straipsnis.
 Lygtinai paleistų iš laisvės atėmimo vietų asmenų atsakomybė už 
-darbo drausmės, viešosios
-tvarkos ir nustatytų gyvenimo taisyklių pažeidimą
+darbo drausmės,
+viešosios tvarkos ir nustatytų gyvenimo taisyklių 
+pažeidimą
 Jeigu lygtinai paleistasis
 pažeidžia darbo drausmę ar viešąją tvarką, jam gali būti taikomos drausminės ar
 administracinės atsakomybės priemonės pagal įstatymus.
@@ -2184,11 +2193,11 @@ arba tęsiamas po oficialaus bausmę vykdančio organo pareigūno įspėjimo. Š
 pažeidimų sąrašą nustato Lietuvos Respublikos vidaus reikalų ministras,
 suderinęs su Lietuvos Respublikos generaliniu prokuroru.
 Straipsnio pakeitimai:
-Nr. I-2061, 1991-12-03, Žin.,
-Nr. 36-975 (1991-12-31)
+Nr. I-2061, 1991-12-03,
+Žin., Nr. 36-975 (1991-12-31)
  
-8410 straipsnis.
-Paskatinimo priemonės ir nuobaudos, skiriamos lygtinai 
+8410 straipsnis. Paskatinimo
+priemonės ir nuobaudos, skiriamos lygtinai 
 paleistiems iš
 laisvės atėmimo vietų asmenims
 Lygtinai paleistiesiems už gerą
@@ -2205,10 +2214,9 @@ pavyzdingu elgesiu, sąžiningu darbu įrodė, kad pasitaisė, įstatymo nustaty
 tvarka gali būti teikiami lygtinai atleisti nuo bausmės prieš terminą arba
 pakeisti neatliktąją bausmės dalį švelnesne bausme.
 Darbingiems lygtinai
-paleistiesiems, kurie pažeidinėja darbo drausmę, taip pat lygtinai
-paleistiesiems, kurie pažeidinėja viešąją tvarką ar jiems nustatytas pareigas,
-vidaus reikalų organas gali skirti poveikio priemones - įspėjimą arba
-papeikimą.
+paleistiesiems, kurie pažeidinėja darbo drausmę, taip pat lygtinai paleistiesiems,
+kurie pažeidinėja viešąją tvarką ar jiems nustatytas pareigas, vidaus reikalų
+organas gali skirti poveikio priemones - įspėjimą arba papeikimą.
 Straipsnio pakeitimai:
 Nr. I-2061, 1991-12-03,
 Žin., Nr. 36-975 (1991-12-31)
@@ -2260,17 +2268,16 @@ TVARKA IR SĄLYGOS
  
 98 straipsnis. Pataisos darbų be
 laisvės atėmimo rūšys ir jų atlikimo tvarka
-Pataisos darbai be laisvės atėmimo
-atliekami sutinkamai su teismo nuosprendžiu nuteistojo darbovietėje,
-atsižvelgiant į jo darbingumą ir, kiek galima, į jo specialybę. Kai
-nuteistasis yra nepilnametis, be to, atsižvelgiama į būtinumą užtikrinti
-reikiamą jo elgesio ir gamybinės kvalifikacijos įsigijimo priežiūrą.
+Pataisos darbai be laisvės
+atėmimo atliekami sutinkamai su teismo nuosprendžiu nuteistojo
+darbovietėje, atsižvelgiant į jo darbingumą ir, kiek galima, į jo
+specialybę. Kai nuteistasis yra nepilnametis, be to, atsižvelgiama į būtinumą
+užtikrinti reikiamą jo elgesio ir gamybinės kvalifikacijos įsigijimo priežiūrą.
 Nuosprendžiai, kuriais nuteista
 pataisos darbais be laisvės atėmimo, vykdomi ne vėliau kaip per dešimt dienų
 nuo tos dienos, kurią nuosprendis įsiteisėjo arba buvo nukreiptas vykdyti.
 Pataisos darbai be laisvės
-atėmimo atliekami valstybinėse ir visuomeninėse įmonėse, įstaigose,
-organizacijose.
+atėmimo atliekami valstybinėse ir visuomeninėse įmonėse, įstaigose, organizacijose.
 Asmenys, nuteisti pataisos
 darbais be laisvės atėmimo darbovietėje, lieka dirbti toje pat įmonėje,
 įstaigoje, organizacijoje, kurioje jie dirbo iki nuteisimo, tose pat pareigose
@@ -2332,9 +2339,9 @@ po nuosprendžio priėmimo pripažįstami nedarbingais, organai, kurių žinioje
 šios rūšies bausmės vykdymas, prašo teismą pakeisti pataisos darbus be laisvės
 atėmimo kita, švelnesne bausmės rūšimi.
 Jeigu nuteistieji pataisos
-darbais be laisvės atėmimo darbovietėje atleidžiami iš darbo, jie privalo ne
-vėliau kaip per penkiolika dienų įsidarbinti ir pranešti apie tai organui,
-kurio žinioje yra šios rūšies bausmės vykdymas.
+darbais be laisvės atėmimo darbovietėje atleidžiami iš darbo, jie privalo ne vėliau
+kaip per penkiolika dienų įsidarbinti ir pranešti apie tai organui, kurio
+žinioje yra šios rūšies bausmės vykdymas.
 Nuteistieji pataisos darbais be
 laisvės atėmimo privalo laikytis nustatytos bausmei atlikti tvarkos, šaukiami
 privalo atvykti į organus, vykdančius šios rūšies bausmę. Jeigu nuteistasis be
@@ -2392,12 +2399,12 @@ pašalpų, gaunamų socialinio aprūpinimo ir socialinio draudimo tvarka, iš
 vienkartinio pobūdžio išmokų, nenumatytų darbo užmokesčio sistemoje.
 Darant išskaitas iš nuteistų
 kolūkiečių uždarbio, į tą uždarbį įskaitoma tiek piniginė, tiek ir natūrinė jų
-pajamų dalis. Išskaityta iš nuteistųjų natūrinė dalis pajamų lieka kolūkio žinioje,
-o jos vertė valstybinėmis supirkimų kainomis pervedama į valstybės pajamas.
-Išskaitytos pinigų sumos pervedamos į valstybės pajamas kas mėnesį garantinio
-uždarbio išmokėjimo dieną. Išskaitos iš natūrinės pajamų dalies daromos tuo
-metu, kai ji gaunama ir galutinai apskaičiuojama pagal žemės ūkio metų
-rezultatus.
+pajamų dalis. Išskaityta iš nuteistųjų natūrinė dalis pajamų lieka kolūkio
+žinioje, o jos vertė valstybinėmis supirkimų kainomis pervedama į valstybės
+pajamas. Išskaitytos pinigų sumos pervedamos į valstybės pajamas kas mėnesį
+garantinio uždarbio išmokėjimo dieną. Išskaitos iš natūrinės pajamų dalies
+daromos tuo metu, kai ji gaunama ir galutinai apskaičiuojama pagal žemės ūkio
+metų rezultatus.
 Jeigu teismo nuosprendis
 panaikinamas ir byla nutraukiama, visos išskaitytos iš nuteistojo uždarbio
 sumos jam grąžinamos.
@@ -2419,9 +2426,9 @@ pranešti organui, vykdančiam šios rūšies bausmę apie teismo nuosprendžio 
 nuteistojo gavimą, apie paskatinimo priemonių ir nuobaudų jam skyrimą, apie jo
 perkėlimą į kitą darbą arba apie atleidimą iš darbo administracijos iniciatyva,
 taip pat apie nuteistojo vengimą atlikti bausmę;
-teisingai ir laiku daryti išskaitas
-iš nuteistųjų uždarbio į valstybės pajamas ir laiku pervesti išskaitytas sumas
-nustatytąja tvarka;
+teisingai ir laiku daryti
+išskaitas iš nuteistųjų uždarbio į valstybės pajamas ir laiku pervesti
+išskaitytas sumas nustatytąja tvarka;
 griežtai laikytis pataisos darbų
 be laisvės atėmimo atlikimo sąlygų, kurias numato šis kodeksas.
  
@@ -2483,9 +2490,9 @@ pakeitus nuosprendį, pakeičiant
 bausmę lygtiniu nuteisimu arba sumažinant bausmę iki atlikto bausmės laiko;
 lygtinai atleidus nuo bausmės
 prieš terminą;
-teismo nutartimi atleisti nuo tolesnio
-bausmės atlikimo dėl nuteistojo susirgimo chroniška psichine ar kitokia sunkia
-liga, kuri kliudo toliau atlikti bausmę;
+teismo nutartimi atleisti nuo
+tolesnio bausmės atlikimo dėl nuteistojo susirgimo chroniška psichine ar
+kitokia sunkia liga, kuri kliudo toliau atlikti bausmę;
 kitais įstatymų numatytais
 pagrindais.
  
@@ -2508,10 +2515,10 @@ bausmės atlikimo laiką. Kartu su teikimu teismui pasiunčiama nuteistojo asmen
 byla.
 Lygtinai paleistasis iš laisvės
 atėmimo vietos išleidžiamas tik esant nuteistojo įsipareigojimui pavyzdingu
-elgesiu ir sąžiningu darbu įrodyti, kad jis pasitaisys. Tokį raštišką įsipareigojimą
-nuteistasis paduoda pataisos darbų įstaigos administracijai, o ši kartu su
-kitais dokumentais nustatyta tvarka pateikia teismui spręsti klausimą dėl
-nuteistojo lygtinio paleidimo iš laisvės atėmimo vietos.
+elgesiu ir sąžiningu darbu įrodyti, kad jis pasitaisys. Tokį raštišką
+įsipareigojimą nuteistasis paduoda pataisos darbų įstaigos administracijai, o
+ši kartu su kitais dokumentais nustatyta tvarka pateikia teismui spręsti
+klausimą dėl nuteistojo lygtinio paleidimo iš laisvės atėmimo vietos.
 Jeigu teismas atsisako lygtinai
 paleisti iš laisvės atėmimo vietos arba lygtinai atleisti nuo bausmės prieš
 terminą ar pakeisti bausmę švelnesne, pakartotinai pateikti teismui šiuos
@@ -2541,8 +2548,8 @@ atlikimo dėl ligos teismui paduoda organo, kurio žinioje yra bausmės vykdymas
 viršininkas. Kartu su teikimu teismui pasiunčiama medicininės komisijos išvada
 ir nuteistojo asmens byla.
  
-1071 straipsnis.
-Neteko galios.
+1071 straipsnis. Neteko
+galios.
 Straipsnio pakeitimai:
 Nr. I-551, 1994-07-19,
 Žin., Nr. 60-1182 (1994-08-05)
@@ -2567,8 +2574,9 @@ pinigai, taip pat atitinkami dokumentai apie bausmės atlikimą.
 Paleidžiamajam prašant, jam
 duodama charakteristika.
 Per tris mėnesius prieš bausmės
-laiko pabaigą pataisos darbų įstaigos administracija reikiamais atvejais išsiaiškina
-nuteistojo įdarbinimo galimumą ir iš anksto imasi priemonių jam įdarbinti.
+laiko pabaigą pataisos darbų įstaigos administracija reikiamais atvejais
+išsiaiškina nuteistojo įdarbinimo galimumą ir iš anksto imasi priemonių jam
+įdarbinti.
 Pataisos darbų įstaigos
 viršininkas arba jo pavaduotojas privalo patys išaiškinti paleidžiamajam jo
 teises ir pareigas.
@@ -2754,6 +2762,16 @@ Nr. VIII-382,
 PATAISOS
 DARBŲ KODEKSO 41, 47(3) IR 77 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 1997 m. liepos 15 d.
+ 
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-518,
+1997-11-18, Žin., 1997, Nr. 109-2755 (1997-12-03)
+PATAISOS
+DARBŲ KODEKSO 54 IR 54(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 1998 m. sausio 1 d.
  
 ***
 Pabaiga ***
