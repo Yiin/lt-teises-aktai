@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC768B80044D"
 
 # Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymas
 
+Suvestinė redakcija nuo 2000-10-27 iki 2016-09-30
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 1-5, i. k. 0981010ISTAIII-1003
+ 
 LIETUVOS RESPUBLIKOS
 PILIEČIŲ ĮSTATYMŲ LEIDYBOS INICIATYVOS
 ĮSTATYMAS
@@ -105,7 +109,10 @@ Vyriausioji rinkimų komisija, gavusi parašų rinkimo lapus su piliečių para�
 
 1. Vyriausioji rinkimų komisija savo išvadą kartu su piliečių parašų rinkimo lapais pateikia Seimui.
 
-2. Jei Seimas gauna Vyriausiosios rinkimų komisijos išvadą, kad surinkti parašai atitinka įstatymo reikalavimus, Seimo kancleris tokios išvados gavimo dieną įregistruoja iniciatyvos projektą ir apie tai praneša iniciatyvinei grupei. 
+2. Seime gavus Vyriausiosios rinkimų komisijos išvadą, kad surinkti parašai atitinka įstatymų reikalavimus, išvados gavimo dieną įregistruojamas iniciatyvos projektas ir apie tai pranešama iniciatyvinei grupei. 
+
+Straipsnio pakeitimai:
+Nr. VIII-1977, 2000-10-10, Žin., 2000, Nr. 90-2772 (2000-10-27), i. k. 1001010ISTAIII-1977
  
 
 14 straipsnis. Seimo atsisakymas svarstyti iniciatyvos projektą
@@ -164,4 +171,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1977, 2000-10-10, Žin., 2000, Nr. 90-2772 (2000-10-27), i. k. 1001010ISTAIII-1977
+Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymo 13 straipsnio pakeitimo įstatymas
 
