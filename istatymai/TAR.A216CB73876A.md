@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A216CB73876A"
 
 # Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymas
 
-Suvestinė redakcija nuo 1990-11-21 iki 1990-12-31
+Suvestinė redakcija nuo 1991-01-01 iki 1994-05-24
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-592, i. k. 090XX01ISTA000I-422
  
