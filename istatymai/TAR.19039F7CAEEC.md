@@ -273,9 +273,10 @@ susitarusios (papildomu rašytiniu susitarimu) dėl šių darbų pobūdžio, mas
 išlaidų dydžio.
  
 11
-straipsnis. Nuomotojo pareiga remontuoti melioracijos įrenginius, kelius, 
-tiltus
-ir kitus inžinerinius įrenginius
+straipsnis. Nuomotojo pareiga remontuoti melioracijos įrenginius, kelius,
+tiltus ir kitus 
+inžinerinius
+įrenginius
 1. Tais
 atvejais, kai įstatymai ar žemės nuomos sutartis nenumato kitaip, žemės
 nuomotojas turi remontuoti savo lėšomis jam priklausančius melioracijos
@@ -290,9 +291,9 @@ funkcionavimui užtikrinti, iš nuomotojo teismine tvarka.
 straipsnis. Nuomininko pareiga išsaugoti dirvožemį ir jo kokybę, tvarkingai
 išlaikyti 
 melioracijos
-įrenginius, kelius, tiltus, kitus inžinerinius įrenginius 
-bei
-želdinius 
+įrenginius, kelius, tiltus, kitus inžinerinius įrenginius bei 
+želdinius
+
 1. Nuomininkas
 išsinuomotame žemės sklype negali atlikti veiksmų, kuriais būtų sunaikintas ar
 užteršiamas derlingasis dirvožemio sluoksnis, privalo savo lėšomis atlikti
@@ -309,9 +310,9 @@ nuomininkas nenaudoja žemės ūkio naudmenų ilgiau kaip 2 metus iš eilės arb
 nuomininkas privalo atlyginti nuomotojui atsiradusius nuostolius.
  
 13
-straipsnis. Nuomininko teisė gauti kompensaciją už pastatytus pastatus, 
-statinius
-ir įrenginius
+straipsnis. Nuomininko teisė gauti kompensaciją už pastatytus pastatus,
+statinius ir 
+įrenginius
 1. Pasibaigus
 žemės nuomos terminui arba nutraukus žemės nuomos sutartį prieš terminą, už
 pastatytus pastatus, statinius ir įrenginius nuomininkui žemės savininkas gali
@@ -411,8 +412,7 @@ sutartis prieš terminą gali būti nutraukta pasikeitus valstybinės žemės
 nuomotojui, privačios žemės nuomininkui, jeigu reikalavimai nutraukti nuomos
 sutartį prieš terminą susiję su Žemės reformos ir Piliečių nuosavybės teisių į
 išlikusį nekilnojamąjį turtą atkūrimo įstatymų nuostatomis. Šiuo atveju žemės
-ūkio paskirties žemės nuomos sutartis nutraukiama šio straipsnio 2 dalyje
-nustatyta tvarka. 
+nuomos sutartis nutraukiama šio straipsnio 2 dalyje nustatyta tvarka. 
 4. Jeigu žemės
 ūkio paskirties žemės nuomos sutartis nutraukiama prieš laiką nuomotojo
 reikalavimu, tų metų derlių nusiima nuomininkas arba nuomotojas atlygina
@@ -420,12 +420,14 @@ nuomininkui su tuo susijusius nuostolius.
 Straipsnio pakeitimai:
 Nr. VIII-1729, 00.06.13, Žin., 2000,
 Nr.50-1434 (00.06.21)
+Nr. VIII-1896, 00.08.22, Žin., 2000,
+Nr.75-2263 (00.09.07)
  
  
 21
-straipsnis. Žemės nuomos sutarties nutraukimas prieš terminą 
-nuomininko
-reikalavimu 
+straipsnis. Žemės nuomos sutarties nutraukimas prieš terminą nuomininko 
+reikalavimu
+
 Žemės nuomos
 sutartis prieš terminą nuomininko reikalavimu gali būti nutraukiama:
 1) jeigu žemės
@@ -435,8 +437,7 @@ kaip prieš 3 mėnesius, o kitos paskirties - prieš 2 mėnesius;
 nuomotojas nevykdo šio įstatymo 11 straipsnyje nurodytų pareigų. 
  
 22
-straipsnis. Valstybinės žemės nuomininko pirmumo teisė pratęsti žemės
-nuomos
+straipsnis. Valstybinės žemės nuomininko pirmumo teisė pratęsti žemės nuomos
 sutartį
 Jeigu,
 pasibaigus valstybinės žemės nuomos sutarties terminui, kartu su buvusiuoju
@@ -566,8 +567,14 @@ Nr.58-1707 (00.07.19)
 Šis
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1896, 00.08.22, Žin., 2000,
+Nr.75-2263 (00.09.07)
+ŽEMĖS NUOMOS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.01)
+Redagavo: Aušrinė Trapinskienė (2000.09.11)
 
