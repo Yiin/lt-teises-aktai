@@ -13,10 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3B6C127CCA6"
 
 # Lietuvos Respublikos atostogų įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
-Ramunė Lūžaitė (1997.07.03)
+Ramunė Lūžaitė (1997.07.17)
  
 Įstatymas
 paskelbtas: Žin., 1992, Nr.2-18
@@ -30,7 +30,7 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-1-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
+I-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
 LIETUVOS
 RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 6 IR 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
@@ -39,7 +39,7 @@ RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 6 IR 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-1383, 96.06.13, Žin., 1996, Nr. 57-1348 (96.06.19)
+I-1383, 96.06.13, Žin., 1996, Nr. 57-1348 (96.06.19)
 LIETUVOS
 RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 15 STRAIPSNIO PAKEITIMO
 LAIKINASIS
@@ -52,6 +52,14 @@ Nr.
 VIII-271, 97.06.17, Žin., 1997, Nr.63-1475 (97.07.02)
 LIETUVOS
 RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+4.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-365,
+97.07.01, Žin., 1997, Nr.67-1655 (97.07.16)
+LIETUVOS
+RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 20, 25 IR 26 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -78,7 +86,7 @@ straipsnis. Teisė į atostogas, jų suteikimo ypatumai
 Respublikos  piliečiai, dirbantys  pagal darbo sutartį arba narystės pagrindais
 Lietuvos teritorijoje esančiose įmonėse, įstaigose, organizacijose (toliau
 tekste - įmonė), taip pat už jos ribų esančiose įmonėse, priklausančiose
-Lietuvos Respublikos jurisdikcijai  nepriklausomai nuo  jų nuosavybės formos,
+Lietuvos Respublikos jurisdikcijai  nepriklausomai nuo  jų nuosavybės formos,
 turi teisę į atostogas.
      Krašto
 apsaugos tarnybos kariams, vidaus reikalų sistemos, sukarintų bei kai kurių
@@ -104,10 +112,10 @@ yra kasmetinės ir tikslinės.
 straipsnis. Kasmetinių atostogų sąvoka
  
      Kasmetinės
-atostogos - tai kalendorinės dienos, suteikiamos darbuotojams pailsėti  ir  atstatyti 
-darbingumą,  paliekant darbovietą (pareigas) ir mokant vidutinį darbo
-užmokestį. Švenčių dienos, paskelbtos  nedarbo  dienomis,  į  atostogų  trukmę
-neįskaičiuojamos.
+atostogos - tai kalendorinės dienos, suteikiamos darbuotojams pailsėti  ir 
+atstatyti  darbingumą,  paliekant darbovietą (pareigas) ir mokant vidutinį
+darbo užmokestį. Švenčių dienos, paskelbtos  nedarbo  dienomis,  į  atostogų 
+trukmę neįskaičiuojamos.
  
      5
 straipsnis. Kasmetinių atostogų rūšys
@@ -131,7 +139,7 @@ ne visą darbo dieną arba ne visą darbo savaitę atostogos netrumpinamos.
 Straipsnio
 pakeitimai:
 Nr.
-1-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
+I-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
  
      7
 straipsnis. Kasmetinės pailgintos atostogos
@@ -158,8 +166,8 @@ jos pageidauja, prieš nėštumo ir gimdymo atostogas arba iš karto po jų.
 metais  atostogos gali  būti suteikiamos moksleivių ir studentų vasaros
 atostogų laikotarpiu.
      Atostogos
-už antrus ir paskesnius darbo metus suteikiamos bet kuriuo darbo metų laiku
-pagal atostogų suteikimo eilę, kurios sudarymo tvarka nustatoma kolektyvinėje
+už antrus ir paskesnius darbo metus suteikiamos bet kuriuo darbo metų laiku pagal
+atostogų suteikimo eilę, kurios sudarymo tvarka nustatoma kolektyvinėje
 sutartyje, o ten, kur ši sutartis nesudaroma, - atostogų suteikimo eilė
 nustatoma šalims susitarus.
  
@@ -244,8 +252,7 @@ darbo stažą, už kurį suteikiamos atostogos, įskaitomas:
 dirbtas laikas;
      laikas,
 kai pagal įstatymus darbuotojui išsaugoma darbo vieta (pareigos) ir visas darbo
-užmokestis arba jo dalis, taip pat, kai jam mokama stipendija arba kitokios
-išmokos;
+užmokestis arba jo dalis, taip pat, kai jam mokama stipendija arba kitokios išmokos;
      laikas,
 kai darbuotojas gavo laikinojo nedarbingumo arba nėštumo ir gimdymo pašalpą;
      nemokamos
@@ -290,8 +297,8 @@ dienas iki prasidedant atostogoms, o už likusią atostogų dalį - ne vėliau k
 prieš tris kalendorines dienas iki jų tęsinio.
      Jei
 darbuotojui priklausantis darbo užmokestis nustatytu laiku nesumokamas ne dėl
-darbuotojo kaltės, atostogos pratęsiamos tiek dienų, kiek buvo delsiama
-sumokėti darbo užmokestį, už praleistą laiką mokant kaip už atostogas.
+darbuotojo kaltės, atostogos pratęsiamos tiek dienų, kiek buvo delsiama sumokėti
+darbo užmokestį, už praleistą laiką mokant kaip už atostogas.
  
 Straipsnio
 pakeitimai:
@@ -319,7 +326,7 @@ nenustato kitaip.
 Straipsnio
 pakeitimai:
 Nr.
-1-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
+I-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
  
              
            III skirsnis. TIKSLINĖS ATOSTOGOS 
@@ -356,7 +363,7 @@ straipsnis. Atostogos vaikui prižiūrėti iki jam sueis treji metai
 jos  pageidavimu, suteikiamos atostogos vaikui prižiūrėti iki jam sueis treji
 metai.
      Šeimos
-pasirinkimu, šios atostogos suteikiamos vaiko tėvui, senelei,  seneliui  arba 
+pasirinkimu, šios atostogos suteikiamos vaiko tėvui, senelei,  seneliui  arba 
 kitiems  giminaičiams,  faktiškai auginantiems vaiką. Atostogas galima imti
 visas iš karto arba dalimis, taip pat asmenys, turintys teisę gauti šias
 atostogas, gali jas imti pakaitomis.
@@ -368,10 +375,20 @@ darbo vieta (pareigos), išskyrus atvejus, kai įmonė visiškai likviduojama.
 straipsnis. Papildomos nemokamos atostogos vaikui prižiūrėti
  
      Motinos,
-auginančios vaiką iki 14 metų, pageidavimu, šalių suderintu laiku kasmet suteikiamos
-nemokamos iki 14 kalendorinių dienų trukmės atostogos. Motinoms, auginančioms
-vaiką invalidą iki 16 metų , šalių suderintu laiku kasmet suteikiamos iki 30
-kalendorinių dienų trukmės nemokamos atostogos.
+auginančios vaiką iki 14 metų, pageidavimu, šalių suderintu laiku kasmet
+suteikiamos nemokamos iki 14 kalendorinių dienų trukmės atostogos. Motinoms,
+auginančioms vaiką invalidą iki 16 metų , šalių suderintu laiku kasmet
+suteikiamos iki 30 kalendorinių dienų trukmės nemokamos atostogos.
+    
+Moters nėštumo ir gimdymo bei vaiko priežiūros iki jam sueis treji metai
+atostogų metu tėvui jo pageidavimu suteikiamos nemokamos atostogos, kurių
+bendra trukmė negali viršyti trijų mėnesių.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-365,
+97.07.01, Žin., 1997, Nr.67-1655 (97.07.16)
+ 
  
      21
 straipsnis. Atostogos įvaikinusiems asmenims
@@ -379,9 +396,9 @@ straipsnis. Atostogos įvaikinusiems asmenims
      Asmenims, 
 įvaikinusiems  naujagimius,  ir  globėjams, paėmusiems kūdikius į globą,
 suteikiamos atostogos už laiką nuo įvaikinimo ar paėmimo į globą dienos iki
-kūdikiui sueis 70 dienų, mokant už jas taip, kaip numatyta šio įstatymo 18 straipsnyje.
-Jiems taip pat suteikiamos atostogos, numatytos šio įstatymo 19 ir 20
-straipsniuose.
+kūdikiui sueis 70 dienų, mokant už jas taip, kaip numatyta šio įstatymo 18
+straipsnyje. Jiems taip pat suteikiamos atostogos, numatytos šio įstatymo 19 ir
+20 straipsniuose.
  
      22
 straipsnis. Atostogos tėvams ir kitiems asmenims, auginantiems
@@ -441,26 +458,42 @@ straipsnis. Nemokamos atostogos dėl šeimyninių aplinkybių
 ir kitų svarbių priežasčių
  
      Nemokamos
-atostogos  dėl šeimyninių aplinkybių ir kitų svarbių priežasčių suteikiamos
-kolektyvinėje sutartyje nustatyta tvarka arba šalims susitarus.
+atostogos dėl šeimyninių aplinkybių ir kitų svarbių priežasčių suteikiamos
+kolektyvinėje sutartyje nustatyta tvarka arba šalims susitarus esant darbuotojo
+raštiškam prašymui.
      Jeigu
 invalidai, taip pat tėvai, globėjai, rūpintojai, slaugantys invalidą, kuriam,
 invalidumą nustatančios komisijos sprendimu, nustatytas nuolatinės slaugos
 būtinumas, pageidauja, jiems kasmet suteikiamos iki 30 kalendorinių dienų
 trukmės nemokamos atostogos šalių suderintu laiku. 
  
+Straipsnio
+pakeitimai:
+Nr. VIII-365,
+97.07.01, Žin., 1997, Nr.67-1655 (97.07.16)
+ 
  
                       
 IV skirsnis. BAIGIAMOJI DALIS 
  
+    
+26 straipsnis. Teisė nustatyti papildomas atostogų garantijas
  
-     26
-straipsnis. Teisė nustatyti papildomų atostogų garantijas
+    
+Kolektyvinėse arba darbo sutartyse gali būti nustatytos ilgesnės trukmės bei
+kitų rūšių atostogos, papildomos lengvatos pasirinkti atostogų laiką, numatyti
+didesni apmokėjimai už atostogas, negu garantuoja šis įstatymas. Šios
+garantijos, išskyrus papildomą lengvatą pasirinkti atostogų laiką, negali būti
+nustatytos kolektyvinėse ir darbo sutartyse, sudaromose įstaigose,
+organizacijose, kurios yra išlaikomos iš valstybės, savivaldybių ir valstybinio
+socialinio draudimo fondo biudžetų bei kitų valstybės įsteigtų fondų lėšų, taip
+pat sudaromose Lietuvos banke.    
  
-     Kolektyvinėse
-arba darbo sutartyse gali būti nustatytos ilgesnės trukmės bei kitų rūšių
-atostogos, papildomos lengvatos pasirinkti atostogų  laiką, numatyti didesni
-apmokėjimai už atostogas negu garantuoja šis įstatymas.
+Straipsnio
+pakeitimai:
+Nr. VIII-365,
+97.07.01, Žin., 1997, Nr.67-1655 (97.07.16)
+ 
  
      27
 straipsnis. Ginčų sprendimas
