@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.33A63C3E9D4C"
 
 # Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymas
 
-Suvestinė redakcija nuo 2001-12-01 iki 2004-06-30
+Suvestinė redakcija nuo 2004-07-01 iki 2004-07-23
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 58-0; Žin. 1993, Nr.11-265, i. k. 0931010ISTA000I-108
  
@@ -268,12 +268,33 @@ Kalbos komisijos pirmininkas:
 
 
 
-6) teikia Kalbos komisijai tvirtinti sekretoriato sandarą ir pareigybių sąrašus;
+6) rengia Kalbos komisijos išlaidų sąmatos projektą ir teikia jį tvirtinti Kalbos komisijai; 
+Papildyta straipsnio punktu:
+Nr. IX-2231, 2004-05-11, Žin., 2004, Nr. 83-2985 (2004-05-22), i. k. 1041010ISTA0IX-2231
+ 
 
 
 
 
-7) ne rečiau kaip kartą per metus atsiskaito Seimui už Kalbos komisijos darbą.
+7) vadovauja sekretoriatui, įstatymų nustatyta tvarka priima į pareigas (darbą) ir atleidžia iš jų (jo) valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, tvirtina pareigybių aprašymus; 
+Papildyta straipsnio punktu:
+Nr. IX-2231, 2004-05-11, Žin., 2004, Nr. 83-2985 (2004-05-22), i. k. 1041010ISTA0IX-2231
+ 
+
+
+
+
+8) teikia Kalbos komisijai tvirtinti sekretoriato sandarą ir pareigybių sąrašus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2231, 2004-05-11, Žin., 2004, Nr. 83-2985 (2004-05-22), i. k. 1041010ISTA0IX-2231
+ 
+
+
+
+
+9) ne rečiau kaip kartą per metus atsiskaito Seimui už Kalbos komisijos darbą.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2231, 2004-05-11, Žin., 2004, Nr. 83-2985 (2004-05-22), i. k. 1041010ISTA0IX-2231
  
 
 
@@ -326,23 +347,18 @@ Kalbos komisijos pirmininkas:
 
 
 
-3. Sekretoriato darbuotojai priimami į pareigas įstatymų nustatyta tvarka. Konkursą sekretoriato vedėjo pareigoms skelbia Kalbos komisija.
-
-
-
-
-4. Sekretoriato vedėjas:
-
-
-1) vadovauja sekretoriatui, atsako už Kalbos komisijos dokumentų rengimą ir pavedimų vykdymą;
-
-
-
-
-2) rengia Kalbos komisijos išlaidų sąmatos projektą.
+3. Sekretoriatui vadovauja, jo valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, įstatymų nustatyta tvarka priima į pareigas (darbą) ir atleidžia iš jų (jo) Kalbos komisijos pirmininkas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2231, 2004-05-11, Žin., 2004, Nr. 83-2985 (2004-05-22), i. k. 1041010ISTA0IX-2231
  
 
 
+
+
+4. Neteko galios nuo 2004-07-01
+Straipsnio dalies naikinimas:
+Nr. IX-2231, 2004-05-11, Žin. 2004, Nr. 83-2985 (2004-05-22), i. k. 1041010ISTA0IX-2231
+ 
 
 
 
@@ -436,3 +452,8 @@ Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-617, 2001-11-20, Žin., 2001, Nr. 102-3628 (2001-12-05), i. k. 1011010ISTA00IX-617
 Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2231, 2004-05-11, Žin., 2004, Nr. 83-2985 (2004-05-22), i. k. 1041010ISTA0IX-2231
+Lietuvos Respublikos valstybinės lietuvių kalbos komisijos įstatymo 8, 9 straipsnių pakeitimo ir papildymo įstatymas
