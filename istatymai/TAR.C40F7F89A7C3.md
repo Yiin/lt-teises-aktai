@@ -179,22 +179,17 @@ POTENCIALIAI PAVOJINGŲ ĮRENGINIŲ PRIEŽIŪROS VALSTYBINIS VALDYMAS
 Vyriausybė: 
 
 
-1) steigia Potencialiai pavojingų įrenginių valstybės registrą (toliau – Registras), tvirtina jo nuostatus ir skiria Registro tvarkytoją; 
+1) tvirtina potencialiai pavojingų įrenginių, kurių kategorijos nurodytos šio įstatymo 3 straipsnyje, parametrus; 
 
 
 
 
-2) tvirtina potencialiai pavojingų įrenginių, kurių kategorijos nurodytos šio įstatymo 3 straipsnyje, parametrus; 
+2) skiria valstybės institucijas, atsakingas už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros administracinį reglamentavimą;
 
 
 
 
-3) skiria valstybės institucijas, atsakingas už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros administracinį reglamentavimą;
-
-
-
-
-4) skiria valstybės institucijas, atsakingas už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros reikalavimų įgyvendinimo kontrolę.
+3) skiria valstybės institucijas, atsakingas už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros reikalavimų įgyvendinimo kontrolę.
  
 
 
@@ -287,10 +282,22 @@ Nacionalinis akreditacijos biuras:
 
 
 
-8 straipsnis. Registro valdytojas
-
-
-Lietuvos Respublikos valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos yra Registro valdytoja.
+8 straipsnis. Potencialiai pavojingų įrenginių registras
+1. Potencialiai pavojingų įrenginių registro (toliau – Registras) objektas yra potencialiai pavojingi įrenginiai. Potencialiai pavojingų įrenginių registro informacinėje sistemoje (toliau – Registro informacinė sistema) tvarkomi duomenų rinkiniai apie potencialiai pavojingus įrenginius, potencialiai pavojingų įrenginių savininkus ir potencialiai pavojingų įrenginių priežiūrą. Konkretūs Registro informacinėje sistemoje tvarkomų duomenų rinkinius sudarantys duomenys yra nustatomi Registro informacinės sistemos nuostatuose.
+2. Registro informacinės sistemos valdytoja ir Registro duomenų, įskaitant asmens duomenis, valdytoja yra Lietuvos Respublikos valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos.
+3. Potencialiai pavojingas įrenginys įregistruojamas Registro informacinėje sistemoje pagal potencialiai pavojingo įrenginio savininko arba jo įgalioto atstovo pateiktą prašymą, kai atitinka šias sąlygas:
+1) potencialiai pavojingas įrenginys priklauso nuosavybės teise arba valdomas, naudojamas ir juo disponuojama turto patikėjimo teise;
+2) yra galiojanti sutartis su akredituotąja įstaiga dėl potencialiai pavojingo įrenginio techninės būklės tikrinimo;
+3) yra akredituotosios įstaigos išvada, kad potencialiai pavojingas įrenginys yra tinkamas naudoti ir saugus žmonių gyvybei, sveikatai ar aplinkai, ir išvadoje nurodyta ateinančio potencialiai pavojingo įrenginio techninės būklės tikrinimo data nėra praėjusi.
+4. Potencialiai pavojingas įrenginys išregistruojamas iš Registro informacinės sistemos šiais atvejais:
+1) pagal potencialiai pavojingo įrenginio savininko arba jo įgalioto atstovo pateiktą prašymą Registro informacinės sistemos nuostatuose nurodytais atvejais;
+2) paaiškėja, kad potencialiai pavojingas įrenginys išvežtas iš Lietuvos Respublikos prieš daugiau kaip 12 mėnesių;
+3) praėjus akredituotosios įstaigos išvadoje, kad potencialiai pavojingas įrenginys yra tinkamas naudoti ir saugus žmonių gyvybei, sveikatai ar aplinkai, nurodytai ateinančio potencialiai pavojingo įrenginio techninės būklės tikrinimo datai ir Registro duomenų tvarkytojui ne vėliau kaip per 3 darbo dienas nuo ateinančio potencialiai pavojingo įrenginio techninės būklės tikrinimo datos suėjimo įspėjus potencialiai pavojingo įrenginio savininką apie galimą potencialiai pavojingo įrenginio išregistravimą, šis per 2 mėnesius nuo įspėjimo dienos neįvykdo šio įstatymo 12 straipsnio 2 dalies 2 punkte nustatytos pareigos;
+4) gavus akredituotosios įstaigos išvadą, kad potencialiai pavojingas įrenginys yra netinkamas naudoti ir nesaugus žmonių gyvybei, sveikatai ar aplinkai, o pašalinti nurodytas neatitiktis nėra galimybės arba potencialiai pavojingo įrenginio savininkas trūkumų nepašalina šio įstatymo 12 straipsnio 2 dalies 7 punkte nustatyta tvarka;
+5) paaiškėja, kad potencialiai pavojingo įrenginio savininkas juridinis asmuo pasibaigė arba fizinis asmuo yra miręs ar teismo tvarka paskelbtas mirusiu ir (arba) nėra informacijos apie potencialiai pavojingo įrenginio tolesnį naudojimą, buvimo vietą ar sunaikinimą, o gauti šios informacijos Registro duomenų tvarkytojui prieinamomis priemonėmis nėra galimybių.
+5. Registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Registro informacinės sistemos duomenys teikiami laikantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje nurodytų apribojimų, Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) 5 straipsnyje apibrėžtų asmens duomenų tvarkymo principų ir 6 straipsnyje nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
+6. Registro informacinėje sistemoje tvarkomi duomenys yra atveriami pakartotinai naudoti, išskyrus asmens duomenis, duomenis, susijusius su visuomenės ir viešuoju saugumu, ir duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį.
+7. Apibendrinti statistiniai Registro informacinės sistemos duomenys pateikiami šio įstatymo 6 straipsnio 4 punkte nurodytoje ataskaitoje.
  
 
 
@@ -362,7 +369,7 @@ POTENCIALIAI PAVOJINGŲ ĮRENGINIŲ PRIEŽIŪROS REIKALAVIMAI. POTENCIALIAI PAVO
 
 
 
-4) teikti Registro nuostatuose nurodytus potencialiai pavojingų įrenginių techninės būklės patikrinimo duomenis ir duomenis apie sutartis su potencialiai pavojingų įrenginių savininkais dėl potencialiai pavojingo įrenginio techninės būklės tikrinimo Registro nuostatuose nustatyta tvarka ir terminais; 
+4) teikti potencialiai pavojingų įrenginių techninės būklės patikrinimo duomenis ir duomenis apie sutartis su potencialiai pavojingų įrenginių savininkais dėl potencialiai pavojingo įrenginio techninės būklės tikrinimo Registro informacinės sistemos nuostatuose nustatyta tvarka ir terminais; 
 
 
 
@@ -434,12 +441,12 @@ POTENCIALIAI PAVOJINGŲ ĮRENGINIŲ PRIEŽIŪROS REIKALAVIMAI. POTENCIALIAI PAVO
 
 
 
-3) potencialiai pavojingą įrenginį pradėti naudoti tik gavus akredituotosios įstaigos išvadą, kad potencialiai pavojingas įrenginys yra tinkamas naudoti ir saugus žmonių gyvybei, sveikatai ar aplinkai, ir Registro nuostatuose nustatyta tvarka užregistravus jį Registre; 
+3) naudoti tik Registro informacinės sistemos nuostatuose nustatyta tvarka įregistruotą potencialiai pavojingą įrenginį ir turint akredituotosios įstaigos išvadą, kad potencialiai pavojingas įrenginys yra tinkamas naudoti ir saugus žmonių gyvybei, sveikatai ar aplinkai, ir išvadoje nurodyta ateinančio potencialiai pavojingo įrenginio techninės būklės tikrinimo data nėra praėjusi; 
 
 
 
 
-4) Registro nuostatuose nustatyta tvarka teikti Registro tvarkytojui Registro duomenis; 
+4) Registro informacinės sistemos nuostatuose nustatyta tvarka teikti Registro duomenų tvarkytojui Registro duomenis; 
 
 
 
