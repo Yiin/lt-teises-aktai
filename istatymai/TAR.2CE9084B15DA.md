@@ -16,9 +16,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA"
 Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo: Ramunė
-Lūžaitė (1999.05.26)
+Lūžaitė (1999.09.06)
  
-Įstatymas
+ 
+ Įstatymas
 paskelbtas: Žin., 1991, Nr.36-973
  
 Neoficialus
@@ -170,6 +171,11 @@ Nr. VIII-1168,
 99.05.11, Žin., 1999, Nr.45-1433 (99.05.26)
 LIETUVOS
 RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1316, 99.07.08, Žin., 1999, Nr.66-2130 (99.07.30)
+LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS ĮSTATYMAS
  
 ***
 Pabaiga *** 
@@ -375,8 +381,8 @@ susitarimu gali būti sulygstama ir dėl kitų darbo sutarties sąlygų, jeigu d
 straipsnis.Darbo sutarties terminas
  
      Gali 
-būti  sudaroma  neterminuota darbo sutartis arba nustatomas terminas, bet ne ilgesnis
-kaip penkeri metai, jeigu kiti įstatymai nenumato kitko.
+būti  sudaroma  neterminuota darbo sutartis arba nustatomas terminas, bet ne
+ilgesnis kaip penkeri metai, jeigu kiti įstatymai nenumato kitko.
      Neleidžiama
 sudaryti terminuotą darbo sutartį, jeigu darbas yra nuolatinio pobūdžio,
 išskyrus atvejus, kai sudaryti tokią sutartį  pageidauja pats darbuotojas arba
@@ -449,9 +455,9 @@ straipsnis.Išbandymo rezultatai
  
      Jei
 darbdavys pripažino, kad išbandymo siekiant patikrinti, ar  darbuotojas  tinka 
-jam  pavestam  darbui,  rezultatai nepatenkinami, jis iki išbandymo termino pabaigos
-gali atleisti darbuotoją iš darbo, nesilaikydamas šio įstatymo 33 ir 34
-straipsniuose nustatytos tvarkos, ir nemokėti jam išeitinės pašalpos.
+jam  pavestam  darbui,  rezultatai nepatenkinami, jis iki išbandymo termino
+pabaigos gali atleisti darbuotoją iš darbo, nesilaikydamas šio įstatymo 33 ir
+34 straipsniuose nustatytos tvarkos, ir nemokėti jam išeitinės pašalpos.
      Jei
 išbandymas nustatytas siekiant patikrinti, ar darbas tinka  darbuotojui, 
 išbandymo  įvertinimas  priklauso  nuo darbuotojo valios. Per išbandymo terminą
@@ -492,7 +498,7 @@ pateiktų valstybinio socialinio draudimo pažymėjimą
  
      Darbdavys
 privalo pareikalauti, kad priimtas dirbti asmuo pateiktų  valstybinio 
-socialinio  draudimo  pažymėjimą,  ir nustatyta tvarka daryti jame įrašus.
+socialinio  draudimo  pažymėjimą,  ir nustatyta tvarka daryti jame įrašus.
 Valstybinio socialinio draudimo  pažymėjimų išdavimo ir tvarkymo taisykles
 nustato Lietuvos Respublikos Vyriausybė.
  
@@ -515,8 +521,8 @@ reikalavimus, jis traukiamas atsakomybėn įstatymų nustatyta tvarka.
 privalo pradėti dirbti kitą dieną po sutarties sudarymo, jeigu šalys nesusitarė
 kitaip.
      Jei
-darbuotojas faktiškai pradėjo dirbti pagal darbdavio ar jo įgalioto asmens
-leidimą, tai darbo sutartis laikoma sudaryta ir turi būti nedelsiant įforminta.
+darbuotojas faktiškai pradėjo dirbti pagal darbdavio ar jo įgalioto asmens leidimą,
+tai darbo sutartis laikoma sudaryta ir turi būti nedelsiant įforminta.
      Sudarydamas
 darbo sutartį, darbdavys arba jo įgaliotas asmuo privalo pasirašytinai
 supažindinti priimamą dirbti asmenį su  būsimojo  darbo sąlygomis, kolektyvine
@@ -537,8 +543,8 @@ Nelegaliu darbu laikomas darbas:
 1) dirbamas nesudarius darbo sutarties su darbdaviu ar jo įgaliotu asmeniu,
 išskyrus atvejus, kai pagal kitus teisės aktus nebūtina sudaryti darbo sutartį;
     
-2) atliekamas pagal rangos ar kitokias ūkines-komercines sutartis neįsteigus
-įmonės ar neturint patento, išskyrus darbą pagal autorines sutartis;
+2) atliekamas pagal rangos ar kitokias ūkines-komercines sutartis neįsteigus įmonės
+ar neturint patento, išskyrus darbą pagal autorines sutartis;
     
 3) dirbamas užsienio valstybių piliečių ir asmenų be pilietybės nesilaikant
 jiems teisės aktų nustatytos įsidarbinimo tvarkos.
@@ -569,12 +575,12 @@ straipsnis. Giminaičių darbo apribojimas
  
      Draudžiama
 eiti tarnautojų pareigas vienoje valstybės ir savivaldybės institucijoje bei
-valstybės (vietos savivaldybės) įmonėje asmenims, kuriuos sieja artimi giminystės
-ar svainystės ryšiai (tėvai, įtėviai, sutuoktiniai, broliai, seserys, vaikai,
-įvaikiai,  taip pat sutuoktinių broliai, seserys, tėvai ir vaikai), jeigu jų
-tarnyba kartu yra susijusi su vieno iš jų tiesioginiu pavaldumu kitam arba su
-vieno teise kontroliuoti kitą. Šios taisyklės išimtis gali nustatyti Lietuvos
-Respublikos Vyriausybė.
+valstybės (vietos savivaldybės) įmonėje asmenims, kuriuos sieja artimi
+giminystės ar svainystės ryšiai (tėvai, įtėviai, sutuoktiniai, broliai,
+seserys, vaikai, įvaikiai,  taip pat sutuoktinių broliai, seserys, tėvai ir
+vaikai), jeigu jų tarnyba kartu yra susijusi su vieno iš jų tiesioginiu
+pavaldumu kitam arba su vieno teise kontroliuoti kitą. Šios taisyklės išimtis
+gali nustatyti Lietuvos Respublikos Vyriausybė.
  
 Straipsnio
 pakeitimai:
@@ -616,7 +622,8 @@ neturi teisės be darbdavio ar jo įgalioto asmens sutikimo pavesti atlikti savo
 darbą kitam asmeniui.
  
      21
-straipsnis.Draudimas reikalauti atlikti darbą, nesulygtą darbo sutartyje
+straipsnis.Draudimas reikalauti atlikti darbą, nesulygtą darbo 
+                  sutartyje
  
      Darbdavys
 neturi teisės reikalauti, kad darbuotojas atliktų darbą, nesulygtą darbo
@@ -706,9 +713,9 @@ prastovos, atlygis, bet ne mažesnis nei valstybės patvirtintas minimalus
 valandinis atlygis už kiekvieną prastovos valandą.
      Jeigu
 darbuotojas atsisako pasiūlyto darbo, kurį jis galėtų dirbti   nepakenkdamas  
-savo   profesijai,  specialybei, kvalifikacijai ir sveikatos būklei, jam mokamas
-ne mažesnis nei valstybės nustatytas minimalus valandinis atlygis už kiekvieną
-prastovos valandą.
+savo   profesijai,  specialybei, kvalifikacijai ir sveikatos būklei, jam
+mokamas ne mažesnis nei valstybės nustatytas minimalus valandinis atlygis už
+kiekvieną prastovos valandą.
      Darbdavys 
 neturi  teisės  reikalauti, kad darbuotojas, nedirbantis dėl prastovos, būtų
 darbovietėje ilgiau kaip vieną valandą per darbo dieną (pamainą). Už buvimą
@@ -781,6 +788,12 @@ arba jį faktiškai auginantis asmuo reikalauja nutraukti darbo sutartį;
 kai darbo sutartis prieštarauja įstatymų reikalavimams (31 straipsnis);
      15) 
 įstatymų  įgaliotų  organų ar pareigūnų motyvuotu reikalavimu;
+      [26
+straipsnio 1 dalies 16, 17, 18, 19, 20 punktų redakcija iki
+1999
+m. liepos 30 d. 
+Nuo 1999 m. liepos 30 d. 16, 17, 18, 19, 20
+punktai netenka galios]
      16) 
 kai  paaiškėja,  kad  valstybės  ar  savivaldybių valdininkai yra teisti už
 sunkius nusikaltimus, nusikaltimus valstybės tarnybai;
@@ -830,6 +843,7 @@ Nr. VIII-286,
 97.06.24, Žin., 1997, Nr.66-1593 (97.07.11)
 Nr. VIII-429,
 97.09.25, Žin., 1997, Nr.91-2273 (97.10.07)
+Nr. VIII-1316, 99.07.08, Žin., 1999, Nr.66-2130 (99.07.30)
  
      27
 straipsnis.Darbo sutarties nutraukimo šalių susitarimu tvarka
@@ -858,8 +872,8 @@ privalo įforminti atleidimą.
      Jei 
 reikalavimas  nutraukti neterminuotą darbo sutartį pagrįstas darbuotojo liga ar
 invalidumu, trukdančiu tinkamai atlikti darbą, arba kitomis svarbiomis
-priežastimis, numatytomis kolektyvinėje sutartyje, darbo sutartis turi būti nutraukta
-nuo darbuotojo pareiškime nurodytos datos.
+priežastimis, numatytomis kolektyvinėje sutartyje, darbo sutartis turi būti
+nutraukta nuo darbuotojo pareiškime nurodytos datos.
      Darbuotojas
 turi teisę atšaukti pareiškimą nutraukti darbo sutartį ne vėliau kaip per tris
 kalendorines dienas nuo jo padavimo  dienos.  Po to jis gali atšaukti
@@ -869,8 +883,8 @@ turi teisę nutraukti terminuotą darbo sutartį iki jos termino pabaigos, apie
 tai raštu pranešęs darbdaviui, jei yra priežasčių, nurodytų šio straipsnio
 antrojoje dalyje, taip pat jei darbdavys pažeidė darbuotojo teises, numatytas
 darbo  įstatymuose, kolektyvinėje ar darbo sutartyje. Kilus nesutarimams dėl
-terminuotos darbo sutarties nutraukimo prieš terminą, ginčą darbuotojo
-pareiškimu 
+terminuotos darbo sutarties nutraukimo prieš terminą, ginčą darbuotojo pareiškimu
+
 sprendžia
 darbo ginčus nagrinėjantys organai. 
  
@@ -880,13 +894,12 @@ darbo ginčus nagrinėjantys organai.
 priklausančių aplinkybių 
  
     
-Darbuotojas turi teisę nutraukti neterminuotą darbo sutartį, taip pat
-terminuotą darbo sutartį, sudarytą ilgesniam kaip 6 mėnesių laikui, kai jo
-darbo vietoje darbo sutartyje nustatytu darbo laiku prastova ne dėl darbuotojo
-kaltės tęsiasi ilgiau kaip 30 dienų iš eilės arba kai ji sudaro daugiau kaip 60
-dienų per paskutiniuosius dvylika mėnesių, taip pat kai jam daugiau kaip du
-mėnesius iš eilės nemokamas visas jam priklausantis darbo užmokestis (mėnesinė
-alga).
+Darbuotojas turi teisę nutraukti neterminuotą darbo sutartį, taip pat terminuotą
+darbo sutartį, sudarytą ilgesniam kaip 6 mėnesių laikui, kai jo darbo vietoje
+darbo sutartyje nustatytu darbo laiku prastova ne dėl darbuotojo kaltės tęsiasi
+ilgiau kaip 30 dienų iš eilės arba kai ji sudaro daugiau kaip 60 dienų per
+paskutiniuosius dvylika mėnesių, taip pat kai jam daugiau kaip du mėnesius iš
+eilės nemokamas visas jam priklausantis darbo užmokestis (mėnesinė alga).
     
 Darbuotojas turi teisę nutraukti darbo sutartį, kai Įmonių bankroto įstatymo
 nustatyta tvarka įmonėje pradedama bankroto procedūra.
@@ -911,21 +924,22 @@ iniciatyva pagrindai:
 kai įmonė likviduojama, apribojama ar nutraukiama bankrutuojančios įmonės ūkinė
 veikla;
      2)
-kai sumažinamas darbuotojų skaičius dėl gamybos ar darbo organizavimo pakeitimų;
+kai sumažinamas darbuotojų skaičius dėl gamybos ar darbo organizavimo
+pakeitimų;
      3)
 kai paaiškėja, jog darbuotojas negali tinkamai atlikti jam pavesto darbo dėl
 pablogėjusios sveikatos arba dėl to, kad jis neturi reikiamos kvalifikacijos;
      4)
-kai darbuotojas dėl laikinojo nedarbingumo neatvyksta į darbą daugiau kaip šimtą
-dvidešimt kalendorinių dienų iš eilės arba daugiau kaip šimtą keturiasdešimt
-kalendorinių dienų per paskutiniuosius dvylika mėnesių, jei įstatymuose
-nenustatyta, kad tam tikros ligos atveju darbo vieta (pareigos) paliekama
-ilgesnį  laiką.  Darbuotojams,  netekusiems  darbingumo  dėl suluošinimo darbe
-ar profesinės ligos, darbo vieta (pareigos) paliekama,  kol  bus  atgautas 
-darbingumas arba nustatytas invalidumas;
+kai darbuotojas dėl laikinojo nedarbingumo neatvyksta į darbą daugiau kaip
+šimtą dvidešimt kalendorinių dienų iš eilės arba daugiau kaip šimtą
+keturiasdešimt kalendorinių dienų per paskutiniuosius dvylika mėnesių, jei
+įstatymuose nenustatyta, kad tam tikros ligos atveju darbo vieta (pareigos)
+paliekama ilgesnį  laiką.  Darbuotojams,  netekusiems  darbingumo  dėl
+suluošinimo darbe ar profesinės ligos, darbo vieta (pareigos) paliekama,  kol 
+bus  atgautas  darbingumas arba nustatytas invalidumas;
      5)
-kai darbuotojas, atleistas iš krašto apsaugos tarnybos, daugiau kaip du mėnesius
-po atleidimo negrįžo į darbą;
+kai darbuotojas, atleistas iš krašto apsaugos tarnybos, daugiau kaip du
+mėnesius po atleidimo negrįžo į darbą;
      6)
 kai darbuotojas nerūpestingai atliko pareigas ar kitaip pažeidė darbo drausmę,
 jei prieš tai jam nors vieną kartą per paskutiniuosius  dvylika  mėnesių  buvo 
@@ -940,21 +954,25 @@ nusikaltimą;
 kai  darbuotojas  darbo metu darbe yra neblaivus, apsvaigęs nuo narkotikų ar
 toksinių medžiagų;
      10) 
-kai  darbuotojas  neatvyksta  į darbą be svarbių priežasčių per visą darbo
-dieną (pamainą);
+kai  darbuotojas  neatvyksta  į darbą be svarbių priežasčių per visą darbo dieną
+(pamainą);
      11) 
 kai darbuotojas atskleidžia įmonės komercines bei technologines paslaptis arba
 jas praneša konkuruojančiai įmonei;
      12)
 kai darbuotojai, turintys įgalinimus duoti privalomus vykdyti  patvarkymus 
 (nurodymus),  vieną  kartą  šiurkščiai pažeidžia darbo pareigas;
+ [29
+straipsnio 1 dalies 13 punkto redakcija iki 1999 m. liepos 30 d.
+      Nuo
+1999 m. liepos 30 d. 29 straipsnio 1 dalies 13 punktas netenka galios]
   
 13) kai darbuotojas netinka eiti pareigų pagal atestavimo rezultatus.
      Darbdavys
 gali nutraukti darbo sutartį su darbuotojais, kurių  darbas susijęs su
 materialinių vertybių apskaita ar saugojimu,  priėmimu,  išdavimu  ar
-transportavimu, kai šie darbuotojai dėl savo kaltų veiksmų darbe netenka
-pasitikėjimo dirbti jiems pavestą darbą.
+transportavimu, kai šie darbuotojai dėl savo kaltų veiksmų darbe netenka pasitikėjimo
+dirbti jiems pavestą darbą.
      Valstybės 
 bei savivaldybių valdininkai ir darbuotojai, atliekantys auklėjimo funkcijas,
 gali būti atleisti iš darbo, kai jų elgesys, nors ir ne darbo metu, yra
@@ -966,8 +984,8 @@ darbuotojų atostogų  metu  (išskyrus atleidimą pagal šio straipsnio 1 pun
 Jeigu  darbo  sutartis  nutraukta pažeidžiant šią nuostatą, jos nutraukimo
 diena laikoma kita po atostogų ar kita po  nedarbingumo pasibaigimo darbo
 diena. Už laiką, kuriam pratęstas darbo sutarties nutraukimas, darbuotojui
-išmokamas dvigubas  darbo  užmokestis,  įskaitant per šį laiką gautą nedarbingumo
-pašalpą ir apmokėjimą už atostogas.
+išmokamas dvigubas  darbo  užmokestis,  įskaitant per šį laiką gautą
+nedarbingumo pašalpą ir apmokėjimą už atostogas.
      Draudžiama 
 atleisti darbuotoją iš darbo dėl politinių įsitikinimų, pažiūros į religiją,
 dėl tautybės, pilietybės ir kitų  aplinkybių,  nesusijusių  su  dalykinėmis 
@@ -983,8 +1001,9 @@ Nr.
 I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
 Nr.
 VIII-75, 97.01.16, Žin., 1997, Nr.6-88 (97.01.22)
-Nr. VIII-286,
-97.06.24, Žin., 1997, Nr.66-1593 (97.07.11)
+Nr. VIII-286, 97.06.24,
+Žin., 1997, Nr.66-1593 (97.07.11)
+Nr. VIII-1316, 99.07.08, Žin., 1999, Nr.66-2130 (99.07.30)
  
      30
 straipsnis.Darbo sutarties nutraukimas darbdavio valia
@@ -1098,16 +1117,16 @@ Nr.I-475,
  
      34
 straipsnis.Reikalavimai nutraukiant darbo sutartį, kai nėra
-           
-       darbuotojo kaltės
+                  
+darbuotojo kaltės
  
      Darbdavys
 savo iniciatyva, jei nėra darbuotojo kaltės, gali nutraukti darbo sutartį
-įstatymų nustatyta tvarka tik prieš du mėnesius  įspėjęs darbuotoją raštu.
-Darbuotojui, kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip
-penkeri metai, nepilnamečiui iki 18 metų, invalidui, moteriai, turinčiai vaikų
-iki 14 metų, ir vyrui, vienam auginančiam vaikus iki tokio pat amžiaus, apie
-numatomą atleidimą iš darbo turi būti pranešta raštu prieš keturis mėnesius.
+įstatymų nustatyta tvarka tik prieš du mėnesius  įspėjęs darbuotoją raštu. Darbuotojui,
+kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip penkeri
+metai, nepilnamečiui iki 18 metų, invalidui, moteriai, turinčiai vaikų iki 14
+metų, ir vyrui, vienam auginančiam vaikus iki tokio pat amžiaus, apie numatomą
+atleidimą iš darbo turi būti pranešta raštu prieš keturis mėnesius.
      Darbo
 arba kolektyvinėje sutartyje gali būti nustatomi ilgesni įspėjimo terminai.
      Įspėjimas
@@ -1160,18 +1179,18 @@ pakeitimai:
 Nr.I-2076,
 91.12.10, Žin., 1991, Nr. 36-979
  
-     36 straipsnis. Apribojimai
-nutraukiant darbo sutartį su asmenimis, kuriuos įdarbinti nustatytos kvotos, ir
-su darbuotojais, pašauktais atlikti privalomąją karo tarnybą, bei kariais
-savanoriais
+     36
+straipsnis. Apribojimai nutraukiant darbo sutartį su asmenimis, kuriuos
+įdarbinti nustatytos kvotos, ir su darbuotojais, pašauktais atlikti privalomąją
+karo tarnybą, bei kariais savanoriais
  
 Darbdavys negali nutraukti darbo sutarties
 savo iniciatyva, išskyrus pagal šio įstatymo 29 straipsnio 1 punktą, su
 invalidais ir kitais darbuotojais, kuriems pagal įstatymą nustatyta įdarbinimo
-ar papildomų darbo vietų steigimo kvota, kai nėra jų kaltės ir bendras jų skaičius
-neviršija savivaldybės nustatytos kvotos, taip pat su darbuotojais, pašauktais
-atlikti privalomąją karo tarnybą, ir kariais savanoriais jų mokymų metu ar
-pašaukus juos į tarnybą.
+ar papildomų darbo vietų steigimo kvota, kai nėra jų kaltės ir bendras jų
+skaičius neviršija savivaldybės nustatytos kvotos, taip pat su darbuotojais,
+pašauktais atlikti privalomąją karo tarnybą, ir kariais savanoriais jų mokymų
+metu ar pašaukus juos į tarnybą.
  
 Straipsnio
 pakeitimai:
@@ -1192,8 +1211,8 @@ kurie toje darbovietėje buvo sužaloti arba susirgo profesine liga;
 kurie vieni išlaiko vaikus (įvaikius) iki 16 metų arba kitus šeimos narius,
 pripažintus I ar II grupės invalidais;
      3)
-kurie turi ne mažiau kaip 10 metų nepertraukiamąjį darbo stažą toje įmonėje, įstaigoje,
-organizacijoje;
+kurie turi ne mažiau kaip 10 metų nepertraukiamąjį darbo stažą toje įmonėje,
+įstaigoje, organizacijoje;
      4)
 kuriems iki senatvės pensijos liko ne daugiau kaip 3 metai;
      5)
@@ -1288,8 +1307,8 @@ vidutinis darbo užmokestis už uždelsimo laiką.
 Kai uždelsiama atsiskaityti dėl darbdavio kaltės, darbuotojui
 sumokamas vidutinis darbo užmokestis už uždelsimo laiką. Vidutinio darbo
 užmokesčio mokėjimas už uždelsimo laiką nutraukiamas nuo teismo nutarties
-iškelti įmonei bankroto bylą įsiteisėjimo dienos arba nuo kreditorių susirinkimo
-nutarimo pradėti neteisminį bankroto procesą priėmimo dienos.
+iškelti įmonei bankroto bylą įsiteisėjimo dienos arba nuo kreditorių
+susirinkimo nutarimo pradėti neteisminį bankroto procesą priėmimo dienos.
  
       *
 Iki 1999 m. gegužės 1 d. atleistiems iš darbo bankrutuojančių ar bankrutavusių
@@ -1323,9 +1342,10 @@ atlyginimo skirtumą, kai darbuotojas dirbo mažiau apmokamą darbą.
 neteisėtai  atleistas  darbuotojas  pareiškia, kad grąžinus jį į ankstesnįjį
 darbą, jam būtų sudarytos nepalankios sąlygos dirbti, teismas, konstatuodamas
 neteisėtą atleidimą, gali darbuotojo prašymu negrąžinti jo į darbą, o priteisti
-jam kompensaciją  iki  dvylikos  jo  vidutinių  mėnesinių darbo užmokesčių
-dydžio. Šiuo atveju darbuotojas laikomas atleistu iš darbo pagal šio įstatymo
-28 straipsnį. 
+jam kompensaciją  iki  dvylikos  jo  vidutinių  mėnesinių darbo užmokesčių dydžio.
+Šiuo atveju darbuotojas laikomas atleistu iš darbo pagal šio įstatymo 28
+straipsnį. 
+ 
  
 LIETUVOS
 RESPUBLIKOS
@@ -1487,13 +1507,13 @@ A.V.
  
 Pastaba. Šioje tipinėje darbo sutarties formoje nustatomos bendrosios
 darbo sutarties sąlygos. Specifinės paskirties įmonių (atominės energetikos,
-jūrų, upių, oro, geležinkelio transporto ir kt.) darbo sutartyse gali būti
-šalių nustatytos kitokios teisės aktams neprieštaraujančios sąlygos.
+jūrų, upių, oro, geležinkelio transporto ir kt.) darbo sutartyse gali būti šalių
+nustatytos kitokios teisės aktams neprieštaraujančios sąlygos.
 Šios darbo sutarties būtinosios sąlygos -
 darbuotojo darbo vieta (įmonė, jos padalinys ir pan.), darbo funkcijos
-(profesija, kvalifikacija, specialybė, darbas, pareigos), darbo apmokėjimo
-sąlygos - gali būti keičiamos tiktai šalių susitarimu. Kitų šios sutarties
-sąlygų keitimas negali prieštarauti įstatymams, kitiems teisės aktams,
+(profesija, kvalifikacija, specialybė, darbas, pareigos), darbo apmokėjimo sąlygos
+- gali būti keičiamos tiktai šalių susitarimu. Kitų šios sutarties sąlygų
+keitimas negali prieštarauti įstatymams, kitiems teisės aktams,
 reglamentuojantiems darbo sutarties sudarymą, pakeitimą ir nutraukimą. Kai toje
 įmonėje, įstaigoje, organizacijoje darbuotojo sutikimu jam pavedamas kitas
 darbas, nesulygtas darbo sutartimi, sudaroma kita darbo sutartis laikantis šios
