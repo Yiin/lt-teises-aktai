@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8949DB1FAC6E"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 1995-01-20 iki 1996-09-12
+Suvestinė redakcija nuo 1996-09-13 iki 1997-12-23
  
 Įstatymas paskelbtas: Žin. 1989, Nr. 33-445, i. k. 0891010ISTA0XI-3335
  
@@ -28,10 +28,10 @@ I. BENDRIEJI NUOSTATAI
 
 1 straipsnis. Referendumo pagrindai
 
-Pagal Lietuvos Respublikos Konstituciją svarbiausi Valstybės bei Tautos gyvenimo klausimai sprendžiami, taip pat Lietuvos Respublikos įstatymų nuostatos gali būti priimamos referendumu. Įstatymų nuostatos ekonominiais klausimais gali būti priimamos referendumu tik atlikus ekonominę ekspertizę dėl būsimų pasekmių.
-TAR pastaba. 1 punkto norma, kad „įstatymų nuostatos ekonominiais klausimais gali būti priimamos referendumu tik atlikus ekonominę ekspertizę dėl būsimų pasekmių“, prieštarauja Lietuvos Respublikos Konstitucijos 3, 4, 9 ir 33 straipsniams.
+Pagal Lietuvos Respublikos Konstituciją svarbiausi valstybės bei Tautos gyvenimo klausimai sprendžiami, taip pat Lietuvos Respublikos įstatymų nuostatos gali būti priimamos referendumu.
 Straipsnio dalies pakeitimai:
 1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214            
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
 Tik referendumu gali būti keičiamos Lietuvos Respublikos Konstitucijos I skirsnio „Lietuvos valstybė“ bei XIV skirsnio „Konstitucijos keitimas“ nuostatos.
@@ -123,10 +123,11 @@ Nr. I-496, 1994-06-15, Žin. 1994, Nr. 47-870 (1994-06-22) ; Žin. 1994, Nr. 48-
 
 8 straipsnis. Referendumo paskelbimo iniciatyvos teisė
 
-Referendumo paskelbimo iniciatyvos teisė priklauso Lietuvos Respublikos Seimui ir piliečiams. Ši teisė įgyvendinama daugiau kaip pusės Lietuvos Respublikos Seimo narių siūlymu, o piliečių iniciatyva išreiškiama ne mažiau kaip trijų šimtų tūkstančių rinkimų teisę turinčių Lietuvos Respublikos piliečių reikalavimu. 
+Referendumo paskelbimo iniciatyvos teisė priklauso Lietuvos Respublikos Seimui ir piliečiams. Ši teisė įgyvendinama daugiau kaip 1/3 Lietuvos Respublikos Seimo narių siūlymu, o piliečių iniciatyva išreiškiama ne mažiau kaip trijų šimtų tūkstančių rinkimų teisę turinčių Lietuvos Respublikos piliečių reikalavimu.
 
 Straipsnio pakeitimai:
 Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
 9 straipsnis. Iniciatyvos teisės paskelbti referendumą įgyvendinimo tvarka
@@ -146,12 +147,6 @@ Aš, Lietuvos Respublikos pilietis (ė), patvirtinu, kad remiu reikalavimą pask
 
 Lapo pabaigoje nurodomas asmens, rinkusio parašus, vardas, pavardė, Lietuvos Respublikos piliečio paso numeris, nuolatinė gyvenamoji vieta, parašas.
 
-Visus duomenis parašų rinkimo lape pasirašantis pilietis užpildo pats.
-TAR pastaba. Referendumo įstatymo 9 straipsnio trečioji dalis pakeista nustatant, „kad visus duomenis parašų rinkimo lape pasirašantis pilietis užpildo pats“, prieštarauja Lietuvos Respublikos Konstitucijos 4, 9 ir 33 straipsniams.
-Straipsnio dalies pakeitimai:
-1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214            
- 
-
 Piliečių parašų rinkimo lapus išduoda Vyriausioji rinkimų komisija.
 
 Lietuvos Respublikos Seimo narių, teikiančių pasiūlymą dėl referendumo paskelbimo, parašų autentiškumą patvirtina Lietuvos Respublikos Seimo valdyba. Lietuvos Respublikos Seimo narių pasiūlymas įteikiamas Lietuvos Respublikos Seimui. 
@@ -162,19 +157,16 @@ Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48
 
 10 straipsnis. Piliečių iniciatyvos teisės paskelbti referendumą realizavimo terminai
 
-Piliečių iniciatyvos teisei paskelbti referendumą dėl konkretaus klausimo įgyvendinti nustatomas dviejų mėnesių terminas. Šis terminas skaičiuojamas nuo Lietuvos Respublikos piliečių iniciatyvinės grupės, sudarytos iš ne mažiau kaip dešimties rinkimų teisę turinčių asmenų, įregistravimo Vyriausiojoje rinkimų komisijoje. Kartu turi būti surašytas įregistravimo aktas. Vienas šio akto nuorašų ne vėliau kaip kitą dieną po įregistravimo pasiunčiamas Lietuvos Respublikos Seimo Pirmininkui.
-Straipsnio dalies pakeitimai:
-Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
- 
+Piliečių iniciatyvos teisei paskelbti referendumą dėl konkretaus klausimo įgyvendinti nustatomas trijų mėnesių terminas. Šis terminas skaičiuojamas nuo Lietuvos Respublikos piliečių iniciatyvinės grupės, sudarytos iš ne mažiau kaip dešimties rinkimų teisę turinčių asmenų, įregistravimo Vyriausiojoje rinkimų komisijoje. Kartu turi būti surašytas įregistravimo aktas. Vienas šio akto nuorašų ne vėliau kaip kitą dieną po įregistravimo pasiunčiamas Lietuvos Respublikos Seimo Pirmininkui.
 
 Iniciatyvinė grupė, remdamasi registracijos akto nuorašu, turi teisę daryti atitinkamus pranešimus spaudoje ir organizuoti piliečių parašų rinkimą.
 
 Piliečių reikalavimus – pareiškimus dėl referendumo paskelbimo kaupia iniciatyvinė grupė. Per nustatytą terminą surinkus tris šimtus tūkstančių Lietuvos Respublikos piliečių parašų dėl reikalavimo paskelbti referendumą, iniciatyvinė grupė surašo baigiamąjį aktą, kurį kartu su piliečių reikalavimais – pareiškimais perduoda Vyriausiajai rinkimų komisijai.
-Straipsnio dalies pakeitimai:
-Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
- 
 
-Per du mėnesius nesurinkus reikiamo Lietuvos TSR piliečių parašų skaičiaus, tolesnis parašų rinkimas nutraukiamas. Tuo pačiu klausimu vėl reikšti iniciatyvą dėl referendumo paskelbimo leidžiama ne anksčiau kaip po vienerių metų.
+Per tris mėnesius nesurinkus reikiamo Lietuvos Respublikos piliečių parašų skaičiaus, tolesnis parašų rinkimas nutraukiamas. Tuo pačiu klausimu vėl reikšti iniciatyvą dėl referendumo paskelbimo leidžiama ne anksčiau kaip po vienerių metų.
+
+Straipsnio pakeitimai:
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
 11 straipsnis. Piliečių reikalavimo paskelbti referendumą preliminarinis nagrinėjimas
@@ -196,16 +188,10 @@ Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48
 
 Lietuvos Respublikos Seimas, gavęs tinkamai įformintą piliečių iniciatyvinės grupės baigiamąjį aktą kartu su piliečių reikalavimais – pareiškimais ir Vyriausiosios rinkimų komisijos išvadą, kad šie dokumentai atitinka šį įstatymą, sesijos metu svarsto referendumo paskelbimo klausimą artimiausiame Seimo posėdyje, kuriame kviečiami dalyvauti referendumo iniciatorių atstovai. Seimo nutarimas dėl referendumo paskelbimo priimamas Seimo statute nustatyta tvarka.
 
-Jeigu Seimas konstatuoja, kad referendumui teikiamas įstatymo nuostatų projektas neatitinka Lietuvos Respublikos Konstitucijos, pirmiausia turi būti nagrinėjamas Konstitucijos keitimo klausimas.
-TAR pastaba. Referendumo įstatymo 12 straipsnis papildytas antrąja dalimi, nuostata „pirmiausia turi būti nagrinėjamas Konstitucijos keitimo klausimas“ prieštarauja Lietuvos Respublikos Konstitucijos 3, 4 ir 9 straipsniams.
+Seimas gali konstatuoti, kad referendumui teikiamas įstatymo nuostatų projektas neatitinka Lietuvos Respublikos Konstitucijos, tačiau tai nėra pagrindas neskelbti referendumo. 
 Straipsnio dalies pakeitimai:
 1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214            
- 
-
-Jeigu Seimas nutaria apsvarstyti ir priimti teikiamas įstatymo nuostatas, referendumo paskelbimas gali būti atidėtas, tačiau referendumas turi būti paskelbtas tame pačiame posėdyje, kuriame Seimas nepriima teikiamų įstatymo nuostatų.
-TAR pastaba. Referendumo įstatymo 12 straipsnio papildymas trečiąja dalimi, prieštarauja Lietuvos Respublikos Konstitucijos 4, 9 straipsniams ir 67 straipsnio 3 punktui.
-Straipsnio dalies pakeitimai:
-1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214            
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
 Šiame straipsnyje numatytų terminų eiga sustabdoma laikotarpiu tarp Lietuvos Respublikos Seimo sesijų. 
@@ -281,24 +267,11 @@ Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48
 
 17 straipsnis. Miestų, rajonų referendumo komisijų sudarymas
 
-Miestų, rajonų referendumo komisijas sudaro Vyriausioji rinkimų komisija likus iki referendumo ne mažiau kaip 40 dienų.
-
-Miestų, rajonų referendumo komisijos sudaromos iš:
-dviejų tame mieste, rajone gyvenančių ar dirbančių ir aukštąjį teisinį išsilavinimą turinčių asmenų, kuriuos pasiūlo teisingumo ministras;
-dviejų tame mieste, rajone gyvenančių ar dirbančių ir aukštąjį teisinį išsilavinimą turinčių asmenų, kuriuos pasiūlo Lietuvos teisininkų draugija.
-
-Teisingumo ministras ir Lietuvos teisininkų draugija gali siūlyti ir daugiau kandidatų.
-
-Politinės partijos ir politinės organizacijos, gavusios Seimo narių mandatų daugiamandatėje rinkimų apygardoje pagal iškeltų kandidatų sąrašą (jungtinį sąrašą), nuo vieno šio daugiamandatėje apygardoje iškeltų kandidatų sąrašo (jungtinio sąrašo) turi teisę pasiūlyti į miestų, rajonų referendumo komisijas po du savo atstovus. Vyriausioji rinkimų komisija šių kandidatų atmesti negali. Jei kandidatų nebuvo pasiūlyta, Vyriausioji rinkimų komisija vietoj jų gali papildomai skirti komisijos nariais kandidatus, pasiūlytus teisingumo ministro ir Lietuvos teisininkų draugijos.
-
-Visais atvejais asmenys, paskirti į miestų, rajonų referendumo komisijas iš teisingumo ministro ir Lietuvos teisininkų draugijos pasiūlytų kandidatų, turi sudaryti ne mažiau kaip 1/3 komisijos narių. Jeigu šių asmenų yra mažiau, komisija padidinama po lygiai iš teisingumo ministro ir Lietuvos teisininkų draugijos pasiūlytų kandidatų.
-
-Miestų, rajonų referendumo komisijos pirmininką skiria Vyriausioji rinkimų komisija.
-
-Miestų, rajonų referendumo komisija savo pirmajame posėdyje išsirenka komisijos pirmininko pavaduotoją ir sekretorių. 
+Miestų, rajonų referendumo komisijas sudaro Vyriausioji rinkimų komisija tokiais pačiais terminais ir tvarka kaip apygardų komisijas pagal Seimo rinkimų įstatymo 15 straipsnį.
 
 Straipsnio pakeitimai:
 Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
 18 straipsnis. Miestų, rajonų referendumo komisijų įgaliojimai
@@ -330,18 +303,11 @@ Nr. I-496, 1994-06-15, Žin. 1994, Nr. 47-870 (1994-06-22) ; Žin. 1994, Nr. 48-
 
 20 straipsnis. Apylinkių referendumo komisijų sudarymas
 
-Apylinkių referendumo komisijas sudaro miestų, rajonų referendumo komisijos iki referendumo likus ne mažiau kaip 35 dienoms.
-
-Apylinkių referendumo komisijos sudaromos iš kandidatų, kuriuos pasiūlo politinės partijos ir politinės organizacijos, gavusios Seimo narių mandatų daugiamandatėje rinkimų apygardoje pagal iškeltų kandidatų sąrašą (jungtinį sąrašą). Šios politinės partijos ir politinės organizacijos turi teisę pasiūlyti į apylinkių referendumo komisiją iki trijų savo atstovų. Jeigu kandidatų nebuvo pasiūlyta, miestų, rajonų referendumo komisijos gali proporcingai padidinti atstovavimo normą nurodytoms politinėms jėgoms.
-
-Miestų, rajonų referendumo komisijos negali atmesti šiame straipsnyje nurodytų kandidatų, kurie yra pasiūlyti į apylinkės referendumo komisiją.
-
-Apylinkių referendumo komisijų pirmininkus skiria miestų, rajonų referendumo komisijos.
-
-Apylinkės referendumo komisija savo pirmajame posėdyje išsirenka komisijos pirmininko pavaduotoją ir sekretorių. 
+Apylinkių referendumo komisijos sudaromos Seimo rinkimų įstatymo 17 straipsnyje nustatyta tvarka.
 
 Straipsnio pakeitimai:
 Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
 21 straipsnis. Apylinkės referendumo komisijos įgaliojimai
@@ -372,10 +338,11 @@ Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48
 
 22 straipsnis. Piliečių, turinčių teisę dalyvauti referendume, sąrašai
 
-Piliečių, turinčių teisę dalyvauti referendume, sąrašai sudaromi, skelbiami, tikslinami ir skundžiami tokia pat tvarka kaip rinkėjų sąrašai pagal Lietuvos Respublikos Prezidento rinkimų įstatymo 23–30 straipsnius. 
+Piliečių, turinčių teisę dalyvauti referendume, sąrašai sudaromi, tikslinami ir skundžiami tokia pačia tvarka kaip rinkėjų sąrašai pagal Lietuvos Respublikos Seimo rinkimų įstatymo 25–36 straipsnius.
 
 Straipsnio pakeitimai:
 Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
 23 straipsnis. Referendumo komisijų darbo organizavimas
@@ -505,16 +472,18 @@ Balsavimo pažymėjime nurodoma:
 5) apylinkės, į kurios sąrašus įtrauktas pilietis, adresas.
  
 
-265 straipsnis. Balsavimo pažymėjimo įteikimas piliečiams
+265 straipsnis. Balsavimo pažymėjimų įteikimas
 
-Balsavimo pažymėjimai įteikiami piliečiams likus ne mažiau kaip 10 dienų iki referendumo dienos. Jei dėl referendumo komisijos kaltės balsavimo pažymėjimas nebuvo įteiktas, jis turi būti išduodamas tuoj pat piliečiui pareikalavus.
+Balsavimo pažymėjimai įteikiami piliečiams tokia pačia tvarka kaip rinkėjų pažymėjimai pagal Seimo rinkimų įstatymo 31 straipsnį.
 
-Piliečiui, kuriam buvo išduotas balsavimo pažymėjimas su netikslumais arba dėl klaidos sąraše nebuvo visai išduotas, teisingas balsavimo pažymėjimas išduodamas tuoj pat po klaidos ištaisymo.
+Straipsnio pakeitimai:
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
-266 straipsnis. Balsavimo pažymėjimo dublikatas
-
-Piliečiui, pateikusiam raštišką prašymą, gali būti išduotas balsavimo pažymėjimo dublikatas. Balsavimo pažymėjimų dublikatai neišduodami referendumo dieną.
+266 straipsnis. Neteko galios nuo 1996-09-13
+Straipsnio naikinimas:
+Nr. I-1505, 1996-08-22, Žin. 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
+ 
 
 Papildyta skirsniu:
 Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
@@ -548,11 +517,10 @@ Referendumo dieną balsavimo patalpa atidaroma, kai yra susirinkę joje ne maži
 
 282 straipsnis. Piliečio asmenybės nustatymas
 
-Atvykęs į balsavimo patalpą, pilietis pateikia apylinkės referendumo komisijos nariui balsavimo pažymėjimą, pasą ar kitą dokumentą, patvirtinantį jo asmenybę bei pilietybę, ir pasirašo referendumo sąraše. Balsavimo pažymėjimas piliečiui negrąžinamas. Tik po to, kai pilietis pasirašė, jam išduodamas referendumo biuletenis.
+Piliečio asmenybė nustatoma Seimo rinkimų įstatymo 64 straipsnyje nustatyta tvarka.
 
-Balsuojant paštu, balsavimo pažymėjime pažymima apie biuletenio išdavimą ir balsavimo pažymėjimas grąžinamas piliečiui.
-
-Išduoti piliečiui kito asmens referendumo biuletenį draudžiama. Komisijos narys, pažeidęs šį reikalavimą, atsako pagal įstatymą.
+Straipsnio pakeitimai:
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
 29 straipsnis. Balsavimo tvarka
@@ -570,61 +538,32 @@ Jei pilietis prašo, sugadintas referendumo biuletenis apylinkės referendumo ko
 Pilietis, dėl fizinių trūkumų negalįs pats užpildyti referendumo biuletenio, įmesti jo į balsadėžę, gali nurodyti kitą asmenį, kuris vietoj jo užpildytų referendumo biuletenį balsavimo kabinoje ir įmestų jį į balsadėžę. Referendumo komisijos pirmininkui ar nariams bei referendumo stebėtojams atlikti šiuos veiksmus už pilietį draudžiama.
  
 
-291 straipsnis. Balsavimas paštu
+291 straipsnis. Balsavimo paštu, diplomatinėse atstovybėse, laivuose, gydymo, socialinės rūpybos ir globos įstaigose, kariniuose daliniuose ir bausmės atlikimo vietose tvarka
 
-Balsuoti paštu galima pašto skyriuose jų darbo valandomis, pradedant septintąja diena iki referendumo ir baigiant likus vienai dienai iki referendumo, jei į to miesto, rajono referendumo sąrašus pilietis yra įrašytas, o jei pilietis nėra įrašytas į to miesto, rajono referendumo sąrašus, – baigiant likus dviems dienoms iki referendumo. Balsavimo paštu išlaidas apmoka valstybė.
+Balsavimas paštu, diplomatinėse atstovybėse, laivuose, gydymo, socialinės rūpybos ir globos įstaigose, kariniuose daliniuose ir bausmės atlikimo vietose vykdomas Seimo rinkimų įstatymo 66–72 straipsniuose nustatyta tvarka.
 
-Už balsavimo organizavimą atsako pašto skyriaus viršininkas. Jis yra atsakingas už referendumo biuletenių ir balsavimo vokų išdavimą ir priėmimą balsavimo paštu metu.
-
-Referendumo biuleteniams ir vokams išduoti bei priimti balsavimo paštu metu skiriamas atsakingas pareigūnas.
-
-Pašto skyriuose turi būti patalpa (vieta), kur pilietis galėtų netrukdomas užpildyti referendumo biuletenį ir įdėti jį į balsavimo voką.
-
-Balsavimas paštu vyksta šio įstatymo 282 ir 29 straipsniuose nustatyta tvarka, išskyrus biuletenių įmetimą į balsadėžę. Kartu su referendumo biuleteniu piliečiui išduodami vokai balsavimui paštu.
-
-Pilietis užpildytą referendumo biuletenį įdeda į vidinį balsavimo voką, jį užklijuoja ir kartu su balsavimo pažymėjimu įdeda į išorinį voką, kurį taip pat užklijuoja. Išorinis vokas antspauduojamas ryšių skyriaus antspaudu.
-
-Vokai balsavimui paštu adresuojami tos apylinkės referendumo komisijai, į kurios apylinkės referendumo sąrašą pilietis yra įtrauktas.
-
-Išorinius vokus, balsavimo vokus ir referendumo biuletenius paštininkas atneša į namus negalintiems vaikščioti piliečiams likus iki referendumo dienos ne mažiau kaip dviems dienoms. Negalinčių vaikščioti piliečių sąrašą ne vėliau kaip prieš septynias dienas iki referendumo sudaro apylinkės referendumo komisijos pagal duomenis, kuriuos raštu pateikia miesto, rajono globos ir rūpybos įstaigos. Pašto darbuotojai, referendumo komisijų nariai ar kiti asmenys negali atnešti išorinių vokų, balsavimo vokų ir referendumo biuletenių į namus piliečiams, kurie nėra įrašyti į negalinčių vaikščioti piliečių sąrašą.
-
-Užklijuotą išorinį voką (su jame esančiu balsavimo pažymėjimu, balsavimo voku ir ten esančiu biuleteniu) pilietis gali:
-
-1) įteikti pašto skyriaus pareigūnui;
-
-2) įteikti paštininkui, atnešusiam jam referendumo dokumentus;
-
-3) įmesti į pašto dėžutę.
+Straipsnio pakeitimai:
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
-292 straipsnis. Balsavimo Lietuvos Respublikos diplomatinėse atstovybėse ir laivuose tvarka
-
-Balsavimo tvarką Lietuvos Respublikos diplomatinėse atstovybėse ir laivuose nustato Vyriausioji rinkimų komisija.
+292 straipsnis. Neteko galios nuo 1996-09-13
+Straipsnio naikinimas:
+Nr. I-1505, 1996-08-22, Žin. 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
-293 straipsnis. Balsavimas gydymo, socialinės rūpybos ir globos įstaigose
-
-Gydymo, socialinės rūpybos ir globos įstaigose įsteigiami specialūs balsavimui skirti pašto skyriai.
-
-Galintys judėti šių įstaigų pacientai balsuoja patys balsavimo patalpoje šio įstatymo 291 straipsnyje nustatyta tvarka.
-
-Negalinčius judėti gydymo bei globos įstaigų pacientus bei globotinius lanko specialaus pašto skyriaus pareigūnai, kuriuos tvirtina miestų, rajonų referendumo komisijos. Balsuojantis asmuo turi jam sudarytomis slaptumo sąlygomis pats užpildyti referendumo biuletenį ir įdėti jį į balsavimo voką. Esant reikalui, jis gali pasinaudoti asmens, kuriuo pasitiki, pagalba (išskyrus pašto, gydymo bei globos įstaigos darbuotojus, referendumo stebėtojus).
-
-Gydymo, socialinės rūpybos ar globos įstaigos vadovo nurodymu gali būti draudžiama dėl balsavimo trikdyti ligonius, kurių būklė yra sunki. Šis nurodymas referendumo komisijoms yra privalomas.
-
-Taip pat draudžiama dėl balsavimo trikdyti asmenį, jeigu Sveikatos apsaugos ministerijos nustatyta tvarka gydytojų komisija padarė išvada, kad jis balsavimo metu dėl chroniškos psichinės ligos, silpnaprotystės ar trumpalaikio psichikos sutrikimo negali suprasti savo veiksmų esmės ir jų valdyti.
+293 straipsnis. Neteko galios nuo 1996-09-13
+Straipsnio naikinimas:
+Nr. I-1505, 1996-08-22, Žin. 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
-294 straipsnis. Balsavimas kariniuose daliniuose
-
-Krašto apsaugos sistemos ir vidaus tarnybos daliniuose įsteigiami specialūs balsavimui skirti pašto skyriai.
-
-Pagal galimybę dalinių vadai sudaro sąlygas kariams balsuoti jų nuolatinės gyvenamosios vietos referendumo apylinkėse.
+294 straipsnis. Neteko galios nuo 1996-09-13
+Straipsnio naikinimas:
+Nr. I-1505, 1996-08-22, Žin. 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
-295 straipsnis. Balsavimas bausmės atlikimo vietose
-
-Bausmės atlikimo vietose įsteigiami specialūs balsavimui skirti pašto skyriai.
+295 straipsnis. Neteko galios nuo 1996-09-13
+Straipsnio naikinimas:
+Nr. I-1505, 1996-08-22, Žin. 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
  
 
 296 straipsnis. Balsavimo vokų ir biuletenių apskaita pašto skyriuose
@@ -640,9 +579,11 @@ Balsavimo vokų ir biuletenių apskaitą Respublikoje tvarko Vyriausioji rinkim�
 
 297 straipsnis. Referendumo biuletenių apskaita referendumo apylinkėse
 
-Uždarius balsavimo patalpą, apylinkės referendumo komisijos pirmininkas, dalyvaujant ne mažiau kaip 3/5 referendumo komisijos narių, užklijuoja ir antspauduoja balsadėžės plyšį, surenka atskirai iš kiekvieno apylinkės referendumo komisijos nario nepanaudotus referendumo biuletenius, užrašo jų skaičių balsų skaičiavimo protokole, viešai juos suskaičiuoja ir pagal parašus piliečių sąraše, balsavimo pažymėjimus patikrina, ar nėra neteisėtai išduotų biuletenių.
+Referendumo apylinkėse referendumo biuleteniai suskaičiuojami Seimo rinkimų įstatymo 75 straipsnyje nustatyta tvarka. 
 
-Nepanaudoti ir sugadinti referendumo biuleteniai referendumo komisijos viešai suskaičiuojami, anuliuojami nukerpant dešinįjį viršutinį kampą, sudedami į specialiai tam skirtus vokus ir užantspauduojami. Nepanaudotų ir sugadintų biuletenių skaičius įrašomas į balsų skaičiavimo protokolą.
+Straipsnio pakeitimai:
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
+ 
 
 Skyriaus pakeitimai:
 Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
@@ -886,4 +827,9 @@ Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-758, 1995-01-12, Žin., 1995, Nr. 7-144 (1995-01-20), i. k. 0951010ISTA000I-758
 Dėl Lietuvos Respublikos referendumo įstatymo 16 straipsnio pakeitimo
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
+Lietuvos Respublikos referendumo įstatymo pakeitimo įstatymas
 
