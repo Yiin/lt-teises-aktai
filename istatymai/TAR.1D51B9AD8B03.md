@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1D51B9AD8B03"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2002-01-01 iki 2003-11-04
+Suvestinė redakcija nuo 2003-11-05 iki 2005-07-20
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 109-3177, i. k. 0991010ISTAIII-1493
  
@@ -329,14 +329,15 @@ Nr. VIII-1529, 2000-01-12, Žin., 2000, Nr. 6-154 (2000-01-21), i. k. 1001010IST
 
 
 
-5 straipsnis . Pasiūlymai Vyriausybei
+5 straipsnis. Pasiūlymas Vyriausybei
 
 
-Vyriausybė iki 2003 m. sausio 1 d. parengia ir pateikia Seimui tvirtinti strateginį savivaldos plėtros planą, skirtą Lietuvos Respublikos teritorijos administracinių vienetų kompleksiniam pertvarkymui. Rengiant šį planą, vertinama gyventojų nuomonė ir siūlymai, ekonominės ir socialinės savivaldybių problemos, siekiama tobulinti viešąjį administravimą bei numatyti savivaldos reformos baigiamojo etapo galimybes.
+Kad būtų optimizuotas savivaldybių skaičius ir jų teritorijų ribos, Vyriausybė iki 2005 m. spalio 1 d. parengia ir pateikia Seimui Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo pakeitimo įstatymo projektą. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-358, 2001-06-05, Žin., 2001, Nr. 52-1817 (2001-06-20), i. k. 1011010ISTA00IX-358
+Nr. IX-1795, 2003-10-21, Žin., 2003, Nr. 104-4652 (2003-11-05), i. k. 1031010ISTA0IX-1795
  
 
 
@@ -410,3 +411,8 @@ Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-560, 2001-10-18, Žin., 2001, Nr. 93-3254 (2001-11-07), i. k. 1011010ISTA00IX-560
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1795, 2003-10-21, Žin., 2003, Nr. 104-4652 (2003-11-05), i. k. 1031010ISTA0IX-1795
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 5 straipsnio pakeitimo įstatymas
