@@ -44,8 +44,8 @@ solidarumo diena;
 kalbos ir knygos diena;
 7) gegužės 14-oji – Pilietinio
 pasipriešinimo diena;
-8) gegužės trečiasis sekmadienis – Partizanų
-pagerbimo, kariuomenės ir visuomenės vienybės diena;
+8) gegužės trečiasis sekmadienis –
+Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
 9) birželio 1-oji – Tarptautinė vaikų
 gynimo diena;
 10) birželio 3-ioji – Sąjūdžio diena;
@@ -57,35 +57,34 @@ diena;
 genocido diena;
 14) birželio 23-ioji – Birželio sukilimo
 diena;
-15) birželio 24-oji – Rasos (Joninių)
+15) liepos 15-oji – Žalgirio mūšio
 diena;
-16) liepos 15-oji – Žalgirio mūšio
-diena;
-17) liepos paskutinysis sekmadienis –
+16) liepos paskutinis sekmadienis –
 Jūros diena;
-18) rugpjūčio 23-ioji – Juodojo kaspino
+17) rugpjūčio 23-ioji – Juodojo kaspino
 diena;
-19) rugpjūčio 31-oji – Laisvės diena;
-20) rugsėjo 1-oji – Mokslo ir žinių
+18) rugpjūčio 31-oji – Laisvės diena;
+19) rugsėjo 1-oji – Mokslo ir žinių
 diena;
-21) rugsėjo 8-oji – Šilinė (Švč.
+20) rugsėjo 8-oji – Šilinė (Švč.
 Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už
 Lietuvos nepriklausomybės ir laisvės apgynimą diena;
-22) rugsėjo 22-oji – Baltų vienybės
+21) rugsėjo 22-oji – Baltų vienybės
 diena;
-23) rugsėjo 23-ioji – Lietuvos žydų
+22) rugsėjo 23-ioji – Lietuvos žydų
 genocido diena;
-24) spalio 5-oji – Tarptautinė mokytojų
+23) spalio 5-oji – Tarptautinė mokytojų
 diena;
-25) spalio antrasis šeštadienis –
+24) spalio antrasis šeštadienis –
 Derliaus diena;
-26) spalio 25-oji – Konstitucijos diena;
-27) lapkričio 2-oji – Mirusiųjų atminimo
+25) spalio 25-oji – Konstitucijos diena;
+26) lapkričio 2-oji – Mirusiųjų atminimo
 (Vėlinių) diena;
-28) lapkričio 23-ioji – Lietuvos karių diena;
-29) lapkričio 30-oji – Mažosios Lietuvos
+27) lapkričio 23-ioji – Lietuvos karių
+diena;
+28) lapkričio 30-oji – Mažosios Lietuvos
 prisijungimo prie Didžiosios Lietuvos akto diena;
-30) gruodžio 10-oji – Tarptautinė
+29) gruodžio 10-oji – Tarptautinė
 žmogaus teisių diena.
 Straipsnio
 pakeitimai:
@@ -109,6 +108,8 @@ Nr. IX-1050,
 Nr.
 IX-1633,
 2003-06-19, Žin., 2003, Nr. 69-3116 (2003-07-10)
+Nr. IX-1699,
+2003-07-04, Žin., 2003, Nr. 74-3420 (2003-07-25)
  
  
 Skelbiu šį Lietuvos Respublikos Seimo
@@ -192,11 +193,19 @@ Nr. IX-1633,
 ATMINTINŲ
 DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1699,
+2003-07-04, Žin., 2003, Nr. 74-3420 (2003-07-25)
+ATMINTINŲ
+DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-07-11)
-                 
-autrap@lrs.lt
+Angonita Rupšytė (2003-07-25)
+anrups@lrs.lt
