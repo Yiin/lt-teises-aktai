@@ -27,7 +27,7 @@ LIETUVOS RESPUBLIKOS
 M I Š K Ų
 ĮSTATYMAS
  
-1994 m. lapkričio 22 d. Nr.I-671
+1994 m. lapkričio 22 d. Nr. I-671
 Vilnius
  
 Nauja įstatymo redakcija nuo 2001
@@ -336,12 +336,13 @@ jeigu kitaip jo neįmanoma nuginkluoti;
 saugomų objektų užpuolimą, jeigu kyla pavojus asmens gyvybei.
 3. Draudžiama
 panaudoti fizinę prievartą bei specialiąsias priemones ar šaunamąjį ginklą
-prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu,
-kad jie invalidai, prieš nepilnamečius, jeigu jų amžius žinomas pareigūnui arba
-išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu žmogaus
-gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas
-kelia grėsmę gyvybei ar sveikatai. Draudžiama panaudoti šaunamąjį ginklą žmonių
-susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys.
+prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei
+akivaizdu, kad jie invalidai, prieš nepilnamečius, jeigu jų amžius žinomas
+pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi
+pavojingu žmogaus gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė
+ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai. Draudžiama panaudoti
+šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti
+pašaliniai asmenys.
 4.
 Valstybiniai miškų
 pareigūnai ir miškų urėdijos darbuotojai neturi teisės dirbti samdos
@@ -431,7 +432,8 @@ reglamentuoja Nenukirsto valstybinio miško skyrimo ir pardavimo taisyklės.
 5. Miško savininkai privalo laikytis šio
 įstatymo, Privačių miškų tvarkymo ir naudojimo nuostatų bei kitų teisės aktų,
 taip pat privalomų vykdyti miškotvarkos projekto dalių –
-pagrindinių kirtimų dešimtmečio normos, miško atkūrimo bei aplinkosaugos reikalavimų.
+pagrindinių kirtimų dešimtmečio normos, miško atkūrimo bei aplinkosaugos
+reikalavimų.
 6. Draudžiama
 atlikti kirtimus ir naudoti kitus miško išteklius negavus nustatyta tvarka
 išduoto leidimo, kai pagal galiojančius teisės aktus toks leidimas reikalingas.
@@ -616,20 +618,23 @@ ministerijos nustatyta tvarka valstybės, žemės bei miško valdytojų ir savin
 lėšomis. 
 4. Kai įstatymų nustatyta tvarka miškas įveisiamas ne
 miško žemėje, šiam plotui taikomas Miškų įstatymas. 
-5. Želdintinose kirtavietėse ir degavietėse
-dirbtiniu būdu miškas atkuriamas ne vėliau kaip per trejus metus po jų
-atsiradimo. Miškas dirbtiniu būdu įveisiamas ir atkuriamas ekologiniu pagrindu;
-iškirsti ąžuolynai, klevai, liepynai, uosynai ir pušynai, augę jiems tinkamose
-augavietėse, turi būti atkurti tomis pačiomis medžių rūšimis. Valstybiniai
-miškų pareigūnai gali uždrausti miško valdytojams, savininkams ir naudotojams
-tolesnius pagrindinius miško kirtimus, kol bus atkurtas iškirstasis miškas.
-Išimtys leidžiamos, kai dėl stichinių nelaimių žūva dideli miško plotai.
+5. Želdintinose kirtavietėse ir degavietėse dirbtiniu
+būdu miškas atkuriamas ne vėliau kaip per trejus metus po jų atsiradimo. Miškas
+dirbtiniu būdu įveisiamas ir atkuriamas ekologiniu pagrindu, laikantis Aplinkos
+ministerijos tvirtinamų Miško atkūrimo ir įveisimo nuostatų reikalavimų.
+Valstybiniai miškų pareigūnai gali uždrausti miško valdytojams, savininkams ir
+naudotojams tolesnius pagrindinius miško kirtimus, kol bus atkurtas iškirstasis
+miškas. Išimtys leidžiamos, kai dėl stichinių nelaimių žūva dideli miško
+plotai.
 6. Miško atkūrimas ir įveisimas taip pat apima medynų
 rekonstrukciją, želdinių ir žėlinių papildymą, priežiūrą ir apsaugą, kol
 susiformuoja jaunuolynas. Žuvę želdiniai ir žėliniai atkuriami ne vėliau kaip
 per dvejus metus.
-7.
-Miško atkūrimo ir įveisimo nuostatus tvirtina Aplinkos ministerija.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1152, 2002-10-22,
+Žin., 2002, Nr. 105-4691 (2002-11-06)
  
 16 straipsnis.
 Medynų auginimas ir kirtimas
@@ -676,13 +681,13 @@ patvirtintų miškų priešgaisrinės apsaugos reikalavimų.
 Miškų urėdijos bei
 valstybiniai parkai ir savivaldybės skiria lėšų bendrai valstybinei
 priešgaisrinio stebėjimo ir gaisrų gesinimo sistemai visose miško valdose.
-Miško valdytojai ir savininkai savo lėšomis įgyvendina profilaktines
-priešgaisrines priemones (įrengia priešgaisrines juostas ir laužavietes, valo
-užšlemštą mišką ir kita).
+Miško valdytojai ir savininkai savo lėšomis įgyvendina profilaktines priešgaisrines
+priemones (įrengia priešgaisrines juostas ir laužavietes, valo užšlemštą mišką
+ir kita).
 3.
 Stichinių nelaimių miškuose atvejais Aplinkos ministerija turi teisę nustatyti
-specialias apsaugos ir nelaimių padarinių šalinimo priemones, kurios yra
-privalomos visiems miško valdytojams, savininkams ir naudotojams.
+specialias apsaugos ir nelaimių padarinių šalinimo priemones, kurios yra privalomos
+visiems miško valdytojams, savininkams ir naudotojams.
  
 19 straipsnis.
 Miško apsauga nuo ligų ir kenkėjų
@@ -704,8 +709,8 @@ ministerijos numatytus atvejus. Privačiuose miškuose gyvulių ganiava draudži
 kirtavietėse ir 20 metų neturinčiuose jaunuolynuose.
 2.
 Medžiojamų žvėrių skaičius miško žemėje turi būti palaikomas toks, kad būtų
-garantuotas ekosistemos stabilumas. Reguliuojant žvėrių skaičių miške, laikomasi
-Aplinkos apsaugos įstatymo ir kitų teisės aktų reikalavimų.
+garantuotas ekosistemos stabilumas. Reguliuojant žvėrių skaičių miške,
+laikomasi Aplinkos apsaugos įstatymo ir kitų teisės aktų reikalavimų.
  
 21 straipsnis.
 Miško apsauga nuo taršos
@@ -747,8 +752,8 @@ RESPUBLIKOS TARPTAUTINIS BENDRADARBIAVIMAS
 MIŠKŲ
 ŪKIO SRITYJE
  
-24 straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas
-miškų ūkio 
+24 straipsnis. Lietuvos Respublikos tarptautinis
+bendradarbiavimas miškų ūkio 
 klausimais
 Lietuvos
 Respublika, vadovaudamasi tvaraus ir subalansuoto miškų ūkio principais, sudaro
@@ -765,10 +770,10 @@ nustato kitokius miško naudojimo, atkūrimo ir apsaugos reikalavimus nei šis
             Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                 ALGIRDAS
 BRAZAUSKAS 
  
-__________
+______________
  
 Pakeitimai:
  
@@ -835,11 +840,20 @@ IX-771,
 MIŠKŲ
 ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1152,
+2002-10-22, Žin., 2002, Nr. 105-4691 (2002-11-06)
+MIŠKŲ
+ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-03-27)
+Aušrinė Trapinskienė (2002-11-06)
                  
 autrap@lrs.lt
