@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS SEIMAS
 
 
 
-Suvestinė redakcija nuo 1993-10-13 iki 1993-12-17
+Suvestinė redakcija nuo 1993-12-18
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 40-0; Žin. 1993, Nr.8-169, i. k. 0931010ISTA0000I-82
  
@@ -513,9 +513,9 @@ IŠLAIDOS
 
  Saugumo tarnyba 
  908960 
- 108920 
+ 258920 
  77866 
- 800040 
+ 650040 
 
 
  Standartizacijos tarnyba prie Ekonomikos ministerijos 
@@ -1650,6 +1650,7 @@ ______________
 
 Priedo pakeitimai:
 Nr. I-264, 1993-10-05, Žin., 1993, Nr. 52-1002 (1993-10-13), i. k. 0931010ISTA000I-264
+Nr. I-327, 1993-12-09, Žin., 1993, Nr. 70-1307 (1993-12-18), i. k. 0931010ISTA000I-327
  
 
 
@@ -2043,4 +2044,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-264, 1993-10-05, Žin., 1993, Nr. 52-1002 (1993-10-13), i. k. 0931010ISTA000I-264
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1993 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų" 1 priedėlio "Lietuvos Respublikos 1993 metų valstybės biudžetas" pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-327, 1993-12-09, Žin., 1993, Nr. 70-1307 (1993-12-18), i. k. 0931010ISTA000I-327
 Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos 1993 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų" 1 priedėlio "Lietuvos Respublikos 1993 metų valstybės biudžetas" pakeitimo
