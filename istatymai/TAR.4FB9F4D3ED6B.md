@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B"
 Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
-Ramunė Lūžaitė (1998.12.14)
+Ramunė Lūžaitė (1999.07.07)
  
 Įstatymas
 paskelbtas: Žin., 1990, Nr. 14-395
@@ -328,6 +328,14 @@ LIETUVOS RESPUBLIKOS
 Įstatymas
 įsigalioja nuo 1999 m. sausio 1 d.
  
+37.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1228,
+99.06.15, Žin., 1999, Nr.59-1917 (99.07.07)
+LIETUVOS RESPUBLIKOS
+ĮMONIŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
              
@@ -348,9 +356,9 @@ straipsnis.Įmonių įstatymo tikslai
 nuolatine komercine-ūkine veikla Lietuvos Respublikoje, jų steigimo ir veiklos
 teisinius pagrindus.
      Atskirų,
-nurodytų šio įstatymo 6 straipsnyje, rūšių įmonių steigimas, jų teisinis  statusas,
-veikla, likvidavimas  ir reorganizavimas reglamentuojamas atitinkamais
-įstatymais.
+nurodytų šio įstatymo 6 straipsnyje, rūšių įmonių steigimas, jų teisinis 
+statusas, veikla, likvidavimas  ir reorganizavimas reglamentuojamas
+atitinkamais įstatymais.
      Šis 
 įstatymas  netaikomas  fiziniams  ir  juridiniams asmenims, užsiimantiems
 nekomercine  veikla (veikla,  kuria nesiekiama pelno), taip pat fiziniams
@@ -386,8 +394,8 @@ yra fizinis arba juridinis asmuo, taip pat į bendrovę (bendriją) susijungę k
 fiziniai ar  juridiniai asmenys, kurie nuosavybės teise valdo, naudoja ir
 disponuoja įmonės turtu, organizuoja įmonės ūkinę ir finansinę veiklą.
      Nuosavybės
-teisę  į įmonę  įmonininkas įgyja  įmonės steigimo, pirkimo-pardavimo arba kitokių
-civilinių sandorių pagrindu.
+teisę  į įmonę  įmonininkas įgyja  įmonės steigimo, pirkimo-pardavimo arba
+kitokių civilinių sandorių pagrindu.
      Jeigu 
 įmonė  nuosavybės  teise  priklauso  Lietuvos Respublikai, įmonininko 
 funkcijas atlieka  įmonės  valdymo organai.
@@ -434,8 +442,8 @@ pagrįstus  naryste  ūkinėje  bendrijoje, reguliuoja įmonės steigimo doku
  
                
                 II skirsnis
-                               
-ĮMONIŲ RŪŠYS
+        
+                       ĮMONIŲ RŪŠYS
  
      6
 straipsnis.Įmonių rūšys ir įmonių junginiai
@@ -445,14 +453,13 @@ Lietuvos Respublikoje gali veikti šios
 įmonės:
 1) individualios (personalinės) įmonės;
 2) tikrosios ūkinės bendrijos;
-3) komanditinės (pasitikėjimo) ūkinės
-bendrijos;
+3) komanditinės (pasitikėjimo) ūkinės bendrijos;
 4) akcinės bendrovės, uždarosios akcinės
 bendrovės ir investicinės bendrovės;
 5) valstybės įmonės;
 6) savivaldybės įmonės;
-7) žemės ūkio bendrovės (veikla reglamentuojama
-atskirame įstatyme);
+7) žemės ūkio bendrovės (veikla
+reglamentuojama atskirame įstatyme);
 8) kooperatinės bendrovės (kooperatyvai). Jų
 veikla reglamentuojama atskirame įstatyme.
      Įmonės,
@@ -501,10 +508,10 @@ straipsnis.Tikroji ūkinė bendrija
 ūkinė bendrija yra visiškos turtinės atsakomybės įmonė, įsteigta bendrosios
 jungtinės veiklos sutartimi apjungus kelių fizinių ar juridinių asmenų turtą į
 bendrąją dalinę nuosavybę komercinei-ūkinei veiklai su bendru firmos vardu.
-Tikroji ūkinė bendrija neturi juridinio asmens teisių, jos turtas neatskirtas nuo
-bendrijos narių turto. Pagal tikrosios ūkinės bendrijos prievoles jos nariai
-atsako solidariai visu savo turtu.  Tikroji ūkinė bendrija neatsako pagal savo
-narių prievoles, nesusijusias su bendrijos veikla.
+Tikroji ūkinė bendrija neturi juridinio asmens teisių, jos turtas neatskirtas
+nuo bendrijos narių turto. Pagal tikrosios ūkinės bendrijos prievoles jos
+nariai atsako solidariai visu savo turtu.  Tikroji ūkinė bendrija neatsako
+pagal savo narių prievoles, nesusijusias su bendrijos veikla.
      Tikrosios
 ūkinės bendrijos turi firmos vardą, kuriame turi būti įvardytas bent vienas jos
 savininkų.
@@ -580,13 +587,13 @@ savivaldybei.
 Valstybės ir savivaldybės įmonės turtą valdo,
 naudoja ir juo disponuoja turto patikėjimo teisėmis.
 Valstybės ir savivaldybės įmonės pagal savo
-prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas išieškojimas.
-Įmonės neatsako už valstybės ar savivaldybės prievoles. 
+prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas
+išieškojimas. Įmonės neatsako už valstybės ar savivaldybės prievoles. 
 Valstybės ir savivaldybės įmonių steigimą,
 veiklą, reorganizavimą ir likvidavimą taip pat reglamentuoja Lietuvos
-Respublikos civilinis kodeksas, Lietuvos Respublikos valstybės ir savivaldybės įmonių
-įstatymas, kiti norminiai aktai bei įstatymų nustatyta tvarka patvirtinti ir
-įregistruoti įmonės įstatai.
+Respublikos civilinis kodeksas, Lietuvos Respublikos valstybės ir savivaldybės
+įmonių įstatymas, kiti norminiai aktai bei įstatymų nustatyta tvarka
+patvirtinti ir įregistruoti įmonės įstatai.
  
 Straipsnio
 pakeitimai:
@@ -619,9 +626,9 @@ III skirsnis
 Įmonė turi teisę užsiimti bet kokia
 komercine-ūkine ar kitokia veikla, nesuvaržyta šio ar kitų įstatymų, įmonės
 steigimo dokumentų arba kitaip neuždrausta įstatymų nustatyta tvarka.
-Komercinės-ūkinės veiklos, kuria verstis reikalinga licencija, sritis, licencijas
-išduodančias institucijas bei licencijų išdavimo tvarką nustato šis ir kiti
-įstatymai.
+Komercinės-ūkinės veiklos, kuria verstis reikalinga licencija, sritis,
+licencijas išduodančias institucijas bei licencijų išdavimo tvarką nustato šis
+ir kiti įstatymai.
 Lietuvos Respublikoje draudžiama steigti ir
 laikyti lošimo namus, organizuoti azartinius lošimus.
 Įmonių įstatymo 6 straipsnyje nurodytoms
@@ -634,8 +641,6 @@ investicijų Lietuvos Respublikoje įstatymas.
 Laisvųjų ekonominių zonų įmonių veiklos
 sritis, kuriose draudžiamos kapitalo investicijos, nustato Lietuvos Respublikos
 laisvųjų ekonominių zonų pagrindų įstatymas.
-      [12
-straipsnio 6 dalies redakcija nuo 1999 m. sausio 1 d.]
 Individualių (personalinių) įmonių savininkai
 gali panaudoti savo ir savo šeimos narių (sutuoktinių, tėvų, įtėvių, vaikų,
 įvaikių), jiems sutikus, pinigines lėšas ir turtą įmonės veiklai.
@@ -675,8 +680,7 @@ jeigu kiti įstatymai nenustato ko kita;
 3) auginti ir realizuoti kultūras, kuriose
 yra narkotinių, psichotropinių, stipriai veikiančių ir nuodingųjų medžiagų,
 taip pat gaminti, importuoti, eksportuoti narkotines, psichotropines medžiagas,
-prekursorius ir užsiimti jų didmenine bei mažmenine prekyba Lietuvos
-Respublikoje;
+prekursorius ir užsiimti jų didmenine bei mažmenine prekyba Lietuvos Respublikoje;
 4) gaminti alkoholio produktus, kuriuose
 tūrinė etilo alkoholio koncentracija yra ne daugiau kaip 22 procentai;
 5) teikti sveikatos priežiūros paslaugas,
@@ -718,10 +722,9 @@ priemones (pagal Vidaus reikalų ministerijos nustatytą sąrašą), civilinius
 ginklus ir jų šaudmenis (išskyrus pistoletus ir revolverius savigynai bei jų
 šaudmenis);
 21) teikti laivų agentavimo paslaugas;
-22) atlikti auditą;
-23) užsiimti draudimo veikla;
-24) teikti turizmo paslaugas;
-25) spausdinti vertybinius popierius ir
+22) užsiimti draudimo veikla;
+23) teikti turizmo paslaugas;
+24) spausdinti vertybinius popierius ir
 dokumentų blankus.
 Tik valstybės įmonės, savivaldybės įmonės ir
 specialios paskirties bendrovės (akcinės bei uždarosios akcinės) ir tik
@@ -822,6 +825,8 @@ Nr.
 I-1462, 96.07.10, Žin., 1996, Nr. 68-1641 (96.07.19)
 Nr. VIII-422,
 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-1228,
+99.06.15, Žin., 1999, Nr.59-1917 (99.07.07)
  
      14
 straipsnis.Įmonių santykiai su valstybės organais
@@ -848,8 +853,8 @@ Respublikos Vyriausybės arba vietos savivaldybės organo nurodymus.
      Įmonė
 gali gauti valstybės centralizuota tvarka skiriamų (parduodamų) finansinių,
 medžiaginių ir kitokių vertybių už valstybės  patvirtintą  arba  sutartinę
-kainą ir už įmonės prisiimamus atitinkamus sutartinius įsipareigojimus
-valstybės (vietos savivaldybės) organui.
+kainą ir už įmonės prisiimamus atitinkamus sutartinius įsipareigojimus valstybės
+(vietos savivaldybės) organui.
 Įmonė privalo turėti valstybės institucijų
 išduotus leidimus, licencijas ir kitus dokumentus, jeigu pagal šį ir kitus
 įstatymus tokie leidimai, licencijos ir dokumentai yra reikalingi (licencija
@@ -1013,10 +1018,10 @@ neteisėtai naudojantis įmonės vardu, valstybinės mokesčių inspekcijos iši
 biudžetą per teismą.
 Įmonių registravimą reglamentuoja Lietuvos
 Respublikos įmonių rejestro įstatymas.
-Įmonei įregistruoti įmonių rejestro tvarkytojui
-pateikiamas steigėjo ar steigėjų prašymas įregistruoti įmonę, nurodant jame
-duomenis, reikalingus įtraukti į rejestrą, ir įstatymo nustatyti kiti įmonės
-registravimo dokumentai. 
+Įmonei įregistruoti įmonių rejestro
+tvarkytojui pateikiamas steigėjo ar steigėjų prašymas įregistruoti įmonę,
+nurodant jame duomenis, reikalingus įtraukti į rejestrą, ir įstatymo nustatyti
+kiti įmonės registravimo dokumentai. 
 Sprendimas įregistruoti arba atsisakyti
 įregistruoti įmonę turi būti priimtas ne vėliau kaip per 15 dienų nuo visų
 dokumentų, nurodytų šio straipsnio trečiojoje dalyje, įteikimo. Apie įmonės
@@ -1041,8 +1046,8 @@ straipsnis.Atsisakymas įregistruoti ar  perregistruoti įmonę
 įregistruoti įmonę galima, jeigu nepateikti šio įstatymo  21  straipsnyje 
 nustatyti  dokumentai  arba šie dokumentai  neatitinka  įstatymo  nustatytų 
 reikalavimų. Atsisakymas  įregistruoti  įmonę  kitokiais  motyvais  yra
-neteisėtas. Apie sprendimą įmonės neįregistruoti atitinkamas organas per 3
-dienas privalo raštu pranešti įmonės steigėjui.
+neteisėtas. Apie sprendimą įmonės neįregistruoti atitinkamas organas per 3 dienas
+privalo raštu pranešti įmonės steigėjui.
      Atsisakymas
 įregistruoti įmonę gali būti užginčytas teismine tvarka. Įmonės steigėjas per
 teismą gali išieškoti nuostolius, atsiradusius dėl neteisėto atsisakymo
