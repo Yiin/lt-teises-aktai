@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 
 # Lietuvos Respublikos koncesijų įstatymas
 
+Suvestinė redakcija nuo 1998-07-01 iki 1999-07-29
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
+ 
 LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMAS
  
 1996 m. rugsėjo 10 d. Nr. I-1510
@@ -616,23 +620,10 @@ KONCESININKŲ APMOKESTINIMAS, TEISINĖ APSAUGA IR GARANTIJOS
 
 
 
-16 straipsnis. Muitų lengvatos
-
-
-1. Užsienio investuotojo įnašai į formuojamą arba didinamą užsienio koncesininko įstatinį (nuosavą) kapitalą, naudojami kaip ilgalaikis turtas, įvežami be muito mokesčių.
-
-
-
-
-2. Užsienio fiziniam ar juridiniam asmeniui priklausantis ilgalaikis turtas, naudojamas koncesijos sutartyje nustatytai veiklai, įvežamas ir išvežamas be muito mokesčio.
-
-
-
-
-3. Pasibaigus koncesijos sutarties galiojimo laikui ar nutraukus šią sutartį ir steigėjo, akcininkų arba pajininkų sprendimu likviduojant užsienio koncesininką, užsienio investuotojui priklausantis turtas išvežamas be muito mokesčių.
+16 straipsnis. Neteko galios nuo 1998-07-01
+Straipsnio naikinimas:
+Nr. VIII-629, 1998-02-17, Žin. 1998, Nr. 25-632 (1998-03-13), i. k. 0981010ISTAVIII-629
  
-
-
 
 
 
@@ -725,3 +716,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-629, 1998-02-17, Žin., 1998, Nr. 25-632 (1998-03-13), i. k. 0981010ISTAVIII-629
+Lietuvos Respublikos koncesijų įstatymo 16 straipsnio pripažinimo netekusiu galios įstatymas
