@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-Suvestinė redakcija nuo 2003-01-01 iki 2004-08-02
+Suvestinė redakcija nuo 2004-08-03 iki 2007-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
  
@@ -219,7 +219,10 @@ Smulkaus ir vidutinio verslo subjektams gali būti taikomos šios valstybės pag
 
 
 
-2. Valstybės pagalba smulkaus ir vidutinio verslo subjektams teikiama nepažeidžiant Valstybės pagalbos ūkio subjektams kontrolės įstatymo nustatytų apribojimų.
+2. Valstybės pagalba smulkaus ir vidutinio verslo subjektams teikiama nepažeidžiant valstybės pagalbą reglamentuojančių Europos Sąjungos teisės aktų.
+Straipsnio dalies pakeitimai:
+Nr. IX-2365, 2004-07-15, Žin., 2004, Nr. 120-4428 (2004-08-03), i. k. 1041010ISTA0IX-2365
+ 
 
 
 
@@ -245,3 +248,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1142, 2002-10-22, Žin., 2002, Nr. 105-4689 (2002-11-06), i. k. 1021010ISTA0IX-1142
 Lietuvos Respublikos smulkaus ir vidutinio verslo plėtros įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2365, 2004-07-15, Žin., 2004, Nr. 120-4428 (2004-08-03), i. k. 1041010ISTA0IX-2365
+Lietuvos Respublikos smulkaus ir vidutinio verslo įstatymo 5 straipsnio pakeitimo įstatymas
