@@ -62,7 +62,7 @@ savivaldybių įmonių įstatymo nuostatos, jei šis įstatymas nenustato kitaip
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-99.07.07, Žin., 1999, Nr.66-2116 (99.07.30)
+1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
  
 4 straipsnis. Turto fondo steigimas
 1. Turto fondą steigia, jo įstatus
@@ -115,7 +115,19 @@ priskirtų privatizuojamiems objektams, pardavimą;
 7) sudaryti sutartis su kitais
 akcininkais dėl valstybei nuosavybės teise priklausančių akcijų pardavimo kartu
 su šių akcininkų akcijomis;
-8) vykdyti kitas įstatymų nustatytas
+8) Vyriausybės nustatyta tvarka
+atlyginti pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
+atkūrimo įstatymą už valstybės išperkamą iš piliečių nekilnojamąjį turtą
+valstybei nuosavybės teise priklausančiomis akcinių bendrovių ir uždarųjų
+akcinių bendrovių akcijomis bei pastatais, statiniais, jų dalimis
+perduodant juos nuosavybėn ir suteikiant nuomos ar nuosavybės teisę į žemės
+sklypo dalį, kurią tie pastatai, statiniai užima ir kuri būtina jiems naudoti
+pagal paskirtį;
+9) sudaryti sutartis su savivaldybėmis,
+Lietuvos Respublikos valstybės įstaigomis, įmonėmis, organizacijomis ir kitais
+juridiniais asmenimis dėl jiems patikėjimo ar nuosavybės teise priklausančių
+akcijų ir kito turto pardavimo aukcione Vyriausybės nustatyta tvarka;
+10) vykdyti kitas įstatymų nustatytas
 funkcijas ir teikti Turto fondo įstatuose numatytas paslaugas.
 2. Akcijas ar kitą valdomą, naudojamą ir
 disponuojamą turtą Turto fondas gali perduoti nuosavybėn kitiems fiziniams ar
@@ -126,15 +138,18 @@ juridiniams asmenims pagal Valstybės ir savivaldybių turto privatizavimo
 redakcija nuo 2002 m. balandžio 1 d.:
 2. Akcijas ar kitą valdomą, naudojamą ir
 disponuojamą turtą Turto fondas gali perduoti nuosavybėn kitiems fiziniams ar
-juridiniams asmenims pagal Valstybės ir savivaldybių turto privatizavimo
-įstatymą ar Vertybinių popierių rinkos įstatymą.]
+juridiniams asmenims pagal Valstybės ir savivaldybių turto privatizavimo įstatymą
+ar Vertybinių popierių rinkos įstatymą.]
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-99.07.07, Žin., 1999, Nr.66-2116 (99.07.30)
+1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
 Nr.
 IX-659,
 2001-12-17, Žin., 2001, Nr. 112-4078 (2001-12-30)
+Nr.
+IX-755,
+2002-03-05, Žin., 2002, Nr. 31-1109 (2002-03-27)
  
 6 straipsnis. Turto fondo valdyba ir
 administracija
@@ -164,11 +179,11 @@ atstovauti Turto fondo interesams, įskaitant teisę pasirašyti sutartis Turto
 fondo vardu ir atstovauti šiam fondui santykiuose su trečiosiomis šalimis,
 nustato Turto fondo įstatai.
 4. Turto fondo valdybos
-narys, administracijos vadovas ir vyriausiasis finansininkas (buhalteris)
-negali būti akcinės bendrovės ar uždarosios akcinės bendrovės, kuriose Turto
-fondas valdo daugiau 1/5 akcijų, valdybos nariais, taip pat negali turėti su
-tokiomis bendrovėmis jokių sutartimis įteisintų susitarimų, išskyrus atvejus,
-kai šie asmenys atstovauja Turto fondui.
+narys, administracijos vadovas ir vyriausiasis finansininkas (buhalteris) negali
+būti akcinės bendrovės ar uždarosios akcinės bendrovės, kuriose Turto fondas
+valdo daugiau 1/5 akcijų, valdybos nariais, taip pat negali turėti su tokiomis
+bendrovėmis jokių sutartimis įteisintų susitarimų, išskyrus atvejus, kai šie
+asmenys atstovauja Turto fondui.
 5. Turto fondo valdybos narys,
 administracijos vadovas neturi teisės balsuoti priimant sprendimus ar pats
 priimti sprendimus, jei dėl to kyla viešųjų ir privačių interesų konfliktas.
@@ -180,7 +195,7 @@ atlyginti nuostolius.
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-99.07.07, Žin., 1999, Nr.66-2116 (99.07.30)
+1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
  
 7 straipsnis. Turto fondo įstatai
 Turto fondo įstatuose (be Valstybės ir savivaldybės
@@ -213,17 +228,17 @@ bei fondų parama;
 bazės naudojimąsi).
 2. Šio straipsnio 1 dalies 1 punkte
 nurodytos pajamos kaupiamos ir apskaitomos Finansų ministerijai atidarytoje
-privatizavimo fondo sąskaitoje. Valstybės turto valdymo ir naudojimo bei disponavimo
-juo veiklai finansuoti Turto fondui iš visų gautų pajamų skiriama lėšų dalis,
-kurios dydį, skaičiuojant procentais nuo šio straipsnio 1 dalies 1 punkte
-išvardytų pajamų, gautų pinigais į Privatizavimo fondo sąskaitą, kas pusę metų
-nustato Vyriausybė. Vyriausybė privalo nustatyti procentais lėšas, kurias,
-atsižvelgiant į Turto fondo patikėjimo teise ūkiniais metais valdomų akcijų
+privatizavimo fondo sąskaitoje. Valstybės turto valdymo ir naudojimo bei
+disponavimo juo veiklai finansuoti Turto fondui iš visų gautų pajamų skiriama
+lėšų dalis, kurios dydį, skaičiuojant procentais nuo šio straipsnio 1 dalies 1
+punkte išvardytų pajamų, gautų pinigais į Privatizavimo fondo sąskaitą, kas
+pusę metų nustato Vyriausybė. Vyriausybė privalo nustatyti procentais lėšas,
+kurias, atsižvelgiant į Turto fondo patikėjimo teise ūkiniais metais valdomų akcijų
 dividendus, gautus į valstybės biudžetą, skirs Turto fondui.
 3. Turto fondas tiesiogiai gauna ir
 apskaito šio straipsnio 1 dalies 2, 3, 4, 5, 6 punktuose išvardytas įplaukas,
-taip pat kitas tiesiogiai Turto fondui teikiamas tikslines subsidijas ar
-neatlygintiną paramą.
+taip pat kitas tiesiogiai Turto fondui teikiamas tikslines subsidijas ar neatlygintiną
+paramą.
 4. Turto fondo lėšos naudojamos:
 1) atstovavimo valstybės interesams
 akcinėse ir uždarosiose akcinėse bendrovėse išlaidoms apmokėti;
@@ -244,7 +259,7 @@ ataskaita teikiama Vyriausybei.
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-99.07.07, Žin., 1999, Nr.66-2116 (99.07.30)
+1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
  
 9 straipsnis. Turto fondo atsakomybė
 1. Vienerius metus po privatizavimo
@@ -266,13 +281,12 @@ Vyriausybė.
 3. Turto fondas neatsako už privatizuotų
 valstybės kontroliuojamų įmonių prievoles, kurios atsirado po šių įmonių akcijų
 pirkimo-pardavimo sutarčių pasirašymo dienos.
-4. Turto fondas pagal savo prievoles
-atsako tik tuo Turto fondo turtu, kurį įstatymų nustatyta tvarka galima
-išieškoti.
+4. Turto fondas pagal savo prievoles atsako
+tik tuo Turto fondo turtu, kurį įstatymų nustatyta tvarka galima išieškoti.
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-99.07.07, Žin., 1999, Nr.66-2116 (99.07.30)
+1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
  
 10 straipsnis. Asmenys, atstovaujantys
 Turto fondui
@@ -283,7 +297,7 @@ sudaryti pavedimo ar atstovavimo sutartis.
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-99.07.07, Žin., 1999, Nr.66-2116 (99.07.30)
+1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
  
 11 straipsnis. Turto fondo valdybos ir šio fondo
 administracijos darbuotojų darbo 
@@ -326,6 +340,7 @@ neperduodamos.
 Pasiūlyti Vyriausybei iki 1998 m. sausio
 1 d. parengti ir priimti teisės aktus, kurių reikia šiam įstatymui įgyvendinti.
  
+ 
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
@@ -341,10 +356,10 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. VIII-1293,
-99.07.07, Žin., 1999, Nr.66-2116 (99.07.30)
+1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
 LIETUVOS
-RESPUBLIKOS VALSTYBĖS TURTO FONDO ĮSTATYMO 3, 5, 6, 8, 9, 10 STRAIPSNIŲ PAKEITIMO
-IR PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS VALSTYBĖS TURTO FONDO ĮSTATYMO 3, 5, 6, 8, 9, 10 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 2.
 Lietuvos
@@ -356,12 +371,20 @@ TURTO FONDO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Įstatymas
 įsigalioja nuo 2002 m. balandžio 1 d.
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-755,
+2002-03-05, Žin., 2002, Nr. 31-1109 (2002-03-27)
+VALSTYBĖS
+TURTO FONDO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-01-21)
-                 
-autrap@lrs.lt
+Aušrinė Trapinskienė (2002-03-27)
+      
+           autrap@lrs.lt
 
