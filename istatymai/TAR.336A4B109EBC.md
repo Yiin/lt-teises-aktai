@@ -1113,8 +1113,8 @@ rinkimų agitacijai.
 5. Negrąžintini
 užstatai pervedami į valstybės biudžetą.
 Straipsnio pakeitimai:
-Nr. IX-184,
-2001 02 20, Žin., 2001, Nr. 21-692 (2001 03 09)
+Nr. IX-184, 2001
+02 20, Žin., 2001, Nr. 21-692 (2001 03 09)
  
 39
 straipsnis. Draudimai vienam asmeniui būti kandidatu keliose rinkimų apygardose
@@ -2492,13 +2492,23 @@ teismo sprendimą arba nuosprendį;
 nariui mirus – pagal notarine tvarka patvirtintą mirties liudijimo kopiją;
 8) teismui priėmus
 sprendimą dėl tarybos nario ne Lietuvos Respublikos piliečio išsiuntimo iš
-Lietuvos Respublikos – pagal įsiteisėjusį teismo sprendimą.
+Lietuvos Respublikos – pagal įsiteisėjusį teismo sprendimą;
+ 
+86 straipsnis
+papildomas 9 punktu nuo 2003 m. vasario 25 d.:
+9) tarybos nariui perėjus dirbti
+į pareigas arba neatsisakius pareigų, nesuderinamų su savivaldybės tarybos
+nario pareigomis.
 Straipsnio pakeitimai:
 Nr. IX-962,
 2002-06-20, Žin., 2002, Nr. 68-2764 (2002-07-03)
+Nr. IX-1340,
+2003-01-28, Žin., 2003, Nr. 17-711 (2003-02-19)
  
 87 straipsnis.
 Laisvos tarybos nario vietos užėmimas
+1
+dalies redakcija iki 2003 m. vasario 25 d.:
 1. Tarybos nario
 įgaliojimus pripažinus nutrūkusiais, taryboje atsiranda laisva tarybos nario
 vieta. Ji užimama taip: tarybos nariu tampa porinkiminio kandidatų sąrašo,
@@ -2506,17 +2516,36 @@ pagal kurį buvo išrinktas buvęs tarybos narys, pirmasis tarybos nario mandato
 negavęs kandidatas. Jeigu šiame kandidatų sąraše tarybos nario mandatų
 negavusių kandidatų nėra, tarybos nario mandatas perduodamas kitam sąrašui
 pagal kandidatų sąrašų eilę, sudarytą po rinkimų mandatams paskirstyti liekanų
-metodu, t.y. tam sąrašui, kuris yra pirmasis po sąrašo, kuris paskutinis gavo mandatą
-pagal šią eilę, ir tarybos nariu tampa naujai mandatą gavusio sąrašo pirmasis
-tarybos nario mandato negavęs kandidatas. Vyriausioji rinkimų komisija
+metodu, t.y. tam sąrašui, kuris yra pirmasis po sąrašo, kuris paskutinis gavo
+mandatą pagal šią eilę, ir tarybos nariu tampa naujai mandatą gavusio sąrašo
+pirmasis tarybos nario mandato negavęs kandidatas. Vyriausioji rinkimų komisija
 sprendimą dėl tarybos nario mandato pripažinimo naujam tarybos nariui turi
 priimti ne vėliau kaip per 7 dienas po to, kai atsirado laisva tarybos nario
 vieta.
+1
+dalies redakcija nuo 2003 m. vasario 25 d.:
+1. Tarybos nario įgaliojimus
+pripažinus nutrūkusiais ar netekus tarybos nario mandato, taryboje atsiranda
+laisva tarybos nario vieta. Ji užimama taip: tarybos nariu tampa porinkiminio
+kandidatų sąrašo, pagal kurį buvo išrinktas buvęs tarybos narys, pirmasis
+tarybos nario mandato negavęs kandidatas. Jeigu šiame kandidatų sąraše tarybos
+nario mandatų negavusių kandidatų nėra, tarybos nario mandatas perduodamas
+kitam sąrašui pagal kandidatų sąrašų eilę, sudarytą po rinkimų mandatams
+paskirstyti liekanų metodu, t. y. tam sąrašui, kuris yra pirmasis po sąrašo, kuris
+paskutinis gavo mandatą pagal šią eilę, ir tarybos nariu tampa naujai mandatą
+gavusio sąrašo pirmasis tarybos nario mandato negavęs kandidatas. Vyriausioji
+rinkimų komisija sprendimą dėl tarybos nario mandato pripažinimo naujam tarybos
+nariui turi priimti ne vėliau kaip per 7 dienas po to, kai atsirado laisva
+tarybos nario vieta.
+ 
 2. Jeigu asmuo,
 kuriam pagal šio straipsnio 1 dalį turėtų atitekti tarybos nario mandatas,
 negali tapti tarybos nariu pagal šio įstatymo 2 straipsnį arba jam tapus
 tarybos nariu iš karto turėtų būti taikomos šio įstatymo 86 straipsnio
 nuostatos, tai šis asmuo kandidatų sąrašo eilėje praleidžiamas.
+Straipsnio pakeitimai:
+Nr. IX-1340,
+2003-01-28, Žin., 2003, Nr. 17-711 (2003-02-19)
  
 88
 straipsnis. Tarybos nario mandato netekimas dėl rinkėjams nepaskelbtos turėtos 
@@ -2550,6 +2579,46 @@ valstybei.
 Straipsnio pakeitimai:
 Nr. IX-962,
 2002-06-20, Žin., 2002, Nr. 68-2764 (2002-07-03)
+ 
+Įstatymas
+papildomas 88(1) straipsniu nuo 2003 m. vasario 25 d.:
+88(1) straipsnis.
+Pareigos, nesuderinamos su savivaldybės tarybos nario pareigomis, ir 
+tarybos nario
+mandato netekimas
+1.
+Tarybos nario pareigos nesuderinamos su Respublikos Prezidento, Seimo nario,
+Vyriausybės nario pareigomis arba su valstybės pareigūno, kuris pagal
+Konstituciją ir įstatymus turi įgaliojimus kontroliuoti ar prižiūrėti
+savivaldybių veiklą, pareigomis, taip pat su apskrities viršininko ar
+apskrities viršininko pavaduotojo, su savivaldybės kontrolieriaus ar
+savivaldybės kontrolieriaus tarnybos valstybės tarnautojo, su savivaldybės
+administracijos direktoriaus ir jo pavaduotojo ar savivaldybės administracijos
+valstybės tarnautojo pareigomis. 
+2. Jeigu šio straipsnio 1 dalyje
+nurodytas pareigas einantis asmuo išrenkamas savivaldybės tarybos nariu arba
+būdamas savivaldybės tarybos nariu dirba arba pereina dirbti į šio straipsnio 1
+dalyje nurodytas pareigas, jis turi apsispręsti ir atsisakyti šių pareigų arba
+savivaldybės tarybos nario mandato. Išrinktas tarybos narys, apsisprendęs
+atsisakyti tarybos nario mandato, ne vėliau kaip likus 10 dienų iki
+savivaldybės tarybos pirmojo posėdžio dienos paduoda Vyriausiajai rinkimų
+komisijai asmeniškai arba išsiunčia jai notarine tvarka patvirtintą pareiškimą
+dėl savivaldybės tarybos nario mandato atsisakymo. Gavusi šį pareiškimą,
+Vyriausioji rinkimų komisija mandatų komisijos teisėmis ne vėliau kaip likus 7
+dienoms iki savivaldybės tarybos pirmojo posėdžio dienos priima sprendimą dėl
+savivaldybės tarybos nario mandato netekimo ir mandato naujam tarybos nariui
+pripažinimo. Porinkiminio kandidatų sąrašo kandidatai į atsiradusią laisvą
+tarybos nario vietą, apsisprendę atsisakyti tarybos nario mandato, taip pat
+turi paduoti Vyriausiajai rinkimų komisijai pareiškimus dėl savivaldybės
+tarybos nario mandato atsisakymo ne vėliau kaip likus 7 dienoms iki
+savivaldybės tarybos pirmojo posėdžio dienos. Sprendimą dėl asmens, turinčio
+tarybos nario įgaliojimus ir dirbančio ar perėjusio dirbti į pareigas,
+nesuderinamas su savivaldybės tarybos nario pareigomis, pareiškimo Vyriausioji
+rinkimų komisija priima šio Įstatymo 86 ir 87 straipsniuose nustatyta tvarka.
+Įstatymas
+papildytas straipsniu:
+Nr. IX-1340,
+2003-01-28, Žin., 2003, Nr. 17-711 (2003-02-19)
  
 89 straipsnis. Baigiamosios
 nuostatos 
@@ -2659,8 +2728,8 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 9.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1369, 1999
-10 19, Žin., 1999, Nr. 93-2710 (1999 11 04)
+Nr. VIII-1369, 1999 10 19, Žin., 1999, Nr.
+93-2710 (1999 11 04)
 LIETUVOS
 RESPUBLIKOS SAVIVALDYBIŲ TARYBŲ RINKIMŲ
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
@@ -2669,8 +2738,8 @@ Nauja
  
 10.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1939, 2000
-09 19, Žin., 2000, Nr. 84-2532 (2000 10 06)
+Nr. VIII-1939, 2000 09 19, Žin., 2000, Nr.
+84-2532 (2000 10 06)
 SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 19 IR 80 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
 Šis
@@ -2678,8 +2747,8 @@ PAKEITIMO ĮSTATYMAS
  
 11.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-184, 2001 02
-20, Žin., 2001, Nr. 21-692 (2001 03 09)
+Nr. IX-184, 2001 02 20, Žin., 2001, Nr.
+21-692 (2001 03 09)
 SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 38 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
@@ -2721,11 +2790,29 @@ Nr. IX-1080,
 SAVIVALDYBIŲ
 TARYBŲ RINKIMŲ ĮSTATYMO PAPILDYMO 89 STRAIPSNIU ĮSTATYMAS
  
+16.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1340,
+2003-01-28, Žin., 2003, Nr. 17-711 (2003-02-19)
+SAVIVALDYBIŲ
+TARYBŲ RINKIMŲ ĮSTATYMO 86, 87 STRAIPSNIŲ PAPILDYMO BEI PAKEITIMO IR ĮSTATYMO
+PAPILDYMO 88(1) STRAIPSNIU ĮSTATYMAS
+Šis Įstatymas įsigalioja
+nuo 2003 m. vasario 25 d.
+Šio Įstatymo 3 straipsnyje
+išdėstytos Savivaldybių tarybų rinkimų įstatymo 88(1) straipsnio 2
+dalies normos dėl išrinkto savivaldybės tarybos nariu asmens tarybos nario
+mandato atsisakymo iki pirmojo savivaldybės tarybos posėdžio pradedamos taikyti
+nuo kitos kadencijos savivaldybių tarybų rinkimų.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-10-02)
-                  autrap@lrs.lt
+Aušrinė Trapinskienė (2003-02-21)
+                 
+autrap@lrs.lt
 
