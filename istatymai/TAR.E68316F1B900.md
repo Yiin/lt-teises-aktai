@@ -25,12 +25,12 @@ I SKYRIUS
 BENDROSIOS
 NUOSTATOS
  
-1 straipsnis. Įstatymo paskirtisŠis Įstatymas reglamentuoja išankstinį valstybinių socialinio draudimo senatvės pensijų (toliau – išankstinė senatvės pensija) skyrimą, dydžio apskaičiavimą ir mokėjimą.  2 straipsnis. Teisė gauti išankstinę senatvės pensijąTeisę gauti išankstinę senatvės pensiją turi nuolat Lietuvos Respublikoje gyvenantys asmenys, atitinkantys šio Įstatymo 3 straipsnyje nustatytas sąlygas išankstinei senatvės pensijai skirti, jeigu Lietuvos Respublikos tarptautinėse sutartyse nenustatyta kitaip. 3 straipsnis. Išankstinės senatvės pensijos skyrimo sąlygos1. Išankstinė senatvės pensija skiriama asmeniui, kuris kreipimosi dėl išankstinės senatvės pensijos dieną atitinka visas šias sąlygas:1) iki Valstybinių socialinio draudimo pensijų įstatymo 18 straipsnio 1 dalyje nustatyto senatvės pensijos amžiaus jam yra likę ne daugiau kaip 5 metai; 2) turi ne mažesnį kaip 30 metų valstybinio socialinio pensijų draudimo stažą, išskyrus šio straipsnio 2 dalyje nurodytus asmenis;3) paskutinius 12 mėnesių iki kreipimosi dėl išankstinės senatvės pensijos įstatymų nustatyta tvarka buvo registruotas bedarbiu Lietuvos darbo biržos teritorinėje darbo biržoje, išskyrus šio straipsnio 3 dalyje nurodytus asmenis;4) negauna kitų valstybinių socialinio draudimo, valstybinių, šalpos pensijų (išskyrus šalpos pensijas, įstatymų nustatytais atvejais mokamas namuose invalidus slaugantiems asmenims), užsienio valstybės pensijų, nuolatinių pensinio pobūdžio išmokų už asmens darbo pobūdį (valstybinės signataro rentos, artistų rentos, kompensacijos už ypatingas darbo sąlygas ir pan.), mokamų iš valstybės biudžeto ar valstybinio socialinio draudimo fondo biudžeto, pensijų išmokų, gaunamų bet kuriuo Pensijų kaupimo ir Papildomo savanoriško pensijų kaupimo įstatymuose nustatytu būdu, netekto darbingumo periodinės kompensacijos, šalpos kompensacijos ar bedarbio pašalpos (toliau šiame Įstatyme – pensijos ir išmokos); 1 dalies 5 punkto redakcija iki 2005 m. sausio 1 d.:5) nėra vienas iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–8 punktuose, taip pat nėra ūkininkas ar jo partneris pagal Ūkininko ūkio įstatymą; 1 dalies 5 punkto redakcija nuo 2005 m. sausio 1 d.:5) nėra vienas iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–6 ir 8–9 punktuose, taip pat nėra ūkininkas ar jo partneris pagal Ūkininko ūkio įstatymą; 6) atitinka kitas Valstybinių socialinio draudimo pensijų įstatymo nustatytas sąlygas senatvės pensijai gauti, išskyrus senatvės pensijos amžiaus reikalavimą.
+1 straipsnis. Įstatymo paskirtisŠis Įstatymas reglamentuoja išankstinį valstybinių socialinio draudimo senatvės pensijų (toliau – išankstinė senatvės pensija) skyrimą, dydžio apskaičiavimą ir mokėjimą.  2 straipsnis. Teisė gauti išankstinę senatvės pensijąTeisę gauti išankstinę senatvės pensiją turi nuolat Lietuvos Respublikoje gyvenantys asmenys, atitinkantys šio Įstatymo 3 straipsnyje nustatytas sąlygas išankstinei senatvės pensijai skirti, jeigu Lietuvos Respublikos tarptautinėse sutartyse nenustatyta kitaip. 3 straipsnis. Išankstinės senatvės pensijos skyrimo sąlygos1. Išankstinė senatvės pensija skiriama asmeniui, kuris kreipimosi dėl išankstinės senatvės pensijos dieną atitinka visas šias sąlygas:1) iki Valstybinių socialinio draudimo pensijų įstatymo 18 straipsnio 1 dalyje nustatyto senatvės pensijos amžiaus jam yra likę ne daugiau kaip 5 metai; 2) turi ne mažesnį kaip 30 metų valstybinio socialinio pensijų draudimo stažą, išskyrus šio straipsnio 2 dalyje nurodytus asmenis;3) paskutinius 12 mėnesių iki kreipimosi dėl išankstinės senatvės pensijos įstatymų nustatyta tvarka buvo registruotas bedarbiu Lietuvos darbo biržos teritorinėje darbo biržoje, išskyrus šio straipsnio 3 dalyje nurodytus asmenis; 1 dalies 4 punkto redakcija iki 2005 m. sausio 1 d.:4) negauna kitų valstybinių socialinio draudimo, valstybinių, šalpos pensijų (išskyrus šalpos pensijas, įstatymų nustatytais atvejais mokamas namuose invalidus slaugantiems asmenims), užsienio valstybės pensijų, nuolatinių pensinio pobūdžio išmokų už asmens darbo pobūdį (valstybinės signataro rentos, artistų rentos, kompensacijos už ypatingas darbo sąlygas ir pan.), mokamų iš valstybės biudžeto ar valstybinio socialinio draudimo fondo biudžeto, pensijų išmokų, gaunamų bet kuriuo Pensijų kaupimo ir Papildomo savanoriško pensijų kaupimo įstatymuose nustatytu būdu, netekto darbingumo periodinės kompensacijos, šalpos kompensacijos ar bedarbio pašalpos (toliau šiame Įstatyme – pensijos ir išmokos);1 dalies 4 punkto redakcija nuo 2005 m. sausio 1 d.:4) negauna kitų valstybinių socialinio draudimo, valstybinių, šalpos pensijų (išskyrus šalpos pensijas, įstatymų nustatytais atvejais mokamas namuose invalidus slaugantiems asmenims), užsienio valstybės pensijų, nuolatinių pensinio pobūdžio išmokų už asmens darbo pobūdį (valstybinės signataro rentos, artistų rentos, kompensacijos už ypatingas darbo sąlygas ir pan.), mokamų iš valstybės biudžeto ar Valstybinio socialinio draudimo fondo biudžeto, pensijų išmokų, gaunamų bet kuriuo Pensijų kaupimo ir Papildomo savanoriško pensijų kaupimo įstatymuose nustatytu būdu, netekto darbingumo periodinės kompensacijos, šalpos kompensacijos ar nedarbo socialinio draudimo išmokos (toliau šiame Įstatyme – pensijos ir išmokos); 1 dalies 5 punkto redakcija iki 2005 m. sausio 1 d.:5) nėra vienas iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–8 punktuose, taip pat nėra ūkininkas ar jo partneris pagal Ūkininko ūkio įstatymą; 1 dalies 5 punkto redakcija nuo 2005 m. sausio 1 d.:5) nėra vienas iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–6 ir 8–9 punktuose, taip pat nėra ūkininkas ar jo partneris pagal Ūkininko ūkio įstatymą; 6) atitinka kitas Valstybinių socialinio draudimo pensijų įstatymo nustatytas sąlygas senatvės pensijai gauti, išskyrus senatvės pensijos amžiaus reikalavimą.
 2. Motinoms, kurios pagimdė ir išaugino iki 8 metų penkis ir
-daugiau vaikų, taip pat asmenims, kurie ne mažiau kaip 15 metų slaugė namuose savo
-vaikus (įvaikius) invalidus arba vaikus (įvaikius), pripažintus I ar II grupės
-invalidais nuo vaikystės arba tapusius I ar II grupės invalidais iki 18 metų,
-arba visiškos negalios invalidus, išankstinė senatvės pensija, jeigu jie
+daugiau vaikų, taip pat asmenims, kurie ne mažiau kaip 15 metų slaugė namuose
+savo vaikus (įvaikius) invalidus arba vaikus (įvaikius), pripažintus I ar II
+grupės invalidais nuo vaikystės arba tapusius I ar II grupės invalidais iki 18
+metų, arba visiškos negalios invalidus, išankstinė senatvės pensija, jeigu jie
 atitinka šio straipsnio 1 dalies 1, 3–6 punktuose išvardytas sąlygas, gali būti
 paskirta ir tuo atveju, jeigu kreipimosi dėl išankstinės senatvės pensijos
 dieną šie asmenys turi ne mažesnį kaip 15 metų valstybinio socialinio pensijų
@@ -38,16 +38,18 @@ draudimo stažą.
 3.
 Asmeniui, kuris iki kreipimosi dėl išankstinės senatvės pensijos skyrimo
 teisės aktų nustatyta tvarka buvo pripažintas nedarbingu ir atitinka šio
-straipsnio 1 dalies 1, 2 ir 4–6 punktuose išvardytas sąlygas, išankstinė
-senatvės pensija skiriama, jeigu jis buvo įstatymų nustatyta tvarka
-nepertraukiamai registruotas bedarbiu Lietuvos darbo biržos teritorinėje darbo
-biržoje paskutinius 12 mėnesių, iki buvo pripažintas nedarbingu, ir jeigu jis,
-tapęs darbingu, vėl užsiregistravo ir yra registruotas bedarbiu iki pat
-kreipimosi dėl išankstinės senatvės pensijos dienos.
+straipsnio 1 dalies 1, 2 ir 4–6 punktuose išvardytas sąlygas, išankstinė senatvės
+pensija skiriama, jeigu jis buvo įstatymų nustatyta tvarka nepertraukiamai
+registruotas bedarbiu Lietuvos darbo biržos teritorinėje darbo biržoje
+paskutinius 12 mėnesių, iki buvo pripažintas nedarbingu, ir jeigu jis, tapęs
+darbingu, vėl užsiregistravo ir yra registruotas bedarbiu iki pat kreipimosi
+dėl išankstinės senatvės pensijos dienos.
 Straipsnio pakeitimai:
 Nr.
 IX-2375,
 2004-07-15, Žin., 2004, Nr. 117-4373 (2004-07-29)
+Nr. IX-2539,
+2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
  4 straipsnis. Išankstinės senatvės pensijos skyrimo ir mokėjimo terminai
 1. Išankstinė
 senatvės pensija skiriama ir mokama nuo dienos, kurią turintis teisę
@@ -60,8 +62,8 @@ IX-2375,
 1. Skiriant
 valstybinę socialinio draudimo invalidumo pensiją nesukakusiam senatvės
 pensijos amžiaus asmeniui, kuris buvo gavęs išankstinę senatvės pensiją,
-invalidumo pensijos dydis apskaičiuojamas Valstybinių socialinio draudimo pensijų
-įstatymo nustatyta tvarka ir nemažinamas dėl to, kad asmuo gavo išankstinę
+invalidumo pensijos dydis apskaičiuojamas Valstybinių socialinio draudimo
+pensijų įstatymo nustatyta tvarka ir nemažinamas dėl to, kad asmuo gavo išankstinę
 senatvės pensiją.
 2. Asmeniui, gavusiam
 išankstinę senatvės pensiją, sukakus senatvės pensijos amžių, valstybinės
@@ -95,16 +97,31 @@ teritoriniai skyriai, vadovaudamiesi šiuo Įstatymu, Valstybinių socialinio
 draudimo pensijų įstatymu bei Vyriausybės patvirtintais Valstybinių socialinio
 draudimo pensijų skyrimo ir mokėjimo nuostatais. 
 2. Kreipiantis dėl išankstinės senatvės pensijos, privaloma pateikti visus Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nurodytus dokumentus, būtinus šiai pensijai paskirti.
+ 
+3 dalies redakcija iki 2005 m. sausio 1 d.:
 3. Išankstinės
 senatvės pensijos mokamos už praėjusį mėnesį Valstybinio socialinio draudimo
 fondo valdybos nustatyta tvarka. 
-            11 straipsnis. Valstybinio socialinio draudimo fondo įstaigų sprendimų apskundimas1. Jeigu asmuo nesutinka su Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus vedėjo (pavaduotojo) sprendimu dėl jo teisės gauti išankstinę senatvės pensiją, jis turi teisę šį sprendimą per mėnesį nuo jo priėmimo apskųsti Valstybinio socialinio draudimo fondo valdybai. 2. Valstybinio socialinio draudimo fondo valdybos direktoriaus (pavaduotojo) ir teritorinio skyriaus vedėjo (pavaduotojo) sprendimas gali būti apskųstas teismui įstatymų nustatyta tvarka ir terminais. 12 straipsnis. Išankstinės senatvės pensijos gavėjo pareigosIšankstinės senatvės pensijos gavėjas privalo pranešti Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui, kuris moka jam pensiją, apie aplinkybes, turinčias įtakos šios pensijos dydžiui ar mokėjimui, per 10 dienų nuo šių aplinkybių atsiradimo dienos. Jei apie tokias aplinkybes laiku nepranešus pensija yra permokama, permokėta suma išieškoma iš gavėjo pensijos Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus vedėjo (pavaduotojo) sprendimu. Jei asmuo pensijos negauna, permoka išieškoma teismo tvarka.  IV SKYRIUSBAIGIAMOSIOS NUOSTATOS 13 straipsnis. Pasiūlymas VyriausybeiPasiūlyti Vyriausybei pakeisti Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatus. 14 straipsnis. Įstatymo įsigaliojimas1. Šis Įstatymas įsigalioja nuo 2004 m. liepos 1 d.2. Lietuvos Respublikos valstybės ir savivaldybių institucijos (įstaigos) bei kiti juridiniai asmenys privalo teikti Valstybinio socialinio draudimo fondo valdybai ir (ar) jos teritoriniams skyriams išankstinėms senatvės pensijoms skirti ir mokėti reikalingus duomenis apie asmens gaunamas pensijas ir išmokas bei jų dydžius, taip pat kitą išankstinėms senatvės pensijoms skirti ir mokėti reikiamą informaciją. 
+3 dalies redakcija nuo 2005 m. sausio 1 d.:3. Išankstinės senatvės pensijos mokamos už praėjusį mėnesį Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Fondo valdyba) nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. IX-2539,
+2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
+ 11 straipsnio redakcija iki 2005 m. sausio 1 d.:11 straipsnis. Valstybinio socialinio draudimo fondo įstaigų sprendimų apskundimas1. Jeigu asmuo nesutinka su Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus vedėjo (pavaduotojo) sprendimu dėl jo teisės gauti išankstinę senatvės pensiją, jis turi teisę šį sprendimą per mėnesį nuo jo priėmimo apskųsti Valstybinio socialinio draudimo fondo valdybai. 2. Valstybinio socialinio draudimo fondo valdybos direktoriaus (pavaduotojo) ir teritorinio skyriaus vedėjo (pavaduotojo) sprendimas gali būti apskųstas teismui įstatymų nustatyta tvarka ir terminais.11 straipsnio redakcija nuo 2005 m. sausio 1 d.:11 straipsnis. Valstybinio socialinio draudimo fondo administravimo įstaigų sprendimų apskundimas1. Jeigu asmuo nesutinka su Fondo valdybos teritorinio skyriaus direktoriaus (pavaduotojo) sprendimu dėl savo teisės gauti išankstinę senatvės pensiją, jis turi teisę šį sprendimą per mėnesį nuo jo priėmimo apskųsti Fondo valdybai. 2. Fondo valdybos direktoriaus (pavaduotojo) ir teritorinio skyriaus direktoriaus (pavaduotojo) sprendimas gali būti apskųstas teismui įstatymų nustatyta tvarka ir terminais.
+Straipsnio pakeitimai:
+Nr. IX-2539,
+2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
+ 12 straipsnio redakcija iki 2005 m. sausio 1 d.:12 straipsnis. Išankstinės senatvės pensijos gavėjo pareigosIšankstinės senatvės pensijos gavėjas privalo pranešti Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui, kuris moka jam pensiją, apie aplinkybes, turinčias įtakos šios pensijos dydžiui ar mokėjimui, per 10 dienų nuo šių aplinkybių atsiradimo dienos. Jei apie tokias aplinkybes laiku nepranešus pensija yra permokama, permokėta suma išieškoma iš gavėjo pensijos Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus vedėjo (pavaduotojo) sprendimu. Jei asmuo pensijos negauna, permoka išieškoma teismo tvarka. 12 straipsnio redakcija nuo 2005 m. sausio 1 d.:12 straipsnis. Išankstinės senatvės pensijos gavėjo pareigosIšankstinės senatvės pensijos gavėjas privalo pranešti Fondo valdybos teritoriniam skyriui, kuris moka jam pensiją, apie aplinkybes, turinčias įtakos šios pensijos dydžiui ar mokėjimui, per 10 dienų nuo šių aplinkybių atsiradimo dienos. Jei apie tokias aplinkybes laiku nepranešus pensija yra permokama, permokėta suma išieškoma iš gavėjo pensijos Fondo valdybos teritorinio skyriaus direktoriaus (pavaduotojo) sprendimu. Jei asmuo pensijos negauna, permoka išieškoma teismo tvarka.
+Straipsnio pakeitimai:
+Nr. IX-2539,
+2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
+ IV SKYRIUSBAIGIAMOSIOS NUOSTATOS 13 straipsnis. Pasiūlymas VyriausybeiPasiūlyti Vyriausybei pakeisti Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatus. 14 straipsnis. Įstatymo įsigaliojimas1. Šis Įstatymas įsigalioja nuo 2004 m. liepos 1 d. 2 dalies redakcija iki 2005 m. sausio 1 d.:2. Lietuvos Respublikos valstybės ir savivaldybių institucijos (įstaigos) bei kiti juridiniai asmenys privalo teikti Valstybinio socialinio draudimo fondo valdybai ir (ar) jos teritoriniams skyriams išankstinėms senatvės pensijoms skirti ir mokėti reikalingus duomenis apie asmens gaunamas pensijas ir išmokas bei jų dydžius, taip pat kitą išankstinėms senatvės pensijoms skirti ir mokėti reikiamą informaciją. 2 dalies redakcija nuo 2005 m. sausio 1 d.:2. Lietuvos Respublikos valstybės ir savivaldybių institucijos (įstaigos) bei kiti juridiniai asmenys privalo teikti Fondo valdybai ir (ar) jos teritoriniams skyriams išankstinėms senatvės pensijoms skirti ir mokėti reikalingus duomenis apie asmens gaunamas pensijas ir išmokas bei jų dydžius, taip pat kitą išankstinėms senatvės pensijoms skirti ir mokėti reikiamą informaciją.
+Straipsnio pakeitimai:
+Nr. IX-2539,
+2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
+ 
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
- 
-
- 
 RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS PAKSAS
 _____________
  
@@ -124,12 +141,27 @@ PAKEITIMO ĮSTATYMAS
 įstatymas, išskyrus pirmojo skirsnio 5 straipsnį ir šio skirsnio 2 straipsnį,
 įsigalioja nuo 2005 m. sausio 1 d.
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2539,
+2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
+MOKSLININKŲ
+VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO, TEISĖJŲ
+VALSTYBINIŲ PENSIJŲ ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ
+IŠANKSTINIO MOKĖJIMO ĮSTATYMO, PINIGINĖS SOCIALINĖS PARAMOS MAŽAS PAJAMAS
+GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS) ĮSTATYMO PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-07-30)
+Aušrinė Trapinskienė (2004-12-08)
                  
 autrap@lrs.lt
 
