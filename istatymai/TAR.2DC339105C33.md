@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2DC339105C33"
 
 # Lietuvos Respublikos muitų tarifų įstatymas
 
-Suvestinė redakcija nuo 1996-04-03 iki 1996-04-18
+Suvestinė redakcija nuo 1996-04-19 iki 1997-05-06
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 88-0; Žin. 1993, Nr.15-375, i. k. 0931010ISTA000I-138
  
@@ -195,7 +195,13 @@ Nuo muitų mokėjimo atleidžiama:
 
 7) prekės ir kitos vertybės, įvežamos į Lietuvos Respublikos muitų teritorijoje esančias neapmuitinamas parduotuves ar muitinės sandėlius ir išvežamos iš jų už Lietuvos Respublikos muitų teritorijos;
 
-8) kitais tarptautinių konvencijų ir Lietuvos Respublikos Vyriausybės numatytais atvejais.
+8) į laisvąsias ekonomines zonas iš užsienio įvežamos ir iš šių zonų į užsienį išvežamos prekės;
+
+9) kitais tarptautinių konvencijų ir Lietuvos Respublikos Vyriausybės numatytais atvejais.
+
+Straipsnio dalies pakeitimai:
+Nr. I-1257, 1996-03-28, Žin., 1996, Nr. 35-864 (1996-04-19), i. k. 0961010ISTA00I-1257
+ 
 
 Atleidimo nuo muitų mokėjimo taikymo tvarką ir sąlygas nustato Lietuvos Respublikos Vyriausybė.
  
@@ -278,4 +284,9 @@ Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos muitų tarifų įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1236, 1996-03-19, Žin., 1996, Nr. 30-732 (1996-04-03), i. k. 0961010ISTA00I-1236
 Lietuvos Respublikos muitų tarifų įstatymo 11, 15, 16 ir 18 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1257, 1996-03-28, Žin., 1996, Nr. 35-864 (1996-04-19), i. k. 0961010ISTA00I-1257
+Lietuvos Respublikos muitų tarifų įstatymo 13 straipsnio papildymo ir pakeitimo įstatymas
 
