@@ -444,7 +444,9 @@ išskyrus šio straipsnio 4 punkte nurodytus asmenis, taip pat teismo antstoliai
 ir jų šeimų nariai, kurie turtą ir pajamas pradeda deklaruoti už 1997 metus;
 3) šio įstatymo
 2 priedėlyje išvardyti valstybės tarnautojai, ūkinių subjektų vadovai ir jų
-šeimų nariai turtą ir pajamas pradeda deklaruoti nuo 1996 metų;
+šeimų nariai turtą ir pajamas pradeda deklaruoti nuo 1996 metų, o aukštųjų
+mokyklų vadovai ir jų šeimų nariai turtą ir pajamas pradeda deklaruoti už 2002
+metus;
 4) Lietuvos
 Respublikos operatyvinės veiklos subjektų teises turinčių valstybės institucijų
 valstybės tarnautojai ir pareigūnai, kurių veiklą reglamentuoja Operatyvinės
@@ -459,7 +461,8 @@ pajamas pradeda deklaruoti nuo tų kalendorinių metų, kuriais suteikė paskola
 arba padovanojo dovanas;
 6) asmenys,
 pageidaujantys gauti valstybės garantuojamą teisinę pagalbą, turtą ir pajamas
-deklaruoja prieš kreipdamiesi dėl valstybės garantuojamos teisinės pagalbos suteikimo.
+deklaruoja prieš kreipdamiesi dėl valstybės garantuojamos teisinės pagalbos
+suteikimo.
 Straipsnio
 pakeitimai:
 Nr.
@@ -474,6 +477,8 @@ Nr. VIII-1887, 00.07.20, Žin., 2000,
 Nr.67-2017 (00.08.09)
 Nr. IX-96, 2000 12 20, Žin., 2000, Nr.
 113-3605 (2000 12 30), įsigalioja nuo 2001 01 01
+Nr. IX-944,
+2002-06-11, Žin., 2002, Nr. 64-2577 (2002-06-26)
  
  
             12 straipsnis. Įstatymo
@@ -491,7 +496,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 BRAZAUSKAS
 
  
-                                                                                                            Lietuvos
+                                                                                                            Lietuvos
 Respublikos
 1996 m. gegužės 16 d.
 įstatymo Nr. I-1338
@@ -506,8 +511,8 @@ s ą r a š a s
  
 1. Respublikos
 Prezidentas.
-2. Lietuvos
-Respublikos Seimo nariai.
+2. Lietuvos Respublikos
+Seimo nariai.
 3. Lietuvos
 Respublikos Ministras Pirmininkas ir ministrai, viceministrai, ministerijų
 sekretoriai.
@@ -587,19 +592,19 @@ ir skyrių vedėjų (viršininkų) pavaduotojai, vyriausiasis buhalteris
 Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų),
 prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės
 valdymo institucijų vyriausieji buhalteriai (finansininkai) ir vyriausiųjų
-buhalterių (finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos
-institucijos šiame punkte išvardytų institucijų skelbiamą sąrašą).
+buhalterių (finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos institucijos
+šiame punkte išvardytų institucijų skelbiamą sąrašą).
 6. Ministerijų
 struktūrinių padalinių (departamentų, valdybų, kanceliarijų, skyrių, poskyrių,
-sektorių, biurų, grupių, sekretoriatų) vadovai ir padalinių vadovų pavaduotojai.
+sektorių, biurų, grupių, sekretoriatų) vadovai ir padalinių vadovų
+pavaduotojai.
             7. Lietuvos kariuomenės
 vadas ir kariuomenės vado pavaduotojai.
             8. Diplomatinį rangą
 turintys asmenys.
             9. Apskričių viršininkų
 administracijų struktūrinių padalinių (departamentų, valdybų, inspekcijų,
-skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir padalinių vadovų
-pavaduotojai.
+skyrių, tarnybų, sektorių, biurų, grupių) vadovai ir padalinių vadovų pavaduotojai.
             10. Apskričių viršininkų
 administracijų vyriausieji buhalteriai (finansininkai) ir vyriausiųjų
 buhalterių (finansininkų) pavaduotojai.
@@ -621,6 +626,8 @@ valdybų nariai, administracijų vadovai, taip pat struktūrinių padalinių
 pavaduotojai, tarybų ir valdybų nariai, vyriausieji buhalteriai
 (finansininkai), taip pat struktūrinių padalinių (filialų, skyrių, atstovybių)
 vadovai bei jų pavaduotojai.
+17. Aukštųjų
+mokyklų vadovai.
 Priedėlio
 pakeitimai:
 Nr.
@@ -628,6 +635,9 @@ VIII-134,
 97.02.25, Žin., 1997, Nr. 23-542 (97.03.15) 
 Nr. VIII-1887, 00.07.20, Žin., 2000,
 Nr.67-2017 (00.08.09)
+Nr. IX-944,
+2002-06-11, Žin., 2002, Nr. 64-2577 (2002-06-26)
+ 
  
 _____________
 
@@ -716,11 +726,21 @@ IX-916,
 GYVENTOJŲ
 TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-944,
+2002-06-11, Žin., 2002, Nr. 64-2577 (2002-06-26)
+GYVENTOJŲ
+TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 11 STRAIPSNIO IR 2 PRIEDĖLIO PAPILDYMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-06-21)
+Aušrinė Trapinskienė (2002-06-26)
                  
 autrap@lrs.lt
