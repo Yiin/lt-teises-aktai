@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 1999-06-02 iki 1999-07-08
+Suvestinė redakcija nuo 1999-07-09 iki 2000-06-27
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
  
@@ -43,7 +43,10 @@ Pagal šį įstatymą „Valstybės žiniose“ turi būti skelbiami:
 
 1) Lietuvos Respublikos įstatymai;
 
-2) Lietuvos Respublikos Seimo ratifikuotos tarptautinės sutartys;
+2) Lietuvos Respublikos tarptautinės sutartys; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1249, 1999-06-22, Žin., 1999, Nr. 60-1949 (1999-07-09), i. k. 0991010ISTAIII-1249
+ 
 
 3) Respublikos Prezidento dekretai;
 
@@ -214,7 +217,10 @@ Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010I
 
 1) I skyriuje – visi Lietuvos Respublikos konstituciniai įstatymai, kiti įstatymai, taip pat nutarimai dėl įstatymų įsigaliojimo tvarkos, Lietuvos Respublikos Seimo statutas ar jo sudėtinės dalys;
 
-2) II skyriuje – Lietuvos Respublikos tarptautinės sutartys, kurias ratifikavo Lietuvos Respublikos Seimas;
+2) II skyriuje – Lietuvos Respublikos tarptautinės sutartys; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1249, 1999-06-22, Žin., 1999, Nr. 60-1949 (1999-07-09), i. k. 0991010ISTAIII-1249
+ 
 
 3) III skyriuje – Lietuvos Respublikos Seimo priimti teisės aktai, išskyrus įstatymus, rezoliucijos, pareiškimai, kreipimaisi bei kiti dokumentai;
 
@@ -295,4 +301,9 @@ Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 2, 3, 8, 9, 10, 15, 16, 17 straipsnių pakeitimo, papildymo 10(1) straipsniu ir 7 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1249, 1999-06-22, Žin., 1999, Nr. 60-1949 (1999-07-09), i. k. 0991010ISTAIII-1249
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 2 ir 17 straipsnių pakeitimo įstatymas
 
