@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 1998-12-31 iki 1999-10-14
+Suvestinė redakcija nuo 1999-10-15 iki 2000-02-22
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
  
@@ -952,9 +952,10 @@ BENDROVĖS BEI AKCININKŲ TEISĖS IR PAREIGOS
 
 
 
-6) sudaryti sutartis, prisiimti įsipareigojimus, skolinti pinigus bankams, skolintis pinigų iš bankų bei ne pelno organizacijų, finansuojamų tarptautinių organizacijų ir kitų valstybių vyriausybių pagal programas, suderintas su Lietuvos Respublikos Vyriausybe arba jos įgaliota institucija, sudarydama paskolų sutartis, taip pat skolintis pinigų iš kitų ūkio subjektų, išleisdama kredito vertybinius popierius. Bendrovės, kuriose yra ne daugiau kaip 50 akcininkų, gali skolintis iš savo akcininkų už palūkanas, nustatomas sutartimi. Bendrovė turi teisę skolinti pinigus ir kitiems ūkio subjektams įsigydama jų kredito vertybinius popierius, jei tam paprasta balsų dauguma pritarė visuotinis akcininkų susirinkimas. Bendrovė, skolindamasi pinigų iš savo akcininkų, neturi teisės įkeisti jiems savo turto. Paskolos sutarties sudarymo dieną nustatoma metinė palūkanų norma negali būti didesnė už vidutinę praėjusio ketvirčio Lietuvos Respublikos Vyriausybės vertybinių popierių palūkanų normą. Bendra iš akcininkų ar kitų ūkio subjektų gautų paskolų ir kitiems ūkio subjektams paskolintų lėšų suma bendrovėje tuo pačiu metu negali viršyti jos nuosavo kapitalo. Apie šiame punkte nustatytų reikalavimų pažeidimus akcinė bendrovė privalo informuoti tokia pat tvarka kaip apie Vertybinių popierių viešosios apyvartos įstatyme nustatytą esminį įvykį. Akcininkų teisė skolinti pinigus bendrovei turi būti nustatyta tos bendrovės įstatuose. Akcininkams užtikrinamos lygios teisės skolinti pinigus bendrovei. Bendrovė neturi teisės skolinti pinigų kitiems asmenims, jeigu ji pati yra jų pasiskolinusi iš akcininkų ar kitų ūkio subjektų. Šiame punkte išdėstytos nuostatos bankams netaikomos;
+6) sudaryti sutartis, prisiimti įsipareigojimus, skolinti ir skolintis pinigų. Bendrovė, skolindamasi pinigų iš savo akcininkų, neturi teisės įkeisti jiems savo turto. Bendrovės negali verstis kredito įstaigų veikla. Bendrovės fiziniams bei juridiniams asmenims paskolintų lėšų suma negali viršyti bendrovės nuosavo kapitalo. Bendrovei skolinantis iš akcininko pagal paskolos sutartį, metinė paskolos palūkanų norma negali būti didesnė už praėjusį kalendorinį ketvirtį aukciono būdu išleistų litais Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinį vidurkį, kurį „Valstybės žiniose“ skelbia Vyriausybė arba jos įgaliota institucija;
 Straipsnio punkto pakeitimai:
 Nr. VIII-999, 1998-12-22, Žin., 1998, Nr. 115-3246 (1998-12-31), i. k. 0981010ISTAVIII-999
+Nr. VIII-1345, 1999-10-05, Žin., 1999, Nr. 86-2562 (1999-10-15), i. k. 0991010ISTAIII-1345
  
 
 
@@ -3573,3 +3574,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-999, 1998-12-22, Žin., 1998, Nr. 115-3246 (1998-12-31), i. k. 0981010ISTAVIII-999
 Lietuvos Respublikos akcinių bendrovių įstatymo 13 straipsnio papildymo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1345, 1999-10-05, Žin., 1999, Nr. 86-2562 (1999-10-15), i. k. 0991010ISTAIII-1345
+Lietuvos Respublikos akcinių bendrovių įstatymo 13 straipsnio pakeitimo įstatymas
