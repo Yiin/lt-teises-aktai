@@ -13,10 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8624542DCE85"
 
 # Lietuvos Respublikos politinių partijų įstatymas
 
-Redagavo: Ramun? L??ait? (1997
+Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
-Ramunė Lūžaitė (1997.05.14)
+Ramunė Lūžaitė (1998.06.03)
  
 Įstatymas
 paskelbtas: Žin., 1990, Nr.29-692
@@ -64,6 +64,15 @@ DĖL
 LIETUVOS RESPUBLIKOS POLITINIŲ PARTIJŲ IR POLITINIŲ ORGANIZACIJŲ ĮSTATYMO
 PAKEITIMO
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-743, 98.05.14, Žin., 1998, Nr.51-1395 (98.06.03)
+LIETUVOS
+RESPUBLIKOS POLITINIŲ PARTIJŲ IR POLITINIŲ ORGANIZACIJŲ ĮSTATYMO 10 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -85,17 +94,17 @@ tikslams įgyvendinti, padeda formuoti ir išreikšti Lietuvos piliečių intere
 ir politinę valią.
      Lietuvos 
 Respublikos Seimas,  siekdamas garantuoti politinių partijų ir politinių
-organizacijų lygiateisiškumą ir užtikrinti, kad jų veikla tarnautų
-nepriklausomos demokratinės Lietuvos valstybės stiprinimui bei  visuomenės
-pažangai, priima ir skelbia šį įstatymą.
+organizacijų lygiateisiškumą ir užtikrinti, kad jų veikla tarnautų nepriklausomos
+demokratinės Lietuvos valstybės stiprinimui bei  visuomenės pažangai, priima ir
+skelbia šį įstatymą.
      
 Preambulės
 pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
  
- I. BENDRIEJI NUOSTATAI 
  
+ I. BENDRIEJI NUOSTATAI 
  
      1
 straipsnis. Teisė jungtis į politines partijas ir politines
@@ -116,27 +125,26 @@ pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
  
- 
      2
 straipsnis. Politinių partijų ir politinių organizacijų veiklos
                   
 pagrindai 
  
      Politinės
-partijos ir politinės organizacijos veikia, laikydamosi Lietuvos Respublikos Konstitucijos,
-šio bei kitų įstatymų ir savo veiklą grindžia nustatyta tvarka įregistruotu
-partijos ar politinės organizacijos statutu (įstatais).
+partijos ir politinės organizacijos veikia, laikydamosi Lietuvos Respublikos
+Konstitucijos, šio bei kitų įstatymų ir savo veiklą grindžia nustatyta tvarka
+įregistruotu partijos ar politinės organizacijos statutu (įstatais).
      Lietuvos
 Respublikos teritorijoje negali būti steigiamos ir veikti kitų valstybių
 politinės partijos ir politinės organizacijos, jų padaliniai ir organizacijos.
      Draudžiama
 steigtis ir veikti politinėms partijoms ir politinėms organizacijoms, kurių
 programiniuose  dokumentuose   propaguojama  ar  veikloje praktikuojama rasinė,
-religinė, socialinė klasinė nelygybė ir neapykanta, autoritarinio ar
-totalitarinio valdymo, valdžios užgrobimo prievarta metodai, karo ir smurto
-propaganda, žmogaus teisių bei laisvių pažeidimai, kitokios idėjos bei
-veiksmai, prieštaraujantys Lietuvos Respublikos konstitucinei santvarkai ir
-nesuderinami su visuotinai pripažintomis tarptautinėmis teisės normomis.
+religinė, socialinė klasinė nelygybė ir neapykanta, autoritarinio ar totalitarinio
+valdymo, valdžios užgrobimo prievarta metodai, karo ir smurto propaganda,
+žmogaus teisių bei laisvių pažeidimai, kitokios idėjos bei veiksmai,
+prieštaraujantys Lietuvos Respublikos konstitucinei santvarkai ir nesuderinami
+su visuotinai pripažintomis tarptautinėmis teisės normomis.
      Vadovaujantieji
 politinės partijos ar politinės organizacijos organai turi būti tik Lietuvos
 Respublikos teritorijoje. 
@@ -152,12 +160,11 @@ II. POLITINIŲ PARTIJŲ IR POLITINIŲ ORGANIZACIJŲ STEIGIMAS,
               
 JŲ VEIKLOS SUSTABDYMAS IR NUTRAUKIMAS 
  
- 
     
 3 straipsnis. Politinių partijų ir politinių organizacijų steigimas
  
     
-Politinei  partijai   ar  politinei  organizacijai  įsteigti būtina, kad  ji
+Politinei  partijai   ar  politinei  organizacijai  įsteigti būtina, kad  ji
 turėtų  Lietuvoje ne  mažiau kaip  keturis šimtus steigėjų, kurie savo ar savo
 atstovų suvažiavime turi patvirtinti statutą  (įstatus),   programą  ir  
 išrinkti  vadovaujančiuosius organus.
@@ -204,7 +211,6 @@ I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
 Nr.
 I-953, 95.06.20, Žin., 1995, Nr.55-1354 (95.07.05)
  
- 
     
 4 straipsnis. Politinių partijų ir politinių organizacijų 
                   
@@ -214,7 +220,7 @@ registravimas
 Politines partijas  ir politines  organizacijas  registruoja Lietuvos
 Respublikos teisingumo ministerija.
     
-Steigėjai  ne  vėliau  kaip  per  vieną  mėnesį  po  statuto (įstatų),
+Steigėjai  ne  vėliau  kaip  per  vieną  mėnesį  po  statuto (įstatų),
 programos  priėmimo ir vadovaujančiųjų organų išrinkimo dienos  paduoda  
 Lietuvos  Respublikos  teisingumo  ministerijai pareiškimą dėl  partijos ar
 politinės organizacijos registravimo. Pareiškimą pasirašo  vadovas, 
@@ -228,17 +234,17 @@ partijos  ar  politinės  organizacijos  įsteigimo laikas ir  vieta, taip�
 steigėjų,  dalyvavusių suvažiavime ir balsavusių už  partijos  ar  politinės 
 organizacijos  įsteigimą, skaičius;
     
-3) steigėjų  sąrašas, kuriame  turi būti  kiekvieno steigėjo vardas, 
-pavardė,   gimimo  data,   pilietybė  ir  asmens  kodas, gyvenamosios vietos 
-adresas, užsiėmimas, žyma apie nepriklausymą kitoms partijoms  ir politinėms
+3) steigėjų  sąrašas, kuriame  turi būti  kiekvieno steigėjo vardas,  pavardė,  
+gimimo  data,   pilietybė  ir  asmens  kodas, gyvenamosios vietos  adresas,
+užsiėmimas, žyma apie nepriklausymą kitoms partijoms  ir politinėms
 organizacijoms. Šie duomenys turi būti patvirtinti  kiekvieno steigėjo 
 parašu,  taip  pat  asmens, sudariusio steigėjų sąrašą, parašu;
     
 4) partijos  ar politinės  organizacijos  simbolių,  vėliavų pavyzdžiai arba jų
 eskizai.
     
-Statutas (įstatai), programa, protokolas ir steigėjų sąrašas turi būti pasirašyti
-partijos ar politinės organizacijos vadovo.
+Statutas (įstatai), programa, protokolas ir steigėjų sąrašas turi būti
+pasirašyti partijos ar politinės organizacijos vadovo.
     
 Teisingumo  ministerija   šio  straipsnio  antrojoje  dalyje nurodytus
 dokumentus  išnagrinėja per  mėnesį  nuo  jų  pateikimo dienos ir įregistruoja
@@ -247,8 +253,8 @@ dokumentai ir  nėra pažeisti šio įstatymo reikalavimai.
     
 Jei dokumentų  trūksta, steigėjams  pranešama apie tai raštu ir nustatomas 
 terminas trūkstamiems  dokumentams  pateikti.  Šis terminas negali  būti
-ilgesnis  negu  vienas  mėnuo.  Partija  ar politinė organizacija 
-įregistruojama per  mėnesį  nuo  trūkstamų dokumentų pateikimo dienos.
+ilgesnis  negu  vienas  mėnuo.  Partija  ar politinė organizacija  įregistruojama
+per  mėnesį  nuo  trūkstamų dokumentų pateikimo dienos.
     
 Politinė partija  ar politinė organizacija, praleidusi šiame straipsnyje
 nustatytus  dokumentų pateikimo  terminus,  taip  pat pažeidusi kitus šio
@@ -261,9 +267,9 @@ partija  ar politinė organizacija, kurią buvo atsisakyta registruoti šiame
 įstatyme nurodytais pagrindais, savo steigimo ir registravimo klausimus turi
 spręsti iš naujo šio įstatymo nustatyta tvarka.
      Registruojamos
-politinės partijos ar politinės organizacijos pavadinimas ir  simbolika turi skirtis
-nuo jau registruotų politinių partijų ir politinių ar visuomeninių organizacijų
-pavadinimų ir simbolikos.
+politinės partijos ar politinės organizacijos pavadinimas ir  simbolika turi
+skirtis nuo jau registruotų politinių partijų ir politinių ar visuomeninių
+organizacijų pavadinimų ir simbolikos.
      Apie
 statuto (įstatų), programos pakeitimus politinė partija ar politinė
 organizacija per penkiolika dienų privalo raštu pranešti Teisingumo
@@ -286,7 +292,6 @@ I-787, 95.02.02, Žin., 1995, Nr.18-402 (95.03.01)
 Nr.
 I-953, 95.06.20, Žin., 1995, Nr.55-1354 (95.07.05)
  
- 
      5
 straipsnis. Politinių partijų ir politinių organizacijų veiklos 
                   
@@ -296,21 +301,21 @@ sustabdymas
 Respublikos teisingumo ministerija sustabdo politinės partijos ar politinės
 organizacijos veiklą, jeigu ji pažeidžia Lietuvos Respublikos Konstituciją ar
 šį įstatymą. Dėl politinių partijų ar politinių
-organizacijų veiklos sustabdymo gali kreiptis valstybės ir savivaldos institucijos,
-taip pat kitos politinės partijos ar politinės organizacijos. Kreipimasis dėl
-politinės partijos ar politinės organizacijos veiklos sustabdymo turi būti
-išnagrinėtas ne vėliau kaip per mėnesį nuo jo gavimo dienos. Teisingumo
-ministerija turi teisę sustabdyti politinės partijos ar politinės organizacijos
-veiklą ir savo iniciatyva.
+organizacijų veiklos sustabdymo gali kreiptis valstybės ir savivaldos
+institucijos, taip pat kitos politinės partijos ar politinės organizacijos.
+Kreipimasis dėl politinės partijos ar politinės organizacijos veiklos
+sustabdymo turi būti išnagrinėtas ne vėliau kaip per mėnesį nuo jo gavimo
+dienos. Teisingumo ministerija turi teisę sustabdyti politinės partijos ar
+politinės organizacijos veiklą ir savo iniciatyva.
       Teisingumo
 ministerija, sužinojusi apie įstatymo pažeidimą, apie tai raštu praneša
-politinės partijos ar politinės organizacijos vadovaujantiesiems organams, nurodydama,
-kokie įstatymų reikalavimai pažeisti, ir nustatydama terminą pažeidimams
-pašalinti. Jei nustatytu terminu pažeidimas nepašalinamas, politinės partijos
-ar politinės organizacijos veikla sustabdoma. Teisingumo  ministerija,
-spręsdama, ar  politinė partija,  politinė organizacija nepažeidė Lietuvos
-Respublikos  Konstitucijos ar  šio įstatymo,  turi teisę kreiptis į kitas
-valstybės institucijas ir gauti iš jų išvadas.
+politinės partijos ar politinės organizacijos vadovaujantiesiems organams,
+nurodydama, kokie įstatymų reikalavimai pažeisti, ir nustatydama terminą
+pažeidimams pašalinti. Jei nustatytu terminu pažeidimas nepašalinamas,
+politinės partijos ar politinės organizacijos veikla sustabdoma. Teisingumo 
+ministerija, spręsdama, ar  politinė partija,  politinė organizacija nepažeidė
+Lietuvos Respublikos  Konstitucijos ar  šio įstatymo,  turi teisę kreiptis į
+kitas valstybės institucijas ir gauti iš jų išvadas.
      Rinkiminės
 kampanijos metu politinės partijos ar politinės organizacijos veiklą gali
 sustabdyti tik Vilniaus apygardos teismas, kurio sprendimas įsiteisėja nuo
@@ -339,7 +344,6 @@ Nr.
 I-639, 94.11.08, Žin., 1994, Nr.91-1763 (94.11.25)
 Nr.
 I-953, 95.06.20, Žin., 1995, Nr.55-1354 (95.07.05)
- 
  
      6
 straipsnis. Politinių partijų ir politinių organizacijų veiklos 
@@ -380,7 +384,6 @@ I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
 Nr.
 I-639, 94.11.08, Žin., 1994, Nr.91-1763 (94.11.25)
  
- 
     
 8 straipsnis. Apskundimo tvarka
  
@@ -398,9 +401,9 @@ I-639, 94.11.08, Žin., 1994, Nr.91-1763 (94.11.25)
 Nr.
 I-953, 95.06.20, Žin., 1995, Nr.55-1354 (95.07.05)
  
+ 
      
 III. POLITINIŲ PARTIJŲ IR POLITINIŲ ORGANIZACIJŲ VEIKLOS GARANTIJOS 
- 
  
      9
 straipsnis. Politinių partijų ir politinių organizacijų veikimo 
@@ -425,25 +428,23 @@ pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
  
- 
      10
 straipsnis. Politinės  partijos  ar politinės organizacijos veiklos 
-                   
-apribojimas 
+        
+           apribojimas 
  
     
 Politinių partijų  ir politinių  organizacijų  organizacinė struktūra
 grindžiama tik teritoriniu principu. Darbo kolektyvuose negali būti  steigiami
 ir  veikti politinių  partijų ir politinių organizacijų padaliniai.
-     Lietuvos 
-Respublikos  krašto  apsaugos  karininkai  ir liktiniai, kadriniai vidaus
-reikalų ir valstybės saugumo tarnybų darbuotojai, teisėjai,  prokurorai,
-tardytojai ir  kiti   Lietuvos  Respublikos  įstatymuose nurodyti asmenys
-negali  būti politinių partijų ir politinių organizacijų nariais.
+    
+Lietuvos Respublikos tikrosios karo tarnybos kariai, kadriniai vidaus reikalų
+ir valstybės saugumo tarnybų darbuotojai, teisėjai, prokurorai, tardytojai ir
+kiti Lietuvos Respublikos įstatymuose nurodyti asmenys negali būti politinių
+partijų ir politinių organizacijų nariais.
      Asmenų,
-įstatymo nustatyta tvarka pašauktų atlikti krašto apsaugos tarnybą, Lietuvos
-Respublikos Aukščiausiosios Tarybos ar Vyriausybės paskirtų į pareigas Krašto
-apsaugos ir Valstybės saugumo  departamentuose,  Vidaus  reikalų 
+atliekančių tikrąją karo tarnybą, Lietuvos Respublikos Seimo ar
+Vyriausybės paskirtų į pareigas Valstybės saugumo departamente, Vidaus reikalų
 ministerijoje, Prokuratūroje, taip pat valstybės kontrolės pareigūnų narystė
 politinėje partijoje ar politinėje organizacijoje sustabdoma visam tarnybos ar
 darbo laikui.
@@ -458,16 +459,17 @@ Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
 Nr.
 I-953, 95.06.20, Žin., 1995, Nr.55-1354 (95.07.05)
- 
+Nr.
+VIII-743, 98.05.14, Žin., 1998, Nr.51-1395 (98.06.03)
  
      11
 straipsnis. Politinių partijų ir politinių organizacijų nuosavybė 
  
      Politinėms
-partijoms ir politinėms organizacijoms nuosavybės teise gali priklausyti pastatai,
-įrengimai, leidyklos, spaustuvės, transporto priemonės bei kiti objektai, taip
-pat kitas turtas, reikalingas jų statute (įstatuose) numatytiems uždaviniams
-įgyvendinti.
+partijoms ir politinėms organizacijoms nuosavybės teise gali priklausyti
+pastatai, įrengimai, leidyklos, spaustuvės, transporto priemonės bei kiti
+objektai, taip pat kitas turtas, reikalingas jų statute (įstatuose) numatytiems
+uždaviniams įgyvendinti.
      Politinių
 partijų ir politinių organizacijų nuosavybės teises reglamentuoja Lietuvos
 Respublikos įstatymai.
@@ -483,8 +485,8 @@ dovanotos lėšos ir kitos teisėtai gautos pajamos.
 valdžios   ir  valdymo   organai,  valstybinės įmonės, įstaigos  ir
 organizacijos neturi teisės kokia nors forma ar būdu  finansuoti politinių 
 partijų ir  politinių organizacijų bei jų  padalinių, taip  pat politinėms 
-partijoms ar  politinėms organizacijoms atstovaujančių  Seimo narių ar savivaldybių
-tarybų narių arba jų grupių.
+partijoms ar  politinėms organizacijoms atstovaujančių  Seimo narių ar
+savivaldybių tarybų narių arba jų grupių.
      Politinės
 partijos ir politinės organizacijos negali gauti lėšų ar kitokio turto, kuriuos
 skiria kitų valstybių valdžios bei valdymo organai, valstybinės organizacijos
@@ -506,7 +508,6 @@ pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
  
- 
      12
 straipsnis. Teisė gauti lėšų iš Valstybės biudžeto 
  
@@ -519,7 +520,6 @@ Straipsnio
 pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
- 
  
      13
 straipsnis. Politinių partijų ir politinių organizacijų finansinės     
@@ -538,7 +538,6 @@ pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
  
- 
      14
 straipsnis. Teisė dalyvauti tvarkant valstybinius reikalus 
  
@@ -556,7 +555,6 @@ I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
 Nr.
 I-953, 95.06.20, Žin., 1995, Nr.55-1354 (95.07.05)
  
- 
      15
 straipsnis.Teisė sudaryti politinių partijų ir politinių 
                   
@@ -570,7 +568,6 @@ Straipsnio
 pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
- 
  
      16
 straipsnis. Teisė skleisti informaciją apie politinės partijos ar 
@@ -591,7 +588,6 @@ pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
  
- 
      17
 straipsnis. Teisė organizuoti masinius renginius 
  
@@ -605,15 +601,15 @@ pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
  
- 
      18
 straipsnis. Politinių partijų ir politinių organizacijų atsakomybė 
  
      Politinė 
 partija ar politinė organizacija,  neteisėtais  veiksmais  padariusi
-materialinę ar moralinę žalą valstybei, jos įmonėms, įstaigoms ir organizacijoms,
-piliečiams, kitoms politinėms ar visuomeninėms organizacijoms, privalo iš savo
-turto atlyginti šią žalą Lietuvos Respublikos įstatymų nustatyta tvarka. 
+materialinę ar moralinę žalą valstybei, jos įmonėms, įstaigoms ir
+organizacijoms, piliečiams, kitoms politinėms ar visuomeninėms organizacijoms,
+privalo iš savo turto atlyginti šią žalą Lietuvos Respublikos įstatymų
+nustatyta tvarka. 
  
 Straipsnio
 pakeitimai:
@@ -622,7 +618,6 @@ I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
  
  
 IV. BAIGIAMIEJI NUOSTATAI 
- 
  
      19
 straipsnis. Politinių partijų ir politinių organizacijų 
@@ -638,7 +633,6 @@ Straipsnio
 pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
- 
  
      20
 straipsnis. (Neteko galios). 
