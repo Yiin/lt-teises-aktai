@@ -13,10 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6C28AE400CB"
 
 # Lietuvos Respublikos ryšių įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
-Ramunė Lūžaitė (1997.07.07)
+Ramunė Lūžaitė (1997.10.30)
  
 Įstatymas
 paskelbtas: Žin., 1995, Nr.102-2280
@@ -33,6 +33,14 @@ Nr.
 VIII-279, 97.06.19, Žin., 1997, Nr.64-1506 (97.07.04)
 LIETUVOS
 RESPUBLIKOS RYŠIŲ ĮSTATYMO 5 IR 14 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+ 
+2.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-446,
+97.10.14, Žin., 1997, Nr.98-2476 (97.10.30)
+LIETUVOS RESPUBLIKOS
+RYŠIŲ ĮSTATYMO 6 IR 8 STRAIPSNIŲ PAKEITIMO
  
 ***
 Pabaiga ***
@@ -55,13 +63,12 @@ straipsnis. Įstatymo paskirtis
 asmenų teises ir pareigas valdant, naudojant pašto ir telekomunikacijų
 technines priemones bei disponuojant jomis, įrengiant ir eksploatuojant
 telekomunikacijų tinklus, teikiant  pašto ir  telekomunikacijų paslaugas bei
-naudojantis jomis, taip pat bendrus atsakomybės principus už šio įstatymo
-pažeidimą.
+naudojantis jomis, taip pat bendrus atsakomybės principus už šio įstatymo pažeidimą.
      Tais
 atvejais, kai Lietuvos Respublikos Seimo ratifikuotose tarptautinėse sutartyse 
 yra nustatytos  kitokios nei šiame įstatyme pašto  ir telekomunikacijų  veiklos
-taisyklės, yra taikomos  tarptautinės  sutarties  taisyklės,  jeigu  jos
-neprieštarauja Lietuvos Respublikos Konstitucijai.
+taisyklės, yra taikomos  tarptautinės  sutarties  taisyklės,  jeigu  jos neprieštarauja
+Lietuvos Respublikos Konstitucijai.
  
      2
 straipsnis. Pagrindinės sąvokos
@@ -91,7 +98,7 @@ paštas - pašto paslaugas teikiančios Lietuvos Respublikos valstybės  įmon�
 akcinės bendrovės,  kurių kontroliniai akcijų  paketai priklauso  Lietuvos
 Respublikos valstybės valdžios ir valdymo institucijoms;
      pašto 
-paslaugos  -  laiškų,  atvirukų  (atvirlaiškių), spaudinių, sekogramų,
+paslaugos  -  laiškų,  atvirukų  (atvirlaiškių), spaudinių, sekogramų,
 aerogramų, smulkiųjų paketų, siuntinių priėmimas ar surinkimas, gabenimas ir
 pristatymas, pašto perlaidų priėmimas ir išmokėjimas, pašto kasos (žiro pašto)
 bankinių operacijų atlikimas;
@@ -110,8 +117,8 @@ adresatui;
 siunta - laiškas, atvirukas (atvirlaiškis), spaudinys, sekograma, aerograma,
 smulkus paketas, siuntinys;
      atvirukas
-(atvirlaiškis) - pašto lapelis laiškui, siunčiamas be voko, su užklijuotais
-pašto ženklais ar kitaip pažymėta pašto rinkliava;
+(atvirlaiškis) - pašto lapelis laiškui, siunčiamas be voko, su užklijuotais pašto
+ženklais ar kitaip pažymėta pašto rinkliava;
      laiškas
 -  paštu siunčiamas  rašytinis ar  nerašytinis pranešimas, dedamas į voką su
 užklijuotais pašto ženklais ar kitaip pažymėta pašto rinkliava;
@@ -158,8 +165,8 @@ televizijos ir kt.) bei įrengimo teritoriją, sudaranti galimybes perduoti ir
 priimti informaciją visose vietose, kuriose įrengta prisijungimo prie tinklo
 aparatūra (galiniai telekomunikacijų įrenginiai);
      bendrasis
-telekomunikacijų  tinklas  -  telekomunikacijų tinklas, kurio  paslaugos
-teikiamos  visiems juridiniams ir fiziniams asmenims;
+telekomunikacijų  tinklas  -  telekomunikacijų tinklas, kurio  paslaugos teikiamos 
+visiems juridiniams ir fiziniams asmenims;
      bendrasis
 radijo ryšio tinklas - telekomunikacijų tinklas, skirtas perduoti ir priimti
 pranešimams tarp judančių arba tarp judančių ir stacionarių abonentų, kurio
@@ -195,15 +202,14 @@ perdavimas   gyventojams   naudojant elektromagnetines bangas;
 ir televizijos tinklas - techninių priemonių visuma radijo ir televizijos
 laidoms transliuoti visoje šalyje ar jos dalyje;
      licencija
-- dokumentas, suteikiantis jo gavėjui teisę tam tikrą laiką nustatytoje
-teritorijoje plėtoti dokumente nurodytą veiklą bei nustatantis šios veiklos
-sąlygas;
+- dokumentas, suteikiantis jo gavėjui teisę tam tikrą laiką nustatytoje teritorijoje
+plėtoti dokumente nurodytą veiklą bei nustatantis šios veiklos sąlygas;
      privalomos
 teikti paslaugos - pašto ir telekomunikacijų paslaugos, kurios įmonių įstatuose
 arba veiklos licencijose nurodytos kaip privalomos.
  
-                              
-II skirsnis
+                          
+    II skirsnis
                        
 RYŠIŲ VEIKLOS REGULIAVIMAS
  
@@ -273,37 +279,37 @@ straipsnis. Ryšių ir informatikos ministerija
      1.
 Ryšių ir informatikos ministerija šio ir kitų Lietuvos Respublikos įstatymų 
 yra įgaliota  įgyvendinti  Vyriausybės politiką  ryšių  srityje,  reguliuoti 
-šalyje  pašto  ir telekomunikacijų veiklą. Ji rūpinasi pašto ir telekomunikacijų
-infrastruktūros plėtojimu ir modernizavimu, stengiasi sudaryti visiems
-Lietuvoje esantiems asmenims lygias galimybes naudotis ryšių paslaugomis,
-skatina konkurenciją tarp ryšių paslaugų teikėjų.
+šalyje  pašto  ir telekomunikacijų veiklą. Ji rūpinasi pašto ir
+telekomunikacijų infrastruktūros plėtojimu ir modernizavimu, stengiasi sudaryti
+visiems Lietuvoje esantiems asmenims lygias galimybes naudotis ryšių
+paslaugomis, skatina konkurenciją tarp ryšių paslaugų teikėjų.
      2.
 Ryšių  ir informatikos ministerija , vykdydama jai nustatytas pareigas, privalo
 ir turi teisę:
      1) 
-steigti,  reorganizuoti,  likviduoti  pašto  ir telekomunikacijų  veiklos 
+steigti,  reorganizuoti,  likviduoti  pašto  ir telekomunikacijų  veiklos 
 reguliavimo  bei  telekomunikacijų techninių priemonių  naudojimo  priežiūros 
 institucijas  ir tarnybas, tvirtinti jų įstatus;
      2)
-teikti  Vyriausybei pasiūlymus  finansuoti pašto ir telekomunikacijų 
-infrastruktūros  plėtros  ir  modernizavimo programas, kompensuoti  iš 
-valstybės  biudžeto  nuostolius, atsiradusius teikiant  privalomas pašto  ir telekomunikacijų
+teikti  Vyriausybei pasiūlymus  finansuoti pašto ir telekomunikacijų  infrastruktūros 
+plėtros  ir  modernizavimo programas, kompensuoti  iš  valstybės  biudžeto 
+nuostolius, atsiradusius teikiant  privalomas pašto  ir telekomunikacijų
 paslaugas, taip  pat suteikti valstybės pašto ir valstybės telekomunikacijų
 įmonių paskolų garantijas;
      3)
 sudaryti  bendrojo naudojimo telekomunikacijų tinklų numeracijos  planus  ir 
 skirti  telekomunikacijų  tinklams atitinkamus numerius;  išduoti arba pavesti
-telekomunikacijų veiklos reguliavimo bei telekomunikacijų techninių priemonių
-naudojimo priežiūros institucijoms ir tarnyboms išduoti leidimus naudoti
-telekomunikacijų technines priemones ir radijo dažnius spinduliuojančius ar
-galinčius spinduliuoti įrenginius;
+telekomunikacijų veiklos reguliavimo bei telekomunikacijų techninių priemonių naudojimo
+priežiūros institucijoms ir tarnyboms išduoti leidimus naudoti telekomunikacijų
+technines priemones ir radijo dažnius spinduliuojančius ar galinčius
+spinduliuoti įrenginius;
      4)
 nustatyti juridinių ir fizinių asmenų, teikiančių pašto ir telekomunikacijų 
 paslaugas bei įrengiančių, plėtojančių, prižiūrinčių ir naudojančių
 telekomunikacijų technines priemones, kvalifikacijos ir jų veikloje naudojamos
 įrangos reikalavimus, taip pat šių asmenų atestavimo tvarką;
      5) 
-kontroliuoti  vartotojams  teikiamų  pašto  ir telekomunikacijų paslaugų
+kontroliuoti  vartotojams  teikiamų  pašto  ir telekomunikacijų paslaugų
 kokybę, tikrinti bendrųjų ir su jais sujungtų telekomunikacijų tinklų
 techninius parametrus;
      6)
@@ -345,15 +351,20 @@ VIII-279, 97.06.19, Žin., 1997, Nr.64-1506 (97.07.04)
      6
 straipsnis. Ryšių veiklos licencijavimas
  
-     1. 
-Ryšių  ir  informatikos  ministerija  pašto  ir telekomunikacijų veiklos 
-licencijas išduoda Įmonių įstatymo nustatyta tvarka. Remiantis Žyminio mokesčio
-įstatymu, už išduotą licenciją mokamas Vyriausybės nustatytas žyminis mokestis.
+     1.
+Ryšių ir informatikos ministerija telekomunikacijų veiklos licencijas išduoda
+Įmonių įstatymo nustatyta tvarka. Remiantis Žyminio mokesčio įstatymu, už
+išduotą licenciją mokamas Vyriausybės nustatytas žyminis mokestis.
      2.
 Licencijose  nustatytos veiklos  sąlygos gali  būti keičiamos Ryšių  ir
-informatikos ministerijos ar licencijos savininko iniciatyva, esant abipusiam sutarimui.
-Jei licencijos savininkas nesutinka  su Ryšių ir informatikos ministerijos
-siūlomais licencijos sąlygų pakeitimais, ginčą sprendžia teismas.
+informatikos ministerijos ar licencijos savininko iniciatyva, esant abipusiam
+sutarimui. Jei licencijos savininkas nesutinka  su Ryšių ir informatikos
+ministerijos siūlomais licencijos sąlygų pakeitimais, ginčą sprendžia teismas.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-446,
+97.10.14, Žin., 1997, Nr.98-2476 (97.10.30)
  
      7
 straipsnis. Kainos ir tarifai
@@ -371,16 +382,16 @@ tarifus nustato Ryšių ir informatikos ministerija.
  
                               
 III skirsnis
-                                 
-PAŠTAS
+                            
+     PAŠTAS
  
      8
 straipsnis. Valstybės pašto išimtinės teisės ir pareigos
  
      1.
-Valstybės pašto išimtinė teisė ir pareiga yra surinkti ir pristatyti laiškus, 
-atvirukus  (atvirlaiškius),  spaudinius, pristatyti pensijas bei teikti kitas
-pašto paslaugas, nustatytas Įmonių įstatyme.
+Valstybės pašto išimtinė teisė ir pareiga yra surinkti ir pristatyti laiškus,
+atvirukus (atvirlaiškius), spaudinius, pristatyti pensijas bei priimti ir
+išmokėti pinigines pašto perlaidas, teikti pašto kasos (žiro pašto) paslaugas.
      Ribinį
 maksimalų socialinio draudimo pensijų pristatymo mokestį nustato Vyriausybė.
      2.
@@ -396,6 +407,11 @@ kitur naudoti užrašą ,Lietuvos paštas";
      4)
 naudoti ir leisti kitoms įmonėms naudoti pašto paslaugų apmokėjimo ženklinimo
 priemones.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-446,
+97.10.14, Žin., 1997, Nr.98-2476 (97.10.30)
  
      9
 straipsnis. Valstybės pašto siuntų pervežimas
@@ -432,9 +448,9 @@ gyvenamosios vietos miestuose ir 500 m - kaimuose. Į šias spintas pašto siunt
 pristatomos tik tais atvejais, kai abonentui ne rečiau kaip tris kartus per
 savaitę yra siunčiami periodiniai leidiniai.
      6.
-Pašto  siuntų pristatymas  namų valdų  savininkams, nevykdantiems šio straipsnio
-trečiosios ir ketvirtosios dalių reikalavimų, ir gyventojams, neįsirengusiems
-abonentinių dėžučių, gali būti nutrauktas.
+Pašto  siuntų pristatymas  namų valdų  savininkams, nevykdantiems šio
+straipsnio trečiosios ir ketvirtosios dalių reikalavimų, ir gyventojams,
+neįsirengusiems abonentinių dėžučių, gali būti nutrauktas.
      7.
 Jei pašto siuntos gavėjas per 30 dienų nesumoka siuntos išpirkos mokesčio ar
 kitos pašto rinkliavos, paštas gali parduoti siuntą, o gautas lėšas Finansų
@@ -524,11 +540,10 @@ pakeitimai:
 Nr.
 VIII-279, 97.06.19, Žin., 1997, Nr.64-1506 (97.07.04)
  
- 
      15
 straipsnis. Telekomunikacijų techninių priemonių įvežimas,
-                   
-gaminimas, pardavinėjimas ir naudojimas
+                
+   gaminimas, pardavinėjimas ir naudojimas
  
      1. 
 Telekomunikacijų  techninių  priemonių  įvežimas (atsiuntimas) iš  užsienio,
@@ -625,9 +640,9 @@ Telekomunikacijų  tinklų apsaugos zoną sudaro žemės ruožas, esantis  iš
 telekomunikacijų  linijų ir aplink telekomunikacijų objektus,  su jame
 esančiais augmenimis ir statiniais. Šioje  zonoje draudžiama keisti žemės
 paskirtį, statyti pastatus ar kitus statinius, laikyti įrenginius ir medžiagas,
-kasinėti, daryti gręžinius, sprogdinti ir atlikti kitus darbus,  kurių metu  ar
-dėl  jų gali būti pažeisti telekomunikacijų statiniai,  be išankstinio  telekomunikacijų
-linijų ir (arba) objektų savininkų sutikimo.
+kasinėti, daryti gręžinius, sprogdinti ir atlikti kitus darbus,  kurių metu  ar
+dėl  jų gali būti pažeisti telekomunikacijų statiniai,  be išankstinio 
+telekomunikacijų linijų ir (arba) objektų savininkų sutikimo.
      2.
 Apsaugos zonų matmenys, jų žymėjimo būdai, darbų jose tvarka nustatoma 
 Vyriausybės patvirtintose  telekomunikacijų tinklų apsaugos taisyklėse.
@@ -663,8 +678,8 @@ ir tvarka.
  
      21
 straipsnis. Telekomunikacijų techninėmis priemonėmis perduodamų
-               
-    pranešimų slaptumas
+                   
+pranešimų slaptumas
  
      1. 
 Telekomunikacijų  įmonių  darbuotojams  draudžiama atskleisti neįgaliotiems
@@ -701,9 +716,8 @@ straipsnis. Įėjimo teisė
  
      1.
 Telekomunikacijų įmonės raštu įgaliotas asmuo, iš anksto perspėjęs žemės valdos
-savininką, gali įeiti į šią valdą (jei ji neužstatyta pastatais,  nenaudojama
-kaip  sodas ar  pramogų aikštelė) telekomunikacijų įrenginių projektiniams
-tyrimams.
+savininką, gali įeiti į šią valdą (jei ji neužstatyta pastatais,  nenaudojama kaip 
+sodas ar  pramogų aikštelė) telekomunikacijų įrenginių projektiniams tyrimams.
      2.
 Paštai ir telekomunikacijų įmonės turi teisę įrengti ir prižiūrėti abonentines
 pašto dėžutes bei dėžutes laiškams ir telekomunikacijų technines priemones
@@ -716,7 +730,8 @@ nuostolius.
      3.
 Į Krašto apsaugos ir Vidaus reikalų ministerijoms bei jų struktūroms
 priklausančias žemės valdas telekomunikacijų įmonės atstovai gali įeiti šių
-ministerijų bei Ryšių ir informatikos ministerijos bendro įsakymo nustatyta tvarka.
+ministerijų bei Ryšių ir informatikos ministerijos bendro įsakymo nustatyta
+tvarka.
  
      23
 straipsnis. Informavimo pareiga
@@ -763,5 +778,5 @@ Pripažinti netekusiu galios 1991 m. gegužės 30 d. Lietuvos Respublikos ryši�
  
  
 RESPUBLIKOS
-PREZIDENTAS       ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                               ALGIRDAS BRAZAUSKAS
 
