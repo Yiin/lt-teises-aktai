@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.708F524D8B62"
 
 # Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 1998-05-13 iki 2005-03-04
+Suvestinė redakcija nuo 2005-03-05 iki 2010-02-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1528, i. k. 0951010ISTA000I-996
  
@@ -44,10 +44,12 @@ I. BENDROSIOS NUOSTATOS
 2 straipsnis
 
 
-Šio įstatymo paskirtis – ginti tauriųjų metalų ir brangakmenių vartotojų teises, saugoti jų bei valstybės interesus gaminant, perdirbant, superkant, realizuojant, naudojant, saugant ir pervežant, taip pat eksportuojant ir importuojant tauriuosius metalus bei brangakmenius.
+Šio įstatymo paskirtis – ginti tauriųjų metalų ir brangakmenių vartotojų teises, saugoti jų bei valstybės interesus gaminant, perdirbant, superkant, realizuojant, naudojant, saugant ir pervežant, taip pat išvežant ir įvežant tauriuosius metalus bei brangakmenius.
+
+
+Straipsnio pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
  
-
-
 
 
 
@@ -105,7 +107,10 @@ praba – Tarptautinės standartizacijos organizacijos (ISO) arba valstybės nus
 
 
 
-tauriųjų metalų ir brangakmenių valstybinė priežiūra – organizacinių-techninių ir teisinių priemonių sistema, užtikrinanti tauriųjų metalų ir brangakmenių gamybos, perdirbimo, supirkimo ir realizavimo, naudojimo, saugojimo ir pervežimo, taip pat tauriųjų metalų bei brangakmenių eksporto ir importo valstybinę kontrolę;
+tauriųjų metalų ir brangakmenių valstybinė priežiūra – organizacinių-techninių ir teisinių priemonių sistema, užtikrinanti tauriųjų metalų ir brangakmenių gamybos, perdirbimo, supirkimo ir realizavimo, naudojimo, saugojimo ir pervežimo, taip pat tauriųjų metalų bei brangakmenių išvežimo ir įvežimo valstybinę kontrolę;
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 
@@ -120,12 +125,18 @@ Lietuvos valstybinis kontrolinis prabavimo ženklas – nustatytas vieno pavyzd�
 
 
 
-ūkio subjektai – juridiniai asmenys, įmonės, neturinčios juridinio asmens teisių, ir fiziniai asmenys, užsiimantys visokia komercine-ūkine veikla, susijusia su tauriaisiais metalais, brangakmeniais bei jų gaminiais, nesvarbu, kokia nuosavybės forma ir įmonės rūšis;
+ūkio subjektas – Lietuvos Respublikoje įsteigtas ir veikiantis juridinis asmuo, užsienio juridinis asmuo ar jo padalinys, taip pat fizinis asmuo, kurie Lietuvos Respublikos teisės aktų nustatyta tvarka verčiasi ūkine komercine veikla, susijusia su tauriaisiais metalais ir brangakmeniais;
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 
 
-gamintojo ženklas – specialus simbolis ar abreviatūra, patvirtinanti gaminių iš tauriųjų metalų gamintoją;
+atsakomybės ženklas – specialus simbolis ar abreviatūra, patvirtinanti asmenį, pateikusį gaminį į rinką;
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 
@@ -140,12 +151,39 @@ tauriųjų metalų ir brangakmenių gaminiai – juvelyriniai gaminiai su branga
 
 
 
-remediumas – leistinas nukrypimas praboje;
+18. Neteko galios nuo 2005-03-05
+Straipsnio dalies naikinimas:
+Nr. X-114, 2005-02-15, Žin. 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 
 
-kokybės pažymėjimas – dokumentas, patvirtinantis tauriųjų metalų prabą, masę, kiekį bei brangakmenių tapatybę ir charakteristikas.
+kokybės pažymėjimas – dokumentas, patvirtinantis tauriųjų metalų prabą, masę, kiekį bei brangakmenių tapatybę ir charakteristikas;
+
+
+
+
+bendrasis kontrolės ženklas – ženklas, numatytas Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijoje; 
+Papildyta straipsnio dalimi:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
+
+
+
+
+įvežimas – tauriųjų metalų ir brangakmenių gaminių įvežimas į Lietuvos Respubliką; 
+Papildyta straipsnio dalimi:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
+
+
+
+
+išvežimas – tauriųjų metalų ir brangakmenių gaminių išvežimas iš Lietuvos Respublikos.
+Papildyta straipsnio dalimi:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 Straipsnio pakeitimai:
@@ -158,17 +196,17 @@ Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010IS
 4 straipsnis
 
 
-l. Visi tauriųjų metalų ir brangakmenių gaminiai, skirti realizuoti Lietuvos Respublikoje ar eksportui, taip pat importuojami į Lietuvos Respubliką, turi atitikti šio įstatymo nustatytas prabas. Tauriųjų metalų ir brangakmenių gaminiuose turi būti įspauduotas Lietuvos valstybinis kontrolinis prabavimo ženklas, praba, gamintojo ženklas ir pagaminimo metų šifras arba šie gaminiai turi turėti kokybės pažymėjimą.
+1. Visi tauriųjų metalų ir brangakmenių gaminiai, skirti realizuoti Lietuvos Respublikoje, taip pat įvežti į Lietuvos Respubliką, turi atitikti šio įstatymo nustatytas prabas. Tauriųjų metalų ir brangakmenių gaminiuose turi būti įspauduotas Lietuvos valstybinis kontrolinis prabavimo ženklas, praba, atsakomybės ženklas, išskyrus šio įstatymo 17 straipsnio 2 dalyje nurodytus atvejus, o Lietuvoje pagamintuose gaminiuose – ir pagaminimo metų šifras.
 
 
 
 
-2. Jeigu yra Lietuvos Respublikos tarptautinė sutartis ar susitarimas dėl abipusio įspaudavimo bei kokybės pažymėjimo pripažinimo, tauriųjų metalų ir brangakmenių gaminiai iš susitarusiųjų šalių gali būti eksportuojami arba importuojami be papildomo kontrolinio įspaudavimo bei kokybės pažymėjimo. Taurieji metalai ir brangakmeniai, kurie laikinai įvežti į Lietuvos Respubliką perdirbti ir kuriuos numatoma reeksportuoti pakeitus jų pavidalą, reeksportuojami be papildomo kontrolinio įspaudavimo. Reeksportuojami tauriųjų metalų ir brangakmenių gaminiai turi turėti Lietuvos prabavimo rūmų išduotą kokybės pažymėjimą.
-Straipsnio dalies pakeitimai:
-Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+2. Jeigu yra Lietuvos Respublikos tarptautinė sutartis ar susitarimas dėl abipusio įspaudavimo bei kokybės pažymėjimo pripažinimo, tauriųjų metalų ir brangakmenių gaminiai iš susitarusiųjų šalių gali būti išvežami arba į jas įvežami be papildomo kontrolinio įspaudavimo ir kokybės pažymėjimo. Taurieji metalai ir brangakmeniai, kurie yra laikinai įvežti į Lietuvos Respubliką perdirbti ir kuriuos numatoma išvežti pakeitus jų pavidalą, išvežami be papildomo kontrolinio įspaudavimo.
+
+
+Straipsnio pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
  
-
-
 
 
 
@@ -195,7 +233,9 @@ Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010IS
 
 
 
-2. Ūkio subjektai, gaminantys tauriųjų metalų ir brangakmenių gaminius, privalo turėti gamintojo ženklą, kuris registruojamas Lietuvos prabavimo rūmuose.
+2. Ūkio subjektai, pateikiantys rinkai tauriųjų metalų ir brangakmenių gaminius, privalo turėti atsakomybės ženklą, kuris registruojamas Lietuvos prabavimo rūmuose.
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
  
 
 
@@ -242,34 +282,30 @@ l) platinos – 950;
 
 
 
-3. Naujiems gaminiams bei skirtiems eksportui, taip pat importuojamiems tauriųjų metalų gaminiams nustatomos šios prabos:
+3. Naujiems gaminiams bei skirtiems išvežti, taip pat įvežamiems tauriųjų metalų gaminiams nustatomos šios prabos:
 
 
-1) platinos – 850o, 900o, 950, 999o;
-
-
-
-
-2) aukso – 375, 585, 750, 916o, 999o;
+1) platinos – 850o, 900o, 950º, 999o;
 
 
 
 
-3) sidabro – 800, 830, 925, 999o;
+2) aukso – 375º, 585º, 750º, 916o, 999o;
 
 
 
 
-4) paladžio – 500, 850, 950o, 999o.
+3) sidabro – 800º, 830º, 925º, 999o;
 
 
 
 
-Tarptautinė standartizacijos organizacija nurodo šių prabų remediumą.
+4) paladžio – 500º, 850º, 950o, 999.o
 
 
 Straipsnio dalies pakeitimai:
 Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
  
 
 
@@ -341,14 +377,15 @@ Lietuvos prabavimo rūmai prabuoja ir įspauduoja tauriųjų metalų ir brangakm
 
 
 
-9 straipsnis 
+9 straipsnis
 
 
-Tauriųjų metalų ir brangakmenių gaminiai atitinka prabą, jei santykinis gryno aukso, sidabro, platinos ar paladžio kiekis juose atsižvelgiant į remediumą yra ne mažesnis kaip nurodyta praboje. Jei šis kiekis mažesnis, gaminys yra laikomas nustatytos iš eilės einančios žemesnės prabos, kuria ir yra įspauduojamas.
+Tauriųjų metalų ir brangakmenių gaminiai atitinka prabą, jei santykinis gryno aukso, sidabro, platinos ar paladžio kiekis juose yra ne mažesnis kaip nurodyta praboje. Jei šis kiekis mažesnis, gaminys yra laikomas nustatytos iš eilės einančios žemesnės prabos, kuria ir yra įspauduojamas.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
  
 
 
@@ -415,12 +452,18 @@ l. Lietuvos valstybinio kontrolinio prabavimo ženklo pavyzdį tvirtina Lietuvos
 3. Lietuvos prabavimo rūmai turi išimtinę teisę:
 
 
-1) užsakyti pagaminti Lietuvos valstybinį kontrolinį prabavimo ženklą ir prabų įspaudus;
+1) užsakyti pagaminti Lietuvos valstybinį kontrolinį prabavimo ženklą ir prabų įspaudus bei bendrąjį kontrolės ženklą;
+Straipsnio punkto pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 
 
-2) įspausti Lietuvos valstybinį kontrolinį prabavimo ženklą ir prabą;
+2) įspausti Lietuvos valstybinį kontrolinį prabavimo ženklą ir prabą bei bendrąjį kontrolės ženklą;
+Straipsnio punkto pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 
@@ -449,12 +492,18 @@ Lietuvos valstybinis kontrolinis prabavimo ženklas ir kiti įspaudai įspaudži
 15 straipsnis
 
 
-l. Lietuvos valstybinio kontrolinio prabavimo ženklo ir prabos įspaudai įspaudžiami mechaniniu būdu, o gamintojo ženklai ir pagaminimo metų šifras – liejimo ar mechaniniu būdu. Įspauduose vartojami arabiški skaitmenys.
+1. Lietuvos valstybinio kontrolinio prabavimo ženklo ir prabos įspaudai įspaudžiami mechaniniu ar lazeriniu būdu, o atsakomybės ženklai ir pagaminimo metų šifras – mechaniniu, liejimo ar graviravimo būdu. Įspauduose vartojami arabiški skaitmenys. Tarptautinėse sutartyse numatytiems ženklams įspausti naudojami tose sutartyse nustatyti būdai.
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 
 
-2. Gamintojas įspaudžia gamintojo ženklą ir pagaminimo metų šifrą, kurį nustato Lietuvos prabavimo rūmai.
+2. Gamintojas, prieš pateikdamas gaminius prabuoti, įspaudžia savo atsakomybės ženklą ir pagaminimo metų šifrą, kurį nustato Lietuvos prabavimo rūmai, o asmuo, įvežantis gaminius iš užsienio, – tik savo atsakomybės ženklą.
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 
@@ -512,20 +561,24 @@ Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010IS
 
 
 
-III. TAURIŲJŲ METALŲ IR BRANGAKMENIŲ GAMINIŲ IMPORTAS
-IR EKSPORTAS, REALIZAVIMAS BEI PERDIRBIMAS
+III.TAURIŲJŲ METALŲ IR BRANGAKMENIŲ GAMINIŲ ĮVEŽIMAS IR IŠVEŽIMAS, REALIZAVIMAS BEI PERDIRBIMAS
+Pakeistas skyriaus pavadinimas:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
  
 
 
 17 straipsnis
 
 
-l. Į Lietuvos Respubliką importuoti tauriųjų metalų ir brangakmenių gaminiai turi būti įspauduojami Lietuvos valstybiniu kontroliniu prabavimo ženklu. Turi būti patikrinta brangakmenių gaminių tapatybė ir charakteristikos bei išduoti kokybės pažymėjimai. Importuojantys ūkio subjektai pateikia šiuos gaminius Lietuvos prabavimo rūmams kokybės pažymėjimui gauti, prabuoti bei įspauduoti.
+1. Į Lietuvos Respubliką įvežti tauriųjų metalų ir brangakmenių gaminiai turi būti įspauduojami Lietuvos valstybiniu kontroliniu prabavimo ženklu. Turi būti patikrinta brangakmenių gaminių tapatybė ir charakteristikos bei išduoti kokybės pažymėjimai. Įvežantys ūkio subjektai pateikia tauriuosius metalus bei neįtvirtintus brangakmenius Lietuvos prabavimo rūmams kokybės pažymėjimui gauti, o tauriųjų metalų gaminius – prabuoti bei įspauduoti.
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 
 
-2. Be Lietuvos prabavimo rūmų kontrolinio įspaudavimo ar kokybės pažymėjimo gali būti realizuojami tauriųjų metalų ir brangakmenių gaminiai:
+2. Tauriųjų metalų ir brangakmenių gaminiai be Lietuvos prabavimo rūmų kontrolinio įspaudavimo ar kokybės pažymėjimo gali būti realizuojami:
 
 
 1) jeigu įvežanti šalis yra pasirašiusi su Lietuvos Respublika tarptautinę sutartį ar susitarimą dėl įspaudavimo ir kokybės pažymėjimo abipusio pripažinimo;
@@ -533,16 +586,31 @@ l. Į Lietuvos Respubliką importuoti tauriųjų metalų ir brangakmenių gamini
 
 
 
-2) monetos, ordinai, garbės ženklai, prizai, išgraviruotos asmeninės dovanos, tauriųjų metalų ir brangakmenių gaminių siuntos bei prekės, gabenamos tranzitu.
+2) jeigu tauriųjų metalų ir brangakmenių gaminiai, įvežami iš kitos valstybės – priklausančios Europos ekonominei erdvei ir Turkijos, kuriose juos leidžiama teikti rinkai, – yra patikrinti ir paženklinti įgaliotos ir nepriklausomos institucijos, turi savo gaminyje įspaustą toje valstybėje registruotą atsakomybės ženklą;
 
 
 
 
+3) jeigu tauriųjų metalų gaminiai paženklinti bendruoju kontrolės ženklu pagal Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos reikalavimus;
 
 
-3. Lietuvos Respublikoje draudžiama realizuoti reeksportui skirtus tauriuosius metalus ir brangakmenius, kurie laikinai įvežti į Lietuvos Respubliką perdirbti ar pavidalui pakeisti.
+
+
+4) monetos, ordinai, garbės ženklai, prizai, išgraviruotos asmeninės dovanos.
+
+
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
+
+
+
+
+3. Lietuvos Respublikoje draudžiama realizuoti išvežimui skirtus tauriuosius metalus ir brangakmenius, kurie laikinai įvežti į Lietuvos Respubliką perdirbti ar pavidalui pakeisti.
 Papildyta straipsnio dalimi:
 Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
  
 
 
@@ -553,7 +621,10 @@ Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010IS
 18 straipsnis
 
 
-1. Visi importuojami ar eksportuojami tauriųjų metalų ir brangakmenių gaminiai turi atitikti šio įstatymo reikalavimus.
+1. Visi įvežami ar išvežami tauriųjų metalų ir brangakmenių gaminiai turi atitikti šio įstatymo reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 
@@ -639,7 +710,9 @@ Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010IS
 
 
 
-3. Lietuvos prabavimo rūmai atleidžiami nuo palūkanų už valstybinį kapitalą mokėjimo.
+3. Neteko galios nuo 2005-03-05.
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
  
 
 
@@ -673,7 +746,10 @@ Lietuvos prabavimo rūmai:
 
 
 
-5) atlieka tauriųjų metalų, brangakmenių, tauriųjų metalų ir brangakmenių gaminių, pagamintų Lietuvoje ar importuotų, kontrolinę analizę, prabavimą, nustato brangakmenių tapatybę ir charakteristikas;
+5) atlieka tauriųjų metalų, brangakmenių, tauriųjų metalų ir brangakmenių gaminių, pagamintų Lietuvoje ar įvežtų į Lietuvos Respubliką, kontrolinę analizę, prabavimą, vertinimą, nustato brangakmenių tapatybę ir charakteristikas;
+Straipsnio punkto pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+ 
 
 
 
@@ -714,7 +790,9 @@ l. Lietuvos prabavimo rūmų vadovas kartu yra ir Lietuvos Respublikos vyriausia
 
 
 
-2. Specialistai yra tauriųjų metalų ir brangakmenių valstybinės priežiūros pareigūnai.
+2. Specialistai yra tauriųjų metalų ir brangakmenių valstybinės priežiūros pareigūnai, taip pat tauriųjų metalų ir brangakmenių bei jų gaminių vertintojai.
+Straipsnio dalies pakeitimai:
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
  
 
 
@@ -855,3 +933,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
 Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo 3, 4, 6, 7, 9, 10, 11, 12, 16, 17, 18, 22, 23, 25, 26 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo 2, 3, 4, 6, 7, 9, 13, 15, 17, 18, 22, 23, 24 straipsnių ir III skyriaus pavadinimo pakeitimo įstatymas
