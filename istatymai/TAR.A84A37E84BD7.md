@@ -28,11 +28,11 @@ Vilnius
 
 
  
- (Žin., 1996, Nr.102-2319, Nr.121-2849, 2852; 1997,
-Nr.91-2272)
+ (Žin., 1996, Nr.102-2319, Nr.121-2849, 2852; 1997, Nr.91-2272)
  
-1 straipsnis.
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 
+1
+straipsnis. Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos
+įstatymo 
 nauja redakcija
 Pakeisti
 Lietuvos nacionalinio radijo ir televizijos įstatymą ir jį išdėstyti taip:
@@ -43,12 +43,12 @@ LIETUVOS
 NACIONALINIO RADIJO IR TELEVIZIJOS 
 į s t a t y m a s
  
-I SKYRIUS
+I
+SKYRIUS
 BENDROSIOS
 NUOSTATOS
  
-1
-straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 1.
 Šis įstatymas nustato Lietuvos nacionalinio radijo ir televizijos (santrumpa -
 LRT) steigimo, valdymo, veiklos, reorganizavimo ir likvidavimo tvarką, LRT
@@ -58,8 +58,8 @@ LRT savo veiklą grindžia Visuomenės informavimo įstatymu, Viešųjų įstaig
 įstatymu, kitais teisės aktais, jeigu šis įstatymas nenustato kitaip, taip pat
 savo įstatais.
  
-2 straipsnis.
-LRT samprata ir statusas
+2
+straipsnis. LRT samprata ir statusas
 1.
 LRT - valstybei nuosavybės teise priklausanti viešoji ne pelno institucija.
 2.
@@ -108,8 +108,8 @@ Nr. VIII-2070,
 Nr. IX-155,
 2001 01 25, Žin., 2001, Nr. 16-491 (2001 02 21)
  
-5 straipsnis.
-LRT teisės ir pareigos 
+5
+straipsnis. LRT teisės ir pareigos 
 1.
 LRT yra Seimo įsteigto Lietuvos radijo ir televizijos teisių ir pareigų
 perėmėja. Negali būti jokių kitų LRT dalininkų. LRT visuotinio susirinkimo
@@ -156,8 +156,8 @@ LRT sudaro sąlygas darbuotojams kelti kvalifikaciją.
 LRT naudojamuose kanaluose neleidžiama veikti kitoms radijo ir televizijos
 stotims be Tarybos leidimo.
  
-6 straipsnis.
-Reklama LRT programose
+6
+straipsnis. Reklama LRT programose
 1.
 Reklama LRT programose transliuojama įstatymų nustatyta tvarka.
 2.
@@ -191,13 +191,14 @@ Straipsnio pakeitimai:
 Nr. VIII-2070,
 2000 10 17, Žin., 2000, Nr. 94-2919 (2000 11 03)
  
-7 straipsnis.
-LRT programų rėmimas
+7
+straipsnis. LRT programų rėmimas
 LRT
 programos gali būti remiamos Visuomenės informavimo įstatymo nustatyta tvarka. 
  
-8 straipsnis.
-LRT veiklos reikalavimai darbuotojų streikų ar ypatingų situacijų metu
+8
+straipsnis. LRT veiklos reikalavimai darbuotojų streikų ar ypatingų situacijų
+metu
 1.
 Streikuojant LRT darbuotojams, radijas ir televizija privalo užtikrinti
 klausytojams ir žiūrovams Tarybos nustatytą informacijos minimumą.
@@ -206,12 +207,13 @@ Gaivalinių nelaimių, epidemijų, nepaprastosios ar karo padėties atveju LRT
 privalo skelbti Respublikos Prezidento, Seimo, Vyriausybės, Konstitucinio
 Teismo, Generalinės prokuratūros oficialius pranešimus.
  
-II SKYRIUS
+II
+SKYRIUS
 LIETUVOS
 NACIONALINIO RADIJO IR TELEVIZIJOS VALDYMAS
  
-9 straipsnis.
-LRT taryba
+9
+straipsnis. LRT taryba
 1. LRT valdymo
 organai yra Taryba ir administracija.
 2.
@@ -253,15 +255,15 @@ Pasibaigus kurio nors Tarybos nario įgaliojimų laikui, šis Tarybos narys gali
 būti pakartotinai skiriamas į Tarybą su sąlyga, jeigu dėl tokio paskyrimo
 nesusidaro daugiau kaip dvi kadencijos iš eilės.
 7.
-Kai Taryboje atsiranda laisva vieta, Tarybos pirmininkas kreipiasi į instituciją,
-paskyrusią ar delegavusią trūkstamą Tarybos narį, prašydamas paskirti naują
-Tarybos narį iki kadencijos, kuriai buvo paskirtas atsistatydinęs ar atšauktas
-Tarybos narys, pabaigos.
+Kai Taryboje atsiranda laisva vieta, Tarybos pirmininkas kreipiasi į
+instituciją, paskyrusią ar delegavusią trūkstamą Tarybos narį, prašydamas
+paskirti naują Tarybos narį iki kadencijos, kuriai buvo paskirtas
+atsistatydinęs ar atšauktas Tarybos narys, pabaigos.
 8.
-Taryba turi teisę atsistatydinti nepasibaigus kadencijai. Jeigu Taryba
-atsistatydina, Tarybos ir visų jos narių įgaliojimai nutrūksta naujai sudarytai
-Tarybai susirinkus į pirmąjį posėdį. Tarybos atsistatydinimo atveju šio
-straipsnio 7 dalies nuostata netaikoma.
+Taryba turi teisę atsistatydinti nepasibaigus kadencijai. Jeigu Taryba atsistatydina,
+Tarybos ir visų jos narių įgaliojimai nutrūksta naujai sudarytai Tarybai
+susirinkus į pirmąjį posėdį. Tarybos atsistatydinimo atveju šio straipsnio 7
+dalies nuostata netaikoma.
 9.
 Kai Taryba atsistatydina, Seimo Švietimo, mokslo ir kultūros komitetas ne
 vėliau kaip per 10 dienų kreipiasi į institucijas, paskyrusias ar delegavusias
@@ -346,8 +348,8 @@ Jei generalinis direktorius nesutinka su Tarybos nutarimu, jis gali kreiptis į
 Tarybą su motyvuotu prašymu persvarstyti nutarimą, išskyrus Tarybos nutarimą
 dėl Tarybos atsistatydinimo. Taryba privalo ne vėliau kaip per 10 dienų
 svarstyti generalinio direktoriaus prašymą. Pakartotinai balsavus už tą patį
-nutarimą daugiau kaip pusei visų Tarybos narių, generalinis direktorius nutarimą
-privalo vykdyti.
+nutarimą daugiau kaip pusei visų Tarybos narių, generalinis direktorius
+nutarimą privalo vykdyti.
 5.
 Taryba turi teisę siųsti savo atstovus į LRT administracijos bei
 Administracinės komisijos posėdžius, taip pat gauti iš LRT administracijos,
@@ -430,8 +432,8 @@ atsiskaito Tarybai LRT įstatų nustatyta tvarka.
 straipsnis. Generalinis direktorius
 1.
 LRT vadovauja ir atstovauja generalinis direktorius. Generalinis direktorius
-atsako už LRT veiklą, LRT parengtas ir transliuojamas programas, taip pat už Tarybos
-nutarimų įgyvendinimą.
+atsako už LRT veiklą, LRT parengtas ir transliuojamas programas, taip pat už
+Tarybos nutarimų įgyvendinimą.
 2.
 Generalinį direktorių viešo konkurso būdu 5 metams skiria Taryba daugiau kaip
 pusės visų Tarybos narių balsų dauguma. Negavus tokio balsų skaičiaus,
@@ -476,7 +478,8 @@ posėdžiuose.
 Generalinis direktorius rengia ir teikia Tarybai tvirtinti metinę LRT veiklos
 ataskaitą. 
  
-III SKYRIUS
+III
+SKYRIUS
 LIETUVOS
 NACIONALINIO RADIJO IR TELEVIZIJOS TURTAS, 
 FINANSINĖ IR ŪKINĖ VEIKLA
@@ -524,10 +527,9 @@ straipsnis. LRT reorganizavimas ir likvidavimas
 LRT
 reorganizuojama ar likviduojama Lietuvos Respublikos įstatymu.“
  
-2
-straipsnis. Baigiamosios nuostatos
+2 straipsnis. Baigiamosios nuostatos
 1.
-LRT finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2005 m. sausio 1 d.
+LRT finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2006 m. sausio 1 d.
 2.
 LRT administracinė komisija įsteigiama ne vėliau kaip per 1 mėnesį po šio
 įstatymo nustatytos finansavimo tvarkos įsigaliojimo.
@@ -544,6 +546,8 @@ Nr. IX-1273,
 Nr.
 IX-1893,
 2003-12-11, Žin., 2003, Nr. 123-5578 (2003-12-30)
+Nr. X-63, 2004-12-22, Žin., 2004, Nr. 188-6996
+(2004-12-31)
  
  
 Vadovaudamasis
@@ -583,8 +587,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-137,
 2000 12 23, Žin., 2000, Nr. 111-3587 (2000 12 29)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 
-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -599,8 +603,7 @@ Lietuvos Respublikos Seimas,
 Nr. IX-695,
 2001-12-21, Žin., 2002, Nr. 2-52 (2002-01-09)
 LIETUVOS NACIONALINIO RADIJO IR
-TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 
-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 6.
 Lietuvos Respublikos Seimas,
@@ -608,14 +611,23 @@ Lietuvos Respublikos Seimas,
 Nr. IX-1273,
 2002-12-10, Žin., 2002, Nr. 123-5554 (2002-12-24)
 LIETUVOS NACIONALINIO RADIJO IR
-TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 
-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 7.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1893,
-2003-12-11, Žin., 2003, Nr. 123-5578 (2003-12-30)
+Nr.
+IX-1893, 2003-12-11,
+Žin., 2003, Nr. 123-5578 (2003-12-30)
+LIETUVOS
+NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-63, 2004-12-22, Žin., 2004, Nr. 188-6996 (2004-12-31)
 LIETUVOS
 NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
@@ -625,6 +637,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2003-12-31)
+Aušrinė Trapinskienė (2004-12-31)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
