@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DD1D02F5D6AD"
 
 # Dėl darbuotojų pirmenybės įsigyti privatizuojamų įmonių akcijų
 
-Suvestinė redakcija nuo 1993-02-21 iki 1993-02-28
+Suvestinė redakcija nuo 1993-03-01 iki 1994-04-28
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 71-0; Žin. 1992, Nr.12-310, i. k. 0921010ISTA00I-2456
  
@@ -30,10 +30,10 @@ Straipsnio pakeitimai:
 Nr. I-58, 1993-01-28, Žin., 1993, Nr. 5-91 (1993-02-20), i. k. 0931010ISTA0000I-58
  
 
-2 straipsnis
-Akcijų paketas, kurį pirmenybės teise gali įsigyti 1 straipsnyje nurodyti asmenys, nustatomas taip, kad bendra tokiu būdu parduodamų akcijų nominali vertė kartu su anksčiau sukauptu privačiu kapitalu, tenkančiu įmonės dirbantiesiems, sudarytų iki 50 procentų (imtinai), o žemės ūkio produkciją perdirbančioms įmonėms – iki 49 procentų (imtinai) įmonės įstatinio kapitalo.
+2 straipsnis. Akcijų paketas, kurį pirmenybės teise gali įsigyti šio įstatymo 1 straipsnyje nurodyti asmenys, nustatomas taip, kad bendra šiuo būdu parduodamų akcijų nominali vertė kartu su anksčiau sukauptu privačiu kapitalu, tenkančiu įmonės dirbantiesiems, sudarytų iki 50 procentų (imtinai) įmonės įstatinio kapitalo. 
 Straipsnio pakeitimai:
 Nr. I-58, 1993-01-28, Žin., 1993, Nr. 5-91 (1993-02-20), i. k. 0931010ISTA0000I-58
+Nr. I-59, 1993-02-01, Žin., 1993, Nr. 6-112 (1993-02-28), i. k. 0931010ISTA0000I-59
  
 
 3 straipsnis
@@ -55,7 +55,7 @@ Pagal šį įstatymą neparduotos akcijos kartu su kitomis įmonių privatizavim
  
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
-PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
+PIRMININKAS                                                                              VYTAUTAS LANDSBERGIS
  
 Vilnius, 1992 m. balandžio 7 d. 
 Nr. I-2456
@@ -70,4 +70,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-58, 1993-01-28, Žin., 1993, Nr. 5-91 (1993-02-20), i. k. 0931010ISTA0000I-58
 Dėl įstatymo "Dėl darbuotojų pirmenybės įsigyti privatizuojamų įmonių akcijų" pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-59, 1993-02-01, Žin., 1993, Nr. 6-112 (1993-02-28), i. k. 0931010ISTA0000I-59
+Dėl Lietuvos Respublikos įstatymo "Dėl darbuotojų pirmenybės įsigyti privatizuojamų įmonių akcijų" pakeitimo
 
