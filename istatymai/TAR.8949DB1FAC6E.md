@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8949DB1FAC6E"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 1994-07-27 iki 1994-08-02
+Suvestinė redakcija nuo 1994-08-03 iki 1994-12-31
  
 Įstatymas paskelbtas: Žin. 1989, Nr. 33-445, i. k. 0891010ISTA0XI-3335
  
@@ -73,6 +73,11 @@ Lietuvos Respublikos piliečiams ir nustatyta tvarka įregistruotoms politinėms
 Šiai teisei įgyvendinti piliečiams, politinėms partijoms, kitoms politinėms ir visuomeninėms organizacijoms suteikiamos patalpos susirinkimams ir mitingams, garantuojamos galimybės naudotis masinės informacijos priemonėmis Vyriausiosios rinkimų komisijos nustatyta tvarka. Agitacijai politinės partijos, kitos politinės ir visuomeninės organizacijos, piliečiai gali skirti savo lėšų.
 
 Krašto apsaugos ir vidaus tarnybos dalinių vadovai, laisvės atėmimo vietų vadovai sudaro sąlygas politinių partijų ir politinių organizacijų referendumo organizavimo atstovams prie Vyriausiosios rinkimų komisijos, pateikusiems pažymėjimą, lankytis daliniuose ir laisvės atėmimo vietose referendumo klausimais. 
+
+Referendumo agitacija draudžiama likus mažiau kaip 24 valandoms iki referendumo pradžios ir referendumo dieną. 
+Papildyta straipsnio dalimi:
+Nr. I-575, 1994-07-20, Žin., 1994, Nr. 59-1161 (1994-08-03), i. k. 0941010ISTA000I-575
+ 
 
 Straipsnio pakeitimai:
 Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
