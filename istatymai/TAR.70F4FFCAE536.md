@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
 
+Suvestinė redakcija nuo 2001-01-01 iki 2001-05-08
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
+ 
+ 
 LIETUVOS RESPUBLIKOS VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS Į S T A T Y M A S
  
 2000 m. gegužės 25 d. Nr. VIII-1708
@@ -184,7 +189,9 @@ Vaiko teisių apsaugos kontrolierius, eidamas tarnybines pareigas, yra nepriklau
 
 
 
-3. Vaiko teisių apsaugos kontrolieriui, atleistam iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, turi būti suteiktos iki tol eitos pareigos valstybės tarnyboje, išskyrus renkamas pareigas. Jei buvusios pareigos panaikintos arba buvusi darbovietė likviduota, jam turi būti pasiūlytos kitos pareigos valstybės tarnyboje, atitinkančios jo profesiją ir kvalifikaciją. Prašymą grąžinti į ankstesnes pareigas vaiko teisių apsaugos kontrolierius pateikia buvusios darbovietės vadovui, o darbovietę likvidavus - jos steigėjui dėl kitų jo profesiją ir kvalifikaciją atitinkančių pareigų valstybės tarnyboje suteikimo. Prašymas pateikiamas ne vėliau kaip per 10 darbo dienų nuo atleidimo iš vaiko teisių apsaugos kontrolieriaus pareigų dienos. Tais atvejais, kai likvidavus darbovietę nebeegzistuoja ir jos steigėjas, buvęs vaiko teisių apsaugos kontrolierius turi teisę kreiptis į Valdymo reformų ir savivaldybių reikalų ministeriją, o ši turi teikti jam informaciją apie laisvas darbo vietas valstybės tarnyboje, esančioje jo nuolatinėje gyvenamojoje vietoje. 
+3. Vaiko teisių apsaugos kontrolierius, atleistas iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, Valstybės tarnybos įstatymo nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.
+Straipsnio dalies pakeitimai:
+Nr. IX-122, 2000-12-21, Žin., 2000, Nr. 111-3581 (2000-12-29), i. k. 1001010ISTA00IX-122
  
 
 
@@ -827,3 +834,14 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-122, 2000-12-21, Žin., 2000, Nr. 111-3581 (2000-12-29), i. k. 1001010ISTA00IX-122
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 10 straipsnio pakeitimo įstatymas
