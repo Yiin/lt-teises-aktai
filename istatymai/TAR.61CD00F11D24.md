@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.61CD00F11D24"
 
 # Lietuvos Respublikos advokatūros įstatymas
 
-Redagavo: Ramunė Lūžaitė (1999.02.24)
+Redagavo: Ramunė Lūžaitė (1999.06.30)
  
 Įstatymas paskelbtas: Žin.,
 1998, Nr.64-1840
@@ -28,6 +28,14 @@ LIETUVOS RESPUBLIKOS
 ADVOKATŪROS ĮSTATYMO 7, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ADVOKATŪROS
 ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 5 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 ĮSTATYMAS
+ 
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. VIII-1224, 99.06.15,
+Žin., 1999, Nr.57-1830 (99.06.30)
+LIETUVOS RESPUBLIKOS
+ADVOKATŪROS ĮSTATYMO 7 IR 24 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 *** Pabaiga ***
  
@@ -102,8 +110,8 @@ prašymo pagrindu pripažįstamas advokatu, jeigu jis:
 1) yra Lietuvos Respublikos pilietis;
 2) turi teisės magistro arba teisės bakalauro, arba
 teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį
-išsilavinimą). Užsienyje įgytas teisinis išsimokslinimas yra pripažįstamas Vyriausybės
-nustatyta tvarka;
+išsilavinimą). Užsienyje įgytas teisinis išsimokslinimas yra pripažįstamas
+Vyriausybės nustatyta tvarka;
 3) turi ne mažesnį kaip 5 metų prokuroro, tardytojo
 ar kitokio teisinio darbo pagal Lietuvos Respublikos Vyriausybės patvirtintą
 pareigybių sąrašą stažą arba atliko 1 metų advokato padėjėjo praktiką;
@@ -111,11 +119,17 @@ pareigybių sąrašą stažą arba atliko 1 metų advokato padėjėjo praktiką;
 5) moka valstybinę kalbą;
 6) išlaikė advokato kvalifikacinius egzaminus;
 7) neturi psichinės sveikatos sutrikimų, dėl kurių
-negalėtų atlikti advokato pareigų.
+negalėtų atlikti advokato pareigų;
+8) nebuvo SSRS valstybės saugumo komiteto (NKVD, NKGB,
+MGB, KGB) kadriniu darbuotoju ir todėl jam nėra taikomi įstatyme „Dėl SSRS
+valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios
+organizacijos kadrinių darbuotojų dabartinės veiklos“ numatyti apribojimai.
  
 Straipsnio pakeitimai:
 Nr. VIII-1044, 99.02.09,
 Žin., 1999, Nr.19-508 (99.02.24)
+Nr. VIII-1224, 99.06.15,
+Žin., 1999, Nr.57-1830 (99.06.30)
  
 8 straipsnis. Lengvatinio pripažinimo advokatu
 sąlygos
@@ -379,9 +393,9 @@ priima ne vėliau kaip per 1 mėnesį nuo prašymo gavimo dienos. Teisingumo
 ministro sprendimas neregistruoti advokato(-ų) kontoros per 14 dienų nuo
 sprendimo priėmimo dienos gali būti apskundžiamas Vilniaus apygardos teismui.
 3. Priėmusi prašymą įregistruoti advokato(-ų)
-kontorą, Lietuvos advokatų taryba iš karto nustato ir pasirašytinai advokatą
-informuoja apie sprendimo dėl kontoros įregistravimo paskelbimo terminą.
-Sprendimo paskelbimo diena yra laikoma jo įteikimo diena.
+kontorą, Lietuvos advokatų taryba iš karto nustato ir pasirašytinai advokatą informuoja
+apie sprendimo dėl kontoros įregistravimo paskelbimo terminą. Sprendimo
+paskelbimo diena yra laikoma jo įteikimo diena.
 4. Advokatų kontorų sąrašą tvarko Lietuvos advokatų
 taryba.
  
@@ -422,6 +436,14 @@ sąrašą buvo pateikti tikrovės neatitinkantys duomenys;
 šio įstatymo 37 straipsnio 1 ir 2 dalis;
 6) išnyksta sąlygos, suteikiančios teisę verstis
 advokato praktika.
+7) jis buvo SSRS valstybės saugumo komiteto (NKVD,
+NKGB, MGB, KGB) kadriniu darbuotoju, kuriam taikomi įstatyme „Dėl SSRS
+valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios
+organizacijos kadrinių darbuotojų dabartinės veiklos“ numatyti apribojimai.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-1224, 99.06.15,
+Žin., 1999, Nr.57-1830 (99.06.30)
  
 25 straipsnis. Praktikuojančių advokatų sąrašo
 skelbimas
@@ -464,15 +486,15 @@ Advokato padėjėjas - Lietuvos Respublikos pilietis,
 šio įstatymo nustatyta tvarka įrašytas į Lietuvos advokatų tarybos advokatų
 padėjėjų sąrašą. Advokato padėjėjas turi visas šiame įstatyme numatytas
 advokato teises ir pareigas, išskyrus teisę ginti baudžiamosiose bylose
-įtariamuosius, kaltinamuosius, teisiamuosius ir nuteistuosius, balsuoti
-advokatų susirinkime (konferencijoje) bei savarankiškai atstovauti kliento
-interesams teismuose ir kitose institucijose be raštiško advokato (praktikos
-vadovo) sutikimo.
+įtariamuosius, kaltinamuosius, teisiamuosius ir nuteistuosius, balsuoti advokatų
+susirinkime (konferencijoje) bei savarankiškai atstovauti kliento interesams
+teismuose ir kitose institucijose be raštiško advokato (praktikos vadovo)
+sutikimo.
  
 28 straipsnis. Advokatų padėjėjų sąrašas
  
-1. Lietuvos advokatų taryba įrašo į advokatų
-padėjėjų sąrašą asmenį, kuris:
+1. Lietuvos advokatų taryba įrašo į advokatų padėjėjų
+sąrašą asmenį, kuris:
 1) turi aukštąjį teisinį išsilavinimą, nurodytą šio
 įstatymo 7 straipsnio 2 punkte;
 2) yra nepriekaištingos reputacijos pagal šio
@@ -634,8 +656,8 @@ straipsnio 2 dalį, dokumentų, korespondencijos ar kitokių duomenų laikmenų,
 nurodytų šio straipsnio 3 dalyje, konfiskavimas ar tikrinimas gali būti
 atliekami, jei advokatui iškelta baudžiamoji byla.
 5. Apie advokato patraukimą kaltinamuoju arba
-atliktus procesinius veiksmus, nurodytus šio straipsnio 2 dalyje, turi būti
-pranešta Lietuvos advokatų tarybai.
+atliktus procesinius veiksmus, nurodytus šio straipsnio 2 dalyje, turi būti pranešta
+Lietuvos advokatų tarybai.
  
 41 straipsnis. Teisė susitikti su suimtu ar
 sulaikytu advokatu
@@ -654,8 +676,8 @@ DĖL TEISINĖS PAGALBOS
  
 1. Advokatą pasirenka klientas, o įstatyme
 numatytais atvejais paskiria teismas, tardytojas, prokuroras.
-2. Dėl teisinės pagalbos gali būti susitariama su
-keliais advokatais.
+2. Dėl teisinės pagalbos gali būti susitariama su keliais
+advokatais.
 3. Klientas su advokatu ar advokatais dėl teisinės
 pagalbos susitaria pasirašydami sutartį.
  
@@ -694,9 +716,9 @@ apskundžiamas Vilniaus apygardos teismui.
 46 straipsnis. Valstybinis advokato darbo
 apmokėjimas
  
-1. Advokato, teikiančio teisinę pagalbą
-baudžiamosiose bylose pagal tardytojo, prokuroro ar teismo paskyrimą, darbą
-apmoka Teisingumo ministerija iš valstybės biudžeto lėšų.
+1. Advokato, teikiančio teisinę pagalbą baudžiamosiose
+bylose pagal tardytojo, prokuroro ar teismo paskyrimą, darbą apmoka Teisingumo
+ministerija iš valstybės biudžeto lėšų.
 2. Valstybinio advokato darbo apmokėjimo dydį ir
 tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
 3. Advokatas moka mokesčius valstybei Lietuvos
@@ -781,8 +803,8 @@ visuotinis Lietuvos Respublikos advokatų susirinkimas (konferencija) 3 metams
 renka Lietuvos advokatų tarybą, šios tarybos pirmininką ir revizijos komisiją.
 2. Lietuvos advokatų taryba turi juridinio asmens
 teises.
-3. Lietuvos advokatų tarybos nariais renkami
-advokatai, turintys ne mažesnį kaip 8 metų advokato darbo stažą.
+3. Lietuvos advokatų tarybos nariais renkami advokatai,
+turintys ne mažesnį kaip 8 metų advokato darbo stažą.
 4. Revizijos komisijos nariais renkami advokatai,
 turintys ne mažesnį kaip 5 metų advokato darbo stažą.
  
@@ -845,7 +867,8 @@ ir kitomis organizacijomis.
  
 1. Advokatų susirinkimo (konferencijos) išrinkta
 revizijos komisija:
-1) tikrina Lietuvos advokatų tarybos finansinę veiklą;
+1) tikrina Lietuvos advokatų tarybos finansinę
+veiklą;
 2) kontroliuoja, kaip nagrinėjami skundai ir
 prašymai dėl Lietuvos advokatų tarybos, advokatų kontorų finansinės veiklos.
 2. Revizijos komisijos darbo tvarką nustato Lietuvos
