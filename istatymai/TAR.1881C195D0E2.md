@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
+Suvestinė redakcija nuo 2002-07-17 iki 2012-12-31
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
+ 
 LIETUVOS RESPUBLIKOS ŽVALGYBOS ĮSTATYMAS
  
 2000 m. liepos 17 d. Nr. VIII-1861
@@ -420,10 +424,12 @@ III SKYRIUS
 13 straipsnis. Žvalgybos tarnybų veiklos parlamentinė kontrolė
 
 
-Žvalgybos tarnybų veiklos parlamentinę kontrolę vykdo Seimo Nacionalinio saugumo ir gynybos komiteto pakomitetis, kurio nariai yra gavę leidimą dirbti ar susipažinti su valstybės paslaptį sudarančia informacija, žymima slaptumo žyma „Visiškai slaptai“. Jis svarsto bendruosius žvalgybos tarnybų veiklos klausimus uždaruose posėdžiuose.
+Valstybės saugumo departamento ir Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos žvalgybos tarnybų veiklos parlamentinę kontrolę atitinkamai vykdo Seimo Nacionalinio saugumo ir gynybos komiteto Saugumo ir Gynybos pakomitečiai, kurių nariai yra gavę leidimą dirbti ar susipažinti su valstybės paslaptį sudarančia informacija, žymima slaptumo žyma „Visiškai slaptai“. Pakomitečiai bendruosius žvalgybos tarnybų veiklos klausimus svarsto uždaruose posėdžiuose. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1019, 2002-07-02, Žin., 2002, Nr. 72-3019 (2002-07-17), i. k. 1021010ISTA0IX-1019
  
-
-
 
 
 
@@ -522,3 +528,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1019, 2002-07-02, Žin., 2002, Nr. 72-3019 (2002-07-17), i. k. 1021010ISTA0IX-1019
+Lietuvos Respublikos žvalgybos įstatymo 13 straipsnio pakeitimo įstatymas
