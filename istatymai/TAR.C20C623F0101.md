@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C20C623F0101"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
+Suvestinė redakcija nuo 1997-07-11 iki 2002-04-25
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 104-2367, i. k. 0961010ISTA00I-1579
+ 
+ 
 LIETUVOS RESPUBLIKOS
 SOCIALINIŲ PASLAUGŲ
 ĮSTATYMAS
@@ -112,7 +117,10 @@ Socialinės paslaugos asmenims, išvardytiems šio įstatymo 3 straipsnyje, teik
 
 1) Socialinės apsaugos ir darbo, Sveikatos apsaugos bei Švietimo ir mokslo ministerijos;
 
-2) apskričių valdytojai;
+2) apskričių viršininkai; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-333, 1997-06-26, Žin., 1997, Nr. 66-1604 (1997-07-11), i. k. 0971010ISTAVIII-333
+ 
 
 3) savivaldybės.
 
@@ -136,13 +144,17 @@ Socialinės paslaugos asmenims, išvardytiems šio įstatymo 3 straipsnyje, teik
 
 3. Sveikatos apsaugos bei Švietimo ir mokslo ministerijos pagal savo kompetenciją įstatymų ir kitų teisės aktų nustatyta tvarka organizuoja socialinių paslaugų teikimą.
 
-4. Apskrities valdytojas, bendradarbiaudamas su savivaldybėmis, pagal savo kompetenciją apskrityje:
+4. Apskrities viršininkas, bendradarbiaudamas su savivaldybėmis, pagal savo kompetenciją apskrityje:
 
 1) rengia, koordinuoja ir vykdo apskrities socialines programas ir socialinius projektus;
 
 2) steigia, reorganizuoja ir likviduoja apskrities specialiųjų socialinių paslaugų institucijas;
 
-3) kontroliuoja socialinių paslaugų teikimą apskričiai priklausančiose socialinių paslaugų teikimo įstaigose.
+3) kontroliuoja socialinių paslaugų teikimą apskričiai priklausančiose socialinių paslaugų teikimo įstaigose. 
+
+Straipsnio dalies pakeitimai:
+Nr. VIII-333, 1997-06-26, Žin., 1997, Nr. 66-1604 (1997-07-11), i. k. 0971010ISTAVIII-333
+ 
 
 5. Savivaldybės:
 
@@ -164,11 +176,16 @@ Socialinės paslaugos asmenims, išvardytiems šio įstatymo 3 straipsnyje, teik
 
 7. Neatidėliotinais atvejais, savivaldybė suteikia socialines paslaugas ir asmenims, nuolat negyvenantiems jos teritorijoje.
 
-8. Kiekvienos savivaldybės administracijoje ir apskrities valdytojo administracijoje turi būti įsteigtas padalinys, atsakingas už socialinių paslaugų ir kitos socialinės paramos organizavimą.
+8. Kiekvienos savivaldybės administracijoje ir apskrities viršininko administracijoje turi būti įsteigtas padalinys, atsakingas už socialinių paslaugų ir kitos socialinės paramos organizavimą. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-333, 1997-06-26, Žin., 1997, Nr. 66-1604 (1997-07-11), i. k. 0971010ISTAVIII-333
+ 
 
 9. Savivaldybės, vadovaudamosi šio įstatymo nuostatomis, kasmet planuoja socialinių paslaugų rūšis ir mastą, savo biudžete numato lėšas socialinėms paslaugoms finansuoti.
 
-10. Socialines paslaugas teikia Socialinės apsaugos ir darbo, Sveikatos apsaugos, Švietimo ir mokslo ministerijų, apskričių valdytojų, savivaldybių įsteigtos institucijos, nevyriausybinės organizacijos, religinės bendruomenės bei fiziniai ir juridiniai asmenys, turintys teisę teikti socialines paslaugas.
+10. Socialines paslaugas teikia Socialinės apsaugos ir darbo, Sveikatos apsaugos, Švietimo ir mokslo ministerijų, apskričių viršininkų, savivaldybių įsteigtos institucijos, nevyriausybinės organizacijos, religinės bendruomenės bei fiziniai ir juridiniai asmenys, turintys teisę teikti socialines paslaugas.
+Straipsnio dalies pakeitimai:
+Nr. VIII-333, 1997-06-26, Žin., 1997, Nr. 66-1604 (1997-07-11), i. k. 0971010ISTAVIII-333
  
 
 7 straipsnis. Bendradarbiavimas teikiant socialines paslaugas
@@ -223,7 +240,10 @@ Socialinės paslaugos asmenims, išvardytiems šio įstatymo 3 straipsnyje, teik
 
 1. Socialinės apsaugos ir darbo, Sveikatos apsaugos bei Švietimo ir mokslo ministerijos kontroliuoja jų reguliavimo sričiai priklausančių įstaigų teikiamų socialinių paslaugų kokybę.
 
-2. Apskrities valdytojas kontroliuoja apskrityje teikiamų socialinių paslaugų kokybę bei prižiūri, ar jam pavaldžiose įstaigose laikomasi nustatytos apmokėjimo už socialines paslaugas tvarkos.
+2. Apskrities viršininkas kontroliuoja apskrityje teikiamų socialinių paslaugų kokybę bei prižiūri, ar jam pavaldžiose įstaigose laikomasi nustatytos apmokėjimo už socialines paslaugas tvarkos.
+Straipsnio dalies pakeitimai:
+Nr. VIII-333, 1997-06-26, Žin., 1997, Nr. 66-1604 (1997-07-11), i. k. 0971010ISTAVIII-333
+ 
 
 3. Savivaldybė kontroliuoja jos teritorijoje teikiamų socialinių paslaugų kokybę, socialinių paslaugų teikėjų veiklą ir savivaldybės lėšų, skirtų socialinėms paslaugoms teikti, panaudojimą bei prižiūri, ar laikomasi nustatytos apmokėjimo už socialines paslaugas tvarkos.
 
@@ -291,4 +311,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-333, 1997-06-26, Žin., 1997, Nr. 66-1604 (1997-07-11), i. k. 0971010ISTAVIII-333
+Lietuvos Respublikos socialinių paslaugų įstatymo 6 ir 11 straipsnių pakeitimo įstatymas
 
