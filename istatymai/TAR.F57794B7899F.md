@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2026-01-01 iki 2026-12-31
+Suvestinė redakcija nuo 2027-01-01 iki 2029-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -9697,7 +9697,10 @@ c) vartotojams ir (ar) gaminantiems vartotojams viršijus leistinos naudoti gali
 
 
 
-3. Jeigu elektros energijos persiuntimas nutrūko dėl gamtos reiškinių (potvynio, perkūnijos, apšalo, šlapdribos, audros, škvalo, ižo ar panašiai) sukeltos energetikos objektų ir įrenginių avarijos, kurios kriterijai numatyti energetikos objektų ir įrenginių avarijų ir sutrikimų tyrimą reglamentuojančiuose teisės aktuose, ar gaisro ir tinklų operatorius neatnaujina elektros energijos persiuntimo per 72 valandas, vartotojo prašymu jis turi sumokėti vartotojui Tarybos nustatyta tvarka apskaičiuotą kompensaciją.
+3. Jeigu elektros energijos persiuntimas nutrūko dėl gamtos reiškinių (potvynio, perkūnijos, apšalo, šlapdribos, audros, škvalo, ižo ar panašiai) sukeltos energetikos objektų ir įrenginių avarijos, kurios kriterijai numatyti energetikos objektų ir įrenginių avarijų ir sutrikimų tyrimą reglamentuojančiuose teisės aktuose, ar gaisro ir tinklų operatorius neatnaujina elektros energijos persiuntimo per 48 valandas, vartotojo prašymu jis turi sumokėti vartotojui Tarybos nustatyta tvarka apskaičiuotą kompensaciją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
 
 
 
