@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3DCC460F8996"
 
 # Lietuvos Respublikos mokėjimų, atliekamų pagal komercines sutartis, vėlavimo prevencijos įstatymas
 
+Suvestinė redakcija nuo 2004-07-27 iki 2013-02-28
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 123-5571, i. k. 1031010ISTA0IX-1873
+ 
+ 
 LIETUVOS RESPUBLIKOS MOKĖJIMŲ, ATLIEKAMŲ PAGAL KOMERCINIUS SANDORIUS, VĖLAVIMO PREVENCIJOS ĮSTATYMAS
  
 2003 m. gruodžio 9 d. Nr. IX-1873
@@ -56,7 +61,15 @@ Vilnius
 
 
 
-5) reikalavimų dėl mažesnių kaip 20 litų palūkanų.
+5) reikalavimų dėl mažesnių kaip 20 litų palūkanų;
+
+
+
+
+6) žemės ūkio produkcijos pirkimo–pardavimo sandorių, kurių vykdymą reglamentuoja Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas. 
+Papildyta straipsnio punktu:
+Nr. IX-2403, 2004-07-15, Žin., 2004, Nr. 116-4335 (2004-07-27), i. k. 1041010ISTA0IX-2403
+ 
 
 
 
@@ -260,3 +273,13 @@ Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius, vėlavi
 
 
 ______________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2403, 2004-07-15, Žin., 2004, Nr. 116-4335 (2004-07-27), i. k. 1041010ISTA0IX-2403
+Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius, vėlavimo prevencijos įstatymo 1 straipsnio papildymo įstatymas
