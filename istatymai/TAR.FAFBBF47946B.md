@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FAFBBF47946B"
 
 # Lietuvos Respublikos administracinių teismų įsteigimo įstatymas
 
+Suvestinė redakcija nuo 1999-04-23 iki 2000-12-31
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 13-309, i. k. 0991010ISTAIII-1030
+ 
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISMŲ ĮSTEIGIMO ĮSTATYMAS
  
 1999 m. sausio 14 d. Nr. VIII-1030
@@ -28,7 +32,9 @@ Vilnius
 
 
 
-2. Administracinių teismų bylų žinybingumą nustato Administracinių bylų teisenos įstatymas.
+2. Administracinių teismų kompetenciją nustato Administracinių bylų teisenos įstatymas ir kiti įstatymai.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1138, 1999-04-13, Žin., 1999, Nr. 36-1068 (1999-04-23), i. k. 0991010ISTAIII-1138
  
 
 
@@ -152,7 +158,10 @@ Vilnius
 5 straipsnis. Administracinių teismų darbo organizavimas
 
 
-1. Administraciniuose teismuose bylas nagrinėja trijų teisėjų kolegija. Kolegiją sudaro ir jos pirmininką skiria administracinio teismo arba Lietuvos apeliacinio teismo Administracinių bylų skyriaus pirmininkas. Sudėtingoms byloms nagrinėti gali būti sudaryta penkių teisėjų kolegija.
+1. Neteko galios nuo 1999-04-23
+Straipsnio dalies naikinimas:
+Nr. VIII-1138, 1999-04-13, Žin. 1999, Nr. 36-1068 (1999-04-23), i. k. 0991010ISTAIII-1138
+ 
 
 
 
@@ -182,3 +191,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1138, 1999-04-13, Žin., 1999, Nr. 36-1068 (1999-04-23), i. k. 0991010ISTAIII-1138
+Lietuvos Respublikos administracinių teismų įsteigimo įstatymo 1 ir 5 straipsnių pakeitimo įstatymas
