@@ -13,10 +13,17 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-LIETUVOS RESPUBLIKOS  KOOPERACIJOS  ĮSTATYMAS
+Suvestinė redakcija nuo 1995-03-29 iki 1997-07-22
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
+ 
+LIETUVOS RESPUBLIKOS  KOOPERATINIŲ BENDROVIŲ (KOOPERATYVŲ)  ĮSTATYMAS 
  
 1993 m. birželio 1 d. Nr. I-164
 Vilnius
+ 
+Pakeistas teisės akto pavadinimas:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
  
 
 
@@ -74,7 +81,9 @@ Kooperatinė bendrovė turi savo pavadinimą, kuris turi skirtis nuo Lietuvos Re
 
 
 
-Kooperatinę bendrovę sudaro ne mažiau kaip penki fiziniai arba fiziniai ir juridiniai asmenys. Juridinių asmenų skaičius kooperatinėje bendrovėje negali būti didesnis kaip 1/2 visų narių skaičiaus.
+Kooperatinę bendrovę sudaro ne mažiau kaip trys fiziniai arba fiziniai ir juridiniai asmenys. 
+Straipsnio dalies pakeitimai:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
  
 
 
@@ -232,6 +241,52 @@ Registravimui pateikiami šie dokumentai:
 5) leidimas (licencija) užsiimti komercine-ūkine veikla, ekologinis pasas-leidimas, jei tai nustatyta Lietuvos Respublikos įstatymuose.
 
 
+
+
+
+
+Steigimo sutartyje turi būti nurodyta: 
+
+
+1) steigėjai (vardai, pavardės, juridinių asmenų pavadinimai) ir jų adresai; 
+
+
+
+
+2) kooperatinės bendrovės pavadinimas; 
+
+
+
+
+3) steigėjų teisės ir pareigos steigiant kooperatinę bendrovę bei atsakomybė už įsipareigojimų nevykdymą; 
+
+
+
+
+4) kiekvieno steigėjo įnešamo pajaus dydis; 
+
+
+
+
+5) steigimo kaštų kompensavimas ir atlyginimas už steigimą;
+
+
+
+
+6) ginčų tarp steigėjų sprendimo tvarka 
+
+
+Papildyta straipsnio dalimi:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+ 
+
+
+
+
+Steigimo sutartį pasirašo visi steigėjai arba jų įgalioti asmenys. Ji turi būti patvirtinta notaro. Kooperatinės bendrovės steigimo sutartis yra viešas dokumentas. 
+Papildyta straipsnio dalimi:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+ 
 
 
 
@@ -431,7 +486,7 @@ Kooperatinės bendrovės narys turi teisę:
 
 
 
-5) gauti pelno dalį (dividendą), proporcingą jo pajaus ir naujai sukurto turto dydžiui;
+5) gauti pelno dalį (dividendą), proporcingą jo pajaus ir, jeigu turtas priskirtas nariams, naujai sukurto turto dydžiui;
 
 
 
@@ -446,7 +501,7 @@ Kooperatinės bendrovės narys turi teisę:
 
 
 
-8) būti kelių kooperatinių bendrovių nariu;
+8) būti kelių kooperatinių bendrovių nariu, jeigu ko kita nenumato kooperatinės bendrovės įstatai;
 
 
 
@@ -474,9 +529,11 @@ Kooperatinės bendrovės narys atsako pagal kooperatinės bendrovės prievoles, 
 
 
 Kooperatinės bendrovės narys atsako tik įdėto pajaus (priklausančio kooperatinėje bendrovėje turto) dydžiu. Įstatuose gali būti nustatyta ir didesnė, bet ne daugiau kaip dvigubo, o draudimo ir kredito kooperatinėse bendrovėse – iki penkiariopo įdėto pajaus (priklausančio turto) dydžio nario atsakomybė.
+
+
+Straipsnio pakeitimai:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
  
-
-
 
 
 
@@ -484,7 +541,7 @@ Kooperatinės bendrovės narys atsako tik įdėto pajaus (priklausančio koopera
 12 straipsnis. Kapitalas
 
 
-Kooperatinės bendrovės kapitalą sudaro nuosavos ir skolintos lėšos. Nuosavos lėšos sudaromos iš narių stojamųjų mokesčių, pajų, ūkinės veiklos pelno bei kitų įstatymuose neuždraustų pajamų šaltinių. Kooperatinės bendrovės kapitalas negali būti sudaromas leidžiant bendrovės akcijas. Kooperatinės bendrovės kapitalas, išskyrus pajus, gali būti nedalomas arba priskirtas (visas arba jo dalis) bendrovės nariams.
+Kooperatinės bendrovės kapitalą sudaro nuosavos ir skolintos lėšos. Nuosavos lėšos sudaromos iš narių stojamųjų mokesčių, pajų, ūkinės veiklos pelno bei kitų įstatymuose neuždraustų pajamų šaltinių. Kooperatinės bendrovės kapitalas negali būti sudaromas leidžiant bendrovės akcijas. Kooperatinės bendrovės nuosavas kapitalas, išskyrus pajus, gali būti nedalomas arba priskirtas (visas arba jo dalis) bendrovės nariams.
 
 
 
@@ -500,9 +557,11 @@ Kooperatinės bendrovės minimalaus nuosavo kapitalo įstatymai nereglamentuoja,
 
 
 Atskaitymai į kapitalo rezervo fondą pelną gaunančioms kooperatinėms bendrovėms yra privalomi. Atskaitymų į šį fondą dydis ir jo formavimo tvarka nustatomi įstatuose.
+
+
+Straipsnio pakeitimai:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
  
-
-
 
 
 
@@ -510,7 +569,10 @@ Atskaitymai į kapitalo rezervo fondą pelną gaunančioms kooperatinėms bendro
 13 straipsnis. Kooperatinės bendrovės nario pajus
 
 
-Kooperatinės bendrovės nario pajus yra piniginis, intelektualinis arba natūrinis indėlis.
+Kooperatinės bendrovės nario pajus yra piniginis, intelektinis, vertybiniai popieriai arba kitas turtinis indėlis, išskyrus žemę. 
+Straipsnio dalies pakeitimai:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+ 
 
 
 
@@ -521,6 +583,14 @@ Pajaus dydis, jo mokėjimo tvarka ir atsakomybė už šios tvarkos pažeidimus, 
 
 
 Indėliu negali būti turtas, į kurį kooperatinės bendrovės nariui yra apribotos disponavimo teisės. Žemę kooperatinei bendrovei jos nariai gali nuomoti tik naudojimui.
+
+
+
+
+Kooperatinės bendrovės nariams gali būti priskirta tik per jų narystės laikotarpį naujai sukurto turto kooperatinėje bendrovėje dalis, proporcinga jų pajui ir priklausančiam turtui. 
+Papildyta straipsnio dalimi:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+ 
 
 
 
@@ -559,7 +629,10 @@ Balansinis pelnas, atskaičius privalomus mokėjimus, skirstomas:
 
 
 
-3) išmokami nariams pajaus dividendai, proporcingi jų pajams ir priklausančiam turtui.
+3) išmokami nariams dividendai, proporcingi jų pajams ir, jeigu turtas priskirtas nariams, priklausančiam turtui. 
+Straipsnio punkto pakeitimai:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+ 
 
 
 
@@ -648,7 +721,10 @@ Aukščiausiasis kooperatinės bendrovės valdymo organas yra jos narių (įgali
 
 
 
-8) priima nutarimą likviduoti kooperatinę bendrovę;
+8) priima nutarimą likviduoti arba reorganizuoti kooperatinę bendrovę;
+Straipsnio punkto pakeitimai:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+ 
 
 
 
@@ -656,6 +732,14 @@ Aukščiausiasis kooperatinės bendrovės valdymo organas yra jos narių (įgali
 9) sprendžia kitus kooperatinės bendrovės veiklos klausimus.
 
 
+
+
+
+
+Šio straipsnio pirmosios dalies 6 ir 7 punktuose numatytus klausimus, išskyrus įmonių steigimą ir veiklos nutraukimą, narių (įgaliotinių) susirinkimas gali pavesti spręsti valdybai. 
+Papildyta straipsnio dalimi:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+ 
 
 
 
@@ -773,27 +857,157 @@ Kooperatinės bendrovės narių (įgaliotinių) susirinkimas, valdyba (valdytoja
 
 
 V SKIRSNIS. 
-KOOPERATINĖS BENDROVĖS LIKVIDAVIMAS
+KOOPERATINĖS BENDROVĖS REORGANIZAVIMAS IR LIKVIDAVIMAS
  
 
 
-19 straipsnis. Kooperatinės bendrovės veiklos nutraukimas
+19 straipsnis. Kooperatinės bendrovės reorganizavimas
 
 
-Kooperatinės bendrovės veikla nutraukiama:
-
-
-1) narių (įgaliotinių) susirinkimo nutarimu;
+Reorganizavimas – tai kooperatinės bendrovės, kaip juridinio asmens, pertvarkymas be likvidavimo procedūros. Reorganizuotų kooperatinių bendrovių visų teisių ir prievolių perėmėjai yra reorganizuojant įsteigtos naujos ir po reorganizavimo tęsiančios veiklą kooperatinės bendrovės. 
 
 
 
 
-2) pasibaigus įstatuose numatytam veiklos terminui;
+Kooperatinės bendrovės gali būti reorganizuojamos šiais būdais: 
+
+
+1) jungimo;
 
 
 
 
-3) likus mažiau narių negu nustatyta įstatyme;
+2) skaidymo.
+
+
+
+
+
+
+Reorganizavimas kooperatinių bendrovių jungimo būdu galimas:
+
+
+1) prie kooperatinės bendrovės, kuri tęsia veiklą, prijungiant kitas (vieną ar kelias) kooperatines bendroves, kurios kaip juridiniai asmenys baigia veiklą; 
+
+
+
+
+2) iš kooperatinių bendrovių, kurios kaip juridiniai asmenys baigia veiklą, įsteigiant naują kooperatinę bendrovę. 
+
+
+
+
+
+
+Reorganizavimas bendrovių skaidymo būdu galimas: 
+
+
+1) kooperatinę bendrovę, kuri baigia veiklą, išdalijant kitoms kooperatinėms bendrovėms, kurios tęsia veiklą; 
+
+
+
+
+2) iš kooperatinės bendrovės, kuri baigia veiklą, steigiant naujas kooperatines bendroves; 
+
+
+
+
+3) iš kooperatinės bendrovės, kuri tęsia veiklą, atskiriant dalį, kuri jungiama prie kitos kooperatinės bendrovės arba iš kurios steigiama nauja kooperatinė bendrovė. 
+
+
+
+
+
+
+Reorganizuojamos kooperatinės bendrovės turi parengti reorganizavimo projektą, kuriame turi būti nurodyta: 
+
+
+1) kiekvienos reorganizuojamos kooperatinės bendrovės pavadinimas, buveinė; 
+
+
+
+
+2) kiekvienos reorganizuojamos kooperatinės bendrovės turto įvertinimas; 
+
+
+
+
+3) prievolių perėmimas ir perėmimo terminai; 
+
+
+
+
+4) kooperatinių bendrovių, kurios susijusios su reorganizavimu, narių ir jų pajų skirstymo po reorganizavimo veiksiančioms kooperatinėms bendrovėms kriterijai ir taisyklės; 
+
+
+
+
+5) turtinės ir neturtinės narių teisės po kooperatinės bendrovės reorganizavimo, jų įgijimo terminai; 
+
+
+
+
+6) po reorganizavimo veiksiančių kooperatinių bendrovių laukiami ūkinės veiklos rodikliai; 
+
+
+
+
+7) teisės, reorganizavimo laikotarpiu suteikiamos kooperatinių bendrovių valdymo organams ir revizoriams. 
+
+
+
+
+
+
+Kartu su reorganizavimo projektu turi būti parengti kiekvienos po reorganizavimo veiksiančios kooperatinės bendrovės įstatai. 
+
+
+
+
+Apie numatomą reorganizavimą kiekviena kooperatinė bendrovė privalo viešai paskelbti ne vėliau kaip prieš 30 dienų iki narių (įgaliotinių) susirinkimo, kurio darbotvarkėje numatyta svarstyti jos reorganizavimą. Kiekvienas narys turi teisę per tą laikotarpį susipažinti su reorganizavimo projektu, reorganizuojamų kooperatinių bendrovių veiklos rodikliais bei kopijuoti šiuos dokumentus. 
+
+
+
+
+Nutarimas patvirtinti reorganizavimo projektą bei parengtus įstatus priimamas ne mažiau kaip 2/3 balsų. 
+
+
+
+
+Kooperatinė bendrovė, kuriai iškelta bankroto byla arba kuriai taikoma neteisminė bankroto procedūra, gali būti reorganizuojama Lietuvos Respublikos įmonių bankroto įstatymo nustatyta tvarka. 
+
+
+
+
+Apie kooperatinės bendrovės reorganizavimą viešai skelbiama du kartus su mėnesio pertrauka. Prieš pirmąjį skelbimą apie reorganizavimą kiekvienam kreditoriui pranešama raštu. 
+
+
+
+
+Po reorganizavimo veikiančių bendrovių įstatai registruojami po pirmojo narių (įgaliotinių) susirinkimo. 
+
+
+
+
+
+
+20 straipsnis. Kooperatinės bendrovės likvidavimas ir likvidavimo tvarka 
+
+
+Kooperatinė bendrovė likviduojama: 
+
+
+1) narių (įgaliotinių) susirinkimo nutarimu; 
+
+
+
+
+2) pasibaigus įstatuose numatytam veiklos terminui; 
+
+
+
+
+3) likus mažiau narių negu nustatyta įstatyme; 
 
 
 
@@ -803,17 +1017,11 @@ Kooperatinės bendrovės veikla nutraukiama:
 
 
 
-5) valstybės valdymo institucijoms atšaukus kooperatinės bendrovės registravimą už Lietuvos Respublikos įstatymų pažeidimus.
- 
+5) teismo sprendimu už Lietuvos Respublikos įstatymų nustatytus teisės pažeidimus. 
 
 
 
 
-
-
-
-
-20 straipsnis. Likvidavimo tvarka
 
 
 Kooperatinės bendrovės likvidavimo tvarką nustato šis ir kiti Lietuvos Respublikos įstatymai bei kooperatinės bendrovės įstatai.
@@ -882,11 +1090,13 @@ Likvidatoriai yra solidariai atsakingi kooperatinei bendrovei ir tretiesiems asm
 
 
 Likviduotos kooperatinės bendrovės dokumentai saugomi Lietuvos Respublikos Vyriausybės nustatyta tvarka. Buvę kooperatinės bendrovės nariai ir jų įpėdiniai turi teisę susipažinti su saugomais dokumentais ir gauti jų nuorašus.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
  
-
-
-
-
 
 
 
@@ -948,3 +1158,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+Dėl Lietuvos Respublikos kooperacijos įstatymo pakeitimo ir papildymo
