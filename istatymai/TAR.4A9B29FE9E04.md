@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1995-06-28 iki 1996-01-04
+Suvestinė redakcija nuo 1996-01-05 iki 1996-02-06
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
  
@@ -554,9 +554,17 @@ Bendrovės pagrindinis kapitalas sumažinamas:
 
 
 
-4) perkainojant turtą (jei jis sumažėjo). 
+4) perkainojant turtą (jei jis sumažėjo;
 Papildyta straipsnio punktu:
 Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
+
+
+
+
+5) perduodant turtą už įsiskolinimus valstybės ar savivaldybių biudžetams. 
+Papildyta straipsnio punktu:
+Nr. I-1161, 1995-12-28, Žin., 1996, Nr. 1-5 (1996-01-05), i. k. 0951010ISTA00I-1161
  
 
 
@@ -1315,3 +1323,8 @@ Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papild
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-942, 1995-06-13, Žin., 1995, Nr. 53-1297 (1995-06-28), i. k. 0951010ISTA000I-942
 Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1161, 1995-12-28, Žin., 1996, Nr. 1-5 (1996-01-05), i. k. 0951010ISTA00I-1161
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo 16 straipsnio laikino papildymo
