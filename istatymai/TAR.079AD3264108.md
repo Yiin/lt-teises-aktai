@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.079AD3264108"
 
 # Lietuvos Respublikos valstybės turto perėmimo savivaldybių nuosavybėn įstatymas
 
+Suvestinė redakcija nuo 2002-10-23 iki 2008-10-17
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 6-113, i. k. 0971010ISTAVIII-546
+ 
+ 
 LIETUVOS RESPUBLIKOS VALSTYBĖS TURTO PERDAVIMO SAVIVALDYBIŲ NUOSAVYBĖN Į S T A T Y M A S
  
 1997 m. gruodžio 2 d. Nr. VIII-546
@@ -278,6 +283,13 @@ l) katilinės ir šilumos tinklai;
 
 
 4. Savivaldybių nuosavybėn perduodamas savivaldos institucijų patikėjimo teise valdomas kilnojamasis turtas ir piniginės lėšos.
+
+
+
+
+5. Savivaldybių nuosavybėn perduodami apskričių viršininkų, kitų valstybės institucijų, miškų urėdijų, valstybinių parkų administracijų valdomi valstybei nuosavybės teise priklausantys vietinės reikšmės viešieji keliai.
+Papildyta straipsnio dalimi:
+Nr. IX-1114, 2002-10-03, Žin., 2002, Nr. 101-4493 (2002-10-23), i. k. 1021010ISTA0IX-1114
  
 
 
@@ -318,7 +330,10 @@ SAVIVALDYBIŲ NUOSAVYBĖN PRISKIRTO TURTO PERDAVIMO TVARKA IR SĄLYGOS
 
 
 
-4) 3 straipsnio 3 dalies 1, 2, 3 ir 4 punktuose išvardytas turtas – pagal perdavimo-priėmimo aktus, kuriuose nurodomas objekto pavadinimas, adresas (vieta), nekilnojamojo turto techninės inventorizacijos data, balansinė ir likutinė vertė;
+4) 3 straipsnio 3 dalies 1, 2, 3 ir 4 punktuose bei 5 dalyje išvardytas turtas - pagal perdavimo-priėmimo aktus, kuriuose nurodomas objekto pavadinimas, adresas (vieta), nekilnojamojo turto techninės inventorizacijos data, balansinė ir likutinė vertė; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1114, 2002-10-03, Žin., 2002, Nr. 101-4493 (2002-10-23), i. k. 1021010ISTA0IX-1114
+ 
 
 
 
@@ -350,7 +365,10 @@ SAVIVALDYBIŲ NUOSAVYBĖN PRISKIRTO TURTO PERDAVIMO TVARKA IR SĄLYGOS
 
 
 
-6. Šio įstatymo 3 straipsnio 3 dalies 2, 3 ir 4 punktuose nurodyti objektai perduodami, neatsižvelgiant į tai, kada atlikta jų techninė inventorizacija. Techninės inventorizacijos duomenys tikslinami po turto perdavimo. Jeigu techninė inventorizacija iš viso nebuvo atlikta, turtas inventorizuojamas prieš jo perdavimą savivaldybių nuosavybėn.
+6. Šio įstatymo 3 straipsnio 3 dalies 2, 3 ir 4 punktuose bei 5 dalyje nurodyti objektai perduodami neatsižvelgiant į tai, kada atlikta jų techninė inventorizacija. Techninės inventorizacijos duomenys tikslinami po turto perdavimo. Jeigu techninė inventorizacija iš viso nebuvo atlikta, turtas inventorizuojamas prieš jo perdavimą savivaldybių nuosavybėn.
+Straipsnio dalies pakeitimai:
+Nr. IX-1114, 2002-10-03, Žin., 2002, Nr. 101-4493 (2002-10-23), i. k. 1021010ISTA0IX-1114
+ 
 
 
 
@@ -372,6 +390,13 @@ SAVIVALDYBIŲ NUOSAVYBĖN PRISKIRTO TURTO PERDAVIMO TVARKA IR SĄLYGOS
 
 
 2. Turtas, kuris buvo priskirtas savivaldybių nuosavybėn įstatymu „Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn“, bet nebuvo perduotas, o pagal šį įstatymą nepriskiriamas savivaldybių nuosavybėn, savivaldybių nuosavybėn neperduodamas. Turtas, kuris įstatymu „Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn“ buvo priskirtas savivaldybių nuosavybėn, bet nebuvo perduotas ir pagal šį įstatymą yra priskirtas savivaldybių nuosavybėn, savivaldybių nuosavybėn perduodamas šio įstatymo nustatyta tvarka.
+
+
+
+
+3. Turtui, perduotam savivaldybių nuosavybėn pagal 3 straipsnio 5 dalies nuostatą, prižiūrėti reikalingos lėšos tikslinamos kiekvienais metais tvirtinant Kelių priežiūros ir plėtros programos sąmatą.
+Papildyta straipsnio dalimi:
+Nr. IX-1114, 2002-10-03, Žin., 2002, Nr. 101-4493 (2002-10-23), i. k. 1021010ISTA0IX-1114
  
 
 
@@ -442,3 +467,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1114, 2002-10-03, Žin., 2002, Nr. 101-4493 (2002-10-23), i. k. 1021010ISTA0IX-1114
+Lietuvos Respublikos valstybės turto perdavimo savivaldybių nuosavybėn įstatymo 3, 4 ir 5 straipsnių papildymo įstatymas
