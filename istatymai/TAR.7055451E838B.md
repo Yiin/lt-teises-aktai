@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1999-10-27 iki 1999-11-25
+Suvestinė redakcija nuo 1999-11-26 iki 1999-12-08
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
  
@@ -251,7 +251,10 @@ Nr. VIII-1360, 1999-10-14, Žin., 1999, Nr. 90-2640 (1999-10-27), i. k. 0991010I
 
 
 
-3. Privatizavimo komisija yra sudaroma iš 13 narių. Privatizavimo komisijos pirmininką ir jos narius skiria ir atleidžia Seimas Vyriausybės teikimu.
+3. Privatizavimo komisija yra sudaroma iš 13 narių. Privatizavimo komisijos pirmininką ir 6 jos narius skiria ir atleidžia Seimas Vyriausybės teikimu. Kitus 6 Privatizavimo komisijos narius skiria ir atleidžia Seimas Seimo narių frakcijų teikimu.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1391, 1999-11-04, Žin., 1999, Nr. 101-2905 (1999-11-26), i. k. 0991010ISTAIII-1391
+ 
 
 
 
@@ -1373,3 +1376,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1360, 1999-10-14, Žin., 1999, Nr. 90-2640 (1999-10-27), i. k. 0991010ISTAIII-1360
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 4 ir 13 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1391, 1999-11-04, Žin., 1999, Nr. 101-2905 (1999-11-26), i. k. 0991010ISTAIII-1391
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 5 straipsnio pakeitimo įstatymas
