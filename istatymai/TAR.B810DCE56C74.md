@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B810DCE56C74"
 
 # Lietuvos Respublikos laukinių augalų ir grybų įstatymas
 
+Suvestinė redakcija nuo 2004-01-01 iki 2004-02-27
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 60-1944, i. k. 0991010ISTAIII-1226
+ 
 LIETUVOS RESPUBLIKOS
 LAUKINĖS AUGALIJOS
 ĮSTATYMAS
@@ -189,7 +193,7 @@ Laukinės augalijos apsauga organizuojama ir vykdoma pagal šiuos principus:
 
 
 
-5 straipsnis.         Laukinės augalijos augaviečių apsauga organizuojant ir vykdant jose ūkinę veiklą 
+5 straipsnis. Laukinės augalijos augaviečių apsauga organizuojant ir vykdant jose ūkinę veiklą 
 
 
 1. Planuojant ir vykdant statybas, tobulinant esamas ir diegiant naujas technologijas, jų galimas neigiamas poveikis laukinės augalijos augavietėms įvertinamas Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka.
@@ -240,7 +244,9 @@ Laukinės augalijos būklei ir jos pokyčiams stebėti bei vertinti vykdomas lau
 
 
 
-2. Papildomi laukinės augalijos apsaugos priemonių finansavimo šaltiniai yra savivaldos institucijų lėšos, gamtos apsaugos fondai, tarp jų ir tarptautiniai, taip pat savanoriškos fizinių bei juridinių asmenų įmokos, užsienio šalių kreditai ir kiti šaltiniai.
+2. Papildomi laukinės augalijos apsaugos priemonių finansavimo šaltiniai yra savivaldybių biudžetų lėšos, tarptautinių organizacijų ir programų lėšos, savanoriškos fizinių bei juridinių asmenų įmokos, užsienio šalių kreditai ir kiti šaltiniai.
+Straipsnio dalies pakeitimai:
+Nr. IX-1616, 2003-06-10, Žin., 2003, Nr. 61-2769 (2003-06-27), i. k. 1031010ISTA0IX-1616
  
 
 
@@ -530,3 +536,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1616, 2003-06-10, Žin., 2003, Nr. 61-2769 (2003-06-27), i. k. 1031010ISTA0IX-1616
+Lietuvos Respublikos laukinės augalijos įstatymo 8 straipsnio pakeitimo įstatymas
