@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2003-11-04
+Suvestinė redakcija nuo 2003-11-05 iki 2004-11-24
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
@@ -807,15 +807,17 @@ SEIMO KONTROLIERIŲ METŲ ATASKAITOS IR JŲ VEIKLOS VIEŠUMAS
 25 straipsnis. Metų ataskaitų pateikimas ir svarstymas Seime
 
 
-1. Seimo kontrolieriai kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų darbo ataskaitą, kuri turi būti paskelbta ir nagrinėjama Seime.
+1. Seimo kontrolieriai kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų darbo ataskaitą, kuri nagrinėjama Seime. Visa ataskaita turi būti paskelbta Seimo kontrolierių įstaigos interneto tinklalapyje, o esant galimybei, – ir per kitas visuomenės informavimo priemones.
 
 
 
 
-2. Tuo pat metu pateikiamas ir svarstomas Seime Žmogaus ir piliečio teisių bei tautybių reikalų komiteto pranešimas apie Seimo kontrolierių įstaigos veiklą ir siūlymai šios įstaigos veiklai pagerinti.
+2. Tuo pat metu pateikiamas ir svarstomas Seime Žmogaus teisių komiteto pranešimas apie Seimo kontrolierių įstaigos veiklą ir siūlymai šios įstaigos veiklai pagerinti.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1770, 2003-10-14, Žin., 2003, Nr. 104-4640 (2003-11-05), i. k. 1031010ISTA0IX-1770
  
-
-
 
 
 
@@ -1022,3 +1024,8 @@ Lietuvos Respublikos valstybės kontrolės įstatymo, Teismų įstatymo, Konstit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1432, 2003-04-03, Žin., 2003, Nr. 38-1677 (2003-04-24), i. k. 1031010ISTA0IX-1432
 Lietuvos Respublikos Seimo kontrolierių įstatymo 4, 19 ir 22 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1770, 2003-10-14, Žin., 2003, Nr. 104-4640 (2003-11-05), i. k. 1031010ISTA0IX-1770
+Lietuvos Respublikos Seimo kontrolierių įstatymo 25 straipsnio pakeitimo įstatymas
