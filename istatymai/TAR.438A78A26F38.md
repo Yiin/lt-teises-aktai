@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
+Suvestinė redakcija nuo 1994-12-07 iki 1998-02-24
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
+ 
+ 
 LIETUVOS RESPUBLIKOS
 PREZIDENTO
 Į S T A T Y M A S
@@ -358,7 +363,10 @@ Lietuvos Respublikos įstatymo teksto pabaigoje prieš Respublikos Prezidento pa
 Nustatomas toks Respublikos Prezidento valstybinis aprūpinimas ir aptarnavimas:
 
 
-1) darbo užmokestis – 25 minimalių gyvenimo lygių dydžio;
+1) darbo užmokestis – 12 vidutinių mėnesinių darbo užmokesčių (VMDU) dydžio; 
+Straipsnio punkto pakeitimai:
+Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
+ 
 
 
 
@@ -378,12 +386,17 @@ Nustatomas toks Respublikos Prezidento valstybinis aprūpinimas ir aptarnavimas:
 
 
 
-5) atstovavimo išlaidos šalies viduje;
+5) atstovavimo išlaidos šalies viduje ir lankantis užsienio valstybėse – pagal tarptautinę diplomatinę praktiką atsiskaitytinai ir 25 procentai Respublikos Prezidento mėnesinio darbo užmokesčio neatsiskaitytinai. 
+Straipsnio punkto pakeitimai:
+Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
+ 
 
 
 
 
-6) išlaidos, lankantis užsienio valstybėse – pagal bendrąsias tarptautines normas.
+6) neteko galios 1994-12-07.
+Straipsnio punkto pakeitimai:
+Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
  
 
 
@@ -448,3 +461,15 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
  
 Vilnius, 1993 m. sausio 26 d. 
 Nr. I-56
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
+Dėl Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo
