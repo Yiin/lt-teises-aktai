@@ -13,25 +13,34 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 
 # Lietuvos Respublikos apskrities valdymo įstatymas
 
-@D1=19941215;D2=19960404;D3=19960603
+@D1=19941215;D2=19960530;D3=19960918
 
-@D1=19941215;D2=19960404;D3=19960603
+@D1=19941215;D2=19960530;D3=19960918
 Pakeitimai:
  1.
  Parlamentas,
 Įstatymas
-{#96CCAA1280 ;} Nr.
-1-1280, 96.04.04, Žin., 1996, Nr. 35-876 (96.04.19)
+{#19960404AA1280 ;}
+Nr. 1-1280, 96.04.04, Žin., 1996, Nr. 35-876 (96.04.19)
  LIETUVOS
 RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO 11 STRAIPSNIO
  PAPILDYMO ĮSTATYMAS
  
+ 2.
+ Parlamentas,
+Įstatymas
+{#19960530AA1355 ;}
+Nr. 1-1355, 96.05.30, Žin., 1996, Nr. 55-1293 (96.06.12)
+ LIETUVOS
+RESPUBLIKOS APSKRITIES VALDYMO ĮSTATYMO 6 STRAIPSNIO
+ PAPILDYMO ĮSTATYMAS
+ 
  *** Pabaiga ***
  
-                       APSKRITIES
-VALDYMO
-                           
-ĮSTATYMAS
+                      
+APSKRITIES VALDYMO
+                      
+     ĮSTATYMAS
  
                 
 1994 m. gruodžio 15 d. Nr.I-707
@@ -53,10 +62,10 @@ administracinis
 vienetas, kurio valdymą per apskrities valdytoją,
 ministerijas  bei  
 kitas  Vyriausybės  institucijas  organizuoja
-Vyriausybė. Apskrities 
-valdymas yra  sudėtinė valstybės  valdymo
+Vyriausybė.
+Apskrities  valdymas yra  sudėtinė valstybės  valdymo
 dalis.
-     Apskrities
+     Apskrities
 ribas  bei centrą  nustato ir  keičia, pavadinimą
 jam suteikia  ir
 keičia  Lietuvos Respublikos  Seimas Vyriausybės
@@ -76,7 +85,7 @@ Prezidento dekretais, Vyriausybės nutarimais bei kitų
 valstybės valdymo
 institucijų teisės aktais.
  
-     3 straipsnis.
+     3 straipsnis.
 Apskrities lėšos
  
      Apskrities 
@@ -85,8 +94,8 @@ valdymui  organizuoti  ir  valdytojo  funkcijoms
 skiriamos  iš  valstybės  biudžeto  bei  kitų
 finansavimo
 šaltinių.
-                           II
-skyrius
+                          
+II skyrius
            
 APSKRITIES VALDYTOJAS IR JO KOMPETENCIJA
  
@@ -97,7 +106,7 @@ Apskrities valdytojas
 valdytoją skiria ir atleidžia Vyriausybė Ministro
 Pirmininko teikimu.
      Apskrities 
-valdytoju   gali   būti   Lietuvos   Respublikos
+valdytoju   gali   būti   Lietuvos   Respublikos
 pilietis, turintis 
 aukštąjį išsilavinimą.  Apskrities valdytojas
 negali eiti  jokių 
@@ -128,7 +137,7 @@ Apskrities valdytojo uždaviniai
  
      Apskrities
 valdytojo uždaviniai yra:
-     1) įgyvendinti 
+     1) įgyvendinti 
 valstybės  politiką  socialinio  aprūpinimo,
 švietimo, kultūros, 
 sveikatos priežiūros, teritorijos planavimo,
@@ -144,37 +153,44 @@ Vyriausybės
 institucijų  struktūrinių padalinių  veiklą, taip pat
 derinti savivaldos 
 vykdomųjų  institucijų  veiklą,  įgyvendinant
-regionines
-programas;
+regionines programas;
      3)  numatyti 
 prioritetines  apskrities  raidos  kryptis  ir
 rengti programas.
  
      6 straipsnis.
-Apskrities valdytojo įgaliojimai švietimo,
-                 
-kultūros ir socialiniais klausimais
+Apskrities valdytojo įgaliojimai
+                
+švietimo, kultūros ir socialiniais klausimais
  
      Apskrities
 valdytojas:
-     1)  įstatymų 
-nustatyta  tvarka  steigia,  reorganizuoja  ir
-likviduoja 
-apskrities   valstybines  švietimo,   kultūros,  kūno
-kultūros ir  sporto,
-socialinės  paramos ir  globos įstaigas  bei
-tarnybas;
-     2) atsako  už
-šio  straipsnio 1  punkte nurodytų valstybinių
+     1)  įstatymų  nustatyta 
+tvarka  steigia,  reorganizuoja  ir
+likviduoja  
+apskrities   valstybines  švietimo,  kultūros,  kūno
+kultūros  ir 
+sporto,  socialinės  paramos ir globos įstaigas bei
+tarnybas, išskyrus
+aukštesniąsias ir profesines mokyklas;
+     2)  atsako  už 
+šio straipsnio 1 punkte nurodytų valstybinių
 įstaigų
 funkcionavimą ir jų išlaikymą;
-     3) prižiūri 
-bendrosios valstybinės  švietimo,  kultūros  ir
+     3)  prižiūri 
+bendrosios  valstybinės  švietimo, kultūros ir
 socialinės politikos
 vykdymą;
-     4) kartu su
-teritorinėmis darbo biržomis sprendžia gyventojų
-užimtumo problemas.
+     4)   kartu  
+su   teritorinėmis   darbo  biržomis  sprendžia
+gyventojų užimtumo
+problemas.
+ 
+Straipsnio
+pakeitimai:
+{#19960530AA1355 ;}
+Nr. 1-1355, 96.05.30, Žin., 1996, Nr. 55-1293 (96.06.12)
+ 
  
      7 straipsnis.
 Apskrities valdytojo įgaliojimai
@@ -183,7 +199,7 @@ sveikatinimo veiklos klausimais
  
      Apskrities
 valdytojas:
-     1)  dalyvauja  
+     1)  dalyvauja  
 nustatant  pirminės   sveikatinimo   veiklos
 prioritetines
 kryptis;
@@ -215,7 +231,8 @@ būklės tendencijas.
 Apskrities valdytojo įgaliojimai
                    
 teritorijos planavimo ir paminklotvarkos
-                    klausimais
+                   
+klausimais
  
      Apskrities
 valdytojas:
@@ -292,8 +309,8 @@ augalų apsaugos priemonių naudojimą;
 valstybinę  melioracijos   ir   hidrotechnikos
 įrenginių  
 priežiūrą,    organizuoja   valstybei   priklausančių
-melioracijos ir
-hidrotechnikos įrenginių eksploataciją.
+melioracijos ir hidrotechnikos
+įrenginių eksploataciją.
  
      10 straipsnis.
 Apskrities valdytojo įgaliojimai gamtos
@@ -327,15 +344,14 @@ neviršydamas   savo  įgaliojimų,   organizuoja   vandens
 telkinių  valdymą  
 bei  apsaugos   juostų  ir   zonų   tvarkymą,
 kontroliuoja 
-kitiems   subjektams  priskirtų   vandens  telkinių
+kitiems   subjektams  priskirtų   vandens  telkinių
 valdymą;
      6) organizuoja
 ekologinį švietimą.
  
 11 straipsnis.
 Apskrities valdytojo įgaliojimai kitais
-                   
-klausimais
+                    klausimais
  
      Apskrities
 valdytojas, neviršydamas savo įgaliojimų:
@@ -357,16 +373,16 @@ konkurencijos
 registruoja  visuomeninių  organizacijų,  kurių  veikla
 apima  daugiau 
 kaip  vienos  savivaldybės  teritoriją  ir  kurių
-buveinės  yra apskrities
-centre ar kitoje apskrities teritorijoje
+buveinės  yra
+apskrities centre ar kitoje apskrities teritorijoje
 esančioje miesto ar
 kaimo gyvenamojoje vietovėje, įstatus;
      5) organizuoja
 apskrities (rajoninių) kelių priežiūrą;
      6)   
 registruoja    traktorius,    savaeiges    važiuokles,
-traktorines priekabas
-ir kelių tiesimo mašinas;
+traktorines
+priekabas ir kelių tiesimo mašinas;
      7) atlieka
 pastatų, statinių ir butų teisinį registravimą;
      8)  
@@ -419,8 +435,7 @@ savivaldos institucijų posėdžiuose;
 kviesti apskrityje esančių ministerijų ir kitų
 Vyriausybės
 institucijų struktūrinių padalinių vadovų pasitarimus
-ir jiems
-pirmininkauti;
+ir jiems pirmininkauti;
      5)  sustabdyti 
 ar  panaikinti  apskrityje  esančių  įmonių,
 įstaigų ir 
@@ -433,13 +448,13 @@ institucijų,
 įmonių,  įstaigų ir  organizacijų  informaciją  savo
 kompetencijos
 klausimais;
-     7) įstatymų 
+     7) įstatymų 
 nustatytais atvejais  imtis papildomų priemonių
 gyventojų bei  jų
 turto  saugumui užtikrinti,  tvarkai apskrityje
 palaikyti;
-     8) sudaryti
-ekspertų komisijas jo kompetencijai priskirtiems
+     8) sudaryti ekspertų
+komisijas jo kompetencijai priskirtiems
 klausimams
 analizuoti ir išvadoms pateikti;
      9) 
@@ -459,7 +474,7 @@ III skyrius
            
 VALSTYBĖS VALDYMO INSTITUCIJOS APSKRITYJE
  
-     13 straipsnis.
+     13 straipsnis.
 Valstybės valdymo institucijos apskrityje
  
      Valstybės
@@ -468,7 +483,7 @@ Lietuvos
 Respublikos  Seimui arba Vyriausybei leidus gali steigti
 apskrityje sau
 pavaldžias valdymo įstaigas ir organizacijas.
-     Valstybės
+     Valstybės
 valdymo  institucijoms pavaldžios valdymo įstaigos
 ir  organizacijos  
 apskrityje  veikia   pagal  šių   institucijų
@@ -479,7 +494,7 @@ nuostatus.
 IV skyrius
           APSKRITIES
 VALDYTOJO SANTYKIAI SU SAVIVALDOS
-               IR
+               IR
 VALSTYBĖS VALDYMO INSTITUCIJOMIS
  
      14 straipsnis.
@@ -502,8 +517,8 @@ valstybės valdymo institucijomis, joms pavaldžiomis
 valdymo įstaigomis 
 bei organizacijomis apskrityje ir Vyriausybės
 atstovu.
-     Valstybės valdymo 
-institucijos, įsteigtos  apskrityje pagal
+     Valstybės
+valdymo  institucijos, įsteigtos  apskrityje pagal
 šio įstatymo  13
 straipsnio nuostatas, nėra pavaldžios apskrities
 valdytojui.  Šios 
@@ -587,7 +602,7 @@ valdytojas:
      1) 
 organizuoja  administracijos  darbą  ir  atsako  už  jos
 veiklą;
-     2) teikia
+     2) teikia
 Vyriausybei apskrities lėšų sąmatos projektą;
      3) skiria  ir
 atleidžia  iš pareigų  jam  pavaldžių  įstaigų
@@ -599,8 +614,8 @@ ir padalinių
 vedėjus;
      4)
 neviršydamas  nustatyto metinio  darbo apmokėjimo  fondo,
-tvirtina administracijos
-etatų sąrašą;
+tvirtina
+administracijos etatų sąrašą;
      5) 
 organizuoja  apskrities  tarybos    posėdžius  ir  jiems
 vadovauja;
@@ -627,16 +642,15 @@ valdytojo   įsakymai  ir   kiti  teisės   aktai,
 neviršijantys jo 
 kompetencijos, privalomi visiems juridiniams ir
 fiziniams asmenims.
-     Vyriausybė 
-turi   teisę  panaikinti   apskrities  valdytojo
+     Vyriausybė  turi  
+teisę  panaikinti   apskrities  valdytojo
 įsakymus ir  kitus
 teisės  aktus, jeigu  jie neatitinka  Lietuvos
 Respublikos
 Konstitucijos,  įstatymų, kitų  Lietuvos  Respublikos
 Seimo priimtų 
 teisės aktų,  Respublikos  Prezidento  dekretų  ir
-Vyriausybės
-nutarimų.
+Vyriausybės nutarimų.
  
      19 straipsnis.
 Įstatymo įgyvendinimas
@@ -655,6 +669,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS
 PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
+ 
  
  
  
