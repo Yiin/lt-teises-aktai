@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9390A9F9A815"
 
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2003-10-28
+Suvestinė redakcija nuo 2003-10-29 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 33-1250, i. k. 1021010ISTA00IX-816
  
@@ -127,22 +127,29 @@ Tarnybos uždaviniai:
 
 
 
-2) atskleisti ir tirti nusikaltimus, kitus teisės pažeidimus finansų sistemai bei su jais susijusius nusikaltimus ir kitus teisės pažeidimus;
+2) užtikrinti nusikalstamų veikų bei kitų teisės pažeidimų, susijusių su Europos Sąjungos ir užsienio valstybių finansinės paramos lėšų gavimu ir panaudojimu, atskleidimą ir tyrimą;
 
 
 
 
-3) vykdyti nusikaltimų ir kitų teisės pažeidimų finansų sistemai bei su jais susijusių teisės pažeidimų prevenciją;
+3) atskleisti ir tirti nusikaltimus, kitus teisės pažeidimus finansų sistemai bei su jais susijusius nusikaltimus ir kitus teisės pažeidimus;
 
 
 
 
-4) vykdyti kituose įstatymuose Tarnybai nustatytus kitus uždavinius.
+4) vykdyti nusikaltimų ir kitų teisės pažeidimų finansų sistemai bei su jais susijusių teisės pažeidimų prevenciją;
+
+
+
+
+5) vykdyti kituose įstatymuose Tarnybai nustatytus kitus uždavinius.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-1754, 2003-10-09, Žin., 2003, Nr. 101-4540 (2003-10-29), i. k. 1031010ISTA0IX-1754
  
-
-
-
-
 
 
 
@@ -153,58 +160,74 @@ Tarnybos uždaviniai:
 Tarnybos funkcijos:
 
 
-1) įstatymų nustatyta tvarka ir pagrindais atskleisti ir tirti veikas, susijusias su mokesčių mokėtojų apgaulingu ar aplaidžiu apskaitos tvarkymu, žinomai neteisingų duomenų apie mokesčius, valstybės (savivaldybės) rinkliavas ir kitas įmokas teikimu atsakingoms institucijoms ir įstaigoms, mokesčių, valstybės (savivaldybės) rinkliavų, valstybinio socialinio draudimo ir kitų įmokų vengimu, nustatyta tvarka patvirtintų ataskaitų nepateikimu, ir kitus teisės pažeidimus, susijusius su mokesčiais, valstybės (savivaldybės) rinkliavomis, valstybinio socialinio draudimo ir kitomis įmokomis;
+1) įstatymų nustatyta tvarka ir pagrindais atskleisti ir tirti veikas, susijusias su mokesčių mokėtojų apgaulingu ar aplaidžiu apskaitos tvarkymu, žinomai neteisingų duomenų apie mokesčius, valstybės (savivaldybės) rinkliavas ir kitas įmokas teikimu atsakingoms institucijoms ir įstaigoms, mokesčių, valstybės (savivaldybės) rinkliavų, valstybinio socialinio draudimo ir kitų įmokų vengimu, nustatyta tvarka patvirtintų ataskaitų nepateikimu, ir kitus teisės pažeidimus, susijusius su mokesčiais, valstybės (savivaldybės) rinkliavomis, valstybinio socialinio draudimo ir kitomis įmokomis; 
 
 
 
 
 2) įstatymų nustatyta tvarka ir pagrindais atskleisti ir tirti veikas, susijusias su nusikalstamu būdu įgytų pinigų ar turto legalizavimu, vertybinių popierių neteisėta apyvarta, kitas neteisėtas veikas, susijusias su finansų sistema, išskyrus veikas, susijusias su netikrais pinigais;
-Straipsnio punkto pakeitimai:
-Nr. IX-1536, 2003-04-29, Žin., 2003, Nr. 42-1926 (2003-05-01), i. k. 1031010ISTA0IX-1536
+
+
+
+
+3) įstatymų nustatyta tvarka ir pagrindais atskleisti ir tirti nusikalstamas veikas bei kitus teisės pažeidimus, susijusius su Europos Sąjungos ir užsienio valstybių finansinės paramos lėšų gavimu ir panaudojimu; 
+
+
+
+
+4) įstatymų nustatyta tvarka vykdyti operatyvinę veiklą, atlikti ikiteisminį tyrimą, ūkinės finansinės veiklos tyrimą;
+
+
+
+
+5) įstatymų nustatyta tvarka ir pagrindais atliekant šiame straipsnyje numatytas Tarnybos funkcijas, neperžengiant savo kompetencijos ribų, raštu teikti informaciją dėl valstybės turto privatizavime dalyvaujančių asmenų patikimumo; 
+
+
+
+
+6) bendradarbiauti su Lietuvos Respublikos ir užsienio valstybių teisėsaugos bei kitomis institucijomis ir įstaigomis, tarptautinėmis organizacijomis Tarnybos kompetencijos klausimais;
+
+
+
+
+7) įgyvendinti prevencines priemones, užkertančias kelią mokesčių, valstybės (savivaldybės) rinkliavų bei kitų įmokų vengimui, valstybės ir savivaldybių biudžetų bei fondų lėšų, Europos Sąjungos ir užsienio valstybių finansinės paramos lėšų pasisavinimui ir iššvaistymui, taip pat pinigų plovimo prevencijos priemones;
+
+
+
+
+8) rinkti, kaupti, analizuoti ir apibendrinti informaciją apie Europos Sąjungos ir užsienio valstybių finansinės paramos lėšų neteisėtą gavimą ir panaudojimą;
+
+
+
+
+9) koordinuoti valstybės institucijų ir kitų įstaigų bendradarbiavimą su Europos kovos su sukčiavimu tarnyba (OLAF); 
+
+
+
+
+10) rengti pasiūlymus dėl įstatymų ir kitų teisės aktų, reglamentuojančių nusikaltimų, kitų teisės pažeidimų finansų sistemai bei su jais susijusių teisės pažeidimų tyrimą, tobulinimo bei teisės aktų, reglamentuojančių nusikaltimų, kitų teisės pažeidimų finansų sistemai bei su jais susijusių teisės pažeidimų tyrimą, projektus, teikti išvadas ir pasiūlymus dėl teisės aktų projektų įtakos kriminogeninei situacijai;
+
+
+
+
+11) atliekant nusikaltimų bei kitų teisės pažeidimų finansų sistemai atskleidimą ir tyrimą bei prevencines priemones, koordinuoti kitų institucijų bei jų informacinių sistemų sąveiką;
+
+
+
+
+12) kaupti, saugoti ir analizuoti informaciją, reikalingą Tarnybos uždaviniams ir funkcijoms įgyvendinti;
+
+
+
+
+13) vykdyti kitas įstatymų numatytas funkcijas. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-1754, 2003-10-09, Žin., 2003, Nr. 101-4540 (2003-10-29), i. k. 1031010ISTA0IX-1754
  
-
-
-
-
-3) įstatymų nustatyta tvarka vykdyti operatyvinę veiklą, atlikti ikiteisminį tyrimą, ūkinės finansinės veiklos tyrimą;
-Straipsnio punkto pakeitimai:
-Nr. IX-1460, 2003-04-03, Žin., 2003, Nr. 38-1705 (2003-04-24), i. k. 1031010ISTA0IX-1460
- 
-
-
-
-
-4) bendradarbiauti su Lietuvos Respublikos ir užsienio valstybių teisėsaugos bei kitomis institucijomis ir įstaigomis, tarptautinėmis organizacijomis Tarnybos kompetencijos klausimais;
-
-
-
-
-5) įgyvendinti prevencines priemones, užkertančias kelią mokesčių, valstybės (savivaldybės) rinkliavų bei kitų įmokų vengimui, valstybės ir savivaldybių biudžetų bei fondų lėšų pasisavinimui ir iššvaistymui, taip pat pinigų plovimo prevencijos priemones;
-
-
-
-
-6) rengti pasiūlymus dėl įstatymų ir kitų teisės aktų, reglamentuojančių nusikaltimų, kitų teisės pažeidimų finansų sistemai bei su jais susijusių teisės pažeidimų tyrimą, tobulinimo bei teisės aktų, reglamentuojančių nusikaltimų, kitų teisės pažeidimų finansų sistemai bei su jais susijusių teisės pažeidimų tyrimą, projektus, teikti išvadas ir pasiūlymus dėl teisės aktų projektų įtakos kriminogeninei situacijai;
-
-
-
-
-7) atliekant nusikaltimų bei kitų teisės pažeidimų finansų sistemai atskleidimą ir tyrimą bei prevencines priemones, koordinuoti kitų institucijų bei jų informacinių sistemų sąveiką;
-
-
-
-
-8) kaupti, saugoti ir analizuoti informaciją, reikalingą Tarnybos uždaviniams ir funkcijoms įgyvendinti;
-
-
-
-
-9) vykdyti kitas įstatymų numatytas funkcijas.
- 
-
-
-
-
 
 
 
@@ -813,3 +836,8 @@ Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 20 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1536, 2003-04-29, Žin., 2003, Nr. 42-1926 (2003-05-01), i. k. 1031010ISTA0IX-1536
 Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 22 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1754, 2003-10-09, Žin., 2003, Nr. 101-4540 (2003-10-29), i. k. 1031010ISTA0IX-1754
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 6, 7 straipsnių pakeitimo ir papildymo įstatymas
