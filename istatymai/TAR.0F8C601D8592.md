@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
+Suvestinė redakcija nuo 2000-11-01 iki 2003-04-30
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
+ 
+ 
 LIETUVOS RESPUBLIKOS VALSTYBĖS SIENOS IR JOS APSAUGOS ĮSTATYMAS
  
 2000 m. gegužės 9 d. Nr. VIII-1666
@@ -129,12 +134,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-12. Valstybės sienos apsaugos zona – nuo valstybės sienos į Lietuvos Respublikos teritorijos gilumą einanti paženklinta pasienio ruožo teritorijos dalis, kurioje valstybės sienos apsaugai ir jos tvarkymui užtikrinti įgyvendinamos techninės, organizacinės ir teisinės pasienio policijos priemonės.
+12. Valstybės sienos apsaugos zona – nuo valstybės sienos į Lietuvos Respublikos teritorijos gilumą einanti paženklinta pasienio ruožo teritorijos dalis, kurioje valstybės sienos apsaugai ir jos tvarkymui užtikrinti įgyvendinamos techninės, organizacinės ir teisinės Valstybės sienos apsaugos tarnybos priemonės.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
+ 
 
 
 
 
-13. Pasienio kontrolės punktas – tarptautiniame oro uoste (aerodrome), atvirame tarptautinei laivybai jūrų ir upių (vidaus vandenų) uoste, geležinkelio stotyje ar prie automobilių kelio Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nutarimu įsteigta vieta, kurioje patikrinimą atlieka pasienio policija, muitinė ir kitos tam įgaliotos valstybės institucijos.
+13. Pasienio kontrolės punktas – tarptautiniame oro uoste (aerodrome), atvirame tarptautinei laivybai jūrų ir upių (vidaus vandenų) uoste, geležinkelio stotyje ar prie automobilių kelio Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nutarimu įsteigta vieta, kurioje patikrinimą atlieka Valstybės sienos apsaugos tarnyba, muitinė ir kitos tam įgaliotos valstybės institucijos.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
+ 
 
 
 
@@ -144,7 +155,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-15. Patikrinimas – pasienio kontrolės punktuose, pasienio ruožo teritorijoje, taip pat laivuose, esančiuose teritorinėje jūroje ir pasienio vandenyse, pasienio policijos, muitinės, kitų tam įgaliotų valstybės institucijų pagal jų kompetenciją atliekama asmens apžiūra, dokumentų, transporto priemonių ir daiktų patikrinimas, kuriais siekiama nustatyti asmens, transporto priemonės vykimo, prekių (daiktų) ir kitų vertybių gabenimo per valstybės sieną ir buvimo pasienio ruože teisėtumą.
+15. Patikrinimas – pasienio kontrolės punktuose, pasienio ruožo teritorijoje, taip pat laivuose, esančiuose teritorinėje jūroje ir pasienio vandenyse, Valstybės sienos apsaugos tarnybos, muitinės, kitų tam įgaliotų valstybės institucijų pagal jų kompetenciją atliekama asmens apžiūra, dokumentų, transporto priemonių ir daiktų patikrinimas, kuriais siekiama nustatyti asmens, transporto priemonės vykimo, prekių (daiktų) ir kitų vertybių gabenimo per valstybės sieną ir buvimo pasienio ruože teisėtumą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
+ 
 
 
 
@@ -352,10 +366,10 @@ Lietuvos Respublikos tarptautine sutartimi su gretima valstybe atskirų kategori
 
 
 
-2. Šio straipsnio 1 dalyje nurodytų plaukiojimo priemonių kapitonai, jei pareikalauja pasienio policija, privalo:
+2. Šio straipsnio 1 dalyje nurodytų plaukiojimo priemonių kapitonai, jei pareikalauja Valstybės sienos apsaugos tarnyba, privalo:
 
 
-1) teikti informaciją apie laivo įplaukimo į Lietuvos Respublikos vandenis tikslus;
+1) teikti informaciją  apie laivo įplaukimo į Lietuvos Respublikos vandenis tikslus;
 
 
 
@@ -365,7 +379,7 @@ Lietuvos Respublikos tarptautine sutartimi su gretima valstybe atskirų kategori
 
 
 
-3) sustabdyti laivą ir leisti atlikti patikrinimą; 
+3) sustabdyti laivą ir leisti atlikti patikrinimą;
 
 
 
@@ -373,6 +387,9 @@ Lietuvos Respublikos tarptautine sutartimi su gretima valstybe atskirų kategori
 4) plaukti į nurodytą uostą arba leisti buksyruoti laivą.
 
 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
+ 
 
 
 
@@ -435,18 +452,18 @@ Lietuvos Respublikos tarptautine sutartimi su gretima valstybe atskirų kategori
 
 
 
-9 straipsnis. Laivų ir kitų plaukiojimų priemonių, kertančių valstybės sieną, kontrolė
+9 straipsnis. Laivų ir kitų plaukiojimo priemonių, kertančių valstybės sieną, kontrolė
 
 
-1. Šio įstatymo 8 straipsnyje nurodytų reikalavimų ir draudimų nevykdymas suteikia teisę pasienio policijai: 
+1. Šio įstatymo 8 straipsnyje nurodytų reikalavimų ir draudimų nevykdymas suteikia teisę Valstybės sienos apsaugos tarnybai: 
 
 
-1) persekioti ir sulaikyti laivą (išskyrus užsienio valstybėms priklausančius karo laivus ar laivus, naudojamus nekomerciniais tikslais) už Lietuvos Respublikos teritorinės jūros ribų, iki jis įplauks į savo valstybės arba trečiosios valstybės teritorinę jūrą, jeigu pasienio policija arba kitos kompetentingos valstybės institucijos turi pagrindą manyti, kad laivas pažeidė Lietuvos Respublikos įstatymus, o bandymas sustabdyti laivą prasidėjo Lietuvos Respublikos teritorinėje jūroje ir laivas buvo nenutrūkstamai persekiojamas;
+1) persekioti ir sulaikyti laivą (išskyrus užsienio valstybėms priklausančius karo laivus ar laivus, naudojamus nekomerciniais tikslais) už Lietuvos Respublikos teritorinės jūros ribų, kol jis įplauks į savo valstybės arba trečiosios valstybės teritorinę jūrą, jeigu Valstybės sienos apsaugos tarnyba arba kitos kompetentingos valstybės institucijos turi pagrindą manyti, kad laivas pažeidė Lietuvos Respublikos įstatymus, o bandymas sustabdyti laivą prasidėjo Lietuvos Respublikos teritorinėje jūroje ir laivas buvo nenutrūkstamai persekiojamas;
 
 
 
 
-2) laivo stabdymui naudoti Tarptautinio signalų kodekso signalus ir kitas tarptautiniuose susitarimuose numatytas priemones; 
+2) laivo sustabdymui naudoti Tarptautinio signalų kodekso signalus ir kitas tarptautiniuose susitarimuose numatytas priemones;
 
 
 
@@ -458,23 +475,25 @@ Lietuvos Respublikos tarptautine sutartimi su gretima valstybe atskirų kategori
 
 
 
-2. Sulaikius laivą, yra surašomas protokolas. Protokolą pasirašo tam įgaliotas pasienio policijos pareigūnas ir sulaikyto laivo kapitonas. Jis gali įrašyti į protokolą savo pastabų ir paaiškinimų arba išdėstyti tai atskirame rašte. Vienas protokolo egzempliorius yra įteikiamas sulaikyto laivo kapitonui.
+2. Sulaikius laivą, yra surašomas protokolas. Protokolą pasirašo tam įgaliotas Valstybės sienos apsaugos tarnybos pareigūnas ir sulaikyto laivo kapitonas. Jis gali įrašyti į protokolą savo pastabų ir paaiškinimų arba išdėstyti tai atskirame rašte. Vienas protokolo egzempliorius yra įteikiamas sulaikyto laivo kapitonui.
 
 
 
 
 3. Apie sulaikytą užsienio valstybėje įregistruotą laivą nedelsiant informuojama Lietuvos Respublikos užsienio reikalų ministerija.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
 
 
 
 
+10 straipsnis. Valstybės sienos apsaugos tarnybos laivo ginkluotės naudojimas
 
 
-10 straipsnis. Pasienio policijos laivo ginkluotės naudojimas
-
-
-1. Pasienio policija laivo ginkluotę prieš persekiojamą laivą arba kitą plaukiojimo priemonę gali panaudoti tik išimties tvarka, po to, kai visos kitos galimos priemonės panaudotos ir jų nepakako priversti laivo įgulai paklusti ir sustabdyti laivą. 
+1. Valstybės sienos apsaugos tarnyba laivo ginkluotę prieš persekiojamą laivą arba kitą plaukiojimo priemonę gali panaudoti tik išimties tvarka, po to, kai visos kitos galimos priemonės panaudotos ir jų nepakako priversti laivo įgulai paklusti ir sustabdyti laivą.
 
 
 
@@ -484,10 +503,12 @@ Lietuvos Respublikos tarptautine sutartimi su gretima valstybe atskirų kategori
 
 
 
-3. Pasienio policijos laivo vadas prieš persekiojamą laivą arba kitą plaukiojimo priemonę gali panaudoti laivo ginkluotę, nesilaikydamas šio straipsnio 1 ir 2 dalyse nustatytų reikalavimų, jei jų laikytis neįmanoma arba jei persekiojamas laivas arba kita plaukiojimo priemonė, priešindamiesi sulaikymui, pirmieji panaudoja turimą ginkluotę arba užpuola pasienio policijos laivą.
+3. Valstybės sienos apsaugos tarnybos laivo vadas prieš persekiojamą laivą arba kitą plaukiojimo priemonę gali panaudoti laivo ginkluotę, nesilaikydamas šio straipsnio 1 ir 2 dalyse nustatytų reikalavimų, jei jų laikytis neįmanoma arba jei persekiojamas laivas arba kita plaukiojimo priemonė, priešindamiesi sulaikymui, pirmieji panaudoja turimą ginkluotę arba užpuola Valstybės sienos apsaugos tarnybos laivą.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
-
-
 
 
 
@@ -540,7 +561,9 @@ Lietuvos Respublikos tarptautine sutartimi su gretima valstybe atskirų kategori
 
 
 
-6. Išimtiniais atvejais orlaiviai, atlikdami tarptautinius skrydžius iš Lietuvos Respublikos arba į Lietuvos Respubliką, gali nusileisti arba pakilti iš oro uostų (aerodromų), kuriuose nėra pasienio kontrolės punktų, tik gavę išankstinį Pasienio policijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ir karinių oro pajėgų leidimą.
+6. Išimtiniais atvejais orlaiviai, atlikdami tarptautinius skrydžius iš Lietuvos Respublikos arba į Lietuvos Respubliką, gali nusileisti arba pakilti iš oro uostų (aerodromų), kuriuose nėra pasienio kontrolės punktų, tik gavę išankstinį Valstybės sienos apsaugos tarnybos, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ir karinių oro pajėgų leidimą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
 
 
@@ -594,12 +617,18 @@ Draudžiama per valstybės sieną bet kokiu būdu gabenti branduolinį arba kit�
 
 
 
-3. Šio straipsnio 2 dalyje nurodytais atvejais laivo kapitonas, karo laivo ar kitos plaukiojimo priemonės vadas, orlaivio ar kito skraidymo aparato vadas privalo nedelsdamas pranešti artimiausio Lietuvos Respublikos jūrų uosto, oro uosto (aerodromo) administracijai, o ši informuoja apie įvykį pasienio policiją, muitinę ir instituciją, atsakingą už gelbėjimo darbų organizavimą.
+3. Šio straipsnio 2 dalyje nurodytais atvejais laivo kapitonas, karo laivo ar kitos plaukiojimo priemonės vadas, orlaivio ar kito skraidymo aparato vadas privalo nedelsdamas pranešti artimiausio Lietuvos Respublikos jūrų uosto, oro uosto (aerodromo) administracijai, o ši informuoja apie įvykį Valstybės sienos apsaugos tarnybą, muitinę ir instituciją, atsakingą už gelbėjimo darbų organizavimą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
+ 
 
 
 
 
-4. Tais atvejais, kai užsieniečiams, pažeidusiems valstybės sienos kirtimo tvarką, nėra pagrindo kelti baudžiamosios bylos ar traukti jų administracinėn atsakomybėn, pasienio policija nustatyta tvarka perduoda juos tos valstybės, iš kurios teritorijos jie neteisėtai kirto valstybės sieną, įgaliotiems atstovams.
+4. Tais atvejais, kai užsieniečiams, pažeidusiems valstybės sienos kirtimo tvarką, nėra pagrindo kelti baudžiamosios bylos ar traukti jų administracinėn atsakomybėn, Valstybės sienos apsaugos tarnyba nustatyta tvarka perduoda juos tos valstybės, iš kurios teritorijos jie neteisėtai kirto valstybės sieną, įgaliotiems atstovams.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
+ 
 
 
 
@@ -633,7 +662,10 @@ PASIENIO TEISINIS REŽIMAS
 17 straipsnis. Pasienio teisinio režimo pagrindai ir galiojimo teritorinės ribos
 
 
-1. Pasienio režimo kontrolę atlieka pasienio policija.
+1. Pasienio režimo kontrolę atlieka Valstybės sienos apsaugos tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
+ 
 
 
 
@@ -695,25 +727,27 @@ PASIENIO TEISINIS REŽIMAS
 19 straipsnis. Pasienio teisinis režimas valstybės sienos apsaugos zonoje
 
 
-1. Asmenys valstybės sienos apsaugos zonoje gali būti tik su pasienio policijos išduotais vienkartiniais terminuotais leidimais. Asmenims, gyvenantiems ar dirbantiems valstybės sienos apsaugos zonoje, nekilnojamojo turto, žemės savininkams bei naudotojams gali būti išduoti nuolatiniai leidimai. 
+1. Asmenys valstybės sienos apsaugos zonoje gali būti tik su Valstybės sienos apsaugos tarnybos išduotais vienkartiniais terminuotais leidimais. Asmenims, gyvenantiems ar dirbantiems valstybės sienos apsaugos zonoje, nekilnojamojo turto, žemės savininkams bei naudotojams gali būti išduoti nuolatiniai leidimai.
 
 
 
 
-2. Į valstybės sienos apsaugos zonos teritoriją transporto priemonės gali įvažiuoti, įplaukti ar įskristi tik su pasienio policijos leidimu.
+2. Į valstybės sienos apsaugos zonos teritoriją transporto priemonės gali įvažiuoti, įplaukti ar įskristi tik su Valstybės sienos apsaugos tarnybos leidimu.
 
 
 
 
-3. Ūkinė, komercinė ir kitokia asmenų veikla valstybės sienos apsaugos zonoje galima tik su pasienio policijos leidimu. 
+3. Ūkinė, komercinė ir kitokia asmenų veikla valstybės sienos apsaugos zonoje galima tik su Valstybės sienos apsaugos tarnybos leidimu.
 
 
 
 
 4. Atvykimo ir buvimo valstybės sienos apsaugos zonoje leidimų bei leidimų verstis ūkine, komercine ar kitokia veikla pavyzdžius bei išdavimo tvarką nustato vidaus reikalų ministras.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
-
-
 
 
 
@@ -724,27 +758,29 @@ PASIENIO TEISINIS REŽIMAS
 Užtikrinant pasienio teisinį režimą:
 
 
-1) draudžiama be pasienio policijos leidimo išplaukti ir žvejoti, važiuoti arba eiti pėsčiomis per užšalusius Kuršių marių bei kitus vidaus vandenis, esančius pasienio ruožo teritorijoje;
+1) draudžiama be Valstybės sienos apsaugos tarnybos leidimo išplaukti ir žvejoti, važiuoti arba eiti pėsčiomis per užšalusius Kuršių marių bei kitus vidaus vandenis, esančius pasienio ruožo teritorijoje;
 
 
 
 
-2) asmenys šio straipsnio 1 punkte nurodytais atvejais privalo pranešti pasienio policijai apie išvykimą ir grįžimą. Pasienio policija gali riboti išvykimo laiką ir vykimo teritoriją; 
+2) asmenys šio straipsnio 1 punkte nurodytais atvejais privalo pranešti Valstybės sienos apsaugos tarnybai apie išvykimą ir grįžimą. Valstybės sienos apsaugos tarnyba gali riboti išvykimo laiką ir vykimo teritoriją;
 
 
 
 
-3) asmenys privalo pranešti pasienio policijai apie išplaukimą į teritorinę jūrą ir grįžimą į uostą, prieplauką ar kitą nuolatinės dislokacijos vietą;
+3) asmenys privalo pranešti Valstybės sienos apsaugos tarnybai apie išplaukimą į teritorinę jūrą ir grįžimą į uostą, prieplauką ar kitą nuolatinės dislokacijos vietą;
 
 
 
 
 4) gali būti ribojama ūkinė, komercinė ir kitokia asmenų veikla teritorinėje jūroje ir Kuršių marių bei kituose vidaus vandenyse, esančiuose pasienio ruožo teritorijoje.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
-
-
-
-
 
 
 
@@ -777,20 +813,22 @@ Užtikrinant pasienio teisinį režimą:
 
 
 
-2. Pasienio juostos ribas vidaus reikalų ministro teikimu tvirtina Vyriausybė. Žemė ir vandenys, kuriais eina pasienio juosta, yra valstybės nuosavybė. Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka žemė ir vandenys, kuriais eina pasienio juosta, perduodami naudotis pasienio policijai. 
+2. Pasienio juostos ribas vidaus reikalų ministro teikimu tvirtina Vyriausybė. Žemė ir vandenys, kuriais eina pasienio juosta, yra valstybės nuosavybė. Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka žemė ir vandenys, kuriais eina pasienio juosta, perduodami naudotis Valstybės sienos apsaugos tarnybai.
 
 
 
 
-3. Draudžiama asmenims ir transporto priemonėms vykti į pasienio juostą be pasienio policijos leidimo.
+3. Draudžiama asmenims ir transporto priemonėms vykti į pasienio juostą be Valstybės sienos apsaugos tarnybos leidimo.
 
 
 
 
-4. Šio straipsnio 3 dalyje nurodytas draudimas vykti į pasienio juostą be pasienio policijos leidimo gali būti netaikomas, kai pasienio juosta eina pasienio vandenų krantu.
+4. Šio straipsnio 3 dalyje nurodytas draudimas vykti į pasienio juostą be Valstybės sienos apsaugos tarnybos leidimo gali būti netaikomas, kai pasienio juosta eina pasienio vandenų krantu.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
-
-
 
 
 
@@ -798,20 +836,22 @@ Užtikrinant pasienio teisinį režimą:
 22 straipsnis. Pasienio juostos tvarkymas
 
 
-1. Jei valstybės siena eina miškais arba krūmais, pasienio juostoje iškertama proskyna. Ji tvarkoma taip, kad aiškiai matytųsi valstybės sienos ženklai ir greta valstybės sienos esantys jos apsaugą užtikrinantys objektai ir įrenginiai. Proskynų ir kitus valstybės sienos tvarkymo darbus organizuoja pasienio policija iš tam tikslui skirtų lėšų. 
+1. Jei valstybės siena eina miškais arba krūmais, pasienio juostoje iškertama proskyna. Ji tvarkoma taip, kad aiškiai matytųsi valstybės sienos ženklai ir greta valstybės sienos esantys jos apsaugą užtikrinantys objektai ir įrenginiai. Proskynų ir kitus valstybės sienos tvarkymo darbus organizuoja Valstybės sienos apsaugos tarnyba iš tam tikslui skirtų lėšų.
 
 
 
 
-2. Pasienio policija turi teisę statyti valstybės sienos apsaugą užtikrinančius objektus ir įrenginius, atlikti kitą veiklą, susijusią su valstybės sienos apsauga. Valstybės sienos apsaugą užtikrinantys objektai ir įrenginiai Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka gali būti statomi ir už pasienio juostos ribų.
+2. Valstybės sienos apsaugos tarnyba turi teisę statyti valstybės sienos apsaugą užtikrinančius objektus ir įrenginius, atlikti kitą veiklą, susijusią su valstybės sienos apsauga. Valstybės sienos apsaugą užtikrinantys objektai ir įrenginiai Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka gali būti statomi ir už pasienio juostos ribų.
 
 
 
 
 3. Draudžiama gadinti, naikinti valstybės sienos ženklus, kitus valstybės sienos apsaugos objektus bei įrenginius ar daryti kitokią žalą pasienio juostai.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
-
-
 
 
 
@@ -846,7 +886,9 @@ PASIENIO KONTROLĖS PUNKTŲ VEIKLA
 
 
 
-5. Pasienio policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos apie pasienio kontrolės punktus, jų darbo laiką, leidžiamus asmenų ir transporto priemonių vykimo būdus skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
+5. Valstybės sienos apsaugos tarnyba apie pasienio kontrolės punktus, jų darbo laiką, leidžiamus asmenų ir transporto priemonių vykimo būdus skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
 
 
@@ -857,7 +899,7 @@ PASIENIO KONTROLĖS PUNKTŲ VEIKLA
 24 straipsnis. Pasienio kontrolės punktų veiklos teisinis režimas
 
 
-1. Pasienio kontrolės punktų veiklos teisinį režimą pagal savo kompetenciją įgyvendina pasienio policija, muitinė ir kitos patikrinimą atliekančios institucijos. 
+1. Pasienio kontrolės punktų veiklos teisinį režimą pagal savo kompetenciją įgyvendina Valstybės sienos apsaugos tarnyba, muitinė ir kitos patikrinimą atliekančios institucijos.
 
 
 
@@ -867,21 +909,25 @@ PASIENIO KONTROLĖS PUNKTŲ VEIKLA
 
 
 
-3. Pasienio kontrolės punkto teritorijos ribas nustato Pasienio policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos ir Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, derindami su kitomis patikrinimą atliekančiomis valstybės institucijomis bei ūkio subjektu, kurio teritorijoje steigiamas šis punktas.
+3. Pasienio kontrolės punkto teritorijos ribas nustato Valstybės sienos apsaugos tarnyba ir Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, derindami su kitomis patikrinimą atliekančiomis valstybės institucijomis bei ūkio subjektu, kurio teritorijoje steigiamas šis punktas.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
 
 
 
 
+25 straipsnis. Patikrinimas, atliekamas pasienio kontrolės punktuose
 
 
-25 straipsnis. Patikrinimas, atliekamas pasienio kontrolės punktuose 
+Pasienio kontrolės punktuose pagal savo kompetenciją patikrinimą atlieka Valstybės sienos apsaugos tarnyba, muitinė ir kitos valstybės institucijos. Patikrinimo tvarką nustato Vyriausybė ir (ar) jos įgaliotos valstybės institucijos.
 
 
-Pasienio kontrolės punktuose pagal savo kompetenciją patikrinimą atlieka pasienio policija, muitinė ir kitos valstybės institucijos. Patikrinimo tvarką nustato Vyriausybė ir (ar) jos įgaliotos valstybės institucijos.
+Straipsnio pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
-
-
 
 
 
@@ -901,20 +947,22 @@ VALSTYBĖS SIENOS APSAUGOS ORGANIZAVIMAS
 
 
 
-2. Valstybės sienos apsaugą atlieka pasienio policija.
+2. Valstybės sienos apsaugą atlieka Valstybės sienos apsaugos tarnyba.
 
 
 
 
-3. Prireikus sustiprinti valstybės sienos apsaugą, Respublikos Prezidento ar krašto apsaugos ministro įsakymu į pagalbą pasienio policijai gali būti pasiųsta kariuomenė.
+3. Prireikus sustiprinti valstybės sienos apsaugą, Respublikos Prezidento ar krašto apsaugos ministro įsakymu į pagalbą Valstybės sienos apsaugos tarnybai gali būti pasiųsta kariuomenė.
 
 
 
 
-4. Valstybės ir vietos savivaldos institucijos bendradarbiauja su pasienio policija pagal savo kompetenciją įstatymų ir kitų teisės aktų nustatyta tvarka. Kiti asmenys talkina pasienio policijai savanoriškai.
+4. Valstybės ir vietos savivaldos institucijos bendradarbiauja su Valstybės sienos apsaugos tarnyba pagal savo kompetenciją įstatymų ir kitų teisės aktų nustatyta tvarka. Kiti asmenys talkina Valstybės sienos apsaugos tarnybai savanoriškai.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
-
-
 
 
 
@@ -943,20 +991,22 @@ VALSTYBĖS SIENOS APSAUGOS ORGANIZAVIMAS
 28 straipsnis. Valstybės sienos apsauga ginkluoto užpuolimo, karo ar nepaprastosios padėties atveju
 
 
-1. Karo padėties ir valstybės gynybos (karo) metu pasienio policijos padaliniai priskiriami ginkluotosioms pajėgoms.
+1. Karo padėties ir valstybės gynybos (karo) metu Valstybės sienos apsaugos tarnybos padaliniai priskiriami ginkluotosioms pajėgoms.
 
 
 
 
-2. Bendri pasienio policijos ir kariuomenės padalinių veiksmai taikos metu nustatomi valstybės sienos apsaugos priedangos planuose, kuriuos tvirtina Vyriausybė vidaus reikalų ministro ir krašto apsaugos ministro teikimu. 
+2. Bendri Valstybės sienos apsaugos tarnybos ir kariuomenės padalinių veiksmai taikos metu nustatomi valstybės sienos apsaugos priedangos planuose, kuriuos tvirtina Vyriausybė vidaus reikalų ministro ir krašto apsaugos ministro teikimu.
 
 
 
 
 3. Įvedus nepaprastąją padėtį, valstybės siena saugoma šio ir kitų įstatymų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
  
-
-
 
 
 
@@ -1022,3 +1072,14 @@ Vyriausybė per šešis mėnesius nuo šio įstatymo įsigaliojimo dienos pareng
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010ISTAIII-1998
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 2, 8, 9, 10, 11, 15, 17, 19, 20, 21, 22, 23, 24, 25, 26, 28 straipsnių pakeitimo įstatymas
