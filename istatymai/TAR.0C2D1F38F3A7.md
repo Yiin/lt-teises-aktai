@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2000-02-23 iki 2000-04-04
+Suvestinė redakcija nuo 2000-04-05 iki 2001-04-19
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
  
@@ -1750,9 +1750,10 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 
 
 
-9. Už veiklą stebėtojų taryboje jos nariams visuotinis akcininkų susirinkimas gali atlyginti (mokėti tantjemas) tik iš grynojo pelno, atsižvelgdamas į šio įstatymo 47 straipsnio ketvirtosios dalies ir 48 straipsnio nuostatas. 
+9. Už veiklą stebėtojų taryboje jos nariams visuotinis akcininkų susirinkimas gali atlyginti (mokėti tantjemas) tik iš grynojo pelno, atsižvelgdamas į šio įstatymo 47 straipsnio ketvirtosios dalies ir 48 straipsnio nuostatas. Jeigu stebėtojų tarybos nariai yra valstybės tarnautojai, kuriems tarnybinis atlyginimas mokamas iš valstybės biudžeto lėšų, jiems skirtos tantjemos pervedamos į valstybės biudžetą, o kai tarnybinis atlyginimas mokamas iš savivaldybių biudžetų lėšų, jiems skirtos tantjemos pervedamos į savivaldybių biudžetus. Jeigu stebėtojų tarybos nariai yra valstybės ar savivaldybės įmonės darbuotojai, tantjemos pervedamos tai valstybės ar savivaldybės įmonei, kuriai šie stebėtojų tarybos nariai atstovauja.
 Straipsnio dalies pakeitimai:
 Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+Nr. VIII-1570, 2000-03-16, Žin., 2000, Nr. 28-760 (2000-04-05), i. k. 1001010ISTAIII-1570
  
 
 
@@ -1902,9 +1903,10 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 
 
 
-6. Už darbą valdyboje jos nariams visuotinis akcininkų susirinkimas gali atlyginti (mokėti tantjemas) tik iš grynojo pelno, atsižvelgdamas į šio įstatymo 47 straipsnio ketvirtosios dalies ir 48 straipsnio nuostatas. Valdybos nariai gauna pareiginį atlyginimą tuo atveju, jei jie su bendrove yra sudarę darbo sutartį.
+6. Už darbą valdyboje jos nariams visuotinis akcininkų susirinkimas gali atlyginti (mokėti tantjemas) tik iš grynojo pelno, atsižvelgdamas į šio įstatymo 47 straipsnio ketvirtosios dalies ir 48 straipsnio nuostatas. Valdybos nariai gauna pareiginį atlyginimą tuo atveju, jei jie su bendrove yra sudarę darbo sutartį. Jeigu valdybos nariai yra valstybės tarnautojai, kuriems tarnybinis atlyginimas mokamas iš valstybės biudžeto lėšų, jiems skirtos tantjemos pervedamos į valstybės biudžetą, o kai tarnybinis atlyginimas mokamas iš savivaldybių biudžetų lėšų, jiems skirtos tantjemos pervedamos į savivaldybių biudžetus. Jeigu valdybos nariai yra valstybės ar savivaldybės įmonės darbuotojai, tantjemos pervedamos tai valstybės ar savivaldybės įmonei, kuriai šie valdybos nariai atstovauja.
 Straipsnio dalies pakeitimai:
 Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+Nr. VIII-1570, 2000-03-16, Žin., 2000, Nr. 28-760 (2000-04-05), i. k. 1001010ISTAIII-1570
 Straipsnio dalies numeracijos pakeitimas:
 Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010ISTAVIII-666
  
@@ -3597,3 +3599,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo 13 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010ISTAIII-1532
 Lietuvos Respublikos akcinių bendrovių įstatymo 43 ir 45 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1570, 2000-03-16, Žin., 2000, Nr. 28-760 (2000-04-05), i. k. 1001010ISTAIII-1570
+Lietuvos Respublikos akcinių bendrovių įstatymo 24 ir 26 straipsnių papildymo įstatymas
