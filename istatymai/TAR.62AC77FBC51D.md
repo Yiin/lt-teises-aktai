@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.62AC77FBC51D"
 
 # Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas
 
+Suvestinė redakcija nuo 1996-04-19 iki 1996-07-31
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 55-1351, i. k. 0951010ISTA000I-938
+ 
 LIETUVOS RESPUBLIKOS
 UŽSIENIO KAPITALO INVESTICIJŲ LIETUVOS RESPUBLIKOJE
 Į S T A T Y M A S
@@ -100,7 +104,10 @@ Užsienio investuotojų įnašų vertė, išreikšta laisvai konvertuojama valiu
 
 7 straipsnis. Garantijos užsienio investuotojams
 
-Užsienio investicijas, investuotojų pelną, pajamas, dividendus, teises ir teisėtus interesus Lietuvos Respublikoje gina Lietuvos įstatymai.
+Užsienio investicijas, investuotojų pelną, pajamas, dividendus, teises ir teisėtus interesus Lietuvos Respublikoje gina Lietuvos įstatymai. Užsienio investicijoms laisvosiose ekonominėse zonose taikoma investicijų apsauga, valstybės garantijos ir muitų, mokesčių lengvatos, numatytos Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. I-1269, 1996-04-02, Žin., 1996, Nr. 35-872 (1996-04-19), i. k. 0961010ISTA00I-1269
+ 
 
 Turto atlygintinis paėmimas galimas tik Lietuvos Respublikos įstatymuose nustatytais atvejais ir tvarka, tik visuomenės poreikiams ir tik kompensuojant investuotojui (investuotojams) atlygintinai paimto turto rinkos vertę.
 
@@ -235,4 +242,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1269, 1996-04-02, Žin., 1996, Nr. 35-872 (1996-04-19), i. k. 0961010ISTA00I-1269
+Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 7 straipsnio papildymo įstatymas
 
