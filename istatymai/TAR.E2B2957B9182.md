@@ -1870,14 +1870,28 @@ kontrolės tarnyba yra juridinis asmuo. Jos veikla finansuojama iš valstybės
 biudžeto.
 2. Valstybinė
 tabako ir alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės:
+ 
+[iki 2004-05-01]
 1) licencijuoja
 alkoholio, tabako gamybą, prekybą, importą;
+ 
+[nuo 2004-05-01]
+1) licencijuoja
+alkoholio, tabako gamybą, prekybą;
+Punkto pakeitimai:
+Nr. IX-1841,
+2003-11-20, Žin., 2003, Nr. 115-5195 (2003-12-10)
+ 
 2) kontroliuoja,
 kaip ūkiniai subjektai laikosi Tabako kontrolės ir Alkoholio kontrolės
 įstatymų;
-3) kontroliuoja,
-kaip visuomenės informavimo priemonėse laikomasi tabako ir alkoholio reklamos
-ribojimo ir draudimo;
+ 
+3) [Negalioja
+nuo 2003-12-10]
+Punkto pakeitimai:
+Nr. IX-1841,
+2003-11-20, Žin., 2003, Nr. 115-5195 (2003-12-10)
+ 
 4) vykdo kitas
 įstatymų, tarnybos nuostatų nustatytas funkcijas.
  
@@ -1895,8 +1909,8 @@ monitoringą, valstybinę visuomenės sveikatos ekspertizę, visuomenės sveikat
 saugos ekspertizę, atlieka visuomenės sveikatos priežiūros paslaugų
 prieinamumo, kokybės (tinkamumo) ir efektyvumo kontrolę, vykdo sveikatos
 priežiūros, švietimo, socialinės globos ir rūpybos įstaigų valstybinę
-visuomenės sveikatos saugos kontrolę ir kitas funkcijas, nustatytas
-jos nuostatuose.
+visuomenės sveikatos saugos kontrolę ir kitas funkcijas,
+nustatytas jos nuostatuose.
 Straipsnio pakeitimai:
 Nr. VIII-1799, 00.07.04, Žin., 2000,
 Nr.61-1810 (00.07.26)
@@ -2041,8 +2055,8 @@ yra juridinis asmuo. Jos veikla yra finansuojama iš valstybės biudžeto.
 2. Valstybinė
 medicininio audito inspekcija prie Sveikatos apsaugos ministerijos:
 1) atlieka
-asmens sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir ekonominio
-efektyvumo kontrolę;
+asmens sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir
+ekonominio efektyvumo kontrolę;
 2) kontroliuoja,
 kaip fiziniai ir juridiniai asmenys laikosi standartizacijos norminių dokumentų
 reikalavimų sveikatos priežiūros kokybės klausimais;
@@ -2121,9 +2135,9 @@ SUBJEKTŲ TEISĖS IR PAREIGOS SVEIKATINIMO VEIKLOJE
 straipsnis. Lietuvos Respublikos gyventojų teisės sveikatinimo veikloje
 Lietuvos
 Respublikos gyventojai turi teisę:
-1) turėti sveiką,
-saugią fizinę ir socialinę aplinką bei gauti informaciją apie pavojų sveikatai
-šioje aplinkoje;
+1) turėti
+sveiką, saugią fizinę ir socialinę aplinką bei gauti informaciją apie pavojų
+sveikatai šioje aplinkoje;
 2) gauti
 sveikatai saugias vartojimui skirtas žaliavas, gaminius, prekes ir paslaugas;
 3) gauti
@@ -2288,8 +2302,8 @@ organizacijomis sveikatinimo veiklos srityje, turi vadovautis šiais principais:
 1) užtikrinti,
 kad Lietuvos Respublikos įmonės ir įstaigos savo ūkine komercine veikla
 nepadarytų žalos kitų valstybių teritorijoje gyvenantiems asmenims;
-2) teikti suinteresuotoms
-šalims objektyvią ir patikimą sveikatos informaciją;
+2) teikti
+suinteresuotoms šalims objektyvią ir patikimą sveikatos informaciją;
 3) aktyviai
 siekti Pasaulio sveikatos organizacijos priimtų sveikatos strategijų
 įgyvendinimo;
@@ -2377,8 +2391,7 @@ SVEIKATOS SISTEMOS ĮSTATYMO 71 STRAIPSNIO PAKEITIMO IR
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1944, 00.09.19, Žin., 2000,
 Nr.85-2580 (00.10.11)
-SVEIKATOS SISTEMOS ĮSTATYMO 73 STRAIPSNIO PAKEITIMO
-ĮSTATYMAS
+SVEIKATOS SISTEMOS ĮSTATYMO 73 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2423,7 +2436,15 @@ baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741)
 ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341),
 t. y. nuo 2003 m. gegužės 1 d.
  
-*** Pabaiga ***
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1841,
+2003-11-20, Žin., 2003, Nr. 115-5195 (2003-12-10)
+SVEIKATOS
+SISTEMOS ĮSTATYMO 70 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
  
  
 KONSTITUCINIO TEISMO NUTARIMAI:
@@ -2440,11 +2461,12 @@ STRAIPSNIŲ, LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 18 STRAIPSNIO 2
 DALIES IR LIETUVOS RESPUBLIKOS SEIMO STATUTO 172 STRAIPSNIO 1 DALIES ATITIKTIES
 LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
-***
-Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2003-05-13)
+*** Pabaiga ***
+ 
+ 
+Redagavo: Aušra
+Bodin (2003-12-10)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
