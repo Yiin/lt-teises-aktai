@@ -622,8 +622,7 @@ gali būti perduotas valstybės arba kitos savivaldybės nuosavybėn, kai yra
 atitinkamai Vyriausybės ar jos įgaliotos institucijos arba kitos savivaldybės
 tarybos sutikimas.
 Straipsnio pakeitimai:
-Nr. IX-1548,
-2003-04-29, Žin., 2003, Nr. 47-2065 (2003-05-14)
+Nr. IX-1548, 2003-04-29, Žin., 2003, Nr. 47-2065 (2003-05-14)
  
 18
 straipsnis. Valstybės ir savivaldybių turto mainai
@@ -661,31 +660,35 @@ būti atlyginamas, o tais atvejais, kai mainų sutarties šalis pagal šio
 straipsnio 2 dalį yra kiti juridiniai ar fiziniai asmenys, privalo būti
 atlyginamas pinigais.
  
-19
-straipsnis. Valstybės ar savivaldybių turto investavimas
+19 straipsnis. Valstybės ir savivaldybių
+turto investavimas
 1.
 Valstybės ir savivaldybių turto investavimas – tai valstybei ar savivaldybei
 nuosavybės teise priklausančio turto, kaip įnašo, perdavimas steigiamai
-viešajai įstaigai, valstybės ar savivaldybės įmonei, taip pat šio turto
-perdavimas didinant viešosios įstaigos, valstybės ar savivaldybės įmonės arba
-privataus juridinio asmens kapitalą, jei valstybė ar savivaldybė yra jų
-dalininkė. Gali būti investuojami pinigai, taip pat pagal Turto ir verslo
-vertinimo pagrindų įstatymą įvertintas ilgalaikis ir trumpalaikis materialusis
-turtas bei nematerialusis turtas.
+viešajai įstaigai, akcinei bendrovei ar uždarajai akcinei bendrovei, taip pat
+šio turto perdavimas didinant viešosios įstaigos kapitalą arba akcinės
+bendrovės ar uždarosios akcinės bendrovės įstatinį kapitalą, jei valstybė ir
+(ar) savivaldybė yra jų dalyvė. Gali būti investuojami pinigai, taip pat pagal
+Turto ir verslo vertinimo pagrindų įstatymą įvertintas ilgalaikis ir
+trumpalaikis materialusis turtas bei nematerialusis turtas.
 2.
 Sprendimą dėl valstybei nuosavybės teise priklausančio turto investavimo priima
 Vyriausybė. Sprendimą dėl savivaldybei nuosavybės teise priklausančio turto
-investavimo priima savivaldybės taryba.Prieš priimant tokį sprendimą būtina jį
-pagrįsti.
+investavimo priima savivaldybės taryba. Prieš priimant tokį sprendimą būtina jį
+pagrįsti. 
 3.
 Valstybės ar savivaldybių turtas negali būti investuojamas įmonei ar
-vertybiniams popieriams įsigyti iš fizinių ir privačių juridinių asmenų, taip
-pat privačiam juridiniam asmeniui steigti, išskyrus įstatymų nustatytus
+vertybiniams popieriams įsigyti iš fizinių ir privačiųjų juridinių asmenų, taip
+pat privačiajam juridiniam asmeniui steigti, išskyrus šio ir kitų įstatymų nustatytus
 atvejus.
 4.
-Valstybė ar savivaldybė gali turtą investuoti įsigydama didinančios įstatinį
-kapitalą akcinės bendrovės ar uždarosios akcinės bendrovės akcijų, kurios
-suteikia balsavimo teisę visuotiniame akcininkų susirinkime.
+Valstybė ar savivaldybė gali turtą investuoti įsigydama steigiamos arba
+didinančios įstatinį kapitalą akcinės bendrovės ar uždarosios akcinės bendrovės
+akcijų, kurios visuotiniame akcininkų susirinkime valstybei ar savivaldybei
+(-ėms) arba joms kartu suteikia daugiau kaip 50 procentų balsų.
+Straipsnio pakeitimai:
+Nr. IX-1586,
+2003-05-27, Žin., 2003, Nr. 57-2534 (2003-06-13)
  
 20
 straipsnis. Valstybės ir savivaldybių turto įkeitimas
@@ -706,8 +709,8 @@ disponavimo
 juo kontrolė
 1.
 Valstybės turto apskaitą, valdymą, naudojimą ir disponavimą juo kontroliuoja
-valstybės institucijos, valstybės įmonės, įstaigos ar organizacijos vidaus
-audito tarnyba (vidaus auditoriai) ir Valstybės kontrolė.
+valstybės institucijos, valstybės įmonės, įstaigos ar organizacijos vidaus audito
+tarnyba (vidaus auditoriai) ir Valstybės kontrolė.
 2.
 Valstybės kontrolė kasmet iki gruodžio 1 dienos pateikia Seimui išvadą dėl šio
 Įstatymo 15 straipsnio 4 dalyje nurodytos ataskaitos.
@@ -718,8 +721,6 @@ savivaldybės kontrolierius (kontrolieriaus tarnyba) ir Valstybės kontrolė.
 Savivaldybės kontrolierius (kontrolieriaus tarnyba) pateikia savivaldybės
 tarybai (tarybos nustatyta tvarka bei terminais) išvadą dėl šio Įstatymo 15
 straipsnio 5 dalyje nurodytos ataskaitos.
- 
- 
  
 KETVIRTASIS
 SKIRSNIS
@@ -752,10 +753,10 @@ asmenų veikos, jei yra įsiteisėjęs prokuroro nutarimas ar ikiteisminio tyrim
 teisėjo sprendimas dėl ikiteisminio tyrimo nutraukimo arba teismo ar teisėjo
 nutarimai nutraukti administracinio teisės pažeidimo bylą;
 7)
-jis trukdo statyti naujus statinius arba rekonstruoti esamus statinius ar teritorijas.
-Ši nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus nekilnojamąsias
-kultūros vertybes, nustatyta tvarka suderinus naujos statybos ar rekonstravimo
-projektą;
+jis trukdo statyti naujus statinius arba rekonstruoti esamus statinius ar
+teritorijas. Ši nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus
+nekilnojamąsias kultūros vertybes, nustatyta tvarka suderinus naujos statybos
+ar rekonstravimo projektą;
 8)
 nelieka kur jį pritaikyti.
 2.
@@ -790,17 +791,17 @@ savivaldybės nematerialųjį, ilgalaikį ir trumpalaikį materialųjį turtą,
 išskyrus šio Įstatymo 22 straipsnio 1 dalies 6 punkte nurodytą atvejį, galima
 šiais būdais:
 1)
-perduodant patikėjimo teise iš vienos valstybės ar savivaldybių institucijos, valstybės
-ar savivaldybės įstaigos ar organizacijos kitai tokiai institucijai, įstaigai
-ar organizacijai, taip pat šio Įstatymo 9 straipsnio 4 dalyje bei 11 straipsnio
-3 dalyje nurodytiems asmenims;
+perduodant patikėjimo teise iš vienos valstybės ar savivaldybių institucijos,
+valstybės ar savivaldybės įstaigos ar organizacijos kitai tokiai institucijai,
+įstaigai ar organizacijai, taip pat šio Įstatymo 9 straipsnio 4 dalyje bei 11
+straipsnio 3 dalyje nurodytiems asmenims;
 2)
 perduodant pagal panaudos sutartį viešosioms įstaigoms, veikiančioms pagal
 Viešųjų įstaigų įstatymą, kai bent vienas iš jų steigėjų yra valstybės ar
 savivaldybių institucija, arba viešosioms švietimo įstaigoms, turinčioms
-Švietimo ir mokslo ministerijos leidimus (licencijas) mokyti, labdaros ir
-paramos organizacijoms, fondams, visuomeninėms organizacijoms ir kitiems
-subjektams, jei tai numatyta įstatymuose;
+Švietimo ir mokslo ministerijos leidimus (licencijas) mokyti, labdaros ir paramos
+organizacijoms, fondams, visuomeninėms organizacijoms ir kitiems subjektams,
+jei tai numatyta įstatymuose;
 3)
 investuojant šio Įstatymo nustatyta tvarka;
 4)
@@ -888,7 +889,7 @@ SEIMO
 PIRMININKAS                                                                    VYTAUTAS
 LANDSBERGIS
  
-_____________
+____________________
  
 Pakeitimai:
  
@@ -921,8 +922,8 @@ VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO
  
 4.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-383, 2001-06-19, Žin., 2001, Nr.
-56-1981 (2001-06-30)
+Nr. IX-383, 2001-06-19, Žin., 2001, Nr. 56-1981
+(2001-06-30)
 VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR
 DISPONAVIMO JUO ĮSTATYMO 25 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -955,8 +956,7 @@ Nr.
 IX-900,
 2002-05-23, Žin., 2002, Nr. 60-2412 (2002-06-19)
 VALSTYBĖS
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO
-ĮSTATYMAS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
 Šio Įstatymo 1 straipsnyje
 išdėstyto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo
@@ -988,11 +988,21 @@ VALSTYBĖS
 IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 17
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1586,
+2003-05-27, Žin., 2003, Nr. 57-2534 (2003-06-13)
+VALSTYBĖS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-21)
+Aušrinė Trapinskienė (2003-06-13)
                  
 autrap@lrs.lt
