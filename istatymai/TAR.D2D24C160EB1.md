@@ -18,150 +18,159 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Redagavo:
-Ramunė Lūžaitė (1997.05.13)
+Redagavo: Ramunė Lūžaitė (2000.02.29)
  
-Įstatymas
-paskelbtas: Žin., 1996, Nr.32-787
  
-Neoficialus
-įstatymo tekstas
+Įstatymas paskelbtas: Žin., 1996,
+Nr.32-787
+ 
+Neoficialus įstatymo tekstas
  
 Pakeitimai:
  
 1.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-211, 97.04.30, Žin., 1997, Nr.41-994 (97.05.14)
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-211, 97.04.30, Žin., 1997,
+Nr.41-994 (97.05.14)
+LIETUVOS RESPUBLIKOS LABDAROS IR PARAMOS
+FONDŲ ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1539, 00.02.15, Žin., 2000, Nr.18-430
+(00.02.29)
+LIETUVOS RESPUBLIKOS LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+*** Pabaiga ***
+ 
 LIETUVOS
-RESPUBLIKOS LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 18 STRAIPSNIO PAKEITIMO
+RESPUBLIKOS
+LABDAROS IR
+PARAMOS FONDŲ
 ĮSTATYMAS
  
-***
-Pabaiga ***
- 
-LIETUVOS RESPUBLIKOS
- 
-LABDAROS IR PARAMOS FONDŲ
- 
-ĮSTATYMAS
- 
-1996 m. kovo 14 d. Nr. I-1232
+1996 m. kovo 14
+d. Nr. I-1232
 Vilnius
      
  
      1
 straipsnis. Įstatymo paskirtis
  
-     1.
-Šis įstatymas reglamentuoja labdaros ir paramos fondų (toliau - fondo)
-steigimą, valdymą, veiklą, reorganizavimą ir likvidavimą.
+     1. Šis
+įstatymas reglamentuoja labdaros ir paramos fondų (toliau - fondo) steigimą,
+valdymą, veiklą, reorganizavimą ir likvidavimą.
      2. 
 Įstatymas  netaikomas  kredito  ir  draudimo organizacijoms, turinčioms fondo
 pavadinimą, taip pat fondams, kurie steigiami pagal pavienius įstatymus arba
 tarptautines sutartis  su  kitomis  valstybėmis  bei  tarptautinėmis
 organizacijomis ir reglamentuojami sutarties sąlygomis.
-     
+    3. Įstatymas netaikomas
+Lietuvos samariečių bendrijai, Dievo meilės misionierių labdaros organizacijos
+namams Vilniuje ir Maltos ordino pagalbos tarnybai. Šios organizacijos veikia pagal
+savo įstatus, įregistruotus registro tvarkymo įstaigoje.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-1539, 00.02.15, Žin., 2000, Nr.18-430
+(00.02.29)
+ 
      2
 straipsnis. Fondo samprata
  
-     1.
-Fondas - tai neturinti narių ne pelno organizacija, kurios veiklos tikslai yra
-labdara arba (ir) parama mokslo, kultūros,  švietimo, meno, religijos, 
-sporto,  sveikatos apsaugos, socialinės globos ir rūpybos, aplinkos apsaugos ir
-kitoms Labdaros ir paramos įstatymo nustatytoms sritims. Ne pelno organizacija
-- tai įstatymų nustatyta tvarka įsteigtas juridinio asmens teises turintis
-subjektas, kurio veiklos tikslas nėra pelno siekimas.
-     2.
-Fondo buveinė turi būti Lietuvos Respublikoje.
+     1. Fondas
+- tai neturinti narių ne pelno organizacija, kurios veiklos tikslai yra labdara
+arba (ir) parama mokslo, kultūros,  švietimo, meno, religijos,  sporto, 
+sveikatos apsaugos, socialinės globos ir rūpybos, aplinkos apsaugos ir kitoms
+Labdaros ir paramos įstatymo nustatytoms sritims. Ne pelno organizacija - tai
+įstatymų nustatyta tvarka įsteigtas juridinio asmens teises turintis subjektas,
+kurio veiklos tikslas nėra pelno siekimas.
+     2. Fondo
+buveinė turi būti Lietuvos Respublikoje.
      
      3
 straipsnis. Fondo statusas
  
-     1.
-Fondas yra juridinis asmuo, turintis antspaudą su savo pavadinimu,
-atsiskaitomąją sąskaitą. Pagal savo prievoles fondas atsako visu savo turtu.
-     2.
-Fondas pavadinimą gali pasirinkti pagal savo veiklos sritį. Įstatuose šios
-rūšies ne pelno organizacija  yra nurodoma žodžiu “fondas”. Fondo pavadinimas
-ir simbolika turi atitikti  Vyriausybės  patvirtintų Firmų  vardų  nuostatų
+     1. Fondas
+yra juridinis asmuo, turintis antspaudą su savo pavadinimu, atsiskaitomąją
+sąskaitą. Pagal savo prievoles fondas atsako visu savo turtu.
+     2. Fondas
+pavadinimą gali pasirinkti pagal savo veiklos sritį. Įstatuose šios rūšies ne
+pelno organizacija  yra nurodoma žodžiu “fondas”. Fondo pavadinimas ir
+simbolika turi atitikti  Vyriausybės  patvirtintų Firmų  vardų  nuostatų
 reikalavimus.
-     3.
-Fondas turi Lietuvos Respublikos Konstitucijos, šio ir kitų Lietuvos
-Respublikos įstatymų bei Vyriausybės nutarimų suteiktą veiklos, iniciatyvos bei
-sprendimų priėmimo laisvę ir savo  veiklą  grindžia  šio  įstatymo  nustatyta 
-tvarka įregistruotais įstatais.
+     3. Fondas
+turi Lietuvos Respublikos Konstitucijos, šio ir kitų Lietuvos Respublikos
+įstatymų bei Vyriausybės nutarimų suteiktą veiklos, iniciatyvos bei sprendimų
+priėmimo laisvę ir savo  veiklą  grindžia  šio  įstatymo  nustatyta  tvarka
+įregistruotais įstatais.
      
      4
 straipsnis. Tikslai ir veikla
  
-     1.
-Fondo veiklos tikslai gali būti:
+     1. Fondo
+veiklos tikslai gali būti:
      1) 
 šelpti  ir teikti nemokamą pagalbą  invalidams, ligoniams, vienišiems
 nedarbingiems asmenims, našlaičiams arba vaikams, likusiems be tėvų globos ar
 netekusiems vieno iš tėvų, daugiavaikėms ir mažai aprūpintoms šeimoms,
 bedarbiams, asmenims, kurių gaunamos pajamos negali užtikrinti minimalaus
 gyvenimo lygio;
-     2)
-šelpti asmenis, nukentėjusius nuo karo ir gaivalinių nelaimių, ekologinių
-katastrofų, užkrečiamų ligų epidemijų, padėti  likviduoti tų nelaimių,
-katastrofų ir  epidemijų padarinius;
-     3)
-padėti įsidarbinti, perkvalifikuojant darbo netekusius asmenis;
-     4)
-remti mokslo, kultūros, švietimo, meno, religijos, sporto, sveikatos apsaugos,
+     2) šelpti
+asmenis, nukentėjusius nuo karo ir gaivalinių nelaimių, ekologinių katastrofų,
+užkrečiamų ligų epidemijų, padėti  likviduoti tų nelaimių, katastrofų ir 
+epidemijų padarinius;
+     3) padėti
+įsidarbinti, perkvalifikuojant darbo netekusius asmenis;
+     4) remti
+mokslo, kultūros, švietimo, meno, religijos, sporto, sveikatos apsaugos,
 socialinės globos ir rūpybos plėtojimo programas;
-     5)
-remti aplinkos apsaugos ir aplinkos tvarkymo darbų programas;
-     6) 
-remti istorijos, gamtos, architektūros, kultūros vertybių apsaugos, įamžinimo
-bei restauravimo darbų programas;
-     7)
-remti kitą socialiai naudingą veiklą bei Vyriausybės skelbiamas socialines
-programas;
-     8)
-remti kaimo, miestelių, miestų bei regionų plėtros projektus ir programas;
-     9) 
-remti kitus visuomenei reikšmingus projektus ir programas.
-     2.
-Fondo veiklos tikslai, labdaros ir paramos sritys turi būti nurodyti fondo
-įstatuose.
-     3.
-Fondas labdarą ir paramą teikia Labdaros ir paramos įstatymo nustatyta tvarka.
-     4.
-Fondas negali teikti labdaros ar paramos bei kitaip skirstyti pajamų jo
-steigėjams, valdymo organų  nariams, darbuotojams, išskyrus atvejus, kai jie
-yra fondo įstatuose nustatytos šalpos objektai.
+     5) remti
+aplinkos apsaugos ir aplinkos tvarkymo darbų programas;
+     6)  remti
+istorijos, gamtos, architektūros, kultūros vertybių apsaugos, įamžinimo bei
+restauravimo darbų programas;
+     7) remti
+kitą socialiai naudingą veiklą bei Vyriausybės skelbiamas socialines programas;
+     8) remti
+kaimo, miestelių, miestų bei regionų plėtros projektus ir programas;
+     9)  remti
+kitus visuomenei reikšmingus projektus ir programas.
+     2. Fondo
+veiklos tikslai, labdaros ir paramos sritys turi būti nurodyti fondo įstatuose.
+     3. Fondas
+labdarą ir paramą teikia Labdaros ir paramos įstatymo nustatyta tvarka.
+     4. Fondas
+negali teikti labdaros ar paramos bei kitaip skirstyti pajamų jo steigėjams,
+valdymo organų  nariams, darbuotojams, išskyrus atvejus, kai jie yra fondo
+įstatuose nustatytos šalpos objektai.
      
      5
 straipsnis. Steigėjai
  
-     1.
-Fondo steigėjai yra fiziniai bei juridiniai asmenys, iki fondo įregistravimo
+     1. Fondo
+steigėjai yra fiziniai bei juridiniai asmenys, iki fondo įregistravimo
 įsipareigoję skirti fondui įnašus pinigais ar turtu, teikti fondui paslaugas.
 Steigėjais gali būti Lietuvos Respublikos ir kitų valstybių fiziniai ir
 juridiniai  asmenys,  tarptautinės  organizacijos.  Fondo steigėjais  negali
 būti politinės partijos ir  politinės organizacijos,  taip pat valstybės
 valdžios  ir  valdymo institucijos, kurios kontroliuoja fondų finansinę
 buhalterinę veiklą.
-     2.
-Fondo steigėjai turi tokias neturtines teises:
+     2. Fondo
+steigėjai turi tokias neturtines teises:
      1)
 dalyvauti steigėjų susirinkimuose su sprendžiamuoju balsu;
-     2)
-gauti informaciją apie fondo veiklą;
+     2) gauti
+informaciją apie fondo veiklą;
      3)
 apskųsti teismui steigėjų susirinkimo bei valdybos nutarimus ir administracijos
 sprendimus.
-     3.
-Fondo steigėjų skaičius neribojamas. Fondo steigėjai už įsipareigojimų
-nevykdymą gali būti pašalinti, o fondo rėmėjams, įsipareigojantiems skirti
-fondui lėšų, gali būti suteiktos steigėjo teisės, kurias nustato šis įstatymas.
-Steigėją pašalinti bei rėmėjui suteikti steigėjo teises gali tik steigėjų
-susirinkimas. Steigėjo pašalinimo bei steigėjo teisių  suteikimo  rėmėjams
-tvarka turi  būti  nustatyta įstatuose.
+     3. Fondo
+steigėjų skaičius neribojamas. Fondo steigėjai už įsipareigojimų nevykdymą gali
+būti pašalinti, o fondo rėmėjams, įsipareigojantiems skirti fondui lėšų, gali
+būti suteiktos steigėjo teisės, kurias nustato šis įstatymas. Steigėją
+pašalinti bei rėmėjui suteikti steigėjo teises gali tik steigėjų susirinkimas.
+Steigėjo pašalinimo bei steigėjo teisių  suteikimo  rėmėjams tvarka turi  būti 
+nustatyta įstatuose.
      4.
 Steigėjai sudaro fondo steigimo sutartį. Jeigu fondą steigia vienas asmuo,
 vietoj steigimo sutarties jis surašo steigimo aktą, kuriam taikomi steigimo
@@ -171,16 +180,16 @@ dokumentus. Šie dokumentai turi būti pridedami.
 Steigimo sutartyje (akte) turi būti nurodyta:
      1) 
 steigėjai  (vardai, pavardės,  juridinių  asmenų pavadinimai) ir jų adresai;
-     2)
-fondo pavadinimas;
-     3)
-fondo tikslai;
+     2) fondo
+pavadinimas;
+     3) fondo
+tikslai;
      4)
 steigėjų įsipareigojimai;
      5)
 steigimo išlaidų kompensavimas;
-     6)
-fondo veiklos terminai.
+     6) fondo
+veiklos terminai.
      6.
 Steigimo sutartį pasirašo visi steigėjai arba jų įgalioti asmenys. Jeigu bent
 vienas steigėjas yra fizinis asmuo, sutartis turi būti patvirtinta notaro.
@@ -196,38 +205,38 @@ straipsnis. Įstatai
 Įstatai yra teisinis dokumentas, kuriuo  fondas grindžia savo veiklą.
      2.
 Įstatuose turi būti nurodyta:
-     1)
-fondo pavadinimas;
-     2)
-fondo buveinė (adresas);
-     3)
-fondo steigėjai (vardai, pavardės, juridinių asmenų pavadinimai) ir jų adresai;
+     1) fondo
+pavadinimas;
+     2) fondo
+buveinė (adresas);
+     3) fondo
+steigėjai (vardai, pavardės, juridinių asmenų pavadinimai) ir jų adresai;
      4)
 steigėjų teisės ir pareigos;
      5)
 steigėjų išstojimo (pašalinimo) ir steigėjo teisių suteikimo rėmėjams tvarka;
-     6)
-fondo veiklos tikslai ir terminai, labdaros ir paramos sritys;
-     7)
-fondo pajamų šaltiniai, pajamų bei turto naudojimo tvarka;
-     8)
-valdymo organų sudarymo ir atšaukimo tvarka, jų kompetencija;
+     6) fondo veiklos
+tikslai ir terminai, labdaros ir paramos sritys;
+     7) fondo
+pajamų šaltiniai, pajamų bei turto naudojimo tvarka;
+     8) valdymo
+organų sudarymo ir atšaukimo tvarka, jų kompetencija;
      9)
 finansinės veiklos kontrolė;
-     10)
-įstatų keitimo ir papildymo tvarka;
+     10) įstatų
+keitimo ir papildymo tvarka;
      11) 
 filialų  steigimo  ir likvidavimo  tvarka,  jų įgaliojimai;
-     12)
-fondo reorganizavimo ir likvidavimo tvarka.
+     12) fondo
+reorganizavimo ir likvidavimo tvarka.
      3. 
 Įstatuose  gali  būti  ir  kitų  nuostatų, neprieštaraujančių Lietuvos
 Respublikos įstatymams.
-     4. 
-Jeigu  veikla,  numatyta fondo  įstatuose,  yra reglamentuojama kitų Lietuvos
+     4.  Jeigu 
+veikla,  numatyta fondo  įstatuose,  yra reglamentuojama kitų Lietuvos
 Respublikos  įstatymų,  tai rengiant fondo įstatus privaloma jų laikytis.
-     5.
-Fondo įstatai turi būti priimti steigėjų susirinkimo nutarimu.
+     5. Fondo
+įstatai turi būti priimti steigėjų susirinkimo nutarimu.
      
      7
 straipsnis. Registravimas
@@ -239,18 +248,16 @@ ir išregistruojami Lietuvos Respublikos įstatymų nustatyta tvarka.
      8
 straipsnis. Filialai
  
-     1.
-Fondai turi teisę steigti filialus. Jie steigiami fondo įstatuose nustatyta
-tvarka.
+     1. Fondai
+turi teisę steigti filialus. Jie steigiami fondo įstatuose nustatyta tvarka.
      2. 
 Filialas yra fondo padalinys, turintis  atskirą buveinę. Filialas nėra
 juridinis asmuo ir naudojasi fondo, kaip juridinio asmens, vardu. Filialas
 veikia pagal fondo įstatų suteiktus įgaliojimus, kurie turi būti nurodyti ir
 filialo nuostatuose.
-     3.
-Filialo turtas įtraukiamas į apskaitą fondo finansinės atskaitomybės 
-dokumentuose, taip  pat  atskiros  filialo finansinės atskaitomybės
-dokumentuose.
+     3. Filialo
+turtas įtraukiamas į apskaitą fondo finansinės atskaitomybės  dokumentuose,
+taip  pat  atskiros  filialo finansinės atskaitomybės dokumentuose.
      4. 
 Filialas  registruojamas,  perregistruojamas  ir išregistruojamas įstatymų
 nustatyta tvarka.
@@ -264,86 +271,86 @@ straipsnis. Teisės ir pareigos
  
      1.
 Įstatuose numatytai veiklai vykdyti fondas gali:
-     1)
-turėti vieną atsiskaitomąją ir vieną užsienio valiutos sąskaitą tik Lietuvos
+     1) turėti
+vieną atsiskaitomąją ir vieną užsienio valiutos sąskaitą tik Lietuvos
 Respublikoje įregistruotuose bankuose;
-     2)
-turėti teisėtai įgytą turtą, jį valdyti, juo naudotis ir disponuoti;
+     2) turėti
+teisėtai įgytą turtą, jį valdyti, juo naudotis ir disponuoti;
      3)
 prisiimti įsipareigojimus ir sudaryti sutartis su partneriais;
-     4)
-už prekes ir paslaugas atsiskaityti įstatymų nustatyta tvarka;
-     5)
-jungtis į ne pelno organizacijų asociacijas ir išstoti iš jų;
-     6)
-steigti fondui priklausančią įmonę iš šio įstatymo 10 straipsnio šeštosios
-dalies 2 punkte numatytų lėšų. Tokios įmonės steigiamos ir veikia pagal
-atitinkamos rūšies įmonių įstatymą.
-     2.
-Fondui draudžiama komercinė veikla, jis negali būti ūkinių bendrijų tikruoju
-nariu, skolintis lėšų.
-     3. 
-Fondui draudžiama dalyvauti politinėje veikloje, teikti  paramą  politinėms 
+     4) už
+prekes ir paslaugas atsiskaityti įstatymų nustatyta tvarka;
+     5) jungtis
+į ne pelno organizacijų asociacijas ir išstoti iš jų;
+     6) steigti
+fondui priklausančią įmonę iš šio įstatymo 10 straipsnio šeštosios dalies 2
+punkte numatytų lėšų. Tokios įmonės steigiamos ir veikia pagal atitinkamos
+rūšies įmonių įstatymą.
+     2. Fondui
+draudžiama komercinė veikla, jis negali būti ūkinių bendrijų tikruoju nariu,
+skolintis lėšų.
+     3.  Fondui
+draudžiama dalyvauti politinėje veikloje, teikti  paramą  politinėms 
 partijoms  ir  politinėms organizacijoms.
-     4.
-Fondas turi teisę atsisakyti priimti iš potencialių rėmėjų lėšas ar turtą,
-jeigu tuo naudodamiesi rėmėjai ar jų grupė gali daryti įtaką fondo veiklai savo
-ar kitų asmenų naudai.
-     5.
-Fondai privalo vykdyti labdaros ir paramos apskaitą, nurodydami labdaros ar
-paramos davėjus bei gavėjus, dydį ir paskirtį. Įstatymų nustatyta tvarka fondai
-vykdo buhalterinę apskaitą, teikia finansinę buhalterinę informaciją valstybės
+     4. Fondas
+turi teisę atsisakyti priimti iš potencialių rėmėjų lėšas ar turtą, jeigu tuo
+naudodamiesi rėmėjai ar jų grupė gali daryti įtaką fondo veiklai savo ar kitų
+asmenų naudai.
+     5. Fondai
+privalo vykdyti labdaros ir paramos apskaitą, nurodydami labdaros ar paramos
+davėjus bei gavėjus, dydį ir paskirtį. Įstatymų nustatyta tvarka fondai vykdo
+buhalterinę apskaitą, teikia finansinę buhalterinę informaciją valstybės
 institucijoms ir moka mokesčius, kontroliuojama jų finansinė buhalterinė
 veikla.
-     6.
-Fondo apskaitos metai yra kalendoriniai metai.
+     6. Fondo
+apskaitos metai yra kalendoriniai metai.
      
      10
 straipsnis. Turtas
  
-     1.
-Fondui nuosavybės teise gali priklausyti turtas, teisėtai įgytas įstatuose
-nustatytai veiklai vykdyti. Fondo turtas yra atskirtas nuo steigėjų turto.
-     2.
-Fondo pajamų šaltiniai gali būti:
+     1. Fondui
+nuosavybės teise gali priklausyti turtas, teisėtai įgytas įstatuose nustatytai
+veiklai vykdyti. Fondo turtas yra atskirtas nuo steigėjų turto.
+     2. Fondo
+pajamų šaltiniai gali būti:
      1)
 steigėjų įnašai ir kitu būdu skiriamos lėšos;
-     2)
-rėmėjų dovanotos (aukotos) lėšos ir turtas;
+     2) rėmėjų
+dovanotos (aukotos) lėšos ir turtas;
      3)
 palikimai, pagal testamentą tenkantys fondui;
-     4)
-kredito įstaigų palūkanos, mokamos už jose saugomas lėšas;
-     5)
-fondui priklausančių įmonių ir įmonių, kurių dalininku yra fondas, pelnas;
-     6)
-lėšos ir turtas, skiriami tiksliniams projektams bei programoms iš analogiškų
-fondų, programų bei projektų.
+     4) kredito
+įstaigų palūkanos, mokamos už jose saugomas lėšas;
+     5) fondui
+priklausančių įmonių ir įmonių, kurių dalininku yra fondas, pelnas;
+     6) lėšos
+ir turtas, skiriami tiksliniams projektams bei programoms iš analogiškų fondų,
+programų bei projektų.
      3.
 Steigėjų ir rėmėjų įnašus, dovanas bei palikimą gali sudaryti pinigai, turtas
 (pastatai, įrengimai, transporto priemonės bei kt.) ir paslaugos.
      4.
 Labdarai ir paramai gautas lėšas ir turtą fondas gali naudoti tik pagal
 paskirtį įstatuose nurodytiems tikslams.
-     5.
-Fondo rėmėjas gali nustatyti jo skirtų lėšų (turto) naudojimo sritis, bet tik
-fondo įstatų numatytai veiklai. Rėmėjo prašymu fondas privalo teikti informaciją,
+     5. Fondo
+rėmėjas gali nustatyti jo skirtų lėšų (turto) naudojimo sritis, bet tik fondo
+įstatų numatytai veiklai. Rėmėjo prašymu fondas privalo teikti informaciją,
 reikalingą kontroliuoti, kaip fondas vykdo rėmėjo nustatytas sąlygas.
-     6.
-Fondas turi teisę dalį labdaros ir paramos pajamų naudoti tokiems tikslams:
+     6. Fondas
+turi teisę dalį labdaros ir paramos pajamų naudoti tokiems tikslams:
      1)
 administravimo išlaidoms ir fondo veiklai plėtoti - iki 20 proc. metinių
 pajamų;
-     2)
-fondui priklausančioms įmonėms steigti ir plėtoti - iki 50 proc. metinių pajamų
-kartu su šios dalies 1 punkte nurodytomis išlaidomis.
-     7.
-Fondo lėšos kaupiamos ir saugomos bankų įstaigose.
-     8.
-Fondo turtas negali būti įkeistas, draudžiama juo laiduoti kitų asmenų
-skolinius įsipareigojimus.
-     9. 
-Fondo  pajamos iš veiklos, kuri nėra  numatyta įstatuose, taip pat gautos arba
+     2) fondui
+priklausančioms įmonėms steigti ir plėtoti - iki 50 proc. metinių pajamų kartu
+su šios dalies 1 punkte nurodytomis išlaidomis.
+     7. Fondo
+lėšos kaupiamos ir saugomos bankų įstaigose.
+     8. Fondo
+turtas negali būti įkeistas, draudžiama juo laiduoti kitų asmenų skolinius
+įsipareigojimus.
+     9.  Fondo 
+pajamos iš veiklos, kuri nėra  numatyta įstatuose, taip pat gautos arba
 panaudotos pažeidžiant šį įstatymą, paimamos į valstybės biudžetą įstatymų
 nustatyta tvarka.
      
@@ -366,10 +373,10 @@ prilygsta steigėjų susirinkimo nutarimams.
 Steigėjų susirinkimo kompetencijai priklauso:
      1)
 priimti, keisti ir papildyti įstatus;
-     2)
-šalinti steigėjus, suteikti rėmėjams steigėjo teises;
-     3)
-rinkti (skirti) valdybos narius ir revizorių bei juos atšaukti;
+     2) šalinti
+steigėjus, suteikti rėmėjams steigėjo teises;
+     3) rinkti
+(skirti) valdybos narius ir revizorių bei juos atšaukti;
      4)
 nustatyti atlyginimą valdybos nariams ir revizoriui bei administracijos
 vadovui, jeigu jis yra valdybos narys;
@@ -377,8 +384,8 @@ vadovui, jeigu jis yra valdybos narys;
 tvirtinti fondo veiklos ataskaitas;
      6)
 reorganizuoti bei likviduoti fondą;
-     7)
-steigti fondui priklausančias įmones.
+     7) steigti
+fondui priklausančias įmones.
      3.
 Steigėjų susirinkimų šaukimo tvarką nustato įstatai. Susirinkimo nutarimai
 priimami fondo įstatuose  nustatyta tvarka. Kiekvienas susirinkimo dalyvis
@@ -427,16 +434,15 @@ tvirtinti turtinių įnašų įvertinimą;
      6)
 analizuoti fondo veiklos rezultatus, pajamų ir išlaidų sąmatas,  revizijų,
 inventorizacijos  ir  kitus  vertybių apskaitos duomenis;
-     7)
-teikti steigėjų susirinkimui fondo veiklos ataskaitas.
+     7) teikti
+steigėjų susirinkimui fondo veiklos ataskaitas.
      6.
 Valdybos įgaliojimus nustato fondo įstatai.
-     7.
-Valdyba sprendimus priima posėdžiuose. Posėdis yra teisėtas, jeigu jame
-dalyvauja ne mažiau kaip 2/3 valdybos narių. Sprendimai priimami paprasta balsų
-dauguma. Valdybos nariai turi lygias balso teises. Jei balsai pasiskirsto po
-lygiai, lemia valdybos pirmininko balsas. Posėdžių šaukimo tvarką nustato
-įstatai.
+     7. Valdyba
+sprendimus priima posėdžiuose. Posėdis yra teisėtas, jeigu jame dalyvauja ne
+mažiau kaip 2/3 valdybos narių. Sprendimai priimami paprasta balsų dauguma.
+Valdybos nariai turi lygias balso teises. Jei balsai pasiskirsto po lygiai,
+lemia valdybos pirmininko balsas. Posėdžių šaukimo tvarką nustato įstatai.
      8.
 Valdybos pirmininkas ir nariai privalo solidariai atlyginti fondui nuostolius,
 padarytus dėl valdybos sprendimų, priimtų pažeidžiant fondo įstatus, šį ir
@@ -448,8 +454,8 @@ teismas.
      14
 straipsnis. Administracija
  
-     1.
-Fondo veiklą organizuoja ir vykdo administracija.
+     1. Fondo
+veiklą organizuoja ir vykdo administracija.
      2. 
 Administracija  dirba  vadovaudamasi  Lietuvos Respublikos  įstatymais ir
 kitais teisės  aktais,  fondo įstatais, pareigybių nuostatais ir valdybos
@@ -463,9 +469,9 @@ pareiginius atlyginimus nustato ir sudaro su jais darbo sutartis fondo valdyba.
 Darbo užmokestį administracijos vadovui, kuris yra fondo valdybos narys,
 nustato  steigėjų  susirinkimas.  Kitus  administracijos darbuotojus priima į
 darbą ir sudaro su jais darbo sutartis administracijos vadovas.
-     5.
-Fondo valdyba Darbo sutarties įstatymo nustatyta tvarka gali nutraukti darbo
-sutartį su administracijos vadovu, o iki sutarties nutraukimo - apriboti jo
+     5. Fondo
+valdyba Darbo sutarties įstatymo nustatyta tvarka gali nutraukti darbo sutartį
+su administracijos vadovu, o iki sutarties nutraukimo - apriboti jo
 įgaliojimus.
      6. 
 Administracijos  vadovas,  vadovaudamasis  fondo įstatais, valdybos
@@ -498,11 +504,11 @@ buhalterinius patikrinimus;
      3) 
 artimiausiame steigėjų susirinkime  ar  valdybos posėdyje pranešti apie
 patikrinimų metu nustatytus pažeidimus.
-     3.
-Fondo administracija ir valdyba privalo pateikti revizoriui  (auditoriui)  jo 
+     3. Fondo
+administracija ir valdyba privalo pateikti revizoriui  (auditoriui)  jo 
 reikalaujamus  finansinius buhalterinius dokumentus.
-     4.
-Už darbą revizoriui (auditoriui) fondas gali mokėti atlyginimą. Atlyginimo dydį
+     4. Už
+darbą revizoriui (auditoriui) fondas gali mokėti atlyginimą. Atlyginimo dydį
 arba darbo apmokėjimo sąlygas nustato steigėjų susirinkimas.
      5.
 Revizorius įstatymų nustatyta tvarka atsako už blogą fondo veiklos kontrolę ir
@@ -514,10 +520,10 @@ labdarai ir paramai iš valstybės ir savivaldybių biudžetų gautos lėšos.
      16
 straipsnis. Reorganizavimas
  
-     1.
-Fondas negali būti reorganizuotas į kitos rūšies įmonę ar organizaciją.
-     2.
-Fondas gali būti reorganizuotas steigėjų susirinkimo nutarimu. Galimi fondo
+     1. Fondas
+negali būti reorganizuotas į kitos rūšies įmonę ar organizaciją.
+     2. Fondas
+gali būti reorganizuotas steigėjų susirinkimo nutarimu. Galimi fondo
 reorganizavimo būdai:
      1)
 jungiantis su kitais fondais;
@@ -530,54 +536,52 @@ veikiantys fondai.
 Reorganizuojant fondą, būtina įvertinti jo turtą. Išvadas apie turtą auditorius
 arba revizorius turi raštu pateikti iki steigėjų susirinkimo, kuriame numatyta
 svarstyti fondo reorganizavimą.
-     5.
-Apie fondo reorganizavimą turi būti du kartus viešai skelbiama ”Valstybės
-žiniose”; antrą kartą - ne anksčiau kaip po 30 dienų nuo pirmojo skelbimo.
+     5. Apie
+fondo reorganizavimą turi būti du kartus viešai skelbiama ”Valstybės žiniose”;
+antrą kartą - ne anksčiau kaip po 30 dienų nuo pirmojo skelbimo.
      6.
 Reorganizuoti fondai registruojami įstatymų nustatyta tvarka.
      
      17
 straipsnis. Likvidavimas
  
-     1.
-Fondo likvidavimo pagrindas gali būti:
+     1. Fondo
+likvidavimo pagrindas gali būti:
      1)
 pasibaigęs įstatuose nurodytas fondo veiklos terminas;
      2)
 steigėjų susirinkimo nutarimas;
-     3) 
-teismo sprendimas likviduoti fondą už  įstatymų nustatytus teisės pažeidimus.
+     3)  teismo
+sprendimas likviduoti fondą už  įstatymų nustatytus teisės pažeidimus.
      2.
 Organas, nusprendęs (nutaręs) likviduoti fondą, skiria likvidatorių ir nustato
 jo įgaliojimus. Paskyrus likvidatorių, fondas įgyja likviduojamojo fondo statusą:
 valdymo organai netenka  įgaliojimų valdyti fondą, jų funkcijas  atlieka
 likvidatorius.
-     3. 
-Fondą likvidavus, likvidatorius privalo sudaryti likvidavimo aktą,
-išregistruoti fondą, grąžinti registravimo pažymėjimą jį išdavusiam registro
-tvarkytojui.
+     3.  Fondą
+likvidavus, likvidatorius privalo sudaryti likvidavimo aktą, išregistruoti
+fondą, grąžinti registravimo pažymėjimą jį išdavusiam registro tvarkytojui.
      4.
 Likviduojant fondą, jo turtas ir pajamos, gautos pardavus turtą, turi būti
 perduoti kitam ar kitiems fondams, kurių  tikslai  artimi  likviduojamojo 
 fondo  įstatuose deklaruotiems tikslams, o jei tokių fondų nėra, - kitiems
 fondams. Fondą (fondus) - turto perėmėją (perėmėjus) nustato likvidatorius.
      
+      18
+straipsnis. Baigiamosios nuostatos
+ 
+     Visos iki
+šiol įregistruotos labdaros organizacijos ir labdaros fondai turi patikslinti
+savo įstatus pagal šį įstatymą ir įregistruoti juos pas registro tvarkytoją iki
+1997 m. spalio 1 d.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-211, 97.04.30, Žin., 1997,
+Nr.41-994 (97.05.14)
+ 
      
-18 straipsnis. Baigiamosios nuostatos
- 
-     Visos
-iki šiol įregistruotos labdaros organizacijos ir labdaros fondai turi
-patikslinti savo įstatus pagal šį įstatymą ir įregistruoti juos pas registro
-tvarkytoją iki 1997 m. spalio 1 d.
- 
-Straipsnio
-pakeitimai:
-Nr.
-VIII-211, 97.04.30, Žin., 1997, Nr.41-994 (97.05.14)
- 
-     
-     Skelbiu
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
+     Skelbiu šį
+Lietuvos Respublikos Seimo priimtą įstatymą.
      
      
 RESPUBLIKOS PREZIDENTAS           ALGIRDAS BRAZAUSKAS
