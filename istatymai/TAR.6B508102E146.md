@@ -16,9 +16,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 Redagavo: Ramun? L??ait? (1997
 
 Įstatymas paskelbtas: Žin., 1994,
-Nr.30-530
+Nr. 30-530
 Nauja įstatymo redakcija skelbta:
-Žin., 1997, Nr.117-2996
+Žin., 1997, Nr. 117-2996
 Neoficialus įstatymo tekstas
  
 LIETUVOS RESPUBLIKOS
@@ -66,9 +66,10 @@ dirbtinę bižuteriją ir monetas;
 varikliams, gazolis (dyzelinis kuras), skystasis krosnių kuras, mazutas,
 orimulsija;
 6) prabangūs lengvieji automobiliai;
-7) elektros energija;
+7)elektros
+energija, išskyrus, kai ji pagaminta iš biologinės kilmės kuro;
 8) erotinio ir smurtinio pobūdžio spaudiniai;
-9) visų rūšių tepalai;
+9) visų rūšių tepalai, išskyrus bioalyvas;
 10) cukrus, įskaitant cukrų, esantį produktuose (pagal
 Lietuvos Respublikos Vyriausybės patvirtintą sąrašą);
 11) skysti parfumerijos, kosmetikos, tualetiniai
@@ -90,14 +91,16 @@ Nr. VIII-982, 98.12.21, Žin., 1998,
 Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
 Nr. VIII-1494, 99.12.23, Žin., 1999,
 Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
+Nr. VIII-1876, 00.07.18, Žin., 2000,
+Nr.64-1941 (00.07.31)
  
  
 4 straipsnis. Apmokestinamoji vertė
 Apmokestinamąją vertę sudaro:
 1) Lietuvos Respublikoje pagamintų prekių - prekių
 pardavimo kaina be akcizo ir pridėtinės vertės mokesčio;
-2) importuojamų prekių - prekių muitinės vertės ir
-muito suma. Importuojamų prekių muitinė vertė apskaičiuojama Muitinės kodekso
+2) importuojamų prekių - prekių muitinės vertės ir muito
+suma. Importuojamų prekių muitinė vertė apskaičiuojama Muitinės kodekso
 nustatyta tvarka.
  
 5 straipsnis. Apmokestinamoji apyvarta
@@ -185,9 +188,9 @@ procentų masės kakavos sviesto, - 10 procentų apmokestinamosios vertės;
 15) bižuterijai ir jos dalims iš tauriųjų metalų arba
 metalų, plakiruotų tauriaisiais metalais, aukso arba sidabro dailiadirbystės
 dirbiniams ir jų dalims iš tauriųjų metalų arba metalų, plakiruotų tauriaisiais
-metalais, dirbiniams iš natūraliu arba dirbtiniu būdu išaugintų perlų,
-brangiųjų arba pusbrangių akmenų - natūralių, sintetinių arba regeneruotų - 10
-procentų apmokestinamosios vertės;
+metalais, dirbiniams iš natūraliu arba dirbtiniu būdu išaugintų perlų, brangiųjų
+arba pusbrangių akmenų - natūralių, sintetinių arba regeneruotų - 10 procentų
+apmokestinamosios vertės;
 16) ne senesniems kaip 5 metų prabangiems
 automobiliams (išskyrus specialiuosius), nurodytiems Valstybinės konkurencijos
 ir vartotojų teisių gynimo tarnybos prie Lietuvos Respublikos Vyriausybės
@@ -208,8 +211,9 @@ litrą preparato;
 2. (Neteko galios).
 3. Kai šio straipsnio 1 dalies 16 punkte nurodyto
 importuojamo automobilio, priskirto prabangiems automobiliams, deklaruojamoji
-kaina mažesnė už naujo bazinio automobilio kainą, apskaičiuojant apmokestinamąją
-kainos dalį, maksimali neapmokestinamoji kaina proporcingai sumažinama. 
+kaina mažesnė už naujo bazinio automobilio kainą, apskaičiuojant
+apmokestinamąją kainos dalį, maksimali neapmokestinamoji kaina proporcingai
+sumažinama. 
 4. Cukraus kiekį (procentais), nuo kurio skaičiuojamas
 šio straipsnio 1 dalies 19 punkte nustatytas akcizo tarifas, nustato
 Vyriausybė.
@@ -243,8 +247,8 @@ konsulinių atstovybių, taip pat tarptautinių organizacijų oficialiai misijos
 veiklai, jeigu šių tarptautinių organizacijų sutartyse su Lietuvos Respublika
 numatyta neimti akcizų;
 4) į Lietuvos Respublikos muitų teritoriją
-atsiunčiamos pašto siuntos, kurių svoris ne didesnis kaip 31,5 kilogramo, o
-vertė ne didesnė kaip 400 litų;
+atsiunčiamos pašto siuntos ir pašto siuntiniai, kurių muitinė vertė ne didesnė
+kaip 400 litų;
 5) importuojamos prekės, kurios pagal Muitinės kodeksą
 neapmokestinamos importo mokesčiais;
 6) neišpilstyti alkoholiniai gėrimai ir jų žaliava,
@@ -253,11 +257,11 @@ gaminti šiuos gėrimus;
 7) eksportuotos prekės;
 8) importuojamos prekės, jei jos atleidžiamos nuo
 importo muitų pagal Lietuvos Respublikos muitų tarifų įstatymą.
-9) orlaivių variklių kuras (kodus pagal KPN nustato
-Vyriausybė), kurį importuoja ar įsigyja iš Lietuvos gamintojų įmonės, turinčios
-licenciją verstis naftos produktų importu, prekyba ar eksportu, jeigu šioje
-licencijoje nurodyta, kad įmonė verčiasi orlaivių (lėktuvų) pripildymu, taip
-pat nurodyti šio kuro kodai pagal KPN;
+9) orlaivių variklių kuras (kodus pagal KPN nustato Vyriausybė),
+kurį importuoja ar įsigyja iš Lietuvos gamintojų įmonės, turinčios licenciją
+verstis naftos produktų importu, prekyba ar eksportu, jeigu šioje licencijoje
+nurodyta, kad įmonė verčiasi orlaivių (lėktuvų) pripildymu, taip pat nurodyti
+šio kuro kodai pagal KPN;
 10) Lietuvos
 Respublikos įmonių, gaminančių cigaretes, importuojamas tabakas (kodą pagal KPN
 nustato Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata,
@@ -268,7 +272,11 @@ apskaičiuoti ir sumokėti už jį nustatyto dydžio akcizą;
 (kodus pagal KPN nustato Vyriausybė), kurį importuoja ar įsigyja iš Lietuvos
 gamintojų įmonės, turinčios licenciją verstis naftos produktų importu, prekyba
 ar eksportu, jeigu šioje licencijoje nurodyta, kad įmonė verčiasi laivų
-pripildymu (bunkeravimu), taip pat nurodyti šio kuro kodai pagal KPN.
+pripildymu (bunkeravimu), taip pat nurodyti šio kuro kodai pagal KPN;
+12) nustatyta tvarka dehidratuotas etilo alkoholis,
+skirtas naudoti kaip žaliava biokuro gamybai;
+13) rapsų metilo (etilo) esteris (RME) - biokuras,
+pagamintas iš rapsų aliejaus ir pagal technologiją reikalingų sudedamųjų dalių.
 2. Be to, akcizas netaikomas, kai etilo alkoholis bei
 etilo alkoholio turinčios žaliavos parduodami: 
 1) Lietuvos Respublikos įmonėms actui ir akcizu
@@ -307,6 +315,8 @@ Nr. VIII-1553, 00.02.17, Žin., 2000,
 Nr.22-554 (00.03.15)
 Nr. VIII-1814, 00.07.11, Žin., 2000,
 Nr.61-1820 (00.07.26), įsigalioja nuo 2001.01.01
+Nr. VIII-1876, 00.07.18, Žin., 2000,
+Nr.64-1941 (00.07.31)
  
  
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
@@ -372,10 +382,10 @@ administravimo įstatymo nustatyta tvarka.
  
 12 straipsnis. Sankcijos už įstatymų pažeidimus
 1. Jeigu nustatytu laiku nesumokami akcizai, imami
-delspinigiai, kurie skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.
-Jeigu mokėtojas nepateikė akcizų apyskaitos arba pateiktoje akcizų apyskaitoje
-akcizus sumažino, teritorinės valstybinės mokesčių inspekcijos taiko baudas
-Mokesčių administravimo įstatymo nustatyta tvarka. 
+delspinigiai, kurie skaičiuojami Mokesčių administravimo įstatymo nustatyta
+tvarka. Jeigu mokėtojas nepateikė akcizų apyskaitos arba pateiktoje akcizų
+apyskaitoje akcizus sumažino, teritorinės valstybinės mokesčių inspekcijos
+taiko baudas Mokesčių administravimo įstatymo nustatyta tvarka. 
 2. Jeigu nesilaikoma Muitinės kodekso nustatytos
 muitinės sankcionuotų veiksmų atlikimo tvarkos ir dėl to atsiranda importo
 skola muitinei, delspinigiai pradedami skaičiuoti nuo importo skolos muitinei
@@ -418,8 +428,7 @@ Nr. I-993,
 2.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. I-905,
-95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
+Nr. I-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 DĖL LIETUVOS RESPUBLIKOS AKCIZŲ
 ĮSTATYMO PAKEITIMO IR PAPILDYMO
  
@@ -444,8 +453,8 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. I-1307,
 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
-LIETUVOS RESPUBLIKOS AKCIZŲ
-ĮSTATYMO 8-1, 8-2, 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO
+8-1, 8-2, 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 1996
 metų liepos 1 dienos.
  
@@ -462,8 +471,8 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. VIII-125,
 97.02.25, Žin., 1997, Nr.20-447 (97.03.07)
-LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO
-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS AKCIZŲ
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -484,8 +493,8 @@ STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 10.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-901, 98.10.20, Žin., 1998, Nr.96-2657
-(98.11.04)
+Nr. VIII-901, 98.10.20, Žin., 1998,
+Nr.96-2657 (98.11.04)
 AKCIZŲ ĮSTATYMO 3 IR 7 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 11.
@@ -532,8 +541,8 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2000 m. balandžio 1 d., išskyrus šio įstatymo 2
 straipsnio 1 dalies nuostatas, susijusias su laivų pripildymu (aprūpinimu
-atsargomis), taip pat šio įstatymo 3 straipsnyje išdėstytą 6 straipsnio 1
-dalies 11 punktą.
+atsargomis), taip pat šio įstatymo 3 straipsnyje išdėstytą 6 straipsnio 1 dalies
+11 punktą.
 Šio įstatymo 2 straipsnio 1
 dalies nuostatos, susijusios su laivų pripildymu (aprūpinimu atsargomis), taip
 pat šio įstatymo 3 straipsnyje išdėstytas 6 straipsnio 1 dalies 11 punktas
@@ -546,6 +555,12 @@ Nr.61-1820 (00.07.26)
 AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001
 m. sausio 1 d.
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1876, 00.07.18, Žin., 2000,
+Nr.64-1941 (00.07.31)
+AKCIZŲ ĮSTATYMO 3 IR 6 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 *** Pabaiga ***
  
