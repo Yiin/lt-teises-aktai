@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2002-06-21 iki 2003-02-18
+Suvestinė redakcija nuo 2003-02-19 iki 2003-11-27
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -365,10 +365,11 @@ Lietuvos Respublikos įstatymo teksto pabaigoje prieš Respublikos Prezidento pa
 Nustatomas toks Respublikos Prezidento valstybinis aprūpinimas ir aptarnavimas:
 
 
-1) darbo užmokestis, lygus paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dvylikai dydžių. Ši norma galioja iki Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 1 dalies taikymo pradžios; 
+1) darbo užmokestis, lygus paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dvylikai dydžių. 
 Straipsnio punkto pakeitimai:
 Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
 Nr. IX-180, 2001-02-20, Žin., 2001, Nr. 21-688 (2001-03-09), i. k. 1011010ISTA00IX-180
+Nr. IX-1325, 2003-01-28, Žin., 2003, Nr. 17-702 (2003-02-19), i. k. 1031010ISTA0IX-1325
  
 
 
@@ -494,3 +495,8 @@ Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2002-06-19, Žin., 2002, Nr. 62-2515 (2002-06-21), i. k. 1021000NUTARG021955                
 Dėl Lietuvos Respublikos valstybinių pensijų įstatymo 7, 11, 15 straipsnių pakeitimo ir papildymo įstatymo, Lietuvos Respublikos valstybinių pensijų įstatymo 7 straipsnio 1 bei 4 dalių ir Lietuvos Respublikos Prezidento įstatymo 20 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1325, 2003-01-28, Žin., 2003, Nr. 17-702 (2003-02-19), i. k. 1031010ISTA0IX-1325
+Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas
