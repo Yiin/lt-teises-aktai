@@ -512,11 +512,17 @@ nustato nurodytų sričių techninius reikalavimus;
 29)
 koordinuoja radijo dažnius (kanalus), atlieka tarptautinę radijo stočių
 (dažnių) apsaugą;
-30) atlieka kitas įstatymų ir kitų
+30) Vyriausybės nustatyta tvarka kaupia
+ir saugo informaciją apie tai, kokius techninių įvykių duomenis apie
+telekomunikacijas fiksuoja ir saugo telekomunikacijų operatoriai ir
+telekomunikacijų paslaugų teikėjai;
+31) atlieka kitas įstatymų ir kitų
 teisės aktų nustatytas funkcijas.
+Straipsnio pakeitimai:
+Nr. IX-1221,
+2002-12-05, Žin., 2002, Nr. 123-5514 (2002-12-24)
  
-9 straipsnis. Ryšių reguliavimo tarnybos
-teisės
+9 straipsnis. Ryšių reguliavimo tarnybos teisės
 Ryšių
 reguliavimo tarnyba turi teisę:
 1) kontroliuoti, kaip laikomasi šio
@@ -564,8 +570,7 @@ reguliavimo tarnybos inspektoriai, eidami tarnybines pareigas ir pateikę
 tarnybinį pažymėjimą bei Ryšių reguliavimo tarnybos išduotą dokumentą,
 patvirtinantį jų įgaliojimus ir atliekamas funkcijas, turi teisę:
 1) pagal šio ir
-kitų įstatymų nustatytas sąlygas ir procedūrą gauti jiems reikalingą
-informaciją;
+kitų įstatymų nustatytas sąlygas ir procedūrą gauti jiems reikalingą informaciją;
 2) pateikę teismo
 išduotą sankciją, įeiti ir atlikti patikrinimą ūkio subjekto naudojamose
 patalpose, teritorijoje ir transporto priemonėse, peržiūrėti tyrimui
@@ -582,10 +587,10 @@ savivaldybių institucijų;
 5) patikrinti ūkio
 subjekto ūkinę veiklą (atlikti reviziją) ir pagal tikrinimo medžiagą iš
 ekspertizės įstaigų gauti išvadas;
-6) laikinai – iki 30 dienų – paimti dokumentus ir daiktus,
-kurie būtini ar turi įrodomąją reikšmę tiriant pažeidimą, palikdami motyvuotą
-sprendimą dėl dokumentų ir (ar) daiktų paėmimo bei paimtų dokumentų ir (ar)
-daiktų apyrašą; išreikalauti padaryti pirmiau nurodytų dokumentų kopijas;
+6) laikinai – iki 30 dienų – paimti dokumentus ir
+daiktus, kurie būtini ar turi įrodomąją reikšmę tiriant pažeidimą, palikdami
+motyvuotą sprendimą dėl dokumentų ir (ar) daiktų paėmimo bei paimtų dokumentų ir
+(ar) daiktų apyrašą; išreikalauti padaryti pirmiau nurodytų dokumentų kopijas;
 7) tyrimui
 pasitelkti specialistų ir ekspertų;
 8) laikydamiesi įstatymų nustatytos tvarkos, tyrimo metu naudoti technines priemones;
@@ -624,13 +629,13 @@ atmesti. Prašymas dėl veiksmų turi būti
 išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo
 pateikimo momento. Jeigu Ryšių reguliavimo tarnybos inspektorius nesutinka su
 apygardos administracinio teismo teisėjo sprendimu atmesti prašymą, jis turi
-teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam
-administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi
-išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo
-nutarties ne vėliau kaip per 7 dienas. Ryšių reguliavimo tarnybos atstovas turi
-teisę dalyvauti nagrinėjant skundą. Lietuvos vyriausiojo administracinio teismo
-priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir
-skundus dėl veiksmų sankcionavimo, privalo užtikrinti pateiktos informacijos ir
+teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam
+teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą
+dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip
+per 7 dienas. Ryšių reguliavimo tarnybos atstovas turi teisę dalyvauti
+nagrinėjant skundą. Lietuvos vyriausiojo administracinio teismo priimta
+nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus
+dėl veiksmų sankcionavimo, privalo užtikrinti pateiktos informacijos ir
 planuojamų veiksmų slaptumą. Neatidėliotinais atvejais atitinkami Ryšių
 reguliavimo tarnybos inspektorių veiksmai gali būti atliekami Ryšių reguliavimo
 direktoriaus sprendimu. Pastaruoju atveju prašymas sankcionuoti veiksmus
@@ -662,8 +667,8 @@ ar toje rinkoje konkurencija efektyvi, ūkio subjektų, kurie toje rinkoje turi 
 Įstatyme numatytų įpareigojimų ūkio subjektams, turintiems didelę įtaką rinkoje, nustatymas.
 4. Rinkos tyrimo metu nustačiusi, kad
 atitinkamoje telekomunikacijų rinkoje ūkio subjektas turi daugiau kaip 25
-procentus rinkos, Ryšių reguliavimo tarnyba pripažįsta jį ūkio subjektu, turinčiu
-didelę įtaką toje rinkoje.
+procentus rinkos, Ryšių reguliavimo tarnyba pripažįsta jį ūkio subjektu,
+turinčiu didelę įtaką toje rinkoje.
 5. Ryšių
 reguliavimo tarnyba gali pripažinti ūkio subjektą turinčiu didelę įtaką
 atitinkamoje rinkoje ir tuo
@@ -774,8 +779,8 @@ suderinamumui;
 kitas telekomunikacijų infrastruktūros bendro naudojimo formas;
 6) suteikti konkrečias paslaugas,
 būtinas užtikrinti telekomunikacijų paslaugų teikimą gavėjams;
-7) suteikti prieigą prie veiklos palaikymo
-sistemų ar kitų ekvivalentinių programinių sistemų, būtinų užtikrinti
+7) suteikti prieigą prie veiklos
+palaikymo sistemų ar kitų ekvivalentinių programinių sistemų, būtinų užtikrinti
 veiksmingą paslaugų teikimo konkurenciją;
 8) sujungti tinklus ar tinklų priemones.
 2. Priimdama sprendimą šio straipsnio 1
@@ -786,8 +791,8 @@ naudoti ar įrengti technines priemones atsižvelgiant į prieigos ar sujungimo
 tipą;
 2) galimybes suteikti prašomą prieigą
 atsižvelgiant į laisvus išteklius;
-3) priemonių savininko pradines investicijas
-ir investavimo riziką;
+3) priemonių savininko pradines
+investicijas ir investavimo riziką;
 4) būtinybę užtikrinti ilgalaikę
 konkurenciją;
 5) atitinkamas intelektinės nuosavybės
@@ -800,8 +805,8 @@ turintiems ūkio subjektams taikomas šiame straipsnyje nustatytas įpareigojima
 17 straipsnis. Teisė verstis telekomunikacine veikla
 1. Ūkio subjektai
 turi teisę verstis telekomunikacine veikla be atskiro išankstinio valstybės
-institucijų leidimo, laikydamiesi šio Įstatymo reikalavimų ir teisės aktų, priimtų
-pagal šio Įstatymo nustatytą kompetenciją, nuostatų.
+institucijų leidimo, laikydamiesi šio Įstatymo reikalavimų ir teisės aktų,
+priimtų pagal šio Įstatymo nustatytą kompetenciją, nuostatų.
 2. Ryšių
 reguliavimo tarnyba priima teisės aktus, nustatančius bendrąsias sąlygas,
 kuriomis ūkio subjektai turi teisę verstis telekomunikacine veikla. 
@@ -926,8 +931,8 @@ tarp telekomunikacijų tinklų ir (ar) paslaugų;
 apsauga nuo neteisėtos prieigos;
 17) radijo dažnių naudojimo sąlygomis,
 atsižvelgiant į tai, kad radijo ryšio įrenginių naudojimas gali būti ribojamas
-tik dėl priežasčių, susijusių su veiksmingu ir tinkamu radijo spektro
-naudojimu, žalingų trikdžių išvengimu ar su visuomenės sveikata;
+tik dėl priežasčių, susijusių su veiksmingu ir tinkamu radijo spektro naudojimu,
+žalingų trikdžių išvengimu ar su visuomenės sveikata;
 18) priemonėmis, skirtomis užtikrinti
 standartų specifikacijų ir (ar) techninių reikalavimų atitiktį.
 3. Telekomunikacijų
@@ -949,17 +954,16 @@ suinteresuotoms šalims, įskaitant paslaugų gavėjus ir vartotojus, per termin
 ne trumpesnį negu 28 dienos, išskyrus išimtines aplinkybes, pateikti savo
 pastabas dėl siūlomų pakeitimų.
 6.
-Ryšių reguliavimo tarnyba turi teisę ūkio subjektams, kurie verčiasi
-telekomunikacine veikla, suteikti teisę be atskiro leidimo naudoti radijo
-dažnius (kanalus), kurių naudotojų skaičius
-nėra ribotas.
+Ryšių reguliavimo tarnyba turi teisę ūkio subjektams, kurie verčiasi telekomunikacine veikla, suteikti
+teisę be atskiro leidimo naudoti radijo dažnius (kanalus), kurių naudotojų
+skaičius nėra ribotas.
  
 20 straipsnis. Licencijos radijo ir
 televizijos programų transliuotojams
-1. Transliuotojas, kuris naudojasi
-trečiosios šalies teikiamomis siuntimo paslaugomis, privalo turėti Lietuvos
-radijo ir televizijos komisijos išduotą licenciją. Jos sąlygos turi būti
-suderintos su siuntimo paslaugas teiksiančiu telekomunikacijų operatoriumi.
+1. Transliuotojas, kuris naudojasi trečiosios
+šalies teikiamomis siuntimo paslaugomis, privalo turėti Lietuvos radijo ir
+televizijos komisijos išduotą licenciją. Jos sąlygos turi būti suderintos su
+siuntimo paslaugas teiksiančiu telekomunikacijų operatoriumi.
 2. Transliuotojas, kuris gavo Lietuvos
 radijo ir televizijos komisijos licenciją su teise steigti ir eksploatuoti savo
 telekomunikacijų tinklus, privalo gauti Ryšių reguliavimo tarnybos leidimus
@@ -975,8 +979,8 @@ reguliavimo tarnybos pateiktas sukoordinuotos veiklos radijo ir
 televizijos stočių dažnių (kanalų) bei telekomunikacijų tinklų, skirtų radijo
 ir televizijos programoms transliuoti ir (ar) retransliuoti, pagrindines
 technines sąlygas, tarp jų – radijo dažnį (kanalą) ir Ryšių reguliavimo
-tarnybos nustatytą šio dažnio (kanalo) naudojimo terminą, kuris negali
-prieštarauti strateginiam planui.
+tarnybos nustatytą šio dažnio (kanalo) naudojimo terminą, kuris negali prieštarauti
+strateginiam planui.
 4. Į Lietuvos radijo ir televizijos
 komisijos transliuotojui išduodamą licenciją su teise naudotis trečiosios
 šalies teikiama siuntimo paslauga įrašytas siuntimo paslaugai skirtas radijo
@@ -1006,15 +1010,15 @@ kryžmiškai subsidijuoti paslaugas, kurios siūlomos konkurenciniu pagrindu.
 5. Telekomunikacijų operatoriai ir
 paslaugų teikėjai Ryšių reguliavimo tarnybos nustatyta tvarka ir terminais
 privalo viešai skelbti informaciją apie teikiamų paslaugų kainas ir tarifus ir
-pateikti ją Ryšių reguliavimo tarnybai. Skelbiami tarifai telekomunikacijų paslaugų
-gavėjams turi būti nurodomi aiškiai ir tiksliai. 
+pateikti ją Ryšių reguliavimo tarnybai. Skelbiami tarifai telekomunikacijų
+paslaugų gavėjams turi būti nurodomi aiškiai ir tiksliai. 
 6. Didelę įtaką atitinkamoje rinkoje
 turinčių ūkio subjektų telekomunikacijų paslaugų tarifai turi būti nustatomi
 taip, kad telekomunikacijų paslaugų gavėjams būtų užtikrinta pasirinkimo laisvė
 tarp atskirų paslaugų arba individualiai teikiamų ar galimų teikti paslaugų
-elementų, o tarifai būtų nesusieti tarpusavyje. Turi būti sudaryta galimybė
-paslaugų gavėjams pasirinkti atskirai papildomas paslaugas, t. y.
-nepriklausomai nuo pagrindinės paslaugos ar kitų papildomų paslaugų.
+elementų, o tarifai būtų nesusieti tarpusavyje. Turi būti sudaryta galimybė paslaugų
+gavėjams pasirinkti atskirai papildomas paslaugas, t. y. nepriklausomai nuo
+pagrindinės paslaugos ar kitų papildomų paslaugų.
 7. Didelę įtaką atitinkamoje rinkoje
 turinčių telekomunikacijų operatorių ir paslaugų teikėjų nustatyti tarifai
 privalo būti nediskriminaciniai ir vienodai taikomi visiems tos pačios
@@ -1075,10 +1079,10 @@ Sutartyje turi būti išdėstytos visos techninės ir finansinės sąlygos.
 sutartys, kurių bent viena šalis yra didelę įtaką atitinkamoje rinkoje
 turintis telekomunikacijų operatorius, yra viešos, išskyrus komercinę paslaptį
 sudarančias žinias. 12 straipsnio 1 dalyje nurodyta informacija, įskaitant
-geografinius tinklų sujungimo taškus, sujungimo testavimo, bendro telekomunikacijų
-infrastruktūros naudojimo ir atsiskaitymo sąlygas, telekomunikacijų paslaugų
-teikėjo pasirinkimo sąlygas bei tarifus, negali būti laikoma komercine
-paslaptimi. 
+geografinius tinklų sujungimo taškus, sujungimo testavimo, bendro
+telekomunikacijų infrastruktūros naudojimo ir atsiskaitymo sąlygas,
+telekomunikacijų paslaugų teikėjo pasirinkimo sąlygas bei tarifus, negali būti
+laikoma komercine paslaptimi. 
 8. Didelę įtaką atitinkamoje
 rinkoje turintys telekomunikacijų operatoriai privalo Ryšių reguliavimo
 tarnybos nustatytomis sąlygomis viešai skelbti prisijungimo prie savo tinklų
@@ -1134,7 +1138,8 @@ atskirai ir apie kiekvieną suteiktą paslaugą, jeigu abonentas to pageidauja.
 žalą.
 6. Telekomunikacijų paslaugų teikimo
 sutartyje turi būti numatyta kompensacijos nustatymo ir jos mokėjimo tvarka,
-kai ne dėl abonento kaltės nebuvo galima naudotis paslaugų teikėjo teikiama paslauga.
+kai ne dėl abonento kaltės nebuvo galima naudotis paslaugų teikėjo teikiama
+paslauga.
 7. Telekomunikacijų operatoriai ir
 telekomunikacijų paslaugų teikėjai abonentų pageidavimu neteikia tretiesiems
 asmenims informacijos, koks yra galinio įrenginio numeris, kokia jo įrengimo
@@ -1173,6 +1178,13 @@ Ryšių reguliavimo tarnybos nustatyta tvarka privalo užtikrinti savo abonentų
 (ar) naudotojų skambučių siuntimą į pagalbos tarnybų numerius.
 13. Telekomunikacijų paslaugų vartotojų
 teisės ginamos šio ir kitų įstatymų nustatyta tvarka. 
+14. Telekomunikacijų operatoriai ir
+telekomunikacijų paslaugų teikėjai privalo pateikti Ryšių reguliavimo tarnybai
+informaciją apie tai, kokius techninių įvykių duomenis apie telekomunikacijas
+jie fiksuoja bei saugo, ir šių duomenų saugojimo terminą.
+Straipsnio pakeitimai:
+Nr. IX-1221,
+2002-12-05, Žin., 2002, Nr. 123-5514 (2002-12-24)
  
 KETVIRTASIS
 SKIRSNIS
@@ -1219,10 +1231,10 @@ vamzdynais, kabelių kanalais, kolektoriais, bokštais, stiebais ir kitais
 tikslinga ir nereikia papildomų esminių darbų. Tokiu atveju Ryšių reguliavimo
 tarnyba šios institucijos nustatyta tvarka konsultuojasi su suinteresuotais
 asmenimis.
-7.
-Naudojimosi kito operatoriaus vamzdynais, kanalais, kolektoriais, bokštais,
-stiebais ir kitais įrenginiais tvarka ir sąlygos nustatomos sutartimi.
-Telekomunikacijų operatorius, kuriam priklauso šioje dalyje nurodyti telekomunikacijų
+7. Naudojimosi
+kito operatoriaus vamzdynais, kanalais, kolektoriais, bokštais, stiebais ir
+kitais įrenginiais tvarka ir sąlygos nustatomos sutartimi. Telekomunikacijų
+operatorius, kuriam priklauso šioje dalyje nurodyti telekomunikacijų
 įrenginiai, šio Įstatymo nustatytais atvejais negali atsisakyti sudaryti su
 kitu telekomunikacijų operatoriumi tokią sutartį, reikalauti ją pakeisti,
 nutraukti, jei yra vykdomi sutartyje nustatyti įpareigojimai, taip pat ir motyvuodamas
@@ -1292,11 +1304,11 @@ operatoriai, kurie teikia prieigos prie skaitmeninės radijo ir televizijos
 paslaugų paslaugas nepriklausomai nuo perdavimo priemonių tipo privalo:
 1) naudoti tik tokias sąlyginės prieigos
 sistemas, kurios techniškai pajėgios užtikrinti rentabilų perdavimo valdymą (t.
-y. sąlygas (priemones), kurioms esant transliuotojas (retransliuotojas) už
-atitinkamą mokestį gali naudotis trečiųjų šalių programų transliavimo
-paslaugomis ir retransliuoti jas naudodamas savo technines priemones),
-leidžiantį tinklo operatorius vietiniu ar regioniniu lygiu visiškai
-kontroliuoti paslaugas naudojant tokias sąlyginės prieigos sistemas;
+y. sąlygas (priemones), kurioms esant transliuotojas (retransliuotojas) už atitinkamą
+mokestį gali naudotis trečiųjų šalių programų transliavimo paslaugomis ir
+retransliuoti jas naudodamas savo technines priemones), leidžiantį tinklo
+operatorius vietiniu ar regioniniu lygiu visiškai kontroliuoti paslaugas
+naudojant tokias sąlyginės prieigos sistemas;
 2) visiems transliuotojams sąžiningais,
 pagrįstais ir nediskriminaciniais pagrindais teikti technines paslaugas,
 užtikrinančias, kad transliuotojų perduodamus skaitmeninius koduotus signalus
@@ -1331,9 +1343,9 @@ jų technines charakteristikas, tarifus, teikimo ir naudojimo sąlygas, galinių
 įrenginių prijungimo sąlygas skelbimo bei pateikimo tvarką, taip pat minimalų mastą skirtųjų linijų paslaugų, kurias
 Lietuvos Respublikos teritorijoje turi teikti didelę įtaką rinkoje turintis
 skirtųjų linijų teikėjas, ir jų kokybės reikalavimus.
-3. Skirtųjų linijų paslaugų teikėjas,
-turintis didelę įtaką atitinkamoje rinkoje, teikia skirtųjų linijų paslaugas
-tokiomis kainomis, kurios pagrįstos sąnaudomis, įskaitant protingumo kriterijų
+3. Skirtųjų linijų paslaugų teikėjas, turintis
+didelę įtaką atitinkamoje rinkoje, teikia skirtųjų linijų paslaugas tokiomis
+kainomis, kurios pagrįstos sąnaudomis, įskaitant protingumo kriterijų
 atitinkančią investicijų grąžą. Tuo tikslu Ryšių reguliavimo tarnyba turi teisę
 nustatyti skirtųjų linijų paslaugos kainų aukščiausią ribą. Ryšių reguliavimo
 tarnyba sąnaudoms apskaičiuoti nustato sąnaudų paskirstymo taisykles ir su
@@ -1368,12 +1380,12 @@ jei statybų užsakovai ir telekomunikacijų linijų savininkai nesusitaria kita
 įrenginių ir radijo ryšio įrenginių jungimo 
 sąlygos 
 1. Telekomunikacijų
-galinių įrenginių bei radijo ryšio įrenginių jungimo sąlygas, taip pat įpareigojimus,
-susijusius su informacijos apie sąsajų specifikacijas teikimu bei jungimu,
-teikimo į rinką, pardavimo ir naudojimo tvarką, galinių įrenginių bei radijo
-ryšio įrenginių atitikties vertinimo, patvirtinimo ir priežiūros tvarką bei
-sąlygas nustato Radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių
-techninis reglamentas, tvirtinamas Ryšių reguliavimo tarnybos.
+galinių įrenginių bei radijo ryšio įrenginių jungimo sąlygas, taip pat
+įpareigojimus, susijusius su informacijos apie sąsajų specifikacijas teikimu
+bei jungimu, teikimo į rinką, pardavimo ir naudojimo tvarką, galinių įrenginių
+bei radijo ryšio įrenginių atitikties vertinimo, patvirtinimo ir priežiūros
+tvarką bei sąlygas nustato Radijo ryšio įrenginių ir telekomunikacijų galinių
+įrenginių techninis reglamentas, tvirtinamas Ryšių reguliavimo tarnybos.
 2. Prisijungti prie telekomunikacijų
 linijų, įrenginių be telekomunikacijų operatoriaus ar telekomunikacijų paslaugų
 teikėjo sutikimo draudžiama.
@@ -1458,10 +1470,10 @@ suteikimo pagrindai
 1. Radijo dažniai (kanalai) ir
 telefono ryšio numeriai visais atvejais skiriami Ryšių reguliavimo tarnybos
 sprendimu šio Įstatymo ir Ryšių reguliavimo tarnybos nustatytos radijo dažnių
-(kanalų) ir telefono ryšio numerių skyrimo ir naudojimo tvarkos nustatytomis sąlygomis
-ir terminais. Teisės naudoti radijo dažnius (kanalus) ir telefono ryšio
-numerius suteikiamos taip, kad būtų užtikrintas veiksmingas jų naudojimas,
-naudojimo kontrolė, telekomunikacijų tinklų kokybė, prieinamumas ir
+(kanalų) ir telefono ryšio numerių skyrimo ir naudojimo tvarkos nustatytomis
+sąlygomis ir terminais. Teisės naudoti radijo dažnius (kanalus) ir telefono
+ryšio numerius suteikiamos taip, kad būtų užtikrintas veiksmingas jų
+naudojimas, naudojimo kontrolė, telekomunikacijų tinklų kokybė, prieinamumas ir
 patikimumas, skatinama konkurencija. 
 2. Ryšių reguliavimo tarnyba,
 vadovaudamasi tarptautiniais įsipareigojimais, Radijo ryšio reglamentu,
@@ -1499,15 +1511,15 @@ tarnybai moka šio Įstatymo 6 straipsnio 7 dalyje nurodytus užmokesčius.
 34 straipsnis. Leidimų naudoti radijo dažnius
 (kanalus) ir telefono ryšio numerius 
 išdavimas
-1. Kai ryšių reguliavimo tarnybos teisės aktais, nustatančiais
-bendrąsias vertimosi telekomunikacine veikla sąlygas, nėra nustatyta, kad
-atitinkamus radijo dažnius (kanalus) galima naudoti be atskiro leidimo arba kai
-radijo dažniai (kanalai) nėra naudojami telekomunikacinei veiklai vykdyti, o
-ryšių reguliavimo tarnyba nėra nustačiusi, kad atitinkamus radijo dažnius
-(kanalus) galima naudoti be atskiro leidimo, asmuo, prieš pradėdamas naudoti
-radijo dažnius (kanalus) ar telefono ryšio numerius, privalo pateikti ryšių
-reguliavimo tarnybai nustatytos formos prašymą šios institucijos nustatyta
-tvarka.
+1. Kai ryšių reguliavimo tarnybos teisės aktais,
+nustatančiais bendrąsias vertimosi telekomunikacine veikla sąlygas, nėra
+nustatyta, kad atitinkamus radijo dažnius (kanalus) galima naudoti be atskiro
+leidimo arba kai radijo dažniai (kanalai) nėra naudojami telekomunikacinei
+veiklai vykdyti, o ryšių reguliavimo tarnyba nėra nustačiusi, kad atitinkamus
+radijo dažnius (kanalus) galima naudoti be atskiro leidimo, asmuo, prieš
+pradėdamas naudoti radijo dažnius (kanalus) ar telefono ryšio numerius, privalo
+pateikti ryšių reguliavimo tarnybai nustatytos formos prašymą šios institucijos
+nustatyta tvarka.
 2. Ryšių reguliavimo tarnyba,
 nustačiusi, kad galima skirti radijo dažnius (kanalus), paskelbia išvadą ir
 praneša apie galimybę pateikti prašymus dėl šių radijo dažnių (kanalų)
@@ -1524,9 +1536,9 @@ leidime nenurodyta kitaip.
 naudoti radijo dažnius (kanalus) ar telefono ryšio numerius jau po to, kai jo
 pranešimas apie atitinkamos veiklos pradžią buvo Ryšių reguliavimo tarnybos
 įregistruotas, jis turi pateikti tik prašymą skirti naudoti radijo dažnius
-(kanalus) ar telefono ryšio numerius ir patvirtinti, kad informacija ir dokumentai,
-anksčiau pateikti kartu su pranešimu Ryšių reguliavimo tarnybai, yra
-nepasikeitę. Jei nuo pranešimo apie veiklą pagal Ryšių reguliavimo tarnybos
+(kanalus) ar telefono ryšio numerius ir patvirtinti, kad informacija ir
+dokumentai, anksčiau pateikti kartu su pranešimu Ryšių reguliavimo tarnybai,
+yra nepasikeitę. Jei nuo pranešimo apie veiklą pagal Ryšių reguliavimo tarnybos
 teisės aktus, nustatančius bendrąsias vertimosi telekomunikacine veiklą
 sąlygas, pateikimo dienos ūkio subjekto veikloje atsirado pasikeitimų, ūkio
 subjektas privalo papildyti dokumentus ir informaciją, pateikdamas prašymą
@@ -1687,9 +1699,9 @@ nurodymu;
 2) veiksmingu radijo dažnių
 (kanalų) naudojimu;
 3) techninėmis ir veiklos
-sąlygomis, siekiant išvengti radijo trikdžių ir apriboti visuomenei žalingus elektromagnetinius
-laukus, kai tokios sąlygos skiriasi nuo Ryšių reguliavimo tarnybos nustatytų
-bendrųjų vertimosi telekomunikacine veikla sąlygų;
+sąlygomis, siekiant išvengti radijo trikdžių ir apriboti visuomenei žalingus
+elektromagnetinius laukus, kai tokios sąlygos skiriasi nuo Ryšių reguliavimo
+tarnybos nustatytų bendrųjų vertimosi telekomunikacine veikla sąlygų;
 4) maksimaliu teisės naudoti radijo
 dažnius (kanalus) terminu;
 5) užmokesčiais už radijo dažnių
@@ -1751,14 +1763,13 @@ bei galinių įrenginių įvežimas, gamyba, prekyba ir
 naudojimas
 1. Radijo ryšio
 įrenginių bei galinių įrenginių įvežimo, gamybos, pardavimo ir naudojimo tvarką
-bei reikalavimus jiems nustato Radijo ryšio įrenginių ir telekomunikacijų
-galinių įrenginių techninis reglamentas, tvirtinamas Ryšių reguliavimo
-tarnybos.
+bei reikalavimus jiems nustato Radijo ryšio įrenginių ir telekomunikacijų galinių
+įrenginių techninis reglamentas, tvirtinamas Ryšių reguliavimo tarnybos.
 2. Pramonės,
 medicinos, mokslo reikmėms naudojamų įrenginių, t .y. įrenginių, kurie veikdami
-generuoja ir naudoja radijo bangų energiją ir yra skirti naudoti pramonės, medicinos,
-mokslo, namų ūkio ir panašiems tikslams, išskyrus telekomunikacijų tikslus,
-naudojimo tvarką nustato ir tvirtina Ryšių reguliavimo tarnyba.
+generuoja ir naudoja radijo bangų energiją ir yra skirti naudoti pramonės,
+medicinos, mokslo, namų ūkio ir panašiems tikslams, išskyrus telekomunikacijų
+tikslus, naudojimo tvarką nustato ir tvirtina Ryšių reguliavimo tarnyba.
  
 43 straipsnis. Aparatūros ir įrenginių
 savininko arba naudotojo pareigos 
@@ -1828,8 +1839,8 @@ Ar aparatūra, įrenginiai ir galiniai
 įrenginių ir telekomunikacijų galinių įrenginių techninio reglamento, taip pat
 įstatymų ir kitų teisės aktų nustatyta tvarka.
  
-48 straipsnis. Radijo mėgėjų ir kitų radijo
-stočių naudotojų veikla
+48 straipsnis. Radijo mėgėjų ir kitų
+radijo stočių naudotojų veikla
 Teisės užsiimti radijo mėgėjų ir kitų
 radijo stočių naudotojų veikla suteikimo tvarką ir užsiėmimo šia veikla
 sąlygas, radijo mėgėjų ir kitų radijo stočių naudotojų leidimų išdavimo tvarką
@@ -1854,8 +1865,8 @@ analoginių telefono stočių.
 3. Asmens duomenų tvarkymo priežiūra
 telekomunikacijų srityje atliekama vadovaujantis asmens duomenų tvarkymą ir
 privatumo apsaugą reglamentuojančiais įstatymais ir kitais teisės aktais.
-4. Šio Įstatymo 53 ir 54 straipsniai
-taikomi abonentams fiziniams asmenims.
+4. Šio Įstatymo 53 ir 54 straipsniai taikomi
+abonentams fiziniams asmenims.
  
 50 straipsnis. Viešųjų telekomunikacijų
 paslaugų saugumas
@@ -1892,10 +1903,10 @@ duomenų tvarkymas
 faktiniu telekomunikacijų paslaugų naudotoju susiję telekomunikacijų srauto
 duomenys, tvarkomi prisiskambinimo tikslais ir saugomi viešųjų telekomunikacijų
 tinklo operatoriaus ir (ar) viešųjų telekomunikacijų paslaugų teikėjo, turi
-būti sunaikinti arba pakeisti taip, kad pagal juos iš karto pasibaigus skambučiui
-nebūtų galima tiesiogiai ar netiesiogiai nustatyti abonento ar faktinio
-telekomunikacijų paslaugų naudotojo tapatybę, išskyrus šio straipsnio 2, 3, 4
-ir 5 dalyse nustatytas išimtis.
+būti sunaikinti arba pakeisti taip, kad pagal juos iš karto pasibaigus
+skambučiui nebūtų galima tiesiogiai ar netiesiogiai nustatyti abonento ar
+faktinio telekomunikacijų paslaugų naudotojo tapatybę, išskyrus šio straipsnio
+2, 3, 4 ir 5 dalyse nustatytas išimtis.
 2. Abonento stoties numeris ar
 identifikatorius, abonento adresas ir stoties rūšis, bendras apskaitos periodo
 apmokestinamų vienetų skaičius, abonento, kuriam skambinta, numeris, skambučių
@@ -1921,6 +1932,15 @@ laikydamosi teisės aktų nustatytų sąlygų ir tvarkos, turi teisę gauti
 informaciją apie srauto ir apskaitos duomenis ginčams spręsti. 
 6. Detali sąskaita už suteiktas
 telekomunikacijų paslaugas pateikiama tik abonento prašymu.
+7. Telekomunikacijų operatoriai ir
+telekomunikacijų paslaugų teikėjai Lietuvos Respublikos Vyriausybės nustatyta
+tvarka privalo pranešti Valstybinei duomenų apsaugos inspekcijai apie visų jų
+fiksuojamų ir saugomų su viešųjų telekomunikacijų paslaugų abonentu ir faktiniu
+telekomunikacijų paslaugų naudotoju susijusių telekomunikacijų srauto duomenų
+pobūdį.
+Straipsnio pakeitimai:
+Nr. IX-1221,
+2002-12-05, Žin., 2002, Nr. 123-5514 (2002-12-24)
  
 53 straipsnis. Abonentų sąrašai
 1. Viešojo telefono ryšio operatoriai
@@ -1992,7 +2012,7 @@ aptarnaujančioms pagalbos skambučius, kaip antai: teisėsaugos, greitosios
 pagalbos bei priešgaisrinės apsaugos institucijoms, kad būtų galima atsakyti į
 tokius skambučius.
  
-*57 straipsnis. Ypatingos aplinkybės
+57 straipsnis. Ypatingos aplinkybės
 1. Ūkio subjektai turi dalyvauti
 rengiant ryšio organizavimo nepaprastųjų ar ekstremalių situacijų atvejais
 schemą ir užtikrinti jos efektyvų funkcionavimą.
@@ -2002,74 +2022,53 @@ gynybai, užtikrinant valstybės saugumą bei viešąją tvarką, Vyriausybė ar
 įgaliota institucija įstatymų bei kitų teisės aktų nustatyta tvarka gali duoti
 telekomunikacijų operatoriams ir telekomunikacijų paslaugų teikėjams privalomus
 nurodymus, užduotis ir užsakymus apsaugoti ir palaikyti gyvybiškai svarbius
-telekomunikacijų tinklus, apribojant, jei reikia, visuomenės galimybę naudotis
+telekomunikacijų tinklus, prireikus apribojant visuomenės galimybę naudotis
 telekomunikacijų tinklais.
 3. Galimoje radiacinėje zonoje esantys
 telekomunikacijų įrenginiai turi atitikti Ryšių reguliavimo tarnybos nustatytus
 reikalavimus. Jų turi laikytis visi tokius įrenginius turintys telekomunikacijų
 operatoriai ir paslaugų teikėjai.
-*4. Telekomunikacijų operatoriai ir
-telekomunikacijų paslaugų teikėjai privalo teisės aktų nustatyta tvarka
-fiksuoti telekomunikacijų įvykius ir jų dalyvius, savo lėšomis bei įranga
-užtikrinti ir nuolat palaikyti techninę galimybę operatyvinės veiklos
-subjektams, kvotos ir tardymo organams įstatymų nustatyta tvarka ir pagal
-teismo išduotą sankciją kontroliuoti telekomunikacijų tinklais
-perduodamos informacijos turinį, taip pat Vyriausybės nustatyta tvarka
-operatyvinės veiklos subjektams, kvotos ir tardymo organams neatlygintinai
-teikti nusikaltimų užkardymui, tyrimui, nustatymui reikalingą Vyriausybės
-nustatytą informaciją apie operatyvinės veiklos objektus ir kitus tyrimui
-reikalingus abonentus bei jų telekomunikacijas. Kai operatyvinės veiklos
-subjektams reikia papildomos, palyginti su Vyriausybės nustatyta, informacijos,
-jie telekomunikacijų operatoriams ir telekomunikacijų paslaugų teikėjams
-kompensuoja būtinas tokios informacijos pateikimo sąnaudas.
-5. Vyriausybės įgaliota institucija –
+4. Telekomunikacijų operatoriai ir
+telekomunikacijų paslaugų teikėjai turi teisę fiksuoti telekomunikacijų įvykius
+ir jų dalyvius tik tiek, kiek yra būtina telekomunikacijų operatorių ir
+telekomunikacijų paslaugų teikėjų ūkinei veiklai užtikrinti. Telekomunikacijų
+operatoriai ir telekomunikacijų paslaugų teikėjai privalo įstatymų nustatyta
+tvarka turimą ir nusikaltimų užkardymui, tyrimui, nustatymui reikalingą
+informaciją pateikti operatyvinės veiklos subjektams, kvotos ir tardymo
+organams, prokurorui, teismui ar teisėjui. Šią informaciją telekomunikacijų
+operatoriai teikia operatyvinės veiklos subjektų pagrindinėms institucijoms
+pagal jų paklausimus elektroniniu būdu ir nedelsdami.
+5. Kai yra motyvuotas teismo sprendimas,
+telekomunikacijų operatoriai ir telekomunikacijų paslaugų teikėjai privalo
+sudaryti techninę galimybę operatyvinės veiklos subjektams, kvotos ir tardymo
+organams įstatymų nustatyta tvarka kontroliuoti telekomunikacijų tinklais
+perduodamos informacijos turinį. Tam reikalingos įrangos įsigijimas ir
+palaikymas atliekamas valstybės lėšomis.
+6. Telekomunikacijų operatoriai ir
+telekomunikacijų paslaugų teikėjai apie savo tinkle ar savo ir kitų
+telekomunikacijų operatorių sujungimo taškuose numatomus daryti pakeitimus,
+galinčius turėti įtakos įrangos, nustatytos šio straipsnio 5 dalyje, veikimui,
+privalo Vyriausybės įgaliotai institucijai – operatyvinės veiklos subjektui –
+ir Ryšių reguliavimo tarnybai pranešti, kai tik apie tai sužino.
+7. Vyriausybės įgaliota institucija –
 operatyvinės veiklos subjektas – organizuoja ir Vyriausybės nustatyta tvarka
 kiekvienam operatyvinės veiklos subjektui sudaro technines galimybes
 savarankiškai vykdyti telekomunikacijų tinklais perduodamos informacijos
 turinio kontrolę.
- 
-*Pastaba. Lietuvos Respublikos
-telekomunikacijų įstatymo (2002 m. liepos 5 d. redakcija) 57 straipsnio 4
-dalies nuostata „telekomunikacijų operatoriai ir telekomunikacijų paslaugų
-teikėjai privalo teisės aktų nustatyta tvarka fiksuoti telekomunikacijų įvykius
-ir jų dalyvius“ ta apimtimi, kuria telekomunikacijų operatoriams ir
-telekomunikacijų paslaugų teikėjams nustatyta pareiga telekomunikacijų įvykius
-ir jų dalyvius fiksuoti daugiau negu reikia telekomunikacijų operatorių ūkinei
-veiklai užtikrinti, taip įsiterpiant į žmogaus privatų gyvenimą, prieštarauja
-Lietuvos Respublikos Konstitucijos 22 straipsniui ir konstituciniam teisinės
-valstybės principui.
-Lietuvos
-Respublikos telekomunikacijų įstatymo (2002 m. liepos 5 d. redakcija) 57
-straipsnio 4 dalies nuostata „telekomunikacijų operatoriai ir
-telekomunikacijų paslaugų teikėjai privalo <...> Vyriausybės nustatyta
-tvarka operatyvinės veiklos subjektams, kvotos ir tardymo organams
-neatlygintinai teikti nusikaltimų užkardymui, tyrimui, nustatymui reikalingą
-Vyriausybės nustatytą informaciją apie operatyvinės veiklos objektus ir kitus
-tyrimui reikalingus abonentus bei jų telekomunikacijas“ ta apimtimi, kuria
-nustatyta, jog įgaliojimus nustatyti teiktinos informacijos ir apie privatų
-asmens gyvenimą apimtį bei jos teikimo tvarką turi Vyriausybė, prieštarauja
-Lietuvos Respublikos Konstitucijos 22 straipsniui ir konstituciniam teisinės
-valstybės principui.
-Lietuvos
-Respublikos telekomunikacijų įstatymo (2002 m. liepos 5 d. redakcija) 57
-straipsnio 4 dalies nuostata „telekomunikacijų operatoriai ir
-telekomunikacijų paslaugų teikėjai privalo <...> savo lėšomis bei įranga
-užtikrinti ir nuolat palaikyti techninę galimybę operatyvinės veiklos
-subjektams, kvotos ir tardymo organams įstatymų nustatyta tvarka ir pagal
-teismo išduotą sankciją kontroliuoti telekomunikacijų tinklais perduodamos
-informacijos turinį“ ta apimtimi, kuria telekomunikacijų operatoriams ir
-telekomunikacijų paslaugų teikėjams – ne valstybės nuosavybės subjektams
-nustatyta pareiga savo lėšomis užtikrinti ir nuolat palaikyti telekomunikacijų
-tinklais perduodamos informacijos turinio kontrolei reikalingos įrangos, kuri
-nėra reikalinga telekomunikacijų operatorių ūkinėje veikloje, technines
-galimybes, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsniui ir
-konstituciniam teisinės valstybės principui.
+8. Telekomunikacijų operatoriaus tinklui
+siunčiamos techninės komandos pradėti ar nutraukti pasiklausymą ar kitą
+telekomunikacijų tinklais perduodamos informacijos kontrolę saugomos taip, kad
+siųstų ir gautų komandų duomenų negalėtų pakeisti komandą siuntęs operatyvinės
+veiklos subjektas ar komandą gavęs telekomunikacijų operatorius.
 Straipsnio
 pakeitimai:
 Lietuvos
 Respublikos Konstitucinis Teismas, Nutarimas
 2002-09-19,
 Žin., 2002, Nr. 93-4000 (2002-09-25)
+Nr. IX-1221,
+2002-12-05, Žin., 2002, Nr. 123-5514 (2002-12-24)
+ 
  
 AŠTUNTASIS
 SKIRSNIS
@@ -2114,12 +2113,12 @@ terminą ūkio subjektui įvykdyti šias priemones.
 arba pakartotinį vertimosi telekomunikacine veikla sąlygas nustatančių teisės
 aktų ar radijo dažnių (kanalų) arba telefono ryšio numerių naudojimo sąlygų,
 arba įpareigojimų, nustatytų ūkio subjektui, turinčiam didelę įtaką
-atitinkamoje rinkoje arba paskirtam
-teikti universaliąsias paslaugas, pažeidimą, kai priemonių, kurių buvo imtasi
-pagal šio straipsnio 3 dalį, nepakako pažeidimams ištaisyti, Ryšių reguliavimo
-tarnyba turi teisę uždrausti ūkio subjektui teikti telekomunikacijų tinklus ar
-paslaugas arba sustabdyti teisę naudoti radijo dažnius (kanalus) ir (arba)
-telefono ryšio numerius.
+atitinkamoje rinkoje arba
+paskirtam teikti universaliąsias paslaugas, pažeidimą, kai priemonių, kurių
+buvo imtasi pagal šio straipsnio 3 dalį, nepakako pažeidimams ištaisyti, Ryšių
+reguliavimo tarnyba turi teisę uždrausti ūkio subjektui teikti telekomunikacijų
+tinklus ar paslaugas arba sustabdyti teisę naudoti radijo dažnius (kanalus) ir
+(arba) telefono ryšio numerius.
 5. Ryšių
 reguliavimo tarnyba, gavusi įrodymų apie vertimosi telekomunikacine veikla
 sąlygas nustatančių teisės aktų ar radijo dažnių (kanalų) arba telefono ryšio
@@ -2170,8 +2169,8 @@ skiriamų ekonominių sankcijų dydis nustatomas atsižvelgiant į:
 padarytos žalos dydį;
 2) pažeidimo
 trukmę;
-3) ūkio subjekto
-atsakomybę lengvinančias ar sunkinančias aplinkybes;
+3) ūkio subjekto atsakomybę
+lengvinančias ar sunkinančias aplinkybes;
 4) ūkio subjektui
 dėl pažeidimo tekusių pajamų dydį;
 5) kiekvieno ūkio
@@ -2184,8 +2183,7 @@ pažeidimo tyrimo metu, atlygino nuostolius ar pašalino padarytą žalą.
 sunkinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai kliudė vykdyti
 tyrimą, slėpė įvykdytą pažeidimą, tęsė pažeidimą nepaisydami Ryšių reguliavimo
 tarnybos įpareigojimo nutraukti neteisėtus veiksmus arba pakartotinai įvykdė
-pažeidimą, už kurį ūkio subjektams jau buvo paskirtos šio Įstatymo nustatytos
-sankcijos.
+pažeidimą, už kurį ūkio subjektams jau buvo paskirtos šio Įstatymo nustatytos sankcijos.
 4. Ryšių
 reguliavimo tarnyba, nustatydama skiriamos ekonominės sankcijos dydį, gali
 pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas čia nenurodytas
@@ -2252,18 +2250,17 @@ BAIGIAMOSIOS NUOSTATOS
 1. Ūkio subjektai turi teisę toliau
 tęsti licencijose ir leidimuose, išduotuose iki šio Įstatymo įsigaliojimo
 dienos, nurodytą veiklą, kiek tai neprieštarauja šio Įstatymo nuostatoms.
-2. Ūkio subjektai, šio Įstatymo
-įsigaliojimo metu turintys licencijas ar leidimus verstis telekomunikacine
-veikla, turi teisę per 2 mėnesius nuo šio Įstatymo įsigaliojimo dienos
-pareikšti Ryšių reguliavimo tarnybai, kad šio Įstatymo nuostatos, palyginti su
-galiojančių licencijų ir (ar) leidimų nuostatomis, sumažins šių ūkio subjektų
-teises. Ryšių reguliavimo tarnyba, nustačiusi, kad ūkio subjekto nurodytos
-aplinkybės yra teisingos ir jos sukels šiam ūkio subjektui nepagrįstų ir
-siekiamiems tikslams neproporcingų nuostolių, turi teisę nustatyti ne ilgesnį
-kaip 9 mėnesių pereinamąjį laikotarpį nuo Įstatymo įsigaliojimo, jei tai
-neturės įtakos kitų ūkio subjektų teisėms, nurodydama, kokie Įstatymo
-įpareigojimai konkretiems ūkio subjektams nėra taikomi ir kokios teisės
-išlaikomos.
+2. Ūkio subjektai, šio Įstatymo įsigaliojimo
+metu turintys licencijas ar leidimus verstis telekomunikacine veikla, turi
+teisę per 2 mėnesius nuo šio Įstatymo įsigaliojimo dienos pareikšti Ryšių
+reguliavimo tarnybai, kad šio Įstatymo nuostatos, palyginti su galiojančių
+licencijų ir (ar) leidimų nuostatomis, sumažins šių ūkio subjektų teises. Ryšių
+reguliavimo tarnyba, nustačiusi, kad ūkio subjekto nurodytos aplinkybės yra
+teisingos ir jos sukels šiam ūkio subjektui nepagrįstų ir siekiamiems tikslams
+neproporcingų nuostolių, turi teisę nustatyti ne ilgesnį kaip 9 mėnesių
+pereinamąjį laikotarpį nuo Įstatymo įsigaliojimo, jei tai neturės įtakos kitų
+ūkio subjektų teisėms, nurodydama, kokie Įstatymo įpareigojimai konkretiems
+ūkio subjektams nėra taikomi ir kokios teisės išlaikomos.
  
  
 Skelbiu šį Lietuvos Respublikos Seimo
@@ -2319,6 +2316,15 @@ TELEKOMUNIKACIJŲ
 Nauja
 įstatymo redakcija
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1221,
+2002-12-05, Žin., 2002, Nr. 123-5514 (2002-12-24)
+TELEKOMUNIKACIJŲ
+ĮSTATYMO PAKEITIMO ĮSTATYMO 1 STRAIPSNIU PAKEISTO TELEKOMUNIKACIJŲ ĮSTATYMO 8,
+24, 52, 57 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -2348,7 +2354,7 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-09-26)
+Aušrinė Trapinskienė (2003-01-17)
                  
 autrap@lrs.lt
 
