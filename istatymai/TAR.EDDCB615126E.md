@@ -427,11 +427,22 @@ Konstitucinis Teismas, Nutarimas
 68-3094 (2003-07-09)
  
             14 straipsnis. Pensijos skyrimas iš naujo 
-            Jei pareigūnui arba kariui, kuriam
-paskirta pareigūnų ir karių valstybinė invalidumo pensija, po jos paskyrimo
-pakeičiama invalidumo grupė, pensija turi būti paskirta iš naujo pagal naujus
-duomenis nuo jų pasikeitimo dienos, bet ne daugiau kaip už 12 mėnesių iki
-dokumentų pensijai perskaičiuoti gavimo atitinkamoje institucijoje dienos. 
+            Jei pareigūnui arba kariui, kuriam paskirta
+pareigūnų ir karių valstybinė invalidumo pensija, po jos paskyrimo pakeičiama
+invalidumo grupė, pensija turi būti paskirta iš naujo pagal naujus duomenis nuo
+jų pasikeitimo dienos, bet ne daugiau kaip už 12 mėnesių iki dokumentų pensijai
+perskaičiuoti gavimo atitinkamoje institucijoje dienos. 
+14
+straipsnis papildomas 2 dalimi nuo 2005 m. sausio 1 d.:
+Pareigūnui ar kariui, kuriam paskirta
+pareigūnų ir karių valstybinė pensija, po jos paskyrimo ištarnavusiam ne mažiau
+kaip dvejus metus, pareigūnų ir karių valstybinė pensija jo prašymu gali būti
+paskirta iš naujo pagal naujus duomenis. Jeigu naujai paskirta pensija yra
+mažesnė, mokama anksčiau paskirta pensija.
+Straipsnio
+pakeitimai:
+Nr. IX-2073,
+2004-03-23, Žin., 2004, Nr. 50-1635 (2004-04-06)
  
             15 straipsnis. Pensijos mokėjimas
 persikėlus nuolat gyventi į užsienį 
@@ -457,8 +468,9 @@ našlaičių pensijos pagal šį įstatymą skiriamos tik už asmenis, mirusius 
 Asmenims,
 priimtiems tarnauti vidaus reikalų, valstybės saugumo, krašto apsaugos,
 prokuratūros sistemos, Specialiųjų tyrimų tarnybos, Kalėjimų departamento, jam
-pavaldžių įstaigų bei valstybės įmonių pareigūnais ir kariais, tarnybos laikui pensijai
-skirti prilyginami šie laikotarpiai, buvę iki šio įstatymo įsigaliojimo:
+pavaldžių įstaigų bei valstybės įmonių pareigūnais ir kariais, tarnybos laikui
+pensijai skirti prilyginami šie laikotarpiai, buvę iki šio įstatymo
+įsigaliojimo:
 1)
 faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje,
 vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir
@@ -491,11 +503,11 @@ m. gruodžio 31 d.,
 6) mokymosi aukštosiose,
 specialiosiose vidurinėse, aukštesniosiose Lietuvos Respublikos policijos
 (vidaus reikalų), saugumo bei karo mokyklose laikas. Mokymosi analogiškose kitų
-valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai
-skirti Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką
-pensijai skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose,
-aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę
-asmenys iš karto paskirti pareigūnais.
+valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai skirti
+Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką pensijai
+skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose, aukštesniosiose ir
+specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę asmenys iš karto
+paskirti pareigūnais.
             Į Valstybės saugumo departamento sistemos
 pareigūnų tarnybos laiką pensijai skirti įskaitomas ištarnautas laikas,
 numatytas Lietuvos Respublikos valstybės saugumo departamento įstatymo 28
@@ -561,8 +573,8 @@ Nr. VIII-1632,
 00.04.18, Žin., 2000, Nr.36-986 (00.05.03)
 Nr. VIII-1654,
 00.05.02, Žin., 2000, Nr.41-1167 (00.05.19)
-Nr. VIII-1851,
-00.07.13, Žin., 2000, Nr.64-1923 (00.07.31)
+Nr. VIII-1851, 00.07.13,
+Žin., 2000, Nr.64-1923 (00.07.31)
 Nr. VIII-2008,
 2000 10 10, Žin., 2000, Nr. 92-2860 (2000 10 31)
 Nr. IX-814,
@@ -696,6 +708,20 @@ PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS
 PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1 IR 6 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2073,
+2004-03-23, Žin., 2004, Nr. 50-1635 (2004-04-06)
+VIDAUS
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 14 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
@@ -723,10 +749,11 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪ
 KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR
 KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO 4 DALIAI
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-07-10)
+Aušrinė Trapinskienė (2004-04-07)
                  
 autrap@lrs.lt
