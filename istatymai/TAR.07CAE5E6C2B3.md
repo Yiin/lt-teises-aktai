@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 1997-07-09 iki 2002-04-29
+Suvestinė redakcija nuo 2002-04-30 iki 2003-07-24
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
  
@@ -61,23 +61,19 @@ Vėliava ir jos atvaizdas visada turi atitikti Lietuvos valstybės vėliavos spa
 
 
 
-3 straipsnis. 
+3 straipsnis.
 
 
 Lietuvos valstybės vėliava iškeliama:
 
 
-1) prie Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės, Lietuvos Respublikos krašto apsaugos ministerijos ir savarankiškų karinių dalinių teritorijose, apskričių viršininkų administracijos, savivaldybių tarybų pastatų, taip pat ant Gedimino pilies bokšto Vilniuje - nuolat.
-Prie Lietuvos Respublikos valdžios įstaigų nuolat iškeliama tik Lietuvos valstybės vėliava. Naudoti kitų valstybių vėliavas prie Lietuvos Respublikos valdžios įstaigų, taip pat jų pastatų viduje neleidžiama, išskyrus šio įstatymo 5 straipsnyje nurodytus atvejus; 
-Straipsnio punkto pakeitimai:
-Nr. VIII-208, 1997-04-29, Žin., 1997, Nr. 41-991 (1997-05-14), i. k. 0971010ISTAVIII-208
-Nr. VIII-307, 1997-06-26, Žin., 1997, Nr. 65-1538 (1997-07-09), i. k. 0971010ISTAVIII-307
- 
+1) prie Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės, Lietuvos Respublikos krašto apsaugos ministerijos ir savarankiškų karinių dalinių teritorijose, prie apskričių viršininkų administracijų, savivaldybių tarybų pastatų, taip pat ant Gedimino pilies bokšto Vilniuje – nuolat.
+Prie Lietuvos Respublikos valstybės ir savivaldybių institucijų bei įstaigų nuolat iškeliama tik Lietuvos valstybės vėliava. Naudoti kitų valstybių vėliavas prie Lietuvos Respublikos valstybės ir savivaldybių institucijų bei įstaigų, taip pat jų pastatų viduje neleidžiama, išskyrus šio įstatymo 5 straipsnyje nurodytus atvejus;
 
 
 
 
-2) prie valstybinės valdžios ar valdymo organų, įmonių, įstaigų ir organizacijų pastatų, gyvenamųjų namų – Vasario 16-ąją, o kitomis dienomis – Lietuvos Respublikos Vyriausybei nutarus;
+2) prie valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų pastatų, gyvenamųjų namų – Vasario 16-ąją, o prie valstybės ir savivaldybių institucijų bei įstaigų – ir kitomis dienomis Lietuvos Respublikos Vyriausybės nutarimu;
 
 
 
@@ -102,7 +98,7 @@ Nr. VIII-307, 1997-06-26, Žin., 1997, Nr. 65-1538 (1997-07-09), i. k. 0971010IS
 
 
 
-7) prie balsavimo patalpų – Lietuvos Respublikos Seimo narių ir savivaldybių tarybų deputatų rinkimų, referendumo, visuotinės gyventojų apklausos (plebiscito) dienomis;
+7) prie balsavimo patalpų – Lietuvos Respublikos Seimo narių ir savivaldybių tarybų rinkimų, referendumo, visuotinės gyventojų apklausos (plebiscito) dienomis;
 
 
 
@@ -112,21 +108,24 @@ Nr. VIII-307, 1997-06-26, Žin., 1997, Nr. 65-1538 (1997-07-09), i. k. 0971010IS
 
 
 
-9) sporto arenose – per Lietuvos Respublikos čempionatus ir pirmenybes, tarptautines sporto varžybas, kuriose dalyvauja nacionalinės rinktinės, ir per tarptautinių varžybų nugalėtojų, atstovaujančių Lietuvos Respublikos sporto rinktinėms, apdovanojimo ceremonijas;
+9) sporto arenose – per Lietuvos Respublikos čempionatus ir pirmenybes, tarptautines sporto varžybas, kuriose dalyvauja nacionalinės rinktinės, ir per tarptautinių varžybų nugalėtojų, atstovaujančių Lietuvos Respublikos sporto rinktinėms, apdovanojimo ceremonijas; 
 
 
 
 
-10) prie Lietuvos Respublikos krašto apsaugos ministerijos pastatų ir savarankiškų karinių dalinių teritorijose - krašto apsaugos ministro nustatyta tvarka. 
-Straipsnio punkto pakeitimai:
-Nr. VIII-208, 1997-04-29, Žin., 1997, Nr. 41-991 (1997-05-14), i. k. 0971010ISTAVIII-208
- 
+10) prie Lietuvos Respublikos krašto apsaugos ministerijos pastatų ir savarankiškų karinių dalinių teritorijose – krašto apsaugos ministro nustatyta tvarka.
 
 
+
+
+
+
+Lietuvos Respublikos privatūs asmenys, valstybės ir savivaldybių įmonės bei organizacijos gali savo nuožiūra iškelti Lietuvos valstybės vėliavą. 
 
 
 Straipsnio pakeitimai:
 Nr. I-1229, 1996-03-14, Žin., 1996, Nr. 33-806 (1996-04-12), i. k. 0961010ISTA00I-1229
+Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
  
 
 
@@ -159,9 +158,10 @@ Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA00
 
 
 
-Kitais atvejais užsienio valstybių vėliavos prie Lietuvos Respublikos valdžios įstaigų, taip pat kitų pastatų gali būti iškeliamos tik oficialių vizitų, oficialių ceremonijų ir tarptautinių renginių metu diplomatinio protokolo bei tarptautinių dokumentų nustatyta tvarka. 
+Kitais atvejais užsienio valstybių vėliavos prie Lietuvos Respublikos valstybės ir savivaldybių institucijų bei įstaigų, taip pat kitų pastatų gali būti iškeliamos tik oficialių vizitų, oficialių ceremonijų ir tarptautinių renginių metu diplomatinio protokolo bei tarptautinių dokumentų nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
+Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
  
 
 
@@ -170,6 +170,14 @@ Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA00
 Užsienio valstybių vėliavos gali būti iškeliamos tik prie Lietuvos Respublikoje teisėtai įsteigtų užsienio valstybinių įstaigų, išskyrus šio straipsnio antrojoje dalyje nurodytą atvejį. 
 Straipsnio dalies pakeitimai:
 Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
+ 
+
+
+
+
+Lietuvos Respublikos privatūs asmenys ir užsieniečiai gali savo nuožiūra iškelti užsienio valstybių vėliavas. 
+Papildyta straipsnio dalimi:
+Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
  
 
 
@@ -225,10 +233,12 @@ Lietuvos valstybės vėliava gali būti keliama kitomis švenčių ir atmintinom
 
 
 
-Lietuvos piliečiai gali iškelti Lietuvos valstybės vėliavą prie savo namų asmeninių švenčių metu, o Lietuvoje gyvenantys užsienio valstybių piliečiai – valstybės, kurios piliečiais jie yra, vėliavą.
+2 dalis netenka galios 2002-04-30.
+
+
+Straipsnio pakeitimai:
+Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
  
-
-
 
 
 
@@ -271,13 +281,15 @@ Lietuvos valstybės vėliavos atvaizdą galima naudoti dekoratyviniais tikslais 
 
 
 
-12 straipsnis
+12 straipsnis. 
 
 
-Atsakomybė už šių nuostatų vykdymą iškeliant Lietuvos valstybės vėliavą prie valstybinės valdžios ir valdymo organų, įmonių, įstaigų ir organizacijų pastatų tenka jų administracijos vadovams, o iškeliant vėliavą prie gyvenamųjų namų – jų savininkams arba pareigūnams, kuriems pavesta organizuoti namų eksploatavimą.
+Atsakomybė už šių nuostatų vykdymą iškeliant Lietuvos valstybės vėliavą prie valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų pastatų tenka jų administracijos vadovams, o iškeliant vėliavą prie gyvenamųjų namų – jų savininkams arba asmenims, kuriems pavesta organizuoti namų eksploatavimą. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
  
-
-
 
 
 
@@ -362,3 +374,8 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-307, 1997-06-26, Žin., 1997, Nr. 65-1538 (1997-07-09), i. k. 0971010ISTAVIII-307
 Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-853, 2002-04-18, Žin., 2002, Nr. 44-1652 (2002-04-30), i. k. 1021010ISTA00IX-853
+Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3, 5, 8 ir 12 straipsnių pakeitimo įstatymas
