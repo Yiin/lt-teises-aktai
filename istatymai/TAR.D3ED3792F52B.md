@@ -23,8 +23,7 @@ VALSTYBĖS TARNYBOS
 ĮSTATYMAS
 1999 m. liepos 8 d. Nr. VIII-1316
 Vilnius
-PIRMASIS
-SKIRSNIS
+PIRMASIS SKIRSNIS
 BENDROSIOS
 NUOSTATOS
  
@@ -791,8 +790,8 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 75-2270 (2000 09 07)
  
  
-15 straipsnis.
-Politinio (asmeninio) pasitikėjimo valstybės tarnautojų priėmimas
+15 straipsnis. Politinio (asmeninio)
+pasitikėjimo valstybės tarnautojų priėmimas
 1. Į politinio
 (asmeninio) pasitikėjimo valstybės tarnautojų pareigas asmuo priimamas be
 konkurso - valstybės politiko pasirinkimu. Į pareigas jis skiriamas jį
@@ -2244,8 +2243,8 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 75-2270 (2000 09 07)
  
  
-53
-straipsnis. Valstybinis socialinis draudimas, sveikatos draudimas ir pensijos 
+53 straipsnis.
+Valstybinis socialinis draudimas, sveikatos draudimas ir pensijos 
 1. Valstybės tarnautojai privalomai
 draudžiami valstybiniu socialiniu draudimu ir sveikatos draudimu Valstybinio
 socialinio draudimo ir Sveikatos draudimo įstatymų nustatyta tvarka bei
@@ -2540,8 +2539,8 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 75-2270 (2000 09 07)
  
  
-58
-straipsnis. Vyriausybei neatskaitingų institucijų ir įstaigų personalo valdymas
+58 straipsnis.
+Vyriausybei neatskaitingų institucijų ir įstaigų personalo valdymas
 1. Vyriausybei
 neatskaitingose institucijose ir įstaigose už šio įstatymo ir su juo
 susijusių teisės aktų vykdymą bei personalo valdymą yra atsakingi:
@@ -2843,7 +2842,8 @@ nesutinka dirbti pasikeitus darbo sąlygoms - pakeisti darbo sutartis, kaip
 nurodyta šios dalies 1 ir 2 punktuose - ir apie savo nesutikimą raštu pareiškia
 institucijos ar įstaigos vadovui).
 10. Valstybės tarnautojams
-ankstesnės darbo apmokėjimo sąlygos lieka galioti iki  2001 m. sausio 1 d.
+ankstesnės darbo apmokėjimo sąlygos lieka galioti iki 
+2001 m. liepos 1 d.
 11. Su valstybės
 tarnautojais, kurie dėl šio įstatymo 68 straipsnio 5 dalyje nurodytos
 priežasties praranda viešojo administravimo valstybės tarnautojo statusą ir
@@ -2875,6 +2875,8 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 75-2270 (2000 09 07)
 Nr. IX-37, 2000 11 21, Žin., 2000, Nr.
 102-3213 (2000 11 29)
+Nr. IX-133, 2000 12 23, Žin., 2000, Nr.
+111-3586 (2000 12 29), įsigalioja nuo 2001 01 01
  
  
 63 straipsnis.
@@ -2892,8 +2894,8 @@ Nr. IX-129, 2000 12 21, Žin., 2000, Nr.
 111-3585 (2000 12 29), įsigalioja nuo 2001 01 01
  
  
-64 straipsnis. Valstybės tarnautojų
-priskyrimas grupėms, lygiams ir kategorijoms
+64 straipsnis. Valstybės tarnautojų priskyrimas
+grupėms, lygiams ir kategorijoms
 1. Suklasifikavus pareigybes pagal grupes, lygius
 ir kategorijas, kiekvienas valstybės tarnautojas priskiriamas tam tikrai
 grupei, lygiui ir kategorijai.
@@ -2917,11 +2919,12 @@ veiklos, praranda viešojo administravimo karjeros valstybės tarnautojo status�
 pagal šio įstatymo 68 straipsnio 5 dalį. 
  
 65 straipsnis. Profesionalumo vertinimas
-1. Nustačius valstybės tarnautojų pareigybių kategorijas,
-iki bus priimti teisės aktai, reglamentuojantys valstybės tarnautojų vertinimo
-tvarką, bet ne ilgiau kaip 2 metus nuo šio įstatymo įsigaliojimo, valstybės
-tarnautojų profesionalumas vertinamas Vyriausybės ar jos įgaliotos institucijos
-nustatyta tvarka, vadovaujantis šio straipsnio 2 ir 3 dalių nuostatomis.
+1. Nustačius valstybės tarnautojų pareigybių
+kategorijas, iki bus priimti teisės aktai, reglamentuojantys valstybės
+tarnautojų vertinimo tvarką, bet ne ilgiau kaip 2 metus nuo šio įstatymo
+įsigaliojimo, valstybės tarnautojų profesionalumas vertinamas Vyriausybės ar
+jos įgaliotos institucijos nustatyta tvarka, vadovaujantis šio
+straipsnio 2 ir 3 dalių nuostatomis.
 2. Valstybės
 tarnautojai ne mažiau kaip prieš 1 mėnesį iki jų profesionalumo įvertinimo yra
 raštu informuojami apie būsimą vertinimą bei turi teisę susipažinti su jiems
@@ -2939,8 +2942,8 @@ Vyriausybės nustatyta tvarka apskaičiuoto vidutinio darbo užmokesčio dydžio
 kompensacija ir 1 metus jis gali dalyvauti konkursuose bet kokioms žemesnės
 kategorijos pareigoms. Šiuo laikotarpiu jis gali dirbti bet kurį kitą darbą ne
 valstybės tarnyboje. Per 1 metus konkurso būdu nepaskirtas pareigoms, jis
-netenka valstybės tarnautojo statuso ir yra išbraukiamas iš Valstybės
-tarnautojų registro.
+netenka valstybės tarnautojo statuso ir yra išbraukiamas iš Valstybės tarnautojų
+registro.
  
 66 straipsnis.
 Valstybės tarnautojo statuso atkūrimas 
@@ -2999,9 +3002,9 @@ parengtos atitinkamos Lietuvos viešojo administravimo instituto mokymo
 programos ir pagal jas suteikta kvalifikacija, leidžianti asmenims pretenduoti
 į Vyriausybės nurodytas pareigybes, bet ne ilgiau kaip 4 metus
 nuo šio įstatymo įsigaliojimo, pretendentams į šias pareigybes reikalavimas
-būti išėjus Lietuvos viešojo administravimo instituto atitinkamą mokymo
-programą (ar jai prilygintą) nekeliamas. Dokumentas, liudijantis, kad ši mokymo
-programa išeita, ir atitinkamų žinių turėjimas yra pretendento privalumas.
+būti išėjus Lietuvos viešojo administravimo instituto atitinkamą mokymo programą
+(ar jai prilygintą) nekeliamas. Dokumentas, liudijantis, kad ši mokymo programa
+išeita, ir atitinkamų žinių turėjimas yra pretendento privalumas.
 5. Po šio
 įstatymo įsigaliojimo 2 metus valstybės tarnautojams, siekiantiems kad būtų
 paaukštintos pareigos, kurių kategorija yra aukštesnė už žemiausią tam tikro
@@ -3018,37 +3021,37 @@ Nr. IX-129, 2000 12 21, Žin., 2000, Nr.
 Valstybės tarnautojo statuso praradimas
 1. Sukakę 62 metus
 ir 6 mėnesius ir vyresnio amžiaus karjeros bei viešųjų paslaugų valstybės
-tarnautojai baigia tarnybą ir atsistatydina iš pareigų ne vėliau kaip per 2
-metus nuo Valstybės tarnybos įstatymo įsigaliojimo. Jie turi teisę tęsti
-valstybės tarnybą, eidami pakaitinių, politinio (asmeninio) pasitikėjimo
-valstybės tarnautojų arba ūkines ar technines funkcijas atliekančių paslaugų
-valstybės tarnautojų pareigas. Valstybės institucijos ar įstaigos vadovas
-(savivaldybėse - administratorius ar savivaldybės kontrolierius) prireikus gali
-pratęsti 62 metus ir 6 mėnesius sukakusio valstybės tarnautojo tarnybą, bet ne
-ilgiau, nei jis sukaks 65 metus. Apie būsimą tarnybos pratęsimą ne vėliau kaip
-prieš 6 mėnesius, kol valstybės tarnautojas sukaks 62 metus ir 6 mėnesius,
-vadovas privalo raštu informuoti valstybės tarnybos tvarkymo funkciją atliekančią
+tarnautojai baigia tarnybą ir atsistatydina iš pareigų ne vėliau kaip per 2 metus
+nuo Valstybės tarnybos įstatymo įsigaliojimo. Jie turi teisę tęsti valstybės
+tarnybą, eidami pakaitinių, politinio (asmeninio) pasitikėjimo valstybės
+tarnautojų arba ūkines ar technines funkcijas atliekančių paslaugų valstybės
+tarnautojų pareigas. Valstybės institucijos ar įstaigos vadovas (savivaldybėse
+- administratorius ar savivaldybės kontrolierius) prireikus gali pratęsti 62
+metus ir 6 mėnesius sukakusio valstybės tarnautojo tarnybą, bet ne ilgiau, nei
+jis sukaks 65 metus. Apie būsimą tarnybos pratęsimą ne vėliau kaip prieš 6
+mėnesius, kol valstybės tarnautojas sukaks 62 metus ir 6 mėnesius, vadovas
+privalo raštu informuoti valstybės tarnybos tvarkymo funkciją atliekančią
 įstaigą.
 2. Šio straipsnio
 1 dalyje nurodyti karjeros ar viešųjų paslaugų valstybės tarnautojai, per
 nustatytą terminą neatsistatydinę iš pareigų, taip pat valstybės tarnautojai,
 kurių tarnybos pratęsimo laikas, kaip nurodyta šio straipsnio 1 dalyje,
-pasibaigė, praranda valstybės tarnautojo statusą ir yra atleidžiami iš
-valstybės tarnybos. 
+pasibaigė, praranda valstybės tarnautojo statusą ir yra atleidžiami iš valstybės
+tarnybos. 
 3. Viešojo
 administravimo valstybės tarnautojai bei viešųjų paslaugų valstybės tarnautojai
 (švietimo įstaigų pedagogai, auklėtojai ir šių įstaigų vadovai), kurie buvo
-SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB - toliau VSK) kadriniai
-darbuotojai (išskyrus tuos VSK kadrinius darbuotojus, kurie,
-dirbdami VSK, tyrė tik kriminalines bylas ir ne vėliau kaip kitą dieną po 1990
-m. kovo 11 d. nutraukė savo darbą VSK, taip pat kiti asmenys, kuriems pagal
-įstatymą „Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo
-ir šios organizacijos darbuotojų dabartinės veiklos“ tarnybinės veiklos
-apribojimai netaikomi), ir kurie iki Valstybės tarnybos įstatymo
-įsigaliojimo neatsistatydino iš pareigų, praranda valstybės tarnautojo statusą
-ir yra atleidžiami iš valstybės tarnybos nuo tos dienos, kai paaiškėja, kad
-jiems yra taikytinas įstatymas „Dėl SSRS valstybės saugumo komiteto (NKVD,
-NKGB, MGB, KGB) vertinimo ir šios organizacijos darbuotojų dabartinės veiklos“.
+SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB - toliau VSK) kadriniai darbuotojai
+(išskyrus tuos VSK kadrinius darbuotojus, kurie, dirbdami VSK,
+tyrė tik kriminalines bylas ir ne vėliau kaip kitą dieną po 1990 m. kovo 11 d.
+nutraukė savo darbą VSK, taip pat kiti asmenys, kuriems pagal įstatymą „Dėl
+SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios
+organizacijos darbuotojų dabartinės veiklos“ tarnybinės veiklos apribojimai
+netaikomi), ir kurie iki Valstybės tarnybos įstatymo įsigaliojimo
+neatsistatydino iš pareigų, praranda valstybės tarnautojo statusą ir yra
+atleidžiami iš valstybės tarnybos nuo tos dienos, kai paaiškėja, kad jiems yra
+taikytinas įstatymas „Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB,
+KGB) vertinimo ir šios organizacijos darbuotojų dabartinės veiklos“.
 4. Valstybės tarnautojas taip pat praranda valstybės
 tarnautojo statusą ir yra atleidžiamas iš valstybės tarnybos, kai:
 1) per 5 metus nuo šio įstatymo įsigaliojimo neįgyja
@@ -3075,10 +3078,10 @@ mėnesius;
 5) pasibaigia šio
 įstatymo 62 straipsnio 5 dalyje nurodytas įstaigos vadovo paskyrimo terminas,
 įskaitant tarnybos pratęsimo laiką tiems vadovams, kurių tarnyba buvo pratęsta.
-5. Viešojo
-administravimo karjeros valstybės tarnautojai, kurių pareigybių aprašymuose
-viešojo administravimo veikla nenumatyta, praranda viešojo administravimo
-karjeros valstybės tarnautojo statusą ir tampa paslaugų valstybės tarnautojais.
+5. Viešojo administravimo
+karjeros valstybės tarnautojai, kurių pareigybių aprašymuose viešojo
+administravimo veikla nenumatyta, praranda viešojo administravimo karjeros
+valstybės tarnautojo statusą ir tampa paslaugų valstybės tarnautojais.
 Straipsnio pakeitimai:
 Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 75-2270 (2000 09 07)
@@ -3088,7 +3091,7 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 darbo užmokestis
 1. Šio įstatymo
 šeštajame skirsnyje nustatyta darbo apmokėjimo sistema pradedama įgyvendinti
-pagal šio straipsnio 2, 3 ir 4 dalių nuostatas nuo 2001 m. sausio 1 d.
+pagal šio straipsnio 2, 3 ir 4 dalių nuostatas nuo 2001 m. liepos 1 d.
 2. Valstybės tarnautojams, kurių
 iki šio straipsnio 1 dalyje nurodytos datos gautas vidutinis darbo užmokestis
 yra didesnis už darbo užmokestį, nustatomą pagal šio įstatymo šeštajame
@@ -3104,22 +3107,21 @@ ir iš paskutinių 12 mėnesių nustatytų priedų bei priemokų dydžių, vadov
 Vyriausybės patvirtinta tvarka;
 2) praėjus 6
 mėnesiams, nurodytiems šios dalies 1 punkte, pereinamuoju laikotarpiu – iki
-2003 m. sausio 1 d. buvęs darbo užmokestis nuosekliai mažinamas ir priartinamas
+2003 m. liepos 1 d. buvęs darbo užmokestis nuosekliai mažinamas ir priartinamas
 prie naujo darbo užmokesčio dydžio, kiekvieną mėnesį valstybės tarnautojui
 priklausantį darbo užmokestį apskaičiuojant pagal formulę (kol susilygins su
 pagal šį įstatymą nustatytu darbo užmokesčiu):
 A = C – [(C – B)
 x M], čia:
-A –
-pereinamuoju laikotarpiu valstybės tarnautojui priklausantis darbo užmokestis;
-B –
-pagal šį įstatymą nustatytas valstybės tarnautojo darbo užmokestis;
-C – valstybės tarnautojo buvęs darbo
-užmokestis (šio straipsnio 2 dalies 1 punktas);
-M – valstybės tarnautojo darbo
-užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo
-užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai viešojo
-administravimo ir paslaugų valstybės tarnautojams:
+A – pereinamuoju
+laikotarpiu valstybės tarnautojui priklausantis darbo užmokestis;
+B – pagal šį
+įstatymą nustatytas valstybės tarnautojo darbo užmokestis;
+C – valstybės
+tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1 punktas);
+M – valstybės
+tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis
+buvusį darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai: 
  
 
 
@@ -3133,14 +3135,14 @@ Metai
 2002
 
 
+2003
+
+
 
 
 Pusmečiai
 
 
-I
-
-
 II
 
 
@@ -3150,72 +3152,52 @@ I
 II
 
 
+I
 
 
-M (viešojo
-  administravimo)
 
 
-0
+M
 
 
 0,4
 
 
-0,65
+0,6
+
+
+0,8
 
 
 0,9
 
 
 
-
-M (paslaugų)
-
-
-0
-
-
-0,2
-
-
-0,5
-
-
-0,8
-
-
-
  
-3.
-Valstybės tarnautojams, kurių buvęs darbo užmokestis (šio straipsnio 2 dalies 1
-punktas) yra mažesnis už šio įstatymo šeštajame skirsnyje nustatytą darbo
-užmokestį, naujasis darbo užmokesčio dydis pasiekiamas laipsniškai:
-pereinamuoju laikotarpiu - iki 2006 m. sausio 1 d. kiekvieną mėnesį valstybės
-tarnautojui priklausantį darbo užmokestį apskaičiuojant pagal formulę: 
-A =
-[ (B - C) x D] + C, čia:
-A -
-pereinamojo laikotarpio apskaičiuotas valstybės tarnautojui priklausantis darbo
-užmokestis;
-B -
-valstybės tarnautojo darbo užmokestis, apskaičiuotas pagal šio įstatymo
-nuostatas ir dydžius ;
-C -
-valstybės tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1
-punktas);
-D -
-valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, laipsniškai
-didinantis buvusį darbo užmokestį. Pereinamuoju laikotarpiu nustatomi šie
-koeficientai: 
+3. Valstybės
+tarnautojams, kurių buvęs darbo užmokestis (šio straipsnio 2 dalies 
+1 punktas) yra mažesnis už šio įstatymo šeštajame skirsnyje nustatytą darbo
+užmokestį, naujasis darbo užmokesčio dydis pasiekiamas nuosekliai: pereinamuoju
+laikotarpiu – iki 2006 m. 
+sausio 1 d. kiekvieną mėnesį valstybės tarnautojui priklausantį darbo užmokestį
+apskaičiuojant pagal formulę:
+A = [ (B – C) x
+D] + C, čia:
+A – pereinamuoju
+laikotarpiu valstybės tarnautojui priklausantis darbo užmokestis;
+B – valstybės
+tarnautojo darbo užmokestis, apskaičiuotas pagal šio įstatymo nuostatas ir
+dydžius;
+C – valstybės
+tarnautojo buvęs darbo užmokestis (šio straipsnio 2 dalies 1 punktas);
+D – valstybės
+tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuosekliai didinantis
+buvusį darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
  
 
 
 
 Metai
-
-
-2000
 
 
 2001
@@ -3241,10 +3223,7 @@ D
 0
 
 
-0,1
-
-
-0,3
+0,2
 
 
 0,5
@@ -3289,7 +3268,8 @@ dydžiai turi skirtis ne mažiau kaip 5 procentais;
 patvirtinus pareiginės algos koeficiento bazės dydį ar minimalią mėnesinę algą,
 Socialinės apsaugos ir darbo ministerija, vadovaudamasi šio straipsnio 5 dalies
 1 ir 2 punktų nuostatomis, „Valstybės žiniose“ per 5 darbo dienas paskelbia
-visų valstybės tarnautojų kategorijų (nuo 1-os iki 30-os) pareiginių algų dydžius;
+visų valstybės tarnautojų kategorijų (nuo 1-os iki 30-os) pareiginių algų
+dydžius;
 4) priedo už
 tarnybos stažą, skaičiuojamo pagal šio įstatymo 33 straipsnio 2 dalį, mokėjimą
 Vyriausybė įgyvendina laipsniškai.
@@ -3300,6 +3280,8 @@ Nr. VIII-1903, 2000 08 29, Žin., 2000, Nr.
 75-2270 (2000 09 07)
 Nr. IX-37, 2000 11 21, Žin., 2000, Nr.
 102-3213 (2000 11 29)
+Nr. IX-133, 2000 12 23, Žin., 2000, Nr.
+111-3586 (2000 12 29), įsigalioja nuo 2001 01 01
  
  
 70 straipsnis.
@@ -3338,8 +3320,8 @@ Nr. IX-37, 2000 11 21, Žin., 2000, Nr.
 72 straipsnis. Šio
 įstatymo 50 straipsnio 2 dalies įgyvendinimas
 1. Kasmetinių
-atostogų trukmės didinimas įgyvendinamas per 5 metus Vyriausybės nustatyta tvarka.
-
+atostogų trukmės didinimas įgyvendinamas per 5 metus Vyriausybės nustatyta
+tvarka. 
 2. Valstybės
 tarnautojų, kurių kasmetinės atostogos pagal Valdininkų įstatymą buvo ilgesnės
 negu šio įstatymo nustatyta minimali 28 dienų trukmė, kasmetinių atostogų
@@ -3373,8 +3355,8 @@ Nr. IX-129, 2000 12 21, Žin., 2000, Nr.
 111-3585 (2000 12 29), įsigalioja nuo 2001 01 01
  
  
-76 straipsnis. Šio įstatymo 55
-straipsnio 1 dalies įgyvendinimas
+76 straipsnis. Šio įstatymo 55 straipsnio
+1 dalies įgyvendinimas
 1. Kol Vyriausybė
 parengs būtinus teisės aktus šio įstatymo 55 straipsnio 1 daliai įgyvendinti,
 bet ne ilgiau kaip 2 metus, šio įstatymo 55 straipsnio 1 dalyje numatytais
@@ -3390,9 +3372,9 @@ padalinyje. Valstybės tarnautojas taip pat informuojamas apie atsilaisvinusias
 reorganizavimo į valstybės ar savivaldybių įmones ar viešąsias įstaigas atveju
 valstybės tarnautojams gali būti pasiūlomos pareigos šiose įmonėse ar
 įstaigose. Valstybės tarnautojas turi teisę rinktis siūlomas pareigas 6
-mėnesius po valstybės institucijos ar įstaigos, savivaldybės administracijos
-padalinio ar savivaldybės įstaigos likvidavimo, reorganizavimo ar privatizavimo
-arba pareigybės panaikinimo;
+mėnesius po valstybės institucijos ar įstaigos, savivaldybės administracijos padalinio
+ar savivaldybės įstaigos likvidavimo, reorganizavimo ar privatizavimo arba
+pareigybės panaikinimo;
 2) laikotarpiu,
 kai siūlomos kitos pareigos, mokama Vyriausybės nustatytos minimalios mėnesinės
 algos dydžio kompensacija. Tuo atveju, kai jis gauna kitų apmokestinamų pajamų,
@@ -3403,8 +3385,8 @@ valstybės tarnyboje.
 mėnesius neatsiranda laisvų šio straipsnio 1 punkte nurodytų pareigų ar
 valstybės tarnautojas atsisako jas eiti, jis praranda valstybės tarnautojo
 statusą ir atleidžiamas iš valstybės tarnybos pagal šio įstatymo 68 straipsnio
-4 dalies 3 punktą. Atsižvelgiant į tarnybos stažą, apskaičiuotą pagal šio
-įstatymo 33 straipsnio 3 dalį, jam išmokama kompensacija:
+4 dalies 3 punktą. Atsižvelgiant į tarnybos stažą, apskaičiuotą pagal šio įstatymo
+33 straipsnio 3 dalį, jam išmokama kompensacija:
 1) iki 1 metų,
 įskaitant stažuotės ar bandomąjį laiką, - 1 mėnesio vidutinio darbo užmokesčio
 dydžio;
@@ -3474,10 +3456,10 @@ pagrindų įstatymo projektą;
 atlieka galiojančių įstatymų, statutų, kitų teisės aktų, susijusių su
 statutinių valstybės tarnautojų tarnybos ypatumais, ekspertizę ir pateikia
 Seimui jų pakeitimų ir papildymų projektus;
-4) per 2 metus
-priima visus kitus Valstybės tarnybos įstatymui įgyvendinti būtinus teisės
-aktus, išskyrus tuos, kurie pagal šio įstatymo nustatytą kompetenciją priimami
-už valstybės tarnybą atsakingo ministro arba kuriems šiame įstatyme numatytas
+4) per 2 metus priima
+visus kitus Valstybės tarnybos įstatymui įgyvendinti būtinus teisės aktus,
+išskyrus tuos, kurie pagal šio įstatymo nustatytą kompetenciją priimami už
+valstybės tarnybą atsakingo ministro arba kuriems šiame įstatyme numatytas
 kitoks terminas;
 5) per 2 metus
 parengia ir pateikia Seimui Valstybės tarnautojų pensijų įstatymą.
@@ -3499,9 +3481,9 @@ Kitų teisės aktų galiojimas
 šiam įstatymui, netenka galios:
 1) Darbo
 sutarties įstatymo 26 straipsnio 1 dalies 16, 17, 18, 19, 20 punktai ir
-29 straipsnio 1 dalies 13 punktas (Žin., 1991, Nr.36-973; 1993, Nr.30-684;
-1995, Nr.46-1119; 1996, Nr.41-983, Nr.43-1043; 1997, Nr.6-88, Nr.66-1593,
-Nr.91-2273); 
+29 straipsnio 
+1 dalies 13 punktas (Žin., 1991, Nr.36-973; 1993, Nr.30-684; 1995, Nr.46-1119;
+1996, Nr.41-983, Nr.43-1043; 1997, Nr.6-88, Nr.66-1593, Nr.91-2273); 
 2) Valdininkų
 įstatymas (Žin., 1995, Nr.33-759);
 3) Valstybės ir
@@ -3511,7 +3493,8 @@ organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymas (Žin., 1996, N
 4) Valstybės ir
 Vyriausybės vadovų, Seimo narių, valstybės ir savivaldybių įstaigų bei
 organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo įsigaliojimo
-atidėjimo įstatymas (Žin., 1998, Nr.61-1732).
+atidėjimo įstatymas 
+(Žin., 1998, Nr.61-1732).
 2. Iki šio
 įstatymo įsigaliojimo priimti teisės aktai, reglamentuojantys valstybės
 tarnautojų priėmimą į pareigas valstybės tarnyboje, profesionalumo vertinimą
@@ -3530,14 +3513,14 @@ priimtą įstatymą.
 
  
 RESPUBLIKOS
-PREZIDENTAS                                                           VALDAS ADAMKUS
+PREZIDENTAS         VALDAS ADAMKUS
 
 
-                                                                                          Lietuvos
+                                                                                                Lietuvos
 Respublikos 
-                                                                                          valstybės
+                                                                                                valstybės
 tarnybos įstatymo
-                                                                                          1
+                                                                                                1
 priedėlis
  
 POLITINIO (ASMENINIO)
@@ -3610,8 +3593,8 @@ A
 
 
 
-Seimo
-  Pirmininko patarėjas
+Seimo Pirmininko
+  patarėjas
 
 
 A
@@ -4130,15 +4113,16 @@ Nr. IX-64, 2000 11 30, Žin., 2000, Nr.
  
 
 
-                                                                                          Lietuvos
+                                                                                                Lietuvos
 Respublikos 
-                                                                                          valstybės
+                                                                                                valstybės
 tarnybos įstatymo
-                                                                                          2
+                                                                                                2
 priedėlis
  
-VIEŠOJO ADMINISTRAVIMO
-- ĮSTAIGŲ VADOVŲ IR KARJEROS - VALSTYBĖS TARNAUTOJŲ TIPINIŲ PAREIGYBIŲ
+VIEŠOJO
+ADMINISTRAVIMO - ĮSTAIGŲ VADOVŲ IR KARJEROS - VALSTYBĖS TARNAUTOJŲ TIPINIŲ
+PAREIGYBIŲ
 KATEGORIJOS
  
 1.
@@ -6622,11 +6606,11 @@ Nr. IX-37, 2000 11 21, Žin., 2000, Nr.
  
 
 
-                                                                                          Lietuvos
+                                                                                                Lietuvos
 Respublikos 
-                                                                                          valstybės
+                                                                                                valstybės
 tarnybos įstatymo
-                                                                                          3
+                                                                                                3
 priedėlis
  
 VIEŠOJO ADMINISTRAVIMO IR
@@ -6947,8 +6931,18 @@ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001 m.
 sausio 1 d.
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-133, 2000 12 23, Žin., 2000, Nr.
+111-3586 (2000 12 29)
+VALSTYBĖS TARNYBOS
+ĮSTATYMO 62 IR 69 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2001 m.
+sausio 1 d.
+ 
 *** Pabaiga ***
  
  
 Redagavo: Aušrinė Trapinskienė (2001 01 08)
-                  autrap@lrs.lt
+                  autrap@lrs.lt
