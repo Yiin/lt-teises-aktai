@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1993-11-24 iki 1994-07-28
+Suvestinė redakcija nuo 1994-07-29 iki 1994-08-02
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
  
@@ -36,15 +36,14 @@ BENDRIEJI NUOSTATAI
 3. Šis įstatymas nereglamentuoja fizinių asmenų, kurių turtas buvo nacionalizuotas, konfiskuotas ar kitaip be jų valios paimtas valstybės nuosavybėn, turtinių teisių atstatymo.
  
 
-2 straipsnis. Valstybinių įmonių tolesnis privatizavimas pagal Valstybinių įmonių įstatymą
+2 straipsnis. Valstybinių įmonių tolesnis privatizavimas pagal Lietuvos Respublikos Valstybinių įmonių įstatymą
 
-1. Pagal Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymą valstybinė įmonė gali būti privatizuojama tik vieną kartą. Įmonės toliau gali būti privatizuojamos pagal Lietuvos Respublikos valstybinių įmonių įstatymą tik tuo atveju, jeigu jos jau buvo privatizuotos pagal Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymą.
+1. Pagal Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymą valstybinė įmonė gali būti privatizuojama tik vieną kartą, išskyrus specifinės paskirties įmones ir įmones, įtrauktas į objektų, privatizuojamų už laisvai konvertuojamą valiutą, sąrašą. Įmonės toliau gali būti privatizuojamos pagal Lietuvos Respublikos valstybinių įmonių įstatymą tik tuo atveju, jeigu jos jau buvo privatizuotos pagal Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymą.
 
-2. Įmonės pagal Lietuvos Respublikos valstybinių įmonių įstatymą gali būti privatizuojamos tik už Lietuvos pinigus (litus) ar laisvai konvertuojamą valiutą pagal nustatytą valiutos keitimo kursą, jei ko kita Lietuvos Respublikos įstatymuose nenumatyta.
+2. Įmonės, įtrauktos į objektų, privatizuojamų už laisvai konvertuojamą valiutą sąrašą arba į specifinės paskirties valstybinių įmonių sąrašą, neturi teisės iš savo lėšų pagal metinius komercinės ūkinės veiklos rezultatus didinti akcinio bei įstatinio kapitalo, jeigu akcinis kapitalas, įskaitant sukauptąjį pagal kitus įstatymus, viršytų 30 procentų įmonės įstatinio kapitalo.
 
-3. Įmonės, įtrauktos į objektų, privatizuojamų už laisvai konvertuojamą valiutą, sąrašą, neturi teisės iš savo lėšų pagal metinius komercinės ūkinės veiklos rezultatus didinti akcinio bei įstatinio kapitalo, jeigu akcinis kapitalas, įskaitant sukauptą pagal kitus įstatymus, viršytų 30 procentų įmonės įstatinio kapitalo. 
-Papildyta straipsnio dalimi:
-Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, Nr. 6-116 (1993-02-28), i. k. 0931010ISTA0000I-64
+Straipsnio pakeitimai:
+Nr. I-570, 1994-07-20, Žin., 1994, Nr. 58-1137 (1994-07-29), i. k. 0941010ISTA000I-570
  
 
 3 straipsnis. Informacija apie privatizavimą
@@ -313,21 +312,6 @@ PRIVATIZAVIMO OBJEKTŲ PARDAVIMAS
 1) parduodant privatizavimo objektus aukcione;
 
 2) skelbiant viešą akcijų pasirašymą;
-
-3) rengiant konkursus privatizavimo objektams, parduodamiems už laisvai konvertuojamą valiutą, įsigyti. Jeigu konkurse dalyvauja vienas investitorius, gali būti deramasi tiesiogiai. Konkursų ir tiesioginių derybų rengimo tvarką bei sąlygas nustato Lietuvos Respublikos Vyriausybė; 
-Papildyta punktu:
-Nr. I-2658, 1992-06-23, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 20-590 (1992-07-20), i. k. 0921010ISTA00I-2658
-Punkto pakeitimai:
-Nr. I-2893, 1992-09-17, Lietuvos aidas, 1992, Nr. 187-0 (1992-09-24); Žin., 1992, Nr. 28-812 (1992-10-10), i. k. 0921010ISTA00I-2893
- 
-
-4) kitais privatizavimo būdais:
-a) rengiant uždarus aukcionus ir skelbiant uždarą akcijų pasirašymą,
-b) akcijų paketą parduodant aukcione už laisvai konvertuojamą valiutą,
-c) skelbiant konkursus privatizavimo objektams įsigyti. 
-Papildyta punktu:
-Nr. I-2893, 1992-09-17, Lietuvos aidas, 1992, Nr. 187-0 (1992-09-24); Žin., 1992, Nr. 28-812 (1992-10-10), i. k. 0921010ISTA00I-2893
- 
 
 2. Privatizavimo objektas (akcijos) parduodamas fiziniam asmeniui, investicinei akcinei bendrovei, uždarajai akcinei bendrovei ir žemės ūkio bendrovei privačios nuosavybės teise, fizinių asmenų grupei – privačios bendrosios dalinės arba sutuoktinių bendrosios jungtinės nuosavybės teise. 
 Straipsnio dalies pakeitimai:
@@ -629,4 +613,14 @@ Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 20 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-307, 1993-11-17, Žin., 1993, Nr. 63-1190 (1993-11-24), i. k. 0931010ISTA000I-307
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo ir pakeitimo
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-569, 1994-07-20, Žin., 1994, Nr. 59-1159 (1994-08-03); Žin., 1994, Nr. 61-0 (1994-08-10), i. k. 0941010ISTA000I-569
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo pakeitimo ir papildymo
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-570, 1994-07-20, Žin., 1994, Nr. 58-1137 (1994-07-29), i. k. 0941010ISTA000I-570
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 2 straipsnio pakeitimo
 
