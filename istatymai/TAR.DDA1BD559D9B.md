@@ -237,7 +237,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 5
 straipsnis. Leidimas pensijų fondo veiklai
 1. Be Vertybinių
@@ -316,8 +315,8 @@ fondo akcijos yra apmokėtos arba steigėjai įsigijo tik dalį pirmosios emisij
 akcijų;
 5) pensijų fondo
 steigėjai (jei steigėjas yra juridinis asmuo, šio asmens vadovai ir
-kontroliuojantys asmenys) ar akcininkai, turintys ne mažiau kaip 10 procentų pensijų
-fondo akcijų, nėra nepriekaištingos reputacijos (yra įrodymų, kad jie
+kontroliuojantys asmenys) ar akcininkai, turintys ne mažiau kaip 10 procentų
+pensijų fondo akcijų, nėra nepriekaištingos reputacijos (yra įrodymų, kad jie
 nesąžiningi ar dažnai pažeidžia finansinę drausmę, turi nuobaudų dėl
 nusižengimų naudojantis tarnybine padėtimi, administracinių nuobaudų už teisės
 pažeidimus, kuriais kėsinamasi į nuosavybę, teisės pažeidimus finansų ar
@@ -401,7 +400,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 6
 straipsnis. Pensijų fondo veiklos ypatumai
 1.
@@ -440,7 +438,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 7
 straipsnis. Pensijų fondo valdymo įmonė
 1.
@@ -467,7 +464,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 8
 straipsnis. Pensijų fondo reorganizavimas
 1. Pensijų
@@ -481,8 +477,8 @@ kiek jie neprieštarauja šiam įstatymui.
 3.
 Reorganizavimo projekte pensijų fondas, be kitos Akcinių bendrovių įstatyme
 nustatytos informacijos, privalo nurodyti pensijų programų ir jų dalyvių
-skaičių, duomenis apie perduodamas-priimamas pensijų programas ir jų turtą,
-fondo nuosavą turtą, valdymo įmonę, depozitoriumą, pensijų fondo prievolių
+skaičių, duomenis apie perduodamas-priimamas pensijų programas ir jų turtą, fondo
+nuosavą turtą, valdymo įmonę, depozitoriumą, pensijų fondo prievolių
 perdavimo-priėmimo sąlygas ir terminus, turtines ir neturtines pensijų programų
 dalyvių teises po reorganizavimo, šių teisių ir pareigų įgijimo terminus.
 Reorganizavimo projektui turi pritarti reorganizuojamo pensijų fondo visuotinis
@@ -499,8 +495,8 @@ negaliojančiu.
 6.
 Informacija apie reorganizavimo eigą ir terminus turi būti pateikiama
 kiekvienam to pareikalavusiam pensijų fondo akcininkui, pensijų programos
-dalyviui, pensijos įmokų mokėtojui, Vertybinių popierių komisijai bei Socialinės
-apsaugos ir darbo ministerijai.
+dalyviui, pensijos įmokų mokėtojui, Vertybinių popierių komisijai bei
+Socialinės apsaugos ir darbo ministerijai.
 7.
 Gavęs Vertybinių popierių komisijos sutikimą, reorganizuojamas pensijų fondas
 gali Vertybinių popierių komisijos nustatyta tvarka be pensijų programos
@@ -518,12 +514,11 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 9
 straipsnis. Pensijų fondo likvidavimas
 1.
-Pensijų fondas likviduojamas šio įstatymo ir Akcinių bendrovių įstatymo
-nustatyta tvarka.
+Pensijų fondas likviduojamas šio įstatymo ir Akcinių bendrovių įstatymo nustatyta
+tvarka.
 2. Pensijų fondas likviduojamas:
 1) visuotinio akcininkų susirinkimo sprendimu,
 jei tam pritaria Vertybinių popierių komisija;
@@ -533,14 +528,14 @@ kai šio įstatymo nustatyta tvarka atšaukiamas leidimas pensijų fondo veiklai
 procedūrą.
 3. Visuotinio akcininkų susirinkimo sprendimu
 pensijų fondas gali būti likviduojamas tik tuo atveju, jeigu jis Vertybinių
-popierių komisijos nustatyta tvarka perdavė visą pensijų programų turtą ir
-visas pensijų sutartis kitam pensijų fondui arba jeigu Vertybinių popierių
-komisijos leidimu ir jos nustatyta tvarka nutraukė visas pensijų programas dėl
-ketinimo likviduoti pensijų fondą. Pensijų fondas be pensijų programų dalyvių
-sutikimo gali perduoti pensijų programas ir pensijų sutartis kitam pensijų
-fondui, jeigu pensijų programas ir pensijų sutartis perimantis pensijų fondas
-neblogina pensijų programų sąlygų ir perima visus įsipareigojimus pensijų
-programų dalyviams.
+popierių komisijos nustatyta tvarka perdavė visą pensijų programų turtą ir visas
+pensijų sutartis kitam pensijų fondui arba jeigu Vertybinių popierių komisijos
+leidimu ir jos nustatyta tvarka nutraukė visas pensijų programas dėl ketinimo
+likviduoti pensijų fondą. Pensijų fondas be pensijų programų dalyvių sutikimo
+gali perduoti pensijų programas ir pensijų sutartis kitam pensijų fondui, jeigu
+pensijų programas ir pensijų sutartis perimantis pensijų fondas neblogina
+pensijų programų sąlygų ir perima visus įsipareigojimus pensijų programų
+dalyviams.
 4. Ne vėliau
 kaip per 3 dienas po visuotinio akcininkų susirinkimo sprendimo likviduoti
 pensijų fondą apie tai turi būti pranešta raštu Vertybinių popierių komisijai
@@ -554,11 +549,11 @@ fondą bei duomenis apie save.
 6. Apie
 likvidavimą kiekvienas pensijų fondas privalo paskelbti Vertybinių popierių
 komisijos nustatyta tvarka. Informacija apie pensijų fondo likvidavimo eigą ir
-terminus turi būti pateikta kiekvienam to pareikalavusiam pensijų fondo
-akcininkui, pensijų programos dalyviui, pensijų įmokų mokėtojui, Vertybinių
-popierių komisijai bei Socialinės apsaugos ir darbo ministerijai. Vertybinių
-popierių komisija, priėmusi sprendimą dėl pritarimo likviduoti pensijų fondą
-arba sprendimą likviduoti pensijų fondą, raštu praneša tą sprendimą Socialinės
+terminus turi būti pateikta kiekvienam to pareikalavusiam pensijų fondo akcininkui,
+pensijų programos dalyviui, pensijų įmokų mokėtojui, Vertybinių popierių
+komisijai bei Socialinės apsaugos ir darbo ministerijai. Vertybinių popierių
+komisija, priėmusi sprendimą dėl pritarimo likviduoti pensijų fondą arba
+sprendimą likviduoti pensijų fondą, raštu praneša tą sprendimą Socialinės
 apsaugos ir darbo ministerijai.
 7.
 Kai pensijų fondas likviduojamas Vertybinių popierių komisijos sprendimu,
@@ -584,7 +579,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 10
 straipsnis. Pensijų fondo bankroto procedūra
 1. Pensijų fondo
@@ -601,10 +595,10 @@ interesams atstovauja Vertybinių popierių komisijos nustatyta tvarka sudarytas
 komitetas, į kurio sudėtį įeina pensijų programų dalyvių atstovai, kiti
 kreditoriai ir Vertybinių popierių komisijos atstovai.
 4. Nuo pensijų
-fondo bankroto bylos iškėlimo dienos sustabdomos visos pensijų fondo operacijos,
-išskyrus būtinas administratoriaus veiklai užtikrinti bei numatytas šio
-straipsnio 5 dalyje, ir visi pensijų įmokų mokėjimai į pensijų sąskaitas bei
-išmokos iš šių sąskaitų. Išlaidų, reikalingų administratoriaus veiklai
+fondo bankroto bylos iškėlimo dienos sustabdomos visos pensijų fondo
+operacijos, išskyrus būtinas administratoriaus veiklai užtikrinti bei numatytas
+šio straipsnio 5 dalyje, ir visi pensijų įmokų mokėjimai į pensijų sąskaitas
+bei išmokos iš šių sąskaitų. Išlaidų, reikalingų administratoriaus veiklai
 užtikrinti, sąmatą tvirtina bei keičia teismas administratoriaus teikimu.
 5.
 Bankrutuojančio pensijų fondo administratorių skiria teismas Vertybinių
@@ -624,8 +618,8 @@ perkeliamas nemokamai.
 priėmus nutartį likviduoti pensijų fondą, pensijų programos, kurios nebuvo
 perkeltos į kitą pensijų fondą iki nutarties dėl likvidavimo priėmimo, teismo
 nutartimi skelbiamos nutrauktomis. Pensijų programos dalyvių reikalavimai tokiu
-atveju tenkinami šio straipsnio ir šio įstatymo 22 straipsnio 7 dalies
-nustatyta tvarka.
+atveju tenkinami šio straipsnio ir šio įstatymo 22 straipsnio 7 dalies nustatyta
+tvarka.
 7.
 Administratorius per teismo nustatytą laikotarpį sudaro pensijų programų
 dalyvių ir kitų pensijų fondo kreditorių sąrašus bei nustato jų reikalavimų
@@ -670,29 +664,32 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 11
 straipsnis. Pensijų fondų asociacijos
 Pensijų
 fondai turi teisę jungtis į asociacijas įstatymų nustatyta tvarka.
- 
  
 TREČIASIS skirsnis
 Pensijų fondŲ valdymas
  
 12
 straipsnis. Pensijų fondo valdymas
-1.
-Be apribojimų, nustatytų Lietuvos Respublikos Konstitucijoje ir kituose
-įstatymuose, pensijų fondo stebėtojų tarybos ir valdybos nariais negali būti
-pensijų fondo auditorius, kito pensijų fondo stebėtojų tarybos ar valdybos
-nariai, asmenys, susiję su pensijų fondo depozitoriumu ar valdymo įmone, taip
-pat asmenys, turintys teistumą už nusikaltimus nuosavybei, finansams ar
-ūkininkavimo tvarkai.
+1. Be apribojimų, nustatytų Lietuvos
+Respublikos Konstitucijoje ir kituose įstatymuose, pensijų fondo stebėtojų
+tarybos ir valdybos nariais negali būti pensijų fondo auditorius, kito pensijų
+fondo stebėtojų tarybos ar valdybos nariai, asmenys, susiję su pensijų fondo
+depozitoriumu ar valdymo įmone, taip pat asmenys, turintys neišnykusį arba
+nepanaikintą teistumą už nusikaltimus nuosavybei, turtinėms teisėms ir
+turtiniams interesams, finansų sistemai ar ekonomikai ir verslo tvarkai.
 2.
 Vertybinių popierių komisija turi teisę įpareigoti pensijų fondo valdybą
 (stebėtojų tarybą, jei valdyba nesudaroma) sušaukti neeilinį visuotinį fondo
 akcininkų susirinkimą.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1427,
+2003-04-03, Žin., 2003, Nr. 38-1672 (2003-04-24)
  
 13
 straipsnis. Pensijų fondo valdymo organų narių atsakomybė
@@ -700,13 +697,13 @@ Pensijų
 fondo stebėtojų tarybos, valdybos nariai, administracijos vadovas bei kiti
 administracijos darbuotojai, savo sprendimais, veiksmais ar neveikimu pažeidę
 įstatymus, pensijų fondo įstatus, pensijų programas ar pareigą veikti pensijų
-programų dalyvių labui, privalo atlyginti pensijų fondui žalą, atsiradusią dėl žalos
-pensijų programų dalyviams atlyginimo. Stebėtojų tarybos ir valdybos narių
-atsakomybė yra solidari. Narys, balsavęs prieš tokį nutarimą, atleidžiamas nuo
-pareigos atlyginti pensijų fondui žalą, jei posėdžio protokole yra įrašytas jo
-protestas. Nuo atsakomybės atleidžiamas ir susirinkime nedalyvavęs narys, jeigu
-jis per 7 dienas po to, kai sužinojo arba turėjo sužinoti apie tokį nutarimą,
-įteikė posėdžio pirmininkui raštišką protestą.
+programų dalyvių labui, privalo atlyginti pensijų fondui žalą, atsiradusią dėl
+žalos pensijų programų dalyviams atlyginimo. Stebėtojų tarybos ir valdybos
+narių atsakomybė yra solidari. Narys, balsavęs prieš tokį nutarimą,
+atleidžiamas nuo pareigos atlyginti pensijų fondui žalą, jei posėdžio protokole
+yra įrašytas jo protestas. Nuo atsakomybės atleidžiamas ir susirinkime
+nedalyvavęs narys, jeigu jis per 7 dienas po to, kai sužinojo arba turėjo
+sužinoti apie tokį nutarimą, įteikė posėdžio pirmininkui raštišką protestą.
  
 14
 straipsnis. Veiklos kontrolė
@@ -825,16 +822,15 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 16
 straipsnis. Pensijos sutartis
 1. Pensijos sutartis yra sutartis tarp
 pensijų fondo ir įmokų mokėtojo (mokėtojų), pagal kurią pirmasis prisiima
 įsipareigojimus pensijų programų dalyviams pagal atitinkamą pensijų programą, o
-įmokų mokėtojas įsipareigoja mokėti pensijos įmokas. Prieš sudarant pensijų sutartį,
-visi asmenys, kurių naudai sutartis sudaroma, turi būti supažindinti su pensijų
-programa, kurios dalyviais jie taps įsigaliojus pensijos sutarčiai. Pensijų
-programa yra pensijos sutarties dalis.
+įmokų mokėtojas įsipareigoja mokėti pensijos įmokas. Prieš sudarant pensijų
+sutartį, visi asmenys, kurių naudai sutartis sudaroma, turi būti supažindinti
+su pensijų programa, kurios dalyviais jie taps įsigaliojus pensijos sutarčiai.
+Pensijų programa yra pensijos sutarties dalis.
 2. Pensijos
 sutartis turi būti sudaroma rašytine forma.
 3. Pensijos
@@ -855,19 +851,19 @@ prieštaraujančios Vertybinių popierių komisijos nustatytiems reikalavimams,
 negalioja.
 6. Pensijų
 fondas neturi teisės nutraukti pensijos sutarties be pensijų programos dalyvio
-sutikimo, išskyrus šiame įstatyme numatytus atvejus. Pensijos sutarties,
-sudarytos pensijų programos dalyvio naudai, šalys savo susitarimu, taip pat
-pensijų įmokų mokėtojas, sudaręs pensijos sutartį pensijų programos dalyvio
-naudai, turi teisę nutraukti pensijos sutartį be pensijų programos dalyvio sutikimo,
-jeigu ko kita nenumato pensijos sutartis.
+sutikimo, išskyrus šiame įstatyme numatytus atvejus. Pensijos sutarties, sudarytos
+pensijų programos dalyvio naudai, šalys savo susitarimu, taip pat pensijų įmokų
+mokėtojas, sudaręs pensijos sutartį pensijų programos dalyvio naudai, turi
+teisę nutraukti pensijos sutartį be pensijų programos dalyvio sutikimo, jeigu
+ko kita nenumato pensijos sutartis.
 7. Pensijų
 fondas tvarko pensijų įmokų mokėtojų, sudariusių pensijų sutartis, pensijų
 programos dalyvių, kurių naudai tokios sutartys sudarytos, bei pensijų
 programos dalyvių, gaunančių pensijų išmokas, registrus. Registro duomenys yra
 konfidencialūs. Registras tvarkomas pagal kiekvieną pensijų programą. Registro
 tvarkymo taisykles bei turinį nustato pensijų fondas. Šios taisyklės ir
-registro turinys turi būti patvirtinti pensijų fondo valdybos (stebėtojų tarybos,
-jeigu valdyba nesudaroma).
+registro turinys turi būti patvirtinti pensijų fondo valdybos (stebėtojų
+tarybos, jeigu valdyba nesudaroma).
 8. Įsigaliojus
 pensijos sutarčiai, pensijų fondas kiekvienam pensijų programos dalyviui
 atidaro asmeninę pensijos sąskaitą.
@@ -875,7 +871,6 @@ Straipsnio
 pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 17 straipsnis.
 Pensijų programos dalyvis
@@ -887,7 +882,6 @@ Straipsnio
 pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 18
 straipsnis. Pensijų programos dalyvio teisės
@@ -902,9 +896,9 @@ ir pensijų programos turto finansinėmis ataskaitomis, taip pat gauti
 informaciją apie pensijų fondo gautas pajamas iš pensijų programos turto, jeigu
 jis dalyvauja toje programoje;
 3) gauti
-informaciją apie jo arba jo naudai įmokėtas pensijų įmokas ir tų įmokų konvertavimą
-į apskaitos vienetus bei apie savo pensijos sąskaitoje esančias sumas (į
-pensijos sąskaitą įrašytų apskaitos vienetų kiekį ir jų vertę);
+informaciją apie jo arba jo naudai įmokėtas pensijų įmokas ir tų įmokų
+konvertavimą į apskaitos vienetus bei apie savo pensijos sąskaitoje esančias
+sumas (į pensijos sąskaitą įrašytų apskaitos vienetų kiekį ir jų vertę);
 4) raštu įspėjęs
 pensijų fondą, laikinai nutraukti pensijų įmokų mokėjimą (jeigu pensijų
 programos dalyvis moka pensijų įmokas savo naudai) bei atidėti pensijų išmokų
@@ -920,7 +914,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 19
 straipsnis. Pensijų programos dalyvio pareigos
 1.
@@ -934,7 +927,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 20
 straipsnis. Dalyvavimo pensijų programoje pasibaigimas
 1. Dalyvavimas
@@ -945,31 +937,31 @@ Pensijos sutarties, sudarytos pensijų programos dalyvio naudai, nutraukimas tos
 sutarties šalių susitarimu arba pensijų įmokų mokėtojo valia be pensijų
 programos dalyvio sutikimo (kai toks sutikimas nėra būtinas), nepereinant į
 kitą pensijų programą, taip pat sutarties nutraukimas teismo sprendimu bei tos
-sutarties pasibaigimas mirus pensijų įmokų mokėtojui – fiziniam asmeniui arba likvidavus
-pensijų įmokų mokėtoją – juridinį asmenį, nenutraukia asmens dalyvavimo pensijų
-programoje. Šiuo atveju asmuo, kurio naudai buvo sudaryta pensijos sutartis,
-išsaugo visas pensijų programos dalyvio teises bei pareigas, numatytas toje
-programoje, ir pensijų įmokų mokėtojo teisės ir pareigos jam nepereina.
-Pastaruoju atveju pagal tą pačią pensijų programą gali būti sudaroma ir nauja
-pensijos sutartis, pagal kurią pensijų įmokų mokėtoju bus pensijų programos
-dalyvis arba kitas asmuo ir pensijų įmokos bus mokamos į anksčiau pensijų
-programos dalyvio vardu atidarytą pensijų sąskaitą.
+sutarties pasibaigimas mirus pensijų įmokų mokėtojui – fiziniam asmeniui arba
+likvidavus pensijų įmokų mokėtoją – juridinį asmenį, nenutraukia asmens
+dalyvavimo pensijų programoje. Šiuo atveju asmuo, kurio naudai buvo sudaryta
+pensijos sutartis, išsaugo visas pensijų programos dalyvio teises bei pareigas,
+numatytas toje programoje, ir pensijų įmokų mokėtojo teisės ir pareigos jam
+nepereina. Pastaruoju atveju pagal tą pačią pensijų programą gali būti sudaroma
+ir nauja pensijos sutartis, pagal kurią pensijų įmokų mokėtoju bus pensijų
+programos dalyvis arba kitas asmuo ir pensijų įmokos bus mokamos į anksčiau
+pensijų programos dalyvio vardu atidarytą pensijų sąskaitą.
 2. Pensijos
 sutarties, sudarytos pensijų programos dalyvio naudai, nutraukimas šalių
 susitarimu sutikus pensijų programos dalyviui (kai toks sutikimas yra būtinas)
 arba pensijų fondo valia esant pensijų programos dalyvio sutikimui, arba
 pensijų įmokų mokėtojo valia gavus pensijų programos dalyvio sutikimą (kai
 dalyvio sutikimas turi būti gautas), taip pat pensijos sutarties, pagal kurią
-pensijų įmokų mokėtojas yra pensijų programos dalyvis, nutraukimas šalių
-susitarimu arba pensijų programos dalyvio valia bei pensijų programos dalyvio
-raštiškas pareiškimas pensijų fondui apie dalyvavimo toje programoje
-nutraukimą, kai pensijų programos dalyvio naudai sudarytos pensijos sutarties
-galiojimas prieš tai buvo jau pasibaigęs, visais nurodytais atvejais
-nepereinant į kitą pensijų programą, yra laikomi pensijų programos dalyvio
-išstojimu iš pensijų programos. Pensijų programoje gali būti numatytas
-draudimas išstoti iš pensijų programos iki pensinio amžiaus suėjimo arba
-numatant minimalų privalomą dalyvavimo pensijų programoje terminą, kuriam
-nepasibaigus asmuo neturi teisės išstoti iš pensijų programos.
+pensijų įmokų mokėtojas yra pensijų programos dalyvis, nutraukimas šalių susitarimu
+arba pensijų programos dalyvio valia bei pensijų programos dalyvio raštiškas
+pareiškimas pensijų fondui apie dalyvavimo toje programoje nutraukimą, kai
+pensijų programos dalyvio naudai sudarytos pensijos sutarties galiojimas prieš
+tai buvo jau pasibaigęs, visais nurodytais atvejais nepereinant į kitą pensijų
+programą, yra laikomi pensijų programos dalyvio išstojimu iš pensijų programos.
+Pensijų programoje gali būti numatytas draudimas išstoti iš pensijų programos
+iki pensinio amžiaus suėjimo arba numatant minimalų privalomą dalyvavimo
+pensijų programoje terminą, kuriam nepasibaigus asmuo neturi teisės išstoti iš
+pensijų programos.
 3. Išstojančiam
 iš pensijų programos dalyviui turi būti išmokėta suma, gauta konvertavus jo
 pensijų sąskaitoje pažymėtus apskaitos vienetus į pinigines lėšas ir atskaičius
@@ -1013,7 +1005,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 21
 straipsnis. Pensijų programos dalyvio perėjimas į kitą pensijų programą
 1. Pensijos
@@ -1047,8 +1038,8 @@ fondas, gavęs pensijų programos dalyvio raštišką prašymą pereiti į kitą
 programą arba jo raštišką sutikimą dėl perėjimo į kitą pensijų programą (jeigu
 pensijos sutartį pagal naują pensijų programą dalyvio naudai sudaro kitas
 asmuo), kitą darbo dieną konvertuoja pensijų programos dalyvio pensijų
-sąskaitoje pažymėtus apskaitos vienetus į pinigines lėšas dienos prieš konvertavimo
-dieną apskaitos vienetų verte.
+sąskaitoje pažymėtus apskaitos vienetus į pinigines lėšas dienos prieš
+konvertavimo dieną apskaitos vienetų verte.
 5. Pensijų
 fondas, iš kurio pensijų programos dalyvis pereina į kito fondo pensijų
 programą, turi pervesti priimančiajam fondui sumą, gautą konvertavus pensijų
@@ -1067,13 +1058,12 @@ sudarytą su priimančiuoju fondu, pateikia tą sutartį pensijų fondui, iš ku
 pereina pensijų programos dalyvis.
 6. Jeigu
 pensijų programos dalyvis pereina į kitą to paties pensijų fondo pensijų
-programą, dalyviui priklausančios lėšos pervedamos į pensijų programą, į kurią
-pereina pensijų programos dalyvis, šio straipsnio 5 dalyje nustatyta tvarka.
+programą, dalyviui priklausančios lėšos pervedamos į pensijų programą, į kurią pereina
+pensijų programos dalyvis, šio straipsnio 5 dalyje nustatyta tvarka.
 Straipsnio
 pakeitimai:
-Nr. IX-195, 2001 03 01, Žin., 2001, Nr. 25-825
-(2001 03 23)
- 
+Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
+25-825 (2001 03 23)
  
 22
 straipsnis. Pensijų programos nutraukimas 
@@ -1131,7 +1121,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 PENKTASIS
 SKIRSNIS
 Pensijų įmokos, APSKAITOS VIENETAI ir PENSIJų išmokos
@@ -1139,7 +1128,6 @@ Pakeistas
 skirsnio pavadinimas:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 23
 straipsnis. Pensijų įmokos
@@ -1170,15 +1158,14 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 23(1)
 straipsnis. apskaitos vienetai ir
 jų konvertavimas
-1. Mokamos
-pensijų įmokos, taip pat lėšos, pervedamos į kitą pensijų programą, į kurią
-pereina pensijų programos dalyvis, turi būti konvertuojamos į apskaitos
-vienetus. Piniginės lėšos konvertuojamos į apskaitos vienetus kitą darbo dieną
-po piniginių lėšų gavimo pensijų fonde dienos. Pinigai turi būti konvertuoti į
+1. Mokamos pensijų
+įmokos, taip pat lėšos, pervedamos į kitą pensijų programą, į kurią pereina
+pensijų programos dalyvis, turi būti konvertuojamos į apskaitos vienetus.
+Piniginės lėšos konvertuojamos į apskaitos vienetus kitą darbo dieną po
+piniginių lėšų gavimo pensijų fonde dienos. Pinigai turi būti konvertuoti į
 apskaitos vienetus pinigų gavimo pensijų fonde dienos atitinkamos pensijų
 programos apskaitos vienetų verte.
 2. Kiekviena
@@ -1187,19 +1174,19 @@ pensijų programos apskaitos vienetas išreiškia proporcingą dalį tos pensij�
 programos grynuosiuose aktyvuose.
 3. apskaitos vienetai (jų dalys)
 nominaliosios vertės neturi. apskaitos
-vieneto (jo dalies) vertė išreiškiama Lietuvos Respublikos valiuta – litais.
-Kiekvieno apskaitos vieneto vertė nustatoma padalijus pensijų programos grynųjų
-aktyvų vertę iš bendro pensijų programos apskaitos vienetų skaičiaus. Bendra
-visų pensijų programos apskaitos vienetų vertė visada yra lygi tos pensijų
-programos grynųjų aktyvų vertei. apskaitos
+vieneto (jo dalies) vertė išreiškiama Lietuvos Respublikos valiuta – litais. Kiekvieno
+apskaitos vieneto vertė nustatoma padalijus pensijų programos grynųjų aktyvų
+vertę iš bendro pensijų programos apskaitos vienetų skaičiaus. Bendra visų
+pensijų programos apskaitos vienetų vertė visada yra lygi tos pensijų programos
+grynųjų aktyvų vertei. apskaitos
 vieneto (jo dalių) vertė turi būti nustatoma centų tikslumu ir apvalinama iki
 sveiko centų skaičiaus pagal matematines apvalinimo taisykles.
 4. Jeigu
 šiame bei kituose Lietuvos Respublikos įstatymuose numatytais atvejais iš
 pensijų programos dalyvio pensijų sąskaitos turi būti išmokamos lėšos, pensijų
 fondas, gavęs atitinkamą dokumentą (vykdomąjį dokumentą, sutartį, paveldėjimo
-teisės liudijimą ir pan.), kitą darbo dieną konvertuoja pensijų programos dalyvio
-pensijų sąskaitoje pažymėtus apskaitos vienetus į pinigus dienos prieš
+teisės liudijimą ir pan.), kitą darbo dieną konvertuoja pensijų programos
+dalyvio pensijų sąskaitoje pažymėtus apskaitos vienetus į pinigus dienos prieš
 konvertavimo dieną apskaitos vienetų verte.
 5. Šio
 straipsnio 4 dalyje nurodytos piniginės lėšos, gautos konvertavus apskaitos
@@ -1225,7 +1212,6 @@ pinigus.
 papildytas straipsniu:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 24
 straipsnis. Pensijų išmokos
@@ -1286,7 +1272,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 26
 straipsnis. Pensijų anuitetai
 1. Pensijos anuitetas perkamas pensijų
@@ -1303,7 +1288,6 @@ Straipsnio
 pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 ŠEŠTASIS skirsnis
 Pensijų fondo finansai
@@ -1327,7 +1311,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 28
 straipsnis. Įstatinis kapitalas
 1.
@@ -1350,18 +1333,16 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 29
 straipsnis. Skolintas kapitalas
 Pensijų fondas
-negali turėti kitokio skolinto kapitalo, išskyrus trumpalaikes paskolas
-likvidumui palaikyti. Šių paskolų dydžio apribojimai yra nustatyti 6 straipsnio
-2 dalies 2 punkte.
+negali turėti kitokio skolinto kapitalo, išskyrus trumpalaikes paskolas likvidumui
+palaikyti. Šių paskolų dydžio apribojimai yra nustatyti 6 straipsnio 2 dalies 2
+punkte.
 Straipsnio
 pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 30
 straipsnis. Pensijų fondo pajamos iš pensijų programos turto
@@ -1372,7 +1353,6 @@ Straipsnio
 pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 31
 straipsnis. Pensijų fondo rezervai
@@ -1392,7 +1372,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 32
 straipsnis. Pensijų programos turtas
 1.
@@ -1404,9 +1383,9 @@ pensijų programos grynieji aktyvai turi būti vertinami tam, kad galima būtų
 nustatyti pensijų programos apskaitos vienetų vertę.
 3. Pensijų
 programos grynieji aktyvai turi būti vertinami ir pensijų programos apskaitos
-vienetų vertė turi būti nustatoma kiekvieną darbo dieną pensijų programoje nustatyta
-tvarka. Pensijų programos turtą sudarantis nekilnojamasis turtas turi būti
-vertinamas turtą ar verslą vertinančios įmonės Turto ir verslo vertinimo
+vienetų vertė turi būti nustatoma kiekvieną darbo dieną pensijų programoje
+nustatyta tvarka. Pensijų programos turtą sudarantis nekilnojamasis turtas turi
+būti vertinamas turtą ar verslą vertinančios įmonės Turto ir verslo vertinimo
 pagrindų įstatymo nustatyta tvarka ne rečiau kaip vieną kartą per pensijų fondo
 ūkinius metus. Vertybinių popierių komisija turi teisę nustatyti kitus pensijų
 programos grynųjų aktyvų vertinimo ir pensijų programos apskaitos vienetų
@@ -1415,7 +1394,6 @@ Straipsnio
 pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 33
 straipsnis. Pensijų sąskaitos
@@ -1430,9 +1408,8 @@ komisija turi teisę nustatyti pensijų sąskaitų atidarymo, tvarkymo ir uždar
 bei apskaitos vienetų apskaitos tvarkymo reikalavimus.
 Straipsnio
 pakeitimai:
-Nr. IX-195, 2001 03 01, Žin., 2001, Nr. 25-825
-(2001 03 23)
- 
+Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
+25-825 (2001 03 23)
  
 34
 straipsnis. Pensijų programos turto nuosavybės teisė
@@ -1466,8 +1443,8 @@ suteikiamos teisės įgyvendinamos, kiti su turto investavimu (reinvestavimu)
 susiję teisiniai veiksmai bei šio turto teisinė registracija atliekami, taip
 pat pensijų programos turtą sudarančių vertybinių popierių ir pinigų sąskaitos
 atidaromos pensijų fondo vardu, kartu nurodant atitinkamos pensijų programos
-pavadinimą ir jos registravimo Vertybinių popierių komisijoje numerį. Šios
-dalies nuostatos dėl pensijų programos turto teisinės registracijos ir pensijų
+pavadinimą ir jos registravimo Vertybinių popierių komisijoje numerį. Šios dalies
+nuostatos dėl pensijų programos turto teisinės registracijos ir pensijų
 programos turtą sudarančių vertybinių popierių bei pinigų sąskaitų atidarymo
 taikomos taip pat pensijų programų turto valdymo perdavimo valdymo įmonei
 atveju.
@@ -1482,7 +1459,6 @@ Straipsnio
 pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 SEPTINTASIS skirsnis
 Pensijų LĖŠŲ investavimas, REINVESTAVIMAS, 
@@ -1557,11 +1533,11 @@ popierių komisijos pripažintą kvalifikacijos sertifikatą. Apie sertifikatus
 turinčių darbuotojų pasikeitimus Vertybinių popierių komisija turi būti
 informuota per 5 dienas. 
 2. Pensijų turto
-valdymo sutartyje turi būti nuostatos, nurodytos Investicinių bendrovių įstatymo
-III skirsnyje. Turto valdymo sutartį turi patvirtinti pensijų fondo akcininkų
-susirinkimas. Sutartis fondo stebėtojų tarybos (valdybos) sprendimu gali būti
-nutraukta pirma laiko. Valdymo įmonė negali būti pakeista be Vertybinių
-popierių komisijos sutikimo.
+valdymo sutartyje turi būti nuostatos, nurodytos Investicinių bendrovių
+įstatymo III skirsnyje. Turto valdymo sutartį turi patvirtinti pensijų fondo
+akcininkų susirinkimas. Sutartis fondo stebėtojų tarybos (valdybos) sprendimu
+gali būti nutraukta pirma laiko. Valdymo įmonė negali būti pakeista be
+Vertybinių popierių komisijos sutikimo.
 3. Valdymo įmonė
 įstatymų nustatyta tvarka atsako už nuostolių ar žalos, padarytų dėl jos kaltės
 pensijų fondui ar pensijų programų dalyviams, atlyginimą. Turto valdymo
@@ -1571,7 +1547,6 @@ Straipsnio
 pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 37
 straipsnis. Pareiga perduoti saugoti pensijų turtą depozitoriumui
@@ -1590,9 +1565,9 @@ taryba arba valdyba, jeigu stebėtojų taryba nesudaroma. Pensijų fondas negali
 turėti daugiau kaip vieno vertybinių popierių ir piniginių lėšų depozitoriumo.
 Pensijų fondas turi teisę nutraukti pensijų turtą sudarančių piniginių lėšų ir
 vertybinių popierių saugojimo sutartį su depozitoriumu pirma laiko, jeigu
-pensijų programa perkeliama į kitą pensijų fondą, taip pat kitais įstatyme ar
-sutartyje numatytais atvejais. Depozitoriumas negali būti pakeistas be
-Vertybinių popierių komisijos sutikimo.
+pensijų programa perkeliama į kitą pensijų fondą, taip pat kitais įstatyme ar sutartyje
+numatytais atvejais. Depozitoriumas negali būti pakeistas be Vertybinių
+popierių komisijos sutikimo.
 3.
 Kiekvienos pensijų programos turtą depozitoriumas privalo įtraukti į apskaitą
 atskirai.
@@ -1618,7 +1593,6 @@ Straipsnio
 pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 AŠTUNTASIS skirsnis
 Pensijų programų dalyvių interesų apsauga
@@ -1692,13 +1666,12 @@ reikalavimu auditoriai privalo jai pateikti visą audito ataskaitą ir
 paaiškinimus dėl pensijų fondo finansinės atskaitomybės. 
 6.
 Valdymo įmonės ir depozitoriumai Vertybinių popierių komisijai privalo pateikti
-atskaitas, kurių turinį, formą ir pateikimo tvarką bei periodiškumą nustato
-Vertybinių popierių komisija.
+atskaitas, kurių turinį, formą ir pateikimo tvarką bei periodiškumą nustato Vertybinių
+popierių komisija.
 Straipsnio
 pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 40
 straipsnis. Pensijų programos dalyvių informavimas
@@ -1738,7 +1711,6 @@ Straipsnio
 pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
- 
  
 41
 straipsnis. Valstybinė pensijų fondų veiklos priežiūra
@@ -1801,9 +1773,9 @@ interesai.
 Vertybinių popierių komisija turi teisę apskųsti teismui asmenų veiksmus,
 trukdančius įgyvendinti Vertybinių popierių komisijai suteiktas teises,
 numatytas šio straipsnio 3 dalyje, reikalingas teisės pažeidimų tyrimams
-atlikti. Šias bylas nagrinėja Vilniaus apygardos teismas. Teismas, gavęs
-Vertybinių popierių komisijos prašymą, privalo ne vėliau kaip per 24 valandas
-jį išnagrinėti ir atsižvelgdamas į Vertybinių popierių komisijos reikalavimo
+atlikti. Šias bylas nagrinėja Vilniaus apygardos teismas. Teismas, gavęs Vertybinių
+popierių komisijos prašymą, privalo ne vėliau kaip per 24 valandas jį
+išnagrinėti ir atsižvelgdamas į Vertybinių popierių komisijos reikalavimo
 teisėtumą priimti sprendimą, įpareigojantį asmenį atlikti šios komisijos
 reikalaujamus veiksmus, susilaikyti nuo veiksmų, trukdančių atlikti tyrimą,
 arba netenkinti Vertybinių popierių komisijos prašymo. Už Vertybinių popierių
@@ -1844,9 +1816,8 @@ Pensijų fondai šiame įstatyme numatytų priežiūros institucijų sprendimus 
 apskųsti teismui.
 Straipsnio
 pakeitimai:
-Nr. IX-195, 2001 03 01, Žin., 2001, Nr. 25-825
-(2001 03 23)
- 
+Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
+25-825 (2001 03 23)
  
 DEVINTASIS skirsnis
 Atsakomybė už įstatymo pažeidimus
@@ -1911,7 +1882,6 @@ pakeitimai:
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
 25-825 (2001 03 23)
  
- 
 43
 straipsnis. Įstatymo įsigaliojimas
 Šis
@@ -1919,8 +1889,6 @@ straipsnis. Įstatymo įsigaliojimas
  
 Skelbiu šį Lietuvos Respublikos
 Seimo priimtą įstatymą.
- 
- 
  
  
 
@@ -1931,7 +1899,7 @@ Seimo priimtą įstatymą.
 RESPUBLIKOS
 PREZIDENTAS                                                           VALDAS
 ADAMKUS
-_________
+________________
  
 Pakeitimai:
  
@@ -1946,11 +1914,25 @@ FONDŲ ĮSTATYMO 2, 4, 5, 6, 7, 8, 9, 10, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25
 IR PAPILDYMO, PENKTOJO SKIRSNIO PAVADINIMO PAKEITIMO IR ĮSTATYMO PAPILDYMO
 23(1) STRAIPSNIU ĮSTATYMAS
  
-*** Pabaiga
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1427,
+2003-04-03, Žin., 2003, Nr. 38-1672 (2003-04-24)
+PENSIJŲ
+FONDŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja kartu su
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+2003 m. 
+gegužės 1 d.
+ 
 ***
+Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001 03 23)
+Aušrinė Trapinskienė (2003-04-28)
                  
 autrap@lrs.lt
