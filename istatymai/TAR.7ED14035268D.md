@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7ED14035268D"
 
 # Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymas
 
+Suvestinė redakcija nuo 2003-05-30 iki 2010-06-30
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 74-3139, i. k. 1021010ISTA0IX-1046
+ 
+ 
 LIETUVOS RESPUBLIKOS LICENCIJUOTŲ SANDĖLIŲ IR SANDĖLIAVIMO DOKUMENTŲ ĮSTATYMAS
  
 2002 m. liepos 5 d. Nr. IX-1046
@@ -34,7 +39,10 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
-1. Licencijuotas sandėlis (toliau – sandėlis) –  Lietuvos Respublikos įmonė arba užsienio įmonės filialas, ūkininko ūkis, turintys licenciją šio Įstatymo nustatyta tvarka verstis sandėlio veikla.
+1. Licencijuotas sandėlis (toliau – sandėlis) – Lietuvos Respublikos įmonė arba užsienio įmonės filialas, ūkininkas, turintys licenciją šio Įstatymo nustatyta tvarka verstis sandėlio veikla.
+Straipsnio dalies pakeitimai:
+Nr. IX-1562, 2003-05-20, Žin., 2003, Nr. 52-2313 (2003-05-30), i. k. 1031010ISTA0IX-1562
+ 
 
 2. Sandėlio veikla – sandėliavimo veikla, apimanti šiame Įstatyme nustatytų prekių priėmimą,saugojimą, išdavimą ir būtinų paslaugų teikimą saugomų prekių kokybei išsaugoti, taip pat sandėliavimo dokumentų išdavimą ir jų priėmimą.
 
@@ -96,7 +104,10 @@ SANDĖLIAI
 
 4 straipsnis. Teisės verstis sandėlio veikla suteikimas
 
-1. Verstis šiame Įstatyme numatyta sandėlio veikla leidžiama tik toms įmonėms ar tiems užsienio įmonių filialams, ūkininko ūkiams, kurie turi Lietuvos Respublikos Vyriausybės įgaliotos institucijos (toliau – licenciją išduodanti institucija) išduotą licenciją.
+1. Verstis šiame Įstatyme numatyta sandėlio veikla leidžiama tik toms įmonėms ar tiems užsienio įmonių filialams, ūkininkams, kurie turi Lietuvos Respublikos Vyriausybės įgaliotos institucijos (toliau – licenciją išduodanti institucija) išduotą licenciją.
+Straipsnio dalies pakeitimai:
+Nr. IX-1562, 2003-05-20, Žin., 2003, Nr. 52-2313 (2003-05-30), i. k. 1031010ISTA0IX-1562
+ 
 
 2. Sandėlio veiklos licencijavimo taisykles šio Įstatymo apibrėžtai sandėlio veiklai (toliau – licencijavimo taisyklės) tvirtina Vyriausybė ar jos įgaliota institucija.
 
@@ -105,11 +116,14 @@ SANDĖLIAI
 
 5 straipsnis. Reikalavimai licencijai gauti
 
-1. Licencija išduodama įmonei arba užsienio įmonės filialui, ūkininko ūkiui pagal jų rašytinį prašymą. Prašymo turinys ir dokumentai, reikalingi licencijai gauti, nustatomi licencijavimo taisyklėse. Už licencijos išdavimą mokama Rinkliavų įstatymo nustatyta tvarka.
+1. Licencija išduodama įmonei arba užsienio įmonės filialui, ūkininkui pagal jų rašytinį prašymą. Prašymo turinys ir dokumentai, reikalingi licencijai gauti, nustatomi licencijavimo taisyklėse. Už licencijos išdavimą mokama Rinkliavų įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1562, 2003-05-20, Žin., 2003, Nr. 52-2313 (2003-05-30), i. k. 1031010ISTA0IX-1562
+ 
 
-2. Licencija išduodama įmonei arba užsienio įmonės filialui, ūkininko ūkiui, jeigu:
+2. Licencija išduodama įmonei arba užsienio įmonės filialui, ūkininkui, jeigu:
 
-1) jie yra įregistruoti Lietuvos Respublikoje įstatymų nustatyta tvarka;
+1) įmonė arba užsienio įmonės filialas, ūkininko ūkis yra įregistruoti Lietuvos Respublikoje įstatymų nustatyta tvarka;
 
 2) jie pagal Įmonių bankroto įstatymą nėra nemokūs;
 
@@ -120,6 +134,10 @@ SANDĖLIAI
 5) jie yra apsidraudę pagal šio Įstatymo 7 straipsnio 2 dalies reikalavimus;
 
 6) jie atitinka kitus šio Įstatymo nustatytus reikalavimus.
+
+Straipsnio dalies pakeitimai:
+Nr. IX-1562, 2003-05-20, Žin., 2003, Nr. 52-2313 (2003-05-30), i. k. 1031010ISTA0IX-1562
+ 
 
 3. Pagal šio straipsnio 2 dalies 3 punktą įmonė laikoma tinkamai pasirengusia prekių sandėliavimo veiklai vykdyti, jei prekių sandėliavimo sąlygos atitinka techninius, technologinius ir kitus šio Įstatymo ir Vyriausybės įgaliotos institucijos gamybiniams pastatams (statiniams) nustatytus specialiuosius reikalavimus: prekių sandėliavimui skirtos talpyklos, įrengimai ir instaliacijos, taip pat procedūros, taikomos priimant, sandėliuojant ir išduodant prekes, turi nepakenkti prekių išsaugojimui, jų kokybei, užtikrinti tinkamą prekių kiekio ir kokybės identifikaciją bei patikrą.
 
@@ -506,4 +524,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1562, 2003-05-20, Žin., 2003, Nr. 52-2313 (2003-05-30), i. k. 1031010ISTA0IX-1562
+Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymo 2, 4 ir 5 straipsnių pakeitimo įstatymas
 
