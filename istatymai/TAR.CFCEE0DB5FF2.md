@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CFCEE0DB5FF2"
 
 # Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 1997-07-09 iki 2000-10-31
+Suvestinė redakcija nuo 2000-11-01 iki 2001-12-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2143, i. k. 0961010ISTA00I-1516
  
@@ -292,7 +292,10 @@ Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010IS
 
 
 
-11) suderinusi su Pasienio policijos departamentu prie Vidaus reikalų ministerijos bei Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į zoną tvarką bei tvirtina leidimų pavyzdžius.
+11) suderinusi su Valstybės sienos apsaugos tarnyba bei Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į zoną tvarką bei tvirtina leidimų pavyzdžius. 
+Straipsnio punkto pakeitimai:
+Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, Nr. 95-0 (2000-11-08); Žin., 2000, Nr. 96-0 (2000-11-10), i. k. 1001010ISTAIII-2005
+ 
 
 
 
@@ -322,7 +325,10 @@ Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010IS
 
 
 
-4) išduoda zonos valdymo bendrovės valdybos nustatyto bei su Pasienio policijos departamentu ir Muitinės departamentu patvirtinto pavyzdžio leidimus įeiti į zoną;
+4) išduoda zonos valdymo bendrovės valdybos nustatyto bei su Valstybės sienos apsaugos tarnyba ir Muitinės departamentu patvirtinto pavyzdžio leidimus įeiti į zoną; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, Nr. 95-0 (2000-11-08); Žin., 2000, Nr. 96-0 (2000-11-10), i. k. 1001010ISTAIII-2005
+ 
 
 
 
@@ -441,3 +447,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010ISTAVIII-330
 Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 6 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2005, 2000-10-10, Žin., 2000, Nr. 92-2857 (2000-10-31); Žin., 2000, Nr. 95-0 (2000-11-08); Žin., 2000, Nr. 96-0 (2000-11-10), i. k. 1001010ISTAIII-2005
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 7 straipsnio pakeitimo įstatymas
