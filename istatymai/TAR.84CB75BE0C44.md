@@ -13,15 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.84CB75BE0C44"
 
 # Lietuvos Respublikos juridinių asmenų pelno mokesčio įstatymas
 
-@D1=19900731;D2=19960430;D3=19960603
+@D1=19900731;D2=19960711;D3=19960812
 
-@D1=19900731;D2=19960430;D3=19960603
+@D1=19900731;D2=19960711;D3=19960812
 Pakeitimai:
  1.
  Parlamentas,
 Įstatymas
-{#90IDAA0642 ;} Nr.
-1-642, 90.10.05, Žin., 1990, Nr. 30-715
+{#19901005AA0642 ;}
+Nr. 1-642, 90.10.05, Žin., 1990, Nr. 30-715
  DĖL LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  PAPILDYMO
@@ -29,8 +29,8 @@ RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  2.
  Parlamentas,
 Įstatymas
-{#91D]AA1397 ;} Nr.
-1-1397, 91.05.30, Žin., 1991, Nr. 16-426
+{#19910530AA1397 ;}
+Nr. 1-1397, 91.05.30, Žin., 1991, Nr. 16-426
  DĖL LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  7 STRAIPSNIO
@@ -39,18 +39,18 @@ PAKEITIMO
  3.
  Parlamentas,
 Įstatymas
-{#91EZAA1516 ;} Nr.
-1-1516, 91.06.27, Žin., 1991, Nr. 20-520
- DĖL LIETUVOS
-RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
+{#19910627AA1516 ;}
+Nr. 1-1516, 91.06.27, Žin., 1991, Nr. 20-520
+ DĖL LIETUVOS RESPUBLIKOS
+JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  5, 6 IR 8
 STRAIPSNIŲ PAPILDYMO
  
  4.
  Parlamentas,
 Įstatymas
-{#92AEAA2275 ;} Nr.
-1-2275, 92.02.06, Žin., 1992, Nr. 6-110
+{#19920206AA2275 ;}
+Nr. 1-2275, 92.02.06, Žin., 1992, Nr. 6-110
  DĖL LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  3,5,6 IR 7
@@ -59,8 +59,8 @@ STRAIPSNIŲ PAKEITIMO
  5.
  Parlamentas,
 Įstatymas
-{#93DJAA0152 ;} Nr.
-1-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
+{#19930511AA0152 ;}
+Nr. 1-152, 93.05.11, Žin., 1993, Nr. 16-404 (93.05.21)
  DĖL LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  PAKEITIMO IR
@@ -69,8 +69,8 @@ PAPILDYMO
  6.
  Parlamentas,
 Įstatymas
-{#93FLAA0212 ;} Nr.
-1-212, 93.07.13, Žin., 1993, Nr. 30-682 (93.07.21)
+{#19930713AA0212 ;}
+Nr. 1-212, 93.07.13, Žin., 1993, Nr. 30-682 (93.07.21)
  DĖL LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  PAPILDYMO IR
@@ -79,8 +79,8 @@ PAKEITIMO
  7.
  Parlamentas,
 Įstatymas
-{#93KHAA0326 ;} Nr.
-1-326, 93.12.09, Žin., 1993, Nr. 70-1306 (93.12.18)
+{#19931209AA0326 ;}
+Nr. 1-326, 93.12.09, Žin., 1993, Nr. 70-1306 (93.12.18)
  DĖL LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  12 STRAIPSNIO
@@ -89,17 +89,18 @@ PAPILDYMO
  8.
  Parlamentas,
 Įstatymas
-{#94APAA0395 ;} Nr.
-1-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
+{#19940217AA0395 ;}
+Nr. 1-395, 94.02.17, Žin., 1994, Nr. 15-251 (94.02.25)
  DĖL LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
- PAKEITIMO IR PAPILDYMO
+ PAKEITIMO IR
+PAPILDYMO
  
  9.
  Parlamentas,
 Įstatymas
-{#94FKAA0539 ;} Nr.
-1-539, 94.07.12, Žin., 1994, Nr. 55-1052 (94.07.20)
+{#19940712AA0539 ;}
+Nr. 1-539, 94.07.12, Žin., 1994, Nr. 55-1052 (94.07.20)
  DĖL LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  PAPILDYMO
@@ -107,8 +108,8 @@ RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  10.
  Parlamentas,
 Įstatymas
-{#94KNAA0705 ;} Nr.
-1-705, 94.12.15, Žin., 1994, Nr. 100-1999 (94.12.28)
+{#19941215AA0705 ;}
+Nr. 1-705, 94.12.15, Žin., 1994, Nr. 100-1999 (94.12.28)
  DĖL LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  8 STRAIPSNIO
@@ -117,8 +118,8 @@ PAKEITIMO
  11.
  Parlamentas,
 Įstatymas
-{#95CJAA0848 ;} Nr.
-1-848, 95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
+{#19950411AA0848 ;}
+Nr. 1-848, 95.04.11, Žin., 1995, Nr. 34-813 (95.04.26)
  DĖL LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO
  PAKEITIMO IR
@@ -127,16 +128,16 @@ PAPILDYMO
  12.
  Parlamentas,
 Įstatymas
-{#95K[AA1159 ;} Nr.
-1-1159, 95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
+{#19951228AA1159 ;}
+Nr. 1-1159, 95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
  DĖL LIETUVOS
 RESPUBLIKOS MOKESČIŲ ĮSTATYMŲ PAPILDYMO
  
  13.
  Parlamentas,
 Įstatymas
-{#96B[AA1255 ;} Nr.
-1-1255, 96.03.28, Žin., 1996, Nr. 35-862 (96.04.19)
+{#19960328AA1255 ;}
+Nr. 1-1255, 96.03.28, Žin., 1996, Nr. 35-862 (96.04.19)
  LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 6 IR
  8 STRAIPSNIŲ
@@ -145,18 +146,60 @@ PAPILDYMO ĮSTATYMAS
  14.
  Parlamentas,
 Įstatymas
-{#96C]AA1310 ;} Nr.
-1-1310, 96.04.30, Žin., 1996, Nr. 46-1105 (96.05.17)
+{#19960430AA1310 ;}
+Nr. 1-1310, 96.04.30, Žin., 1996, Nr. 46-1105 (96.05.17)
  LIETUVOS
 RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 14,
  15, 16 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
  
-  Šis įstatymas
-įsigalioja nuo 1996 metų liepos 1 dienos.
+ 15.
+ Parlamentas,
+Įstatymas
+{#19960625AA1399 ;}
+Nr. 1-1399, 96.06.25, Žin., 1996, Nr. 62-1463 (96.07.02)
+ LIETUVOS
+RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 1,
+ 3, 5, 6, 7, 8
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+ 16.
+ Parlamentas,
+Įstatymas
+{#19960702AA1426 ;}
+Nr. 1-1426, 96.07.02, Žin., 1996, Nr. 66-1577 (96.07.12)
+ LIETUVOS
+RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 3
+ STRAIPSNIO
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+ 17.
+ Parlamentas,
+Įstatymas
+{#19960710AA1460 ;}
+Nr. 1-1460, 96.07.10, Žin., 1996, Nr. 73-1746 (96.07.31)
+ LIETUVOS
+RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 3,
+ 5, 6 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+ 18.
+ Parlamentas,
+Įstatymas
+{#19960711AA1482 ;}
+Nr. 1-1482, 96.07.11, Žin., 1996, Nr. 71-1715 (96.07.26)
+ LIETUVOS
+RESPUBLIKOS JURIDINIŲ ASMENŲ PELNO MOKESČIO ĮSTATYMO 8
+ STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
+ Šis įstatymas
+įsigalioja nuo 1996 m. rugpjūčio 1 d.
  
  
  *** Pabaiga ***
+ 
+ 
  
                       
 LIETUVOS RESPUBLIKOS
@@ -171,16 +214,17 @@ Mokesčio mokėtojai ir objektas
  
      1 straipsnis.
 Juridinių asmenų pelno mokestį moka:
-     a) juridinio 
-asmens teises  turinčios įmonės,  kurių veiklą
+     a)  juridinio 
+asmens  teises turinčios įmonės, kurių veiklą
 reglamentuoja
 Lietuvos Respublikos įmonių įstatymas;
-     b) juridiniai
-asmenys,  užsiimantys nekomercine veikla,  bet
-gavusieji   pajamų  
-iš   komercinės-ūkinės   veiklos,   išskyrus
-biudžetinių įstaigų 
-nebiudžetines lėšas.
+     b)  juridiniai 
+asmenys, užsiimantys nekomercine veikla, bet
+gavusieji  pajamų iš
+komercinės-ūkinės veiklos, išskyrus Lietuvos
+banką ir biudžetinių
+įstaigų nebiudžetines lėšas.
+ 
  
      2  straipsnis. 
 Pelno  mokestis  imamas  nuo apmokestinamojo
@@ -190,44 +234,57 @@ apskaičiuojamas II skyriuje nustatyta tvarka.
               II.
 Apmokestinamojo pelno nustatymas
  
-     3 straipsnis.
-Apmokestinamojo pelno apskaičiavimo pagrindas -
-realizavimo  pajamų 
-ir  nerealizacinių  pajamų  suma  (toliau  -
+     3  straipsnis.
+Apmokestinamojo pelno apskaičiavimo pagrindas
+-  realizavimo 
+pajamų  ir  nerealizacinių  pajamų suma (toliau -
 bendrosios pajamos).
      Realizavimo 
-pajamas  sudaro iš  įmonės išsiųsta produkcija,
-kitos 
-materialinės   vertybės,  atlikti   darbai  ir   suteiktos
+pajamas  sudaro  iš įmonės išsiųsta produkcija,
+kitos  
+materialinės   vertybės,   atlikti  darbai  ir  suteiktos
 paslaugos bei
 kompensaciniai priedai.
-     Nerealizacines
-pajamas  sudaro gaunamos ekonominės sankcijos
-ir kitos  su
-produkcijos gamyba, realizavimu bei paslaugų teikimu
-nesusijusios
-pajamos,  įskaitant pajamas,  gautas  už  išnuomotą,
-investuotą turtą.
-     Į
+    
+Nerealizacines   pajamas   sudaro   su  produkcijos  gamyba,
+realizavimu  bei
+paslaugų teikimu nesusijusios pajamos, įskaitant
+pajamas, gautas už
+išnuomotą, investuotą turtą.
+     Į 
 nerealizacines  pajamas,  apskaičiuojant  apmokestinamąjį
 pelną, neįskaitoma:
      1) gauti
 dividendai ir palūkanos už obligacijas;
      2) pajininkų iš
 kitų įmonių gauta pelno dalis;
-     3)   iš  
-draudimo  organizacijų   gautos   turto   draudimo
-atlyginimo  sumos,  
-neviršijančios  prarasto   turto   likutinės
-vertės;
-     4) steigėjų  iš
+     3) iš draudimo
+įmonių (draudikų) gautos draudimo išmokos;
+     4)  steigėjų iš
 individualių (personalinių) įmonių ir ūkinių
 bendrijų gauta
 pajamų (pelno) dalis;
      5)  sumos, 
-gautos Lietuvos  Respublikos labdaros ir paramos
+gautos  Lietuvos Respublikos labdaros ir paramos
 įstatymu
-reglamentuotai labdarai ir paramai.
+reglamentuotai labdarai ir paramai;
+     6)   visų  
+religinių   bendruomenių,   bendrijų  ir  centrų
+(aukštesniųjų 
+valdymo  institucijų)  pajamos:  aukos, pajamos už
+parduotą  labdaros 
+būdu  gautą turtą, jeigu jos skiriamos maldos
+namams   statyti, 
+jiems  remontuoti  ar  restauruoti,  labdarai,
+kultūrai ir
+švietimui;
+     7) gautos
+baudos ir delspinigiai.
+     Bendrosioms 
+pajamoms nepriskiriamos pajamos (lėšos), kurios
+pagal  Lietuvos 
+Respublikos  miškų įstatymą skirtos Miško fondui
+sudaryti.
  
      4 straipsnis. 
 Iš bendrųjų  pajamų atskaičius  5 straipsnyje
@@ -247,8 +304,8 @@ pelnas nustatomas kaip skirtumas tarp pajamų  už
 mokamas priemones ir
 išlaidų šioms priemonėms vykdyti.
  
-     5 straipsnis.
-Nustatant  apmokestinamąjį pelną, iš  bendrųjų
+     5  straipsnis. 
+Nustatant apmokestinamąjį pelną, iš bendrųjų
 įmonės  pajamų 
 atimami  šie  faktiški  gamybos  ir cirkuliacijos
 kaštai bei įmonės
@@ -259,47 +316,49 @@ prilygintomis
 sąnaudomis, įskaitant komandiruočių išlaidas;
      2)  
 ilgalaikio   turto   (materialaus   ir   nematerialaus)
-nusidėvėjimo
-(amortizacijos)  - Lietuvos  Respublikos Vyriausybės
+nusidėvėjimo 
+(amortizacijos)  - Lietuvos Respublikos Vyriausybės
 nustatyta tvarka;
      3) išlaidos
 darbo apmokėjimui;
      4) įmokos
 socialiniam draudimui;
-     5) privalomojo
-draudimo  įmokos, neįskaitant draudimo  įmokų
-už įmonėje sukauptą
-valstybinį kapitalą;
+     5)   draudimo  
+įmokos,   nustatytos   Lietuvos  Respublikos
+draudimo įstatymo;
      6)  
 mokesčiai,  rinkliavos  bei  kitos  privalomos  įmokos,
-nustatytos 
-Lietuvos   Respublikos   įstatymų   bei   Vyriausybės
-nutarimų, išskyrus 
+nustatytos  
+Lietuvos   Respublikos   įstatymų   bei  Vyriausybės
+nutarimų,  išskyrus
 pridėtinės vertės mokestį, mokamą į biudžetą,
-palūkanas  už  
-valstybinio  kapitalo   naudojimą   bei   baudas,
+palūkanas   už  
+valstybinio   kapitalo   naudojimą  bei  baudas,
 delspinigius ir
 kitas sankcijas;
-     7) palūkanos 
-už paskolas  ir įmokos,  susijusios su paskolų
+     7)  palūkanos 
+už  paskolas ir įmokos, susijusios su paskolų
 garantijų gavimu;
-     8) specialieji
-atidėjimai bankų abejotiniems aktyvams;
-     9) 
-atskaitymai  į miškų auginimo fondą Lietuvos Respublikos
-Vyriausybės
-nustatyta tvarka;
-     10) 
+     8) 
+specialieji  atidėjimai  bankų  abejotiniems aktyvams ir
+draudimo   įmonių  
+(draudikų)   formuojami  techniniai  draudimo
+atidėjimai, 
+išskyrus draudimo įmokų grąžinimo techninį atidėjimą
+bei perdraudimui
+tenkančią draudimo įmokų dalį;
+     9)  
 Ignalinos   atominės  elektrinės  papildomos  išlaidos,
-nustatytos Lietuvos
-Respublikos Vyriausybės nutarimų, nenumatytos
-šiame straipsnyje.
+nustatytos   
+Lietuvos    Respublikos    Vyriausybės    nutarimų,
+nenumatytos šiame
+straipsnyje.
      Nustatant 
-apmokestinamąjį pelną, iš bendrųjų įmonės pajamų
-atimami tik 
-juridinę galią  turinčiais  dokumentais  patvirtinti
-faktiški gamybos  ir
-cirkuliacijos  kaštai bei  įmonės  išlaidos,
+apmokestinamąjį  pelną, iš bendrųjų įmonės pajamų
+atimami  tik 
+juridinę  galią  turinčiais dokumentais patvirtinti
+faktiški  gamybos 
+ir  cirkuliacijos  kaštai bei įmonės išlaidos,
 išvardintos šio
 straipsnio pirmojoje dalyje.
      Materialinių 
@@ -307,84 +366,95 @@ vertybių  įsivežimas  iš  užsienio  turi  būti
 patvirtintas
 muitinės deklaracijomis.
  
-     6 
-straipsnis.   Nustatant  apmokestinamąjį   pelną  iš    4
-straipsnyje
-nustatyta tvarka apskaičiuoto pelno atimamos Lietuvos
-Respublikos  labdaros  
-ir  paramos  įstatymo  numatytų  labdaros
-organizacijų ir
-fondų, invalidų draugijų ir sąjungų bei jų įmonių
-visos  faktiškai  
-padarytos   ir   juridinę   galią   turinčiais
-dokumentais
-patvirtintos  išlaidos, skirtos  labdaros ir  paramos
+ 
+     6  
+straipsnis.   Nustatant   apmokestinamąjį   pelną  iš  4
+straipsnyje  
+nustatyta   tvarka   apskaičiuoto   pelno  atimamos
+Lietuvos  
+Respublikos  labdaros  ir  paramos  įstatymo  numatytų
+labdaros 
+organizacijų ir fondų, invalidų draugijų ir sąjungų bei
+jų  įmonių visos
+faktiškai padarytos ir juridinę galią turinčiais
+dokumentais 
+patvirtintos  išlaidos,  skirtos labdaros ir paramos
 tikslams.
      Nustatant  
 apmokestinamąjį   pelną   Lietuvos   Respublikos
-labdaros ir  paramos
-įstatymo  numatytiems labdaros  davėjams  ar
-rėmėjams,
-nenurodytiems  šio straipsnio  pirmojoje dalyje,  iš  4
-straipsnyje
-nustatyta tvarka apskaičiuoto pelno 2 kartus atimamos
-faktiškai padarytos 
-ir  juridinę  galią  turinčiais  dokumentais
-patvirtintos 
-išlaidos,  skirtos  labdarai  ir  paramai,  bet  ne
-daugiau kaip  40
-procentų  apmokestinamojo pelno.  Lėšos, skirtos
-labdarai ir 
-paramai, viršijančios  40  procentų  apmokestinamojo
-pelno,
-apmokestinamos bendra tvarka.
-     Šiame
-straipsnyje  nustatyta tvarka  netaikoma  labdarai  ar
-paramai, 
-teikiamai   užsienio  valstybių  juridiniams  asmenims,
-išskyrus atvejus, 
-kai  tokia  labdara  ar  parama  teikiama  per
-tarptautines
-labdaros  organizacijas arba  lietuvių bendruomenes,
+labdaros  ir 
+paramos  įstatymo  numatytiems labdaros davėjams ar
+rėmėjams, 
+nenurodytiems  šio  straipsnio  pirmojoje dalyje, iš 4
+straipsnyje  
+nustatyta   tvarka   apskaičiuoto  pelno  2  kartus
+atimamos  
+faktiškai   padarytos  ir  juridinę  galią  turinčiais
+dokumentais 
+patvirtintos  išlaidos, skirtos labdarai ir paramai,
+bet  ne  daugiau  kaip 
+40 procentų apmokestinamojo pelno. Lėšos,
+skirtos   labdarai  
+ir   paramai,   viršijančios   40   procentų
+apmokestinamojo
+pelno, apmokestinamos bendra tvarka.
+     Šiame 
+straipsnyje  nustatyta  tvarka  netaikoma labdarai ar
+paramai,  
+teikiamai  užsienio  valstybių  juridiniams  asmenims,
+išskyrus  atvejus, 
+kai  tokia  labdara  ar  parama  teikiama per
+tarptautines 
+labdaros  organizacijas arba lietuvių bendruomenes,
 esančias užsienyje.
-     Laisvųjų  
-ekonominių  zonų įmonių ir zonų valdymo bendrovių
+     Laisvųjų 
+ekonominių  zonų  įmonių ir zonų valdymo bendrovių
 pelno   dalis,  
 panaudota   pagrindinėms   priemonėms   įsigyti,
 moksliniams 
 tyrimams bei naujoms technologijoms diegti, taip pat
 investicijoms
 zonoje, neapmokestinama.
-     Specialiųjų
-atidėjimų  bankų abejotiniems  aktyvams   normas
-nustato  Lietuvos  
+     Specialiųjų 
+atidėjimų  bankų  abejotiniems  aktyvams normas
+nustato   Lietuvos 
 bankas,  suderinęs  su  Lietuvos  Respublikos
 Vyriausybe.
+     Apskaičiuojant 
+mažųjų  įmonių  apmokestinamąjį  pelną, iš 4
+straipsnyje 
+nustatyta  tvarka  apskaičiuoto pelno atimamos visos
+mokslinių  tyrimų, 
+projektavimo,  konstravimo  darbų  ir  naujos
+technikos diegimo
+išlaidos bei investicijos.
+     Draudimo 
+techninių  atidėjimų sudarymo metodiką bei dydžius
+nustato Valstybinė
+draudimo priežiūros tarnyba.
+ 
  
                      
 III. Mokesčio tarifai
  
-    7 straipsnis.
+     7 straipsnis.
 Mokesčio tarifai:
-    1)  10%   
-apmokestinamojo  pelno,   panaudoto   kapitalinėms
+     1)    10   
+procentų    apmokestinamojo   pelno,   panaudoto
+kapitalinėms
 investicijoms.
-    Kapitalinė  
-investicija   yra  ilgalaikio   turto  (pastatų,
-statinių, mašinų, 
-technologinių įrenginių  ir  kitų  pagrindinių
-priemonių)  ir  
+     Kapitalinė  
+investicija   yra  ilgalaikio  turto  (pastatų,
+statinių,  mašinų, 
+technologinių  įrenginių  ir kitų pagrindinių
+priemonių)   ir 
 nematerialaus  ilgalaikio  turto  (technologinių
-licencijų, 
-patentų,   prekių  ženklų)   įsigijimas  ir  išlaidos
+licencijų,  
+patentų,   prekių  ženklų)  įsigijimas  ir  išlaidos
 nebaigtai statybai;
-    2) 29% kito
-apmokestinamojo pelno.
-    Lietuvos 
-Respublikos  Vyriausybė  prioritetinėms ūkio šakoms
-gali   nustatyti  
-mažesnius   apmokestinamojo   pelno   mokesčio
-tarifus.
+     2) 29 procentai
+kito apmokestinamojo pelno.
+ 
  
                     
 IV. Mokesčio lengvatos
@@ -423,12 +493,89 @@ investuotojas 
 (investuotojai)  įsigijo  ne mažiau kaip 30% zonos
 įmonės  įstatinio 
 (nuosavo) kapitalo ir investavo ne mažiau kaip
-vieno  milijono 
-JAV  dolerių vertės užsienio kilmės kapitalą, ši
+vieno  milijono  JAV 
+dolerių vertės užsienio kilmės kapitalą, ši
 įmonė  5  metus 
 nuo  įmonės  įregistravimo  dienos  nemoka pelno
 mokesčio, o kitus 10
 metų moka 50% mažesnį pelno mokestį.
+     Jeigu   įmonė 
+buvo  įsteigta  (registruota)  arba  užsienio
+kapitalas  buvo  investuotas 
+iki 1993 m. gruodžio 31 d., tai jos
+pelno  dalis 
+(proporcinga  užsienio  investicijos  daliai įmonės
+įstatiniame 
+kapitale),  tenkanti  šiai  užsienio investicijai ir
+nepanaudota  darbo 
+užmokesčiui, taip pat reinvestuota įmonėje, 5
+metus   nuo 
+įplaukų  gavimo  dienos  apmokestinama  70  procentų
+mažesniu  pelno 
+mokesčiu.  Šiam  terminui  pasibaigus,  užsienio
+investicijai 
+tenkanti  pelno  dalis  3  metus  apmokestinama  50
+procentų mažesniu
+pelno mokesčiu.
+     Jei   įmonė  
+buvo   įsteigta  (registruota)  arba  užsienio
+kapitalas  buvo 
+investuotas  nuo 1994 m. sausio 1 d. iki 1995 m.
+rugpjūčio  1 d., tai
+pelno dalis, tenkanti užsienio investicijai,
+6 metus
+apmokestinama 50 procentų mažesniu pelno mokesčiu.
+     Įmonė,   
+kurioje   užsienio   investuotojo   (investuotojų)
+užsienio  kapitalo 
+investicija  yra  pasiekusi  du milijonus JAV
+dolerių,  trejus 
+metus  nemoka  pelno  mokesčio nuo apyskaitinio
+ketvirčio,  kurį 
+pradėtas  gauti  pelnas, pradžios. Kitus trejus
+metus  ši  įmonė 
+moka  50  procentų mažesnį pelno mokestį. Šioje
+dalyje  numatytos 
+mokesčių  lengvatos netaikomos įmonėms, kurios
+verčiasi 
+didmenine,  mažmenine naftos produktų prekyba, jeigu jų
+pajamos  iš 
+prekybos  šiais  produktais  sudaro  daugiau kaip 30
+procentų jų realizacinių
+pajamų.
+     Įmonių,  
+kurių   samprata  apibrėžta  Lietuvos  Respublikos
+mažųjų  įmonių 
+įstatyme,  apmokestinamajam  pelnui  taikomas  50
+procentų  mažesnis 
+pelno  mokesčio  tarifas.  Kai  mažųjų įmonių
+gamybinės  veiklos
+pajamos sudaro ne mažiau kaip 2/3 realizacinių
+pajamų,  pelno 
+mokesčio  tarifas  pirmuosius  2 metus nuo įmonės
+įsteigimo
+(įregistravimo) mažinamas 70 procentų.
+     Kredito 
+unijos  iki 1997 m. gruodžio 31 d. atleidžiamos nuo
+juridinių  asmenų 
+pelno  mokesčio  pirmuosius  2  veiklos metus,
+skaičiuojant  nuo 
+įregistravimo  šio  įstatymo  nustatyta tvarka
+dienos.  Nuo  1998
+m. sausio 1 d. arba jeigu iki to laiko suėjo 2
+metai  nuo  kredito 
+unijos  įregistravimo dienos, kredito unijos
+pelnas 
+apmokestinamas  70  procentų  mažesniu  juridinių  asmenų
+pelno mokesčiu.
+     Organizacijų 
+(įmonių),  kurios pagal jų įsteigimą ir veiklą
+reglamentuojantį 
+įstatymą  ar  Vyriausybės nutarimą yra ne pelno
+siekiančios 
+organizacijos  (įmonės),  pelno mokesčio tarifas - 5
+procentai.
+ 
  
      9  straipsnis. 
 Įmonės,  kurių  realizavimo pajamos už pačių
@@ -448,8 +595,8 @@ dirbančiųjų sumažinimas
 40-50% 75%
                  
 30-40% 50%
-                  20-30%
-25%
+                 
+20-30% 25%
      Kategorijas 
 asmenų,  kuriems  taikomas  riboto   darbingumo
 dirbančiųjų  
@@ -476,7 +623,7 @@ mokėtojas  pagal Lietuvos  Respublikos įstatymus turi
 teisę  į  kelias 
 mokesčio  lengvatas,  teikiama  tik  didžiausia
 lengvata.
-      Lietuvos 
+      Lietuvos 
 Respublikos   įstatymai  gali  numatyti  atvejus,
 kuriems  esant  
 mokesčių  mokėtojai   gali  būti   atleisti  nuo
@@ -496,8 +643,8 @@ Lietuvos  Respublikos  biudžetinės   sandaros
 biudžetą.
      Juridiniai 
 asmenys,  turintys  nesavarankiškų  struktūrinių
-padalinių  kitų  savivaldybių 
-teritorijose,  apskaičiuoto  pelno
+padalinių  kitų 
+savivaldybių  teritorijose,  apskaičiuoto  pelno
 mokesčio dalį, 
 priklausančią sumokėti  į savivaldybės  biudžetą,
 paskirsto   tarp  
@@ -608,13 +755,13 @@ tvarka.
      Lietuvos 
 Respublikos Vyriausybė, atsižvelgusi į priežastis,
 dėl  kurių 
-mokėtojas  laiku  neatsiskaitė  su biudžetu, gali kai
+mokėtojas  laiku  neatsiskaitė  su biudžetu, gali kai
 kuriems  mokėtojams 
 atidėti priskaičiuotų delspinigių mokėjimo į
 biudžetą    
 terminą.    Atidėjimo    laikotarpiu    delspinigiai
-neskaičiuojami.   Jeigu  
-mokėtojas   iki   delspinigių  mokėjimo
+neskaičiuojami.  
+Jeigu   mokėtojas   iki   delspinigių  mokėjimo
 atidėjimo 
 paskutinės  dienos nesumoka priskaičiuotų delspinigių,
 tai  delspinigiai 
@@ -629,8 +776,8 @@ delspinigių atidėjimo termino nustatymo.
 atidėjimo  terminas  taikomas  delspinigių  sumai,
 kuri    buvo  
 priskaičiuota   iki   Vyriausybės   nutarimo   dėl
-priskaičiuotų    delspinigių   
-atidėjimo    termino    nustatymo
+priskaičiuotų   
+delspinigių    atidėjimo    termino    nustatymo
 įsigaliojimo dienos.
  
  
@@ -654,13 +801,13 @@ tarpvalstybinės
 sutarties nuostatos.
  
      19 straipsnis. 
-Kai  Lietuvos  Respublikos  juridinis  asmuo
+Kai  Lietuvos  Respublikos  juridinis  asmuo
 gauna pelną, 
 apmokestinamą užsienyje, ir nėra sutarties dvigubam
 apmokestinimui
 išvengti,  Lietuvos Respublikos  Vyriausybės  arba
 jos pavedimu 
-Finansų ministerijos  nustatyta  tvarka  galima  iš
+Finansų ministerijos  nustatyta  tvarka  galima  iš
 tokio juridinio 
 asmens apskaičiuoto  pelno mokesčio atimti sumą,
 lygią užsienio 
@@ -681,7 +828,6 @@ V. LANDSBERGIS
 Vilnius, 1990 m.
 liepos 31 d.
      Nr. I-442
- 
  
  
  
