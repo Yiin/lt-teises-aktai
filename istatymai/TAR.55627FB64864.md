@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.55627FB64864"
 
 # Lietuvos Respublikos valstybės iždo įstatymas
 
-Suvestinė redakcija nuo 1999-04-14 iki 2003-12-31
+Suvestinė redakcija nuo 2004-01-01 iki 2005-07-20
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 100-2001, i. k. 0941010ISTA000I-712
  
@@ -183,7 +183,10 @@ Valstybės iždo bendrosios sistemos funkcijos yra šios:
 
 
 
-2) valstybės piniginių išteklių kaupimas Valstybės iždo sąskaitoje, lėšų, esančių šioje sąskaitoje, išdavimas, šių procesų apskaita ir vidaus auditas, lėšų išsaugojimas ir racionalus naudojimas Valstybės iždo procedūrų metu;
+2) valstybės piniginių išteklių kaupimas Valstybės iždo sąskaitoje, lėšų, esančių šioje sąskaitoje, išdavimas, šių procesų apskaita ir vidaus kontrolė, lėšų išsaugojimas ir racionalus naudojimas Valstybės iždo procedūrų metu;
+Straipsnio punkto pakeitimai:
+Nr. IX-1767, 2003-10-14, Žin., 2003, Nr. 104-4638 (2003-11-05), i. k. 1031010ISTA0IX-1767
+ 
 
 
 
@@ -226,7 +229,9 @@ Valstybės iždo bendrosios sistemos funkcijos yra šios:
 
 
 
-2. Finansų ministras, vadovaudamasis šio straipsnio 1 dalyje nurodytais įstatymais ir kitais teisės aktais bei Vyriausybės patvirtintais valstybės piniginių išteklių naudojimo prioritetais, nustato valstybės piniginių išteklių valdymo, jų kaupimo Valstybės iždo sąskaitoje, lėšų, esančių šioje sąskaitoje, išdavimo, šių procesų apskaitos ir vidaus audito, valstybės vardu sudaromų finansinių sandorių bei valstybės turtinių įsipareigojimų apskaitos, informacijos ir atskaitomybės apie valstybės piniginių išteklių sukaupimą ir išdavimą rengimo bei teikimo, valstybės piniginių išteklių srautų prognozavimo tvarką.
+2. Finansų ministras, vadovaudamasis šio straipsnio 1 dalyje nurodytais įstatymais ir kitais teisės aktais bei Vyriausybės patvirtintais valstybės piniginių išteklių naudojimo prioritetais, nustato valstybės piniginių išteklių valdymo, jų kaupimo Valstybės iždo sąskaitoje, lėšų, esančių šioje sąskaitoje, išdavimo, šių procesų apskaitos ir vidaus kontrolės, valstybės vardu sudaromų finansinių sandorių bei valstybės turtinių įsipareigojimų apskaitos, informacijos ir atskaitomybės apie valstybės piniginių išteklių sukaupimą ir išdavimą rengimo bei teikimo, valstybės piniginių išteklių srautų prognozavimo tvarką.
+Straipsnio dalies pakeitimai:
+Nr. IX-1767, 2003-10-14, Žin., 2003, Nr. 104-4638 (2003-11-05), i. k. 1031010ISTA0IX-1767
  
 
 
@@ -312,3 +317,8 @@ Lietuvos Respublikos valstybės iždo įstatymo 3 straipsnio pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1110, 1999-03-30, Žin., 1999, Nr. 33-945 (1999-04-14), i. k. 0991010ISTAIII-1110
 Lietuvos Respublikos valstybės iždo įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1767, 2003-10-14, Žin., 2003, Nr. 104-4638 (2003-11-05), i. k. 1031010ISTA0IX-1767
+Lietuvos Respublikos valstybės iždo įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
