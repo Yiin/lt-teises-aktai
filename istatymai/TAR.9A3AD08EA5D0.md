@@ -153,9 +153,9 @@ Profesinį mokymą reglamentuoja Profesinio mokymo įstatymas.
 6 straipsnis.
 Aukštesnysis išsilavinimas
 1. Specialistus
-su aukštesniuoju išsilavinimu rengia aukštesniosios mokyklos (kolegijos,
-konservatorijos ir kt.). Į aukštesniąsias mokyklas stojantys asmenys privalo
-turėti bendrąjį vidurinį arba pagrindinį išsilavinimą.
+su aukštesniuoju išsilavinimu rengia aukštesniosios mokyklos (įskaitant ir
+konservatorijas). Į aukštesniąsias mokyklas stojantys asmenys privalo turėti
+bendrąjį vidurinį arba pagrindinį išsilavinimą.
 2. Studijos
 šiose mokyklose trunka nuo dvejų iki ketverių metų.
 3. Aukštesniosios
@@ -163,8 +163,13 @@ mokyklos gali turėti bendrojo lavinimo ir profesinio mokymo skyrius.
 4. Į
 aukštesniųjų mokyklų studijų programas gali būti įtraukiamos su aukštąja
 mokykla suderintos ir jos akredituotos programos (moduliai), atitinkančios
-bakalauro kvalifikacinio laipsnio reikalavimus. Tęsiant studijas aukštojoje
-mokykloje, šios studijų programos (moduliai) gali būti įskaitomi.
+nuosekliųjų pirmos pakopos studijų ar nenuosekliųjų studijų reikalavimus.
+Tęsiant studijas aukštojoje mokykloje, šios studijų programos (moduliai) gali
+būti įskaitomi.
+Straipsnio pakeitimai:
+Nr. IX-38, 2000 11 21, Žin., 2000, Nr.
+102-3214 (2000 11 29)
+ 
  
 7 straipsnis.
 Aukštasis išsilavinimas
@@ -172,10 +177,12 @@ Aukštasis išsilavinimas
 išsilavinimas įgyjamas aukštosiose mokyklose.
 2. Aukštųjų
 mokyklų steigimo, reorganizavimo, likvidavimo, studijų tvarką bei veiklos,
-valdymo ir finansavimo pagrindus reglamentuoja Mokslo ir studijų įstatymas, 
-kiti įstatymai bei aukštųjų mokyklų statutai.
-3. Nevalstybinės
-aukštosios mokyklos gali veikti tik turėdamos Vyriausybės raštišką leidimą.
+valdymo ir finansavimo pagrindus reglamentuoja Mokslo ir studijų įstatymas,
+Aukštojo mokslo įstatymas, kiti įstatymai bei aukštųjų mokyklų statutai.
+Straipsnio pakeitimai:
+Nr. IX-38, 2000 11 21, Žin., 2000, Nr.
+102-3214 (2000 11 29)
+ 
  
 8 straipsnis.
 Papildomas ugdymas
@@ -184,14 +191,14 @@ papildomai ugdomi įvairiomis formomis organizuotose švietimo institucijose:
 meno, sporto, kalbų, technikos bei kitokio profilio mokyklose, kursuose,
 būreliuose.
  
-9 straipsnis.
-Išsilavinimo cenzas
-Lietuvos Respublikoje
-nustatomas toks išsilavinimo cenzas: pradinis, pagrindinis, vidurinis,
-aukštesnysis, aukštasis.
+9 straipsnis. Išsilavinimo
+cenzas
+Lietuvos
+Respublikoje nustatomas toks išsilavinimo cenzas: pradinis, pagrindinis,
+vidurinis, aukštesnysis, aukštasis.
  
-10
-straipsnis.*** Švietimo įstaigų steigimas, reorganizavimas ir likvidavimas
+10 straipsnis.
+Švietimo įstaigų steigimas, reorganizavimas ir likvidavimas
 1. Valstybines
 švietimo įstaigas steigia, reorganizuoja ir likviduoja Švietimo ir mokslo
 ministerija, taip pat apskričių viršininkai Švietimo ir mokslo ministerijos
@@ -207,12 +214,11 @@ sutikimu - ikimokyklinio, papildomo ugdymo ir suaugusiųjų neformaliojo švieti
 įstaigas.
 4. Švietimo
 įstaigos gali būti steigiamos kelių steigėjų sutarties pagrindu. Tėvų
-pageidavimu valstybės ar savivaldybių švietimo įstaigos (klasės, grupės) gali
-būti sutarties pagrindu steigiamos kartu su valstybės pripažinta tradicine
-religine bendrija šios bendrijos, savivaldybių tarybos ar valstybės
-institucijos iniciatyva. Šių švietimo įstaigų steigimo, reorganizavimo ir
-likvidavimo tvarką, suderintą su valstybės pripažintomis tradicinėmis
-religinėmis bendrijomis, nustato Vyriausybė ar jos įgaliota institucija.
+pageidavimu valstybės ar savivaldybių švietimo įstaigos sutarties pagrindu
+steigiamos kartu su valstybės pripažinta tradicine religine bendrija šios
+bendrijos, savivaldybių tarybos ar valstybės institucijos iniciatyva. Šių
+švietimo įstaigų steigimo, reorganizavimo ir likvidavimo tvarką nustato
+Vyriausybė ar jos įgaliota institucija.
 5. Valstybinės
 švietimo įstaigos gali būti steigiamos kartu su užsienio juridiniais asmenimis,
 gavus Švietimo ir mokslo ministro raštišką sutikimą. 
@@ -234,18 +240,12 @@ tvarka.
 9. Švietimo
 įstaigų steigimo, reorganizavimo ir likvidavimo tvarką reglamentuoja bendrieji
 nuostatai, kuriuos tvirtina Vyriausybė.
- 
-*** Pripažinti, kad Lietuvos
-Respublikos švietimo įstatymo 10 straipsnio 4 dalis ta apimtimi, kuria
-nustatyta, kad valstybinėse ir savivaldybių švietimo įstaigose kartu su
-valstybės pripažintomis tradicinėmis religinėmis bendrijomis gali būti
-steigiamos klasės arba grupės, taip pat 10 straipsnio 4 dalies nuostata
-“suderintą su valstybės pripažintomis tradicinėmis religinėmis bendrijomis”
-prieštarauja Lietuvos Respublikos Konstitucijos 40 straipsnio 1 daliai.
 Straipsnio
 pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2000 06 13, Žin., 2000, Nr. 49-1424 (2000 06 16)
+Nr. IX-38, 2000 11 21, Žin., 2000, Nr.
+102-3214 (2000 11 29)
  
  
 11 straipsnis.
@@ -268,8 +268,8 @@ kuriose gyvena tautinė mažuma arba yra daug jos narių, jiems sudaromos sąlyg
 turėti valstybines, savivaldybių ar nevalstybines ikimokyklines įstaigas,
 bendrojo lavinimo mokyklas ir pamokas gimtąja kalba, jeigu šie asmenys to prašo
 ir jeigu toks prašymas atitinka realų poreikį. Tėvai (ar vaiko globėjai)
-parenka vaikams ikimokyklinę įstaigą ar bendrojo lavinimo mokyklą atitinkama dėstymo
-kalba.
+parenka vaikams ikimokyklinę įstaigą ar bendrojo lavinimo mokyklą atitinkama
+dėstymo kalba.
 3. Negausioms
 tautinėms grupėms gimtajai kalbai išmokti ir tobulinti valstybinėse ir
 savivaldybių bendrojo lavinimo mokyklose gali būti steigiamos klasės bei
@@ -287,14 +287,14 @@ Lietuvos Respublikos teritorijoje sudaromos sąlygos mokytis lietuvių kalba.
 13 straipsnis.
 Sveikatos apsauga
 Švietimo
-įstaigose sudaromos sąlygos auklėtinių bei pedagogų sveikatai išsaugoti ir stiprinti.
-Ministerijos ir kitos Vyriausybės įstaigos, apskričių viršininkai, vietos
-savivaldybių institucijos, organizacijos ir piliečiai, turintys savo žinioje
-švietimo įstaigas, užtikrina teisės aktuose nustatytas auklėtinių mokymosi,
-mitybos, kūno kultūros ir sporto, poilsio, medicinos bei psichologinės pagalbos
-teikimo sąlygas šiose įstaigose, taip pat auklėtinių apsaugą nuo fizinę ir
-psichinę sveikatą žalojančio poveikio (tabako, alkoholio, narkotinių ir
-psichotropinių medžiagų).
+įstaigose sudaromos sąlygos auklėtinių bei pedagogų sveikatai išsaugoti ir
+stiprinti. Ministerijos ir kitos Vyriausybės įstaigos, apskričių viršininkai,
+vietos savivaldybių institucijos, organizacijos ir piliečiai, turintys savo
+žinioje švietimo įstaigas, užtikrina teisės aktuose nustatytas auklėtinių
+mokymosi, mitybos, kūno kultūros ir sporto, poilsio, medicinos bei
+psichologinės pagalbos teikimo sąlygas šiose įstaigose, taip pat auklėtinių
+apsaugą nuo fizinę ir psichinę sveikatą žalojančio poveikio (tabako, alkoholio,
+narkotinių ir psichotropinių medžiagų).
  
 14
 straipsnis. Vaikų ir moksleivių, turinčių fizinių ar psichinių raidos
@@ -338,8 +338,8 @@ Nr. VIII-1678, 2000 05 11, Žin., 2000, Nr.
 16 straipsnis.
 Materialinė parama moksleiviams ir studentams
 Moksleiviams ir
-studentams, kuriems reikia materialinės paramos, valstybė teikia pašalpas bei
-skiria lėšų stipendijoms ir kreditams.
+studentams, kuriems reikia materialinės paramos, valstybė teikia pašalpas bei skiria
+lėšų stipendijoms ir kreditams.
  
 17 straipsnis.
 Pedagogų darbo apmokėjimas 
@@ -364,8 +364,8 @@ Lietuvos švietimo sistemai rengia aukštosios ir aukštesniosios mokyklos pagal
 mokyklose rengtinų pedagogų skaičių užsako Vyriausybė, atsižvelgdama į
 valstybės reikmes, Švietimo ir mokslo ministerijos teikimu.
 3. Valstybinėse
-aukštesniosiose mokyklose rengiamų pedagogų skaičių bei specialybes nustato
-Švietimo ir mokslo ministerija.
+aukštesniosiose mokyklose rengiamų pedagogų skaičių bei specialybes nustato Švietimo
+ir mokslo ministerija.
  
 19 straipsnis.
 Vaikų ir jaunimo organizacijos
@@ -398,8 +398,8 @@ mokiniai gali lankyti ne tikybos, bet etikos ar kitos tradicinės religijos
 pamokas.
  
  
-ANTRASIS
-SKIRSNIS 
+ANTRASIS SKIRSNIS
+
  
 MOKSLEIVIŲ,
 TĖVŲ, PEDAGOGŲ TEISĖS, PAREIGOS IR ATSAKOMYBĖ
@@ -550,8 +550,7 @@ mokymo ir auklėjimo klausimus.
 29 straipsnis.
 Moksleivių, tėvų (ar vaiko globėjų) ir pedagogų atsakomybė
 1. Moksleiviai,
-neatliekantys savo pareigų, atsako švietimo įstaigos nuostatuose nustatyta
-tvarka.
+neatliekantys savo pareigų, atsako švietimo įstaigos nuostatuose nustatyta tvarka.
 2. Tėvai (ar
 vaiko globėjai) ir pedagogai, kurie neatlieka savo pareigų, fiziškai,
 psichiškai ir morališkai žaloja auklėtinius, atsako įstatymų nustatyta tvarka.
@@ -566,18 +565,18 @@ ORGANIZAVIMAS IR VALDYMAS
 30 straipsnis.
 Švietimo proceso organizavimas
 1. Lietuvos
-Respublikos švietimo įstaigos dirba pagal Švietimo ir mokslo ministerijos patvirtintus
-arba jos nustatyta tvarka suderintus mokymo planus ir bendrąsias programas.
-Mokymo turinys ir metodai turi atitikti švietimo įstaigai keliamus uždavinius
-bei visuomenės poreikius. Atskirų mokyklų tipų ir pakopų ugdymo turinys
-derinamas tarpusavyje.
+Respublikos švietimo įstaigos dirba pagal Švietimo ir mokslo ministerijos
+patvirtintus arba jos nustatyta tvarka suderintus mokymo planus ir bendrąsias
+programas. Mokymo turinys ir metodai turi atitikti švietimo įstaigai keliamus
+uždavinius bei visuomenės poreikius. Atskirų mokyklų tipų ir pakopų ugdymo
+turinys derinamas tarpusavyje.
 2. Švietimo
 įstaigose draudžiama propaguoti rasinį, tautinį, religinį, socialinį
 priešiškumą ir išskirtinumą, skleisti militaristines ir kitas idėjas,
 prieštaraujančias visuotinai pripažintiems tarptautinės teisės ir humanizmo
 principams.
-3. Tautinių mažumų
-švietimo įstaigose ugdymo programos gali būti papildomos etnokultūros
+3. Tautinių
+mažumų švietimo įstaigose ugdymo programos gali būti papildomos etnokultūros
 elementais.
 4. Vidurinėse
 bendrojo lavinimo mokyklose, be lietuvių kalbos, taip pat mokoma kitų kalbų,
@@ -588,48 +587,22 @@ Mokslo metų pradžia
 Mokslo metai
 bendrojo lavinimo mokyklose pradedami nuo rugsėjo pirmos dienos.
  
-32
-straipsnis.*** Švietimo įstaigų veiklos nuostatai
+32 straipsnis.
+Švietimo įstaigų veiklos nuostatai
 1. Valstybinės
 ir savivaldybių švietimo įstaigos savo darbe vadovaujasi jų savivaldos
 institucijų aprobuotais ir steigėjo patvirtintais įstaigos veiklos nuostatais,
 kurie turi neprieštarauti šiam ir kitiems įstatymams bei atitinkamo tipo
 švietimo įstaigų bendriesiems veiklos nuostatams. 
-2. Valstybinių
-ar savivaldybių švietimo įstaigų, steigiamų kartu su valstybės pripažintomis
-tradicinėmis religinėmis bendrijomis, veiklos nuostatus, kurie turi
-neprieštarauti šiam ir kitiems įstatymams, tvirtina abu steigėjai. Šių švietimo
-įstaigų nuostatuose numatoma, kad:
-1) švietimo
-įstaigos vadovus religinės bendrijos teikimu skiria ir atleidžia atitinkamos
-valstybės ar savivaldybių institucijos; 
-2) pasaulėžiūros
-ugdymo reikalavimus ir reikalavimus su ugdymu susijusiam švietimo įstaigos
-personalui nustato religinė bendrija; 
-3) vadovų ir
-pedagogų atestaciją organizuoja abu steigėjai (pagal savo kompetenciją).
-3. Nevalstybinių
+2. Nevalstybinių
 švietimo įstaigų veiklos nuostatai derinami Švietimo ir mokslo ministerijos
 nustatyta tvarka.
- 
-*** Pripažinti, kad Lietuvos
-Respublikos švietimo įstatymo 32 straipsnio 2 dalies 1 punkto nuostata, kurioje
-įtvirtinta, kad skiriant ir atleidžiant valstybės ir savivaldybių švietimo
-įstaigų vadovus yra reikalingas tradicinės religinės bendrijos teikimas, ir 32
-straipsnio 2 dalies 2 ir 3 punktai prieštarauja Lietuvos Respublikos
-Konstitucijos 25 straipsnio 1 daliai, 26 straipsnio 1 bei 2 dalims ir 40
-straipsnio 1 daliai.
-Pripažinti, kad Lietuvos Respublikos
-švietimo įstatymo 32 straipsnio 2 dalies 2 punktas prieštarauja Lietuvos
-Respublikos Konstitucijos 25 straipsnio 1 daliai, 26 straipsnio 1 ir 2 dalims,
-40 straipsnio 1 daliai ir 42 straipsnio 2 daliai.
-Pripažinti, kad Lietuvos Respublikos
-švietimo įstatymo 32 straipsnio 2 dalis prieštarauja Lietuvos Respublikos
-Konstitucijos 40 straipsnio 1 daliai.
 Straipsnio
 pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2000 06 13, Žin., 2000, Nr. 49-1424 (2000 06 16)
+Nr. IX-38, 2000 11 21, Žin., 2000, Nr.
+102-3214 (2000 11 29)
  
  
 33 straipsnis.
@@ -644,13 +617,13 @@ jeigu šių įstaigų suteikiamas išsilavinimas atitinka valstybinį standartą
 Mokyklų baigimo dokumentai (brandos atestatai, diplomai ir kt.) išduodami
 Švietimo ir mokslo ministerijos nustatyta tvarka.
  
-34
-straipsnis.*** Švietimo įstaigų veiklos priežiūra
+34 straipsnis.
+Švietimo įstaigų veiklos priežiūra
 1. Švietimo
 įstaigų veiklą prižiūri valstybė. 
 2. Švietimo
-įstaigų veiklą organizuoja ir prižiūri jų steigėjai Bendrųjų švietimo įstaigų
-priežiūros nuostatų nustatyta tvarka.
+įstaigų veikla organizuojama ir prižiūrima šio įstatymo ir Švietimo ir mokslo
+ministerijos nustatyta tvarka.
 3. Bendrosios
 švietimo politikos vykdymą prižiūri Švietimo ir mokslo ministerija bei
 apskričių viršininkai pagal Švietimo ir mokslo ministerijos patvirtintus
@@ -672,17 +645,12 @@ pedagogo darbą turi teisę Valstybinės švietimo inspekcijos, Bendruosiuose
 švietimo įstaigų priežiūros, Pedagogų ir vadovų atestacijos bei švietimo
 įstaigos veiklos nuostatuose nurodyti asmenys. Kiti asmenys gali stebėti
 pedagogo darbą, tik gavę jo sutikimą.
- 
-*** Pripažinti, kad Lietuvos
-Respublikos švietimo įstatymo 34 straipsnio 2 dalis ta apimtimi, kuria
-įtvirtinta valstybės pripažintų tradicinių religinių bendrijų - švietimo
-įstaigų steigėjų teisė prižiūrėti ne tik tikybos mokymą valstybinėse ir savivaldybių
-mokymo ir auklėjimo įstaigose, bet ir visą šių įstaigų veiklą, prieštarauja
-Lietuvos Respublikos Konstitucijos 40 straipsnio 1 daliai.
 Straipsnio
 pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2000 06 13, Žin., 2000, Nr. 49-1424 (2000 06 16)
+Nr. IX-38, 2000 11 21, Žin., 2000, Nr.
+102-3214 (2000 11 29)
  
  
 35 straipsnis.
@@ -781,7 +749,8 @@ atestaciją.
  
 37 straipsnis.
 Apskrities viršininko kompetencija švietimo srityje
-Apskrities viršininkas:
+Apskrities
+viršininkas:
 1) Švietimo ir
 mokslo ministerijos raštišku sutikimu steigia, reorganizuoja ir likviduoja
 pavaldžias švietimo įstaigas. Skiria ir atleidžia jų vadovus; 
@@ -791,9 +760,9 @@ ugdymo ir neformaliojo suaugusiųjų švietimo įstaigų steigimą, reorganizavi
 likvidavimą; 
 3) Švietimo ir
 mokslo ministerijos raštišku sutikimu steigia, reorganizuoja ir likviduoja
-apskrities viršininko administracijos švietimo padalinius. Viešo konkurso tvarka,
-kurią tvirtina Vyriausybė Švietimo ir mokslo ministerijos teikimu, skiria
-apskrities administracijos švietimo padalinių vadovus; 
+apskrities viršininko administracijos švietimo padalinius. Viešo konkurso
+tvarka, kurią tvirtina Vyriausybė Švietimo ir mokslo ministerijos teikimu,
+skiria apskrities administracijos švietimo padalinių vadovus; 
 4) užtikrina
 pavaldžių švietimo įstaigų funkcionavimą ir išlaikymą;
 5) organizuoja
@@ -858,14 +827,15 @@ teisių apsauga;
 kaimo bendrojo lavinimo mokyklų moksleivių, gyvenančių toliau nuo mokyklos,
 nemokamą pavėžėjimą į mokyklą ir atgal;
 10) sudaro
-sąlygas pavaldžių švietimo įstaigų vadovams ir pedagogams tobulinti kvalifikaciją,
-Švietimo ir mokslo ministerijos nustatyta tvarka organizuoja jų atestavimą;
+sąlygas pavaldžių švietimo įstaigų vadovams ir pedagogams tobulinti
+kvalifikaciją, Švietimo ir mokslo ministerijos nustatyta tvarka organizuoja jų
+atestavimą;
 11) Švietimo ir
 mokslo ministerijos nustatyta tvarka teikia jai, apskrities viršininkui ir
 visuomenei informaciją apie švietimo būklę ir problemas.
  
-39 straipsnis. Lietuvos
-švietimo taryba
+39 straipsnis.
+Lietuvos švietimo taryba
 1. Lietuvos
 švietimo taryba yra institucija, atliekanti mokslinę ekspertizę bei
 konsultuojanti strateginiais Lietuvos Respublikos švietimo plėtros klausimais. 
@@ -920,18 +890,18 @@ rugsėjo 1 d.:
 suteikiančios valstybinio standarto bendrąjį išsilavinimą, taip pat valstybės
 ir savivaldybių švietimo įstaigos, įsteigtos kartu su valstybės pripažinta
 tradicine religine bendrija, finansuojamos ir išlaikomos iš valstybės ir
-savivaldybių biudžetų. Šios įstaigos gali gauti lėšų ir kitais įstatymų
-numatytais būdais.
+savivaldybių biudžetų. Šios įstaigos gali gauti lėšų ir kitais įstatymų numatytais
+būdais.
 2. Užsienio
 kapitalo dalis bendrose su užsieniu švietimo institucijose nustatoma Švietimo
 ir mokslo ministerijos išduodamame leidime tokiai institucijai steigti.
 3. Nevalstybines
 švietimo įstaigas, išskyrus tradicinių religinių bendrijų švietimo įstaigas,
-suteikiančias valstybinio standarto bendrąjį išsilavinimą, išlaiko steigėjai. Nevalstybinėms
-švietimo įstaigoms valstybinio standarto bendrąjį išsilavinimą suteikiančioms
-programoms finansuoti Vyriausybės ar jos įgaliotos institucijos nustatyta
-tvarka skiriama biudžeto lėšų tiek pat, kiek ir atitinkamo tipo (pakopos)
-valstybės ar savivaldybių švietimo įstaigoms. Lėšų dydis nustatomas
+suteikiančias valstybinio standarto bendrąjį išsilavinimą, išlaiko steigėjai.
+Nevalstybinėms švietimo įstaigoms valstybinio standarto bendrąjį išsilavinimą
+suteikiančioms programoms finansuoti Vyriausybės ar jos įgaliotos institucijos
+nustatyta tvarka skiriama biudžeto lėšų tiek pat, kiek ir atitinkamo tipo
+(pakopos) valstybės ar savivaldybių švietimo įstaigoms. Lėšų dydis nustatomas
 atsižvelgiant į išlaidas, numatytas vienam vaikui, moksleiviui atitinkamo tipo
 (pakopos) valstybinėse ar savivaldybių švietimo įstaigose.]
 Straipsnio
@@ -991,7 +961,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                     VALDAS
 ADAMKUS
  
-___________
+__________
  
 Pakeitimai:
  
@@ -999,7 +969,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Nutarimas 
 Nr.
-I-1626, 91.07.30 
+I-1626,
+91.07.30 
 DĖL
 ŠVIETIMO ĮSTATYMO 17 STRAIPSNIO REDAKCIJOS
  
@@ -1085,12 +1056,19 @@ Nr. VIII-2039, 2000 10 12, Žin., 2000, Nr.
 ŠVIETIMO ĮSTATYMO 41 STRAIPSNIO PAKEITIMO IR 42
 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-38, 2000 11 21, Žin., 2000, Nr.
+102-3214 (2000 11 29)
+ŠVIETIMO ĮSTATYMO 6, 7, 10, 32, 34 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
  
-Konstitucinio
-Teismo nutarimai:
+KONSTITUCINIO
+TEISMO NUTARIMAI:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2000 06 13, Žin., 2000, Nr. 49-1424 (2000 06 16)
@@ -1103,5 +1081,5 @@ ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000 11 21)
+Redagavo: Aušrinė Trapinskienė (2000 11 30)
                   autrap@lrs.lt
