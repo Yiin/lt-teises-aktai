@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5B55C0654B4A"
 
 # Lietuvos Respublikos pašarų įstatymas
 
+Suvestinė redakcija nuo 2000-07-26 iki 2004-04-29
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 34-952, i. k. 1001010ISTAIII-1610
+ 
 LIETUVOS RESPUBLIKOS PAŠARŲ ĮSTATYMAS
  
 2000 m. balandžio 6 d. Nr. VIII-1610
@@ -187,7 +191,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-23. Veterinarijos sertifikatas – Valstybinės veterinarijos tarnybos išduodamas oficialus dokumentas, liudijantis apie gyvūnų užkrečiamų ligų paplitimą (ar nebuvimą) pašarus eksportuojančioje šalyje ar atitinkamoje jos teritorijoje. 
+23. Veterinarijos sertifikatas – Valstybinės maisto ir veterinarijos tarnybos išduodamas oficialus dokumentas, liudijantis apie gyvūnų užkrečiamųjų ligų paplitimą (ar nebuvimą) pašarus eksportuojančioje šalyje ar atitinkamoje jos teritorijoje.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1832, 2000-07-11, Žin., 2000, Nr. 61-1834 (2000-07-26), i. k. 1001010ISTAIII-1832
+ 
 
 
 
@@ -255,10 +262,10 @@ PAŠARŲ GAMYBOS, LAIKYMO, GABENIMO, NAUDOJIMO, PREKYBOS JAIS TVARKA
 
 
 
-4. Žemės ūkio ministerija kartu su Valstybine veterinarijos tarnyba nustato:
+4. Žemės ūkio ministerija kartu su Valstybine maisto ir veterinarijos tarnyba nustato:
 
 
-1) privalomuosius pašarų saugos ir ženklinimo reikalavimus; 
+1) privalomuosius pašarų saugos ir ženklinimo reikalavimus;
 
 
 
@@ -284,9 +291,11 @@ PAŠARŲ GAMYBOS, LAIKYMO, GABENIMO, NAUDOJIMO, PREKYBOS JAIS TVARKA
 
 
 6) pašarų priedų gamybos, vartojimo, prekybos jais tvarką.
+
+
+Straipsnio dalies pakeitimai:
+Nr. VIII-1832, 2000-07-11, Žin., 2000, Nr. 61-1834 (2000-07-26), i. k. 1001010ISTAIII-1832
  
-
-
 
 
 
@@ -356,7 +365,10 @@ PAŠARŲ EKSPORTAS IR IMPORTAS
 
 
 
-2. Valstybinė veterinarijos tarnyba turi teisę uždrausti įvežti į Lietuvos Respubliką pašarus, jei jie neatitinka pašarams taikomų privalomųjų reikalavimų. 
+2. Valstybinė maisto ir veterinarijos tarnyba turi teisę uždrausti įvežti į Lietuvos Respubliką pašarus, jei jie neatitinka pašarams taikomų privalomųjų reikalavimų.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1832, 2000-07-11, Žin., 2000, Nr. 61-1834 (2000-07-26), i. k. 1001010ISTAIII-1832
+ 
 
 
 
@@ -502,3 +514,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1832, 2000-07-11, Žin., 2000, Nr. 61-1834 (2000-07-26), i. k. 1001010ISTAIII-1832
+Lietuvos Respublikos pašarų įstatymo 3, 4, 8 straipsnių pakeitimo įstatymas
