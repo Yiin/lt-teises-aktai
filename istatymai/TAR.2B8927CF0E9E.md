@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B8927CF0E9E"
 
 # Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymas
 
-Suvestinė redakcija nuo 2001-04-11 iki 2003-02-18
+Įstatymas netenka galios 2017-07-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2603, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23709
+Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
+ 
+Suvestinė redakcija nuo 2003-02-19 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 20-521, i. k. 0961010ISTA00I-1214
  
@@ -39,11 +44,12 @@ Straipsnio dalies pakeitimai:
 Nr. VIII-1846, 2000-07-13, Žin., 2000, Nr. 64-1921 (2000-07-31), i. k. 1001010ISTAIII-1846
  
 
-2. Įmonei iškėlus restruktūrizavimo ar bankroto bylą arba pradėjus bankroto procedūrą ne teismo tvarka, delspinigių skaičiavimas nutraukiamas nuo restruktūrizavimo ar bankroto bylos iškėlimo (kreditorių sprendimo bankroto procedūrą vykdyti ne teismo tvarka) dienos. 
+2. Įmonei iškėlus bankroto bylą arba pradėjus bankroto procedūrą ne teismo tvarka, delspinigių skaičiavimas nutraukiamas nuo bankroto bylos iškėlimo (kreditorių sprendimo bankroto procedūrą vykdyti ne teismo tvarka) dienos. 
 Papildyta straipsnio dalimi:
 Nr. VIII-284, 1997-06-24, Žin., 1997, Nr. 66-1591 (1997-07-11), i. k. 0971010ISTAVIII-284
 Straipsnio dalies pakeitimai:
 Nr. IX-221, 2001-03-20, Žin., 2001, Nr. 31-1015 (2001-04-11), i. k. 1011010ISTA00IX-221
+Nr. IX-1331, 2003-01-28, Žin., 2003, Nr. 17-707 (2003-02-19), i. k. 1031010ISTA0IX-1331
  
 
 3. Delspinigiai neįskaitomi, kai yra apskaičiuojamas darbuotojo vidutinis darbo užmokestis, jie neapmokestinami fizinių asmenų pajamų mokesčiu, nuo jų nemokamos privalomojo valstybinio socialinio draudimo įmokos.
@@ -91,5 +97,10 @@ Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo sa
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-221, 2001-03-20, Žin., 2001, Nr. 31-1015 (2001-04-11), i. k. 1011010ISTA00IX-221
+Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1331, 2003-01-28, Žin., 2003, Nr. 17-707 (2003-02-19), i. k. 1031010ISTA0IX-1331
 Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymo 2 straipsnio pakeitimo įstatymas
 
