@@ -40,11 +40,22 @@ RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES
  BENDROVIŲ IR JŲ
 VEIKLOS SRIČIŲ"  PAKEITIMO ĮSTATYMAS
  
-***Pabaiga*** 
+ 3.
+ Parlamentas,
+Įstatymas
+ Nr. I-1537,
+96.09.24, Žin., 1996, Nr.100-2259 (96.10.16)
+ LIETUVOS
+RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES 
+ BENDROVIŲ IR JŲ
+VEIKLOS SRIČIŲ"   PAKEITIMO ĮSTATYMAS
+ 
+ ***Pabaiga*** 
  
                     
 LIETUVOS RESPUBLIKOS
-                            ĮSTATYMAS
+                           
+ĮSTATYMAS
  
                 
 1995 m. vasario 15 d. Nr.I-794
@@ -79,8 +90,8 @@ turi reorganizuotis
 į specialios paskirties akcines ir uždarąsias
 akcines bendroves. 
 Visos valstybei  priklausančios akcijos šiose
-bendrovėse turi
-balsavimo teisę.
+bendrovėse turi balsavimo
+teisę.
      Įmonės,  
 įrašytos    į  šio    įstatymo   2   priedėlį   ir
 reorganizuotos   į  
@@ -111,8 +122,8 @@ nepadengtiems
 bendrovės finansinėje ataskaitomybėje apskaitytiems
 bendrovės  
 nuostoliams. Didinant įstatinį kapitalą  iš papildomų
-įnašų,  naujų 
-akcijų  emisijos  kainą  ir turtinių  įnašų vertę 
+įnašų,  naujų  akcijų 
+emisijos  kainą  ir turtinių  įnašų vertę 
 tvirtina Vyriausybė.
 
      Uždrausti
@@ -134,17 +145,17 @@ Nr. I-1409,
  
 Straipsnio
 pakeitimai:
-Nr. I-1409, 96.06.27,
-Žin., 1996, Nr.62-1468 (96.07.02)
+Nr. I-1409,
+96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
  
-     3  
-straipsnis.    Valstybinių   įmonių   įstatai   iki   jų
+     3   straipsnis.   
+Valstybinių   įmonių   įstatai   iki   jų
 perregistravimo  
 pagal   Lietuvos   Respublikos   valstybės   ir
 savivaldybės įmonių
 įstatymą, taip pat valstybinių ir valstybinių
-akcinių  įmonių  įstatai 
-iki  šių  įmonių  reorganizavimo  pagal
+akcinių  įmonių 
+įstatai  iki  šių  įmonių  reorganizavimo  pagal
 Akcinių bendrovių 
 įstatymą galioja tiek, kiek jie neprieštarauja
 Valstybės ir
@@ -153,8 +164,8 @@ savivaldybės įmonių įstatymui.
 bendrovių  ir uždarųjų akcinių bendrovių įstatai iki
 jų perregistravimo
 pagal Akcinių bendrovių įstatymą galioja tiek,
-kiek jie
-neprieštarauja Akcinių bendrovių įstatymui.
+kiek jie neprieštarauja
+Akcinių bendrovių įstatymui.
  
 Straipsnio žymėjimas
 pakeistas:
@@ -167,8 +178,8 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                      
-ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS
+PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
  
  
                                        
@@ -177,8 +188,8 @@ Lietuvos Respublikos
 1995 m. vasario 15 d.
                                        
 įstatymo Nr.I-794
-                    
-                   1 priedėlis
+                                       
+1 priedėlis
  
  
                
@@ -189,8 +200,8 @@ specialios paskirties bendrovių,
 s ą r a š a s
  
 _________________________________________________________________
-Veiklos kodas            Veiklos
-pavadinimas
+Veiklos
+kodas            Veiklos pavadinimas
 _________________________________________________________________
  
                           
@@ -255,8 +266,8 @@ medžiagų, naudojamų vaistų pramonėje, gamyba
 vaistinės paskirties stipriai veikiančių ir
           nuodingųjų
 medžiagų gamyba
-242901   
-Sprogstamųjų medžiagų gamyba
+242901    Sprogstamųjų
+medžiagų gamyba
  
        Kitų
 nemetalinių mineralinių produktų gamyba
@@ -270,8 +281,8 @@ gamyba
  
       Medicinos
 prietaisų, tikslių ir optinių instrumentų,
-             
-rankinių ir kitokių laikrodžių gamyba
+              rankinių
+ir kitokių laikrodžių gamyba
 331101   
 Ortopedinių įtaisų gamyba
 331102    Protezų
@@ -292,10 +303,10 @@ neįtrauktų į kitas kategorijas, gamyba
 369910    Vaizdinių
 mokymo priemonių gamyba
  
-                 Elektros
-energijos, dujų, garo
-                  
-ir karšto vandens tiekimas
+                
+Elektros energijos, dujų, garo
+                   ir
+karšto vandens tiekimas
 401001    Elektros
 energijos gamyba
 401002    Elektros
@@ -371,9 +382,9 @@ prekyba farmacijos prekėmis
 prekyba medicinos ir ortopedinėmis prekėmis
 523105    Mažmeninė
 prekyba ne vaistinės paskirties stipriai
-          veikiančiomis
-ir nuodingosiomis medžiagomis
-523903    Mažmeninė
+         
+veikiančiomis ir nuodingosiomis medžiagomis
+523903    Mažmeninė
 prekyba knygomis
 523913    Mažmeninė
 prekyba trąšomis
@@ -410,8 +421,8 @@ priekrantinės laivybos transportas
 612000    Upių
 transportas
  
-                        
-Oro transportas
+                       
+ Oro transportas
 621000    Oro
 transportas, kursuojantis pagal tvarkaraštį
  
@@ -535,10 +546,10 @@ Nr. I-1091,
 Lietuvos Respublikos
                                        
 1995 m. vasario 15 d.
-                            
-           įstatymo Nr.I-794
                                        
-2 priedėlis
+įstatymo Nr.I-794
+                        
+               2 priedėlis
  
  
            
@@ -548,15 +559,10 @@ specialios paskirties bendrovės,
                          
 s ą r a š a s
 _________________________________________________________________
-Įmonės
-kodas                             Pavadinimas
+Įmonės kodas                             Pavadinimas
 _________________________________________________________________
 2055155       
 Lietuvos valstybinė energetikos sistema
-5476065        Biržų
-valstybinė naftos transporto įmonė
-              
-"Naftotiekis"
 6313154       
 Gargždų valstybinė naftos įmonė
 2005952       
@@ -565,14 +571,14 @@ Valstybinė įmonė "Lietuvos dujos"
 Valstybinė įmonė "Lietuvos geležinkeliai"
 4035584       
 Lietuvos jūrų laivininkystė
-2005728        Valstybinė
-įmonė "Vilniaus degtinė"
+2005728       
+Valstybinė įmonė "Vilniaus degtinė"
 3208278       
 Valstybinė bendrovė "Stumbras"
 5411165       
 Valstybinė įmonė "Anykščių vynas"
-4951989       
-Valstybinė firma "Alita"
+4951989        Valstybinė
+firma "Alita"
 6111045       
 Valstybinė Kėdainių chemijos gamykla
 6855597       
@@ -609,12 +615,12 @@ tiekimo įmonė
 Anykščių valstybinė vandens tiekimo įmonė
 5414164       
 Kavarsko valstybinė vandens perkėlimo įmonė
-5546167       
-Ignalinos valstybinė vandens tiekimo įmonė
+5546167        Ignalinos
+valstybinė vandens tiekimo įmonė
 5656435       
 Jonavos valstybinė vandens tiekimo įmonė
-5753195        Joniškio
-valstybinė vandens tiekimo įmonė
+5753195       
+Joniškio valstybinė vandens tiekimo įmonė
 5883472       
 Kaišiadorių valstybinė vandens tiekimo įmonė
 5884794       
@@ -622,8 +628,8 @@ Kaišiadorių valstybinė vandens tiekimo įmonė
                įmonė
 6118642       
 Kėdainių valstybinė vandens tiekimo įmonė
-6243382        Kelmės
-valstybinė vandens tiekimo įmonė
+6243382       
+Kelmės valstybinė vandens tiekimo įmonė
 6399442       
 Kretingos valstybinė vandens tiekimo įmonė
 6517137       
@@ -636,8 +642,8 @@ Molėtų valstybinė vandens tiekimo įmonė
 Pakruojo valstybinė vandens tiekimo įmonė
 6984548       
 Plungės valstybinė vandens tiekimo įmonė
-7063978       
-Prienų valstybinė vandens tiekimo ir komunalinių
+7063978        Prienų
+valstybinė vandens tiekimo ir komunalinių
               
 paslaugų įmonė
 7126517       
@@ -666,8 +672,9 @@ Varėnos valstybinė vandens tiekimo įmonė
 4703879       
 Panevėžio stiklo fabrikas
  
-Priedėlio
-pakeitimai:
+Priedėlio pakeitimai:
 Nr. I-1091,
 95.11.09, Žin., 1995, Nr.94-2088 (95.11.17)
+Nr. I-1537,
+96.09.24, Žin., 1996, Nr.100-2259 (96.10.16)
 
