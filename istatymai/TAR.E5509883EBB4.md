@@ -384,11 +384,17 @@ lošėjus aptarnaujančio personalo ir Priežiūros komisijos darbuotojais negal
 būti asmenys, dėl kurių pačių ar jų artimųjų giminaičių bei šeimos narių yra
 atliekamas operatyvinis tyrimas dėl neteisėto lošimo namų (kazino) laikymo ar
 lošimų organizavimo arba priklausymo nusikalstamam susivienijimui, bei asmenys,
-kurie buvo teisti už sunkius tyčinius nusikaltimus ar nusikaltimus nuosavybei,
-ūkininkavimo tvarkai ar finansams.
+turintys neišnykusį arba nepanaikintą teistumą už sunkius ir labai sunkius tyčinius
+nusikaltimus ar nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams
+interesams, ekonomikai ir verslo tvarkai ar finansų sistemai.
 2.
 Už lošėjus aptarnaujančio personalo kompetenciją ir profesionalumą atsako
 lošimų organizatorius.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1418,
+2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24), įsigalioja nuo 2003-05-01
  
 12
 straipsnis. Lošimų organizavimo vieta
@@ -468,8 +474,8 @@ totalizatorių, lažybas neturi teisės verstis kita komercine ūkine veikla,
 išskyrus patalpų, kuriose bendrovė organizuoja lošimus, nuomą šio įstatymo 10
 straipsnio 6 dalyje nurodytai ūkinei komercinei veiklai.
 Straipsnio pakeitimai:
-Nr. IX-995,
-2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
+Nr. IX-995, 2002-06-27,
+Žin., 2002, Nr. 72-3010 (2002-07-17)
  
 15
 straipsnis. Reikalavimai automatų, bingo salonų ir lošimo namų (kazino) 
@@ -485,8 +491,8 @@ procesą;
 lošimui (jeigu organizuojami lošimai lošimo namuose (kazino) – skaitmeninio
 vaizdo įrašymo sistema turi būti įrengta virš kiekvieno stalo). Lošimų
 organizatorius privalo įrašus saugoti 180 dienų ir juos pateikti tik Priežiūros
-komisijai, pretenzijas raštu pareiškusiems lošimo dalyviams ir kvotėjams,
-tardytojams, prokurorams arba teismui įstatymų nustatyta tvarka;
+komisijai, pretenzijas raštu pareiškusiems lošimo dalyviams ir ikiteisminio
+tyrimo pareigūnams, prokurorams arba teismui įstatymų nustatyta tvarka;
 3)
 atskira kasa, kurioje pinigai būtų keičiami į žetonus, o žetonai – į pinigus;
 4)
@@ -502,6 +508,9 @@ reikalavimus.
 Straipsnio pakeitimai:
 Nr. IX-995,
 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
+Nr.
+IX-1418,
+2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24), įsigalioja nuo 2003-05-01
  
 16
 straipsnis. Reikalavimai lošimų įrenginiams 
@@ -517,8 +526,8 @@ dalies redakcija nuo 2003 m. kovo 1 d.:
 Lietuvos Respublikoje leidžiama pradėti eksploatuoti tik naujus ir nenaudotus
 lošimo įrenginius, jeigu jie yra pagaminti atitinkamą licenciją (sertifikatą)
 turinčio gamintojo ir jeigu jų tipai yra Vyriausybės įgaliotos priežiūrą
-atliekančios institucijos patvirtinti ir įrašyti į Lietuvos lošimo įrenginių registrą
-Vyriausybės nustatyta tvarka.]
+atliekančios institucijos patvirtinti ir įrašyti į Lietuvos lošimo įrenginių
+registrą Vyriausybės nustatyta tvarka.]
  
 2. A
 kategorijos automatų laimėjimų fondą turi sudaryti ne mažiau kaip 90 procentų,
@@ -642,8 +651,8 @@ deklaravimą.
 4.
 Lošimų organizatorius dokumentus ir informaciją apie šio straipsnio 1 ir 2
 dalyse nurodytus asmenis privalo saugoti 10 metų ir privalo pateikti tik
-Priežiūros komisijai ir kvotėjams, tardytojams, prokurorams arba teismui
-įstatymų nustatyta tvarka.
+Priežiūros komisijai ir ikiteisminio tyrimo pareigūnams, prokurorams arba
+teismui įstatymų nustatyta tvarka.
 5.
 Lošimų organizatorius privalo Vyriausybės nustatyta tvarka pranešti teritorinei
 valstybinei mokesčių inspekcijai apie laimėjimus ir pralaimėjimus, jei
@@ -655,6 +664,9 @@ Straipsnio
 pakeitimai:
 Nr. IX-412,
 2001-06-28, Žin., 2001, Nr. 56-1984 (2001-06-30), įsigalioja nuo 2001-07-01
+Nr.
+IX-1418,
+2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24), įsigalioja nuo 2003-05-01
  
  
 TREČIASIS
@@ -734,9 +746,9 @@ lošimus ir leidimą atidaryti automatų ar bingo saloną arba lošimo namus
 Finansinių nusikaltimų tyrimo tarnybai prie Vidaus reikalų ministerijos,
 teritorinėms valstybinėms mokesčių inspekcijoms ir teritorinėms policijos
 įstaigoms, kurių teritorijoje bus organizuojami lošimai, bendrovės, kuriai
-išduota licencija (leidimas), pavadinimą, kodą, buveinės adresą, telefono ir fakso
-numerius, licencijos rūšį, numerį, leidimo numerį, lošimų organizavimo adresą,
-organizuojamų lošimų rūšis, lošimo įrenginių skaičių.
+išduota licencija (leidimas), pavadinimą, kodą, buveinės adresą, telefono ir
+fakso numerius, licencijos rūšį, numerį, leidimo numerį, lošimų organizavimo
+adresą, organizuojamų lošimų rūšis, lošimo įrenginių skaičių.
 9.
 Leidimas atidaryti automatų ar bingo saloną arba lošimo namus (kazino)
 išduodamas sumokėjus nustatyto dydžio valstybės rinkliavą ir galioja
@@ -816,11 +828,11 @@ prie Vidaus reikalų ministerijos, teritorinėms valstybinėms mokesčių
 inspekcijoms ir teritorinėms policijos įstaigoms, kurių teritorijoje
 organizuojami lošimai, apie lošimo įrenginių skaičiaus pasikeitimą ir nurodo
 bendrovės, kurios leidimas papildytas arba pakeistas, pavadinimą, kodą,
-buveinės adresą, telefono ir fakso numerius, leidimo numerį, lošimų organizavimo
-adresą, organizuojamų lošimų rūšis, lošimo įrenginių skaičių.
+buveinės adresą, telefono ir fakso numerius, leidimo numerį, lošimų
+organizavimo adresą, organizuojamų lošimų rūšis, lošimo įrenginių skaičių.
 Straipsnio pakeitimai:
-Nr. IX-1193,
-2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
+Nr. IX-1193, 2002-11-12,
+Žin., 2002, Nr. 116-5191 (2002-12-06)
  
 24 straipsnis. Leidimo atidaryti automatų ar
 bingo saloną arba lošimo namus 
@@ -870,12 +882,13 @@ IR KONTROLĖ
 26
 straipsnis. Priežiūros komisija
 1. Lošimus organizuojančių subjektų veiklą prižiūri ir
-kontroliuoja Priežiūros komisija. Priežiūros komisiją sudaro 6 asmenys, iš kurių
-po 2 asmenis skiria Respublikos Prezidentas, Seimo Primininkas ir Ministras
-Pirmininkas. Priežiūros komisijos pirmininką išsirenka komisijos nariai iš savo
-tarpo. Priežiūros komisijos funkcijoms atlikti sudaroma etatinių darbuotojų
-administracija. Jos struktūrą ir etatus, neviršijant Vyriausybės nustatyto
-metinio darbo apmokėjimo fondo, tvirtina Priežiūros komisijos pirmininkas.
+kontroliuoja Priežiūros komisija. Priežiūros komisiją sudaro 6 asmenys, iš
+kurių po 2 asmenis skiria Respublikos Prezidentas, Seimo Primininkas ir
+Ministras Pirmininkas. Priežiūros komisijos pirmininką išsirenka komisijos
+nariai iš savo tarpo. Priežiūros komisijos funkcijoms atlikti sudaroma etatinių
+darbuotojų administracija. Jos struktūrą ir etatus, neviršijant Vyriausybės
+nustatyto metinio darbo apmokėjimo fondo, tvirtina Priežiūros komisijos
+pirmininkas.
 2.
 Priežiūros komisijos nuostatus tvirtina Vyriausybė.
 3.
@@ -900,8 +913,8 @@ atidaryti lošimo automatų ar bingo salonus arba lošimo namus (kazino);
 3)
 išduoda licencijas organizuoti lošimus ir panaikina jų galiojimą;
 4)
-išduoda leidimus atidaryti lošimo automatų ar bingo salonus arba lošimo namus (kazino),
-šiuos leidimus papildo, pakeičia ir panaikina jų galiojimą;
+išduoda leidimus atidaryti lošimo automatų ar bingo salonus arba lošimo namus
+(kazino), šiuos leidimus papildo, pakeičia ir panaikina jų galiojimą;
 5)
 kontroliuoja, kaip lošimų organizatoriai laikosi įstatymų bei kitų teisės aktų,
 reglamentuojančių lošimų organizavimą, reikalavimų;
@@ -1051,14 +1064,25 @@ Nr. IX-1271,
 2002-12-10, Žin., 2002, Nr. 123-5553 (2002-12-24)
 AZARTINIŲ LOŠIMŲ ĮSTATYMO 2, 28
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Šio Įstatymo
-1 straipsnis įsigalioja nuo 2003 m. sausio 1 d.
+Šio
+Įstatymo 1 straipsnis įsigalioja nuo 2003 m. sausio 1 d.
 Šio
 Įstatymo 2 straipsnis įsigalioja nuo 2003 m. kovo 1 d.
  
-*** Pabaiga ***
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1418,
+2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24), įsigalioja nuo 2003-05-01
+AZARTINIŲ
+LOŠIMŲ ĮSTATYMO 11, 15 IR 20 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė
-(2003-01-14)
-                  autrap@lrs.lt
+Redagavo:
+Aušra Bodin (2003-04-25)
+                 
+aubodi@lrs.lt
