@@ -74,9 +74,9 @@ importuojamų prekių, išskyrus:
 priežiūros paslaugas, teikiamas sveikatos priežiūros įstaigų, taip pat
 veterinarinio aptarnavimo paslaugas, teikiamas visų veterinarijos įstaigų,
 vaistus (įskaitant veterinarinius), medicinos techniką, įrengimus ir žaliavas,
-naudojamas vaistams gaminti, ir vaistines prekes. Medicinos technikos,
-įrengimų, naudojamų vaistams gaminti, žaliavų ir vaistinių prekių, už kurias
-PVM nemokamas, sąrašą sudaro Lietuvos Respublikos Vyriausybė;
+naudojamas vaistams gaminti, ir vaistines prekes. Medicinos technikos, įrengimų,
+naudojamų vaistams gaminti, žaliavų ir vaistinių prekių, už kurias PVM
+nemokamas, sąrašą sudaro Lietuvos Respublikos Vyriausybė;
 2) vaikų
 darželių ir lopšelių, senelių ir invalidų pensionatų teikiamas socialines
 paslaugas;
@@ -153,14 +153,14 @@ VIII-557,
 97.12.09, Žin., 1997, Nr.117-2997 (97.12.24)
 Nr. VIII-1229,
 99.06.15, Žin., 1999, Nr.57-1832 (99.06.30)
-Nr. VIII-1606, 00.04.04, Žin., 2000,
-Nr.32-891 (00.04.19), įsigalioja nuo 2000.05.01
-Nr. VIII-1879, 00.07.18, Žin., 2000,
-Nr.64-1944 (00.07.31)
-Nr. VIII-2040, 00.10.12, Žin., 2000,
-Nr.92-2880 (00.10.31), neteko galios nuo 2001.01.01
-Nr. IX-105, 2000 12 20, Žin., 2000, Nr.
-113-3608 (2000 12 30), įsigalioja nuo 2001 01 01
+Nr. VIII-1606,
+00.04.04, Žin., 2000, Nr.32-891 (00.04.19), įsigalioja nuo 2000.05.01
+Nr. VIII-1879,
+00.07.18, Žin., 2000, Nr.64-1944 (00.07.31)
+Nr. VIII-2040,
+00.10.12, Žin., 2000, Nr.92-2880 (00.10.31), neteko galios nuo 2001.01.01
+Nr. IX-105,
+2000 12 20, Žin., 2000, Nr. 113-3608 (2000 12 30), įsigalioja nuo 2001 01 01
  
  
 II. PRIDĖTINĖS
@@ -232,13 +232,13 @@ Nr. VIII-451,
 97.10.14, Žin., 1997, Nr.98-2479 (97.10.30)
 Nr. VIII-764,
 98.06.02, Žin., 1998, Nr.56-1544 (98.06.19)
-Nr. VIII-1841, 00.07.13, Žin., 2000,
-Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
+Nr. VIII-1841,
+00.07.13, Žin., 2000, Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
  
  
-            7 straipsnis.
-Asmenys, kurie pagal 6 straipsnio nuostatas yra PVM mokėtojai, privalo
-registruotis valstybinėje mokesčių inspekcijoje kaip PVM mokėtojai.
+            7 straipsnis. Asmenys,
+kurie pagal 6 straipsnio nuostatas yra PVM mokėtojai, privalo registruotis
+valstybinėje mokesčių inspekcijoje kaip PVM mokėtojai.
 Valstybinė
 mokesčių inspekcija Lietuvos Respublikos Vyriausybės ar jos įgaliotos
 institucijos nustatyta tvarka gali įregistruoti ir naujai įsisteigusias įmones,
@@ -251,15 +251,15 @@ pakeitimai:
 Nr.
 I-774,
 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
-Nr. VIII-1841, 00.07.13, Žin., 2000,
-Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
+Nr. VIII-1841,
+00.07.13, Žin., 2000, Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
  
  
             8 straipsnis. Asmenys,
 kurie nėra PVM mokėtojai, neturi teisės šio mokesčio imti iš prekių pirkėjų
-(paslaugos gavėjų), išskyrus ūkininkus, kuriems taikomas PVM kompensacinis tarifas.
-Jeigu šie asmenys mokestį paėmė, tai jį privalo sumokėti į biudžetą iki kito
-mėnesio 25 dienos.
+(paslaugos gavėjų), išskyrus ūkininkus, kuriems taikomas PVM kompensacinis
+tarifas. Jeigu šie asmenys mokestį paėmė, tai jį privalo sumokėti į biudžetą
+iki kito mėnesio 25 dienos.
 Straipsnio
 pakeitimai:
 Nr.
@@ -352,29 +352,21 @@ TARIFAI
             13 straipsnis. PVM tarifai:
 1) 0 – šio
 įstatymo 25 straipsnyje nurodytoms prekėms ir paslaugoms;
-2) 18 procentų - visoms prekėms ir
+*2) 18 procentų – visoms prekėms ir
 paslaugoms, išskyrus išvardytas šio įstatymo 4 ir 23 straipsniuose bei šio
-straipsnio pirmosios dalies 1 ir 3 punktuose;
- 
-[2 punkto redakcija nuo 2001 m. sausio 1
-d. iki 2003 m. gruodžio 31 d.:
-2) 18 procentų – visoms prekėms ir
-paslaugoms, išskyrus išvardytas šio įstatymo 4 ir 23 straipsniuose bei šio
-straipsnio pirmosios dalies 1, 3 ir 4 punktuose;]
- 
+straipsnio pirmosios dalies 1, 3 ir 4 punktuose;
 3) 5 procentai -
 maršrutinio keleivinio transporto paslaugoms Susisiekimo ministerijos ir vietos
 savivaldos institucijų nustatytais maršrutais.
- 
-[1 dalis papildoma 4 punktu nuo 2001 m.
-sausio 1 d. iki 2003 m. gruodžio 31 d.:
-4) 9 procentai –
+*4) 9 procentai –
 už gyventojams tiekiamą šiluminę energiją, skirtą gyvenamosioms
-patalpoms šildyti.]
- 
+patalpoms šildyti.
 Tarifo dydį
 ūkininkams, kuriems taikomas PVM kompensacinis tarifas, nustato Lietuvos
 Respublikos Vyriausybė. Tarifo dydis negali viršyti 9 procentų.
+ 
+*Pastaba. 1 dalies 2 ir 4
+punktų redakcijos galioja nuo 2001 m. sausio 1 d. iki 2003 m. gruodžio 31 d.
 Straipsnio
 pakeitimai:
 Nr.
@@ -389,21 +381,23 @@ I-1185,
 Nr.
 VIII-557,
 97.12.09, Žin., 1997, Nr.117-2997 (97.12.24)
-Nr. VIII-1606, 00.04.04, Žin., 2000,
-Nr.32-891 (00.04.19), įsigalioja nuo 2000.05.01
-Nr. VIII-2060, 00.10.17, Žin., 2000,
-Nr.90-2779 (00.10.27), įsigalioja nuo 2001.01.01
-Nr. IX-70, 2000 12 07, Žin., 2000, Nr.
-108-3428 (2000 12 20), galioja nuo 2001 01 01 iki 2003 12 31
+Nr. VIII-1606,
+00.04.04, Žin., 2000, Nr.32-891 (00.04.19), įsigalioja nuo 2000.05.01
+Nr. VIII-2060,
+00.10.17, Žin., 2000, Nr.90-2779 (00.10.27), įsigalioja nuo 2001.01.01
+Nr. IX-70, 2000
+12 07, Žin., 2000, Nr. 108-3428 (2000 12 20), galioja nuo 2001 01 01 iki 2003
+12 31
  
  
-14 straipsnis. PVM
+*14 straipsnis. PVM
 skaičiuojamas taikant 18 procentų, o šio įstatymo 13 straipsnio pirmosios
-dalies 3 punkte nurodytu atveju - 5 procentų tarifus, skaičiuojant nuo
-realizuojamų ar importuojamų prekių (teikiamų paslaugų) apmokestinamosios
-vertės, arba atitinkamai 15,25 ir 4,76 procentų tarifus,
-skaičiuojant nuo prekių ir paslaugų vertės kartu su PVM.
-Skaičiuojant PVM 15,25 ir 4,76 procentų
+dalies 3 punkte nurodytu atveju – 5 procentų, 4 punkte nurodytu atveju –
+9 procentų tarifus, skaičiuojant nuo realizuojamų ar importuojamų prekių
+(teikiamų paslaugų) apmokestinamosios vertės, arba atitinkamai 15,25,
+4,76 ir 8,26 procentų tarifus, skaičiuojant nuo prekių ir paslaugų
+vertės kartu su PVM.
+Skaičiuojant PVM 15,25, 4,76 ir 8,26 procentų
 tarifai taikomi:
 1) jeigu prekės parduodamos (paslaugos
 teikiamos) už grynuosius pinigus neišrašant PVM sąskaitos-faktūros;
@@ -412,29 +406,11 @@ dydis nustatytas valstybės valdymo institucijų;
 3) jeigu sąskaitoje-faktūroje už
 apmokestinamas prekes (paslaugas) PVM neišskirtas. Prekių ir paslaugų gavėjai
 neturi teisės taip apskaičiuoti ir įtraukti į atskaitą pirkimo PVM;
-4) kitais
-Lietuvos Respublikos Vyriausybės nustatytais atvejais.
- 
-[14 straipsnio redakcija nuo 2001 m. sausio
-1 d. iki 2003 m. gruodžio 31 d.:
-14 straipsnis. PVM
-skaičiuojamas taikant 18 procentų, o šio įstatymo 13 straipsnio pirmosios
-dalies 3 punkte nurodytu atveju – 5 procentų, 4 punkte nurodytu atveju –
-9 procentų tarifus, skaičiuojant nuo realizuojamų ar importuojamų prekių
-(teikiamų paslaugų) apmokestinamosios vertės, arba atitinkamai 15,25,
-4,76 ir 8,26 procentų tarifus, skaičiuojant nuo prekių ir paslaugų
-vertės kartu su PVM.
-Skaičiuojant PVM 15,25,  4,76 ir 8,26 
-procentų tarifai taikomi:
-1) jeigu prekės parduodamos (paslaugos
-teikiamos) už grynuosius pinigus neišrašant PVM sąskaitos-faktūros;
-2) jeigu prekių kainos (paslaugų tarifų)
-dydis nustatytas valstybės valdymo institucijų;
-3) jeigu sąskaitoje-faktūroje už
-apmokestinamas prekes (paslaugas) PVM neišskirtas. Prekių ir paslaugų gavėjai
-neturi teisės taip apskaičiuoti ir įtraukti į atskaitą pirkimo PVM;
 4) kitais Lietuvos Respublikos
-Vyriausybės nustatytais atvejais.]
+Vyriausybės nustatytais atvejais.
+ 
+*Pastaba. 14 straipsnio
+redakcija galioja nuo 2001 m. sausio 1 d. iki 2003 m. gruodžio 31 d.
 Straipsnio
 pakeitimai:
 Nr.
@@ -443,10 +419,11 @@ I-567,
 Nr.
 I-1185,
 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
-Nr. VIII-1606, 00.04.04, Žin., 2000,
-Nr.32-891 (00.04.19), įsigalioja nuo 2000.05.01
-Nr. IX-70, 2000 12 07, Žin., 2000, Nr.
-108-3428 (2000 12 20), galioja nuo 2001 01 01 iki 2003 12 31
+Nr. VIII-1606,
+00.04.04, Žin., 2000, Nr.32-891 (00.04.19), įsigalioja nuo 2000.05.01
+Nr. IX-70, 2000
+12 07, Žin., 2000, Nr. 108-3428 (2000 12 20), galioja nuo 2001 01 01 iki 2003
+12 31
  
  
 V. MOKESČIO
@@ -507,13 +484,13 @@ kaip 3 kalendoriniai mėnesiai ir ne ilgesnį kaip 12 kalendorinių mėnesių;
 2) įmonė yra sumokėjusi visus
 privalomus mokesčius, delspinigius, baudas, palūkanas už suteiktas mokestines
 paskolas į valstybės ir savivaldybės biudžetus bei fondus (arba šių mokesčių,
-delspinigių, baudų mokėjimas atidėtas arba pateiktas prašymas dėl atidėjimo
-Lietuvos Respublikos teisės aktų nustatyta tvarka, arba dėl šių mokesčių,
-delspinigių, baudų vyksta mokestinis ginčas, arba įmonė Lietuvos Respublikos
-Vyriausybės nustatyta tvarka kreipėsi į Komisiją mokesčio mokėtojų prašymams
-dėl atsiskaitymo akcijomis ir turtu nagrinėti dėl atsiskaitymo už šiuos
-mokesčius, delspinigius ir baudas akcijomis ir turtu) ir pateikusi visas
-reikalaujamas mokesčių deklaracijas ar apyskaitas;
+delspinigių, baudų mokėjimas atidėtas arba pateiktas prašymas dėl atidėjimo Lietuvos
+Respublikos teisės aktų nustatyta tvarka, arba dėl šių mokesčių, delspinigių,
+baudų vyksta mokestinis ginčas, arba įmonė Lietuvos Respublikos Vyriausybės
+nustatyta tvarka kreipėsi į Komisiją mokesčio mokėtojų prašymams dėl
+atsiskaitymo akcijomis ir turtu nagrinėti dėl atsiskaitymo už šiuos mokesčius,
+delspinigius ir baudas akcijomis ir turtu) ir pateikusi visas reikalaujamas
+mokesčių deklaracijas ar apyskaitas;
 3)
 įmonei
 nėra įsigaliojęs nutarimas skirti baudą už padarytą piktybinį mokesčių įstatymų
@@ -555,8 +532,8 @@ Nr.
 I-423,
 94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
 Nr.
-I-567,
-94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
+I-567, 94.07.20,
+Žin., 1994, Nr. 58-1136 (94.07.29)
 Nr.
 I-774,
 95.01.26, Žin., 1995, Nr. 12-261 (95.02.08)
@@ -572,8 +549,8 @@ Nr. VIII-1123,
 99.04.06, Žin., 1999, Nr.36-1061 (99.04.23)
 Nr. VIII-1276,
 99.07.01, Žin., 1999, Nr.62-2033 (99.07.16)
-Nr. VIII-1841, 00.07.13, Žin., 2000,
-Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
+Nr. VIII-1841,
+00.07.13, Žin., 2000, Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
  
  
             18 straipsnis.
@@ -672,11 +649,12 @@ tarptautinių organizacijų ir fondų bei valstybei skirtų paskolų lėšomis, 
 pat valstybės garantuotų paskolų lėšomis biudžetinėms įstaigoms. Jeigu PVM
 mokėjimo terminas nesuėjęs ir mokestis nesumokėtas, jis gali būti panaikintas.
 Šis mokestis Lietuvos Respublikos Vyriausybės nustatyta tvarka taip pat gali
-būti grąžinamas už prekes ir paslaugas, įsigyjamas Lietuvos Respublikoje pagal
-techninės pagalbos programas ir už valstybei skirtų paskolų lėšas bei valstybės
+būti grąžinamas už prekes ir paslaugas, įsigyjamas Lietuvos Respublikoje pagal techninės
+pagalbos programas ir už valstybei skirtų paskolų lėšas bei valstybės
 garantuotas paskolų lėšas biudžetinėms įstaigoms. Jeigu tarptautinėse sutartyse
-nustatytos kitokios apmokestinimo PVM taisyklės ir šios sutartys yra ratifikuotos
-Lietuvos Respublikoje, tai taikomos tarptautinių sutarčių taisyklės;
+nustatytos kitokios apmokestinimo PVM taisyklės ir šios sutartys yra
+ratifikuotos Lietuvos Respublikoje, tai taikomos tarptautinių sutarčių
+taisyklės;
             4) Muitinės kodekso
 nustatytais atvejais.
 Straipsnio
@@ -759,10 +737,10 @@ Nr. VIII-451,
 Nr.
 VIII-557,
 97.12.09, Žin., 1997, Nr.117-2997 (97.12.24)
-Nr. VIII-1815, 00.07.11, Žin., 2000,
-Nr.61-1821 (00.07.26), įsigalioja nuo 2001.01.01
-Nr. VIII-1879, 00.07.18, Žin., 2000,
-Nr.64-1944 (00.07.31)
+Nr. VIII-1815,
+00.07.11, Žin., 2000, Nr.61-1821 (00.07.26), įsigalioja nuo 2001.01.01
+Nr. VIII-1879,
+00.07.18, Žin., 2000, Nr.64-1944 (00.07.31)
  
  
 24 straipsnis. Atsisakoma
@@ -782,17 +760,15 @@ nustatytu 0 tarifu apmokestinama:
 1) eksportuotos
 prekės, įskaitant grąžintas atgal į užsienį laikinai įvežtas perdirbti prekes
 ar iš jų pagamintus kompensacinius produktus;
-2) tarptautinis
-keleivių ir (arba) krovinių vežimas (įskaitant papildomas vežimo paslaugas
-(pakrovimo, iškrovimo, krovinių tvarkymo ir kitos paslaugos), susijusias su
-tarptautiniu krovinių vežimu), taip pat tarpininkavimo paslaugos, kai
-tarpininkaujama teikiant minėtas paslaugas. Taikant šio punkto nuostatas,
-tarptautiniu vežimu laikomas keleivių ir (arba) krovinių vežimas maršrutu,
-kuris prasideda Lietuvos Respublikos teritorijoje, o baigiasi už Lietuvos
-Respublikos ribų, taip pat maršrutu, kuris prasideda už Lietuvos Respublikos
-ribų, o baigiasi Lietuvos Respublikos teritorijoje, taip pat maršrutu, kuris
-prasideda ir baigiasi už Lietuvos Respublikos ribų, tačiau eina per Lietuvos
-Respublikos teritoriją;
+2) tarptautinis keleivių ir (arba) krovinių vežimas
+(įskaitant papildomas vežimo paslaugas (pakrovimo, iškrovimo, krovinių tvarkymo
+ir kitos paslaugos), susijusias su tarptautiniu krovinių vežimu), taip pat
+tarpininkavimo paslaugos, kai tarpininkaujama teikiant minėtas paslaugas.
+Taikant šio punkto nuostatas, tarptautiniu vežimu laikomas keleivių ir (arba)
+krovinių vežimas maršrutu, kuris prasideda Lietuvos Respublikos teritorijoje, o
+baigiasi už Lietuvos Respublikos ribų, taip pat maršrutu, kuris prasideda už Lietuvos
+Respublikos ribų, o baigiasi Lietuvos Respublikos teritorijoje, taip pat
+maršrutu, kuris prasideda ir baigiasi už Lietuvos Respublikos ribų;
 3) lėktuvų ir
 laivų, vežančių prekes ir keleivius tarptautiniais maršrutais, aprūpinimas,
 komplektavimas (įskaitant bilietų pardavimą), remontas, eksploatavimas ir
@@ -811,30 +787,31 @@ pastatytas už Lietuvos Respublikos ribų, susijusios nekilnojamojo turto agent�
 ir šio turto vertintojų, rangovų, projektuotojų, architektų paslaugos, statybų
 techninės priežiūros ir kitos su šiuo nekilnojamuoju turtu susijusios
 paslaugos;
-2) meno, kultūros, sporto, mokslo, mokymo,
-švietimo ir pramogų paslaugos, kilnojamojo turto vertinimas, kilnojamojo turto aptarnavimas -  kai šios paslaugos fiziškai
+2) meno, kultūros, sporto, mokslo, mokymo, švietimo ir pramogų paslaugos, kilnojamojo turto
+vertinimas, kilnojamojo turto aptarnavimas -  kai šios paslaugos fiziškai
 suteiktos už Lietuvos Respublikos ribų; 
 3) autorių teisių, taip pat gretutinių teisių,
-teisių naudotis išradimų patentu, pramoniniu dizainu, puslaidininkių gaminių
-topografija, prekių ir paslaugų ženklu, firmos
+teisių naudotis išradimų patentu, pramoniniu
+dizainu, puslaidininkių gaminių topografija, prekių ir paslaugų ženklu, firmos
 vardu, slapta formule ar metodu, franšize perdavimas ar teisės naudotis jais
 suteikimas, taip pat konsultavimo, teisės, audito, buhalterinės, reklamos,
-rinkos tyrimo ir viešosios nuomonės apklausos paslaugos, telekomunikacijų
-paslaugos, programinės įrangos sukūrimas,
+rinkos tyrimo ir viešosios nuomonės
+apklausos paslaugos, telekomunikacijų paslaugos, programinės įrangos sukūrimas,
 duomenų apdorojimas, informacijos perdavimas bei sportininkų perleidimas, taip pat tarpininkavimo paslaugos, kai
-tarpininkaujama suteikiant šiame punkte nurodytas paslaugas, - kai šių paslaugų
-gavėjas yra užsienio valstybės juridinis asmuo.
-Taikant šio punkto nuostatas, užsienio valstybės juridiniu asmeniu laikomas
-pagal užsienio valstybių įstatymus įsteigtas juridinis asmuo, neatsižvelgiant į
-jo turtinę atsakomybę, kurio veiklą reglamentuoja užsienio valstybių įstatymai
-ir kurio buveinės yra užsienio valstybėse.
-Užsienio valstybių įmonių filialams, atstovybėms ar nuolatinėms buveinėms,
-esančioms Lietuvos Respublikoje, suteiktos paslaugos nelaikomos suteiktomis už
-Lietuvos Respublikos ribų (eksportuotomis); 
-4) kilnojamojo turto nuoma, kilnojamojo turto lizingas (finansinė nuoma) - kai
-paslaugos gavėjas yra užsienio valstybės juridinis asmuo, o nuomotojas arba
-lizingo davėjas pateikia dokumentus, įrodančius, kad turtas bus naudojamas už
-Lietuvos Respublikos ribų.
+tarpininkaujama suteikiant šiame punkte
+nurodytas paslaugas, - kai šių paslaugų gavėjas yra užsienio valstybės
+juridinis asmuo. Taikant šio punkto nuostatas, užsienio valstybės juridiniu
+asmeniu laikomas pagal užsienio valstybių įstatymus įsteigtas juridinis asmuo,
+neatsižvelgiant į jo turtinę atsakomybę,
+kurio veiklą reglamentuoja užsienio valstybių įstatymai ir kurio buveinės yra
+užsienio valstybėse. Užsienio valstybių įmonių filialams, atstovybėms ar
+nuolatinėms buveinėms, esančioms Lietuvos Respublikoje, suteiktos paslaugos
+nelaikomos suteiktomis už Lietuvos
+Respublikos ribų (eksportuotomis); 
+4) kilnojamojo turto nuoma, kilnojamojo turto
+lizingas (finansinė nuoma) - kai paslaugos gavėjas yra užsienio valstybės
+juridinis asmuo, o nuomotojas arba lizingo davėjas pateikia dokumentus, įrodančius, kad turtas bus naudojamas už Lietuvos
+Respublikos ribų.
 Valstybinėje mokesčių inspekcijoje
 įregistruotas asmuo PVM mokėtojas, norėdamas taikyti 0 tarifą eksportuotoms
 prekėms, turi turėti dokumentus, įrodančius, kad prekės yra Muitinės
@@ -880,10 +857,12 @@ Nr. VIII-451,
 Nr.
 VIII-557,
 97.12.09, Žin., 1997, Nr.117-2997 (97.12.24)
-Nr. VIII-1841, 00.07.13, Žin., 2000,
-Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
-Nr. VIII-2060, 00.10.17, Žin., 2000,
-Nr.90-2779 (00.10.27), įsigalioja nuo 2001.01.01
+Nr. VIII-1841,
+00.07.13, Žin., 2000, Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
+Nr. VIII-2060,
+00.10.17, Žin., 2000, Nr.90-2779 (00.10.27), įsigalioja nuo 2001.01.01
+Nr. IX-165, 2001 01 25, Žin., 2001, Nr.
+116-493 (2001 02 21)
  
  
 VII. PRIDĖTINĖS
@@ -960,8 +939,8 @@ mokėtojai privalo vesti atskirą apmokestinamų PVM prekių (paslaugų) pirkimo
 pardavimo apskaitą, kuria remiantis apskaičiuojamas PVM.
             Ūkininkai, kuriems taikomas
 PVM kompensacinis tarifas, tvarko parduotos produkcijos ir suteiktų paslaugų su
-PVM apskaitos žurnalą ir saugo sąskaitas-faktūras Buhalterinės apskaitos
-pagrindų įstatymo nustatytą laiką.
+PVM apskaitos žurnalą ir saugo sąskaitas-faktūras Buhalterinės apskaitos pagrindų
+įstatymo nustatytą laiką.
 Straipsnio
 pakeitimai:
 Nr.
@@ -998,8 +977,8 @@ pakeitimai:
 Nr.
 I-1185,
 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
-Nr. VIII-1841, 00.07.13, Žin., 2000,
-Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
+Nr. VIII-1841,
+00.07.13, Žin., 2000, Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
  
  
             33 straipsnis. Jeigu mokėtojas
@@ -1044,8 +1023,8 @@ straipsnyje nustatyta tvarka ir terminais.
 nesumokėjus (negrąžinus), imami delspinigiai Lietuvos Respublikos mokesčių
 administravimo įstatymo nustatyta tvarka. Ta pačia tvarka delspinigiai
 skaičiuojami ir už ne laiku sumokėtas PVM avansines įmokas. Jeigu nesilaikoma
-Muitinės kodekso nustatytos muitinės sankcionuotų veiksmų atlikimo tvarkos ir
-dėl to atsiranda importo skola muitinei, delspinigiai pradedami skaičiuoti nuo
+Muitinės kodekso nustatytos muitinės sankcionuotų veiksmų atlikimo tvarkos ir dėl
+to atsiranda importo skola muitinei, delspinigiai pradedami skaičiuoti nuo
 importo skolos muitinei atsiradimo dienos.
             Nesumokėtas PVM išieškomas
 už einamuosius ir 5 praėjusius metus.
@@ -1071,29 +1050,29 @@ Nr. VIII-451,
 Nr.
 VIII-557,
 97.12.09, Žin., 1997, Nr.117-2997 (97.12.24)
-Nr. VIII-1841, 00.07.13, Žin., 2000,
-Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
+Nr. VIII-1841,
+00.07.13, Žin., 2000, Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
  
  
 IX. MOKESČIO
 KONTROLĖ IR EKONOMINĖS SANKCIJOS
  
-            36 straipsnis. Jeigu
-tikrinant nustatoma, kad asmenys, nurodyti šio įstatymo 6 straipsnio trečiojoje
-dalyje ir 8 straipsnyje, nesumokėjo PVM, o mokėtojai deklaracijoje sumažino
-apskaičiuotą PVM sumą arba per daug šio mokesčio atskaitė ir dėl to per mažai
-jo sumokėjo į biudžetą (per daug įskaityta arba grąžinta iš biudžeto), apskaičiuota
-papildoma mokesčio suma, bauda ir delspinigiai turi būti sumokėti į biudžetą
-Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+            36 straipsnis. Jeigu tikrinant
+nustatoma, kad asmenys, nurodyti šio įstatymo 6 straipsnio trečiojoje dalyje ir
+8 straipsnyje, nesumokėjo PVM, o mokėtojai deklaracijoje sumažino apskaičiuotą
+PVM sumą arba per daug šio mokesčio atskaitė ir dėl to per mažai jo sumokėjo į
+biudžetą (per daug įskaityta arba grąžinta iš biudžeto), apskaičiuota papildoma
+mokesčio suma, bauda ir delspinigiai turi būti sumokėti į biudžetą Lietuvos
+Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
             PVM už prekes (išskyrus
-importuojamas) ir paslaugas mokėjimą kontroliuoja teritorinės valstybinės mokesčių
-inspekcijos, kurios PVM nepriemokas, delspinigius ir Lietuvos Respublikos
-mokesčių administravimo įstatymo nustatytas baudas išieško Lietuvos Respublikos
-mokesčių administravimo įstatymo nustatyta tvarka. PVM už importuojamas prekes
-mokėjimą kontroliuoja teritorinės muitinės, kurios PVM nepriemokas ir
-delspinigius išieško Muitinės kodekso nustatyta tvarka. Šio įstatymo
-nustatytais atvejais Lietuvos Respublikos Vyriausybės nustatyta tvarka PVM už
-importuojamas prekes mokėjimo kontrolė gali būti perduota teritorinėms
+importuojamas) ir paslaugas mokėjimą kontroliuoja teritorinės valstybinės
+mokesčių inspekcijos, kurios PVM nepriemokas, delspinigius ir Lietuvos
+Respublikos mokesčių administravimo įstatymo nustatytas baudas išieško Lietuvos
+Respublikos mokesčių administravimo įstatymo nustatyta tvarka. PVM už
+importuojamas prekes mokėjimą kontroliuoja teritorinės muitinės, kurios PVM
+nepriemokas ir delspinigius išieško Muitinės kodekso nustatyta tvarka. Šio
+įstatymo nustatytais atvejais Lietuvos Respublikos Vyriausybės nustatyta tvarka
+PVM už importuojamas prekes mokėjimo kontrolė gali būti perduota teritorinėms
 valstybinėms mokesčių inspekcijoms.
             Lietuvos Respublikos
 įstatymų nustatytais atvejais mokesčio mokėtojai gali būti atleisti nuo
@@ -1114,8 +1093,8 @@ Nr. VIII-451,
 Nr.
 VIII-557,
 97.12.09, Žin., 1997, Nr.117-2997 (97.12.24)
-Nr. VIII-1841, 00.07.13, Žin., 2000,
-Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
+Nr. VIII-1841,
+00.07.13, Žin., 2000, Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
  
  
 X. BAIGIAMOSIOS
@@ -1264,8 +1243,8 @@ VIII-126,
 Nr.
 VIII-615,
 98.01.15, Žin., 1998, Nr.8-167 (98.01.25)
-Nr. VIII-1841, 00.07.13, Žin., 2000,
-Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
+Nr. VIII-1841,
+00.07.13, Žin., 2000, Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
  
  
             Skelbiu šį Lietuvos
@@ -1368,8 +1347,8 @@ Lietuvos Respublikos Seimas,
 Nr. I-1244,
 96.03.21, Žin., 1996, Nr. 28-671 (96.03.27)
 LIETUVOS RESPUBLIKOS PRIDĖTINĖS
-VERTĖS MOKESČIO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO 26 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
+VERTĖS MOKESČIO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO 26 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 9.
 Lietuvos
@@ -1378,7 +1357,8 @@ Nr.
 I-1259,
 96.03.28, Žin., 1996, Nr. 35-866 (96.04.19)
 LIETUVOS
-RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
  
 10.
 Lietuvos
@@ -1536,8 +1516,8 @@ RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
  
 25.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1606, 00.04.04, Žin., 2000,
-Nr.32-891 (00.04.19)
+Nr. VIII-1606,
+00.04.04, Žin., 2000, Nr.32-891 (00.04.19)
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4, 13, 14 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
@@ -1545,8 +1525,8 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 26.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1815, 00.07.11, Žin., 2000,
-Nr.61-1821 (00.07.26)
+Nr. VIII-1815,
+00.07.11, Žin., 2000, Nr.61-1821 (00.07.26)
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 23 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001
@@ -1554,8 +1534,8 @@ m. sausio 1 d.
  
 27.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1841, 00.07.13, Žin., 2000,
-Nr.64-1918 (00.07.31)
+Nr. VIII-1841,
+00.07.13, Žin., 2000, Nr.64-1918 (00.07.31)
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 6, 7, 17, 25, 32,
 35, 36, 41 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2000 m.
@@ -1568,15 +1548,15 @@ Mokėtojams, iki šio įstatymo
  
 28.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1879, 00.07.18, Žin., 2000,
-Nr.64-1944 (00.07.31)
+Nr. VIII-1879,
+00.07.18, Žin., 2000, Nr.64-1944 (00.07.31)
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4 IR 23 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
  
 29.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2040, 00.10.12, Žin., 2000,
-Nr.92-2880 (00.10.31)
+Nr. VIII-2040,
+00.10.12, Žin., 2000, Nr.92-2880 (00.10.31)
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
 Šis
@@ -1586,8 +1566,8 @@ Pakeitimai:
 1)
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-105, 2000 12 20, Žin., 2000, Nr.
-113-3608 (2000 12 30)
+Nr. IX-105, 2000 12
+20, Žin., 2000, Nr. 113-3608 (2000 12 30)
 PRIDĖTINĖS
 VERTĖS MOKESČIO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMO PANAIKINIMO IR
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -1596,8 +1576,8 @@ m. sausio 1 d.
  
 30.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2060, 00.10.17, Žin., 2000,
-Nr.90-2779 (00.10.27)
+Nr. VIII-2060, 00.10.17,
+Žin., 2000, Nr.90-2779 (00.10.27)
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 13 IR 25 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
 Šis
@@ -1605,8 +1585,8 @@ PAKEITIMO ĮSTATYMAS
  
 31.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-70, 2000 12 07, Žin., 2000, Nr.
-108-3428 (2000 12 20)
+Nr. IX-70, 2000 12
+07, Žin., 2000, Nr. 108-3428 (2000 12 20)
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 13 IR 14 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
 Šis
@@ -1614,17 +1594,31 @@ PAKEITIMO ĮSTATYMAS
  
 32.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-105, 2000 12 20, Žin., 2000, Nr.
-113-3608 (2000 12 30)
+Nr. IX-105, 2000 12
+20, Žin., 2000, Nr. 113-3608 (2000 12 30)
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4 STRAIPSNIO
 PAKEITIMO ĮSTATYMO PANAIKINIMO IR PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-165, 2001 01 25, Žin., 2001, Nr.
+116-493 (2001 02 21)
+PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 25 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+Šiame įstatyme išdėstyto Pridėtinės vertės mokesčio
+įstatymo 25 straipsnio 1 dalies 2 punkto nuostatos taikomos jame nurodytoms
+paslaugoms, teikiamoms nuo 2001 m. sausio 1 d. Už šias paslaugas, suteiktas po
+2001 m. sausio 1 d., PVM turi būti skaičiuojamas taikant 0 tarifą. Jeigu
+paslaugų teikėjas už jas PVM apskaičiavo taikydamas 18 procentų tarifą ir paėmė
+šį mokestį iš pirkėjo, šis mokestis nustatyta tvarka turi būti sumokėtas į
+biudžetą.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 01 03)
+Redagavo: Aušrinė Trapinskienė (2001 02 21)
                   autrap@lrs.lt
 
