@@ -1266,11 +1266,11 @@ laiduojama (nemokama) asmens sveikatos priežiūra LNSS įstaigose teikiama
 nemokamai, už šios priežiūros paslaugas iš paciento negali būti reikalaujama
 papildomo mokesčio. Jei pacientai, turintys teisę į nemokamas asmens sveikatos
 priežiūros paslaugas, savo iniciatyva pasirenka brangiau kainuojančias
-paslaugas, medžiagas, procedūras, tai šių paslaugų, medžiagų, procedūrų faktinių
-kainų ir nemokamų paslaugų, medžiagų, procedūrų bazinių kainų skirtumą jie
-apmoka patys Sveikatos apsaugos ministerijos nustatyta tvarka. Jei pacientai,
-turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas, savo
-iniciatyva pasirenka papildomas paslaugas ar procedūras, šių paslaugų ar
+paslaugas, medžiagas, procedūras, tai šių paslaugų, medžiagų, procedūrų
+faktinių kainų ir nemokamų paslaugų, medžiagų, procedūrų bazinių kainų skirtumą
+jie apmoka patys Sveikatos apsaugos ministerijos nustatyta tvarka. Jei
+pacientai, turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas,
+savo iniciatyva pasirenka papildomas paslaugas ar procedūras, šių paslaugų ar
 procedūrų kainą jie apmoka patys.
 6. LNSS įstaigos
 privalo teikti informaciją gyventojams apie nemokamų asmens sveikatos
@@ -1448,9 +1448,9 @@ sveikatinimo paslaugų rūšių, jų nomenklatūros, teikimo masto ir terminų;
 apmokėti reikalingų išlaidų padengimo;
 3) sveikatinimo
 veiklos sutarties pakeitimo, papildymo ir nutraukimo tvarkos;
-4) paslaugų tinkamumo
-ir organizacinio bei teritorinio prieinamumo reikalavimų, jeigu teisės aktuose
-šie reikalavimai nėra nustatyti; 
+4) paslaugų
+tinkamumo ir organizacinio bei teritorinio prieinamumo reikalavimų, jeigu
+teisės aktuose šie reikalavimai nėra nustatyti; 
 5) netesybų dėl
 sutarties įsipareigojimų netinkamo vykdymo, nevykdymo ar jos vienašalio
 nutraukimo, įskaitant netesybas už nustatytų sveikatos priežiūros būtinųjų
@@ -1958,8 +1958,14 @@ farmacinę veiklą;
 4) vykdo
 farmacinės veiklos monitoringą (informacijos apie vaistus, jų gamybą, importą,
 prekybą, eksportą rinkimas, kaupimas, apdorojimas ir platinimas);
-5) vykdo
+5) išduoda leidimus klinikiniams vaistinio preparato
+tyrimams Lietuvos bioetikos komiteto pritarimu;
+6) vykdo
 įstatymų, tarnybos nuostatų nustatytas kitas funkcijas. 
+Straipsnio pakeitimai:
+Nr.
+IX-2165,
+2004-04-22, Žin., 2004, Nr. 68-2372 (2004-04-29)
  
 73
 straipsnis. Teismo medicinos institutas
@@ -1968,8 +1974,8 @@ medicinos institutas yra valstybės mokslo įstaiga. Jo veikla finansuojama iš
 valstybės biudžeto. Instituto nuostatus tvirtina Vyriausybė.
 2. Teismo
 medicinos institutas : 
-1) atlieka teismo
-medicinos ekspertizes teismams;
+1) atlieka
+teismo medicinos ekspertizes teismams;
 2) diegia naujas
 teismo medicinos ekspertizės rūšis ir metodikas, plėtoja teismo medicinos
 mokslą;
@@ -2074,10 +2080,10 @@ Nr.61-1810 (00.07.26)
 79 straipsnis. Valstybinė medicininio audito
 inspekcija prie Sveikatos apsaugos 
 ministerijos
-1. Valstybinę medicininio
-audito inspekciją prie Sveikatos apsaugos ministerijos steigia ir jos veiklos
-nuostatus tvirtina Sveikatos apsaugos ministerija. Ši inspekcija yra juridinis
-asmuo. Jos veikla yra finansuojama iš valstybės biudžeto.
+1. Valstybinę
+medicininio audito inspekciją prie Sveikatos apsaugos ministerijos steigia ir
+jos veiklos nuostatus tvirtina Sveikatos apsaugos ministerija. Ši inspekcija
+yra juridinis asmuo. Jos veikla yra finansuojama iš valstybės biudžeto.
 2. Valstybinė
 medicininio audito inspekcija prie Sveikatos apsaugos ministerijos:
 1) atlieka
@@ -2098,11 +2104,13 @@ veikla finansuojama iš valstybės biudžeto.
 2. Lietuvos
 bioetikos komitetas : 
 1) analizuoja
-bioetikos problemas ir konsultuoja valstybės bei vietos savivaldos institucijas,
-įstaigas, organizacijas šiais klausimais, teikia išvadas bei pasiūlymus dėl
-bioetikos klausimus reglamentuojančių įstatymų ir kitų teisės aktų projektų; 
-2) išduoda
-leidimus biomedicininiams tyrimams ir atlieka etinę šių tyrimų priežiūrą;
+bioetikos problemas ir konsultuoja valstybės bei vietos savivaldos
+institucijas, įstaigas, organizacijas šiais klausimais, teikia išvadas bei
+pasiūlymus dėl bioetikos klausimus reglamentuojančių įstatymų ir kitų teisės
+aktų projektų; 
+2) išduoda leidimus biomedicininiams tyrimams,
+išskyrus leidimus klinikiniams vaistinio preparato tyrimams, ir atlieka etinę
+biomedicininių tyrimų, kuriems išdavė leidimus, priežiūrą;
 3) kasmet
 atsiskaito Sveikatos apsaugos ministerijai už savo veiklą ir teikia pasiūlymus
 dėl bioetikos problemų sprendimo;
@@ -2120,6 +2128,9 @@ jo nuostatuose nustatytas funkcijas.
 Straipsnio pakeitimai:
 Nr. VIII-1672, 00.05.11, Žin., 2000,
 Nr.44-1245 (00.05.31)
+Nr.
+IX-2165,
+2004-04-22, Žin., 2004, Nr. 68-2372 (2004-04-29)
  
 81
 straipsnis. Asmens sveikatos priežiūros įstaigų medicinos etikos komisijos
@@ -2176,9 +2187,9 @@ informaciją apie savo sveikatą bei teisę į šios informacijos konfidencialum
 tvarka pasirinkti sveikatos priežiūros specialistą, sveikatos priežiūros
 įstaigą, sveikatos priežiūros rūšį arba jų atsisakyti, išskyrus įstatymuose
 numatytus atvejus;
-7) gauti valstybės
-laiduojamą (nemokamą) ir savivaldybių remiamą sveikatos priežiūrą šio ir kitų
-įstatymų nustatyta tvarka.
+7) gauti
+valstybės laiduojamą (nemokamą) ir savivaldybių remiamą sveikatos priežiūrą šio
+ir kitų įstatymų nustatyta tvarka.
  
 85
 straipsnis. Lietuvos Respublikos gyventojų pareigos sveikatinimo veikloje
@@ -2195,8 +2206,8 @@ kitų asmenų sveikatos teisių;
 5) nekenkti
 aplinkai;
 6) mokėti
-privalomojo sveikatos draudimo įmokas, kurias nustato Sveikatos draudimo įstatymas.
-
+privalomojo sveikatos draudimo įmokas, kurias nustato Sveikatos draudimo
+įstatymas. 
  
 86 straipsnis. Lietuvos Respublikoje veikiančių
 įmonių ir įstaigų teisės sveikatinimo 
@@ -2270,10 +2281,10 @@ draudimas
 sveikatos priežiūros įmonės ir įstaigos privalo drausti savo civilinę
 atsakomybę dėl žalos, padarytos pacientų sveikatai vykdant asmens sveikatos
 priežiūrą.
-2. Asmens sveikatos
-priežiūros įmonių ir įstaigų civilinės atsakomybės dėl žalos, padarytos
-pacientų sveikatai, vykdant asmens sveikatos priežiūrą, draudimo tvarką
-reglamentuoja Pacientų teisių ir žalos sveikatai atlyginimo, Draudimo
+2. Asmens
+sveikatos priežiūros įmonių ir įstaigų civilinės atsakomybės dėl žalos,
+padarytos pacientų sveikatai, vykdant asmens sveikatos priežiūrą, draudimo
+tvarką reglamentuoja Pacientų teisių ir žalos sveikatai atlyginimo, Draudimo
 įstatymas, kiti įstatymai bei teisės aktai.
  
 90 straipsnis. Prievolė atlyginti valstybinių
@@ -2338,9 +2349,9 @@ nelaimių neigiamas pasekmes visuomenės sveikatai.
  
 95
 straipsnis. Sveikatos sistemos įstatymas ir tarptautinės sutartys
-Jeigu Lietuvos Respublikos
-tarptautinėje sutartyje nustatyti kitokie reikalavimai nei nustato šis
-įstatymas, taikomos tarptautinės sutarties nuostatos.
+Jeigu Lietuvos
+Respublikos tarptautinėje sutartyje nustatyti kitokie reikalavimai nei nustato
+šis įstatymas, taikomos tarptautinės sutarties nuostatos.
  
  
 Skelbiu šį
@@ -2350,6 +2361,22 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                        VALDAS
 ADAMKUS
  
+                                                                                    Lietuvos
+Respublikos 
+                                                                                    1994
+m. liepos 19 d. 
+                                                                                    įstatymo
+Nr. I-552
+ 
+                                                                                  priedas
+ 
+ĮGYVENDINAMAS
+EUROPOS SĄJUNGOS TEISĖS AKTAS
+ 
+2001 m.
+balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių
+narių įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos
+įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo.
 ________________
  
 Pakeitimai:
@@ -2393,8 +2420,8 @@ Nauja
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1462, 99.12.02, Žin., 1999, Nr.108-3128
-(99.12.22)
+Nr. VIII-1462, 99.12.02, Žin., 1999,
+Nr.108-3128 (99.12.22)
 SVEIKATOS SISTEMOS ĮSTATYMO PAPILDYMO 67(1) STRAIPSNIU
 ĮSTATYMAS
  
@@ -2492,6 +2519,16 @@ SVEIKATOS
 SISTEMOS ĮSTATYMO 50 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+ 
+18.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2165,
+2004-04-22, Žin., 2004, Nr. 68-2372 (2004-04-29)
+SVEIKATOS
+SISTEMOS ĮSTATYMO 72, 80 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO PRIEDU
+ĮSTATYMAS
  
 ***
 Pabaiga ***
