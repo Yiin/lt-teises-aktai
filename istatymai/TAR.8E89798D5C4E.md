@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8E89798D5C4E"
 
 # Lietuvos Respublikos teisėjų valstybinių pensijų įstatymas
 
+Suvestinė redakcija nuo 2005-01-01 iki 2005-06-30
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 73-3088, i. k. 1021010ISTA0IX-1011
+ 
+ 
 LIETUVOS RESPUBLIKOS
 TEISĖJŲ VALSTYBINIŲ PENSIJŲ
 Į S T A T Y M A S
@@ -111,7 +116,9 @@ Teisėjų valstybinė pensija neskiriama, o paskirtoji nemokama, jei:
 
 
 
-6) asmuo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar bedarbio pašalpas.
+6) asmuo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) pašalpas ar nedarbo socialinio draudimo išmokas.
+Straipsnio punkto pakeitimai:
+Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
  
 
 
@@ -340,3 +347,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
+Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Teisėjų valstybinių pensijų įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas
