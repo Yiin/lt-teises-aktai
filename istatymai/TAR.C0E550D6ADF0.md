@@ -212,6 +212,8 @@ arba Vyriausioji tarnybinės etikos komisija.
  
 10 straipsnis. Metinių privačių interesų
 deklaracijų viešumas 
+1 dalies
+redakcija nuo 2003 m. gegužės 1 d.:
 1. Respublikos Prezidento, Seimo narių, Ministro
 Pirmininko, ministrų, viceministrų, ministerijų sekretorių, Konstitucinio
 Teismo pirmininko ir teisėjų, Lietuvos Aukščiausiojo Teismo, Lietuvos
@@ -231,16 +233,15 @@ pareigūnų, Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir
 teritorinių mokesčių inspekcijų vadovaujančių pareigūnų, Vidaus reikalų
 ministerijos Ekonominių nusikaltimų tyrimo valdybos ir miestų bei rajonų
 komisariatų ekonominių nusikaltimų tyrimo skyrių (poskyrių) vadovaujančių
-pareigūnų, policijos generalinio komisaro, vyriausiųjų komisarų, vyresniųjų
-komisarų, komisarų, vadovaujančių miestų bei rajonų policijos komisariatams,
-Specialiųjų tyrimų tarnybos direktoriaus, Specialiųjų tyrimų tarnybos
-direktoriaus pirmojo pavaduotojo ir pavaduotojo, savivaldybių valdybų narių,
-merų, vicemerų, administratorių, savivaldybių kontrolierių, Seimo kontrolierių
-metinių privačių interesų deklaracijų suvestiniai duomenys kiekvienais metais ne
-vėliau kaip iki liepos 15 d. valstybės lėšomis yra skelbiami Vyriausiosios
-tarnybinės etikos komisijos nustatyta tvarka. Vardinį šioje dalyje išvardytų
-pareigų sąrašą kiekvienais metais iki kovo 15 d. nustato Vyriausioji tarnybinės
-etikos komisija.
+pareigūnų, policijos generalinio komisaro, policijos įstaigų vadovų ir jų
+pavaduotojų, Specialiųjų tyrimų tarnybos direktoriaus, Specialiųjų tyrimų
+tarnybos direktoriaus pirmojo pavaduotojo ir pavaduotojo, savivaldybių tarybų
+narių, merų, vicemerų, savivaldybių administracijų direktorių, savivaldybių
+kontrolierių, Seimo kontrolierių metinių privačių interesų deklaracijų
+suvestiniai duomenys kiekvienais metais ne vėliau kaip iki liepos 15 d.
+valstybės lėšomis yra skelbiami Vyriausiosios tarnybinės etikos komisijos
+nustatyta tvarka. Vardinį šioje dalyje išvardytų pareigų sąrašą kiekvienais
+metais iki kovo 15 d. nustato Vyriausioji tarnybinės etikos komisija.
 2. Vyriausiosios tarnybinės etikos
 komisijos nustatyta tvarka su šio straipsnio 1 dalyje išvardytų asmenų metinių
 privačių interesų deklaracijų suvestiniais duomenimis, saugomais šio įstatymo 8
@@ -254,6 +255,8 @@ Nr. VIII-1936, 2000 09 19, Žin., 2000, Nr.
 85-2574 (2000 10 11), įsigalioja nuo 2001 01 01
 Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 35-1165 (2001 04 25)
+Nr. IX-1505,
+2003-04-17, Žin., 2003, Nr. 42-1911 (2003-05-01)
  
 TREČIASIS
 SKIRSNIS
@@ -265,9 +268,9 @@ TARNYBOJE
 1. Asmeniui, dirbančiam valstybinėje
 tarnyboje, draudžiama dalyvauti rengiant, svarstant ar priimant sprendimus arba
 kitaip paveikti sprendimus, kurie sukelia interesų konfliktą. 
-2. Prieš pradedant tokio sprendimo
-rengimo, svarstymo ar priėmimo procedūrą arba pačios procedūros metu asmuo,
-dirbantis valstybinėje tarnyboje, privalo informuoti savo tiesioginį vadovą ar
+2. Prieš pradedant tokio sprendimo rengimo,
+svarstymo ar priėmimo procedūrą arba pačios procedūros metu asmuo, dirbantis
+valstybinėje tarnyboje, privalo informuoti savo tiesioginį vadovą ar
 institucijos vadovo įgaliotą atstovą bei asmenis, kurie kartu dalyvauja
 sprendimo rengimo, svarstymo ar priėmimo procedūroje, apie esamą interesų
 konfliktą ir nusišalinti nuo dalyvavimo tolesnėje procedūroje. Institucijos
@@ -500,8 +503,8 @@ komisija atskaitinga Seimui. Vyriausiąją tarnybinės etikos komisiją aptarnau
 šios komisijos sekretoriatas, kurio sudėtį, etatų sąrašus ir atlyginimus,
 neviršydama Vyriausybės nustatytų atlyginimų dydžių, nustato Vyriausioji
 tarnybinės etikos komisija. 
-6. Vyriausioji tarnybinės etikos komisija:
-
+6. Vyriausioji tarnybinės etikos
+komisija: 
 1) analizuoja šio įstatymo taikymo
 problemas; 
 2) teikia ieškinius teismui dėl darbo
@@ -573,9 +576,8 @@ RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1562, 2000 02 17, Žin., 2000, Nr.
 18-431 (2000 02 29)
-LIETUVOS
-RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE
-TARNYBOJE ĮSTATYMO PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO
+PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
  
 5.
@@ -627,6 +629,16 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr.
 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr.
 37-1341), t.y. nuo 2003 m. gegužės 1 d.
+ 
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1505,
+2003-04-17, Žin., 2003, Nr. 42-1911 (2003-05-01)
+VIEŠŲJŲ
+IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 10 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
