@@ -55,7 +55,6 @@ Nr. VIII-1539, 2000 02 15, Žin., 2000, Nr. 18-430 (2000 02 29)
 Nr. IX-261, 2001 04 17, Žin., 2001, Nr.
 39-1332 (2001 05 09)
  
- 
             2 straipsnis. Fondo samprata
             1. Fondas - tai neturinti narių ne pelno
 organizacija, kurios veiklos tikslai yra labdara arba (ir) parama mokslo,
@@ -137,10 +136,10 @@ fondo veiklą;
 susirinkimo bei valdybos nutarimus ir administracijos sprendimus.
             3. Fondo steigėjų skaičius
 neribojamas. Fondo steigėjai už įsipareigojimų nevykdymą gali būti pašalinti, o
-fondo rėmėjams, įsipareigojantiems skirti fondui lėšų, gali būti suteiktos steigėjo
-teisės, kurias nustato šis įstatymas. Steigėją pašalinti bei rėmėjui suteikti
-steigėjo teises gali tik steigėjų susirinkimas. Steigėjo pašalinimo bei
-steigėjo teisių suteikimo rėmėjams tvarka turi būti nustatyta įstatuose.
+fondo rėmėjams, įsipareigojantiems skirti fondui lėšų, gali būti suteiktos
+steigėjo teisės, kurias nustato šis įstatymas. Steigėją pašalinti bei rėmėjui
+suteikti steigėjo teises gali tik steigėjų susirinkimas. Steigėjo pašalinimo
+bei steigėjo teisių suteikimo rėmėjams tvarka turi būti nustatyta įstatuose.
             4. Steigėjai sudaro fondo steigimo
 sutartį. Jeigu fondą steigia vienas asmuo, vietoj steigimo sutarties jis surašo
 steigimo aktą, kuriam taikomi steigimo sutarties reikalavimai. Steigimo
@@ -206,10 +205,10 @@ išregistruojami Lietuvos Respublikos įstatymų nustatyta tvarka.
             8 straipsnis. Filialai
             1. Fondai turi teisę steigti
 filialus. Jie steigiami fondo įstatuose nustatyta tvarka.
-            2. Filialas yra fondo
-padalinys, turintis atskirą buveinę. Filialas nėra juridinis asmuo ir naudojasi
-fondo, kaip juridinio asmens, vardu. Filialas veikia pagal fondo įstatų
-suteiktus įgaliojimus, kurie turi būti nurodyti ir filialo nuostatuose.
+            2. Filialas yra fondo padalinys,
+turintis atskirą buveinę. Filialas nėra juridinis asmuo ir naudojasi fondo,
+kaip juridinio asmens, vardu. Filialas veikia pagal fondo įstatų suteiktus
+įgaliojimus, kurie turi būti nurodyti ir filialo nuostatuose.
             3. Filialo turtas
 įtraukiamas į apskaitą fondo finansinės atskaitomybės dokumentuose, taip pat
 atskiros filialo finansinės atskaitomybės dokumentuose.
@@ -273,7 +272,9 @@ palūkanos, mokamos už jose saugomas lėšas;
 įmonių ir įmonių, kurių dalininku yra fondas, pelnas;
             6) lėšos ir turtas, skiriami
 tiksliniams projektams bei programoms iš analogiškų fondų, programų bei
-projektų.
+projektų;
+7) pajamos už
+Vyriausybės ir savivaldybių vertybinius popierius.
             3. Steigėjų ir rėmėjų
 įnašus, dovanas bei palikimą gali sudaryti pinigai, turtas (pastatai,
 įrengimai, transporto priemonės bei kt.) ir paslaugos.
@@ -281,8 +282,8 @@ projektų.
 gautas lėšas ir turtą fondas gali naudoti tik pagal paskirtį įstatuose
 nurodytiems tikslams.
             5. Fondo rėmėjas gali
-nustatyti jo skirtų lėšų (turto) naudojimo sritis, bet tik fondo įstatų numatytai
-veiklai. Rėmėjo prašymu fondas privalo teikti informaciją, reikalingą
+nustatyti jo skirtų lėšų (turto) naudojimo sritis, bet tik fondo įstatų
+numatytai veiklai. Rėmėjo prašymu fondas privalo teikti informaciją, reikalingą
 kontroliuoti, kaip fondas vykdo rėmėjo nustatytas sąlygas.
             6. Fondas turi teisę dalį
 labdaros ir paramos pajamų naudoti tokiems tikslams:
@@ -296,8 +297,13 @@ saugomos bankų įstaigose.
             8. Fondo turtas negali būti
 įkeistas, draudžiama juo laiduoti kitų asmenų skolinius įsipareigojimus.
             9. Fondo pajamos iš veiklos,
-kuri nėra numatyta įstatuose, taip pat gautos arba panaudotos pažeidžiant šį
-įstatymą, paimamos į valstybės biudžetą įstatymų nustatyta tvarka.
+kuri nėra numatyta įstatuose, taip pat gautos arba panaudotos pažeidžiant šį įstatymą,
+paimamos į valstybės biudžetą įstatymų nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr.
+IX-609,
+2001-11-15, Žin., 2001, Nr. 102-3627 (2001-12-05)
             
             11 straipsnis. Valdymo
 organai
@@ -369,8 +375,8 @@ ir paramai;
             5) tvirtinti turtinių įnašų
 įvertinimą;
             6) analizuoti fondo veiklos
-rezultatus, pajamų ir išlaidų sąmatas, revizijų, inventorizacijos ir kitus vertybių
-apskaitos duomenis;
+rezultatus, pajamų ir išlaidų sąmatas, revizijų, inventorizacijos ir kitus
+vertybių apskaitos duomenis;
             7) teikti steigėjų
 susirinkimui fondo veiklos ataskaitas.
             6. Valdybos įgaliojimus
@@ -424,14 +430,14 @@ Straipsnio pakeitimai:
 Nr. IX-357, 2001-06-05, Žin., 2001, Nr.
 52-1816 (2001-06-20)
  
- 
             15 straipsnis. Finansinės
 veiklos kontrolė
             1. Fondas privalo įstatuose
 nustatytu periodiškumu atlikti finansinės veiklos patikrinimus. Juos atlieka
 revizorius arba auditorius, kuriuos fondo įstatuose nustatytam laikui renka
 steigėjų susirinkimas. Revizoriumi (auditoriumi) gali būti fizinis arba
-juridinis asmuo, bet ne steigėjas, valdybos narys ar administracijos darbuotojas.
+juridinis asmuo, bet ne steigėjas, valdybos narys ar administracijos
+darbuotojas.
             2. Revizorius privalo:
             1) tikrinti fondo metų
 finansinę atskaitomybę ir kitus finansinės buhalterinės veiklos dokumentus;
@@ -457,8 +463,9 @@ valstybės ir savivaldybių biudžetų gautos lėšos.
 Reorganizavimas
             1. Fondas negali būti
 reorganizuotas į kitos rūšies įmonę ar organizaciją.
-            2. Fondas gali būti reorganizuotas
-steigėjų susirinkimo nutarimu. Galimi fondo reorganizavimo būdai:
+            2. Fondas gali būti
+reorganizuotas steigėjų susirinkimo nutarimu. Galimi fondo reorganizavimo
+būdai:
             1) jungiantis su kitais
 fondais;
             2) skaidant fondą į kelis
@@ -485,9 +492,9 @@ nutarimas;
             3) teismo sprendimas
 likviduoti fondą už įstatymų nustatytus teisės pažeidimus.
             2. Organas, nusprendęs
-(nutaręs) likviduoti fondą, skiria likvidatorių ir nustato jo įgaliojimus. Paskyrus
-likvidatorių, fondas įgyja likviduojamojo fondo statusą: valdymo organai
-netenka įgaliojimų valdyti fondą, jų funkcijas atlieka likvidatorius.
+(nutaręs) likviduoti fondą, skiria likvidatorių ir nustato jo įgaliojimus.
+Paskyrus likvidatorių, fondas įgyja likviduojamojo fondo statusą: valdymo
+organai netenka įgaliojimų valdyti fondą, jų funkcijas atlieka likvidatorius.
             3. Fondą likvidavus,
 likvidatorius privalo sudaryti likvidavimo aktą, išregistruoti fondą, grąžinti
 registravimo pažymėjimą jį išdavusiam registro tvarkytojui.
@@ -535,8 +542,8 @@ RESPUBLIKOS LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 18 STRAIPSNIO PAKEITIMO
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1539, 2000 02 15, Žin., 2000, Nr. 18-430 (2000 02 29)
 LIETUVOS
-RESPUBLIKOS LABDAROS IR PARAMOS FONDŲ
-ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 1 STRAIPSNIO
+PAPILDYMO ĮSTATYMAS
  
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -549,11 +556,22 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-357, 2001-06-05, Žin., 2001, Nr.
 52-1816 (2001-06-20)
-LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 14 STRAIPSNIO
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO
+IR PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-609,
+2001-11-15, Žin., 2001, Nr. 102-3627 (2001-12-05)
+LABDAROS
+IR PARAMOS FONDŲ ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001-06-20)
-         autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2001-12-05)
+                 
+autrap@lrs.lt
