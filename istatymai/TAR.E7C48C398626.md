@@ -21,15 +21,12 @@ BEVARIKLIO TRANSPORTO
 ĮSTATYMAS
 2000 m. birželio 20 d. Nr. VIII-1744
 Vilnius
-
- 
-PIRMASIS
-SKIRSNIS 
+PIRMASIS SKIRSNIS 
 BENDROSIOS
 NUOSTATOS
  
-1 straipsnis.
-Įstatymo paskirtis
+1
+straipsnis. Įstatymo paskirtis
 1. Šis įstatymas
 nustato bevariklio transporto padėtį bendroje transporto sistemoje, jo plėtros
 sąlygas, bendrus bevariklio transporto infrastruktūros projektavimo, įrengimo
@@ -38,8 +35,8 @@ ir eksploatavimo Lietuvos Respublikoje reikalavimus, užtikrina žmogaus teisę 
 2. Įstatymas
 netaikomas bevarikliam oro, vandens transportui, važnyčiotojams ir jojikams.
  
-2 straipsnis.
-Pagrindinės šio įstatymo sąvokos
+2
+straipsnis. Pagrindinės šio įstatymo sąvokos
 1. Bevariklio
 transporto priemonė - transporto priemonė, varoma žmogaus (paties
 vairuotojo arba kartu važiuojančių keleivių) raumenų jėga; atskirais atvejais,
@@ -82,18 +79,18 @@ inžineriniai įrenginiai.
 įrengtos trasos, atskirtos nuo automobilių kelių tinklo ir tiesiamos per
 želdynus arba apželdinamos. 
  
-3 straipsnis.
-Bevariklio transporto vieta transporto sistemoje
+3
+straipsnis. Bevariklio transporto vieta transporto sistemoje
 1. Bevariklis transportas dėl
 ekonomiškumo (nenaudoja degalų), ekologiškumo (neteršia aplinkos), humaniškumo
 (nedideli greičiai, mažai pavojingas kitiems eismo dalyviams), sveikatingumo
 (reikalauja fizinio aktyvumo) yra universali susisiekimo, transportavimo ir
 aktyvaus poilsio priemonė. 
 2. Bevariklis
-transportas yra skirtas miesto, priemiesčio ir kaimo susisiekimui, nedideliems
-kroviniams vežti trumpais atstumais bei rekreacijos ir turizmo tikslams
-įvairiais atstumais. Jis kartu su motorinio transporto ribojimo priemonėmis
-mažina miestų kamšatį ir aplinkos užterštumą.
+transportas yra skirtas miesto, priemiesčio ir kaimo susisiekimui, nedideliems kroviniams
+vežti trumpais atstumais bei rekreacijos ir turizmo tikslams įvairiais
+atstumais. Jis kartu su motorinio transporto ribojimo priemonėmis mažina miestų
+kamšatį ir aplinkos užterštumą.
 3. Bevariklis
 transportas užima tarpinę padėtį tarp pėsčiųjų ir motorinio transporto
 priemonių eismo ir būdamas lankstus, nekenksmingas aplinkai papildo bei
@@ -109,12 +106,11 @@ jūros pakrantes, priemiesčius su miestų transporto tinklu. Krašto bevariklio
 transporto trasos turi įsilieti į tarpvalstybinį dviračių takų tinklą ir
 sudaryti sąlygas tarptautiniam dviračių turizmui.
  
-ANTRASIS
-SKIRSNIS
+ANTRASIS SKIRSNIS
 bevariklio transporto INFRASTRUKTŪRA IR JOS PLĖTRA
  
-4 straipsnis.
-Bevariklio transporto infrastruktūra
+4
+straipsnis. Bevariklio transporto infrastruktūra
 1. Šalies
 bevariklio transporto infrastruktūrą sudaro bevariklio transporto trasos su
 specialiai bevarikliam transportui pritaikyta aplinka ir priklausiniais;
@@ -130,8 +126,8 @@ namuose, svarbiuose bevariklio transporto traukos objektuose ir prie jų turi
 būti įrengiamos bevariklio transporto priemonių saugojimo patalpos, stoginės
 arba vietos apsaugos įranga.
  
-5 straipsnis.
-Bevariklio transporto trasų tinklas 
+5
+straipsnis. Bevariklio transporto trasų tinklas 
 1. Bevariklio
 transporto trasų tinklą sudaro tarpusavyje susietos krašto, rajoninės ir
 vietinės bevariklio transporto trasos. 
@@ -147,8 +143,8 @@ transporto trasomis.
 bevariklio transporto trasos jungia pagrindinius takus su gyvenamosiomis
 vietovėmis ir kitais nedideliais traukos objektais. 
  
-6 straipsnis.
-Bevariklio transporto trasų kategorijos ir tipai
+6
+straipsnis. Bevariklio transporto trasų kategorijos ir tipai
 1. Bevariklio transporto
 trasos pagal reikšmę skirstomos į dvi kategorijas: pagrindines ir
 pagalbines. Pagrindines trasas sudaro krašto ir rajoninės bevariklio transporto
@@ -166,8 +162,8 @@ transporto trasos gatvėse, keliuose, privažiavimuose be eismo juostų žymėji
 5) bevariklio
 transporto trasos šaligatviuose, pėsčiųjų zonose, pėsčiųjų ir dviračių takuose.
  
-7 straipsnis.
-Bevariklio transporto ir pėsčiųjų eismo trasos 
+7
+straipsnis. Bevariklio transporto ir pėsčiųjų eismo trasos 
 1. Užtikrinat
 saugų eismą bevariklio transporto trasose, transporto eismas turi būti
 atskirtas nuo pėsčiųjų eismo skiriamąja juosta arba greta turi būti įrengti
@@ -185,18 +181,33 @@ bevariklio transporto trasose - privažiavimuose, aikštelėse, gyvenamosiose
 zonose - leidžiamas mišrus riboto greičio (iki 20 kilometrų per valandą)
 motorinio, bevariklio transporto ir pėsčiųjų eismas. 
  
-8 straipsnis.
-Bevariklio transporto trasos keliuose ir gatvėse
+8
+straipsnis. Bevariklio transporto trasos keliuose ir gatvėse
 1. Bevariklio
 transporto priemonių eismas keliuose ir gatvėse yra priimtinas tik nesant
 galimybės nutiesti atskirus dviračių takus ar žaliakelius. 
 2. Bevariklio
-transporto trasos projektuojamos ir tiesiamos vadovaujantis norminiais statybos
-reglamentais. Aptarnavimo gatvių bei kelių su asfalto ar betono danga
-važiuojamosios dalies kraštuose trasos įrengiamos pažymint dviračių juostas.
-Pagalbinėse gatvėse bei mažo intensyvumo (iki 100 automobilių per parą)
-eismo keliuose bevariklio transporto eismas galimas mišriame motorinių
-priemonių sraute, pažymint atitinkamais kelio ženklais bei ženklinimu.
+transporto trasos projektuojamos, įrengiamos arba (ir) pažymimos vadovaujantis
+norminių dokumentų reikalavimais. Vietinės reikšmės kelių (gatvių) su asfalto
+ar betono danga važiuojamosios dalies kraštuose trasos įrengiamos pažymint
+dviračių juostas. Keliuose bevariklio transporto trasos, skirtos organizuotam
+dviračių turizmui, įrengiamos arba (ir) pažymimos:
+1) valstybinės
+reikšmės magistraliniuose keliuose – tik šalia kelio įrengtuose dviračių
+takuose;
+2) valstybinės
+reikšmės krašto keliuose – kur yra mišrus transporto priemonių srautas, kai
+eismo intensyvumas mažesnis kaip 1000 automobilių per parą; jei eismo
+intensyvumas nuo 1000 iki 3000 automobilių per parą – kai abiejose kelio pusėse
+yra paženklintos ir atskirtos ne siauresnės kaip 1 metro asfaltuotos kelkraščio
+juostos; kai didesnis eismo intensyvumas – tik šalia kelio įrengtuose dviračių
+takuose;
+3) valstybinės
+reikšmės rajoniniuose ir vietinės reikšmės keliuose – kur yra mišrus transporto
+priemonių srautas, kai eismo intensyvumas mažesnis kaip 1500 automobilių per
+parą; jei eismo intensyvumas didesnis – kai abiejose kelio pusėse yra
+paženklintos ir atskirtos ne siauresnės kaip 1 metro asfaltuotos kelkraščio
+juostos arba šalia kelio įrengtuose dviračių takuose.
 3. Pagrindinių
 bevariklio transporto trasų susikirtimuose su didelio intensyvumo ir (arba)
 greito eismo keliais (automagistralėmis, greito eismo ir pagrindinėmis
@@ -205,14 +216,21 @@ kiti saugų eismą užtikrinantys inžineriniai įrenginiai.
 4. Bevariklio
 transporto trasų susikirtimuose su geležinkeliais įrengiami tilteliai,
 tuneliai, pervažos. 
+5. Jei
+bevariklio transporto trasos yra ten, kur yra mišrus transporto priemonių
+srautas, avaringuose kelio ruožuose įrengiamos papildomos saugaus eismo
+gerinimo priemonės.
+Straipsnio pakeitimai:
+Nr. IX-2455,
+2004-09-28, Žin., 2004, Nr. 152-5526 (2004-10-16)
  
-9 straipsnis.
-Bevariklio transporto infrastruktūros plėtros principai 
+9
+straipsnis. Bevariklio transporto infrastruktūros plėtros principai 
 1. Bevariklio
 transporto trasų tinklas planuojamas ir tiesiamas kaip bendras tinklas,
 jungiantis gyvenamąsias, darbo, mokymosi, paslaugų ir poilsio vietas.
-Bevariklio transporto trasų tinklas kuriamas vadovaujantis subalansuotos
-transporto plėtros principais.
+Bevariklio transporto trasų tinklas kuriamas vadovaujantis subalansuotos transporto
+plėtros principais.
 2. Kartu su bevariklio transporto
 trasomis plėtojamas bevariklio transporto priemonių stovėjimo bei saugojimo
 aikštelių tinklas. Stovėjimo bei saugojimo aikštelės planuojamos ir įrengiamos
@@ -222,13 +240,13 @@ tarpmiestinis visuomeninis transportas (keleiviniai traukiniai, autobusai,
 troleibusai, jūrų ir upių keltai) ir jo stotys bei uostai turi būti pritaikyti
 neišardytoms bevariklio transporto priemonėms vežti kartu su naudotojais.
 4. Bevariklio
-transporto trasų tinklas žymimas vadovaujantis Kelių eismo taisyklių reikalavimais
-(kelio ženklais ir kelių ženklinimu). 
+transporto trasų tinklas žymimas vadovaujantis Kelių eismo taisyklių
+reikalavimais (kelio ženklais ir kelių ženklinimu). 
 5. Žaliakeliams ir dviračių
 takams šalia kelių, gatvių abipus trasos įrengiamos apsaugos zonos.
  
-10 straipsnis. Bevariklio
-transporto infrastruktūros plėtros programos ir planai
+10 straipsnis.
+Bevariklio transporto infrastruktūros plėtros programos ir planai
 1. Bevariklio
 transporto infrastruktūros plėtra planuojama rengiant šalies, apskričių ir
 savivaldybių bendruosius planus. Bendruosiuose planuose pateikiamos bevariklio
@@ -244,8 +262,8 @@ apskričių, savivaldybių bendrieji planai neatitinka šio įstatymo nuostatų,
 nenumato bevariklio transporto plėtros, per 2 metus nuo šio įstatymo
 įsigaliojimo šie planai turi būti pataisyti arba parengti specialieji planai. 
  
-11 straipsnis. Bevariklio
-transporto infrastruktūros projektavimas ir įrengimas
+11 straipsnis.
+Bevariklio transporto infrastruktūros projektavimas ir įrengimas
 1. Bevariklio
 transporto infrastruktūros objektai projektuojami remiantis patvirtintais
 teritorijų planavimo dokumentais ir įrengiami pagal nustatyta tvarka
@@ -264,25 +282,24 @@ sujungiant parkus, miškus, kitus želdynus, vandens telkinius.
 ir bevariklio transporto infrastruktūros plėtros pagreitinimo požiūriu
 pirmenybė teikiama esamos kelių ir gatvių infrastruktūros panaudojimui tokiu
 būdu: 
-1) bevariklio
-transporto takų tinklui tiesti šalia kelių ir gatvių; 
+1) bevariklio transporto
+takų tinklui tiesti šalia kelių ir gatvių; 
 2) dviračių
 juostoms skirti, ženklinant jas keliuose, gatvėse ir šaligatviuose; 
 3) bevariklio transporto trasoms
 įteisinti riboto greičio eismo keliuose ir gatvėse. 
  
-TREČIASIS
-SKIRSNIS
+TREČIASIS SKIRSNIS
 BEVARIKLIO
 TRANSPORTO PLĖTROS EKONOMINĖS SĄLYGOS
  
-12 straipsnis.
-Bevariklio transporto infrastruktūros nuosavybė
+12
+straipsnis. Bevariklio transporto infrastruktūros nuosavybė
 1. Bevariklio transporto
 infrastruktūra yra valstybės, savivaldybių arba juridinių ar fizinių asmenų
 nuosavybė. Žaliakeliai ir dviračių takai yra valstybės arba savivaldybės
-nuosavybė. Dviračių juostos ir nežymėtos bevariklio transporto trasos keliuose ir
-gatvėse yra neatskiriama sudedamoji kelių ir gatvių dalis. 
+nuosavybė. Dviračių juostos ir nežymėtos bevariklio transporto trasos keliuose
+ir gatvėse yra neatskiriama sudedamoji kelių ir gatvių dalis. 
 2. Krašto bevariklio transporto
 trasos yra valstybės nuosavybė, valdytojai - Susisiekimo ministerija arba
 apskričių viršininkų administracijos. 
@@ -297,8 +314,8 @@ valdytojai yra atsakingi už jų saugų eksploatavimą ir priežiūrą.
 priemonių stovėjimo ir saugojimo aikštelės su įranga yra valstybės,
 savivaldybių arba juridinių ar fizinių asmenų nuosavybė. 
  
-13
-straipsnis. Bevariklio transporto infrastruktūros plėtros ekonominės sąlygos
+13 straipsnis. Bevariklio transporto infrastruktūros
+plėtros ekonominės sąlygos
 1. Už bevariklio
 transporto infrastruktūros plėtrą ir saugų eksploatavimą yra atsakinga
 Vyriausybė ar jos įgaliotos institucijos, apskritys, savivaldybės bei
@@ -310,38 +327,20 @@ bevariklio transporto plėtros programas.
 infrastruktūrai plėsti įgyjama Lietuvos Respublikos įstatymų nustatyta tvarka
 pagal atitinkamų bendruomenių poreikius susisiekimo infrastruktūrai plėtoti. 
  
-14 straipsnis. Bevariklio transporto infrastruktūros
-finansavimas
-1 dalies redakcija iki 2004 m.
-sausio 1 d.:
-1. Krašto bevariklio transporto
-infrastruktūros įrengimas bei priežiūra finansuojama valstybės investicijų
-programose. Papildomi finansavimo šaltiniai gali būti Kelių fondo,
-Gamtos apsaugos fondo, Sveikatos fondo lėšos.
-1 dalies redakcija nuo 2004 m.
-sausio 1 d.:
+14 straipsnis. Bevariklio
+transporto infrastruktūros finansavimas
 1. Krašto bevariklio transporto
 infrastruktūros įrengimas bei priežiūra finansuojama valstybės investicijų
 programose. Papildomi finansavimo šaltiniai gali būti Kelių priežiūros
 ir plėtros programos, Savivaldybių aplinkos apsaugos rėmimo specialiosios
 programos, Savivaldybių visuomenės sveikatos rėmimo specialiosios programos
 lėšos.
- 
-2 dalies redakcija iki 2004 m.
-sausio 1 d.:
-2. Rajoninės ir vietinės
-bevariklio transporto infrastruktūros įrengimas bei priežiūra finansuojami iš
-savivaldybių biudžetų, naudojant savivaldybėms skiriamas Kelių fondo, Gamtos
-apsaugos fondo, Sveikatos fondo lėšas.
-2 dalies redakcija nuo 2004 m.
-sausio 1 d.:
 2. Rajoninės ir vietinės
 bevariklio transporto infrastruktūros įrengimas bei priežiūra finansuojami iš
 savivaldybių biudžetų, naudojant savivaldybėms skiriamas Kelių priežiūros ir
 plėtros programos, Savivaldybių aplinkos apsaugos rėmimo specialiosios
 programos, Savivaldybių visuomenės sveikatos rėmimo specialiosios programos
 lėšas.
- 
 3. Bevariklio transporto
 infrastruktūrai finansuoti gali būti naudojamos Lietuvos Respublikos ir
 užsienio šalių fizinių ar juridinių asmenų lėšos.
@@ -352,8 +351,8 @@ Straipsnio pakeitimai:
 Nr. IX-1617,
 2003-06-10, Žin., 2003, Nr. 61-2770 (2003-06-27)
  
-15
-straipsnis. Bevariklio transporto priemonių gamybos ir naudojimo skatinimas
+15 straipsnis. Bevariklio transporto priemonių
+gamybos ir naudojimo skatinimas
 1. Bevariklio
 transporto priemonių naudotojai už krašto ir savivaldybių bevariklio transporto
 infrastruktūros naudojimą neapmokestinami jokiais mokesčiais ir
@@ -371,16 +370,14 @@ konstravimas, remontas, nuoma, keleivių ir krovinių vežimas bevariklio
 transporto priemonėmis, gali ja verstis turėdami verslo liudijimą.
 Straipsnio pakeitimai:
 Nr. IX-1264,
-2002-12-10, Žin., 2002, Nr. 123-5549 (2002-12-24), įsigalioja nuo 2003–01-01
+2002-12-10, Žin., 2002, Nr. 123-5549 (2002-12-24)
  
- 
-KETVIRTASIS
-SKIRSNIS
+KETVIRTASIS SKIRSNIS
 BEVARIKLIO
 TRANSPORTO VALDYMAS IR KONTROLĖ
  
-16 straipsnis.
-Bevariklio transporto plėtros valdymas
+16
+straipsnis. Bevariklio transporto plėtros valdymas
 1. Bevariklio
 transporto plėtros valdymą vykdo Vyriausybė ar jos įgaliotos institucijos,
 apskritys ir savivaldybės. 
@@ -395,19 +392,19 @@ reguliavimui, programinėms užduotims rengti, informacijos analizei ir
 apibendrinimui prie Susisiekimo ministerijos steigiamas Bevariklio transporto
 metodinis-informacinis kabinetas.
  
-17 straipsnis.
-Teisė naudotis bevariklio transporto trasomis
+17
+straipsnis. Teisė naudotis bevariklio transporto trasomis
 Teisę naudotis
 bevariklio transporto trasomis turi visi Lietuvos Respublikos ir užsienio
 piliečiai, vadovaudamiesi šiuo, Kelių ir kitais įstatymais, Kelių eismo
 taisyklėmis, kelių ir gatvių priežiūros taisyklėmis. Eismas bevariklio
 transporto trasomis gali būti laikinai apribotas arba uždraustas, jei kyla
 pavojus eismo saugumui. Tai turi būti įforminta nustatyta tvarka. Informacija
-apie bevariklio transporto trasos uždarymą skelbiama visuomenės informavimo
-priemonėse. 
+apie bevariklio transporto trasos uždarymą skelbiama visuomenės informavimo priemonėse.
+
  
-18 straipsnis.
-Bevariklio transporto infrastruktūros valdytojų teisės 
+18
+straipsnis. Bevariklio transporto infrastruktūros valdytojų teisės 
 1. Bevariklio
 transporto infrastruktūros valdytojai, policija turi teisę nutraukti arba
 apriboti eismą bevariklio transporto trasomis, jei kyla pavojus saugiam eismui
@@ -418,8 +415,8 @@ uždaryti dėl objektų, esančių po trasa ar šalia jos, statybos, rekonstrukc
 remonto išduodamas nustatant uždarymo terminus bei rinkliavos dydžius pagal
 bevariklio transporto trasų kategorijas. 
  
-19 straipsnis.
-Teisė vairuoti bevariklio transporto priemones
+19
+straipsnis. Teisė vairuoti bevariklio transporto priemones
 1. Teisė
 vairuoti bevariklio transporto priemones žaliakeliais ir dviračių takais
 neribojama.
@@ -428,8 +425,8 @@ vairuoti bevariklio transporto priemonę bevariklio transporto trasomis gatvėse
 ir keliuose turi kiekvienas asmuo, sulaukęs 12 metų arba jaunesnio amžiaus,
 turintis Švietimo ir mokslo ministerijos nustatyta tvarka išduotą pažymėjimą.
  
-20 straipsnis.
-Bevariklio transporto eismo saugumo kontrolė
+20
+straipsnis. Bevariklio transporto eismo saugumo kontrolė
 1. Bevariklio
 transporto saugaus eismo reikalavimus nustato, bevariklio transporto priemonių
 eismo ir techninę kontrolę vykdo Vyriausybės įgaliotos institucijos.
@@ -440,8 +437,8 @@ atitinkami techniniai reglamentai.
 transporto priemonių registracijos, apskaitos reikmę ir tvarką nustato
 savivaldybės arba jų įgaliotos institucijos.
  
-21 straipsnis.
-Atsakomybė už Įstatymo pažeidimą
+21
+straipsnis. Atsakomybė už Įstatymo pažeidimą
 Už šio įstatymo
 reikalavimų pažeidimą taikoma Lietuvos Respublikos įstatymų nustatyta
 atsakomybė.
@@ -449,12 +446,9 @@ atsakomybė.
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
  
- 
-
- 
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-_________________
+______________
  
 Pakeitimai:
  
@@ -478,12 +472,19 @@ TRANSPORTO ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2004 m.
 sausio 1 d. 
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2455,
+2004-09-28, Žin., 2004, Nr. 152-5526 (2004-10-16)
+BEVARIKLIO
+TRANSPORTO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
- 
- 
 Redagavo:
-Aušrinė Trapinskienė (2003-07-03)
+Aušrinė Trapinskienė (2004-10-20)
                  
 autrap@lrs.lt
 
