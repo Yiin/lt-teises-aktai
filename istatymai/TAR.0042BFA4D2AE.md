@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0042BFA4D2AE"
 
 # Lietuvos Respublikos ūkinio teismo laikinasis įstatymas
 
-Suvestinė redakcija nuo 1995-04-26 iki 1996-08-31
+Įstatymas netenka galios 1998-09-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-651, 1998-03-03, Žin., 1998, Nr. 26-672 (1998-03-18), i. k. 0981010ISTAVIII-651
+Lietuvos Respublikos ūkinio teismo likvidavimo įstatymas
+ 
+Suvestinė redakcija nuo 1996-09-01 iki 1998-08-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 30-534, i. k. 0941010ISTA000I-433
  
@@ -87,14 +92,10 @@ Vyriausiojo valstybinio arbitro, jo pavaduotojo ir arbitrų, paskirtų ūkinio t
 
 7 straipsnis. Bylų nagrinėjimas ūkiniame teisme
 
-Ūkinis teismas nagrinėja bylas pagal Lietuvos Respublikos civilinio proceso kodekso ir kitų įstatymų normas, reguliuojančias apylinkės teismų veiklą.
+Bylas ūkiniame teisme nagrinėja vienas ūkinio teismo teisėjas, vadovaudamasis Civilinio proceso kodeksu, šiuo bei kitais įstatymais, reguliuojančiais pirmosios instancijos teismų veiklą.
 
-Nagrinėjant bylas ūkiniame teisme, netaikomos Lietuvos Respublikos civilinio proceso kodekso normos, nustatytos šio kodekso 68–72, 252–256 straipsniuose. Ūkinio teismo sprendimams netaikomi Civilinio proceso kodekso 343 straipsnio 8 punktas ir 3713 straipsnio 7 punktas. 
-Straipsnio dalies pakeitimai:
-Nr. I-851, 1995-04-11, Žin., 1995, Nr. 34-815 (1995-04-26), i. k. 0951010ISTA000I-851
- 
-
-Bylas ūkiniame teisme nagrinėja ūkinio teismo teisėjas dalyvaujant įgaliotiems šalių atstovams.
+Straipsnio pakeitimai:
+Nr. I-1447, 1996-07-09, Žin., 1996, Nr. 68-1639 (1996-07-19), i. k. 0961010ISTA00I-1447
  
 
 8 straipsnis. Atsakovo atsiliepimas į ieškininį pareiškimą
@@ -156,4 +157,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-851, 1995-04-11, Žin., 1995, Nr. 34-815 (1995-04-26), i. k. 0951010ISTA000I-851
 Dėl Lietuvos Respublikos ūkinio teismo laikinojo įstatymo pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1447, 1996-07-09, Žin., 1996, Nr. 68-1639 (1996-07-19), i. k. 0961010ISTA00I-1447
+Lietuvos Respublikos ūkinio teismo laikinojo įstatymo 7 straipsnio pakeitimo įstatymas
 
