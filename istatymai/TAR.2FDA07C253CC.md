@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2FDA07C253CC"
 
 # Lietuvos Respublikos valstybinių įmonių įstatymas
 
-Suvestinė redakcija nuo 1993-09-29 iki 1993-10-12
+Suvestinė redakcija nuo 1993-10-13 iki 1993-11-18
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 92-0; Žin. 1990, Nr.30-709, i. k. 0901010ISTA000I-604
  
@@ -33,7 +33,7 @@ Straipsnio dalies pakeitimai:
 Nr. I-977, 1991-01-22, Lietuvos aidas, 1991, Nr. 16-0 (1991-01-23); Žin., 1991, Nr. 4-107 (1991-02-10), i. k. 0911010ISTA000I-977
  
 
-2. Kai šio įstatymo tekstas taikomas ir valstybinei įmonei,ir valstybinei akcinei įmonei, vartojamas žodis „įmonė“.
+2. Kai šio įstatymo tekstas taikomas ir valstybinei įmonei, ir valstybinei akcinei įmonei, vartojamas žodis „įmonė“.
  
 
 2 straipsnis. Valstybinės įmonės (VĮ) ir valstybinės akcinės įmonės (VAĮ)
@@ -197,7 +197,10 @@ II skirsnis
 
 1) Lietuvos Respublikos Vyriausybės (vietos savivaldybės tarybos) aktas nutraukti VĮ veiklą arba pareikalauti VAĮ išpirkti (sugrąžinti) valstybės (vietos savivaldybės) kapitalą;
 
-2) teismo sprendimas pripažinti įmonę neišgalinčia išsimokėti skolų;
+2) teismo arba kreditorių susirinkimo sprendimas pripažinti įmonę bankrutavusia; 
+Straipsnio punkto pakeitimai:
+Nr. I-254, 1993-09-28, Žin., 1993, Nr. 52-995 (1993-10-13), i. k. 0931010ISTA000I-254
+ 
 
 3) valstybės organų, kontroliuojančių įmonių veiklą, nutarimas atšaukti įmonės įregistravimą už Lietuvos Respublikos įstatymų nustatytus teisės pažeidimus. Šių organų nutarimas gali būti apskųstas teismui;
 
@@ -232,7 +235,7 @@ III skirsnis
 
 1. Įmonės valdymo organai yra direktorių valdyba, stebėtojų taryba, darbuotojų ir akcininkų susirinkimai.
 
-2. Įmonės statymo, įrengimų montavimo, pasirengimo ją eksploatuoti laikotarpiu, taip pat pirmaisiais jos eksploatavimo metais steigėjas skiria laikinąją administraciją. Jeigu VĮ ar VAĮ steigiama reorganizavus mokią kitokio statuso valstybinę įmonę,tai įsteigtojoje įmonėje tuoj pat sudaromi nuolatiniai valdymo organai.
+2. Įmonės statymo, įrengimų montavimo, pasirengimo ją eksploatuoti laikotarpiu, taip pat pirmaisiais jos eksploatavimo metais steigėjas skiria laikinąją administraciją. Jeigu VĮ ar VAĮ steigiama reorganizavus mokią kitokio statuso valstybinę įmonę, tai įsteigtojoje įmonėje tuoj pat sudaromi nuolatiniai valdymo organai.
 
 3. Tuo laikotarpiu, kai įmonei vadovauja laikinoji administracija, stebėtojų taryba nesudaroma.
 
@@ -269,9 +272,9 @@ Nr. I-2927, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 199
 
 12 straipsnis. Valdybos bei jos narių įgaliojimai
 
-1. Valdyba yra kolegialus įmonės valdymo organas. Ji priima valdybos darbo reglamentą ir sprendžia komercinius-ūkinius, organizacinius bei kitus savo įgaliojimus atitinkančius klausimus.Pasibaigus kadencijai, valdyba vykdo savo įgaliojimus, kol bus sudaryta nauja valdyba.
+1. Valdyba yra kolegialus įmonės valdymo organas. Ji priima valdybos darbo reglamentą ir sprendžia komercinius-ūkinius, organizacinius bei kitus savo įgaliojimus atitinkančius klausimus. Pasibaigus kadencijai, valdyba vykdo savo įgaliojimus, kol bus sudaryta nauja valdyba.
 
-2. Valdyba nutarimus priima posėdžiuose. Jos nariai turi lygias sprendžiamojo balso teises. Valdybos darbo reglamentas priimamas 2/3 balsų dauguma, skaičiuojant pagal įstatuose apibrėžtą valdybos narių skaičių. Kiti valdybos nutarimai priimami posėdyje (balsavime) dalyvaujančių valdybos narių balsų dauguma. Posėdis (balsavimas) laikomas teisėtu, jeigu jame dalyvauja ne mažiau kaip 2/3 valdybos narių. Jeigu svarstomo klausimo nutarimo projektas paskelbiamas iš anksto, tai valdybos narys, negalintis atvykti į posėdį, turi teisę dalyvauti balsavime iki posėdžio pradžios raštu pranešdamas savo valią: „už“arba „prieš“ sprendimą. Valdybos posėdžiai šaukiami ir organizuojami pagal valdybos darbo reglamentą.
+2. Valdyba nutarimus priima posėdžiuose. Jos nariai turi lygias sprendžiamojo balso teises. Valdybos darbo reglamentas priimamas 2/3 balsų dauguma, skaičiuojant pagal įstatuose apibrėžtą valdybos narių skaičių. Kiti valdybos nutarimai priimami posėdyje (balsavime) dalyvaujančių valdybos narių balsų dauguma. Posėdis (balsavimas) laikomas teisėtu, jeigu jame dalyvauja ne mažiau kaip 2/3 valdybos narių. Jeigu svarstomo klausimo nutarimo projektas paskelbiamas iš anksto, tai valdybos narys, negalintis atvykti į posėdį, turi teisę dalyvauti balsavime iki posėdžio pradžios raštu pranešdamas savo valią: „už“ arba „prieš“ sprendimą. Valdybos posėdžiai šaukiami ir organizuojami pagal valdybos darbo reglamentą.
 
 3. Valdybos pirmininkas, vadovaudamasis įmonės įstatų, valdybos darbo reglamento ir jos nutarimais, turi teisę sudaryti visus įmonės sandorius. Įmonės įstatuose ar valdybos darbo reglamente gali būti nustatomos veiklos sritys, kuriose savarankiškai veikti ir sudaryti įmonės sandorius turi teisę ir kiti valdybos nariai. Kiti asmenys gali veikti ir sudaryti sandorius tik turėdami įmonės įgaliojimą.
 Straipsnio dalies pakeitimai:
@@ -282,13 +285,13 @@ Nr. I-2927, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 199
 
 5. Valdybai draudžiama:
 
-1) riboti stebėtojų tarybos (revizijos komisijos)įgaliojimus ar kitaip jai trukdyti stebėti įmonės komercinę-ūkinę veiklą ir tikrinti finansinį darbą;
+1) riboti stebėtojų tarybos (revizijos komisijos) įgaliojimus ar kitaip jai trukdyti stebėti įmonės komercinę-ūkinę veiklą ir tikrinti finansinį darbą;
 
 2) be stebėtojų tarybos sutikimo atleisti iš darbo ar užimamų pareigų, skirti drausmines nuobaudas darbuotojui, kuris yra stebėtojų tarybos narys;
 
-3) be akcininkų susirinkimo sutikimo priimti nutarimus,susijusius su akcininkų teisėmis ar interesais, jeigu tokius atvejus numato šis įstatymas.
+3) be akcininkų susirinkimo sutikimo priimti nutarimus, susijusius su akcininkų teisėmis ar interesais, jeigu tokius atvejus numato šis įstatymas.
 
-6. Pasibaigus ūkiniams metams, prieš stebėtojų tarybai ar akcininkų susirinkimui patvirtinant įmonės metinį balansą, valdyba privalo stebėtojų tarybai (VAĮ – ir akcininkų susirinkimui)pateikti pranešimą, kuriame turi būti atsakyta į stebėtojų tarybos (VAĮ akcininkų susirinkimo) pateiktus klausimus apie:
+6. Pasibaigus ūkiniams metams, prieš stebėtojų tarybai ar akcininkų susirinkimui patvirtinant įmonės metinį balansą, valdyba privalo stebėtojų tarybai (VAĮ – ir akcininkų susirinkimui) pateikti pranešimą, kuriame turi būti atsakyta į stebėtojų tarybos (VAĮ akcininkų susirinkimo) pateiktus klausimus apie:
 
 1) pasibaigusių metų komercinės-ūkinės bei finansinės veiklos rezultatus ir įmonės buhalterinio balanso projektą, pajamų ir išlaidų sąskaitas, pelno paskirstymo projektą, inventorizacijos ir kitus vertybių apskaitos duomenis;
 
@@ -302,21 +305,21 @@ Nr. I-2927, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 199
 
 7. VĮ stebėtojų tarybai (revizijos komisijai) patvirtinus metinį balansą, valdyba tvirtina pelno paskirstymą.
 
-8. Valdybos nariai privalo solidariai atlyginti įmonei nuostolius, padarytus dėl valdybos nutarimų, priimtų pažeidžiant įmonės įstatus ar šį įstatymą. Valdybos narys, balsavęs prieš tokį nutarimą, atleidžiamas nuo pareigos atlyginti nuostolius,jei posėdžio protokole yra įrašytas jo protestas. Nuo atsakomybės atleidžiamas ir susirinkime nedalyvavęs valdybos narys, jei per7 dienas po to, kai sužinojo ar turėjo sužinoti apie tokį nutarimą, jis įteikė posėdžio pirmininkui rašytinį protestą.Valdybos nario atsistatydinimas ar pašalinimas iš užimamų pareigų neatleidžia jo nuo padarytų dėl jo kaltės nuostolių atlyginimo.Valdybos narys gali būti atleidžiamas nuo atlyginimo nuostolių,kuriuos jis padarė atlikdamas savo pareigas, jeigu jis rėmėsi įmonės dokumentais ir kita informacija, kurios tikrumu nebuvo pagrindo abejoti, arba veikė normalios gamybinės ar ūkinės rizikos ribose.
+8. Valdybos nariai privalo solidariai atlyginti įmonei nuostolius, padarytus dėl valdybos nutarimų, priimtų pažeidžiant įmonės įstatus ar šį įstatymą. Valdybos narys, balsavęs prieš tokį nutarimą, atleidžiamas nuo pareigos atlyginti nuostolius, jei posėdžio protokole yra įrašytas jo protestas. Nuo atsakomybės atleidžiamas ir susirinkime nedalyvavęs valdybos narys, jei per7 dienas po to, kai sužinojo ar turėjo sužinoti apie tokį nutarimą, jis įteikė posėdžio pirmininkui rašytinį protestą. Valdybos nario atsistatydinimas ar pašalinimas iš užimamų pareigų neatleidžia jo nuo padarytų dėl jo kaltės nuostolių atlyginimo. Valdybos narys gali būti atleidžiamas nuo atlyginimo nuostolių, kuriuos jis padarė atlikdamas savo pareigas, jeigu jis rėmėsi įmonės dokumentais ir kita informacija, kurios tikrumu nebuvo pagrindo abejoti, arba veikė normalios gamybinės ar ūkinės rizikos ribose.
  
 
 13 straipsnis. Administracijos darbuotojai
 
-1. Įmonės operatyviajai komercinei-ūkinei veiklai vadovauja ir ją tvarko įmonės administracija. Valdyba nustato administracijos tarnybas, darbuotojų pareigas, pagal samdos sutartis priima į jas tarnautojus ir skiria jiems atlyginimus,išskyrus valdybos narius.
+1. Įmonės operatyviajai komercinei-ūkinei veiklai vadovauja ir ją tvarko įmonės administracija. Valdyba nustato administracijos tarnybas, darbuotojų pareigas, pagal samdos sutartis priima į jas tarnautojus ir skiria jiems atlyginimus, išskyrus valdybos narius.
 
-2. Kiekvienoje įmonėje turi būti administracijos vadovas(prezidentas, generalinis direktorius, direktorius) ir vyriausiasis finansininkas (buhalteris).
+2. Kiekvienoje įmonėje turi būti administracijos vadovas (prezidentas, generalinis direktorius, direktorius) ir vyriausiasis finansininkas (buhalteris).
 
 3. Įmonės administracijos vadovo pareigas gali užimti tik valdybos pirmininkas, kuris su įmone privalo turėti nuolatinius darbo santykius. Samdos sutartį su direktorių valdybos pirmininku (administracijos vadovu) sudaro steigėjas. 
 Straipsnio dalies pakeitimai:
 Nr. I-2927, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-914 (1992-10-31), i. k. 0921010ISTA00I-2927
  
 
-4. Draudžiama derinti administracijos vadovo pareigas su įmonės vyriausiojo finansininko (buhalterio) pareigomis. Administracijos vadovui draudžiama būti kitos įmonės (ūkinės bendrijos, akcinės bendrovės ir uždarosios akcinės bendrovės)valdybos pirmininku, administracijos vadovu ar atstovu.
+4. Draudžiama derinti administracijos vadovo pareigas su įmonės vyriausiojo finansininko (buhalterio) pareigomis. Administracijos vadovui draudžiama būti kitos įmonės (ūkinės bendrijos, akcinės bendrovės ir uždarosios akcinės bendrovės) valdybos pirmininku, administracijos vadovu ar atstovu.
 
 5. Neteko galios nuo 1992-10-11
 Straipsnio dalies naikinimas:
@@ -325,7 +328,7 @@ Nr. I-2927, 1992-10-06, Lietuvos aidas 1992, Nr. 199-0 (1992-10-10) ; Žin. 1992
 
 14 straipsnis. Stebėtojų tarybos sudarymas
 
-1. Šio įstatymo nurodytais atvejais, iš įmonės darbuotojų ir akcininkų susirinkimuose išrinktų asmenų 5 metams sudaroma stebėtojų taryba valdybos bei administracijos veiklai stebėti.Stebėtojų tarybos narių skaičių apibrėžia įmonės įstatai: jis turi būti ne mažesnis kaip 6 ir ne didesnis kaip 15. Nauja stebėtojų taryba turi būti sudaryta iki tebeveikiančios stebėtojų tarybos įgaliojimų pasibaigimo dienos. Jei kitokio statuso valstybinė įmonė tampa VĮ ar VAĮ, stebėtojų taryba turi būti išrinkta ne vėliau kaip per mėnesį nuo įmonės statuso pasikeitimo.
+1. Šio įstatymo nurodytais atvejais, iš įmonės darbuotojų ir akcininkų susirinkimuose išrinktų asmenų 5 metams sudaroma stebėtojų taryba valdybos bei administracijos veiklai stebėti. Stebėtojų tarybos narių skaičių apibrėžia įmonės įstatai: jis turi būti ne mažesnis kaip 6 ir ne didesnis kaip 15. Nauja stebėtojų taryba turi būti sudaryta iki tebeveikiančios stebėtojų tarybos įgaliojimų pasibaigimo dienos. Jei kitokio statuso valstybinė įmonė tampa VĮ ar VAĮ, stebėtojų taryba turi būti išrinkta ne vėliau kaip per mėnesį nuo įmonės statuso pasikeitimo.
 
 2. Stebėtojų tarybos narius slaptu balsavimu renka atskirai: akcininkai, administracijos darbuotojai, darbininkai ir kiti darbuotojai, nepriklausantys įmonės administracijai.
 
@@ -333,7 +336,7 @@ Nr. I-2927, 1992-10-06, Lietuvos aidas 1992, Nr. 199-0 (1992-10-10) ; Žin. 1992
 
 4. VĮ, kurioje nominalus akcinis kapitalas ne mažiau kaip1/20 įstatinio kapitalo, akcininkams stebėtojų taryboje skiriama1/3 vietų. VĮ, kurioje nominalus akcinis kapitalas sudaro mažiau kaip 1/20 įstatinio kapitalo, akcininkams stebėtojų taryboje skiriama viena vieta.
 
-5. VAĮ stebėtojų taryboje akcininkams skiriama 2/3 vietų,nepriklausomai nuo akcinio kapitalo dydžio.
+5. VAĮ stebėtojų taryboje akcininkams skiriama 2/3 vietų, nepriklausomai nuo akcinio kapitalo dydžio.
 
 6. VĮ ar VAĮ stebėtojų taryboje akcininkams negali būti skiriama vietų daugiau, negu įmonėje yra akcininkų.
 
@@ -350,22 +353,22 @@ Nr. I-2927, 1992-10-06, Lietuvos aidas 1992, Nr. 199-0 (1992-10-10) ; Žin. 1992
 
 3. Stebėtojų tarybos narys, pateikęs rašytinį pareiškimą stebėtojų tarybos pirmininkui, gali atsistatydinti bet kuriuo metu. Stebėtojų tarybos narys praranda teisę būti stebėtojų tarybos nariu ir privalo atsistatydinti, jeigu stebėtojų taryba daugumos savo narių nutarimu atsistatydino. Darbuotojų išrinktas stebėtojų tarybos narys privalo atsistatydinti, jeigu jis nutraukė darbo santykius su įmone arba prarado teisę būti renkamas į stebėtojų tarybą.
 
-4. Jeigu stebėtojų taryba arba jos narys šiurkščiai pažeidė savo įgaliojimus ir pareigas, teismas gali paleisti tarybą arba pašalinti narį iš stebėtojų tarybos pagal ne mažiau kaip 3 darbuotojų, turinčių teisę rinkti stebėtojų tarybos narius, taip pat įmonėje veikiančios profsąjungos arba įmonės valdybos(administracijos) pareiškimą.
+4. Jeigu stebėtojų taryba arba jos narys šiurkščiai pažeidė savo įgaliojimus ir pareigas, teismas gali paleisti tarybą arba pašalinti narį iš stebėtojų tarybos pagal ne mažiau kaip 3 darbuotojų, turinčių teisę rinkti stebėtojų tarybos narius, taip pat įmonėje veikiančios profsąjungos arba įmonės valdybos (administracijos) pareiškimą.
  
 
 16 straipsnis. Stebėtojų tarybos įgaliojimai
 
-1. Stebėtojų taryba iš savo narių renka pirmininką ir jo pavaduotoją. Už darbą stebėtojų taryboje atlyginimas nemokamas.Įmonės įstatuose gali būti numatoma mokėti už darbą stebėtojų taryboje jos pirmininkui ir pavaduotojui papildomą atlyginimą iš grynojo pelno. Jų atlyginimų dydis sudaro atitinkamai 60 ir 50procentų įmonės darbuotojų praeitų ūkinių metų užmokesčio vidurkio (skaičiuojant ir premijines išmokas).
+1. Stebėtojų taryba iš savo narių renka pirmininką ir jo pavaduotoją. Už darbą stebėtojų taryboje atlyginimas nemokamas. Įmonės įstatuose gali būti numatoma mokėti už darbą stebėtojų taryboje jos pirmininkui ir pavaduotojui papildomą atlyginimą iš grynojo pelno. Jų atlyginimų dydis sudaro atitinkamai 60 ir 50procentų įmonės darbuotojų praeitų ūkinių metų užmokesčio vidurkio (skaičiuojant ir premijines išmokas).
 
 2. Stebėtojų taryba:
 
 1) teikia siūlymus, skiria ir atleidžia (jei pagal šį įstatymą tokia teisė nėra priskirta steigėjui) valdybos pirmininką ir kitus jos narius;
 
-2) atsižvelgdama į valdybos pirmininko siūlymus, nustato netrumpiau kaip 2 metams, bet ne ilgiau kaip kadencijos laikui,valdybos nariams, dirbantiems įmonėje pagal samdos sutartį,pareiginius atlyginimus, taip pat tvirtina grynojo pelno dalį(normatyvą), kuri skiriama valdybos nariams premijuoti;
+2) atsižvelgdama į valdybos pirmininko siūlymus, nustato netrumpiau kaip 2 metams, bet ne ilgiau kaip kadencijos laikui, valdybos nariams, dirbantiems įmonėje pagal samdos sutartį, pareiginius atlyginimus, taip pat tvirtina grynojo pelno dalį (normatyvą), kuri skiriama valdybos nariams premijuoti;
 
-3) valdybos prašymu sprendžia klausimą dėl darbuotojų,išrinktų į stebėtojų tarybą, atleidimo iš darbo (užimamų pareigų)arba drausminės nuobaudos jiems skyrimo;
+3) valdybos prašymu sprendžia klausimą dėl darbuotojų, išrinktų į stebėtojų tarybą, atleidimo iš darbo (užimamų pareigų) arba drausminės nuobaudos jiems skyrimo;
 
-4) stebi ir analizuoja valdybos veiklą, finansinių išteklių naudojimą ir pelno paskirstymą, gamybos ir valdymo organizavimą,kapitalo pelningumą, darbo apmokėjimą, amortizacinius ir palūkanų už valstybinio kapitalo naudojimą atskaitymus, produkcijos(teikiamų paslaugų) konkurentabilumą, finansinės būklės perspektyvas;
+4) stebi ir analizuoja valdybos veiklą, finansinių išteklių naudojimą ir pelno paskirstymą, gamybos ir valdymo organizavimą, kapitalo pelningumą, darbo apmokėjimą, amortizacinius ir palūkanų už valstybinio kapitalo naudojimą atskaitymus, produkcijos (teikiamų paslaugų) konkurentabilumą, finansinės būklės perspektyvas;
 
 5) tikrina buhalterinės-finansinės apskaitos, inventorizacijos duomenų teisingumą;
 
@@ -377,7 +380,7 @@ Nr. I-2927, 1992-10-06, Lietuvos aidas 1992, Nr. 199-0 (1992-10-10) ; Žin. 1992
 
 9) keičia ir papildo įmonės įstatus, išskyrus 7 straipsnio 6dalyje nustatytus atvejus.
 
-3. Stebėtojų taryba neturi teisės: tvarkyti įmonės reikalų,priskirtų kitų įmonės organų kompetencijai; atšaukti valdybos nutarimus arba jos įgaliotų asmenų sprendimus; keisti valdybos narių darbo apmokėjimą dažniau kaip kartą per dvejus metus; be akcininkų susirinkimo sutikimo priimti nutarimus, susijusius su akcininkų teisėmis bei interesais.
+3. Stebėtojų taryba neturi teisės: tvarkyti įmonės reikalų, priskirtų kitų įmonės organų kompetencijai; atšaukti valdybos nutarimus arba jos įgaliotų asmenų sprendimus; keisti valdybos narių darbo apmokėjimą dažniau kaip kartą per dvejus metus; be akcininkų susirinkimo sutikimo priimti nutarimus, susijusius su akcininkų teisėmis bei interesais.
 
 4. Jeigu stebėtojų taryba nesudaryta, tai:
 
@@ -394,20 +397,20 @@ Nr. I-2927, 1992-10-06, Lietuvos aidas 1992, Nr. 199-0 (1992-10-10) ; Žin. 1992
 
 17 straipsnis. Stebėtojų tarybos posėdžiai
 
-1. Stebėtojų tarybos narys, negalėdamas atvykti į posėdį,savo nuomonę svarstomu klausimu, kuris buvo paskelbtas iš anksto,arba sprendimą dėl balsavimo gali pranešti raštu. Šiuo atveju stebėtojų tarybos narys laikomas dalyvavusiu posėdyje ir balsavusiu.
+1. Stebėtojų tarybos narys, negalėdamas atvykti į posėdį, savo nuomonę svarstomu klausimu, kuris buvo paskelbtas iš anksto, arba sprendimą dėl balsavimo gali pranešti raštu. Šiuo atveju stebėtojų tarybos narys laikomas dalyvavusiu posėdyje ir balsavusiu.
 
 2. Stebėtojų tarybos nariai turi lygias teises. Kiekvienas tarybos narys turi po vieną balsą. Jei per balsavimą balsai pasiskirsto po lygiai, lemia stebėtojų tarybos pirmininko balsas.
 
 3. Stebėtojų taryba savo nutarimus priima paprasta balsų dauguma, skaičiuojant pagal įstatuose apibrėžtą stebėtojų tarybos narių skaičių, išskyrus nutarimus dėl įmonės įstatų pakeitimo ir papildymo ar valdybos nario atšaukimo. Šie nutarimai priimami 2/3balsų dauguma, skaičiuojant pagal įstatuose apibrėžtą stebėtojų tarybos narių skaičių. VĮ pirmoji stebėtojų taryba priima nutarimus dėl įmonės įstatų pakeitimo ar papildymo paprasta balsų dauguma.
 
-4. Stebėtojų tarybos posėdžiai organizuojami pagal sudarytą grafiką, ne rečiau kaip vieną kartą per ketvirtį. Iškilus nenumatytiems klausimams, gali būti organizuojami neeiliniai posėdžiai, apie kurių datą ir dienotvarkę turi būti pranešta kiekvienam tarybos nariui raštu prieš 5 dienas. Posėdžius šaukia stebėtojų tarybos pirmininkas, o kai jo nėra – pirmininko pavaduotojas. Reikalauti sušaukti posėdį taip pat turi teisę 1/3stebėtojų tarybos narių, skaičiuojant pagal įstatuose apibrėžtą narių skaičių, bet ne mažiau kaip 3 asmenys. Iš anksto paskelbto posėdžio dienotvarkė gali būti pakeista arba papildyta,jeigu tokiam pasiūlymui pritaria visi posėdyje dalyvaujantys stebėtojų tarybos nariai.
+4. Stebėtojų tarybos posėdžiai organizuojami pagal sudarytą grafiką, ne rečiau kaip vieną kartą per ketvirtį. Iškilus nenumatytiems klausimams, gali būti organizuojami neeiliniai posėdžiai, apie kurių datą ir dienotvarkę turi būti pranešta kiekvienam tarybos nariui raštu prieš 5 dienas. Posėdžius šaukia stebėtojų tarybos pirmininkas, o kai jo nėra – pirmininko pavaduotojas. Reikalauti sušaukti posėdį taip pat turi teisę 1/3stebėtojų tarybos narių, skaičiuojant pagal įstatuose apibrėžtą narių skaičių, bet ne mažiau kaip 3 asmenys. Iš anksto paskelbto posėdžio dienotvarkė gali būti pakeista arba papildyta, jeigu tokiam pasiūlymui pritaria visi posėdyje dalyvaujantys stebėtojų tarybos nariai.
  
 
 18 straipsnis. Rinkiminė komisija
 
-1. Rinkiminė komisija sudaroma darbuotojų renkamų stebėtojų tarybos ( VĮ revizijos komisijos) narių arba valdybos narių rinkimams organizuoti. Rinkiminės komisijos narius ir jos pirmininką skiria stebėtojų taryba. Jei jos nėra, rinkiminės komisijos narius skiria valdyba ar įmonės administracija,atsižvelgdama į darbuotojų siūlymus.
+1. Rinkiminė komisija sudaroma darbuotojų renkamų stebėtojų tarybos ( VĮ revizijos komisijos) narių arba valdybos narių rinkimams organizuoti. Rinkiminės komisijos narius ir jos pirmininką skiria stebėtojų taryba. Jei jos nėra, rinkiminės komisijos narius skiria valdyba ar įmonės administracija, atsižvelgdama į darbuotojų siūlymus.
 
-2. Rinkiminėje komisijoje turi būti ne mažiau kaip 3 įmonės darbuotojai. Joje turi būti bent po vieną administracijos ir kitų darbuotojų, nepriskirtų prie administracijos, atstovą.Rinkiminės komisijos nariu gali būti ir visuomeninių organizacijų atstovas.
+2. Rinkiminėje komisijoje turi būti ne mažiau kaip 3 įmonės darbuotojai. Joje turi būti bent po vieną administracijos ir kitų darbuotojų, nepriskirtų prie administracijos, atstovą. Rinkiminės komisijos nariu gali būti ir visuomeninių organizacijų atstovas.
 
 3. Sudarytoji rinkiminė komisija tuoj pat turi nustatyti rinkiminių susirinkimų (atskirų balsavimų) laiką ir vietą, organizuoti rinkimus, susumuoti, tvirtinti ir paskelbti jų rezultatus.
 
@@ -416,27 +419,27 @@ Nr. I-2927, 1992-10-06, Lietuvos aidas 1992, Nr. 199-0 (1992-10-10) ; Žin. 1992
 
 19 straipsnis. Stebėtojų tarybos narių iš darbuotojų rinkimai
 
-1. Stebėtojų tarybos nariai slaptu balsavimu renkami(atšaukiami) darbuotojų rinkiminiuose susirinkimuose arba atskiruose balsavimuose, kurie organizuojami ne ankščiau kaip prieš 1 mėnesį iki stebėtojų tarybos įgaliojimų pabaigos.
+1. Stebėtojų tarybos nariai slaptu balsavimu renkami (atšaukiami) darbuotojų rinkiminiuose susirinkimuose arba atskiruose balsavimuose, kurie organizuojami ne ankščiau kaip prieš 1 mėnesį iki stebėtojų tarybos įgaliojimų pabaigos.
 
 2. Stebėtojų tarybos narius rinkti (atšaukti) turi teisę visi pilnamečiai įmonės darbuotojai, išdirbę joje ne mažiau kaip6 pastaruosius mėnesius. Nepertrauktojo darbo toje įmonėje stažo cenzas netaikomas, jei įmonė veikia trumpiau nei 1 metus.
 
 3. Stebėtojų tarybos nariai iš įmonės darbuotojų, kurie pagal šio įstatymo 14 straipsnio 3 dalį nepriskirti prie administracijos darbuotojų, renkami (atšaukiami) ne administracijos darbuotojų susirinkime. Jei dėl gamybos pobūdžio visi darbuotojai vienu metu negali kartu susirinkti, organizuojami atskiri balsavimai.
 
-4. Ne administracijos darbuotojų kandidatai į stebėtojų tarybos narius iškeliami šios grupės darbuotojų susirinkime(atstovų konferencijoje). Organizaciniu ir vietos požiūriu atskirtų įmonės padalinių delegatai į konferenciją renkami proporcingai juose dirbančių šios grupės darbuotojų skaičiui.Atstovavimo normą į įmonės konferenciją nustato rinkiminė komisija, tačiau ji turi užtikrinti, kad į konferenciją būtų deleguojama ne mažiau kaip 1/10 darbuotojų. Kandidatų turi būti iškelta daugiau, negu rinkiminės komisijos nustatytas šiai darbuotojų grupei vietų skaičius stebėtojų taryboje. Maksimalus kandidatų skaičius neribojamas. Kandidatas iškeliamas atviru balsavimu, jei jo kandidatūrai pritaria ne mažiau kaip 1/5susirinkimo (konferencijos) dalyvių. Turintys rinkimų teisę darbuotojai gali pateikti rinkiminei komisijai kandidatų sąrašą,pasirašytą ne mažiau kaip 1/10 atitinkamos darbuotojų grupės narių, kurių turi būti ne mažiau kaip 10. Bet kuriuo atveju pakanka, jei kandidatų sąrašas pasirašytas 100 rinkimų teisę turinčių šios grupės darbuotojų.
+4. Ne administracijos darbuotojų kandidatai į stebėtojų tarybos narius iškeliami šios grupės darbuotojų susirinkime (atstovų konferencijoje). Organizaciniu ir vietos požiūriu atskirtų įmonės padalinių delegatai į konferenciją renkami proporcingai juose dirbančių šios grupės darbuotojų skaičiui. Atstovavimo normą į įmonės konferenciją nustato rinkiminė komisija, tačiau ji turi užtikrinti, kad į konferenciją būtų deleguojama ne mažiau kaip 1/10 darbuotojų. Kandidatų turi būti iškelta daugiau, negu rinkiminės komisijos nustatytas šiai darbuotojų grupei vietų skaičius stebėtojų taryboje. Maksimalus kandidatų skaičius neribojamas. Kandidatas iškeliamas atviru balsavimu, jei jo kandidatūrai pritaria ne mažiau kaip 1/5susirinkimo (konferencijos) dalyvių. Turintys rinkimų teisę darbuotojai gali pateikti rinkiminei komisijai kandidatų sąrašą, pasirašytą ne mažiau kaip 1/10 atitinkamos darbuotojų grupės narių, kurių turi būti ne mažiau kaip 10. Bet kuriuo atveju pakanka, jei kandidatų sąrašas pasirašytas 100 rinkimų teisę turinčių šios grupės darbuotojų.
 
 5. Administracijos darbuotojų kandidatai į stebėtojų tarybos narius iškeliami ir nariai renkami visuotiniame šių darbuotojų susirinkime pagal šio straipsnio taisykles.
 
 6. Rinkiminių susirinkimų ( balsavimo) laikas turi būti paskelbtas kiekviename įmonės padalinyje prieš 10 dienų, o pakartotinių rinkimų – prieš 5 dienas.
 
-7. Susirinkimo pradžioje turi būti sudaromas darbuotojų susirinkimo (konferencijos) dalyvių, turinčių teisę balsuoti,sąrašas, kuriame nurodoma dalyvio pavardė ir vardas. Jeigu stebėtojų tarybos nariai renkami ne susirinkime(konferencijoje), bet organizuojamas atskiras balsavimas, tai sudaromas darbuotojų, turinčių teisę balsuoti, sąrašas. Sąrašą pasirašo visi rinkiminės komisijos nariai. Darbuotojų rinkiminis susirinkimas (konferencija) turi teisę priimti nutarimus(balsavimas laikomas įvykusiu) , jeigu jame dalyvauja ne mažiau kaip 1/2 atitinkamos grupės (administracijos arba ne administracijos) darbuotojų (atstovų). Jeigu į susirinkimą(konferenciją) nesusirenka arba atskirame balsavime nedalyvauja reikiamas darbuotojų (atstovų) skaičius, tai per 15 dienų šaukiamas pakartotinis susirinkimas (atskiras balsavimas). Šis susirinkimas (atskiras balsavimas) laikomas teisėtu nepriklausomai nuo jame dalyvavusių darbuotojų (atstovų) skaičiaus.
+7. Susirinkimo pradžioje turi būti sudaromas darbuotojų susirinkimo (konferencijos) dalyvių, turinčių teisę balsuoti, sąrašas, kuriame nurodoma dalyvio pavardė ir vardas. Jeigu stebėtojų tarybos nariai renkami ne susirinkime (konferencijoje), bet organizuojamas atskiras balsavimas, tai sudaromas darbuotojų, turinčių teisę balsuoti, sąrašas. Sąrašą pasirašo visi rinkiminės komisijos nariai. Darbuotojų rinkiminis susirinkimas (konferencija) turi teisę priimti nutarimus (balsavimas laikomas įvykusiu) , jeigu jame dalyvauja ne mažiau kaip 1/2 atitinkamos grupės (administracijos arba ne administracijos) darbuotojų (atstovų). Jeigu į susirinkimą (konferenciją) nesusirenka arba atskirame balsavime nedalyvauja reikiamas darbuotojų (atstovų) skaičius, tai per 15 dienų šaukiamas pakartotinis susirinkimas (atskiras balsavimas). Šis susirinkimas (atskiras balsavimas) laikomas teisėtu nepriklausomai nuo jame dalyvavusių darbuotojų (atstovų) skaičiaus.
 
 8. Susirinkimas (atskiras balsavimas) turi būti protokoluojamas.
 
-9. Susirinkimo (atskiro balsavimo) dalyvis turi tiek balsų,kiek numatoma rinkti stebėtojų tarybos narių. Rinkimų rezultatai nustatomi pagal didesnį balsavusių už kandidatą skaičių.
+9. Susirinkimo (atskiro balsavimo) dalyvis turi tiek balsų, kiek numatoma rinkti stebėtojų tarybos narių. Rinkimų rezultatai nustatomi pagal didesnį balsavusių už kandidatą skaičių.
 
-10. Rinkiminis susirinkimas (atskiras balsavimas) dėl stebėtojų tarybos narių atšaukimo ar perrinkimo turi būti surengtas ne vėliau kaip per 2 mėnesius atsiradus būtinumui išrinkti ar perrinkti stebėtojų tarybos narius. Stebėtojų tarybos nario rinkimai vietoj nutraukusio veiklą (atsistatydinusio)nario, gali būti nevykdomi, jeigu iki jos kadencijos pabaigos liko mažiau nei metai.
+10. Rinkiminis susirinkimas (atskiras balsavimas) dėl stebėtojų tarybos narių atšaukimo ar perrinkimo turi būti surengtas ne vėliau kaip per 2 mėnesius atsiradus būtinumui išrinkti ar perrinkti stebėtojų tarybos narius. Stebėtojų tarybos nario rinkimai vietoj nutraukusio veiklą (atsistatydinusio) nario, gali būti nevykdomi, jeigu iki jos kadencijos pabaigos liko mažiau nei metai.
 
-11. Ginčus dėl rinkimų sprendžia įmonės steigėjas, kurio sprendimą galima skųsti teismui. Pareiškimą teismui dėl rinkimų užginčijimo turi teisę paduoti ne mažiau kaip 3 darbuotojai,turintys teisę rinkti stebėtojų tarybos narius, bet kuri įmonėje veikianti profsąjunga arba įmonės valdyba (administracija).
+11. Ginčus dėl rinkimų sprendžia įmonės steigėjas, kurio sprendimą galima skųsti teismui. Pareiškimą teismui dėl rinkimų užginčijimo turi teisę paduoti ne mažiau kaip 3 darbuotojai, turintys teisę rinkti stebėtojų tarybos narius, bet kuri įmonėje veikianti profsąjunga arba įmonės valdyba (administracija).
  
 
 20 straipsnis. Darbuotojų visuotiniai susirinkimai
@@ -462,7 +465,7 @@ Akcininkas gali patikėti atstovauti savo interesams susirinkime su balsavimo te
 
 2) valdybos prašymu suteikti jai teisę išleisti privilegijuotąsias akcijas;
 
-3) šio įstatymo numatytais atvejais spręsti akcinio kapitalo likvidavimo (sumažinimo) arba valstybei (vietos savivaldybei) priklausančios kapitalo dalies išpirkimo (sugrąžinimo)klausimus.
+3) šio įstatymo numatytais atvejais spręsti akcinio kapitalo likvidavimo (sumažinimo) arba valstybei (vietos savivaldybei) priklausančios kapitalo dalies išpirkimo (sugrąžinimo) klausimus.
 
 3. VAĮ akcininkų susirinkimas taip pat turi teisę:
 
@@ -480,15 +483,15 @@ Akcininkas gali patikėti atstovauti savo interesams susirinkime su balsavimo te
 
 5. Akcininkų susirinkimą šaukia valdyba. Iniciatyvos teisę sušaukti susirinkimą turi stebėtojų taryba arba akcininkų grupė, kurių turimų akcijų nominali vertė sudaro ne mažiau kaip 1/20nominalaus akcinio kapitalo.
 
-6. Pranešimas apie susirinkimą turi būti paskelbtas viešai,įstatuose nurodytu būdu ne vėliau kaip prieš 15 dienų iki susirinkimo ir ne vėliau kaip prieš 7 dienas iki pakartotinio susirinkimo. Pranešime nurodoma: įmonės pavadinimas (firmos vardas) ir buveinė, susirinkimo data ir vieta, dienotvarkė,susirinkimo rengėjai.
+6. Pranešimas apie susirinkimą turi būti paskelbtas viešai, įstatuose nurodytu būdu ne vėliau kaip prieš 15 dienų iki susirinkimo ir ne vėliau kaip prieš 7 dienas iki pakartotinio susirinkimo. Pranešime nurodoma: įmonės pavadinimas (firmos vardas) ir buveinė, susirinkimo data ir vieta, dienotvarkė, susirinkimo rengėjai.
 
 7. Prieš susirinkimą turi būti sudarytas į susirinkimą atvykusių akcininkų (jų įgaliotinių) sąrašas, kuriame nurodoma kiekvieno dalyvio turimų balsų skaičius. Šį sąrašą pasirašo susirinkimo pirmininkas ir sekretorius.
 
 8. Susirinkime iš akcininkų išrenkamas susirinkimo pirmininkas ir sekretorius. Susirinkimas gali svarstyti dienotvarkėje nenumatytus klausimus ir priimti nutarimus, jei susirinkimo dalyviai atstovauja akcininkams, turintiems ne mažiau kaip 3/4 visų balsų.
 
-9. Akcininkų susirinkimas gali priimti nutarimus, jeigu jame dalyvauja akcininkai (jų įgaliotiniai), turintys daugiau kaip 1/2visų balsų. Jei nesusirenka reikiamas akcininkų (įgaliotinių)skaičius, tai per 15 dienų šaukiamas pakartotinis susirinkimas.Šis susirinkimas turi teisę priimti nutarimus nepriklausomai nuo jame dalyvaujančių akcininkų skaičiaus.
+9. Akcininkų susirinkimas gali priimti nutarimus, jeigu jame dalyvauja akcininkai (jų įgaliotiniai), turintys daugiau kaip 1/2visų balsų. Jei nesusirenka reikiamas akcininkų (įgaliotinių) skaičius, tai per 15 dienų šaukiamas pakartotinis susirinkimas. Šis susirinkimas turi teisę priimti nutarimus nepriklausomai nuo jame dalyvaujančių akcininkų skaičiaus.
 
-10. Akcininkų susirinkimas nutarimus priima paprasta susirinkimo dalyvių balsų dauguma, išskyrus nutarimus dėl akcininkų išrinktų stebėtojų tarybos arba valdybos narių atšaukimo,taip pat dėl šio straipsnio 3 dalies 1, 2, 4, ir 5 punktuose bei10 straipsnio 4 dalies 2 punkte numatytų klausimų. Šiais atvejais nutarimas priimamas 2/3 balsų dauguma.
+10. Akcininkų susirinkimas nutarimus priima paprasta susirinkimo dalyvių balsų dauguma, išskyrus nutarimus dėl akcininkų išrinktų stebėtojų tarybos arba valdybos narių atšaukimo, taip pat dėl šio straipsnio 3 dalies 1, 2, 4, ir 5 punktuose bei10 straipsnio 4 dalies 2 punkte numatytų klausimų. Šiais atvejais nutarimas priimamas 2/3 balsų dauguma.
 
 11. Akcininkų susirinkimas, turi būti protokoluojamas. Prie protokolo pridedamas susirinkimo dalyvių sąrašas.
  
@@ -499,16 +502,16 @@ VALSTYBINIS KAPITALAS
 
 22 straipsnis. Valstybinio kapitalo, patikėto įmonei, nuosavybė
 
-1. Įmonei patikėtas Lietuvos valstybės kapitalas, kurį sudaro valstybės finansinės (piniginės) investicijos bei palūkanos už valstybės kapitalo naudojimą, nuosavybės teise priklauso Lietuvos Respublikai. Jeigu įmonės naudojamas valstybinis kapitalas yra sukurtas iš vietos savivaldybės lėšų ar kitokio jos turto, nuosavybės teisė į šį kapitalą priklauso vietos savivaldybei. Valstybei (vietos savivaldybei) nuosavybės teise taip pat priklauso amortizacinių atskaitymų dalis, kuri yra proporcinga valstybinio kapitalo daliai įmonės kapitale,neįskaitant skolinto kapitalo.
+1. Įmonei patikėtas Lietuvos valstybės kapitalas, kurį sudaro valstybės finansinės (piniginės) investicijos bei palūkanos už valstybės kapitalo naudojimą, nuosavybės teise priklauso Lietuvos Respublikai. Jeigu įmonės naudojamas valstybinis kapitalas yra sukurtas iš vietos savivaldybės lėšų ar kitokio jos turto, nuosavybės teisė į šį kapitalą priklauso vietos savivaldybei. Valstybei (vietos savivaldybei) nuosavybės teise taip pat priklauso amortizacinių atskaitymų dalis, kuri yra proporcinga valstybinio kapitalo daliai įmonės kapitale, neįskaitant skolinto kapitalo.
 
-2. Valstybinio kapitalo įmonė neturi teisės naudoti darbo užmokesčiui, premijoms, dividendams ar kitiems išmokėjimams,nekomercinei veiklai finansuoti.
+2. Valstybinio kapitalo įmonė neturi teisės naudoti darbo užmokesčiui, premijoms, dividendams ar kitiems išmokėjimams, nekomercinei veiklai finansuoti.
 
-3. Įmonė privalo užtikrinti jai patikėto valstybės (vietos savivaldybės) kapitalo išsaugojimą ir pelningą naudojimą.Valstybinis kapitalas gali būti sumažintas tik įstatymų nustatytais atvejais.
+3. Įmonė privalo užtikrinti jai patikėto valstybės (vietos savivaldybės) kapitalo išsaugojimą ir pelningą naudojimą. Valstybinis kapitalas gali būti sumažintas tik įstatymų nustatytais atvejais.
  
 
 23 straipsnis. Palūkanos už valstybinio kapitalo naudojimą
 
-1. Įmonė valstybinį kapitalą naudoja už palūkanas, kurios atskaitomos iš įmonės pelno, likusio sumokėjus (atskaičius)mokesčius į biudžetą.
+1. Įmonė valstybinį kapitalą naudoja už palūkanas, kurios atskaitomos iš įmonės pelno, likusio sumokėjus (atskaičius) mokesčius į biudžetą.
 
 2. Palūkanų už valstybinio kapitalo naudojimą vieningas visoms įmonėms normas tvirtina:
 
@@ -516,18 +519,21 @@ VALSTYBINIS KAPITALAS
 
 2) vietos savivaldybės taryba arba jos pavedimu valdyba, jei kapitalas nuosavybės teise priklauso vietos savivaldybei.
 
-3. Įmonė, iš pelno nesuformavusi normatyvinių palūkanų už valstybinio kapitalo naudojimą, laikoma pažeidusia pinigines prievoles ir jai taikomos šio įstatymo nustatytos sankcijos.Įmonės valstybinių finansinių išteklių investavimas į socialinius bei kultūrinius objektus neatleidžia nuo palūkanų mokėjimo už šiems tikslams panaudotą valstybinį kapitalą.
+3. Įmonė, iš pelno nesuformavusi normatyvinių palūkanų už valstybinio kapitalo naudojimą, laikoma pažeidusia pinigines prievoles ir jai taikomos šio įstatymo nustatytos sankcijos. Įmonės valstybinių finansinių išteklių investavimas į socialinius bei kultūrinius objektus neatleidžia nuo palūkanų mokėjimo už šiems tikslams panaudotą valstybinį kapitalą.
 
 4. VĮ valdyba turi teisę ne mažiau kaip 2/3 atskaitytų palūkanų už valstybės (vietos savivaldybės) kapitalo naudojimą palikti šioje įmonėje ir padidinti jos naudojamą valstybinį kapitalą. Lietuvos Respublikos Vyriausybė (vietos savivaldybės taryba) turi teisę nustatyti atskiras (specifinės paskirties) iš amortizacinių atskaitymų finansuojamas įmones, kurios atskaitytas palūkanas už valstybinio kapitalo naudojimą turi perduoti į biudžetą.
 
-5. VAĮ palūkanos už valstybės (vietos savivaldybės) kapitalo naudojimą perduodamos į Lietuvos valstybės (vietos savivaldybės)biudžetą. Lietuvos Respublikos Vyriausybė (vietos savivaldybės taryba) gali dalį palūkanų palikti (investuoti) įmonėje jos prašymu ir padidinti valstybinį kapitalą įmonėje.
+5. VAĮ palūkanos už valstybės (vietos savivaldybės) kapitalo naudojimą perduodamos į Lietuvos valstybės (vietos savivaldybės) biudžetą. Lietuvos Respublikos Vyriausybė (vietos savivaldybės taryba) gali dalį palūkanų palikti (investuoti) įmonėje jos prašymu ir padidinti valstybinį kapitalą įmonėje.
 
-6. Palūkanos už valstybinio kapitalo naudojimą atskaitomos(sumokamos) kiekvieną mėnesį Lietuvos Respublikos finansų ministerijos nustatyta tvarka.
+6. Palūkanos už valstybinio kapitalo naudojimą atskaitomos (sumokamos) kiekvieną mėnesį Lietuvos Respublikos finansų ministerijos nustatyta tvarka.
  
 
 24 straipsnis. Valstybinio kapitalo draudimas
 
-1. Įmonė privalo apdrausti turimą valstybinį kapitalą Lietuvos Respublikoje įregistruotoje ir Lietuvos banko pripažintoje patikima draudimo organizacijoje arba mokėti ekvivalentišką draudimo mokestį valstybei (vietos savivaldybei).
+1. Įmonė privalo apdrausti turimą valstybinį kapitalą Lietuvos Respublikoje įregistruotoje draudimo organizacijoje arba mokėti ekvivalentišką draudimo mokestį valstybei (vietos savivaldybei).
+Straipsnio dalies pakeitimai:
+Nr. I-254, 1993-09-28, Žin., 1993, Nr. 52-995 (1993-10-13), i. k. 0931010ISTA000I-254
+ 
 
 2. Mokėjimų dydis draudimo organizacijai nustatomas draudimo sutartimi. Jeigu valstybinio kapitalo draudimo mokesčiai mokami valstybei (vietos savivaldybei), jų vieningus normatyvus kiekvienoje ūkinės veiklos srityje nustato Lietuvos Respublikos finansų ministerija (vietos savivaldybės taryba arba jos pavedimu valdyba).
  
@@ -549,26 +555,26 @@ VALSTYBINIS KAPITALAS
 
 26 straipsnis. Įmonės teisė investuoti valstybinius finansinius išteklius
 
-1. Jei įmonė nori valstybės (vietos savivaldybės) kapitalą investuoti kitoje valstybėje (kitos savivaldybės teritorijoje),tai ji privalo gauti iš Lietuvos Respublikos finansų ministerijos(vietos savivaldybės organo) leidimą. Valstybinis kapitalas,kuris investuojamas kitose valstybėse, turi būti apdraustas Lietuvos banko patikima pripažintoje banko įstaigoje arba draudimo organizacijoje. Prie pareiškimo leidimui gauti pridedamos Lietuvos Respublikos finansų ministerijos nustatytos formos pažyma apie investicijų objekto ir įmonės ekonominę bei finansinę būklę ir valstybės (vietos savivaldybės) turto apdraudimo pažyma. Šis leidimas turi būti išduotas per 3O dienų nuo pareiškimo padavimo dienos, arba per tą laiką valstybės organas gali motyvuotai atsisakyti išduoti tokį leidimą. Atsisakyti išduoti leidimą galima, jei pažeista šio įstatymo nustatytų dokumentų pateikimo tvarka arba, jeigu įmonė ar kitoks investicijų objektas yra nepelningas ir negalės užtikrinti nustatyto dydžio palūkanų už valstybinio kapitalo naudojimą, arba jeigu tai prieštarauja valstybės (vietos savivaldybės) interesams.
+1. Jei įmonė nori valstybės (vietos savivaldybės) kapitalą investuoti kitoje valstybėje (kitos savivaldybės teritorijoje), tai ji privalo gauti iš Lietuvos Respublikos finansų ministerijos (vietos savivaldybės organo) leidimą. Valstybinis kapitalas, kuris investuojamas kitose valstybėse, turi būti apdraustas Lietuvos banko patikima pripažintoje banko įstaigoje arba draudimo organizacijoje. Prie pareiškimo leidimui gauti pridedamos Lietuvos Respublikos finansų ministerijos nustatytos formos pažyma apie investicijų objekto ir įmonės ekonominę bei finansinę būklę ir valstybės (vietos savivaldybės) turto apdraudimo pažyma. Šis leidimas turi būti išduotas per 3O dienų nuo pareiškimo padavimo dienos, arba per tą laiką valstybės organas gali motyvuotai atsisakyti išduoti tokį leidimą. Atsisakyti išduoti leidimą galima, jei pažeista šio įstatymo nustatytų dokumentų pateikimo tvarka arba, jeigu įmonė ar kitoks investicijų objektas yra nepelningas ir negalės užtikrinti nustatyto dydžio palūkanų už valstybinio kapitalo naudojimą, arba jeigu tai prieštarauja valstybės (vietos savivaldybės) interesams.
 
 2. Jei valstybės (vietos savivaldybės) kapitalas investuojamas kitoje valstybėje (kitos vietos savivaldybės teritorijoje), normatyvinės palūkanos už šio kapitalo naudojimą perduodamos į Lietuvos valstybės (vietos savivaldybės) biudžetą.
 
-3. Į kitas įmones (ūkines bendrijas, akcines bendroves ir uždarąsias akcines bendroves) investuojamas, banko įstaigose laikomas ar kitaip skolinamas valstybinis kapitalas negali būti didesnis kaip 1/2 įmonėje ir jos filialuose turimų valstybinių išteklių. Jeigu įmonė pažeidžia šią taisyklę, steigėjas turi jos pareikalauti sugrąžinti valstybei (vietos savivaldybei)atitinkamą dalį kitose įmonėse investuoto valstybinio kapitalo.
+3. Į kitas įmones (ūkines bendrijas, akcines bendroves ir uždarąsias akcines bendroves) investuojamas, banko įstaigose laikomas ar kitaip skolinamas valstybinis kapitalas negali būti didesnis kaip 1/2 įmonėje ir jos filialuose turimų valstybinių išteklių. Jeigu įmonė pažeidžia šią taisyklę, steigėjas turi jos pareikalauti sugrąžinti valstybei (vietos savivaldybei) atitinkamą dalį kitose įmonėse investuoto valstybinio kapitalo.
 
 4. Kasmetinės investicijos į ilgalaikes (ilgesnes kaip 12mėnesių) objektų statybas bei įrengimų montavimo darbus yra diskontuojamos, perskaičiuojant šių investicijų vertę įgyvendinimo pabaigoje pagal palūkanų už valstybinio kapitalo naudojimą normatyvus. Per objektų statybos (įrengimų montavimo) laiką, bet neilgiau kaip 3 metus, įmonė turi teisę palūkanų už investuotą valstybinį kapitalą neatskaityti iš pelno, tačiau šios palūkanos turi būti priskaičiuojamos įmonės valstybinio kapitalo sąskaitoje.
  
 
 27 straipsnis. Valstybinio kapitalo mažinimas
 
-1. Įmonės turimas valstybinis kapitalas Lietuvos valstybės(vietos savivaldybės) biudžetui negrąžinamas, išskyrus šiuos atvejus:
+1. Įmonės turimas valstybinis kapitalas Lietuvos valstybės (vietos savivaldybės) biudžetui negrąžinamas, išskyrus šiuos atvejus:
 
-1) jeigu įstatymų nustatytais atvejais įmonės veikla nutraukiama arba valstybinis kapitalas sumažinamas(likviduojamas);
+1) jeigu įstatymų nustatytais atvejais įmonės veikla nutraukiama arba valstybinis kapitalas sumažinamas (likviduojamas);
 
 2) jeigu įmonė sumažina turimo valstybinio kapitalo dydį.
 
-2. Jeigu VĮ negali efektyviai panaudoti turimų valstybinių piniginių išteklių, dalį valstybinio kapitalo palūkanų ar amortizacinių atskaitymų ji gali pervesti į valstybės (vietos savivaldybės) biudžetą, arba Lietuvos Respublikos finansų ministerijai (vietos savivaldybės tarybai ar jos pavedimu valdybai)sutikus, neatlygintinai perduoti kitoms valstybės (vietos savivaldybės) įmonėms.
+2. Jeigu VĮ negali efektyviai panaudoti turimų valstybinių piniginių išteklių, dalį valstybinio kapitalo palūkanų ar amortizacinių atskaitymų ji gali pervesti į valstybės (vietos savivaldybės) biudžetą, arba Lietuvos Respublikos finansų ministerijai (vietos savivaldybės tarybai ar jos pavedimu valdybai) sutikus, neatlygintinai perduoti kitoms valstybės (vietos savivaldybės) įmonėms.
 
-3. Pagal šį įstatymą ir kitus privatizavimą reguliuojančius norminius aktus Lietuvos Respublikos Vyriausybei (vietos savivaldybės tarybai) pareikalavus likviduoti VAĮ valstybinį kapitalą arba reorganizuoti VĮ į VAĮ, akcininkai ar darbuotojai,vadovaudamiesi neapyvartinių aktyvų amortizavimo normomis,privalo išpirkti (sugrąžinti) valstybinį kapitalą per atitinkamo dydžio neapyvartinių aktyvų amortizavimo laikotarpį. Jeigu įmonė šių reikalavimų neįvykdo, Vyriausybės (vietos savivaldybės tarybos) nutarimu ji gali būti likviduojama.
+3. Pagal šį įstatymą ir kitus privatizavimą reguliuojančius norminius aktus Lietuvos Respublikos Vyriausybei (vietos savivaldybės tarybai) pareikalavus likviduoti VAĮ valstybinį kapitalą arba reorganizuoti VĮ į VAĮ, akcininkai ar darbuotojai, vadovaudamiesi neapyvartinių aktyvų amortizavimo normomis, privalo išpirkti (sugrąžinti) valstybinį kapitalą per atitinkamo dydžio neapyvartinių aktyvų amortizavimo laikotarpį. Jeigu įmonė šių reikalavimų neįvykdo, Vyriausybės (vietos savivaldybės tarybos) nutarimu ji gali būti likviduojama.
  
 
 V skirsnis
@@ -591,7 +597,7 @@ AKCINIS KAPITALAS
 
 4. Pelno rezervo fondas formuojamas iš pelno dalies, kuri neišmokėta dividendų ir premijų forma ar nepanaudota kitaip ir investuojama į šią ar kitas įmones.
 
-5. Nominalaus akcinio kapitalo rezervo ir pelno rezervo fondai negali būti didesni kaip 1/10 įmonės įstatinio kapitalo.Priešingu atveju, per 3 mėnesius po metinio balanso patvirtinimo,viršnorminiai rezervai nukreipiami į įstatinį kapitalą ir padidinamas nominalus akcinis kapitalas pagal šio įstatymo 31straipsnio taisykles. Šių taisyklių nesilaikant, įmonės steigėjas viršnorminius rezervus gali nukreipti į įmonės įstatinį kapitalą,jeigu to raštu pareikalauja bet kuris iš akcininkų ar VĮ darbuotojų. Jeigu įmonės steigėjas tokio sprendimo nepriima,nurodytieji asmenys turi teisę kreiptis į teismą.
+5. Nominalaus akcinio kapitalo rezervo ir pelno rezervo fondai negali būti didesni kaip 1/10 įmonės įstatinio kapitalo. Priešingu atveju, per 3 mėnesius po metinio balanso patvirtinimo, viršnorminiai rezervai nukreipiami į įstatinį kapitalą ir padidinamas nominalus akcinis kapitalas pagal šio įstatymo 31straipsnio taisykles. Šių taisyklių nesilaikant, įmonės steigėjas viršnorminius rezervus gali nukreipti į įmonės įstatinį kapitalą, jeigu to raštu pareikalauja bet kuris iš akcininkų ar VĮ darbuotojų. Jeigu įmonės steigėjas tokio sprendimo nepriima, nurodytieji asmenys turi teisę kreiptis į teismą.
  
 
 29 straipsnis. Akcijos ir jų suteikiamos teisės
@@ -605,11 +611,11 @@ AKCINIS KAPITALAS
 
 30 straipsnis. Akcinio kapitalo didinimas
 
-1. Įmonė gali didinti nominalų akcinį kapitalą išleisdama naujas akcijas arba didindama išleistų akcijų nominalias vertes.Didinti nominalų akcinį kapitalą papildomais įnašais galima tik išleidžiant naujas akcijas.
+1. Įmonė gali didinti nominalų akcinį kapitalą išleisdama naujas akcijas arba didindama išleistų akcijų nominalias vertes. Didinti nominalų akcinį kapitalą papildomais įnašais galima tik išleidžiant naujas akcijas.
 
-2. Įmonė gali išleisti naujas akcijas už piniginius įnašus,jeigu nominalus akcinis kapitalas visiškai apmokėtas. Kitais atvejais nominalus akcinis kapitalas gali būti didinamas nepiniginiais (turtiniais) įnašais.
+2. Įmonė gali išleisti naujas akcijas už piniginius įnašus, jeigu nominalus akcinis kapitalas visiškai apmokėtas. Kitais atvejais nominalus akcinis kapitalas gali būti didinamas nepiniginiais (turtiniais) įnašais.
 
-3. VAĮ, kuri įstatymų nustatyta tvarka pripažinta nemokia,neturi teisės didinti akcinio kapitalo išleisdama ir siūlydama naujas akcijas asmenims, nesantiems jos akcininkais ar darbuotojais. Jei VĮ yra nemoki, ji visiškai neturi teisės leisti akcijas.
+3. VAĮ, kuri įstatymų nustatyta tvarka pripažinta nemokia, neturi teisės didinti akcinio kapitalo išleisdama ir siūlydama naujas akcijas asmenims, nesantiems jos akcininkais ar darbuotojais. Jei VĮ yra nemoki, ji visiškai neturi teisės leisti akcijas.
 
 4. Įmonės nominalus akcinis kapitalas gali būti didinamas valdybos nutarimu, kai stebėtojų taryba arba akcininkų susirinkimas, remdamiesi šiuo įstatymu, patvirtina atitinkamas įstatų pataisas. Tais atvejais, kai numatoma išleisti naujas privilegijuotąsias akcijas, reikia akcininkų susirinkimo pritarimo.
 
@@ -625,9 +631,9 @@ AKCINIS KAPITALAS
 
 Jeigu valstybės organas nominalaus akcinio kapitalo padidinimą ir įstatų pataisas įregistruoti atsisako, tai jis privalo per nustatytą terminą pranešti pareiškėjui neregistravimo priežastis. Nominalus akcinis kapitalas laikomas padidintu tik jį įregistravus.
 
-7. Jei per 3 mėnesius nuo akcijų pasirašymo pabaigos dėl įmonės kaltės nebuvo įregistruotas nominalaus akcinio kapitalo padidinimas, tai per 15 dienų turi būti sugrąžinti asmenims,pasirašiusiems akcijas, jų įnašai be jokių išskaitymų. Įmonė,uždelsusi šių įnašų grąžinimą, įmonė turi mokėti akcininkams 10procentų nesumokėtos sumos baudą, jeigu įmonės įstatuose nenustatytos kitokios netesybos.
+7. Jei per 3 mėnesius nuo akcijų pasirašymo pabaigos dėl įmonės kaltės nebuvo įregistruotas nominalaus akcinio kapitalo padidinimas, tai per 15 dienų turi būti sugrąžinti asmenims, pasirašiusiems akcijas, jų įnašai be jokių išskaitymų. Įmonė, uždelsusi šių įnašų grąžinimą, įmonė turi mokėti akcininkams 10procentų nesumokėtos sumos baudą, jeigu įmonės įstatuose nenustatytos kitokios netesybos.
 
-8. Akcijos (jų sertifikatai ir laikinieji pažymėjimai) gali būti išduodamos tik įregistravus akcinio kapitalo padidinimą.Iki to laiko perduoti kitiems asmenims teises į pasirašytas akcijas draudžiama.
+8. Akcijos (jų sertifikatai ir laikinieji pažymėjimai) gali būti išduodamos tik įregistravus akcinio kapitalo padidinimą. Iki to laiko perduoti kitiems asmenims teises į pasirašytas akcijas draudžiama.
  
 
 31 straipsnis. Nominalaus akcinio kapitalo didinimas iš įmonės lėšų
@@ -641,7 +647,7 @@ Jeigu valstybės organas nominalaus akcinio kapitalo padidinimą ir įstatų pat
 
 32 straipsnis. Akcinio kapitalo mažinimas
 
-1. Įmonė turi teisę šio įstatymo ir įmonės įstatų numatytais atvejais ir tvarka sumažinti nominalų akcinį kapitalą.Valdyba privalo įstatuose nustatyta tvarka pranešti savo nutarimą steigėjui, įmonės kreditoriams, taip pat akcininkams per 10 dienų nuo tokio nutarimo priėmimo dienos.
+1. Įmonė turi teisę šio įstatymo ir įmonės įstatų numatytais atvejais ir tvarka sumažinti nominalų akcinį kapitalą. Valdyba privalo įstatuose nustatyta tvarka pranešti savo nutarimą steigėjui, įmonės kreditoriams, taip pat akcininkams per 10 dienų nuo tokio nutarimo priėmimo dienos.
 
 2. Jeigu VAĮ mažina nominalų akcinį kapitalą, jos kreditoriai turi teisę reikalauti garantijų.
 
@@ -649,13 +655,13 @@ Jeigu valstybės organas nominalaus akcinio kapitalo padidinimą ir įstatų pat
 
 4. Kol akcinio kapitalo sumažinimas neįregistruotas, įmonė neturi teisės išmokėti akcininkams pinigų ar perduoti materialinių vertybių. Mažinant kapitalą, akcininkai gali būti neatleidžiami nuo jiems priklausančių akcijų apmokėjimo.
 
-5. VĮ savo iniciatyva negali mažinti nominalaus akcinio kapitalo, jei ji šio įstatymo nustatyta tvarka paskelbta nemokia.Įmonei draudžiama mažinti nominalų akcinį kapitalą, jei po tokio sumažinimo ji gali tapti nemokia.
+5. VĮ savo iniciatyva negali mažinti nominalaus akcinio kapitalo, jei ji šio įstatymo nustatyta tvarka paskelbta nemokia. Įmonei draudžiama mažinti nominalų akcinį kapitalą, jei po tokio sumažinimo ji gali tapti nemokia.
 
-6. Jei nominalus akcinis kapitalas mažinamas ne tokiu būdu,kaip numatyta įmonės įstatuose arba nevienodomis sąlygomis pagal atskiras akcijų klases, turi būti gautas akcininkų susirinkimo sutikimas. Jei mažinamas VĮ nominalus akcinis kapitalas, tai turi būti gautas steigėjo leidimas. Steigėjo leidimo taip pat reikia ir mažinant VAĮ nominalų akcinį kapitalą, jei dėl numatomo kapitalo sumažinimo jo liktų mažiau kaip 1/5 įstatinio kapitalo.
+6. Jei nominalus akcinis kapitalas mažinamas ne tokiu būdu, kaip numatyta įmonės įstatuose arba nevienodomis sąlygomis pagal atskiras akcijų klases, turi būti gautas akcininkų susirinkimo sutikimas. Jei mažinamas VĮ nominalus akcinis kapitalas, tai turi būti gautas steigėjo leidimas. Steigėjo leidimo taip pat reikia ir mažinant VAĮ nominalų akcinį kapitalą, jei dėl numatomo kapitalo sumažinimo jo liktų mažiau kaip 1/5 įstatinio kapitalo.
 
 7. Įmonė nominalų akcinį kapitalą gali mažinti šiais būdais:
 
-1) išpirkdama ar kitaip įsigydama savo išleistas akcijas,kurios paskiau anuliuojamos;
+1) išpirkdama ar kitaip įsigydama savo išleistas akcijas, kurios paskiau anuliuojamos;
 
 2) sumažindama akcijų nominalias vertes.
 
@@ -665,7 +671,7 @@ Jeigu valstybės organas nominalaus akcinio kapitalo padidinimą ir įstatų pat
 
 10. Įmonei sumažinus nominalų akcinį kapitalą kitaip, negu nurodyta šiame įstatyme, jos kreditoriai turi teisę paduoti įmonę į teismą. Teismas gali priteisti iš įmonės atlyginti kreditoriui nuostolius, bet ne daugiau kaip ta suma, kuri buvo išmokėta akcininkams.
 
-11. Įmonė neprivalo išpirkti akcininkų pateikiamų akcijų,išskyrus įstatymų nustatytus atvejus.
+11. Įmonė neprivalo išpirkti akcininkų pateikiamų akcijų, išskyrus įstatymų nustatytus atvejus.
  
 
 VI skirsnis
@@ -676,13 +682,13 @@ VI skirsnis
 
 1. Įmonė naudojasi vidiniais ir išoriniais finansinių išteklių šaltiniais. Vidiniams šaltiniams priskiriami amortizaciniai atskaitymai, palūkanos už valstybinį kapitalą, jeigu jos paliekamos įmonėje, ir pelnas. Išoriniams šaltiniams priskiriami akcininkų įnašai, kitų fizinių ir juridinių asmenų vienkartiniai negrąžinami įnašai ir skolinto kapitalo lėšos. Moki valstybinė įmonė stambioms investicijoms gali gauti papildomų valstybės (vietos savivaldybės) lėšų iš biudžeto.
 
-2. Ekonomines amortizacinių atskaitymų normas įrengimų,mašinų, statinių ir kitų neapyvartinių aktyvų fiziniam ir moraliniam susidėvėjimui atstatyti nustato įmonė, įvertindama šių aktyvų efektyvumo realų kitimą per tam tikrą laiką. Įmonės faktiniai amortizaciniai atskaitymai negali būti mažesni už nustatytus amortizacinių atskaitymų mokestinius normatyvus, kuriuos,kaip ir jų taikymo tvarką, nustato Lietuvos Respublikos Vyriausybė. Visiškai amortizuotų pagal pirminę vertę įrengimų,statinių ir kitų neapyvartinių aktyvų tolesnis amortizavimas nutraukiamas. Pirma laiko nurašius (nevisiškai amortizuotus) aktyvus, jų likutinė dalis priskiriama įmonės nuostoliams.
+2. Ekonomines amortizacinių atskaitymų normas įrengimų, mašinų, statinių ir kitų neapyvartinių aktyvų fiziniam ir moraliniam susidėvėjimui atstatyti nustato įmonė, įvertindama šių aktyvų efektyvumo realų kitimą per tam tikrą laiką. Įmonės faktiniai amortizaciniai atskaitymai negali būti mažesni už nustatytus amortizacinių atskaitymų mokestinius normatyvus, kuriuos, kaip ir jų taikymo tvarką, nustato Lietuvos Respublikos Vyriausybė. Visiškai amortizuotų pagal pirminę vertę įrengimų, statinių ir kitų neapyvartinių aktyvų tolesnis amortizavimas nutraukiamas. Pirma laiko nurašius (nevisiškai amortizuotus) aktyvus, jų likutinė dalis priskiriama įmonės nuostoliams.
 
 3. Už laiku neatskaitytas (nesumokėtas) palūkanas už valstybinio kapitalo naudojimą įmonė moka į biudžetą 0,5procento delspinigių už dieną. Jeigu įmonė šias palūkanas ar amortizacinius atskaitymus (mokėjimus) nuslepia ar sumažina, išjos imama į biudžetą nuslėptų lėšų dydžio bauda.
 
-4. Jeigu įmonė pakartotinai arba šiurkščiai pažeidžia nustatytą amortizacinių atskaitymų ir palūkanų už valstybinio kapitalo naudojimą atskaitymų (mokėjimų) tvarką, taip pat jeigu kitaip praranda jai patikėtą valstybinį turtą, steigėjas gali paleisti įmonės valdybą arba taikyti įmonei specialų priežiūros režimą, arba sumažinti įmonės turimo valstybinio kapitalo dalį,arba įmonę likviduoti (reorganizuoti).
+4. Jeigu įmonė pakartotinai arba šiurkščiai pažeidžia nustatytą amortizacinių atskaitymų ir palūkanų už valstybinio kapitalo naudojimą atskaitymų (mokėjimų) tvarką, taip pat jeigu kitaip praranda jai patikėtą valstybinį turtą, steigėjas gali paleisti įmonės valdybą arba taikyti įmonei specialų priežiūros režimą, arba sumažinti įmonės turimo valstybinio kapitalo dalį, arba įmonę likviduoti (reorganizuoti).
 
-5. Įmonė privalo sudaryti atsargos (privalomąjį pelno rezervo) fondą. Jis sudaromas taikant ne mažesnius kaip 5 procentų kasmetinius atskaitymus iš pelno, likusio sumokėjus mokesčius.Fondas kasmet papildomas, kol jo dydis kartu su nominalaus akcinio kapitalo rezervo fondu pasiekia 1/20 įmonės įstatinio kapitalo. Jei pelno nepakanka įmonės privalomiems mokėjimams(valstybinio kapitalo palūkanoms ir draudimui, minimaliems dividendams), atskaitymai į pelno atsargos fondą atitinkamai mažinami.
+5. Įmonė privalo sudaryti atsargos (privalomąjį pelno rezervo) fondą. Jis sudaromas taikant ne mažesnius kaip 5 procentų kasmetinius atskaitymus iš pelno, likusio sumokėjus mokesčius. Fondas kasmet papildomas, kol jo dydis kartu su nominalaus akcinio kapitalo rezervo fondu pasiekia 1/20 įmonės įstatinio kapitalo. Jei pelno nepakanka įmonės privalomiems mokėjimams (valstybinio kapitalo palūkanoms ir draudimui, minimaliems dividendams), atskaitymai į pelno atsargos fondą atitinkamai mažinami.
 
 6. Įmonės komercinės-ūkinės veiklos nuostoliai ir įsiskolinimai padengiami iš:
 
@@ -694,14 +700,14 @@ VI skirsnis
 
 4) VĮ gaunamų dotacijų iš valstybės (vietos savivaldybių) ,jei 1), 2) ir 3) punktuose nurodytų lėšų nepakanka.
 
-7. Nuostoliai, susidarę dėl VĮ bankroto ar kitų priežasčių,paskirstomi proporcingai valstybiniam ir akciniam kapitalui.
+7. Nuostoliai, susidarę dėl VĮ bankroto ar kitų priežasčių, paskirstomi proporcingai valstybiniam ir akciniam kapitalui.
 
 8. Kai bankrutuoja VAĮ, nuostoliai dengiami iš akcinio kapitalo. Jei šių lėšų nepakanka – iš valstybinio kapitalo lėšų.
  
 
 34 straipsnis. Įmonės nemokumas
 
-1. VĮ nemokumą steigėjo prašymu nustato ir įformina aktu Lietuvos Respublikos finansų ministerijos organas, išanalizavęs įmonės finansinės veiklos rodiklius, nustatytus pagal buhalterinės-finansinės apskaitos, inventorizacijos dokumentus.Įmonė taip pat gali būti pripažįstama nemokia, jei ji nesumoka privalomų mokėjimų ilgiau kaip per 3 mėnesius nuo šių mokėjimų įvykdymui nustatyto termino arba jei realiai (įrodomai) laukiama tokios nemokumo būklės.
+1. VĮ nemokumą steigėjo prašymu nustato ir įformina aktu Lietuvos Respublikos finansų ministerijos organas, išanalizavęs įmonės finansinės veiklos rodiklius, nustatytus pagal buhalterinės-finansinės apskaitos, inventorizacijos dokumentus. Įmonė taip pat gali būti pripažįstama nemokia, jei ji nesumoka privalomų mokėjimų ilgiau kaip per 3 mėnesius nuo šių mokėjimų įvykdymui nustatyto termino arba jei realiai (įrodomai) laukiama tokios nemokumo būklės.
 
 2. Jeigu VĮ yra nemoki, taip pat dar vienus metus po to, kai įmonė tapo mokia arba pradėjo dirbti pelningai, steigėjas turi teisę:
 
@@ -709,7 +715,7 @@ VI skirsnis
 
 2) atleisti ir stebėtojų tarybos siūlymu skirti valdybos narius;
 
-3) nustatyti valdybos pirmininko ir kitų valdybos narių,taip pat administracijos vadovo darbo užmokesčio ir premijų dydį;
+3) nustatyti valdybos pirmininko ir kitų valdybos narių, taip pat administracijos vadovo darbo užmokesčio ir premijų dydį;
 
 4) nustatyti įmonės finansinių išteklių naudojimo tvarką;
 
@@ -717,24 +723,24 @@ VI skirsnis
 
 3. Įmonės pripažinimo nuostolinga ar nemokia aktą ji gali nuginčyti per teismą.
 
-4. Asmuo, atleistas iš valdybos pirmininko pareigų dėl to,kad jo vadovaujama įmonė tapo nemokia ar nuostolinga, negali būti paskirtas kitos VĮ ar VAĮ valdybos nariu, jos pirmininku ar laikinosios administracijos vadovu 5 metus nuo atleidimo dienos.
+4. Asmuo, atleistas iš valdybos pirmininko pareigų dėl to, kad jo vadovaujama įmonė tapo nemokia ar nuostolinga, negali būti paskirtas kitos VĮ ar VAĮ valdybos nariu, jos pirmininku ar laikinosios administracijos vadovu 5 metus nuo atleidimo dienos.
 
 5. Šio straipsnio nustatytos taisyklės gali būti taikomos VAĮ, kai sumažėjus jos nuosaviems aktyvams, nominalaus akcinio kapitalo lieka mažiau negu 1/10 įmonės įstatinio kapitalo.
  
 
 35 straipsnis. Dividendai
 
-1. Dividendai paprastųjų akcijų savininkams išmokami išpelno dalies, likusios sumokėjus mokesčius ir kitus privalomus mokėjimus. Dividendai išmokami atsižvelgiant į akcijos įsigijimo(per metus) laiką, jos nominalią vertę, gautą pelną.Privilegijuotųjų akcijų dividendai išmokami sumokėjus pelno mokesčius, įvykdžius valstybinio kapitalo palūkanų ir draudimo atskaitymus. Vienam asmeniui išmokamų dividendų suma neribojama.
+1. Dividendai paprastųjų akcijų savininkams išmokami išpelno dalies, likusios sumokėjus mokesčius ir kitus privalomus mokėjimus. Dividendai išmokami atsižvelgiant į akcijos įsigijimo (per metus) laiką, jos nominalią vertę, gautą pelną. Privilegijuotųjų akcijų dividendai išmokami sumokėjus pelno mokesčius, įvykdžius valstybinio kapitalo palūkanų ir draudimo atskaitymus. Vienam asmeniui išmokamų dividendų suma neribojama.
 
-2. Dividendo normatyvas planuojamas ir išmokamas toks, kad laukiamo pelno pakaktų atlikti privalomiems mokėjimams.Galutinis atsiskaitymas su akcininkais galimas tik įvykdžius privalomus mokėjimus, taip pat įsipareigojimus kreditoriams.
+2. Dividendo normatyvas planuojamas ir išmokamas toks, kad laukiamo pelno pakaktų atlikti privalomiems mokėjimams. Galutinis atsiskaitymas su akcininkais galimas tik įvykdžius privalomus mokėjimus, taip pat įsipareigojimus kreditoriams.
 
-3. VĮ dividendo normatyvas planuojamas ir išmokamas toks,kad jo dydis kartu su akcijomis išmokamu papildomu dividendu nebūtų didesnis už apskaitomais metais pasiekto įmonės palyginamojo rentabilumo (balansinio pelno ir apmokėto įmonės įstatinio kapitalo, sumažinto nebaigtoje kapitalinėje statyboje investuotomis lėšomis, santykis) procentą.
+3. VĮ dividendo normatyvas planuojamas ir išmokamas toks, kad jo dydis kartu su akcijomis išmokamu papildomu dividendu nebūtų didesnis už apskaitomais metais pasiekto įmonės palyginamojo rentabilumo (balansinio pelno ir apmokėto įmonės įstatinio kapitalo, sumažinto nebaigtoje kapitalinėje statyboje investuotomis lėšomis, santykis) procentą.
 
 4. VĮ paprastųjų akcijų minimalus dividendas, išmokėtas pinigais ar kitokiu turtu, neturi būti mažesnis už Lietuvos Respublikos Vyriausybės nustatytą vieningą visoms VĮ minimalų normatyvą, padidintą išmokų iš pelno įmonės darbuotojams procentu, tenkančiu 1 rubliui įmonės įstatinio kapitalo.
 
-5. Jei VĮ pelno nepakanka išmokėti minimaliam dividendui,neišmokėta suma perkeliama į ateinančius (vienus) metus.Draudžiamas bet koks pelno paskirstymas, išskyrus mokesčius ir kitus privalomus mokėjimus, jeigu nebuvo išmokėtas minimalus dividendas. Jeigu per vienerius metus įsiskolinimas nelikviduojamas, VĮ gali būti pripažįstama nemokia. Šiuo atveju akcininkų susirinkimas gali pareikalauti likviduoti VĮ nominalų akcinį kapitalą, įmonei išperkant jos išleistas akcijas. Jei VĮ atsisako išpirkti akcijas, ji turi būti likviduojama per metus.Steigėjas, norėdamas pratęsti įmonės veiklą, gali per likvidavimo laikotarpį savo lėšomis išpirkti akcijas.
+5. Jei VĮ pelno nepakanka išmokėti minimaliam dividendui, neišmokėta suma perkeliama į ateinančius (vienus) metus. Draudžiamas bet koks pelno paskirstymas, išskyrus mokesčius ir kitus privalomus mokėjimus, jeigu nebuvo išmokėtas minimalus dividendas. Jeigu per vienerius metus įsiskolinimas nelikviduojamas, VĮ gali būti pripažįstama nemokia. Šiuo atveju akcininkų susirinkimas gali pareikalauti likviduoti VĮ nominalų akcinį kapitalą, įmonei išperkant jos išleistas akcijas. Jei VĮ atsisako išpirkti akcijas, ji turi būti likviduojama per metus. Steigėjas, norėdamas pratęsti įmonės veiklą, gali per likvidavimo laikotarpį savo lėšomis išpirkti akcijas.
 
-6. VĮ akcinis kapitalas likviduojamas iš akcinio kapitalo amortizavimo lėšų, o steigėjui sutikus, ir iš valstybinio kapitalo palūkanų atskaitymų. Likviduojamo akcinio kapitalo akcijos turi būti išperkamos ne vėliau kaip per vidutinį normatyvinį VĮ turimų neapyvartinių aktyvų amortizavimo laiką. Kasmet išperkamo kapitalo vertė neturi būti mažesnė už vidutiniškai metams tenkančią privalomų išpirkti per nustatytą (paskelbtą)laikotarpį akcijų nominalios vertės dalį, skaičiuojant šią proporciją didėjančia (kaupiamąja) tvarka. Akcijos išperkamos vadovaujantis šiuo įstatymu ir įmonės įstatais.
+6. VĮ akcinis kapitalas likviduojamas iš akcinio kapitalo amortizavimo lėšų, o steigėjui sutikus, ir iš valstybinio kapitalo palūkanų atskaitymų. Likviduojamo akcinio kapitalo akcijos turi būti išperkamos ne vėliau kaip per vidutinį normatyvinį VĮ turimų neapyvartinių aktyvų amortizavimo laiką. Kasmet išperkamo kapitalo vertė neturi būti mažesnė už vidutiniškai metams tenkančią privalomų išpirkti per nustatytą (paskelbtą) laikotarpį akcijų nominalios vertės dalį, skaičiuojant šią proporciją didėjančia (kaupiamąja) tvarka. Akcijos išperkamos vadovaujantis šiuo įstatymu ir įmonės įstatais.
  
 
 36 straipsnis. Pelno paskirstymas
@@ -753,7 +759,7 @@ VI skirsnis
 
 Iš likusio pelno išmokami dividendai, premijos, sudaromas rezervinis kapitalas, finansuojamos papildomos socialinės kultūrinės ir kitokios programos.
 
-2. Draudžiama iš pelno mokėti dividendus akcininkams,premijas darbuotojams arba kitaip dalyti ar priskirti įmonės darbuotojams ir akcininkams pelną, kol nepatenkinti įmonės kreditorių ir valstybės (vietos savivaldybės) reikalavimai.
+2. Draudžiama iš pelno mokėti dividendus akcininkams, premijas darbuotojams arba kitaip dalyti ar priskirti įmonės darbuotojams ir akcininkams pelną, kol nepatenkinti įmonės kreditorių ir valstybės (vietos savivaldybės) reikalavimai.
 
 3. Pasibaigus ūkiniams metams, dividendai gali būti išmokami avansu, jei išankstinis metinis balansas už atsiskaitomus metus numato pakankamą tam tikslui pelną. Avansu gali būti išmokama nedaugiau kaip 1/2 pelno, numatyto dividendams. Iš anksto išmokama suma negali būti didesnė, kaip pusė praeitų metų pelno, liekančio įvykdžius privalomuosius mokėjimus.
 
@@ -798,5 +804,10 @@ Dėl Lietuvos Respublikos valstybinių įmonių įstatymo papildymo
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-248, 1993-09-21, Žin., 1993, Nr. 49-963 (1993-09-29), i. k. 0931010ISTA000I-248
+Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-254, 1993-09-28, Žin., 1993, Nr. 52-995 (1993-10-13), i. k. 0931010ISTA000I-254
 Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
 
