@@ -13,35 +13,48 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1998.05.15)
+Redagavo: Ramunė Lūžaitė (1999.05.10)
+ 
  
 Įstatymas paskelbtas: Žin., 1997, Nr.67-1659
 Neoficialus įstatymo tekstas
+ 
 Pakeitimai:
 1.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-650, 98.03.03, Žin., 1998, Nr.28-728 (98.03.25)
-LIETUVOS RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO
-VALSTYBINĖJE TARNYBOJE ĮSTATYMO 23 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-2.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr. VIII-719,
-98.04.28, Žin., 1998, Nr.44-1199 (98.05.13)
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. VIII-650, 98.03.03,
+Žin., 1998, Nr.28-728 (98.03.25)
 LIETUVOS
 RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE
-ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ĮSTATYMO 23 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. VIII-719, 98.04.28,
+Žin., 1998, Nr.44-1199 (98.05.13)
+LIETUVOS RESPUBLIKOS VIEŠŲJŲ
+IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 23 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
-*** pABAIGA ***
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1148, 99.04.20, Čin., 1999, Nr.39-1198 (99.05.05)
+LIETUVOS RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO
+VALSTYBINĖJE TARNYBOJE ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+pABAIGA ***
  
 LIETUVOS RESPUBLIKOS
 VIEŠŲJŲ
 IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE
 ĮSTATYMAS
+ 
 1997 m. liepos 2 d. Nr. VIII-371
 Vilnius
+ 
+ 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
@@ -50,19 +63,19 @@ NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir uždaviniai
  
 Šiuo įstatymu siekiama suderinti valstybinėje
-tarnyboje dirbančių asmenų privačius ir visuomenės viešuosius interesus, užtikrinti,
-kad priimant sprendimus pirmenybė būtų teikiama viešiesiems interesams,
-įtvirtinti priimamų sprendimų nešališkumą ir užkirsti kelią rastis ir plisti
-korupcijai valstybinėje tarnyboje.
+tarnyboje dirbančių asmenų privačius ir visuomenės viešuosius interesus,
+užtikrinti, kad priimant sprendimus pirmenybė būtų teikiama viešiesiems
+interesams, įtvirtinti priimamų sprendimų nešališkumą ir užkirsti kelią rastis
+ir plisti korupcijai valstybinėje tarnyboje.
  
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
  
 1. Asmenys, dirbantys valstybės ar savivaldybės
 tarnyboje, - politikai, visų lygių valdininkai pagal Valdininkų įstatymą bei
 kiti asmenys, kurie dirbdami valstybės valdžios, valdymo, savivaldos,
-teisminėse, teisėsaugos, valstybės kontrolės bei priežiūros ir joms prilygintose
-institucijose vykdo valdžios atstovo funkcijas arba turi administracinius
-įgalinimus.
+teisminėse, teisėsaugos, valstybės kontrolės bei priežiūros ir joms
+prilygintose institucijose vykdo valdžios atstovo funkcijas arba turi
+administracinius įgalinimus.
 2. Kandidatas - asmuo, siekiantis būti išrinktas,
 paskirtas į šio straipsnio 1 dalyje nurodytų kategorijų pareigas ar tarnybas
 arba joms patvirtintas.
@@ -90,6 +103,7 @@ susivienijimai ir organizacijos.
 3 straipsnis. Asmenų, dirbančių valstybės ar
 savivaldybės tarnyboje,
               prievolės
+ 
 1. Viešųjų interesų viršenybei užtikrinti asmenys,
 dirbantys valstybės ar savivaldybės tarnyboje, privalo:
 1) nešališkai, sąžiningai ir tinkamai atlikti
@@ -108,10 +122,9 @@ nuosavybe, kitokiai nei tarnybinei veiklai.
 2. Asmenys, nustoję eiti pareigas valstybės ar
 savivaldybės tarnyboje, negali naudotis savo darbo toje tarnyboje privalumais.
  
- 
 ANTRASIS SKIRSNIS
-PRIVAČIŲ INTERESŲ
-DEKLARAVIMAS
+PRIVAČIŲ INTERESŲ DEKLARAVIMAS
+ 
  
 4 straipsnis. Privačių interesų deklaracijos
  
@@ -134,8 +147,8 @@ iki kovo 1 d.
 2. Kandidato privačių interesų deklaracija pateikiama
 likus ne mažiau kaip 15 dienų iki rinkimo, skyrimo į atitinkamas pareigas
 valstybės ar savivaldybės tarnyboje ar tvirtinimo joms dienos.
-3. Deklaracija paaiškėjus naujoms aplinkybėms pateikiama
-nedelsiant po šių aplinkybių paaiškėjimo.
+3. Deklaracija paaiškėjus naujoms aplinkybėms
+pateikiama nedelsiant po šių aplinkybių paaiškėjimo.
 4. Šio straipsnio 1-3 dalyse nurodytos deklaracijos
 pateikiamos valstybės ar savivaldybės institucijos, kurioje dirba arba nori
 dirbti asmuo, vadovui ar jo įgaliotam atstovui.
@@ -342,8 +355,8 @@ tarnyboje, negali tiesiogiai ar netiesiogiai priimti dovanų ar paslaugų, jeigu
 jų teikimas buvo tiesiogiai ar netiesiogiai susijęs su jo pareigų ėjimu.
 2. Šis draudimas nėra taikomas dovanoms ar
 paslaugoms, gaunamoms pagal tarptautinį protokolą ar tradicijas, kurios
-įprastai yra susijusios su asmens, dirbančio valstybės ar savivaldybės
-tarnyboje, pareigomis.
+įprastai yra susijusios su asmens, dirbančio valstybės ar savivaldybės tarnyboje,
+pareigomis.
 3. Jeigu šio straipsnio  2 dalyje nurodytų dovanų ar
 paslaugų vertė viršija 100 Lt arba dovanų ar paslaugų, gautų per metus iš vieno
 šaltinio, vertė viršija 500 Lt, asmuo, dirbantis valstybės ar savivaldybės
@@ -420,11 +433,11 @@ dirbo, taip pat negali atstovauti fiziniams ar juridiniams asmenims kitose
 valstybės ar savivaldybės institucijose tais klausimais, kurie buvo priskirti
 jo tarnybinėms funkcijoms. Ši nuostata netaikoma advokatams.
 2.  Asmeniui, dirbančiam valstybės ar
-savivaldybės tarnyboje, neleidžiama turėti tarnybinių santykių su anksčiau
-valstybės ar savivaldybės tarnyboje dirbusiu asmeniu, kuriam taikomi šio
-straipsnio 1 dalies apribojimai. Asmuo, dirbantis valstybės ar savivaldybės
-tarnyboje, apie tokius tarnybinius santykius  privalo nedelsdamas informuoti
-savo institucijos vadovą ar jo įgaliotą atstovą.
+savivaldybės tarnyboje, neleidžiama turėti tarnybinių santykių su anksčiau valstybės
+ar savivaldybės tarnyboje dirbusiu asmeniu, kuriam taikomi šio straipsnio 1
+dalies apribojimai. Asmuo, dirbantis valstybės ar savivaldybės tarnyboje, apie
+tokius tarnybinius santykius  privalo nedelsdamas informuoti savo institucijos
+vadovą ar jo įgaliotą atstovą.
  
 21 straipsnis. Apribojimų netaikymas
  
@@ -453,10 +466,11 @@ vadovai ar jų įgalioti atstovai, kontroliuodami, kaip vykdomas šis įstatymas
 1) prižiūri, ar asmenys, dirbantys valstybės ar
 savivaldybės tarnyboje, laiku ir tinkamai pateikia privačių interesų
 deklaracijas;
-2) remdamiesi metinėmis privačių interesų deklaracijomis
-arba asmens, dirbančio valstybės ar savivaldybės tarnyboje, prašymu parengia
-asmeniui rašytines rekomendacijas, nurodančias, kokių priemonių asmuo turi
-imtis, kad savo tarnybinę veiklą suderintų su šio įstatymo reikalavimais;
+2) remdamiesi metinėmis privačių interesų
+deklaracijomis arba asmens, dirbančio valstybės ar savivaldybės tarnyboje,
+prašymu parengia asmeniui rašytines rekomendacijas, nurodančias, kokių
+priemonių asmuo turi imtis, kad savo tarnybinę veiklą suderintų su šio įstatymo
+reikalavimais;
 3) savo iniciatyva, Vyriausiosios tarnybinės etikos
 komisijos nurodymu arba gavę pareiškimą, kad kuris nors asmuo, dirbantis jiems
 pavaldžioje valstybės ar savivaldybės tarnyboje, savo tarnybinėje veikloje
@@ -468,49 +482,59 @@ komisija. Vyriausioji tarnybinės etikos komisija supažindinama ir su visais
 gaunamais pareiškimais, kuriuose pateikiama informacija apie šio įstatymo
 pažeidimus.
  
-23 straipsnis. Vyriausioji tarnybinės etikos
-komisija
+23
+straipsnis. Vyriausioji tarnybinės etikos komisija
  
-1. Nepriklausoma Vyriausioji tarnybinės etikos
-komisija yra sudaroma iš 3 asmenų.
-2. Po vieną nepriekaištingos reputacijos ir ne
-mažiau kaip 10 metų profesinio darbo stažą turintį Vyriausiosios tarnybinės
-etikos komisijos narį 4 metams skiria Respublikos Prezidentas, Seimo
-Pirmininkas ir Ministras Pirmininkas. Šie asmenys Vyriausiosios tarnybinės
-etikos komisijos nariais gali būti ne ilgiau kaip dvi kadencijas iš eilės.
-3. Seimas iš Vyriausiosios tarnybinės etikos
-komisijos narių paskiria komisijos pirmininką.
-4. Vyriausiosios tarnybinės etikos komisijos darbo
-organizavimo tvarką nustato jos patvirtintas darbo reglamentas.
+1.
+Vyriausioji tarnybinės etikos komisija sudaroma iš  5 asmenų.
+2. Po vieną
+Vyriausiosios tarnybinės etikos komisijos nepriekaištingos reputacijos narį
+siūlo Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas,
+Lietuvos Aukščiausiojo Teismo pirmininkas ir Lietuvos teisininkų draugija.
+Vyriausiosios tarnybinės etikos komisijos sudėtį tvirtina Seimas. Vyriausiosios
+tarnybinės etikos komisijos narių kadencijos laikas - 4 metai. Patvirtinti
+asmenys Vyriausiosios tarnybinės etikos komisijos nariais gali būti ne ilgiau
+kaip dvi kadencijas iš eilės.
+3.
+Komisijos pirmininką iš Vyriausiosios tarnybinės etikos komisijos narių Seimo
+Pirmininko teikimu tvirtina  Seimas.
+4.
+Vyriausiosios tarnybinės etikos komisijos nuostatus tvirtina Seimas, o
+jos darbo organizavimo tvarką nustato Komisijos  patvirtintas darbo
+reglamentas.
 5. Vyriausioji tarnybinės etikos komisija yra
-juridinis asmuo. Komisija veikia visuomeniniais pagrindais ir yra atskaitinga
-Seimui. Komisiją techniškai aptarnauja Komisijos sekretoriatas, kurio nuostatus
-tvirtina Komisija. Šio sekretoriato struktūrą, etatų sąrašus ir atlyginimus,
-neviršydama Vyriausybės nustatytų atlyginimų dydžių, nustato Komisija savo
-sprendimu.
-6. Vyriausioji tarnybinės etikos komisija:
-1) analizuoja šio įstatymo taikymo problemas;
-2) teikia ieškinius teismui dėl darbo sutarčių ir
-sandorių, sudarytų pažeidžiant šio įstatymo reikalavimus, nutraukimo ar
-pripažinimo negaliojančiais;
-3) atitinkamų valstybės ar savivaldybių institucijų
-vadovams ar jų įgaliotiems atstovams teikia rekomendacijas dėl šio įstatymo
-įgyvendinimo tvarkos;
-4) gali pavesti institucijos vadovui ar jo įgaliotam
-atstovui arba savo jėgomis gali atlikti tyrimą, jeigu yra gauta pagrįsta
-informacija, kad asmuo, dirbantis valstybės ar savivaldybės tarnyboje, nevykdo
-šio įstatymo reikalavimų;
-5) asmens, dirbančio valstybės ar savivaldybės
-tarnyboje, raštišku prašymu gali atlikti tyrimą, ar institucijos vadovas
-teisingai taiko pareiškėjui šio įstatymo nuostatas.
-7. Vyriausiosios tarnybinės etikos komisijos
-sprendimai gali būti skundžiami teismui.
+juridinis asmuo. Komisijos veikla finansuojama iš valstybės biudžeto. Komisija
+atskaitinga Seimui. Komisiją techniškai aptarnauja Komisijos sekretoriatas,
+kurio struktūrą, etatų sąrašus ir atlyginimus, neviršydama Vyriausybės
+nustatytų atlyginimų dydžių, nustato Komisija.
+6.
+Vyriausioji tarnybinės etikos komisija:
+1)
+analizuoja šio įstatymo taikymo problemas;
+2) teikia
+ieškinius teismui dėl darbo sutarčių ir sandorių, sudarytų pažeidžiant šio
+įstatymo reikalavimus, nutraukimo ar pripažinimo negaliojančiais;
+3)
+atitinkamų valstybės ar savivaldybių institucijų vadovams ar jų įgaliotiems
+atstovams teikia rekomendacijas dėl šio įstatymo įgyvendinimo tvarkos; 
+4) gali
+pavesti institucijos vadovui ar jo įgaliotam atstovui arba pati atlikti tyrimą,
+jeigu yra gauta pagrįsta informacija, kad asmuo, dirbantis valstybės ar
+savivaldybės tarnyboje, nesilaiko šio įstatymo reikalavimų;
+5)
+valstybės ar savivaldybės tarnyboje dirbančio asmens raštišku prašymu gali
+atlikti tyrimą, ar institucijos vadovas tinkamai taiko pareiškėjui šio įstatymo
+nuostatas.
+7.
+Vyriausiosios tarnybinės etikos komisijos sprendimai gali būti skundžiami
+teismui.
  
 Straipsnio pakeitimai:
 Nr.
 VIII-650, 98.03.03, Žin., 1998, Nr.28-728 (98.03.25)
 Nr.
 VIII-719, 98.04.28, Žin., 1998, Nr.44-1199 (98.05.13)
+Nr. VIII-1148, 99.04.20, Čin., 1999, Nr.39-1198 (99.05.05)
  
 24 straipsnis. Atsakomybė
  
@@ -534,5 +558,5 @@ VIII-650, 98.03.03, Žin., 1998, Nr.28-728 (98.03.25)
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 įstatymą.
-RESPUBLIKOS PREZIDENTAS                                  ALGIRDAS
-BRAZAUSKAS
+RESPUBLIKOS
+PREZIDENTAS                                  ALGIRDAS BRAZAUSKAS
