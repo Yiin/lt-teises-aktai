@@ -19,7 +19,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.09)
 
 
 Redagavo:
-Ramunė Lūžaitė (1999.02.24)
+Ramunė Lūžaitė (1999.04.09)
  
 Įstatymas
 paskelbtas: Žin., 1992, Nr.28-810
@@ -78,6 +78,22 @@ LIETUVOS RESPUBLIKOS
 NOTARIATO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR NOTARIATO ĮSTATYMO PAKEITIMO IR
 PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO ĮSTATYMO 2 STRAIPSNIO IR 3 STRAIPSNIO 2 PUNKTO
 PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+ 
+7.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1097,
+99.03.23, Žin., 1999, Nr.32-903 (99.04.09)
+LIETUVOS RESPUBLIKOS
+NOTARIATO ĮSTATYMO 26 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+8.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr.
+VIII-1108, 99.03.25, Žin., 1999, Nr.32-905 (99.04.09)
+LIETUVOS
+RESPUBLIKOS NOTARIATO ĮSTATYMO 46 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -384,10 +400,10 @@ Notarų rūmai kasmet iki vasario 15 dienos
 pateikia Lietuvos Respublikos teisingumo ministerijai detalią savo veiklos
 ataskaitą.
 Lietuvos Respublikos teisingumo ministras,
-manydamas, kad Notarų rūmų nutarimai ar sprendimai neatitinka Lietuvos
-Respublikos įstatymų, gali pateikti skundą Vilniaus apygardos teismui dėl tų
-nutarimų ar sprendimų panaikinimo. Šis skundas turi būti pateiktas per 1 mėnesį
-nuo skundžiamo nutarimo ar sprendimo gavimo dienos.
+manydamas, kad Notarų rūmų nutarimai ar sprendimai neatitinka Lietuvos Respublikos
+įstatymų, gali pateikti skundą Vilniaus apygardos teismui dėl tų nutarimų ar
+sprendimų panaikinimo. Šis skundas turi būti pateiktas per 1 mėnesį nuo
+skundžiamo nutarimo ar sprendimo gavimo dienos.
  
 Straipsnio
 pakeitimai:
@@ -427,8 +443,8 @@ atvejais.
      Pažymos
 apie testamentus išduodamos tik testatoriui mirus.
      Notarinių
-veiksmų slaptumo taisyklės taikomos ir asmenims, nustojusiems dirbti  notaru,
-taip pat asmenims, kurie apie notarinius veiksmus sužinojo, eidami tarnybines
+veiksmų slaptumo taisyklės taikomos ir asmenims, nustojusiems dirbti  notaru, taip
+pat asmenims, kurie apie notarinius veiksmus sužinojo, eidami tarnybines
 pareigas.
      Sandorio
 šalys, jų teisių perėmėjai ir jų teisėti atstovai gali atleisti notarą nuo
@@ -498,8 +514,8 @@ projektų parengimą, konsultacijas bei technines paslaugas notaras ima
 atlyginimą, kurio dydį (įkainius) nustato Lietuvos Respublikos teisingumo
 ministerija, suderinusi su Lietuvos Respublikos finansų ministerija. Atlyginimo
 dydis turi garantuoti notaro pajamas, kurios leistų jam būti ekonomiškai
-nepriklausomu, sudaryti geras klientų aptarnavimo sąlygas, įdarbinti reikalingus
-darbuotojus ir turėti gerai techniškai aprūpintą biurą.
+nepriklausomu, sudaryti geras klientų aptarnavimo sąlygas, įdarbinti
+reikalingus darbuotojus ir turėti gerai techniškai aprūpintą biurą.
 Atsižvelgdamas į kliento turtinę padėtį,
 notaras gali iš viso ar iš dalies atleisti jį nuo atlyginimo mokėjimo.
 Atlyginimo dydis nurodomas notariniame
@@ -555,7 +571,8 @@ atlyginimą.
 įsigyja  biuro patalpas ar jas nuomoja, perka reikiamą inventorių ir kitus
 reikmenis.
  
-22 straipsnis. Notaro atstovavimas ir pavadavimas
+22 straipsnis. Notaro atstovavimas ir
+pavadavimas
  
 Jeigu notaras negali eiti savo pareigų
 (atostogos, liga ar kitos priežastys), apie tai jis turi pranešti Lietuvos
@@ -642,7 +659,7 @@ I-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 straipsnis. Notarinių veiksmų atlikimas užsienyje
  
      Šio
-įstatymo  numatytus  notarinius  veiksmus  Lietuvos Respublikos piliečiams,
+įstatymo  numatytus  notarinius  veiksmus  Lietuvos Respublikos piliečiams,
 esantiems užsienyje, atlieka Lietuvos Respublikos konsulinės įstaigos. 
  
  
@@ -677,8 +694,11 @@ asmenų pareiškimus kitiems juridiniams ir fiziniams asmenims;
 vertybinius popierius;
 13) priima jūrinius protestus;
 14) protestuoja vekselius ir čekius;
-15) atlieka kitus įstatymų numatytus notarinius
-veiksmus.
+15)
+daro vykdomuosius įrašus pagal notaro užprotestuotus arba neprotestuotinus
+vekselius ir čekius;
+16) atlieka kitus įstatymų numatytus
+notarinius veiksmus.
   
 Pripažįstama, kad notarine forma patvirtintuose dokumentuose esantys faktai yra
 nustatyti ir neįrodinėjami, iki šie dokumentai (jų dalys) įstatymų nustatyta
@@ -690,6 +710,8 @@ Nr.
 I-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 Nr.
 VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
+Nr. VIII-1097,
+99.03.23, Žin., 1999, Nr.32-903 (99.04.09)
  
      27
 straipsnis. Lietuvos Respublikos konsulinių įstaigų atliekami 
@@ -755,8 +777,8 @@ Notariniai veiksmai atliekami notaro biure.
 Atlikti notarinius veiksmus ne notaro biuro patalpose galima tik tada, kai
 suinteresuotas asmuo dėl svarbios priežasties (liga, invalidumas ar kiti
 atvejai) negali atvykti į notaro biurą ir iškviečia notarą į namus, medicinos
-pagalbos ar kitą įstaigą, kai atliekant notarinį veiksmą dalyvauja daugiau nei dešimt
-asmenų arba kai notarinis veiksmas atliekamas iškilmingoje aplinkoje.
+pagalbos ar kitą įstaigą, kai atliekant notarinį veiksmą dalyvauja daugiau nei
+dešimt asmenų arba kai notarinis veiksmas atliekamas iškilmingoje aplinkoje.
 Lietuvos Respublikos konsulinių įstaigų
 atliekamų notarinių veiksmų vietą nustato teisės aktai, reguliuojantys Lietuvos
 Respublikos konsulinių įstaigų veiklą.
@@ -817,8 +839,8 @@ sudaromame dokumente.
 Lietuvos Respublikos teismai ne vėliau kaip
 per 3 dienas nuo sprendimo, apribojančio fizinio asmens veiksnumą ar
 panaikinančio veiksnumo apribojimus, įsiteisėjimo privalo sprendimo nuorašą
-nusiųsti Notarų rūmams, kurie praneša notarams apie ribotai veiksnius bei neveiksnius
-asmenis.
+nusiųsti Notarų rūmams, kurie praneša notarams apie ribotai veiksnius bei
+neveiksnius asmenis.
  
 Straipsnio
 pakeitimai:
@@ -829,10 +851,10 @@ VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
 straipsnis. Notarinių dokumentų pasirašymo tvarka
  
      Notaro
-tvirtinami sandoriai, taip pat pareiškimai ir kitokie dokumentai pasirašomi 
-dalyvaujant notarui.  Jeigu sandoris, pareiškimas arba  kitoks dokumentas 
-pasirašytas ne  notaro akivaizdoje,  pasirašęs asmuo turi asmeniškai
-patvirtinti, kad sandorį, pareiškimą arba kitokį dokumentą pasirašė jis.
+tvirtinami sandoriai, taip pat pareiškimai ir kitokie dokumentai pasirašomi  dalyvaujant
+notarui.  Jeigu sandoris, pareiškimas arba  kitoks dokumentas  pasirašytas ne 
+notaro akivaizdoje,  pasirašęs asmuo turi asmeniškai patvirtinti, kad sandorį,
+pareiškimą arba kitokį dokumentą pasirašė jis.
      Jeigu
 pilietis dėl fizinių trūkumų ar dėl kitų priežasčių pats negali  sandorio,
 pareiškimo  arba  kitokio  dokumento pasirašyti, jo prašymu sandorį, pareiškimą
@@ -972,8 +994,8 @@ Respublikos konsulinių įstaigų veiklą, nustatyta tvarka.
  
      42
 straipsnis. Skundai dėl notaro veiksmų, nesusijusių su notarinių 
-                  
- veiksmų atlikimu 
+         
+          veiksmų atlikimu 
  
      Skundus
 dėl  notaro veiksmų,  nesusijusių su atliekamų notarinių veiksmų esme,
@@ -1000,16 +1022,16 @@ Respublikos teisingumo ministerija.
  
    
    IV SKYRIUS  SANDORIŲ TVIRTINIMO IR NUOSAVYBĖS LIUDIJIMŲ
-       
-                  IŠDAVIMO YPATUMAI
+                         
+IŠDAVIMO YPATUMAI
  
      45
 straipsnis. Notaro tvirtinami sandoriai
  
      Notaras
 tvirtina  sandorius,  kuriems  pagal  įstatymus privaloma  notarinė  sudarymo 
-forma.  Šalims  pageidaujant, tvirtinami ir kiti sandoriai, kurie pagal įstatymus
-neprivalo būti notaro tvirtinami.
+forma.  Šalims  pageidaujant, tvirtinami ir kiti sandoriai, kurie pagal
+įstatymus neprivalo būti notaro tvirtinami.
 [45 straipsnio 2 dalis netenka
 galios nuo 1998 m. liepos 1 d.]
      Notaro 
@@ -1021,28 +1043,30 @@ pakeitimai:
 Nr.
 VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
  
-     46
-straipsnis. Sandorių dėl nekilnojamojo ir kitokio turto, kuriam 
-            
-būtina valstybinė registracija, perleidimo arba įkeitimo 
-            
-sutarčių tvirtinimas
+46 straipsnis. Sandorių dėl
+nekilnojamojo ir kitokio turto, kuriam būtina valstybinė registracija,
+perleidimo arba įkeitimo sutarčių tvirtinimas
  
-     Tvirtindami
-sandorius dėl nekilnojamojo ir kitokio turto, kuriam  būtina  valstybinė 
-registracija,  perleidimo  arba įkeitimo,  notarai  patikrina,  ar  turtas 
-priklauso  jį perleidžiančiam arba įkeičiančiam asmeniui, taip pat ar yra
-sutuoktinio rašytinis sutikimas,  jeigu turtas yra  bendra sutuoktinių
-nuosavybė.
-     Šiuose
-sandoriuose nurodoma jų registracijos atitinkamose institucijose terminas  ir
-teisinės sandorių neįregistravimo pasekmės.
+Tvirtindami sandorius dėl nekilnojamojo ir
+kitokio turto, kuriam būtina valstybinė registracija, perleidimo arba įkeitimo,
+notarai patikrina, ar turtas priklauso jį perleidžiančiam arba įkeičiančiam
+asmeniui, taip pat ar yra sutuoktinio rašytinis sutikimas, jeigu turtas yra
+bendra sutuoktinių nuosavybė.
+Tvirtindami sandorius dėl
+nekilnojamojo turto perleidimo arba įkeitimo, notarai patikrina, ar yra
+atitinkama vaikų teisių apsaugos tarnybos išvada, jeigu tvirtinami sandoriai
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 12 straipsnio 4
+dalyje ir 13 straipsnio 5 dalyje numatytais atvejais.
+Šiuose sandoriuose nurodoma
+jų registracijos atitinkamose institucijose terminas ir teisinės sandorių
+neįregistravimo pasekmės.
  
 Straipsnio
 pakeitimai:
 Nr.
 I-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
- 
+Nr.
+VIII-1108, 99.03.25, Žin., 1999, Nr.32-905 (99.04.09)
  
      47
 straipsnis. Sandorio liudininkai
@@ -1124,8 +1148,8 @@ TARPTAUTINĖS SUTARTYS
  
      53
 straipsnis. Notariniai veiksmai užsieniečiams, užsienio įmonėms ir
-                   
-organizacijoms
+  
+                 organizacijoms
  
      Užsieniečiai
 turi teisę patys ar per savo įgaliotąjį atstovą kreiptis į notarą ar Lietuvos
@@ -1151,15 +1175,15 @@ sudarytus  užsienyje  dalyvaujant  užsienio valstybės valdžiai, Lietuvos
 Respublikos notarai priima, jei juos legalizuoja Lietuvos Respublikos užsienio
 reikalų ministerijos įstaigos.
      Nelegalizuotus
-dokumentus  Lietuvos Respublikos  notarai priima, jei  tai nustatyta  Lietuvos Respublikos 
-įstatymų, tarptautinių sutarčių ir susitarimų, kuriuose dalyvauja Lietuvos
-Respublika.
+dokumentus  Lietuvos Respublikos  notarai priima, jei  tai nustatyta  Lietuvos
+Respublikos  įstatymų, tarptautinių sutarčių ir susitarimų, kuriuose dalyvauja
+Lietuvos Respublika.
  
      55
 straipsnis. Tarptautinės sutartys ir susitarimai
  
      Jeigu
-tarptautinė  sutartis arba  susitarimas,  kuriame dalyvauja Lietuvos
+tarptautinė  sutartis arba  susitarimas,  kuriame dalyvauja Lietuvos
 Respublika, nustato kitokias notarinių veiksmų taisykles negu tos, kurios yra
 Lietuvos Respublikos įstatymuose, atliekant notarinius veiksmus taikomos
 tarptautinės sutarties arba susitarimo taisyklės. 
@@ -1206,9 +1230,9 @@ organizuoja Lietuvos Respublikos teisingumo ministerija kartu su Notarų rūmais
 (asesoriaus) teisės ir pareigos
  
 Kandidatas į notarus (asesorius) susipažįsta
-su notariniais veiksmais dalyvaudamas rengiant šių veiksmų dokumentus, su
-organizacine notaro biuro veikla bei kitais klausimais pagal kandidatų į
-notarus (asesorių) rengimo programą, kurią tvirtina Notarų rūmų prezidiumas.
+su notariniais veiksmais dalyvaudamas rengiant šių veiksmų dokumentus, su organizacine
+notaro biuro veikla bei kitais klausimais pagal kandidatų į notarus (asesorių)
+rengimo programą, kurią tvirtina Notarų rūmų prezidiumas.
  Kandidatas į notarus (asesorius) neturi
 teisės savarankiškai atlikti notarinius veiksmus.
  Kandidatas į notarus (asesorius) privalo
