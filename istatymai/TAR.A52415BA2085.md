@@ -1583,17 +1583,33 @@ bankroto bylą:
             1) banko valdymo organai
 netenka savo įgaliojimų. Jei banko bankroto byla yra nutraukiama, tai banko
 valdymo organai turi teisę toliau atlikti savo funkcijas;
+ 
+2
+punkto redakcija iki 2003 m. liepos 1 d.:
             2) uždraudžiamas visų
 finansinių prievolių, įskaitant palūkanas ir mokesčius, mokėjimas, išieškojimas
 teismine ar ne ginčo tvarka, taip pat be atskiro teismo leidimo draudžiama
 dalyti ar kitaip skirstyti banko turtą, išskyrus išlaidas, reikalingas
 administratoriaus veiklai banko bankroto bylos nagrinėjimo metu užtikrinti;
+2
+punkto redakcija nuo 2003 m. liepos 1 d.:
+2) uždraudžiamas visų finansinių prievolių,
+įskaitant palūkanas ir mokesčius, mokėjimas, išieškojimas teismine ar ne ginčo
+tvarka, taip pat be atskiro teismo leidimo draudžiama dalyti ar kitaip
+skirstyti banko turtą, išskyrus išlaidas, reikalingas administratoriaus veiklai
+banko bankroto bylos nagrinėjimo metu užtikrinti. Šie draudimai netaikomi
+Atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose
+įstatymo nustatytais atvejais;
+ 
             3) sustabdomas palūkanų
 skaičiavimas.
 Straipsnio
 pakeitimai:
 Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 60-2140 (2001-07-11)
+Nr.
+IX-1599,
+2003-06-05, Žin., 2003, Nr. 61-2756 (2003-06-27)
  
             47 straipsnis. Banko
 administratorius
@@ -1635,11 +1651,12 @@ kitą mažiau apmokamą darbą, jeigu tai nekenkia darbuotojo sveikatai). Prirei
 banko administratorius skelbia prastovą visiems banko darbuotojams arba jų
 daliai ir už kiekvieną prastovos valandą mokamas Vyriausybės patvirtintas
 minimalus valandinis atlygis.
-            Bankas, kuriam iškelta bankroto
-byla, atleidžiamas nuo žyminio mokesčio bylose dėl turto išieškojimo.
+            Bankas, kuriam iškelta
+bankroto byla, atleidžiamas nuo žyminio mokesčio bylose dėl turto išieškojimo.
             Iškėlus banko bankroto bylą
 ir dėl to sustabdžius bylas dėl kreditorių pinigų išieškojimo, kreditoriams
-(ieškovams) iš valstybės biudžeto lėšų grąžinamas jų sumokėtas žyminis mokestis.
+(ieškovams) iš valstybės biudžeto lėšų grąžinamas jų sumokėtas žyminis
+mokestis.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1785,7 +1802,7 @@ Nr. IX-193,
 Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 60-2140 (2001-07-11)
 Nr. IX-978,
-2002-06-20, Žin., 2002, Nr. 65-2638 (2002-06-28), įsigalioja nuo 2002-07-01
+2002-06-20, Žin., 2002, Nr. 65-2638 (2002-06-28)
  
 53(1) straipsnis. Atlyginimas įkaito turėtojui
 Įkeitimu ir
@@ -1851,7 +1868,7 @@ Nr.
 VIII-1301,
 99.07.07, Žin., 1999, Nr.66-2119 (99.07.30)
 Nr. IX-722,
-2002-01-22, Žin., 2002, Nr. 13-476 (2002-02-06), įsigalioja nuo 2002-07-01
+2002-01-22, Žin., 2002, Nr. 13-476 (2002-02-06)
 Nr.
 IX-977,
 2002-06-20, Žin., 2002, Nr. 65-2637 (2002-06-28)
@@ -1884,7 +1901,8 @@ gali būti registruojamos nesušaukiant visuotinio akcininkų susirinkimo.
  
             56 straipsnis. Kai kurių
 teisės aktų pripažinimas netekusiais galios
-            Pripažinti netekusiais galios:
+            Pripažinti netekusiais
+galios:
             Lietuvos Respublikos
 komercinių (akcinių) bankų įstatymą (Žin., 1992, Nr.24-696; 1994, Nr.43-775,
 Nr. 55-1048);
@@ -2083,18 +2101,17 @@ Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 KOMERCINIŲ BANKŲ ĮSTATYMO 44, 46, 47, 53, 53(1)
 STRAIPSNIŲ PAKEITIMO IR 50, 51, 52 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
 ĮSTATYMAS
-Jeigu
-bankų, kuriems bankroto bylos iškeltos iki 1997 m. gruodžio 31 d. ir yra teismo
-priimti sprendimai šiuos bankus pripažinti bankrutavusiais ir pradėti jų
-likvidavimo procedūrą, likvidatoriai nebaigia likvidavimo procedūros ir bankai
-neišregistruojami iš juridinių asmenų registro per 6 mėnesius nuo šio įstatymo
-įsigaliojimo dienos, teismas šių bankų likvidatoriumi skiria akcinę bendrovę
-Turto banką. 
-Bankų, dėl kurių iki šio įstatymo
-įsigaliojimo yra teismo priimti sprendimai šiuos bankus pripažinti
-bankrutavusiais ir pradėti jų likvidavimo procedūrą, 24 mėnesių likvidavimo
-procedūros užbaigimo terminas pradedamas skaičiuoti nuo šio įstatymo
-įsigaliojimo dienos. 
+Jeigu bankų, kuriems bankroto bylos iškeltos iki 1997
+m. gruodžio 31 d. ir yra teismo priimti sprendimai šiuos bankus pripažinti
+bankrutavusiais ir pradėti jų likvidavimo procedūrą, likvidatoriai nebaigia
+likvidavimo procedūros ir bankai neišregistruojami iš juridinių asmenų registro
+per 6 mėnesius nuo šio įstatymo įsigaliojimo dienos, teismas šių bankų
+likvidatoriumi skiria akcinę bendrovę Turto banką. 
+Bankų,
+dėl kurių iki šio įstatymo įsigaliojimo yra teismo priimti sprendimai šiuos
+bankus pripažinti bankrutavusiais ir pradėti jų likvidavimo procedūrą, 24
+mėnesių likvidavimo procedūros užbaigimo terminas pradedamas skaičiuoti nuo šio
+įstatymo įsigaliojimo dienos. 
  
 22.
 Lietuvos
@@ -2146,12 +2163,22 @@ BANKŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin.,
 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės 1 d.
  
+26.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1599,
+2003-06-05, Žin., 2003, Nr. 61-2756 (2003-06-27)
+KOMERCINIŲ
+BANKŲ ĮSTATYMO 46 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+Šis Įstatymas įsigalioja
+nuo 2003 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-06)
+Aušrinė Trapinskienė (2003-06-27)
                  
 autrap@lrs.lt
 
