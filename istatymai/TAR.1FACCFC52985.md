@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FACCFC52985"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 1993-10-13 iki 1995-07-18
+Suvestinė redakcija nuo 1995-07-19 iki 1999-04-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 190-0; Žin. 1992, Nr.29-841, i. k. 0921010ISTA00I-2878
  
@@ -101,7 +101,10 @@ Susitarimai ar suderinti veiksmai tarp konkuruojančių ūkinių subjektų (ar p
 
 Valstybės valdymo organams ir savivaldybėms draudžiama priimti norminius aktus arba atlikti veiksmus, kurie riboja ūkinių subjektų savarankiškumą, ūkinių sutarčių sudarymą, trukdo steigti naujus ar pertvarkyti esamus ūkinius subjektus ir pakeisti jų veiklos pobūdį, suteikia privilegijas ar diskriminuoja atskirus ūkinius subjektus, ar kaip kitaip riboja konkurenciją.
 
-Valstybinės valdžios ir valdymo organų, savivaldybių bei jų struktūrinių padalinių vadovai ir pavaduotojai, taip pat skyrių vedėjai ir pavaduotojai negali būti personalinių įmonių savininkais, užimti jokių skiriamų ar renkamų pareigų, dirbti verslo, komercijos ar kitokiose privačiose įmonėse ar įstaigose, taip pat negali gauti kito atlyginimo, išskyrus pagal jų užimamas pareigas.
+2. Neteko galios nuo 1995-07-19
+Straipsnio dalies naikinimas:
+Nr. I-1019, 1995-07-05, Žin. 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
+ 
 
 Straipsnio pakeitimai:
 Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
@@ -131,25 +134,23 @@ VEIKLOS KONTROLĖ
 
 8 straipsnis. Kainų ir konkurencijos kontrolės institucija
 
-Šio bei Kainų įstatymo laikymosi priežiūros funkcijas Lietuvos Respublikoje vykdo kainų ir konkurencijos institucija, kurios vadovą tvirtina Vyriausybė.
+Šio bei Kainų įstatymo laikymosi priežiūros funkcijas Lietuvos Respublikoje vykdo konkurencijos ir vartotojų teisių gynimo institucija, kurios vadovą tvirtina Vyriausybė.
 
-Sprendimams priimti dėl šiame įstatyme reglamentuojamų kainų ir konkurencijos sudaroma Konkurencijos taryba. Konkurencijos tarybą suformuoja Vyriausybė iš 7 narių trejiems metams. Iš jų ne mažiau kaip 4 nariai skiriami pagal vartotojų, mokslo, verslo ir pramonininkų organizacijų rekomendacijas, likusieji skiriami iš kainų ir konkurencijos institucijos. Konkurencijos taryba sprendimus, susijusius su šio įstatymo vykdymu, priima 2/3 balsų dauguma. Konkurencijos tarybos bei kainų ir konkurencijos institucijos nuostatus tvirtina Vyriausybė.
+Sprendimams priimti dėl šiame įstatyme reglamentuojamų kainų ir konkurencijos sudaroma Konkurencijos taryba. Konkurencijos tarybą suformuoja Vyriausybė iš 7 narių trejiems metams. Iš jų ne mažiau kaip 4 nariai skiriami pagal vartotojų, mokslo, verslo ir pramonininkų organizacijų rekomendacijas, likusieji skiriami iš konkurencijos ir vartotojų teisių gynimo institucijos. Konkurencijos taryba sprendimus, susijusius su šio įstatymo vykdymu, priima 2/3 balsų dauguma. Konkurencijos tarybos bei konkurencijos ir vartotojų teisių gynimo institucijos nuostatus tvirtina Vyriausybė.
 
-Turėdama tikslą ginti ūkio ir vartotojų interesus, kainų ir konkurencijos institucija stebi rinkos konjunktūrą, rinkos kainų svyravimus, kaupia informaciją apie vartotojų poreikių patenkinimo galimybes, periodiškai teikia pasiūlymus Vyriausybei dėl kainų politikos formavimo ir vykdo kitas nuostatuose numatytas funkcijas.
+Turėdama tikslą ginti ūkio ir vartotojų interesus, konkurencijos ir vartotojų teisių gynimo institucija stebi rinkos konjunktūrą, rinkos kainų svyravimus, kaupia informaciją apie vartotojų poreikių patenkinimo galimybes, periodiškai teikia pasiūlymus Vyriausybei dėl kainų politikos formavimo ir vykdo kitas nuostatuose numatytas funkcijas.
 
-Kainų ir konkurencijos institucija turi teisę gauti iš ūkinių subjektų, valstybės valdymo organų ir savivaldybių reikalingą informaciją, visus dokumentus, rodančius ūkinę ir finansinę veiklą, vadovų ir kitų darbuotojų žodinius bei raštiškus paaiškinimus, reikalingus šiame įstatyme ir institucijos nuostatuose numatytoms funkcijoms vykdyti. 
-Straipsnio dalies pakeitimai:
-Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
+Konkurencijos ir vartotojų teisių gynimo institucija turi teisę gauti iš ūkinių subjektų, valstybės valdymo organų ir savivaldybių reikalingą informaciją, visus dokumentus, rodančius ūkinę ir finansinę veiklą, vadovų ir kitų darbuotojų žodinius bei raštiškus paaiškinimus, reikalingus šiame įstatyme ir institucijos nuostatuose numatytoms funkcijoms vykdyti. 
+
+Straipsnio pakeitimai:
+Nr. I-1019, 1995-07-05, Žin., 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
  
 
-9 straipsnis. Kainų ir konkurencijos institucijos įgaliojimai
+9 straipsnis. Konkurencijos ir vartotojų teisių gynimo institucijos įgaliojimai
 
-Kainų ir konkurencijos institucija, nustačiusi ūkinių subjektų ir valstybės valdymo organų ir savivaldybių padarytus šio įstatymo pažeidimus, parengia šiuo klausimu medžiagą ir pateikia ją Konkurencijos tarybai sprendimams priimti. Remdamasi Konkurencijos tarybos sprendimu, kainų ir konkurencijos institucija gali derybomis su ūkiniu subjektu siekti nutraukti neteisėtą veiką, jei ji sukėlė nedidelius neigiamus pakitimus (sumažėjo prekių gamybos ir paskirstymo efektyvumas, apribota laisva prekyba), o aplinkybės neprieštarauja tokioms deryboms. Pasiekus susitarimą, jo rezultatai ir neteisėtos veikos nutraukimo sąlygos įforminamos raštu.
-Straipsnio dalies pakeitimai:
-Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
- 
+Konkurencijos ir vartotojų teisių gynimo institucija, nustačiusi ūkinių subjektų ir valstybės valdymo organų ir savivaldybių padarytus šio įstatymo pažeidimus, parengia šiuo klausimu medžiagą ir pateikia ją Konkurencijos tarybai sprendimams priimti. Remdamasi Konkurencijos tarybos sprendimu, konkurencijos ir vartotojų teisių gynimo institucija gali derybomis su ūkiniu subjektu siekti nutraukti neteisėtą veiką, jei ji sukėlė nedidelius neigiamus pakitimus (sumažėjo prekių gamybos ir paskirstymo efektyvumas, apribota laisva prekyba), o aplinkybės neprieštarauja tokioms deryboms. Pasiekus susitarimą, jo rezultatai ir neteisėtos veikos nutraukimo sąlygos įforminamos raštu.
 
-Kitais atvejais arba nepasiekus derybomis susitarimo, kainų ir konkurencijos institucija turi teisę:
+Kitais atvejais arba nepasiekus derybomis susitarimo, konkurencijos ir vartotojų teisių gynimo institucija turi teisę:
 
 1) įpareigoti ūkinius subjektus nutraukti šį įstatymą pažeidžiančius susitarimus ir veiksmus;
 
@@ -158,8 +159,9 @@ Kitais atvejais arba nepasiekus derybomis susitarimo, kainų ir konkurencijos in
 3) įpareigoti nutraukti neteisėtą firmos vardo, prekių ženklo ar markiruotės naudojimą bei neteisingą prekių kilmės vietos nurodymą, taip pat dėl šių pažeidimų sulaikyti prekes;
 
 4) kreiptis į Lietuvos Respublikos Vyriausybę arba teismą dėl valstybės valdymo organų ir savivaldybių neteisėtų veiksmų nutraukimo ar priimtų sprendimų panaikinimo.
-Straipsnio punkto pakeitimai:
-Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
+
+Straipsnio pakeitimai:
+Nr. I-1019, 1995-07-05, Žin., 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
  
 
 V SKIRSNIS
@@ -169,20 +171,27 @@ STRUKTŪRŲ KONCENTRACIJAI
 
 10 straipsnis. Rinkos struktūrų koncentracijos kontrolė
 
-Kai sudarius sutartį ar įsigijus kontrolinį akcijų paketą viršijama maksimali rinkos struktūrų koncentracija (kapitalo koncentracija), kurią nustato Konkurencijos taryba, šalis ar šalys, vykdančios šią koncentraciją, prieš atlikdamos veiksmus, galinčius pakeisti nusistovėjusią rinkos struktūrą ir jos koncentracijos laipsnį, privalo iš anksto apie tai pranešti kainų ir konkurencijos institucijai.
+Kai sudarius sutartį ar įsigijus kontrolinį akcijų paketą viršijama maksimali rinkos struktūrų koncentracija (kapitalo koncentracija), kurią nustato Konkurencijos taryba, šalis ar šalys, vykdančios šią koncentraciją, prieš atlikdamos veiksmus, galinčius pakeisti nusistovėjusią rinkos struktūrą ir jos koncentracijos laipsnį, privalo iš anksto apie tai pranešti konkurencijos ir vartotojų teisių gynimo institucijai.
 
-Kainų ir konkurencijos institucija, gavusi suinteresuotų ūkinių subjektų pranešimą apie numatomą rinkos struktūrų koncentravimą, per vieną mėnesį turi priimti sprendimą dėl leidimo išdavimo.
+Konkurencijos ir vartotojų teisių gynimo institucija, gavusi suinteresuotų ūkinių subjektų pranešimą apie numatomą rinkos struktūrų koncentravimą, per vieną mėnesį turi priimti sprendimą dėl leidimo išdavimo.
 
 Šalims susitarus, sprendimo priėmimo terminas gali būti pratęsiamas, bet ne ilgiau kaip 9 mėnesiams.
 
-Jei per nurodytus laikotarpius kainų ir konkurencijos institucija sprendimo nepriima, ūkiniai subjektai įgauna teisę vykdyti numatytą struktūrų koncentraciją.
+Jei per nurodytus laikotarpius konkurencijos ir vartotojų teisių gynimo institucija sprendimo nepriima, ūkiniai subjektai įgauna teisę vykdyti numatytą struktūrų koncentraciją.
+ 
+
+Straipsnio pakeitimai:
+Nr. I-1019, 1995-07-05, Žin., 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
  
 
 11 straipsnis. Leidžiamos ir draudžiamos rinkos struktūrų koncentracijos
 
-Koncentravus rinkos struktūras, jeigu apie tai iš anksto nebuvo pranešta ir tam negautas kainų ir konkurencijos institucijos leidimas, taikomos šio įstatymo 12 straipsnyje numatytos ekonominės sankcijos.
+Koncentravus rinkos struktūras, jeigu apie tai iš anksto nebuvo pranešta ir tam negautas konkurencijos ir vartotojų teisių gynimo institucijos leidimas, taikomos šio įstatymo 12 straipsnyje numatytos ekonominės sankcijos.
 
-Leidimą koncentruoti rinkos struktūras, jeigu tam nepritarė kainų ir konkurencijos institucija, raštišku sprendimu gali duoti Lietuvos Respublikos Vyriausybė. Toks leidimas gali būti išduodamas koncentraciją vykdančioms šalims pateikus pagrindimą, jog dėl šio veiksmo bus padidintas gamybos ekonominis efektyvumas ar produkcijos konkurentabilumas, kurie negalėtų būti padidinti šios rinkos struktūrų nekoncentravus.
+Leidimą koncentruoti rinkos struktūras, jeigu tam nepritarė konkurencijos ir vartotojų teisių gynimo institucija, raštišku sprendimu gali duoti Lietuvos Respublikos Vyriausybė. Toks leidimas gali būti išduodamas koncentraciją vykdančioms šalims pateikus pagrindimą, jog dėl šio veiksmo bus padidintas gamybos ekonominis efektyvumas ar produkcijos konkurentabilumas, kurie negalėtų būti padidinti šios rinkos struktūrų nekoncentravus.
+
+Straipsnio pakeitimai:
+Nr. I-1019, 1995-07-05, Žin., 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
  
 
 VI SKIRSNIS
@@ -192,13 +201,10 @@ ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
 12 straipsnis. Įstatymo pažeidimo pasekmės
 
 Valstybės valdymo organų ir savivaldybių sprendimai dėl šio įstatymo pažeidimo gali būti apskundžiami teismui.
-Straipsnio dalies pakeitimai:
-Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
- 
 
 Ūkiniai subjektai, pažeidusieji šį įstatymą, privalo:
 
-1) vykdyti kainų ir konkurencijos institucijos nurodymus nutraukti veiksmus, atstatyti ankstesnę padėtį, nutraukti arba pakeisti sutartį, atlikti kitus įpareigojimus;
+1) vykdyti konkurencijos ir vartotojų teisių gynimo institucijos nurodymus nutraukti veiksmus, atstatyti ankstesnę padėtį, nutraukti arba pakeisti sutartį, atlikti kitus įpareigojimus;
 
 2) atlyginti partneriui padarytus nuostolius;
 
@@ -210,40 +216,45 @@ Konkurencijos taryba turi teisę:
 
 2) už melagingos informacijos teikimą skirti ūkiniams subjektams piniginę baudą iki 3 procentų metinių bendrųjų įplaukų;
 
-3) už kitų kainų ir konkurencijos institucijos duotų pagal šį įstatymą nurodymų nevykdymą arba vykdymą nelaiku, melagingos informacijos teikimą valstybės valdymo organų ir savivaldybių ir ūkinių subjektų pareigūnams skirti pinigines baudas iki 3 mėnesių jų vidutinio mėnesinio atlyginimo dydžio.
-Straipsnio punkto pakeitimai:
-Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
+3) už kitų konkurencijos ir vartotojų teisių gynimo institucijos duotų pagal šį įstatymą nurodymų nevykdymą arba vykdymą nelaiku, melagingos informacijos teikimą valstybės valdymo organų ir savivaldybių ir ūkinių subjektų pareigūnams skirti pinigines baudas iki 3 mėnesių jų vidutinio mėnesinio atlyginimo dydžio.
+
+Straipsnio pakeitimai:
+Nr. I-1019, 1995-07-05, Žin., 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
  
 
 13 straipsnis. Piniginių baudų išieškojimas
 
-Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį, skaičiuojant nuo dienos, kai ūkinis subjektas ar pareigūnas gavo kainų ir konkurencijos institucijos sprendimą paskirti baudą.
+Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį, skaičiuojant nuo dienos, kai ūkinis subjektas ar pareigūnas gavo konkurencijos ir vartotojų teisių gynimo institucijos sprendimą paskirti baudą.
 
 Piniginė bauda iš ūkinio subjekto įplaukų išieškoma ne ginčo tvarka.
+
+Straipsnio pakeitimai:
+Nr. I-1019, 1995-07-05, Žin., 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
  
 
-14 straipsnis. Kainų ir konkurencijos institucijos sprendimų apskundimas
+14 straipsnis. Konkurencijos ir vartotojų teisių gynimo institucijos sprendimų apskundimas
 
-Ūkiniai subjektai, valdymo organai ir savivaldybės per vieną mėnesį, skaičiuojant nuo kainų ir konkurencijos institucijos sprendimo gavimo dienos, gali kreiptis į teismą pagal atsakovo buvimo vietą dėl minėto sprendimo atšaukimo arba jo pakeitimo bei nuostolių atlyginimo.
-Straipsnio dalies pakeitimai:
-Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
- 
+Ūkiniai subjektai, valdymo organai ir savivaldybės per vieną mėnesį, skaičiuojant nuo konkurencijos ir vartotojų teisių gynimo institucijos sprendimo gavimo dienos, gali kreiptis į teismą pagal atsakovo buvimo vietą dėl minėto sprendimo atšaukimo arba jo pakeitimo bei nuostolių atlyginimo.
 
-Kreipimasis į teismą nesustabdo kainų ir konkurencijos institucijos nurodymų ir sprendimų vykdymo, jei teismas nenurodo kitaip.
+Kreipimasis į teismą nesustabdo konkurencijos ir vartotojų teisių gynimo institucijos nurodymų ir sprendimų vykdymo, jei teismas nenurodo kitaip.
 
 Konkurencijos tarybos sprendimai ir jų motyvai skelbiami viešai.
+
+Straipsnio pakeitimai:
+Nr. I-1019, 1995-07-05, Žin., 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
  
 
 15 straipsnis. Nuostolių atlyginimo tvarka
 
 Nuostoliai, padaryti ūkiniams subjektams ar vartotojams pažeidus šį įstatymą, turi būti atlyginami įstatymų nustatyta tvarka.
 
-Ūkinių subjektų patirti nuostoliai dėl valstybės valdymo organų ir savivaldybių bei kainų ir konkurencijos institucijos sprendimų, pažeidžiančių šio įstatymo reikalavimus, atlyginami iš atitinkamų valdymo organų arba valstybės biudžeto lėšų, vėliau išieškant jas iš kaltųjų asmenų.
-Straipsnio dalies pakeitimai:
-Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
- 
+Ūkinių subjektų patirti nuostoliai dėl valstybės valdymo organų ir savivaldybių bei konkurencijos ir vartotojų teisių gynimo institucijos sprendimų, pažeidžiančių šio įstatymo reikalavimus, atlyginami iš atitinkamų valdymo organų arba valstybės biudžeto lėšų, vėliau išieškant jas iš kaltųjų asmenų.
 
 Nuostoliai išieškomi teismine tvarka.
+
+Straipsnio pakeitimai:
+Nr. I-1019, 1995-07-05, Žin., 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
+ 
 
  
  
@@ -264,5 +275,10 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
+Dėl Lietuvos Respublikos konkurencijos įstatymo pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1019, 1995-07-05, Žin., 1995, Nr. 59-1479 (1995-07-19), i. k. 0951010ISTA00I-1019
 Dėl Lietuvos Respublikos konkurencijos įstatymo pakeitimo
 
