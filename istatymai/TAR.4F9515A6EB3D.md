@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 2001-07-01 iki 2001-12-28
+Suvestinė redakcija nuo 2001-12-29 iki 2002-07-16
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
  
@@ -41,7 +41,10 @@ Patvirtinti Lietuvos Respublikos teritorijoje galiojančių įstatymų, kurie bu
 
 
 
-3) Lietuvos Respublikos civilinį kodeksą, priimtą 1964 m. liepos 7 d., (Žin., 1964, Nr. 19-138) su vėlesniais pakeitimais ir papildymais – iki 2001 m. liepos 1 d.;
+3) Neteko galios nuo 2001-12-29
+Straipsnio punkto naikinimas:
+Nr. IX-642, 2001-12-11, Žin. 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010ISTA00IX-642
+ 
 
 
 
@@ -54,7 +57,10 @@ Nr. IX-390, 2001-06-21, Žin. 2001, Nr. 55-1947 (2001-06-27), i. k. 1011010ISTA0
 
 
 
-5) Lietuvos Respublikos santuokos ir šeimos kodeksą, priimtą 1969 m. liepos 16 d., (Žin., 1969, Nr. 21-186) su vėlesniais pakeitimais ir papildymais – iki 2001 m. liepos 1 d.;
+5) Neteko galios nuo 2001-12-29
+Straipsnio punkto naikinimas:
+Nr. IX-642, 2001-12-11, Žin. 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010ISTA00IX-642
+ 
 
 
 
@@ -64,7 +70,10 @@ Nr. IX-390, 2001-06-21, Žin. 2001, Nr. 55-1947 (2001-06-27), i. k. 1011010ISTA0
 
 
 
-7) Lietuvos Respublikos darbo įstatymų kodeksą, priimtą 1972 m. birželio 1 d., (Žin., 1972, Nr. 18-137) su vėlesniais pakeitimais ir papildymais – iki 2002 m. sausio 1 d.;
+7) Lietuvos Respublikos darbo įstatymų kodeksą, priimtą 1972 m. birželio 1 d. (Žin., 1972, Nr. 18-137), su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.; 
+Straipsnio punkto pakeitimai:
+Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010ISTA00IX-642
+ 
 
 
 
@@ -74,7 +83,10 @@ Nr. IX-390, 2001-06-21, Žin. 2001, Nr. 55-1947 (2001-06-27), i. k. 1011010ISTA0
 
 
 
-9) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d., (Žin., 1989, Nr. 33-445) su vėlesniais pakeitimais ir papildymais – iki 2002 m. sausio 1 d.;
+9) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d. (Žin., 1989, Nr. 33-445), su vėlesniais pakeitimais ir papildymais – iki 2003 m. sausio 1 d.;
+Straipsnio punkto pakeitimai:
+Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010ISTA00IX-642
+ 
 
 
 
@@ -136,3 +148,8 @@ Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-390, 2001-06-21, Žin., 2001, Nr. 55-1947 (2001-06-27), i. k. 1011010ISTA00IX-390
 Lietuvos Respublikos civilinio proceso kodekso pakeitimo ir papildymo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010ISTA00IX-642
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
