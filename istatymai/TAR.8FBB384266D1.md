@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 
 # Lietuvos Respublikos saugios laivybos įstatymas
 
+Suvestinė redakcija nuo 2000-10-11 iki 2005-06-30
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
+ 
+ 
 LIETUVOS RESPUBLIKOS
 SAUGIOS LAIVYBOS
 Į S T A T Y M A S
@@ -1463,9 +1468,12 @@ BAIGIAMOSIOS NUOSTATOS
 52 straipsnis. Įstatymo įsigaliojimas
 
 
-Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d.
+Šis įstatymas įsigalioja nuo 2000 m. spalio 1 d. 
 
 
+Straipsnio pakeitimai:
+Nr. VIII-1961, 2000-09-26, Žin., 2000, Nr. 85-2583 (2000-10-11), i. k. 1001010ISTAIII-1961
+ 
 
 
 
@@ -1479,3 +1487,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 ______________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1961, 2000-09-26, Žin., 2000, Nr. 85-2583 (2000-10-11), i. k. 1001010ISTAIII-1961
+Lietuvos Respublikos saugios laivybos įstatymo 52 straipsnio pakeitimo įstatymas
