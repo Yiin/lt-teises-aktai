@@ -13,12 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2002-07-03 iki 2003-06-30
+Suvestinė redakcija nuo 2003-07-01 iki 2004-04-23
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
  
-Nauja redakcija nuo 2001-01-01:
-Nr. VIII-1852, 2000-07-17, Žin. 2000, Nr. 64-1924 (2000-07-31), i. k. 1001010ISTAIII-1852
+Nauja redakcija nuo 2003-07-01:
+Nr. IX-1296, 2003-01-21, Žin. 2003, Nr. 15-597 (2003-02-12), i. k. 1031010ISTA0IX-1296
  
 LIETUVOS RESPUBLIKOS ASMENS DUOMENŲ TEISINĖS APSAUGOS ĮSTATYMAS
  
@@ -35,57 +35,62 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo tikslas, paskirtis ir taikymo sritis 
 
 
-1. Šio įstatymo tikslas – ginti žmogaus privataus gyvenimo neliečiamumo teisę ryšium su asmens duomenų tvarkymu ir sudaryti sąlygas laisvam asmens duomenų judėjimui.
+1. Šio Įstatymo tikslas – ginti žmogaus privataus gyvenimo neliečiamumo teisę ryšium su asmens duomenų tvarkymu.
 
 
 
 
-2. Šis įstatymas reglamentuoja santykius, kurie atsiranda tvarkant asmens duomenis automatiniu būdu, taip pat neautomatiniu būdu tvarkant asmens duomenų susistemintas rinkmenas: sąrašus, kartotekas, bylas, sąvadus. Įstatymas nustato fizinių asmenų, kaip duomenų subjektų, teises, šių teisių apsaugos tvarką, juridinių ir fizinių asmenų teises, pareigas ir atsakomybę tvarkant asmens duomenis. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
+2. Šis Įstatymas reglamentuoja santykius, kurie atsiranda tvarkant asmens duomenis automatiniu būdu, taip pat neautomatiniu būdu tvarkant asmens duomenų susistemintas rinkmenas: sąrašus, kartotekas, bylas, sąvadus ir kita. Įstatymas nustato fizinių asmenų kaip duomenų subjektų teises, šių teisių apsaugos tvarką, juridinių ir fizinių asmenų teises, pareigas ir atsakomybę tvarkant asmens duomenis. 
+
+
+
+
+3. Šis Įstatymas taikomas asmens duomenų tvarkymui, kai:
+
+
+1) asmens duomenis savo veikloje tvarko duomenų valdytojas, įsteigtas ir veikiantis Lietuvos Respublikos teritorijoje;
+
+
+
+
+2) asmens duomenis tvarko duomenų valdytojas, įsteigtas ne Lietuvos Respublikos teritorijoje, bet kuriam taikomi Lietuvos Respublikos įstatymai pagal tarptautinę viešąją teisę (įskaitant diplomatines atstovybes, konsulines įstaigas); 
+
+
+
+
+3) asmens duomenis tvarko duomenų valdytojas, kuris yra įsteigtas ir veikia valstybėje, kuri nėra Europos Sąjungos narė, bet naudoja Lietuvos Respublikoje įrengtas automatines asmens duomenų tvarkymo priemones, išskyrus atvejus, kai tokios priemonės naudojamos tik duomenims persiųsti tranzitu per Lietuvos Respublikos ir Europos Sąjungos teritoriją. Šiame punkte nurodytu atveju duomenų valdytojas privalo turėti atstovą – įsteigtą filialą arba atstovybę Lietuvos Respublikoje – kuriam taikomos šio Įstatymo nuostatos, skirtos duomenų valdytojui.
+TAR pastaba. 1 straipsnio 3 dalies 3 punktas įsigalioja Lietuvai tapus Europos Sąjungos nare.
+
+
+
+
+
+
+4. Šis Įstatymas netaikomas, jeigu asmens duomenis tvarko fizinis asmuo ir tik savo asmeniniams poreikiams, nesusijusiems su verslu ar profesija, tenkinti. 
+
+
+
+
+5. Tvarkant asmens duomenis valstybės saugumo, gynybos tikslais, šis Įstatymas taikomas tiek, kiek kiti įstatymai nenustato kitaip.
+
+
+
+
+6. Šiuo Įstatymu nevaržomas ir nedraudžiamas laisvas asmens duomenų judėjimas vykdant Lietuvos Respublikos narystės Europos Sąjungoje įsipareigojimus.
+TAR pastaba. 1 straipsnio 6 dali įsigalioja Lietuvai tapus Europos Sąjungos nare.
+
+
+
+
+7. Šiuo Įstatymu Lietuvos Respublikos asmens duomenų teisinės apsaugos reguliavimas suderinamas su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo priede.
  
 
 
 
 
-3. Šis įstatymas taikomas:
 
 
-1) juridiniams ir fiziniams asmenims, kurie tvarko asmens duomenis Lietuvos Respublikos teritorijoje; 
-Straipsnio punkto pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
-
-
-
-
-2) duomenų valdytojo atstovui Lietuvos Respublikoje, jei duomenų valdytojas, veikdamas valstybėje, kuri nėra Europos Sąjungos narė, naudoja Lietuvos Respublikoje įrengtas automatines asmens duomenų tvarkymo priemones, išskyrus, kai tokios priemonės naudojamos tik duomenims persiųsti tranzitu per Europos Sąjungos teritoriją; tokiu atveju atstovui taikomos šio įstatymo nuostatos, skirtos duomenų valdytojui.
-TAR pastaba. 1 straipsnio 3 dalies 2 punktas įsigalioja Lietuvai tapus Europos Sąjungos nare.
-
-
-
-
-
-
-4. Šis įstatymas netaikomas, jeigu asmens duomenis tvarko fizinis asmuo ir tik savo asmeninėje veikloje. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
-
-
-
-
-5. Tvarkant asmens duomenis valstybės saugumo, gynybos tikslais, šis įstatymas taikomas tiek, kiek kiti įstatymai nenustato kitaip. 
-Papildyta straipsnio dalimi:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
-
-
-
-
-
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
 1. Asmens duomenys – bet kuri informacija, susijusi su fiziniu asmeniu – duomenų subjektu, kurio tapatybė yra žinoma arba gali būti tiesiogiai ar netiesiogiai nustatyta pasinaudojant tokiais duomenimis kaip asmens kodas, vienas arba keli asmeniui būdingi fizinio, fiziologinio, psichologinio, ekonominio, kultūrinio ar socialinio pobūdžio požymiai. 
@@ -93,57 +98,42 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-2. Ypatingi asmens duomenys – duomenys apie fizinio asmens rasinę ir etninę kilmę, politinius, religinius, filosofinius ar kitus įsitikinimus, narystę profesinėse sąjungose ir politinėse partijose, sveikatą, lytinį gyvenimą, teistumą. 
+2. Duomenų gavėjas – juridinis ar fizinis asmuo, kuriam teikiami asmens duomenys. Šio Įstatymo vykdymo priežiūros institucijos, nurodytos 8 ir 29 straipsniuose, kitos valstybės ir savivaldybių institucijos ir įstaigos nėra duomenų gavėjai, kai šios institucijos ir įstaigos pagal konkretų paklausimą gauna asmens duomenis įstatymų nustatytoms kontrolės funkcijoms atlikti. 
 
 
 
 
-3. Duomenų valdytojas – juridinis ar fizinis asmuo, kurie vieni arba drauge su kitais nustato asmens duomenų tvarkymo tikslus ir priemones, tvarko asmens duomenis. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
+3. Duomenų teikimas – asmens duomenų atskleidimas perduodant ar kitu būdu padarant juos prieinamus (išskyrus paskelbimą visuomenės informavimo priemonėse).
 
 
 
 
-4. Duomenų tvarkytojas – juridinis ar fizinis asmuo, kurie yra duomenų valdytojo įgalioti tvarkyti asmens duomenis. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
+4. Duomenų tvarkymas – bet kuris su asmens duomenimis atliekamas veiksmas: rinkimas, užrašymas, kaupimas, saugojimas, klasifikavimas, grupavimas, jungimas, keitimas (papildymas ar taisymas), teikimas, paskelbimas, naudojimas, loginės ir (ar) aritmetinės operacijos, paieška, skleidimas, naikinimas ar kitoks veiksmas arba veiksmų rinkinys.
 
 
 
 
-5. Duomenų gavėjas – juridinis ar fizinis asmuo, kuriems teikiami asmens duomenys. Šio įstatymo vykdymo priežiūros institucijos, nurodytos 8 ir 25 straipsniuose, taip pat 14 straipsnyje nurodyta Ryšių reguliavimo tarnyba nėra duomenų gavėjai, kai šios institucijos gauna asmens duomenis jų tvarkymo kontrolės tikslu. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
+5. Duomenų tvarkymas automatiniu būdu – duomenų tvarkymo veiksmai, visiškai ar iš dalies atliekami automatinėmis priemonėmis.
 
 
 
 
-6. Sutikimas – savanoriškas duomenų subjekto leidimas tvarkyti jo asmens duomenis jam žinomu tikslu. Dėl ypatingų asmens duomenų sutikimas išreiškiamas rašytine forma, dėl kitų asmens duomenų – bet kokia forma. 
+6. Duomenų tvarkytojas – juridinis ar fizinis (kuris nėra duomenų valdytojo darbuotojas) asmuo, duomenų valdytojo įgaliotas tvarkyti asmens duomenis. Duomenų tvarkytojas ir (ar) jo skyrimo tvarka gali būti nustatyti įstatymuose ar kituose teisės aktuose.
 
 
 
 
-7. Trečiasis asmuo – juridinis ar fizinis asmuo, išskyrus duomenų subjektą, duomenų valdytoją, duomenų tvarkytoją. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
+7. Duomenų valdytojas – juridinis ar fizinis asmuo, kuris vienas arba drauge su kitais nustato asmens duomenų tvarkymo tikslus ir priemones. Jeigu duomenų tvarkymo tikslus nustato įstatymai ar kiti teisės aktai, tai duomenų valdytojas ir (ar) jo skyrimo tvarka gali būti nustatyti tuose įstatymuose ar kituose teisės aktuose.
 
 
 
 
-8. Duomenų tvarkymas – bet kuris su asmens duomenimis atliekamas veiksmas: rinkimas, užrašymas, kaupimas, saugojimas, klasifikavimas, grupavimas, jungimas, keitimas (papildymas ar taisymas), teikimas, paskelbimas, naudojimas, laikymas, loginės ir (arba) aritmetinės operacijos, paieška, skleidimas, naikinimas ar kitoks veiksmas arba veiksmų rinkinys. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
+8. Išankstinė patikra – numatomų duomenų tvarkymo veiksmų patikrinimas prieš juos pradedant šiame Įstatyme nustatytais atvejais.
 
 
 
 
-9. Duomenų teikimas – asmens duomenų atskleidimas, perdavimas, sąlygų susipažinti su jais sudarymas įvairiomis priemonėmis. 
+9. Ypatingi asmens duomenys – duomenys, susiję su fizinio asmens rasine ar etnine kilme, politiniais, religiniais, filosofiniais ar kitais įsitikinimais, naryste profesinėse sąjungose, sveikata, lytiniu gyvenimu, taip pat informacija apie asmens teistumą. 
 
 
 
@@ -153,17 +143,27 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-11. Vidaus administravimas – veikla, kuria užtikrinamas duomenų valdytojo savarankiškas funkcionavimas (struktūros tvarkymas, personalo valdymas, turimų materialinių–finansinių išteklių valdymas ir naudojimas, raštvedybos tvarkymas).
+11. Sutikimas – savanoriškas duomenų subjekto valios pareiškimas tvarkyti jo asmens duomenis jam žinomu tikslu. Sutikimas tvarkyti ypatingus asmens duomenis turi būti išreikštas aiškiai – rašytine, jai prilyginta ar kita forma, neabejotinai įrodančia duomenų subjekto valią. 
 
 
 
 
-12. Išankstinė patikra – procedūrų, numatomų naudoti tvarkant asmens duomenis, išankstinis patikrinimas siekiant nustatyti jų veiksmingumą ir teisingumą.
+12. Tiesioginė rinkodara – veikla, kuri skirta paštu, telefonu arba kitokiu tiesioginiu būdu siūlyti asmenims prekes ar paslaugas ir (ar) teirautis jų nuomonės dėl siūlomų prekių ar paslaugų.
 
 
 
 
-13. Tiesioginė rinkodara – veikla, kuri skirta paštu, telefonu arba kitokiu tiesioginiu būdu siūlyti asmenims prekes ar paslaugas ir teirautis jų nuomonės dėl siūlomų prekių ar paslaugų. 
+13. Trečiasis asmuo – juridinis ar fizinis asmuo, išskyrus duomenų subjektą, duomenų valdytoją, duomenų tvarkytoją ir asmenis, kurie yra tiesiogiai duomenų valdytojo ar duomenų tvarkytojo įgalioti tvarkyti duomenis.
+
+
+
+
+14. Vidaus administravimas – veikla, kuria užtikrinamas duomenų valdytojo savarankiškas funkcionavimas (struktūros tvarkymas, personalo valdymas, turimų materialinių ir finansinių išteklių valdymas ir naudojimas, raštvedybos tvarkymas).
+
+
+
+
+15. Vieša duomenų rinkmena – valstybės registras ar kita duomenų rinkmena, kuri pagal įstatymus ar kitus teisės aktus skirta teikti informaciją visuomenei ir kuria visuomenė gali teisėtai naudotis.
  
 
 
@@ -178,41 +178,46 @@ ASMENS DUOMENŲ TVARKYMAS
  
 
 
-3 straipsnis. Duomenų valdytojo pareigos
+3 straipsnis. Bendrieji duomenų tvarkymo principai 
 
 
-Duomenų valdytojo pareiga yra užtikrinti, kad asmens duomenys būtų:
+1. Asmens duomenys turi būti:
 
 
-1) renkami apibrėžtais ir teisėtais tikslais, nustatytais prieš renkant asmens duomenis, ir po to tvarkomi su šiais tikslais suderintais būdais;
+1) renkami apibrėžtais ir teisėtais tikslais, nustatytais prieš renkant asmens duomenis, ir paskui tvarkomi su šiais tikslais suderintais būdais;
 
 
 
 
 2) tvarkomi tiksliai, sąžiningai ir teisėtai; 
-Straipsnio punkto pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
+
+
+
+
+3) tikslūs ir, jei reikia dėl asmens duomenų tvarkymo, nuolat atnaujinami; netikslūs ar neišsamūs duomenys turi būti ištaisyti, papildyti, sunaikinti arba sustabdytas jų tvarkymas;
+
+
+
+
+4) tapatūs, tinkami ir tik tokios apimties, kuri būtina jiems rinkti ir toliau tvarkyti;
+
+
+
+
+5) saugomi tokia forma, kad duomenų subjektų tapatybę būtų galima nustatyti ne ilgiau, negu to reikia tiems tikslams, dėl kurių šie duomenys buvo surinkti ir tvarkomi. 
+
+
+
+
+
+
+2. Asmens duomenys, surinkti kitais tikslais, gali būti tvarkomi statistikos, istoriniais ar mokslinio tyrimo tikslais tik įstatymų nustatytais atvejais, kai įstatymuose nustatytos tinkamos duomenų apsaugos priemonės.
+
+
+
+
+3. Duomenų valdytojas privalo užtikrinti, kad būtų įgyvendinti šio straipsnio 1 ir 2 dalyse išdėstyti asmens duomenų tvarkymo principai.
  
-
-
-
-
-3) tikslūs ir, jei reikia dėl asmens duomenų tvarkymo, nuolat atnaujinami;
-
-
-
-
-4) tokios apimties, kuri būtina asmens duomenims tvarkyti;
-
-
-
-
-5) laikomi tokia forma, kad duomenų subjektų tapatybę būtų galima nustatyti ne vėliau, negu to reikia tiems tikslams, dėl kurių šie duomenys buvo surinkti ir tvarkomi. 
-Papildyta straipsnio punktu:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
-
-
 
 
 
@@ -222,12 +227,7 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 4 straipsnis. Asmens duomenų saugojimas ir sunaikinimas
 
 
-1. Asmens duomenys saugomi ne ilgiau, nei to reikalauja duomenų tvarkymo tikslai. Kai asmens duomenys nebereikalingi jų tvarkymo tikslams, jie sunaikinami, išskyrus tuos, kurie įstatymų nustatytais atvejais turi būti perduoti valstybiniams archyvams.
-
-
-
-
-2. Asmens duomenų perdavimo valstybiniams archyvams tvarką nustato Lietuvos archyvų departamentas.
+Asmens duomenys saugomi ne ilgiau, nei to reikalauja duomenų tvarkymo tikslai. Kai asmens duomenys nebereikalingi jų tvarkymo tikslams, jie turi būti sunaikinami, išskyrus tuos, kurie įstatymų nustatytais atvejais turi būti perduoti valstybiniams archyvams.
  
 
 
@@ -241,7 +241,7 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 1. Asmens duomenys gali būti tvarkomi, jeigu:
 
 
-1) duomenų subjektas duoda sutikimą tvarkyti savo asmens duomenis; 
+1) duomenų subjektas duoda sutikimą; 
 
 
 
@@ -256,12 +256,12 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-4) siekiama apsaugoti duomenų subjekto gyvybę ir kai duomenų subjektas nepajėgia duoti sutikimo;
+4) siekiama apsaugoti duomenų subjekto esminius interesus; 
 
 
 
 
-5) įgyvendinami valstybės valdžios ir valdymo bei savivaldybių įstaigų įgaliojimai, suteikti duomenų valdytojui arba trečiajam asmeniui, kuriam teikiami asmens duomenys; 
+5) įgyvendinami oficialūs įgaliojimai, suteikti valstybės bei savivaldybių institucijoms arba trečiajam asmeniui, kuriam teikiami asmens duomenys; 
 
 
 
@@ -273,25 +273,25 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-2. Ypatingi asmens duomenys gali būti tvarkomi tik tais atvejais, kai:
+2. Draudžiama tvarkyti ypatingus asmens duomenis, išskyrus atvejus, kai:
 
 
-1) duomenų subjektas duoda raštišką sutikimą;
-
-
-
-
-2) tai yra būtina darbo ar valstybės tarnybos tikslu duomenų valdytojo teisėms ir prievolėms darbo teisės srityje įgyvendinti įstatymų ir kitų teisės aktų nustatytais atvejais; 
+1) duomenų subjektas duoda sutikimą;
 
 
 
 
-3) reikia apsaugoti duomenų subjekto arba kito asmens gyvybę, kai duomenų subjektas nepajėgia duoti sutikimo arba yra teismo pripažintas neveiksniu;
+2) toks tvarkymas yra būtinas darbo ar valstybės tarnybos tikslu duomenų valdytojo teisėms ir prievolėms darbo teisės srityje įgyvendinti įstatymų nustatytais atvejais; 
 
 
 
 
-4) asmens duomenis tvarko fondas, asociacija, profesinė sąjunga, politinė partija ar kita ne pelno organizacija savo veiklos tikslu, jei tvarkomi asmens duomenys yra susiję su šios organizacijos nariais arba su asmenimis, kurie nuolat kitaip dalyvauja jos veikloje. Šie asmens duomenys negali būti teikiami trečiajam asmeniui be duomenų subjekto sutikimo; 
+3) reikia apsaugoti duomenų subjekto arba kito asmens esminius interesus, kai duomenų subjektas nepajėgia duoti sutikimo dėl fizinės negalios arba yra neveiksnus;
+
+
+
+
+4) asmens duomenis tvarko savo veikloje fondas, asociacija ar kita ne pelno organizacija politiniais, filosofiniais, religiniais ar su profesinėmis sąjungomis susijusiais tikslais, jei tvarkomi asmens duomenys yra susiję tiktai su šios organizacijos nariais arba su asmenimis, kurie nuolat kitaip dalyvauja jos veikloje dėl šios organizacijos siekiamų tikslų. Šie asmens duomenys negali būti teikiami trečiajam asmeniui be duomenų subjekto sutikimo; 
 
 
 
@@ -301,30 +301,24 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-6) įstatymų nustatytais atvejais būtina užkirsti kelią nusikalstamoms veikoms ar būtina jas tirti; 
-Papildyta straipsnio punktu:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
+6) įstatymų nustatytais atvejais būtina užkirsti kelią nusikalstamoms ar kitoms neteisėtoms veikoms arba būtina jas tirti;
 
 
 
 
-7) jie yra reikalingi bylai nagrinėti teisme.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
+7) jie yra reikalingi bylai nagrinėti teisme. 
 
 
 
 
 
 
-3. Duomenys apie asmens sveikatą (jos būklę, diagnozę, prognozę ir gydymą) taip pat gali būti tvarkomi šio įstatymo 10 straipsnyje ir sveikatos sritį reglamentuojančių įstatymų nustatytais tikslais ir tvarka.
+3. Duomenys apie asmens sveikatą taip pat gali būti tvarkomi šio Įstatymo 10 straipsnyje ir sveikatos sritį reglamentuojančių įstatymų nustatytais tikslais ir tvarka.
 
 
 
 
-4. Asmens duomenys, surinkti kitais tikslais, gali būti tvarkomi istoriniais ar mokslinio tyrimo tikslais, jeigu yra nustatytos tinkamos asmens duomenų apsaugos priemonės. 
+4. Asmens duomenis, susijusius su asmens teistumu, nusikalstamomis veikomis ar saugumo priemonėmis, vykdant nusikalstamų veikų prevenciją, tyrimą, taip pat kitais įstatymų nustatytais atvejais įstatymų nustatyta tvarka gali tvarkyti tik valstybės institucija ar įstaiga. Kiti fiziniai ar juridiniai asmenys tokius duomenis gali tvarkyti įstatymų nustatytais atvejais, kai yra tinkamai įgyvendintos įstatymuose ir kituose teisės aktuose nustatytos priemonės duomenų subjekto teisėtiems interesams apsaugoti. Išsamūs duomenys apie asmenų teistumą gali būti tvarkomi tik Valstybės registrų įstatymo nustatyta tvarka.
  
 
 
@@ -332,10 +326,10 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-6 straipsnis. Asmens duomenų teikimo formos
+6 straipsnis. Asmens duomenų teikimo būdai
 
 
-Asmens duomenys šio įstatymo nustatytais atvejais teikiami pagal duomenų valdytojo ir duomenų gavėjo sudarytą asmens duomenų teikimo sutartį (daugkartinio teikimo atveju) arba duomenų gavėjo prašymą (vienkartinio teikimo atveju). Sutartyje turi būti nurodyta asmens duomenų naudojimo tikslas, sąlygos ir tvarka. Prašyme turi būti nurodytas duomenų naudojimo tikslas.
+Asmens duomenys šio Įstatymo nustatytais atvejais teikiami pagal duomenų valdytojo ir duomenų gavėjo sudarytą asmens duomenų teikimo sutartį (daugkartinio teikimo atveju) arba duomenų gavėjo prašymą (vienkartinio teikimo atveju). Sutartyje turi būti nurodyta asmens duomenų naudojimo tikslas, sąlygos ir tvarka. Prašyme turi būti nurodytas duomenų naudojimo tikslas.
  
 
 
@@ -346,27 +340,35 @@ Asmens duomenys šio įstatymo nustatytais atvejais teikiami pagal duomenų vald
 7 straipsnis. Asmens kodo naudojimas
 
 
-1. Asmens kodas – unikali skaitmenų seka, kuri asmeniui suteikiama Gyventojų registro įstatyme nustatyta tvarka. Jo naudojimui taikomos tik šio straipsnio nuostatos.
+1. Asmens kodas – unikali skaitmenų seka, kuri asmeniui suteikiama Gyventojų registro įstatyme nustatyta tvarka. 
 
 
 
 
-2. Asmens kodą be duomenų subjekto sutikimo galima naudoti tik:
-
-
-1) jei tokia teisė yra nustatyta įstatymuose ar kituose teisės aktuose; 
+2. Naudoti asmens kodą tvarkant asmens duomenis galima tik gavus duomenų subjekto sutikimą. 
 
 
 
 
-2) atliekant mokslinį arba statistinį tyrimą. Šiuo atveju taikomos atitinkamai 11 ir 12 straipsnių nuostatos;
+3. Be duomenų subjekto sutikimo asmens kodą galima naudoti tik:
+
+
+1) jei tokia teisė yra nustatyta šiame ir kituose įstatymuose; 
 
 
 
 
-3) institucijose, įstaigose ir įmonėse, kurių veikla susijusi su paskolų suteikimu ir skolų išieškojimu, draudimu ar nuomos verslu, sveikatos apsaugos ir socialinio draudimo bei kitų socialinės globos institucijų ir švietimo įstaigų, mokslo ir studijų institucijų veikloje, taip pat įstatymų nustatytais atvejais tvarkant įslaptintus duomenis.
-Straipsnio punkto pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
+2) atliekant mokslinį arba statistinį tyrimą šio Įstatymo 12 ir 13 straipsniuose nustatytais atvejais;
+
+
+
+
+3) valstybės registruose ir informacinėse sistemose, jeigu jie yra įteisinti teisės aktų nustatyta tvarka;
+
+
+
+
+4) juridiniams asmenims, kurių veikla susijusi su paskolų teikimu ir skolų išieškojimu, draudimu ar nuomos verslu, taip pat sveikatos apsaugos ir socialinio draudimo bei kitų socialinės globos institucijų ir švietimo įstaigų, mokslo ir studijų institucijų veikloje bei įstatymų nustatytais atvejais tvarkant įslaptintus duomenis.
  
 
 
@@ -379,7 +381,7 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 8 straipsnis. Asmens duomenų tvarkymas ir visuomenės informavimo laisvės derinimas 
 
 
-Asmens duomenų tvarkymą žurnalistikos, meninės ir literatūrinės raiškos bei kitais visuomenės informavimo tikslais prižiūri institucijos, numatytos Visuomenės informavimo įstatyme. Šiais atvejais asmens duomenų tvarkymui taikomos tik šio įstatymo 1, 2, 3, 4, 7, 21, 28 ir 29 straipsnių nuostatos.
+Asmens duomenų tvarkymą visuomenės informavimo priemonėse žurnalistikos, meninės ir literatūrinės raiškos bei kitais tikslais prižiūri žurnalistų etikos inspektorius. Jo kompetenciją nustato Visuomenės informavimo įstatymas. Šiais atvejais asmens duomenų tvarkymui taikomos tik šio Įstatymo 1, 2, 3, 4, 6, 7, 24, 33 ir 34 straipsnių nuostatos.
  
 
 
@@ -387,7 +389,7 @@ Asmens duomenų tvarkymą žurnalistikos, meninės ir literatūrinės raiškos b
 
 
 
-9 straipsnis. Asmens duomenų tvarkymas socialinės globos tikslais
+9 straipsnis. Asmens duomenų tvarkymas socialinio draudimo ir socialinės globos tikslais
 
 
 Socialinių paslaugų teikėjai, atlikdami savo funkcijas socialinio draudimo ir kitais socialinės globos tikslais, asmens duomenis vieni kitiems teikia be duomenų subjekto sutikimo.
@@ -401,37 +403,12 @@ Socialinių paslaugų teikėjai, atlikdami savo funkcijas socialinio draudimo ir
 10 straipsnis. Asmens duomenų tvarkymas sveikatos apsaugos tikslais
 
 
-1. Asmens duomenis apie asmens sveikatą (jos būklę, diagnozę, prognozę ir gydymą) gali tvarkyti sveikatos apsaugos sistemos darbuotojas. Pagal sveikatos sistemą ar pacientų teises reglamentuojančius įstatymus, Vyriausybės nutarimus bei Sveikatos apsaugos ministerijos teisės aktus šis darbuotojas privalo saugoti asmens sveikatos paslaptį.
+1. Asmens duomenis apie asmens sveikatą (jos būklę, diagnozę, prognozę bei gydymą ir kt.) gali tvarkyti įgaliotas sveikatos apsaugos sistemos darbuotojas. Asmens sveikatos paslaptis turi būti saugoma pagal Civilinį kodeksą, pacientų teises reglamentuojančius įstatymus ir kitus teisės aktus.
 
 
 
 
-2. Asmens duomenys apie asmens sveikatą (jos būklę, diagnozę, prognozę ir gydymą) gali būti tvarkomi tokiais tikslais:
-
-
-1) prevencinės (profilaktinės) medicinos;
-
-
-
-
-2) medicininės diagnostikos;
-
-
-
-
-3) sveikatos priežiūros ir gydymo; 
-
-
-
-
-4) sveikatos apsaugos sistemos valdymo.
-
-
-
-
-
-
-3. Asmens duomenys mokslinio medicininio tyrimo tikslu tvarkomi vadovaujantis Biomedicininių tyrimų etikos įstatymu.
+2. Asmens duomenys mokslinio medicininio tyrimo tikslu tvarkomi vadovaujantis šiuo ir kitais įstatymais.
  
 
 
@@ -439,28 +416,26 @@ Socialinių paslaugų teikėjai, atlikdami savo funkcijas socialinio draudimo ir
 
 
 
-101 straipsnis. Asmens duomenų tvarkymas rinkimų, referendumo, piliečių įstatymų leidybos iniciatyvos tikslais
+11 straipsnis. Asmens duomenų tvarkymas rinkimų, referendumo, piliečių įstatymų leidybos iniciatyvos tikslais
 
 
-1. Asmens duomenų (t.y. vardo, pavardės, gimimo datos, asmens kodo, gyvenamosios vietos adreso, pilietybę, asmens tapatybę patvirtinančio dokumento numerio) tvarkymą rinkimų, referendumų, piliečių įstatymų leidybos iniciatyvos, politinių kampanijų, politinių partijų finansavimo tikslais nustato šis ir kiti įstatymai.
+1. Asmens duomenų (t. y. vardo, pavardės, gimimo datos, asmens kodo, gyvenamosios vietos adreso, pilietybę, asmens tapatybę patvirtinančio dokumento numerio) tvarkymą rinkimų, referendumų, piliečių įstatymų leidybos iniciatyvos, politinių kampanijų, politinių partijų finansavimo tikslais nustato šis ir kiti įstatymai.
 
 
 
 
-2. Vyriausiosios rinkimų komisijos pagal kandidatų ar jų atstovų pateiktus pareiškinius ir kitus dokumentus sudaryta ir interneto tinklapyje paskelbta informacija apie kandidatus, taip pat kandidatų gautus balsus, rinkimų, referendumo komisijų narių, stebėtojų, atstovų, iniciatyvinių grupių narių sąrašai po rinkimų, referendumo rezultatų paskelbimo, taip pat politinės kampanijos aukotojų sąrašai po jų paskelbimo gali būti keičiami, kai taisomos kalbos klaidos ar informacija interneto tinklapyje skiriasi nuo informacijos, teisės aktų nustatytu laiku pateiktos pareiškiniuose ir kituose dokumentuose. Interneto tinklapyje negali būti skelbiami kandidatų ir kitų asmenų asmens kodai, pilietybę ar asmens tapatybę patvirtinančių dokumentų numeriai, tikslus gyvenamosios vietos adresas (gatvė, namo, buto numeris). 
-
-
-Papildyta straipsniu:
-Nr. IX-970, 2002-06-20, Žin., 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA00IX-970
+2. Vyriausiosios rinkimų komisijos pagal kandidatų ar jų atstovų pateiktus pareiškinius ir kitus dokumentus sudaryta ir interneto tinklapyje paskelbta informacija apie kandidatus, taip pat kandidatų gautus balsus, rinkimų, referendumo komisijų narių, stebėtojų, atstovų, iniciatyvinių grupių narių sąrašai po rinkimų, referendumo rezultatų paskelbimo, taip pat politinės kampanijos aukotojų sąrašai po jų paskelbimo gali būti keičiami, kai taisomos kalbos klaidos ar informacija interneto tinklapyje skiriasi nuo informacijos, teisės aktų nustatytu laiku pateiktos pareiškiniuose ir kituose dokumentuose. Interneto tinklapyje negali būti skelbiami kandidatų ir kitų asmenų asmens kodai, pilietybę ar asmens tapatybę patvirtinančių dokumentų numeriai, tikslus gyvenamosios vietos adresas (gatvė, namo, buto numeris).
  
 
 
 
 
-11 straipsnis. Asmens duomenų tvarkymas mokslinio tyrimo tikslais
 
 
-1. Atliekant mokslinį tyrimą, asmens duomenys be duomenų subjekto sutikimo tvarkomi tik tuomet, jeigu tyrimo negalima atlikti nenustačius asmens tapatybės. Tokiu atveju tyrimo programą turi patvirtinti Vyriausybė ar jos įgaliota institucija. 
+12 straipsnis. Asmens duomenų tvarkymas mokslinio tyrimo tikslais
+
+
+1. Atliekant mokslinį tyrimą, asmens duomenys tvarkomi, jei duomenų subjektas davė sutikimą. Be duomenų subjekto sutikimo asmens duomenys mokslinio tyrimo tikslais gali būti tvarkomi tik pranešus Valstybinei duomenų apsaugos inspekcijai, o ši privalo atlikti išankstinę patikrą.
 
 
 
@@ -480,7 +455,7 @@ Nr. IX-970, 2002-06-20, Žin., 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA
 
 
 
-5. Tyrimo rezultatai skelbiami kartu su asmens duomenimis, jeigu duomenų subjektas duoda sutikimą.
+5. Tyrimo rezultatai skelbiami kartu su asmens duomenimis, jeigu duomenų subjektas duoda sutikimą, kad jo asmens duomenys būtų paskelbti.
  
 
 
@@ -488,7 +463,7 @@ Nr. IX-970, 2002-06-20, Žin., 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA
 
 
 
-12 straipsnis. Asmens duomenų tvarkymas statistikos tikslais
+13 straipsnis. Asmens duomenų tvarkymas statistikos tikslais
 
 
 1. Asmens duomenų tvarkymas statistikos tikslais yra statistinių tyrimų vykdymas, jų rezultatų teikimas bei saugojimas.
@@ -496,7 +471,7 @@ Nr. IX-970, 2002-06-20, Žin., 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA
 
 
 
-2. Asmens duomenys, surinkti ne statistikos tikslais, gali būti naudojami oficialiosios statistikos informacijai rengti, jeigu šiame ir kituose įstatymuose nenustatyta kitaip. 
+2. Asmens duomenys, surinkti ne statistikos tikslais, įstatymų nustatytais atvejais gali būti naudojami oficialiosios statistikos informacijai rengti. 
 
 
 
@@ -519,7 +494,7 @@ Nr. IX-970, 2002-06-20, Žin., 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA
 
 
 
-13 straipsnis. Asmens duomenų tvarkymas tiesioginės rinkodaros tikslais
+14 straipsnis. Asmens duomenų tvarkymas tiesioginės rinkodaros tikslais
 
 
 1. Asmens duomenys gali būti tvarkomi tiesioginės rinkodaros tikslais, jeigu juos renkant yra nustatoma asmens duomenų saugojimo trukmė. 
@@ -527,7 +502,7 @@ Nr. IX-970, 2002-06-20, Žin., 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA
 
 
 
-2. Asmens duomenys negali būti tvarkomi tiesioginės rinkodaros tikslais, jeigu duomenų subjektas nesutinka dėl savo asmens duomenų tvarkymo. Duomenų subjektas turi būti supažindintas su savo teise nesutikti dėl savo asmens duomenų tvarkymo.
+2. Asmens duomenys gali būti tvarkomi tiesioginės rinkodaros tikslais, jeigu duomenų subjektas duoda sutikimą.
  
 
 
@@ -535,49 +510,102 @@ Nr. IX-970, 2002-06-20, Žin., 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA
 
 
 
-14 straipsnis. Asmens duomenų tvarkymas telekomunikacijų srityje
+15 straipsnis. Asmens duomenų tvarkymas telekomunikacijų srityje
 
 
-1. Asmens duomenų tvarkymas telekomunikacijų srityje yra asmens duomenų tvarkymas, susijęs su bendrųjų telekomunikacijų paslaugų teikimu bendraisiais telekomunikacijų tinklais, ypač skaitmeniniu visuminių paslaugų tinklu ir bendraisiais judriaisiais skaitmeniniais tinklais.
-
-
-
-
-2. Asmens duomenys negali būti tvarkomi viešuose abonentų sąrašuose, jeigu duomenų subjektas nesutinka dėl savo asmens duomenų tvarkymo. Duomenų valdytojas arba duomenų tvarkytojas privalo supažindinti duomenų subjektą su jo teise nesutikti dėl jo asmens duomenų tvarkymo. 
-
-
-
-
-3. Abonento (duomenų subjekto) sutikimu viešuose spausdintuose ar elektroniniuose abonentų sąrašuose pateikiami tik abonento vardas, pavardė, telefono numeris ir adresas. Jeigu abonentas nesutinka, duomenų valdytojai (telekomunikacijų paslaugų teikėjas ir telekomunikacijų operatorius) privalo neteikti jo asmens duomenų. Viešuose elektroniniuose abonentų sąrašuose neturi būti leidžiama asmens duomenų paieška pagal abonento telefono numerį. Draudžiama pagal abonento telefono numerį teikti jo asmens duomenis tretiesiems asmenims, jeigu Lietuvos Respublikos įstatymai nenustato kitaip. 
-
-
-
-
-4. Abonentui detali sąskaita už jam suteiktas telekomunikacijų paslaugas išduodama, kai jis pateikia prašymą. Telekomunikacijų paslaugų teikėjas ar telekomunikacijų tinklų operatorius detalioje sąskaitoje pateikia abonento, kuriam buvo skambinama, numerį, vykusių pokalbių ar paslaugų rūšį, pradžią (datą ir laiką), trukmę ir kainą.
-
-
-
-
-5. Su bendrųjų telekomunikacijų paslaugų abonentu susiję srauto duomenys (abonento numeris, adresas, abonento, kuriam buvo skambinama, numeris, vykusių pokalbių ar paslaugų rūšis, pradžia, trukmė) yra laikomi tiek, kiek reikia tiems tikslams, dėl kurių jie buvo surinkti ir tvarkomi, ir, jeigu kiti įstatymai nenumato kitaip, jie turėtų būti sunaikinti ne vėliau kaip praėjus 3 metams nuo ryšio pabaigos arba pakeisti taip, kad pagal juos nebūtų galima tiesiogiai ar netiesiogiai nustatyti asmens tapatybės. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
+Asmens duomenys telekomunikacijų srityje tvarkomi vadovaujantis Telekomunikacijų įstatymu ir šiuo Įstatymu. 
  
 
 
 
 
-6. Telekomunikacijų paslaugas teikiančių įmonių darbuotojams leidžiama tvarkyti šio straipsnio 4 ir 5 dalyse nurodytus srauto ir sąskaitų duomenis tik tiek, kiek yra būtina atliekant tarnybines pareigas.
+
+
+16 straipsnis. Asmens duomenų tvarkymas asmens mokumui įvertinti ir įsiskolinimui valdyti 
+
+
+1. Duomenų valdytojas turi teisę tvarkyti ir teikti teisėtą interesą turintiems tretiesiems asmenims laiku bei tinkamai finansinių ir (ar) turtinių įsipareigojimų jam neįvykdžiusių duomenų subjektų (toliau – skolininkų) duomenis, taip pat ir asmens kodą, kad būtų galima įvertinti asmens mokumą ir valdyti įsiskolinimą, jei tinkamai įgyvendinami šiame Įstatyme bei kituose teisės aktuose nustatyti duomenų apsaugos reikalavimai.
 
 
 
 
-7. Ryšių reguliavimo tarnyba turi teisę gauti šio straipsnio 4 dalyje nurodytus srauto duomenis ginčams tarp bendrųjų telekomunikacijų paslaugų teikėjų ir jų abonentų spręsti. 
+2. Duomenų valdytojas turi teisę skolininkų duomenis, taip pat ir asmens kodą, teikti duomenų valdytojams, tvarkantiems jungtines skolininkų duomenų rinkmenas (toliau – jungtines rinkmenas). Duomenų valdytojas gali tvarkyti jungtines rinkmenas, turėdamas tikslą teikti tokius duomenis teisėtą interesą turintiems tretiesiems asmenims, kad šie galėtų įvertinti duomenų subjekto mokumą ir valdyti įsiskolinimą, tik šio Įstatymo 26 straipsnio nustatyta tvarka pranešęs Valstybinei duomenų apsaugos inspekcijai, kuri privalo atlikti išankstinę patikrą.
 
 
 
 
-8. Duomenų valdytojai (telekomunikacijų paslaugų teikėjas ir telekomunikacijų operatorius) privalo užtikrinti telekomunikacijų tinklo saugumą šio įstatymo 21 straipsnio nustatyta tvarka. Iškilus telekomunikacijų tinklo ar jo dalies pažeidimo grėsmei, bendrųjų telekomunikacijų paslaugų teikėjas privalo informuoti abonentus, kurie naudojasi to tinklo ar jo dalies teikiamomis paslaugomis, apie galimą tinklo saugumo pažeidimo grėsmę.
+3. Duomenų valdytojas gali teikti skolininkų duomenis tik tuo atveju, jeigu jis duomenų subjektui raštu pateikė priminimą apie įsipareigojimų neįvykdymą ir per 18 kalendorinių dienų nuo tos dienos, kai duomenų valdytojas išsiuntė (pateikė) duomenų subjektui priminimą:
+
+
+1) įsiskolinimas liko nepadengtas ir (ar) mokėjimo terminas nebuvo atidėtas arba;
+
+
+
+
+2) duomenų subjektas pagrįstai neginčijo įsiskolinimo. 
+
+
+
+
+
+
+4. Duomenų valdytojas negali tvarkyti ypatingų asmens duomenų.
+
+
+
+
+5. Jungtinės rinkmenos negali būti jungiamos su asmens duomenimis iš kitų asmens duomenų rinkmenų, kurios buvo sudarytos ir yra tvarkomos kitais negu mokumo vertinimo bei įsiskolinimo valdymo tikslais. 
+
+
+
+
+6. Duomenų valdytojas, tvarkantis jungtines rinkmenas, gavęs iš šio straipsnio 2 dalyje nurodyto duomenų valdytojo skolininkų duomenis, privalo kiekvienam duomenų subjektui suteikti šią informaciją (išskyrus atvejus, kai duomenų subjektas tokią informaciją jau turi): 
+
+
+1) apie savo (duomenų valdytojo) ir savo atstovo, jei šis yra, rekvizitus ir buveinę;
+
+
+
+
+2) kokiais tikslais tvarkomi duomenų subjekto asmens duomenys;
+
+
+
+
+3) iš kokių šaltinių ir kokie duomenų subjekto duomenys surinkti, kam ir kokiais tikslais teikiami, apie duomenų subjekto teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti neteisingus, netikslius, neišsamius savo asmens duomenis buvimą.
+
+
+
+
+
+
+7. Duomenys apie faktą, kad duomenų subjektas laiku ir tinkamai neįvykdė savo finansinių ir (ar) turtinių įsipareigojimų, negali būti tvarkomi ilgiau negu 10 metų nuo įsiskolinimo padengimo dienos. Kai duomenų subjektas įsiskolinimą padengia, duomenų valdytojai privalo užtikrinti, kad tvarkant duomenis apie duomenų subjekto tinkamai ir laiku neįvykdytus finansinius ir (ar) turtinius įsipareigojimus būtų nurodoma:
+
+
+1) kad duomenų subjektas įsiskolinimą padengė;
+
+
+
+
+2) įsiskolinimo padengimo data. 
+
+
+
+
+
+
+8. Bankai ir kitos kredito įstaigos bei finansų įmonės, kurios verčiasi kreditine ir (ar) finansine veikla, gali teikti vieni kitiems iš jų paskolas (įskaitant lizingą – finansinę nuomą) paėmusių duomenų subjektų duomenis (vardą, pavardę, asmens kodą, paskolos rūšį, sumą, galutinį paskolos grąžinimo terminą), kad būtų galima įvertinti šių subjektų mokumą. Bankai ir kitos kredito įstaigos bei finansų įmonės, kurios verčiasi kreditine ir (ar) finansine veikla, gali kreiptis vienos į kitas norėdamos gauti šioje dalyje nurodytus asmens duomenis tik tuo atveju, kai duomenų subjektas kreipiasi į šias įstaigas, įmones dėl paskolos (įskaitant lizingą – finansinę nuomą) gavimo ir duoda sutikimą, kad šios įstaigos, įmonės gautų jo duomenis. Gauti duomenų subjektų duomenys negali būti:
+
+
+1) saugomi ilgiau negu 2 darbo dienas nuo tokių duomenų gavimo;
+
+
+
+
+2 ) jungiami su kitais asmens duomenimis.
  
+
+
 
 
 
@@ -591,10 +619,10 @@ DUOMENŲ SUBJEKTO TEISĖS
  
 
 
-15 straipsnis. Duomenų subjekto teisės
+17 straipsnis. Duomenų subjekto teisės
 
 
-1. Duomenų subjektas įstatymų nustatyta tvarka turi teisę:
+1. Duomenų subjektas šio Įstatymo nustatyta tvarka turi teisę:
 
 
 1) žinoti (būti informuotas) apie savo asmens duomenų tvarkymą;
@@ -607,12 +635,12 @@ DUOMENŲ SUBJEKTO TEISĖS
 
 
 
-3) reikalauti ištaisyti ar sunaikinti savo asmens duomenis 18 straipsnio 1 dalyje nustatytais atvejais;
+3) reikalauti ištaisyti, sunaikinti savo asmens duomenis arba sustabdyti, išskyrus saugojimą, savo asmens duomenų tvarkymo veiksmus, kai duomenys tvarkomi nesilaikant šio ir kitų įstatymų nuostatų;
 
 
 
 
-4) nesutikti dėl savo asmens duomenų tvarkymo.
+4) nesutikti, kad būtų tvarkomi jo asmens duomenys.
 
 
 
@@ -627,7 +655,7 @@ DUOMENŲ SUBJEKTO TEISĖS
 
 
 
-2) viešąją tvarką, nusikaltimų prevenciją, tyrimą, nustatymą ar baudžiamąjį persekiojimą;
+2) viešąją tvarką, nusikalstamų veikų prevenciją, tyrimą, nustatymą ar baudžiamąjį persekiojimą;
 
 
 
@@ -637,14 +665,24 @@ DUOMENŲ SUBJEKTO TEISĖS
 
 
 
-4) tarnybinės ar profesinės etikos pažeidimų nustatymą;
+4) tarnybinės ar profesinės etikos pažeidimų prevenciją, tyrimą ir nustatymą;
 
 
 
 
-5) duomenų subjekto ar kitų asmenų teisių ir laisvių apsaugą. 
-Papildyta straipsnio punktu:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
+5) duomenų subjekto ar kitų asmenų teisių ir laisvių apsaugą.
+
+
+
+
+
+
+3. Duomenų valdytojas turi motyvuotai pagrįsti atsisakymą vykdyti duomenų subjekto prašymą įgyvendinti šiame Įstatyme nustatytas duomenų subjekto teises. Duomenų valdytojas, gavęs duomenų subjekto prašymą, ne vėliau kaip per 30 kalendorinių dienų nuo duomenų subjekto kreipimosi dienos turi pateikti jam atsakymą. Jei duomenų subjekto prašymas išreikštas rašytine forma, duomenų valdytojas turi pateikti jam atsakymą raštu. 
+
+
+
+
+4. Duomenų subjektas gali skųsti duomenų valdytojo veiksmus (neveikimą) Valstybinei duomenų apsaugos inspekcijai per 3 mėnesius nuo atsakymo iš duomenų valdytojo gavimo dienos arba per 3 mėnesius nuo tos dienos, kada baigiasi šio straipsnio 3 dalyje nustatytas terminas pateikti atsakymą. Valstybinės duomenų apsaugos inspekcijos veiksmus (neveikimą) įstatymų nustatyta tvarka duomenų subjektas gali skųsti teismui.
  
 
 
@@ -652,14 +690,55 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-3. Duomenų valdytojas turi konkrečiais motyvais pagrįsti atsisakymą vykdyti duomenų subjekto prašymą, išreikštą rašytine forma, ir pateikti jam atsakymą raštu. Duomenų subjektas gali skųsti duomenų valdytojo atsisakymą Vyriausybės įgaliotai institucijai per 30 kalendorinių dienų nuo atsakymo gavimo, o Vyriausybės įgaliotos institucijos atsakymą – teismui įstatymų nustatyta tvarka.
+18 straipsnis. Duomenų subjekto informavimas apie jo duomenų tvarkymą
+
+
+1. Duomenų valdytojas privalo suteikti duomenų subjektui, kurio asmens duomenis renka tiesiogiai iš jo, šią informaciją (išskyrus atvejus, kai duomenų subjektas tokią informaciją jau turi):
+
+
+1) apie savo (duomenų valdytojo) ir savo atstovo, jei šis yra, tapatybę ir nuolatinę gyvenamąją vietą (jei duomenų valdytojas ar jo atstovas yra fizinis asmuo) ar rekvizitus ir buveinę (jei duomenų valdytojas ar jo atstovas yra juridinis asmuo); 
 
 
 
 
-4. Neteko galios nuo 2002-07-03
-Straipsnio dalies naikinimas:
-Nr. IX-970, 2002-06-20, Žin. 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA00IX-970
+2) kokiais tikslais tvarkomi duomenų subjekto asmens duomenys;
+
+
+
+
+3) kitą papildomą informaciją (kam ir kokiais tikslais teikiami duomenų subjekto asmens duomenys; kokius savo asmens duomenis duomenų subjektas privalo pateikti ir kokios yra duomenų nepateikimo pasekmės, apie duomenų subjekto teisę susipažinti su savo asmens duomenimis ir teisę reikalauti ištaisyti neteisingus, neišsamius, netikslius savo asmens duomenis), kiek jos reikia, kad būtų užtikrintas teisingas asmens duomenų tvarkymas nepažeidžiant duomenų subjekto teisių.
+
+
+
+
+
+
+2. Duomenų valdytojas, kuris asmens duomenis gauna ne iš duomenų subjekto, privalo apie tai informuoti duomenų subjektą pradėdamas tvarkyti asmens duomenis arba, jei ketina duomenis teikti tretiesiems asmenims, privalo apie tai informuoti duomenų subjektą ne vėliau kaip iki to momento, kai duomenys teikiami pirmą kartą, išskyrus atvejus, kai įstatymai ar kiti teisės aktai apibrėžia tokių duomenų rinkimo ir teikimo tvarką bei duomenų gavėjus. Šiuo atveju duomenų valdytojas privalo duomenų subjektui suteikti šią informaciją (išskyrus atvejus, kai duomenų subjektas tokią informaciją jau turi):
+
+
+1) apie savo (duomenų valdytojo) ir savo atstovo, jei šis yra, tapatybę ir nuolatinę gyvenamąją vietą (jei duomenų valdytojas ar jo atstovas yra fizinis asmuo) ar rekvizitus ir buveinę (jei duomenų valdytojas ar jo atstovas yra juridinis asmuo);
+
+
+
+
+2) kokiais tikslais tvarkomi ar ketinami tvarkyti duomenų subjekto asmens duomenys;
+
+
+
+
+3) kitą papildomą informaciją (iš kokių šaltinių ir kokie duomenų subjekto asmens duomenys renkami ar ketinami rinkti; kam ir kokiais tikslais teikiami duomenų subjekto asmens duomenys; apie duomenų subjekto teisę susipažinti su savo asmens duomenimis ir teisę reikalauti ištaisyti neteisingus, neišsamius, netikslius savo asmens duomenis), kiek jos reikia, kad būtų užtikrintas teisingas asmens duomenų tvarkymas nepažeidžiant duomenų subjekto teisių.
+
+
+
+
+
+
+3. Kai duomenų valdytojas renka ar ketina rinkti asmens duomenis iš duomenų subjekto ir juos tvarko ar ketina tvarkyti tiesioginės rinkodaros tikslais, prieš teikdamas duomenų subjekto duomenis, jis privalo informuoti duomenų subjektą, kam ir kokiais tikslais jo asmens duomenys bus teikiami.
+
+
+
+
+4. Šio straipsnio 2 dalis netaikoma tvarkant asmens duomenis statistikos arba istoriniais ar mokslinio tyrimo tikslais, kai tokios informacijos pateikti neįmanoma ar pernelyg sunku (dėl didelio duomenų subjektų skaičiaus, duomenų senumo, nepagrįstai didelių sąnaudų) arba kai duomenų rinkimo ir teikimo tvarką nustato įstatymai. Apie tai duomenų valdytojas privalo pranešti Valstybinei duomenų apsaugos inspekcijai šio Įstatymo 26 straipsnio nustatyta tvarka. 
  
 
 
@@ -667,34 +746,7 @@ Nr. IX-970, 2002-06-20, Žin. 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA0
 
 
 
-16 straipsnis. Duomenų subjekto informavimas apie jo duomenų tvarkymą
-
-
-1. Duomenų valdytojas privalo informuoti duomenų subjektą, kurio asmens duomenis jis renka tiesiogiai iš jo, apie savo (duomenų valdytojo) ir savo atstovo, jei šis yra, tapatybę ir nuolatinę gyvenamąją vietą ar buveinę, kokiu tikslu tvarkomi duomenų subjekto asmens duomenys ir kam jie teikiami, išskyrus atvejus, kai duomenų subjektas tokią informaciją turi. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
-
-
-
-
-2. Duomenų valdytojas, kuris asmens duomenis apie duomenų subjektą renka ne iš duomenų subjekto, privalo apie tai informuoti duomenų subjektą iki asmens duomenų tvarkymo pradžios, jeigu įstatymai ar kiti teisės aktai neapibrėžia tokių duomenų rinkimo ir teikimo tvarkos. Šiuo atveju duomenų valdytojas privalo duomenų subjektui suteikti informaciją apie savo (duomenų valdytojo) ir savo atstovo, jei šis yra, tapatybę ir nuolatinę gyvenamąją vietą ar buveinę, taip pat iš kokių šaltinių ir kokie duomenų subjekto asmens duomenys renkami ar ketinami rinkti, kokiu tikslu jie tvarkomi ar ketinami tvarkyti, kam teikiami ar ketinami teikti, išskyrus atvejus, kai duomenų subjektas tokią informaciją turi. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
-
-
-
-
-3. Kai duomenų valdytojas renka ar ketina rinkti asmens duomenis iš duomenų subjekto ir juos tvarko ar ketina tvarkyti tiesioginės rinkodaros tikslais, jis privalo informuoti duomenų subjektą prieš teikdamas duomenų subjekto duomenis tretiesiems asmenims pirmą kartą. 
- 
-
-
-
-
-
-
-17 straipsnis. Duomenų subjekto teisė susipažinti su savo asmens duomenimis 
+19 straipsnis. Duomenų subjekto teisė susipažinti su savo asmens duomenimis 
 
 
 1. Duomenų subjektas, pateikdamas duomenų valdytojui ar duomenų tvarkytojui asmens tapatybę patvirtinantį dokumentą, turi teisę gauti informaciją, iš kokių šaltinių ir kokie jo asmens duomenys surinkti, kokiu tikslu jie tvarkomi, kam teikiami. 
@@ -702,14 +754,7 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-2. Duomenų valdytojas, gavęs duomenų subjekto paklausimą dėl jo asmens duomenų tvarkymo, privalo atsakyti, ar su juo susiję asmens duomenys yra tvarkomi, ir pateikti duomenų subjektui prašomus duomenis ne vėliau kaip per 30 kalendorinių dienų nuo duomenų subjekto kreipimosi dienos. Duomenų subjekto prašymu tokie duomenys turi būti pateikiami raštu. Neatlygintinai tokius duomenis duomenų valdytojas teikia duomenų subjektui kartą per kalendorinius metus. Teikiant duomenis atlygintinai, atlyginimo dydis neturi viršyti duomenų teikimo sąnaudų. Duomenų teikimo atlyginimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
-
-
-
-
-3. Neteko galios nuo 2002-07-03
-Straipsnio dalies naikinimas:
-Nr. IX-970, 2002-06-20, Žin. 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA00IX-970
+2. Duomenų valdytojas, gavęs duomenų subjekto paklausimą dėl jo asmens duomenų tvarkymo, privalo atsakyti, ar su juo susiję asmens duomenys yra tvarkomi, ir pateikti duomenų subjektui prašomus duomenis ne vėliau kaip per 30 kalendorinių dienų nuo duomenų subjekto kreipimosi dienos. Duomenų subjekto prašymu tokie duomenys turi būti pateikiami raštu. Neatlygintinai tokius duomenis duomenų valdytojas teikia duomenų subjektui kartą per kalendorinius metus. Teikiant duomenis atlygintinai, atlyginimo dydis neturi viršyti duomenų teikimo sąnaudų. Duomenų teikimo atlyginimo tvarką nustato Vyriausybė.
  
 
 
@@ -717,74 +762,55 @@ Nr. IX-970, 2002-06-20, Žin. 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA0
 
 
 
-18 straipsnis. Duomenų subjekto teisė reikalauti ištaisyti ar sunaikinti savo asmens duomenis
+20 straipsnis. Duomenų subjekto teisė reikalauti ištaisyti, sunaikinti ar sustabdyti savo asmens duomenų tvarkymo veiksmus 
 
 
-1. Jei duomenų subjektas mano, kad jo asmens duomenys yra neteisingi, neišsamūs ar netikslūs, ir kreipiasi į duomenų valdytoją, duomenų valdytojas privalo asmens duomenis patikrinti ir ištaisyti. Jei duomenų subjektas mano, kad jo asmens duomenys yra tvarkomi neteisėtai, nesąžiningai, ir kreipiasi į duomenų valdytoją, duomenų valdytojas privalo neatlygintinai patikrinti asmens duomenų tvarkymo teisėtumą, sąžiningumą ir duomenų subjekto prašymu sunaikinti neteisėtai ir nesąžiningai sukauptus asmens duomenis. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
- 
+1. Jei duomenų subjektas, susipažinęs su savo asmens duomenimis, nustato, kad jo asmens duomenys yra neteisingi, neišsamūs ar netikslūs, ir kreipiasi į duomenų valdytoją, duomenų valdytojas nedelsdamas privalo asmens duomenis patikrinti ir duomenų subjekto prašymu (išreikštu rašytine, žodine ar kita forma) nedelsdamas ištaisyti neteisingus, neišsamius, netikslius asmens duomenis ir (ar) sustabdyti tokių asmens duomenų tvarkymo veiksmus, išskyrus saugojimą.
 
 
 
 
-2. Duomenų valdytojas privalo nedelsdamas duomenų subjektui pranešti apie jo prašymu (reikalavimu) atliktą ar neatliktą asmens duomenų ištaisymą ar sunaikinimą.
+2. Jei duomenų subjektas, susipažinęs su savo asmens duomenimis, nustato, kad jo asmens duomenys yra tvarkomi neteisėtai, nesąžiningai, ir kreipiasi į duomenų valdytoją, duomenų valdytojas nedelsdamas privalo neatlygintinai patikrinti asmens duomenų tvarkymo teisėtumą, sąžiningumą ir duomenų subjekto prašymu (išreikštu rašytine forma) nedelsdamas sunaikinti neteisėtai ir nesąžiningai sukauptus asmens duomenis ar sustabdyti tokių asmens duomenų tvarkymo veiksmus, išskyrus saugojimą.
 
 
 
 
-3. Asmens duomenys taisomi ir naikinami pagal duomenų subjekto prašymą (reikalavimą) ir jo tapatybę bei jo asmens duomenis patvirtinančius dokumentus. 
+3. Duomenų subjekto prašymu sustabdžius jo asmens duomenų tvarkymo veiksmus, asmens duomenys, kurių tvarkymo veiksmai sustabdyti, turi būti saugomi, kol bus ištaisyti ar sunaikinti (duomenų subjekto prašymu arba pasibaigus duomenų saugojimo terminui). Kiti tvarkymo veiksmai su tokiais asmens duomenimis gali būti atliekami tik:
+
+
+1) turint tikslą įrodyti aplinkybes, dėl kurių duomenų tvarkymo veiksmai buvo sustabdyti;
 
 
 
 
-4. Jei duomenų valdytojas abejoja duomenų subjekto pateiktų asmens duomenų teisingumu, jis privalo apriboti tokių asmens duomenų tolesnį tvarkymą, juos patikrinti ir patikslinti. Tokie asmens duomenys gali būti naudojami tik jų teisingumui patikrinti.
+2) jei duomenų subjektas duoda sutikimą toliau tvarkyti savo asmens duomenis;
 
 
 
 
-5. Duomenų valdytojas privalo informuoti duomenų gavėjus apie duomenų subjekto prašymu ištaisytus ar sunaikintus asmens duomenis.
-
-
-
-
-6. Duomenų valdytojas privalo ne mažiau kaip 3 metus saugoti visus duomenų subjekto reikalavimu taisomus asmens duomenis tokiu būdu, kad prireikus juos būtų galima atkurti. 
- 
+3) jei reikia apsaugoti trečiųjų asmenų teises ar teisėtus interesus.
 
 
 
 
 
 
-19 straipsnis. Duomenų subjekto teisė nesutikti dėl savo asmens duomenų tvarkymo
-
-
-1. Duomenų valdytojas šio įstatymo 5 straipsnio 1 dalies 1, 2, 5 ir 6 punktuose bei 2 dalies 1 ir 4 punktuose nustatytais atvejais, taip pat kai duomenys tvarkomi ar ketinami tvarkyti tiesioginės rinkodaros tikslu, privalo supažindinti duomenų subjektą su jo teise nesutikti (taip pat anuliuoti duotą sutikimą) dėl jo asmens duomenų tvarkymo, nereikalaudamas atlyginimo už veiksmų atlikimą. 
+4. Duomenų valdytojas privalo nedelsdamas pranešti duomenų subjektui apie jo prašymu atliktą ar neatliktą asmens duomenų ištaisymą, sunaikinimą ar asmens duomenų tvarkymo veiksmų sustabdymą.
 
 
 
 
-2. Duomenų subjektas turi teisę pasirinkti duoti sutikimą ar neduoti sutikimo, ar panaikinti duotą sutikimą dėl savo asmens duomenų tvarkymo veiksmo tais atvejais, kai duomenų tvarkymo veiksmas atliekamas duomenų valdytojo iniciatyva. Nesutikimas ir prašymas panaikinti duotą sutikimą išdėstomas raštu.
+5. Asmens duomenys taisomi ir naikinami arba jų tvarkymo veiksmai sustabdomi pagal duomenų subjekto tapatybę ir jo asmens duomenis patvirtinančius dokumentus, gavus duomenų subjekto prašymą.
 
 
 
 
-3. Jei duomenų valdytojas įvertina duomenų subjekto asmenines savybes automatiniu būdu ir duomenų subjektas nesutinka su tokiu įvertinimu, duomenų valdytojas privalo sudaryti sąlygas duomenų subjektui susipažinti su duomenų valdytojo nustatytu vertinimo metodu. Duomenų subjektas turi teisę pareikšti savo nuomonę dėl duomenų įvertinimo ir vertinimo metodo, duomenų valdytojas turi atsižvelgti į duomenų subjekto nuomonę ir prireikus vertinimą pakartoti.
+6. Jei duomenų valdytojas abejoja duomenų subjekto pateiktų asmens duomenų teisingumu, jis privalo sustabdyti tokių duomenų tvarkymo veiksmus, duomenis patikrinti ir patikslinti. Tokie asmens duomenys gali būti naudojami tik jų teisingumui patikrinti. 
 
 
 
 
-4. Jei duomenų subjektas nesutinka dėl jo asmens duomenų tvarkymo, duomenų valdytojas privalo nedelsdamas nutraukti asmens duomenų tvarkymą, išskyrus įstatymų numatytus atvejus, ir informuoti duomenų gavėjus.
-
-
-
-
-5. Duomenų subjekto prašymu duomenų valdytojas privalo pranešti duomenų subjektui apie jo asmens duomenų tvarkymo nutraukimą ar atsisakymą nutraukti duomenų tvarkymą.
-
-
-
-
-6. Duomenų subjekto prašymu duomenų valdytojas privalo išsaugoti visus nutrauktus tvarkyti duomenų subjekto asmens duomenis. 
+7. Duomenų valdytojas privalo nedelsdamas informuoti duomenų gavėjus apie duomenų subjekto prašymu ištaisytus ar sunaikintus asmens duomenis, sustabdytus asmens duomenų tvarkymo veiksmus, išskyrus atvejus, kai pateikti tokią informaciją būtų neįmanoma arba pernelyg sunku (dėl didelio duomenų subjektų skaičiaus, duomenų laikotarpio, nepagrįstai didelių sąnaudų). Tokiu atveju turi būti nedelsiant pranešama Valstybinei duomenų apsaugos inspekcijai.
  
 
 
@@ -792,29 +818,88 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-20 straipsnis. Paslauga duomenų subjektui 
+21 straipsnis. Duomenų subjekto teisė nesutikti, kad būtų tvarkomi jo asmens duomenys 
 
 
-1. Vyriausybės įgaliota institucija padeda duomenų subjektui įgyvendinti jo teisę, nustatytą šio įstatymo 17 straipsnyje. 
+1. Duomenų valdytojas šio Įstatymo 5 straipsnio 1 dalies 5 ir 6 punktuose nustatytais atvejais, taip pat kai duomenys tvarkomi ar ketinami tvarkyti tiesioginės rinkodaros tikslu, privalo supažindinti duomenų subjektą su jo teise nesutikti, kad būtų tvarkomi jo asmens duomenys. 
 
 
 
 
-2. Vykdydama šio straipsnio 2 dalyje nurodytą paslaugą duomenų subjektui, Vyriausybės įgaliota institucija neturi teisės rinkti Valstybės ir tarnybos paslapčių įstatyme nustatytų duomenų, kurie yra įslaptinta informacija. 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
+2. Duomenų subjektas šio Įstatymo 5 straipsnio 1 dalies 5 ir 6 punktuose nurodytais atvejais turi teisę nesutikti (raštu, žodžiu ar kitokia forma), kad būtų tvarkomi jo asmens duomenys. Jei duomenų subjekto nesutikimas yra teisiškai pagrįstas, duomenų valdytojas privalo nedelsdamas ir nemokamai nutraukti asmens duomenų tvarkymo veiksmus, išskyrus įstatymų nustatytus atvejus, ir informuoti duomenų gavėjus. 
+
+
+
+
+3. Duomenų subjektas turi teisę nesutikti, kad būtų tvarkomi jo asmens duomenys, nenurodydamas nesutikimo motyvų, kai duomenys tvarkomi ar ketinami tvarkyti tiesioginės rinkodaros tikslu. Šiuo atveju duomenų valdytojas privalo nedelsdamas ir nemokamai nutraukti asmens duomenų tvarkymo veiksmus, išskyrus įstatymų nustatytus atvejus, ir informuoti duomenų gavėjus.
+
+
+
+
+4. Duomenų subjekto prašymu duomenų valdytojas privalo pranešti duomenų subjektui apie jo asmens duomenų tvarkymo veiksmų nutraukimą ar atsisakymą nutraukti duomenų tvarkymo veiksmus.
  
 
 
 
 
-3. Vykdydama šio straipsnio 2 dalyje nurodytą paslaugą duomenų subjektui, Vyriausybės įgaliota institucija neturi teisės rinkti ypatingų asmens duomenų, jei įstatymai nenustato kitaip.
+
+
+22 straipsnis. Asmens savybių įvertinimas automatiniu būdu
+
+
+1. Negali būti priimamas sprendimas dėl duomenų subjekto savybių (kreditingumo, patikimumo, darbingumo ir kt.), jei tokios savybės buvo įvertintos tik automatiniu būdu, kai toks sprendimas gali sukelti duomenų subjektui teisinių pasekmių ar kitaip jį paveikti, išskyrus šiuos atvejus:
+
+
+1) sprendimas yra priimamas įstatymų nustatyta tvarka, kai įstatymai numato duomenų subjekto teisėtų interesų apsaugos priemones; 
 
 
 
 
-4. Šio straipsnio 2 dalyje nustatyta paslauga duomenų subjektui teikiama atlygintinai. Atlyginimo dydis neturi viršyti duomenų rinkimo ir teikimo paslaugos sąnaudų. Atlyginimo už paslaugą tvarką nustato Vyriausybė ar jos įgaliota institucija. 
-TAR pastaba. 20 straipsnis įsigalioja 2003 m. sausio 1 d.
+2) sprendimas yra priimamas sudarant arba vykdant sutartį, su sąlyga, kad duomenų subjekto prašymas sudaryti ar vykdyti sutartį yra patenkintas;
+
+
+
+
+3) sprendimas yra priimamas sudarant arba vykdant sutartį, jeigu įgyvendintos tinkamos priemonės duomenų subjekto teisėtiems interesams apsaugoti, pavyzdžiui, yra nustatyta tvarka, leidžianti duomenų subjektui pareikšti savo nuomonę.
+
+
+
+
+
+
+2. Duomenų valdytojas, prieš pradėdamas duomenų subjekto savybių vertinimą automatiniu būdu, privalo sudaryti sąlygas duomenų subjektui susipažinti su duomenų valdytojo nustatytais vertinimo kriterijais ir principais. 
+
+
+
+
+3. Jei duomenų valdytojas įvertina duomenų subjekto savybes automatiniu būdu ir duomenų subjektas nesutinka su tokiu įvertinimu, jis turi teisę pareikšti savo nuomonę dėl jo savybių įvertinimo. Duomenų valdytojas turi atsižvelgti į duomenų subjekto nuomonę ir prireikus vertinimą pakartoti neautomatiniu būdu.
+ 
+
+
+
+
+
+
+23 straipsnis. Paslauga duomenų subjektui įgyvendinant duomenų subjekto teisę susipažinti su savo asmens duomenimis
+
+
+1. Valstybinė duomenų apsaugos inspekcija padeda duomenų subjektui įgyvendinti jo teisę susipažinti su savo asmens duomenimis. 
+
+
+
+
+2. Duomenų subjektas, kreipdamasis į Valstybinę duomenų apsaugos inspekciją ir pateikdamas asmens tapatybę patvirtinantį dokumentą, turi teisę prašyti Valstybinę duomenų apsaugos inspekciją surinkti iš registruotų duomenų valdytojų jo asmens duomenis ar informaciją apie jo asmens duomenų tvarkymą ir jį supažindinti su surinktais duomenimis ar informacija.
+
+
+
+
+3. Atlikdama šio straipsnio 2 dalyje nurodytą paslaugą duomenų subjektui, Valstybinė duomenų apsaugos inspekcija neturi teisės rinkti Valstybės ir tarnybos paslapčių įstatyme nustatytų duomenų, kurie yra įslaptinta informacija. 
+
+
+
+
+4. Šio straipsnio 2 dalyje nustatyta paslauga duomenų subjektui teikiama atlygintinai. Atlyginimo dydis neturi viršyti duomenų rinkimo ir teikimo paslaugos sąnaudų. Atlyginimo už paslaugą tvarką nustato Vyriausybė. 
+TAR pastaba. 23 straipsnis įsigalioja nuo 2004 m. balandžio 1 d.
  
 
 
@@ -829,15 +914,15 @@ DUOMENŲ SAUGUMAS
  
 
 
-21 straipsnis. Duomenų saugumas
+24 straipsnis. Duomenų saugumas
 
 
-1. Duomenų valdytojas ir duomenų tvarkytojas privalo įgyvendinti tinkamas organizacines ir technines priemones, skirtas asmens duomenims nuo atsitiktinio ar neteisėto sunaikinimo, pakeitimo, atskleidimo, taip pat nuo bet kokio kito neteisėto tvarkymo apsaugoti. Minėtos priemonės turi užtikrinti tokį saugumo lygį, kuris atitiktų saugotinų asmens duomenų pobūdį ir jų tvarkymo keliamą riziką.
+1. Duomenų valdytojas ir duomenų tvarkytojas privalo įgyvendinti tinkamas organizacines ir technines priemones, skirtas apsaugoti asmens duomenims nuo atsitiktinio ar neteisėto sunaikinimo, pakeitimo, atskleidimo, taip pat nuo bet kokio kito neteisėto tvarkymo. Minėtos priemonės turi užtikrinti tokį saugumo lygį, kuris atitiktų saugotinų asmens duomenų pobūdį ir jų tvarkymo keliamą riziką, ir turi būti išdėstytos rašytiniame ar jam prilygintos formos dokumente (duomenų valdytojo patvirtintose asmens duomenų tvarkymo taisyklėse, duomenų valdytojo ir duomenų tvarkytojo sudarytoje sutartyje ir pan.).
 
 
 
 
-2. Jei duomenų valdytojas įgalioja duomenų tvarkytoją tvarkyti asmens duomenis, jis privalo parinkti tokį duomenų tvarkytoją, kuris garantuotų reikiamas technines ir organizacines duomenų apsaugos priemones ir užtikrintų tokių priemonių laikymąsi. 
+2. Duomenų valdytojas pats tvarko asmens duomenis ir (ar) įgalioja duomenų tvarkytoją. Jei duomenų valdytojas įgalioja duomenų tvarkytoją tvarkyti asmens duomenis, jis privalo parinkti tokį duomenų tvarkytoją, kuris garantuotų reikiamas technines ir organizacines duomenų apsaugos priemones ir užtikrintų, kad tokių priemonių būtų laikomasi. 
 
 
 
@@ -847,12 +932,12 @@ DUOMENŲ SAUGUMAS
 
 
 
-4. Teisę tvarkyti asmens duomenis turi tik duomenų valdytojo arba duomenų tvarkytojo įgalioti darbuotojai.
+4. Duomenų valdytojo ir duomenų tvarkytojo, nesančio duomenų valdytoju, santykiai turi būti reglamentuojami rašytine sutartimi, išskyrus atvejus, kai tokius santykius nustato įstatymai ar kiti teisės aktai.
 
 
 
 
-5. Asmens duomenis tvarkantys darbuotojai, įsidarbindami ir dirbdami, turi raštu įsipareigoti saugoti asmens duomenų paslaptį, jei šie asmens duomenys neskirti viešam skelbimui. Šis įsipareigojimas galioja pasitraukus iš valstybės tarnybos, perėjus dirbti į kitas pareigas arba pasibaigus darbo santykiams.
+5. Duomenų valdytojo, duomenų tvarkytojo ir jų atstovų darbuotojai, kurie tvarko asmens duomenis, privalo saugoti asmens duomenų paslaptį, jei šie asmens duomenys neskirti skelbti viešai. Ši pareiga galioja pasitraukus iš valstybės tarnybos, perėjus dirbti į kitas pareigas arba pasibaigus darbo ar sutartiniams santykiams.
  
 
 
@@ -867,10 +952,10 @@ DUOMENŲ VALDYTOJŲ REGISTRAVIMAS
  
 
 
-22 straipsnis. Pranešimas apie duomenų tvarkymą
+25 straipsnis. Pranešimas apie duomenų tvarkymą
 
 
-Duomenų valdytojas automatiniu būdu gali tvarkyti asmens duomenis tik Vyriausybės nustatyta tvarka pranešęs Vyriausybės įgaliotai institucijai, išskyrus, jeigu asmens duomenys tvarkomi:
+Asmens duomenys gali būti tvarkomi automatiniu būdu tik kai duomenų valdytojas arba jo atstovas (pagal šio Įstatymo 1 straipsnio 3 dalies 3 punktą) Vyriausybės nustatyta tvarka praneša Valstybinei duomenų apsaugos inspekcijai, išskyrus atvejus, kai asmens duomenys tvarkomi:
 
 
 1) vidaus administravimo tikslais;
@@ -878,24 +963,22 @@ Duomenų valdytojas automatiniu būdu gali tvarkyti asmens duomenis tik Vyriausy
 
 
 
-2) 5 straipsnio 2 dalies 4 punkte nustatytais atvejais; 
+2) politiniais, filosofiniais, religiniais ar su profesinėmis sąjungomis susijusiais tikslais, jei asmens duomenis tvarko savo veikloje fondas, asociacija ar kita ne pelno organizacija, kai tvarkomi asmens duomenys yra susiję tiktai su šios organizacijos nariais arba su asmenimis, kurie nuolat kitaip dalyvauja jos veikloje dėl šios organizacijos siekiamų tikslų; 
 
 
 
 
-3) 8 straipsnyje nustatytais atvejais;
+3) šio Įstatymo 8 straipsnyje nustatytais atvejais;
 
 
 
 
-4) 10 straipsnyje nustatytais atvejais;
+4) šio Įstatymo 10 straipsnyje nustatytais atvejais;
 
 
 
 
-5) Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka. 
-Papildyta straipsnio punktu:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
+5) Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
  
 
 
@@ -905,15 +988,51 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-23 straipsnis. Duomenų valdytojų registravimas
+26 straipsnis. Išankstinė patikra
 
 
-1. Duomenų valdytojai registruojami Asmens duomenų valdytojų valstybės registre, kurį steigia ir jo nuostatus tvirtina Vyriausybė. 
+1. Valstybinė duomenų apsaugos inspekcija atlieka išankstinę patikrą šiais atvejais:
+
+
+1) kai duomenų valdytojas ketina tvarkyti ypatingus asmens duomenis, išskyrus šio Įstatymo 10 straipsnyje ir 5 straipsnio 2 dalies 6 ir 7 punktuose nustatytus atvejus;
 
 
 
 
-2. Asmens duomenų valdytojų valstybės registrą tvarko Vyriausybės įgaliota institucija.
+2) kai duomenų valdytojas ketina tvarkyti viešas duomenų rinkmenas, jei įstatymuose ar kituose teisės aktuose neapibrėžta duomenų teikimo tvarka;
+
+
+
+
+3) kai valstybės registrų ar valstybės ir savivaldybių institucijų informacinių sistemų duomenų valdytojas įgalioja duomenų tvarkytoją tvarkyti asmens duomenis, išskyrus atvejus, kai įstatymuose ar kituose teisės aktuose įtvirtinta duomenų valdytojo teisė įgalioti tvarkyti asmens duomenis konkretų duomenų tvarkytoją arba kai duomenų tvarkytojas yra duomenų valdytojo įsteigtas juridinis asmuo;
+
+
+
+
+4) šio Įstatymo 12 straipsnio 1 dalyje, 16 straipsnio 2 dalyje ir 18 straipsnio 4 dalyje nustatytais atvejais.
+
+
+
+
+
+
+2. Duomenų valdytojas privalo Valstybinės duomenų apsaugos inspekcijos nustatyta tvarka ne vėliau kaip prieš 2 mėnesius iki numatomų duomenų tvarkymo veiksmų pradžios pranešti Valstybinei duomenų apsaugos inspekcijai apie atvejus, nurodytus šio straipsnio 1 dalyje. Tokie duomenų tvarkymo veiksmai gali būti atliekami tik gavus Valstybinės duomenų apsaugos inspekcijos leidimą. Valstybinė duomenų apsaugos inspekcija privalo per 2 mėnesius nuo pranešimo gavimo dienos Valstybinės duomenų apsaugos inspekcijos nustatyta tvarka atlikti išankstinę patikrą ir išduoti arba atsisakyti išduoti leidimą duomenų valdytojui atlikti asmens duomenų tvarkymo veiksmus. Valstybinės duomenų apsaugos inspekcijos sprendimas neišduoti leidimo duomenų valdytojui atlikti asmens duomenų tvarkymo veiksmus gali būti skundžiamas įstatymų nustatyta tvarka. Jei Valstybinė duomenų apsaugos inspekcija per 2 mėnesius nuo šioje dalyje nurodyto pranešimo gavimo dienos nepriima sprendimo dėl leidimo išdavimo ar atsisakymo jį išduoti, laikoma, kad leidimas duomenų valdytojui atlikti asmens duomenų tvarkymo veiksmus, dėl kurių buvo pateiktas pranešimas, yra išduotas.
+ 
+
+
+
+
+
+
+27 straipsnis. Duomenų valdytojų registravimas
+
+
+1. Duomenų valdytojai registruojami Asmens duomenų valdytojų valstybės registre. 
+
+
+
+
+2. Asmens duomenų valdytojų valstybės registrą tvarko Valstybinė duomenų apsaugos inspekcija.
  
 
 
@@ -928,70 +1047,62 @@ ASMENS DUOMENŲ TEIKIMAS DUOMENŲ GAVĖJAMS, ESANTIEMS UŽSIENIO VALSTYBĖSE
  
 
 
-24 straipsnis. Asmens duomenų teikimas duomenų gavėjams, esantiems užsienio valstybėse
+28 straipsnis. Asmens duomenų teikimas duomenų gavėjams, esantiems užsienio valstybėse
 
 
-1. Asmens duomenys teikiami duomenų gavėjams užsienio valstybėse, gavus Vyriausybės įgaliotos institucijos leidimą, išskyrus šio straipsnio 4 ir 5 dalyje numatytus atvejus. 
-
-
-
-
-2. Vyriausybės įgaliota institucija išduoda leidimą teikti asmens duomenis į užsienio valstybes, jei šiose valstybėse yra tinkamas asmens duomenų saugumo lygis. Vyriausybės įgaliota institucija vertina duomenų saugumo lygį, atsižvelgdama į užsienio šalies, į kurią teikiami asmens duomenys, galiojančius įstatymus bei kitus teisės aktus, užtikrinančius asmens duomenų teisinę apsaugą pagal teikiamų duomenų pobūdį, duomenų tvarkymo būdus, tikslus ir trukmę.
+1. Asmens duomenys teikiami duomenų gavėjams užsienio valstybėse, gavus Valstybinės duomenų apsaugos inspekcijos leidimą, išskyrus šio straipsnio 4 dalyje nustatytus atvejus. 
 
 
 
 
-3. Vyriausybės įgaliota institucija gali išduoti leidimą teikti asmens duomenis į užsienio valstybę, kuri negali užtikrinti tinkamos asmens duomenų teisinės apsaugos, jeigu reikalavimus duomenų gavėjui dėl duomenų apsaugos priemonių sutartyje išdėsto duomenų valdytojas, teikiantis asmens duomenis. 
+2. Valstybinė duomenų apsaugos inspekcija išduoda leidimą teikti asmens duomenis į užsienio valstybes, jei šiose valstybėse yra tinkamas asmens duomenų teisinės apsaugos lygis. Asmens duomenų teisinės apsaugos lygis vertinamas atsižvelgiant į visas aplinkybes, susijusias su duomenų teikimu, ypač į užsienio šalyje, į kurią teikiami asmens duomenys, galiojančius įstatymus bei kitus teisės aktus, užtikrinančius asmens duomenų teisinę apsaugą, į teikiamų duomenų pobūdį, duomenų tvarkymo būdus, tikslus, trukmę, saugumo priemones, kurių bus laikomasi toje valstybėje.
 
 
 
 
-4. Be Vyriausybės įgaliotos institucijos leidimo asmens duomenys teikiami į užsienio valstybę arba tarptautinei teisėsaugos organizacijai tik tuo atveju, jeigu:
-
-
-1) duomenų subjektas davė sutikimą teikti duomenis;
+3. Valstybinė duomenų apsaugos inspekcija gali išduoti leidimą teikti asmens duomenis į užsienio valstybę, kuri neužtikrina tinkamo asmens duomenų teisinės apsaugos lygio, jeigu duomenų valdytojas yra nustatęs tinkamas duomenų apsaugos priemones asmens privataus gyvenimo neliečiamumui, kitoms duomenų subjekto teisėms apsaugoti ir įgyvendinti. Tokios apsaugos priemonės turi būti išdėstytos asmens duomenų teikimo į užsienio valstybes sutartyje.
 
 
 
 
-2) asmens duomenis teikti būtina, kad duomenų subjekto prašymu būtų sudaryta ar įvykdyta sutartis tarp duomenų valdytojo ir trečiojo asmens;
+4. Be Valstybinės duomenų apsaugos inspekcijos leidimo asmens duomenys teikiami į užsienio valstybę arba tarptautinei teisėsaugos organizacijai tik tuo atveju, jeigu:
+
+
+1) duomenų subjektas davė sutikimą teikti asmens duomenis;
 
 
 
 
-3) asmens duomenys reikalingi vykdyti sutartį, kurią duomenų subjektas yra sudaręs kaip viena iš šalių;
+2) asmens duomenis teikti būtina, kad būtų sudaryta ar įvykdyta sutartis tarp duomenų valdytojo ir trečiojo asmens duomenų subjekto interesais;
 
 
 
 
-4) asmens duomenis teikti būtina dėl valstybės interesų;
+3) asmens duomenis teikti būtina, kad būtų įvykdyta sutartis tarp duomenų valdytojo ir duomenų subjekto arba būtų įgyvendintos priemonės, kurių prieš sudarant sutartį imamasi duomenų subjekto prašymu; 
 
 
 
 
-5) jie yra reikalingi bylai teisme nagrinėti;
+4) asmens duomenis teikti būtina (arba įstatymų nustatyta) dėl svarbių visuomenės interesų arba jie yra reikalingi bylai teisme nagrinėti;
 
 
 
 
-6) siekiama apsaugoti duomenų subjekto gyvybę;
+5) siekiama apsaugoti duomenų subjekto gyvybinius interesus;
 
 
 
 
-7) būtina užkirsti kelią nusikalstamoms veikoms ar būtina jas tirti. 
+6) būtina užkirsti kelią nusikalstamoms veikoms arba būtina jas tirti;
 
 
-Straipsnio dalies pakeitimai:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
+
+
+7) duomenys įstatymų ir kitų teisės aktų nustatyta tvarka teikiami iš viešos duomenų rinkmenos.
+TAR pastaba. 28 straipsnis, Lietuvai tapus Europos Sąjungos nare, taikomas tik asmens duomenų teikimui į valstybes, nesančias Europos Sąjungos narėmis.
  
 
 
-
-
-5. Taip pat be Vyriausybės įgaliotos institucijos leidimo asmens duomenis galima teikti į užsienio valstybes pagal Lietuvos Respublikos tarptautines sutartis. 
-TAR pastaba. 24 straipsnis, Lietuvai tapus Europos Sąjungos nare, taikomas tik asmens duomenų teikimui į valstybes, nesančias Europos Sąjungos narėmis.
- 
 
 
 
@@ -1005,15 +1116,20 @@ SEPTINTASIS SKIRSNIS
  
 
 
-25 straipsnis. Įstatymo vykdymo priežiūros institucija
+29 straipsnis. Įstatymo vykdymo priežiūros institucija
 
 
-1. Asmens duomenų teisinės apsaugos įstatymo, išskyrus 8 straipsnį, vykdymą prižiūri ir kontroliuoja Vyriausybės įgaliota institucija. Vyriausybės įgaliota institucija yra Vyriausybės įstaiga, finansuojama iš valstybės biudžeto. Ji yra atskaitinga Vyriausybei. Vyriausybės įgaliotos institucijos nuostatus tvirtina Vyriausybė.
+1. Asmens duomenų teisinės apsaugos įstatymo, išskyrus 8 straipsnį, vykdymą prižiūri ir kontroliuoja Valstybinė duomenų apsaugos inspekcija. Valstybinė duomenų apsaugos inspekcija yra Vyriausybės įstaiga, finansuojama iš valstybės biudžeto. Ji atskaitinga Vyriausybei. Valstybinės duomenų apsaugos inspekcijos nuostatus tvirtina Vyriausybė.
 
 
 
 
-2. Vyriausybės įgaliota institucija vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis ir, atlikdama šiame įstatyme jai nustatytas funkcijas bei priimdama sprendimus, susijusius su šiame įstatyme jai nustatytų funkcijų atlikimu, yra nepriklausoma – jos teisės gali būti suvaržytos tik įstatymo. Vyriausybės įgaliotos institucijos tarnautojų veiksmai, susiję su šiame įstatyme šiai institucijai nustatytų funkcijų atlikimu, skundžiami tik įstatymų nustatyta tvarka. 
+2. Svarbiausi Valstybinės duomenų apsaugos inspekcijos veiklos tikslai yra prižiūrėti duomenų valdytojų veiklą tvarkant asmens duomenis, kontroliuoti asmens duomenų tvarkymo teisėtumą, užkirsti kelią duomenų tvarkymo pažeidimams, užtikrinti duomenų subjekto teisių apsaugą.
+
+
+
+
+3. Valstybinė duomenų apsaugos inspekcija neturi teisės kontroliuoti asmens duomenų tvarkymo teismuose.
  
 
 
@@ -1021,18 +1137,39 @@ SEPTINTASIS SKIRSNIS
 
 
 
-26 straipsnis. Įstatymo vykdymo priežiūros institucijos funkcijos
+30 straipsnis. Valstybinės duomenų apsaugos inspekcijos veiklos teisiniai pagrindai ir principai
 
 
-Vyriausybės įgaliota institucija:
-
-
-1) tvarko Asmens duomenų valdytojų valstybės registrą, viešai skelbia jo duomenis ir vykdo registruotų duomenų valdytojų veiklos, susijusios su asmens duomenų tvarkymu, priežiūrą; 
+1. Valstybinė duomenų apsaugos inspekcija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais bei kitais teisės aktais. 
 
 
 
 
-2) nagrinėja asmenų prašymus ir skundus šio įstatymo nustatytais atvejais Viešojo administravimo įstatymo nustatyta tvarka;
+2. Valstybinės duomenų apsaugos inspekcijos veikla grindžiama teisėtumo, nešališkumo, viešumo, profesionalumo atliekant savo funkcijas principais. Valstybinė duomenų apsaugos inspekcija, atlikdama šiame Įstatyme jai nustatytas funkcijas bei priimdama sprendimus, susijusius su šiame Įstatyme jai nustatytų funkcijų atlikimu, yra nepriklausoma – jos teisės gali būti suvaržytos tik įstatymo.
+
+
+
+
+3. Valstybės ir savivaldybių institucijos ir įstaigos, Seimo nariai ir kiti pareigūnai, politinės partijos, politinės ir visuomeninės organizacijos, kiti juridiniai ir fiziniai asmenys neturi teisės Valstybinės duomenų apsaugos inspekcijos valstybės tarnautojams daryti jokio politinio, ekonominio, psichologinio, socialinio spaudimo ar kitokio neteisėto poveikio. Kišimasis į Valstybinės duomenų apsaugos inspekcijos veiklą užtraukia įstatymų nustatytą atsakomybę.
+ 
+
+
+
+
+
+
+31 straipsnis. Valstybinės duomenų apsaugos inspekcijos funkcijos
+
+
+Valstybinė duomenų apsaugos inspekcija:
+
+
+1) tvarko Asmens duomenų valdytojų valstybės registrą, viešai skelbia jo duomenis ir vykdo registruotų duomenų valdytojų veiklos, susijusios su asmens duomenų tvarkymu, priežiūrą;
+
+
+
+
+2) nagrinėja asmenų prašymus ir skundus šio Įstatymo nustatytais atvejais Viešojo administravimo įstatymo nustatyta tvarka;
 
 
 
@@ -1052,91 +1189,101 @@ Vyriausybės įgaliota institucija:
 
 
 
-6) rengia metodines rekomendacijas dėl asmens duomenų apsaugos ir teikia duomenų valdytojams;
+6) teikia konsultacijas duomenų valdytojams, taip pat rengia metodines rekomendacijas dėl asmens duomenų apsaugos ir jas viešai skelbia internete;
 
 
 
 
-7) įstatymų nustatyta tvarka teikia pagalbą užsienyje gyvenantiems duomenų subjektams; 
-Papildyta straipsnio punktu:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
+7) įstatymų nustatyta tvarka teikia pagalbą užsienyje gyvenantiems duomenų subjektams;
+
+
+
+
+8) įstatymų nustatytais atvejais teikia informaciją kitoms valstybėms apie Lietuvos Respublikos duomenų apsaugą reglamentuojančius teisės aktus ir jų administravimo praktiką;
+
+
+
+
+9) šio Įstatymo nustatytais atvejais atlieka išankstinę patikrą ir teikia išvadas duomenų valdytojui apie numatomą duomenų tvarkymą;
+
+
+
+
+10) įgyvendina Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) nuostatas; 
+
+
+
+
+11) teikia pasiūlymus Seimui, Vyriausybei, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms dėl įstatymų ar kitų teisės aktų rengimo, keitimo, pripažinimo netekusiais galios, jeigu įstatymų ar kitų teisės aktų nuostatos yra susijusios su Valstybinės duomenų apsaugos inspekcijos kompetencijai priskirtais klausimais;
+
+
+
+
+12) vertina duomenų valdytojų pateiktas asmens duomenų tvarkymo taisykles;
+
+
+
+
+13) atlieka kitas šiame bei kituose įstatymuose nustatytas funkcijas.
  
 
 
 
 
-8) įstatymų nustatytais atvejais teikia informaciją kitoms valstybėms apie Lietuvos Respublikos duomenų apsaugą reglamentuojančius teisės aktus ir jų administravimo praktiką. 
-Papildyta straipsnio punktu:
-Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
+
+
+
+
+32 straipsnis. Valstybinės duomenų apsaugos inspekcijos teisės
+
+
+Valstybinė duomenų apsaugos inspekcija turi teisę:
+
+
+1) nemokamai gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių ir fizinių asmenų visą reikalingą informaciją, dokumentų kopijas ir nuorašus, duomenų kopijas, taip pat susipažinti su visais duomenimis ir dokumentais, reikalingais atliekant asmens duomenų tvarkymo priežiūros funkcijas;
+
+
+
+
+2) iš anksto raštu įspėjus, įeiti į tikrinamo asmens patalpas (tarp jų ir nuomojamas ar naudojamas kitu pagrindu) arba teritoriją, kur yra dokumentai, įranga, susiję su asmens duomenų tvarkymu. Įeiti į tikrinamo juridinio asmens teritoriją, pastatus, patalpas (tarp jų ir nuomojamus ar naudojamus kitu pagrindu) galima tik tikrinamo juridinio asmens darbo laiku. Įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas (tarp jų ir nuomojamas ar naudojamas kitu pagrindu), kur yra dokumentai, įranga, susiję su asmens duomenų tvarkymu, galima tik pateikus teismo nutartį dėl leidimo įeiti į gyvenamąsias patalpas;
+
+
+
+
+3) dalyvauti Seimo, Vyriausybės, kitų valstybės institucijų posėdžiuose, kai svarstomi klausimai, susiję su duomenų apsauga;
+
+
+
+
+4) kviesti ekspertus (konsultantus), sudaryti darbo grupes dėl duomenų tvarkymo ar apsaugos ekspertizės, duomenų apsaugos dokumentų rengimo, taip pat kitiems Valstybinės duomenų apsaugos inspekcijos kompetencijos klausimams spręsti;
+
+
+
+
+5) duoti duomenų valdytojui rekomendacijas ir nurodymus dėl asmens duomenų tvarkymo ir apsaugos;
+
+
+
+
+6) Administracinių teisės pažeidimų kodekso nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus;
+
+
+
+
+7) keistis informacija su kitų valstybių asmens duomenų priežiūros institucijomis ir tarptautinėmis organizacijomis tiek, kiek to reikia jų pareigoms vykdyti; 
+
+
+
+
+8) dalyvauti teisme nagrinėjant bylas dėl tarptautinės ir nacionalinės teisės nuostatų asmens duomenų apsaugos klausimais pažeidimų;
+
+
+
+
+9) kitas įstatymų ir kitų teisės aktų nustatytas teises.
  
 
 
-
-
-
-
-
-
-27 straipsnis. Įstatymo vykdymo priežiūros institucijos teisės
-
-
-1. Vyriausybės įgaliota institucija turi teisę:
-
-
-1) nemokamai gauti visą reikiamą informaciją apie asmens duomenų tvarkymą iš duomenų valdytojų, susipažinti su tvarkomais asmens duomenimis ir atlikti patikrinimus šio įstatymo nustatytais atvejais asmens duomenų tvarkymo vietose;
-
-
-
-
-2) duoti nurodymus duomenų valdytojams dėl asmens duomenų tvarkymo ir apsaugos;
-
-
-
-
-3) surašyti administracinių teisės pažeidimų protokolus Administracinių teisės pažeidimų kodekso nustatyta tvarka;
-
-
-
-
-4) keistis informacija su kitų valstybių asmens duomenų priežiūros institucijomis tiek, kiek tai reikalinga jų pareigoms vykdyti;
-
-
-
-
-5) kviesti ekspertus (konsultantus) dėl duomenų tvarkymo ar apsaugos ekspertizės, taip pat dėl duomenų apsaugos dokumentų rengimo;
-
-
-
-
-6) dalyvauti teisme nagrinėjant bylas dėl tarptautinės ir nacionalinės teisės nuostatų asmens duomenų apsaugos klausimais pažeidimų. 
-
-
-
-
-
-
-2. Vyriausybės įgaliota institucija neturi teisės kontroliuoti asmens duomenų tvarkymo teismuose.
-
-
-
-
-3. Vyriausybės įgaliotos institucijos tarnautojai privalo saugoti asmens duomenų paslaptį dėl jų gaunamos viešai neskelbtinos informacijos ir ją saugoti perėję dirbti į kitas pareigas, pasitraukę iš valstybės tarnybos ar pasibaigus darbo santykiams. 
-
-
-
-
-4. Duomenų valdytojai ar kiti asmenys, rengdami asmens duomenų tvarkymo taisykles (kodeksus), turi jas pateikti įvertinti Vyriausybės įgaliotai institucijai.
-
-
-
-
-5. Vyriausybės įgaliotai institucijai turi būti pranešama, jei manoma, kad ketinamas asmens duomenų tvarkymas gali sukelti pavojų duomenų subjekto teisėms ar turėti didelį duomenų pažeidimo poveikį (dėl duomenų pobūdžio ar apimties, dėl duomenų subjektų skaičiaus, dėl duomenų tvarkymo tikslų, dėl teikiamų duomenų apimties ar dažnumo).
-
-
-
-
-6. Šio straipsnio 5 dalyje nustatytais atvejais Vyriausybės įgaliota institucija atlieka išankstinę patikrą ir teikia išvadas dėl numatomo asmens duomenų tvarkymo. 
- 
 
 
 
@@ -1150,10 +1297,10 @@ ATSAKOMYBĖ
  
 
 
-28 straipsnis. Atsakomybė už šio įstatymo pažeidimą
+33 straipsnis. Atsakomybė už šio Įstatymo pažeidimą
 
 
-Duomenų valdytojams, duomenų tvarkytojams ir kitiems asmenims, pažeidusiems šį įstatymą, taikoma Lietuvos Respublikos įstatymų nustatyta atsakomybė.
+Duomenų valdytojams, duomenų tvarkytojams ir kitiems asmenims, pažeidusiems šį Įstatymą, taikoma Lietuvos Respublikos įstatymų nustatyta atsakomybė.
  
 
 
@@ -1161,20 +1308,16 @@ Duomenų valdytojams, duomenų tvarkytojams ir kitiems asmenims, pažeidusiems �
 
 
 
-29 straipsnis. Turtinės ir neturtinės žalos atlyginimas
+34 straipsnis. Turtinės ir neturtinės žalos atlyginimas
+ 
 
 
-1. Asmuo, patyręs žalą dėl neteisėto asmens duomenų tvarkymo arba kitų duomenų valdytojo ar duomenų tvarkytojo veiksmų ar neveikimo, turi teisę reikalauti atlyginti jam padarytą turtinę ir neturtinę žalą.
+1. Asmuo, patyręs žalą dėl neteisėto asmens duomenų tvarkymo arba kitų duomenų valdytojo ar duomenų tvarkytojo, taip pat kitų asmenų veiksmų ar neveikimo, pažeidžiančių šio Įstatymo nuostatas, turi teisę reikalauti atlyginti jam padarytą turtinę ir neturtinę žalą.
 
 
 
 
 2. Turtinės ir neturtinės žalos dydį nustato teismas.
-
-
-
-
-3. Duomenų valdytojas, duomenų tvarkytojas arba kitas asmuo, atlyginę asmeniui padarytą žalą, patirtą nuostolį išreikalauja įstatymų nustatyta tvarka iš asmens duomenis tvarkančio darbuotojo, dėl kurio kaltės atsirado ši žala.
 
 
 
@@ -1188,11 +1331,22 @@ Duomenų valdytojams, duomenų tvarkytojams ir kitiems asmenims, pažeidusiems �
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
  
 
 
  
+
+
+
+
+Lietuvos Respublikos
+asmens duomenų teisinės
+apsaugos įstatymo
+priedas
+ 
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas yra suderintas su 1995 m. spalio 24 d. Europos Parlamento ir Tarybos direktyva 95/46/EB dėl asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo. 
  
  
 Pakeitimai:
@@ -1216,3 +1370,8 @@ Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 1, 2, 3, 5, 7,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-970, 2002-06-20, Žin., 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA00IX-970
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo papildymo 10(1) straipsniu ir 15, 17 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1296, 2003-01-21, Žin., 2003, Nr. 15-597 (2003-02-12), i. k. 1031010ISTA0IX-1296
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pakeitimo įstatymas
