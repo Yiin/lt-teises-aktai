@@ -83,18 +83,22 @@ komunalines paslaugas moka savivaldybė) suteikia patalpas:
 1) daugiamandatėje rinkimų apygardoje išrinktam Seimo
 nariui - susirinkimams rengti bei rinkėjams priimti;
 2) vienmandatėje rinkimų apygardoje išrinktam Seimo
-nariui ir jo padėjėjui – nuolatiniam naudojimui Seimo nario pasirinktoje
+nariui ir jo padėjėjui – nuolatiniam naudojimuisi Seimo nario pasirinktoje
 rinkimų apygardos savivaldybėje (savivaldybėse) Seimo nario įgaliojimų laikui
-ne mažesnę kaip 12 m(2) sanitarijos ir higienos reikalavimus
-atitinkančią patalpą su baldais ir telefonu. Už naudojimąsi telefonu
-neviršijant paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo
-užmokesčio (toliau – VMDU) 0,15 dydžio per mėnesį pagal pateiktą sąskaitą moka
-Seimo kanceliarija. Limitą viršijančią sumą sumoka Seimo narys.
+ne mažesne kaip 12 m² sanitarijos ir higienos reikalavimus atitinkančią patalpą
+su baldais ir telefonu. Už naudojimąsi telefonu neviršijant paskutinio
+paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) 0,15
+dydžio per mėnesį pagal pateiktą sąskaitą moka Seimo kanceliarija. Atskirų
+mėnesių limitai gali būti kas ketvirtį sudedami. Apskaičiuotą limitą
+viršijančią sumą Seimo kanceliarija iki kito ketvirčio pirmo mėnesio
+dvidešimtos dienos išskaičiuoja iš Seimo nario atlyginimo.
 Straipsnio pakeitimai:
 Nr. VIII-1421,
 1999 11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
 Nr. IX-182, 2001 02 20, Žin., 2001, Nr.
 21-690 (2001 03 09)
+Nr. IX-1671,
+2003-07-01, Žin., 2003, Nr. 73-3349 (2003-07-23)
  
             6
 straipsnis. Teisė gauti sveikatos priežiūros paslaugas 
@@ -176,12 +180,12 @@ straipsnis. Atlyginimo dydis ir jo sumažinimas
 dydį nustato Lietuvos Respublikos įstatymai.
 2. Seimo nariui, per mėnesį be svarbios priežasties
 nedalyvavusiam daugiau kaip ketvirtadalyje Seimo posėdžių iš anksto numatytų
-balsavimų metu, kai buvo priimami teisės aktai, arba daugiau kaip ketvirtadalyje
-Seimo komiteto, komisijos ar pakomitečio, kurių darbe turi dalyvauti, posėdžių,
-to mėnesio atlyginimas sumažinamas vienu trečdaliu. Remiantis Seimo Etikos ir
-procedūrų komisijos išvadomis, atlyginimas sumažinamas Seimo valdybos
-sprendimu. Suma, kuria sumažinamas Seimo nario atlyginimas, išskaitoma iš kito,
-artimiausio mėnesio atlyginimo. 
+balsavimų metu, kai buvo priimami teisės aktai, arba daugiau kaip
+ketvirtadalyje Seimo komiteto, komisijos ar pakomitečio, kurių darbe turi
+dalyvauti, posėdžių, to mėnesio atlyginimas sumažinamas vienu trečdaliu.
+Remiantis Seimo Etikos ir procedūrų komisijos išvadomis, atlyginimas sumažinamas
+Seimo valdybos sprendimu. Suma, kuria sumažinamas Seimo nario atlyginimas,
+išskaitoma iš kito, artimiausio mėnesio atlyginimo. 
 3. Jeigu Seimo
 nariui įstatymų nustatyta tvarka paskirtas suėmimas, atlyginimas jam nemokamas
 už visą suėmimo laiką. Kai ikiteisminis tyrimas dėl Seimo nario ar baudžiamoji
@@ -194,8 +198,8 @@ darbo dienas išmokamas visas atlyginimas, kurio jis negavo dėl suėmimo.
 areštas, terminuotas laisvės atėmimas ar laisvės atėmimas iki gyvos galvos,
 Seimo nario atlyginimas jam nemokamas už visą šios bausmės atlikimo laiką.
 Panaikinus nuosprendį, Seimo nariui ne vėliau kaip per 5 darbo dienas išmokamas
-visas Seimo nario atlyginimas, kurio jis negavo atlikdamas arešto ar laisvės atėmimo
-bausmes.
+visas Seimo nario atlyginimas, kurio jis negavo atlikdamas arešto ar laisvės
+atėmimo bausmes.
 Straipsnio
 pakeitimai: 
 Nr. VIII-685, 1998 03 26, Žin., 1998,
@@ -300,8 +304,8 @@ Nr. VIII-1976,
 straipsnis. Frakcijų darbuotojai 
             1.
 Frakcijų darbuotojų skaičių ir jų darbo apmokėjimo sąlygas nustato Seimo
-valdyba atsižvelgdama į frakcijos narių skaičių. Frakcijai skiriamas ne mažiau kaip
-vienas referento etatas.
+valdyba atsižvelgdama į frakcijos narių skaičių. Frakcijai skiriamas ne mažiau
+kaip vienas referento etatas.
             2.
 Frakcijos tarnautojus frakcijos įgaliojimų laikui frakcijos seniūno teikimu į
 pareigas priima ir atleidžia iš jų Seimo kancleris.
@@ -454,13 +458,20 @@ NARIŲ DARBO SĄLYGŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr.
 37-1341), t.y. nuo 2003 m. gegužės 1 d.
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1671,
+2003-07-01, Žin., 2003, Nr. 73-3349 (2003-07-23)
+SEIMO
+NARIŲ DARBO SĄLYGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-04-30)
-                 
-autrap@lrs.lt
+Angonita Rupšytė (2003-07-23)
+anrups@lrs.lt
 
