@@ -16,11 +16,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA"
 Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo: Ramunė
-Lūžaitė (1998.06.03)
+Lūžaitė (1999.01.07)
  
 Įstatymas
-paskelbtas: Žin., 1991,
-Nr.36-973
+paskelbtas: Žin., 1991, Nr.36-973
  
 Neoficialus
 įstatymo tekstas
@@ -145,6 +144,14 @@ LIETUVOS
 RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 1 IR 36 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
  
+16.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1014, 98.12.29,
+Žin., Nr.3-59 (99.01.08)
+LIETUVOS
+RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga *** 
  
@@ -185,6 +192,8 @@ Profesinės karo tarnybos sutarties su profesinę karo tarnybą atliekančiais
 kariais sudarymo, pakeitimo ir nutraukimo tvarką bei šios sutarties sąlygas
 nustato krašto apsaugos sistemos veiklą reglamentuojantys įstatymai ir
 statutai.
+Diplomatų tarnybos santykius reguliuoja
+Lietuvos Respublikos diplomatinės tarnybos įstatymas.
  
 Straipsnio
 pakeitimai:
@@ -196,6 +205,8 @@ Nr.
 I-1549, 96.09.25, Žin., 1996, Nr.101-2303 (96.10.18)
 Nr.
 VIII-741, 98.05.14, Žin., 1998, Nr.51-1394 (98.06.03)
+Nr. VIII-1014,
+98.12.29, Žin., Nr.3-59 (99.01.08)
  
      2
 straipsnis.Darbo santykių teisinio reguliavimo principai
@@ -272,11 +283,11 @@ straipsnis. Darbdavys, jo įgaliotas asmuo
  
      Darbdaviu
 pagal šį įstatymą yra visų rūšių įmonių, įstaigų, organizacijų (toliau -
-įmonės) savininkai, jų vadovai, paskirti, išrinkti ar kitokia tvarka įgiję įgalinimus
-pagal atitinkamų įmonių, tarp jų ūkinių bendrijų ir individualių (personalinių)
-įmonių,  įstatymus (įstatus, nuostatus, steigimo dokumentus) įmonės vardu
-sudaryti, pakeisti ir nutraukti darbo sutartį, taip pat atlikti kitokius
-veiksmus vykdant darbo įstatymų nuostatas.
+įmonės) savininkai, jų vadovai, paskirti, išrinkti ar kitokia tvarka įgiję
+įgalinimus pagal atitinkamų įmonių, tarp jų ūkinių bendrijų ir individualių
+(personalinių) įmonių,  įstatymus (įstatus, nuostatus, steigimo dokumentus)
+įmonės vardu sudaryti, pakeisti ir nutraukti darbo sutartį, taip pat atlikti
+kitokius veiksmus vykdant darbo įstatymų nuostatas.
      Kai
 darbo sutartis sudaroma tarp fizinių asmenų patarnavimo darbams atlikti,
 darbdavys yra fizinis asmuo.
@@ -454,8 +465,8 @@ I-1599, 96.10.22, Žin., 1996, Nr.106-2429 (96.11.06)
  
      16
 straipsnis.Darbdavio pareiga pareikalauti, kad darbuotojas
-             
- pateiktų valstybinio socialinio draudimo pažymėjimą
+              
+pateiktų valstybinio socialinio draudimo pažymėjimą
  
      Darbdavys
 privalo pareikalauti, kad priimtas dirbti asmuo pateiktų  valstybinio 
@@ -472,12 +483,12 @@ sutartis laikoma sudaryta, kai šalys susitarė dėl būtinųjų sąlygų, nurod
      Darbo 
 sutartis turi būti sudaroma raštu pagal tipinę šios sutarties formą
 (pridedama). Darbo sutartį dviem egzemplioriais pasirašo darbdavys ir
-darbuotojas. Kiekviena darbo sutartis turi būti registruojama įmonės darbo sutarčių
-registravimo žurnale, kurio formą ir darbo sutarčių registravimo taisykles
-Socialinės apsaugos  ir  darbo  ministerijos teikimu tvirtina Lietuvos
-Respublikos  Vyriausybė.  Už  darbo sutarties sudarymą, jos registravimą yra
-atsakingas darbdavys. Jeigu darbdavys pažeidžia šios nuostatos reikalavimus,
-jis traukiamas atsakomybėn įstatymų nustatyta tvarka.
+darbuotojas. Kiekviena darbo sutartis turi būti registruojama įmonės darbo
+sutarčių registravimo žurnale, kurio formą ir darbo sutarčių registravimo
+taisykles Socialinės apsaugos  ir  darbo  ministerijos teikimu tvirtina
+Lietuvos Respublikos  Vyriausybė.  Už  darbo sutarties sudarymą, jos registravimą
+yra atsakingas darbdavys. Jeigu darbdavys pažeidžia šios nuostatos
+reikalavimus, jis traukiamas atsakomybėn įstatymų nustatyta tvarka.
      Darbuotojas
 privalo pradėti dirbti kitą dieną po sutarties sudarymo, jeigu šalys nesusitarė
 kitaip.
@@ -485,9 +496,9 @@ kitaip.
 darbuotojas faktiškai pradėjo dirbti pagal darbdavio ar jo įgalioto asmens
 leidimą, tai darbo sutartis laikoma sudaryta ir turi būti nedelsiant įforminta.
      Sudarydamas
-darbo sutartį, darbdavys arba jo įgaliotas asmuo privalo pasirašytinai
-supažindinti priimamą dirbti asmenį su  būsimojo  darbo sąlygomis, kolektyvine
-sutartimi, darbo tvarkos  taisyklėmis,  kitais lokaliniais norminiais aktais,
+darbo sutartį, darbdavys arba jo įgaliotas asmuo privalo pasirašytinai supažindinti
+priimamą dirbti asmenį su  būsimojo  darbo sąlygomis, kolektyvine sutartimi,
+darbo tvarkos  taisyklėmis,  kitais lokaliniais norminiais aktais,
 reglamentuojančiais jo darbo sąlygas.
  
 Straipsnio
@@ -503,8 +514,8 @@ Nelegaliu darbu laikomas darbas:
     
 1) dirbamas nesudarius darbo sutarties su darbdaviu ar jo įgaliotu asmeniu,
 išskyrus atvejus, kai pagal kitus teisės aktus nebūtina sudaryti darbo sutartį;
-    
-2) atliekamas pagal rangos ar kitokias ūkines-komercines sutartis neįsteigus
+  
+  2) atliekamas pagal rangos ar kitokias ūkines-komercines sutartis neįsteigus
 įmonės ar neturint patento, išskyrus darbą pagal autorines sutartis;
     
 3) dirbamas užsienio valstybių piliečių ir asmenų be pilietybės nesilaikant
@@ -597,17 +608,17 @@ straipsnis.Darbo sąlygų pakeitimas
 turi teisę pakeisti darbuotojo darbo sąlygas (pakeisti darbo vietą toje pačioje
 įmonėje ir toje pačioje vietovėje, pavesti dirbti kitu mechanizmu, agregatu),
 taip pat pakeisti kitas sąlygas (lengvatas, darbo režimą, materialinės
-atsakomybės dydį, pareigų pavadinimą ir kt.) tik tada, kai keičiama  gamyba,  jos
-technologija arba pertvarkomas darbo organizavimas,  ir dėl to darbdavys turi
-keisti tam tikrų darbuotojų darbo sąlygas.
+atsakomybės dydį, pareigų pavadinimą ir kt.) tik tada, kai keičiama  gamyba, 
+jos technologija arba pertvarkomas darbo organizavimas,  ir dėl to darbdavys
+turi keisti tam tikrų darbuotojų darbo sąlygas.
      Apie
 numatomą darbo sąlygų pakeitimą darbuotojui turi būti pranešta ne vėliau kaip
 prieš mėnesį. Jei keičiama gamybos technologija, darbdavys privalo sudaryti
 darbuotojams sąlygas pasirengti (patobulinti kvalifikaciją, pakeisti
 specializaciją) dirbti, esant pakeistai gamybos technologijai. Kolektyvinėje
-sutartyje  gali būti numatyti ilgesni įspėjimo terminai ir papildomi  darbdavio 
-įsipareigojimai  sudaryti  darbuotojams sąlygas  pasirengti  dirbti,  pakitus 
-gamybai  ar  gamybos technologijai.
+sutartyje  gali būti numatyti ilgesni įspėjimo terminai ir papildomi 
+darbdavio  įsipareigojimai  sudaryti  darbuotojams sąlygas  pasirengti 
+dirbti,  pakitus  gamybai  ar  gamybos technologijai.
      Darbuotojui
 nesutikus dirbti pakeistomis darbo sąlygomis, jis, laikantis įstatymų
 nustatytos tvarkos, gali būti atleistas iš darbo pagal šio įstatymo 26
@@ -679,10 +690,10 @@ mokamas ne mažesnis nei valstybės nustatytas minimalus valandinis atlygis už
 kiekvieną prastovos valandą.
      Darbdavys 
 neturi  teisės  reikalauti, kad darbuotojas, nedirbantis dėl prastovos, būtų
-darbovietėje ilgiau kaip vieną valandą per darbo dieną (pamainą). Už buvimą
-įmonėje šioje nuostatoje nurodytą laiką mokamas šio straipsnio penktojoje
-dalyje nustatyto dydžio darbo užmokestis. Kolektyvinėje, darbo sutartyje arba
-šalių susitarimu gali būti numatyti visiško neatvykimo į darbą prastovos metu
+darbovietėje ilgiau kaip vieną valandą per darbo dieną (pamainą). Už buvimą įmonėje
+šioje nuostatoje nurodytą laiką mokamas šio straipsnio penktojoje dalyje
+nustatyto dydžio darbo užmokestis. Kolektyvinėje, darbo sutartyje arba šalių
+susitarimu gali būti numatyti visiško neatvykimo į darbą prastovos metu
 atvejai.
  
 Straipsnio
@@ -844,8 +855,8 @@ darbo ginčus nagrinėjantys organai.
  
     
 28(1) straipsnis. Darbo sutarties nutraukimas ne dėl nuo darbuotojo
-                     
-priklausančių aplinkybių 
+     
+                priklausančių aplinkybių 
  
     
 Darbuotojas turi teisę nutraukti neterminuotą darbo sutartį, taip pat
@@ -886,12 +897,12 @@ kai paaiškėja, jog darbuotojas negali tinkamai atlikti jam pavesto darbo dėl
 pablogėjusios sveikatos arba dėl to, kad jis neturi reikiamos kvalifikacijos;
      4)
 kai darbuotojas dėl laikinojo nedarbingumo neatvyksta į darbą daugiau kaip
-šimtą dvidešimt kalendorinių dienų iš eilės arba daugiau kaip šimtą keturiasdešimt
-kalendorinių dienų per paskutiniuosius dvylika mėnesių, jei įstatymuose
-nenustatyta, kad tam tikros ligos atveju darbo vieta (pareigos) paliekama
-ilgesnį  laiką.  Darbuotojams,  netekusiems  darbingumo  dėl suluošinimo darbe
-ar profesinės ligos, darbo vieta (pareigos) paliekama,  kol  bus  atgautas 
-darbingumas arba nustatytas invalidumas;
+šimtą dvidešimt kalendorinių dienų iš eilės arba daugiau kaip šimtą
+keturiasdešimt kalendorinių dienų per paskutiniuosius dvylika mėnesių, jei
+įstatymuose nenustatyta, kad tam tikros ligos atveju darbo vieta (pareigos)
+paliekama ilgesnį  laiką.  Darbuotojams,  netekusiems  darbingumo  dėl
+suluošinimo darbe ar profesinės ligos, darbo vieta (pareigos) paliekama,  kol 
+bus  atgautas  darbingumas arba nustatytas invalidumas;
      5)
 kai darbuotojas, atleistas iš krašto apsaugos tarnybos, daugiau kaip du
 mėnesius po atleidimo negrįžo į darbą;
@@ -920,10 +931,10 @@ kai darbuotojai, turintys įgalinimus duoti privalomus vykdyti  patvarkymus 
   
 13) kai darbuotojas netinka eiti pareigų pagal atestavimo rezultatus.
      Darbdavys
-gali nutraukti darbo sutartį su darbuotojais, kurių  darbas susijęs su materialinių
-vertybių apskaita ar saugojimu,  priėmimu,  išdavimu  ar transportavimu, kai
-šie darbuotojai dėl savo kaltų veiksmų darbe netenka pasitikėjimo dirbti jiems
-pavestą darbą.
+gali nutraukti darbo sutartį su darbuotojais, kurių  darbas susijęs su
+materialinių vertybių apskaita ar saugojimu,  priėmimu,  išdavimu  ar
+transportavimu, kai šie darbuotojai dėl savo kaltų veiksmų darbe netenka
+pasitikėjimo dirbti jiems pavestą darbą.
      Valstybės 
 bei savivaldybių valdininkai ir darbuotojai, atliekantys auklėjimo funkcijas,
 gali būti atleisti iš darbo, kai jų elgesys, nors ir ne darbo metu, yra
@@ -961,7 +972,7 @@ straipsnis.Darbo sutarties nutraukimas darbdavio valia
      Darbdavys, 
 išskyrus  valstybinę  (vietos savivaldybės) įmonę, įstaigą, organizaciją, turi
 teisę nutraukti darbo sutartį ne šio įstatymo 26 ir 29 straipsniuose numatytais
-pagrindais, o remdamasis  kitomis  svarbiomis  aplinkybėmis,  sumokėdamas
+pagrindais, o remdamasis  kitomis  svarbiomis  aplinkybėmis,  sumokėdamas
 atleidžiamajam darbuotojui kompensaciją, kai darbuotojo darbo stažas šioje
 įmonėje:
      1)
@@ -1051,7 +1062,7 @@ organo sprendimą, jei darbdavys įrodo, kad šis sprendimas iš esmės pažeid�
 interesus.
      Įstatymų 
 numatytais  atvejais  darbuotojai negali būti atleisti iš darbo darbdavio
-iniciatyva (išskyrus pagal šio įstatymo  29 straipsnio 1 punktą), negavus ir
+iniciatyva (išskyrus pagal šio įstatymo  29 straipsnio 1 punktą), negavus ir
 kitų organų sutikimo.
      Darbuotojas,
 atleistas iš darbo pažeidus šiame straipsnyje nustatytus reikalavimus, taip pat
@@ -1138,9 +1149,9 @@ Darbdavys negali nutraukti darbo sutarties
 savo iniciatyva, išskyrus pagal šio įstatymo 29 straipsnio 1 punktą, su
 invalidais ir kitais darbuotojais, kuriems pagal įstatymą nustatyta įdarbinimo
 ar papildomų darbo vietų steigimo kvota, kai nėra jų kaltės ir bendras jų
-skaičius neviršija savivaldybės nustatytos kvotos, taip pat su darbuotojais, pašauktais
-atlikti privalomąją karo tarnybą, ir kariais savanoriais jų mokymų metu ar
-pašaukus juos į tarnybą.
+skaičius neviršija savivaldybės nustatytos kvotos, taip pat su darbuotojais,
+pašauktais atlikti privalomąją karo tarnybą, ir kariais savanoriais jų mokymų
+metu ar pašaukus juos į tarnybą.
  
 Straipsnio
 pakeitimai:
@@ -1149,8 +1160,8 @@ VIII-741, 98.05.14, Žin., 1998, Nr.51-1394 (98.06.03)
  
      37
 straipsnis.Pirmenybės teisė būti paliktam dirbti, kai
- 
-                 sumažinamas darbuotojų skaičius
+                  
+sumažinamas darbuotojų skaičius
  
      Kai
 sumažinamas darbuotojų skaičius, pirmenybės teisę būti paliktiems dirbti turi
@@ -1180,8 +1191,8 @@ Nr.I-215,
  
      38
 straipsnis.Darbuotojo teisė reikalauti, kad jam būtų praneštos
-         
-         atleidimo priežastys
+                  
+atleidimo priežastys
  
      Darbuotojas
 ne vėliau kaip per dešimt dienų nuo atleidimo turi  teisę  raštu  reikalauti,
@@ -1191,7 +1202,7 @@ ne vėliau kaip per penkias dienas nuo pareiškimo gavimo turi raštu pranešti
 konkrečias atleidimo priežastis, taip pat nurodyti, kokiais duomenimis yra
 pagrįstas atleidimas iš darbo.
      Jei 
-darbdavys neįvykdo šio reikalavimo, o darbuotojas užginčija  atleidimą 
+darbdavys neįvykdo šio reikalavimo, o darbuotojas užginčija  atleidimą 
 teisme,  teismas išieško iš darbdavio darbuotojui atlyginimą už dvidešimt darbo
 dienų net ir tuo atveju, kai reikalavimo dėl grąžinimo į darbą nepatenkina.
  
@@ -1234,8 +1245,8 @@ Straipsnio
 pakeitimai:
 Nr.
 I-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
-Nr. VIII-429,
-97.09.25, Žin., 1997, Nr.91-2273 (97.10.07)
+Nr. VIII-429, 97.09.25,
+Žin., 1997, Nr.91-2273 (97.10.07)
  
      41
 straipsnis. Darbdavio pareiga atsiskaityti su atleidžiamu iš
@@ -1289,105 +1300,103 @@ Vilnius,
 1991 m. lapkričio 28 d.   Nr.I-2048 
  
  
- 
 Priedėlis
  
 D A R B O  S U T A R T I S Nr._______
  
 199 __ m. ____________ d.
 Įmonė,
-įstaiga, organizacija (toliau - įmonė)___________________________
+įstaiga, organizacija (toliau - įmonė)________________________
 (pavadinimas)
-________________________________________________________________________
+_____________________________________________________________________
 (adresas)
-________________________________________________________________________
+_____________________________________________________________________
 Darbdavys
-ar jo įgaliotas asmuo (toliau - darbdavys)____________________
+ar jo įgaliotas asmuo (toliau - darbdavys)_________________
 (pareigos, jeigu
-________________________________________________________________________
+_____________________________________________________________________
 įgaliotas asmuo - taip pat
 nurodyti, vardas ir pavardė)
-________________________________________________________________________
+_____________________________________________________________________
  
 Priimamas
-į darbą asmuo_________________________________________________
+į darbą asmuo______________________________________________
 (vardas, pavardė)
-________________________________________________________________________
+_____________________________________________________________________
 (paso duomenys - gimimo
 metai, asmens kodas, paso nesant,
-________________________________________________________________________
+_____________________________________________________________________
 duomenys pagal kitą asmens
 dokumentą)
-________________________________________________________________________
+_____________________________________________________________________
 (gyvenamoji vieta)
 Sudarė
 šią darbo sutartį:
 1.
-_______________________________________________(toliau - darbuotojas)
+____________________________________________(toliau - darbuotojas)
 (priimamojo į darbą vardas ir
 pavardė)
 priimamas
 dirbti
 1.1.
-___________________________________________________________________
+________________________________________________________________
 (nurodyti padalinį)
 1.2.
-___________________________________________________________________
-(tiksliai nusakyti darbo,
-pareigų pavadinimą, kvalifikacinę
-________________________________________________________________________
+________________________________________________________________
+(tiksliai nusakyti darbo, pareigų
+pavadinimą, kvalifikacinę
+_____________________________________________________________________
 kategoriją; jeigu priimamas mokiniu, taip pat
 nurodyti)
 1.3.
 pagal neterminuotą, terminuotą darbo sutartį (nereikalingą žodį
-išbraukti)______________________________________________________________
-________________________________________________________________________
+išbraukti)________________________________________________________________________________________________________________________________
 (jeigu terminuota
 sutartis,nurodyti terminą pagal Darbo sutarties 
-________________________________________________________________________
+_____________________________________________________________________
 įstatymo 10 straipsnį)
  
 2.
-Nustatomas išbandymo laikotarpis ____________________________________
+Nustatomas išbandymo laikotarpis _________________________________
 (nurodyti terminą)
 3.
-Nustatomas sutrumpintas darbo laikas_________________________________
+Nustatomas sutrumpintas darbo laikas_____________________________
 (nurodyti, kas sutrumpinama - 
-________________________________________________________________________
+_____________________________________________________________________
 darbo savaitė, darbo diena,
 ir sutrumpinimo trukmę)
  
 4.
-Darbdavys įsipareigoja mokėti darbuotojui darbo užmokestį____________
+Darbdavys įsipareigoja mokėti darbuotojui darbo užmokestį_________
 (nurodyti sumą, 
-________________________________________________________________________
+_____________________________________________________________________
 valandinį
 tarifinį atlygį, mėnesinę algą, priemokas ir kt.; kiek 
-________________________________________________________________________
+_____________________________________________________________________
 kartų
 per mėnesį, kuriomis dienomis)
  
 5.
 Kiti darbdavio įsipareigojimai, kurie neprivalomi pagal teisės aktus, bet jiems
 neprieštarauja ir kurių nereglamentuoja kolektyvinis susitarimas arba
-kolektyvinė sutartis___________________________________
+kolektyvinė sutartis________________________________
 (papildomos garantijos, 
-________________________________________________________________________
+_____________________________________________________________________
 kompensacijos ir kt.)
-________________________________________________________________________
+_____________________________________________________________________
 6.
 Darbuotojo įsipareigojimai, kurių nereglamentuoja kolektyvinis susitarimas,
 kolektyvinė sutartis ir kurie neprivalomi pagal teisės aktus, bet jiems
-neprieštarauja_________________________________________
-________________________________________________________________________
-________________________________________________________________________
-________________________________________________________________________
-________________________________________________________________________
+neprieštarauja______________________________________
+_____________________________________________________________________
+_____________________________________________________________________
+_____________________________________________________________________
+_____________________________________________________________________
 7.
-Ši darbo sutartis įsigalioja_________________________________________
+Ši darbo sutartis įsigalioja______________________________________
 (nurodyti datą)
 8.
-Darbuotojas pradeda dirbti___________________________________________
+Darbuotojas pradeda dirbti________________________________________
 (nurodyti datą)
 9.
 Ginčai dėl šios darbo sutarties nagrinėjami darbo ginčų nagrinėjimo tvarka.
@@ -1408,13 +1417,13 @@ A.V.
  
  
 Darbo
-sutartis pakeista_________________________________________________
+sutartis pakeista______________________________________________
 (nurodyti, kokios pirminės
 šios darbo sutarties 
-________________________________________________________________________
+_____________________________________________________________________
 sąlygos pakeistos, ir datą)
-________________________________________________________________________
-________________________________________________________________________
+_____________________________________________________________________
+_____________________________________________________________________
  
  
 Šalių
@@ -1427,9 +1436,9 @@ A.V.
  
  
 Darbo
-sutartis nutraukta _______________________________________________
+sutartis nutraukta ___________________________________________
 (nurodyti datą ir pagrindą)
-________________________________________________________________________
+_____________________________________________________________________
  
 Šalių
 parašai:
@@ -1442,13 +1451,13 @@ A.V.
  
 Pastaba. Šioje tipinėje darbo sutarties formoje nustatomos bendrosios
 darbo sutarties sąlygos. Specifinės paskirties įmonių (atominės energetikos,
-jūrų, upių, oro, geležinkelio transporto ir kt.) darbo sutartyse gali būti
-šalių nustatytos kitokios teisės aktams neprieštaraujančios sąlygos.
+jūrų, upių, oro, geležinkelio transporto ir kt.) darbo sutartyse gali būti šalių
+nustatytos kitokios teisės aktams neprieštaraujančios sąlygos.
 Šios darbo sutarties būtinosios sąlygos -
 darbuotojo darbo vieta (įmonė, jos padalinys ir pan.), darbo funkcijos
-(profesija, kvalifikacija, specialybė, darbas, pareigos), darbo apmokėjimo
-sąlygos - gali būti keičiamos tiktai šalių susitarimu. Kitų šios sutarties
-sąlygų keitimas negali prieštarauti įstatymams, kitiems teisės aktams,
+(profesija, kvalifikacija, specialybė, darbas, pareigos), darbo apmokėjimo sąlygos
+- gali būti keičiamos tiktai šalių susitarimu. Kitų šios sutarties sąlygų
+keitimas negali prieštarauti įstatymams, kitiems teisės aktams,
 reglamentuojantiems darbo sutarties sudarymą, pakeitimą ir nutraukimą. Kai toje
 įmonėje, įstaigoje, organizacijoje darbuotojo sutikimu jam pavedamas kitas
 darbas, nesulygtas darbo sutartimi, sudaroma kita darbo sutartis laikantis šios
