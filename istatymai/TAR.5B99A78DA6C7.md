@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5B99A78DA6C7"
 
 # Lietuvos Respublikos maisto įstatymas
 
-Suvestinė redakcija nuo 2003-10-01 iki 2004-06-11
+Suvestinė redakcija nuo 2004-06-12 iki 2005-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-893, i. k. 1001010ISTAIII-1608
  
@@ -35,7 +35,10 @@ BENDRosios NUOSTatos
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Įstatymas nustato teikiamo į rinką maisto bei jo tvarkymo reikalavimus, valstybės institucijų bei visuomeninių vartotojų teisių gynimo organizacijų kompetenciją užtikrinant maisto saugą, taip pat reglamentuoja maisto gamintojų, paslaugų teikėjų bei pardavėjų pareigas ir atsakomybę.
+1. Įstatymas nustato teikiamo į rinką maisto bei jo tvarkymo reikalavimus, valstybės institucijų bei visuomeninių vartotojų teisių gynimo organizacijų kompetenciją užtikrinant maisto saugą, taip pat reglamentuoja maisto gamintojų, paslaugų teikėjų bei pardavėjų pareigas ir atsakomybę. Šio įstatymo nuostatos suderintos su Įstatymo priede nurodytais Europos Sąjungos teisės aktais.
+Straipsnio dalies pakeitimai:
+Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
+ 
 
 
 
@@ -66,9 +69,10 @@ BENDRosios NUOSTatos
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Maistas – tai perdirbtas, perdirbtas iš dalies arba neperdirbtas produktas ar medžiaga, skirta žmogui nuryti arba pagrįstai tikintis, kad ji bus nuryta. Maistui taip pat priskiriami gėrimai, kramtomoji guma ar bet kuri kita medžiaga, įskaitant vandenį, apgalvotai įdėta į maistą jį gaminant, ruošiant ar apdorojant. Į maisto sąvoką neįeina: pašarai, gyvi gyvūnai (nebent jie būtų paruošti teikti į rinką žmonėms vartoti), augalai iki jų derliaus nuėmimo, medicinos gaminiai, kosmetikos gaminiai, tabakas ir jo gaminiai, narkotinės ir psichotropinės medžiagos, augalų apsaugos priemonių likučiai ir kiti teršalai. 
+1. Įstatymas nustato teikiamo į rinką maisto bei jo tvarkymo reikalavimus, valstybės institucijų bei visuomeninių vartotojų teisių gynimo organizacijų kompetenciją užtikrinant maisto saugą, taip pat reglamentuoja maisto gamintojų, paslaugų teikėjų bei pardavėjų pareigas ir atsakomybę. Šio įstatymo nuostatos suderintos su Įstatymo priede nurodytais Europos Sąjungos teisės aktais.
 Straipsnio dalies pakeitimai:
 Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
  
 
 
@@ -159,11 +163,12 @@ Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA
 
 
 
-12. Vartotojas – maisto vartotojas, kuris maisto nevartoja kokiai nors su maisto verslu susijusiai operacijai atlikti ar veiklai vykdyti. 
+12. Galutinis vartotojas (toliau – vartotojas) – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl maisto įstatymo pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo 3 straipsnio 18 dalyje. 
 Papildyta straipsnio dalimi:
 Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
 Straipsnio dalies pakeitimai:
 Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
  
 
 
@@ -203,10 +208,11 @@ Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA
 
 
 
-17. Pateikimas į rinką – maisto laikymas iki jį parduodant, įskaitant siūlymą parduoti arba kurį nors kitą jo perdavimo būdą nemokamai ar už pinigus, maisto pardavimas, paskirstymas bei kitos jo perdavimo formos. 
+17. Pateikimas į rinką – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl maisto įstatymo pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo 3 straipsnio 8 dalyje. 
 Straipsnio dalies pakeitimai:
 Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
 Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
  
@@ -216,9 +222,11 @@ Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA
 
 
 
-18. Pirminės produkcijos gamyba – naminių ir laukinių gyvūnų bei augalų auginimas, veisimas, dauginimas, derliaus nuėmimas, melžimas, medžiojimas, žvejojimas. 
+18. Pirminė gamyba – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl maisto įstatymo pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo 3 straipsnio 17 dalyje.
 Papildyta straipsnio dalimi:
 Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+Straipsnio dalies pakeitimai:
+Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
  
 
 
@@ -795,3 +803,8 @@ Lietuvos Respublikos maisto įstatymo 2, 3, 4, 7, 9, 11 straipsnių pakeitimo ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
 Lietuvos Respublikos maisto įstatymo 2, 3, 5, 9, 10, 11 ir 12 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
+Lietuvos Respublikos maisto įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
