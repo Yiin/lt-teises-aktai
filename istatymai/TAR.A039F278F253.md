@@ -13,13 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A039F278F253"
 
 # Lietuvos Respublikos ūkinių gyvūnų veislininkystės įstatymas
 
-Suvestinė redakcija nuo 1997-06-25 iki 1998-12-15
+Suvestinė redakcija nuo 1998-12-16 iki 2000-07-25
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 14-226, i. k. 0941010ISTA000I-384
  
+Nauja redakcija nuo 1998-12-16:
+Nr. VIII-934, 1998-11-24, Žin. 1998, Nr. 110-3023 (1998-12-16), i. k. 0981010ISTAVIII-934
  
-LIETUVOS RESPUBLIKOS
-GYVULIŲ VEISLININKYSTĖS
+LIETUVOS RESPUBLIKOS GYVULIŲ VEISLININKYSTĖS 
 Į S T A T Y M A S
  
 1994 m. vasario 8 d. Nr. I-384
@@ -28,68 +29,43 @@ Vilnius
  
 
 
-I. BENDRIEJI NUOSTATAI
+I SKYRIUS
+BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Pagrindinės gyvulių veislininkystės sąvokos
+1 straipsnis. Įstatymo paskirtis
 
 
-Šiame įstatyme:
-veislinis gyvulys – gyvulys, kuris pagal kilmę, individualias, pirmtakų ir palikuonių produktyviąsias bei veislines savybes atitinka veisliniams gyvuliams keliamus reikalavimus;
-veislinio gyvulio kilmės pažymėjimas – oficialus dokumentas, liudijantis gyvulio tapatybę ir apibūdinantis jo produktyviąsias bei veislines savybes;
-gyvulių produktyvumo kontrolė ir veislininkystės apskaita – gyvulių individualių produktyvumo ir veislinių savybių apskaita, registravimas ir kaupimas valstybinėje gyvulių veislininkystės informacijos sistemoje;
-gyvulių sėklinimas – selekcijos spartinimo priemonė, kai patelės apvaisinamos specialios technologijos būdu.
- 
+1. Įstatymas reglamentuoja Lietuvos Respublikos gyvulių veislių genofondo saugojimą, produktyvumo ir veislinių savybių gerinimą, gyvulių veislinės vertės nustatymą, gyvulių veislininkystės priežiūros tarnybos veiklą, jos padalinių teisinę padėtį, privalomą valstybinę gyvulių veislininkystės priežiūrą, veislininkystės institucijų pripažinimą.
 
 
 
 
-
-
-2 straipsnis. Įstatymo paskirtis
-
-
-Šis įstatymas reglamentuoja Lietuvos Respublikos gyvulių veislių genofondo saugojimą, produktyvumo ir veislinių savybių gerinimą, gyvulių veislininkystės priežiūros tarnybų veiklą, jų struktūrų teisinę padėtį, privalomą valstybinę gyvulių veislininkystės priežiūrą.
- 
+2. Įstatymas taikomas galvijų, kiaulių, avių, ožkų ir arklių veislininkystei. Kitų žemės ūkyje naudojamų gyvūnų veislininkystei šis įstatymas taikomas tiek, kiek jos nereguliuoja specialūs kiekvienai gyvūnų rūšiai skirti teisės aktai.
 
 
 
 
+3. Įstatymo tikslas yra reglamentuoti šio straipsnio 2 dalyje nurodytų gyvulių veisimą, kad:
 
 
-3 straipsnis. Pagrindiniai gyvulių veislininkystės uždaviniai
-
-
-Pagrindiniai gyvulių veislininkystės uždaviniai yra:
-
-
-1) saugoti ir gerinti Lietuvos Respublikos gyvulių veisles ir jų genofondą;
+1) didėtų gyvulių produktyvumas ir nenukentėtų jų gyvybingumas;
 
 
 
 
-2) didinti esamų veislių gyvulių genetinį produktyvumo potencialą tam naudojant pasaulio veislių genofondą, skatinti naujų veislių išvedimą;
+2) gerėtų gyvulininkystės ekonomiškumas, konkurencingumas;
 
 
 
 
-3) vykdyti gyvulių selekciją pagal Lietuvos Respublikos Vyriausybės patvirtintą valstybinę gyvulių veislininkystės programą;
+3) gyvulininkystės produkcijos kokybė atitiktų jai keliamus reikalavimus;
 
 
 
 
-4) tvarkyti gyvulių produktyviųjų ir veislinių savybių apskaitą;
-
-
-
-
-5) garantuoti veislinių reproduktorių valstybinę aprobaciją;
-
-
-
-
-6) organizuoti gyvulių sėklinimą ir ženklinimą.
+4) išliktų gyvulių genetinė įvairovė, būtų išsaugotos ir gerinamos Lietuvos Respublikos gyvūnų veislės ir jų genofondas.
  
 
 
@@ -99,23 +75,576 @@ Pagrindiniai gyvulių veislininkystės uždaviniai yra:
 
 
 
-4 straipsnis. Gyvulių veislininkystės sistema
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+
+1. Gyvulių veislininkystė – gyvulių selekcijos priemonių sistema genetiškai patobulintiems gyvuliams gauti ir veisti.
+
+
+
+
+2. Veislinis gyvulys – gyvulys, kurio kilmė ir individualios veislinės savybės atitinka veisliniams gyvuliams keliamus reikalavimus.
+
+
+
+
+3. Grynaveislis gyvulys – gyvulys, kurio kilmė atitinka grynaveislių gyvulių kilmei keliamus reikalavimus.
+
+
+
+
+4. Gyvulys – žemės ūkio gyvulys arba hibridas.
+
+
+
+
+5. Hibridas – skirtingų rūšių gyvūnų palikuonis; kiaulininkystėje ir paukštininkystėje gali būti skirtingų veislių ir linijų tėvų palikuonis, gautas pagal hibridizavimo programą tolesniam veisimui arba penėjimui.
+
+
+
+
+6. Veislinė vertė – veislinio gyvulio genetinis potencialas, palyginti su kitais veisliniais gyvuliais.
+
+
+
+
+7. Kilmės knyga – duomenų visuma apie veislinių gyvulių kilmę, produktyviąsias savybes ir veislinę vertę, tvarkoma pripažintos veislininkystės institucijos.
+
+
+
+
+8. Kilmės registras – gyvulių, kurie gali būti įrašyti į kilmės knygą, registras, skirtas gyvulio kilmei identifikuoti, pildomas pripažintos veislininkystės institucijos.
+
+
+
+
+9. Hibridų registras – gyvulių hibridizavimo programos registras, skirtas gyvulio kilmei identifikuoti, pildomas pripažintos veislininkystės institucijos.
+
+
+
+
+10. Kilmės pažymėjimas – oficialus dokumentas, išduodamas pripažintos veislininkystės institucijos, liudijantis gyvulio ar embriono tapatybę ir apibūdinantis jo kilmę, produktyvumą bei kitas veislines savybes.
+
+
+
+
+11. Produktyvumo kontrolė – gyvulių individualių produktyvumo ir veislinių savybių nustatymas, duomenų apskaita, registravimas ir kaupimas gyvulių veislininkystės informacinėse sistemose.
+
+
+
+
+12. Atrankinis testas – produktyvumo kontrolė pagal hibridizavimo programą, kada pagal atrankinį pavyzdį nustatomas ir palyginamas mišrūnų ir jų tėvų produktyvumas.
+
+
+
+
+13. Gyvulių sėklinimas – biotechnologijos metodas, kuriuo didinamas vyriškosios lyties reproduktorių palikuonių skaičius.
+
+
+
+
+14. Embrionų persodinimas – biotechnologijos metodas, kuriuo didinamas moteriškosios lyties reproduktorių palikuonių skaičius.
+
+
+
+
+15. Embrionų persodinimo įmonė – įmonė, kurioje embrionai išplaunami iš donorių ir persodinami recipientėms.
+
+
+
+
+16. Veislininkystės institucija – įstatymų nustatyta tvarka įregistruota asociacija ar organizacija, kuriai Žemės ūkio ministerija pripažįsta teisę vykdyti veislininkystės (hibridizavimo) programas, pildyti kilmės knygas ir kilmės (hibridų) registrą.
+
+
+
+
+17. Sėklinimo centras – įmonė, kurioje laikomi vyriškosios lyties reproduktoriai spermos gamybai.
+
+
+
+
+18. Tikrinamasis bulius – sėklinimo centro bulius, kuris tikrinamas pagal apvaisinimo galią ir palikuonių savybes jo veislinei vertei nustatyti.
+
+
+
+
+19. Sėklintojai – sėklinimo paslaugas atliekantys fiziniai ir juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių.
+
+
+
+
+20. Kergimas – natūralus gyvulių poravimas.
+
+
+
+
+21. Kergimo punktas – vieta, kurioje fiziniai ar juridiniai asmenys laiko reproduktorius patelėms kergti.
+ 
+
+
+
+
+
+
+
+
+II SKYRIUS
+GYVULIŲ PRODUKTYVUMO KONTROLĖ, VEISLINĖS VERTĖS NUSTATYMAS IR DUOMENŲ SKELBIMAS
+ 
+
+
+3 straipsnis. Produktyvumo kontrolė ir veislinės vertės nustatymas
+
+
+1. Produktyvumas ir veislinė vertė nustatomi turint tikslą gerinti gyvulių genetinį potencialą.
+
+
+
+
+2. Produktyvumo kontrolę vykdo ir gyvulių veislinę vertę nustato Žemės ūkio ministerijos įgaliotos valstybės įmonės ar kitos institucijos.
+
+
+
+
+3. Žemės ūkio ministerijos įgaliota institucija, nustatydama gyvulių veislinę vertę, gali panaudoti:
+
+
+1) pripažintų veislininkystės institucijų duomenis, jeigu šios institucijos garantuoja duomenų objektyvumą;
+
+
+
+
+2) kitų valstybių produktyvumo kontrolės ir veislinės vertės duomenis, jeigu jie gauti ne mažesniu kaip Lietuvos Respublikos žemės ūkio ministerijos nustatytu tikslumu ir juos galima palyginti su pripažintų veislininkystės institucijų gautais duomenimis.
+
+
+
+
+
+
+4. Kad vyriškosios lyties reproduktorių vertinimas būtų objektyvus, visi sėklinimui ar kergimui naudoti reproduktoriai, kurių palikuonių produktyvumo duomenys patenka į gyvulių veislininkystės informacinę sistemą, turi būti vertinami per visą jų naudojimo laikotarpį. Veislinės vertės duomenys skelbiami neatsižvelgiant į reproduktoriaus savininko valią. Bulių vertinimui kontroliuojamų bandų I ir II laktacijų karvės (išskyrus rinktines) sėklinamos tikrinamųjų bulių sperma.
+ 
+
+
+
+
+
+
+4 straipsnis. Produktyvumo vertinimas, duomenų saugojimas ir skelbimas
+
+
+Žemės ūkio ministerijos įgaliotos institucijos, atliekančios gyvulių produktyvumo kontrolę ir nustatančios jų veislinę vertę, renka, apdoroja, analizuoja ir veislininkystės informacinėse sistemose saugo produktyvumo kontrolės ir veislinės vertės duomenis, juos skelbia specialiuose leidiniuose, informuoja veislininkystės institucijas, kurios konsultuoja gyvulių augintojus ir veislininkystės paslaugas teikiančius fizinius bei juridinius asmenis.
+ 
+
+
+
+
+
+
+5 straipsnis. Valstybės valdymo institucijų kompetencija gyvulių produktyvumo kontrolės ir veislinės vertės nustatymo srityje
+
+
+Gyvulių produktyvumo kontrolės vykdymo, veislinės vertės nustatymo nuostatus bei privalomų selekcijos požymių sąrašą tvirtina, naudojimosi produktyvumo kontrolės ir veislinės vertės duomenimis tvarką nustato Žemės ūkio ministerija.
+ 
+
+
+
+
+
+
+
+
+III SKYRIUS
+VEISLINIŲ GYVULIŲ, HIBRIDŲ, JŲ SPERMOS, EMBRIONŲ IR KIAUŠIALĄSČIŲ PASIŪLOS BENDRIEJI REIKALAVIMAI
+ 
+
+
+6 straipsnis. Veislinių gyvulių ir hibridų pasiūla
+
+
+Veisliniai gyvuliai ir hibridai tolesniam veisimui gali būti siūlomi, jeigu jie:
+
+
+1) yra visam laikui suženklinti, o arkliai suženklinti arba aprašyti taip, kad būtų galima nustatyti jų tapatumą;
+
+
+
+
+2) turi kilmės pažymėjimą.
+ 
+
+
+
+
+
+
+
+
+7 straipsnis. Spermos pasiūla
+
+
+1. Sperma gali būti siūloma, jeigu ji:
+
+
+1) gauta, apdorota ir saugoma sėklinimo centre arba gauta kitur sėklinimo centro įgalioto asmens;
+
+
+
+
+2) yra suženklinta;
+
+
+
+
+3) gauta iš veislinio gyvulio ar hibrido, dėl kurio išduotas leidimas spermai kaupti.
+
+
+
+
+
+
+2. Leidimas spermai kaupti ir naudoti išduodamas, jeigu:
+
+
+1) reproduktoriaus veislinė vertė yra aukštesnė negu vidutinė kontroliuojamų gyvulių vertė (kuilys gali būti atrinktas pagal atrankinio testo duomenis);
+
+
+
+
+2) iš užsienio atvežtas reproduktorius ir jo tėvai įrašyti į jo kilmės vietovėje nustatyta tvarka pripažintos veislininkystės institucijos kilmės knygą ar registrus;
+
+
+
+
+3) iš užsienio atvežtas reproduktorius įrašytas į pripažintos Lietuvos Respublikos veislininkystės institucijos kilmės knygą ar registrus;
+
+
+
+
+4) reproduktoriai testuojami pagal palikuonių ir individualų produktyvumą;
+
+
+
+
+5) reproduktoriai ir jų sperma atitinka veterinarinius reikalavimus.
+
+
+
+
+
+
+3. Europos Sąjungos šalių kompetentingų institucijų leidimai spermai kaupti pripažįstami, jeigu jie atitinka šio straipsnio 2 dalies 2 punkto reikalavimus.
+
+
+
+
+4. Siūloma sperma pateikiama su spermos donoro kilmės pažymėjimu, iš kurio matyti jo kraujo grupė, ir spermos kokybės pažymėjimu, kurį išduoda spermos kaupėjas. Dokumentų tikrumą garantuoja spermos pateikėjas.
+ 
+
+
+
+
+
+
+8 straipsnis. Embrionų ir kiaušialąsčių pasiūla
+
+
+1. Embrionai, kiaušialąstės gali būti siūlomi, jeigu jie:
+
+
+1) yra gauti ir apdoroti embrionų persodinimo įmonėje;
+
+
+
+
+2) yra gauti iš veislinių gyvulių ar hibridų;
+
+
+
+
+3) yra suženklinti arba persodinti suženklintoms recipientėms.
+
+
+
+
+
+
+2. Siūlomi embrionai pateikiami su genetinių tėvų kilmės pažymėjimu, iš kurio matyti jų kraujo grupė, ir embriono kokybės pažymėjimu iš embrionų persodinimo įmonės bei veterinariniu pažymėjimu.
+
+
+
+
+3. Siūlomos kiaušialąstės pateikiamos su donorės kilmės pažymėjimu, iš kurio matyti jos kraujo grupė, ir kiaušialąstės kokybės pažymėjimu iš embriono persodinimo įmonės bei veterinariniu pažymėjimu.
+ 
+
+
+
+
+
+
+9 straipsnis. Valstybės valdymo institucijų kompetencija veislinių gyvulių, hibridų, jų spermos, embrionų ir kiaušialąsčių pasiūlos reguliavimo srityje
+
+
+1. Žemės ūkio ministerija nustato:
+
+
+1) veislinių gyvulių bei hibridų, jų spermos, embrionų ir kiaušialąsčių pasiūlos bendruosius reikalavimus, gyvulių suženklinimo tvarką, veislinių, grynaveislių gyvulių bei hibridų, veislinių, grynaveislių gyvulių bei hibridų kilmės pažymėjimų formų reikalavimus;
+
+
+
+
+2) spermos pasiūlos ir jos kokybės reikalavimus, spermos apskaitos ir suženklinimo, leidimų spermai kaupti, leidimų sėklinimo centrams ir sėklintojams išdavimo tvarką;
+
+
+
+
+3) embrionų ir kiaušialąsčių pasiūlos, embrionų, kiaušialąsčių apskaitos, suženklinimo tvarką, embrionų ir kiaušialąsčių kokybės pažymėjimų formų reikalavimus.
+
+
+
+
+
+
+2. Veislinių gyvulių bei hibridų, sėklinimo centrų, reproduktorių, spermos, embrionų ir kiaušialąsčių veterinarinius reikalavimus nustato Valstybinė veterinarijos tarnyba.
+ 
+
+
+
+
+
+
+
+
+IV SKYRIUS
+GYVULIŲ SĖKLINIMAS IR KERGIMAS
+ 
+
+
+10 straipsnis. Sėklinimo centro ir kergimo punkto veikla
+
+
+1. Savo veiklai sėklinimo centras ar kergimo punktas turi gauti leidimą.
+
+
+
+
+2. Sėklinimo centro veiklai leidimas išduodamas, jeigu:
+
+
+1) yra sąlygos reproduktoriams laikyti, kvalifikuotas personalas bei įranga;
+
+
+
+
+2) įmonė yra prižiūrima veterinarijos gydytojo;
+
+
+
+
+3) sperma yra gaunama iš sėklinimo centre laikomų reproduktorių, išskyrus atvejus, kai sėklinimo centras nustatyta tvarka gauna spermą už centro ribų;
+
+
+
+
+4) įmonė dalyvauja pripažintų veislininkystės institucijų veislininkystės programose;
+
+
+
+
+5) laikomasi būtinų veterinarijos, spermos kokybės ir apskaitos reikalavimų.
+
+
+
+
+
+
+3. Sėklinimo centras gali pasiūlyti spermą:
+
+
+1) pripažintoms veislininkystės institucijoms;
+
+
+
+
+2) kitiems sėklinimo centrams;
+
+
+
+
+3) gyvulių sėklintojams arba asmenims, sėklinimo centro įgaliotiems atlikti sėklinimus;
+
+
+
+
+4) gyvulių augintojams savo bandų gyvuliams sėklinti.
+
+
+
+
+
+
+4. Asmenys, kuriems pateikiama sperma, vykdo spermos panaudojimo apskaitą.
+
+
+
+
+5. Leidimus kergti išduoda pripažintos veislininkystės institucijos.
+ 
+
+
+
+
+
+
+11 straipsnis. Sėklintojai
+
+
+1. Sėklintojai savo veiklai turi gauti leidimą Žemės ūkio ministerijos nustatyta tvarka.
+
+
+
+
+2. Sėklintojams leidimas išduodamas, jeigu jie:
+
+
+1) yra kvalifikuoti ir turi reikiamą įrangą;
+
+
+
+
+2) vykdo pripažintų veislininkystės institucijų veislininkystės programą;
+
+
+
+
+3) laikosi veterinarijos ir spermos panaudojimo apskaitos reikalavimų.
+ 
+
+
+
+
+
+
+
+
+12 straipsnis. Valstybės valdymo institucijų kompetencija gyvulių sėklinimo ir kergimo reguliavimo srityje
+
+
+1. Žemės ūkio ministerija nustato:
+
+
+1) leidimų sėklinimo centrų ir kergimo punktų veiklai išdavimo tvarką, reikalavimus sėklinimo centrams ir kergimo punktams, jų personalui ir jų įrangos reikalavimus;
+
+
+
+
+2) leidimų sėklintojams išdavimo, sėklintojų kursų organizavimo tvarką.
+
+
+
+
+
+
+2. Sėklinimo centrų, kergimo punktų ir sėklintojų veiklos veterinarinius reikalavimus nustato Valstybinė veterinarijos tarnyba.
+ 
+
+
+
+
+
+
+
+
+V SKYRIUS
+EMBRIONŲ PERSODINIMAS
+ 
+
+
+13 straipsnis. Embrionų persodinimo įmonės veikla
+
+
+1. Savo veiklai embrionų persodinimo įmonė turi gauti leidimą Žemės ūkio ministerijos nustatyta tvarka.
+
+
+
+
+2. Embrionų persodinimo įmonės veiklai leidimas išduodamas, jeigu:
+
+
+1) yra kvalifikuotas personalas bei įranga;
+
+
+
+
+2) įmonė yra prižiūrima veterinarijos gydytojo;
+
+
+
+
+3) laikomasi embrionų bei kiaušialąsčių kokybės, jų apskaitos bei veterinarijos reikalavimų.
+
+
+
+
+
+
+3. Embrionų persodinimo įmonė persodinti embrionus ir kiaušialąstes gali įgalioti kvalifikuotus asmenis.
+ 
+
+
+
+
+
+
+14 straipsnis. Valstybės valdymo institucijų kompetencija embrionų ir kiaušialąsčių persodinimo reguliavimo srityje
+
+
+1. Leidimų embrionų ir kiaušialąsčių persodinimo įmonių veiklai išdavimo tvarką, embrionų ir kiaušialąsčių kokybės ir apskaitos reikalavimus, reikalavimus embrionų ir kiaušialąsčių persodinimo įmonėms, jų personalui ir jų įrangos reikalavimus nustato Žemės ūkio ministerija.
+
+
+
+
+2. Embrionų persodinimo veterinarinius reikalavimus nustato Valstybinė veterinarijos tarnyba.
+ 
+
+
+
+
+
+
+
+
+VI SKYRIUS
+VEISLININKYSTĖS SISTEMA
+ 
+
+
+15 straipsnis. Lietuvos Respublikos gyvulių veislininkystės sistema
 
 
 Lietuvos Respublikos gyvulių veislininkystės sistemą sudaro:
 
 
-1) valstybinė gyvulių veislininkystės priežiūros tarnyba;
+1) veislinių gyvulių augintojai;
 
 
 
 
-2) gyvulių veislininkystės organizacijos, įmonės, firmos, bendrovės, draugijos ir asociacijos;
+2) veislininkystės paslaugas teikiantys fiziniai ir juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių;
 
 
 
 
-3) fiziniai ir juridiniai asmenys, auginantys veislinius gyvulius, užsiimantys kita veislininkystės veikla.
+3) pripažintos veislininkystės institucijos;
+
+
+
+
+4) Žemės ūkio rūmai – pagrindinė institucija, atstovaujanti veislininkystės savivaldai;
+
+
+
+
+5) Valstybinė gyvulių veislininkystės priežiūros tarnyba prie Lietuvos Respublikos žemės ūkio ministerijos.
  
 
 
@@ -125,122 +654,88 @@ Lietuvos Respublikos gyvulių veislininkystės sistemą sudaro:
 
 
 
+16 straipsnis. Valstybinė gyvulių veislininkystės priežiūros tarnyba
 
 
-II. VALSTYBINĖS GYVULIŲ VEISLININKYSTĖS TARNYBOS
-IR ORGANIZACIJOS
- 
+1. Valstybinę gyvulių veislininkystės priežiūrą Lietuvos Respublikoje vykdo Valstybinė gyvulių veislininkystės priežiūros tarnyba. Valstybinė gyvulių veislininkystės priežiūros tarnyba savo veikloje vadovaujasi šiuo ir kitais Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, žemės ūkio ministro įsakymais, bei Žemės ūkio ministerijos tvirtinamais šios tarnybos nuostatais. Valstybinės gyvulių veislininkystės priežiūros tarnybos viršininkas kartu yra ir vyriausiasis valstybinis veislininkystės inspektorius. Tarnybos viršininko pavaduotojas yra kartu ir vyriausiojo valstybinio veislininkystės inpsektoriaus pavaduotojas. Darbo sutartis su jais sudaro žemės ūkio ministras. Valstybinės gyvulių veislininkystės priežiūros tarnybos vyriausieji specialistai yra valstybiniai veislininkystės inpektoriai. Su jais darbo sutartis sudaro tarnybos viršininkas.
 
 
-5 straipsnis. Valstybinė gyvulių veislininkystės priežiūros tarnyba
 
 
-Lietuvos valstybinę gyvulių veislininkystės priežiūros tarnybą sudaro:
+2. Valstybinė gyvulių veislininkystės priežiūros tarnyba vykdo šias funkcijas:
 
 
-1) Lietuvos Respublikos žemės ir miškų ūkio ministerijos valstybinė gyvulių veislininkystės priežiūros tarnyba.
-Tarnybos viršininkas kartu yra ir Lietuvos Respublikos vyriausiasis valstybinis gyvulių veislininkystės inspektorius. Jo pavaduotojas yra Lietuvos Respublikos vyriausiojo gyvulių veislininkystės inspektoriaus pavaduotojas. Vyriausieji specialistai yra Lietuvos Respublikos valstybiniai gyvulių veislininkystės inspektoriai;
+1) kontroliuoja Gyvulių veislininkystės įstatymo ir kitų su veislininkyste susijusių teisės norminių aktų vykdymą;
 
 
 
 
-2) regionų valstybinės gyvulių veislininkystės priežiūros tarnybos, kurių specialistus (inspektorius ir zootechnikus selekcininkus–konsultantus) skiria ir atleidžia Lietuvos Respublikos žemės ir miškų ūkio ministras. 
+2) teikia pasiūlymus Žemės ūkio ministerijai dėl tikslinių veislininkystės programų finansavimo, atsižvelgdama į pripažintų veislininkystės institucijų pasiūlymus, ir kontroliuoja tikslinį šių lėšų panaudojimą;
 
 
 
 
-Straipsnio pakeitimai:
-Nr. VIII-246, 1997-06-10, Žin., 1997, Nr. 59-1365 (1997-06-25), i. k. 0971010ISTAVIII-246
- 
+3) kontroliuoja veislininkystės programų vykdymą;
 
 
 
 
-6 straipsnis. Valstybinės gyvulių veislininkystės priežiūros tarnybos funkcijos
+4) rengia ir teikia Žemės ūkio ministerijai teisės aktų veislininkystės klausimais projektus;
 
 
-Lietuvos Respublikos žemės ir miškų ūkio ministerijos valstybinė gyvulių veislininkystės priežiūros tarnyba:
 
 
-1) rengia ilgalaikes gyvulių veislininkystės programas;
+5) teikia pasiūlymus Žemės ūkio ministerijai dėl veislininkystės darbo tobulinimo, atsižvelgdama į pripažintų veislininkystės institucijų siūlymus;
 
 
 
 
-2) organizuoja ir kontroliuoja valstybinės gyvulių veislininkystės programos įgyvendinimą;
+6) nagrinėja juridinių ir fizinių asmenų pareiškimus, skundus, pasiūlymus dėl veislinių gyvulių kokybės, veislininkystės apskaitos tvarkymo ir duomenų teisingumo;
 
 
 
 
-3) koordinuoja fizinių ir juridinių asmenų, organizacijų, užsiimančių veislininkyste, veiklą;
+7) kontroliuoja veislininkystės duomenų kaupimą ir saugojimą;
 
 
 
 
-4) teikia pasiūlymus, kaip formuoti ekonominę politiką gyvulių veislininkystei plėtoti;
+8) teikia Žemės ūkio ministerijai gyvulių veislininkystės apskaitos dokumentų formų projektus;
 
 
 
 
-5) leidžia gyvulių veislininkystę reglamentuojančias instrukcijas, taisykles, metodikas ir kitus norminius aktus;
+9) kontroliuoja veislinių gyvulių registravimą kilmės knygose, veislininkystės apyskaitų, katalogų ir kitų leidinių leidybą;
 
 
 
 
-6) tvirtina gyvulių veislininkystės apskaitos dokumentų formas;
+10) organizuoja veislinių reproduktorių įvertinimą;
 
 
 
 
-7) koordinuoja prekybą veisliniais gyvuliais, veislinių reproduktorių sėkla ir veislinių gyvulių embrionais;
+11) tvirtina veislinių gyvulių kilmės pažymėjimus arba šį darbą paveda pripažintoms veislininkystės institucijoms.
 
 
 
 
-8) atstovauja gyvulių veislininkystės interesams Lietuvoje ir užsienyje;
 
 
+3. Valstybinė gyvulių veislininkystės priežiūros tarnyba turi šias teises:
 
 
-9) koordinuoja veislinių gyvulių registravimą valstybinėse kilmės knygose, gyvulininkystės apyskaitų, katalogų ir kitą leidybą, susijusią su gyvulių veislininkyste;
+1) tikrinti gyvulių veislininkystės institucijas, veislinius gyvulius auginančius fizinius ir juridinius asmenis, kaip jie vykdo Gyvulių veislininkystės įstatymą ir kitus gyvulių veislininkystę reglamentuojančius teisės norminius aktus;
 
 
 
 
-10) organizuoja veislinių gyvulių parodas, konkursus ir arklių pajėgumo išbandymus. 
+2) nustatyta tvarka nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas;
 
 
 
 
-Straipsnio pakeitimai:
-Nr. VIII-246, 1997-06-10, Žin., 1997, Nr. 59-1365 (1997-06-25), i. k. 0971010ISTAVIII-246
- 
-
-
-
-
-7 straipsnis. Regionų valstybinių gyvulių veislininkystės priežiūros tarnybų funkcijos
-
-
-Regionų valstybinės gyvulių veislininkystės priežiūros tarnybos specialistai:
-
-
-1) rūpinasi veislinių reproduktorių patikrinimu ir vertinimu pagal individualias savybes bei palikuonių produktyvumą, vertina veislinius gyvulius ir bandas;
-
-
-
-
-2) organizuoja ir vykdo veislinių reproduktorių valstybinę aprobaciją;
-
-
-
-
-3) tvirtina ir išduoda veislinių gyvulių kilmės pažymėjimus;
-
-
-
-
-4) konsultuoja gyvulių savininkus veislininkystės bei reprodukcijos klausimais.
+3) šios tarnybos nuostatuose nustatyta tvarka sustabdyti fizinių ir juridinių asmenų bei įmonių, neturinčių juridinio asmens teisių, veiklą gyvulių veislininkystės srityje ir gyvulių veislininkystės paslaugų teikimą, jeigu jie nesilaiko Gyvulių veislininkystės įstatymo ir kitų veislininkystę reglamentuojančių teisės aktų reikalavimų. Kai pažeidimai yra pašalinami, Valstybinė gyvulių veislininkystės priežiūros tarnyba priima sprendimą atšaukti draudimą verstis gyvulių veislininkystės veikla bei veislininkystės paslaugų teikimu.
  
 
 
@@ -250,82 +745,38 @@ Regionų valstybinės gyvulių veislininkystės priežiūros tarnybos specialist
 
 
 
-8 straipsnis. Valstybinės gyvulių veislininkystės priežiūros tarnybos teisės
+17 straipsnis. Veislininkystės institucijų pripažinimas
 
 
-Lietuvos Respublikos žemės ir miškų ūkio ministerijos bei regionų valstybinės gyvulių veislininkystės priežiūros tarnybos specialistai ir inspektoriai turi teisę:
+Veislininkystės institucija pripažįstama, jeigu:
 
 
-1) tikrinti gyvulių veislininkystės organizacijas, gyvulius auginančius fizinius ir juridinius asmenis, kaip jie vykdo Lietuvos Respublikos gyvulių veislininkystės įstatymą, poįstatyminius gyvulių veislininkystę reglamentuojančius aktus;
-
-
-
-
-2) jeigu yra išaiškinti šio įstatymo, Lietuvos Respublikos Vyriausybės ir žinybų gyvulių veislininkystę reglamentuojančių norminių aktų pažeidimai, valstybinės gyvulių veislininkystės priežiūros tarnybos inspektoriai turi teisę įstatymų nustatyta tvarka skirti administracines nuobaudas pareigūnams ir piliečiams arba uždrausti fiziniams ir juridiniams asmenims prekybą veisliniais gyvuliais, veislinių reproduktorių sėkla, veislinių gyvulių embrionais. 
+1) ji įsteigta remiantis Lietuvos Respublikos įstatymais;
 
 
 
 
-Straipsnio pakeitimai:
-Nr. VIII-246, 1997-06-10, Žin., 1997, Nr. 59-1365 (1997-06-25), i. k. 0971010ISTAVIII-246
- 
+2) turi parengtą veislininkystės programą;
 
 
 
 
-9 straipsnis. Gyvulių veislininkystės organizacijos
-
-
-Gyvulių veislininkystės organizacijos, įmonės, firmos, bendrovės, draugijos ir asociacijos gali būti valstybinės, valstybinės-kooperatinės, kooperatinės ir privačios. Jų veiklą reguliuoja Lietuvos Respublikos įstatymai bei poįstatyminiai aktai.
- 
+3) veislinių gyvulių populiacija yra pakankama veislininkystės programai įgyvendinti;
 
 
 
 
+4) turi kvalifikuotą personalą bei įrangą;
 
 
 
 
-III. FIZINIAI IR JURIDINIAI ASMENYS, VYKDANTYS
-VALSTYBINĘ GYVULIŲ VEISLININKYSTĖS PROGRAMĄ
- 
-
-
-10 straipsnis. Fizinių ir juridinių asmenų pareigos
-
-
-Fiziniai ir juridiniai asmenys, vykdantys valstybinę gyvulių veislininkystės programą, privalo:
-
-
-1) turėti sąlygas gyvulių veislininkystei tvarkyti;
+5) veisliniai gyvuliai yra suženklinti, o arkliai suženklinti arba aprašyti taip, kad būtų galima nustatyti jų tapatumą;
 
 
 
 
-2) laikytis gyvulių veislininkystės programų ir norminių aktų reikalavimų;
-
-
-
-
-3) turėti atitinkamą išsilavinimą arba kvalifikaciją ir Lietuvos Respublikos žemės ir miškų ūkio ministerijos nustatyta tvarka išduotą leidimą (licenciją) gyvulių veislininkystei savarankiškai tvarkyti ar veislininkystės paslaugoms teikti; 
-Straipsnio punkto pakeitimai:
-Nr. VIII-246, 1997-06-10, Žin., 1997, Nr. 59-1365 (1997-06-25), i. k. 0971010ISTAVIII-246
- 
-
-
-
-
-4) sudaryti sąlygas valstybinei gyvulių veislininkystės priežiūros tarnybai tikrinti ir vertinti gyvulių veislininkystę ir reprodukciją, vykdyti jos nurodymus;
-
-
-
-
-5) suženklinti visus veisiamus gyvulius pagal Lietuvoje naudojamą vieną gyvulių identifikavimo sistemą;
-
-
-
-
-6) teikti informaciją valstybinėms gyvulių veislininkystės priežiūros tarnyboms ir organizacijoms.
+6) tinkamai pildoma kilmės knyga, kilmės ir hibridų registrai.
  
 
 
@@ -335,17 +786,10 @@ Nr. VIII-246, 1997-06-10, Žin., 1997, Nr. 59-1365 (1997-06-25), i. k. 0971010IS
 
 
 
+18 straipsnis. Gyvulių įrašymas į kilmės knygą
 
 
-IV. ATSAKOMYBĖ UŽ LIETUVOS RESPUBLIKOS
-GYVULIŲ VEISLININKYSTĖS ĮSTATYMO PAŽEIDIMUS
- 
-
-
-11 straipsnis. Teisinė atsakomybė
-
-
-Fiziniai ir juridiniai asmenys, pažeidę šio įstatymo bei kitų gyvulių veislininkystės norminių aktų reikalavimus, traukiami administracinėn, materialinėn ir baudžiamojon atsakomybėn pagal Lietuvos Respublikos įstatymus.
+Kiekvienas gyvulys, kuris pagal kilmę bei produktyvumą atitinka nustatytus reikalavimus, veislininkystės institucijos nario - gyvulio savininko prašymu turi būti įrašytas į kilmės knygą arba įregistruotas kilmės registre. Įvežtiems gyvuliams neturi būti keliami didesni reikalavimai negu vietiniams.
  
 
 
@@ -353,16 +797,33 @@ Fiziniai ir juridiniai asmenys, pažeidę šio įstatymo bei kitų gyvulių veis
 
 
 
+19 straipsnis. Valstybės valdymo institucijų kompetencija veislininkystės institucijų pripažinimo srityje
 
 
-V. BAIGIAMIEJI NUOSTATAI
+1. Veislininkystės institucijų pripažinimo tvarką ir reikalavimus personalui, taip pat įrangos reikalavimus, kilmės knygų ir registrų turinio, formos bei tvarkymo reikalavimus nustato Žemės ūkio ministerija, atsižvelgdama į Žemės ūkio rūmų pasiūlymus.
+
+
+
+
+2. Veterinarijos reikalavimus veislininkystės institucijoms nustato Valstybinė veterinarijos tarnyba.
  
 
 
-12 straipsnis. Valstybinės gyvulių veislininkystės priežiūros tarnybos ir valstybinės gyvulių veislininkystės programos finansavimas
 
 
-Valstybinė gyvulių veislininkystės priežiūros tarnyba ir Lietuvos Respublikos Vyriausybės patvirtinta valstybinė gyvulių veislininkystės programa finansuojamos iš valstybės biudžeto.
+
+
+
+
+VII SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+ 
+
+
+20 straipsnis. Valstybės parama veislininkystei
+
+
+Veislinė gyvulininkystė yra prioritetinė žemės ūkio šaka. Valstybė remia veislininkystę pagal Vyriausybės arba jos įgaliotos institucijos patvirtintas programas.
  
 
 
@@ -370,19 +831,18 @@ Valstybinė gyvulių veislininkystės priežiūros tarnyba ir Lietuvos Respublik
 
 
 
-13 straipsnis. Ginčų, kylančių dėl gyvulių veislininkystės teisinių santykių, sprendimas
+21 straipsnis. Leidimų galiojimas
 
 
-Ginčai tarp gyvulių veislininkystės organizacijų ir fizinių bei juridinių asmenų sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-
-
+Leidimai, išduoti vadovaujantis 1994 m. vasario 8 d. Gyvulių veislininkystės įstatymo Nr. I-384 (Žin., 1994, Nr. 14-226; 1997, Nr. 59-1365) redakcija, nenustoja galioti.
 
 
 
 
 
- 
+
+
+
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
@@ -395,9 +855,15 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-246, 1997-06-10, Žin., 1997, Nr. 59-1365 (1997-06-25), i. k. 0971010ISTAVIII-246
 Lietuvos Respublikos gyvulių veislininkystės įstatymo 5, 6, 8 ir 10 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-934, 1998-11-24, Žin., 1998, Nr. 110-3023 (1998-12-16), i. k. 0981010ISTAVIII-934
+Lietuvos Respublikos gyvulių veislininkystės įstatymo pakeitimo įstatymas
