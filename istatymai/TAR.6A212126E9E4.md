@@ -15,8 +15,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4"
 
 Redaguota : 1997
 
-Redaguota :
-1997.01.21
+Redagavo: Ramunė
+Lūžaitė  (1997.01.29)
  
 Neoficialus įstatymo
 tekstas
@@ -24,282 +24,254 @@ tekstas
 Pakeitimai:
  
 1.
- 
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-2200,
-92.01.14, Žin., 1992, Nr. 3-40
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"
-PAPILDYMO IR
-PAKEITIMO
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-2200, 92.01.14,
+Žin., 1992, Nr. 3-40
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" PAPILDYMO IR PAKEITIMO
  
 2.
- 
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-2305,
-92.02.11, Žin., 1992, Nr. 7-155
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"
-DALINIO PAKEITIMO
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-2305, 92.02.11,
+Žin., 1992, Nr. 7-155
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" DALINIO PAKEITIMO
  
 3.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-2417,
-92.03.24, Žin., 1992, Nr. 11-278
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 10
-STRAIPSNIO PIRMOSIOS
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-2417, 92.03.24,
+Žin., 1992, Nr. 11-278
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 10 STRAIPSNIO PIRMOSIOS
 DALIES PAPILDYMO
  
 4.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-2566,
-92.05.07, Žin., 1992, Nr. 15-405
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"
-PAPILDYMO IR PAKEITIMO
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-2566, 92.05.07,
+Žin., 1992, Nr. 15-405
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" PAPILDYMO IR PAKEITIMO
  
 5.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-44, 93.01.12,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-44, 93.01.12,
 Žin., 1993, Nr. 5-83
-DĖL ĮSTATYMO
-"DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ
+DĖL
+ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ
 ATSTATYMO TVARKOS IR SĄLYGŲ" PAKEITIMO
  
 6.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-229, 93.07.15,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"
-PAPILDYMO IR
-PAKEITIMO
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" PAPILDYMO IR PAKEITIMO
  
 7.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-366, 94.01.11,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-366, 94.01.11,
 Žin., 1994, Nr. 7-100 (94.01.26)
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"
-PAKEITIMO IR
-PAPILDYMO
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" PAKEITIMO IR PAPILDYMO
  
 8.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-388, 94.02.15,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-388, 94.02.15,
 Žin., 1994, Nr. 14-229 (94.02.23)
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 10
-STRAIPSNIO PAPILDYMO
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 10 STRAIPSNIO PAPILDYMO
  
 9.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-482, 94.05.31,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-482, 94.05.31,
 Žin., 1994, Nr. 43-778 (94.06.08)
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"
-PAKEITIMO
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" PAKEITIMO
  
 10.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-882, 95.05.04,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-882, 95.05.04,
 Žin., 1995, Nr. 39-965 (95.05.12)
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 3
-STRAIPSNIO PAPILDYMO
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 3 STRAIPSNIO PAPILDYMO
  
 11.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-906, 95.05.30,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"
-PAKEITIMO IR
-PAPILDYMO
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" PAKEITIMO IR PAPILDYMO
  
 12.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-986, 95.07.03,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-986, 95.07.03,
 Žin., 1995, Nr. 59-1465 (95.07.19)
-DĖL LIETUVOS RESPUBLIKOS
-ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"
-PAKEITIMO IR
-PAPILDYMO
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" PAKEITIMO IR PAPILDYMO
  
 13.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-1054,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-1054,
 95.10.03, Žin., 1995, Nr. 85-1916 (95.10.18)
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"
-PAKEITIMO IR
-PAPILDYMO
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" PAKEITIMO IR PAPILDYMO
  
 14.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-1106,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-1106,
 95.11.30, Žin., 1995, Nr. 103-2299 (95.12.20)
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"
-PAPILDYMO
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" PAPILDYMO
  
 15.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. 1-1272,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-1272,
 96.04.02, Žin., 1996, Nr. 37-929 (96.04.26)
-LIETUVOS RESPUBLIKOS
-ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į
-IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 8, 19,
-20, 21 STRAIPSNIŲ
-PAKEITIMO IR PAPILDYMO IR PAPILDYMO 21-1
-STRAIPSNIU ĮSTATYMAS
+LIETUVOS
+RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 8, 19, 20, 21 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO IR PAPILDYMO 21-1 STRAIPSNIU ĮSTATYMAS
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
-KONSTITUCINIO TEISMO
-NUTARIMAI:
+KONSTITUCINIO
+TEISMO NUTARIMAI:
  
 1.
 Konstitucinis
 teismas, Nutarimas
-Nr. 12/93, 94.05.27,
-Žin., 1994, Nr.
-42-771 (94.06.03)
-DĖL LIETUVOS
-RESPUBLIKOS 1993 M. LIEPOS 15 D. ĮSTATYMO "DĖL
-LIETUVOS RESPUBLIKOS
-ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS
-TEISIŲ Į  IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR
-SĄLYGŲ" 
-PAPILDYMO IR PAKEITIMO" ATITIKIMO KONSTITUCIJAI
+Nr.
+12/93, 94.05.27, Žin., 1994, Nr. 42-771 (94.06.03)
+DĖL
+LIETUVOS RESPUBLIKOS 1993 M. LIEPOS 15 D. ĮSTATYMO "DĖL LIETUVOS
+RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į  IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"  PAPILDYMO IR
+PAKEITIMO" ATITIKIMO KONSTITUCIJAI
  
 2.
 Konstitucinis
 teismas, Nutarimas
 94.06.15,
-Žin., 1994, Nr.
-47-889 (94.06.22)
-DĖL 1991 M. BIRŽELIO
-18 D. ĮSTATYMO "DĖL PILIEČIŲ
-NUOSAVYBĖS TEISIŲ Į
-IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATSTATYMO
-TVARKOS IR
-SĄLYGŲ"  KAI KURIŲ PAKEITIMŲ ATITIKIMO LR
-KONSTITUCIJAI
+Žin., 1994, Nr. 47-889 (94.06.22)
+DĖL
+1991 M. BIRŽELIO 18 D. ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ"  KAI KURIŲ PAKEITIMŲ
+ATITIKIMO LR KONSTITUCIJAI
  
 3.
 Konstitucinis
 teismas, Nutarimas
-Nr. 20-21/94,
-95.03.08,
-Žin., 1995, Nr.
-22-516 (95.03.11)
-Dėl Lietuvos
-Respublikos 1993 m. liepos 15 d.  įstatymo
-"Dėl Lietuvos
-Respublikos įstatymo "Dėl piliečių
-nuosavybės teisių į
-išlikusį nekilnojamąjį turtą atstatymo
-tvarkos ir
-sąlygų" papildymo ir pakeitimo" 8 punkto,
-kuriuo iš naujo
-išdėstytas įstatymo "Dėl piliečių
-nuosavybės teisių į
-išlikusį nekilnojamąjį turtą atstatymo
-tvarkos ir
-sąlygų" 12 straipsnio pirmosios dalies 3
-punktas, ir Lietuvos
-Respublikos 1993 m.  liepos 15 d.
-įstatymo "Dėl
-Lietuvos Respublikos žemės reformos įstatymo
-papildymo ir
-pakeitimo" 23 punkto, kuriuo iš naujo
-išdėstytas Lietuvos
-Respublikos žemės reformos įstatymo 16
-straipsnio
-septintasis punktas, atitikimo Lietuvos
-Respublikos
-Konstitucijai
+Nr.
+20-21/94, 95.03.08, Žin., 1995, Nr. 22-516 (95.03.11)
+Dėl
+Lietuvos Respublikos 1993 m. liepos 15 d.  įstatymo "Dėl Lietuvos
+Respublikos įstatymo "Dėl piliečių nuosavybės teisių į išlikusį
+nekilnojamąjį turtą atstatymo tvarkos ir sąlygų" papildymo ir
+pakeitimo" 8 punkto, kuriuo iš naujo išdėstytas įstatymo "Dėl
+piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir
+sąlygų" 12 straipsnio pirmosios dalies 3 punktas, ir Lietuvos Respublikos
+1993 m.  liepos 15 d. įstatymo "Dėl Lietuvos Respublikos žemės reformos įstatymo
+papildymo ir pakeitimo" 23 punkto, kuriuo iš naujo išdėstytas Lietuvos
+Respublikos žemės reformos įstatymo 16 straipsnio septintasis punktas,
+atitikimo Lietuvos Respublikos Konstitucijai
  
 4.
-Lietuvos Respublikos
-Konstitucinis Teismas, Nutarimas
-95.10.26, Žin.,
-1995, Nr.89-2007 (95.11.02)
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ
-Į IŠLIKUSĮ
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+95.10.26,
+Žin., 1995, Nr.89-2007 (95.11.02)
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
 NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ 
  
 5.
-Lietuvos Respublikos
-Konstitucinis Teismas, Nutarimas
-96.11.12, Žin.,
-1996, Nr.112-2558 (96.11.21)
-DĖL LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į
-IŠLIKUSĮ
-NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 8 STRAIPSNIO
-PENKTOSIOS DALIES IR
-19 STRAIPSNIO PIRMOSIOS DALIES NORMŲ ATITIKIMO 
-LIETUVOS RESPUBLIKOS
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+96.11.12,
+Žin., 1996, Nr.112-2558 (96.11.21)
+DĖL
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 8 STRAIPSNIO PENKTOSIOS
+DALIES IR 19 STRAIPSNIO PIRMOSIOS DALIES NORMŲ ATITIKIMO  LIETUVOS RESPUBLIKOS
 KONSTITUCIJAI 
  
-Pastaba: ženklai
-">>" ir "<<" reiškia, kad tekstas tarp jų yra
-pripažintas
-neatitinkančiu Konstitucijos.
+Pastaba:
+ženklai ">>" ir "<<" reiškia, kad tekstas tarp
+jų yra pripažintas neatitinkančiu Konstitucijos.
+ 
+ĮSTATYMO
+GALIOJIMO SUSTABDYMAS:
+ 
+1.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-76,
+97.01.16, Žin., 1997, Nr.6-89 (97.01.22)
+ĮSTATYMO
+"DĖL PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATSTATYMO
+TVARKOS IR SĄLYGŲ" GALIOJIMO SUSTABDYMO LAIKINASIS ĮSTATYMAS
+ 
+ 
+*( Laikinai, kol bus priimtas naujas
+įstatymas,
+ įstatymo galiojimas sustabdomas)
+ 
+ * Lietuvos
+Respublikos Seimas, Įstatymas
+   Nr. VIII-76, 97.01.16,
+Žin., 1997, Nr.6-89 (97.01.22)
  
  
                      
 LIETUVOS RESPUBLIKOS
  
-                            ĮSTATYMAS
+                           
+ĮSTATYMAS
  
   Dėl piliečių nuosavybės teisių į
 išlikusį nekilnojamąjį
@@ -316,7 +288,7 @@ I. Bendrieji nuostatai
 Įstatymo paskirtis
  
      Šis  įstatymas 
-reguliuoja  Lietuvos  Respublikos  piliečių,
+reguliuoja  Lietuvos  Respublikos  piliečių,
 kurių pagal  TSRS
 (LTSR) įstatymus buvo nacionalizuotas ar kitaip
 neteisėtai
@@ -352,15 +324,15 @@ pinigais.
  
 Straipsnio
 pakeitimai:
-Nr. 1-44, 93.01.12,
+Nr. I-44, 93.01.12,
 Žin., 1993, Nr. 5-83
-Nr. 1-229, 93.07.15,
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-Nr. 1-366, 94.01.11,
+Nr. I-366, 94.01.11,
 Žin., 1994, Nr. 7-100 (94.01.26)
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
-Nr. 1-986, 95.07.03,
+Nr. I-986, 95.07.03,
 Žin., 1995, Nr. 59-1465 (95.07.19)
  
      2 straipsnis.
@@ -388,8 +360,8 @@ jeigu  jie pagal 
 Lietuvos  Respublikos įstatymą  yra   Lietuvos
 piliečiai   ir  
 turi   šią   pilietybę patvirtinantį  dokumentą
-bei  nuolat  gyvena  
-Lietuvos  Respublikoje.     Buvusieji turto
+bei  nuolat 
+gyvena   Lietuvos  Respublikoje.     Buvusieji turto
 savininkai arba šio
 straipsnio pirmosios dalies 2  punkte nurodyti
 asmenys teisę į
@@ -403,8 +375,8 @@ bei vaikaičiams.
 straipsnio pirmojoje dalyje nurodytiems asmenims,
 kurie nustatytu 
 laiku buvo padavę prašymus dėl nuosavybės teisių
-atstatymo, 
-nuosavybės   teisės  atstatomos  mirusiojo  vardu,  o
+atstatymo,  nuosavybės  
+teisės  atstatomos  mirusiojo  vardu,  o
 grąžintinas 
 turtas   paveldimas   įstatymo   nustatyta   tvarka.
 Atstatant 
@@ -415,11 +387,11 @@ perėmėjai.
  
 Straipsnio
 pakeitimai:
-Nr. 1-2200,
-92.01.14, Žin., 1992, Nr. 3-40
-Nr. 1-229, 93.07.15,
+Nr. I-2200, 92.01.14,
+Žin., 1992, Nr. 3-40
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
  
      3 straipsnis.
@@ -427,8 +399,8 @@ Turtas, į kurį atstatoma nuosavybės teisė
  
      Šio įstatymo  2
 straipsnyje  nurodytiems asmenims  atstatoma
-nuosavybės teisė į
-šį išlikusį nekilnojamąjį turtą:
+nuosavybės teisė į šį
+išlikusį nekilnojamąjį turtą:
      1) žemę;
      2) miškus;
      3)
@@ -445,11 +417,11 @@ turtas.
  
 Straipsnio
 pakeitimai:
-Nr. 1-882, 95.05.04,
+Nr. I-882, 95.05.04,
 Žin., 1995, Nr. 39-965 (95.05.12)
  
-        II. Nuosavybės
-teisės atstatymo sąlygos ir tvarka
+        II.
+Nuosavybės teisės atstatymo sąlygos ir tvarka
  
      4 straipsnis.
 Nuosavybės teisės į kaimo vietovėje
@@ -484,8 +456,8 @@ lygiavertis žemės  
 sklypas iš laisvos  valstybinio  žemės  fondo
 žemės (žemė
 sugrąžinama ekvivalentine natūra).
-     Laisva   valstybinio  
-žemės  fondo  žeme  laikomi  tie toje
+     Laisva  
+valstybinio   žemės  fondo  žeme  laikomi  tie toje
 vietovėje   esantys 
 žemės  plotai,  kurie  nepriskirti valstybės
 išperkamai žemei, jų
@@ -509,7 +481,7 @@ kitiems žemės  ūkiu
 besiverčiantiems   fiziniams  ir  juridiniams
 asmenims.
      Atstatant
-nuosavybės  teisę, žemės ūkio paskirties žemė gali
+nuosavybės  teisę, žemės ūkio paskirties žemė gali
 būti grąžinama tik
 nustačius šios žemės naudotoją. Juo gali būti:
      1) šią  žemę
@@ -541,8 +513,8 @@ valdytojo
 administracija Žemės ūkio ministerijos nustatyta tvarka,
 arba praktinę darbo
 žemės ūkyje patirtį.
-     Nuosavybės 
-teisė  atstatoma į visą turėtos žemės plotą, bet
+     Nuosavybės 
+teisė  atstatoma į visą turėtos žemės plotą, bet
 ne  daugiau  kaip į
 80 ha. Gražinamas  buvusio  savininko  turėto
 dydžio arba
@@ -557,16 +529,16 @@ asmeniniam ūkiui, 
 lygiaverčiu plotu  laikomas atitinkamo  dydžio
 žemės ūkio 
 naudmenų,  užstatytos  teritorijos,  kelių  ir  miško
-plotas buvusios  žemės
-valdos vietoje. Kitų žemės naudmenų plotas
+plotas buvusios 
+žemės valdos vietoje. Kitų žemės naudmenų plotas
 perskaičiuojamas
 taikant koeficientą 0,1.
      Pretendentams,
 sudarantiems   vieną šeimą,  grąžinamos žemės
 plotas neturi  būti
 didesnis  kaip 80  ha bendro ploto (įskaitant
-mišką, vandens 
-telkinius ir kitas naudmenas) ir 50 ha žemės ūkio
+mišką, vandens  telkinius
+ir kitas naudmenas) ir 50 ha žemės ūkio
 naudmenų.
      Grąžinamas 
 natūra  buvusios  žemės  valdos  žemės  sklypas
@@ -574,24 +546,24 @@ natūra  buvusios  žemės  valdos  žemės  sklypas
 kurti    gali  būti  padalintas  šio  įstatymo  2
 straipsnyje
 nurodytiems  asmenims jų tarpusavio susitarimu, jeigu
-šie asmenys gyvena kaimo
-vietovėje arba kiekvienam iš jų tenka ne
+šie asmenys gyvena
+kaimo vietovėje arba kiekvienam iš jų tenka ne
 mažiau kaip  3 ha 
 žemės  ūkio  naudmenų.  Kitais  atvejais  žemė
 ūkininko ūkiui 
 kurti grąžinama natūra tik asmenims, sudariusiems
 notariškai
 patvirtintą  susitarimą dėl  sugrąžintos žemės valdymo
-bendrosios nuosavybės
-teise.
+bendrosios
+nuosavybės teise.
     
 Valstybiniuose   draustiniuose    ir   valstybinių    parkų
 draustiniuose,  
 išskyrus    memorialinius,   urbanistinius   bei
 etnokultūrinius,  
 taip    pat   valstybinių   parkų   teritorijų
-rekreacinėse  ir  
-apsaugos  zonose   žemė  grąžinama  natūra  ir
+rekreacinėse  ir   apsaugos 
+zonose   žemė  grąžinama  natūra  ir
 ekvivalentine 
 natūra   tik   šiose   teritorijose   gyvenantiems
 piliečiams, o
@@ -608,16 +580,16 @@ grąžinant
 gyventojams asmeninio ūkio žemę.
      Valstybiniuose
 draustiniuose  ir valstybiniuose parkuose bei
-apsaugos zonose,  išskyrus
-šio  įstatymo 12  straipsnyje nurodytą
+apsaugos zonose, 
+išskyrus šio  įstatymo 12  straipsnyje nurodytą
 valstybės išperkamą
 žemę, šiame straipsnyje nustatyta tvarka žemė
 grąžinama
 piliečiams  sutikus su  specialiosiomis žemės naudojimo
 sąlygomis  ir 
 veiklos  apribojimais,  nustatytais  vadovaujantis
-Saugomų  teritorijų  
-įstatymu,  kitais  įstatymais  ir  Lietuvos
+Saugomų 
+teritorijų   įstatymu,  kitais  įstatymais  ir  Lietuvos
 Respublikos
 Vyriausybės patvirtintais norminiais dokumentais.
     Piliečiams,
@@ -632,8 +604,8 @@ nustatyta tvarka  
 skirtas asmeniniam  ūkiui  arba  jo naudojamas
 (nuomos pagrindu)
 privačių namų valdai kaimo vietovėje. Pretendentui
-mirus   teisę   susigrąžinti 
-ekvivalentine   natūra  jo  naudotą
+mirus   teisę  
+susigrąžinti  ekvivalentine   natūra  jo  naudotą
 asmeniniam ūkiui 
 žemę  įgyja toje  vietovėje gyvenantys  asmenys,
 paveldėję
@@ -677,20 +649,20 @@ pinigais.
  
 Straipsnio
 pakeitimai:
-Nr. 1-2200,
-92.01.14, Žin., 1992, Nr. 3-40
-Nr. 1-2566,
-92.05.07, Žin., 1992, Nr. 15-405
-Nr. 1-229, 93.07.15,
+Nr. I-2200, 92.01.14,
+Žin., 1992, Nr. 3-40
+Nr. I-2566, 92.05.07,
+Žin., 1992, Nr. 15-405
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
  
  
      5 straipsnis.
 Nuosavybės teisės į miestų  žemę
-                   atstatymo
-sąlygos ir tvarka
+                  
+atstatymo sąlygos ir tvarka
  
      Šio  įstatymo 
 2 straipsnyje nurodytiems asmenims nuosavybės
@@ -698,7 +670,7 @@ teisė  į  žemę,  šio
 įstatymo įsigaliojimo dieną buvusią miestams
 nustatyta tvarka
 priskirtose teritorijose, atstatoma šia tvarka:
-     1)  asmenims, 
+     1)  asmenims, 
 norintiems  susigrąžinti  turėtą  žemės  ūkio
 paskirties   žemę  
 ekvivalentine  natūra,  ji  suteikiama  kaimo
@@ -706,24 +678,24 @@ vietovėje  iš 
 laisvos valstybinio žemės fondo žemės šio įstatymo
 4 straipsnyje
 nustatytomis sąlygomis ir tvarka;
-     2)  kitiems 
-asmenims,  suteikiant neatlygintinai nuosavybėn
+     2)  kitiems  asmenims, 
+suteikiant neatlygintinai nuosavybėn
 (išskyrus  Neringos 
 miestą) kiekvienam pretendentui jo naudojamą
 mieste  žemės 
 sklypą,  pagal  tai vietovei parengtus teritorinio
 planavimo  
 dokumentus   nenumatytą   panaudoti  miesto  ūkio  ar
-visuomenės    poreikiams  
-bei   individualiai   statybai,   arba
+visuomenės   
+poreikiams   bei   individualiai   statybai,   arba
 suteikiant  
 neatlygintinai  nuosavybėn  kiekvienam  pretendentui
 naują  žemės 
 sklypą  individualiai statybai bei kitai paskirčiai
 tame   mieste, 
 kuriame  buvo  turėtoji  žemė,  arba  šių  asmenų
-pageidavimu   mieste, 
-kuriame  jie  gyvena  (išskyrus  Vilniaus,
+pageidavimu  
+mieste,  kuriame  jie  gyvena  (išskyrus  Vilniaus,
 Kauno,  Klaipėdos, 
 Šiaulių,  Panevėžio,  Alytaus,  Marijampolės,
 Druskininkų, 
@@ -761,23 +733,23 @@ ne  daugiau  kaip 
 80  ha.  Kai  mieste  ar šiam miestui Lietuvos
 Respublikos    
 Vyriausybės    nustatyta    tvarka    priskirtoje
-teritorijoje    nėra   
-pakankamai    žemės,   galimos   suteikti
+teritorijoje   
+nėra    pakankamai    žemės,   galimos   suteikti
 individualiai 
 statybai  bei  kitai paskirčiai, turėta žemė arba,
 kai  suteikiamos 
 neatlygintinai  žemės  plotas  yra  mažesnis už
 turėtą   žemės 
 plotą,  negrąžinta  žemės  sklypo  dalis  iš  šio
-įstatymo  2 straipsnyje
-nurodytų asmenų išperkama šio įstatymo 16
+įstatymo  2
+straipsnyje nurodytų asmenų išperkama šio įstatymo 16
 straipsnyje 
 nurodytais  išpirkimo  būdais, išskyrus kompensavimą
 pinigais.
      Nuosavybės  
 teisė   į   žemę,   esančią   Vilniaus,  Kauno,
 Klaipėdos,   
-Šiaulių,    Panevėžio,    Alytaus,    Marijampolės,
+Šiaulių,    Panevėžio,    Alytaus,    Marijampolės,
 Druskininkų, 
 Palangos,  Birštono ir Visagino miestų savivaldybių
 teritorijų 
@@ -801,14 +773,14 @@ asmeniniam ūkiui
  
 Straipsnio
 pakeitimai:
-Nr. 1-229, 93.07.15,
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
-Nr. 1-1054,
-95.10.03, Žin., 1995, Nr. 85-1916 (95.10.18)
-Nr. 1-1106,
-95.11.30, Žin., 1995, Nr. 103-2299 95.12.20)
+Nr. I-1054, 95.10.03,
+Žin., 1995, Nr. 85-1916 (95.10.18)
+Nr. I-1106, 95.11.30,
+Žin., 1995, Nr. 103-2299 95.12.20)
  
  
      6 straipsnis.
@@ -865,7 +837,7 @@ nuosavybėn ir
 didesniuose kaip 200 ha miškų masyvuose.
     
 Valstybiniuose   draustiniuose    ir   valstybinių    parkų
-draustiniuose,   išskyrus   
+draustiniuose,   išskyrus   
 memorialinius,   urbanistinius   bei
 etnokultūrinius,
 taip  pat valstybinių  parkų rekreacinėse zonose
@@ -922,9 +894,9 @@ koks jų dydis.
  
 Straipsnio
 pakeitimai:
-Nr. 1-229, 93.07.15,
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
  
  
@@ -958,8 +930,8 @@ būdais (išskyrus kompensavimą pinigais).
  
 Straipsnio
 pakeitimai:
-Nr. 1-906, 95.05.30,
-Žin., 1995, Nr. 50-1226 (95.06.16)
+Nr. I-906, 95.05.30, Žin.,
+1995, Nr. 50-1226 (95.06.16)
  
  
      8 straipsnis.
@@ -995,9 +967,9 @@ paskirtį, numatytą
 patalpų pertvarkymo projektuose arba perdavimo
 dokumentuose;
      4)
-grąžintinuose  namuose, jų  dalyse, butuose  gyvenantiems
+grąžintinuose  namuose, jų  dalyse, butuose  gyvenantiems
 nuomininkams   yra  
-suteiktos   kitos   gyvenamosios   patalpos,
+suteiktos   kitos   gyvenamosios   patalpos,
 atitinkančios 
 Lietuvos   Respublikos   civilinio   kodekso   358
 straipsnio
@@ -1021,8 +993,8 @@ komercinei veiklai 
 - grąžinama  namo dalis,  atitinkanti buvusio
 gyvenamojo namo
 dalį;
-     7) fiziniai  asmenys,
-įsigiję  nuosavybėn grąžintinus namus,
+     7) fiziniai 
+asmenys, įsigiję  nuosavybėn grąžintinus namus,
 jų dalis  ar 
 butus,  sutinka  (sutikimas  išreiškiamas  notarine
 forma)  persikelti  
@@ -1074,8 +1046,8 @@ pastatų,  
 statinių   arba  jų  dalių  perdavimo  tvarką  nustato
 Lietuvos Respublikos
 Vyriausybė;
-     5)   panaikinant 
-piliečio  pinigines  prievoles  valstybei,
+     5)  
+panaikinant  piliečio  pinigines  prievoles  valstybei,
 atsiradusias  po 
 nekilnojamojo  turto  atėmimo iki sprendimo dėl
 nuosavybės   
@@ -1092,16 +1064,16 @@ vertybiniais
 popieriais.
      * Miesto
 (rajono)  savivaldybės meras (valdyba) ar valstybės
-institucija   priima  
-sprendimą  atstatyti  nuosavybės  teisę  į
+institucija  
+priima   sprendimą  atstatyti  nuosavybės  teisę  į
 gyvenamąjį  namą 
 (jo  dalį,  butą)  vienu  iš  šiame straipsnyje
 nurodytų  būdų pagal
 piliečio, kuriam atstatoma nuosavybės teisė,
 rašytinį  prašymą.
 Jeigu pilietis pageidauja atstatyti nuosavybės
-teisę  į  gyvenamąjį 
-namą  (jo  dalį,  butą) natūra, o pagal šio
+teisę  į 
+gyvenamąjį  namą  (jo  dalį,  butą) natūra, o pagal šio
 straipsnio  antrąją 
 dalį šis gyvenamasis namas (jo dalis, butas)
 negali  būti 
@@ -1141,10 +1113,10 @@ natūra.
 atvejais,  kai  gyvenamasis  namas, jo dalis ar butas
 natūra 
 negrąžinami,  miesto meras (valdyba) ar kita institucija,
-priimdama  sprendimą 
-dėl jų išpirkimo, taip pat priima sprendimą
-dėl    šio   namo,  
-buto   teisinės   registracijos   valstybės,
+priimdama 
+sprendimą  dėl jų išpirkimo, taip pat priima sprendimą
+dėl    šio   namo,   buto  
+teisinės   registracijos   valstybės,
 savivaldybės, 
 kooperatinės  ar visuomeninės organizacijos vardu.
 Šis   sprendimas  
@@ -1214,14 +1186,14 @@ ir 29 straipsniams.
  
 Straipsnio
 pakeitimai:
-Nr. 1-2566,
-92.05.07, Žin., 1992, Nr. 15-405
-Nr. 1-44, 93.01.12,
-Žin., 1993, Nr. 5-83
-Nr. 1-986, 95.07.03,
+Nr. I-2566, 92.05.07,
+Žin., 1992, Nr. 15-405
+Nr. I-44, 93.01.12, Žin.,
+1993, Nr. 5-83
+Nr. I-986, 95.07.03,
 Žin., 1995, Nr. 59-1465 (95.07.19)
-Nr. 1-1272,
-96.04.02, Žin., 1996, Nr. 37-929 (96.04.26)
+Nr. I-1272, 96.04.02,
+Žin., 1996, Nr. 37-929 (96.04.26)
  * Lietuvos
 Respublikos Konstitucinis Teismas, Nutarimas
    96.11.12, Žin.,
@@ -1229,7 +1201,8 @@ Respublikos Konstitucinis Teismas, Nutarimas
  
      9 straipsnis.
 Nuosavybės teisę patvirtinantys
-                   dokumentai
+                  
+dokumentai
  
      Nuosavybės
 teisę  patvirtinančiais dokumentais gali būti
@@ -1244,8 +1217,8 @@ nustatyti dokumentai.
  
 Straipsnio
 pakeitimai:
-Nr. 1-2200,
-92.01.14, Žin., 1992, Nr. 3-40
+Nr. I-2200, 92.01.14,
+Žin., 1992, Nr. 3-40
  
      10 straipsnis.
 Prašymų dėl turto sugrąžinimo pateikimo
@@ -1287,8 +1260,8 @@ dienos.
 praleidę šį terminą, netenka teisės į nuosavybės
 teisių atstatymą
 pagal šį įstatymą, išskyrus asmenis, neturinčius
-Lietuvos 
-Respublikoje   nuolatinės   gyvenamosios   vietos   dėl
+Lietuvos  Respublikoje  
+nuolatinės   gyvenamosios   vietos   dėl
 ištrėmimo ar
 įkalinimo už pasipriešinimą okupaciniams režimams.
      Kartu  su 
@@ -1363,22 +1336,22 @@ straipsnio antrajai daliai.
  
 Straipsnio
 pakeitimai:
-Nr. 1-2305,
-92.02.11, Žin., 1992, Nr. 7-155
-Nr. 1-2417,
-92.03.24, Žin., 1992, Nr. 11-278
-Nr. 1-2566,
-92.05.07, Žin., 1992, Nr. 15-405
-Nr. 1-229, 93.07.15,
+Nr. I-2305, 92.02.11,
+Žin., 1992, Nr. 7-155
+Nr. I-2417, 92.03.24,
+Žin., 1992, Nr. 11-278
+Nr. I-2566, 92.05.07,
+Žin., 1992, Nr. 15-405
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-Nr. 1-388, 94.02.15,
+Nr. I-388, 94.02.15,
 Žin., 1994, Nr. 14-229 (94.02.23)
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
-Nr. 1-986, 95.07.03,
+Nr. I-986, 95.07.03,
 Žin., 1995, Nr. 59-1465 (95.07.19)
-Nr. 1-1054,
-95.10.03, Žin., 1995, Nr. 85-1916 (95.10.18)
+Nr. I-1054, 95.10.03,
+Žin., 1995, Nr. 85-1916 (95.10.18)
 * Lietuvos
 Respublikos Konstitucinis Teismas, Nutarimas
   Nr. , 95.10.26,
@@ -1388,8 +1361,8 @@ Respublikos Konstitucinis Teismas, Nutarimas
      11 straipsnis.
 Prašymų turinys
  
-     Prašyme dėl 
-išlikusio nekilnojamojo   turto  sugrąžinimo ar
+     Prašyme dėl  išlikusio
+nekilnojamojo   turto  sugrąžinimo ar
 kompensacijos   už  
 jį  sumokėjimo   nurodoma:  piliečio vardas,
 pavardė, gyvenamoji 
@@ -1405,8 +1378,8 @@ teisę į   šio 
 turto  sugrąžinimą  pagal  šį įstatymą,  taip  pat
 pageidaujamas
 nekilnojamojo turto išpirkimo būdas
-     Mirus
-piliečiui,  padavusiam nustatytu  laiku  prašymą  dėl
+     Mirus piliečiui, 
+padavusiam nustatytu  laiku  prašymą  dėl
 nuosavybės teisės 
 atstatymo, nuosavybės  teisės  atstatymo  būdą
 pasirenka jo  teisių
@@ -1414,9 +1387,8 @@ perėmėjai,  išskyrus tuos atvejus, kai miręs
 pretendentas
 pageidavo, kad turtas būtų išpirktas pinigais.
  
-Straipsnio
-pakeitimai:
-Nr. 1-986, 95.07.03,
+Straipsnio pakeitimai:
+Nr. I-986, 95.07.03,
 Žin., 1995, Nr. 59-1465 (95.07.19)
  
  
@@ -1437,9 +1409,9 @@ nurodytųjų  asmenų išperkama, taikant šio įstatymo
 16 straipsnyje
 numatytus išpirkimo būdus, jeigu:
      1)  užimta 
-kelių,  aerodromų,  karinių  dalinių,  taip  pat
-reikalinga valstybinės
-sienos apsaugai.
+kelių,  aerodromų,  karinių  dalinių,  taip  pat
+reikalinga
+valstybinės sienos apsaugai.
      Požeminių 
 ryšių  kabelių bei vamzdynų užimta žemė gali būti
 grąžinama  ribotam 
@@ -1463,16 +1435,16 @@ suformuotos  pagal  pramoninių  sodų  įveisimo
 projektus;
      3)  pagal 
 galiojusius  įstatymus  suteikta valstiečio ūkiui
-steigti   bei  
-asmenims,   statantiems   ūkininko   sodybas   ir
+steigti   bei   asmenims,  
+statantiems   ūkininko   sodybas   ir
 gyvenamuosius 
 namus;  žemės sklypai, kuriuos užima privačių namų
 valdos  (sodybos) 
 ir  kiti  fiziniams  bei  juridiniams asmenims
 nuosavybės  teise 
 priklausantys  pastatai kaimo vietovėje; žemė,
-suteikta  
-gyventojų  asmeniniam  ūkiui  arba  tarnybinėms  žemės
+suteikta   gyventojų 
+asmeniniam  ūkiui  arba  tarnybinėms  žemės
 daloms,  išskyrus
 asmeninio ūkio žemės sklypus, esančius iki 3 ha
 žemės  ūkio 
@@ -1487,7 +1459,7 @@ priskirtose teritorijose, taip pat žemė, pagal
 Lietuvos 
 Respublikos  Vyriausybės  sprendimus  priskirta  miesto
 gyventojų  
-rekreaciniams   poreikiams.   Žemė,   kuri   Lietuvos
+rekreaciniams   poreikiams.   Žemė,   kuri   Lietuvos
 Respublikos 
 Vyriausybės nustatyta tvarka buvo priskirta miestams
 iki  1995  m. 
@@ -1577,15 +1549,15 @@ gamybinių žemės ūkio įmonių pastatų, be kurių
 neįmanomas  
 technologinio  komplekto  funkcionavimas,  ir  jiems
 eksploatuoti 
-reikalingi  žemės  ūkio naudmenų plotai pagal Žemės
+reikalingi  žemės  ūkio naudmenų plotai pagal Žemės
 ūkio ministerijos
 patvirtintus normatyvus.
      Buvusių 
 sėklininkystės ūkių bei veislynų gamybinių pastatų,
 kuriuos   įsigis  
 nuosavybėn  specializuotos  sėklininkystės  ir
-veislininkystės 
-žemės  ūkio  įmonės,  eksploatavimui reikalingas
+veislininkystės  žemės 
+ūkio  įmonės,  eksploatavimui reikalingas
 plotas  
 nustatomas   atsižvelgiant   į   juose  laikomų  gyvulių
 aprūpinimą  visų 
@@ -1593,15 +1565,15 @@ rūšių  pašarais  ir  žemės  poreikį  labai gerų
 reprodukcijų 
 veislinei sėklai bei kitai prekinei augalininkystės
 produkcijai  
-išauginti.   Kitų   žemės   ūkio   įmonių   pastatų
+išauginti.   Kitų   žemės   ūkio   įmonių   pastatų
 eksploatavimui 
 reikalingas žemės plotas nustatomas atsižvelgiant
 į  juose  laikomų 
 gyvulių  aprūpinimą  žoliniais  pašarais pagal
 Žemės ūkio
 ministerijos patvirtintus normatyvus.
-     Šio  punkto 
-pirmojoje  ir  antrojoje  dalyse nurodyti žemės
+     Šio  punkto  pirmojoje 
+ir  antrojoje  dalyse nurodyti žemės
 plotai,  išskyrus
 gamybinių pastatų užimamą teritoriją, grąžinami
 nuosavybėn  natūra 
@@ -1609,7 +1581,7 @@ asmenims, sudarantiems su žemės ūkio įmonėmis
 ar  kitais 
 gamybinių  pastatų savininkais privačios žemės nuomos
 sutartis   iki  šių 
-žemės  ūkio  įmonių  ar  kitų  ūkių  veiklos
+žemės  ūkio  įmonių  ar  kitų  ūkių  veiklos
 nutraukimo.  Žemės 
 ūkio  įmonei  ar  kitam  ūkiui nutraukus savo
 veiklą,   pirmumo 
@@ -1633,7 +1605,8 @@ veiklos nutraukimo.
 savininkai,  išnuomoję  žemę žemės ūkio įmonėms, gali
 naudotis 
 kreditoriaus teisėmis, numatytomis Lietuvos Respublikos
-įmonių bankroto įstatyme.
+įmonių bankroto
+įstatyme.
      Jeigu  žemės 
 ūkio gamybinius pastatus įsigyja vienas asmuo,
 tai  žemė, 
@@ -1656,8 +1629,8 @@ grąžinami  
 nuosavybėn   natūra,   nekeičiant   žemės   naudojimo
 pobūdžio, 
 asmenims,  kurie  šią  žemę išnuomoja ją naudojančioms
-žemės  ūkio  
-įmonėms  šio   straipsnio  9   punkte   nurodytomis
+žemės  ūkio   įmonėms 
+šio   straipsnio  9   punkte   nurodytomis
 sąlygomis;
      11)  žemė,
 kurioje yra įrengtos drėkinimo sistemos pašarinių
@@ -1666,15 +1639,15 @@ gyvulininkystės   kompleksų   nutekamaisiais
 vandenimis;
      12)  žemė 
 kaimo vietovėje, suteikta individualiai statybai,
-užimta  visuomeninės 
-paskirties  statiniais  ir įrenginiais, bei
+užimta 
+visuomeninės  paskirties  statiniais  ir įrenginiais, bei
 žemė,   kurioje  
 įveisti  parkai  ir  įrengti  tvenkiniai;  kita
 visuomenės
 poreikiams naudojama žemė;
      13)  žemė, 
 paimta į valstybinį žemės fondą valstiečio ūkiui
-steigti,  jeigu ją
+steigti,  jeigu ją
 šiuo metu nuomoja faktiškai ūkininkaujantys ir
 turintys 
 gamybinius  pastatus  asmenys,  negalintys  šios  žemės
@@ -1687,13 +1660,13 @@ Konstitucijos 23 straipsniui.
  
 Straipsnio
 pakeitimai:
-Nr. 1-2566,
-92.05.07, Žin., 1992, Nr. 15-405
-Nr. 1-229, 93.07.15,
+Nr. I-2566, 92.05.07,
+Žin., 1992, Nr. 15-405
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
 * Konstitucinio
 teismo Nutarimas, Nr.12/93, 1994 05 27, Žin., 1994, r.42-771
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
  
  
@@ -1737,11 +1710,11 @@ ir 6 straipsnius.
  
 Straipsnio
 pakeitimai:
-Nr. 1-2566,
-92.05.07, Žin., 1992, Nr. 15-405
-Nr. 1-229, 93.07.15,
+Nr. I-2566, 92.05.07,
+Žin., 1992, Nr. 15-405
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
  
  
@@ -1750,11 +1723,11 @@ Neteko galios.
  
 Straipsnio
 pakeitimai:
-Nr. 1-44, 93.01.12,
+Nr. I-44, 93.01.12,
 Žin., 1993, Nr. 5-83
-Nr. 1-366, 94.01.11,
+Nr. I-366, 94.01.11,
 Žin., 1994, Nr. 7-100 (94.01.26)
-Nr. 1-986, 95.07.03,
+Nr. I-986, 95.07.03,
 Žin., 1995, Nr. 59-1465 (95.07.19)
  
  
@@ -1831,7 +1804,7 @@ statomus butus.
 pasirenka pilietis, išskyrus šio įstatymo 7
 ir 15 straipsniuose
 nurodytus atvejus.
-     Jeigu  asmuo 
+     Jeigu  asmuo 
 neapsisprendė  dėl  kompensavimo  už  žemę ar
 mišką   būdų   iki  
 Vyriausybės   nustatyto   termino,  su  juo
@@ -1856,13 +1829,13 @@ pasirinkti vieną arba kelis kompensavimo būdus.
  
 Straipsnio
 pakeitimai:
-Nr. 1-229, 93.07.15,
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-Nr. 1-366, 94.01.11,
+Nr. I-366, 94.01.11,
 Žin., 1994, Nr. 7-100 (94.01.26)
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
-Nr. 1-986, 95.07.03,
+Nr. I-986, 95.07.03,
 Žin., 1995, Nr. 59-1465 (95.07.19)
  
  
@@ -1897,16 +1870,16 @@ Vyriausybė.
  
 Straipsnio
 pakeitimai:
-Nr. 1-44, 93.01.12,
+Nr. I-44, 93.01.12,
 Žin., 1993, Nr. 5-83
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
  
  
  V. Prašymų dėl
 nuosavybės teisės atstatymo nagrinėjimas. Ginčų
-                      
-nagrinėjimo tvarka
+                     
+ nagrinėjimo tvarka
  
  
      18 straipsnis.
@@ -1932,8 +1905,8 @@ nagrinėja miesto 
 (rajono) savivaldybės   meras  (valdyba)   ar
 valstybės
 institucija.
-valdyba, kurios reguliavimo
-sferai jie
+valdyba, kurios
+reguliavimo sferai jie
 priskirti,   
 vadovaujantis    Lietuvos Respublikos   Vyriausybės
 nustatyta tvarka.
@@ -1941,8 +1914,8 @@ nustatyta tvarka.
 prašymus  dėl ūkinės-komercinės paskirties pastatų,
 namų, priklausančių 
 mokslo, gydymo,  kultūros, švietimo ir ryšių
-įstaigoms, grąžinimo 
-nagrinėja ministerija  ar  tarnyba,  kurios
+įstaigoms,
+grąžinimo  nagrinėja ministerija  ar  tarnyba,  kurios
 reguliavimo sferoje
 yra šie objektai.
      Piliečių
@@ -1959,10 +1932,10 @@ atstatymo, šiame  įstatyme numatytais atvejais
 nustato
 kompensacijos dydį pagal Lietuvos Respublikos Vyriausybės
 įkainius.
-     Piliečiai,
+     Piliečiai,
 pageidaujantys  susigrąžinti žemę ir mišką kaimo
-vietovėje,  savo 
-prašymuose  pareikštą  valią  gali  keisti  iki
+vietovėje,  savo  prašymuose 
+pareikštą  valią  gali  keisti  iki
 apskrities
 valdytojo  sprendimu nustatyto  termino užbaigti šioje
 vietovėje 
@@ -1972,20 +1945,19 @@ darbus.
  
 Straipsnio
 pakeitimai:
-Nr. 1-229, 93.07.15,
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-Nr. 1-366, 94.01.11,
+Nr. I-366, 94.01.11,
 Žin., 1994, Nr. 7-100 (94.01.26)
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
-Nr. 1-986, 95.07.03,
+Nr. I-986, 95.07.03,
 Žin., 1995, Nr. 59-1465 (95.07.19)
  
  
      19
 straipsnis.Sprendimų dėl nuosavybės teisės atstatymo
-                   
-priėmimas
+                    priėmimas
  
      * Šio  
 įstatymo   18  straipsnio  pirmojoje,  antrojoje  ir
@@ -2032,7 +2004,7 @@ Respublikos  Vyriausybės sprendimu piliečių prašymų
 dėl nuosavybės 
 teisės atstatymo  nagrinėjimo terminai  gali būti
 pratęsiami.
-     Sprendimai 
+     Sprendimai 
 dėl   nuosavybės  teisės   atstatymo  į   kaimo
 vietovėje esančią 
 žemę ir  mišką, pagal  šio įstatymo  12 ir  13
@@ -2060,8 +2032,8 @@ sąlygos.
 dėl nuosavybės teisės į žemę ir mišką atstatymo
 gali  būti  
 numatoma  pakeisti   anksčiau  priimtus   sprendimus
-papildant
-sugrąžinamos, suteikiamos neatlygintinai arba valstybės
+papildant sugrąžinamos,
+suteikiamos neatlygintinai arba valstybės
 išperkamos žemės 
 plotą iki  įstatymų  leistų  dydžių,  taip  pat
 patikslinant 
@@ -2085,17 +2057,17 @@ ir 29 straipsniams.
  
 Straipsnio
 pakeitimai:
-Nr. 1-2566,
-92.05.07, Žin., 1992, Nr. 15-405
-Nr. 1-229, 93.07.15,
+Nr. I-2566, 92.05.07,
+Žin., 1992, Nr. 15-405
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-Nr. 1-366, 94.01.11,
+Nr. I-366, 94.01.11,
 Žin., 1994, Nr. 7-100 (94.01.26)
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
-Nr. 1-986, 95.07.03,
+Nr. I-986, 95.07.03,
 Žin., 1995, Nr. 59-1465 (95.07.19)
-Nr. 1-1272, 96.04.02,
+Nr. I-1272, 96.04.02,
 Žin., 1996, Nr. 37-929 (96.04.26)
 * Lietuvos
 Respublikos Konstitucinis Teismas, Nutarimas
@@ -2141,10 +2113,10 @@ būdais.
  
 Straipsnio
 pakeitimai:
-Nr. 1-366, 94.01.11,
+Nr. I-366, 94.01.11,
 Žin., 1994, Nr. 7-100 (94.01.26)
  
-     20 straipsnis.
+     20 straipsnis.
 Sprendimų apskundimo tvarka
  
      Šio įstatymo 
@@ -2168,16 +2140,16 @@ nuo sprendimo įteikimo pretendentui dienos.
  
 Straipsnio
 pakeitimai:
-Nr. 1-366, 94.01.11,
+Nr. I-366, 94.01.11,
 Žin., 1994, Nr. 7-100 (94.01.26)
-Nr. 1-986, 95.07.03,
+Nr. I-986, 95.07.03,
 Žin., 1995, Nr. 59-1465 (95.07.19)
-Nr. 1-1272,
-96.04.02, Žin., 1996, Nr. 37-929 (96.04.26)
+Nr. I-1272, 96.04.02,
+Žin., 1996, Nr. 37-929 (96.04.26)
  
      21 straipsnis.
 Garantijos nuomininkams, gyvenantiems
-                     buvusiems
+                     buvusiems
 savininkams grąžintuose
                     
 gyvenamuosiuose namuose
@@ -2206,8 +2178,8 @@ nuomininkus tol,  
 kol jiems  nesuteiktos ar  jie neįsigijo  kitų
 lygiaverčių
 gyvenamųjų patalpų.
-     Gyvenamąją   patalpą 
-asmeniui,  kuris  gyvena  grąžinamame
+     Gyvenamąją  
+patalpą  asmeniui,  kuris  gyvena  grąžinamame
 savininkui 
 gyvenamajame  name  (jo  dalyje  ar  bute),  suteikia
 atitinkamo  miesto,
@@ -2245,12 +2217,12 @@ yra draudžiami ir užtraukia atsakomybę pagal
  
 Straipsnio
 pakeitimai:
-Nr. 1-44, 93.01.12,
+Nr. I-44, 93.01.12,
 Žin., 1993, Nr. 5-83
-Nr. 1-986, 95.07.03,
+Nr. I-986, 95.07.03,
 Žin., 1995, Nr. 59-1465 (95.07.19)
-Nr. 1-1272,
-96.04.02, Žin., 1996, Nr. 37-929 (96.04.26)
+Nr. I-1272, 96.04.02,
+Žin., 1996, Nr. 37-929 (96.04.26)
  
  
      21-1
@@ -2265,9 +2237,9 @@ likusiems gyventi valstybės išpirktose
 gyvenamosiose patalpose
  
      Nuomininkai,  
-perkelti   iš   savininkams   sugrąžintų   ar
+perkelti   iš   savininkams   sugrąžintų   ar
 grąžintinų 
-gyvenamųjų  patalpų  į  kitas  gyvenamąsias patalpas,
+gyvenamųjų  patalpų  į  kitas  gyvenamąsias patalpas,
 turi   teisę 
 išsipirkti  jas  panaudodami  deponuotas  valstybės
 vienkartines   
@@ -2289,8 +2261,8 @@ organizacijos vardu
  
 Straipsnio
 pakeitimai:
-Nr. 1-1272,
-96.04.02, Žin., 1996, Nr. 37-929 (96.04.26)
+Nr. I-1272, 96.04.02,
+Žin., 1996, Nr. 37-929 (96.04.26)
  
  
                    
@@ -2343,9 +2315,9 @@ nurodytus
 kompensavimo būdus.
  
 Straipsnio pakeitimai:
-Nr. 1-229, 93.07.15,
+Nr. I-229, 93.07.15,
 Žin., 1993, Nr. 32-725 (93.07.28)
-Nr. 1-366, 94.01.11,
+Nr. I-366, 94.01.11,
 Žin., 1994, Nr. 7-100 (94.01.26)
  
  
@@ -2362,9 +2334,9 @@ draudžiama.
  
 Straipsnio
 pakeitimai:
-Nr. 1-482, 94.05.31,
+Nr. I-482, 94.05.31,
 Žin., 1994, Nr. 43-778 (94.06.08)
-Nr. 1-906, 95.05.30,
+Nr. I-906, 95.05.30,
 Žin., 1995, Nr. 50-1226 (95.06.16)
  
  
