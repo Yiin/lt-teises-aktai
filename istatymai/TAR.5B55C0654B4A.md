@@ -46,7 +46,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Be šio įstatymo priede nurodytų įgyvendinamųjų teisės aktų, šis įstatymas Lietuvos Respublikoje taip pat taikomas kartu su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007, su visais pakeitimais, 2005 m. kovo 7 d. Komisijos reglamentu (EB) Nr. 382/2005, nustatančiu Tarybos reglamento (EB) Nr. 1786/2003 dėl bendro sausųjų pašarų rinkos organizavimo taikymo išsamias taisykles, su visais pakeitimais, 2001 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 999/2001, nustatančiu tam tikrų užkrečiamųjų spongiforminių encefalopatijų prevencijos, kontrolės ir likvidavimo taisykles, su visais pakeitimais, 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 528/2012 dėl biocidinių produktų tiekimo rinkai ir jų naudojimo su visais pakeitimais, 2003 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1946/2003 dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo, 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų su visais pakeitimais, 2015 m. gegužės 19 d. Komisijos reglamentu (ES) 2015/786, kuriuo nustatomi Europos Parlamento ir Tarybos direktyvoje 2002/32/EB nustatytų gyvūnų pašarams skirtų produktų detoksikacijos procesų priimtinumo kriterijai.
+3. Be šio įstatymo priede nurodytų įgyvendinamųjų teisės aktų, šis įstatymas Lietuvos Respublikoje taip pat taikomas kartu su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007, su visais pakeitimais, 2001 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 999/2001, nustatančiu tam tikrų užkrečiamųjų spongiforminių encefalopatijų prevencijos, kontrolės ir likvidavimo taisykles, su visais pakeitimais, 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 528/2012 dėl biocidinių produktų tiekimo rinkai ir jų naudojimo su visais pakeitimais, 2003 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1946/2003 dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo, 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų su visais pakeitimais, 2015 m. gegužės 19 d. Komisijos reglamentu (ES) 2015/786, kuriuo nustatomi Europos Parlamento ir Tarybos direktyvoje 2002/32/EB nustatytų gyvūnų pašarams skirtų produktų detoksikacijos procesų priimtinumo kriterijai.
  
 
 
@@ -143,12 +143,12 @@ BENDROSIOS NUOSTATOS
 
 
 
-16. Pašarų ūkio subjekto patvirtinimas – teisės vykdyti veiklą, nurodytą šio įstatymo 5 straipsnio 4 dalyje, suteikimas pašarų ūkio subjektui ir jo įtraukimas į Lietuvos Respublikos pašarų ūkio subjektų registrą.
+16. Pašarų ūkio subjekto patvirtinimas – teisės vykdyti veiklą, nurodytą šio įstatymo 6 straipsnio 1 dalyje, suteikimas pašarų ūkio subjektui ir jo registravimas Pašarų ūkio subjektų registro informacinėje sistemoje.
 
 
 
 
-17. Pašarų ūkio subjekto registravimas – teisės vykdyti kitą negu šio įstatymo 5 straipsnio 4 dalyje nurodytą pašarų tvarkymo veiklą suteikimas pašarų ūkio subjektui ir jo įtraukimas į Pašarų ūkio subjektų registrą. 
+17. Pašarų ūkio subjekto registravimas – teisės vykdyti kitą negu šio įstatymo 6 straipsnio 1 ar 3 dalyse nurodytą pašarų tvarkymo veiklą suteikimas pašarų ūkio subjektui ir jo registravimas Pašarų ūkio subjektų registro informacinėje sistemoje. 
 
 
 
@@ -264,7 +264,7 @@ VALSTYBĖS INSTITUCIJŲ KOMPETENCIJA
 
 
 
-6) pašarų gamybos, tiekimo rinkai ir atsargų statistinės atskaitomybės tvarką ir duomenų pateikimo periodiškumą, suderinusi su Lietuvos statistikos departamentu.
+6) pašarų gamybos, tiekimo rinkai ir atsargų statistinės atskaitomybės tvarką ir duomenų pateikimo periodiškumą, suderinusi su Valstybės duomenų agentūra.
 
 
 
@@ -327,24 +327,21 @@ VALSTYBĖS INSTITUCIJŲ KOMPETENCIJA
 
 
 III SKYRIUS
-PAŠARŲ ŪKIO SUBJEKTŲ REGISTRAS IR PAŠARŲ TVARKYMAS 
+PAŠARŲ ŪKIO SUBJEKTŲ REGISTRAVIMAS IR PAŠARŲ TVARKYMAS 
  
 
 
-5 straipsnis. Pašarų ūkio subjektų registras
+5 straipsnis. Pašarų ūkio subjektų registravimas
 
+1. Pašarų ūkio subjektų registras – Pašarų ūkio subjektų registro informacinėje sistemoje tvarkomas duomenų apie registro objektus – pašarų ūkio subjektus, išskyrus šio įstatymo 6 straipsnio 3 dalyje nurodytus ūkio subjektus, taip pat apie pašarų ūkio subjektų veiklos vietas ir pašarų ūkio subjektų veiklas rinkinys.
 
-1. Lietuvos Respublikos Vyriausybė steigia Pašarų ūkio subjektų registrą, tvirtina jo nuostatus ir paskiria tvarkytojus. Pašarų ūkio subjektų registro valdytoja – Žemės ūkio ministerija.
+2. Pašarų ūkio subjektų registro informacinės sistemos valdytoja ir duomenų, įskaitant asmens duomenis, valdytoja – Žemės ūkio ministerija.
 
+3. Pašarų ūkio subjektai patvirtinami ir (arba) registruojami, jų patvirtinimas ir (arba) registravimas sustabdomas, pakeičiamas arba atšaukiamas Reglamente (EB) Nr. 183/2005 ir žemės ūkio ministro tvirtinamose ūkio subjektų, kurie verčiasi su pašarais susijusia veikla, patvirtinimo taisyklėse arba ūkio subjektų, kurie verčiasi su pašarais susijusia veikla, registravimo taisyklėse nustatyta tvarka.
 
+4. Pašarų ūkio subjektų registro informacinės sistemos duomenys tvarkomi valstybinės pašarų priežiūros tikslais, laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) (toliau – Bendrasis duomenų apsaugos reglamentas) reikalavimų.
 
-
-2. Pašarų ūkio subjektų registro objektas – pašarų ūkio subjektai, išskyrus nurodytus šio įstatymo 6 straipsnio 3 dalyje.
-
-
-
-
-3. Pašarų ūkio subjektai patvirtinami ir (arba) registruojami, jų patvirtinimas ir (arba) registravimas sustabdomas, pakeičiamas arba atšaukiamas Reglamente (EB) Nr. 183/2005 ir Ūkio subjektų, kurie verčiasi su pašarais susijusia veikla, patvirtinimo taisyklėse arba Ūkio subjektų, kurie verčiasi su pašarais susijusia veikla, registravimo taisyklėse nustatyta tvarka.
+5. Pašarų ūkio subjektų registro informacinės sistemos duomenys yra vieši, išskyrus asmens duomenis.
  
 
 
@@ -588,7 +585,7 @@ VALSTYBINĖ PAŠARŲ PRIEŽIŪRA IR ADMINISTRAVIMAS
 
 
 
-5. Tarnyba užtikrina asmenų, kurie pranešė apie šio įstatymo ir kitų pašarų tvarkymą reglamentuojančių teisės aktų pažeidimus, duomenų apsaugą ir garantuoja anonimiškumą, išskyrus atvejus, kai šią informaciją pagal įstatymus būtina atskleisti teisėsaugos ar kitoms valstybės institucijoms. Asmenų, pranešusių apie šio įstatymo ir kitų pašarų tvarkymą reglamentuojančių teisės aktų pažeidimus, asmens duomenys saugomi ir tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir kitų asmens duomenų konfidencialumą ar anonimiškumą reglamentuojančių įstatymų ir kitų teisės aktų nustatyta tvarka.
+5. Tarnyba užtikrina asmenų, kurie pranešė apie šio įstatymo ir kitų pašarų tvarkymą reglamentuojančių teisės aktų pažeidimus, duomenų apsaugą ir garantuoja anonimiškumą, išskyrus atvejus, kai šią informaciją pagal įstatymus būtina atskleisti teisėsaugos ar kitoms valstybės institucijoms. Asmenų, pranešusių apie šio įstatymo ir kitų pašarų tvarkymą reglamentuojančių teisės aktų pažeidimus, asmens duomenys saugomi ir tvarkomi vadovaujantis Bendrojo duomenų apsaugos reglamento ir kitų asmens duomenų konfidencialumą ar anonimiškumą reglamentuojančių įstatymų ir kitų teisės aktų nustatyta tvarka.
 
 
 
