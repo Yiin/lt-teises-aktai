@@ -82,7 +82,7 @@ Nr. VIII-896,
 Nr. IX-619,
 2001-11-27, Žin., 2001, Nr. 104-3702 (2001-12-12)
 Nr. IX-681,
-2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30)
  
             5
 straipsnis. Apskrities viršininko uždaviniai
@@ -107,7 +107,7 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 Nr. IX-619,
 2001-11-27, Žin., 2001, Nr. 104-3702 (2001-12-12)
 Nr. IX-681,
-2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30)
  
             6
 straipsnis. Neteko galios.
@@ -160,8 +160,8 @@ veiklos klausimais
             1.
 Apskrities viršininkas:
             1)
-organizuoja Vyriausybės patvirtintų valstybinių sveikatos strategijų ir sveikatos
-apsaugos reformos įgyvendinimą apskrityje; 
+organizuoja Vyriausybės patvirtintų valstybinių sveikatos strategijų ir
+sveikatos apsaugos reformos įgyvendinimą apskrityje; 
             2)
 analizuoja apskrities savivaldybių gyventojų sveikatos būklę, jos pokyčius,
 juos lemiančius veiksnius ir teikia Vyriausybei ir Sveikatos apsaugos
@@ -191,9 +191,15 @@ Nr. VIII-33,
 Nr. VIII-300,
 97.06.24, Žin., 1997, Nr.62-1466 (97.07.01)
  
+9 straipsnio pavadinimas iki 2005 m. sausio 1 d.:
 9
 straipsnis. Apskrities viršininko įgaliojimai teritorijų planavimo ir
 paminklotvarkos klausimais
+9 straipsnio pavadinimas nuo 2005 m. sausio 1 d.:
+9 straipsnis. Apskrities viršininko įgaliojimai
+teritorijų planavimo, statybos, 
+statinių naudojimo priežiūros ir paminklotvarkos
+klausimais
 Apskrities
 viršininkas:
 1) organizuoja
@@ -224,13 +230,19 @@ kultūros vertybių ir paminklų apsaugą, tvarko jų apskaitą ir organizuoja
 paminklotvarkos priežiūrą;
 9) atlieka apskričiai priskirtų objektų statybos
 užsakovo funkcijas.
+ 
+9 straipsnis papildomas 10 punktu nuo 2005 m. sausio
+1 d.:
+10) atlieka
+ypatingų statinių, taip pat valstybinės reikšmės ir rizikos objektuose esančių
+statinių naudojimo priežiūrą Statybos įstatymo nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 Nr. VIII-456,
 97.10.16, Žin., 1997, Nr.97-2444 (97.10.29)
 Nr. VIII-1991, 2000 10 10, Žin., 2000, Nr.
-89-2752 (2000 10 25), įsigalioja nuo 2001 08 01
+89-2752 (2000 10 25)
 Nr. IX-135, 2000 12 23, Žin., 2000, Nr.
 113-3622 (2000 12 30)
 Nr.
@@ -238,10 +250,12 @@ IX-471,
 2001-07-12, Žin., 2001, Nr. 66-2412 (2001-08-01)
 Nr.
 IX-584,
-2001-11-08, Žin., 2001, Nr. 99-3518 (2001-11-28), įsigalioja nuo 2002-01-01
+2001-11-08, Žin., 2001, Nr. 99-3518 (2001-11-28)
 Nr.
 IX-1511,
 2003-04-17, Žin., 2003, Nr. 42-1915 (2003-05-01)
+Nr. IX-2213,
+2004-04-29, Žin., 2004, Nr. 80-2833 (2004-05-14)
  
 10
 straipsnis. Apskrities viršininko įgaliojimai žemėtvarkos ir žemės ūkio
@@ -284,7 +298,7 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 Nr. IX-619,
 2001-11-27, Žin., 2001, Nr. 104-3702 (2001-12-12)
 Nr. IX-681,
-2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30)
 Nr.
 IX-1511,
 2003-04-17, Žin., 2003, Nr. 42-1915 (2003-05-01)
@@ -321,9 +335,9 @@ viršininkas, neviršydamas savo įgaliojimų:
 nagrinėja fizinių bei juridinių asmenų pareiškimus bei prašymus ir priima dėl
 jų sprendimus. Viršininko sprendimai gali būti apskųsti įstatymų nustatyta
 tvarka;
-2) analizuoja apskrities
-socialinę, ekonominę ir ekologinę būklę bei jos pokyčius ir apie tai praneša
-gyventojams;
+2) analizuoja
+apskrities socialinę, ekonominę ir ekologinę būklę bei jos pokyčius ir apie tai
+praneša gyventojams;
 3) registruoja
 visuomeninių organizacijų, kurių veikla apima daugiau kaip vienos savivaldybės
 teritoriją ir kurių buveinės yra apskrities centre ar kitoje apskrities
@@ -335,9 +349,9 @@ teritorijoje;
 6) organizuoja
 stichinių nelaimių, avarijų padarinių likvidavimą, paieškos ir gelbėjimo
 darbus;
-7) steigia,
-reorganizuoja, likviduoja valstybės įmones, valdo apskričių viršininkams
-perduotų įmonių valstybei priklausančias akcijas;
+7) steigia, reorganizuoja,
+likviduoja valstybės įmones, valdo apskričių viršininkams perduotų įmonių
+valstybei priklausančias akcijas;
 8) Vyriausybės
 įgaliotos institucijos nustatyta tvarka atstovauja valstybei akcinėse
 bendrovėse ar uždarosiose akcinėse bendrovėse, kuriose valstybei priklausančių
@@ -346,8 +360,6 @@ akcijų valdytojas yra Valstybės turto fondas ar kita valstybės institucija;
 komisijos narių kandidatūras, tarp jų - ir pirmininko kandidatūrą;
 10) Regioninės
 plėtros įstatymo nustatyta tvarka vykdo regionų plėtros institucijos funkcijas;
- 
-1 dalis papildoma 11 punktu nuo 2003 m. liepos 1 d.:
 11) kartu su
 savivaldybėmis organizuoja apskrities informacinės visuomenės plėtros
 programos, kurią tvirtina regiono plėtros taryba, rengimą ir koordinuoja jos
@@ -369,10 +381,10 @@ Nr. VIII-1093,
 Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 92-2886 (2000 10 31)
 Nr. IX-681,
-2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30), įsigalioja nuo 2002-04-01
+2001-12-21, Žin., 2001, Nr. 112-4088 (2001-12-30)
 Nr.
 IX-1413,
-2003-04-01, Žin., 2003, Nr. 38-1659 (2003-04-24), įsigalioja nuo 2003-07-01
+2003-04-01, Žin., 2003, Nr. 38-1659 (2003-04-24)
  
             13
 straipsnis. Apskrities viršininko teisės
@@ -413,7 +425,8 @@ kitus renginius;
 11) pagal savo kompetenciją nustatyta tvarka palaikyti
 ryšius su atitinkamomis užsienio valstybių regionų institucijomis ir
 tarptautinėmis organizacijomis.
-Straipsnio žymėjimas pakeistas:
+Straipsnio žymėjimas
+pakeistas:
 Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 Straipsnio pakeitimai:
@@ -494,8 +507,7 @@ Nr. IX-619,
 Apskrities viršininkas inicijuoja regiono plėtros
 tarybos sudarymą. Regiono plėtros tarybos sudarymo tvarką bei funkcijas nustato
 Regioninės plėtros įstatymas.
-Straipsnio žymėjimas
-pakeistas:
+Straipsnio žymėjimas pakeistas:
 Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 Straipsnio pakeitimai:
@@ -600,14 +612,15 @@ Nr. VIII-896,
  
  
 RESPUBLIKOS
-PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS 
+PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS 
  
 _________
  
 Pakeitimai:
  
 1.
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. I-1280, 96.04.04, Žin., 1996, Nr. 35-876 (96.04.19)
 LIETUVOS RESPUBLIKOS APSKRITIES
 VALDYMO ĮSTATYMO 11 STRAIPSNIO PAPILDYMO ĮSTATYMAS
@@ -777,12 +790,23 @@ Nr. IX-1511,
 APSKRITIES
 VALDYMO ĮSTATYMO 7, 9 IR 10 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+19.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2213,
+2004-04-29, Žin., 2004, Nr. 80-2833 (2004-05-14)
+APSKRITIES
+VALDYMO ĮSTATYMO 9 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-06)
+Aušrinė Trapinskienė (2004-05-14)
                  
 autrap@lrs.lt
 
