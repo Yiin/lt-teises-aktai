@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 2001-07-01 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2004-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
  
 Nauja redakcija nuo 2001-07-01:
 Nr. IX-330, 2001-05-17, Žin. 2001, Nr. 45-1574 (2001-05-30), i. k. 1011010ISTA00IX-330
  
-LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO BENDROVIŲ  Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO BENDROVIŲ  ĮSTATYMAS
  
 
 
@@ -550,7 +550,7 @@ PELNAS IR DIVIDENDAI
  
 
 
-16 straipsnis.       Bendrovės pelno paskirstymas ir atsargos (rezervinio) kapitalo fondo sudarymas
+16 straipsnis. Bendrovės pelno paskirstymas ir atsargos (rezervinio) kapitalo fondo sudarymas
 
 
 1. Bendrovės pelnas turi būti paskirstytas ne vėliau kaip per 4 mėnesius pasibaigus ūkiniams metams. Bendrovės narių susirinkimo nutarime dėl pelno paskirstymo turi būti nurodyta:
@@ -660,7 +660,10 @@ BENDROVĖS NARIŲ IR PAJININKŲ TEISĖS IR PAREIGOS
 2. Bendrovės narys turi teisę:
 
 
-1) pardavimo, dovanojimo ir kitais būdais perleisti savo pajų bendrovei, kitam bendrovės nariui, pajininkui, bet kuriam kitam fiziniam asmeniui šio įstatymo ir bendrovės įstatų nustatyta tvarka. Šiuos sandorius teisiškai įregistruoja savivaldybės seniūnijos seniūnas. Rinkliava už tokių sandorių registravimą – 0,1 procento perleidžiamo pajaus vertės;
+1) savo pajų pardavimo, dovanojimo ar kitu būdu perleisti bendrovei, kitam bendrovės nariui, pajininkui, bet kuriam kitam fiziniam ar juridiniam asmeniui šio įstatymo ir bendrovės įstatų nustatyta tvarka. Pajų perleidimo sandoriai sudaromi paprasta rašytine forma;
+Straipsnio punkto pakeitimai:
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
+ 
 
 
 
@@ -751,7 +754,9 @@ Pajininkas turi teisę:
 
 
 
-2) pardavimo, dovanojimo ir kitais būdais savo pajų gali perleisti bendrovei, bendrovės nariui, pajininkui, bet kuriam kitam fiziniam asmeniui šio įstatymo ir bendrovės įstatų nustatyta tvarka.
+2) savo pajų pardavimo, dovanojimo ar kitu būdu perleisti bendrovei, bendrovės nariui, pajininkui, bet kuriam kitam fiziniam  ar juridiniam asmeniui šio įstatymo ir bendrovės įstatų nustatyta tvarka. Pajų perleidimo sandoriai sudaromi paprasta rašytine forma.
+Straipsnio punkto pakeitimai:
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
  
 
 
@@ -1170,37 +1175,10 @@ BENDROVĖS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 30 straipsnis. Bendrovės likvidavimas 
 
 
-1. Bendrovė likviduojama:
-
-
-1) pasibaigus įstatuose numatytam veiklos terminui;
-
-
-
-
-2) narių susirinkimo nutarimu;
-
-
-
-
-3) likus mažiau narių negu nustatyta įstatymo, jeigu narių susirinkimas per 6 mėnesius po tokio sumažėjimo nenutaria bendrovės reorganizuoti ar pertvarkyti;
-
-
-
-
-4) juridinių asmenų registro tvarkytojo iniciatyva;
-
-
-
-
-5) teismui pripažinus, kad bendrovės veikla yra netinkama;
-
-
-
-
-6) teismui pripažinus, kad bendrovė įsteigta neteisėtai. 
-
-
+1. Bendrovė gali būti likviduojama Lietuvos Respublikos civilinio kodekso 2.106 straipsnyje nustatytais pagrindais.
+Straipsnio dalies pakeitimai:
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
+ 
 
 
 
@@ -1389,13 +1367,10 @@ BENDROVĖS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 
 
 
-32 straipsnis. Bendrovės likvidavimo kontrolė
-
-
-Bendrovės likvidavimo eigą kontroliuoja apskrities viršininkas. 
+32 straipsnis. Neteko galios nuo 2003-05-01. 
+Straipsnio pakeitimai:
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
  
-
-
 
 
 
@@ -1403,7 +1378,10 @@ Bendrovės likvidavimo eigą kontroliuoja apskrities viršininkas.
 33 straipsnis. Likvidacinės komisijos narių darbo apmokėjimo tvarka ir atsakomybė
 
 
-1. Likvidacinės komisijos narių darbas apmokamas iš lėšų, gautų už parduotą bendrovės turtą. Valstybės valdymo organams priėmus sprendimą likviduoti bendrovę, turto dalį, skiriamą likvidatorių darbui apmokėti, nustato organas, priėmęs sprendimą bendrovę likviduoti Vyriausybės nustatyta tvarka.
+1. Likvidacinės komisijos narių darbas apmokamas iš bendrovės lėšų. Atlyginimo dydį nustato bendrovės narių ar kreditorių susirinkimas arba teismas, priėmę sprendimą likviduoti bendrovę.
+Straipsnio dalies pakeitimai:
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
+ 
 
 
 
@@ -1520,3 +1498,8 @@ Lietuvos Respublikos žemės ūkio bendrovių įstatymo 27 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-330, 2001-05-17, Žin., 2001, Nr. 45-1574 (2001-05-30), i. k. 1011010ISTA00IX-330
 Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 18, 19, 30, 33 straipsnių pakeitimo ir 32 straipsnio pripažinimo netekusiu galios įstatymas
