@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 Redagavo:
-Ramunė Lūžaitė (1998.05.07)
+Ramunė Lūžaitė (1998.07.22)
  
 Įstatymas
 paskelbtas: Žin., 1994, Nr.43-772
@@ -84,6 +84,14 @@ VYRIAUSYBĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
 įstatymo redakcija
  
+7.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-818,
+98.06.30, Žin., 1998, Nr.65-1871 (98.07.22)
+LIETUVOS RESPUBLIKOS
+VYRIAUSYBĖS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***Pabaiga***
  
 LIETUVOS RESPUBLIKOS
@@ -121,7 +129,12 @@ pagrindai
 Vyriausybė savo veikloje vadovaujasi Lietuvos
 Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis
 sutartimis, kitais Seimo priimtais teisės aktais, Vyriausybės programa,
-Respublikos Prezidento dekretais ir šiuo įstatymu.
+Respublikos Prezidento dekretais, šiuo įstatymu ir kitais teisės aktais.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-818,
+98.06.30, Žin., 1998, Nr.65-1871 (98.07.22)
  
 4 straipsnis. Svarbiausieji Vyriausybės
 veiklos principai
@@ -155,9 +168,9 @@ ir atleidžia Respublikos Prezidentas.
 Prezidento patvirtintą Vyriausybę ir pateikia svarstyti jos programą. Jeigu
 Seimas motyvuotu nutarimu nepritaria šiai programai, Ministras Pirmininkas ne
 vėliau kaip per 15 dienų nuo nepritarimo dienos pateikia svarstyti naują
-programą. Ministerijos ir kitos valstybės institucijos privalo paskirtiems ministrams
-teikti medžiagą, reikalingą Vyriausybės programai parengti, bei prisidėti prie
-programos rengimo.
+programą. Ministerijos ir kitos valstybės institucijos privalo paskirtiems
+ministrams teikti medžiagą, reikalingą Vyriausybės programai parengti, bei
+prisidėti prie programos rengimo.
 3. Vyriausybė gauna įgaliojimus veikti, kai
 Seimas posėdyje dalyvaujančių narių balsų dauguma pritaria jos programai.
 4. Kai Seimas pritaria Vyriausybės programai,
@@ -167,8 +180,8 @@ Vyriausybė privalo per 3 mėnesius parengti ir patvirtinti konkrečias priemone
 7 straipsnis. Ministro Pirmininko ir ministrų
 prisaikdinimas
  
-1. Pradėdami eiti savo pareigas, Ministras
-Pirmininkas ir ministrai prisiekia. Nustatomas toks jų priesaikos tekstas:
+1. Pradėdami eiti savo pareigas, Ministras Pirmininkas
+ir ministrai prisiekia. Nustatomas toks jų priesaikos tekstas:
 “Aš (vardas, pavardė)
 prisiekiu būti ištikimas Lietuvos
 Respublikai,
@@ -212,13 +225,13 @@ Respublikos Prezidentą.
 įgaliojimus Respublikos Prezidentui tą dieną, kai naujasis Seimas susirenka į
 pirmąjį posėdį. 
 3. Išrinkus Respublikos Prezidentą,
-Vyriausybė įgaliojimus grąžina Respublikos Prezidentui tą dieną, kai šis pradeda
-eiti pareigas.
+Vyriausybė įgaliojimus grąžina Respublikos Prezidentui tą dieną, kai šis
+pradeda eiti pareigas.
 4. Kai pasikeičia daugiau nei pusė ministrų,
 Vyriausybė turi iš naujo gauti Seimo įgaliojimus. 
 5. Vyriausybės įgaliojimai laikomi
-grąžintais, kai Ministras Pirmininkas ar Vyriausybės narys, pavaduojantis
-Ministrą Pirmininką, įteikia Respublikos Prezidentui raštišką pareiškimą.
+grąžintais, kai Ministras Pirmininkas ar Vyriausybės narys, pavaduojantis Ministrą
+Pirmininką, įteikia Respublikos Prezidentui raštišką pareiškimą.
 6. Respublikos Prezidentas priima Vyriausybės
 grąžinamus įgaliojimus ir paveda jai eiti pareigas, kol Vyriausybė iš naujo
 gaus Seimo įgaliojimus arba kol bus sudaryta nauja Vyriausybė. Jeigu Vyriausybė
@@ -232,15 +245,14 @@ teikia Seimui svarstyti įgaliojimus grąžinusios Vyriausybės Ministro Pirmini
 kandidatūrą. Kai Seimas pritaria Ministro Pirmininko kandidatūrai ir
 Respublikos Prezidentas paskiria Ministrą Pirmininką, jei Ministro Pirmininko
 pateiktoje ir Respublikos Prezidento patvirtintoje Vyriausybėje nepasikeitė
-daugiau nei pusė iki įgaliojimų grąžinimo dirbusių ministrų, Vyriausybė iš
-naujo gauna įgaliojimus veikti pagal Seimo anksčiau patvirtintą programą. Jeigu
+daugiau nei pusė iki įgaliojimų grąžinimo dirbusių ministrų, Vyriausybė iš naujo
+gauna įgaliojimus veikti pagal Seimo anksčiau patvirtintą programą. Jeigu
 Seimas nepritaria Ministro Pirmininko kandidatūrai, Vyriausybė privalo
 atsistatydinti.
  
 9 straipsnis. Vyriausybės atsistatydinimas
  
-1. Vyriausybė privalo atsistatydinti šiais
-atvejais:
+1. Vyriausybė privalo atsistatydinti šiais atvejais:
 1) kai Seimas du kartus iš eilės nepritaria
 naujos Vyriausybės programai;
 2) kai Seimas visų Seimo narių balsų dauguma
@@ -326,9 +338,9 @@ būti patraukti baudžiamojon atsakomybėn ar suimti, taip pat negali būti kita
 suvaržyta jų laisvė be išankstinio Seimo sutikimo, o tarp Seimo sesijų - be
 išankstinio Respublikos Prezidento sutikimo.
  
-13 straipsnis. Vyriausybės
-narių, Ministro Pirmininko ir ministrų skiriamų politinių pareigūnų darbo
-sąlygos bei socialinės garantijos
+13 straipsnis. Vyriausybės narių,
+Ministro Pirmininko ir ministrų skiriamų politinių pareigūnų darbo sąlygos bei
+socialinės garantijos
  
 1. Vyriausybės narių ir politinių pareigūnų
 atlyginimo už darbą dydį nustato valstybės politikų darbo užmokesčio įstatymas.
@@ -397,8 +409,8 @@ pareigas), negali dirbti verslo, komercijos ar kitose privačiose įstaigose ar
 pareigas Vyriausybėje ar politinio pareigūno atlyginimą bei užmokestį už
 kūrybinę veiklą. Atlyginimu už kūrybinę veiklą laikomas autorinis honoraras už
 paskaitas, meno kūrinius bei jų atlikimą, už publikacijas bei knygas, už
-dalyvavimą radijo bei televizijos laidose bei šių laidų įrašus, taip pat atlygis
-už pedagoginį darbą valstybinėse mokslo įstaigose.
+dalyvavimą radijo bei televizijos laidose bei šių laidų įrašus, taip pat
+atlygis už pedagoginį darbą valstybinėse mokslo įstaigose.
  
  
 Penktasis skirsnis
@@ -407,7 +419,7 @@ SU SEIMU IR RESPUBLIKOS PREZIDENTU
  
 15 straipsnis. Vyriausybės teisė teikti
 siūlymą dėl pirmalaikių Seimo    
-               rinkimų
+               rinkimų
  
 Vyriausybė turi teisę teikti siūlymą
 Respublikos Prezidentui paskelbti pirmalaikius Seimo rinkimus, jeigu Seimas
@@ -488,9 +500,9 @@ valstybės saugumą ir viešąją tvarką;
 Prezidento dekretus, įgyvendina Seimo pavirtintą Vyriausybės programą;
 3) koordinuoja ministerijų ir Vyriausybės
 įstaigų veiklą;
-4) rengia valstybės biudžeto projektą ir
-teikia jį Seimui; vykdo valstybės biudžetą, teikia Seimui valstybės biudžeto
-įvykdymo apyskaitą;
+4) rengia valstybės biudžeto projektą ir teikia
+jį Seimui; vykdo valstybės biudžetą, teikia Seimui valstybės biudžeto įvykdymo
+apyskaitą;
 5) remdamasi įstatymais disponuoja
 valstybiniu turtu, nustato jo valdymo ir naudojimo tvarką;
 6) rengia ir teikia Seimui svarstyti įstatymų
@@ -501,11 +513,11 @@ steigimo ir panaikinimo;
 bei įstaigas prie ministerijų;
 9) tvirtina ministerijų, Vyriausybės įstaigų
 ir įstaigų prie ministerijų nuostatus;
-10) kartu su Respublikos Prezidentu vykdo užsienio
-politiką; užmezga diplomatinius santykius ir palaiko ryšius su užsienio
-valstybėmis bei tarptautinėmis organizacijomis; atsižvelgdama į Seimo Užsienio
-reikalų komiteto rekomendacijas, teikia Respublikos Prezidentui siūlymus dėl
-Lietuvos Respublikos diplomatinių atstovų užsienio valstybėse ir prie
+10) kartu su Respublikos Prezidentu vykdo
+užsienio politiką; užmezga diplomatinius santykius ir palaiko ryšius su
+užsienio valstybėmis bei tarptautinėmis organizacijomis; atsižvelgdama į Seimo
+Užsienio reikalų komiteto rekomendacijas, teikia Respublikos Prezidentui siūlymus
+dėl Lietuvos Respublikos diplomatinių atstovų užsienio valstybėse ir prie
 tarptautinių organizacijų skyrimo bei atšaukimo;
 11) įstatymo nustatyta tvarka organizuoja
 valdymą aukštesniuosiuose administraciniuose vienetuose;
@@ -565,8 +577,8 @@ garantijos;
 6) Vyriausybės sekretoriaus teikimu skiria ir
 atleidžia iš pareigų Vyriausybės įstaigų - inspekcijų, tarnybų ir kitų įstaigų
 vadovus;
-7) skiria Vyriausybės įstaigų vadovams ir
-kitiems Ministro Pirmininko skiriamiems valstybės tarnautojams bei pareigūnams
+7) skiria Vyriausybės įstaigų vadovams ir kitiems
+Ministro Pirmininko skiriamiems valstybės tarnautojams bei pareigūnams
 drausmines nuobaudas;
 8) skatina apskričių viršininkus, Vyriausybės
 atstovus, taip pat Vyriausybės įstaigų vadovus ir kitus Ministro Pirmininko
@@ -576,9 +588,9 @@ numatytais atvejais teikia Respublikos Prezidentui siūlymus pavesti vienam iš
 ministrų pavaduoti Ministrą Pirmininką;
 10) teikia Seimui svarstyti Vyriausybės
 programą;
-11) įstatymų ar Vyriausybės nutarimų
-numatytais atvejais ministrų teikimu skiria departamentų ir kitų įstaigų prie
-ministerijų vadovus;
+11) įstatymų ar Vyriausybės nutarimų numatytais
+atvejais ministrų teikimu skiria departamentų ir kitų įstaigų prie ministerijų
+vadovus;
 12) teikia Vyriausybei siūlymus dėl apskričių
 viršininkų skyrimo ir atleidimo iš pareigų, apskričių viršininkų teikimu skiria
 ir atleidžia iš pareigų apskričių viršininkų pavaduotojus;
@@ -737,8 +749,8 @@ sąskaitą banke ir antspaudą su valstybės herbu bei savo pavadinimu.
 6. Ministerija savo veiklą grindžia Lietuvos
 Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis
 sutartimis, Vyriausybės nutarimais, kitais teisės aktais.
-7. Ministerija yra biudžetinė įstaiga,
-finansuojama iš valstybės biudžeto.
+7. Ministerija yra biudžetinė įstaiga, finansuojama
+iš valstybės biudžeto.
 8. Ministerijos nuostatus tvirtina
 Vyriausybė.
 9. Ministerija turi savo administraciją. Jai
@@ -829,8 +841,8 @@ Departamentų vadovų (politinių pareigūnų) veiklą koordinuoja Vyriausybės
 kancleris, o tarnybų ir inspekcijų vadovų (karjeros pareigūnų) - Vyriausybės
 sekretorius. Vyriausybės nutarimu Vyriausybės įstaiga gali būti pavaldi
 ministrui.
-4. Vyriausybės įstaigos vadovas sprendžia įstaigos
-kompetencijai priskirtus klausimus, taip pat vykdo kitas įstatymų ir
+4. Vyriausybės įstaigos vadovas sprendžia
+įstaigos kompetencijai priskirtus klausimus, taip pat vykdo kitas įstatymų ir
 Vyriausybės nutarimų nustatytas funkcijas. Vyriausybės įstaigos vadovas yra
 asmeniškai atsakingas, kad įstaiga spręstų jai pavestus uždavinius.
 5. Vyriausybės įstaigos vadovas gali turėti
@@ -859,9 +871,9 @@ teisės normos, įsigalioja įstatymų nustatyta tvarka.
 35 straipsnis. Apskričių
 valdymo organizavimas ir savivaldybių       veiklos administracinė priežiūra
  
-1. Vyriausybė valdymą apskrityje - Lietuvos Respublikos
-teritorijos aukštesniajame administraciniame vienete - organizuoja per
-apskrities viršininką, ministerijas bei Vyriausybės įstaigas.
+1. Vyriausybė valdymą apskrityje - Lietuvos
+Respublikos teritorijos aukštesniajame administraciniame vienete - organizuoja
+per apskrities viršininką, ministerijas bei Vyriausybės įstaigas.
 2. Vyriausybės teikimu Seimas nustato ir
 keičia apskrities ribas bei centrą, suteikia ir keičia apskrities pavadinimą.
 3. Ar savivaldybės laikosi Lietuvos
