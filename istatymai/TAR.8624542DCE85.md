@@ -18,7 +18,7 @@ Redagavo: Ramun? L??ait? (1997
 Redagavo:
 Ramunė Lūžaitė (1997.05.14)
  
- Įstatymas
+Įstatymas
 paskelbtas: Žin., 1990, Nr.29-692
  
 Neoficialus
@@ -46,6 +46,15 @@ PAKEITIMO
 Šis
 įstatymas įsigalioja nuo 1995 m. sausio 1 dienos.
  
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. I-787, 95.02.02,
+Žin., 1995, Nr.18-402 (95.03.01)
+DĖL
+LIETUVOS RESPUBLIKOS POLITINIŲ PARTIJŲ IR POLITINIŲ ORGANIZACIJŲ ĮSTATYMO
+PAPILDYMO 
+ 
 ***
 Pabaiga ***
  
@@ -68,8 +77,8 @@ ir politinę valią.
      Lietuvos 
 Respublikos Seimas,  siekdamas garantuoti politinių partijų ir politinių
 organizacijų lygiateisiškumą ir užtikrinti, kad jų veikla tarnautų
-nepriklausomos demokratinės Lietuvos valstybės stiprinimui bei  visuomenės pažangai,
-priima ir skelbia šį įstatymą.
+nepriklausomos demokratinės Lietuvos valstybės stiprinimui bei  visuomenės
+pažangai, priima ir skelbia šį įstatymą.
      
 Preambulės
 pakeitimai:
@@ -160,17 +169,17 @@ registravimas
  
  
      Politines 
-partijas ir politines organizacijas registruoja  Lietuvos  Respublikos teisingumo
-ministerija.
+partijas ir politines organizacijas registruoja  Lietuvos  Respublikos
+teisingumo ministerija.
      Lietuvos
 Respublikos  teisingumo  ministerija  politines partijas ar politines
 organizacijas registruoja ne vėliau kaip per mėnesį nuo statuto (įstatų),
 programos,  konferencijos ar suvažiavimo protokolo pateikimo dienos, jeigu nėra
 pažeisti šio įstatymo 1, 2 ir 3 straipsnio reikalavimai.
      Registruojamos
-politinės partijos ar ir politinės organizacijos pavadinimas ir simbolika turi
-skirtis nuo jau registruotų politinių partijų ir politinių organizacijų
-pavadinimų ir simbolikos.
+politinės partijos ar politinės organizacijos pavadinimas ir simbolika turi
+skirtis nuo jau registruotų politinių partijų ir politinių ar visuomeninių
+organizacijų pavadinimų ir simbolikos.
      Atsisakius
 registruoti politinę partiją ar politinę organizaciją, apie tai ne vėliau kaip
 per tris dienas raštu pranešama steigėjams ir nurodomos atsisakymo priežastys.
@@ -180,8 +189,8 @@ organizacijos per penkiolika dienų privalo raštu pranešti Lietuvos Respubliko
 teisingumo  ministerijai,  pateikdamos  jai  šio straipsnio antroje dalyje
 nurodytus dokumentus.
      Jei
-politinė partija ar politinė organizacija pakeitė pavadinimą, ji perregistruojama
-šio įstatymo nustatyta tvarka.
+politinė partija ar politinė organizacija pakeitė pavadinimą, ji
+perregistruojama šio įstatymo nustatyta tvarka.
      Politinė
 partija  ar politinė organizacija ir jų statutuose (įstatuose)  nurodytos 
 organizacijos  yra  juridinis  asmuo  nuo partijos ar politinės organizacijos
@@ -191,6 +200,8 @@ Straipsnio
 pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
+Nr.
+I-787, 95.02.02, Žin., 1995, Nr.18-402 (95.03.01)
  
  
      5
@@ -204,10 +215,10 @@ organizacijos veiklą,  jeigu  ji  pažeidžia  Lietuvos Respublikos Konstit
 ar šį įstatymą.
      Teisingumo
 ministerija, sužinojusi apie įstatymo pažeidimą, apie tai raštu praneša
-politinės partijos ar politinės organizacijos vadovaujantiesiems organams,
-nurodydama, kokie įstatymų reikalavimai pažeisti, ir nustatydama terminą
-pažeidimams pašalinti. Jei nustatytu terminu pažeidimas nepašalinamas,
-politinės partijos ar politinės organizacijos veikla sustabdoma.
+politinės partijos ar politinės organizacijos vadovaujantiesiems organams, nurodydama,
+kokie įstatymų reikalavimai pažeisti, ir nustatydama terminą pažeidimams
+pašalinti. Jei nustatytu terminu pažeidimas nepašalinamas, politinės partijos
+ar politinės organizacijos veikla sustabdoma.
      Rinkiminės
 kampanijos metu politinės partijos ar politinės organizacijos veiklą gali
 sustabdyti tik Vilniaus apygardos teismas, kurio sprendimas įsiteisėja nuo
@@ -281,7 +292,7 @@ Apskundimo  tvarka
  
     
 Atsisakymas  registruoti   politinę  partiją   ar   politinę organizaciją, 
-jos   veiklos  sustabdymas   gali  būti  apskųstas Vilniaus  apygardos 
+jos   veiklos  sustabdymas   gali  būti  apskųstas Vilniaus  apygardos 
 teismui,  kuris  skundą  išnagrinėja  per  3
 dienas.      
  
@@ -323,7 +334,7 @@ I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
  
      10
 straipsnis. Politinės  partijos  ar politinės organizacijos veiklos 
-                    apribojimas
+                    apribojimas
 
  
     
@@ -374,9 +385,9 @@ dovanotos lėšos ir kitos teisėtai gautos pajamos.
      Valstybinės 
 valdžios   ir  valdymo   organai,  valstybinės įmonės, įstaigos  ir
 organizacijos neturi teisės kokia nors forma ar būdu  finansuoti politinių 
-partijų ir  politinių organizacijų bei jų  padalinių, taip  pat politinėms 
-partijoms ar  politinėms organizacijoms atstovaujančių  Seimo narių ar
-savivaldybių tarybų narių arba jų grupių.
+partijų ir  politinių organizacijų bei jų  padalinių, taip  pat politinėms  partijoms
+ar  politinėms organizacijoms atstovaujančių  Seimo narių ar savivaldybių
+tarybų narių arba jų grupių.
      Politinės
 partijos ir politinės organizacijos negali gauti lėšų ar kitokio turto, kuriuos
 skiria kitų valstybių valdžios bei valdymo organai, valstybinės organizacijos
