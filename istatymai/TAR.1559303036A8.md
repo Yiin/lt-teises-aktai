@@ -239,6 +239,78 @@ reglamentą.
 10. Taryba finansuojama (apmokama už posėdžius,
 administracinės išlaidos) iš LRT lėšų.
  
+[9 straipsnio redakcija nuo 2000 m. spalio 1 d.:
+9 straipsnis. LRT taryba
+1. LRT valdymo organai yra Taryba ir administracija.
+2. Taryba yra aukščiausioji LRT valdymo institucija,
+atstovaujanti visuomenės interesams. Ji sudaroma 6 metams iš 12 asmenų – visuomenės,
+mokslo ir kultūros veikėjų. Pirmajai Tarybos, sudaromos šio įstatymo nustatyta
+tvarka, kadencijai 4 tarybos narius 6 metams skiria Respublikos Prezidentas; 4
+narius 4 metams skiria Seimas (2 nariai skiriami iš opozicinių frakcijų
+pasiūlytų kandidatų); 4 narius kaip savo atstovus (po vieną) 2 metams skiria
+šios organizacijos: Lietuvos mokslo taryba, Lietuvos švietimo taryba, Lietuvos
+meno kūrėjų asociacija, Lietuvos vyskupų konferencija. Pasibaigus Tarybos nario
+įgaliojimų laikui, jį paskyrusi ar delegavusi institucija (organizacija) naują
+narį skiria 6 metams.
+3. Tarybos sudarymą organizuoja Seimo Švietimo, mokslo
+ir kultūros komitetas. Jis kviečia pirmąjį Tarybos posėdį, kuriame Tarybos
+nariai paprasta visų Tarybos narių balsų dauguma 3 metams išsirenka Tarybos
+pirmininką.
+4. Tarybos nariais negali būti Seimo, Vyriausybės,
+Radijo ir televizijos komisijos nariai, politinio (asmeninio) pasitikėjimo
+valstybės tarnautojai, asmenys, dirbantys pagal darbo sutartis radijo ir
+televizijos stotyse, įskaitant LRT, taip pat radijo ir televizijos stočių
+savininkai ir bendraturčiai.
+5. Tarybos narys negali būti atšauktas iš pareigų, kol
+nesibaigė jo įgaliojimų laikas, išskyrus atvejus, kai:
+1) Tarybos narys atsistatydina;
+2) Tarybos narys be pateisinamos priežasties daugiau
+kaip 4 mėnesius nedalyvauja Tarybos darbe;
+3) Tarybos nariui yra įsiteisėjęs apkaltinamasis
+teismo nuosprendis;
+4) Tarybos narys netenka Lietuvos Respublikos
+pilietybės;
+5) pakinta Tarybos nario paskyrimo įstatyminis
+pagrindas.
+6. Pasibaigus
+kurio nors Tarybos nario įgaliojimų laikui, šis Tarybos narys gali būti
+pakartotinai skiriamas į Tarybą su sąlyga, jeigu dėl tokio paskyrimo nesusidaro
+daugiau kaip dvi kadencijos iš eilės.
+7. Kai Taryboje atsiranda laisva vieta, Tarybos
+pirmininkas kreipiasi į instituciją, paskyrusią ar delegavusią trūkstamą
+Tarybos narį, prašydamas paskirti naują Tarybos narį iki kadencijos, kuriai
+buvo paskirtas atsistatydinęs ar atšauktas Tarybos narys, pabaigos.
+8. Taryba turi teisę atsistatydinti nepasibaigus
+kadencijai. Jeigu Taryba atsistatydina, Tarybos ir visų jos narių įgaliojimai
+nutrūksta naujai sudarytai Tarybai susirinkus į pirmąjį posėdį. Tarybos
+atsistatydinimo atveju šio straipsnio 7 dalies nuostata netaikoma.
+9. Kai Taryba
+atsistatydina, Seimo Švietimo, mokslo ir kultūros komitetas ne vėliau kaip per
+10 dienų kreipiasi į institucijas, paskyrusias ar delegavusias Tarybos narius,
+prašydamas paskirti Tarybos narius.
+10. Institucijos, įgaliotos skirti Tarybos narius,
+privalo juos paskirti ne vėliau kaip per 10 dienų nuo Seimo Švietimo, mokslo ir
+kultūros komiteto kreipimosi dienos. Paskyrus visus Tarybos narius, Seimo
+Švietimo, mokslo ir kultūros komitetas ne vėliau kaip per 10 dienų organizuoja
+Tarybos pirmininko rinkimą. Tarybos pirmininkas renkamas 3 metams paprasta visų
+Tarybos narių balsų dauguma, jeigu nesusidaro daugiau kaip dvi kadencijos iš
+eilės. Tarybos pirmininko pavaduotojas renkamas ta pačia tvarka Tarybos
+pirmininko teikimu.
+11. Tarybos posėdžius ne rečiau kaip kartą per mėnesį
+šaukia Tarybos pirmininkas, o kai jis neina pareigų, – pirmininko pavaduotojas,
+savo iniciatyva arba trečdalio Tarybos narių reikalavimu. Posėdžiai yra
+teisėti, kai juose dalyvauja daugiau kaip pusė Tarybos narių. Nutarimai
+priimami paprasta visų Tarybos narių balsų dauguma, išskyrus šio įstatymo 12
+straipsnio 4 dalyje nurodytą atvejį.
+12. Taryba dirba pagal savo pačios patvirtintą darbo
+reglamentą.
+13. Taryba finansuojama (apmokama už posėdžius,
+administracinės išlaidos) iš LRT lėšų.]
+Straipsnio pakeitimai:
+Nr. VIII-1911, 00.08.31, Žin., 2000,
+Nr.78-2362 (00.09.15), įsigalioja nuo 2000.10.01
+ 
+ 
 10 straipsnis. Tarybos funkcijos, teisės ir
 atskaitomybė 
 1.
@@ -299,8 +371,8 @@ metus už LRT veiklą atsiskaito Seimo plenariniame posėdyje.
 11 straipsnis. Administracinė komisija, jos
 funkcijos, teisės ir atskaitomybė 
 1. Administracinė komisija sudaroma iš 5 narių.
-Administracinės komisijos narius 4 metams skiria Taryba. Administracinės komisijos
-nariais negali būti Seimo, Vyriausybės nariai, politinio (asmeninio)
+Administracinės komisijos narius 4 metams skiria Taryba. Administracinės
+komisijos nariais negali būti Seimo, Vyriausybės nariai, politinio (asmeninio)
 pasitikėjimo valstybės tarnautojai, asmenys, dirbantys pagal darbo sutartis
 radijo ir (ar) televizijos stotyse, įskaitant ir LRT. Pasibaigus
 Administracinės komisijos nario kadencijai, jis gali būti skiriamas
@@ -355,8 +427,8 @@ direktorius. Generalinis direktorius atsako už LRT veiklą, LRT parengtas ir
 transliuojamas programas, taip pat už Tarybos nutarimų įgyvendinimą.
 2.
 Generalinį direktorių viešo konkurso būdu 5 metams skiria Taryba daugiau kaip
-pusės visų Tarybos narių balsų dauguma. Negavus tokio balsų skaičiaus,
-rengiamas naujas konkursas.
+pusės visų Tarybos narių balsų dauguma. Negavus tokio balsų skaičiaus, rengiamas
+naujas konkursas.
 3. Jeigu asmuo, patvirtintas generaliniu direktoriumi,
 yra politinės partijos ar politinės organizacijos narys, jis sustabdo savo
 narystę šioje organizacijoje darbo generaliniu direktoriumi laikotarpiui.
@@ -434,15 +506,15 @@ eilutėje.
  
 16 straipsnis. LRT reorganizavimas ir
 likvidavimas
-LRT reorganizuojama ar likviduojama Lietuvos Respublikos
-įstatymu.
+LRT reorganizuojama ar likviduojama Lietuvos
+Respublikos įstatymu.
  
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 BRAZAUSKAS
  
 ___________
@@ -492,8 +564,17 @@ vėliau kaip 2001 m. sausio 31 d.
 Šio įstatymo 6 straipsnio 6 dalies nuostata
 įsigalioja nuo 2002 m. sausio 1 d. 
  
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1911, 00.08.31, Žin., 2000,
+Nr.78-2362 (00.09.15)
+LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 9 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+Šis įstatymas
+įsigalioja nuo 2000 m. spalio 1 d.
+ 
 *** Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2000.08.02)
+Aušrinė Trapinskienė (2000.09.15)
