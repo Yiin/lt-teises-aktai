@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23145B5CDF8E"
 
 # Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymas
 
+Suvestinė redakcija nuo 2004-07-31 iki 2004-11-25
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 61-2758, i. k. 1031010ISTA0IX-1601
+ 
+ 
 LIETUVOS RESPUBLIKOS VERTYBINIŲ POPIERIŲ, DOKUMENTŲ BLANKŲ, BANDEROLIŲ, OFICIALIŲ ŽYMĖJIMO ŽENKLŲ GAMYBOS ĮSTATYMAS
  
 2003 m. birželio 5 d. Nr. IX-1601
@@ -28,10 +33,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis Įstatymas reglamentuoja valstybės ir savivaldybių institucijų bei įstaigų ir Lietuvos Respublikos teisės aktais įgaliotų kitų juridinių asmenų išleidžiamų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos priemonių nustatymą, leidybą bei gamybą. 
+Šis Įstatymas reglamentuoja valstybės ir savivaldybių institucijų bei įstaigų ir Lietuvos Respublikos teisės aktais įgaliotų kitų juridinių asmenų, taip pat Europos Sąjungos institucijų nustatytų privalomai naudoti Lietuvos Respublikoje vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos priemonių nustatymą, leidybą bei technologinės apsaugos lygiui ir grupei priskirtų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybą.
+
+
+Straipsnio pakeitimai:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
  
-
-
 
 
 
@@ -49,7 +56,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Išleidžianti įstaiga – valstybės ar savivaldybės institucija, įstaiga arba Lietuvos Respublikos teisės aktais įgaliotas kitas juridinis asmuo, kuris tvirtina vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomąją formą.
+3. Išleidžianti įstaiga – Lietuvos Respublikos valstybės ar savivaldybės institucija, įstaiga arba Lietuvos Respublikos ar Europos Sąjungos teisės aktais įgaliotas kitas juridinis asmuo, kuris tvirtina vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomąją formą, arba juridinis asmuo, kuris privalo organizuoti vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+ 
 
 
 
@@ -149,7 +159,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-23. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamintojas (toliau – gamintojas) – juridinis asmuo, teisės aktų nustatyta tvarka sudaręs sutartį su užsakovu dėl vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos.
+23. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamintojas (toliau – gamintojas) – įmonė, teisės aktų nustatyta tvarka sudariusi sutartį su užsakovu dėl vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+ 
 
 
 
@@ -170,6 +183,21 @@ BENDROSIOS NUOSTATOS
 
 
 27. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų tiražas – šio Įstatymo nustatyta tvarka tarp užsakovo ir gamintojo sudarytoje sutartyje nurodytas pagaminti vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų kiekis.
+
+
+
+
+28. Įmonė – Lietuvos Respublikos įmonė, užsienio valstybės ūkio subjekto filialas. 
+Papildyta straipsnio dalimi:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+ 
+
+
+
+
+29. Trečioji valstybė – bet kuri teritorija, kuri nėra Europos Bendrijų teritorija.
+Papildyta straipsnio dalimi:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
  
 
 
@@ -228,22 +256,42 @@ BENDROSIOS NUOSTATOS
 
 
 
-8) tvarko vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registrą;
+8) jeigu licencijuojama veikla susijusi su įslaptintos informacijos naudojimu, teikia informaciją apie gamintojus įslaptintų sandorių saugumą užtikrinančiai institucijai, kad būtų atliktas patikrinimas dėl įmonės patikimumą patvirtinančio pažymėjimo išdavimo, kad būtų gaunamas Valstybės saugumo departamento sutikimas dėl leidimo dirbti ar susipažinti su įslaptinta informacija, išduoda gamintojo darbuotojams leidimus dirbti ar susipažinti su įslaptinta informacija; 
+Papildyta straipsnio punktu:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+ 
 
 
 
 
-9) teikia Finansų ministerijai pasiūlymus dėl vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinę apsaugą, leidybą ir gamybą reglamentuojančių teisės aktų tobulinimo; 
+9) tvarko vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registrą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+ 
 
 
 
 
-10) atlikdama savo funkcijas, bendradarbiauja su valstybės ir savivaldybių institucijomis bei įstaigomis nustatant neteisėtos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos atvejus;
+10) teikia Finansų ministerijai pasiūlymus dėl vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinę apsaugą, leidybą ir gamybą reglamentuojančių teisės aktų tobulinimo; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+ 
 
 
 
 
-11) atlieka kitas šio Įstatymo ir kitų teisės aktų pavestas funkcijas.
+11) atlikdama savo funkcijas, bendradarbiauja su valstybės ir savivaldybių institucijomis bei įstaigomis nustatant neteisėtos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos atvejus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+ 
+
+
+
+
+12) atlieka kitas šio Įstatymo ir kitų teisės aktų pavestas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+ 
 
 
 
@@ -251,7 +299,6 @@ BENDROSIOS NUOSTATOS
 
 
 4. Tarnybai duomenis apie vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų klastojimą ir klastojimo būdus teikia Vidaus reikalų ministerija ir ekspertizes atliekančios įstaigos.
- 
 
 
 
@@ -375,12 +422,18 @@ TECHNOLOGINĖS APSAUGOS PRIEMONĖS IR LYGIAI
 
 
 
-3. Vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus technologinės apsaugos lygiui ir grupei priskiria bei technologinės apsaugos priemonių kiekį konkrečiam technologinės apsaugos lygiui ir grupei nustato Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos nustatymo komisija (toliau – Komisija) po vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomosios formos paskelbimo oficialiame leidinyje „Valstybės žinios“.
+3. Vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus vertina ir technologinės apsaugos lygiui ir grupei priskiria bei technologinės apsaugos priemonių kiekį konkrečiam technologinės apsaugos lygiui ir grupei nustato Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos nustatymo komisija (toliau – Komisija) po vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomąją formą patvirtinančio teisės akto paskelbimo. Komisijos sprendimai skelbiami oficialaus leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+ 
 
 
 
 
-4. Komisiją sudaro 7 nariai – po vieną iš Tarnybos, Vidaus reikalų ministerijos, Finansų ministerijos, Užsienio reikalų ministerijos, Valstybės saugumo departamento ir du iš Teisingumo ministerijos. Komisijos personalinę sudėtį, pirmininką ir darbo reglamentą tvirtina Vyriausybė ar jos įgaliota institucija.
+4. Komisiją sudaro 7 nariai – po vieną atstovą iš Tarnybos, Vidaus reikalų ministerijos, Finansų ministerijos, Užsienio reikalų ministerijos, Valstybės saugumo departamento ir du iš Teisingumo ministerijos. Komisijos personalinę sudėtį, pirmininką ir darbo reglamentą tvirtina Vyriausybė ar jos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+ 
 
 
 
@@ -491,7 +544,7 @@ VERTYBINIŲ POPIERIŲ, DOKUMENTŲ BLANKŲ, BANDEROLIŲ, OFICIALIŲ ŽYMĖJIMO Ž
 10 straipsnis. Projektavimo paraiška
 
 
-1. Išleidžianti įstaiga pateikia Tarnybai vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų patvirtintą privalomąją formą ir projektavimo paraišką rengti vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizą. 
+1. Išleidžianti įstaiga po vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų priskyrimo technologinės apsaugos lygiui ir grupei pateikia Tarnybai vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų patvirtintą privalomąją formą ir projektavimo paraišką rengti vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizą. Dėl kiekvieno vertybinio popieriaus, dokumento blanko, banderolės, oficialaus žymėjimo ženklo paduodama atskira projektavimo paraiška.
 
 
 
@@ -514,12 +567,24 @@ VERTYBINIŲ POPIERIŲ, DOKUMENTŲ BLANKŲ, BANDEROLIŲ, OFICIALIŲ ŽYMĖJIMO Ž
 
 
 
-4) sprendimo, kuriuo patvirtinta vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomoji forma, kopija. 
+4) teisės akto, kuriuo patvirtinta vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomoji forma, oficialaus paskelbimo šaltiniai; 
+
+
+
+
+5) vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos lygis ir grupė;
+
+
+
+
+6) kita papildoma informacija.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
  
-
-
-
-
 
 
 
@@ -558,7 +623,9 @@ VERTYBINIŲ POPIERIŲ, DOKUMENTŲ BLANKŲ, BANDEROLIŲ, OFICIALIŲ ŽYMĖJIMO Ž
 
 
 
-3. Patvirtintas vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų grafinis projektas skaitmenine laikmena perduodamas išleidžiančiai įstaigai.
+3. Patvirtintas vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų grafinis projektas skaitmenine laikmena perduodamas gamintojui.
+Straipsnio dalies pakeitimai:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
  
 
 
@@ -686,7 +753,10 @@ VERTYBINIŲ POPIERIŲ, DOKUMENTŲ BLANKŲ, BANDEROLIŲ, OFICIALIŲ ŽYMĖJIMO Ž
 18 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos licencijavimas
 
 
-1. Vertybiniai popieriai, dokumentų blankai, banderolės, oficialūs žymėjimo ženklai gaminami įmonėse, turinčiose licenciją gaminti vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus (toliau – licencija) arba, jei gamintojas registruotas užsienio valstybėje, tos šalies vyriausybės ar jos įgaliotos institucijos išduotus dokumentus, suteikiančius teisę gaminti vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus.
+1. Technologinės apsaugos lygiui ir grupei priskirti vertybiniai popieriai, dokumentų blankai, banderolės, oficialūs žymėjimo ženklai gaminami įmonėse, turinčiose licenciją gaminti vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus (toliau – licencija) arba, jei gamintojas registruotas užsienio valstybėje, tos valstybės vyriausybės ar jos įgaliotos institucijos išduotus dokumentus, suteikiančius teisę gaminti vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus. Trečiosioms valstybėms teisė gaminti vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus taikoma abipusiškumo pagrindais, kai Lietuvos Respublikos įmonėms užsienio valstybėje suteikiamos ne mažesnės teisės. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+ 
 
 
 
@@ -870,3 +940,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                   ROLANDAS PAKSAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+Lietuvos Respublikos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos įstatymo 1, 2, 3, 6, 10, 12, 18 straipsnių pakeitimo ir papildymo įstatymas
