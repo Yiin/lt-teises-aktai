@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B"
 Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
-Ramunė Lūžaitė (1997.10.24)
+Ramunė Lūžaitė (1998.12.14)
  
 Įstatymas
 paskelbtas: Žin., 1990, Nr. 14-395
@@ -317,6 +317,17 @@ papildymo, Žemės įstatymo papildymo, Loterijų, piniginių-daiktinių žaidim
 lošimų, Energetikos įstatymo pakeitimo, Klaipėdos valstybinio jūrų uosto
 įstatymo pakeitimo ir Turizmo įstatymai.
  
+36.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-936,
+98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
+LIETUVOS RESPUBLIKOS
+ĮMONIŲ ĮSTATYMO 12 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+Įstatymas
+įsigalioja nuo 1999 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
              
@@ -337,9 +348,9 @@ straipsnis.Įmonių įstatymo tikslai
 nuolatine komercine-ūkine veikla Lietuvos Respublikoje, jų steigimo ir veiklos
 teisinius pagrindus.
      Atskirų,
-nurodytų šio įstatymo 6 straipsnyje, rūšių įmonių steigimas, jų teisinis 
-statusas, veikla, likvidavimas  ir reorganizavimas reglamentuojamas
-atitinkamais įstatymais.
+nurodytų šio įstatymo 6 straipsnyje, rūšių įmonių steigimas, jų teisinis  statusas,
+veikla, likvidavimas  ir reorganizavimas reglamentuojamas atitinkamais
+įstatymais.
      Šis 
 įstatymas  netaikomas  fiziniams  ir  juridiniams asmenims, užsiimantiems
 nekomercine  veikla (veikla,  kuria nesiekiama pelno), taip pat fiziniams
@@ -375,8 +386,8 @@ yra fizinis arba juridinis asmuo, taip pat į bendrovę (bendriją) susijungę k
 fiziniai ar  juridiniai asmenys, kurie nuosavybės teise valdo, naudoja ir
 disponuoja įmonės turtu, organizuoja įmonės ūkinę ir finansinę veiklą.
      Nuosavybės
-teisę  į įmonę  įmonininkas įgyja  įmonės steigimo, pirkimo-pardavimo arba
-kitokių civilinių sandorių pagrindu.
+teisę  į įmonę  įmonininkas įgyja  įmonės steigimo, pirkimo-pardavimo arba kitokių
+civilinių sandorių pagrindu.
      Jeigu 
 įmonė  nuosavybės  teise  priklauso  Lietuvos Respublikai, įmonininko 
 funkcijas atlieka  įmonės  valdymo organai.
@@ -403,8 +414,8 @@ Straipsnio
 pakeitimai:
 Nr.
 I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
-Nr. VIII-422, 97.09.25,
-Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
  
      5
 straipsnis.Darbo santykiai įmonėje
@@ -430,7 +441,8 @@ pagrįstus  naryste  ūkinėje  bendrijoje, reguliuoja įmonės steigimo doku
 straipsnis.Įmonių rūšys ir įmonių junginiai
  
      
-Lietuvos Respublikoje gali veikti šios įmonės:
+Lietuvos Respublikoje gali veikti šios
+įmonės:
 1) individualios (personalinės) įmonės;
 2) tikrosios ūkinės bendrijos;
 3) komanditinės (pasitikėjimo) ūkinės
@@ -439,8 +451,8 @@ bendrijos;
 bendrovės ir investicinės bendrovės;
 5) valstybės įmonės;
 6) savivaldybės įmonės;
-7) žemės ūkio bendrovės (veikla
-reglamentuojama atskirame įstatyme);
+7) žemės ūkio bendrovės (veikla reglamentuojama
+atskirame įstatyme);
 8) kooperatinės bendrovės (kooperatyvai). Jų
 veikla reglamentuojama atskirame įstatyme.
      Įmonės,
@@ -489,10 +501,10 @@ straipsnis.Tikroji ūkinė bendrija
 ūkinė bendrija yra visiškos turtinės atsakomybės įmonė, įsteigta bendrosios
 jungtinės veiklos sutartimi apjungus kelių fizinių ar juridinių asmenų turtą į
 bendrąją dalinę nuosavybę komercinei-ūkinei veiklai su bendru firmos vardu.
-Tikroji ūkinė bendrija neturi juridinio asmens teisių, jos turtas neatskirtas
-nuo bendrijos narių turto. Pagal tikrosios ūkinės bendrijos prievoles jos
-nariai atsako solidariai visu savo turtu.  Tikroji ūkinė bendrija neatsako
-pagal savo narių prievoles, nesusijusias su bendrijos veikla.
+Tikroji ūkinė bendrija neturi juridinio asmens teisių, jos turtas neatskirtas nuo
+bendrijos narių turto. Pagal tikrosios ūkinės bendrijos prievoles jos nariai
+atsako solidariai visu savo turtu.  Tikroji ūkinė bendrija neatsako pagal savo
+narių prievoles, nesusijusias su bendrijos veikla.
      Tikrosios
 ūkinės bendrijos turi firmos vardą, kuriame turi būti įvardytas bent vienas jos
 savininkų.
@@ -506,13 +518,13 @@ Lietuvos Respublikos civilinis kodeksas, Lietuvos Respublikos ūkinių bendrijų
 straipsnis.Komanditinė (pasitikėjimo) ūkinė bendrija
  
      Komanditinę
-(pasitikėjimo) ūkinę bendriją sudaro bendros firmos  vardu  veikiantys  tikrieji 
-nariai  ir  nariai komanditoriai, kuriems įmonės  turtas priklauso  bendrosios
-dalinės nuosavybės teise. Komanditinė (pasitikėjimo)  ūkinė bendrija nėra
-juridinis asmuo, jos turtas neatskirtas nuo bendrijos  tikrųjų  narių  turto.  
-Pagal  komanditinės (pasitikėjimo) ūkinės bendrijos prievoles jos tikrieji
-nariai solidariai atsako visu savo turtu, o nariai komanditoriai - tik ta savo
-turto dalimi, kurią pagal sutartį yra perdavę bendrai komanditinės 
+(pasitikėjimo) ūkinę bendriją sudaro bendros firmos  vardu  veikiantys 
+tikrieji  nariai  ir  nariai komanditoriai, kuriems įmonės  turtas priklauso 
+bendrosios dalinės nuosavybės teise. Komanditinė (pasitikėjimo)  ūkinė bendrija
+nėra juridinis asmuo, jos turtas neatskirtas nuo bendrijos  tikrųjų  narių 
+turto.   Pagal  komanditinės (pasitikėjimo) ūkinės bendrijos prievoles jos
+tikrieji nariai solidariai atsako visu savo turtu, o nariai komanditoriai - tik
+ta savo turto dalimi, kurią pagal sutartį yra perdavę bendrai komanditinės 
 (pasitikėjimo)  ūkinės  bendrijos  veiklai. Komanditinė (pasitikėjimo) ūkinė
 bendrija neatsako pagal savo narių prievoles, nesusijusias su bendrijos veikla.
      Komanditinės
@@ -538,8 +550,8 @@ Akcinė bendrovė, uždaroji akcinė bendrovė ir investicinė bendrovė yra rib
 turtinės atsakomybės įmonės, turinčios juridinio asmens teises, kurių įstatinis
 (nuosavas) kapitalas yra padalytas į dalis - akcijas.  Akcininkai yra akcinės
 bendrovės, uždarosios akcinės bendrovės ar investicinės  bendrovės nariai,
-kuriais tampama įstatymų nustatyta tvarka įsigijus šių bendrovių akcijų. Akcininkais
-gali būti fiziniai asmenys, juridiniai asmenys ar valstybė (vietos
+kuriais tampama įstatymų nustatyta tvarka įsigijus šių bendrovių akcijų.
+Akcininkais gali būti fiziniai asmenys, juridiniai asmenys ar valstybė (vietos
 savivaldybė), kuriai atstovauja atitinkama valstybės institucija.  Akcinės 
 bendrovės,  uždarosios  akcinės  bendrovės  ir investicinės bendrovės steigimą,
 likvidavimą, reorganizavimą ir veiklą, akcininkų teises ir pareigas, santykius
@@ -568,13 +580,13 @@ savivaldybei.
 Valstybės ir savivaldybės įmonės turtą valdo,
 naudoja ir juo disponuoja turto patikėjimo teisėmis.
 Valstybės ir savivaldybės įmonės pagal savo
-prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas
-išieškojimas. Įmonės neatsako už valstybės ar savivaldybės prievoles. 
+prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas išieškojimas.
+Įmonės neatsako už valstybės ar savivaldybės prievoles. 
 Valstybės ir savivaldybės įmonių steigimą,
 veiklą, reorganizavimą ir likvidavimą taip pat reglamentuoja Lietuvos
-Respublikos civilinis kodeksas, Lietuvos Respublikos valstybės ir savivaldybės
-įmonių įstatymas, kiti norminiai aktai bei įstatymų nustatyta tvarka
-patvirtinti ir įregistruoti įmonės įstatai.
+Respublikos civilinis kodeksas, Lietuvos Respublikos valstybės ir savivaldybės įmonių
+įstatymas, kiti norminiai aktai bei įstatymų nustatyta tvarka patvirtinti ir
+įregistruoti įmonės įstatai.
  
 Straipsnio
 pakeitimai:
@@ -607,9 +619,9 @@ III skirsnis
 Įmonė turi teisę užsiimti bet kokia
 komercine-ūkine ar kitokia veikla, nesuvaržyta šio ar kitų įstatymų, įmonės
 steigimo dokumentų arba kitaip neuždrausta įstatymų nustatyta tvarka.
-Komercinės-ūkinės veiklos, kuria verstis reikalinga licencija, sritis,
-licencijas išduodančias institucijas bei licencijų išdavimo tvarką nustato šis
-ir kiti įstatymai.
+Komercinės-ūkinės veiklos, kuria verstis reikalinga licencija, sritis, licencijas
+išduodančias institucijas bei licencijų išdavimo tvarką nustato šis ir kiti
+įstatymai.
 Lietuvos Respublikoje draudžiama steigti ir
 laikyti lošimo namus, organizuoti azartinius lošimus.
 Įmonių įstatymo 6 straipsnyje nurodytoms
@@ -622,6 +634,11 @@ investicijų Lietuvos Respublikoje įstatymas.
 Laisvųjų ekonominių zonų įmonių veiklos
 sritis, kuriose draudžiamos kapitalo investicijos, nustato Lietuvos Respublikos
 laisvųjų ekonominių zonų pagrindų įstatymas.
+      [12
+straipsnio 6 dalies redakcija nuo 1999 m. sausio 1 d.]
+Individualių (personalinių) įmonių savininkai
+gali panaudoti savo ir savo šeimos narių (sutuoktinių, tėvų, įtėvių, vaikų,
+įvaikių), jiems sutikus, pinigines lėšas ir turtą įmonės veiklai.
  
 Straipsnio
 pakeitimai:
@@ -641,8 +658,10 @@ Nr.
 I-1252, 96.03.28, Žin., 1996, Nr. 35-859 (96.04.19) 
 Nr.
 I-1552, 96.09.25, Žin., 1996, Nr. 100-2267 (96.10.16) 
-Nr. VIII-422, 97.09.25,
-Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-936,
+98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
  
      13
 straipsnis. Licencijų išdavimas
@@ -708,14 +727,15 @@ Tik valstybės įmonės, savivaldybės įmonės ir
 specialios paskirties bendrovės (akcinės bei uždarosios akcinės) ir tik
 turėdamos Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotas licencijas
 turi teisę užsiimti šia veikla:
-1) gaminti alkoholio produktus, kuriuose tūrinė
-etilo alkoholio koncentracija viršija 22 procentus. Šią teisę turi tik
+1) gaminti alkoholio produktus, kuriuose
+tūrinė etilo alkoholio koncentracija viršija 22 procentus. Šią teisę turi tik
 valstybės įmonės, jeigu Alkoholio kontrolės įstatymas nenustato ko kita; 
 2) spausdinti piniginius ženklus, pašto
 ženklus ir gaminti monetas.
-Kiekvienai įstatymo nustatytai licencijuojamai
-komercinės-ūkinės veiklos sričiai Lietuvos Respublikos Vyriausybė tvirtina
-licencijavimo taisykles, jeigu kiti įstatymai nenustato ko kita. 
+Kiekvienai įstatymo nustatytai
+licencijuojamai komercinės-ūkinės veiklos sričiai Lietuvos Respublikos
+Vyriausybė tvirtina licencijavimo taisykles, jeigu kiti įstatymai nenustato ko
+kita. 
 Licencijavimo taisyklėse nurodoma:
 1) licencijuojama veikla;
 2) licenciją išduodanti institucija ir jos
@@ -883,8 +903,8 @@ tvarka gali būti traukiami teisinėn atsakomybėn.
  
                               
 IV skirsnis
-          
-       ĮMONIŲ STEIGIMAS IR JŲ VEIKLOS NUTRAUKIMAS
+                 
+ĮMONIŲ STEIGIMAS IR JŲ VEIKLOS NUTRAUKIMAS
  
    
 17 straipsnis. Įmonės steigėjas
@@ -972,8 +992,8 @@ sveikatinimo veiklą.
 neįregistruoja, leidimas nustoja galios.
      Savivaldybės 
 organo  atsisakymą  duoti  leidimą  arba sprendimą atšaukti  leidimą užsiimti 
-ūkine veikla  įmonės steigėjas ne vėliau kaip per 30 dienų po savivaldybės organo
-sprendimo įteikimo dienos gali užginčyti teismine tvarka.
+ūkine veikla  įmonės steigėjas ne vėliau kaip per 30 dienų po savivaldybės
+organo sprendimo įteikimo dienos gali užginčyti teismine tvarka.
  
 Straipsnio
 pakeitimai: 
@@ -993,10 +1013,10 @@ neteisėtai naudojantis įmonės vardu, valstybinės mokesčių inspekcijos iši
 biudžetą per teismą.
 Įmonių registravimą reglamentuoja Lietuvos
 Respublikos įmonių rejestro įstatymas.
-Įmonei įregistruoti įmonių rejestro
-tvarkytojui pateikiamas steigėjo ar steigėjų prašymas įregistruoti įmonę,
-nurodant jame duomenis, reikalingus įtraukti į rejestrą, ir įstatymo nustatyti
-kiti įmonės registravimo dokumentai. 
+Įmonei įregistruoti įmonių rejestro tvarkytojui
+pateikiamas steigėjo ar steigėjų prašymas įregistruoti įmonę, nurodant jame
+duomenis, reikalingus įtraukti į rejestrą, ir įstatymo nustatyti kiti įmonės
+registravimo dokumentai. 
 Sprendimas įregistruoti arba atsisakyti
 įregistruoti įmonę turi būti priimtas ne vėliau kaip per 15 dienų nuo visų
 dokumentų, nurodytų šio straipsnio trečiojoje dalyje, įteikimo. Apie įmonės
@@ -1077,10 +1097,10 @@ asociacijas, prisijungus prie kitų įmonių, susivienijimų, pasidalijus į kel
 civilinis kodeksas, Lietuvos Respublikos konkurencijos ir Įmonių bankroto
 įstatymai, kiti įstatyminiai aktai ir įmonės įstatai bei kiti įmonės steigimo
 dokumentai. Įmonę reorganizavus, naujam juridiniam asmeniui pereina teisės ir
-prievolės, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą,
-taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų
-priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos
-įmonės išregistravimo įstatymų nustatyta tvarka.
+prievolės, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo
+biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės
+institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki
+reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka.
      Įmonę
 likvidavus arba reorganizavus daromi  atitinkami įrašai įmonių registravimo
 rejestre. Apie tai skelbiama vietos ir Respublikos spaudoje.
@@ -1099,8 +1119,8 @@ straipsnis.Įmonės filialai ir atstovybės
  
      Įmonės
 gali steigti savo filialus ir atstovybes. Įmonės filialai ir atstovybės veikia
-pagal įmonės įgaliojimą. Įmonės filialui steigti taikomos įmonių steigimo ir  registravimo
-taisyklės.
+pagal įmonės įgaliojimą. Įmonės filialui steigti taikomos įmonių steigimo ir 
+registravimo taisyklės.
      Filialus
 steigti gali tik Lietuvos Respublikos įmonių rejestre  įregistruotos  įmonės 
 atitinkamos  rūšies įmonių įstatymo nustatyta tvarka.
