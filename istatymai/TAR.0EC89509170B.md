@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2004-01-01 iki 2004-02-13
+Suvestinė redakcija nuo 2004-02-14 iki 2010-01-04
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
  
@@ -239,7 +239,10 @@ BENDRIJOS STEIGIMAS
 11 straipsnis. Bendrijos steigimas
 
 
-1. Bendrijos steigimo iniciatyvos teisę turi kiekvienas daugiabučio namo patalpų savininkas ar jų grupė, taip pat vietos savivaldos vykdomoji institucija, kita už namo priežiūrą atsakinga įmonė, įstaiga, organizacija .
+1. Bendrijos steigimo iniciatyvos teisę turi kiekvienas daugiabučio namo patalpų savininkas ar jų grupė, taip pat savivaldybės administracijos direktorius ar už namo priežiūrą atsakinga įmonė, įstaiga, organizacija.
+Straipsnio dalies pakeitimai:
+Nr. IX-1989, 2004-01-29, Žin., 2004, Nr. 25-758 (2004-02-14), i. k. 1041010ISTA0IX-1989
+ 
 
 
 
@@ -260,12 +263,18 @@ BENDRIJOS STEIGIMAS
 
 
 
-2. Apie šaukiamą steigiamąjį susirinkimą steigimo iniciatorius ne vėliau kaip prieš dvi savaites iki susirinkimo dienos viešai praneša visiems namo patalpų savininkams ir raštu - vietos savivaldos vykdomajai institucijai, kitai už namo priežiūrą atsakingai įmonei, įstaigai, organizacijai, kartu pateikdamas darbotvarkę ir bendrijos įstatų projektą.
+2. Apie šaukiamą steigiamąjį susirinkimą steigimo iniciatorius ne vėliau kaip prieš dvi savaites iki susirinkimo dienos viešai praneša visiems namo patalpų savininkams ir raštu – savivaldybės administracijos direktoriui ir už namo priežiūrą atsakingai įmonei, įstaigai, organizacijai, kartu pateikdamas darbotvarkę ir bendrijos įstatų projektą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1989, 2004-01-29, Žin., 2004, Nr. 25-758 (2004-02-14), i. k. 1041010ISTA0IX-1989
+ 
 
 
 
 
-3. Vietos savivaldos vykdomoji institucija ar kita už namo priežiūrą atsakinga įmonė, įstaiga, organizacija privalo deleguoti savo įgaliotą atstovą ir pateikti bendrijos steigimo iniciatoriams namo patalpų savininkų bei jiems priklausančių patalpų sąrašą. Jame nurodoma namo patalpų savininkų vardas, pavardė ir asmens kodas (juridinio asmens pavadinimas ir adresas), jiems priklausančių patalpų naudingasis plotas, patalpų paskirtis, nuosavybės teisės įgijimo pagrindas ir data.
+3. Savivaldybės administracijos direktorius ar už namo priežiūrą atsakinga įmonė, įstaiga, organizacija privalo deleguoti savo įgaliotą atstovą ir pateikti bendrijos steigimo iniciatoriams namo patalpų savininkų bei jiems priklausančių patalpų sąrašą. Jame nurodoma namo patalpų savininkų vardas, pavardė, asmens kodas (juridinio asmens pavadinimas ir adresas), jiems priklausančių patalpų naudingasis plotas, patalpų paskirtis, nuosavybės teisės įgijimo pagrindas ir data.
+Straipsnio dalies pakeitimai:
+Nr. IX-1989, 2004-01-29, Žin., 2004, Nr. 25-758 (2004-02-14), i. k. 1041010ISTA0IX-1989
+ 
 
 
 
@@ -1213,12 +1222,18 @@ Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA
 
 
 
-3. Savivaldybių rėmimo būdus ir sąlygas nustato vietos savivaldos institucijos atitinkamose rėmimo programose.
+3. Savivaldybių rėmimo būdus ir sąlygas nustato savivaldybių tarybos atitinkamose rėmimo programose. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1989, 2004-01-29, Žin., 2004, Nr. 25-758 (2004-02-14), i. k. 1041010ISTA0IX-1989
+ 
 
 
 
 
-4. Vietos savivaldos institucijos nemokamai konsultuoja bendrijas steigimo, veiklos, reorganizavimo klausimais.
+4. Savivaldybių administracijų direktoriai organizuoja ir užtikrina bendrijų nemokamą konsultavimą jų steigimo, veiklos ir reorganizavimo klausimais. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1989, 2004-01-29, Žin., 2004, Nr. 25-758 (2004-02-14), i. k. 1041010ISTA0IX-1989
+ 
 
 
 
@@ -1253,7 +1268,11 @@ Individualių gyvenamųjų namų ir dalimis (patalpomis) privatizuotų garažų,
 35 straipsnis. Ginčų sprendimas
 
 
-Ginčai tarp bendrijos ir bendrijos narių, tarp bendrijos ir kitų fizinių, juridinių asmenų, valstybės ar savivaldybės spendžiami įstatymų nustatyta tvarka.
+Ginčai tarp bendrijos ir bendrijos narių, tarp bendrijos ir kitų fizinių, juridinių asmenų, valstybės ar savivaldybės institucijų sprendžiami įstatymų nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1989, 2004-01-29, Žin., 2004, Nr. 25-758 (2004-02-14), i. k. 1041010ISTA0IX-1989
  
 
 
@@ -1261,8 +1280,7 @@ Ginčai tarp bendrijos ir bendrijos narių, tarp bendrijos ir kitų fizinių, ju
 
 
 
-
-
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
@@ -1295,3 +1313,8 @@ Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo (19
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
 Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo ir Daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymo 2 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1989, 2004-01-29, Žin., 2004, Nr. 25-758 (2004-02-14), i. k. 1041010ISTA0IX-1989
+Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo 11, 12, 32 ir 35 straipsnių pakeitimo įstatymas
