@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BF57F35FC82"
 
 # Lietuvos Respublikos pramoninio dizaino įstatymas
 
-Suvestinė redakcija nuo 2000-05-24 iki 2000-12-31
+Įstatymas netenka galios 2003-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1181, 2002-11-07, Žin., 2002, Nr. 112-4980 (2002-11-22), i. k. 1021010ISTA0IX-1181
+Lietuvos Respublikos dizaino įstatymas
+ 
+Suvestinė redakcija nuo 2001-01-01 iki 2002-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1531, i. k. 0951010ISTA00I-1006
  
@@ -300,6 +305,14 @@ Teisę pareikšti ieškinį dėl teisės į pramoninį dizainą pažeidimo turi 
 Kiekviena licencinės sutarties šalis turi teisę dalyvauti kitos šalies pradėtame teismo procese dėl teisių į pramoninį dizainą pažeidimo ir gauti atlyginimą už padarytą žalą.
  
 
+261 straipsnis. Muitinės priežiūros priemonių taikymas
+
+Gaminiams ir jų dalims, kurių importas į Lietuvos Respubliką ir eksportas iš Lietuvos Respublikos laikytinas teisių į pramoninį dizainą pažeidimu, gali būti taikomos įstatymų nustatytos muitinės priežiūros priemonės.
+
+Papildyta straipsniu:
+Nr. IX-119, 2000-12-21, Žin., 2000, Nr. 113-3613 (2000-12-30), i. k. 1001010ISTA00IX-119
+ 
+
 27 straipsnis. Pramoninio dizaino registracijos Lietuvos Respublikos pramoninio dizaino registre panaikinimas
 
 Pramoninio dizaino registracija panaikinama Lietuvos Respublikos pramoninio dizaino registre, jeigu:
@@ -344,4 +357,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1676, 2000-05-11, Žin., 2000, Nr. 42-1196 (2000-05-24), i. k. 1001010ISTAIII-1676
 Lietuvos Respublikos pramoninio dizaino įstatymo 5 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-119, 2000-12-21, Žin., 2000, Nr. 113-3613 (2000-12-30), i. k. 1001010ISTA00IX-119
+Lietuvos Respublikos pramoninio dizaino įstatymo papildymo 26(1) straipsniu įstatymas
 
