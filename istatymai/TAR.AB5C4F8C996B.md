@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB5C4F8C996B"
 
 # Lietuvos Respublikos strateginių prekių kontrolės įstatymas
 
+Suvestinė redakcija nuo 1997-07-09 iki 1998-07-14
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 61-1533, i. k. 0951010ISTA00I-1022
+ 
 LIETUVOS RESPUBLIKOS
 STRATEGINIŲ PREKIŲ IR TECHNOLOGIJŲ IMPORTO,
 TRANZITO IR EKSPORTO KONTROLĖS
@@ -156,20 +160,22 @@ II. LICENCIJAVIMO PROCEDŪRA
 6 straipsnis
 
 
-Kontroliuojamųjų prekių importui, tranzitui ir eksportui reikalinga Ekonomikos ministerijos licencija.
+Kontroliuojamųjų prekių importui, tranzitui ir eksportui reikalinga Ūkio ministerijos licencija.
 
 
 
 
-Lietuvos Respublikos Vyriausybės nustatyta tvarka Aplinkos apsaugos, Energetikos, Krašto apsaugos ministerijos, Muitinės departamentas prie Finansų ministerijos ir valstybinės tarnybos, kurių veiklos sričiai priklauso kontroliuojamosios prekės, konsultuoja Ekonomikos ministeriją, kai ji priima galutinį sprendimą išduoti licenciją, bei kontroliuoja šių prekių importo ir eksporto sandorius. Ekonomikos ministerija vadovauja importo, tranzito ir eksporto kontrolės darbams bei koordinuoja šią veiklą Lietuvos Respublikoje.
+Lietuvos Respublikos Vyriausybės nustatyta tvarka Aplinkos apsaugos, Krašto apsaugos, Užsienio reikalų, Vidaus reikalų ministerijos, Valstybinė atominės energetikos saugos inspekcija, Muitinės departamentas prie Finansų ministerijos ir valstybinės tarnybos, kurių veiklos sričiai priklauso kontroliuojamosios prekės, pateikia savo išvadas Ūkio ministerijai, kai ji priima galutinį sprendimą išduoti licenciją, bei kontroliuoja šių prekių importo ir eksporto sandorius. Ūkio ministerija vadovauja importo, tranzito ir eksporto kontrolės darbams bei koordinuoja šią veiklą Lietuvoje.
 
 
 
 
-Kontroliuojamųjų prekių importo, tranzito ir eksporto kompiuterizuotą apskaitą tvarko muitinės Muitinės departamento prie Finansų ministerijos nustatyta tvarka, o išduotų ir panaikintų licencijų kompiuterizuotą apskaitą - Ekonomikos ministerija.
+Kontroliuojamųjų prekių importo, tranzito ir eksporto kompiuterizuotą apskaitą tvarko teritorinės muitinės Muitinės departamento prie Finansų ministerijos nustatyta tvarka, o išduotų ir panaikintų licencijų kompiuterizuotą apskaitą - Ūkio ministerija.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
  
-
-
 
 
 
@@ -199,7 +205,10 @@ Kontroliuojamosios prekės importuojamos pagal eksportuojančios šalies ir Liet
 9 straipsnis
 
 
-Kontroliuojamųjų prekių gavėjas privalo raštu pateikti Ekonomikos ministerijai informaciją apie gautas kontroliuojamąsias prekes.
+Kontroliuojamųjų prekių gavėjas privalo raštu pateikti Ūkio ministerijai informaciją apie gautas kontroliuojamąsias prekes.
+Straipsnio dalies pakeitimai:
+Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
+ 
 
 
 
@@ -221,10 +230,12 @@ III. KONTROLĖS ATLIKIMAS
 10 straipsnis
 
 
-Lietuvos Respublikos Vyriausybės nustatyta tvarka Ekonomikos ministerijos ar eksportuojančios šalies atitinkamų institucijų prašymu Aplinkos apsaugos, Energetikos, Krašto apsaugos ministerijos, Muitinės departamentas prie Finansų ministerijos atlieka išankstinę kontroliuojamųjų prekių kontrolę.
+Lietuvos Respublikos Vyriausybės nustatyta tvarka Ūkio ministerijos ar eksportuojančios šalies atitinkamų institucijų prašymu Aplinkos apsaugos, Krašto apsaugos, Vidaus reikalų ministerijos, Valstybinė atominės energetikos saugos inspekcija, Muitinės departamentas prie Finansų ministerijos atlieka išankstinę kontroliuojamųjų prekių kontrolę.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
  
-
-
 
 
 
@@ -232,10 +243,12 @@ Lietuvos Respublikos Vyriausybės nustatyta tvarka Ekonomikos ministerijos ar ek
 11 straipsnis
 
 
-Kad būtų užtikrintas kontrolės sąlygų vykdymas, Aplinkos apsaugos, Energetikos, Krašto apsaugos ministerijos, Muitinės departamentas prie Finansų ministerijos kartu su Ekonomikos ministerija Lietuvos Respublikos Vyriausybės nustatyta tvarka atlieka nuolatinę kontrolę, t.y. tikrina kontroliuojamųjų prekių buvimo vietą ir jų naudojimą.
+Kad būtų užtikrintas kontrolės sąlygų vykdymas, Aplinkos apsaugos, Krašto apsaugos, Vidaus reikalų ministerijos, Valstybinė atominės energetikos saugos inspekcija, Muitinės departamentas prie Finansų ministerijos kartu su Ūkio ministerija Lietuvos Respublikos Vyriausybės nustatyta tvarka atlieka nuolatinę kontrolę, t.y. tikrina joms priskirtų kontroliuojamųjų prekių buvimo vietą ir jų naudojimą.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
  
-
-
 
 
 
@@ -270,15 +283,17 @@ Informacija, gauta remiantis šiuo įstatymu, yra slapta ir ją paskleidęs asmu
 14 straipsnis
 
 
-Lietuvos Respublikos Vyriausybės nustatyta tvarka ministerijos ir valstybės tarnybos, kurių veiklos sričiai priklauso kontroliuojamosios prekės, informuoja Ekonomikos ministeriją apie ūkio subjektus, fizinius asmenis ir valstybės institucijas, kurios nevykdo įsipareigojimų arba kontrolės sąlygų.
+Lietuvos Respublikos Vyriausybės nustatyta tvarka ministerijos ir valstybės tarnybos, kurių veiklos sričiai priklauso kontroliuojamosios prekės, informuoja Ūkio ministeriją apie ūkio subjektus, fizinius asmenis ir valstybės institucijas, kurios nevykdo įsipareigojimų arba kontrolės sąlygų.
 
 
 
 
-Ekonomikos ministerija parengia ir atspausdina sąrašą asmenų, kurie nevykdo įsipareigojimų arba kontrolės sąlygų. Šie asmenys Ekonomikos ministerijos sprendimu netenka galimybės užsiimti šio įstatymo nustatyta veikla.
+Ūkio ministerija parengia ir atspausdina sąrašą asmenų, kurie nevykdo įsipareigojimų arba kontrolės sąlygų. Šie asmenys Ūkio ministerijos sprendimu netenka galimybės užsiimti šio įstatymo nustatyta veikla.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
  
-
-
 
 
 
@@ -292,7 +307,10 @@ IV. ĮSIPAREIGOJIMŲ NEVYKDYMAS
 15 straipsnis
 
 
-Jeigu ūkio subjektas, fizinis asmuo arba valstybės institucija nevykdo įsipareigojimų arba kontrolės sąlygų, pateikia ne visą ar klaidinančią informaciją, Ekonomikos ministerija Lietuvos Respublikos Vyriausybės nustatyta tvarka panaikina licenciją.
+Jeigu ūkio subjektas, fizinis asmuo arba valstybės institucija nevykdo įsipareigojimų arba kontrolės sąlygų, pateikia ne visą ar klaidinančią informaciją, Ūkio ministerija Lietuvos Respublikos Vyriausybės nustatyta tvarka panaikina licenciją.
+Straipsnio dalies pakeitimai:
+Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
+ 
 
 
 
@@ -326,3 +344,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-345, 1997-06-30, Žin., 1997, Nr. 65-1557 (1997-07-09), i. k. 0971010ISTAVIII-345
+Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo 6, 9, 10, 11, 14, 15 straipsnių pakeitimo įstatymas
