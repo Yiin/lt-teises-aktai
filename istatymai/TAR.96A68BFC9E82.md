@@ -153,7 +153,7 @@ prisiekiu
 visomis išgalėmis stiprinti Lietuvos nepriklausomybę, 
 sąžiningai
 tarnauti Tėvynei, demokratijai, Lietuvos žmonių gerovei. “
-2. (neteko
+2. (Neteko
 galios)
 3. Ministras
 Pirmininkas ir ministrai prisiekia Seimo posėdyje. Į šį posėdį kviečiamas
@@ -839,8 +839,9 @@ Nr. IX-842,
  
 31(1)
 straipsnis. Ministerijos valstybės sekretorius ir ministerijos sekretoriai
-1. Ministerijos
-valstybės sekretorius yra karjeros valstybės tarnautojas, pavaldus ministrui.
+1. Ministerijos valstybės sekretorius yra karjeros
+valstybės tarnautojas, pavaldus ministrui. Užsienio reikalų ministerijos
+valstybės sekretoriumi gali būti ir diplomatas.
 2. Ministerijos
 valstybės sekretorius:
 1) koordinuoja
@@ -874,7 +875,8 @@ valstybės sekretorius saugo ministerijos antspaudą ir atsako už antspaudo
 naudojimą.
 4. Ministerijos
 sekretoriai yra karjeros valstybės tarnautojai, tiesiogiai pavaldūs
-ministerijos valstybės sekretoriui ir atsakingi ministrui.
+ministerijos valstybės sekretoriui ir atsakingi ministrui. Užsienio reikalų
+ministerijos sekretoriais gali būti ir diplomatai.
 5. Ministerijos
 sekretoriai ministro nustatytose administravimo srityse:
 1) organizuoja
@@ -894,12 +896,15 @@ ministro jiems pavestas funkcijas.
 papildytas straipsniu:
 Nr. IX-842,
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+Nr.
+IX-2521,
+2004-11-02, Žin., 2004, Nr. 167-6100 (2004-11-17)
  
 32 straipsnis.
 Ministerijų kolegijos
 1. Ministerijoje
-yra sudaroma kolegija kaip ministro patariamoji institucija. Kolegijos nariai yra
-ministras (kolegijos pirmininkas), viceministras, ministerijos valstybės
+yra sudaroma kolegija kaip ministro patariamoji institucija. Kolegijos nariai
+yra ministras (kolegijos pirmininkas), viceministras, ministerijos valstybės
 sekretorius ir ministerijos sekretoriai. Į kolegijos sudėtį gali būti
 įtraukiami kiti ministerijos bei kitų institucijų atstovai.
 2. Kolegijos
@@ -919,8 +924,8 @@ agentūras, inspekcijas ir kitas įstaigas).
 2. Vyriausybės
 įstaigos uždaviniai, funkcijos ir teisės nustatomos jos nuostatuose.
 3. Vyriausybės
-įstaigai vadovauja generalinis direktorius (direktorius, viršininkas).
-Vyriausybės įstaigos vadovas yra pavaldus Ministrui Pirmininkui.
+įstaigai vadovauja generalinis direktorius (direktorius, viršininkas). Vyriausybės
+įstaigos vadovas yra pavaldus Ministrui Pirmininkui.
 4. Vyriausybės
 įstaigos vadovas sprendžia įstaigos kompetencijai priskirtus klausimus, taip
 pat vykdo kitas įstatymų ir Vyriausybės nutarimų nustatytas funkcijas.
@@ -960,8 +965,8 @@ Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
  
 35
-straipsnis. Apskričių valdymo organizavimas ir savivaldybių veiklos administracinė
-
+straipsnis. Apskričių valdymo organizavimas ir savivaldybių veiklos
+administracinė 
 priežiūra
 1. Vyriausybė
 valdymą apskrityje - Lietuvos Respublikos teritorijos aukštesniajame
@@ -988,23 +993,23 @@ VEIKLOS ORGANIZAVIMAS
  
 36 straipsnis.
 Vyriausybės darbo reglamentas
-Vyriausybės darbo
-tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
+Vyriausybės
+darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
  
 37 straipsnis.
 Vyriausybės posėdžiai
 1. Vyriausybė
 valstybės valdymo reikalus sprendžia posėdžiuose visų Vyriausybės narių balsų
 dauguma priimdama nutarimus. 
-2. Vyriausybės
-posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos
-Respublikos Konstitucija ir kiti įstatymai.
+2. Vyriausybės posėdžiuose
+gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos Respublikos
+Konstitucija ir kiti įstatymai.
 3. Į Vyriausybės
 posėdžius gali būti kviečiami ir kiti asmenys.
 4. Svarbiausi
-klausimai gali būti aptariami prieš Vyriausybės posėdžius ministrų pasitarimuose,
-Ministro Pirmininko sudarytuose nuolatiniuose arba laikinuosiuose
-Vyriausybės komitetuose.
+klausimai gali būti aptariami prieš Vyriausybės posėdžius ministrų
+pasitarimuose, Ministro Pirmininko sudarytuose nuolatiniuose arba
+laikinuosiuose Vyriausybės komitetuose.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
@@ -1167,7 +1172,8 @@ vadovauja Vyriausybės kancleris.
 2. Vyriausybės
 kanceliarijos struktūrą ir nuostatus tvirtina Vyriausybė.
 3. Vyriausybės
-kanceliarijos karjeros valstybės tarnautojai yra pavaldūs Vyriausybės kancleriui.
+kanceliarijos karjeros valstybės tarnautojai yra pavaldūs Vyriausybės
+kancleriui.
 Įstatymas
 papildytas straipsniu:
 Nr. IX-842,
@@ -1376,6 +1382,17 @@ Nr. IX-2277,
 VYRIAUSYBĖS
 ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+17.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-2521,
+2004-11-02, Žin., 2004, Nr. 167-6100 (2004-11-17)
+VYRIAUSYBĖS
+ĮSTATYMO 31(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
+ 
  
 Konstitucinio
 Teismo nutarimai:
@@ -1384,19 +1401,15 @@ Teismo nutarimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
 DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 8
-STRAIPSNIO 2 IR 4 DALIŲ, 
-9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22 STRAIPSNIO 1 PUNKTO, 24
-STRAIPSNIO 
-2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3 DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4
-DALIŲ IR 
-6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4 DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO
-LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+STRAIPSNIO 2 IR 4 DALIŲ, 9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22
+STRAIPSNIO 1 PUNKTO, 24 STRAIPSNIO 2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3
+DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4
+DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušra Bodin (2004-06-25)
+Aušrinė Trapinskienė (2004-11-18)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
