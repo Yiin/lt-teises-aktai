@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2DC339105C33"
 
 # Lietuvos Respublikos muitų tarifų įstatymas
 
+Suvestinė redakcija nuo 1994-07-29 iki 1996-04-02
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 88-0; Žin. 1993, Nr.15-375, i. k. 0931010ISTA000I-138
+ 
 LIETUVOS RESPUBLIKOS
 MUITŲ TARIFŲ
 Į S T A T Y M A S
@@ -69,7 +73,10 @@ Visi šie muitai apskaičiuojami pagal Lietuvos Respublikos muitų tarifą.
 
 Lietuvos Respublikos muitų teritorijoje, atsižvelgiant į apskaičiavimo metodą, taikomi šie muitai:
 
-1) advalioriniai (vertybiniai) – apskaičiuojama apmuitinamų prekių ir kitų vertybių muitinės nustatomos vertės dydžio procentais;
+1) advalioriniai (vertybiniai) – apskaičiuojama apmokestinamų prekių ir kitų vertybių muitinės vertės dydžio procentais; 
+Straipsnio punkto pakeitimai:
+Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
+ 
 
 2) specifiniai – apskaičiuojama už prekių ir kitų vertybių mato vienetą pagal tvirtą tarifą;
 
@@ -99,29 +106,46 @@ Lietuvos Respublikos muitų teritorijoje, atsižvelgiant į Lietuvos ūkio inter
 9) statistiniai – taikomi Lietuvos Respublikos prekybos apyvartai apskaičiuoti.
  
 
-III. MUITŲ DYDIS
+III. PREKIŲ KILMĖ IR MUITŲ DYDIS
  
 
 9 straipsnis. 
 
-Apmokestinamų prekių ir kitų vertybių muitas apskaičiuojamas pagal deklaruojamą prekės vertę arba kainą. Nustatant muitų dydį, atsižvelgiama ir į sąskaitoje-faktūroje nurodytą prekės ir kitų vertybių kainą bei kitas faktines į sąskaitą-faktūrą neįtrauktas išlaidas:
+Taikant sumažintus muitus prekėms, kilusioms iš atskirų šalių, prekių kilmės šalimi laikoma šalis, kurioje prekės išgautos arba pagamintos.
 
-1) transportavimo, pakrovimo, iškrovimo, perkrovimo ir draudimo išlaidas iki Lietuvos Respublikos muitų sienos pervažiavimo punkto;
-
-2) komisinius ir brokerinius mokesčius.
+Prekių, pagamintų ne vienoje šalyje, kilmės šalimi laikoma šalis, kurioje atliktas esminis, ekonomiškai pagrįstas prekes sudarančių žaliavų, medžiagų arba sudėtinių dalių perdirbimas. Jeigu kitko nenumatyta Lietuvos Respublikos tarptautinėse sutartyse arba Lietuvos Respublikos Vyriausybės priimtuose teisės aktuose, prekių perdirbimas laikomas esminiu, kai pagaminta prekė klasifikuojama kitoje muitų tarifų pozicijoje, identifikuojamoje pagal pirmuosius keturis Harmonizuotos prekių aprašymo ir kodavimo sistemos prekių kodo ženklus, negu jos gamyboje panaudotos žaliavos, medžiagos arba sudėtinės dalys.
  
 
 10 straipsnis. 
 
-Jeigu prekių ir kitų vertybių savininko nurodyta deklaracijoje vertė arba kaina yra nereali arba jos negalima nustatyti ir patikrinti, muitinė muito dydį nustato pagal:
+Apmokestinamų prekių muitas apskaičiuojamas pagal jų muitinę vertę. Prekių muitinė vertė yra kaina (sandorio vertė), sumokėta ar priklausanti sumokėti už parduodamas prekes, kartu su į šią kainą neįskaičiuotomis, tačiau pirkėjui tenkančiomis išlaidomis:
 
-1) identiškų prekių ir kitų vertybių kainą Lietuvos rinkoje;
+1) transporto ir draudimo iki Lietuvos Respublikos valstybės sienos ar uosto kaštais;
 
-2) panašių arba tiesiogiai konkuruojančių prekių ir kitų vertybių kainą Lietuvos rinkoje;
+2) komisiniu atlyginimu, sumokėtu už prekių pardavimą;
 
-3) šių prekių ir kitų vertybių atsiskaitomąją vertę;
+3) prekių įpakavimo verte, jeigu prekės pateikiamos įpakuotos;
 
-4) minimalias eksporto arba importo kontrolines kainas, jeigu Lietuvos Respublikos Vyriausybė arba jos įgaliota valstybinė institucija yra tokias nustačiusi.
+4) mokesčiais už patentus ir licencijas, jeigu šie mokesčiai yra prekių pardavimo pirkėjui sąlyga;
+
+5) pajamomis (jų dalimi), gautomis parduodant, naudojant prekes arba kitaip disponuojant jomis, tiesiogiai arba netiesiogiai tenkančiomis pardavėjui;
+
+6) išlaidomis, susijusiomis su pirkėjo nemokamai ar mažesne negu rinkos kaina tiekiamomis prekėmis ar teikiamomis paslaugomis, kurios susijusios su įvertinamų prekių gamyba arba pardavimu.
+
+Jeigu sandorio vertės šiame straipsnyje nurodyta tvarka nustatyti neįmanoma, prekių muitinė vertė nustatoma paeiliui taikant šiuos įvertinimo metodus:
+
+1) tapačių prekių pardavimo sandorio maksimalios vertės;
+
+2) panašių prekių pardavimo sandorio maksimalios vertės;
+
+3) dedukcinį (prekių muitinė vertė nustatoma remiantis tapačių ar panašių prekių pardavimu Lietuvos Respublikoje maksimalia kaina);
+
+4) sumavimo (prekių muitinė vertė nustatoma sudedant prekių gamybos, įpakavimo, gabenimo ir kitas paprastai į prekių kainą įskaičiuojamas išlaidas).
+
+Prekių muitinio įvertinimo metodų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota valstybės institucija.
+
+Skyriaus pakeitimai:
+Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
  
 
 IV. MUITŲ APSKAIČIAVIMAS IR MOKĖJIMAS
@@ -129,7 +153,10 @@ IV. MUITŲ APSKAIČIAVIMAS IR MOKĖJIMAS
 
 11 straipsnis. 
 
-Lietuvos Respublikos muitinė muitą apskaičiuoja pagal muitų tarifų normas, galiojančias deklaracijos pateikimo dieną. Muito mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota valstybinė institucija.
+Lietuvos Respublikos muitinė muitą apskaičiuoja pagal eksporto, importo muitų tarifų normas, galiojančias krovinio eksporto-importo bei keleivio deklaracijų pateikimo dieną. Muito mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota valstybės institucija. 
+
+Straipsnio pakeitimai:
+Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
  
 
 12 straipsnis. 
@@ -186,11 +213,13 @@ VI. MUITŲ GRĄŽINIMAS, IŠIEŠKOJIMAS, APMOKESTINIMAS IR ATSAKOMYBĖ UŽ MUIT�
 
 Prekių ir kitų vertybių savininkui pareikalavus, nepagrįstai išieškoti muitai pagal Muitinės departamento prie Lietuvos Respublikos finansų ministerijos direktoriaus arba teismo sprendimą turi būti grąžinami per vienerius metus nuo muitų sumokėjimo dienos.
  
- 
 
 16 straipsnis. 
 
-Dėl prekių ir kitų vertybių savininko kaltės nesumokėtą muito sumą muitinė išieško per vienerius metus nuo muito įforminimo dienos.
+Dėl prekių ir kitų vertybių savininko kaltės nesumokėtą muito sumą muitinė privalo išieškoti iš juridinių asmenų ir juridinio asmens teisių neturinčių įmonių, veikiančių Lietuvos Respublikoje, ne ginčo tvarka, o iš fizinių asmenų - įstatymų nustatyta tvarka per vienerius metus nuo muito įforminimo dienos. 
+
+Straipsnio pakeitimai:
+Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
  
 
 17 straipsnis. 
@@ -200,7 +229,10 @@ Jeigu Lietuvos Respublikos tarptautinėse sutartyse numatyta kita apmokestinimo 
 
 18 straipsnis. 
 
-Nesumokėjus nustatytų muitų mokesčių, iš juridinių asmenų neginčo tvarka, o iš fizinių asmenų – įstatymų nustatyta tvarka išieškoma nesumokėto muito trigubo dydžio bauda.
+Laiku nesumokėjus arba nesumokėjus muitų mokesčių, iš juridinių asmenų ir juridinio asmens teisių neturinčių įmonių, veikiančių Lietuvos Respublikoje, ne ginčo tvarka, o iš fizinių asmenų – įstatymų nustatyta tvarka muitinė privalo išieškoti trigubo dydžio baudą per vienerius metus nuo muito įforminimo dienos.
+
+Straipsnio pakeitimai:
+Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
  
 
 VII. BAIGIAMOSIOS NUOSTATOS
@@ -220,4 +252,15 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 Vilnius, 1993 m. balandžio 27 d. 
 Nr. I-138
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
+Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos muitų tarifų įstatymo pakeitimo ir papildymo
 
