@@ -13,13 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AA670BE7B80D"
 
 # Dėl Lietuvos vystymo banko steigimo ir statuto patvirtinimo
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramunė Lūžaitė (1997.07.14)
 
 
 
 
 Redagavo:
-Ramunė Lūžaitė (1997.07.14)
+Ramunė Lūžaitė (1999.04.14)
  
 Įstatymas
 paskelbtas: Žin., 1993, Nr.74-1379
@@ -37,6 +37,15 @@ VIII-350, 97.06.30, Žin., 1997, Nr.66-1615 (97.07.11)
 LIETUVOS
 RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS VYSTYMO BANKO STEIGIMO IR STATUTO
 PATVIRTINIMO” PAKEITIMO ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-1114, 99.03.30, Žin., 1999, Nr.33-949 (99.04.14)
+LIETUVOS
+RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS VYSTYMO BANKO STEIGIMO IR STATUTO
+PATVIRTINIMO” PAPILDYMO IR JO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga *** 
@@ -72,6 +81,21 @@ normos.
      3.
 Pasiūlyti Lietuvos Respublikos Vyriausybei dalyvauti steigiant Lietuvos vystymo
 banką.
+4. Nustatyti, kad Lietuvos vystymo bankas
+pradeda veikti pagal Lietuvos Respublikos komercinių bankų įstatymą kaip
+komercinis bankas parengus Lietuvos vystymo banko statuto naują redakciją pagal
+Lietuvos Respublikos komercinių bankų įstatymą, statutą įregistravus Lietuvos
+Respublikos įmonių rejestro įstatymo nustatyta tvarka ir pakeitus banko
+licenciją. Šio įstatymo patvirtintu statutu Lietuvos vystymo bankas vadovaujasi
+iki naujos redakcijos statuto, parengto pagal Lietuvos Respublikos komercinių
+bankų įstatymą, įregistravimo Lietuvos Respublikos įmonių rejestro įstatymo
+nustatyta tvarka ir banko licencijos pakeitimo.
+ 
+Įstatymo
+pakeitimai:
+Nr.
+VIII-1114, 99.03.30, Žin., 1999, Nr.33-949 (99.04.14)
+ 
  
      Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -82,11 +106,11 @@ PREZIDENTAS            ALGIRDAS BRAZAUSKAS
  
                        Lietuvos
 Respublikos
-                       1993 m. gruodžio
+                       1993 m. gruodžio
 14 d.
                        įstatymo
 Nr.I-335
-                       priedėlis 
+                       priedėlis 
  
  
 LIETUVOS VYSTYMO BANKO
@@ -98,22 +122,25 @@ BENDRIEJI NUOSTATAI
      1
 straipsnis
  
-     Lietuvos
-vystymo bankas yra akcinis investicijų bankas, steigiamas Lietuvos Respublikos
-Vyriausybės kartu su Europos rekonstrukcijos ir vystymo banku, suteikiant
-galimybę dalyvauti ir kitiems Lietuvos bei užsienio akcininkams.
+UAB Lietuvos vystymo bankas (toliau -
+Lietuvos vystymo bankas) yra akcinio kapitalo pagrindu veikianti įmonė,
+steigiama Lietuvos Respublikos Vyriausybės kartu su Europos rekonstrukcijos ir
+vystymo banku, suteikiant galimybę dalyvauti ir kitiems Lietuvos bei užsienio
+akcininkams.
      Lietuvos
 vystymo bankas vadovaujasi Lietuvos Respublikos įstatymais,  šiuo  statutu  ir 
 tarptautinės  bankininkystės principais.
-     Lietuvos
-vystymo bankas yra juridinis asmuo, veikiantis nepriklausomai ir savarankiškai.
-Banko pavadinimas yra:
-     lietuviškai
-- Lietuvos vystymo bankas (sutrumpintai - LVB),
-     angliškai
-- Lithuanian Development Bank (sutrumpintai - LDB).
-     Banko
-būstinė yra Vilniuje.
+Lietuvos vystymo bankas yra juridinis asmuo,
+veikiantis nepriklausomai ir savarankiškai. Banko pavadinimas yra:
+lietuviškai - UAB Lietuvos vystymo
+bankas (sutrumpintai - LVB),
+angliškai - CSC Lithuanian Development
+Bank (sutrumpintai - LDB).
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-1114, 99.03.30, Žin., 1999, Nr.33-949 (99.04.14)
  
      2
 straipsnis
@@ -191,8 +218,8 @@ steigėjo pasirašomų akcijų skaičius,
      data,
 iki kurios visos akcijos turi būti apmokėtos;
      2)
-steigiamojo akcininkų susirinkimo protokolas, nurodantis išrinktus Direktorių 
-valdybos narius  ir  paskirtus  banko auditorius;
+steigiamojo akcininkų susirinkimo protokolas, nurodantis išrinktus Direktorių  valdybos
+narius  ir  paskirtus  banko auditorius;
      3)
 auditorių pažyma apie tai, kad pasirašytas akcinis kapitalas yra apmokėtas;
      4)
@@ -226,8 +253,8 @@ LVB KAPITALAS IR AKCIJOS
 straipsnis
  
      LVB
-akcinis kapitalas yra 10,8 milijono ekiu. Akcinis kapitalas padalintas į 108
-paprastąsias vardines akcijas, kurių kiekvienos nominali vertė 100 000 ekiu.
+akcinis kapitalas yra 10,8 milijono eurų. Akcinis kapitalas padalintas į 108
+paprastąsias vardines akcijas, kurių kiekvienos nominali vertė 100 000 eurų.
      Įmokos
 į  akcinį kapitalą  daromos steigimo ir akcijų pasirašymo sutartyje numatyta
 tvarka pinigais arba turtu.
@@ -241,7 +268,8 @@ Straipsnio
 pakeitimai:
 Nr.
 VIII-350, 97.06.30, Žin., 1997, Nr.66-1615 (97.07.11)
- 
+Nr.
+VIII-1114, 99.03.30, Žin., 1999, Nr.33-949 (99.04.14)
  
      9
 straipsnis 
@@ -263,9 +291,9 @@ straipsnis
      Visuotinis
 akcininkų susirinkimas nustato papildomos akcijų emisijos sąlygas, kapitalo
 padidinimo metu išleidžiamų akcijų klases ir kiekį, pasirašymo sąlygas ir
-tvarką. Pasirašytos akcijos turi būti apmokėtos per visuotinio akcininkų
-susirinkimo nustatytą laikotarpį, kuris negali būti ilgesnis kaip vieneri metai
-nuo akcijų pasirašymo dienos.
+tvarką. Pasirašytos akcijos turi būti apmokėtos per visuotinio akcininkų susirinkimo
+nustatytą laikotarpį, kuris negali būti ilgesnis kaip vieneri metai nuo akcijų
+pasirašymo dienos.
  
      11
 straipsnis
@@ -311,7 +339,7 @@ priežastis ir nustatant kapitalo mažinimo procedūrą.
  
  
                 
-                III skyrius
+                III skyrius
                                
 LVB FUNKCIJOS
  
@@ -371,10 +399,10 @@ suteikdamas ar garantuodamas paskolą, LVB turi gauti atitinkamą garantiją ar
 užmokestį, priklausantį nuo pagrindinio skolininko finansinio  pajėgumo 
 įvykdyti  savo  sutartinius įsipareigojimus;
      6)
-teikdamas paskolas ir investuodamas LVB siekia, kad komisiniai ir kiti mokesčiai,
-taip pat palūkanos už paskolas ir kitas operacijas būtų nustatomi tokio dydžio,
-jog atlygintų LVB išlaidas ir atneštų bankui komercinį pelną, taip pat atitiktų
-pasirinktos operacijos rinkos sąlygas;
+teikdamas paskolas ir investuodamas LVB siekia, kad komisiniai ir kiti
+mokesčiai, taip pat palūkanos už paskolas ir kitas operacijas būtų nustatomi
+tokio dydžio, jog atlygintų LVB išlaidas ir atneštų bankui komercinį pelną,
+taip pat atitiktų pasirinktos operacijos rinkos sąlygas;
      7)
 visos LVB teikiamos paslaugos yra mokamos.
  
@@ -407,8 +435,8 @@ sprendimą, kaip ir per kiek laiko pašalinti šį viršijimą.
      Lietuvos
 banko nustatomi ekonominiai normatyvai ir rezervai LVB nėra privalomi.
  
-                                  
-IV skyrius
+         
+                         IV skyrius
                           
 LVB VALDYMO INSTITUCIJOS
  
@@ -460,9 +488,9 @@ LVB likvidavimas ar sujungimas.
 susirinkimas gali priimti nutarimus, kai jame dalyvauja akcininkai, turintys
 daugiau kaip pusę visų balsų skaičiaus, arba jų įgalioti asmenys. Jeigu nėra
 kvorumo, tai Direktorių valdyba, vadovaudamasi šio statuto 19 straipsnyje
-nustatyta susirinkimų šaukimo tvarka, privalo nedelsdama sušaukti pakartotinį susirinkimą.
-Pakartotinis susirinkimas turi teisę priimti nutarimus, neatsižvelgiant į
-susirinkusiųjų akcininkų skaičių.
+nustatyta susirinkimų šaukimo tvarka, privalo nedelsdama sušaukti pakartotinį
+susirinkimą. Pakartotinis susirinkimas turi teisę priimti nutarimus,
+neatsižvelgiant į susirinkusiųjų akcininkų skaičių.
      Visuotinis
 susirinkimas gali spręsti tik tuos klausimus, kurie įrašyti į darbotvarkę,
 išskyrus atvejus, kai susirinkime dalyvauja visi akcininkai arba jų
@@ -543,15 +571,15 @@ straipsnis
 valdybos posėdžius šaukia pirmininkas, o jo nesant, pirmininko pavaduotojas, ne
 rečiau kaip 4 kartus per metus.
      Posėdis
-taip pat gali būti šaukiamas nors dviejų Direktorių valdybos narių arba
-prezidento, arba auditoriaus (auditorių) reikalavimu, pateikus posėdžio darbotvarkę.
+taip pat gali būti šaukiamas nors dviejų Direktorių valdybos narių arba prezidento,
+arba auditoriaus (auditorių) reikalavimu, pateikus posėdžio darbotvarkę.
      Direktorių
 valdyba priima nutarimus, kai posėdyje dalyvauja daugiau kaip pusė jos narių
 arba jų įgalioti asmenys. Direktorių valdybos nutarimai priimami dalyvaujančių
-ir balsuojančių narių balsų dauguma, išskyrus klausimus, išvardintus 21 straipsnio
-2, 3 ir 7 punktuose, kurie priimami 2/3 dalyvaujančių ir balsuojančių narių
-balsų. Kiekvienas narys turi vieną balsą. Balsų surinkus po lygiai, susirinkimo
-pirmininko balsas yra lemiantis.
+ir balsuojančių narių balsų dauguma, išskyrus klausimus, išvardintus 21
+straipsnio 2, 3 ir 7 punktuose, kurie priimami 2/3 dalyvaujančių ir
+balsuojančių narių balsų. Kiekvienas narys turi vieną balsą. Balsų surinkus po
+lygiai, susirinkimo pirmininko balsas yra lemiantis.
      Esant
 skubiam reikalui, Direktorių valdyba gali priimti nutarimus balsuodama laiškais
 ar telegrafu. Tokie nutarimai gali būti laikomi priimtais, jeigu apie
@@ -649,8 +677,8 @@ pelno paskirstymo.
  
                               
 VI skyrius
-                
-  LVB VEIKLOS KONTROLĖ IR AUDITAS
+                  
+LVB VEIKLOS KONTROLĖ IR AUDITAS
  
      29
 straipsnis
