@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
+Suvestinė redakcija nuo 1996-07-01 iki 2000-12-31
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
+ 
 LIETUVOS RESPUBLIKOS
 MOKESČIŲ UŽ VALSTYBINIUS GAMTOS IŠTEKLIUS
 Į S T A T Y M A S
@@ -85,7 +89,9 @@ IV. Mokesčio mokėjimo tvarka ir kontrolė
 
 
 
-7 straipsnis. Aplinkos apsaugos departamentas kontroliuoja mokesčių apskaičiavimo teisingumą. Už nuslėptą išteklių kiekį mokamas mokestis ir taikoma dešimteriopo tarifo dydžio ekonominė sankcija.
+7 straipsnis. Aplinkos apsaugos ministerija kontroliuoja mokesčių apskaičiavimo teisingumą. Už nuslėptą išteklių kiekį mokamas mokestis ir taikoma dešimteriopo tarifo dydžio bauda. 
+Straipsnio pakeitimai:
+Nr. I-1313, 1996-04-30, Žin., 1996, Nr. 46-1108 (1996-05-17), i. k. 0961010ISTA00I-1313
  
 
 
@@ -97,14 +103,17 @@ IV. Mokesčio mokėjimo tvarka ir kontrolė
 
 
 
-9 straipsnis. Laiku neapmokestinti mokėtojai apmokestinami ne daugiau kaip už dvejus praėjusius metus. Neteisingo apmokestinimo patikslinimas ir mokesčio grąžinimas arba išieškojimas taip pat leidžiamas ne daugiau kaip už dvejus metus.
+9 straipsnis. Laiku neapmokestinti mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka. 
+Straipsnio pakeitimai:
+Nr. I-1313, 1996-04-30, Žin., 1996, Nr. 46-1108 (1996-05-17), i. k. 0961010ISTA00I-1313
  
 
 
 
 
-10 straipsnis. 
-Mokesčių laiku nesumokėjus, už kiekvieną pavėluotą dieną imami 0,5 procento delspinigiai.
+10 straipsnis. Mokesčio laiku nesumokėjus, imami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka. 
+Straipsnio pakeitimai:
+Nr. I-1313, 1996-04-30, Žin., 1996, Nr. 46-1108 (1996-05-17), i. k. 0961010ISTA00I-1313
  
 
 
@@ -127,3 +136,14 @@ PIRMININKAS                                  �
  
 Vilnius, 1991 m. kovo 21 d. 
 Nr. I-1163
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1313, 1996-04-30, Žin., 1996, Nr. 46-1108 (1996-05-17), i. k. 0961010ISTA00I-1313
+Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 7, 9, 10 straipsnių pakeitimo įstatymas
