@@ -117,18 +117,8 @@ reglamentuoja įstatymo numatyta tvarka priimti ir užregistruoti įstatai
             Policijos pareigūnams
 draudžiama streikuoti.
  
-8(1) straipsnis. Mokesčių policijos departamentas prie Vidaus reikalų ministerijos
-Iki atskiro įstatymo, reglamentuojančio Mokesčių
-policijos departamento prie Vidaus reikalų ministerijos pertvarkymą, teisinį
-statusą bei veiklos pagrindus, įsigaliojimo, tačiau ne ilgiau kaip iki 2002 m.
-balandžio 1 d., Mokesčių policijos departamentui prie Vidaus reikalų
-ministerijos vadovauja šio departamento vyriausiasis komisaras. Mokesčių policijos
-departamento prie Vidaus reikalų ministerijos bei šio departamento padalinių
-pareigūnai iki atskiro įstatymo, reglamentuojančio Mokesčių policijos
-departamento prie Vidaus reikalų ministerijos pertvarkymą, teisinį statusą bei
-veiklos pagrindus, įsigaliojimo, tačiau ne ilgiau kaip iki 2002 m. balandžio 1
-d., turi visas policijos pareigūnų pareigas ir teises, nustatytas Lietuvos
-Respublikos policijos veiklos įstatyme.
+8(1) straipsnis. Neteko galios nuo
+2002 m. balandžio 1 d.
 Įstatymas
 papildytas straipsniu:
 Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
@@ -139,6 +129,9 @@ Nr. IX-393, 2001-06-26, Žin., 2001, Nr.
 Nr.
 IX-685,
 2001-12-21, Žin., 2001, Nr. 112-4091 (2001-12-30)
+Nr.
+IX-816,
+2002-03-28, Žin., 2002, Nr. 33-1250 (2002-03-30), įsigalioja nuo 2002-04-01
  
  
             9 straipsnis. Neteko galios.
@@ -284,8 +277,8 @@ valstybės tarnybai ar susijusius su nusikalstamo susivienijimo veikla valstybė
 pareigūnus bei organizuoja priemones šiai informacijai realizuoti, tiria
 nusikalstamų susivienijimų (organizuotų grupių) narių, asmenų, susijusių su
 nusikalstamo susivienijimo veikla, padarytus nusikaltimus, taip pat
-nusikaltimus valstybės tarnybai, atlieka kvotą ir parengtinį tardymą šiose
-baudžiamosiose bylose, imasi priemonių tokių nusikaltimų prevencijai.
+nusikaltimus valstybės tarnybai, atlieka kvotą ir parengtinį tardymą šiose baudžiamosiose
+bylose, imasi priemonių tokių nusikaltimų prevencijai.
 Įstatymas
 papildytas straipsniu:
 Nr.
@@ -380,14 +373,14 @@ POLICIJOJE
 tarnybon. Tarnybos policijoje teisinis reguliavimas
             Į tarnybą policijoje
 savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų mokantys
-valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą,
-asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka
-policijos pareigūno pareigoms. 
-Į tarnybą policijoje
-savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų mokantys
-valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą,
-asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka
-policijos pareigūno pareigoms.
+valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal išsilavinimą, asmenines
+savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę tinka policijos
+pareigūno pareigoms. 
+Į tarnybą
+policijoje savanoriškumo ir atrankos pagrindu priimami ne jaunesni kaip 18 metų
+mokantys valstybinę kalbą Lietuvos Respublikos piliečiai, kurie pagal
+išsilavinimą, asmenines savybes, dalykinį ir fizinį pasirengimą bei sveikatos
+būklę tinka policijos pareigūno pareigoms.
             Pirmą kartą priimtiems į
 tarnybą Lietuvos Respublikos policijoje ir neturintiems specialiojo ar aukštojo
 išsilavinimo piliečiams suteikiamas pirmasis policininko stažuotojo pareiginis
@@ -413,7 +406,6 @@ Nr.
 I-514,
 94.06.28, Žin., 1994, Nr. 53-994 (94.07.13) 
  
- 
             26 straipsnis. Policijos
 pareigūno priesaika
             Policijos pareigūnai,
@@ -438,9 +430,9 @@ prisiekti, į policiją nepriimami.
  
 27 straipsnis. Pareiginiai
 laipsniai 
-Policijos
-pareigūnų tarnybos stažui, kvalifikacijai ir einamoms pareigoms pažymėti bei
-santykiams reguliuoti yra šie pareiginiai laipsniai:
+Policijos pareigūnų
+tarnybos stažui, kvalifikacijai ir einamoms pareigoms pažymėti bei santykiams
+reguliuoti yra šie pareiginiai laipsniai:
 policininkas
 stažuotojas
 policininkas
@@ -461,12 +453,12 @@ vyriausiasis
 komisaras
 generalinis
 komisaras.
-Policijos pareiginiai
-laipsniai suteikiami pareigūnams skiriant juos į atitinkamas pareigas ir kai
-jie yra išlaikę kvalifikacinį egzaminą, kurio reikalavimus ir tvarką nustato
-Lietuvos Respublikos vidaus reikalų ministras. Lietuvos teisės universiteto
-Policijos fakulteto policijos pareigūnus į pareigas Universiteto statute
-nustatyta tvarka skiria Universiteto rektorius, o pareiginius laipsnius
+Policijos
+pareiginiai laipsniai suteikiami pareigūnams skiriant juos į atitinkamas
+pareigas ir kai jie yra išlaikę kvalifikacinį egzaminą, kurio reikalavimus ir
+tvarką nustato Lietuvos Respublikos vidaus reikalų ministras. Lietuvos teisės
+universiteto Policijos fakulteto policijos pareigūnus į pareigas Universiteto
+statute nustatyta tvarka skiria Universiteto rektorius, o pareiginius laipsnius
 Universiteto rektoriaus teikimu jiems suteikia vidaus reikalų ministras.
 Policijos
 pareigūnų kvalifikacijai pažymėti nustatomos pareiginio laipsnio kvalifikacinės
@@ -484,7 +476,6 @@ Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
 Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
 109-3478 (2000 12 22)
- 
  
             28 straipsnis. Neteko
 galios.
@@ -521,11 +512,11 @@ Nr.90-2777 (00.10.27)
  
             31 straipsnis. Policijos
 rezervas
-            Lietuvos Respublikos
-policijos įstaigos turi policijos rezervą. Jį sudaro policijos pareigūnai, dėl
-objektyvių priežasčių atleisti iš tarnybos ir jų sutikimu perkelti į policijos
-rezervą, bei tinkantys tarnybai policijoje Lietuvos Respublikos piliečiai,
-kurie pasižada sąžiningai ir dorai vykdyti jiems patikėtas pareigas. Asmenys į
+            Lietuvos Respublikos policijos
+įstaigos turi policijos rezervą. Jį sudaro policijos pareigūnai, dėl objektyvių
+priežasčių atleisti iš tarnybos ir jų sutikimu perkelti į policijos rezervą,
+bei tinkantys tarnybai policijoje Lietuvos Respublikos piliečiai, kurie
+pasižada sąžiningai ir dorai vykdyti jiems patikėtas pareigas. Asmenys į
 policijos rezervą atrenkami pagal šiame įstatyme numatytus bendruosius
 policijos komplektavimo reikalavimus.
             Piliečiai, esantys policijos
@@ -546,7 +537,6 @@ specialiosiose mokyklose.
             Asmenims, baigusiems kitas
 aukštąsias mokyklas ir perėjusiems dirbti į policiją, organizuojami
 perkvalifikavimo kursai.
- 
  
 IV SKIRSNIS.
 POLICIJOS
@@ -633,7 +623,6 @@ pakeitimai:
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
  
- 
 V SKIRSNIS.
 POLICIJOS
 GINKLAI IR SPECIALIOSIOS PRIEMONĖS, JŲ NAUDOJIMO SĄLYGOS
@@ -694,9 +683,9 @@ vietą, užsienio kalbų mokėjimą, taip pat šeimyniniai ir specialūs priedai
 slaptą darbą, kompensuojamos persikėlimo išlaidos, išmokamos vienkartinės
 pašalpos bei kitos išmokos.
             Pagrindinės algos, papildomo
-apmokėjimo, priedų, kompensacijų, pašalpų ir kitų išmokų dydį bei skyrimo
-tvarką reguliuoja Lietuvos Respublikos įstatymai ir nustato Respublikos
-Vyriausybė vidaus reikalų ministro teikimu.
+apmokėjimo, priedų, kompensacijų, pašalpų ir kitų išmokų dydį bei skyrimo tvarką
+reguliuoja Lietuvos Respublikos įstatymai ir nustato Respublikos Vyriausybė
+vidaus reikalų ministro teikimu.
  
             46 straipsnis. Policijos
 pareigūnų pensijos
@@ -707,8 +696,8 @@ aprūpinimą.
 policijos pareigūnams, tarnaujantiems Lietuvos Respublikos policijoje, draudimą
 nuo nelaimingų atsitikimų.
             Policijos pareigūnų pensijų
-ir socialinių garantijų dydį nustato Lietuvos Respublikos įstatymai, o jų
-taikymo tvarką Lietuvos Respublikos Vyriausybė. 
+ir socialinių garantijų dydį nustato Lietuvos Respublikos įstatymai, o jų taikymo
+tvarką Lietuvos Respublikos Vyriausybė. 
  
             47 straipsnis. Kitos
 policijos pareigūnų socialinės garantijos
@@ -719,8 +708,8 @@ Už tai jiems papildomai apmokama šio įstatymo 45 straipsnyje numatyta tvarka.
             Nustatoma tokia kasmetinių
 atostogų trukmė policijos pareigūnams, ištarnavusiems policijoje (vidaus
 reikalų sistemoje):
-            iki 10 metų - 30
-kalendorinių dienų;
+            iki 10 metų - 30 kalendorinių
+dienų;
             nuo 10 iki 15 metų - 35
 kalendorinės dienos;
             nuo 15 iki 20 metų - 40
@@ -728,8 +717,8 @@ kalendorinių dienų;
             daugiau kaip 20 metų - 45
 kalendorinės dienos.
             Policijos pareigūnai
-įstatymų bei kitų norminių aktų nustatyta tvarka turi teisę į kompensaciją už
-išlaidas medikamentams, kelialapiams bei sanatoriniam gydymui.
+įstatymų bei kitų norminių aktų nustatyta tvarka turi teisę į kompensaciją už išlaidas
+medikamentams, kelialapiams bei sanatoriniam gydymui.
             Policijos darbuotojų
 sveikatos apsaugos ir socialinio draudimo ypatumus reglamentuoja nuostatai,
 kuriuos tvirtina vidaus reikalų, sveikatos apsaugos ir socialinės apsaugos
@@ -742,7 +731,6 @@ I-1338,
 Nr.
 I-1080,
 95.10.31, Žin., 1995, Nr. 92-2056 (95.11.10) 
- 
  
 48 straipsnis.
 Policijos pareigūnų draudimas 
@@ -786,7 +774,6 @@ Nr.
 VIII-772,
 98.06.09, Žin., 1998, Nr.57-1579 (98.06.24)
  
- 
 48(1)
 straipsnis. Kompensacijos policijos pareigūno žūties ar sveikatos sutrikimo
 atveju
@@ -797,8 +784,8 @@ jo sutuoktiniui, nepilnamečiams vaikams (įvaikiams), iki jiems sukaks 16 metų
 taip pat vaikams (įvaikiams), besimokantiems nustatyta tvarka įregistruotų
 mokymo įstaigų dieniniuose skyriuose, iki jiems sukaks 24 metai, žuvusiojo
 vaikams, gimusiems po jo mirties, tėvui (motinai) bei nedarbingiems asmenims,
-kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo
-išlaikymą. Žuvusysis laidojamas valstybės lėšomis.
+kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą.
+Žuvusysis laidojamas valstybės lėšomis.
 Policijos
 pareigūnui, kuris buvo sužalotas vykdydamas tarnybines pareigas ir dėl to liko
 sveikatos pakitimų bei sumažėjo jo tinkamumas tarnybai, neatsižvelgiant į
@@ -820,7 +807,6 @@ pakeitimai:
 Nr.
 VIII-772,
 98.06.09, Žin., 1998, Nr.57-1579 (98.06.24)
- 
  
 VII SKIRSNIS.
 POLICIJOS
@@ -898,9 +884,9 @@ I-1080,
 DĖL
 KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU
 LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU
-LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO
-KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO IR
-PAPILDYMO
+LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ
+VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO
+IR PAPILDYMO
  
 5.
 Lietuvos
@@ -973,12 +959,22 @@ Nr. IX-685,
 POLICIJOS
 ĮSTATYMO 8(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-816,
+2002-03-28, Žin., 2002, Nr. 33-1250 (2002-03-30)
+FINANSINIŲ
+NUSIKALTIMŲ TYRIMO TARNYBOS ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2002 m. balandžio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-01-04)
+Aušrinė Trapinskienė (2002-04-02)
                  
 autrap@lrs.lt
 
