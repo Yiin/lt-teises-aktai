@@ -627,8 +627,7 @@ patikslintas ir išieškotas Lietuvos Respublikos mokesčių administravimo
 įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
-Nr.
-I-1309,
+Nr. I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
  
@@ -657,8 +656,8 @@ I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
  
-     22
-straipsnis. 
+     22 straipsnis.
+
      Jeigu išskaitytų mokesčių sumos į biudžetą
 pervedamos ne laiku, imami delspinigiai Lietuvos Respublikos mokesčių
 administravimo įstatymo nustatyta tvarka.
@@ -691,8 +690,7 @@ asmens teisių neturinčių individualių (personalinių) įmonių ir ūkinių
 bendrijų pajamų
 apmokestinimo tvarka
  
-     24
-straipsnis.
+     24 straipsnis.
      Žemės ūkio produkciją gaminančių ir paslaugas
 žemės ūkiui teikiančių ūkinių bendrijų, juridinio asmens teisių neturinčių
 individualių (personalinių) įmonių, kurių įplaukos už realizuotą žemės ūkio
@@ -704,8 +702,8 @@ nustatyta tvarka įregistruotos komercinės ūkinės veiklos apmokestinamos 5%
 dydžio pajamų mokesčiu. Jei įplaukos už realizuotą žemės ūkio produkciją ir
 žemės ūkio paslaugas bendrosiose realizavimo įplaukose sudaro nuo 65% iki 75%,
 apmokestinamosios pajamos apmokestinamos 10% dydžio pajamų mokesčiu.
-            Kitų ūkinių bendrijų ir juridinio asmens teisių
-neturinčių individualių (personalinių) įmonių apmokestinamosios pajamos
+            Kitų ūkinių bendrijų ir juridinio asmens
+teisių neturinčių individualių (personalinių) įmonių apmokestinamosios pajamos
 apmokestinamos taikant 24 procentų pajamų mokesčio tarifą. Pajamos, panaudotos
 investicijai, apmokestinamos Juridinių asmenų pelno mokesčio įstatymo 7
 straipsnio pirmosios dalies 2 punkte nustatyta tvarka arba šių įmonių lėšos
@@ -730,14 +728,14 @@ būtinoms pagrindinėms priemonėms įsigyti, tyrimams bei naujoms technologijom
 diegti, taip pat investicijoms ir kapitaliniams įdėjimams zonose, į
 apmokestinamą pelną neįtraukiama.
      Jeigu ūkinė
-bendrija ir juridinio asmens statuso neturinti individuali (personalinė) įmonė buvo
-įsteigta (registruota) arba užsienio kapitalas buvo investuotas iki 1993 m.
-gruodžio 31 d., tai jos pajamų dalis (proporcinga užsienio investicijos daliai
-įmonės nuosavame kapitale), tenkanti šiai užsienio investicijai ir nepanaudota
-darbo užmokesčiui, taip pat reinvestuota įmonėje, 5 metus nuo įplaukų gavimo
-dienos apmokestinama 70 procentų mažesniu pajamų mokesčiu. Šiam terminui
-pasibaigus, užsienio investicijai tenkanti pajamų dalis 3 metus apmokestinama
-50 procentų mažesniu pajamų mokesčiu.
+bendrija ir juridinio asmens statuso neturinti individuali (personalinė) įmonė
+buvo įsteigta (registruota) arba užsienio kapitalas buvo investuotas iki 1993
+m. gruodžio 31 d., tai jos pajamų dalis (proporcinga užsienio investicijos
+daliai įmonės nuosavame kapitale), tenkanti šiai užsienio investicijai ir
+nepanaudota darbo užmokesčiui, taip pat reinvestuota įmonėje, 5 metus nuo
+įplaukų gavimo dienos apmokestinama 70 procentų mažesniu pajamų mokesčiu. Šiam
+terminui pasibaigus, užsienio investicijai tenkanti pajamų dalis 3 metus
+apmokestinama 50 procentų mažesniu pajamų mokesčiu.
      Jei tokia
 įmonė buvo įsteigta (registruota) arba užsienio kapitalas buvo investuotas nuo
 1994 m. sausio 1 d. iki 1995 m. rugpjūčio 1 d., tai pajamų dalis, tenkanti
@@ -794,21 +792,22 @@ zonose (teritorijose, kuriose mokesčiai mažesni negu Lietuvos Respublikoje),
 pajamos, gautos iš Lietuvos Respublikos juridinio asmens teisių neturinčių
 individualių (personalinių) įmonių ir ūkinių bendrijų, apmokestinamos prie
 pajamų šaltinio taikant 15 procentų tarifą. Šių valstybių arba zonų sąrašą bei
-apmokestinamųjų pajamų rūšis ir mokesčio mokėjimo tvarką nustato Lietuvos Respublikos
-Vyriausybė ar jos įgaliota institucija.
+apmokestinamųjų pajamų rūšis ir mokesčio mokėjimo tvarką nustato Lietuvos
+Respublikos Vyriausybė ar jos įgaliota institucija.
 Lietuvos
 Respublikos ūkinių bendrijų ir juridinio asmens teisių neturinčių individualių
 (personalinių) įmonių gaunami dividendai apmokestinami taikant 29 procentų
 pajamų mokesčio tarifą. Pajamų mokestį apskaičiuoja, išskaito ir sumoka į
 biudžetą dividendus išmokanti Lietuvos Respublikos įmonė. Dividendus iš
 užsienio valstybių įmonių gaunanti Lietuvos Respublikos ūkinė bendrija arba
-juridinio asmens teisių neturinti individuali (personalinė) įmonė mokestį apskaičiuoja
-ir sumoka į biudžetą pati ne vėliau kaip per 10 kalendorinių dienų po dividendų
-gavimo dienos. Dividendų gavimo iš užsienio valstybių įmonių ir pajamų mokesčio
-apskaičiavimo apyskaita pateikiama per 10 kalendorinių dienų nuo
-dividendų gavimo dienos tam vietos mokesčio administratoriui, kurio veiklos
-teritorijoje įregistruota pajamų mokestį apskaičiuojanti įmonė. Apyskaitos
-formą ir jos užpildymo tvarką nustato centrinis mokesčio administratorius.
+juridinio asmens teisių neturinti individuali (personalinė) įmonė mokestį
+apskaičiuoja ir sumoka į biudžetą pati ne vėliau kaip per 10 kalendorinių dienų
+po dividendų gavimo dienos. Dividendų gavimo iš užsienio valstybių įmonių ir
+pajamų mokesčio apskaičiavimo apyskaita pateikiama per 10 kalendorinių dienų
+nuo dividendų gavimo dienos tam vietos mokesčio administratoriui, kurio
+veiklos teritorijoje įregistruota pajamų mokestį apskaičiuojanti įmonė.
+Apyskaitos formą ir jos užpildymo tvarką nustato centrinis mokesčio
+administratorius.
 Sveikatos
 priežiūros paslaugas teikiančių juridinių asmens teisių neturinčių individualių
 (personalinių) įmonių ir ūkinių bendrijų gautos įplaukos už paslaugas,
@@ -1117,12 +1116,12 @@ avansinio mokesčio mokėjimo termino, nustatyto šiame straipsnyje, kreiptis į
 vietos mokesčio administratorių, kad sumažintų likusius pajamų avansinius
 mokesčius arba nuo jų atleistų. Vietos mokesčio administratorius tokiam
 mokesčio mokėtojui turi sumažinti mokesčio mokėjimo avansu prievolės sumą
-proporcingai sumažėjusioms įplaukoms arba atleisti nuo pajamų avansinio
-mokesčio. Jeigu šio mokesčio mokėtojo einamųjų metų bendrosios įplaukos vėl
-padidėjo iki 25 procentų ir daugiau, jis privalo ne vėliau kaip prieš mėnesį
-iki eilinio pajamų avansinio mokesčio mokėjimo termino kreiptis į vietos
-mokesčio administratorių, kad padidintų likusius pajamų avansinius mokesčius.
-Pajamų mokesčio avansinė apyskaita už pirmuosius keturis mokestinio laikotarpio
+proporcingai sumažėjusioms įplaukoms arba atleisti nuo pajamų avansinio mokesčio.
+Jeigu šio mokesčio mokėtojo einamųjų metų bendrosios įplaukos vėl padidėjo iki
+25 procentų ir daugiau, jis privalo ne vėliau kaip prieš mėnesį iki eilinio
+pajamų avansinio mokesčio mokėjimo termino kreiptis į vietos mokesčio
+administratorių, kad padidintų likusius pajamų avansinius mokesčius. Pajamų
+mokesčio avansinė apyskaita už pirmuosius keturis mokestinio laikotarpio
 mėnesius pateikiama iki mokestinio laikotarpio pirmojo mėnesio (sausio)
 paskutinės dienos. Pajamų mokesčio avansinė apyskaita už mokestinio laikotarpio
 penktąjį-dvyliktąjį mėnesius pateikiama iki mokestinio laikotarpio penktojo
@@ -1228,8 +1227,8 @@ I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
 Nr. VIII-865,
 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
-Nr. VIII-1813, 00.07.11, Žin., 2000, Nr.64-1911
-(00.07.31)
+Nr. VIII-1813, 00.07.11, Žin., 2000,
+Nr.64-1911 (00.07.31)
  
  
 V. Gyventojų
@@ -1430,9 +1429,9 @@ metus neviršija 10 tūkst. litų, taip pat dovanojimo būdu gautos pajamos
 gaunami alimentai;
 4)
 žalai atlyginti gautos sumos netekus maitintojo bei darbingumo;
-5) teismų priteistos sumos
-materialinei ir moralinei žalai atlyginti bei įstatymų ir Vyriausybės nustatytų
-normų neviršijančios piniginės kompensacijos;
+5) teismų priteistos
+sumos materialinei ir moralinei žalai atlyginti bei įstatymų ir Vyriausybės
+nustatytų normų neviršijančios piniginės kompensacijos;
 6) palūkanos už Lietuvos
 Respublikos ūkio subjektų obligacijas ir už Lietuvos Respublikos Vyriausybės
 bei savivaldybių vertybinius popierius, taip pat palūkanos už tarptautinių
@@ -1775,12 +1774,30 @@ Nr.I-2280,
 1992.02.06, Žin., 1992, Nr. 7-150
  
  
+Įstatymas
+papildytas VI skyriumi:
+Nr. VIII-1878, 00.07.18, Žin., 2000,
+Nr.64-1943 (00.07.31)
+ 
+VI. Pasiūlymai Lietuvos
+Respublikos Vyriausybei 
+arba jos įgaliotai institucijai
+ 
+ 
+43 straipsnis.
+Pasiūlyti
+Lietuvos Respublikos Vyriausybei arba jos įgaliotai institucijai nustatyti
+Pajamų, gautų natūra, pripažinimo, įvertinimo rinkos kaina ir apskaičiavimo
+tvarką.
+ 
+ 
  
 LIETUVOS RESPUBLIKOS 
 AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                                           V.
 LANDSBERGIS 
  
 Vilnius, 1990 m. spalio 5 d. Nr. I-641 
+ 
  
 Lietuvos Respublikos fizinių
 asmenų
@@ -2170,8 +2187,8 @@ STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 1.
 Šio įstatymo 6 straipsnio 1 dalies nuostatos dėl mokestiniu laikotarpiu
 atsiradusioms beviltiškoms skoloms tenkančių sąnaudų įtraukimo į sąnaudas
-nustatant apmokestinamąsias pajamas taikomos beviltiškoms skoloms, atsiradusioms
-ne anksčiau kaip 1996 metais. 
+nustatant apmokestinamąsias pajamas taikomos beviltiškoms skoloms,
+atsiradusioms ne anksčiau kaip 1996 metais. 
 2. Šio įstatymo 1 straipsnio, 4 straipsnio 2 dalies, 5 straipsnio, 6
 straipsnio 1 dalies, 7 straipsnio, 8 straipsnio 1 dalies, 9 straipsnio, 10
 straipsnio, 12 straipsnio, išskyrus jame pakeistą 35 straipsnio 14 punktą,
@@ -2203,6 +2220,13 @@ apmokestinant šias pajamas ir palūkanas, gautas pagal sutartis, sudarytas iki
 4. Šio įstatymo 2, 3, 11
 straipsnių nuostatos, 12 straipsnyje pakeistas 35 straipsnio 14 punktas
 įsigalioja nuo 2001 m. sausio 1 d.
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1878, 00.07.18, Žin., 2000,
+Nr.64-1943 (00.07.31)
+FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO
+PAPILDYMO VI SKYRIUMI ĮSTATYMAS
  
 *** Pabaiga ***
  
