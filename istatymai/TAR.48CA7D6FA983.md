@@ -448,8 +448,19 @@ papildomo apmokėjimo, priedų, kompensacijų, pašalpų ir kitų išmokų dydį
 skyrimo tvarką nustato Lietuvos Respublikos įstatymai, Vyriausybės nutarimai
 bei Saugumo departamento statutas. 
  
-            28 straipsnis. Saugumo departamento
-pareigūnų ištarnautas laikas
+[27 straipsnio 2 dalies redakcija nuo
+2001 m. liepos 1 d:
+Tarnybinio atlyginimo, papildomo apmokėjimo, priedų,
+kompensacijų, pašalpų ir kitų išmokų dydį bei skyrimo tvarką nustato Lietuvos
+Respublikos įstatymai.]
+Straipsnio
+pakeitimai:
+Nr. IX-267, 2001 04 19, Žin., 2001, Nr.
+39-1338 (2001 05 09), įsigalioja nuo 2001 07 01
+ 
+ 
+            28 straipsnis. Saugumo
+departamento pareigūnų ištarnautas laikas
             Į Saugumo departamento
 pareigūno ištarnautą laiką, kuris suteikia teisę gauti Saugumo departamento
 pareigūno pensiją iki Lietuvos Respublikos vidaus reikalų, valstybės saugumo,
@@ -468,8 +479,8 @@ aukštosiose civilinėse mokymo įstaigose, taip pat stacionarinėse vidaus
 reikalų, krašto apsaugos ir kitose statutiniais pagrindais veikiančiose mokymo
 įstaigose laikas, jeigu jas baigę asmenys iš karto paskirti į šiame straipsnyje
 numatytas pareigas ir jas ėjo;
-            5) darbo teisėjais, prokurorais,
-jų pavaduotojais ir tardytojais laikas;
+            5) darbo teisėjais,
+prokurorais, jų pavaduotojais ir tardytojais laikas;
             6) tarnyba Lietuvos
 Respublikos Aukščiausiosios Tarybos ar Seimo apsaugos skyriuose pareigūnais;
             7) mokslo tiriamojo darbo
@@ -479,15 +490,15 @@ kariuomenėje, vidaus reikalų ir specialiosiose tarnybose Lietuvos Respublikos
 Vyriausybės nustatyta tvarka.
 Straipsnio
 pakeitimai:
-Nr.1-694,
-94.12.13, Žin., 1994, Nr.99-1959
+Nr.I-694, 94.12.13,
+Žin., 1994, Nr.99-1959
  
  
             29 straipsnis. Saugumo
 departamento pareigūnų pensijos
-            Saugumo departamento pareigūnų
-aprūpinimo pensijomis tvarką reguliuoja atskiras atitinkamų tarnybų pareigūnų
-pensinio aprūpinimo įstatymas. 
+            Saugumo departamento
+pareigūnų aprūpinimo pensijomis tvarką reguliuoja atskiras atitinkamų tarnybų
+pareigūnų pensinio aprūpinimo įstatymas. 
  
             30 straipsnis. Saugumo
 departamento pareigūnų atostogos
@@ -509,12 +520,12 @@ trukmę bei jų suteikimo tvarką nustato Saugumo departamento statutas.
 Saugumo departamento pareigūnams
             Saugumo departamento
 pareigūno, žuvusio ryšium su tarnyba, šeimai išmokama vienkartinė dešimties
-metų (120 mėnesių) darbo užmokesčio dydžio kompensacija. Jis laidojamas
-valstybės lėšomis.
+metų (120 mėnesių) darbo užmokesčio dydžio kompensacija. Jis laidojamas valstybės
+lėšomis.
             Saugumo departamento
 pareigūnui, sužeistam ryšium su tarnyba, išmokama iki penkerių metų (iki 60
-mėnesių) darbo užmokesčio dydžio kompensacija, atsižvelgiant į kūno sužalojimų sunkumo
-laipsnį.
+mėnesių) darbo užmokesčio dydžio kompensacija, atsižvelgiant į kūno sužalojimų
+sunkumo laipsnį.
             Saugumo departamento
 pareigūnams visiškai atlyginama materialinė žala, kurią jie patiria dėl
 tarnybos. 
@@ -529,9 +540,9 @@ pareigas iki atleidimo iš jų dienos.
 departamento pareigūnų aprūpinimas butais
             Saugumo departamento
 pareigūnai aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
-            Lietuvos Respublikos Vyriausybės
-nustatyta tvarka atskirų Saugumo departamento padalinių pareigūnams gali būti
-suteikti tarnybiniai butai. 
+            Lietuvos Respublikos
+Vyriausybės nustatyta tvarka atskirų Saugumo departamento padalinių pareigūnams
+gali būti suteikti tarnybiniai butai. 
  
             34 straipsnis. Kitos Saugumo
 departamento pareigūnų socialinės garantijos
@@ -622,8 +633,18 @@ Nr. VIII-1945,
 VALSTYBĖS SAUGUMO DEPARTAMENTO ĮSTATYMO 7, 8 IR 19
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-267, 2001 04 19, Žin., 2001, Nr.
+39-1338 (2001 05 09)
+VALSTYBĖS SAUGUMO DEPARTAMENTO ĮSTATYMO 27 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2001 m. liepos 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.10.04)
+Redagavo: Aušrinė Trapinskienė (2001 05 16)
+                  autrap@lrs.lt
 
