@@ -17,7 +17,6 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 54-1492
 Neoficialus įstatymo tekstas
  
- 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO
 ĮSTATYMAS
@@ -26,7 +25,6 @@ Vilnius
 Nauja įstatymo redakcija:
 Nr. IX-900,
 2002-05-23, Žin., 2002, Nr. 60-2412 (2002-06-19)
- 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
@@ -257,8 +255,8 @@ pagal sandorius;
 4)
 paveldėdama turtą;
 5)
-įstatymų nustatyta tvarka paimdama visuomenės poreikiams fizinių ir juridinių asmenų,
-veikiančių Lietuvos Respublikos teritorijoje, turtą;
+įstatymų nustatyta tvarka paimdama visuomenės poreikiams fizinių ir juridinių
+asmenų, veikiančių Lietuvos Respublikos teritorijoje, turtą;
 6)
 pagal Vyriausybės nutarimą perimdama savivaldybės turtą, jei šį turtą valstybei
 nusprendžia perduoti savivaldybės taryba;
@@ -449,8 +447,8 @@ remdamasi Civilinio kodekso 6.967 straipsnio 1 dalies 5 punktu, jei juridinis
 asmuo (patikėtinis) nebegali (ar atsisako) įgyvendinti savivaldybių funkcijų,
 kurioms įgyvendinti pagal patikėjimo sutartį buvo perduotas turtas. Pasibaigus
 turto patikėjimo sutarčiai, turtą patikėjimo teise valdo, naudoja ir juo
-disponuoja sutartį pasirašiusi savivaldybės institucija ar įstaiga, jei savivaldybės
-taryba nenustato kitaip.
+disponuoja sutartį pasirašiusi savivaldybės institucija ar įstaiga, jei
+savivaldybės taryba nenustato kitaip.
 4.
 Patikėjimo teisė į perduodamą savivaldybės turtą atsiranda nuo turto perdavimo
 patikėjimo teisės subjektui (patikėtiniui) ir turto perdavimo–priėmimo akto
@@ -488,16 +486,16 @@ partijoms;
 kitiems subjektams, jei tai nustatyta įstatymuose arba tarptautinėse sutartyse.
 2.
 Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1
-dalyje nurodytiems subjektams priima Vyriausybė ar jos įgaliota institucija.
-Sprendimą dėl savivaldybės turto perdavimo pagal panaudos sutartį šio
-straipsnio 1 dalyje nurodytiems subjektams priima savivaldybės taryba ar jos
-įgaliota institucija. Sprendime turi būti nurodytas panaudos sutarties
-terminas, taip pat gali būti nurodytos kitos panaudos sąlygos. Šios sąlygos
-privalo būti įrašytos į panaudos sutartį. Vyriausybės įgaliota institucija
-sprendimus priima Vyriausybės nustatyta tvarka. Savivaldybės tarybos įgaliota
-institucija sprendimus priima savivaldybės tarybos nustatyta tvarka. Valstybės
-ar savivaldybės turto panaudos sutartį sudaro valstybės ar savivaldybės turto
-valdytojas, valdantis valstybės ar savivaldybės turtą patikėjimo teise. 
+dalyje nurodytiems subjektams priima Vyriausybė ar jos įgaliota institucija. Sprendimą
+dėl savivaldybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje
+nurodytiems subjektams priima savivaldybės taryba ar jos įgaliota institucija.
+Sprendime turi būti nurodytas panaudos sutarties terminas, taip pat gali būti
+nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į panaudos
+sutartį. Vyriausybės įgaliota institucija sprendimus priima Vyriausybės
+nustatyta tvarka. Savivaldybės tarybos įgaliota institucija sprendimus priima
+savivaldybės tarybos nustatyta tvarka. Valstybės ar savivaldybės turto panaudos
+sutartį sudaro valstybės ar savivaldybės turto valdytojas, valdantis valstybės
+ar savivaldybės turtą patikėjimo teise. 
 3.
 Valstybės ar savivaldybės turto panaudos sutartyje turi būti nustatyta pagal
 panaudos sutartį perduodamo turto naudojimo paskirtis, panaudos gavėjo pareiga
@@ -752,11 +750,10 @@ jis sugenda ar sugadinamas;
 5)
 jis stichinių nelaimių, avarijų metu sunaikinamas (sugadinamas) ir šis faktas
 atitinkamai įforminamas;
-6)
-jo negalima naudoti dėl trečiųjų asmenų veikos, jei yra įsiteisėjęs kvotos
-organo, tardytojo, prokuroro nutarimas, teismo ar teisėjo nutartis nutraukti
-baudžiamąją bylą arba teismo ar teisėjo nutarimai nutraukti administracinio
-teisės pažeidimo bylą;
+6) jo negalima naudoti dėl trečiųjų
+asmenų veikos, jei yra įsiteisėjęs prokuroro nutarimas ar ikiteisminio tyrimo
+teisėjo sprendimas dėl ikiteisminio tyrimo nutraukimo arba teismo ar teisėjo
+nutarimai nutraukti administracinio teisės pažeidimo bylą;
 7)
 jis trukdo statyti naujus statinius arba rekonstruoti esamus statinius ar
 teritorijas. Ši nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus
@@ -781,6 +778,9 @@ dėl turto, kurį valdo šio Įstatymo 9 straipsnio 4 dalyje bei 11 straipsnio 3
 dalyje numatyti asmenys, pripažinimo nereikalingu arba netinkamu (negalimu)
 naudoti priimamas jį gražinus valstybės ar savivaldybės institucijai ar
 įstaigai, sudariusiai sutartį. 
+Straipsnio pakeitimai:
+Nr. IX-1476,
+2003-04-03, Žin., 2003, Nr. 38-1721 (2003-04-24)
  
 23
 straipsnis. Nereikalingo arba netinkamo (negalimo) naudoti valstybės ir
@@ -789,9 +789,9 @@ turto
 panaudojimas ir nurašymas
 1.
 Panaudoti nereikalingą ar netinkamą (negalimą) naudoti valstybės ar
-savivaldybės nematerialųjį, ilgalaikį ir trumpalaikį materialųjį turtą, išskyrus
-šio Įstatymo 22 straipsnio 1 dalies 6 punkte nurodytą atvejį, galima šiais
-būdais:
+savivaldybės nematerialųjį, ilgalaikį ir trumpalaikį materialųjį turtą,
+išskyrus šio Įstatymo 22 straipsnio 1 dalies 6 punkte nurodytą atvejį, galima
+šiais būdais:
 1)
 perduodant patikėjimo teise iš vienos valstybės ar savivaldybių institucijos,
 valstybės ar savivaldybės įstaigos ar organizacijos kitai tokiai institucijai,
@@ -963,16 +963,29 @@ IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO
 Nauja įstatymo redakcija
 Šio Įstatymo 1 straipsnyje
 išdėstyto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo
-įstatymo 13 straipsnio 3 dalies ir 14 straipsnio 5 dalies nuostatos dėl
-neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo
-sudarytos iki šio Įstatymo įsigaliojimo.
+įstatymo 13 straipsnio 3 dalies ir 14 straipsnio 5 dalies nuostatos dėl neatlyginimo
+už perduoto turto pagerinimą netaikomos sutartims, kurios buvo sudarytos iki
+šio Įstatymo įsigaliojimo.
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1476,
+2003-04-03, Žin., 2003, Nr. 38-1721 (2003-04-24)
+VALSTYBĖS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 22
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas
+įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr.
+89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr.
+37-1341), t.y. nuo 2003 m. gegužės 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-06-19)
+Aušrinė Trapinskienė (2003-04-30)
                  
 autrap@lrs.lt
