@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.85CFB188C5F8"
 
 # Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2000-06-16
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 67-1940, i. k. 0981010ISTAVIII-854
+ 
+ 
 LIETUVOS RESPUBLIKOS
 ŠVIETIMO ĮSTATYMO PAKEITIMO
 ĮSTATYMAS
@@ -299,6 +304,10 @@ Lietuvos Respublikoje nustatomas toks išsilavinimo cenzas: pradinis, pagrindini
 
 
 4. Švietimo įstaigos gali būti steigiamos kelių steigėjų sutarties pagrindu. Tėvų pageidavimu valstybės ar savivaldybių švietimo įstaigos (klasės, grupės) gali būti sutarties pagrindu steigiamos kartu su valstybės pripažinta tradicine religine bendrija šios bendrijos, savivaldybių tarybos ar valstybės institucijos iniciatyva. Šių švietimo įstaigų steigimo, reorganizavimo ir likvidavimo tvarką, suderintą su valstybės pripažintomis tradicinėmis religinėmis bendrijomis, nustato Vyriausybė ar jos įgaliota institucija.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos švietimo įstatymo 10 straipsnio 4 dalis ta apimtimi, kuria nustatyta, kad valstybinėse ir savivaldybių švietimo įstaigose kartu su valstybės pripažintomis tradicinėmis religinėmis bendrijomis gali būti steigiamos klasės arba grupės, taip pat 10 straipsnio 4 dalies nuostata „suderintą su valstybės pripažintomis tradicinėmis religinėmis bendrijomis“ prieštarauja Lietuvos Respublikos Konstitucijos 40 straipsnio 1 daliai.
+Straipsnio dalies pakeitimai:
+2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. 1001000NUTARG001408            
+ 
 
 
 
@@ -855,7 +864,6 @@ Mokslo metai bendrojo lavinimo mokyklose pradedami nuo rugsėjo pirmos dienos.
 
 
 1. Valstybinės ir savivaldybių švietimo įstaigos savo darbe vadovaujasi jų savivaldos institucijų aprobuotais ir steigėjo patvirtintais įstaigos veiklos nuostatais, kurie turi neprieštarauti šiam ir kitiems įstatymams bei atitinkamo tipo švietimo įstaigų bendriesiems veiklos nuostatams. 
- 
 
 
 
@@ -874,8 +882,14 @@ Mokslo metai bendrojo lavinimo mokyklose pradedami nuo rugsėjo pirmos dienos.
 
 
 3) vadovų ir pedagogų atestaciją organizuoja abu steigėjai (pagal savo kompetenciją).
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos švietimo įstatymo 32 straipsnio 2 dalies 1 punkto nuostata, kurioje įtvirtinta, kad skiriant ir atleidžiant valstybės ir savivaldybių švietimo įstaigų vadovus yra reikalingas tradicinės religinės bendrijos teikimas, ir 32 straipsnio 2 dalies 2 ir 3 punktai prieštarauja Lietuvos Respublikos Konstitucijos 25 straipsnio 1 daliai, 26 straipsnio 1 bei 2 dalims ir 40 straipsnio 1 daliai.
+Pripažinti, kad Lietuvos Respublikos švietimo įstatymo 32 straipsnio 2 dalies 2 punktas prieštarauja Lietuvos Respublikos Konstitucijos 25 straipsnio 1 daliai, 26 straipsnio 1 ir 2 dalims, 40 straipsnio 1 daliai ir 42 straipsnio 2 daliai.
+Pripažinti, kad Lietuvos Respublikos švietimo įstatymo 32 straipsnio 2 dalis prieštarauja Lietuvos Respublikos Konstitucijos 40 straipsnio 1 daliai.
 
 
+Straipsnio dalies pakeitimai:
+2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. 1001000NUTARG001408            
+ 
 
 
 
@@ -913,6 +927,10 @@ Mokslo metai bendrojo lavinimo mokyklose pradedami nuo rugsėjo pirmos dienos.
 
 
 2. Švietimo įstaigų veiklą organizuoja ir prižiūri jų steigėjai Bendrųjų švietimo įstaigų priežiūros nuostatų nustatyta tvarka.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos švietimo įstatymo 34 straipsnio 2 dalis ta apimtimi, kuria įtvirtinta valstybės pripažintų tradicinių religinių bendrijų – švietimo įstaigų steigėjų teisė prižiūrėti ne tik tikybos mokymą valstybinėse ir savivaldybių mokymo ir auklėjimo įstaigose, bet ir visą šių įstaigų veiklą, prieštarauja Lietuvos Respublikos Konstitucijos 40 straipsnio 1 daliai.
+Straipsnio dalies pakeitimai:
+2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. 1001000NUTARG001408            
+ 
 
 
 
@@ -1395,3 +1413,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. 1001000NUTARG001408                
+Dėl Lietuvos Respublikos švietimo įstatymo 1 straipsnio 5 punkto, 10 straipsnio 3 ir 4 dalių, 15 straipsnio 1 dalies, 20 straipsnio, 21 straipsnio 2 punkto, 32 straipsnio 2 dalies, 34 straipsnio 2, 3 ir 4 dalių, 35 straipsnio 2 ir 5 punktų, 37 straipsnio 2 punkto ir 38 straipsnio 2 ir 3 punktų atitikimo Lietuvos Respublikos Konstitucijai
