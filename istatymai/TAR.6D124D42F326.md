@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6D124D42F326"
 
 # Lietuvos Respublikos pilietybės įstatymas
 
-Suvestinė redakcija nuo 1993-12-18 iki 1993-12-21
+Suvestinė redakcija nuo 1993-12-22 iki 1995-06-27
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 251-0; Žin. 1991, Nr.36-977, i. k. 0911010ISTA00I-2072
  
@@ -263,6 +263,10 @@ Asmeniui, netekusiam Lietuvos Respublikos pilietybės šio įstatymo 19 straipsn
 Lietuvos Respublikos pilietybės suteikimo aktas pripažįstamas negaliojančiu, jeigu natūralizuotas asmuo arba optantas įgijo Lietuvos Respublikos pilietybę pagal suklastotus dokumentus ar kitokios apgaulės būdu, arba neatsisakė kitos valstybės pilietybės, arba teismui nustačius, kad jis iki pilietybės suteikimo ar po to padarė tarptautinės teisės numatytų nusikaltimų žmogiškumui, vykdė genocidą arba padarė nusikaltimų Lietuvos Respublikai.
 
 Lietuvos Respublikos pilietybės suteikimo aktas gali būti pripažintas negaliojančiu taip pat ir tuo atveju, kai teismas nustatys, jog konkretus asmuo po 1940 m. birželio 15 d. organizavo ar vykdė gyventojų trėmimus ar gyventojų naikinimą, slopino rezistencinį judėjimą Lietuvoje ar po 1990 m. kovo 11 d. dalyvavo veiksmuose, nukreiptuose prieš Lietuvos Respublikos nepriklausomybę ir jos teritorijos vientisumą.
+
+Lietuvos Respublikos pilietis, įgijęs kitos valstybės pilietybę ar gavęs kitos valstybės piliečio pasą arba kitą tos valstybės pilietybę patvirtinantį dokumentą po to, kai jam buvo išduoti Lietuvos Respublikos pilietybės dokumentai, netenka Lietuvos Respublikos pilietybės nuo kitos valstybės pilietybės įgijimo ar tos valstybės piliečio paso ar kito tos valstybės pilietybę patvirtinančio dokumento išdavimo dienos.
+Papildyta straipsnio dalimi:
+Nr. I-332, 1993-12-14, Žin., 1993, Nr. 71-1327 (1993-12-22), i. k. 0931010ISTA000I-332
  
 
 IV. VAIKŲ PILIETYBĖ, PASIKEITUS TĖVŲ PILIETYBEI
@@ -467,4 +471,9 @@ Dėl Lietuvos Respublikos pilietybės įstatymo pakeitimo ir papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-320, 1993-12-07, Žin., 1993, Nr. 70-1303 (1993-12-18), i. k. 0931010ISTA000I-320
 Dėl Lietuvos Respublikos pilietybės įstatymo 18 straipsnio pakeitimo
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-332, 1993-12-14, Žin., 1993, Nr. 71-1327 (1993-12-22), i. k. 0931010ISTA000I-332
+Dėl Lietuvos Respublikos pilietybės įstatymo 23 straipsnio papildymo
 
