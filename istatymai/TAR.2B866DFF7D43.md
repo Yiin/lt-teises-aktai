@@ -324,8 +324,7 @@ Lietuvos Respublikos baudžiamuosius įstatymus galima baudžiamoji atsakomybė 
 jo padarytą veiką;
 5) padaryta
 veika pagal šį kodeksą nelaikoma nusikaltimu ar baudžiamuoju nusižengimu,
-išskyrus atvejus, kai Europos arešto orderis išduotas dėl 2002 m. birželio 13
-d. Tarybos pagrindų sprendimo 2002/584/TVR dėl Europos arešto orderio ir
+išskyrus atvejus, kai Europos arešto orderis išduotas dėl 2002 m. birželio 13 d. Tarybos pagrindų sprendimo 2002/584/TVR dėl Europos arešto orderio ir
 valstybių narių tarpusavio perdavimo procedūrų 2 straipsnio 2 dalyje numatytos
 nusikalstamos veikos, o Europos arešto orderį išdavusios valstybės baudžiamieji
 įstatymai už šią nusikalstamą veiką numato ne mažesnę negu trejų metų su
@@ -5839,27 +5838,32 @@ Straipsnio pakeitimai:
 Nr. IX-1495,
 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
  
-292 straipsnis. Neteisėtas žmonių gabenimas per valstybės sieną
-1.
-Tas, kas neteisėtai per Lietuvos Respublikos valstybės sieną gabeno nuolatinės
-gyvenamosios vietos Lietuvos Respublikoje neturintį užsienietį arba neteisėtai
-valstybės sieną perėjusį tokį užsienietį gabeno ar slėpė Lietuvos Respublikos
-teritorijoje,
-baudžiamas
-bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
-2.
-Tas, kas organizavo neteisėtą nuolatinės gyvenamosios vietos Lietuvos
-Respublikoje neturinčių užsieniečių gabenimą per Lietuvos Respublikos valstybės
-sieną ar organizavo neteisėtai perėjusių valstybės sieną tokių užsieniečių
-gabenimą ar slėpimą Lietuvos Respublikos teritorijoje,
+292
+straipsnis. Neteisėtas žmonių gabenimas per valstybės sieną
+1. Tas, kas neteisėtai per Lietuvos Respublikos
+valstybės sieną gabeno nuolatinės gyvenamosios vietos Lietuvos Respublikoje
+neturintį užsienietį arba neteisėtai valstybės sieną perėjusį tokį užsienietį
+gabeno ar slėpė Lietuvos Respublikos teritorijoje,
+baudžiamas bauda arba areštu, arba laisvės atėmimu
+iki šešerių metų.
+2. Tas, kas padarė šio straipsnio
+1 dalyje numatytas veikas dėl savanaudiškų paskatų, arba jeigu tai sukėlė
+pavojų asmens gyvybei,
+baudžiamas laisvės atėmimu iki
+aštuonerių metų.
+3.Tas, kas
+organizavo šio straipsnio 1 dalyje numatytas veikas,
 baudžiamas
 laisvės atėmimu nuo ketverių iki dešimties metų.
-3.
-Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+4. Už šiame
+straipsnyje numatytas veikas atsako ir juridinis asmuo.
+Straipsnio pakeitimai:
+Nr. X-61, 2004-12-22,
+Žin., 2004, Nr. 188-6995 (2004-12-31)
  
 293
-straipsnis. Lietuvos Respublikos piliečių kelionių į užsienį nelegaliai ten jiems
-pasilikti arba palikti be pagalbos organizavimas
+straipsnis. Lietuvos Respublikos piliečių kelionių į užsienį nelegaliai ten
+jiems pasilikti arba palikti be pagalbos organizavimas
 1. Tas, kas organizavo Lietuvos Respublikos piliečius ar
 nuolatinius gyventojus keliauti į užsienį prašytis prieglobsčio ar ten
 nelegaliai dirbti, ar dėl kitų priežasčių nelegaliai pasilikti užsienyje arba
@@ -5889,10 +5893,10 @@ reikalavimas.
 295 straipsnis. Neteisėtas specialios
 technikos įrengimas ar panaudojimas informacijai rinkti
 Tas,
-kas neteisėtai įrengė ar panaudojo specialią techniką žmogui sekti, informacijai
-apie valstybės, savivaldybės instituciją, įstaigą ar jų tarnautoją, politinę
-partiją, visuomeninę organizaciją ar jų narį, kitą juridinį ar fizinį asmenį
-rinkti,
+kas neteisėtai įrengė ar panaudojo specialią techniką žmogui sekti,
+informacijai apie valstybės, savivaldybės instituciją, įstaigą ar jų
+tarnautoją, politinę partiją, visuomeninę organizaciją ar jų narį, kitą
+juridinį ar fizinį asmenį rinkti,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
  
@@ -5955,10 +5959,10 @@ laisvės atėmimu iki penkerių metų.
 Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
  
 301 straipsnis. Antspaudo, spaudo ar blanko suklastojimas
-1.
-Tas, kas suklastojo tikrą ar pagamino netikrą fizinio ar juridinio asmens
-antspaudą, spaudą ar griežtos atskaitomybės blanką arba pasinaudojo žinomai
-suklastotu antspaudu, spaudu ar blanku, arba jį realizavo,
+1. Tas,
+kas suklastojo tikrą ar pagamino netikrą fizinio ar juridinio asmens antspaudą,
+spaudą ar griežtos atskaitomybės blanką arba pasinaudojo žinomai suklastotu
+antspaudu, spaudu ar blanku, arba jį realizavo,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 2.
@@ -6050,8 +6054,8 @@ suklastojo, neteisėtai sunaikino ar pakeitė transporto priemonės identifikavi
 numerius,
 baudžiamas bauda
 arba areštu, arba laisvės atėmimu iki dvejų metų.
-2. Už šiame
-straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2. Už šiame straipsnyje
+numatytą veiką atsako ir juridinis asmuo.
 Kodeksas papildytas
 straipsniu:
 Nr. IX-1495,
@@ -6163,8 +6167,8 @@ baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 2.
 Tas, kas viešai paskleidė apie mirusįjį melagingus prasimanymus, galinčius
-nulemti žmonių panieką ar pakirsti pagarbą jo atminimui, padarė baudžiamąjį nusižengimą
-ir
+nulemti žmonių panieką ar pakirsti pagarbą jo atminimui, padarė baudžiamąjį
+nusižengimą ir
 baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 3.
@@ -6318,8 +6322,8 @@ laisvės atėmimu iki penkerių metų.
 326 straipsnis. Valstybės sienos apsaugos tarnybos taisyklių
 pažeidimas 
 1.
-Karys, karo padėties metu atlikdamas Lietuvos Respublikos valstybės sienos
-apsaugos tarnybą pažeidęs šios tarnybos taisykles, jeigu dėl to atsirado sunkių
+Karys, karo padėties metu atlikdamas Lietuvos Respublikos valstybės sienos apsaugos
+tarnybą pažeidęs šios tarnybos taisykles, jeigu dėl to atsirado sunkių
 padarinių,
 baudžiamas
 laisvės atėmimu iki penkerių metų.
@@ -6360,23 +6364,28 @@ būdais iki nustatyto amžiaus neatlikęs privalomosios pradinės ar
 alternatyviosios tarnybos ir nuo jos neatleistas. 
  
  
-                                                                                                            Lietuvos
-Respublikos 
-                                                                                                            baudžiamojo
+Lietuvos Respublikos 
+                                                                                    baudžiamojo
 kodekso 
-                                                                                                            priedas
+                                                                                    priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2002 m. birželio
-13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio ir valstybių narių
-tarpusavio perdavimo procedūrų.
+1. 2002 m. birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio ir
+valstybių narių tarpusavio perdavimo procedūrų.
+2. 2002 m. lapkričio 28 d. Tarybos direktyva 2002/90/EB, apibrėžianti padėjimą neteisėtai atvykti, vykti
+tranzitu ir apsigyventi.
+3. 2002 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2002/946/TVR dėl bausmių sistemos stiprinimo
+siekiant užkirsti kelią padėjimui neteisėtai atvykti, vykti tranzitu ir
+apsigyventi.
 Kodeksas papildytas priedu:
 Nr. IX-2169,
 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
+Priedo pakeitimai:
+Nr. X-61, 2004-12-22,
+Žin., 2004, Nr. 188-6995 (2004-12-31)
  
-_________________
- 
+_______________
 Pakeitimai:
  
 1.
@@ -6490,11 +6499,19 @@ IX-2570,
 BAUDŽIAMOJO
 KODEKSO PAPILDYMO 250(1) STRAIPSNIU ĮSTATYMAS
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-61,
+2004-12-22, Žin., 2004, Nr. 188-6995 (2004-12-31)
+BAUDŽIAMOJO
+KODEKSO 292 STRAIPSNIO PAKEITIMO IR PRIEDO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušrinė Trapinskienė (2004-12-01)
-                 
-autrap@lrs.lt
+Aušrinė Trapinskienė (2004-12-31)
+              
+   autrap@lrs.lt
