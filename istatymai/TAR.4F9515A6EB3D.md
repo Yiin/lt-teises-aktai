@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 2002-12-24 iki 2003-06-29
+Suvestinė redakcija nuo 2003-06-30 iki 2003-12-29
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
  
@@ -103,11 +103,12 @@ Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010IST
 
 
 
-10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117) – iki 2003 m. liepos 1 d.
+10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117) – iki 2004 m. sausio 1 d.
 Straipsnio punkto pakeitimai:
 Nr. IX-416, 2001-06-28, Žin., 2001, Nr. 56-1985 (2001-06-30), i. k. 1011010ISTA00IX-416
 Nr. IX-1000, 2002-06-27, Žin., 2002, Nr. 72-3015 (2002-07-17), i. k. 1021010ISTA0IX-1000
 Nr. IX-1242, 2002-12-10, Žin., 2002, Nr. 123-5533 (2002-12-24), i. k. 1021010ISTA0IX-1242
+Nr. IX-1653, 2003-06-26, Žin., 2003, Nr. 64-2882 (2003-06-30), i. k. 1031010ISTA0IX-1653
  
 
 
@@ -181,4 +182,9 @@ Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m.
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1242, 2002-12-10, Žin., 2002, Nr. 123-5533 (2002-12-24), i. k. 1021010ISTA0IX-1242
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1653, 2003-06-26, Žin., 2003, Nr. 64-2882 (2003-06-30), i. k. 1031010ISTA0IX-1653
 Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
