@@ -13,18 +13,21 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 1999-07-30 iki 2003-09-30
+Suvestinė redakcija nuo 2003-10-01 iki 2004-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
  
-LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMAS
+Nauja redakcija nuo 2003-10-01:
+Nr. IX-1647, 2003-06-24, Žin. 2003, Nr. 70-3163 (2003-07-16), i. k. 1031010ISTA0IX-1647
+ 
+LIETUVOS RESPUBLIKOS KONCESIJŲ  ĮSTATYMAS
  
 1996 m. rugsėjo 10 d. Nr. I-1510
 Vilnius
  
 
 
-PIRMASIS SKIRSNIS
+I SKYRIUS
 BENDROSIOS NUOSTATOS
  
 
@@ -32,7 +35,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato koncesijos sampratą, koncesijos objektus ir ūkinės veiklos sritis, koncesijų suteikimo tvarką, Lietuvos Respublikos valstybės institucijų, Lietuvos Respublikos ir užsienio valstybių įmonių, veikiančių koncesijos sutarties pagrindu, teises ir pareigas.
+Šis Įstatymas nustato koncesijos Lietuvos Respublikoje sampratą, koncesijos sutarties dalyką, koncesininkų atrankos ir koncesijų suteikimo tvarką, suteikiančiųjų institucijų bei koncesininkų įgaliojimus, teises ir pareigas, koncesijos sutarčių turinį, taip pat nustato su tuo susijusius santykius.
  
 
 
@@ -43,52 +46,211 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Įstatyme vartojamos sąvokos
 
 
-1. Koncesija – teisė naudotis esamu ar numatomu sukurti valstybės ar savivaldybės turtu, kuri pagal sutartį suteikiama tam tikrai ūkinei veiklai vykdyti.
+1. Koncesija – vadovaujantis koncesijos sutartimi ir joje nustatytomis sąlygomis suteikiančiosios institucijos koncesininkui pagal šį Įstatymą suteikiamas specialus leidimas vykdyti ūkinę veiklą, susijusią su infrastruktūros objektų projektavimu, statyba, plėtra, atnaujinimu, pakeitimu, remontu, valdymu, naudojimu ir (ar) priežiūra, teikti viešąsias paslaugas, valdyti ir (ar) naudoti valstybės ar savivaldybės turtą (tarp jų eksploatuoti gamtos išteklius), kai koncesininkas pagal koncesijos sutartį prisiima visą ar didžiąją dalį su tokia veikla susijusios rizikos bei atitinkamas teises ir pareigas.
 
 
 
 
-2. Koncesijos sutartis – rašytinė sutartis, pagal kurią koncesijos suteikėjas sutartyje nustatytomis sąlygomis koncesininkui tam tikram laikui atlygintinai perduoda teisę naudotis šiame įstatyme nustatytais koncesijos objektais.
+2. Koncesijos sutartis – suteikiančiosios institucijos, kuri veikia valstybės ar savivaldybės vardu, ir koncesininko sudaryta rašytinė sutartis, kurioje nustatomos suteikiančiosios institucijos ir koncesininko teisės ir pareigos, susijusios su koncesija. 
 
 
 
 
-3. Koncesijos atlygis – koncesijos sutartyje nustatytas piniginis ar kitokios formos (prekių perdavimas, paslaugų suteikimas ir kt.) koncesininko atlygis koncesijos suteikėjui už teisę naudotis sutartyje nustatytais koncesijos objektais.
+3. Koncesijos sutarties dalykas – koncesininko vykdoma ūkinė veikla šio Įstatymo 3 straipsnyje numatytose srityse, susijusi su infrastruktūros objektų projektavimu, statyba, plėtra, atnaujinimu, pakeitimu, remontu, valdymu, naudojimu ir (ar) priežiūra, viešųjų paslaugų teikimu, valstybės ar savivaldybės turto valdymu ir (ar) naudojimu (tarp jų gamtos išteklių eksploatavimu).
 
 
 
 
-4. Koncesijos objektai – Lietuvos valstybei ar savivaldybei priklausantys ir šiame įstatyme nustatyti objektai, dėl kurių yra sudaroma koncesijos sutartis.
+4. Koncesininkas – Lietuvos Respublikos ar užsienio subjektas, kuriam atitinkama suteikiančioji institucija, vadovaudamasi šiuo Įstatymu, suteikia koncesiją. Subjektu yra laikoma: bet kokios rūšies įmonė, konsorciumas, asociacija, įstaiga, organizacija arba kitokios teisinės formos ar rūšies subjektas, įsteigtas ir veikiantis pagal taikytinus Lietuvos Respublikos ar užsienio valstybės įstatymus. Fizinis asmuo subjektu nelaikomas.
 
 
 
 
-5. Koncesijos konkursas – šio įstatymo ir kitų teisės aktų nustatyta tvarka, pagal kurią tam tikra Lietuvos Respublikos ar užsienio valstybės įmonė yra pripažįstama konkurso laimėtoja koncesijai gauti.
+5. Konkurso dalyvis – subjektas ar subjektai, kurie šio Įstatymo III skyriaus antrojo skirsnio nustatyta tvarka yra pareiškę suinteresuotumą dalyvauti konkurse ir (ar) pateikę preliminarius neįpareigojančius ar išsamius įpareigojančius konkurso pasiūlymus pagal atitinkamas konkurso sąlygas. 
 
 
 
 
-6. Koncesininkas – įmonė, kuri nustatyta tvarka yra sudariusi koncesijos sutartį su koncesijos suteikėju.
+6. Konkurso sąlygos – vadovaujantis šio Įstatymo III skyriaus antruoju skirsniu suteikiančiosios institucijos parengtos, patvirtintos ir paskelbtos koncesijos suteikimo sąlygos.
 
 
 
 
-7. Užsienio koncesininkas – Lietuvos Respublikos įstatymų nustatyta tvarka įsteigta ir įregistruota koncesijos konkursą laimėjusios užsienio valstybės įmonės dukterinė įmonė, kuri nustatyta tvarka sudaro koncesijos sutartį su koncesijos suteikėju.
+7. Suteikiančioji institucija – institucija, kuri pagal savo kompetenciją ir įgaliojimus, nustatytus Lietuvos Respublikos teisės aktų, yra atsakinga už atitinkamas funkcijas ar veiklos sritis, kurios gali būti įgyvendinamos ir užtikrinamos suteikiant koncesijas: tai yra Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, – kai koncesija suteikiama valstybės vardu, arba savivaldybės vykdomoji institucija, – kai koncesija suteikiama atitinkamos savivaldybės vardu.
+ 
 
 
 
 
-8. Koncesijos suteikėjas – šiame įstatyme nustatyta valstybės ar savivaldos institucija, įgaliota valstybės ar savivaldybės vardu pasirašyti koncesijos sutartį.
 
 
 
 
-9. Lietuvos Respublikos įmonė – pagal Lietuvos Respublikos įmonių įstatymą ir atitinkamos rūšies įmonių steigimą bei veiklą reglamentuojantį įstatymą įsteigta ir veikianti įmonė, kurios registravimo vieta ir buveinė yra Lietuvos Respublikoje.
+II SKYRIUS 
+KONCESIJOS SUTARTIES DALYKAS 
+ 
+
+
+3 straipsnis. Koncesijos sutarties dalykas
+
+
+1. Koncesijos sutartys gali būti sudaromos dėl bet kurios iš šio straipsnio 2 ir (ar) 3 dalyse išvardytos veiklos ir funkcijų.
 
 
 
 
-10. Užsienio valstybės įmonė – turinti juridinio asmens teises ar jų neturinti įmonė, susivienijimas, asociacija ar kitokia organizacija, įsteigta bei registruota pagal užsienio valstybės įstatymus, kurios buveinė yra užsienio valstybėje.
+2. Vadovaujantis koncesijos sutartimi, koncesininkui suteikiamas specialus leidimas vykdyti ūkinę veiklą, susijusią su infrastruktūros objektų projektavimu, statyba, plėtra, atnaujinimu, pakeitimu, remontu, valdymu, naudojimu ir (ar) priežiūra, arba teikti viešąsias paslaugas šiose srityse:
+
+
+1) energetikos, įskaitant šilumos ir elektros energijos, naftos ir gamtinių dujų išgavimą, perdavimą, skirstymą, tiekimą;
+
+
+
+
+2) geležinkelių linijų ir sistemų;
+
+
+
+
+3) vandens ūkio, įskaitant vandens išgavimą, pakėlimą, valymą, gerinimą ir paskirstymą; 
+
+
+
+
+4) vandens nuotėkų, įskaitant surinkimą, perpumpavimą, valymą ir dumblo valymą; 
+
+
+
+
+5) atliekų naudojimo, perdirbimo ir tvarkymo, kaip numatyta Lietuvos Respublikos atliekų tvarkymo įstatyme;
+
+
+
+
+6) kelių, tiltų, tunelių, parkavimo ir kitos kelių transporto infrastruktūros;
+
+
+
+
+7) sveikatos apsaugos sistemos;
+
+
+
+
+8) telekomunikacijų infrastruktūros;
+
+
+
+
+9) švietimo sistemos;
+
+
+
+
+10) uostų ir prieplaukų infrastruktūros;
+
+
+
+
+11) oro uostų infrastruktūros;
+
+
+
+
+12) viešosios transporto infrastruktūros;
+
+
+
+
+13) turizmo objektų, įrenginių bei kitos infrastruktūros;
+
+
+
+
+14) kultūros, sporto, laisvalaikio leidimo objektų, įrenginių ir kitos infrastruktūros;
+
+
+
+
+15) Lietuvos Respublikos Vyriausybės ar atitinkamos savivaldybės tarybos sprendimu – bet kokioje kitoje srityje. 
+
+
+
+
+
+
+3. Pagal koncesijos sutartis koncesininkams gali būti perduotas valdyti ir (ar) naudoti valstybės ar savivaldybės turtas, įskaitant turtą, kuris pagal Lietuvos Respublikos Konstituciją išimtine nuosavybės teise priklauso valstybei, tai yra žemės gelmės, taip pat valstybinės reikšmės vidaus vandenys, miškai, parkai, keliai, istorijos, archeologijos ir kultūros objektai. Pagal koncesijos sutartis gali būti suteiktos teisės naudotis kontinentiniu šelfu ir (ar) ekonomine zona  Baltijos jūroje, į kuriuos valstybė turi išimtines teises, taip pat Lietuvos Respublikos žemės gelmių įstatyme nustatytais žemės gelmių ištekliais (įskaitant naudingąsias iškasenas), žemės gelmių ertmėmis ir kitais gamtos ištekliais. Jeigu koncesijos, kuri suteikiama atviro viešo konkurso būdu, projektui įgyvendinti reikalinga valstybinė ar savivaldybės žemė ir tai numato konkurso sąlygos, teisės į šios žemės sklypus koncesininkui gali būti suteikiamos be aukciono, sudarant su juo nuomos ar kitas įstatymų numatytas sutartis. 
+
+
+
+
+4. Koncesijos sutartis gali numatyti tiek koncesininko įsipareigojimą sukurti naują turtą, tiek valdyti ir (ar) naudoti esamą turtą, nuosavybės teise priklausantį valstybei, savivaldybei ar koncesininkui. Tokio turto valdymo ir (ar) naudojimo bei nuosavybės teisės į jį perleidimo (tais atvejais, kai perleidimas neprieštarauja Lietuvos Respublikos Konstitucijai ar įstatymams) ar išsaugojimo sąlygas šalys nustato koncesijos sutartyje.
+
+
+
+
+5. Pagal koncesijos sutartį koncesininkui negali būti perduodama teisė valdyti ir (ar) naudoti tokį valstybės ar savivaldybės turtą, kuris yra įtrauktas į privatizavimo objektų sąrašą pagal Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymą. Valstybei ar savivaldybei nuosavybės teise priklausantis turtas, dėl kurio valdymo ir (ar) naudojimo sudarytos koncesijos sutartys, tokių sutarčių galiojimo laikotarpiu negali būti privatizuojamas, jeigu pačiose koncesijos sutartyse nenustatyta kitaip. 
+ 
+
+
+
+
+
+
+4 straipsnis. Koncesijų atskirose ūkinės veiklos srityse ribojimas
+
+
+Subjektams, kurių investicijos į Lietuvos Respublikos investicijų įstatymo 8 straipsnio 2 dalyje nurodytas sritis yra neleidžiamos, negali būti suteikiamos koncesijos vykdyti ūkinę veiklą tose srityse. 
+ 
+
+
+
+
+
+
+
+
+III SKYRIUS
+KONCESIJOS SUTEIKIMO TVARKA
+ 
+
+
+PIRMASIS SKIRSNIS
+BENDROSIOS SĄLYGOS
+ 
+
+
+5 straipsnis. Koncesijos suteikimo principai
+
+
+1. Koncesijos suteikiamos šio Įstatymo, Lietuvos Respublikos civilinio kodekso ir kitų įstatymų nustatyta tvarka. 
+
+
+
+
+2. Suteikiančiajai institucijai, pagal Lietuvos Respublikos įstatymus ir savo kompetenciją bei įgaliojimus atsakingai už atitinkamą funkciją ar veiklos sritį, kuri gali būti koncesijos sutarties dalykas, šiuo Įstatymu suteikiama teisė suteikti koncesiją sudarant koncesijos sutartį (ir kitas papildomas bei susijusias sutartis, įskaitant sutartis su koncesijos projekto finansuotojais) dėl tokios funkcijos įgyvendinimo ar veiklos atitinkamoje srityje vykdymo. Sprendimus dėl koncesijų, pagal kurias Lietuvos Respublika prisiima esminius turtinius įsipareigojimus, priima Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės siūlymu. Šio Įstatymo tikslais turtinis įsipareigojimas (įskaitant galimą civilinę atsakomybę, atsirandančią pagal koncesijos sutartį), viršijantis 200 milijonų litų, laikomas esminiu.
+ 
+
+
+
+
+
+
+6 straipsnis. Koncesijų suteikimo tvarka
+
+
+Koncesijos suteikiamos šio Įstatymo III skyriaus antrajame skirsnyje numatytu atviro viešo konkurso būdu, išskyrus atvejus, numatytus šio Įstatymo III skyriaus trečiajame skirsnyje, kai koncesijos gali būti suteikiamos be konkurso.
+ 
+
+
+
+
+
+
+7 straipsnis. Informacija apie leidimus ir licencijas 
+
+
+Suteikiančioji institucija derybų dėl koncesijos sutarties metu pateikia informaciją apie tai, kokie valstybės ir (ar) savivaldybių institucijų išduodami leidimai ar licencijos reikalingi koncesijos sutarčiai įgyvendinti.
  
 
 
@@ -99,78 +261,54 @@ BENDROSIOS NUOSTATOS
 
 
 ANTRASIS SKIRSNIS
-KONCESIJOS OBJEKTAI IR VEIKLOS SRITYS
+KONKURSO TVARKA
  
 
 
-3 straipsnis. Koncesijos objektai
+8 straipsnis. Konkurso etapai
 
 
-1. Koncesijos objektais Lietuvos Respublikoje gali būti:
+1. Konkursas dėl koncesijos suteikimo vykdomas šiais etapais:
 
 
-1) objektai, į kuriuos pagal Lietuvos Respublikos Konstituciją Lietuvos valstybė turi išimtines teises, t.y. kontinentinis šelfas ir ekonominė zona Baltijos jūroje;
-
-
-
-
-2) Lietuvos valstybei išimtine nuosavybės teise priklausantys objektai, t.y. žemės gelmės, valstybinės reikšmės vidaus vandenys, keliai, istorijos, archeologijos ir kultūros objektai;
+1) konkurso ir jo sąlygų paskelbimas;
 
 
 
 
-3) Lietuvos Respublikos valstybės įmonės, nenumatytos privatizuoti koncesijos galiojimo laikotarpiu;
+2) konkurso dalyvių išankstinė atranka;
 
 
 
 
-4) Lietuvos valstybei nuosavybės teise priklausantys pastatai, statiniai, įrenginiai, transporto ir kiti objektai, nenumatyti privatizuoti koncesijos galiojimo laikotarpiu;
+3) preliminarių neįpareigojančių pasiūlymų pateikimas;
 
 
 
 
-5) savivaldybėms nuosavybės teise priklausantys objektai ir įmonės, nenumatyti privatizuoti koncesijos galiojimo laikotarpiu.
+4) preliminarių neįpareigojančių pasiūlymų vertinimas;
 
 
 
 
-
-
-2. Perduodant pagal koncesiją valstybės ar savivaldybės įmonę, koncesininkui perduodamos Lietuvos Respublikos įstatymų nustatytos ir koncesijos sutartyje nurodytos įmonės steigėjo teisės ir pareigos.
-
-
-
-
-3. Koncesijos objektu gali būti ir numatomas sukurti objektas. Tokiu atveju koncesininkas įsipareigoja sukurti tam tikrą objektą ir juo naudotis koncesijos sutartyje nustatytai veiklai vykdyti. Pasibaigus koncesijos galiojimo laikui ar nutraukus sutartį, koncesijos objektas sutartyje nustatytomis sąlygomis perduodamas valstybei ar savivaldybei.
+5) išsamių įpareigojančių pasiūlymų pateikimas;
 
 
 
 
-4. Valstybės žemė nėra koncesijos objektas. Jei koncesija yra susijusi su valstybinės ar privačios žemės naudojimu, koncesijos konkursas gali būti skelbiamas tik tada, kai koncesijos suteikėjas gali garantuoti koncesininkui žemės nuomos sutarties sudarymą valstybės pasiūlyme nustatytomis sąlygomis.
- 
+6) išsamių įpareigojančių pasiūlymų vertinimas;
+
+
+
+
+7) derybos ir koncesijos sutarties sudarymas.
 
 
 
 
 
 
-4 straipsnis. Veiklos koncesijų pagrindu sritys ir ribojimai
-
-
-1. Koncesijos sutartimi grindžiama veikla leidžiama visose ūkinės veiklos srityse, išskyrus tas, kuriose pagal Įmonių įstatymo 13 straipsnį leidžiama veikti tik valstybės įmonėms, savivaldybės įmonėms ir specialios paskirties akcinėms bendrovėms.
-
-
-
-
-2. Užsienio koncesininko veiklai taikomi Lietuvos Respublikos investicijų įstatymo 8 straipsnio ribojimai. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1306, 1999-07-07, Žin., 1999, Nr. 66-2123 (1999-07-30), i. k. 0991010ISTAIII-1306
- 
-
-
-
-
-3. Ūkinė veikla pagal koncesiją šio straipsnio 1 ir 2 dalyse nustatytose draudžiamose srityse gali būti leidžiama pagal atskirus įstatymus.
+2. Konkursas dėl koncesijos suteikimo gali būti skelbiamas ir vykdomas be šio straipsnio 1 dalies 2 ir (ar) 3 bei 4 punktuose nustatytų konkurso etapų.
  
 
 
@@ -178,10 +316,307 @@ Nr. VIII-1306, 1999-07-07, Žin., 1999, Nr. 66-2123 (1999-07-30), i. k. 0991010I
 
 
 
-5 straipsnis. Licencijuojama veikla
+9 straipsnis. Konkurso sąlygos
 
 
-Jeigu koncesijos sąlygos atitinka Lietuvos Respublikos įstatymų nustatytus reikalavimus koncesijos sutartyje nustatytai veiklai reikalingiems leidimams (licencijoms) gauti, koncesijos suteikimas įpareigoja atitinkamas Lietuvos Respublikos institucijas išduoti leidimus (licencijas) šiai veiklai.
+1. Kiekvieno konkurso dėl koncesijos suteikimo atveju suteikiančioji institucija, vadovaudamasi Lietuvos Respublikos civilinio kodekso 6.947 straipsnio 2 dalimi, parengia ir tvirtina konkurso sąlygas, kuriose nurodoma:
+
+
+1) pasiūlytos koncesijos sutarties dalykas ir koncesijos projekto apibūdinimas, įskaitant koncesijos projekto techninių sąlygų ir reikalavimų jo įgyvendinimui, saugumo ir aplinkos apsaugos reikalavimų, pagrindinių sutarties sąlygų apibūdinimą;
+
+
+
+
+2) ar bus vykdoma išankstinė konkurso dalyvių atranka, ir jeigu taip, tai kur, kada ir kokius dokumentus jie turi pateikti, taip pat kriterijai, kuriuos potencialūs konkurso dalyviai turi atitikti, kad būtų atrinkti konkurso pasiūlymams teikti, kaip nurodyta šio Įstatymo 10 straipsnyje, išankstinės atrankos laikotarpis bei pranešimo apie išankstinės atrankos rezultatus būdas, laikas ir vieta;
+
+
+
+
+3) ar konkurso dalyviai privalo pateikti preliminarius neįpareigojančius konkurso pasiūlymus, ir jeigu taip, tai vieta ir laikas, kur ir kada jie turi pateikti tokius pasiūlymus, taip pat reikalaujamas tokių pasiūlymų turinys, kaip nurodyta šio Įstatymo 11 straipsnyje;
+
+
+
+
+4) išsamių įpareigojančių konkurso pasiūlymų pateikimo vieta ir laikas, taip pat reikalaujamas turinys, kaip nurodyta šio Įstatymo 13 straipsnyje;
+
+
+
+
+5) konkurso dalyvių pasiūlymų įvertinimo laikas ir vertinimo kriterijai, kaip nurodyta šio Įstatymo 14 straipsnyje;
+
+
+
+
+6) atvejai, kuriais pasiūlymai gali būti laikomi neatitinkančiais konkurso sąlygų reikalavimų;
+
+
+
+
+7) kitos sąlygos, kurias suteikiančioji institucija įtraukia į konkurso sąlygas.
+
+
+
+
+
+
+2. Jei konkurso sąlygos nenumato konkurso dalyvių išankstinės atrankos, konkurso sąlygų paskelbimas yra kvietimas pateikti išsamius įpareigojančius pasiūlymus, o jeigu konkurso sąlygos numato preliminarių neįpareigojančių pasiūlymų pateikimą, – kvietimas pirmiausia pateikti preliminarius neįpareigojančius pasiūlymus.
+
+
+
+
+3. Konkurso sąlygos skelbiamos „Valstybės žinių“ priede „Informaciniai pranešimai“. Suteikiančiosios institucijos sprendimu konkurso sąlygos papildomai gali būti skelbiamos ir tarptautinėje, Lietuvos respublikinėje ar regioninėje spaudoje ar kitose visuomenės informavimo priemonėse. Tokiame skelbime išspausdinamas visas suteikiančiosios institucijos patvirtintų konkurso sąlygų tekstas arba išspausdinamos aiškios ir tikslios nuorodos apie laiką ir vietą, kada ir kur su atitinkamomis konkurso sąlygų dalimis bus galima susipažinti bet kuriam suinteresuotam asmeniui, nurodoma pranešimo tekste minimų dokumentų, kuriuose išdėstytos konkurso sąlygos, įsigijimo kaina (jei ji nustatyta), tačiau su sąlyga, kad pranešimo tekste visada turi būti trumpai apibūdinamas pasiūlytosios koncesijos sutarties dalykas ir koncesijos projektas.
+
+
+
+
+4. Jei suteikiančioji institucija nusprendžia pakeisti konkurso sąlygas arba atšaukti konkursą, ji turi teisę tai padaryti pirmoje laikotarpio nuo konkurso sąlygų paskelbimo pagal šio straipsnio 2 dalį pusėje iki išsamių įpareigojančių konkurso pasiūlymų pateikimo datos. Apie konkurso sąlygų pakeitimą skelbiama vadovaujantis šio straipsnio 2 dalyje nurodytais reikalavimais ir tokiu pat būdu, kaip buvo skelbtos konkurso sąlygos.
+ 
+
+
+
+
+
+
+10 straipsnis. Konkurso dalyvių išankstinė atranka
+
+
+1. Kai konkurso sąlygos numato konkurso dalyvių išankstinę atranką, konkurso dalyviai turi pareikšti suinteresuotumą dalyvauti konkurse, nurodydami, kad jie atitinka suteikiančiosios institucijos nustatytus išankstinės atrankos kriterijus, kuriais gali būti pripažintos visos ar dalis šių sąlygų:
+
+
+1) atitinkama profesinė ir techninė kvalifikacija;
+
+
+
+
+2) įrengimų ir kitų priemonių visiems veiklos, kuri bus atliekama pagal pasiūlytą koncesijos sutartį, etapams turėjimas išankstinės atrankos vykdymo metu ar reali galimybė jas turėti po to, kai bus sudaryta koncesijos sutartis; 
+
+
+
+
+3) finansinių lėšų (nuosavų ar skolintų) visiems veiklos, kurios bus imamasi pagal pasiūlytą koncesijos sutartį, etapams turėjimas išankstinės atrankos vykdymo metu ar reali galimybė jas turėti po to, kai bus sudaryta koncesijos sutartis; 
+
+
+
+
+4) atitinkama valdymo ir organizacinė patirtis;
+
+
+
+
+5) kitos sąlygos, kurias yra nustačiusi suteikiančioji institucija.
+
+
+
+
+
+
+2. Nustačiusi, kurie konkurso dalyviai atitinka išankstinės atrankos kriterijus, suteikiančioji institucija sudaro tų konkurso dalyvių, kurie kviečiami pateikti išsamius įpareigojančius pasiūlymus arba, jeigu tai numato konkurso sąlygos, pateikti prieš tai preliminarius neįpareigojančius pasiūlymus, abėcėlinį sąrašą. Toks sąrašas skelbiamas „Valstybės žinių“ priede „Informaciniai pranešimai“ bei kitu būdu, jei jį numato konkurso sąlygos.
+
+
+
+
+3. Išskyrus konkursus, kurių sąlygos konkurso dalyvių išankstinę atranką reglamentuoja kitaip, tuo atveju, kai tik vienas konkurso dalyvis atitinka išankstinės atrankos kriterijus, suteikiančioji institucija kviečia tokį konkurso dalyvį konkurso sąlygose nustatyta tvarka pateikti išsamų įpareigojantį pasiūlymą, neteikiant preliminaraus neįpareigojančio pasiūlymo. 
+ 
+
+
+
+
+
+
+11 straipsnis. Preliminarių neįpareigojančių pasiūlymų pateikimas
+
+
+1. Jei koncesijos projektas yra labai sudėtingas arba svarbus valstybei ar atitinkamai savivaldybei, taip pat ir kitais atvejais, suteikiančiosios institucijos nuožiūra, ji konkurso sąlygose gali nustatyti, kad konkurso dalyviai pirmiausia privalo pateikti preliminarius neįpareigojančius pasiūlymus ir tik po to – išsamius įpareigojančius pasiūlymus.
+
+
+
+
+2. Preliminarių neįpareigojančių pasiūlymų turinio reikalavimai nurodomi konkurso sąlygose. Tokie reikalavimai nustatomi vadovaujantis šio Įstatymo 13 straipsnio 2 dalyje ir konkurso sąlygose nustatytais išsamių įpareigojančių pasiūlymų turinio reikalavimais, tačiau preliminarių neįpareigojančių pasiūlymų reikalaujamas mastas gali būti mažesnis negu išsamių įpareigojančių pasiūlymų mastas.
+
+
+
+
+3. Konkurso dalyviams, kurie teikia preliminarius neįpareigojančius pasiūlymus, taikomos šio Įstatymo 13 straipsnio 2–4 dalių nuostatos.
+ 
+
+
+
+
+
+
+12 straipsnis. Preliminarių neįpareigojančių pasiūlymų vertinimas
+
+
+1. Suteikiančioji institucija vertina, ar konkurso dalyvių preliminarūs neįpareigojantys pasiūlymai atitinka konkurso sąlygose jiems nustatytus reikalavimus, ir tokius reikalavimus atitinkančius pasiūlymus įvertina teigiamai, nenustatydama jų vertinimo eiliškumo.
+
+
+
+
+2. Suteikiančioji institucija sudaro abėcėlinį sąrašą tų konkurso dalyvių, kurių preliminarūs neįpareigojantys pasiūlymai įvertinti teigiamai, ir kviečia juos teikti išsamius įpareigojančius pasiūlymus. Toks konkurso dalyvių sąrašas skelbiamas „Valstybės žinių“ priede „Informaciniai pranešimai“.
+
+
+
+
+3. Jeigu suteikiančioji institucija teigiamai įvertina tik vieno konkurso dalyvio preliminarų neįpareigojantį pasiūlymą, ji gali su tokiu konkurso dalyviu pradėti derybas šio Įstatymo 16 straipsnyje nustatyta tvarka, jeigu toks konkurso dalyvis sutinka, kad jo preliminarus neįpareigojantis pasiūlymas būtų laikomas išsamiu įpareigojančiu pasiūlymu. Tokiu atveju laikoma, kad toks konkurso dalyvis yra pateikęs išsamų įpareigojantį pasiūlymą ir jo pasiūlymas konkurso sąlygose nustatyta tvarka yra pripažintas geriausiu. Tuo atveju, jei konkurso dalyvis nesutinka, kad jo preliminarus neįpareigojantis pasiūlymas būtų laikomas išsamiu įpareigojančiu pasiūlymu, jis kviečiamas konkurso sąlygose nustatyta tvarka pateikti išsamų įpareigojantį pasiūlymą.
+ 
+
+
+
+
+
+
+13 straipsnis. Išsamių įpareigojančių pasiūlymų pateikimas
+
+
+1. Išsamiuose įpareigojančiuose pasiūlymuose privalo būti aptarti konkurso sąlygose suformuluoti techniniai, finansiniai ir komerciniai klausimai bei pateikta konkurso sąlygose reikalaujama informacija, kuri visuomet turi apimti:
+
+
+1) pasiūlymus ir komentarus dėl koncesijos projekto techninių sąlygų ir reikalavimų jo įgyvendinimui, įskaitant suteikiančiosios institucijos konkurso sąlygose numatytus saugumo ir aplinkos apsaugos reikalavimus;
+
+
+
+
+2) suteikiančiosios institucijos konkurso sąlygose pasiūlytų sutarties sąlygų komentarą ar išlygas dėl jų.
+
+
+
+
+
+
+2. Konkurso dalyviai turi teisę prašyti suteikiančiosios institucijos paaiškinti konkurso sąlygas, taip pat bet kokios su konkursu susijusios papildomos informacijos. Suteikiančioji institucija privalo nedelsdama atsakyti į tokius prašymus ir pateikti tiek informacijos, kiek tai leidžia konkurso sąlygos bei įstatymų reikalavimai. Suteikiančioji institucija privalo užtikrinti, kad visiems konkurso dalyviams būtų suteikta galimybė tinkamu laiku gauti tokią pat informaciją ir kad tokios informacijos pateikimo būdas būtų vienodas visiems konkurso dalyviams. Visiems konkurso dalyviams turi būti skiriamas vienodas laikas, per kurį jie privalo pateikti konkurso pasiūlymus, ir tai turi būti nurodyta konkurso sąlygose. 
+
+
+
+
+3. Prireikus suteikiančioji institucija gali rengti susitikimus su konkurso dalyviais, kad paaiškintų ar aptartų klausimus dėl konkurso pasiūlymų. Organizuodama tokius susitikimus, suteikiančioji institucija privalo užtikrinti, kad visiems konkurso dalyviams būtų suteikta vienoda informacija.
+
+
+
+
+4. Kai konkurso sąlygos numato preliminarių neįpareigojančių ir išsamių įpareigojančių pasiūlymų teikimą, konkurso dalyvių išsamiuose įpareigojančiuose pasiūlymuose siūlomos sąlygos pagal konkurso sąlygose nustatytus vertinimo kriterijus negali būti blogesnės negu jų pateiktuose preliminariuose neįpareigojančiuose pasiūlymuose, išskyrus atvejus, kai konkurso sąlygos tai reglamentuoja kitaip.
+ 
+
+
+
+
+
+
+14 straipsnis. Vertinimo kriterijai
+
+
+1. Suteikiančioji institucija, atsižvelgdama į šiame straipsnyje išdėstytus reikalavimus, siūlomos koncesijos sutarties tikslus ir kitas svarbias aplinkybes, konkurso sąlygose nustato išsamių įpareigojančių konkurso dalyvių pasiūlymų vertinimo ir palyginimo kriterijus. Suteikiančioji institucija turi taikyti tokius kriterijus sąžiningai, nediskriminuodama nė vieno konkurso dalyvio.
+
+
+
+
+2. Konkurso dalyvių techninių pasiūlymų aspektų vertinimo ir lyginimo kriterijai gali numatyti tokius reikalavimus:
+
+
+1) pasiūlymo techninį pagrįstumą;
+
+
+
+
+2) galimybes įgyvendinti pasiūlymą;
+
+
+
+
+3) viešųjų paslaugų kokybę ir priemones, užtikrinančias jų teikimo tęstinumą;
+
+
+
+
+4) aplinkosauginius pasiūlymo aspektus;
+
+
+
+
+5) pasiūlymo poveikį socialinei ir ekonominei šalies ar atitinkamo regiono plėtrai.
+
+
+
+
+
+
+3. Finansinių ir komercinių konkurso dalyvių pasiūlymų aspektų vertinimo ir lyginimo kriterijai gali numatyti tokius reikalavimus:
+
+
+1) pinigų sumas, kurias koncesininkas siūlo nustatyti ir rinkti kaip užmokestį už teikiamas viešąsias paslaugas ar rinkti kaip vietines rinkliavas vadovaujantis koncesijos sutartimi, atsižvelgiant į numatomą tokių sumų mokėjimo laiką ir periodiškumą;
+
+
+
+
+2) bet kokių mokėjimų, kuriuos suteikiančioji institucija atliks pagal koncesijos sutartį, sumas, atsižvelgiant į numatomą tokių sumų mokėjimo laiką ir periodiškumą;
+
+
+
+
+3) bet kokių mokėjimų, kuriuos koncesininkas atliks pagal koncesijos sutartį, sumas, atsižvelgiant į numatomą tokių sumų mokėjimo laiką ir periodiškumą;
+
+
+
+
+4) su projektavimo ir statybos veikla susijusias išlaidas, metines eksploatacijos ir priežiūros išlaidas, siūlomo finansavimo išlaidas;
+
+
+
+
+5) suteikiančiosios institucijos ar kitos valstybės ar savivaldybės institucijos prašomos valstybės ar atitinkamos savivaldybės finansinės paramos, jei jos būtų prašoma, dydį;
+
+
+
+
+6) pasiūlyto finansavimo pagrįstumą ir ypatumus vadovaujantis pateiktais su finansavimu susijusiais dokumentais;
+
+
+
+
+7) siūlomų sutarties sąlygų priimtinumą konkurso dalyviui ir tai lemiančias aplinkybes.
+ 
+
+
+
+
+
+
+
+
+15 straipsnis. Išsamių įpareigojančių pasiūlymų vertinimas
+
+
+Remdamasi konkurso sąlygose nustatytais vertinimo kriterijais, suteikiančioji institucija įvertina gautus išsamius įpareigojančius konkurso dalyvių pasiūlymus ir sudaro konkurso dalyvių sąrašą pagal suteiktų vertinimų eiliškumą. Toks sąrašas skelbiamas „Valstybės žinių“ priede „Informaciniai pranešimai“ bei kitu būdu, jei jį numato konkurso sąlygos. Jeigu yra gautas tik vienas išsamus įpareigojantis pasiūlymas, kuris atitinka konkurso sąlygų reikalavimus, apie tokį pasiūlymą pateikusį konkurso dalyvį skelbiama šiame straipsnyje nustatyta tvarka ir suteikiančioji institucija pradeda su tokiu konkurso dalyviu derybas šio Įstatymo 16 straipsnyje nustatyta tvarka.
+ 
+
+
+
+
+
+
+16 straipsnis. Derybos ir koncesijos sutarties sudarymas
+
+
+1. Suteikiančioji institucija pakviečia konkurso dalyvį, kuris gavo aukščiausią įvertinimą šio Įstatymo 15 straipsnyje nustatyta tvarka, dalyvauti derybose. Derantis negali būti nukrypstama nuo reikalavimo, kad koncesininkas įgyvendintų konkurso sąlygose išdėstytas technines, finansines ir komercines sąlygas. Sėkmingai baigusi derybas su aukščiausią įvertinimą gavusiu konkurso dalyviu, suteikiančioji institucija sudaro su juo (ir prireikus su jo įsteigta šiam tikslui įmone) koncesijos sutartį bei prireikus kitas papildomas bei susijusias sutartis, įskaitant sutartis su koncesijos projekto finansuotojais.
+
+
+
+
+2. Be konkurso dalyvio, kuriam suteiktas aukščiausias įvertinimas, suteikiančioji institucija taip pat gali pakviesti dalyvauti derybose tą konkurso dalyvį, kuriam suteiktas įvertinimas yra antras po aukščiausio įvertinimo, jeigu minėto konkurso dalyvio pasiūlymas yra panašus į aukščiausią vertinimą gavusio konkurso dalyvio pasiūlymą. Tokiu atveju, baigusi derybas su abiem konkurso dalyviais, suteikiančioji institucija sudaro koncesijos sutartį (ir prireikus kitas papildomas bei susijusias sutartis, įskaitant sutartis su koncesijos projekto finansuotojais) su tuo konkurso dalyviu (ir prireikus su jo įsteigta šiam tikslui įmone), su kuriuo pasiektas susitarimas, vertinant pagal konkurso sąlygose nustatytus konkurso dalyvių pasiūlymų vertinimo kriterijus, yra geresnis.
+
+
+
+
+3. Jeigu derybos su aukščiausią įvertinimą gavusiu konkurso dalyviu nutrūksta ir, vadovaujantis šio straipsnio 2 dalimi, dalyvauti derybose nebuvo pakviestas konkurso dalyvis, kuriam suteiktas įvertinimas yra antras po aukščiausio įvertinimo, suteikiančioji institucija gali pakviesti dalyvauti derybose kitus konkurso dalyvius pagal jų įvertinimo eiliškumą šio Įstatymo 15 straipsnyje nustatyta tvarka, tačiau dalyvauti derybose kviečiama tik po vieną dalyvį. Sėkmingai baigusi derybas su tokiu konkurso dalyviu, suteikiančioji institucija sudaro su juo (ir prireikus su jo įsteigta šiam tikslui įmone) koncesijos sutartį ir prireikus kitas papildomas bei susijusias sutartis, įskaitant sutartis su koncesijos projekto finansuotojais.
+
+
+
+
+4. Suteikiančioji institucija užtikrina, kad konkurso dalyvis (ar dalyviai), kuris (kurie) dalyvauja derybose dėl koncesijos sutarties sudarymo, žinotų apie derybų dėl koncesijos sutarties ir koncesijos sutarties sudarymo tvarką. 
+
+
+
+
+5. Siekdama galutinai suderinti koncesijos sutarties ir bet kokių papildomų su ja susijusių dokumentų nuostatas, suteikiančioji institucija turi teisę susitarti dėl visų sąlygų ir imtis visų reikalingų veiksmų, nors ir tiesiogiai nenumatytų konkurso sąlygose, tačiau su visais konkurso dalyviais, kurie dalyvauja derybose, ji turi elgtis sąžiningai ir jų nediskriminuoti.
  
 
 
@@ -192,78 +627,47 @@ Jeigu koncesijos sąlygos atitinka Lietuvos Respublikos įstatymų nustatytus re
 
 
 TREČIASIS SKIRSNIS
-KONCESIJOS SUTEIKIMO IR ATŠAUKIMO TVARKA
+KONCESIJŲ SUTEIKIMAS BE KONKURSO 
  
 
 
-6 straipsnis. Koncesijos suteikimo principai
+17 straipsnis. Aplinkybės, kuriomis koncesijos gali būti suteikiamos be konkurso
 
 
-1. Koncesijos suteikiamos atviro konkurso būdu.
+Suteikiančioji institucija gali suteikti koncesiją be konkurso, nesivadovaudama šio Įstatymo III skyriaus antrajame skirsnyje nustatyta tvarka, kai yra bent viena iš šių aplinkybių:
 
 
-
-
-2. Koncesijos konkurso organizavimo ir vykdymo, koncesijos sutarties su konkurso laimėtoju sudarymo tvarką nustato šis įstatymas ir Lietuvos Respublikos Vyriausybės patvirtinti Koncesijų konkurso organizavimo nuostatai.
- 
+1) yra neatidėliotinas infrastruktūros poreikis, kurio nebuvo galima iš anksto numatyti, ir (ar) reikia užtikrinti nenutrūkstamą viešųjų paslaugų teikimą, ir susidarius tokioms nenumatytoms aplinkybėms nėra galimybės rengti konkursą dėl koncesijos suteikimo;
 
 
 
 
-
-
-7 straipsnis. Koncesijos suteikimo tvarka
-
-
-1. Nutarimą (sprendimą) dėl koncesijos naudotis objektais suteikimo tikslingumo gali priimti:
-
-
-1) Lietuvos Respublikos Seimas Vyriausybės teikimu – dėl šio įstatymo 3 straipsnio 1 dalies 1 ir 2 punktuose nustatytų objektų;
+2) koncesijos sutartis yra susijusi su valstybės saugumo ir gynybos klausimais;
 
 
 
 
-2) Lietuvos Respublikos Vyriausybė – dėl 3 straipsnio 1 dalies 3 ir 4 punktuose nustatytų objektų;
+3) dėl techninių priežasčių arba dėl turimų išskirtinių teisių yra tik vienas įmanomas paslaugų ar dalykų, dėl kurių suteikiama koncesija, teikimo šaltinis ir nėra kitos alternatyvos;
 
 
 
 
-3) savivaldybės taryba – dėl 3 straipsnio 1 dalies 5 punkte nustatytų objektų.
+4) buvo surengtas konkursas, tačiau nebuvo gauta pasiūlymų, atitinkančių konkurso sąlygas, ir, suteikiančiosios institucijos nuomone, kito konkurso rengimas nelemtų koncesijos sutarties sudarymo. Tokiu atveju sprendimas dėl koncesijos suteikimo be konkurso turi būti priimtas ne vėliau kaip per šešis mėnesius po surengto konkurso pabaigos, o koncesija suteikiama be konkurso tomis pačiomis sąlygomis, kokios yra anksčiau surengto konkurso sąlygos;
 
 
 
 
-
-
-2. Jei koncesijos objektą numatoma sukurti, tai nutarimą (sprendimą) dėl tokio objekto sukūrimo ir naudojimo pagal koncesiją tikslingumo priima valstybės ar savivaldos institucija, pagal šį įstatymą turinti teisę priimti nutarimą (sprendimą) dėl koncesijos naudotis tos rūšies objektais suteikimo.
-
-
-
-
-3. Nutarime (sprendime) dėl koncesijos tikslingumo turi būti nustatytos svarbiausios koncesijos suteikimo sąlygos.
+5) galiojanti koncesijos sutartis nutraukiama dėl to, kad koncesininkas nevykdo ar netinkamai vykdo koncesijos sutartį,  o tai yra esminis sutarties pažeidimas, ir sudaroma nauja koncesijos sutartis dėl to paties dalyko su kitu koncesininku, kurį bankai ar kitos finansinės institucijos, suteikusios paskolas įsipareigojimų nevykdančiam koncesininkui, pakvietė sudaryti koncesijos sutartį, ir vienas iš pagrindinių tokios naujos sutarties tikslų yra užtikrinti tokių paskolų grąžinimą iš lėšų, gaunamų naujojo koncesininko pagal koncesijos sutartį; 
 
 
 
 
-4. Priėmus sprendimą dėl koncesijos naudotis objektais suteikimo tikslingumo, koncesijos konkursą pagal nutarimo (sprendimo) nustatytas sąlygas skelbia:
-
-
-1) Lietuvos Respublikos Vyriausybė – dėl 3 straipsnio 1 dalies 1 ir 2 punktuose nustatytų objektų;
+6) potencialus koncesininkas inicijuoja koncesijos projektą, kuris gali būti naudingas visuomenei, jei toks projektas yra unikalus ar novatoriškas ir yra susijęs su kitiems neprieinama unikalia ar patentu apsaugota technologija ar kitokiomis išimtinėmis teisėmis į intelektinę nuosavybę;
 
 
 
 
-2) įmonės steigėjas – dėl 3 straipsnio 1 dalies 3 punkte nustatytų objektų;
-
-
-
-
-3) Lietuvos Respublikos ministerija ar kita valstybės institucija, kurios reguliavimo sričiai priklauso atitinkamas koncesijos objektas – dėl 3 straipsnio 1 dalies 4 punkte nustatytų ar numatomų sukurti koncesijos objektų, kurie nuosavybės teise priklausys valstybei;
-
-
-
-
-4) vykdomoji savivaldos institucija – dėl 3 straipsnio 1 dalies 5 punkte nustatytų objektų ar numatomų sukurti koncesijos objektų, kurie nuosavybės teise priklausys savivaldybei.
+7) koncesijos projektas yra ne mažiau kaip 50 procentų finansuojamas užsienio institucijos ar valstybės palankesnėmis sąlygomis, negu koncesijos suteikimo metu Lietuvoje esančios rinkos sąlygos, ir tokia finansuojančioji institucija ar valstybė yra potencialiems koncesininkams nustačiusi reikalavimus, kuriuos atitinka tik tam tikra subjektų kategorija, bei reikalavimus, kokia tvarka turi būti parenkamas koncesininkas, ir tokia tvarka skiriasi nuo šio Įstatymo nustatytos konkurso tvarkos.
  
 
 
@@ -273,326 +677,15 @@ KONCESIJOS SUTEIKIMO IR ATŠAUKIMO TVARKA
 
 
 
-8 straipsnis. Teisė dalyvauti koncesijos konkurse
+18 straipsnis. Reikalavimai, taikomi suteikiant koncesijas be konkurso
 
 
-1. Koncesijos konkurse turi teisę dalyvauti Lietuvos Respublikos ir užsienio valstybių įmonės, valstybės pasiūlyme nustatyta tvarka ir terminu pateikusios paraišką dalyvauti konkurse bei kitus valstybės pasiūlyme nurodytus dokumentus.
+1. Kai suteikiančioji institucija ketina suteikti koncesiją be konkurso, apie tokį ketinimą ji paskelbia „Valstybės žinių“ priede „Informaciniai pranešimai“, kartu pateikdama konkurso neskelbimo priežastis. Informacija, kuri yra valstybės ar tarnybos paslaptis, neskelbiama. 
 
 
 
 
-2. Koncesijos konkurse negali dalyvauti:
-
-
-1) Lietuvos Respublikos valstybės įmonės;
-
-
-
-
-2) Lietuvos Respublikos savivaldybių įmonės;
-
-
-
-
-3) Lietuvos Respublikos įmonės, kurių daugiau kaip 50 procentų akcijų priklauso valstybei ar savivaldybei;
-
-
-
-
-4) užsienio valstybių valdžios ar valdymo institucijos.
- 
-
-
-
-
-
-
-
-
-9 straipsnis. Konkurso organizavimo komisija
-
-
-1. Šio įstatymo 7 straipsnio 4 dalyje nurodyta ir koncesijos konkursą skelbti įgaliota valstybės ar savivaldos institucija sudaro konkurso organizavimo komisiją ir patvirtina jos darbo reglamentą.
-
-
-
-
-2. Komisija veikia atitinkamai Lietuvos Respublikos Vyriausybės ar savivaldybės pavedimu ir yra atskaitinga ją sudariusiai institucijai.
- 
-
-
-
-
-
-
-10 straipsnis. Koncesijos sąlygos
-
-
-1. Konkurso organizavimo komisija per Konkurso organizavimo nuostatuose nustatytą laiką turi parengti valstybės pasiūlymą ir pateikti jį tvirtinti konkursą paskelbusiai institucijai. Pasiūlyme privalo būti nurodyta:
-
-
-1) koncesijos objektas ir jo charakteristikos;
-
-
-
-
-2) koncesijos suteikimo terminas;
-
-
-
-
-3) veiklos, darbų ir paslaugų rūšys;
-
-
-
-
-4) koncesininko veiklos sąlygos, sutartyje numatytų paslaugų ir prekių kainų (tarifų) nustatymo taisyklės;
-
-
-
-
-5) pagal koncesiją numatomai veiklai reikalingos žemės nuomos sąlygos;
-
-
-
-
-6) Lietuvos Respublikos įstatymų nustatytos sąlygos gauti leidimą pagal koncesiją numatomai žemės gelmių išteklių bei ertmių tyrimo, naudojimo ar kitai veiklai, kuriai pagal įstatymus reikalingi leidimai;
-
-
-
-
-7) valstybės, savivaldybės bei koncesininko nuosavybės teisės į pagamintą produkciją ar gautas pajamas;
-
-
-
-
-8) koncesijos atlygis;
-
-
-
-
-9) koncesijos objekto grąžinimo valstybei ar savivaldybei tvarka ir sąlygos;
-
-
-
-
-10) dokumentai, kurie turi būti pateikti kartu su paraiška dalyvauti koncesijos konkurse, jų pateikimo tvarka ir terminai;
-
-
-
-
-11) konkurso paraiškų vertinimo kriterijai.
-
-
-
-
-
-
-2. Atsižvelgiant į koncesijos objekto pobūdį ir specifiką, valstybės pasiūlyme gali būti nurodytos ir kitos koncesijos suteikimo ypatingos sąlygos, ypač susijusios su reikalavimais koncesininkui aplinkos apsaugos, darbo santykių ir darbų saugos srityse.
-
-
-
-
-3. Kai koncesijos konkursą paskelbusi institucija patvirtina komisijos parengtą valstybės pasiūlymą, jis skelbiamas per Lietuvos, o kai kuriais atvejais, minėtos institucijos sprendimu, ir per užsienio visuomenės informavimo priemones.
-
-
-
-
-4. Valstybės pasiūlyme paskelbtos sąlygos negali būti keičiamos vykstant deryboms dėl koncesijos sutarties pasirašymo.
- 
-
-
-
-
-
-
-11 straipsnis. Koncesijos konkursas
-
-
-1. Per valstybės pasiūlyme nustatytą laiką gautas konkurso dalyvių paraiškas ir dokumentus tikrina bei vertina konkurso organizavimo komisija, remdamasi valstybės pasiūlyme nustatytais vertinimo kriterijais.
-
-
-
-
-2. Konkurso organizavimo komisija, nustačiusi konkurso laimėtoją, teikia koncesijos konkursą paskelbusiai institucijai tvirtinti konkurso laimėtoją ir pasirašyti su juo koncesijos sutartį.
-
-
-
-
-3. Jeigu per valstybės pasiūlyme nustatytą terminą gauta tik viena konkurso sąlygas atitinkanti paraiška dalyvauti koncesijos konkurse, konkurso organizavimo komisija skelbia šią paraišką pateikusį dalyvį konkurso laimėtoju.
-
-
-
-
-4. Koncesijos sutartyje nustatytą veiklą gali vykdyti tik Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtos ir įregistruotos įmonės.
-
-
-
-
-5. Koncesijos konkursą laimėjusi užsienio įmonė iki koncesijos sutarties pasirašymo privalo Lietuvos Respublikos įstatymų nustatyta tvarka įsteigti ir įregistruoti dukterinę įmonę (užsienio koncesininką). Visos su koncesija susijusios teisės ir pareigos pereina naujai registruotai įmonei ir koncesijos sutartis pasirašoma su ja.
- 
-
-
-
-
-
-
-12 straipsnis. Koncesijos sutartis
-
-
-1. Koncesijos sutartis suteikia koncesininkui teisę naudotis pagal koncesiją objektu, vykdant sutartyje nurodytoje teritorijoje nustatytu laikotarpiu ir kitomis sutartomis sąlygomis nustatytą veiklą.
-
-
-
-
-2. Koncesijos sutartis turi atitikti Lietuvos Respublikos Vyriausybės patvirtintas Tipinės koncesijos sutarties nuostatas.
- 
-
-
-
-
-
-
-13 straipsnis. Privalomi koncesijos sutarties reikalavimai
-
-
-1. Koncesijos sutartis pasirašoma tomis sąlygomis, kurios pagal šio įstatymo 10 straipsnio 1 ir 2 dalis buvo paskelbtos valstybės pasiūlyme.
-
-
-
-
-2. Be šio straipsnio 1 dalyje nustatytų sąlygų, koncesijos sutartyje privalo būti nurodyta:
-
-
-1) sutarties galiojimo terminas, jo pratęsimo tvarka, sutarties sustabdymo ir nutraukimo pagrindai ir tvarka;
-
-
-
-
-2) sutarties šalių teisės bei įsipareigojimai, susiję su koncesijos sutartyje nustatyta veikla;
-
-
-
-
-3) koncesininko įsipareigojimai dėl sutartyje nustatytos veiklos finansavimo užtikrinimo;
-
-
-
-
-4) koncesijos sutarties papildymo ir keitimo tvarka;
-
-
-
-
-5) šalių atsakomybė už sutartyje nustatytų įsipareigojimų nevykdymą ar netinkamą vykdymą;
-
-
-
-
-6) ginčų ar nesutarimų tarp šalių sprendimo tvarka.
-
-
-
-
-
-
-3. Atsižvelgiant į koncesijos objekto pobūdį ir kitas aplinkybes, koncesijos sutartyje gali būti ir kitos sąlygos, neprieštaraujančios šiam ir kitiems Lietuvos Respublikos įstatymams bei teisės aktams.
- 
-
-
-
-
-
-
-14 straipsnis. Koncesijos sutarties pasibaigimas ir nutraukimas
-
-
-1. Koncesijos sutartis pasibaigia:
-
-
-1) pasibaigus jos galiojimo terminui, jeigu jis nepratęsiamas;
-
-
-
-
-2) koncesijos sutarties šalių susitarimu;
-
-
-
-
-3) koncesininko bankroto ir likvidavimo atveju.
-
-
-
-
-
-
-2. Koncesijos suteikėjas turi teisę reikalauti nutraukti koncesijos sutartį nesibaigus jos galiojimo terminui, jeigu koncesininkas:
-
-
-1) koncesijos konkurso metu pateikė neteisingus ir nepagrįstus duomenis apie savo finansinę padėtį bei ūkinę veiklą ir šios aplinkybės paaiškėjo po koncesijos sutarties pasirašymo;
-
-
-
-
-2) pažeidžia koncesijos sutartyje nustatytas sąlygas bei įsipareigojimus ir nepašalina šių pažeidimų sutartyje nustatyta tvarka bei terminais;
-
-
-
-
-3) pažeidžia kitų Lietuvos Respublikos įstatymų ir teisės aktų reikalavimus.
-
-
-
-
-
-
-3. Nutraukus sutartį šio straipsnio 2 dalyje nurodytais atvejais, koncesininkas privalo atlyginti valstybei (savivaldybei) visus su sutarties nutraukimu susijusius nuostolius.
-
-
-
-
-4. Koncesininkas turi teisę reikalauti nutraukti koncesijos sutartį nesibaigus jos galiojimo terminui, jeigu koncesijos suteikėjas pažeidžia koncesijos sutartyje ir valstybės pasiūlyme nustatytas sąlygas bei įsipareigojimus ir nepašalina šių pažeidimų sutartyje nustatyta tvarka bei terminais. Nutraukus koncesijos sutartį, koncesininkas turi teisę į nuostolių, susijusių su koncesijos sutarties nutraukimu, atlyginimą.
-
-
-
-
-5. Jeigu po koncesijos sutarties pasirašymo paaiškėja, kad koncesija ne dėl koncesininko kaltės buvo suteikta nesilaikant šio ir kitų Lietuvos Respublikos įstatymų reikalavimų bei pažeidžiant Lietuvos valstybės ir visuomenės interesus, reikalauti nutraukti koncesijos sutartį turi teisę:
-
-
-1) Lietuvos Respublikos Seimas nutarimu, jei koncesiją suteikė Lietuvos Respublikos Vyriausybė;
-
-
-
-
-2) Lietuvos Respublikos Vyriausybė nutarimu, jei koncesiją suteikė šio įstatymo 7 straipsnio 4 dalies 2 ir 3 punktuose nustatyta institucija;
-
-
-
-
-3) savivaldybės taryba sprendimu, jei koncesiją suteikė tos savivaldybės vykdomoji institucija.
-
-
-
-
-
-
-6. Nutraukus koncesijos sutartį šio straipsnio 5 dalyje nurodytais atvejais, valstybė (savivaldybė) koncesijos sutartyje nustatyta tvarka privalo išpirkti koncesininkui pagal sutartį priklausančias teises, taip pat atlyginti koncesininko nuostolius, susijusius su koncesijos sutarties nutraukimu.
-
-
-
-
-7. Su koncesijos sutarties nutraukimu susijusius nuostolius ir iš koncesininko išperkamas teises įvertina koncesininko ir koncesijos suteikėjo susitarimu įgaliota bei koncesijos sutartyje nustatyta institucija.
-
-
-
-
-8. Koncesijos sutarčiai pasibaigus ar ją nutraukus, koncesininkui perduoti arba pagal koncesijos sutartį sukurti koncesijos objektai (užbaigti arba neužbaigti) turi būti grąžinti valstybei ar savivaldybei.
-
-
-
-
-9. Koncesijos sutarties nutraukimo sąlygos ir tvarka turi būti detaliai reglamentuota koncesijos sutartyje.
+2. Suteikiančioji institucija, suteikdama koncesiją ir sudarydama koncesijos sutartį (ir kitas papildomas bei susijusias sutartis, įskaitant sutartis su koncesijos projekto finansuotojais) be konkurso, turi imtis visų reikiamų veiksmų, kad sutartyje būtų kiek galima geriau užtikrinti viešieji interesai ir būtų užtikrintos suteikiančiajai institucijai palankiausios koncesijos sutarties sąlygos, atsižvelgiant į visus susijusius veiksnius, įskaitant rizikos, kurią prisiima koncesininkas, mastą, galimybę gauti alternatyvius pasiūlymus iš kitų potencialių koncesininkų, koncesijos projekto sudėtingumą, konfidencialumo, nacionalinio saugumo ir gynybos bei kitus aspektus, susijusius su šio Įstatymo 17 straipsnyje numatytomis aplinkybėmis. 
  
 
 
@@ -603,69 +696,14 @@ KONCESIJOS SUTEIKIMO IR ATŠAUKIMO TVARKA
 
 
 KETVIRTASIS SKIRSNIS
-KONCESININKŲ APMOKESTINIMAS, TEISINĖ APSAUGA IR GARANTIJOS
+PRANEŠIMAS APIE SPRENDIMĄ SUDARYTI KONCESIJOS SUTARTĮ
  
 
 
-15 straipsnis. Koncesininkų apmokestinimas
+19 straipsnis. Pranešimas apie sprendimą sudaryti koncesijos sutartį
 
 
-1. Koncesininkas moka mokesčius Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-
-
-
-2. Koncesijos atlygį ir jo mokėjimo (perdavimo) tvarką pagal nutarimo (sprendimą) dėl koncesijos naudotis objektu suteikimo tikslingumo nustato koncesijos konkursą skelbianti valstybės (savivaldos) institucija. Koncesijos atlygis nurodomas koncesijos sutartyje ir mokamas (perduodamas) valstybei ar savivaldybei.
- 
-
-
-
-
-
-
-16 straipsnis. Neteko galios nuo 1998-07-01
-Straipsnio naikinimas:
-Nr. VIII-629, 1998-02-17, Žin. 1998, Nr. 25-632 (1998-03-13), i. k. 0981010ISTAVIII-629
- 
-
-
-
-
-17 straipsnis. Koncesininkų nuosavybės teisė
-
-
-1. Teisėtai pagal koncesijos sutartį gautos pajamos nuosavybės teise priklauso koncesininkui.
-
-
-
-
-2. Užsienio koncesininkai turi teisę jiems nuosavybės teise priklausančias pajamas pervesti į užsienį be apribojimų, sumokėjus Lietuvos Respublikos įstatymų nustatytus mokesčius ir koncesijos sutartyje nustatytą koncesijos atlygį.
- 
-
-
-
-
-
-
-18 straipsnis. Ginčų dėl koncesijos sprendimas
-
-
-1. Jei kyla nesutarimų ar ginčų tarp koncesijos suteikėjo ir koncesininko dėl koncesijos sutarties aiškinimo ar vykdymo, jie turi būti sprendžiami sutarties šalių derybomis. Jeigu derybomis ginčo išspręsti nepavyksta, jis nagrinėjamas Lietuvos Respublikos teismuose tais atvejais, kai koncesininkas yra Lietuvos įmonė.
-
-
-
-
-2. Ginčų su užsienio koncesininku sprendimo vieta ir taikytini įstatymai šalių tarpusavio susitarimu aptariami koncesijos sutartyje ir gali būti sprendžiami Lietuvos Respublikos teismų, tarptautinių arbitražų ir kitų institucijų. Jeigu tai sutartyje neaptarta, ginčai sprendžiami Lietuvos Respublikos teismuose vadovaujantis Lietuvos Respublikos įstatymais.
-
-
-
-
-3. Ginčo dėl užsienio kapitalo investavimo į koncesijos objektą atveju užsienio koncesininkas turi teisę pasinaudoti Užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 7 straipsnio septintojoje dalyje nustatyta teise.
-
-
-
-
-4. Jei šio straipsnio 1 ir 2 dalyse nustatytais atvejais ginčas nagrinėjamas vadovaujantis Lietuvos Respublikos įstatymais, taikomi tie įstatymai, kurie galiojo koncesijos sutarties tarp koncesijos suteikėjo ir koncesininko pasirašymo dieną, taip pat po koncesijos sutarties pasirašymo priimti nauji Lietuvos Respublikos įstatymai, jeigu jie nepablogina koncesininko teisinės padėties.
+Suteikiančioji institucija turi užtikrinti, kad pranešimas apie sprendimą dėl kiekvienos koncesijos sutarties sudarymo būtų paskelbtas „Valstybės žinių“ priede „Informaciniai pranešimai“. Pranešime turi būti nurodytas koncesininko pavadinimas ir koncesijos sutarties pagrindinių sąlygų apibūdinimas, tačiau informacija, kuri yra valstybės ar tarnybos paslaptis, nenurodoma. Pranešimo tekstą suteikiančioji institucija privalo išsiųsti spausdinti šiame straipsnyje nurodytame leidinyje ne vėliau kaip per 3 darbo dienas po koncesijos sutarties sudarymo.
  
 
 
@@ -676,36 +714,301 @@ Nr. VIII-629, 1998-02-17, Žin. 1998, Nr. 25-632 (1998-03-13), i. k. 0981010ISTA
 
 
 PENKTASIS SKIRSNIS
+SU KONCESIJŲ SUTEIKIMU SUSIJĘ GINČAI
+ 
+
+
+20 straipsnis. Su koncesijų suteikimu susijusių ginčų sprendimas
+
+
+ Konkurso, surengto pagal šį Įstatymą, dalyviai, su kuriais nuspręsta nesudaryti koncesijos sutarties, ir kiti asmenys, kurie mano, kad jų teisės suteikiant koncesijas buvo pažeistos, turi teisę ginti savo teises teisme pagal Lietuvos Respublikos įstatymus. Tokie reikalavimai teismui turi būti pateikiami per vieno mėnesio ieškinio senaties terminą nuo pranešimo apie sprendimą sudaryti koncesijos sutartį paskelbimo, kaip numatyta šio Įstatymo 19 straipsnyje, dienos.
+ 
+
+
+
+
+
+
+
+
+
+
+IV SKYRIUS
+KONCESIJOS SUTARTYS
+ 
+
+
+21 straipsnis. Suteikiančiosios institucijos dalyvavimo lygiais pagrindais ir sutarties laisvės principų taikymas koncesijos sutarčiai
+
+
+Sudarydama koncesijos sutartį, suteikiančioji institucija veikia remdamasi Lietuvos Respublikos civilinio kodekso 2.36 straipsniu. Visos koncesijos sutarties sąlygos yra jos šalių derybų objektas, tačiau turi būti laikomasi koncesijų suteikimo reikalavimų, nustatytų šio Įstatymo III skyriuje. Suteikiančioji institucija turi tokią pačią teisę susitarti dėl vėlesnių sudarytos koncesijos sutarties pakeitimų, jei tokie pakeitimai atitinka viešuosius interesus, kaip ir tardamasi dėl pradinių sutarties sąlygų.
+ 
+
+
+
+
+
+
+22 straipsnis. Koncesijos sutarties turinys
+
+
+Koncesijos sutartyje, jei suteikiančioji institucija nenustato ir (ar) šalys nesusitaria kitaip, nustatomos šios sąlygos:
+
+
+1) koncesininko atliekamų darbų ir (ar) teikiamų viešųjų paslaugų pobūdis ir mastas bei kitos sąlygos, apibūdinančios koncesijos sutarties dalyką;
+
+
+
+
+2) išankstinės koncesijos sutarties įsigaliojimo sąlygos;
+
+
+
+
+3) koncesijos sutarties terminas ir jo pratęsimo sąlygos, jei dėl jų susitariama;
+
+
+
+
+4) pagal Lietuvos Respublikos įstatymus koncesininkui suteikiamos išimtinės teisės;
+
+
+
+
+5) šalių teisės į turtą, kuris bus sukuriamas, naudojamas, keičiamas, valdomas, prižiūrimas ar patiekiamas (jei tai numatoma koncesijos sutartyje) arba kuriuo bus naudojamasi teikiant paslaugas ar atliekant darbus pagal koncesijos sutartį;
+
+
+
+
+6) terminas (ar terminai), per kurį (kuriuos) turi būti pabaigti darbai, ir tokio termino (ar terminų) pratęsimo sąlygos;
+
+
+
+
+7) apribojimai ar sąlygos, taikomi keičiantis kontrolę suteikiančios koncesininko kapitalo dalies savininkams (ar kitaip keičiantis koncesininką kontroliuojantiems subjektams);
+
+
+
+
+8) bet kokie mokėjimai, kuriuos pagal sutartį viena šalis turi atlikti kitai šaliai (įskaitant suteikiančiosios institucijos mokėjimus už koncesininko atliktą darbą ar teikiamas paslaugas), bei jų keitimo tvarka; 
+
+
+
+
+9) koncesininko teisės, jei jos suteikiamos, gauti iš trečiųjų fizinių ir juridinių asmenų koncesininkui nustatytą atlygį ar kitokį užmokestį už viešąsias paslaugas, teikiamas pagal koncesijos sutartį, atitinkama tokio koncesininkui nustatyto atlygio ar kitokio užmokesčio dydžio keitimo tvarka, susitarimas dėl atitinkamos savivaldybės tarybos nustatomų vietinių rinkliavų rinkimo, taip pat šių rinkliavų nustatyto ar pakeisto dydžio poveikis koncesijos sutarties šalių teisėms ir pareigoms;
+
+
+
+
+10) koncesininko įsipareigojimai, jei nustatomi, užtikrinti tretiesiems fiziniams ir juridiniams asmenims galimybę nuolat ir nediskriminacinėmis sąlygomis naudotis įrenginiais ir (ar) paslaugomis, teikiamomis pagal koncesijos sutartį;
+
+
+
+
+11) šalių teisė perleisti savo teises pagal koncesijos sutartį prievolių įvykdymo užtikrinimui ar kitokiu tikslu ir tokio perleidimo sąlygos; 
+
+
+
+
+12) reikalavimas, kad koncesininkas pateiktų savo prievolių įvykdymo užtikrinimą;
+
+
+
+
+13) reikalavimas, kad koncesininkas sudarytų su koncesijos projekto įgyvendinimu susijusias draudimo sutartis;
+
+
+
+
+14) koncesininko įsipareigojimai, susiję su aplinkos apsauga;
+
+
+
+
+15) šalių įsipareigojimai, susiję su žemės sklypo ar kito turto, reikalingo koncesijos projektui įgyvendinti, suteikimu naudotis, perleidimu ir (ar) įsigijimu, bei su tokiais įsipareigojimais susijusios kitos sąlygos;
+
+
+
+
+16) suteikiančiosios institucijos teisė kontroliuoti, kaip koncesininkas vykdo įsipareigojimus, įskaitant teisę tikrinti koncesininko naudojamą ir (ar) kuriamą turtą;
+
+
+
+
+17) nuostatos dėl nenugalimos jėgos poveikio, įstatymų pasikeitimo ar kitų sutartyje numatytų pokyčių pasekmių, įskaitant šalių teises reikalauti koncesijos sutarties pakeitimo ar nutraukimo, ar nuostolių, atsiradusių dėl tokių pokyčių, atlyginimo, jei dėl tokio atlyginimo yra susitarta;
+
+
+
+
+18) teisinės gynybos priemonės, kuriomis gali naudotis viena šalis, jei kita šalis nevykdo savo įsipareigojimų;
+
+
+
+
+19) koncesijos sutarties nutraukimo pagrindai ir tvarka;
+
+
+
+
+20) aplinkybės, kuriomis suteikiančioji institucija ar tretysis asmuo gali (laikinai ar kitaip) perimti bet kurios koncesininko pareigos įgyvendinimą, siekiant užtikrinti efektyvų ir nenutrūkstamą paslaugų teikimą tuo atveju, kai koncesininkas padaro esminį savo prievolių pagal koncesijos sutartį pažeidimą;
+
+
+
+
+21) mokestiniai ir finansiniai klausimai (tiek, kiek tokie susitarimai galimi pagal Lietuvos Respublikos įstatymus ir Lietuvos Respublikos tarptautines sutartis);
+
+
+
+
+22) sąryšis tarp koncesijos sutarties (ar jos šalių) ir bet kokių su ja susijusių ar papildomų sutarčių (ar jų šalių);
+
+
+
+
+23) koncesijos sutarčiai taikoma teisė;
+
+
+
+
+24) ginčų sprendimas;
+
+
+
+
+25) koncesijos sutarties dėl gamtos išteklių naudojimo atveju – nuostatos dėl geografinio regiono, dėl atlyginimo ar mokesčių už koncesininko išgautus ir jam tenkančius gamtos išteklius nustatymo ir mokėjimo (tiek, kiek tokie susitarimai galimi pagal Lietuvos Respublikos įstatymus ir Lietuvos Respublikos tarptautines sutartis), dėl nuosavybės teisės į atitinkamus gamtos išteklius bei dėl prekybos atitinkamais gamtos ištekliais;
+
+
+
+
+26) kitos nuostatos, dėl kurių susitaria šalys.
+ 
+
+
+
+
+
+
+
+
+23 straipsnis. Prievolių įvykdymo užtikrinimas
+
+
+Užtikrindamas bet kokių savo prievolių įvykdymą, koncesininkas turi teisę įkeisti ar perleisti savo turtines teises, kurias jis turi ar įgis ateityje pagal koncesijos sutartį, būsimas pajamas pagal koncesijos sutartį bei kitą savo turtą, taip pat užtikrinti savo prievolių įvykdymą kitais įstatymų numatytais prievolių įvykdymo užtikrinimo būdais.
+ 
+
+
+
+
+
+
+24 straipsnis. Taikoma teisė
+
+
+Koncesijos sutarties šalys turi teisę pasirinkti koncesijos sutarčiai ar jos atskiroms dalims taikomą teisę Lietuvos Respublikos civilinio kodekso nustatyta tvarka.
+ 
+
+
+
+
+
+
+25 straipsnis. Ginčų sprendimas
+
+
+1. Suteikiančioji institucija ir koncesininkas turi teisę susitarti dėl ginčų, kylančių iš koncesijos sutarties ar susijusių su ja, sprendimo tvarkos, įskaitant ginčų sprendimą tarptautinio ar nacionalinio komercinio arbitražo tvarka, atsižvelgiant į koncesijos projekto pobūdį. Lietuvos Respublikos įstatymų nustatytais atvejais suteikiančioji institucija turi gauti išankstinį steigėjo sutikimą susitarimui dėl ginčo sprendimo arbitražo tvarka. Jei ginčų sprendimas nėra aptartas koncesijos sutartyje, koncesijos sutarties šalių ginčus sprendžia Lietuvos Respublikos teismai, vadovaudamiesi Lietuvos Respublikos civilinio proceso kodeksu.
+
+
+
+
+2. Kilus suteikiančiosios institucijos ir koncesininko, kuris pagal Lietuvos Respublikos investicijų įstatymą laikomas užsienio investuotoju, ginčams, koncesininkas turi teises, numatytas Lietuvos Respublikos investicijų įstatymo 6 straipsnio 3 dalyje.
+ 
+
+
+
+
+
+
+26 straipsnis. Koncesijos sutarties nutraukimas
+
+
+1. Jei koncesijos sutartis nenumato kitaip, koncesijos sutarties šalis gali vienašališkai nutraukti koncesijos sutartį, jei:
+
+
+1) kita šalis sutarties nevykdo ar netinkamai įvykdo ir tai yra esminis sutarties pažeidimas, o sutartį vienašališkai nutraukianti šalis yra prieš tai pranešusi kitai šaliai apie koncesijos sutarties nevykdymą ar netinkamą vykdymą, tačiau sutarties nevykdanti ar ją netinkamai vykdanti šalis nepašalino esminių sutarties pažeidimų tokiu būdu ir per tokį laikotarpį, kurie buvo numatyti koncesijos sutartyje ir (ar) tokiame pranešime;
+
+
+
+
+2) koncesijos sutarties vykdymas tampa neįmanomas dėl aplinkybių, kurių sutartį vienašališkai nutraukianti šalis negalėjo kontroliuoti ar protingai numatyti koncesijos sutarties sudarymo metu ir negalėjo užkirsti kelio šioms aplinkybėms ar jų pasekmėms atsirasti.
+
+
+
+
+
+
+2. Be šio straipsnio 1 dalyje numatytų pagrindų, jei koncesijos sutartis nenumato kitaip, suteikiančioji institucija gali vienašališkai nutraukti koncesijos sutartį, jei:
+
+
+1) koncesininkas (ar konkurso dalyvis, įsteigęs koncesininką) koncesijos suteikimo metu pateikė suteikiančiajai institucijai iš esmės neteisingus duomenis, susijusius su jo finansine būkle ir (ar) ūkine veikla, ir tai buvo nustatyta po koncesijos sutarties sudarymo;
+
+
+
+
+2) koncesininkas yra likviduojamas ar jam vykdomos bankroto procedūros ir tai suteikiančiajai institucijai duoda pagrindą manyti, kad koncesijos projektas nebus įgyvendintas laikantis koncesijos sutartyje nustatytų sąlygų.
+ 
+
+
+
+
+
+
+
+
+
+
+V SKYRIUS
+MOKĖJIMAI. KONCESININKŲ TEISINĖ APSAUGA
+ 
+
+
+27 straipsnis. Mokėjimai pagal koncesijos sutartį
+
+
+1. Bet kokie mokėjimai koncesininkui už paslaugas, teikiamas pagal koncesijos sutartį, ir jų atlikimo tvarka numatoma ar aptariama koncesijos sutartyje vadovaujantis Lietuvos Respublikos įstatymų reikalavimais. 
+
+
+
+
+2. Tais atvejais, kai koncesijos sutarties dalykas yra viešųjų paslaugų, už kurias yra ar gali būti renkama vietinė rinkliava pagal Lietuvos Respublikos rinkliavų įstatymą, teikimas, suteikiančioji institucija gali suteikti ar perleisti koncesininkui teisę rinkti tokias rinkliavas iš fizinių ir juridinių asmenų. Tokiu atveju suteikiančioji institucija turi užtikrinti, kad būtų priimti visi tokiai teisei įgyvendinti reikalingi kompetentingų savivaldybių institucijų sprendimai. 
+ 
+
+
+
+
+
+
+28 straipsnis. Koncesininkų lygybė
+
+
+Lietuvos koncesininkai ir koncesininkai, kurie pagal Lietuvos Respublikos investicijų įstatymą yra laikomi užsienio investuotojais, pagal įstatymą yra lygūs ir vykdydami veiklą pagal šį ir kitus Lietuvos Respublikos įstatymus negali būti diskriminuojami. 
+ 
+
+
+
+
+
+
+
+
+VI SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-19 straipsnis. Tarptautinės sutartys
+29 straipsnis. Tarptautinės sutartys
 
 
-Jei Lietuvos Respublikos dvišalėse ar daugiašalėse tarptautinėse sutartyse nustatytos kitokios taisyklės negu šiame įstatyme, taikomos tarptautinės sutarties normos.
- 
-
-
-
-
-
-
-20 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas įsigalioja nuo 1997 m. sausio 1 d.
- 
-
-
-
-
-
-
-21 straipsnis. Pasiūlymas Vyriausybei
-
-
-Vyriausybė iki 1996 m. gruodžio 1 d. patvirtina Koncesijų konkurso organizavimo nuostatus bei Tipinės koncesijos sutarties pagrindines nuostatas.
+Jei Lietuvos Respublikos tarptautinėse sutartyse nustatytos kitokios taisyklės negu tos, kurios nustatytos šiame Įstatyme, taikomos tarptautinių sutarčių taisyklės.“
  
 
 
@@ -724,6 +1027,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
@@ -735,3 +1039,8 @@ Lietuvos Respublikos koncesijų įstatymo 16 straipsnio pripažinimo netekusiu g
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1306, 1999-07-07, Žin., 1999, Nr. 66-2123 (1999-07-30), i. k. 0991010ISTAIII-1306
 Lietuvos Respublikos koncesijų įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1647, 2003-06-24, Žin., 2003, Nr. 70-3163 (2003-07-16), i. k. 1031010ISTA0IX-1647
+Lietuvos Respublikos koncesijų įstatymo pakeitimo įstatymas
