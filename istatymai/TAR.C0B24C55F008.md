@@ -330,10 +330,10 @@ tvarka.
 2. Valstybės mokslo ir studijų
 institucijos (išskyrus viešąsias įstaigas) joms perduotu valstybės turtu
 naudojasi neatlygintinai patikėjimo teise.
-3. Turtą, kuris įsigytas iš nebiudžetinių lėšų, gautas
-dovanų, priimtas kaip palikimas ar įgytas kitu teisėtu būdu, mokslo ir studijų
-institucijos valdo, naudoja ir juo disponuoja nuosavybės teise pagal Civilinio
-kodekso normas.
+3. Turtą,
+kuris įsigytas iš nebiudžetinių lėšų, gautas dovanų, priimtas kaip palikimas ar
+įgytas kitu teisėtu būdu, mokslo ir studijų institucijos valdo, naudoja ir juo
+disponuoja nuosavybės teise pagal Civilinio kodekso normas.
  
 20 straipsnis. Mokslinių tyrimų
 įstaigų statutai ir įstatai
@@ -478,15 +478,20 @@ ir kitų mokslo ir studijų sistemos veiklą aprūpinančių institucijų veikla
 bendrieji mokslo ir studijų sistemos poreikiai, vykdomų programų
 administravimas finansuojami iš studijų, mokslinių tyrimų ir eksperimentinės
 plėtros programoms skirtų asignavimų.
-4. Mokslinius
-tyrimus ir jų rezultatų pritaikymo ūkinėje veikloje darbus atliekantys ūkio
-subjektai Valstybės pagalbos ūkio subjektams kontrolės įstatymo nustatytomis
-sąlygomis gali gauti valstybės pagalbą. Tokią pagalbą Vyriausybės nustatyta
-tvarka teikia ministerijos arba Lietuvos valstybinis mokslo ir studijų fondas.
+4. Mokslinius tyrimus ir jų rezultatų
+pritaikymo ūkinėje veikloje darbus atliekantys ūkio subjektai gali gauti
+valstybės pagalbą, jei tai neprieštarauja valstybės pagalbą nustatančioms
+Europos Sąjungos teisės normoms. Tokią pagalbą Vyriausybės nustatyta tvarka
+teikia ministerijos ir Lietuvos valstybinis mokslo ir studijų fondas.
 5. Lietuvos ūkio, kultūros, socialinės,
 sveikatos, krašto ir gamtos apsaugos bei kitų sričių programoms reikalingi
 moksliniai tyrimai, eksperimentinė plėtra ir specialistų rengimas finansuojami
 iš tvirtinant šias programas joms numatomų lėšų.
+Straipsnio
+pakeitimai:
+Nr.
+IX-2487,
+2004-10-12, Žin., 2004, Nr. 158-5756 (2004-10-30)
  
 25
 straipsnis. Valstybės biudžeto lėšų skyrimas aukštosioms mokykloms
@@ -545,8 +550,8 @@ vėliau kaip kovo mėnesį) viešai skelbia praėjusių metų pajamų ir išlaid
 ataskaitą.
 3. Mokslinių tyrimų įstaiga išlaidų
 apyskaitas įstatymų nustatyta tvarka pateikia institucijoms, iš kurių gavo
-finansavimą. Valstybės biudžeto lėšų panaudojimo tikslingumą kontroliuoja
-Valstybės kontrolė.
+finansavimą. Valstybės biudžeto lėšų panaudojimo tikslingumą kontroliuoja Valstybės
+kontrolė.
 4. Prireikus Švietimo ir mokslo
 ministerija gali inicijuoti įstaigos finansinės atskaitomybės auditą.
  
@@ -556,8 +561,8 @@ daktaro ir habilituoto daktaro mokslo laipsniai.
 2. Daktaro mokslo laipsnis suteikiamas
 asmenims, įvykdžiusiems doktorantūros reikalavimus ir apgynusiems daktaro
 disertaciją. Doktorantūros nuostatus, reglamentuojančius ir mokslo laipsnio
-teikimo tvarką, tvirtina Vyriausybė. Mokslinių tyrimų įstaigų doktorantai turi
-Aukštojo mokslo įstatymo ir kitų įstatymų nustatytas studentų teises.
+teikimo tvarką, tvirtina Vyriausybė. Mokslinių tyrimų įstaigų doktorantai turi Aukštojo
+mokslo įstatymo ir kitų įstatymų nustatytas studentų teises.
 3. Habilitacijos tvarką nustato
 Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos universitetų
 rektorių konferencijos, Lietuvos valstybinių mokslo institutų direktorių
@@ -663,8 +668,8 @@ darbuotojus ir kitus tyrėjus iš kitų valstybių dirbti pagal terminuotą darb
 sutartį. Kviestiniams dėstytojams, mokslo darbuotojams ir kitiems tyrėjams
 netaikoma šiame Įstatyme nustatyta skyrimo į pareigas tvarka.
 2. Mokslinių tyrimų įstaiga gali
-pagal sutartis su ūkio subjektais sudaryti galimybes jų tarnautojams atlikti
-įstaigoje mokslinius tyrimus ir (ar) eksperimentinės plėtros darbus.
+pagal sutartis su ūkio subjektais sudaryti galimybes jų tarnautojams atlikti įstaigoje
+mokslinius tyrimus ir (ar) eksperimentinės plėtros darbus.
  
 38 straipsnis. Profesoriai emeritai
 1. Vyresniems kaip šešiasdešimt
@@ -686,22 +691,22 @@ profesoriaus emerito valstybinę mokslininko pensiją.
 tyrėjų teisės ir pareigos
 1. Mokslininkai ir kiti tyrėjai turi
 lygias teises, neatsižvelgiant į jų lytį, rasę, politinius įsitikinimus,
-pažiūras, tikėjimą, kilmę, socialinę padėtį, tautybę ir kalbą, taip pat pilietybę,
-dalyvauti konkursuose į pareigas įstaigose.
+pažiūras, tikėjimą, kilmę, socialinę padėtį, tautybę ir kalbą, taip pat
+pilietybę, dalyvauti konkursuose į pareigas įstaigose.
 2. Mokslininkai ir kiti tyrėjai turi
 teisę:
 1) dalyvauti konkursuose mokslo
 programoms vykdyti bei mokslo ir studijų fondų paramai gauti, disponuoti
 skirtomis lėšomis;
-2) dalyvauti konkursuose stažuotėms Lietuvos
-Respublikoje ir užsienyje;
+2) dalyvauti konkursuose stažuotėms
+Lietuvos Respublikoje ir užsienyje;
 3) gauti iš valstybės institucijų
 moksliniam darbui reikalingą informaciją. Jeigu tokia informacija yra valstybės
 ar tarnybos paslaptis, ji teikiama ir naudojama teisės aktų nustatyta tvarka;
 4) dalyvauti priimant sprendimus dėl
 savo įstaigos statuto (įstatų) turinio ir veiklos plano;
-5) dalyvauti įvairiose profesinėse
-sąjungose bei visuomeninėse organizacijose, tarp jų ir esančiose užsienyje.
+5) dalyvauti įvairiose profesinėse sąjungose
+bei visuomeninėse organizacijose, tarp jų ir esančiose užsienyje.
 3. Mokslininkai, be šio straipsnio 2
 dalyje išvardytų teisių, taip pat turi teisę:
 1) dirbti savarankiškai arba jungtis į
@@ -726,13 +731,13 @@ etikos normų;
 nustatytas pareigas bei funkcijas.
  
  
- 
 LIETUVOS
 RESPUBLIKOS
 AUKŠČIAUSIOSIOS
 TARYBOS
 PIRMININKAS   
-                                                               VYTAUTAS LANDSBERGIS
+                                                               VYTAUTAS
+LANDSBERGIS
  
 Vilnius,
 1991 m. vasario 12 d.
@@ -751,10 +756,20 @@ MOKSLO IR STUDIJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 2002 m. spalio 1 d.
 Nauja įstatymo redakcija
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-2487,
+2004-10-12, Žin., 2004, Nr. 158-5756 (2004-10-30)
+MOKSLO
+IR STUDIJŲ ĮSTATYMO 24 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2002-07-04)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2004-11-02)
+                 
+autrap@lrs.lt
 
