@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 1997-06-25 iki 1997-07-10
+Suvestinė redakcija nuo 1997-07-11 iki 1997-12-09
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -1062,13 +1062,15 @@ Vyriausybės Ekstremalių situacijų komisija:
 
 
 
-24 straipsnis. Apskrities valdytojas
+24 straipsnis. Apskrities viršininkas
 
 
-Apskrities, kurios teritorijoje yra numatomas statyti arba pradėtas statyti branduolinės energetikos objektas, valdytojas, vykdydamas šio objekto priežiūrą ir kontrolę, veikia laikydamasis įgaliojimų, kuriuos jam suteikia Lietuvos Respublikos apskrities valdymo, šis ir kiti Lietuvos Respublikos įstatymai bei poįstatyminiai aktai.
+Apskrities, kurios teritorijoje yra numatomas statyti arba pradėtas statyti branduolinės energetikos objektas, viršininkas, vykdydamas šio objekto priežiūrą ir kontrolę, veikia laikydamasis įgaliojimų, kuriuos jam suteikia Lietuvos Respublikos apskrities valdymo, šis ir kiti Lietuvos Respublikos įstatymai bei poįstatyminiai aktai. 
+
+
+Straipsnio pakeitimai:
+Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
  
-
-
 
 
 
@@ -1355,7 +1357,10 @@ Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010IS
 32 straipsnis. Branduolinės energetikos objektų statybos valstybinė kontrolė ir priežiūra
 
 
-1. Leidimą statyti branduolinės energetikos objektą nustatyta tvarka išduoda apskrities valdytojo administracija.
+1. Leidimą statyti branduolinės energetikos objektą nustatyta tvarka išduoda apskrities viršininko administracija. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
+ 
 
 
 
@@ -1365,7 +1370,9 @@ Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010IS
 
 
 
-3. Visose darbų vykdymo stadijose branduolinės saugos, radiacinės apsaugos ir kituose norminiuose aktuose nustatytų sąlygų bei reikalavimų įgyvendinimą kontroliuoja ir prižiūri pagal kompetenciją: Valstybinė atominės energetikos saugos inspekcija, Sveikatos apsaugos ministerija, Aplinkos apsaugos ministerija, Statybos ir urbanistikos ministerija, Socialinės apsaugos ir darbo ministerija, Vidaus reikalų ministerija, Valstybės saugumo departamentas ir apskrities valdytojas.
+3. Visose darbų vykdymo stadijose branduolinės saugos, radiacinės apsaugos ir kituose norminiuose aktuose nustatytų sąlygų bei reikalavimų įgyvendinimą kontroliuoja ir prižiūri pagal kompetenciją: Valstybinė atominės energetikos saugos inspekcija, Sveikatos apsaugos ministerija, Aplinkos apsaugos ministerija, Statybos ir urbanistikos ministerija, Socialinės apsaugos ir darbo ministerija, Vidaus reikalų ministerija, Valstybės saugumo departamentas ir apskrities viršininkas. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
  
 
 
@@ -1525,9 +1532,10 @@ Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010IS
 38 straipsnis. Atominę elektrinę eksploatuojančios organizacijos pareigos rengiantis nutraukti objekto eksploataciją
 
 
-1. Atominę elektrinę eksploatuojanti organizacija, ketinanti nutraukti objekto eksploataciją, turi prieš 5 metus pateikti VATESI eksploatacijos nutraukimo programą, atitinkančią elektrinės statybos įstatymą, suderintą su Ūkio ministerija, Aplinkos apsaugos ministerija, Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija, apskrities valdytoju bei vietos savivaldos institucija, kurios teritorija ar jos dalis yra objekto sanitarinėje apsaugos zonoje. Programoje turi būti numatytos įrenginių demontavimo, konservavimo, radioaktyviųjų medžiagų tvarkymo ir objekto vėlesnės kontrolės bei priežiūros priemonės. 
+1. Atominę elektrinę eksploatuojanti organizacija, ketinanti nutraukti objekto eksploataciją, turi prieš 5 metus pateikti VATESI eksploatacijos nutraukimo programą, atitinkančią elektrinės statybos įstatymą, suderintą su Ūkio ministerija, Aplinkos apsaugos ministerija, Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija, apskrities viršininku bei vietos savivaldos institucija, kurios teritorija ar jos dalis yra objekto sanitarinėje apsaugos zonoje. Programoje turi būti numatytos įrenginių demontavimo, konservavimo, radioaktyviųjų medžiagų tvarkymo ir objekto vėlesnės kontrolės bei priežiūros priemonės. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
+Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
  
 
 
@@ -2320,3 +2328,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
 Lietuvos Respublikos branduolinės energijos įstatymo 7, 9, 26, 29, 30, 37, 38, 71 ir 74 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
+Lietuvos Respublikos branduolinės energijos įstatymo 24, 32, 38 straipsnių pakeitimo įstatymas
