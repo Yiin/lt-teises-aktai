@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1992-03-25 iki 1992-07-02
+Suvestinė redakcija nuo 1992-07-03 iki 1992-09-24
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
  
@@ -135,7 +135,10 @@ PRIVATIZAVIMO OBJEKTAI IR SUBJEKTAI
 
 4) valstybinis turtas, kuris neperkainotas pagal Lietuvos Respublikos Vyriausybės nustatytas taisykles.
 
-2. Privatizavimo objektų, parduodamų tik už laisvai konvertuojamą valiutą, sąrašą Lietuvos Respublikos Vyriausybės teikimu tvirtina Aukščiausioji Taryba.
+2. Privatizavimo objektų, parduodamų tik už laisvai konvertuojamą valiutą, sąrašą tvirtina Centrinė privatizavimo komisija. 
+Straipsnio dalies pakeitimai:
+Nr. I-2658, 1992-06-23, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 20-590 (1992-07-20), i. k. 0921010ISTA00I-2658
+ 
 
 3. Lietuvos Respublikos Vyriausybės nutarimais, taip pat jais remiantis priimtais aukštesniosios pakopos vietos savivaldybių (vietinio ūkio objektams) nutarimais gali būti nustatomi ir kiti Respublikos ar vietinio ūkio objektai, kurių negalima privatizuoti, taip pat gali būti nustatomos ir įmonės, kurios gali veikti tik kaip valstybinės įmonės.
 
@@ -189,7 +192,9 @@ Straipsnio dalies pakeitimai:
 Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
  
 
-4. Lietuvos ir kitų valstybių fiziniai ir juridiniai asmenys turi teisę už laisvai konvertuojamą valiutą įsigyti privatizavimo objektus (akcijas), kurie įtraukti į atskirą, Lietuvos Respublikos Aukščiausiosios Tarybos patvirtintą, sąrašą.
+4. Lietuvos ir kitų valstybių fiziniai ir juridiniai asmenys turi teisę už laisvai konvertuojamą valiutą įsigyti privatizavimo objektus (akcijas), kurie įtraukti į atskirą, Centrinės privatizavimo komisijos patvirtintą, sąrašą.
+Straipsnio dalies pakeitimai:
+Nr. I-2658, 1992-06-23, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 20-590 (1992-07-20), i. k. 0921010ISTA00I-2658
 Straipsnio dalies numeracijos pakeitimas:
 Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
  
@@ -280,7 +285,12 @@ PRIVATIZAVIMO OBJEKTŲ PARDAVIMAS
 
 1) parduodant privatizavimo objektus aukcione;
 
-2) skelbiant viešą akcijų pasirašymą.
+2) skelbiant viešą akcijų pasirašymą;
+
+3) rengiant konkursus privatizavimo objektams, parduodamiems už laisvai konvertuojamą valiutą, įsigyti. Konkursų rengimo tvarką ir sąlygas nustato Lietuvos Respublikos Vyriausybė. 
+Papildyta punktu:
+Nr. I-2658, 1992-06-23, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 20-590 (1992-07-20), i. k. 0921010ISTA00I-2658
+ 
 
 2. Privatizavimo objektas (akcijos) parduodamas fiziniam asmeniui, investicinei akcinei bendrovei privačios nuosavybės teise, fizinių asmenų grupei – privačios bendrosios dalinės arba sutuoktinių bendrosios jungtinės nuosavybės teise. 
 Straipsnio dalies pakeitimai:
@@ -289,7 +299,10 @@ Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 199
 
 3. Privatizavimo objektas, kurio pradinė pardavimo kaina yra didesnė kaip 500 tūkstančių rublių, parduodamas tik skelbiant viešą akcijų pasirašymą. Ši sąlyga netaikoma objektams, parduodamiems už laisvai konvertuojamą valiutą. Išleidžiamų akcijų nominalių verčių suma turi būti lygi privatizavimo objekto valstybinio kapitalo (numatytos privatizuoti jo dalies) dydžiui, apskaičiuotam pagal Lietuvos Respublikos Vyriausybės nustatytas taisykles.
 
-4. Valstybinės akcinės ir valstybinės įmonės, turinčios akcinio kapitalo, privatizuojamos tik skelbiant viešą akcijų pasirašymą.
+4. Valstybinės akcinės ir valstybinės įmonės, turinčios akcinio kapitalo, privatizuojamos tik skelbiant viešą akcijų pasirašymą. Ši sąlyga netaikoma objektams, parduodamiems už laisvai konvertuojamą valiutą.
+Straipsnio dalies pakeitimai:
+Nr. I-2658, 1992-06-23, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 20-590 (1992-07-20), i. k. 0921010ISTA00I-2658
+ 
 
 5. Jeigu veikianti įmonė parduodama visa, o ne suskaidyta į atskirus privatizavimo objektus, tai ją įsigiję fiziniai asmenys, taip pat jų įsteigtos įmonės perima visas įsigytosios įmonės teises ir prievoles. Jeigu veikianti įmonė privatizuojama išskaidant ją į atskirus objektus, kurie gali funkcionuoti kaip įmonės, tai privatizuojamos įmonės teisės ir prievolės paskirstomos privatizuojamų objektų įgijėjams pagal Lietuvos Respublikos Vyriausybės nustatytas taisykles. Lietuvos Respublikos Vyriausybė turi teisę padengti visas ar dalį privatizuojamos įmonės paskolų.
 
@@ -473,4 +486,9 @@ Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo kai
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-2385, 1992-03-17, Lietuvos aidas, 1992, Nr. 57-0 (1992-03-24); Žin., 1992, Nr. 10-247 (1992-04-10), i. k. 0921010ISTA00I-2385
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 7 straipsnio ketvirtosios dalies papildymo
+ 
+6.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2658, 1992-06-23, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 20-590 (1992-07-20), i. k. 0921010ISTA00I-2658
+Dėl kai kurių Lietuvos Respublikos įstatymų atskirų straipsnių pakeitimo
 
