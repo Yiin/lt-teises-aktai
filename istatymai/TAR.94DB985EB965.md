@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 1995-03-29 iki 1997-07-22
+Suvestinė redakcija nuo 1997-07-23 iki 2000-03-28
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
  
@@ -932,7 +932,10 @@ Reorganizuojamos kooperatinės bendrovės turi parengti reorganizavimo projektą
 
 
 
-3) prievolių perėmimas ir perėmimo terminai; 
+3) prievolių, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki po reorganizavimo veikiančių įmonių įstatų įregistravimo įstatymų nustatyta tvarka, perėmimas ir perėmimo terminai;
+Straipsnio punkto pakeitimai:
+Nr. VIII-380, 1997-07-02, Žin., 1997, Nr. 69-1741 (1997-07-23), i. k. 0971010ISTAVIII-380
+ 
 
 
 
@@ -1057,7 +1060,10 @@ Paskyrus likvidatorius, kooperatinė bendrovė įgyja likviduojamos bendrovės s
 
 
 
-5) baigia vykdyti prievoles pagal kooperatinės bendrovės sandorius ir sudaro naujus, neprieštaraujančius likviduojamos bendrovės veiklą reglamentuojantiems įstatymams;
+5) baigia vykdyti prievoles, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, ne vėliau kaip per 6 mėnesius nuo likvidavimo paskelbimo dienos, pagal kooperatinės bendrovės sandorius ir sudaro naujus, neprieštaraujančius likviduojamos bendrovės veiklą reglamentuojantiems įstatymams;
+Straipsnio punkto pakeitimai:
+Nr. VIII-380, 1997-07-02, Žin., 1997, Nr. 69-1741 (1997-07-23), i. k. 0971010ISTAVIII-380
+ 
 
 
 
@@ -1169,3 +1175,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
 Dėl Lietuvos Respublikos kooperacijos įstatymo pakeitimo ir papildymo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-380, 1997-07-02, Žin., 1997, Nr. 69-1741 (1997-07-23), i. k. 0971010ISTAVIII-380
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 19 ir 20 straipsnių papildymo įstatymas
