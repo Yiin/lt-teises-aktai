@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 1999-12-22 iki 2000-10-31
+Suvestinė redakcija nuo 2000-11-01 iki 2001-12-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
  
@@ -324,7 +324,10 @@ Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010IS
 
 
 
-11) suderinusi su Pasienio policijos departamentu prie Vidaus reikalų ministerijos bei Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į zoną tvarką bei tvirtina leidimų pavyzdžius.
+11) suderinusi su Valstybės sienos apsaugos tarnyba bei Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į zoną tvarką bei tvirtina leidimų pavyzdžius. 
+Straipsnio punkto pakeitimai:
+Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010ISTAIII-2004
+ 
 
 
 
@@ -354,7 +357,10 @@ Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010IS
 
 
 
-4) išduoda bendrovės valdybos nustatyto ir su Pasienio policijos departamentu prie Vidaus reikalų ministerijos ir Muitinės departamentu prie Finansų ministerijos suderinto pavyzdžio leidimus įeiti į zoną;
+4) išduoda bendrovės valdybos nustatyto ir su Valstybės sienos apsaugos tarnyba bei Muitinės departamentu prie Finansų ministerijos suderinto pavyzdžio leidimus įeiti į zoną; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010ISTAIII-2004
+ 
 
 
 
@@ -504,3 +510,8 @@ Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 6, 7, 8 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1457, 1999-12-02, Žin., 1999, Nr. 108-3126 (1999-12-22), i. k. 0991010ISTAIII-1457
 Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010ISTAIII-2004
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7 straipsnio pakeitimo įstatymas
