@@ -534,10 +534,19 @@ pareigūnų atostogos
             Prokuratūros pareigūnams
 atostogos suteikiamos Lietuvos Respublikos atostogų įstatymo nustatyta tvarka. 
  
-            39 straipsnis. Kitos prokuratūros
-pareigūnų socialinės garantijos
-            Kitas prokuratūros pareigūnų
-socialines garantijas nustato Lietuvos Respublikos įstatymai. 
+39 straipsnis. Prokuratūros pareigūnų valstybinis
+socialinis draudimas ir kitos socialinės
+garantijos
+Prokuratūros
+pareigūnai draudžiami valstybiniu socialiniu draudimu Lietuvos Respublikos
+valstybinio socialinio draudimo įstatyme nustatyta tvarka.
+Kitas
+prokuratūros pareigūnų socialines garantijas nustato Lietuvos Respublikos
+įstatymai.
+Straipsnio
+pakeitimai:
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
  
             40 straipsnis. Prokuratūros
 pareigūnų socialinių garantijų atėmimas
@@ -559,9 +568,9 @@ prokuratūros išlaidas tvirtina Lietuvos Respublikos Seimas.
  
             42 straipsnis. Prokuratūros
 materialinis aprūpinimas
-            Lietuvos Respublikos Vyriausybė
-ir savivaldybių vykdomieji organai suteikia prokuratūroms tarnybines patalpas
-ir ryšių priemones, garantuoja kitą materialinį aprūpinimą. 
+            Lietuvos Respublikos
+Vyriausybė ir savivaldybių vykdomieji organai suteikia prokuratūroms tarnybines
+patalpas ir ryšių priemones, garantuoja kitą materialinį aprūpinimą. 
  
 IX SKIRSNIS
 BAIGIAMIEJI
@@ -576,9 +585,9 @@ kvalifikacijos kėlimo įstaigas, leisti specialius leidinius.
  
             44 straipsnis. Prokuratūros
 tarptautiniai ryšiai
-            Lietuvos Respublikos prokuratūra
-palaiko ryšius su kitų valstybių prokuratūromis ir kitomis teisėsaugos
-institucijomis. 
+            Lietuvos Respublikos
+prokuratūra palaiko ryšius su kitų valstybių prokuratūromis ir kitomis
+teisėsaugos institucijomis. 
  
             45 straipsnis. Lietuvos
 Respublikos prokuratūros įstatymo įsigaliojimas
@@ -594,7 +603,7 @@ tvarkos".
             Skelbiu šį Lietuvos
 Respublikos Seimo priimtą įstatymą. 
  
-RESPUBLIKOS PREZIDENTAS                                             
+RESPUBLIKOS PREZIDENTAS                                             
 ALGIRDAS BRAZAUSKAS 
 
 __________
@@ -637,8 +646,18 @@ Nr. IX-43, 2000 11 28, Žin., 2000, Nr.
 103-3259 (2000 12 01)
 PROKURATŪROS ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
+VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO,
+KONSTITUCINIO TEISMO ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO
+SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS
+PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ
+APSAUGOS KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000 12 01)
-autrap@lrs.lt
+Redagavo: Angonita Rupšytė (2001-07-25)
+                  anrups@lrs.lt
