@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
-Suvestinė redakcija nuo 1999-07-09 iki 2000-03-30
+Suvestinė redakcija nuo 2000-03-31 iki 2002-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
  
@@ -469,25 +469,20 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-17 straipsnis. Įstatymo įgyvendinimas
+17 straipsnis. Įstatymo įsigaliojimo ir įgyvendinimo tvarka
 
 
-1. Vyriausybė iki 1999 m. liepos 1 d. parengia šio įstatymo įgyvendinimo programą, priima teisės aktus ir parengia įstatymų projektus, kurių reikia šiam įstatymui įgyvendinti.
-
-
-
-
-2. Asmenys, turintys Lietuvos Respublikos piliečio pase ar leidime nuolat gyventi Lietuvos Respublikoje jų gyvenamąją vietą atitinkantį įrašą apie nuolatinę gyvenamąją vietą, laikomi deklaravusiais savo gyvenamąją vietą. Kiti asmenys deklaruoja savo gyvenamąją vietą šio įstatymo nustatyta tvarka.
+1. Šis įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 
 
 
 
-3. Šis įstatymas įsigalioja nuo 2000 m. balandžio 1 d.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1259, 1999-06-22, Žin., 1999, Nr. 60-1953 (1999-07-09), i. k. 0991010ISTAIII-1259
+2. Šio įstatymo įgyvendinimo tvarką nustato Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo įgyvendinimo įstatymas.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1598, 2000-03-28, Žin., 2000, Nr. 27-716 (2000-03-31), i. k. 1001010ISTAIII-1598
  
-
-
 
 
 
@@ -508,4 +503,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1259, 1999-06-22, Žin., 1999, Nr. 60-1953 (1999-07-09), i. k. 0991010ISTAIII-1259
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 17 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1598, 2000-03-28, Žin., 2000, Nr. 27-716 (2000-03-31), i. k. 1001010ISTAIII-1598
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 17 straipsnio pakeitimo įstatymas
