@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"
 
 # Lietuvos Respublikos Konstitucija
 
-Suvestinė redakcija nuo 1997-01-13 iki 2002-07-20
+Suvestinė redakcija nuo 2002-07-21 iki 2003-02-23
  
 Konstitucija paskelbtas: Lietuvos aidas 1992, Nr. 220-0; Žin. 1992, Nr.33-1014, i. k. 0921010KONSRG922324
  
@@ -2785,9 +2785,10 @@ Savivaldos teisė laiduojama įstatymo numatytiems valstybės teritorijos admini
 
 
 
-Savivaldybių tarybų narius trejiems metams renka administracinio vieneto gyventojai - Lietuvos Respublikos piliečiai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
+Savivaldybių tarybų nariais Lietuvos Respublikos piliečius ir kitus nuolatinius administracinio vieneto gyventojus pagal įstatymą ketveriems metams renka Lietuvos Respublikos piliečiai ir kiti nuolatiniai administracinio vieneto gyventojai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
 Straipsnio dalies pakeitimai:
 Nr. VIII-32, 1996-12-12, Žin., 1996, Nr. 122-2863 (1996-12-18), i. k. 0961010ISTA0VIII-32
+Nr. IX-959, 2002-06-20, Žin., 2002, Nr. 65-2629 (2002-06-28), i. k. 1021010ISTA00IX-959
  
 
 
@@ -3453,4 +3454,9 @@ Lietuvos Respublikos Konstitucijos 47 straipsnio papildymo įstatymas
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-32, 1996-12-12, Žin., 1996, Nr. 122-2863 (1996-12-18), i. k. 0961010ISTA0VIII-32
+Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-959, 2002-06-20, Žin., 2002, Nr. 65-2629 (2002-06-28), i. k. 1021010ISTA00IX-959
 Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymas
