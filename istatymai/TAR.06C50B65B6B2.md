@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
+Suvestinė redakcija nuo 2003-05-01 iki 2004-04-15
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
+ 
 LIETUVOS RESPUBLIKOS ŽALOS, ATSIRADUSIOS DĖL VALDŽIOS INSTITUCIJŲ NETEISĖTŲ VEIKSMŲ, ATLYGINIMO Į S T A T Y M A S  
 2002 m. gegužės 21 d. Nr. IX-895
 Vilnius
@@ -236,7 +240,10 @@ Vilnius
 
 
 
-2. Valstybė, atlyginusi žalą, įgyja regreso (atgręžtinio reikalavimo) teisę į asmenį, melagingai pranešusį apie nusikaltimą, melagingai asmenį įskundusį, kad šis padarė nusikaltimą ar administracinį teisės pažeidimą, arba asmenį, davusį melagingus parodymus, melagingą eksperto ar revizoriaus išvadą, melagingą specialisto paaiškinimą ar išvadą arba pateikusio žinomai neteisingą vertimą, jeigu šiais veiksmais toks asmuo padarė nusikaltimą, kuris nustatytas įsiteisėjusiu teismo nuosprendžiu.
+2. Valstybė, atlyginusi žalą, įgyja regreso (atgręžtinio reikalavimo) teisę į asmenį, melagingai pranešusį apie nusikalstamą veiką, melagingai asmenį įskundusį, kad šis padarė nusikalstamą veiką ar administracinį teisės pažeidimą, arba asmenį, davusį melagingus parodymus, melagingą eksperto ar revizoriaus išvadą, melagingą specialisto paaiškinimą ar išvadą arba pateikusio žinomai neteisingą vertimą, jeigu šiais veiksmais toks asmuo padarė nusikalstamą veiką, kuri nustatyta įsiteisėjusiu teismo nuosprendžiu.
+Straipsnio dalies pakeitimai:
+Nr. IX-1437, 2003-04-03, Žin., 2003, Nr. 38-1682 (2003-04-24), i. k. 1031010ISTA0IX-1437
+ 
 
 
 
@@ -296,3 +303,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1437, 2003-04-03, Žin., 2003, Nr. 38-1682 (2003-04-24), i. k. 1031010ISTA0IX-1437
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas
