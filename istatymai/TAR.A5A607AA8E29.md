@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1995-05-26 iki 1995-06-08
+Suvestinė redakcija nuo 1995-06-09 iki 1995-07-18
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
  
@@ -195,10 +195,11 @@ Nr. I-2385, 1992-03-17, Lietuvos aidas, 1992, Nr. 57-0 (1992-03-24); Žin., 1992
 
 9 straipsnis. Asmenys, turintys teisę įsigyti privatizuojamą turtą
 
-1. Privatizavimo objektus (akcijas) gali įsigyti Lietuvos Respublikos piliečiai, o investicinės akcinės bendrovės, žemės ūkio bendrovės ir uždarosios akcinės bendrovės (kurių steigėjai yra Lietuvos Respublikos piliečiai – fiziniai asmenys) – tik šio įstatymo nustatytais atvejais. Ši nuostata netaikoma valstybinio ir visuomeninio butų fondo butams įsigyti. 
+1. Privatizavimo objektus (akcijas) gali įsigyti Lietuvos Respublikos piliečiai, o politinės partijos, investicinės akcinės bendrovės, žemės ūkio bendrovės ir uždarosios akcinės bendrovės (kurių steigėjai yra Lietuvos Respublikos piliečiai – fiziniai asmenys) – tik šio įstatymo nustatytais atvejais. Ši nuostata netaikoma valstybinio ir visuomeninio butų fondo butams įsigyti. 
 Straipsnio dalies pakeitimai:
 Nr. I-1146, 1991-03-14, Žin., 1991, Nr. 10-262 (1991-04-10), i. k. 0911010ISTA00I-1146
 Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, Nr. 6-116 (1993-02-28), i. k. 0931010ISTA0000I-64
+Nr. I-914, 1995-06-01, Žin., 1995, Nr. 48-1164 (1995-06-09), i. k. 0951010ISTA000I-914
  
 
 2. Asmenys, kurie pagal Lietuvos Respublikos pilietybės įstatymą turi teisę į Lietuvos Respublikos pilietybės atstatymą, gali įsigyti privatizavimo objektus (akcijas) už laisvai konvertuojamą valiutą, taikant Lietuvos Respublikos Vyriausybės šiam tikslui nustatytą rublio ir konvertuojamų valiutų santykį. 
@@ -576,6 +577,16 @@ Papildyta straipsniu:
 Nr. I-2893, 1992-09-17, Lietuvos aidas, 1992, Nr. 187-0 (1992-09-24); Žin., 1992, Nr. 28-812 (1992-10-10), i. k. 0921010ISTA00I-2893
  
 
+21 straipsnis. Politinių partijų užimamų patalpų privatizavimas
+
+1. Nuomojamas (ar kitaip teisėtu pagrindu naudojamas) valstybinio reguliavimo sričiai priklausančias patalpas (pastatus), išskyrus esančias neprivatizuotinuose administraciniuose pastatuose, gali išsipirkti politinės partijos ir politinės organizacijos balansine verte už Lietuvos Respublikos pinigus (litus) Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+2. Teisę įsigyti užimamas patalpas (pastatus) turi politinės partijos ir politinės organizacijos, užsiregistravusios Lietuvos Respublikos teisingumo ministerijoje pagal Politinių partijų įstatymą iki 1995 m. birželio 1 dienos. 
+
+Papildyta straipsniu:
+Nr. I-914, 1995-06-01, Žin., 1995, Nr. 48-1164 (1995-06-09), i. k. 0951010ISTA000I-914
+ 
+
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
 PIRMININKAS                                                                                                    V. LANDSBERGIS
@@ -668,4 +679,9 @@ Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo pap
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-897, 1995-05-18, Žin., 1995, Nr. 44-1080 (1995-05-26), i. k. 0951010ISTA000I-897
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 12 straipsnio papildymo
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-914, 1995-06-01, Žin., 1995, Nr. 48-1164 (1995-06-09), i. k. 0951010ISTA000I-914
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo
 
