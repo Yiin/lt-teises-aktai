@@ -187,8 +187,7 @@ sudarytas sutartis – kiti fiziniai bei juridiniai asmenys.
 Savarankiškosios savivaldybių funkcijos 
 Nustatomos šios
 savarankiškosios savivaldybių funkcijos:
-1)
-ikimokyklinis vaikų ugdymas;
+1) ikimokyklinis vaikų ugdymas;
 2) vaikų ir
 jaunimo papildomas ugdymas bei užimtumas, profesinis mokymas; 
 3) suaugusiųjų
@@ -300,14 +299,13 @@ kitų paslaugų teikimo tvarkos turgavietėse bei viešosiose vietose nustatymas
 Valstybinės (perduotos savivaldybėms) funkcijos
 Valstybinės
 (perduotos savivaldybėms) funkcijos yra:
-1)
-civilinės būklės aktų registravimas;
+1) civilinės būklės aktų registravimas;
 2) įstatymų
 priskirtų registrų tvarkymas ir duomenų teikimas valstybės registrams;
 3) civilinės
 saugos organizavimas;
-4)
-savivaldybės priešgaisrinių tarnybų organizavimas;
+4) savivaldybės priešgaisrinių tarnybų
+organizavimas;
 5) dalyvavimas
 valdant valstybinius parkus;
 6) kompensacijų
@@ -361,6 +359,7 @@ Straipsnio
 pakeitimai:
 Nr. IX-426, 2001-07-05, Žin., 2001, Nr.
 64-2323 (2001-07-25)
+ 
  
 9 straipsnis.
 Sutartinės savivaldybių funkcijos
@@ -778,9 +777,9 @@ savivaldybės vardu gautos labdaros skirstymo tvarką;
 37) gali priimti
 sprendimą atlikti savivaldybės įstaigų ar savivaldybės kontroliuojamų įmonių
 tam tikros veiklos nepriklausomą auditą; 
-38) tvirtina
-sutarčių pasirašymo tvarką ir nustato, kokios sutartys negali
-būti sudaromos be išankstinio savivaldybės tarybos pritarimo;
+38) tvirtina sutarčių
+pasirašymo tvarką ir nustato, kokios sutartys negali būti
+sudaromos be išankstinio savivaldybės tarybos pritarimo;
 39)
 priima sprendimą išieškoti iš valdybos narių (mero) žalą, atsiradusią dėl jų
 (jo) tyčinių neteisėtų sprendimų, pareigų neatlikimo ar šiurkštaus aplaidumo
@@ -1084,9 +1083,9 @@ rinkimų komisijos pirmininkas, o jeigu asmuo tarybos nariu tampa vietoj
 netekusio mandato tarybos nario, – meras.
 3. Draudžiama
 tarybos narį persekioti už balsavimą ar pareikštą nuomonę savivaldybės tarybos
-ar jos komitetų posėdžiuose. Už asmens įžeidimą ar šmeižtą, už asmens garbę ir
-orumą žeminančios ir tikrovės neatitinkančios informacijos paskleidimą tarybos
-narys gali būti traukiamas atsakomybėn bendra tvarka.
+ar jos komitetų posėdžiuose. Už asmens įžeidimą ar šmeižtą, už asmens garbę ir orumą
+žeminančios ir tikrovės neatitinkančios informacijos paskleidimą tarybos narys
+gali būti traukiamas atsakomybėn bendra tvarka.
 4. Tarybos nario
 pareigas ir teises nustato šis įstatymas ir savivaldybės tarybos veiklos
 reglamentas.
@@ -1099,8 +1098,8 @@ privalo:
 savivaldybės tarybos posėdžiuose;
 2) būti vieno
 (be Kontrolės komiteto) komiteto nariu;
-3)
-dalyvauti komiteto, kurio narys jis yra, posėdžiuose;
+3) dalyvauti komiteto, kurio narys jis
+yra, posėdžiuose;
 4) nebalsuoti
 savivaldybės tarybos ir jos komitetų posėdžiuose, kai jo balsavimas svarstomu
 klausimu prieštarauja Viešųjų ir privačių interesų derinimo valstybinėje
@@ -1124,15 +1123,15 @@ su savivaldybės taryboje nagrinėjamais klausimais susijusią informaciją,
 dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas
 dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo
 tvarkos ir kt., savivaldybės tarybos posėdžio metu klausti pranešėjus,
-pasisakyti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų,
-savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir
+pasisakyti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės
+institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir
 organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės
 teritorijoje, vadovus ir tarnautojus;
 3) dalyvauti ir
 pasisakyti komitetų ir komisijų posėdžiuose, taip pat valdybos posėdžiuose,
 kuriuose svarstomi jo pateikti klausimai;
-4)
-jungtis į frakcijas savivaldybės tarybos veiklos reglamento nustatyta tvarka;
+4) jungtis į frakcijas savivaldybės
+tarybos veiklos reglamento nustatyta tvarka;
 5) gauti iš
 savivaldybės administracijos vietą posėdžiui, techninę pagalbą ir priemones
 tarybos nario įgaliojimams vykdyti.
@@ -1146,7 +1145,6 @@ jeigu pagal įstatymą savivaldybės teritorijoje laikinai įvestas tiesioginis
 valdymas;
 2) Vyriausiosios
 rinkimų komisijos sprendimu pagal Savivaldybių tarybų rinkimų įstatymą.
- 
  
 26 straipsnis.
 Kompensacijos tarybos nariams 
@@ -1422,8 +1420,8 @@ veiklą reglamentuoja savivaldybės mero patvirtinti seniūnijos veiklos
 nuostatai.
 2.
 Seniūnija:
-1)
-administruoja jai priskirtų viešųjų paslaugų teikimą;
+1) administruoja jai priskirtų viešųjų
+paslaugų teikimą;
 2) prireikus
 įvertina atskirų šeimų (asmenų) gyvenimo sąlygas ir praneša atitinkamiems
 savivaldybės administravimo subjektams bei administratoriui dėl socialinės paramos
@@ -1481,14 +1479,13 @@ tvarka atlieka notarinius ir kitus veiksmus;
  
 [3 dalies papildymas 4 punktu
 galioja iki 2003 m. sausio 1 d.]
-4) įrašo duomenis apie piliečių,
-gyvenančių gyvenamosiose vietovėse, kuriose nėra migracijos tarnybų, nuolatinę
-gyvenamąją vietą į Lietuvos Respublikos piliečio pasą ir gyvenamosios vietos
-duomenų apskaitos dokumentus
+4)
+įrašo duomenis apie piliečių, gyvenančių gyvenamosiose vietovėse, kuriose nėra
+migracijos tarnybų, nuolatinę gyvenamąją vietą į Lietuvos Respublikos piliečio
+pasą ir gyvenamosios vietos duomenų apskaitos dokumentus;
  
 5)
 pagal kompetenciją sudaro sutartis.
- 
 4. Seniūnijos
 veiklos nuostatuose gali būti seniūnijoms pavestos ir kitos funkcijos,
 nepriskirtos kitiems savivaldybės administracijos struktūriniams padaliniams
@@ -1498,17 +1495,17 @@ pakeitimai:
 Nr. IX-426, 2001-07-05, Žin., 2001, Nr.
 64-2323 (2001-07-25)
  
+ 
 AŠTUNTASIS
 SKIRSNIS
 ATSTOVAVIMAS
 GYVENAMŲJŲ VIETOVIŲ BENDRUOMENĖMS 
  
 32 straipsnis.
-Gyvenamosios vietovės bendruomenės atstovo statusas(
-)1. Gyvenamosios
-vietovės ar kelių gyvenamųjų vietovių (kaimo ar kelių kaimų, miesto arba
-miestelio) bendruomenės gyventojai gali išsirinkti bendruomenės atstovą
-(atstovus). 
+Gyvenamosios vietovės bendruomenės atstovo statusas
+1. Gyvenamosios
+vietovės ar kelių gyvenamųjų vietovių (kaimo ar kelių kaimų, miesto arba miestelio)
+bendruomenės gyventojai gali išsirinkti bendruomenės atstovą (atstovus). 
 2. Gyvenamosios
 vietovės bendruomenės atstovas renkamas savivaldybės tarybos nustatyta tvarka.
 3. Pagrindinis
@@ -1598,13 +1595,14 @@ savivaldybių biudžetų pajamos;
 3) baudos, gautos įstatymų nustatyta tvarka;
 4) vietinės rinkliavos;
 5) savivaldybių biudžetinių įstaigų pajamos už teikiamas paslaugas;
-6) pajamos už savivaldybių lėšų likučius einamosiose
-sąskaitose;
+6) pajamos už
+savivaldybių lėšų likučius einamosiose sąskaitose;
 7) pajamos, gautos Vyriausybės nustatyta tvarka paskirsčius lėšas už
 parduotus ir išnuomotus ne žemės ūkio paskirčiai valstybinės žemės sklypus;
 8) valstybės biudžeto dotacijos;
 9) kitos įstatymų nustatytos pajamos;
-10) negrąžintina finansinė parama (piniginės lėšos);
+10) negrąžintina
+finansinė parama (piniginės lėšos);
 11)
 paskolos.
 2.
@@ -1708,8 +1706,8 @@ savivaldybių interesams atstovauja Lietuvos savivaldybių asociacija.
  
 VIENUOLIKTASIS
 SKIRSNIS
-SAVIVALDYBIŲ
-TEISINĖS GARANTIJOS IR ADMINISTRACINĖ PRIEŽIŪRA 
+SAVIVALDYBIŲ TEISINĖS
+GARANTIJOS IR ADMINISTRACINĖ PRIEŽIŪRA 
  
 40 straipsnis.
 Savivaldybių teisės ir jų apsauga
@@ -1747,9 +1745,9 @@ savivaldybės laikosi Lietuvos Respublikos Konstitucijos ir įstatymų, kaip vyk
 Vyriausybės sprendimus, Savivaldybių administracinės priežiūros įstatymo
 nustatyta tvarka prižiūri Vyriausybės skiriami pareigūnai – Vyriausybės
 atstovai.
-2. Piliečių
-skundus dėl savivaldybės tarnautojų piktnaudžiavimo ar biurokratizmo tiria
-Seimo kontrolieriai. 
+2. Piliečių skundus dėl savivaldybės pareigūnų
+piktnaudžiavimo ar biurokratizmo tiria Seimo kontrolieriai, kurių įgaliojimus
+nustato Seimo kontrolierių įstatymas.
 3. Savivaldybės
 institucijų bei savivaldybės tarnautojų aktai ar veiksmai, pažeidžiantys
 piliečių ir organizacijų teises, gali būti skundžiami Administracinių bylų
@@ -1757,22 +1755,29 @@ teisenos įstatymo nustatyta tvarka.
 4. Savivaldybių
 funkcijų ir teisių apribojimus, kai skelbiama karo ir (ar) nepaprastoji
 padėtis, nustato atitinkami įstatymai.
+Straipsnio
+pakeitimai:
+Nr.
+IX-482,
+2001-08-02, Žin., 2001, Nr. 71-2515 (2001-08-17)
+ 
  
 DVYLIKTASIS
 SKIRSNIS
 SAVIVALDYBIŲ
 ATRIBUTIKA IR RAŠTVEDYBA
  
-42 straipsnis. Savivaldybių
-atributika 
+42 straipsnis.
+Savivaldybių atributika 
 1.
 Savivaldybės turi savo atributiką. 
 2. Savivaldybių
 atributiką ir jos naudojimo tvarką reglamentuoja Savivaldybių atributikos
 įstatymas. 
 3. Savivaldybių
-herbai yra savivaldybių nuosavybė ir Savivaldybių atributikos įstatymo nenumatytais
-atvejais gali būti naudojami tik savivaldybių tarybų leidimu.
+herbai yra savivaldybių nuosavybė ir Savivaldybių atributikos įstatymo
+nenumatytais atvejais gali būti naudojami tik savivaldybių tarybų
+leidimu.
 4.
 Savivaldybių vėliavų etaloną tvirtina savivaldybių tarybos.
  
@@ -1916,8 +1921,8 @@ Nr.
 VIII-929,
 98.11.17, Žin., 1998, Nr.105-2900 (98.12.02)
 LIETUVOS
-RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 15 IR 18 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-ĮSTATYMAS
+RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 15 IR 18 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
  
 14.
 Lietuvos
@@ -1944,10 +1949,22 @@ VIETOS SAVIVALDOS ĮSTATYMO 8, 20 IR 31 STRAIPSNIŲ
 PAPILDYMO ĮSTATYMAS
 Šio
 įstatymo 1 ir 3 straipsniai galioja iki Gyvenamosios vietos deklaravimo
-įstatymo įsigaliojimo (2003-01-01).
+įstatymo įsigaliojimo, 
+t. y. 2003 m. sausio 1 d.
  
-*** Pabaiga ***
+17.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-482,
+2001-08-02, Žin., 2001, Nr. 71-2515 (2001-08-17)
+VIETOS
+SAVIVALDOS ĮSTATYMO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Angonita Rupšytė (2001-07-25)
-                  anrups@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2001-08-17)
+                 
+autrap@lrs.lt
