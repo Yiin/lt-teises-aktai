@@ -925,7 +925,7 @@ PENKTASIS SKIRSNIS
 
 
 
-4. Teisės į pareikštą registruoti ar įregistruotą ženklą perdavimas įsigalioja nuo perdavimo duomenų įrašymo į Registrą dienos. Duomenys apie teisės į pareikštą registruoti ar įregistruotą ženklą perdavimą skelbiami Valstybinio patentų biuro oficialiame biuletenyje, jeigu paraiška yra paskelbta ar ženklas įregistruotas Registre. Teisės į pareikštą registruoti ar įregistruotą ženklą perdavimas negalioja, jeigu perdavimo duomenys neįrašyti į Registrą.
+4. Teisės į pareikštą registruoti ar įregistruotą ženklą perdavimas įsigalioja nuo duomenų apie šį faktą įrašymo Registro informacinėje sistemoje dienos. Duomenys apie teisės į pareikštą registruoti ar įregistruotą ženklą perdavimą skelbiami Valstybinio patentų biuro oficialiame biuletenyje, jeigu paraiška yra paskelbta ar ženklas įregistruotas Registre. Teisės į pareikštą registruoti ar įregistruotą ženklą perdavimas negalioja, jeigu duomenys apie perdavimą neįrašyti Registro informacinėje sistemoje.
  
 
 
@@ -941,7 +941,7 @@ PENKTASIS SKIRSNIS
 
 
 
-2. Licencinės sutarties duomenys įrašomi į Registrą vienos iš licencinės sutarties šalių prašymu, jeigu sumokėtas mokestis ir Valstybiniam patentų biurui pateikiami šie dokumentai:
+2. Duomenys apie licencinę sutartį įrašomi Registro informacinėje sistemoje vienos iš licencinės sutarties šalių prašymu, jeigu sumokėtas mokestis ir Valstybiniam patentų biurui pateikiami šie dokumentai:
 
 
 1) prašymas įrašyti licencinę sutartį;
@@ -1001,7 +1001,7 @@ PENKTASIS SKIRSNIS
 
 
 
-4. Duomenys apie įrašytą licenciją skelbiami Valstybinio patentų biuro oficialiame biuletenyje, jeigu paraiška yra paskelbta ar ženklas įrašytas į Registrą.
+4. Duomenys apie licencinės sutarties įrašymą Registro informacinėje sistemoje skelbiami Valstybinio patentų biuro oficialiame biuletenyje, jeigu paraiška yra paskelbta ar ženklas įregistruotas Registre.
 
 
 
@@ -1067,7 +1067,7 @@ PENKTASIS SKIRSNIS
 
 
 
-2. Gavęs Sutarčių ir teisių suvaržymų registro tvarkytojo pranešimą apie įkeistą teisę į ženklą, Valstybinis patentų biuras teisės į ženklą įkeitimo duomenis įrašo į Registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+2. Gavęs Sutarčių ir teisių suvaržymų registro informacinės sistemos tvarkytojo pranešimą apie įkeistą teisę į ženklą, Valstybinis patentų biuras teisės į ženklą įkeitimo duomenis įrašo Registro informacinėje sistemoje ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2736, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00123
  
@@ -1085,7 +1085,7 @@ Nr. XIII-2736, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00123
 
 
 
-2. Gavęs turto arešto aktų registro tvarkytojo pranešimą apie areštuotą ženklą ar vykdymo procese išieškomą ženklą, Valstybinis patentų biuras su ženklu susijusius duomenis įrašo į Registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+2. Gavęs Turto arešto aktų registro informacinės sistemos tvarkytojo pranešimą apie areštuotą ženklą ar vykdymo procese išieškomą ženklą, Valstybinis patentų biuras su ženklu susijusius duomenis įrašo Registro informacinėje sistemoje ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
  
 
 
@@ -1260,19 +1260,9 @@ SERTIFIKAVIMO ŽENKLAI IR KOLEKTYVINIAI ŽENKLAI
 
 
 34 straipsnis. Kolektyvinio ženklo naudojimo nuostatų pakeitimai
-
-
-1. Kolektyvinio ženklo pareiškėjas arba šio ženklo savininkas turi pateikti Valstybiniam patentų biurui duomenis apie kiekvieną kolektyvinio ženklo naudojimo nuostatų pakeitimą. 
-
-
-
-
-2. Duomenys apie kolektyvinio ženklo naudojimo nuostatų pakeitimus įrašomi į Registrą kolektyvinio ženklo pareiškėjo ar šio ženklo savininko prašymu, jeigu sumokėtas mokestis ir nėra nė vieno iš šio įstatymo 33 straipsnio 1 dalyje nurodytų pagrindų.
-
-
-
-
-3. Kolektyvinio ženklo naudojimo nuostatų pakeitimai įsigalioja nuo tų pakeitimų įrašymo į Registrą dienos. Duomenys apie kolektyvinio ženklo naudojimo nuostatų pakeitimų įrašymą skelbiami Valstybinio patentų biuro oficialiame biuletenyje, jeigu paraiška yra paskelbta ar ženklas įrašytas į Registrą.
+1. Kolektyvinio ženklo pareiškėjas arba šio ženklo savininkas turi pateikti Valstybiniam patentų biurui duomenis apie kiekvieną kolektyvinio ženklo naudojimo nuostatų pakeitimą.
+2. Duomenys apie kolektyvinio ženklo naudojimo nuostatų pakeitimus įrašomi Registro informacinėje sistemoje kolektyvinio ženklo pareiškėjo ar šio ženklo savininko prašymu, jeigu sumokėtas mokestis ir nėra nė vieno iš šio įstatymo 33 straipsnio 1 dalyje nurodytų pagrindų.
+3. Kolektyvinio ženklo naudojimo nuostatų pakeitimai įsigalioja nuo duomenų įrašymo Registro informacinėje sistemoje dienos. Duomenys apie kolektyvinio ženklo naudojimo nuostatų pakeitimus skelbiami Valstybinio patentų biuro oficialiame biuletenyje, jeigu paraiška yra paskelbta ar ženklas įregistruotas Registre.
  
 
 
@@ -1441,6 +1431,8 @@ PARAIŠKA IR ŽENKLO REGISTRACIJA
 
 
 6. Paraiškoje gali būti prašoma įregistruoti ženklą vienai ar daugiau prekių ar paslaugų klasių. Jeigu paraiškoje nurodoma daugiau negu viena prekių ar paslaugų klasė, už kiekvieną papildomą klasę mokamas mokestis.
+
+7. Susipažinti su paraiškos dokumentais iki jos paskelbimo pagal šio įstatymo 46 straipsnį galima tik gavus pareiškėjo rašytinį sutikimą.
  
 
 
@@ -1724,7 +1716,7 @@ PARAIŠKA IR ŽENKLO REGISTRACIJA
 
 
 
-2. Valstybinis patentų biuras įregistruoto ženklo savininkui išduoda ženklo registracijos liudijimą, kuris yra dokumentas, patvirtinantis ženklo įrašymą Registre ir ženklo savininko išimtines teises į įregistruotą ženklą.
+2. Valstybinis patentų biuras įregistruoto ženklo savininkui išduoda ženklo registracijos liudijimą, kuris yra dokumentas, patvirtinantis ženklo įregistravimą Registro informacinėje sistemoje ir ženklo savininko išimtines teises į įregistruotą ženklą.
 
 
 
@@ -1745,14 +1737,12 @@ LIETUVOS RESPUBLIKOS PREKIŲ ŽENKLŲ REGISTRAS
 
 
 48 straipsnis. Registras
-
-
-1. Lietuvos Respublikos prekių ženklų registras yra valstybės registras. Registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, registro tvarkytojas – Valstybinis patentų biuras. Lietuvos Respublikos Vyriausybė gali skirti papildomą registro tvarkytoją.
-
-
-
-
-2. Ženklų dokumentų ir jų duomenų kaupimo, tvarkymo, saugojimo ir naudojimo tvarka nustatoma Lietuvos Respublikos Vyriausybės tvirtinamuose Lietuvos Respublikos prekių ženklų registro nuostatuose (toliau – Registro nuostatai).
+1. Registro objektai yra prekių ženklai, taip pat tarptautinės ženklo registracijos, išplėstos Lietuvos Respublikoje, juridiniai faktai.
+2. Registro informacinėje sistemoje tvarkomi aprašomųjų duomenų apie paraiškas, ženklus, įskaitant duomenis apie ženklo vaizdą ar kitą išraiškos formą, pareiškėjus, ženklų savininkus, kitų teisių turėtojus, suinteresuotus asmenis ir jų atstovus, ženklų registraciją, naudojimą ir apsaugą rinkiniai. Registro informacinėje sistemoje tvarkomų duomenų rinkinius sudarantys duomenys nustatomi Registro informacinės sistemos nuostatuose.
+3. Duomenų tvarkymo Registro informacinėje sistemoje tikslas – užtikrinti išimtinių teisių į ženklus, kaip nuosavybės objektus, apsaugą ir informuoti apie šias teises kompetentingas institucijas ir visuomenę.
+4. Registro informacinės sistemos ir Registro duomenų, įskaitant asmens duomenis, valdytojas yra Valstybinis patentų biuras.
+5. Registro informacinės sistemos duomenys teikiami Registro informacinės sistemos nuostatuose nustatyta tvarka, jeigu šiame įstatyme nenustatyta kitaip, laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
+6. Registro informacinėje sistemoje tvarkomi duomenys, įskaitant asmens duomenis, atveriami pakartotinai naudoti. Asmens kodas pakartotinai naudoti neatveriamas. Kiti asmens duomenys (vardas, pavardė ir adresas) atveriami pakartotinai naudoti laikantis Reglamento (ES) 2016/679 reikalavimų.
  
 
 
@@ -2427,7 +2417,7 @@ PENKTASIS SKIRSNIS
 
 
 
-6. Ženklo registracijos galiojimo pratęsimas įsigalioja kitą dieną po ženklo registracijos galiojimo pabaigos. Duomenys apie ženklo registracijos galiojimo pratęsimą įrašomi į Registrą ir skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+6. Ženklo registracijos galiojimo pratęsimas įsigalioja kitą dieną po ženklo registracijos galiojimo pabaigos. Duomenys apie ženklo registracijos galiojimo pratęsimą įrašomi Registro informacinėje sistemoje ir skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
 
 
 
@@ -2465,7 +2455,7 @@ TARPTAUTINĖ ŽENKLO REGISTRACIJA
 
 
 
-3. Valstybinis patentų biuras duomenis apie tarptautinę ženklo registraciją, išplėstą Lietuvos Respublikoje, įrašo į Registrą.
+3. Valstybinis patentų biuras registruoja tarptautinės ženklo registracijos, išplėstos Lietuvos Respublikoje, juridinį faktą, įrašydamas duomenis Registro informacinėje sistemoje.
 
 
 
@@ -2568,7 +2558,7 @@ TARPTAUTINĖ ŽENKLO REGISTRACIJA
 
 
 
-2. Sumokėjusio nustatytą mokestį ženklo savininko prašymu Valstybinis patentų biuras nacionalinės ženklo registracijos pakeitimo tarptautine ženklo registracija duomenis įrašo į Registrą ir paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+2. Sumokėjusio nustatytą mokestį ženklo savininko prašymu Valstybinis patentų biuras nacionalinės ženklo registracijos pakeitimo tarptautine ženklo registracija duomenis įrašo Registro informacinėje sistemoje ir paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
  
 
 
@@ -2594,12 +2584,12 @@ TARPTAUTINĖ ŽENKLO REGISTRACIJA
 
 
 
-4. Į Registrą įrašoma data, nuo kurios pagal šio įstatymo 20 straipsnio 2 dalį skaičiuojamas penkerių metų ženklo nenaudojimo laikotarpis.
+4. Registro informacinėje sistemoje įrašoma data, nuo kurios pagal šio įstatymo 20 straipsnio 2 dalį skaičiuojamas penkerių metų ženklo nenaudojimo laikotarpis.
 
 
 
 
-5. Duomenys apie tarptautinės registracijos ženklo savininko suteiktą licenciją gali būti įrašyti į Registrą šio įstatymo 27 straipsnyje nustatyta tvarka.
+5. Duomenys apie tarptautinės registracijos ženklo savininko suteiktą licenciją įrašomi Registro informacinėje sistemoje šio įstatymo 27 straipsnyje nustatyta tvarka.
 
 
 
