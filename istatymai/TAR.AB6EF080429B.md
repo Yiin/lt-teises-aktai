@@ -480,30 +480,15 @@ FIZINIŲ ASMENŲ PA SVEIKATOS PRIEŽIŪROS VEIKLOS LICENCIJAVIMAS
 
 3. Fizinis asmuo, siekiantis verstis PA sveikatos priežiūros specialisto veikla, turi atitikti šiuos reikalavimus:
 
-
 1) turėti atitinkamai šio straipsnio 2 dalies PA sveikatos priežiūros specialistų licencijos rūšiai privalomą įgyti šio įstatymo 10 straipsnio 1 dalyje nurodytą profesinę kvalifikaciją; 
-
-
-
 
 2) ne Lietuvos Respublikos ar Europos ekonominės erdvės valstybės piliečiai turi turėti teisę gyventi ir dirbti Lietuvos Respublikoje;
 
-
-
-
 3) mokėti valstybinę kalbą Lietuvos Respublikos Vyriausybės nustatytus reikalavimus atitinkančiu lygiu; 
-
-
-
 
 4) fizinio asmens sveikatos būklė turi atitikti sveikatos apsaugos ministro nustatytus sveikatos būklės reikalavimus.
 
-
-
-
-
-
-4. PA sveikatos priežiūros specialisto licenciją išduoda, tikslina, licencijos (ar jos dalies) galiojimą sustabdo, galiojimo sustabdymą panaikina, licencijos (ar jos dalies) galiojimą panaikina licencijas išduodanti institucija, vadovaudamasi šiuo įstatymu ir sveikatos apsaugos ministro patvirtintomis PA sveikatos priežiūros specialistų veiklos licencijavimo taisyklėmis. PA sveikatos priežiūros specialisto licencijos registruojamos Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registre. 
+4. PA sveikatos priežiūros specialisto licenciją išduoda, tikslina, licencijos (ar jos dalies) galiojimą sustabdo, galiojimo sustabdymą panaikina, licencijos (ar jos dalies) galiojimą panaikina licencijas išduodanti institucija, vadovaudamasi šiuo įstatymu ir sveikatos apsaugos ministro patvirtintomis PA sveikatos priežiūros specialistų veiklos licencijavimo taisyklėmis. 
  
 
 
@@ -815,23 +800,12 @@ PA sveikatos priežiūros specialistas, kurio PA sveikatos priežiūros speciali
 
 
 
-3) kai išnyksta PA sveikatos priežiūros specialisto licencijos (ar jos dalies) galiojimo panaikinimo pagrindas, jeigu PA sveikatos priežiūros specialisto licencijos (ar jos dalies) galiojimas buvo panaikintas vadovaujantis šio įstatymo 13 straipsnio 1 dalies 1, 2, 3, 6, 7, 9 punktais.
- 
-
-
-
-
-
-
-
+3) kai išnyksta PA sveikatos priežiūros specialisto licencijos (ar jos dalies) galiojimo panaikinimo pagrindas, jeigu PA sveikatos priežiūros specialisto licencijos (ar jos dalies) galiojimas buvo panaikintas vadovaujantis šio įstatymo 13 straipsnio 1 dalies 1, 2, 3, 6, 7, 9 punktais.
+ 
 
 15 straipsnis. Kitų valstybių narių piliečių teisė laikinai ir kartais teikti PA sveikatos priežiūros paslaugas
 
-
-1. Kitose valstybėse narėse įsisteigę fiziniai asmenys PA sveikatos priežiūros įstaigoje, turinčioje atitinkamą PA sveikatos priežiūros įstaigos licenciją, turi teisę laikinai ir kartais teikti PA sveikatos priežiūros paslaugas ir neturėdami Lietuvoje išduotos atitinkamos PA sveikatos priežiūros specialisto licencijos. Prieš laikinai ir kartais teikdamas PA sveikatos priežiūros paslaugas, fizinis asmuo apie šių paslaugų teikimą iš anksto privalo sveikatos apsaugos ministro nustatyta tvarka raštu informuoti licencijas išduodančią instituciją. Būtina pateikti deklaraciją ir dokumentus, patvirtinančius, kad fizinis asmuo teisėtai verčiasi veikla, analogiška PA sveikatos priežiūros veiklai, valstybėje narėje, kurioje jis yra įsisteigęs. Fizinio asmens, norinčio laikinai ir kartais teikti PA sveikatos priežiūros paslaugas ir apie tai informavusio licencijas išduodančią instituciją, pateikta deklaracija ir dokumentai registruojami Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registre.
-
-
-
+1. Kitose valstybėse narėse įsisteigę fiziniai asmenys PA sveikatos priežiūros įstaigoje, turinčioje atitinkamą PA sveikatos priežiūros įstaigos licenciją, turi teisę laikinai ir kartais teikti PA sveikatos priežiūros paslaugas ir neturėdami Lietuvoje išduotos atitinkamos PA sveikatos priežiūros specialisto licencijos. Prieš laikinai ir kartais teikdamas PA sveikatos priežiūros paslaugas, fizinis asmuo apie šių paslaugų teikimą iš anksto privalo sveikatos apsaugos ministro nustatyta tvarka raštu informuoti licencijas išduodančią instituciją. Būtina pateikti deklaraciją ir dokumentus, patvirtinančius, kad fizinis asmuo teisėtai verčiasi veikla, analogiška PA sveikatos priežiūros veiklai, valstybėje narėje, kurioje jis yra įsisteigęs.
 
 2. Sprendimą sveikatos apsaugos ministro nustatyta tvarka dėl kitų ne valstybėse narėse įsisteigusių fizinių asmenų teisės laikinai ir kartais teikti PA sveikatos priežiūros paslaugas priima PA sveikatos priežiūros specialistų kvalifikacijos vertinimo komisija.
 
