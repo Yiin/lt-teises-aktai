@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EA5F9F0D6DBB"
 
 # Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas
 
-Suvestinė redakcija nuo 1997-06-06 iki 2000-12-31
+Suvestinė redakcija nuo 2001-01-01 iki 2003-06-12
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 31-701, i. k. 0951010ISTA000I-830
  
@@ -111,7 +111,10 @@ Nr. VIII-144, 1997-03-13, Žin., 1997, Nr. 27-621 (1997-03-28), i. k. 0971010IST
 2 straipsnis. 
 
 
-Priėmus Lietuvos Respublikos Seimo nutarimą laikinai įvesti Lietuvos Respublikos miesto ar rajono tiesioginį valdymą, Lietuvos Respublikos Vyriausybė valdymo reformų ir savivaldybių reikalų ministro teikimu per savaitę paskiria savo įgaliotinį to miesto ar rajono laikinam valdymui bei administravimui. Šio įgaliotinio teikimu Ministras Pirmininkas skiria įgaliotinio pavaduotoją.
+Priėmus Lietuvos Respublikos Seimo nutarimą laikinai įvesti Lietuvos Respublikos miesto ar rajono tiesioginį valdymą, Lietuvos Respublikos Vyriausybė vidaus reikalų ministro teikimu per savaitę paskiria savo įgaliotinį to miesto ar rajono laikinam valdymui bei administravimui. Šio įgaliotinio teikimu Ministras Pirmininkas skiria įgaliotinio pavaduotoją.
+Straipsnio dalies pakeitimai:
+Nr. IX-125, 2000-12-21, Žin., 2000, Nr. 111-3583 (2000-12-29), i. k. 1001010ISTA00IX-125
+ 
 
 
 
@@ -248,3 +251,8 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų lai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-232, 1997-05-29, Žin., 1997, Nr. 50-1192 (1997-06-06), i. k. 0971010ISTAVIII-232
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo" 1 straipsnio pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-125, 2000-12-21, Žin., 2000, Nr. 111-3583 (2000-12-29), i. k. 1001010ISTA00IX-125
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo" 2 straipsnio pakeitimo įstatymas
