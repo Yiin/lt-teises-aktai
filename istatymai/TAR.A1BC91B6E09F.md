@@ -13,6 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A1BC91B6E09F"
 
 # Užsienio investicijų Lietuvos Respublikoje įstatymas
 
+Įstatymas netenka galios 1995-08-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-938, 1995-06-13, Žin., 1995, Nr. 55-1351 (1995-07-05), i. k. 0951010ISTA000I-938
+Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas
+ 
+Suvestinė redakcija nuo 1992-02-21 iki 1995-07-31
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 5-0; Žin. 1991, Nr.2-38, i. k. 090XX01ISTA000I-905
+ 
 LIETUVOS RESPUBLIKOS
 UŽSIENIO INVESTICIJŲ LIETUVOS RESPUBLIKOJE
 Į S T A T Y M A S
@@ -24,22 +33,40 @@ I. Bendrieji nuostatai
 
 1 straipsnis. Įstatymo tikslas
 
-Įstatymo tikslas – sudaryti palankias sąlygas užsienio kapitalui investuoti Lietuvos Respublikoje ir nustatyti investavimo tvarką.
+Įstatymo tikslas – skatinti užsienio kapitalo investicijas ir nustatyti jų apsaugos bei investavimo tvarką.
+
+Santykius, susijusius su užsienio kapitalo investavimu Lietuvos Respublikoje, reguliuoja šis įstatymas, kiti įstatymai bei tarptautinės sutartys, kurių dalyvė yra Lietuvos Respublika. 
+
+Straipsnio pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
 2 straipsnis. Užsienio investicija
 
-Užsienio investicija – tai užsienio investitoriaus piniginis, materialinis indėlis į veiklos sritis Lietuvos Respublikoje, teisių į intelektualinę ar pramoninę nuosavybę perdavimas Lietuvos juridiniams ir fiziniams asmenims.
+Užsienio investicija – tai užsienio investitoriaus piniginis, materialinis, teisių į intelektualinę ar pramoninę nuosavybę ir kitų turtinių teisių įgyvendinimas Lietuvos ūkyje. 
+
+Straipsnio pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
-3 straipsnis. Užsienio investitorius
+3 straipsnis. Užsienio investitoriai
 
-Užsienio investitoriais laikomi kitų valstybių juridiniai ir fiziniai asmenys, investuojantys indėlius Lietuvos Respublikoje.
+Užsienio investitoriais laikomi:
+
+1) kitų valstybių juridiniai asmenys – korporacijos (bendrovės), bendrijos, personalinės įmonės, asociacijos ir kitos organizacijos, kurios yra sudarytos ar kitu būdu organizuotos pagal tos valstybės įstatymus ir registruotos toje valstybėje;
+
+2) kitų valstybių piliečiai bei asmenys be pilietybės, nuolat gyvenantys užsienyje ir investuojantys lėšas Lietuvos Respublikoje. 
+
+Straipsnio pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
 4 straipsnis. Užsienio investicijų formos
 
-Lietuvos Respublikoje galimos šios investicijų formos: dalis bendroje įmonėje, užsienio kapitalo įmonė, Lietuvos Respublikos įmonių akcijų ir kitų vertybinių formų įsigijimas.
+Šis įstatymas nustato tokias investicijų formas: dalis bendroje įmonėje, užsienio kapitalo įmonė. 
+
+Straipsnio pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
 5 straipsnis. Užsienio investicijų sritys
@@ -51,11 +78,20 @@ Užsienio investicijos leidžiamos visose veiklos srityse, išskyrus tas, kurias
 
 Užsienio investicijas, investitorių pajamas, teises ir teisėtus interesus Lietuvos Respublikoje saugo Lietuvos valstybė.
 
-Užsienio investicijas kaip nors diskriminuoti yra draudžiama.
+Užsienio investicijas kaip nors diskriminuoti draudžiama.
 
-Ginčus dėl užsienio investitorių teisių ir teisėtų interesų pažeidimo nagrinėja Lietuvos Respublikos teismai. Užsienio investitoriai taip pat turi teisę kreiptis į užsienio šalių ar tarptautinius ginčus nagrinėjimo organus.
+Užsienio investicijos negali būti nacionalizuotos ir rekvizuotos.
 
-Užsienio investicijoms taikomos garantijos, nustatytos tarptautinėse sutartyse, kurių dalyvė yra Lietuvos Respublika, bei šiame įstatyme numatytos lengvatos.
+Atlygintinas turto paėmimas galimas tik Lietuvos Respublikos įstatymuose nustatytais atvejais, laikantis visuotinai pripažintų tarptautinės teisės normų.
+
+Nuostoliai, gauti dėl Lietuvos Respublikos valstybinių valdymo organų ir pareigūnų veiksmų, turi būti visiškai atlyginami, remiantis tarptautinės teisės normomis.
+
+Užsienio investitoriams garantuojama teisė pervesti į užsienį sumas, gautas kaip kompensaciją už veiksmus, numatytus šio straipsnio trečiojoje ir ketvirtojoje dalyse, sutarta valiuta.
+
+Ginčus dėl užsienio investitorių teisių ir teisėtų interesų pažeidimo nagrinėja Lietuvos Respublikos teismai arba užsienio šalių ar tarptautinių ginčų nagrinėjimo organai. 
+
+Straipsnio pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
 7 straipsnis. Lietuvos Respublikos įstatymų ir tarptautinių sutarčių nuostatų taikymas užsienio investicijoms
@@ -82,7 +118,12 @@ Leidimas užsienio investicijai turi būti pradėtas realizuoti  ne vėliau kai
 
 10 straipsnis. Užsienio investicijų formų ir ūkinės veiklos srities pakeitimas
 
-Keičiant užsienio investicijos formas ar pradedant gautas naują, įstatuose nenumatytą veiklą, turi būti keičiami įmonės įstatai. Nauji įstatai įregistruojami įstatymų nustatyta tvarka.
+Keičiant užsienio investicijos formą, turi būti gautas naujas leidimas užsienio investicijai, jeigu ankstesnis leidimas nenumato tokios investicijos formos.
+
+Pradedant naują, įmonės steigimo dokumentuose nenumatytą veiklą, turi būti įstatymų nustatyta tvarka keičiami įmonės steigimo dokumentai. 
+
+Straipsnio pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
 11 straipsnis. Bendros įmonės ir užsienio kapitalo įmonės veiklos trukmė
@@ -103,7 +144,10 @@ III. Bendros įmonės
 
 12 straipsnis. Bendra įmonė, jos steigimas
 
-Bendra įmone laikomas Lietuvos Respublikos ūkio subjektas, kurio įstatinio kapitalo dalis priklauso užsienio investitoriui (investitoriams).
+Bendra įmone laikomas Lietuvos Respublikos ūkio subjektas, kurio įstatinio (nuosavo) kapitalo dalis priklauso užsienio investitoriui (investitoriams).
+Straipsnio dalies pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
+ 
 
 Bendra įmonė steigiama sutarties pagrindu.
 
@@ -149,11 +193,9 @@ Bendros įmonės įstatai sudaromi pagal pasirinktos įmonės rūšies įstatym�
 
 17 straipsnis. Bendros įmonės įstatinio kapitalo dalies perdavimas
 
-Bendros įmonės steigėjai turi teisę perduoti kitiems asmenims savo dalį bendroje įmonėje, jeigu tam neprieštarauja kiti steigėjai.
-
-Jeigu užsienio partneris visą ar dalį savo įstatinio kapitalo parduoda, kiti įmonės steigėjai turi pirmumo teisę tai įsigyti.
-
-Sąlygos, kuriomis steigėjai parduoda trečiajai šaliai savo dalį, neturi būti palankesnės už pardavimo kitiems bendros įmonės steigėjams sąlygas.
+Bendros įmonės steigėjai turi teisę perduoti kitiems asmenims savo dalį bendroje įmonėje, jeigu ko kito nenustato įmonės steigimo sutartis.
+Straipsnio dalies pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
 IV. Užsienio kapitalo įmonės
@@ -161,11 +203,21 @@ IV. Užsienio kapitalo įmonės
 
 18 straipsnis. Užsienio kapitalo įmonė, jos steigimas
 
-Užsienio kapitalo įmone laikomas Lietuvos Respublikos ūkio subjektas, kurio įstatinis kapitalas priklauso užsienio investitoriui (investitoriams).
+Užsienio kapitalo įmone laikomas Lietuvos Respublikos ūkio subjektas, kurio įstatinis (nuosavas) kapitalas priklauso užsienio investitoriui (investitoriams).
+Straipsnio dalies pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
+ 
 
-Lietuvos Respublikoje steigiami užsienio įmonių filialai turi užsienio kapitalo įmonių statusą nuo jų įregistravimo Lietuvos Respublikoje.
+Užsienio kapitalo įmonės Lietuvos Respublikoje įstatymo nustatytais atvejais gali būti juridiniai asmenys. Lietuvos Respublikoje steigiami užsienio įmonių filialai turi užsienio kapitalo įmonių statusą nuo jų įregistravimo Lietuvos Respublikoje. 
+Straipsnio dalies pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
+ 
 
 Užsienio įmonių, įstaigų ir organizacijų atstovybės nėra užsienio kapitalo įmonės ir neturi juridinio asmens statuso. Jos steigiamos ir veikia Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+Steigiant Lietuvos Respublikoje užsienio kapitalo įmonių, taip pat Lietuvoje įregistruotų bendrų įmonių filialus, jie registruojami ta pačia tvarka, kaip ir užsienio kapitalo įmonės. 
+Papildyta straipsnio dalimi:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
 19 straipsnis. Užsienio kapitalo įmonės įstatai
@@ -180,13 +232,15 @@ V. Bendrų įmonių ir užsienio kapitalo įmonių veiklos tvarka
 
 Bendros įmonės ir užsienio kapitalo įmonės savarankiškai vykdo savo ūkinę, komercinę ir finansinę veiklą.
  
- 
- 
- 
 
 21 straipsnis. Užsienio investitorių teisė naudotis žemės sklypu bei kitu nekilnojamuoju turtu
 
-Žemės nuomos laikas bendros įmonės ar užsienio kapitalo įmonės veiklai nustatomas 25 metams su pirmumo teise nuomos laikui pratęsti. Mokesčius už naudojimąsi žemės sklypu įmonė moka įstatymų nustatyta tvarka.
+Užsienio investitoriai turi teisę išsinuomoti pastatus bei patalpas, reikalingas jų komercinei-ūkinei veiklai, bei žemės sklypus šių pastatų statybai pagal Lietuvos Respublikos įstatymus.
+
+Žemės nuomos laikas užsienio investitoriams gali būti nustatytas iki devyniasdešimt devynerių metų su pirmumo teise nuomos laikui pratęsti. Nuomos dydis už žemės sklypą nekeičiamas visą nuomos sutarties galiojimo laiką, jeigu nuomos sutartyje nenumatyta kitaip. Žemės nuomos sąlygas reglamentuoja Lietuvos Respublikos Vyriausybė. 
+
+Straipsnio pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
 22 straipsnis. Bendrų įmonių ir užsienio kapitalo įmonių draudimas
@@ -227,12 +281,10 @@ VI. Lietuvos Respublikos įmonių akcijų įsigijimas
 
 Užsienio investitoriai turi teisę įsigyti Lietuvos Respublikos įmonių akcijų Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-Užsienio investitoriai gali turėti tik vardines akcija. Perleidžiamos akcijos perrašomos Lietuvos Respublikos akcinių bendrovių įstatymo nustatyta tvarka.
+Įmonė, kurioje kontrolinį akcijų paketą (per 50 procentų) įsigyja užsienio investitorius (investitoriai), turi būti perregistruota kaip bendra įmonė. Jeigu užsienio investitorius siekia įsigyti kontrolinį akcijų paketą (per 50 procentų) įmonėse, kurias Vyriausybė (ar jos įgaliotos ministerijos) įtraukė į atskirą sąrašą, tai užsienio investitorius privalo gauti leidimą investicijai. Šiuo atveju leidimai užsienio investicijai išduodami 8 straipsnyje nustatyta tvarka. 
 
-Lietuvos Respublikos Vyriausybė nustato Lietuvos Respublikos įmonių akcijų pardavimo užsienio investitoriams kvotas.
-
-Akcinei bendrovei, kurioje kontrolinį akcijų paketą (51 procentą) turi užsienio juridiniai ar fiziniai asmenys taikomas bendros įmonės statusas.
- 
+Straipsnio pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
 VII. Mokesčiai ir mokesčių lengvatos
@@ -247,21 +299,18 @@ Konvertuojama valiuta gautos įmonių įplaukos ir išlaidos perskaičiuojamos r
 Nustatyto dydžio pelno mokestis mokamas rubliais (litais) ir konvertuojama valiuta proporcingai įmonės įplaukoms rubliais (litais) ir konvertuojama valiuta.
  
 
-29 straipsnis.Mokesčių lengvatos ir tarifai
+29 straipsnis. Mokesčių lengvatos ir tarifai
 
-Bendros įmonės, kurių įstatiniame kapitale užsienio investicijos sudaro nuo 25 iki 75 procentų imtinai ir kurių visos įplaukos gaunamos tik už realizuotą savo gamybos produkciją, trejus metus nuo pelno gavimo dienos atleidžiamos nuo pelno mokesčio. Kokia produkcija laikytina savos gamybos, nustatoma pagal Lietuvos Respublikos vyriausybės patvirtintą instrukciją (metodiką). Praėjus nurodytam laikotarpiui, tokios įmonės moka 20 procentų pelno mokestį.
+Jeigu įmonė įsteigiama (registruojama) arba investuojamas užsienio kapitalas iki 1993 m. gruodžio 31 d., tai jos pelno (pajamų) dalis (proporcinga užsienio investicijos daliai įmonės įstatiniame (nuosavame) kapitale), tenkanti šiai užsienio investicijai ir nepanaudota darbo užmokesčiui, taip pat reinvestuota įmonėje, penkerius metus nuo įplaukų gavimo dienos apmokestinama 70 procentų sumažintu pelno (pajamų) mokesčiu. Šiam terminui pasibaigus, užsienio investicijai tenkanti pelno (pajamų) dalis trejus metus apmokestinama 50 procentų sumažintu pelno (pajamų) mokesčiu.
 
-Bendros įmonės, kurių įstatiniame kapitale užsienio investicijos sudaro nuo 10 iki 25 arba nuo 75 iki 90 procentų ir kurių visos įplaukos gaunamos tik už realizuotą savo gamybos produkciją, vienerius metus nuo pelno gavimo dienos atleidžiamos nuo pelno mokesčio. Praėjus nurodytam laikotarpiui, tokios įmonės moka 25 procentų pelno mokestį.
+Jeigu įmonė įsteigiama (registruojama) arba investuojamas užsienio kapitalas nuo 1994 m. sausio 1 d. iki 1995 m. gruodžio 31 d., tai jos pelno (pajamų) dalis, tenkanti užsienio investicijai, šešerius metus apmokestinama 50 procentų sumažintu pelno (pajamų) mokesčiu. Kitos mokesčių lengvatos taikomos remiantis Lietuvos Respublikos mokesčių įstatymais.
 
-Kai likviduojama bendra įmonė atleidimo nuo mokesčių mokėjimo laikotarpiu arba per 3 metus pasibaigus atleidimo nuo mokesčių mokėjimo terminui, ji privalo sumokėti pelno mokestį už tą laikotarpį , per kurį buvo atleista nuo mokesčių.
+Užsienio investitorių Lietuvoje gauti dividendai neapmokestinami.
 
-Bendros įmonės, kurių įstatiniame kapitale užsienio investicijos sudaro nuo 10 iki 90 procentų imtinai ir kurių įplaukos gaunamos už realizuotą savo gamybos produkciją, sudaro nuo 50 iki 100 procentų, moka 30 procentų pelno mokestį.
+Aukščiausiosios Tarybos sprendimu gali būti taikomos ir kitos mokesčių lengvatos. 
 
-Kitos bendros įmonės bei užsienio kapitalo įmonės moka 35 procentų pelno mokestį.
-
-Užsienio investitorių Lietuvoje gauti dividendai nuo mokesčio atleidžiami.
-
-Aukščiausiosios Tarybos sprendimu gali būti taikomos ir kitos mokesčių lengvatos.
+Straipsnio pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
 30 straipsnis. Atsakomybė už mokesčių tvarkos pažeidimus
@@ -271,11 +320,12 @@ Bendros įmonės ir užsienio kapitalo įmonės už mokesčių tvarkos pažeidim
 
 31 straipsnis. Pajamų, gautų iš užsienio investicijų, išvežimas
 
-Užsienio investitorių, mokančių pelno mokestį, teisėtai gautos pajamos į užsienį išvežamos be mokesčių . Atleisti nuo pelno mokesčių investitoriai moka 5 procentų, skaičiuojant nuo išvežamo pelno , mokestį.
+Užsienio investitorių gautos pajamos (pelnas), išvežamos į užsienį, neapmokestinamos.
 
-Užsienio investitoriai gali savo pajamas ar jų dalį išvežti savos gamybos produkcijos ar vidaus rinkoje nupirktų prekių bei paslaugų forma.
+Užsienio investitoriai taip pat gali savo pajamas ar jų dalį išvežti vidaus rinkoje nupirktų prekių bei paslaugų forma arba reinvestuoti į Lietuvos Respublikos ūkį.
 
-Vidaus rinkoje nupirktas prekes ir paslaugas galima išvežti Lietuvos Respublikos eksporto-importo operacijoms nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
  
 
 VIII. Muitų lengvatos
@@ -295,4 +345,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1990 m. gruodžio 29 d. 
 Nr. I-905
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2302, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-152 (1992-03-10), i. k. 0921010ISTA00I-2302
+Dėl Užsienio investicijų Lietuvos Respublikoje įstatymo pakeitimo ir papildymo
 
