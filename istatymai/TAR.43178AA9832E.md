@@ -72,11 +72,11 @@ Nr. IX-1263,
  
 2 straipsnis. Pagrindinės Įstatymo
 sąvokos
-1. Apskaitos dokumentas –
-popierinis arba elektroninis liudijimas, patvirtinantis ūkinę operaciją arba
-ūkinį įvykį ir turintis rekvizitus, pagal kuriuos galima nustatyti ūkinės
-operacijos arba ūkinio įvykio tapatumą, taip pat
-šio Įstatymo 13 straipsnio 4 dalyje nurodytas dokumentas.
+1. Apskaitos dokumentas – popierinis arba
+elektroninis liudijimas, patvirtinantis ūkinę operaciją arba ūkinį įvykį ir
+turintis rekvizitus, pagal kuriuos galima nustatyti ūkinės operacijos arba
+ūkinio įvykio tapatumą, taip pat šio įstatymo 13 straipsnio 7 dalyje
+nurodytas dokumentas.
 2. Apskaitos registras (toliau
 – registras) – remiantis apskaitos dokumentais parengta ūkinių operacijų
 ir ūkinių įvykių suvestinė, kurioje apibendrinti jų duomenys.
@@ -149,11 +149,15 @@ administracijos vadovo, savininkas.
 22. Vyriausiasis
 buhalteris (buhalteris) – fizinis asmuo, tvarkantis ūkio subjekto
 buhalterinę apskaitą.
+Straipsnio pakeitimai:
+Nr.
+IX-1668,
+2003-07-01, Žin., 2003, Nr. 73-3347 (2003-07-23)
  
 3 straipsnis. Bendrieji
 apskaitos tvarkymo reikalavimai
-1. Apskaita tvarkoma pagal šį Įstatymą
-ir kitus teisės aktus.
+1. Apskaita tvarkoma pagal šį
+Įstatymą ir kitus teisės aktus.
 2. Bendrąjį metodinį vadovavimą
 apskaitai pagal Lietuvos Respublikos teisės aktus, atsižvelgdama į
 Tarptautinius apskaitos standartus ir Europos Sąjungos teisę, atlieka Finansų
@@ -179,8 +183,8 @@ profesinės bei savivaldos organizacijos.
  
 4 straipsnis. Reikalavimai apskaitos
 informacijai
-Ūkio subjektai apskaitą tvarko taip, kad apskaitos
-informacija būtų:
+Ūkio subjektai apskaitą tvarko taip, kad apskaitos informacija
+būtų:
 1) tinkama, objektyvi ir palyginama;
 2) pateikiama laiku;
 3) išsami ir naudinga vidaus ir išorės informacijos
@@ -219,8 +223,8 @@ ir apskaitos registrai sudaromi lietuvių kalba, o prireikus – ir lietuvių, i
 užsienio kalba. Gauti dokumentai, kurie surašyti užsienio kalba, prireikus turi
 būti išversti į lietuvių kalbą.
 Straipsnio pakeitimai:
-Nr. IX-1263,
-2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
+Nr. IX-1263, 2002-12-10,
+Žin., 2002, Nr. 123-5548 (2002-12-24)
  
 7 straipsnis. Sąskaitų planas
 1. Pavyzdinį sąskaitų planą parengia ir „Valstybės
@@ -238,9 +242,9 @@ sistemą ūkio subjektai pasirenka savarankiškai.
 1. Apskaitos politika – bendrieji apskaitos principai,
 apskaitos metodai ir taisyklės, skirti ūkio subjekto apskaitai tvarkyti ir
 finansinei atskaitomybei sudaryti bei pateikti.
-2. Ūkio subjekto vadovas
-turi parinkti apskaitos politiką ir ją įgyvendinti, atsižvelgdamas į konkrečias
-sąlygas, verslo pobūdį ir vadovaudamasis apskaitos standartais. 
+2. Ūkio subjekto
+vadovas turi parinkti apskaitos politiką ir ją įgyvendinti, atsižvelgdamas į
+konkrečias sąlygas, verslo pobūdį ir vadovaudamasis apskaitos standartais. 
  
 10 straipsnis. Apskaitos tvarkymas
 1. Ūkio subjekto apskaitą tvarko:
@@ -251,24 +255,14 @@ padalinys) arba vyriausiasis buhalteris (buhalteris);
 savininkas. Ši nuostata taikoma neribotos civilinės atsakomybės juridiniams
 asmenims, turintiems vieną savininką, bei gyventojams, kurie verčiasi
 individualia veikla;
-4) ūkininkas arba jo ūkio nariai.
- 
-2 dalies
-redakcija iki 2003 m. liepos 1 d.:
-2. Valstybės ir savivaldybės įmonių, biudžetinių
-įstaigų apskaita tvarkoma šio straipsnio 
-1 dalies 1 punkte nustatyta tvarka.
-2 dalies
-redakcija nuo 2003 m. liepos 1 d.:
+4) ūkininkas arba ūkininko
+partneriai.
 2. Valstybės
 ir savivaldybės įmonių apskaita tvarkoma šio straipsnio 1 dalies 1 punkte
 nustatyta tvarka.
- 
-10 straipsnis
-papildomas 3 dalimi nuo 2003 m. liepos 1 d.:
-3. Biudžetinių įstaigų apskaita tvarkoma šio straipsnio
-1 dalies 1 punkte nustatyta tvarka arba centralizuotai teisės aktų nustatyta
-tvarka.
+3. Biudžetinių įstaigų apskaita tvarkoma šio
+straipsnio 1 dalies 1 punkte nustatyta tvarka arba centralizuotai teisės aktų
+nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -279,6 +273,9 @@ Nr. IX-1263,
 Nr.
 IX-1619,
 2003-06-10, Žin., 2003, Nr. 61-2771 (2003-06-27)
+Nr.
+IX-1668,
+2003-07-01, Žin., 2003, Nr. 73-3347 (2003-07-23)
  
 11 straipsnis. Vyriausiojo
 buhalterio (buhalterio) ir apskaitos paslaugas teikiančios
@@ -310,17 +307,21 @@ operacijos ir ūkinio įvykio metu arba jiems pasibaigus ar įvykus.
 operacijos ir ūkiniai įvykiai, kurie negali būti pagrįsti apskaitos
 dokumentais, pagrindžiami su jais susijusių ūkinių operacijų ir ūkinių įvykių
 apskaitos dokumentais.
-3. Nuolatinių ir
-ilgalaikių paslaugų (energijos, dujų, ryšių, nuomos ir kitų) teikimo pagal
-sutartis praėjusio laikotarpio, kuris negali būti ilgesnis negu vienas mėnuo,
-apskaitos dokumentai išrašomi ir pateikiami (išsiunčiami) paslaugos gavėjui ne
-vėliau kaip iki kito mėnesio 10 dienos. Ūkine veikla nesiverčiantiems fiziniams
-asmenims Vyriausybės nustatyta tvarka gali būti išrašomi ir pateikiami
-(išsiunčiami) ne ilgesnio kaip du mėnesiai laikotarpio nuolatinių ir ilgalaikių
-paslaugų teikimo apskaitos dokumentai.
+3. Nuolatinių ir ilgalaikių paslaugų (energijos, dujų,
+ryšių, nuomos ir kitų) teikimo pagal sutartis arba paslaugų, įgytų naudojantis
+telekomunikacijų įranga, praėjusio laikotarpio, kuris negali būti ilgesnis negu
+vienas mėnuo, apskaitos dokumentai išrašomi ir pateikiami (išsiunčiami)
+paslaugos gavėjui ne vėliau kaip iki kito mėnesio 10 dienos. Ūkine veikla
+nesiverčiantiems fiziniams asmenims Vyriausybės nustatyta tvarka gali būti
+išrašomi ir pateikiami (išsiunčiami) ne ilgesnio kaip du mėnesiai laikotarpio nuolatinių
+ir ilgalaikių paslaugų teikimo apskaitos dokumentai.
 4. Apskaitos
 registruose ūkinių operacijų ir ūkinių įvykių duomenys užregistruojami ne
 vėliau kaip iki kito mėnesio 30 dienos.
+Straipsnio pakeitimai:
+Nr.
+IX-1668,
+2003-07-01, Žin., 2003, Nr. 73-3347 (2003-07-23)
  
 13 straipsnis. Apskaitos dokumentų rekvizitai
 1. Privalomi šie
@@ -341,30 +342,43 @@ pasirašyti arba tik pasirašyti apskaitos dokumentus, vardas (-ai) arba pirmoji
 dokumentams gali būti papildomai nustatyti privalomi rekvizitai. Reikalavimus
 mokesčiams apskaičiuoti naudojamiems apskaitos dokumentams, įskaitant šių
 dokumentų gaminimo ir platinimo tvarką, nustato Vyriausybė.
-3. Įrašai apskaitos registruose daromi tik pagal
-apskaitos dokumentus, turinčius šio straipsnio 1, 2 ir 4 dalyse nurodytus
-rekvizitus, išskyrus apskaitos dokumentus, gautus iš užsienio subjektų.
-4. Ūkine veikla
-nesiverčiantiems fiziniams asmenims suteiktų nuolatinių ir ilgalaikių paslaugų
-(gyvenamųjų patalpų nuomos, šalto ir karšto vandens, elektros ir šilumos
-energijos, dujų tiekimo ir komunalinių paslaugų) apskaitos dokumentuose bei
-telekomunikacijų paslaugų gavėjams išrašytuose apskaitos dokumentuose turi būti
-nurodyti šie rekvizitai:
+3. Įrašai
+apskaitos registruose daromi tik pagal apskaitos dokumentus, turinčius šiame
+straipsnyje nurodytus rekvizitus, išskyrus apskaitos dokumentus, gautus iš
+užsienio subjektų.
+4. Ūkine veikla nesiverčiantiems fiziniams asmenims
+suteiktų nuolatinių ir ilgalaikių paslaugų (gyvenamųjų patalpų nuomos, šalto ir
+karšto vandens, elektros ir šilumos energijos, dujų tiekimo ir komunalinių
+paslaugų) apskaitos dokumentuose bei telekomunikacijų paslaugų gavėjams, taip
+pat paslaugų, įgytų naudojantis telekomunikacijų įranga, gavėjams išrašytuose
+apskaitos dokumentuose turi būti nurodyti šie privalomi rekvizitai: 
 1) apskaitos dokumento pavadinimas;
 2) ūkio subjekto, suteikusio paslaugas, pavadinimas,
 kodas;
 3) apskaitos dokumento data;
 4) paslaugų gavėjo pavadinimas;
 5) paslaugų pavadinimai;
-6) suteiktų paslaugų vertė pinigais ir (arba) jų
-kiekis atitinkamais mato vienetais.
+6) suteiktų
+paslaugų vertė pinigais ir (arba) jų kiekis atitinkamais mato vienetais.
 5. Šio straipsnio 1 dalies 1 ir 6 punktuose nustatyti
 apskaitos dokumentų rekvizitai kasos aparato kvitui neprivalomi.
-6. Kai ūkinė operacija jau atlikta arba ūkinis įvykis
+6. Degalų (variklių
+benzino, dyzelinių degalų ir suskystintų dujų, skirtų naudoti kaip degalai)
+pirkėjams, kai jie pagal pirkimo–pardavimo sutartis atsiskaito ne banko
+kortele, išrašytuose apskaitos dokumentuose turi būti nurodyti šie privalomi
+rekvizitai:
+1) apskaitos dokumento pavadinimas;
+2) ūkio subjekto, surašiusio apskaitos dokumentą,
+pavadinimas, kodas;
+3) apskaitos dokumento data;
+4) pirkėjo pavadinimas;
+5) parduotų degalų pavadinimas, jų kiekis atitinkamais
+mato vienetais ir pardavimo piniginė išraiška.
+7. Kai ūkinė operacija jau atlikta arba ūkinis įvykis
 baigėsi, bet nėra gautas tai patvirtinantis apskaitos dokumentas, surašomas
 laisvos formos apskaitos dokumentas, nustatantis ūkinės operacijos arba ūkinio
-įvykio tapatumą. Šį dokumentą pasirašo asmenys, turintys teisę surašyti ir pasirašyti
-arba tik pasirašyti apskaitos dokumentus.]
+įvykio tapatumą. Šį dokumentą pasirašo asmenys, turintys teisę surašyti ir
+pasirašyti arba tik pasirašyti apskaitos dokumentus.]
 Straipsnio
 pakeitimai:
 Nr.
@@ -372,6 +386,9 @@ IX-679,
 2001-12-21, Žin., 2001, Nr. 110-3995 (2001-12-29)
 Nr. IX-1263,
 2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
+Nr.
+IX-1668,
+2003-07-01, Žin., 2003, Nr. 73-3347 (2003-07-23)
  
 14 straipsnis. Apskaitos dokumentų pasirašymas
 
@@ -437,14 +454,18 @@ perbraukiamas taip, kad galima būtų juos perskaityti, ir įrašomas teisingas
 tekstas arba skaičius. Šalia ištaisyto įrašo pasirašo taisomą apskaitos
 dokumentą pasirašę asmenys ir nurodoma taisymo data. Tokie taisymai daromi tik
 dokumento surašymo metu.
-4. Klaidos
-apskaitos registruose, pastebėtos iki metinės finansinės atskaitomybės
-sudarymo, gali būti taisomos perbraukiant klaidingą tekstą ar skaičių taip, kad
-būtų galima juos perskaityti, ir įrašant teisingą skaičių ar tekstą arba
+4. Klaidos apskaitos
+registruose, pastebėtos iki metinės finansinės atskaitomybės sudarymo ir
+patvirtinimo, gali būti taisomos perbraukiant klaidingą tekstą ir skaičių taip,
+kad būtų galima juos perskaityti, ir įrašant teisingą skaičių ar tekstą arba
 surašant buhalterinę pažymą. Šalia ištaisyto įrašo pasirašo taisomą dokumentą
 pasirašę asmenys ir nurodoma taisymo data. Klaidos apskaitos registruose,
-pastebėtos po metinės finansinės atskaitomybės sudarymo, taisomos tik surašant
-buhalterinę pažymą. 
+pastebėtos po metinės finansinės atskaitomybės sudarymo ir patvirtinimo,
+taisomos tik surašant buhalterinę pažymą.
+Straipsnio pakeitimai:
+Nr.
+IX-1668,
+2003-07-01, Žin., 2003, Nr. 73-3347 (2003-07-23)
  
 KETVIRTASIS SKIRSNIS
 APSKAITOS DOKUMENTŲ
@@ -607,21 +628,27 @@ BUHALTERINĖS APSKAITOS ĮSTATYMO 1, 6, 10 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMA
 Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
  
 4.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-IX-1619,
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-1619,
 2003-06-10, Žin., 2003, Nr. 61-2771 (2003-06-27)
-BUHALTERINĖS
-APSKAITOS ĮSTATYMO 10 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Šis Įstatymas įsigalioja nuo 2003 m. liepos 1
-d.
+BUHALTERINĖS APSKAITOS ĮSTATYMO
+10 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis Įstatymas
+įsigalioja nuo 2003 m. liepos 1 d.
  
-***
-Pabaiga ***
+5.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-1668,
+2003-07-01, Žin., 2003, Nr. 73-3347 (2003-07-23)
+BUHALTERINĖS APSKAITOS ĮSTATYMO
+2, 10, 12, 13, 18 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-06-27)
+Aušrinė Trapinskienė (2003-08-04)
                  
 autrap@lrs.lt
