@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
+Suvestinė redakcija nuo 1999-07-30 iki 2001-08-19
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
+ 
+ 
 LIETUVOS RESPUBLIKOS
 VAIKO TEISIŲ APSAUGOS PAGRINDŲ
 Į S T A T Y M A S
@@ -680,7 +685,7 @@ Negalios vaikas turi lygias teises su sveikais vaikais aktyviai gyventi, vystyti
 
 
 
-33 straipsnis.       Mokytojų, auklėtojų, socialinių darbuotojų rengimas darbui su vaikais, turinčiais fizinių ar psichinių negalių
+33 straipsnis. Mokytojų, auklėtojų, socialinių darbuotojų rengimas darbui su vaikais, turinčiais fizinių ar psichinių negalių
 
 
 Mokytojai, auklėtojai, socialiniai darbuotojai darbui su vaikais, turinčiais fizinių ar psichinių negalių, rengiami specialiai. Už jų parengimo šiam darbui tikslines programas atsako Švietimo ir mokslo ministerija kartu su Socialinės apsaugos ir darbo ministerija.
@@ -867,7 +872,7 @@ VAIKAS IR DARBAS
 
 
 
-41 straipsnis.       Darbo vietų našlaičiams ir kitiems vaikams rezervavimas, mokesčių lengvatos darbdaviams
+41 straipsnis. Darbo vietų našlaičiams ir kitiems vaikams rezervavimas, mokesčių lengvatos darbdaviams
 
 
 1. Našlaičiams, likusiems be tėvų globos (rūpybos) ar neturintiems reikiamos materialinės paramos vaikams taikomos įstatymų nustatytos papildomos užimtumo garantijos.
@@ -906,7 +911,7 @@ VAIKAS IR SOCIALINĖ APLINKA
  
 
 
-43 straipsnis.       Vaiko apsaugos nuo neigiamos socialinės aplinkos įtakos bendrosios nuostatos
+43 straipsnis. Vaiko apsaugos nuo neigiamos socialinės aplinkos įtakos bendrosios nuostatos
 
 
 1. Valstybės, vietos savivaldos institucijos, kiti fiziniai ir juridiniai asmenys privalo saugoti vaiką nuo neigiamos socialinės aplinkos įtakos. Sveiko gyvenimo būdo propagavimas ir vaikų teisinis švietimas – svarbios valstybės socialinės politikos ir veiklos kryptys.
@@ -948,7 +953,7 @@ VAIKAS IR SOCIALINĖ APLINKA
 
 
 
-45 straipsnis.       Vaiko apsauga nuo narkotinių, nuodingųjų, kitų stipriai veikiančių priemonių bei medžiagų vartojimo
+45 straipsnis. Vaiko apsauga nuo narkotinių, nuodingųjų, kitų stipriai veikiančių priemonių bei medžiagų vartojimo
 
 
 1. Vaikas turi būti apsaugotas nuo neteisėto narkotinių, nuodingųjų, kitų stipriai organizmą veikiančių priemonių bei medžiagų vartojimo, tokių priemonių bei medžiagų gaminimo, jų pardavinėjimo ar kitokio platinimo.
@@ -1040,7 +1045,7 @@ IR ELGESIO KONTROLĖS YPATUMAI
 
 
 
-49 straipsnis.       Drausmės bei priverčiamųjų auklėjamojo poveikio priemonių vaikui taikymas
+49 straipsnis. Drausmės bei priverčiamųjų auklėjamojo poveikio priemonių vaikui taikymas
 
 
 1. Vaiką, vengiantį atlikti savo pareigas, už drausmės pažeidimus tėvai, kiti teisėti vaiko atstovai gali atitinkamai drausminti savo nuožiūra, išskyrus fizinį ar psichinį kankinimą, kitokį žiaurų elgesį, vaiko garbės ir orumo žeminimą.
@@ -1392,11 +1397,12 @@ BAIGIAMOSIOS NUOSTATOS
 62 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-Vaiko teisių apsaugos pagrindų įstatymo 4 straipsnio 6 punkto, 10 straipsnio pirmosios dalies, 12 straipsnio ketvirtosios ir penktosios dalių, 13 straipsnio trečiosios dalies, 21 straipsnio trečiosios dalies, 23 ir 25 straipsnių, 35 straipsnio antrosios dalies, 37 straipsnio, 44 straipsnio antrosios dalies, 45 straipsnio antrosios dalies, 46, 47, 49, 53 straipsnių ir 59 straipsnio trečiosios dalies įsigaliojimą ir šio įstatymo įgyvendinimo tvarką nustato Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo įgyvendinimo tvarkos įstatymas.
- 
- 
+Vaiko teisių apsaugos pagrindų įstatymo 10 straipsnio pirmosios dalies, 13 straipsnio trečiosios dalies, 21 straipsnio trečiosios dalies, 23 ir 25 straipsnių, 35 straipsnio antrosios dalies, 37 straipsnio, 44 straipsnio antrosios dalies, 45 straipsnio antrosios dalies, 46, 47, 49, 53 straipsnių ir 59 straipsnio trečiosios dalies įsigaliojimą ir šio įstatymo įgyvendinimo tvarką nustato Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo įgyvendinimo tvarkos įstatymas.
 
 
+Straipsnio pakeitimai:
+Nr. VIII-1315, 1999-07-07, Žin., 1999, Nr. 66-2129 (1999-07-30), i. k. 0991010ISTAIII-1315
+ 
 
 
 
@@ -1406,3 +1412,14 @@ Vaiko teisių apsaugos pagrindų įstatymo 4 straipsnio 6 punkto, 10 straipsnio 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1315, 1999-07-07, Žin., 1999, Nr. 66-2129 (1999-07-30), i. k. 0991010ISTAIII-1315
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 62 straipsnio pakeitimo įstatymas
