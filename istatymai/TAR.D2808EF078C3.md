@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D2808EF078C3"
 
 # Lietuvos Respublikos nuodingųjų medžiagų kontrolės įstatymas
 
+Suvestinė redakcija nuo 2005-01-01 iki 2017-04-30
+ 
+Įstatymas paskelbtas: Žin. 2001, Nr. 64-2330, i. k. 1011010ISTA00IX-456
+ 
+ 
 LIETUVOS RESPUBLIKOS
 NUODINGŲJŲ MEDŽIAGŲ KONTROLĖS
 ĮSTATYMAS
@@ -155,7 +160,9 @@ Pagrindiniai VEIKLOS, SUSIJUSIOS SU NUODINGOSIOMIS MEDŽIAGOMIS, REIKALAVIMAI
 
 
 
-5. Įvykus avarijai ir išsipylus ar išsklidus nuodingosioms medžiagoms, avarinė situacija likviduojama ir nuodingųjų medžiagų poveikio pasekmės šalinamos Civilinės saugos įstatymo, kitų įstatymų ir teisės aktų nustatyta tvarka. Informaciją apie šias avarines situacijas kaupia ir teisės aktų nustatyta tvarka teikia Civilinės saugos departamentas.
+5. Įvykus avarijai ir išsipylus ar išsklidus nuodingosioms medžiagoms, avarinė situacija likviduojama ir nuodingųjų medžiagų poveikio pasekmės šalinamos Civilinės saugos įstatymo, kitų įstatymų ir teisės aktų nustatyta tvarka. Informaciją apie šias avarines situacijas kaupia ir teisės aktų nustatyta tvarka teikia Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos.
+Straipsnio dalies pakeitimai:
+Nr. IX-2509, 2004-10-26, Žin., 2004, Nr. 163-5947 (2004-11-09); Žin., 2004, Nr. 164-0 (2004-11-11), i. k. 1041010ISTA0IX-2509
  
 
 
@@ -508,3 +515,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2509, 2004-10-26, Žin., 2004, Nr. 163-5947 (2004-11-09); Žin., 2004, Nr. 164-0 (2004-11-11), i. k. 1041010ISTA0IX-2509
+Lietuvos Respublikos nuodingųjų medžiagų kontrolės įstatymo 4 straipsnio pakeitimo įstatymas
