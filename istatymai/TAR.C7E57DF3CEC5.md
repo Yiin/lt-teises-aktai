@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
+Suvestinė redakcija nuo 2000-03-08 iki 2000-05-23
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
+ 
+ 
 LIETUVOS RESPUBLIKOS INVESTICIJŲ ĮSTATYMAS
  
 1999 m. liepos 7 d. Nr. VIII-1312
@@ -308,14 +313,12 @@ INVESTAVIMO YPATUMAI
 
 
 
-2) narkotinių ir psichotropinių medžiagų, ne vaistinės paskirties stipriai veikiančių ar nuodingųjų medžiagų gamybos ir pardavimo bei kultūrų, kuriose yra narkotinių, stipriai veikiančių ir nuodingųjų medžiagų, auginimo, perdirbimo, pardavimo;
+2) loterijų organizavimo. 
 
 
-
-
-3) loterijų organizavimo.
-
-
+Straipsnio dalies pakeitimai:
+Nr. VIII-1558, 2000-02-17, Žin., 2000, Nr. 20-495 (2000-03-08), i. k. 1001010ISTAIII-1558
+ 
 
 
 
@@ -502,3 +505,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1558, 2000-02-17, Žin., 2000, Nr. 20-495 (2000-03-08), i. k. 1001010ISTAIII-1558
+Lietuvos Respublikos investicijų įstatymo 8 straipsnio pakeitimo įstatymas
