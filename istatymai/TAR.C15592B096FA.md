@@ -349,30 +349,21 @@ civilinės saugos pratyboms.
  
 11 straipsnis. Valstybinė priešgaisrinė
 gelbėjimo tarnyba
-1. Valstybinė priešgaisrinė gelbėjimo
-tarnyba yra nuolatinės parengties sudėtinė civilinės saugos ir gelbėjimo
-sistemos dalis, vadovaujanti gaisrų gesinimui, žmonių paieškai ir gelbėjimui
-bei jų skubiam iškeldinimui iš ekstremalių situacijų židinių ir teikianti
-įstatymo nustatyto masto pirmąją medicinos pagalbą. Valstybinei priešgaisrinei
-gelbėjimo tarnybai vadovauja Priešgaisrinės apsaugos ir gelbėjimo departamentas
-prie Vidaus reikalų ministerijos (toliau - Priešgaisrinės apsaugos ir gelbėjimo
-departamentas).
+1. Valstybinė
+priešgaisrinė gelbėjimo tarnyba yra nuolatinės parengties sudėtinė civilinės
+saugos ir gelbėjimo sistemos dalis, organizuojanti gaisrų gesinimą, gesinanti
+gaisrus, atliekanti gelbėjimo darbus bei valstybinę priešgaisrinę priežiūrą.
 2. Likviduojant ekstremalių situacijų
-padarinius dalyvaujantys valstybinės priešgaisrinės gelbėjimo tarnybos
-padaliniai, ugniagesių komandos bei žinybinės priešgaisrinės pajėgos,
-neatsižvelgiant į jų priklausomybę, yra pavaldūs Priešgaisrinės apsaugos ir
-gelbėjimo departamento paskirtam gelbėjimo darbų ekstremalaus įvykio židinyje
-vadovui.
-3. Valstybinė priešgaisrinė gelbėjimo
-tarnyba vykdo valstybinę priešgaisrinę priežiūrą. Jos uždaviniai yra vykdyti
-gaisrų prevenciją ir užtikrinti technines bei organizacines priemones gaisrams
-gesinti. Valstybinės priešgaisrinės priežiūros darbas organizuojamas
-vadovaujantis Vyriausybės patvirtintais nuostatais.
-4. Valstybinės priešgaisrinės gelbėjimo
-tarnybos ir jos padalinių veiklos nuostatus, sudėtį, materialinio techninio
-aprūpinimo normas bei plėtros programas tvirtina steigėjas, o detalias
-funkcijas, teises ir atsakomybę ekstremalių situacijų atvejais, atliekant
-gelbėjimo darbus, nustato kiti teisės aktai.
+padarinius dalyvaujančios valstybinė priešgaisrinė gelbėjimo tarnyba,
+savivaldybių priešgaisrinės tarnybos, žinybinės priešgaisrinės pajėgos ir
+savanoriškos ugniagesių formuotės, neatsižvelgiant į jų priklausomybę, yra
+pavaldžios Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus
+reikalų ministerijos (toliau – Priešgaisrinės apsaugos ir gelbėjimo
+departamentas) direktoriaus nustatyta tvarka paskirtam gelbėjimo darbų vadovui.
+Straipsnio
+pakeitimai:
+Nr. IX-1674,
+2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
  
 12 straipsnis. Ministerijos ir kitos
 valstybės valdymo institucijos 
@@ -426,8 +417,8 @@ situacijų atvejais;
 departamentą apie administraciniame vienete įvykusius ekstremalius įvykius;
 6) organizuoja ekstremalių įvykių
 padarinių likvidavimą, paieškos ir gelbėjimo darbų aprūpinimą; 
-7) teikia pagalbą nukentėjusiesiems dėl
-ekstremalių įvykių;
+7) teikia pagalbą nukentėjusiesiems dėl ekstremalių
+įvykių;
 8) kontroliuoja savivaldos vykdomųjų
 institucijų pasirengimą galimiems ekstremalių situacijų padariniams išvengti
 arba jų pasekmėms švelninti;
@@ -473,9 +464,9 @@ subjektams ir gyventojams vykdyti civilinės saugos užduotis;
 saugos priemonių valstybinį rezervą ir prireikus organizuoja jo išdavimą;
 12) informuoja apskrities viršininką
 apie savivaldybės teritorijoje įvykusias ekstremalias situacijas; 
-13) telkia visas savivaldybės teritorijoje
-esančias civilinės saugos pajėgas ekstremalių situacijų padariniams šalinti ir
-gelbėjimo darbams atlikti;
+13) telkia visas savivaldybės
+teritorijoje esančias civilinės saugos pajėgas ekstremalių situacijų
+padariniams šalinti ir gelbėjimo darbams atlikti;
 14) teikia pagalbą nukentėjusiesiems dėl
 ekstremalių įvykių;
 15) prašo apskrities viršininko pagalbos
@@ -611,15 +602,15 @@ veikia kaip Ekstremalių situacijų komisijos nuolatinė institucija, turinti
 Vyriausybės įstaigos statusą. Didelio masto stichinių nelaimių, technologinių
 avarijų ar katastrofų atvejais šis centras nedelsdamas organizuoja nelaimės
 stabdymą, žmonių gelbėjimą ir padarinių šalinimą. Prireikus į pagalbą gelbėjimo
-darbus atliekančioms civilinės saugos pajėgoms telkia kitoms valstybės institucijoms
-pavaldžias tarnybas ir techniką, koordinuoja jų veiksmus. Vyriausybė tvirtina
-ekstremalių situacijų valdymo planus. Juose, kai to reikia, numatomas ministrų
-vadovavimas gelbėjimo ir padarinių šalinimo veiksmams.
-2. Ekstremalių situacijų atvejais Ekstremalių
-situacijų valdymo centras priima ir teikia ministerijoms, kitoms valstybės
-valdymo institucijoms, vietos savivaldos vykdomosioms institucijoms, ūkio
-subjektams ir gyventojams privalomus sprendimus dėl ekstremalios situacijos
-padarinių lokalizavimo ir šalinimo.
+darbus atliekančioms civilinės saugos pajėgoms telkia kitoms valstybės
+institucijoms pavaldžias tarnybas ir techniką, koordinuoja jų veiksmus.
+Vyriausybė tvirtina ekstremalių situacijų valdymo planus. Juose, kai to reikia,
+numatomas ministrų vadovavimas gelbėjimo ir padarinių šalinimo veiksmams.
+2. Ekstremalių situacijų atvejais
+Ekstremalių situacijų valdymo centras priima ir teikia ministerijoms, kitoms
+valstybės valdymo institucijoms, vietos savivaldos vykdomosioms institucijoms,
+ūkio subjektams ir gyventojams privalomus sprendimus dėl ekstremalios
+situacijos padarinių lokalizavimo ir šalinimo.
 3. Ekstremalių situacijų valdymo centrą
 steigia ir jo nuostatus tvirtina Vyriausybė.
  
@@ -646,30 +637,45 @@ GELBĖJIMO DARBAMS
 23 straipsnis. Civilinės saugos ir
 gelbėjimo sistemos pajėgos
 1. Civilinės saugos ir gelbėjimo
-sistemos pajėgos sudaromos gelbėjimo, žmonių paieškos ir kitiems
-neatidėliotiniems darbams atlikti. 
+sistemos pajėgos sudaromos gelbėjimo, žmonių paieškos ir kitiems neatidėliotiniems
+darbams atlikti. 
 2. Civilinės saugos ir gelbėjimo
 sistemos pajėgos pagal savo paskirtį yra:
-1) Valstybinės priešgaisrinės gelbėjimo
-tarnybos padaliniai;
+1) priešgaisrinės gelbėjimo pajėgos;
 2) bendrosios ir specialiosios
-paskirties profesionaliosios ir savanoriškosios formuotės;
-3) savivaldybių priešgaisrinės tarnybos.
+paskirties profesionaliosios ir savanoriškosios formuotės.
+Straipsnio
+pakeitimai:
+Nr. IX-1674,
+2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
  
-24
-straipsnis. Valstybinės priešgaisrinės gelbėjimo tarnybos padaliniai ir jų
-paskirtis
-1. Valstybinės priešgaisrinės gelbėjimo
-tarnybos padaliniai gesina gaisrus, vykdo gelbėjimo darbus pramoninių avarijų
-ir transporto avarijų vietose, likviduoja gaivalinių nelaimių padarinius,
-cheminius ir radiacinius incidentus, dalyvauja atliekant žmonių paiešką
-sausumoje, teritoriniuose vandenyse ir ekonominėje zonoje, suteikia
-nukentėjusiesiems pirmąją medicinos pagalbą bei vykdo valstybinę priešgaisrinę
-priežiūrą. Šie padaliniai steigiami apskrityse, rajonuose (miestuose) bei ūkio
-subjektuose. Jie yra nuolatinės parengties, 24 valandas per parą pasirengę
-išvykti į ekstremalaus įvykio vietą.
-2. Valstybinės priešgaisrinės gelbėjimo
-tarnybos padalinius steigia Vidaus reikalų ministerija.
+24 straipsnis. Priešgaisrinės gelbėjimo
+pajėgos ir jų paskirtis
+1.
+Priešgaisrines gelbėjimo pajėgas sudaro valstybinė priešgaisrinė gelbėjimo
+tarnyba, savivaldybės priešgaisrinės tarnybos, žinybinės priešgaisrinės pajėgos
+ir savanoriškos ugniagesių formuotės.
+2. Valstybinę
+priešgaisrinę gelbėjimo tarnybą sudaro Priešgaisrinės apsaugos ir gelbėjimo
+departamentas ir jam pavaldžios įstaigos. Jos paskirtis yra organizuoti gaisrų
+gesinimą, gesinti gaisrus, vykdyti gelbėjimo darbus, likviduoti gaivalinių
+nelaimių, cheminių ir radiacinių įvykių padarinius bei teikti nukentėjusiesiems
+pirmąją medicinos pagalbą.
+3. Savivaldybių
+priešgaisrinė tarnyba yra nuolatinės parengties civilinės saugos ir gelbėjimo
+sistemos dalis, gesinanti gaisrus ir atliekanti žmonių bei turto gelbėjimo
+darbus, išlaikoma iš savivaldybės biudžeto. 
+4. Žinybinės
+priešgaisrinės pajėgos yra atskiruose gaisro atžvilgiu pavojinguose objektuose,
+taip pat kitų įmonių, įstaigų ir organizacijų įsteigti padaliniai, gesinantys
+gaisrus ir atliekantys pirminius žmonių ir turto gelbėjimo darbus gaisrų metu. 
+5. Savanoriška ugniagesių formuotė yra
+visuomeninė organizacija, kurios paskirtis yra gesinti gaisrus, gelbėti žmones
+ir turtą gaisrų metu.
+Straipsnio
+pakeitimai:
+Nr. IX-1674,
+2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
  
 25 straipsnis. Bendrosios ir
 specialiosios paskirties formuotės ir jų paskirtis
@@ -680,24 +686,20 @@ atlikti. Jas steigia apskritys, rajonų (miestų) savivaldybės ir ūkio subjekt
 skirtos specialioms užduotims atlikti gelbėjimo ir kitų neatidėliotinų darbų
 metu, kad būtų sustiprintas ir visapusiškai aprūpintas bendrosios paskirties
 formuočių darbas. Specialiosios paskirties formuotes steigia ministerijos,
-kitos valstybės valdymo institucijos, rajonų (miestų) savivaldybės ir ūkio subjektai.
+kitos valstybės valdymo institucijos, rajonų (miestų) savivaldybės ir ūkio
+subjektai.
 3. Bendrosios ir specialiosios
 paskirties formuočių sudėtį, formavimo ir aprūpinimo tvarką nustato Vyriausybė.
  
-26 straipsnis. Savivaldybių
-priešgaisrinės tarnybos
-1. Savivaldybės priešgaisrinė
-tarnyba yra nuolatinės parengties civilinės saugos ir gelbėjimo sistemos dalis,
-išlaikoma iš savivaldybės biudžeto.
-2. Savivaldybių priešgaisrinės tarnybos
-gesina gaisrus ir atlieka pirminius gelbėjimo darbus.
-3. Savivaldybių priešgaisrinių tarnybų
-ir valstybinės priešgaisrinės gelbėjimo tarnybos padalinių bendrus veiksmus
-nustato Priešgaisrinės apsaugos ir gelbėjimo departamentas. Jis teikia metodinę
-pagalbą savivaldybių priešgaisrinėms tarnyboms ir kontroliuoja jų pasirengimą
-veikti ekstremalių situacijų atvejais.
+26 straipsnis. Neteko galios
+nuo 2003 m. liepos 23 d.
+Straipsnio
+pakeitimai:
+Nr. IX-1674,
+2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
  
-27 straipsnis. Paieškos ir gelbėjimo tarnyba
+27 straipsnis. Paieškos ir gelbėjimo
+tarnyba
 1. Paieškos ir gelbėjimo tarnyba yra
 civilinės saugos ir gelbėjimo sistemos dalis, organizuojanti Lietuvos
 Respublikos oro erdvėje, Lietuvos Respublikos Baltijos jūros teritoriniuose
@@ -720,8 +722,8 @@ civilinės saugos tarnybos pagal atitinkamoms ministerijoms ir valstybės valdym
 institucijoms priskirtą reguliavimo sritį, kompetenciją ir funkcijas. Šių
 tarnybų funkcijas nustato Vyriausybė arba jos įgaliota institucija.
  
-29 straipsnis. Stebėjimo ir
-laboratorinės kontrolės tinklas 
+29 straipsnis. Stebėjimo ir laboratorinės
+kontrolės tinklas 
 1. Aplinkos užteršimą pavojingomis
 biologinėmis, cheminėmis ir radioaktyviosiomis medžiagomis stebi aplinkos
 apsaugos sistemos aplinkos tyrimų laboratorijos ir jų skyriai,
@@ -740,12 +742,11 @@ saugos departamentas. Jis nustato stebėjimų pranešimų ir laboratorinės anal
 išvadų pateikimo tvarką apskričių ir rajonų (miestų) ekstremalių situacijų
 valdymo centrams.
 Straipsnio pakeitimai:
-Nr. VIII-1794, 00.07.04, Žin., 2000,
-Nr.61-1805 (00.07.26)
+Nr. VIII-1794, 2000.07.04, Žin., 2000, Nr.
+61-1805 (2000.07.26)
  
- 
-30 straipsnis.Vadovavimas gelbėjimo ir
-kitiems neatidėliotiniems darbams
+30 straipsnis.Vadovavimas gelbėjimo ir kitiems
+neatidėliotiniems darbams
 1. Gaisrų gesinimą, žmonių
 paiešką ir gelbėjimą bei skubų iškeldinimą iš ekstremalaus įvykio židinio
 organizuoja ir operacinį vadovavimą civilinės saugos veiksmams pradiniu
@@ -820,15 +821,15 @@ situacijos mastą ir pavojų gyventojams, sprendimus dėl gyventojų evakavimo
 priima apskričių viršininkai, rajonų (miestų) savivaldybių merai ir ūkio
 subjektų vadovai, o atskirais atvejais sprendimą dėl skubaus žmonių iškeldinimo
 iš ekstremalaus įvykio židinio priima Valstybinės priešgaisrinės gelbėjimo
-tarnybos, rajono (miesto) savivaldybės priešgaisrinės tarnybos ir policijos
-pareigūnai. Gyventojai evakuojami teritoriniu principu.
+tarnybos, rajono (miesto) savivaldybės priešgaisrinės tarnybos ir policijos pareigūnai.
+Gyventojai evakuojami teritoriniu principu.
 2. Gyventojų evakavimą organizuoja prie
-rajono (miesto) ekstremalių situacijų valdymo centrų sudarytos gyventojų evakavimo
-komisijos (grupės), joms vadovauja rajono (miesto) savivaldybės mero paskirti
-vadovai. Gyventojų evakavimo komisijos (grupės) sudaromos iš atitinkamo rajono
-(miesto) administracijos, sveikatos apsaugos, policijos, autotransporto ir kitų
-įstaigų pareigūnų. Evakavimo komisijų (grupių) veiklos nuostatus ir komisijų
-sudėtį tvirtina rajono (miesto) meras. 
+rajono (miesto) ekstremalių situacijų valdymo centrų sudarytos gyventojų
+evakavimo komisijos (grupės), joms vadovauja rajono (miesto) savivaldybės mero
+paskirti vadovai. Gyventojų evakavimo komisijos (grupės) sudaromos iš
+atitinkamo rajono (miesto) administracijos, sveikatos apsaugos, policijos,
+autotransporto ir kitų įstaigų pareigūnų. Evakavimo komisijų (grupių) veiklos
+nuostatus ir komisijų sudėtį tvirtina rajono (miesto) meras. 
 3. Gyventojų evakavimo organizavimo
 tvarką nustato Vyriausybė.
 4. Įvykus radiacinei avarijai Ignalinos
@@ -878,9 +879,9 @@ darbuotojai, visų lygių ekstremalių situacijų valdymo centrų pareigūnai,
 Valstybinės priešgaisrinės gelbėjimo tarnybos ir savivaldybių priešgaisrinių
 tarnybų ir jų padalinių vadovai, bendrosios ir specialiosios paskirties
 formuočių vadai, visų ūkio subjektų vadovai ir jų pavaduotojai turi baigti
-Civilinės saugos departamento nustatytos civilinės saugos mokymo programos kursą.
-Šie darbuotojai mokomi ir jų kvalifikacija civilinės saugos srityje keliama
-Civilinės saugos departamento nustatyta tvarka.
+Civilinės saugos departamento nustatytos civilinės saugos mokymo programos
+kursą. Šie darbuotojai mokomi ir jų kvalifikacija civilinės saugos srityje
+keliama Civilinės saugos departamento nustatyta tvarka.
  
 34 straipsnis. Civilinės saugos mokymo
 centras
@@ -891,10 +892,11 @@ jo nuostatus tvirtina krašto apsaugos ministras.
  
 35 straipsnis. Civilinės saugos pratybos
 ir treniruotės
-Valstybės valdymo ir savivaldybių institucijų,
-ūkio subjektų pasirengimui ekstremalioms situacijoms patikrinti bei jų valdymo
-praktiniams įgūdžiams tobulinti Vyriausybės nustatyta tvarka rengiamos ir iš
-valstybės biudžeto finansuojamos civilinės saugos pratybos ir treniruotės.
+Valstybės valdymo ir savivaldybių
+institucijų, ūkio subjektų pasirengimui ekstremalioms situacijoms patikrinti
+bei jų valdymo praktiniams įgūdžiams tobulinti Vyriausybės nustatyta tvarka
+rengiamos ir iš valstybės biudžeto finansuojamos civilinės saugos pratybos ir
+treniruotės.
  
 36 straipsnis. Tarptautinis
 bendradarbiavimas civilinės saugos klausimais
@@ -928,8 +930,8 @@ atsirandančios, kai šalinant ekstremalių įvykių padarinius naudojami šiems
 asmenims nuosavybės teise priklausantys materialiniai ištekliai, kompensuojamos
 Vyriausybės nustatyta tvarka.
  
-39 straipsnis. Civilinės saugos ir
-gelbėjimo sistemos materialinis aprūpinimas
+39 straipsnis. Civilinės saugos ir gelbėjimo
+sistemos materialinis aprūpinimas
 1. Gyventojų apsaugai organizuoti,
 gelbėjimo ir kitiems neatidėliotiniems darbams atlikti ekstremalių įvykių
 atvejais iš anksto sudaromas materialinių priemonių valstybinis rezervas.
@@ -975,7 +977,8 @@ atlyginimas
 žalą aplinkai kalti asmenys atlygina pagal įstatymus.
 2. Stichinių nelaimių metu padaryti
 nuostoliai, gelbėjimo bei padarinių šalinimo išlaidos juridiniams ir fiziniams
-asmenims kompensuojamos bei valstybės parama teikiama Vyriausybės nustatyta tvarka.
+asmenims kompensuojamos bei valstybės parama teikiama Vyriausybės nustatyta
+tvarka.
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
@@ -990,17 +993,31 @@ priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                              VALDAS
 ADAMKUS
  
-________
+_______________
  
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1794, 00.07.04, Žin., 2000,
-Nr.61-1805 (00.07.26)
+Nr. VIII-1794, 2000.07.04, Žin., 2000, Nr.
+61-1805 (2000.07.26)
 CIVILINĖS SAUGOS ĮSTATYMO 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1674,
+2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
+CIVILINĖS
+SAUGOS ĮSTATYMO 11, 23, 24 STRAIPSNIŲ PAKEITIMO IR 26 STRAIPSNIO PRIPAŽINIMO
+NETEKUSIU GALIOS ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.08)
+Redagavo:
+Aušrinė Trapinskienė (2003-08-05)
+                 
+autrap@lrs.lt
