@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2001-07-25 iki 2003-07-09
+Suvestinė redakcija nuo 2003-07-10 iki 2003-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -104,6 +104,29 @@ Nr. IX-450, 2001-07-11, Žin., 2001, Nr. 64-2329 (2001-07-25), i. k. 1011010ISTA
 
 
 11. Savivaldybės investuotojas – investuotojas, su kuriuo savivaldybė šio įstatymo nustatyta tvarka sudaro investicijų sutartį.
+
+
+
+
+12.Plynas laukas – neužstatytas (neįrengtas) žemės sklypas
+Papildyta straipsnio dalimi:
+Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
+ 
+
+
+
+
+13. Investicijos į plyną lauką – investicijų rūšis, kai verslo tikslu investuojama į naujo statinio statybą ir įrengimą  plyname lauke
+Papildyta straipsnio dalimi:
+Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
+ 
+
+
+
+
+14. Inovacija – naujų technologijų, idėjų, metodų kūrimas ir komercinis pritaikymas pateikiant rinkai naujus arba patobulintus produktus ir procesus. 
+Papildyta straipsnio dalimi:
+Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
  
 
 
@@ -403,7 +426,40 @@ VALSTYBINĖ INVESTAVIMO POLITIKA
 
 
 
-2. Valstybė remia investicijas 13 straipsnyje nustatytais būdais valstybės prioritetams, ekologinei situacijai gerinti, perspektyvių pramonės šakų įmonių technologijoms atnaujinti ir modernizuoti, smulkiam ir vidutiniam verslui plėtoti bei svarbiausioms visuomenės socialinėms reikmėms tenkinti.
+2. Valstybė remia investicijas 13 straipsnyje nustatytais būdais, kai: 
+
+
+1) šio įstatymo 13 straipsnio 1 dalies 6 punkte nustatyta minimali kapitalo investicijų suma yra investuojama į priemones perspektyvių pramonės šakų įmonių technologijoms atnaujinti ir modernizuoti, šalies ekologinei situacijai gerinti, smulkiam ir vidutiniam verslui plėtoti;
+
+
+
+
+2) investuojama į plyną lauką;
+
+
+
+
+3) investuojama į nebaigtus statyti pastatus (statinius), kurių negalima užbaigti dėl lėšų stokos ar kurie dėl užsitęsusio statybos proceso tampa nereikalingi (netinkami naudoti pagal paskirtį) valstybės (savivaldybių) institucijoms;
+
+
+
+
+4) investuojama į problemines teritorijas (valstybės teritorijos dalis, kuriose yra specifinių socialinių ir ekonominių problemų, atitinkančių Vyriausybės nustatytus probleminių teritorijų kriterijus);
+
+
+
+
+5) investuojama į laisvąsias ekonomines zonas, mokslo ir technologijų parkus; 
+
+
+
+
+6) investuojama į inovacijas, žinių ekonomikos branduolius – klasterius (geografines tarpusavyje sujungtas tam tikros srities įmonių ir institucijų santalkas). 
+
+
+Straipsnio dalies pakeitimai:
+Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
+ 
 
 
 
@@ -419,35 +475,67 @@ VALSTYBINĖ INVESTAVIMO POLITIKA
 13 straipsnis. Investavimo skatinimas 
 
 
-1. Investuotojams teikiamas mokesčių lengvatas nustato atitinkami mokesčių įstatymai.
+1. Investavimas skatinamas šiais būdais:
+
+
+1) investuotojams teikiamos mokesčių lengvatos, kurias nustato atitinkami mokesčių įstatymai;
 
 
 
 
-2. Dalis palūkanų už paskolas, paimtas investicijoms finansuoti, gali būti apmokama tikslinių valstybės (savivaldybių) fondų lėšomis. Palūkanų apmokėjimo tvarką ir sąlygas nustato šių fondų nuostatai.
+2) darbuotojų perkvalifikavimo išlaidos iš dalies ar visiškai padengiamos Lietuvos Respublikos Vyriausybės nustatyta tvarka;
 
 
 
 
-3. Lietuvos ir užsienio kreditoriams, suteikusiems paskolas investicijų projektams įgyvendinti, gali būti teikiamos valstybės (savivaldybių) garantijos Lietuvos Respublikos įstatymų nustatyta tvarka.
+3) Lietuvos ir užsienio kreditoriams, suteikusiems paskolas investicijų projektams įgyvendinti, teikiamos valstybės (savivaldybių) garantijos Lietuvos Respublikos įstatymų nustatyta tvarka;
 
 
 
 
-4. Paskolos, skirtos investicijų projektams įgyvendinti, Lietuvos Respublikos Vyriausybės nustatyta tvarka gali būti apdraustos valstybės lėšomis. 
+4) paskolų, skirtų ūkio subjektams investicijų projektams įgyvendinti,  grąžinimą bankams gali užtikrinti Vyriausybės įsteigtų garantijų institucijų arba draudimo įmonių teikiamos garantijos arba šių paskolų draudimas;
 
 
 
 
-5. Dėl ne mažesnių kaip 200 mln. litų ir atitinkančių Lietuvos Respublikos Vyriausybės nustatytus kriterijus investicijų Vyriausybė ar jos įgaliota institucija turi teisę sudaryti su strateginiais investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos. Verslo apmokestinimo sąlygos tokiose investicijų sutartyse nustatomos Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka. 
+5) dėl ne mažesnių kaip 200 mln. litų ir atitinkančių Lietuvos Respublikos Vyriausybės nustatytus kriterijus investicijų Vyriausybės ar jos įgaliotos institucijos iki 2001 m. rugsėjo 1 d. sudarytos su strateginiais investuotojais investicijų sutartys vykdomos pagal jose nustatytas specialias investavimo ir verslo sąlygas;
 
 
 
 
-6. Investicijoms į savivaldybės infrastruktūrą, gamybos ar paslaugų sritį savivaldybė turi teisę sudaryti investicijų sutartis, atitinkančias savivaldybės tarybos nustatytus kriterijus. Specialios investavimo, verslo ar sklypo parinkimo sąlygos tokiose sutartyse nustatomos pagal savivaldybės kompetenciją.
+6) dėl ne mažesnių kaip 20 mln. litų, o rajonuose, kur nedarbo lygis didesnis už šalies vidurkį, oficialiai skelbiamą Statistikos departamento prie Lietuvos Respublikos Vyriausybės, dėl ne mažesnių kaip 5 mln. litų kapitalo investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos;
+
+
+
+
+7) investicijoms į savivaldybės infrastruktūrą, gamybos ar paslaugų sritį savivaldybė sudaro investicijų sutartis, atitinkančias savivaldybės tarybos nustatytus kriterijus. Specialios investavimo, verslo ar sklypo parinkimo sąlygos tokiose sutartyse nustatomos pagal savivaldybės kompetenciją;
+
+
+
+
+8) Lietuvos Respublikos įstatymų nustatytais atvejais valstybinė žemė investuotojui išnuomojama ne aukciono būdu;
+
+
+
+
+9) infrastruktūra (iki investuotojui suteikto sklypo ribų) sutvarkoma valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės nustatyta tvarka;
+
+
+
+
+10) investuojant į valstybės ir savivaldybių nebaigtus statyti statinius ar apleistus ir nenaudojamus pastatus, kurių nepavyko privatizuoti pagal Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymą, kai bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą terminą šis objektas nebuvo privatizuotas, Lietuvos Respublikos Vyriausybė arba savivaldybė tokį turtą parduoda (perduoda) Vyriausybės arba savivaldybės tarybos nustatyta tvarka.
+
+
+
+
+
+
+2. Investavimo skatinimo būdai taikomi tiek, kiek tai neprieštarauja Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės įstatymo nuostatoms. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
  
-
-
 
 
 
@@ -538,3 +626,8 @@ Lietuvos Respublikos investicijų įstatymo 14 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-450, 2001-07-11, Žin., 2001, Nr. 64-2329 (2001-07-25), i. k. 1011010ISTA00IX-450
 Lietuvos Respublikos investicijų įstatymo 2, 3 ir 10 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
+Lietuvos Respublikos investicijų įstatymo 2, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
