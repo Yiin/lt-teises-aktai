@@ -59,9 +59,9 @@ Respublikoje, pelno nesiekiančių ribotos civilinės atsakomybės juridinių as
 buhalterinės apskaitos tvarką nustato Vyriausybė arba jos įgaliota institucija
 tiek, kiek šis Įstatymas nenustato kitaip.
 3. Lietuvos banko, kitų kredito įstaigų, finansų
-maklerio įmonių, investicinių bendrovių, pensijų fondų, jų valdymo įmonių
-buhalterinės apskaitos tvarkymą ir organizavimą nustato šis Įstatymas, jeigu
-kiti Lietuvos Respublikos įstatymai nenumato kitaip.
+maklerio įmonių, investicinių kintamojo kapitalo bendrovių, pensijų fondų, jų
+valdymo įmonių buhalterinės apskaitos tvarkymą ir organizavimą nustato šis
+Įstatymas, jei kiti Lietuvos Respublikos įstatymai nenumato kitaip.
 Straipsnio
 pakeitimai:
 Nr.
@@ -69,6 +69,9 @@ IX-1159,
 2002-10-29, Žin., 2002, Nr. 112-4967 (2002-11-22)
 Nr. IX-1263,
 2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
+Nr.
+IX-1712,
+2003-07-04, Žin., 2003, Nr. 74-3427 (2003-07-25)
  
 2 straipsnis. Pagrindinės Įstatymo
 sąvokos
@@ -105,10 +108,10 @@ ir ūkinių įvykių, už kuriuos ūkio subjektas privalės ateityje atsiskaityt
 turtu ir kurių dydį galima objektyviai nustatyti.
 9. Nuosavas kapitalas – ūkio subjekto turto
 dalis, likusi iš viso turto atėmus visus įsipareigojimus. 
-10. Pajamos – ūkio subjekto ekonominės naudos padidėjimas per ataskaitinį
-laikotarpį, t. y. ūkio subjekto turto padidėjimas arba įsipareigojimų
-sumažėjimas, kai dėl to padidėja nuosavas kapitalas, išskyrus papildomus
-savininkų įnašus.
+10. Pajamos – ūkio subjekto ekonominės naudos padidėjimas per
+ataskaitinį laikotarpį, t. y. ūkio subjekto turto padidėjimas arba
+įsipareigojimų sumažėjimas, kai dėl to padidėja nuosavas kapitalas, išskyrus
+papildomus savininkų įnašus.
 11. Paprastasis įrašas – ūkinių operacijų ir
 ūkinių įvykių registravimo būdas, kai nedaromas dvejybinis įrašas.
 12. Pinigų apskaitos dokumentas – popierinis
@@ -116,12 +119,12 @@ liudijimas, kuriame nurodomos grynųjų pinigų mokėjimo ar jų pervedimo
 operacijos, kai įvykdomas vieno ūkio subjekto įsipareigojimas kitam ūkio
 subjektui.
 13. Sąnaudos – ūkio subjekto ekonominės naudos sumažėjimas dėl turto
-sunaudojimo, turto pardavimo, turto netekimo, turto vertės sumažėjimo bei
-įsipareigojimų prisiėmimo per ataskaitinį laikotarpį, kai dėl to sumažėja
-nuosavas kapitalas, išskyrus tiesioginį jo mažinimą. 
+sunaudojimo, turto pardavimo, turto netekimo, turto vertės sumažėjimo bei įsipareigojimų
+prisiėmimo per ataskaitinį laikotarpį, kai dėl to sumažėja nuosavas kapitalas,
+išskyrus tiesioginį jo mažinimą. 
 14. Sąskaitų planas – sąskaitų, kuriose sukaupiama
-informacija, atspindinti ūkio subjekto turtą, nuosavą kapitalą,
-įsipareigojimus, pajamas ir sąnaudas, sąrašas.
+informacija, atspindinti ūkio subjekto turtą, nuosavą kapitalą, įsipareigojimus,
+pajamas ir sąnaudas, sąrašas.
 15. Supaprastinta apskaita – apskaita, tvarkoma
 darant paprastąjį įrašą.
 16. Tarptautiniai
@@ -178,13 +181,13 @@ patvirtina Finansų ministerija.
 ministerija ir kiti ribotos ir neribotos civilinės atsakomybės juridiniai
 asmenys. Visuotiniame dalininkų susirinkime 50 procentų balsų priklauso Finansų
 ministerijai ir 50 procentų balsų – kitiems dalininkams. Jais gali būti audito
-ir apskaitos įmonės, auditorių, buhalterių, pramoninkų ir verslininkų
-profesinės bei savivaldos organizacijos.
+ir apskaitos įmonės, auditorių, buhalterių, pramoninkų ir verslininkų profesinės
+bei savivaldos organizacijos.
  
 4 straipsnis. Reikalavimai apskaitos
 informacijai
-Ūkio subjektai apskaitą tvarko taip, kad apskaitos informacija
-būtų:
+Ūkio subjektai apskaitą tvarko taip, kad apskaitos
+informacija būtų:
 1) tinkama, objektyvi ir palyginama;
 2) pateikiama laiku;
 3) išsami ir naudinga vidaus ir išorės informacijos
@@ -223,8 +226,8 @@ ir apskaitos registrai sudaromi lietuvių kalba, o prireikus – ir lietuvių, i
 užsienio kalba. Gauti dokumentai, kurie surašyti užsienio kalba, prireikus turi
 būti išversti į lietuvių kalbą.
 Straipsnio pakeitimai:
-Nr. IX-1263, 2002-12-10,
-Žin., 2002, Nr. 123-5548 (2002-12-24)
+Nr. IX-1263,
+2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
  
 7 straipsnis. Sąskaitų planas
 1. Pavyzdinį sąskaitų planą parengia ir „Valstybės
@@ -284,8 +287,8 @@ buhalterio (buhalterio) ir apskaitos paslaugas teikiančios
 Vyriausiasis buhalteris (buhalteris) ir apskaitos paslaugas teikianti
 įmonė atsako už buhalterinių įrašų teisingumą ir finansinės atskaitomybės
 pateikimą laiku. 
-2. Vyriausiojo
-buhalterio (buhalterio) atsakomybę nustato Lietuvos Respublikos teisės
+2.
+Vyriausiojo buhalterio (buhalterio) atsakomybę nustato Lietuvos Respublikos teisės
 aktai.
 3. Apskaitos
 paslaugas teikiančios įmonės atsakomybė nustatoma rašytinėje sutartyje,
@@ -313,8 +316,8 @@ telekomunikacijų įranga, praėjusio laikotarpio, kuris negali būti ilgesnis n
 vienas mėnuo, apskaitos dokumentai išrašomi ir pateikiami (išsiunčiami)
 paslaugos gavėjui ne vėliau kaip iki kito mėnesio 10 dienos. Ūkine veikla
 nesiverčiantiems fiziniams asmenims Vyriausybės nustatyta tvarka gali būti
-išrašomi ir pateikiami (išsiunčiami) ne ilgesnio kaip du mėnesiai laikotarpio nuolatinių
-ir ilgalaikių paslaugų teikimo apskaitos dokumentai.
+išrašomi ir pateikiami (išsiunčiami) ne ilgesnio kaip du mėnesiai laikotarpio
+nuolatinių ir ilgalaikių paslaugų teikimo apskaitos dokumentai.
 4. Apskaitos
 registruose ūkinių operacijų ir ūkinių įvykių duomenys užregistruojami ne
 vėliau kaip iki kito mėnesio 30 dienos.
@@ -362,11 +365,11 @@ kodas;
 paslaugų vertė pinigais ir (arba) jų kiekis atitinkamais mato vienetais.
 5. Šio straipsnio 1 dalies 1 ir 6 punktuose nustatyti
 apskaitos dokumentų rekvizitai kasos aparato kvitui neprivalomi.
-6. Degalų (variklių
-benzino, dyzelinių degalų ir suskystintų dujų, skirtų naudoti kaip degalai)
-pirkėjams, kai jie pagal pirkimo–pardavimo sutartis atsiskaito ne banko
-kortele, išrašytuose apskaitos dokumentuose turi būti nurodyti šie privalomi
-rekvizitai:
+6. Degalų
+(variklių benzino, dyzelinių degalų ir suskystintų dujų, skirtų naudoti kaip
+degalai) pirkėjams, kai jie pagal pirkimo–pardavimo sutartis atsiskaito ne
+banko kortele, išrašytuose apskaitos dokumentuose turi būti nurodyti šie
+privalomi rekvizitai:
 1) apskaitos dokumento pavadinimas;
 2) ūkio subjekto, surašiusio apskaitos dokumentą,
 pavadinimas, kodas;
@@ -396,14 +399,13 @@ IX-1668,
 teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus, sąrašą
 ir jų parašų pavyzdžius. Apskaitos dokumentai pasirašomi asmeniškai arba
 Elektroninio parašo įstatymo nustatyta tvarka. Kai pagal sutartį apskaitą
-tvarko apskaitos paslaugas teikianti įmonė, dokumentų pasirašymo tvarka
-nustatoma sutartyje, sudarytoje su užsakovu.
+tvarko apskaitos paslaugas teikianti įmonė, dokumentų pasirašymo tvarka nustatoma
+sutartyje, sudarytoje su užsakovu.
 2. Už apskaitos dokumentų surašymą laiku ir teisingai,
 už juose esančių duomenų tikrumą ir ūkinių operacijų teisėtumą atsako apskaitos
 dokumentus surašę ir pasirašę asmenys.
  
-15 straipsnis. Patikslinamieji apskaitos
-dokumentai
+15 straipsnis. Patikslinamieji apskaitos dokumentai
 1. Kai prekės
 nukainojamos, parduodamos su nuolaida, kai suteikiamos apyvartos nuolaidos,
 taip pat kai taisomos apskaitos dokumentų, kuriais įforminamos
@@ -521,8 +523,8 @@ reikalavimus atsako ūkio subjekto vadovas.
 nustatyta tvarka atsako ūkio subjekto vadovas.
  
 22 straipsnis. Komercinė paslaptis
-Apskaitos informacija, kuri
-nenurodoma finansinėje atskaitomybėje, neskelbiama.
+Apskaitos informacija, kuri nenurodoma
+finansinėje atskaitomybėje, neskelbiama.
  
 ŠEŠTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
@@ -630,8 +632,8 @@ BUHALTERINĖS APSKAITOS ĮSTATYMO 1, 6, 10 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMA
 4.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-1619,
-2003-06-10, Žin., 2003, Nr. 61-2771 (2003-06-27)
+Nr. IX-1619, 2003-06-10,
+Žin., 2003, Nr. 61-2771 (2003-06-27)
 BUHALTERINĖS APSKAITOS ĮSTATYMO
 10 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis Įstatymas
@@ -645,7 +647,17 @@ Nr. IX-1668,
 BUHALTERINĖS APSKAITOS ĮSTATYMO
 2, 10, 12, 13, 18 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1712,
+2003-07-04, Žin., 2003, Nr. 74-3427 (2003-07-25)
+BUHALTERINĖS
+APSKAITOS ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
 Redagavo:
