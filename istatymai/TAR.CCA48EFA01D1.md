@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CCA48EFA01D1"
 
 # Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo
 
-Suvestinė redakcija nuo 1994-12-30 iki 1995-04-06
+Suvestinė redakcija nuo 1995-04-07 iki 2000-06-27
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 50-932, i. k. 0941010ISTA000I-497
  
@@ -211,7 +211,10 @@ Alytaus rajono apylinkės teismo veiklos teritorija apima Alytaus miestą;
 
 
 
-Ignalinos rajono apylinkės teismo veiklos teritorija apima Visagino miestą;
+7. Neteko galios nuo 1995-04-07
+Straipsnio dalies naikinimas:
+Nr. I-831, 1995-03-28, Žin. 1995, Nr. 30-681 (1995-04-07), i. k. 0951010ISTA000I-831
+ 
 
 
 
@@ -269,3 +272,8 @@ Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietu
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 1994-12-22, Žin., 1994, Nr. 101-2045 (1994-12-30), i. k. 0941000NUTARG940424                
 Dėl Lietuvos Respublikos 1994 m. birželio 15 d. įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 2 straipsnio ir šio įstatymo priėmimo tvarkos atitikimo Lietuvos Respublikos Konstitucijai
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-831, 1995-03-28, Žin., 1995, Nr. 30-681 (1995-04-07), i. k. 0951010ISTA000I-831
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" pakeitimo
