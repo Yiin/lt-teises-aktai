@@ -34,51 +34,131 @@ farmacinę veiklą Lietuvos Respublikoje.
 I skyrius.
 Pagrindinės sąvokos
  
-            1 straipsnis.
-            Šiame įstatyme:
-            farmacija - tai mokslinės ir
-praktinės sveikatos apsaugos sritis, apimanti vaistų bei vaistinių medžiagų
-gavybą, gaminimą, tiekimą, kokybės kontrolę, laikymą, informaciją apie vaistus
-ir vaistų pardavimą gyventojams vaistinėse;
-            farmacinė veikla - tai
-sveikatinimo veiklos dalis, kuriai priskiriama:
-            1) vaistų ir vaistinių
-medžiagų kūrimas, tyrimas ir gamyba;
-            2) vaistų, vaistinių
-medžiagų tiekimas, laikymas turint tikslą parduoti, pardavimas;
-            3) vaistų ir vaistinių
-medžiagų kokybės kontrolė;
-            4) teismo cheminė vaistų
-ekspertizė ir biofarmacinė analizė;
-            5) farmacinė ekspertizė
-registruojant vaistus;
-            6) farmacinės informacijos
-apie vaistus kaupimas, analizė ir teikimas;
-            vaistinės medžiagos - tai
-medžiagos, kurios veikia žmogaus ar gyvūno organizme vykstančius procesus ir
-įvairia vaistine forma yra vartojamos žmogaus ar gyvūnų gydymui, ligų
-diagnostikai, profilaktikai arba fiziologinėms funkcijoms paveikti;
-            vaistai - vartoti paruoštos
-vaistinės medžiagos;
-            vaisto kokybė - vaisto
-savybių visuma, apibūdinama tapatybe, grynumu, sudėtimi, kitomis cheminėmis,
-fizinėmis ir biologinėmis savybėmis, vaisto gamybos technologija;
-            vaistinė - farmacinei
-veiklai licencijuota įmonė arba farmacinei veiklai akredituotas stacionarinės
-sveikatos priežiūros įstaigos padalinys, kuriame laikomi, gaminami,
-kontroliuojami ir parduodami vaistai bei kiti medicininės paskirties gaminiai
-gyventojams, sveikatos priežiūros ir kitoms įstaigoms bei įmonėms;
-            farmakopėja - galiojančių
-valstybinių standartų, apibrėžiančių vaistinių medžiagų kokybę, gamybą,
-kokybinę bei kiekybinę kontrolę, laikymo sąlygas bei pavadinimus, rinkinys;
-            valstybinis vaistų registras
-- vaistų ir vaistinių medžiagų, kurios leidžiamos vartoti medicinos ir
-veterinarijos reikmėms Lietuvos Respublikoje, galiojantis sąrašas.
+1
+straipsnis.
+Būtinieji vaistai
+– vaistai, reikalingi būtinajai medicinos pagalbai užtikrinti ir įrašyti į
+Būtinųjų vaistų sąrašą.
+Farmacijos specialistai
+– vaistininkai, farmakotechnikai ir kiti farmacijos studijas baigę asmenys,
+kurių įgyta profesinė kvalifikacija Vyriausybės nustatyta tvarka prilyginama
+vaistininko ar farmakotechniko profesinei kvalifikacijai.
+Farmacinė praktika
+- farmacijos
+specialisto atliekama farmacinė veikla.
+Farmacinė veikla –
+juridinių ir fizinių asmenų sveikatinimo ir kitos veiklos sritis, apimanti ir
+veterinarijos reikmes, kuriai priskiriama: 
+1) vaistų ir
+vaistinių medžiagų gamyba;
+2) vaistų ir
+vaistinių medžiagų kokybės kontrolė, išskyrus mokslinius tyrimus;
+3) vaistų ir
+vaistinių medžiagų didmeninis platinimas;
+4) vaistų ir
+vaistinių medžiagų įsigijimas gaminti ar parduoti;
+5)
+vaistų ir vaistinių medžiagų laikymas (sandėliavimas) turint tikslą parduoti ir
+pardavimas (išdavimas) galutiniam vartotojui;
+6) farmacinių
+atliekų tvarkymas, išskyrus jų šalinimą;
+7) informacijos
+apie vaistus ir vaistines medžiagas teikimas.
+Farmacinės atliekos
+– naikintini vaistai ir vaistų analizei panaudotos, netinkamos kokybės cheminės
+medžiagos ar medžiagos, kurių vartojimo laikas yra pasibaigęs.
+Farmakopėja
+– rinkinys galiojančių valstybinių standartų, nustatančių vaistų ir vaistinių
+medžiagų analizės metodus, reagentus, vaistų formų bendruosius straipsnius,
+vaistinių medžiagų tapatybę, grynumą, kokybės kontrolę, laikymo sąlygas bei
+pavadinimus.
+Farmakotechnikas – asmuo,
+įgijęs farmakotechniko profesinę kvalifikaciją.
+Informacija apie vaistus – bet kokia
+forma ir bet kokiomis priemonėmis skelbiama informacija apie vaistų sudėtį, jų
+farmakochemines, farmakoterapines, farmakologines savybes, vartojimo būdą,
+sąveiką su kitais vaistais, šalutinį poveikį, atsargumo priemones, laikymo
+sąlygas, tinkamumo vartoti laiką, farmacinių atliekų tvarkymo galimybes, taip
+pat vaistų kainas ir asortimentą farmacijos įmonėse, veterinarinių vaistų
+karencijos periodą.
+Kompensuojamieji vaistai –
+vaistai, kurių įsigijimo išlaidos ar jų dalis privalomuoju sveikatos draudimu
+apdraustiems asmenims yra kompensuojamos iš Privalomojo sveikatos draudimo
+fondo biudžeto lėšų ir kurie įrašyti į Kompensuojamųjų vaistų bazinių kainų
+kainyną.
+Medicininės
+paskirties gaminiai –
+gaminių grupė, kurią sudaro specialios medicininės paskirties gaminiai,
+specialios paskirties maisto produktai ir medicinos prietaisai bei priemonės. 
+Naikintini vaistai –
+vaistai, kurių tinkamumo vartoti laikas yra pasibaigęs, kurie yra netinkamos
+kokybės, konfiskuoti arba surinkti iš gyventojų.
+Neparduodamas vaisto
+pavyzdys – nemokamas
+vaisto pavyzdys, skirtas atiduoti gydytojui, turinčiam teisę išrašyti vaistus,
+kad jis susipažintų su vaistu; neskirtinas vartoti.
+Receptinis vaistas – vaistas, kuris išduodamas tik
+pagal gydytojo receptą.
+Vaistas (vaistinis
+preparatas) - vaistinė
+medžiaga arba jų derinys, paruošti žmonių gydymui ar ligų profilaktikai.
+Vaistams taip pat priskiriamos vaistinės medžiagos arba jų deriniai, kurie gali
+būti vartojami ligų diagnostikai in vivo arba fiziologinėms funkcijoms
+grąžinti, koreguoti arba modifikuoti.
+Vaistinė – juridinis
+asmuo ar šio įstatymo nustatytų juridinių asmenų padalinys, turintis teisę
+verstis vaistų ir vaistinių medžiagų įsigijimu, laikymu, vaistų ir vaistinių
+medžiagų gamyba, vaistų bei vaistinių medžiagų kokybės kontrole, pardavimu
+(išdavimu) galutiniam vartotojui. Šiame įstatyme sąvoka „vaistinė“ neapima
+veterinarijos vaistinių.
+Vaistinės asortimento
+prekės – prekės, kuriomis Vyriausybės įgaliotų institucijų nustatyta
+tvarka leidžiama prekiauti vaistinėse. Į šią sąvoką vaistai neįeina.
+Vaistinės medžiagos
+– medžiagos, kurios veikia žmogaus ar gyvūnų organizme vykstančius procesus ir
+įvairia vaisto forma vartojamos žmonių ar gyvūnų gydymui, ligų profilaktikai,
+diagnostikai in vivo ar fiziologinėms funkcijoms grąžinti,
+koreguoti arba modifikuoti.
+Vaistininkas – asmuo, įgijęs vaistininko
+profesinę kvalifikaciją ir farmacijos magistro kvalifikacinį laipsnį.
+Vaisto
+kokybės kontrolė – vaisto farmacinių (fizinių-cheminių,
+biologinių, mikrobiologinių) savybių, įskaitant vaisto tapatybę, grynumą,
+sudėtį, analizė ir tyrimas bei vaisto gamybos technologijos kontrolė.
+Vaistų didmeninis
+platinimas – farmacinė veikla, kurią sudaro vaistų ir vaistinių medžiagų
+įsigijimas ir (ar) importas, laikymas (sandėliavimas), pardavimas juridiniams
+asmenims, turintiems teisę verstis farmacine veikla, ir(ar) eksportas.
+Vaistų gamyba – visos
+operacijos, atliekamos vaistui pagaminti (medžiagų priėmimas, jų apdorojimas,
+pakavimas). Farmacijos pramonės įmonėse vaistų gamyba apima ir visas medžiagų
+bei produktų įsigijimo operacijas, jų kokybės kontrolę, sandėliavimą, platinimą
+ir reikiamus patikrinimus.
+Valstybinis
+vaistų registras – vaistų ir vaistinių medžiagų, specialios
+medicininės paskirties gaminių, kuriuos leidžiama vartoti sveikatos priežiūros
+reikmėms Lietuvos Respublikoje, sąrašas. 
+Valstybinis
+veterinarinių vaistų registras – veterinarinių
+vaistų ir vaistinių medžiagų, specialios veterinarinės paskirties gaminių,
+kuriuos leidžiama naudoti veterinarijos reikmėms Lietuvos Respublikoje,
+sąrašas.
+Veterinarijos vaistinė –
+juridinis asmuo, turintis teisę verstis veterinarinių vaistų ir vaistinių
+medžiagų įsigijimu, laikymu, pardavimu (išdavimu), jų gamyba bei kokybės
+kontrole.
+Veterinariniai vaistai
+– medžiaga ar medžiagų derinys, kuris pateikiamas gyvūnų gydymui ar ligų
+profilaktikai. Veterinariniu vaistu taip pat laikomos visos medžiagos ar jų
+deriniai, kurie gali būti naudojami gyvūnams, siekiant nustatyti diagnozę ar
+grąžinti, koreguoti ar modifikuoti gyvūnų fiziologines funkcijas.
 Straipsnio
 pakeitimai:
 Nr.
 I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
  
  
 II skyrius.
@@ -99,20 +179,34 @@ Respublikos sveikatos apsaugos ministerija.
 III skyrius.
 Valstybinė vaistų registracija 
  
-            4 straipsnis.
-            Vaistai ir vaistinės
-medžiagos, vartojami medicinos ir veterinarijos reikmėms Lietuvos Respublikoje,
-privalo būti įregistruoti Valstybiniame vaistų registre.
+4
+straipsnis.
+Vaistai,
+vartojami sveikatos priežiūros reikmėms Lietuvos Respublikoje, privalo būti
+įregistruoti valstybiniame vaistų registre, veterinariniai vaistai, vartojami
+veterinarijos reikmėms Lietuvos Respublikoje – valstybiniame veterinarinių
+vaistų registre. Šiuos registrus steigia Vyriausybė ir tvarko jos įgaliotos
+institucijos.
+Naikintini
+vaistai ir naikintini veterinariniai vaistai negali būti naudojami sveikatos
+priežiūros ir veterinarijos reikmėms.
+Straipsnio
+pakeitimai:
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
  
-            5 straipsnis.
-            Vaistai ir vaistinės
-medžiagos Lietuvos Respublikoje registruojami Valstybinės vaistų kontrolės
-tarnybos prie Sveikatos apsaugos ministerijos nustatyta tvarka.
+5
+straipsnis.
+Vaistai
+ir vaistinės medžiagos Lietuvos Respublikoje registruojami Vyriausybės ar jos
+įgaliotų institucijų nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
 I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
  
             6 straipsnis.
             Už vaistų ir vaistinių
@@ -130,7 +224,6 @@ pakeitimai:
 Nr.
 I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
- 
  
             8 straipsnis.
             Sveikatos apsaugos
@@ -153,11 +246,42 @@ Respublikoje, jei paaiškėja ir nustatoma, kad tas vaistas žalingai veikia
 IV skyrius.
 Farmacinės veiklos teisinės sąlygos 
  
-            10 straipsnis.
-            Lietuvos Respublikoje
-įmonės, sveikatos priežiūros įstaigų padaliniai ir fiziniai asmenys gali
-užsiimti farmacine veikla tik turėdami Sveikatos apsaugos ministerijos leidimą
-(licenciją).
+10 straipsnis.   
+Vaistininko
+profesinė kvalifikacija ir farmacijos magistro kvalifikacinis laipsnis
+suteikiamas asmenims, aukštojoje mokykloje baigusiems universitetines
+farmacijos studijų krypties ne trumpesnes kaip 5 metų – 200 kreditų)
+vientisąsias studijas, kurių didžiąją dalį (ne mažiau kaip 4 metus (160
+kreditų) sudaro teorinės ir praktinės studijos aukštosios mokyklos dieniniame
+skyriuje ir ne trumpesnė kaip 6 mėnesių farmacinės veiklos praktika vaistinėje,
+išskyrus labdaros vaistinę.
+Farmakotechniko
+profesinė kvalifikacija suteikiama asmenims, aukštojoje mokykloje baigusiems
+neuniversitetines studijas pagal farmakotechniko studijų programą.
+Farmakotechniko mokymosi trukmė, įskaitant mokymąsi bendrojo lavinimo mokykloje
+ir aukštojo mokslo įstaigoje, rengiančioje farmacijos specialistus, turi būti
+ne mažesnė kaip 13 metų.
+Lietuvos Respublikoje galioja
+Lietuvos Respublikos aukštesniųjų ir aukštųjų mokyklų išduoti farmacijos
+studijų diplomai bei Vyriausybės įgaliotos institucijos nustatyta tvarka
+pripažinti kitose valstybėse išduoti farmacijos studijų diplomai, sertifikatai
+ir oficialūs kvalifikacijos pažymėjimai apie įgytą farmacinį išsilavinimą,
+jeigu jie atitinka Europos Sąjungoje galiojančius minimalius farmacijos studijų
+programų vaistininkams reikalavimus.
+Užsienio
+valstybėse įgytą farmacijos specialisto profesinę kvalifikaciją (pasirengimą
+bei patirtį) Vyriausybės nustatyta tvarka vertina ir pripažįsta Sveikatos
+apsaugos ministerija.
+Vaistininkai ir
+farmakotechnikai turi teisę verstis savarankiška farmacine praktika tik
+turėdami Vyriausybės
+įgaliotos institucijos nustatyta tvarka išduotą licenciją fiziniams asmenims
+verstis farmacine praktika.
+Farmacijos specialistas, neturintis licencijos, turi teisę verstis farmacine
+praktika tik kito farmacijos specialisto, turinčio licenciją, priežiūroje.
+Farmacijos
+specialistams išduodamų licencijų fiziniams asmenims verstis farmacine
+praktika rūšis nustato Vyriausybės įgaliota institucija.
 Straipsnio
 pakeitimai:
 Nr.
@@ -165,25 +289,49 @@ I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
 Nr. VIII-258,
 97.06.12, Žin., 1997, Nr.58-1332 (97.06.20)
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
  
-            11 straipsnis.
-            Leidimas (licenzija)
-užsiimti farmacine veikla vaistinėse gali būti išduodamas tik tiems fiziniams
-asmenims, kurie turi aukštąjį ir specialųjį vidurinį farmacinį išsilavinimą ir
-jų kvalifikacija atitinka Sveikatos apsaugos ministerijos patvirtintus
-reikalavimus.
-            *Vaistinės, išskyrus valstybines,
-valstybines akcines ir labdaros organizacijų vaistines, gali priklausyti
-nuosavybės teise tik turintiems aukštąjį farmacinį išsilavinimą fiziniams
-asmenims arba fizinių asmenų grupėms, kuriose daugiau kaip pusė vaistinės
-(vaistinės dalies) įstatinio kapitalo priklauso asmenims, turintiems aukštąjį
-ar specialųjį vidurinį farmacinį išsilavinimą.
-*Pastaba. Pripažinti, kad
-Lietuvos Respublikos farmacinės veiklos įstatymo 11 straipsnio 2 dalis ta
-apimtimi, kuria ribojama fizinių asmenų, neturinčių aukštojo farmacinio
-išsilavinimo, taip pat fizinių asmenų grupių teisė turėti nuosavybės teise vaistinių,
-prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims, 46
-straipsnio 1 daliai ir 48 straipsnio 1 daliai.
+10(1)
+straipsnis. 
+Juridiniai
+asmenys šio straipsnio 2 dalyje nurodyta farmacine veikla gali verstis tik gavę
+Vyriausybės įgaliotos institucijos išduotą licenciją juridiniams asmenims
+verstis farmacine veikla. Farmacinės veiklos licencijavimo taisykles tvirtina
+Vyriausybė. 
+Licencijuojamos
+farmacinės veiklos rūšys (farmacinės veiklos licencijų rūšys):
+1) vaistų gamyba
+vaistinėse, kokybės kontrolė, vaistų ir vaistinių medžiagų įsigijimas, laikymas
+(sandėliavimas) ir pardavimas (išdavimas) fiziniams asmenims bei juridiniams
+asmenims, neturintiems teisės verstis farmacine veikla;
+2) pramoninė
+vaistų ir vaistinių medžiagų gamyba, įsigijimas, laikymas (sandėliavimas),
+kokybės kontrolė, pagamintų preparatų pardavimas juridiniams asmenims,
+turintiems teisę verstis farmacine veikla;
+3) vaistų ir
+vaistinių medžiagų kokybės kontrolė;
+4) vaistų ir
+vaistinių medžiagų įsigijimas, laikymas (sandėliavimas), kokybės kontrolė ir
+pardavimas (išdavimas) fiziniams asmenims bei juridiniams asmenims,
+neturintiems teisės verstis farmacine veikla;
+5) farmacinių
+atliekų tvarkymas, išskyrus jų šalinimą;
+6) vaistų ir
+vaistinių medžiagų didmeninis platinimas, kokybės kontrolė.
+Įstatymas
+papildytas straipsniu:
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
+ 
+11 straipsnis. 
+Verstis farmacine praktika ir eiti farmacijos specialistų pareigas gali
+tik farmacijos specialistai.
+Įmonės,
+kuri verčiasi vaistinės veikla, ir jos filialų, kurie verčiasi vaistinės
+veikla, administracijos vadovai turi būti licencijuoti vaistininkai. Jeigu
+įmonėje, kuri verčiasi vaistinės veikla, sudaroma valdyba, trys ketvirtadaliai
+valdybos narių turi būti vaistininkai.
 Straipsnio
 pakeitimai:
 Nr.
@@ -191,6 +339,8 @@ I-205,
 93.07.08, Žin., 1993, Nr.29-666 (93.07.16)
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2002-03-14, Žin., 2002, Nr. 28-1003 (2002-03-16)
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
  
             12 straipsnis.
             Vaistinę padalinio teisėmis
@@ -230,20 +380,22 @@ I-1442,
 Nr. VIII-258,
 97.06.12, Žin., 1997, Nr.58-1332 (97.06.20)
  
-            15 straipsnis.
-            Būtino asortimento vaistų
-sąraše esančių vaistų kainas tvirtina ir nustato jas vienodas visoje
-Respublikoje Lietuvos Respublikos Vyriausybės įgaliotos valstybinės
-institucijos.
-            Vaistų, kurie neįrašyti į
-būtino asortimento vaistų sąrašą, vaistinių medžiagų ir vaistinės prekių kainas
-bei vaistų gamybos vaistinėse įkainius reguliuoja Lietuvos Respublikos
-Vyriausybės įgaliotos valstybinės institucijos. 
+15 straipsnis.
+Vaistų ir vaistinės asortimento
+prekių kainų reguliavimo pagrindus ir tvarką nustato Vyriausybė ar jos įgaliota
+institucija.
+Kompensuojamųjų
+vaistų pardavimo vaistinėse didžiausias kainas ir kompensuojamųjų vaistinės
+asortimento prekių pardavimo vaistinėse didžiausias kainas nustato ir tvirtina
+Vyriausybė ar jos įgaliota institucija. Šios kainos tikslinamos ir skelbiamos
+ne rečiau kaip vieną kartą per metus.
 Straipsnio
 pakeitimai: 
 Nr.
 I-205,
 93.07.08, Žin., 1993, Nr.29-666 (93.07.16)
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
  
             16 straipsnis.
             Gaminant vaistus, gali būti
@@ -256,21 +408,100 @@ Nr.
 I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24) 
  
-            17 straipsnis.
-            Informaciją apie vaistų ir
-vaistinių medžiagų vartojimą gydymo tikslams gali teikti (platinti) tik įmonės
-ir fiziniai asmenys, turintys teisę užsiimti medicinine, farmacine ar
-veterinarine veikla.
+17 straipsnis. 
+Lietuvos
+Respublikoje gali būti reklamuojami tik į valstybinį vaistų registrą įrašyti
+vaistai.
+Vaistų
+reklama turi būti neklaidinanti ir objektyvi, informacija ir joje vartojami
+terminai turi atitikti valstybinį vaistų registravimą vykdančių institucijų
+patvirtintą vaisto charakteristikų santrauką, objektyviai apibūdinti vaisto
+savybes ir skatinti jo racionalų vartojimą. 
+Valstybės
+valdymo ir kontrolės bei savivaldybių institucijoms draudžiama reklamuoti
+vaistus. 
+Draudžiama
+receptinius vaistus reklamuoti ir pateikti apie juos informaciją per radiją ir
+televiziją. Šiuos vaistus taip pat draudžiama reklamuoti elektroninėmis
+informacijos priemonėmis.
+Sveikatos priežiūros, farmacijos ir veterinarijos
+specialistams skirtoje reklamoje leidžiama reklamuoti receptinius ir
+nereceptinius vaistus. Receptinius vaistus leidžiama reklamuoti spaudiniuose,
+kurie skirti tik specialistams. Tokių spaudinių sąrašą tvirtina Vyriausybė ar
+jos įgaliota institucija. 
+Reklamuojant vaistus, neparduodami vaistų pavyzdžiai gali
+būti pateikiami tik gydytojams, turintiems teisę išrašyti vaistus. Ant tokio
+vaisto pakuotės turi būti užrašas „Neparduodamas pavyzdys“. Tam pačiam gydytojui
+galima pateikti tik vieną to paties prekinio pavadinimo, formos ir stiprumo
+vaisto mažiausią registruotą pakuotę. Draudžiama platinti neparduodamus
+pavyzdžius vaistų, kurie turi medžiagų, įrašytų į sveikatos apsaugos ministro
+patvirtintus Narkotinių ir psichotropinių medžiagų sąrašus. Neparduodamus
+vaistų pavyzdžius parduoti draudžiama.
+Gyventojams skirtoje reklamoje leidžiama reklamuoti tik
+nereceptinius vaistus pateikiant būtinas nuorodas. Tokių nuorodų turinį nustato
+Sveikatos apsaugos ministerija.
+Gyventojams
+skirtoje reklamoje draudžiama reklamuoti:
+1) receptinius vaistus,
+išskyrus atvejus, kai vaistų gamintojai, gavę Sveikatos apsaugos ministerijos
+leidimą, vykdo gyventojų skiepijimo programą;
+2) vaistus, kurių sudėtyje yra
+medžiagų, įrašytų į sveikatos apsaugos ministro patvirtintą Narkotinių ir
+psichotropinių medžiagų sąrašą;
+3) vaistus (nepaisant jų
+stiprumo ar kiekio pakuotėje), kurių prekiniai pavadinimai įrašyti į Sveikatos
+apsaugos ministerijos patvirtintą Kompensuojamųjų vaistų bazinių kainų kainyną.
+
+Reklamuojant vaistus
+gyventojams, draudžiama:
+1)
+įvardyti šias terapines indikacijas: tuberkuliozę, lytiškai plintančias,
+sunkias infekcines, vėžines ir kitas navikines ligas, lėtinę nemigą, diabetą
+bei medžiagų apykaitos ligas;
+2)
+teigti, kad vaistą vartoti pataria mokslininkai, specialistai ar kiti įžymūs
+žmonės; 
+3)
+pateikti konkrečią ligos istoriją, taip skatinant gyventojus pačius klaidingai
+diagnozuoti ligą;
+4) klaidinančiu
+būdu tvirtinti, kad ligonis, vartodamas vaistą, pasveiks; 
+5) vartoti
+klaidinančius terminus bei grafinę medžiagą, vaizduojančią žmogaus ar gyvūno
+organizmo pakitimus, kuriuos sukelia liga, sužalojimas ar reklamuojamas
+vaistas; 
+6) pateikti
+medžiagą, skirtą specialiai vaikams;
+7) nurodyti, kad vaistas registruotas
+Lietuvos Respublikoje; 
+8) platinti neparduodamus vaistų
+pavyzdžius gyventojams; 
+9)
+nurodyti, kad nebūtina gydytojo konsultacija, jo skiriamas gydymas ar
+operacija, ypač tais atvejais, kai nurodoma konkreti diagnozė arba siūloma
+vaistų įsigyti paštu; 
+10) nurodyti,
+kad vartojant vaistą užtikrinamas gydomasis jo poveikis ir nėra pašalinio
+veikimo; 
+11)
+nurodyti, kad reklamuojamas vaistas veikia geriau ar taip pat kaip kitas
+vaistas ar gydymo būdas; 
+12) nurodyti,
+kad vartojant reklamuojamą vaistą pagerės sveikata; 
+13)
+nurodyti, kad jei reklamuojamas vaistas nebus vartojamas, tai gali turėti
+neigiamos įtakos sveikatai; ši nuostata netaikoma vykdant skiepijimo programas;
+
+14) nurodyti, kad vaistas yra maisto
+produktas, kosmetikos ar kita plačiai vartojama priemonė; 
+15) nurodyti, kad vaistas yra saugus ar
+efektyvus todėl, kad natūralus. 
+Kitus reikalavimus vaistų reklamai, jos teikimui ir
+neparduodamų vaistų pavyzdžių platinimui, prekybos vaistiniais preparatais
+atstovams, jų kvalifikacijai ir veiklai nustato sveikatos apsaugos ministras.
 Vaistų reklamos
-priežiūrą vykdo Valstybinė vaistų kontrolės tarnyba prie Sveikatos apsaugos
-ministerijos ir Valstybinė maisto ir veterinarijos tarnyba.
-            Vaistus, išduodamus tik su
-gydytojų receptais, reklamuoti leidžiama tik per specialiąją spaudą ir kitas
-informavimo priemones, skirtas medicinos ar farmacijos specialistams.
-            Vaistus, išduodamus be
-gydytojo receptų, leidžiama reklamuoti visuomenės informavimo priemonėse su
-būtina nuoroda “ Dėl vaistų vartojimo ir galimo pašalinio veikimo būtina
-pasitarti su gydytoju ar vaistininku”.
+priežiūrą ir šiame straipsnyje nustatytų vaistų reklamos reikalavimų kontrolę
+vykdo Sveikatos apsaugos ministerija ar jos įgaliota institucija.
 Straipsnio
 pakeitimai:
 Nr.
@@ -278,6 +509,41 @@ I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
 Nr. VIII-1802, 00.07.04, Žin., 2000,
 Nr.61-1813 (00.07.26)
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
+ 
+17(1) straipsnis.
+Klaidinanti
+vaistų reklama reklaminės veiklos subjektams užtraukia baudą nuo penkių
+tūkstančių iki dvidešimties tūkstančių litų. 
+Įgaliotų valstybės institucijų
+laikino draudimo skleisti vaistų reklamą nevykdymas arba įpareigojimo paneigti
+klaidinančią vaistų reklamą nevykdymas ar netinkamas vykdymas reklaminės
+veiklos subjektams užtraukia baudą nuo vieno tūkstančio iki dvidešimties
+tūkstančių litų.
+Įgaliotų valstybės institucijų
+reikalavimo pateikti informaciją ir dokumentus, o prireikus – ir reklamuojamų
+vaistų pavyzdžius, nevykdymas ar netinkamas vykdymas reklaminės veiklos
+subjektams užtraukia baudą nuo vieno tūkstančio iki dešimties tūkstančių litų.
+Neregistruotų vaistų reklama
+reklaminės veiklos subjektams užtraukia baudą nuo penkių tūkstančių iki
+dvidešimties tūkstančių litų.
+Lyginamoji vaistų reklama
+reklaminės veiklos subjektams užtraukia baudą nuo vieno tūkstančio iki
+penkiolikos tūkstančių litų.
+Paslėpta reklama, taip pat
+receptinių vaistų reklama elektroninėmis perdavimo priemonėmis, vaistų reklama,
+skirta vaikams, reklama pasinaudojant žinomais visuomenei žmonėmis,
+visuomeninėmis organizacijomis reklaminės veiklos subjektams užtraukia baudą
+nuo vieno tūkstančio iki dešimties tūkstančių litų.
+Narkotinių ir
+psichotropinių vaistų reklama pažeidžiant šio įstatymo reikalavimus reklaminės
+veiklos subjektams užtraukia baudą nuo penkių tūkstančių iki dvidešimties
+tūkstančių litų.
+Įstatymas
+papildytas straipsniu:
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
  
             18 straipsnis.
             Farmacinė veikla, kuria
@@ -290,23 +556,37 @@ Lietuvos Respublikos įstatymus.
 V skyrius.
 Valstybinė farmacinės veiklos kontrolė 
  
-            19 straipsnis.
-            Farmacinę veiklą Lietuvos
-Respublikoje kontroliuoja Valstybinė vaistų kontrolės tarnyba prie Sveikatos
-apsaugos ministerijos.
+19 straipsnis.
+Farmacinę veiklą Lietuvos Respublikoje kontroliuoja Vyriausybės
+įgaliota institucija ir (ar) sveikatos apsaugos ministro įgalioti asmenys. 
 Straipsnio
 pakeitimai:
 Nr.
 I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
  
-            20 straipsnis.
-            Vaistų, vaistinių medžiagų
-ir vaistinių žaliavų kokybės kontrolė Lietuvos Respublikoje atliekama pagal
-farmakopėjos reikalavimus arba tuos reikalavimus, kurie priimti dvišalėse
-sutartyse, kai viena iš šalių yra Lietuvos Respublika, arba pagal tarptautinių
-organizacijų, kurių narė yra Lietuvos Respublika, vaistų kokybės ir jos
-kontrolės reikalavimus. 
+20
+straipsnis. 
+Vaistų ir
+vaistinių medžiagų didmeninis platinimas vykdomas Lietuvos Respublikos įstatymų
+nustatyta tvarka ir pagal vaistų geros platinimo praktikos taisykles, o
+pramoninė vaistų ir vaistinių medžiagų gamyba vykdoma Lietuvos Respublikos
+įstatymų nustatyta tvarka ir pagal vaistų geros gamybos praktikos taisykles.
+Šias taisykles tvirtina ir jų įsigaliojimo terminus nustato Vyriausybės
+įgaliota institucija. 
+Vaistų kokybė
+turi atitikti Lietuvos Respublikoje galiojančių farmakopėjų ar farmakopėjos
+straipsnių, įrašytų į Lietuvos Respublikoje galiojančių farmakopėjų ir
+farmakopėjos straipsnių sąrašą, reikalavimus. 
+Lietuvos
+Respublikoje galiojančių farmakopėjų ir farmakopėjos straipsnių sąrašą sudaro
+ir tvirtina Vyriausybės įgaliota institucija.
+Straipsnio
+pakeitimai:
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
  
 VI skyrius.
 Farmacinė veikla veterinarijoje 
@@ -315,8 +595,8 @@ Farmacinė veikla veterinarijoje
 Veterinarijoje
 vartojami vaistai ir veterinarinės paskirties gaminiai registruojami
 Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka.
-Valstybinį veterinarinių vaistų registrą tvarko Valstybinė maisto ir veterinarijos
-tarnyba.
+Valstybinį veterinarinių vaistų registrą tvarko Valstybinė maisto ir
+veterinarijos tarnyba.
 Straipsnio
 pakeitimai:
 Nr.
@@ -428,6 +708,17 @@ Nr.61-1813 (00.07.26)
 FARMACINĖS VEIKLOS ĮSTATYMO 17, 21, 22, 23, 24
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
+FARMACINĖS
+VEIKLOS ĮSTATYMO 1, 4, 5, 10, 11, 15, 17, 19, 20 STRAIPSNIŲ PAKEITIMO IR
+ĮSTATYMO PAPILDYMO 10(1), 17(1) STRAIPSNIAIS ĮSTATYMAS
+ 
+ 
 ***
 Pabaiga ***
  
@@ -449,7 +740,7 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-03-18)
+Aušrinė Trapinskienė (2002-06-14)
                  
 autrap@lrs.lt
 
