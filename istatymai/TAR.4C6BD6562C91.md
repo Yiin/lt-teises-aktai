@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4C6BD6562C91"
 
 # Lietuvos Respublikos valstybės gynimo tarybos įstatymas
 
+Suvestinė redakcija nuo 2000-07-19 iki 2012-12-31
+ 
+Įstatymas paskelbtas: Žin. 1997, Nr. 41-992, i. k. 0971010ISTAVIII-209
+ 
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS GYNIMO TARYBOS
 Į S T A T Y M A S
@@ -83,12 +88,12 @@ VALSTYBĖS GYNIMO TARYBOS VEIKLA
 1. Valstybės gynimo taryba:
 
 
-1) svarsto užsienio ir vidaus politikos nuostatas, garantuojančias Lietuvos Respublikos nacionalinį  saugumą bei teritorijos vientisumą;
+1) svarsto užsienio ir vidaus politikos nuostatas, garantuojančias Lietuvos Respublikos nacionalinį saugumą bei teritorijos vientisumą;
 
 
 
 
-2) svarsto pagrindinius Lietuvos Respublikos nacionalinio saugumo  politikos ir gynybos principus bei kryptis;
+2) svarsto pagrindinius Lietuvos Respublikos nacionalinio saugumo politikos ir gynybos principus bei kryptis;
 
 
 
@@ -118,14 +123,22 @@ VALSTYBĖS GYNIMO TARYBOS VEIKLA
 
 
 
-8) svarsto kitus valstybės gynimo klausimus;
+8) nustato strategines krizių valdymo gaires;
 
 
 
 
-9) svarsto ir teikia pasiūlymus dėl krašto apsaugos sistemos finansavimo.
+9) svarsto kitus valstybės gynimo klausimus;
 
 
+
+
+10) svarsto ir teikia pasiūlymus dėl krašto apsaugos sistemos finansavimo.
+
+
+Straipsnio dalies pakeitimai:
+Nr. VIII-1779, 2000-06-29, Žin., 2000, Nr. 58-1711 (2000-07-19), i. k. 1001010ISTAIII-1779
+ 
 
 
 
@@ -380,3 +393,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1779, 2000-06-29, Žin., 2000, Nr. 58-1711 (2000-07-19), i. k. 1001010ISTAIII-1779
+Lietuvos Respublikos valstybės gynimo tarybos įstatymo 4 straipsnio papildymo įstatymas
