@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.39D96F1C8B69"
 
 # Lietuvos Respublikos narkologinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2004-04-28
+Suvestinė redakcija nuo 2004-04-29 iki 2005-07-13
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 30-711, i. k. 0971010ISTAVIII-156
  
@@ -248,7 +248,9 @@ Nr. IX-1467, 2003-04-03, Žin., 2003, Nr. 38-1712 (2003-04-24), i. k. 1031010IST
 
 2. Detoksikacija prireikus turi būti atliekama visose asmens sveikatos priežiūros įstaigose, atsižvelgiant į paciento sveikatos būklę.
 
-3. Detoksikaciją gali atlikti asmens sveikatos priežiūros specialistai gydytojai, turintys tam teisę Gydytojo medicinos praktikos įstatymo ir kitų įstatymų nustatyta tvarka.
+3. Detoksikaciją gali atlikti asmens sveikatos priežiūros specialistai gydytojai, turintys tam teisę įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-2149, 2004-04-20, Žin., 2004, Nr. 68-2366 (2004-04-29), i. k. 1041010ISTA0IX-2149
  
 
 17 straipsnis. Narkologinių ligonių gydymas, slauga ir medicininė reabilitacija 
@@ -392,4 +394,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1467, 2003-04-03, Žin., 2003, Nr. 38-1712 (2003-04-24), i. k. 1031010ISTA0IX-1467
 Lietuvos Respublikos narkologinės priežiūros įstatymo 6 ir 14 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2149, 2004-04-20, Žin., 2004, Nr. 68-2366 (2004-04-29), i. k. 1041010ISTA0IX-2149
+Lietuvos Respublikos narkologinės priežiūros įstatymo 16 straipsnio pakeitimo įstatymas
 
