@@ -30,43 +30,67 @@ Vilnius
 
 
  
-1
-straipsnis. Atmintinos dienos 
-Nustatyti šias atmintinas dienas:
-1) sausio 1-oji – Lietuvos vėliavos diena;
-2) sausio 13-oji – Laisvės gynėjų diena;
-3) kovo 4-oji – Lietuvos globėjo šv. Kazimiero
+ 
+1 straipsnis. Atmintinos dienos
+Nustatyti
+šias atmintinas dienas:
+1)
+sausio 1-oji – Lietuvos vėliavos diena;
+2)
+sausio 13-oji – Laisvės gynėjų diena;
+3) kovo
+4-oji – Lietuvos globėjo šv. Kazimiero diena;
+4) kovo
+8-oji – Tarptautinė moterų solidarumo diena;
+5) kovo
+20-oji – Žemės diena;
+6)
+gegužės 7-oji – Spaudos atgavimo, kalbos ir knygos diena;
+7)
+gegužės trečiasis sekmadienis – Partizanų pagerbimo, kariuomenės ir visuomenės
+vienybės diena;
+8)
+birželio 1-oji – Tarptautinė vaikų gynimo diena;
+9)
+birželio pirmasis sekmadienis – Tėvo diena;
+10)
+birželio 14-oji – Gedulo ir vilties diena;
+11)
+birželio 15-oji – Okupacijos ir genocido diena;
+12)
+birželio 23-ioji – Birželio sukilimo diena;
+13)
+birželio 24-oji – Rasos (Joninių) diena;
+14)
+liepos 15-oji – Žalgirio mūšio diena;
+15)
+liepos paskutinysis sekmadienis – Jūros diena;
+16)
+rugpjūčio 23-ioji – Juodojo kaspino diena;
+17)
+rugsėjo 1-oji – Laisvės diena;
+18)
+rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo
+karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
+19)
+rugsėjo 22-oji – Baltų vienybės diena;
+20)
+rugsėjo 23-ioji – Lietuvos žydų genocido diena;
+21)
+spalio 5-oji – Tarptautinė mokytojų diena;
+22)
+spalio antrasis šeštadienis – Derliaus diena;
+23)
+spalio 25-oji – Konstitucijos diena;
+24)
+lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena;
+25)
+lapkričio 23-ioji – Lietuvos karių diena;
+26)
+lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto
 diena;
-4) kovo 20-oji – Žemės diena;
-5) gegužės 7-oji – Spaudos atgavimo, kalbos ir
-knygos diena;
-6) gegužės trečiasis sekmadienis – Partizanų
-pagerbimo, kariuomenės ir visuomenės vienybės diena;
-7) birželio 1-oji – Tarptautinė vaikų gynimo diena;
-8) birželio pirmasis sekmadienis – Tėvo diena;
-9) birželio 14-oji – Gedulo ir vilties diena;
-10) birželio 15-oji – Okupacijos ir genocido diena;
-11) birželio 23-ioji – Birželio sukilimo diena;
-12) birželio 24-oji – Rasos (Joninių) diena;
-13) liepos 15-oji – Žalgirio mūšio diena;
-14) liepos paskutinysis sekmadienis – Jūros diena;
-15) rugpjūčio 23-ioji – Juodojo kaspino diena;
-16) rugsėjo 1-oji – Laisvės diena;
-17) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos
-gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos
-nepriklausomybės ir laisvės apgynimą diena;
-18) rugsėjo 22-oji – Baltų vienybės diena;
-19) rugsėjo 23-ioji – Lietuvos žydų genocido diena;
-20) spalio 5-oji – Tarptautinė mokytojų diena;
-21) spalio 25-oji – Konstitucijos diena;
-22) spalio antrasis šeštadienis – Derliaus diena;
-23) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių)
-diena;
-24) lapkričio 23-ioji – Lietuvos karių diena;
-25) lapkričio 30-oji – Mažosios Lietuvos
-prisijungimo prie Didžiosios Lietuvos akto diena;
-26) gruodžio 10-oji – Tarptautinė
-žmogaus teisių diena.
+27)
+gruodžio 10-oji – Tarptautinė žmogaus teisių diena.
 Straipsnio
 pakeitimai:
 Nr. VIII-815,
@@ -79,6 +103,8 @@ Nr. IX-329, 2001 05 17, Žin., 2001, Nr.
 43-1499 (2001 05 23)
 Nr. IX-379, 2001-06-14, Žin., 2001, Nr.
 57-2027 (2001-07-04)
+Nr. IX-735,
+2002-01-24, Žin., 2002, Nr. 15-554 (2002-02-13)
  
  
 Skelbiu šį Lietuvos Respublikos Seimo
@@ -128,8 +154,20 @@ Nr. IX-379, 2001-06-14, Žin., 2001, Nr.
 57-2027 (2001-07-04)
 ATMINTINŲ DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-735,
+2002-01-24, Žin., 2002, Nr. 15-554 (2002-02-13)
+ATMINTINŲ
+DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Angonita Rupšytė (2001-07-04)
-                  anrups@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2002-02-13)
+                 
+autrap@lrs.lt
