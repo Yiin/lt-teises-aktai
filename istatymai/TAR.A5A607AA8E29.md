@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1995-04-28 iki 1995-05-25
+Suvestinė redakcija nuo 1995-05-26 iki 1995-06-08
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
  
@@ -281,11 +281,12 @@ Nr. I-1614, 1991-07-25, Lietuvos aidas, 1991, Nr. 151-0 (1991-08-02); Žin., 199
 
 2. Atsižvelgiant į vidutinio darbo užmokesčio Lietuvos ūkyje ir vidutinio darbo užmokesčio žemės ūkyje skirtumą, asmenims, po 1944 metų dirbusiems, taip pat dabar dirbantiems žemės ūkio įmonėse, pagal atskirus Lietuvos Respublikos įstatymus papildomai skiriamos tikslinės žemės ūkio kompensacijos (agrariniai čekiai).
 
-3. Asmuo, kuriam paskirta valstybės vienkartinė išmoka ar kita tikslinė kompensacija, gali jas perleisti Lietuvos Respublikos piliečiams, taip pat įsigyti už jas investicinių akcinių bendrovių akcijų arba parduoti valstybės vienkartinių išmokų aukcionuose Lietuvos Respublikos piliečiams ir uždarosioms akcinėms bendrovėms, žemės ūkio bendrovėms, kaip juridiniams asmenims, Lietuvos Respublikos Vyriausybės nustatyta tvarka. Šios lėšos įrašomos į asmens, kuriam perleidžiama (parduodama) išmoka ar kompensacija, investicinę sąskaitą, taip pat į šiam tikslui atidarytas uždarosioms akcinėms bendrovėms, žemės ūkio bendrovėms investicines sąskaitas Taupomojo banko skyriuose. Šios išmokos ir kompensacijos paveldimos bendra tvarka. 
+3. Asmuo, kuriam paskirta valstybės vienkartinė išmoka ar kita tikslinė kompensacija, gali jas perleisti Lietuvos Respublikos piliečiams, taip pat įsigyti už jas investicinių akcinių bendrovių akcijų arba parduoti valstybės vienkartinių išmokų aukcionuose Lietuvos Respublikos piliečiams ir uždarosioms akcinėms bendrovėms, žemės ūkio bendrovėms, kaip juridiniams asmenims, Lietuvos Respublikos Vyriausybės nustatyta tvarka. Šios lėšos įrašomos į asmens, kuriam perleidžiama (parduodama) išmoka ar kompensacija, investicinę sąskaitą, taip pat į šiam tikslui atidarytas uždarosioms akcinėms bendrovėms, žemės ūkio bendrovėms investicines sąskaitas Taupomojo banko skyriuose. Šios išmokos ir kompensacijos paveldimos bendra tvarka. Žemės ūkio bendrovėms, uždarosioms akcinėms bendrovėms (įsteigtoms privatizuojamos žemės ūkio įmonės turto pagrindu), įsigijusioms valstybės vienkartinių išmokų ar kitų tikslinių kompensacijų, leisti jas parduoti valstybės vienkartinių išmokų aukcionuose Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
 Nr. I-2893, 1992-09-17, Lietuvos aidas, 1992, Nr. 187-0 (1992-09-24); Žin., 1992, Nr. 28-812 (1992-10-10), i. k. 0921010ISTA00I-2893
 Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, Nr. 6-116 (1993-02-28), i. k. 0931010ISTA0000I-64
+Nr. I-897, 1995-05-18, Žin., 1995, Nr. 44-1080 (1995-05-26), i. k. 0951010ISTA000I-897
  
 
 4. Valstybės vienkartinių išmokų ir kitų tikslinių kompensacijų skyrimo tvarką nustato Lietuvos Respublikos Vyriausybė.
@@ -662,4 +663,9 @@ Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 11 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-861, 1995-04-20, Žin., 1995, Nr. 35-861 (1995-04-28); Žin., 1995, Nr. 38-0 (1995-05-10), i. k. 0951010ISTA000I-861
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-897, 1995-05-18, Žin., 1995, Nr. 44-1080 (1995-05-26), i. k. 0951010ISTA000I-897
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 12 straipsnio papildymo
 
