@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2003-01-01 iki 2003-12-31
+Suvestinė redakcija nuo 2004-01-01 iki 2006-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
  
@@ -126,12 +126,13 @@ Nr. I-1313, 1996-04-30, Žin., 1996, Nr. 46-1108 (1996-05-17), i. k. 0961010ISTA
 
 
 
-11 straipsnis. Mokestis už valstybinius gamtos išteklius mokamas į valstybės biudžetą, išskyrus mokestį už medžiojamųjų gyvūnų išteklių naudojimą. 70 procentų apskaičiuotos mokesčio už medžiojamųjų gyvūnų išteklių naudojimą mokėtinos sumos mokama į savivaldybės, kurios teritorijoje naudojami medžiojamųjų gyvūnų ištekliai, gamtos apsaugos fondą, o likę 30 procentų – į Valstybės iždo sąskaitą, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos.
+11 straipsnis. Mokestis už valstybinius gamtos išteklius mokamas į valstybės biudžetą, išskyrus mokestį už medžiojamųjų gyvūnų išteklių naudojimą. 70 procentų apskaičiuotos mokesčio už medžiojamųjų gyvūnų išteklių naudojimą mokėtinos sumos mokama į savivaldybės, kurios teritorijoje naudojami medžiojamųjų gyvūnų ištekliai, biudžetą, o likę 30 procentų – į Valstybės iždo sąskaitą, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos.
 Lėšos už ekonomines sankcijas išieškomos iš mokėtojui liekančio pelno į Valstybės iždo sąskaitą, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos. 
-Valstybės iždo sąskaitos, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos, ir savivaldybių gamtos apsaugos fondų lėšos naudojamos Savivaldybės gamtos apsaugos fondo nuostatuose ir Aplinkos apsaugos rėmimo programos įstatyme numatytiems tikslams. 
+Valstybės iždo sąskaitos, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos, ir šio straipsnio 1 dalyje nurodytos savivaldybių biudžetų lėšos naudojamos Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatyme ir Aplinkos apsaugos rėmimo programos įstatyme numatytiems tikslams. 
 Straipsnio pakeitimai:
 Nr. VIII-2028, 2000-10-12, Žin., 2000, Nr. 90-2775 (2000-10-27), i. k. 1001010ISTAIII-2028
 Nr. IX-1093, 2002-09-19, Žin., 2002, Nr. 96-4170 (2002-10-04), i. k. 1021010ISTA0IX-1093
+Nr. IX-1609, 2003-06-10, Žin., 2003, Nr. 61-2762 (2003-06-27), i. k. 1031010ISTA0IX-1609
  
 
 
@@ -169,3 +170,8 @@ Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 11 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1093, 2002-09-19, Žin., 2002, Nr. 96-4170 (2002-10-04), i. k. 1021010ISTA0IX-1093
 Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 3, 4, 6, 7, 11 straipsnių papildymo ir pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1609, 2003-06-10, Žin., 2003, Nr. 61-2762 (2003-06-27), i. k. 1031010ISTA0IX-1609
+Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 11 straipsnio pakeitimo įstatymas
