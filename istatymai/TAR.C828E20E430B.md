@@ -230,8 +230,6 @@ VALSTYBINIS KINO VALDYMAS
 
 
 
-
-
 2. Lietuvos kino centras:
 
 
@@ -270,22 +268,12 @@ VALSTYBINIS KINO VALDYMAS
 
 
 
-8) prižiūri, kaip juridiniai ir fiziniai asmenys laikosi šio įstatymo kino filmų viešo rodymo reikalavimų ir kino filmų registravimo Filmų registre tvarkos;
+8) prižiūri, kaip juridiniai ir fiziniai asmenys laikosi šio įstatymo kino filmų viešo rodymo reikalavimų ir kino filmų registravimo Filmų registro informacinėje sistemoje tvarkos;
 
 
 
 
-9) kaupia kino paveldą ir užtikrina jo prieinamumą.
- 
-
-
-
-
-
-
-
-
-5 straipsnis. Lietuvos kino taryba
+9) kaupia kino paveldą ir užtikrina jo prieinamumą.5 straipsnis. Lietuvos kino taryba
 
 
 1. Lietuvos Respublikos kultūros ministras sudaro Lietuvos kino tarybą, tvirtina jos sudėtį ir jos nuostatus. 
@@ -324,29 +312,17 @@ KINO FINANSAVIMAS
 
 
 
-2) 60 procentų praėjusių metų faktinių įplaukų iš pridėtinės vertės mokesčio už filmų platinimą ir rodymą kino teatruose. Suma apskaičiuojama pagal Lietuvos statistikos departamento paskelbtus duomenis;
+2) valstybės gautų pajamų pagal licencines sutartis už suteiktas audiovizualinių kūrinių autorių ir gretutines turtines teises, kuriomis disponuoja Lietuvos kino centras;
 
 
 
 
-3) valstybės gautų pajamų pagal licencines sutartis už suteiktas audiovizualinių kūrinių autorių ir gretutines turtines teises, kuriomis disponuoja Lietuvos kino centras;
+3) tikslinio kino valstybinio finansavimo, kurį skiria Vyriausybė valstybės užsakymui atlikti;
 
 
 
 
-4) 10 procentų praėjusių metų faktinių įplaukų iš pridėtinės vertės mokesčio, sumokėto interneto paslaugų teikėjų;
-
-
-
-
-5) tikslinio kino valstybinio finansavimo, kurį skiria Vyriausybė valstybės užsakymui atlikti;
-
-
-
-
-6) grąžinto arba išieškoto kino valstybinio finansavimo, Lietuvos kino centrui nutraukus su juridiniu arba fiziniu asmeniu sudarytą kino valstybinio finansavimo sutartį.
-
-
+4) grąžinto arba išieškoto kino valstybinio finansavimo, Lietuvos kino centrui nutraukus su juridiniu arba fiziniu asmeniu sudarytą kino valstybinio finansavimo sutartį.
 
 
 
@@ -359,17 +335,7 @@ KINO FINANSAVIMAS
 
 
 
-2) kitų teisėtai gautų lėšų.
- 
-
-
-
-
-
-
-
-
-7 straipsnis. Kino valstybinis finansavimas
+2) kitų teisėtai gautų lėšų.7 straipsnis. Kino valstybinis finansavimas
 
 
 1. Kino valstybinis finansavimas skiriamas iš valstybės biudžeto lėšų, atsižvelgiant į Lietuvos kino centro parengtas programas.
@@ -595,7 +561,7 @@ KINO FINANSAVIMAS
 10 straipsnis. Ekspertai
 
 
-1. Kino valstybiniam finansavimui gauti pateiktą kino projektą, vadovaudamosi šio įstatymo 9 straipsnio kino valstybinio finansavimo pagrindais ir sąlygomis, vertina ekspertų komisijos, sudarytos atsižvelgiant į kino valstybinio finansavimo sritis, nustatytas šio įstatymo 7 straipsnyje, o nacionalinių filmų parengiamųjų ir gamybos darbų projektų atvejais, – atsižvelgiant ir į projektų kategorijas, nustatytas kultūros ministro patvirtintose kino valstybinio finansavimo taisyklėse.
+1. Kino valstybiniam finansavimui gauti pateiktą kino projektą, vadovaudamasi šio įstatymo 9 straipsnio kino valstybinio finansavimo pagrindais ir sąlygomis, vertina ekspertų komisijos, sudarytos atsižvelgiant į kino valstybinio finansavimo sritis, nustatytas šio įstatymo 7 straipsnyje, o nacionalinių filmų parengiamųjų ir gamybos darbų projektų atvejais, – atsižvelgiant ir į projektų kategorijas, nustatytas kultūros ministro patvirtintose kino valstybinio finansavimo taisyklėse.
 
 
 
@@ -610,10 +576,7 @@ KINO FINANSAVIMAS
 
 
 
-4. Lietuvos kino centro direktorius, suderinęs su kultūros ministru, nustato ekspertų komisijų skaičių, nuostatus ir personalinę sudėtį. Ekspertų komisijų narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
- 
+4. Lietuvos kino centro direktorius, suderinęs su kultūros ministru, nustato ekspertų komisijų skaičių, nuostatus ir personalinę sudėtį. Ekspertų komisijų narių darbas apmokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
 
 
 
@@ -623,14 +586,7 @@ Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
 
 
 
-6. Ekspertų komisijos nario kadencija yra dveji metai. Tas pats asmuo ekspertu gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.
-
-
-
-
-
-
-11 straipsnis. Valstybės užsakymas
+6. Ekspertų komisijos nario kadencija yra dveji metai. Tas pats asmuo ekspertu gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.11 straipsnis. Valstybės užsakymas
 
 
 1. Valstybės užsakomas filmas yra Vyriausybės, o Vyriausybės pavedimu – kitos valstybės institucijos ar įstaigos užsakomas pagaminti filmas.
@@ -712,15 +668,7 @@ FILMŲ PLATINIMAS, RODYMAS IR PADARYMAS VIEŠAI PRIEINAMŲ ELEKTRONINIŲ RYŠIŲ
 
 
 
-4. Šio įstatymo kino filmų viešo rodymo reikalavimų ir kino filmų registravimo Filmų registre tvarkos priežiūrą atlieka Lietuvos kino centras, kurio įgalioti pareigūnai turi teisę gauti informaciją, duomenis ar dokumentus, reikalingus šiai priežiūrai atlikti, taip pat turi teisę gauti žodinius ir rašytinius paaiškinimus iš tikrinamų juridinių ir fizinių asmenų. Lietuvos kino centro įgalioti pareigūnai privalo neatskleisti patikrinimų metu gautos konfidencialios ar komercinę paslaptį sudarančios informacijos.
- 
-
-
-
-
-
-
-14 straipsnis. Filmų indeksavimas pagal žiūrovų amžiaus cenzą
+4. Šio įstatymo kino filmų viešo rodymo reikalavimų ir kino filmų registravimo Filmų registro informacinėje sistemoje tvarkos priežiūrą atlieka Lietuvos kino centras. Lietuvos kino centro įgalioti pareigūnai turi teisę gauti informaciją, duomenis ar dokumentus, reikalingus šiai priežiūrai atlikti, taip pat turi teisę gauti žodinius ir rašytinius paaiškinimus iš tikrinamų juridinių ir fizinių asmenų. Lietuvos kino centro įgalioti pareigūnai privalo neatskleisti patikrinimų metu gautos konfidencialios ar komercinę paslaptį sudarančios informacijos.14 straipsnis. Filmų indeksavimas pagal žiūrovų amžiaus cenzą
 
 
 1. Visi rodomi kino teatruose filmai, išskyrus šio straipsnio 15 dalyje nustatytus atvejus, turi būti indeksuojami pagal žiūrovų amžiaus cenzą šio įstatymo nustatyta tvarka.
@@ -890,36 +838,27 @@ TAR pastaba. 14 straipsnio nuostatos taikomos po šio įstatymo (Nr. XIII-885) �
 
 
 
-15 straipsnis. Filmų registras
+15 straipsnis. Filmų registro informacinė sistema
 
+1. Filmų registro tikslas – užtikrinti kino filmų autorių ir gretutinių teisių turėtojų teises bei nepilnamečių asmenų apsaugą nuo neigiamos informacijos.
 
-1. Filmų registras yra valstybės registras. Filmų registro valdytoja yra Kultūros ministerija.
+2. Filmų registro objektai yra Lietuvos Respublikoje pagaminti filmai ir į Lietuvos Respubliką įvežti rodyti kino teatruose filmai ar padaryti viešai prieinami elektroninių ryšių tinklais filmai, išskyrus šio straipsnio 7 dalyje nurodytus filmus. Filmų registro informacinėje sistemoje jos objektai registruojami pagal šios informacinės sistemos nuostatuose nustatytas registravimo sąlygas. Filmų registro informacinės sistemos nuostatus tvirtina kultūros ministras.
 
+3. Filmų registro informacinės sistemos paskirtis – registruoti visus Lietuvos filmų gamintojų pagamintus, taip pat skirtus rodyti kino teatruose ar padarytus viešai prieinamus elektroninių ryšių tinklais filmus bei rinkti, kaupti, apdoroti, sisteminti, saugoti ir teikti duomenis apie juos.
 
+4. Filmų registro informacinėje sistemoje tvarkomi duomenų rinkiniai apie šio straipsnio 2 dalyje nurodytų filmų rodytojus ir (ar) platintojus, pagrindinius filmų kūrėjus, filmų gamintojus, autorių turtinių teisių savininkus, filmų licencijas ir filmų registraciją. Filmų registro informacinėje sistemoje tvarkomų duomenų rinkinius sudarantys duomenys yra nustatomi šio registro informacinės sistemos nuostatuose.
 
+5. Filmų registro informacinės sistemos ir duomenų, įskaitant asmens duomenis, valdytoja yra Kultūros ministerija.
 
-2. Visi Lietuvos filmų gamintojų pagaminti, taip pat skirti rodyti kino teatruose ar padaryti viešai prieinami elektroninių ryšių tinklais filmai, išskyrus šio straipsnio 3 dalyje nurodytus filmus, turi būti įregistruoti Filmų registre.
+6. Visi Lietuvos filmų gamintojų pagaminti, taip pat skirti rodyti kino teatruose ar padaryti viešai prieinami elektroninių ryšių tinklais filmai, išskyrus šio straipsnio 7 dalyje nurodytus filmus, turi būti įregistruoti Filmų registro informacinėje sistemoje.
 
+7. Filmai, skirti rodyti ar padaryti viešai prieinami elektroninių ryšių tinklais festivaliuose, seminaruose, retrospektyvose ir kituose visuomenės kultūriniams, meniniams, edukaciniams poreikiams tenkinti skirtuose renginiuose, Filmų registro informacinėje sistemoje neregistruojami.
 
+8. Filmų registro informacinėje sistemoje tvarkomi duomenys, išskyrus šio straipsnio 4 dalyje nurodytą duomenų rinkinį apie filmų licencijas, yra vieši ir skelbiami neatlygintinai Filmų registro informacinės sistemos tvarkytojo interneto svetainėje.
 
+9. Filmų registro informacinės sistemos duomenys teikiami laikantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) 5 straipsnyje apibrėžtų asmens duomenų tvarkymo principų, šio reglamento 6 straipsnyje nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
 
-3. Filmai, skirti rodyti ar padaryti viešai prieinami elektroninių ryšių tinklais festivaliuose, seminaruose, retrospektyvose ir kituose visuomenės kultūriniams, meniniams, edukaciniams poreikiams tenkinti skirtuose renginiuose, Filmų registre neregistruojami.
-TAR pastaba. 15 straipsnio nuostatos taikomos po šio įstatymo (Nr. XIII-885) įsigaliojimo (2018-01-01) naujai indeksuojamiems pagal žiūrovų amžiaus cenzą ir registruojamiems Filmų registre filmams.
- 
-
-
-
-
-
-
-
-
-V SKYRIUS
-LIETUVOS KINO PAVELDO APSAUGA
- 
-
-
-16 straipsnis. Lietuvos kino paveldo apsauga
+10. Filmų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis ir duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį, yra atveriami pakartotinai naudoti.16 straipsnis. Lietuvos kino paveldo apsauga
 
 
 1. Lietuvos kino paveldo kaupimą, saugojimą ir naudojimą koordinuoja Lietuvos vyriausiojo archyvaro tarnyba. 
