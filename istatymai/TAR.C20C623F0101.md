@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C20C623F0101"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 1997-07-11 iki 2002-04-25
+Įstatymas netenka galios 2015-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-493, 2006-01-19, Žin., 2006, Nr. 17-589 (2006-02-11), i. k. 1061010ISTA000X-493
+Lietuvos Respublikos socialinių paslaugų įstatymas
+ 
+Suvestinė redakcija nuo 2002-04-26 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2367, i. k. 0961010ISTA00I-1579
  
@@ -98,7 +103,10 @@ Socialinės paslaugos asmenims, išvardytiems šio įstatymo 3 straipsnyje, teik
 
 5. Specialiosios socialinės paslaugos yra tos paslaugos, kurios asmens globos tikslais teikiamos:
 
-1) stacionariose globos ir slaugos įstaigose;
+1) stacionariose globos ir slaugos įstaigose, šeimynose; 
+Straipsnio punkto pakeitimai:
+Nr. IX-838, 2002-04-09, Žin., 2002, Nr. 43-1603 (2002-04-26); Žin., 2002, Nr. 44-0 (2002-04-30), i. k. 1021010ISTA00IX-838
+ 
 
 2) reabilitacijos įstaigose;
 
@@ -140,7 +148,10 @@ Nr. VIII-333, 1997-06-26, Žin., 1997, Nr. 66-1604 (1997-07-11), i. k. 0971010IS
 
 7) inicijuoja metodinę pagalbą, norminių aktų kūrimą, pažangios patirties skleidimą organizuojant socialines paslaugas;
 
-8) steigia, reorganizuoja ir likviduoja respublikines stacionarias globos įstaigas.
+8) steigia, reorganizuoja, pertvarko ir likviduoja respublikines stacionarias globos įstaigas. 
+Straipsnio punkto pakeitimai:
+Nr. IX-838, 2002-04-09, Žin., 2002, Nr. 43-1603 (2002-04-26); Žin., 2002, Nr. 44-0 (2002-04-30), i. k. 1021010ISTA00IX-838
+ 
 
 3. Sveikatos apsaugos bei Švietimo ir mokslo ministerijos pagal savo kompetenciją įstatymų ir kitų teisės aktų nustatyta tvarka organizuoja socialinių paslaugų teikimą.
 
@@ -148,7 +159,10 @@ Nr. VIII-333, 1997-06-26, Žin., 1997, Nr. 66-1604 (1997-07-11), i. k. 0971010IS
 
 1) rengia, koordinuoja ir vykdo apskrities socialines programas ir socialinius projektus;
 
-2) steigia, reorganizuoja ir likviduoja apskrities specialiųjų socialinių paslaugų institucijas;
+2) steigia, reorganizuoja, pertvarko ir likviduoja apskrities specialiųjų socialinių paslaugų institucijas; 
+Straipsnio punkto pakeitimai:
+Nr. IX-838, 2002-04-09, Žin., 2002, Nr. 43-1603 (2002-04-26); Žin., 2002, Nr. 44-0 (2002-04-30), i. k. 1021010ISTA00IX-838
+ 
 
 3) kontroliuoja socialinių paslaugų teikimą apskričiai priklausančiose socialinių paslaugų teikimo įstaigose. 
 
@@ -166,7 +180,10 @@ Nr. VIII-333, 1997-06-26, Žin., 1997, Nr. 66-1604 (1997-07-11), i. k. 0971010IS
 
 4) testuoja asmenų, kurie kreipiasi dėl socialinių paslaugų, pajamas bei turtą;
 
-5) steigia, reorganizuoja bei likviduoja savivaldybės socialinių paslaugų institucijas;
+5) steigia, reorganizuoja, pertvarko bei likviduoja savivaldybės socialinių paslaugų institucijas, šeimynas; 
+Straipsnio punkto pakeitimai:
+Nr. IX-838, 2002-04-09, Žin., 2002, Nr. 43-1603 (2002-04-26); Žin., 2002, Nr. 44-0 (2002-04-30), i. k. 1021010ISTA00IX-838
+ 
 
 6) pagal kompetenciją kontroliuoja socialinių paslaugų teikėjų veiklą;
 
@@ -321,4 +338,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-333, 1997-06-26, Žin., 1997, Nr. 66-1604 (1997-07-11), i. k. 0971010ISTAVIII-333
 Lietuvos Respublikos socialinių paslaugų įstatymo 6 ir 11 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-838, 2002-04-09, Žin., 2002, Nr. 43-1603 (2002-04-26); Žin., 2002, Nr. 44-0 (2002-04-30), i. k. 1021010ISTA00IX-838
+Lietuvos Respublikos socialinių paslaugų įstatymo 5 ir 6 straipsnių papildymo įstatymas
 
