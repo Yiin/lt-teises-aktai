@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8C46EE8DC023"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2003-01-01 iki 2004-07-02
+Suvestinė redakcija nuo 2004-07-03 iki 2004-12-17
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 45-1709, i. k. 1021010ISTA00IX-856
  
@@ -44,9 +44,12 @@ Nr. IX-1243, 2002-12-10, Žin., 2002, Nr. 123-5534 (2002-12-24), i. k. 1021010IS
 Valstybės tarnybos įstatymo nuostatos dėl valstybės tarnautojų mokymo finansavimo pradedamos įgyvendinti, kaip nustatyta, nuo 2005 m. sausio 1 d. Iki to laiko valstybės ir savivaldybių institucijos ir įstaigos privalo valstybės tarnautojų mokymui skirti ne mažiau kaip 1 procentą valstybės tarnautojų darbo užmokesčiui skirtų asignavimų.
  
 
-3 straipsnis. Valdininkų registro reorganizavimas 
+3 straipsnis. Valdininkų registro reorganizavimas
 
-Valdininkų registras Vyriausybės nustatyta tvarka reorganizuojamas į valstybės tarnautojų registrą iki 2003 m. gruodžio 30 d.
+Valdininkų registras Vyriausybės nustatyta tvarka reorganizuojamas į valstybės tarnautojų registrą iki 2005 m. gruodžio 30 d.
+
+Straipsnio pakeitimai:
+Nr. IX-2296, 2004-06-29, Žin., 2004, Nr. 104-3829 (2004-07-03), i. k. 1041010ISTA0IX-2296
  
 
 4 straipsnis. Socialinių ir kitų garantijų tęstinumo užtikrinimas valstybės tarnautojams
@@ -161,4 +164,9 @@ Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendi
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1243, 2002-12-10, Žin., 2002, Nr. 123-5534 (2002-12-24), i. k. 1021010ISTA0IX-1243
 Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 1 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2296, 2004-06-29, Žin., 2004, Nr. 104-3829 (2004-07-03), i. k. 1041010ISTA0IX-2296
+Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 3 straipsnio pakeitimo įstatymas
 
