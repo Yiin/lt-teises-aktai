@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.56935A08DD06"
 
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2002-07-19 iki 2005-03-04
+Suvestinė redakcija nuo 2005-03-05 iki 2007-05-18
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2731, i. k. 0971010ISTAVIII-512
  
@@ -765,29 +765,18 @@ Gamtos išteklių apsaugą ir naudojimą bei kitą veiklą jūros rajone nustato
 
 
 
-46 straipsnis. Žvejybos reguliavimas
-
-
-1. AAM, reguliuodama žvejybą jūros rajone, gali: nustatyti galimų gaudyti žuvų rūšis, amžių ir dydį, jų sugavimo limitus, žvejybos sezonus ir rajonus, laivų, žvejybos įrankių tipą, dydį ir kiekį, išduoti leidimus žuvų bei kitų vandens gyvūnų ir augalų ištekliams naudoti, gauti žvejybos ir laimikio sunaudojimo statistinius duomenis bei nustatyti kitas sąlygas, kad būtų užtikrintas optimalus sugaunamų žuvų kiekis bei gaudomų žuvų populiacijų atkūrimas ir gausinimas.
-
-
-
-
-2. Šie apribojimai ir sąlygos turi neprieštarauti tarptautiniams Lietuvos Respublikos susitarimams dėl žvejybos Kuršių mariose ir Baltijos jūroje.
+46 straipsnis. Neteko galios nuo 2005-03-05
+Straipsnio naikinimas:
+Nr. X-118, 2005-02-15, Žin. 2005, Nr. 31-976 (2005-03-05), i. k. 1051010ISTA000X-118
  
 
 
 
 
-
-
-47 straipsnis. Žvejyba užsienio valstybių jūrų rajonuose ar atvirojoje jūroje
-
-
-Žvejybą užsienio valstybių jūrų rajonuose ar atvirojoje jūroje reguliuoja tarptautinės sutartys.
+47 straipsnis. Neteko galios nuo 2005-03-05
+Straipsnio naikinimas:
+Nr. X-118, 2005-02-15, Žin. 2005, Nr. 31-976 (2005-03-05), i. k. 1051010ISTA000X-118
  
-
-
 
 
 
@@ -1175,3 +1164,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
 Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 53, 54, 56 ir 57 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-118, 2005-02-15, Žin., 2005, Nr. 31-976 (2005-03-05), i. k. 1051010ISTA000X-118
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 46 ir 47 straipsnių pripažinimo netekusiais galios įstatymas
