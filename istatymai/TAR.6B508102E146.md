@@ -13,13 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6B508102E146"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Redaguota: 1995 06 14
+Redaguota: 1995 11 17
 
-  Redaguota: 1995 06
-14
+      Redaguota:
+1995 11 17
  
   Pakeitimai:
-      1.Lietuvos
+    1.Lietuvos
 Respublikos 1995 01 24
       Įstatymas
 Nr.1-767; 
@@ -28,7 +28,7 @@ Nr.12-260
       DĖL LIETUVOS
 RESPUBLIKOS AKCIZŲ ĮSTATYMO PAPILDYMO
  
-      2.Lietuvos
+    2.Lietuvos
 Respublikos 1995 05 30
       Įstatymas
 Nr.1-905
@@ -39,6 +39,15 @@ RESPUBLIKOS AKCIZŲ ĮSTATYMO
       PAKEITIMO IR
 PAPILDYMO
  
+    3.Lietuvos
+Respublikos 1995 11 07
+      Įstatymas
+Nr.1-1082
+      Žin., 1995
+Nr.94-2087
+      DĖL LIETUVOS
+RESPUBLIKOS AKCIZŲ ĮSTATYMO
+      PAPILDYMO
  
  
                      
@@ -82,14 +91,28 @@ pagaminti, akcizus 
 apskaičiuoja, surenka ir moka akcinė bendrovė
 "Mažeikių
 nafta".
+     Pasikeitus 
+akcizų   tarifams,  akcizų  skirtumą,  tenkantį
+prekių likučiui, 
+esančiam  mažmeninės  ir  didmeninės  prekybos
+įmonėse, sumoka
+šios  įmonės  Lietuvos  Respublikos  Vyriausybės
+nustatyta tvarka ir
+terminais.
  
       Pakeitimai:
-      1.Lietuvos
+    1.Lietuvos
 Respublikos 1995 05 30
       Įstatymas
 Nr.1-905
       Žin., 1995
 Nr.49-1179
+    2.Lietuvos
+Respublikos 1995 11 07
+      Įstatymas
+Nr.1-1082
+      Žin., 1995
+Nr.94-1084
  
  
      3 straipsnis.
@@ -97,8 +120,8 @@ Akcizų objektas
  
      Akcizų objektas
 yra šios prekės:
-     1)
-nedenatūruotas  etilo alkoholis  ir alkoholiniai gėrimai,
+     1) nedenatūruotas 
+etilo alkoholis  ir alkoholiniai gėrimai,
 įskaitant alų;
      2) rūkomasis
 tabakas ir tabako gaminiai;
@@ -106,8 +129,7 @@ tabakas ir tabako gaminiai;
 šokoladas, maisto produktai su kakava;
      4) bižuterija,
 aukso ir sidabro dirbiniai, išskyrus dirbtinę
-bižuteriją ir
-monetas;
+bižuteriją ir monetas;
      5) variklių  
 benzinas,   žibalas,   kuras   reaktyviniams
 varikliams, gazolis
@@ -124,18 +146,17 @@ Pastaba: 9 punktas
 įsigalios nuo 1996.01.01.
  
      Pakeitimai:
-     1.Lietuvos
+   1.Lietuvos
 Respublikos 1995 01 24
      Įstatymas
 Nr.1-767
      Žin., 1995,
 Nr.12-260
- 
-      2.Lietuvos
+   2.Lietuvos
 Respublikos 1995 05 30
-      Įstatymas
+     Įstatymas
 Nr.1-905
-      Žin., 1995
+     Žin., 1995
 Nr.49-1179
  
  
@@ -153,7 +174,7 @@ importuojamų  prekių -  muitinė prekių  vertė,  įskaitant
 muitą.
  
       Pakeitimai:
-      1.Lietuvos
+    1.Lietuvos
 Respublikos 1995 05 30
       Įstatymas
 Nr.1-905
@@ -165,7 +186,7 @@ Nr.49-1179
 Apmokestinamoji apyvarta
  
      Akcizai 
-apskaičiuojami   už  šio   įstatymo  3  straipsnyje
+apskaičiuojami   už  šio   įstatymo  3  straipsnyje
 išvardytas prekes:
      1)  iš  
 gatavos  produkcijos   sandėlio   perduotas   kitam
@@ -174,7 +195,7 @@ fiziniam  asmeniui,  ar  juridinio  asmens  teisių
 neturinčiai 
 įmonei,   kuriems,  remiantis     išrašytais  prekių
 perdavimo 
-dokumentais,   perleidžiama  teisė  jomis  disponuoti.
+dokumentais,   perleidžiama  teisė  jomis  disponuoti.
 Šiuose dokumentuose 
 turi būti  Lietuvos Respublikos buhalterinės
 apskaitos pagrindų 
@@ -189,7 +210,7 @@ bei mokėjimo
 dokumentuose nenurodomi.
  
       Pakeitimai:
-      1.Lietuvos
+    1.Lietuvos
 Respublikos 1995 05 30
       Įstatymas
 Nr.1-905
@@ -219,7 +240,7 @@ prekės.
 Lietuvos  Respublikos  muitų  teritoriją  gabenamos
 tranzitu prekės.
      Taip   pat  
-akcizas   netaikomas,   kai   etilo   alkoholis
+akcizas   netaikomas,   kai   etilo   alkoholis
 parduodamas:
      1)  Lietuvos  
 Respublikos   įmonėms   degtinei,   likeriui,
@@ -229,13 +250,13 @@ midui, actui gaminti;
 farmacijos   įmonėms  ir  medicinos  pagalbos  įstaigoms
 medicinos ir 
 farmacijos reikmėms;  veterinarinių vaistų  gamybos
-įmonėms - 
-veterinarinių vaistų  gamybai ir veterinarijos tiekimo
+įmonėms -  veterinarinių
+vaistų  gamybai ir veterinarijos tiekimo
 įmonėms -
 veterinarijos reikmėms.
  
       Pakeitimai:
-      1.Lietuvos
+    1.Lietuvos
 Respublikos 1995 05 30
       Įstatymas
 Nr.1-905
@@ -246,8 +267,8 @@ Nr.49-1179
      7 straipsnis.
 Mokestinis laikotarpis
  
-     Akcizų
-(išskyrus  importuojamų  prekių  akcizus)  mokestinis
+     Akcizų (išskyrus 
+importuojamų  prekių  akcizus)  mokestinis
 laikotarpis yra 
 kalendorinis mėnuo, kuriam pasibaigus, mokėtojai
 iki kito  mėnesio
@@ -276,20 +297,20 @@ dešimtadienį;
 mėnesio 20 dienos - už likusią mėnesio dalį.
      Už
 importuojamas prekes akcizai sumokami į biudžetą Lietuvos
-Respublikos
-Vyriausybės  nustatyta  mokesčių  mokėjimo  muitinėje
+Respublikos Vyriausybės 
+nustatyta  mokesčių  mokėjimo  muitinėje
 tvarka.
      Už Lietuvos
 Respublikoje pagamintus ir įvežamus alkoholinius
 gėrimus,  tabako  
 gaminius   bei   naftos   produktus   Lietuvos
-Respublikos   Vyriausybė   
-gali   nustatyti    kitokią    akcizo
+Respublikos  
+Vyriausybė    gali   nustatyti    kitokią    akcizo
 apskaičiavimo ir
 mokėjimo į biudžetą tvarką bei terminus.
  
       Pakeitimai:
-      1.Lietuvos
+    1.Lietuvos
 Respublikos 1995 05 30
       Įstatymas
 Nr.1-905
@@ -319,7 +340,7 @@ mokesčių
 inspekcijos.
  
       Pakeitimai:
-      1.Lietuvos
+    1.Lietuvos
 Respublikos 1995 05 30
       Įstatymas
 Nr.1-905
@@ -341,7 +362,7 @@ einamuosius ir
 praėjusius penkerius metus.
  
       Pakeitimai:
-      1.Lietuvos
+    1.Lietuvos
 Respublikos 1995 05 30
       Įstatymas
 Nr.1-905
@@ -357,8 +378,8 @@ pateiktose  akcizų  apyskaitose  akcizai  yra
 sumažinti,
 išieškoma  papildomai apskaičiuota  akcizo suma ir jos
 dydžio bauda.
-     Jei  mokėtojas  
-nepateikė  akcizų   apyskaitos,   išieškoma
+     Jei 
+mokėtojas   nepateikė  akcizų   apyskaitos,   išieškoma
 nuslėptoji akcizų
 suma ir dvigubo jos dydžio bauda.
      Laiku
@@ -375,7 +396,7 @@ deklaracija turėjo
 būti pateikta.
  
       Pakeitimai:
-      1.Lietuvos
+    1.Lietuvos
 Respublikos 1995 05 30
       Įstatymas
 Nr.1-905
