@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 1995-12-30 iki 1996-01-04
+Suvestinė redakcija nuo 1996-01-05 iki 1996-09-05
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
  
@@ -2667,9 +2667,17 @@ Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010IST
 
 
 
-2) išlygintas skirtumas tarp bendrovės nuosavų aktyvų ir įstatinio kapitalo dydžio, susidaręs dėl nuostolių arba bendrovių reorganizavimo.
+2) išlygintas skirtumas tarp bendrovės nuosavų aktyvų ir įstatinio kapitalo dydžio, susidaręs dėl nuostolių arba bendrovių reorganizavimo;
 Straipsnio punkto pakeitimai:
 Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
+
+
+
+
+3) perduotas turtas už įsiskolinimus valstybės ar savivaldybių biudžetams.
+Papildyta straipsnio punktu:
+Nr. I-1160, 1995-12-28, Žin., 1996, Nr. 1-4 (1996-01-05), i. k. 0951010ISTA00I-1160
  
 
 
@@ -3044,3 +3052,8 @@ Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 50 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
 Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1160, 1995-12-28, Žin., 1996, Nr. 1-4 (1996-01-05), i. k. 0951010ISTA00I-1160
+Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 45 straipsnio laikino papildymo
