@@ -1111,9 +1111,9 @@ organizuoti Vyriausybės kanceliarijos, ministerijų ir Vyriausybės įstaigų
 veiklą įgyvendinant Vyriausybės patvirtintas konkrečias priemones Vyriausybės
 programai vykdyti, taip pat palaiko ryšius su visuomeninėmis ir politinėmis
 organizacijomis.
-2. Vyriausybės kancleris pagal savo
-kompetenciją gali leisti pavedimus – rezoliucijas, išskyrus pavedimus
-Vyriausybės nariams ir Vyriausybės įstaigų vadovams.
+2. Vyriausybės
+kancleris pagal savo kompetenciją gali leisti pavedimus – rezoliucijas Ministro
+Pirmininko aparato tarnautojams.
 3. Vyriausybės
 sekretorius yra Ministrui Pirmininkui atskaitingas aukščiausiasis karjeros
 valstybės tarnautojas. Jis rengia Vyriausybės posėdžius, juose dalyvauja ir
@@ -1129,6 +1129,8 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
+Nr. IX-331, 2001 05 17, Žin., 2001, Nr.
+48-1656 (2001 06 06)
  
  
 46 straipsnis.
@@ -1238,6 +1240,12 @@ Nr. VIII-2050, 2000
 10 17, Žin., 2000, Nr. 89-2755 (2000 10 25)
 VYRIAUSYBĖS ĮSTATYMO 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-331, 2001 05 17, Žin., 2001, Nr.
+48-1656 (2001 06 06)
+VYRIAUSYBĖS ĮSTATYMO 45 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
@@ -1248,11 +1256,16 @@ Teismo nutarimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
 DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 8
-STRAIPSNIO 2 IR 4 DALIŲ, 9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22
-STRAIPSNIO 1 PUNKTO, 24 STRAIPSNIO 2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3
-DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4
-DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+STRAIPSNIO 2 IR 4 DALIŲ, 
+9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22 STRAIPSNIO 1 PUNKTO, 24
+STRAIPSNIO 
+2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3 DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4
+DALIŲ IR 
+6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4 DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO
+LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+*** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000 11 02)
-                autrap@lrs.lt
+Redagavo: Aušrinė Trapinskienė (2001 06 06)
+                  autrap@lrs.lt
