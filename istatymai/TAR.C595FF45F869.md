@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2028-01-01 iki 2028-12-31
+Suvestinė redakcija nuo 2029-01-01
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -2777,9 +2777,6 @@ Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 1) pakopinės studijos – kvalifikacijai pagal Lietuvos kvalifikacijų sandaros penktąjį lygį, kvalifikaciniam laipsniui arba mokslo, meno daktaro laipsniui įgyti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
- 
 
 
 
@@ -2791,96 +2788,72 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
-2. Pakopinės studijos gali būti šių pakopų: trumpoji – kvalifikacijai pagal Lietuvos kvalifikacijų sandaros penktąjį lygį įgyti, pirmoji ir antroji – kvalifikaciniam (profesinio bakalauro, bakalauro, magistro) laipsniui įgyti, trečioji – mokslo, meno daktaro laipsniui įgyti. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
- 
+2. Pakopinės studijos gali būti šių pakopų: trumpoji – kvalifikacijai pagal Lietuvos kvalifikacijų sandaros penktąjį lygį įgyti, pirmoji ir antroji – kvalifikaciniam (profesinio bakalauro, bakalauro, profesinio magistro, magistro) laipsniui įgyti, trečioji – mokslo, meno daktaro laipsniui įgyti. 
 
 
 
 
-4. Asmenims, baigusiems pirmosios pakopos kolegines studijas, suteikiamas profesinio bakalauro, baigusiems universitetines studijas – bakalauro kvalifikaciniai laipsniai, suteikiantys teisę užsiimti profesine veikla ir (arba) tęsti studijas magistrantūroje.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
- 
+3. Trumposios pakopos studijos grindžiamos profesine praktika. Asmenims, baigusiems trumposios pakopos studijas, suteikiama kvalifikacija, suteikianti teisę užsiimti profesine veikla ir (arba) tęsti studijas pagal pirmosios pakopos ir vientisųjų studijų programas. 
 
 
 
 
-5. Asmenims, baigusiems antrosios pakopos studijas, suteikiamas magistro kvalifikacinis laipsnis, suteikiantis teisę užsiimti profesine veikla ir (arba) tęsti studijas doktorantūroje; studijas magistro kvalifikaciniam laipsniui įgyti gali vykdyti universitetai.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
- 
+4. Pirmosios pakopos koleginės studijos grindžiamos profesine praktika ir ne žemesnio kaip patenkinamo lygio tam tikros (tam tikrų) mokslo (meno) krypties (krypčių) taikomaisiais moksliniais tyrimais ir eksperimentine plėtra ir (arba) meno veikla švietimo, mokslo ir sporto ministro nustatyta tvarka. Pirmosios pakopos universitetinės studijos grindžiamos ne žemesnio kaip patenkinamo lygio tam tikros (tam tikrų) mokslo (meno) krypties (krypčių) moksliniais tyrimais ir eksperimentine plėtra ir (arba) meno veikla švietimo, mokslo ir sporto ministro nustatyta tvarka. Asmenims, baigusiems pirmosios pakopos kolegines studijas, suteikiamas profesinio bakalauro kvalifikacinis laipsnis, baigusiems universitetines studijas, – bakalauro kvalifikacinis laipsnis, suteikiantys teisę užsiimti profesine veikla ir (arba) tęsti studijas aukštosios mokyklos nustatyta tvarka antrojoje studijų pakopoje.
 
 
 
 
-6. Pagal Lietuvos Respublikos ir Šventojo Sosto sutartį dėl bendradarbiavimo švietimo ir kultūros srityje gali būti suteikiamas teologijos licenciato kvalifikacinis laipsnis; studijas teologijos licenciato kvalifikaciniam laipsniui įgyti gali vykdyti universitetai.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
- 
+5. Antrosios pakopos koleginės studijos grindžiamos profesine praktika ir ne žemesnio kaip gero lygio tam tikros (tam tikrų) mokslo (meno) krypties (krypčių) taikomaisiais moksliniais tyrimais ir eksperimentine plėtra ir (arba) meno veikla švietimo, mokslo ir sporto ministro nustatyta tvarka. Antrosios pakopos universitetinės studijos grindžiamos ne žemesnio kaip gero lygio tam tikros (tam tikrų) mokslo (meno) krypties (krypčių) moksliniais tyrimais ir eksperimentine plėtra ir (arba) meno veikla  švietimo, mokslo ir sporto ministro nustatyta tvarka, išskyrus šio straipsnio 9 dalyje nurodytą atvejį. Asmenims, baigusiems antrosios pakopos kolegines studijas, suteikiamas profesinio magistro, baigusiems universitetines studijas, – magistro kvalifikaciniai laipsniai, suteikiantys teisę užsiimti profesine veikla ir (arba) universiteto nustatyta tvarka tęsti studijas doktorantūroje.
 
 
 
 
-7. Teisės aktų nustatytais atvejais studijos magistro kvalifikaciniam laipsniui įgyti gali būti vientisosios – apimti pirmosios ir antrosios pakopos studijas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
- 
+6. Pagal Lietuvos Respublikos ir Šventojo Sosto sutartį dėl bendradarbiavimo švietimo ir kultūros srityje gali būti suteikiamas teologijos licenciato kvalifikacinis laipsnis. Studijas teologijos licenciato kvalifikaciniam laipsniui įgyti gali vykdyti universitetai.
 
 
 
 
-8. Asmenims, baigusiems trečiosios pakopos studijas (doktorantūrą) ir apgynusiems disertaciją, meno projektą, suteikiami mokslo daktaro, meno daktaro laipsniai. Doktorantūrą gali vykdyti doktorantūros teisę turinčios mokslo ir studijų institucijos, taip pat kitos mokslo ir studijų institucijos ir įmonės šio įstatymo 77 straipsnio 10 dalyje nurodytais atvejais. Doktorantūros teisę, tai yra teisę vykdyti doktorantūrą, organizuoti disertacijų (meno projektų) gynimą, teikti mokslo (meno) daktaro laipsnius, išduoti mokslo (meno) daktaro diplomus, suteikia švietimo ir mokslo ministras.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
- 
+7. Teisės aktų nustatytais atvejais studijos magistro kvalifikaciniam laipsniui įgyti gali būti vientisosios – apimti universitetines pirmosios ir antrosios pakopų studijas. 
 
 
 
 
-9. Universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis yra nustatomas atliekant šio įstatymo 751 straipsnio 2 dalyje nurodytą kas penkerius metus atliekamą ekspertinį mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Kolegijų taikomųjų mokslinių tyrimų ir eksperimentinės plėtros lygis yra nustatomas atliekant kas 5 metus vykdomą ekspertinį taikomųjų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimą, remiantis taikomųjų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos kokybės, ekonominio ir socialinio poveikio, veiklos perspektyvumo kriterijais, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis apskaičiuojamas nustačius mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos kokybės vertinimo balų reikšmes pagal atitinkamas mokslo (meno) kryptis ir vertinamas pagal penkių balų skalę, kur 5 balai reiškia, kad vykdomi puikaus lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 4 balai reiškia, kad vykdomi labai gero lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 3 balai reiškia, kad vykdomi gero lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 2 balai reiškia, kad vykdomų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis yra patenkinamas, 1 balas reiškia, kad vykdomi žemo lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 0 balų reiškia, kad nevykdomi moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla.
-Straipsnio dalies pakeitimai:
+8. Trečiosios pakopos studijos grindžiamos ne žemesnio kaip labai gero lygio tam tikros mokslo (meno) krypties moksliniais tyrimais ir eksperimentine plėtra ir (arba) meno veikla švietimo, mokslo ir sporto ministro nustatyta tvarka, išskyrus šio straipsnio 9 dalyje nurodytą atvejį. Asmenims, baigusiems trečiosios pakopos studijas (doktorantūrą) ir apgynusiems disertaciją, meno projektą, suteikiami mokslo daktaro, meno daktaro laipsniai. Doktorantūrą gali vykdyti doktorantūros teisę turinčios mokslo ir studijų institucijos, taip pat doktorantūros teisę turinčios mokslo ir studijų institucijos kartu su doktorantūros teisės neturinčiomis mokslo ir studijų institucijomis ar įmonėmis, įstaigomis, organizacijomis šio įstatymo 77 straipsnio 10 dalyje nurodytais atvejais. Doktorantūros teisę, tai yra teisę vykdyti doktorantūrą, organizuoti disertacijų (meno projektų) gynimą, teikti mokslo (meno) daktaro laipsnius, išduoti mokslo (meno) daktaro diplomus, suteikia švietimo, mokslo ir sporto ministras. 
+
+
+
+
+9. Universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis yra nustatomas atliekant šio įstatymo 751 straipsnio 2 dalyje nurodytą kas penkerius metus atliekamą ekspertinį mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Kolegijų taikomųjų mokslinių tyrimų ir eksperimentinės plėtros lygis yra nustatomas atliekant kas 5 metus vykdomą ekspertinį taikomųjų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimą, remiantis taikomųjų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos kokybės, ekonominio ir socialinio poveikio, veiklos perspektyvumo kriterijais, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis apskaičiuojamas nustačius mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos kokybės vertinimo balų reikšmes pagal atitinkamas mokslo (meno) kryptis ir vertinamas pagal penkių balų skalę, kur 5 balai reiškia, kad vykdomi puikaus lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 4 balai reiškia, kad vykdomi labai gero lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 3 balai reiškia, kad vykdomi gero lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 2 balai reiškia, kad vykdomų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis yra patenkinamas, 1 balas reiškia, kad vykdomi žemo lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 0 balų reiškia, kad nevykdomi moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla. Jeigu nėra nė vienos aukštosios mokyklos, kurioje įvertintos mokslo (meno) krypties moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla atitiktų šio straipsnio 5 ir 8 dalyse nustatytus reikalavimus, švietimo, mokslo ir sporto ministras Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali nustatyti vienoje ar keliose mokslo ir studijų institucijose tos mokslo (meno) krypties mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos stiprinimo priemones. Šios priemonės įgyvendinamos vadovaujantis šio įstatymo 831 straipsnio nuostatomis. Tai pačiai aukštajai mokyklai antrą kartą tos pačios mokslo (meno) krypties mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos stiprinimo priemonės  gali būti taikomos ne anksčiau kaip po 5 metų. Sudariusios specialiąsias sutartis, aukštosios mokyklos gali vykdyti studentų priėmimą į aukštąsias mokyklas studijuoti pagal tų mokslo (meno) krypčių, dėl kurių mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos stiprinimo susitarta, studijų programas. Pasibaigus sutarties galiojimo laikotarpiui, atliekamas pakartotinis tos mokslo (meno) krypties mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimas. Jeigu atlikus pakartotinį mokslo (meno) krypties mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimą paaiškėja, kad aukštosios mokyklos mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veikla neatitinka šio straipsnio 5 ir 8 dalyse nustatytų reikalavimų, aukštoji mokykla nebegali vykdyti studentų priėmimo į aukštąją mokyklą studijuoti pagal tos krypties ir pakopos studijų programą.
+
+
+
+
+10. Kartu su kvalifikaciniu laipsniu gali būti suteikiama kvalifikacija. Kvalifikaciją suteikia aukštoji mokykla, turinti kompetentingos institucijos pritarimą tai kvalifikacijai teikti. Aukštojo mokslo kvalifikacijų atitiktį Lietuvos kvalifikacijų sandaros lygiams nustato Vyriausybė.
+
+
+
+
+11. Suteikiamų kvalifikacijų ir studijų krypčių, kuriose gali būti vykdomos trumposios pakopos studijos, sąrašą tvirtina švietimo, mokslo ir sporto ministras, įvertinęs Lietuvos kolegijų direktorių konferencijos ir sektorinių profesinių komitetų, kaip jie suprantami Lietuvos Respublikos profesinio mokymo įstatyme, siūlymus.
+
+
+
+
+12. Profesinės studijos yra medicinos, odontologijos, veterinarinės medicinos studijų krypčių rezidentūra, taip pat kitų Vyriausybės nustatytų krypčių studijos.
+
+
+
+
+13. Išsilavinimo ir kvalifikacijų, susijusių su aukštuoju mokslu ir įgytų pagal užsienio valstybių ir tarptautinių organizacijų švietimo programas, akademinį pripažinimą Vyriausybės nustatyta tvarka atlieka Studijų kokybės vertinimo centras, Lietuvos mokslo taryba ir švietimo, mokslo ir sporto ministro įgaliotosios aukštosios mokyklos. Akademiniu pripažinimu laikomas kompetentingos institucijos sprendimas, kuriuo įvardijama kvalifikacijos (išsilavinimo) vertinimo metu nustatyta tos kvalifikacijos (išsilavinimo) vertė ketinant studijuoti ir (ar) dirbti Lietuvos Respublikoje. Tarptautinėse sutartyse nustatytais atvejais galimas automatinis akademinis pripažinimas. 
+
+
+
+
+14. Įgytos aukštojo mokslo kvalifikacijos priskyrimą atitinkamai studijų krypčiai, kai studijų kryptis išsilavinimo dokumentuose nenurodyta, atlieka kvalifikaciją suteikusi aukštoji mokykla, jeigu tokios mokyklos nėra arba išsilavinimas įgytas užsienyje, – konsultacijas dėl priskyrimo atitinkamai studijų krypčiai teikia Studijų kokybės vertinimo centras. 
+
+
+Straipsnio pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
  
-
-
-
-
-10. Kartu su kvalifikaciniu laipsniu gali būti suteikiama kvalifikacija. Kvalifikaciją suteikia aukštoji mokykla, turinti kompetentingos institucijos pritarimą tai kvalifikacijai teikti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
- 
-
-
-
-
-12. Profesinės studijos yra medicinos, odontologijos, veterinarinės medicinos studijų krypčių rezidentūra, taip pat kitų Vyriausybės nustatytų krypčių studijos. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
- 
-
-
-
-
-13. Išsilavinimo ir kvalifikacijų, susijusių su aukštuoju mokslu ir įgytų pagal užsienio valstybių ir tarptautinių organizacijų švietimo programas, akademinį pripažinimą Vyriausybės nustatyta tvarka atlieka Studijų kokybės vertinimo centras, Lietuvos mokslo taryba ir švietimo ir mokslo ministro įgaliotosios aukštosios mokyklos. Akademiniu pripažinimu laikomas kompetentingos institucijos sprendimas, kuriuo įvardijama kvalifikacijos (išsilavinimo) vertinimo metu nustatyta tos kvalifikacijos (išsilavinimo) vertė ketinant studijuoti ir (ar) dirbti Lietuvos Respublikoje. Tarptautinių sutarčių nustatytais atvejais galimas automatinis akademinis pripažinimas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1171, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08265
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
- 
-
-
-
-
-14. Įgytos aukštojo mokslo kvalifikacijos priskyrimą atitinkamai studijų krypčiai, kai studijų kryptis išsilavinimo dokumentuose nenurodyta, atlieka kvalifikaciją suteikusi aukštoji mokykla, jeigu tokios mokyklos nėra arba išsilavinimas įgytas užsienyje, – konsultacijas dėl priskyrimo atitinkamai studijų krypčiai teikia Studijų kokybės vertinimo centras.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
- 
-
-
 
 
 
@@ -2893,7 +2866,7 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
-2. Bendruosius studijų vykdymo reikalavimus tvirtina švietimo ir mokslo ministras.
+2. Bendruosius studijų vykdymo reikalavimus tvirtina švietimo, mokslo ir sporto ministras.
 
 
 
@@ -2903,35 +2876,32 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
-4. Nuolatinės formos studijų vienų metų įprastinė apimtis yra 60 kreditų, bet ne mažiau kaip 45 kreditai. Ištęstinės formos studijų vienų metų apimtis gali būti mažesnė kaip 45 studijų kreditai, bet bendra jų trukmė neturi būti daugiau kaip pusantro karto ilgesnė negu nuolatinės formos studijų trukmė, nuolatinėms studijoms taikant 60 studijų kreditų normą.
+4. Įprastinė nuolatinės formos studijų vienų metų apimtis yra 60 studijų kreditų, bet ne mažiau kaip 45 studijų kreditai. Ištęstinės formos studijų vienų metų apimtis gali būti mažesnė kaip 45 studijų kreditai, bet bendra jų trukmė neturi būti daugiau kaip pusantro karto ilgesnė negu nuolatinės formos studijų trukmė, nuolatinėms studijoms taikant 60 studijų kreditų normą.
 
 
 
 
-5. Trumpųjų studijų programų apimtis gali būti 90 arba 120 (studijų krypties (krypčių) apraše nustatytais atvejais) studijų kreditų.
+5. Trumposios pakopos studijų programų apimtis gali būti 90 arba 120 studijų kreditų.
 
 
 
 
-6. Pirmosios pakopos studijų programų apimtis gali būti 180, 210 arba 240 (studijų krypties (krypčių) apraše nustatytais atvejais) studijų kreditų.
+6. Pirmosios pakopos studijų programų apimtis gali būti 180, 210 arba 240 studijų kreditų.
 
 
 
 
-7. Vientisųjų studijų programos apimtis gali būti 300 arba 360 (studijų krypties (krypčių) apraše nustatytais atvejais) studijų kreditų.
+7. Vientisųjų studijų programos apimtis gali būti 300 arba 360 studijų kreditų.
 
 
 
 
-8. Magistrantūros studijų programos apimtis gali būti 60, 90 arba 120 studijų kreditų.
+8. Antrosios pakopos universitetinių studijų programos apimtis gali būti 60, 90 arba 120 studijų kreditų, koleginių studijų – 120 studijų kreditų.
 
 
 
 
 9. Profesinių studijų (išskyrus rezidentūrą) apimtis yra nuo 60 iki 120 studijų kreditų. Rezidentūros apimtį (trukmę) nustato Vyriausybė arba jos įgaliota institucija.
-Straipsnio dalies pakeitimai:
-Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
- 
 
 
 
@@ -2941,12 +2911,12 @@ Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 
-11. Numatyti pirmosios, antrosios, vientisųjų ir profesinių studijų pagal atitinkamą studijų programą rezultatai turi atitikti studijų krypties (krypčių) aprašuose atitinkamai pakopai nustatytus studijų rezultatus. Studijų pakopų ir studijų krypčių aprašus tvirtina švietimo ir mokslo ministras.
+11. Trumposios, pirmosios, antrosios pakopų, vientisųjų ir profesinių studijų programų studijų rezultatai turi derėti su tam tikros studijų krypties (krypčių, krypčių grupės) apraše nustatytais studijų rezultatais. Studijų pakopų ir studijų krypčių (krypčių, krypčių grupės) aprašus rengia Studijų kokybės vertinimo centras, juos tvirtina švietimo, mokslo ir sporto ministras.
 
 
 
 
-12. Trumpųjų studijų programos turi atitikti profesinius standartus ir atitinkamos studijų krypties aprašą, jos turi būti suderintos su profesiniais standartais ir studijų krypčių aprašais ne vėliau kaip per 12 mėnesių nuo profesinio standarto ir atitinkamos studijų krypties aprašo patvirtinimo ar pakeitimo dienos.
+12. Trumposios pakopos studijų programos turi atitikti profesinius standartus ir tam tikros studijų krypties aprašą, jos turi būti suderintos su profesiniais standartais ir studijų krypčių aprašais ne vėliau kaip per 12 mėnesių nuo profesinio standarto ir tam tikros studijų krypties aprašo patvirtinimo ar pakeitimo dienos.
 
 
 
@@ -2956,7 +2926,7 @@ Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 
-14. Studijų krypčių ir krypčių grupių, pagal kurias vyksta studijos aukštosiose mokyklose, sąrašą, jo keitimo tvarką, kvalifikacinių laipsnių sąrangos ir studijų programų pavadinimų sudarymo principus tvirtina švietimo ir mokslo ministras. Pirmosios pakopos studijų programos gali būti skirtos dviejų krypčių kvalifikaciniams laipsniams įgyti. Šiuo atveju studijų programa turi atitikti abiejų krypčių aprašuose nustatytus reikalavimus. Kai aukštoji mokykla kartu su užsienio valstybės aukštąja mokykla vykdo jungtinę studijų programą, gali būti suteikiamas ir kitas, negu įrašytas į sąrašą, kvalifikacinis laipsnis. Teisę teikti tokį kvalifikacinį laipsnį aukštajai mokyklai suteikia švietimo ir mokslo ministras.
+14. Studijų krypčių ir krypčių grupių, pagal kurias vyksta studijos aukštosiose mokyklose, sąrašą, jo keitimo tvarką, kvalifikacinių laipsnių sąrangą ir studijų programų pavadinimų sudarymo principus nustato švietimo, mokslo ir sporto ministras. Pirmosios ir antrosios pakopų studijų programos gali būti dviejų studijų krypčių. Šiuo atveju studijų programa turi atitikti abiejų krypčių aprašuose nustatytus reikalavimus. Kai aukštoji mokykla kartu su užsienio valstybės aukštąja mokykla vykdo jungtinę studijų programą, gali būti suteikiamas ir kitas, negu įrašytas į studijų krypčių ir krypčių grupių, pagal kurias vyksta studijos aukštosiose mokyklose, sąrašą, kvalifikacinis laipsnis. Teisę teikti tokį kvalifikacinį laipsnį aukštajai mokyklai suteikia švietimo, mokslo ir sporto ministras.
 
 
 
@@ -2966,29 +2936,28 @@ Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 
-16. Pagal studijų programą numatytai studentų praktikai atlikti įmonė, įstaiga ar organizacija, kurioje studentas atlieka praktiką, ir studentas bei aukštoji mokykla, kurioje jis studijuoja, sudaro praktinio mokymo sutartį. Pavyzdinę sutarties formą tvirtina švietimo ir mokslo ministras. Už studentų praktikos organizavimą atsakinga aukštoji mokykla.
+16. Pagal studijų programą numatytai studentų praktikai atlikti įmonė, įstaiga ar organizacija, kurioje studentas atlieka praktiką, studentas ir aukštoji mokykla, kurioje jis studijuoja, sudaro praktinio mokymo sutartį. Pavyzdinę sutarties formą tvirtina švietimo, mokslo ir sporto ministras. Už studentų praktikos organizavimą atsakinga aukštoji mokykla.
 
 
 
 
-17. Pagal trumpųjų studijų programą numatytai studentų praktikai realioje darbo vietoje, kaip ji suprantama Lietuvos Respublikos profesinio mokymo įstatyme, skiriama atitinkamai 30 arba 40 kreditų.
+17. Pagal trumposios pakopos, koleginių pirmosios ir antrosios pakopų studijų programas numatytam studentų praktiniam rengimui skiriama atitinkamai ne mažiau kaip trečdalis studijų programos apimties.
 
 
 
 
-18. Universitetai ir kolegijos gali vykdyti jungtines atitinkamai universitetinių ar koleginių studijų programas kartu su Lietuvos ar užsienio valstybių aukštosiomis mokyklomis. Baigus šias programas suteikiamas kvalifikacinis (kvalifikaciniai) arba jungtinis kvalifikacinis laipsnis (laipsniai). Rengiant krašto apsaugos sistemai reikalingus specialistus, jungtines studijų programas gali rengti universitetai kartu su kolegijomis, suderinę su Krašto apsaugos ministerija ir Švietimo ir mokslo ministerija.
+18. Universitetai ir kolegijos gali vykdyti jungtines atitinkamai universitetinių ar koleginių studijų programas kartu su Lietuvos ar užsienio valstybių aukštosiomis mokyklomis. Baigus šias programas suteikiamas (suteikiami) kvalifikacinis (kvalifikaciniai) arba jungtinis kvalifikacinis laipsnis (laipsniai). Rengiant krašto apsaugos sistemai reikalingus specialistus, jungtines studijų programas gali rengti universitetai kartu su kolegijomis, suderinę su Krašto apsaugos ministerija ir Švietimo, mokslo ir sporto ministerija.
 
 
 
 
-19. Trumposios pakopos studijų programas gali vykdyti kolegijos, vykdančios atitinkamos studijų krypties koleginių studijų programas.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
- 
+19. Trumposios pakopos studijų programas gali vykdyti kolegijos, vykdančios tam tikros studijų krypties koleginių studijų programas.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+Nr. XIV-2586, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08306
  
 
 
@@ -3110,15 +3079,12 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 58 straipsnis. Diplomai, diplomo priedėliai, pažymėjimai
 
 
-1. Asmenims, baigusiems trumposios pakopos studijas, išduodamas įgytą kvalifikaciją patvirtinantis diplomas. Asmenims, baigusiems koleginių studijų pirmosios pakopos programą, išduodamas profesinio bakalauro diplomas ir diplomo priedėlis. Asmenims, baigusiems pirmosios pakopos universitetinių studijų programą, išduodamas bakalauro diplomas ir diplomo priedėlis.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
- 
+1. Asmenims, baigusiems trumposios pakopos studijų programas, išduodamas įgytą kvalifikaciją patvirtinantis diplomas. Asmenims, baigusiems koleginių studijų pirmosios pakopos programą, išduodamas profesinio bakalauro diplomas ir diplomo priedėlis. Asmenims, baigusiems pirmosios pakopos universitetinių studijų programą, išduodamas bakalauro diplomas ir diplomo priedėlis.
 
 
 
 
-2. Asmenims, baigusiems vientisųjų studijų ar magistrantūros studijų programą, išduodamas magistro diplomas ir diplomo priedėlis. 
+2. Asmenims, baigusiems koleginių studijų antrosios pakopos programą, išduodamas profesinio magistro diplomas ir diplomo priedėlis. Asmenims, baigusiems universitetinių vientisųjų studijų ar magistrantūros studijų programą, išduodamas magistro diplomas ir diplomo priedėlis.
 
 
 
@@ -3128,24 +3094,22 @@ Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
 
 
 
-4. Diplomo priedėlis yra neatskiriama profesinio bakalauro, bakalauro ir magistro diplomų dalis, diplomą papildantis dokumentas, kuriame nurodomas studijų programos pavadinimas ir informacija apie pasiektus studijų rezultatus.
+4. Diplomo priedėlis yra neatskiriama profesinio bakalauro, bakalauro, profesinio magistro ir magistro diplomų dalis, diplomą papildantis dokumentas, kuriame nurodomas studijų programos pavadinimas ir informacija apie pasiektus studijų rezultatus.
 
 
 
 
 5. Asmenims, baigusiems profesines studijas ar studijų modulius, skirtus kitoms kvalifikacijoms įgyti, išduodamas studijų pažymėjimas.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
-Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
+
+
+
+
+6. Diplomų, diplomų priedėlių ir studijų pažymėjimų blankų privalomosios formos rengimo, gamybos, apskaitos, registracijos ir išdavimo tvarką nustato švietimo, mokslo ir sporto ministras.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
  
-
-
-
-
-6. Diplomų, diplomų priedėlių ir studijų pažymėjimų blankų privalomosios formos rengimo, gamybos, apskaitos, registracijos ir išdavimo tvarką nustato švietimo ir mokslo ministras. 
- 
-
-
 
 
 
