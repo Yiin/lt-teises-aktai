@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 1996-10-16 iki 1996-12-30
+Suvestinė redakcija nuo 1996-12-31 iki 1997-07-22
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
  
@@ -2597,6 +2597,23 @@ Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010IST
 
 
 3. Jeigu akcinė bendrovė išleido konvertuojamąsias obligacijas, tai jos įstatinis kapitalas gali būti didinamas išleidžiant naujas (konvertuojamųjų obligacijų išleidimo nutarime nurodytos nominalios vertės) akcijas, į kurias galėtų keisti savo konvertuojamąsias obligacijas jų savininkai. Išleidžiant konvertuojamąsias obligacijas, akcininkams turi būti sudaryta pirmumo teisė įsigyti šių obligacijų proporcingai jų turimų akcinės bendrovės akcijų skaičiui, jeigu jos įstatuose nenumatyta kitaip.
+
+
+
+
+4. Jeigu didinamas bendrovės, kurioje valstybei (savivaldybei) priklauso daugiau kaip 50 procentų visų akcijų, įstatinis kapitalas papildomais įnašais, tai valstybei (savivaldybei) priklausančių akcijų, suteikiančių teisę balsuoti visuotiniame akcininkų susirinkime, dalis po įstatinio kapitalo padidinimo visais atvejais:
+
+
+1) negali būti mažesnė kaip 70 procentų, kai iki įstatinio kapitalo padidinimo valstybei (savivaldybei) priklausė daugiau kaip 70 procentų visų akcijų;
+
+
+
+
+2) turi būti didesnė kaip 50 procentų, kai iki įstatinio kapitalo padidinimo valstybei (savivaldybei) priklausė daugiau kaip 50 procentų, bet mažiau kaip 70 procentų visų akcijų.
+
+
+Papildyta straipsnio dalimi:
+Nr. VIII-60, 1996-12-23, Žin., 1996, Nr. 126-2947 (1996-12-31), i. k. 0961010ISTA0VIII-60
  
 
 
@@ -3077,3 +3094,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo 20, 45 straipsnių pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1533, 1996-09-24, Žin., 1996, Nr. 100-2257 (1996-10-16), i. k. 0961010ISTA00I-1533
 Lietuvos Respublikos akcinių bendrovių įstatymo 20 ir 27 straipsnių pakeitimo ir papildymo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-60, 1996-12-23, Žin., 1996, Nr. 126-2947 (1996-12-31), i. k. 0961010ISTA0VIII-60
+Lietuvos Respublikos akcinių bendrovių įstatymo 43 straipsnio papildymo įstatymas
