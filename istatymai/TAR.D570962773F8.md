@@ -24,69 +24,9 @@ DIENŲ
 1997 m. liepos 3 d. Nr. VIII-397
 Vilnius
  
- 
-1 straipsnis. Atmintinos dienos
-Nustatyti šias atmintinas dienas:
-1) sausio 1-oji – Lietuvos vėliavos
-diena;
-2) sausio 13-oji – Laisvės gynėjų diena;
-3) kovo 4-oji – Lietuvos globėjo šv.
-Kazimiero diena;
-4) kovo 8-oji – Tarptautinė moterų
-solidarumo diena;
-5) kovo 20-oji – Žemės diena;
-6) kovo 29 -oji – Lietuvos įstojimo į NATO diena;
-7) balandžio 27-oji – Medicinos
-darbuotojų diena;
-8) gegužės 1-oji – Lietuvos įstojimo į
-Europos Sąjungą diena;
-9) gegužės 7-oji – Spaudos atgavimo,
-kalbos ir knygos diena;
-10) gegužės 9-oji – Europos diena;
-11) gegužės 14-oji – Pilietinio
-pasipriešinimo diena;
-12) gegužės trečiasis sekmadienis
-– Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
-13) birželio 1-oji – Tarptautinė vaikų
-gynimo diena;
-14) birželio 3-ioji – Sąjūdžio diena;
-15) birželio pirmasis sekmadienis – Tėvo
-diena;
-16) birželio 14-oji – Gedulo ir vilties
-diena;
-17) birželio 15-oji – Okupacijos ir
-genocido diena;
-18) birželio 23-ioji – Birželio sukilimo
-diena;
-19) liepos 15-oji – Žalgirio mūšio
-diena;
-20) liepos paskutinis sekmadienis –
-Jūros diena;
-21) rugpjūčio 23-ioji – Juodojo kaspino
-diena;
-22) rugpjūčio 31-oji – Laisvės diena;
-23) rugsėjo 1-oji – Mokslo ir žinių
-diena;
-24) rugsėjo 8-oji – Šilinė (Švč.
-Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už
-Lietuvos nepriklausomybės ir laisvės apgynimą diena;
-25) rugsėjo 22-oji – Baltų vienybės
-diena;
-26) rugsėjo 23-ioji – Lietuvos žydų
-genocido diena;
-27) spalio 5-oji – Tarptautinė mokytojų
-diena;
-28) spalio antrasis šeštadienis – Derliaus
-diena;
-29) spalio 25-oji – Konstitucijos diena;
-30) lapkričio 2-oji – Mirusiųjų atminimo
-(Vėlinių) diena;
-31) lapkričio 23-ioji – Lietuvos karių
-diena;
-32) lapkričio 30-oji – Mažosios Lietuvos
-prisijungimo prie Didžiosios Lietuvos akto diena;
-33) gruodžio 10-oji – Tarptautinė
-žmogaus teisių diena.
+1 straipsnis. Atmintinos dienosNustatyti šias atmintinas dienas:1) sausio 1-oji – Lietuvos vėliavos diena;2) sausio 13-oji – Laisvės gynėjų diena;3) kovo 4-oji – Lietuvos globėjo šv. Kazimiero diena;4) kovo 8-oji – Tarptautinė moterų solidarumo diena;5) kovo 20-oji – Žemės diena;6) kovo 29 -oji – Lietuvos įstojimo į NATO diena;7) balandžio 27-oji – Medicinos darbuotojų diena;8) gegužės 1-oji – Lietuvos įstojimo į Europos Sąjungą diena;9) gegužės 7-oji – Spaudos atgavimo, kalbos ir knygos diena;10) gegužės 9-oji – Europos diena;11) gegužės 14-oji – Pilietinio pasipriešinimo diena;12) gegužės 15-oji – Tarptautinė šeimos diena;13) gegužės trečiasis sekmadienis – Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;14) birželio 1-oji – Tarptautinė vaikų gynimo diena;15) birželio 3-ioji – Sąjūdžio diena;16) birželio pirmasis sekmadienis – Tėvo diena;17) birželio 14-oji – Gedulo ir vilties diena;18) birželio 15-oji – Okupacijos ir genocido diena;19) birželio 23-ioji – Birželio sukilimo diena;20) liepos 15-oji – Žalgirio mūšio diena;21) liepos paskutinis sekmadienis – Jūros diena;22) rugpjūčio 23-ioji – Juodojo kaspino diena;23) rugpjūčio 31-oji – Laisvės diena;24) rugsėjo 1-oji – Mokslo ir žinių diena;25) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;26) rugsėjo 22-oji – Baltų vienybės diena;27) rugsėjo 23-ioji – Lietuvos žydų genocido diena;28) rugsėjo 27-oji – Lietuvos socialinių darbuotojų diena;29) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena;30) spalio 5-oji – Tarptautinė mokytojų diena;31) spalio antrasis šeštadienis – Derliaus diena;32) spalio 25-oji – Konstitucijos diena;33) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena;34) lapkričio 23-ioji – Lietuvos karių diena;35) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
+36) gruodžio
+10-oji – Tarptautinė žmogaus teisių diena.
 Straipsnio
 pakeitimai:
 Nr. VIII-815,
@@ -113,11 +53,12 @@ Nr. IX-1699,
 2003-07-04, Žin., 2003, Nr. 74-3420 (2003-07-25)
 Nr. IX-2099,
 2004-04-01, Žin., 2004, Nr. 55-1890 (2004-04-16)
- 
+Nr.
+IX-2442,
+2004-09-14, Žin., 2004, Nr. 141-5159 (2004-09-21)
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
- 
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS
 BRAZAUSKAS
@@ -209,11 +150,19 @@ IX-2099,
 ATMINTINŲ
 DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-2442,
+2004-09-14, Žin., 2004, Nr. 141-5159 (2004-09-21)
+ATMINTINŲ
+DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-04-16)
+Aušrinė Trapinskienė (2004-09-21)
                  
 autrap@lrs.lt
