@@ -13,52 +13,59 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.03086D82AE1F"
 
 # Lietuvos Respublikos pinigų įstatymas
 
-Redaguota: 1994
+@D1=19930701;D2=19960328;D3=19960422
 
+@D1=19930701;D2=19960328;D3=19960422
+Pakeitimai:
+ 1.
+ Parlamentas,
+Įstatymas
+{#94CKAA0431 ;} Nr.
+1-431, 94.04.12, Žin., 1994, Nr. 30-532 (94.04.22)
+ DĖL LIETUVOS
+RESPUBLIKOS PINIGŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
  
-     Redaguota:
-1994.10.24.
-     Pakeitimai: 
-1.Lietuvos
-Respublikos 1994 04 12
-įstatymas Nr. 1-431;
-Žin., 1994,
-Nr.30-532
-Dėl Lietuvos
-Respublikos pinigų
-įstatymo pakeitimo
-ir papildymo
-      2.Lietuvos
-Respublikos 1994 10 12
-      įstatymas Nr.
-1-603;
-      Žin., 1994,
-Nr.81-1516
-      Dėl Lietuvos
-Respublikos pinigų
-      įstatymo 4
-straipsnio pakeitimo
+ 2.
+ Parlamentas,
+Įstatymas
+{#94IKAA0603 ;} Nr.
+1-603, 94.10.12, Žin., 1994, Nr. 81-1516 (94.10.19)
+ DĖL LIETUVOS
+RESPUBLIKOS PINIGŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+ 
+ 3.
+ Parlamentas,
+Įstatymas
+{#96B[AA1258 ;} Nr.
+1-1258, 96.03.28, Žin., 1996, Nr. 35-865 (96.04.19)
+ LIETUVOS
+RESPUBLIKOS PINIGŲ ĮSTATYMO 3 STRAIPSNIO PAPILDYMO IR
+ PAKEITIMO ĮSTATYMAS
+ 
+ *** Pabaiga ***
+ 
  
                      
 LIETUVOS RESPUBLIKOS
- 
                             
 PINIGŲ
- 
                            
 ĮSTATYMAS
  
+ 
                  
 1993 m. liepos 1 d. Nr.I-199
-                             Vilnius
+                             Vilnius
+ 
  
      1 straipsnis.
 Piniginis vienetas
+ 
      Lietuvos
-Respublikos   piniginis  vienetas  yra  litas, kurį
+Respublikos  piniginis  vienetas  yra  litas,  kurį
 sudaro 100 centų.
      Grynieji
-pinigai   yra litų  banknotai ir  monetos bei centų
+pinigai  yra litų  banknotai ir  monetos bei  centų
 monetos.
      Lietuvos
 bankas  nustato banknotų bei monetų vertę, taip pat
@@ -66,108 +73,115 @@ jų dizainą.
  
      2 straipsnis.
 Emisija
+ 
      Lietuvos
 bankui  priklauso išimtinė teisė išleisti ar išimti
 iš apyvartos  litus
 Lietuvos Respublikos lito patikimumo įstatymo
 nustatyta tvarka.
-      Pakeitimas :
-      1.Lietuvos
-Respublikos 1994 04 12
-      įstatymas Nr.
-1-431;
-      Žin., 1994,
-Nr.30-532
+ 
+Straipsnio
+pakeitimai:
+{#94CKAA0431 ;}Nr.
+1-431, 94.04.12, Žin., 1994, Nr. 30-532
  
      3 straipsnis.
 Mokėjimo ir atsiskaitymo priemonė
+ 
      Vienintelė 
 teisėta   mokėjimo  ir   atsiskaitymo   priemonė
 Lietuvos
 Respublikoje yra litas. Juridiniai bei fiziniai asmenys,
-esantys  
-Lietuvos    Respublikoje,    neturi    teisės    vidaus
+esantys   Lietuvos  
+ Respublikoje,    neturi    teisės    vidaus
 atsiskaitymams
 naudoti kitos mokėjimo priemonės, išskyrus litą.
+     Laisvosiose   
+ekonominÓse  zonose  atsiskaitoma  gali  b×ti
+litais ir
+konvertuojama uŲsienio ÕaliÖ valiuta.
      Įvedus litą, 
 visi finansiniai  aktai, skolų ir pasižadėjimų
 dokumentai bei 
-sutartys, mokėjimai  ir atsiskaitymai   atliekami
+sutartys, mokėjimai  ir  atsiskaitymai  atliekami
 litais.
      Lietuvos
 bankas,  kiti Lietuvos  Respublikos bankai, kredito
-įstaigos   bei  
-kiti  juridiniai  asmenys  privalo be apribojimų
-priimti Lietuvos
-Respublikos teisėtą mokėjimo priemonę - litus.
+įstaigos  bei  kiti 
+juridiniai  asmenys  privalo  be  apribojimų
+priimti Lietuvos Respublikos
+teisėtą mokėjimo priemonę - litus.
+ 
+Straipsnio
+pakeitimai:
+{#96B[AA1258 ;} Nr.
+1-1258, 96.03.28, Žin., 1996, Nr. 35-865 (96.04.19)
  
      4 straipsnis.
 Lito kursas
-     Oficialus lito  kursas
-nustatomas  parinktos bazine valiutos
+ 
+     Oficialus lito 
+kursas nustatomas  parinktos bazine valiutos
 atžvilgiu.
-     Bazinę
-valiutą   ir oficialų  lito kursą  nustato  ir keičia
-Lietuvos bankas Lito
+     Bazinę 
+valiutą  ir oficialų  lito  kursą  nustato  Lietuvos
+bankas Lito
 patikimumo įstatymo nustatyta tvarka.
-     Lito ir   kitų 
-užsienio  valiutų santykius  pagal vidaus ir
-pasaulio   valiutų  
-rinkų  kursus  nustato  ir  skelbia Lietuvos
+     Lito ir  kitų
+užsienio  valiutų santykius  pagal  vidaus  ir
+pasaulio  valiutų  
+rinkų  kursus  nustato  ir  skelbia  Lietuvos
 bankas.
-      Pakeitimai :
-      1.Lietuvos
-Respublikos 1994 04 12
-      įstatymas Nr.
-1-431;
-      Žin., 1994,
-Nr.30-532
-2.Lietuvos
-Respublikos 1994 10 12
-įstatymas Nr. 1-603;
-Žin., 1994,
-Nr.81-1516
+ 
+Straipsnio
+pakeitimai:
+{#94CKAA0431 ;}Nr.
+1-431, 94.04.12, Žin., 1994, Nr. 30-532
+{#94IKAA0603 ;} Nr.
+1-603, 94.10.12, Žin., 1994, Nr. 81-1516 (94.10.19)
  
      5 straipsnis.
 Litų keitimas
-     Litus  į    
-užsienio  valiutą  keičia  tik  Lietuvos  banke
+ 
+     Litus  į  
+užsienio  valiutą   keičia  tik   Lietuvos  banke
 įregistruotos  
-kredito įstaigos,    turinčios  Lietuvos    banko
+kredito   įstaigos,   turinčios   Lietuvos  banko
 išduotus leidimus
 operacijoms užsienio valiuta atlikti.
      Valiutų, 
 privalomai   keičiamų  į   litus,  sąrašą  nustato
 Lietuvos bankas.
-      Pakeitimas :
-      1.Lietuvos
-Respublikos 1994 04 12
-      įstatymas Nr.
-1-431;
-      Žin., 1994,
-Nr.30-532
+ 
+Straipsnio
+pakeitimai:
+{#94CKAA0431 ;}Nr.
+1-431, 94.04.12, Žin., 1994, Nr. 30-532
  
      6 straipsnis.
 Informacija apie lito patikimumą
+ 
      Lietuvos
-bankas   ne rečiau  kaip  kartą  per  mėnesį viešai
+bankas  ne rečiau  kaip  kartą  per  mėnesį  viešai
 praneša apie  turimo
-aukso  atsargas ir   konvertuojamos užsienio
+aukso  atsargas ir  konvertuojamos  užsienio
 valiutos rezervą,
 taip pat apie litų kiekį, esantį apyvartoje.
  
      7 straipsnis.
 Susidėvėję ir sugadinti pinigai
+ 
      Susidėvėjusius
-ir   sugadintus  Lietuvos  Respublikos pinigų
+ir  sugadintus  Lietuvos  Respublikos  pinigų
 banknotus bei 
 monetas priima  ir keičia  Lietuvos bankas ir kiti
 bankai.
  
      8 straipsnis.
-Atsakomybė už netikrų litų ar centų gaminimą,
-laikymą arba
-paleidimą apyvarton
+Atsakomybė už netikrų litų ar centų
+                   
+gaminimą, laikymą arba paleidimą apyvarton
+ 
      Netikrų litų 
 ar centų  gaminimas, laikymas  arba paleidimas
 apyvarton baudžiamas
@@ -175,13 +189,19 @@ pagal Lietuvos Respublikos įstatymus.
  
      9 straipsnis.
 Įstatymo įsigaliojimas
+ 
      Šis įstatymas
 įsigalioja nuo 1993 m. rugpjūčio 1 dienos.
+ 
+ 
      Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS
-PREZIDENTAS            ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
+ 
+ 
 _
 
