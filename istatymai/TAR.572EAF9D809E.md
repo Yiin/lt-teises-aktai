@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.572EAF9D809E"
 
 # Dėl Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamento nuostatų patvirtinimo
 
-Suvestinė redakcija nuo 1993-05-28 iki 1998-07-07
+Suvestinė redakcija nuo 1998-07-08 iki 2002-11-21
  
 Įstatymas paskelbtas: , i. k. 0911010ISTA00I-1706
  
@@ -79,17 +79,19 @@ Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA00
 
 3 straipsnis
  
-Vadovybės apsaugos departamentas yra ginkluotas ir, vykdydamas šių nuostatų 7 straipsnyje nurodytas funkcijas, vadovaujasi Lietuvos Respublikos Laikinuoju Pagrindiniu Įstatymu (Konstitucija) ir kitais įstatymais, SNO Teisėtvarkos apsaugos pareigūnų elgesio kodeksu, šiais nuostatais bei pareiginėmis instrukcijomis.
+Vadovybės apsaugos departamentas yra ginkluotas ir, vykdydamas šių nuostatų 7 straipsnyje nurodytas funkcijas, vadovaujasi Lietuvos Respublikos Konstitucija ir kitais įstatymais, JTO Teisėtvarkos apsaugos pareigūnų elgesio kodeksu, šiais nuostatais bei pareiginėmis instrukcijomis.
 Straipsnio pakeitimai:
 Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA000I-153
+Nr. VIII-790, 1998-06-16, Žin., 1998, Nr. 61-1727 (1998-07-08), i. k. 0981010ISTAVIII-790
  
 
 4 straipsnis
  
 Savo veikloje Vadovybės apsaugos departamentas vadovaujasi demokratijos, humanizmo, teisėtumo, socialinio teisingumo, valstybinės ir profesinės paslapties saugojimo principais.
-Vadovybės apsaugos departamente draudžiama politinių partijų ir visuomeninių politinių organizacijų ar judėjimų veikla.
+Vadovybės apsaugos departamente draudžiama politinių partijų ir politinių organizacijų veikla.
 Straipsnio pakeitimai:
 Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA000I-153
+Nr. VIII-790, 1998-06-16, Žin., 1998, Nr. 61-1727 (1998-07-08), i. k. 0981010ISTAVIII-790
  
 
 5 straipsnis
@@ -253,9 +255,10 @@ Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA00
 
 22 straipsnis
  
-Vadovybės apsaugos departamento pareigūnai tarnyboje dėvi Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo patvirtinto pavyzdžio uniformą su skiriamaisiais Vadovybės apsaugos departamento tarnybos ženklais ir emblemomis. Vadovybės apsaugos departamento pareigūnai, eidami tarnybines pareigas, uniformos nedėvi Vadovybės apsaugos departamento vadovo numatytais atvejais.
+Vadovybės apsaugos departamento pareigūnai tarnyboje dėvi nustatyto pavyzdžio uniformą.
 Straipsnio pakeitimai:
 Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA000I-153
+Nr. VIII-790, 1998-06-16, Žin., 1998, Nr. 61-1727 (1998-07-08), i. k. 0981010ISTAVIII-790
  
 
 23 straipsnis
@@ -287,17 +290,20 @@ Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA00
 
 25 straipsnis
  
-Vadovybės apsaugos departamento pareigūnai turi Lietuvos Respublikos Laikinajame Pagrindiniame Įstatyme (Konstitucijoje) ir kituose įstatymuose įtvirtintas socialines, ekonomines, politines ir asmenines Lietuvos Respublikos piliečių teises bei pareigas.
+Vadovybės apsaugos departamento pareigūnai turi Lietuvos Respublikos Konstitucijoje ir kituose įstatymuose įtvirtintas socialines, ekonomines, politines ir asmenines Lietuvos Respublikos piliečių teises bei pareigas.
 Straipsnio pakeitimai:
 Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA000I-153
+Nr. VIII-790, 1998-06-16, Žin., 1998, Nr. 61-1727 (1998-07-08), i. k. 0981010ISTAVIII-790
  
 
 26 straipsnis
  
 Vadovybės apsaugos departamento pareigūnai savo profesiniams, kultūriniams ir socialiniams poreikiams tenkinti gali steigti draugijas, klubus ir kitokius susivienijimus, kurių veiklą reglamentuoja įstatymų nustatyta tvarka įregistruoti įstatai (nuostatai).
-Vadovybės apsaugos departamento pareigūnams draudžiama streikuoti. Vadovybės apsaugos departamento pareigūnai negali būti politinių partijų ir kitų visuomeninių politinių organizacijų ar judėjimų nariais.
+Vadovybės apsaugos departamento pareigūnams draudžiama streikuoti. 
+Vadovybės apsaugos departamento pareigūnai negali būti politinių partijų ir politinių organizacijų nariais.
 Straipsnio pakeitimai:
 Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA000I-153
+Nr. VIII-790, 1998-06-16, Žin., 1998, Nr. 61-1727 (1998-07-08), i. k. 0981010ISTAVIII-790
  
 
 27 straipsnis
@@ -368,15 +374,15 @@ Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA00
 Vadovybės apsaugos departamento pareigūnai, vykdydami pastatų apsaugos funkcijas, turi šias specialiąsias teises:
 1) atlikdami tarnybines pareigas, turėti ir įstatymų numatytais atvejais panaudoti šaunamąjį ginklą ir specialiąsias priemones;
 2) apriboti įėjimą ar buvimą tam tikroje teritorijoje ir patalpose bei sustabdyti vykdomus darbus, apriboti ar uždrausti transporto eismą;
-3) teritorijoje, priklausančioje Aukščiausiosios Tarybos pastatų aplinkai, sustabdyti transporto priemones, tikrinti vairuotojo, transporto priemonių bei krovinių dokumentus. Nušalinti nuo vairavimo asmenis, keliančius grėsmę saugomiems objektams, jei įtariama, jog tie asmenys yra apsvaigę nuo alkoholio ar narkotikų, paveikti vaistų ar neturi teisės vairuoti. Naudoti norminiuose aktuose numatytas priemones apsvaigimui nustatyti arba įtariamus vairuotojus pristatyti į medicinos įstaigą.
-Atsisakymas vykti į medicinos įstaigą apsvaigimo laipsniui nustatyti laikomas neginčytinu apsvaigimo būklės fakto patvirtinimu.
+3) teritorijoje, priklausančioje Seimo pastatų aplinkai, sustabdyti transporto priemones, tikrinti vairuotojo, transporto priemonių bei krovinių dokumentus. 
 Straipsnio pakeitimai:
 Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA000I-153
+Nr. VIII-790, 1998-06-16, Žin., 1998, Nr. 61-1727 (1998-07-08), i. k. 0981010ISTAVIII-790
  
 
-33 straipsnis
- 
-Vadovybės apsaugos departamento pareigūnas privalo besąlygiškai vykdyti Aukščiausiosios Tarybos Pirmininko nurodymus ir įsakymus. Jeigu Vadovybės apsaugos departamento pareigūnas gauna įsakymą ar nurodymą, prieštaraujantį įstatymams, jis turi vadovautis įstatymais, o apie neteisėtą įsakymą ar nurodymą pranešti Vadovybės apsaugos departamento vadovui ar Aukščiausiosios Tarybos institucijoms, kontroliuojančioms Vadovybės apsaugos departamentą.
+33 straipsnis. Neteko galios nuo 1998-07-08
+Straipsnio naikinimas:
+Nr. VIII-790, 1998-06-16, Žin. 1998, Nr. 61-1727 (1998-07-08), i. k. 0981010ISTAVIII-790
 Straipsnio pakeitimai:
 Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA000I-153
  
@@ -495,4 +501,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-153, 1993-05-18, Žin., 1993, Nr. 17-427 (1993-05-28), i. k. 0931010ISTA000I-153
 Dėl Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamento
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-790, 1998-06-16, Žin., 1998, Nr. 61-1727 (1998-07-08), i. k. 0981010ISTAVIII-790
+Lietuvos Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamento nuostatų 3, 4, 22, 25, 26, 32 straipsnių pakeitimo ir 33 straipsnio pripažinimo netekusiu galios įstatymas
 
