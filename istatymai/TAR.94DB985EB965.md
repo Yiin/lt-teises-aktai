@@ -13,33 +13,41 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 1997-07-23 iki 2000-03-28
+Suvestinė redakcija nuo 2003-01-01 iki 2004-05-10
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
  
-LIETUVOS RESPUBLIKOS  KOOPERATINIŲ BENDROVIŲ (KOOPERATYVŲ)  ĮSTATYMAS 
+TAR pastaba. Kooperatinės bendrovės turi suderinti savo įstatus pagal šį Įstatymą per metus nuo šio Įstatymo įsigaliojimo (2003-01-01).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-903, 2002-05-28, Žin., 2002, Nr. 57-2296 (2002-06-12), i. k. 1021010ISTA00IX-903
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo pakeitimo įstatymas
+ 
+Nauja redakcija nuo 2003-01-01:
+Nr. IX-903, 2002-05-28, Žin. 2002, Nr. 57-2296 (2002-06-12), i. k. 1021010ISTA00IX-903
+ 
+LIETUVOS RESPUBLIKOS KOOPERATINIŲ BENDROVIŲ (KOOPERATYVŲ)  ĮSTATYMAS
  
 1993 m. birželio 1 d. Nr. I-164
 Vilnius
  
-Pakeistas teisės akto pavadinimas:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+
+
+PIRMASIS SKIRSNIS
+BENDROSIOS NUOSTATOS
+ 
+Lietuvos valstybė palaiko kooperatinį judėjimą, pripažįsta kooperatinių bendrovių (kooperatyvų) (toliau – kooperatinių bendrovių) svarbiausiu tikslu paslaugų teikimą savo nariams, skatina kooperatinių bendrovių veiklą, įteisina jų nepriklausomumą.
  
 
 
-I SKIRSNIS. 
-BENDROJI DALIS
  
 
 
-Lietuvos valstybė palaiko kooperacijos judėjimą, skatina kooperacijos veiklą, įteisina kooperatinių bendrovių (kooperatyvų) nepriklausomumą.
- 
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas reglamentuoja kooperacijos judėjimą, kooperatinių bendrovių (kooperatyvų) ir jų sąjungų (asociacijų) steigimą, veiklos pagrindus, reorganizavimą, valdymą, kapitalo formavimą, pelno paskirstymą, likvidavimą.
+Šis Įstatymas reglamentuoja kooperatinių bendrovių ir jų sąjungų steigimą, veiklą, narių teises ir pareigas, kooperatinių bendrovių valdymą ir kontrolę, kapitalo sudarymą, pelno paskirstymą, reorganizavimą, pertvarkymą ir likvidavimą.
  
 
 
@@ -47,15 +55,40 @@ Lietuvos valstybė palaiko kooperacijos judėjimą, skatina kooperacijos veiklą
 
 
 
-2 straipsnis. Kooperacija ir kooperatinės bendrovės
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-Kooperacija – tai įstatymu pagrįstas pastangų ir išteklių sutelkimas jos dalyvių bendriems tikslams įgyvendinti. Tuo tikslu gali būti steigiamos kooperatinės bendrovės (kooperatyvai).
+1. Kooperacija – įstatymu pagrįstas veiklos ir išteklių sutelkimas dalyvių bendriems tikslams įgyvendinti. Tuo tikslu gali būti steigiamos kooperatinės bendrovės.
 
 
 
 
-Kooperatinė bendrovė – tai grupės fizinių arba fizinių ir juridinių asmenų (toliau – narių) savanoriškai įsteigtas ūkinis subjektas, kurio kapitalo ir narių sudėtis yra kintama, skirtas narių ekonominiams, ūkiniams ir socialiniams poreikiams tenkinti, veikiantis narių iniciatyva ir rizika.
+2. Kooperatinė bendrovė – įstatymų nustatyta tvarka fizinių ir (arba) juridinių asmenų įsteigta įmonė, skirta narių ekonominiams, socialiniams bei kultūriniams poreikiams tenkinti. Jos nariai įneša lėšas kapitalui sudaryti, tarpusavyje pasiskirsto riziką bei naudą pagal narių prekių ir paslaugų apyvartą su šia bendrove ir aktyviai dalyvauja kooperatinės bendrovės valdyme.
+
+
+
+
+3. Pajaus vardinis dokumentas – dokumentas, patvirtinantis asmens dalyvavimą sudarant kooperatinės bendrovės kapitalą ir šio Įstatymo nustatytus kooperatinės bendrovės įsipareigojimus kooperatinės bendrovės nariui. Kooperatinės bendrovės pajams Vertybinių popierių rinkos įstatymas netaikomas.
+
+
+
+
+4. Pajinis įnašas – asmens piniginis arba nepiniginis turtinis įnašas į kooperatinę bendrovę.
+
+
+
+
+5. Kooperatinės bendrovės nario prekių ir paslaugų apyvarta su kooperatine bendrove (toliau – apyvarta) – finansiniais metais kooperatinės bendrovės nario su kooperatine bendrove įvykdytų ūkinių operacijų ir ūkinių įvykių, išreikštų pinigais, vertė.
+
+
+
+
+6. Apyvartai proporcingos išmokos – išmokos kooperatinės bendrovės nariams iš pelno, mokamos proporcingai kooperatinės bendrovės narių prekių ir paslaugų apyvartai su kooperatine bendrove.
+
+
+
+
+7. Dividendas – kooperatinės bendrovės nariams išmokama pelno dalis, skirstoma proporcingai kiekvieno nario turimo pajaus dydžiui. 
  
 
 
@@ -66,24 +99,27 @@ Kooperatinė bendrovė – tai grupės fizinių arba fizinių ir juridinių asme
 3 straipsnis. Kooperatinės bendrovės statusas
 
 
-Kooperatinė bendrovė yra juridinis asmuo ir gali užsiimti veikla, kurios nedraudžia Lietuvos Respublikos įstatymai.
+1. Kooperatinė bendrovė yra ribotos civilinės atsakomybės juridinis asmuo.
 
 
 
 
-Pagal savo prievoles kooperatinė bendrovė yra ribotos turtinės atsakomybės ūkinis subjektas, kuris atsako tik turimu turtu ir neatsako už savo narių prievoles, nesusijusias su kooperatinės bendrovės veikla.
+2. Kooperatinės bendrovės turtas yra atskirtas nuo jos narių turto. Kooperatinė bendrovė pagal savo prievoles atsako tik savo turtu. Kooperatinės bendrovės narys pagal kooperatinės bendrovės prievoles atsako už pajų priklausančiu įmokėti pajiniu įnašu.
 
 
 
 
-Kooperatinė bendrovė turi savo pavadinimą, kuris turi skirtis nuo Lietuvos Respublikoje įregistruotų įmonių pavadinimų. Jos pavadinime turi būti žodžiai „kooperatinė bendrovė“ arba „kooperatyvas“, taip pat žodžiai, nurodantys bendrovės veiklos pobūdį. Ginčus dėl bendrovės pavadinimo sprendžia teismas.
+3. Kooperatinė bendrovė turi ne mažiau kaip 5 narius.
 
 
 
 
-Kooperatinę bendrovę sudaro ne mažiau kaip trys fiziniai arba fiziniai ir juridiniai asmenys. 
-Straipsnio dalies pakeitimai:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+4. Kooperatinė bendrovė turi savo pavadinimą. Pavadinime turi būti žodžiai „kooperatinė bendrovė“ arba „kooperatyvas“.
+
+
+
+
+5. Kooperatinės bendrovės buveinė yra Lietuvos Respublikoje.
  
 
 
@@ -93,17 +129,100 @@ Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA00
 
 
 
-
-
-II SKIRSNIS. 
+ANTRASIS SKIRSNIS
 KOOPERATINIŲ BENDROVIŲ STEIGIMAS IR JŲ TEISĖS
  
 
 
-4 straipsnis. Steigėjai
+4 straipsnis. Steigėjai ir steigimo sutartis
 
 
-Kooperatinės bendrovės steigėjais gali būti ne mažiau kaip penki Lietuvos Respublikos piliečiai, sukakę 18 metų, arba piliečiai ir juridiniai asmenys, įregistruoti Lietuvoje.
+1. Kooperatinės bendrovės steigėjai turi būti ne mažiau kaip 5 fiziniai ir (ar) juridiniai asmenys.
+
+
+
+
+2. Kiekvienas kooperatinės bendrovės steigėjas privalo tapti jos nariu.
+
+
+
+
+3. Kooperatinės bendrovės steigėjai sudaro kooperatinės bendrovės steigimo sutartį, parengia kooperatinės bendrovės įstatų projektą, sušaukia steigiamąjį susirinkimą. Steigimo sutartis yra viešas dokumentas.
+
+
+
+
+4. Kooperatinės bendrovės steigimo sutartyje nurodoma:
+
+
+1) steigėjų fizinių asmenų – vardas, pavardė, asmens kodas ir gyvenamoji vieta; steigėjų juridinių asmenų – pavadinimas, kodas, buveinė ir jų įgaliotų atstovų vardai ir pavardės;
+
+
+
+
+2) steigėjų teisės ir pareigos steigiant kooperatinę bendrovę, jų atsakomybė už steigimo įsipareigojimų nevykdymą;
+
+
+
+
+3) steigiamos kooperatinės bendrovės pavadinimas;
+
+
+
+
+4) asmenys (steigėjai, taip pat kiti asmenys), įgalioti atstovauti steigiamai kooperatinei bendrovei, jų teisės ir pareigos;
+
+
+
+
+5) stojamojo mokesčio, minimalaus ir maksimalaus pajų dydžiai; 
+
+
+
+
+6) kiekvieno steigėjo įsipareigojimas iki steigiamojo susirinkimo sumokėti stojamąjį mokestį ir įnešti pajinį įnašą, ne mažesnį už minimalų pajaus dydį;
+
+
+
+
+7) stojamojo mokesčio ir pajinio įnašo įmokėjimo tvarka, sąlygos ir terminai, delspinigiai už nustatytu laiku nesumokėtą stojamąjį mokestį ir pajinį įnašą;
+
+
+
+
+8) steigiamojo susirinkimo sušaukimo ir balsavimo jame tvarka, jo dalyviai;
+
+
+
+
+9) steigimo išlaidų kompensavimas ir atlyginimas už steigimą;
+
+
+
+
+10) įmokėtų stojamųjų mokesčių ir pajinių įnašų grąžinimo tvarka, jei kooperatinė bendrovė neįsteigiama;
+
+
+
+
+11) ginčų tarp steigėjų sprendimo tvarka;
+
+
+
+
+12) sutarties sudarymo data ir vieta.
+
+
+
+
+
+
+5. Kooperatinės bendrovės steigimo sutartį privalo pasirašyti visi steigėjai: fiziniai asmenys ir (arba) juridinių asmenų įgalioti asmenys. Kooperatinės bendrovės steigimo sutartį pasirašiusių fizinių asmenų parašų tikrumas turi būti patvirtintas notaro.
+
+
+
+
+6. Kooperatinės bendrovės steigimo sutartis, sudaryta šiame straipsnyje nustatyta tvarka, suteikia teisę atidaryti kaupiamąją steigiamos kooperatinės bendrovės sąskaitą Lietuvos Respublikoje įregistruotame banke.
  
 
 
@@ -114,92 +233,87 @@ Kooperatinės bendrovės steigėjais gali būti ne mažiau kaip penki Lietuvos R
 5 straipsnis. Įstatai
 
 
-Kooperatinės bendrovės teisinis pagrindas yra šis įstatymas ir bendrovės įstatai, kuriuos parengia steigėjai ir priima steigiamajame susirinkime. Pagal šį įstatymą gali būti steigiamos pelno siekiančios ir jo nesiekiančios kooperatinės bendrovės.
+1. Kooperatinės bendrovės steigimo dokumentai yra įstatai ir steigimo sutartis.
 
 
 
 
-Įstatus pasirašo visi kooperatinės bendrovės steigėjai. Įstatai tvirtinami notariškai.
+2. Kooperatinės bendrovės įstatai yra dokumentas, kuriuo kooperatinė bendrovė vadovaujasi savo veikloje.
 
 
 
 
-Kooperatinės bendrovės įstatuose turi būti nurodyta:
+3. Kooperatinės bendrovės įstatuose turi būti nurodyta:
 
 
-1) kooperatinės bendrovės pavadinimas (firmos vardas), buveinės adresas;
+1) kooperatinės bendrovės pavadinimas, buveinė;
 
 
 
 
-2) kooperatinės bendrovės tikslas, ekonominės, ūkinės ar socialinės veiklos pobūdis;
+2) kooperatinės bendrovės veiklos tikslai;
 
 
 
 
-3) veiklos trukmė, jei numatoma laikina kooperatinės bendrovės veikla;
+3) kooperatinės bendrovės veiklos laikotarpis, jei jis yra ribotas;
 
 
 
 
-4) stojamojo mokesčio ir pajaus dydis, įmokėjimo ir disponavimo juo tvarka, nepiniginių (turtinių) pajų įvertinimo tvarka;
+4) stojamojo mokesčio, minimalaus ir maksimalaus pajų dydžiai, stojamojo mokesčio ir pajinio įnašo, papildomų pajinių įnašų įmokėjimo, nepiniginio pajinio įnašo įvertinimo tvarka;
 
 
 
 
-5) kapitalo sudėtis, priklausomybė ir formavimas (įstatinio kapitalo dydis nenurodomas);
+5) narystės kooperatinėje bendrovėje sąlygos, kooperatinės bendrovės narių teisės ir pareigos, disponavimo pajumi tvarka;
 
 
 
 
-6) kooperatinės bendrovės steigėjų vardai ir pavardės bei jų adresai, o juridinių asmenų – pavadinimai ir adresai;
+6) kooperatinės bendrovės valdymo ir kontrolės organai, jų kompetencija, rinkimo ir atšaukimo tvarka, reikalavimai valdybos nariui, jos pirmininkui, administracijos vadovui, revizijos komisijos nariui (revizoriui);
 
 
 
 
-7) narystės sąlygos, narių teisės ir pareigos, jų atsakomybė pagal kooperatinės bendrovės prievoles;
+7) priėmimo į kooperatinės bendrovės narius, išstojimo ir pašalinimo iš kooperatinės bendrovės narių sąlygos ir tvarka, kooperatinės bendrovės narių registravimo kooperatinės bendrovės narių registre tvarka;
 
 
 
 
-8) valdymo ir kontrolės organai, jų rinkimo tvarka, teisės ir pareigos;
+8) kooperatinės bendrovės narių susirinkimo šaukimo ir balsavimo jame tvarka;
 
 
 
 
-9) įstojimo į kooperatinę bendrovę, išstojimo ir pašalinimo iš jos tvarka;
+9) kooperatinės bendrovės bei jos narių prekių ir paslaugų apyvartos operacijų registravimo ir atlikimo tvarka, kooperatinės bendrovės metinės finansinės atskaitomybės sudarymo ir tvirtinimo tvarka;
 
 
 
 
-10) narių ar įgaliotinių susirinkimų šaukimo ir balsavimo juose tvarka;
+10) pelno (nuostolio) paskirstymo ir tvirtinimo tvarka;
 
 
 
 
-11) atskaitomybės sudarymo, tikrinimo ir priėmimo tvarka;
+11) lėšų skolinimosi iš savo narių tvarka;
 
 
 
 
-12) pelno ir nuostolių paskirstymo tvarka;
+12) kooperatinės bendrovės turto ir teikiamų paslaugų naudojimo sąlygos ir tvarka.
 
 
 
 
-13) kooperatinės bendrovės likvidavimo tvarka.
 
 
+4. Kooperatinės bendrovės įstatuose gali būti ir kitų Lietuvos Respublikos įstatymams neprieštaraujančių nuostatų.
 
 
 
 
-Įstatuose gali būti ir kitų Lietuvos Respublikos įstatymams neprieštaraujančių straipsnių, įteisinančių kooperatinės bendrovės veiklos pobūdį ir nustatančių narių turtinius ir kitus santykius bei kooperatinės bendrovės santykius su trečiaisiais asmenimis.
-
-
-
-
-Įstatų pakeitimai ir papildymai įsigalioja nuo jų perregistravimo dienos.
+5. Kooperatinės bendrovės įstatus iki steigiamojo susirinkimo privalo pasirašyti visi steigėjai fiziniai asmenys ir (arba) juridinių asmenų įgalioti asmenys. Kooperatinės bendrovės įstatus pasirašiusio fizinio asmens parašo tikrumas turi būti patvirtintas notaro.
  
 
 
@@ -210,93 +324,17 @@ Kooperatinės bendrovės įstatuose turi būti nurodyta:
 6 straipsnis. Registravimas
 
 
-Kooperatinė bendrovė registruojama aukštesniosios pakopos savivaldybėje Lietuvos Respublikos įmonių rejestro įstatyme nustatyta tvarka. Įstatinio kapitalo dydis įmonių rejestre neregistruojamas.
+1. Kooperatinė bendrovė įstatymų nustatyta tvarka turi būti įregistruota juridinių asmenų registre. Steigiamą kooperatinę bendrovę įregistravus, ji laikoma įsteigta ir įgyja juridinio asmens teises.
 
 
 
 
-Registravimui pateikiami šie dokumentai:
+2. Steigiamasis susirinkimas šaukiamas ir jame balsuojama steigimo sutartyje nustatyta tvarka. Steigiamasis susirinkimas gali būti šaukiamas, jei steigėjai įmokėjo visus steigimo sutartyje numatytus stojamuosius mokesčius ir įnešė pajinius įnašus. Steigiamajame susirinkime turi būti tvirtinami kooperatinės bendrovės įstatai. Kooperatinės bendrovės įstatų sudarymo momentu laikomas jų patvirtinimas steigiamajame susirinkime. Dėl kooperatinės bendrovės registravimo gali būti kreipiamasi tik po steigiamojo susirinkimo, kuriame buvo patvirtinti kooperatinės bendrovės įstatai ir išrinkti jos valdymo organai.
 
 
-1) pareiškimas dėl registravimo;
 
 
-
-
-2) steigiamojo susirinkimo protokolo nuorašas ir steigimo sutartis (naujai steigiamoms kooperatinėms bendrovėms);
-
-
-
-
-3) įstatai;
-
-
-
-
-4) registravimo mokesčio sumokėjimą liudijantis dokumentas;
-
-
-
-
-5) leidimas (licencija) užsiimti komercine-ūkine veikla, ekologinis pasas-leidimas, jei tai nustatyta Lietuvos Respublikos įstatymuose.
-
-
-
-
-
-
-Steigimo sutartyje turi būti nurodyta: 
-
-
-1) steigėjai (vardai, pavardės, juridinių asmenų pavadinimai) ir jų adresai; 
-
-
-
-
-2) kooperatinės bendrovės pavadinimas; 
-
-
-
-
-3) steigėjų teisės ir pareigos steigiant kooperatinę bendrovę bei atsakomybė už įsipareigojimų nevykdymą; 
-
-
-
-
-4) kiekvieno steigėjo įnešamo pajaus dydis; 
-
-
-
-
-5) steigimo kaštų kompensavimas ir atlyginimas už steigimą;
-
-
-
-
-6) ginčų tarp steigėjų sprendimo tvarka 
-
-
-Papildyta straipsnio dalimi:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
- 
-
-
-
-
-Steigimo sutartį pasirašo visi steigėjai arba jų įgalioti asmenys. Ji turi būti patvirtinta notaro. Kooperatinės bendrovės steigimo sutartis yra viešas dokumentas. 
-Papildyta straipsnio dalimi:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
- 
-
-
-
-
-Kooperatinė bendrovė nuo įregistravimo dienos įgyja juridinio asmens teises.
-
-
-
-
-Savivaldybė per mėnesį nuo dokumentų pateikimo dienos privalo įregistruoti kooperatinę bendrovę. Atsisakius įregistruoti, turi būti nurodytos priežastys. Atsisakymas įregistruoti kooperatinę bendrovę gali būti apskųstas teismui Lietuvos Respublikos įstatymų nustatyta tvarka.
+3. Kooperatinę bendrovę įregistravus, steigėjai, taip pat ir kiti asmenys, kurie buvo įgalioti atstovauti steigiamai kooperatinei bendrovei, per dešimt dienų privalo perduoti, o sudaryti valdymo organai – perimti steigimo dokumentus, surašydami perdavimo aktą.
  
 
 
@@ -307,10 +345,10 @@ Savivaldybė per mėnesį nuo dokumentų pateikimo dienos privalo įregistruoti 
 7 straipsnis. Kooperatinės bendrovės teisės
 
 
-Kooperatinė bendrovė turi teisę:
+1. Kooperatinė bendrovė turi teisę:
 
 
-1) užsiimti įstatuose numatyta veikla;
+1) verstis veikla, neprieštaraujančia įstatymams ir bendrovės įstatuose nurodytiems tikslams;
 
 
 
@@ -320,12 +358,12 @@ Kooperatinė bendrovė turi teisę:
 
 
 
-3) valdyti jai priklausantį turtą, juo naudotis ir disponuoti pagal Lietuvos Respublikos įstatymus;
+3) valdyti jai nuosavybės teise priklausantį turtą, juo naudotis ir disponuoti pagal įstatymus;
 
 
 
 
-4) jungtis į kooperatinių bendrovių sąjungas (asociacijas);
+4) jungtis į kooperatinių bendrovių sąjungas, taip pat kitų įstatymų nustatyta tvarka – į kitas organizacijas;
 
 
 
@@ -335,24 +373,29 @@ Kooperatinė bendrovė turi teisę:
 
 
 
-6) nustatyti savo produkcijos, darbų ir paslaugų kainas, įkainius ir tarifus, išskyrus valstybės reguliuojamus;
+6) nustatyti savo produkcijos, darbų ir paslaugų kainas, įkainius ir tarifus;
 
 
 
 
-7) nustatyti savo organizacinę struktūrą, steigti skyrius ir kitus struktūrinius padalinius, taip pat steigti įmones, veikiančias pagal Lietuvos Respublikos įstatymus.
+7) kooperatinės bendrovės įstatuose nustatyta tvarka pagal sutartį skolintis lėšų iš savo narių;
+
+
+
+
+8) nustatyti savo organizacinę struktūrą, steigti filialus ir atstovybes, būti kitų įmonių ir organizacijų steigėja.
 
 
 
 
 
 
-Kooperatinė bendrovė gali turėti ir kitų teisių, neprieštaraujančių Lietuvos Respublikos įstatymams.
+2. Kooperatinė bendrovė gali turėti ir kitų teisių, neprieštaraujančių įstatymams ir kitiems teisės aktams.
 
 
 
 
-Kooperatinės bendrovės ginčai su nariais ir trečiaisiais asmenimis nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.
+3. Kooperatinės bendrovės ginčai su nariais ir trečiaisiais asmenimis nagrinėjami įstatymų nustatyta tvarka.
  
 
 
@@ -362,7 +405,7 @@ Kooperatinės bendrovės ginčai su nariais ir trečiaisiais asmenimis nagrinėj
 
 
 
-III SKIRSNIS. 
+TREČIASIS SKIRSNIS
 KOOPERATINĖS BENDROVĖS NARIAI
  
 
@@ -370,12 +413,47 @@ KOOPERATINĖS BENDROVĖS NARIAI
 8 straipsnis. Nariai
 
 
-Kooperatinės bendrovės nariais gali būti nuolatiniai Lietuvos Respublikos gyventojai nuo 16 metų ir juridiniai asmenys, įregistruoti Lietuvoje. Kooperatinių bendrovių, kurių veiklos pobūdis – jaunimo poreikių tenkinimas (sporto, laisvalaikio organizavimo, techninės intelektualinės kūrybos, moksleivių maitinimo), nariais gali būti ir jaunesni kaip 16 metų asmenys jų tėvams (teisėtiems globėjams) sutikus. Tokių narių teisės ir pareigos nustatomos kooperatinės bendrovės įstatuose.
+1. Kooperatinės bendrovės nariais gali būti fiziniai ir (arba) juridiniai asmenys. 
 
 
 
 
-Stojantysis pateikia pareiškimą kooperatinės bendrovės valdybai (valdytojui). Nariai priimami kooperatinės bendrovės įstatuose nustatyta tvarka. Kooperatinės bendrovės nariai registruojami narių registre, nurodant nario vardą ir pavardę, gyvenamąją vietą, o juridinių asmenų – pavadinimą ir adresą, įstojimo ir išstojimo datą, pajaus ir jį naudojant naujai sukurto turto, priklausančio nariui (jei tai numatyta įstatuose), dydį ir jo kitimą. Kooperatinėje bendrovėje juridiniam asmeniui atstovauja jo įgaliotas asmuo (įgaliotinis).
+2. Asmuo, norintis tapti kooperatinės bendrovės nariu, privalo pateikti prašymą. Prašymas svarstomas ir asmuo į kooperatinės bendrovės narius priimamas kooperatinės bendrovės įstatuose nustatytomis sąlygomis ir tvarka, jei jis įmokėjo stojamąjį mokestį ir jo pajinio įnašo suma yra ne mažesnė už minimalų pajaus dydį. Jei asmuo į kooperatinės bendrovės narius nepriimamas, įmokėti stojamasis mokestis ir pajinis įnašas grąžinami įstatuose nustatyta tvarka ir terminais, bet ne vėliau kaip per 3 mėnesius nuo sprendimo priėmimo.
+
+
+
+
+3. Kooperatinės bendrovės nariai registruojami kooperatinės bendrovės narių registre šios bendrovės įstatuose nustatyta tvarka.
+
+
+
+
+4. Kooperatinės bendrovės narių registre nurodoma:
+
+
+1) fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta arba juridinio asmens pavadinimas, kodas ir buveinė;
+
+
+
+
+2) asmens priėmimo į kooperatinės bendrovės narius data;
+
+
+
+
+3) nario pajaus dydis (pajinio įnašo pavadinimas ir jo vertė pinigine išraiška), taip pat kiekvienas jo padidėjimas;
+
+
+
+
+4) narystės pasibaigimo kooperatinėje bendrovėje data.
+
+
+
+
+
+
+5. Kooperatinės bendrovės nariui juridiniam asmeniui kooperatinės bendrovės narių susirinkime atstovauja organas, kurio kompetencijai toks atstovavimas yra priskirtas, arba jo įgaliotas asmuo.
  
 
 
@@ -383,38 +461,38 @@ Stojantysis pateikia pareiškimą kooperatinės bendrovės valdybai (valdytojui)
 
 
 
-9 straipsnis. Narystės nutraukimas
+9 straipsnis. Narystės pasibaigimo pagrindai
 
 
-Narystė kooperatinėje bendrovėje nutraukiama:
+Asmens narystė kooperatinėje bendrovėje pasibaigia:
 
 
-1) nariui išstojus;
-
-
-
-
-2) nariui mirus;
+1) jam išstojus iš kooperatinės bendrovės narių;
 
 
 
 
-3) pripažinus narį neveiksniu;
+2) pašalinus jį iš kooperatinės bendrovės narių;
 
 
 
 
-4) narį pašalinus;
+3) kai jis perleidžia pajų kitam asmeniui;
 
 
 
 
-5) panaikinus juridinį asmenį – kooperatinės bendrovės narį arba reorganizavus veiklą į tokią, kuri neatitinka kooperatinės bendrovės tikslų;
+4) fiziniam asmeniui kooperatinės bendrovės nariui mirus;
 
 
 
 
-6) likvidavus kooperatinę bendrovę.
+5) juridinį asmenį kooperatinės bendrovės narį likvidavus arba reorganizavus; 
+
+
+
+
+6) kooperatinę bendrovę likvidavus.
  
 
 
@@ -424,35 +502,35 @@ Narystė kooperatinėje bendrovėje nutraukiama:
 
 
 
-10 straipsnis. Išstojimas ir pašalinimas iš kooperatinės bendrovės
+10 straipsnis. Narystės pasibaigimo ir atsiskaitymo jai pasibaigus tvarka
 
 
-Kiekvienas kooperatinės bendrovės narys turi teisę išstoti iš kooperatinės bendrovės, pranešęs apie tai raštu. Išstojimo sąlygos ir tvarka nustatomos įstatuose.
-
-
-
-
-Kooperatinės bendrovės atsiskaitymas su buvusiais nariais gali būti atidėtas iki kitų ūkinių metų atskaitomybės patvirtinimo. Tuo atveju buvęs narys lieka susijęs turtiniais santykiais su kooperatine bendrove iki kitų ūkinių metų pabaigos.
+1. Asmens išstojimo iš kooperatinės bendrovės narių tvarka nustatoma kooperatinės bendrovės įstatuose.
 
 
 
 
-Narys gali būti pašalintas iš kooperatinės bendrovės, jei jis nevykdo nario pareigų, pažeidžia įstatus ar Lietuvos Respublikos įstatymus ir tuo padaro žalą kooperatinei bendrovei.
+2. Asmuo iš kooperatinės bendrovės narių gali būti pašalintas įstatuose nustatyta tvarka kooperatinės bendrovės narių susirinkimo sprendimu, jeigu jis nevykdo nario pareigų, pažeidžia kooperatinės bendrovės įstatus, narių susirinkimo sprendimus, Lietuvos Respublikos įstatymus, susijusius su kooperatinių bendrovių veikla, padaro žalos kooperatinei bendrovei. Jeigu pašalintasis iš kooperatinės bendrovės narių nesutinka su tokiu sprendimu, jis turi teisę per 3 mėnesius nuo tos dienos, kurią sužinojo ar turėjo sužinoti apie sprendimo priėmimą, kreiptis į teismą.
 
 
 
 
-Nutarimą dėl nario pašalinimo iš kooperatinės bendrovės šio įstatymo nustatyta tvarka priima narių (įgaliotinių) susirinkimas. Jeigu pašalintasis narys nesutinka su tokiu nutarimu, jis turi teisę per tris mėnesius nuo nutarimo priėmimo kreiptis į teismą.
+3. Perleidusio pajų asmens narystė kooperatinėje bendrovėje pasibaigia kooperatinės bendrovės narių susirinkimui priėmus sprendimą dėl asmens, įsigijusio perleidžiamą pajų, priėmimo į kooperatinės bendrovės narius.
 
 
 
 
-Išstojusiems ir pašalintiems nariams kooperatinė bendrovė grąžina pajų ir jį naudojant naujai sukurto turto dalį (jei ji priskirta nariams) bei išmoka jiems priklausančią už ūkinius metus skirstomo pelno dalį. Stojamasis mokestis negrąžinamas.
+4. Su asmeniu, kurio narystė kooperatinėje bendrovėje pasibaigė dėl jo išstojimo, pašalinimo ar pajaus perleidimo kitam asmeniui, kooperatinė bendrovė turi atsiskaityti ne vėliau kaip per metus nuo jos narių susirinkimo, patvirtinusio finansinių metų, kuriais pasibaigė šio asmens narystė kooperatinėje bendrovėje, atskaitomybę ir pelno (nuostolio) paskirstymą, dienos.
 
 
 
 
-Mirusio nario įpėdiniams ir pripažinto neveiksniu nario globėjams, jeigu jie nėra kooperatinės bendrovės nariai ir neįstoja į ją įstatuose nustatyta tvarka, priklausantis pajus ir naujai sukurto turto dalis bei už ūkinius metus skirstomo pelno dalis grąžinama tokia pat tvarka, kaip ir išstojusiam bei pašalintam iš kooperatinės bendrovės nariui.
+5. Asmeniui, kurio narystė kooperatinėje bendrovėje pasibaigė dėl jo išstojimo, pašalinimo ar pajaus perleidimo kitam asmeniui, kooperatinė bendrovė privalo grąžinti už pajų, jei jis nėra perleistas kitam asmeniui, įneštą pajinį įnašą, atlyginti narių susirinkimų sprendimais iki finansinių metų, kuriais pasibaigė narystė kooperatinėje bendrovėje, pradžios nariui priskirtą turto dalį piniginiu ekvivalentu rinkos kainomis, išmokėti apyvartai proporcingą išmoką ir dividendą, jeigu dėl jų išmokėjimo už tuos metus yra priimtas narių susirinkimo sprendimas. Nepiniginiai pajiniai įnašai, jeigu šis asmuo pageidauja, grąžinami natūra, išskyrus atvejus, kai tai neįmanoma arba sukeltų neproporcingos žalos kooperatinei bendrovei ar asmeniui, kurio narystė kooperatinėje bendrovėje pasibaigė. Stojamasis mokestis negrąžinamas.
+
+
+
+
+6. Mirusio fizinio asmens kooperatinės bendrovės nario įpėdiniams, likviduoto arba reorganizuoto juridinio asmens kooperatinės bendrovės nario teisių perėmėjams, jeigu jie nėra kooperatinės bendrovės nariai ir per metus nuo šių teisių įgijimo nėra priimti į kooperatinės bendrovės narius jos įstatuose nustatyta tvarka, šio straipsnio 5 dalyje nurodytas už pajų įneštas pajinis įnašas grąžinamas, nariui priskirta turto dalis atlyginama, apyvartai proporcinga išmoka ir dividendas išmokami šiame straipsnyje nustatyta tvarka ir sąlygomis.
  
 
 
@@ -463,105 +541,103 @@ Mirusio nario įpėdiniams ir pripažinto neveiksniu nario globėjams, jeigu jie
 11 straipsnis. Kooperatinės bendrovės nario teisės ir pareigos
 
 
-Kooperatinės bendrovės narys turi teisę:
+1. Kooperatinės bendrovės narys turi teisę:
 
 
-1) rinkti valdymo ir kontrolės organus ir būti į juos išrinktu;
-
-
-
-
-2) balsuojant turėti vieną balsą nepriklausomai nuo įmokėto pajaus dydžio;
+1) dalyvauti kooperatinės bendrovės narių susirinkime, rinkti valdymo ir kontrolės organų narius ir būti į juos išrinktas;
 
 
 
 
-3) dirbti kooperatinėje bendrovėje pagal samdos sutartį;
+2) balsuojant turėti vieną balsą, nepaisant pajaus dydžio;
 
 
 
 
-4) gauti nariams skirstomo pelno dalį, proporcingą apyvartos (operacijų) su kooperatine bendrove dydžiui, naudotis bendrovės turtu bei turėti pirmenybę lengvatinėmis sąlygomis naudotis kooperatinės bendrovės teikiamomis paslaugomis įstatuose nustatyta tvarka;
+3) disponuoti pajumi šio ir kitų įstatymų bei įstatų nustatyta tvarka;
 
 
 
 
-5) gauti pelno dalį (dividendą), proporcingą jo pajaus ir, jeigu turtas priskirtas nariams, naujai sukurto turto dydžiui;
+4) gauti apyvartai proporcingą išmoką;
 
 
 
 
-6) gauti likviduojamos bendrovės turto dalį įstatuose nustatyta tvarka;
+5) gauti dividendą;
 
 
 
 
-7) gauti informaciją apie kooperatinės bendrovės veiklą, jos ūkinę būklę ir turtą;
+6) naudotis kooperatinės bendrovės turtu ir teikiamomis paslaugomis įstatuose nustatytomis sąlygomis ir tvarka;
 
 
 
 
-8) būti kelių kooperatinių bendrovių nariu, jeigu ko kita nenumato kooperatinės bendrovės įstatai;
+7) gauti likviduojamos kooperatinės bendrovės turto dalį (jos ekvivalentą pinigais) įstatuose nustatyta tvarka;
 
 
 
 
-9) išstoti iš kooperatinės bendrovės.
+8) gauti informaciją apie kooperatinės bendrovės veiklą ir turtą;
+
+
+
+
+9) būti kelių kooperatinių bendrovių nariu, jeigu ko kita nenumato šių kooperatinių bendrovių įstatai;
+
+
+
+
+10) pagal sutartį skolinti kooperatinei bendrovei lėšų jos įstatuose nustatyta tvarka;
+
+
+
+
+11) išstoti iš kooperatinės bendrovės narių ir gauti šio Įstatymo 10 straipsnio 5 dalyje nurodytą už pajų įneštą pajinį įnašą, išmoką už nariui priskirtą turto dalį, apyvartai proporcingą išmoką ir dividendą.
 
 
 
 
 
 
-Kitos nario teisės nustatomos kooperatinės bendrovės įstatuose.
+2. Kooperatinės bendrovės narys privalo laikytis įstatų, vykdyti kooperatinės bendrovės organų sprendimus, vykdyti apyvartą su kooperatine bendrove, tausoti kooperatinės bendrovės turtą, rūpintis jo didinimu.
 
 
 
 
-Kooperatinės bendrovės narys privalo laikytis įstatų, vykdyti kooperatinės bendrovės įpareigojimus bei valdymo ir kontrolės organų nutarimus, dalyvauti kooperatinės bendrovės veikloje.
-
-
-
-
-Kooperatinės bendrovės narys atsako pagal kooperatinės bendrovės prievoles, prisiimtas iki jam įstojant, su kuriomis, stodamas į kooperatinę bendrovę, turi teisę susipažinti.
-
-
-
-
-Kooperatinės bendrovės narys atsako tik įdėto pajaus (priklausančio kooperatinėje bendrovėje turto) dydžiu. Įstatuose gali būti nustatyta ir didesnė, bet ne daugiau kaip dvigubo, o draudimo ir kredito kooperatinėse bendrovėse – iki penkiariopo įdėto pajaus (priklausančio turto) dydžio nario atsakomybė.
-
-
-Straipsnio pakeitimai:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+3. Kooperatinės bendrovės nario kitos teisės ir pareigos nustatomos kooperatinės bendrovės įstatuose.
  
 
 
 
 
-12 straipsnis. Kapitalas
-
-
-Kooperatinės bendrovės kapitalą sudaro nuosavos ir skolintos lėšos. Nuosavos lėšos sudaromos iš narių stojamųjų mokesčių, pajų, ūkinės veiklos pelno bei kitų įstatymuose neuždraustų pajamų šaltinių. Kooperatinės bendrovės kapitalas negali būti sudaromas leidžiant bendrovės akcijas. Kooperatinės bendrovės nuosavas kapitalas, išskyrus pajus, gali būti nedalomas arba priskirtas (visas arba jo dalis) bendrovės nariams.
 
 
 
 
-Nuosavos lėšos sudaro pagrindinį ir rezervinį kapitalą. Pagrindinis kapitalas naudojamas kooperatinės bendrovės ūkinei veiklai ir įsigyti turtui. Rezervinis kapitalas narių (įgaliotinių) susirinkimo nutarimu naudojamas nenumatytoms išlaidoms ir nuostoliams padengti bei kooperatinės bendrovės nariams ir tarnautojams mokyti.
-
-
-
-
-Kooperatinės bendrovės minimalaus nuosavo kapitalo įstatymai nereglamentuoja, tačiau jo turi užtekti įstatuose numatytai veiklai plėtoti.
-
-
-
-
-Atskaitymai į kapitalo rezervo fondą pelną gaunančioms kooperatinėms bendrovėms yra privalomi. Atskaitymų į šį fondą dydis ir jo formavimo tvarka nustatomi įstatuose.
-
-
-Straipsnio pakeitimai:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+KETVIRTASIS SKIRSNIS
+KOOPERATINĖS BENDROVĖS KAPITALAS IR PELNO SKIRSTYMAS
  
+
+
+12 straipsnis. Kapitalo sudėtis
+
+
+1. Kooperatinės bendrovės kapitalas yra nuosavas ir skolintas. Nuosavas kapitalas sudaromas iš kooperatinės bendrovės narių stojamųjų mokesčių ir pajinių įnašų, atskaitymų iš šios bendrovės pelno, kitų įstatymuose neuždraustų pajamų. Kooperatinės bendrovės nuosavas kapitalas, išskyrus už pajus įneštus pajinius įnašus, gali būti nedalomas arba priskirtas (visas arba jo dalis) kooperatinės bendrovės nariams. Skolintas kapitalas sudaromas iš paskolų ir kitų skolintų lėšų. 
+
+
+
+
+2. Nuosavas kapitalas skirstomas į pagrindinį ir atsargos (rezervinį) kapitalą. Pagrindinis kapitalas naudojamas kooperatinės bendrovės ūkinei veiklai ir turtui įsigyti. Atsargos (rezervinis) kapitalas narių susirinkimo sprendimu naudojamas nenumatytoms išlaidoms ir nuostoliams padengti, o atsargos (rezervinio) kapitalo dalis, viršijanti 1/10 nuosavo kapitalo, narių susirinkimo sprendimu gali būti naudojama ir kitiems tikslams.
+
+
+
+
+3. Atskaitymai į atsargos (rezervinį) kapitalą kooperatinėms bendrovėms yra privalomi, kol atsargos (rezervinis) kapitalas nesudaro 1/10 nuosavo kapitalo vertės. Privalomi atskaitymai į atsargos (rezervinį) kapitalą turi sudaryti ne mažiau kaip 5 procentus grynojo pelno.
+ 
+
+
 
 
 
@@ -569,69 +645,42 @@ Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA00
 13 straipsnis. Kooperatinės bendrovės nario pajus
 
 
-Kooperatinės bendrovės nario pajus yra piniginis, intelektinis, vertybiniai popieriai arba kitas turtinis indėlis, išskyrus žemę. 
-Straipsnio dalies pakeitimai:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
- 
+1. Kooperatinės bendrovės nario pajaus dydis yra lygus nario įneštų pajinių įnašų vertei.
 
 
 
 
-Pajaus dydis, jo mokėjimo tvarka ir atsakomybė už šios tvarkos pažeidimus, nepiniginių (turtinių) indėlių įvertinimo tvarka nustatoma įstatuose.
+2. Minimalaus ir maksimalaus pajų dydžiai, pajinio įnašo ir papildomų pajinių įnašų įmokėjimo tvarka, atsakomybė už šios tvarkos pažeidimus, nepiniginio (daiktų, intelektinės veiklos rezultatų, taip pat kitokių turtinių ir neturtinių vertybių) pajinio įnašo įvertinimo tvarka turi būti nustatyta įstatuose.
 
 
 
 
-Indėliu negali būti turtas, į kurį kooperatinės bendrovės nariui yra apribotos disponavimo teisės. Žemę kooperatinei bendrovei jos nariai gali nuomoti tik naudojimui.
+3. Pajiniu įnašu negali būti žemės ūkio paskirties žemė ir turtas, kuriuo disponuoti pajinį įnašą įmokančiam asmeniui yra apribotos teisės, taip pat turtas, į kurį kooperatinė bendrovė negali įgyti nuosavybės teisės.
 
 
 
 
-Kooperatinės bendrovės nariams gali būti priskirta tik per jų narystės laikotarpį naujai sukurto turto kooperatinėje bendrovėje dalis, proporcinga jų pajui ir priklausančiam turtui. 
-Papildyta straipsnio dalimi:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
- 
+4. Kooperatinės bendrovės nario už pajų įneštas pajinis įnašas registruojamas apskaitos dokumentuose ir įstatuose nustatyta tvarka kooperatinės bendrovės nariui išduodamas pajaus vardinis dokumentas. Jame nurodoma:
+
+
+1) kooperatinės bendrovės pavadinimas;
 
 
 
 
-Nario pajus ir jam priklausanti turto dalis registruojami apskaitos dokumentuose, o nariui išduodamas narystę ir jam priklausančio kooperatinėje bendrovėje turto dydį patvirtinantis dokumentas.
+2) pajaus turėtojo fizinio asmens vardas, pavardė ir asmens kodas arba juridinio asmens pavadinimas ir kodas;
 
 
 
 
-Kooperatinės bendrovės nariai pajais ir jiems priklausančia turto dalimi disponuoja įstatuose nustatyta tvarka.
- 
+3) pajinių įnašų vertė.
 
 
 
 
 
 
-14 straipsnis. Pelno skirstymas
-
-
-Kooperatinės bendrovės pelno skirstymas turi būti patvirtintas narių (įgaliotinių) susirinkime per 3 mėnesius pasibaigus ūkiniams metams.
-
-
-
-
-Balansinis pelnas, atskaičius privalomus mokėjimus, skirstomas:
-
-
-1) atskaitoma į kapitalo rezervo fondą;
-
-
-
-
-2) išmokama nariams pelno dalis, proporcinga apyvartos (operacijų) su kooperatine bendrove dydžiui, įstatuose nustatyta tvarka;
-
-
-
-
-3) išmokami nariams dividendai, proporcingi jų pajams ir, jeigu turtas priskirtas nariams, priklausančiam turtui. 
-Straipsnio punkto pakeitimai:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
+5. Kooperatinės bendrovės nariai turi teisę perleisti pajų kitiems asmenims. Pirmenybę įsigyti perleidžiamą pajų tomis pačiomis sąlygomis turi kooperatinės bendrovės narys. Apie ketinimą perleisti pajų kooperatinės bendrovės narys privalo raštu pranešti kitiems kooperatinės bendrovės nariams ir valdymo organui įstatuose nustatyta tvarka. Jeigu per mėnesį nė vienas kooperatinės bendrovės narys, kuriam apie perleidžiamą pajų buvo pranešta, neįsigyja pajaus, pajų perleidžiantis narys įgyja teisę jį perleisti bet kuriam trečiajam asmeniui. Kooperatinės bendrovės narys pajumi disponuoja šio ir kitų įstatymų bei įstatų nustatyta tvarka.
  
 
 
@@ -639,17 +688,46 @@ Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA00
 
 
 
-Pelno likutis naudojamas įstatuose nustatyta tvarka.
+14 straipsnis. Grynojo pelno skirstymas
+
+
+1. Kooperatinės bendrovės per finansinius metus uždirbto grynojo pelno paskirstymas patvirtinamas ne vėliau kaip per 4 mėnesius pasibaigus finansiniams metams.
 
 
 
 
-Pajaus dividendas turi būti ribojamas; maksimalus jo lygis nustatomas įstatuose.
+2. Grynasis pelnas skirstomas šia eilės tvarka:
+
+
+1) atsargos (rezerviniam) kapitalui papildyti;
 
 
 
 
-Balansinis pelnas apmokestinamas įstatymų nustatyta tvarka, o nariams išmokama pelno dalis, proporcinga apyvartos (operacijų) su bendrove dydžiui, ir pajaus dividendas neapmokestinami.
+2) apyvartai proporcingoms išmokoms mokėti;
+
+
+
+
+3) dividendams mokėti.
+
+
+
+
+
+
+3. Pelno likutis naudojamas įstatuose nustatyta tvarka.
+ 
+
+
+
+
+4. Dividendams mokėti skiriama iki 10 procentų grynojo pelno.
+
+
+
+
+5. Maksimalus dividendo dydis nustatomas kooperatinės bendrovės įstatuose.
  
 
 
@@ -659,112 +737,25 @@ Balansinis pelnas apmokestinamas įstatymų nustatyta tvarka, o nariams išmokam
 
 
 
-IV SKIRSNIS. 
-VALDYMAS IR KONTROLĖ
+PENKTASIS SKIRSNIS
+KOOPERATINĖS BENDROVĖS VALDYMAS IR KONTROLĖ
  
 
 
-15 straipsnis. Valdymo organai
+15 straipsnis. Kooperatinės bendrovės organai
 
 
-Valdymo organai yra narių susirinkimas ir valdyba arba valdytojas. Kooperatinės bendrovės valdybos ir revizijos komisijos nariais gali būti Lietuvos Respublikos piliečiai nuo 18 metų.
+1. Kooperatinės bendrovės organai yra narių susirinkimas, valdyba ir administracijos vadovas.
 
 
 
 
-Kooperatinėje bendrovėje, kurioje yra daugiau kaip 100 narių, narių susirinkimą galima pakeisti įgaliotinių susirinkimu. Įgaliotinių rinkimo tvarka nustatoma kooperatinės bendrovės įstatuose.
- 
+2. Kooperatinės bendrovės, kuri turi daugiau kaip 100 narių, narių susirinkimas gali būti pakeistas kooperatinės bendrovės narių atstovų susirinkimu. Kooperatinės bendrovės narių atstovų susirinkimas turi šio Įstatymo nustatytus narių susirinkimo įgaliojimus. Kooperatinės bendrovės narių atstovų susirinkime kiekvienas atstovas turi vieną balsą. Kooperatinės bendrovės narių renkamų narių atstovų rinkimo bei atšaukimo tvarka ir sąlygos turi būti nustatytos kooperatinės bendrovės įstatuose. Kooperatinei bendrovei, kurios įstatuose yra numatytas narių susirinkimo pakeitimas narių atstovų susirinkimu, auditas yra privalomas.
 
 
 
 
-
-
-16 straipsnis. Narių (įgaliotinių) susirinkimas
-
-
-Aukščiausiasis kooperatinės bendrovės valdymo organas yra jos narių (įgaliotinių) susirinkimas, kuris:
-
-
-1) priima, šalina kooperatinės bendrovės narius ir įteisina išstojimą iš kooperatinės bendrovės. Susirinkimas tai gali pavesti (išskyrus nario pašalinimą) valdybai (valdytojui);
-
-
-
-
-2) keičia ir papildo kooperatinės bendrovės įstatus;
-
-
-
-
-3) renka ir atšaukia valdybą (valdytoją), valdybos pirmininką, revizijos komisiją (revizorių) ir jų narius;
-
-
-
-
-4) įvertina valdybos (valdytojo) ir revizijos komisijos (revizoriaus) darbą, tvirtina metinę atskaitomybę ir veiklos programą;
-
-
-
-
-5) tvirtina pelno (nuostolių) paskirstymą;
-
-
-
-
-6) nustato darbo apmokėjimo tvarką kooperatinėje bendrovėje;
-
-
-
-
-7) sprendžia kooperatinės bendrovės įstojimo į sąjungas (asociacijas), išstojimo iš jų, struktūrinių padalinių ir įmonių steigimo, veiklos nutraukimo ir kitus organizacinius klausimus;
-
-
-
-
-8) priima nutarimą likviduoti arba reorganizuoti kooperatinę bendrovę;
-Straipsnio punkto pakeitimai:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
- 
-
-
-
-
-9) sprendžia kitus kooperatinės bendrovės veiklos klausimus.
-
-
-
-
-
-
-Šio straipsnio pirmosios dalies 6 ir 7 punktuose numatytus klausimus, išskyrus įmonių steigimą ir veiklos nutraukimą, narių (įgaliotinių) susirinkimas gali pavesti spręsti valdybai. 
-Papildyta straipsnio dalimi:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
- 
-
-
-
-
-Narių (įgaliotinių) susirinkimą šaukia kooperatinės bendrovės valdyba (valdytojas) kasmet, ne vėliau kaip per 3 mėnesius pasibaigus ūkiniams metams.
-
-
-
-
-Neeilinius susirinkimus šaukia valdyba (valdytojas) savo iniciatyva arba kai to reikalauja revizijos komisija (revizorius) ar ne mažiau kaip 1/4 kooperatinės bendrovės narių (įgaliotinių).
-
-
-
-
-Narių susirinkimas gali priimti nutarimus, jeigu jame dalyvauja ne mažiau kaip 1/2 visų narių, įgaliotinių susirinkimas – jeigu jame dalyvauja ne mažiau kaip 2/3 įgaliotinių. Jeigu nustatytas skaičius narių (įgaliotinių) į susirinkimą neatvyko, susirinkimas kviečiamas pakartotinai. Jame nutarimai gali būti priimti, jeigu dalyvauja ne mažiau kaip 1/3 narių arba 1/2 įgaliotinių.
-
-
-
-
-Susirinkime nutarimai priimami paprasta balsų dauguma, išskyrus šio įstatymo 16 straipsnio 2 ir 8 punktuose nurodytus atvejus ir narių pašalinimą, kai nutarimai priimami ne mažiau kaip 2/3 balsų.
-
-
-
-
-Susirinkime balsuojama atviru balsavimu, išskyrus tuos atvejus, kai slaptą balsavimą nustato šis įstatymas, kooperatinės bendrovės įstatai arba to reikalauja ne mažiau kaip 1/10 susirinkime dalyvaujančių kooperatinės bendrovės narių (įgaliotinių). Kooperatinės bendrovės valdybos ir revizijos komisijos nariai renkami slaptu balsavimu.
+3. Kooperatinės bendrovės, kurią sudaro ne daugiau kaip 50 narių, įstatuose gali būti nustatyta, kad valdyba nėra sudaroma, o jos funkcijas atlieka administracijos vadovas.
  
 
 
@@ -772,40 +763,181 @@ Susirinkime balsuojama atviru balsavimu, išskyrus tuos atvejus, kai slaptą bal
 
 
 
-17 straipsnis. Kooperatinės bendrovės valdyba arba valdytojas
+16 straipsnis. Kooperatinės bendrovės narių susirinkimas
 
 
-Valdyba yra kolegialus valdymo organas, vadovaujantis kooperatinės bendrovės veiklai tarp narių (įgaliotinių) susirinkimų. Kooperatinėse bendrovėse, kuriose yra mažiau kaip 100 narių, vietoj valdybos gali būti renkamas valdytojas.
+1. Kooperatinės bendrovės narių susirinkimas:
 
 
-
-
-Valdyba vadovauja kooperatinės bendrovės ūkinei veiklai, tvarko jos reikalus, atstovauja kooperatinei bendrovei teisme bei kitose institucijose.
-
-
-
-
-Valdybą arba valdytoją renka narių (įgaliotinių) susirinkimas ne daugiau kaip 3 metams. Kol išrenkama valdyba, kooperatinės bendrovės reikalus tvarko steigėjai.
+1) priima sprendimus dėl priėmimo į kooperatinės bendrovės narius, pašalinimo iš kooperatinės bendrovės narių, narystės, perleidus pajų kitam asmeniui, pasibaigimo. Priimti šiuos sprendimus, išskyrus dėl nario pašalinimo, narių susirinkimas gali pavesti valdybai;
 
 
 
 
-Valdybos narių skaičius ir jos narių bei valdybos pirmininko įgaliojimai nurodomi kooperatinės bendrovės įstatuose bei narių (įgaliotinių) susirinkimo nutarimuose. Narių (įgaliotinių) susirinkimas turi teisę atšaukti valdybos pirmininką (valdytoją) ir valdybos narius nesibaigus jų įgaliojimų terminui. Pasibaigus kadencijai, valdyba vykdo savo įgaliojimus, kol bus išrinkta nauja valdyba.
+2) tvirtina, keičia kooperatinės bendrovės įstatus;
 
 
 
 
-Valdybos nariai bei valdybos pirmininkas (valdytojas) bet kuriuo metu gali atsistatydinti. Atsistatydinimo tvarka nustatoma kooperatinės bendrovės įstatuose.
+3) renka, atšaukia valdybos narius ir jos pirmininką arba, kai valdyba nėra sudaroma, renka, atšaukia administracijos vadovą; taip pat renka, atšaukia revizijos komisijos narius ir jos pirmininką (revizorių) arba, kai revizijos komisija (revizorius) nėra sudaroma, tvirtina audito įmonę;
 
 
 
 
-Valdyba nutarimus priima posėdyje, kuris laikomas teisėtu, jeigu jame dalyvauja ne mažiau kaip 2/3 valdybos narių. Nutarimai priimami balsų dauguma.
+4) įvertina valdybos, o tuo atveju, kai kooperatinėje bendrovėje valdyba nėra sudaroma, administracijos vadovo ir revizijos komisijos (revizoriaus) darbą, taip pat revizijos komisijos (revizoriaus) arba audito įmonės išvadą dėl kooperatinės bendrovės finansinės atskaitomybės; 
 
 
 
 
-Valdybos nariai bei valdybos pirmininkas (valdytojas) privalo atlyginti kooperatinei bendrovei nuostolius, padarytus dėl valdybos nutarimų, priimtų pažeidžiant kooperatinės bendrovės įstatus ar Lietuvos Respublikos įstatymus. Valdybos narių bei valdybos pirmininko (valdytojo) atsistatydinimas ar pašalinimas iš užimamų pareigų neatleidžia nuo dėl jo kaltės susidariusių nuostolių atlyginimo.
+5) tvirtina metinę finansinę atskaitomybę, priima nutarimą dėl pelno paskirstymo arba nuostolių padengimo;
+
+
+
+
+6) tvirtina kooperatinės bendrovės veiklos programą; 
+
+
+
+
+7) priima sprendimą dėl kooperatinės bendrovės stojimo į sąjungas, išstojimo iš jų, filialų ir atstovybių, kitų įmonių ir organizacijų steigimo, veiklos nutraukimo ir kitų organizacinių klausimų;
+
+
+
+
+8) tvirtina valdybos, administracijos vadovo ir revizijos komisijos (revizoriaus) darbo reglamentus;
+
+
+
+
+9) tvirtina valdybos narių ir jos pirmininko, o tuo atveju, kai valdyba nėra sudaroma – administracijos vadovo, taip pat revizijos komisijos (revizoriaus) darbo apmokėjimo tvarką;
+
+
+
+
+10) priima sprendimą dėl kooperatinės bendrovės ilgalaikio turto įgijimo, perleidimo, nuomos ar įkeitimo, ilgalaikių paskolų paėmimo ir suteikimo, laidavimo ar garantavimo už kitų ūkio subjektų prievoles, jeigu šių sandorių suma viršija 1/10 kooperatinės bendrovės nuosavo kapitalo vertės;
+
+
+
+
+11) priima sprendimą reorganizuoti, pertvarkyti arba likviduoti kooperatinę bendrovę.
+
+
+
+
+
+
+2. Kooperatinės bendrovės narių susirinkimas gali turėti ir kitų teisių bei įgaliojimų, numatytų kooperatinės bendrovės įstatuose.
+
+
+
+
+3. Kooperatinės bendrovės narių susirinkimą šaukia kooperatinės bendrovės valdyba, o jeigu ji nėra sudaryta ar valdyba nustatytais atvejais ir terminais susirinkimo nesušaukia – administracijos vadovas arba ne mažiau kaip 1/4 kooperatinės bendrovės narių.
+
+
+
+
+4. Eilinius kooperatinės bendrovės narių susirinkimus valdyba (kai valdyba nėra sudaryta – administracijos vadovas) sušaukia kasmet, ne vėliau kaip per 4 mėnesius po finansinių metų pabaigos.
+
+
+
+
+5. Neeiliniai narių susirinkimai šaukiami valdybos (kai valdyba nėra sudaroma – administracijos vadovo) ar ne mažiau kaip 1/4 kooperatinės bendrovės narių iniciatyva.
+
+
+
+
+6. Narių susirinkimo darbotvarkės sudarymo ir informavimo apie susirinkimą tvarka nustatoma įstatuose.
+
+
+
+
+7. Kooperatinės bendrovės narių susirinkimas gali priimti sprendimus, jeigu jame dalyvauja ne mažiau kaip 1/2 kooperatinės bendrovės narių. Jeigu tiek kooperatinės bendrovės narių į susirinkimą neatvyko, susirinkimas tais pačiais darbotvarkės klausimais turi būti šaukiamas pakartotinai. Pakartotinai sušauktame susirinkime sprendimai gali būti priimami, jeigu jame dalyvauja ne mažiau kaip 1/3 kooperatinės bendrovės narių. Jeigu į pakartotinai sušauktą susirinkimą neatvyko nustatytas kooperatinės bendrovės narių skaičius, šaukiamas dar vienas susirinkimas. Jis sprendimus priima esant bet kokiam kooperatinės bendrovės narių skaičiui.
+
+
+
+
+8. Kooperatinės bendrovės narių susirinkimo sprendimai priimami kooperatinės bendrovės narių, užsiregistravusių susirinkimo dalyvių sąraše, balsų dauguma, išskyrus šio straipsnio 1 dalies 2 ir 11 punktuose nurodytus atvejus ir dėl narių pašalinimo. Šiais atvejais sprendimai priimami ne mažiau kaip 2/3 kooperatinės bendrovės narių, užsiregistravusių susirinkimo dalyvių sąraše, balsų dauguma.
+
+
+
+
+9. Kooperatinės bendrovės narių susirinkime balsuojama atviru balsavimu, išskyrus atvejus, kai slaptą balsavimą nustato šis Įstatymas, kooperatinės bendrovės įstatai arba to reikalauja ne mažiau kaip 1/10 susirinkimo dalyvių sąraše užsiregistravusių kooperatinės bendrovės narių. Kooperatinės bendrovės valdybos nariai ir jos pirmininkas, o tuo atveju, kai valdyba nėra sudaroma, administracijos vadovas, taip pat revizijos komisijos nariai ir jos pirmininkas (revizorius) renkami slaptu balsavimu.
+
+
+
+
+10. Sprendimui dėl ilgalaikio turto dalies, didesnės kaip 1/10 kooperatinės bendrovės nuosavo kapitalo vertės, įgijimo, perleidimo ar nuomos reikalingas narių susirinkimo sprendimas, priimtas balsų dauguma, o sprendimui dėl kitų ūkio subjektų prievolių laidavimo ar garantavimo arba turto įkeitimo, arba ilgalaikių paskolų paėmimo ir suteikimo, kai tokio sandorio suma yra didesnė kaip 1/10 kooperatinės bendrovės nuosavo kapitalo vertės, reikalingas narių susirinkimo sprendimas, priimtas ne mažiau kaip 2/3 balsų dauguma. Tokių sandorių, sudaromų be narių susirinkimo sprendimo, suminė vertė finansiniais metais negali būti didesnė kaip 1/10 kooperatinės bendrovės nuosavo kapitalo vertės.
+
+
+
+
+11. Kooperatinės bendrovės narių susirinkimo protokolą ne vėliau kaip per 5 darbo dienas pasirašo susirinkimo sekretorius, pirmininkas ir susirinkimo įgaliotas kooperatinės bendrovės narys.
+
+
+
+
+12. Prie narių susirinkimo protokolo pridedamas kooperatinės bendrovės narių, atvykusių ir užsiregistravusių iki susirinkimo pradžios, sąrašas.
+ 
+
+
+
+
+
+
+17 straipsnis. Kooperatinės bendrovės valdyba ir administracijos vadovas
+
+
+1. Valdyba yra kolegialus kooperatinės bendrovės valdymo organas. Valdybos veiklai vadovauja jos pirmininkas. Valdybos narių skaičius nustatomas įstatuose, tačiau jis negali būti mažesnis kaip 3.
+
+
+
+
+2. Valdybos narius ir jos pirmininką renka kooperatinės bendrovės narių susirinkimas ne ilgesnei kaip 4 metų kadencijai. Valdybos narys, valdybos pirmininkas arba visa valdyba gali būti atšaukti arba gali atsistatydinti įstatuose nustatyta tvarka kadencijai nepasibaigus. 
+
+
+
+
+3. Valdybos darbo tvarką, valdybos narių ir jos pirmininko pareigas bei įgaliojimus nustato kooperatinės bendrovės narių susirinkimo patvirtintas valdybos (administracijos vadovo) darbo reglamentas. 
+
+
+
+
+4. Valdyba sprendimus priima posėdyje, kuriame dalyvauja ne mažiau kaip 2/3 visų valdybos narių. Sprendimai priimami balsų dauguma. Valdybos posėdžių šaukimo ir darbo tvarka nustatoma valdybos darbo reglamente. Valdyba į kiekvieną savo posėdį kviečia administracijos vadovą, jei jis nėra valdybos narys.
+
+
+
+
+5. Nepaisant to, ar sudaroma valdyba, ar ne, kooperatinėje bendrovėje turi būti administracijos vadovas. 
+
+
+
+
+6. Administracijos vadovą renka ir atšaukia valdyba, o jeigu ji nėra sudaroma – kooperatinės bendrovės narių susirinkimas. Darbo sutartį su administracijos vadovu pasirašo valdybos pirmininkas, o jeigu valdyba nėra sudaroma – kooperatinės bendrovės narių susirinkimo įgaliotas asmuo.
+
+
+
+
+7. Administracijos vadovu gali būti valdybos narys, jos pirmininkas, kooperatinės bendrovės narys, taip pat kitas veiksnus fizinis asmuo. Reikalavimai administracijos vadovui nustatomi įstatuose. Administracijos vadovu negali būti revizijos komisijos narys, jos pirmininkas (revizorius).
+
+
+
+
+8. Administracijos vadovas yra vienasmenis valdymo organas, vadovaujantis administracijai. Administracijos vadovas organizuoja ir vykdo kooperatinės bendrovės ūkinę finansinę veiklą, atstovauja kooperatinei bendrovei santykiuose su trečiaisiais asmenimis, teisme, arbitraže, sudaro sandorius, priima į darbą ir atleidžia darbuotojus, sudaro su jais darbo sutartis, teikia valdybai medžiagą apie savo darbą, kooperatinės bendrovės veiklos programos, pajamų ir sąnaudų sąmatos, finansinės atskaitomybės ir pelno (nuostolio) paskirstymo projektus, atlieka kitus kooperatinės bendrovės įstatuose jo kompetencijai priskirtus veiksmus. Administracijos darbo tvarka nustatoma administracijos darbo reglamente.
+
+
+
+
+9. Administracijos vadovas dalyvauja valdybos posėdžiuose patariamojo balso teise, jei jis nėra valdybos narys.
+
+
+
+
+10. Valdybos nariai ir valdybos pirmininkas, administracijos vadovas privalo atlyginti kooperatinei bendrovei nuostolius, padarytus dėl valdybos arba administracijos vadovo sprendimų, priimtų pažeidžiant kooperatinės bendrovės įstatus ar su kooperatinių bendrovių veikla susijusius įstatymus. Valdybos nario ir valdybos pirmininko arba administracijos vadovo atsistatydinimas ar pašalinimas iš pareigų neatleidžia jo nuo nuostolių, kurie susidarė dėl jo kaltės, atlyginimo.
+
+
+
+
+11. Kooperatinės bendrovės valdybos nariai kooperatyvui padarytą žalą atlygina solidariai. Paskiri valdybos nariai, priimant neteisėtus, kooperatinei bendrovei žalingus sprendimus balsavę prieš (tai turi būti užfiksuota protokole), nuo žalos atlyginimo atleidžiami.
  
 
 
@@ -816,37 +948,47 @@ Valdybos nariai bei valdybos pirmininkas (valdytojas) privalo atlyginti kooperat
 18 straipsnis. Veiklos kontrolė
 
 
-Kooperatinės bendrovės veiklą kontroliuoja revizijos komisija (revizorius), kuri narių (įgaliotinių) susirinkime renkama ne daugiau kaip 3 metams. Narių (įgaliotinių) susirinkimo nutarimu gali būti sudaromos laikinos kontrolės komisijos.
+1. Kooperatinės bendrovės ūkinę finansinę veiklą kontroliuoja revizijos komisija (revizorius). Revizijos komisijos nariai ir jos pirmininkas (revizorius) renkami kooperatinės bendrovės narių susirinkime ne ilgesnei kaip 4 metų kadencijai. Kooperatinės bendrovės įstatuose gali būti numatyta, kad jos ūkinę finansinę veiklą kontroliuoja kooperatinės bendrovės narių susirinkimo tvirtinama audito įmonė.
 
 
 
 
-Revizijos komisijos nariais (revizoriais) negali būti kooperatinės bendrovės valdybos nariai ir asmenys, kuriuos su valdybos nariais sieja artimi giminystės ar svainystės ryšiai.
+2. Revizijos komisijos nariu ir jos pirmininku (revizoriumi) negali būti kooperatinės bendrovės valdybos narys, jos pirmininkas, administracijos vadovas, taip pat asmuo, kurį su šioje dalyje nurodytų valdymo organų nariu sieja artimi giminystės, svainystės ar partnerystės ryšiai. Kiti reikalavimai revizijos komisijos nariui (revizoriui) nustatomi kooperatinės bendrovės įstatuose.
 
 
 
 
-Revizijos komisija (revizorius):
+3. Revizijos komisija (revizorius) arba audito įmonė:
 
 
-1) tikrina kooperatinės bendrovės metinį buhalterinį balansą, kitus apskaitos ir veiklos dokumentus;
-
-
-
-
-2) informuoja narių (įgaliotinių) susirinkimą, valdybą (valdytoją) apie kooperatinės bendrovės veiklos pažeidimus;
+1) tikrina kooperatinės bendrovės ūkinę finansinę veiklą;
 
 
 
 
-3) ūkiniams metams pasibaigus, narių (įgaliotinių) susirinkimui pateikia išvadą apie metinę kooperatinės bendrovės atskaitomybę ir jos finansinę būklę.
+2) informuoja kooperatinės bendrovės narių susirinkimą, valdybą ir administracijos vadovą apie kooperatinės bendrovės veiklos pažeidimus;
+
+
+
+
+3) finansiniams metams pasibaigus, narių susirinkimui pateikia išvadą dėl kooperatinės bendrovės metinės finansinės atskaitomybės.
 
 
 
 
 
 
-Kooperatinės bendrovės narių (įgaliotinių) susirinkimas, valdyba (valdytojas), revizijos komisija (revizorius) patikrinimams gali kviestis ekspertus.
+4. Kooperatinės bendrovės narių susirinkimas, valdyba (kai ji nėra sudaryta – administracijos vadovas), revizijos komisija (revizorius) patikrinimams gali kviestis ekspertus.
+
+
+
+
+5. Revizijos komisijos (revizoriaus) darbo tvarką nustato jos darbo reglamentas.
+
+
+
+
+6. Kooperatinės bendrovės veiklą įstatymų nustatyta tvarka turi teisę tikrinti valstybės institucijos.
  
 
 
@@ -856,20 +998,20 @@ Kooperatinės bendrovės narių (įgaliotinių) susirinkimas, valdyba (valdytoja
 
 
 
-V SKIRSNIS. 
-KOOPERATINĖS BENDROVĖS REORGANIZAVIMAS IR LIKVIDAVIMAS
+ŠEŠTASIS SKIRSNIS
+KOOPERATINĖS BENDROVĖS PABAIGA IR PERTVARKYMAS
  
 
 
 19 straipsnis. Kooperatinės bendrovės reorganizavimas
 
 
-Reorganizavimas – tai kooperatinės bendrovės, kaip juridinio asmens, pertvarkymas be likvidavimo procedūros. Reorganizuotų kooperatinių bendrovių visų teisių ir prievolių perėmėjai yra reorganizuojant įsteigtos naujos ir po reorganizavimo tęsiančios veiklą kooperatinės bendrovės. 
+1. Reorganizavimas – tai kooperatinės bendrovės, kaip juridinio asmens, pasibaigimas be likvidavimo procedūros.
 
 
 
 
-Kooperatinės bendrovės gali būti reorganizuojamos šiais būdais: 
+2. Kooperatinės bendrovės gali būti reorganizuojamos šiais būdais:
 
 
 1) jungimo;
@@ -884,173 +1026,267 @@ Kooperatinės bendrovės gali būti reorganizuojamos šiais būdais:
 
 
 
-Reorganizavimas kooperatinių bendrovių jungimo būdu galimas:
+3. Galimi kooperatinių bendrovių jungimo būdai yra prijungimas ir sujungimas:
 
 
-1) prie kooperatinės bendrovės, kuri tęsia veiklą, prijungiant kitas (vieną ar kelias) kooperatines bendroves, kurios kaip juridiniai asmenys baigia veiklą; 
-
-
-
-
-2) iš kooperatinių bendrovių, kurios kaip juridiniai asmenys baigia veiklą, įsteigiant naują kooperatinę bendrovę. 
+1) prijungimas – vienos ar daugiau kooperatinių bendrovių prijungimas prie kitos kooperatinės bendrovės, kuriai pereina visos reorganizuojamos kooperatinės bendrovės teisės ir pareigos;
 
 
 
 
-
-
-Reorganizavimas bendrovių skaidymo būdu galimas: 
-
-
-1) kooperatinę bendrovę, kuri baigia veiklą, išdalijant kitoms kooperatinėms bendrovėms, kurios tęsia veiklą; 
-
-
-
-
-2) iš kooperatinės bendrovės, kuri baigia veiklą, steigiant naujas kooperatines bendroves; 
-
-
-
-
-3) iš kooperatinės bendrovės, kuri tęsia veiklą, atskiriant dalį, kuri jungiama prie kitos kooperatinės bendrovės arba iš kurios steigiama nauja kooperatinė bendrovė. 
+2) sujungimas – dviejų ar daugiau kooperatinių bendrovių susivienijimas į naują kooperatinę bendrovę, kuriai pereina visos reorganizuotų kooperatinių bendrovių teisės ir pareigos.
 
 
 
 
 
 
-Reorganizuojamos kooperatinės bendrovės turi parengti reorganizavimo projektą, kuriame turi būti nurodyta: 
+4. Galimi kooperatinių bendrovių skaidymo būdai yra išdalijimas ir padalijimas:
 
 
-1) kiekvienos reorganizuojamos kooperatinės bendrovės pavadinimas, buveinė; 
-
-
-
-
-2) kiekvienos reorganizuojamos kooperatinės bendrovės turto įvertinimas; 
+1) išdalijimas – reorganizuojamos kooperatinės bendrovės teisių ir pareigų išdalijimas kitoms veikiančioms kooperatinėms bendrovėms;
 
 
 
 
-3) prievolių, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki po reorganizavimo veikiančių įmonių įstatų įregistravimo įstatymų nustatyta tvarka, perėmimas ir perėmimo terminai;
-Straipsnio punkto pakeitimai:
-Nr. VIII-380, 1997-07-02, Žin., 1997, Nr. 69-1741 (1997-07-23), i. k. 0971010ISTAVIII-380
+2) padalijimas – vienos reorganizuojamos kooperatinės bendrovės pagrindu įsteigimas dviejų ar daugiau kooperatinių bendrovių, kurioms tam tikromis dalimis pereina reorganizuotos kooperatinės bendrovės teisės ir pareigos.
+
+
+
+
+
+
+5. Reorganizavime dalyvaujančių kooperatinių bendrovių valdymo organai privalo parengti reorganizavimo sąlygas. Jose nurodoma:
+
+
+1) kiekvienos reorganizuojamos kooperatinės bendrovės pavadinimas, buveinė, kodas, pridėtinės vertės mokesčio mokėtojo kodas, registras, kuriame kaupiami ir saugomi duomenys apie šią kooperatinę bendrovę;
+
+
+
+
+2) reorganizavimo būdas, pasibaigiančios kooperatinės bendrovės ir tęsiančios veiklą po reorganizavimo kooperatinės bendrovės;
+
+
+
+
+3) reorganizuojamos kooperatinės bendrovės nario tapimo tęsiančios veiklą po reorganizavimo kooperatinės bendrovės nariu tvarka, sąlygos ir terminai bei išmokos kooperatinės bendrovės nariams;
+
+
+
+
+4) momentas, nuo kurio pasibaigiančios kooperatinės bendrovės teisės ir pareigos pereina tęsiančiai veiklą po reorganizavimo kooperatinei bendrovei;
+
+
+
+
+5) papildomos teisės, reorganizavimo laikotarpiu suteikiamos reorganizuojamų kooperatinių bendrovių valdymo ir kontrolės organams, taip pat ekspertams;
+
+
+
+
+6) sąlygos, kurias patenkinus reorganizavimas gali būti baigiamas.
+
+
+
+
+
+
+6. Kartu su reorganizavimo sąlygomis turi būti parengti kiekvienos po reorganizavimo veiksiančios kooperatinės bendrovės įstatų projektai.
+
+
+
+
+7. Kiekvienos reorganizavime dalyvaujančios kooperatinės bendrovės valdymo organai privalo parengti rašytines ataskaitas. Ataskaitose turi būti nurodyti reorganizavimo tikslai, paaiškintos reorganizavimo sąlygos, kooperatinės bendrovės veiklos tęstinumas, taip pat nurodyti reorganizavimo terminai bei ekonominiai pagrindai, jei to pareikalauja reorganizavime dalyvaujančios kooperatinės bendrovės nariai, turintys ne mažiau kaip 1/20 balsų.
+
+
+
+
+8. Kooperatinės bendrovės reorganizavimo sąlygos turi būti įvertintos reikiamos kvalifikacijos nepriklausomų ekspertų. Kiekviena reorganizavime dalyvaujanti kooperatinė bendrovė skiria ekspertą.
+
+
+
+
+9. Apie reorganizavimo sąlygų sudarymą turi būti paskelbta viešai tris kartus, darant ne mažesnes kaip 30 dienų pertraukas, arba paskelbta viešai vieną kartą ir pranešta visiems kooperatinės bendrovės kreditoriams raštu. Pranešime turi būti nurodyta: kiekvienos reorganizuojamos kooperatinės bendrovės pavadinimas, buveinė, kodas, pridėtinės vertės mokesčio mokėtojo kodas, registras, kuriame kaupiami ir saugomi duomenys apie šią kooperatinę bendrovę, reorganizavimo būdas, pasibaigiančios kooperatinės bendrovės ir tęsiančios veiklą po reorganizavimo kooperatinės bendrovės momentas, nuo kurio pasibaigiančios kooperatinės bendrovės teisės ir pareigos pereina tęsiančiai veiklą po reorganizavimo kooperatinei bendrovei, kur ir nuo kada galima susipažinti su reorganizavimo sąlygomis, po reorganizavimo tęsiančių veiklą ir (ar) naujai kuriamų kooperatinių bendrovių steigimo dokumentais ar jų projektais ir visų reorganizavime dalyvaujančių kooperatinių bendrovių valdymo organų parengtomis ataskaitomis, ekspertų vertinimais bei praėjusių 3 finansinių metų finansinėmis atskaitomybėmis.
+
+
+
+
+10. Sprendimas dėl kooperatinės bendrovės reorganizavimo turi būti priimtas ne mažiau kaip 2/3 kooperatinės bendrovės narių, užsiregistravusių susirinkimo dalyvių sąraše, balsų. Sprendimas dėl kooperatinės bendrovės reorganizavimo gali būti priimtas tik praėjus 30 dienų nuo reorganizavimo sąlygų viešo paskelbimo. Sprendimu dėl kooperatinės bendrovės reorganizavimo turi būti patvirtintos reorganizavimo sąlygos ir pakeisti ar priimti nauji įstatai.
+
+
+
+
+11. Sprendimo dėl kooperatinės bendrovės reorganizavimo priėmimą patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui ne vėliau kaip pirmą viešo paskelbimo dieną. Juridinių asmenų registro tvarkytojas apie sprendimą reorganizuoti kooperatinę bendrovę turi paskelbti teisės aktų nustatyta tvarka.
+
+
+
+
+12. Reorganizavimas laikomas baigtu, kai juridinių asmenų registre įregistruojamos po reorganizavimo sukurtos naujos kooperatinės bendrovės ar įregistruojami tęsiančių veiklą kooperatinių bendrovių pakeisti įstatai.
+
+
+
+
+13. Reorganizuojant naujai įkurtos kooperatinės bendrovės pirmasis narių susirinkimas turi išrinkti kooperatinės bendrovės valdymo ir kontrolės organus.
+
+
+
+
+14. Likviduojama kooperatinė bendrovė negali būti reorganizuojama.
  
 
 
 
 
-4) kooperatinių bendrovių, kurios susijusios su reorganizavimu, narių ir jų pajų skirstymo po reorganizavimo veiksiančioms kooperatinėms bendrovėms kriterijai ir taisyklės; 
 
 
+20 straipsnis. Kooperatinės bendrovės pertvarkymas
 
 
-5) turtinės ir neturtinės narių teisės po kooperatinės bendrovės reorganizavimo, jų įgijimo terminai; 
+1. Kooperatinė bendrovė pertvarkoma Civilinio kodekso ir šio Įstatymo nustatyta tvarka. Po pertvarkymo veiksiančiam juridiniam asmeniui pereina visos pertvarkomos kooperatinės bendrovės teisės ir pareigos.
 
 
 
 
-6) po reorganizavimo veiksiančių kooperatinių bendrovių laukiami ūkinės veiklos rodikliai; 
+2. Sprendimą pertvarkyti kooperatinę bendrovę ir kartu po pertvarkymo veiksiančio juridinio asmens steigimo dokumentus priima narių susirinkimas ne mažiau kaip 2/3 kooperatinės bendrovės narių, užsiregistravusių susirinkimo dalyvių sąraše, balsų.
 
 
 
 
-7) teisės, reorganizavimo laikotarpiu suteikiamos kooperatinių bendrovių valdymo organams ir revizoriams. 
+3. Apie kooperatinės bendrovės pertvarkymą turi būti paskelbta įstatuose nustatyta tvarka viešai 3 kartus, darant ne mažesnes kaip 30 dienų pertraukas, arba viešai vieną kartą ne vėliau kaip prieš 30 dienų iki sprendimo dėl pertvarkymo priėmimo ir pranešta raštu visiems kooperatinės bendrovės kreditoriams. Pranešime nurodoma:
 
 
+1) kooperatinės bendrovės pavadinimas;
 
 
 
 
-Kartu su reorganizavimo projektu turi būti parengti kiekvienos po reorganizavimo veiksiančios kooperatinės bendrovės įstatai. 
+2) kooperatinės bendrovės buveinė;
 
 
 
 
-Apie numatomą reorganizavimą kiekviena kooperatinė bendrovė privalo viešai paskelbti ne vėliau kaip prieš 30 dienų iki narių (įgaliotinių) susirinkimo, kurio darbotvarkėje numatyta svarstyti jos reorganizavimą. Kiekvienas narys turi teisę per tą laikotarpį susipažinti su reorganizavimo projektu, reorganizuojamų kooperatinių bendrovių veiklos rodikliais bei kopijuoti šiuos dokumentus. 
+3) kooperatinės bendrovės kodas;
 
 
 
 
-Nutarimas patvirtinti reorganizavimo projektą bei parengtus įstatus priimamas ne mažiau kaip 2/3 balsų. 
+4) registras, kuriame kaupiami ir saugomi duomenys apie pertvarkomą kooperatinę bendrovę;
 
 
 
 
-Kooperatinė bendrovė, kuriai iškelta bankroto byla arba kuriai taikoma neteisminė bankroto procedūra, gali būti reorganizuojama Lietuvos Respublikos įmonių bankroto įstatymo nustatyta tvarka. 
+5) juridinio asmens, į kurį pertvarkoma kooperatinė bendrovė, teisinė forma;
 
 
 
 
-Apie kooperatinės bendrovės reorganizavimą viešai skelbiama du kartus su mėnesio pertrauka. Prieš pirmąjį skelbimą apie reorganizavimą kiekvienam kreditoriui pranešama raštu. 
+6) pertvarkomos kooperatinės bendrovės nario tapimo po pertvarkymo tęsiančio veiklą juridinio asmens dalyviu tvarka, sąlygos ir terminai;
 
 
 
 
-Po reorganizavimo veikiančių bendrovių įstatai registruojami po pirmojo narių (įgaliotinių) susirinkimo. 
+7) momentas, nuo kurio pertvarkomos kooperatinės bendrovės teisės ir pareigos pereina po pertvarkymo tęsiančiam veiklą juridiniam asmeniui;
 
 
 
 
+8) kur ir nuo kada galima susipažinti su pertvarkymo sąlygomis, jeigu jos sudaromos, po pertvarkymo veiksiančio juridinio asmens steigimo dokumentais ir pertvarkomos kooperatinės bendrovės praėjusių 3 finansinių metų metinėmis finansinėmis atskaitomybėmis.
 
 
-20 straipsnis. Kooperatinės bendrovės likvidavimas ir likvidavimo tvarka 
 
 
-Kooperatinė bendrovė likviduojama: 
 
 
-1) narių (įgaliotinių) susirinkimo nutarimu; 
+4. Sprendimo dėl kooperatinės bendrovės pertvarkymo priėmimą patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui ne vėliau kaip pirmą viešo paskelbimo dieną. Juridinių asmenų registro tvarkytojas apie sprendimą pertvarkyti kooperatinę bendrovę turi paskelbti teisės aktų nustatyta tvarka.
 
 
 
 
-2) pasibaigus įstatuose numatytam veiklos terminui; 
+5. Pertvarkymas laikomas baigtu nuo po pertvarkymo veiksiančio juridinio asmens steigimo dokumentų įregistravimo juridinių asmenų registre.
 
 
 
 
-3) likus mažiau narių negu nustatyta įstatyme; 
+6. Steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per 6 mėnesius nuo sprendimo pertvarkyti kooperatinę bendrovę priėmimo.
+ 
 
 
 
 
-4) teismo sprendimu pripažinus kooperatinę bendrovę nemokia;
 
 
+21 straipsnis. Kooperatinės bendrovės likvidavimas
 
 
-5) teismo sprendimu už Lietuvos Respublikos įstatymų nustatytus teisės pažeidimus. 
+1. Kooperatinė bendrovė likviduojama:
 
 
+1) narių susirinkimo sprendimu;
 
 
 
 
-Kooperatinės bendrovės likvidavimo tvarką nustato šis ir kiti Lietuvos Respublikos įstatymai bei kooperatinės bendrovės įstatai.
+2) pasibaigus įstatuose numatytam veiklos terminui;
 
 
 
 
-Institucija, priėmusi sprendimą nutraukti kooperatinės bendrovės veiklą, paskiria likvidatorius arba įpareigoja tą padaryti kooperatinės bendrovės valdybą (valdytoją).
+3) kooperatinės bendrovės narių skaičiui sumažėjus mažiau, negu yra šio Įstatymo leidžiamas minimumas, jeigu kooperatinės bendrovės nariai per 6 mėnesius po tokio sumažėjimo nenutaria kooperatinės bendrovės reorganizuoti ar pertvarkyti;
 
 
 
 
-Paskyrus likvidatorius, kooperatinė bendrovė įgyja likviduojamos bendrovės statusą. Kooperatinės bendrovės valdyba (valdytojas) netenka savo įgaliojimų. Jos funkcijas perima likvidatoriai, kurie:
+4) teismo ar kreditorių susirinkimo sprendimu likviduoti bankrutavusią kooperatinę bendrovę;
 
 
-1) perregistruoja kooperatinę bendrovę į likviduojamą kooperatinę bendrovę;
 
 
+5) teismo sprendimu, kai kooperatinės bendrovės steigimas pripažįstamas negaliojančiu, kaip tai nustatyta Civiliniame kodekse;
 
 
-2) viešai spaudoje du kartus, su mėnesio pertrauka, paskelbia apie kooperatinės bendrovės likvidavimą arba praneša kiekvienam kooperatyvo nariui ir kreditoriui;
 
 
+6) teismo sprendimu juridinių asmenų registro tvarkytojo iniciatyva, kaip tai nustatyta Civiliniame kodekse;
 
 
-3) atstovauja likviduojamai kooperatinei bendrovei teisme, santykiuose su valstybės valdžios ir valdymo institucijomis bei kitais juridiniais ir fiziniais asmenimis;
+
+
+7) teismo sprendimu, kai kooperatinės bendrovės veikla pripažįstama netinkama, kaip tai nustatyta Civiliniame kodekse, ir taikoma likvidavimo priemonė.
+
+
+
+
+
+
+2. Kooperatinės bendrovės likvidavimo tvarką nustato Civilinis kodeksas ir šis Įstatymas.
+
+
+
+
+3. Asmuo, priėmęs sprendimą likviduoti kooperatinę bendrovę, paskiria likvidatorių. Juo turi būti reikiamos kvalifikacijos asmuo. Gali būti skiriama keletas likvidatorių. Jei skiriama keletas likvidatorių, yra sudaroma likvidacinė komisija ir vienas iš likvidatorių skiriamas likvidacinės komisijos pirmininku.
+
+
+
+
+4. Nuo likvidatoriaus (likvidacinės komisijos) paskyrimo kooperatinės bendrovės organai, išskyrus narių susirinkimą, netenka įgaliojimų, kooperatinės bendrovės narių susirinkimo kompetencija dėl sandorių sudarymo, taip pat valdymo ir kontrolės organų teisės bei pareigos pereina likvidatoriui (likvidacinei komisijai).
+
+
+
+
+5. Likvidatorius (likvidacinė komisija):
+
+
+1) pateikia juridinių asmenų registrui dokumentus, reikalingus pasikeitusiems registro duomenims įregistruoti;
+
+
+
+
+2) skelbia apie likvidavimą šio straipsnio 7 dalyje nustatyta tvarka;
+
+
+
+
+3) atstovauja likviduojamai kooperatinei bendrovei teisme, santykiuose su valstybės institucijomis, įstaigomis bei kitais juridiniais ir fiziniais asmenimis;
 
 
 
@@ -1060,97 +1296,82 @@ Paskyrus likvidatorius, kooperatinė bendrovė įgyja likviduojamos bendrovės s
 
 
 
-5) baigia vykdyti prievoles, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, ne vėliau kaip per 6 mėnesius nuo likvidavimo paskelbimo dienos, pagal kooperatinės bendrovės sandorius ir sudaro naujus, neprieštaraujančius likviduojamos bendrovės veiklą reglamentuojantiems įstatymams;
-Straipsnio punkto pakeitimai:
-Nr. VIII-380, 1997-07-02, Žin., 1997, Nr. 69-1741 (1997-07-23), i. k. 0971010ISTAVIII-380
+5) pagal kooperatinės bendrovės sandorius baigia vykdyti prievoles, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų apskaičiuotas sumas, tarp jų baudas ir delspinigius, ne vėliau kaip per 6 mėnesius nuo likvidavimo paskelbimo dienos ir sudaro naujus sandorius, neprieštaraujančius likviduojamos kooperatinės bendrovės veiklą reglamentuojantiems įstatymams, atsiskaito kooperatinės bendrovės narių susirinkimui jo nustatytais terminais;
+
+
+
+
+6) per 6 mėnesius nuo likvidavimo paskelbimo dienos priima ir tenkina kreditorių reikalavimus, išieško debitorinius įsiskolinimus;
+
+
+
+
+7) išaiškėjus ginčytinoms prievolėms, iš kooperatinės bendrovės turto išskiria atitinkamą lėšų sumą joms vykdyti ir įmoka į notariato depozito sąskaitą;
+
+
+
+
+8) likusį turtą, praėjus 6 mėnesiams nuo likvidavimo paskelbimo dienos, įstatuose nustatyta tvarka padalija kooperatinės bendrovės nariams, atsižvelgdamas į jų pajaus dydį. Kilus ginčams tarp kooperatinės bendrovės narių dėl likusio turto padalijimo, likvidatorius (likvidacinė komisija) sustabdo turto dalijimą. Narių tarpusavio ginčai ir ginčai su likvidatoriumi sprendžiami teisme;
+
+
+
+
+9) pateikia juridinių asmenų registrui dokumentus, kurie reikalingi likviduotai kooperatinei bendrovei išregistruoti iš juridinių asmenų registro.
+
+
+
+
+
+
+6. Likvidatorius (likvidacinė komisija), kuris nevykdo savo pareigų ar vykdo jas netinkamai, privalo atlyginti kooperatinei bendrovei visą dėl to padarytą žalą, jei kooperatinės bendrovės įstatai nenumato kitaip. Likvidacinė komisija yra solidariai atsakinga kooperatinei bendrovei ir tretiesiems asmenims už nuostolius, kurie susidarė dėl šios komisijos kaltės.
+
+
+
+
+7. Apie kooperatinės bendrovės likvidavimą viešai skelbiama 2 kartus, darant 30 dienų pertrauką, taip pat pranešama kiekvienam kooperatinės bendrovės nariui ir kreditoriui pasirašytinai ar registruotu laišku. Apie kooperatinės bendrovės likvidavimą pranešama juridinių asmenų registrui ne vėliau kaip pirmą pirmojo viešo paskelbimo dieną.
+
+
+
+
+8. Likviduojama kooperatinė bendrovė gali sudaryti tik tuos sandorius, kurie yra susiję su kooperatinės bendrovės veiklos nutraukimu arba kurie numatyti sprendime likviduoti kooperatinę bendrovę.
+
+
+
+
+9. Likviduotos kooperatinės bendrovės dokumentai saugomi įstatymų ir kitų teisės aktų nustatyta tvarka.
  
 
 
 
 
-6) per 6 mėnesius nuo likvidavimo paskelbimo dienos priima ir tenkina kreditorių reikalavimus ir pretenzijas, išieško debitorinius įsiskolinimus;
 
 
 
 
-7) išaiškėjus ginčytinoms prievolėms, iš kooperatinės bendrovės turto išskiria atitinkamą sumą joms vykdyti ir įmoka į notariato depozito sąskaitą;
-
-
-
-
-8) patenkina kreditorių reikalavimus. Likusį turtą, praėjus 6 mėnesiams nuo likvidavimo paskelbimo dienos, padalija kooperatinės bendrovės nariams įstatuose nustatyta tvarka, atsižvelgdami į jų pajus ir priklausančio turto dydį (jei turtas priskirtas). Kilus ginčams tarp kooperatinės bendrovės narių dėl likusio turto padalijimo, likvidatoriai sustabdo turto dalijimą. Narių tarpusavio ginčai ir ginčai su likvidatoriais sprendžiami narių (įgaliotinių) susirinkime, o jam neišsprendus – teisme;
-
-
-
-
-9) likvidavimo laikotarpiu teikia kooperatinių bendrovių narių (įgaliotinių) susirinkimui jo nustatytais terminais ataskaitą apie savo veiklą. Baigus likvidavimą, pateikia galutinę ataskaitą.
-
-
-
-
-
-
-Likvidatoriai yra solidariai atsakingi kooperatinei bendrovei ir tretiesiems asmenims už nuostolius, kurie susidarė dėl likvidatorių kaltės. Jei likvidatorius veikia atskirai, tai už nuostolius atsako individualiai.
-
-
-
-
-Likviduotos kooperatinės bendrovės dokumentai saugomi Lietuvos Respublikos Vyriausybės nustatyta tvarka. Buvę kooperatinės bendrovės nariai ir jų įpėdiniai turi teisę susipažinti su saugomais dokumentais ir gauti jų nuorašus.
-
-
-
-
-Skirsnio pakeitimai:
-Nr. I-823, 1995-03-21, Žin., 1995, Nr. 27-601 (1995-03-29), i. k. 0951010ISTA000I-823
- 
-
-
-
-
-VI SKIRSNIS. 
+SEPTINTASIS SKIRSNIS
 KOOPERATINIŲ BENDROVIŲ SĄJUNGOS
-(ASOCIACIJOS)
  
 
 
-21 straipsnis. Sąjungų (asociacijų) steigimas ir veikla
+22 straipsnis. Kooperatinių bendrovių sąjungų steigimas ir veikla
 
 
-Kooperatinės bendrovės gali jungtis į sąjungas (asociacijas) įstatuose numatytiems uždaviniams spręsti. Sąjungų (asociacijų) nariais gali būti ir kiti juridiniai asmenys (bendrovės, asociacijos, draugijos ir kt.), jei jų narystė atitinka kooperatinių bendrovių sąjungų (asociacijų) tikslus. Kooperatinių bendrovių sąjungą (asociaciją) gali sudaryti du ir daugiau juridinių asmenų.
-
-
-
-
-Kooperatinių bendrovių sąjungos (asociacijos) steigiamos, registruojamos, valdomos, veikia ir likviduojamos tokia pat tvarka, kaip ir kooperatinės bendrovės.
+1. Kooperatinės bendrovės gali jungtis į sąjungas jų įstatuose numatytiems tikslams įgyvendinti. Sąjungų nariais gali būti ir kiti juridiniai asmenys (bendrovės, asociacijos, draugijos ir kt.), jei jų narystė atitinka kooperatinių bendrovių sąjungų tikslus. Kooperatinių bendrovių sąjungą turi sudaryti dvi ar daugiau kooperatinių bendrovių.
 
 
 
 
-Kooperatinių bendrovių sąjungos (asociacijos) veikia pagal savo įstatus, kuriuos priima jų delegatų (įgaliotinių) suvažiavimai, konferencijos ar susirinkimai. Sąjunga (asociacija) laikoma įsteigta, kai nustatyta tvarka įregistruojama.
+2. Kooperatinių bendrovių sąjungos steigiamos, valdomos, veikia, reorganizuojamos ir likviduojamos tokia pat tvarka kaip ir kooperatinės bendrovės.
 
 
 
 
-Kooperatinės bendrovės ir jų sąjungos (asociacijos) gali dalyvauti tarptautinių kooperacijos organizacijų veikloje ir plėtoti kitą tarptautinę veiklą.
- 
+3. Kooperatinių bendrovių sąjungos veikia pagal savo įstatus. Įstatus priima jų delegatų suvažiavimai, konferencijos ar susirinkimai. Šio Įstatymo nustatyta tvarka įregistruota sąjunga laikoma įsteigta.
 
 
 
 
-
-
-
-
-VII SKIRSNIS. 
-BAIGIAMOJI DALIS
- 
-
-
-22 straipsnis. Įstatymo įsigaliojimas
-
-
-Įstatymas įsigalioja nuo 1993 m. liepos 1 dienos.
- 
+4. Kooperatinės bendrovės ir jų sąjungos gali dalyvauti tarptautinių kooperacijos organizacijų veikloje ir plėtoti kitą tarptautinę veiklą.
  
 
 
@@ -1169,6 +1390,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
@@ -1180,3 +1402,18 @@ Dėl Lietuvos Respublikos kooperacijos įstatymo pakeitimo ir papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-380, 1997-07-02, Žin., 1997, Nr. 69-1741 (1997-07-23), i. k. 0971010ISTAVIII-380
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 19 ir 20 straipsnių papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1564, 2000-03-14, Žin., 2000, Nr. 26-667 (2000-03-29), i. k. 1001010ISTAIII-1564
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 3, 5, 7, 8, 11, 14, 18, 21 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1872, 2000-07-18, Žin., 2000, Nr. 64-1938 (2000-07-31), i. k. 1001010ISTAIII-1872
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 7 straipsnio papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-903, 2002-05-28, Žin., 2002, Nr. 57-2296 (2002-06-12), i. k. 1021010ISTA00IX-903
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo pakeitimo įstatymas
