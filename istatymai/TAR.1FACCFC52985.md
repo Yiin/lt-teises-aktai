@@ -13,11 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FACCFC52985"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 1999-04-02 iki 1999-12-31
+Suvestinė redakcija nuo 2000-01-01 iki 2000-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 190-0; Žin. 1992, Nr.29-841, i. k. 0921010ISTA00I-2878
  
-TAR pastaba. Nuo 1999-04-02 Lietuvos Respublikos konkurencijos įstatymas netenka galios, išskyrus jo 4 straipsnį, kuris netenka galios nuo 2000-01-01, ir 7 straipsnio 1 dalies 2 punktą, kuris netenka galios nuo Lietuvos Respublikos įstatymo, reglamentuojančio klaidinančios reklamos naudojimą, įsigaliojimo (2001-01-01)
+TAR pastaba. Nuo 1999-04-02 netenka galios Lietuvos Respublikos konkurencijos įstatymas, išskyrus jo 4 straipsnį, kuris netenka galios nuo 2000-01-01., ir 7 straipsnio 1 dalies 2 punktą, kuris netenka galios nuo Lietuvos Respublikos įstatymo, reglamentuojančio klaidinančios reklamos naudojimą, įsigaliojimo (2001-01-01)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1100, 1999-03-23, Žin., 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
 Lietuvos Respublikos konkurencijos įstatymo įsigaliojimo įstatymas
@@ -34,40 +34,9 @@ Skirsnio naikinimas:
 Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
  
 
-II SKIRSNIS
-KONKURENCIJĄ RIBOJANČIOS VEIKOS
- 
-
-3 straipsnis. Neteko galios nuo 1999-04-02
-Straipsnio naikinimas:
+2 skirsnis. Neteko galios nuo 2000-01-01
+Skirsnio naikinimas:
 Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
- 
-
-4 straipsnis. Ribojančių ar trukdančių konkurencijai susitarimų (suderintų veiksmų) tarp ūkinių subjektų draudimas
-
-Susitarimai ar suderinti veiksmai tarp konkuruojančių ūkinių subjektų (ar potencialių konkurentų) yra draudžiami, jei jie riboja ar trukdo konkurencijai. Tokio pobūdžio susitarimams priskiriami susitarimai ir suderinti veiksmai dėl:
-
-1) kainų (įskaitant nustatomas aukcionuose ar konkursuose), nuolaidų, antkainių ar kitokių išmokų;
-
-2) gamybos apimčių;
-
-3) rinkos pasidalijimo pagal teritorinį principą, parduodamų ar įsigyjamų prekių kiekį, prekių rūšis arba pirkėjų ir pardavėjų grupes ar kaip kitaip;
-
-4) kitų ūkinių subjektų išstūmimo iš rinkos arba įėjimo į rinką (jos dalį) apribojimo;
-
-5) atsisakymo sudaryti sutartį su tam tikrais prekių pardavėjais ar pirkėjais.
- 
-
-5 straipsnis. Neteko galios nuo 1999-04-02
-Straipsnio naikinimas:
-Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
- 
-
-6 straipsnis. Neteko galios nuo 1999-04-02
-Straipsnio naikinimas:
-Nr. VIII-1100, 1999-03-23, Žin. 1999, Nr. 30-857 (1999-04-02), i. k. 0991010ISTAIII-1100
-Straipsnio pakeitimai:
-Nr. I-262, 1993-10-05, Žin., 1993, Nr. 52-1001 (1993-10-13), i. k. 0931010ISTA000I-262
  
 
 III SKIRSNIS
