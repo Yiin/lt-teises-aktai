@@ -13,6 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.73258FCBC1C2"
 
 # Dėl kai kurių Lietuvos Respublikos įstatymų atskirų straipsnių pakeitimo
 
+Įstatymas netenka galios 2004-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1891, 2003-12-11, Žin., 2003, Nr. 123-5576 (2003-12-30), i. k. 1031010ISTA0IX-1891
+Lietuvos Respublikos įmonių įstatymo, jį keitusių bei su juo susijusių įstatymų pripažinimo netekusiais galios įstatymas
+ 
+Suvestinė redakcija nuo 1997-12-01 iki 2003-12-31
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.20-590, i. k. 0921010ISTA00I-2658
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
@@ -22,21 +31,10 @@ DĖL KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ ATSKIRŲ STRAIPSNIŲ PAKEITIMO
 
 Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
-1. Pakeisti Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo (Žin., 1991, Nr. 10-261, 10-262, 22-575, 23-604; 1992, Nr. 3-32) kai kuriuos straipsnius:
-
-1) 7 straipsnio antrąją dalį išdėstyti taip:
-
-„2. Privatizavimo objektų, parduodamų tik už laisvai konvertuojamą valiutą, sąrašą tvirtina Centrinė privatizavimo komisija.“;
-
-2) 9 straipsnio ketvirtojoje dalyje išbraukti žodžius „Lietuvos Respublikos Aukščiausiosios Tarybos“ ir vietoj jų įrašyti žodžius „Centrinės privatizavimo komisijos“;
-
-3) papildyti 14 straipsnio pirmąją dalį tokiu trečiuoju punktu:
-
-„3) rengiant konkursus privatizavimo objektams, parduodamiems už laisvai konvertuojamą valiutą, įsigyti. Konkursų rengimo tvarką ir sąlygas nustato Lietuvos Respublikos Vyriausybė.“;
-
-4) papildyti 14 straipsnio ketvirtąją dalį tokiu sakiniu:
-
-„Ši sąlyga netaikoma objektams, parduodamiems už laisvai konvertuojamą valiutą.“.
+1 straipsnis. Neteko galios nuo 1997-12-01
+Straipsnio naikinimas:
+Nr. VIII-480, 1997-11-04, Žin. 1997, Nr. 107-2688 (1997-11-26), i. k. 0971010ISTAVIII-480
+ 
 
 2. Lietuvos Respublikos užsienio investicijoms draudžiamų ir ribojamų sričių įstatymo (Žin., 1991, Nr. 14-361) 5 straipsnyje išbraukti žodžius „gaminti tabako gaminius;“.
 
@@ -50,4 +48,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1992 m. birželio 23 d. 
 Nr. I-2658
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-480, 1997-11-04, Žin., 1997, Nr. 107-2688 (1997-11-26), i. k. 0971010ISTAVIII-480
+Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
