@@ -13,6 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.03C1BFC03B69"
 
 # Dėl valstybės valdžios bei valdymo institucijų, savivaldos institucijų, valstybės ir savivaldybių įmonių, įstaigų ir organizacijų nenaudojamo ilgalaikio materialiojo turto nurašymo
 
+Įstatymas netenka galios 2000-07-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1686, 2000-05-18, Žin., 2000, Nr. 47-1340 (2000-06-09), i. k. 1001010ISTAIII-1686
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo pakeitimo ir papildymo įstatymas
+ 
+Suvestinė redakcija nuo 1997-11-19 iki 2000-06-30
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 103-2296, i. k. 0951010ISTA00I-1103
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
@@ -33,25 +42,36 @@ nekilnojamasis turtas – žemė ir su ja susiję objektai, kurių buvimo vietos
 2 straipsnis. Šis įstatymas nustato valstybės valdžios bei valdymo institucijų, savivaldos institucijų, valstybės ir savivaldybių įmonių, įstaigų ir organizacijų nenaudojamo ilgalaikio materialiojo turto (išskyrus žemę, laikinus pastatus, laikinus statinius, laikinus įrenginius bei laikinus perdavimo įtaisus) nurašymo tvarką ir sąlygas.
  
 
-3 straipsnis. Valstybės ir savivaldybių įmonių nenaudojamas ilgalaikis materialusis turtas (išskyrus nekilnojamąjį turtą), kurio kiekvieno objekto likutinė vertė neviršija 50 tūkst. Lt, gali būti nurašomas įmonės administracijos (direktorių valdybos) sprendimu, pritarus steigėjui.
-Savivaldos institucijų, savivaldybių įstaigų ir organizacijų, valstybės įstaigų ir organizacijų, kurios nepriskirtinos valstybės valdžios ir valdymo institucijoms, nenaudojamas ilgalaikis materialusis turtas (išskyrus nekilnojamąjį turtą), kurio kiekvieno objekto likutinė vertė neviršija 50 tūkst. Lt, gali būti nurašomas šios institucijos, įstaigos ar organizacijos vadovo sprendimu, pritarus jos steigėjui.
-Valstybės valdymo institucijų ilgalaikis materialusis turtas (išskyrus nekilnojamąjį turtą), kurio kiekvieno objekto likutinė vertė neviršija 50 tūkst. Lt, gali būti nurašomas šios institucijos vadovo sprendimu.
-Teisminės valdžios institucijų nenaudojamas ilgalaikis materialusis turtas (išskyrus nekilnojamąjį turtą), kurio kiekvieno objekto likutinė vertė neviršija 50 tūkst. Lt, gali būti nurašomas šios institucijos vadovo sprendimu.
+3 straipsnis. Valstybės ir savivaldybių įmonių nenaudojamas ilgalaikis materialusis turtas (išskyrus nekilnojamąjį turtą), kurio kiekvieno objekto likutinė vertė neviršija 25 tūkst. Lt, gali būti nurašomas įmonės administracijos (direktorių valdybos) sprendimu, pritarus steigėjui.
+Savivaldos institucijų, savivaldos įstaigų ir organizacijų, valstybės įstaigų ir organizacijų, kurios nepriskirtinos valstybės valdžios ir valdymo institucijoms, nenaudojamas ilgalaikis materialusis turtas (išskyrus nekilnojamąjį turtą), kurio kiekvieno objekto likutinė vertė neviršija 25 tūkst. Lt, gali būti nurašomas šios institucijos, įstaigos ar organizacijos vadovo sprendimu, pritarus jos steigėjui.
+Valstybės valdymo institucijų ilgalaikis materialusis turtas (išskyrus nekilnojamąjį turtą), kurio kiekvieno objekto likutinė vertė neviršija 25 tūkst. Lt, gali būti nurašomas šios institucijos vadovo sprendimu.
+Teisminės valdžios institucijų nenaudojamas ilgalaikis materialusis turtas (išskyrus nekilnojamąjį turtą), kurio kiekvieno objekto likutinė vertė neviršija 25 tūkst. Lt, gali būti nurašomas šios institucijos vadovo sprendimu.
 Valstybės valdžios institucijų, išskyrus teisminės valdžios institucijas, nenaudojamas ilgalaikis materialusis turtas gali būti nurašomas šių institucijų vadovų sprendimu.
+Straipsnio pakeitimai:
+Nr. VIII-483, 1997-11-04, Žin., 1997, Nr. 104-2617 (1997-11-19), i. k. 0971010ISTAVIII-483
  
 
-4 straipsnis. Teisminės valdžios institucijų, valstybės įmonių ar valstybės valdymo institucijų, valstybės įstaigų ir organizacijų nenaudojamas ilgalaikis materialusis turtas, kurio kiekvieno objekto likutinė vertė viršija 50 tūkst. Lt, ir nekilnojamasis turtas, tapęs nereikalingu dėl techninės rekonstrukcijos arba Lietuvos Respublikos Vyriausybės nustatyta tvarka pripažintas avariniu, gali būti nurašomas Lietuvos Respublikos Vyriausybės nutarimu.
-Savivaldos institucijų, savivaldybių įmonių, įstaigų ir organizacijų nenaudojamas ilgalaikis materialusis turtas, kurio kiekvieno objekto likutinė vertė viršija 50 tūkst. Lt, ir nekilnojamasis turtas, tapęs nereikalingu dėl techninės rekonstrukcijos arba Lietuvos Respublikos Vyriausybės nustatyta tvarka pripažintas avariniu, gali būti nurašomas savivaldybės tarybos sprendimu.
+4 straipsnis. Teisminės valdžios institucijų, valstybės įmonių ar valstybės valdymo institucijų, valstybės įstaigų ir organizacijų nenaudojamas ilgalaikis materialusis turtas, kurio kiekvieno objekto likutinė vertė viršija 25 tūkst. Lt, ir nekilnojamasis turtas, tapęs nereikalingu dėl techninės rekonstrukcijos arba Lietuvos Respublikos Vyriausybės nustatyta tvarka pripažintas avariniu, gali būti nurašomas Lietuvos Respublikos Vyriausybės nutarimu.
+Savivaldos institucijų, savivaldybių įmonių, įstaigų ir organizacijų nenaudojamas ilgalaikis materialusis turtas, kurio kiekvieno objekto likutinė vertė viršija 25 tūkst. Lt, ir nekilnojamasis turtas, tapęs nereikalingu dėl techninės rekonstrukcijos arba Lietuvos Respublikos Vyriausybės nustatyta tvarka pripažintas avariniu, gali būti nurašomas savivaldybės tarybos sprendimu.
+Straipsnio pakeitimai:
+Nr. VIII-483, 1997-11-04, Žin., 1997, Nr. 104-2617 (1997-11-19), i. k. 0971010ISTAVIII-483
  
 
 5 straipsnis. Nurašant nenaudojamą ilgalaikį materialųjį turtą, negali būti sumažintas valstybės ar savivaldybės įmonės įstatinis kapitalas.
  
 
-6 straipsnis. Valstybės valdžios bei valdymo institucijų, valstybės įmonių, įstaigų ir organizacijų nurašytas ilgalaikis materialusis turtas parduodamas prekių aukcionuose Lietuvos Respublikos Vyriausybės nustatyta tvarka.
-Savivaldos institucijų, savivaldybių įmonių, įstaigų ir organizacijų nurašytas ilgalaikis materialusis turtas parduodamas prekių aukcionuose savivaldybės tarybos nustatyta tvarka.
+6 straipsnis. Nurašytas valstybės (savivaldos) valdžios ir valdymo institucijų, valstybės ir savivaldybių įmonių, įstaigų ir organizacijų ilgalaikis materialusis turtas gali būti:
+1) privatizuojamas Valstybės ir savivaldybių turto privatizavimo įstatymo nustatyta tvarka;
+2) parduodamas viešuose prekių aukcionuose Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. VIII-483, 1997-11-04, Žin., 1997, Nr. 104-2617 (1997-11-19), i. k. 0971010ISTAVIII-483
  
 
-7 straipsnis. Lėšos už realizuotą nurašytą nenaudojamą ilgalaikį materialųjį turtą naudojamos investicijoms.
+7 straipsnis. Lėšos, gautos už realizuotą nurašytą ilgalaikį materialųjį turtą (atskaičiavus to turto saugojimo ir pardavimo išlaidas), pervedamos į:
+1) Finansų ministerijos privatizavimo fondo sąskaitą, jei šis turtas privatizuojamas Valstybės ir savivaldybių turto privatizavimo įstatymo nustatyta tvarka;
+2) valstybės biudžetą – 50 procentų lėšų, o valstybės (savivaldos) valdžios ir valdymo institucijai, valstybės ir savivaldybės įmonei, įstaigai ir organizacijai – likusios lėšos, jei šis turtas parduodamas viešuose prekių aukcionuose Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+Straipsnio pakeitimai:
+Nr. VIII-483, 1997-11-04, Žin., 1997, Nr. 104-2617 (1997-11-19), i. k. 0971010ISTAVIII-483
  
 
 8 straipsnis. Pripažinti netekusiomis galios Lietuvos Respublikos Aukščiausiosios Tarybos 1991 m. kovo 14 d. nutarimo Nr. I-1147 „Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo įsigaliojimo“ (Žin., 1991, Nr. 10-263; 1992, Nr. 11-280; 1993, Nr. 18-452; 1994, Nr. 14-239) 8 punkto 3, 4, 5, 6, 7 ir 8 pastraipas.
@@ -63,4 +83,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-483, 1997-11-04, Žin., 1997, Nr. 104-2617 (1997-11-19), i. k. 0971010ISTAVIII-483
+Lietuvos Respublikos įstatymo "Dėl valstybės valdžios bei valdymo institucijų, savivaldos institucijų, valstybės ir savivaldybių įmonių, įstaigų ir organizacijų nenaudojamo ilgalaikio materialiojo turto nurašymo" 3, 4, 6 ir 7 straipsnių pakeitimo įstatymas
 
