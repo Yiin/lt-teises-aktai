@@ -28,11 +28,6 @@ ORGANIZAVIMO IR KARO TARNYBOS
 Vilnius
  
  
-
-
-
-
- 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
@@ -71,9 +66,9 @@ kitokie struktūriniai kariniai vienetai, turintys bendrą operacinę paskirtį 
 užduotį ir vadovaujami vieno vado.
 6. Aktyvusis kariuomenės rezervas
 - kariuomenės rezervo dalis, kurią sudaro atsargos kariai, tarnavę kariuomenėje
-ar kitokiu būdu įgiję reikiamą pagrindinį karinį pasirengimą, įrašyti į kariuomenės
-atsargos personalo įskaitą ir iki įstatymo nustatyto amžiaus periodiškai
-šaukiami į karinius mokymus bei pratybas.
+ar kitokiu būdu įgiję reikiamą pagrindinį karinį pasirengimą, įrašyti į
+kariuomenės atsargos personalo įskaitą ir iki įstatymo nustatyto amžiaus
+periodiškai šaukiami į karinius mokymus bei pratybas.
 7. Operacinis vadovavimas -
 naudojimasis vadui deleguota teise organizuoti jam paskirtas pajėgas ir per
 karinių vienetų vadus vadovauti šių pajėgų veiksmams taip, kaip jis numato
@@ -241,10 +236,10 @@ bendradarbiauja su NATO struktūromis planuodama Lietuvos gynybą ir
 integruodamasi į transatlantinės kolektyvinės gynybos sistemą.
 2. Krašto apsaugos ministerija
 plėtoja partnerystę, daugiašalį ir dvišalį tarptautinį bendradarbiavimą gynybos
-srityje su NATO, Vakarų Europos Sąjunga, valstybėmis NATO narėmis, NATO
-narystės siekiančiomis valstybėmis, taip pat su kitomis valstybėmis, kai tai
-atitinka Lietuvos Respublikos integracijos į NATO tikslus. Su šiais subjektais
-krašto apsaugos sistemos institucijos bendradarbiauja:
+srityje su NATO, Vakarų Europos Sąjunga, valstybėmis NATO narėmis, NATO narystės
+siekiančiomis valstybėmis, taip pat su kitomis valstybėmis, kai tai atitinka
+Lietuvos Respublikos integracijos į NATO tikslus. Su šiais subjektais krašto
+apsaugos sistemos institucijos bendradarbiauja:
 1) pagal NATO standartus
 mokydamos kariuomenę ir rengdamos ją bei kitas krašto apsaugos sistemos
 institucijas sąveikai su NATO struktūromis; 
@@ -265,8 +260,8 @@ vienetai, kariai ir civiliai krašto apsaugos sistemos tarnautojai dalyvauja
 tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo
 renginiuose, taip pat užsienio valstybių kariniai vienetai, kariai ir karinėms
 pajėgoms priskirti civiliai tarnautojai dalyvauja tarptautinėse operacijose,
-pratybose ir kituose tarptautiniuose karinio bendradarbiavimo renginiuose Lietuvos
-Respublikos teritorijoje.
+pratybose ir kituose tarptautiniuose karinio bendradarbiavimo renginiuose
+Lietuvos Respublikos teritorijoje.
 Straipsnio
 pakeitimai:
 Nr.
@@ -327,9 +322,9 @@ sandorių sudarymo apribojimai
 institucijos finansuojamos iš valstybės biudžeto. Krašto apsaugos sistemai
 plėtoti gali būti nustatyta tvarka panaudoti ir užsienio kreditai bei parama.
 2. Vyriausiasis krašto apsaugos
-sistemos asignavimų valdytojas yra krašto apsaugos ministras. Krašto apsaugos sistemos
-institucijų finansinė veikla ir biudžetai kontroliuojami įstatymų nustatyta
-tvarka.
+sistemos asignavimų valdytojas yra krašto apsaugos ministras. Krašto apsaugos
+sistemos institucijų finansinė veikla ir biudžetai kontroliuojami įstatymų
+nustatyta tvarka.
 3. Kariuomenės ir kitų krašto
 apsaugos sistemos juridinių asmenų, išskyrus Krašto apsaugos ministeriją,
 sandorių sudarymui gali būti taikomi apribojimai, kuriuos nustato krašto
@@ -383,8 +378,8 @@ kontržvalgybos operatyvines tarnybas;
 poilsio įstaigas - karininkų ramoves ir sporto klubus;
 6) steigti visuomenės informavimo
 priemones arba jų redakcijas;
-7) turėti savo butų fondą ir nuomoti namus
-bei butus kariams aprūpinti tarnybinėmis gyvenamosiomis patalpomis;
+7) turėti savo butų fondą ir nuomoti
+namus bei butus kariams aprūpinti tarnybinėmis gyvenamosiomis patalpomis;
 8) gauti užsienio paramą krašto
 apsaugos sistemai ir įvežti ją per valstybės sieną;
 9) įsigyti ir įvežti per
@@ -405,8 +400,8 @@ IX-1359,
  
 10 straipsnis.
 Krašto apsaugos ministro teisės, pareigos ir atsakomybė
-1. Krašto apsaugos ministras
-atsakingas už krašto apsaugos sistemai priskirtų uždavinių ir funkcijų vykdymą,
+1. Krašto apsaugos ministras atsakingas
+už krašto apsaugos sistemai priskirtų uždavinių ir funkcijų vykdymą,
 kariuomenės ir kitų jam pavaldžių krašto apsaugos sistemos institucijų veiklą
 bei plėtrą efektyviai naudojant valstybės skirtus išteklius.
 2. Krašto apsaugos ministras:
@@ -455,11 +450,11 @@ gynyboje pasižymėjusių asmenų valstybinių apdovanojimų;
 14) teikia Respublikos
 Prezidentui lauko pajėgų vado kandidatūrą;
 15) skiria į pareigas ir iš jų
-atleidžia krašto apsaugos generalinį inspektorių, Lietuvos karo akademijos viršininką,
-Gynybos štabo viršininką, Savanorių pajėgų vadą, reguliariųjų pajėgų rūšių
-vadus, karinių apygardų vadus, puskarininkių mokyklos ir kitų karinių mokymo
-įstaigų viršininkus, pagal įstatymų suteiktus įgaliojimus ir kompetenciją
-nustato jų teises ir pareigas;
+atleidžia krašto apsaugos generalinį inspektorių, Lietuvos karo akademijos
+viršininką, Gynybos štabo viršininką, Savanorių pajėgų vadą, reguliariųjų
+pajėgų rūšių vadus, karinių apygardų vadus, puskarininkių mokyklos ir kitų
+karinių mokymo įstaigų viršininkus, pagal įstatymų suteiktus įgaliojimus ir
+kompetenciją nustato jų teises ir pareigas;
 16) skiria karius į bataliono
 vado ir aukštesnes pareigas, taip pat į pulkininko leitenanto (komandoro) ir
 pulkininko (jūrų kapitono) laipsnį atitinkančias pareigas, juos atleidžia iš
@@ -577,8 +572,8 @@ Kariuomenės vadas
 1.
 Kariuomenės vadą Lietuvos Respublikos Konstitucijos nustatyta tvarka skiria
 Respublikos Prezidentas. Paskirtas kariuomenės vadas pareigas eina ne ilgiau
-kaip 5 metus. Kariuomenės vadas, pradėdamas eiti pareigas, iškilmingoje
-aplinkoje prisiekia ir pasirašo priesaikos lapą.
+kaip 5 metus. Kariuomenės vadas, pradėdamas eiti pareigas, iškilmingoje aplinkoje
+prisiekia ir pasirašo priesaikos lapą.
 2.
 Kariuomenės vado priesaikos tekstas: 
 „Aš,
@@ -741,8 +736,8 @@ suderinęs su krašto apsaugos ministru.
 vykdyti padeda jam tiesiogiai pavaldus lauko (sausumos) pajėgų štabas, kurio
 struktūrą nustato krašto apsaugos ministras.
 14. Krašto apsaugos generalinis
-inspektorius kontroliuoja kariuomenės vienetų bendrą ir kovinį pasirengimą, taip
-pat Valstybės sienos apsaugos tarnybos ir policijos pajėgų pasirengimą
+inspektorius kontroliuoja kariuomenės vienetų bendrą ir kovinį pasirengimą,
+taip pat Valstybės sienos apsaugos tarnybos ir policijos pajėgų pasirengimą
 bendriems su kariuomene gynybos veiksmams.
 Straipsnio
 pakeitimai:
@@ -922,11 +917,11 @@ suminė savaitės tarnybos trukmė nėra apribota ir priklauso nuo tarnybos
 poreikių. Detalius tarnybos dienos reikalavimus, kariui suteikiamą paros ir
 savaitės poilsį, užtikrinantį jo sveikatos bei darbingumo atgavimą, nustato
 statutai ir kiti krašto apsaugos sistemą reglamentuojantys teisės aktai.
-5. Karys, kurio teisės,
-garantuotos šio įstatymo ar susijusios su kario tarnyba krašto apsaugos
-sistemoje, yra pažeistos, gali kreiptis į aukštesnįjį vadą ar krašto apsaugos
-generalinį inspektorių. Šie privalo ištirti faktus ir imtis priemonių, kad
-pažeidimai nedelsiant būtų pašalinti.
+5. Karys, kurio teisės, garantuotos
+šio įstatymo ar susijusios su kario tarnyba krašto apsaugos sistemoje, yra
+pažeistos, gali kreiptis į aukštesnįjį vadą ar krašto apsaugos generalinį
+inspektorių. Šie privalo ištirti faktus ir imtis priemonių, kad pažeidimai
+nedelsiant būtų pašalinti.
 6. Kiekvieno kario žmogaus orumas
 turi būti gerbiamas, karys neturi patirti pažeminimo.
 7. Lietuvos Respublikos piliečiai
@@ -1103,8 +1098,8 @@ kariuomenės vado nustatyta tvarka.
 5. Siekiant užtikrinti valstybės
 ar tarnybinių paslapčių apsaugą ar patikrinti kario pateiktą informaciją,
 poligrafas gali būti naudojamas tik kariui raštu davus sutikimą. Kariui, kuris
-nesutinka būti tikrinamas poligrafu, neleidžiama vykdyti pareigų, susijusių su
-valstybės ar tarnybos paslaptimis.
+nesutinka būti tikrinamas poligrafu, neleidžiama vykdyti pareigų, susijusių su valstybės
+ar tarnybos paslaptimis.
 Straipsnio
 pakeitimai:
 Nr. VIII-1289,
@@ -1130,13 +1125,13 @@ grupei, išskyrus oficialias pareigas.
  
 28
 straipsnis. Priėmimas į profesinę karo tarnybą
-1. Į
-profesinę karo tarnybą, vadovaujantis savanoriškumo ir atrankos principais,
-priimami atlikę privalomąją karo tarnybą ar baigę pagrindinį kario parengimo
-kursą, taip pat kitu būdu įgiję pagrindinį kario kursą atitinkantį karinį
-išsilavinimą Lietuvos Respublikos piliečiai, pagal išsimokslinimą, fizinį
-pasirengimą, sveikatos būklę bei moralines savybes tinkantys šiai tarnybai.
-Jiems taikomi teisės aktų nustatyti reikalavimai mokėti valstybinę kalbą.
+1. Į profesinę
+karo tarnybą, vadovaujantis savanoriškumo ir atrankos principais, priimami
+atlikę privalomąją karo tarnybą ar baigę pagrindinį kario parengimo kursą, taip
+pat kitu būdu įgiję pagrindinį kario kursą atitinkantį karinį išsilavinimą
+Lietuvos Respublikos piliečiai, pagal išsimokslinimą, fizinį pasirengimą,
+sveikatos būklę bei moralines savybes tinkantys šiai tarnybai. Jiems taikomi
+teisės aktų nustatyti reikalavimai mokėti valstybinę kalbą.
 2. Į
 profesinę karo tarnybą šio straipsnio 1 dalyje nurodyti asmenys priimami
 sudarant profesinės karo tarnybos sutartį.
@@ -1153,16 +1148,16 @@ karo tarnybos sutartis bendrais 31 straipsnyje nustatytais pagrindais.
 Profesinės karo tarnybos kariais negali būti:
 1)
 asmenys, teisti už tyčinius nusikaltimus;
-2)
-asmenys, kurių veiksnumas apribotas teismo.
+2) asmenys,
+kurių veiksnumas apribotas teismo.
 5. Esant
 krašto apsaugos sistemos poreikiui, krašto apsaugos ministras, gavęs
 atitinkamos šalies sutikimą, turi teisę priimti kariniu patarėju ar ekspertu
 šalies NATO narės kariuomenės ar atsargos karininką ne Lietuvos Respublikos
 pilietį pagal terminuotą sutartį ir nustatyti jo pareigas, teises, atsakomybę
 bei kitas sutarties  sąlygas. Tokios sutarties terminas negali būti ilgesnis
-kaip 2 metai, o jam pasibaigus su tuo pačiu asmeniu šioje dalyje nustatytomis sąlygomis
-gali būti sudaryta nauja sutartis.
+kaip 2 metai, o jam pasibaigus su tuo pačiu asmeniu šioje dalyje nustatytomis
+sąlygomis gali būti sudaryta nauja sutartis.
 6.
 Asmenys, norintys stoti į profesinę karo tarnybą, ir profesinės karo tarnybos
 kariai pagal krašto apsaugos sistemoje nustatyto turinio anketą privalo
@@ -1434,10 +1429,10 @@ sutuoktinių broliai, seserys, tėvai ir vaikai), jeigu vienas iš jų pagal
 pareigas tiesiogiai pavaldus kitam arba vienas iš jų turi teisę tiesiogiai
 kontroliuoti kitą.
 8. Profesinės karo tarnybos
-kariai negali: dirbti ne krašto apsaugos sistemos įmonėse, įstaigose ir organizacijose
-samdomu darbuotoju, patarėju, ekspertu ar konsultantu, įskaitant personalines
-įmones, ūkines bendrijas, kurių savininkai, tikrieji nariai ar nariai
-komanditoriai jie yra, taip pat akcines bendroves, kurių akcijos jiems
+kariai negali: dirbti ne krašto apsaugos sistemos įmonėse, įstaigose ir
+organizacijose samdomu darbuotoju, patarėju, ekspertu ar konsultantu, įskaitant
+personalines įmones, ūkines bendrijas, kurių savininkai, tikrieji nariai ar
+nariai komanditoriai jie yra, taip pat akcines bendroves, kurių akcijos jiems
 priklauso, bei žemės ūkio bendroves, kurių pajus jie turi, būti jų valdymo
 organų nariais, turėti kitų renkamų ar skiriamų pareigų, gauti kitą
 atlyginimą, išskyrus atlyginimą už kūrybinę ir pedagoginę veiklą; valdyti pagal
@@ -1713,14 +1708,14 @@ gali būti perkeltas į laikinąjį profesinės karo tarnybos personalo rezervą
 tačiau ne ilgiau kaip 2 mėnesiams, arba laikinai paskirtas vykdyti kitas
 pareigas, tačiau ne ilgiau kaip 6 mėnesiams.
 3. Karys krašto apsaugos ministro
-įsakymu Vyriausybės nustatyta tvarka ne ilgiau kaip 3 metams gali būti paskirtas
-atlikti karo tarnybą kariniu atstovu, jo pavaduotoju ar padėjėju Lietuvos
-Respublikos atstovybėje prie tarptautinės organizacijos ar specialiuoju atašė,
-jo pavaduotoju ar padėjėju Lietuvos Respublikos diplomatinėje atstovybėje arba
-karo tarnybą tarptautinėje karinėje ar gynybos institucijoje. Į pareigas
-Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos ar Lietuvos
-Respublikos diplomatinėje atstovybėje karys gali būti skiriamas tik užsienio
-reikalų ministro pritarimu.
+įsakymu Vyriausybės nustatyta tvarka ne ilgiau kaip 3 metams gali būti
+paskirtas atlikti karo tarnybą kariniu atstovu, jo pavaduotoju ar padėjėju
+Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos ar
+specialiuoju atašė, jo pavaduotoju ar padėjėju Lietuvos Respublikos
+diplomatinėje atstovybėje arba karo tarnybą tarptautinėje karinėje ar gynybos
+institucijoje. Į pareigas Lietuvos Respublikos atstovybėje prie tarptautinės
+organizacijos ar Lietuvos Respublikos diplomatinėje atstovybėje karys gali būti
+skiriamas tik užsienio reikalų ministro pritarimu.
 4. Jeigu profesinės karo tarnybos
 karininkas krašto apsaugos ministro teikimu paskiriamas Šaulių sąjungos vadu,
 jo pirmuoju pavaduotoju ar pavaduotoju, jis gali atlikti profesinę karo tarnybą
@@ -2396,8 +2391,8 @@ nepaprastąją padėtį arba mobilizaciją, atostogaujantys kariai privalo
 nedelsdami grįžti į savo dalinius.
 14. Šeimos narių, jų globėjų ar
 pirmos eilės giminių mirties atveju, taip pat gimus vaikui, privalomosios
-pradinės karo tarnybos kariui suteikiamos 7 kalendorinių dienų atostogos. Šių atostogų
-metu kariui mokami dienpinigiai.
+pradinės karo tarnybos kariui suteikiamos 7 kalendorinių dienų atostogos. Šių
+atostogų metu kariui mokami dienpinigiai.
 Straipsnio
 pakeitimai:
 Nr.
@@ -2836,8 +2831,8 @@ dydžiai kariui žuvus:
 1) privalomosios pradinės karo
 tarnybos kariui - 500 Vyriausybės nustatytų minimalių mėnesinių algų, bet ne
 mažiau kaip po 100 minimalių algų kiekvienam kario išlaikytiniui;
-2) profesinės tarnybos kariui - 120
-mėnesinių tarnybinių atlyginimų, bet ne mažiau kaip po 100 Vyriausybės
+2) profesinės tarnybos kariui -
+120 mėnesinių tarnybinių atlyginimų, bet ne mažiau kaip po 100 Vyriausybės
 nustatytų minimalių mėnesinių algų kiekvienam kario išlaikytiniui;
 3) savanorio ar rezervo tarnybos
 kariui - 120 mėnesinių rezervo kario atlyginimų, bet ne mažiau kaip po 100
@@ -2865,12 +2860,12 @@ IX-1436,
  
 68 straipsnis.
 Socialinės ir kitos su karo tarnyba susijusios garantijos
-1. Iš Krašto apsaugos ministerijai
-skiriamų biudžeto asignavimų kariams taikomos šio ir kitų įstatymų nustatytos
-su karo tarnyba susijusios socialinės ir kitokios garantijos bei jų suteikimo
-tvarka. Šiuo atveju netaikomi įstatymai, nustatantys socialines garantijas
-valstybės tarnautojams ir kitiems civiliams darbuotojams. Garantijos kariui
-taikomos pagal kitus įstatymus, jeigu šis įstatymas nenustato kitaip.
+1. Iš Krašto apsaugos
+ministerijai skiriamų biudžeto asignavimų kariams taikomos šio ir kitų įstatymų
+nustatytos su karo tarnyba susijusios socialinės ir kitokios garantijos bei jų
+suteikimo tvarka. Šiuo atveju netaikomi įstatymai, nustatantys socialines
+garantijas valstybės tarnautojams ir kitiems civiliams darbuotojams. Garantijos
+kariui taikomos pagal kitus įstatymus, jeigu šis įstatymas nenustato kitaip.
 2.
 Profesinės karo tarnybos kariams mokama ligos pašalpa:
 1) 100
@@ -3169,9 +3164,17 @@ ministras.
 straipsnis. Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos
 ministerijos tarnaujančių civilių statutinių tarnautojų pensijos ir papildomos
 socialinės garantijos
+1 dalies redakcija iki 2005 m.
+sausio 1 d.:
 1. Pensijų
 skyrimo ir mokėjimo civiliams statutiniams tarnautojams sąlygas bei tvarką
 nustato Valstybinio socialinio draudimo pensijų įstatymas.
+1 dalies redakcija nuo 2005 m.
+sausio 1 d.:
+1.
+Pensijų skyrimo ir mokėjimo civiliams statutiniams tarnautojams sąlygas bei
+tvarką nustato Valstybinių socialinio draudimo pensijų įstatymas.
+ 
 2. Antrajame operatyvinių tarnybų
 departamente prie Krašto apsaugos ministerijos civilinę krašto apsaugos
 tarnybą atliekantys statutiniai tarnautojai draudžiami valstybės
@@ -3185,6 +3188,8 @@ Nr. VIII-1668, 00.05.09, Žin., 2000,
 Nr.42-1194 (00.05.24)
 Nr. IX-1727,
 2003-09-11, Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
+Nr. IX-2536,
+2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
  
 AŠTUNTASIS
 SKIRSNIS
@@ -3215,11 +3220,6 @@ Nr.41-990).
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
  
- 
-
-
-
-
  
 RESPUBLIKOS PREZIDENTAS                                                     VALDAS ADAMKUS
  
@@ -3299,10 +3299,10 @@ Nr. IX-1436,
 2003-04-03, Žin., 2003, Nr. 38-1681 (2003-04-24)
 KRAŠTO APSAUGOS SISTEMOS
 ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 66 IR 67 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-Šis Įstatymas įsigalioja
-kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
-Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341),
-t.y. nuo 2003 m. gegužės 1 d. 
+Šis Įstatymas
+įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr.
+89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr.
+37-1341), t.y. nuo 2003 m. gegužės 1 d. 
  
 10.
 Lietuvos Respublikos Seimas,
@@ -3323,6 +3323,19 @@ KRAŠTO
 APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2536,
+2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
+VALSTYBĖS
+TARNYBOS ĮSTATYMO, VIDAUS TARNYBOS STATUTO, BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO,
+DIPLOMATINĖS TARNYBOS ĮSTATYMO, KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO
+TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
@@ -3341,8 +3354,7 @@ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušra Bodin (2004-01-07)
+Aušrinė Trapinskienė (2004-12-06)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
