@@ -97,18 +97,12 @@ laidose.
 3. Europos
 kūrinių bei nepriklausomų kūrėjų garso ir vaizdo (audiovizualinių) kūrinių LRT
 programose mastus nustato Visuomenės informavimo įstatymas.
-4. Minimali LRT
-programų transliavimo trukmė yra:
-1) televizijos: darbo
-dienomis - 12 valandų per parą, savaitgaliais ir švenčių dienomis - 16 valandų
-per parą;
-2) radijo: pirmosios
-programos trukmė - 24 valandos per parą, antrosios - 18 valandų per parą,
-trečiosios - 12 valandų per parą.
 Straipsnio
 pakeitimai:
-Nr. VIII-2070, 2000 10 17, Žin., 2000, Nr.
-94-2919 (2000 11 03)
+Nr. VIII-2070,
+2000 10 17, Žin., 2000, Nr. 94-2919 (2000 11 03)
+Nr. IX-155,
+2001 01 25, Žin., 2001, Nr. 16-491 (2001 02 21)
  
  
 5 straipsnis. LRT teisės ir pareigos 
@@ -140,9 +134,9 @@ radijo ir televizijos technologijomis. LRT turi teisę turėti 2 televizijos ir 
 radijo programas. 
 6. LRT suteikia
 laiką Respublikos Prezidentui kalbėti šalies vidaus ir užsienio politikos
-klausimais Prezidento įstatymo nustatyta tvarka. Seimo ar Vyriausybės prašymu
-LRT pagal galimybes kuo greičiau suteikia laiką oficialiems Seimo ar
-Vyriausybės pranešimams. LRT gali leisti kalbėti opozicijos atstovui. 
+klausimais Prezidento įstatymo nustatyta tvarka. Seimo ar Vyriausybės prašymu LRT
+pagal galimybes kuo greičiau suteikia laiką oficialiems Seimo ar Vyriausybės
+pranešimams. LRT gali leisti kalbėti opozicijos atstovui. 
 7. LRT suteikia
 Lietuvos tradicinėms ir valstybės pripažintoms religinėms bendruomenėms
 laiką transliuoti religines apeigas dvišaliuose susitarimuose numatytomis
@@ -169,9 +163,9 @@ paskelbtomis gedulo dienomis;
 valstybinės reikšmės renginius;
 3) vaikams
 skirtose laidose.
-3. Reklamos
-trukmė tiek LRT televizijos, tiek LRT radijo programose neturi viršyti 15
-procentų dienos transliavimo laiko.
+3. Reklamos trukmė
+tiek LRT televizijos, tiek LRT radijo programose neturi viršyti 15 procentų
+dienos transliavimo laiko.
 4. Didėjant
 valstybės rinkliavos LRT įplaukoms, Tarybos sprendimu reklamos laikas
 palaipsniui proporcingai mažinamas iki 10 procentų dienos transliavimo laiko.
@@ -188,8 +182,8 @@ mažiau kaip 20 minučių ilgesnė negu du ar daugiau ištisi 45 minučių tarpa
 netransliuojami teleparduotuvės skelbimai.
 Straipsnio
 pakeitimai:
-Nr. VIII-2070, 2000 10 17, Žin., 2000, Nr.
-94-2919 (2000 11 03)
+Nr. VIII-2070,
+2000 10 17, Žin., 2000, Nr. 94-2919 (2000 11 03)
  
  
 7 straipsnis. LRT programų rėmimas
@@ -283,8 +277,8 @@ pagal savo pačios patvirtintą darbo reglamentą.
 finansuojama (apmokama už posėdžius, administracinės išlaidos) iš LRT lėšų.
 Straipsnio
 pakeitimai:
-Nr. VIII-1911, 2000 08 31, Žin., 2000, Nr.
-78-2362 (2000 09 15), įsigalioja nuo 2000 10 01
+Nr. VIII-1911,
+2000 08 31, Žin., 2000, Nr. 78-2362 (2000 09 15), įsigalioja nuo 2000 10 01
  
  
 10 straipsnis.
@@ -293,8 +287,8 @@ Tarybos funkcijos, teisės ir atskaitomybė
 1) formuoja LRT
 programų valstybinę strategiją; 
 2) formuoja LRT
-programų mastus ir struktūrą, kasmet tvirtina LRT programų sudėtį ir jų
-pakeitimus;
+programų mastus ir struktūrą, nustato LRT programų transliavimo trukmę, kasmet
+tvirtina LRT programų sudėtį ir jų pakeitimus;
 3) nustato
 kanalų skaičių ir jų naudojimą programoms transliuoti;
 4) tvirtina LRT
@@ -330,8 +324,8 @@ direktoriaus pareigoms;
 konkurso būdu 5 metams skiria generalinį direktorių, nustato jo atlyginimą;
 17) nustato generalinio direktoriaus
 pavaduotojų skaičių;
-18) generalinio direktoriaus teikimu
-skiria ir atleidžia jo pavaduotojus.
+18) generalinio direktoriaus teikimu skiria
+ir atleidžia jo pavaduotojus.
 2. Tarybos narys negali būti generaliniu
 direktoriumi.
 3. Tarybos nutarimai LRT yra privalomi.
@@ -340,8 +334,8 @@ generalinis direktorius nesutinka su Tarybos nutarimu, jis gali kreiptis į
 Tarybą su motyvuotu prašymu persvarstyti nutarimą, išskyrus Tarybos nutarimą
 dėl Tarybos atsistatydinimo. Taryba privalo ne vėliau kaip per 10 dienų
 svarstyti generalinio direktoriaus prašymą. Pakartotinai balsavus už tą patį
-nutarimą daugiau kaip pusei visų Tarybos narių, generalinis direktorius
-nutarimą privalo vykdyti.
+nutarimą daugiau kaip pusei visų Tarybos narių, generalinis direktorius nutarimą
+privalo vykdyti.
 5. Taryba turi
 teisę siųsti savo atstovus į LRT administracijos bei Administracinės komisijos
 posėdžius, taip pat gauti iš LRT administracijos, Administracinės komisijos,
@@ -353,17 +347,22 @@ uždari Tarybos posėdžiai. Tarybos nutarimai LRT įstatų nustatyta tvarka
 skelbiami LRT radijo ir (ar) televizijos laidose. LRT taryba kasmet spaudoje
 paskelbia metinę veiklos ataskaitą, o Tarybos pirmininkas kartą per metus už
 LRT veiklą atsiskaito Seimo plenariniame posėdyje. 
+Straipsnio
+pakeitimai:
+Nr. IX-155,
+2001 01 25, Žin., 2001, Nr. 16-491 (2001 02 21)
+ 
  
 11 straipsnis.
 Administracinė komisija, jos funkcijos, teisės ir atskaitomybė 
 1.
 Administracinė komisija sudaroma iš 5 narių. Administracinės komisijos narius 4
 metams skiria Taryba. Administracinės komisijos nariais negali būti Seimo,
-Vyriausybės nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, asmenys,
-dirbantys pagal darbo sutartis radijo ir (ar) televizijos stotyse, įskaitant ir
-LRT. Pasibaigus Administracinės komisijos nario kadencijai, jis gali būti
-skiriamas pakartotinai, su sąlyga, jeigu dėl tokio paskyrimo nesusidaro daugiau
-kaip dvi kadencijos iš eilės.
+Vyriausybės nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai,
+asmenys, dirbantys pagal darbo sutartis radijo ir (ar) televizijos stotyse,
+įskaitant ir LRT. Pasibaigus Administracinės komisijos nario kadencijai, jis
+gali būti skiriamas pakartotinai, su sąlyga, jeigu dėl tokio paskyrimo
+nesusidaro daugiau kaip dvi kadencijos iš eilės.
 2.
 Administracinės komisijos nariai turi būti vadybos ir (ar) finansų
 specialistai.
@@ -435,8 +434,7 @@ nepasibaigus jo įgaliojimų laikui, jeigu už tai balsuoja ne mažiau kaip 2/3
 visų Tarybos narių.
 5. Generalinis
 direktorius gali atsistatydinti nepasibaigus kadencijai. Tuo atveju
-atsistatydina ir jo teikimu Tarybos paskirti generalinio direktoriaus
-pavaduotojai.
+atsistatydina ir jo teikimu Tarybos paskirti generalinio direktoriaus pavaduotojai.
 6. Tarybai
 atsistatydinus, generalinis direktorius bei jo teikimu Tarybos paskirti
 generalinio direktoriaus pavaduotojai atleidžiami. Tarybai arba generaliniam
@@ -497,8 +495,8 @@ rinkliavos už LRT teikiamas visuomenei paslaugas, už radijo ir televizijos
 laidų pardavimą, reklamą, leidybą, taip pat iš paramos ir pajamų, gautų iš
 komercinės ir ūkinės veiklos. Didėjant valstybės rinkliavos LRT įplaukoms,
 atitinkamai mažinamas LRT finansavimas iš biudžeto. 
-2. LRT savarankiškai
-vykdo komercinę, ūkinę, leidybos veiklą.
+2. LRT
+savarankiškai vykdo komercinę, ūkinę, leidybos veiklą.
 3. LRT skiriamos
 lėšos Lietuvos Respublikos valstybės biudžete nurodomos atskira eilute. Lėšos
 už LRT programų siuntimą skiriamos iš valstybės biudžeto, o jų suma nurodoma
@@ -521,8 +519,8 @@ nustatytos finansavimo tvarkos įsigaliojimo.
 3. Šio įstatymo
 6 straipsnio 6 dalies nuostata įsigalioja nuo 2002 m. sausio 1 d. 
 Straipsnio pakeitimai:
-Nr. IX-137, 2000 12 23, Žin., 2000, Nr.
-111-3587 (2000 12 29)
+Nr. IX-137,
+2000 12 23, Žin., 2000, Nr. 111-3587 (2000 12 29)
  
  
  
@@ -547,8 +545,8 @@ Pakeitimai:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. VIII-1911, 2000 08 31, Žin., 2000, Nr.
-78-2362 (2000 09 15)
+Nr. VIII-1911,
+2000 08 31, Žin., 2000, Nr. 78-2362 (2000 09 15)
 LIETUVOS
 NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2000 m.
@@ -557,23 +555,32 @@ spalio 1 d.
 2.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. VIII-2070, 2000 10 17, Žin., 2000, Nr.
-94-2919 (2000 11 03)
+Nr. VIII-2070,
+2000 10 17, Žin., 2000, Nr. 94-2919 (2000 11 03)
 LIETUVOS
 NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4 IR 6 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
  
 3.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. IX-137, 2000 12 23, Žin., 2000, Nr.
-111-3587 (2000 12 29)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-137,
+2000 12 23, Žin., 2000, Nr. 111-3587 (2000 12 29)
 LIETUVOS
-NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
+NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-155,
+2001 01 25, Žin., 2001, Nr. 16-491 (2001 02 21)
+LIETUVOS
+NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4 IR 10 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
  
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 01 09)
-                  autrap@lrs.lt
+Redagavo: Aušrinė Trapinskienė (2001 02 21)
+                  autrap@lrs.lt
