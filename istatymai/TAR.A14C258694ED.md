@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A14C258694ED"
 
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas
 
-Suvestinė redakcija nuo 1999-01-01 iki 2002-06-18
+Suvestinė redakcija nuo 2002-06-19 iki 2003-02-28
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 1-4, i. k. 0941010ISTA000I-732
  
@@ -46,33 +46,35 @@ Mokslininkų valstybinės pensijos mokamos iš Lietuvos Respublikos valstybės b
 
 
 
-3 straipsnis. Mokslininkų valstybinės pensijos skyrimo sąlygos
+3 straipsnis. Mokslininkų valstybinės pensijos skyrimo ir mokėjimo sąlygos
 
 
-Mokslininkų valstybinė pensija skiriama ir mokama šio įstatymo 1 straipsnyje nurodytiems asmenims, kurie:
+Mokslininkų valstybinė pensija skiriama ir mokama šio įstatymo 1 straipsnyje nurodytiems asmenims, kurie: 
 
 
-1) nedirba pagal darbo sutartį;
-
-
-
-
-2) sukako Lietuvos Respublikos įstatymų nustatytą senatvės pensijos amžių arba yra pripažinti I ar II grupių invalidais;
+1) sukako Lietuvos Respublikos įstatymų nustatytą senatvės pensijos amžių arba yra pripažinti I ar II grupių invalidais; 
 
 
 
 
-3) turi ne mažesnį kaip 10 metų daktaro ar habilituoto daktaro darbo stažą.
+2) turi ne mažesnį kaip 10 metų daktaro ar habilituoto daktaro darbo stažą. 
 
 
+
+
+
+
+Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba jei jie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar bedarbio pašalpas. Apie draudžiamųjų pajamų turėjimą mokslininkų valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos dydis išieškomas iš pensijos gavėjo, neapribojant kokiu nors terminu, Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
 
 
 
 
 Mokslininkų valstybinė pensija neskiriama, o paskirtosios skyrimas ir mokėjimas panaikinamas asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo padarymą.
+
+
+Straipsnio pakeitimai:
+Nr. IX-920, 2002-05-30, Žin., 2002, Nr. 60-2414 (2002-06-19), i. k. 1021010ISTA00IX-920
  
-
-
 
 
 
@@ -184,3 +186,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-909, 1998-10-22, Žin., 1998, Nr. 98-2711 (1998-11-11), i. k. 0981010ISTAVIII-909
 Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 4, 5, 6 straipsnių papildymo ir pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-920, 2002-05-30, Žin., 2002, Nr. 60-2414 (2002-06-19), i. k. 1021010ISTA00IX-920
+Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 3 straipsnio pakeitimo ir papildymo įstatymas
