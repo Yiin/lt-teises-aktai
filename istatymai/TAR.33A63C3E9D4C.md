@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.33A63C3E9D4C"
 
 # Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymas
 
+Suvestinė redakcija nuo 1994-07-08 iki 1995-01-26
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 58-0; Žin. 1993, Nr.11-265, i. k. 0931010ISTA000I-108
+ 
+ 
 LIETUVOS RESPUBLIKOS VALSTYBINĖS LIETUVIŲ KALBOS KOMISIJOS STATUSO
 ĮSTATYMAS
  
@@ -31,7 +36,9 @@ LIETUVOS RESPUBLIKOS VALSTYBINĖS LIETUVIŲ KALBOS KOMISIJOS STATUSO
 
 
 
-3 straipsnis. Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo nutarimai yra privalomi visoms valstybės institucijoms, politinėms ir visuomeninėms organizacijoms, masinės informacijos priemonėms, o jų nesilaikymas užtraukia įstatymo nustatytą administracinę atsakomybę.
+3 straipsnis. Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo nutarimai yra privalomi visoms įmonėms, įstaigoms ir organizacijoms, masinės informacijos priemonėms, o jų nesilaikymas užtraukia įstatymo nustatytą administracinę atsakomybę.
+Straipsnio pakeitimai:
+Nr. I-516, 1994-06-28, Žin., 1994, Nr. 51-952 (1994-07-08), i. k. 0941010ISTA000I-516
  
 
 
@@ -58,3 +65,14 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 Vilnius, 1993 m. kovo 25 d. 
 Nr. I-108
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-516, 1994-06-28, Žin., 1994, Nr. 51-952 (1994-07-08), i. k. 0941010ISTA000I-516
+Dėl Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo pakeitimo
