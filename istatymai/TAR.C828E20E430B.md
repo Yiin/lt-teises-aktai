@@ -265,13 +265,7 @@ VALSTYBINIS KINO VALDYMAS
 
 7) suteikia filmų indeksus pagal žiūrovų amžiaus cenzą filmams, kuriuos ketinama rodyti kino teatruose;
 
-
-
-
 8) prižiūri, kaip juridiniai ir fiziniai asmenys laikosi šio įstatymo kino filmų viešo rodymo reikalavimų ir kino filmų registravimo Filmų registro informacinėje sistemoje tvarkos;
-
-
-
 
 9) kaupia kino paveldą ir užtikrina jo prieinamumą.5 straipsnis. Lietuvos kino taryba
 
@@ -306,21 +300,11 @@ KINO FINANSAVIMAS
 
 1. Kino valstybinis finansavimas skiriamas iš šių šaltinių:
 
-
 1) valstybės biudžeto lėšų, atsižvelgiant į Lietuvos kino centro parengtas programas;
-
-
-
 
 2) valstybės gautų pajamų pagal licencines sutartis už suteiktas audiovizualinių kūrinių autorių ir gretutines turtines teises, kuriomis disponuoja Lietuvos kino centras;
 
-
-
-
 3) tikslinio kino valstybinio finansavimo, kurį skiria Vyriausybė valstybės užsakymui atlikti;
-
-
-
 
 4) grąžinto arba išieškoto kino valstybinio finansavimo, Lietuvos kino centrui nutraukus su juridiniu arba fiziniu asmeniu sudarytą kino valstybinio finansavimo sutartį.
 
@@ -339,10 +323,7 @@ KINO FINANSAVIMAS
 
 1. Kino valstybinis finansavimas skiriamas iš valstybės biudžeto lėšų, atsižvelgiant į Lietuvos kino centro parengtas programas.
 
-2. Kino valstybinis finansavimas skiriamas:
-1) nacionalinių filmų parengiamiesiems darbams, nacionalinių filmų gamybai, sklaidai, platinimui ir rodymui;
-2) kino kultūros sklaidai;
-3) kino paveldui kaupti, išsaugoti ir rodyti.
+
  
 
 
@@ -546,9 +527,6 @@ KINO FINANSAVIMAS
 3. Ekspertų komisijos sudaromos iš Lietuvos kino meno kūrėjų, profesionalių kino meno vertintojų, filmų gamintojų.
 
 4. Lietuvos kino centro direktorius, suderinęs su kultūros ministru, nustato ekspertų komisijų skaičių, nuostatus ir personalinę sudėtį. Ekspertų komisijų narių darbas apmokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
-
-
-
 
 5. Ekspertų komisijos nariai turi veikti nešališkai, sąžiningai ir tinkamai atlikti komisijos nario pareigas, vengti viešųjų ir privačių interesų konflikto ir, esant privačių interesų konflikto grėsmei, nedelsdami informuoti apie tai Lietuvos kino centro direktorių, ir nusišalinti nuo sprendimų rengimo, svarstymo, priėmimo ar kitokio poveikio sprendimams, kurie sukelia interesų konfliktą. 
 
@@ -840,9 +818,6 @@ TAR pastaba. 16 straipsnio 2 dalies nuostatos dėl originalios nacionalinio film
 
 
 1) originalią nacionalinio filmo medžiagą filmo gamintojas valstybės archyvams saugoti privalo perduoti ne vėliau kaip per 12 mėnesių nuo filmo įregistravimo Filmų registro informacinėje sistemoje dienos;
-
-
-
 
 2) originalią nacionalinio filmo medžiagą sunaikinti draudžiama. 
 TAR pastaba. 16 straipsnio 4 dalies nuostatos dėl originalios nacionalinio filmo medžiagos saugojimo tvarkos taikomos nuo 2019 m. sausio 1 d.
