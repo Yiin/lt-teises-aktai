@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6D124D42F326"
 
 # Lietuvos Respublikos pilietybės įstatymas
 
-Suvestinė redakcija nuo 1991-12-11 iki 1992-02-20
+Suvestinė redakcija nuo 1992-02-21 iki 1992-11-18
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 251-0; Žin. 1991, Nr.36-977, i. k. 0911010ISTA00I-2072
  
@@ -283,9 +283,10 @@ Lietuvos Respublikos pilietybės suteikimo, teisės į Lietuvos Respublikos pili
 Prie prašymo suteikti Lietuvos Respublikos pilietybę pridedami šie dokumentai: 
 asmens tapatybę patvirtinantis dokumentas; gimimo liudijimas; dokumentai, patvirtinantys nuolatinę gyvenamąją vietą ir nuolatinius darbą (užsiėmimą) arba kitą legalų pragyvenimo šaltinį; dokumentai, patvirtinantys, jog nėra aplinkybių, nurodytų šio įstatymo 13 straipsnio 4 ir 5 punktuose.
 
-Prie prašymo įgyvendinti teisę į Lietuvos Respublikos pilietybę ar pareiškimo atstatyti Lietuvos Respublikos pilietybę pridedami šie dokumentai:
-asmens tapatybę patvirtinantis dokumentas; gimimo liudijimas; dokumentas, patvirtinantis asmens tautybę;
-dokumentai apie turimą kitos valstybės pilietybę ar jos atsisakymą; dokumentai, patvirtinantys nuolatinę gyvenamąją vietą.
+Prie prašymo įgyvendinti teisę į Lietuvos Respublikos pilietybę ar pareiškimo atstatyti Lietuvos Respublikos pilietybę pridedami dokumentai, patvirtinantys asmens tapatybę, tautybę, turimą kitos valstybės pilietybę ar jos atsisakymą, taip pat asmens gyvenamąją vietą. 
+Straipsnio dalies pakeitimai:
+Nr. I-2312, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-162 (1992-03-10), i. k. 0921010ISTA00I-2312
+ 
 
 Prie prašymo atsisakyti Lietuvos Respublikos pilietybės pridedami šie dokumentai:
 asmens tapatybę patvirtinantis dokumentas; gimimo liudijimas;
@@ -310,7 +311,10 @@ Asmenys, atstatantys Lietuvos Respublikos pilietybę, prašymus paduoda Lietuvos
 
 Asmenims, kurie įgyvendina teisę į Lietuvos Respublikos pilietybę, Vidaus reikalų ministerija išduoda Lietuvos Respublikos piliečio pasus, kai įvykdytos šio įstatymo 18 straipsnio pirmojoje ar antrojoje dalyje numatytos sąlygos.
 
-Asmenims, kurie atstato Lietuvos Respublikos pilietybę, Vidaus reikalų ministerija tiesiog ar per Lietuvos Respublikos diplomatines įstaigas užsienyje išduoda Lietuvos Respublikos piliečiams pasus, kai įvykdytos šio įstatymo 18 straipsnio trečiojoje dalyje numatytos sąlygos.
+Asmenims, kurie atstato Lietuvos Respublikos pilietybę, Vidaus reikalų ministerija ar Lietuvos Respublikos diplomatinės įstaigos užsienyje išduoda Lietuvos Respublikos piliečių pasus, kai įvykdytos šio įstatymo 18 straipsnio trečiojoje dalyje numatytos sąlygos. 
+Straipsnio dalies pakeitimai:
+Nr. I-2312, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-162 (1992-03-10), i. k. 0921010ISTA00I-2312
+ 
 
 Prašymai suteikti Lietuvos Respublikos pilietybę pagal šio įstatymo 16 straipsnį paduodami tiesiog Aukščiausiosios Tarybos Prezidiumui. Prie prašymo taip pat pridedami asmens tapatybę patvirtinantys ir kiti dokumentai. Prašymas perduodamas nagrinėti Aukščiausiosios Tarybos deputatų komisijai.
  
@@ -341,7 +345,10 @@ Lietuvos Respublikos pilietybės suteikimo, jos atsisakymo, grąžinimo, piliety
 
 Lietuvos Respublikos pilietybės suteikimo, jos atsisakymo, grąžinimo, netekimo, taip pat akto dėl pilietybės pripažinimo negaliojančiu atvejais leidžiami Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo įsakai, o atmetus prašymus ar teikimus – priimami nutarimai.
 
-Sprendimus dėl Lietuvos Respublikos pilietybės atstatymo ar teisės į Lietuvos Respublikos pilietybę įgyvendinimo priima Lietuvos Respublikos vidaus reikalų ministras.
+Sprendimus dėl Lietuvos Respublikos pilietybės atstatymo priima Lietuvos Respublikos vidaus reikalų ministras ar Lietuvos Respublikos diplomatinės įstaigos užsienyje vadovas. Sprendimus dėl teisės į Lietuvos Respublikos pilietybę įgyvendinimo priima Lietuvos Respublikos vidaus reikalų ministras. 
+Straipsnio dalies pakeitimai:
+Nr. I-2312, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-162 (1992-03-10), i. k. 0921010ISTA00I-2312
+ 
 
 Įsakai dėl Lietuvos Respublikos pilietybės suteikimo, vidaus reikalų ministro sprendimai dėl teisės į Lietuvos Respublikos pilietybę įgyvendinimo pagal šio įstatymo 18 straipsnio antrąją dalį įsigalioja, tik asmeniui prisiekus Lietuvos Respublikai rajonų (apskričių), miestų savivaldybėse arba Lietuvos Respublikos diplomatinėse (konsulinėse) įstaigose užsienyje.
 
@@ -397,4 +404,9 @@ Pakeitimai:
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-2079, 1991-12-10, Lietuvos aidas, 1991, Nr. 251-0 (1991-12-17); Žin., 1991, Nr. 36-981 (1991-12-31), i. k. 0911010ISTA00I-2079
 Dėl Lietuvos Respublikos pilietybės dokumentų galiojimo ir pilietybės įstatymo papildymo
+ 
+2.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2312, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-162 (1992-03-10), i. k. 0921010ISTA00I-2312
+Dėl Lietuvos Respublikos pilietybės įstatymo 28 ir 31 straipsnių pakeitimo
 
