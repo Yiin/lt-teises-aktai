@@ -13,29 +13,41 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6DF39F2BB769"
 
 # Žyminio mokesčio įstatymas
 
-Redaguota: 1995 06 07
+Redaguota: 1996 02 28
 
-Redaguota: 1995 06
-07
+Redaguota: 1996 02
+28
+ 
 Pkeitimai:
  
-       
-1.Parlamentas, Įstatymas
+     1.Parlamentas,
+Įstatymas
         Nr.1-637;
 1994.11.08.; Žin., 1994, Nr.89-1712
         DĖL LIETUVOS
 RESPUBLIKOS ŽYMINIO MOKESČIO ĮSTATYMO
         
-        2. Lietuvos
+     2. Lietuvos
 Respublikos 1995 05 23
         Įstatymas
 Nr.1-899
-        Žin., 1995,
+        Žin., 1995,
 Nr. 47-1135
         DĖL LIETUVOS
 RESPUBLIKOS ŽYMINIO MOKESČIO
         ĮSTATYMO
 PAKEITIMO
+ 
+     3. Lietuvos
+Respublikos 1996 02 15
+        Įstatymas
+Nr.1-1211
+        Žin., 1996,
+Nr. 18-462
+        LIETUVOS
+RESPUBLIKOS ŽYMINIO MOKESČIO
+        ĮSTATYMO 3
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
  
                      
@@ -48,8 +60,8 @@ LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
  
-                 1994
-m. birželio 23 d. Nr.I-508
+                
+1994 m. birželio 23 d. Nr.I-508
  
                             
 Vilnius
@@ -65,9 +77,11 @@ institucijų, išskyrus teismų, atliekamus veiksmus bei
 išduodamus juridinę
 galią turinčius dokumentus ėmimą.
  
-        Pakeitimai:
+          Pakeitimai:
         1.Nr.1-637;
-1994.11.08.; Žin., 1994, Nr.89-1712
+1994.11.08.; 
+          Žin.,
+1994, Nr.89-1712
  
  
      2 straipsnis.
@@ -76,7 +90,7 @@ Mokesčio mokėtojai
      Žyminį 
 mokestį  moka  juridiniai  ir  fiziniai  asmenys  už
 valstybės
-institucijų  atliekamus veiksmus ar išduodamus juridinę
+institucijų  atliekamus veiksmus ar išduodamus juridinę
 galią turinčius
 dokumentus.
  
@@ -90,8 +104,8 @@ mokestis imamas už:
 būklės aktų registravimą civilinės metrikacijos
 įstaigose, įrašų
 civilinės būklės aktuose pakeitimą bei papildymą
-ir  dokumentų,  
-patvirtinančių  įrašą   civilinės  būklės  akte,
+ir  dokumentų,   patvirtinančių 
+įrašą   civilinės  būklės  akte,
 išdavimą;
      2) išduodamus 
 dokumentus dėl pilietybės, išvykimo į užsienį
@@ -106,7 +120,7 @@ policija, ir atitinkamų dokumentų išdavimą;
      4)  leidimo  
 įvežti  šaunamuosius   ginklus  ir  šaudmenis,
 medžioklinius, 
-sportinius   šaunamuosius   ginklus,   arbaletus,
+sportinius   šaunamuosius   ginklus,   arbaletus,
 pneumatinius  
 šautuvus    (pistoletus),   dujinius    pistoletus
 (revolverius) bei
@@ -138,11 +152,11 @@ medžioklinių peilių
 dirbtuves, ginklų remonto dirbtuves išdavimą;
      8) leidimo
 pasigaminti antspaudus ir spaudus išdavimą;
-     9) leidimo 
-pagaminti  antspaudą  su  Lietuvos  Respublikos
-herbu išdavimą;
-     10) 
-medžioklinių  šautuvų,  šaunamųjų  ginklų  ir  arbaletų
+     9) leidimo
+pagaminti antspaudą su Lietuvos Respublikos herbu
+išdavimą;
+     10)  medžioklinių 
+šautuvų,  šaunamųjų  ginklų  ir  arbaletų
 registravimą,
 perregistravimą  (išskyrus  vardinius  ginklus)  ir
 atitinkamų dokumentų
@@ -171,26 +185,28 @@ registravimo  liudijimo  išdavimą,  valstybinio
 numerio ženklo 
 išdavimą, už  techninio paso  ar techninio talono
 išdavimą;
-     14) įmonių  ir
-organizacijų,  išskyrus politines  partijas,
+     14)  įmonių ir
+organizacijų,  išskyrus  politines  partijas,
 politines ir 
 visuomenines  organizacijas,  profesines  sąjungas,
-labdaros   bei   
-paramos   organizacijas,    įregistravimą,   jų
-perregistravimą 
-ir   atitinkamų  dokumentų   išdavimą  (išskyrus
-atvejus, kai tai
-reikia atlikti dėl Lietuvos Respublikos įstatymų
-ar Vyriausybės 
-nutarimų pasikeitimo),  už įmonių  ir  visų  tipų
-organizacijų
-registravimo duomenų ir dokumentų naudojimą;
-     15) 
-licencijos   (leidimo)  verstis  licencijuojama  veikla
+labdaros   bei  
+paramos    organizacijas,   įregistravimą,    jų
+perregistravimą  
+ir  atitinkamų dokumentų   išdavimą   (išskyrus
+atvejus,  kai  tai 
+reikia  atlikti  dėl   Lietuvos   Respublikos
+įstatymų ar
+Vyriausybės  nutarimų  pasikeitimo),  už  įmonių  ir 
+visų   tipų  organizacijų  
+registravimo  duomenų   ir  dokumentų
+naudojimą;
+      15) 
+licencijos  (leidimo)  verstis  licencijuojama  veikla
 išdavimą;
      16)  leidimo  
 importuoti  alkoholio   produktus,  taip  pat
-prekiauti jais išdavimą;
+prekiauti jais
+išdavimą;
      17) vaistų ir
 vaistinių medžiagų įrašymą į Valstybinį vaistų
 registrą;
@@ -213,8 +229,8 @@ atlikti sprogdinimo darbus išdavimą;
 popierių emisijos  įregistravimą, paskelbimą
 ir atitinkamų
 dokumentų išdavimą;
-     23)  
-licencijos medžioti  laukinius  kanopinius  žvėris  ir
+     23) 
+licencijos  medžioti  laukinius  kanopinius  žvėris  ir
 švelniakailius 
 žvėrelius   Lietuvos  Respublikos  piliečiams  ir
 leidimo verstis 
@@ -227,8 +243,8 @@ išduodamus
 dokumentus;
      25) laivų  ir
 kitų  plaukiojimo priemonių, išskyrus irklines
-valtis, registravimą 
-ar išregistravimą  ir atitinkamų  dokumentų
+valtis,
+registravimą  ar išregistravimą  ir atitinkamų  dokumentų
 išdavimą;
      26)  
 muitinės    įstaigų   atliekamų   muitinės   procedūrų
@@ -245,7 +261,7 @@ išdavimą, už egzamino pagal profesinio parengimo
 programą  laikymą,  
 už  kvalifikacinio   egzamino   laikymą   ir
 atitinkamų dokumentų
-išdavimą;     
+išdavimą;
      29)
 savivaldybių atliekamus notarinius veiksmus;
      30) Lietuvos 
@@ -268,8 +284,12 @@ išdavimą;
      35) leidimų 
 supirkti juodųjų  metalų laužą  ir jų  atliekas
 Lietuvos
-Respublikoje išdavimą.
-     Žyminio 
+Respublikoje išdavimą;
+     36)  leidimų  
+išvežti  (išsiųsti)   kilnojamąsias  kultūros
+vertybes ir
+antikvarinius daiktus išdavimą.
+       Žyminio 
 mokesčio   tarifus, išskyrus už teismų nagrinėjamas bylas  
 ir išduodamų
 dokumentų nuorašus, nustato Lietuvos Respublikos Vyriausybė.
@@ -278,20 +298,29 @@ tarifai  indeksuojami kartą  per  ketvirtį  taikant
 ketvirčio vartojimo
 kainų indeksą, jeigu šis didesnis negu 1.1.
  
-   Pakeitimai:
-1.Nr.1-637;
-1994.11.08.; Žin., 1994, Nr.1-637.
-2.Lietuvos
+     Pakeitimai:
+   1.Nr.1-637;
+1994.11.08.; 
+     Žin., 1994,
+Nr.1-637.
+   2.Lietuvos
 Respublikos 1995 05 23
-Įstatymas Nr.1-899
-Žin., 1995, Nr.
+     Įstatymas
+Nr.1-899
+     Žin., 1995, Nr.
 47-1135
+  3. Lietuvos
+Respublikos 1996 02 15
+     Įstatymas
+Nr.1-1211
+     Žin., 1996, Nr.
+18-462
  
  
      4 straipsnis.
 Mokesčio lengvatos
      
-     Nuo žyminio
+     Nuo žyminio
 mokesčio atleidžiami:
      1)  už  
 civilinės  būklės   aktų   registravimą   civilinės
@@ -317,8 +346,8 @@ aktus okupacijos
 metais,
      Užsienio  
 reikalų   ministerija   -   už   jai   išduodamus
-metrikacijos
-liudijimų dublikatus;
+metrikacijos liudijimų
+dublikatus;
      2) už 
 išduodamus  dokumentus  dėl  pilietybės,  išvykimo  į
 užsienį ir atvykimo
@@ -340,7 +369,7 @@ asmenims  be  pilietybės,  išdavimą,  už  vizų
 išdavimą ir
 pratęsimą, už vaiko kelionės dokumento išdavimą,
      asmenys iki  18
-metų  -  už  prašymą  imigruoti  į  Lietuvos
+metų  -  už  prašymą  imigruoti  į  Lietuvos
 Respubliką,
      užsienio 
 valstybių   piliečiai,   vykstantys   į   Lietuvos
@@ -348,10 +377,10 @@ Respubliką
 dalyvauti  Respublikos Prezidento, Seimo, Vyriausybės,
 ministerijų  ir  
 kitų   valstybės   institucijų   organizuotuose
-oficialiuose susitikimuose, 
-labdaros bei  organizuotos  pagalbos
-Lietuvai tikslais 
-arba su  Raudonojo Kryžiaus  misija, taip  pat
+oficialiuose
+susitikimuose,  labdaros bei  organizuotos  pagalbos
+Lietuvai tikslais  arba
+su  Raudonojo Kryžiaus  misija, taip  pat
 tarptautinių
 organizacijų,  kurių narė  yra Lietuvos  Respublika,
 atstovai.
@@ -368,8 +397,10 @@ atleisti nuo 
 valstybės biudžetą.
  
         Pakeitimai:
-        1.Nr.1-637;
-1994.11.08.; Žin., 1994, Nr.89-1712.
+      1.Nr.1-637; 1994.11.08.;
+
+        Žin., 1994,
+Nr.89-1712.
  
  
      5 straipsnis.
@@ -392,9 +423,9 @@ Vyriausybė.
 Mokesčio įskaitymas į biudžetą
  
      Žyminis
-mokestis  įskaitomas į  biudžetą, iš kurio išlaikoma
-įstaiga, 
-atliekanti   veiksmus  ar   išduodanti  juridinę  galią
+mokestis  įskaitomas į  biudžetą, iš kurio išlaikoma
+įstaiga,  atliekanti
+  veiksmus  ar   išduodanti  juridinę  galią
 turinčius
 dokumentus,  už  kuriuos  imamas  šis  mokestis,  o  už
 parduotus žyminio 
@@ -422,8 +453,10 @@ Respublikos
 Vyriausybė.
  
         Pakeitimai:
-        1. Nr.1-637;
-1994.11.08.; Žin., 1994, Nr.89-1712
+     1. Nr.1-637;
+1994.11.08.; 
+        Žin., 1994,
+Nr.89-1712
  
  
      8 straipsnis.
@@ -466,8 +499,8 @@ dienos.
 pagrindiniai Lietuvos Respublikos pramoninės
 nuosavybės apsaugos 
 įstatymai  (išradimų  (patentų),  pramoninių
-pavyzdžių), už 
-Patentų  biuro  atliekamas  paslaugas  valstybinė
+pavyzdžių), už  Patentų 
+biuro  atliekamas  paslaugas  valstybinė
 rinkliava imama 
 pagal Lietuvos  Respublikos Vyriausybės  1993 m.
 kovo  12   d. 
@@ -478,13 +511,12 @@ Respublikos  Vyriausybė iki  1994 m. lapkričio 1 d.
 nustato žyminio
 mokesčio tarifus, mokėjimo ir grąžinimo tvarką.
  
+ 
      Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
- 
- 
 RESPUBLIKOS
-PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
 _
 
