@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 1996-12-24 iki 1999-06-01
+Suvestinė redakcija nuo 1999-06-02 iki 1999-07-08
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
  
@@ -51,18 +51,24 @@ Pagal šį įstatymą „Valstybės žiniose“ turi būti skelbiami:
 
 5) Konstitucinio Teismo nutarimai, išvados, taip pat sprendimai priimti nagrinėti Konstitucijoje numatytus prašymus ar teikimus.
 
-„Valstybės žiniose“ taip pat turi būti skelbiami kiti Lietuvos Respublikos Seimo priimti teisės aktai, Lietuvos banko, ministerijų, departamentų ir Vyriausybės įstaigų bei valstybės valdymo institucijų priimti aktai, kuriuose nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos.
+„Valstybės žiniose“ taip pat turi būti skelbiami kiti Lietuvos Respublikos Seimo priimti teisės aktai, ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų įsakymai ir įsakymais patvirtinti kiti norminiai teisės aktai bei Lietuvos banko valdybos nutarimai, kuriuose nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
+ 
 
 Šiame straipsnyje nurodytus įstatymus ir kitus teisės aktus „Valstybės žiniose“ oficialiai skelbia juos pasirašę pareigūnai.
  
 
 3 straipsnis
 
-Lietuvos Respublikos Seimo priimti teisės aktai, išskyrus įstatymus, Respublikos Prezidento dekretai, Lietuvos Respublikos Vyriausybės nutarimai, Lietuvos banko, ministerijų, departamentų ir Vyriausybės įstaigų bei kitų valstybės valdymo institucijų aktai, kuriuose nėra nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, neturintys visuotinės reikšmės Konstitucinio Teismo sprendimai, šiuos aktus pasirašiusių asmenų nuožiūra „Valstybės žiniose“ gali būti neskelbiami. Nepaisant to, ar jie paskelbti „Valstybės žiniose“, šie aktai turi būti išsiunčiami juose minimoms valstybės institucijoms, įmonėms, įstaigoms ir organizacijoms, juridiniams bei fiziniams asmenims.
+Lietuvos Respublikos Seimo priimti teisės aktai, išskyrus įstatymus, Respublikos Prezidento dekretai, Lietuvos Respublikos Vyriausybės nutarimai bei Lietuvos banko valdybos nutarimai, kuriuose nėra nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, neturintys visuotinės reikšmės Konstitucinio Teismo sprendimai šiuos aktus pasirašiusių asmenų nuožiūra „Valstybės žiniose“ gali būti neskelbiami. Nepaisant to, ar šie aktai paskelbti „Valstybės žiniose“, jie turi būti išsiunčiami juose minimoms valstybės institucijoms, įmonėms, įstaigoms ir organizacijoms, juridiniams bei fiziniams asmenims. 
 
-Teisės aktai, kuriuose yra valstybės ar tarnybinę paslaptį sudarančių žinių, „Valstybės žiniose“ neskelbiami. Šie aktai turi būti išsiunčiami toms institucijoms, kurios įstatymų nustatyta tvarka gali disponuoti valstybės ar tarnybinę paslaptį sudarančiomis žiniomis. 
-Papildyta straipsnio dalimi:
-Nr. I-1443, 1996-07-04, Žin., 1996, Nr. 67-1604 (1996-07-17), i. k. 0961010ISTA00I-1443
+Ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų įsakymai ir įsakymais patvirtinti kiti teisės aktai, kuriuose nėra nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, šiuos aktus pasirašiusių asmenų nuožiūra gali būti skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“.
+
+Teisės aktai, kuriuose yra valstybės ar tarnybinę paslaptį sudarančių žinių, „Valstybės žiniose“ neskelbiami. Šie aktai turi būti išsiunčiami toms institucijoms, kurios įstatymų nustatyta tvarka gali disponuoti valstybės ar tarnybinę paslaptį sudarančiomis žiniomis.
+
+Straipsnio pakeitimai:
+Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
  
 
 4 straipsnis
@@ -84,33 +90,51 @@ Lietuvos Respublikos Seimo priimti teisės aktai, išskyrus įstatymus, įsigali
 Respublikos Prezidento dekretai įsigalioja kitą dieną po jų paskelbimo „Valstybės žiniose“, jeigu pačiuose dekretuose nenustatoma kita jų įsigaliojimo diena.
  
 
-7 straipsnis
-
-Esant neatidėliotinam reikalui, Lietuvos Respublikos įstatymai, kiti Seimo priimti teisės aktai, taip pat Respublikos Prezidento dekretai oficialiai gali būti paskelbti specialiame Seimo leidinyje arba respublikiniuose laikraščiuose per Lietuvos telegramų agentūrą (ELTA).
-
-Tokiu atveju įstatymai ir kiti Seimo priimti aktai įsigalioja po to arba kitą dieną po jų paskelbimo, tačiau artimiausiu metu šie teisės aktai skelbiami ir „Valstybės žiniose“.
+7 straipsnis. Neteko galios nuo 1999-06-02
+Straipsnio naikinimas:
+Nr. VIII-1184, 1999-05-18, Žin. 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
  
 
 8 straipsnis
 
-Lietuvos Respublikos Vyriausybės nutarimai, kuriuose nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, įsigalioja kitą dieną po to, kai jie pasirašyti Ministro Pirmininko ir atitinkamo ministro paskelbiami „Valstybės žiniose“.
+Lietuvos Respublikos Vyriausybės nutarimai, kuriuose nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, įsigalioja kitą dieną po to, kai jie Ministro Pirmininko ir atitinkamo ministro pasirašyti paskelbiami „Valstybės žiniose“, jeigu pačiuose nutarimuose nenustatyta vėlesnė jų įsigaliojimo data.
 
-Lietuvos Respublikos Vyriausybės nutarimai, kuriuose nėra nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, taip pat Ministro Pirmininko potvarkiai įsigalioja jų pasirašymo dieną, jeigu pačiuose nutarimuose ir potvarkiuose nenustatyta vėlesnė jų įsigaliojimo diena.
+Lietuvos Respublikos Vyriausybės nutarimai, kuriuose nėra nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, taip pat Ministro Pirmininko potvarkiai įsigalioja jų pasirašymo dieną, nors jie ir paskelbti „Valstybės žiniose“, jeigu pačiuose nutarimuose ir potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data.
+
+Straipsnio pakeitimai:
+Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
  
 
 9 straipsnis
 
-Konstitucinio Teismo sprendimas priimti nagrinėti Respublikos Prezidento teikimą ištirti, ar Vyriausybės aktas atitinka Konstituciją, arba sprendimas priimti nagrinėti Seimo nutarimą, kuriame prašoma ištirti, ar Respublikos Prezidento aktas arba Vyriausybės aktas atitinka Konstituciją, įsigalioja nuo to Konstitucinio Teismo sprendimo oficialaus paskelbimo „Valstybės žiniose“ arba specialiame Seimo leidinyje, arba respublikiniuose laikraščiuose per Lietuvos telegramų agentūrą (ELTA) dienos.
+Konstitucinio Teismo sprendimas priimti nagrinėti Respublikos Prezidento teikimą ištirti, ar Vyriausybės aktas atitinka Konstituciją, arba sprendimas priimti nagrinėti Seimo nutarimą, kuriame prašoma ištirti, ar Respublikos Prezidento aktas arba Vyriausybės aktas atitinka Konstituciją, įsigalioja nuo Konstitucinio Teismo to sprendimo oficialaus paskelbimo „Valstybės žiniose“ dienos.
 
-Konstitucinio Teismo priimtas nutarimas, kad ginčijamas aktas neprieštarauja Konstitucijai, įsigalioja tą dieną, kurią jis pirmiausiai buvo paskelbtas „Valstybės žiniose“ arba specialiame Seimo leidinyje, arba respublikiniuose laikraščiuose per Lietuvos telegramų agentūrą (ELTA).
+Konstitucinio Teismo priimtas nutarimas, kad ginčijamas aktas neprieštarauja Konstitucijai, įsigalioja tą dieną, kurią jis buvo paskelbtas „Valstybės žiniose“.
+
+Straipsnio pakeitimai:
+Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
  
 
 10 straipsnis
 
-Lietuvos banko, ministerijų, departamentų ir Vyriausybės įstaigų bei kitų valstybės valdymo institucijų teisės aktai, kuriuose nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, įsigalioja kitą dieną po jų paskelbimo „Valstybės žiniose“, jeigu pačiuose teisės aktuose nenustatoma vėlesnė jų įsigaliojimo diena.
+Ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų įsakymai ir įsakymais patvirtinti kiti teisės aktai bei Lietuvos banko valdybos nutarimai, kuriuose nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, įsigalioja kitą dieną po jų paskelbimo „Valstybės žiniose“, jeigu pačiuose teisės aktuose nenustatoma vėlesnė jų įsigaliojimo diena.
 
-Šiame straipsnyje nurodytų valstybės institucijų priimti teisės aktai negalioja, kol jie nepaskelbti „Valstybės žiniose“.
+Šiame straipsnyje nurodytų valstybės institucijų vadovų įsakymai ir įsakymais patvirtinti kiti teisės aktai bei Lietuvos banko valdybos nutarimai negalioja, kol jie nepaskelbti „Valstybės žiniose“.
+
+Straipsnio pakeitimai:
+Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
  
+
+101 straipsnis
+
+Šio įstatymo 2 straipsnyje nurodyti teisės aktai per 3 dienas nuo jų oficialaus paskelbimo „Valstybės žiniose“ turi būti paskelbti Seimo ir juos priėmusios institucijos interneto tinklapiuose. 
+
+Šio įstatymo 3 straipsnio 1 dalyje nurodyti teisės aktai per 3 dienas nuo jų įsigaliojimo dienos turi būti paskelbti jį priėmusios institucijos interneto tinklapyje.
+
+Teisės aktai, kuriuose yra valstybės ar tarnybinę paslaptį sudarančių žinių, interneto tinklapiuose neskelbiami.
+
+Papildyta straipsniu:
+Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
  
 
 11 straipsnis
@@ -159,16 +183,29 @@ Nr. VIII-46, 1996-12-19, Žin., 1996, Nr. 125-2894 (1996-12-24), i. k. 0961010IS
 
 6) „VI skyrius. Konstitucinio Teismo sprendimai, nutarimai ir išvados“;
 
-7) „VII skyrius. Lietuvos banko, ministerijų, departamentų ir Vyriausybės įstaigų bei kitų valstybės valdymo institucijų priimti teisės aktai“.
+7) VII skyrius. Ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų įsakymai ir įsakymais patvirtinti kiti norminiai teisės aktai bei Lietuvos banko valdybos nutarimai.
+Straipsnio punkto pakeitimai:
+Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
  
 
 16 straipsnis
 
-„Valstybės žinių“ redakcija atskirais leidiniais leidžia „Valstybės žinių“ priedą – „Informacinius pranešimus“.
+„Valstybės žinių“ redakcija atskirais leidiniais leidžia „Valstybės žinių“ priedą „Informaciniai pranešimai“.
 
-Šiame leidinyje spausdinami įstatymų ir kitų teisės aktų projektai, kurie Seimo nutarimu skelbiami svarstyti visuomenei, informaciniai pranešimai apie Lietuvos Respublikos Seime ir jo komitetuose vykusius reikšmingesnius renginius – posėdžius, delegacijų priėmimus, vizitus.
+Šiame leidinyje skelbiami:
 
-Svarbesnių įstatymų ir poįstatyminių aktų projektai gali būti skelbiami ir respublikiniuose laikraščiuose per Lietuvos telegramų agentūrą (ELTA).
+1) ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų individualūs teisės aktai, t.y. vienkarčiai teisės taikymo aktai, skirti konkrečiam subjektui ar individualiais požymiais apibrėžtų subjektų grupei;
+
+2) informacija bei pranešimai, kurių skelbimą „Valstybės žiniose“ numato Lietuvos Respublikos įstatymai ir Vyriausybės nutarimai;
+
+3) Vyriausiosios rinkimų komisijos sprendimai ir pranešimai;
+
+4) įstatymų ir kitų teisės aktų projektai, kurie Seimo nutarimu skelbiami svarstyti visuomenei;
+
+5) informaciniai pranešimai apie Seime ir jo komitetuose vykusius reikšmingesnius renginius – posėdžius, delegacijų priėmimus, vizitus.
+
+Straipsnio pakeitimai:
+Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
  
 
 17 straipsnis
@@ -187,7 +224,9 @@ Svarbesnių įstatymų ir poįstatyminių aktų projektai gali būti skelbiami i
 
 6) VI skyriuje – Konstitucinio Teismo nutarimai ir išvados, sprendimai priimti nagrinėti Konstitucijoje nurodytus prašymus ar teikimus;
 
-7) VII skyriuje – Lietuvos banko, ministerijų, departamentų ir Vyriausybės įstaigų bei kitų valstybės valdymo institucijų aktai.
+7) VII skyriuje – ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų įsakymai ir įsakymais patvirtinti kiti norminiai teisės aktai bei Lietuvos banko valdybos nutarimai.
+Straipsnio punkto pakeitimai:
+Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
  
 
 18 straipsnis
@@ -251,4 +290,9 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų te
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-46, 1996-12-19, Žin., 1996, Nr. 125-2894 (1996-12-24), i. k. 0961010ISTA0VIII-46
 Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 14 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1184, 1999-05-18, Žin., 1999, Nr. 48-1524 (1999-06-02), i. k. 0991010ISTAIII-1184
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 2, 3, 8, 9, 10, 15, 16, 17 straipsnių pakeitimo, papildymo 10(1) straipsniu ir 7 straipsnio pripažinimo netekusiu galios įstatymas
 
