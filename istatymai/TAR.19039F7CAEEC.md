@@ -13,10 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC"
 
 # Lietuvos Respublikos žemės nuomos įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
-Ramunė Lūžaitė (1997.06.30)
+Ramunė Lūžaitė (1997.07.11)
  
 Įstatymas
 paskelbtas: Žin., 1994, Nr.3-41
@@ -30,7 +30,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-941, 95.06.13, Žin., 1995, Nr. 53-1296 (95.06.28)
+I-941, 95.06.13, Žin., 1995,
+Nr. 53-1296 (95.06.28)
 DĖL
 LIETUVOS RESPUBLIKOS ŽEMĖS NUOMOS ĮSTATYMO PAKEITIMO
  
@@ -38,21 +39,20 @@ LIETUVOS RESPUBLIKOS ŽEMĖS NUOMOS ĮSTATYMO PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-1263, 96.03.28, Žin., 1996, Nr. 35-870 (96.04.19)
+I-1263, 96.03.28, Žin.,
+1996, Nr. 35-870 (96.04.19)
 LIETUVOS
-RESPUBLIKOS ŽEMĖS NUOMOS ĮSTATYMO 11 STRAIPSNIO
-PAPILDYMO
-IR PAKEITIMO IR PAPILDYMO 16-1 STRAIPSNIU ĮSTATYMAS
+RESPUBLIKOS ŽEMĖS NUOMOS ĮSTATYMO 11 STRAIPSNIO PAPILDYMO IR PAKEITIMO IR
+PAPILDYMO 16-1 STRAIPSNIU ĮSTATYMAS
  
 3.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-1342, 96.05.16, Žin., 1996, Nr. 53-1246 (96.06.05)
+I-1342, 96.05.16, Žin.,
+1996, Nr. 53-1246 (96.06.05)
 LIETUVOS
-RESPUBLIKOS ŽEMĖS NUOMOS ĮSTATYMO 1 STRAIPSNIO
-PAPILDYMO
-ĮSTATYMAS
+RESPUBLIKOS ŽEMĖS NUOMOS ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 4.
 Lietuvos
@@ -60,16 +60,23 @@ Respublikos Seimas, Įstatymas
 Nr.
 I-1541, 96.09.24, Žin., 1996, Nr. 100-2263 (96.10.16)
 LIETUVOS
-RESPUBLIKOS ŽEMĖS NUOMOS ĮSTATYMO PAKEITIMO
-ĮSTATYMAS
+RESPUBLIKOS ŽEMĖS NUOMOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
  
 5.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
 VIII-242, 97.06.10, Žin., 1997, Nr.59-1361 (97.06.25)
-ŽEMĖS
-NUOMOS ĮSTATYMO 3, 4 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+LIETUVOS
+RESPUBLIKOS ŽEMĖS NUOMOS ĮSTATYMO 3, 4 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+6.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-314,
+97.06.26, Žin., 1997, Nr.66-1597 (97.07.11)
+LIETUVOS
+RESPUBLIKOS ŽEMĖS NUOMOS ĮSTATYMO 3, 5, 9, 28 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -125,19 +132,20 @@ nustatytomis sąlygomis ir mokėti žemės nuomos mokestį.
 straipsnis. Žemės nuomos sutarties forma
  
      Žemės
-nuomos  sutartis sudaroma  raštu ir registruojama apskrities valdytojo
-administracijos  padalinyje, kuris atlieka nekilnojamojo turto registraciją 
-rajone ar mieste, Lietuvos Respublikos įstatymų ir Vyriausybės nustatyta tvarka.
+nuomos sutartis sudaroma raštu ir registruojama apskrities viršininko
+administracijos padalinyje, kuris atlieka nekilnojamojo turto registraciją
+rajone ar mieste, Lietuvos Respublikos įstatymų ir Vyriausybės nustatyta
+tvarka.
      Jeigu
 šių taisyklių nesilaikoma, žemės nuomos sutartis negalioja.
      Prie
 žemės nuomos sutarties turi būti pridėtas nuomojamo žemės sklypo brėžinys,
 kurio parengimo tvarką nustato Žemės ir miškų ūkio ministerija.
      Kai
-žemė išnuomojama užsienio šalių fiziniams ir juridiniams asmenims, šiems
-pageidaujant žemės nuomos sutartis gali būti sudaroma dviem kalbomis: lietuvių
-ir viena iš užsienio kalbų. Jeigu dėl  sutarties teksto  kyla ginčas, jis
-sprendžiamas vadovaujantis lietuviškuoju tekstu.
+žemė išnuomojama užsienio šalių fiziniams ir juridiniams asmenims, šiems pageidaujant
+žemės nuomos sutartis gali būti sudaroma dviem kalbomis: lietuvių ir viena iš
+užsienio kalbų. Jeigu dėl  sutarties teksto  kyla ginčas, jis sprendžiamas
+vadovaujantis lietuviškuoju tekstu.
  
 Straipsnio
 pakeitimai:
@@ -145,6 +153,9 @@ Nr.
 I-1541, 96.09.24, Žin., 1996, Nr. 100-2263 (96.10.16)
 Nr.
 VIII-242, 97.06.10, Žin., 1997, Nr.59-1361 (97.06.25)
+Nr.
+VIII-314, 97.06.26, Žin., 1997, Nr.66-1597 (97.07.11)
+ 
  
      4
 straipsnis. Žemės nuomos sutarties turinys
@@ -198,11 +209,11 @@ išnuomojamą žemės ūkio paskirties žemę užima pasėliai, kultūrinių aug
 naudoti tik buvusiam žemės naudotojui nuėmus tų metų derlių, jeigu žemės nuomos
 sutartyje nenumatyta kitaip.
      Jeigu
-nuomojamoje  žemėje yra  pastatų ar  inžinerinių įrenginių ir komunikacijų,
-priklausančių valstybei ar tretiems asmenims, taip pat saugomų kultūros paveldo
-ir saugomų gamtos objektų, nesusijusių su nuomininko veikla, nuomos sutartyje
-turi būti atsižvelgiant į tai aptarta: nuomininko teisės ir pareigos bei jo
-veiklos apribojimai.
+nuomojamoje  žemėje yra  pastatų ar  inžinerinių įrenginių ir komunikacijų, priklausančių
+valstybei ar tretiems asmenims, taip pat saugomų kultūros paveldo ir saugomų
+gamtos objektų, nesusijusių su nuomininko veikla, nuomos sutartyje turi būti
+atsižvelgiant į tai aptarta: nuomininko teisės ir pareigos bei jo veiklos
+apribojimai.
  
 Straipsnio
 pakeitimai:
@@ -214,17 +225,18 @@ VIII-242, 97.06.10, Žin., 1997, Nr.59-1361 (97.06.25)
      5
 straipsnis. Žemės nuomotojas
  
-     Žemės 
-nuomotojas  yra  privačios  žemės savininkas ar bendrasavininkis,  apskrities  valdytojas, 
-vietos savivaldos institucija,  kita  valstybinės  žemės  valdytojo  funkcijas
-atliekanti institucija ir (kai žemė subnuomojama) valstybinės žemės naudotojas.
-     Žemės 
-reformos metu iki atitinkamos teritorijos žemės reformos žemėtvarkos projektų
-patvirtinimo valstybinę žemę kaimo vietovėje, išskyrus žemę, suteiktą naudotis
-gyventojų asmeniniam ūkiui apylinkių tarybų sprendimu, žemę, suteikiamą
-tarnybinėms žemės daloms, ir žemę, suteikiamą naudotis apskrities valdytojo
-arba  Lietuvos  Respublikos Vyriausybės sprendimu, išnuomoja agrarinės reformos
-tarnybos.
+    
+Žemės nuomotojas yra privačios žemės savininkas ar bendrasavininkis, apskrities
+viršininkas, vietos savivaldos institucija, kita valstybinės žemės valdytojo
+funkcijas atliekanti institucija ir (kai žemė subnuomojama) valstybinės žemės
+naudotojas.
+    
+Žemės reformos metu iki atitinkamos teritorijos žemės reformos žemėtvarkos
+projektų patvirtinimo valstybinę žemę kaimo vietovėje, išskyrus žemę, suteiktą
+naudotis gyventojų asmeniniam ūkiui apylinkių tarybų sprendimu, žemę,
+suteikiamą tarnybinėms žemės daloms, ir žemę, suteikiamą naudotis apskrities
+viršininko arba Lietuvos Respublikos Vyriausybės sprendimu, išnuomoja agrarinės
+reformos tarnybos.
      Žemės
 sklypas (ar jo dalis), priklausantis keliems asmenims bendrosios nuosavybės
 teise, gali būti išnuomojamas tik visiems bendrasavininkiams  sutikus.  Žemės 
@@ -234,14 +246,18 @@ Ginčus tarp bendrasavininkių dėl žemės išnuomojimo sprendžia teismas. Jei
 bendrasavininkis yra valstybė, jai atstovauja vietos savivaldybės paskirtas
 pareigūnas.
      Jeigu
-žemės sklypo nuomotojas yra apskrities valdytojas, žemės nuomos sutartį
-pasirašo apskrities valdytojo įgaliotas apskrities  žemėtvarkos  ir geodezijos
+žemės sklypo nuomotojas yra apskrities viršininkas, žemės nuomos sutartį
+pasirašo apskrities viršininko įgaliotas apskrities žemėtvarkos ir geodezijos
 tarnybos struktūrinio padalinio vadovas.
  
 Straipsnio
 pakeitimai:
 Nr.
-1-941, 95.06.13, Žin., 1995, Nr. 53-1296 (95.06.28)
+I-941, 95.06.13, Žin., 1995,
+Nr. 53-1296 (95.06.28)
+Nr.
+VIII-314, 97.06.26, Žin., 1997, Nr.66-1597 (97.07.11)
+ 
  
      6
 straipsnis. Valstybinės žemės išnuomojimas aukcione
@@ -274,13 +290,14 @@ steigiantiems naują ūkininko ūkį, žemė išnuomojama tik pagal Žemės ir m
      Žemės
 nuomininkas privalo laikytis žemės naudojimo ūkinės ir kitos veiklos
 reikalavimų, įstatymų nustatytų atsižvelgiant į teritorinio planavimo
-dokumentus, gamtos apsaugos ir visuomenės interesus,  gretimų  žemės  sklypų  savininkų 
-ir naudotojų interesus.
+dokumentus, gamtos apsaugos ir visuomenės interesus,  gretimų  žemės  sklypų 
+savininkų  ir naudotojų interesus.
  
 Straipsnio
 pakeitimai:
 Nr.
-1-941, 95.06.13, Žin., 1995, Nr. 53-1296 (95.06.28)
+I-941, 95.06.13, Žin., 1995,
+Nr. 53-1296 (95.06.28)
 Nr.
 VIII-242, 97.06.10, Žin., 1997, Nr.59-1361 (97.06.25)
  
@@ -322,17 +339,21 @@ naudoti nurodytai paskirčiai.
 nuomojamame  žemės sklype  yra žemės  nuomininkui nuosavybės  teise 
 priklausančių  pastatų,  žemės  sklypas išnuomojamas ne ilgesniam laikotarpiui
 kaip iki šių pastatų perleidimo kitiems asmenims ir ne daugiau kaip 99 metams.
-     Valstybinės 
-žemės  valdytojas  Lietuvos  Respublikos Vyriausybės nustatyta tvarka nuomoja
-žemę arba suteikia ją savo sprendimu fiziniams ir juridiniams asmenims naudotis
-iki 3 metų, o ilgesniam negu 3 metų laikotarpiui šio teikimu žemę nuomoja arba
-suteikia ją naudotis apskrities valdytojas, jeigu kiti įstatymai nenustato
+     Valstybinės
+žemės valdytojas Lietuvos Respublikos Vyriausybės nustatyta tvarka nuomoja žemę
+arba suteikia ją savo sprendimu fiziniams ir juridiniams asmenims naudotis iki
+3 metų, o ilgesniam negu 3 metų laikotarpiui šio teikimu žemę nuomoja arba
+suteikia ją naudotis apskrities viršininkas, jeigu kiti įstatymai nenustato
 kitaip.
  
 Straipsnio
 pakeitimai:
 Nr.
-1-941, 95.06.13, Žin., 1995, Nr. 53-1296 (95.06.28)
+I-941, 95.06.13, Žin., 1995,
+Nr. 53-1296 (95.06.28)
+Nr.
+VIII-314, 97.06.26, Žin., 1997, Nr.66-1597 (97.07.11)
+ 
  
      10
 straipsnis. Nuomojamos žemės pagrindinės tikslinės žemės
@@ -343,9 +364,9 @@ naudojimo paskirties keitimas
 žemės pagrindinė tikslinė naudojimo paskirtis gali būti keičiama tik Lietuvos
 Respublikos Vyriausybės nustatyta tvarka žemės savininkui pageidaujant ar jam
 sutikus. Savavališkai pakeitus nuomojamos žemės pagrindinę tikslinę naudojimo
-paskirtį, žemės nuomos sutartis gali būti nutraukta, o nuomininkas privalo
-sutvarkyti žemės sklypą taip, kad jis būtų tinkamas naudoti pagal buvusią
-pagrindinę tikslinę paskirtį arba sumokėti lėšas tam žemės sklypui sutvarkyti.
+paskirtį, žemės nuomos sutartis gali būti nutraukta, o nuomininkas privalo sutvarkyti
+žemės sklypą taip, kad jis būtų tinkamas naudoti pagal buvusią pagrindinę
+tikslinę paskirtį arba sumokėti lėšas tam žemės sklypui sutvarkyti.
  
      11
 straipsnis. Žemės nuomos mokestis
@@ -358,28 +379,28 @@ nustatyta tvarka.
      Žemės
 ūkio  įmonė neturi teisės atsisakyti išsinuomoti susigrąžinamą privatinėn
 nuosavybėn žemę, kuri pagal įstatymą "Dėl piliečių nuosavybės teisių į
-išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų" priskirta valstybės
-išperkamai žemei šios žemės ūkio įmonės poreikiams, jeigu būsimo žemės
-nuomotojo pasiūlytas žemės nuomos mokestis yra ne didesnis už nustatytą šiai
-žemei valstybinės žemės nuomos mokestį arba už žemės nuomos mokestį, įrašytą su
-buvusiu šios žemės nuomotoju sudarytoje valstybinės žemės nuomos sutartyje,
-pridėjus žemės savininkui reikalingą mokėti valstybės žemės mokestį. Žemės
-nuomotojas, pagerinęs žemės ūkio naudmenas ar kitaip padidinęs nuomojamos žemės
-vertę,  turi teisę reikalauti padidinti žemės nuomos mokestį, jeigu žemės
+išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų" priskirta
+valstybės išperkamai žemei šios žemės ūkio įmonės poreikiams, jeigu būsimo
+žemės nuomotojo pasiūlytas žemės nuomos mokestis yra ne didesnis už nustatytą
+šiai žemei valstybinės žemės nuomos mokestį arba už žemės nuomos mokestį,
+įrašytą su buvusiu šios žemės nuomotoju sudarytoje valstybinės žemės nuomos
+sutartyje, pridėjus žemės savininkui reikalingą mokėti valstybės žemės mokestį.
+Žemės nuomotojas, pagerinęs žemės ūkio naudmenas ar kitaip padidinęs nuomojamos
+žemės vertę,  turi teisę reikalauti padidinti žemės nuomos mokestį, jeigu žemės
 nuomos sutartyje nenumatyta kitaip.
      Žemės
-nuomininkui, kuris savo lėšomis pagerino žemės ūkio naudmenas ar kitaip
-padidino nuomojamos žemės vertę, žemės nuomos mokestis gali būti didinamas ne
-anksčiau kaip praėjus 5 metams po šių žemės pagerinimo ar jos vertės padidinimo
-darbų, jeigu žemės nuomos sutartyje nenumatyta kitaip.
+nuomininkui, kuris savo lėšomis pagerino žemės ūkio naudmenas ar kitaip padidino
+nuomojamos žemės vertę, žemės nuomos mokestis gali būti didinamas ne anksčiau
+kaip praėjus 5 metams po šių žemės pagerinimo ar jos vertės padidinimo darbų,
+jeigu žemės nuomos sutartyje nenumatyta kitaip.
      Nuomininkas
 turi teisę reikalauti atitinkamai sumažinti žemės nuomos mokestį, jeigu dėl
-aplinkybių, už kurias jis neatsako, sutarties  metu buvusios  žemės naudojimo
+aplinkybių, už kurias jis neatsako, sutarties  metu buvusios  žemės naudojimo
 sąlygos pablogėjo arba buvo papildomai apribotos.
      Laisvųjų 
 ekonominių zonų valdymo bendrovės už išnuomotą valstybinę žemę moka lengvatinį
 - 50 procentų mažesnį žemės nuomos mokestį. Laisvųjų ekonominių zonų valdymo
-bendrovių ir zonų  įmonių  privatus  kapitalas,  investuotas  į  zonų
+bendrovių ir zonų  įmonių  privatus  kapitalas,  investuotas  į  zonų
 infrastruktūrą, į žemės vertę, nustatant jos nuomos mokestį, neįskaičiuojamas.
      Žemės
 nuomos  mokesčio užsienio  investitoriams sąlygas reglamentuoja  Užsienio 
@@ -491,8 +512,8 @@ straipsnis. Subnuomos sutarties atnaujinimas
  
      Laisvosios 
 ekonominės zonos įmonė, vykdžiusi subnuomos sutartimi  prisiimtus 
-įsipareigojimus,  pasibaigus sutarties terminui, turi pirmenybės teisę
-atnaujinti subnuomos sutartį.
+įsipareigojimus,  pasibaigus sutarties terminui, turi pirmenybės teisę atnaujinti
+subnuomos sutartį.
  
 Straipsnio
 pakeitimai:
@@ -669,13 +690,16 @@ Respublikos Vyriausybė.
 straipsnis. Valstybinės žemės nuomos sutarčių laikymosi kontrolė
  
      Valstybinės
-žemės nuomos sutarčių laikymąsi kontroliuoja apskričių valdytojų 
-administracijos ir Lietuvos Respublikos Vyriausybės atstovai.
+žemės nuomos sutarčių laikymąsi kontroliuoja apskričių viršininkų
+administracijos.
  
 Straipsnio
 pakeitimai:
 Nr.
-1-941, 95.06.13, Žin., 1995, Nr. 53-1296 (95.06.28)
+I-941, 95.06.13, Žin., 1995,
+Nr. 53-1296 (95.06.28)
+Nr.
+VIII-314, 97.06.26, Žin., 1997, Nr.66-1597 (97.07.11)
  
  
 Skelbiu
