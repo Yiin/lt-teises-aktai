@@ -13,18 +13,18 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 
 # Lietuvos Respublikos biudžeto sandaros įstatymas
 
-@D1=19900730;D2=19960514;D3=19960523
+@D1=19900730;D2=19960606;D3=19960624
 
 
 
 
-@D1=19900730;D2=19960514;D3=19960523
+@D1=19900730;D2=19960606;D3=19960624
 Pakeitimai:
  1.
  Parlamentas,
 Įstatymas
-{#92HWAA2914 ;} Nr.
-1-2914, 92.09.24, Žin., 1992, Nr. 29(1)-854
+{#19920924AA2914 ;}
+Nr. 1-2914, 92.09.24, Žin., 1992, Nr. 29(1)-854
  DĖL LIETUVOS
 RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO DALINIO
  PAKEITIMO
@@ -32,8 +32,8 @@ RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO DALINIO
  2.
  Parlamentas,
 Įstatymas
-{#92JRAA3072 ;} Nr.
-1-3072, 92.11.19, Žin., 1992, Nr. 34-1036
+{#19921119AA3072 ;}
+Nr. 1-3072, 92.11.19, Žin., 1992, Nr. 34-1036
  DĖL LIETUVOS
 RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 31
  STRAIPSNIO
@@ -42,8 +42,8 @@ PAKEITIMO
  3.
  Parlamentas,
 Įstatymas
-{#93IKAA0271 ;} Nr.
-1-271, 93.10.12, Žin., 1993, Nr. 54-1049 (93.10.20)
+{#19931012AA0271 ;}
+Nr. 1-271, 93.10.12, Žin., 1993, Nr. 54-1049 (93.10.20)
  DĖL LIETUVOS
 RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO
  IR PAPILDYMO
@@ -51,16 +51,17 @@ RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO
  4.
  Parlamentas,
 Įstatymas
-{#95AMAA0793 ;} Nr.
-1-793, 95.02.14, Žin., 1995, Nr. 18-404 (95.03.01)
+{#19950214AA0793 ;}
+Nr. 1-793, 95.02.14, Žin., 1995, Nr. 18-404 (95.03.01)
  DĖL LIETUVOS
 RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO
  IR PAPILDYMO
  
  5.
- Parlamentas, Įstatymas
-{#95DVAA0901 ;} Nr.
-1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+ Parlamentas,
+Įstatymas
+{#19950523AA0901 ;}
+Nr. 1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  DĖL LIETUVOS
 RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO
  IR PAPILDYMO
@@ -68,8 +69,8 @@ RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO
  6.
  Parlamentas,
 Įstatymas
-{#95I^AA1080 ;} Nr.
-1-1080, 95.10.31, Žin., 1995, Nr. 92-2056 (95.11.10)
+{#19951031AA1080 ;}
+Nr. 1-1080, 95.10.31, Žin., 1995, Nr. 92-2056 (95.11.10)
  DĖL KAI KURIŲ
 LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ,
  SUSIJUSIŲ SU
@@ -84,12 +85,21 @@ TVARKOS", PAKEITIMO IR PAPILDYMO
  7.
  Parlamentas,
 Įstatymas
-{#96DMAA1333 ;} Nr.
-1-1333, 96.05.14, Žin., 1996, Nr. 48-1141 (96.05.22)
+{#19960514AA1333 ;}
+Nr. 1-1333, 96.05.14, Žin., 1996, Nr. 48-1141 (96.05.22)
  LIETUVOS
 RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 1 IR 2
  STRAIPSNIŲ
 PAPILDYMO IR 21-1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+ 8.
+ Parlamentas,
+Įstatymas
+{#19960606AA1372 ;}
+Nr. 1-1372, 96.06.06, Žin., 1996, Nr. 57-1344 (96.06.19)
+ LIETUVOS
+RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 12 STRAIPSNIO
+ PAKEITIMO ĮSTATYMAS
  
  *** Pabaiga ***
  
@@ -131,8 +141,8 @@ diplomatinėse atstovybėse užsienyje.
  
 Straipsnio
 pakeitimai:
-{#95DVAA0901 ;} Nr. 1-901,
-95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
 {#96DMAA1333 ;} Nr.
 1-1333, 96.05.14, Žin., 1996, Nr. 48-1141 (96.05.22)
  
@@ -238,8 +248,8 @@ pakeitimai:
 {#95DVAA0901 ;} Nr.
 1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-     6 straipsnis. Lietuvos
-Respublikos valstybės ir savivaldybių
+     6 straipsnis.
+Lietuvos Respublikos valstybės ir savivaldybių
 biudžetai sudaromi 
 ir vykdomi vadovaujantis Lietuvos Respublikos
 įstatymais ir 
@@ -288,8 +298,8 @@ biudžetus   ir  
 jų   įvykdymą  skelbia  valstybinės  statistikos
 įstaigos. 
 Informacija  apie  savivaldybių biudžetų tvirtinimą ir
-vykdymą  pateikiama 
-Lietuvos  Respublikos  finansų  ministerijai
+vykdymą  pateikiama 
+Lietuvos  Respublikos  finansų  ministerijai
 Lietuvos Respublikos
 Vyriausybės nustatyta tvarka.
  
@@ -319,7 +329,8 @@ tvarka  perskirstomi  finansiniai  ištekliai
 savivaldybės
 poreikiams tenkinti.
  
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 {#95DVAA0901 ;} Nr.
 1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
@@ -329,8 +340,8 @@ pajamas sudaro 
 Lietuvos Respublikos įstatymų nustatyti mokesčiai
 ir kitos įmokos į
 biudžetą.
-     Lietuvos Respublikos
-valstybės biudžetui priskiriama:
+     Lietuvos
+Respublikos valstybės biudžetui priskiriama:
      1) juridinių
 asmenų pelno mokestis;
      2) pridėtinės
@@ -342,18 +353,19 @@ asmenų pajamų mokestis;
 prekybos ir sandorių mokesčiai;
      6) žyminis
 mokestis;
-     7) konsulinis
+     7) konsulinis
 mokestis;
      8) pajamos iš
 valstybės nuosavybės;
      9) kitos
 įmokos.
-     1 ir  3
-punktuose  nurodytų mokesčių  į Lietuvos Respublikos
+     1  ir  3
+punktuose  nurodytų mokesčių į Lietuvos Respublikos
 valstybės biudžetą 
 įskaitoma ta dalis, kuri lieka atmetus sumas,
-įskaitomas į
-savivaldybių biudžetus.
+įskaitomas į 
+savivaldybių biudžetus  ir į  privalomojo sveikatos
+draudimo fondą.
      2, 4,  5 ir  7
 punktuose nurodyti mokesčiai visi įskaitomi į
 Lietuvos Respublikos
@@ -362,8 +374,8 @@ valstybės biudžetą.
 nurodytas mokestis į valstybės biudžetą įskaitomas
 Lietuvos Respublikos
 žyminio mokesčio įstatyme nustatyta tvarka.
-     8 punkte  nurodytų
-pajamų  į Lietuvos  Respublikos valstybės
+     8 punkte 
+nurodytų pajamų  į Lietuvos  Respublikos valstybės
 biudžetą įskaitoma 
 ta  dalis,  kuri  gaunama  už  eksploatuojamą
 valstybės turtą.
@@ -383,13 +395,15 @@ pakeitimai:
 1-793, 95.02.14, Žin., 1995, Nr. 18-404 (95.03.01)
 {#95DVAA0901 ;} Nr.
 1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+{#19960606AA1372 ;}
+Nr. 1-1372, 96.06.06, Žin., 1996, Nr. 57-1344 (96.06.19)
  
      13 
 straipsnis.   Lietuvos  Respublikos  valstybės  biudžeto
 asignavimai skiriami
 šioms valstybės reikmėms:
      1)  švietimo,  
-kultūros,  sveikatos   apsaugos  ir   sporto
+kultūros,  sveikatos   apsaugos  ir   sporto
 programoms
 įgyvendinti;
      2) socialinės
@@ -416,8 +430,8 @@ valstybės ryšiams;
 skolos aptarnavimo išlaidoms;
      12) valstybės
 biudžeto kasos apyvartos lėšoms padidinti;
-     13)   išlaidoms,  
-patirtoms   dėl   važiavimo   keleiviniu
+     13)  
+išlaidoms,   patirtoms   dėl   važiavimo   keleiviniu
 transportu lengvatų
 taikymo, kompensuoti;
      14) kitoms 
@@ -433,8 +447,8 @@ pakeitimai:
 {#95I^AA1080 ;} Nr.
 1-1080, 95.10.31, Žin., 1995, Nr. 92-2056 (95.11.10)
  
-     14 
-straipsnis.   Lietuvos  Respublikos  valstybės  biudžete
+     14  straipsnis.  
+Lietuvos  Respublikos  valstybės  biudžete
 sudaromas Lietuvos 
 Respublikos Vyriausybės rezervo fondas, kurio
 dydis nustatomas
@@ -472,8 +486,8 @@ Respublikos finansų
 ministerija.
      Lietuvos
 Respublikos  valstybės biudžeto projektas rengiamas
-remiantis  valstybės 
-įstatymų  aktais,  valstybinės  statistikos
+remiantis 
+valstybės  įstatymų  aktais,  valstybinės  statistikos
 duomenimis,
 socialinėmis-ekonominėmis programomis ir mokslinėmis-
 techninėmis
@@ -488,10 +502,10 @@ Seimui. Biudžeto projekte nurodoma:
      1) bendra 
 pajamų suma  ir jų  paskirstymas  pagal  mokesčių
 (pajamų) rūšis;
-     2) bendra 
-asignavimų suma ir jų paskirstymas ministerijoms,
+     2) bendra  asignavimų
+suma ir jų paskirstymas ministerijoms,
 kitoms   
-Lietuvos     Respublikos     Vyriausybės     įstaigoms,
+Lietuvos     Respublikos     Vyriausybės     įstaigoms,
 savarankiškiems 
 departamentams,   įmonėms   bei   įstaigoms   ir
 apskritims, 
@@ -518,7 +532,7 @@ pakeitimai:
      18 straipsnis. 
 Lietuvos Respublikos Seimo komitetai svarsto
 Lietuvos 
-Respublikos   valstybės  biudžeto  projektą  ir  rengia
+Respublikos   valstybės  biudžeto  projektą  ir  rengia
 pasiūlymus bei
 išvadas Lietuvos Respublikos Seimui.
  
@@ -572,10 +586,10 @@ mėnesiui negali 
 viršyti praėjusiųjų metų valstybės biudžeto 1/12
 išlaidų.
  
-     21-1 
-straipsnis.   Lietuvos   Respublikos   Vyriausybė  per
+     21-1  straipsnis.  
+Lietuvos   Respublikos   Vyriausybė  per
 pusantro   mėnesio  
-nuo   einamųjų   metų  Lietuvos  Respublikos
+nuo   einamųjų   metų  Lietuvos  Respublikos
 valstybės  
 biudžeto   įstatymo  įsigaliojimo  pateikia  Lietuvos
 Respublikos  
@@ -593,7 +607,7 @@ pakeitimai:
 1-1333, 96.05.14, Žin., 1996, Nr. 48-1141 (96.05.22)
  
      22 straipsnis. 
-Lietuvos  Respublikos  Vyriausybė  valstybės
+Lietuvos  Respublikos  Vyriausybė  valstybės
 biudžeto vykdymą 
 organizuoja per  Lietuvos  Respublikos  finansų
 ministeriją ir jos
@@ -607,8 +621,8 @@ asignavimus 
 valstybės  papildomoms  reikmėms  tenkinti  Lietuvos
 Respublikos 
 Vyriausybės  teikimu  skirsto  Lietuvos  Respublikos
-Seimas priimdamas
-atitinkamus įstatymus.
+Seimas priimdamas atitinkamus
+įstatymus.
  
 Straipsnio
 pakeitimai:
@@ -663,19 +677,18 @@ Savivaldybių   biudžetai  turi   būti  patvirtinti  be
 deficito.
  
  
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
 {#92HWAA2914 ;} Nr.
 1-2914, 92.09.24, Žin., 1992, Nr. 29(1)-854
-{#95DVAA0901 ;} Nr. 1-901,
-95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+{#95DVAA0901 ;} Nr.
+1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
      28 straipsnis.
 Savivaldybių biudžetų pajamas sudaro:
      1) juridinių
 asmenų pelno mokestis;
-     2) fizinių
-asmenų pajamų mokestis;
+     2) fizinių asmenų
+pajamų mokestis;
      3)
 nekilnojamojo  turto (įskaitant  žemės nuomos  ir  žemės)
 mokesčiai;
@@ -706,8 +719,7 @@ skiriamos iš
 Lietuvos Respublikos valstybės biudžeto.
  
  
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
 {#93IKAA0271 ;} Nr.
 1-271, 93.10.12, Žin., 1993, Nr. 54-1049 (93.10.20)
 {#95DVAA0901 ;} Nr.
@@ -777,8 +789,8 @@ pakeitimai:
  
      32 straipsnis. 
 Lietuvos Respublikos  Seimui  arba  Lietuvos
-Respublikos Vyriausybei 
-priėmus sprendimus,  dėl kurių  keičiasi
+Respublikos
+Vyriausybei  priėmus sprendimus,  dėl kurių  keičiasi
 savivaldybių
 biudžetų  pajamos arba  išlaidos, daromi  atitinkami
 tarpusavio 
@@ -830,8 +842,8 @@ pakeitimai:
 {#95DVAA0901 ;} Nr.
 1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
-     35  straipsnis.  
-Savivaldybių  tarybų   komitetai   svarsto
+     35 
+straipsnis.   Savivaldybių  tarybų   komitetai   svarsto
 savivaldybių
 biudžetų projektus ir rengia pasiūlymus bei išvadas.
  
@@ -850,8 +862,8 @@ bei išvadas.
  
 Straipsnio
 pakeitimai:
-{#95DVAA0901 ;} Nr.
-1-901, 95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
+{#95DVAA0901 ;} Nr. 1-901,
+95.05.23, Žin., 1995, Nr. 47-1136 (95.06.07)
  
      37 straipsnis. 
 Savivaldybių biudžetus tvirtina savivaldybių
@@ -859,7 +871,7 @@ tarybos. Biudžetas 
 tvirtinamas savivaldybės  tarybos  sprendimu.
 Jame nurodoma:
      1) bendra 
-pajamų suma  ir jų  paskirstymas  pagal  mokesčių
+pajamų suma  ir jų  paskirstymas  pagal  mokesčių
 (pajamų) rūšis;
      2) bendra 
 asignavimų suma  ir jų  paskirstymas  vienarūšėms
@@ -889,8 +901,8 @@ patvirtinimo.
 savivaldybių biudžetai nepatvirtinami iki metų pradžios,
 jų (iki
 patvirtinimo) išlaidos metų pradžioje kiekvienam mėnesiui
-negali viršyti
-praėjusių metų šių biudžetų 1/12 išlaidų.
+negali viršyti praėjusių
+metų šių biudžetų 1/12 išlaidų.
      Patvirtintus 
 biudžetus  savivaldybių  merai  informaciniams
 tikslams pateikia
@@ -904,8 +916,8 @@ pakeitimai:
  
      39 straipsnis. 
 Savivaldybių  biudžetų  vykdymą  organizuoja
-vietos   savivaldos   
-vykdomosios    institucijos    per    savo
+vietos  
+savivaldos    vykdomosios    institucijos    per    savo
 administracijos
 padalinius  bei kitas  savivaldybės  įstaigas  ir
 organizacijas.
@@ -958,7 +970,6 @@ Vilnius, 1990 m.
 liepos 30 d.
  
      Nr. I-430
- 
  
  
  
