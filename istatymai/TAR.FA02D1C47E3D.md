@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Suvestinė redakcija nuo 1990-04-07 iki 1990-04-10
+Suvestinė redakcija nuo 1990-04-11 iki 1990-07-16
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
  
@@ -103,6 +103,21 @@ Nauja Lietuvos Respublikos Vyriausybė pateikia Lietuvos Respublikos Aukščiaus
 Lietuvos Respublikos Vyriausybė grąžina savo įgaliojimus naujai Lietuvos Respublikos Aukščiausiajai Tarybai jos pirmojoje sesijoje.
 
 Lietuvos Respublikos Aukščiausiosios Tarybos sprendimu Lietuvos Respublikos Vyriausybė vykdo savo pareigas, kol bus sudaryta nauja Lietuvos Respublikos Vyriausybė.
+ 
+
+61 straipsnis. Lietuvos Respublikos vyriausybės prisaikdinimas
+
+Naujai paskirti vyriausybės nariai prisiekia šiais žodžiais:
+„Aš, (vardas, pavardė), jums liudijant,
+prisiekiu būti ištikimas Lietuvos Respublikai;
+prisiekiu gerbti ir vykdyti Jos įstatymus, saugoti Jos žemių vientisumą;
+prisiekiu visomis išgalėmis stiprinti Lietuvos nepriklausomybę, sąžiningai tarnauti Tėvynei, Demokratijai, Lietuvos žmonių gerovei.
+Tepadeda man Dievas!“
+
+Prisiekti galima ir be paskutinio sakinio. 
+
+Papildyta straipsniu:
+Nr. I-139, 1990-04-11, Lietuvos aidas, 1990, Nr. 19-0 (1990-04-18); Žin., 1990, Nr. 12-368 (1990-04-30), i. k. 0901010ISTA000I-139
  
 
 7 straipsnis. Lietuvos Respublikos Vyriausybės atsakomybė ir atskaitomybė
@@ -411,4 +426,9 @@ Pakeitimai:
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Nutarimas
 Nr. I-108, 1990-04-03, Lietuvos aidas, 1990, Nr. 16-0 (1990-04-06); Žin., 1990, Nr. 11-347 (1990-04-20), i. k. 0901010NUTA000I-108
 Dėl pakeitimų Lietuvos Respublikos Vyriausybės įstatyme
+ 
+2.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-139, 1990-04-11, Lietuvos aidas, 1990, Nr. 19-0 (1990-04-18); Žin., 1990, Nr. 12-368 (1990-04-30), i. k. 0901010ISTA000I-139
+Dėl Lietuvos Respublikos Vyriausybės įstatymo papildymo
 
