@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5F9F5C944DB1"
 
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
 
+Suvestinė redakcija nuo 2001-08-17 iki 2002-06-25
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 102-2921, i. k. 0991010ISTAIII-1422
+ 
 LIETUVOS RESPUBLIKOS
 ATSISKAITYMO UŽ ŽEMĖS ŪKIO PRODUKCIJĄ
 Į S T A T Y M A S
@@ -25,15 +29,18 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato žemės ūkio produkcijos pirkimo–pardavimo sutarties būtinąsias sąlygas, atsiskaitymo už šią produkciją sąlygas ir tvarką.
+1. Šis įstatymas nustato žemės ūkio produkcijos pi
+pirkimo–pardavimo sutarties tipines sąlygas, atsiskaitymo už šią produkciją sąlygas ir tvarką.
 
 
 
 
-2. Šio įstatymo nuostatos, reglamentuojančios atsiskaitymą už žemės ūkio produkciją, taikomos ūkio subjektams, išskyrus atvejus, kai kooperatinė bendrovė (kooperatyvas) perka iš savo narių jų pagamintą žemės ūkio produkciją ir kai žemės ūkio produkcija perkama iš prekybos įmonių.
+2. Šio įstatymo nuostatos, reglamentuojančios atsiskaitymą už žemės ūkio produkciją, taikomos ūkio subjektams, išskyrus atvejus, kai kooperatinė bendrovė (kooperatyvas) perka iš savo narių jų pagamintą žemės ūkio produkciją.
+
+
+Straipsnio pakeitimai:
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
  
-
-
 
 
 
@@ -46,12 +53,18 @@ Vilnius
 
 
 
-2. Žemės ūkio produkcijos pardavėjai – ūkio subjektai, parduodantys savo pagamintą žaliavinę ir perdirbtą žemės ūkio produkciją.
+2. Žemės ūkio produkcijos pardavėjai – ūkio subjektai, parduodantys žaliavinę, apdorotą ar perdirbtą žemės ūkio produkciją. 
+Straipsnio dalies pakeitimai:
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
+ 
 
 
 
 
-3. Žemės ūkio produkcijos pirkėjai – ūkio subjektai, tarp jų prekybos ir perdirbamosios pramonės įmonės, perkantys perdirbti, parduoti ir vartoti skirtą žemės ūkio produkciją. 
+3. Žemės ūkio produkcijos pirkėjai – ūkio subjektai, tarp jų prekybos ir perdirbamosios pramonės įmonės, perkantys žemės ūkio produkciją perdirbti, apdoroti ar parduoti.
+Straipsnio dalies pakeitimai:
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
+ 
 
 
 
@@ -92,46 +105,50 @@ Vilnius
 3 straipsnis. Sutarties forma
 
 
-Žemės ūkio produkcijos pirkėjai – supirkimo, perdirbimo, prekybos ir kitos įmonės – gali pirkti žemės ūkio produkciją tik sudarę su žemės ūkio produkcijos pardavėju rašytinę žemės ūkio produkcijos pirkimo–pardavimo sutartį, kuri turi atitikti Vyriausybės arba jos įgaliotos institucijos patvirtintas tos žemės ūkio produkcijos tipinės sutarties sąlygas. 
+Žemės ūkio produkcijos pirkėjas gali pirkti žemės ūkio produkciją tik sudaręs su žemės ūkio produkcijos pardavėju rašytinę žemės ūkio produkcijos pirkimo–pardavimo sutartį, kuri turi atitikti šio įstatymo 4 straipsnyje ir Vyriausybės arba jos įgaliotos institucijos nustatytas tipines sutarties sąlygas.
+
+
+Straipsnio pakeitimai:
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
  
 
 
 
 
+4 straipsnis. Tipinės sutarties sąlygos
 
 
-4 straipsnis. Būtinosios sutarties sąlygos
+Rašytinėje žemės ūkio produkcijos pirkimo–pardavimo sutartyje turi būti nurodyta:
 
 
-1. Rašytinėje žemės ūkio produkcijos pirkimo–pardavimo sutartyje turi būti nurodyta:
-
-
-1) produkcijos pavadinimas, numatomas pirkti kiekis, būtinieji kokybės reikalavimai, kaina, pirkimo ir tiekimo tvarka (periodiškumas, reguliariai parduodamos produkcijos tiekimo laikotarpio trukmė bei, šalims susitarus, tiekimo grafikas);
-
-
-
-
-2) atsiskaitymo už patiektą produkciją ir komercinio kredito palūkanų bei delspinigių mokėjimo tvarka; 
+1) produkcijos pavadinimas, numatomas pirkti kiekis, kokybės reikalavimai, kaina;
 
 
 
 
-3) šalių atsakomybė už pirkimo–pardavimo sutartyje nustatytų sutarties sąlygų nevykdymą; 
+2) pirkimo ir tiekimo tvarka (periodiškumas, reguliariai parduodamos produkcijos tiekimo laikotarpio trukmė, pirkėjo priimtos žemės ūkio produkcijos įkainojimo trukmė bei, šalims susitarus, tiekimo grafikas);
 
 
 
 
-4) šalių rekvizitai.
+3) atsiskaitymo už patiektą produkciją ir komercinio kredito palūkanų bei delspinigių mokėjimo sąlygos ir tvarka;
 
 
 
 
+4) šalių atsakomybė už pirkimo–pardavimo sutartyje nustatytų sutarties sąlygų nevykdymą;
 
 
-2. Vyriausybė arba jos įgaliota institucija gali nustatyti ir kitas būtinas sutarties sąlygas.
+
+
+5) šalių rekvizitai.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
  
-
-
 
 
 
@@ -169,7 +186,10 @@ Vilnius
 
 
 
-7. Jeigu už patiektą žemės ūkio produkciją pirkėjas negali atsiskaityti pirkimo–pardavimo sutartyje numatytu būdu per 5 darbo dienas, gavęs raštišką prašymą, jis privalo ne ilgesniam kaip 6 mėnesių laikotarpiui išduoti priklausančios mokėti pinigų sumos arba pardavėjo pageidaujamos šios sumos dalies vekselį. Palūkanos už vekselio sumą skaičiuojamos Įsakomųjų ir paprastųjų vekselių įstatymo nustatyta tvarka.
+7. Jeigu už patiektą žemės ūkio produkciją pirkėjas negali atsiskaityti pirkimo–pardavimo sutartyje numatytu būdu per 5 darbo dienas po jos įkainojimo, gavęs raštišką prašymą jis privalo ne ilgesniam kaip 6 mėnesių laikotarpiui išduoti priklausančios mokėti pinigų sumos arba pardavėjo pageidaujamos šios sumos dalies banko akceptuotą ar laiduotą vekselį arba atsiskaitymą užtikrinti laidavimu, garantija ar įkeitimu (hipoteka), jei žemės ūkio produkcijos pardavėjo reikalavimai vienu iš šių būdų nebuvo užtikrinti anksčiau. Skolinio įsipareigojimo užtikrinimo priemonę pasirenka pirkėjas, jei ko kita nenumatyta žemės ūkio produkcijos pirkimo–pardavimo sutartyje. Palūkanos už vekselio sumą skaičiuojamos Įsakomųjų ir paprastųjų vekselių įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
+ 
 
 
 
@@ -205,7 +225,9 @@ Vilnius
 
 
 
-5. Atsiskaitymas grynaisiais pinigais pagal su mokėtoju sudarytas sutartis privalo būti įformintas išrašant Vyriausybės įgaliotos institucijos nustatytą dokumentą.
+5. Žemės ūkio produkcijos pirkimas atsiskaitant grynaisiais pinigais įforminamas išrašant žemės ūkio produkcijos pirkimo kvitą. Už šią produkciją atsiskaitoma grynaisiais pinigais pagal kasos išlaidų orderį arba per įmonės atskaitingą asmenį pagal pinigų sumokėjimą įrodantį dokumentą – pirkimo mokėjimo žiniaraštį.
+Straipsnio dalies pakeitimai:
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
  
 
 
@@ -221,12 +243,26 @@ Vilnius
 
 
 
-2. Komercinio kredito palūkanas ir delspinigius mokėjimo ir debeto pavedimuose įrašo šiuos dokumentus išrašantis ūkio subjektas arba bankas.
+2. Komercinio kredito palūkanas ir delspinigius mokėjimo ir debeto pavedimuose įrašo šiuos dokumentus išrašantis ūkio subjektas arba bankas pagal sutartį, sudarytą su ūkio subjektu. Kai už gautą žemės ūkio produkciją ūkio subjektas atsiskaito mokėjimo pavedimu, komercinio kredito palūkanų suma šiame dokumente įrašoma iš karto, o kai atsiskaitoma mokėjimo ar debeto pavedimu, bet šios palūkanos neįrašomos, per mėnesį apskaičiuotas komercinio kredito palūkanas žemės ūkio produkcijos pirkėjas sumoka mokėjimo pavedimu ne vėliau kaip iki kito mėnesio dešimtos dienos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
+ 
 
 
 
 
-3. Atsiskaitant grynaisiais pinigais, komercinio kredito palūkanas ir delspinigius apskaičiuoja žemės ūkio produkcijos pirkėjas, o jų suma privalo būti įrašyta grynųjų pinigų mokėjimui įforminti skirtame dokumente.
+3. Kai atsiskaitymo už žemės ūkio produkciją laikotarpis ilgesnis kaip mėnuo, komercinio kredito palūkanas žemės ūkio produkcijos pirkėjas apskaičiuoja kiekvienam mėnesio laikotarpiui po produkcijos įkainojimo dienos atskirai ir mokėjimo pavedimą bankui pateikia ne vėliau kaip iki tarpusavio sutartyje numatyto laikotarpio pabaigos. 
+Papildyta straipsnio dalimi:
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
+ 
+
+
+
+
+4. Atsiskaitant grynaisiais pinigais, komercinio kredito palūkanas ir delspinigius apskaičiuoja žemės ūkio produkcijos pirkėjas, o jų suma privalo būti įrašyta grynųjų pinigų mokėjimui įforminti skirtame dokumente.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
  
 
 
@@ -234,13 +270,15 @@ Vilnius
 
 
 
-8 straipsnis. Atsiskaitymo kontrolė 
+8 straipsnis. Atsiskaitymo kontrolė
 
 
-Apskričių viršininkai arba jų įgalioti asmenys tikrina, ar žemės ūkio produkcijos pirkėjai, laikydamiesi įstatymų ir kitų teisės aktų reikalavimų, sudaro rašytines žemės ūkio produkcijos pirkimo–pardavimo sutartis, apskaičiuoja komercinio kredito palūkanas bei delspinigius ir atsiskaito su produkcijos pardavėjais, taip pat teikia siūlymus Vyriausybei dėl priemonių atsiskaitymų būklei gerinti ir pareiškimus teismui dėl bankroto bylų iškėlimo. Žemės ūkio produkcijos pirkėjai apskričių viršininkams teikia Vyriausybės įgaliotos institucijos nustatytą informaciją apie atsiskaitymų už žemės ūkio produkciją būklę.
+Apskričių viršininkai arba jų įgalioti asmenys tikrina, ar žemės ūkio produkcijos pirkėjai, laikydamiesi įstatymų ir kitų teisės aktų reikalavimų, sudaro rašytines žemės ūkio produkcijos pirkimo–pardavimo sutartis, apskaičiuoja komercinio kredito palūkanas bei delspinigius ir atsiskaito su produkcijos pardavėjais, taip pat teikia siūlymus Vyriausybei dėl priemonių atsiskaitymų būklei gerinti. Žemės ūkio produkcijos pirkėjai apskričių viršininkams teikia Vyriausybės įgaliotos institucijos nustatytą informaciją apie atsiskaitymų už žemės ūkio produkciją būklę. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
  
-
-
 
 
 
@@ -283,3 +321,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 ______________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
+Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 1, 2, 3, 4, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas
