@@ -13,48 +13,38 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2000-10-04 iki 2004-01-06
+Suvestinė redakcija nuo 2004-01-07 iki 2005-10-12
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
+ 
+Nauja redakcija nuo 2004-01-07:
+Nr. IX-1895, 2003-12-16, Žin. 2004, Nr. 4-24 (2004-01-07), i. k. 1031010ISTA0IX-1895
  
 LIETUVOS RESPUBLIKOS VALSTYBĖS IR SAVIVALDYBĖS ĮMONIŲ Į S T A T Y M A S
  
 1994 m. gruodžio 21 d. Nr. I-722
 Vilnius
  
+TAR pastaba. Nuo Įstatymo Nr. IX-1895 įsigaliojimo Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas (Žin., 1994, Nr. 102-2049; 1995, Nr. 36-888; 1996, Nr. 64-1508; 1997, Nr. 69-1738, Nr. 117-3006; 1998, Nr. 26-671; 1999, Nr. 60-1956; 2000, Nr. 28-761, Nr. 34-956, Nr. 42-1186, Nr. 83-2512) tik tiek, kiek jis neprieštarauja Civiliniam kodeksui, taikomas:
+1) valstybės įmonių ir savivaldybės įmonių, kurių steigimo aktai yra priimti iki Įstatymo Nr. IX-1895 įsigaliojimo dienos (2004-01-07), steigimo procedūroms;
+2) valstybės įmonių ir savivaldybės įmonių, dėl kurių reorganizavimo ar likvidavimo sprendimai yra priimti iki Įstatymo Nr. IX-1895 įsigaliojimo dienos (2004-01-07), reorganizavimo arba likvidavimo procedūroms.
  
 
 
-I SKIRSNIS
-BENDROJI DALIS
+Pirmasis skirsnis
+BENDROsios nuostatos
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas reglamentuoja valstybei bei savivaldybei nuosavybės teise priklausančių įmonių steigimą, valdymą, veiklą, reorganizavimą ir likvidavimą.
- 
-
-
+1. Šis Įstatymas reglamentuoja valstybės įmonių ir savivaldybės įmonių steigimą, valdymą, veiklą, reorganizavimą, pertvarkymą ir likvidavimą.
 
 
 
 
-2 straipsnis. Valstybės ir savivaldybės įmonės samprata
-
-
-1. Valstybės įmonė yra iš valstybės lėšų įsteigta arba įstatymų nustatyta tvarka valstybės nuosavybėn perduota įmonė, kurios visas turtas nuosavybės teise priklauso Lietuvos Respublikai, o įmonė turtą valdo, naudoja bei disponuoja juo turto patikėjimo teisėmis.
-
-
-
-
-2. Savivaldybės įmonė yra iš savivaldybei nuosavybės teise priklausančių lėšų įsteigta arba įstatymų nustatyta tvarka savivaldybės nuosavybėn perduota įmonė, kurios visas turtas nuosavybės teise priklauso savivaldybei, o įmonė turtą valdo, naudoja bei disponuoja juo turto patikėjimo teisėmis.
-
-
-
-
-3. Kai šio įstatymo nuostatos taikomos ir valstybės, ir savivaldybės įmonei, vartojamas žodis „įmonė“.
+2. Kai šio Įstatymo nuostatos taikomos ir valstybės įmonei, ir savivaldybės įmonei, vartojamas žodis „įmonė“.
  
 
 
@@ -62,63 +52,45 @@ BENDROJI DALIS
 
 
 
-3 straipsnis. Įmonės statusas
+2 straipsnis. Valstybės įmonės ir savivaldybės įmonės samprata
 
 
-1. Įmonė nuo įregistravimo dienos yra juridinis asmuo. Įmonė pagal savo prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas išieškojimas. Įmonės teises valdyti, naudotis ir disponuoti jai patikėtu valstybės ar savivaldybės turtu nustato šis įstatymas, įmonės įstatai ir kiti Lietuvos Respublikos įstatymai. Įmonė neatsako už valstybės ar savivaldybės prievoles.
-Straipsnio dalies pakeitimai:
-Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA00I-1403
- 
+1. Valstybės įmonė yra iš valstybės turto įsteigta arba įstatymų nustatyta tvarka valstybei perduota įmonė, kuri nuosavybės teise priklauso valstybei ir jai perduotą ir jos įgytą turtą valdo, naudoja bei juo disponuoja patikėjimo teise. 
 
 
 
 
-2. Įmonei steigėjas turi teisę nustatyti:
-
-
-1) privalomus darbus (užduotis);
+2. Savivaldybės įmonė yra iš savivaldybės turto įsteigta arba įstatymų nustatyta tvarka savivaldybei perduota įmonė, kuri nuosavybės teise priklauso savivaldybei ir jai perduotą ir jos įgytą turtą valdo, naudoja bei juo disponuoja patikėjimo teise.
 
 
 
 
-2) prekių (paslaugų) kainas ir tarifus bei jų apskaičiavimo taisykles;
+3. Valstybės įmonės ir savivaldybės įmonės tikslas – teikti viešąsias paslaugas, gaminti produkciją ir vykdyti kitą veiklą siekiant tenkinti viešuosius interesus.
 
 
 
 
-3) administracijos, kurios darbuotojus skiria steigėjas, pareigybes;
+4. Įmonė yra ribotos civilinės atsakomybės viešasis juridinis asmuo.
 
 
 
 
-4) neteko galios nuo 2000-04-05.
-Papildyta straipsnio punktu:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
-Straipsnio punkto pakeitimai:
-Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
- 
+5. Valstybės įmonės pavadinime turi būti jos teisinę formą nusakantys žodžiai „valstybės įmonė“ arba šių žodžių santrumpa „VĮ“. Savivaldybės įmonės pavadinime turi būti jos teisinę formą nusakantys žodžiai „savivaldybės įmonė“ arba šių žodžių santrumpa „SĮ“.
 
 
 
 
-
-
-3. Valstybės įmonės pavadinime privalomi žodžiai „valstybės įmonė“, o savivaldybės įmonės – „savivaldybės įmonė“ arba atitinkamos šių žodžių santrumpos – „VĮ“, „SĮ“. Įmonės pavadinimas turi atitikti Lietuvos Respublikos Vyriausybės patvirtintų Firmų vardų nuostatų reikalavimus. Ginčus dėl įmonės pavadinimo sprendžia teismas.
-
-
-
-
-4. Įmonė turi antspaudą su savo pavadinimu.
+6. Įmonė privalo turėti bent vieną sąskaitą banke.
 
 
 
 
-5. Įmonė turi Lietuvos Respublikos Konstitucijos, šio ir kitų Lietuvos Respublikos įstatymų bei Lietuvos Respublikos Vyriausybės nutarimų suteiktą veikimo, iniciatyvos bei sprendimų priėmimo laisvę ir savo veiklą grindžia šio įstatymo nustatyta tvarka įregistruotais įstatais.
+7. Įmonės buveinė turi būti Lietuvos Respublikoje.
 
 
 
 
-6. Įmonės ūkiniai metai yra kalendoriniai metai.
+8. Įmonė savo veikloje vadovaujasi Lietuvos Respublikos civiliniu kodeksu, šiuo Įstatymu, kitais teisės aktais bei savo įstatais.
  
 
 
@@ -126,102 +98,40 @@ Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010IS
 
 
 
-4 straipsnis. Įmonės teisės
+3 straipsnis. Įmonės teisės ir pareigos
 
 
-Įmonė gali:
-
-
-1) užsiimti įstatuose nustatyta ūkine veikla Lietuvos Respublikoje ir už jos ribų;
+1. Įmonė gali turėti ir įgyti tik tokias civilines teises ir pareigas, kurios neprieštarauja įmonės įstatams ir jos veiklos tikslams. 
 
 
 
 
-2) turėti atsiskaitomąją ir valiutinę sąskaitas tik viename iš Lietuvos Respublikoje pasirinktų bankų, taip pat po vieną valiutinę sąskaitą bet kurioje užsienio valstybėje;
+2. Įmonė įgyja civilines teises, prisiima civilines pareigas ir jas įgyvendina per įmonės vadovą. Įmonė negali įgyti civilinių teisių ir pareigų per įmonės savininką ar įmonės savininko teises ir pareigas įgyvendinančią instituciją.
 
 
 
 
-3) sudaryti sutartis, prisiimti įsipareigojimus, skolintis piniginių lėšų;
+3. Įmonei draudžiama būti kitų juridinių asmenų dalyve.
 
 
 
 
-4) disponuoti bet kokiu įmonės trumpalaikiu turtu ir visiškai susidėvėjusiu ilgalaikiu turtu, o jeigu tai nustato kiti Lietuvos Respublikos įstatymai, – ir kitu įmonės turtu;
+4. Savo prievolių įvykdymui užtikrinti įmonė gali įkeisti ilgalaikį materialųjį turtą, išskyrus turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė. 
 
 
 
 
-5) steigėjo leidimu įkeisti ilgalaikį turtą;
+5. Įmonė gali nustatyti savo produkcijos bei teikiamų paslaugų kainas ir tarifus, išskyrus atvejus, kai juos įstatymų nustatyta tvarka nustato Vyriausybė, savivaldybės taryba ar kita įstatymų nustatyta institucija.
 
 
 
 
-6) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus tais atvejais, kada šio bei kitų Lietuvos Respublikos įstatymų nustatyta tvarka jų nenustato Lietuvos Respublikos Vyriausybė arba steigėjas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
- 
+6. Įmonė turi teisę steigti filialus ir atstovybes Lietuvos Respublikoje ir užsienio valstybėse. 
 
 
 
 
-7) atsiskaityti už pateiktas prekes, atliktus darbus ir paslaugas bet kuria sutarta forma, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
- 
-
-
-
-
-8) nustatyti įmonės vidaus struktūrą;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
- 
-
-
-
-
-9) steigėjo leidimu steigti filialus, jungtis į asociacijas ar konsorciumus tik komanditoriaus teisėmis, jeigu tai neprieštarauja Lietuvos Respublikos konkurencijos įstatymui;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
- 
-
-
-
-
-10) turėti kitokių, šio įstatymo nenustatytų, civilinių teisių ir pareigų, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
- 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA00I-1403
- 
-
-
-
-
-II SKIRSNIS
-ĮMONĖS STEIGIMAS
- 
-
-
-5 straipsnis. Įmonės steigimo teisinis pagrindas
-
-
-1. Valstybės įmonės steigimo teisinis pagrindas yra įmonės steigimo aktas, priimtas Lietuvos Respublikos Seimo, Vyriausybės arba kurio nors iš jų pavedimu – įgaliotos jiems atskaitingos ar pavaldžios institucijos, įstaigos, taip pat biudžetinės įstaigos steigėjo priimtas sprendimas reorganizuoti biudžetinę įstaigą, išlaikomą iš valstybės biudžeto, į valstybės įmonę, jei įmonė steigiama dalyvaujant reorganizavime biudžetinei įstaigai. Savivaldybės įmonės steigimo teisinis pagrindas yra įmonės steigimo aktas, priimtas savivaldybės tarybos, taip pat savivaldybės tarybos sprendimas reorganizuoti savivaldybės biudžetinę įstaigą į savivaldybės įmonę. Institucija, įstaiga, priėmusi sprendimą įsteigti įmonę, yra tos įmonės steigėja. Seimas, Vyriausybė ar savivaldybės taryba, jeigu kuris nors iš jų yra įmonės steigėjas, gali įgalioti jiems atskaitingas ar pavaldžias institucijas, įstaigas vykdyti visas ar dalį įmonės steigėjos funkcijų, taip pat susigrąžinti šias funkcijas. Įmonės steigėjo funkcijos iš Seimo Vyriausybei arba iš Vyriausybės Seimui bei tarp šioms institucijoms, įstaigoms atskaitingų ar pavaldžių valstybės institucijų, įstaigų yra perduodamos Lietuvos Respublikos Seimo nutarimu.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
-Nr. VIII-1920, 2000-09-12, Žin., 2000, Nr. 83-2512 (2000-10-04), i. k. 1001010ISTAIII-1920
- 
-
-
-
-
-2. Įmonių steigimą reglamentuoja Lietuvos Respublikos įmonių įstatymas, šis įstatymas ir kiti teisės aktai.
+7. Įmonės buveinėje turi būti saugomi dokumentai ir kita informacija apie įmonės turtą bei veiklą. Įmonės filialų ir atstovybių buveinėse turi būti saugomi dokumentai ir kita informacija apie šiems filialams bei atstovybėms perduotą turtą, taip pat informacija apie jų veiklą.
  
 
 
@@ -229,15 +139,855 @@ Nr. VIII-1920, 2000-09-12, Žin., 2000, Nr. 83-2512 (2000-10-04), i. k. 1001010I
 
 
 
-6 straipsnis. Įmonės įstatai
+4 straipsnis. Įmonės savininkas
 
 
-1. Įstatai yra teisinis dokumentas, kuriuo vadovaujasi įmonė savo veikloje.
+1. Valstybės įmonės savininkė yra valstybė. Valstybės įmonės savininko teises ir pareigas valstybė įgyvendina per Vyriausybę arba jos įgaliotą valstybės valdymo instituciją. Valstybės įmonės savininko teises ir pareigas įgyvendina viena valstybės valdymo institucija.
 
 
 
 
-2. Įstatuose turi būti nurodyta:
+2. Savivaldybės įmonės savininkė yra savivaldybė. Savivaldybės įmonės savininko teises ir pareigas savivaldybė įgyvendina per savivaldybės valdymo instituciją.
+
+
+
+
+3. Toliau šiame Įstatyme valstybės įmonės savininko teises ir pareigas įgyvendinanti Vyriausybė arba jos įgaliota valstybės valdymo institucija, taip pat savivaldybės įmonės savininko teises ir pareigas įgyvendinanti savivaldybės valdymo institucija vadinamos įmonės savininko teises ir pareigas įgyvendinančiomis institucijomis.
+
+
+
+
+4. Įmonės savininko teises ir pareigas įgyvendinanti institucija:
+
+
+1) nustato įmonės veiklos strategiją;
+
+
+
+
+2) tvirtina įmonės įstatus;
+
+
+
+
+3) skiria ir atšaukia įmonės vadovą, nustato darbo sutarties su įmonės vadovu sąlygas, įmonės vardu sudaro ir nutraukia darbo sutartį su įmonės vadovu, tvirtina įmonės vadovo pareigybės nuostatus. Sprendimas dėl savivaldybės įmonės vadovo skyrimo ir atšaukimo gali būti priimamas tik savivaldybės tarybai pritarus;
+
+
+
+
+4) skiria ir atšaukia valdybos narius, jei sudaroma valdyba;
+
+
+
+
+5) tvirtina įmonės metinę finansinę atskaitomybę ir pelno (nuostolių) paskirstymą;
+
+
+
+
+6) parenka audito įmonę;
+
+
+
+
+7) priima sprendimą reorganizuoti įmonę;
+
+
+
+
+8) priima sprendimą pertvarkyti įmonę, išskyrus šio Įstatymo nustatytas išimtis;
+
+
+
+
+9) priima sprendimus likviduoti įmonę ir atšaukti įmonės likvidavimą;
+
+
+
+
+10) paskiria ir atleidžia įmonės likvidatorių.
+
+
+
+
+
+
+5. Įmonės savininko teises ir pareigas įgyvendinanti institucija sprendžia kitus šiame Įstatyme, kituose teisės aktuose ir įmonės įstatuose jos kompetencijai priskirtus klausimus.
+
+
+
+
+6. Įmonės savininko teises ir pareigas įgyvendinančios institucijos sprendimai turi būti įforminami raštu. 
+
+
+
+
+7. Kai šio straipsnio 4 dalies 3, 7 ir 9 punktuose nurodytiems sprendimams priimti šio Įstatymo nustatytais atvejais reikia Vyriausybės nutarimo arba savivaldybės tarybos sprendimo, taip pat kai šio straipsnio 4 dalies 8 punkte nurodytą sprendimą šio Įstatymo nustatytais atvejais priima Vyriausybė arba savivaldybės taryba, Vyriausybės nutarimų arba savivaldybės tarybos sprendimų projektus parengia ir Vyriausybei arba savivaldybės tarybai pateikia įmonės savininko teises ir pareigas įgyvendinanti institucija, jeigu atitinkamai Vyriausybė arba savivaldybės taryba savo sprendimu tokią instituciją yra paskyrusi.
+ 
+
+
+
+
+
+
+
+
+Antrasis skirsnis
+ĮMONĖS STEIGIMAS IR REGISTRAVIMAS
+ 
+
+
+5 straipsnis. Įmonės steigimo teisinis pagrindas 
+
+
+1. Valstybės įmonę nutarimu steigia Vyriausybė, jeigu kiti įstatymai nenustato kitaip.
+
+
+
+
+2. Savivaldybės įmonę sprendimu steigia savivaldybės taryba.
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalyse nurodytuose teisės aktuose, kuriais steigiama įmonė, be kita ko, turi būti nurodyta:
+
+
+1) įmonės pavadinimas;
+
+
+
+
+2) įmonės steigimo tikslas;
+
+
+
+
+3) įmonės savininko teises ir pareigas įgyvendinanti institucija;
+
+
+
+
+4) įmonės savininko patikėjimo teise perduodamas turtas.
+
+
+
+
+
+
+4. Teisės aktas, kuriuo steigiama įmonė, pateikiamas juridinių asmenų registrui kartu su kitais, teisės aktų nustatytais įmonei įregistruoti, dokumentais.
+
+
+
+
+5. Įmonės steigimo išlaidos kompensuojamos iš įmonės lėšų.
+ 
+
+
+
+
+
+
+6 straipsnis. Įmonės įstatai
+
+
+1. Įstatai yra steigimo dokumentas, kuriuo įmonė vadovaujasi savo veikloje.
+
+
+
+
+2. Įmonės įstatuose turi būti nurodyta:
+
+
+1) įmonės pavadinimas;
+
+
+
+
+2) įmonės teisinė forma;
+
+
+
+
+3) įmonės buveinė;
+
+
+
+
+4) įmonės veiklos tikslai, kurie turi būti apibrėžti aiškiai ir išsamiai, nurodant įmonės veiklos sritis bei rūšis; 
+
+
+
+
+5) įmonės savininko teises ir pareigas įgyvendinanti institucija ir jos kompetencija; 
+
+
+
+
+6) įmonės valdybos, jei ji sudaroma, kompetencija, valdybos sudarymo ir atšaukimo tvarka;
+
+
+
+
+7) įmonės vadovo kompetencija, jo skyrimo bei atleidimo tvarka; 
+
+
+
+
+8) įmonės skelbimų ir pranešimų skelbimo tvarka, Lietuvos Respublikos dienraštis, kuriame bus skelbiama įmonės vieša informacija;
+
+
+
+
+9) įmonės savininko patikėjimo teise įmonei perduoto turto valdymo, naudojimo, disponavimo juo tvarka ir sąlygos; 
+
+
+
+
+10) įmonės įstatų keitimo tvarka;
+
+
+
+
+11) įmonės veiklos laikotarpis, jeigu jis yra ribotas.
+
+
+
+
+
+
+3. Įstatuose gali būti ir kitų nuostatų, neprieštaraujančių šiam ir kitiems įstatymams.
+
+
+
+
+4. Steigiamos įmonės įstatus rengia ir tvirtina teisės akte, kuriuo steigiama įmonė, nurodyta įmonės savininko teises ir pareigas įgyvendinanti institucija. 
+
+
+
+
+5. Pakeistus įmonės įstatus tvirtina įmonės savininko teises ir pareigas įgyvendinanti institucija.
+
+
+
+
+6. Įstatai tvirtinami įmonės savininko teises ir pareigas įgyvendinančios institucijos vadovo arba jo įgalioto asmens parašu ir institucijos antspaudu, jeigu institucija antspaudą privalo turėti.
+
+
+
+
+7. Steigiamos įmonės įstatai pateikiami juridinių asmenų registrui. Steigiamos įmonės įstatai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per 6 mėnesius nuo įstatų patvirtinimo dienos.
+
+
+
+
+8. Pakeisti įstatai įsigalioja nuo jų įregistravimo juridinių asmenų registre. Tokiais atvejais kartu su teisės aktų nustatytais dokumentais juridinių asmenų registrui turi būti pateikti pakeisti įmonės įstatai ir nurodyti jų pakeitimai.
+ 
+
+
+
+
+
+
+7 straipsnis. Įmonės įregistravimas
+
+
+1. Įmonė laikoma įsteigta ir gali pradėti veiklą nuo jos įregistravimo juridinių asmenų registre. 
+
+
+
+
+2. Įmonė įregistruojama po to, kai yra patvirtinti įmonės įstatai, sudaryta valdyba (jeigu įstatuose nustatyta, kad ji sudaroma), įmonės savininko teises ir pareigas įgyvendinančios institucijos sprendimu paskirtas įmonės vadovas ir juridinių asmenų registrui pateikti Civiliniame kodekse, šiame Įstatyme ir kituose teisės aktuose nurodyti dokumentai.
+ 
+
+
+
+
+
+
+8 straipsnis. Juridinių asmenų registro duomenys
+
+
+1. Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų registre nurodoma: 
+
+
+1) įmonės savininko teises ir pareigas įgyvendinanti institucija;
+
+
+
+
+2) duomenys apie valdybos pirmininką ir įmonės vadovo bei valdybos narių paskyrimo ir jų įgaliojimų pabaigos datos;
+
+
+
+
+3) įmonės veiklos laikotarpis, jei jis yra ribotas;
+
+
+
+
+4) duomenys apie likvidatorių, jo paskyrimo ir įgaliojimų pabaigos datos, likvidatoriaus įgaliojimai, išskyrus numatytus įstatymuose ar įmonės įstatuose.
+
+
+
+
+
+
+2. Kai yra nuspręsta pakeisti juridinių asmenų registro duomenis ar įmonės įstatus, įmonės vadovas per 30 dienų nuo įmonės savininko teises ir pareigas įgyvendinančios institucijos sprendimo, kuriuo buvo pakeistas registro duomuo ar įstatai, juridinių asmenų registrui turi pateikti šį sprendimą patvirtinantį dokumentą ir kitus teisės aktų nustatytus dokumentus.
+ 
+
+
+
+
+
+
+
+
+Trečiasis skirsnis
+ĮMONĖS VALDYMAS
+ 
+
+
+9 straipsnis. Įmonės organai
+
+
+1. Įmonės organai yra įmonės savininko teises ir pareigas įgyvendinanti institucija ir vienasmenis valdymo organas – įmonės vadovas. 
+
+
+
+
+2. Įmonės įstatuose gali būti numatytas ir kolegialus įmonės valdymo organas – valdyba. 
+
+
+
+
+3. Įmonė įgyja civilines teises, prisiima civilines pareigas ir jas įgyvendina per įmonės vadovą. 
+
+
+
+
+4. Įmonės vadovas ir valdybos nariai turi vengti situacijos, kad jų asmeniniai interesai prieštarautų ar galėtų prieštarauti įmonės interesams. Susidarius tokiai situacijai, valdybos narys ir įmonės vadovas per 10 dienų privalo apie tai raštu pranešti įmonės savininko teises ir pareigas įgyvendinančiai institucijai. 
+
+
+
+
+5. Įmonės organai privalo veikti įmonės naudai, laikytis įstatymų bei kitų teisės aktų ir vadovautis įmonės įstatais. Įmonės organai neturi teisės priimti sprendimų ar atlikti kitų veiksmų, kurie akivaizdžiai viršija normalią gamybinę ūkinę riziką ar yra akivaizdžiai nuostolingi. 
+ 
+
+
+
+
+
+
+10 straipsnis. Valdyba
+
+
+1. Valstybės įmonės valdybos nariais gali būti tik įmonės savininko teises ir pareigas įgyvendinančios institucijos valstybės tarnautojai ir įmonės vadovas. Savivaldybės įmonės valdybos nariais gali būti tik savivaldybės administracijos valstybės tarnautojai ir įmonės vadovas.
+
+
+
+
+2. Valdyba:
+
+
+1) nustato įmonės struktūrą;
+
+
+
+
+2) pritaria įmonės darbuotojų apmokėjimo ir premijavimo taisyklėms;
+
+
+
+
+3) nustato įmonės veiklos rodiklius, jei šiuos rodiklius nustatyti įstatuose nėra priskirta įmonės savininko teises ir pareigas įgyvendinančios institucijos kompetencijai;
+
+
+
+
+4) pritaria įmonės metinės finansinės atskaitomybės projektui bei įmonės paskirstytinojo pelno (nuostolių) paskirstymo projektui;
+
+
+
+
+5) tvirtina įmonės metinius turto įsigijimo ir skolinimosi planus;
+
+
+
+
+6) vykdo kitas šiame Įstatyme ir įmonės įstatuose valdybos kompetencijai priskirtas funkcijas.
+
+
+
+
+
+
+3. Valdybos nariai veiklą pradeda nuo jų paskyrimo dienos.
+
+
+
+
+4. Jeigu valdyba nesudaroma, šio straipsnio 2 dalies 1 ir 5 punktų nuostatos priskiriamos įmonės savininko teises ir pareigas įgyvendinančios institucijos kompetencijai.
+
+
+
+
+5. Valdyba gali priimti sprendimus ir jos posėdis laikomas įvykusiu, kai posėdyje dalyvauja daugiau kaip pusė valdybos narių. Valdybos sprendimas yra priimtas, jeigu už jį balsavo daugiau kaip pusė posėdyje dalyvavusių valdybos narių. Valdybos nariais paskirti valstybės tarnautojai balsuoja pagal įmonės savininko teises ir pareigas įgyvendinančios institucijos duotą įgaliojimą.
+
+
+
+
+6. Valdyba veikia pagal jos patvirtintą darbo reglamentą. 
+
+
+
+
+7. Už veiklą valdyboje jos nariams neatlyginama.
+ 
+
+
+
+
+
+
+11 straipsnis. Įmonės vadovas
+
+
+1. Įmonės vadovas pradeda eiti pareigas nuo paskyrimo į pareigas dienos. Kai įmonė steigiama, įmonės vadovu paskirtas asmuo pradeda eiti įmonės vadovo pareigas nuo įmonės įregistravimo dienos. 
+
+
+
+
+2. Įmonės vadovas organizuoja įmonės veiklą ir veikia įmonės vardu esant santykiams su kitais asmenimis. Įmonės vadovas: priima į darbą ir atleidžia darbuotojus; sudaro ir nutraukia su jais darbo sutartis; tvirtina įmonės filialų ir atstovybių nuostatus; skiria bei atšaukia įmonės filialų ir atstovybių valdymo organus; turėdamas valdybos, o jeigu valdyba nesudaroma – įmonės savininko teises ir pareigas įgyvendinančios institucijos išankstinį pritarimą, nustato įmonėje taikomus turto nusidėvėjimo skaičiavimo metodus ir normatyvus; parengia įmonės darbuotojų apmokėjimo ir premijavimo taisykles; teikia informaciją įmonės savininko teises ir pareigas įgyvendinančiai institucijai apie įmonės veiklos prognozes ir planus, nurodydamas reikalingų investicijų ateinančiais finansiniais metais sumas, bei apie įvykius, turinčius esminės reikšmės įmonės veiklai. Jeigu įmonėje valdyba nesudaroma, įmonės vadovas atlieka ir valdybos kompetencijai priskirtas funkcijas, išskyrus šio Įstatymo 10 straipsnio 4 dalyje nustatytas išimtis.
+
+
+
+
+3. Įmonės vadovas turi teisę vienvaldiškai sudaryti sandorius. Įmonės įstatuose gali būti nurodyti sandoriai, kuriems sudaryti būtina turėti valdybos, o jeigu valdyba nesudaroma – įmonės savininko teises ir pareigas įgyvendinančios institucijos išankstinį pritarimą. 
+
+
+
+
+4. Įmonės vadovu negali būti asmuo, kuriam įstatymų nustatyta tvarka atimta teisė eiti tokias pareigas. Įmonės vadovas negali būti tos įmonės vyriausiuoju buhalteriu (buhalteriu). Jeigu įmonės buhalterinę apskaitą tvarko įmonės apskaitos tarnyba (struktūrinis padalinys), įmonės vadovas negali būti šios tarnybos (struktūrinio padalinio) vadovu.
+
+
+
+
+5. Įmonės vadovas negali būti ar tapti kito juridinio asmens valdymo organo nariu, vyriausiuoju buhalteriu (buhalteriu) ar buhalterinę apskaitą tvarkančios apskaitos tarnybos (struktūrinio padalinio) vadovu. Jeigu įmonės vadovu skiriamas asmuo, kuris yra kito juridinio asmens valdymo organo narys, vyriausiasis buhalteris (buhalteris) ar buhalterinę apskaitą tvarkančios apskaitos tarnybos (struktūrinio padalinio) vadovas, tai per 1 mėnesį po paskyrimo įmonės vadovu jis privalo atsistatydinti iš pareigų, kurias ėjo kitame juridiniame asmenyje. Įmonės vadovas, pažeidęs šioje dalyje nustatytą reikalavimą, įstatymų nustatyta tvarka atleidžiamas iš iki tol eitų įmonės vadovo pareigų.
+
+
+
+
+6. Įmonės vadovas atsako už: 
+
+
+1) įmonės veiklos organizavimą;
+
+
+
+
+2) pranešimą įmonės savininko teises ir pareigas įgyvendinančiai institucijai apie įvykius, turinčius esminės reikšmės įmonės veiklai;
+
+
+
+
+3) įmonės metinės finansinės atskaitomybės sudarymą ir jos pateikimą kartu su auditoriaus išvada bei audito ataskaita įmonės savininko teises ir pareigas įgyvendinančiai institucijai per 3 mėnesius nuo finansinių metų pabaigos;
+
+
+
+
+4) įmonės veiklos ataskaitos pateikimą įmonės savininko teises ir pareigas įgyvendinančiai institucijai;
+
+
+
+
+5) įmonės duomenų ir dokumentų pateikimą juridinių asmenų registrui;
+
+
+
+
+6) viešos informacijos paskelbimą;
+
+
+
+
+7) dokumentų ir kitos informacijos apie įmonę saugojimą;
+
+
+
+
+8) įmonės turto valdymą, naudojimą ir disponavimą juo įstatuose nustatyta tvarka ir sąlygomis;
+
+
+
+
+9) kitus veiksmus, kuriuos įmonės vadovui nustato šis Įstatymas, kiti teisės aktai bei įmonės įstatai.
+
+
+
+
+
+
+7. Darbo ginčai tarp įmonės vadovo ir įmonės nagrinėjami teisme.
+
+
+
+
+8. Įmonės vadovas, nevykdantis arba netinkamai vykdantis pareigas, nurodytas Civiliniame kodekse, šiame ir kituose įstatymuose bei įstatuose, privalo padarytą žalą atlyginti įmonei visiškai. 
+ 
+
+
+
+
+
+
+
+
+Ketvirtasis skirsnis
+ĮMONĖS NUOSAVAS KAPITALAS, turtas ir pelno paskirstymas 
+ 
+
+
+12 straipsnis. Įmonės nuosavas kapitalas
+
+
+1. Įmonės nuosavą kapitalą sudaro:
+
+
+1) įmonės savininko kapitalas;
+
+
+
+
+2) privalomasis rezervas;
+
+
+
+
+3) perkainojimo rezervas;
+
+
+
+
+4) kiti rezervai;
+
+
+
+
+5) nepaskirstytasis pelnas (nuostoliai).
+
+
+
+
+
+
+2. Įmonėje sudaromi rezervai iš paskirstytinojo pelno, taip pat perkainojimo rezervas. 
+
+
+
+
+3. Įmonėje turi būti sudaromas ir privalomasis rezervas, kuris naudojamas tik įmonės nuostoliams dengti. Privalomasis rezervas sudaromas iš įmonės paskirstytinojo pelno, taikant įmonės savininko teises ir pareigas įgyvendinančios institucijos nustatyto dydžio metinius atskaitymus. Atskaitymai į privalomąjį rezervą turi sudaryti ne mažiau kaip 1/20 paskirstytinojo pelno. Jie turi būti vykdomi tol, kol privalomojo rezervo dydis sudarys 1/10 nuosavo kapitalo vertės. Nustatytą dydį viršijanti privalomojo rezervo dalis gali būti perskirstyta skirstant įmonės pelną. Privalomasis rezervas, panaudotas įmonės nuostoliams dengti, turi būti sudaromas iš naujo, laikantis šioje dalyje nustatytos tvarkos.
+
+
+
+
+4. Perkainojimo rezervas – tai ilgalaikio materialiojo ir finansinio turto vertės padidėjimo suma, gauta perkainojus turtą. Turtas perkainojamas, kai jį teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka įvertina nepriklausomas turto vertintojas, taip pat kai turtas indeksuojamas Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka. Sprendimas dėl turto vertinimo priimamas įmonės įstatuose nustatyta tvarka. Perkainojimo rezervas mažinamas, kai perkainotas turtas nurašomas, nudėvimas, nukainojamas ar perleidžiamas kitiems asmenims. Perkainojimo rezervu negalima mažinti įmonės nuostolių.
+
+
+
+
+5. Kiti rezervai sudaromi įmonės įstatuose nustatytiems tikslams. Rezervai sudaromi ir naikinami įmonės įstatuose nustatyta tvarka.
+ 
+
+
+
+
+
+
+13 straipsnis. Įmonės turtas
+
+
+1. Įmonei įmonės savininko perduotas ir įmonės įgytas turtas nuosavybės teise priklauso įmonės savininkui.
+
+
+
+
+2. Įmonei gali būti perduodamas bet koks įmonės savininko turtas, kurį pagal Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymą galima perduoti įmonei patikėjimo teise valdyti, naudoti ir juo disponuoti. Turtas perduodamas teisės aktų nustatyta tvarka, turto perdavimo akte nurodant jo balansinę vertę. Įmonės savininko perduotą turtą įmonė valdo, naudoja ir juo disponuoja patikėjimo teise įmonės įstatuose nustatyta tvarka ir sąlygomis, nepažeisdama šio bei kitų įstatymų ir kitų asmenų teisių bei interesų. 
+
+
+
+
+3. Dalis įmonės turto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais atvejais ir tvarka gali būti perduota kitiems asmenims nuosavybės ar patikėjimo teise, jeigu įmonės įsipareigojimai po įmonės turto sumažėjimo neviršytų 1/3 likusio įmonės turto vertės. 
+
+
+
+
+4. Apie Vyriausybės ar savivaldybės tarybos sprendimą perduoti įmonės turto dalį įmonės vadovas per 30 dienų nuo sprendimo priėmimo turi viešai paskelbti įmonės įstatuose nurodytame dienraštyje arba raštu pranešti kiekvienam įmonės kreditoriui. Įmonė privalo suteikti papildomą prievolių įvykdymo užtikrinimą to pareikalavusiam kreditoriui, jei yra pagrindas manyti, kad prievolę įvykdyti bus sunkiau. Kreditorius reikalavimus gali pateikti ne vėliau kaip per 2 mėnesius nuo viešo paskelbimo apie sprendimą perduoti įmonės turto dalį dienos arba nuo raštiško pranešimo įteikimo jam dienos. 
+ 
+
+
+
+
+
+
+14 straipsnis. Įmonės finansinė atskaitomybė
+
+
+1. Įmonės finansinė atskaitomybė sudaroma buhalterinę apskaitą ir finansinę atskaitomybę reglamentuojančių teisės aktų nustatyta tvarka. 
+
+
+
+
+2. Įmonės metinę finansinę atskaitomybę ne vėliau kaip per 4 mėnesius, pasibaigus įmonės finansiniams metams, turi patvirtinti įmonės savininko teises ir pareigas įgyvendinanti institucija. 
+
+
+
+
+3. Tvirtinama tik audituota įmonės metinė finansinė atskaitomybė. 
+
+
+
+
+4. Patvirtinta įmonės metinė finansinė atskaitomybė per 30 dienų nuo jos patvirtinimo kartu su auditoriaus išvada ir audito ataskaita turi būti pateikta juridinių asmenų registrui. 
+
+
+
+
+5. Įmonės tarpinė finansinė atskaitomybė turi būti sudaroma per 30 dienų, pasibaigus įmonės finansinių metų ketvirčiui. Įmonės tarpinę finansinę atskaitomybę įmonės vadovas pateikia valdybai ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai jų pareikalavimu.
+ 
+
+
+
+
+
+
+15 straipsnis. Pelno (nuostolių) paskirstymas
+
+
+1. Įmonės paskirstytinasis pelnas (nuostoliai) turi būti paskirstytas (paskirstyti) ne vėliau kaip per 4 mėnesius, pasibaigus įmonės finansiniams metams. 
+
+
+
+
+2. Įmonės vadovas turi parengti ir kartu su įmonės metine finansine atskaitomybe pateikti įmonės savininko teises ir pareigas įgyvendinančiai institucijai tvirtinti sprendimo dėl įmonės paskirstytinojo pelno (nuostolių) paskirstymo projektą. Projekte turi būti nurodyta:
+
+
+1) nepaskirstytasis pelnas (nuostoliai) ataskaitinių finansinių metų pradžioje;
+
+
+
+
+2) ataskaitinių finansinių metų grynasis pelnas (nuostoliai);
+
+
+
+
+3) paskirstytinasis pelnas (nuostoliai) ataskaitinių finansinių metų pabaigoje;
+
+
+
+
+4) pervedimai iš rezervų;
+
+
+
+
+5) paskirstytinasis pelnas (nuostoliai);
+
+
+
+
+6) pelno dalis, skiriama į privalomąjį rezervą;
+
+
+
+
+7) pelno dalis, skiriama į kitus rezervus, jeigu įmonėje sudaryta ir kitų rezervų;
+
+
+
+
+8) pelno dalis, skiriama darbuotojų premijoms ir kitiems tikslams. Darbuotojų premijoms ir kitiems tikslams gali būti skiriama ne daugiau kaip 1/5 paskirstytinojo pelno;
+
+
+
+
+9) nepaskirstytasis pelnas (nuostoliai), perkeliamas (perkeliami) į kitus finansinius metus.
+ 
+
+
+
+
+
+
+
+
+
+
+Penktasis skirsnis
+ĮMONĖS VEIKLOS KONTROLĖ
+ 
+
+
+16 straipsnis. Įmonės veiklos ataskaita
+
+
+1. Įmonės vadovas turi parengti ir kartu su įmonės metine finansine atskaitomybe pateikti įmonės savininko teises ir pareigas įgyvendinančiai institucijai ataskaitinių finansinių metų įmonės veiklos ataskaitą. 
+
+
+
+
+2. Įmonės veiklos ataskaitoje turi būti pateikiama įmonės veiklos per ataskaitinius finansinius metus apžvalga, informacija apie darbuotojų skaičiaus įmonėje pasikeitimą (naujų darbo vietų sukūrimą), apie įmonės turto padidėjimą arba sumažėjimą, nurodytos šio turto padidėjimo arba sumažėjimo priežastys, įmonės nuosavo kapitalo dydis ataskaitinių finansinių metų pradžioje ir pabaigoje, taip pat informacija apie įmonės filialus ir atstovybes bei svarbiausius įvykius įmonėje ataskaitiniais finansiniais metais.
+
+
+
+
+3. Įmonės savininko teises ir pareigas įgyvendinanti institucija turi teisę nustatyti papildomus informacijos, kuri turi būti pateikiama įmonės veiklos ataskaitoje, reikalavimus. 
+ 
+
+
+
+
+
+
+17 straipsnis. Įmonės auditas
+
+
+1. Valstybės įmonės metinę finansinę atskaitomybę turi patikrinti įmonės savininko teises ir pareigas įgyvendinančios institucijos parinkta audito įmonė. Audito įmonė parenkama Viešųjų pirkimų įstatymo nustatyta tvarka. Įmonės vardu sutartį su audito įmone sudaro įmonės savininko teises ir pareigas įgyvendinanti institucija. Audito paslaugas apmoka įmonė.
+
+
+
+
+2. Savivaldybės įmonės metinę finansinę atskaitomybę turi patikrinti savivaldybės kontrolės ir audito institucija. Savivaldybės taryba gali priimti sprendimą atlikti tam tikros veiklos nepriklausomą auditą. Audito įmonė parenkama Viešųjų pirkimų įstatymo nustatyta tvarka. Įmonės vardu sutartį su audito įmone sudaro savivaldybės vykdomoji institucija. Audito paslaugas apmoka įmonė.
+
+
+
+
+3. Atliekant įmonės metinės finansinės atskaitomybės auditą, kartu patikrinama, ar įmonės veiklos ataskaitos duomenys atitinka metinės finansinės atskaitomybės duomenis. Atlikus auditą, įmonei pateikiama auditoriaus išvada ir audito ataskaita.
+
+
+
+
+4. Įmonės valstybinis veiklos auditas atliekamas įstatymų nustatytais atvejais ir tvarka.
+
+
+
+
+5. Įmonės vidaus auditas atliekamas vadovaujantis vidaus auditą reglamentuojančiais teisės aktais.
+ 
+
+
+
+
+
+
+
+
+ŠEŠTASIS SKIRSNIS
+ĮMONĖS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
+ 
+
+
+18 straipsnis. Įmonės reorganizavimas
+
+
+1. Įmonė gali būti reorganizuojama Civilinio kodekso nustatytais jungimo bei skaidymo būdais.
+
+
+
+
+2. Valstybės įmonės reorganizavimo procedūros gali būti pradėtos vykdyti tik Vyriausybei sutikus reorganizuoti įmonę, išskyrus atvejus, kai valstybės įmonei reorganizuoti priimamas atskiras įstatymas. Savivaldybės įmonės reorganizavimo procedūros gali būti pradėtos vykdyti tik savivaldybės tarybai sutikus reorganizuoti įmonę. Vyriausybės nutarime ar savivaldybės tarybos sprendime dėl sutikimo reorganizuoti įmonę, be kita ko, turi būti nurodyti reorganizavimo tikslai, reorganizavimo būdas, reorganizuojamos įmonės, reorganizavime dalyvaujančios įmonės, po reorganizavimo veiksiančios įmonės, kiekvienos po reorganizavimo veiksiančios įmonės numatomi veiklos tikslai ir įmonės savininko teises bei pareigas įgyvendinanti institucija.
+
+
+
+
+3. Reorganizuojamų ir reorganizavime dalyvaujančių įmonių vadovai įmonės reorganizavimo sąlygas parengia po to, kai Vyriausybė priima nutarimą ar savivaldybės taryba priima sprendimą sutikti reorganizuoti įmonę. Jeigu įmonėje sudaryta valdyba, reorganizavimo sąlygos turi būti suderintos su valdyba. 
+
+
+
+
+4. Reorganizuojant valstybės įmonę, reorganizavime gali dalyvauti tik valstybės įmonės.
+
+
+
+
+5. Reorganizuojant savivaldybės įmonę, reorganizavime gali dalyvauti tik tos savivaldybės įmonės, kurių savininkė yra ta pati savivaldybė.
+
+
+
+
+6. Reorganizuojama įmonė negali būti pertvarkoma.
+
+
+
+
+7. Reorganizavimas laikomas baigtu, kai juridinių asmenų registre įregistruojamos po reorganizavimo sukurtos naujos įmonės ar įregistruojami tęsiančių veiklą įmonių pakeisti įstatai. Naujai kuriamoms įmonėms įregistruoti juridinių asmenų registrui vietoj teisės akto, kuriuo steigiama įmonė, pateikiamas sprendimas dėl reorganizavimo ir reorganizavimo sąlygos. Įmonė, turėjusi reorganizavime dalyvaujančios įmonės statusą, jo netenka nuo reorganizavimo pabaigos.
+ 
+
+
+
+
+
+
+19 straipsnis. Įmonės pertvarkymas
+
+
+1. Įmonė gali būti pertvarkoma į šio straipsnio 2 dalyje nurodytų teisinių formų juridinius asmenis, jeigu visas jos prievoles galės perimti kitos teisinės formos juridinis asmuo, veiksiantis po pertvarkymo. Po pertvarkymo veikiančiam juridiniam asmeniui pereina visos pertvarkytosios įmonės teisės ir pareigos.
+
+
+
+
+2. Įmonė gali būti pertvarkoma:
+
+
+1) iš valstybės įmonės į savivaldybės įmonę;
+
+
+
+
+2) iš savivaldybės įmonės į valstybės įmonę;
+
+
+
+
+3) į biudžetinę įstaigą;
+
+
+
+
+4) į akcinę bendrovę;
+
+
+
+
+5) į uždarąją akcinę bendrovę.
+
+
+
+
+
+
+3. Sprendimą pertvarkyti įmonę priima įmonės savininko teises ir pareigas įgyvendinanti institucija, išskyrus šio ir kitų įstatymų nustatytas išimtis. Institucija, priėmusi sprendimą pertvarkyti įmonę, kartu tvirtina po pertvarkymo veiksiančio juridinio asmens įstatus (nuostatus). Sprendime pertvarkyti įmonę turi būti nurodyta:
+
+
+1) teisės akto, kuriuo vadovaujamasi priimant sprendimą, numeris, pavadinimas, priėmimo ir įsigaliojimo datos;
+
+
+
+
+2) juridinio asmens, į kurį pertvarkoma įmonė, teisinė forma, pavadinimas, buveinė, veiklos tikslai;
+
+
+
+
+3) kokia teise (nuosavybės ar patikėjimo) įmonės turtas perduodamas juridiniam asmeniui, į kurį pertvarkoma įmonė.
+
+
+
+
+
+
+4. Apie priimtą sprendimą pertvarkyti įmonę įmonės vadovas turi pranešti juridinių asmenų registrui bei viešai paskelbti įstatų nustatyta tvarka ir įstatuose nurodytame dienraštyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbti įstatuose nurodytame dienraštyje vieną kartą ir pranešti visiems įmonės kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
 
 
 1) įmonės pavadinimas;
@@ -250,64 +1000,34 @@ Nr. VIII-1920, 2000-09-12, Žin., 2000, Nr. 83-2512 (2000-10-04), i. k. 1001010I
 
 
 
-3) ūkinė veikla (gaminamos produkcijos, atliekamų darbų, teikiamų paslaugų rūšys);
+3) įmonės kodas;
 
 
 
 
-4) įmonės veiklos terminas;
+4) registras, kuriame kaupiami ir saugomi duomenys apie pertvarkomą įmonę;
 
 
 
 
-5) steigėjo teisės nustatyti privalomus darbus, kainas ir tarifus bei jų skaičiavimo taisykles;
+5) juridinio asmens, į kurį pertvarkoma įmonė, teisinė forma;
 
 
 
 
-6) įstatinio kapitalo dydis, jo keitimo tvarka;
-
-
-
-
-7) administracijos sudarymo tvarka ir kompetencija;
-
-
-
-
-8) auditorių skyrimo tvarka;
-
-
-
-
-9) pelno skirstymo taisyklės;
-
-
-
-
-10) įmonės pranešimų darbuotojams paskelbimo tvarka;
-
-
-
-
-11) įmonės reorganizavimo ir likvidavimo tvarka.
-
-
-
-
-Įstatuose gali būti ir kitos taisyklės, neprieštaraujančios Lietuvos Respublikos įstatymams. Jeigu ūkinę veiklą, numatytą įmonės įstatuose, reglamentuoja kiti Lietuvos Respublikos įstatymai, tai rengiant įstatus šių įstatymų privalu laikytis.
+6) kur ir nuo kada galima susipažinti su juridinio asmens, kuris veiks po pertvarkymo, steigimo dokumentais ir pertvarkomos įmonės praėjusių 3 finansinių metų metinėmis finansinėmis atskaitomybėmis.
 
 
 
 
 
 
-3. Įstatus tvirtina įmonės steigėjas. Institucijos vadovo parašas tvirtinamas antspaudu.
+5. Nuo sprendimo pertvarkyti įmonę priėmimo dienos įmonė įgyja pertvarkomos įmonės statusą. 
 
 
 
 
-4. Įstatus keisti ir papildyti iniciatyvos teisę turi ir įmonės administracija, ir steigėjas. Pakeistus ar papildytus įstatus tvirtina steigėjas. Įstatų pakeitimai ir papildymai įsigalioja nuo jų įregistravimo Lietuvos Respublikos įmonių rejestro įstatymo nustatyta tvarka.
+6. Pertvarkymas laikomas baigtu ir įmonė netenka pertvarkomos įmonės statuso nuo juridinio asmens, kuris veiks po pertvarkymo, įstatų (nuostatų) įregistravimo juridinių asmenų registre.
  
 
 
@@ -315,10 +1035,15 @@ Nr. VIII-1920, 2000-09-12, Žin., 2000, Nr. 83-2512 (2000-10-04), i. k. 1001010I
 
 
 
-7 straipsnis. Įmonės registravimas
+20 straipsnis. Valstybės įmonės pertvarkymas į savivaldybės įmonę
 
 
-Įmonės registravimo tvarką ir sąlygas nustato Lietuvos Respublikos įmonių, Įmonių rejestro ir šis įstatymai.
+1. Sprendimas pertvarkyti valstybės įmonę į savivaldybės įmonę gali būti priimamas, kai yra Vyriausybės nutarimas perduoti ir savivaldybės tarybos sprendimas perimti valstybės įmonei patikėjimo teise priklausantį turtą savivaldybės nuosavybėn, išskyrus atvejus, kai valstybės įmonei pertvarkyti į savivaldybės įmonę priimamas atskiras įstatymas.
+
+
+
+
+2. Savivaldybės taryba, priimdama sprendimą perimti turtą savivaldybės nuosavybėn, kartu įgalioja savivaldybės valdymo instituciją atlikti visus su šiuo sprendimu susijusius veiksmus.
  
 
 
@@ -326,20 +1051,15 @@ Nr. VIII-1920, 2000-09-12, Žin., 2000, Nr. 83-2512 (2000-10-04), i. k. 1001010I
 
 
 
-8 straipsnis. Įmonės filialas
+21 straipsnis. Savivaldybės įmonės pertvarkymas į valstybės įmonę
 
 
-1. Filialas yra įmonės padalinys, turintis atskirą buveinę. Filialas nėra juridinis asmuo ir veikia įmonės, kaip juridinio asmens, vardu. Jis veikia pagal įmonės įstatus ir jos administracijos vadovo suteiktus įgaliojimus, kurie turi būti nurodyti filialo nuostatuose. Įmonės filialų skaičius neribojamas.
-
-
-
-
-2. Filialui leidžiama turėti subsąskaitą. Filialo turtas apskaitomas įmonės finansinėje atskaitomybėje, taip pat atskiroje filialo finansinėje atskaitomybėje.
+1. Sprendimas pertvarkyti savivaldybės įmonę į valstybės įmonę gali būti priimamas, kai yra savivaldybės tarybos sprendimas perduoti ir Vyriausybės nutarimas perimti savivaldybės įmonei patikėjimo teise priklausantį turtą valstybės nuosavybėn.
 
 
 
 
-3. Filialas registruojamas Įmonių rejestro įstatymo nustatyta tvarka.
+2. Vyriausybė, priimdama nutarimą perimti turtą valstybės nuosavybėn, kartu įgalioja valstybės valdymo instituciją įgyvendinti šios valstybės įmonės savininko teises ir pareigas.
  
 
 
@@ -347,86 +1067,20 @@ Nr. VIII-1920, 2000-09-12, Žin., 2000, Nr. 83-2512 (2000-10-04), i. k. 1001010I
 
 
 
+22 straipsnis. Įmonės pertvarkymas į biudžetinę įstaigą
 
 
-III SKIRSNIS
-ĮMONĖS VALDYMAS
- 
-
-
-9 straipsnis. Įmonės valdymo organai
-
-
-Būtinas valdymo organas yra administracija. Steigėjo sprendimu įmonėje gali būti sudaroma valdyba.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
- 
+1. Įmonė, kurios turimų piniginių lėšų pakanka jos įsipareigojimams įvykdyti, gali būti pertvarkoma į biudžetinę įstaigą.
 
 
 
 
-10 straipsnis. Administracija
-
-
-1. Administracija įmonę valdo įmonės įstatuose nustatyta tvarka. Administracijos darbo reglamentą tvirtina administracijos vadovas.
+2. Valstybės įmonė gali būti pertvarkoma į biudžetinę įstaigą, išlaikomą iš Lietuvos valstybės biudžeto. Savivaldybės įmonė gali būti pertvarkoma į biudžetinę įstaigą, išlaikomą iš savivaldybės biudžeto. 
 
 
 
 
-2. Administracija dirba vadovaudamasi Lietuvos Respublikos įstatymais, įmonės įstatais, darbo reglamentu, padalinių bei pareigybių nuostatais, valdybos (jeigu ji sudaryta) ir administracijos vadovo sprendimais. Administracijos darbuotojai privalo saugoti įmonės paslaptis.
-
-
-
-
-3. Įmonėje turi būti administracijos vadovas ir vyriausiasis finansininkas (buhalteris). Administracijos vadovas negali eiti kartu ir vyriausiojo finansininko pareigų.
-
-
-
-
-4. Administracijos veiklai vadovauja administracijos vadovas (generalinis direktorius, direktorius).
-
-
-
-
-5. Darbo sutartis su administracijos vadovu, vyriausiuoju finansininku (buhalteriu) ir darbuotojais kitų pareigybių, į kurias skirti darbuotojus steigėjo teisė nustatyta įmonės įstatuose, sudaro steigėjas įmonės vardu Lietuvos Respublikos darbo sutarties įstatymo nustatyta tvarka. Jei įmonė dirba nuostolingai, steigėjas privalo svarstyti, ar administracijos vadovas yra tinkamas toliau eiti pareigas.
-Straipsnio dalies pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
- 
-
-
-
-
-6. Administracijos vadovu negali būti skiriamas asmuo, kuriam įstatymų nustatyta tvarka atimta teisė eiti tokias pareigas. Administracijos vadovas negali būti kitos bet kurios rūšies įmonės vadovu, valdybos, stebėtojų tarybos nariu, revizoriumi. Jeigu skiriant jis tokias pareigas eina, tai per vieną mėnesį po paskyrimo privalo iš jų atsistatydinti.
-
-
-
-
-7. Steigėjas gali nutraukti darbo sutartį su jo skirtais darbuotojais Darbo sutarties įstatymo nustatyta tvarka.
-
-
-
-
-8. Administracijos vadovas sudaro kolektyvines sutartis, priima į darbą įmonėje darbuotojus ir sudaro su jais darbo sutartis.
-
-
-
-
-9. Administracijos vadovas, vadovaudamasis įmonės įstatais ir darbo reglamentu, turi teisę sudaryti įmonės sandorius. Įmonės įstatuose gali būti nurodytos rūšys sutarčių, kurioms sudaryti administracijos vadovas turi gauti valdybos pritarimą, ir nustatytos veiklos sritys, kuriose sudaryti įmonės sandorius be atskiro administracijos vadovo įgaliojimo turi teisę įstatuose įvardytų pareigybių administracijos darbuotojai. Administracijos vadovas atstovauja įmonei valstybės valdžios ir valdymo institucijose, teisme, santykiuose su kitais asmenimis.
-Straipsnio dalies pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
- 
-
-
-
-
-10. Administracijos vadovo ir kitų administracijos darbuotojų sudaryti sandoriai gali būti pripažinti negaliojančiais Lietuvos Respublikos civilinio kodekso nustatytais atvejais ir tvarka.
-
-
-
-
-11. Administracijos vadovas ir darbuotojai Lietuvos Respublikos įstatymų nustatyta tvarka privalo įmonei atlyginti nuostolius, padarytus dėl jų kaltės.
+3. Sprendimą pertvarkyti valstybės įmonę į biudžetinę įstaigą priima Vyriausybė. Sprendimą pertvarkyti savivaldybės įmonę į biudžetinę įstaigą priima savivaldybės taryba. 
  
 
 
@@ -434,74 +1088,65 @@ Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010IST
 
 
 
-11 straipsnis. Valdyba
+23 straipsnis. Įmonės pertvarkymas į akcinę bendrovę arba uždarąją akcinę bendrovę
 
 
-1. Valdyba įmonėje sudaroma steigėjo sprendimu. Valdybos narių skaičius, jos pareigos, teisės, atsakomybė nustatoma įmonės įstatuose.
-Straipsnio dalies pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
-Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
- 
+1. Įmonė gali būti pertvarkoma į akcinę bendrovę, jeigu įmonės nuosavas kapitalas yra ne mažesnis nei Akcinių bendrovių įstatyme akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas. 
 
 
 
 
-2. Valdyba yra kolegialus organas, jos veiklai vadovauja pirmininkas. Valdybos pirmininku negali būti administracijos vadovas. Valdybos darbo tvarką nustato jos priimtas valdybos darbo reglamentas.
-Straipsnio dalies pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
- 
+2. Įmonė gali būti pertvarkoma į uždarąją akcinę bendrovę, jeigu įmonės nuosavas kapitalas yra ne mažesnis nei Akcinių bendrovių įstatyme uždarosioms akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas.
 
 
 
 
-3. Valdybos pirmininką bei narius skiria ir atšaukia steigėjas. Valdybos nariai skiriami ne ilgesniam kaip 4 metų laikotarpiui. Valdybos nariais gali būti tik tos įmonės administracijos vadovas ir valstybės ar savivaldybių valdininkai, Lietuvos banko darbuotojai. Valdybos nario kadencijų skaičius neribojamas. Įstatuose gali būti nustatyti papildomi reikalavimai valdybos nariams.
-Straipsnio dalies pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
-Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
- 
+3. Iki sprendimo pertvarkyti įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę priėmimo įmonės turtą turi įvertinti nepriklausomas turto vertintojas teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaita turi atitikti Akcinių bendrovių įstatymo nepiniginio įnašo vertinimui nustatytus reikalavimus ir ne vėliau kaip likus 10 dienų iki sprendimo pertvarkyti įmonę priėmimo turi būti pateikta įmonei. Pertvarkant įmonę į akcinę bendrovę, turto vertinimo ataskaita taip pat turi būti pateikta juridinių asmenų registrui kartu su kitais akcinės bendrovės įstatams įregistruoti reikalingais teisės aktų nustatytais dokumentais.
 
 
 
 
-4. Valdybos narys gali atsistatydinti iš valdybos kadencijai nesibaigus, apie tai raštu įspėjęs valdybą ir steigėją ne vėliau kaip prieš 14 kalendorinių dienų. Jeigu įmonė dirba nuostolingai, steigėjas privalo svarstyti valdybos narių atšaukimo iš valdybos klausimą.
-Straipsnio dalies pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
- 
+4. Sprendimas pertvarkyti valstybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę gali būti priimamas, kai yra Vyriausybės sutikimas pertvarkyti valstybės įmonę, išskyrus atvejus, kai valstybės įmonei pertvarkyti į akcinę bendrovę ar uždarąją akcinę bendrovę priimamas atskiras įstatymas. 
+
+
+
+
+5. Sprendimas pertvarkyti savivaldybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę gali būti priimamas, kai yra savivaldybės tarybos sutikimas pertvarkyti savivaldybės įmonę. 
+
+
+
+
+6. Sprendime pertvarkyti įmonę į akcinę bendrovę ar uždarąją akcinę bendrovę, be šio Įstatymo 19 straipsnio 3 dalyje nustatytų reikalavimų, taip pat turi būti:
+
+
+1) nurodyta įmonės turto vertė;
+
+
+
+
+2) nurodytas po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė. Visos akcijos turi būti paprastosios vardinės akcijos. Akcijų nominalių verčių suma turi atitikti turto vertinimo ataskaitoje nurodytą turto vertę;
+
+
+
+
+3) nustatyta pertvarkomos įmonės valdymo organų kompetencija pertvarkymo laikotarpiu, jei ji skiriasi nuo kompetencijos, nustatytos šios įmonės įstatuose.
 
 
 
 
 
 
-12 straipsnis. Finansinės veiklos kontrolė
-
-
-1. Įmonės finansinė veikla kontroliuojama audito tvarka. Metinės veiklos auditas yra privalomas, kitų laikotarpių veiklos auditas gali būti atliekamas steigėjo arba administracijos iniciatyva.
+7. Pertvarkius valstybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę, visų akcijų savininkė yra valstybė.
 
 
 
 
-2. Auditą gali atlikti auditorius – fizinis asmuo, turintis kvalifikacinį atestatą, arba audito įmonė, turinti teisę teikti audito paslaugas.
+8. Pertvarkius savivaldybės įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę, visų akcijų savininkė yra savivaldybė.
 
 
 
 
-3. Audito paslaugų sutartis su auditoriais sudaro steigėjas. Jų paslaugos apmokamos iš įmonės lėšų.
-
-
-
-
-4. Auditorius privalo pateikti įmonės administracijos vadovui ir steigėjui atlikto audito ataskaitas.
-
-
-
-
-5. Valstybės kontrolės institucijos turi teisę įstatymų nustatyta tvarka tikrinti įmonės veiklą.
-
-
-
-
-6. Įmonės administracija privalo pateikti auditoriui bei valstybės kontrolės institucijoms jų reikalaujamus įmonės dokumentus.
+9. Po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatus patvirtinusi valstybės ar savivaldybės institucija tampa valstybei arba savivaldybei nuosavybės teise priklausančių akcijų valdytoja.
  
 
 
@@ -509,82 +1154,75 @@ Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010IST
 
 
 
+24 straipsnis. Įmonės likvidavimas
 
 
-IV SKIRSNIS
-ĮMONĖS KAPITALAS
- 
-
-
-13 straipsnis. Kapitalo naudojimo sąlygos
-
-
-1. Valstybės įmonės kapitalas skirstomas į valstybės ir skolintą, savivaldybės įmonės – į savivaldybės ir skolintą.
+1. Įmonė gali būti likviduojama Civilinio kodekso nustatytais juridinių asmenų likvidavimo pagrindais.
 
 
 
 
-2. Įmonės įstatiniu kapitalu laikomas Lietuvos Respublikos Vyriausybės nustatyta tvarka įvertintas įmonės turimas valstybės ar savivaldybės kapitalas. Įstatinio kapitalo dydis įrašomas įmonės įstatuose.
+2. Įmonės savininko teises ir pareigas įgyvendinanti institucija priimti sprendimą likviduoti įmonę gali tik po to, kai yra Vyriausybės nutarimas nutraukti valstybės įmonės veiklą arba savivaldybės tarybos sprendimas nutraukti savivaldybės įmonės veiklą. 
 
 
 
 
-3. Įmonė neturi teisės sumažinti įstatinio kapitalo naudodama valstybės (savivaldybės) kapitalą darbo užmokesčiui, premijoms ar kitoms išmokoms.
+3. Sprendimą likviduoti įmonę priėmusi įmonės savininko teises ir pareigas įgyvendinanti institucija, teismas arba juridinių asmenų registro tvarkytojas, kai jų iniciatyva teismas priima sprendimą likviduoti įmonę, privalo paskirti likvidatorių. Nuo likvidatoriaus paskyrimo įmonės valdymo organai netenka savo įgaliojimų.
 
 
 
 
-4. Įmonė privalo užtikrinti jai patikėto valstybės (savivaldybės) kapitalo išsaugojimą ir efektyvų naudojimą. Įmonės įstatinis kapitalas gali būti sumažintas tik šio įstatymo nustatytais atvejais.
+4. Jei įmonė įsteigta ribotam laikui, likus ne mažiau kaip 3 mėnesiams iki nustatyto laikotarpio pabaigos, įmonės savininko teises ir pareigas įgyvendinanti institucija privalo paskirti likvidatorių arba priimti sprendimą pratęsti veiklos laikotarpį ir pakeisti įmonės įstatus. Jeigu šio Įstatymo 5 straipsnio 3 dalyje nurodytame teisės akte yra nustatytas laikotarpis, kuriam steigiama įmonė, sprendimas pratęsti šį valstybės įmonės veiklos laikotarpį gali būti priimamas gavus išankstinį Vyriausybės sutikimą, savivaldybės įmonės – gavus išankstinį savivaldybės tarybos sutikimą. 
 
 
 
 
-5. Įmonė, nuslėpusi lėšas, iš kurių turėjo būti padidintas įstatinis kapitalas, privalo atitinkamai padidinti įstatinį kapitalą ir sumokėti į biudžetą nuslėpto kapitalo dydžio baudą. Baudą skiria valstybės kontrolės institucija įstatymų nustatyta tvarka. 50 procentų baudos turi asmeniškai sumokėti įmonės administracijos vadovas ir vyriausiasis finansininkas (buhalteris). Likusi baudos dalis mokama iš kitoms įmonės reikmėms (premijoms, socialinėms ir kultūrinėms priemonėms ir kt.) skirtos pelno dalies (pagal šio įstatymo 18 straipsnio trečiąją dalį).
+5. Jei įmonės savininko teises ir pareigas įgyvendinanti institucija nepriima sprendimo pratęsti įmonės veiklos laikotarpį ir nepaskiria likvidatoriaus, įmonės vadovas ar juridinių asmenų registro tvarkytojas turi teisę kreiptis į teismą, kad šis paskirtų likvidatorių. 
 
 
 
 
-6. Įmonė privalo apdrausti turimą valstybės (savivaldybės) kapitalą Lietuvos Respublikoje įregistruotoje draudimo įstaigoje ar įmonėje įstatymų nustatyta tvarka.
+6. Jei įmonės likvidavimo pagrindas yra teismo ar kreditorių susirinkimo sprendimas likviduoti bankrutavusią įmonę, ji likviduojama Įmonių bankroto įstatymo nustatyta tvarka.
 
 
 
 
-7. Įmonei draudžiama investuoti kapitalą kitose įmonėse, jeigu kiti įstatymai ypatingais atvejais nesuteikia įmonei tokių investicijų teisės.
-Straipsnio dalies pakeitimai:
-Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA00I-1403
- 
+7. Apie sprendimą likviduoti įmonę turi būti viešai paskelbta įstatuose nustatyta tvarka ir įstatuose nurodytame dienraštyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta vieną kartą įstatuose nurodytame dienraštyje ir pranešta visiems kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
+
+
+1) įmonės pavadinimas;
 
 
 
 
-8. Įmonės lėšos kaupiamos ir saugomos Lietuvoje įregistruotose banko įstaigose.
+2) įmonės buveinė;
 
 
 
 
-9. Įmonės turtu negali būti užtikrinamas kitų asmenų prievolių įvykdymas.
- 
- 
+3) įmonės kodas;
+
+
+
+
+4) registras, kuriame kaupiami ir saugomi duomenys apie likviduojamą įmonę;
+
+
+
+
+5) sprendimo likviduoti įmonę priėmimo diena.
 
 
 
 
 
 
-14 straipsnis. Palūkanos už kapitalo naudojimą
-
-
-1. Įmonė valstybės ar savivaldybės kapitalą naudoja už palūkanas, mokamas iš įmonės pelno.
+8. Apie likvidavimą pranešama juridinių asmenų registrui teisės aktų nustatyta tvarka ne vėliau kaip pirmą viešo paskelbimo dieną. Nuo sprendimo likviduoti įmonę priėmimo įmonė įgyja likviduojamos įmonės statusą, o jo netenka įmonę likvidavus ar įstatymų nustatytais atvejais atšaukus sprendimą ją likviduoti. Likvidavimo atšaukimą patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui. 
 
 
 
 
-2. Palūkanų už kapitalo naudojimą normatyvą valstybės įmonei nustato Lietuvos Respublikos Vyriausybė, o savivaldybės įmonei – savivaldybės taryba.
-
-
-
-
-3. Palūkanas už kapitalo naudojimą valstybės įmonės moka į valstybės, o savivaldybės įmonės – į savivaldybės biudžetą. Atsiskaitoma Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+9. Likviduojamos įmonės kreditorių reikalavimai tenkinami įstatymų nustatyta tvarka. Patenkinus visus likviduojamos valstybės įmonės kreditorių reikalavimus, likęs turtas perduodamas valstybės įmonės savininko teises ir pareigas įgyvendinančiai institucijai, jeigu Vyriausybė nenutaria kitaip. Patenkinus visus likviduojamos savivaldybės įmonės kreditorių reikalavimus, likęs turtas savivaldybės tarybos sprendimu perduodamas kitiems savivaldybės administravimo subjektams.
  
 
 
@@ -592,79 +1230,53 @@ Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA
 
 
 
-15 straipsnis. Įmonės kapitalo didinimas
+25 straipsnis. Likvidatoriaus kompetencija
 
 
-1. Valstybės (savivaldybės) kapitalas įmonėje gali būti didinamas:
-
-
-1) iš pelno dalies, skirtos įstatiniam kapitalui didinti įmonės įstatuose nustatyta tvarka;
+1. Likvidatorius turi įmonės valdymo organų teises ir pareigas nuo jo paskyrimo dienos. 
 
 
 
 
-2) investicijomis iš biudžeto (valstybės ar savivaldybės);
+2. Be kitų šiame Įstatyme ir Civiliniame kodekse nustatytų pareigų, likvidatorius privalo:
+
+
+1) pranešti juridinių asmenų registrui apie sprendimą likviduoti įmonę, pateikti sprendimą patvirtinantį dokumentą ir pranešti duomenis apie likvidatorių;
 
 
 
 
-3) kitokiais valstybės ar savivaldybės piniginiais ir nepiniginiais (turtiniais) įnašais;
+2) sudaryti likvidavimo laikotarpio pradžios įmonės balansą;
 
 
 
 
-4) kitų subjektų suteikta parama.
+3) baigti vykdyti įmonės prievoles, atsiskaityti su likviduojamos įmonės kreditoriais;
 
 
 
 
-3 ir 4 punktuose nurodytais atvejais įmonės kapitalas gali būti didinamas steigėjo sprendimu, o valstybės įmonėse – ir Lietuvos Respublikos Vyriausybės nutarimu.
+4) pareikšti reikalavimus įmonės skolininkams;
 
 
 
 
-
-
-2. Padidinusi valstybinį kapitalą, įmonė privalo įregistruoti padidintą įmonės įstatinį kapitalą. Padidintas įmonės įstatinis kapitalas įsigalioja nuo jo įregistravimo.
- 
+5) perduoti likusį įmonės turtą šio Įstatymo nustatyta tvarka;
 
 
 
 
-
-
-16 straipsnis. Įmonės kapitalo mažinimas
-
-
-1. Valstybės įmonės įstatinis kapitalas gali būti sumažintas Lietuvos Respublikos Vyriausybės nutarimu, o savivaldybės įmonės – savivaldybės tarybos sprendimu. Įmonės įstatinis kapitalas, priėmus šioje dalyje nurodytus sprendimus, gali būti mažinamas:
-
-
-1) pervedant įmonės lėšų dalį, kuri yra nurodyta sprendime sumažinti įstatinį kapitalą, atitinkamai į valstybės arba savivaldybės biudžetą;
+6) sudaryti įmonės likvidavimo aktą;
 
 
 
 
-2) perduodant įmonės ilgalaikio materialiojo turto dalį, kuri yra nurodyta sprendime sumažinti įstatinį kapitalą, valstybės institucijai arba savivaldybei ar valstybės arba savivaldybės įmonei.
-
-
-Straipsnio dalies pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
- 
+7) perduoti dokumentus saugoti Archyvų įstatymo nustatyta tvarka;
 
 
 
 
-2. Nutarimas sumažinti įmonės įstatinį kapitalą turi būti viešai paskelbtas 3 kartus ne trumpesniais kaip 30 dienų intervalais arba raštu įteiktas kiekvienam įmonės kreditoriui.
-
-
-
-
-3. Mažindama įstatinį kapitalą, įmonė privalo suteikti papildomas savo prievolių įvykdymo garantijas kiekvienam to pareikalavusiam savo kreditoriui.
-
-
-
-
-4. Dėl įstatinio kapitalo sumažinimo įmonės įstatų pakeitimai registruojami Įmonių rejestro įstatymo nustatyta tvarka ir ne anksčiau kaip praėjus 6 mėnesiams po pirmojo ir 30 dienų – po trečiojo viešo paskelbimo arba 3 mėnesiams po to, kai buvo pranešta visiems kreditoriams bei buvo suteiktos papildomos garantijos jų pareikalavusiems. Įstatinis kapitalas laikomas sumažintu tik tada, kai įstatų pakeitimai yra įregistruoti Įmonių rejestre.
+8) pateikti juridinių asmenų registrui įmonės likvidavimo aktą bei kitus teisės aktų nustatytus dokumentus, reikalingus likviduotai įmonei išregistruoti.
  
 
 
@@ -674,508 +1286,68 @@ Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010IST
 
 
 
-V SKIRSNIS
-ĮMONĖS FINANSAI IR PELNO PASKIRSTYMAS
- 
 
 
-17 straipsnis. Finansai
-
-
-1. Įmonė naudojasi vidiniais ir išoriniais finansinių išteklių šaltiniais. Vidiniams šaltiniams priskiriami amortizaciniai atskaitymai ir pelnas. Išoriniams šaltiniams priskiriamos skolinto kapitalo lėšos, valstybės bei savivaldybės įnašai, taip pat iš kitur gauta finansinė parama.
-
-
-
-
-2. Turimo ilgalaikio turto (materialaus ir nematerialaus) nusidėvėjimo (amortizacijos) normatyvus įmonė nustato atsižvelgdama į šio turto efektyvumo realų kitimą ir į Lietuvos Respublikos Vyriausybės nustatytus minimalius bei maksimalius ekonominius normatyvus. Šiuos normatyvus tvirtina steigėjas. Pirma laiko nurašius aktyvus (nevisiškai amortizuotus), jų likutinė dalis priskiriama įmonės nuostoliams.
-
-
-
-
-3. Įmonė privalo sudaryti pelno rezervą. Jis sudaromas taikant ne mažesnius kaip 5 procentų metinius atskaitymus iš pelno, kuris liko sumokėjus privalomuosius mokesčius. Rezervas kasmet papildomas, kol jo dydis pasiekia 1/20 įmonės įstatinio kapitalo.
-
-
-
-
-4. Įmonės ūkinės veiklos nuostoliai ir įsiskolinimai padengiami iš:
-
-
-1) įmonės nepaskirstyto pelno;
-
-
-
-
-2) pelno rezervo lėšų;
-
-
-
-
-3) gaunamų dotacijų iš valstybės ar savivaldybės tais atvejais, kada Lietuvos Respublikos Vyriausybė ar steigėjas nustato įmonei privalomas užduotis, produkcijos bei paslaugų kainas, įkainius, tarifus.
-
-
-
-
-
-
-5. Įmonės pareigūnai, dėl kurių veiklos ar neveiklumo buvo prarastas valstybės ar savivaldybės turtas, pažeista nustatyta amortizacinių atskaitymų ar pelno paskirstymo tvarka, neteisingai sumokėti mokesčiai, atsako įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-18 straipsnis. Pelno paskirstymas
-
-
-1. Įmonės pelnas turi būti paskirstytas ne vėliau kaip per 2 mėnesius po ūkinių metų pabaigos.
-
-
-
-
-2. Įmonės pelnas skiriamas:
-
-
-1) įstatymų nustatytiems mokesčiams į biudžetą;
-
-
-
-
-2) draudimo įmokoms už įmonėje turimą valstybės ar savivaldybės kapitalą;
-
-
-
-
-3) atskaitymams į įmonės pelno rezervą.
-
-
-
-
-
-
-3. Likusi pelno dalis steigėjo nustatytu santykiu skiriama įmonės įstatiniam kapitalui didinti ir ne mažiau kaip 25 procentai - kitoms reikmėms (premijoms, socialinėms ir kultūrinėms priemonėms finansuoti bei rezervams sudaryti).
-Straipsnio dalies pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
-Nr. VIII-1571, 2000-03-16, Žin., 2000, Nr. 28-761 (2000-04-05), i. k. 1001010ISTAIII-1571
- 
-
-
-
-
-4. Kol įmonė nesumoka įstatymų nustatytų mokesčių, ji neturi teisės naudoti pelno kitiems tikslams. Premijos įmonės darbuotojams gali būti išmokamos kiekvieną ketvirtį, jeigu gauta pakankamai pelno. Draudžiama iš pelno mokėti premijas darbuotojams, jeigu per nustatytus terminus neatsiskaityta su kreditoriais.
- 
-
-
-
-
-
-
-
-
-VI SKIRSNIS
-ĮMONĖS REORGANIZAVIMAS IR LIKVIDAVIMAS
- 
-
-
-19 straipsnis. Įmonės reorganizavimas
-
-
-1. Reorganizavimas – tai įmonės, kaip juridinio asmens, pertvarkymas be likvidavimo procedūros. Reorganizuotų įmonių visų teisių ir prievolių perėmėjai yra reorganizuojant įsteigtos naujos ir po reorganizavimo tęsiančios veiklą įmonės, bendrovės arba biudžetinės įstaigos.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
- 
-
-
-
-
-2. Įmonės gali būti reorganizuojamos šiais būdais:
-
-
-1) jungiant įmones;
-
-
-
-
-2) skaidant įmones;
-
-
-
-
-3) keičiant įmonės rūšį;
-
-
-
-
-4) keičiant įmonės priklausomybę;
-
-
-
-
-5) keičiant valstybės ir savivaldybės įmonės teisinę formą. 
-Papildyta straipsnio punktu:
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
- 
-
-
-
-
-
-
-3. Reorganizuoti įmonių jungimo būdu galima:
-
-
-1) prie įmonės, kuri tęsia veiklą, prijungiant kitas (vieną ar kelias) įmones, kurios kaip juridiniai asmenys baigia veiklą;
-
-
-
-
-2) iš įmonių, kurios kaip juridiniai asmenys baigia veiklą, įsteigiant naują įmonę.
-
-
-
-
-
-
-4. Reorganizuoti įmonių skaidymo būdu galima:
-
-
-1) įmonės, kuri baigia veiklą, turtą, jos teises ir pareigas perduodant kitoms įmonėms, kurios tęsia veiklą;
-Straipsnio punkto pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
- 
-
-
-
-
-2) iš įmonės, kuri baigia veiklą, steigiant naujas įmones;
-
-
-
-
-3) iš valstybės ir savivaldybės įmonės, kuri tęsia veiklą, atskiriant dalį, iš kurios steigiama biudžetinė įstaiga.
-Straipsnio punkto pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
- 
-
-
-
-
-
-
-5. Kai keičiama įmonės rūšis, įmonė gali būti reorganizuojama į akcinę bendrovę arba uždarąją akcinę bendrovę – akcionuojant įmonės turtą. Akcinės bendrovės akcijos įregistruojamos Vertybinių popierių komisijoje. Seimui atskaitingų bei pavaldžių valstybės institucijų įmonės šioje dalyje nustatyta tvarka gali būti reorganizuojamos tik po to, kai šių įmonių steigėjo funkcijos Seimo nutarimu bus perduotos Lietuvos Respublikos Vyriausybei.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
-Nr. VIII-1658, 2000-05-02, Žin., 2000, Nr. 42-1186 (2000-05-24), i. k. 1001010ISTAIII-1658
- 
-
-
-
-
-6. Kai keičiama įmonės priklausomybė, ji gali būti reorganizuojama:
-
-
-1) iš valstybės įmonės į savivaldybės įmonę – perduodant turtą savivaldybės nuosavybėn;
-
-
-
-
-2) iš savivaldybės įmonės į valstybės įmonę – perduodant turtą valstybės nuosavybėn.
-
-
-
-
-
-
-7. Kai keičiama valstybės ir savivaldybės įmonės teisinė forma, įmonė gali būti reorganizuojama iš valstybės ir savivaldybės įmonės į biudžetinę įstaigą, kuriai įstatymų nustatyta tvarka turtas perduodamas valdyti, naudoti ir disponuoti juo patikėjimo teise. 
-Papildyta straipsnio dalimi:
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
- 
-
-
-
-
-8. Įmonės reorganizavimo iniciatyvos teisę turi:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
- 
-
-
-1) Lietuvos Respublikos Vyriausybė – tik valstybės įmonėms;
-
-
-
-
-2) savivaldybės taryba – tik savivaldybės įmonėms;
-
-
-
-
-3) steigėjas;
-
-
-
-
-4) įmonės administracija.
-
-
-
-
-
-
-9. Įmonės priklausomybė gali būti keičiama (šio straipsnio šeštoji dalis) Lietuvos Respublikos Seimo priimtais teisiniais aktais.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
- 
-
-
-
-
-10. Įmonei reorganizuoti, išskyrus šio straipsnio šeštojoje dalyje nurodytus atvejus, rengiamas projektas. Reorganizavimo projekte turi būti nurodyta:
-
-
-1) kiekvienos reorganizuojamos įmonės pavadinimas ir buveinė;
-
-
-
-
-2) reorganizavimo iniciatorius;
-
-
-
-
-3) reorganizavimo būdas;
-
-
-
-
-4) kiekvienos įmonės reorganizavimo pagrindimas;
-
-
-
-
-5) kiekvienos reorganizuojamos įmonės turto įvertinimas;
-
-
-
-
-6) prievolių, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka, perėmimas ir perėmimo terminai;
-
-
-
-
-7) teisės, reorganizavimo laikotarpiu suteikiamos įmonių administracijai ir ekspertams;
-
-
-
-
-8) reorganizavimo terminai.
-
-
-
-
-Kartu su reorganizavimo projektu turi būti parengtas kiekvienos po reorganizavimo veiksiančios įmonės bei bendrovės įstatų projektas, o biudžetinės įstaigos – nuostatų projektas.
-
-
-Straipsnio dalies pakeitimai:
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
- 
-
-
-
-
-11. Reorganizavimo šio straipsnio trečiojoje ir ketvirtojoje dalyse, išskyrus šio straipsnio ketvirtosios dalies 3 punktą, nurodytais būdais projektą tvirtina reorganizuojamų ir po reorganizavimo veiksiančių įmonių steigėjai. Reorganizavimo šio straipsnio penktojoje dalyje nurodytu būdu projektą valstybės įmonės tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, savivaldybės įmonės – savivaldybės taryba. Valstybės įmonės reorganizavimo šio straipsnio ketvirtosios dalies 3 punkte ir septintojoje dalyje nurodytais būdais projektą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Savivaldybės įmonės reorganizavimo šio straipsnio ketvirtosios dalies 3 punkte ir septintojoje dalyje nurodytais būdais projektą tvirtina savivaldybės taryba. Reorganizavimo projektą tvirtinančios institucijos turi teisę Vyriausybės nustatyta tvarka skirti ekspertus reorganizavimo projekto ekspertizei. Ekspertai turi teisę gauti iš reorganizuojamų įmonių bet kokią su tuo susijusią informaciją.
-Straipsnio dalies pakeitimai:
-Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
- 
-
-
-
-
-12. Patvirtintam reorganizavimo projektui įgyvendinti sudaroma reorganizavimo komisija. Ją sudaro ir pirmininką skiria reorganizuojamų ir po reorganizavimo veiksiančių įmonių ar bendrovių steigėjai bendru nutarimu. Reorganizuojant valstybės įmonę šio straipsnio ketvirtosios dalies 3 punkte ir septintojoje dalyje nurodytais būdais, reorganizavimo projektui įgyvendinti reorganizavimo komisiją sudaro ir jos pirmininką skiria Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Reorganizuojant savivaldybės įmonę šio straipsnio ketvirtosios dalies 3 punkte ir septintojoje dalyje nurodytais būdais, reorganizavimo projektui įgyvendinti reorganizavimo komisiją sudaro ir jos pirmininką skiria savivaldybės taryba.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
- 
-
-
-
-
-13. Apie įmonės reorganizavimą viešai skelbiama 3 kartus su ne mažesniu kaip 2 mėnesių intervalu arba kiekvienam kreditoriui pranešama raštu.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
- 
-
-
-
-
-14. Po reorganizavimo veikiančios įmonės arba bendrovės turi būti įregistruotos atitinkamos rūšies įmonių įstatymo ir Įmonių rejestro įstatymo nustatyta tvarka, o biudžetinės įstaigos – Lietuvos Respublikos įstatymų nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1616, 2000-04-11, Žin., 2000, Nr. 34-956 (2000-04-26), i. k. 1001010ISTAIII-1616
- 
-
-
-
-
-
-
-20 straipsnis. Įmonės likvidavimas
-
-
-1. Įmonės likvidavimo pagrindas gali būti:
-
-
-1) pasibaigęs įstatuose nurodytas įmonės veiklos terminas;
-
-
-
-
-2) teismo ar kreditorių susirinkimo sprendimas likviduoti bankrutavusią įmonę. Šiuo atveju įmonė likviduojama Lietuvos Respublikos įmonių bankroto įstatymo nustatyta tvarka;
-
-
-
-
-3) teismo sprendimas likviduoti įmonę už Lietuvos Respublikos įstatymų nustatytus teisės pažeidimus;
-
-
-
-
-4) Lietuvos Respublikos Vyriausybės (valstybės įmonėms) nutarimas ar savivaldybės tarybos (savivaldybės įmonėms) sprendimas (jeigu įmonei nekeliama bankroto byla).
-
-
-
-
-
-
-2. Institucija, nutarusi likviduoti įmonę, skiria likvidatorių (likviduojamos įmonės administratorių). Nuo likvidatoriaus paskyrimo dienos įmonės administracija netenka įgaliojimų valdyti įmonę, jos funkcijas atlieka likvidatorius.
-
-
-
-
-3. Likvidatorius Įmonių rejestro įstatymo nustatyta tvarka praneša įmonę registravusiam rejestro tvarkytojui apie įmonės statuso pasikeitimą ir duomenis apie likvidatorių. Įmonei įgijus likviduojamos įmonės statusą, prieš jos pavadinimą rašomas žodis „likviduojama“.
-
-
-
-
-4. Likviduojama įmonė gali sudaryti tik tuos sandorius, kurie susiję su jos likvidavimu, taip pat kitus, kurie numatyti likvidavimo sprendime.
-
-
-
-
-5. Apie įmonės likvidavimą viešai skelbiama 3 kartus su ne mažesniais kaip 2 mėnesių intervalais arba kiekvienam kreditoriui pranešama raštu.
-Praėjus ne mažiau kaip dviems mėnesiams nuo tos dienos, kai trečią kartą buvo viešai paskelbta apie įmonės likvidavimą arba pranešta visiems kreditoriams, atsiskaičius su kreditoriais ir darbuotojais likęs likviduotos įmonės turtas perduodamas steigėjui.
- 
-
-
-
-
-
-
-21 straipsnis. Likvidatoriaus įgaliojimai
-
-
-1. Likvidatorius turi įmonės administracijos vadovo teises ir pareigas. Jis atstovauja likviduojamai įmonei valstybės valdžios ir valdymo institucijose, teisme, santykiuose su kitais juridiniais ir fiziniais asmenimis.
-
-
-
-
-2. Įmonės likvidatorius:
-
-
-1) sudaro likvidavimo laikotarpio pradžios įmonės finansinę atskaitomybę (likvidavimo balansą);
-
-
-
-
-2) baigia vykdyti prievoles, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka, pagal anksčiau sudarytus sandorius ir sudaro naujus sandorius pagal savo kompetenciją;
-Straipsnio punkto pakeitimai:
-Nr. VIII-377, 1997-07-02, Žin., 1997, Nr. 69-1738 (1997-07-23), i. k. 0971010ISTAVIII-377
- 
-
-
-
-
-3) baigia sandorius su įmonės kreditoriais ir debitoriais;
-
-
-
-
-4) likusį įmonės turtą perduoda steigėjui;
-
-
-
-
-5) sudaro įmonės likvidavimo aktą;
-
-
-
-
-6) likviduotą įmonę išregistruoja Įmonių rejestro įstatymo nustatyta tvarka.
-
-
-
-
-
-
-3. Jei įmonės likvidavimas trunka keletą metų, tai po kiekvienų ūkinių metų pabaigos per 3 mėnesius likvidatorius sudaro metinę finansinę atskaitomybę ir likvidavimo ataskaitą. Šiuos dokumentus tvirtina steigėjas.
-
-
-
-
-4. Likvidatorius yra atsakingas įmonei ir tretiesiems asmenims už nuostolius, kurie susidarė dėl jo kaltės.
- 
-
-
-
-
-
-
-
-
-VII SKIRSNIS
+Septintasis skirsnis
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-22 straipsnis
+26 straipsnis. Baigiamosios nuostatos
 
 
-1. Valstybinės įmonės, kurios įrašytos į Lietuvos Respublikos Seimo patvirtintą įmonių, kurių nenumatoma iki 2000 metų nei akcionuoti, nei privatizuoti, sąrašą, turi pataisyti savo įstatus pagal šį įstatymą ir įregistruoti juos per 6 mėnesius nuo šio įstatymo įsigaliojimo Įmonių rejestro įstatymo nustatyta tvarka. Šių įmonių įstatai iki jų perregistravimo galioja tiek, kiek jie neprieštarauja šiam įstatymui.
-Straipsnio dalies pakeitimai:
-Nr. I-866, 1995-04-27, Žin., 1995, Nr. 36-888 (1995-05-03), i. k. 0951010ISTA000I-866
+1. Įsigaliojus šiam Įstatymui, institucijos, iki šio Įstatymo įsigaliojimo vykdžiusios įmonių steigėjo funkcijas, įgyvendina šių įmonių savininko teises ir pareigas. 
+
+
+
+
+2. Šio Įstatymo nustatyti reikalavimai gauti Vyriausybės sutikimą priimant šiame Įstatyme nurodytus sprendimus Lietuvos Respublikos Seimui ir Lietuvos bankui netaikomi. Lietuvos bankui taip pat netaikoma šio Įstatymo 10 straipsnio 1 dalies nuostata skirti į valdybą (jeigu valdyba sudaroma) valstybės tarnautojus.
+
+
+
+
+3. Iki 2004 m. gruodžio 31 d. už kapitalo naudojimą įmonė moka palūkanas iš pelno. Valstybės įmonė moka palūkanas į valstybės biudžetą. Valstybės įmonių mokamų palūkanų dydį ir mokėjimo tvarką nustato Vyriausybė. Savivaldybės įmonė moka palūkanas į savivaldybės biudžetą. Savivaldybės įmonės mokamų palūkanų dydį ir mokėjimo tvarką nustato savivaldybės taryba. 
+
+
+
+
+4. Šio Įstatymo nustatytos normos dėl įmonių registravimo juridinių asmenų registre įsigalioja nuo juridinių asmenų registro veiklos pradžios.
+
+
+
+
+5. Iki juridinių asmenų registro veiklos pradžios:
+
+
+1) įmonės, jų filialai ir atstovybės bei jų dokumentai ir duomenys registruojami ir kaupiami įmonių rejestre; 
+
+
+
+
+2) dokumentai, kurie šio Įstatymo nustatyta tvarka turi būti pateikti juridinių asmenų registrui, pateikiami įmonių rejestro tvarkytojui.
+
+
+
+
+
+
+6. Nuo juridinių asmenų registro veiklos pradžios įmonių rejestre įregistruotos įmonės laikomos įregistruotomis juridinių asmenų registre.
  
 
 
 
 
-2. Įmonių, kurios priklauso savivaldybių reguliavimo sričiai, steigėjo funkcijas, nustatytas šio įstatymo, iki įmonės bus perduotos savivaldybių nuosavybėn, atlieka atitinkamos savivaldybės taryba.
 
 
 
 
-3. Valstybinėms, valstybinėms akcinėms įmonėms, kol jos bus perregistruotos pagal Lietuvos Respublikos akcinių bendrovių įstatymą ar pagal Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymą, draudžiama iš likutinio pelno mokėti atlyginimus, premijas bei skirti šias lėšas kitoms vartojimo reikmėms ir akciniam kapitalui sudaryti bei didinti.
-
-
-
-
-4. Pripažinti netekusiais galios Lietuvos Respublikos valstybinių įmonių įstatymą (Žin., 1990, Nr. 30-709; 1991, Nr. 4-107; 1992, Nr. 30-914; 1993, Nr. 31-710, Nr. 32-730, Nr. 49-963, Nr. 52-995, Nr. 62-1169) ir Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą „Dėl Lietuvos Respublikos valstybinių įmonių įstatymo įsigaliojimo tvarkos“ (Žin., 1990, Nr. 30-710, Nr. 32-771).
  
- 
-
-
-
-
-
-
-
-
-
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
 
+ 
  
  
 Pakeitimai:
@@ -1229,3 +1401,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1920, 2000-09-12, Žin., 2000, Nr. 83-2512 (2000-10-04), i. k. 1001010ISTAIII-1920
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 5 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1895, 2003-12-16, Žin., 2004, Nr. 4-24 (2004-01-07), i. k. 1031010ISTA0IX-1895
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo įstatymas
