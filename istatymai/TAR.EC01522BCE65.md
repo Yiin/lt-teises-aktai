@@ -13,18 +13,22 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2003-11-05 iki 2004-11-24
+Suvestinė redakcija nuo 2004-11-25 iki 2005-12-21
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
-LIETUVOS RESPUBLIKOS SEIMO KONTROLIERIŲ Į S T A T Y M A S
+Nauja redakcija nuo 2004-11-25:
+Nr. IX-2544, 2004-11-04, Žin. 2004, Nr. 170-6238 (2004-11-25), i. k. 1041010ISTA0IX-2544
+ 
+LIETUVOS RESPUBLIKOS SEIMO KONTROLIERIŲ  ĮSTATYMAS
  
 1998 m. gruodžio 3 d. Nr. VIII-950
 Vilnius
  
+ 
 
 
-I DALIS
+I SKIRSNIS
 BENDROSIOS NUOSTATOS
  
 
@@ -32,7 +36,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Lietuvos Respublikos Seimo kontrolierių (toliau – Seimo kontrolieriai) veiklos teisinius pagrindus, taip pat Lietuvos Respublikos Seimo kontrolierių įstaigos (toliau – Seimo kontrolierių įstaiga) organizacinę struktūrą ir įgaliojimus.
+Šis įstatymas nustato Lietuvos Respublikos Seimo kontrolierių (toliau – Seimo kontrolieriai) veiklos teisinius pagrindus ir įgaliojimus, taip pat Lietuvos Respublikos Seimo kontrolierių įstaigos (toliau – Seimo kontrolierių įstaiga) organizacinę struktūrą.
  
 
 
@@ -43,17 +47,22 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Pareigūnas – valstybės valdžios ir valdymo institucijos darbuotojas, savivaldybės vykdomosios institucijos atstovas, savivaldybės administracijos darbuotojas ar įgaliotas asmuo, atliekantis organizacines, tvarkomąsias ar administracines funkcijas.
+1. Biurokratizmas – tokia pareigūno veika, kai vietoj reikalų sprendimo iš esmės laikomasi nereikalingų ar išgalvotų formalumų, nepagrįstai atsisakoma spręsti pareigūno kompetencijai priklausančius klausimus, vilkinama priimti sprendimus ar atlikti savo pareigas bei kitaip blogai ar netinkamai valdoma (atsisakoma informuoti asmenį apie jo teises, sąmoningai pateikiamas klaidinantis ar netinkamas patarimas ir t. t.). Biurokratizmu taip pat laikomas toks pareigūnų darbas, kai nevykdomi arba blogai vykdomi įstatymai ar kiti teisės aktai.
 
 
 
 
-2. Piktnaudžiavimas – tokie pareigūno veiksmai ar neveikimas, kai tarnybinė padėtis naudojama ne tarnybos interesais arba ne pagal įstatymus bei kitus teisės aktus, arba savanaudiškais tikslais (neteisėtai pasisavinamas ar kitiems perleidžiamas svetimas turtas, lėšos ir t.t.) ar dėl kitokių asmeninių paskatų (keršto, pavydo, karjerizmo, neteisėtų paslaugų teikimo ir t.t.), taip pat tokie pareigūno veiksmai, kai viršijami suteikti įgaliojimai ar savavaliaujama.
+2. Pareigūnas – valstybės ir savivaldybių institucijos ar įstaigos tarnautojas, taip pat kitas darbuotojas, atliekantis viešojo administravimo funkcijas; viešosios įstaigos bei nevyriausybinės organizacijos, kurioms įstatymų nustatyta tvarka suteikti viešojo administravimo įgaliojimai, darbuotojas, turintis administravimo įgaliojimus nepavaldiems asmenims; valstybės įgaliotas asmuo, atliekantis įstatymų nustatytas valstybės suteiktas funkcijas.
 
 
 
 
-3. Biurokratizmas – tokia pareigūno veika, kai vietoj reikalų sprendimo iš esmės sistemingai laikomasi nereikalingų ar išgalvotų formalumų, nepagrįstai atsisakoma spręsti žinyboms pavaldžius dalykus, vilkinama priimti sprendimus ar atlikti savo pareigas bei kitaip blogai ar netinkamai valdoma (atsisakoma informuoti asmenį apie jo teises, sąmoningai pateikiamas klaidinantis ar netinkamas patarimas ir t.t.). Biurokratizmu taip pat laikomas toks pareigūnų darbas, kai nevykdomi arba blogai vykdomi įstatymai ar kiti teisės aktai.
+3. Pareiškėjas – fizinis ar juridinis asmuo, kuris kreipiasi į Seimo kontrolierių pateikdamas skundą dėl pareigūnų piktnaudžiavimo ar biurokratizmo.
+
+
+
+
+4. Piktnaudžiavimas – tokie pareigūno veiksmai ar neveikimas, kai jam suteikti įgaliojimai naudojami ne pagal įstatymus bei kitus teisės aktus arba savanaudiškais tikslais ar dėl kitokių asmeninių paskatų (naudojimosi tarnybine padėtimi, keršto, pavydo, karjerizmo, neteisėtų paslaugų teikimo ir t. t.), taip pat tokie pareigūno veiksmai, kai viršijami suteikti įgaliojimai ar savavaliaujama.
  
 
 
@@ -61,10 +70,54 @@ BENDROSIOS NUOSTATOS
 
 
 
-3 straipsnis. Seimo kontrolierių veiklos teisiniai pagrindai
+3 straipsnis. Seimo kontrolierių veiklos tikslas
 
 
-Seimo kontrolieriai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, kitais įstatymais, tarptautinėmis sutartimis ir susitarimais.
+Seimo kontrolierių veiklos tikslas – ginti žmogaus teisę į gerą viešąjį administravimą, užtikrinantį žmogaus teises ir laisves, prižiūrėti, ar valdžios įstaigos vykdo pareigą tinkamai tarnauti žmonėms.
+ 
+
+
+
+
+
+
+4 straipsnis. Pagrindiniai Seimo kontrolierių veiklos principai
+
+
+Seimo kontrolieriai savo veikloje vadovaujasi šiais principais:
+
+
+1) pagarbos žmogui ir valstybei. Seimo kontrolieriai, vadovaudamiesi konstitucine nuostata, kad valdžios įstaigos tarnauja žmonėms, siekia užtikrinti kiekvieno asmens teisę į gerą viešąjį administravimą;
+
+
+
+
+2) veiklos laisvės ir savarankiškumo. Seimo kontrolieriai yra nepriklausomi nuo kitų institucijų, kiekvieno Seimo kontrolieriaus teisės ir pareigos lygios, kiekvienas jų pagal kompetenciją veikia savarankiškai;
+
+
+
+
+3) atskaitingumo. Seimo kontrolieriai už savo veiklą yra atskaitingi Lietuvos Respublikos Seimui;
+
+
+
+
+4) teisėtumo. Seimo kontrolieriai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais bei teisės aktais, tarptautinėmis sutartimis, teisės principais;
+
+
+
+
+5) nešališkumo ir teisingumo. Seimo kontrolieriai vienodai (lygiai teisingai) gina visus žmones, nepaisant jų tautybės, rasės, lyties, kalbos, kilmės, socialinės padėties, religinių įsitikinimų ar politinių pažiūrų. Seimo kontrolieriai savo veikloje yra objektyvūs ir teisingi;
+
+
+
+
+6) proporcingumo. Seimo kontrolieriai, gindami žmogaus teises ir laisves, siekia išlaikyti pusiausvyrą tarp asmens privačių ir visuomenės interesų, gindami konkretaus asmens teises ir laisves – nepažeisti kitų žmonių teisių ir laisvių;
+
+
+
+
+7) viešumo. Seimo kontrolieriai viešai teikia informaciją visuomenei apie savo veiklą bei pareigūnų piktnaudžiavimą, biurokratizmą ar kitaip pažeidžiamas žmogaus teises ir laisves.
  
 
 
@@ -74,28 +127,17 @@ Seimo kontrolieriai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija,
 
 
 
-II DALIS
+
+
+II SKIRSNIS
 SEIMO KONTROLIERIUS
  
 
 
-4 straipsnis. Seimo kontrolierių tiriami skundai
+5 straipsnis. Seimo kontrolierius
 
 
-1. Seimo kontrolieriai tiria piliečių skundus dėl valdžios, valdymo, savivaldos, karinių bei joms prilygintų institucijų pareigūnų piktnaudžiavimo ir biurokratizmo. Karinėms institucijoms prilyginamos Krašto apsaugos ministerija, Vidaus reikalų ministerija, Valstybės saugumo departamentas ir jiems pavaldžios institucijos.
-
-
-
-
-2. Seimo kontrolieriai netiria Respublikos Prezidento, Seimo narių, Ministro Pirmininko, Vyriausybės (kaip kolegialios institucijos), valstybės kontrolieriaus ir Konstitucinio Teismo ir kitų teismų teisėjų veiklos, vietos savivaldybių tarybų (kaip kolegialių institucijų) veiklos, taip pat prokurorų, ikiteisminio tyrimo pareigūnų procesinių sprendimų teisėtumo ir pagrįstumo.
-Straipsnio dalies pakeitimai:
-Nr. IX-1432, 2003-04-03, Žin., 2003, Nr. 38-1677 (2003-04-24), i. k. 1031010ISTA0IX-1432
- 
-
-
-
-
-3. Seimo kontrolieriai netiria skundų, kylančių iš darbo teisinių santykių, skundų, kuriuos turi nagrinėti teismas, taip pat netikrina teismų priimtų sprendimų, nuosprendžių ir nutarčių pagrįstumo ir teisėtumo.
+Seimo kontrolierius – Lietuvos Respublikos Seimo (toliau – Seimo) skiriamas valstybės pareigūnas, ginantis žmogaus teises ir laisves, tiriantis pareiškėjų skundus dėl pareigūnų piktnaudžiavimo ar biurokratizmo bei siekiantis gerinti viešąjį administravimą.
  
 
 
@@ -103,10 +145,10 @@ Nr. IX-1432, 2003-04-03, Žin., 2003, Nr. 38-1677 (2003-04-24), i. k. 1031010IST
 
 
 
-5 straipsnis. Seimo kontrolieriui keliami reikalavimai
+6 straipsnis. Seimo kontrolieriui keliami reikalavimai
 
 
-Seimo kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį išsimokslinimą ir ne mažesnį kaip 5 metų teisinio darbo arba darbo valstybės valdžios bei valdymo institucijose stažą.
+Seimo kontrolieriumi skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba vienpakopį teisinį universitetinį išsilavinimą ir ne mažesnį kaip 10 metų teisinio ar teisinio pedagoginio darbo stažą.
  
 
 
@@ -114,30 +156,20 @@ Seimo kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos
 
 
 
-6 straipsnis. Seimo kontrolierių skyrimas
+7 straipsnis. Seimo kontrolierių skyrimas
 
 
-1. Seimo kontrolierius skiria Seimas 4 metams iš kandidatų, kuriuos pateikia Seimo Pirmininkas.
-
-
-
-
-2. Seimo Pirmininkas, teikdamas Seimo kontrolierių kandidatūras, nurodo, kokių pareigūnų veiklai tirti jie skiriami.
+1. Seimo Pirmininko teikimu Seimas skiria 5 Seimo kontrolierius penkerių metų kadencijai.
 
 
 
 
-3. Seimas, nurodydamas kiekvieno kontrolieriaus veiklos sritį, skiria 5 Seimo kontrolierius: 2 valstybės įstaigų pareigūnų, 1 karinių ir joms prilygintų institucijų pareigūnų ir 2 vietos savivaldybių įstaigų pareigūnų veiklai tirti.
+2. Seimas skiria 2 Seimo kontrolierius valstybės institucijų ir įstaigų pareigūnų veiklai tirti ir 3 Seimo kontrolierius apskričių viršininkų administracijų bei savivaldybių institucijų ir įstaigų pareigūnų veiklai tirti.
 
 
 
 
-4. Seimo kontrolieriui mirus ar atleidus jį iš pareigų šio įstatymo 7 straipsnyje nurodytais atvejais, Seimas skiria naują Seimo kontrolierių visai kadencijai. 
-
-
-
-
-5. Seimo kontrolierių kadencijų skaičius neribojamas.
+3. Jei Seimo kontrolieriaus įgaliojimai nutrūksta kadencijai nepasibaigus, Seimas skiria naują Seimo kontrolierių.
  
 
 
@@ -145,50 +177,27 @@ Seimo kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos
 
 
 
-7 straipsnis. Seimo kontrolieriaus įgaliojimų pasibaigimas
+8 straipsnis. Seimo kontrolieriaus priesaika
 
 
-1. Visų Seimo narių balsų dauguma Seimo kontrolierius atleidžiamas iš pareigų:
-
-
-1) paties prašymu;
-
-
-
-
-2) pasibaigus įgaliojimų laikui;
+1. Asmuo, paskirtas Seimo kontrolieriumi, prieš pradėdamas eiti pareigas, prisiekia Lietuvos valstybei perskaitydamas šį priesaikos tekstą:
+„Aš, Lietuvos Respublikos Seimo kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas  (-a), saugoti man patikėtas paslaptis.
+Tepadeda man Dievas.“
 
 
 
 
-3) sukakus įstatymo nustatytam valstybinių socialinio draudimo pensijų senatvės amžiui;
+2. Prisiekti galima ir be paskutinio sakinio.
 
 
 
 
-4) kai negali eiti pareigų dėl sveikatos būklės, t.y. per vienerius kalendorinius metus kontrolierius serga ilgiau kaip 4 mėnesius iš eilės arba jei suserga liga, kliudančia eiti savo pareigas, jeigu dėl to yra gauta sveikatos apsaugos ministro sudarytos gydytojų komisijos išvada; 
+3. Priesaiką priima Seimo Pirmininkas Seimo posėdyje.
 
 
 
 
-5) kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis; 
-
-
-
-
-6) kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo.
-
-
-
-
-
-
-2. Seimo kontrolierių įgaliojimai gali būti nutraukti tik šio įstatymo numatytais pagrindais.
-
-
-
-
-3. Šio straipsnio 1 dalies 2 ir 3 punktuose nustatytais atvejais Seimo kontrolierius eina pareigas tol, kol į jo vietą paskiriamas kitas Seimo kontrolierius.
+4. Seimo kontrolierius priesaikos tekstą pasirašo. Priesaikos tekstas saugomas Seime.
  
 
 
@@ -196,15 +205,55 @@ Seimo kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos
 
 
 
-8 straipsnis. Pagrindiniai Seimo kontrolierių veiklos principai
+9 straipsnis. Seimo kontrolieriaus įgaliojimų pasibaigimas
 
 
-1. Seimo kontrolierių teisės ir pareigos yra lygios. Kiekvienas iš jų veikia savarankiškai.
+1. Seimo kontrolieriaus įgaliojimai nutrūksta, kai:
+
+
+1) pasibaigia įgaliojimų laikas;
 
 
 
 
-2. Seimo kontrolieriai savo veiklą grindžia teisėtumo, nešališkumo ir viešumo principais.
+2) jis atsistatydina;
+
+
+
+
+3) jis miršta;
+
+
+
+
+4) nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jei įstatymų nenustatyta, kad dėl tam tikros ligos pareigos paliekamos ilgesnį laiką, arba kai Seimo kontrolierius pagal medicinos ar invalidumą nustatančios komisijos išvadą negali eiti pareigų; 
+
+
+
+
+5) dėl jo įsiteisėja apkaltinamasis teismo nuosprendis; 
+
+
+
+
+6) daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo.
+
+
+
+
+
+
+2. Šio straipsnio 1 dalies 2 ir 4 punktuose nustatytais atvejais sprendimą dėl Seimo kontrolieriaus įgaliojimų nutraukimo priima Seimas Seimo Pirmininko teikimu.
+
+
+
+
+3. Šio straipsnio 1 dalies 4 punkte nustatytu atveju klausimą dėl Seimo kontrolieriaus įgaliojimų nutraukimo Seimas sprendžia tik tada, kai yra sveikatos apsaugos ministro sudarytos gydytojų komisijos išvada.
+
+
+
+
+4. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytais atvejais Seimo kontrolierius eina pareigas tol, kol į jo vietą paskiriamas naujas Seimo kontrolierius.
  
 
 
@@ -212,10 +261,10 @@ Seimo kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos
 
 
 
-9 straipsnis. Draudimai Seimo kontrolieriams
+10 straipsnis. Su Seimo kontrolieriaus pareigomis nesuderinama veikla
 
 
-Seimo kontrolieriaus pareigos nesuderinamos su jokiomis kitomis pareigomis valstybės įstaigose ir organizacijose, taip pat su darbu verslo, komercijos bei kitose privačiose įstaigose ar įmonėse. Seimo kontrolierius negali gauti kitą atlyginimą, išskyrus jam nustatytąjį pagal einamas pareigas bei užmokestį už kūrybinę veiklą. Seimo kontrolieriaus atlyginimu už kūrybinę veiklą laikomas autorinis honoraras už meno kūrinius bei jų atlikimą, už publikacijas bei knygas, už medžiagą radijo bei televizijos laidoms, taip pat atlygis už pedagoginę bei mokslinę veiklą.
+Seimo kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis ar skiriamomis pareigomis valstybės ir savivaldybių institucijose ir įstaigose, taip pat su darbu juridiniuose asmenyse. Seimo kontrolierius negali gauti kito atlyginimo, išskyrus jam nustatytą pagal einamas pareigas ir užmokestį už mokslinį bei pedagoginį darbą aukštosiose mokyklose ar valstybės tarnautojų kvalifikacijos tobulinimo įstaigose, už neformalųjį suaugusiųjų švietimą bei autorinį atlyginimą už kūrybinį darbą.
  
 
 
@@ -223,38 +272,15 @@ Seimo kontrolieriaus pareigos nesuderinamos su jokiomis kitomis pareigomis valst
 
 
 
+11 straipsnis. Metų veiklos ataskaitų pateikimas 
 
 
-III DALIS
-SEIMO KONTROLIERIŲ ĮSTAIGA
- 
-
-
-10 straipsnis. Seimo kontrolierių įstaiga
-
-
-Seimo kontrolierių įstaiga yra savarankiška valstybės institucija. Ji yra juridinis asmuo, turintis atsiskaitomąją sąskaitą banke ir antspaudą su Lietuvos valstybės herbu bei pavadinimu „Lietuvos Respublikos Seimo kontrolierių įstaiga“ ir finansuojamas iš valstybės biudžeto. Už Seimo kontrolierių įstaigos antspaudo naudojimą ir saugojimą atsako Seimo kontrolierių įstaigos vadovas. 
- 
+1. Seimo kontrolieriai kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų veiklos ataskaitą. Ji nagrinėjama Seime. Visa ataskaita turi būti paskelbta Seimo kontrolierių įstaigos interneto tinklalapyje.
 
 
 
 
-
-
-11 straipsnis. Seimo kontrolierių įstaigos struktūra 
-
-
-1. Seimo kontrolierių įstaigą sudaro Seimo kontrolieriai, Seimo kontrolierių įstaigos valdyba, Seimo kontrolierių padėjėjai, skyriai, taip pat kiti padaliniai, kuriuos tvirtina Seimo kontrolierių įstaigos valdyba.
-
-
-
-
-2. Seimo kontrolierių įstaigai vadovauja Seimo kontrolierių įstaigos vadovas. Jeigu Seimo kontrolieriaus-įstaigos vadovo – nėra, jį pavaduoja vyriausias pagal amžių Seimo kontrolierius.
-
-
-
-
-3. Seimo kontrolierių įstaigos padalinių funkcijas ir įstaigos darbuotojų kompetenciją nustato Seimo kontrolierių įstaigos reglamentas, kurį tvirtina Seimo kontrolierių įstaigos valdyba.
+2. Seimo kontrolieriai apie savo veiklą periodiškai skelbia visuomenės informavimo priemonėse.
  
 
 
@@ -264,222 +290,30 @@ Seimo kontrolierių įstaiga yra savarankiška valstybės institucija. Ji yra ju
 
 
 
-IV DALIS
-SEIMO KONTROLIERIŲ ĮSTAIGOS VALDYBA
- 
-
-
-12 straipsnis. Seimo kontrolierių įstaigos valdyba
-
-
-1. Seimo kontrolierių įstaigos valdybą sudaro Seimo kontrolieriai.
-
-
-
-
-2. Seimo kontrolierių įstaigos valdyba:
-
-
-1) svarsto svarbiausius Seimo kontrolierių veiklos klausimus bei kitus Seimo kontrolierių teikiamus klausimus;
-
-
-
-
-2) tvirtina Seimo kontrolierių, tiriančių piliečių skundus dėl valstybės ir savivaldybių įstaigų, pasiskirstymą veiklos sritimis, nurodydama kiekvieno kontrolieriaus veiklos sritį;
-
-
-
-
-3) priima sprendimus Seimo kontrolierių įstaigos skyrių darbo organizavimo klausimais;
-
-
-
-
-4) tvirtina Seimo kontrolierių įstaigos reglamentą;
-
-
-
-
-5) teikia siūlymus dėl Seimo kontrolierių įstaigos finansavimo;
-
-
-
-
-6) tvirtina Seimo kontrolierių įstaigos struktūrą, etatų sąrašą bei atlyginimų koeficientus, vadovaudamasi Vyriausybės nustatytais koeficientų dydžiais;
-
-
-
-
-7) materialiai skatina Seimo kontrolierių įstaigos darbuotojus;
-
-
-
-
-8) pritaria Seimo kontrolierių metinėms ataskaitoms; 
-
-
-
-
-9) siunčia Seimo kontrolierius bei įstaigos darbuotojus į užsienio komandiruotes ar stažuotes, taip pat į ilgesnes kaip vienas mėnuo komandiruotes ar stažuotes Lietuvoje.
- 
-
-
-
-
-
-
-
-
-13 straipsnis. Seimo kontrolierių įstaigos valdybos darbo tvarka
-
-
-1. Valdybos posėdžiams pirmininkauja Seimo kontrolierių įstaigos vadovas, o jeigu jo nėra, – vyriausias pagal amžių Seimo kontrolierius.
-
-
-
-
-2. Seimo kontrolierių įstaigos valdyba savo kompetencijos klausimais leidžia nutarimus, kurie priimami valdybos narių balsų dauguma.
-
-
-
-
-3. Seimo kontrolierių įstaigos valdybos darbo tvarką nustato Seimo kontrolierių įstaigos reglamentas.
- 
-
-
-
-
-
-
-
-
-V DALIS
-SEIMO KONTROLIERIŲ ĮSTAIGOS VADOVAS
- 
-
-
-14 straipsnis. Seimo kontrolierių įstaigos vadovas
-
-
-1. Seimo Pirmininko teikimu Seimas skiria Seimo kontrolierių įstaigos vadovu vieną iš paskirtų Seimo kontrolierių.
-
-
-
-
-2. Seimo kontrolierių įstaigos vadovas, be tiesioginių kontrolieriaus pareigų, atlieka ir šias funkcijas:
-
-
-1) šaukia valdybos posėdžius ir jiems pirmininkauja;
-
-
-
-
-2) vadovauja įstaigos darbui ir jai atstovauja;
-
-
-
-
-3) Seimo kontrolierių teikimu priima Seimo kontrolierių padėjėjus ir atleidžia juos iš pareigų;
-
-
-
-
-4) priima ir atleidžia kitus įstaigos darbuotojus;
-
-
-
-
-5) prižiūri įstaigos darbuotojų darbą ir priima sprendimus Seimo kontrolierių įstaigos darbui gerinti;
-
-
-
-
-6) nustato darbuotojų atlyginimus pagal Seimo kontrolierių valdybos patvirtintus atlyginimų koeficientus;
-
-
-
-
-7) suteikia Seimo kontrolieriams ir darbuotojams atostogas;
-
-
-
-
-8) sprendžia klausimus dėl Seimo kontrolierių bei įstaigos darbuotojų kvalifikacijos kėlimo, siunčia juos į stažuotes ir į komandiruotes;
-
-
-
-
-9) teikia valdybai tvirtinti Seimo kontrolierių įstaigos struktūrą, etatų sąrašus ir atlyginimų koeficientus;
-
-
-
-
-10) skiria darbuotojams drausmines nuobaudas;
-
-
-
-
-11) siūlo valdybai nustatyti darbuotojų atlyginimų priedus bei premijas;
-
-
-
-
-12) organizuoja metų ataskaitų Seimui rengimą;
-
-
-
-
-13) paveda laikinai eiti kitam kontrolieriui pareigas to kontrolieriaus, kuris dėl ligos, atostogų, išvykimo į užsienį ar kitų priežasčių negali eiti savo pareigų;
-
-
-
-
-14) paveda tirti konkretų skundą kitam tos pačios kategorijos skundus tiriančiam Seimo kontrolieriui, jeigu privalantis tirti tą skundą kontrolierius dėl giminystės ryšių ar kitų priežasčių negali nešališkai jo tirti, o jeigu šis negali, – bet kuriam kitam Seimo kontrolieriui.
-
-
-
-
-
-
-3. Seimo kontrolierių įstaigos vadovas savo kompetenciją įgyvendina leisdamas įsakymus.
- 
-
-
-
-
-
-
-
-
-VI DALIS
+III SKIRSNIS
 SKUNDŲ PRIĖMIMAS IR TYRIMAS
  
 
 
-15 straipsnis. Skundų pateikimas ir priėmimas
+12 straipsnis. Seimo kontrolierių tiriami skundai
 
 
-1. Kiekvienas pilietis turi teisę pateikti Seimo kontrolieriui skundą dėl valstybės ar savivaldybės institucijos, priskirtos kontrolieriaus kompetencijai, pareigūno piktnaudžiavimo ar biurokratizmo.
-
-
-
-
-2. Seimo kontrolierius taip pat tiria Seimo narių jam perduotus Lietuvos Respublikos piliečių skundus, kurie atitinka šio įstatymo reikalavimus, taip pat gali tirti užsienio valstybių piliečių bei asmenų be pilietybės skundus.
+1. Seimo kontrolieriai tiria pareiškėjų skundus dėl pareigūnų piktnaudžiavimo, biurokratizmo ar kitaip pažeidžiamų žmogaus teisių ir laisvių viešojo administravimo srityje.
 
 
 
 
-3. Skundai paprastai paduodami raštu. Skundų registravimo bei apyvartos tvarką nustato Seimo kontrolierių įstaigos reglamentas.
+2. Seimo kontrolieriai netiria Respublikos Prezidento, Seimo narių, Ministro Pirmininko, Vyriausybės (kaip kolegialios institucijos), valstybės kontrolieriaus ir Konstitucinio Teismo bei kitų teismų teisėjų veiklos, savivaldybių tarybų (kaip kolegialių institucijų) veiklos. 
 
 
 
 
-4. Jeigu skundas gautas žodžiu, telefonu arba Seimo kontrolierius nustatė pareigūnų piktnaudžiavimo ar biurokratizmo požymius iš spaudos ir kitų visuomenės informavimo priemonių bei iš kitokių šaltinių, Seimo kontrolierius gali pradėti tyrimą savo iniciatyva.
+3. Seimo kontrolieriai taip pat netiria prokurorų, ikiteisminio tyrimo pareigūnų procesinių sprendimų teisėtumo ir pagrįstumo, tačiau tiria skundus dėl prokurorų, ikiteisminio tyrimo pareigūnų veiksmų, pažeidžiančių žmogaus teises ir laisves.
 
 
 
 
-5. Piliečių kreipimaisi žodžiu ar raštu, kuriuose neskundžiami pareigūnai, o prašoma paaiškinti, suteikti kitą informaciją ar pageidaujamus dokumentus ir t.t., nelaikomi skundais ir apskaitomi atskirai Seimo kontrolierių įstaigos reglamento nustatyta tvarka. Seimo kontrolierius gali atsisakyti paaiškinti, suteikti kitą informaciją, pageidaujamus dokumentus ar pan.
+4. Seimo kontrolieriai netiria skundų dėl darbo teisinių santykių, taip pat netikrina teismų priimtų sprendimų, nuosprendžių ir nutarčių pagrįstumo ir teisėtumo.
  
 
 
@@ -487,7 +321,33 @@ SKUNDŲ PRIĖMIMAS IR TYRIMAS
 
 
 
-16 straipsnis. Skundo reikalavimai 
+13 straipsnis. Skundų pateikimas 
+
+
+1. Pareiškėjas turi teisę pateikti Seimo kontrolieriui skundą dėl pareigūnų piktnaudžiavimo ar biurokratizmo, jei mano, kad tuo buvo pažeistos jo teisės ir laisvės.
+
+
+
+
+2. Seimo kontrolierius taip pat tiria Seimo narių jam perduotus pareiškėjų skundus, kurie atitinka šio įstatymo 14 straipsnio reikalavimus.
+
+
+
+
+3. Skundai paprastai paduodami raštu. Jeigu skundas gautas žodžiu, telefonu arba Seimo kontrolierius nustatė pareigūnų piktnaudžiavimo, biurokratizmo ar kitaip pažeistų žmogaus teisių ir laisvių požymių iš visuomenės informavimo priemonių bei iš kitų šaltinių, Seimo kontrolierius gali pradėti tyrimą savo iniciatyva.
+
+
+
+
+4. Pareiškėjų kreipimaisi žodžiu ar raštu, kuriuose neskundžiami pareigūnai, o prašoma paaiškinti, suteikti kitą informaciją ar pageidaujamus dokumentus ir t. t., nelaikomi skundais.
+ 
+
+
+
+
+
+
+14 straipsnis. Reikalavimai skundui
 
 
 1. Skunde nurodoma:
@@ -498,17 +358,17 @@ SKUNDŲ PRIĖMIMAS IR TYRIMAS
 
 
 
-2) pareiškėjo vardas, pavardė ir adresas;
+2) pareiškėjo vardas, pavardė (pavadinimas) ir adresas (buveinė);
 
 
 
 
-3) apskundžiamų pareigūnų vardai, pavardės ir pareigos, įstaiga, kurioje jie dirba;
+3) skundžiamų pareigūnų vardai, pavardės ir pareigos, institucija ar įstaiga, kurioje jie dirba;
 
 
 
 
-4) skundžiamo sprendimo arba skundžiamų veiksmų apibūdinimas, jų padarymo laikas ir aplinkybės;
+4) skundžiamo sprendimo arba skundžiamos veikos apibūdinimas, jos padarymo laikas ir aplinkybės;
 
 
 
@@ -533,19 +393,14 @@ SKUNDŲ PRIĖMIMAS IR TYRIMAS
 
 
 
-2) turimi įrodymai ar jų aprašymas;
-
-
-
-
-3) siūlomų apklausti asmenų sąrašas, nurodant jų adresus ir kokias aplinkybes kiekvienas iš jų gali patvirtinti.
+2) turimi įrodymai ar jų aprašymas.
 
 
 
 
 
 
-3. Šio straipsnio 1 dalyje nurodytos skundo formos nesilaikymas ar rekvizitų nenurodymas negali būti pagrindu atsisakyti nagrinėti skundą, išskyrus atvejus, kai neįmanoma pradėti tyrimo dėl duomenų trūkumo, o pareiškėjas Seimo kontrolieriaus prašymu jų nepateikia.
+3. Šio straipsnio 1 dalyje nurodytos skundo formos nesilaikymas ar rekvizitų nenurodymas negali būti pagrindas atsisakyti tirti skundą, išskyrus anoniminius skundus, taip pat atvejus, kai neįmanoma pradėti tyrimo dėl duomenų trūkumo, o pareiškėjas Seimo kontrolieriaus prašymu jų nepateikia, ar kai skundo tekstas yra neįskaitomas.
  
 
 
@@ -553,10 +408,10 @@ SKUNDŲ PRIĖMIMAS IR TYRIMAS
 
 
 
-17 straipsnis. Skundų padavimo terminas
+15 straipsnis. Skundų padavimo terminas
 
 
-Skundams paduoti nustatomas vienerių metų nuo skundžiamų veiksmų padarymo terminas. Skundai, paduoti praėjus šiam terminui, nenagrinėjami, jeigu Seimo kontrolierius nenusprendžia kitaip.
+Skundams paduoti nustatomas vienerių metų terminas nuo skundžiamų veiksmų padarymo ar skundžiamo sprendimo priėmimo. Skundai, paduoti praėjus šiam terminui, netiriami, jeigu Seimo kontrolierius nenusprendžia kitaip.
  
 
 
@@ -564,10 +419,10 @@ Skundams paduoti nustatomas vienerių metų nuo skundžiamų veiksmų padarymo t
 
 
 
-18 straipsnis. Anoniminiai skundai
+16 straipsnis. Anoniminiai skundai
 
 
-Anoniminiai skundai nenagrinėjami, jeigu Seimo kontrolierius nenusprendžia kitaip.
+Anoniminiai skundai netiriami, jeigu Seimo kontrolierius nenusprendžia kitaip.
  
 
 
@@ -575,10 +430,10 @@ Anoniminiai skundai nenagrinėjami, jeigu Seimo kontrolierius nenusprendžia kit
 
 
 
-19 straipsnis. Atsisakymas nagrinėti skundą
+17 straipsnis. Atsisakymas nagrinėti skundą
 
 
-1. Seimo kontrolierius atsisako nagrinėti skundą ir ne vėliau kaip per 7 dienas grąžina jį pareiškėjui, jeigu:
+1. Seimo kontrolierius ne vėliau kaip per 7 darbo dienas nuo skundo gavimo dienos priima sprendimą atsisakyti nagrinėti skundą, apie tai informuodamas pareiškėją, jeigu:
 
 
 1) padaro išvadą, kad skundo dalykas yra mažareikšmis;
@@ -586,24 +441,54 @@ Anoniminiai skundai nenagrinėjami, jeigu Seimo kontrolierius nenusprendžia kit
 
 
 
-2) skundas paduotas praėjus šio įstatymo 17 straipsnyje nustatytam terminui;
+2) skundas paduotas praėjus šio įstatymo 15 straipsnyje nustatytam terminui;
 
 
 
 
-3) skunde nurodytų aplinkybių Seimo kontrolieriai netiria;
+3) skunde nurodytų aplinkybių tyrimas nepriklauso Seimo kontrolieriaus kompetencijai;
 
 
 
 
-4) skundas tuo pačiu klausimu buvo išnagrinėtas, yra nagrinėjamas teisme arba pagal įstatymus turi būti nagrinėjamas teisme;
+4) skundas tuo pačiu klausimu buvo išnagrinėtas arba yra nagrinėjamas teisme;
 
 
 
 
-5) dėl skundo dalyko yra priimtas procesinis sprendimas pradėti ikiteisminį tyrimą, atsisakyti pradėti ikiteisminį tyrimą arba nutraukti baudžiamąją bylą.
-Straipsnio punkto pakeitimai:
-Nr. IX-1432, 2003-04-03, Žin., 2003, Nr. 38-1677 (2003-04-24), i. k. 1031010ISTA0IX-1432
+5) dėl skundo dalyko yra priimtas procesinis sprendimas pradėti ikiteisminį tyrimą;
+
+
+
+
+6) padaro išvadą, kad skundą nagrinėti tikslinga kitoje institucijoje ar įstaigoje.
+
+
+
+
+
+
+2. Jeigu priimamas sprendimas atsisakyti nagrinėti skundą, turi būti nurodyti atsisakymo jį nagrinėti pagrindai. Tais atvejais, kai skundas nepriskirtas Seimo kontrolierių kompetencijai, atsisakyme nagrinėti nurodoma, į kokią instituciją ar įstaigą tuo klausimu galėtų kreiptis pareiškėjas.
+
+
+
+
+3. Skundą ištyrus, pakartotinai paduotas skundas netiriamas, išskyrus atvejus, kai nurodoma naujų aplinkybių ar pateikiama naujų faktų. Jeigu pareiškėjas piktnaudžiauja teise kreiptis į Seimo kontrolierių, Seimo kontrolieriaus sprendimu susirašinėjimas su tokiu pareiškėju gali būti nutrauktas.
+
+
+
+
+4. Jeigu skundo tyrimo metu paaiškėja šio straipsnio 1 dalyje nurodytos aplinkybės, skundo tyrimas nutraukiamas.
+
+
+
+
+5. Jeigu pareiškėjas nepateikia duomenų, be kurių neįmanoma pradėti skundo tyrimo, taip pat jeigu skundo tekstas yra neįskaitomas, jis netiriamas.
+
+
+
+
+6. Jeigu gaunamas pareiškėjo prašymas netirti skundo, Seimo kontrolierius gali tyrimą nutraukti. Seimo kontrolierius gali pradėti tyrimą savo iniciatyva.
  
 
 
@@ -611,27 +496,10 @@ Nr. IX-1432, 2003-04-03, Žin., 2003, Nr. 38-1677 (2003-04-24), i. k. 1031010IST
 
 
 
-2. Jeigu pareiškėjui skundas grąžinamas, turi būti nurodyti atsisakymo jį nagrinėti pagrindai. Tais atvejais, kai skundas nepriskirtas Seimo kontrolierių kompetencijai, atsisakyme nagrinėti nurodoma, į kokią instituciją tuo klausimu galėtų kreiptis pareiškėjas.
+18 straipsnis. Skundo ištyrimo terminai
 
 
-
-
-3. Po ištyrimo pakartotinai paduotas skundas nenagrinėjamas, išskyrus atvejus, kai nurodoma naujų aplinkybių ar pateikiama naujų faktų.
-
-
-
-
-4. Jeigu skundo tyrimo metu išaiškėja šio straipsnio 1 dalyje nurodytos aplinkybės arba jeigu pareiškėjas nepateikia duomenų, be kurių neįmanoma pradėti skundą tirti, skundas paliekamas nenagrinėtu. 
-
-
-
-
-5. Jeigu privalantis nagrinėti skundą Seimo kontrolierius dėl giminystės ryšių ar kitų priežasčių negali nešališkai jo nagrinėti, jis atsisako nagrinėti skundą ir jį perduoda Seimo kontrolierių įstaigos vadovui.
-
-
-
-
-6. Jeigu gaunamas pareiškėjo prašymas nenagrinėti skundo, Seimo kontrolierius atsisako nagrinėti skundą ir jį grąžina pareiškėjui. Seimo kontrolierius gali padaryti prie skundo buvusių dokumentų kopijas bei pradėti tyrimą savo iniciatyva.
+Skundas turi būti ištirtas ir pareiškėjui atsakyta per 3 mėnesius nuo skundo gavimo dienos, išskyrus atvejus, kai dėl skunde nurodytų aplinkybių sudėtingumo, informacijos gausos ar skundžiamų veiksmų tęstinio pobūdžio būtina skundo tyrimą pratęsti. Apie Seimo kontrolieriaus sprendimą pratęsti skundo tyrimo terminą informuojamas pareiškėjas. Skundai turi būti ištirti per įmanomai trumpiausią laiką. 
  
 
 
@@ -639,235 +507,18 @@ Nr. IX-1432, 2003-04-03, Žin., 2003, Nr. 38-1677 (2003-04-24), i. k. 1031010IST
 
 
 
-20 straipsnis. Skundo ištyrimo terminai
+19 straipsnis. Seimo kontrolieriaus teisės
 
 
-Skundas turi būti ištirtas ir pareiškėjui atsakyta per 3 mėnesius nuo skundo gavimo dienos. Prireikus Seimo kontrolierius tyrimo terminą gali pratęsti iki 6 mėnesių, apie tai pareiškėjas informuojamas.
- 
+1. Seimo kontrolierius, vykdydamas savo pareigas, turi teisę:
 
 
+1) reikalauti nedelsiant pateikti informaciją, medžiagą ir dokumentus, būtinus savo funkcijoms atlikti, įstatymų nustatyta tvarka susipažinti su valstybės, tarnybos, komercinę ar banko paslaptį sudarančiais dokumentais, taip pat dokumentais, kuriuose yra informacijos apie įstatymų saugomus asmens duomenis. Prireikus įgyvendinti šią teisę, pasitelkiami policijos pareigūnai ir surašomas atitinkamas aktas apie dokumentų paėmimą;
 
 
 
 
-21 straipsnis. Skundo tyrimas
-
-
-1. Seimo kontrolierius, tirdamas skundą, išsiaiškina:
-
-
-1) ar priimti skunde minimi sprendimai, ar buvo skundžiama veika (veiksmai ar neveikimas, elgsena);
-
-
-
-
-2) kuo remiantis ir kokiomis aplinkybėmis tai padaryta;
-
-
-
-
-3) ar skunde minimi sprendimai arba veiksmai prieštarauja įstatymams bei kitiems teisės aktams, ar pareigūno veikoje yra piktnaudžiavimo arba biurokratizmo;
-
-
-
-
-4) kokie pareigūnai padarė pažeidimų, dėl kokių priežasčių (ar tikslų) tai padaryta ir kokia konkrečių pareigūnų kaltė, kaip padarę pažeidimą pareigūnai aiškina savo veiksmus;
-
-
-
-
-5) kokie faktai ar įrodymai patvirtina padarytą nusižengimą;
-
-
-
-
-6) visas objektyvias priežastis, sąlygojančias pareigūnų piktnaudžiavimą ir (ar) biurokratizmą.
-
-
-
-
-
-
-2. Baigus nagrinėti skundą, surašoma pažyma, kurioje nurodoma tyrimo metu išaiškintos aplinkybės, surinkti įrodymai bei pareigūno veikos juridinis įvertinimas. Pažymą pasirašo Seimo kontrolierius. Su tyrimo rezultatais, išsiunčiant arba įteikiant pažymos nuorašą, supažindinamas skundo autorius, įstaigos, kurioje buvo atliekamas tyrimas, vadovas bei pareigūnas, kurio veiksmai buvo tiriami, o prireikus – ir aukštesnės pagal pavaldumą institucijos vadovas, kitos institucijos ar asmenys. Tais atvejais, kai pažymoje yra žinių apie įstatymų saugomas paslaptis, siunčiama ne visa pažyma.
- 
-
-
-
-
-
-
-22 straipsnis. Seimo kontrolieriaus sprendimai
-
-
-1. Seimo kontrolierius, atlikęs tyrimą, gali priimti sprendimą:
-
-
-1) perduoti medžiagą ikiteisminio tyrimo įstaigai ar prokurorui, kai aptinkami nusikalstamos veikos požymiai;
-Straipsnio punkto pakeitimai:
-Nr. IX-1432, 2003-04-03, Žin., 2003, Nr. 38-1677 (2003-04-24), i. k. 1031010ISTA0IX-1432
- 
-
-
-
-
-2) pareikšti ieškinį teisme dėl kaltų piktnaudžiavimu ar biurokratizmu pareigūnų atleidimo iš užimamų pareigų; 
-
-
-
-
-3) pareikšti ieškinį teisme, kad būtų kompensuojami moraliniai ar materialiniai nuostoliai, kuriuos patyrė asmuo dėl pareigūnų padarytų pažeidimų; 
-
-
-
-
-4) siūlyti kolegialiai institucijai ar pareigūnui įstatymų nustatyta tvarka panaikinti, sustabdyti ar pakeisti įstatymams bei kitiems teisės aktams prieštaraujančius sprendimus ar siūlyti priimti sprendimus, kurie nepriimti dėl piktnaudžiavimo ar biurokratizmo;
-
-
-
-
-5) siūlyti kolegialiai institucijai, įstaigos vadovui ar aukštesniajai institucijai skirti nusižengusiems pareigūnams drausmines nuobaudas;
-
-
-
-
-6) siūlyti prokurorui įstatymo nustatyta tvarka rengti medžiagą civilinei bylai teisme iškelti, jeigu nustato, kad pažeisti neveiksnių, ribotai veiksnių, invalidų, nepilnamečių bei kitų asmenų, turinčių ribotas galimybes ginti savo teises, interesai;
-
-
-
-
-7) atkreipti pareigūnų dėmesį į aplaidumą darbe, įstatymų nesilaikymą, tarnybinės etikos pažeidimą ar biurokratizmą ir siūlyti imtis priemonių, kad būtų pašalinti įstatymo pažeidimai, jų priežastys ir sąlygos;
-
-
-
-
-8) siūlyti, kad įstatymų nustatyta tvarka būtų kompensuojami moraliniai ar materialiniai nuostoliai, kuriuos patyrė asmuo dėl pareigūnų padarytų pažeidimų;
-
-
-
-
-9) atmesti skundą, kai nepasitvirtina jame nurodyti pažeidimai;
-
-
-
-
-10) pranešti Seimui ar Respublikos Prezidentui apie ministrų ar kitų Seimui ar Respublikos Prezidentui atskaitingų pareigūnų (išskyrus 4 straipsnio 2 dalyje išvardytuosius) padarytus pažeidimus.
-
-
-
-
-
-
-2. Laikas, per kurį buvo tirtas skundas, neįskaitomas į darbo įstatymuose nustatytą senaties terminą drausminei nuobaudai skirti.
-
-
-
-
-3. Seimo kontrolieriaus siūlymą panaikinti, pakeisti ar priimti sprendimą, pašalinti įstatymo pažeidimus, jų priežastis ir sąlygas, privalo nagrinėti institucija ar pareigūnas, kuriems toks siūlymas adresuojamas.
-
-
-
-
-4. Teismo sprendimas Seimo kontrolieriaus siūlymu atleisti iš užimamų pareigų kaltus piktnaudžiavimu ar biurokratizmu pareigūnus privalomas darbdaviui ir yra pagrindas nutraukti darbo sutartį.
- 
-
-
-
-
-
-
-23 straipsnis. Išvadų pateikimas
-
-
-Šio įstatymo 4 straipsnio 1 dalyje nurodyti pareigūnai gali kreiptis į Seimo kontrolierių prašydami pateikti išvadą, ar sprendimai nesukels pasekmių, kurios vėliau galėtų būti apskųstos Seimo kontrolieriui. Seimo kontrolierius gali atsisakyti pateikti tokią išvadą.
- 
-
-
-
-
-
-
-24 straipsnis. Pareiga saugoti valstybės, profesines ir kitas įstatymų saugomas paslaptis
-
-
-Seimo kontrolieriai ir Seimo kontrolierių įstaigos darbuotojai privalo išsaugoti valstybės, profesines ar kitas įstatymų saugomas paslaptis, kurias sužinojo eidami savo tarnybines pareigas. Ši pareiga galioja ir asmenims, nedirbantiems Seimo kontrolierių įstaigoje, bet dalyvavusiems tiriant skundą.
- 
-
-
-
-
-
-
-
-
-VII DALIS
-SEIMO KONTROLIERIŲ METŲ ATASKAITOS IR JŲ VEIKLOS VIEŠUMAS
- 
-
-
-25 straipsnis. Metų ataskaitų pateikimas ir svarstymas Seime
-
-
-1. Seimo kontrolieriai kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų darbo ataskaitą, kuri nagrinėjama Seime. Visa ataskaita turi būti paskelbta Seimo kontrolierių įstaigos interneto tinklalapyje, o esant galimybei, – ir per kitas visuomenės informavimo priemones.
-
-
-
-
-2. Tuo pat metu pateikiamas ir svarstomas Seime Žmogaus teisių komiteto pranešimas apie Seimo kontrolierių įstaigos veiklą ir siūlymai šios įstaigos veiklai pagerinti.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1770, 2003-10-14, Žin., 2003, Nr. 104-4640 (2003-11-05), i. k. 1031010ISTA0IX-1770
- 
-
-
-
-
-26 straipsnis. Seimo kontrolierių veiklos viešumas
-
-
-1. Seimo kontrolieriai teikia informaciją visuomenės informavimo priemonėms apie savo veiklą bei pareigūnų piktnaudžiavimo arba biurokratizmo atvejus.
-
-
-
-
-2. Neteikiama informacija, kuri yra neskelbtina pagal Lietuvos Respublikos įstatymus.
- 
-
-
-
-
-
-
-
-
-VIII DALIS
-SEIMO KONTROLIERIŲ VEIKLOS IR KITOS GARANTIJOS
- 
-
-
-27 straipsnis. Seimo kontrolierių nepriklausomumas nuo kitų institucijų
-
-
-Seimo kontrolieriai, vykdydami savo funkcijas, vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais bei tarptautinėmis sutartimis ir susitarimais ir yra nepriklausomi.
- 
-
-
-
-
-
-
-28 straipsnis. Seimo kontrolieriaus teisės
-
-
-1. Seimo kontrolierius, atlikdamas savo pareigas, turi teisę:
-
-
-1) reikalauti nedelsiant pateikti informaciją, medžiagą ir dokumentus, būtinus savo funkcijoms atlikti, taip pat susipažinti su neskelbtinais bei valstybės paslaptį sudarančiais dokumentais. Prireikus įgyvendinti šią teisę pasitelkiami policijos pareigūnai ir surašomas atitinkamas aktas apie dokumentų paėmimą;
-
-
-
-
-2) įeiti į kontroliuojamų įmonių, įstaigų, organizacijų patalpas ir nekliudomai matytis bei kalbėtis su jose esančiais asmenimis. Į karinių bei joms prilygintų institucijų teritoriją ir patalpas įeinama, lydint šių institucijų pareigūnams;
+2) pateikęs tarnybinį pažymėjimą įeiti į institucijų ir įstaigų (įmonių, tarnybų ar organizacijų) patalpas, o į patalpas, kuriose ištisą parą laikomi asmenys, – bet kuriuo paros metu, ir nekliudomai matytis bei kalbėtis su jose esančiais asmenimis. Į institucijų ir įstaigų, kurių veiklą reglamentuoja tarnybos statutai, teritoriją ir patalpas įeinama lydint šių institucijų ir įstaigų pareigūnams;
 
 
 
@@ -882,31 +533,94 @@ Seimo kontrolieriai, vykdydami savo funkcijas, vadovaujasi Lietuvos Respublikos 
 
 
 
-5) dalyvauti Seimo, Vyriausybės, kitų valstybės bei savivaldybių institucijų posėdžiuose, kai svarstomi klausimai, susiję su Seimo kontrolierių veikla;
+5) dalyvauti Seimo, Vyriausybės, kitų valstybės bei savivaldybių institucijų ir įstaigų posėdžiuose, kai svarstomi klausimai, susiję su Seimo kontrolierių veikla ar Seimo kontrolieriaus tiriamu dalyku;
 
 
 
 
-6) pasitelkti Vyriausybės įstaigų, taip pat ministerijų, apskričių bei savivaldybių pareigūnus ir ekspertus;
+6) pasitelkti Vyriausybės įstaigų, taip pat ministerijų, apskričių bei savivaldybių pareigūnus, apskričių viršininkų administracijų ir savivaldybių institucijų ir įstaigų pareigūnus bei ekspertus;
 
 
 
 
-7) informuoti Seimą, Vyriausybę ar atitinkamos savivaldybės tarybą apie šiurkščius įstatymų pažeidimus arba įstatymų ar kitų teisės aktų trūkumus, prieštaravimus ar spragas;
+7) informuoti Seimą, Vyriausybę bei kitas valstybės institucijas ir įstaigas ar atitinkamos savivaldybės tarybą apie šiurkščius įstatymų pažeidimus arba įstatymų ar kitų teisės aktų trūkumus, prieštaravimus ar spragas;
 
 
 
 
-8) siūlyti Seimui, Vyriausybei ar kitoms valstybės institucijoms, kad būtų pakeisti įstatymai ar kiti norminiai aktai, varžantys žmogaus teises ir laisves.
+8) siūlyti Seimui, Vyriausybei, kitoms valstybės ar savivaldybių institucijoms ir įstaigoms, kad būtų pakeisti įstatymai ar kiti norminiai teisės aktai, varžantys žmogaus teises ir laisves;
+
+
+
+
+9) surašyti administracinio teisės pažeidimo protokolą dėl Seimo kontrolieriaus reikalavimų nevykdymo ar kitokio trukdymo Seimo kontrolieriui įgyvendinti jam suteiktas teises;
+
+
+
+
+10) kreiptis į administracinį teismą prašydamas ištirti, ar norminis administracinis aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės nutarimą;
+
+
+
+
+11) siūlyti Seimui kreiptis į Konstitucinį Teismą dėl teisės aktų atitikties Lietuvos Respublikos Konstitucijai ir įstatymams;
+
+
+
+
+12) perduoti medžiagą ikiteisminio tyrimo įstaigai ar prokurorui, kai aptinkami nusikalstamos veikos požymiai;
+
+
+
+
+13) kreiptis į teismą dėl kaltų piktnaudžiavimu ar biurokratizmu pareigūnų atleidimo iš einamų pareigų; 
+
+
+
+
+14) siūlyti kolegialiai institucijai ar pareigūnui įstatymų nustatyta tvarka panaikinti, sustabdyti ar pakeisti įstatymams bei kitiems teisės aktams prieštaraujančius sprendimus ar siūlyti priimti sprendimus, kurie nepriimti dėl piktnaudžiavimo ar biurokratizmo;
+
+
+
+
+15) siūlyti kolegialiai institucijai, įstaigos vadovui ar aukštesniajai pagal pavaldumą institucijai ir įstaigai skirti nusižengusiems pareigūnams tarnybines (drausmines) nuobaudas;
+
+
+
+
+16) siūlyti prokurorui įstatymų nustatyta tvarka kreiptis į teismą dėl viešojo intereso gynimo;
+
+
+
+
+17) atkreipti pareigūnų dėmesį į aplaidumą darbe, įstatymų ar kitų teisės aktų nesilaikymą, tarnybinės etikos pažeidimą, piktnaudžiavimą, biurokratizmą ar žmogaus teisių ir laisvių pažeidimus ir siūlyti imtis priemonių, kad būtų pašalinti įstatymų ar kitų teisės aktų pažeidimai, jų priežastys ir sąlygos;
+
+
+
+
+18) siūlyti, kad įstatymų nustatyta tvarka būtų atlyginta turtinė ir neturtinė žala, kurią patyrė pareiškėjas dėl pareigūnų padarytų pažeidimų;
+
+
+
+
+19) pranešti Seimui, Respublikos Prezidentui ar Ministrui Pirmininkui apie ministrų ar kitų Seimui, Respublikos Prezidentui ar Vyriausybei atskaitingų pareigūnų (išskyrus 12 straipsnio 2 dalyje išvardytuosius) padarytus pažeidimus;
+
+
+
+
+20) siūlyti Vyriausiajai tarnybinės etikos komisijai įvertinti, ar pareigūnas nepažeidė Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo; 
+
+
+
+
+21) netirdamas Seimo kontrolieriaus kompetencijai nepriskirto skundo iš esmės, gali teikti siūlymus ar pastabas atitinkamoms institucijoms ir įstaigoms dėl viešojo administravimo gerinimo, kad nebūtų pažeidinėjamos žmogaus teisės ir laisvės.
 
 
 
 
 
 
-2. Seimo kontrolierių padėjėjai yra valstybės tarnautojai. Tirdami skundą Seimo kontrolieriaus pavedimu, jie turi šio straipsnio 1 dalies 1–4 punktuose išvardytas teises, išskyrus teisę pasitelkti policijos pareigūnus.
-Straipsnio dalies pakeitimai:
-Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010ISTA00IX-123
+2. Kreiptis į teismą dėl kaltų piktnaudžiavimu ar biurokratizmu pareigūnų atleidimo iš einamų pareigų Seimo kontrolierius gali per vieną mėnesį nuo pažymos surašymo.
  
 
 
@@ -914,20 +628,25 @@ Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010IST
 
 
 
-29 straipsnis. Seimo kontrolierių reikalavimų privalomumas
+20 straipsnis. Seimo kontrolierių reikalavimų privalomumas
 
 
-1. Valstybės ir savivaldybių įstaigos bei jų tarnautojai privalo Seimo kontrolierių reikalavimu nedelsdami pateikti jiems informaciją, dokumentus ir medžiagą, būtinus kontrolierių funkcijoms atlikti.
-
-
-
-
-2. Nagrinėdamas skundą, Seimo kontrolierius turi teisę kreiptis į pareigūną, kurio veikla nagrinėjama, prašydamas šį pasiaiškinti per Seimo kontrolieriaus nustatytą terminą. Jeigu pasiaiškinimas nepateikiamas, Seimo kontrolierius turi teisę kreiptis į aukštesnį pareigūną (kolegialų organą), kuris privalo išreikalauti pasiaiškinimą arba pats paaiškinti per Seimo kontrolieriaus nustatytą terminą. 
+1. Pareigūnai privalo Seimo kontrolierių reikalavimu nedelsdami pateikti jiems informaciją, dokumentus ir kitą medžiagą, būtinus jų funkcijoms atlikti.
 
 
 
 
-3. Asmenys, trukdantys Seimo kontrolieriui vykdyti savo pareigas, atsako įstatymų nustatyta tvarka.
+2. Nagrinėdamas skundą, Seimo kontrolierius turi teisę kreiptis į pareigūną, kurio veikla nagrinėjama, prašydamas šį pasiaiškinti per nustatytą terminą. Jeigu pasiaiškinimas nepateikiamas, Seimo kontrolierius turi teisę kreiptis į aukštesnįjį pareigūną (kolegialią instituciją) ir šis privalo užtikrinti, kad pasiaiškinimas būtų pateiktas arba pats paaiškinti per Seimo kontrolieriaus nustatytą terminą. 
+
+
+
+
+3. Seimo kontrolieriaus siūlymą (rekomendaciją) privalo nagrinėti institucija ir įstaiga ar pareigūnas, kuriems toks siūlymas (rekomendacija) adresuojamas, ir apie nagrinėjimo rezultatus informuoti Seimo kontrolierių.
+
+
+
+
+4. Asmenys, trukdantys Seimo kontrolieriui atlikti savo pareigas, atsako įstatymų nustatyta tvarka.
  
 
 
@@ -935,38 +654,10 @@ Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010IST
 
 
 
-30 straipsnis. Seimo kontrolierių darbo apmokėjimas ir garantijos
+21 straipsnis. Skundo tyrimas
 
 
-1. Seimo kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Seimo kontrolierių įstaigos vadovas ar laikinai jį pavaduojantis kontrolierius gauna 10 procentų didesnį atlyginimą negu Seimo kontrolieriaus atlyginimas. Kiti priedai ar premijos Seimo kontrolieriams nemokami. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, Seimo kontrolieriams taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
-Straipsnio dalies pakeitimai:
-Nr. IX-271, 2001-04-19, Žin., 2001, Nr. 39-1342 (2001-05-09), i. k. 1011010ISTA00IX-271
- 
-
-
-
-
-2. Seimo kontrolieriai draudžiami valstybiniu socialiniu draudimu Valstybinio socialinio draudimo įstatyme nustatyta tvarka. 
-Papildyta straipsnio dalimi:
-Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
- 
-
-
-
-
-3. Seimo kontrolieriui, atleidžiamam iš pareigų pasibaigus įgaliojimų laikui, išmokama 1 mėnesio atlyginimo dydžio išeitinė pašalpa. Seimo kontrolieriui, atleidžiamam iš pareigų sukakus įstatymo nustatytam valstybinių socialinio draudimo pensijų senatvės amžiui ar kai jis negali eiti pareigų dėl sveikatos būklės, išmokama 2 mėnesių atlyginimų dydžio išeitinė pašalpa. Seimo kontrolieriui mirus, jo šeimai išmokama 2 mėnesių atlyginimų dydžio išeitinė pašalpa. Išeitinė pašalpa mokama iš Seimo kontrolierių įstaigai skirtų valstybės biudžeto lėšų. Atleidus Seimo kontrolierių paties prašymu ar kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis, ar kai daugiau kaip pusė Seimo narių pareiškia nepasitikėjimą juo, išeitinė pašalpa nemokama. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
- 
-
-
-
-
-4. Atleidus Seimo kontrolierių iš pareigų, išskyrus, kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė Seimo narių pareiškia nepasitikėjimą juo, Seimo kontrolierius Valstybės tarnybos įstatymo nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.
-Straipsnio dalies pakeitimai:
-Nr. IX-123, 2000-12-21, Žin., 2000, Nr. 111-3582 (2000-12-29), i. k. 1001010ISTA00IX-123
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
+Seimo kontrolierius ištiria skunde nurodytas aplinkybes ir surašo pažymą. Pažymoje nurodoma tyrimo metu nustatytos aplinkybės, surinkti įrodymai bei pareigūno veikos juridinis įvertinimas. Pažymą pasirašo Seimo kontrolierius. Seimo kontrolieriaus pažyma pateikiama pareiškėjui. Pažyma taip pat gali būti pateikiama institucijos ar įstaigos, kurioje buvo atliekamas tyrimas, vadovui ar pareigūnui, kurio veiksmai buvo tiriami, o prireikus – ir aukštesnės pagal pavaldumą institucijos ar įstaigos vadovui, taip pat kitoms institucijoms ar įstaigoms. Tais atvejais, kai pažymoje yra informacijos, kuri pagal įstatymus yra valstybės, tarnybos, komercinė ar banko paslaptis, arba įstatymų saugomi asmens duomenys, pateikiama ne visa pažyma.
  
 
 
@@ -974,18 +665,296 @@ Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA
 
 
 
+22 straipsnis. Seimo kontrolieriaus sprendimai
 
 
-X DALIS
-BAIGIAMOSIOS NUOSTATOS
+1. Seimo kontrolierius, atlikęs tyrimą, priima sprendimą:
+
+
+1) pripažinti skundą pagrįstu; 
+
+
+
+
+2) atmesti skundą; 
+
+
+
+
+3) nutraukti skundo tyrimą. 
+
+
+
+
+
+
+2. Laikas, per kurį buvo tirtas skundas, neįskaitomas į įstatymų nustatytą senaties terminą tarnybinei (drausminei) nuobaudai skirti.
+
+
+
+
+3. Skundo tyrimas nutraukiamas, jei tyrimo metu išnyksta skundžiamos aplinkybės arba, tarpininkaujant Seimo kontrolieriui, skunde keliamos problemos išsprendžiamos gera valia, taip pat kitais šio įstatymo nustatytais atvejais.
  
 
 
-31 straipsnis. Baigiamosios nuostatos
 
 
-Įsigaliojus šiam įstatymui, pripažįstami netekusiais galios 1994 m. sausio 11 d. Lietuvos Respublikos Seimo kontrolierių įstatymas (Žin., 1994, Nr. 22-345) ir 1995 m. vasario 22 d. Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos Seimo kontrolierių įstaigos statuto patvirtinimo“ (Žin., 1995, Nr. 19-434). 
+
+
+23 straipsnis.       Pareiga saugoti valstybės, profesines ir kitas įstatymų saugomas paslaptis ar duomenis
+
+
+Seimo kontrolieriai ir kiti Seimo kontrolierių įstaigos darbuotojai privalo išsaugoti valstybės, tarnybos, komercines ar banko paslaptis bei įstatymų saugomus asmens duomenis, kuriuos sužinojo eidami pareigas. 
  
+
+
+
+
+
+
+
+
+IV SKIRSNIS
+SEIMO KONTROLIERIŲ ĮSTAIGA
+ 
+
+
+24 straipsnis. Seimo kontrolierių įstaiga
+
+
+Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrolierių įstaiga – juridinis asmuo, turintis atsiskaitomąją sąskaitą banke ir antspaudą su Lietuvos valstybės herbu bei pavadinimu „Lietuvos Respublikos Seimo kontrolierių įstaiga“ ir finansuojamas iš valstybės biudžeto. Už Seimo kontrolierių įstaigos antspaudo naudojimą ir saugojimą atsako Seimo kontrolierių įstaigos vadovas. 
+ 
+
+
+
+
+
+
+25 straipsnis. Seimo kontrolierių įstaigos struktūra 
+
+
+1. Seimo kontrolierių įstaigą sudaro Seimo kontrolieriai, valstybės tarnautojai ir kiti darbuotojai.
+
+
+
+
+2. Seimo kontrolierių įstaigai vadovauja Seimo kontrolierių įstaigos vadovas. Jį pavaduoja vyriausias pagal amžių Seimo kontrolierius.
+
+
+
+
+3. Seimo kontrolierių įstaiga turi Seimo kontrolierių įstaigos valdybą.
+
+
+
+
+4. Seimo kontrolierių įstaigos struktūrą tvirtina Seimo kontrolierių įstaigos valdyba.
+
+
+
+
+5. Seimo kontrolierių įstaigos struktūrinių padalinių ir įstaigos darbuotojų funkcijas nustato Seimo kontrolierių įstaigos vadovas.
+
+
+
+
+6. Seimo kontrolieriai turi patarėjų. Seimo kontrolieriaus patarėjas yra valstybės tarnautojas. Seimo kontrolieriaus patarėju gali būti Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba vienpakopį teisinį universitetinį išsilavinimą.
+ 
+
+
+
+
+
+
+26 straipsnis. Seimo kontrolierių įstaigos valdyba
+
+
+1. Seimo kontrolierių įstaigos valdybą sudaro Seimo kontrolieriai.
+
+
+
+
+2. Seimo kontrolierių įstaigos valdyba svarsto svarbiausius Seimo kontrolierių veiklos klausimus.
+
+
+
+
+3. Seimo kontrolierių įstaigos valdyba:
+
+
+1) tvirtina Seimo kontrolierių pasiskirstymą veiklos sritimis;
+
+
+
+
+2) tvirtina Seimo kontrolierių įstaigos reglamentą;
+
+
+
+
+3) tvirtina Seimo kontrolierių įstaigos struktūrą, etatų skaičių, darbuotojų, dirbančių pagal darbo sutartis, atlyginimų ribas; 
+
+
+
+
+4) svarsto siūlymus dėl Seimo kontrolierių įstaigos asignavimų naudojimo;
+
+
+
+
+5) svarsto Seimo kontrolierių įstaigos valstybės tarnautojų ir kitų darbuotojų skatinimo, pašalpų mokėjimo tvarką;
+
+
+
+
+6) sprendžia klausimus dėl Seimo kontrolierių metinės veiklos ataskaitos parengimo ir pateikimo Seimui; 
+
+
+
+
+7) svarsto klausimus dėl Seimo kontrolierių, Seimo kontrolierių įstaigos valstybės tarnautojų bei kitų darbuotojų komandiruočių ar stažuočių užsienyje, taip pat dėl ilgesnių negu vienas mėnuo komandiruočių ar stažuočių Lietuvoje;
+
+
+
+
+8) teikia siūlymus Seimo kontrolierių įstaigos vadovui dėl Seimo kontrolierių įstaigos valstybės tarnautojų ir kitų darbuotojų kvalifikacijos kėlimo.
+ 
+
+
+
+
+
+
+
+
+27 straipsnis. Seimo kontrolierių įstaigos valdybos darbo tvarka
+
+
+1. Seimo kontrolierių įstaigos valdybos posėdžiai šaukiami Seimo kontrolierių įstaigos vadovo arba daugiau kaip pusės valdybos narių iniciatyva. Valdybos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip 3 Seimo kontrolieriai.
+
+
+
+
+2. Valdybos posėdžiams pirmininkauja Seimo kontrolierių įstaigos vadovas, o jeigu jo nėra, – vyriausias pagal amžių Seimo kontrolierius.
+
+
+
+
+3. Seimo kontrolierių įstaigos valdyba savo kompetencijos klausimais priima nutarimus visų valdybos narių balsų dauguma.
+ 
+
+
+
+
+
+
+28 straipsnis. Seimo kontrolierių įstaigos vadovas
+
+
+1. Seimo Pirmininko teikimu Seimas skiria Seimo kontrolierių įstaigos vadovu vieną iš paskirtų Seimo kontrolierių.
+
+
+
+
+2. Seimo kontrolierių įstaigos vadovas yra Seimo kontrolierių įstaigai skirtų valstybės biudžeto asignavimų valdytojas.
+
+
+
+
+3. Seimo kontrolierių įstaigos vadovas, be tiesioginių kontrolieriaus pareigų, atlieka ir šias funkcijas:
+
+
+1) atstovauja Seimo kontrolierių įstaigai kaip juridiniam asmeniui ir organizuoja jos darbą;
+
+
+
+
+2) teikia Seimo kontrolierių įstaigos valdybai tvirtinti Seimo kontrolierių įstaigos struktūrą;
+
+
+
+
+3) įstatymų nustatyta tvarka priima į pareigas ir iš jų atleidžia Seimo kontrolierių įstaigos valstybės tarnautojus ir kitus darbuotojus;
+
+
+
+
+4) nustato konkrečius darbuotojų, dirbančių pagal darbo sutartis, atlyginimų koeficientus;
+
+
+
+
+5) suteikia Seimo kontrolieriams, Seimo kontrolierių įstaigos valstybės tarnautojams ir kitiems darbuotojams atostogas, siunčia juos į komandiruotes;
+
+
+
+
+6) priima sprendimus dėl Seimo kontrolierių įstaigos valstybės tarnautojų ir kitų darbuotojų kvalifikacijos kėlimo;
+
+
+
+
+7) šaukia valdybos posėdžius ir jiems pirmininkauja;
+
+
+
+
+8) skiria Seimo kontrolierių įstaigos valstybės tarnautojams ir kitiems darbuotojams tarnybines (drausmines) nuobaudas;
+
+
+
+
+9) paveda kitam Seimo kontrolieriui laikinai eiti pareigas to kontrolieriaus, kuris dėl ligos, atostogų, išvykos į užsienį ar kitų priežasčių negali eiti savo pareigų;
+
+
+
+
+10) paveda tirti konkretų skundą kitam Seimo kontrolieriui, jeigu tiriant šį skundą gali kilti interesų konfliktas.
+
+
+
+
+
+
+4. Seimo kontrolierių įstaigos vadovas savo kompetencijos klausimais leidžia įsakymus.
+ 
+
+
+
+
+
+
+
+
+V SKIRSNIS
+SEIMO KONTROLIERIŲ VEIKLOS IR KITOS GARANTIJOS
+ 
+
+
+29 straipsnis. Seimo kontrolierių darbo apmokėjimas ir socialinės garantijos
+
+
+1. Seimo kontrolierių darbo užmokesčio dydį ir apmokėjimo sąlygas nustato Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
+
+
+
+
+2. Seimo kontrolieriai draudžiami valstybiniu socialiniu draudimu Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+
+
+
+
+3. Seimo kontrolieriui kasmet suteikiamos 28 kalendorinių dienų atostogos. Seimo kontrolieriui, turinčiam didesnį kaip 5 metų tarnybos Lietuvos valstybei stažą, už kiekvienų paskesnių 3 metų tarnybos stažą suteikiamos papildomos 3 kalendorinės dienos kasmetinių atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 42 kalendorinės dienos. 
+
+
+
+
+4. Pasibaigus Seimo kontrolieriaus įgaliojimų laikui, jam išmokama 2 mėnesių atlyginimo dydžio išeitinė išmoka. Seimo kontrolieriui, atleidžiamam iš pareigų, kai jis negali eiti pareigų dėl sveikatos būklės, išmokama 3 mėnesių atlyginimo dydžio išeitinė išmoka. Seimo kontrolieriui mirus, jo šeimai išmokama 3 mėnesių atlyginimo dydžio išmoka. Šios išmokos mokamos iš Seimo kontrolierių įstaigai skirtų valstybės biudžeto lėšų. Atleidus Seimo kontrolierių paties prašymu ar kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis, ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, išeitinė išmoka nemokama. 
+
+
+
+
+5. Pasibaigus įgaliojimų laikui, išskyrus atvejus, kai dėl Seimo kontrolieriaus įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, Seimo kontrolierius turi teisę Valstybės tarnybos įstatymo nustatyta tvarka grįžti į ankstesnį darbą.
  
 
 
@@ -1001,6 +970,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
 
+ 
  
  
 Pakeitimai:
@@ -1029,3 +999,8 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo 4, 19 ir 22 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1770, 2003-10-14, Žin., 2003, Nr. 104-4640 (2003-11-05), i. k. 1031010ISTA0IX-1770
 Lietuvos Respublikos Seimo kontrolierių įstatymo 25 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2544, 2004-11-04, Žin., 2004, Nr. 170-6238 (2004-11-25), i. k. 1041010ISTA0IX-2544
+Lietuvos Respublikos Seimo kontrolierių įstatymo pakeitimo įstatymas
