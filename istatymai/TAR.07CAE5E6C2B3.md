@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 1994-02-25 iki 1996-04-11
+Suvestinė redakcija nuo 1996-04-12 iki 1997-05-13
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
- 
-TAR pastaba. Laikantis Lietuvos Respublikos Konstitucijos 15 straipsnio nuostatų, šiame įstatyme žodžiai „Lietuvos valstybinė vėliava“ pakeisti žodžiais „Lietuvos valstybės vėliava“.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
-Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybinės vėliavos" pakeitimo ir papildymo
  
 Nauja redakcija nuo 1994-02-25:
 Nr. I-397, 1994-02-17, Žin. 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
@@ -66,25 +61,19 @@ Vėliava ir jos atvaizdas visada turi atitikti Lietuvos valstybės vėliavos spa
 
 
 
-3 straipsnis
+3 straipsnis. 
 
 
 Lietuvos valstybės vėliava iškeliama:
 
 
-1) prie Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės, savivaldybių tarybų pastatų, taip pat ant Gedimino pilies bokšto Vilniuje ir ant savivaldybių tarybų sprendimuose nurodytų pastatų – nuolat.
+1) prie Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės, apskričių valdytojų administracijos, savivaldybių tarybų pastatų, taip pat ant Gedimino pilies bokšto Vilniuje – nuolat.
 Prie Lietuvos Respublikos valdžios įstaigų nuolat iškeliama tik Lietuvos valstybės vėliava. Naudoti kitų valstybių vėliavas prie Lietuvos Respublikos valdžios įstaigų, taip pat jų pastatų viduje neleidžiama, išskyrus šio įstatymo 5 straipsnyje nurodytus atvejus;
-Straipsnio punkto pakeitimai:
-Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
- 
 
 
 
 
 2) prie valstybinės valdžios ar valdymo organų, įmonių, įstaigų ir organizacijų pastatų, gyvenamųjų namų – Vasario 16-ąją, o kitomis dienomis – Lietuvos Respublikos Vyriausybei nutarus;
-Straipsnio punkto pakeitimai:
-Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
- 
 
 
 
@@ -94,10 +83,7 @@ Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA00
 
 
 
-4) laivuose ar ant kitų transporto priemonių, kur yra Lietuvos Respublikos Seimo Pirmininkas, Lietuvos Respublikos Ministras Pirmininkas, Lietuvos Respublikos užsienio reikalų ministras ar kiti asmenys, oficialiai atstovaujantys Lietuvos Respublikai, nurodytiems asmenims sutikus;
-Straipsnio punkto pakeitimai:
-Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
- 
+4) laivuose ar ant kitų transporto priemonių, kur yra Lietuvos Respublikos Prezidentas, Lietuvos Respublikos Ministras Pirmininkas, Lietuvos Respublikos užsienio reikalų ministras ar kiti asmenys, oficialiai atstovaujantys Lietuvos Respublikai, – nurodytiems asmenims sutikus;
 
 
 
@@ -112,10 +98,7 @@ Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA00
 
 
 
-7) prie balsavimo patalpų – Lietuvos Respublikos Seimo ir savivaldybių tarybų deputatų rinkimų, referendumo, visuotinės gyventojų apklausos (plebiscito) dienomis;
-Straipsnio punkto pakeitimai:
-Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
- 
+7) prie balsavimo patalpų – Lietuvos Respublikos Seimo narių ir savivaldybių tarybų deputatų rinkimų, referendumo, visuotinės gyventojų apklausos (plebiscito) dienomis;
 
 
 
@@ -130,12 +113,14 @@ Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA00
 
 
 
-10) krašto apsaugos daliniuose – vadovaujantis krašto apsaugos tarnybos statutais.
+10) krašto apsaugos daliniuose – vadovaujantis krašto apsaugos tarnybos statutais. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. I-1229, 1996-03-14, Žin., 1996, Nr. 33-806 (1996-04-12), i. k. 0961010ISTA00I-1229
  
-
-
-
-
 
 
 
@@ -355,3 +340,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-397, 1994-02-17, Žin., 1994, Nr. 15-248 (1994-02-25), i. k. 0941010ISTA000I-397
 Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybinės vėliavos" pakeitimo ir papildymo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1229, 1996-03-14, Žin., 1996, Nr. 33-806 (1996-04-12), i. k. 0961010ISTA00I-1229
+Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" 3 straipsnio pakeitimo ir papildymo įstatymas
