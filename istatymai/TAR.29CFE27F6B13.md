@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
+Suvestinė redakcija nuo 2003-05-01 iki 2006-02-10
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
+ 
+ 
 LIETUVOS RESPUBLIKOS KARIUOMENĖS DRAUSMĖS STATUTO PATVIRTINIMO Į S T A T Y M A S  
 1999 m. gegužės 20 d. Nr. VIII-1191
 Vilnius
@@ -482,7 +487,10 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 2. Karys sulaikomas esant šiems pagrindams:
 
 
-1) užkluptas darant arba įtariamas padaręs nusikaltimą; 
+1) užkluptas darant arba įtariamas padaręs nusikalstamą veiką;
+Straipsnio punkto pakeitimai:
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
+ 
 
 
 
@@ -713,7 +721,10 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 
 
 
-5) sulaikant karį, darantį Baudžiamojo kodekso numatytą nusikaltimą, jeigu kitaip kario sulaikyti neįmanoma;
+5) sulaikant karį, darantį Baudžiamojo kodekso numatytą nusikalstamą veiką, jeigu kitaip kario sulaikyti neįmanoma;
+Straipsnio punkto pakeitimai:
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
+ 
 
 
 
@@ -835,7 +846,10 @@ Drausmės pažeidimų tyrimo paskirtis:
 
 
 
-2. Drausmės pažeidimo tyrimo metu nustačius nusikaltimo požymius, vadas (viršininkas) nedelsdamas privalo imtis Baudžiamojo proceso kodekso numatytų priemonių nusikalstamos veikos įvykiui ir jį padariusiems asmenims nustatyti bei apie įvykį ir priemones, kurių imtasi įvykiui tirti, informuoti karo policiją, suteikiant jai visą kvotai atlikti reikalingą medžiagą, arba kvotą atlikti pats kariuomenės vado nustatytais atvejais.
+2. Drausmės pažeidimo tyrimo metu nustačius nusikalstamos veikos požymius, vadas (viršininkas) nedelsdamas privalo imtis Baudžiamojo proceso kodekso numatytų priemonių nusikalstamos veikos įvykiui ir jį padariusiems asmenims nustatyti bei apie įvykį ir priemones, kurių imtasi įvykiui tirti, informuoti karo policiją, suteikiant jai visą ikiteisminiam tyrimui atlikti reikalingą medžiagą.
+Straipsnio dalies pakeitimai:
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
+ 
 
 
 
@@ -941,7 +955,10 @@ Drausmės pažeidimų tyrimo paskirtis:
 
 
 
-3) nedelsdamas informuoti vadą (viršininką), paskyrusį tarnybinį patikrinimą, apie patikrinimo metu nustatytą veiką, turinčią nusikaltimo ar administracinės teisės pažeidimo požymių;
+3) nedelsdamas informuoti vadą (viršininką), paskyrusį tarnybinį patikrinimą, apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos ar administracinės teisės pažeidimo požymių;
+Straipsnio punkto pakeitimai:
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
+ 
 
 
 
@@ -2470,7 +2487,10 @@ Jei privalomosios karo tarnybos karys tarnybos metu yra neblaivus arba apsvaigę
 86 straipsnis. Krašto apsaugos sistemos turto praradimas
 
 
-1. Už ginklų, šaudmenų, sprogmenų, transporto priemonių, karinės technikos ar kitokio krašto apsaugos sistemos turto, patikėto tarnybos reikalams, praradimą dėl neatsargumo, nesant nusikaltimo požymių, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamas pataisos areštas iki 10 parų, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis, arba karys atleidžiamas iš pareigų.
+1. Už ginklų, šaudmenų, sprogmenų, transporto priemonių, karinės technikos ar kitokio krašto apsaugos sistemos turto, patikėto tarnybos reikalams, praradimą dėl neatsargumo, nesant nusikalstamos veikos požymių, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamas pataisos areštas iki 10 parų, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis, arba karys atleidžiamas iš pareigų.
+Straipsnio dalies pakeitimai:
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
+ 
 
 
 
@@ -2486,7 +2506,10 @@ Jei privalomosios karo tarnybos karys tarnybos metu yra neblaivus arba apsvaigę
 87 straipsnis. Krašto apsaugos sistemos turto sugadinimas ar sunaikinimas 
 
 
-1. Už ginklų, šaudmenų, sprogmenų, transporto priemonių, karinės technikos ar kitokio krašto apsaugos turto sugadinimą ar sunaikinimą, nesant nusikaltimo požymių, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamas pataisos areštas iki 10 parų, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis, arba karys atleidžiamas iš pareigų. 
+1. Už ginklų, šaudmenų, sprogmenų, transporto priemonių, karinės technikos ar kitokio krašto apsaugos turto sugadinimą ar sunaikinimą, nesant nusikalstamos veikos požymių, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamas pataisos areštas iki 10 parų, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis, arba karys atleidžiamas iš pareigų.
+Straipsnio dalies pakeitimai:
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
+ 
 
 
 
@@ -2719,3 +2742,16 @@ Už šiame statute numatytą drausmės pažeidimą, padarytą atsargos arba dimi
 
 
 ______________
+ 
+
+
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1429, 2003-04-03, Žin., 2003, Nr. 38-1674 (2003-04-24), i. k. 1031010ISTA0IX-1429
+Lietuvos Respublikos kariuomenės drausmės statuto 16, 22, 25, 28, 86 ir 87 straipsnių pakeitimo įstatymas
