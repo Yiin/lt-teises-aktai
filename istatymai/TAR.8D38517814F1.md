@@ -181,8 +181,7 @@ turi gauti gamtos išteklių naudojimo leidimus Aplinkos ministerijos nustatyta
 tvarka.
 2. Įmonės, turinčios gamtos
 išteklių naudojimo leidimus naudoti ar šalinti atliekas, savo veiklą gali
-nutraukti tik pagal šio įstatymo 15 straipsnyje įmonei nustatytus atliekų
-naudojimo ar šalinimo reikalavimus.
+nutraukti tik pagal šio įstatymo 15 straipsnyje įmonei nustatytus atliekų naudojimo ar šalinimo reikalavimus.
  
 7
 straipsnis. Medžiagų ir gaminių gamybos, importo, prekybos ir naudojimo 
@@ -422,22 +421,32 @@ prevenciją ir kaupti lėšas atliekoms tvarkyti, Lietuvos Respublikos įstatyma
 nustato mokesčius už medžiagas ir gaminius, tarp jų tarą ir pakuotę, dėl kurių
 naudojimo susidaro atliekos.
  
+[2 dalies redakcija
+nuo 2003 m. sausio 1 d.:
+2. Siekiant
+skatinti atliekų prevenciją ir kaupti lėšas atliekoms tvarkyti, Mokesčio už
+aplinkos teršimą įstatymas nustato mokestį už aplinkos teršimą gaminių  ir (ar)
+pakuotės atliekomis.]
+Straipsnio pakeitimai:
+Nr. IX-721,
+2002-01-22, Žin., 2002, Nr. 13-475 (2002-02-06), įsigalioja nuo 2003-01-01
+ 
 33
 straipsnis. Atliekų tvarkymo finansavimo šaltiniai
 Atliekų tvarkymo finansavimo
 šaltiniai:
 1) Valstybinis atliekų tvarkymo
 fondas;
+ 
+[1 punkto
+redakcija nuo 2003 m. sausio 1 d.:
+1) Gaminių ar pakuotės atliekų
+tvarkymo programos lėšos;]
+ 
 2) valstybės biudžetas ir
 savivaldybių biudžetai;
-3) Valstybinis gamtos apsaugos
-fondas;
- 
-[3 punkto
-redakcija nuo 2001 m. sausio 1 d.:
 3) Aplinkos apsaugos rėmimo
-programos lėšos;]
- 
+programos lėšos;
 4) savivaldybių gamtos apsaugos
 fondai;
 5) Lietuvos aplinkos apsaugos
@@ -448,10 +457,17 @@ kredituoti;
 7)
 užsienio šalių, tarptautinių organizacijų ir finansinių institucijų bei
 Lietuvos Respublikos juridinių ir fizinių asmenų tiksliniai įnašai.
+ 
+[6 punktas
+netenka galios, buvęs 7 punktas laikomas 6 punktu nuo 2003 m. sausio 1 d.:
+6)
+užsienio šalių, tarptautinių organizacijų ir finansinių institucijų bei
+Lietuvos Respublikos juridinių ir fizinių asmenų tiksliniai įnašai.]
 Straipsnio pakeitimai:
 Nr. VIII-2029, 2000 10 12, Žin., 2000, Nr.
 90-2776 (2000 10 27), įsigalioja nuo 2001 01 01
- 
+Nr. IX-721,
+2002-01-22, Žin., 2002, Nr. 13-475 (2002-02-06) , įsigalioja nuo 2003-01-01
  
 34
 straipsnis. Valstybinis atliekų tvarkymo fondas
@@ -473,6 +489,74 @@ finansavimo šatiniai.
 Valstybinio atliekų tvarkymo fondo lėšos naudojamos atliekų tvarkymo sistemos
 įgyvendinimo išlaidoms finansuoti Valstybinio atliekų tvarkymo fondo įstatymo
 nustatyta tvarka.
+ 
+[34 straipsnio
+redakcija nuo 2003 m. sausio 1 d.:
+34 straipsnis.
+Gaminių ar pakuotės atliekų tvarkymo programa
+1. Atliekų tvarkymo finansavimo galimybėms padidinti sudaroma Gaminių
+ar pakuotės atliekų tvarkymo programa (toliau – Programa).
+2. Programos lėšas sudaro
+Mokesčio už aplinkos teršimą įstatyme nustatytas mokestis už aplinkos teršimą
+gaminių ir (ar) pakuotės atliekomis.
+3. Programos lėšos naudojamos apmokestinamųjų gaminių
+ir (ar) pakuotės atliekų:
+1) surinkimo, rūšiavimo ir perdirbimo arba naudojimo
+energijai gauti išlaidoms kompensuoti;
+2) surinkimui, rūšiavimui ir perdirbimui arba
+naudojimui energijai gauti, investiciniams projektams rengti, vertinti ir
+įgyvendinti;
+3) šiems investiciniams projektams įgyvendinti
+naudojamų paskolų palūkanoms dotuoti;
+4) mažaatliekėms technologijoms kurti bei jų taikymui
+skatinti.
+4. Pagrindiniai  Programos lėšų naudojimo principai:
+1) apmokestinamųjų gaminių ir (ar) pakuotės atliekų tvarkymo išlaidos
+kompensuojamos tik tada, kai galutinis šių atliekų sutvarkymas yra naudojimas
+pagal šio įstatymo 2 straipsnį, išskyrus šio straipsnio 4 dalies 2 punkte
+numatytus atvejus;
+2) išlaidos apmokestinamųjų gaminių ir (ar) pakuotės atliekoms surinkti
+ir saugiai pašalinti gali būti kompensuojamos tik tada, kai šioms atliekoms
+panaudoti nėra technologijų;
+3) apmokestinamųjų gaminių ir (ar) pakuotės atliekų tvarkytojams
+mokamos kompensacijos neturi viršyti apmokestinamųjų gaminių ir (ar) pakuotės
+atliekų tvarkymo išlaidų ir už sutvarkytas gaminių ir (ar) pakuotės  atliekas
+gaunamų pajamų skirtumo;
+4) kompensacijos apskaičiuojamos vienam panaudotų
+atliekų svorio ar tūrio vienetui ir mokamos už panaudotą ar pašalintą (pagal
+šio straipsnio 4 dalies 2 punktą) apmokestinamųjų gaminių ir (ar) pakuotės
+atliekų kiekį, išskyrus tą atliekų kiekį, už kurį mokėtojai pagal Mokesčio už
+aplinkos teršimą įstatymą atleidžiami nuo mokesčio už aplinkos teršimą gaminių
+ir (ar) pakuotės atliekomis;
+5) lėšos, sukauptos apmokestinus mokesčiu už aplinkos
+teršimą gaminių ir (ar) pakuotės atliekomis tam tikrą gaminių grupę ir (ar)
+pakuotės rūšį, naudojamos tik tos gaminių grupės ar pakuotės rūšies atliekoms
+surinkti, rūšiuoti ir perdirbti arba naudoti energijai gauti. Jei tokio lėšų
+poreikio einamaisiais metais nėra, lėšos  gali būti  naudojamos  kitų
+apmokestinamųjų gaminių ir (ar) pakuotės atliekoms tvarkyti;
+6) apmokestinamųjų gaminių ir (ar) pakuotės atliekų
+tvarkymo investiciniai projektai Programos lėšomis finansuojami tik tais
+atvejais, kai minėtų gaminių ir (ar) pakuotės atliekoms tvarkyti nėra būtinų
+pajėgumų arba yra įgyvendinti tik atskiri šių atliekų tvarkymo etapai;
+7) Programos lėšos, nepanaudotos einamaisiais
+biudžetiniais metais, yra naudojamos kitais metais šio straipsnio 3 dalyje
+numatytoms priemonėms finansuoti.
+5. Programos lėšų valdymo bendrosios nuostatos:
+1) metines Programos lėšų panaudojimo sąmatas ir ataskaitas rengia bei
+Programos lėšas administruoja Vyriausybės įgaliota institucija;
+2) Programos priemonėms ir metinėms Programos lėšų panaudojimo sąmatoms
+pritaria Programos lėšų panaudojimo taryba (toliau – Taryba), o jas tvirtina
+Vyriausybė arba jos įgaliota institucija;
+3)
+Tarybą sudaro Vyriausybės institucijų, mokesčio už aplinkos teršimą gaminių ir
+(ar) pakuotės atliekomis mokėtojų ar jiems atstovaujančių organizacijų,
+apmokestinamųjų gaminių ir pakuotės atliekų tvarkytojų ar jiems atstovaujančių
+organizacijų, pakuočių gamintojų ar jiems atstovaujančių organizacijų bei
+Lietuvos savivaldybių asociacijos atstovai. Tarybos sudėtį tvirtina Vyriausybė
+ar jos įgaliota institucija.]
+Straipsnio pakeitimai:
+Nr. IX-721,
+2002-01-22, Žin., 2002, Nr. 13-475 (2002-02-06), įsigalioja nuo 2003-01-01
  
 35
 straipsnis. Pavojingų atliekų tvarkymo garantas
@@ -516,7 +600,20 @@ ATLIEKŲ TVARKYMO ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja nuo 2001 m. sausio 1 d.
  
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-721,
+2002-01-22, Žin., 2002, Nr. 13-475 (2002-02-06)
+ATLIEKŲ TVARKYMO ĮSTATYMO 32, 33,
+34 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis Įstatymas
+įsigalioja nuo 2003 m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000 11 10)
+Redagavo: Aušrinė Trapinskienė
+(2002-02-08)
+                 
+autrap@lrs.lt
