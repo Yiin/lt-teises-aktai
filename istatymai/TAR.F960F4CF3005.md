@@ -24,10 +24,11 @@ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS
 1997 m. liepos 2 d. Nr. VIII-385
 Vilnius
  
+ 
 Nauja įstatymo
 redakcija:
 Nr. VIII-1362,
-1999.10.19, Žin., 1999, Nr.93-2709 (1999.11.04)
+1999.10.19, Žin., 1999, Nr. 93-2709 (1999.11.04)
 Nr. IX-566, 2001-10-23,
 Žin., 2001, Nr. 94-3307 (2001-11-09)
  
@@ -74,12 +75,27 @@ finansinių rodiklių patvirtinimo įstatymu patvirtintas šio mokesčio į
 Privalomojo sveikatos draudimo fondo biudžetą ir į valstybės biudžetą dalis
 (procentais). Likusi fizinių asmenų pajamų mokesčio dalis pervedama į Valstybės
 iždo sąskaitą;
+ 
+[2 punkto
+redakcija nuo 2003 m. sausio 1 d.:
+2) šio Įstatymo priedėlyje nurodytą gyventojų pajamų mokesčio dalį
+(procentais), iš apskaičiuotos gyventojų pajamų mokesčio sumos atskaitęs atitinkamų
+metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
+patvirtinimo įstatymu patvirtintas šio mokesčio į Privalomojo sveikatos
+draudimo fondo biudžetą ir į valstybės biudžetą dalis (procentais). Likusi
+gyventojų pajamų mokesčio dalis pervedama į Valstybės
+iždo sąskaitą;]
+ 
 3) nemokestines
 pajamas, kurias savivaldybės biudžetui pagal įstatymus sumoka fiziniai ir
 juridiniai asmenys.
+Straipsnio
+pakeitimai:
+Nr. IX-1235,
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
  
-4 straipsnis. Valstybės
-biudžeto dotacijos savivaldybių biudžetams 
+4 straipsnis.
+Valstybės biudžeto dotacijos savivaldybių biudžetams 
 Savivaldybės
 gauna valstybės biudžeto dotacijų. Jų apskaičiavimo, tvirtinimo ir pervedimo
 tvarką nustato šis Įstatymas.
@@ -100,6 +116,17 @@ tikslui lėšų, apskaičiuotų pagal šio Įstatymo 6 ir 7 straipsnius (kai åL
 , tai BD1 = åL1i – åPi ; kai åL1i
 <= åPi
 , tai BD1 = 0);
+ 
+[1 dalies 1
+punkto redakcija nuo 2003 m. sausio 1 d.:
+1) savivaldybių gyventojų pajamų mokesčiui išlyginti (BD1),
+kai prognozuojama, kad Valstybės iždo sąskaitoje trūks šiam tikslui lėšų,
+apskaičiuotų pagal šio Įstatymo 6 ir 7 straipsnius (kai åL1i
+> åPi
+, tai BD1 = åL1i – åPi ; kai åL1i
+<= åPi
+, tai BD1 = 0);]
+ 
 2) savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia
 nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti (BD2),
 kai prognozuojama, kad Valstybės iždo sąskaitoje šiam tikslui trūks lėšų,
@@ -121,6 +148,10 @@ kompensuoti.
 4. Dotacijų dydžiai savivaldybėms tvirtinami atitinkamų
 biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių
 rodiklių patvirtinimo įstatymu.
+Straipsnio
+pakeitimai:
+Nr. IX-1235,
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
  
 6
 straipsnis. Lėšų, skiriamų savivaldybių fizinių asmenų pajamų mokesčiui ir
@@ -134,6 +165,26 @@ apskaičiuota atskirų savivaldybių fizinių asmenų pajamų mokesčio dalis Pi
 (procentais), kurią Valstybinės mokesčių inspekcijos prie Finansų ministerijos
 teritorinės valstybinės mokesčių inspekcijos – vietos mokesčių administratoriai
 perveda į Valstybės iždo sąskaitą (3 straipsnio 2 punktas, (L =åPi).
+[6 straipsnio
+redakcija nuo 2003 m. sausio 1 d.:
+6
+straipsnis. Lėšų, skiriamų savivaldybių gyventojų pajamų mokesčiui ir išlaidų
+
+struktūrų
+skirtumams išlyginti, dydis
+Lėšas (L),
+skiriamas savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų
+skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs
+veiksniai, išlyginti, sudaro likusi apskaičiuota atskirų savivaldybių gyventojų
+pajamų
+mokesčio dalis Pi (procentais), kurią Valstybinės mokesčių inspekcijos prie
+Finansų ministerijos teritorinės valstybinės mokesčių inspekcijos – vietos
+mokesčių administratoriai perveda į Valstybės iždo sąskaitą (3 straipsnio 2
+punktas, (L = åPi).]
+Straipsnio
+pakeitimai:
+Nr. IX-1235,
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
  
 7
 straipsnis. Lėšų, skiriamų savivaldybių fizinių asmenų pajamų mokesčiui
@@ -157,8 +208,9 @@ savivaldybės gyventojui (xif), pagal formulę L1i = Gi
 fizinių asmenų pajamų mokesčiui išlyginti; 
 2) Gi – i-osios savivaldybės gyventojų skaičius;
 
-3) xf – faktinės praėjusio mėnesio visų savivaldybių
-vidutinės pajamos iš fizinių asmenų pajamų mokesčio vienam gyventojui; 
+3) xf – faktinės praėjusio mėnesio visų
+savivaldybių vidutinės pajamos iš fizinių asmenų pajamų mokesčio vienam
+gyventojui; 
 4) xif – faktinės praėjusio mėnesio i-osios savivaldybės pajamos iš fizinių asmenų pajamų
 mokesčio vienam savivaldybės gyventojui;
 5) BD1i – i-ajai savivaldybei skiriama valstybės
@@ -169,8 +221,9 @@ dalis.
 3. Kai Valstybės iždo sąskaitoje pritrūksta lėšų fizinių
 asmenų pajamų mokesčiui išlyginti, apskaičiuota trūkstama suma pervedama
 kiekvienai savivaldybei iš kito mėnesio įplaukų Valstybės iždo sąskaitoje. Jei
-pajamos iš fizinių asmenų pajamų mokesčio apskaičiuotos pagal šio straipsnio 2 dalies
-formulę, liktų neišlygintos, trūkstama suma dengiama iš valstybės biudžeto.
+pajamos iš fizinių asmenų pajamų mokesčio apskaičiuotos pagal šio straipsnio 2
+dalies formulę, liktų neišlygintos, trūkstama suma dengiama iš valstybės
+biudžeto.
 4. Valstybės biudžeto bendrosios dotacijos dalis (BD1),
 skiriama savivaldybei ateinančių biudžetinių metų fizinių asmenų pajamų
 mokesčiui išlyginti, apskaičiuojama pagal formulę 
@@ -190,6 +243,65 @@ fizinių asmenų pajamų mokesčio vienam savivaldybės gyventojui.
 5. Faktinės pajamos iš fizinių asmenų pajamų mokesčio
 vienam savivaldybės gyventojui ir visų savivaldybių gyventojams apskaičiuojamos
 pagal nustatytos Mokesčių ir kitų įmokų į biudžetus apyskaitos duomenis.
+[7 straipsnio
+redakcija nuo 2003 m. sausio 1 d.:
+7
+straipsnis. Lėšų, skiriamų savivaldybių gyventojų pajamų mokesčiui išlyginti, 
+paskirstymas
+1. Iš lėšų (L), skiriamų savivaldybių gyventojų pajamų
+mokesčiui ir išlaidų struktūrų skirtumams išlyginti, dalies savivaldybių
+gyventojų pajamų mokesčiui išlyginti (L1) remiamos tos savivaldybės,
+kurių faktinės praėjusio mėnesio pajamos iš gyventojų pajamų mokesčio vienam
+savivaldybės gyventojui yra mažesnės už faktines praėjusio mėnesio visų
+savivaldybių vidutines pajamas iš gyventojų pajamų mokesčio vienam gyventojui. 
+2. Remiama savivaldybė gauna nustatytą vienodą dalį (h)
+skirtumo, susidarančio tarp faktinių praėjusio mėnesio visų savivaldybių
+vidutinių pajamų iš gyventojų pajamų mokesčio vienam gyventojui (xf)
+ir faktinių praėjusio mėnesio pajamų iš gyventojų pajamų mokesčio vienam
+savivaldybės gyventojui (xif), pagal formulę L1i = Gi
+· h · (xf – xif ) – (BD1i /12), čia:
+1) L1i – i-ajai savivaldybei skiriama lėšų dalis
+gyventojų pajamų mokesčiui išlyginti; 
+2) Gi – i-osios savivaldybės gyventojų skaičius;
+
+3) xf – faktinės praėjusio mėnesio visų
+savivaldybių vidutinės pajamos iš gyventojų pajamų mokesčio vienam gyventojui; 
+4) xif – faktinės praėjusio mėnesio i-osios
+savivaldybės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės
+gyventojui;
+5) BD1i – i-ajai savivaldybei skiriama valstybės
+biudžeto bendrosios dotacijos dalis gyventojų pajamų mokesčiui išlyginti;
+6) h – 0,9 – išlyginimo koeficientas, nuo kurio priklauso
+kiekvienos savivaldybės gaunamų lėšų gyventojų pajamų mokesčiui išlyginti
+dalis.
+3. Kai Valstybės iždo sąskaitoje pritrūksta lėšų gyventojų
+pajamų mokesčiui išlyginti, apskaičiuota trūkstama suma pervedama kiekvienai
+savivaldybei iš kito mėnesio įplaukų Valstybės iždo sąskaitoje. Jei pajamos iš
+gyventojų pajamų mokesčio, apskaičiuotos pagal šio straipsnio 2 dalies formulę,
+liktų neišlygintos, trūkstama suma dengiama iš valstybės biudžeto.
+4. Valstybės biudžeto bendrosios dotacijos dalis (BD1),
+skiriama savivaldybei ateinančių biudžetinių metų gyventojų pajamų mokesčiui
+išlyginti, apskaičiuojama pagal formulę 
+BD1i= BD1 · [Gi · h · (xf – xif
+)] / åGi
+· h · (xf – xif ), čia:
+1) BD1i – i-ajai savivaldybei skiriama valstybės
+biudžeto bendrosios dotacijos dalis gyventojų pajamų mokesčiui išlyginti;
+2) BD1 – valstybės biudžeto bendrosios dotacijos
+dalis gyventojų pajamų mokesčiui išlyginti;
+3) xf – faktinės (arba numatomos faktiškai
+gauti) biudžetinių metų visų savivaldybių vidutinės pajamos iš gyventojų pajamų
+mokesčio vienam gyventojui;
+4) xif – faktinės (arba numatomos faktiškai
+gauti) biudžetinių metų i-osios savivaldybės vidutinės pajamos iš gyventojų
+pajamų mokesčio vienam savivaldybės gyventojui.
+5. Faktinės pajamos iš gyventojų pajamų mokesčio vienam
+savivaldybės gyventojui ir visų savivaldybių gyventojams apskaičiuojamos pagal
+nustatytos Mokesčių ir kitų įmokų į biudžetus apyskaitos duomenis.]
+Straipsnio
+pakeitimai:
+Nr. IX-1235,
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
  
 8
 straipsnis. Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams išlyginti,
@@ -222,6 +334,17 @@ ar kito rodiklio dalis, apskaičiuota pagal formulę ,
 čia Rni – i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant
 Eni, imama Rni tik tų savivaldybių, kurių fizinių asmenų
 pajamų mokesčio dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.
+ 
+[3 dalies 3
+punkto redakcija nuo 2003 m. sausio 1 d.:
+3) Eni – i-ajai savivaldybei tenkanti
+visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis,
+apskaičiuota pagal formulę , čia Rni
+– i-osios savivaldybės 
+n-ojo rodiklio reikšmė. Skaičiuojant Eni, imama Rni tik
+tų savivaldybių, kurių gyventojų pajamų mokesčio dalis, patvirtinta šio
+Įstatymo priedėlyje, yra 100 procentų.]
+ 
 4. Valstybės
 biudžeto bendrosios dotacijos dalis (BD2i), skiriama savivaldybei
 išlaidų struktūrų skirtumams išlyginti, apskaičiuojama pagal formulę , čia:
@@ -238,6 +361,19 @@ savivaldybės
 n-ojo rodiklio reikšmė. Skaičiuojant Eni, imama Rni tik
 tų savivaldybių, kurių fizinių asmenų pajamų mokesčio dalis, patvirtinta šio
 Įstatymo priedėlyje, yra 100 procentų.
+ 
+[4 dalies 3
+punkto redakcija nuo 2003 m. sausio 1 d.:
+3) Eni – i-ajai savivaldybei
+tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio
+dalis, apskaičiuojama pagal formulę , čia Rni
+– i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant Eni,
+imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio
+dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.]
+Straipsnio
+pakeitimai:
+Nr. IX-1235,
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
  
 KETVIRTASIS
 SKIRSNIS
@@ -281,11 +417,50 @@ rodiklis R8 – kurorto statusą turinčių
 savivaldybių gyventojų tankumui priešingas rodiklis, kurio koeficientas
 K8 lygus 0,04.
 2. Savivaldybės gyventojų skaičius, demografinių,
-socialinių ir kitų rodiklių, nurodytų šio straipsnio 1 dalyje, duomenys, kuriais
-vadovaujantis išlyginami ateinančių biudžetinių metų savivaldybių fizinių
-asmenų pajamų mokestis ir išlaidų struktūrų skirtumai, imami tokie, kokie buvo
-paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių duomenų
-bazėse.
+socialinių ir kitų rodiklių, nurodytų šio straipsnio 1 dalyje, duomenys,
+kuriais vadovaujantis išlyginami ateinančių biudžetinių metų savivaldybių
+fizinių asmenų pajamų mokestis ir išlaidų struktūrų skirtumai, imami tokie,
+kokie buvo paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių
+duomenų bazėse.
+[9 straipsnio
+redakcija nuo 2003 m. sausio 1 d.:
+9
+straipsnis. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai
+Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys
+rodikliai yra išlyginimo koeficientas h, nuo kurio priklauso kiekvienos
+savivaldybės gaunamų lėšų gyventojų pajamų mokesčiui išlyginti dalis;
+kiekvienos savivaldybės biudžetui skiriama gyventojų pajamų mokesčio dalis
+(procentais), patvirtinta šio Įstatymo priedėlyje; taip pat šie demografiniai,
+socialiniai ir kiti rodikliai bei jų koeficientai, nurodantys šių rodiklių
+įtaką savivaldybių išlaidų struktūrų skirtumų pasikeitimui:
+1) rodiklis R1 – vietinių kelių ir gatvių ilgis,
+kurio koeficientas K1 lygus 0,13;
+2) rodiklis R2 – savivaldybės teritorijos
+plotas, kurio koeficientas K2 lygus 0,17;
+3) rodiklis R3 – pensinio amžiaus gyventojų
+skaičius, kurio koeficientas K3 lygus 0,13;
+4) rodiklis R4 – vaikų nuo 7 iki 17 metų
+skaičius, kurio koeficientas K4 lygus 0,11;
+5) rodiklis R5 – vaikų nuo 0 iki 6 metų
+skaičius, kurio koeficientas K5 lygus 0,25;
+6) rodiklis R6 – savivaldybei priklausančių (iš
+savivaldybės biudžeto finansuojamų) švietimo įstaigų patalpų naudingas plotas,
+kurio koeficientas K6 lygus 0,13;
+7) rodiklis R7 – savivaldybės teritorijos
+užstatytas plotas, kurio koeficientas K7 lygus 0,04;
+8) rodiklis R8 – kurorto statusą turinčių
+savivaldybių gyventojų tankumui priešingas rodiklis, kurio koeficientas K8
+lygus 0,04.
+2. Savivaldybės gyventojų skaičius, demografinių,
+socialinių ir kitų rodiklių, nurodytų šio straipsnio 1 dalyje, duomenys,
+kuriais vadovaujantis išlyginami ateinančių biudžetinių metų savivaldybių
+gyventojų pajamų mokestis ir išlaidų struktūrų skirtumai, imami tokie, kokie
+buvo paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių
+duomenų bazėse.]
+Straipsnio
+pakeitimai:
+Nr. IX-1235,
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
  
 10 straipsnis.
 Finansinių rodiklių tvirtinimas bei lėšų pervedimas 
@@ -296,20 +471,45 @@ neįskaitytos Privalomojo sveikatos draudimo fondo biudžetui ir valstybės
 biudžetui skiriamos dalys), tenkančią visų savivaldybių biudžetams. Jos dydis
 koreguojamas, atsižvelgiant į einamųjų ar ateinančių biudžetinių metų Seimo ir
 Vyriausybės sprendimų nulemtus savivaldybių išlaidų ar pajamų pokyčius;
+ 
+[1 dalies 1
+punkto redakcija nuo 2003 m. sausio 1 d.:
+1) gyventojų pajamų mokesčio dalį (į kurią neįskaitytos
+Privalomojo sveikatos draudimo fondo biudžetui ir valstybės biudžetui skiriamos
+dalys), tenkančią visų savivaldybių biudžetams. Jos dydis koreguojamas,
+atsižvelgiant į einamųjų ar ateinančių biudžetinių metų Seimo ir Vyriausybės
+sprendimų nulemtus savivaldybių išlaidų ar pajamų pokyčius;]
+ 
 2) valstybės biudžeto bendrosios dotacijos (jeigu ji
 numatoma) dalį, skiriamą kiekvienai savivaldybei fizinių asmenų pajamų
 mokesčiui išlyginti;
 3) valstybės biudžeto bendrosios dotacijos (jeigu ji
 numatoma) dalį, skiriamą kiekvienai savivaldybei išlaidų struktūrų skirtumams
 išlyginti;
-4) valstybės biudžeto specialias tikslines dotacijas,
-skiriamas kiekvienai savivaldybei;
+4) valstybės biudžeto specialias tikslines dotacijas, skiriamas
+kiekvienai savivaldybei;
 5) valstybės biudžeto bendrosios dotacijos (jeigu ji
 numatoma) kompensacijų sumas, skiriamas kiekvienai savivaldybei.
 2. Patvirtintas valstybės biudžeto dotacijų sumas,
-nurodytas šio straipsnio 
-1 dalyje, Finansų ministerija savivaldybėms perveda kas ketvirtį lygiomis
-dalimis.
+nurodytas šio straipsnio 1 dalyje, Finansų ministerija savivaldybėms perveda
+kas ketvirtį lygiomis dalimis.
+ 
+[2 dalies
+redakcija nuo 2003 m. sausio 1 d.:
+2. Patvirtintas valstybės biudžeto dotacijų sumas,
+nurodytas šio straipsnio 1 dalyje, išskyrus specialią tikslinę dotaciją
+valstybės investicijų programoje numatytiems projektams ir priskirtajai
+(ribotai savarankiškai) vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo
+organizavimo savivaldybių funkcijai finansuoti, Finansų ministerija perveda kas
+ketvirtį lygiomis dalimis. Speciali tikslinė dotacija valstybės investicijų
+programoje numatytiems projektams finansuoti pervedama atsižvelgiant į
+faktiškai atliktus darbus, nurodytus Finansų ministerijai savivaldybių
+teikiamose paraiškose, o speciali tikslinė dotacija priskirtajai (ribotai
+savarankiškai) vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo organizavimo
+savivaldybių funkcijai finansuoti pervedama atsižvelgiant į lėšų poreikį
+švietimo įstaigų darbuotojams – pedagogams darbo užmokesčiui už kasmetines
+atostogas mokėti.]
+ 
 3. Faktiškai gautas į Valstybės iždo sąskaitą lėšas,
 nurodytas 6 straipsnyje, Finansų ministerija apskaičiuoja pagal 7 ir 8
 straipsniuose pateiktas formules ir ne rečiau kaip keturis kartus per mėnesį
@@ -326,6 +526,22 @@ bendrosios dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir
 išlaidų pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o
 ateinančiais biudžetiniais metais koreguojama fizinių asmenų pajamų mokesčio
 dalis, tenkanti visų savivaldybių biudžetams.
+ 
+[4 dalies
+redakcija nuo 2003 m. sausio 1 d.:
+4. Jeigu
+Seimas ar Vyriausybė biudžetiniais metais priima ar ateinančiais biudžetiniais
+metais numato priimti sprendimus, dėl kurių keičiasi savivaldybių biudžetų
+pajamos ir išlaidos, pajamų ir išlaidų pokyčiai, išskyrus
+pokyčius, kuriais savivaldybių biudžetai sumažėja dėl žemės nuomos mokesčio už
+valstybinę žemę laisvosios ekonominės zonos teritorijoje, panaudoto šioje
+teritorijoje esančiai žemei išpirkti iš žemės savininkų, kompensuojami.
+Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto
+bendrosios dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir
+išlaidų pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o
+ateinančiais biudžetiniais metais koreguojama gyventojų pajamų mokesčio dalis,
+tenkanti visų savivaldybių biudžetams.]
+ 
 5. Valstybės biudžeto bendrosios dotacijos kompensacija,
 taip pat iš savivaldybių biudžetų paimamos sumos, susijusios su savivaldybių
 pajamų ir išlaidų pasikeitimu, apskaičiuojamos:
@@ -343,10 +559,11 @@ taikant konkrečius valstybės institucijų, įstaigų ir savivaldybių suderint
 biudžetų einamųjų metų įsipareigojimai, Finansų ministerija bei savivaldybių
 vykdomosios institucijos patikslina valstybės biudžeto ir savivaldybių biudžetų
 tarpusavio atsiskaitymus.
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
 Nr. IX-974,
 2002-06-20, Žin., 2002, Nr. 68-2773 (2002-07-03)
+Nr. IX-1235,
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
  
 11 straipsnis.
 Finansinių rodiklių derinimas
@@ -368,6 +585,8 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                     VALDAS
 ADAMKUS
  
+Priedėlio
+redakcija iki 2003 m. sausio 1 d.:
                                                                                                         Įstatymo
 priedėlis
  
@@ -904,7 +1123,551 @@ Rietavo
 
 
  
-_____________
+ 
+
+
+Priedėlio
+redakcija nuo 2003 m. sausio 1 d.:
+Įstatymo priedėlis
+ 
+SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMOS GYVENTOJŲ PAJAMŲ
+MOKESČIO DALYS (PROCENTAIS)
+ 
+
+
+
+Savivaldybės pavadinimas
+
+
+Fizinių asmenų pajamų mokesčio dalis (proc.)
+
+
+ 
+
+
+Savivaldybės pavadinimas
+
+
+Fizinių asmenų pajamų mokesčio dalis (proc.)
+
+
+
+
+Vilniaus miesto
+
+
+40
+
+
+ 
+
+
+Pakruojo rajono
+
+
+100
+
+
+
+
+Alytaus miesto
+
+
+100
+
+
+ 
+
+
+Panevėžio rajono
+
+
+100
+
+
+
+
+Birštono 
+
+
+100
+
+
+ 
+
+
+Pasvalio rajono
+
+
+100
+
+
+
+
+Druskininkų
+
+
+100
+
+
+ 
+
+
+Plungės rajono
+
+
+100
+
+
+
+
+Kauno miesto
+
+
+74
+
+
+ 
+
+
+Prienų rajono
+
+
+100
+
+
+
+
+Klaipėdos miesto
+
+
+64
+
+
+ 
+
+
+Radviliškio rajono
+
+
+100
+
+
+
+
+Marijampolės
+
+
+100
+
+
+ 
+
+
+Raseinių rajono
+
+
+100
+
+
+
+
+Neringos
+
+
+100
+
+
+ 
+
+
+Rokiškio rajono
+
+
+100
+
+
+
+
+Palangos miesto
+
+
+70
+
+
+ 
+
+
+Skuodo rajono
+
+
+100
+
+
+
+
+Panevėžio miesto
+
+
+84
+
+
+ 
+
+
+Šakių rajono
+
+
+100
+
+
+
+
+Šiaulių miesto
+
+
+96
+
+
+ 
+
+
+Šalčininkų rajono
+
+
+100
+
+
+
+
+Visagino 
+
+
+100
+
+
+ 
+
+
+Šiaulių rajono
+
+
+100
+
+
+
+
+Akmenės rajono
+
+
+100
+
+
+ 
+
+
+Šilalės rajono
+
+
+100
+
+
+
+
+Alytaus rajono
+
+
+100
+
+
+ 
+
+
+Šilutės rajono
+
+
+100
+
+
+
+
+Anykščių rajono
+
+
+100
+
+
+ 
+
+
+Širvintų rajono
+
+
+100
+
+
+
+
+Biržų rajono
+
+
+100
+
+
+ 
+
+
+Švenčionių rajono
+
+
+100
+
+
+
+
+Ignalinos rajono
+
+
+100
+
+
+ 
+
+
+Tauragės rajono
+
+
+100
+
+
+
+
+Jonavos rajono
+
+
+100
+
+
+ 
+
+
+Telšių rajono
+
+
+100
+
+
+
+
+Joniškio rajono
+
+
+100
+
+
+ 
+
+
+Trakų rajono
+
+
+100
+
+
+
+
+Jurbarko rajono
+
+
+100
+
+
+ 
+
+
+Ukmergės rajono
+
+
+100
+
+
+
+
+Kaišiadorių rajono
+
+
+100
+
+
+ 
+
+
+Utenos rajono
+
+
+100
+
+
+
+
+Kauno rajono
+
+
+100
+
+
+ 
+
+
+Varėnos rajono
+
+
+100
+
+
+
+
+Kėdainių rajono
+
+
+100
+
+
+ 
+
+
+Vilkaviškio rajono
+
+
+100
+
+
+
+
+Kelmės rajono
+
+
+100
+
+
+ 
+
+
+Vilniaus rajono
+
+
+100
+
+
+
+
+Klaipėdos rajono
+
+
+100
+
+
+ 
+
+
+Zarasų rajono
+
+
+100
+
+
+
+
+Kretingos rajono
+
+
+100
+
+
+ 
+
+
+Elektrėnų
+
+
+100
+
+
+
+
+Kupiškio rajono
+
+
+100
+
+
+ 
+
+
+Kalvarijos
+
+
+100
+
+
+
+
+Lazdijų rajono
+
+
+100
+
+
+ 
+
+
+Kazlų Rūdos 
+
+
+100
+
+
+
+
+Mažeikių rajono
+
+
+55
+
+
+ 
+
+
+Pagėgių 
+
+
+100
+
+
+
+
+Molėtų rajono
+
+
+100
+
+
+ 
+
+
+Rietavo 
+
+
+100
+
+
+
+Priedėlio
+pakeitimai:
+Nr. IX-1235,
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
+ 
+_____________________
  
 Pakeitimai:
 1.
@@ -942,9 +1705,9 @@ IX-566,
 2001-10-23, Žin., 2001, Nr. 94-3307 (2001-11-09)
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Šio Įstatymo nuostatomis Vyriausybė pradeda vadovautis rengdama
-2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
-patvirtinimo įstatymo projektą.
+Šio Įstatymo nuostatomis Vyriausybė pradeda vadovautis
+rengdama 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių
+rodiklių patvirtinimo įstatymo projektą.
 Nauja įstatymo redakcija
  
 5.
@@ -956,11 +1719,23 @@ IX-974,
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1235,
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
+SAVIVALDYBIŲ
+BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 3, 5, 6, 7, 8, 9, 10 STRAIPSNIŲ IR
+PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-07-03)
+Aušrinė Trapinskienė (2003-01-24)
                  
 autrap@lrs.lt
