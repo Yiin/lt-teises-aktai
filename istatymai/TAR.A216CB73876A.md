@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A216CB73876A"
 
 # Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymas
 
-Suvestinė redakcija nuo 1991-01-01 iki 1994-05-24
+Suvestinė redakcija nuo 1994-05-25
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-592, i. k. 090XX01ISTA000I-422
  
@@ -522,10 +522,12 @@ Nustatyti, kad šio įstatymo 14 straipsnio antrojoje dalyje nurodytų mirusių 
 25 straipsnis. 
 
 
-Skirti ir mokėti maitintojo netekimo pensijas šio įstatymo 14 straipsnio antrojoje ir ketvirtojoje dalyse nurodytų mirusių asmenų, taip pat mirusių karo invalidų ir karo dalyvių šeimų vaikams bei visiems vaikams – visiškiems našlaičiams iki 18 metų arba vyresniems negu šio amžiaus, jeigu jie tapo invalidais iki 18 metų, o profesinių technikos mokyklų ir specialiųjų vidurinių mokyklų moksleiviams bei aukštųjų mokyklų studentams, kol jie baigia šias mokyklas, bet ne ilgiau kaip iki jiems sukaks 23 metai. Tokia pat tvarka skirti ir mokėti maitintojo netekimo pensijas mirusiųjų šios kategorijos asmenų broliams, seserims ir anūkams, neturintiems darbingų tėvų.
+Skirti ir mokėti maitintojo netekimo pensijas vaikams iki 18 metų arba vyresniems negu šio amžiaus, jeigu pastarieji tapo invalidais iki 18 metų, o nustatyta tvarka įregistruotų aukštųjų ir aukštesniųjų bei vidurinių mokyklų dieninių skyrių studentams ir moksleiviams – iki šių mokyklų baigimo, bet ne ilgiau kaip iki jiems sukaks 24 metai. 
+
+
+Straipsnio pakeitimai:
+Nr. I-462, 1994-05-17, Žin., 1994, Nr. 39-705 (1994-05-25), i. k. 0941010ISTA000I-462
  
-
-
 
 
 
@@ -668,3 +670,8 @@ Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo 15 
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-783, 1990-11-15, Lietuvos aidas, 1990, Nr. 126-0 (1990-11-20); Žin., 1990, Nr. 33-799 (1990-11-30), i. k. 0901010ISTA000I-783
 Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo dalinio pakeitimo
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-462, 1994-05-17, Žin., 1994, Nr. 39-705 (1994-05-25), i. k. 0941010ISTA000I-462
+Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo 25 straipsnio pakeitimo
