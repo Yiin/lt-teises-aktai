@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1993-07-21 iki 1993-11-23
+Suvestinė redakcija nuo 1993-11-24 iki 1994-07-28
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
  
@@ -354,9 +354,15 @@ Nr. I-2658, 1992-06-23, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 199
 
 15 straipsnis. Lėšų, gautų už parduotus privatizavimo objektus, naudojimas
 
-1. Įplaukos už parduotus privatizavimo objektus (akcijas) kaupiamos Respublikiniame ir aukštesniosios pakopos savivaldybių privatizavimo fonduose.
+1. Įplaukos už parduotus privatizavimo objektus (akcijas) kaupiamos Respublikiniame ir aukštesniosios pakopos savivaldybių privatizavimo fonduose bei Sanavimo fonde.
+Straipsnio dalies pakeitimai:
+Nr. I-307, 1993-11-17, Žin., 1993, Nr. 63-1190 (1993-11-24), i. k. 0931010ISTA000I-307
+ 
 
-2. Respublikinis privatizavimo fondas sudaromas iš įplaukų už parduotus privatizavimo objektus (akcijas), priskirtus Lietuvos Respublikos Vyriausybės reguliavimo sferai, ir 70 procentų lėšų, gautų privatizuojant vietos savivaldybių reguliavimo sferai priskirtus objektus.
+2. Respublikiniame privatizavimo fonde kaupiama 80 procentų įplaukų už parduotus privatizavimo objektus (akcijas), priskirtus Lietuvos Respublikos Vyriausybės reguliavimo sferai, ir 60 procentų lėšų, gautų privatizuojant vietos savivaldybių reguliavimo sferai priskirtus objektus.
+Straipsnio dalies pakeitimai:
+Nr. I-307, 1993-11-17, Žin., 1993, Nr. 63-1190 (1993-11-24), i. k. 0931010ISTA000I-307
+ 
 
 3. Aukštesniosios pakopos savivaldybės privatizavimo fonduose kaupiama 30 procentų lėšų, gautų už vietos savivaldybės reguliavimo sferai priskirtų privatizavimo objektų (akcijų) pardavimą, ir 10 procentai lėšų, gautų už parduotus privatizavimo objektus (akcijas), priskirtus Lietuvos Respublikos Vyriausybės reguliavimo sferai. 
 Straipsnio dalies pakeitimai:
@@ -367,6 +373,15 @@ Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, 
 4. Valstybės vienkartinių išmokų ir kitų tikslinių kompensacijų lėšos, panaudotos valstybiniam turtui įsigyti, į privatizavimo fondus nepervedamos.
 
 5. Privatizavimo fondų naudojimo tvarką nustato Lietuvos Respublikos Aukščiausioji Taryba.
+
+6. Sanavimo fonde kaupiama 10 procentų lėšų, gautų už parduotus privatizavimo objektus (akcijas), priskirtus Lietuvos Respublikos Vyriausybės reguliavimo sferai, ir 10 procentų lėšų, gautų už parduotus vietos savivaldybės reguliavimo sferai priskirtus privatizavimo objektus (akcijas) 
+Papildyta straipsnio dalimi:
+Nr. I-307, 1993-11-17, Žin., 1993, Nr. 63-1190 (1993-11-24), i. k. 0931010ISTA000I-307
+ 
+
+7. Sanavimo fondo naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Papildyta straipsnio dalimi:
+Nr. I-307, 1993-11-17, Žin., 1993, Nr. 63-1190 (1993-11-24), i. k. 0931010ISTA000I-307
  
 
 16 straipsnis. Aukcionų organizavimas
@@ -609,4 +624,9 @@ Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo pap
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-217, 1993-07-14, Žin., 1993, Nr. 30-686 (1993-07-21), i. k. 0931010ISTA000I-217
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 20 straipsnio dalinio pakeitimo
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-307, 1993-11-17, Žin., 1993, Nr. 63-1190 (1993-11-24), i. k. 0931010ISTA000I-307
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo ir pakeitimo
 
