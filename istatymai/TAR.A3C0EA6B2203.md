@@ -537,14 +537,12 @@ Metrologinio laidavimo sistemos subjektai yra:
 
 
 
-4) atlieka Lietuvos matavimo priemonių valstybės registro valdytojo funkcijas;
+4) atlieka Lietuvos matavimo priemonių informacinės sistemos valdytojo ir duomenų valdytojo funkcijas;
 
 
 
 
 5) atlieka kitas šiame įstatyme, techniniuose reglamentuose ir kituose metrologijos srities teisės aktuose nustatytas ministerijos funkcijas.
-
-
 
 
 
@@ -558,8 +556,6 @@ Metrologinio laidavimo sistemos subjektai yra:
 
 
 2) atlieka kitas šiame įstatyme, techniniuose reglamentuose ir kituose metrologijos srities teisės aktuose nustatytas Lietuvos Respublikos Vyriausybės įgaliotos institucijos funkcijas.
-
-
 
 
 
@@ -612,8 +608,6 @@ Metrologinio laidavimo sistemos subjektai yra:
 
 
 
-
-
 5. Paskirtasis institutas:
 
 
@@ -647,8 +641,6 @@ Metrologinio laidavimo sistemos subjektai yra:
 
 
 
-
-
 6. Paskirtoji įstaiga:
 
 
@@ -662,22 +654,12 @@ Metrologinio laidavimo sistemos subjektai yra:
 
 
 
-
-
 7. Notifikuotoji įstaiga pagal techniniuose reglamentuose nustatytus reikalavimus atlieka matavimo priemonių, kurias ketinama pateikti Europos Sąjungos rinkai, atitikties įvertinimą, kuriam atlikti ši įstaiga yra notifikuota, ir kitas su atliekama atitikties įvertinimo veikla susijusias funkcijas.
 
 
 
 
-8. Kalibravimo laboratorija kalibruoja pamatinius ir žemesnio metrologinio lygio matavimo vienetų etalonus ir (arba) matavimo priemones ir išduoda kalibravimo liudijimus.
- 
-
-
-
-
-
-
-10 straipsnis. Paskirtosios įstaigos
+8. Kalibravimo laboratorija kalibruoja pamatinius ir žemesnio metrologinio lygio matavimo vienetų etalonus ir (arba) matavimo priemones ir išduoda kalibravimo liudijimus.10 straipsnis. Paskirtosios įstaigos
 
 
 1. Juridinis asmuo, jo filialas, padalinys, siekiantis tapti paskirtąja įstaiga ir įgyti teisę atlikti matavimo priemonės patikrą, turi būti akredituotas kaip kontrolės įstaiga, išskyrus šio straipsnio 5 dalyje nustatytus atvejus.
@@ -1067,7 +1049,7 @@ Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
 
 
 
-2. Matavimo priemonės atitikties įvertinimas, pagal Europos Sąjungos teisės aktų reikalavimus atliktas kitoje Europos Sąjungos valstybėse narėje ar Europos ekonominės erdvės valstybėje, yra pripažįstamas Lietuvos Respublikoje.
+2. Matavimo priemonės atitikties įvertinimas, pagal Europos Sąjungos teisės aktų reikalavimus atliktas kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, yra pripažįstamas Lietuvos Respublikoje.
 
 
 
@@ -1083,15 +1065,12 @@ TAR pastaba. 3 dalis įsigalioja 2018-11-01.
 
 
 
-5. Lietuvos Respublikoje patvirtintas matavimo priemonės tipas, taip pat šio straipsnio 4 dalyje nurodytos matavimo priemonės, nepatenkančios į techninių reglamentų taikymo sritį, tipas, kurio patvirtinimas yra atliktas kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje pagal šių valstybių nacionalinės teisės aktų reikalavimus ir pripažintas Lietuvos Respublikoje, įrašomas į Lietuvos matavimo priemonių valstybės registrą.
- 
+5. Lietuvos Respublikoje patvirtintas matavimo priemonės tipas, taip pat šio straipsnio 4 dalyje nurodytos matavimo priemonės, nepatenkančios į techninių reglamentų taikymo sritį, tipas, kurio patvirtinimas yra atliktas kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje pagal šių valstybių nacionalinės teisės aktų reikalavimus ir pripažintas Lietuvos Respublikoje, įrašomas į Lietuvos matavimo priemonių informacinę sistemą. Lietuvos matavimo priemonių informacinėje sistemoje tvarkomi matavimo priemonių duomenys, išskyrus asmens duomenis, yra vieši. Lietuvos matavimo priemonių informacinėje sistemoje tvarkomi matavimo priemonių duomenys teikiami laikantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) 5 straipsnyje apibrėžtų asmens duomenų tvarkymo principų ir 6 straipsnyje nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
 
 
 
 
-
-
-19 straipsnis. Matavimo priemonių patikra
+6. Lietuvos matavimo priemonių informacinėje sistemoje tvarkomi matavimo priemonių duomenys, išskyrus asmens duomenis, yra atveriami pakartotinai naudoti.19 straipsnis. Matavimo priemonių patikra
 
 
 1. Pirminė matavimo priemonės patikra atliekama pagaminus naujas ar sutaisius naudojamas matavimo priemones. 
@@ -1134,22 +1113,7 @@ TAR pastaba. 3 dalis įsigalioja 2018-11-01.
 
 
 
-9. Lietuvos Respublikos Vyriausybės įgaliota institucija koordinuoja su matavimo priemonių patikros metodikų rengimu susijusią veiklą, taip pat, suderinusi su ministerija, tvirtina matavimo priemonių patikros metodikas.
- 
-
-
-
-
-
-
-
-
-PENKTASIS SKIRSNIS
-MATAVIMO PRIEMONĖMS, FASUOTOMS PREKĖMS IR MATAVIMO INDAMS TAIKOMI BENDRIEJI REIKALAVIMAI. MATAVIMO PRIEMONIŲ PATEIKIMAS RINKAI IR NAUDOJIMO PRADŽIA
- 
-
-
-20 straipsnis. Matavimo priemonėms taikomi bendrieji reikalavimai
+9. Lietuvos Respublikos Vyriausybės įgaliota institucija koordinuoja su matavimo priemonių patikros metodikų rengimu susijusią veiklą, taip pat, suderinusi su ministerija, tvirtina matavimo priemonių patikros metodikas.20 straipsnis. Matavimo priemonėms taikomi bendrieji reikalavimai
 
 
 1. Matavimo priemonės, naudojamos dydžiui ir dydžio santykiui matuoti, matavimų rezultatus turi rodyti šio įstatymo 3 straipsnyje nurodytais Lietuvos Respublikoje leidžiamais naudoti matavimo vienetais.
@@ -1687,7 +1651,7 @@ Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 
 
-5) kai paskirtoji įstaiga yra likviduojama ar yra likviduota arba juridinių asmenų ar kitų organizacijų, įsisteigusių kitose Europos Sąjungos valstybėse narėse ar Europos ekonominės erdvės valstybėse, filialas Lietuvos Respublikoje, kuriam šio įstatymo 27 straipsnio 2 dalyje nustatyta tvarka suteikta teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus, baigia ar baigė veiklą ir yra išregistruoti iš Juridinių asmenų registro; 
+5) kai paskirtoji įstaiga yra likviduojama ar yra likviduota arba juridinių asmenų ar kitų organizacijų, įsisteigusių kitose Europos Sąjungos valstybėse narėse ar Europos ekonominės erdvės valstybėse, filialas Lietuvos Respublikoje, kuriam šio įstatymo 27 straipsnio 2 dalyje nustatyta tvarka suteikta teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus, baigia ar baigė veiklą ir yra išregistruoti iš Juridinių asmenų registro informacinės sistemos; 
 
 
 
@@ -1702,12 +1666,10 @@ Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 
 
-
-
 2. Sprendimą panaikinti paskirtosios įstaigos teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus priima Lietuvos Respublikos Vyriausybės įgaliota institucija, vadovaudamasi Viešojo administravimo įstatymo 10 straipsnio nuostatomis.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
- 
+ 
 
 
 
@@ -1718,21 +1680,13 @@ Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 
 4. Paskirtosios įstaigos, kuri pasibaigia kitu negu likvidavimas įstatymuose nustatytu pagrindu, teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus nepanaikinama, tačiau ši įstaiga, laikydamasi šio įstatymo 11 straipsnio 11 punkte nustatytų reikalavimų, Lietuvos Respublikos Vyriausybės įgaliotai institucijai raštu arba elektroninių ryšių priemonėmis teikia informaciją apie visus veiklos pokyčius ir kitą su vykdoma veikla susijusią informaciją, kuri turi arba gali turėti esminę įtaką jos, kaip paskirtosios įstaigos, teisės vykdyti veiklą paskyrimo srityje galiojimui.
- 
-
-
-
-
+ 
 
 
 
 
 AŠTUNTASIS SKIRSNIS
-FINANSAVIMAS 
- 
-
-
-31 straipsnis. Finansavimas
+FINANSAVIMAS31 straipsnis. Finansavimas
 
 
 Šio įstatymo 9 straipsnio 4 ir 5 dalyse nustatyta veikla yra finansuojama iš valstybės biudžeto asignavimų ir (arba) kitų lėšų.
@@ -1884,7 +1838,7 @@ ATSAKOMYBĖ UŽ METROLOGIJOS SRITIES TEISĖS AKTŲ PAŽEIDIMUS
 36 straipsnis. Juridinių asmenų padarytų metrologijos srities teisės aktų pažeidimų tyrimo, nagrinėjimo ir sankcijų skyrimo tvarka
 
 
-1. Lietuvos Respublikos Vyriausybės įgaliota institucija nagrinėja šio įstatymo 33 straipsnio 1 dalyje nurodytus juridinių asmenų padarytus pažeidimus (toliau šiame straipsnyje – pažeidimai) ir priima šio straipsnio 11 dalyje nurodytus nutarimus.
+1. Lietuvos Respublikos Vyriausybės įgaliota institucija nagrinėja šio įstatymo 33 straipsnio 1 dalyje nurodytus juridinių asmenų padarytus pažeidimus (toliau šiame straipsnyje – pažeidimai) ir priima šio straipsnio 11 dalyje nurodytus nutarimus.
 
 
 
@@ -1894,7 +1848,7 @@ ATSAKOMYBĖ UŽ METROLOGIJOS SRITIES TEISĖS AKTŲ PAŽEIDIMUS
 
 
 
-3. Protokole nurodoma jo surašymo data ir vieta; tyrimą atlikusio ir protokolą surašiusio asmens pareigos, vardas, pavardė; duomenys apie atsakomybėn traukiamą juridinį asmenį (pavadinimas, teisinė forma, juridinio asmens kodas, buveinės adresas); pažeidimo padarymo vieta, laikas ir esmė; atsakomybę už juridinio asmens padarytą pažeidimą nustatantis šio įstatymo 33 straipsnio 1 dalies punktas; įrodymai, kuriais grindžiamas pažeidimo padarymas; liudytojų ir nukentėjusiųjų, jeigu jų yra, vardai, pavardės, gyvenamosios vietos ar kiti korespondencijos įteikimo adresai, telefono numeriai; atsakomybėn traukiamo juridinio asmens įgalioto atstovo paaiškinimas dėl pažeidimo, jo aplinkybių (kai atsakomybėn traukiamo juridinio asmens įgaliotas atstovas dalyvavo surašant protokolą); kiti pažeidimui išnagrinėti būtini duomenys; numatoma posėdžio dėl pažeidimo nagrinėjimo data, o numatant pažeidimą nagrinėti žodinio proceso tvarka, – ir laikas, vieta; atsakomybėn traukiamo juridinio asmens teisės, nurodytos šio straipsnio 5 dalyje; atsakomybėn traukiamo juridinio asmens pageidavimu – jo prašymas procesinius dokumentus gauti kitu adresu, negu nurodyta Juridinių asmenų registre, arba elektroninio pristatymo dėžutės adresu per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą. Protokolas surašomas dviem egzemplioriais. Protokolą pasirašo jį surašęs asmuo ir atsakomybėn traukiamo juridinio asmens įgaliotas atstovas, išskyrus atvejus, kai protokolas surašytas atsakomybėn traukiamo juridinio asmens įgaliotam atstovui nedalyvaujant. Jeigu atsakomybėn traukiamo juridinio asmens įgaliotas atstovas atsisako pasirašyti protokolą, tai įrašoma protokole. Atsakomybėn traukiamo juridinio asmens įgaliotas atstovas turi teisę pateikti prie protokolo pridedamus paaiškinimus ir pastabas dėl protokolo turinio, taip pat išdėstyti savo atsisakymo pasirašyti protokolą motyvus.
+3. Protokole nurodoma jo surašymo data ir vieta; tyrimą atlikusio ir protokolą surašiusio asmens pareigos, vardas, pavardė; duomenys apie atsakomybėn traukiamą juridinį asmenį (pavadinimas, teisinė forma, juridinio asmens kodas, buveinės adresas); pažeidimo padarymo vieta, laikas ir esmė; atsakomybę už juridinio asmens padarytą pažeidimą nustatantis šio įstatymo 33 straipsnio 1 dalies punktas; įrodymai, kuriais grindžiamas pažeidimo padarymas; liudytojų ir nukentėjusiųjų, jeigu jų yra, vardai, pavardės, gyvenamosios vietos ar kiti korespondencijos įteikimo adresai, ryšio numeriai; atsakomybėn traukiamo juridinio asmens įgalioto atstovo paaiškinimas dėl pažeidimo, jo aplinkybių (kai atsakomybėn traukiamo juridinio asmens įgaliotas atstovas dalyvavo surašant protokolą); kiti pažeidimui išnagrinėti būtini duomenys; numatyta posėdžio dėl pažeidimo nagrinėjimo data, o numatant pažeidimą nagrinėti žodinio proceso tvarka, – ir laikas, vieta; atsakomybėn traukiamo juridinio asmens teisės, nurodytos šio straipsnio 5 dalyje; atsakomybėn traukiamo juridinio asmens pageidavimu – jo prašymas procesinius dokumentus gauti kitu adresu, negu nurodyta Juridinių asmenų registro informacinėje sistemoje, arba elektroninio pristatymo dėžutės adresu per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą. Protokolas surašomas dviem egzemplioriais. Protokolą pasirašo jį surašęs asmuo ir atsakomybėn traukiamo juridinio asmens įgaliotas atstovas, išskyrus atvejus, kai protokolas surašytas atsakomybėn traukiamo juridinio asmens įgaliotam atstovui nedalyvaujant. Jeigu atsakomybėn traukiamo juridinio asmens įgaliotas atstovas atsisaka pasirašyti protokolą, tai įrašoma protokole. Atsakomybėn traukiamo juridinio asmens įgaliotas atstovas turi teisę pateikti prie protokolo pridedamus paaiškinimus ir pastabas dėl protokolo turinio, taip pat išdėstyti savo atsisakymo pasirašyti protokolą motyvus.
 
 
 
@@ -1932,9 +1886,7 @@ ATSAKOMYBĖ UŽ METROLOGIJOS SRITIES TEISĖS AKTŲ PAŽEIDIMUS
 
 
 
-
-
-6. Pažeidimo nagrinėjimas turi būti numatytas ne anksčiau kaip po 15 darbo dienų nuo protokolo įteikimo pažeidimo padarymu įtariamam juridiniam asmeniui dienos. Laikoma, kad juridinio asmens įgaliotam atstovui tinkamai pranešta apie posėdį dėl pažeidimo nagrinėjimo protokolą įteikus pažeidimo padarymu įtariamo juridinio asmens įgaliotam atstovui pasirašytinai arba išsiuntus registruotu paštu Juridinių asmenų registre nurodytu juridinio asmens buveinės adresu (o kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, – šiuo nurodytu adresu) ir adresatui įteikus pasirašytinai arba išsiuntus per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą juridinio asmens nurodytu elektroninio pristatymo dėžutės adresu. Tuo atveju, kai atsakomybėn traukiamas juridinis asmuo, kuriam įteiktas protokolas, pasinaudoja šio straipsnio 5 dalies 5 punkte numatyta teise prašyti nagrinėti pažeidimą žodinio proceso tvarka, ir Lietuvos Respublikos Vyriausybės įgaliota institucija, tenkindama šį prašymą, paskiria kitą posėdžio dėl pažeidimo nagrinėjimo datą, negu nurodyta protokole, administracinėn atsakomybėn traukiamam asmeniui ne vėliau kaip prieš 10 darbo dienų iki šio posėdžio šioje dalyje numatytais būdais įteikiamas šaukimas į posėdį. Šaukime nurodoma pakeista posėdžio dėl pažeidimo nagrinėjimo data.
+6. Pažeidimo nagrinėjimas turi būti numatytas ne anksčiau kaip po 15 darbo dienų nuo protokolo įteikimo pažeidimo padarymu įtariamam juridiniam asmeniui dienos. Laikoma, kad juridinio asmens įgaliotam atstovui tinkamai pranešta apie posėdį dėl pažeidimo nagrinėjimo protokolą įteikus pažeidimo padarymu įtariam juridinio asmens įgaliotam atstovui pasirašytinai arba išsiuntus registruotąja pašto siunta Juridinių asmenų registro informacinėje sistemoje nurodytu juridinio asmens buveinės adresu (o kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, – šiuo nurodytu adresu) ir adresatui įteikus pasirašytinai arba išsiuntus per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą juridinio asmens nurodytu elektroninio pristatymo dėžutės adresu. Tuo atveju, kai atsakomybėn traukiamas juridinis asmuo, kuriam įteiktas protokolas, pasinaudoja šio straipsnio 5 dalies 5 punkte numatyta teise prašyti nagrinėti pažeidimą žodinio proceso tvarka ir Lietuvos Respublikos Vyriausybės įgaliota institucija, tenkindama šį prašymą, paskiria kitą posėdžio dėl pažeidimo nagrinėjimo datą, negu nurodyta protokole, administracinėn atsakomybėn traukiamam asmeniui ne vėliau kaip prieš 10 darbo dienų iki šio posėdžio šioje dalyje numatytais būdais įteikiamas šaukimas į posėdį. Šaukime nurodoma pakeista posėdžio dėl pažeidimo nagrinėjimo data.
 
 
 
@@ -1972,8 +1924,6 @@ ATSAKOMYBĖ UŽ METROLOGIJOS SRITIES TEISĖS AKTŲ PAŽEIDIMUS
 
 
 
-
-
 12. Nutarimas nutraukti pažeidimo teiseną priimamas, kai yra bent viena iš šių aplinkybių:
 
 
@@ -2007,9 +1957,7 @@ ATSAKOMYBĖ UŽ METROLOGIJOS SRITIES TEISĖS AKTŲ PAŽEIDIMUS
 
 
 
-
-
-13. Nutarime skirti sankciją nurodoma: nutarimą priėmusios institucijos pavadinimas; pažeidimo nagrinėjimo data ir vieta; duomenys apie pažeidėją (pavadinimas, teisinė forma, juridinio asmens kodas, buveinės adresas); posėdžio dėl pažeidimo nagrinėjimo dalyviai; pažeidimo esmė, pažeidimo padarymo aplinkybės ir motyvuotas jų įvertinimas; įrodymai, kuriais grindžiamas nutarimas, ir jų įvertinimas; pažeidėjo paaiškinimai dėl padaryto pažeidimo ir jų įvertinimas; šio įstatymo 33 straipsnio 1 dalies punktas, nustatantis atsakomybę už pažeidėjo padarytą veiką; atsakomybę sunkinančios ir lengvinančios aplinkybės; skiriama sankcija ir jos skyrimo motyvai; kai skiriama bauda, – baudos dydis, sąskaita, į kurią bauda turi būti sumokėta, ir baudos sumokėjimo terminas; nutarimo apskundimo terminai ir tvarka.
+13. Nutarime skirti sankciją nurodoma: nutarimą priėmusios institucijos pavadinimas; pažeidimo nagrinėjimo data ir vieta; duomenys apie pažeidėją (pavadinimas, teisinė forma, juridinio asmens kodas, buveinės adresas); posėdžio dėl pažeidimo nagrinėjimo dalyviai; pažeidimo esmė, pažeidimo padarymo aplinkybės ir motyvuotas jų įvertinimas; įrodymai, kuriais grindžiamas nutarimas, ir jų įvertinimas; pažeidėjo paaiškinimai dėl padaryto pažeidimo ir jų įvertinimas; šio įstatymo 33 straipsnio 1 dalies punktas, nustatantis atsakomybę už pažeidėjo padarytą veiką; atsakomybę sunkinančios ir lengvinančios aplinkybės; skiriama sankcija ir jos skyrimo motyvai; kai skiriama bauda, – baudos dydis, sąskaita, į kurią bauda turi būti sumokėta, ir baudos sumokėjimo terminas; nutarimo apskundimo terminai ir tvarka.
 
 
 
@@ -2019,7 +1967,7 @@ ATSAKOMYBĖ UŽ METROLOGIJOS SRITIES TEISĖS AKTŲ PAŽEIDIMUS
 
 
 
-15. Šio straipsnio 11 dalyje nurodytas nutarimas juridinio asmens įgaliotam atstovui įteikiamas pasirašytinai arba ne vėliau kaip per 3 darbo dienas nuo nutarimo priėmimo dienos išsiunčiamas registruotu paštu Juridinių asmenų registre nurodytu juridinio asmens buveinės adresu (o kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, – šiuo nurodytu adresu) ir adresatui įteikiamas pasirašytinai arba išsiunčiamas per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą juridinio asmens nurodytu elektroninio pristatymo dėžutės adresu. Nukentėjusiam asmeniui šio straipsnio 11 dalyje nurodytas nutarimas įteikiamas pasirašytinai arba ne vėliau kaip per 3 darbo dienas nuo nutarimo priėmimo dienos išsiunčiamas registruotu paštu protokole nurodytu gyvenamosios vietos ar kitu korespondencijos įteikimo adresu ir įteikiamas adresatui pasirašytinai.
+15. Šio straipsnio 11 dalyje nurodytas nutarimas juridinio asmens įgaliotam atstovui įteikiamas pasirašytinai arba ne vėliau kaip per 3 darbo dienas nuo nutarimo priėmimo dienos išsiunčiamas registruotąja pašto siunta Juridinių asmenų registro informacinėje sistemoje nurodytu juridinio asmens buveinės adresu (o kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, – šiuo nurodytu adresu) ir adresatui įteikiamas pasirašytinai arba išsiunčiamas per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą juridinio asmens nurodytu elektroninio pristatymo dėžutės adresu. Nukentėjusiam asmeniui šio straipsnio 11 dalyje nurodytas nutarimas įteikiamas pasirašytinai arba ne vėliau kaip per 3 darbo dienas nuo nutarimo priėmimo dienos išsiunčiamas registruotąja pašto siunta protokole nurodytu gyvenamosios vietos ar kitu korespondencijos įteikimo adresu ir įteikiamas adresatui pasirašytinai.
 
 
 
@@ -2029,31 +1977,15 @@ ATSAKOMYBĖ UŽ METROLOGIJOS SRITIES TEISĖS AKTŲ PAŽEIDIMUS
 
 
 
-17. Protokolo formą ir šio protokolo surašymo taisykles tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.
- 
+17. Protokolo formą ir šio protokolo surašymo taisykles tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.37 straipsnis. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimų apskundimas
+
+
+1. Juridiniai asmenys ir dėl pažeidimo nukentėję asmenys šio įstatymo 36 straipsnio 11 dalyje nurodytus Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimus per trisdešimt dienų nuo šių nutarimų įteikimo dienos gali apskųsti teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
 
-
-
-37 straipsnis. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimų apskundimas
-
-
-1. Juridiniai asmenys ir dėl pažeidimo nukentėję asmenys šio įstatymo 36 straipsnio 11 dalyje nurodytus Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimus per trisdešimt dienų nuo šių nutarimų įteikimo dienos gali apskųsti teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-
-
-
-2. Kreipimasis į teismą sustabdo nutarimo skirti sankciją, kuriuo skiriama bauda, vykdymą.
- 
-
-
-
-
-
-
-38 straipsnis. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimų vykdymas
+2. Kreipimasis į teismą sustabdo nutarimo skirti sankciją, kuriuo skiriama bauda, vykdymą.38 straipsnis. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimų vykdymas
 
 
 1. Nutarimu skirti sankciją paskirta bauda į valstybės biudžetą sumokama ne vėliau kaip per trisdešimt kalendorinių dienų nuo šio nutarimo įteikimo juridiniam asmeniui dienos. Teismo sprendimu nutarimą skirti sankciją palikus nepakeistą, šiuo nutarimu paskirta bauda sumokama ne vėliau kaip per trisdešimt kalendorinių dienų nuo teismo sprendimo dėl nutarimo skirti sankciją įsiteisėjimo dienos. 
