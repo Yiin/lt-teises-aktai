@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1993-02-13 iki 1993-07-20
+Suvestinė redakcija nuo 1993-07-21 iki 1993-11-23
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
  
@@ -521,12 +521,13 @@ Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, 
 
 20 straipsnis. Kiti privatizavimo būdai
 
-1. Uždari aukcionai gali būti rengiami privatizuojant nedideles (iki 10 darbuotojų) farmacijos, medicinos aptarnavimo, veterinarijos įstaigas, kurių pagrindinių priemonių vertė neviršija 1 mln. rublių. Didesnės farmacijos, medicinos aptarnavimo, veterinarijos įstaigos ir įmonės, taip pat konstravimo ir mokslo tyrimo atitinkamo profilio (farmacijos, medicinos aptarnavimo, veterinarijos) įmonės gali būti privatizuojamos skelbiant uždarą akcijų pasirašymą. Vienas fizinis ar juridinis asmuo gali įsigyti tik vieną vaistinę ar vaistų sandėlį.
+1. Uždari aukcionai gali būti rengiami privatizuoti nedidelėms (ne daugiau kaip 10 darbuotojų ir jeigu pagrindinių priemonių vertė neviršija 10 000 Lt) farmacijos, medicinos techninio aptarnavimo, veterinarijos įstaigoms, informacinėms agentūroms, periodinių leidinių redakcijoms. Didesnės farmacijos, medicinos techninio aptarnavimo, veterinarijos įstaigos bei įmonės, informacinės agentūros, periodinių leidinių redakcijos, taip pat konstravimo ir mokslo tyrimo atitinkamo profilio (farmacijos, medicinos techninio aptarnavimo, veterinarijos) įmonės gali būti privatizuojamos skelbiant uždarą akcijų pasirašymą.
 Teisę dalyvauti uždaruose aukcionuose turi atitinkamos srities specialistai, turintys kvalifikaciją patvirtinantį dokumentą. Uždarame akcijų pasirašyme kartu su specialistais gali dalyvauti ir kiti privatizuojamos įstaigos darbuotojai.
 Uždaruose aukcionuose ir uždaru akcijų pasirašymo būdu privatizuojamų įstaigų ir įmonių pastatų ir patalpų vertę nustato Centrinės privatizavimo komisijos paskirta ekspertų komisija.
 Farmacijos, medicinos aptarnavimo, veterinarijos įstaigos, privatizuojamos uždaruose aukcionuose ar uždaru akcijų pasirašymo būdu, po trejų veiklos metų veiklos profilį gali keisti tik gavusios Sveikatos apsaugos ministerijos ar Valstybinės veterinarijos tarnybos leidimą.
 Straipsnio dalies pakeitimai:
 Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, Nr. 6-116 (1993-02-28), i. k. 0931010ISTA0000I-64
+Nr. I-217, 1993-07-14, Žin., 1993, Nr. 30-686 (1993-07-21), i. k. 0931010ISTA000I-217
  
 
 2. Aukcionuose už laisvai konvertuojamą valiutą gali būti parduodami paklausą turinčių objektų akcijų paketai. Nenupirkti aukcione šie akcijų paketai parduodami viešai pasirašant akcijas.
@@ -603,4 +604,9 @@ Dėl valstybinio turto privatizavimo aukcionų ir viešo akcijų pasirašymo ati
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, Nr. 6-116 (1993-02-28), i. k. 0931010ISTA0000I-64
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo ir pakeitimo
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-217, 1993-07-14, Žin., 1993, Nr. 30-686 (1993-07-21), i. k. 0931010ISTA000I-217
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 20 straipsnio dalinio pakeitimo
 
