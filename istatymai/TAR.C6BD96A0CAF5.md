@@ -28,7 +28,7 @@ DĖL PABĖGĖLIO
 STATUSO
  
 1995 m. liepos 4
-d. Nr.I-1004
+d. Nr. I-1004
 Vilnius 
  
 Nauja įstatymo redakcija (keistas
@@ -156,12 +156,15 @@ pagrindas manyti, kad iki atvykimo į Lietuvos Respubliką jis padarė sunkų
 nepolitinį nusikaltimą arba yra kaltas dėl veikų, prieštaraujančių Jungtinių
 Tautų Organizacijos tikslams ir principams;
 4) yra rimtas
-pagrindas manyti, kad jis padarė nusikaltimą taikai, žmonijai arba karo
+pagrindas manyti, kad jis padarė nusikaltimą žmoniškumui arba karo
 nusikaltimą, kaip jie apibrėžiami Lietuvos Respublikos tarptautinėse sutartyse
 ir kituose tarptautinės teisės šaltiniuose.
 Straipsnio pakeitimai:
 Nr. IX-704,
 2002-01-15, Žin., 2002, Nr. 13-466 (2002-02-06)
+Nr.
+IX-1443,
+2003-04-03, Žin., 2003, Nr. 38-1688 (2003-04-24)
  
 5 straipsnis.
 Pabėgėlio statuso panaikinimas
@@ -176,13 +179,12 @@ pilietybę ir naudojasi tos valstybės, kurios pilietis jis dabar yra, gynyba;
 4) savo noru vėl
 įsikūrė valstybėje, kurią buvo palikęs arba už kurios ribų jis buvo bijodamas
 persekiojimo;
-5) negali atsisakyti
-naudotis valstybės, kurios pilietis jis yra, gynyba, nes jau nėra aplinkybių,
-dėl kurių buvo pripažintas pabėgėliu;
-6) kaip
-pilietybės neturintis asmuo gali grįžti į valstybę, kurioje buvo jo nuolatinė
-gyvenamoji vieta, nes jau nėra aplinkybių, dėl kurių buvo pripažintas
-pabėgėliu;
+5) negali
+atsisakyti naudotis valstybės, kurios pilietis jis yra, gynyba, nes jau nėra
+aplinkybių, dėl kurių buvo pripažintas pabėgėliu;
+6) kaip pilietybės
+neturintis asmuo gali grįžti į valstybę, kurioje buvo jo nuolatinė gyvenamoji
+vieta, nes jau nėra aplinkybių, dėl kurių buvo pripažintas pabėgėliu;
 7) pabėgėlio
 statusą Lietuvos Respublikoje gavo apgaulės būdu, išskyrus atvejus, kai jo
 pateikta informacija apie save neturėjo esminės įtakos priimant sprendimą
@@ -225,7 +227,13 @@ gyvybei ar laisvei gresia pavojus.
 2. Šio
 straipsnio 1 dalies nuostata netaikoma užsieniečiui, kuris dėl svarbių
 priežasčių laikomas pavojingu Lietuvos Respublikos saugumui arba įsiteisėjusiu
-teismo nuosprendžiu nuteistas už sunkų nusikaltimą ir kelia pavojų visuomenei.
+teismo nuosprendžiu nuteistas už sunkų ar labai sunkų nusikaltimą ir
+kelia pavojų visuomenei.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1443,
+2003-04-03, Žin., 2003, Nr. 38-1688 (2003-04-24)
  
  
 ANTRASIS
@@ -265,8 +273,8 @@ iš pilnamečių šeimos narių.
 Straipsnio pakeitimai:
 Nr. VIII-2007, 2000 10 10, Žin., 2000, Nr.
 92-2859 (2000 10 31)
-Nr. IX-704, 2002-01-15,
-Žin., 2002, Nr. 13-466 (2002-02-06)
+Nr. IX-704,
+2002-01-15, Žin., 2002, Nr. 13-466 (2002-02-06)
  
 9 straipsnis.
 Užsieniečio įleidimas į Lietuvos Respublikos teritoriją
@@ -285,13 +293,13 @@ priežasčių neįleisti užsieniečio į Lietuvos Respublikos teritoriją, o ta
 atvejais, kai užsienietis yra Lietuvos Respublikos teritorijoje, - neleisti
 joje būti.
 3.
-Kai priimamas sprendimas neįleisti užsieniečio į Lietuvos Respublikos
-teritoriją arba neleisti joje būti, jis grąžinamas arba išsiunčiamas į
-valstybę, iš kurios atvyko arba iš kurios yra kilęs. Sprendimą neįleisti
-užsieniečio į Lietuvos Respublikos teritoriją arba neleisti joje būti
-užsienietis per 7 dienas nuo sprendimo gavimo dienos gali apskųsti Vilniaus
-apygardos administraciniam teismui. Skundo pateikimas sustabdo tik sprendimo
-neleisti būti Lietuvos Respublikoje vykdymą. 
+Kai priimamas sprendimas neįleisti užsieniečio į Lietuvos Respublikos teritoriją
+arba neleisti joje būti, jis grąžinamas arba išsiunčiamas į valstybę, iš kurios
+atvyko arba iš kurios yra kilęs. Sprendimą neįleisti užsieniečio į Lietuvos
+Respublikos teritoriją arba neleisti joje būti užsienietis per 7 dienas nuo
+sprendimo gavimo dienos gali apskųsti Vilniaus apygardos administraciniam
+teismui. Skundo pateikimas sustabdo tik sprendimo neleisti būti Lietuvos
+Respublikoje vykdymą. 
 Straipsnio pakeitimai:
 Nr. VIII-2007, 2000 10 10, Žin., 2000, Nr.
 92-2859 (2000 10 31)
@@ -358,25 +366,25 @@ kai siekiama užkirsti kelią infekcinėms ligoms plisti;
 5) Lietuvos
 Respublikos įstatymų nustatytais pagrindais.
 2.
-Policija turi teisę sulaikyti užsienietį ne ilgiau kaip 48 valandoms.
-Nepilnamečiai sulaikomi tik išimtiniais atvejais. Ilgesniam kaip 48 valandų
-laikotarpiui užsienietis gali būti sulaikytas teismo sprendimu, apgyvendinant
-jį Užsieniečių registracijos centre.
+Policija turi teisę sulaikyti užsienietį ne ilgiau kaip 48 valandoms. Nepilnamečiai
+sulaikomi tik išimtiniais atvejais. Ilgesniam kaip 48 valandų laikotarpiui
+užsienietis gali būti sulaikytas teismo sprendimu, apgyvendinant jį Užsieniečių
+registracijos centre.
  
 12(1) straipsnis.
 Alternatyvios sulaikymui priemonės
-1. Teismas,
-atsižvelgdamas į užsieniečio asmenybę, jo pažeidžiamumą, pavojingumo visuomenei
-laipsnį, tikėtinumą, kad užsienietis padės išsiaiškinti priežastis, dėl kurių
-jis naudojosi suklastotais dokumentais arba juos sugadino, ir kitas aplinkybes,
+1. Teismas, atsižvelgdamas
+į užsieniečio asmenybę, jo pažeidžiamumą, pavojingumo visuomenei laipsnį,
+tikėtinumą, kad užsienietis padės išsiaiškinti priežastis, dėl kurių jis
+naudojosi suklastotais dokumentais arba juos sugadino, ir kitas aplinkybes,
 galinčias turėti reikšmės pabėgėlio statuso suteikimo užsieniečiui procedūrai,
 gali priimti sprendimą nesulaikyti užsieniečio ir (arba) priimti vieną iš šių
 sprendimų:
 1) įpareigoti
 užsienietį nustatytu laiku periodiškai atvykti į teritorinę policijos įstaigą;
-2) įpareigoti
-užsienietį nustatytu laiku ryšio priemonėmis informuoti teritorinę policijos
-įstaigą apie savo buvimo vietą;
+2) įpareigoti užsienietį
+nustatytu laiku ryšio priemonėmis informuoti teritorinę policijos įstaigą apie
+savo buvimo vietą;
 3) patikėti
 prižiūrėti nepilnametį vaiką, kurio nelydi tėvai arba teisėtas atstovas,
 socialinei įstaigai;
@@ -391,11 +399,11 @@ užsieniečiu.
 2. Jeigu
 nevykdomi šio straipsnio 1 dalyje išvardyti teismo sprendimai, Migracijos
 departamentas kreipiasi į teismą su pakartotiniu teikimu sulaikyti užsienietį.
-3. Kai teisme
-nagrinėjamas nepilnamečio vaiko, kurio nelydi tėvai arba kiti teisėti atstovai,
-sulaikymo klausimas, vaiko interesams teisme atstovauja jam paskirtas globėjas.
-Skiriant sulaikymą nepilnamečiam vaikui, turi būti laikomasi Lietuvos
-Respublikos vaiko teisių apsaugos pagrindų įstatymo. 
+3. Kai teisme nagrinėjamas
+nepilnamečio vaiko, kurio nelydi tėvai arba kiti teisėti atstovai, sulaikymo
+klausimas, vaiko interesams teisme atstovauja jam paskirtas globėjas. Skiriant
+sulaikymą nepilnamečiam vaikui, turi būti laikomasi Lietuvos Respublikos vaiko
+teisių apsaugos pagrindų įstatymo. 
 4. Teismas,
 priimdamas sprendimą skirti alternatyvią sulaikymui priemonę, nustato priemonės
 taikymo terminą. Šis terminas negali viršyti 12 mėnesių nuo pirmo sprendimo
@@ -481,8 +489,8 @@ prašymo priėmimo dienos peržiūri sprendimą sulaikyti užsienietį ir priima
 iš šių sprendimų: 
 1)
 palikti galioti sprendimą sulaikyti užsienietį;
-2) pakeisti sprendimą
-sulaikyti užsienietį;
+2) pakeisti
+sprendimą sulaikyti užsienietį;
 3) panaikinti
 sprendimą sulaikyti užsienietį ir įpareigoti Migracijos departamentą priimti
 sprendimą dėl užsieniečio apgyvendinimo netaikant jam judėjimo laisvės
@@ -494,8 +502,8 @@ priėmimo dienos.
 teismo sprendimas gali būti skundžiamas šio įstatymo 12(3 )straipsnyje
 nustatyta tvarka.
 Įstatymas papildytas straipsniu:
-Nr. IX-704, 2002-01-15,
-Žin., 2002, Nr. 13-466 (2002-02-06)
+Nr. IX-704,
+2002-01-15, Žin., 2002, Nr. 13-466 (2002-02-06)
  
 12(5) straipsnis.
 Sulaikymo terminas 
@@ -636,8 +644,8 @@ kompensaciją už naudojimąsi visuomeninio transporto priemonėmis;
 5) naudotis
 valstybės teikiamomis nemokamomis vertėjo paslaugomis;
 6) naudotis
-medicinos paslaugomis Užsieniečių registracijos centre ir Pabėgėlių priėmimo
-centre nustatyta tvarka;
+medicinos paslaugomis Užsieniečių registracijos centre ir Pabėgėlių priėmimo centre
+nustatyta tvarka;
 7)
 Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka
 kas mėnesį gauti piniginę pašalpą smulkioms išlaidoms.
@@ -650,9 +658,8 @@ pareigos:
 Lietuvos Respublikos įstatymų ir buvimo Užsieniečių registracijos centre bei
 Pabėgėlių priėmimo centre nustatytos tvarkos;
 2) gyventi
-Užsieniečių registracijos centre, jei užsienietis atvyko ar yra Lietuvos
-Respublikoje neteisėtai, kol bus nustatyta jo prašymo nagrinėjimo iš esmės
-tvarka;
+Užsieniečių registracijos centre, jei užsienietis atvyko ar yra Lietuvos Respublikoje
+neteisėtai, kol bus nustatyta jo prašymo nagrinėjimo iš esmės tvarka;
 3) gyventi
 Pabėgėlių priėmimo centre, kol jo prašymas suteikti pabėgėlio statusą
 nagrinėjamas iš esmės, jei užsieniečiui nebuvo leista gyventi jo pasirinktoje
@@ -668,12 +675,12 @@ aplinkybių.
 4. Šiame
 straipsnyje nurodyti užsieniečiai turi ir kitų teisių, kurias jiems garantuoja
 Lietuvos Respublikos tarptautinės sutartys, įstatymai ir kiti teisės aktai.
-5. Šio straipsnio
-1 dalyje nustatytoms užsieniečių teisėms įgyvendinti skiriamos Lietuvos
-Respublikos valstybės biudžeto ir kitos lėšos.
+5. Šio
+straipsnio 1 dalyje nustatytoms užsieniečių teisėms įgyvendinti skiriamos
+Lietuvos Respublikos valstybės biudžeto ir kitos lėšos.
 Straipsnio pakeitimai:
-Nr. IX-704,
-2002-01-15, Žin., 2002, Nr. 13-466 (2002-02-06)
+Nr. IX-704, 2002-01-15,
+Žin., 2002, Nr. 13-466 (2002-02-06)
  
 18
 straipsnis. Užsieniečio prašymo suteikti pabėgėlio statusą nagrinėjimo
@@ -710,9 +717,9 @@ Nr. IX-704,
  
 19 straipsnis.
 Pabėgėlio statuso suteikimas ir asmens dokumentai
-1. Išnagrinėjęs užsieniečio
-prašymą suteikti pabėgėlio statusą, motyvuotą sprendimą suteikti pabėgėlio
-statusą arba jo nesuteikti priima Migracijos departamentas.
+1. Išnagrinėjęs
+užsieniečio prašymą suteikti pabėgėlio statusą, motyvuotą sprendimą suteikti
+pabėgėlio statusą arba jo nesuteikti priima Migracijos departamentas.
 2. Užsieniečiui,
 kuriam suteiktas pabėgėlio statusas, Migracijos departamentas išduoda leidimą
 nuolat gyventi Lietuvos Respublikoje.
@@ -782,8 +789,8 @@ teismo patvarkymą.
  
 KETVIRTASIS
 SKIRSNIS
-PABĖGĖLIŲ SOCIALINĖ
-INTEGRACIJA IR NATŪRALIZACIJA
+PABĖGĖLIŲ
+SOCIALINĖ INTEGRACIJA IR NATŪRALIZACIJA
  
 24 straipsnis.
 Pabėgėlių socialinė integracija ir natūralizacija
@@ -821,7 +828,6 @@ užsieniečių teisinės padėties“ nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-704,
 2002-01-15, Žin., 2002, Nr. 13-466 (2002-02-06)
- 
  
 PENKTASIS
 SKIRSNIS
@@ -899,7 +905,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS
 PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
 
-____________
+_________________
  
 Pakeitimai:
  
@@ -934,18 +940,18 @@ PAPILDYMO ĮSTATYMAS
  
 4.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1784, 2000 06 29, Žin., 2000, Nr.
-56-1651 (2000 07 12)
+Nr. VIII-1784,
+2000 06 29, Žin., 2000, Nr. 56-1651 (2000 07 12)
 ĮSTATYMO „DĖL PABĖGĖLIŲ LIETUVOS RESPUBLIKOJE STATUSO“
 PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2000 m. rugsėjo 1 d.
-Nauja įstatymo redakcija
+Nauja įstatymo redakcija (keistas įstatymo pavadinimas)
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2007, 2000 10 10, Žin., 2000, Nr.
-92-2859 (2000 10 31)
+Nr. VIII-2007,
+2000 10 10, Žin., 2000, Nr. 92-2859 (2000 10 31)
 ĮSTATYMO „DĖL PABĖGĖLIŲ LIETUVOS RESPUBLIKOJE STATUSO“
 8, 9 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
@@ -962,12 +968,24 @@ IX-704,
 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 12(1), 12(2), 12(3),
 12(4), 12(5), 12(6) STRAIPSNIAIS ĮSTATYMAS
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1443,
+2003-04-03, Žin., 2003, Nr. 38-1688 (2003-04-24)
+ĮSTATYMO
+„DĖL PABĖGĖLIO STATUSO“ 4 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin.,
+2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin.,
+2002, Nr. 37-1341), t.y. nuo 2003 m .gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-02-08)
+Aušrinė Trapinskienė (2003-05-06)
                  
 autrap@lrs.lt
 
