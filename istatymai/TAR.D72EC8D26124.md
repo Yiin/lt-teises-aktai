@@ -1371,6 +1371,12 @@ finansinių organizacijų, kurių narė yra Lietuvos Respublika, vertybinius
 popierius;
 7)
 loterijų laimėjimai;
+ 
+[7 punkto
+redakcija nuo 2001 m. liepos 1 d.:
+7)
+loterijų ir azartinių lošimų laimėjimai;]
+ 
 8)
 privalomojo ir savanoriškojo draudimo išmokamos sumos, įskaitant valstybinio
 savanoriškojo socialinio draudimo ligos, nėštumo ir gimdymo pašalpas;
@@ -1387,8 +1393,8 @@ vertės vienos ar kitos rūšies daiktas;
 11)
 sporto ir kitų varžybų bei konkursų prizai ir dovanos;
 12)
-palūkanos, gautos už Lietuvos banko licencijas turinčiose banko ir kitose
-kredito įstaigose laikomus indėlius;
+palūkanos, gautos už Lietuvos banko licencijas turinčiose banko ir kitose kredito
+įstaigose laikomus indėlius;
 13)
 pagal 1992, 1993, 1994, 1995, 1996 ir 1997 metų veiklos rezultatus akcininkams
 ar įmonės darbuotojams išduotų akcijų nominali vertė arba anksčiau išduotų
@@ -1413,8 +1419,8 @@ pagalbiniame ūkyje pagamintą ir realizuotą žemės ūkio produkciją, išskyr
 pajamas už realizuotus mėsėdžius švelniaplaukius žvėrelius, nutrijas ir jų
 produkciją, taip pat ūkininkų ir ūkio narių pajamos už ūkininkų ūkiuose,
 įregistruotuose Ūkininko ūkio įstatymo nustatyta tvarka, vykdomą žemės ūkio
-veiklą ir gyventojų pajamos už parduodamas miško gėrybes (grybus, uogas,
-riešutus, vaistažoles ir kt.);
+veiklą ir gyventojų pajamos už parduodamas miško gėrybes (grybus, uogas, riešutus,
+vaistažoles ir kt.);
 20)
 pajamos, gautos pardavus ar kitu būdu perleidus nuosavybėn vertybinius
 popierius.
@@ -1476,6 +1482,8 @@ Nr. VIII-2065, 00.10.17, Žin., 2000,
 Nr.90-2781 (00.10.27)
 Nr. IX-83, 2000 12 19, Žin., 2000, Nr.
 113-3603 (2000 12 30), įsigalioja nuo 2001 01 01
+Nr. IX-257, 2001 04 17, Žin., 2001, Nr.
+39-1329 (2001 05 09), įsigalioja nuo 2001 07 01
  
  
      36
@@ -1489,10 +1497,11 @@ nurodytas numatomas gauti pajamas.
 atvejais, kai per metus ženkliai keičiasi gaunamų pajamų dydis, pajamų mokestis
 gali būti perskaičiuojamas;
      2)
-pasibaigus metams arba nutrūkus gaunamų pajamų šaltiniui, mokestis perskaičiuojamas
-atsižvelgiant į faktišką gautų pajamų dydį. Skirtumas tarp apskaičiuotos ir
-pareikalautos sumokėti mokesčio sumos išieškomas arba grąžinamas per mėnesį, o
-nutrūkus pajamų šaltiniui - per 15 dienų nuo deklaracijos pateikimo dienos.
+pasibaigus metams arba nutrūkus gaunamų pajamų šaltiniui, mokestis
+perskaičiuojamas atsižvelgiant į faktišką gautų pajamų dydį. Skirtumas tarp
+apskaičiuotos ir pareikalautos sumokėti mokesčio sumos išieškomas arba
+grąžinamas per mėnesį, o nutrūkus pajamų šaltiniui - per 15 dienų nuo
+deklaracijos pateikimo dienos.
  
 37 straipsnis.
 Fizinio
@@ -1520,8 +1529,8 @@ jų buvo sumokėti mokesčiai užsienyje;
 patikslinta praėjusiais metais faktiškai gautų bendrųjų pajamų deklaracija
 pateikiama pasibaigus metams iki kitų metų vasario 1 dienos;
 6)
-einamaisiais metais gerokai pasikeitus (sumažėjus arba padidėjus) gaunamų
-pajamų dydžiui, fiziniai asmenys, anksčiau deklaravę numatomas gauti pajamas ir
+einamaisiais metais gerokai pasikeitus (sumažėjus arba padidėjus) gaunamų pajamų
+dydžiui, fiziniai asmenys, anksčiau deklaravę numatomas gauti pajamas ir
 mokantys avansinius mokesčius, gali pateikti naują pajamų deklaraciją, kuria
 remiantis patikslinamas apskaičiuoto pajamų mokesčio įmokų dydis;
 7)
@@ -1579,8 +1588,8 @@ I-1309,
  
 39 straipsnis.
 Už laiku
-nesumokėtą mokestį imami delspinigiai Lietuvos Respublikos mokesčių administravimo
-įstatymo nustatyta tvarka.
+nesumokėtą mokestį imami delspinigiai Lietuvos Respublikos mokesčių
+administravimo įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1595,12 +1604,12 @@ I-1309,
  
  
 40 straipsnis.
-Jei įmonės, įstaigos ir organizacijos
-iš 33 straipsnyje nurodytų gyventojų pajamų mokesčio neišskaito ir nustatytu
-laiku nesumoka į biudžetą, šį mokestį ir delspinigius apskaičiuoja ir iš įmonės
-išieško valstybinės mokesčių inspekcijos. Apskaičiuotas pajamų mokestis ir
-sankcijos sumokami Lietuvos Respublikos mokesčių administravimo įstatymo
-nustatyta tvarka.
+Jei įmonės, įstaigos ir
+organizacijos iš 33 straipsnyje nurodytų gyventojų pajamų mokesčio neišskaito
+ir nustatytu laiku nesumoka į biudžetą, šį mokestį ir delspinigius apskaičiuoja
+ir iš įmonės išieško valstybinės mokesčių inspekcijos. Apskaičiuotas pajamų
+mokestis ir sankcijos sumokami Lietuvos Respublikos mokesčių administravimo
+įstatymo nustatyta tvarka.
 Jei pajamų
 deklaracijos nepateiktos arba pateiktose deklaracijose nurodytos mažesnės
 pajamos, iš turto savininko (pagrindinio buto nuomininko) bei kito asmens,
@@ -1639,13 +1648,13 @@ Nr.I-430,
  
  
             41 straipsnis.
-            Įmonės, įstaigos ir
-organizacijos privalo valstybinėms mokesčių inspekcijoms pateikti žinias apie
-visas Lietuvos Respublikos gyventojams, užsienio valstybių piliečiams ir
-asmenims be pilietybės išmokėtas sumas (pinigais ir natūra), išskyrus išmokas,
-nurodytas šio įstatymo II, III ir IV dalyse, 33 straipsnio ketvirtojoje dalyje
-ir 35 straipsnyje (išskyrus šio straipsnio 11 punkto nuostatą dėl per metus
-parduoto vieno bet kokios vertės vienos ar kitos rūšies daikto).
+            Įmonės, įstaigos ir organizacijos
+privalo valstybinėms mokesčių inspekcijoms pateikti žinias apie visas Lietuvos
+Respublikos gyventojams, užsienio valstybių piliečiams ir asmenims be
+pilietybės išmokėtas sumas (pinigais ir natūra), išskyrus išmokas, nurodytas
+šio įstatymo II, III ir IV dalyse, 33 straipsnio ketvirtojoje dalyje ir 35
+straipsnyje (išskyrus šio straipsnio 11 punkto nuostatą dėl per metus parduoto
+vieno bet kokios vertės vienos ar kitos rūšies daikto).
      Žinios apie
 Lietuvos Respublikos gyventojams išmokėtas sumas pateikiamos valstybinei
 mokesčių inspekcijai, kurios veiklos teritorijoje nuolat gyvena pajamas gavęs
@@ -1655,8 +1664,8 @@ bet kokios vertės vienos arba kitos rūšies daiktą ir neišskaito pajamų
 mokesčio.
      Žinios apie
 užsienio valstybių piliečiams ir asmenims be pilietybės Lietuvoje išmokėtas
-sumas pateikiamos Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų
-ministerijos.
+sumas pateikiamos Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos
+finansų ministerijos.
      Žinios,
 nurodytos šiame straipsnyje, pateikiamos per 10 dienų pasibaigus mėnesiui, kurį
 šios sumos buvo išmokėtos.
@@ -2090,8 +2099,8 @@ nuo 2001 m. sausio 1 d.
  
 33.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1615, 00.04.11, Žin., 2000,
-Nr.34-955 (00.04.26)
+Nr. VIII-1615, 00.04.11, Žin., 2000, Nr.34-955
+(00.04.26)
 FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 4
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja
@@ -2114,34 +2123,34 @@ STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 1.
 Šio įstatymo 6 straipsnio 1 dalies nuostatos dėl mokestiniu laikotarpiu
 atsiradusioms beviltiškoms skoloms tenkančių sąnaudų įtraukimo į sąnaudas
-nustatant apmokestinamąsias pajamas taikomos beviltiškoms skoloms, atsiradusioms
-ne anksčiau kaip 1996 metais. 
+nustatant apmokestinamąsias pajamas taikomos beviltiškoms skoloms,
+atsiradusioms ne anksčiau kaip 1996 metais. 
 2. Šio įstatymo 1 straipsnio, 4 straipsnio 2 dalies, 5 straipsnio, 6
 straipsnio 1 dalies, 7 straipsnio, 8 straipsnio 1 dalies, 9 straipsnio, 10
-straipsnio, 12 straipsnio, išskyrus jame pakeistą 35 straipsnio 14 punktą, nuostatos
-taikomos apskaičiuojant 2000 metų ir vėlesnių metų apmokestinamąsias pajamas.
-Jei nustatytas mokestinis laikotarpis nesutampa su mokestiniais metais, tai šio
-įstatymo 1 straipsnio, 4 straipsnio 2 dalies, 5 straipsnio, 6 straipsnio 1
-dalies, 7 straipsnio, 8 straipsnio 1 dalies, 9 straipsnio, 10 straipsnio, 12
-straipsnio, išskyrus jame pakeistą 35 straipsnio 14 punktą, nuostatos taikomos
-apskaičiuojant 2000 metais prasidėjusio mokestinio laikotarpio ir vėlesnių
-laikotarpių apmokestinamąsias pajamas.
+straipsnio, 12 straipsnio, išskyrus jame pakeistą 35 straipsnio 14 punktą,
+nuostatos taikomos apskaičiuojant 2000 metų ir vėlesnių metų apmokestinamąsias
+pajamas. Jei nustatytas mokestinis laikotarpis nesutampa su mokestiniais
+metais, tai šio įstatymo 1 straipsnio, 4 straipsnio 2 dalies, 5 straipsnio, 6
+straipsnio 1 dalies, 7 straipsnio, 8 straipsnio 1 dalies, 9 straipsnio, 10
+straipsnio, 12 straipsnio, išskyrus jame pakeistą 35 straipsnio 14 punktą,
+nuostatos taikomos apskaičiuojant 2000 metais prasidėjusio mokestinio
+laikotarpio ir vėlesnių laikotarpių apmokestinamąsias pajamas.
 3. Šio įstatymo 4 straipsnio 1 dalies, 6 straipsnio 2 dalies ir 8 straipsnio
 2 dalies nuostatos dėl užsienio valstybių įmonių gautų pajamų už suteiktas
 projektavimo-konstravimo, darbo organizavimo, valdymo, koordinavimo paslaugas,
 už turto nuomą, už parduotą arba kitaip perleistą nuosavybėn nekilnojamąjį
 turtą, kuris registruojamas Nekilnojamojo turto registre, dėl autorinio
 atlyginimo, atlyginimo už perduotas ar autorinėje licencinėje sutartyje
-suteiktas autorių teises ir gretutines teises, taip pat už perduotas ar
-licencinėje sutartyje suteiktas teises naudotis išradimo patentu, pramoniniu
-dizainu, puslaidininkio gaminio topografija, paslaugų ženklu, slapta formule ar
-metodu, frančize, nuostolių ir materialinės žalos atlyginimo už autorių ir
-gretutinių teisių pažeidimą arba kompensacijų už autorių ir gretutinių teisių
-pažeidimą bei dėl palūkanų, išskyrus palūkanas už paskolas, kurias suteikė
-tarptautinės finansinės institucijos (institucijos arba organizacijos, kurių
-visi nariai arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio
-valstybių fondai ir valstybinės finansinės institucijos, kurių daugiau kaip 50
-procentų akcijų paketo turėtojai yra užsienio valstybių vyriausybės) apmokestinimo taikomos nuo 2002 m. sausio 1 d.,
+suteiktas autorių teises ir gretutines teises, taip pat už perduotas ar licencinėje
+sutartyje suteiktas teises naudotis išradimo patentu, pramoniniu dizainu,
+puslaidininkio gaminio topografija, paslaugų ženklu, slapta formule ar metodu,
+frančize, nuostolių ir materialinės žalos atlyginimo už autorių ir gretutinių
+teisių pažeidimą arba kompensacijų už autorių ir gretutinių teisių pažeidimą
+bei dėl palūkanų, išskyrus palūkanas už paskolas, kurias suteikė tarptautinės
+finansinės institucijos (institucijos arba organizacijos, kurių visi nariai
+arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio valstybių
+fondai ir valstybinės finansinės institucijos, kurių daugiau kaip 50 procentų
+akcijų paketo turėtojai yra užsienio valstybių vyriausybės) apmokestinimo taikomos nuo 2002 m. sausio 1 d.,
 apmokestinant šias pajamas ir palūkanas, gautas pagal sutartis, sudarytas iki
 šio įstatymo įsigaliojimo.
 4. Šio įstatymo 2, 3, 11
@@ -2189,9 +2198,16 @@ GALIOS ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-257, 2001 04 17, Žin., 2001, Nr.
+39-1329 (2001 05 09)
+FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 35
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 01 04)
+Redagavo: Aušrinė Trapinskienė (2001 05 11)
                   autrap@lrs.lt
 
