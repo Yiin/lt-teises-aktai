@@ -89,7 +89,7 @@ Nr. XI-2383, 2012-11-08, Žin., 2012, Nr. 136-6954 (2012-11-24), i. k. 1121010IS
 
 
 
-9. Saugiojo dokumento ar saugiojo dokumento blanko metrika – saugiojo dokumento ar saugiojo dokumento blanko grafiniame projekte Valstybės dokumentų technologinės apsaugos tarnybos prie Finansų ministerijos nurodyti užsakymo pateikimo gamintojui metai, gamintojo pavadinimas ir atpažinties (identifikavimo) numeris arba kodas Saugiųjų dokumentų ir saugiųjų dokumentų blankų registre.
+9. Saugiojo dokumento ar saugiojo dokumento blanko metrika – saugiojo dokumento ar saugiojo dokumento blanko grafiniame projekte Valstybės dokumentų technologinės apsaugos tarnybos prie Finansų ministerijos nurodyti užsakymo pateikimo gamintojui metai, gamintojo pavadinimas ir atpažinties (identifikavimo) numeris arba kodas Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinėje sistemoje.
 
 
 
@@ -214,7 +214,7 @@ Nr. XI-2383, 2012-11-08, Žin., 2012, Nr. 136-6954 (2012-11-24), i. k. 1121010IS
 
 
 
-34. Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko privalomoji forma (toliau – privalomoji forma) – Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko rekvizitai ir techniniai duomenys (pavidalas, matmenys, lapų skaičius ir kita).
+34. Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko privalomoji forma (toliau – privalomoji forma) – Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko elementai ir techniniai duomenys (pavidalas, matmenys, lapų skaičius ir kita).
 
 
 
@@ -288,7 +288,7 @@ Nr. XI-2383, 2012-11-08, Žin., 2012, Nr. 136-6954 (2012-11-24), i. k. 1121010IS
 
 
 
-9) tvarko Saugiųjų dokumentų ir saugiųjų dokumentų blankų registrą;
+9) valdo Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinę sistemą;
 
 
 
@@ -319,24 +319,13 @@ Nr. XI-2383, 2012-11-08, Žin., 2012, Nr. 136-6954 (2012-11-24), i. k. 1121010IS
 
 
 4 straipsnis. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registras
-
-
-1. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registras yra saugiųjų dokumentų ir saugiųjų dokumentų blankų duomenų bazė.
-
-
-
-
-2. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro objektas – saugieji dokumentai ir saugieji dokumentų blankai. Registro duomenų bazėje kaupiami duomenys apie saugiųjų dokumentų ir saugiųjų dokumentų blankų technologinę apsaugą, leidybą, gamybą ir klastojimą.
-
-
-
-
-3. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registrą tvarko Tarnyba.
-
-
-
-
-4. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+1. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro objektai yra saugieji dokumentai ir saugieji dokumentų blankai.
+2. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinėje sistemoje tvarkomi duomenų rinkiniai apie saugiųjų dokumentų ir saugiųjų dokumentų blankų registraciją, jų technologinę apsaugą, leidybą ir gamybą. Konkretūs Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinėje sistemoje tvarkomų duomenų rinkinius sudarantys duomenys nustatomi šio registro informacinės sistemos nuostatuose.
+3. Duomenų tvarkymo Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinėje sistemoje tikslas – užtikrinti saugiųjų dokumentų ir saugiųjų dokumentų blankų technologinę apsaugą ir informuoti kompetentingas institucijas bei visuomenę apie apyvartoje esančius saugiuosius dokumentus ir saugiuosius dokumentų blankus.
+4. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinės sistemos valdytoja ir duomenų, įskaitant asmens duomenis, valdytoja yra Tarnyba.
+5. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinės sistemos duomenys teikiami laikantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) 5 straipsnyje apibrėžtų asmens duomenų tvarkymo principų ir 6 straipsnyje nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
+6. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis ir duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį, yra atveriami pakartotinai naudoti.
+7. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinės sistemos objektai registruojami neatlygintinai.
  
 
 
@@ -545,12 +534,12 @@ SAUGIŲJŲ DOKUMENTŲ AR SAUGIŲJŲ DOKUMENTŲ BLANKŲ LEIDYBA IR GAMYBA
 
 
 
-2. Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų tekstas ir rekvizitai turi atitikti bendrinės lietuvių kalbos normas ir raštvedybos reikalavimus.
+2. Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų tekstas ir kiti turinio elementai turi atitikti bendrinės lietuvių kalbos normas ir dokumentų valdymo reikalavimus.
 
 
 
 
-3. Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų tekstas ir rekvizitai turi būti suderinti su Lietuvos archyvų departamentu prie Lietuvos Respublikos Vyriausybės.
+3. Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų tekstas ir kiti turinio elementai turi būti suderinti su Lietuvos vyriausiojo archyvaro tarnyba.
 
 
 
@@ -578,7 +567,7 @@ SAUGIŲJŲ DOKUMENTŲ AR SAUGIŲJŲ DOKUMENTŲ BLANKŲ LEIDYBA IR GAMYBA
 
 
 
-10 straipsnis. Paraiška įregistruoti saugųjį dokumentą ar saugųjį dokumento blanką į Saugiųjų dokumentų ir saugiųjų dokumentų blankų registrą ir parengti saugiojo dokumento ar saugiojo dokumento blanko eskizą ir grafinį projektą
+10 straipsnis. Paraiška įregistruoti saugųjį dokumentą ar saugųjį dokumento blanką Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinėje sistemoje ir parengti saugiojo dokumento ar saugiojo dokumento blanko eskizą ir grafinį projektą
 
 
 1. Tvirtinanti įstaiga po Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų priskyrimo technologinės apsaugos lygiui ir polygiui ir Komisijos sprendimo paskelbimo leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ per 30 dienų pateikia Tarnybai paraišką įregistruoti saugųjį dokumentą ar saugųjį dokumento blanką į Saugiųjų dokumentų ir saugiųjų dokumentų blankų registrą ir parengti saugiojo dokumento ar saugiojo dokumento blanko eskizą ir grafinį projektą (toliau – paraiška). Dėl kiekvieno saugiojo dokumento ar saugiojo dokumento blanko paduodama atskira paraiška.
