@@ -13,6 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4420CD3B5037"
 
 # Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo ir papildymo
 
+Įstatymas netenka galios 2003-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-929, 2002-06-04, Žin., 2002, Nr. 64-2570 (2002-06-26), i. k. 1021010ISTA00IX-929
+Lietuvos Respublikos referendumo įstatymas
+ 
+Suvestinė redakcija nuo 1994-07-27 iki 2002-12-31
+ 
+Įstatymas paskelbtas: Žin. 1994, Nr. 47-870; Žin. 1994, Nr.48-0, i. k. 0941010ISTA000I-496
+ 
+ 
 LIETUVOS RESPUBLIKOS
  
 Į S T A T Y M A S
@@ -35,6 +45,11 @@ Tik referendumu gali būti keičiamos Lietuvos Respublikos Konstitucijos I skirs
 Konstitucijos 1 straipsnio nuostata „Lietuvos valstybė yra nepriklausoma demokratinė respublika“ gali būti pakeista tik referendumu, jeigu už tai pasisakytų ne mažiau kaip 3/4 Lietuvos piliečių, turinčių rinkimų teisę.
 
 Referendumą skelbia Seimas.“
+TAR pastaba. 1 punkto norma, kad „įstatymų nuostatos ekonominiais klausimais gali būti priimamos referendumu tik atlikus ekonominę ekspertizę dėl būsimų pasekmių“, prieštarauja Lietuvos Respublikos Konstitucijos 3, 4, 9 ir 33 straipsniams.
+
+Punkto pakeitimai:
+1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214            
+ 
 
 2. 2 straipsnį pakeisti taip:
 
@@ -110,6 +125,11 @@ Visus duomenis parašų rinkimo lape pasirašantis pilietis užpildo pats.
 Piliečių parašų rinkimo lapus išduoda Vyriausioji rinkimų komisija.
 
 Lietuvos Respublikos Seimo narių, teikiančių pasiūlymą dėl referendumo paskelbimo, parašų autentiškumą patvirtina Lietuvos Respublikos Seimo valdyba. Lietuvos Respublikos Seimo narių pasiūlymas įteikiamas Lietuvos Respublikos Seimui.“
+TAR pastaba. 9 punkto norma, kuria Referendumo įstatymo 9 straipsnio trečioji dalis pakeista nustatant, „kad visus duomenis parašų rinkimo lape pasirašantis pilietis užpildo pats“, prieštarauja Lietuvos Respublikos Konstitucijos 4, 9 ir 33 straipsniams.
+
+Straipsnio dalies pakeitimai:
+1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214            
+ 
 
 10. 10 straipsnį pakeisti taip:
 
@@ -142,6 +162,12 @@ Jeigu Seimas konstatuoja, kad referendumui teikiamas įstatymo nuostatų projekt
 Jeigu Seimas nutaria apsvarstyti ir priimti teikiamas įstatymo nuostatas, referendumo paskelbimas gali būti atidėtas, tačiau referendumas turi būti paskelbtas tame pačiame posėdyje, kuriame Seimas nepriima teikiamų įstatymo nuostatų.
 
 Šiame straipsnyje numatytų terminų eiga sustabdoma laikotarpiu tarp Lietuvos Respublikos Seimo sesijų.“
+TAR pastaba. 12 punkto, kuriuo Referendumo įstatymo 12 straipsnis papildytas antrąja dalimi, nuostata „pirmiausia turi būti nagrinėjamas Konstitucijos keitimo klausimas“ prieštarauja Lietuvos Respublikos Konstitucijos 3, 4 ir 9 straipsniams.
+12 punkto norma, kuria Referendumo įstatymo 12 straipsnis papildytas trečiąja dalimi, prieštarauja Lietuvos Respublikos Konstitucijos 4, 9 straipsniams ir 67 straipsnio 3 punktui.
+
+Straipsnio dalies pakeitimai:
+1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214            
+ 
 
 13. 13 straipsnį išdėstyti taip:
 
@@ -716,4 +742,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214                
+Dėl 1994 m. birželio 15 d. įstatymo "Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo ir papildymo" 1, 9, 12 ir 39 punktų nuostatų, kuriomis buvo pakeisti ar papildyti Referendumo įstatymo 1, 9, 12 ir 32 straipsniai, atitikimo Lietuvos Respublikos Konstitucijai
 
