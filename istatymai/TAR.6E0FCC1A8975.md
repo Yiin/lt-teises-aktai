@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6E0FCC1A8975"
 
 # Lietuvos Respublikos vidaus vandenų transporto kodekso 3, 4, 7, 10, 13, 15, 16, 17, 18, 19, 24, 26, 27, 40, 41, 42, 47 straipsnių pakeitimo ir kodekso papildymo 4-1 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2000-10-11
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 75-2267, i. k. 1001010ISTAIII-1900
+ 
 LIETUVOS RESPUBLIKOS
 VIDAUS VANDENŲ TRANSPORTO KODEKSO 3, 4, 7, 10, 13, 15, 16, 17, 18, 19, 24, 26, 27, 40, 41, 42, 47 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 41 STRAIPSNIU
 Į S T A T Y M A S
@@ -627,10 +631,12 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 19 straipsnis. Įstatymo įsigaliojimas
 
 
-Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d.
+Šis įstatymas įsigalioja nuo 2000 m. spalio 1 d. 
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1964, 2000-09-26, Žin., 2000, Nr. 85-2585 (2000-10-11), i. k. 1001010ISTAIII-1964
  
-
-
 
 
 
@@ -639,3 +645,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1964, 2000-09-26, Žin., 2000, Nr. 85-2585 (2000-10-11), i. k. 1001010ISTAIII-1964
+Lietuvos Respublikos vidaus vandenų transporto kodekso 3, 4, 7, 10, 13, 15, 16, 17, 18, 19, 24, 26, 27, 40, 41, 42, 47 straipsnių pakeitimo ir Kodekso papildymo 4(1) straipsniu įstatymo 19 straipsnio pakeitimo įstatymas
