@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
+Suvestinė redakcija nuo 1998-06-05 iki 2004-12-31
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
+ 
 LIETUVOS RESPUBLIKOS PACIENTŲ TEISIŲ IR ŽALOS SVEIKATAI ATLYGINIMO Į S T A T Y M A S
  
 1996 m. spalio 3 d. Nr. I-1562
@@ -368,6 +372,8 @@ IV SKYRIUS
 PACIENTŲ SVEIKATAI PADARYTOS ŽALOS
 ATLYGINIMO PAGRINDAI IR TVARKA
  
+TAR pastaba. Nutraukiamas IV skyriaus galiojimas ir nustatoma, kad šis skyrius galioja nuo 1999 m. sausio 1 d. (pagal 1998 m. gegužės 21 d. priimtą  įstatymą Nr. VIII-755).
+ 
 
 
 14 straipsnis. Pacientams padarytos žalos samprata
@@ -574,11 +580,13 @@ Komisijos sprendimai gali būti skundžiami Sveikatos apsaugos ministerijai, o �
 
 
 Asmuo, pažeidęs šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+
+
+
+Skyriaus pakeitimai:
+Nr. VIII-755, 1998-05-21, Žin., 1998, Nr. 52-1425 (1998-06-05), i. k. 0981010ISTAVIII-755
  
-
-
-
-
 
 
 
@@ -596,7 +604,9 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2. Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo IV skyrius įsigalioja nuo 1998 m. gegužės 1 d.
+2. Neteko galios nuo 1998-06-05
+Straipsnio dalies naikinimas:
+Nr. VIII-755, 1998-05-21, Žin. 1998, Nr. 52-1425 (1998-06-05), i. k. 0981010ISTAVIII-755
  
 
 
@@ -610,3 +620,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-755, 1998-05-21, Žin., 1998, Nr. 52-1425 (1998-06-05), i. k. 0981010ISTAVIII-755
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 25 straipsnio pakeitimo įstatymas
