@@ -177,20 +177,11 @@ vykdymą;
 valdymo institucijas ir paramos gavėjus, kaip naudojamos Lietuvos Respublikoje
 gautos Europos Sąjungos lėšos ir kaip vykdomos programos, kuriose dalyvauja
 Lietuva.
- 
-[Iki 2004-01-01]
-2. Valstybės kontrolė turi teisę audituoti
-savivaldybių biudžetų vykdymą. Savivaldybių turto valdymą, naudojimą bei
-disponavimą juo Valstybės kontrolė audituoja pagal valstybinio audito mastą,
-nustatytą Įstatymo 14 straipsnio 2 dalyje.
- 
-[Nuo 2004-01-01]
 2. Valstybės
 kontrolė audituoja valstybės biudžeto lėšų, skiriamų  savivaldybių
 biudžetams, naudojimą. Savivaldybių turto valdymą, naudojimą bei
 disponavimą juo Valstybės kontrolė audituoja pagal valstybinio audito mastą,
 nustatytą šio Įstatymo 14 straipsnyje.
- 
 3. Valstybės
 kontrolė kasmet teikia Seimui: 
 1) išvadą dėl valstybės biudžeto įvykdymo apyskaitos; 
@@ -202,9 +193,6 @@ kontrolės veiklos ataskaitą.
 tarptautinių sutarčių, kitų teisės aktų nustatyta tvarka atlieka Lietuvos
 Respublikoje gaunamos Europos Sąjungos finansinės paramos auditus ir teikia
 atitinkamoms institucijoms šių auditų dokumentus.
- 
-[Nuo
-2004-01-01]
 5. Valstybės kontrolė rengia savivaldybių kontrolierių
 tarnyboms audito metodikas bei valstybės kontrolieriaus nustatyta tvarka
 atlieka savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos)
@@ -285,31 +273,6 @@ valstybinio audito reikalavimus.
 3. Valstybinio audito reikalavimai skelbiami
 leidinyje „Valstybės žinios“.
  
-[Iki
-2004-01-01]
-14 straipsnis. Valstybinio audito mastas 
-1. Finansinio audito
-subjektai yra šie:
-1)
-valstybės institucijos ir įstaigos;
-2) įmonės, kai pagal
-atitinkamą įmonės rūšį reglamentuojantį įstatymą finansinio audito neatlieka
-audito įmonė.
-2. Veiklos audito subjektai yra šie:
-1) valstybės institucijos ir įstaigos, savivaldybės;
-2) visų rūšių įmonės, kuriose valstybei priklausančios
-akcijos suteikia ne mažiau kaip 1/2 balsų;
-3) įstaigos,
-organizacijos ir kiti juridiniai asmenys, kuriems valstybės institucija ar
-savivaldybė suteikė lėšų arba perdavė turto;
-4) taip pat atliekamas Valstybinio socialinio draudimo
-fondo biudžeto ir Privalomojo sveikatos draudimo fondo biudžeto vykdymo veiklos
-auditas.
-3. Seimas nutarimu gali pavesti Valstybės kontrolei
-atlikti valstybinį auditą pagal jos kompetenciją. 
- 
-[Nuo
-2004-01-01]
 14 straipsnis. Valstybinio audito mastas 
 1. Valstybės kontrolė valstybinio audito mastą
 kasmet nustato valstybinio audito programose. Šias programas tvirtina valstybės
@@ -324,8 +287,8 @@ valstybės ar savivaldybės institucija suteikė lėšų arba perdavė turto.
 3. Valstybės kontrolė taip pat atlieka valstybės
 biudžeto, Valstybinio socialinio draudimo fondo biudžeto ir Privalomojo
 sveikatos draudimo fondo biudžeto vykdymo valstybinį auditą.
-4. Seimas nutarimu gali pavesti Valstybės kontrolei atlikti
-valstybinį auditą pagal jos kompetenciją.
+4. Seimas nutarimu gali pavesti Valstybės kontrolei
+atlikti valstybinį auditą pagal jos kompetenciją.
 Straipsnio
 pakeitimai
 Nr.
@@ -342,8 +305,8 @@ valstybinio audito ataskaita teikti pastabas dėl atlikto audito.
 Valstybės kontrolės pareigūnams, įgaliotiems atlikti valstybinį auditą, laisvai
 patekti į patalpas, gauti dokumentus, tikrinti informacijos šaltinius ir gauti
 duomenis, įskaitant informaciją elektroniniu ryšiu, taip pat susitikti su
-audituojamo subjekto vadovais ir darbuotojais bei gauti jų raštiškus
-paaiškinimus. 
+audituojamo subjekto vadovais ir darbuotojais bei gauti jų raštiškus paaiškinimus.
+
 3. Audituojamas subjektas privalo sudaryti tinkamas
 darbo sąlygas Valstybės kontrolės pareigūnams valstybiniam auditui atlikti. 
  
@@ -358,8 +321,8 @@ nustatyta tvarka teisėsaugos institucijos paima valstybinio audito dokumentus.
 3. Valstybinio audito dokumentai saugomi Archyvų
 įstatymo nustatyta tvarka. 
  
-17 straipsnis. Valstybinio audito rezultatai ir jų
-įforminimas 
+17 straipsnis. Valstybinio audito rezultatai ir jų įforminimas
+
 1. Finansinis
 auditas baigiamas surašius audito ataskaitą ir audito išvadą, o veiklos auditas
 – surašius audito ataskaitą. 
@@ -509,8 +472,8 @@ tiesioginiu pavaldumu kitam ar vieno teise kontroliuoti kitą;
 apribojimų.
  
 27 straipsnis. Valstybės kontrolieriaus skyrimo tvarka 
-1. Valstybės
-kontrolierių penkeriems metams Respublikos Prezidento teikimu skiria Seimas. 
+1. Valstybės kontrolierių
+penkeriems metams Respublikos Prezidento teikimu skiria Seimas. 
 2. Tas pats
 asmuo valstybės kontrolieriumi gali būti skiriamas ne daugiau kaip du kartus iš
 eilės. 
@@ -562,8 +525,14 @@ Tepadeda man Dievas“.
  
 31 straipsnis. Turto ir pajamų deklaravimas
 Valstybės kontrolierius, jo pavaduotojai bei Valstybės
-kontrolės pareigūnai įstatymų nustatyta tvarka privalo pateikti savo ir savo
-šeimos narių turto ir pajamų deklaracijas bei privačių interesų deklaracijas. 
+kontrolės tarnautojai įstatymų nustatyta tvarka privalo pateikti savo ir savo
+šeimos narių gyventojo turto ir gyventojų pajamų mokesčio deklaracijas bei
+privačių interesų deklaracijas. 
+Straipsnio
+pakeitimai:
+Nr.
+IX-1912,
+2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
  
 32 straipsnis. Tarnybinis pažymėjimas 
 1. Valstybės kontrolės pareigūnas turi nustatyto
@@ -655,14 +624,19 @@ atleidimo pagrindais.
 2. Valstybės
 kontrolės pareigūnai taip pat atleidžiami: 
 1) jeigu atsisako
-įstatymų nustatyta tvarka deklaruoti savo ir savo šeimos narių turtą ir pajamas
-bei privačius interesus; 
+įstatymų nustatyta tvarka deklaruoti savo ir savo šeimos narių turtą ir pajamų
+mokestį bei privačius interesus;
 2) jeigu savo
 poelgiu tarnybos metu arba ne tarnybos metu diskredituoja Valstybės kontrolės
 pareigūno vardą; 
 3) jeigu atskleidžia valstybės ar tarnybos paslaptį; 
 4) Pilietybės
 įstatymo nustatyta tvarka, netekę Lietuvos Respublikos pilietybės. 
+Straipsnio
+pakeitimai:
+Nr.
+IX-1912,
+2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
  
 IX
 SKYRIUS
@@ -679,10 +653,10 @@ kontrolės pareigūnai turi tas pačias pareigas kaip ir valstybės tarnautojai.
 2. Valstybės
 kontrolės pareigūnai privalo: gerbti audituojamo subjekto teises ir teisėtus
 interesus; neskelbti atlikto audito duomenų ir viešai jų nevertinti, kol
-nepasirašyta audito ataskaita; saugoti valstybės ir tarnybos paslaptis; nesinaudoti
-ir neleisti naudotis tarnybine ar su tarnyba susijusia riboto naudojimo
-informacija kitokia tvarka ir mastu, nei nustato įstatymai ar kiti teisės
-aktai. 
+nepasirašyta audito ataskaita; saugoti valstybės ir tarnybos paslaptis;
+nesinaudoti ir neleisti naudotis tarnybine ar su tarnyba susijusia riboto
+naudojimo informacija kitokia tvarka ir mastu, nei nustato įstatymai ar kiti
+teisės aktai. 
  
 X SKYRIUS
 VALSTYBĖS KONTROLĖS PAREIGŪNŲ MOKYMAS IR
@@ -694,9 +668,8 @@ procesas
 kontrolė nustato pareigūnų mokymo ir kvalifikacijos kėlimo strategiją bei
 kvalifikacijos kėlimo prioritetus valstybinio audito srityje.
 2. Valstybės
-kontrolė turi sudaryti sąlygas pareigūnų kvalifikacijai kelti, o pareigūnai
-privalo nuolat kelti savo kvalifikaciją valstybės kontrolieriaus nustatyta
-tvarka. 
+kontrolė turi sudaryti sąlygas pareigūnų kvalifikacijai kelti, o pareigūnai privalo
+nuolat kelti savo kvalifikaciją valstybės kontrolieriaus nustatyta tvarka. 
 3. Mokymas ir kvalifikacijos kėlimas organizuojamas
 vadovaujantis metiniais planais, pagal specialias programas, sudarant sutartis
 su Lietuvos Respublikos bei užsienio valstybių mokymo įstaigomis, taip pat
@@ -712,10 +685,10 @@ kvalifikacijos kėlimas finansuojami iš Valstybės kontrolei skirtų biudžeto
 asignavimų. 
 2. Siunčiant pareigūnus mokytis į užsienį, su jais
 sudaromos mokslo finansavimo sutartys. 
-3. Valstybės
-kontrolės pareigūnų mokymuisi ir kvalifikacijos kėlimui Valstybės kontrolės
-sąmatose numatoma lėšų, kurios turi sudaryti nuo vieno iki penkių procentų
-asignavimų darbo užmokesčiui dydžio. 
+3. Valstybės kontrolės
+pareigūnų mokymuisi ir kvalifikacijos kėlimui Valstybės kontrolės sąmatose
+numatoma lėšų, kurios turi sudaryti nuo vieno iki penkių procentų asignavimų
+darbo užmokesčiui dydžio. 
  
 XI
 SKYRIUS
@@ -866,12 +839,26 @@ Nr. IX-1851,
 VALSTYBĖS
 KONTROLĖS ĮSTATYMO 9 IR 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Įstatymas
-įsigalioja nuo 2004-01-01.
+įsigalioja nuo 2004 m. sausio 1 d.
+ 
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1912,
+2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
+PROKURATŪROS
+ĮSTATYMO, VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE
+ĮSTATYMO, SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO, PREZIDENTO RINKIMŲ ĮSTATYMO,
+SEIMO RINKIMŲ ĮSTATYMO, PINIGINĖS SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS
+ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS) ĮSTATYMO, VALSTYBĖS GARANTUOJAMOS
+TEISINĖS PAGALBOS ĮSTATYMO IR VALSTYBĖS KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Įstatymas
+įsigalioja nuo 2004 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2003-12-12)
-                 
-aubodi@lrs.lt
+Aušra Bodin (2003-12-31)
+                  aubodi@lrs.lt
