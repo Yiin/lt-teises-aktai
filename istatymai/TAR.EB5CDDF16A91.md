@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EB5CDDF16A91"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 1993-12-18 iki 1996-07-25
+Įstatymas netenka galios 1997-06-10:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-222, 1997-05-22, Žin., 1997, Nr. 50-1190 (1997-06-06), i. k. 0971010ISTAVIII-222
+Lietuvos Respublikos operatyvinės veiklos įstatymas
+ 
+Suvestinė redakcija nuo 1996-07-26 iki 1997-06-09
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 140-0; Žin. 1992, Nr.22-639, i. k. 0921010ISTA00I-2747
  
@@ -162,6 +167,10 @@ Informacija, gauta operatyvinės veiklos prasiskverbiančio pobūdžio priemonė
 10 straipsnis. Atsakomybė už operatyvinės veiklos pažeidimus
 
 Asmenys, pažeidę Operatyvinės veiklos įstatymą, atsako pagal Lietuvos Respublikos įstatymus.
+
+Ne operatyvinės veiklos subjektų veika, kuriai reikalinga generalinio prokuroro ar jį pavaduojančio asmens sankcija, draudžiama ir užtraukia atsakomybę pagal Lietuvos Respublikos įstatymus.
+Papildyta straipsnio dalimi:
+Nr. I-1471, 1996-07-11, Žin., 1996, Nr. 71-1709 (1996-07-26), i. k. 0961010ISTA00I-1471
  
 
 11 straipsnis. Operatyvinės veiklos slaptųjų dalyvių ir informacijos teisinė apsauga
@@ -214,4 +223,9 @@ Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-336, 1993-12-15, Žin., 1993, Nr. 70-1310 (1993-12-18), i. k. 0931010ISTA000I-336
 Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1471, 1996-07-11, Žin., 1996, Nr. 71-1709 (1996-07-26), i. k. 0961010ISTA00I-1471
+Lietuvos Respublikos operatyvinės veiklos įstatymo 10 straipsnio papildymo įstatymas
 
