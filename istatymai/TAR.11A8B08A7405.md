@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 1997-04-09 iki 1999-11-30
+Suvestinė redakcija nuo 1999-12-01 iki 2000-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -93,7 +93,9 @@ Kardomojo kalinimo (suėmimo) pagrindus nustato Baudžiamojo proceso kodeksas.
 
 
 
-3. Prireikus atlikti tardymo veiksmus suimti asmenys gali būti uždaryti į policijos areštines, tačiau ne ilgiau kaip dešimčiai parų.
+3. Asmenys, kuriems paskirtas kardomasis kalinimas (suėmimas), gali būti uždaryti į policijos areštines, tačiau ne ilgiau kaip penkiolikai parų.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
  
 
 
@@ -1280,7 +1282,7 @@ SĄRAŠAS
 
 
 
-2. Visų rūšių šaunamieji ir nešaunamieji ginklai, šaudmenys bei sprogmenys, dujų balionėliai, žiebtuvėliai.
+2. Visų rūšių šaunamieji ir nešaunamieji ginklai, šaudmenys bei sprogmenys, dujų balionėliai.
 
 
 
@@ -1300,7 +1302,7 @@ SĄRAŠAS
 
 
 
-6. Magnetofonai, videomagnetofonai, kompiuteriai, telefonai.
+6. Magnetofonai, videomagnetofonai, kompiuteriai (išskyrus kompiuterinių žaidimų aparatus), telefonai.
 
 
 
@@ -1315,7 +1317,7 @@ SĄRAŠAS
 
 
 
-9. Narkotikai, toksinės priemonės ir stipriai veikiantys medikamentai, medicininės paskirties daiktai.
+9. Narkotikai, toksinės priemonės ir stipriai veikiantys medikamentai, taip pat nesant gydytojo leidimo – medicininės paskirties daiktai.
 
 
 
@@ -1345,7 +1347,7 @@ SĄRAŠAS
 
 
 
-15. Dokumentai (išskyrus įstatymų tekstus, teismų nuosprendžių, nutarčių ir nutarimų nuorašus, atiduotų saugoti pinigų, vertingų daiktų kvitus).
+15. Dokumentai (išskyrus įstatymų ir kitų teisės aktų, skelbiamų „Valstybės žiniose“, tekstus, teismų nuosprendžių, nutarčių ir nutarimų nuorašus, atiduotų saugoti pinigų, vertingų daiktų kvitus).
 
 
 
@@ -1360,9 +1362,12 @@ SĄRAŠAS
 
 
 
-18. Spalvoti pieštukai, flamasteriai, visų spalvų dažai, kopijavimo popierius.
+18. Kopijavimo popierius.
 
 
+Priedo pakeitimai:
+Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
+ 
 
 
 
@@ -1435,3 +1440,8 @@ Lietuvos Respublikos kardomojo kalinimo įstatymo 6, 9 ir 35 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. 0971010ISTAVIII-151
 Lietuvos Respublikos kardomojo kalinimo įstatymo 32 ir 33 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
+Lietuvos Respublikos kardomojo kalinimo įstatymo 5 straipsnio ir 1 priedėlio pakeitimo įstatymas
