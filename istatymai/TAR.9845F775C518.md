@@ -138,7 +138,6 @@ pakeitimai:
 Nr. IX-278, 2001 04 19, Žin., 2001, Nr.
 39-1348 (2001 05 09)
  
- 
 6 straipsnis. Nepriekaištingos reputacijos
 sąvoka
 Asmuo nelaikomas nepriekaištingos reputacijos ir jo
@@ -572,7 +571,8 @@ teisininkas.
 Drausminės nuobaudos ir kiti Auditorių garbės teismo priimami 
 sprendimai
 1. Už pažeidimus, nurodytus šio įstatymo 30 straipsnio
-1 dalyje, Auditorių garbės teismas gali skirti auditoriui šias nuobaudas:
+1 dalyje, Auditorių garbės teismas gali skirti auditoriui šias
+nuobaudas:
 1) įspėjimą;
 2) papeikimą;
 3) papeikimą, viešai apie tai paskelbiant.
@@ -590,9 +590,8 @@ Auditorių garbės teismo ir Vyriausybės įgaliotos institucijos
 sprendimų
 apskundimas
 Auditorių garbės teismo ir Vyriausybės įgaliotos
-institucijos sprendimai gali būti apskųsti per 1 mėnesį nuo atitinkamo
-sprendimo įteikimo dienos Administracinių bylų teisenos įstatymo nustatyta
-tvarka.
+institucijos sprendimai gali būti apskųsti per 1 mėnesį nuo atitinkamo sprendimo
+įteikimo dienos Administracinių bylų teisenos įstatymo nustatyta tvarka.
  
 ŠEŠTASIS SKIRSNIS
 AUDITORIŲ RŪMAI
@@ -793,13 +792,11 @@ ir turto vertinimo instituto iki šio įstatymo įsigaliojimo, prilyginami
 auditoriaus pažymėjimui, išduotam šio įstatymo nustatyta tvarka.
 2. Leidimai atlikti auditą bus keičiami į auditoriaus
 pažymėjimą pasibaigus leidimų galiojimo terminui.
-3. Asmenims, iki šio įstatymo įsigaliojimo dienos
-Audito, apskaitos ir turto vertinimo institute išlaikiusiems bent vieną
-kvalifikacinį egzaminą, leidžiama laikyti likusius kvalifikacinius egzaminus
-Vyriausybės įgaliotoje institucijoje (netaikant šio įstatymo 5 straipsnio 6
-dalies 2 punkto reikalavimų) per 1 metus nuo šio įstatymo įsigaliojimo dienos.
-Asmenys, neišlaikę egzaminų per nurodytą laikotarpį, galės laikyti juos tik
-įvykdę šio įstatymo 5 straipsnio 6 dalies 2 punkto reikalavimus.
+3. Asmenims, iki šio įstatymo
+įsigaliojimo dienos Audito, apskaitos ir turto vertinimo institute
+išlaikiusiems bent vieną kvalifikacinį egzaminą, leidžiama laikyti likusius
+kvalifikacinius egzaminus Vyriausybės įgaliotoje institucijoje netaikant šio
+įstatymo 5 straipsnio 6 dalies 2 punkto reikalavimų.
 4. Asmenims, pateikusiems Audito, apskaitos ir turto
 vertinimo institutui prašymus laikyti kvalifikacinius auditoriaus egzaminus,
 bet dar nelaikiusiems egzaminų, taip pat neišlaikiusiems nė vieno egzamino,
@@ -817,13 +814,16 @@ sąrašą. Ne vėliau kaip per 6 mėnesius nuo Audito įstatymo įsigaliojimo š
 KŪB tikrųjų narių) įtaką įmonės valdymui taip, kad jų įtaka atitiktų šio
 įstatymo 13 straipsnio reikalavimus, ir pateikti Vyriausybės įgaliotai
 institucijai tai patvirtinančius dokumentus. Audito UAB administracijos vadovas
-bei valdybos nariai taip pat turi atitikti šio įstatymo 13 straipsnio reikalavimus.
-Audito įmonės, neįvykdžiusios šių reikalavimų, išbraukiamos iš audito įmonių
-sąrašo.
+bei valdybos nariai taip pat turi atitikti šio įstatymo 13 straipsnio
+reikalavimus. Audito įmonės, neįvykdžiusios šių reikalavimų, išbraukiamos iš
+audito įmonių sąrašo.
 7. Įmonėms, kurios šio įstatymo įsigaliojimo dieną yra
 pateikusios dokumentus licencijai gauti, bet sprendimas dėl licencijų išdavimo
 dar nėra priimtas, licencijos neišduodamos. Įmonės įrašomos į audito įmonių
 sąrašą šio įstatymo nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. IX-556,
+2001-10-16, Žin., 2001, Nr. 91-3191 (2001-10-26)
  
 48 straipsnis. Pasiūlymai Vyriausybei
 Pasiūlyti Vyriausybei:
@@ -862,15 +862,23 @@ Pakeitimai:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-278,
-2001 04 19, Žin., 2001, Nr. 39-1348 (2001 05 09)
+Nr. IX-278, 2001
+04 19, Žin., 2001, Nr. 39-1348 (2001 05 09)
 AUDITO ĮSTATYMO
 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-556,
+2001-10-16, Žin., 2001, Nr. 91-3191 (2001-10-26)
+AUDITO ĮSTATYMO 47 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 *** Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001 05 14)
+Aušrinė Trapinskienė (2001-10-26)
                  
 autrap@lrs.lt
