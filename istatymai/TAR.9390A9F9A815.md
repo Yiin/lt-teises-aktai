@@ -1,0 +1,781 @@
+---
+tar_id: TAR.9390A9F9A815
+dok_nr: IX-816
+pavadinimas: Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
+rusis: istatymas
+leidziantis_organas: Lietuvos Respublikos Seimas
+priemimo_data: 2002-03-28
+isigaliojimo_data: 2002-04-01
+paskelbimo_data: 2002-03-28
+statusas: galioja
+etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9390A9F9A815"
+---
+
+# Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
+
+LIETUVOS RESPUBLIKOS FINANSINIŲ NUSIKALTIMŲ TYRIMO TARNYBOS ĮSTATYMAS
+ 
+2002 m. kovo 28 d. Nr. IX-816
+Vilnius
+ 
+
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+ 
+
+
+1 straipsnis. Įstatymo paskirtis
+
+
+Šis Įstatymas nustato Finansinių nusikaltimų tyrimo tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos paskirtį, veiklos principus ir teisinius pagrindus, uždavinius, funkcijas, organizacinę struktūrą, finansavimą, veiklos kontrolę, bendradarbiavimo su valstybės ar savivaldybių institucijomis ir įstaigomis, kitais fiziniais ir juridiniais asmenimis pagrindus, šios Tarnybos pareigūnų įgaliojimus, teises ir pareigas, atsakomybę bei prievartos panaudojimo teisėtumo sąlygas.
+ 
+
+
+
+
+
+
+2 straipsnis. Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos
+
+
+Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Tarnyba) – Lietuvos Respublikos vidaus reikalų ministerijai atskaitinga valstybės teisėsaugos įstaiga, kurios paskirtis – vykdyti nusikaltimų, kitų teisės pažeidimų finansų sistemai ir su jais susijusių nusikaltimų, kitų teisės pažeidimų atskleidimą bei tyrimą.
+ 
+
+
+
+
+
+
+3 straipsnis. Tarnybos teisinė forma ir veiklos teisiniai pagrindai
+
+
+1. Tarnyba yra viešasis juridinis asmuo ir turi antspaudą su Lietuvos valstybės herbu bei savo pavadinimu.
+
+
+
+
+2. Tarnyba savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais.
+ 
+
+
+
+
+
+
+4 straipsnis. Tarnybos veiklos principai
+
+
+Tarnybos veikla grindžiama teisėtumo, žmogaus teisių ir laisvių gerbimo, lygybės įstatymams, veiklos viešumo ir konfidencialumo derinimo, asmeninės iniciatyvos ir tarnybinės drausmės derinimo principais.
+ 
+
+
+
+
+
+
+5 straipsnis. Tarnybos bendradarbiavimas su kitomis valstybės, savivaldybių institucijomis ir įstaigomis, visuomenės informavimo priemonėmis bei visuomene
+
+
+1. Tarnyba bendradarbiauja su teisėsaugos institucijomis ir įstaigomis įstatymų bei kitų teisės aktų nustatyta tvarka.
+
+
+
+
+2. Tarnyba bendradarbiauja su kitomis valstybės bei savivaldybių institucijomis ir įstaigomis įgyvendindama nusikalstamumo kontrolės ir prevencijos programas bei įtraukdama į šią veiklą visuomenines organizacijas, fizinius ir juridinius asmenis. Jos bendradarbiavimo su mokesčio administratoriais tvarką nustato Vidaus reikalų ministerija ir Finansų ministerija. Tarnyba bendradarbiauja su visuomeninėmis organizacijomis, fiziniais ir juridiniais asmenimis įstatymų bei kitų teisės aktų nustatyta tvarka. 
+
+
+
+
+3. Tarnyba remia teisinio švietimo programas propaguodama teisines žinias mokymo įstaigose, taip pat per visuomenės informavimo priemones.
+
+
+
+
+4. Tarnyba bendradarbiauja su visuomenės informavimo priemonėmis įstatymų nustatyta tvarka.
+
+
+
+
+5. Tarnyba per visuomenės informavimo priemones, taip pat pati leisdama neperiodinius informacinio pobūdžio leidinius teikia visuomenei informaciją apie nusikalstamų veikų ir kitų teisės pažeidimų prevencijos priemonių, nustatytų uždavinių įgyvendinimą bei kitą su Tarnybos veikla susijusią informaciją.
+ 
+
+
+
+
+
+
+
+
+II SKYRIUS
+TARNYBOS UŽDAVINIAI IR FUNKCIJOS
+ 
+
+
+6 straipsnis. Tarnybos uždaviniai
+
+
+Tarnybos uždaviniai:
+
+
+1) apsaugoti valstybės finansų sistemą nuo nusikalstamo poveikio;
+
+
+
+
+2) atskleisti ir tirti nusikaltimus, kitus teisės pažeidimus finansų sistemai bei su jais susijusius nusikaltimus ir kitus teisės pažeidimus;
+
+
+
+
+3) vykdyti nusikaltimų ir kitų teisės pažeidimų finansų sistemai bei su jais susijusių teisės pažeidimų prevenciją;
+
+
+
+
+4) vykdyti kituose įstatymuose Tarnybai nustatytus kitus uždavinius.
+ 
+
+
+
+
+
+
+
+
+7 straipsnis. Tarnybos funkcijos
+
+
+Tarnybos funkcijos:
+
+
+1) įstatymų nustatyta tvarka ir pagrindais atskleisti ir tirti veikas, susijusias su mokesčių mokėtojų apgaulingu ar aplaidžiu apskaitos tvarkymu, žinomai neteisingų duomenų apie mokesčius, valstybės (savivaldybės) rinkliavas ir kitas įmokas teikimu atsakingoms institucijoms ir įstaigoms, mokesčių, valstybės (savivaldybės) rinkliavų, valstybinio socialinio draudimo ir kitų įmokų vengimu, nustatyta tvarka patvirtintų ataskaitų nepateikimu, ir kitus teisės pažeidimus, susijusius su mokesčiais, valstybės (savivaldybės) rinkliavomis, valstybinio socialinio draudimo ir kitomis įmokomis;
+
+
+
+
+2) įstatymų nustatyta tvarka ir pagrindais atskleisti ir tirti veikas, susijusias su nusikalstamu būdu įgytų pinigų ar turto legalizavimu, vertybinių popierių neteisėta apyvarta, netikrais pinigais, kitas neteisėtas veikas, susijusias su finansų sistema;
+
+
+
+
+3) įstatymų nustatyta tvarka vykdyti operatyvinę veiklą, atlikti kvotą, parengtinį tardymą, ūkinės finansinės veiklos patikrinimus, revizijas;
+
+
+
+
+4) bendradarbiauti su Lietuvos Respublikos ir užsienio valstybių teisėsaugos bei kitomis institucijomis ir įstaigomis, tarptautinėmis organizacijomis Tarnybos kompetencijos klausimais;
+
+
+
+
+5) įgyvendinti prevencines priemones, užkertančias kelią mokesčių, valstybės (savivaldybės) rinkliavų bei kitų įmokų vengimui, valstybės ir savivaldybių biudžetų bei fondų lėšų pasisavinimui ir iššvaistymui, taip pat pinigų plovimo prevencijos priemones;
+
+
+
+
+6) rengti pasiūlymus dėl įstatymų ir kitų teisės aktų, reglamentuojančių nusikaltimų, kitų teisės pažeidimų finansų sistemai bei su jais susijusių teisės pažeidimų tyrimą, tobulinimo bei teisės aktų, reglamentuojančių nusikaltimų, kitų teisės pažeidimų finansų sistemai bei su jais susijusių teisės pažeidimų tyrimą, projektus, teikti išvadas ir pasiūlymus dėl teisės aktų projektų įtakos kriminogeninei situacijai;
+
+
+
+
+7) atliekant nusikaltimų bei kitų teisės pažeidimų finansų sistemai atskleidimą ir tyrimą bei prevencines priemones, koordinuoti kitų institucijų bei jų informacinių sistemų sąveiką;
+
+
+
+
+8) kaupti, saugoti ir analizuoti informaciją, reikalingą Tarnybos uždaviniams ir funkcijoms įgyvendinti;
+
+
+
+
+9) vykdyti kitas įstatymų numatytas funkcijas.
+ 
+
+
+
+
+
+
+
+
+
+
+III SKYRIUS
+TARNYBOS STRUKTŪRA IR VALDYMAS
+ 
+
+
+8 straipsnis. Tarnybos bei jos padalinių steigimas ir likvidavimas
+
+
+1. Tarnybą steigia ir jos nuostatus tvirtina Vyriausybė. Tarnyba reorganizuojama, pertvarkoma ar likviduojama įstatymų ir kitų teisės aktų nustatyta tvarka. 
+
+
+
+
+2. Tarnybą sudaro skyriai, poskyriai ir kiti padaliniai.
+
+
+
+
+3. Tarnybos padalinius steigia, reorganizuoja ar likviduoja bei pareigybių sąrašą tvirtina vidaus reikalų ministras Tarnybos direktoriaus teikimu.
+ 
+
+
+
+
+
+
+9 straipsnis. Tarnybos valstybės tarnautojai
+
+
+Tarnybos pareigūnų statusą nustato Valstybės tarnybos įstatymas, šis įstatymas bei kiti teisės aktai, reglamentuojantys statutinių valstybės tarnautojų tarnybos santykius, o kitų tarnautojų – Valstybės tarnybos įstatymas bei kiti teisės aktai, reglamentuojantys valstybės tarnybos teisinius santykius.
+ 
+
+
+
+
+
+
+10 straipsnis. Tarnybos vadovybė
+
+
+1. Tarnybai vadovauja Tarnybos direktorius, kuris koordinuoja Tarnybos veiklą ir už ją atsako.
+
+
+
+
+2. Tarnybos direktorių penkeriems metams į pareigas skiria ir iš jų atleidžia vidaus reikalų ministras Valstybės tarnybos įstatymo nustatyta tvarka. Tarnybos direktorius tiesiogiai pavaldus ir atskaitingas vidaus reikalų ministrui.
+
+
+
+
+3. Tarnybos direktoriaus pavaduotojus Tarnybos direktoriaus teikimu į pareigas skiria ir iš jų atleidžia vidaus reikalų ministras Valstybės tarnybos įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+
+
+IV SKYRIUS
+TARNYBOS PAREIGŪNO TEISĖS IR PAREIGOS
+ 
+
+
+11 straipsnis. Tarnybos pareigūno teisės
+
+
+1. Tarnybos pareigūnas, užtikrindamas jam pavestų uždavinių ir funkcijų vykdymą atliekant tyrimą, jeigu yra pakankamas pagrindas, turi teisę:
+
+
+1) tikrinti fizinių bei juridinių asmenų ūkinę finansinę ar kitokią veiklą, turto buvimo faktus, jo įgijimo, gamybos, naudojimo ir realizavimo teisėtumą, gamybines, administracines ir kitas, taip pat ir užplombuotas, patalpas; 
+
+
+
+
+2) skirti arba reikalauti iš valstybinės mokesčių inspekcijos ir kitų valstybės institucijų, atliekančių mokesčių ir kitų įmokų į valstybinius fondus kontrolę, atlikti fizinių bei juridinių asmenų patikrinimus, revizijas, inventorizacijas, kontrolinius matavimus mokesčių ir kitų įmokų į valstybinius fondus sumokėjimo klausimais; susipažinti ir paimti šio straipsnio 1 dalies 3 punkto nustatyta tvarka buhalterinės apskaitos, personalo, patikrinimų, revizijų medžiagas ir kitus dokumentus; paimti žaliavos, produkcijos, prekių pavyzdžius ir kitus daiktus, juos apžiūrėti; reikalauti, kad būtų sutvarkyta buhalterinė apskaita; jei nėra kitų galimybių atlikti reikalingus veiksmus, – laikinai sustabdyti gamybos procesą; 
+
+
+
+
+3) gauti iš Lietuvos banko, komercinių bankų ir kitų kredito bei finansinių įstaigų, taip pat kitų juridinių bei fizinių asmenų reikiamą informaciją, būtiną Tarnybos veiklos uždaviniams, funkcijoms vykdyti, paaiškinimus, pažymėjimų ir dokumentų nuorašus apie juridinio ar fizinio asmens turtą bei pajamas, taip pat apie ūkines finansines operacijas; jei yra pagrindas manyti, kad gali būti sunaikinti duomenys ar įrodymai, paimti dokumentų originalus patikrinimui ar revizijai atlikti, surašius dokumentų paėmimo aktą, ir per tris darbo dienas padaryti šiame punkte nurodytų asmenų prašomas paimtų dokumentų kopijas;
+
+
+
+
+4) nekliudomai įeiti į fizinių bei juridinių asmenų patalpas, naudojamas veiklai ar pajamoms gauti, ar teritoriją jų darbo metu, o ne darbo metu – su tų patalpų ar tos įmonės, įstaigos ar organizacijos administracijos atstovu, savininku arba jo atstovu, tikrinti ūkinei finansinei ar kitokiai veiklai naudojamą turtą ir techniką bei pagamintą produkciją, įstatymų nustatytais atvejais ir tvarka jėga atidaryti patalpas ar transporto priemones;
+
+
+
+
+5) užplombuoti ir užantspauduoti dokumentų, vertybinių popierių, pinigų bei turto saugojimo vietas, įrengimus, uždaryti fizinių bei juridinių asmenų gamybines patalpas, teritorijas ar jų dalis, daryti dokumentų kopijas arba išrašus, daryti žymas ant dokumentų, kad būtų išvengta jų klastojimo; 
+
+
+
+
+6) įstatymų nustatytais atvejais duoti nurodymus bankams nutraukti pinigų išdavimą ir pervedimą iš fizinių bei juridinių asmenų sąskaitų, jeigu joje nustatytu laiku nepateikė mokesčio administratoriui mokesčio deklaracijų ir kitų įmokų į valstybės ir savivaldybių biudžetus apskaičiavimų, neleidžia patikrinti finansinės būklės arba jei tikrinimo metu nustatyti pajamų slėpimo bei neteisingo mokesčių, rinkliavų ar kitų įmokų skaičiavimo faktai;
+
+
+
+
+7) įstatymų nustatyta tvarka sulaikyti, pristatyti teisės pažeidėjus į Tarnybos ar kitų teisėsaugos institucijų ir įstaigų tarnybines patalpas jų asmens tapatybei nustatyti, protokolams, aktams, pranešimams surašyti, asmenims ir jų turimiems daiktams apžiūrėti;
+
+
+
+
+8) nepažeisdamas įstatymų garantuojamo asmens privataus gyvenimo neliečiamumo, fotografuoti, daryti garso ar vaizdo įrašus;
+
+
+
+
+9) pagal savo kompetenciją vykdyti operatyvinę veiklą, gauti iš kitų operatyvinės veiklos subjektų reikiamą operatyvinę informaciją bei ja naudotis;
+
+
+
+
+10) turėdamas duomenų apie rengiamą, daromą ar padarytą nusikaltimą ar kitą teisės pažeidimą finansų sistemai, duoti Valstybinei mokesčių inspekcijai prie Finansų ministerijos privalomą nurodymą sustabdyti mokesčio grąžinimą (įskaitymą);
+
+
+
+
+11) įstatymų nustatytais atvejais ir tvarka panaudoti šaunamuosius ginklus, fizinę bei kitokią prievartą.
+
+
+
+
+
+
+2. Tarnybos pareigūnas, eidamas tarnybines pareigas ir atlikdamas tyrimą, jeigu yra pakankamas pagrindas, Valstybės sienos apsaugos tarnybos bei muitinės objektuose ir teritorijose, pateikęs tarnybinį pažymėjimą, turi teisę:
+
+
+1) tikrinti asmenų ir pareigūnų dokumentus;
+
+
+
+
+2) sulaikyti pasienio ir muitų režimo pažeidėjus bei kitus asmenis, atlikti asmens bei daiktų apžiūrą ir pristatyti juos į Tarnybos, Valstybės sienos apsaugos tarnybos, muitinės ar kitų teisėsaugos institucijų ir įstaigų tarnybines patalpas laikydamasis įstatymų, reglamentuojančių asmenų sulaikymo tvarką bei sulaikytų asmenų teises ir teisėtus interesus; 
+
+
+
+
+3) stabdyti ir tikrinti transporto priemones, įstatymų nustatyta tvarka paimti daiktus ar dokumentus.
+
+
+
+
+
+
+3. Tarnybos pareigūnas turi ir kitų įstatymų jam suteiktų teisių.
+
+
+
+
+
+
+
+12 straipsnis. Tarnybos pareigūno pareigos 
+
+
+1. Tarnybos pareigūnas privalo:
+
+
+1) gerbti ir ginti žmogaus orumą, teisėtus interesus, užtikrinti ir saugoti jo teises bei laisves;
+
+
+
+
+2) vengti viešųjų ir privačių interesų konflikto, piktnaudžiavimo tarnybiniais įgaliojimais, nereikalingų suvaržymų ekonominiams, finansiniams santykiams ir teisėtam verslui; 
+
+
+
+
+3) gavęs informaciją apie rengiamą, daromą ar padarytą nusikaltimą ar kitokį teisės pažeidimą arba pats būdamas įvykio liudytoju, pranešti apie tai Tarnybai, policijai ar kitoms kompetentingoms institucijoms ir įstaigoms, prireikus pats imtis neatidėliotinų priemonių, kad būtų užkirstas kelias rengiamam ar daromam nusikaltimui arba kitam teisės pažeidimui, apsaugota įvykio vieta, nustatyti įvykio įtariamieji ir liudytojai;
+
+
+
+
+4) užtikrinti sulaikytų asmenų teises ir teisėtus interesus, suteikti neatidėliotiną medicinos ar kitą būtiną pagalbą nukentėjusiems nuo nusikaltimų ar kitų teisės pažeidimų asmenims bei bejėgiškos būklės asmenims;
+
+
+
+
+5) saugoti valstybės, Tarnybos, banko bei komercines paslaptis, sužinotas einant tarnybines pareigas.
+
+
+
+
+
+
+2. Tarnybos pareigūnas privalo vykdyti ir kitas įstatymų jam nustatytas pareigas. 
+
+
+
+
+3. Vykdydamas tarnybines pareigas, Tarnybos pareigūnas privalo prisistatyti ir pateikti tarnybinį pažymėjimą. 
+ 
+
+
+
+
+
+
+13 straipsnis. Tarnybos pareigūnams taikomi apribojimai
+
+
+1. Tarnybos pareigūnams draudžiama:
+
+
+1) būti politinių partijų ar politinių organizacijų nariais ir dalyvauti politinėje veikloje; 
+
+
+
+
+2) būti įmonių, įstaigų ar organizacijų valdymo institucijų nariais, gauti atlyginimą už darbą tokiose institucijose;
+
+
+
+
+3) sudaryti sandorius Tarnybos vardu su įmonėmis, kurių savininkai ar dalininkai yra jų šeimos nariai, arba valdyti pagal įgaliojimą kito asmens akcijas;
+
+
+
+
+4) atstovauti šalies ir užsienio valstybių įmonių interesams;
+
+
+
+
+5) dirbti samdomais darbuotojais, patarėjais, ekspertais ar konsultantais įmonėse, įstaigose, organizacijose bei kitose institucijose, taip pat gauti kitą, negu nustatyta šiame Įstatyme, atlyginimą, išskyrus atlyginimą už pedagoginę bei kūrybinę veiklą;
+
+
+
+
+6) streikuoti ar dalyvauti piketuose, mitinguose, kurie tiesiogiai trukdytų Tarnybos veiklai ar atlikti Tarnybos pareigūno tarnybines pareigas.
+
+
+
+
+
+
+2. Tarnybos pareigūnas negali priimti dovanų ar paslaugų, tiesiogiai ar netiesiogiai susijusių su jo pareigomis, išskyrus įstatymų numatytus atvejus. 
+
+
+
+
+3. Tarnybos pareigūnui taikomi ir kiti Valstybės ir tarnybos paslapčių įstatymo nustatyti apribojimai.
+ 
+
+
+
+
+
+
+14 straipsnis. Tarnybos pareigūno atsakomybė 
+
+
+1. Tarnybos pareigūnas asmeniškai atsako už savo, taip pat pagal įgaliojimų ir kompetencijos ribas už jam pavaldžių pareigūnų veikas ir sprendimus bei jų padarinius.
+
+
+
+
+2. Tarnybos pareigūnas, vykdydamas jam patikėtas pareigas ir pažeidęs įstatymų reikalavimus, atsižvelgiant į pažeidimo pobūdį, traukiamas tarnybinėn, administracinėn, materialinėn ar baudžiamojon atsakomybėn įstatymų ir kitų teisės aktų nustatyta tvarka. 
+
+
+
+
+3. Žinomai neteisėto įsakymo ar nurodymo vykdymas Tarnybos pareigūno nuo atsakomybės neatleidžia.
+
+
+
+
+4. Neteisėta Tarnybos pareigūno veika fiziniam ar juridiniam asmeniui padarytos žalos atlyginimo tvarką nustato įstatymai.
+ 
+
+
+
+
+
+
+
+
+V SKYRIUS
+ŠAUNAMŲJŲ GINKLŲ, FIZINĖS IR KITOKIOS PRIEVARTOS PANAUDOJIMAS
+ 
+
+
+15 straipsnis. Prievartos rūšys ir jos panaudojimo atvejai 
+
+
+1. Tarnybos pareigūnas turi teisę panaudoti prievartą, kai būtina užkirsti kelią teisės pažeidimams, sulaikyti juos padariusius asmenis ir kitais atvejais saugant bei ginant asmens, visuomenės, valstybės teisėtus interesus. Prievartos rūšį ir jos panaudojimo ribas pasirenka Tarnybos pareigūnas, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį bei individualias pažeidėjo savybes. Naudodamas prievartą, Tarnybos pareigūnas privalo stengtis išvengti sunkių padarinių.
+
+
+
+
+2. Tarnybos pareigūnas įstatymų nustatytais atvejais ir tvarka gali panaudoti psichinę ar fizinę prievartą, šaunamąjį ginklą.
+
+
+
+
+3. Psichinė prievarta šiame Įstatyme suprantama kaip įspėjimas apie ketinimą panaudoti fizinę prievartą, šaunamąjį ginklą. Psichinei prievartai prilyginamas šaunamojo ginklo demonstravimas bei įspėjamieji šūviai, tačiau šias psichinės prievartos priemones galima naudoti tik šio Įstatymo 17 straipsnio 2 dalyje išvardytais atvejais.
+
+
+
+
+4. Fizinė prievarta šiame Įstatyme suprantama kaip:
+
+
+1) bet kokio pobūdžio fizinės jėgos bei kovinių imtynių veiksmų naudojimas;
+
+
+
+
+2) specialiųjų priemonių, t. y. Tarnybos ginkluotėje esamų lazdų, antrankių bei surišimo priemonių, dujų, transporto priverstinio sustabdymo bei kitų įstatymais leidžiamų ir vidaus reikalų ministro įsakymu patvirtintų priemonių, Tarnybos aktyvios ir pasyvios gynybos priemonių naudojimas.
+
+
+
+
+
+
+5. Prieš naudodamas fizinę prievartą arba šaunamąjį ginklą, Tarnybos pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas.
+
+
+
+
+6. Tarnybos pareigūnas, jei jis su savimi neturi specialiųjų priemonių ar šaunamojo ginklo, gali panaudoti bet kokias pagalbines priemones, būtinas kėsinimuisi atremti ar pavojaus šaltiniui likviduoti. 
+
+
+
+
+7. Tarnybos pareigūnas, panaudojęs prievartą nepažeisdamas šio Įstatymo reikalavimų ir padaręs žalos įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
+
+
+
+
+8. Apie pareigūno panaudotą prievartą, lėmusią asmens mirtį arba sužeidimą, nedelsiant informuojamas prokuroras.
+
+
+
+
+9. Tarnybos pareigūnai turi būti specialiai parengti ir ne rečiau kaip kasmet tikrinami, ar jie sugeba veikti situacijose, susijusiose su fizinės prievartos, šaunamojo ginklo panaudojimu.
+ 
+
+
+
+
+
+
+16 straipsnis. Fizinės prievartos panaudojimo pagrindai 
+
+
+1. Tarnybos pareigūnas turi teisę panaudoti fizinę prievartą šio Įstatymo 15 straipsnio 1 dalyje numatytais atvejais, taip pat:
+
+
+1) gindamasis arba gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi;
+
+
+
+
+2) kai kėsinamasi į Tarnybos kontroliuojamą ar saugomą objektą, transporto priemonę, šaunamąjį ginklą, specialiąsias ryšio, aktyvios ar pasyvios gynybos priemones ar kitą Tarnybos turtą.
+
+
+
+
+
+
+2. Draudžiama panaudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie invalidai ar nepilnamečiai (jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai).
+ 
+
+
+
+
+
+
+17 straipsnis. Šaunamojo ginklo panaudojimas
+
+
+1. Tarnybos pareigūnas, kai kitos prievartos priemonės yra neveiksmingos, kaip išimtinę priemonę turi teisę panaudoti šaunamąjį ginklą. 
+
+
+
+
+2. Tarnybos pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenį tokiais atvejais:
+
+
+1) gindamasis arba gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai nusikalstamo kėsinimosi;
+
+
+
+
+2) sulaikydamas nusikalstamą veiką padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo, jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai asmuo atsisako įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, jeigu kyla pavojus Tarnybos pareigūno ar kito žmogaus gyvybei ar sveikatai ir kitaip jo neįmanoma nuginkluoti;
+
+
+
+
+3) atremdamas saugomų objektų užpuolimą.
+
+
+
+
+
+
+3. Tarnybos pareigūnas turi teisę panaudoti šaunamąjį ginklą šio straipsnio 2 dalyje numatytais atvejais prieš transporto priemonę ir gyvūnus. 
+
+
+
+
+4. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie invalidai, prieš nepilnamečius, jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
+ 
+
+
+
+
+
+
+18 straipsnis. Ginkluoto Tarnybos pareigūno asmens saugumo garantijos 
+
+
+1. Tarnybos pareigūnas turi teisę išimti šaunamąjį ginklą iš dėklo ir parengti jį panaudoti, jei jis mano, kad konkrečioje situacijoje gali tekti jį panaudoti. 
+
+
+
+
+2. Tarnybos pareigūnas, nesukeldamas grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą, išsikviesti pagalbą arba įspėti apie galimą šaunamojo ginklo panaudojimą. 
+
+
+
+
+3. Tarnybos pareigūnas turi teisę panaudoti psichinę ar fizinę prievartą, jeigu sulaikomas ar sulaikytas asmuo bando panaudoti prievartą arba artinasi prie Tarnybos pareigūno bei neklauso jo reikalavimo laikytis nurodyto atstumo, arba kėsinasi atimti iš Tarnybos pareigūno šaunamąjį ginklą. Jeigu panaudotos prievartos priemonės yra neveiksmingos arba jų panaudojimas yra neįmanomas dėl asmens daromų veiksmų intensyvumo, o delsimas kelia grėsmę Tarnybos pareigūno gyvybei, Tarnybos pareigūnas gali panaudoti šaunamąjį ginklą.
+ 
+
+
+
+
+
+
+
+
+VI SKYRIUS
+TARNYBOS FINANSAVIMAS, MATERIALINIS APRŪPINIMAS IR VEIKLOS KONTROLĖ
+ 
+
+
+19 straipsnis. Tarnybos finansavimas 
+
+
+1. Tarnyba finansuojama iš Lietuvos valstybės biudžeto. Tarnybos direktorius yra asignavimų valdytojas. 
+
+
+
+
+2. Tarnybai finansuoti gali būti naudojamos ir kitos teisės aktų nustatyta tvarka gautos lėšos.
+ 
+
+
+
+
+
+
+20 straipsnis. Tarnybos veiklos kontrolė
+
+
+1. Tarnybos veiklą kontroliuoja vidaus reikalų ministras, kitos įgaliotos valstybės institucijos ir įstaigos įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+
+
+
+2. Tarnybos atliekamą kvotą ir parengtinį tardymą įstatymų nustatyta tvarka kontroliuoja prokuroras. 
+
+
+
+
+3. Tarnybos vidaus darbo tvarką nustato tarnybos direktorius. 
+ 
+
+
+
+
+
+
+
+
+VII SKYRIUS 
+BAIGIAMOSIOS NUOSTATOS
+ 
+
+
+21 straipsnis. Tarnybos pareigūnų tarnybinės uniformos, skiriamieji ženklai, pareiginiai laipsniai, pareigūnų pažymėjimai ir socialinės garantijos
+
+
+1. Tarnybos pareigūnai nuo šio Įstatymo įsigaliojimo dėvi policijos pareigūnų uniformas su skiriamaisiais ženklais tol, kol Vyriausybė ar jos įgaliota institucija patvirtina Tarnybos pareigūnų tarnybinę uniformą bei skiriamuosius ženklus. 
+
+
+
+
+2. Tarnybos pareigūnams paliekami iki pertvarkymo jų turėti pareiginiai laipsniai.
+
+
+
+
+3. Įsigaliojus šiam Įstatymui, policijos pareigūnų pažymėjimai lieka galioti iki jų galiojimo termino pabaigos, bet ne ilgiau kaip vienerius metus.
+
+
+
+
+4. Tarnybos pareigūnams taikomos policijos pareigūnų socialinės garantijos.
+ 
+
+
+
+
+
+
+22 straipsnis. Pasiūlymai Vyriausybei
+
+
+Vyriausybė per 6 mėnesius nuo šio Įstatymo įsigaliojimo: 
+
+
+1) pertvarko Mokesčių policijos departamentą prie Lietuvos Respublikos vidaus reikalų ministerijos į Finansinių nusikaltimų tyrimo tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos;
+
+
+
+
+2) parengia ir pateikia Seimui įstatymų projektus, taip pat patvirtina ar pakeičia kitus teisės aktus, reikalingus šio Įstatymo nuostatoms įgyvendinti;
+
+
+
+
+3) peržiūri galiojančius įstatymus ir kitus teisės aktus, susijusius su Finansinių nusikaltimų tyrimo tarnybos įstatymo nuostatomis, ir prireikus parengia atitinkamus jų pakeitimo ar naujų teisės aktų projektus;
+
+
+
+
+4) iki 2003 m. sausio 1 d. parengia teisės aktus, numatančius Tarnybos funkcijų išplėtimą sukuriant vieną finansinių ir ekonominių nusikaltimų ikiteisminio tyrimo instituciją;
+
+
+
+
+5) rengdama 2003 m. valstybės biudžetą, numato lėšas paskirstyti taip, kad būtų atsižvelgta į finansinių ir ekonominių nusikaltimų ikiteisminio tyrimo institucinės sistemos tobulinimą.
+ 
+
+
+
+
+
+
+
+
+23 straipsnis. Netekęs galios teisės aktas
+
+
+Įsigaliojus šiam Įstatymui, netenka galios Lietuvos Respublikos policijos įstatymo 8(1) straipsnis (Žin., 1991, Nr. 2-22; 2000, Nr. 109-3478; 2001, Nr. 60-2139, Nr. 112-4091).
+ 
+
+
+
+
+
+
+24 straipsnis. Įstatymo įsigaliojimas
+
+
+Šis Įstatymas įsigalioja nuo 2002 m. balandžio 1 d.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
+ 
+ 
+RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
