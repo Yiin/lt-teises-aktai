@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A14C258694ED"
 
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas
 
-Suvestinė redakcija nuo 2002-06-19 iki 2003-02-28
+Suvestinė redakcija nuo 2003-03-01 iki 2004-05-13
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 1-4, i. k. 0941010ISTA000I-732
  
@@ -31,6 +31,19 @@ Lietuvos Respublikos Seimas, atsižvelgdamas į tai, kad Lietuvoje nėra sukurta
 
 
 1 straipsnis. Teisė gauti mokslininkų valstybinę pensiją
+
+
+Teisę gauti mokslininkų valstybinę pensiją turi nuolat Lietuvos Respublikoje gyvenantys asmenys, kuriems įstatymų nustatyta tvarka Lietuvos Respublikoje yra suteiktas ar nostrifikuotas mokslo laipsnis arba pedagoginis mokslo vardas. 
+
+
+
+
+Nuolat Lietuvos Respublikoje gyvenančiais asmenimis laikomi Lietuvos Respublikos piliečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje yra įrašyti į Lietuvos Respublikos gyventojų registrą arba kurie, vadovaujantis Lietuvos Respublikos civiliniu kodeksu, Lietuvos Respublikos Vyriausybės nustatyta tvarka yra pripažinti turinčiais nuolatinę gyvenamąją vietą Lietuvos Respublikoje, arba nuolat Lietuvos Respublikoje gyvenantys užsieniečiai.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1298, 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07), i. k. 1031010ISTA0IX-1298
+ 
 
 
 
@@ -191,3 +204,8 @@ Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 4, 5
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-920, 2002-05-30, Žin., 2002, Nr. 60-2414 (2002-06-19), i. k. 1021010ISTA00IX-920
 Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 3 straipsnio pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1298, 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07), i. k. 1031010ISTA0IX-1298
+Lietuvos Respublikos pilietybės įstatymo įgyvendinimo įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Šalpos (socialinių) pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo pakeitimo ir papildymo įstatymas
