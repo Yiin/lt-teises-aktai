@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2004-04-01 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2005-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -225,9 +225,10 @@ Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA
 
 
 
-4. Invalidumą nustatančių komisijų sprendimai privalomi socialinės globos ir rūpybos įstaigoms (pensionatams), savivaldybių globos ir rūpybos institucijoms, Valstybinio socialinio draudimo fondo valdybai, darbdaviams, ugdymo, mokymo, specialioms invalidų medicininės, profesinės ir socialinės reabilitacijos įstaigoms, invalidams, jų tėvams, globėjams, rūpintojams.
+4. Invalidumą nustatančių komisijų sprendimai privalomi socialinės globos ir rūpybos įstaigoms (pensionatams), savivaldybių globos ir rūpybos institucijoms, Valstybinio socialinio draudimo fondo valdybai prie Socialinės apsaugos ir darbo ministerijos, darbdaviams, ugdymo, mokymo, specialioms invalidų medicininės, profesinės ir socialinės reabilitacijos įstaigoms, invalidams, jų tėvams, globėjams, rūpintojams.
 Straipsnio dalies pakeitimai:
 Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
+Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010ISTA0IX-2540
  
 
 
@@ -238,11 +239,12 @@ Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA
 5 straipsnis. Suinteresuotų asmenų dalyvavimas nustatant invalidumą
 
 
-Nustatant invalidumą, gali dalyvauti su patariamojo balso teise asmenį gydantis gydytojas, darbdavių, ugdymo, mokymo įstaigų, socialinės globos ir rūpybos įstaigų (pensionatų), savivaldybių globos ir rūpybos institucijų, Valstybinio socialinio draudimo fondo valdybos, invalidų visuomeninių organizacijų atstovai. Jų dalyvavimo tvarką reglamentuoja invalidumą nustatančių komisijų nuostatai.
+Nustatant invalidumą, gali dalyvauti su patariamojo balso teise asmenį gydantis gydytojas, darbdavių, ugdymo, mokymo įstaigų, socialinės globos ir rūpybos įstaigų (pensionatų), savivaldybių globos ir rūpybos institucijų, Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos, invalidų visuomeninių organizacijų atstovai. Jų dalyvavimo tvarką reglamentuoja invalidumą nustatančių komisijų nuostatai. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
+Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010ISTA0IX-2540
  
 
 
@@ -402,7 +404,7 @@ MEDICININĖ, PROFESINĖ IR SOCIALINĖ INVALIDŲ REABILITACIJA, JŲ MEDICININIS, 
 
 
 
-13 straipsnis.       Medicininės, profesinės ir socialinės invalidų reabilitacijos programos. Invalidų aprūpinimo kompensacine technika skatinimas
+13 straipsnis. Medicininės, profesinės ir socialinės invalidų reabilitacijos programos. Invalidų aprūpinimo kompensacine technika skatinimas
 
 
 1. Vyriausybė rengia ir vykdo valstybinę, apskritys – regionines, o savivaldybės – teritorines medicininės, profesinės ir socialinės invalidų reabilitacijos programas.
@@ -555,7 +557,10 @@ INVALIDŲ INTEGRACIJA Į DARBĄ
 
 
 
-4. Darbdaviai, nevykdantys invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotų, moka papildomas įmokas į Užimtumo fondą Bedarbių rėmimo įstatymo nustatyta tvarka. Papildomų įmokų mokėjimas neatleidžia darbdavių nuo pareigos įdarbinti invalidus.
+4. Darbdaviai, nevykdantys invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotų, moka papildomas įmokas į Užimtumo fondą Nedarbo socialinio draudimo įstatymo nustatyta tvarka. Papildomų įmokų mokėjimas neatleidžia darbdavių nuo pareigos įdarbinti invalidus.
+Straipsnio dalies pakeitimai:
+Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010ISTA0IX-2540
+ 
 
 
 
@@ -905,3 +910,8 @@ Lietuvos Respublikos invalidų socialinės integracijos įstatymo 22 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
 Lietuvos Respublikos invalidų socialinės integracijos įstatymo 1, 3, 4, 5 ir 22 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010ISTA0IX-2540
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo, Sveikatos draudimo įstatymo, Nedarbo socialinio draudimo įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo, Invalidų socialinės integracijos įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45 straipsnių pakeitimo ir papildymo 45-1 straipsniu įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 55-6 straipsniu ir VII skyriumi įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 55-1, 55-2, 55-3, 55-4, 55-5 straipsniais įstatymo, Ligos ir motinystės socialinio draudimo įstatymo pakeitimo ir papildymo įstatymas
