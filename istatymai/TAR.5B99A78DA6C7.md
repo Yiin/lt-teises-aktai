@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5B99A78DA6C7"
 
 # Lietuvos Respublikos maisto įstatymas
 
+Suvestinė redakcija nuo 2002-06-26 iki 2003-09-30
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 32-893, i. k. 1001010ISTAIII-1608
+ 
+ 
 LIETUVOS RESPUBLIKOS
 MAISTO
 Į S T A T Y M A S
@@ -96,37 +101,46 @@ BENDRosios NUOSTatos
 
 
 
-8. Gamintojas – Lietuvos Respublikoje teisės aktų nustatyta tvarka įregistravęs veiklą asmuo, kuris:
+8. Gamintojas – Lietuvos Respublikoje teisės aktų nustatyta tvarka įregistravęs veiklą fizinis ar juridinis asmuo, kuris:
 
 
-1) pagamino maistą arba apie tai viešai pareiškė, pažymėdamas jį savo pavadinimu, prekės ženklu ar kitu skiriamuoju ženklu;
-
-
-
-
-2) veikia kaip gamintojo atstovas ir gamintojo prašymu bei pateikdamas savo pavadinimą pateikia į rinką maistą arba, jei gamintojo atstovo nėra, maistą importuoja;
+1) pagamino maistą arba apie tai viešai pareiškė pažymėdamas jį savo pavadinimu, prekės ženklu ar kitu skiriamuoju ženklu;
 
 
 
 
-3) maistą tvarko ir nurodo save esant šio maisto gamintoju;
+2) veikia kaip gamintojo atstovas ir gamintojo prašymu bei pateikdamas savo pavadinimą pateikia į rinką maistą arba, jei gamintojo atstovo nėra, maistą importuoja;
 
 
 
 
-4) kaip maisto teikimo į rinką proceso dalyvis gali daryti poveikį maisto saugai.
+3) maistą tvarko ir nurodo save esant šio maisto gamintoju;
 
 
 
 
+4) kaip maisto teikimo į rinką proceso dalyvis gali daryti poveikį maisto saugai. 
 
 
-9. Pardavėjas – asmuo, Lietuvos Respublikoje teisės aktų nustatyta tvarka įregistravęs veiklą ir realizuojantis maistą.
+Straipsnio dalies pakeitimai:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+ 
 
 
 
 
-10. Paslaugos teikėjas – asmuo, Lietuvos Respublikoje teisės aktų nustatyta tvarka įregistravęs savo veiklą ir teikiantis paslaugas maisto teikimo į rinką srityje.
+9. Pardavėjas – fizinis ar juridinis asmuo, Lietuvos Respublikoje teisės aktų nustatyta tvarka įregistravęs veiklą ir realizuojantis maistą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+ 
+
+
+
+
+10. Paslaugos teikėjas – fizinis ar juridinis asmuo, Lietuvos Respublikoje teisės aktų nustatyta tvarka įregistravęs savo veiklą ir teikiantis paslaugas maisto teikimo į rinką srityje. 
+Straipsnio dalies pakeitimai:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+ 
 
 
 
@@ -136,27 +150,53 @@ BENDRosios NUOSTatos
 
 
 
-12. Kokybė – maisto savybių visuma, leidžianti tenkinti išreikštus (deklaruojamus) ir numanomus vartotojų poreikius.
+12. Vartotojas – fizinis asmuo, kuris įsigyja maistą ar naudojasi paslaugomis savo asmeniniams, šeimos ar namų ūkio poreikiams, nesusijusiems su verslu ar profesija, tenkinti. 
+Papildyta straipsnio dalimi:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+ 
 
 
 
 
-13. Specialios mitybos maistas – maistas, kuris dėl savo ypatingos sudėties ar tvarkymo skiriasi nuo įprastinio maisto, skiriamas dėl ypatingos fizinės ar fiziologinės būklės kylantiems mitybos poreikiams tenkinti ir atitinka deklaruojamą specialią paskirtį. Jis ženklinamas bei teikiamas į rinką tokiu būdu, iš kurio matyti, kokiai vartotojų grupei jis skirtas.
+13. Kokybė – maisto savybių visuma, tenkinanti konkrečius vartotojo poreikius, kurių protingai galima tikėtis, bei atitinkanti saugos ir kitus privalomuosius teisės aktų nustatytus reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+ 
 
 
 
 
-14. Rizikos veiksnių analizės ir valdymo sistema – biologinių, cheminių ar fizinių veiksnių, galinčių turėti reikšmės maisto saugai, nustatymo, įvertinimo ir valdymo sistema, taikoma maisto tvarkymo vietose savikontrolės tikslais.
+14. Specialios mitybos maistas – maistas, kuris dėl savo ypatingos sudėties ar tvarkymo skiriasi nuo įprastinio maisto, skiriamas dėl ypatingos fizinės ar fiziologinės būklės kylantiems mitybos poreikiams tenkinti ir atitinka deklaruojamą specialią paskirtį. Jis ženklinamas bei teikiamas į rinką tokiu būdu, iš kurio matyti, kokiai vartotojų grupei jis skirtas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+ 
 
 
 
 
-15. Teršalas – atsitiktinai į maistą patekusi ar įdėta bet kokia cheminės ar biologinės kilmės ne maisto medžiaga ar kitoks objektas, išskyrus maisto priedus, atsiradusi tvarkymo metu arba dėl aplinkos užterštumo, galinti pakenkti maisto saugai ar padaryti maistą netinkamą vartoti.
+15. Rizikos veiksnių analizės ir valdymo sistema – biologinių, cheminių ar fizinių veiksnių, galinčių turėti reikšmės maisto saugai, nustatymo, įvertinimo ir valdymo sistema, taikoma maisto tvarkymo vietose savikontrolės tikslais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+ 
 
 
 
 
-16. Teikimas į rinką – maisto teikimas parduoti arba teikimas nemokamai trečiajam asmeniui (galutiniam vartotojui arba bet kuriam tarpininkui, kuris teikia maistą galutiniam vartotojui), taip pat maisto laikymas ketinant pateikti jį trečiajam asmeniui, išskyrus bandinių teikimą kontrolės įstaigoms atlikti tyrimus.
+16. Teršalas – atsitiktinai į maistą patekusi ar įdėta bet kokia cheminės ar biologinės kilmės ne maisto medžiaga ar kitoks objektas, išskyrus maisto priedus, atsiradusi tvarkymo metu arba dėl aplinkos užterštumo, galinti pakenkti maisto saugai ar padaryti maistą netinkamą vartoti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+ 
+
+
+
+
+17. Maisto pateikimas į rinką – vartotojams skirto maisto laikymas (saugojimas), pardavimas ar kitoks perdavimo vartotojams būdas.
+Straipsnio dalies pakeitimai:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
  
 
 
@@ -167,7 +207,10 @@ BENDRosios NUOSTatos
 3 straipsnis. Įstatymo taikymas
 
 
-1. Šis įstatymas taikomas juridiniams ir fiziniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, teikiantiems į rinką maistą, taip pat valstybės institucijoms, prižiūrinčioms bei kontroliuojančioms maisto saugą.
+1. Šis įstatymas taikomas juridiniams ir fiziniams asmenims, tvarkantiems ir (ar) teikiantiems į rinką maistą, taip pat valstybės institucijoms, prižiūrinčioms bei kontroliuojančioms maisto saugą, kokybę ir tvarkymą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+ 
 
 
 
@@ -205,7 +248,10 @@ maisto ir jo tvarkymo reikalavimai
 4 straipsnis. Pagrindiniai maisto saugos, kokybės ir tvarkymo reikalavimai 
 
 
-1. Į rinką turi būti teikiamas šiame įstatyme bei kituose teisės aktuose nustatytus saugos reikalavimus atitinkantis maistas.
+1. Į rinką turi būti teikiamas šiame įstatyme bei kituose teisės aktuose nustatytus saugos, kokybės ir tvarkymo reikalavimus atitinkantis maistas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+ 
 
 
 
@@ -253,7 +299,14 @@ maisto ir jo tvarkymo reikalavimai
 
 
 
-3) asmenys, tvarkantys maistą, turi atitikti teisės aktų nustatytus sveikatos reikalavimus ir įgyti Sveikatos apsaugos ministerijos nustatyta tvarka privalomųjų higienos žinių.
+3) asmenys, tvarkantys maistą, turi atitikti teisės aktų nustatytus sveikatos reikalavimus ir įgyti Sveikatos apsaugos ministerijos nustatyta tvarka privalomųjų higienos žinių;
+
+
+
+
+4) tvarkyti maistą galima tik Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka patvirtintose įmonėse, turinčiose nustatyta tvarka išduotus leidimus – higienos pasus verstis ūkine komercine veikla.
+Papildyta straipsnio punktu:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
  
 
 
@@ -310,18 +363,25 @@ Vartotojams turi būti teikiama teisinga informacija apie maistą. Draudžiama:
 
 
 
-7 straipsnis. Gamintojų, pardavėjų ir paslaugų teikėjų pareigos bei atsakomybė
+7 straipsnis. Gamintojų, pardavėjų ir paslaugų teikėjų pareigos bei atsakomybė
 
 
-1. Gamintojai, pardavėjai ir paslaugų teikėjai privalo laikytis šio įstatymo bei kitų teisės aktų reikalavimų, vykdyti valstybinės maisto kontrolės institucijų nurodymus ir reikalavimus.
+1. Gamintojai, pardavėjai ir paslaugų teikėjai privalo laikytis šio įstatymo bei kitų teisės aktų reikalavimų, vykdyti valstybinės maisto kontrolės institucijos ir Nacionalinės vartotojų teisių apsaugos tarybos nurodymus ir reikalavimus.
 
 
 
 
-2. Gamintojai, pardavėjai ir paslaugų teikėjai, pažeidę šio įstatymo ir kitų teisės aktų reikalavimus, atsako bei atlygina nukentėjusiesiems padarytą žalą Produktų saugos ir kitų įstatymų nustatyta tvarka.
+2. Gamintojai, pardavėjai ar paslaugų teikėjai, pažeidę šio įstatymo ir kitų teisės aktų reikalavimus, atsako Produktų saugos ir kitų įstatymų nustatyta tvarka.
+
+
+
+
+3. Gamintojai, pardavėjai ar paslaugų teikėjai Civilinio kodekso nustatyta tvarka atlygina dėl netinkamos maisto ar paslaugų kokybės atsiradusią žalą vartotojams.
+
+
+Straipsnio pakeitimai:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
  
-
-
 
 
 
@@ -357,7 +417,7 @@ Vyriausybė, įgyvendindama maisto saugos srityje visuomenės sveikatai palanki�
 9 straipsnis. Valdymo institucijų kompetencija
 
 
-1. Valdymo institucijos, vykdydamos šio įstatymo ir kitų Lietuvos Respublikos teisės aktų joms pavestų sričių valstybės valdymo funkcijas, siekdamos užtikrinti, kad į rinką būtų teikiamas saugos reikalavimus atitinkantis maistas, įgyvendina Europos Sąjungos, Jungtinių Tautų Maisto ir žemės ūkio organizacijos, Pasaulio Prekybos Organizacijos, Maisto kodekso (Codex Alimentarius) komisijos dokumentų ir kitų tarptautinių teisės aktų reikalavimus. 
+1. Valdymo institucijos, atlikdamos šio įstatymo ir kitų Lietuvos Respublikos teisės aktų joms pavestų sričių valstybės valdymo funkcijas, siekdamos užtikrinti, kad į rinką būtų teikiamas saugos reikalavimus atitinkantis maistas, įgyvendina Europos Sąjungos, Jungtinių Tautų Maisto ir žemės ūkio organizacijos, Pasaulinės Prekybos Organizacijos, Maisto kodekso (Codex Alimentarius) komisijos dokumentų ir kitų tarptautinių teisės aktų reikalavimus. 
 
 
 
@@ -365,17 +425,17 @@ Vyriausybė, įgyvendindama maisto saugos srityje visuomenės sveikatai palanki�
 2. Sveikatos apsaugos ministerija pagal savo kompetenciją:
 
 
-1) nustato šiuos moksliškai pagrįstus, rizikos žmogaus sveikatai įvertinimu paremtus privalomuosius reikalavimus: didžiausių leistinų teršalų koncentracijų maiste, maisto priedų ir maisto medžiagų saugos, specialios mitybos, apšvitinto, genetiškai ar kitaip pakeisto, naujai sukurto ar neįprastai ruošto maisto saugos, su maistu besiliečiančių gaminių saugos, maisto higienos ir kontrolės, rizikos veiksnių analizės ir valdymo sistemos maisto tvarkymo vietose diegimo, maistą tvarkančių asmenų sveikatos ir jų sveikatos tikrinimo bei šių asmenų privalomųjų higienos žinių;
+1) nustato šiuos moksliškai pagrįstus, rizikos žmogaus sveikatai įvertinimu paremtus privalomuosius reikalavimus: didžiausių leistinų teršalų koncentracijų maiste, maisto priedų ir maisto medžiagų saugos, specialios mitybos, apšvitinto, genetiškai  ar kitaip pakeisto, naujai sukurto ar neįprastai ruošto maisto saugos, su maistu besiliečiančių gaminių saugos, maisto higienos, bendrų rizikos veiksnių analizės ir valdymo sistemos maisto tvarkymo vietose diegimo, maistą tvarkančių asmenų sveikatos ir jų sveikatos tikrinimo bei šių asmenų privalomųjų higienos žinių;
 
 
 
 
-2) koordinuoja maisto saugos ir gyventojų mitybos gerinimo, su maistu susijusio sergamumo mažinimo politikos įgyvendinimą;
+2) koordinuoja maisto saugos ir gyventojų mitybos gerinimo, su maistu susijusio sergamumo mažinimo politikos įgyvendinimą;
 
 
 
 
-3) rengia ir tvirtina maisto saugos ir gyventojų mitybos gerinimo programas, atlieka gyventojų mitybos, maisto saugos ir su maistu susijusio sergamumo monitoringą, ugdo sveikos mitybos įgūdžius bei atlieka kitas funkcijas, kurias reglamentuoja įstatymai bei kiti teisės aktai;
+3) rengia ir tvirtina maisto saugos ir gyventojų mitybos gerinimo programas, atlieka gyventojų mitybos, maisto saugos, susijusios su gyventojų sveikata, su maistu susijusio sergamumo stebėsenas (monitoringus), ugdo sveikos mitybos įgūdžius bei atlieka kitas funkcijas, kurias reglamentuoja įstatymai bei kiti teisės aktai;
 
 
 
@@ -390,17 +450,17 @@ Vyriausybė, įgyvendindama maisto saugos srityje visuomenės sveikatai palanki�
 3. Žemės ūkio ministerija pagal savo kompetenciją:
 
 
-1) įgyvendina maisto produktų ir žaliavų kokybės gerinimo, ekologiškų žemės ūkio produktų gamybos, Lietuvoje gaminamų produktų konkurencingumo tarptautinėje rinkoje didinimo politiką;
+1) įgyvendina maisto produktų ir žaliavų kokybės gerinimo, ekologiškų žemės ūkio produktų gamybos, Lietuvoje gaminamų produktų konkurencingumo tarptautinėje rinkoje didinimo politiką;
 
 
 
 
-2) rengia ir tvirtina maisto kokybės gerinimo, sveiko, ekologiško maisto gamybos bei teikimo į rinką programas, nustato maisto sudėties ir kokybės, žaliavų kokybės vertinimo, maistui skirtų augalų auginimo, pateikimo į rinką bei augalų apsaugos priemonių naudojimo ir kontrolės privalomuosius reikalavimus;
+2) rengia ir tvirtina maisto kokybės gerinimo, sveiko, ekologiško maisto gamybos bei teikimo į rinką programas, nustato maisto sudėties ir kokybės, žaliavų kokybės vertinimo, maistui skirtų augalų auginimo, pateikimo į rinką bei augalų apsaugos priemonių naudojimo ir kontrolės privalomuosius reikalavimus;
 
 
 
 
-3) nustato privalomuosius realizuojamų maisto produktų ženklinimo reikalavimus;
+3) nustato privalomuosius realizuojamų maisto produktų ženklinimo reikalavimus;
 
 
 
@@ -420,12 +480,12 @@ Vyriausybė, įgyvendindama maisto saugos srityje visuomenės sveikatai palanki�
 
 
 
-2) nustato Lietuvos rinkoje realizuojamų maisto prekių ženklinimo ir prekybos privalomuosius reikalavimus;
+2) nustato Lietuvos rinkoje realizuojamų maisto prekių bendrus ženklinimo ir prekybos privalomuosius reikalavimus;
 
 
 
 
-3) atlieka kitas funkcijas, kurias reglamentuoja įstatymai bei kiti teisės aktai.
+3) atlieka kitas funkcijas, kurias reglamentuoja įstatymai bei kiti teisės aktai.
 
 
 
@@ -435,27 +495,40 @@ Vyriausybė, įgyvendindama maisto saugos srityje visuomenės sveikatai palanki�
 5. Valstybinė maisto ir veterinarijos tarnyba pagal savo kompetenciją:
 
 
-1) įgyvendina gyvūninės kilmės maisto žaliavų saugos priežiūros ir maistui skirtų gyvūnų sergamumo mažinimo politiką;
+1) įgyvendina maisto saugos, kokybės ir tvarkymo priežiūros bei maistui skirtų gyvūnų sergamumo mažinimo politiką;
 
 
 
 
-2) nustato gyvūninės kilmės maisto žaliavų saugos; gyvūninės kilmės maisto tvarkymo ir pateikimo į rinką higienos bei kontrolės; rizikos veiksnių analizės ir valdymo sistemos diegimo gyvūninės kilmės maisto tvarkymo vietose privalomuosius reikalavimus;
+2) nustato maisto saugos, kokybės ir tvarkymo, maisto tvarkymo ir pateikimo į rinką higienos bei kontrolės, specialius rizikos veiksnių analizės ir valdymo sistemos diegimo maisto tvarkymo vietose privalomuosius reikalavimus;
 
 
 
 
-3) vykdo maistui auginamų gyvūnų ir gyvūninės kilmės maisto žaliavų užterštumo kenksmingomis medžiagomis monitoringą;
+3) atlieka maistui auginamų gyvūnų, maisto žaliavų ir maisto užterštumo kenksmingomis medžiagomis, įskaitant pesticidus ir kitus teršalus, stebėseną (monitoringą);
 
 
 
 
-4) atlieka kitas funkcijas, kurias reglamentuoja įstatymai bei kiti teisės aktai. 
+4) priima sprendimus dėl konfiskuotų, kontrabandos būdu ir be kilmės, kokybės ir saugos atitikties dokumentų įvežtų maisto produktų tolesnio panaudojimo; 
+
+
+
+
+5) atlieka maisto saugos ir kokybės tikrinimą;
+
+
+
+
+6) atlieka kitas funkcijas, kurias reglamentuoja įstatymai bei kiti teisės aktai.
  
 
 
 
 
+Straipsnio pakeitimai:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+ 
 
 
 
@@ -511,17 +584,17 @@ valstybinĖ maisto kontrolė
 11 straipsnis. Valstybinė maisto kontrolė
 
 
-1. Valstybinę maisto kontrolę atlieka įstatymų ir kitų teisės aktų nustatyta tvarka Vyriausybės įsteigta maisto kontrolės institucija.
+1. Valstybinę maisto kontrolę atlieka įstatymų ir kitų teisės aktų nustatyta tvarka Vyriausybės įsteigta maisto kontrolės institucija – Valstybinė maisto ir veterinarijos tarnyba.
 
 
 
 
-2. Maisto kontrolės institucija tikrina, kad maistas, skirtas tiek vidaus rinkai, tiek eksportui, būtų saugus, teisingai paženklintas, nepažeistų vartotojų interesų ir atitiktų šio įstatymo bei kitų teisės aktų reikalavimus. Kontrolė atliekama laikantis principo, kad maisto sauga žmonių sveikatai yra besąlygiškas prioritetas.
+2. Vyriausybės įstaiga Valstybinė maisto ir veterinarijos tarnyba tikrina, kad maistas, skirtas tiek vidaus rinkai, tiek eksportui, būtų saugus, tinkamai paženklintas, nepažeistų vartotojų interesų ir atitiktų šio įstatymo bei kitų teisės aktų reikalavimus. Kontrolė atliekama laikantis principo, kad maisto sauga žmonių sveikatai yra besąlyginis prioritetas.
 
 
 
 
-3. Valstybinė maisto kontrolė yra atliekama be išankstinio įspėjimo, reguliariai, pagal iš anksto sudarytas programas (jose numatomas tikrinimų dažnumas ir kontrolės pobūdis), taip pat kilus įtarimui, kad buvo pažeisti šio įstatymo bei kitų teisės aktų reikalavimai. Kontrolei naudojami metodai turi atitikti kontrolės tikslus.
+3. Valstybinė maisto kontrolė yra atliekama be išankstinio įspėjimo, reguliariai, pagal iš anksto sudarytas programas (jose numatomas tikrinimų dažnumas ir kontrolės pobūdis), taip pat kilus įtarimui, kad buvo pažeisti šio įstatymo bei kitų teisės aktų reikalavimai. Kontrolės metodai turi atitikti kontrolės tikslus.
 
 
 
@@ -531,7 +604,7 @@ valstybinĖ maisto kontrolė
 
 
 
-5. Maisto kontrolės institucija, atlikdama šio įstatymo bei lydimųjų teisės aktų reikalavimų laikymosi kontrolę, turi teisę:
+5. Vyriausybės įstaiga Valstybinė maisto ir veterinarijos tarnyba, atlikdama šio įstatymo bei lydimųjų teisės aktų reikalavimų laikymosi kontrolę, turi teisę:
 
 
 1) tikrinti maisto tvarkymo vietos higienos būklę ir maisto tvarkymo procesus;
@@ -539,12 +612,12 @@ valstybinĖ maisto kontrolė
 
 
 
-2) tikrinti, kaip asmenys, kurie vykdydami savo pareigas tiesiogiai ar netiesiogiai liečia maistą, laikosi higienos reikalavimų (nepažeidžiant medicinos etikos principų);
+2) tikrinti, kaip asmenys, kurie vykdydami savo pareigas tiesiogiai ar netiesiogiai liečia maistą, laikosi higienos reikalavimų (nepažeisdama medicinos etikos principų);
 
 
 
 
-3) tikrinti maistą, jo ženklinimą, gaminius, besiliečiančius su maistu, maisto tvarkymui, patalpų bei įrengimų valymui ir taisymui naudojamas priemones, medžiagas bei įrengimus;
+3) tikrinti maistą, jo ženklinimą, gaminius, kurie liečiasi su maistu, maisto tvarkymui, patalpų bei įrengimų valymui ir taisymui naudojamas priemones, medžiagas bei įrengimus;
 
 
 
@@ -554,37 +627,39 @@ valstybinĖ maisto kontrolė
 
 
 
-5) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paimti ir tirti šio straipsnio 5 dalies 3 punkte išvardytų objektų bandinius bei šio straipsnio 5 dalies 4 punkte išvardytų dokumentų kopijas ar nuorašus, gauti kitą su šio įstatymo bei kitų teisės aktų laikymusi susijusią informaciją bei lyginti tikrinimo rezultatus su maisto tvarkymo vietoje įrengtų matavimo ir kitokių prietaisų duomenimis.
+5) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paimti ir tirti šio straipsnio 5 dalies 3 punkte išvardytų objektų bandinius bei šio straipsnio 5 dalies 4 punkte išvardytų dokumentų kopijas ar nuorašus, gauti kitą su šio įstatymo bei kitų teisės aktų laikymusi susijusią informaciją bei lyginti tikrinimo rezultatus su maisto tvarkymo vietoje įrengtų matavimo ir kitų prietaisų duomenimis.
 
 
 
 
 
 
-6. Nustačius šio įstatymo ar kitų teisės aktų pažeidimus, maisto kontrolės institucija taiko teikimo į rinką ribojimo ir (ar) kitas įstatymų nustatytas priemones.
+6. Nustačiusi šio įstatymo ar kitų teisės aktų pažeidimus, Vyriausybės įstaiga Valstybinė maisto ir veterinarijos tarnyba taiko teikimo į rinką ribojimo ir (ar) kitas įstatymų nustatytas priemones.
 
 
 
 
-7. Maisto kontrolės institucija įstatymų, kitų teisės aktų nustatyta tvarka teikia informaciją Nacionalinei vartotojų teisių apsaugos tarybai apie uždraustą pateikti į rinką nesaugų Lietuvos Respublikoje pagamintą ar iš Europos Sąjungos valstybių bei valstybių, su kuriomis sudarytos tai numatančios tarptautinės sutartys, teikiamą maistą, taip pat atlieka kitas su valstybine maisto kontrole susijusias funkcijas.
+7. Vyriausybės įstaiga Valstybinė maisto ir veterinarijos tarnyba įstatymų, kitų teisės aktų nustatyta tvarka teikia informaciją Nacionalinei vartotojų teisių apsaugos tarybai apie uždraustą pateikti į rinką nesaugų Lietuvos Respublikoje pagamintą ar kitų valstybių teikiamą maistą, taip pat atlieka kitas su valstybine maisto kontrole susijusias funkcijas.
 
 
 
 
-8. Gamintojai, pardavėjai ir paslaugų teikėjai turi teisę apskųsti maisto kontrolės institucijos veiksmus teismui.
+8. Gamintojai, pardavėjai ir paslaugų teikėjai turi teisę apskųsti Vyriausybės įstaigos Valstybinės maisto ir veterinarijos tarnybos veiksmus Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
 
-9. Maisto kontrolės institucija privalo užtikrinti iš gamintojų, pardavėjų ar paslaugų teikėjų gautos informacijos, kuri sudaro komercinę paslaptį, konfidencialumą, išskyrus įstatymuose nustatytus atvejus, bei vykdyti kitas įstatymuose bei kituose teisės aktuose nustatytas pareigas.
+9.  Vyriausybės įstaiga Valstybinė maisto ir veterinarijos tarnyba privalo užtikrinti iš gamintojų, pardavėjų ar paslaugų teikėjų gautos informacijos, kuri sudaro komercinę paslaptį, konfidencialumą, išskyrus įstatymų nustatytus atvejus, ir vykdyti kitas įstatymų bei kitų teisės aktų nustatytas pareigas.
 
 
 
 
-10. Maisto kontrolės institucijos inspektoriai, pažeidę šio įstatymo ir kitų teisės aktų reikalavimus, atsako pagal įstatymus.
+10. Vyriausybės įstaigos Valstybinės maisto ir veterinarijos tarnybos inspektoriai, pažeidę šio įstatymo ir kitų teisės aktų reikalavimus, atsako pagal įstatymus.
+
+
+Straipsnio pakeitimai:
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
  
-
-
 
 
 
@@ -646,3 +721,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 ______________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+Lietuvos Respublikos maisto įstatymo 2, 3, 4, 7, 9, 11 straipsnių pakeitimo ir papildymo įstatymas
