@@ -162,8 +162,8 @@ dydis numatomas įvertinus veiklos pajamų kitimą per paskutiniuosius 2-3 metus
 bei prognozuojamus ateinančių metų vartojimo kainų indeksus. 
 Straipsnio
 pakeitimai:
-Nr. VIII-1789, 2000 07 04, Žin., 2000, Nr.
-56-1653 (2000 07 12)
+Nr. VIII-1789,
+2000 07 04, Žin., 2000, Nr. 56-1653 (2000 07 12)
  
  
 5
@@ -179,10 +179,10 @@ Pensijų draudimo išlaidoms priskiriamos senatvės, invalidumo, našlių ir
 našlaičių (maitintojo netekimo) ir ištarnauto laiko pensijos, numatytos
 Valstybinių socialinio draudimo pensijų įstatyme.
 3. Ligos ir
-motinystės (tėvystės) draudimo išlaidoms priskiriamos ligos ir motinystės
-(tėvystės) pašalpos, numatytos Valstybinio socialinio draudimo įstatyme ir
-Valstybinio savanoriškojo socialinio draudimo ligos ir motinystės pašalpoms
-taisyklėse.
+motinystės (tėvystės) draudimo išlaidoms priskiriamos ligos, motinystės ir
+motinystės (tėvystės) pašalpos, numatytos Ligos ir motinystės socialinio
+draudimo įstatyme ir Valstybinio savanoriškojo socialinio draudimo ligos ir
+motinystės pašalpoms taisyklėse.
 4.
 Draudimo nuo nedarbo išlaidoms priskiriamos pagal Bedarbių rėmimo įstatymą
 pervedamos lėšos.
@@ -209,19 +209,21 @@ palūkanos, delspinigiai už laiku nepervestas lėšas draudėjams pašalpų
 išmokėjimui, įmonių ir organizacijų nekilnojamojo turto ir žemės mokesčiai).
 Straipsnio
 pakeitimai:
-Nr. VIII-1706, 2000 05 23, Žin., 2000, Nr.
-45-1300 (2000 06 02), įsigalioja nuo 2001 01 01
-Nr. IX-99, 2000 12 20, Žin., 2000, Nr.
-111-3571 (2000 12 29), įsigalioja nuo 2001 01 01
+Nr. VIII-1706,
+2000 05 23, Žin., 2000, Nr. 45-1300 (2000 06 02), neteko galios nuo 2001 01 01
+Nr. IX-99, 2000 12
+20, Žin., 2000, Nr. 111-3571 (2000 12 29), įsigalioja nuo 2001 01 01
+Nr. IX-112, 2000
+12 21, Žin., 2000, Nr. 111-3576 (2000 12 29), įsigalioja nuo 2001 01 01
  
  
 6
 straipsnis. Fondo rezervas ir kasos apyvartos lėšos
 1.
 Valstybinio socialinio draudimo fonde sudaromi Valstybinio socialinio draudimo
-fondo rezervas (toliau - Fondo rezervas) ir kasos apyvartos lėšos. Fondo rezervas
-skiriamas Valstybinio socialinio draudimo fondui stabilizuoti ir yra ne
-mažesnis kaip 15 procentų metinės Fondo pajamų sumos. Fondo rezervas
+fondo rezervas (toliau - Fondo rezervas) ir kasos apyvartos lėšos. Fondo
+rezervas skiriamas Valstybinio socialinio draudimo fondui stabilizuoti ir yra
+ne mažesnis kaip 15 procentų metinės Fondo pajamų sumos. Fondo rezervas
 formuojamas iš Valstybinio socialinio draudimo fondo pajamų dalies,
 viršijančios išlaidas, neįskaitant lėšų, pervedamų į Privalomojo sveikatos
 draudimo fondą. Į Fondo rezervą įskaitomi Valstybinio socialinio draudimo fondo
@@ -247,7 +249,7 @@ Fondo biudžete sudaromos kasos apyvartos lėšos, būtinos pinigų cirkuliacija
 užtikrinti. Kasos apyvartos lėšos privalo dengti vidutines metines 3 dienų
 išlaidų sumas. Šių lėšų dydis nustatomas tvirtinant Fondo biudžetą.
  
-7 straipsnis.*** Valstybinio
+***7 straipsnis. Valstybinio
 socialinio draudimo įmokų mokėjimo tvarka
 1.
 Darbdavio ir apdraustojo privalomąsias mokėti į Valstybinio socialinio draudimo
@@ -293,8 +295,8 @@ nustatyta tvarka taikoma ir valstybinio socialinio draudimo įmokų mokėjimui u
 2000 metų I ir II ketvirčius.
 Straipsnio
 pakeitimai:
-Nr. VIII-1789, 2000 07 04, Žin., 2000, Nr.
-56-1653 (2000 07 12)
+Nr. VIII-1789,
+2000 07 04, Žin., 2000, Nr. 56-1653 (2000 07 12)
  
  
 8
@@ -386,8 +388,8 @@ grynasis einamųjų metų rezultatas;
 kasos apyvartos lėšos.
 Straipsnio
 pakeitimai:
-Nr. IX-99, 2000 12 20, Žin., 2000, Nr.
-111-3571 (2000 12 29), įsigalioja nuo 2001 01 01
+Nr. IX-99, 2000 12
+20, Žin., 2000, Nr. 111-3571 (2000 12 29), įsigalioja nuo 2001 01 01
  
  
 10
@@ -406,8 +408,8 @@ a)
 išlaidos nematerialiajam turtui įsigyti;
 b)
 įplaukos, gautos pardavus nematerialųjį turtą;
-c) išlaidos
-ilgalaikiam materialiajam turtui įsigyti;
+c)
+išlaidos ilgalaikiam materialiajam turtui įsigyti;
 d)
 įplaukos, gautos pardavus ilgalaikį materialųjį turtą;
 e)
@@ -467,19 +469,30 @@ Pakeitimai:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. VIII-1706, 2000 05 23, Žin., 2000, Nr.
-45-1300 (2000 06 02)
+Nr. VIII-1706,
+2000 05 23, Žin., 2000, Nr. 45-1300 (2000 06 02)
 VALSTYBINIO
 SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS LAIKINOJO ĮSTATYMO 5 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
-Šis įstatymas įsigalioja nuo 2001 m.
-sausio 1 d.
+Šis įstatymas neteko galios nuo 2001 m.
+sausio 1 d.:
+ 
+Pakeitimai:
+1)
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-112, 2000 12 21, Žin., 2000, Nr. 111-3576 (2000 12 29)
+VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS LAIKINOJO
+ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMO PANAIKINIMO IR VALSTYBINIO SOCIALINIO
+DRAUDIMO FONDO BIUDŽETO SANDAROS LAIKINOJO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis įstatymas
+įsigalioja nuo 2001 m. sausio 1 d.
  
 2.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. VIII-1789, 2000 07 04, Žin., 2000, Nr.
-56-1653 (2000 07 12)
+Nr. VIII-1789,
+2000 07 04, Žin., 2000, Nr. 56-1653 (2000 07 12)
 VALSTYBINIO
 SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS LAIKINOJO ĮSTATYMO 4, 7 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
@@ -487,11 +500,23 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 3.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-99, 2000 12 20, Žin., 2000, Nr.
-111-3571 (2000 12 29)
-VALSTYBINIO SOCIALINIO
-DRAUDIMO FONDO BIUDŽETO SANDAROS LAIKINOJO ĮSTATYMO 5 IR 9 STRAIPSNIŲ PAKEITIMO
-ĮSTATYMAS
+Nr. IX-99, 2000 12
+20, Žin., 2000, Nr. 111-3571 (2000 12 29)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS LAIKINOJO ĮSTATYMO 5 IR 9
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2001 m. sausio
+1 d.
+ 
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-112, 2000
+12 21, Žin., 2000, Nr. 111-3576 (2000 12 29)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS LAIKINOJO ĮSTATYMO 5 STRAIPSNIO
+PAKEITIMO ĮSTATYMO PANAIKINIMO IR VALSTYBINIO SOCIALINIO DRAUDIMO FONDO
+BIUDŽETO SANDAROS LAIKINOJO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001 m.
 sausio 1 d.
  
