@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AD44354DA25E"
 
 # Lietuvos Respublikos augalų apsaugos įstatymas
 
-Suvestinė redakcija nuo 1998-06-19 iki 2001-06-05
+Suvestinė redakcija nuo 2001-06-06 iki 2001-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 90-2013, i. k. 0951010ISTA00I-1069
  
@@ -72,17 +72,17 @@ Vilnius
 3 straipsnis. Augalų apsaugos valstybinis valdymas ir valstybinė priežiūra
 
 
-1. Lietuvos Respublikoje augalų apsaugos valstybinį valdymą, atsižvelgdamos į šio darbo specifinį pobūdį, vykdo Žemės ūkio ministerija per Valstybinę augalų apsaugos tarnybą, Aplinkos ministerija per regioninius Aplinkos apsaugos departamentus ir Miškų apsaugos tarnybą, Sveikatos apsaugos ministerija per visuomenės sveikatos priežiūros tarnybas ir apskričių viršininkų administracijos per Kaimo reikalų departamentus bei rajonų Žemės ūkio skyrius. Minėtos tarnybos, neatsižvelgdamos į naudotojų pavaldumą, kontroliuoja cheminių ir biologinių augalų apsaugos priemonių gamybą, įvežimą, saugojimą, prekybą, naudojimą ir karantino priemonių taikymą.
+1. Lietuvos Respublikoje augalų apsaugos valstybinį valdymą, atsižvelgdamos į šio darbo specifinį pobūdį, vykdo Žemės ūkio ministerija per Valstybinę augalų apsaugos tarnybą, Aplinkos ministerija, Sveikatos apsaugos ministerija per visuomenės sveikatos priežiūros tarnybas ir apskričių viršininkai. Minėtos tarnybos, neatsižvelgdamos į naudotojų pavaldumą, kontroliuoja cheminių ir biologinių augalų apsaugos priemonių gamybą, įvežimą, saugojimą, prekybą, naudojimą ir karantino priemonių taikymą.
 
 
 
 
-2. Augalų apsaugos valstybinę priežiūrą atlieka valstybiniai augalų apsaugos ir karantino bei miškų apsaugos inspektoriai.
+2. Augalų apsaugos valstybinę priežiūrą atlieka valstybiniai augalų apsaugos ir karantino inspektoriai, vyriausieji valstybiniai miškų pareigūnai, vyresnieji valstybiniai miškų pareigūnai bei valstybiniai saugomų teritorijų pareigūnai.
 
 
 
 
-3. Šie inspektoriai turi teisę:
+3. Šio straipsnio 2 dalyje nurodyti inspektoriai ir pareigūnai turi teisę:
 
 
 1) kontroliuoti, kaip fiziniai ir juridiniai asmenys vykdo Augalų apsaugos įstatymo reikalavimus;
@@ -102,10 +102,12 @@ Vilnius
 
 
 
-4. Valstybiniai augalų apsaugos ir karantino inspektoriai turi teisę žemės naudotojus traukti administracinėn atsakomybėn už augalų apsaugos priemonių naudojimo pažeidimus, taip pat nesiėmimą priemonių piktžolėms naikinti bei jų plitimui sustabdyti.
+4. Valstybiniai augalų apsaugos ir karantino inspektoriai turi teisę žemės naudotojus traukti administracinėn atsakomybėn už augalų apsaugos priemonių naudojimo pažeidimus, taip pat nesiėmimą priemonių piktžolėms naikinti bei jų plitimui sustabdyti. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-320, 2001-05-15, Žin., 2001, Nr. 48-1655 (2001-06-06), i. k. 1011010ISTA00IX-320
  
-
-
 
 
 
@@ -113,10 +115,12 @@ Vilnius
 4 straipsnis. Valstybinės augalų apsaugos tarnybos finansavimas
 
 
-Žemės ūkio ministerijos Valstybinė augalų apsaugos tarnyba yra išlaikoma iš valstybės biudžeto lėšų, o Aplinkos ministerijos Miškų apsaugos tarnyba – iš Miško fondo lėšų.
+Žemės ūkio ministerijos Valstybinė augalų apsaugos tarnyba yra išlaikoma iš valstybės biudžeto lėšų. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-320, 2001-05-15, Žin., 2001, Nr. 48-1655 (2001-06-06), i. k. 1011010ISTA00IX-320
  
-
-
 
 
 
@@ -250,10 +254,12 @@ Fiziniai ir juridiniai asmenys, pažeidę Augalų apsaugos įstatymo reikalavimu
 11 straipsnis. Tarptautinis bendradarbiavimas augalų apsaugos srityje
 
 
-Žemės ūkio ministerijos Valstybinė augalų apsaugos tarnyba ir Aplinkos ministerijos Miškų apsaugos tarnyba pagal savo kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose, bendradarbiauja su augalų apsaugos priemones tiriančiomis, gaminančiomis ir jomis prekiaujančiomis organizacijomis, keičiasi naujausia augalų apsaugos informacija, atlieka kitus veiksmus, reikalingus tarptautiniams įsipareigojimams augalų apsaugos srityje įgyvendinti.
+Žemės ūkio ministerijos Valstybinė augalų apsaugos tarnyba ir Aplinkos ministerija pagal savo kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose, bendradarbiauja su augalų apsaugos priemones tiriančiomis, gaminančiomis ir jomis prekiaujančiomis organizacijomis, keičiasi naujausia augalų apsaugos informacija, atlieka kitus veiksmus, reikalingus tarptautiniams įsipareigojimams augalų apsaugos srityje įgyvendinti. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-320, 2001-05-15, Žin., 2001, Nr. 48-1655 (2001-06-06), i. k. 1011010ISTA00IX-320
  
-
-
 
 
 
@@ -281,3 +287,8 @@ Lietuvos Respublikos augalų apsaugos įstatymo 3, 4, 9 ir 12 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-769, 1998-06-04, Žin., 1998, Nr. 56-1545 (1998-06-19), i. k. 0981010ISTAVIII-769
 Lietuvos Respublikos augalų apsaugos įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-320, 2001-05-15, Žin., 2001, Nr. 48-1655 (2001-06-06), i. k. 1011010ISTA00IX-320
+Lietuvos Respublikos augalų apsaugos įstatymo 3, 4 ir 11 straipsnių pakeitimo įstatymas
