@@ -2688,16 +2688,16 @@ dienos;
 rezervo karių - nuo pašaukimo į tarnybą (mokymus, pratybas ar vykdyti tarnybos
 užduočių) dienos iki grįžimo į nuolatinę gyvenamąją vietą dienos.
 2. Jeigu nelaimingas atsitikimas
-įvyksta kariui darant tyčinį nusikaltimą, dėl tyčios ar didelio aplaidumo
-nevykdant teisėto įsakymo, taip pat jei kario žuvimo ar sveikatos sutrikimo
-priežastis buvo kario apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar
-toksinių medžiagų, jei karys nusižudė, kėsinosi nusižudyti ar tyčia save
-sužalojo, ar kario žuvimo ar sveikatos sutrikimo priežastis buvo transporto
-priemonės vairavimas neturint teisės ją vairuoti arba perdavus ją vairuoti
-asmeniui, apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar toksinių
-medžiagų arba neturinčiam teisės ją vairuoti, draudimo išmokos nemokamos.
-Draudimo išmokos nemokamos ir kitais atvejais, kai Vyriausybės nustatyta tvarka
-įvykis pripažįstamas nedraudiminiu.
+įvyksta kariui darant tyčinę nusikalstamą veiką, dėl tyčios ar didelio
+aplaidumo nevykdant teisėto įsakymo, taip pat jei kario žuvimo ar sveikatos
+sutrikimo priežastis buvo kario apsvaigimas nuo alkoholio, narkotinių,
+psichotropinių ar toksinių medžiagų, jei karys nusižudė, kėsinosi nusižudyti ar
+tyčia save sužalojo, ar kario žuvimo ar sveikatos sutrikimo priežastis buvo
+transporto priemonės vairavimas neturint teisės ją vairuoti arba perdavus ją
+vairuoti asmeniui, apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar
+toksinių medžiagų arba neturinčiam teisės ją vairuoti, draudimo išmokos
+nemokamos. Draudimo išmokos nemokamos ir kitais atvejais, kai Vyriausybės
+nustatyta tvarka įvykis pripažįstamas nedraudiminiu.
 3. Draudiminių įvykių karo
 tarnyboje pripažinimo sąlygas ir tvarką, pagal sveikatos sutrikimo laipsnį
 draudimo išmokų dydį, taip pat mokėjimo tvarką nustato Vyriausybė arba jos
@@ -2715,6 +2715,11 @@ draudiminio įvykio mėnesį, padaugintam iš 12, bet ne didesne suma kaip 48
 Vyriausybės nustatytos minimalios mėnesinės algos.
 7. Karo metu karių draudimo pagal
 šį straipsnį sąlygos negalioja.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1436,
+2003-04-03, Žin., 2003, Nr. 38-1681 (2003-04-24)
  
 67 straipsnis.
 Kompensacijos kario žūties ar sveikatos sutrikimo atveju
@@ -2729,12 +2734,12 @@ straipsnio 10 dalyje nustatyto dydžio, laikantis 12 dalyje nustatytų
 apribojimų, vienkartinė kompensacija. Šios kompensacijos mokamos iš Krašto
 apsaugos ministerijai skirtų valstybės biudžeto lėšų.
 2. Kompensacijos nemokamos, jeigu
-dėl sveikatos sutrikimo nesumažėjo kario tinkamumo tarnybai laipsnis.
-Kompensacijos taip pat nemokamos, jeigu karys žūva ar jo sveikata sutrinka
-darant tyčinį nusikaltimą, dėl tyčios ar didelio aplaidumo nevykdant teisėto
-įsakymo, taip pat jei kario žuvimo ar sveikatos sutrikimo priežastis buvo
-apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar toksinių medžiagų, jei
-karys nusižudė, kėsinosi nusižudyti ar tyčia save sužalojo arba kario žuvimo ar
+dėl sveikatos sutrikimo nesumažėjo kario tinkamumo tarnybai laipsnis. Kompensacijos
+taip pat nemokamos, jeigu karys žūva ar jo sveikata sutrinka darant tyčinę
+nusikalstamą veiką, dėl tyčios ar didelio aplaidumo nevykdant teisėto įsakymo,
+taip pat jei kario žuvimo ar sveikatos sutrikimo priežastis buvo apsvaigimas
+nuo alkoholio, narkotinių, psichotropinių ar toksinių medžiagų, jei karys
+nusižudė, kėsinosi nusižudyti ar tyčia save sužalojo arba kario žuvimo ar
 sveikatos sutrikimo priežastis buvo transporto priemonės vairavimas neturint
 teisės ją vairuoti arba perdavus ją vairuoti asmeniui, apsvaigusiam nuo
 alkoholio, narkotinių, psichotropinių ar toksinių medžiagų arba neturinčiam
@@ -2747,17 +2752,17 @@ nustato Vyriausybė.
 sutrikimo priežastinį ryšį su tiesioginių pareigų vykdymu nustato krašto
 apsaugos ministro nustatyta tvarka sudaryta tarnybinio tyrimo komisija. Kario
 sveikatos sutrikimo (jo suluošinimo) sunkumo laipsnį teisės aktų nustatyta
-tvarka nustato Krašto apsaugos ministerijos Medicininės ekspertizės komisija.
-Šių komisijų sprendimai gali būti apskųsti teismui per 10 dienų nuo išvadų
-įteikimo kariui, jo šeimos nariams ar jų prašymu kitam kario interesams
-atstovaujančiam asmeniui.
+tvarka nustato Krašto apsaugos ministerijos Medicininės ekspertizės komisija. Šių
+komisijų sprendimai gali būti apskųsti teismui per 10 dienų nuo išvadų įteikimo
+kariui, jo šeimos nariams ar jų prašymu kitam kario interesams atstovaujančiam
+asmeniui.
 4. Dėl sužeidimo ar suluošinimo
 tapusiam I grupės invalidu kariui mokamos šių dydžių vienkartinės
 kompensacijos:
 1) privalomosios pradinės karo
 tarnybos kariui - 250 Vyriausybės nustatytų minimalių mėnesinių algų;
-2) profesinės karo tarnybos kariui
-- 60 mėnesinių tarnybinių atlyginimų;
+2) profesinės karo tarnybos
+kariui - 60 mėnesinių tarnybinių atlyginimų;
 3) kariui savanoriui ar rezervo
 kariui - 60 mėnesinių rezervo kario atlyginimų.
 5. Dėl sužeidimo ar suluošinimo
@@ -2804,10 +2809,10 @@ kariui - 18 mėnesinių tarnybinių atlyginimų;
 kariui - 18 mėnesinių rezervo kario atlyginimų.
 9. Jeigu lengvai sužeistas ar
 suluošintas karys po gydymo netapo invalidu, tačiau liko liekamųjų reiškinių ir
-pasikeitė jo tinkamumo karo tarnybai laipsnis, kuris nustatomas praėjus 3 mėnesiams
-nuo išgydymo po sužeidimo, ir dėl šio laipsnio pasikeitimo jis turėtų būti
-perkeltas į žemesnes arba mažiau apmokamas pareigas, kariui mokamos šių dydžių
-vienkartinės kompensacijos:
+pasikeitė jo tinkamumo karo tarnybai laipsnis, kuris nustatomas praėjus 3
+mėnesiams nuo išgydymo po sužeidimo, ir dėl šio laipsnio pasikeitimo jis turėtų
+būti perkeltas į žemesnes arba mažiau apmokamas pareigas, kariui mokamos šių
+dydžių vienkartinės kompensacijos:
 1) privalomosios pradinės karo
 tarnybos kariui - 50 Vyriausybės nustatytų minimalių mėnesinių algų;
 2) profesinės karo tarnybos
@@ -2840,6 +2845,11 @@ nustatomas privalomosios pradinės karo tarnybos kariui atitinkamu atveju
 priklausančios kompensacijos sumą padauginus iš 2.
 13. Šiame straipsnyje nustatytos
 kompensacijų išmokėjimo sąlygos karo metu negalioja.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1436,
+2003-04-03, Žin., 2003, Nr. 38-1681 (2003-04-24)
  
 68 straipsnis.
 Socialinės ir kitos su karo tarnyba susijusios garantijos
@@ -2874,12 +2884,12 @@ aktyviojo rezervo kariui nedarbingumo laikotarpiu, tačiau ne ilgiau kaip 4
 mėnesius, iš Krašto apsaugos ministerijai skirtų lėšų mokama 100 procentų
 mėnesinio rezervo kario atlyginimo dydžio nedarbingumo pašalpa.
 4.
-Tikrosios karo tarnybos metu su tarnyba susijusiomis aplinkybėmis žuvę kariai
-laidojami valstybės lėšomis. Valstybės finansuojamų laidojimo išlaidų aprašą
-nustato Vyriausybė arba jos įgaliota institucija. Tikrosios tarnybos metu
-kariui žuvus kitomis aplinkybėmis arba jam mirus dėl ligos, karį laidojantiems
-jo šeimos nariams ar artimiesiems skiriama pusės Vyriausybės nustatyto laidojimo
-išlaidų dydžio parama laidojimo išlaidoms iš dalies padengti.
+Tikrosios karo tarnybos metu su tarnyba susijusiomis aplinkybėmis žuvę kariai laidojami
+valstybės lėšomis. Valstybės finansuojamų laidojimo išlaidų aprašą nustato
+Vyriausybė arba jos įgaliota institucija. Tikrosios tarnybos metu kariui žuvus
+kitomis aplinkybėmis arba jam mirus dėl ligos, karį laidojantiems jo šeimos
+nariams ar artimiesiems skiriama pusės Vyriausybės nustatyto laidojimo išlaidų
+dydžio parama laidojimo išlaidoms iš dalies padengti.
 5.
 Tikrosios karo tarnybos metu dėl susijusių su tarnyba priežasčių žuvusiam arba
 tikrosios karo tarnybos metu dėl ligos mirusiam kariui, jeigu jo šeima
@@ -2895,15 +2905,15 @@ sąlygas nustato Vyriausybė arba jos įgaliota institucija.
 7. Privalomosios
 pradinės karo tarnybos kariams, nuosavybės teise turintiems arba nuomojantiems
 valstybės ar savivaldybės gyvenamojo fondo butą (gyvenamąjį namą), taip pat
-mažas pajamas turinčioms privalomosios pradinės karo tarnybos karių šeimoms kario
-tarnybos metu Vyriausybės nustatyta tvarka ir sąlygomis iš Krašto apsaugos
-ministerijai valstybės biudžete numatytų asignavimų kompensuojama dalis buto
-(gyvenamojo namo) šilumos tiekimo ir su namo bendrosios dalinės nuosavybės
-išlaikymu susijusių išlaidų. Jei privalomosios pradinės karo tarnybos karys
-pateikia krašto apsaugos ministro nustatytos formos pažymą, pasirašytą karinio
-vieneto, kuriame jis tarnauja, vado, neskaičiuojami mokesčiai už komunalines
-paslaugas (šiukšlių išvežimą, liftą, bendro naudojimo patalpų ir teritorijos
-valymą ir kitas), kuriomis karys nesinaudoja.
+mažas pajamas turinčioms privalomosios pradinės karo tarnybos karių šeimoms
+kario tarnybos metu Vyriausybės nustatyta tvarka ir sąlygomis iš Krašto
+apsaugos ministerijai valstybės biudžete numatytų asignavimų kompensuojama
+dalis buto (gyvenamojo namo) šilumos tiekimo ir su namo bendrosios dalinės
+nuosavybės išlaikymu susijusių išlaidų. Jei privalomosios pradinės karo
+tarnybos karys pateikia krašto apsaugos ministro nustatytos formos pažymą,
+pasirašytą karinio vieneto, kuriame jis tarnauja, vado, neskaičiuojami
+mokesčiai už komunalines paslaugas (šiukšlių išvežimą, liftą, bendro naudojimo
+patalpų ir teritorijos valymą ir kitas), kuriomis karys nesinaudoja.
 Straipsnio
 pakeitimai:
 Nr. VIII-1289,
@@ -2944,9 +2954,9 @@ teisę gauti valstybinę kario pensiją.
 2. Dėl priežasčių, susijusių su
 tarnyba, tapę invalidais kariai įgyja teisę gauti valstybinę kario invalidumo
 pensiją.
-3. Pensijų skyrimo ir mokėjimo
-kariams sąlygas bei tvarką nustato pensijų skyrimo ir mokėjimo tvarką
-reglamentuojantys įstatymai.
+3. Pensijų skyrimo ir mokėjimo kariams
+sąlygas bei tvarką nustato pensijų skyrimo ir mokėjimo tvarką reglamentuojantys
+įstatymai.
 4. Atsargos karių, pagal darbo
 sutartis dirbančių valstybės tarnautojais, valstybinės kario pensijos ir
 atlyginimo bendro dydžio apribojimus nustato kiti įstatymai.
@@ -2968,7 +2978,8 @@ Krašto apsaugos ministerijos padaliniuose, kariuomenėje, civilinės saugos,
 operatyvinėse, objektų apsaugos ir kitose krašto apsaugos sistemos tarnybose,
 kai tarnybinėms funkcijoms atlikti nebūtina būti profesinės karo tarnybos
 kariu, tačiau reikia turėti specialių žinių ir (ar) patirties krašto apsaugos
-sistemoje, ir tarnybos specifikai ar atliekamoms funkcijoms būtini statutiniai santykiai.
+sistemoje, ir tarnybos specifikai ar atliekamoms funkcijoms būtini statutiniai
+santykiai.
 3. Atsižvelgdama į šio straipsnio
 2 dalies sąlygas ir būtinumą užtikrinti krašto apsaugos sistemos civilinio
 personalo aukštą kvalifikaciją bei stabilumą, Vyriausybė gali nustatyti
@@ -2989,10 +3000,11 @@ Civilinės krašto apsaugos tarnybos ypatumai
 Tarnautojams, atliekantiems civilinę krašto apsaugos tarnybą:
 1)
 taikomos šio įstatymo 73 straipsnyje numatytos būtinosios sąlygos bei
-apribojimai ir civilinės krašto apsaugos tarnybos statuto nustatyti reikalavimai
-bei sąlygos. Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos
-ministerijos atliekantiems civilinę krašto apsaugos tarnybą tarnautojams
-taikomi tarnybos šiame departamente statuto nustatyti reikalavimai ir sąlygos;
+apribojimai ir civilinės krašto apsaugos tarnybos statuto nustatyti
+reikalavimai bei sąlygos. Antrajame operatyvinių tarnybų departamente prie
+Krašto apsaugos ministerijos atliekantiems civilinę krašto apsaugos tarnybą
+tarnautojams taikomi tarnybos šiame departamente statuto nustatyti reikalavimai
+ir sąlygos;
 2) šio
 įstatymo 74 straipsnyje nustatyta tvarka gali būti suteikiami kvalifikaciniai
 rangai;
@@ -3016,8 +3028,8 @@ civilinę krašto apsaugos tarnybą, krašto apsaugos sistemoje nustatyto turini
 anketoje įstatymų ir kitų teisės aktų nustatyta tvarka privalo pateikti
 duomenis apie save, savo ryšius ir interesus, galinčius turėti reikšmės
 valstybės paslapčių apsaugai, tarnybos pareigų vykdymui ar galinčius būti
-interesų konflikto priežastimi. Šie duomenys tikrinami. Nuslėpęs ar sąmoningai pateikęs
-neteisingus duomenis asmuo traukiamas atsakomybėn pagal įstatymą. Su
+interesų konflikto priežastimi. Šie duomenys tikrinami. Nuslėpęs ar sąmoningai
+pateikęs neteisingus duomenis asmuo traukiamas atsakomybėn pagal įstatymą. Su
 nuslėpusiuoju ar sąmoningai pateikusiuoju neteisingus duomenis gali būti
 nutraukta civilinės krašto apsaugos tarnybos sutartis ir jis atleistas iš
 tarnybos krašto apsaugos sistemoje.
@@ -3088,9 +3100,9 @@ straipsnis. Civilinės krašto apsaugos tarnybos kvalifikacinių rangų sistema
 tarnybos tarnautojų - gynybos specialistų ir vadovų -
 kvalifikacijai ir patirčiai pažymėti nustatoma 14 kvalifikacinių rangų
 sistema.“
-2. Civilinės krašto apsaugos
-tarnybos tarnautojų rangų sistemą ir reikalavimus rangams gauti nustato, taip
-pat rangus suteikia krašto apsaugos ministras.
+2. Civilinės krašto apsaugos tarnybos
+tarnautojų rangų sistemą ir reikalavimus rangams gauti nustato, taip pat rangus
+suteikia krašto apsaugos ministras.
 3. Kvalifikaciniai rangai
 pavaldumo nežymi.
 4. Suteiktas rangas galioja tol,
@@ -3107,10 +3119,10 @@ Nr.42-1194 (00.05.24)
 75 straipsnis. Civilinės krašto apsaugos
 tarnybos tarnautojų tarnybos apmokėjimo 
 sąlygos
-1. Be Valstybės tarnybos
-įstatymo nustatytomis sąlygomis ir tvarka valstybės tarnautojams skirtų
-pareiginių algų ir priemokų, civilinės krašto apsaugos tarnybos tarnautojams
-skiriami šie priedai:
+1. Be Valstybės
+tarnybos įstatymo nustatytomis sąlygomis ir tvarka valstybės tarnautojams
+skirtų pareiginių algų ir priemokų, civilinės krašto apsaugos tarnybos
+tarnautojams skiriami šie priedai:
 1) civilinės krašto apsaugos
 tarnybos priedas, atsižvelgiant į suteiktą rangą;
 2) priedas už krašto apsaugos
@@ -3161,7 +3173,8 @@ dalyje numatytos civilinės krašto apsaugos tarnybos tarnautojų aprūpinimo
 sąlygos ir socialinės garantijos, o pareigūnams papildomai taikomos šio
 įstatymo 67 straipsnyje ir 68 straipsnio 2 dalyje kariams numatytos
 kompensacijų dėl sveikatos sutrikimo mokėjimo sąlygos.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. VIII-1289,
 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
 Nr. VIII-1668, 00.05.09, Žin., 2000,
@@ -3258,8 +3271,8 @@ PAKEITIMO ĮSTATYMAS
 6.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-1135, 2002-10-15,
-Žin., 2002, Nr. 102-4550 (2002-10-25)
+Nr. IX-1135,
+2002-10-15, Žin., 2002, Nr. 102-4550 (2002-10-25)
 KRAŠTO APSAUGOS SISTEMOS
 ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 9 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
@@ -3272,6 +3285,18 @@ IX-1359,
 KRAŠTO APSAUGOS
 SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 2, 5, 7, 9, 10, 18, 31, 42, 48,
 59, 60, 61, 68, 72 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+9.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-1436,
+2003-04-03, Žin., 2003, Nr. 38-1681 (2003-04-24)
+KRAŠTO APSAUGOS SISTEMOS
+ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 66 IR 67 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis Įstatymas
+įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr.
+89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr.
+37-1341), t.y. nuo 2003 m. gegužės 1 d. 
  
 *** Pabaiga ***
  
@@ -3290,7 +3315,8 @@ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2003-04-04)
+Aušrinė Trapinskienė (2003-05-07)
                  
 autrap@lrs.lt
