@@ -194,9 +194,13 @@ išdavimą.
 straipsnis. Valstybės rinkliavos mokėjimas
 1. Valstybės
 rinkliavos mokėjimo tvarką nustato Vyriausybė. 
-2. Ne didesnė kaip 50 litų valstybės rinkliava gali būti sumokama
-nuperkant valstybės rinkliavos ženklą Vyriausybės arba jos įgaliotos
-institucijos nustatyta tvarka.
+2. (Neteko galios 2002-05-04).
+Straipsnio pakeitimai:
+Nr.
+IX-857,
+2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
+ 
+ 
  
 10
 straipsnis. Valstybės rinkliavos grąžinimas
@@ -206,9 +210,10 @@ valstybės rinkliava arba jos dalis grąžinama šiais atvejais:
 daugiau negu Vyriausybės nustatytas rinkliavos dydis;
 2) jeigu
 paslaugos nesuteikiamos.
-2. Valstybės rinkliava
-grąžinama, jeigu prašymas dėl jos grąžinimo vietos mokesčio administratoriui
-pateiktas per Mokesčių administravimo įstatyme nustatytą terminą. 
+2. Valstybės
+rinkliava grąžinama, jeigu prašymas dėl jos grąžinimo vietos mokesčio
+administratoriui pateiktas per Mokesčių administravimo įstatyme nustatytą
+terminą. 
 3. Valstybės
 rinkliavos grąžinimo tvarką nustato Vyriausybė.
  
@@ -241,8 +246,8 @@ objektų teritorijas ir nustatytas vietinės reikšmės apsaugines zonas išdavi
 (išskyrus važiavimą per šias teritorijas magistraliniais ir krašto keliais,
 naudojimąsi jų statiniais, stovėjimo ir poilsio aikštelėmis, terminalais ir
 pasienio kontrolės punktais);
-6) naudojimąsi savivaldybių tarybos nustatytomis miestų ar miestelių gatvių
-bei aikščių vietomis automobiliams statyti;
+6) naudojimąsi savivaldybių tarybos nustatytomis miestų ar miestelių
+gatvių bei aikščių vietomis automobiliams statyti;
 7) gyvūnų (šunų,
 kačių) registravimą ir laikymą daugiabučiuose namuose;
 8) komunalinių
@@ -258,8 +263,8 @@ Savivaldybės
 taryba savo sprendimu:
 1) nustato
 vietinę rinkliavą;
-2) tvirtina
-vietinės rinkliavos nuostatus;
+2) tvirtina vietinės
+rinkliavos nuostatus;
 3) nustato
 lengvatas vietinių rinkliavų mokėtojams;
 4) nustato
@@ -366,8 +371,20 @@ Nr. IX-435, 2001-07-10, Žin., 2001, Nr.
 62-2233 (2001-07-18)
 RINKLIAVŲ ĮSTATYMO 3 IR 4 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-847,
+2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
+RINKLIAVŲ
+ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušra Petraitienė (2001-07-19)
-                  aupetr@lrs.lt
+Redagavo:
+Aušra Bodin (2002-05-07)
+                 
+ausra.bodin@lrs.lt
