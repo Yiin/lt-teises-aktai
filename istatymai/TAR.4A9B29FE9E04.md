@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1993-11-19 iki 1994-01-04
+Suvestinė redakcija nuo 1994-01-05 iki 1994-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
  
@@ -96,7 +96,10 @@ BENDROJI DALIS
 
 
 
-4) steigti bendrovių sąjungas ir dalyvauti jų veikloje; 
+4) steigti bendrovių sąjungas, asociacijas, kooperatines bendroves ir dalyvauti jų veikloje;
+Straipsnio punkto pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
@@ -119,7 +122,15 @@ Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA0
 
 
 
-8) įstatuose nustatyta tvarka reorganizuotis ir likviduotis.
+8) įstatuose nustatyta tvarka reorganizuotis ir likviduotis;
+
+
+
+
+9) įvertinti (perkainoti) bendrovės turtą. 
+Papildyta straipsnio punktu:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
@@ -236,7 +247,10 @@ Bendrovės steigimo dokumentai yra: steigimo sutartis, narių sąrašas, steigia
 
 
 
-3. Steigiamasis susirinkimas teisėtas, kai jame dalyvauja 2/3 į sąrašą įrašytų narių. Sprendimai priimami 2/3 balsų dauguma. Steigiamajam susirinkimui neįvykus, pakartotinis susirinkimas šaukiamas per 10 dienų. Neįvykus antrajam pakartotiniam steigiamajam susirinkimui, bendrovės steigimas nutraukiamas. 
+3. Steigiamasis susirinkimas teisėtas, kai jame dalyvauja daugiau kaip pusė į sąrašą įrašytų narių. Sprendimai priimami 2/3 balsų dauguma. Steigiamajam susirinkimui neįvykus, pakartotinis susirinkimas šaukiamas per 10 dienų. Neįvykus antrajam pakartotiniam steigiamajam susirinkimui, bendrovės steigimas nutraukiamas. 
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
@@ -246,7 +260,9 @@ Bendrovės steigimo dokumentai yra: steigimo sutartis, narių sąrašas, steigia
 
 
 
-5. Steigiamojo susirinkimo protokolą pasirašo susirinkimo pirmininkas, sekretorius ir steigėjai. 
+5. Steigiamojo susirinkimo protokolą pasirašo susirinkimo pirmininkas ir sekretorius.
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
  
 
 
@@ -331,7 +347,10 @@ Prie pranešimo pridedamas detalus priimto asmenų turto sąrašas.
 
 
 
-7) darbo užmokesčio ir pelno skirstymo taisyklės; 
+7) darbo užmokesčio nustatymo tvarka ir pelno paskirstymo taisyklės;
+Straipsnio punkto pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
@@ -422,17 +441,26 @@ Rezervinio kapitalo fondą sudaro privalomi atskaitymai iš pelno. Rezervinio ka
 
 
 
-3. Nepiniginiai pajiniai įnašai įvertinami bendrovės įstatuose nustatyta tvarka ir tvirtinami narių susirinkime. 
+3. Nepiniginiai pajiniai įnašai įvertinami ir tvirtinami bendrovės įstatuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
 
-4. Minimalus bendrovės nario pajinis įnašas - 1000 rb. vertės. 
+4. Minimalus bendrovės nario pajinis įnašas – 100 litų.
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
 
-5. Metams pasibaigus ir patvirtinus bendrovės metinę apyskaitą, pagrindinio kapitalo padidėjimas (sumažėjimas) paskirstomas nariams proporcingai pajų vertei. 
+5. Metams pasibaigus ir patvirtinus bendrovės metinę apyskaitą, pagrindinio kapitalo padidėjimas (sumažėjimas) paskirstomas nariams proporcingai pajų vertei. Proporcingai pajų vertei paskirstomas turto padidėjimas (sumažėjimas), atsiradęs dėl turto perkainojimo.
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
@@ -480,7 +508,14 @@ Bendrovės pagrindinis kapitalas padidinamas:
 
 
 
-4) didėjant pagrindinio kapitalo sudėtinių dalių vertėms. 
+4) didėjant pagrindinio kapitalo sudėtinių dalių vertėms;
+
+
+
+
+5) perkainojant turtą (jei jis padidėjo).
+Papildyta straipsnio punktu:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
  
 
 
@@ -506,7 +541,14 @@ Bendrovės pagrindinis kapitalas sumažinamas:
 
 
 
-3) mažėjant pagrindinio kapitalo sudėtinių dalių vertėms. 
+3) mažėjant pagrindinio kapitalo sudėtinių dalių vertėms;
+
+
+
+
+4) perkainojant turtą (jei jis sumažėjo). 
+Papildyta straipsnio punktu:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
  
 
 
@@ -562,7 +604,9 @@ Bendrovės narių susirinkimo nutarime dėl pelno paskirstymo turi būti nurodyt
 
 
 
-2. Metiniai atskaitymai į rezervinio kapitalo fondą sudarome mažiau kaip 5 procentus balansinio pelno dalies. Atskaitymai į šį fondą daromi tol, kol rezervinis kapitalas sudarys 25 procentus pagrindinio kapitalo vertės. 
+2. Metiniai atskaitymai į rezervinio kapitalo fondą sudaro ne mažiau kaip 2 procentus pelno dalies. Atskaitymai į šį fondą daromi tol, kol rezervinis kapitalas sudarys ne mažiau kaip 10 procentų pagrindinio kapitalo vertės.
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
  
 
 
@@ -628,8 +672,10 @@ BENDROVĖS NARIŲ TEISĖS IR PAREIGOS
 
 2. Bendrovės narys savo pajų ar jo dalį pirkimo-pardavimo, dovanojimo, paveldėjimo ir kitais būdais gali perleisti kitam bendrovės nariui arba trečiajam asmeniui šio įstatymo ir bendrovės įstatuose nustatyta tvarka. 
 Pajaus ar jo dalies (pinigais) perleidimo kitam bendrovės nariui arba trečiajam asmeniui sutartis leidžiama tvirtinti apylinkės (valsčiaus) viršaičiui. Mokestis už tokių sutarčių tvirtinimą – 0,5 procento perleidžiamo pajaus vertės.
+Įsteigus bendrovę, asmuo, paveldėjęs, pirkęs, dovanojimo ar kitokiu būdu įsigijęs bendrovės nario pajų ar jo dalį, bendrovės nariu tampa tik tada, kai šį asmenį į bendrovę priima bendrovės narių susirinkimas. Jei susirinkimas pajų įsigijusio asmens į bendrovę nepriima, su šiuo asmeniu atsiskaitoma kaip su išstojusiu iš bendrovės nariu šiame įstatyme ir bendrovės įstatuose nustatyta tvarka ir terminais.
 Straipsnio dalies pakeitimai:
 Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
  
 
 
@@ -698,21 +744,35 @@ Nutarimai priimami paprasta balsų dauguma, jeigu šiame įstatyme ar bendrovės
 
 
 3. Narys visais atvejais turi teisę gauti, o bendrovė privalo išmokėti pinigais ar natūra jam priklausantį pajų. Išstodamas iš bendrovės, narys turi teisę susigrąžinti nekilnojamąjį turtą, įskaitant ir žemę. Nariui, pareiškusiam norą išstoti iš bendrovės ir steigiančiam ūkininko ūkį, jo pageidavimu, pajus (pirmiausia nario materialinis įnašas) Lietuvos Respublikos Vyriausybės nustatyta tvarka grąžinamas natūra. Kitas nario išstojimo iš bendrovės ir atsiskaitymo sąlygas bei terminus nustato bendrovės įstatai.
-Išstojantis iš bendrovės ir steigiantis ūkininko ūkį narys arba narių grupė, steigianti kitą žemės ūkio įmonę, turi teisę gauti iš bendrovės natūra (technikos, gyvulių, apyvartinio ar kito turto) arba pinigais turto dalį, proporcingą jo pajaus dydžiui.
+Išstojantis iš bendrovės ir steigiantis ūkininko ūkį narys arba narių grupė, steigianti kitą žemės ūkio įmonę, turi teisę gauti iš bendrovės turto natūra (technikos, gyvulių, apyvartinio ir kito turto proporcingai jų pajaus dydžiui ir bendrovės turto elementų vertės struktūrai) arba pinigais bendrovės įstatuose nustatyta tvarka ir terminais.
 Straipsnio dalies pakeitimai:
 Nr. I-2523, 1992-04-23, Lietuvos aidas, 1992, Nr. 82-0 (1992-04-29); Žin., 1992, Nr. 14-386 (1992-05-20), i. k. 0921010ISTA00I-2523
 Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
  
 
 
 
 
-4. Narys, pažeidžiantis šiame įstatyme ir bendrovės įstatuose nustatytas pareigas, susirinkimo nutarimu gali būti iš bendrovės pašalintas. Nutarimas dėl pašalinimo gali būti skundžiamas teismui. 
+4. Tais atvejais, kai bendrovės narys arba jo šeimos narys susigrąžina jam nuosavybės teise priklausančią žemę (daugiau kaip 3 ha) arba kai bendrovės narys išsinuomoja žemę ir steigia ūkininko ūkį, arba šią žemę parduoda, padovanoja, išnuomoja arba kitokiu būdu perleidžia savo šeimos nariams ar kitiems asmenims, atsisakydamas ją išnuomoti bendrovei, sprendimą dėl tokio bendrovės nario tolesnės narystės bendrovėje priima artimiausias bendrovės narių susirinkimas. 
+Papildyta straipsnio dalimi:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
 
-5. Pašalintam asmeniui turtas grąžinamas ta pačia tvarka ir terminais, kaip ir išstojusiam iš bendrovės. 
+5. Narys, pažeidžiantis šiame įstatyme ir bendrovės įstatuose nustatytas pareigas, susirinkimo nutarimu gali būti iš bendrovės pašalintas. Nutarimas dėl pašalinimo gali būti skundžiamas teismui. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
+
+
+
+
+6. Pašalintam asmeniui turtas grąžinamas ta pačia tvarka ir terminais, kaip ir išstojusiam iš bendrovės. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
  
 
 
@@ -735,7 +795,9 @@ Bendrovės valdymo organai yra narių susirinkimas ir valdyba (administracija).
 
 
 
-Narių susirinkimui nutarus, bendrovės valdyba gali būti nesudaroma. Jos funkcijas vykdo narių susirinkimas bei administracijos vadovas. 
+Narių susirinkimui nutarus, bendrovės valdyba gali būti nesudaroma. Jos funkcijas vykdo narių susirinkimas bei administracijos vadovas (pirmininkas, direktorius). 
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
  
 
 
@@ -759,7 +821,10 @@ Narių susirinkimui nutarus, bendrovės valdyba gali būti nesudaroma. Jos funkc
 
 
 
-2) priimti naujus bendrovės pajininkus, šalinti juos iš bendrovės; 
+2) priimti naujus bendrovės narius, šalinti juos iš bendrovės;
+Straipsnio punkto pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
@@ -784,7 +849,10 @@ Narių susirinkimui nutarus, bendrovės valdyba gali būti nesudaroma. Jos funkc
 
 
 
-7) tvirtinti nepiniginių pajinių įnašų įvertinimą; 
+7) neteko galios nuo 1994-01-05; 
+Straipsnio punkto pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
@@ -806,8 +874,10 @@ Narių susirinkimui nutarus, bendrovės valdyba gali būti nesudaroma. Jos funkc
 
 
 
-5. Susirinkimas yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė bendrovės narių. Sprendimai priimami paprasta balsų dauguma. 
-Bendrovės įstatų priėmimui ir pakeitimui, bendrovės sujungimui ar likvidavimui būtinas 2/3 narių dalyvavimas. Sprendimai priimami 2/3 balsų dauguma. 
+5. Susirinkimas yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė bendrovės narių. Sprendimai priimami paprasta balsų dauguma. 2/3 balsų dauguma sprendimas priimamas dėl bendrovės sujungimo, reorganizavimo ar likvidavimo.
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
@@ -840,12 +910,18 @@ Bendrovės įstatų priėmimui ir pakeitimui, bendrovės sujungimui ar likvidavi
 
 
 1. Bendrovės veiklai vadovauja valdyba, renkama iš neporinio bendrovės narių skaičiaus. 
-Valdybos narius ir jos pirmininką 2 metams renka ir, esant reikalui, atšaukia narių susirinkimas slaptu balsavimu. 
+Valdybos narius ir jos pirmininką ne ilgesniam kaip 4 metų laikotarpiui renka ir, esant reikalui, atšaukia narių susirinkimas šio įstatymo 22 straipsnio šeštojoje dalyje nurodyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
 
-2. Valdybos nesudarant, narių susirinkimas skiria iš bendrovės narių arba samdo administracijos vadovą (administratorių). 
+2. Valdybos nesudarant, narių susirinkimas skiria iš bendrovės narių arba samdo administracijos vadovą (administratorių). Administracijos vadovas skiriamas tokia tvarka kaip ir valdybos pirmininkas.
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
@@ -884,7 +960,10 @@ Bendrovė savarankiškai veda apskaitą Lietuvos Respublikos įstatymų nustatyt
 
 
 
-2. Revizijos komisija (revizorius) renkama narių susirinkime 2 metams. 
+2. Revizijos komisija (revizorius) renkama narių susirinkime ne ilgesniam kaip 4 metų laikotarpiui.
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
@@ -1059,7 +1138,10 @@ Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA00
 32 straipsnis. Bendrovės likvidavimo tvarka 
 
 
-1. Apie bendrovės likvidavimą likvidatoriai paskelbia viešai spaudoje du kartus su mėnesio pertrauka ir praneša kiekvienam pajininkui. Kreditorių reikalavimai ir pretenzijos priimami 6 mėnesius nuo likvidavimo antrojo paskelbimo dienos. Šiam terminui pasibaigus, savo pretenzijų nepareiškusieji kreditoriai praranda teisę reikalauti, kad būtų pakeistas priimtas bendrovės nuosavybės paskirstymo planas. 
+1. Apie bendrovės likvidavimą likvidatoriai paskelbia viešai spaudoje du kartus su mėnesio pertrauka ir praneša kiekvienam pajininkui. Apie bendrovės likvidavimą likvidatoriai paskelbia viešai spaudoje du kartus su 15 dienų pertrauka ir praneša kiekvienam pajininkui raštu. Kreditorių reikalavimai ir pretenzijos priimami 3 mėnesius nuo likvidavimo antrojo paskelbimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+ 
 
 
 
@@ -1165,3 +1247,8 @@ Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papild
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
 Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-352, 1993-12-23, Žin., 1994, Nr. 1-1 (1994-01-05), i. k. 0931010ISTA000I-352
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
