@@ -14,7 +14,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CEA1026F3BBB"
 # Lietuvos Respublikos specialios paskirties akcinės bendrovės "Lietuvos energija" reorganizavimo bei šilumos ūkio ir jo valdymo perdavimo savivaldybėms įstatymas
 
 Redagavo:
-Ramunė Lūžaitė (1998.07.22)
+Ramunė Lūžaitė (1998.12.02)
  
 Įstatymas
 paskelbtas: Žin., 1997, Nr. 33-814
@@ -44,8 +44,17 @@ SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS “LIETUVOS ENERGIJA” REORGANIZAVIMO
 ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATYMO PAPILDYMO 4(1)
 STRAIPSNIU ĮSTATYMAS
  
-*** Pabaiga ***
+3.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. VIII-930, 98.11.17,
+Žin., 1998, Nr.105-2901 (98.12.02)
+LIETUVOS RESPUBLIKOS
+SPECIALIOS PASKIRTIES AKCINĖS BENDROVĖS “LIETUVOS ENERGIJA” REORGANIZAVIMO BEI
+ŠILUMOS ŪKIO IR JO VALDYMO PERDAVIMO SAVIVALDYBĖMS ĮSTATYMO 5 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
+*** Pabaiga ***
  
 LIETUVOS RESPUBLIKOS
 SPECIALIOS
@@ -173,28 +182,19 @@ Nr. VIII-835, 98.07.02,
 1. Lietuvos Respublikos šilumos ūkio techninę
 politiką ir jo plėtros pagrindines kryptis rengia ir koordinuoja Ūkio bei
 Valdymo reformų ir savivaldybių reikalų ministerijos.
-2. Atskirose savivaldybėse įsteigtų specialios
-paskirties akcinių bendrovių tiekiamos šilumos energijos ir karšto vandens
-kainas nustato savivaldybės, o naujai įsteigtų regioninių specialios paskirties
-akcinių bendrovių tiekiamos šilumos energijos ir karšto vandens kainos
-nustatomos vadovaujantis Energetikos įstatymu. Naujos šilumos energijos ir
-karšto vandens kainos turi būti nustatytos iki 1997 m. liepos 1 d. 1997-1998
-metų šildymo sezonui kiekvienoje naujai įsteigtoje šilumos tiekimo specialios
-paskirties akcinėje bendrovėje nustatoma viena regioninė šilumos energijos
-kaina.
-3. Šilumos energijos kainų kompensavimo mažas
+2. Šilumos energijos kainų kompensavimo mažas
 pajamas turinčioms šeimoms klausimus sprendžia savivaldybės kartu su
 Vyriausybe.
-4. Nuostolių, kurie susidarys specialios paskirties
+3. Nuostolių, kurie susidarys specialios paskirties
 akcinei bendrovei “Lietuvos energija” realizuojant šilumos energiją
 nustatytomis lengvatinėmis kainomis nuo 1996 m. spalio 1 d. iki šilumos ūkio ir
 jo valdymo funkcijų perdavimo savivaldybėms, padengimo klausimus sprendžia
 Vyriausybė kartu su specialios paskirties akcine bendrove “Lietuvos energija”.
-5. Vadovaudamasi Valstybės skolos įstatymu,
+4. Vadovaudamasi Valstybės skolos įstatymu,
 Vyriausybė gali teikti garantijas naujai įsteigtoms šilumos tiekimo specialios
 paskirties akcinėms bendrovėms paskoloms, naudojamoms apyvartinėms lėšoms ir
 investicijoms, gauti.
-6. 1997-1998 metų šildymo sezonui kuro pirkimą pagal
+5. 1997-1998 metų šildymo sezonui kuro pirkimą pagal
 savivaldybių ir naujai įsteigtų specialios paskirties akcinių bendrovių
 paraiškas organizuoja specialios paskirties akcinė bendrovė “Lietuvos
 energija”. Už perkamą kurą moka naujai įsteigtos specialios paskirties akcinės
@@ -203,15 +203,13 @@ bendrovės.
 Straipsnio pakeitimai:
 Nr. VIII-263, 97.06.17,
 Žin., 1997, Nr.64-1495 (97.07.04)
+Nr. VIII-930, 98.11.17,
+Žin., 1998, Nr.105-2901 (98.12.02)
+ 
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 įstatymą.
  
  
-
-
-
-
- 
-RESPUBLIKOS PREZIDENTAS                                  ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                  ALGIRDAS
 BRAZAUSKAS
