@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0475A2E41479"
 
 # Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas
 
+Suvestinė redakcija nuo 2002-11-22 iki 2004-04-23
+ 
+Įstatymas paskelbtas: Žin. 2001, Nr. 93-3257, i. k. 1011010ISTA00IX-565
+ 
 LIETUVOS RESPUBLIKOS
 SKIRTŲ REALIZUOTI NETAURIŲJŲ METALŲ LAUŽO IR ATLIEKŲ SUPIRKIMO
 Į S T A T Y M A S
@@ -82,7 +86,9 @@ Vilnius
 
 
 
-5. Supirkimo vietos adresą iš licencijos Vyriausybės nustatyta tvarka išbraukia savivaldybės meras, vadovaudamasis supirkėjo prašymu arba jeigu supirkėjas per vienerius metus toje pačioje supirkimo vietoje 2 kartus pažeidė šio Įstatymo bei kitų teisės aktų, reglamentuojančių skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimą, reikalavimus.
+5. Supirkimo vietos adresą iš licencijos Vyriausybės nustatyta tvarka išbraukia savivaldybės meras, vadovaudamasis supirkėjo prašymu arba jeigu supirkėjas pažeidė šio Įstatymo bei kitų teisės aktų, reglamentuojančių skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimą, reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1184, 2002-11-07, Žin., 2002, Nr. 112-4983 (2002-11-22), i. k. 1021010ISTA0IX-1184
  
 
 
@@ -164,3 +170,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1184, 2002-11-07, Žin., 2002, Nr. 112-4983 (2002-11-22), i. k. 1021010ISTA0IX-1184
+Lietuvos Respublikos skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo įstatymo 3 straipsnio pakeitimo įstatymas
