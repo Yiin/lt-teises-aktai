@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A039F278F253"
 
 # Lietuvos Respublikos ūkinių gyvūnų veislininkystės įstatymas
 
-Suvestinė redakcija nuo 1998-12-16 iki 2000-07-25
+Suvestinė redakcija nuo 2000-07-26 iki 2018-10-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 14-226, i. k. 0941010ISTA000I-384
  
@@ -404,7 +404,9 @@ Veisliniai gyvuliai ir hibridai tolesniam veisimui gali būti siūlomi, jeigu ji
 
 
 
-2. Veislinių gyvulių bei hibridų, sėklinimo centrų, reproduktorių, spermos, embrionų ir kiaušialąsčių veterinarinius reikalavimus nustato Valstybinė veterinarijos tarnyba.
+2. Veislinių gyvulių bei hibridų, sėklinimo centrų, reproduktorių, spermos, embrionų ir kiaušialąsčių veterinarinius reikalavimus nustato Valstybinė maisto ir veterinarijos tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1795, 2000-07-04, Žin., 2000, Nr. 61-1806 (2000-07-26), i. k. 1001010ISTAIII-1795
  
 
 
@@ -544,7 +546,9 @@ GYVULIŲ SĖKLINIMAS IR KERGIMAS
 
 
 
-2. Sėklinimo centrų, kergimo punktų ir sėklintojų veiklos veterinarinius reikalavimus nustato Valstybinė veterinarijos tarnyba.
+2. Sėklinimo centrų, kergimo punktų ir sėklintojų veiklos veterinarinius reikalavimus nustato Valstybinė maisto ir veterinarijos tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1795, 2000-07-04, Žin., 2000, Nr. 61-1806 (2000-07-26), i. k. 1001010ISTAIII-1795
  
 
 
@@ -603,7 +607,9 @@ EMBRIONŲ PERSODINIMAS
 
 
 
-2. Embrionų persodinimo veterinarinius reikalavimus nustato Valstybinė veterinarijos tarnyba.
+2. Embrionų persodinimo veterinarinius reikalavimus nustato Valstybinė maisto ir veterinarijos tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1795, 2000-07-04, Žin., 2000, Nr. 61-1806 (2000-07-26), i. k. 1001010ISTAIII-1795
  
 
 
@@ -805,7 +811,9 @@ Kiekvienas gyvulys, kuris pagal kilmę bei produktyvumą atitinka nustatytus rei
 
 
 
-2. Veterinarijos reikalavimus veislininkystės institucijoms nustato Valstybinė veterinarijos tarnyba.
+2. Veterinarijos reikalavimus veislininkystės institucijoms nustato Valstybinė maisto ir veterinarijos tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1795, 2000-07-04, Žin., 2000, Nr. 61-1806 (2000-07-26), i. k. 1001010ISTAIII-1795
  
 
 
@@ -844,6 +852,7 @@ Leidimai, išduoti vadovaujantis 1994 m. vasario 8 d. Gyvulių veislininkystės 
 
 
  
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
@@ -867,3 +876,8 @@ Lietuvos Respublikos gyvulių veislininkystės įstatymo 5, 6, 8 ir 10 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-934, 1998-11-24, Žin., 1998, Nr. 110-3023 (1998-12-16), i. k. 0981010ISTAVIII-934
 Lietuvos Respublikos gyvulių veislininkystės įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1795, 2000-07-04, Žin., 2000, Nr. 61-1806 (2000-07-26), i. k. 1001010ISTAIII-1795
+Lietuvos Respublikos gyvulių veislininkystės įstatymo 9, 12, 14, 19 straipsnių pakeitimo įstatymas
