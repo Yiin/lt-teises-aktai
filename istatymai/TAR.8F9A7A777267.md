@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8F9A7A777267"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
-Ramunė Lūžaitė (1998.04.30)
+Ramunė Lūžaitė (1998.11.26)
  
 Įstatymas
 paskelbtas: Žin., 1995, Nr.32-743
@@ -60,6 +60,14 @@ LIETUVOS
 RESPUBLIKOS ENERGETIKOS ĮSTATYMO 1, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15 IR 17
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+5.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-919,
+98.11.10, Žin., 1998, Nr.103-2837 (98.11.25)
+LIETUVOS RESPUBLIKOS
+ENERGETIKOS ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -92,11 +100,11 @@ gamtos ištekliai, kurie gali būti tiesiogiai naudojami kurui (skalūnai, angly
 durpės, biomasė, degiosios dujos) arba energijai gaminti (branduolinis kuras,
 nafta, hidroenergija, saulės, vėjo ar geoterminė energija);
 atsinaujinantys energijos ištekliai - tai
-savaime atsikuriantys ar atkuriami gamtos ištekliai: hidroenergetika, mediena,
-biomasė, kurie gali būti panaudoti energetikos tikslams; 
+saulės energija, vėjo energija, vandens energija, geoterminė energija, biomasės
+energija;
 atliekiniai energijos ištekliai - bet kokio
-technologinio proceso metu gaunama energija transformuojant pirminę energiją
-arba kitą energiją, kuri nepanaudojama tam technologiniam procesui;
+technologinio proceso metu gaunama energija transformuojant pirminę energiją arba
+kitą energiją, kuri nepanaudojama tam technologiniam procesui;
 energetikos efektyvumas - tai visų energijos
 rūšių gamyba ir naudojimas pažangiausiais būdais;
 energetikos įmonė - ekonomiškai ir
@@ -121,6 +129,8 @@ Nr.
 VIII-433, 97.10.07, Žin., 1997, Nr.96-2425 (97.10.24)
 Nr.
 VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
+Nr. VIII-919,
+98.11.10, Žin., 1998, Nr.103-2837 (98.11.25)
  
      2
 straipsnis. Energetikos įstatymo paskirtis
@@ -129,8 +139,8 @@ straipsnis. Energetikos įstatymo paskirtis
 įstatymas nusako bendrąsias energetikos veiklos  nuostatas, energetikos 
 plėtojimo, funkcionavimo  ir valdymo  pagrindus. Atskirų energetikos sektorių,
 valstybės, savivaldybių  ir privačių įmonių, energijos gamintojų, tiekėjų ir
-vartotojų  veiklą, jų teisinius ir ekonominius santykius, jeigu šių santykių
-objektas yra energija ar energijos ištekliai, reglamentuoja kiti įstatymai ir
+vartotojų  veiklą, jų teisinius ir ekonominius santykius, jeigu šių santykių objektas
+yra energija ar energijos ištekliai, reglamentuoja kiti įstatymai ir
 poįstatyminiai aktai.
 
      3
@@ -150,8 +160,8 @@ patikimo apsirūpinimo energijos ištekliais siekimas ir garantavimas naudojant
 iš  vienos  valstybės, atsižvelgiant į demonopolizavimo ir decentralizavimo
 būtinumą;
      5)
-gamintojų ir vartotojų skatinimas efektyviai naudoti vietinius, atsinaujinančius
-ir atliekinius energijos išteklius;
+gamintojų ir vartotojų skatinimas efektyviai naudoti vietinius,
+atsinaujinančius ir atliekinius energijos išteklius;
      6)
 patikima,  kokybiška ir  kiek įmanoma  mažiausiomis išlaidomis elektros,
 šilumos ir kuro gamyba bei tiekimas iš energetikos sektorių;
@@ -178,8 +188,8 @@ straipsnis. Pagrindinės energijos išteklių naudojimo nuostatos
 išteklių ir energijos naudojimo tvarką tvirtina Lietuvos Respublikos Vyriausybė
 arba jos įgaliota institucija.
      Energijos
-išteklių gavėjų ir energijos gamintojų, vartotojų ir tiekėjų tarpusavio
-santykiai grindžiami sutartimis.
+išteklių gavėjų ir energijos gamintojų, vartotojų ir tiekėjų tarpusavio santykiai
+grindžiami sutartimis.
      Energijos
 išteklių gavyba ir energijos gamyba bei naudojimas yra valstybinės priežiūros
 objektas.
@@ -215,9 +225,9 @@ straipsnis. Energijos taupymo fondas
 būtų efektyviai įgyvendinamos energijos išteklių gavybos ir energijos gamybos
 bei naudojimo priemonės, sudaromas energijos taupymo fondas.
     Fondo
-lėšos naudojamos energijos taupymo ir efektyvaus naudojimo programoms finansuoti,
-vietinių, atsinaujinančių ir atliekinių energijos išteklių naudojimo
-priemonėms diegti, eksploatuoti ir plėtoti.
+lėšos naudojamos energijos taupymo ir efektyvaus naudojimo programoms
+finansuoti, vietinių, atsinaujinančių ir atliekinių energijos išteklių
+naudojimo priemonėms diegti, eksploatuoti ir plėtoti.
 Pradinis fondo įnašas formuojamas Vyriausybės
 nustatyta tvarka. Fondo nuostatus tvirtina Vyriausybė arba jos įgaliota
 institucija.
@@ -320,9 +330,9 @@ tiekimo patikimumui didinti energetikos įmonėse sudaromos ūkinės kuro atsarg
 Jos privalo būti ne mažesnės už tą kuro kiekį, kuris reikalingas 2 mėnesių
 energijos poreikiams tenkinti.
      Kuro valstybinių atsargų sudarymo,
-saugojimo, naudojimo ir jo apskaitos tvarką nustato Lietuvos Respublikos
-Vyriausybė arba jos įgaliota institucija. Už kuro valstybinių atsargų
-sudarymą ir naudojimą atsako Ūkio ministerija.
+saugojimo, naudojimo ir jo apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė
+arba jos įgaliota institucija. Už kuro valstybinių atsargų sudarymą ir
+naudojimą atsako Ūkio ministerija.
      Lietuvos 
 Respublikos  Vyriausybė  skiria  lėšų  kuro valstybinėms atsargoms sudaryti ir
 saugoti.
@@ -465,8 +475,8 @@ energijos, centralizuotos šilumos ir karšto vandens bei gamtinių dujų kainos
 bei vykdomos taupymo programos, taip pat turi teisę tikrinti kuro ir energijos
 kokybę, jos atitikimą standartams, kontroliuoti prekybą energetinėmis
 žaliavomis ir energijos produktais. Savo išvadas ir pasiūlymus Komisija teikia
-Seimui, Vyriausybei, o jeigu nustatė piktnaudžiavimą - prokuratūrai. Komisija ne
-rečiau kaip kartą per metus atsiskaito Seimui.
+Seimui, Vyriausybei, o jeigu nustatė piktnaudžiavimą - prokuratūrai. Komisija
+ne rečiau kaip kartą per metus atsiskaito Seimui.
 Vyriausybės ar savivaldybės tarybos sprendimu
 už perkamą kurą, elektros ir šilumos energiją, karštą vandenį bei gamtines
 dujas atskiroms vartotojų grupėms gali būti išmokamos kompensacijos iš
@@ -534,10 +544,10 @@ Respublikoje veikia šie energetikos sektoriai: elektros energijos, šilumos,
 dujų, naftos ir jos produktų.
      Elektrinės,
 dirbančios bendroje technologinėje energetikos sistemoje, veikia  bendru darbo
-režimu ir privalo paklusti operatyviniam dispečeriniam valdymui. Šie reikalavimai
-privalomi remonto ir  statybos-montavimo bei  kitoms  įmonėms,  kurių
-pagrindinė funkcija yra palaikyti ir užtikrinti normalų elektros energetikos
-sistemos darbą.
+režimu ir privalo paklusti operatyviniam dispečeriniam valdymui. Šie
+reikalavimai privalomi remonto ir  statybos-montavimo bei  kitoms  įmonėms, 
+kurių pagrindinė funkcija yra palaikyti ir užtikrinti normalų elektros
+energetikos sistemos darbą.
      Energetikos
 sistema gali būti sujungta su užsienio šalių elektros energetikos  sistemomis
 darbui  lygiagrečiu  režimu sutartiniais pagrindais ir paklūsta bendram
@@ -552,10 +562,9 @@ pagal tarpvalstybinėse sutartyse reglamentuotas funkcijas.
 straipsnis. Energetikos darbuotojų rengimas ir atestavimas
  
      Vadovaujantys 
-energetikos   įmonių  darbuotojai  ir specialistai, kurie atlieka
-technologinius energetikos darbus, privalo turėti specialų pasirengimą.
-Energetikos įmonės rengia ir lavina personalą šių įmonių remiamose mokymo
-įstaigose.
+energetikos   įmonių  darbuotojai  ir specialistai, kurie atlieka technologinius
+energetikos darbus, privalo turėti specialų pasirengimą. Energetikos įmonės
+rengia ir lavina personalą šių įmonių remiamose mokymo įstaigose.
      Energetikos
 įmonių personalas, nurodytas šio straipsnio pirmojoje dalyje, privalo būti
 periodiškai atestuojamas.
@@ -605,8 +614,8 @@ straipsnis. Atsakomybė už Energetikos įstatymo pažeidimus
 ir  fiziniai asmenys,  pažeidę šio įstatymo reikalavimus, traukiami atsakomybėn
 pagal Lietuvos Respublikos įstatymus.
 
-  
-                   VII skirsnis. TARPTAUTINĖ VEIKLA
+          
+           VII skirsnis. TARPTAUTINĖ VEIKLA
 
      22
 straipsnis. Tarptautinė veikla
@@ -615,9 +624,9 @@ Tarptautinė veikla energetikos srityje
 grindžiama Lietuvos Respublikos interesais.
 Energetikos sistemų (įmonių), įstaigų ir
 organizacijų tarptautinę veiklą koordinuoja Ūkio ministerija.
-Ūkio ministerija nustatyta tvarka teikia
-pasiūlymus Lietuvos Respublikos Vyriausybei dėl dalyvavimo tarptautinių
-energetikos organizacijų darbe.
+Ūkio ministerija nustatyta tvarka teikia pasiūlymus
+Lietuvos Respublikos Vyriausybei dėl dalyvavimo tarptautinių energetikos
+organizacijų darbe.
  
 Straipsnio
 pakeitimai:
