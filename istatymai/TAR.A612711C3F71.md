@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A612711C3F71"
 
 # Lietuvos Respublikos tarnybinio paso įstatymas
 
+Suvestinė redakcija nuo 2003-01-01 iki 2003-04-23
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 7-178, i. k. 1001010ISTAIII-1527
+ 
+ 
 LIETUVOS RESPUBLIKOS TARNYBINIO PASO Į S T A T Y M A S
  
 2000 m. sausio 12 d. Nr. VIII-1527
@@ -122,7 +127,10 @@ Lietuvos Respublikos tarnybinis pasas - tai Lietuvos Respublikos vidaus reikalų
 4 straipsnis. Tarnybinio paso įrašai
 
 
-1. Tarnybinio paso įrašai turi atitikti Lietuvos Respublikos piliečio paso nuostatų 7, 8, 9 ir 10 straipsnių reikalavimus.
+1. Tarnybinis pasas turi 32 puslapius. Duomenų rūšių pavadinimai spausdinami lietuvių, anglų ir prancūzų kalbomis. Duomenys tarnybiniame pase įrašomi lietuviškais rašmenimis. Tarnybiniame pase įrašomi piliečio vardas (-ai), pavardė, gimimo data, gimimo vieta pagal galiojantį administracinį teritorijos suskirstymą ir asmens kodas. Tarnybiniame pase turi būti piliečio parašas.
+Straipsnio dalies pakeitimai:
+Nr. IX-1251, 2002-12-10, Žin., 2002, Nr. 123-5538 (2002-12-24), i. k. 1021010ISTA0IX-1251
+ 
 
 
 
@@ -177,3 +185,13 @@ Lietuvos Respublikos tarnybinio paso pavyzdį tvirtina Lietuvos Respublikos Vyri
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1251, 2002-12-10, Žin., 2002, Nr. 123-5538 (2002-12-24), i. k. 1021010ISTA0IX-1251
+Lietuvos Respublikos tarnybinio paso įstatymo 4 straipsnio pakeitimo įstatymas
