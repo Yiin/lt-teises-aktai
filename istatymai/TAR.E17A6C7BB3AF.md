@@ -124,8 +124,9 @@ klausimais
 viršininkas:
             1)
 įstatymų nustatyta tvarka steigia, reorganizuoja ir likviduoja apskrities
-valstybines švietimo, išskyrus aukštąsias mokyklas, įstaigas,
-kultūros, kūno kultūros ir sporto, socialinės paramos ir globos įstaigas bei
+valstybines švietimo, išskyrus aukštąsias mokyklas, įstaigas, bibliotekas,
+muziejus, teatrus, koncertines įstaigas, kultūros centrus ir kitas kultūros
+įstaigas, kūno kultūros ir sporto, socialinės paramos ir globos įstaigas bei
 tarnybas, taip pat specialiųjų socialinių paslaugų institucijas;
             2)
 atsako už šio straipsnio 1 punkte nurodytų valstybinių įstaigų funkcionavimą ir
@@ -152,6 +153,9 @@ Nr. VIII-471,
 Nr.
 IX-1511,
 2003-04-17, Žin., 2003, Nr. 42-1915 (2003-05-01)
+Nr.
+IX-2379,
+2004-07-15, Žin., 2004, Nr. 120-4432 (2004-08-03)
  
             8
 straipsnis. Apskrities viršininko įgaliojimai sveikatos priežiūros ir
@@ -181,8 +185,8 @@ bendradarbiauja su apskrities savivaldybėmis formuojant savivaldybių
 bendruomenių sveikatos tarybas ir organizuojant jų veiklą;
             6)
 įstatymų nustatyta tvarka ir pagrindais teikia siūlymus Vyriausybei skelbti
-apskrities teritoriją ar jos dalį pavojaus ar žalos visuomenės sveikatai
-rajonu; 
+apskrities teritoriją ar jos dalį pavojaus ar žalos visuomenės sveikatai rajonu;
+
             7)
 turi kitus įstatymų nustatytus įgaliojimus sveikatos priežiūros klausimais.
 Straipsnio pakeitimai:
@@ -193,8 +197,8 @@ Nr. VIII-300,
  
 9 straipsnio pavadinimas iki 2005 m. sausio 1 d.:
 9
-straipsnis. Apskrities viršininko įgaliojimai teritorijų planavimo ir
-paminklotvarkos klausimais
+straipsnis. Apskrities viršininko įgaliojimai teritorijų planavimo ir paminklotvarkos
+klausimais
 9 straipsnio pavadinimas nuo 2005 m. sausio 1 d.:
 9 straipsnis. Apskrities viršininko įgaliojimai
 teritorijų planavimo, statybos, 
@@ -266,9 +270,9 @@ viršininkas:
 žemę, perduotą valdyti savivaldybių institucijoms;
 2) įgyvendina
 žemės reformą;
-3) įstatymų nustatyta tvarka organizuoja žemės
-servitutų nustatymą ir žemės naudojimo valstybinį reguliavimą bei žemės
-naudojimo valstybinę kontrolę;
+3) įstatymų nustatyta tvarka organizuoja žemės servitutų
+nustatymą ir žemės naudojimo valstybinį reguliavimą bei žemės naudojimo
+valstybinę kontrolę;
 4) koordinuoja,
 organizuoja ir įgyvendina regionines kaimo plėtros programas;
 5)
@@ -489,12 +493,11 @@ viršininkui. Šios įstaigos ir organizacijos privalo pranešti apskrities
 viršininkui apie savo veiklą apskrityje.
             Apskrities
 viršininkas praneša atitinkamai Lietuvos Respublikos Seimui ar Vyriausybei apie
-valstybės valdymo institucijų padalinių apskrityje veiklą ir sprendimus, jei
-jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba
-pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina
-ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar
-aukštesnioji valstybės valdymo institucija, galutinį sprendimą priima
-Vyriausybė.
+valstybės valdymo institucijų padalinių apskrityje veiklą ir sprendimus, jei jie
+neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba pažeidžia
+piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina ar
+nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar aukštesnioji
+valstybės valdymo institucija, galutinį sprendimą priima Vyriausybė.
 Straipsnio žymėjimas
 pakeistas:
 Nr. VIII-33,
@@ -536,7 +539,8 @@ viršininko administracija yra juridinis asmuo, turi antspaudą su Lietuvos
 valstybės herbu ir apskrities pavadinimu.
 Apskrities viršininko administracijos struktūrą ir jos
 nuostatus tvirtina apskrities viršininkas pagal Vyriausybės patvirtintus
-apskrities viršininko administracijos tipinę struktūrą ir jos tipinius nuostatus.
+apskrities viršininko administracijos tipinę struktūrą ir jos tipinius
+nuostatus.
 Straipsnio žymėjimas
 pakeistas:
 Nr. VIII-33,
@@ -567,7 +571,8 @@ taryba išsirenka pirmininką ir patvirtina savo nuostatus;
 vykdo kitus Lietuvos Respublikos įstatymų, Vyriausybės ir Ministro Pirmininko
 jam suteiktus įgaliojimus.
             Kai
-apskrities viršininko nėra, jo pareigas eina apskrities viršininko pavaduotojas.
+apskrities viršininko nėra, jo pareigas eina apskrities viršininko
+pavaduotojas.
 Straipsnio žymėjimas
 pakeistas:
 Nr. VIII-33,
@@ -601,7 +606,8 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
  
             21
 straipsnis. Neteko galios.
-Straipsnio žymėjimas pakeistas:
+Straipsnio žymėjimas
+pakeistas:
 Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31) 
 Straipsnio pakeitimai:
@@ -728,10 +734,10 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. IX-471,
 2001-07-12, Žin., 2001, Nr. 66-2412 (2001-08-01)
-APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO
-PAKEITIMO ĮSTATYMO IR APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO PAKEITIMO
-ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIAIS GALIOS
-ĮSTATYMAS
+APSKRITIES VALDYMO ĮSTATYMO 9
+STRAIPSNIO PAKEITIMO ĮSTATYMO IR APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO
+PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIAIS
+GALIOS ĮSTATYMAS
  
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -811,12 +817,20 @@ Nr. IX-2290,
 APSKRITIES
 VALDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+21.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-2379,
+2004-07-15, Žin., 2004, Nr. 120-4432 (2004-08-03)
+APSKRITIES
+VALDYMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2004-07-01)
+Aušra Bodin (2004-08-03)
                  
 aubodi@lrs.lt
 
