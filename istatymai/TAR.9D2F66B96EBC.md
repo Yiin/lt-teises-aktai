@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
+Suvestinė redakcija nuo 2002-11-22 iki 2003-10-07
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
+ 
+ 
 LIETUVOS RESPUBLIKOS
 AVIACIJOS
 Į S T A T Y M A S
@@ -116,7 +121,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-15. Orlaivio naudotojas – fizinis ar juridinis asmuo arba įmonė, neturinti juridinio asmens teisių, kurie pagal sutartį ar kitu teisėtu pagrindu savo vardu naudoja orlaivį. 
+15. Orlaivio naudotojas – fizinis ar juridinis asmuo, kuris pagal sutartį ar kitu teisėtu pagrindu savo vardu naudoja orlaivį.
+Straipsnio dalies pakeitimai:
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
+ 
 
 
 
@@ -322,7 +330,10 @@ Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vy
 8 straipsnis. Civilinės aviacijos objektų nuosavybė
 
 
-1. Civiliniai orlaiviai, oro uostai ir aerodromai nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybei ir fiziniams asmenims, taip pat Lietuvos Respublikoje registruotiems juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių.
+1. Civiliniai orlaiviai, oro uostai ir aerodromai nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybei, fiziniams asmenims ir Lietuvos Respublikoje registruotiems juridiniams asmenims. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
+ 
 
 
 
@@ -500,23 +511,25 @@ ORO ERDVĖ, SKRYDŽIŲ VALDYMAS IR KITOS PASLAUGOS
 
 
 
-17 straipsnis. Oro navigacijos informacijos paslaugos
+17 straipsnis. Oro navigacijos informacija
 
 
-1. Oro navigacijos informacijos paslaugas teikia CAA arba jos įgaliotas paslaugų teikėjas.
-
-
-
-
-2. Oro navigacijos informacijos paslaugų teikimo tvarką ir sąlygas nustato CAA.
+1. Oro navigacijos informaciją renka, kaupia, skelbia ir platina CAA arba jos įgaliotas juridinis asmuo.
 
 
 
 
-3. Juridiniai ir fiziniai asmenys, taip pat įmonės, neturinčios juridinio asmens teisių, turintys oro navigacijos informaciją, privalo ją nemokamai teikti CAA arba jos įgaliotam paslaugų teikėjui.
+2. Oro navigacijos informacijos rūšis, mastus bei jos skelbimo tvarką ir sąlygas nustato CAA.
+
+
+
+
+3. Juridiniai ir fiziniai asmenys, turintys oro navigacijos informaciją, privalo ją nemokamai teikti CAA arba jos įgaliotam juridiniam asmeniui. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
  
-
-
 
 
 
@@ -582,7 +595,10 @@ Lietuvos Respublikos civilinių orlaivių registro tvarkytojas yra CAA.
 1. Orlaivis registruojamas Lietuvos Respublikos civilinių orlaivių registre, jeigu:
 
 
-1) orlaivio savininkas yra Lietuvos Respublikos pilietis, juridinis asmuo, įmonė, neturinti juridinio asmens teisių, registruoti Lietuvos Respublikoje, Lietuvos valstybė arba savivaldybė;
+1) orlaivio savininkas yra Lietuvos Respublikos pilietis arba juridinis asmuo, registruotas Lietuvos Respublikoje, Lietuvos valstybė arba savivaldybė; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
+ 
 
 
 
@@ -648,10 +664,12 @@ Orlaivis gali būti laikinai įrašytas į Lietuvos Respublikos civilinių orlai
 25 straipsnis. Pranešimas apie kitoje valstybėje registruotų orlaivių naudojimą
 
 
-Tais atvejais, kai kitoje valstybėje registruotu orlaiviu pagal susitarimą naudojasi Lietuvos Respublikos pilietis, juridinis asmuo, įmonė, neturinti juridinio asmens teisių, registruoti Lietuvos Respublikoje, Lietuvos valstybė arba savivaldybė, jie privalo pranešti CAA orlaivio duomenis ir pateikti tokio susitarimo kopiją. CAA turi sudaryti Lietuvos Respublikoje naudojamų užsienio valstybių orlaivių ir jų naudotojų sąrašą. Apie visus pateiktos informacijos pasikeitimus orlaivio naudotojas turi nedelsdamas pranešti CAA.
+Tais atvejais, kai kitoje valstybėje registruotu orlaiviu pagal susitarimą naudojasi Lietuvos Respublikos pilietis arba juridinis asmuo, registruotas Lietuvos Respublikoje, Lietuvos valstybė arba savivaldybė, jie privalo pranešti CAA orlaivio duomenis ir pateikti tokio susitarimo kopiją. CAA turi sudaryti Lietuvos Respublikoje naudojamų užsienio valstybių orlaivių ir jų naudotojų sąrašą. Apie visus pateiktos informacijos pasikeitimus orlaivio naudotojas turi nedelsdamas pranešti CAA. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
  
-
-
 
 
 
@@ -1059,10 +1077,12 @@ CIVILINĖS AVIACIJOS SPECIALISTAI
 45 straipsnis. Specialistų rengimas
 
 
-Specialistus rengti, perkvalifikuoti ir kelti jų kvalifikaciją gali mokymo įstaigos, turinčios CAA patvirtintą programą.
+Specialistus rengti, perkvalifikuoti ir kelti jų kvalifikaciją gali CAA akredituotos mokymo įstaigos. Mokymo įstaigų akreditavimo sąlygas bei tvarką nustato susisiekimo ministras. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
  
-
-
 
 
 
@@ -1125,7 +1145,10 @@ CAA turi teisę visada patikrinti asmens, turinčio licenciją ar licencijos pri
 
 
 
-4) specialistas nuteistas už padarytą tyčinį nusikaltimą;
+4) specialistas nuteistas už padarytą tyčinę nusikalstamą veiką; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
+ 
 
 
 
@@ -1281,12 +1304,18 @@ Orlaivio vadas turi teisę:
 
 
 
-4) imtis priemonių teisės pažeidimui ar nusikaltimui tirti, jeigu jis padarytas orlaivyje;
+4) imtis priemonių teisės pažeidimui ar nusikalstamai veikai tirti, jeigu jie padaryti orlaivyje; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
+ 
 
 
 
 
-5) sulaikyti nusikaltimo padarymu įtariamą asmenį ir, orlaiviui nutūpus, perduoti jį atitinkamoms teisėsaugos institucijoms;
+5) sulaikyti nusikalstamos veikos padarymu įtariamą asmenį ir, orlaiviui nutūpus, perduoti jį atitinkamoms teisėsaugos institucijoms; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
+ 
 
 
 
@@ -1667,18 +1696,10 @@ ORO SUSISIEKIMAS
 
 
 
-69 straipsnis. Užsakomieji vežimai
-
-
-1. Keleivių, krovinių, bagažo ir pašto vežimo pagal užsakomųjų skrydžių (čarterio) sutartį sąlygas bei tvarką nustato susisiekimo ministras.
-
-
-
-
-2. Keleivių, krovinių, bagažo ir pašto vežimo pagal užsakomųjų skrydžių (čarterio) sutartį tarifai nustatomi šios sutarties šalių susitarimu.
+69 straipsnis. Neteko galios nuo 2002-11-22
+Straipsnio naikinimas:
+Nr. IX-1175, 2002-11-05, Žin. 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
  
-
-
 
 
 
@@ -1717,7 +1738,7 @@ BAIGIAMOSIOS NUOSTATOS
 72 straipsnis. Rinkliavos
 
 
-1. Fiziniai ir juridiniai asmenys, taip pat įmonės, neturinčios juridinio asmens teisių, valstybės orlaivių naudotojai už oro navigacijos paslaugas Lietuvos Respublikos oro erdvėje ir už naudojimąsi oro uostais moka paslaugos teikėjams šias rinkliavas:
+1. Fiziniai ir juridiniai asmenys, valstybės orlaivių naudotojai už oro navigacijos paslaugas Lietuvos Respublikos oro erdvėje ir už naudojimąsi oro uostais moka paslaugų teikėjams šias rinkliavas:
 
 
 1) už oro navigacijos paslaugas – oro navigacijos ir oro uosto navigacijos;
@@ -1725,9 +1746,12 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2) už naudojimąsi oro uostais – orlaivio tūpimo, išskrendančio keleivio, orlaivio stovėjimo, orlaivio saugumo ir orlaivio palydos.
+2) už naudojimąsi oro uostais – orlaivio tūpimo, išskrendančio keleivio, orlaivio stovėjimo, orlaivio saugumo ir orlaivio palydos. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
+ 
 
 
 
@@ -1808,3 +1832,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
+Lietuvos Respublikos aviacijos įstatymo 2, 8, 17, 21, 25, 45, 48, 52, 72 straipsnių pakeitimo ir 69 straipsnio pripažinimo netekusiu galios įstatymas
