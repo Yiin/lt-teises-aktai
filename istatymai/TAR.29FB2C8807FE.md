@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 1997-12-24 iki 1998-03-17
+Suvestinė redakcija nuo 1998-03-18 iki 1999-07-08
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -86,7 +86,15 @@ Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA
 
 
 
-3) administracijos, kurios darbuotojus skiria steigėjas, pareigybes.
+3) administracijos, kurios darbuotojus skiria steigėjas, pareigybes;
+
+
+
+
+4) tantjemoms skiriamas lėšas.
+Papildyta straipsnio punktu:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+ 
 
 
 
@@ -344,10 +352,12 @@ III SKIRSNIS
 9 straipsnis. Įmonės valdymo organai
 
 
-Būtinas įmonės valdymo organas yra administracija. Steigėjo sprendimu įmonėje gali būti sudaroma valdyba. Administracijos vadovo sprendimu įmonėje gali būti sudaromos nuolat arba tam tikrą laikotarpį veikiančios specializuotos tarybos, turinčios teisę priimti rekomendacinio pobūdžio nutarimus.
+Būtinas valdymo organas yra administracija. Steigėjo sprendimu įmonėje gali būti sudaroma valdyba.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
  
-
-
 
 
 
@@ -375,7 +385,10 @@ Būtinas įmonės valdymo organas yra administracija. Steigėjo sprendimu įmon�
 
 
 
-5. Darbo sutartis su administracijos vadovu, vyriausiuoju finansininku (buhalteriu) ir darbuotojais kitų pareigybių, į kurias skirti darbuotojus steigėjo teisė nustatyta įmonės įstatuose, sudaro steigėjas įmonės vardu Lietuvos Respublikos darbo sutarties įstatymo nustatyta tvarka.
+5. Darbo sutartis su administracijos vadovu, vyriausiuoju finansininku (buhalteriu) ir darbuotojais kitų pareigybių, į kurias skirti darbuotojus steigėjo teisė nustatyta įmonės įstatuose, sudaro steigėjas įmonės vardu Lietuvos Respublikos darbo sutarties įstatymo nustatyta tvarka. Jei įmonė dirba nuostolingai, steigėjas privalo svarstyti, ar administracijos vadovas yra tinkamas toliau eiti pareigas.
+Straipsnio dalies pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+ 
 
 
 
@@ -395,7 +408,10 @@ Būtinas įmonės valdymo organas yra administracija. Steigėjo sprendimu įmon�
 
 
 
-9. Administracijos vadovas, vadovaudamasis įmonės įstatais ir darbo reglamentu, turi teisę sudaryti įmonės sandorius. Įmonės įstatuose ir darbo reglamente gali būti nustatytos veiklos sritys, kuriose savarankiškai veikti ir sudaryti įmonės sandorius turi teisę kiti įgalioti administracijos darbuotojai. Administracijos vadovas atstovauja įmonei valstybės valdžios ir valdymo institucijose, teisme, santykiuose su kitais asmenimis.
+9. Administracijos vadovas, vadovaudamasis įmonės įstatais ir darbo reglamentu, turi teisę sudaryti įmonės sandorius. Įmonės įstatuose gali būti nurodytos rūšys sutarčių, kurioms sudaryti administracijos vadovas turi gauti valdybos pritarimą, ir nustatytos veiklos sritys, kuriose sudaryti įmonės sandorius be atskiro administracijos vadovo įgaliojimo turi teisę įstatuose įvardytų pareigybių administracijos darbuotojai. Administracijos vadovas atstovauja įmonei valstybės valdžios ir valdymo institucijose, teisme, santykiuose su kitais asmenimis.
+Straipsnio dalies pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+ 
 
 
 
@@ -416,22 +432,33 @@ Būtinas įmonės valdymo organas yra administracija. Steigėjo sprendimu įmon�
 11 straipsnis. Valdyba
 
 
-1. Valdyba įmonėje sudaroma steigėjo sprendimu. Valdybos narių skaičius, jos pareigos, teisės, atsakomybė ir darbo apmokėjimo tvarka nustatoma įmonės įstatuose.
+1. Valdyba įmonėje sudaroma steigėjo sprendimu. Valdybos narių skaičius, jos pareigos, teisės, atsakomybė nustatoma įmonės įstatuose. Valdybos narių darbui valdyboje apmokėti steigėjo sprendimu gali būti skiriamos tantjemos iš grynojo pelno. Šios tantjemos pervedamos tai valstybės institucijai ar savivaldybei, kuri deleguoja valdininkus į įmonės valdybą. Administracijos vadovo darbas valdyboje taip pat apmokamas iš tantjemų.
+Straipsnio dalies pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+ 
 
 
 
 
-2. Valdyba yra kolegialus organas, jos veiklai vadovauja pirmininkas. Juo gali būti tik administracijos vadovas. Valdybos darbo tvarką nustato jos priimtas valdybos darbo reglamentas.
+2. Valdyba yra kolegialus organas, jos veiklai vadovauja pirmininkas. Valdybos pirmininku negali būti administracijos vadovas. Valdybos darbo tvarką nustato jos priimtas valdybos darbo reglamentas.
+Straipsnio dalies pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+ 
 
 
 
 
-3. Valdybos pirmininko teikimu valdybos narius tvirtina ir atšaukia steigėjas. Valdybos nariai skiriami ne ilgesniam kaip 4 metų laikotarpiui. Valdybos nariu gali būti tik tos įmonės darbuotojas arba steigėjo atstovas. Valdyboje gali būti tik vienas steigėjo atstovas. Valdybos nario kadencijų skaičius neribojamas. Įstatuose gali būti nustatyti papildomi reikalavimai valdybos nariams.
+3. Valdybos pirmininką bei narius skiria ir atšaukia steigėjas. Valdybos nariai skiriami ne ilgesniam kaip 4 metų laikotarpiui. Valdybos nariais gali būti tik tos įmonės administracijos vadovas ir valstybės ar savivaldybių valdininkai. Valdybos nario kadencijų skaičius neribojamas. Įstatuose gali būti nustatyti papildomi reikalavimai valdybos nariams.
+Straipsnio dalies pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+ 
 
 
 
 
-4. Valdybos narys gali atsistatydinti iš valdybos kadencijai nesibaigus, apie tai raštu įspėjęs valdybą ne vėliau kaip prieš 14 kalendorinių dienų.
+4. Valdybos narys gali atsistatydinti iš valdybos kadencijai nesibaigus, apie tai raštu įspėjęs valdybą ir steigėją ne vėliau kaip prieš 14 kalendorinių dienų. Jeigu įmonė dirba nuostolingai, steigėjas privalo svarstyti valdybos narių atšaukimo iš valdybos klausimą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
  
 
 
@@ -602,7 +629,20 @@ Nr. I-1403, 1996-06-25, Žin., 1996, Nr. 64-1508 (1996-07-05), i. k. 0961010ISTA
 16 straipsnis. Įmonės kapitalo mažinimas
 
 
-1. Valstybės įmonės įstatinis kapitalas gali būti sumažintas Lietuvos Respublikos Vyriausybės nutarimu, o savivaldybės įmonės – savivaldybės tarybos sprendimu. Lėšos, gautos sumažinus valstybės įmonės kapitalą, grąžinamos į valstybės biudžetą, o sumažinus savivaldybės įmonės kapitalą - į savivaldybės biudžetą.
+1. Valstybės įmonės įstatinis kapitalas gali būti sumažintas Lietuvos Respublikos Vyriausybės nutarimu, o savivaldybės įmonės – savivaldybės tarybos sprendimu. Įmonės įstatinis kapitalas, priėmus šioje dalyje nurodytus sprendimus, gali būti mažinamas:
+
+
+1) pervedant įmonės lėšų dalį, kuri yra nurodyta sprendime sumažinti įstatinį kapitalą, atitinkamai į valstybės arba savivaldybės biudžetą;
+
+
+
+
+2) perduodant įmonės ilgalaikio materialiojo turto dalį, kuri yra nurodyta sprendime sumažinti įstatinį kapitalą, valstybės institucijai arba savivaldybei ar valstybės arba savivaldybės įmonei.
+
+
+Straipsnio dalies pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+ 
 
 
 
@@ -706,7 +746,10 @@ V SKIRSNIS
 
 
 
-3. Likusi pelno dalis steigėjo nustatytu santykiu skiriama įmonės įstatiniam kapitalui didinti ir ne mažiau kaip 25 procentai – kitoms įmonės reikmėms (premijoms, socialinėms ir kultūrinėms priemonėms ir kt. finansuoti bei rezervams sudaryti).
+3. Likusi pelno dalis steigėjo nustatytu santykiu skiriama įmonės įstatiniam kapitalui didinti ir ne mažiau kaip 25 procentai – kitoms reikmėms (premijoms, tantjemoms, socialinėms ir kultūrinėms priemonėms ir kt. finansuoti bei rezervams sudaryti).
+Straipsnio dalies pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+ 
 
 
 
@@ -777,7 +820,10 @@ VI SKIRSNIS
 4. Reorganizuoti įmonių skaidymo būdu galima:
 
 
-1) įmonę, kuri baigia veiklą, išdalijant kitoms įmonėms, kurios tęsia veiklą;
+1) įmonės, kuri baigia veiklą, turtą, jos teises ir pareigas perduodant kitoms įmonėms, kurios tęsia veiklą;
+Straipsnio punkto pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+ 
 
 
 
@@ -787,7 +833,10 @@ VI SKIRSNIS
 
 
 
-3) iš įmonės, kuri tęsia veiklą, atskiriant dalis, kurios jungiamos prie kitų įmonių arba iš kurių steigiamos naujos įmonės.
+3) neteko galios nuo 1998-03-18;
+Straipsnio punkto pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+ 
 
 
 
@@ -897,7 +946,10 @@ Kartu su reorganizavimo projektu turi būti parengtas kiekvienos po reorganizavi
 
 
 
-10. Reorganizavimo šio straipsnio trečiojoje ir ketvirtojoje dalyse nurodytais būdais projektą tvirtina reorganizuojamų ir po reorganizavimo veiksiančių įmonių steigėjai. Reorganizavimo šio straipsnio penktojoje dalyje nurodytu būdu projektą valstybės įmonės tvirtina Lietuvos Respublikos Vyriausybė, savivaldybės įmonės – savivaldybės taryba. Reorganizavimo projektą tvirtinančios institucijos turi teisę skirti ekspertus reorganizavimo projekto ekspertizei. Ekspertai turi teisę gauti iš reorganizuojamų įmonių bet kokią su tuo susijusią informaciją.
+10. Reorganizavimo šio straipsnio trečiojoje ir ketvirtojoje dalyse nurodytais būdais projektą tvirtina reorganizuojamų ir po reorganizavimo veiksiančių įmonių steigėjai. Reorganizavimo šio straipsnio penktojoje dalyje nurodytu būdu projektą valstybės įmonės tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, savivaldybės įmonės – savivaldybės taryba. Reorganizavimo projektą tvirtinančios institucijos turi teisę Vyriausybės nustatyta tvarka skirti ekspertus reorganizavimo projekto ekspertizei. Ekspertai turi teisę gauti iš reorganizuojamų įmonių bet kokią su tuo susijusią informaciją.
+Straipsnio dalies pakeitimai:
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+ 
 
 
 
@@ -1100,3 +1152,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 ir 21 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-566, 1997-12-09, Žin., 1997, Nr. 117-3006 (1997-12-24), i. k. 0971010ISTAVIII-566
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-648, 1998-03-03, Žin., 1998, Nr. 26-671 (1998-03-18), i. k. 0981010ISTAVIII-648
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 3, 9, 10, 11, 16 , 18, 19 straipsnių pakeitimo ir papildymo įstatymas
