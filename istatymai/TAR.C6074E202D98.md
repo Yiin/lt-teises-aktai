@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 1997-07-09 iki 1999-12-21
+Suvestinė redakcija nuo 1999-12-22 iki 2000-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
  
@@ -55,7 +55,10 @@ Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas tik įsta
 3 straipsnis. Zonos teritorija
 
 
-1. Zonos teritorija užima 1053,99 ha.
+1. Zonos teritorija užima 1000 ha, o jos ribas nustato šio įstatymo 4 straipsnis. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1457, 1999-12-02, Žin., 1999, Nr. 108-3126 (1999-12-22), i. k. 0991010ISTAIII-1457
+ 
 
 
 
@@ -74,19 +77,27 @@ Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas tik įsta
 1. Nustatomos šios zonos teritorijos ribos:
 
 
-1) šiaurinė riba – magistralinis kelias A–6 Kaunas–Zarasai; sutampa su valstybinio žemės fondo (Karmėlavos gyvenvietės pietvakarinė riba), valstybės įmonės „Kauno aerouostas“ pietine riba, Jonavos rajono žemių ribomis;
+1) šiaurinė riba – tiesi linija, lygiagreti Kauno oro uosto kilimo-tūpimo tako ašiai septynių šimtų penkiasdešimties metrų atstumu į pietus nuo šios ašies linijos;
 
 
 
 
-2) rytinė riba – geležinkelio ruožas Gaižiūnai–Palemonas;
+2) rytinė riba – geležinkelio ruožas Gaižiūnai – Palemonas;
 
 
 
 
-3) pietinė ir vakarinė riba – valstybinio vandens fondo upelio Zversva vaga bei šiame upelyje įrengto valstybinio vandens fondo tvenkinio dešinysis krantas.
+3) pietinė riba – Karmėlavos miško pietrytinė riba iki rekreacinį (54 ir 57 kvartalai) ir ūkinį (440 ir 58 kvartalai) mišką atskiriančios kvartalo linijos, ši linija šiaurės vakarų kryptimi iki miško šiaurinės ribos, melioracijos griovys iki Karmėlavos miško 52 kvartalo pietvakarinės ribos, pietvakarinė šio kvartalo riba (lauko kelias) šiaurės vakarų kryptimi šimto penkiasdešimties metrų linija, aplenkiant Sergeičikų I ir Sergeičikų II gyvenvietes iš šiaurės ir vakarų pusių sanitariniu atstumu nuo kraštinių gyvenvietės sklypų ribų, šimto dvidešimties metrų atstumu iki Karmėlavos miško šiaurės vakarų ribos, pasukama pietvakarių kryptimi ir tiesi linija iki melioracijos griovio statmeno posūkio, melioracijos griovys link Zversvos upelio, Zversvos upelis, pasukama vakarų kryptimi penkiasdešimt metrų nepasiekus kelio Nr.1918, toliau linija eina lygiagrečiai kelio Nr.1918 vakarų kryptimi iki kelio Nr.1919, aštuoniasdešimt metrų šiaurės kryptimi keliu Nr.1918, statmenai kertamas kelias Nr.1918 ir aplenkiamas Ramučių žemės ūkio bendrovės gamybinio centro žemės sklypas iš šiaurės, vakarų ir pietų, kelias Nr.1919 pietų kryptimi iki 330/110 kV elektros linijų koridoriaus šiaurinės ribos (apsaugos zonos riba nuo kraštinio 330 kV elektros linijos laido), ši šiaurinė riba ir kertantis elektros linijų koridorių ties Davalgonių miško ir šio koridoriaus suartėjimo riba melioracijos griovys (šiaurinė Davalgonių miško riba) iki kelio A-1 Vilnius – Kaunas, magistralinis kelias A-1 Vilnius – Kaunas, išskyrus kavinės bei degalinės teritorijas;
 
 
+
+
+4) šiaurės vakarų riba – magistralinio kelio A-1 Vilnius–Kaunas dešinioji nuovaža į kelią A-6 Kaunas–Zarasai, kelias A-6 Kaunas–Zarasai, išskyrus esamos 330/110 kV transformatorinės pastotės, veterinarijos ligoninės, garažų bei sodininkų bendrijos sodų teritorijas, Ramučių gyvenvietės vakarinė ir pietinė ribos sanitariniu apsauginiu atstumu nuo kraštinių gyvenvietės sklypų ribų iki susikirtimo su keliu Nr.1918, kertamas kelias Nr.1918 statmenai ir pratęsiama tiesi linija iki Zversvos upelio, Zversvos upelis iki šiaurinės zonos ribos. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. VIII-1457, 1999-12-02, Žin., 1999, Nr. 108-3126 (1999-12-22), i. k. 0991010ISTAIII-1457
+ 
 
 
 
@@ -488,3 +499,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010ISTAVIII-334
 Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 6, 7, 8 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1457, 1999-12-02, Žin., 1999, Nr. 108-3126 (1999-12-22), i. k. 0991010ISTAIII-1457
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
