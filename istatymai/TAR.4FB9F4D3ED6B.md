@@ -42,24 +42,12 @@ statusas, veikla, likvidavimas ir reorganizavimas reglamentuojamas atitinkamais
 įstatymais.
 Šis įstatymas
 netaikomas fiziniams ir juridiniams asmenims, užsiimantiems nekomercine veikla
-(veikla, kuria nesiekiama pelno), taip pat fiziniams asmenims, kurie Lietuvos
-Respublikos Vyriausybės nustatyta tvarka įsigyja patentą ir pagal jį užsiima
-komercine-ūkine veikla bei nėra susiję darbo santykiais pagal darbo sutartį
-kaip darbdaviai su kitais asmenimis, išskyrus šio įstatymo 
-4 straipsnio antrosios dalies nuostatą, kuri taikoma ir ne pelno įmonėms.
-Nepelno įmonių steigimą, likvidavimą, reorganizavimą, veiklą reglamentuoja
-Lietuvos Respublikos civilinis kodeksas ir šių įmonių įstatai.
- 
-[3
-dalies redakcija nuo 2003 m. sausio 1 d.:
-Šis įstatymas
-netaikomas fiziniams ir juridiniams asmenims, užsiimantiems nekomercine veikla
 (veikla, kuria nesiekiama pelno), taip pat fiziniams asmenims, kurie verčiasi
 individualia veikla, kaip ji apibrėžta Lietuvos Respublikos gyventojų pajamų
 mokesčio įstatyme, išskyrus šio įstatymo 4 straipsnio antrosios dalies
 nuostatą, kuri taikoma ir ne pelno įmonėms. Ne pelno įmonių steigimą,
 likvidavimą, reorganizavimą, veiklą reglamentuoja Lietuvos Respublikos
-civilinis kodeksas ir šių įmonių įstatai.]
+civilinis kodeksas ir šių įmonių įstatai.
 Straipsnio
 pakeitimai:
 Nr.
@@ -90,7 +78,8 @@ pakeitimai:
 Nr. VIII-1465, 99.12.07, Žin., 1999,
 Nr.108-3129 (99.12.22)
  
-     3 straipsnis.Įmonininkas
+     3
+straipsnis.Įmonininkas
      Įmonininkas
 yra fizinis arba juridinis asmuo, taip pat į bendrovę (bendriją) susijungę keli
 fiziniai ar juridiniai asmenys, kurie nuosavybės teise valdo, naudoja ir
@@ -127,8 +116,9 @@ Nr. VIII-422,
  
      5
 straipsnis.Darbo santykiai įmonėje
-     Darbo santykiai
-įmonėje gali būti grindžiami samdos sutartimi arba naryste ūkinėje bendrijoje.
+     Darbo
+santykiai įmonėje gali būti grindžiami samdos sutartimi arba naryste ūkinėje
+bendrijoje.
      Darbo
 santykius, atsiradusius samdos sutarties pagrindu, reguliuoja samdos sutartis
 ir Lietuvos Respublikos darbo įstatymai, kurie nustato visų rūšių įmonių
@@ -186,10 +176,10 @@ straipsnis.Individuali (personalinė) įmonė
 (personalinė) įmonė nuosavybės teise priklauso fiziniam asmeniui ar keliems
 fiziniams asmenims bendrosios jungtinės nuosavybės teise. Individualią
 (personalinę) įmonę nuosavybės teise gali turėti taip pat ir negamybinės
-organizacijos, turinčios juridinio asmens teises. Individuali (personalinė)
-įmonė neturi juridinio asmens teisių, jos turtas neatskirtas nuo įmonininko
-turto. Pagal įmonės prievoles įmonininkas atsako visu savo turtu, taip pat ir
-po įmonės likvidavimo.
+organizacijos, turinčios juridinio asmens teises. Individuali (personalinė) įmonė
+neturi juridinio asmens teisių, jos turtas neatskirtas nuo įmonininko turto.
+Pagal įmonės prievoles įmonininkas atsako visu savo turtu, taip pat ir po
+įmonės likvidavimo.
      Individuali
 (personalinė) įmonė privalo turėti firmos vardą, kuriame įvardijamas jos
 savininkas.
@@ -235,12 +225,12 @@ straipsnis.Komanditinė (pasitikėjimo) ūkinė bendrija
 nariai ir nariai komanditoriai, kuriems įmonės turtas priklauso bendrosios
 dalinės nuosavybės teise. Komanditinė (pasitikėjimo) ūkinė bendrija nėra
 juridinis asmuo, jos turtas neatskirtas nuo bendrijos tikrųjų narių turto.
-Pagal komanditinės (pasitikėjimo) ūkinės bendrijos prievoles jos tikrieji
-nariai solidariai atsako visu savo turtu, taip pat ir po įmonės likvidavimo, o
-nariai komanditoriai - tik ta savo turto dalimi, kurią pagal sutartį yra
-perdavę bendrai komanditinės (pasitikėjimo) ūkinės bendrijos veiklai.
-Komanditinė (pasitikėjimo) ūkinė bendrija neatsako pagal savo narių prievoles,
-nesusijusias su bendrijos veikla.
+Pagal komanditinės (pasitikėjimo) ūkinės bendrijos prievoles jos tikrieji nariai
+solidariai atsako visu savo turtu, taip pat ir po įmonės likvidavimo, o nariai
+komanditoriai - tik ta savo turto dalimi, kurią pagal sutartį yra perdavę
+bendrai komanditinės (pasitikėjimo) ūkinės bendrijos veiklai. Komanditinė
+(pasitikėjimo) ūkinė bendrija neatsako pagal savo narių prievoles, nesusijusias
+su bendrijos veikla.
      Komanditinės
 (pasitikėjimo) ūkinės bendrijos nariais gali būti fiziniai ar juridiniai
 asmenys. Komanditinėje (pasitikėjimo) ūkinėje bendrijoje turi būti bent vienas
@@ -343,8 +333,9 @@ Komercinės-ūkinės veiklos sritis,
 kuriose neleidžiamos užsienio investicijos, nustato Lietuvos Respublikos
 investicijų įstatymas.
 Laisvųjų
-ekonominių zonų įmonių veiklos sritis, kuriose draudžiamos kapitalo investicijos,
-nustato Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas.
+ekonominių zonų įmonių veiklos sritis, kuriose draudžiamos kapitalo
+investicijos, nustato Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų
+įstatymas.
 Individualių
 (personalinių) įmonių savininkai gali panaudoti savo ir savo šeimos narių
 (sutuoktinių, tėvų, įtėvių, vaikų, įvaikių), jiems sutikus, pinigines lėšas ir
@@ -391,7 +382,6 @@ Nr. VIII-1465, 99.12.07, Žin., 1999, Nr.
 Nr. IX-253,
 2001 04 17, Žin., 2001, Nr. 39-1325 (2001 05 09), įsigalioja nuo 2001 07 01
  
- 
 13 straipsnis. Komercinės-ūkinės veiklos
 licencijavimas
 Įmonė gali verstis licencijuojama komercine-ūkine
@@ -399,25 +389,25 @@ veikla turėdama licenciją.
 Licencija yra dokumentas, suteikiantis teisę verstis
 įmonei licencijoje nurodyta komercine-ūkine veikla.
 Licencijuojamos tos komercinės-ūkinės veiklos
-sritys, kurios yra susijusios su padidėjusiu pavojumi žmogaus gyvybei, sveikatai,
-aplinkai, ginkluotės gamyba ir įsigijimu, taip pat prekėmis ir paslaugomis,
-kurioms įstatymai gali nustatyti specialią prekių pardavimo ar paslaugų teikimo
-tvarką.
+sritys, kurios yra susijusios su padidėjusiu pavojumi žmogaus gyvybei,
+sveikatai, aplinkai, ginkluotės gamyba ir įsigijimu, taip pat prekėmis ir
+paslaugomis, kurioms įstatymai gali nustatyti specialią prekių pardavimo ar
+paslaugų teikimo tvarką.
 Kiekvienai įstatymo nustatytai licencijuojamai
 komercinės-ūkinės veiklos sričiai Lietuvos Respublikos Vyriausybė tvirtina
 licencijavimo taisykles, jeigu kiti įstatymai nenustato ko kita.
 Licencijavimo taisyklėse nurodoma:
 1) licencijuojama komercinės-ūkinės veiklos sritis;
 2) licencijų rūšys;
-3) licenciją išduodanti institucija ir jos įgaliojimai;
-
+3) licenciją išduodanti institucija ir jos
+įgaliojimai; 
 4) dokumentai, reikalingi licencijai gauti;
 5) dokumentų nagrinėjimo tvarka ir terminai;
 6) licencijos rekvizitai;
 7) išduodamų licencijų ir jose nurodytų pasikeitusių
 duomenų registravimo tvarka; 
-8) licencijuojamos komercinės-ūkinės veiklos sąlygos;
-
+8) licencijuojamos komercinės-ūkinės veiklos
+sąlygos; 
 9) licencijos turėtojų teisės ir pareigos;
 10) pranešimų apie pasikeitusius licencijos duomenis
 tvarka;
@@ -520,7 +510,6 @@ Nr. VIII-1228,
 Nr. VIII-1566, 00.03.16, Žin., 2000, Nr.
 28-756 (00.04.05)
  
- 
    14
 straipsnis.Įmonių santykiai su valstybės organais
    Įmonės veikia
@@ -572,7 +561,6 @@ Nr. VIII-422,
 Nr. VIII-1910, 00.08.31, Žin., 2000, Nr.
 78-2361 (00.09.15)
  
- 
      15
 straipsnis.Įmonių veiklos kontrolė
      Įmonė
@@ -587,9 +575,9 @@ numatytais atvejais.
 licenciją (leidimą), suteikiančią teisę užsiimti tam tikra komercine-ūkine
 veikla, ar kitokį įstatymų numatytą leidimą, turi teisę gauti iš tos įmonės
 informaciją, reikalingą jos veiklos priežiūrai ir kontrolei vykdyti. Įmonė
-negali trukdyti priežiūrą ir kontrolę vykdančioms valstybės institucijoms (jų
-įgaliotiems pareigūnams) atlikti jų kompetencijai priskirtas priežiūros ir
-kontrolės funkcijas.
+negali trukdyti priežiūrą ir kontrolę vykdančioms valstybės institucijoms (jų įgaliotiems
+pareigūnams) atlikti jų kompetencijai priskirtas priežiūros ir kontrolės
+funkcijas.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -635,8 +623,9 @@ dokumentai, atsižvelgiant į steigiamos įmonės rūšį, yra įmonės steigimo
 kiti įstatymų nustatyti steigimo dokumentai. Įmonės steigimo dokumentų turinį
 ir formą nustato norminiai aktai, reglamentuojantys atskirų rūšių įmonių
 steigimą.
-Įmonės registravimo
-dokumentai yra įstatymų nustatyti dokumentai, reikalingi įmonei įregistruoti.
+Įmonės
+registravimo dokumentai yra įstatymų nustatyti dokumentai, reikalingi įmonei
+įregistruoti.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -661,41 +650,8 @@ Nr. VIII-422,
 97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
  
      20
-straipsnis.Vietos savivaldybės leidimas užsiimti ūkine veikla
-     Vietos
-savivaldos institucijos leidimas užsiimti ūkine veikla reikalingas tada, kai
-įmonė registruojama Lietuvos Respublikos ūkio ministerijoje. Kitais atvejais
-įmonės įregistravimas prilygsta leidimui užsiimti ūkine veikla.
-     Leidimą
-užsiimti ūkine veikla išduoda vietos savivaldybės organas, gavęs visus įmonės
-steigimo dokumentus.
-     Leidime
-užsiimti ūkine veikla gali būti nurodytas įmonės veikimo terminas.
-     Savivaldybės
-organas neleidžia užsiimti ūkine veikla:
-     1) jeigu
-įmonės įsteigimas sukeltų realų pavojų ar pakenktų gyventojų sveikatai arba
-darytų žalą aplinkai;
-     2) jeigu
-steigiamos įmonės įstatai ar kiti steigimo dokumentai neatitinka įstatymų;
-     3) kitais
-įstatymų nustatytais atvejais.
-     Savivaldybės
-organas privalo per 15 dienų po įmonės steigimo dokumentų įteikimo išnagrinėti
-leidimo užsiimti ūkine veikla klausimą ir apie savo sprendimą per 3 dienas
-raštu pranešti įmonės steigėjui.
-     Savivaldybės
-organas privalo atšaukti leidimą užsiimti ūkine veikla, jeigu vėliau paaiškėja
-šio straipsnio 4 dalyje nustatytos aplinkybės. Apie leidimo atšaukimą
-savivaldybės organas raštu praneša įmonininkui, įmonės administracijai ir
-valstybės organams, kontroliuojantiems įmonių ūkinę ir komercinę bei
-sveikatinimo veiklą.
-     Jeigu įmonininkas, gavęs leidimą užsiimti
-ūkine veikla, per 1 metus įmonės neįregistruoja, leidimas nustoja galios.
-     Savivaldybės
-organo atsisakymą duoti leidimą arba sprendimą atšaukti leidimą užsiimti ūkine
-veikla įmonės steigėjas ne vėliau kaip per 30 dienų po savivaldybės organo
-sprendimo įteikimo dienos gali užginčyti teismine tvarka.
+straipsnis.
+Neteko galios nuo 2003 m. gegužės 14 d.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -703,6 +659,8 @@ I-888,
 95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
 Nr. VIII-422,
 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. IX-1532,
+2003-04-22, Žin., 2003, Nr. 47-2062 (2003-05-14)
  
 21
 straipsnis.Įmonės registravimas ir perregistravimas
@@ -720,9 +678,9 @@ prašymas įregistruoti įmonę, nurodant jame duomenis, reikalingus įtraukti �
 rejestrą, ir įstatymo nustatyti kiti įmonės registravimo dokumentai. 
 Sprendimas
 įregistruoti arba atsisakyti įregistruoti įmonę turi būti priimtas ne vėliau
-kaip per 15 dienų nuo visų dokumentų, nurodytų šio straipsnio trečiojoje
-dalyje, įteikimo. Apie įmonės įregistravimą ar išregistravimą skelbiama
-Lietuvos Respublikos įmonių rejestro įstatymo nustatyta tvarka.
+kaip per 15 dienų nuo visų dokumentų, nurodytų šio straipsnio trečiojoje dalyje,
+įteikimo. Apie įmonės įregistravimą ar išregistravimą skelbiama Lietuvos
+Respublikos įmonių rejestro įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -738,22 +696,27 @@ Nr. VIII-422,
 97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
  
  
-     22 straipsnis.Atsisakymas
-įregistruoti ar perregistruoti įmonę
-     Atsisakyti
-įregistruoti įmonę galima, jeigu nepateikti šio įstatymo 21 straipsnyje
-nustatyti dokumentai arba šie dokumentai neatitinka įstatymo nustatytų
-reikalavimų. Atsisakymas įregistruoti įmonę kitokiais motyvais yra neteisėtas.
-Apie sprendimą įmonės neįregistruoti atitinkamas organas per 3 dienas privalo
-raštu pranešti įmonės steigėjui.
+     22
+straipsnis.Atsisakymas įregistruoti ar perregistruoti įmonę
+Rejestro
+tvarkytojas turi atsisakyti įregistruoti įmonę, taip pat įmonės įstatų
+(jungtinės veiklos sutarties, nuostatų) ir registravimo duomenų pakeitimus,
+jeigu pateikti dokumentai neatitinka teisės aktų nustatytų reikalavimų,
+pateikti ne visi dokumentai, reikalingi įmonei, pakeistiems įstatams (jungtinės
+veiklos sutarčiai, nuostatams) ar registravimo duomenims įregistruoti,
+pasibaigęs dokumentų galiojimo ar pateikimo rejestro tvarkytojui terminas,
+jeigu kiti įstatymai tai numato; dokumentuose pateikti duomenys ir informacija
+neatitinka vieni kitų, yra neaiškūs arba klaidinantys. Atsisakymas įregistruoti
+įmonę, taip pat įstatų (jungtinės veiklos sutarties, nuostatų) ir registravimo
+duomenų pakeitimus vadovaujantis kitokiais motyvais yra
+neteisėtas. Rejestro tvarkytojas turi įregistruoti ar motyvuotu raštu
+atsisakyti įregistruoti įmonę, taip pat įstatų (jungtinės veiklos sutarties,
+nuostatų) ir registravimo duomenų pakeitimus ne vėliau kaip per 15 dienų nuo
+registravimo dokumentų gavimo dienos.
      Atsisakymas
 įregistruoti įmonę gali būti užginčytas teismine tvarka. Įmonės steigėjas per
 teismą gali išieškoti nuostolius, atsiradusius dėl neteisėto atsisakymo
 įregistruoti įmonę.
-     Tais
-atvejais, kai įmonės (įmonės steigimo sutarties arba įstatų) registravimas
-prilygsta leidimui užsiimti ūkine veikla, ginčai dėl registravimo nagrinėjami
-pagal šio įstatymo 20 straipsnį.
      Šiame
 straipsnyje išdėstytos taisyklės taikomos taip pat ir įmonių perregistravimui.
 Straipsnio
@@ -763,6 +726,8 @@ I-678,
 90.10.16, Žin., 1990, Nr. 31-749
 Nr. VIII-422,
 97.09.25, Žin., 1997, Nr. 96-2419 (97.10.24)
+Nr. IX-1532,
+2003-04-22, Žin., 2003, Nr. 47-2062 (2003-05-14)
  
      23
 straipsnis.Įmonės likvidavimas ir reorganizavimas
@@ -773,9 +738,9 @@ savininko sprendimas nutraukti įmonės veiklą;
      2) teismo
 arba kreditorių susirinkimo sprendimas pripažinti įmonę bankrutavusia;
      3) valstybės organų priimtas sprendimas
-atšaukti įmonės registravimą už teisės pažeidimus, nustatytus Lietuvos
-Respublikos įstatymų, o laisvųjų ekonominių zonų įmonėms - ir Lietuvos
-Respublikos laisvųjų ekonominių zonų pagrindų įstatyme nustatytais atvejais.
+atšaukti įmonės registravimą už teisės pažeidimus, nustatytus Lietuvos Respublikos
+įstatymų, o laisvųjų ekonominių zonų įmonėms - ir Lietuvos Respublikos laisvųjų
+ekonominių zonų pagrindų įstatyme nustatytais atvejais.
      Organas,
 priėmęs sprendimą nutraukti įmonės veiklą, paskiria įmonės likvidatorių arba
 įpareigoja tai padaryti įmonės steigėją. Paskyrus likvidatorių, įmonė įgyja
@@ -784,8 +749,8 @@ organo funkcijas atlieka įmonės likvidatorius, įmonė privalo sumokėti
 nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio
 administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas,
 tarp jų baudas ir delspinigius, pervesdama jas į atitinkamus biudžetus iki
-likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka ir gali sudaryti
-tik tokius sandorius, kurie neprieštarauja likviduojamos įmonės veiklą
+likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka ir gali sudaryti tik
+tokius sandorius, kurie neprieštarauja likviduojamos įmonės veiklą
 reglamentuojantiems įstatymams. Likviduojama įmonė turi būti perregistruojama.
      Įmonės
 likvidavimo tvarką ir teisines pasekmes taip pat reglamentuoja ir Lietuvos
@@ -800,8 +765,8 @@ civilinis kodeksas, Lietuvos Respublikos konkurencijos ir Įmonių bankroto
 dokumentai. Įmonę reorganizavus, naujam juridiniam asmeniui pereina teisės ir
 prievolės, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo
 biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės
-institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos
-įmonės išregistravimo įstatymų nustatyta tvarka.
+institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki
+reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka.
      Įmonę
 likvidavus arba reorganizavus daromi atitinkami įrašai įmonių registravimo
 rejestre. Apie tai skelbiama vietos ir Respublikos spaudoje.
@@ -838,10 +803,10 @@ atstovauti filialui palaikant santykius su trečiaisiais asmenims tik filialą
 Atstovybė yra buveinę turintis įmonės padalinys,
 kuris negali užsiimti komercine-ūkine veikla, tačiau jį įsteigusios įmonės
 vardu gali sudaryti sandorius pagal suteiktus įgaliojimus. Už atstovybės
-prievoles įmonė atsako visu savo turtu. Atstovybė nėra juridinis asmuo.
-Atstovybės veiklą organizuoja ir vykdo atstovybės vadovas, kuris įgyja teisę
-atstovauti atstovybei palaikant santykius su trečiaisiais asmenimis tik
-atstovybę įregistravus. 
+prievoles įmonė atsako visu savo turtu. Atstovybė nėra juridinis asmuo. Atstovybės
+veiklą organizuoja ir vykdo atstovybės vadovas, kuris įgyja teisę atstovauti
+atstovybei palaikant santykius su trečiaisiais asmenimis tik atstovybę
+įregistravus. 
 Filialo ir atstovybės pavadinime
 privalo būti įmonės pavadinimas ir žodis „filialas“ arba „atstovybė“. 
 Sprendimų dėl
@@ -914,16 +879,16 @@ Lietuvos Respublikos komercinių bankų įstatymo ir šio įstatymo nustatyta
 tvarka. Užsienio banko filialai (skyriai) ir atstovybės steigiami ir veikia
 pagal šį įstatymą, jei Komercinių bankų įstatymas nenustato ko kita.
 Užsienio valstybės įmonės filialas yra buveinę
-Lietuvoje turintis užsienio valstybės įmonės padalinys, kuris gali užsiimti
-komercine-ūkine veikla, sudaryti sandorius bei prisiimti įsipareigojimus tik
-pagal jį įsteigusios įmonės suteiktus įgaliojimus. Už filialo prievoles
-užsienio valstybės įmonė atsako visu savo turtu. Užsienio valstybės įmonės
-filialas nėra juridinis asmuo. Užsienio valstybės įmonės filialo veiklą
-organizuoja ir vykdo užsienio valstybės įmonės filialo vadovas, kuris įgyja
-teisę atstovauti filialui palaikant santykius su trečiaisiais asmenims tik
-filialą įregistravus. Jeigu užsienio valstybės įmonės filialo vadovas
-sudarydamas sandorius viršija jam suteiktus įgaliojimus, tai nepanaikina
-užsienio valstybės įmonės atsakomybės už šiuos sandorius.
+Lietuvoje turintis užsienio valstybės įmonės padalinys, kuris gali užsiimti komercine-ūkine
+veikla, sudaryti sandorius bei prisiimti įsipareigojimus tik pagal jį
+įsteigusios įmonės suteiktus įgaliojimus. Už filialo prievoles užsienio
+valstybės įmonė atsako visu savo turtu. Užsienio valstybės įmonės filialas nėra
+juridinis asmuo. Užsienio valstybės įmonės filialo veiklą organizuoja ir vykdo
+užsienio valstybės įmonės filialo vadovas, kuris įgyja teisę atstovauti
+filialui palaikant santykius su trečiaisiais asmenims tik filialą įregistravus.
+Jeigu užsienio valstybės įmonės filialo vadovas sudarydamas sandorius viršija
+jam suteiktus įgaliojimus, tai nepanaikina užsienio valstybės įmonės
+atsakomybės už šiuos sandorius.
 Užsienio
 valstybės įmonės atstovybė yra buveinę Lietuvoje turintis užsienio valstybės
 įmonės padalinys, kuris negali užsiimti komercine-ūkine veikla. Už atstovybės
@@ -982,8 +947,8 @@ valstybių įmonės filialo ir atstovybės veiklą tikrinti leidžiama šio įst
 Užsienio valstybės filialo raštuose ir dokumentuose,
 kuriais pateikiami užsakymai, turi būti nurodyta:
 1) rejestras, kuriame įregistruotas filialas;
-2) rejestro tvarkytojo, kuris tvarko filialo dokumentų
-bylą, pavadinimas ir buveinės adresas;
+2) rejestro tvarkytojo, kuris tvarko filialo
+dokumentų bylą, pavadinimas ir buveinės adresas;
 3) filialo pavadinimas;
 4) filialo buveinės adresas;
 5) filialo kodas;
@@ -1423,13 +1388,22 @@ Nr. IX-1268,
 ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
  
+45.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1532,
+2003-04-22, Žin., 2003, Nr. 47-2062 (2003-05-14)
+ĮMONIŲ
+ĮSTATYMO 20 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR 22 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-01-07)
+Aušrinė Trapinskienė (2003-05-21)
                  
 autrap@lrs.lt
 
