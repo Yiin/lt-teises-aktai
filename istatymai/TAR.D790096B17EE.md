@@ -19,8 +19,6 @@ LIETUVOS RESPUBLIKOS
 
 
 Įstatymas skelbtas: Žin., 1994, Nr.94-1833
-Nauja įstatymo redakcija
-skelbta: Žin., 2000, Nr.85-2581
 Neoficialus įstatymo tekstas
  
 LIETUVOS RESPUBLIKOS
@@ -28,22 +26,22 @@ VARTOTOJŲ TEISIŲ GYNIMO
 Į
 S T A T Y M A S
  
-1994 m. lapkričio 10 d. Nr.I-657
+1994 m. lapkričio 10 d. Nr. I-657
 Vilnius
  
 Nauja įstatymo
 redakcija nuo 2001 m. sausio 1d.:
-Nr. VIII-1946, 00.09.19, Žin., 2000,
-Nr.85-2581 (00.10.11)
+Nr. VIII-1946,
+2000.09.19, Žin., 2000, Nr. 85-2581 (2000.10.11)
  
 PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
  
 1 straipsnis. Įstatymo paskirtis ir taikymas
-1. Šis įstatymas nustato vartotojų teises, taip pat
-reglamentuoja vartotojų ir prekių pardavėjų, gamintojų bei paslaugų teikėjų
-santykius, kurių nereglamentuoja kiti įstatymai. Sveikatos priežiūros paslaugų
-ir aprūpinimo vaistais šis įstatymas nereglamentuoja.
+1. Šis įstatymas nustato vartotojų teises, taip pat reglamentuoja
+vartotojų ir prekių pardavėjų, gamintojų bei paslaugų teikėjų santykius, kurių
+nereglamentuoja kiti įstatymai. Sveikatos priežiūros paslaugų ir aprūpinimo
+vaistais šis įstatymas nereglamentuoja.
 2.
 Vandens, elektros energijos, kuro ir kitų inžineriniais tinklais tiekiamų
 prekių (teikiamų paslaugų) pirkimo–pardavimo (teikimo) sutartims taikomos šio
@@ -72,15 +70,15 @@ Lietuvoje nėra, – gaminį importuoja;
 6. Paslauga – bet kokios veiklos rezultatas,
 kuriuo siūloma tenkinti ar tenkinamas konkretus vartotojo poreikis.
 7. Garantija – be papildomo mokesčio teikiamas
-prekės pardavėjo ar gamintojo įsipareigojimas vartotojui atlyginti sumokėtą
-sumą ar pakeisti, pataisyti prekes, jei jos neatitinka kokybės rodiklių,
-nurodytų prekės garantiniame dokumente ar prekės reklamoje. 
+prekės pardavėjo ar gamintojo įsipareigojimas vartotojui atlyginti sumokėtą sumą
+ar pakeisti, pataisyti prekes, jei jos neatitinka kokybės rodiklių, nurodytų
+prekės garantiniame dokumente ar prekės reklamoje. 
 8. Pardavimo kaina – galutinė prekės kaina, į
 kurią įskaityti visi mokesčiai.
-9. Prekės standartinio vieneto kaina –
-vadovaujantis Lietuvos Respublikoje įteisintais Tarptautinės vienetų sistemos
-(SI) vienetais ir jų kartotiniais bei daliniais dydžiais nurodoma kaina, į
-kurią įskaityti visi mokesčiai.
+9. Prekės standartinio vieneto kaina – vadovaujantis
+Lietuvos Respublikoje įteisintais Tarptautinės vienetų sistemos (SI) vienetais
+ir jų kartotiniais bei daliniais dydžiais nurodoma kaina, į kurią įskaityti
+visi mokesčiai.
 10. Ryšio priemonės – priemonės, kurios
 fiziškai tuo pačiu metu nedalyvaujant pardavėjui ar paslaugų teikėjui ir
 vartotojui gali būti naudojamos pardavėjo ar paslaugų teikėjo ir vartotojo
@@ -151,7 +149,10 @@ būti suteikta, kol vartotojas įsigyja ar naudoja prekę ar paslaugą. Atsakomy
 už klaidinančios informacijos pateikimą nustato šis ir kiti įstatymai.
 4. Visa informacija apie prekes bei paslaugas
 vartotojams turi būti pateikta raštu valstybine kalba, išskyrus atvejus, kai
-prekių ir paslaugų vartojimo būdai yra tradiciškai žinomi.
+prekių ir paslaugų vartojimo būdai yra tradiciškai žinomi. Prekybai ir
+paslaugoms teikti skirtų patalpų išorėje turi būti valstybine kalba nurodytas
+parduodamų prekių ar teikiamų paslaugų klasės arba prekybos ar paslaugos
+teikimo vietos rūšinis pavadinimas.
 5. Privaloma nurodyti kiekvienos prekės ar vienos
 prekių rūšies pardavimo kainą ir tos prekės standartinio vieneto kainą. Prekės
 pardavimo kaina ir standartinio vieneto kaina gali būti nenurodoma, kai prekės:
@@ -181,11 +182,15 @@ pardavimo kaina, turi būti nurodoma prekės standartinio vieneto kaina, išskyr
 11. Jeigu prekės pardavėjas ar paslaugos teikėjas nevykdo
 šiame straipsnyje nustatytų reikalavimų, vartotojas turi teisę kreiptis į
 Valstybinę maisto ir veterinarijos tarnybą (toliau – Tarnyba), Valstybinę ne
-maisto produktų inspekciją (toliau – Inspekcija) arba į teismą dėl pažeistų teisių
-gynimo. 
+maisto produktų inspekciją (toliau – Inspekcija) arba į teismą dėl pažeistų
+teisių gynimo. 
 12. Vyriausybė arba jos įgaliota institucija tvirtina
 Lietuvos Respublikoje parduodamų prekių ženklinimo bei kainų nurodymo
 taisykles.
+Straipsnio pakeitimai:
+Nr.
+IX-1575,
+2003-05-22, Žin., 2003, Nr. 54-2372 (2003-06-04)
  
 TREČIASIS
 SKIRSNIS
@@ -222,19 +227,18 @@ atlyginti vartotojo išlaidas jiems ištaisyti;
 prekę sumokėtus pinigus, išskyrus atvejus, kai prekės trūkumas yra
 mažareikšmis. Prekės trūkumo mažareikšmiškumo kriterijus nustato Vyriausybės
 įgaliota institucija.
-***4.
-Jeigu prekei nenustatytas kokybės garantijos terminas, vartotojas reikalavimus
-dėl prekės trūkumų gali pareikšti ne vėliau kaip per 2 metus nuo prekės
-įsigijimo dienos.
+*4. Jeigu prekei
+nenustatytas kokybės garantijos terminas, vartotojas reikalavimus dėl prekės
+trūkumų gali pareikšti ne vėliau kaip per 2 metus nuo prekės įsigijimo dienos.
 5. Kai prekei nustatytas kokybės garantijos terminas,
 reikalavimai dėl prekės trūkumų gali būti pareiškiami, jeigu trūkumai nustatyti
 per garantijos laikotarpį.
-***6. Kai prekės kokybės garantijos terminas
-trumpesnis nei 2 metai ir prekės trūkumai nustatyti pasibaigus garantijos
-terminui, tačiau nepraėjus daugiau kaip 2 metams nuo prekės įsigijimo dienos,
-pardavėjas atsako už prekės trūkumus, jeigu vartotojas įrodo, kad trūkumai
-atsirado iki prekės įsigijimo arba dėl iki prekės įsigijimo atsiradusių
-priežasčių, už kurias atsako pardavėjas.
+*6. Kai
+prekės kokybės garantijos terminas trumpesnis nei 2 metai ir prekės trūkumai
+nustatyti pasibaigus garantijos terminui, tačiau nepraėjus daugiau kaip 2
+metams nuo prekės įsigijimo dienos, pardavėjas atsako už prekės trūkumus, jeigu
+vartotojas įrodo, kad trūkumai atsirado iki prekės įsigijimo arba dėl iki
+prekės įsigijimo atsiradusių priežasčių, už kurias atsako pardavėjas.
 7. Vartotojas turi pranešti pardavėjui apie prekės
 trūkumą per 2 mėnesius nuo tos dienos, kai jis pastebėjo trūkumą.
 8. Jeigu vartotojas nusipirko netinkamos kokybės
@@ -247,18 +251,17 @@ prekę sumokėtus pinigus.
 vartotojas gali pasinaudoti tol, kol nesibaigė prekės tinkamumo naudoti
 terminas, išskyrus 9 straipsnyje nustatytą atvejį.
 10. Jeigu pardavėjas nevykdo šio straipsnio 3 ir 8
-dalyse nustatytų reikalavimų, vartotojas turi teisę kreiptis į Tarnybą ar
-Inspekciją dėl pažeistų vartotojų teisių gynimo arba į teismą dėl šiame
-straipsnyje nustatytų teisių gynimo. Bet kokiu atveju vartotojas turi teisę
-kreiptis į teismą dėl nuostolių, padarytų parduodant šio straipsnio 1 dalies
-reikalavimų neatitinkančią prekę, atlyginimo.
+dalyse nustatytų reikalavimų, vartotojas turi teisę kreiptis į Tarnybą ar Inspekciją
+dėl pažeistų vartotojų teisių gynimo arba į teismą dėl šiame straipsnyje
+nustatytų teisių gynimo. Bet kokiu atveju vartotojas turi teisę kreiptis į
+teismą dėl nuostolių, padarytų parduodant šio straipsnio 1 dalies reikalavimų
+neatitinkančią prekę, atlyginimo.
 11. Vyriausybė arba jos įgaliota institucija tvirtina
 viešojo maitinimo, mažmeninės prekybos ir prekių grąžinimo bei keitimo
 taisykles.
-*** Pastaba. Iki 2004 m.
-sausio 1 d. vietoj Vartotojų teisių gynimo įstatymo 7 straipsnio 4 ir 6 dalyse
-nurodyto 2 metų termino taikomas 6 mėnesių terminas.
- 
+*Pastaba.
+Iki 2004 m. sausio 1 d. vietoj Vartotojų teisių gynimo įstatymo 7 straipsnio 4
+ir 6 dalyse nurodyto 2 metų termino taikomas 6 mėnesių terminas.
  
 8 straipsnis. Paslaugų kokybė
 1. Paslauga turi būti tinkamos kokybės, t. y.
@@ -320,7 +323,6 @@ straipsnio 3 dalyje nurodytos vartotojų teisės, turi teisę kreiptis į teism�
 dėl prekių pirkimo–pardavimo ar paslaugų teikimo sutarties nutraukimo ir
 vartotojo pardavėjui ar paslaugų teikėjui sumokėtų pinigų grąžinimo.
  
- 
 KETVIRTASIS
 SKIRSNIS
 PREKIŲ PIRKIMO–PARDAVIMO AR PASLAUGŲ TEIKIMO SUTARČIŲ
@@ -370,10 +372,10 @@ sutartyje numatyto pagrindo vienašališkai keisti sutarties sąlygas;
 11) suteikia teisę pardavėjui ar paslaugų teikėjui
 vienašališkai keisti sutartyje numatytas prekių ar paslaugų savybes;
 12) suteikia teisę pardavėjui nustatyti prekės kainą
-prekės pardavimo metu arba pardavėjui ar paslaugų teikėjui suteikia teisę padidinti
-kainas be vartotojo teisės nutraukti sutartį, jeigu galutinė kaina yra didesnė
-už sutartyje numatytąją. Ši nuostata netaikoma sutartims dėl vertybinių
-popierių, kitų finansinių dokumentų, taip pat prekių perleidimo ir paslaugų
+prekės pardavimo metu arba pardavėjui ar paslaugų teikėjui suteikia teisę
+padidinti kainas be vartotojo teisės nutraukti sutartį, jeigu galutinė kaina
+yra didesnė už sutartyje numatytąją. Ši nuostata netaikoma sutartims dėl
+vertybinių popierių, kitų finansinių dokumentų, taip pat prekių perleidimo ir paslaugų
 teikimo, kai kaina yra susijusi su biržų kursų ar indeksų svyravimais ir jos
 nekontroliuoja pardavėjas ar paslaugų teikėjas, bei užsienio valiutos, kelionės
 čekių ar tarptautinių pašto perlaidų, išreikštų užsienio valiuta,
@@ -416,8 +418,8 @@ Jeigu yra abejonių dėl sutarties sąlygos turinio, ji yra aiškinama vartotojo
 naudai.
 6. Sutarties dalyką apibūdinančios sąlygos, taip pat
 su parduotos prekės ar suteiktos paslaugos ir jų kainos atitikimu susijusios
-sąlygos neturi būti vertinamos nesąžiningumo požiūriu (netaikomos šio straipsnio
-1 ir 2 dalių normos), jeigu jos parašytos aiškiai ir suprantamai.
+sąlygos neturi būti vertinamos nesąžiningumo požiūriu (netaikomos šio
+straipsnio 1 ir 2 dalių normos), jeigu jos parašytos aiškiai ir suprantamai.
  
 12 straipsnis. Nesąžiningų sąlygų negaliojimas ir
 vartotojų teisių gynimas
@@ -439,7 +441,6 @@ sąlygos ar sąlygų sudarant sutartis su vartotojais. Jeigu per dvi savaites nu
 Tarybos siūlymo pateikimo dienos pardavėjas ar paslaugų teikėjas į jį
 neatsižvelgia, Taryba turi teisę kreiptis į teismą su ieškiniu dėl tokios
 sąlygos ar sąlygų pripažinimo negaliojančiomis ar pakeitimo.
- 
  
 PENKTASIS SKIRSNIS
 PREKIŲ PARDAVIMAS IR PASLAUGŲ TEIKIMAS NE ŠIAI VEIKLAI
@@ -475,7 +476,8 @@ ir teikdami paslaugas ne šiai veiklai skirtose patalpose, turi įteikti
 vartotojui dokumentą, kuriame turi būti nurodyta:
 1) dokumento įteikimo vartotojui data;
 2) prekės ar paslaugos pavadinimas;
-3) prekės ar paslaugos kaina, įskaitant visus mokesčius;
+3) prekės ar paslaugos kaina, įskaitant visus
+mokesčius;
 4) pardavėjo ar paslaugų teikėjo pavadinimas ir
 adresas;
 5) asmens, kurio vardu sutarties atsisakęs vartotojas
@@ -487,9 +489,8 @@ numatytas dokumentas buvo įteiktas vartotojui, tenka pardavėjui ar paslaugų
 teikėjui.
  
 15 straipsnis. Vartotojo teisė
-nutraukti prekių pirkimo–pardavimo ar paslaugų teikimo 
-sutartį, sudarytą ne šiai veiklai
-skirtose patalpose
+nutraukti prekių pirkimo–pardavimo ar paslaugų teikimo sutartį, sudarytą ne
+šiai veiklai skirtose patalpose
 1. Vartotojas turi teisę nutraukti prekių
 pirkimo–pardavimo ar paslaugų teikimo sutartį, sudarytą ne šiai veiklai
 skirtose patalpose, pranešdamas raštu apie tai pardavėjui ar paslaugos teikėjui
@@ -500,10 +501,10 @@ gavimo dienos. Šios vartotojo teisės negalima suvaržyti jokiais papildomais
 įteiktas, vartotojas turi teisę nutraukti sutartį per 3 mėnesius nuo sutarties
 sudarymo dienos.
 2. Pirkdamas prekes, vartotojas gali pasinaudoti šio
-straipsnio 1 dalyje nustatyta teise, jeigu prekė nebuvo sugadinta ar jos
-išvaizda iš esmės nepasikeitė. Prekės ar jos pakuotės išvaizdos pakeitimų,
-kurie buvo būtini norint apžiūrėti gautą prekę, negalima laikyti esminiais
-prekės išvaizdos pakeitimais.
+straipsnio 1 dalyje nustatyta teise, jeigu prekė nebuvo sugadinta ar jos išvaizda
+iš esmės nepasikeitė. Prekės ar jos pakuotės išvaizdos pakeitimų, kurie buvo
+būtini norint apžiūrėti gautą prekę, negalima laikyti esminiais prekės
+išvaizdos pakeitimais.
 3. Vartotojas negali pasinaudoti šio straipsnio 1
 dalyje nustatyta teise nutraukti sutartį, jeigu sutartis sudaryta dėl paslaugų,
 kurios vartotojo sutikimu pradėtos teikti nesibaigus šio straipsnio 1 dalyje
@@ -534,8 +535,8 @@ SKIRSNIS
 PREKIŲ PARDAVIMAS IR PASLAUGŲ TEIKIMAS PAGAL SUTARTIS,
 SUDAROMAS NAUDOJANT RYŠIO PRIEMONES
  
-17 straipsnis. Prekių pirkimo–pardavimo
-ar paslaugų teikimo sutartis, sudaryta 
+17 straipsnis. Prekių
+pirkimo–pardavimo ar paslaugų teikimo sutartis, sudaryta 
 naudojant ryšio priemones
 1. Prekių pirkimo–pardavimo ar paslaugų teikimo
 sutartis, sudaryta naudojant ryšio priemones, yra pardavėjo ar paslaugos
@@ -590,15 +591,14 @@ teikiamas prekės priežiūros paslaugas ir garantijas, jeigu jos suteikiamos;
 5) sutarties nutraukimo sąlygas, jeigu sutartis
 neterminuota arba ilgesniam nei vienerių metų terminui.
 7. Pareiga įrodyti, kad šio straipsnio 6 dalyje
-nustatyta informacija raštu buvo įteikta vartotojui, tenka pardavėjui ar paslaugų
-teikėjui.
+nustatyta informacija raštu buvo įteikta vartotojui, tenka pardavėjui ar
+paslaugų teikėjui.
 8. Pardavėjas turi pateikti prekes per 30 kalendorinių
 dienų nuo sutarties sudarymo dienos, jei sutartyje nenumatyta kitaip.
  
 18 straipsnis. Vartotojo teisė
-nutraukti prekių pirkimo–pardavimo ar paslaugų teikimo 
-sutartį, sudarytą naudojant ryšio
-priemones
+nutraukti prekių pirkimo–pardavimo ar paslaugų teikimo sutartį, sudarytą
+naudojant ryšio priemones
 1. Vartotojas turi teisę nutraukti prekių
 pirkimo–pardavimo ar paslaugų teikimo sutartį, sudarytą naudojant ryšio
 priemones, pranešdamas raštu apie tai pardavėjui ar paslaugų teikėjui per 7
@@ -631,8 +631,8 @@ kredito sutartį, tai ta vartojimo kredito sutartis turi būti nutraukiama be
 jokių papildomų įpareigojimų vartotojui.
 6. Gavęs šio straipsnio 1 dalyje numatytą pranešimą
 dėl sutarties nutraukimo, per 15 dienų pardavėjas privalo atsiimti prekę ir
-grąžinti vartotojui už ją sumokėtus pinigus, o paslaugų teikėjas – grąžinti už
-paslaugą sumokėtus pinigus.
+grąžinti vartotojui už ją sumokėtus pinigus, o paslaugų teikėjas – grąžinti už paslaugą
+sumokėtus pinigus.
 7. Jeigu kyla ginčas dėl prekės išvaizdos pasikeitimų
 ar prekės sugadinimo, pardavėjas privalo kreiptis į Tarnybą arba į Inspekciją
 ir dalyvaujant vartotojui pateikti prekę ekspertizei. Ekspertizės išlaidas moka
@@ -691,11 +691,11 @@ tam tikru laiku naudotis gyvenamosiomis patalpomis, turi būti nurodyta, kur ir
 kaip vartotojas gali gauti suteikiamų gyvenamųjų patalpų aprašymą.
  
 22 straipsnis. Vartotojo teisė
-nutraukti teisės tam tikru laiku naudotis gyvenamosiomis 
-patalpomis pirkimo sutartį
+nutraukti teisės tam tikru laiku naudotis gyvenamosiomis patalpomis pirkimo
+sutartį
 1. Vartotojas turi teisę nutraukti teisės tam tikru
-laiku naudotis gyvenamosiomis patalpomis sutartį, pranešdamas raštu apie tai
-pardavėjui per 10 dienų nuo sutarties sudarymo dienos.
+laiku naudotis gyvenamosiomis patalpomis sutartį, pranešdamas raštu apie tai pardavėjui
+per 10 dienų nuo sutarties sudarymo dienos.
 2. Jeigu sutarties sudarymo metu vartotojui
 neįteikiamas suteikiamų gyvenamųjų patalpų aprašymas arba jame nėra visų
 privalomų duomenų, vartotojas turi teisę nutraukti sutartį per 4 mėnesius nuo
@@ -706,16 +706,17 @@ gyvenamųjų patalpų aprašymo įteikimo dienos.
 3. Jeigu vartotojas pasinaudojo šiame straipsnyje
 nustatyta teise nutraukti sutartį, kai už teisę naudotis tam tikru laiku
 gyvenamosiomis patalpomis visiškai ar iš dalies sumokama pagal tam tikslui
-pardavėjo ir vartotojo arba pardavėjo ir trečiojo asmens sudarytą vartojimo kredito
-sutartį, tai ta vartojimo kredito sutartis taip pat turi būti nutraukiama.
+pardavėjo ir vartotojo arba pardavėjo ir trečiojo asmens sudarytą vartojimo
+kredito sutartį, tai ta vartojimo kredito sutartis taip pat turi būti
+nutraukiama.
 4. Draudžiama šio straipsnio 1, 2 ir 3 dalyse
 nustatytą vartotojo teisę nutraukti sutartį suvaržyti bet kokiais papildomais
 įpareigojimais ar įmokomis arba bet kokiu kitu būdu apriboti ar panaikinti.
 5. Pardavėjas neturi teisės reikalauti iš vartotojo
 bet kokio išankstinio apmokėjimo prieš pasibaigiant laikotarpiui, per kurį
-vartotojas turi teisę nutraukti sutartį. Jeigu toks išankstinis apmokėjimas
-buvo atliktas, pardavėjas, gavęs šiame straipsnyje numatytą vartotojo pranešimą
-apie sutarties nutraukimą, privalo per 10 dienų grąžinti sumokėtus pinigus
+vartotojas turi teisę nutraukti sutartį. Jeigu toks išankstinis apmokėjimas buvo
+atliktas, pardavėjas, gavęs šiame straipsnyje numatytą vartotojo pranešimą apie
+sutarties nutraukimą, privalo per 10 dienų grąžinti sumokėtus pinigus
 vartotojui.
  
 23 straipsnis. Šiame skirsnyje nustatytų vartotojų
@@ -797,8 +798,8 @@ suteikimu bei naudojimu susijusių mokesčių.
 teisė
 Vartotojas turi teisę grąžinti kreditą nesibaigus jo
 grąžinimo terminui. Šiuo atveju jis sumoka iki kredito grąžinimo datos
-priskaičiuotas palūkanas ir su kredito suteikimu bei naudojimu susijusius
-mokesčius. 
+priskaičiuotas palūkanas ir su kredito suteikimu bei naudojimu susijusius mokesčius.
+
  
 26 straipsnis. Sutarties nutraukimas kredito davėjo
 reikalavimu
@@ -835,21 +836,20 @@ nebuvo įvykdytos.
 3. Vartotojas, kurio teisės, numatytos sutartyje, buvo
 pažeistos, gali kreiptis į Tarybą arba teismą. 
  
- 
 DEVINTASIS
 SKIRSNIS
 VARTOTOJŲ TEISIŲ GYNIMO INSTITUCIJOS IR
 ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
  
-***29 straipsnis. Vartotojų teisių gynimo valstybės
+29 straipsnis. Vartotojų teisių gynimo valstybės
 įstaigos
 1. Taryba kartu su Tarnyba ir Inspekcija kontroliuoja,
 kaip laikomasi šio įstatymo. 
 2.
-Taryba yra valstybės įstaiga prie Vyriausybės įgaliotos ministerijos. Ją
-steigia ir jos nuostatus tvirtina Vyriausybė. Tarybos darbo tvarką ir jos
-nagrinėjamų klausimų proceso taisykles nustato šis ir kiti įstatymai bei
-Tarybos priimtas darbo reglamentas.
+Taryba yra valstybės įstaiga prie Vyriausybės įgaliotos ministerijos. Ją steigia
+ir jos nuostatus tvirtina Vyriausybė. Tarybos darbo tvarką ir jos nagrinėjamų
+klausimų proceso taisykles nustato šis ir kiti įstatymai bei Tarybos priimtas
+darbo reglamentas.
 3. Taryba yra juridinis asmuo, turintis sąskaitų
 bankuose ir antspaudą su Lietuvos valstybės herbu bei savo pavadinimu.
 4. Taryba yra biudžetinė įstaiga, finansuojama iš
@@ -868,17 +868,14 @@ ne mažiau kaip 4 Tarybos nariai, įskaitant Tarybos pirmininką. Kai balsai
 pasiskirsto po lygiai, lemia Tarybos pirmininko balsas. Tarybos sprendimai gali
 būti skundžiami įstatymų nustatyta tvarka.
 8. Prie Tarybos kaip patariamoji institucija sudaroma
-Vartotojų teisių apsaugos komisija. Ją sudaro ir sudėtį tvirtina Taryba.
-Komisijos nariai yra Sveikatos apsaugos ministerijos, Ūkio ministerijos, Žemės
-ūkio ministerijos ir kitų suinteresuotų valstybės, savivaldybių įstaigų bei
+Vartotojų teisių apsaugos komisija. Ją sudaro ir sudėtį tvirtina Taryba. Komisijos
+nariai yra Sveikatos apsaugos ministerijos, Ūkio ministerijos, Žemės ūkio
+ministerijos ir kitų suinteresuotų valstybės, savivaldybių įstaigų bei
 visuomeninių organizacijų atstovai. Komisijos nuostatus tvirtina Taryba.
 Komisijai vadovauja Tarybos pirmininkas.
-***Pastaba. Vartotojų teisių gynimo įstatymo
-pakeitimo įstatymas, išskyrus Vartotojų teisių gynimo įstatymo 29 ir 30
-straipsnius, įsigalioja nuo 2001 m. sausio 1 d.
  
- 
-***30 straipsnis. Tarybos funkcijos ir teisės
+30 straipsnis.
+Tarybos funkcijos ir teisės
 1. Taryba:
 1) atlieka vartotojų skundų neteisminį nagrinėjimą, t.
 y. nagrinėja Tarnybos ir Inspekcijos pateiktus dokumentus dėl vartotojų teisių
@@ -914,10 +911,6 @@ Taryba turi teisę:
 įstatymo pažeidimams tirti reikalingą informaciją, dokumentus;
 2) atlikti tyrimus, kreiptis į teismą dėl pažeistų
 vartotojų teisių gynimo šio įstatymo nustatytais atvejais.
-***Pastaba. Vartotojų teisių gynimo įstatymo
-pakeitimo įstatymas, išskyrus Vartotojų teisių gynimo įstatymo 29 ir 30
-straipsnius, įsigalioja nuo 2001 m. sausio 1 d.
- 
  
 31 straipsnis. Visuomeninės vartotojų organizacijos
 1. Lietuvos Respublikos visuomeninės vartotojų
@@ -954,40 +947,43 @@ teikia finansinę paramą.
 atsakomybė
 1. Už vartotojams padarytą žalą pardavėjas ir paslaugų
 teikėjas atsako įstatymų nustatyta tvarka.
-2. Asmenys, pažeidę pagal šį įstatymą priimtas
-taisykles ar kitus teisės aktus, traukiami atsakomybėn įstatymų nustatyta
-tvarka.
- 
+2. Asmenys, pažeidę pagal šį įstatymą priimtas taisykles
+ar kitus teisės aktus, traukiami atsakomybėn įstatymų nustatyta tvarka.
  
 Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 BRAZAUSKAS
- 
-____________
+__________________
  
 Pakeitimai:
  
 1.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. VIII-1946, 00.09.19, Žin., 2000,
-Nr.85-2581 (00.10.11)
-VARTOTOJŲ TEISIŲ GYNIMO
-ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Nauja įstatymo
-redakcija 
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1946,
+00.09.19, Žin., 2000, Nr.85-2581 (00.10.11)
+VARTOTOJŲ TEISIŲ GYNIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Nauja įstatymo redakcija 
 Vartotojų teisių gynimo įstatymo
 pakeitimo įstatymas, išskyrus Vartotojų teisių gynimo įstatymo 29 ir 30
 straipsnius, įsigalioja nuo 2001 m. sausio 1 d.
-Iki 2004 m. sausio 1 d. vietoj Vartotojų teisių gynimo
-įstatymo 7 straipsnio 4 ir 6 dalyse nurodyto 2 metų termino taikomas 6 mėnesių
-terminas.
+Iki 2004 m. sausio 1 d. vietoj
+Vartotojų teisių gynimo įstatymo 7 straipsnio 4 ir 6 dalyse nurodyto 2 metų
+termino taikomas 6 mėnesių terminas.
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1575,
+2003-05-22, Žin., 2003, Nr. 54-2372 (2003-06-04)
+VARTOTOJŲ
+TEISIŲ GYNIMO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
- 
-Redagavo: Aušrinė
-Trapinskienė (2000.10.12)
+Redagavo:
+Aušrinė Trapinskienė (2003-06-05)
+                 
+autrap@lrs.lt
