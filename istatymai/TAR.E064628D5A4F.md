@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F"
 
 # Lietuvos Respublikos aukštojo mokslo įstatymas
 
+Suvestinė redakcija nuo 2001-02-21 iki 2001-12-31
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 27-715, i. k. 1001010ISTAIII-1586
+ 
+ 
 LIETUVOS RESPUBLIKOS
 AUKŠTOJO MOKSLO
 Į S T A T Y M A S
@@ -155,7 +160,9 @@ BENDROSIOS NUOSTATOS
 
 5) teikti studentams konsultacijas dėl įsidarbinimo.
 
-8. Valstybinė aukštoji mokykla yra ne pelno siekianti įstaiga.
+8. Valstybinė aukštoji mokykla yra ne pelno siekianti valstybės įstaiga, turinti Lietuvos Respublikos Konstitucijos bei šio įstatymo nustatytą specialų statusą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
  
 
 6 straipsnis. Universitetas
@@ -293,11 +300,17 @@ Aukštosiose mokyklose dėstomoji kalba yra lietuvių kalba. Kitomis kalbomis ga
 
 1. Aukštosios mokyklos turtą sudaro nuosavybės teise turimi pastatai ir kitos materialinės vertybės, nebiudžetiniai finansiniai ištekliai, vertybiniai popieriai, intelektualaus darbo produktai (kiek tai nepažeidžia autoriaus teisių) bei kitas teisėtai įgytas turtas.
 
-2. Valstybinės aukštosios mokyklos joms perduotą valstybės ir savivaldybės turtą valdo, naudoja ir disponuoja juo patikėjimo teise. Jų teises ir pareigas, valdant ir naudojant valstybės turtą bei juo disponuojant, nustato šis ir kiti įstatymai. 
+2. Valstybinės aukštosios mokyklos joms perduotą valstybės ir savivaldybės turtą valdo, naudoja ir juo disponuoja patikėjimo teise. Jų teises ir pareigas, valdant ir naudojant valstybės turtą bei juo disponuojant, nustato šis ir kiti įstatymai. Turtą, kuris įsigytas iš nebiudžetinių lėšų, gautas dovanų, priimtas kaip palikimas ar įgytas kitu teisėtu būdu, valstybinė aukštoji mokykla valdo, naudoja ir juo disponuoja nuosavybės teise pagal Civilinio kodekso ir kitų įstatymų normas, nepažeisdama kitų asmenų teisių ir teisėtų interesų, aukštosios mokyklos statute nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+ 
 
 3. Nevalstybinėms aukštosioms mokykloms valstybės ir savivaldybės turtas gali būti perduotas panaudos teise įstatymų nustatyta tvarka. 
 
-4. Valstybinė žemė valstybiniams universitetams suteikiama naudoti neterminuotai įstatymų nustatyta tvarka. Keisti valstybinių universitetų teritorijos ribas ar pastatų priklausomybę gali tik Vyriausybė, gavusi universiteto senato sutikimą. Jei universiteto senatas nesutinka, teritorijos ribas ar pastatų priklausomybę gali keisti tik Seimas.
+4. Universitetai naudojasi savo teritorijos ir pastatų neliečiamumo teise. Valstybinė žemė valstybiniams universitetams suteikiama naudoti neterminuotai įstatymų nustatyta tvarka. Keisti valstybinių universitetų teritorijos ribas ar pastatų priklausomybę gali tik Vyriausybė, gavusi universiteto senato sutikimą. Jei universiteto senatas nesutinka, teritorijos ribas ar pastatų priklausomybę gali keisti tik Seimas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+ 
 
 5. Universitetų teritorijoje valstybės valdžios ir valdymo ar vietos savivaldos institucijos negali atlikti darbų (išskyrus neatidėliotinus avarinius darbus) be rektoriaus arba jo įgalioto asmens leidimo.
  
@@ -336,7 +349,10 @@ reorganizavimas ir likvidavimas
 
 15 straipsnis. Nevalstybinių aukštųjų mokyklų steigimas 
 
-1. Nevalstybines aukštąsias mokyklas ar jų padalinius, turinčius juridinio asmens teises, Vyriausybės nustatyta tvarka gali steigti Lietuvos fiziniai ir juridiniai asmenys, taip pat Lietuvos Respublikos euroatlantinės integracijos kryptis atitinkančių valstybių aukštosios mokyklos. Bendros su užsienio partneriais aukštosios mokyklos steigiamos kaip nevalstybinės aukštosios mokyklos. 
+1. Nevalstybines aukštąsias mokyklas ar jų padalinius, turinčius juridinio asmens teises, Vyriausybės nustatyta tvarka gali steigti Lietuvos ir kitų valstybių fiziniai ir juridiniai asmenys, taip pat kitų valstybių aukštosios mokyklos. Bendros su užsienio partneriais aukštosios mokyklos steigiamos kaip nevalstybinės aukštosios mokyklos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+ 
 
 2. Fiziniai ir juridiniai asmenys, norintys steigti nevalstybinę aukštąją mokyklą, pateikia Ministerijai aukštosios mokyklos veiklos, studijų programų ir statuto projektus, taip pat dokumentus, įrodančius, kad steigėjai turi lėšų šaltinius, būtinus aukštosios mokyklos materialinei bazei sukurti ir veiklai užtikrinti. Ministerija turi išnagrinėti pateiktus dokumentus ne vėliau kaip per 3 mėnesius. Jeigu aukštosios mokyklos ar jos padalinio, turinčio juridinio asmens teises, veiklos projektas, studijų programos, statutas ir materialinė bazė atitinka šio įstatymo nustatytas sąlygas, Ministerija teikia Vyriausybei išvadą dėl licencijos išdavimo aukštajai mokyklai. Ministerija, priėmusi neigiamą sprendimą dėl aukštosios mokyklos steigimo, apie sprendimą ir jo priežastis informuoja pareiškėjus. Šis sprendimas gali būti apskundžiamas teismine tvarka.
 
@@ -713,7 +729,10 @@ Aukštoji mokykla gali ne ilgesniam kaip 2 metų laikotarpiui pakviesti dėstyto
 
 34 straipsnis. Dėstytojų mokslinės ir profesinės kvalifikacijos kėlimas
 
-Aukštosios mokyklos dėstytojai kas 5 metai gali būti atleidžiami ne ilgesniam kaip pusės metų laikotarpiui nuo pedagoginio darbo moksliniams tyrimams atlikti bei savo mokslinei ir profesinei kvalifikacijai kelti. Per šį laikotarpį dėstytojui mokamas vidutinis jo darbo užmokestis.
+Aukštosios mokyklos dėstytojai kas 5 metai gali būti atleidžiami ne ilgesniam kaip metų laikotarpiui nuo pedagoginio darbo moksliniams tyrimams atlikti bei savo mokslinei ir profesinei kvalifikacijai kelti. Per šį laikotarpį dėstytojui mokamas vidutinis jo darbo užmokestis. 
+
+Straipsnio pakeitimai:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
  
 
 V skirsnis
@@ -791,7 +810,10 @@ STUDIJOS
 
 40 straipsnis. Studijų kryptys
 
-1. Universitetinių ir neuniversitetinių studijų krypčių, pagal kurias vyksta nuosekliosios studijos aukštojoje mokykloje, sąrašą tvirtina Ministerija, atsižvelgusi į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus bei Aukštojo mokslo tarybos išvadas.
+1. Bendrąjį universitetinių ir neuniversitetinių studijų sričių ir krypčių, pagal kurias vyksta nuosekliosios studijos Lietuvos aukštosiose mokyklose, klasifikatorių tvirtina Vyriausybė. Universitetinių ir neuniversitetinių studijų sričių ir krypčių, pagal kurias vyksta nuosekliosios studijos konkrečioje aukštojoje mokykloje, sąrašą tvirtina Ministerija, atsižvelgusi į mokslo ir studijų ekspertinių institucijų išvadas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+ 
 
 2. Naujų studijų krypčių steigimo arba jų panaikinimo aukštosiose mokyklose tvarką tvirtina Ministerija, atsižvelgusi į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus bei Aukštojo mokslo tarybos išvadas.
  
@@ -966,7 +988,10 @@ STUDENTAI
 
 51 straipsnis. Studentų dalyvavimas aukštosios mokyklos savivaldoje
 
-1. Aukštosios mokyklos studentų interesams atstovauja studentų atstovybė. Atstovybę sudaro visuotinio studentų susirinkimo (konferencijos) išrinkti studentai. Studentų atstovybės narių rinkimo ir jos veiklos principai nustatomi aukštosios mokyklos statute. Atstovybės veikia pagal studentų visuotinio susirinkimo (konferencijos) patvirtintus įstatus, kuriuos registruoja universiteto rektorius (kolegijos direktorius).
+1. Aukštosios mokyklos studentų interesams atstovauja studentų atstovybė. Atstovybę sudaro visuotinio studentų susirinkimo (konferencijos) išrinkti studentai. Studentų atstovybės sudarymo ir jos veiklos principai nustatomi aukštosios mokyklos statute. Studentų atstovybė savo veikloje vadovaujasi Lietuvos Respublikos visuomeninių organizacijų įstatymu ir kitais teisės aktais, jeigu šis įstatymas nenustato kitaip, taip pat aukštosios mokyklos statutu ir visuotinio studentų susirinkimo (konferencijos) patvirtintais įstatais. 
+Straipsnio dalies pakeitimai:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+ 
 
 2. Visuotinis studentų susirinkimas (konferencija) yra teisėtas, jei jame dalyvauja daugiau kaip pusė visų studentų (visų konferencijos delegatų). Visuotinio studentų susirinkimo (konferencijos) sprendimai laikomi priimtais, jei už juos balsavo daugiau kaip pusė susirinkime (konferencijoje) dalyvavusių studentų.
  
@@ -999,7 +1024,11 @@ Aukštųjų mokyklų finansavimas
 
 54 straipsnis. Valstybės biudžeto lėšų skyrimas valstybinėms aukštosioms mokykloms
 
-1. Valstybės biudžeto lėšos skiriamos valstybinei aukštajai mokyklai numatytoms programoms įgyvendinti pagal sutartį, kurią aukštoji mokykla 3 metams sudaro su Ministerija. 
+1. Valstybės biudžeto lėšos skiriamos valstybinei aukštajai mokyklai numatytoms programoms įgyvendinti pagal sutartį, kurią Ministerija Vyriausybės pavedimu 3 metams sudaro su aukštąja mokykla. Valstybės biudžeto lėšos aukštajai mokyklai skiriamos bendra suma: paprastosios išlaidos (neišskiriant lėšų darbo užmokesčiui) ir valstybės investicijų programoje numatyti valstybės biudžeto asignavimai nepaprastosioms išlaidoms. Valstybės biudžeto lėšų skyrimo valstybinei aukštajai mokyklai pagal sutartį bei atsiskaitymo ir atskaitomybės už valstybės biudžeto lėšas tvarką nustato Vyriausybė, o lėšų panaudojimo tikslingumą kontroliuoja Finansų ministerija ir Valstybės kontrolė. Jeigu valstybės biudžeto dalis, skirta tiems finansiniams metams, yra pakeičiama, subsidijų dydį Ministerija privalo patikslinti. Kol valstybės subsidija nėra patvirtinta ar patikslinta, už avansinius išmokėjimus institucijoms yra atsakinga Ministerija. 
+TAR pastaba. 54 straipsnio 1 dalies nuostatos dėl valstybės biudžeto lėšų aukštajai mokyklai skyrimo bendra suma įsigalioja nuo 2002 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+ 
 
 2. Sutarties projektą pagal Ministerijos nustatytą formą rengia aukštoji mokykla. Sutartyje, vadovaujantis perspektyviniu Lietuvos aukštojo mokslo sistemos plėtros planu, turi būti numatyta:
 
@@ -1043,7 +1072,14 @@ Ministerija gali sudaryti sutartis su nevalstybinėmis aukštosiomis mokyklomis,
 
 5) kitos teisėtai įgytos lėšos. 
 
-2. Nevalstybinių aukštųjų mokyklų lėšų struktūrą ir paskirtį nustato steigėjai.
+2. Valstybinės aukštosios mokyklos lėšos, gautos iš studijuojančiųjų savo lėšomis įmokų, ir pajamos iš mokslinės ir ūkinės veiklos bei teikiamų paslaugų Vyriausybės nustatyta tvarka įtraukiamos į apskaitą valstybės biudžete, tačiau aukštosios mokyklos jų statutuose nustatytiems tikslams ir uždaviniams įgyvendinti valdo ir naudoja šias lėšas bei jomis disponuoja savarankiškai. 
+Papildyta straipsnio dalimi:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+ 
+
+3. Nevalstybinių aukštųjų mokyklų lėšų struktūrą ir paskirtį nustato steigėjai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
  
 
 57 straipsnis. Lėšos moksliniams tyrimams bei veiklai, tiesiogiai nesusijusiai su studijų organizavimu ir paslaugomis
@@ -1074,7 +1110,10 @@ Aukštoji mokykla turi teisę gauti lėšų:
 
 59 straipsnis. Studijų kaina
 
-1. Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) bei Lietuvos studentų atstovybių sąjungos (sąjungų) siūlymus, nustato studijų valstybinėse aukštosiose mokyklose (pagal studijų kryptį, pakopą ir formą) kainą. 
+1. Ministerija, vadovaudamasi Vyriausybės patvirtinta skaičiavimo metodika, nustato studijų valstybinėse aukštosiose mokyklose (pagal studijų kryptį, pakopą ir formą) kainą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+ 
 
 2. Į studijų kainą įskaičiuojamos lėšos, būtinos studijoms organizuoti bei jų moksliniam lygiui palaikyti, t.y.:
 
@@ -1089,7 +1128,7 @@ Aukštoji mokykla turi teisę gauti lėšų:
 4. Studijų kainą nevalstybinėse aukštosiose mokyklose nustato steigėjai ir apie tai kiekvienų metų pirmą ketvirtį praneša Ministerijai.
  
 
-60 straipsnis.       Valstybės paskola studijoms valstybinėse aukštosiose mokyklose apmokėti. Nemokamo aukštojo mokslo laidavimas
+60 straipsnis. Valstybės paskola studijoms valstybinėse aukštosiose mokyklose apmokėti. Nemokamo aukštojo mokslo laidavimas
 
 1. Studentams, išskyrus rezidentus, meno aspirantus ir doktorantus, priimtiems į valstybės finansuojamas vietas, studijų laikotarpiui suteikiama studijų kainą atitinkanti nominali (t.y. Vyriausybės nustatyta tvarka perduodama aukštajai mokyklai) valstybės paskola. 
 
@@ -1179,7 +1218,14 @@ BAIGIAMOSIOS NUOSTATOS
 
 2. Iki 2000 m. liepos 15 d.aukštosios mokyklos pateikia tvirtinti Seimui savo statutus, suderintus su šio įstatymo nuostatomis.
 
-3. Šio įstatymo 63 straipsnyje nustatyta paskolų teikimo studentams tvarka pradedama taikyti nuo 2001 m. sausio 1 d.
+3. Šio įstatymo 60 straipsnyje nustatyta paskolų teikimo tvarka pradedama taikyti nuo 2002 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+ 
+
+4. Kol nėra sudarytos prie universitetų veikiančios mokslo krypčių tarybos, numatytos 42 straipsnio 8 dalyje, doktorantų disertacijos ginamos ir mokslo laipsniai suteikiami Vyriausybės nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
  
 
 68 straipsnis. Įstatymo įsigaliojimas
@@ -1197,4 +1243,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+Lietuvos Respublikos aukštojo mokslo įstatymo 5, 9, 11, 15, 34, 40, 51, 54, 56, 59, 67 straipsnių pakeitimo ir papildymo įstatymas
 
