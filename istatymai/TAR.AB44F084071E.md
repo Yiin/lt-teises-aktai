@@ -30,11 +30,21 @@ Vilnius
 PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
  
-1 straipsnis. Įstatymo paskirtis 
-Šis Įstatymas
-reglamentuoja konsoliduotos finansinės atskaitomybės sudarymą, tvirtinimą,
-skelbimą, audito atlikimą, nustato reikalavimus įmonėms, kurios privalo rengti
-konsoliduotą finansinę atskaitomybę.
+1 straipsnis. Įstatymo paskirtis
+1. Šis Įstatymas reglamentuoja konsoliduotos
+finansinės atskaitomybės sudarymą, tvirtinimą, skelbimą, audito atlikimą,
+nustato reikalavimus įmonėms, kurios privalo rengti konsoliduotą finansinę
+atskaitomybę.
+2. Šiuo Įstatymu
+siekiama konsoliduotos finansinės atskaitomybės sudarymo, tvirtinimo, skelbimo
+tvarką, audito atlikimo ir reikalavimų įmonėms, kurios privalo rengti
+konsoliduotą finansinę atskaitomybę, reglamentavimą suderinti su Europos
+Sąjungos teisės aktais, nurodytais šio Įstatymo priede.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1916,
+2003-12-18, Žin., 2003, Nr. 123-5588 (2003-12-30)
  
 2 straipsnis. Įstatymo taikymas
 1. Šis Įstatymas taikomas akcinėms bendrovėms
@@ -48,36 +58,40 @@ ir uždarosioms akcinėms bendrovėms (toliau – įmonės).
 kita įmonė (investuotojas) daro reikšmingą įtaką ir kuri nėra nei tos įmonės
 dukterinė įmonė, nei pagal jungtinės veiklos (partnerystės) sutartį
 veikianti įmonė.
-2. Įmonių grupė – patronuojanti įmonė
+2. Grynasis turtas – įmonės turto
+dalis, likusi iš viso turto, įvertinto pagal tikrąją vertę, atėmus visus
+įsipareigojimus, įvertintus pagal tikrąją vertę.
+3. Įmonių grupė – patronuojanti įmonė
 ir jos dukterinės įmonės. 
-3. Konsolidavimas – įmonių grupės finansinių
+4. Konsolidavimas – įmonių grupės finansinių
 atskaitomybių sujungimas į vieną finansinę atskaitomybę taikant Verslo
 apskaitos standartuose nustatytus metodus.
-4. Konsoliduota finansinė atskaitomybė
+5. Konsoliduota finansinė atskaitomybė
 – įmonių grupės finansinė atskaitomybė, sudaryta kaip vienos įmonės finansinė
 atskaitomybė.
-5. Kontrolė – įmonės teisė daryti lemiamą įtaką
+6. Kontrolė – įmonės teisė daryti lemiamą įtaką
 kitai įmonei, valdyti ir veikti kitos įmonės finansinę ir ūkinę veiklą siekiant
 iš to gauti naudos. Kontrolė gali būti tiesioginė ir netiesioginė.
-6. Mažumos dalis – dukterinės įmonės
+7. Mažumos dalis – dukterinės įmonės
 akcininkams, kurie nėra nei patronuojančios įmonės, nei kitos tai įmonių grupei
 priklausančios dukterinės įmonės akcininkai, priklausanti dukterinės įmonės
-nuosavo kapitalo dalis.
-7. Netiesioginė kontrolė – kontrolė,
+nuosavo kapitalo dalis arba ataskaitinio laikotarpio grynojo pelno (nuostolių)
+dalis.
+8. Netiesioginė kontrolė – kontrolė,
 atsirandanti per kitas kontroliuojamas įmones arba kontroliuojamų įmonių
 kontroliuojamas įmones.
-8. Nuosavybės metodas – apskaitos metodas, kai
-investicija į akcijas jų įsigijimo metu užregistruojama nurodant akcijų
-įsigijimo vertę, o sudarant finansinę atskaitomybę, jos vertė padidinama arba
-sumažinama pripažįstant ir konsoliduotoje finansinėje atskaitomybėje nurodant
-po akcijų įsigijimo datos susidariusią ir tai įmonei tenkančią pelno arba
-nuostolių dalį.
-9. Reikšminga įtaka – galimybė nekontroliuojant
-įmonės dalyvauti priimant finansinės ir ekonominės veiklos sprendimus. Bet
-kokiu atveju reikšminga įtaka yra tada, kai įmonė turi kitos įmonės akcijų,
-suteikiančių ne mažiau kaip 20 procentų balsų visuotiniame akcininkų
-susirinkime.
-10. Tiesioginė kontrolė yra tada, kai tenkinama
+9. Nuosavybės metodas – apskaitos metodas, kai
+investicija į akcijas jų įsigijimo metu užregistruojama įsigijimo savikaina, o
+vėliau jos vertė didinama (mažinama) atsižvelgiant į investuotojui tenkančios
+įmonės, į kurią investuota, grynojo turto dalies pasikeitimus, įvykusius po
+įsigijimo. Investuotojo pelno (nuostolių) ataskaitoje parodoma investuotojui
+tenkanti įmonės, į kurią investuota, grynojo pelno (nuostolių) dalis.
+10. Reikšminga įtaka – galimybė
+nekontroliuojant įmonės dalyvauti priimant finansinės ir ekonominės veiklos
+sprendimus. Bet kokiu atveju reikšminga įtaka yra tada, kai įmonė turi kitos
+įmonės akcijų, suteikiančių ne mažiau kaip 20 procentų balsų visuotiniame
+akcininkų susirinkime.
+11. Tiesioginė kontrolė yra tada, kai tenkinama
 bent viena iš šių sąlygų:
 1) įmonė turi kitos įmonės
 akcijų, suteikiančių daugiau kaip pusę balsų; 
@@ -89,6 +103,18 @@ stebėtojų tarybos narių;
 turėdama kitos įmonės akcijų, suteikiančių mažiau kaip pusę balsų, pagal
 susitarimus su kitais tos kitos įmonės akcininkais gali spręsti, kaip panaudoti
 daugiau kaip pusę pastarosios įmonės akcijų teikiamų balsų.
+12. Tikroji
+vertė – suma, už kurią gali būti apsikeista turtu arba kuria gali būti
+užskaitytas nesusijusių šalių, kurios ketina pirkti (parduoti) turtą arba užskaityti tarpusavio įsipareigojimą,
+tarpusavio įsipareigojimas.
+13. Kitos šiame
+Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos
+Respublikos buhalterinės apskaitos įstatyme.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1916,
+2003-12-18, Žin., 2003, Nr. 123-5588 (2003-12-30)
  
 4 straipsnis. Konsoliduotos finansinės
 atskaitomybės sudarymo sąlygos
@@ -115,8 +141,8 @@ Lietuvos Respublikoje, dukterinė įmonė ir atitinka vieną iš šių  sąlyg�
 2) ne mažiau kaip 90 procentų jos akcijų valdo jos
 patronuojanti įmonė ir likusieji jos akcininkai neprieštarauja, kad nebūtų
 sudaroma konsoliduota finansinė atskaitomybė.
-2. Įmonė, kuri atitinka vieną iš šio straipsnio
-1 dalyje nustatytų sąlygų, gali nesudaryti konsoliduotos finansinės
+2. Įmonė, kuri atitinka vieną iš šio
+straipsnio 1 dalyje nustatytų sąlygų, gali nesudaryti konsoliduotos finansinės
 atskaitomybės tik tuo atveju, kai:
 1) jos ir jos
 dukterinių įmonių finansinės atskaitomybės įtrauktos į kitos įmonių grupės,
@@ -128,9 +154,14 @@ nurodytą konsoliduotą finansinę atskaitomybę, pavadinimas, kodas, buveinė,
 informacija apie sprendimą atleisti nuo konsoliduotos finansinės atskaitomybės
 sudarymo ir atleidimo priežastys.
 3. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos,
-jei patronuojanti įmonė arba bent viena iš jos dukterinių įmonių yra įtraukta į
-Vertybinių popierių biržos prekybos sąrašus. Tokiu atveju patronuojanti įmonė
-privalo sudaryti konsoliduotą finansinę atskaitomybę. 
+jei patronuojančios įmonės arba bent vienos iš jos dukterinių įmonių
+vertybiniais popieriais  prekiaujama reguliuojamose rinkose. Tokiu atveju
+patronuojanti įmonė privalo sudaryti konsoliduotą finansinę atskaitomybę. 
+Straipsnio
+pakeitimai:
+Nr.
+IX-1916,
+2003-12-18, Žin., 2003, Nr. 123-5588 (2003-12-30)
  
 6 straipsnis. Išimtys, kai
 dukterinės įmonės finansinė atskaitomybė 
@@ -147,20 +178,25 @@ valdymą;
 3) informacija,
 reikalinga konsoliduotai finansinei atskaitomybei parengti, negali būti
 pateikta be ypač didelių išlaidų ir gaišaties.
-2. Dukterinės įmonės finansinė atskaitomybė
-gali būti nekonsoliduojama, jeigu ta įmonė nereikšminga įmonių grupės požiūriu.
-Įmonių grupės požiūriu dukterinė įmonė laikoma nereikšminga, jei jos turtas
-finansinių metų pabaigoje neviršija 5 procentų patronuojančios įmonės turto, o
-pardavimo grynosios pajamos per ataskaitinius metus neviršija 5 procentų
-patronuojančios įmonės pardavimo grynųjų pajamų per tą patį laikotarpį. Ši
-nuostata netaikoma, jeigu toje pačioje įmonių grupėje yra keletas tokių
-dukterinių įmonių ir jų finansinių atskaitomybių nekonsolidavus būtų pažeistas
-reikšmingumo principas bei reikalavimas teisingai atspindėti įmonių grupės
-finansinę būklę ir jos veiklos rezultatus. 
+2. Dukterinės įmonės finansinė atskaitomybė gali būti
+nekonsoliduojama, jeigu ta įmonė nereikšminga įmonių grupės požiūriu. Įmonių
+grupės požiūriu dukterinė įmonė laikoma nereikšminga, jei jos turtas finansinių
+metų pabaigoje neviršija 5 procentų patronuojančios įmonės turto, o pardavimo
+grynosios pajamos per ataskaitinius metus neviršija 5 procentų patronuojančios
+įmonės pardavimo grynųjų pajamų per tą patį laikotarpį. Ši nuostata netaikoma,
+jeigu toje pačioje įmonių grupėje yra keletas tokių dukterinių įmonių ir jų
+finansinių atskaitomybių nekonsolidavus būtų pažeistas reikšmingumo principas
+bei reikalavimas teisingai parodyti įmonių grupės finansinę būklę ir jos veiklos
+rezultatus.
 3. Jeigu dukterinės įmonės finansinė atskaitomybė
 nekonsoliduojama, kai yra šio straipsnio 2 dalyje nurodytos sąlygos,
 konsoliduotoje metinėje finansinėje atskaitomybėje jos finansinė būklė ir
-rezultatai turi būti atspindėti taikant nuosavybės metodą. 
+veiklos rezultatai turi būti parodyti taikant nuosavybės metodą.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1916,
+2003-12-18, Žin., 2003, Nr. 123-5588 (2003-12-30)
  
 ANTRASIS
 SKIRSNIS
@@ -182,23 +218,29 @@ visumą.
 8 straipsnis. Reikalavimai konsoliduotai finansinei
 atskaitomybei
 1. Konsoliduota finansinė atskaitomybė turi būti
-sudaryta taip, kad teisingai atspindėtų įmonių grupės turtą, įsipareigojimus,
-nuosavą kapitalą, finansinę būklę ir veiklos rezultatus, kapitalo ir rezervų
-kilmę ir dydį pagal ataskaitinio laikotarpio paskutinės dienos duomenis, taip
-pat to laikotarpio pajamų ir sąnaudų esmę ir dydį.
+sudaryta taip, kad tikrai ir teisingai parodytų įmonių grupės turtą,
+įsipareigojimus, nuosavą kapitalą, finansinę būklę ir veiklos rezultatus,
+kapitalo ir rezervų kilmę ir dydį pagal ataskaitinio laikotarpio paskutinės
+dienos duomenis, pinigų srautus, taip pat to laikotarpio pajamų ir sąnaudų esmę
+ir dydį.
 2. Konsoliduota finansinė atskaitomybė sudaroma
 naudojant Lietuvos Respublikos piniginį vienetą – litą.
 3. Konsoliduota finansinė atskaitomybė sudaroma
 vadovaujantis Buhalterinės apskaitos įstatymu, Įmonių finansinės atskaitomybės
-įstatymu, šiuo Įstatymu ir Verslo apskaitos standartais. 
+įstatymu, šiuo Įstatymu ir Verslo apskaitos standartais. Įmonės, kurių
+vertybiniais popieriais  prekiaujama reguliuojamose rinkose, konsoliduotą
+finansinę atskaitomybę sudaro vadovaudamosi Tarptautiniais apskaitos
+standartais.
 4. Jei Verslo apskaitos standartų nuostatų nepakanka
-teisingai atspindėti įmonių grupės turtą, nuosavą kapitalą, įsipareigojimus,
-finansinę būklę arba veiklos rezultatus, įmonės gali pateikti papildomą
-informaciją arba nukrypti nuo Verslo apskaitos standartų, kad būtų įvykdytas
-šio Įstatymo reikalavimas teisingai atspindėti įmonių grupės finansinę būklę.
-Kiekvienas toks atvejis, jo priežastys bei poveikis įmonių grupės turtui,
-nuosavam kapitalui, įsipareigojimams, finansinei būklei ir veiklos rezultatams
-turi būti nurodyti aiškinamajame rašte.
+šio Įstatymo 8 straipsnio 1 dalies reikalavimams įvykdyti, įmonės turi pateikti
+papildomą informaciją. Išskirtiniais atvejais, kai pagal Verslo apskaitos
+standartus parengta konsoliduota finansinė atskaitomybė prieštarauja šio
+straipsnio 1 dalies reikalavimams, galima nukrypti nuo Verslo apskaitos
+standartų, kad būtų įvykdytas šio straipsnio 1 dalies reikalavimas tikrai ir
+teisingai parodyti įmonių grupės finansinę būklę, veiklos rezultatus ir pinigų
+srautus. Kiekvienas toks atvejis, jo priežastys bei poveikis įmonių grupės
+turtui, nuosavam kapitalui, įsipareigojimams, finansinei būklei ir veiklos
+rezultatams turi būti nurodyti aiškinamajame rašte.
 5. Konsoliduotoje finansinėje atskaitomybėje turi
 būti nurodytas visas įmonių grupės turtas, įsipareigojimai ir nuosavas
 kapitalas balanso sudarymo dieną, taip pat pajamos ir sąnaudos, susijusios su
@@ -218,10 +260,10 @@ skirtis daugiau kaip trimis mėnesiais.
 taikytos šio straipsnio 7 dalies nuostatos, tai turi būti nurodyta
 aiškinamajame rašte. Be to, aiškinamajame rašte turi būti nurodyti visi svarbūs
 faktai ir ūkiniai įvykiai, susiję su atitinkamos įmonės turtu, nuosavu kapitalu
-ir įsipareigojimais, finansine būkle, pelnu (nuostoliais) ir operacijomis su
-kitomis įmonėmis, kurių finansinės atskaitomybės yra įtrauktos į konsoliduotą
-finansinę atskaitomybę, ir buvę nuo tos įmonės metinės finansinės atskaitomybės
-sudarymo dienos iki konsoliduotos finansinės atskaitomybės sudarymo dienos.
+ir įsipareigojimais, finansine būkle, pelnu (nuostoliais) ir operacijomis su kitomis
+įmonėmis, kurių finansinės atskaitomybės yra įtrauktos į konsoliduotą finansinę
+atskaitomybę, ir buvę nuo tos įmonės metinės finansinės atskaitomybės sudarymo
+dienos iki konsoliduotos finansinės atskaitomybės sudarymo dienos.
 9. Jei viena įmonė
 įsigijo kitos įmonės akcijų ir dėl to atsirado patronuojančios įmonės ir
 dukterinės įmonės santykiai, patronuojanti įmonė turi pareikalauti, kad
@@ -249,6 +291,11 @@ sudaryti, ji turi sudaryti konsoliduotą finansinę atskaitomybę pagal šio
 13. Patronuojanti įmonė privalo pasinaudoti
 kontrolės teise, siekdama užtikrinti, kad jai pareikalavus dukterinės įmonės
 laiku pateiktų informaciją, būtiną šio Įstatymo reikalavimams įvykdyti. 
+Straipsnio
+pakeitimai:
+Nr.
+IX-1916,
+2003-12-18, Žin., 2003, Nr. 123-5588 (2003-12-30)
  
 9 straipsnis. Konsoliduotos
 finansinės atskaitomybės ataskaitos ir jų sudarymo 
@@ -267,15 +314,15 @@ atskaitomybės auditas
 Konsoliduotą finansinę atskaitomybę sudarančiose
 įmonėse turi būti atliktas konsoliduotos finansinės atskaitomybės auditas.
  
-11 straipsnis. Metinės konsoliduotos
-finansinės atskaitomybės tvirtinimas 
+11 straipsnis. Metinės
+konsoliduotos finansinės atskaitomybės tvirtinimas 
 ir skelbimas
 1. Metinė
 konsoliduota finansinė atskaitomybė tvirtinama ją sudariusios įmonės įstatuose
 nustatyta tvarka.
 2. Metinę
-konsoliduotą finansinę atskaitomybę pasirašo ją sudariusios įmonės administracijos
-vadovas.
+konsoliduotą finansinę atskaitomybę pasirašo ją sudariusios įmonės
+administracijos vadovas.
 3. Metinė konsoliduota finansinė atskaitomybė turi
 būti patvirtinta ją sudariusios įmonės visuotiniame akcininkų susirinkime
 paprasta dalyvaujančių akcininkų balsų dauguma ne vėliau kaip per 4 mėnesius
@@ -304,12 +351,17 @@ BAIGIAMOSIOS
 NUOSTATOS
  
 12 straipsnis. Įstatymo įsigaliojimas
-1. Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+1. Įstatymas įsigalioja nuo 2004 m. sausio 1 d.,
+išskyrus 8 straipsnio 3 dalies nuostatas dėl Tarptautinių apskaitos standartų
+taikymo, kurios įsigalioja nuo 2005 m. sausio 1 d.
 2. Vadovaujantis šiuo Įstatymu sudaromos 2004 metų ir
 vėlesnių metų konsoliduotos finansinės atskaitomybės.
 Straipsnio pakeitimai:
 Nr. IX-1262,
 2002-12-10, Žin., 2002, Nr. 123-5547 (2002-12-24)
+Nr.
+IX-1916,
+2003-12-18, Žin., 2003, Nr. 123-5588 (2003-12-30)
  
 13 straipsnis. Sąlygos, dėl
 kurių įmonėms atidedamas konsoliduotos finansinės 
@@ -324,11 +376,14 @@ vertė (neatskaitant tarpusavio sandorių) – 2 500 000 Lt;
 3)
 vidutinis metų sąrašinis darbuotojų skaičius – 250.
 2. Šio straipsnio 1 dalies nuostatos netaikomos, jei
-patronuojančios įmonės arba bent vienos iš jos dukterinių įmonių akcijos yra
-įtrauktos į Vertybinių popierių biržos prekybos sąrašus.
+patronuojančios įmonės arba bent vienos iš jos dukterinių įmonių vertybiniais
+popieriais  prekiaujama reguliuojamose rinkose.
 Straipsnio pakeitimai:
 Nr. IX-1262,
 2002-12-10, Žin., 2002, Nr. 123-5547 (2002-12-24)
+Nr.
+IX-1916,
+2003-12-18, Žin., 2003, Nr. 123-5588 (2003-12-30)
  
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
@@ -341,6 +396,34 @@ RESPUBLIKOS
 PREZIDENTAS                                                         VALDAS
 ADAMKUS
  
+ 
+Papildyta
+priedu:
+Nr.
+IX-1916,
+2003-12-18, Žin., 2003, Nr. 123-5588 (2003-12-30)
+ 
+                                                                                                Lietuvos
+Respublikos 
+                                                                                                2001
+m. lapkričio 6 d. 
+                                                                                                įstatymo
+Nr. IX-576
+                                                                                                priedas
+ 
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+1. 1983 m. birželio 13 d. Septintoji Tarybos
+direktyva 83/349/EEB, pagrįsta Europos Bendrijų sutarties 54 straipsnio 3
+dalies g punktu, dėl konsoliduotos atskaitomybės.
+2. 2002 m.
+liepos 19 d. Europos Parlamento ir Tarybos reglamentas (EB) 
+Nr. 1606/2002 dėl Tarptautinių apskaitos standartų taikymo.
+3. 2003 m. rugsėjo 29 d. Europos
+Bendrijų Komisijos reglamentas (EB) 
+Nr. 1725/2003 dėl pagal 2002 m. liepos 19 d. Europos Parlamento ir Tarybos
+reglamentą (EB) Nr. 1606/2002 priimtų Tarptautinių apskaitos standartų.
 __________________
  
 Pakeitimai:
@@ -353,10 +436,22 @@ Nr. IX-1262,
 ĮMONIŲ KONSOLIDUOTOS FINANSINĖS
 ATSKAITOMYBĖS ĮSTATYMO 12 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1916,
+2003-12-18, Žin., 2003, Nr. 123-5588 (2003-12-30)
+ĮMONIŲ
+KONSOLIDUOTOS FINANSINĖS ATSKAITOMYBĖS ĮSTATYMO 1, 3, 5, 6, 8, 12, 13 STRAIPSNIŲ
+PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė
-(2003-01-08)
-                  autrap@lrs.lt
+Redagavo:
+Aušra Bodin (2003-12-31)
+                 
+aubodi@lrs.lt
 
