@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2FDA07C253CC"
 
 # Lietuvos Respublikos valstybinių įmonių įstatymas
 
-Suvestinė redakcija nuo 1993-07-28 iki 1993-09-28
+Suvestinė redakcija nuo 1993-09-29 iki 1993-10-12
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 92-0; Žin. 1990, Nr.30-709, i. k. 0901010ISTA000I-604
  
@@ -115,10 +115,12 @@ Nr. I-219, 1993-07-14, Žin., 1993, Nr. 31-710 (1993-07-23), i. k. 0931010ISTA00
 
 15) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus, darbo apmokėjimo sistemas, išskyrus tuos atvejus, kai pagal Lietuvos Respublikos įstatymus kainas ir kitus normatyvus reguliuoja valstybė (vietos savivaldybė);
 
-16) Steigti konsorciumus tais atvejais, kai jie steigiami kaip tikrosios ar ūkinės bendrijos. 
+16) steigti konsorciumus tais atvejais, kai jie steigiami kaip tikrosios ūkinės bendrijos.
 Įmonė taip pat gali turėti kitokias, šio įstatymo nenumatytas, civilines teises ir pareigas, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams bei įmonės įstatams.
 Papildyta straipsnio punktu:
 Nr. I-232, 1993-07-15, Žin., 1993, Nr. 32-730 (1993-07-28), i. k. 0931010ISTA000I-232
+Straipsnio punkto pakeitimai:
+Nr. I-248, 1993-09-21, Žin., 1993, Nr. 49-963 (1993-09-29), i. k. 0931010ISTA000I-248
  
 
 2. Įmonės komercinę-ūkinę veiklą valstybė gali reguliuoti tik ekonominėmis priemonėmis: subsidijomis, palūkanų normomis už įmonės turimo valstybinio kapitalo naudojimą, valstybės finansuojamais užsakymais (kontraktais) ir kitomis ekonominėmis priemonėmis. VĮ, veikiančių transporto ir ryšių šakose, kuro ir energetikos sistemoje, komunaliniame ūkyje, steigėjas turi teisę nustatyti joms privalomus darbus, taip pat reikalavimus jų kokybei. Tai gali būti taikoma ir VAĮ, jei su ja sudaryta sutartis ir jai išduotas atitinkamas leidimas ūkinei veiklai.
@@ -792,4 +794,9 @@ Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-232, 1993-07-15, Žin., 1993, Nr. 32-730 (1993-07-28), i. k. 0931010ISTA000I-232
 Dėl Lietuvos Respublikos valstybinių įmonių įstatymo papildymo
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-248, 1993-09-21, Žin., 1993, Nr. 49-963 (1993-09-29), i. k. 0931010ISTA000I-248
+Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
 
