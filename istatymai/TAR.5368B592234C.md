@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2002-02-06 iki 2002-07-02
+Suvestinė redakcija nuo 2002-07-03 iki 2003-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
  
@@ -439,6 +439,24 @@ Socialinių paslaugų teikėjai, atlikdami savo funkcijas socialinio draudimo ir
 
 
 
+101 straipsnis. Asmens duomenų tvarkymas rinkimų, referendumo, piliečių įstatymų leidybos iniciatyvos tikslais
+
+
+1. Asmens duomenų (t.y. vardo, pavardės, gimimo datos, asmens kodo, gyvenamosios vietos adreso, pilietybę, asmens tapatybę patvirtinančio dokumento numerio) tvarkymą rinkimų, referendumų, piliečių įstatymų leidybos iniciatyvos, politinių kampanijų, politinių partijų finansavimo tikslais nustato šis ir kiti įstatymai.
+
+
+
+
+2. Vyriausiosios rinkimų komisijos pagal kandidatų ar jų atstovų pateiktus pareiškinius ir kitus dokumentus sudaryta ir interneto tinklapyje paskelbta informacija apie kandidatus, taip pat kandidatų gautus balsus, rinkimų, referendumo komisijų narių, stebėtojų, atstovų, iniciatyvinių grupių narių sąrašai po rinkimų, referendumo rezultatų paskelbimo, taip pat politinės kampanijos aukotojų sąrašai po jų paskelbimo gali būti keičiami, kai taisomos kalbos klaidos ar informacija interneto tinklapyje skiriasi nuo informacijos, teisės aktų nustatytu laiku pateiktos pareiškiniuose ir kituose dokumentuose. Interneto tinklapyje negali būti skelbiami kandidatų ir kitų asmenų asmens kodai, pilietybę ar asmens tapatybę patvirtinančių dokumentų numeriai, tikslus gyvenamosios vietos adresas (gatvė, namo, buto numeris). 
+
+
+Papildyta straipsniu:
+Nr. IX-970, 2002-06-20, Žin., 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA00IX-970
+ 
+
+
+
+
 11 straipsnis. Asmens duomenų tvarkymas mokslinio tyrimo tikslais
 
 
@@ -639,7 +657,9 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-4. Šio skirsnio nuostatos taikomos tvarkant asmens duomenis automatiniu būdu. Tvarkant asmens duomenų susistemintas rinkmenas neautomatiniu būdu, šio skirsnio nuostatos taikomos tiek, kiek neprieštarauja kitiems įstatymams.
+4. Neteko galios nuo 2002-07-03
+Straipsnio dalies naikinimas:
+Nr. IX-970, 2002-06-20, Žin. 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA00IX-970
  
 
 
@@ -687,7 +707,9 @@ Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA0
 
 
 
-3. Duomenų subjekto teisė susipažinti su savo asmens duomenimis, tvarkomais neautomatiniu būdu valstybės ir savivaldybių įstaigose, įgyvendinama pagal Teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymą. 
+3. Neteko galios nuo 2002-07-03
+Straipsnio dalies naikinimas:
+Nr. IX-970, 2002-06-20, Žin. 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA00IX-970
  
 
 
@@ -1189,3 +1211,8 @@ Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-719, 2002-01-22, Žin., 2002, Nr. 13-473 (2002-02-06), i. k. 1021010ISTA00IX-719
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 1, 2, 3, 5, 7, 14, 15, 16, 18, 20, 22, 24, 26 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-970, 2002-06-20, Žin., 2002, Nr. 68-2769 (2002-07-03), i. k. 1021010ISTA00IX-970
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo papildymo 10(1) straipsniu ir 15, 17 straipsnių pakeitimo įstatymas
