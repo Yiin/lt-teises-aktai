@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.08F2F39FF20B"
 
 # Lietuvos Respublikos laukinės gyvūnijos įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2026-12-31
+Suvestinė redakcija nuo 2027-01-01
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2726, i. k. 0971010ISTAVIII-498
  
@@ -513,7 +513,10 @@ TAR pastaba. 6 straipsnio 6 dalis įsigalioja 2021 m. lapkričio 1 d.
 
 
 
-5) laikant ir veisiant kailinius žvėrelius specializuotuose ūkiuose (fermose) ūkiniais tikslais;
+5) Neteko galios nuo 2027-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2172, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18814
+ 
 
 
 
@@ -2119,7 +2122,10 @@ Leidimo introdukuoti ar reintrodukuoti turėtojo pareigos:
 
 
 
-4) kai jos laikomos ir veisiamos specializuotuose kailinių žvėrelių auginimo ūkiuose ir jais prekiaujama siekiant sudaryti veislinę bandą specializuotuose kailinių žvėrelių auginimo ūkiuose;
+4) Neteko galios nuo 2027-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2172, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18814
+ 
 
 
 
