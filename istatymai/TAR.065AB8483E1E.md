@@ -13,13 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 
 # Lietuvos Respublikos visuomenės informavimo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1996
+Redagavo: Ramun? L??ait? (1996
 
 
 
 
 Redagavo:
-Ramunė Lūžaitė (1996.12.11)
+Ramunė Lūžaitė (1996.12.13)
  
 Pakeitimai:
  
@@ -32,6 +32,16 @@ LIETUVOS
 RESPUBLIKOS VISUOMENĖS INFORMAVIMO ĮSTATYMO 30
 STRAIPSNIO
 PAPILDYMO ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-22, 96.12.05, Žin., 1996, Nr.121-2848 (96.12.14)
+LIETUVOS
+RESPUBLIKOS VISUOMENĖS INFORMAVIMO ĮSTATYMO 29 
+STRAIPSNIO
+PAKEITIMO ĮSTATYMAS 
  
 ***
 Pabaiga ***
@@ -47,8 +57,8 @@ VISUOMENĖS INFORMAVIMO
 1996 m. liepos 2 d. Nr. I-1418
                            
 Vilnius
-                   
-       I SKYRIUS
+                          
+I SKYRIUS
                      
 BENDROSIOS NUOSTATOS
     
@@ -98,8 +108,8 @@ neperiodiniams reklamos leidiniams.
 platinimui.
     
 4.  Viešosios  informacijos rengėjas - leidykla,  radijo,
-televizijos 
-stotis,  kino, garso, vaizdo  studija,  agentūra,
+televizijos
+ stotis,  kino, garso, vaizdo  studija,  agentūra,
 redakcija 
 ar  kitas ūkio subjektas, renkantis  ir  rengiantis
 informaciją
@@ -221,7 +231,7 @@ orumą,  
 privatų   gyvenimą,  dorovę  ar  ginti   konstitucinę
 santvarką.
     
-3.  Valstybės  pareigūnai  už  trukdymą  skleisti  žinias
+3.  Valstybės  pareigūnai  už  trukdymą  skleisti  žinias
 visuomenės 
 informavimo priemonėmis bei  neteisėtą  atsisakymą
 suteikti 
@@ -434,8 +444,8 @@ atvejus,  
 kai  jų  privatus  gyvenimas  gali  turėti   įtakos
 visuomenei
 .
-    
-4. Neleidžiama platinti pornografijos.
+     4.
+Neleidžiama platinti pornografijos.
     
 5.   Jeigu   nesilaikoma   šio  straipsnio   reikalavimų,
 kiekvienas 
@@ -463,7 +473,7 @@ siaurina informacijos laisvę.
 už
 skleidžiamą informaciją
     
-Kiekvieno   viešosios  informacijos  rengėjo   savininkas
+Kiekvieno   viešosios  informacijos  rengėjo   savininkas
 privalo 
 paskirti asmenį (vyriausiąjį redaktorių,  redaktorių,
 laidos  
@@ -471,7 +481,7 @@ vedėją),  kuris  atsako  už  visuomenės   informavimo
 priemonės 
 turinį.  Viešosios  informacijos  rengėjas  privalo
 parengti 
-ir patvirtinti vidaus tvarkos taisykles, jas  viešai
+ir patvirtinti vidaus tvarkos taisykles, jas  viešai
 paskelbti
 ir jų laikytis. Šiose vidaus tvarkos taisyklėse turi
 būti 
@@ -604,7 +614,7 @@ organizacijos  ar  asmenys  negali  turėti  viešosios
 informacijos
 monopolio nei jos rengimo, nei platinimo srityse.
     
-2.  Valstybė  sudaro  vienodas  ekonomines  ir  technines
+2.  Valstybė  sudaro  vienodas  ekonomines  ir  technines
 sąlygas
 viešosios informacijos rengėjų ir platintojų (išskyrus
 smurtinio  
@@ -638,7 +648,7 @@ ir platintojams
     
 Valstybė  remia viešosios informacijos rengėjų kultūrinę,
 šviečiamąją 
-veiklą.  Valstybės  finansinė  parama   viešosios
+veiklą.  Valstybės  finansinė  parama   viešosios
 informacijos
 rengėjams yra teikiama tik per Spaudos, radijo ir
 televizijos
@@ -674,8 +684,8 @@ pateikia ataskaitą Seimui apie lėšų, gautų iš biudžeto,
 paskirstymą.
     
 
-                         
-IV SKYRIUS
+                    
+     IV SKYRIUS
            
 VIEŠOSIOS INFORMACIJOS RENGĖJŲ TEISĖS,
                     
@@ -941,7 +951,7 @@ tvarką   nustato   žurnalistų   organizacijų   atstovų
 susirinkimas.
 Etikos komisijos nariai skiriami 2 metams.
     
-3.  Komisijos  darbą  organizuoja komisijos  pirmininkas,
+3.  Komisijos  darbą  organizuoja komisijos  pirmininkas,
 kurį
 komisija išsirenka iš savo narių 1 metams.
     
@@ -983,7 +993,8 @@ priimtą
 reglamentą, jos veikla finansuojama iš Spaudos, radijo
 ir
 televizijos rėmimo fondo lėšų.
-     
+    
+
     
 25 straipsnis. Žurnalistų etikos inspektorius
     
@@ -1075,9 +1086,9 @@ konkursus radijo ir televizijos programoms transliuoti
 ir
 retransliuoti, tvirtina konkursų sąlygas, priima sprendimus
 dėl   
-konkursų   rezultatų.   Pirmenybė   teikiama   stotims,
-įsipareigojančioms 
-rengti  originalios  kūrybos   kultūrinio,
+konkursų   rezultatų.   Pirmenybė   teikiama   stotims,
+įsipareigojančioms
+ rengti  originalios  kūrybos   kultūrinio,
 informacinio,
 šviečiamojo pobūdžio laidas arba tas  programas,
 kurių 
@@ -1085,8 +1096,8 @@ numatomoje  priėmimo  zonoje  dar  netransliuoja  kitos
 stotys;
     
 2)   kontroliuoja,  kaip  laikomasi  konkursams  pateiktų
-įsipareigojimų 
-dėl programų struktūros ir  turinio  bei  kitų
+įsipareigojimų
+ dėl programų struktūros ir  turinio  bei  kitų
 konkursų 
 reikalavimų,  o  atradusi  pažeidimų,  kreipiasi   į
 valstybės 
@@ -1120,7 +1131,7 @@ draugija, Lietuvos kompozitorių sąjunga,  Lietuvos
 rašytojų  
 sąjunga,   Lietuvos  periodinės   spaudos   leidėjų
 asociacija,   
-Lietuvos    dailininkų    sąjunga,     Lietuvos
+Lietuvos    dailininkų    sąjunga,     Lietuvos
 kinematografininkų  
 sąjunga,   Lietuvos    teatro    sąjunga.
 Kiekvienas 
@@ -1146,7 +1157,7 @@ dirba  pagal savo patvirtintą reglamentą.  Komisijos
 narys 
 negali būti jos pirmininku daugiau nei vieną  kadenciją
 iš 
-eilės.  Radijo  ir  televizijos komisijos  administracijos
+eilės.  Radijo  ir  televizijos komisijos  administracijos
 vadovu
 negali būti Radijo ir televizijos komisijos narys.
     
@@ -1252,29 +1263,19 @@ laikas 
 Lietuvos nacionalinio radijo ir televizijos programose
 mažinamas
 nuosekliai Seimo nustatyta tvarka.
-    
-3.   Aukščiausiasis  Lietuvos  nacionalinio   radijo   ir
-televizijos
-valdymo organas yra taryba, sudaroma 3  metams  iš
-13 
-asmenų.  3  narius  skiria Respublikos  Prezidentas,  4  -
-Seimas, 
-6  nariai  skiriami burtų  keliu  po  1  iš  Lietuvos
-periodinės 
-spaudos  leidėjų asociacijos, Lietuvos  žurnalistų
-sąjungos, 
-Lietuvos  žurnalistų draugijos,  Lietuvos  rašytojų
-sąjungos,  
-Lietuvos  kinematografininkų  sąjungos,   Lietuvos
-teatro 
-sąjungos,  Lietuvos  kompozitorių  sąjungos,  Lietuvos
-dailininkų
-sąjungos, Lietuvso architektų sąjungos. Po 3 metų 6
-parinktų 
-organizacijų  atstovai  burtų  keliu  pakeičiami   3
-organizacijų,
-kurių nebuvo taryboje pirmosios kadencijos metu,
-atstovais.
+     3. Aukščiausiasis
+Lietuvos nacionalinio radijo ir televizijos valdymo organas yra taryba,
+sudaroma 3 metams iš 15 asmenų. Savo atstovus į Lietuvos nacionalinio radijo ir
+televizijos tarybą deleguoja šios meno kūrėjų bei visuomenės organizacijos:
+Lietuvos architektų sąjunga, Lietuvos dailininkų sąjunga, Lietuvių kalbos draugija,
+Lietuvių katalikų mokslo akademija, Lietuvos kinematografininkų sąjunga,
+Lietuvos kompozitorių sąjunga, Lietuvos periodinės spaudos leidėjų asociacija,
+Lietuvos pramonės, prekybos ir amatų rūmų asociacija, Lietuvos rašytojų
+sąjunga, Lietuvos Respublikos piliečių chartija, Lietuvos šeimos centras,
+Lietuvos teatro sąjunga, Lietuvos teisininkų draugija, Lietuvos žurnalistų
+draugija, Lietuvos žurnalistų sąjunga. Lietuvos nacionalinio radijo ir
+televizijos tarybos sudarymą organizuoja Seimo Švietimo, mokslo ir kultūros
+komitetas.
     
 4.  Politinių  partijų nariai, paskirti  į  tarybą,  turi
 sustabdyti
@@ -1287,6 +1288,11 @@ programų mastus ir struktūrą, konkurso būdu skiria
 ir 
 atleidžia  generalinį direktorių,  taip  pat  tvirtina  jo
 pavaduotojus.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-22, 96.12.05, Žin., 1996, Nr.121-2848 (96.12.14)
                               
 
                           
@@ -1320,7 +1326,7 @@ bendraturtis ar akcininkas jis yra.
 būti
 asmuo, kuriam teismo nuosprendžiu tai uždrausta.
     
-4.   Viešosios   informacijos   rengėjo   ar   platintojo
+4.   Viešosios   informacijos   rengėjo   ar   platintojo
 savininkas 
 gali  bet  kada nutraukti  ar  reorganizuoti  savo
 veiklą 
@@ -1371,7 +1377,7 @@ nustatyta tvarka.
     
 32 straipsnis. Informacijos platinimas ir jos ribojimas
     
-1.   Informaciją   visuomenei  platina   pats   viešosios
+1.   Informaciją   visuomenei  platina   pats   viešosios
 informacijos 
 rengėjas arba kitas fizinis ar  juridinis  asmuo
 pagal 
