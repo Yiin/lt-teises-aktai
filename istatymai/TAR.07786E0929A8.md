@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2001-11-08
+Suvestinė redakcija nuo 2001-11-09 iki 2005-07-13
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
  
@@ -48,10 +48,10 @@ Išradimų apsaugos forma yra patentas, kurį išduoda Lietuvos Respublikos vals
 
 
 
-2 straipsnis. Patentabilūs išradimai
+2 straipsnis. Patentabilūs išradimai 
 
 
-Išradimai yra patentabilūs, jeigu jie yra nauji, išradimo lygio ir turi pramoninį pritaikomumą.
+Bet kokios technikos srities išradimai yra patentabilūs, jeigu jie yra nauji, išradimo lygio ir turi pramoninį pritaikomumą.
 
 
 
@@ -69,7 +69,7 @@ Išradimais nelaikomi:
 
 
 
-3) žaidimų, intelektinės ir ūkinės veiklos planai, taisyklės ir būdai, taip pat skaičiavimo mašinų programos;
+3) žaidimų, intelektinės arba ūkinės veiklos planai, taisyklės ir būdai, taip pat kompiuterių programos;
 
 
 
@@ -81,15 +81,32 @@ Išradimais nelaikomi:
 
 
 
-Patentai neišduodami už žmonių ir gyvūnų gydymo, ligų diagnozavimo ir profilaktikos būdus (išskyrus įrenginius ir medžiagas, kurie naudojami tiems būdams), augalų ir gyvūnų veisles, biologinius (išskyrus mikrobiologinius) jų išvedimo būdus, išradimus, prieštaraujančius visuomenės interesams, moralės ir humaniškumo principams.
+Patentai neišduodami už:
+
+
+1) žmonių arba gyvūnų gydymo terapinius arba chirurginius būdus, ligų diagnozavimo ir profilaktikos būdus, kurie taikomi žmogaus arba gyvūno kūnui. Ši nuostata netaikoma, jeigu išradimo objektas yra įrenginys arba medžiaga, naudojami tiems būdams;
 
 
 
 
-Jeigu išradimo objektas yra būdas, tai patentinė apsauga suteikiama ir tuo būdu pagamintam gaminiui.
+2) augalų arba gyvūnų veisles ar iš esmės biologinius jų išvedimo būdus. Ši nuostata netaikoma mikrobiologiniams augalų arba gyvūnų produkavimo būdams bei tokiais būdais gautiems produktams;
+
+
+
+
+3) išradimus, kurių komercinis panaudojimas prieštarautų visuomenės interesams, moralės ir humaniškumo principams. Sprendimai neišduoti patentų negali būti priimami vien dėl to, kad naudoti tokius išradimus draudžia įstatymai ar kiti teisės aktai. 
+
+
+
+
+
+
+Jeigu išradimo objektas yra būdas, tai patentinė apsauga suteikiama ir tuo būdu pagamintam gaminiui. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-568, 2001-10-30, Žin., 2001, Nr. 94-3308 (2001-11-09), i. k. 1011010ISTA00IX-568
  
-
-
 
 
 
@@ -143,19 +160,17 @@ Pramoninį pritaikomumą turi išradimas, kurį galima pagaminti ar panaudoti pr
 Išradimo patentabilumui pripažinti netrukdo informacijos apie jį paskleidimas, jeigu ši informacija buvo paskleista per 6 mėnesius iki patentinės paraiškos padavimo datos ir jeigu ją paskleidė:
 
 
-1) pats išradėjas arba jo teisių perėmėjas, turėjęs teisę į patentą iki patentinės paraiškos padavimo datos;
+1) asmuo, norėdamas pakenkti išradėjui arba jo teisių perėmėjui;
 
 
 
 
-2) kitas asmuo, norėdamas pakenkti išradėjui arba jo teisių perėmėjui;
+2) išradėjas arba jo teisių perėmėjas, eksponuodamas išradimą oficialioje ar oficialiai pagal Tarptautinių parodų konvenciją, pasirašytą 1928 m. lapkričio 22 d. Paryžiuje, pripažintoje parodoje. 
 
 
-
-
-3) išradėjas arba jo teisių perėmėjas, eksponuodamas išradimą oficialioje ar oficialiai pagal Tarptautinių parodų konvenciją, pasirašytą 1928 m. lapkričio 22 d. Paryžiuje, pripažintoje parodoje.
-
-
+Straipsnio dalies pakeitimai:
+Nr. IX-568, 2001-10-30, Žin., 2001, Nr. 94-3308 (2001-11-09), i. k. 1011010ISTA00IX-568
+ 
 
 
 
@@ -681,7 +696,10 @@ Patento savininkas neturi teisės trukdyti kitiems asmenims atlikti pirmojoje ir
 
 
 
-2) atliekami eksperimentiniams arba mokslinio tyrimo tikslams;
+2) atliekami eksperimentiniams arba mokslinių tyrimų tikslams ir tai netrukdo normaliai naudoti patentą ir nepagrįstai nepažeidžia teisėtų patento savininko interesų; 
+Straipsnio punkto pakeitimai:
+Nr. IX-568, 2001-10-30, Žin., 2001, Nr. 94-3308 (2001-11-09), i. k. 1011010ISTA00IX-568
+ 
 
 
 
@@ -825,7 +843,10 @@ NUOSAVYBĖS TEISĖS PAKEITIMAS
 31 straipsnis. Patentinės paraiškos ar patento nuosavybės teisės pakeitimas
 
 
-Sutartis dėl patentinės paraiškos ar patento perleidimo turi būti sudaryta raštu ir notaro patvirtinta.
+Sutartis dėl patentinės paraiškos ar patento perleidimo turi būti sudaryta raštu. 
+Straipsnio dalies pakeitimai:
+Nr. IX-568, 2001-10-30, Žin., 2001, Nr. 94-3308 (2001-11-09), i. k. 1011010ISTA00IX-568
+ 
 
 
 
@@ -1145,7 +1166,17 @@ Jeigu licenciatas įrodo, kad norint išvengti nuostolių reikia imtis neatidėl
 
 
 
-Jeigu patento objektas yra gaminio gamybos būdas ir atsakovo gaminamas gaminys yra naujas ir yra pagrindo spėti, jog jis gaminamas pažeidžiant patentą, o ieškovas negali nustatyti, kokiu būdu pagamintas gaminys, tai atsakovas privalo įrodyti, kad gaminys nepažeidžia patento.
+Jeigu patento objektas yra gaminio gamybos būdas ir atsakovo gaminamas gaminys yra tapatus patentuotu gamybos būdu pagamintam gaminiui arba yra pagrindas spėti, jog jis gaminamas pažeidžiant patentą, o ieškovas negali nustatyti, kokiu būdu pagamintas gaminys, tai atsakovas privalo įrodyti, kad tapataus gaminio gamybos būdas yra kitoks negu patentuotasis būdas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-568, 2001-10-30, Žin., 2001, Nr. 94-3308 (2001-11-09), i. k. 1011010ISTA00IX-568
+ 
+
+
+
+
+Kai pateikiami įrodymai, kad tapataus gaminio gamybos būdas yra kitoks negu patentuotasis būdas, turi būti užtikrinta atsakovo gamybos bei komercinių paslapčių apsauga. 
+Papildyta straipsnio dalimi:
+Nr. IX-568, 2001-10-30, Žin., 2001, Nr. 94-3308 (2001-11-09), i. k. 1011010ISTA00IX-568
  
 
 
@@ -1677,3 +1708,8 @@ Lietuvos Respublikos patentų įstatymo 26, 39, 40 straipsnių pakeitimo ir papi
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-118, 2000-12-21, Žin., 2000, Nr. 113-3612 (2000-12-30), i. k. 1001010ISTA00IX-118
 Lietuvos Respublikos patentų įstatymo papildymo 41(1) straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-568, 2001-10-30, Žin., 2001, Nr. 94-3308 (2001-11-09), i. k. 1011010ISTA00IX-568
+Lietuvos Respublikos patentų įstatymo 2, 6, 26, 31, 41 straipsnių pakeitimo ir įstatymo papildymo 27(1) straipsniu įstatymas
