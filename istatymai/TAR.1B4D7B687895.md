@@ -205,23 +205,34 @@ kurso reguliavimo sistemą ir skelbia oficialų lito kursą;
 naudoja Lietuvos banko užsienio atsargas ir jomis disponuoja;
 5) atlieka
 valstybės iždo agento funkcijas;
+ 
+1 dalies 6 punkto redakcija iki
+2004 m. gegužės 1 d.:
 6) išduoda bei
 atšaukia licencijas Lietuvos Respublikos kredito įstaigoms ir prižiūri jų
 veiklą, taip pat išduoda ir atšaukia leidimus steigti užsienio valstybių
 kredito įstaigų skyrius bei atstovybes ir jiems veikti bei prižiūri užsienio
 valstybių kredito įstaigų skyrių, veikiančių Lietuvos Respublikoje, veiklą
 įstatymų ir kitų teisės aktų nustatyta tvarka; 
+1 dalies 6 punkto redakcija nuo
+2004 m. gegužės 1 d.:
+6) įstatymų ir kitų teisės aktų nustatytais atvejais
+ir tvarka išduoda bei atšaukia licencijas Lietuvos Respublikos kredito
+įstaigoms bei užsienio valstybių kredito įstaigų filialams ir prižiūri jų
+veiklą, taip pat atlieka kitas įstatymų nustatytas funkcijas, susijusias su
+kredito įstaigų veikla;
+ 
 7) nustato
-Lietuvos Respublikos kredito įstaigų ir užsienio valstybių kredito įstaigų skyrių,
-veikiančių Lietuvos Respublikoje, finansinės apskaitos principus ir
+Lietuvos Respublikos kredito įstaigų ir užsienio valstybių kredito įstaigų
+skyrių, veikiančių Lietuvos Respublikoje, finansinės apskaitos principus ir
 atskaitomybės tvarką; 
 8)
 skatina patvarų ir veiksmingą mokėjimo ir vertybinių popierių atsiskaitymo
 sistemų veikimą;
 9) renka pinigų
 ir bankų, mokėjimo balanso, Lietuvos finansinės ir su ja susijusios statistikos
-duomenis, diegia šios statistikos surinkimo, atskaitomybės, jos skelbimo
-standartus, sudaro Lietuvos Respublikos mokėjimų balansą.
+duomenis, diegia šios statistikos surinkimo, atskaitomybės, jos skelbimo standartus,
+sudaro Lietuvos Respublikos mokėjimų balansą.
 2.
 Lietuvos bankas vykdo veiklą, reikalingą šio straipsnio 1 dalyje numatytoms
 funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei
@@ -230,6 +241,9 @@ Straipsnio pakeitimai:
 Nr.
 IX-1598,
 2003-06-05, Žin., 2003, Nr. 61-2755 (2003-06-27)
+Nr.
+IX-2069,
+2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
  
 9
 straipsnis. Lietuvos banko teisės aktai
@@ -284,19 +298,19 @@ pirmininko teikimu.
  
 6 dalies redakcija iki 2004 m.
 gegužės 1 d.:
-6. Lietuvos banko valdybos pirmininkas, jo pavaduotojai
-ir valdybos nariai į šias pareigas gali būti skiriami ne daugiau kaip dvi
-kadencijas iš eilės.
+6. Lietuvos banko valdybos pirmininkas, jo
+pavaduotojai ir valdybos nariai į šias pareigas gali būti skiriami ne daugiau
+kaip dvi kadencijas iš eilės.
 6 dalies redakcija nuo 2004 m.
 gegužės 1 d.:
 6. Lietuvos
-banko valdybos pirmininkas į šias pareigas gali būti skiriamas neribojant
-kadencijų skaičiaus. Valdybos pirmininko pavaduotojai ir valdybos nariai į šias
-pareigas gali būti skiriami ne daugiau kaip dvi kadencijas iš eilės.
+banko valdybos pirmininkas į šias pareigas gali būti skiriamas neribojant kadencijų
+skaičiaus. Valdybos pirmininko pavaduotojai ir valdybos nariai į šias pareigas
+gali būti skiriami ne daugiau kaip dvi kadencijas iš eilės.
  
 7. Atlyginimo dydį Lietuvos banko
-valdybos pirmininko pavaduotojams ir valdybos nariams nustato valdyba,
-atsižvelgdama į valdybos pirmininko atlyginimo dydį.
+valdybos pirmininko pavaduotojams ir valdybos nariams nustato valdyba, atsižvelgdama
+į valdybos pirmininko atlyginimo dydį.
 Straipsnio pakeitimai:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
@@ -365,8 +379,17 @@ ataskaitą ir finansinių metų pelno paskirstymą;
  
 17) nustato Lietuvos banko turto valdymo,
 naudojimo ir disponavimo juo tvarką ir sąlygas, taip pat pirkimų tvarką;
+ 
+1 dalies 18 punkto redakcija iki
+2004 m. gegužės 1 d.:
 18) išduoda ir
 atšaukia licencijas ir leidimus kredito įstaigoms;
+1 dalies 18 punkto redakcija nuo
+2004 m. gegužės 1 d.:
+18) sprendžia
+klausimus dėl įstatymuose nustatytų licencijų, leidimų, sutikimų išdavimo
+kredito įstaigoms ir jų atšaukimo;
+ 
 19) vykdo
 kitą veiklą, susijusią su Lietuvos banko pagrindinio tikslo įgyvendinimu.
  
@@ -385,6 +408,9 @@ išskyrus šio straipsnio 1 dalies 1, 2, 3, 4, 6, 7, 9, 10, 12, 13, 14, 15, 16,
 Straipsnio pakeitimai:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
+Nr.
+IX-2069,
+2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
  
 12
 straipsnis. Lietuvos banko valdybos narių atleidimas iš pareigų
@@ -408,14 +434,14 @@ nuo 2004 m. gegužės 1 d.:
 Lietuvos banko valdybos pirmininkas sprendimą dėl atleidimo prieš terminą turi
 teisę per du mėnesius nuo sprendimo paskelbimo dienos arba nuo pranešimo apie
 jį gavimo dienos, arba, jei to nebuvo padaryta, nuo tos dienos, kurią ieškovas
-apie jį sužinojo, apskųsti Europos Teisingumo Teismui, motyvuodamas Europos
-Bendrijos steigimo sutarties ar kitos teisės normos, susijusios su minėtos
-sutarties taikymu, pažeidimu. Lietuvos banko valdybos pirmininko pavaduotojai
-ir valdybos nariai sprendimą dėl atleidimo prieš terminą turi teisę apskųsti
-Lietuvos Respublikos įstatymų nustatyta tvarka.
+apie jį sužinojo, apskųsti Europos Teisingumo Teismui, motyvuodamas Europos Bendrijos
+steigimo sutarties ar kitos teisės normos, susijusios su minėtos sutarties
+taikymu, pažeidimu. Lietuvos banko valdybos pirmininko pavaduotojai ir valdybos
+nariai sprendimą dėl atleidimo prieš terminą turi teisę apskųsti Lietuvos
+Respublikos įstatymų nustatyta tvarka.
 Straipsnio pakeitimai:
-Nr. IX-1998, 2004-02-05,
-Žin., 2004, Nr. 28-869 (2004-02-21)
+Nr. IX-1998,
+2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
  
 13
 straipsnis. Lietuvos banko valdybos narių atsistatydinimas
@@ -494,8 +520,8 @@ terminą, negali būti kredito įstaigų tarybų ar valdybų nariais.
 m. gegužės 1 d.:
 16
 straipsnis. Lietuvos banko valdybos narių veiklos apribojimas
-1. Lietuvos banko
-valdybos pirmininkas, jo pavaduotojai ir valdybos nariai gali dirbti tik
+1. Lietuvos
+banko valdybos pirmininkas, jo pavaduotojai ir valdybos nariai gali dirbti tik
 Lietuvos banke, tik šiose pareigose ir negali verstis jokia kita veikla, kuri
 sukeltų viešųjų ir privačių interesų konfliktą. Lietuvos banko valdyba gali
 jiems duoti sutikimą dirbti mokslinį ar pedagoginį darbą.
@@ -641,9 +667,8 @@ kad Lietuvos banko tarnautojai vengia viešųjų ir privačių interesų konflik
 nepasinaudoja valstybės, tarnybos ir banko paslaptį sudarančia informacija ir
 nesudaro galimybių kitiems asmenims pasinaudoti ja savo ar kitų asmenų
 interesams, gali nustatyti, kokią informaciją apie asmeninę ir šeimos finansinę
-veiklą jie privalo pateikti Lietuvos bankui, taip pat gali nustatyti
-apribojimus sudaryti atitinkamus finansinius sandorius ir verstis tam tikra
-veikla.
+veiklą jie privalo pateikti Lietuvos bankui, taip pat gali nustatyti apribojimus
+sudaryti atitinkamus finansinius sandorius ir verstis tam tikra veikla.
 Įstatymas papildytas straipsniu:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
@@ -652,9 +677,9 @@ Nr. IX-1998,
 m. gegužės 1 d.:
 19
 straipsnis. Lietuvos banko paslaptis
-1. Lietuvos banko paslaptis yra banko veiklos ir tarnybos
-paslaptį sudaranti informacija. Tarnybos paslaptį sudarančios informacijos
-detalius sąrašus nustato ir tvirtina Lietuvos banko valdyba.
+1. Lietuvos banko paslaptis yra banko veiklos ir
+tarnybos paslaptį sudaranti informacija. Tarnybos paslaptį sudarančios
+informacijos detalius sąrašus nustato ir tvirtina Lietuvos banko valdyba.
 2. Lietuvos banko paslaptis negali būti banko
 tarnautojų atlyginimai, taip pat banko tarnautojams suteikiamų paskolų ir kitų
 finansinių paslaugų suteikimo sąlygos.
@@ -694,8 +719,7 @@ su banko paslaptį sudarančia informacija bei jos naudojimo tvarką tvirtina
 Lietuvos banko valdybos pirmininkas.
 5. Nagrinėjant
 bylas teismuose, banko paslaptį sudarančios informacijos apsaugai taikomos
-Lietuvos Respublikos įstatymų nuostatos, užtikrinančios komercinės paslapties
-apsaugą.
+Lietuvos Respublikos įstatymų nuostatos, užtikrinančios komercinės paslapties apsaugą.
 Straipsnio pakeitimai:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
@@ -728,8 +752,8 @@ valdyba.
 m. gegužės 1 d.:
 20
 straipsnis. Lietuvos banko kapitalas
-1. Lietuvos
-banko kapitalą sudaro įstatinis kapitalas ir atsargos kapitalas.
+1. Lietuvos banko
+kapitalą sudaro įstatinis kapitalas ir atsargos kapitalas.
 2.
 Įstatinis kapitalas – 200 mln. litų. Jis sudaromas iš Lietuvos valstybės lėšų
 ir (ar) Lietuvos banko pelno.
@@ -791,9 +815,9 @@ dalyse nustatyta tvarka.
 m. gegužės 1 d.:
 23
 straipsnis. Lietuvos banko nuostolio padengimas ir pelno paskirstymas
-1. Operacijos,
-susijusios su Lietuvos banko nuostolio padengimu ir pelno paskirstymu,
-atliekamos po metinės finansinės ataskaitos patvirtinimo.
+1. Operacijos, susijusios
+su Lietuvos banko nuostolio padengimu ir pelno paskirstymu, atliekamos po
+metinės finansinės ataskaitos patvirtinimo.
 2. Finansinių
 metų nuostolis dengiamas Lietuvos banko atsargos kapitalu.
 3. Finansinių
@@ -849,15 +873,15 @@ ir jų taikymo tvarką.
  
 26
 straipsnis. Rediskonto operacijos
-1. Lietuvos
-bankas turi teisę savo nustatyta tvarka ir sąlygomis rediskontuoti kredito
-įstaigoms vekselius ir kitus skolinius įsipareigojimus.
+1. Lietuvos bankas
+turi teisę savo nustatyta tvarka ir sąlygomis rediskontuoti kredito įstaigoms
+vekselius ir kitus skolinius įsipareigojimus.
 2. Lietuvos
 bankas nustato bendrą sumą rediskonto operacijoms bei maksimalią sumą
 kiekvienai kredito įstaigai atskirai.
  
-27
-straipsnis. Lietuvos banko paskolos
+27 straipsnis.
+Lietuvos banko paskolos
 1. Lietuvos
 bankas turi teisę savo nustatyta tvarka, sąlygomis ir terminais duoti paskolas
 litais Lietuvos Respublikoje įregistruotoms kredito įstaigoms, turinčioms savo
@@ -941,8 +965,8 @@ straipsnis. Užsienio atsargų struktūra
 Užsienio
 atsargas gali sudaryti:
 1) auksas;
-2) užsienio valiuta
-banknotais ir monetomis;
+2) užsienio
+valiuta banknotais ir monetomis;
 3) turtas
 užsienio valiuta užsienyje;
 4) specialios
@@ -981,12 +1005,12 @@ AGENTO FUNKCIJOS
  
 37 straipsnio redakcija iki 2004
 m. gegužės 1 d.:
-37 straipsnis.
-Skolinimo teisės apribojimas
+37
+straipsnis. Skolinimo teisės apribojimas
 Lietuvos bankui
-draudžiama skolinti Vyriausybei ir kitoms valstybės vykdomosios valdžios
-įstaigoms, valstybės ir savivaldybių įmonėms arba pirkti jų vertybinių popierių
-pirminėje rinkoje.
+draudžiama skolinti Vyriausybei ir kitoms valstybės vykdomosios valdžios įstaigoms,
+valstybės ir savivaldybių įmonėms arba pirkti jų vertybinių popierių pirminėje
+rinkoje.
 37 straipsnio redakcija nuo 2004
 m. gegužės 1 d.:
 37
@@ -1025,30 +1049,46 @@ Lietuvos bankas
 pagal sutartį su Finansų ministerija gali organizuoti Vyriausybės vertybinių
 popierių išleidimą, išpirkimą ir palūkanų už juos išmokėjimą.
  
-40 straipsnis.
-Valstybės skolos tvarkymas
+40
+straipsnis. Valstybės skolos tvarkymas
 Lietuvos bankas
 pagal sutartį su Finansų ministerija gali tvarkyti valstybės skolą.
  
 41
 straipsnis. Vyriausybės konsultavimas
 Lietuvos bankas
-gali konsultuoti ir teikti pasiūlymus Vyriausybei finansų rinkos ir Valstybės iždo
-politikos klausimais.
+gali konsultuoti ir teikti pasiūlymus Vyriausybei finansų rinkos ir Valstybės
+iždo politikos klausimais.
  
 SEPTINTASIS
 SKIRSNIS
 KREDITO
 ĮSTAIGŲ LICENCIJAVIMAS IR PRIEŽIŪRA
  
+42 straipsnio redakcija iki 2004
+m. gegužės 1 d.:
 42
 straipsnis. Kredito įstaiga
-Kredito įstaiga
-– tai bankas, kitas juridinis asmuo ar užsienio valstybės kredito įstaigos
-padalinys, kurių veikla pagal teisės aktus priskiriama kredito įstaigų veiklai
-ir kurie turi Lietuvos banko išduotą licenciją ar leidimą atlikti įstatymų
-numatytas operacijas.
+Kredito
+įstaiga – tai bankas, kitas juridinis asmuo ar užsienio valstybės kredito
+įstaigos padalinys, kurių veikla pagal teisės aktus priskiriama kredito įstaigų
+veiklai ir kurie turi Lietuvos banko išduotą licenciją ar leidimą atlikti
+įstatymų numatytas operacijas.
+42 straipsnio redakcija nuo 2004
+m. gegužės 1 d.:
+42 straipsnis. Kredito įstaiga
+Kredito
+įstaiga – tai bankas, kitas juridinis asmuo ar užsienio valstybės kredito
+įstaigos padalinys, kuris turi Lietuvos banko išduotą licenciją teikti
+licencines finansines paslaugas.
+Straipsnio
+pakeitimai:
+Nr.
+IX-2069,
+2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
  
+43 straipsnio redakcija iki 2004
+m. gegužės 1 d.:
 43
 straipsnis. Kredito įstaigų licencijavimas
 1. Be Lietuvos
@@ -1057,6 +1097,21 @@ banko licencijos ar leidimo negalima verstis kredito įstaigos veikla.
 leidimų suteikimo sąlygas ir tvarką nustato kredito įstaigų steigimą bei jų
 veiklą reglamentuojantys ir kiti Lietuvos Respublikos įstatymai bei Lietuvos
 banko leidžiami teisės aktai.
+43 straipsnio redakcija nuo 2004
+m. gegužės 1 d.:
+43
+straipsnis. Kredito įstaigų licencijavimas
+1. Lietuvos bankas kredito
+įstaigoms išduoda licencijas teikti licencines finansines paslaugas.
+2. Licencijų
+suteikimo sąlygas ir tvarką nustato kredito įstaigų steigimą bei jų veiklą
+reglamentuojantys ir kiti Lietuvos Respublikos įstatymai bei Lietuvos banko
+teisės aktai.
+Straipsnio
+pakeitimai:
+Nr.
+IX-2069,
+2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
  
 44
 straipsnis. Kredito įstaigų veiklos riziką ribojančių normatyvų nustatymas
@@ -1064,6 +1119,8 @@ Lietuvos bankas
 nustato kredito įstaigų veiklos riziką ribojančius normatyvus, jų dydžius ir
 skaičiavimo metodiką.
  
+45 straipsnio redakcija iki 2004
+m. gegužės 1 d.:
 45
 straipsnis. Kredito įstaigų veiklos priežiūra
 1. Lietuvos
@@ -1082,6 +1139,37 @@ turto ir įsipareigojimų valdymo bei vadovavimo kredito įstaigai efektyvumo
 vertinimas; ekonominių ir kitų teisės aktuose nustatytų poveikio priemonių
 taikymas kredito įstaigoms, kurios nevykdo teisės aktų reikalavimų dėl saugios
 ir patikimos veiklos.
+45 straipsnio redakcija nuo 2004
+m. gegužės 1 d.:
+45
+straipsnis. Kredito įstaigų veiklos priežiūra
+1. Lietuvos
+bankas įstatymų ir kitų teisės aktų nustatyta tvarka prižiūri Lietuvos banko
+išduotą licenciją turinčių kredito įstaigų veiklą.
+2.
+Lietuvos banko licenciją turinčių kredito įstaigų veiklos priežiūra – tai: 
+1)
+licencijavimas - prašymų
+dėl įstatymuose nustatytų licencijų, leidimų, sutikimų išdavimo nagrinėjimas ir
+sprendimų priėmimas bei kita su tuo susijusi veikla;
+2) priežiūrai
+atlikti reikalingos iš kredito įstaigų ataskaitų forma gautos informacijos
+kaupimas, analizė, kredito įstaigų veiklos bei finansinės būklės vertinimas
+šios informacijos pagrindu, atsižvelgiant į teisės aktuose nustatytus kredito
+įstaigų veiklos riziką ribojančius normatyvus bei kitus reikalavimus;
+3) kredito
+įstaigų inspektavimas -
+tikrinimas, ar teisingai sudarytos Lietuvos bankui pateiktos finansinės
+ataskaitos, taip pat kredito įstaigos veiklos bei finansinės būklės (kapitalo,
+aktyvų kokybės, pelningumo), rizikų (kredito, likvidumo, rinkos, operacinės ir
+kitų) valdymo bei vadovavimo kredito įstaigai efektyvumo vertinimas;
+4) įstatymuose
+nustatytų poveikio priemonių taikymas kredito įstaigoms.
+Straipsnio
+pakeitimai:
+Nr.
+IX-2069,
+2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
  
 46
 straipsnis. Lietuvos banko teisės atliekant kredito įstaigų veiklos priežiūrą
@@ -1090,28 +1178,64 @@ bankas, atlikdamas kredito įstaigų veiklos priežiūrą, turi teisę:
 1) gauti
 priežiūros funkcijai atlikti reikalingą informaciją iš valstybės institucijų,
 kredito įstaigų, jų dukterinių įmonių bei kitų įmonių, įstaigų, organizacijų;
+ 
+1 dalies 2 punkto redakcija iki
+2004 m. gegužės 1 d.:
 2) inspektuoti
 licenciją ar leidimą turinčias kredito įstaigas, tikrinti jų sąskaitas,
 buhalterinius ir kitus dokumentus;
+1 dalies 2 punkto redakcija nuo
+2004 m. gegužės 1 d.:
+2) inspektuoti
+(tikrinti) Lietuvos banko išduotą licenciją turinčias kredito įstaigas, o
+įstatymų nustatytais atvejais - ir kitus asmenis;
+ 
+1 dalies 3 punkto redakcija iki
+2004 m. gegužės 1 d.:
 3) įstatymų
 numatytais atvejais ir tvarka taikyti poveikio priemones licenciją ar leidimą
 turinčioms kredito įstaigoms, jeigu jos pažeidė įstatymus bei Lietuvos banko
 teisės aktus, reglamentuojančius kredito įstaigų veiklą;
+1 dalies 3 punkto redakcija nuo
+2004 m. gegužės 1 d.:
+3) įstatymų
+nustatytais atvejais ir tvarka taikyti poveikio priemones Lietuvos banko
+išduotą licenciją turinčioms kredito įstaigoms ir kitiems asmenims;
+ 
 4) imtis
 priemonių, reikalingų efektyviam kredito sistemos funkcionavimui užtikrinti.
+ 
+2 dalies redakcija iki 2004 m.
+gegužės 1 d.:
 2. Informacija,
 kurią Lietuvos bankas gauna iš valstybės institucijų, kredito įstaigų, įmonių,
 įstaigų, organizacijų priežiūros tikslui, negali būti skelbiama viešai ar kam
 nors perduota, išskyrus valdymo, kontrolės ir teisėsaugos institucijas įstatymų
 numatytais atvejais.
+2 dalies redakcija nuo 2004 m.
+gegužės 1 d.:
+2. Informacija, kurią Lietuvos bankas gauna kredito
+įstaigų priežiūros tikslui, negali būti skelbiama viešai, kam nors perduodama
+ar kitokiu būdu padaroma prieinama, išskyrus kredito įstaigų veiklą
+reglamentuojančių įstatymų numatytus atvejus.
+ 
 3. Kredito įstaigą
 inspektuojantys Lietuvos banko tarnautojai turi teisę gauti visus dokumentus ir
 informaciją, susijusią su kredito įstaigos ar jos dukterinės įmonės veikla bei
 finansine būkle.
+3 dalis netenka galios nuo 2004
+m. gegužės 1 d.
 4. Lietuvos banko
 nustatyta tvarka Lietuvos banko tarnautojai turi teisę dalyvauti kredito
 įstaigos valdymo organų darbe – dalyvauti posėdžiuose stebėtojų teisėmis ar
 kitaip stebėti valdymo organų ir kredito įstaigų administracijos veiklą.
+4 dalis netenka galios nuo 2004
+m. gegužės 1 d.
+Straipsnio
+pakeitimai:
+Nr.
+IX-2069,
+2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
  
 Įstatymas papildomas 46(1)
 straipsniu nuo 2004 m. gegužės 1 d.:
@@ -1147,6 +1271,8 @@ asmuo, iš kurio priteistos išlaidos.
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
  
+47 straipsnio redakcija iki 2004
+m. gegužės 1 d.:
 47
 straipsnis. Bendradarbiavimas su kitų valstybių kredito įstaigų priežiūros
 institucijomis
@@ -1161,10 +1287,25 @@ institucijos informacija, susijusi su nusikalstama veika, gali būti perduota
 dirbantys asmenys pagal jų veiklą reglamentuojančius teisės aktus gautą
 informaciją privalo laikyti paslaptyje ir yra užsienio valstybės kredito
 įstaigų priežiūros institucijos sutikimas informaciją atskleisti.
+47 straipsnio redakcija nuo 2004
+m. gegužės 1 d.:
+47
+straipsnis. Bendradarbiavimas su kitų valstybių kredito įstaigų priežiūros
+institucijomis 
+Atlikdamas kredito
+įstaigų priežiūros funkcijas, Lietuvos bankas turi teisę keistis su kitų
+valstybių kredito įstaigų priežiūros institucijomis informacija apie bet kurios
+kredito įstaigos veiklą, užtikrindamas tokios informacijos konfidencialumą.
+Gauta iš kitos kredito įstaigų priežiūros institucijos informacija gali būti perduodama
+kitiems asmenims tik kredito įstaigų veiklą reglamentuojančių įstatymų
+numatytais atvejais.
 Straipsnio pakeitimai:
 Nr.
 IX-1465,
 2003-04-03, Žin., 2003, Nr. 38-1710 (2003-04-24)
+Nr.
+IX-2069,
+2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
  
 AŠTUNTASIS
 SKIRSNIS
@@ -1188,9 +1329,9 @@ centrinio banko rekomendacijomis.
 1 dalies redakcija nuo 2004 m.
 gegužės 1 d.:
 1. Lietuvos
-bankas finansinę apskaitą tvarko ir metinę finansinę ataskaitą parengia
-vadovaudamasis Europos centrinio banko rekomendacijomis, nustatytomis Europos
-centrinių bankų sistemoje dalyvaujantiems centriniams bankams.
+bankas finansinę apskaitą tvarko ir metinę finansinę ataskaitą parengia vadovaudamasis
+Europos centrinio banko rekomendacijomis, nustatytomis Europos centrinių bankų
+sistemoje dalyvaujantiems centriniams bankams.
  
 2.
 Lietuvos banko metinę finansinę ataskaitą sudaro balansas, pelno (nuostolio)
@@ -1281,10 +1422,10 @@ straipsniu nuo 2004 m. gegužės 1 d.:
 54(1) straipsnis. Poveikio priemonės, susijusios su statistinės informacijos pateikimo pažeidimais
 Lietuvos bankas
 turi teisę skirti baudas ir delspinigius finansų įstaigoms už Lietuvos banko nustatytos statistinės informacijos
-pateikimo pažeidimus. Baudų ir delspinigių dydį, jų taikymo tvarką ir su tuo
-susijusios medžiagos saugojimo terminus nustato Lietuvos bankas, vadovaudamasis
-tuo, kad poveikio priemonės turi būti objektyviai pagrįstos, nediskriminacinės
-ir proporcingos siekiamam tikslui bei pažeidimo pobūdžiui.
+pateikimo pažeidimus. Baudų ir delspinigių dydį, jų taikymo tvarką ir su tuo susijusios
+medžiagos saugojimo terminus nustato Lietuvos bankas, vadovaudamasis tuo, kad
+poveikio priemonės turi būti objektyviai pagrįstos, nediskriminacinės ir
+proporcingos siekiamam tikslui bei pažeidimo pobūdžiui.
 Įstatymas papildytas straipsniu:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
@@ -1295,8 +1436,8 @@ Lietuvos bankas
 ne rečiau kaip vieną kartą per mėnesį leidžia informacinius biuletenius apie
 pinigų ir finansų rinkos būklę.
  
-56 straipsnis.
-Atsargos kapitalo sudarymo ypatumai
+56
+straipsnis. Atsargos kapitalo sudarymo ypatumai
 Įsigaliojus šiam įstatymui,
 Lietuvos bankas sukauptą bendros paskirties rezervą perkelia į atsargos
 kapitalą.
@@ -1310,8 +1451,8 @@ rinkliavų, išskyrus šio įstatymo 24 straipsnio 1 dalyje numatytą įmoką.
  
 58
 straipsnis. Lietuvos banko 2000 metų pelno paskirstymas
-1. Lietuvos banko 2000 metų
-pelnas skirstomas šia eile:
+1. Lietuvos banko 2000 metų pelnas
+skirstomas šia eile:
 1) 10 procentų –
 Lietuvos banko įstatiniam kapitalui sudaryti;
 2) 50 procentų –
@@ -1445,11 +1586,22 @@ TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2004
 m. gegužės 1 d. 
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2069,
+2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
+LIETUVOS
+BANKO ĮSTATYMO 8, 11, 42, 43, 45, 46 IR 47 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-03-03)
+Aušrinė Trapinskienė (2004-04-22)
                  
 autrap@lrs.lt
