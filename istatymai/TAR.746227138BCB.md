@@ -21,11 +21,6 @@ MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ
 ĮSTATYMAS
 1998 m. gruodžio 1 d. Nr. VIII-947
 Vilnius
-
-
-
-
- 
 I
 SKYRIUS
 BENDROSIOS
@@ -38,9 +33,13 @@ vyrų lygios teisės, bei uždrausti bet kokią tiesioginę ir netiesioginę
 diskriminaciją dėl asmens lyties.
 2. Įstatymo nuostatos nėra taikomos
 šeimos ir privataus gyvenimo srityse. 
+3. Šio įstatymo nuostatos suderintos su
+Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 Straipsnio pakeitimai:
 Nr. IX-956,
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
+Nr. IX-2346,
+2004-07-13, Žin., 2004, Nr. 115-4280 (2004-07-24)
  
 2 straipsnis. Pagrindinės šio įstatymo
 sąvokos
@@ -81,6 +80,20 @@ Straipsnio pakeitimai:
 Nr. IX-956,
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
  
+2(1)
+straipsnis. Įrodinėjimo pareiga
+Teismuose ar kitose kompetentingose
+institucijose nagrinėjant fizinių asmenų skundus ir pareiškimus, taip pat
+asmenų ginčus dėl diskriminacijos lyties pagrindu, preziumuojama,
+kad tiesioginės
+ar netiesioginės diskriminacijos faktas buvo. Skundžiamas asmuo ar institucija
+turi įrodyti, kad lygių teisių principas nebuvo pažeistas.
+Įstatymas
+papildytas straipsniu:
+Nr.
+IX-2346,
+2004-07-13, Žin., 2004, Nr. 115-4280 (2004-07-24)
+ 
 II
 SKYRIUS
 MOTERŲ
@@ -111,8 +124,8 @@ vyrų
 lygias teises 
 1. Švietimo ir mokslo įstaigos
 privalo užtikrinti moterims ir vyrams vienodas sąlygas:
-1) priimant į profesinio mokymo įstaigas,
-aukštesniąsias, aukštąsias mokyklas ir kvalifikacijos kėlimo kursus;
+1) priimant į profesinio mokymo
+įstaigas, aukštesniąsias, aukštąsias mokyklas ir kvalifikacijos kėlimo kursus;
 2) skiriant stipendijas bei teikiant
 kreditus studijoms;
 3) parenkant mokymo programas;
@@ -180,9 +193,9 @@ straipsnis. Moterų ir vyrų lygias teises pažeidžiantys švietimo įstaigų, 
 ir 
 studijų
 institucijų veiksmai
-Švietimo įstaigų, mokslo ir studijų
-institucijų veiksmai pripažįstami pažeidžiančiais moterų ir vyrų lygias teises,
-jeigu dėl asmens lyties:
+Švietimo įstaigų, mokslo ir studijų institucijų
+veiksmai pripažįstami pažeidžiančiais moterų ir vyrų lygias teises, jeigu dėl
+asmens lyties:
 1) taikomi skirtingi reikalavimai ir
 sąlygos priimant mokytis ar studijuoti, rengiant mokymo programas, vertinant
 žinias;
@@ -334,8 +347,8 @@ jeigu moterų ir vyrų lygių galimybių kontrolierius nenusprendžia kitaip.
  
 19 straipsnis. Skundo reikalavimai 
 1. Skunde turi būti:
-1) adresatas - moterų ir vyrų lygių galimybių
-kontrolierius;
+1) adresatas - moterų ir vyrų lygių
+galimybių kontrolierius;
 2) pareiškėjo vardas, pavardė ar
 institucijos pavadinimas ir adresas;
 3) apskundžiamų institucijų pavadinimai
@@ -422,10 +435,10 @@ darbuotojų.
 pažyma, kurioje nurodoma tyrimo metu nustatytos aplinkybės, surinkti įrodymai
 bei veiksmų juridinis įvertinimas. Pažymą pasirašo moterų ir vyrų lygių
 galimybių kontrolierius.
-4. Su tyrimo rezultatais
-supažindinamas skundo autorius, institucijos, kurioje buvo atliekamas tyrimas,
-vadovas ir asmuo, kurio veiksmai buvo tiriami. Jiems išsiunčiami arba įteikiami
-pažymos nuorašai.
+4. Su tyrimo rezultatais supažindinamas
+skundo autorius, institucijos, kurioje buvo atliekamas tyrimas, vadovas ir
+asmuo, kurio veiksmai buvo tiriami. Jiems išsiunčiami arba įteikiami pažymos
+nuorašai.
  
 24 straipsnis. Moterų ir vyrų lygių
 galimybių kontrolieriaus sprendimai
@@ -474,9 +487,9 @@ garantijos
 kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio
 darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Kiti priedai ar premijos moterų
 ir vyrų lygių galimybių kontrolieriui nemokami.
-2. Pradėjus įgyvendinti Lietuvos
-Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo
-įstatymo nustatytą darbo apmokėjimo sistemą, moterų ir vyrų lygių galimybių
+2. Pradėjus įgyvendinti Lietuvos Respublikos
+valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo
+nustatytą darbo apmokėjimo sistemą, moterų ir vyrų lygių galimybių
 kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
 3. Moterų ir vyrų lygių galimybių
 kontrolierius valstybiniu socialiniu draudimu draudžiamas Valstybinio
@@ -517,8 +530,8 @@ NUOSTATOS
 29 straipsnis. Pasiūlymai Lietuvos
 Respublikos Vyriausybei 
 Pasiūlyti Vyriausybei per 10 dienų nuo
-šio įstatymo įsigaliojimo Moterų ir vyrų lygių galimybių kontrolieriaus tarnybai
-skirti patalpas.
+šio įstatymo įsigaliojimo Moterų ir vyrų lygių galimybių kontrolieriaus
+tarnybai skirti patalpas.
  
 30 straipsnis. Įstatymo įsigaliojimas
 Šis įstatymas įsigalioja 1999 m. kovo 1
@@ -528,7 +541,6 @@ Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
  
- 
 
 
 
@@ -536,6 +548,30 @@ priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                              VALDAS
 ADAMKUS
+ 
+ 
+                                                              Lietuvos
+Respublikos moterų 
+                                                                       ir
+vyrų lygių galimybių įstatymo
+                                                                       priedas
+
+ 
+Įgyvendinami Europos
+Sąjungos teisės aktai
+ 
+1. 1997 m. gruodžio 15 d. Tarybos
+direktyva 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose.
+2. 1998 m. liepos 13 d. Tarybos 
+direktyva 98/52/EB, išplečianti Direktyvos 97/80/EB dėl įrodinėjimo
+pareigos diskriminacijos dėl lyties bylose taikymą Didžiosios Britanijos ir
+Šiaurės Airijos Jungtinei Karalystei.
+Įstatymas
+papildytas priedu:
+Nr.
+IX-2346,
+2004-07-13, Žin., 2004, Nr. 115-4280 (2004-07-24)
+ 
  
 ______________
  
@@ -588,11 +624,21 @@ Nr. IX-1771,
 MOTERŲ
 IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 27 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2346,
+2004-07-13, Žin., 2004, Nr. 115-4280 (2004-07-24)
+MOTERŲ
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO, ĮSTATYMO PAPILDYMO
+2(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-11-05)
+Aušrinė Trapinskienė (2004-09-06)
                  
 autrap@lrs.lt
