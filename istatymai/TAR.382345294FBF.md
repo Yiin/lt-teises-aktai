@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.382345294FBF"
 
 # Lietuvos Respublikos elektroninio parašo įstatymas
 
+Suvestinė redakcija nuo 2002-06-26 iki 2013-07-12
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 61-1827, i. k. 1001010ISTAIII-1822
+ 
 LIETUVOS RESPUBLIKOS
 ELEKTRONINIO PARAŠO
 Į S T A T Y M A S
@@ -122,9 +126,15 @@ PARAŠO KŪRIMAS, TIKRINIMAS, GALIOJIMAS, PARAŠO NAUDOTOJŲ TEISĖS IR ATSAKOMY
 
 1. Pasirašančių asmenų sertifikatus sudaro ir tvarko sertifikavimo paslaugų teikėjai. 
 
-2. Fizinis asmuo, prašantis sertifikavimo paslaugų teikėjo sudaryti jo sertifikatą, privalo pateikti tapatybę patvirtinančius dokumentus. 
+2. Fizinis asmuo, prašantis sertifikavimo paslaugų teikėjo sudaryti jo sertifikatą, privalo pateikti tapatybę ir kitus pageidaujamus sertifikate nurodyti duomenis patvirtinančius dokumentus. 
+Straipsnio dalies pakeitimai:
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
+ 
 
-3. Fizinis asmuo, kurio prašymu buvo sudarytas sertifikatas, už pateiktų asmens tapatybę patvirtinančių dokumentų tikrumą atsako pagal Lietuvos Respublikos įstatymus. 
+3. Fizinis asmuo, kurio prašymu buvo sudarytas sertifikatas, už pateiktų dokumentų tikrumą atsako pagal Lietuvos Respublikos įstatymus. 
+Straipsnio dalies pakeitimai:
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
+ 
 
 4. Sertifikavimo paslaugų teikėjas sustabdo sertifikato galiojimą:
 
@@ -152,11 +162,26 @@ PARAŠO KŪRIMAS, TIKRINIMAS, GALIOJIMAS, PARAŠO NAUDOTOJŲ TEISĖS IR ATSAKOMY
 
 7) pasirašančiam asmeniui pažeidus elektroninio parašo naudojimą reglamentuojančius teisės aktus arba sutarties su sertifikavimo paslaugų teikėju sąlygas;
 
-8) kitais įstatymų numatytais atvejais.
+8) asmens, kuriam pagal sertifikate nurodytą informaciją pasirašantis asmuo turi teisę atstovauti, prašymu; 
+Papildyta straipsnio punktu:
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
+ 
+
+9) kitais įstatymų numatytais atvejais.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
+ 
 
 7. Pasirašantis asmuo privalo nedelsdamas kreiptis į jo sertifikatą sudariusį sertifikavimo paslaugų teikėją dėl sertifikato galiojimo nutraukimo, jeigu prarado sertifikatą atitinkančių parašo formavimo duomenų kontrolę. 
 
-8. Žalą, padarytą neteisėtu sertifikato galiojimo sustabdymu ar nutraukimu, privalo atlyginti dėl to kalti asmenys Lietuvos Respublikos įstatymų nustatyta tvarka. 
+8. Pasirašantis asmuo privalo nedelsdamas pranešti jo sertifikatą sudariusiam sertifikavimo paslaugų teikėjui apie duomenų, nurodytų sertifikate, pasikeitimus, pateikdamas tai patvirtinančius dokumentus. Duomenų pasikeitimą patvirtinančių dokumentų nereikia pateikti, jei pranešama apie teisių, nurodytų sertifikate, apimties sumažėjimą. 
+Papildyta straipsnio dalimi:
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
+ 
+
+9. Žalą, padarytą neteisėtu sertifikato galiojimo sustabdymu ar nutraukimu, privalo atlyginti dėl to kalti asmenys Lietuvos Respublikos įstatymų nustatyta tvarka. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
  
 
 5 straipsnis. Užsienio valstybių sertifikatų galiojimas
@@ -172,8 +197,6 @@ PARAŠO KŪRIMAS, TIKRINIMAS, GALIOJIMAS, PARAŠO NAUDOTOJŲ TEISĖS IR ATSAKOMY
 4) už sertifikatą laiduoja Europos Sąjungos valstybės sertifikavimo paslaugų teikėjas, atitinkantis ekvivalentiškus Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus kvalifikuotus sertifikatus sudarantiems sertifikavimo paslaugų teikėjams. 
 
 2. Lietuvos Respublikoje taip pat pripažįstami tie užsienio valstybių sertifikavimo paslaugų teikėjai ir jų sudaryti sertifikatai, kurių pripažinimas paremtas Lietuvos Respublikos tarptautinėmis sutartimis. 
- 
- 
  
 
 6 straipsnis. Elektroninio parašo kūrimas
@@ -207,6 +230,15 @@ PARAŠO KŪRIMAS, TIKRINIMAS, GALIOJIMAS, PARAŠO NAUDOTOJŲ TEISĖS IR ATSAKOMY
 3) kad nėra paremtas akredituoto sertifikavimo paslaugų teikėjo išduotu kvalifikuotu sertifikatu; 
 
 4) kad nėra sukurtas saugia parašo formavimo įranga. 
+
+3. Elektroninis parašas visais atvejais turi šio straipsnio 1 dalyje įtvirtintą teisinę galią, jeigu parašų naudotojai tarpusavyje dėl to susitaria. 
+Papildyta straipsnio dalimi:
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
+ 
+
+4. Juridinio asmens atstovo elektroninio parašo galia yra prilyginama juridinio asmens atstovo parašo, patvirtinto juridinio asmens antspaudu, galiai rašytiniuose dokumentuose, atsižvelgiant į elektroninio parašo galią pagal šio straipsnio 1, 2 ir 3 dalis. 
+Papildyta straipsnio dalimi:
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
  
 
 TREČIASIS SKIRSNIS
@@ -320,7 +352,14 @@ ELEKTRONINIO PARAŠO PRIEŽIŪRA
 
 10) palaiko ryšį su atitinkamomis elektroninio parašo priežiūros institucijomis užsienyje, keičiasi informacija, ją kaupia ir viešai skelbia; 
 
-11) atlieka kitas funkcijas, apibrėžtas šios institucijos nuostatuose. 
+11) ne vėliau kaip iki kiekvienų metų balandžio 1 d. parengia kasmetines šio įstatymo įgyvendinimo ataskaitas ir jas pateikia Vyriausybei ir Seimui; 
+Papildyta straipsnio punktu:
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
+ 
+
+12) atlieka kitas funkcijas, apibrėžtas šios institucijos nuostatuose. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
  
 
 15 straipsnis. Elektroninio parašo priežiūros institucijos teisės 
@@ -339,11 +378,12 @@ BAIGIAMOSIOS NUOSTATOS
 
 16 straipsnis. Įstatymo įgyvendinimas
 
-1. Pasiūlyti Vyriausybei per 6 mėnesius nuo šio įstatymo įsigaliojimo parengti ir priimti įstatymui įgyvendinti reikalingus teisės aktus. 
+1. Teisės aktus, kuriuos pagal šio įstatymo 14 straipsnio 2 dalies 1, 2 ir 6 punktus rengia elektroninio parašo priežiūros institucija, tvirtina Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
+ 
 
 2. Šio įstatymo 5 straipsnio 1 dalies 2 ir 4 punktai įsigalioja Lietuvos Respublikai tapus Europos Sąjungos nare. 
- 
- 
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -351,4 +391,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
+Lietuvos Respublikos elektroninio parašo įstatymo 4, 8, 14, 16 straipsnių pakeitimo ir papildymo įstatymas
 
