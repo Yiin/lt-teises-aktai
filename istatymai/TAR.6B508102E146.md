@@ -43,6 +43,14 @@ zonų įmonės akcizų nemoka.
 2. Už naftos produktus, pagamintus akcinėje bendrovėje
 “Mažeikių nafta”, nesvarbu, iš kieno naftos šie produktai pagaminti, akcizus
 apskaičiuoja, surenka ir moka akcinė bendrovė “Mažeikių nafta”.
+3. Šio įstatymo 5 straipsnio 2 dalyje nurodytu atveju
+akcizą į biudžetą moka ir kiti, nei šio straipsnio 1 ir 2 dalyse nurodyti,
+asmenys.
+Straipsnio
+pakeitimai:
+Nr. VIII-1553, 00.02.17, Žin., 2000,
+Nr.22-554 (00.03.15)
+ 
  
 3 straipsnis. Akcizų objektas
 1. Akcizų objektas yra šios prekės:
@@ -72,7 +80,8 @@ alkoholio koncentracijos dydžius.
 straipsnio 1 dalyje nurodytos ne Lietuvos prekės, dėl kurių pagal Lietuvos
 Respublikos muitinės kodeksą (toliau - Muitinės kodeksas) atsiranda importo
 skola muitinei. 
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. VIII-901, 98.10.20, Žin., 1998,
 Nr.96-2657 (98.11.04)
 Nr. VIII-982, 98.12.21, Žin., 1998,
@@ -99,8 +108,32 @@ tomis prekėmis disponuoti. Šiuose dokumentuose turi būti Buhalterinės apskai
 pagrindų įstatymo 10 straipsnyje nurodyti privalomi rekvizitai;
 2) importuojamas - Muitinės kodekso nustatytais
 atvejais, kai atsiranda skola muitinei. 
-2. Akcizai yra prekių kainos elementas ir
-sąskaitose-faktūrose bei mokėjimo dokumentuose nenurodomi.
+2. Šio įstatymo 6 straipsnio 1 dalies 9 ir 11 punktuose
+nurodytos įmonės Lietuvos Respublikos Vyriausybės nustatyta tvarka privalo
+apskaičiuoti ir sumokėti šio įstatymo 5(1) straipsnyje nustatyto
+dydžio akcizą už perduotą (parduotą ar kitaip perleistą nuosavybėn) arba
+panaudotą be akcizo įsigytą ar importuotą orlaivių variklių ar laivų kurą,
+išskyrus, kai:
+1) orlaivių variklių kuras perduotas ar panaudotas
+pripildyti (aprūpinti atsargomis) orlaivius, gabenančius keleivius ir (arba)
+krovinius tarptautiniais ar vietiniais maršrutais arba teikiančius kitokias
+paslaugas už atlyginimą, orlaivius, dalyvaujančius tarptautinėse karinėse
+pratybose, ar orlaivius, naudojamus valstybės ar savivaldos institucijų
+funkcijoms vykdyti;
+2) laivų kuras perduotas ar panaudotas pripildyti
+(aprūpinti atsargomis) laivus, gabenančius keleivius ir (arba) krovinius
+tarptautiniais ar vietiniais maršrutais arba teikiančius kitokias paslaugas už
+atlyginimą, laivus, naudojamus valstybės ar savivaldos institucijų funkcijoms
+vykdyti, ar žvejybos laivus.
+3. Akcizai yra prekių kainos elementas ir
+sąskaitose-faktūrose bei mokėjimo dokumentuose nenurodomi, išskyrus akcizą už
+cukrų. Akcizas už cukrų nurodomas Lietuvos Respublikos Vyriausybės nustatyta
+tvarka.
+Straipsnio
+pakeitimai:
+Nr. VIII-1553, 00.02.17, Žin., 2000,
+Nr.22-554 (00.03.15)
+ 
  
 5(1 )straipsnis. Akcizų tarifai 
 1. Prekės apmokestinamos taikant šiuos akcizų tarifus:
@@ -213,24 +246,26 @@ gaminti šiuos gėrimus;
 7) eksportuotos prekės;
 8) importuojamos prekės, jei jos atleidžiamos nuo
 importo muitų pagal Lietuvos Respublikos muitų tarifų įstatymą.
-9) įmonių, orlaiviais
-gabenančių keleivius ir (arba) krovinius tarptautiniais oro maršrutais,
-importuojamas ir įsigyjamas iš Lietuvos gamintojų reaktyvinių variklių kuras
-(kodą pagal KPN nustato Vyriausybė). Įmonių, kurioms taikoma ši lengvata,
-sąrašą nustato Vyriausybė. Į šį sąrašą įtraukiamos visos Lietuvos Respublikos
-įmonės, kurių pajamos iš keleivių ir (arba) krovinių gabenimo tarptautiniais
-maršrutais per paskutiniuosius 12 mėnesių sudaro ne mažiau kaip 75 procentus
-visų realizavimo pajamų;
-10) Lietuvos Respublikos
-įmonių, gaminančių cigaretes, importuojamas tabakas (kodą pagal KPN nustato
-Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata, sąrašą
-nustato Vyriausybė. Tuo atveju, kai nurodytas tabakas šiose įmonėse bus
+9) orlaivių variklių kuras (kodus pagal KPN nustato
+Vyriausybė), kurį importuoja ar įsigyja iš Lietuvos gamintojų įmonės, turinčios
+licenciją verstis naftos produktų importu, prekyba ar eksportu, jeigu šioje
+licencijoje nurodyta, kad įmonė verčiasi orlaivių (lėktuvų) pripildymu, taip
+pat nurodyti šio kuro kodai pagal KPN;
+10) Lietuvos
+Respublikos įmonių, gaminančių cigaretes, importuojamas tabakas (kodą pagal KPN
+nustato Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata,
+sąrašą nustato Vyriausybė. Tuo atveju, kai nurodytas tabakas šiose įmonėse bus
 panaudotas ne cigaretėms gaminti, o kitiems tikslams, nurodytos įmonės turi
-apskaičiuoti ir sumokėti už jį nustatyto dydžio akcizą.
+apskaičiuoti ir sumokėti už jį nustatyto dydžio akcizą;
+11) laivų kuras
+(kodus pagal KPN nustato Vyriausybė), kurį importuoja ar įsigyja iš Lietuvos
+gamintojų įmonės, turinčios licenciją verstis naftos produktų importu, prekyba
+ar eksportu, jeigu šioje licencijoje nurodyta, kad įmonė verčiasi laivų
+pripildymu (bunkeravimu), taip pat nurodyti šio kuro kodai pagal KPN.
 2. Be to, akcizas netaikomas, kai etilo alkoholis bei
 etilo alkoholio turinčios žaliavos parduodami: 
-1) Lietuvos Respublikos įmonėms actui ir akcizu apmokestinamiems
-alkoholiniams gėrimams gaminti;
+1) Lietuvos Respublikos įmonėms actui ir akcizu
+apmokestinamiems alkoholiniams gėrimams gaminti;
 2) farmacijos įmonėms
 ir medicinos pagalbos įstaigoms - medicinos ir farmacijos reikmėms;
 veterinarinių vaistų gamybos įmonėms - veterinarinių vaistų gamybai ir
@@ -245,10 +280,10 @@ nepriklausanti alaus darykla, kurios gamybinės patalpos yra fiziškai atskirtos
 nuo bet kokios kitos alaus daryklos ir kuri nevykdo savo veiklos pagal kitos
 įmonės suteiktą licenciją. Šios lengvatos taikymo tvarką nustato Lietuvos
 Respublikos Vyriausybė ar jos įgaliota institucija.
-4. Degtinei, kurios alkoholio koncentracija didesnė kaip
-30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri atitinka
-Vyriausybės nustatytus technologinius bei kokybės reikalavimus, taikomas
-mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio
+4. Degtinei, kurios alkoholio koncentracija didesnė
+kaip 30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri
+atitinka Vyriausybės nustatytus technologinius bei kokybės reikalavimus,
+taikomas mažesnis akcizo tarifas - 0,27 lito už 1 procentą tūrinės alkoholio
 koncentracijos litre gėrimo. Ši lengvata pradedama taikyti Vyriausybei priėmus
 atitinkamą nutarimą.
 Straipsnio
@@ -261,6 +296,8 @@ Nr. VIII-1321, 99.07.08, Žin., 1999,
 Nr.66-2132 (99.07.30)
 Nr. VIII-1494, 99.12.23, Žin., 1999,
 Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
+Nr. VIII-1553, 00.02.17, Žin., 2000,
+Nr.22-554 (00.03.15)
  
  
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
@@ -341,8 +378,8 @@ Vyriausybė ar jos įgaliota institucija nustato akcizų
 apskaičiavimo ir mokėjimo tvarką.
 Straipsnio
 pakeitimai:
-Nr. VIII-982, 98.12.21, Žin., 1998, Nr.114-3194
-(98.12.30), įsigalioja nuo 1999.01.01
+Nr. VIII-982, 98.12.21, Žin., 1998,
+Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
  
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
@@ -475,6 +512,23 @@ AKCIZŲ ĮSTATYMO 3, 5(1),
 Šis įstatymas įsigalioja nuo 2000
 m. sausio 1 d., o 2 straipsnio 1 dalyje išdėstytas 5(1) straipsnio 1
 dalies 8 punktas - nuo 2000 m. kovo 1 d.
+ 
+15.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1553, 00.02.17, Žin., 2000,
+Nr.22-554 (00.03.15)
+AKCIZŲ ĮSTATYMO 2, 5, 6
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2000 m. balandžio 1 d., išskyrus šio įstatymo 2
+straipsnio 1 dalies nuostatas, susijusias su laivų pripildymu (aprūpinimu
+atsargomis), taip pat šio įstatymo 3 straipsnyje išdėstytą 6 straipsnio 1
+dalies 11 punktą.
+Šio įstatymo 2 straipsnio 1
+dalies nuostatos, susijusios su laivų pripildymu (aprūpinimu atsargomis), taip
+pat šio įstatymo 3 straipsnyje išdėstytas 6 straipsnio 1 dalies 11 punktas
+įsigalioja nuo 2000 m. gegužės 15 d.
  
 *** Pabaiga ***
  
