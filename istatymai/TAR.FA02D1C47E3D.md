@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Suvestinė redakcija nuo 1990-07-17 iki 1990-10-26
+Suvestinė redakcija nuo 1990-10-27 iki 1991-01-11
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
  
@@ -86,11 +86,19 @@ Lietuvos Respublikos Vyriausybės nariu gali būti tik Lietuvos pilietis, skiria
 
 Lietuvos Respublikos Vyriausybės Pirmininką (Ministrą Pirmininką) Aukščiausiosios Tarybos Pirmininko teikimu skiria ir atleidžia Lietuvos Respublikos Aukščiausioji Taryba.
 
-Lietuvos Respublikos Vyriausybės Pirmininko (Ministro Pirmininko) teikimu, atsižvelgiant į Lietuvos Respublikos Aukščiausios Tarybos nuolatinių komisijų išvadas, Lietuvos Respublikos Aukščiausioji Taryba tvirtina ir atleidžia Lietuvos Respublikos ministrus.
+Lietuvos Respublikos Vyriausybės Pirmininko (Ministro Pirmininko) teikimu, atsižvelgdama į nuolatinių komisijų išvadas, Aukščiausioji Taryba skiria ir atleidžia Vyriausybės narius
+Straipsnio dalies pakeitimai:
+Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-753 (1990-11-10), i. k. 0901010ISTA000I-693
+ 
 
-Lietuvos Respublikos Aukščiausiajai Tarybai atsisakius skirti pateiktą ministro kandidatūrą, Lietuvos Respublikos Vyriausybės pirmininkas (Ministras Pirmininkas) pateikia Lietuvos Respublikos Aukščiausiajai Tarybai svarstyti naują kandidatūrą.
+Lietuvos Respublikos Aukščiausiajai Tarybai atsisakius skirti pateiktą Vyriausybės nario kandidatūrą, Ministras Pirmininkas pateikia svarstyti naują kandidatūrą
+Straipsnio dalies pakeitimai:
+Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-753 (1990-11-10), i. k. 0901010ISTA000I-693
+ 
 
-Lietuvos Respublikos Aukščiausioji Taryba sudaro Lietuvos Respublikos Vyriausybę ne vėliau kaip per mėnesį nuo personalinės Lietuvos Respublikos Vyriausybės sudėties pateikimo dienos.
+Lietuvos Respublikos Aukščiausioji Taryba sudaro Lietuvos Respublikos Vyriausybę ne vėliau kaip per du mėnesius po ankstesniosios Vyriausybės įgaliojimų grąžinimo. Jeigu per mėnesį nuo naujos Vyriausybės personalinės sudėties pateikimo Aukščiausioji Taryba nepaskiria dviejų trečdalių Vyriausybės narių, arba per du mėnesius po ankstesniosios Vyriausybės įgaliojimų grąžinimo - visos Vyriausybės, o Aukščiausioji Taryba nepriima nutarimo pratęsti šiuos terminus, Ministras Pirmininkas atsistatydina. 
+Straipsnio dalies pakeitimai:
+Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-753 (1990-11-10), i. k. 0901010ISTA000I-693
  
 
 5 straipsnis. Lietuvos Respublikos Vyriausybės veiklos programa
@@ -126,7 +134,10 @@ Lietuvos Respublikos Vyriausybė atsakinga Lietuvos Respublikos Aukščiausiajai
 
 Lietuvos Respublikos Vyriausybė ne rečiau kaip kartą per metus atsiskaito apie savo darbą Lietuvos Respublikos Aukščiausiajai Tarybai.
 
-Lietuvos Respublikos ministras Lietuvos Respublikos Aukščiausiosios Tarybos sprendimu atsiskaito jai apie savo darbą.
+Lietuvos Respublikos Vyriausybės narys Lietuvos Respublikos Aukščiausiosios Tarybos sprendimu atsiskaito jai už darbą. 
+Straipsnio dalies pakeitimai:
+Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-753 (1990-11-10), i. k. 0901010ISTA000I-693
+ 
 
 Lietuvos Respublikos Vyriausybė arba Lietuvos Respublikos ministras, kuriam Lietuvos Respublikos Aukščiausiosios Tarybos sesijoje pateiktas Lietuvos Respublikos Aukščiausiosios Tarybos deputato paklausimas dėl Lietuvos Respublikos Vyriausybės arba jai pavaldžių organų veiklos, privalo žodžiu ar raštu duoti atsakymą Lietuvos Respublikos Aukščiausiosios Tarybos nustatyta tvarka.
 
@@ -143,7 +154,9 @@ Kiekvienas Lietuvos Respublikos ministras turi teisę atsistatydinti.
 
 Lietuvos Respublikos Vyriausybės Pirmininkui (Ministrui Pirmininkui) atsistatydinus, visa Lietuvos Respublikos Vyriausybė grąžina įgaliojimus.
 
-Atsistatydinusi Lietuvos Respublikos Vyriausybė vykdo savo pareigas, kol bus sudaryta nauja Lietuvos Respublikos Vyriausybė.
+Atsistatydinusi Lietuvos Respublikos Vyriausybė Aukščiausiosios Tarybos pavedimu vykdo savo pareigas, kol bus sudaryta nauja Lietuvos Respublikos Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-753 (1990-11-10), i. k. 0901010ISTA000I-693
  
 
 9 straipsnis. Nepasitikėjimas Lietuvos Respublikos Vyriausybe
@@ -152,7 +165,9 @@ Lietuvos Respublikos Aukščiausioji Taryba gali pareikšti nepasitikėjimą Lie
 
 Sprendimas dėl nepasitikėjimo Lietuvos Respublikos Vyriausybe arba Lietuvos Respublikos ministru priimamas , jeigu už tokį sprendimą slaptu balsavimu balsavo du trečdaliai bendro deputatų skaičiaus.
 
-Pareiškus nepasitikėjimą Lietuvos Respublikos Vyriausybe arba Lietuvos Respublikos Ministru, visa Lietuvos Respublikos Vyriausybė arba tas Lietuvos Respublikos Ministras privalo atsistatydinti. Lietuvos Respublikos Vyriausybė arba Lietuvos Respublikos ministras vykdo savo pareigas, kol bus sudaryta nauja Lietuvos Respublikos Vyriausybė arba paskirtas naujas Lietuvos Respublikos ministras.
+Pareiškus nepasitikėjimą Lietuvos Respublikos Vyriausybe arba Lietuvos Respublikos ministru, visa Vyriausybė arba tas ministras privalo atsistatydinti. Lietuvos Respublikos Vyriausybė arba Lietuvos Respublikos ministras Aukščiausiosios Tarybos pavedimu vykdo savo pareigas, kol bus sudaryta nauja Vyriausybė arba paskirtas naujas ministras. 
+Straipsnio dalies pakeitimai:
+Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-753 (1990-11-10), i. k. 0901010ISTA000I-693
  
 
 10 straipsnis. Lietuvos Respublikos Vyriausybės dalyvavimas Lietuvos Respublikos Aukščiausiosios Tarybos darbe
@@ -293,7 +308,10 @@ Lietuvos Respublikos Vyriausybė:
 
 2) teikia Lietuvos Respublikos Aukščiausiajai Tarybai pasiūlymus dėl Lietuvos Respublikos ministerijų steigimo, reorganizavimo ir likvidavimo;
 
-3) prireikus steigia Lietuvos Respublikos valstybines tarnybas, inspekcijas, Lietuvos Respublikos Vyriausybės komisijas, taip pat reorganizuoja ir likviduoja šiuos organus;
+3) prireikus steigia Lietuvos Respublikos Vyriausybės komisijas, o esant Aukščiausiosios Tarybos pritarimui - Lietuvos Respublikos valstybines tarnybas bei inspekcijas, taip pat reorganizuoja ir likviduoja šiuos organus; 
+Straipsnio punkto pakeitimai:
+Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-753 (1990-11-10), i. k. 0901010ISTA000I-693
+ 
 
 4) tvirtina Lietuvos Respublikos ministerijų, valstybinių tarnybų, inspekcijų ir Lietuvos Respublikos Vyriausybės komisijų nuostatus.
  
@@ -393,7 +411,10 @@ Lietuvos Respublikos Vyriausybės norminiai arba svarbūs Respublikos ūkiui spr
 
 Sprendimai neatidėliotinais ir einamaisiais klausimais leidžiami Lietuvos Respublikos Vyriausybės potvarkių forma.
 
-Lietuvos Respublikos Vyriausybės nutarimus pasirašo Lietuvos Respublikos Vyriausybės Pirmininkas (Ministras Pirmininkas) ir Vyriausybės reikalų tvarkytojas.
+Lietuvos Respublikos Vyriausybės nutarimas pasirašo Lietuvos Respublikos Vyriausybės Pirmininkas (Ministras Pirmininkas). 
+Straipsnio dalies pakeitimai:
+Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-753 (1990-11-10), i. k. 0901010ISTA000I-693
+ 
 
 Lietuvos Respublikos Vyriausybės potvarkius pasirašo Lietuvos Respublikos Vyriausybės Pirmininkas (Ministras Pirmininkas) arba jo pavaduotojai.
  
@@ -440,4 +461,9 @@ Dėl Lietuvos Respublikos Vyriausybės įstatymo papildymo
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-382, 1990-07-17, Lietuvos aidas, 1990, Nr. 45-0 (1990-07-25); Žin., 1990, Nr. 21-529 (1990-07-31), i. k. 0901010ISTA000I-382
 Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo
+ 
+4.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-693, 1990-10-23, Lietuvos aidas, 1990, Nr. 111-0 (1990-10-26); Žin., 1990, Nr. 31-753 (1990-11-10), i. k. 0901010ISTA000I-693
+Dėl Lietuvos Respublikos Vyriausybės įstatymo kai kurių straipsnių pakeitimo
 
