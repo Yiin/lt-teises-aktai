@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D0429A864011"
 
 # Lietuvos Respublikos melioracijos įstatymas
 
-Suvestinė redakcija nuo 1997-07-09 iki 2002-03-31
+Suvestinė redakcija nuo 2002-04-01 iki 2004-02-20
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 71-1326, i. k. 0931010ISTA000I-323
  
@@ -109,9 +109,10 @@ Nr. VIII-243, 1997-06-10, Žin., 1997, Nr. 59-1362 (1997-06-25), i. k. 0971010IS
 
 
 
-Apskrities viršininkas atlieka valstybei priklausančių melioracijos įrenginių savininko funkcijas, organizuoja šių įrenginių eksploataciją ir atsako už šių įrenginių būklę, atlieka iš biudžeto finansuojamų melioracijos darbų užsakovo funkcijas, tvarko valstybinę melioracijos įrenginių apskaitą, atlieka valstybinę melioracijos ir hidrotechnikos įrenginių priežiūrą ir atsako už šio įstatymo bei Lietuvos Respublikos Vyriausybės nutarimų melioracijos klausimais įgyvendinimą
+Apskrities viršininkas atlieka valstybinę melioracijos ir hidrotechnikos įrenginių priežiūrą. Valstybei priklausančius melioracijos ir hidrotechnikos įrenginius patikėjimo teise valdo, naudoja ir jais disponuoja savivaldybės. Savivaldybės valdyba organizuoja šių įrenginių eksploatavimą, atlieka iš biudžeto finansuojamų melioracijos darbų užsakovo funkcijas. Savivaldybės administracija tvarko valstybinę melioracijos ir hidrotechnikos įrenginių apskaitą. Savivaldybės meras atsako už šio įstatymo bei Lietuvos Respublikos Vyriausybės nutarimų melioracijos klausimais įgyvendinimą.
 Straipsnio dalies pakeitimai:
 Nr. I-943, 1995-06-13, Žin., 1995, Nr. 53-1298 (1995-06-28), i. k. 0951010ISTA000I-943
+Nr. IX-634, 2001-12-10, Žin., 2001, Nr. 110-3985 (2001-12-29), i. k. 1011010ISTA00IX-634
 Straipsnio dalies pakeitimai:
 Nr. VIII-313, 1997-06-26, Žin., 1997, Nr. 65-1543 (1997-07-09), i. k. 0971010ISTAVIII-313
  
@@ -342,4 +343,9 @@ Lietuvos Respublikos melioracijos įstatymo 5, 7, 9 ir 12 straipsnių pakeitimo 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-313, 1997-06-26, Žin., 1997, Nr. 65-1543 (1997-07-09), i. k. 0971010ISTAVIII-313
+Lietuvos Respublikos melioracijos įstatymo 5 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-634, 2001-12-10, Žin., 2001, Nr. 110-3985 (2001-12-29), i. k. 1011010ISTA00IX-634
 Lietuvos Respublikos melioracijos įstatymo 5 straipsnio pakeitimo įstatymas
