@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2006-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -1021,14 +1021,13 @@ Vidaus reikalų ministerija:
 
 
 8) teikia paramą užtikrinant branduolinių ar radioaktyviųjų medžiagų krovinių transportavimo per šalies teritoriją apsaugą.
- 
 
 
 
 
 
 
-2. Civilinės saugos departamentas prie Vidaus reikalų ministerijos:
+2. Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos:
 
 
 1) sudaro valstybinį gyventojų radiacinės apsaugos planą branduolinės avarijos atveju, pagal kurį savus branduolinės avarijos prevencijos ir avarijų likvidavimo bei pasekmių šalinimo planus rengia kitos nustatyta tvarka įpareigotos institucijos;
@@ -1044,8 +1043,8 @@ Vidaus reikalų ministerija:
 3) kartu su kitomis valstybės institucijomis organizuoja gyventojų apsaugos branduolinių avarijų atveju pratybas. 
 
 
-Papildyta straipsnio dalimi:
-Nr. IX-2003, 2004-02-05, Žin., 2004, Nr. 28-874 (2004-02-21), i. k. 1041010ISTA0IX-2003
+Straipsnio dalies pakeitimai:
+Nr. IX-2505, 2004-10-26, Žin., 2004, Nr. 163-5943 (2004-11-09); Žin., 2004, Nr. 164-0 (2004-11-11), i. k. 1041010ISTA0IX-2505
  
 
 
@@ -2597,3 +2596,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo 20, 21 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2114, 2004-04-13, Žin., 2004, Nr. 60-2122 (2004-04-24), i. k. 1041010ISTA0IX-2114
 Lietuvos Respublikos branduolinės energijos įstatymo 26 ir 35 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2505, 2004-10-26, Žin., 2004, Nr. 163-5943 (2004-11-09); Žin., 2004, Nr. 164-0 (2004-11-11), i. k. 1041010ISTA0IX-2505
+Lietuvos Respublikos branduolinės energijos įstatymo 21 straipsnio pakeitimo įstatymas
