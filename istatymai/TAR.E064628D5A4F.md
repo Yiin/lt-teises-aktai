@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F"
 
 # Lietuvos Respublikos aukštojo mokslo įstatymas
 
-Suvestinė redakcija nuo 2002-01-01 iki 2002-01-11
+Suvestinė redakcija nuo 2002-01-12 iki 2002-07-11
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 27-715, i. k. 1001010ISTAIII-1586
  
@@ -1323,13 +1323,18 @@ BAIGIAMOSIOS NUOSTATOS
 
 67 straipsnis. Įstatymo įgyvendinimas
 
-1. Pasiūlyti Vyriausybei iki 2000 m. rugsėjo 1 d. priimti ar pakeisti šiam įstatymui įgyvendinti reikalingus teisės aktus.
+1. Vyriausybė iki 2002 m. liepos 1 d. priima ar pakeičia Aukštojo mokslo įstatymui įgyvendinti reikalingus teisės aktus. Vyriausybė, skirstydama valstybės biudžeto lėšas mokslui ir studijoms, nuo 2003 metų numato tokią lėšų dalį Lietuvos valstybiniam mokslo ir studijų fondui, kad būtų užtikrintas šiame įstatyme numatytas valstybės paskolų studentams teikimas Vyriausybės nustatyta tvarka.
 
-2. Iki 2000 m. liepos 15 d.aukštosios mokyklos pateikia tvirtinti Seimui savo statutus, suderintus su šio įstatymo nuostatomis.
+2. Iki 2002 m. liepos 1 d. aukštosios mokyklos privalo suderinti savo statutus su šio įstatymo nuostatomis ir pateikti Seimui tvirtinti statutų pataisas.
 
-3. Šio įstatymo 60 straipsnyje nustatyta paskolų teikimo tvarka pradedama taikyti nuo 2002 m. sausio 1 d. 
-Straipsnio dalies pakeitimai:
-Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+3. Šiame įstatyme nustatyta studijų įmokų mokėjimo bei paskolų studijų įmokoms mokėti teikimo tvarka pradedama taikyti nuo 2003 m. sausio 1 d. studentams, pradedantiems studijas 2002–2003 mokslo metais.
+
+4. Kol nėra sudarytos prie universitetų veikiančios mokslo krypčių tarybos, numatytos 42 straipsnio 8 dalyje, doktorantų disertacijos ginamos ir mokslo laipsniai suteikiami Vyriausybės nustatyta tvarka.
+
+5. Iki Lietuvos Respublikos civilinio kodekso (Žin. 2000, Nr. 74-3363) įsigaliojimo įsteigti juridinio asmens teises turintys valstybinių universitetų padaliniai turi būti per vienerius metus nuo šio įstatymo įsigaliojimo reorganizuoti arba pertvarkyti Lietuvos Respublikos civilinio kodekso ir šio įstatymo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
  
 
 68 straipsnis. Neteko galios nuo 2002-01-01
