@@ -20,8 +20,6 @@ Redagavo: Ramunė Lūžaitė (1997
 
 Įstatymas
 skelbtas: Žin., 1991, Nr. 24-635
-Nauja
-įstatymo redakcija skelbta: Žin., 1997, Nr. 69-1735
 Neoficialus
 įstatymo tekstas
  
@@ -49,10 +47,10 @@ reformos ir žemės privatizavimo tvarką.
 2 straipsnis.
 Žemės reformos tikslas
 Žemės reformos
-tikslai: užtikrinant gamtos išteklių apsaugą, įgyvendinti Lietuvos Respublikos
-piliečių teisę į žemės nuosavybę bei naudojimą įstatymų nustatyta tvarka ir
-sąlygomis grąžinant neteisėtai nusavintą žemę, perduodant ar suteikiant
-neatlygintinai nuosavybėn bei parduodant pageidaujantiems ją pirkti,
+tikslai: užtikrinant gamtos išteklių apsaugą, įgyvendinti Lietuvos
+Respublikos piliečių teisę į žemės nuosavybę bei naudojimą įstatymų nustatyta
+tvarka ir sąlygomis grąžinant neteisėtai nusavintą žemę, perduodant ar
+suteikiant neatlygintinai nuosavybėn bei parduodant pageidaujantiems ją pirkti,
 išnuomojant ar suteikiant naudotis valstybinę žemę; sudaryti teisines ir
 ekonomines prielaidas žemės rinkai plėtotis, įgyvendinti socialinį teisingumą
 privatizuojant valstybinę žemę.
@@ -103,19 +101,15 @@ Nuosavybės teisių į žemę atkūrimas
 Nuosavybės
 teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikiant nuosavybėn
 neatlygintinai bei išperkant kaimo vietovėse ir miestuose tvarką bei sąlygas
-nustato Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo
-įstatymas.
+nustato Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymas.
 
 7
 straipsnis. Valstybinės žemės suteikimas nuosavybėn neatlygintinai
 Žemė Vyriausybės
 nustatyta tvarka suteikiama nuosavybėn neatlygintinai Lietuvos Respublikos
 piliečiams:
-1) apdovanotiems
-Vyčio Kryžiaus ordinu ir Vyčio Kryžiumi, žuvusių (mirusių) tokių asmenų
-sutuoktiniams, o jeigu sutuoktinio nėra, - tėvams arba vaikams - jų prašymu
-Vyriausybės nustatyto dydžio vienas žemės sklypas individualiai
-statybai;
+1) (neteko
+galios);
 2)
 išsikeliantiems iš savininkams grąžinamų gyvenamųjų namų, - žemės sklypai
 individualiai statybai;
@@ -132,6 +126,8 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1757,
 00.06.27, Žin., 2000, Nr.56-1649 (00.07.12)
+Nr. IX-958,
+2002-06-18, Žin., 2002, Nr. 68-2763 (2002-07-03)
  
 8
 straipsnis. Valstybinės žemės pardavimas
@@ -150,18 +146,18 @@ nustato Vyriausybė.
 4.
 Nacionaliniams subjektams (juridiniams asmenims) ir užsienio subjektams žemė
 parduodama Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje
-numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir
-apribojimų konstitucinio įstatymo nustatyta tvarka ir sąlygomis.
+numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų
+konstitucinio įstatymo nustatyta tvarka ir sąlygomis.
 5. Užsienio
 valstybių diplomatinėms ir konsulinėms įstaigoms žemė parduodama Žemės sklypų
 įsigijimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms
 įstaigoms tvarkos bei sąlygų įstatymo nustatyta tvarka.
-6. Valstybinių parkų ir valstybinių draustinių teritorijose
-privačion nuosavybėn gali būti parduodami tik namų valdų, asmeninio ūkio ir
-sodininkų bendrijų žemės sklypai bei tarp privačios žemės sklypų įsiterpę žemės
-ūkio veiklai tinkami naudoti ne didesni kaip 5 ha žemės plotai. Šie žemės
-plotai gali būti parduodami gretimų žemės sklypų savininkams, nesilaikant šiame
-straipsnyje nustatytos eilės.
+6. Valstybinių parkų ir valstybinių draustinių
+teritorijose privačion nuosavybėn gali būti parduodami tik namų valdų,
+asmeninio ūkio ir sodininkų bendrijų žemės sklypai bei tarp privačios žemės
+sklypų įsiterpę žemės ūkio veiklai tinkami naudoti ne didesni kaip 5 ha žemės
+plotai. Šie žemės plotai gali būti parduodami gretimų žemės sklypų savininkams,
+nesilaikant šiame straipsnyje nustatytos eilės.
 Straipsnio
 pakeitimai:
 Nr. VIII-1757,
@@ -269,7 +265,8 @@ buvo nuosavybės teise turėta žemė;
 4) perduodami
 nuosavybėn neatlygintinai lygiaverčiai šiuo metu naudojamiems (padidinti iki 30
 procentų) žemės sklypai piliečiams, sutinkantiems palaisvinti asmeniniam ūkiui
-ar valstiečio ūkiui naudojamą žemę, kurią pageidauja susigrąžinti natūra jos savininkai;
+ar valstiečio ūkiui naudojamą žemę, kurią pageidauja susigrąžinti natūra jos
+savininkai;
 5) perduodami
 nuosavybėn neatlygintinai lygiaverčiai turėtiesiems (padidinti iki 30
 procentų) žemės sklypai toje pat kadastrinėje vietovėje piliečiams, kurių
@@ -290,12 +287,12 @@ kurioje yra perduodamas sklypas, teritorijoje, jeigu jų turėti žemė, miškas
 vandens telkiniai priskirti valstybės išperkamiems pagal Piliečių nuosavybės
 teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą arba jeigu jų turėtas
 miškas ar vandens telkiniai neišliko, taip pat perduodami nuosavybėn
-neatlygintinai žemės sklypai piliečiams, kurių šeimos po 1939 metų buvo įkeldintos
-į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir
-Vokietijos tuometinėse teritorijose ir gyvenantiems rajono savivaldybės
-seniūnijos, kurioje yra perduodamas žemės sklypas, teritorijoje, jeigu jų žemės
-sklypai, į kuriuos šios šeimos buvo įkeldintos, priskirti valstybės išperkamai
-žemei;
+neatlygintinai žemės sklypai piliečiams, kurių šeimos po 1939 metų buvo
+įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių
+Lenkijos ir Vokietijos tuometinėse teritorijose ir gyvenantiems rajono
+savivaldybės seniūnijos, kurioje yra perduodamas žemės sklypas, teritorijoje,
+jeigu jų žemės sklypai, į kuriuos šios šeimos buvo įkeldintos, priskirti
+valstybės išperkamai žemei;
 9) perduodami
 nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir
 vandens telkiniai kitiems, šio straipsnio 1 dalies 8 punkte nenurodytiems,
@@ -305,23 +302,23 @@ valstybės išperkamiems arba kurių turėtas miškas ar vandens telkiniai neiš
 perduodami nuosavybėn neatlygintinai piliečiams, kurių šeimos po 1939 metų buvo
 įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių
 Lenkijos ir Vokietijos tuometinėse teritorijose, - tokio pat ploto žemės
-sklypai, kokius nuosavybės teise jie turėjo Lenkijos ir Vokietijos teritorijose,
-išskaičius tą žemės sklypo plotą, kurį jie gavo pagal šio straipsnio 1 dalies 2
-ir 8 punktus, taip pat perduodami nuosavybėn neatlygintinai padidinti
-iki 100 procentų žemės sklypai piliečiams, kurie yra 1918-1920 m.
-nepriklausomybės kovų kariai savanoriai, pasipriešinimo (rezistencijos)
-dalyviai, politiniai kaliniai, tremtiniai, Vyčio Kryžiaus ordinu apdovanoti
-asmenys, taip pat jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams),
-jeigu jų norima natūra susigrąžinti žemė yra kitos apskrities teritorijoje ir
-užimta asmeninio ūkio ar valstiečio ūkio;
+sklypai, kokius nuosavybės teise jie turėjo Lenkijos ir Vokietijos
+teritorijose, išskaičius tą žemės sklypo plotą, kurį jie gavo pagal šio
+straipsnio 1 dalies 2 ir 8 punktus, taip pat perduodami nuosavybėn
+neatlygintinai padidinti iki 100 procentų žemės sklypai piliečiams, kurie yra
+1918-1920 m. nepriklausomybės kovų kariai savanoriai, pasipriešinimo
+(rezistencijos) dalyviai, politiniai kaliniai, tremtiniai, Vyčio Kryžiaus
+ordinu apdovanoti asmenys, taip pat jų sutuoktiniams, tėvams (įtėviams),
+vaikams (įvaikiams), jeigu jų norima natūra susigrąžinti žemė yra kitos apskrities
+teritorijoje ir užimta asmeninio ūkio ar valstiečio ūkio;
 10) perduodami
 nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir
 vandens telkiniai kitiems šio straipsnio 1 dalies 8 ir 9 punktuose
 nenurodytiems piliečiams;
-11) parduodama žemė
-piliečiams, gyvenantiems toje kadastrinėje vietovėje, arba piliečiams, kurie
-toje kadastrinėje vietovėje įsigijo nuosavybėn gamybinius pastatus iš buvusių
-žemės ūkio įmonių;
+11) parduodama
+žemė piliečiams, gyvenantiems toje kadastrinėje vietovėje, arba piliečiams,
+kurie toje kadastrinėje vietovėje įsigijo nuosavybėn gamybinius pastatus iš
+buvusių žemės ūkio įmonių;
 12) parduodama
 žemė, miškas ar vandens telkiniai kitiems piliečiams.
 2. Piliečiams ar
@@ -414,19 +411,19 @@ reikmėms naudojamų teritorijų (gatvių, aikščių, skverų, kapinių, vanden
 ir kt.). Šių žemės sklypų (teritorijų) plotai ir ribos nustatomi teritorijų
 planavimo dokumentuose;
 3) suteikta
-mokslo ir mokymo, valstybinėms socialinės globos bei rūpybos įstaigoms,
-valstybinėms įstaigoms ir organizacijoms; perduota valstybiniams
-specializuotiems sėklininkystės, veislininkystės ūkiams ir specialios
-paskirties veislininkystės bendrovėms;
+mokslo ir mokymo, valstybinėms socialinės globos bei rūpybos įstaigoms, valstybinėms
+įstaigoms ir organizacijoms; perduota valstybiniams specializuotiems
+sėklininkystės, veislininkystės ūkiams ir specialios paskirties veislininkystės
+bendrovėms;
 4) yra miestų
 teritorijų dalyse, kurios įrašytos į Lietuvos Respublikos nekilnojamųjų
 kultūros vertybių registrą (kultūros vietovių sąrašą), taip pat yra buvusių
 dvarų sodybų - istorijos ir kultūros paminklų teritorijose, išskyrus šiose
 teritorijose esančius žemės sklypus prie privačių gyvenamųjų namų ir kitų namų
 valdos statinių;
-5) yra
-valstybinių rezervatų, nacionalinių ir regioninių parkų rezervatų, Kuršių
-nerijos nacionalinio parko teritorija;
+5) yra valstybinių
+rezervatų, nacionalinių ir regioninių parkų rezervatų, Kuršių nerijos
+nacionalinio parko teritorija;
 6) yra
 valstybinės reikšmės istorijos, archeologijos ir kultūros objektų teritorija,
 išskyrus šioje teritorijoje esančius žemės sklypus prie privačių gyvenamųjų
@@ -492,15 +489,15 @@ mažinamas iki apskrities viršininko sprendimu nustatyto dydžio ir įskaitomas
 jiems sugrąžinamos žemės plotą.“
 5. Rengiant
 žemės reformos žemėtvarkos projektą, asmeninio ūkio žemės sklypų vietos ir
-ribos gali būti keičiamos pagal Piliečių nuosavybės teisių į išlikusį
-nekilnojamąjį turtą atkūrimo įstatymą ir siekiant sukurti racionalias
-žemėnaudas teritorijoje, kurią apima vietinis (kadastrinės vietovės) žemės
-reformos žemėtvarkos projektas. Piliečių asmeninio ūkio žemės sklypų, kurie
-buvo nuolat naudojami iki 1993 m. gruodžio 31 d., ribos ir vieta rengiant žemės
-reformos žemėtvarkos projektą gali būti keičiamos toje šių nuolat naudojamų
-žemės sklypų užimtoje teritorijoje Vyriausybės nustatyta tvarka. Kai naudojama
-asmeninio ūkio žemė yra bendruose plotuose, šie žemės sklypai projektuojami iš
-toje kadastrinėje vietovėje esančios laisvos žemės fondo, o jeigu laisvos žemės
+ribos gali būti keičiamos pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį
+turtą atkūrimo įstatymą ir siekiant sukurti racionalias žemėnaudas
+teritorijoje, kurią apima vietinis (kadastrinės vietovės) žemės reformos
+žemėtvarkos projektas. Piliečių asmeninio ūkio žemės sklypų, kurie buvo nuolat
+naudojami iki 1993 m. gruodžio 31 d., ribos ir vieta rengiant žemės reformos
+žemėtvarkos projektą gali būti keičiamos toje šių nuolat naudojamų žemės sklypų
+užimtoje teritorijoje Vyriausybės nustatyta tvarka. Kai naudojama asmeninio
+ūkio žemė yra bendruose plotuose, šie žemės sklypai projektuojami iš toje
+kadastrinėje vietovėje esančios laisvos žemės fondo, o jeigu laisvos žemės
 fondo toje kadastrinėje vietovėje nepakanka, šie sklypai projektuojami
 asmeniniam ūkiui naudojamoje teritorijoje.
 6. Jeigu
@@ -512,12 +509,12 @@ kurie neturi teisės į nuosavybės teisių atkūrimą pagal Piliečių nuosavyb
 teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą arba kurie turi teisę
 atkurti nuosavybės teisę į mažesnį, negu naudoja asmeninam ūkiui, žemės sklypą,
 naudojami asmeniniam ūkiui žemės sklypai parduodami Vyriausybės nustatyta
-tvarka. Piliečiams, kurie pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį
-turtą atkūrimo įstatymą turi teisę atkurti nuosavybės teises į ne mažesnį kaip
-asmeniniam ūkiui suteiktos žemės sklypą, tačiau pageidauja kitos kompensacijos
-arba savo teisę susigrąžinti žemę perleidžia kitiems asmenims, arba atsisako
-šios teisės kitų piliečių naudai, asmeninio ūkio žemė neparduodama, o žemės
-sklypai išnuomojami iš laisvos žemės fondo.
+tvarka. Piliečiams, kurie pagal Piliečių nuosavybės teisių į išlikusį
+nekilnojamąjį turtą atkūrimo įstatymą turi teisę atkurti nuosavybės teises į ne
+mažesnį kaip asmeniniam ūkiui suteiktos žemės sklypą, tačiau pageidauja kitos
+kompensacijos arba savo teisę susigrąžinti žemę perleidžia kitiems
+asmenims, arba atsisako šios teisės kitų piliečių naudai, asmeninio ūkio žemė
+neparduodama, o žemės sklypai išnuomojami iš laisvos žemės fondo.
 8. Asmeninio
 ūkio žemė neparduodama ir vietoj jos kiti žemės sklypai asmeniniam ūkiui
 skirtoje teritorijoje nesuteikiami naudotis piliečiams, kuriems asmeninio ūkio
@@ -570,7 +567,8 @@ valstybinę žemę, mišką bei vandens telkinius nagrinėja ir sprendimus priim
 apskričių viršininkai arba kita įstatymų nustatyta institucija. Prašymus
 išsinuomoti valstybinę žemę bei gauti naudotis valstybine žeme nagrinėja ir
 sprendimus priima apskričių viršininkai, savivaldybių institucijos ar kita
-įstatymų nustatyta institucija Civilinio kodekso ir Žemės įstatymo nustatyta tvarka.
+įstatymų nustatyta institucija Civilinio kodekso ir Žemės įstatymo nustatyta
+tvarka.
 Straipsnio
 pakeitimai:
 Nr. VIII-1757,
@@ -601,8 +599,8 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1757,
 00.06.27, Žin., 2000, Nr.56-1649 (00.07.12)
-Nr. IX-496, 2001-08-03,
-Žin., 2001, Nr. 71-2524 (2001-08-17)
+Nr. IX-496,
+2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
  
 V skyrius
 Žemėtvarkos darbai
@@ -626,8 +624,8 @@ teise, padalijimo projektai rengiami šios žemės savininkų lėšomis Vyriausy
 4. Žemės
 reformos žemėtvarkos projektų rengimui parinktų teritorijų ribas ir šių
 projektų parengimo terminus tvirtina apskričių viršininkai.
-5. Žemės
-reformos žemėtvarkos projektuose suprojektuojami grąžinamos, perduodamos arba
+5. Žemės reformos
+žemėtvarkos projektuose suprojektuojami grąžinamos, perduodamos arba
 suteikiamos nuosavybėn neatlygintinai, leistos pirkti ir nuomoti iš valstybės
 žemės sklypai, nustatomos jų ribos, suprojektuojamas bendrojo naudojimo kelių
 tinklas, žemės sklypams nustatoma pagrindinė tikslinė žemės naudojimo
@@ -674,10 +672,10 @@ kituose teritorijų planavimo dokumentuose suprojektuoti žemės sklypai, numato
 įsigyti nuosavybėn ar naudojimuisi, vietovėje ženklinami, matuojami ir jų
 plotai apskaičiuojami pagal Vyriausybės įgaliotos institucijos patvirtintą
 metodiką.
-2. Žemės
-savininkams ir žemės naudotojams išduodami žemės nuosavybę ir žemės naudojimo
-teisę patvirtinantys dokumentai. Šie dokumentai parengiami ir išduodami
-Vyriausybės nustatyta tvarka.
+2. Žemės savininkams
+ir žemės naudotojams išduodami žemės nuosavybę ir žemės naudojimo teisę
+patvirtinantys dokumentai. Šie dokumentai parengiami ir išduodami Vyriausybės
+nustatyta tvarka.
 3. Vietovėje
 paženklintos privačios žemės, miško sklypų ribos vėliau atliekant kadastrinius
 matavimus nekeičiamos, o už nustatytą žemės, miško sklypo ploto skirtumą,
@@ -835,17 +833,25 @@ IR PAPILDYMO ĮSTATYMAS
 13.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-640, 2001-12-11,
-Žin., 2001, Nr. 108-3905 (2001-12-28)
+Nr. IX-640,
+2001-12-11, Žin., 2001, Nr. 108-3905 (2001-12-28)
 ŽEMĖS
 REFORMOS ĮSTATYMO 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-958,
+2002-06-18, Žin., 2002, Nr. 68-2763 (2002-07-03)
+ŽEMĖS
+REFORMOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001-12-28)
+Aušrinė Trapinskienė (2002-07-03)
                  
 autrap@lrs.lt
