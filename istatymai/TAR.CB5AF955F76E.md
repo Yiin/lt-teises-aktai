@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2000-06-28 iki 2001-09-25
+Suvestinė redakcija nuo 2001-09-26 iki 2001-12-04
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
  
@@ -52,7 +52,12 @@ Nr. VIII-1249, 1999-06-22, Žin., 1999, Nr. 60-1949 (1999-07-09), i. k. 0991010I
 
 4) Lietuvos Respublikos Vyriausybės nutarimai;
 
-5) Konstitucinio Teismo nutarimai, išvados, taip pat sprendimai priimti nagrinėti Konstitucijoje numatytus prašymus ar teikimus.
+5) Konstitucinio Teismo nutarimai, išvados, taip pat sprendimai priimti nagrinėti Konstitucijoje numatytus prašymus ar teikimus;
+
+6) įsiteisėję teismų sprendimai, pripažįstantys negaliojančiais įstatymams prieštaraujančius teisės aktus ar jų dalis, jeigu šių aktų ir Konstitucijos ar įstatymų atitikimo kontrolė neįeina į Konstitucinio Teismo kompetenciją. 
+Papildyta straipsnio punktu:
+Nr. IX-501, 2001-09-11, Žin., 2001, Nr. 82-2831 (2001-09-26), i. k. 1011010ISTA00IX-501
+ 
 
 „Valstybės žiniose“ taip pat turi būti skelbiami kiti Lietuvos Respublikos Seimo priimti teisės aktai, ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų įsakymai ir įsakymais patvirtinti kiti norminiai teisės aktai bei Lietuvos banko valdybos nutarimai, kuriuose nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos.
 Straipsnio dalies pakeitimai:
@@ -192,7 +197,10 @@ Nr. VIII-46, 1996-12-19, Žin., 1996, Nr. 125-2894 (1996-12-24), i. k. 0961010IS
 
 5) „V skyrius. Lietuvos Respublikos Vyriausybės nutarimai“;
 
-6) „VI skyrius. Konstitucinio Teismo sprendimai, nutarimai ir išvados“;
+6) „VI skyrius. Konstitucinio Teismo sprendimai, nutarimai ir išvados bei įsiteisėję teismų sprendimai“; 
+Straipsnio punkto pakeitimai:
+Nr. IX-501, 2001-09-11, Žin., 2001, Nr. 82-2831 (2001-09-26), i. k. 1011010ISTA00IX-501
+ 
 
 7) VII skyrius. Ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų įsakymai ir įsakymais patvirtinti kiti norminiai teisės aktai bei Lietuvos banko valdybos nutarimai.
 Straipsnio punkto pakeitimai:
@@ -236,7 +244,10 @@ Nr. VIII-1249, 1999-06-22, Žin., 1999, Nr. 60-1949 (1999-07-09), i. k. 0991010I
 
 5) V skyriuje – Lietuvos Respublikos Vyriausybės norminiai nutarimai, o reikalui esant – ir Ministro Pirmininko potvarkiai;
 
-6) VI skyriuje – Konstitucinio Teismo nutarimai ir išvados, sprendimai priimti nagrinėti Konstitucijoje nurodytus prašymus ar teikimus;
+6) VI skyriuje – Konstitucinio Teismo nutarimai ir išvados, sprendimai priimti nagrinėti Konstitucijoje nurodytus prašymus ar teikimus, taip pat įsiteisėję teismų sprendimai, pripažįstantys negaliojančiais įstatymams prieštaraujančius teisės aktus ar jų dalis; 
+Straipsnio punkto pakeitimai:
+Nr. IX-501, 2001-09-11, Žin., 2001, Nr. 82-2831 (2001-09-26), i. k. 1011010ISTA00IX-501
+ 
 
 7) VII skyriuje – ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų įsakymai ir įsakymais patvirtinti kiti norminiai teisės aktai bei Lietuvos banko valdybos nutarimai.
 Straipsnio punkto pakeitimai:
@@ -319,4 +330,9 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų te
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1722, 2000-06-08, Žin., 2000, Nr. 52-1483 (2000-06-28), i. k. 1001010ISTAIII-1722
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 4 ir 6 straipsnių papildymo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-501, 2001-09-11, Žin., 2001, Nr. 82-2831 (2001-09-26), i. k. 1011010ISTA00IX-501
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 2, 15 ir 17 straipsnių papildymo įstatymas
 
