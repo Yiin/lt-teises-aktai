@@ -48,10 +48,10 @@ teisėjams:
 Teismo;
 2) Lietuvos
 Aukščiausiojo Teismo;
-3) Lietuvos
+3)
+Lietuvos vyriausiojo administracinio teismo;
+4) Lietuvos
 apeliacinio teismo;
-4) Aukštesniojo
-administracinio teismo;
 5) apygardų
 teismų;
 6) apygardų
@@ -76,10 +76,10 @@ apsaugos kontrolieriui;
 7) žurnalistų
 etikos inspektoriui; 
 8) Seimo, Seimo
-Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems
-institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus
-Valstybės saugumo departamento generalinį direktorių ir jo pavaduotojus bei
-Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams; 
+Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų
+ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus Valstybės
+saugumo departamento generalinį direktorių ir jo pavaduotojus bei Specialiųjų
+tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams; 
 9) Seimo,
 Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
 (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
@@ -99,6 +99,8 @@ Nr. IX-1045,
 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
 Nr. IX-1326,
 2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
+Nr. IX-1390,
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
  
 3 straipsnis. Valstybės politikų,
 teisėjų ir valstybės pareigūnų darbo užmokestis
@@ -779,7 +781,7 @@ Nr. IX-1326,
 
 
  
-**II. Teisėjų pareiginės algos
+*II. Teisėjų pareiginės algos
  
  (MMA dydžiais)
 
@@ -873,6 +875,31 @@ Lietuvos Aukščiausiasis Teismas
 3.
 
 
+Lietuvos vyriausiasis administracinis
+  teismas
+
+
+ 
+16
+
+
+ 
+14.5
+
+
+ 
+–
+
+
+ 
+13.75
+
+
+
+
+4.
+
+
 Lietuvos apeliacinis teismas
 
 
@@ -890,30 +917,6 @@ Lietuvos apeliacinis teismas
 
  
 13 
-
-
-
-
-4.
-
-
-Aukštesnysis administracinis teismas
-
-
- 
-13 
-
-
- 
-– 
-
-
- 
-– 
-
-
- 
-11 
 
 
 
@@ -1038,7 +1041,7 @@ Kuriuose dirba 14 ir mažiau teisėjų
 
 
  
-**Pastaba.
+*Pastaba.
 Pripažinti, kad Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės
 pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 3 dalies 1 punktas (2000 m.
 rugpjūčio 29 d., 2000 m. spalio 17 d., 2001 m. kovo 27 d. redakcijos), 7
@@ -1056,6 +1059,8 @@ Lietuvos
 Respublikos Konstitucinis Teismas, Nutarimas
 2001-07-12, Žin.,
 2001, Nr. 62-2276 (2001-07-18)
+Nr. IX-1390,
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
  
 
 
@@ -1822,7 +1827,7 @@ vadovai
 9.2.
 
 
-pareigūnai
+Pareigūnai
 
 
 7
@@ -1834,7 +1839,8 @@ pareigūnai
 
 
 Mokestinių ginčų komisijos prie
-  Lietuvos Respublikos Vyriausybės:
+  Lietuvos Respublikos Vyriausybės, Vyriausiosios administracinių ginčų
+  komisijos:
 
 
  
@@ -1879,6 +1885,8 @@ Nr. IX-1012,
 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 Nr. IX-1045, 2002-07-05, Žin., 2002,
 Nr. 73-3104 (2002-07-19)
+Nr. IX-1390,
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
  
 __________________
  
@@ -1993,11 +2001,21 @@ POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STR
 PAKEITIMO, 7 STRAIPSNIO 1 DALIES PRIPAŽINIMO NETEKUSIA GALIOS IR ĮSTATYMO
 PRIEDĖLIO PAKEITIMO ĮSTATYMAS
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1390,
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
+VALSTYBĖS
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO
+IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Konstitucinio Teismo
-nutarimai:
+Konstitucinio
+Teismo nutarimai:
  
 1.
 Lietuvos
@@ -2029,6 +2047,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-02-20)
+Aušrinė Trapinskienė (2003-04-11)
                  
 autrap@lrs.lt
