@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2002-10-02 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2006-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -919,12 +919,18 @@ VAIKAS IR SOCIALINĖ APLINKA
 
 
 
-2. Už fizinio ar psichinio smurto demonstravimą vaikams, jų įtraukimą į nusikalstamą ar kitą neteisėtą veiklą taikoma įstatymų nustatyta administracinė arba baudžiamoji atsakomybė.
+2. Už fizinio ar psichinio smurto demonstravimą vaikams, jų įtraukimą į nusikalstamą ar kitą neteisėtą veiką taikoma įstatymų nustatyta administracinė arba baudžiamoji atsakomybė. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
+ 
 
 
 
 
-3. Vaikui, nukentėjusiam nuo nusikaltimo, smurto ar kito blogo elgesio, turi būti suteikta reikalinga pagalba, kad jis galėtų susigrąžinti sveikatą po patirtos fizinės ar psichologinės traumos ir reintegruotis į socialinę aplinką.
+3. Vaikui, nukentėjusiam nuo nusikalstamos veikos, smurto ar kito blogo elgesio, turi būti suteikta reikalinga pagalba, kad jis galėtų susigrąžinti sveikatą po patirtos fizinės ar psichologinės traumos ir reintegruotis į socialinę aplinką.
+Straipsnio dalies pakeitimai:
+Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
+ 
 
 
 
@@ -1045,7 +1051,10 @@ IR ELGESIO KONTROLĖS YPATUMAI
 
 
 
-49 straipsnis. Drausmės bei priverčiamųjų auklėjamojo poveikio priemonių vaikui taikymas
+49 straipsnis. Drausmės bei auklėjamojo poveikio priemonių vaikui taikymas 
+Pakeistas straipsnio pavadinimas:
+Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
+ 
 
 
 1. Vaiką, vengiantį atlikti savo pareigas, už drausmės pažeidimus tėvai, kiti teisėti vaiko atstovai gali atitinkamai drausminti savo nuožiūra, išskyrus fizinį ar psichinį kankinimą, kitokį žiaurų elgesį, vaiko garbės ir orumo žeminimą.
@@ -1058,7 +1067,7 @@ IR ELGESIO KONTROLĖS YPATUMAI
 
 
 
-3. Vaikui už nuolatinius ir piktybinius teisėtvarkos pažeidimus, taip pat už pavojingos (nusikalstamos) veikos padarymą, jeigu dėl jo amžiaus, sveikatos būklės ar kitų aplinkybių negalima taikyti administracinės ar baudžiamosios atsakomybės, gali būti taikomos šios priverčiamosios auklėjamojo poveikio (drausminimo) priemonės:
+3. Vaikui už nuolatinius ir piktybinius teisėtvarkos pažeidimus, taip pat už pavojingos (nusikalstamos) veikos padarymą, jeigu dėl jo amžiaus, sveikatos būklės ar kitų aplinkybių negalima taikyti administracinės ar baudžiamosios atsakomybės, gali būti taikomos šios auklėjamojo poveikio (drausminimo) priemonės:
 
 
 1) įspėjimas;
@@ -1089,6 +1098,9 @@ IR ELGESIO KONTROLĖS YPATUMAI
 6) kitos įstatymų numatytos priemonės (atsižvelgiant į vaiko amžių, jo padaryto pažeidimo pobūdį, kitas aplinkybes).
 
 
+Straipsnio dalies pakeitimai:
+Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
+ 
 
 
 
@@ -1134,7 +1146,9 @@ IR ELGESIO KONTROLĖS YPATUMAI
 
 
 
-5. Pagal baudžiamuosius įstatymus atsako vaikai, kuriems prieš padarant nusikaltimą yra suėję 16 metų. Išimtiniais atvejais už nusikaltimus, numatytus Baudžiamajame kodekse, gali būti taikoma baudžiamoji atsakomybė ir jaunesnio amžiaus vaikams, bet ne jaunesniems kaip 14 metų.
+5. Pagal baudžiamuosius įstatymus atsako vaikai, kuriems prieš padarant nusikalstamą veiką yra suėję 16 metų. Išimtiniais atvejais už nusikalstamas veikas, numatytas Baudžiamajame kodekse, gali būti taikoma baudžiamoji atsakomybė ir jaunesnio amžiaus vaikams, bet ne jaunesniems kaip 14 metų.
+Straipsnio dalies pakeitimai:
+Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
  
 
 
@@ -1166,10 +1180,12 @@ IR ELGESIO KONTROLĖS YPATUMAI
 52 straipsnis. Alternatyvių bausmei poveikio priemonių skyrimas nusikaltusiam vaikui
 
 
-Vaikas, padaręs nesunkų nusikaltimą, teismo gali būti atleidžiamas nuo baudžiamosios atsakomybės, jei yra baudžiamajame įstatyme nustatytos sąlygos. Tokiam asmeniui skiriamos priverčiamosios auklėjamojo poveikio priemonės, numatytos Baudžiamajame kodekse.
+Vaikas, pirmą kartą padaręs neatsargų arba nesunkų ar apysunkį tyčinį nusikaltimą, teismo gali būti atleidžiamas nuo baudžiamosios atsakomybės, jei yra baudžiamajame įstatyme nustatytos sąlygos. Tokiam asmeniui bei vaikui, padariusiam baudžiamąjį nusižengimą, skiriamos auklėjamojo poveikio priemonės, numatytos Baudžiamajame kodekse.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
  
-
-
 
 
 
@@ -1177,7 +1193,10 @@ Vaikas, padaręs nesunkų nusikaltimą, teismo gali būti atleidžiamas nuo baud
 53 straipsnis. Vaiko procesinių teisių ypatumai ir jų garantijos
 
 
-1. Atliekant procesinius veiksmus bylose, kuriose vaikas yra įtariamas padaręs nusikaltimą, būtinas gynėjo dalyvavimas. Įstatymo numatytais atvejais taip pat privalo dalyvauti tėvai ar kiti teisėti vaiko atstovai, pedagogas bei vaiko teisių apsaugos institucijos atstovas.
+1. Atliekant procesinius veiksmus bylose, kuriose vaikas yra įtariamas padaręs nusikalstamą veiką, būtinas gynėjo dalyvavimas. Įstatymo numatytais atvejais taip pat privalo dalyvauti tėvai ar kiti teisėti vaiko atstovai, psichologas bei vaiko teisių apsaugos institucijos atstovas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
+ 
 
 
 
@@ -1192,7 +1211,9 @@ Vaikas, padaręs nesunkų nusikaltimą, teismo gali būti atleidžiamas nuo baud
 
 
 
-4. Už įtariamo nusikaltimo padarymu, kaltinamo, teisiamo ar nuteisto už nusikaltimą vaiko asmenybę (vardą, pavardę) identifikuojančių duomenų paskelbimą spaudoje arba kitose visuomenės informavimo priemonėse taikoma administracinė ar kita įstatymų nustatyta atsakomybė.
+4. Už įtariamo nusikalstamos veikos padarymu, kaltinamo ar nuteisto už nusikalstamą veiką vaiko asmenybę (vardą, pavardę) identifikuojančių duomenų paskelbimą spaudoje arba kitose visuomenės informavimo priemonėse taikoma administracinė ar kita įstatymų nustatyta atsakomybė.
+Straipsnio dalies pakeitimai:
+Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
  
 
 
@@ -1228,7 +1249,9 @@ Vaikas, padaręs nesunkų nusikaltimą, teismo gali būti atleidžiamas nuo baud
 
 
 
-6. Vaikų laisvės atėmimo bausmės atlikimo tvarką ir sąlygas nustato Pataisos darbų kodeksas bei kiti įstatymai.
+6. Vaikų bausmių atlikimo tvarką ir sąlygas nustato Bausmių vykdymo kodeksas bei kiti įstatymai.
+Straipsnio dalies pakeitimai:
+Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
  
 
 
@@ -1499,3 +1522,8 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 56 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1094, 2002-09-24, Žin., 2002, Nr. 95-4090 (2002-10-02), i. k. 1021010ISTA0IX-1094
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 59, 61 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 43, 49, 50, 52, 53 ir 54 straipsnių pakeitimo įstatymas
