@@ -13,6 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E33CAE5982C0"
 
 # Lietuvos Respublikos laikinasis muitų tarifų įstatymas
 
+Įstatymas netenka galios 1993-05-11:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-138, 1993-04-27, Lietuvos aidas, 1993, Nr. 88-0 (1993-05-11); Žin., 1993, Nr. 15-375 (1993-05-21), i. k. 0931010ISTA000I-138
+Lietuvos Respublikos muitų tarifų įstatymas
+ 
+Suvestinė redakcija nuo 1991-12-18 iki 1993-05-10
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 26-0; Žin. 1991, Nr.5-130, i. k. 0911010ISTA00I-1029
+ 
+ 
 LIETUVOS RESPUBLIKOS
 LAIKINASIS MUITŲ TARIFŲ
 Į S T A T Y M A S
@@ -124,7 +134,11 @@ V. ATLEIDIMAS NUO MUITŲ MOKĖJIMO
 
 4) prekės ir kitos vertybės, kurios gabenant pateks į Lietuvos Respubliką kaip humanitarinė pagalba, įforminta atitinkamais dokumentais;
 
-5) vertybės, kurios laikinai įvežamos į Lietuvos Respubliką ir išvežamos ir įvežamos, jų neapdirbus arba neperdirbus.
+5) vertybės, kurios laikinai įvežamos į Lietuvos Respubliką ir išvežamos ir įvežamos, jų neapdirbus arba neperdirbus;
+
+6) kompensacinė technika invalidams. 
+Papildyta punktu:
+Nr. I-2046, 1991-11-28, Lietuvos aidas, 1991, Nr. 251-0 (1991-12-17); Žin., 1991, Nr. 36-971 (1991-12-31), i. k. 0911010ISTA00I-2046
  
 
 VI. MUITŲ GRĄŽINIMAS, IŠIEŠKOJIMAS, APMOKESTINIMAS IR
@@ -156,4 +170,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1991 m. sausio 31 d. 
 Nr. I-1029
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2046, 1991-11-28, Lietuvos aidas, 1991, Nr. 251-0 (1991-12-17); Žin., 1991, Nr. 36-971 (1991-12-31), i. k. 0911010ISTA00I-2046
+Dėl Lietuvos Respublikos laikinojo muitų tarifų įstatymo papildymo
 
