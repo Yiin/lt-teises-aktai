@@ -13,18 +13,17 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AD44354DA25E"
 
 # Lietuvos Respublikos augalų apsaugos įstatymas
 
-Suvestinė redakcija nuo 1997-06-25 iki 1998-06-18
+Suvestinė redakcija nuo 1998-06-19 iki 2001-06-05
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 90-2013, i. k. 0951010ISTA00I-1069
  
+Nauja redakcija nuo 1998-06-19:
+Nr. VIII-769, 1998-06-04, Žin. 1998, Nr. 56-1545 (1998-06-19), i. k. 0981010ISTAVIII-769
  
-LIETUVOS RESPUBLIKOS
-AUGALŲ APSAUGOS
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS  AUGALŲ APSAUGOS  ĮSTATYMAS
  
 1995 m. spalio 19 d. Nr. I-1069
 Vilnius
- 
  
 
 
@@ -39,35 +38,30 @@ Vilnius
 
 
 
-2 straipsnis. Pagrindinės sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-Šiame įstatyme vartojamos pagrindinės sąvokos:
-
-
-
-
-augalų apsauga – tai veikla, kai yra naudojamos biologinės, cheminės, karantino ir kitos priemonės, apsaugančios augalus nuo ligų sukėlėjų, ligų, kenkėjų ir piktžolių arba mažinančios jų žalą, ir kartu išsaugoma ekologinė pusiausvyra gamtoje;
+1. Augalų apsauga – veikla, kai yra naudojamos biologinės, cheminės, karantino ir kitos priemonės, apsaugančios augalus nuo ligų sukėlėjų, ligų, kenkėjų ir piktžolių arba mažinančios jų žalą, ir kartu išsaugoma ekologinė pusiausvyra gamtoje.
 
 
 
 
-biologinės priemonės – entomofagai ir mikrobiologiniai preparatai, naudojami augalų apsaugai nuo ligų sukėlėjų, ligų, kenkėjų ir piktžolių;
+2. Biologinės priemonės – entomofagai ir mikrobiologiniai preparatai, naudojami augalų apsaugai nuo ligų sukėlėjų, ligų, kenkėjų ir piktžolių.
 
 
 
 
-cheminės priemonės – cheminiai preparatai, naudojami augalų apsaugai nuo ligų sukėlėjų, ligų, kenkėjų ir piktžolių, bei augimo reguliatoriai;
+3. Cheminės priemonės – veikliosios medžiagos ir preparatai, turintys vieną ar daugiau veikliųjų medžiagų, naudojami augalų apsaugai nuo ligų sukėlėjų, ligų, kenkėjų ir piktžolių, bei augimo reguliatoriai.
 
 
 
 
-karantino priemonės – valstybinių priemonių sistema, skirta apsaugoti Lietuvos Respublikos teritoriją nuo įvežimo į ją iš kitų šalių žemės ir miškų ūkio augalams ypač žalingų kenkėjų, ligų sukėlėjų ir piktžolių, taip pat karantininių organizmų židiniams šalies viduje išaiškinti, lokalizuoti ir likviduoti;
+4. Karantino priemonės – valstybinių priemonių sistema, skirta apsaugoti Lietuvos Respublikos teritoriją nuo įvežimo į ją iš kitų šalių žemės ir miškų ūkio augalams ypač žalingų kenkėjų, ligų sukėlėjų ir piktžolių, taip pat karantininių organizmų židiniams šalies viduje išaiškinti, lokalizuoti ir likviduoti.
 
 
 
 
-augalų apsaugos priemonių registracija – procesas, kurio metu įteisinamas naujų cheminių ir biologinių augalų apsaugos priemonių naudojimas Lietuvos Respublikos teritorijoje ir nustatomas jų naudojimo reglamentas.
+5. Augalų apsaugos priemonių registracija – procesas, kurio metu įteisinamas naujų cheminių ir biologinių augalų apsaugos priemonių naudojimas Lietuvos Respublikos teritorijoje ir nustatomas jų naudojimo reglamentas.
  
 
 
@@ -78,30 +72,17 @@ augalų apsaugos priemonių registracija – procesas, kurio metu įteisinamas n
 3 straipsnis. Augalų apsaugos valstybinis valdymas ir valstybinė priežiūra
 
 
-Lietuvos Respublikoje augalų apsaugos valstybinį valdymą, atsižvelgdama į šio darbo specifinį pobūdį, vykdo Žemės ir miškų ūkio ministerija per valstybines augalų ir miškų apsaugos tarnybas, Aplinkos apsaugos ministerija per regionines aplinkos apsaugos agentūras, Sveikatos apsaugos ministerija per visuomenės sveikatos priežiūros tarnybas ir apskričių viršininkų administracijos per žemės ūkio departamentus bei apskričių žemės ūkio departamentų rajonų žemės ūkio valdybas. Minėtos tarnybos, neatsižvelgdamos į naudotojų pavaldumą, kontroliuoja cheminių ir biologinių augalų apsaugos priemonių įvežimą, saugojimą, prekybą ir naudojimą. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
- 
+1. Lietuvos Respublikoje augalų apsaugos valstybinį valdymą, atsižvelgdamos į šio darbo specifinį pobūdį, vykdo Žemės ūkio ministerija per Valstybinę augalų apsaugos tarnybą, Aplinkos ministerija per regioninius Aplinkos apsaugos departamentus ir Miškų apsaugos tarnybą, Sveikatos apsaugos ministerija per visuomenės sveikatos priežiūros tarnybas ir apskričių viršininkų administracijos per Kaimo reikalų departamentus bei rajonų Žemės ūkio skyrius. Minėtos tarnybos, neatsižvelgdamos į naudotojų pavaldumą, kontroliuoja cheminių ir biologinių augalų apsaugos priemonių gamybą, įvežimą, saugojimą, prekybą, naudojimą ir karantino priemonių taikymą.
 
 
 
 
-Augalų apsaugos valstybinio valdymo tarnybų struktūrą nustato Lietuvos Respublikos Vyriausybė.
+2. Augalų apsaugos valstybinę priežiūrą atlieka valstybiniai augalų apsaugos ir karantino bei miškų apsaugos inspektoriai.
 
 
 
 
-Augalų apsaugos valstybinę priežiūrą atlieka Lietuvos Respublikos vyriausiasis valstybinis augalų apsaugos inspektorius, valstybiniai augalų apsaugos inspektoriai ir miškų apsaugos tarnybos darbuotojai.
-
-
-
-
-Augalų karantino valstybinę priežiūrą atlieka Lietuvos Respublikos vyriausiasis valstybinis augalų karantino inspektorius ir valstybiniai augalų karantino inspektoriai.
-
-
-
-
-Šie inspektoriai ir miškų apsaugos tarnybos darbuotojai turi teisę:
+3. Šie inspektoriai turi teisę:
 
 
 1) kontroliuoti, kaip fiziniai ir juridiniai asmenys vykdo Augalų apsaugos įstatymo reikalavimus;
@@ -121,7 +102,7 @@ Augalų karantino valstybinę priežiūrą atlieka Lietuvos Respublikos vyriausi
 
 
 
-Valstybiniai augalų apsaugos inspektoriai turi teisę žemės naudotojus traukti administracinėn atsakomybėn už augalų apsaugos priemonių naudojimo pažeidimus, taip pat už nesiėmimą priemonių piktžolėms naikinti bei jų plitimui sustabdyti.
+4. Valstybiniai augalų apsaugos ir karantino inspektoriai turi teisę žemės naudotojus traukti administracinėn atsakomybėn už augalų apsaugos priemonių naudojimo pažeidimus, taip pat nesiėmimą priemonių piktžolėms naikinti bei jų plitimui sustabdyti.
  
 
 
@@ -132,12 +113,10 @@ Valstybiniai augalų apsaugos inspektoriai turi teisę žemės naudotojus traukt
 4 straipsnis. Valstybinės augalų apsaugos tarnybos finansavimas
 
 
-Žemės ir miškų ūkio ministerijos Valstybinė augalų apsaugos tarnyba yra išlaikoma iš valstybės biudžeto lėšų, o miškų apsaugos tarnyba – iš Miško fondo lėšų. 
-
-
-Straipsnio pakeitimai:
-Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
+Žemės ūkio ministerijos Valstybinė augalų apsaugos tarnyba yra išlaikoma iš valstybės biudžeto lėšų, o Aplinkos ministerijos Miškų apsaugos tarnyba – iš Miško fondo lėšų.
  
+
+
 
 
 
@@ -145,7 +124,7 @@ Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010IS
 5 straipsnis. Valstybinis augalų karantinas
 
 
-Valstybines augalų karantino priemones nustato Lietuvos Respublikos Vyriausybė. Šios priemonės privalomos visiems fiziniams ir juridiniams asmenims, susijusiems su augalų kilmės produkcijos įvežimu, pervežimu, gamyba, saugojimu, realizavimu ir naudojimu.
+Valstybines augalų karantino priemones nustato Žemės ūkio ministerija. Šios priemonės privalomos visiems fiziniams ir juridiniams asmenims, susijusiems su augalų kilmės produkcijos įvežimu, pervežimu, gamyba, saugojimu, realizavimu ir naudojimu.
  
 
 
@@ -153,15 +132,15 @@ Valstybines augalų karantino priemones nustato Lietuvos Respublikos Vyriausybė
 
 
 
-6 straipsnis. Augalų apsaugos priemonių registracija
+6 straipsnis. Valstybinė augalų apsaugos priemonių registracija
 
 
-Chemines ir biologines augalų apsaugos priemones nustatyta tvarka registruoja Lietuvos Respublikos Vyriausybės patvirtinta Valstybinė augalų apsaugos priemonių registracijos komisija.
+1. Chemines ir biologines augalų apsaugos priemones nustatyta tvarka registruoja Valstybinė augalų apsaugos priemonių registracijos komisija, kurią tvirtina Žemės ūkio ministerija, Aplinkos ministerija ir Sveikatos apsaugos ministerija.
 
 
 
 
-Užregistruotos augalų apsaugos priemonės įrašomos į Lietuvos Respublikoje leidžiamų naudoti cheminių ir biologinių augalų apsaugos priemonių sąrašą, kurį tvirtina Lietuvos Respublikos Vyriausybė.
+2. Užregistruotos augalų apsaugos priemonės įrašomos į Lietuvos Respublikoje leidžiamų naudoti cheminių ir biologinių augalų apsaugos priemonių sąrašą.
  
 
 
@@ -169,25 +148,25 @@ Užregistruotos augalų apsaugos priemonės įrašomos į Lietuvos Respublikoje 
 
 
 
-7 straipsnis. Augalų apsaugos priemonių bei medžiagų gamyba, įvežimas ir prekyba
+7 straipsnis. Augalų apsaugos priemonių bei medžiagų gamyba, įvežimas, saugojimas ir prekyba
 
 
-Lietuvos Respublikoje gaminti, įvežti, prekiauti ir naudoti leidžiama tik registruotas augalų apsaugos priemones.
-
-
-
-
-Įvežti, gaminti ir prekiauti cheminėmis ir biologinėmis augalų apsaugos priemonėmis gali juridiniai ir fiziniai asmenys, turintys leidimus ir preparatų sertifikatus.
+1. Lietuvos Respublikoje gaminti, įvežti, parduoti, saugoti ir naudoti leidžiama tik registruotas augalų apsaugos priemones.
 
 
 
 
-Leidimų gamybai, įvežimui ir prekybai išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+2. Įvežti, gaminti, saugoti chemines ir biologines augalų apsaugos priemones ir prekiauti jomis gali juridiniai ir fiziniai asmenys, turintys šiai veiklai leidimus bei preparatų kilmės ir kokybės sertifikatus.
 
 
 
 
-Prekiauti cheminėmis ir biologinėmis augalų apsaugos priemonėmis leidžiama tik sufasuotomis originalioje gamintojo taroje. Kiekviena pakuotė turi būti su nustatytos formos etikete lietuvių kalba. Etiketėje turi būti nurodyti svarbiausi augalų apsaugos priemonių ir medžiagų saugaus transportavimo, saugojimo, naudojimo, pirmosios pagalbos teikimo apsinuodijimo atveju ir taros nukenksminimo būdai bei priemonės.
+3. Gamybos ir įvežimo leidimų išdavimo tvarką nustato Aplinkos ministerija, o prekybos ir saugojimo leidimų – Žemės ūkio ministerija. Įvežimo, prekybos ir saugojimo leidimus išduoda Žemės ūkio ministerija.
+
+
+
+
+4. Įvežti chemines ir biologines augalų apsaugos priemones bei prekiauti jomis leidžiama, jeigu jos yra sufasuotos originalioje taroje su originalia etikete lietuvių kalba. Etiketėje turi būti nurodyti svarbiausi augalų apsaugos priemonių ir medžiagų saugaus transportavimo, saugojimo, naudojimo, pirmosios pagalbos teikimo apsinuodijimo atveju ir taros nukenksminimo būdai bei priemonės.
  
 
 
@@ -198,12 +177,12 @@ Prekiauti cheminėmis ir biologinėmis augalų apsaugos priemonėmis leidžiama 
 8 straipsnis. Augalų apsaugos priemonių ir medžiagų naudojimas
 
 
-Augalų apsauga nuo ligų, kenkėjų ir piktžolių yra valstybinės svarbos priemonė, privaloma visiems žemės ir miškų naudotojams.
+1. Augalų apsauga nuo ligų, kenkėjų ir piktžolių yra valstybinės svarbos priemonė, privaloma visiems žemės ir miškų naudotojams.
 
 
 
 
-Augalų apsaugos priemonės naudojamos atsižvelgiant į augalų sanitarinę būklę, laikantis nustatytų reglamentų ir rekomendacijų bei higienos ir aplinkosaugos reikalavimų.
+2. Augalų apsaugos priemonės naudojamos atsižvelgiant į augalų sanitarinę būklę, laikantis nustatytų reglamentų ir rekomendacijų bei higienos ir aplinkosaugos reikalavimų.
  
 
 
@@ -214,23 +193,17 @@ Augalų apsaugos priemonės naudojamos atsižvelgiant į augalų sanitarinę bū
 9 straipsnis. Augalų apsaugos priemonių bei medžiagų naudotojai ir jų pareigos
 
 
-Augalų apsaugos priemonių naudotojais gali būti fiziniai ir juridiniai asmenys, turintys šiai veiklai nustatyta tvarka Žemės ir miškų ūkio ministerijos Valstybinės augalų apsaugos tarnybos išduotus leidimus
-Straipsnio dalies pakeitimai:
-Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
- 
+1. Augalų apsaugos priemonių naudotojais gali būti fiziniai ir juridiniai asmenys, turintys Žemės ūkio ministerijos nustatyta tvarka išduotus šios veiklos leidimus.
 
 
 
 
-Be Žemės ir miškų ūkio ministerijos Valstybinės augalų apsaugos tarnybos leidimų gali būti naudojami tik mažo nuodingumo preparatai. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
- 
+2. Asmenys, neturintys tokių leidimų, gali naudoti tik tas augalų apsaugos priemones, kurios įtrauktos į cheminių ir biologinių augalų apsaugos priemonių, leidžiamų naudoti individualiai, sąrašą.
 
 
 
 
-Fiziniai ir juridiniai asmenys, naudojantys augalų apsaugos priemones, privalo:
+3. Fiziniai ir juridiniai asmenys, naudojantys augalų apsaugos priemones, privalo:
 
 
 1) vadovautis šiuo įstatymu ir kitais norminiais aktais;
@@ -263,10 +236,10 @@ Fiziniai ir juridiniai asmenys, naudojantys augalų apsaugos priemones, privalo:
 
 
 
-10 straipsnis. Ginčų, kylančių dėl augalų apsaugos, sprendimas
+10 straipsnis. Teisinė atsakomybė už Augalų apsaugos įstatymo pažeidimą
 
 
-Ginčai tarp valstybinių augalų bei miškų apsaugos tarnybų ir fizinių bei juridinių asmenų sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka.
+Fiziniai ir juridiniai asmenys, pažeidę Augalų apsaugos įstatymo reikalavimus, traukiami atsakomybėn įstatymų nustatyta tvarka.
  
 
 
@@ -274,26 +247,13 @@ Ginčai tarp valstybinių augalų bei miškų apsaugos tarnybų ir fizinių bei 
 
 
 
-11 straipsnis. Teisinė atsakomybė už Lietuvos Respublikos augalų apsaugos įstatymo pažeidimą
+11 straipsnis. Tarptautinis bendradarbiavimas augalų apsaugos srityje
 
 
-Fiziniai ir juridiniai asmenys, pažeidę Lietuvos Respublikos augalų apsaugos įstatymo reikalavimus, traukiami atsakomybėn Lietuvos Respublikos įstatymų nustatyta tvarka.
+Žemės ūkio ministerijos Valstybinė augalų apsaugos tarnyba ir Aplinkos ministerijos Miškų apsaugos tarnyba pagal savo kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose, bendradarbiauja su augalų apsaugos priemones tiriančiomis, gaminančiomis ir jomis prekiaujančiomis organizacijomis, keičiasi naujausia augalų apsaugos informacija, atlieka kitus veiksmus, reikalingus tarptautiniams įsipareigojimams augalų apsaugos srityje įgyvendinti.
  
 
 
-
-
-
-
-12 straipsnis. Tarptautinis bendradarbiavimas augalų apsaugos srityje
-
-
-Žemės ir miškų ūkio ministerijos valstybinės augalų ir miškų apsaugos tarnybos pagal savo kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose, bendradarbiauja su augalų apsaugos priemones tiriančiomis, gaminančiomis ir prekiaujančiomis organizacijomis, keičiasi naujausia informacija augalų apsaugos klausimais. 
-
-
-Straipsnio pakeitimai:
-Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
- 
 
 
 
@@ -309,9 +269,15 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-244, 1997-06-10, Žin., 1997, Nr. 59-1363 (1997-06-25), i. k. 0971010ISTAVIII-244
 Lietuvos Respublikos augalų apsaugos įstatymo 3, 4, 9 ir 12 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-769, 1998-06-04, Žin., 1998, Nr. 56-1545 (1998-06-19), i. k. 0981010ISTAVIII-769
+Lietuvos Respublikos augalų apsaugos įstatymo pakeitimo įstatymas
