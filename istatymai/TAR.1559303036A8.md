@@ -35,7 +35,7 @@ Nauja
 Nr. VIII-1780,
 2000 06 29, Žin., 2000, Nr. 58-1712 (2000 07 19)
 LRT
-finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2005 m. sausio 1 d.
+finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2006 m. sausio 1 d.
  
 I SKYRIUS
 BENDROSIOS NUOSTATOS
@@ -257,7 +257,7 @@ reglamentą.
 administracinės išlaidos) iš LRT lėšų.
 Straipsnio pakeitimai:
 Nr. VIII-1911,
-2000 08 31, Žin., 2000, Nr. 78-2362 (2000 09 15), įsigalioja nuo 2000 10 01
+2000 08 31, Žin., 2000, Nr. 78-2362 (2000 09 15)
  
 10 straipsnis. Tarybos funkcijos, teisės ir
 atskaitomybė 
@@ -306,10 +306,10 @@ ne vėliau kaip per 10 dienų svarstyti generalinio direktoriaus prašymą.
 Pakartotinai balsavus už tą patį nutarimą daugiau kaip pusei visų Tarybos
 narių, generalinis direktorius nutarimą privalo vykdyti.
 5.
-Taryba turi teisę siųsti savo atstovus į LRT administracijos bei
-Administracinės komisijos posėdžius, taip pat gauti iš LRT administracijos,
-Administracinės komisijos, valstybės ir savivaldybių institucijų bei
-įstaigų informaciją, būtiną savo funkcijoms atlikti.
+Taryba turi teisę siųsti savo atstovus į LRT administracijos bei Administracinės
+komisijos posėdžius, taip pat gauti iš LRT administracijos, Administracinės
+komisijos, valstybės ir savivaldybių institucijų bei įstaigų
+informaciją, būtiną savo funkcijoms atlikti.
 6.
 Tarybos veikla yra vieša. Tarybos reglamento numatytais atvejais gali būti
 rengiami uždari Tarybos posėdžiai. Tarybos nutarimai LRT įstatų nustatyta
@@ -507,7 +507,7 @@ Nr. VIII-1780, 2000 06 29, Žin., 2000, Nr.
 LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
 LRT finansavimo
-tvarka pagal šį įstatymą įsigalioja nuo 2005 m. sausio 1 d.
+tvarka pagal šį įstatymą įsigalioja nuo 2006 m. sausio 1 d.
 LRT administracinė
 komisija įsteigiama ne vėliau kaip per 1 mėnesį po šio įstatymo nustatytos
 finansavimo tvarkos įsigaliojimo.
@@ -536,6 +536,14 @@ Nr. IX-1893,
 LIETUVOS NACIONALINIO
 RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
+4)
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. X-63, 2004-12-22,
+Žin., 2004, Nr. 188-6996 (2004-12-31)
+LIETUVOS
+NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -575,8 +583,7 @@ m. gegužės 1 d.
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušrinė Trapinskienė (2004-05-04)
+Aušrinė Trapinskienė (2005-01-04)
                  
 autrap@lrs.lt
