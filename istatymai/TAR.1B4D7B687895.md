@@ -20,7 +20,6 @@ Neoficialus ?statymo tekstas
 
 Įstatymas
 skelbtas: Žin., 1994, Nr. 99-1957
-Nauja įstatymo redakcija skelbta: Žin., 2001, Nr. 28-890
 Neoficialus įstatymo tekstas
  
 LIETUVOS
@@ -29,7 +28,7 @@ LIETUVOS BANKO
 ĮSTATYMAS
 
 1994
-m. gruodžio 1 d. Nr.I-678
+m. gruodžio 1 d. Nr. I-678
 Vilnius
 
 Nauja įstatymo redakcija:
@@ -82,13 +81,14 @@ atstovybes, įstaigas ir įmones bei būti kitų įstaigų ir įmonių akcininku
 dalininku tiek Lietuvos Respublikoje, tiek užsienio valstybėse, jei to reikia
 Lietuvos banko funkcijoms atlikti.
  
-5
-straipsnis. Lietuvos banko užsienio ryšiai ir atstovavimas valstybei
+5 straipsnis.
+Lietuvos banko užsienio ryšiai ir atstovavimas valstybei
 1. Lietuvos
 bankas palaiko ryšius ir sudaro sutartis su užsienio valstybių ir
 tarptautinėmis finansų institucijomis.
-2. Lietuvos bankas
-gali atstovauti Lietuvos Respublikai tarptautinėse finansų institucijose.
+2. Lietuvos
+bankas gali atstovauti Lietuvos Respublikai tarptautinėse finansų
+institucijose.
  
 6
 straipsnis. Išimtinė Lietuvos banko teisė leisti pinigus
@@ -113,10 +113,10 @@ bankas pagal savo kompetenciją palaiko Lietuvos Respublikos Vyriausybės
 ekonominę politiką, kiek ji neprieštarauja Lietuvos
 banko pagrindiniam tikslui.
  
-8 straipsnis.
-Lietuvos banko funkcijos ir veikla
-1. Lietuvos
-bankas, įgyvendindamas pagrindinį tikslą, atlieka šias funkcijas:
+8
+straipsnis. Lietuvos banko funkcijos ir veikla
+1. Lietuvos bankas,
+įgyvendindamas pagrindinį tikslą, atlieka šias funkcijas:
 1) vykdo
 Lietuvos Respublikos pinigų emisiją;
 2) formuoja ir
@@ -133,9 +133,9 @@ veiklą, taip pat išduoda ir atšaukia leidimus steigti užsienio valstybių
 kredito įstaigų skyrius bei atstovybes ir jiems veikti bei prižiūri užsienio
 valstybių kredito įstaigų skyrių, veikiančių Lietuvos Respublikoje, veiklą
 įstatymų ir kitų teisės aktų nustatyta tvarka; 
-7) nustato Lietuvos
-Respublikos kredito įstaigų ir užsienio valstybių kredito įstaigų skyrių,
-veikiančių Lietuvos Respublikoje, finansinės apskaitos principus ir
+7) nustato
+Lietuvos Respublikos kredito įstaigų ir užsienio valstybių kredito įstaigų
+skyrių, veikiančių Lietuvos Respublikoje, finansinės apskaitos principus ir
 atskaitomybės tvarką; 
 8) kuria ir
 valdo tarpbankinę lėšų pervedimo sistemą ir nustato reikalavimus tarpbankinės
@@ -205,9 +205,8 @@ principus ir tvarką;
 5) nustato
 Lietuvos banko išleidžiamų skolos vertybinių popierių emisijos ir apyvartos
 tvarką; 
-6) nustato
-kredito įstaigų riziką ribojančius normatyvus, jų dydžius bei skaičiavimo
-metodiką;
+6) nustato kredito
+įstaigų riziką ribojančius normatyvus, jų dydžius bei skaičiavimo metodiką;
 7) priima nutarimus;
 8) sprendžia klausimus dėl
 Lietuvos banko dalyvavimo tarptautiniuose bankuose ir kitose tarptautinėse
@@ -350,8 +349,8 @@ skelbiamiems Statistikos departamento prie Lietuvos Respublikos Vyriausybės.
 šalyje ir užsienyje išlaidoms finansuoti neatsiskaitytinai kas mėnesį skiriama
 20 procentų jo darbo užmokesčio dydžio suma.
  
-18 straipsnis.
-Lietuvos banko tarnautojai
+18
+straipsnis. Lietuvos banko tarnautojai
 1. Lietuvos banko
 tarnautojai šio įstatymo nustatytas Lietuvos banko funkcijas atlieka vykdydami
 Lietuvos banko valdybos nutarimus ir pirmininko įsakymus, vadovaudamiesi
@@ -362,12 +361,11 @@ tarnautojams taikomi darbo santykius reglamentuojantys įstatymai.
 tarnautojai gali dirbti tik šiame banke. Lietuvos banko valdybos sutikimu
 galima dirbti ir kitur. Ši nuostata netaikoma šio įstatymo 16 straipsnio 1
 dalyje numatytais atvejais.
-4. Lietuvos banko
-tarnautojams gali būti suteikiamos paskolos ir kitos finansinės paslaugos
-Lietuvos banko valdybos nustatyta tvarka ir sąlygomis. Nustatydama paskolų ir
-kitų finansinių paslaugų suteikimo sąlygas, valdyba privalo atsižvelgti į
-šalies kredito įstaigų fiziniams asmenims teikiamų analogiškų paslaugų teikimo
-sąlygas. 
+4. Lietuvos banko tarnautojams
+gali būti suteikiamos paskolos ir kitos finansinės paslaugos Lietuvos banko
+valdybos nustatyta tvarka ir sąlygomis. Nustatydama paskolų ir kitų finansinių
+paslaugų suteikimo sąlygas, valdyba privalo atsižvelgti į šalies kredito
+įstaigų fiziniams asmenims teikiamų analogiškų paslaugų teikimo sąlygas. 
 5. Lietuvos banko
 tarnautojai negali skolintis iš jokios kredito įstaigos, išskyrus naudojimąsi
 kredito įstaigų kortelėmis.
@@ -430,8 +428,7 @@ finansinių metų pelnas (nuostolis) skaičiuojamas iš pajamų atimant išlaida
 straipsnis. Lietuvos banko pelno paskirstymas
 1. Finansinių
 metų pelnas skirstomas taip: 50 procentų – Lietuvos banko įstatiniam kapitalui
-sudaryti; 50 procentų – atsargos kapitalui sudaryti. Visiškai sudarius vieną iš
-kapitalų, kitam kapitalui sudaryti skiriama iki 100 procentų pelno.
+sudaryti; 50 procentų – atsargos kapitalui sudaryti. 
 2. Pelnas
 skiriamas įstatiniam kapitalui sudaryti, kol įstatinio kapitalo suma pasieks
 šio įstatymo 20 straipsnyje nustatytą sumą.
@@ -445,6 +442,10 @@ valstybės biudžetą.
 atsargos kapitalas tampa mažesnis negu 10 procentų Lietuvos banko
 įsipareigojimų litais, atsargos kapitalas sudaromas šio straipsnio 1 ir 3
 dalyse nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr.
+IX-1352,
+2003-03-04, Žin., 2003, Nr. 27-1079 (2003-03-19)
  
 24
 straipsnis. Lietuvos banko ir valstybės biudžeto santykis
@@ -528,8 +529,8 @@ apskaičiuoto nuo įsipareigojimų, laikytų kaip privalomąsias atsargas.
 atsargų normą, sudarymo ir laikymo tvarką, baudų ir delspinigių dydį už šių
 normų ir tvarkos nesilaikymą nustato Lietuvos bankas. 
  
-31 straipsnis.
-Lito kurso reguliavimas
+31
+straipsnis. Lito kurso reguliavimas
 Savo
 pagrindiniam tikslui įgyvendinti Lietuvos bankas nustato lito kurso reguliavimo
 sistemą. Vadovaudamasis šia sistema, Lietuvos bankas nustato ir skelbia
@@ -820,15 +821,14 @@ rinkliavų, išskyrus šio įstatymo 24 straipsnio 1 dalyje numatytą įmoką.
  
 58
 straipsnis. Lietuvos banko 2000 metų pelno paskirstymas
-1. Lietuvos banko 2000 metų pelnas
-skirstomas šia eile:
+1. Lietuvos banko 2000 metų
+pelnas skirstomas šia eile:
 1) 10 procentų –
 Lietuvos banko įstatiniam kapitalui sudaryti;
 2) 50 procentų –
 Lietuvos banko atsargos kapitalui sudaryti.
 2. Likęs pelnas
-sumokamas į valstybės biudžetą iki 2001 metų 
-gegužės 1 dienos.
+sumokamas į valstybės biudžetą iki 2001 metų gegužės 1 dienos.
  
  
 Skelbiu
@@ -839,7 +839,7 @@ RESPUBLIKOS
 PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
 
  
-__________
+___________________
  
 Pakeitimai:
 
@@ -872,9 +872,24 @@ LIETUVOS BANKO ĮSTATYMO
 PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
  
-*** Pabaiga ***
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1352,
+2003-03-04, Žin., 2003, Nr. 27-1079 (2003-03-19)
+LIETUVOS
+BANKO ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šio
+Įstatymo nuostatos taikomos skirstant 2002 ir vėlesnių finansinių metų Lietuvos
+banko pelną.
  
  
-Redagavo: Aušrinė Trapinskienė
-(2001 03 30)
-                  autrap@lrs.lt
+***
+Pabaiga ***
+ 
+ 
+Redagavo:
+Aušrinė Trapinskienė (2003-03-19)
+                 
+autrap@lrs.lt
