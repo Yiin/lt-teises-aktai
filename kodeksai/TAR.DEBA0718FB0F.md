@@ -127,10 +127,9 @@ Nr. IX-1214,
             
             7 straipsnis. Vidaus vandenų kelių
 naudotojai
-1. Vidaus vandenų kelių naudotojai –
-fiziniai ir juridiniai asmenys, besiverčiantys laivyba šiuose keliuose ir
-nustatyta tvarka gavę Aplinkos ministerijos ar jos įgaliotos institucijos
-leidimus naudoti vandens telkinius laivybai.
+1.
+Vidaus vandenų kelių naudotojai – fiziniai ir juridiniai asmenys, besiverčiantys
+laivyba šiuose keliuose.
             2. Vidaus vandenų kelių naudotojais taip
 pat laikomi fiziniai ir juridiniai asmenys, kurie, suderinę su vidaus vandenų
 kelių valdytojais, nepažeisdami laivybos taisyklių, naudoja vidaus vandenis
@@ -140,6 +139,9 @@ Nr. VIII-1900, 00.08.29, Žin., 2000,
 Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
+Nr.
+IX-1942,
+2003-12-22, Žin., 2004, Nr. 4-45 (2004-01-07)
  
             8 straipsnis. Vidaus vandenų kelių
 naudotojų pareigos
@@ -187,8 +189,8 @@ priduoti vidaus vandenų kelių valdytojui;
             4) pakelti plūduriuojančiųjų ar
 pakeliamųjų tiltų tarpatramius pagal laivybos taisykles.
 Straipsnio pakeitimai:
-Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267
-(00.09.07), įsigalioja nuo 2000.10.01
+Nr. VIII-1900, 00.08.29, Žin., 2000,
+Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
@@ -360,8 +362,8 @@ Nr. IX-1214,
             1. Laivo valdytojas yra savininkas ar
 kitas asmuo, kuris teisėtai naudojasi laivu.
 2. Perleidus nuosavybės teisę į laivą,
-sudarius laivo nuomos ar panaudos sutartį, duomenys apie naują valdytoją
-įrašomi į Lietuvos Respublikos vidaus vandenų laivų registrą.
+sudarius laivo nuomos ar panaudos sutartį, duomenys apie naują valdytoją įrašomi
+į Lietuvos Respublikos vidaus vandenų laivų registrą.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
 Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
@@ -383,8 +385,8 @@ laivuose statutas) ir pareiginiai nuostatai.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
 Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
-Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585
-(00.10.11)
+Nr. VIII-1964, 00.09.26, Žin., 2000,
+Nr.85-2585 (00.10.11)
  
 19 straipsnis. Laivo įgula
 1. Laivo įgulą sudaro kapitonas
@@ -485,8 +487,8 @@ Valstybinę saugios laivybos vidaus
 vandenų keliuose priežiūrą atlieka Valstybinė vidaus vandenų laivybos
 inspekcija.
 Straipsnio pakeitimai:
-Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267
+(00.09.07), įsigalioja nuo 2000.10.01
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
@@ -625,8 +627,7 @@ KROVINIO IR PAŠTO VEŽIMAS
             Krovinio vežimo sutartyje vežėjas pagal
 priimtą užsakymą įsipareigoja priimti krovinį, pateikti laivą, pagal važtaraštį
 nugabenti patikėtą jam krovinį į paskirties punktą ir išduoti jį gavėjui, o
-siuntėjas įsipareigoja pateikti krovinį ir už jo vežimą sumokėti nustatytą
-užmokestį.
+siuntėjas įsipareigoja pateikti krovinį ir už jo vežimą sumokėti nustatytą užmokestį.
             
             39 straipsnis. Užsakymas
             1. Užsakymas - siuntėjo pasiūlymas jo
@@ -903,8 +904,8 @@ arba nukentėjusiojo tyčios.
 keleiviui laive arba įsodinimo ar išlaipinimo iš jo metu, neatsižvelgiant į
 tai, ar laivas plaukė, ar stovėjo.
             
-            60 straipsnis. Žalos, padarytos keleivio sveikatai
-ar gyvybei, atlyginimas
+            60 straipsnis. Žalos, padarytos keleivio
+sveikatai ar gyvybei, atlyginimas
             Žala, padaryta keleivio sveikatai ar
 gyvybei vežimo metu, atlyginama pagal Civilinį kodeksą.Vežėjui atskirai
 susitarus su keleiviu, gali būti nustatyta didesnė atsakomybė, negu nustatyta
@@ -1125,8 +1126,19 @@ VIDAUS VANDENŲ TRANSPORTO KODEKSO
 73, 74, 75 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR KODEKSO PAPILDYMO
 PRIEDU ĮSTATYMAS
  
-*** Pabaiga ***
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1942,
+2003-12-22, Žin., 2004, Nr. 4-45 (2004-01-07)
+VIDAUS
+VANDENŲ TRANSPORTO KODEKSO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2003-01-23)
-                  autrap@lrs.lt
+Redagavo:
+Aušra Bodin (2004-01-07)
+                 
+aubodi@lrs.lt
