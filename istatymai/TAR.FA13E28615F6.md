@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2000-06-09 iki 2003-12-11
+Suvestinė redakcija nuo 2003-12-12 iki 2005-11-25
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
  
@@ -279,7 +279,10 @@ INFORMACIJOS RENGIMAS IR TEIKIMAS
 13 straipsnis. Neteikiama informacija
 
 
-1. Jeigu informacija pagal įstatymus yra valstybinė, tarnybinė, komercinė ar banko paslaptis arba yra privati, ji nesuteikiama, išskyrus 7 straipsnyje numatytą atvejį. Tai pranešama pareiškėjui ir nurodoma nesuteikimo priežastis. Taip pat neteikiama ta informacija, kurią teikti draudžia kiti įstatymai, nes jos suteikimas pakenktų valstybės saugumo ir gynybos interesams, užsienio politikos interesams, baudžiamajam persekiojimui bei pažeistų valstybės teritorinį vientisumą ar viešąją tvarką, kitų asmenų teises bei teisėtus interesus arba jos nesuteikimas užkirstų kelią sunkiems teisės pažeidimams ar būtų labai svarbus apsaugant žmonių sveikatą bei moralę.
+1. Informacija, jeigu ji pagal įstatymus yra valstybės, tarnybos, komercinė ar banko paslaptis, nesuteikiama. Privati informacija be asmens sutikimo nesuteikiama, išskyrus šio įstatymo 7 straipsnio, Asmens duomenų teisinės apsaugos įstatymo, Visuomenės informavimo įstatymo ir Archyvų įstatymo nustatytus atvejus. Tai pranešama pareiškėjui ir nurodoma nesuteikimo priežastis. Taip pat neteikiama ta informacija, kurią teikti draudžia kiti įstatymai, nes jos suteikimas pakenktų valstybės saugumo ir gynybos interesams, užsienio politikos interesams, baudžiamajam persekiojimui bei pažeistų valstybės teritorijos vientisumą ar viešąją tvarką, kitų asmenų teises bei teisėtus interesus arba jos nesuteikimas užkirstų kelią sunkiems teisės pažeidimams ar būtų labai svarbus apsaugant žmonių sveikatą bei moralę. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1844, 2003-11-25, Žin., 2003, Nr. 116-5250 (2003-12-12), i. k. 1031010ISTA0IX-1844
+ 
 
 
 
@@ -376,3 +379,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1700, 2000-05-23, Žin., 2000, Nr. 47-1344 (2000-06-09), i. k. 1001010ISTAIII-1700
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1844, 2003-11-25, Žin., 2003, Nr. 116-5250 (2003-12-12), i. k. 1031010ISTA0IX-1844
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo 13 straipsnio pakeitimo įstatymas
