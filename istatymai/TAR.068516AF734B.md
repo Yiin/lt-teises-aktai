@@ -344,10 +344,13 @@ gimdymo atostogos, jeigu jie iki pirmosios nėštumo ir gimdymo atostogų dienos
 turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį
 kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio
 draudimo stažą.
-2. Moteriai, atleistai iš darbo nėštumo metu arba
-nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos
-likvidavimo ar bankroto ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir
-motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17
+2. Moteriai, atleistai iš darbo nėštumo metu arba nėštumo ir gimdymo
+atostogų metu dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip
+pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba Valstybės
+tarnybos įstatyme ir Valstybės politikų, teisėjų ir valstybės pareigūnų darbo
+apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų
+laikas, ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir motinystės
+socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17
 straipsnyje nustatyta tvarka.
 3. Pagrindas skirti motinystės pašalpą nėštumo ir
 gimdymo atostogų laikotarpiu yra nėštumo ir gimdymo atostogų pažymėjimas,
@@ -359,6 +362,8 @@ Nr. IX-1248,
 2002-12-10, Žin., 2002, Nr. 124-5622 (2002-12-27)
 Nr. IX-1333,
 2003-01-28, Žin., 2003, Nr. 12-441 (2003-01-31)
+Nr. IX-2483,
+2004-10-12, Žin., 2004, Nr. 158-5755 (2004-10-30)
  
 17 straipsnis. Motinystės pašalpos nėštumo ir gimdymo atostogų
 laikotarpiu 
@@ -383,8 +388,9 @@ Nr. IX-1248,
 18 straipsnis. Motinystės pašalpos nėštumo ir gimdymo atostogų
 laikotarpiu dydis
 1. Motinystės pašalpa nėštumo ir gimdymo atostogų laikotarpiu mokama 100 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio. Ši pašalpa per mėnesį negali būti mažesnė už nėštumo ir gimdymo atostogų suteikimo mėnesį galiojusių einamųjų metų draudžiamųjų pajamų ketvirtadalį.
-2. Motinystės pašalpa apskaičiuojama ir mokama Vyriausybės tvirtinamų
-Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.
+2. Motinystės pašalpa apskaičiuojama ir mokama Vyriausybės
+tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta
+tvarka.
 Straipsnio pakeitimai:
 Nr. IX-1247,
 2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
@@ -405,20 +411,29 @@ pašalpų arba pagal pasirinkimą.
 3. Asmeniui, neturinčiam teisės gauti motinystės (tėvystės)
 pašalpos iš Valstybinio socialinio draudimo fondo lėšų, mokama pašalpa pagal
 Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą.
-4. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka
-išleistam vaiko iki vienerių metų priežiūros atostogų bei gaunančiam motinystės
-(tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos
-likvidavimo ar bankroto, motinystės (tėvystės) pašalpa mokama šio įstatymo 20
-straipsnyje nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.
+4. Vienam iš tėvų
+(įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko iki vienerių
+metų priežiūros atostogų bei gaunančiam motinystės (tėvystės) pašalpą,
+atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto,
+taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba
+Valstybės tarnybos įstatyme ir Valstybės politikų, teisėjų ir valstybės
+pareigūnų darbo apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas
+terminas ar įgaliojimų laikas, motinystės (tėvystės) pašalpa mokama šio įstatymo
+20 straipsnyje nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.
 5. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam šio
 straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą,
-atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto
-ir dėl to negavusiam vaiko iki vienerių metų priežiūros atostogų, motinystės (tėvystės)
-pašalpa mokama šio įstatymo 20 straipsnyje nustatyta tvarka, bet ne ilgiau kaip
-iki įsidarbinimo.
+atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto,
+taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba
+Valstybės tarnybos įstatyme ir Valstybės politikų, teisėjų ir valstybės
+pareigūnų darbo apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas terminas
+ar įgaliojimų laikas, ir dėl to negavusiam vaiko iki vienerių metų priežiūros
+atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 straipsnyje
+nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.
 Straipsnio pakeitimai:
 Nr. IX-1333,
 2003-01-28, Žin., 2003, Nr. 12-441 (2003-01-31)
+Nr. IX-2483,
+2004-10-12, Žin., 2004, Nr. 158-5755 (2004-10-30)
  
 20 straipsnis. Motinystės (tėvystės) pašalpos mokėjimo trukmė
 1.
@@ -428,29 +443,14 @@ nėštumo ir gimdymo atostogų pabaigos iki tol, kol vaikui sukanka vieneri meta
 atostogų laikotarpį, tai motinystės (tėvystės) pašalpa turintiems teisę ją
 gauti šio įstatymo 19 straipsnyje nurodytiems asmenims skiriama nuo vaiko
 gimimo dienos.
-3. Jeigu motinystės pašalpą už nėštumo ir gimdymo atostogų laikotarpį
-gavusi motina mirė, motinystės (tėvystės) pašalpa turintiems teisę ją gauti šio
-įstatymo 19 straipsnyje nurodytiems asmenims skiriama nuo motinos mirties
-dienos. 
+3. Jeigu motinystės pašalpą už nėštumo ir gimdymo atostogų
+laikotarpį gavusi motina mirė, motinystės (tėvystės) pašalpa turintiems teisę
+ją gauti šio įstatymo 19 straipsnyje nurodytiems asmenims skiriama nuo motinos
+mirties dienos. 
 Straipsnio pakeitimai:
-Nr. IX-709,
-2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06)
+Nr. IX-709, 2002-01-15,
+Žin., 2002, Nr. 13-469 (2002-02-06)
  
-21 straipsnio redakcija iki
-2004 m. kovo 1 d.:
-21
-straipsnis. Motinystės (tėvystės) pašalpos dydis
-Motinystės (tėvystės) pašalpa
-mokama 60 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio. Ši pašalpa
-per mėnesį negali būti mažesnė už vaiko priežiūros atostogų suteikimo mėnesį
-galiojusių einamųjų metų draudžiamųjų pajamų trečdalį. Kai apdraustasis dirba
-ne vienoje darbovietėje, motinystės (tėvystės) pašalpa jam apskaičiuojama pagal
-gautą kompensuojamąjį uždarbį tik tose darbovietėse, kuriose jis yra išleistas
-vaiko priežiūros atostogų. Pašalpa apskaičiuojama ir mokama Vyriausybės
-tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta
-tvarka.
-21 straipsnio redakcija nuo
-2004 m. kovo 1 d.:
 21 straipsnis. Motinystės (tėvystės) pašalpos dydis
 Motinystės (tėvystės) pašalpa
 mokama 70 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio. Ši pašalpa
@@ -618,11 +618,23 @@ IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 21 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2004 m. kovo 1 d.
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2483,
+2004-10-12, Žin., 2004, Nr. 158-5755 (2004-10-30)
+LIGOS
+IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 16 IR 19 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2004 m. lapkričio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-02-18)
+Aušrinė Trapinskienė (2004-11-02)
                  
 autrap@lrs.lt
