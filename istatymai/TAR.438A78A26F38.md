@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2001-03-09 iki 2002-06-20
+Suvestinė redakcija nuo 2002-06-21 iki 2003-02-18
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -442,8 +442,12 @@ Išėjusiam iš valstybės tarnybos Respublikos Prezidentui iki gyvos galvos:
 
 
 2) suteikiama poilsiavietė su aptarnavimu, taip pat apsauga ir transportas. Aptarnaujančių asmenų skaičių, apsaugos ir transporto priemonių kiekį nustato Lietuvos Respublikos Vyriausybė.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Prezidento įstatymo 20 straipsnio 2 dalis ta apimtimi, kuria Respublikos Prezidento pensijos nustatymas susiejamas su buvusio Respublikos Prezidento išėjimu iš valstybės tarnybos, prieštarauja Lietuvos Respublikos Konstitucijos 77 straipsnio 1 daliai.
 
 
+Straipsnio dalies pakeitimai:
+2002-06-19, Žin., 2002, Nr. 62-2515 (2002-06-21), i. k. 1021000NUTARG021955            
+ 
 
 
 
@@ -453,7 +457,6 @@ Respublikos Prezidentai laidojami valstybės lėšomis.
 
 
 
- 
 
 
  
@@ -486,3 +489,8 @@ Lietuvos Respublikos Prezidento įstatymo 6 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-180, 2001-02-20, Žin., 2001, Nr. 21-688 (2001-03-09), i. k. 1011010ISTA00IX-180
 Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2002-06-19, Žin., 2002, Nr. 62-2515 (2002-06-21), i. k. 1021000NUTARG021955                
+Dėl Lietuvos Respublikos valstybinių pensijų įstatymo 7, 11, 15 straipsnių pakeitimo ir papildymo įstatymo, Lietuvos Respublikos valstybinių pensijų įstatymo 7 straipsnio 1 bei 4 dalių ir Lietuvos Respublikos Prezidento įstatymo 20 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
