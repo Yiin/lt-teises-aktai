@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C4BA002142E2"
 
 # Lietuvos Respublikos cukraus įstatymas
 
-Suvestinė redakcija nuo 2000-06-02 iki 2003-06-30
+Suvestinė redakcija nuo 2003-07-01 iki 2004-04-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 41-990, i. k. 0951010ISTA000I-867
  
@@ -122,12 +122,15 @@ Nr. VIII-1690, 2000-05-18, Žin., 2000, Nr. 45-1293 (2000-06-02), i. k. 1001010I
 3. Jeigu dėl stichinių nelaimių ar nederliaus šalies rinkoje trūksta iš cukrinių runkelių pagaminto cukraus, cukraus žaliavos ar cukraus įvežimą reglamentuoja Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
  
 
-5 straipsnis. Cukraus realizavimo, laikymo ir gabenimo reikalavimai
+5 straipsnis. Cukraus realizavimo, laikymo, gabenimo ir pakavimo reikalavimai
 
-Lietuvos Respublikoje ūkio subjektams draudžiama realizuoti, laikyti ir įvežti į šalį bei gabenti cukrų be juridinę galią turinčių apskaitos dokumentų. Fiziniams asmenims cukraus laikymo ir gabenimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+1. Lietuvos Respublikoje ūkio subjektams draudžiama realizuoti, laikyti ir įvežti į šalį bei gabenti cukrų be juridinę galią turinčių apskaitos dokumentų. Fiziniams asmenims cukraus laikymo ir gabenimo tvarką nustato Lietuvos Respublikos Vyriausybė. 
+
+2. Lietuvos Respublikoje ūkio subjektams, išskyrus cukraus gamintojus ir cukraus importo tarifinę kvotą gavusius importuotojus, pakuoti cukrų į didesnes negu 20 gramų pakuotes draudžiama. 
 
 Straipsnio pakeitimai:
 Nr. VIII-1690, 2000-05-18, Žin., 2000, Nr. 45-1293 (2000-06-02), i. k. 1001010ISTAIII-1690
+Nr. IX-1499, 2003-04-10, Žin., 2003, Nr. 40-1811 (2003-04-30), i. k. 1031010ISTA0IX-1499
  
 
 6 straipsnis. Cukrinių runkelių auginimas, supirkimas ir perdirbimas
@@ -183,4 +186,9 @@ Lietuvos Respublikos cukraus įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1690, 2000-05-18, Žin., 2000, Nr. 45-1293 (2000-06-02), i. k. 1001010ISTAIII-1690
 Lietuvos Respublikos cukraus įstatymo 2, 4, 5, 6, 7 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1499, 2003-04-10, Žin., 2003, Nr. 40-1811 (2003-04-30), i. k. 1031010ISTA0IX-1499
+Lietuvos Respublikos cukraus įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas
 
