@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 1996-11-02 iki 1997-07-15
+Suvestinė redakcija nuo 1997-07-16 iki 1998-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -359,9 +359,10 @@ MEDICININĖ, PROFESINĖ IR SOCIALINĖ INVALIDŲ REABILITACIJA, JŲ MEDICININIS, 
 
 
 
-3. Lietuvos Respublikos Vyriausybė, apskričių valdytojų administracijos ir vietos savivaldybės užtikrina aukščiau nurodytų reikalavimų įgyvendinimą.
+3. Lietuvos Respublikos Vyriausybė, apskričių viršininkų administracijos ir vietos savivaldybės užtikrina aukščiau nurodytų reikalavimų įgyvendinimą.
 Straipsnio dalies pakeitimai:
 Nr. I-1587, 1996-10-22, Žin., 1996, Nr. 105-2395 (1996-11-02), i. k. 0961010ISTA00I-1587
+Nr. VIII-309, 1997-06-26, Žin., 1997, Nr. 67-1649 (1997-07-16), i. k. 0971010ISTAVIII-309
  
 
 
@@ -849,3 +850,8 @@ Dėl kai kurių Lietuvos Respublikos įstatymų ir kitų teisės aktų, susijusi
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1587, 1996-10-22, Žin., 1996, Nr. 105-2395 (1996-11-02), i. k. 0961010ISTA00I-1587
 Lietuvos Respublikos invalidų socialinės integracijos įstatymo 2, 12, 13, 25, 26, 27, 28 straipsnių papildymo ir pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-309, 1997-06-26, Žin., 1997, Nr. 67-1649 (1997-07-16), i. k. 0971010ISTAVIII-309
+Lietuvos Respublikos invalidų socialinės integracijos įstatymo 12 straipsnio pakeitimo įstatymas
