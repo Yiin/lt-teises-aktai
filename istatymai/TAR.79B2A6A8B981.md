@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.79B2A6A8B981"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 1993-10-13 iki 1993-11-18
+Įstatymas netenka galios 1994-07-20:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-528, 1994-07-05, Žin., 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA000I-528
+Lietuvos Respublikos akcinių bendrovių įstatymas
+ 
+Suvestinė redakcija nuo 1993-11-19 iki 1994-07-19
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 57-0; Žin. 1990, Nr.24-594, i. k. 0901010ISTA000I-425
  
@@ -297,7 +302,10 @@ BENDROVĖS BEI AKCININKŲ TEISĖS IR PAREIGOS
 
 5) skirti lėšų labdarai, sveikatos apsaugai, kultūrai, mokslui, švietimui, kūno kultūrai ir sportui, taip pat stichinių nelaimių ir ypatingos padėties padarinių likvidavimui;
 
-6) sudaryti sutartis, prisiimti įsipareigojimus, skolinti ir skolintis piniginių lėšų už palūkanas, nustatomas sutartimi;
+6) sudaryti sutartis, prisiimti įsipareigojimus, skolinti (tik nuosavo kapitalo lėšas) ir skolintis piniginių lėšų už palūkanas, nustatomas sutartimi; 
+Straipsnio punkto pakeitimai:
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
+ 
 
 7) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus, išskyrus tuos atvejus, kai kainas ir kitus normatyvus reguliuoja valstybė;
 
@@ -1034,4 +1042,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-255, 1993-09-28, Žin., 1993, Nr. 52-996 (1993-10-13), i. k. 0931010ISTA000I-255
 Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
+Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
 
