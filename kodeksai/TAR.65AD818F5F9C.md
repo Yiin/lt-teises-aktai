@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
+Suvestinė redakcija nuo 1997-07-11 iki 1998-12-01
+ 
+Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
+ 
 LIETUVOS RESPUBLIKOS
 KELIŲ TRANSPORTO
 KODEKSAS
@@ -858,7 +862,9 @@ Krovinio vežimo sutartyje vežėjas pagal priimtą užsakymą įsipareigoja pri
 
 
 
-4. Važtaraščių apskaitos tvarką nustato Finansų ministerija.
+4. Važtaraščių apskaitos, užsakymo, gamybos, technologinės apsaugos, platinimo, įsigijimo, naudojimo ir likvidavimo tvarką nustato Finansų ministerija.
+Straipsnio dalies pakeitimai:
+Nr. VIII-346, 1997-06-30, Žin., 1997, Nr. 66-1611 (1997-07-11), i. k. 0971010ISTAVIII-346
  
 
 
@@ -1461,3 +1467,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-346, 1997-06-30, Žin., 1997, Nr. 66-1611 (1997-07-11), i. k. 0971010ISTAVIII-346
+Lietuvos Respublikos kelių transporto kodekso 29 straipsnio pakeitimo įstatymas
