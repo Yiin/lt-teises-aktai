@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6D124D42F326"
 
 # Lietuvos Respublikos pilietybės įstatymas
 
-Suvestinė redakcija nuo 1995-06-28 iki 1995-10-19
+Suvestinė redakcija nuo 1995-10-20 iki 1996-02-20
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 251-0; Žin. 1991, Nr.36-977, i. k. 0911010ISTA00I-2072
  
@@ -31,15 +31,24 @@ I. BENDRIEJI NUOSTATAI
 
 Lietuvos Respublikos piliečiai yra:
 
-1) asmenys, iki 1940 m. birželio 15 d. turėję Lietuvos Respublikos pilietybę, jų vaikai ir vaikaičiai, jeigu jie neįgijo kitos valstybės pilietybės;
+1) asmenys, iki 1940 m. birželio 15 d. turėję Lietuvos pilietybę, ir jų vaikai (jeigu šie asmenys ar jų vaikai nerepatrijavo iš Lietuvos);
 
-2) asmenys, 1919 m. sausio 9 d. – 1940 m. birželio 15 d. nuolat gyvenę dabartinėje Lietuvos Respublikos teritorijoje, taip pat jų vaikai ir vaikaičiai, jeigu jie šio įstatymo įsigaliojimo dieną nuolat gyvena Lietuvoje ir nėra kitos valstybės piliečiai;
+2) asmenų, turėjusių Lietuvos pilietybę iki 1940 m. birželio 15 d., vaikaičiai, jeigu jie neįgijo kitos valstybės pilietybės;
 
-3) asmenys, iki 1991 m. lapkričio 4 d. įgiję Lietuvos Respublikos pilietybę pagal Pilietybės įstatymą, galiojusį iki šio įstatymo priėmimo;
+3) asmenys, 1919 m. sausio 9 d. – 1940 m. birželio 15 d. nuolat gyvenę dabartinėje Lietuvos Respublikos teritorijoje, taip pat jų vaikai ir vaikaičiai, jeigu jie Pilietybės įstatymo įsigaliojimo dieną nuolat gyveno ir šiuo metu gyvena Lietuvoje ir nėra kitos valstybės piliečiai;
 
-4) asmenys, kurie įgyvendino teisę į Lietuvos Respublikos pilietybę ar atstatė Lietuvos Respublikos pilietybę pagal šį įstatymą;
+4) lietuvių kilmės asmenys, gyvenantys kitose valstybėse, jeigu jie išvyko iš Lietuvos teritorijos iki 1918 m. vasario 16 d. ir neįgijo kitos valstybės pilietybės;
 
-5) kiti asmenys, kurie įgijo Lietuvos Respublikos pilietybę pagal šį įstatymą. Lietuvos Respublikos pilietis vienu metu negali būti kitos valstybės piliečiu, išskyrus šiame įstatyme numatytus atvejus.
+5) asmenys, iki 1991 m. lapkričio 4 d. įgiję Lietuvos Respublikos pilietybę pagal Pilietybės įstatymą, galiojusį iki Pilietybės įstatymo priėmimo 1991 m. gruodžio 5 dieną;
+
+6) kiti asmenys, kurie įgijo Lietuvos Respublikos pilietybę pagal Pilietybės įstatymą.
+
+Asmenims, nurodytiems šio straipsnio pirmosios dalies 1 punkte, jų pageidavimu išduodami Lietuvos Respublikos piliečio pasai arba pagal šio įstatymo 17 straipsnį teisę į Lietuvos Respublikos pilietybę patvirtinantys dokumentai.
+
+Lietuvos Respublikos pilietis vienu metu negali būti kitos valstybės pilietis, išskyrus šiame įstatyme numatytus atvejus. 
+
+Straipsnio pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
 2 straipsnis. Lietuvos Respublikos pilietybę patvirtinantis dokumentas
@@ -50,8 +59,6 @@ Lietuvos Respublikos pilietybę patvirtinantis dokumentas yra Lietuvos Respublik
 3 straipsnis. Lietuvos Respublikos piliečių teisinė padėtis
 
 Lietuvos Respublikos piliečiai turi visas socialines ekonomines, politines ir asmenines teises bei laisves, kurias skelbia ir garantuoja Lietuvos Respublikos Konstitucija ir įstatymai, taip pat Lietuvos Respublikos tarptautinės sutartys.
-
-Lietuvos Respublikos piliečiai turi aktyviąją rinkimų teisę. Ši teisė įgyvendinama įstatymų nustatyta tvarka. Lietuvos Respublikos piliečiai, nuolat gyvenantys Lietuvoje, turi teisę būti išrinkti įstatymų nustatyta tvarka į Lietuvos Respublikos atstovaujamuosius valdžios ir kitus renkamuosius valstybinius organus, paskirti į valstybinės valdžios ir valdymo organus, išrinkti Lietuvos Respublikos teismų teisėjais, dalyvauti referendumuose.
 
 Lietuvos Respublikos pilietis turi laikytis Lietuvos Respublikos Konstitucijos ir įstatymų, vykdyti jų nustatytas pareigas, saugoti Lietuvos Respublikos interesus, padėti stiprinti jos galią ir autoritetą, būti jai ištikimas.
  
@@ -82,7 +89,10 @@ Lietuvos Respublikos pilietybė įgyjama:
 
 1) gimus;
 
-2) įgyvendinus teisę į Lietuvos Respublikos pilietybę ar atstačius Lietuvos Respublikos pilietybę;
+2) įgyvendinus teisę į Lietuvos Respublikos pilietybę;
+Straipsnio punkto pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+ 
 
 3) suteikus Lietuvos Respublikos pilietybę (natūralizacija);
 
@@ -142,24 +152,29 @@ Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA00
 
 Asmenims, atitinkantiems šiame straipsnyje numatytas sąlygas, Lietuvos Respublikos pilietybė teikiama, atsižvelgiant į Lietuvos Respublikos interesus.
 
-Asmenims, sulaukusiems 65 metų, ir I bei II grupių klausos, regos invalidams netaikomi Lietuvos Respublikos pilietybės įstatymo 12 straipsnio pirmosios dalies 1 punkto reikalavimai.
+Asmenims, sukakusiems 65 metus, I ir II grupių invalidams, taip pat sergantiems sunkiomis chroninėmis psichinėmis ligomis, netaikomi šio įstatymo 12 straipsnio pirmosios dalies 1 ir 4 punktų reikalavimai. 
 Papildyta straipsnio dalimi:
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
+Straipsnio dalies pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
 13 straipsnis. Aplinkybės, dėl kurių Lietuvos Respublikos pilietybė neteikiama
 
-Lietuvos Respublikos pilietybė neteikiama (įskaitant optavimą) asmenims, kurie:
+Lietuvos Respublikos pilietybė neteikiama natūralizacija asmenims, kurie:
 
 1) padarė tarptautinės teisės numatytų nusikaltimų žmogiškumui ar vykdė genocidą;
 
 2) dalyvavo nusikalstamoje veikloje prieš Lietuvos valstybę;
 
-3) iki atvykimo gyventi į Lietuvą kitoje valstybėje buvo bausti laisvės atėmimo bausme už tyčinį nusikaltimą, už kurį baudžiamąją atsakomybę nustato ir Lietuvos Respublikos įstatymai, arba buvo bausti Lietuvoje už tyčinį nusikaltimą, už kurį numatoma laisvės atėmimo bausmė;
+3) iki atvykimo gyventi į Lietuvą kitoje valstybėje buvo teisti laisvės atėmimo bausme už tyčinį nusikaltimą, už kurį baudžiamąją atsakomybę nustato ir Lietuvos Respublikos įstatymai, arba buvo teisti Lietuvoje už tyčinį nusikaltimą, už kurį numatoma laisvės atėmimo bausmė;
 
 4) yra chroniški narkomanai, alkoholikai ar toksikomanai;
 
 5) serga ypač pavojingomis infekcinėmis ligomis.
+
+Straipsnio pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
 14 straipsnis. Lietuvos Respublikos pilietybės suteikimas asmeniui, sudariusiam santuoką su Lietuvos Respublikos piliečiu
@@ -183,6 +198,11 @@ Lietuvos Respublikai prisiekiama viešai ir iškilmingai. Pilietybę įgyjantis 
 
 Respublikos Prezidentas, vadovaudamasis šiuo įstatymu, gali suteikti Lietuvos Respublikos pilietybę nusipelniusiems Lietuvai užsienio valstybių piliečiams išimties tvarka – netaikant jiems šio įstatymo 12 straipsnyje numatytų pilietybės suteikimo sąlygų.
 
+Lietuvos Respublikos pilietybės suteikimas išimties tvarka savaime nesukelia teisinių pasekmių pilietybę įgijusio asmens šeimos nariams. 
+Papildyta straipsnio dalimi:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+ 
+
 Straipsnio pakeitimai:
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
  
@@ -194,34 +214,27 @@ III. TEISĖS Į LIETUVOS RESPUBLIKOS PILIETYBĘ IŠSAUGOJIMAS. LIETUVOS RESPUBLI
 
 Teisė į Lietuvos Respublikos pilietybę neterminuotai išsaugoma:
 
-1) asmenims, turėjusiems Lietuvos Respublikos pilietybę iki 1940 m. birželio 15 d. ir gyvenantiems kitose valstybėse, jei šie asmenys nėra repatrijavę iš Lietuvos;
+1) asmenims, iki 1940 m. birželio 15 d. turėjusiems Lietuvos pilietybę, ir jų vaikams (jei šie asmenys ar jų vaikai nerepatrijavo iš Lietuvos);
 
-2) asmenų, turėjusių Lietuvos Respublikos pilietybę iki 1940 m. birželio 15 d., vaikams, kurie gimė Lietuvoje ar pabėgėlių stovyklose, tačiau gyvena kitose valstybėse;
+2) lietuvių kilmės asmenims, gyvenantiems kitose valstybėse.
 
-3) kitiems lietuvių kilmės asmenims, gyvenantiems užsienio valstybėse ar jų valdomose teritorijose.
+Lietuvių kilmės asmeniu laikomas asmuo, kurio tėvai ar seneliai arba vienas iš tėvų ar senelių yra lietuviai ir pats asmuo pripažįsta, kad laiko save lietuviu.
 
 Asmenims, kuriems išsaugoma teisė į Lietuvos Respublikos pilietybę, pagal jų prašymą išduodami šią teisę patvirtinantys dokumentai.
 
-Šie asmenys su savo šeimos nariais gali atvykti į Lietuvos Respubliką be vizų ir gyventi Lietuvoje netaikant jiems Imigracijos įstatymo reikalavimų, iš jos išvykti. Įstatymai gali nustatyti ir kitas šių asmenų teises.
+Šie asmenys su savo šeimos nariais gali atvykti į Lietuvos Respubliką be vizų, gyventi Lietuvoje netaikant jiems Imigracijos įstatymo reikalavimų bei iš jos išvykti. Įstatymai gali nustatyti ir kitas šių asmenų teises.
 
-Šiame straipsnyje nurodyti asmenys teisę į Lietuvos Respublikos pilietybę įgyvendina pagal šį įstatymą.
+Asmenys, nurodyti šio straipsnio pirmosios dalies 1 punkte, teisę į Lietuvos Respublikos pilietybę įgyvendina pagal šio įstatymo 1 straipsnį.
+
+Asmenys, nurodyti šio straipsnio pirmosios dalies 2 punkte, teisę į Lietuvos Respublikos pilietybę įgyvendina, kai atsisako turimos kitos valstybės pilietybės ir grįžta nuolat gyventi į Lietuvą. 
+
+Straipsnio pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
-18 straipsnis. Teisės į Lietuvos Respublikos pilietybę įgyvendinimo ar Lietuvos Respublikos pilietybės atstatymo sąlygos
-
-Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 1 punkte, teisę į Lietuvos Respublikos pilietybę įgyvendina, kai atsisako turimos kitos valstybės pilietybės.
-
-Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 2 ir 3 punktuose, teisę į Lietuvos Respublikos pilietybę įgyvendina, kai atsisako turimos kitos valstybės pilietybės ir persikelia nuolat gyventi į Lietuvą bei prisiekia Lietuvos Respublikai.
-
-Lietuvių kilmės asmenys, prieš 1940 m. birželio 15 d. turėję Lietuvos Respublikos pilietybę, ir jų vaikai, taip pat kiti asmenys, iki 1940 m. birželio 15 d. turėję Lietuvos Respublikos pilietybę (jei visi nurodytieji nėra repatrijavę iš Lietuvos) ir nuo 1940 m. birželio 15 d. iki 1990 m. kovo 11 d. pasitraukę arba ištremti iš Lietuvos, gyvenantys kitose valstybėse, Lietuvos Respublikos pilietybę atstato raštu pareiškę Lietuvos Respublikos vidaus reikalų ministerijai ar Lietuvos Respublikos diplomatinėms įstaigoms užsienyje, kad jie yra Lietuvos Respublikos piliečiai, ir pateikę patvirtinančius įrodymus. Jiems netaikomos šio straipsnio pirmosios dalies ir Pilietybės įstatymo 1 straipsnio 1 punkto išlygos.
-Straipsnio dalies pakeitimai:
-Nr. I-2079, 1991-12-10, Lietuvos aidas, 1991, Nr. 251-0 (1991-12-17); Žin., 1991, Nr. 36-981 (1991-12-31), i. k. 0911010ISTA00I-2079
-Nr. I-320, 1993-12-07, Žin., 1993, Nr. 70-1303 (1993-12-18), i. k. 0931010ISTA000I-320
- 
-
-Lietuvos Respublikos pilietybės atstatymas pagal šį įstatymą savaime nesukelia teisinių pasekmių atstačiusio pilietybę asmens šeimos nariams.
-
-Lietuvos Respublikos pilietybė laikoma atstatyta, kai asmeniui išduodamas Lietuvos Respublikos piliečio pasas.
+18 straipsnis. Neteko galios nuo 1995-10-20
+Straipsnio naikinimas:
+Nr. I-1053, 1995-10-03, Žin. 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
 19 straipsnis. Lietuvos Respublikos pilietybės netekimas
@@ -241,14 +254,19 @@ Lietuvos Respublikos pilietybės netenkama:
 
 Lietuvos Respublikos piliečio teisė atsisakyti pilietybės negali būti varžoma, išskyrus šiame straipsnyje nurodytus atvejus.
 
-Asmens prašymas atsisakyti Lietuvos Respublikos pilietybės negali būti patenkinamas, jeigu to prašantis asmuo patrauktas baudžiamojon atsakomybėn kaltinamuoju arba jo atžvilgiu yra įsiteisėjęs ir vykdytinas teismo nuosprendis.
+Asmens prašymas atsisakyti Lietuvos Respublikos pilietybės negali būti nagrinėjamas, jeigu to prašantis asmuo patrauktas baudžiamojon atsakomybėn kaltinamuoju arba jo atžvilgiu yra įsiteisėjęs ir vykdytinas teismo nuosprendis.
+Straipsnio dalies pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
 21 straipsnis. Lietuvos Respublikos pilietybės netekimas, asmeniui nutraukus faktinius ryšius su Lietuvos valstybe
 
 Asmuo gali būti pripažintas netekusiu Lietuvos Respublikos pilietybės, jeigu jis nutraukia faktinius ryšius su Lietuvos valstybe:
 
-1) ilgiau kaip trejus metus be pertraukos gyvena užsienyje su negaliojančiu Lietuvos Respublikos piliečio pasu arba be šio paso;
+1) ilgiau kaip trejus metus be pertraukos gyvena užsienyje su negaliojančiu Lietuvos Respublikos piliečio pasu;
+Straipsnio punkto pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+ 
 
 2) stoja kitos valstybės karinėn tarnybon ar pareigūnu valstybinėn tarnybon be Lietuvos Respublikos kompetentingų organų leidimo.
  
@@ -269,12 +287,26 @@ Papildyta straipsnio dalimi:
 Nr. I-332, 1993-12-14, Žin., 1993, Nr. 71-1327 (1993-12-22), i. k. 0931010ISTA000I-332
  
 
+Lietuvos Respublikos pilietis, gavęs kitos valstybės piliečio pasą arba kitą tos valstybės pilietybę patvirtinantį dokumentą po to, kai jam buvo išduoti Lietuvos Respublikos pilietybės dokumentai, privalo per 30 dienų raštu pranešti apie tai gyvenamosios vietos Lietuvoje (miesto, rajono) migracijos tarnybai arba Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos, arba Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai užsienyje
+Papildyta straipsnio dalimi:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+ 
+
+Lietuvos Respublikos pilietybės įgijimas pripažįstamas negaliojančiu, jeigu paaiškėja, kad asmuo Lietuvos Respublikos pilietybę patvirtinančius dokumentus įgijo neteisėtai ar nepagrįstai. 
+Papildyta straipsnio dalimi:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+ 
+
 IV. VAIKŲ PILIETYBĖ, PASIKEITUS TĖVŲ PILIETYBEI
  
 
 24 straipsnis. Vaikų pilietybės pasikeitimas, pasikeitus abiejų tėvų pilietybei
 
 Jeigu abu tėvai įgyja Lietuvos Respublikos pilietybę arba abu jos netenka, atitinkamai pasikeičia jų vaikų, nesukakusių 14 metų, pilietybė.
+
+Įtėviai prilyginami tėvams, o įvaikiai – vaikams. 
+Papildyta straipsnio dalimi:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
 25 straipsnis. Vaikų Lietuvos Respublikos pilietybės įgijimas, kai Lietuvos Respublikos pilietybę įgijo vienas iš tėvų
@@ -302,7 +334,10 @@ V. LIETUVOS RESPUBLIKOS PILIETYBĖS KLAUSIMŲ SPRENDIMO TVARKA
 
 28 straipsnis. Prašymų ir teikimų Lietuvos Respublikos pilietybės klausimais padavimas
 
-Lietuvos Respublikos pilietybės suteikimo, teisės į Lietuvos Respublikos pilietybę įgyvendinimo, Lietuvos Respublikos pilietybės atstatymo, atsisakymo ir grąžinimo klausimas svarstomas pagal suinteresuoto asmens raštišką prašymą.
+Lietuvos Respublikos pilietybės suteikimo, teisės į Lietuvos Respublikos pilietybę įgyvendinimo, atsisakymo ir grąžinimo klausimas svarstomas pagal suinteresuoto asmens raštišką prašymą.
+Straipsnio dalies pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+ 
 
 Prie prašymo suteikti Lietuvos Respublikos pilietybę pridedami šie dokumentai: 
 asmens tapatybę patvirtinantis dokumentas; gimimo liudijimas; dokumentai, patvirtinantys nuolatinę gyvenamąją vietą ir nuolatinius darbą (užsiėmimą) arba kitą legalų pragyvenimo šaltinį; dokumentai, patvirtinantys, jog nėra aplinkybių, nurodytų šio įstatymo 13 straipsnio 4 ir 5 punktuose.
@@ -313,14 +348,17 @@ Nr. I-2312, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
  
 
-Prie pareiškimo atstatyti Lietuvos Respublikos pilietybę pridedami dokumentai, patvirtinantys, kad asmuo iki 1940 m. birželio 15 d. turėjo Lietuvos Respublikos pilietybę ir iki 1990 m. kovo 11 d. pasitraukė iš Lietuvos (ar yra tokio asmens vaikas); pasas ar jį atitinkantis dokumentas; dokumentai, patvirtinantys asmens tapatybę, lietuvių kilmę, turimą kitos valstybės pilietybę (arba dokumentas patvirtinantis, kad asmuo yra be pilietybės); 
+Dokumentai, įrodantys, jog asmuo iki 1940 m. birželio 15 d. turėjo Lietuvos Respublikos pilietybę, yra: išlikę Lietuvos Respublikos vidaus ar užsienio pasai, išduoti iki 1940 m. birželio 15 d.; Lietuvos Respublikos užsienio pasai, išduoti Lietuvos diplomatinių atstovybių ar konsulinių įstaigų po 1940 m. birželio 15 d.; dokumentai apie tarnybą Lietuvos kariuomenėje ar darbą valstybinėje tarnyboje; gimimo liudijimai arba kiti dokumentai, kuriuose tiesiogiai nurodyta apie turėtą Lietuvos pilietybę. Jeigu šių dokumentų nėra, gali būti pateikiami: dokumentai apie mokymąsi, darbą, gyvenimą Lietuvoje iki 1940 m. birželio 15 d.; priesaikinis pareiškimas, patvirtintas notaro arba Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos pareigūno; užsienio valstybės paso patvirtinta kopija ir kiti dokumentai. Lietuvių kilmę patvirtina dokumentai, tiesiogiai ar netiesiogiai rodantys, kad asmens tėvai ar seneliai, vienas iš tėvų ar senelių yra lietuviai, taip pat asmens rašytinis pareiškimas, patvirtinantis, kad jis laiko save lietuviu. Jeigu nėra patikimų dokumentų, įrodančių lietuvių kilmę, šį klausimą sprendžia Pilietybės reikalų komisija. Pateikiami dokumentai turi atitikti Lietuvos Respublikos įstatymų nustatytus reikalavimus. 
 Papildyta straipsnio dalimi:
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
+Straipsnio dalies pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
-Prie prašymo atsisakyti Lietuvos Respublikos pilietybės pridedami: Lietuvos Respublikos piliečio pasas, Piliečio pažymėjimas ar Pažymėjimas apie apsisprendimą dėl Lietuvos Respublikos pilietybės (jeigu asmeniui Lietuvos Respublikos piliečio pasas nebuvo išduotas, pateikiamas tai patvirtinantis dokumentas iš nuolatinės gyvenamosios vietos policijos komisariato migracijos tarnybos); turimo Sovietų Sąjungos ar kitos valstybės paso nuorašas, patvirtintas notariškai ar pareigūno, kuris priima prašymą dėl pilietybės atsisakymo; dokumentai, patvirtinantys asmens nuolatinę gyvenamąją vietą ir darbą (užsiėmimą); sumokėtos valstybinės rinkliavos kvitas. 
+Prie prašymo atsisakyti Lietuvos Respublikos pilietybės pridedami: Lietuvos Respublikos piliečio pasas, kitos valstybės paso nuorašas, patvirtintas notariškai ar pareigūno, kuris priima prašymą dėl pilietybės atsisakymo; dokumentai, patvirtinantys asmens nuolatinę gyvenamąją vietą ir darbą (užsiėmimą); sumokėtos valstybinės rinkliavos kvitas. 
 Straipsnio dalies pakeitimai:
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
 Prie prašymo grąžinti Lietuvos Respublikos pilietybę pridedami šie dokumentai:
@@ -328,30 +366,34 @@ asmens tapatybę patvirtinantis dokumentas;
 gimimo liudijimas; dokumentas apie turėtos Lietuvos Respublikos pilietybės netekimo pagrindus;
 dokumentai, patvirtinantys nuolatinę gyvenamąją vietą ir nuolatinius darbą (užsiėmimą) arba kitą legalų pragyvenimo šaltinį.
 
-18 metų neturinčių asmenų prašymus suteikti, atstatyti, įgyvendinti teisę į Lietuvos Respublikos pilietybę, atsisakyti Lietuvos Respublikos pilietybės ar ją grąžinti paduoda jų teisėti atstovai.
+18 metų neturinčių asmenų prašymus suteikti, įgyvendinti teisę į Lietuvos Respublikos pilietybę, atsisakyti Lietuvos Respublikos pilietybės ar ją grąžinti paduoda jų teisėti atstovai.
+Straipsnio dalies pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+ 
 
 Teikimus pripažinti asmenį netekusiu Lietuvos Respublikos pilietybės šio įstatymo 21 straipsnyje nurodytais atvejais turi teisę paduoti Lietuvos Respublikos vidaus reikalų ministerija, taip pat Lietuvos Respublikos užsienio reikalų ministerija.
 
-Prašymai suteikti Lietuvos Respublikos pilietybę, atsisakyti Lietuvos Respublikos pilietybės ar ją grąžinti paduodami Respublikos Prezidentui per vietos savivaldos vykdomąją instituciją. Lietuvos Respublikos piliečiai, nuolat gyvenantys užsienio valstybėse, prašymus atsisakyti Lietuvos Respublikos pilietybės gali paduoti per Lietuvos Respublikos diplomatines (konsulines) įstaigas užsienyje.
+Prašymai suteikti Lietuvos Respublikos pilietybę, atsisakyti Lietuvos Respublikos pilietybės ar ją grąžinti paduodami Respublikos Prezidentui per vietos savivaldos vykdomąją instituciją. Lietuvos Respublikos piliečiai, nuolat gyvenantys užsienio valstybėse, prašymus atsisakyti Lietuvos Respublikos pilietybės gali paduoti per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje.
 Straipsnio dalies pakeitimai:
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 Nr. I-945, 1995-06-13, Žin., 1995, Nr. 53-1300 (1995-06-28), i. k. 0951010ISTA000I-945
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
-Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 1 punkte, prašymus įgyvendinti teisę į Lietuvos Respublikos pilietybę paduoda Lietuvos Respublikos vidaus reikalų ministerijos įstaigoms ar Lietuvos Respublikos diplomatinėms (konsulinėms) įstaigoms užsienyje. 
+Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 1 punkte, prašymus įgyvendinti teisę į Lietuvos Respublikos pilietybę paduoda Lietuvos Respublikos vidaus reikalų ministerijos įstaigoms ar Lietuvos Respublikos diplomatinėms atstovybėms ar konsulinėms įstaigoms užsienyje. 
+Straipsnio dalies pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+ 
 
-Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 2 ir 3 punktuose, prašymus įgyvendinti teisę į Lietuvos Respublikos pilietybę paduoda Lietuvos Respublikos vidaus reikalų ministerijai per vietos savivaldos vykdomąją instituciją.
+Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 2 punkte, prašymus įgyvendinti teisę į Lietuvos Respublikos pilietybę paduoda Lietuvos Respublikos vidaus reikalų ministerijai per vietos savivaldos vykdomąją instituciją.
 Straipsnio dalies pakeitimai:
 Nr. I-945, 1995-06-13, Žin., 1995, Nr. 53-1300 (1995-06-28), i. k. 0951010ISTA000I-945
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
-Asmenys, atstatantys Lietuvos Respublikos pilietybę, prašymus paduoda Lietuvos Respublikos vidaus reikalų ministerijai tiesiog ar per Lietuvos Respublikos diplomatines įstaigas užsienyje.
-
-Asmenims, kurie įgyvendina teisę į Lietuvos Respublikos pilietybę, Vidaus reikalų ministerija išduoda Lietuvos Respublikos piliečio pasus, kai įvykdytos šio įstatymo 18 straipsnio pirmojoje ar antrojoje dalyje numatytos sąlygos.
-
-Asmenims, kurie atstato Lietuvos Respublikos pilietybę, Vidaus reikalų ministerija ar Lietuvos Respublikos diplomatinės įstaigos užsienyje išduoda Lietuvos Respublikos piliečių pasus, kai įvykdytos šio įstatymo 18 straipsnio trečiojoje dalyje numatytos sąlygos. 
+Asmenims, kurie įgyvendina teisę į Lietuvos Respublikos pilietybę, Vidaus reikalų ministerija išduoda Lietuvos Respublikos piliečio pasus, kai įvykdytos šio įstatymo 17 straipsnio šeštojoje dalyje numatytos sąlygos.
 Straipsnio dalies pakeitimai:
-Nr. I-2312, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-162 (1992-03-10), i. k. 0921010ISTA00I-2312
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
 29 straipsnis. Pilietybės reikalų komisija
@@ -375,6 +417,11 @@ Papildyta straipsnio dalimi:
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
  
 
+Jeigu asmenys negali nustatyta tvarka gauti reikiamų dokumentų, patvirtinančių iki 1940 m. birželio 15 d. turėtą Lietuvos pilietybę arba lietuvių kilmę, miesto, rajono migracijos tarnybos, Migracijos departamentas prie Vidaus reikalų ministerijos, Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos užsienyje gali kreiptis dėl šių faktų nustatymo į Pilietybės reikalų komisiją. Ši komisija teikia nurodytoms institucijoms rekomendacinio pobūdžio išvadas. Sprendimą šiuo klausimu priima Migracijos departamentas prie Vidaus reikalų ministerijos. 
+Papildyta straipsnio dalimi:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+ 
+
 30 straipsnis. Neteko galios nuo 1993-07-28
 Straipsnio naikinimas:
 Nr. I-240, 1993-07-16, Žin. 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
@@ -384,20 +431,25 @@ Nr. I-240, 1993-07-16, Žin. 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000
 
 Lietuvos Respublikos pilietybės suteikimo, jos atsisakymo, grąžinimo, pilietybės netekimo pagal šio įstatymo 21 straipsnį, taip pat akto dėl pilietybės suteikimo pripažinimo negaliojančiu, klausimus sprendžia Respublikos Prezidentas ir dėl to leidžia dekretus.
 
-Sprendimus dėl Lietuvos Respublikos pilietybės atstatymo ar teisės į Lietuvos Respublikos pilietybę įgyvendinimo priima Lietuvos Respublikos vidaus reikalų ministras.
+Sprendimus dėl teisės į Lietuvos Respublikos pilietybę įgyvendinimo priima Lietuvos Respublikos vidaus reikalų ministras.
+Straipsnio dalies pakeitimai:
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+ 
 
 Jeigu paaiškėja, kad asmuo įgijo kitos valstybės pilietybę, vidaus reikalų ministras konstatuoja Lietuvos Respublikos pilietybės netekimo faktą pagal šio įstatymo 19 straipsnio 2 punktą. Toks asmuo laikomas netekusiu Lietuvos Respublikos pilietybės nuo kitos valstybės pilietybės įgijimo dienos.
 
-Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo, vidaus reikalų ministro sprendimas dėl teisės į Lietuvos Respublikos pilietybę pagal šio įstatymo 18 straipsnio antrąją dalį įsigalioja tik asmeniui prisiekus vietos savivaldos vykdomosiose institucijose arba Lietuvos Respublikos diplomatinėse (konsulinėse) įstaigose užsienyje.
+Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo, vidaus reikalų ministro sprendimas dėl teisės į Lietuvos Respublikos pilietybę pagal šio įstatymo 17 straipsnio trečiąją dalį įsigalioja tik asmeniui prisiekus vietos savivaldos vykdomosiose institucijose arba Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse įstaigose užsienyje.
 Straipsnio dalies pakeitimai:
 Nr. I-945, 1995-06-13, Žin., 1995, Nr. 53-1300 (1995-06-28), i. k. 0951010ISTA000I-945
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
 Asmenys, kurie įgydami Lietuvos Respublikos pilietybę netenka turėtos kitos valstybės pilietybės, prisiekia Lietuvos Respublikai po to, kai pateikia įrodymus, kad jie neteko kitos valstybės pilietybės.
 
-Vietos savivaldos vykdomosios institucijos, Lietuvos Respublikos diplomatinės (konsulinės) įstaigos užsienyje per 7 dienas nuo priesaikos Lietuvos Respublikai apie tai praneša Respublikos Prezidento kanceliarijai ir Vidaus reikalų ministerijai.
+Vietos savivaldos vykdomosios institucijos, Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos užsienyje per 7 dienas nuo priesaikos Lietuvos Respublikai apie tai praneša Respublikos Prezidento kanceliarijai ir Vidaus reikalų ministerijai.
 Straipsnio dalies pakeitimai:
 Nr. I-945, 1995-06-13, Žin., 1995, Nr. 53-1300 (1995-06-28), i. k. 0951010ISTA000I-945
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
  
 
 Straipsnio pakeitimai:
@@ -491,4 +543,9 @@ Dėl Lietuvos Respublikos pilietybės įstatymo 23 straipsnio papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-945, 1995-06-13, Žin., 1995, Nr. 53-1300 (1995-06-28), i. k. 0951010ISTA000I-945
 Dėl Lietuvos Respublikos pilietybės įstatymo pakeitimo
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+Dėl Lietuvos Respublikos pilietybės įstatymo pakeitimo ir papildymo
 
