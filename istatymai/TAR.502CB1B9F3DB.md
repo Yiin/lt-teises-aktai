@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.502CB1B9F3DB"
 @D1=19950502;D2=19960702;D3=19960918
 
 Redagavo:
-Ramunė Lūžaitė (1997.12.04)
+Ramunė Lūžaitė (1998.01.19)
  
 Įstatymas
 paskelbtas: Žin., 1995,
@@ -44,6 +44,15 @@ VIII-516, 97.11.18, Žin., 1997, Nr.111-2796 (97.12.05)
 LIETUVOS
 RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 11
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-600, 98.01.08, Žin., 1998, Nr.6-114 (98.01.16)
+LIETUVOS
+RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 4
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -112,11 +121,16 @@ Derinamas ekonominius santykius reguliuojančio teisės akto projektas turi būt
 Jeigu yra pagrindo manyti, kad priimtas teisės aktas gali daryti įtaką
 kriminogeninei situacijai, jį priimti įgaliota institucija skiria kriminologinę
 ekspertizę.
+7. Komisijų ir darbo grupių, kurias sudaro
+Seimas, Respublikos Prezidentas ar Vyriausybė, darbo apmokėjimo už teisės aktų
+rengimą ir ekspertizę tvarką tvirtina Vyriausybė.
  
 Straipsnio
 pakeitimai:
 Nr.
 I-1421, 96.07.02, Žin., 1996, Nr. 68-1632 (96.07.19) 
+Nr.
+VIII-600, 98.01.08, Žin., 1998, Nr.6-114 (98.01.16)
  
      5
 straipsnis. Teisės akto reikalavimai
@@ -183,8 +197,8 @@ straipsnis. Įstatymo forma
 Įstatymą pasirašančiojo pareigos išdėstomos po tekstu didžiosiomis raidėmis
 eilutės kairėje, o vardas, pavardė - eilutės dešinėje.
      7.
-Kartu su įstatymo projektu pateikiamas aiškinamasis raštas pagal Lietuvos Respublikos
-Seimo statuto 140 straipsnio nuostatas.
+Kartu su įstatymo projektu pateikiamas aiškinamasis raštas pagal Lietuvos
+Respublikos Seimo statuto 140 straipsnio nuostatas.
  
 Straipsnio
 pakeitimai:
@@ -210,10 +224,11 @@ turi turėti pavadinimus (antraštes). Įstatymo dalių,  skyrių  ir skirsni�
 pavadinimai rašomi didžiosiomis raidėmis  eilutės  centre.  Straipsnių 
 pavadinimai  rašomi mažosiomis raidėmis.
      3. 
-Įstatymo  dalys  ir  skyriai  žymimi  romėniškais skaitmenimis iš eilės.
+Įstatymo  dalys  ir  skyriai  žymimi  romėniškais skaitmenimis iš eilės.
 Skirsniai žymimi žodžiais išreikštais skaitmenimis.  Straipsniai žymimi
-arabiškais skaitmenimis ir numeruojami iš eilės. Po žodžio "straipsnis"
-dedamas taškas ir straipsnio pavadinimas rašomas toje pačioje eilutėje.
+arabiškais skaitmenimis ir numeruojami iš eilės. Po žodžio
+"straipsnis" dedamas taškas ir straipsnio pavadinimas rašomas toje pačioje
+eilutėje.
      4.
 Įstatymo straipsnį sudaro dalys ir dalių punktai. Įstatymo straipsnių dalys
 pradedamos rašyti iš naujos eilutės ir žymimos arabiškais skaitmenimis su tašku
@@ -252,18 +267,18 @@ ir punktai. Straipsniai - be pavadinimų, žymimi arabiškais skaitmenimis ir
 numeruojami iš eilės.  Po skaitmens rašomas žodis "straipsnis" ir
 dedamas taškas, straipsnio tekstas rašomas iš naujos eilutės. Straipsnių dalys
 }ymimos arabiškais skaitmenimis iš eilės. Straipsnio dalių punktai žymimi
-arabiškais skaitmenimis su skliausteliu. Seimo nutarimais ir Prezidento
-dekretais tvirtinami teisės aktai turi punktus ir papunkčius. Jų punktai žymimi
+arabiškais skaitmenimis su skliausteliu. Seimo nutarimais ir Prezidento dekretais
+tvirtinami teisės aktai turi punktus ir papunkčius. Jų punktai žymimi
 arabiškais skaitmenimis su  tašku,  o  papunkčiai  žymimi  arabišku  skaitmeniu
 su skliausteliu.
      3.
-Vyriausybės ir kitų institucijų teisės aktus sudaro punktai, jų pastraipos ir
-punktų papunkčiai. Punktai žymimi arabiškais skaitmenimis ir numeruojami iš
-eilės. Po skaitmens dedamas  taškas.  Punktų  pastraipos  nenumeruojamos.
-Punktų papunkčiai žymimi arabiškais skaitmenimis ir turi pradinį punkto ir savo
-eilės skaitmenį. Tarp punkto ir papunkčio skaitmens ir po  papunkčio 
-skaitmens  dedami taškai. Atskirai numeruoti papunkčiai gali būti vadinami
-punktais. Viso teisės akto punktų numeracija yra ištisinė.
+Vyriausybės ir kitų institucijų teisės aktus sudaro punktai, jų pastraipos ir punktų
+papunkčiai. Punktai žymimi arabiškais skaitmenimis ir numeruojami iš eilės. Po
+skaitmens dedamas  taškas.  Punktų  pastraipos  nenumeruojamos. Punktų
+papunkčiai žymimi arabiškais skaitmenimis ir turi pradinį punkto ir savo eilės
+skaitmenį. Tarp punkto ir papunkčio skaitmens ir po  papunkčio  skaitmens 
+dedami taškai. Atskirai numeruoti papunkčiai gali būti vadinami punktais. Viso
+teisės akto punktų numeracija yra ištisinė.
      4.
 Didesnės apimties teisės aktas gali būti skirstomas į skyrius ir skirsnius.
 Skyriai ir skirsniai žymimi romėniškais skaitmenimis iš eilės.
@@ -289,8 +304,8 @@ pavadinimas negali būti trumpinamas.
  
      11
 straipsnis. Teisės akto, kuriuo keičiamas ar papildomas kitas 
-                   
-teisės aktas, reikalavimai
+               
+    teisės aktas, reikalavimai
  
      1.
 Keičiant teisės aktą, jei straipsnis, jo dalis ar punktas keičiamas iš esmės,
@@ -326,8 +341,8 @@ keičiami keli įstatymai (jų straipsniai, dalys ar punktai), oficialaus
 paskelbimo šaltiniai nurodomi po keičiančiojo įstatymo skirsnio pavadinimo.
      5.
 Keičiant ar pildant įstatymus, paskelbtus iki Lietuvos Respublikos  įstatymų ir
-kitų teisės norminių aktų rengimo tvarkos įstatymo (Žin., 1995, Nr.41-991) įsigaliojimo,
-jų forma ir struktūra nekeičiama.
+kitų teisės norminių aktų rengimo tvarkos įstatymo (Žin., 1995, Nr.41-991)
+įsigaliojimo, jų forma ir struktūra nekeičiama.
  
 Straipsnio
 pakeitimai:
