@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0042BFA4D2AE"
 
 # Lietuvos Respublikos ūkinio teismo laikinasis įstatymas
 
+Suvestinė redakcija nuo 1995-04-26 iki 1996-08-31
+ 
+Įstatymas paskelbtas: Žin. 1994, Nr. 30-534, i. k. 0941010ISTA000I-433
+ 
 LIETUVOS RESPUBLIKOS
 ŪKINIO TEISMO LAIKINASIS
 ĮSTATYMAS
@@ -37,7 +41,10 @@ Vilnius
 
 Ūkinis teismas yra sudėtinė Lietuvos Respublikos teismų sistemos dalis ir teisingumą vykdo, spręsdamas visų Lietuvos Respublikos ūkio subjektų visus ūkinius ginčus, kylančius iš ūkinės komercinės veiklos.
 
-Šis teismas gali nagrinėti ginčus, kurių viena šalis yra ir užsienio juridinis asmuo, jei yra Lietuvos Respublikos susitarimas su užsienio valstybe dėl teisinio bendradarbiavimo ir užsienio valstybės bei Lietuvos juridiniai asmenys sutinka.
+Šis teismas gali nagrinėti ginčus, kurių viena šalis yra ir užsienio juridinis asmuo, jei yra Lietuvos Respublikos susitarimas su užsienio valstybe dėl teisinio bendradarbiavimo.
+Straipsnio dalies pakeitimai:
+Nr. I-851, 1995-04-11, Žin., 1995, Nr. 34-815 (1995-04-26), i. k. 0951010ISTA000I-851
+ 
 
 Ūkinio teismo ir teisėjų statusas visais teismo organizavimo ir veiklos klausimais toks pat kaip apylinkių teismų ir apylinkių teismų teisėjų, išskyrus šiame įstatyme numatytas išimtis.
  
@@ -82,13 +89,10 @@ Vyriausiojo valstybinio arbitro, jo pavaduotojo ir arbitrų, paskirtų ūkinio t
 
 Ūkinis teismas nagrinėja bylas pagal Lietuvos Respublikos civilinio proceso kodekso ir kitų įstatymų normas, reguliuojančias apylinkės teismų veiklą.
 
-Nagrinėjant bylas ūkiniame teisme, netaikomos Civilinio proceso kodekso normos, nustatytos:
-
-1) 55 ir 56 straipsniuose;
-
-2) 68 72 straipsniuose;
-
-3) 135 145 straipsniuose, išskyrus 142 straipsnio antrosios dalies 4 punktą, 217 straipsnio ketvirtojoje dalyje, 252 256 straipsniuose ir 373 straipsnio ketvirtojoje dalyje.
+Nagrinėjant bylas ūkiniame teisme, netaikomos Lietuvos Respublikos civilinio proceso kodekso normos, nustatytos šio kodekso 68–72, 252–256 straipsniuose. Ūkinio teismo sprendimams netaikomi Civilinio proceso kodekso 343 straipsnio 8 punktas ir 3713 straipsnio 7 punktas. 
+Straipsnio dalies pakeitimai:
+Nr. I-851, 1995-04-11, Žin., 1995, Nr. 34-815 (1995-04-26), i. k. 0951010ISTA000I-851
+ 
 
 Bylas ūkiniame teisme nagrinėja ūkinio teismo teisėjas dalyvaujant įgaliotiems šalių atstovams.
  
@@ -100,11 +104,16 @@ Atsakovas, gavęs ieškininio pareiškimo kopiją, per 10 dienų nuo jos gavimo 
 Atsiliepime turi būti nurodyta, ar atsakovas sutinka su ieškovo reikalavimais, ar ne, išdėstyti motyvai ir pateikti įrodymai, kuriais tie motyvai grindžiami.
  
 
-9 straipsnis. Ūkinio teismo sprendimo vykdymas
+9 straipsnis. Ūkinio teismo teisėjų reikalavimų privalomumas
+Pakeistas straipsnio pavadinimas:
+Nr. I-851, 1995-04-11, Žin., 1995, Nr. 34-815 (1995-04-26), i. k. 0951010ISTA000I-851
+ 
 
 Ūkinio teismo teisėjų reikalavimai, kai jie vykdo teisingumą, yra privalomi visiems fiziniams asmenims, įmonėms, įstaigoms ir organizacijoms. Šių reikalavimų nevykdymas užtraukia įstatymų nustatytą atsakomybę.
 
-Ūkinis teismas vykdomąjį raštą dėl priteistos pinigų sumos nurašymo siunčia bankui vykdyti. Jei atsakovo sąskaitoje nėra pinigų ar jų neužtenka priteistai sumai apmokėti, ūkinio teismo sprendimus vykdo teismo antstoliai, esantys prie apylinkių teismų.
+2. Neteko galios nuo 1995-04-26
+Straipsnio dalies naikinimas:
+Nr. I-851, 1995-04-11, Žin. 1995, Nr. 34-815 (1995-04-26), i. k. 0951010ISTA000I-851
  
 
 10 straipsnis. Ūkinio teismo veiklos užtikrinimas
@@ -137,4 +146,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-851, 1995-04-11, Žin., 1995, Nr. 34-815 (1995-04-26), i. k. 0951010ISTA000I-851
+Dėl Lietuvos Respublikos ūkinio teismo laikinojo įstatymo pakeitimo
 
