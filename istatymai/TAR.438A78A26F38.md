@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 1994-12-07 iki 1998-02-24
+Suvestinė redakcija nuo 1998-02-25 iki 2001-03-08
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -128,10 +128,12 @@ Respublikos Prezidento priesaikos priėmimo ceremoniją tiesiogiai transliuoja L
 6 straipsnis
 
 
-Kitą dieną po to, kai Respublikos Prezidentas prisiekė, Lietuvos Respublikos Vyriausybė grąžina jam savo įgaliojimus.
+Tą dieną, kai naujasis Respublikos Prezidentas pradeda eiti pareigas, Lietuvos Respublikos Vyriausybė grąžina jam savo įgaliojimus.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-642, 1998-02-24, Žin., 1998, Nr. 20-506 (1998-02-25), i. k. 0981010ISTAVIII-642
  
-
-
 
 
 
@@ -473,3 +475,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-664, 1994-11-17, Žin., 1994, Nr. 94-1835 (1994-12-07), i. k. 0941010ISTA000I-664
 Dėl Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-642, 1998-02-24, Žin., 1998, Nr. 20-506 (1998-02-25), i. k. 0981010ISTAVIII-642
+Lietuvos Respublikos Prezidento įstatymo 6 straipsnio pakeitimo įstatymas
