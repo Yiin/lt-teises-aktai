@@ -392,8 +392,14 @@ per 10 darbo dienų.
 3. Asmenys, trukdantys moterų ir vyrų
 lygių galimybių kontrolieriui atlikti pareigas, atsako pagal įstatymus. 
  
-26 straipsnis. Moterų ir vyrų lygių
-galimybių kontrolieriaus atlyginimas
+Straipsnio
+pavadinimas pakeistas:
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
+26
+straipsnis. Moterų ir vyrų lygių galimybių kontrolieriaus atlyginimas ir
+socialinės
+garantijos
 1. Moterų ir vyrų lygių galimybių
 kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio
 darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Kiti priedai ar premijos moterų
@@ -402,9 +408,14 @@ ir vyrų lygių galimybių kontrolieriui nemokami.
 Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo
 įstatymo nustatytą darbo apmokėjimo sistemą, moterų ir vyrų lygių galimybių
 kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
+3. Moterų ir vyrų lygių galimybių
+kontrolierius valstybiniu socialiniu draudimu draudžiamas Valstybinio
+socialinio draudimo įstatymo nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-272, 2001 04 19, Žin., 2001, Nr.
 39-1343 (2001 05 09)
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
  
  
 27
@@ -429,8 +440,8 @@ SKYRIUS
 BAIGIAMOSIOS
 NUOSTATOS
  
-29 straipsnis. Pasiūlymai Lietuvos Respublikos
-Vyriausybei 
+29 straipsnis. Pasiūlymai Lietuvos
+Respublikos Vyriausybei 
 Pasiūlyti Vyriausybei per 10 dienų nuo
 šio įstatymo įsigaliojimo Moterų ir vyrų lygių galimybių kontrolieriaus
 tarnybai skirti patalpas.
@@ -463,8 +474,19 @@ Nr. IX-272,
 MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 26 STRAIPSNIO PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
+VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO, KONSTITUCINIO TEISMO
+ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO,
+PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE STATUTO,
+MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 05 14)
-                  autrap@lrs.lt
+Redagavo: Angonita Rupšytė (2001-07-25)
+                 
+anrups@lrs.lt
