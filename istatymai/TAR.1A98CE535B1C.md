@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1A98CE535B1C"
 
 # Lietuvos Respublikos aplinkos monitoringo įstatymas
 
+Suvestinė redakcija nuo 2004-01-01 iki 2006-05-19
+ 
+Įstatymas paskelbtas: Žin. 1997, Nr. 112-2824, i. k. 0971010ISTAVIII-529
+ 
 LIETUVOS RESPUBLIKOS APLINKOS MONITORINGO ĮSTATYMAS
  
 1997 m. lapkričio 20 d. Nr. VIII-529
@@ -354,27 +358,33 @@ APLINKOS MONITORINGO ĮGYVENDINIMAS
 13 straipsnis. Aplinkos monitoringo finansavimas
 
 
-1. Valstybinis aplinkos monitoringas finansuojamas iš valstybės biudžeto ir gamtos apsaugos fondo lėšų.
+1. Valstybinis ir specialusis aplinkos monitoringas finansuojamas iš valstybės biudžeto lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1613, 2003-06-10, Žin., 2003, Nr. 61-2766 (2003-06-27), i. k. 1031010ISTA0IX-1613
+ 
 
 
 
 
-2. Specialusis aplinkos monitoringas finansuojamas iš valstybės biudžeto.
+2. Savivaldybių aplinkos monitoringas finansuojamas iš savivaldybių biudžeto lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1613, 2003-06-10, Žin., 2003, Nr. 61-2766 (2003-06-27), i. k. 1031010ISTA0IX-1613
+ 
 
 
 
 
-3. Savivaldybių aplinkos monitoringas finansuojamas iš savivaldybių biudžeto ir jų gamtos apsaugos fondo lėšų.
+3. Ūkio subjektų aplinkos monitoringą finansuoja juridiniai ir fiziniai asmenys savo lėšomis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-1613, 2003-06-10, Žin., 2003, Nr. 61-2766 (2003-06-27), i. k. 1031010ISTA0IX-1613
+ 
 
 
 
 
-4. Ūkio subjektų aplinkos monitoringą finansuoja juridiniai ir fiziniai asmenys savo lėšomis.
-
-
-
-
-5. Aplinkos monitoringui finansuoti gali būti naudojamos tarptautinių organizacijų bei programų, specialiųjų fondų ir rėmėjų šiam tikslui skiriamos lėšos.
+4. Aplinkos monitoringui finansuoti gali būti naudojamos tarptautinių organizacijų bei programų, specialiųjų fondų ir rėmėjų šiam tikslui skiriamos lėšos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-1613, 2003-06-10, Žin., 2003, Nr. 61-2766 (2003-06-27), i. k. 1031010ISTA0IX-1613
  
 
 
@@ -507,3 +517,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1613, 2003-06-10, Žin., 2003, Nr. 61-2766 (2003-06-27), i. k. 1031010ISTA0IX-1613
+Lietuvos Respublikos aplinkos monitoringo įstatymo 13 straipsnio pakeitimo įstatymas
