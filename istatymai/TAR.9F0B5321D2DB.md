@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0B5321D2DB"
 
 # Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas
 
+Suvestinė redakcija nuo 2004-11-26 iki 2005-06-30
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 101-4543, i. k. 1031010ISTA0IX-1789
+ 
+ 
 LIETUVOS RESPUBLIKOS LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARŲ STATUSO ĮSTATYMAS
  
 2003 m. spalio 16 d. Nr. IX-1789
@@ -123,10 +128,17 @@ Vilnius
 6 straipsnis. Valstybinė signataro renta
 
 
-Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signataro rentos dydis yra 50 procentų Seimo nario pareiginės algos per mėnesį.
+1. Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signataro rentos dydis yra 50 procentų Seimo nario pareiginės algos per mėnesį.
+
+
+
+
+2. Valstybinę signataro rentą turi teisę tomis pačiomis sąlygomis gauti ir Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatai, 1990 m. kovo 11–14 dienomis vykdę svarbią valstybinę užduotį Maskvoje.
+
+
+Straipsnio pakeitimai:
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
  
-
-
 
 
 
@@ -201,12 +213,26 @@ Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signatar
 
 
 
-2. Valstybinės signataro našlių ir našlaičių rentos dydis yra 25 procentai valstybinės signataro rentos dydžio kiekvienam šio straipsnio 1 dalyje nurodytam asmeniui.
+2. Valstybinę signataro našlių ir našlaičių rentą turi teisę tomis pačiomis sąlygomis gauti ir šio Įstatymo 6 straipsnio 2 dalyje nurodytų Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatų našlės ir našlaičiai. 
+Papildyta straipsnio dalimi:
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
+ 
 
 
 
 
-3. Valstybinė signataro našlių ir našlaičių renta neskiriama, o paskirtoji nemokama, jeigu:
+3. Valstybinės signataro našlių ir našlaičių rentos dydis yra 25 procentai valstybinės signataro rentos dydžio kiekvienam šio straipsnio 1 dalyje nurodytam asmeniui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
+ 
+
+
+
+
+4. Valstybinė signataro našlių ir našlaičių renta neskiriama, o paskirtoji nemokama, jeigu:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
+ 
 
 
 1) mirusio signataro sutuoktinis, vaikas, įvaikis nėra Lietuvos Respublikos pilietis;
@@ -231,7 +257,9 @@ Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signatar
 
 
 
-4. Valstybinės signataro našlių ir našlaičių rentos gavėjas privalo pranešti rentą mokančiai institucijai apie šio straipsnio 3 dalyje nurodytų aplinkybių atsiradimą per 10 dienų nuo jų atsiradimo. Jeigu apie nurodytas aplinkybes laiku nepranešama ir dėl to renta permokama, permokėtos rentos suma išieškoma iš rentos gavėjo įstatymų nustatyta tvarka.
+5. Valstybinės signataro našlių ir našlaičių rentos gavėjas privalo pranešti rentą mokančiai institucijai apie šio straipsnio 3 dalyje nurodytų aplinkybių atsiradimą per 10 dienų nuo jų atsiradimo. Jeigu apie nurodytas aplinkybes laiku nepranešama ir dėl to renta permokama, permokėtos rentos suma išieškoma iš rentos gavėjo įstatymų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
  
 
 
@@ -363,14 +391,16 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
- 
 Lietuvos Respublikos
-2003 m. spalio 16 d.
+2003 m. spalio 16 d. 
 įstatymo Nr. IX-1789
 priedėlis
  
-LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARAI
+LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARAI IR LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS-ATKURIAMOJO SEIMO DEPUTATAI, 1990 M. KOVO 11–14 DIENOMIS VYKDĘ SVARBIĄ VALSTYBINĘ UŽDUOTĮ MASKVOJE
+ 
+
+
+I. Lietuvos Nepriklausomybės Akto signatarai
  
 
 
@@ -534,7 +564,7 @@ LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARAI
 
 
 
-33. Romualda HOFERTIENĖ
+33. Romualda HOFERTIENĖ 
 
 
 
@@ -990,3 +1020,41 @@ LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARAI
 
 
 124. Vidmantas ŽIEMELIS
+ 
+
+
+
+
+
+
+II. Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatai, 1990 m. kovo 11–14 dienomis vykdę svarbią valstybinę užduotį Maskvoje
+ 
+
+
+1. Stasys KAŠAUSKAS
+
+
+
+
+2. Nikolaj MEDVEDEV
+
+
+
+
+3. Mindaugas STAKVILEVIČIUS
+ 
+
+
+
+
+Priedo pakeitimai:
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
+Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų statuso įstatymo 6, 9 straipsnių ir priedėlio papildymo įstatymas
