@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 1997-07-11 iki 1998-12-01
+Suvestinė redakcija nuo 1998-12-02 iki 2001-05-08
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -390,7 +390,10 @@ Už kelių transporto priemonių registravimą, dokumentų, licencijų (leidimų
 16 straipsnis. Tarifai
 
 
-1. Keleivių vežimo reguliariais reisais tolimojo susisiekimo maršrutais ir su tuo susijusių transporto paslaugų maksimalius tarifus, jų taikymo tvarką nustato Vyriausybė.
+1. Keleivių vežimo reguliariais reisais tolimojo susisiekimo maršrutais tarifus nustato vežėjas, maksimalius jų dydžius suderinęs su Valstybine kainų ir energetikos kontrolės komisija.
+Straipsnio dalies pakeitimai:
+Nr. VIII-924, 1998-11-17, Žin., 1998, Nr. 105-2895 (1998-12-02), i. k. 0981010ISTAVIII-924
+ 
 
 
 
@@ -1478,3 +1481,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-346, 1997-06-30, Žin., 1997, Nr. 66-1611 (1997-07-11), i. k. 0971010ISTAVIII-346
 Lietuvos Respublikos kelių transporto kodekso 29 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-924, 1998-11-17, Žin., 1998, Nr. 105-2895 (1998-12-02), i. k. 0981010ISTAVIII-924
+Lietuvos Respublikos kelių transporto kodekso 16 straipsnio pakeitimo įstatymas
