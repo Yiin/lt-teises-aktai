@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5F9F5C944DB1"
 
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
 
-Suvestinė redakcija nuo 2001-08-17 iki 2002-06-25
+Suvestinė redakcija nuo 2002-06-26 iki 2004-08-06
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 102-2921, i. k. 0991010ISTAIII-1422
  
@@ -273,11 +273,12 @@ Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 
 8 straipsnis. Atsiskaitymo kontrolė
 
 
-Apskričių viršininkai arba jų įgalioti asmenys tikrina, ar žemės ūkio produkcijos pirkėjai, laikydamiesi įstatymų ir kitų teisės aktų reikalavimų, sudaro rašytines žemės ūkio produkcijos pirkimo–pardavimo sutartis, apskaičiuoja komercinio kredito palūkanas bei delspinigius ir atsiskaito su produkcijos pardavėjais, taip pat teikia siūlymus Vyriausybei dėl priemonių atsiskaitymų būklei gerinti. Žemės ūkio produkcijos pirkėjai apskričių viršininkams teikia Vyriausybės įgaliotos institucijos nustatytą informaciją apie atsiskaitymų už žemės ūkio produkciją būklę. 
+Savivaldybės vykdomosios institucijos arba jų įgalioti asmenys turi teisę tikrinti, ar žemės ūkio produkcijos pirkėjai, laikydamiesi įstatymų ir kitų teisės aktų reikalavimų, sudaro rašytines žemės ūkio produkcijos pirkimo-pardavimo sutartis, apskaičiuoja komercinio kredito palūkanas bei delspinigius ir atsiskaito su produkcijos pardavėjais. Savivaldybės meras teikia siūlymus Vyriausybei dėl priemonių atsiskaitymų būklei gerinti. Žemės ūkio produkcijos pirkėjai savivaldybės merui teikia Vyriausybės įgaliotos institucijos nustatytą informaciją apie atsiskaitymų už žemės ūkio produkciją būklę. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
+Nr. IX-935, 2002-06-06, Žin., 2002, Nr. 64-2573 (2002-06-26), i. k. 1021010ISTA00IX-935
  
 
 
@@ -331,3 +332,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
 Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 1, 2, 3, 4, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-935, 2002-06-06, Žin., 2002, Nr. 64-2573 (2002-06-26), i. k. 1021010ISTA00IX-935
+Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 8 straipsnio pakeitimo įstatymas
