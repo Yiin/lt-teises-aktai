@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1991-08-03 iki 1991-08-07
+Suvestinė redakcija nuo 1991-08-08 iki 1991-12-28
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
  
@@ -202,7 +202,10 @@ ATSISKAITYMAI UŽ PERKAMĄ PRIVATIZAVIMO OBJEKTĄ
 
 4. Privatizavimo objektas (akcijos) Lietuvos Respublikos finansų ministerijos nustatyta tvarka gali būti parduodamas išsimokėtinai, taikant lengvatines palūkanas.
 
-5. Asmenims, kuriems paskirta valstybės vienkartinė išmoka ar kita kompensacija, atidaromos asmeninės investicinės sąskaitos, kuriose įrašomos paskirtų valstybės vienkartinių išmokų ir kitų tikslinių kompensacijų, papildomai skiriamų pagal Lietuvos Respublikos įstatymus, sumos. Investicijoms pagal nustatytas pinigų kvotas naudojami pinigai (rubliai) pervedami į tas pačias investicines sąskaitas. Privatizavimo objektams (akcijoms) įsigyti nepanaudotos pinigų (rublių) sumos, esančios investicinėje sąskaitoje, turi būti pervestos į jas įnešusių asmenų indėlių sąskaitas.
+5. Asmenims, kuriems paskirta valstybės vienkartinė išmoka ar kita kompensacija, atidaromos asmeninės arba bendros šeimos narių investicinės sąskaitos, kuriose įrašomos paskirtų valstybės vienkartinių išmokų ir kitų tikslinių kompensacijų, papildomai skiriamų pagal Lietuvos Respublikos įstatymus, sumos. Investicijoms pagal nustatytas pinigų kvotas naudojami pinigai (rubliai) pervedami į tas pačias investicines sąskaitas. Privatizavimo objektams (akcijoms) įsigyti nepanaudotos pinigų (rublių) sumos, esančios investicinėje sąskaitoje, turi būti pervestos į jas įnešusių asmenų indėlių sąskaitas.
+Straipsnio dalies pakeitimai:
+Nr. I-1635, 1991-07-30, Lietuvos aidas, 1991, Nr. 154-0 (1991-08-07); Žin., 1991, Nr. 23-604 (1991-08-20), i. k. 0911010ISTA00I-1635
+ 
 
 6. Investicinių sąskaitų tvarkymo ir apmokėjimų už įsigyjamą privatizavimo objektą (akcijas) taisykles nustato Lietuvos Respublikos finansų ministerija ir Lietuvos bankas.
  
@@ -410,4 +413,9 @@ Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo ats
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-1614, 1991-07-25, Lietuvos aidas, 1991, Nr. 151-0 (1991-08-02); Žin., 1991, Nr. 22-575 (1991-08-10), i. k. 0911010ISTA00I-1614
 Dėl Lietuvos Respublikos Valstybinio turto pirminio privatizavimo įstatymo 12 straipsnio papildymo
+ 
+3.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-1635, 1991-07-30, Lietuvos aidas, 1991, Nr. 154-0 (1991-08-07); Žin., 1991, Nr. 23-604 (1991-08-20), i. k. 0911010ISTA00I-1635
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 11 straipsnio pakeitimo
 
