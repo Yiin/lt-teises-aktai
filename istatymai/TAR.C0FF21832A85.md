@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2000-07-26 iki 2000-12-31
+Suvestinė redakcija nuo 2001-01-01 iki 2002-01-08
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -21,7 +21,7 @@ Nauja redakcija nuo 2001-01-01:
 Nr. VIII-1811, 2000-07-11, Žin. 2000, Nr. 61-1818 (2000-07-26), i. k. 1001010ISTAIII-1811
  
 LIETUVOS RESPUBLIKOS
-LABDAROS IR PARAMOS
+LABDAROS IR PARAMOS 
 Į S T A T Y M A S
  
 1993 m. birželio 4 d. Nr. I-172
@@ -29,13 +29,10 @@ Vilnius
  
 
 
-1 straipsnis. Įstatymo tikslas
+1 straipsnis. Įstatymo paskirtis
 
 
-Lietuvos Respublikos labdaros ir paramos įstatymo tikslas – reglamentuoti ir skatinti labdarą bei paramą Lietuvos Respublikoje, nustatant atvejus, kada taikomos valstybės mokesčių ir muito mokesčių lengvatos. 
- 
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
+Šis įstatymas nustato labdaros ir paramos teikimą ir gavimą, jos teikimo ir gavimo tikslus, teikėjus ir gavėjus, labdaros ir paramos teikimo ir gavimo kontrolę bei apskaitą, kai labdaros ir (arba) paramos teikėjai ir (arba) gavėjai naudojasi įstatymų nustatytomis mokesčių ir muitų lengvatomis.
  
 
 
@@ -43,66 +40,15 @@ Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr.
 
 
 
-2 straipsnis. Labdaros ir paramos tikslai
+2 straipsnis. Labdaros ir paramos samprata
 
 
-Labdara yra duodama siekiant:
-
-
-1) šelpti ir teikti pagalbą arba nemokamas paslaugas asmenims, kuriems tai reikalinga: invalidams, ligoniams, vienišiems nedarbingiems asmenims, našlaičiams arba vaikams, likusiems be tėvų globos, daugiavaikėms ir mažai aprūpintoms šeimoms, bedarbiams, asmenims, kurių gaunamos pajamos negali užtikrinti minimalaus gyvenimo lygio;
+1. Labdara yra labdaros teikėjų savanoriškas ir neatlygintinas labdaros dalykų teikimas šiame įstatyme nurodytiems labdaros gavėjams šio įstatymo nustatytais tikslais ir būdais. 
 
 
 
 
-2) šelpti labdaros ir globos organizacijas, fondus, religijos centrus bei vienuolijas, teikiančius labdarą ir paramą šio straipsnio pirmosios dalies 1 punkte nurodytiems asmenims, taip pat lietuvių bendruomenes, esančias užsienyje;
-Straipsnio punkto pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
-
-
-
-
-3) šelpti nukentėjusius dėl karo ir gaivalinių nelaimių, ekologinių katastrofų, užkrečiamų ligų epidemijų asmenis, padėti likviduoti tų nelaimių, katastrofų ir epidemijų padarinius;
-
-
-
-
-4) padėti įsidarbinti, įsteigiant darbo vietas arba perkvalifikuojant darbo netekusius socialiai remtinus asmenis.
-
-
-
-
-
-
-Parama yra teikiama siekiant:
-
-
-1) remti mokslo, kultūros, švietimo, meno, religijos, sporto, sveikatos apsaugos, socialinės globos ir rūpybos plėtojimo programas;
-
-
-
-
-2) remti aplinkos apsaugos ir aplinkos tvarkymo darbų programas;
-
-
-
-
-3) remti istorijos, gamtos, architektūros, kultūros ir meno paminklų apsaugos bei restauravimo darbų programas;
-
-
-
-
-4) remti kitą socialiai naudingą veiklą bei programas, kurias skelbia Lietuvos Respublikos Vyriausybė.
-
-
-
-
-Remiamos šio straipsnio antrojoje dalyje nurodytos programos, kurioms pritaria ar kurias tvirtina Lietuvos Respublikos Vyriausybė, ministerijos, apskričių viršininkai, vietos savivaldos institucijos ar tvirtina nevalstybinių organizacijų aukščiausieji valdymo organai. Programose turi būti numatyti tikslai, įgyvendinimo būdai ir priemonės, vykdytojai ir finansavimo šaltiniai.
- 
-Papildyta straipsnio dalimi:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
-Straipsnio dalies pakeitimai:
-Nr. VIII-311, 1997-06-26, Žin., 1997, Nr. 65-1541 (1997-07-09), i. k. 0971010ISTAVIII-311
+2. Parama yra paramos teikėjų savanoriškas ir neatlygintinas, išskyrus pagal šio įstatymo 8 straipsnio leidžiamus gavėjo įsipareigojimus, paramos dalykų teikimas šiame įstatyme nurodytiems paramos gavėjams šio įstatymo nustatytais tikslais ir būdais, įskaitant tuos atvejus, kai paramos dalykai perduodami anonimiškai ar kitu būdu, kai negalima nustatyti konkretaus paramos teikėjo.
  
 
 
@@ -110,41 +56,20 @@ Nr. VIII-311, 1997-06-26, Žin., 1997, Nr. 65-1541 (1997-07-09), i. k. 0971010IS
 
 
 
+3 straipsnis. Labdaros ir paramos tikslai
 
 
-3 straipsnis. Labdaros ir paramos pripažinimas
-
-
-Labdara pripažįstama savanoriška ir neatlygintina materialinė šalpa ar nemokamas paslaugų teikimas be jokio labdaros gavėjo materialaus įsipareigojimo labdaros davėjui, skirti 2 straipsnio pirmojoje dalyje nurodytiems tikslams.
-
-
-
-
-Parama pripažįstama savanoriška materialinė pagalba ar nemokamas paslaugų teikimas tiesiogiai juridiniams asmenims, skirti 2 straipsnio antrojoje dalyje nurodytiems tikslams.
+1. Labdaros dalykai šiame įstatyme nurodytiems labdaros gavėjams teikiami jų minimaliems socialiai priimtiniems poreikiams tenkinti, sveikatos priežiūrai užtikrinti, padėti likviduoti karo ir gaivalinių nelaimių, gaisrų, ekologinių katastrofų, užkrečiamųjų ligų protrūkių bei epidemijų pasekmes.
 
 
 
 
-Labdaros ir paramos sandoryje leidžiamas gavėjo individualus reklaminis įsipareigojimas labdaros ir paramos davėjui, išskyrus įsipareigojimą reklamuoti tabako gaminius ir alkoholinius gėrimus.
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
+2. Paramos dalykai šiame įstatyme nurodytiems paramos gavėjams teikiami jų įstatuose ar nuostatuose numatytiems šio straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams, o biudžetinėms įstaigoms - jų nuostatuose nustatytiems uždaviniams ir funkcijoms įgyvendinti. 
 
 
 
 
-Labdara pagal šį įstatymą nepripažįstamas tiesioginis pinigų ar materialinių vertybių perdavimas fiziniams asmenims, išskyrus kai tai daro labdaros organizacijos ar fondai.
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
-
-
-
-
-Parama pagal šį įstatymą nepripažįstamas tiesioginis pinigų ar materialinių vertybių perdavimas fiziniams asmenims, išskyrus kai tai numatyta 2 straipsnio antrojoje dalyje nurodytose programose. 
- 
-Papildyta straipsnio dalimi:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
+3. Visuomenei naudingais tikslais šiame įstatyme laikoma veikla tarptautinio bendradarbiavimo, žmogaus teisių apsaugos, mažumų integracijos, kultūros, religinių ir etinių vertybių puoselėjimo, švietimo, mokslo ir profesinio tobulinimo, neformalaus ir pilietinio ugdymo, sporto, socialinės apsaugos ir darbo, sveikatos priežiūros, nacionalinio saugumo ir gynybos, teisėtvarkos, nusikalstamumo prevencijos, gyvenamosios aplinkos pritaikymo ir būsto plėtros, autorių teisių ir gretutinių teisių apsaugos, aplinkos apsaugos ir kitose visuomenei naudingomis ir nesavanaudiškomis pripažįstamose srityse.
  
 
 
@@ -152,75 +77,30 @@ Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr.
 
 
 
-4 straipsnis. Labdaros ir paramos davėjai
+4 straipsnis. Labdaros ir paramos dalykai
 
 
-Labdaros ir paramos davėjais gali būti:
+1. Labdaros ir paramos dalykai yra labdaros ir paramos teikėjo:
 
 
-1) Lietuvos Respublikos ūkio subjektai, turintys juridinio asmens teises arba jų neturintys;
-
-
-
-
-2) visuomeninės organizacijos ir religijos centrai ar religinės bendruomenės, jeigu tai neprieštarauja jų įstatams ir nuostatoms;
+1) piniginės lėšos;
 
 
 
 
-3) labdaros organizacijos ir fondai, kurių pagrindinė veiklos rūšis atitinka šio įstatymo 2 straipsnyje nurodytus tikslus ir kurios yra įregistruotos Lietuvos Respublikos Vyriausybės nustatyta tvarka;
+2) bet koks kitas turtas, įskaitant pagamintas ar įsigytas prekes;
 
 
 
 
-4) Lietuvos Respublikos piliečiai;
-
-
-
-
-5) užsienio valstybių juridiniai bei fiziniai asmenys, taip pat tarptautinės organizacijos.
+3) suteiktos paslaugos.
 
 
 
 
 
 
-Užsienio valstybių juridiniai bei fiziniai asmenys, taip pat tarptautinės organizacijos Lietuvos Respublikoje gali duoti labdarą ir remti fizinius asmenis tik per registruotus labdaros ir paramos fondus ar valstybės valdymo organus, o juridinius asmenis – tiesiogiai arba per trečiuosius asmenis, jeigu tai atitinka 2 straipsnyje nurodytus tikslus.
-
-
-
-
-Politinės partijos ir politinės organizacijos nepripažįstamos labdaros ir paramos davėjais.
- 
-
-
-Straipsnio pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
-
-
-
-
-5 straipsnis. Labdaros ir paramos gavėjai
-
-
-Labdaros gavėjai yra valstybės, savivaldybių, visuomeninių organizacijų bei privačių asmenų įsteigtos ir jų lėšomis išlaikomos socialinės globos ir rūpybos, vaikų ugdymo ir švietimo, sveikatos apsaugos ir gydymo įstaigos, labdaros organizacijos ir fondai, invalidų draugijos, jų įmonės, įstaigos ir organizacijos, ortopedijos ir protezavimo įmonės.
-
-
-
-
-Paramos gavėjai yra mokslo ir studijų institucijos, sveikatos apsaugos, socialinės globos ir rūpybos, švietimo, mokslo, kultūros, sporto, aplinkos apsaugos, taip pat kitos įstaigos ir organizacijos bei jų leidiniai, gaunančios paramą 2 straipsnio antrojoje dalyje nurodytoms programoms įgyvendinti. 
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
-
-
-
-
-Labdaros ir paramos gavėjais pagal šį įstatymą negali būti politinės partijos, politinės organizacijos ir pelno siekiančios organizacijos.
- 
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
+2. Labdaros ir paramos dalyku negali būti Lietuvos Respublikos valstybės ir savivaldybių, Valstybinio socialinio draudimo fondo, Sveikatos draudimo fondo biudžetų, Privatizavimo fondo ir kitų valstybės pinigų fondų, Lietuvos banko ir kitos valstybės ir savivaldybių piniginės lėšos, taip pat tabakas ir tabako gaminiai, etilo alkoholis ir alkoholiniai gėrimai bei ribotai apyvartoje esantys daiktai.
  
 
 
@@ -228,38 +108,23 @@ Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr.
 
 
 
-6 straipsnis. Labdaros ir paramos teikimo būdai
+5 straipsnis. Labdaros ir paramos teikėjai
 
 
-Labdaros ir paramos davėjai teikia labdarą ar paramą:
-
-
-1) perduodami pinigus arba materialines vertybes labdaros ar paramos gavėjui Lietuvos Respublikos notariato įstatymo nustatyta tvarka;
+1. Labdara pagal šį įstatymą pripažįstama, kai ją teikia tik Lietuvos Respublikoje registruoti labdaros ir paramos fondai, asociacijos, viešosios įstaigos, visuomeninės organizacijos, religinės bendruomenės, bendrijos ir centrai, tarptautinių visuomeninių organizacijų skyriai (padaliniai), jeigu labdaros teikimas numatytas jų įstatuose bei veiklą reglamentuojančiuose teisės aktuose ir jeigu jie pagal šio įstatymo nuostatas turi teisę gauti paramą. Asociacijų, visuomeninių organizacijų ar kitų narystės pagrindais veikiančių organizacijų savo nariams perduotos piniginės lėšos, turtas (įskaitant pagamintas ar įsigytas prekes) bei suteiktos paslaugos pagal šį įstatymą nepripažįstamos labdara.
 
 
 
 
-2) teikdami nemokamas paslaugas labdaros ar paramos gavėjui;
+2. Parama pagal šį įstatymą pripažįstama, jeigu ją teikia:
+
+
+1) Lietuvos Respublikos fiziniai, juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių, išskyrus politines partijas ir politines organizacijas, valstybės ir savivaldybių įmones bei įmones, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau negu 50 procentų balsų, taip pat biudžetines įstaigas ir kitas valstybės bei savivaldybių institucijas, Lietuvos banką;
 
 
 
 
-3) pagal panaudos sutartį suteikdami jiems priklausantį turtą naudotis labdaros ar paramos gavėjui.
-
-
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
-
-
-
-
-Labdara ir parama gali būti teikiama ir kitais būdais, kurių nedraudžia Lietuvos Respublikos įstatymai.
-
-
-
-
-Labdara ar parama teikiama neatlygintinai ir savitarpio pasitikėjimo pagrindu.
+2) užsienio valstybės, užsienio valstybių fiziniai ir juridiniai asmenys, tarptautinės organizacijos.
  
 
 
@@ -267,60 +132,57 @@ Labdara ar parama teikiama neatlygintinai ir savitarpio pasitikėjimo pagrindu.
 
 
 
-7 straipsnis. Labdaros ir paramos dalykas
 
 
-Labdaros ir paramos dalykas yra labdaros ir paramos davėjo:
+6 straipsnis. Labdaros gavėjai
 
 
-1) gautos pajamos;
+1. Labdaros gavėjais gali būti:
 
 
-
-
-2) įgytas ar valdomas turtas;
+1) neįgalieji (invalidai);
 
 
 
 
-3) gaminama arba už jo lėšas įgyta produkcija;
+2) ligoniai;
 
 
 
 
-4) teikiamos paslaugos. 
+3) vaikai našlaičiai ir be tėvų globos likę vaikai;
 
 
 
 
-Labdaros ir paramos dalykas negali būti Lietuvos valstybės biudžeto ir savivaldybių biudžetų lėšos. Už valstybės biudžeto ir savivaldybių biudžetų lėšas įsigytos materialinės vertybės gali būti labdaros ir paramos dalykas tik su steigėjo leidimu. 
- 
-Papildyta straipsnio dalimi:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
+4) nedirbantys pensininkai, negaunantys kitų pajamų, išskyrus pensijas ir kitas socialines išmokas;
 
 
 
 
-Straipsnio pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
+5) bedarbiai;
 
 
 
 
-8 straipsnis. Labdaros ir paramos laisvė
-
-
-Labdaros ir paramos davėjai patys pasirenka labdaros ar paramos gavėjus bei teikimo būdus.
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
+6) asmenys, kuriems Lietuvos Respublikos įstatymų nustatyta tvarka pripažintas nukentėjusiųjų teisinis statusas;
 
 
 
 
-Valstybės institucijos ir jų pareigūnai privalo garantuoti labdaros ir paramos laisvę. Valstybės institucijų pareigūnai, taip pat fiziniai ir juridiniai asmenys, trukdantys teikti labdarą ar paramą, atsako pagal Lietuvos Respublikos įstatymus.
+7) šeimos (asmenys), kurių gaunamos pajamos negali patenkinti jų minimalių socialiai priimtinų poreikių, kurių mastą nustato savivaldybės;
+
+
+
+
+8) asmenys, savivaldybių nustatyta tvarka pripažinti nukentėjusiais nuo karo ir gaivalinių nelaimių, gaisrų, ekologinių katastrofų, epidemijų, užkrečiamųjų ligų protrūkių. 
+
+
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodyti asmenys tokiais pripažįstami pagal atskirus įstatymus ir kitus teisės aktus.
  
 
 
@@ -328,69 +190,61 @@ Valstybės institucijos ir jų pareigūnai privalo garantuoti labdaros ir paramo
 
 
 
-9 straipsnis. Labdaros ir paramos apskaita
+7 straipsnis. Paramos gavėjai
 
 
-Teikiantys labdarą ar paramą Lietuvos Respublikoje jos ūkio subjektai, taip pat visuomeninės ar labdaros organizacijos bei religinės bendruomenės privalo tvarkyti labdaros ar paramos gavėjų, kuriems jie aukoja pinigus ir materialines vertybes, apskaitą: joje nurodyti konkrečius labdaros ar paramos gavėjus, aukų dydį ir paskirtį. Labdaros ir paramos davėjai kiekvieną ketvirtį privalo teikti nustatytos formos informaciją Valstybinei mokesčių inspekcijai ir Statistikos departamentui.
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
+1. Paramos gavėjais gali būti Lietuvos Respublikoje įregistruoti:
 
 
-
-
-Kaip labdara ar parama gautų pinigų ir materialinių vertybių apskaitą privalo tvarkyti visi juridiniai asmenys ir įmonės, neturinčios juridinio asmens teisių. Informacija apie gautą labdarą ar paramą kas ketvirtį turi būti pateikiama Valstybinei mokesčių inspekcijai ir Statistikos departamentui pagal nustatytą formą.
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
+1) labdaros ir paramos fondai;
 
 
 
 
-Nuslėpus informaciją apie pinigus arba materialines vertybes, gautus kaip labdara ar parama, ta lėšų dalis yra apmokestinama pelno (pajamų) mokesčiu nepaisant labdaros ar paramos gavėjo.
+2) biudžetinės įstaigos;
 
 
 
 
-Labdaros ir paramos davėjų perduotos lėšos ir materialinės vertybės turi būti naudojamos pagal paskirtį tik labdaros ar paramos tikslams. Konkrečius panaudojimo tikslus gali nustatyti pats labdaros ir paramos davėjas, perduodamas pinigus bei materialines vertybes.
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
+3) asociacijos;
 
 
 
 
-Labdaros organizacijos ir fondai turi teisę iki 20 procentų labdarai surinktų lėšų panaudoti šių organizacijų veiklai plėtoti ir administravimo išlaidoms apmokėti, jeigu tam neprieštarauja labdaros davėjas ir nenustato konkretaus aukos panaudojimo tikslo bei būdo.
- 
+4) visuomeninės organizacijos;
+
+
+
+
+5) viešosios įstaigos;
+
+
+
+
+6) religinės bendruomenės, bendrijos ir religiniai centrai;
+
+
+
+
+7) tarptautinių visuomeninių organizacijų skyriai (padaliniai);
+
+
+
+
+8) kiti juridiniai asmenys, kurių veiklą reglamentuoja specialūs įstatymai ir kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų steigėjams ir (arba) dalininkams, ir (arba) nariams.
 
 
 
 
 
 
-10 straipsnis. Labdaros ir paramos skatinimas
-
-
-Labdaros ir paramos skatinimo ir mokesčių lengvatų teikimo tvarka nustatoma mokesčių mokėjimą reglamentuojančiuose įstatymuose. 
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
+2. Šio straipsnio 1 dalyje nurodyti juridiniai asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą tik šio įstatymo nustatyta tvarka gavę paramos gavėjo statusą.
+TAR pastaba. Straipsnio dalis (reikalavimas paramos gavėjui turėti paramos gavėjo statusą) įsigalioja po 6 mėnesių nuo juridinių asmenų registro veiklos pradžios 2004-07-02. Iki šio įstatymo 7 straipsnio 2 dalies įsigaliojimo visi šio įstatymo 7 straipsnio 1 dalyje nurodyti juridiniai asmenys yra paramos gavėjai ir turi teisę ją gauti.
 
 
 
 
-Labdarai ar paramai skirtos materialinės vertybės, įvežamos į Lietuvos Respubliką arba išvežamos iš jos, atleidžiamos nuo muitų Muitų tarifų įstatymo nustatyta tvarka. Iš Lietuvos Respublikos išvežamų labdarai skirtų materialinių vertybių išvežimo tvarką nustato Lietuvos Respublikos Vyriausybė.
-Straipsnio dalies pakeitimai:
-Nr. VIII-627, 1998-02-17, Žin., 1998, Nr. 25-630 (1998-03-13), i. k. 0981010ISTAVIII-627
- 
-
-
-
-
-Asmenys, dovanojantys ar kitaip perduodantys turtą labdaros ar paramos gavėjams, yra atleidžiami nuo žyminio mokesčio.
- 
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
+3. Paramos gavėjais gali būti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintame sąraše nurodytos užsienyje esančios lietuvių bendruomenės, kitos lietuviškos įstaigos ar organizacijos ir tarptautinės labdaros organizacijos.
  
 
 
@@ -398,26 +252,10 @@ Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr.
 
 
 
-11 straipsnis. Labdaros ir paramos kontrolė
+8 straipsnis. Paramos gavėjo įsipareigojimai
 
 
-Labdarai ir paramai perduodamų ir gaunamų lėšų teisėtumą kontroliuoja valstybinės mokesčių inspekcijos, kiek tai susiję su mokesčių lengvatų taikymu, o gautų lėšų ir materialinių vertybių panaudojimo teisingumą kontroliuoja Valstybės kontrolės departamentas ir savivaldybių kontrolės tarnybos.
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
- 
-
-
-
-
-Ginčus dėl labdaros ar paramos pripažinimo nagrinėja teismas.
-
-
-
-
-Nustačius, kad lėšų ar materialinių vertybių perdavimas nėra labdara ar parama, mokesčių lengvatos, taikytos atsižvelgiant į šio įstatymo nuostatas, panaikinamos, o nesumokėti mokesčiai išieškomi mokesčių mokėjimą reglamentuojančių įstatymų nustatyta tvarka. 
- 
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
+Teikiant paramą leidžiami tam tikri paramos gavėjo įsipareigojimai paramos teikėjui Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
  
 
 
@@ -425,18 +263,54 @@ Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr.
 
 
 
-12 straipsnis. Labdaros ir paramos skelbimas
+9 straipsnis. Labdaros ir paramos teikimo būdai
 
 
-Labdaros organizacijos ir fondai turi teisę laisvai skelbti per masinės informacijos priemones labdaros ir paramos tikslus, gavėjus bei objektus.
+Labdara ir parama teikiama:
+
+
+1) neatlygintinai perduodant pinigines lėšas ar bet kokį kitą turtą (įskaitant pagamintas arba įsigytas prekes), suteikiant paslaugas;
 
 
 
 
-Informacija apie labdaros ir paramos davėjus per masinės informacijos priemones bei kitiems fiziniams ir juridiniams asmenims, nenurodytiems šio įstatymo 9 straipsnyje, teikiama tik labdaros ir paramos davėjui sutikus.
+2) suteikiant turtą naudotis panaudos teise;
+
+
+
+
+3) testamentu paliekant bet kokį turtą;
+
+
+
+
+4) kitais būdais, kurių nedraudžia Lietuvos Respublikos įstatymai bei tarptautinės sutartys.
  
-Straipsnio dalies pakeitimai:
-Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
+
+
+
+
+
+
+
+
+10 straipsnis. Paramos panaudojimas
+
+
+1. Paramos gavėjai pagal šį įstatymą gautą paramą gali naudoti savo įstatuose ar nuostatuose numatytiems šio įstatymo 3 straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams, labdarai (jeigu jie pagal šį įstatymą turi teisę teikti labdarą), o biudžetinės įstaigos - nuostatuose nustatytiems uždaviniams ir funkcijoms įgyvendinti.
+
+
+
+
+2. Pagal šį įstatymą kaip parama gautos lėšos ir kitas turtas negali būti:
+
+
+1) naudojami politinių partijų ir politinių organizacijų veiklai ar politinėms kampanijoms remti;
+
+
+
+
+2) perduodami kaip įnašas įmonei, įstaigai ar organizacijai, kurios steigėjas, akcininkas, dalininkas ar narys yra paramos gavėjas.
  
 
 
@@ -444,17 +318,149 @@ Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr.
 
 
 
-13 straipsnis. Lietuvos Respublikos labdaros ir paramos įstatymo įsigaliojimo sąlygos
 
 
-Lietuvos Respublikos labdaros ir paramos įstatymas įsigalioja nuo 1993 m. liepos 1 d., Lietuvos Respublikos Vyriausybei nustačius labdaros organizacijų ir fondų steigimo ir registravimo tvarką bei sąlygas, taip pat iš Lietuvos Respublikos išvežamų labdarai skirtų materialinių vertybių bei gaunamų siuntų sanitarinės ir higieninės kontrolės tvarką.
+11 straipsnis. Labdaros ir paramos teikėjų ir gavėjų apmokestinimas
+
+
+Labdaros ir paramos teikėjų ir gavėjų apmokestinimą Lietuvos Respublikoje nustato Lietuvos Respublikos mokesčių ir Muitų tarifų įstatymai.
+ 
 
 
 
 
-2. Neteko galios nuo 1996-01-01
-Straipsnio dalies naikinimas:
-Nr. I-1149, 1995-12-20, Žin. 1995, Nr. 107-2398 (1995-12-30) ; Žin. 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
+
+
+12 straipsnis. Labdaros ir paramos apskaita
+
+
+1. Paramos teikėjai, išskyrus fizinius asmenis bei asmenis, nurodytus šio straipsnio 2 dalyje, privalo tvarkyti pagal šį įstatymą teikiamos paramos apskaitą: joje nurodyti duomenis apie konkrečius paramos gavėjus, paramos dalyką ir jo vertę. Paramos teikėjai kiekvieną ketvirtį Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo pateikti teritorinei valstybinei mokesčių inspekcijai ir Statistikos departamentui prie Lietuvos Respublikos Vyriausybės ataskaitas apie suteiktą paramą.
+
+
+
+
+2. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos teikėjus, kai parama nebuvo gauta anonimiškai, bei vertę ir jos panaudojimą, t. y. įvardyti konkrečius gavėjus, jeigu kaip parama gautos lėšos ar turtas perduotos kitam asmeniui) bei pačių teikiamos paramos ir (arba) labdaros apskaitą (joje nurodyti duomenis apie konkrečius paramos ir (arba) labdaros gavėjus, paramos ir (arba) labdaros dalyką ir jo vertę) ir kiekvieną ketvirtį privalo pateikti teritorinei valstybinei mokesčių inspekcijai ir Statistikos departamentui prie Lietuvos Respublikos Vyriausybės ataskaitas apie gautą paramą ir jos panaudojimą, taip pat apie pačių suteiktą paramą ir (arba) labdarą. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija taip pat nustato anonimiškai gautos paramos apskaitos tvarką.
+
+
+
+
+3. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, per kalendorinius metus šio įstatymo nustatyta tvarka gavę paramą, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka parengia metines ataskaitas apie savo veiklą, susijusią su visuomenei naudingų tikslų, nurodytų šio įstatymo 3 straipsnio 3 dalyje, įgyvendinimu.
+ 
+
+
+
+
+
+
+13 straipsnis. Labdaros ir paramos kontrolė
+
+
+1. Valstybinė mokesčių inspekcija kontroliuoja labdaros ir paramos teikimą, gavimą ir naudojimą, kiek tai susiję su mokesčių lengvatų taikymu. 
+
+
+
+
+2. Kitos valstybės ir savivaldybių institucijos bei įstaigos kontroliuoja labdaros ir paramos teikimą, gavimą ir naudojimą pagal savo kompetenciją, jeigu tai numato įstatymai ir kiti teisės aktai.
+
+
+
+
+3. Nustačiusios labdaros ir paramos teikimo, gavimo arba naudojimo pažeidimus, kontrolės institucijos (valstybinė mokesčių inspekcija ir (arba) muitinė) panaikina mokesčių lengvatas ir taiko įstatymų nustatytas sankcijas. 
+ 
+
+
+
+
+
+
+14 straipsnis. Paramai skirto turto importas ir eksportas
+
+
+1. Importuojant paramai skirtą turtą, kartu su muitinės deklaracija muitiniam tikrinimui turi būti pateiktas paramos teikėjo raštas, liudijantis, kad importuojamas turtas skirtas paramai. Kai yra importuojami vaistai ar medicinos gaminiai, turi būti Sveikatos apsaugos ministerijos nustatyta tvarka pateikti papildomi dokumentai.
+
+
+
+
+2. Turtas eksportuojamas kaip parama tik tuo atveju, jeigu jis, vadovaujantis šiuo įstatymu, skirtas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintame sąraše nurodytoms užsienyje esančioms lietuvių bendruomenėms, kitoms lietuviškoms įstaigoms ar organizacijoms ir tarptautinėms labdaros organizacijoms.
+ 
+
+
+
+
+
+
+15 straipsnis. Paramos gavėjo statusas
+
+
+1. Šio įstatymo 7 straipsnio 1 dalyje nurodyti asmenys gali kreiptis į juridinių asmenų registro tvarkytoją dėl paramos gavėjo statuso suteikimo. Paramos gavėjo statusas privalo būti suteiktas, jeigu šių asmenų įstatuose (nuostatuose) numatyta:
+
+
+1) šio įstatymo 3 straipsnio 3 dalyje nurodyta visuomenei naudinga veikla (šis reikalavimas netaikomas biudžetinėms įstaigoms); 
+
+
+
+
+2) paramos gavimas.
+
+
+
+
+
+
+2. Paramos gavėjo statuso suteikimo, įskaitant pakartotinį šio statuso suteikimą, tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+
+
+
+3. Juridinių asmenų registro tvarkytojas paramos gavėjo statusą panaikina kontrolės institucijos teikimu arba paties paramos gavėjo prašymu. Į juridinių asmenų registro tvarkytoją dėl juridiniam asmeniui suteikto paramos gavėjo statuso panaikinimo kreipiasi institucija, pagal savo kompetenciją nustačiusi, kad tas asmuo:
+
+
+1) padarė piktybinį mokesčių įstatymų pažeidimą, nurodytą Mokesčių administravimo įstatyme;
+
+
+
+
+2) padarė Pinigų plovimo prevencijos įstatymo pažeidimą; 
+
+
+
+
+3) Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka neparengė šio įstatymo 12 straipsnio 3 dalyje nurodytos ataskaitos per 2 mėnesius po to, kai buvo apie šį pažeidimą įspėtas; 
+
+
+
+
+4) nuolat pažeidinėja labdaros ir paramos teikimo, gavimo bei panaudojimo reikalavimus ir dėl to kontrolės institucijos jau panaikino jiems mokesčių lengvatas.
+
+
+
+
+
+
+4. Juridinis asmuo, kuriam už šio straipsnio 3 dalyje nurodytą bent vieną pažeidimą buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į juridinių asmenų registro tvarkytoją ne anksčiau kaip po metų, kurie pradedami skaičiuoti nuo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas bei delspinigius, o per metų laikotarpį nebuvo nustatyta mokesčių įstatymų piktybinių pažeidimų arba Pinigų plovimo prevencijos įstatymo pažeidimų.
+TAR pastaba. Straipsnis įsigalioja nuo juridinių asmenų registro, nurodyto Lietuvos Respublikos civilinio kodekso antrojoje knygoje, veiklos pradžios 2004-01-01.
+ 
+
+
+
+
+
+
+16 straipsnis. Atsakomybė už įstatymo pažeidimą
+
+
+Labdaros ir paramos teikėjai bei gavėjai už šio įstatymo pažeidimus atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+ 
+
+
+
+
+
+
+17 straipsnis. Ginčų nagrinėjimas
+
+
+Ginčai dėl labdaros ir paramos nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.
  
 
 
@@ -468,6 +474,7 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+ 
  
  
 Pakeitimai:
