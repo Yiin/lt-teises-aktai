@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8F9A7A777267"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
-Ramunė Lūžaitė (1998.11.26)
+Ramunė Lūžaitė (1998.12.02)
  
 Įstatymas
 paskelbtas: Žin., 1995, Nr.32-743
@@ -68,6 +68,14 @@ Nr. VIII-919,
 LIETUVOS RESPUBLIKOS
 ENERGETIKOS ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+6.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-928,
+98.11.17, Žin., 1998, Nr.105-2899 (98.12.02)
+LIETUVOS RESPUBLIKOS
+ENERGETIKOS ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -103,8 +111,8 @@ atsinaujinantys energijos ištekliai - tai
 saulės energija, vėjo energija, vandens energija, geoterminė energija, biomasės
 energija;
 atliekiniai energijos ištekliai - bet kokio
-technologinio proceso metu gaunama energija transformuojant pirminę energiją arba
-kitą energiją, kuri nepanaudojama tam technologiniam procesui;
+technologinio proceso metu gaunama energija transformuojant pirminę energiją
+arba kitą energiją, kuri nepanaudojama tam technologiniam procesui;
 energetikos efektyvumas - tai visų energijos
 rūšių gamyba ir naudojimas pažangiausiais būdais;
 energetikos įmonė - ekonomiškai ir
@@ -139,9 +147,9 @@ straipsnis. Energetikos įstatymo paskirtis
 įstatymas nusako bendrąsias energetikos veiklos  nuostatas, energetikos 
 plėtojimo, funkcionavimo  ir valdymo  pagrindus. Atskirų energetikos sektorių,
 valstybės, savivaldybių  ir privačių įmonių, energijos gamintojų, tiekėjų ir
-vartotojų  veiklą, jų teisinius ir ekonominius santykius, jeigu šių santykių objektas
-yra energija ar energijos ištekliai, reglamentuoja kiti įstatymai ir
-poįstatyminiai aktai.
+vartotojų  veiklą, jų teisinius ir ekonominius santykius, jeigu šių santykių
+objektas yra energija ar energijos ištekliai, reglamentuoja kiti įstatymai ir poįstatyminiai
+aktai.
 
      3
 straipsnis. Energetikos politikos tikslai
@@ -170,8 +178,8 @@ patikima,  kokybiška ir  kiek įmanoma  mažiausiomis išlaidomis elektros,
      8)
 palankių teisinių ir ekonominių sąlygų investicijoms sudarymas;
      9)
-konkurencijos ir privataus kapitalo dalyvavimo skatinimas ekonominiam
-efektyvumui didinti.
+konkurencijos ir privataus kapitalo dalyvavimo skatinimas ekonominiam efektyvumui
+didinti.
  
 Straipsnio
 pakeitimai:
@@ -188,8 +196,8 @@ straipsnis. Pagrindinės energijos išteklių naudojimo nuostatos
 išteklių ir energijos naudojimo tvarką tvirtina Lietuvos Respublikos Vyriausybė
 arba jos įgaliota institucija.
      Energijos
-išteklių gavėjų ir energijos gamintojų, vartotojų ir tiekėjų tarpusavio santykiai
-grindžiami sutartimis.
+išteklių gavėjų ir energijos gamintojų, vartotojų ir tiekėjų tarpusavio
+santykiai grindžiami sutartimis.
      Energijos
 išteklių gavyba ir energijos gamyba bei naudojimas yra valstybinės priežiūros
 objektas.
@@ -330,9 +338,9 @@ tiekimo patikimumui didinti energetikos įmonėse sudaromos ūkinės kuro atsarg
 Jos privalo būti ne mažesnės už tą kuro kiekį, kuris reikalingas 2 mėnesių
 energijos poreikiams tenkinti.
      Kuro valstybinių atsargų sudarymo,
-saugojimo, naudojimo ir jo apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė
-arba jos įgaliota institucija. Už kuro valstybinių atsargų sudarymą ir
-naudojimą atsako Ūkio ministerija.
+saugojimo, naudojimo ir jo apskaitos tvarką nustato Lietuvos Respublikos
+Vyriausybė arba jos įgaliota institucija. Už kuro valstybinių atsargų
+sudarymą ir naudojimą atsako Ūkio ministerija.
      Lietuvos 
 Respublikos  Vyriausybė  skiria  lėšų  kuro valstybinėms atsargoms sudaryti ir
 saugoti.
@@ -395,8 +403,8 @@ Respublikoje galiojančiais įstatymais, tarpvalstybinėmis sutartimis.
     
 Draudžiama steigti, parduoti ar perduoti energetikos įmones bei suteikti
 leidimus energijos ištekliams eksploatuoti užsienio valstybių juridiniams ar
-fiziniams asmenims, jeigu tai gali pakenkti Lietuvos Respublikos interesams
-arba didina jos priklausomybę nuo užsienio valstybių energetikos monopolio.
+fiziniams asmenims, jeigu tai gali pakenkti Lietuvos Respublikos interesams arba
+didina jos priklausomybę nuo užsienio valstybių energetikos monopolio.
  
 Straipsnio
 pakeitimai:
@@ -411,10 +419,10 @@ energijos gamybos ir perdavimo objektams statyti ir plėsti, elektros linijoms
 ir vamzdynams bei kitiems įrenginiams statyti suteikiama naudotis ar nuomojama
 žemės įstatymų ir poįstatyminių aktų nustatyta tvarka.
      Energetikos
-objektų, elektros tiekimo linijų ir vamzdynų bei kitų įrenginių apsaugai ir
-normaliam eksploatavimui užtikrinti nustatomos apsaugos zonos. Apsaugos zonų
-žemė nepaimama iš žemės savininkų bei  kitų žemės  naudotojų ir yra riboto
-ūkinio naudojimo.
+objektų, elektros tiekimo linijų ir vamzdynų bei kitų įrenginių apsaugai ir normaliam
+eksploatavimui užtikrinti nustatomos apsaugos zonos. Apsaugos zonų žemė
+nepaimama iš žemės savininkų bei  kitų žemės  naudotojų ir yra riboto ūkinio
+naudojimo.
      Energetikos
 objektų, elektros tiekimo linijų ir vamzdynų apsaugos taisykles tvirtina
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
@@ -443,17 +451,15 @@ naudojimą ir tiekimo nuostolių mažinimą bei atliekinių energijos šaltinių
 naudojimą.
     
 Elektros energijos, centralizuotos šilumos bei gamtinių dujų kainos gali būti
-diferencijuojamos pagal vartotojų kategorijas, kuro ir energijos kokybę,
-tiekimo patikimumą, naudojimo laiką (paros, savaitės, sezono) ir sunaudotos
-energijos kiekį, o elektros energijos - ir atsižvelgiant į įtampos atskaitos
-prietaisų įrengimo vietą.
-    
-Kainodaros problemas energetikoje nagrinėja nuolat dirbanti Valstybinė
-energetikos išteklių kainų ir energetinės veiklos kontrolės komisija (toliau -
+diferencijuojamos pagal vartotojų kategorijas, kuro ir energijos kokybę, tiekimo
+patikimumą, naudojimo laiką (paros, savaitės, sezono) ir sunaudotos energijos
+kiekį, o elektros energijos - ir atsižvelgiant į įtampos atskaitos prietaisų
+įrengimo vietą.
+Kainodaros problemas energetikoje nagrinėja
+nuolat dirbanti Valstybinė kainų ir energetikos kontrolės komisija (toliau -
 Komisija).
-    
-Komisiją Vyriausybės teikimu 5 metams skiria, atleidžia ir jos nuostatus
-tvirtina Respublikos Prezidentas.
+Komisiją Vyriausybės teikimu 5 metams skiria,
+atleidžia ir jos nuostatus tvirtina Respublikos Prezidentas.
     
 Komisija nagrinėja svarbiausius energetikos ekonomikos, įskaitant investicijas,
 klausimus, nustato kainodaros energetikoje principus, elektros energijos,
@@ -488,7 +494,8 @@ Nr.
 VIII-261, 97.06.17, Žin., 1997, Nr.64-1494 (97.07.04)
 Nr.
 VIII-681, 98.03.26, Žin., 1998, Nr.34-899 (98.04.10)
- 
+Nr. VIII-928, 98.11.17,
+Žin., 1998, Nr.105-2899 (98.12.02)
 
                
 V skirsnis. ENERGETIKOS VALDYMO PAGRINDAI
@@ -525,8 +532,8 @@ importui, eksportui ir didmeninei prekybai išduoda Ūkio ministerija. Mažmenin
 prekyba nefasuotais naftos produktais leidžiama tik turint atitinkamos
 savivaldybės išduotas licencijas.
 Verstis energetikos įrenginių (elektros,
-šilumos, degiųjų gamtinių ir skystųjų angliavandenilinių dujų) eksploatavimu
-gali tik įmonės, gavusios Ūkio ministerijos nustatyta tvarka išduotą leidimą.
+šilumos, degiųjų gamtinių ir skystųjų angliavandenilinių dujų) eksploatavimu gali
+tik įmonės, gavusios Ūkio ministerijos nustatyta tvarka išduotą leidimą.
 Leidimus išduoda Energetikos valstybinė inspekcija prie Ūkio ministerijos.
  
 Straipsnio
@@ -562,9 +569,10 @@ pagal tarpvalstybinėse sutartyse reglamentuotas funkcijas.
 straipsnis. Energetikos darbuotojų rengimas ir atestavimas
  
      Vadovaujantys 
-energetikos   įmonių  darbuotojai  ir specialistai, kurie atlieka technologinius
-energetikos darbus, privalo turėti specialų pasirengimą. Energetikos įmonės
-rengia ir lavina personalą šių įmonių remiamose mokymo įstaigose.
+energetikos   įmonių  darbuotojai  ir specialistai, kurie atlieka
+technologinius energetikos darbus, privalo turėti specialų pasirengimą.
+Energetikos įmonės rengia ir lavina personalą šių įmonių remiamose mokymo
+įstaigose.
      Energetikos
 įmonių personalas, nurodytas šio straipsnio pirmojoje dalyje, privalo būti
 periodiškai atestuojamas.
@@ -593,8 +601,8 @@ ministerijos.
 Lietuvos Respublikos fizinių ir juridinių
 asmenų energetikos įrenginių (pagal Ūkio ministerijos patvirtintą sąrašą)
 valstybinė priežiūra atliekama visoje šalies teritorijoje nepaisant žinybinio
-pavaldumo, nuosavybės formų ir energetikos įrenginių galios. Ši inspekcija
-neatlieka branduolinės energetikos įrenginių valstybinės priežiūros.
+pavaldumo, nuosavybės formų ir energetikos įrenginių galios. Ši inspekcija neatlieka
+branduolinės energetikos įrenginių valstybinės priežiūros.
 Pagrindinis inspekcijos tikslas - atlikti
 Lietuvos Respublikos fizinių ir juridinių asmenų energetikos įrenginių
 valstybinę priežiūrą ir kontrolę, kad būtų užtikrintas patikimas, efektyvus ir
@@ -614,6 +622,7 @@ straipsnis. Atsakomybė už Energetikos įstatymo pažeidimus
 ir  fiziniai asmenys,  pažeidę šio įstatymo reikalavimus, traukiami atsakomybėn
 pagal Lietuvos Respublikos įstatymus.
 
+ 
           
            VII skirsnis. TARPTAUTINĖ VEIKLA
 
@@ -624,9 +633,9 @@ Tarptautinė veikla energetikos srityje
 grindžiama Lietuvos Respublikos interesais.
 Energetikos sistemų (įmonių), įstaigų ir
 organizacijų tarptautinę veiklą koordinuoja Ūkio ministerija.
-Ūkio ministerija nustatyta tvarka teikia pasiūlymus
-Lietuvos Respublikos Vyriausybei dėl dalyvavimo tarptautinių energetikos
-organizacijų darbe.
+Ūkio ministerija nustatyta tvarka teikia
+pasiūlymus Lietuvos Respublikos Vyriausybei dėl dalyvavimo tarptautinių
+energetikos organizacijų darbe.
  
 Straipsnio
 pakeitimai:
