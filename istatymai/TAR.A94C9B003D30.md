@@ -13,285 +13,271 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A94C9B003D30"
 
 # Lietuvos Respublikos 1998 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1998.12.22)
- 
-Įstatymas paskelbtas: Žin., 1997, Nr.114-2869
+Įstatymas
+skelbtas: Žin., 1997, Nr. 114-2869
 Neoficialus įstatymo tekstas
-Pakeitimai:
-1.
-Lietuvos Respublikos Seimas,
-Įstatymas
-Nr. VIII-752, 98.05.21,
-Žin., 1998, Nr.53-1449 (98.06.10)
-LIETUVOS RESPUBLIKOS 1998
-METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
-PATVIRTINIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
-2.
-Lietuvos Respublikos Seimas,
-Įstatymas
-Nr. VIII-944, 98.12.01,
-Žin., 1998, Nr.111 (98.12.18)
-LIETUVOS RESPUBLIKOS 1998
-METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
-PATVIRTINIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
- 
-*** Pabaiga ***
 LIETUVOS RESPUBLIKOS
-1998
-METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO
-
+1998 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ
+RODIKLIŲ PATVIRTINIMO 
 ĮSTATYMAS
-1997 m. gruodžio 2 d. Nr. VIII-547
+ 
+1997 m. Gruodžio 2 d. Nr. VIII-547
 Vilnius
  
  
-
-
-
-
- 
-1 straipsnis. 1998 metų valstybės biudžeto pajamų ir
-išlaidų 
-              patvirtinimas
- 
-1. Patvirtinti Lietuvos Respublikos 1998 metų
-valstybės biudžetą 6711962 tūkst. litų pajamų, 7406962 tūkst. litų
-išlaidų (išlaidos viršija pajamas 695000 tūkst. litų) ir
-100000 tūkst. litų kasos apyvartos lėšų (1, 2, 3 priedėliai).
-2. Nustatyti, kad valstybės biudžeto asignavimų
-sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir jų
-ekonomija asignavimų valdytojų nuožiūra gali būti naudojama kitoms
+1 straipsnis.
+1998 metų valstybės biudžeto pajamų ir išlaidų patvirtinimas
+1. Patvirtinti Lietuvos Respublikos 1998
+metų valstybės biudžetą 6711962 tūkst. Litų pajamų, 7406962
+tūkst. Litų išlaidų (išlaidos viršija pajamas
+695000 tūkst. Litų) ir 100000 tūkst. Litų kasos apyvartos
+lėšų (1, 2, 3 priedėliai).
+2. Nustatyti, kad valstybės biudžeto
+asignavimų sumos darbo užmokesčiui, nurodytos 1 priedėlyje, yra maksimalios ir
+jų ekonomija asignavimų valdytojų nuožiūra gali būti naudojama kitoms
 paprastosioms išlaidoms finansuoti.
- 
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. VIII-752, 98.05.21,
 Žin., 1998, Nr.53-1449 (98.06.10)
 Nr. VIII-944, 98.12.01,
-Žin., 1998, Nr.111 (98.12.18)
-2 straipsnis. Savivaldybių
-biudžetų finansinių rodiklių patvirtinimas
+Žin., 1998, Nr.111-3059 (98.12.18)
  
-1. Patvirtinti savivaldybių biudžetams skiriamo
-fizinių asmenų pajamų mokesčio dalis procentais, valstybės biudžeto bendrąją
-dotaciją mokestinėms pajamoms išlyginti - 356204 tūkst. litų ir
-savivaldybių išlaidų struktūros skirtumams išlyginti - 39578 tūkst. litų
+2
+straipsnis. Savivaldybių biudžetų finansinių rodiklių patvirtinimas
+1. Patvirtinti savivaldybių biudžetams
+skiriamo fizinių asmenų pajamų mokesčio dalis procentais, valstybės biudžeto
+bendrąją dotaciją mokestinėms pajamoms išlyginti - 356204 tūkst. Litų ir
+savivaldybių išlaidų struktūros skirtumams išlyginti - 39578 tūkst. Litų
 (4 priedėlis).
-2. Patvirtinti specialias  tikslines dotacijas -
-377099 tūkst. litų savivaldybių biudžetams, iš jų:
-1) asignavimus grįžtantiems į Lietuvą politiniams
-kaliniams ir tremtiniams namams, butams statyti arba pirkti - 3000 tūkst. litų;
-2) asignavimus kompensacijoms už valstybės
-išperkamus gyvenamuosius namus, jų dalis, butus buvusiems savininkams - 15000
-tūkst. litų;
-3) asignavimus savivaldybių biudžetinių įstaigų
-darbo užmokesčiui ir su juo susijusioms išmokoms indeksuoti -
-69112 tūkst. litų;
-4) asignavimus globojamiems vaikams išlaikyti pagal
-Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą - 12000 tūkst. litų;
-5) rezervą savivaldybių biudžetams dėl Savivaldybių
-biudžetų pajamų nustatymo metodikos įstatymo taikymo - 15000 tūkst. litų;
-6) savivaldybių biudžetų ir valstybės biudžeto
-mokestinių pajamų išlyginimo rezervą - 23000 tūkst. litų, iš jų 12270 tūkst.
-litų paskirstyti pagal 6 priedėlį;
-7) likusią specialios dotacijos sumą - 188735 tūkst.
-litų (5 priedėlis);
-8) asignavimus savivaldybių pedagogų ir socialinių
-darbuotojų darbo užmokesčiui padidinti - 51252 tūkst. litų.
- 
- 
-Straipsnio pakeitimai:
+2. Patvirtinti specialias  tikslines
+dotacijas - 377099 tūkst. Litų savivaldybių biudžetams, iš jų:
+1) asignavimus grįžtantiems į Lietuvą
+politiniams kaliniams ir tremtiniams namams, butams statyti arba pirkti - 3000
+tūkst. Litų;
+2) asignavimus kompensacijoms už
+valstybės išperkamus gyvenamuosius namus, jų dalis, butus buvusiems savininkams
+- 15000 tūkst. Litų;
+3) asignavimus savivaldybių biudžetinių
+įstaigų darbo užmokesčiui ir su juo susijusioms išmokoms indeksuoti -
+69112 tūkst. Litų;
+4) asignavimus globojamiems vaikams
+išlaikyti pagal Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą -
+12000 tūkst. Litų;
+5) rezervą savivaldybių biudžetams dėl
+Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo taikymo - 15000
+tūkst. Litų;
+6) savivaldybių biudžetų ir valstybės
+biudžeto mokestinių pajamų išlyginimo rezervą - 23000 tūkst. Litų, iš jų 12270
+tūkst. Litų paskirstyti pagal 6 priedėlį;
+7) likusią specialios dotacijos sumą -
+188735 tūkst. Litų (5 priedėlis);
+8) asignavimus savivaldybių pedagogų ir
+socialinių darbuotojų darbo užmokesčiui padidinti -
+51252 tūkst. Litų.
+Straipsnio
+pakeitimai:
 Nr. VIII-752, 98.05.21,
 Žin., 1998, Nr.53-1449 (98.06.10)
 Nr. VIII-944, 98.12.01,
-Žin., 1998, Nr.111 (98.12.18)
-3 straipsnis. Savivaldybių
-biudžetų tvirtinimas
+Žin., 1998, Nr.111-3059 (98.12.18)
  
-Nustatyti, kad miestų, rajonų tarybos patvirtina
-savivaldybių biudžetus per vieną mėnesį nuo valstybės biudžeto ir savivaldybių
-biudžetų pajamų šaltinių patvirtinimo ir vieną egzempliorių pateikia Finansų
-ministerijai.
+3
+straipsnis. Savivaldybių biudžetų tvirtinimas
+Nustatyti, kad miestų, rajonų tarybos
+patvirtina savivaldybių biudžetus per vieną mėnesį nuo valstybės biudžeto ir
+savivaldybių biudžetų pajamų šaltinių patvirtinimo ir vieną egzempliorių
+pateikia Finansų ministerijai.
  
-4 straipsnis. Atskaitymų iš
-fizinių asmenų pajamų mokesčio į Privalomojo sveikatos draudimo fondo biudžetą
-dydis
-Nustatyti, kad 1998 metais
-fizinių asmenų pajamų mokesčio įmokos į Privalomojo sveikatos draudimo fondo
-biudžetą sudaro 30 procentų apskaičiuotos jų pajamų mokesčio sumos.
-5 straipsnis. Įmokų dydis už
-valstybės lėšomis draudžiamus asmenis
+4
+straipsnis. Atskaitymų iš fizinių asmenų pajamų mokesčio į Privalomojo
+sveikatos draudimo fondo biudžetą dydis
+Nustatyti, kad
+1998 metais fizinių asmenų pajamų mokesčio įmokos į Privalomojo sveikatos
+draudimo fondo biudžetą sudaro 30 procentų apskaičiuotos jų pajamų mokesčio
+sumos.
  
-Nustatyti, kad 1998 metais valstybės biudžeto įmokos
-į Privalomojo sveikatos draudimo fondo biudžetą yra po 242,5 lito už kiekvieną
-valstybės lėšomis draudžiamą asmenį.
-6 straipsnis. Nebiudžetinių
-lėšų naudojimas
+5
+straipsnis. Įmokų dydis už valstybės lėšomis draudžiamus asmenis
+Nustatyti, kad 1998 metais valstybės
+biudžeto įmokos į Privalomojo sveikatos draudimo fondo biudžetą yra po 242,5
+lito už kiekvieną valstybės lėšomis draudžiamą asmenį.
  
-Nebiudžetinių lėšų naudojimo tvarką iš valstybės
-biudžeto išlaikomų įstaigų poreikiams, įskaitant ir darbo užmokestį, nustato
-Lietuvos Respublikos Vyriausybė.
-7 straipsnis. Privatizavimo
-fondo lėšų naudojimas Ūkininkų ir valstybinio fondo žemių melioracijos ir dirvų
-kalkinimo rėmimo programai
-Nustatyti, kad 1998 metais
-iš Privatizavimo fondo lėšų būtų skiriama iki 48000 tūkst. litų Ūkininkų
-ir valstybinio fondo žemių melioracijos ir dirvų kalkinimo rėmimo programai.
-8 straipsnis. Valdininkų
-kvalifikacijos kėlimas
-Nustatyti, kad valstybės ir
-savivaldybių valdymo institucijos valdininkų kvalifikacijai kelti skiria lėšų
-tiek, kad jos nesudarytų mažiau kaip 3 procentus jiems patvirtintų asignavimų
-darbo užmokesčiui. 
-9 straipsnis. Užsienio
-paskolų ir užsienio paskolų su valstybės   garantija limitas
+6
+straipsnis. Nebiudžetinių lėšų naudojimas
+Nebiudžetinių lėšų naudojimo tvarką iš
+valstybės biudžeto išlaikomų įstaigų poreikiams, įskaitant ir darbo užmokestį,
+nustato Lietuvos Respublikos Vyriausybė.
  
-Nustatyti 1998 metais gautinų užsienio paskolų ir
-užsienio paskolų su valstybės garantija limitą - 2460000 tūkst. litų.
+7
+straipsnis. Privatizavimo fondo lėšų naudojimas Ūkininkų ir valstybinio fondo
+žemių melioracijos ir dirvų kalkinimo rėmimo programai
+Nustatyti, kad
+1998 metais iš Privatizavimo fondo lėšų būtų skiriama iki 48000 tūkst.
+Litų Ūkininkų ir valstybinio fondo žemių melioracijos ir dirvų kalkinimo rėmimo
+programai.
  
-9(1)
-straipsnis. Valstybės teikiamų garantijų už garantijų institucijų ir draudimo
-įmonių įsipareigojimus pagal garantijos ar draudimo sutartis limitas
+8 straipsnis.
+Valdininkų kvalifikacijos kėlimas
+Nustatyti, kad valstybės ir savivaldybių
+valdymo institucijos valdininkų kvalifikacijai kelti skiria lėšų tiek, kad jos
+nesudarytų mažiau kaip 3 procentus jiems patvirtintų asignavimų darbo
+užmokesčiui. 
+9
+straipsnis. Užsienio paskolų ir užsienio paskolų su valstybės   garantija
+limitas
+Nustatyti 1998 metais gautinų užsienio
+paskolų ir užsienio paskolų su valstybės garantija limitą - 2460000 tūkst.
+Litų.
  
-Nustatyti 1998 metais valstybės teikiamų garantijų už
-garantijų institucijų ir draudimo įmonių įsipareigojimus pagal garantijos ar
-draudimo sutartis limitą - 480000 tūkst. litų.
- 
-Straipsnio pakeitimai:
-Nr. VIII-752, 98.05.21,
-Žin., 1998, Nr.53-1449 (98.06.10)
-10 straipsnis. Vyriausybės
-teisės vykdant nacionalinį biudžetą
- 
-Suteikti Lietuvos Respublikos Vyriausybei arba jos
-įgaliotai institucijai teisę:
-1) leisti vertybinius popierius ir imti paskolas
-kapitalo investicijoms finansuoti, valstybės skolai, susidariusiai iki
-1998 m. sausio 1 d., dengti, 1998 metų valstybės biudžeto deficitui
+9(1) straipsnis. Valstybės teikiamų
+garantijų už garantijų institucijų ir draudimo įmonių įsipareigojimus pagal
+garantijos ar draudimo sutartis limitas
+Nustatyti 1998 metais valstybės teikiamų
+garantijų už garantijų institucijų ir draudimo įmonių įsipareigojimus pagal
+garantijos ar draudimo sutartis limitą - 480000 tūkst. Litų.
+Straipsnio
+pakeitimai:
+Nr. VIII-752, 1998.05.21,
+Žin., 1998, Nr.53-1449 (1998.06.10)
+10
+straipsnis. Vyriausybės teisės vykdant nacionalinį biudžetą
+Suteikti Lietuvos Respublikos
+Vyriausybei arba jos įgaliotai institucijai teisę:
+1) leisti vertybinius popierius ir imti
+paskolas kapitalo investicijoms finansuoti, valstybės skolai, susidariusiai iki
+1998 m. Sausio 1 d., Dengti, 1998 metų valstybės biudžeto deficitui
 ir nustatytai valstybės skolai už energetinius išteklius dengti, likviduojamų
-bankų kreditoriams suteiktoms valstybės garantijoms įvykdyti, bankų akciniams
-kapitalams didinti bei kompensacijų įsiskolinimui už valstybės išperkamą žemę
-iš dalies dengti;
-2) indeksuoti darbo užmokestį ir su juo susijusias
-išmokas biudžetinių įstaigų darbuotojams, taip pat mokamas iš biudžeto
-pensijas, pašalpas ir stipendijas, neviršijant valstybės biudžete tam numatytų
-asignavimų;
-3) paskirstyti miestų, rajonų savivaldybėms
-valstybės biudžeto specialią dotaciją:
-a) asignavimus grįžtantiems į Lietuvą politiniams
-kaliniams ir tremtiniams namams, butams statyti arba pirkti;
-b) asignavimus kompensacijoms už valstybės
-išperkamus gyvenamuosius namus, jų dalis, butus buvusiems savininkams;
-c) asignavimus savivaldybių biudžetinių įstaigų
-darbo užmokesčiui ir su juo susijusioms išmokoms indeksuoti;
-d) asignavimus globojamiems vaikams išlaikyti pagal
-Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą;
-e) rezervą Savivaldybių biudžetų pajamų nustatymo
-metodikos įstatymui taikyti biudžetams tų savivaldybių, kurių 1998 metų
-bendrųjų pajamų didėjimas palyginti su 1997 metais sudaro ne daugiau kaip 27
-procentus;
-f) savivaldybių pedagogų ir socialinių darbuotojų
-darbo užmokesčiui padidinti.
-4) perskirsčius ministerijų, apskričių,
-departamentų, valstybės tarnybų kai kurias funkcijas, atitinkamai pakeisti
-patvirtintus asignavimus.
+bankų kreditoriams suteiktoms valstybės garantijoms įvykdyti, bankų akciniams kapitalams
+didinti bei kompensacijų įsiskolinimui už valstybės išperkamą žemę iš dalies
+dengti;
+2) indeksuoti darbo užmokestį ir su juo
+susijusias išmokas biudžetinių įstaigų darbuotojams, taip pat mokamas iš
+biudžeto pensijas, pašalpas ir stipendijas, neviršijant valstybės biudžete tam
+numatytų asignavimų;
+3) paskirstyti miestų, rajonų
+savivaldybėms valstybės biudžeto specialią dotaciją:
+A) asignavimus grįžtantiems į Lietuvą
+politiniams kaliniams ir tremtiniams namams, butams statyti arba pirkti;
+B) asignavimus kompensacijoms už
+valstybės išperkamus gyvenamuosius namus, jų dalis, butus buvusiems
+savininkams;
+C) asignavimus savivaldybių biudžetinių
+įstaigų darbo užmokesčiui ir su juo susijusioms išmokoms indeksuoti;
+D) asignavimus globojamiems vaikams
+išlaikyti pagal Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą;
+E) rezervą Savivaldybių biudžetų pajamų
+nustatymo metodikos įstatymui taikyti biudžetams tų savivaldybių, kurių 1998
+metų bendrųjų pajamų didėjimas palyginti su 1997 metais sudaro ne daugiau kaip
+27 procentus;
+F) savivaldybių pedagogų ir socialinių
+darbuotojų darbo užmokesčiui padidinti.
+*4) perskirsčius ministerijų,
+apskričių, departamentų, valstybės tarnybų kai kurias funkcijas, atitinkamai
+pakeisti patvirtintus asignavimus.
+*Pastaba. 10 straipsnio 4
+punktas prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsniui, 94
+straipsnio 4 punktui ir 132 straipsnio 2 daliai.
+Straipsnio
+pakeitimai:
+Nr. VIII-752, 1998.05.21,
+Žin., 1998, Nr. 53-1449 (1998.06.10)
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+1999.07.09,
+Žin., 1999, Nr. 61-2015 (1999.07.14)
  
-Straipsnio pakeitimai:
-Nr. VIII-752, 98.05.21,
-Žin., 1998, Nr.53-1449 (98.06.10)
- 
-11 straipsnis.
-Savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo
-rezervo naudojimas
- 
-Nustatyti šią savivaldybių biudžetų ir valstybės
-biudžeto mokestinių pajamų išlyginimo rezervo naudojimo tvarką:
-1) per metus Finansų ministerija teikia mokestinių
-pajamų išlyginimo rezervo lėšų kreditus savivaldybėms, kuriose nevykdomi
-biudžetų mokestinių pajamų planai;
-2) Lietuvos Respublikos Vyriausybė savivaldybių
-biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervo lėšas iki
-1998 m. gruodžio 20 d. paskirsto taip:
-a) savivaldybių biudžetų 1998 metais negautoms
-mokestinėms pajamoms dengti (pagal mokestinių pajamų plano numatomo įvykdymo
-duomenis);
-b) iš nepanaudotų pagal šio straipsnio 2 punkto a
-papunktį rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos
+11
+straipsnis. Savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų
+išlyginimo rezervo naudojimas
+Nustatyti šią savivaldybių biudžetų ir
+valstybės biudžeto mokestinių pajamų išlyginimo rezervo naudojimo tvarką:
+1) per metus Finansų ministerija teikia
+mokestinių pajamų išlyginimo rezervo lėšų kreditus savivaldybėms, kuriose
+nevykdomi biudžetų mokestinių pajamų planai;
+2) Lietuvos Respublikos Vyriausybė
+savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo
+rezervo lėšas iki 1998 m. Gruodžio 20 d. Paskirsto taip:
+A) savivaldybių biudžetų 1998 metais
+negautoms mokestinėms pajamoms dengti (pagal mokestinių pajamų plano numatomo
+įvykdymo duomenis);
+B) iš nepanaudotų pagal šio straipsnio 2
+punkto a papunktį rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos
 planuotos mokestinės pajamos (pagal mokestinių pajamų plano numatomo įvykdymo
 duomenis);
-c) nepanaudotas pagal šio straipsnio 2 punkto a ir b
-papunkčius mokestinių pajamų išlyginimo rezervo likutis skiriamas savivaldybių
-butų fondui kaupti.
- 
-Straipsnio pakeitimai:
+C) nepanaudotas pagal šio straipsnio 2
+punkto a ir b papunkčius mokestinių pajamų išlyginimo rezervo likutis skiriamas
+savivaldybių butų fondui kaupti.
+Straipsnio
+pakeitimai:
 Nr. VIII-752, 98.05.21,
 Žin., 1998, Nr.53-1449 (98.06.10)
 Nr. VIII-944, 98.12.01,
-Žin., 1998, Nr.111 (98.12.18)
+Žin., 1998, Nr.111-3059 (98.12.18)
  
-12 straipsnis. Savivaldybių atsiskaitymas už
-sunaudotus energetinius
-                išteklius
+12 straipsnis.
+Savivaldybių atsiskaitymas už sunaudotus energetinius išteklius
+1. Savivaldybės užtikrina, kad būtų
+laiku atsiskaitoma už sunaudotus energetinius išteklius.
+2. Jeigu biudžetinių įstaigų skola
+šilumos tinklų specialiosios paskirties akcinėms bendrovėms tęsiasi ilgiau kaip
+30 dienų, ją Finansų ministerija padengia iš savivaldybių biudžetams
+priklausančių lėšų. 
  
-1. Savivaldybės užtikrina, kad būtų laiku
-atsiskaitoma už sunaudotus energetinius išteklius.
-2. Jeigu biudžetinių įstaigų skola šilumos tinklų
-specialiosios paskirties akcinėms bendrovėms tęsiasi ilgiau kaip 30 dienų, ją
-Finansų ministerija padengia iš savivaldybių biudžetams priklausančių lėšų. 
-13 straipsnis. Valstybės
-skolinimosi ir paskolų grąžinimo mastai
+13
+straipsnis. Valstybės skolinimosi ir paskolų grąžinimo mastai
+Nustatyti skolintų lėšų pajamas iki
+3281500 tūkst. Litų, skolintų lėšų išlaidas - 2012500 tūkst. Litų valstybės
+vardu gautoms skolintoms lėšoms grąžinti ir Lietuvos Respublikos įstatymų
+pripažintai valstybės vidaus skolai dengti.
  
-Nustatyti skolintų lėšų pajamas iki 3281500 tūkst.
-litų, skolintų lėšų išlaidas - 2012500 tūkst. litų valstybės vardu gautoms
-skolintoms lėšoms grąžinti ir Lietuvos Respublikos įstatymų pripažintai
-valstybės vidaus skolai dengti.
+14
+straipsnis. Savivaldybių 1997 metais nepanaudotų asignavimų grąžinimas į
+valstybės biudžetą
+1997 metais nepanaudoti pagal tikslinę
+paskirtį asignavimai kapitalo investicijoms, kurių sąmatinė kaina viršija 5000
+tūkst. Litų, gamtosaugos objektams finansuoti ir paskoloms su valstybės
+garantija grąžinti bei palūkanoms mokėti, sumažinti 1997 metais į savivaldybių
+biudžetus negautų pajamų suma (palyginti su pajamomis, nustatytomis tvirtinant
+atskaitymų į savivaldybių biudžetus normatyvus), grąžinami į valstybės
+biudžetą.
  
-14 straipsnis.
-Savivaldybių 1997 metais nepanaudotų asignavimų grąžinimas į valstybės biudžetą
- 
-1997 metais nepanaudoti pagal tikslinę paskirtį
-asignavimai kapitalo investicijoms, kurių sąmatinė kaina viršija 5000 tūkst.
-litų, gamtosaugos objektams finansuoti ir paskoloms su valstybės garantija
-grąžinti bei palūkanoms mokėti, sumažinti 1997 metais į savivaldybių biudžetus
-negautų pajamų suma (palyginti su pajamomis, nustatytomis tvirtinant atskaitymų
-į savivaldybių biudžetus normatyvus), grąžinami į valstybės biudžetą.
- 
-15 straipsnis.
-Leidimas asignavimų valdytojams perskirstyti išlaidas pagal biudžeto išlaidų
-funkcijas
- 
-Asignavimų valdytojams leidžiama perskirstyti
-išlaidas pagal biudžeto išlaidų funkcijas.
- 
-Straipsnio pakeitimai:
+15
+straipsnis. Leidimas asignavimų valdytojams perskirstyti išlaidas pagal biudžeto
+išlaidų funkcijas
+Asignavimų valdytojams leidžiama
+perskirstyti išlaidas pagal biudžeto išlaidų funkcijas.
+Straipsnio
+pakeitimai:
 Nr. VIII-752, 98.05.21,
 Žin., 1998, Nr.53-1449 (98.06.10)
  
  
-Skelbiu šį Lietuvos Respublikos Seimo priimtą
-įstatymą.
+Skelbiu šį Lietuvos Respublikos Seimo
+priimtą įstatymą.
  
-RESPUBLIKOS PREZIDENTAS                                  ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS
 BRAZAUSKAS
 
 
 
 
  
-                                              Lietuvos
+                                                                                                                          Lietuvos
 Respublikos 
-                                              1997
-m. gruodžio 2 d.
-                                              įstatymo
+                                                                                            1997
+m. Gruodžio 2 d.
+                                                                                            Įstatymo
 Nr.VIII-547
-                                              1
+                                                                                            1
 priedėlis
  
 LIETUVOS
 RESPUBLIKOS 1998 METŲ
 VALSTYBĖS
 BIUDŽETAS
-tūkst. Lt
+Tūkst. Lt
 
 
 
@@ -311,7 +297,8 @@ Iš viso
 
 
 
-MOKESTINĖS PAJAMOS
+MOKESTINĖS
+  PAJAMOS
 
 
  
@@ -319,8 +306,8 @@ MOKESTINĖS PAJAMOS
 
 
 
-Juridinių asmenų pelno
-  mokestis
+Juridinių
+  asmenų pelno mokestis
 
 
 610592
@@ -328,7 +315,8 @@ Juridinių asmenų pelno
 
 
 
-Pridėtinės vertės mokestis
+Pridėtinės
+  vertės mokestis
 
 
 3829172
@@ -344,8 +332,8 @@ Akcizai
 
 
 
-Tarptautinės prekybos ir
-  sandorių mokesčiai
+Tarptautinės
+  prekybos ir sandorių mokesčiai
 
 
 267290
@@ -353,7 +341,8 @@ Tarptautinės prekybos ir
 
 
 
-Konsulinis mokestis
+Konsulinis
+  mokestis
 
 
 35000
@@ -361,7 +350,8 @@ Konsulinis mokestis
 
 
 
-Žyminis mokestis
+Žyminis
+  mokestis
 
 
 118157
@@ -377,7 +367,8 @@ Konsulinis mokestis
 
 
 
-NEMOKESTINĖS PAJAMOS
+NEMOKESTINĖS
+  PAJAMOS
 
 
  
@@ -385,8 +376,8 @@ NEMOKESTINĖS PAJAMOS
 
 
 
-Lietuvos banko likutinis
-  pelnas
+Lietuvos banko
+  likutinis pelnas
 
 
 9065
@@ -394,8 +385,8 @@ Lietuvos banko likutinis
 
 
 
-Mokestis už valstybinius
-  gamtos išteklius 
+Mokestis už
+  valstybinius gamtos išteklius 
 
 
 30472
@@ -403,8 +394,8 @@ Mokestis už valstybinius
 
 
 
-Palūkanos už valstybės
-  kapitalo naudojimą
+Palūkanos už
+  valstybės kapitalo naudojimą
 
 
 12364
@@ -412,8 +403,8 @@ Palūkanos už valstybės
 
 
 
-Gautos palūkanos už
-  paskolas ūkiniams subjektams
+Gautos
+  palūkanos už paskolas ūkiniams subjektams
 
 
 170856
@@ -421,7 +412,8 @@ Gautos palūkanos už
 
 
 
-Dividendai už akcijas
+Dividendai už
+  akcijas
 
 
 77197
@@ -429,8 +421,8 @@ Dividendai už akcijas
 
 
 
-Pajamos iš baudų ir
-  konfiskacijos
+Pajamos iš
+  baudų ir konfiskacijos
 
 
 13448
@@ -438,8 +430,8 @@ Pajamos iš baudų ir
 
 
 
-Mokestis už aplinkos
-  teršimą
+Mokestis už
+  aplinkos teršimą
 
 
 20147
@@ -479,8 +471,8 @@ IŠ VISO
 
 
 
-Biudžeto lėšų 1998 m.
-  sausio 1 d. likutis
+Biudžeto lėšų
+  1998 m. Sausio 1 d. Likutis
 
 
 123854
@@ -509,9 +501,9 @@ IŠLAIDOS
 
 
 
-                                                    1
+                                                                                                        1
    priedėlio tęsinys
-tūkst.
+Tūkst.
    Lt
 
 
@@ -537,28 +529,28 @@ Iš
    viso
 
 
-paprastosios
+Paprastosios
    išlaidos 
 
 
-nepapras-tosios
+Nepapras-tosios
    išlaidos
 
 
 
 
-valdytojų
+Valdytojų
    pavadinimas
 
 
  
 
 
-iš
+Iš
    viso
 
 
-iš
+Iš
    jų darbo užmokestis
 
 
@@ -718,7 +710,8 @@ Seimo kontrolierių įstaiga
 
  
 
-Lietuvos Respublikos Konstitucinis Teismas
+Lietuvos Respublikos Konstitucinis
+  Teismas
 
 
  
@@ -758,7 +751,8 @@ Lietuvos Respublikos Konstitucinis Teismas
 
  
 
-Lietuvos Respublikos valstybės kontrolė
+Lietuvos Respublikos valstybės
+  kontrolė
 
 
 12785
@@ -794,8 +788,8 @@ Lietuvos Respublikos valstybės kontrolė
 
  
 
-Valstybinė lietuvių kalbos komisija prie Lietuvos
-  Respublikos Seimo
+Valstybinė lietuvių kalbos komisija
+  prie Lietuvos Respublikos Seimo
 
 
 4212
@@ -975,7 +969,8 @@ Valstybinė paminklosaugos komisija
 
  
 
-Lietuvos Respublikos vertybinių popierių komisija
+Lietuvos Respublikos vertybinių
+  popierių komisija
 
 
 3538
@@ -1011,7 +1006,8 @@ Lietuvos Respublikos vertybinių popierių komisija
 
  
 
-Lietuvos Respublikos Vyriausybės kanceliarija
+Lietuvos Respublikos Vyriausybės
+  kanceliarija
 
 
 17551
@@ -1047,8 +1043,8 @@ Lietuvos Respublikos Vyriausybės kanceliarija
 
  
 
-Valstybinė energetikos išteklių kainų ir
-  energetinės veiklos kontrolės komisija
+Valstybinė energetikos išteklių kainų
+  ir energetinės veiklos kontrolės komisija
 
 
 1373
@@ -1264,7 +1260,8 @@ Kultūros ministerija
 
  
 
-Socialinės apsaugos ir darbo ministerija
+Socialinės apsaugos ir darbo
+  ministerija
 
 
  
@@ -1484,8 +1481,7 @@ Teisingumo ministerija
 
  
 
-Užsienio
-  reikalų ministerija
+Užsienio reikalų ministerija
 
 
 112883
@@ -1521,8 +1517,8 @@ Užsienio
 
  
 
-Valdymo reformų ir savivaldybių reikalų
-  ministerija
+Valdymo reformų ir savivaldybių
+  reikalų ministerija
 
 
  
@@ -1562,8 +1558,7 @@ Valdymo reformų ir savivaldybių reikalų
 
  
 
-Vidaus
-  reikalų ministerija
+Vidaus reikalų ministerija
 
 
 148576
@@ -1599,8 +1594,7 @@ Vidaus
 
  
 
-Žemės
-  ūkio ministerija
+Žemės ūkio ministerija
 
 
 560415
@@ -1655,7 +1649,8 @@ II. Apskritys
 
  
 
-Alytaus apskrities viršininko administracija
+Alytaus apskrities viršininko
+  administracija
 
 
  
@@ -1677,7 +1672,8 @@ Alytaus apskrities viršininko administracija
 
  
 
-iš jų: melioracijai ir dirvų kalkinimui
+Iš jų: melioracijai ir dirvų
+  kalkinimui
 
 
 2850
@@ -1695,7 +1691,7 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-         žemės reformai vykdyti 
+         Žemės reformai vykdyti 
 
 
 3616
@@ -1731,7 +1727,8 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-Kauno apskrities viršininko administracija
+Kauno apskrities viršininko
+  administracija
 
 
  
@@ -1753,7 +1750,7 @@ Kauno apskrities viršininko administracija
 
  
 
-iš jų: melioracijai ir dirvų kalkinimui
+Iš jų: melioracijai ir dirvų kalkinimui
 
 
 8553
@@ -1771,7 +1768,7 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-         žemės reformai vykdyti
+         Žemės reformai vykdyti
 
 
 5000
@@ -1808,7 +1805,8 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-Klaipėdos apskrities viršininko administracija
+Klaipėdos apskrities viršininko
+  administracija
 
 
  
@@ -1830,7 +1828,7 @@ Klaipėdos apskrities viršininko administracija
 
  
 
-iš jų:melioracijai ir dirvų kalkinimui
+Iš jų:melioracijai ir dirvų kalkinimui
 
 
 9617
@@ -1848,7 +1846,7 @@ iš jų:melioracijai ir dirvų kalkinimui
 
  
 
-        žemės reformai vykdyti
+        Žemės reformai vykdyti
 
 
 2963
@@ -1884,7 +1882,8 @@ iš jų:melioracijai ir dirvų kalkinimui
 
  
 
-Marijampolės apskrities viršininko administracija
+Marijampolės apskrities viršininko
+  administracija
 
 
  
@@ -1906,7 +1905,8 @@ Marijampolės apskrities viršininko administracija
 
  
 
-iš jų: melioracijai ir dirvų kalkinimui
+Iš jų: melioracijai ir dirvų
+  kalkinimui
 
 
 5470
@@ -1924,7 +1924,7 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-         žemės reformai vykdyti
+         Žemės reformai vykdyti
 
 
 3398
@@ -1960,7 +1960,8 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-Panevėžio apskrities viršininko administracija
+Panevėžio apskrities viršininko
+  administracija
 
 
  
@@ -1982,7 +1983,8 @@ Panevėžio apskrities viršininko administracija
 
  
 
-iš jų: melioracijai ir dirvų kalkinimui
+Iš jų: melioracijai ir dirvų
+  kalkinimui
 
 
 9268
@@ -2000,7 +2002,7 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-         žemės reformai vykdyti
+         Žemės reformai vykdyti
 
 
 5450
@@ -2036,7 +2038,8 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-Šiaulių apskrities viršininko administracija
+Šiaulių apskrities viršininko
+  administracija
 
 
  
@@ -2058,7 +2061,8 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-iš jų: melioracijai ir dirvų kalkinimui
+Iš jų: melioracijai ir dirvų
+  kalkinimui
 
 
 10943
@@ -2076,7 +2080,7 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-žemės reformai vykdyti
+Žemės reformai vykdyti
 
 
 4398
@@ -2112,7 +2116,8 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-Tauragės apskrities viršininko  administracija
+Tauragės apskrities viršininko 
+  administracija
 
 
  
@@ -2134,7 +2139,8 @@ Tauragės apskrities viršininko  administracija
 
  
 
-iš jų: melioracijai ir dirvų kalkinimui
+Iš jų: melioracijai ir dirvų
+  kalkinimui
 
 
 4439
@@ -2152,7 +2158,7 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-          žemės reformai vykdyti
+          Žemės reformai vykdyti
 
 
 2787
@@ -2188,7 +2194,8 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-Telšių apskrities viršininko administracija
+Telšių apskrities viršininko
+  administracija
 
 
  
@@ -2210,7 +2217,8 @@ Telšių apskrities viršininko administracija
 
  
 
-iš jų: melioracijai ir dirvų kalkinimui
+Iš jų: melioracijai ir dirvų
+  kalkinimui
 
 
 5632
@@ -2228,7 +2236,7 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-        žemės reformai vykdyti
+        Žemės reformai vykdyti
 
 
 2782
@@ -2264,7 +2272,8 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-Utenos apskrities viršininko administracija
+Utenos apskrities viršininko
+  administracija
 
 
  
@@ -2286,7 +2295,8 @@ Utenos apskrities viršininko administracija
 
  
 
-iš jų: melioracijai ir dirvų kalkinimui
+Iš jų: melioracijai ir dirvų
+  kalkinimui
 
 
 6026
@@ -2304,7 +2314,7 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-        žemės reformai vykdyti
+        Žemės reformai vykdyti
 
 
 4478
@@ -2340,7 +2350,8 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-Vilniaus apskrities viršininko administracija
+Vilniaus apskrities viršininko
+  administracija
 
 
  
@@ -2362,7 +2373,8 @@ Vilniaus apskrities viršininko administracija
 
  
 
-iš jų: melioracijai ir dirvų kalkinimui
+Iš jų: melioracijai ir dirvų
+  kalkinimui
 
 
 7822
@@ -2380,7 +2392,7 @@ iš jų: melioracijai ir dirvų kalkinimui
 
  
 
-         žemės reformai vykdyti
+         Žemės reformai vykdyti
 
 
 5361
@@ -2417,8 +2429,8 @@ iš jų: melioracijai ir dirvų kalkinimui
  
 
  
-III. Departamentai, tarnybos ir
-  inspekcijos
+III. Departamentai,
+  tarnybos ir inspekcijos
 
 
  
@@ -2454,8 +2466,8 @@ III. Departamentai, tarnybos ir
 
  
 
-Lietuvos archyvų departamentas prie Lietuvos
-  Respublikos Vyriausybės
+Lietuvos archyvų departamentas prie
+  Lietuvos Respublikos Vyriausybės
 
 
  
@@ -2495,8 +2507,8 @@ Lietuvos archyvų departamentas prie Lietuvos
 
  
 
-Europos teisės departamentas prie Lietuvos
-  Respublikos Vyriausybės
+Europos teisės departamentas prie
+  Lietuvos Respublikos Vyriausybės
 
 
  
@@ -2535,8 +2547,8 @@ Europos teisės departamentas prie Lietuvos
 
  
 
-Europos komitetas prie Lietuvos Respublikos
-  Vyriausybės
+Europos komitetas prie Lietuvos
+  Respublikos Vyriausybės
 
 
  
@@ -2576,8 +2588,8 @@ Europos komitetas prie Lietuvos Respublikos
 
  
 
-Kūno kultūros ir sporto departamentas prie
-  Lietuvos Respublikos Vyriausybės
+Kūno kultūros ir sporto departamentas
+  prie Lietuvos Respublikos Vyriausybės
 
 
  
@@ -2666,8 +2678,8 @@ Regioninių problemų ir tautinių mažumų
 
  
 
-Statistikos departamentas prie Lietuvos
-  Respublikos Vyriausybės
+Statistikos departamentas prie
+  Lietuvos Respublikos Vyriausybės
 
 
  
@@ -2707,7 +2719,8 @@ Statistikos departamentas prie Lietuvos
 
  
 
-Teismų departamentas prie Teisingumo ministerijos
+Teismų departamentas prie Teisingumo
+  ministerijos
 
 
  
@@ -2747,8 +2760,8 @@ Teismų departamentas prie Teisingumo ministerijos
 
  
 
-Mokslo ir studijų departamentas prie Švietimo ir
-  mokslo ministerijos
+Mokslo ir studijų departamentas prie
+  Švietimo ir mokslo ministerijos
 
 
  
@@ -2787,8 +2800,8 @@ Mokslo ir studijų departamentas prie Švietimo ir
 
  
 
-Valstybinė geodezijos ir kartografijos tarnyba
-  prie Lietuvos Respublikos Vyriausybės
+Valstybinė geodezijos ir kartografijos
+  tarnyba prie Lietuvos Respublikos Vyriausybės
 
 
  
@@ -2832,8 +2845,8 @@ Valstybinė geodezijos ir kartografijos tarnyba
 
  
 
-Valstybinė konkurencijos ir vartotojų teisių
-  gynimo tarnyba prie Lietuvos Respublikos Vyriausybės
+Valstybinė konkurencijos ir vartotojų
+  teisių gynimo tarnyba prie Lietuvos Respublikos Vyriausybės
 
 
  
@@ -2877,8 +2890,8 @@ Valstybinė konkurencijos ir vartotojų teisių
 
  
 
-Valstybinė tabako ir alkoholio kontrolės tarnyba
-  prie Lietuvos Respublikos Vyriausybės
+Valstybinė tabako ir alkoholio
+  kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės
 
 
  
@@ -2922,8 +2935,8 @@ Valstybinė tabako ir alkoholio kontrolės tarnyba
 
  
 
-Viešųjų pirkimų tarnyba prie Lietuvos Respublikos
-  Vyriausybės
+Viešųjų pirkimų tarnyba prie Lietuvos
+  Respublikos Vyriausybės
 
 
  
@@ -3043,7 +3056,8 @@ Lietuvos ekonominės plėtros agentūra
 
  
 
-Lietuvos Respublikos valstybės saugumo departamentas
+Lietuvos Respublikos valstybės saugumo
+  departamentas
 
 
  
@@ -3119,7 +3133,8 @@ Valstybinė veterinarijos tarnyba
 
  
 
-Valstybinė atominės energetikos saugos inspekcija
+Valstybinė atominės energetikos saugos
+  inspekcija
 
 
  
@@ -3159,8 +3174,8 @@ Valstybinė atominės energetikos saugos inspekcija
 
  
 
-Lietuvos valstybinė kokybės inspekcija prie
-  Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos
+Lietuvos valstybinė kokybės inspekcija
+  prie Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos
 
 
  
@@ -3208,8 +3223,8 @@ Lietuvos valstybinė kokybės inspekcija prie
 
  
 
-Vyriausybinių ryšių centras prie Lietuvos
-  Respublikos valstybės saugumo departamento
+Vyriausybinių ryšių centras prie
+  Lietuvos Respublikos valstybės saugumo departamento
 
 
  
@@ -3253,7 +3268,8 @@ Vyriausybinių ryšių centras prie Lietuvos
 
  
 
-IV. Įmonės ir organizacijos
+IV. Įmonės ir
+  organizacijos
 
 
  
@@ -3289,8 +3305,8 @@ IV. Įmonės ir organizacijos
 
  
 
-Aplinkos ministerijos reguliavimo
-  sritis
+Aplinkos ministerijos
+  reguliavimo sritis
 
 
  
@@ -3326,8 +3342,8 @@ Aplinkos ministerijos reguliavimo
 
  
 
-Miškų ir saugomų teritorijų departamentas prie
-  Aplinkos ministerijos
+Miškų ir saugomų teritorijų
+  departamentas prie Aplinkos ministerijos
 
 
  
@@ -3371,8 +3387,8 @@ Miškų ir saugomų teritorijų departamentas prie
 
  
 
-Lietuvos hidrometeorologijos tarnyba prie Aplinkos
-  ministerijos
+Lietuvos hidrometeorologijos tarnyba
+  prie Aplinkos ministerijos
 
 
  
@@ -3412,8 +3428,8 @@ Lietuvos hidrometeorologijos tarnyba prie Aplinkos
 
  
 
-Lietuvos geologijos tarnyba prie Aplinkos
-  ministerijos
+Lietuvos geologijos tarnyba prie
+  Aplinkos ministerijos
 
 
 
@@ -3495,8 +3511,8 @@ Valstybės įmonė “Statybos produkcijos
 
  
 
-Valstybinė teritorijų planavimo ir statybos
-  inspekcija prie Aplinkos ministerijos
+Valstybinė teritorijų planavimo ir
+  statybos inspekcija prie Aplinkos ministerijos
 
 
  
@@ -3540,8 +3556,8 @@ Valstybinė teritorijų planavimo ir statybos
 
  
 
-Žemės ir kito nekilnojamojo turto kadastro ir
-  registro valstybės įmonė
+Žemės ir kito nekilnojamojo turto
+  kadastro ir registro valstybės įmonė
 
 
  
@@ -3563,8 +3579,8 @@ Valstybinė teritorijų planavimo ir statybos
 
  
  
-Finansų ministerijos reguliavimo
-  sritis
+Finansų ministerijos
+  reguliavimo sritis
 
 
  
@@ -3600,7 +3616,8 @@ Finansų ministerijos reguliavimo
 
  
 
-Muitinės departamentas prie Finansų ministerijos
+Muitinės departamentas prie Finansų
+  ministerijos
 
 
  
@@ -3676,7 +3693,8 @@ Finansų ministerijos mokymo centras
 
  
 
-Revizijų departamentas prie Finansų ministerijos
+Revizijų departamentas prie Finansų
+  ministerijos
 
 
  
@@ -3715,8 +3733,8 @@ Revizijų departamentas prie Finansų ministerijos
 
  
 
-Valstybinė mokesčių inspekcija prie Finansų
-  ministerijos
+Valstybinė mokesčių inspekcija prie
+  Finansų ministerijos
 
 
  
@@ -3756,8 +3774,8 @@ Valstybinė mokesčių inspekcija prie Finansų
 
  
 
-Komisija privalomam registruoti turtui įvertinti
-  prie Finansų ministerijos
+Komisija privalomam registruoti turtui
+  įvertinti prie Finansų ministerijos
 
 
  
@@ -3801,8 +3819,8 @@ Komisija privalomam registruoti turtui įvertinti
 
  
 
-Valstybės dokumentų technologinės apsaugos tarnyba
-  prie Finansų ministerijos
+Valstybės dokumentų technologinės
+  apsaugos tarnyba prie Finansų ministerijos
 
 
  
@@ -3846,7 +3864,8 @@ Valstybės dokumentų technologinės apsaugos tarnyba
 
  
 
-Viešoji įstaiga "Būsto kreditavimo fondas”
+Viešoji įstaiga "Būsto
+  kreditavimo fondas”
 
 
  
@@ -3922,8 +3941,8 @@ Lietuvos prabavimo rūmai
 
  
  
-Kultūros ministerijos reguliavimo
-  sritis
+Kultūros ministerijos
+  reguliavimo sritis
 
 
  
@@ -3959,8 +3978,8 @@ Kultūros ministerijos reguliavimo
 
  
 
-Kultūros ministerijos Kultūros vertybių apsaugos
-  departamentas
+Kultūros ministerijos Kultūros
+  vertybių apsaugos departamentas
 
 
  
@@ -4148,7 +4167,8 @@ Lietuvos dailės muziejus
 
  
 
-Valstybinis M.K.Čiurlionio dailės muziejus
+Valstybinis M.K.Čiurlionio dailės
+  muziejus
 
 
  
@@ -4224,8 +4244,8 @@ Vilniaus pilių direkcija
 
  
 
-Socialinės apsaugos ir darbo
-  ministerijos reguliavimo sritis
+Socialinės apsaugos ir
+  darbo ministerijos reguliavimo sritis
 
 
  
@@ -4261,8 +4281,8 @@ Socialinės apsaugos ir darbo
 
  
 
-Technikos priežiūros tarnyba prie Socialinės
-  apsaugos ir darbo  ministerijos
+Technikos priežiūros tarnyba prie
+  Socialinės apsaugos ir darbo  ministerijos
 
 
  
@@ -4306,8 +4326,8 @@ Technikos priežiūros tarnyba prie Socialinės
 
  
 
-Vaikų teisių apsaugos tarnyba prie Socialinės
-  apsaugos ir darbo ministerijos
+Vaikų teisių apsaugos tarnyba prie
+  Socialinės apsaugos ir darbo ministerijos
 
 
  
@@ -4351,8 +4371,8 @@ Vaikų teisių apsaugos tarnyba prie Socialinės
 
  
 
-Valstybinė darbo inspekcija prie Socialinės
-  apsaugos ir darbo ministerijos
+Valstybinė darbo inspekcija prie
+  Socialinės apsaugos ir darbo ministerijos
 
 
  
@@ -4397,8 +4417,8 @@ Valstybinė darbo inspekcija prie Socialinės
  
 
  
-Susisiekimo ministerijos reguliavimo
-  sritis
+Susisiekimo ministerijos
+  reguliavimo sritis
 
 
  
@@ -4471,7 +4491,8 @@ Lietuvos valstybinė tiltų inspekcija
  
 
  
-Valstybės įmonė Vidaus vandens kelių direkcija
+Valstybės įmonė Vidaus vandens kelių
+  direkcija
 
 
  
@@ -4510,7 +4531,8 @@ Valstybės įmonė Vidaus vandens kelių direkcija
 
  
 
-Valstybinė vidaus vandenų laivybos inspekcija
+Valstybinė vidaus vandenų laivybos
+  inspekcija
 
 
  
@@ -4549,8 +4571,8 @@ Valstybinė vidaus vandenų laivybos inspekcija
 
  
 
-Specialiosios paskirties akcinė bendrovė
-  "Lietuvos geležinkeliai"
+Specialiosios paskirties akcinė
+  bendrovė "Lietuvos geležinkeliai"
 
 
  
@@ -4696,7 +4718,8 @@ Valstybės įmonė Vilniaus aerouostas
 
  
 
-Aviakompanija "Lietuvos avialinijos"
+Aviakompanija "Lietuvos
+  avialinijos"
 
 
 14255
@@ -4732,7 +4755,8 @@ Aviakompanija "Lietuvos avialinijos"
 
  
 
-Valstybės įmonė "Lietuvos paštas"
+Valstybės įmonė "Lietuvos
+  paštas"
 
 
 7773
@@ -4769,8 +4793,8 @@ Valstybės įmonė "Lietuvos paštas"
  
 
  
-Sveikatos apsaugos ministerijos
-  reguliavimo sritis
+Sveikatos apsaugos
+  ministerijos reguliavimo sritis
 
 
  
@@ -4843,7 +4867,8 @@ Valstybinė ligonių kasa
  
 
  
-Ūkio ministerijos reguliavimo sritis
+Ūkio ministerijos
+  reguliavimo sritis
 
 
  
@@ -4879,8 +4904,8 @@ Valstybinė ligonių kasa
 
  
 
-Energetikos valstybinė inspekcija prie Ūkio
-  ministerijos
+Energetikos valstybinė inspekcija prie
+  Ūkio ministerijos
 
 
  
@@ -4958,7 +4983,8 @@ Uždaroji akcinė bendrovė “Geoterma”
 
  
 
-Valstybės įmonė Ignalinos atominė elektrinė
+Valstybės įmonė Ignalinos atominė
+  elektrinė
 
 
  
@@ -5000,8 +5026,8 @@ Valstybės įmonė Ignalinos atominė elektrinė
  
  
  
-Valdymo reformų ir savivaldybių
-  reikalų ministerijos reguliavimo sritis
+Valdymo reformų ir
+  savivaldybių reikalų ministerijos reguliavimo sritis
 
 
  
@@ -5037,8 +5063,8 @@ Valdymo reformų ir savivaldybių
 
  
 
-Lietuvos standartizacijos departamentas prie
-  Valdymo reformų ir savivaldybių reikalų ministerijos
+Lietuvos standartizacijos
+  departamentas prie Valdymo reformų ir savivaldybių reikalų ministerijos
 
 
  
@@ -5167,9 +5193,9 @@ Lietuvos metrologijos inspekcija
 
  
 
-Viešoji įstaiga valstybės ir savivaldybių
-  tarnautojų mokymo centras "Dainava" prie Valdymo reformų ir
-  savivaldybių reikalų ministerijos
+Viešoji įstaiga valstybės ir
+  savivaldybių tarnautojų mokymo centras "Dainava" prie Valdymo
+  reformų ir savivaldybių reikalų ministerijos
 
 
  
@@ -5221,8 +5247,8 @@ Viešoji įstaiga valstybės ir savivaldybių
 
  
 
-Viešoji organizacija "Valstybės tarnautojų
-  tobulinimosi centras"
+Viešoji organizacija "Valstybės
+  tarnautojų tobulinimosi centras"
 
 
  
@@ -5260,8 +5286,8 @@ Viešoji organizacija "Valstybės tarnautojų
 
  
 
-Nacionalinis akreditacijos biuras prie Valdymo
-  reformų ir savivaldybių reikalų ministerijos
+Nacionalinis akreditacijos biuras prie
+  Valdymo reformų ir savivaldybių reikalų ministerijos
 
 
  
@@ -5303,8 +5329,8 @@ Nacionalinis akreditacijos biuras prie Valdymo
 
  
 
-Valstybinis turizmo departamentas prie Valdymo
-  reformų ir savivaldybių reikalų ministerijos
+Valstybinis turizmo departamentas prie
+  Valdymo reformų ir savivaldybių reikalų ministerijos
 
 
  
@@ -5349,8 +5375,8 @@ Valstybinis turizmo departamentas prie Valdymo
 
  
 
-Valstybinė duomenų apsaugos inspekcija prie
-  Valdymo reformų ir savivaldybių reikalų ministerijos
+Valstybinė duomenų apsaugos inspekcija
+  prie Valdymo reformų ir savivaldybių reikalų ministerijos
 
 
  
@@ -5397,8 +5423,8 @@ Valstybinė duomenų apsaugos inspekcija prie
  
  
  
-Vidaus reikalų ministerijos
-  reguliavimo sritis
+Vidaus reikalų
+  ministerijos reguliavimo sritis
 
 
  
@@ -5434,9 +5460,9 @@ Vidaus reikalų ministerijos
 
  
 
-Lietuvos Respublikos Prezidento, Seimo Pirmininko,
-  Ministro Pirmininko ir oficialių svečių apsaugos departamentas prie Vidaus
-  reikalų ministerijos
+Lietuvos Respublikos Prezidento, Seimo
+  Pirmininko, Ministro Pirmininko ir oficialių svečių apsaugos departamentas
+  prie Vidaus reikalų ministerijos
 
 
  
@@ -5488,8 +5514,8 @@ Lietuvos Respublikos Prezidento, Seimo Pirmininko,
 
  
 
-Priešgaisrinės apsaugos departamentas prie Vidaus
-  reikalų ministerijos
+Priešgaisrinės apsaugos departamentas
+  prie Vidaus reikalų ministerijos
 
 
  
@@ -5533,8 +5559,8 @@ Priešgaisrinės apsaugos departamentas prie Vidaus
 
  
 
-Pasienio policijos departamentas prie Vidaus reikalų
-  ministerijos
+Pasienio policijos departamentas prie
+  Vidaus reikalų ministerijos
 
 
  
@@ -5574,8 +5600,8 @@ Pasienio policijos departamentas prie Vidaus reikalų
 
  
 
-Pataisos reikalų departamentas prie Vidaus reikalų
-  ministerijos
+Pataisos reikalų departamentas prie
+  Vidaus reikalų ministerijos
 
 
  
@@ -5615,8 +5641,8 @@ Pataisos reikalų departamentas prie Vidaus reikalų
 
  
 
-Specialiųjų tyrimų tarnyba prie Vidaus reikalų
-  ministerijos
+Specialiųjų tyrimų tarnyba prie Vidaus
+  reikalų ministerijos
 
 
  
@@ -5655,8 +5681,8 @@ Specialiųjų tyrimų tarnyba prie Vidaus reikalų
 
  
 
-Mokesčių policijos departamentas prie Vidaus
-  reikalų ministerijos
+Mokesčių policijos departamentas prie
+  Vidaus reikalų ministerijos
 
 
  
@@ -5695,8 +5721,8 @@ Mokesčių policijos departamentas prie Vidaus
 
  
 
-Policijos departamentas prie Vidaus reikalų
-  ministerijos
+Policijos departamentas prie Vidaus
+  reikalų ministerijos
 
 
  
@@ -5736,8 +5762,8 @@ Policijos departamentas prie Vidaus reikalų
 
  
 
-Žemės ūkio ministerijos reguliavimo
-  sritis
+Žemės ūkio ministerijos
+  reguliavimo sritis
 
 
  
@@ -5773,8 +5799,8 @@ Policijos departamentas prie Vidaus reikalų
 
  
 
-Žemėtvarkos ir teisės departamentas prie Žemės
-  ūkio ministerijos
+Žemėtvarkos ir teisės departamentas
+  prie Žemės ūkio ministerijos
 
 
  
@@ -5890,8 +5916,8 @@ Valstybės įmonė “Pieno tyrimai”
 
  
 
-Kompleksinio kokybės bandymo centras UAB
-  “Labtarna”
+Kompleksinio kokybės bandymo centras
+  UAB “Labtarna”
 
 
  
@@ -5929,7 +5955,8 @@ Kompleksinio kokybės bandymo centras UAB
 
  
 
-V. Teisėsaugos institucijos
+V. Teisėsaugos
+  institucijos
 
 
  
@@ -6077,7 +6104,8 @@ Teismai (Teisingumo ministerija)
 
  
 
-Hipotekos įstaigos (Teisingumo ministerija)
+Hipotekos įstaigos (Teisingumo
+  ministerija)
 
 
  
@@ -6117,8 +6145,8 @@ Hipotekos įstaigos (Teisingumo ministerija)
 
  
 
-Teismai (Teismų departamentas prie Teisingumo
-  ministerijos)
+Teismai (Teismų departamentas prie
+  Teisingumo ministerijos)
 
 
  
@@ -6158,8 +6186,8 @@ Teismai (Teismų departamentas prie Teisingumo
 
  
 
-VI. Švietimo, kultūros ir kitos
-  įstaigos bei organizacijos
+VI. Švietimo, kultūros ir
+  kitos įstaigos bei organizacijos
 
 
  
@@ -6267,7 +6295,8 @@ Lietuvos medicinos biblioteka
 
  
 
-Spaudos, radijo ir televizijos rėmimo fondas
+Spaudos, radijo ir televizijos rėmimo
+  fondas
 
 
  
@@ -6379,8 +6408,8 @@ Valstybinė privatizavimo agentūra
 
  
 
-Lietuvos smulkaus ir vidutinio verslo plėtros
-  agentūra
+Lietuvos smulkaus ir vidutinio verslo
+  plėtros agentūra
 
 
  
@@ -6419,8 +6448,8 @@ Lietuvos smulkaus ir vidutinio verslo plėtros
 
  
 
-Lietuvos gyventojų genocido ir rezistencijos
-  tyrimo centras
+Lietuvos gyventojų genocido ir
+  rezistencijos tyrimo centras
 
 
  
@@ -6460,8 +6489,8 @@ Lietuvos gyventojų genocido ir rezistencijos
 
  
 
-Lietuvos gyventojų genocido ir rezistencijos
-  tyrimo, aukų rėmimo ir įamžinimo fondas
+Lietuvos gyventojų genocido ir
+  rezistencijos tyrimo, aukų rėmimo ir įamžinimo fondas
 
 
  
@@ -6506,7 +6535,8 @@ Lietuvos gyventojų genocido ir rezistencijos
  
 
  
-Lietuvos nacionalinis radijas ir televizija
+Lietuvos nacionalinis radijas ir
+  televizija
 
 
  
@@ -6527,7 +6557,7 @@ Lietuvos nacionalinis radijas ir televizija
 
  
 
-iš jų: Lietuvos nacionalinė radijo ir
+Iš jų: Lietuvos nacionalinė radijo ir
 
 
  
@@ -6545,7 +6575,7 @@ iš jų: Lietuvos nacionalinė radijo ir
 
  
 
-         televizijos taryba
+         Televizijos taryba
 
 
 141
@@ -6617,7 +6647,8 @@ Valstybinis patentų biuras
 
  
 
-Valstybės įmonė poilsio namai "Baltija"
+Valstybės įmonė poilsio namai
+  "Baltija"
 
 
  
@@ -6657,7 +6688,8 @@ Valstybės įmonė poilsio namai "Baltija"
 
  
 
-Valstybės įmonė sanatorija "Lietuva"
+Valstybės įmonė sanatorija
+  "Lietuva"
 
 
 118
@@ -6729,8 +6761,8 @@ Valstybės įmonė "Greminta"
 
  
 
-Lietuvos Respublikos Vyriausybės kanceliarijos
-  Specialiosios paskirties akcinė komunalinių paslaugų bendrovė
+Lietuvos Respublikos Vyriausybės
+  kanceliarijos Specialiosios paskirties akcinė komunalinių paslaugų bendrovė
 
 
  
@@ -6773,8 +6805,8 @@ Lietuvos Respublikos Vyriausybės kanceliarijos
 
  
 
-Lietuvos tūkstantmečio minėjimo direkcija prie
-  Lietuvos Respublikos Prezidento kanceliarijos
+Lietuvos tūkstantmečio minėjimo
+  direkcija prie Lietuvos Respublikos Prezidento kanceliarijos
 
 
  
@@ -6854,7 +6886,8 @@ Mokslininkų rūmai
 
  
 
-Lietuvių grįžimo į Tėvynę informacijos centras
+Lietuvių grįžimo į Tėvynę informacijos
+  centras
 
 
  
@@ -6894,8 +6927,8 @@ Lietuvių grįžimo į Tėvynę informacijos centras
 
  
 
-Specialiosios paskirties akcinė bendrovė
-  “Autoūkis”
+Specialiosios paskirties akcinė
+  bendrovė “Autoūkis”
 
 
  
@@ -7005,7 +7038,7 @@ Mokslas ir studijos
 
  
 
-iš jų: kunigų seminarijos
+Iš jų: kunigų seminarijos
 
 
 1523
@@ -7083,8 +7116,8 @@ Lietuvos vartotojų kooperatyvų sąjunga
  
 
  
-Vilniaus apskrities visuomeninio judėjimo “Stabdyk
-  nusikalstamumą” koordinacinis štabas
+Vilniaus apskrities visuomeninio
+  judėjimo “Stabdyk nusikalstamumą” koordinacinis štabas
 
 
  
@@ -7126,8 +7159,8 @@ Vilniaus apskrities visuomeninio judėjimo “Stabdyk
 
  
 
-Lietuvos invalidų reikalų taryba prie Lietuvos
-  Respublikos Vyriausybės
+Lietuvos invalidų reikalų taryba prie
+  Lietuvos Respublikos Vyriausybės
 
 
  
@@ -7239,8 +7272,8 @@ Lietuvos raudonojo kryžiaus draugija
 
  
 
-Tradicinių religinių bendrijų maldos namams
-  atstatyti ir kitoms reikmėms
+Tradicinių religinių bendrijų maldos
+  namams atstatyti ir kitoms reikmėms
 
 
  
@@ -7279,7 +7312,8 @@ Tradicinių religinių bendrijų maldos namams
 
  
 
-Marijampolės krikščioniškosios kultūros centras
+Marijampolės krikščioniškosios
+  kultūros centras
 
 
  
@@ -7319,49 +7353,50 @@ Marijampolės krikščioniškosios kultūros centras
 
  
 
-Lietuvos invalidų draugijos centro taryba
-
-
- 
-435
-
-
- 
-
-
- 
-
-
- 
-435
-
-
-
- 
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
- 
-
-Lietuvos aklųjų ir silpnaregių sąjungos centro
+Lietuvos invalidų draugijos centro
   taryba
 
 
  
+435
+
+
+ 
+
+
+ 
+
+
+ 
+435
+
+
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+Lietuvos aklųjų ir silpnaregių
+  sąjungos centro taryba
+
+
+ 
 50
 
 
@@ -7396,7 +7431,8 @@ Lietuvos aklųjų ir silpnaregių sąjungos centro
 
  
 
-Nusikalstamumo prevencijos Lietuvoje centras
+Nusikalstamumo prevencijos Lietuvoje
+  centras
 
 
  
@@ -7434,8 +7470,9 @@ Nusikalstamumo prevencijos Lietuvoje centras
 
  
 
-Gyventojams taikomų padidėjusių šiluminės ir
-  elektros energijos kainų dalinis kompensavimas (Finansų ministerija)
+Gyventojams taikomų padidėjusių
+  šiluminės ir elektros energijos kainų dalinis kompensavimas (Finansų
+  ministerija)
 
 
  
@@ -7477,8 +7514,8 @@ Gyventojams taikomų padidėjusių šiluminės ir
 
  
 
-Bendrasis paramos gyvenamiesiems namams, butams
-  statyti arba pirkti fondas
+Bendrasis paramos gyvenamiesiems
+  namams, butams statyti arba pirkti fondas
 
 
  
@@ -7518,8 +7555,8 @@ Bendrasis paramos gyvenamiesiems namams, butams
 
  
 
-Išmokos žalai atlyginti, kai ši prievolė pereina
-  valstybei (Finansų ministerija)
+Išmokos žalai atlyginti, kai ši
+  prievolė pereina valstybei (Finansų ministerija)
 
 
  
@@ -7560,8 +7597,8 @@ Išmokos žalai atlyginti, kai ši prievolė pereina
  
 
  
-Kompensacijos asmenims, patyrusiems žalą
-  likviduojant Černobylio atominės elektrinės avarijos padarinius (Finansų
+Kompensacijos asmenims, patyrusiems
+  žalą likviduojant Černobylio atominės elektrinės avarijos padarinius (Finansų
   ministerija)
 
 
@@ -7606,9 +7643,9 @@ Kompensacijos asmenims, patyrusiems žalą
 
  
 
-Vienkartinės kompensacijos žuvusiųjų šeimoms ir
-  nukentėjusiems nuo 1991 m. sausio 11-13 dienomis  įvykdytos agresijos ir
-  vėlesnių įvykių (Krašto  apsaugos ministerija)
+Vienkartinės kompensacijos žuvusiųjų
+  šeimoms ir nukentėjusiems nuo 1991 m. Sausio 11-13 dienomis  įvykdytos
+  agresijos ir vėlesnių įvykių (Krašto  apsaugos ministerija)
 
 
  
@@ -7652,8 +7689,8 @@ Vienkartinės kompensacijos žuvusiųjų šeimoms ir
 
  
 
-Valstybės parama pasipriešinimo 1940-1990 metų
-  okupacijų dalyviams (Krašto apsaugos ministerija)
+Valstybės parama pasipriešinimo
+  1940-1990 metų okupacijų dalyviams (Krašto apsaugos ministerija)
 
 
  
@@ -7734,7 +7771,8 @@ Specialusis fondas veikiančioms ir
 
  
 
-Indėlių draudimo fondas (Finansų ministerija)
+Indėlių draudimo fondas (Finansų
+  ministerija)
 
 
  
@@ -7772,8 +7810,8 @@ Indėlių draudimo fondas (Finansų ministerija)
 
  
 
-Lėšos darbo užmokesčiui, pensijoms, stipendijoms
-  ir pašalpoms indeksuoti (Finansų ministerija)
+Lėšos darbo užmokesčiui, pensijoms,
+  stipendijoms ir pašalpoms indeksuoti (Finansų ministerija)
 
 
  
@@ -7831,7 +7869,8 @@ Vyriausybės rezervo fondas
 
  
 
-iš jų: apskričių viršininkų administracijoms
+Iš jų: apskričių viršininkų
+  administracijoms
 
 
  
@@ -7869,8 +7908,8 @@ iš jų: apskričių viršininkų administracijoms
 
  
 
-Išlaidos, susijusios su vidaus ir užsienio skola
-  (Finansų ministerija)
+Išlaidos, susijusios su vidaus ir
+  užsienio skola (Finansų ministerija)
 
 
  
@@ -7908,8 +7947,8 @@ Išlaidos, susijusios su vidaus ir užsienio skola
 
  
 
-Palūkanos už Vyriausybės išleistus vertybinius
-  popierius ir užsienio paskolas (Finansų ministerija)
+Palūkanos už Vyriausybės išleistus
+  vertybinius popierius ir užsienio paskolas (Finansų ministerija)
 
 
  
@@ -8140,7 +8179,8 @@ Paskolos, atėmus grąžinamas lėšas
 
 
  
-Priedėlio pakeitimai:
+Priedėlio
+pakeitimai:
 Nr. VIII-752, 98.05.21,
 Žin., 1998, Nr.53-1449 (98.06.10)
 Nr. VIII-944, 98.12.01,
@@ -8150,21 +8190,18 @@ Nr. VIII-944, 98.12.01,
  
 
 
-                                              Lietuvos
+                                                                                            Lietuvos
 Respublikos 
-                                              1997
-m. gruodžio 2 d.
-                                              įstatymo
+                                                                                            1997
+m. Gruodžio 2 d.
+                                                                                            Įstatymo
 Nr.VIII-547
-                                              2
+                                                                                            2
 priedėlis
  
-SOCIALINĖS
-EKONOMINĖS PROGRAMOS, FINANSUOJAMOS IŠ
-1
-PRIEDĖLYJE PATVIRTINTŲ ASIGNAVIMŲ
-tūkst.
-Lt
+SOCIALINĖS EKONOMINĖS PROGRAMOS, FINANSUOJAMOS IŠ
+1 PRIEDĖLYJE PATVIRTINTŲ ASIGNAVIMŲ
+Tūkst. Lt
 
 
 
@@ -8183,7 +8220,7 @@ Iš jų
 
 
 
-valstybinių tarnybų ir organizacijų-asignavimų
+Valstybinių tarnybų ir organizacijų-asignavimų
 
 
 Socialinės ekonominės programos
@@ -8192,31 +8229,31 @@ Socialinės ekonominės programos
 Iš viso
 
 
-paprastosios išlaidos
+Paprastosios išlaidos
 
 
-nepa-prasto-
-
- 
-
-
-
-valdytojų pavadinimas
-
-
-pavadinimas
-
+Nepa-prasto-
 
  
 
 
-iš  viso
+
+Valdytojų pavadinimas
 
 
-iš jų darbo užmo-kestis
+Pavadinimas
 
 
-sios išlaidos
+ 
+
+
+Iš  viso
+
+
+Iš jų darbo užmo-kestis
+
+
+Sios išlaidos
 
  
 
@@ -8554,7 +8591,7 @@ Martyno Mažvydo pirmosios lietuviškos knygos 450 metų
 
 
 2 priedėlio tęsinys
-tūkst. Lt
+Tūkst. Lt
 
  
 
@@ -8575,7 +8612,7 @@ Iš jų
 
 
 
-valstybinių tarnybų ir organizacijų-asignavimų
+Valstybinių tarnybų ir organizacijų-asignavimų
 
 
 Socialinės ekonominės programos
@@ -8584,31 +8621,31 @@ Socialinės ekonominės programos
 Iš viso
 
 
-paprastosios išlaidos
+Paprastosios išlaidos
 
 
-nepa-prasto-
-
- 
-
-
-
-valdytojų pavadinimas
-
-
-pavadinimas
-
+Nepa-prasto-
 
  
 
 
-iš  viso
+
+Valdytojų pavadinimas
 
 
-iš jų darbo užmo-kestis
+Pavadinimas
 
 
-sios išlaidos
+ 
+
+
+Iš  viso
+
+
+Iš jų darbo užmo-kestis
+
+
+Sios išlaidos
 
  
 
@@ -9047,7 +9084,7 @@ Nacionalinė kokybės programa
 
 
 2 priedėlio tęsinys
-tūkst. Lt
+Tūkst. Lt
 
  
 
@@ -9068,7 +9105,7 @@ Iš jų
 
 
 
-valstybinių tarnybų ir organizacijų-asignavimų
+Valstybinių tarnybų ir organizacijų-asignavimų
 
 
 Socialinės ekonominės programos
@@ -9077,31 +9114,31 @@ Socialinės ekonominės programos
 Iš viso
 
 
-paprastosios išlaidos
+Paprastosios išlaidos
 
 
-nepa-prasto-
-
- 
-
-
-
-valdytojų pavadinimas
-
-
-pavadinimas
-
+Nepa-prasto-
 
  
 
 
-iš  viso
+
+Valdytojų pavadinimas
 
 
-iš jų darbo užmo-kestis
+Pavadinimas
 
 
-sios išlaidos
+ 
+
+
+Iš  viso
+
+
+Iš jų darbo užmo-kestis
+
+
+Sios išlaidos
 
  
 
@@ -9519,7 +9556,7 @@ Teritorinio planavimo darbai
 
 
 Kultūros ministerijos Kultūros
-vertybių apsaugos departamentas
+Vertybių apsaugos departamentas
 
 
 Nekilnojamųjų kultūros vertybių tvarkymo darbų programa
@@ -9553,7 +9590,7 @@ Nekilnojamųjų kultūros vertybių tvarkymo darbų programa
 
 
 2 priedėlio tęsinys
-tūkst. Lt
+Tūkst. Lt
 
 
  
@@ -9594,7 +9631,7 @@ Iš jų
 
 
 
-valstybinių tarnybų ir organizacijų-asignavimų
+Valstybinių tarnybų ir organizacijų-asignavimų
 
 
 Socialinės ekonominės programos
@@ -9603,34 +9640,34 @@ Socialinės ekonominės programos
 Iš viso
 
 
-paprastosios išlaidos
+Paprastosios išlaidos
 
 
-nepa-prasto-
-
-
- 
-
- 
-
-
-
-valdytojų pavadinimas
-
-
-pavadinimas
+Nepa-prasto-
 
 
  
 
-
-iš  viso
-
-
-iš jų darbo užmo-kestis
+ 
 
 
-sios išlaidos
+
+Valdytojų pavadinimas
+
+
+Pavadinimas
+
+
+ 
+
+
+Iš  viso
+
+
+Iš jų darbo užmo-kestis
+
+
+Sios išlaidos
 
  
 
@@ -9643,7 +9680,7 @@ sios išlaidos
 
 
 Regioninių problemų ir tautinių
-mažumų departamentas prie Lietuvos Respublikos Vyriausybės
+Mažumų departamentas prie Lietuvos Respublikos Vyriausybės
 
 
 Užsienio lietuvių bendruomenių  kultūros ir švietimo rėmimo
@@ -9950,7 +9987,7 @@ Lietuvos etalonų rengimo programa
 
 
 2 priedėlio tęsinys
-tūkst. Lt
+Tūkst. Lt
 
 
  
@@ -9991,7 +10028,7 @@ Iš jų
 
 
 
-valstybinių tarnybų ir organizacijų-asignavimų
+Valstybinių tarnybų ir organizacijų-asignavimų
 
 
 Socialinės ekonominės programos
@@ -10000,34 +10037,34 @@ Socialinės ekonominės programos
 Iš viso
 
 
-paprastosios išlaidos
+Paprastosios išlaidos
 
 
-nepa-prasto-
-
-
- 
-
- 
-
-
-
-valdytojų pavadinimas
-
-
-pavadinimas
+Nepa-prasto-
 
 
  
 
-
-iš  viso
-
-
-iš jų darbo užmo-kestis
+ 
 
 
-sios išlaidos
+
+Valdytojų pavadinimas
+
+
+Pavadinimas
+
+
+ 
+
+
+Iš  viso
+
+
+Iš jų darbo užmo-kestis
+
+
+Sios išlaidos
 
  
 
@@ -10040,7 +10077,7 @@ sios išlaidos
 
 
 Lietuvos ekonominės plėtros 
-agentūra
+Agentūra
 
 
 Investicijų skatinimo, eksporto plėtojimo ir kitos programos
@@ -10339,22 +10376,23 @@ Programa “Būstas” (pastatų šiltinimas)
 
 
  
-Priedėlio pakeitimai:
-Nr. VIII-944, 98.12.01,
-Žin., 1998, Nr.111 (98.12.18)
+Priedėlio
+pakeitimai:
+Nr. VIII-944, 1998.12.01,
+Žin., 1998, Nr.111 (1998.12.18)
  
-                                              Lietuvos
+                                                                                            Lietuvos
 Respublikos 
-                                              1997
-m. gruodžio 2 d.
-                                              įstatymo
+                                                                                            1997
+m. Gruodžio 2 d.
+                                                                                            Įstatymo
 Nr.VIII-547
-                                              3
+                                                                                            3
 priedėlis
  
 Lietuvos Respublikos 1998 metų valstybės 
 biudžeto išlaidos
-tūkst.
+Tūkst.
 Lt
 
 
@@ -10376,27 +10414,27 @@ Pavadinimas
 Iš viso
 
 
-paprastosios išlaidos
+Paprastosios išlaidos
 
 
-nepaprastosios
+Nepaprastosios
 
 
-
-
- 
 
 
  
 
 
-iš viso
+ 
 
 
-iš jų darbo užmokestis
+Iš viso
 
 
-išlaidos
+Iš jų darbo užmokestis
+
+
+Išlaidos
 
 
 
@@ -10528,7 +10566,8 @@ Butų ir komunalinis ūkis
 
 
 
-Sveikatingumas (sportas), rekreacija, kultūra
+Sveikatingumas (sportas), rekreacija,
+  kultūra
 
 
  
@@ -10570,8 +10609,8 @@ Kuro ir energijos tiekimo paslaugos
 
 
 
-Žemės ūkis, miškininkystė, žuvininkystė ir
-  veterinarija
+Žemės ūkis, miškininkystė,
+  žuvininkystė ir veterinarija
 
 
  
@@ -10592,8 +10631,8 @@ Kuro ir energijos tiekimo paslaugos
 
 
 
-Mineralinių išteklių gavyba (išskyrus kurą),
-  pramonė ir statyba
+Mineralinių išteklių gavyba (išskyrus
+  kurą), pramonė ir statyba
 
 
  
@@ -10648,8 +10687,8 @@ Kita ekonominė veikla
 
 
 
-Išlaidos, nepriskirtos pagrindinių funkcijų
-  grupėms
+Išlaidos, nepriskirtos pagrindinių
+  funkcijų grupėms
 
 
  
@@ -10704,13 +10743,13 @@ IŠ VISO
 
 
  
-                                              Lietuvos
+                                                                                            Lietuvos
 Respublikos 
-                                              1997
-m. gruodžio 2 d.
-                                              įstatymo
+                                                                                            1997
+m. Gruodžio 2 d.
+                                                                                            Įstatymo
 Nr.VIII-547
-                                              4
+                                                                                            4
 priedėlis
  
 SAVIVALDYBIŲ
@@ -10727,7 +10766,7 @@ Savivaldybės
 
 Fizinių
   asmenų
-pajamų
+Pajamų
   mokesčio
 
 
@@ -10737,16 +10776,16 @@ Valstybės
 
 
 
-pavadinimas
+Pavadinimas
 
 
-dalis
+Dalis
 
 
-mokestinėms
+Mokestinėms
 
 
-išlaidų
+Išlaidų
   struktū-
 
 
@@ -10758,10 +10797,10 @@ išlaidų
 (proc.)
 
 
-pajamoms
+Pajamoms
 
 
-ros
+Ros
   skirtumams
 
 
@@ -10773,10 +10812,10 @@ ros
  
 
 
-išlyginti
+Išlyginti
 
 
-išlyginti
+Išlyginti
 
 
 
@@ -11187,7 +11226,7 @@ Savivaldybės
 
 Fizinių
   asmenų
-pajamų
+Pajamų
   mokesčio
 
 
@@ -11197,16 +11236,16 @@ Valstybės
 
 
 
-pavadinimas
+Pavadinimas
 
 
-dalis
+Dalis
 
 
-mokestinėms
+Mokestinėms
 
 
-išlaidų
+Išlaidų
   struktū-
 
 
@@ -11218,10 +11257,10 @@ išlaidų
 (proc.)
 
 
-pajamoms
+Pajamoms
 
 
-ros
+Ros
   skirtumams
 
 
@@ -11233,10 +11272,10 @@ ros
  
 
 
-išlyginti
+Išlyginti
 
 
-išlyginti
+Išlyginti
 
 
 
@@ -11680,13 +11719,13 @@ Iš viso
 
 
  
-                                                    Lietuvos
+                                                                                                        Lietuvos
 Respublikos 
-                                          1997
-m. gruodžio 2 d.
-                                                    įstatymo
+                                                                                   1997
+m. Gruodžio 2 d.
+                                                                                                        Įstatymo
 Nr.VIII-547
-                                                    5
+                                                                                                        5
 priedėlis
  
  
@@ -11696,7 +11735,7 @@ BIUDŽETO SPECIALI DOTACIJA SAVIVALDYBĖMS
 
 
 
-tūkst.
+Tūkst.
   Lt
 
 
@@ -11727,7 +11766,7 @@ Savivaldybių
 
 
 Vilniaus
-  m. senamies-čiui tvarkyti
+  m. Senamies-čiui tvarkyti
 
 
 
@@ -12405,7 +12444,7 @@ Kupiškio
 
 
 
-tūkst.
+Tūkst.
   Lt
 
 
@@ -12423,8 +12462,8 @@ Gamto-saugos objektams
 
 
 Asignavimams,
- susijusiems su savininkams grąžintais ir grąžintinais
-  gyvenamaisiais namais
+ Susijusiems su savininkams grąžintais ir
+  grąžintinais gyvenamaisiais namais
 
 
 Savivaldybių
@@ -12436,7 +12475,7 @@ Savivaldybių
 
 
 Vilniaus
-  m. senamies-čiui tvarkyti
+  m. Senamies-čiui tvarkyti
 
 
 
@@ -13177,20 +13216,24 @@ Iš viso
 
 
  
-                                                    Lietuvos
+
+
+ 
+                                                                                                        Lietuvos
 Respublikos
-                                                    1997
-m. gruodžio 2 d.
-                                                    įstatymo
+                                                                                                        1997
+m. Gruodžio 2 d.
+                                                                                                        Įstatymo
 Nr.VIII-547 
-                                                                                                       
-                                                              6 priedėlis
-Savivaldybių biudžetų ir
-valstybės biudžeto mokestinių
-pajamų išlyginimo rezervo
-lėšų paskirstymas savivaldybių 
-biudžetų 1997 metais
-negautoms pajamoms padengti
+                                                                                                        6
+priedėlis
+ 
+Savivaldybių
+biudžetų ir valstybės biudžeto mokestinių
+Pajamų
+išlyginimo rezervo lėšų paskirstymas savivaldybių 
+Biudžetų 1997
+metais negautoms pajamoms padengti
  
 
 
@@ -13199,7 +13242,8 @@ Savivaldybės pavadinimas
 
 
 Suma
-tūkst. Lt
+Tūkst.
+  Lt
 
 
 
@@ -13261,8 +13305,8 @@ Anykščių
 
 
  
-6 priedėlio
-  tęsinys
+6
+  priedėlio tęsinys
  
 
 
@@ -13272,7 +13316,8 @@ Savivaldybės pavadinimas
 
 
 Suma
-tūkst. Lt
+Tūkst.
+  Lt
 
 
 
@@ -13341,7 +13386,8 @@ Utenos
 
 
 
-Iš viso
+Iš
+  viso
 
 
 12270
@@ -13349,7 +13395,57 @@ Iš viso
 
 
  
-Įstatymas papildytas
-priedėliu:
-Nr. VIII-752, 98.05.21,
-Žin., 1998, Nr.53-1449 (98.06.10)
+Įstatymas
+papildytas priedėliu:
+Nr. VIII-752, 1998.05.21,
+Žin., 1998, Nr. 53-1449 (1998.06.10)
+ 
+______________
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. VIII-752,
+1998.05.21, Žin., 1998, Nr. 53-1449 (1998.06.10)
+LIETUVOS
+RESPUBLIKOS 1998 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ
+RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. VIII-944,
+1998.12.01, Žin., 1998, Nr. 111-3059 (1998.12.18)
+LIETUVOS
+RESPUBLIKOS 1998 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ
+RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+*** Pabaiga ***
+ 
+LIETUVOS RESPUBLIKOS KONSTITUCINIO
+TEISMO NUTARIMAI:
+ 
+1.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+1999.07.09,
+Žin., 1999, Nr.61-2015 (1999.07.14)
+DĖL LIETUVOS
+RESPUBLIKOS 1998 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ
+RODIKLIŲ PATVIRTINIMO ĮSTATYMO 10 STRAIPSNIO 4 PUNKTO, LIETUVOS RESPUBLIKOS
+VYRIAUSYBĖS 1998 M. SAUSIO 27 D. NUTARIMO NR. 105 “DĖL LIETUVOS
+STANDARTIZACIJOS DEPARTAMENTO PRIE VALDYMO REFORMŲ IR SAVIVALDYBIŲ REIKALŲ
+MINISTERIJOS REORGANIZAVIMO” 2 PUNKTO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1998 M.
+SAUSIO 30 D. NUTARIMO NR. 117 “DĖL LIETUVOS ZOOLOGIJOS SODO STEIGĖJO TEISIŲ
+PERDAVIMO” 2 PUNKTO IR LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1998 M. KOVO 30 D.
+NUTARIMO NR. 366 “DĖL KAI KURIŲ ŽEMĖS IR MIŠKŲ ŪKIO MINISTERIJOS FUNKCIJŲ
+PERDAVIMO APLINKOS APSAUGOS MINISTERIJAI IR MIŠKŲ IR SAUGOMŲ TERITORIJŲ
+DEPARTAMENTO PRIE APLINKOS APSAUGOS MINISTERIJOS ĮSTEIGIMO” 3 PUNKTO ATITIKIMO
+LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+*** Pabaiga ***
+ 
+Redagavo Ramunė Lūžaitė
+(1999.08.09)
