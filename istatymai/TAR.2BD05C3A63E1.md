@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2BD05C3A63E1"
 
 # Laikinosios atsiskaitymų tvarkos ir sąlygų įstatymas
 
-Suvestinė redakcija nuo 1997-07-16 iki 1998-12-30
+Suvestinė redakcija nuo 1998-12-31 iki 1999-04-22
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 31-711, i. k. 0931010ISTA000I-218
  
@@ -71,7 +71,10 @@ Vilnius
 
 5 straipsnis. Įstatymo galiojimas
 
-Įstatymas galioja iki 1998 m. gruodžio 31 d.
+Įstatymas galioja iki kito įstatymo, reglamentuojančio žemės ūkio produkcijos supirkimą bei atsiskaitymą už supirktą žemės ūkio produkciją, įsigaliojimo, bet ne ilgiau kaip iki 1999 m. liepos 1 d.
+
+Straipsnio pakeitimai:
+Nr. VIII-992, 1998-12-21, Žin., 1998, Nr. 115-3244 (1998-12-31), i. k. 0981010ISTAVIII-992
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -113,4 +116,9 @@ Lietuvos Respublikos įstatymo "Dėl laikinosios atsiskaitymų tvarkos ir sąlyg
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-383, 1997-07-02, Žin., 1997, Nr. 67-1664 (1997-07-16), i. k. 0971010ISTAVIII-383
 Lietuvos Respublikos įstatymo "Dėl laikinosios atsiskaitymų tvarkos ir sąlygų" pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-992, 1998-12-21, Žin., 1998, Nr. 115-3244 (1998-12-31), i. k. 0981010ISTAVIII-992
+Lietuvos Respublikos laikinosios atsiskaitymų tvarkos ir sąlygų įstatymo 5 straipsnio pakeitimo įstatymas
 
