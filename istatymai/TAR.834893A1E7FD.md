@@ -13,17 +13,25 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.834893A1E7FD"
 
 # Lietuvos Respublikos antidempingo įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2002-03-31
+Įstatymas netenka galios 2004-05-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2146, 2004-04-20, Žin., 2004, Nr. 63-2248 (2004-04-28), i. k. 1041010ISTA0IX-2146
+Lietuvos Respublikos muitų tarifų įstatymo, Antidempingo įstatymo, Protekcinių (apsaugos) priemonių įstatymo, Kompensacinių muitų įstatymo ir juos keitusių įstatymų pripažinimo netekusiais galios įstatymas
+ 
+Suvestinė redakcija nuo 2002-04-01 iki 2004-04-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 62-1776, i. k. 0981010ISTAVIII-807
  
+Nauja redakcija nuo 2002-04-01:
+Nr. IX-663, 2001-12-17, Žin. 2001, Nr. 112-4082 (2001-12-30), i. k. 1011010ISTA00IX-663
  
-LIETUVOS RESPUBLIKOS
-ANTIDEMPINGO
+LIETUVOS RESPUBLIKOS 
+ANTIDEMPINGO 
 Į S T A T Y M A S
  
 1998 m. birželio 23 d. Nr. VIII-807
 Vilnius
+ 
  
 
 PIRMASIS SKIRSNIS
@@ -32,612 +40,877 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šio įstatymo paskirtis – sudaryti teisines sąlygas ginti Lietuvos gamintojus nuo prekių importo dempingo kainomis.
+Šio Įstatymo paskirtis – sudaryti teisines sąlygas ginti vietinius gamintojus, jei atlikus tyrimą (pagal šio Įstatymo nuostatas) nustatyta, kad importuojant prekes į Lietuvos Respublikos muitų teritoriją yra dempingas, dėl kurio vietiniai gamintojai patiria žalą.
  
 
-2 straipsnis. Įstatyme vartojamos pagrindinės sąvokos
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-1. Dempingas – prekės pardavimas Lietuvos rinkoje už kainą, mažesnę nei panašios prekės kaina eksportuojančios šalies rinkoje.
+1. Dempingas – svarstomos prekės pardavimas iš eksportuojančios šalies į Lietuvos Respublikos muitų teritoriją kaina, mažesne už tos prekės normaliąją vertę (palyginamąją kainą).
 
-2. Prekė dempingo kaina – prekė, kurios eksporto į Lietuvos Respublikos muitų teritoriją kaina yra mažesnė nei panašios prekės normalioji vertė.
+2. Svarstoma prekė – prekė, įtariama importuojama į Lietuvos Respublikos muitų teritoriją dempingo kaina.
 
-3. Lietuvos Respublikos muitų teritorija – Lietuvos Respublikos teritorija, kurią riboja Lietuvos Respublikos muitų siena, išskyrus atvejus, kai Lietuvos Respublikos tarptautinės sutartys numato ką kita.
+3. Dempingo kaina – svarstomos prekės pardavimo iš eksportuojančios šalies į Lietuvos Respublikos muitų teritoriją kaina, mažesnė už svarstomos prekės normaliąją vertę (palyginamąją kainą).
 
-4. Lietuvos Respublikos muitų siena – Lietuvos Respublikos muitų teritorijos riba, sutampanti su Lietuvos Respublikos valstybės siena, išskyrus atvejus, kai Lietuvos Respublikos tarptautinės sutartys numato ką kita.
+4. Lietuvos Respublikos muitų teritorija – Lietuvos Respublikos teritorija, kurią riboja Lietuvos Respublikos muitų siena, išskyrus atvejus, kai Lietuvos Respublikos tarptautinės sutartys numato ką kita. Taikant šį Įstatymą, prekės, esančios laisvojoje ekonominėje zonoje, yra laikomos esančiomis už Lietuvos Respublikos muitų teritorijos ribų.
 
-5. Panaši prekė – identiška prekė arba prekė, visais atžvilgiais panaši į svarstomą prekę, eksportuojamą į Lietuvos Respublikos muitų teritoriją. Jeigu identiškos prekės nėra, – kita prekė, kuri pasižymi panašiomis charakteristikomis.
+5. Lietuvos Respublikos muitų siena – Lietuvos Respublikos muitų teritorijos riba, sutampanti su Lietuvos Respublikos valstybės siena, išskyrus atvejus, kai Lietuvos Respublikos tarptautinės sutartys nustato ką kita.
 
-6. Normalioji vertė – panašios prekės vertė (pagal kurią nustatomas dempingas), apskaičiuota pagal įprastomis prekybos sąlygomis eksportuojančioje šalyje nepriklausomų vartotojų sumokėtą ar priklausančią sumokėti kainą. Jeigu panaši prekė negaminama eksportuojančioje šalyje arba gaminama tik eksportui, normalioji vertė gali būti nustatoma pagal prekių, kurios eksportuojamos į trečiąsias šalis, eksporto kainas arba prie gamybos sąnaudų prekės kilmės valstybėje pridedant pardavimo, bendrąsias ir administracines sąnaudas bei pelno normą. Nustatant normaliąją vertę, įvertinami prekybos sąlygų eksportuojančioje šalyje ir Lietuvoje skirtumai.
+6. Panaši prekė – identiška prekė, t.y. prekė, visais atžvilgiais panaši į svarstomą prekę, importuojamą į Lietuvos Respublikos muitų teritoriją, o jeigu identiškos prekės nėra, kita panašiomis charakteristikomis pasižyminti prekė.
 
-7. Eksporto kaina – kaina, faktiškai sumokėta ar priklausanti sumokėti už panašią prekę parduodant ją eksportui į Lietuvos Respublikos muitų teritoriją. Jeigu eksporto kainos nėra arba jei Valstybinei konkurencijos ir vartotojų teisių gynimo tarnybai kyla įtarimas, kad eksporto kaina yra nepatikima (dėl eksportuotojo ir importuotojo ar trečiosios šalies saitų ar kompensacinio susitarimo), eksporto kaina gali būti nustatyta pagal kainą, už kurią importuota prekė perparduota pirmam nepriklausomam pirkėjui. Jeigu prekė neperparduota nepriklausomam pirkėjui arba neperparduota tomis sąlygomis, kokiomis buvo importuota, eksporto kaina gali būti nustatyta bet kokiu kitu priimtinu būdu.
+7. Normalioji vertė (palyginamoji kaina) – kaina, įprastomis prekybos sąlygomis nepriklausomų vartotojų sumokėta ar priklausanti sumokėti už svarstomą prekę, skirtą vartoti eksportuojančios šalies rinkoje, nustatoma vadovaujantis šio Įstatymo 4 straipsnio nuostatomis.
 
-8. Eksportuojanti šalis – prekę eksportuojanti prekės kilmės šalis arba tarpinė šalis. Tačiau tarpinė šalis nelaikoma eksportuojančia šalimi, kai prekė tik pervežama per ją arba kai prekė negaminama toje šalyje, arba jei panašiai prekei toje šalyje negalima nustatyti normaliosios vertės.
+8. Eksporto kaina – kaina, faktiškai sumokėta ar priklausanti sumokėti už svarstomą prekę, parduotą eksportui iš eksportuojančios šalies į Lietuvos Respublikos muitų teritoriją, nustatoma vadovaujantis šio Įstatymo 5 straipsnio nuostatomis.
 
-9. Dempingo skirtumas – suma, kuria normalioji vertė viršija eksporto kainą.
+9. Dempingo skirtumas – normaliosios vertės ir eksporto kainos skirtumas, nustatomas vadovaujantis šio Įstatymo 7 straipsnio nuostatomis.
 
-10. Žala – dėl dempingo susidaranti materialinė žala vietiniams gamintojams, materialinės žalos vietiniams gamintojams grėsmė arba reali kliūtis įkurti panašios prekės vietinę gamybą.
+10. Eksportuojanti šalis – paprastai prekės kilmės šalis, bet gali būti ir tarpinė šalis. Tačiau tarpinė šalis nelaikoma eksportuojančia šalimi, kai prekė tik pervežama per ją arba kai prekė negaminama toje šalyje, arba jei prekei toje šalyje negalima nustatyti normaliosios vertės.
 
-11. Vietiniai gamintojai – panašias prekes gaminančių Lietuvos gamintojų visuma arba tie iš jų, kurių bendras panašių prekių gamybos kiekis sudaro didžiąją visos tokių prekių gamybos Lietuvos Respublikos muitų teritorijoje dalį, kaip yra nustatyta šio įstatymo 7 straipsnio 4 dalyje. Jeigu Lietuvos gamintojai yra susiję su dempingo kaina įtariamos prekės eksportuotojais ar importuotojais arba patys yra dempingo kaina įtariamos prekės importuotojai, tai nustatant, ar tam tikros gamintojų grupės prekių gamybos kiekis sudaro didžiąją visos tokių prekių gamybos Lietuvos Respublikos muitų teritorijoje dalį, šios grupės gamintojų gamybos kiekis neįskaičiuojamas. Šiais atvejais jiems netaikoma ir „vietinių gamintojų“ sąvoka. Išimtiniais atvejais, svarstant panašios prekės gamybą, Lietuvos Respublikos muitų teritorija gali būti padalyta į dvi ar daugiau rinkų. Kiekvienoje iš šių rinkų esantys panašios prekės gamintojai atskirai gali būti traktuojami kaip vietiniai gamintojai, jeigu:
+11. Žala – dėl dempingo susidaranti materialinė žala vietiniams gamintojams, materialinės žalos vietiniams gamintojams grėsmė arba reali kliūtis įkurti panašios prekės vietinę gamybą.
 
-1) tam tikroje rinkoje esantys gamintojai parduoda joje ne mažiau kaip 80 procentų savo pagamintų panašių prekių;
+12. Vietiniai gamintojai – visi panašias prekes gaminantys Lietuvos gamintojai arba tie iš jų, kurių bendras panašių prekių gamybos kiekis sudaro didžiąją visos tokių prekių gamybos Lietuvos Respublikos muitų teritorijoje dalį, kaip yra nustatyta šio Įstatymo 9 straipsnyje. 
 
-2) likusioje Lietuvos Respublikos muitų teritorijos dalyje esantys gamintojai panašios prekės toje rinkoje neparduoda ar parduoda mažiau nei 20 procentų bendro toje rinkoje parduodamo kiekio.
+13. Antidempingo muitas – muitas, kuris, baigus dempingo tyrimą, Lietuvos Respublikos Vyriausybės nutarimu taikomas išleidžiamai laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje prekei, importuojamai iš nutarime nurodytų eksportuotojų ar eksportuojančių šalių.
 
-12. Antidempingo muitas – muitas, taikytinas kiekvienai dempingo kaina parduodamai prekei, kurią išleidus laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje, daroma žala vietiniams gamintojams.
+14. Laikinasis antidempingo muitas – muitas, kuris Lietuvos Respublikos Vyriausybės nutarimu taikomas išleidžiamai laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje svarstomai prekei, importuojamai iš nutarime nurodytų eksportuotojų ar eksportuojančių šalių. Juo siekiama išvengti žalos vietiniams gamintojams dempingo tyrimo laikotarpiu.
 
-13. Laikinosios antidempingo priemonės – laikinieji muitai už importuojamas prekes, laikinųjų muitų sumokėjimo užtikrinimas.
+15. Suinteresuotosios šalys atliekant antidempingo priemonių nustatymo ir taikymo procedūras yra:
 
-14. Laikinasis muitas – muitas, kuris gali būti taikomas dempingo kaina įtariamai prekei prieš priimant galutinį nutarimą dėl antidempingo muito taikymo.
+1) panašios prekės Lietuvos gamintojai (tarp jų – ir galimi) arba prekybos ar verslo asociacijos, kurių narių dauguma yra panašios prekės Lietuvos gamintojai;
 
-15. Suinteresuotosios šalys vykdant antidempingo procedūras yra:
+2) svarstomos prekės importuotojai, užsienio gamintojai ir (ar) eksportuotojai arba prekybos ar verslo asociacijos, kurių narių dauguma yra šios prekės importuotojai, užsienio gamintojai ir (ar) eksportuotojai;
 
-1) panašios prekės Lietuvos gamintojai (tarp jų ir galimi) arba prekybos ar verslo asociacijos, kurių narių dauguma yra panašios prekės Lietuvos gamintojai;
+3) svarstomos prekės kilmės šalies ar valstybių, iš kurių importuojama į Lietuvos Respublikos muitų teritoriją svarstoma prekė (toliau – svarstomos prekės kilmės ar ją eksportuojančios šalies), vyriausybės;
 
-2) dempingo kaina įtariamos prekės eksportuotojai, užsienio šalies gamintojai ar importuotojai arba prekybos ar verslo asociacijos, kurių narių dauguma yra šios prekės užsienio gamintojai, eksportuotojai arba importuotojai;
+4) Lietuvos įmonės, naudojančios svarstomą prekę savo produkcijai gaminti; 
 
-3) dempingo kaina įtariamą prekę eksportuojančių šalių vyriausybės;
+5) Lietuvos Respublikos Vyriausybė ar kitos valstybės institucijos;
 
-4) Lietuvos vartotojai, savo produkcijos gamybai naudojantys dempingo kaina įtariamą prekę, taip pat negamybinės paskirties Lietuvos vartotojų asociacijos.
+6) visuomeninės Lietuvos vartotojų teisių gynimo organizacijos.
 
-16. Eksportuotojas – eksportuojančioje šalyje esantis ūkio subjektas, parduodantis panašią prekę Lietuvos fiziniam ar juridiniam asmeniui, ar kitam ūkio subjektui, neturinčiam juridinio asmens teisių, arba sudaręs su kuriuo nors iš jų kitą tokios prekės tiekimo sandorį.
+16. Eksportuotojas – eksportuojančios šalies fizinis arba juridinis asmuo, parduodantis panašias prekes Lietuvos Respublikos fiziniam ar juridiniam asmeniui arba sudaręs kitokį šių prekių tiekimo į Lietuvos Respublikos muitų teritoriją sandorį.
 
-17. Importuotojas – Lietuvos Respublikos ūkio subjektas, nupirkęs panašią prekę iš užsienio šalies fizinio ar juridinio asmens, ar kito ūkio subjekto, neturinčio juridinio asmens teisių, arba sudaręs su užsienio šalies ūkio subjektu kitą panašios prekės tiekimo sandorį.
+17. Importuotojas – Lietuvos Respublikos fizinis ar juridinis asmuo, nupirkęs panašias prekes iš užsienio šalies fizinio ar juridinio asmens arba sudaręs kitokį šių prekių tiekimo į Lietuvos Respublikos muitų teritoriją sandorį.
+
+18. Importas – svarstomos prekės išleidimas laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje.
+
+19. Tiriamasis laikotarpis – laikotarpis, kurio finansiniai bei kiti tyrimui reikalingi duomenys nagrinėjami dempingo tyrimo metu. Paprastai šis laikotarpis apima paskutinius finansinius metus prieš dempingo tyrimo inicijavimą. Gali būti ir kitas laikotarpis, bet ne trumpesnis kaip 6 mėnesių iki sprendimo atlikti tyrimą priėmimo dienos. 
  
 
-3 straipsnis. Dempingo tyrimo tvarkos nustatymas
+3 straipsnis. Įstatymą įgyvendinančios valstybės institucijos
 
-Normaliosios vertės ir eksporto kainos nustatymo, jų palyginimo tvarką, dempingo skirtumo, žalos ir vietinių gamintojų nustatymo tvarką, tyrimo kitos šalies teritorijoje procedūras nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota valstybės institucija.
- 
+1. Antidempingo įstatymą įgyvendina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ir jos įgaliota institucija.
 
-4 straipsnis. Įstatymą vykdančios valstybės institucijos
+2. Vyriausybės įgaliota institucija (toliau – institucija) atlieka tyrimus, atrankas, priima gamintojo ar eksportuotojo įsipareigojimus dėl kainos didinimo ar svarstomos prekės dempingo kaina eksporto į Lietuvos Respublikos muitų teritoriją nutraukimo (toliau – įsipareigojimas dėl kainos), prižiūri, ar šių įsipareigojimų laikomasi, atlieka taikomų antidempingo muitų ir įsipareigojimų dėl kainos peržiūras bei kitas šio Įstatymo ar Vyriausybės nustatytas funkcijas, priima sprendimus atlikti tyrimą ar jo neatlikti, sustabdyti, pratęsti tyrimą, apriboti tyrimo mastą ar baigti tyrimą, priimti įsipareigojimą dėl kainos arba atsisakyti jį priimti, atlikti antidempingo muito ar įsipareigojimo dėl kainos peržiūrą, rengia ir teikia Vyriausybei siūlymus taikyti laikinąjį antidempingo muitą, taikyti antidempingo muitą, pratęsti jo taikymo terminą, pakeisti antidempingo muito dydį arba muitą panaikinti (po peržiūros), antidempingo muitą grąžinti, taip pat informaciją, kurioje, be kitų duomenų, turi būti nurodyti faktai ir motyvai, kuriais remiasi šie siūlymai. 
 
-1. Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba vykdo tyrimus dempingui ir žalai nustatyti, priima sprendimus dėl tyrimo masto apribojimo bei atlieka atrankas, vykdo antidempingo muitų bei įsipareigojimų dėl kainų peržiūras, rengia ir teikia Konkurencijos tarybai pasiūlymus priimti nutarimus dėl tyrimo vykdymo, dėl laikinųjų antidempingo priemonių taikymo, įsipareigojimų dėl kainų priėmimo, pratęsimo, pakeitimo ar nutraukimo, dėl tyrimo sustabdymo, dėl antidempingo muitų bei įsipareigojimų dėl kainų peržiūrų vykdymo, taip pat dėl antidempingo muitų taikymo, pratęsimo, pakeitimo ar panaikinimo bei permokėto antidempingo muito grąžinimo.
-
-2. Konkurencijos taryba priima nutarimus: vykdyti tyrimus dempingui ir žalai nustatyti; taikyti laikinąsias antidempingo priemones; priimti ar nepriimti, peržiūrėti, pratęsti, pakeisti ar nutraukti įsipareigojimus dėl kainų; sustabdyti tyrimą; taikyti ar netaikyti antidempingo muitus, vykdyti jų peržiūrą, pratęsti jų taikymą, juos pakeisti ar panaikinti bei grąžinti permokėtus antidempingo muitus.
+3. Vyriausybė priima nutarimus taikyti laikinąjį antidempingo muitą, taikyti antidempingo muitą, pratęsti jo taikymo terminą, pakeisti antidempingo muito dydį arba muitą panaikinti (po peržiūros), antidempingo muitą grąžinti.
  
 
 ANTRASIS SKIRSNIS
-DEMPINGO ĮRODYMAS
+DEMPINGO NUSTATYMAS
  
 
-5 straipsnis. Tyrimo inicijavimas
+4 straipsnis. Normaliosios vertės nustatymas
 
-1. Tyrimas nustatyti dempingą, jo mastą ir poveikį pradedamas, kai Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba vietinių gamintojų vardu gauna raštišką prašymą. Prašymo turinys turi atitikti šio įstatymo 6 straipsnio reikalavimus.
+1. Normaliąją vertę institucija nustato:
 
-2. Pateikti prašymą vietinių gamintojų vardu gali fizinis ar juridinis asmuo, ar kitas ūkio subjektas, neturintis juridinio asmens teisių.
+1) pagal šio Įstatymo 10 straipsnio nuostatas inicijavusi dempingo tyrimą. Šio tyrimo metu nustatyta preliminari normalioji vertė naudojama preliminariam dempingo skirtumui nustatyti, pagal kurį gali būti apskaičiuojamas laikinasis antidempingo muitas;
 
-3. Konkurencijos tarybos iniciatyva tyrimas gali būti pradėtas be šio straipsnio 1 dalyje nurodyto prašymo, jei taryba turi pakankamų dempingo ir žalos vietiniams gamintojams įrodymų (pagal šio įstatymo 6 straipsnio 1 dalį).
+2) prieš priimant sprendimą baigti tyrimą. Pagal tyrimo rezultatus nustatyta normalioji vertė naudojama dempingo skirtumui nustatyti. Pagal šį skirtumą apskaičiuojamas antidempingo muitas, išskyrus, kai dempingo skirtumas pagal šio Įstatymo 12 straipsnio 5 dalį yra nereikšmingas.
+
+2. Normalioji vertė yra nustatoma individuali kiekvienam tiriamam eksportuotojui pagal kainas, kurias įprastomis prekybos sąlygomis už svarstomą prekę moka arba turi mokėti nepriklausomi pirkėjai eksportuojančios šalies vidaus rinkoje, išskyrus, kai normalioji vertė nustatoma pagal šio straipsnio 17 dalies nuostatas.
+
+3. Jeigu eksportuotojas eksportuojančioje šalyje svarstomos prekės negamina arba neparduoda, normalioji vertė gali būti nustatyta pagal kitų tokios prekės gamintojų ar pardavėjų vidaus rinkos kainas įprastomis prekybos sąlygomis toje eksportuojančioje šalyje.
+
+4. Jeigu įprastomis prekybos sąlygomis eksportuojančios šalies vidaus rinkoje svarstoma prekė neparduodama, parduodama nepakankamais kiekiais arba dėl ypatingos situacijos rinkoje neįmanoma tinkamai palyginti normaliosios vertės ir eksporto kainos, normalioji svarstomos prekės vertė nustatoma:
+
+1) pagal gamybos sąnaudas prekės kilmės šalyje, pridėjus pagrįstas prekės pardavimo, administracines ir bendrąsias sąnaudas, taip pat pagrįstą pelną, arba
+
+2) pagal eksporto į atitinkamą trečiąją šalį įprastomis prekybos sąlygomis kainą, su sąlyga, kad tokia kaina yra tipiška, atspindinti svarstomos prekės rinkos vertę eksporto į Lietuvos Respublikos muitų teritoriją metu.
+
+5. Laikoma, kad svarstoma prekė, skirta vartoti eksportuojančios šalies vidaus rinkoje, yra parduodama pakankamais kiekiais, jog būtų galima nustatyti normaliąją vertę, jei eksportuojančios šalies vidaus rinkoje jos parduota 5 procentai ar daugiau, skaičiuojant nuo bendro tokios prekės kiekio, parduoto į Lietuvos Respublikos muitų teritoriją. Tačiau gali būti ir mažesni pardavimo kiekiai, jeigu parduodamos prekės kainos yra tipiškos toje rinkoje ir galima tinkamai jas palyginti.
+
+6. Kainos, kuriomis už svarstomą prekę tarpusavyje atsiskaito pardavimo metu susiję ar sudarę kompensacinį susitarimą (pagal šio Įstatymo 9 straipsnio 3 ir 4 dalis) fiziniai ir juridiniai asmenys, jeigu tai tiesiogiai ar netiesiogiai turi įtakos prekių kainoms, nelaikomos kainomis įprastomis prekybos sąlygomis ir nenaudojamos nustatant normaliąją vertę, nebent būtų nustatyta, kad tokie fizinių ir juridinių asmenų tarpusavio santykiai neturi įtakos svarstomų prekių kainoms.
+
+7. Svarstomos prekės pardavimai eksportuojančios šalies vidaus rinkoje arba į trečiąją šalį nelaikomi pardavimais įprastomis prekybos sąlygomis ir į juos neatsižvelgiama nustatant normaliąją vertę, jeigu buvo parduodama kainomis, mažesnėmis už prekės vieneto gamybos sąnaudas (pastovias ir kintamas), prie jų pridėjus pardavimo, administracines ir bendrąsias sąnaudas bei pagrįstą pelną. Ši nuostata taikoma tik tuo atveju, jei nustatoma, jog taip buvo parduodama:
+
+1) gana ilgą laiką (paprastai vienerius metus). Tačiau net ir akivaizdaus dempingo atveju šis laikotarpis negali būti trumpesnis kaip 6 mėnesiai;
+
+2) pakankamai dideliais kiekiais, kaip tai apibrėžta šio straipsnio 9 dalyje;
+
+3) kainomis, kurios per pagrįstą laikotarpį nepadengia visų prekės vieneto sąnaudų. 
+
+8. Jeigu svarstomos prekės kaina eksportuojančios šalies vidaus rinkoje arba kaina parduodant į trečiąją šalį yra mažesnė už prekės vieneto sąnaudas, nurodytas šio straipsnio 7 dalyje, bet pardavimo metu viršija vidutines svertines prekės vieneto sąnaudas per tiriamąjį laikotarpį, tokia kaina laikoma padengiančia visas sąnaudas per pagrįstą laikotarpį. 
+
+9. Pardavimai kaina, mažesne už vieneto sąnaudas, nurodytas šio straipsnio 7 dalyje, laikomi pardavimais pakankamai dideliais kiekiais nurodytu laikotarpiu, jeigu nustatoma, kad:
+
+1) vidutinė svertinė vieneto pardavimo kaina normaliajai vertei nustatyti pagal sandorius yra mažesnė už vidutines svertines prekės vieneto sąnaudas, nurodytas šio straipsnio 7 dalyje, arba
+
+2) prekių, parduotų mažesne kaina už vieneto sąnaudas, nurodytas šio straipsnio 7 dalyje, kiekis sudaro ne mažiau kaip 20 procentų viso eksportuojančios šalies vidaus rinkoje parduodamų prekių kiekio, skaičiuojamo normaliajai vertei nustatyti.
+
+10. Normaliajai vertei nustatyti nagrinėjami visi eksportuotojo sandoriai su visais svarstomos prekės vidaus rinkos pirkėjais, sudaryti per tiriamąjį laikotarpį. Eksportuotojo sandoriai nagrinėjami pagal prekių pardavimo pirminius dokumentus (važtaraščius, sąskaitas, sutartis, kainoraščius ir kt.) identifikuojant prekę, analizuojant pardavimų kiekius natūrine ir vertine išraiška, kainas, pirkėjus (didmenininkai, mažmenininkai), taikomas nuolaidas, pardavimų datas ir kitus rodiklius.
+
+11. Siekiant deramo svarstomos prekės normaliosios vertės ir eksporto kainos palyginamumo, kad būtų pagrįstai nustatytas dempingo skirtumas, pagal pirminius dokumentus nustatyta normalioji vertė koreguojama vadovaujantis šio Įstatymo 6 straipsnio 2 dalies nuostatomis. Koreguojant normaliąją vertę įvertinami prekybos sąlygų skirtumai eksportuojančioje šalyje ir Lietuvoje.
+
+12. Svarstomos prekės gamybos, pardavimų, bendrosios ir administracinės sąnaudos paprastai skaičiuojamos pagal tiriamo eksportuotojo arba gamintojo pateiktus duomenis, su sąlyga, kad šie duomenys atitinka eksportuojančioje šalyje nusistovėjusius apskaitos principus ir atspindi pagrįstas svarstomos prekės gamybos ir pardavimo (distribucijos) sąnaudas.
+
+13. Tyrimo metu institucija išnagrinėja visus turimus įrodymus (tarp jų ir pateiktus eksportuotojo arba gamintojo), kad sąnaudos tinkamai paskirstytos, tačiau į juos atsižvelgiama, jei patvirtinama, kad taip sąnaudos eksportuotojų ar gamintojų buvo paskirstomos praeityje, ypač atkreipiant dėmesį į tai, ar tinkamai buvo nustatyti amortizacijos ir nusidėvėjimo laikotarpiai, lėšos kapitaliniams įdėjimams bei kitos išlaidos plėtrai. Nesant tinkamesnio sąnaudų paskirstymo metodo, pirmenybė teikiama sąnaudų paskirstymui pagal prekių apyvartą.
+
+14. Jeigu šio straipsnio 13 dalyje minėtos sąnaudos dar neatsispindėjo skirstant sąnaudas, jos turi būti atitinkamai koreguojamos, atsižvelgiant į tuos neperiodinių sąnaudų straipsnius, kurie naudingi prekės gamybai ateityje ir (ar) dabar, arba atsižvelgiant į aplinkybes, dėl kurių sąnaudoms per tiriamąjį laikotarpį koregavimas daro įtakos. 
+
+15. Tuo atveju, kai per tiriamąjį laikotarpį (ar jo dalį) nauja gamyba (dėl naujos didelių papildomų investicijų reikalaujančios įrangos, taip pat prasto gamybinių pajėgumų išnaudojimo naudojant šią įrangą) turėjo įtakos sąnaudų dydžiui jų atsipirkimo laikotarpiu, naujos gamybos įdiegimo laikotarpio vidutinės sąnaudos, vadovaujantis šio straipsnio 13 dalyje nurodytais jų paskirstymo metodais, nustatomos to laikotarpio pabaigai ir pagal šio straipsnio 7, 8 ir 9 dalių nuostatas įskaičiuojamos į vidutines svertines prekės vieneto sąnaudas. Jeigu naujos gamybos įdiegimo laikotarpis trunka ilgiau už tiriamąjį laikotarpį, vidutinėmis sąnaudomis laikomos sąnaudos, buvusios tiriamojo laikotarpio pabaigoje. Šiomis sąnaudomis pagrįstai galėtų būti remiamasi atliekant tyrimą. 
+
+16. Pardavimo, bendrosios ir administracinės sąnaudos ir pelnas turi būti pagrįsti faktiniais duomenimis apie tiriamo eksportuotojo arba gamintojo svarstomos prekės gamybą ir pardavimus įprastomis prekybos sąlygomis. Tais atvejais, kai šių sąnaudų ir pelno negalima nustatyti tokiu būdu, jie gali būti nustatyti bet kuriuo iš šių būdų:
+
+1) pagal kitų tiriamų eksportuotojų ar gamintojų svertinį faktinių svarstomos prekės gamybos ir pardavimo kilmės šalies vidaus rinkoje sąnaudų vidurkį;
+
+2) pagal tiriamo eksportuotojo ar gamintojo tos pačios kategorijos prekių gamybos ir pardavimo įprastomis prekybos sąlygomis kilmės šalies vidaus rinkoje faktines sąnaudas;
+
+3) kitu (nei šios dalies 1 ir 2 punktuose) pagrįstu būdu, su sąlyga, kad taip nustatytas pelnas neviršytų pelno, kurį paprastai gauna kiti eksportuotojai ar gamintojai parduodami tos pačios kategorijos prekes kilmės šalies vidaus rinkoje.
+
+17. Jeigu tiriamas į Lietuvos Respublikos muitų teritoriją importuojamų svarstomų prekių, pagamintų ne rinkos ekonomikos šalyje, dempingas, normalioji vertė, viena visoms importuojamoms svarstomoms prekėms, kilusioms iš tokios šalies (išskyrus šio straipsnio 21 dalyje numatytą atvejį), apskaičiuojama bet kuriuo iš šių būdų:
+
+1) pagal trečiosios rinkos ekonomikos šalies (toliau – trečioji šalis) svarstomos prekės gamintojo vietinėje rinkoje parduodamos prekės kainą arba pagal trečiojoje šalyje apskaičiuotą vertę (prie svarstomos prekės gamybos sąnaudų pridėjus pagrįstas pardavimo, administracines ir bendrąsias sąnaudas bei pelną);
+
+2) pagal trečiosios šalies svarstomos prekės kainas parduodant į kitas šalis, tarp jų ir į Lietuvos Respubliką;
+
+3) jeigu šios dalies 1 ir 2 punktuose nurodytais būdais apskaičiuoti normaliąją vertę neįmanoma, ji gali būti apskaičiuojama bet kuriuo kitu pagrįstu būdu, tarp jų – pagal kainą, faktiškai sumokėtą ar mokėtiną už panašią prekę Lietuvos Respublikos muitų teritorijoje, tinkamai pakoreguotą, jei būtina įskaityti pagrįstą pelną.
+
+18. Ne rinkos ekonomikos šalių bei šalių, kurioms taikomas specialus režimas, sąrašą tvirtina Vyriausybė.
+
+19. Šio straipsnio 17 dalyje nurodyta trečioji šalis parenkama pagrįstai, atsižvelgiant į patikimą informaciją apie svarstomos prekės gamybos sąlygas toje šalyje, tarp jų gamybos procesą ir prekės gamybos mastą bei visą prieinamą informaciją apie rinkos sąlygas šioje šalyje per tiriamąjį laikotarpį, ir palyginus su sąlygomis tiriamos šalies rinkoje. Taip pat turi būti atsižvelgiama į tyrimui atlikti nustatytą laiką. Jei įmanoma, trečiąja šalimi parenkama tame pačiame dempingo tyrime dalyvaujanti rinkos ekonomikos šalis. Apie trečiosios šalies parinkimą suinteresuotosioms šalims pranešama iš karto netrukus po sprendimo atlikti dempingo tyrimą įsigaliojimo ir skiriama 10 kalendorinių dienų nuomonei dėl šios šalies parinkimo pareikšti. 
+
+20. Tęsdama tyrimą ir atsižvelgdama į ribotą laiką, institucija gali pakeisti laikiniesiems antidempingo muitams nustatyti pasirinktą trečiąją šalį kita šalimi ir pagal pastarosios duomenis atlikusi skaičiavimus teikti siūlymą Vyriausybei taikyti antidempingo muitą. Toks pakeitimas galimas, jei atliekant tyrimą dėl ne rinkos ekonomikos šalyje pagamintų prekių importo į Lietuvos Respublikos muitų teritoriją priimamas sprendimas atlikti kitą tos pačios prekės, pagamintos rinkos ekonomikos šalyje, dempingo tyrimą. Kita nei pradiniame tyrime (pagal kurio rezultatus taikomas nustatytas antidempingo muitas) trečioji šalis gali būti pasirinkta ir atliekant peržiūras pagal šio Įstatymo septintojo skirsnio nuostatas.
+
+21. Atliekant importuojamų į Lietuvos Respublikos muitų teritoriją svarstomų prekių (pagamintų šalyse, įrašytose į šio straipsnio 18 dalyje nurodytą sąrašą ar bet kurioje kitoje ne rinkos ekonomikos šalyje, kuri dempingo tyrimo pradžios dieną yra Pasaulio prekybos organizacijos narė) dempingo tyrimą, normalioji vertė nustatoma tokiu pat būdu kaip rinkos ekonomikos šalies eksportuotojui tik tuo atveju, jei tiriamo eksportuotojo pateikti dokumentai įrodo, kad svarstoma prekė gaminama ir parduodama rinkos ekonomikos sąlygomis. Jei tokių įrodymų nėra, normalioji vertė nustatoma vadovaujantis šio straipsnio 17 dalies nuostatomis. 
+
+22. Institucija, suinteresuotosioms šalims suteikusi galimybę pateikti komentarus, per tris mėnesius nuo tyrimo pradžios (pagal šio straipsnio 23 dalyje nurodytus kriterijus) turi nustatyti, ar gamintojas veikia rinkos ekonomikos sąlygomis. Šiuo klausimu institucijos priimtas sprendimas galioja visą tyrimo laiką. 
+
+23. Kriterijai, pagal kuriuos institucija (jai pateikus atitinkamus dokumentus) nustato, ar šio straipsnio 21 dalyje nurodytų šalių gamintojai svarstomą prekę gamina rinkos ekonomikos sąlygomis, yra šie: 
+
+1) gamintojo sprendimai dėl įmonės valdymo, svarstomos prekės gamybos sąnaudų, įskaitant išlaidas žaliavoms ir kitiems ištekliams, technologijai, darbo jėgai apmokėti, pardavimams bei investicijoms, taip pat dėl svarstomos prekės kainų ir pardavimo rinkų priimami savarankiškai, nereguliuojant valstybei, atsižvelgiant į rinkoje vyraujančią pasiūlą ir paklausą, o pagrindinės svarstomos prekės gamybos sąnaudos iš esmės atitinka jų rinkos kainą toje šalyje;
+
+2) gamintojas turi vieną aiškų apskaitos dokumentų rinkinį, kurio auditą galima laisvai atlikti ir kuris yra naudojamas įvairiems tikslams;
+
+3) įmonės gamybos išlaidoms ir finansinei būklei nedaro įtakos iš ne rinkos ekonomikos sistemos išlikę dideli nukrypimai, ypač susiję su turto nuvertėjimu, jo nurašymais, barterine prekyba ir skolų apmokėjimu;
+
+4) įmonei taikomi Įmonių bankroto ir Įmonių įstatymai;
+
+5) valiuta konvertuojama pagal rinkos kursą.
  
 
-6 straipsnis. Prašymas ištirti dempingą
+5 straipsnis. Svarstomos prekės eksporto kainos nustatymas
 
-1. Prašyme ištirti dempingą turi būti išdėstyti dempingo, žalos ir jų priežastinio ryšio įrodymai. Šie įrodymai yra būtini, kad būtų priimtas nutarimas vykdyti tyrimą. Prašyme turi būti pateikta ši informacija (jei ją įmanoma laikyti prieinama prašymo pateikėjui):
+1. Atliekant dempingo tyrimą eksporto kaina nustatoma kiekvienam tiriamam eksportuotojui, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
 
-1) prašymo pateikėjo vardas, pavardė, adresas (juridinio asmens – pavadinimas ir buveinės adresas) ir šio subjekto panašios prekės gamybos Lietuvos Respublikos muitų teritorijoje kiekis natūrine ir vertine išraiškomis;
+2. Jeigu atlikdama importuojamų į Lietuvos Respublikos muitų teritoriją iš ne rinkos ekonomikos šalies prekių dempingo tyrimą institucija pagal šio Įstatymo 4 straipsnio 21 dalies reikalavimus eksportuotojui nustato individualią normaliąją vertę, turi būti nustatyta ir individuali eksporto kaina. Kitu atveju visiems tiriamos ne rinkos ekonomikos šalies eksportuotojams pagal viso svarstomos prekės eksporto iš tos šalies svertinį eksporto kainos vidurkį nustatoma viena eksporto kaina.
 
-2) kai prašymo pateikėjo gamybos kiekis yra mažesnis nei numatyta 7 straipsnio 4 dalyje, nurodoma, kurių vietinių gamintojų vardu pateikiamas prašymas, bei pateikiamas žinomų panašios prekės Lietuvos gamintojų (ar panašios prekės gamintojų asociacijų Lietuvoje) sąrašas. Šiame sąraše nurodomas kiekvieno iš šių gamintojų panašios prekės gamybos Lietuvos Respublikos muitų teritorijoje kiekis natūrine ir vertine išraiškomis;
+3. Eksporto kainai nustatyti nagrinėjami visi svarstomos prekės eksportuotojo eksporto sandoriai su visais pirkėjais, sudaryti per tiriamąjį laikotarpį, arba tie iš jų, kurie atspindi pakankamus pardavimo eksportui kiekius, įskaitant ir sandorius dėl eksporto iš eksportuojančios šalies į Lietuvos Respublikos muitų teritoriją per trečiąsias šalis.
 
-3) dempingo kaina įtariamos prekės aprašymas;
+4. Eksportuotojo sandoriai nagrinėjami pagal prekių pardavimo pirminius dokumentus (važtaraščius, sąskaitas, sutartis, kainoraščius ir kt.) identifikuojant prekę, analizuojant pardavimų kiekius natūrine ir vertine išraiška, pirkėjų (didmenininkų, mažmenininkų) kainas, taikomas nuolaidas, pardavimų datas ir kitus rodiklius.
 
-4) dempingo kaina įtariamos prekės kilmės šalių ar šią prekę eksportuojančių šalių pavadinimai, taip pat visų žinomų šios prekės užsienio gamintojų ar eksportuotojų į Lietuvos Respublikos muitų teritoriją bei importuotojų sąrašai;
+5. Eksporto kaina, nustatyta iš pirminių dokumentų, gali būti koreguojama pagal šio Įstatymo 6 straipsnio 2 dalyje nustatytus veiksnius, siekiant, kad būtų galima palyginti svarstomos prekės normaliąją vertę ir eksporto kainą pagrįstam dempingo skirtumui nustatyti.
 
-5) duomenys, reikalingi normaliajai vertei nustatyti pagal dempingo kaina įtariamos prekės pardavimo kainas jos kilmės ir (ar) eksportuojančių šalių rinkose, arba, kai prekės normalioji vertė, prašymo pateikėjo nuomone, nustatytina kitais šio įstatymo 2 straipsnio 6 dalyje nurodytais būdais, – duomenys, reikalingi normaliajai vertei nustatyti atitinkamu būdu;
+6. Jeigu eksporto kainos negalima nustatyti arba jei institucijai kyla įtarimas, kad eksporto kaina yra nepatikima (dėl eksportuotojo ir importuotojo ar trečiosios šalies tarpusavio saitų ar kompensacinio susitarimo), eksporto kaina gali būti apskaičiuota pagal kainą, už kurią importuota prekė perparduota pirmam pirkėjui, su eksportuotoju nesusijusiam tarpusavio saitais ar kompensaciniu susitarimu. Jeigu prekė neperparduota tokiam pirkėjui arba neperparduota tomis sąlygomis, kokiomis buvo importuota, eksporto kaina turi būti apskaičiuota bet kuriuo kitu priimtinu būdu.
 
-6) duomenys, reikalingi eksporto kainai nustatyti;
+7. Šio straipsnio 6 dalyje nustatytais atvejais, norint nustatyti patikimą eksporto kainą prie Lietuvos Respublikos muitų sienos, apskaičiuota eksporto kaina koreguojama atsižvelgiant į visas išlaidas (įskaitant muitus ir mokesčius, patirtus laikotarpiu tarp importavimo ir perpardavimo, taip pat padidėjusį pelną).
 
-7) duomenys apie dempingo kaina įtariamos prekės importo kiekio kitimą per 10 straipsnio 3 dalyje nustatytą laikotarpį, apie šio importo poveikį panašios prekės kainoms Lietuvos rinkoje bei šio importo poveikį vietiniams gamintojams.
+8. Tais atvejais, kai įprastines vietinio importuotojo išlaidas padengia kitas fizinis ar juridinis asmuo, kuris su vietiniu importuotoju ar eksportuotoju yra susijęs arba sudaręs kompensacinį susitarimą, eksporto kaina gali būti koreguojama atsižvelgiant į:
 
-2. Kol nėra nuspręsta vykdyti tyrimą, prašymas ištirti dempingą turi būti laikomas paslaptyje, išskyrus pranešimą pagal šio straipsnio 3 dalį.
+1) įprastinius transportavimo, draudimo, aptarnavimo, krovimo ir papildomų išlaidų skirtumus;
 
-3. Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba, gavusi šio straipsnio 1 dalies reikalavimus atitinkantį prašymą, ne vėliau kaip iki tyrimo pradžios apie prašymo gavimą turi pranešti dempingo kaina įtariamą prekę eksportuojančios šalies vyriausybei.
+2) įvairių muitų ir kitų mokesčių, mokamų importuojančioje šalyje importuojant arba parduodant prekes, dydžio skirtumus;
+
+3) pardavimo, bendrųjų bei administracinių išlaidų ir pelno skirtumus.
+
+6 straipsnis. Normaliosios vertės ir eksporto kainos palyginimas
+
+1. Dempingo skirtumui nustatyti institucija turi palyginti svarstomos prekės eksporto kainą ir normaliąją vertę. Šis palyginimas turi būti atliktas tuo pačiu prekybos lygiu (paprastai išsiuntimo iš įmonės, neįskaitant transportavimo ir distribucijos išlaidų), lyginant per kiek galima artimesnį laiką parduotas svarstomas prekes. Kiekvienu konkrečiu atveju turi būti atsižvelgiama ir į kitus skirtumus, kurie turi įtakos kainoms ir jų palyginamumui. Dėl šių skirtumų eksporto kaina ir normalioji vertė turi būti koreguojamos iš eksporto kainos ir normaliosios vertės atitinkamas sumas atimant arba pridedant. Koreguojant turi būti parodomos išlaidos lyginamo laikotarpio pabaigoje arba, jeigu tas laikotarpis ilgesnis už tiriamąjį laikotarpį, šio ilgesnio laikotarpio išlaidos, į kurias pagrįstai gali atsižvelgti institucija tyrimo metu.
+
+2. Veiksniai, pagal kuriuos gali būti koreguojama normalioji vertė ir eksporto kaina:
+
+1) eksportuojamos prekės ir prekės, skirtos vartoti eksportuojančios šalies vidaus rinkoje, fizinės charakteristikos. Koregavimo suma turi atitikti pagrįstą eksportuojamos prekės ir prekės vidaus vartojimui fizinių charakteristikų skirtumo rinkos vertę. Pagal fizinių charakteristikų skirtumus, kurie neturi įtakos šių prekių rinkos kainai, nekoreguojama;
+
+2) importo mokesčiai ir netiesioginiai mokesčiai. Koregavimo suma turi atitikti visus importo mokesčius ir netiesioginius mokesčius, mokamus už svarstomą prekę ar jos gamybai panaudotas medžiagas, kai ši prekė skirta vartoti eksportuojančioje šalyje, bet kurie nėra renkami arba yra grąžinami, kai prekė eksportuojama į Lietuvos Respublikos muitų teritoriją;
+
+3) nuolaidos ir parduotų prekių kiekiai. Koreguojama dėl nuolaidų skirtumų, įskaitant nuolaidas, suteiktas atsižvelgiant į parduotų prekių kiekius ir tiesiogiai susietas su pardavimais, nagrinėjamais atliekant dempingo tyrimą. Taip pat gali būti koreguojama dėl atidėtų nuolaidų, jei jos buvo nuolat taikomos ankstesniu laikotarpiu prieš atliekant dempingo tyrimą ir atitinka tokioms nuolaidoms keliamas sąlygas;
+
+4) prekybos lygis (didmeninė, mažmeninė prekyba ir kt.). Koreguojama esant skirtingiems prekybos lygiams, jei eksporto kaina (įskaitant apskaičiuotą eksporto kainą) vidaus rinkos ir eksporto rinkos distribucijos tinkle priklauso kitam prekybos lygiui negu normalioji vertė ir jei toks prekybos lygių skirtumas turi įtakos kainų palyginamumui; šią įtaką rodo pastovūs ir dideli prekybos lygių skirtumai ir pardavimo kainų skirtumai eksportuojančios šalies vidaus rinkoje. Koregavimo suma turi būti pagrįsta tų skirtumų rinkos verte. Tais atvejais, kai prekybos lygių skirtumai negali būti kiekybiškai išreikšti, nes eksportuojančios šalies vidaus rinkoje nėra atitinkamų lygių arba dėl kitų aplinkybių, gali būti koreguojama kitais būdais;
+
+5) transportavimo, draudimo, krovimo, parengimo prekybai (konteinerių terminalo mokesčiai, mokesčiai už muitinės agentų paslaugas ir kiti) ir papildomos aptarnavimo išlaidos. Koreguojama pagal išlaidų (jei jos įeina į prekės kainą), tiesiogiai susijusių su šiomis paslaugomis gabenant svarstomą prekę iš eksportuotojo patalpų nepriklausomam pirkėjui, skirtumus. Siekiant palyginti kainas išsiuntimo iš įmonės lygiu, transportavimo išlaidos, jei jos įeina į normaliąją vertę ir (ar) eksporto kainą, turi būti išskaitytos;
+
+6) pakavimas. Koreguojama pagal išlaidų, tiesiogiai susijusių su svarstomos prekės pakavimu, skirtumus;
+
+7) kreditas. Koreguojama pagal bet kokio kredito, suteikto nagrinėjamiems pardavimams atlikti, išlaidų skirtumus, jei šie skirtumai (palankesnės kredito suteikimo sąlygos) lemia kliento sprendimą imti kreditą ir dėl to turi įtakos kainų palyginamumui;
+
+8) aptarnavimo išlaidos pardavus prekę. Koreguojama pagal šiame Įstatyme arba pardavimo sutartyse nustatytų įsipareigojimų, garantijų dėl techninės pagalbos ir aptarnavimo išlaidų skirtumus. Tačiau jei garantijų išlaidos nesusijusios su tiriamuoju laikotarpiu, nekoreguojama;
+
+9) komisiniai. Koreguojama pagal komisinių, kuriuos eksportuotojas sumokėjo prekybininkui ar prekybos agentui (apskaičiuotų kiekvienam nagrinėjamam pirkimui), skirtumus; 
+
+10) valiutos konvertavimas. Paprastai, kad būtų galima kainas tinkamai palyginti, būtina valiutas konvertuoti. Konvertuojama laikantis pardavimo dienos valiutų keitimo kurso. Paprastai pardavimo diena laikoma sąskaitoje–faktūroje nurodyta data, bet gali būti laikoma ir sutarties sudarymo, prekės užsakymo ar patvirtinimo data, atsižvelgiant į tai, kuriame dokumente nustatytos esminės pardavimo sąlygos. Tuo atveju, kai yra sudarytas išankstinis sandoris dėl svarstomos prekės eksporto į Lietuvos Respublikos muitų teritoriją, užsienio valiutos konvertuojamos pagal tame išankstiniame sandoryje numatytą valiutos keitimo kursą. Valiutų keitimo kurso svyravimų nepaisoma ir eksportuotojams suteikiama 60 dienų pakoreguoti savo eksporto kainas pagal tiriamuoju laikotarpiu buvusius ilgalaikius valiutų kurso pasikeitimus;
+
+11) kiti veiksniai. Gali būti koreguojama ir dėl kitų veiksnių skirtumų, jei įrodoma, kad jie turi įtakos kainų palyginamumui. Atsižvelgdama į tai, kad keli iš šio straipsnio 2 dalyje išvardytų veiksnių gali sutapti, institucija turi užtikrinti, kad pakoregavimai, kurie pagal šią nuostatą buvo padaryti, ypač dėl parduotų prekių kiekio ar nuolaidų skirtumų, taip pat prekybos lygių skirtumo, nesikartotų.
+
+3. Koreguojama gali būti arba institucijos iniciatyva, arba koregavimu suinteresuotos šalies prašymu. Jei koregavimu suinteresuota šalis prašyme koreguoti nurodo, kad normalioji vertė ir eksporto kaina yra nepalyginamos, ji privalo pateikti institucijai įrodymus, kad įvairių veiksnių skirtumai turi įtakos kainoms ar jų palyginamumui. 
+
+4. Tuo atveju, kai prekės į Lietuvos Respublikos muitų teritoriją eksportuojamos ne iš prekės kilmės šalies, bet iš šalies tarpininkės, eksporto kaina turi būti palyginama su prekės normaliąja verte eksportuojančioje šalyje. Jeigu prekė yra tiktai pervežama per tarpinę šalį arba jeigu tokia prekė iš viso negaminama toje šalyje, arba jeigu jai nėra palyginamosios kainos toje šalyje, eksporto kaina yra lyginama su normaliąja verte prekės kilmės šalyje.
  
 
-7 straipsnis. Prašymo nagrinėjimas
+7 straipsnis. Dempingo skirtumo nustatymas
 
-1. Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba, gavusi prašymą ištirti dempingą, per 30 kalendorinių dienų nuo šio prašymo gavimo ištiria, ar teisinga prašyme pateikta informacija, ar ji atitinka šio įstatymo 6 straipsnio 1 dalies reikalavimus, ir pateikia siūlymus Konkurencijos tarybai prašymą patenkinti arba atmesti.
+1. Atlikus normaliosios vertės ir eksporto kainos palyginimą pagal šio Įstatymo 6 straipsnį, turi būti nustatytas dempingo skirtumas per tiriamąjį laikotarpį. 
 
-2. Jei prašymą pateikusio fizinio ar juridinio asmens, ar kito ūkio subjekto, neturinčio juridinio asmens teisių, panašios prekės gamybos kiekis yra mažesnis nei numatyta šio straipsnio 4 dalyje, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba per 30 kalendorinių dienų nuo šio prašymo gavimo raštu apklausia panašios prekės vietinius gamintojus, ar jie pritaria šiam prašymui.
+2. Kiekvienam tiriamam eksportuotojui nustatomas individualus dempingo skirtumas, išskyrus šio straipsnio 7 dalyje numatytus atvejus. 
 
-3. Tyrimas nepradedamas, jeigu išnagrinėjus prašymą ir apklausus vietos gamintojus nustatoma, kad:
+3. Dempingo skirtumas nustatomas:
 
-1) prašymas pateiktas ne vietinių gamintojų vardu, nes pagal šio straipsnio 4 dalies sąlygas jam pritaria per mažai vietinių gamintojų;
+1) palyginant normaliosios vertės svertinį vidurkį su visų tokios prekės eksporto į Lietuvos Respublikos muitų teritoriją sandorių kainų svertiniu vidurkiu arba
 
-2) prašyme išdėstytų dempingo ir žalos įrodymų nepakanka;
+2) palyginant individualias normaliąsias vertes su kiekvieno sandorio individualiomis eksporto į Lietuvos Respublikos muitų teritoriją kainomis.
 
-3) dempingo skirtumas ar (ir) dempingo kaina įtariamos prekės importo kiekis (faktinis ar galimas) pagal šio straipsnio 5 dalį yra nereikšmingi.
+4. Normalioji vertė, nustatyta kaip svertinis vidurkis, gali būti palyginta su individualių eksporto į Lietuvos Respublikos muitų teritoriją sandorių kainomis, jeigu institucija nustato, kad eksporto kainos labai skiriasi lyginant skirtingus pirkėjus, regionus arba laiko periodus, ir jeigu aukščiau minėti būdai – svertinio vidurkio palyginimas su svertiniu vidurkiu (šio straipsnio 3 dalies 1 punktas) ar sandorio palyginimas su sandoriu (šio straipsnio 3 dalies 2 punktas) – neparodo viso dempingo masto.
 
-4. Prašymas laikomas pateiktu vietinių gamintojų vardu, jeigu jam pritariančių vietinių gamintojų panašios prekės gamybos kiekis sudaro daugiau kaip 50 procentų tokios prekės pagaminto kiekio tų vietinių gamintojų, kurie yra išreiškę savo pritarimą ar nepritarimą dėl tyrimo atlikimo, o prašymui pritariančių vietinių gamintojų panašios prekės gamybos kiekis sudaro 25 ir daugiau procentų viso vietinių gamintojų pagaminto panašios prekės kiekio.
+5. Tais atvejais, kai dempingo skirtumai yra nevienodi, gali būti nustatytas dempingo skirtumo svertinis vidurkis.
 
-5. Dempingo skirtumas yra nereikšmingas, jei jis yra mažesnis kaip 2 procentai svarstomos prekės eksporto kainos. Dempingo kaina įtariamos prekės importo kiekis laikomas nereikšmingu, jei tenkinama bent viena iš šių sąlygų:
+6. Šio straipsnio nuostatos netrukdo pasinaudoti atranka pagal 16 straipsnį.
 
-1) svarstomos prekės importas iš vienos šalies sudaro mažiau kaip 3 procentus viso panašios prekės importo į Lietuvą kiekio, išskyrus, kai panašios prekės importo kiekis atskirai sudaro mažiau kaip 3 procentus, o iš visų užsienio šalių kartu – daugiau kaip 7 procentus viso panašios prekės importo į Lietuvą kiekio;
+7. Jei tiriamas ne rinkos ekonomikos šalyje pagamintos prekės dempingas, visoms importuojamoms į Lietuvos Respublikos muitų teritoriją tos šalies kilmę turinčioms svarstomoms prekėms, išskyrus šio straipsnio 8 dalyje numatytus atvejus, nustatomas vienas dempingo skirtumas. Dempingo skirtumas apskaičiuojamas palyginus bendrą šiai šaliai nustatytą normaliąją vertę su viena šiai šaliai nustatyta eksporto kaina. 
 
-2) svarstomos prekės importas iš vienos šalies sudaro mažiau kaip 1 procentą rinkos kiekio, išskyrus, kai bendras tokios prekės importo iš visų užsienio šalių kiekis sudaro 3 ar daugiau procentų Lietuvos Respublikos muitų teritorijoje suvartojamo panašios prekės kiekio.
+8. Individualus dempingo skirtumas gali būti nustatytas ir atskiram ne rinkos ekonomikos šalies eksportuotojui, jeigu:
+
+1) pagal šio Įstatymo 4 straipsnio 21 dalies nuostatas jam gali būti nustatyta individuali normalioji vertė. Šiuo atveju eksportuotojui individualus dempingo skirtumas apskaičiuojamas palyginant jo individualią normaliąją vertę su individualia eksporto kaina;
+
+2) ne rinkos ekonomikos šalies (nenurodytos 4 straipsnio 21 dalyje) eksportuotojas įrodo, kad valstybė nereguliuoja nei įmonės valdymo, nei svarstomos prekės gamybos, nei kainų. Šiuo atveju individualus dempingo skirtumas nustatomas palyginus vieną visai tiriamai ne rinkos ekonomikos šaliai nustatytą normaliąją vertę su pagal 5 straipsnio reikalavimus nustatyta šio eksportuotojo individualia eksporto kaina.
+
+9. Pagal šio straipsnio 8 dalies nuostatas individualus dempingo skirtumas gali būti nustatytas tik tuo atveju, jei to prašo svarstomos prekės gamintojas ar eksportuotojas. Prašymas turi būti pateiktas per institucijos nustatytą laikotarpį atsakymams pagal šio Įstatymo 15 straipsnio 2 dalį pateikti, nurodant svarias priežastis individualiam dempingo skirtumui nustatyti, o prašantysis sudaro sąlygas institucijai patikrinti pateiktus įrodymus. Jei prašymą gamintojo ar eksportuotojo vardu pateikia importuotojas, prašymas laikomas nepakankamai pagrįstu ir individualūs skaičiavimai neatliekami.
  
 
-8 straipsnis. Nutarimo vykdyti tyrimą priėmimas
+8 straipsnis. Žalos nustatymas
 
-1. Konkurencijos taryba, gavusi Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos pasiūlymą patenkinti ar atmesti pateiktą prašymą ir išnagrinėjusi jo pagrįstumą, priima atitinkamą nutarimą. Nutarimas turi būti priimtas per 45 kalendorines dienas nuo prašymo ištirti dempingą pateikimo Valstybinei konkurencijos ir vartotojų teisių gynimo tarnybai.
+1. Reali vietinių gamintojų dėl dempingo patiriama žala pasireiškia neigiamu poveikiu jų ekonominiams rodikliams. 
 
-2. Jei prašymas ištirti dempingą atitinka šio įstatymo 6 straipsnio 1 dalies reikalavimus ir netenkinama nė viena iš 7 straipsnio 3 dalyje nurodytų sąlygų, Konkurencijos taryba priima nutarimą vykdyti tyrimą. Priešingu atveju prašymas atmetamas.
+2. Pagal visus pateiktus įrodymus, vadovaujantis šio straipsnio 3, 4 ir 5 dalių nuostatomis, žala vietiniams gamintojams nustatoma išnagrinėjus šiuos veiksnius:
 
-3. Konkurencijos tarybai priėmus nutarimą vykdyti tyrimą, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba šio įstatymo 36 straipsnio 3 dalyje nustatyta tvarka turi apie tai paskelbti „Valstybės žiniose“ ir pranešti žinomoms suinteresuotosioms šalims bei prašymo ištirti dempingą pateikėjams, o prašymo tekstą pateikti visiems žinomiems svarstomos prekės eksportuotojams bei eksportuojančių šalių vyriausybėms. Jei dėl eksportuotojų gausumo prašymo tekstą sunku pateikti, jis gali būti pateiktas tik eksportuojančių šalių vyriausybėms ar atitinkamoms prekybos ir verslo asociacijoms.
+1) svarstomos prekės importo į Lietuvos Respublikos muitų teritoriją kiekius bei šio importo poveikį panašių prekių kainoms vidaus rinkoje;
 
-4. Dėl tyrimo neturi būti stabdomos ar ribojamos dempingo kaina įtariamos prekės importo procedūros.
+2) svarstomos prekės importo poveikį vietinių gamintojų būklei.
 
-5. Apie Konkurencijos tarybos priimtą nutarimą nevykdyti tyrimo Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba per 45 kalendorines dienas nuo prašymo pateikimo turi pranešti prašymo pateikėjui.
+3. Nagrinėjant svarstomos prekės importo poveikį, turi būti nustatyta, ar svarstomos prekės importas labai padidėjo natūrine išraiška arba palyginti su panašios prekės gamybos kiekiu, arba palyginti su suvartojimu Lietuvos Respublikos muitų teritorijoje.
+
+4. Nagrinėjant svarstomos prekės importo poveikį panašių prekių kainoms vidaus rinkoje, turi būti nustatyta:
+
+1) ar svarstoma prekė buvo parduodama daug mažesnėmis kainomis, negu vietinių gamintojų gaminama panaši prekė, arba
+
+2) ar dėl svarstomos prekės importo vietiniai gamintojai buvo priversti labai mažinti panašios prekės kainas arba negalėjo jų didinti, kas kitomis aplinkybėmis būtų padaryta.
+
+5. Nagrinėjant svarstomos prekės importo poveikį vietiniams gamintojams, turi būti atsižvelgta į visus svarbius ekonominius veiksnius ir rodiklius, apibūdinančius vietinių gamintojų (ūkio šakos) būklę, tarp jų:
+
+1) vietinių gamintojų pastangas atsigauti po dempingo ir subsidijuoto importo praeityje padaryto poveikio;
+
+2) faktinį ir galimą vietinių gamintojų gaminamos panašios prekės gamybos kiekio, parduodamo kiekio, pelno, rinkos dalies, gamybos našumo, investicijų atsipirkimo, gamybinių pajėgumų išnaudojimo sumažėjimą;
+
+3) veiksnius, turinčius įtakos panašios prekės kainoms Lietuvos Respublikos muitų teritorijoje;
+
+4) dempingo skirtumo dydį;
+
+5) faktinį ir galimą neigiamą poveikį grynųjų pinigų srautams, panašios prekės atsargų kiekiui, darbuotojų (tiesiogiai dalyvaujančių šios prekės gamyboje) užimtumui, jų darbo užmokesčiui, panašios prekės gamybos plėtrai, galimybėms didinti kapitalą ir investuoti ir kt.
+
+6. Kai atliekant tyrimą tuo pat metu nagrinėjamas svarstomos prekės importas daugiau kaip iš vienos šalies, šio importo poveikis vertinamas bendrai (atskirai nenagrinėjant svarstomos prekės importo iš kiekvienos šalies poveikio) tik tuomet, kai nustatoma, kad:
+
+1) dempingo skirtumas, apskaičiuotas importui iš kiekvienos šalies, ir svarstomos prekės importo iš kiekvienos šalies kiekis yra reikšmingi (pagal šio Įstatymo 12 straipsnio 6 dalį); 
+
+2) importo poveikį vertinti bendrai yra tikslinga, atsižvelgiant į importuojamų svarstomų prekių konkurencijos ir į importuojamos svarstomos prekės bei vietinių gamintojų gaminamos panašios prekės konkurencijos sąlygas. Kitais atvejais importo poveikis įvertinamas pagal kiekvieną šalį atskirai.
+
+7. Esant šio Įstatymo 9 straipsnio 5 dalyje nustatytoms aplinkybėms, net jei žala dėl dempingo ir nepadaroma didesnei vietinių gamintojų daliai, ji gali būti nustatyta, jei įrodoma, kad:
+
+1) svarstomos prekės importas dempingo kaina yra sukoncentruotas į tokią izoliuotą rinką ir
+
+2) toks importas daro žalą gamintojams, gaminantiems visą arba ne mažiau kaip 80 procentų panašios prekės kiekio toje rinkoje.
+
+8. Kad kitų veiksnių padaryta žala nebūtų vertinama kaip svarstomos prekės importo dempingo kainomis daroma žala, institucija, nustatydama žalą vietiniams gamintojams, turi išnagrinėti ir kitus žinomus veiksnius, tuo pačiu metu darančius neigiamą poveikį vietinių gamintojų būklei, ypač:
+
+1) ne dempingo kainomis parduoto svarstomos prekės importo kiekį ir kainas;
+
+2) panašios prekės paklausos sumažėjimą arba vartojimo pobūdžio pokyčius;
+
+3) prekybą ribojančius veiksnius ir konkurenciją tarp trečiosios šalies ir vietinių gamintojų;
+
+4) technologijos plėtrą, vietinių gamintojų eksporto ir gamybos našumo pokyčius ir kt.
+
+9. Svarstomos prekės importo dempingo kainomis poveikis panašios prekės gamybai turi būti įvertintas, jei prieinami duomenys sudaro galimybę atskirai nustatyti tą gamybą remiantis tokiais kriterijais kaip gamybos procesas, gamintojų parduodamų prekių kiekiai ir gaunamas pelnas. Jei atskirai nustatyti tos gamybos negalima, importo dempingo kainomis poveikis turi būti nustatytas išnagrinėjant kuo siauresnę prekių grupę (į kurią įeina panaši prekė), pagal kurią reikalinga informacija gali būti pateikta. Šios dalies nuostatos taikomos ir šio Įstatymo 9 straipsnio 5 dalyje nurodytais atvejais.
+
+10. Žalos grėsmė turi būti pagrįsta faktiniais duomenimis, o ne vien pareiškimais, prielaidomis ar galimybėmis. Aplinkybių, dėl kurių dempingas sąlygotų žalą, pasikeitimas turi būti aiškiai numatomas ir neišvengiamas.
+
+11. Siekiant nustatyti, ar vietiniams gamintojams gresia žala, turi būti atsižvelgta į tai: 
+
+1) ar svarstomos prekės dempingo kainomis importo į Lietuvos Respublikos muitų teritoriją didėjimo tempas yra spartus ir rodo tendenciją, kad importas gerokai didės;
+
+2) ar eksportuotojo turimi pajėgumai arba neišvengiamas eksportuotojo pajėgumų didėjimas patvirtina svarstomos prekės eksporto į Lietuvos Respublikos muitų teritoriją dempingo kainomis didėjimo tikimybę. Šiuo atveju turi būti atsižvelgta į tai, ar yra kitų potencialių eksporto rinkų ir ar jos prieinamos eksportuotojui;
+
+3) ar svarstoma prekė importuojama tokiomis kainomis, kurios gali priversti vietinius gamintojus labai sumažinti panašios prekės kainas vidaus rinkoje arba neleisti jų didinti, kas priešingu atveju įvyktų, ir kurios tikriausiai padidintų importuojamos svarstomos prekės paklausą;
+
+4) kokios yra svarstomos prekės atsargos ir kita.
+
+12. Šio straipsnio 2, 4, 5, 8 ir 11 dalyse nurodytų veiksnių sąrašas nėra išsamus. Nė vienas iš nurodytų veiksnių atskirai nėra lemiantis priimant vieną ar kitą sprendimą dėl žalos, tačiau jų visuma turi lemti išvadą, kad, jei nebus taikomas antidempingo muitas, svarstomos prekės importas dempingo kainomis ir ateityje darys žalos vietiniams gamintojams.
  
 
-9 straipsnis. Tyrimo trukmė
+9 straipsnis. Vietinių gamintojų nustatymas
 
-Tyrimas, kai tai įmanoma, turi būti baigtas per 1 metus. Visais atvejais tyrimo trukmė negali būti ilgesnė kaip 15 mėnesių nuo nutarimo vykdyti tyrimą įsigaliojimo dienos.
+1. Lietuvos Respublikoje panašią prekę gaminantys gamintojai laikomi vietiniais gamintojais, jei prašymui atlikti dempingo tyrimą pritariančių panašios prekės gamintojų gamyba (išskyrus šio straipsnio 2 ir 5 dalyse nustatytus atvejus) sudaro:
+
+1) daugiau kaip 50 procentų panašios prekės gamybos tų gamintojų, kurie išreiškė savo pritarimą ar nepritarimą dėl tyrimo atlikimo, ir
+
+2) daugiau kaip 25 procentus viso Lietuvos Respublikoje gaminamo panašios prekės kiekio.
+
+2. Kai Lietuvos gamintojai yra susiję su svarstomos prekės eksportuotojais ar importuotojais arba patys yra tokios prekės importuotojai, vietiniais gamintojais laikomi likusieji panašią prekę gaminantys gamintojai ir nustatant, ar tam tikros gamintojų grupės gamybos kiekis sudaro didžiąją visos tų prekių gamybos Lietuvos Respublikos muitų teritorijoje dalį, jų gamybos kiekis neįskaičiuojamas. 
+
+3. Šio straipsnio 2 dalyje nurodytomis aplinkybėmis esant pagrindui manyti, kad susiję gamintojai elgsis kitaip negu nesusiję gamintojai, laikoma, kad gamintojas yra susijęs su eksportuotoju ar importuotoju tik tais atvejais, jeigu:
+
+1) vienas iš jų tiesiogiai ar netiesiogiai kontroliuoja kitą arba
+
+2) abu juos tiesiogiai ar netiesiogiai kontroliuoja trečiasis fizinis ar juridinis asmuo, arba
+
+3) jie abu kartu tiesiogiai ar netiesiogiai kontroliuoja trečiąjį fizinį ar juridinį asmenį.
+
+4. Laikoma, kad gamintojas, eksportuotojas, importuotojas kontroliuoja kitą gamintoją, eksportuotoją, importuotoją tuomet, kai pirmasis turi teisines galimybes varžyti kitą ar jam vadovauti arba pagal faktinę veiklą jo padėtis leidžia tai atlikti.
+
+5. Išimtiniais atvejais (kai svarstomos prekės importas sukoncentruotas tam tikroje izoliuotoje rinkoje ir daro žalos tos izoliuotos rinkos gamintojams) nagrinėjant panašios prekės gamybą, Lietuvos Respublikos muitų teritorija gali būti suskirstyta į dvi ar daugiau rinkų. Kiekvienoje iš šių rinkų esantys panašios prekės gamintojai gali būti laikomi vietiniais gamintojais, jeigu:
+
+1) tokioje rinkoje esantys gamintojai parduoda joje visą jų pagamintų panašių prekių kiekį arba ne mažiau kaip 80 procentų;
+
+2) likusioje Lietuvos Respublikos muitų teritorijos dalyje esantys gamintojai panašios prekės toje rinkoje neparduoda arba taip parduodamų prekių kiekis sudaro mažiau kaip 20 procentų bendro toje rinkoje parduoto panašios prekės kiekio.
+
+6. Kai vietiniais gamintojais (pagal šio straipsnio 5 dalį) laikomi tik tam tikroje Lietuvos Respublikos muitų teritorijos rinkoje esantys gamintojai, svarstomos prekės gamintojams ar eksportuotojams turi būti suteikta galimybė, vadovaujantis penktojo skirsnio nuostatomis, įsipareigoti padidinti kainas arba nutraukti svarstomos prekės dempingo kaina eksportą į tą Lietuvos Respublikos muitų teritorijos dalį. 
+
+7. Šio straipsnio 6 dalyje nustatytu atveju, vertinant valstybės suinteresuotumą antidempingo priemonėmis, turi būti atsižvelgiama į regiono interesus. Jeigu nedelsiant nepasiūlomas tinkamas įsipareigojimas dėl kainos arba susidaro šio Įstatymo 25 straipsnyje numatytos aplinkybės, antidempingo muitas (įskaitant laikinąjį antidempingo muitą) gali būti nustatytas svarstomai prekei, importuojamai į visą Lietuvos Respublikos muitų teritoriją.
  
 
-10 straipsnis. Tyrimo eiga
-
-1. Konkurencijos tarybai priėmus nutarimą vykdyti tyrimą, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba visoms žinomoms tyrimu suinteresuotosioms šalims pateikia klausimynus, kokios informacijos reikia tyrimui.
-
-2. Klausimynus gavusioms suinteresuotosioms šalims turi būti suteikta ne mažiau kaip 30 kalendorinių dienų (skaičiuojant nuo klausimyno gavimo dienos) atsakymams pateikti. Laikoma, kad eksportuotojas klausimyną gauna per 1 savaitę nuo jo išsiuntimo ar perdavimo atitinkamos eksportuojančios šalies diplomatinei atstovybei. Jei klausimyną gavusi suinteresuotoji šalis nurodo ypatingas aplinkybes, dėl kurių negali laiku pateikti atsakymų, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba, atsižvelgdama į tyrimui skirtą laiką, gali pratęsti atsakymui skirtą terminą.
-
-3. Tyrimo metu paprastai vadovaujamasi informacija, apimančia ne trumpesnį kaip 6 mėnesių laikotarpį iki nutarimo vykdyti tyrimą priėmimo. Informacija, susijusi su laikotarpiu po nutarimo vykdyti tyrimą priėmimo, nesvarstoma.
-
-4. Tyrimo metu vadovaujamasi tik raštu pateikta informacija, todėl suinteresuotosios šalys, norinčios, kad būtų atsižvelgta į žodžiu pateiktus paaiškinimus, turi juos pateikti ir raštu. 
-
-5. Jeigu prašymo vykdyti tyrimą pateikėjo ir eksportuotojo informacija yra prieštaringa ar kitais panašiais atvejais Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba gali kreiptis į šalių, susijusių su atliekamu tyrimu, vyriausybes dėl tyrimo vykdymo jų teritorijoje ir, gavusi jų bei su tyrimu susijusių įmonių sutikimą, tyrimą vykdyti. Tyrimo vykdymo kitos šalies teritorijoje procedūras pagal šio įstatymo 3 straipsnį nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
-
-6. Jei suinteresuotoji šalis atsisako pateikti reikalingą informaciją, pateikia informaciją pavėluotai arba pateikia tik jos dalį, arba nustatoma, kad suinteresuotoji šalis pateikė neteisingą informaciją, priimant nutarimus neteisinga informacija atmetama ir vadovaujamasi pateikta informacijos dalimi bei Antidempingo įstatymą vykdančių institucijų turimais įrodymais. Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba turi raštu įspėti suinteresuotąsias šalis apie informacijos nepateikimo arba pavėluoto pateikimo ir neteisingos informacijos pateikimo pasekmes. Tačiau, jei suinteresuotosios šalies pateiktoje informacijoje yra netikslumų, bet juos galima patikrinti, ir dėl to nesusidaro didelių sunkumų ją naudoti, o suinteresuotoji šalis visais įmanomais būdais stengėsi pateikti tinkamą informaciją, pateiktoji informacija neatmetama.
-
-7. Informacijos nepateikimas, kai reikalaujama ją pateikti kompiuterinėse laikmenose, nelaikomas vengimu pateikti informaciją, jei suinteresuotoji šalis įrodo, kad informacijos pateikimas reikalaujama forma sudarytų didelių papildomų sunkumų ar išlaidų.
-
-8. Jei įrodymai ar informacija nepriimami, juos pateikusiai suinteresuotajai šaliai turi būti praneštos nepriėmimo priežastys ir sudarytos sąlygos per pranešime nurodytą laiką pateikti paaiškinimus. Jei šie paaiškinimai laikomi nepakankamais, įrodymų ar informacijos nepriėmimo priežastys turi būti nurodytos 36 straipsnio 2 dalyje išvardytuose nutarimuose.
-
-9. Jei nutarimai yra pagrįsti šio straipsnio 6 dalies nuostatomis, naudojama informacija pagal galimybes turi būti patikrinta, palyginta su informacija, gauta iš kitų prieinamų nepriklausomų šaltinių ar iš kitų suinteresuotųjų šalių.
-
-10. Visos suinteresuotosios šalys, pateikusios prašymus, gali gauti kitų suinteresuotųjų šalių pateiktą su tyrimu susijusią ir tyrimui naudojamą informaciją, įskaitant prašymo ištirti dempingą tekstą. Šia informacija turi būti naudojamasi laikantis šio įstatymo 38 straipsnyje nustatytų informacijos konfidencialumo reikalavimų. Suinteresuotosios šalys gali teikti paaiškinimus dėl pateiktos informacijos, tačiau atsižvelgiama tik į įrodymais pagrįstus paaiškinimus.
-
-11. Suinteresuotąsias šalis, pateikusias prašymus raštu, privalo išklausyti tyrimą vykdančios institucijos.
-
-12. Jei suinteresuotosios šalys pageidauja, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba organizuoja suinteresuotųjų šalių, turinčių priešingus interesus, konsultacijas. Konsultacijų metu šalys gali pasikeisti nuomonėmis ir pateikti savo argumentus, tačiau dalyvauti šiose konsultacijose jos neprivalo.
-
-13. Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba turi teisę gauti iš Lietuvos valstybės valdymo ir savivaldos institucijų bei ūkio subjektų, susijusių su vykdomu tyrimu, informaciją, ūkinės ir finansinės veiklos dokumentus, vadovų ir kitų darbuotojų raštiškus paaiškinimus, reikalingus tyrimui vykdyti.
+TREČIASIS SKIRSNIS
+DEMPINGO TYRIMAS
  
 
-11 straipsnis. Reikalavimas nustatyti dempingo skirtumą
+10 straipsnis. Tyrimo inicijavimas
 
-Tyrimo metu turi būti nustatytas dempingo skirtumas atskirai kiekvienam žinomam nagrinėjamos prekės eksportuotojui, išskyrus šio įstatymo 12 straipsnyje nustatytus atvejus.
+1. Tyrimas nustatyti dempingą, jo mastą ir poveikį pradedamas, kai institucija vietinių gamintojų vardu gauna raštišką prašymą, atitinkantį šio Įstatymo 11 straipsnio reikalavimus, ir priima sprendimą atlikti tyrimą.
+
+2. Pateikti prašymą vietinių gamintojų vardu, kaip tai apibrėžta šio Įstatymo 12 straipsnio 3 dalyje, gali fizinis ar juridinis asmuo ar jiems atstovaujančios asociacijos.
+
+3. Išimtiniais atvejais, kai tyrimo negalima inicijuoti pagal vietinių gamintojų prašymą, tyrimas gali būti pradedamas pagal ministerijos (ministerijų), kurios valdymo sričiai yra priskirta svarstomos prekės gamyba, prašymą arba asociacijų, atstovaujančių vietiniams gamintojams, prašymą, kuriame turi būti pateikti šio Įstatymo 11 straipsnyje nurodyti įrodymai. 
  
 
-12 straipsnis. Tyrimo masto apribojimas
+11 straipsnis. Prašymas atlikti tyrimą
 
-1. Kai eksportuotojų, importuotojų skaičius, svarstomos prekės tipų ar sandorių, kurių objektas yra ši prekė, skaičius yra toks didelis, kad dempingo skirtumą nustatyti atskirai kiekvienam žinomam eksportuotojui netikslinga, Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos sprendimu tyrimas gali būti apribojamas.
+1. Prašyme atlikti tyrimą turi būti išdėstyti dempingo, vietinio gamintojo patiriamos žalos ir priežastinio ryšio tarp svarstomos prekės importo ir vietinio gamintojo patiriamos žalos įrodymai. Kartu su prašymu atlikti tyrimą kaip atskiri priedai turi būti pateikti šie duomenys (jei jie yra prieinami prašymo pateikėjui):
 
-2. Tyrimas gali būti apribojamas šiais būdais:
+1) prašymo pateikėjo (pateikėjų) – fizinio asmens vardas, pavardė, adresas ir telefonas (juridinio asmens pavadinimas, įmonės kodas, buveinės adresas ir telefonas), žinomų panašios prekės Lietuvos gamintojų (ar panašios prekės gamintojų asociacijų Lietuvoje) sąrašas; 
+
+2) kai prašymo pateikėjo panašios prekės gamybos kiekis nesudaro šio Įstatymo 9 straipsnio 1 dalyje nustatyto kiekio, pateikėjas turi kreiptis į kitus panašią prekę gaminančius vietinius gamintojus, kad jie raštu pritartų prašymui atlikti tyrimą. Pritarimuose, kurie kartu su prašymu pateikiami institucijai, turi būti nurodytas ir kiekvieno iš pritariančių gamintojų panašios prekės gamybos Lietuvos Respublikos muitų teritorijoje dydis natūrine ir vertine išraiška, taip pat nurodyta, kokią visos panašios prekės gamybos Lietuvos Respublikos muitų teritorijoje dalį tai sudaro;
+
+3) detalus svarstomos prekės aprašymas (įskaitant fizines, technines, chemines charakteristikas bei vartojamąsias savybes) ir kodas pagal Lietuvos Respublikos kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklatūrą;
+
+4) svarstomą prekę eksportuojančių šalių pavadinimai;
+
+5) visų žinomų svarstomos prekės užsienio gamintojų ir (ar) eksportuotojų pavadinimai ir adresai;
+
+6) visų žinomų svarstomos prekės importuotojų pavadinimai ir adresai;
+
+7) duomenys, reikalingi normaliajai vertei nustatyti pagal svarstomos prekės pardavimo kainas jos kilmės ir (ar) eksportuojančių šalių rinkose, arba, kai prekės normalioji vertė, prašymo pateikėjo nuomone, nustatytina kitais šio Įstatymo 4 straipsnyje nurodytais būdais, – duomenys, reikalingi normaliajai vertei nustatyti tam tikru būdu;
+
+8) duomenys, reikalingi eksporto kainai nustatyti;
+
+9) duomenys apie svarstomos prekės importo kiekio pasikeitimus, importo poveikį panašios prekės kainoms Lietuvos rinkoje bei neigiamą poveikį vietiniams gamintojams (pagal šio Įstatymo 8 straipsnyje nustatytus vietinių gamintojų būklę apibūdinančius ekonominius veiksnius ir rodiklius).
+
+2. Kartu su prašymu atlikti tyrimą, be šio straipsnio 1 dalyje nustatytų duomenų, turi būti pateikti ir kiti prašymo pagrįstumą patvirtinantys dokumentai. Taip pat turi būti pateikta nekonfidenciali prašymo atlikti tyrimą santrauka.
+
+3. Iki sprendimo atlikti tyrimą priėmimo informacija apie gautą prašymą viešai neskelbiama, tačiau prieš pradėdama tyrimą institucija apie gautą prašymą atlikti tyrimą bei šio Įstatymo 10 straipsnio 3 dalyje nurodytu atveju diplomatiniais kanalais praneša svarstomos prekės kilmės ar eksportuojančių šalių vyriausybėms.
+ 
+
+12 straipsnis. Prašymo atlikti tyrimą nagrinėjimas
+
+1. Institucija, gavusi prašymą atlikti tyrimą, patikrina, ar prašymas pateiktas vietinių gamintojų vardu, kaip nustatyta šio straipsnio 3 dalyje, ar prašymas atitinka 11 straipsnio reikalavimus, išnagrinėja jame pateiktus įrodymus ir nustato, ar jų pakanka tyrimo atlikimui pagrįsti. Jei bent viena iš nurodytų sąlygų netenkinama, institucija praneša apie tai prašymo pateikėjui ir nustato terminą trūkumams pašalinti. Jei prašymo pateikėjas per institucijos nustatytą terminą nurodytų trūkumų nepašalina arba ir papildomai pateikta informacija negalima pagrįsti dempingo tyrimo atlikimo tikslingumo, kaip nustatyta šio Įstatymo 11 straipsnio 1 dalyje, institucija priima sprendimą tyrimo neatlikti.
+
+2. Jei prašymo pateikėjo panašios prekės gamybos kiekis nesudaro šio Įstatymo 9 straipsnio 1 dalyje nustatyto kiekio ir jis dėl objektyvių priežasčių negali pateikti pakankamai kitų panašios prekės vietinių gamintojų rašytinių pritarimų prašymui atlikti tyrimą, institucija per 30 kalendorinių dienų nuo prašymo atlikti tyrimą gavimo gali raštu apklausti kitus panašią prekę gaminančius vietinius gamintojus, ar jie pritaria šiam prašymui.
+
+3. Prašymas laikomas pateiktu vietinių gamintojų vardu, jei prašymo pateikėjo ir prašymui pritarusių gamintojų panašios prekės gamybos kiekis sudaro šio Įstatymo 9 straipsnio 1 dalyje nustatytą gamybos kiekį.
+
+4. Tyrimas neatliekamas, jeigu išnagrinėjus prašymą ir apklausus vietinius gamintojus nustatoma, kad:
+
+1) prašymo negalima laikyti pateiktu vietinių gamintojų vardu, nes pagal šio straipsnio 3 dalies sąlygas jam pritariančių gamintojų panašios prekės gamybos kiekis nesudaro nustatyto kiekio;
+
+2) prašyme išdėstytų dempingo, žalos ir priežastinio ryšio tarp svarstomos prekės importo ir vietinių gamintojų patiriamos žalos įrodymų nepakanka tyrimo atlikimui pagrįsti;
+
+3) dempingo skirtumas ar (ir) svarstomos prekės importo kiekis (faktinis ar galimas) pagal šio straipsnio 5 dalį yra nereikšmingi.
+
+5. Dempingo skirtumas yra nereikšmingas, jei jis sudaro mažiau kaip 2 procentus svarstomos prekės eksporto kainos. Svarstomos prekės importo kiekis laikomas nereikšmingu, jei tenkinama bent viena iš šių sąlygų:
+
+1) svarstomos prekės importas iš vienos šalies sudaro mažiau kaip 3 procentus viso panašios prekės importo į Lietuvos Respublikos muitų teritoriją kiekio, išskyrus, kai svarstomos prekės importo kiekis atskirai sudaro mažiau kaip 3 procentus, o iš tokių užsienio šalių kartu – daugiau kaip 7 procentus viso svarstomos prekės importo į Lietuvos Respublikos muitų teritoriją kiekio;
+
+2) svarstomos prekės importas iš vienos šalies sudaro mažiau kaip 1 procentą Lietuvos rinkoje suvartojamo kiekio, išskyrus, kai svarstomos prekės importo kiekis atskirai sudaro mažiau kaip 1 procentą, o iš tokių užsienio šalių kartu – 3 procentus ar daugiau Lietuvos Respublikos muitų teritorijoje suvartojamo panašios prekės kiekio.
+
+6. Priešingu atveju, nei nustatyta šio straipsnio 5 dalyje, dempingo skirtumas ir svarstomos prekės importas laikomi reikšmingais.
+ 
+
+13 straipsnis. Sprendimo atlikti tyrimą priėmimas
+
+1. Institucija, išnagrinėjusi gautą prašymą ir kartu pateiktą informaciją, ne vėliau kaip per 45 kalendorines dienas nuo prašymo gavimo priima sprendimą atlikti tyrimą arba jo neatlikti ir apie tai praneša prašymo pateikėjui (pateikėjams).
+
+2. Jei prašymas atlikti tyrimą pateiktas vietinių gamintojų ir jis atitinka šio Įstatymo 11 straipsnio 1 dalies reikalavimus ir jei nėra tenkinama nė viena šio Įstatymo 12 straipsnio 4 ir 5 dalyse nustatytų sąlygų, institucija priima sprendimą atlikti tyrimą, kitu atveju – neatlikti tyrimo.
+
+3. Institucija, priėmusi sprendimą atlikti tyrimą, šio Įstatymo 39 straipsnyje nustatyta tvarka apie tai paskelbia „Valstybės žinių“ priede „Informaciniai pranešimai“ ir praneša žinomoms suinteresuotosioms šalims. Nepažeidžiant šio Įstatymo 41 straipsnio nuostatų, prašymo tekstas turi būti pateiktas visiems žinomiems svarstomos prekės eksportuotojams ir eksportuojančių šalių vyriausybėms. Jei svarstomos prekės gamintojų ar eksportuotojų yra daug, prašymo atlikti tyrimą tekstas gali būti pateiktas tik eksportuojančių šalių vyriausybėms ar atitinkamoms prekybos ir verslo asociacijoms.
+
+4. Dėl tyrimo neturi būti stabdomos ar ribojamos svarstomos prekės importo procedūros.
+ 
+
+14 straipsnis. Tyrimo trukmė
+
+Tyrimas paprastai turi būti baigtas per 1 metus. Prireikus institucijos sprendimu dėl naujų svarbių objektyvių priežasčių tyrimo trukmė gali būti pratęsta, tačiau ne ilgiau kaip 6 mėnesiams. 
+ 
+
+15 straipsnis. Tyrimo eiga
+
+1. Institucija, priėmusi sprendimą atlikti tyrimą, visiems žinomiems vietiniams gamintojams, importuotojams, užsienio gamintojams bei eksportuotojams parengia ir pateikia atitinkamus klausimynus, kuriuose nurodoma, kokios informacijos reikia tyrimui.
+
+2. Klausimynus gavusioms suinteresuotosioms šalims turi būti skirta ne mažiau kaip 30 kalendorinių dienų (skaičiuojant nuo klausimyno gavimo dienos) atsakymams pateikti. Laikoma, kad eksportuotojas klausimyną gauna per 1 savaitę nuo jo išsiuntimo ar perdavimo atitinkamos eksportuojančios šalies diplomatinei atstovybei. Jei klausimyną gavusi suinteresuotoji šalis nurodo svarbias aplinkybes, dėl kurių negali laiku pateikti atsakymų, institucija, atsižvelgdama į tyrimui skirtą laiką, gali pratęsti atsakymui skirtą terminą.
+
+3. Atliekant tyrimą paprastai nagrinėjami tiriamojo laikotarpio, kurio patikimus finansinius bei kitus tyrimui reikalingus duomenis galima surinkti, duomenys. Tiriamasis laikotarpis yra nurodomas institucijos sprendime atlikti tyrimą. Dempingo daromai žalai įvertinti nagrinėjami trejų ankstesnių metų duomenys. Informacija, susijusi su laikotarpiu po sprendimo atlikti tyrimą priėmimo, nesvarstoma.
+
+4. Tyrimo metu vadovaujamasi tik raštu pateikta informacija.
+
+5. Norėdama patikrinti suinteresuotųjų šalių pateiktą informaciją, kai prašymo pateikėjo (pateikėjų), kitų suinteresuotųjų šalių pateikta informacija ar iš kitų šaltinių gauta informacija yra prieštaringa arba kai reikia išsamesnės informacijos, institucija gali kreiptis į prekės kilmės ar eksportuojančios šalies vyriausybę prašydama leisti jos teritorijoje atlikti tyrimą ir, gavusi jos bei su tyrimu susijusios įmonės (svarstomos prekės užsienio gamintojo ar eksportuotojo) sutikimą, tyrimą atlikti. Tyrimas prekės kilmės ar eksportuojančios šalies teritorijoje atliekamas vadovaujantis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+
+6. Institucija, vadovaudamasi šio straipsnio 5 dalies nuostatomis, gali organizuoti apsilankymus su tyrimu susijusių įmonių veiklos vietose, kad galėtų patikrinti svarstomos prekės užsienio gamintojų, eksportuotojų, importuotojų, prekybininkų (jų pačių ar jų atstovų), jiems atstovaujančių asociacijų pateiktus duomenis (pirminius duomenis ir dokumentus) bei pateiktą informaciją. Tokie apsilankymai galimi tik tuomet, jei į klausimyną buvo atsakyta tinkamai ir laiku. Prieš apsilankymą atitinkamoms įmonėms turi būti pranešta, kokie duomenys bus tikrinami ir kokią informaciją reikės pateikti papildomai apsilankymo metu. Šis reikalavimas neriboja galimybės apsilankymo metu prašyti detalizuoti pateiktą informaciją ir pateikti papildomą informaciją. Apsilankymų metu institucijos prašymu jai gali talkinti prekės kilmės ar eksportuojančios šalies, kurioje atliekamas tyrimas, pareigūnai.
+
+7. Jei suinteresuotoji šalis nebendradarbiauja su tyrimą atliekančia institucija, trukdo atlikti tyrimą, atsisako pateikti reikalingą informaciją, ją pateikia pavėluotai arba pateikia tik jos dalį, arba nustatoma, kad suinteresuotoji šalis pateikė neteisingą informaciją, priimant sprendimus neteisinga informacija atmetama ir vadovaujamasi pateikta informacijos dalimi bei institucijos turimais įrodymais. Tokiu būdu institucijos priimtas sprendimas gali būti mažiau palankus šiai šaliai, nei tas, kuris būtų, jei šalis būtų bendradarbiavusi. Institucija sprendime atlikti tyrimą turi raštu įspėti suinteresuotąsias šalis apie galimas nebendradarbiavimo pasekmes. Tačiau jei suinteresuotosios šalies pateiktoje informacijoje yra netikslumų, bet juos galima patikrinti ir dėl to nesusidaro didelių sunkumų informaciją naudoti, o suinteresuotoji šalis visais įmanomais būdais stengėsi pateikti tinkamą informaciją, pateiktoji informacija neatmetama.
+
+8. Informacijos nepateikimas, kai reikalaujama ją pateikti kompiuterinėse laikmenose, nelaikomas vengimu pateikti informaciją, jei suinteresuotoji šalis įrodo, kad informacijos pateikimas reikalaujama forma sudarytų didelių papildomų sunkumų ar išlaidų.
+
+9. Jei įrodymai ar informacija nepriimami, juos pateikusiai suinteresuotajai šaliai turi būti praneštos nepriėmimo priežastys ir sudarytos sąlygos per pranešime nurodytą laiką pateikti paaiškinimus. Jei šie paaiškinimai laikomi nepakankamais, įrodymų ar informacijos nepriėmimo priežastys turi būti nurodytos šio Įstatymo 39 straipsnio 2 dalyje išvardytuose institucijos sprendimuose ir Vyriausybei teikiamuose siūlymuose.
+
+10. Šio straipsnio 7 dalyje nurodytais atvejais informacija, naudojama priimant sprendimus ir rengiant siūlymus Vyriausybei, pagal galimybes turi būti patikrinta atsižvelgiant į informaciją, gautą iš kitų prieinamų nepriklausomų šaltinių ar iš kitų suinteresuotųjų šalių. Priimant sprendimus vertinama tik įrodymais pagrįsta informacija.
+
+11. Visos suinteresuotosios šalys, pateikusios prašymus, gali gauti kitų suinteresuotųjų šalių pateiktą su tyrimu susijusią ir tyrimui naudojamą informaciją, taip pat ir prašymo atlikti tyrimą teksto nekonfidencialią santrauką. Ši informacija turi būti suteikiama laikantis šio Įstatymo 41 straipsnyje nustatytų informacijos konfidencialumo reikalavimų. Suinteresuotosios šalys gali teikti paaiškinimus dėl pateiktos informacijos, tačiau atsižvelgiama tik į įrodymais pagrįstus paaiškinimus.
+
+12. Jei suinteresuotoji šalis per institucijos sprendime atlikti tyrimą nustatytą terminą raštu pranešė apie savo suinteresuotumą atliekamu tyrimu ir pateikė prašymą dėl konsultacijų, institucija organizuoja tokias konsultacijas. Prašyme turi būti nurodyta, kokios įtakos prašymą pateikusiai suinteresuotajai šaliai gali padaryti tyrimo rezultatai, taip pat kitos svarbios aplinkybės, dėl kurių ji turėtų būti išklausyta. Konsultacijų metu suinteresuotoji šalis gali pateikti savo argumentus ir paaiškinimus dėl jos institucijai pateiktos informacijos.
+
+13. Jei suinteresuotosios šalys, pranešusios institucijai apie suinteresuotumą atliekamu tyrimu, prašo organizuoti susitikimą su priešingus interesus turinčiomis kitomis suinteresuotomis šalimis, institucija organizuoja tokį susitikimą. Jo metu šalys gali pasikeisti nuomonėmis ir ginti savo interesus, tačiau suinteresuotosioms šalims dalyvauti tokiame susitikime neprivaloma.
+
+14. Institucija turi teisę gauti iš Lietuvos valstybės ir savivaldybių institucijų bei fizinių ir juridinių asmenų, suinteresuotų atliekamu tyrimu, informaciją, ūkinės ir finansinės veiklos dokumentus, vadovų ir kitų darbuotojų raštiškus paaiškinimus, reikalingus tyrimui atlikti.
+
+15. Jei institucija turi duomenų, kad svarstomos prekės importo dempingo kaina mastas yra labai didelis arba kad priimtas įsipareigojimas dėl kainos yra pažeidžiamas ar atsiimtas, taip pat tuo atveju, kai svarstoma prekė importuojama iš naujo eksportuotojo, kuris nebuvo nagrinėtas tyrimo metu bei tuo atveju, kai antidempingo muito bandoma išvengti, institucija gali kreiptis į Muitinės departamentą prie Finansų ministerijos su prašymu kaupti prieinamą detalią informaciją apie tokios prekės importą. Tokia informacija apie svarstomos prekės importą paprastai turi būti kaupiama ne ilgiau kaip 9 mėnesius.
+ 
+
+16 straipsnis. Tyrimo masto apribojimas
+
+1. Kiekvienam žinomam svarstomos prekės eksportuotojui ar gamintojui tyrimo metu turi būti nustatytas individualus dempingo skirtumas, išskyrus, kai institucija tyrimą apriboja pagal kitose šio straipsnio dalyse išdėstytas nuostatas arba kai pagal šio Įstatymo 7 straipsnio 7 dalies nuostatas vienas dempingo skirtumas nustatomas visoms ne rinkos ekonomikos šalies kilmę turinčioms į Lietuvos Respublikos muitų teritoriją importuojamoms svarstomoms prekėms. 
+
+2. Kai svarstomos prekės užsienio gamintojų, eksportuotojų, importuotojų skaičius arba svarstomos prekės rūšių ar sandorių, kurių objektas yra ši prekė, skaičius yra didelis, tam, kad tyrimą būtų galima užbaigti per nustatytą laiką, institucijos sprendimu tyrimas gali būti apribotas.
+
+3. Tyrimas gali būti apribotas šiais būdais:
 
 1) nagrinėjamos pagrįstos, per tyrimo laikotarpį aprėpiamos eksportuotojų, importuotojų, prekių tipų ar sandorių atrankos;
 
 2) tyrimas apribojamas iki didžiausio per tyrimo laikotarpį įmanomo ištirti eksporto iš tam tikros šalies kiekio.
 
-3. Šio straipsnio 2 dalies 1 punkte nurodytos eksportuotojų, importuotojų prekių ar sandorių atrankos turi būti statistiškai pagrįstos atrankos metu turima informacija. Sprendimą dėl atrankų priima Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba. Pirmenybė teikiama atrankoms, atliekamoms konsultuojantis su suinteresuotomis šalimis, kurios per tris savaites nuo tyrimo pradžios praneša apie save ir pateikia pakankamai informacijos, kad būtų galima atlikti tipiškas atrankas, bei išreiškia savo sutikimą dėl šių atrankų.
+4. Šio straipsnio 3 dalies 1 punkte nurodytos eksportuotojų, importuotojų prekių ar sandorių atrankos turi būti statistiškai pagrįstos atrankos metu turima informacija. Pirmenybė teikiama atrankai, atliekamai konsultuojantis su suinteresuotomis šalimis, jei šalys per tris savaites nuo tyrimo pradžios praneša apie save ir pateikia pakankamai informacijos, kad būtų galima atlikti tipišką atranką, bei išreiškia savo sutikimą dėl šios atrankos.
 
-4. Jei eksportuotojai, nebuvę atrinkti tyrimo pradžioje, pateikia reikalingą informaciją tokiu laiku, kad ją galima nagrinėti tyrimo metu, jiems turi būti nustatytas individualus dempingo skirtumas, išskyrus, jei dėl šių eksportuotojų gausumo atskirų atvejų tyrimai labai apsunkintų tyrimą ir trukdytų jį laiku baigti.
+5. Jeigu eksportuotojai, nebuvę atrinkti tyrimo pradžioje, pateikia reikalingą informaciją tokiu laiku, kad ją galima nagrinėti tyrimo metu, jiems turi būti nustatytas individualus dempingo skirtumas, jei kitos šio Įstatymo nuostatos tam neprieštarauja, išskyrus, kai dėl šių eksportuotojų gausumo atskirų atvejų tyrimai labai apsunkintų tyrimą ir trukdytų jį laiku baigti.
  
 
-13 straipsnis. Galutinio Konkurencijos tarybos nutarimo priėmimas
-
-1. Prieš Konkurencijos tarybai priimant galutinį nutarimą, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba šio įstatymo 37 straipsnio 2, 3, 4, 5, 6 dalyse nustatyta tvarka turi sudaryti galimybę visoms suinteresuotosioms šalims gauti informaciją apie esminius faktus, pagal kuriuos bus sprendžiama, ar taikyti antidempingo muitą, ar netaikyti.
-
-2. Konkurencijos taryba, vadovaudamasi šio įstatymo 24 ir 25 straipsnių reikalavimais ir Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos išnagrinėta tyrimo metu surinkta informacija bei pateiktais siūlymais, priima galutinį nutarimą taikyti antidempingo muitą ar jo netaikyti bei nustato muito dydį.
-
-3. Konkurencijos tarybai priėmus galutinį nutarimą taikyti antidempingo muitą ar jo netaikyti, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba turi jį paskelbti šio įstatymo 36 straipsnyje nustatyta tvarka.
- 
-
-14 straipsnis. Tyrimo baigimas
+17 straipsnis. Tyrimo baigimas
 
 Tyrimas baigiamas, kai:
 
-1) yra patvirtintas dempingo skirtumas, žala ir jų priežastinis ryšys, priimtas galutinis nutarimas taikyti antidempingo muitą ir nustatytas šio muito dydis;
+1) tyrimo išvadomis patvirtintas dempingas, žala bei priežastinis ryšys tarp svarstomos prekės importo ir vietinių gamintojų patiriamos žalos ir yra priimtas Vyriausybės nutarimas taikyti antidempingo muitą (įskaitant antidempingo muito taikymą prekėms, importuotoms per tyrimo laikotarpį) bei nustatytas šio muito dydis;
 
-2) atsižvelgiant į dempingo skirtumą ir žalą bei į Lietuvos valstybės interesus, priimtas galutinis nutarimas netaikyti antidempingo muito;
+2) dempingo skirtumas ir (ar) žala nenustatyti ir (ar) nėra priežastinio ryšio tarp svarstomos prekės importo bei vietinių gamintojų patiriamos žalos arba dempingo skirtumas ar svarstomos prekės importo kiekis yra nereikšmingi pagal šio Įstatymo 12 straipsnio 5 dalį, ir atsižvelgiant į valstybės interesus netikslinga taikyti antidempingo muito;
 
-3) Konkurencijos taryba priima galutinį nutarimą netaikyti antidempingo muito, jeigu tyrimo metu nustatyta, kad dempingo skirtumo ar žalos nėra, arba jei dempingo skirtumas ar prekės dempingo kaina importo kiekis yra nereikšmingi, kaip tai apibrėžta šio įstatymo 7 straipsnio 5 dalyje;
-
-4) prašymo ištirti dempingą pateikėjas atsiima prašymą ir Konkurencijos taryba nusprendžia, kad tyrimo nutraukimas ir antidempingo priemonių netaikymas atitinka Lietuvos valstybės interesus, kaip tai apibrėžta šio įstatymo 24 straipsnio 2 dalyje.
- 
-
-TREČIASIS SKIRSNIS
-LAIKINOSIOS ANTIDEMPINGO PRIEMONĖS IR JŲ TAIKYMAS
- 
-
-15 straipsnis. Laikinųjų muitų taikymo sąlygos
-
-Tyrimo metu dempingo kaina įtariamos prekės importui gali būti taikomas laikinasis muitas, jei tenkinamos visos šios sąlygos:
-
-1) apie tyrimo vykdymą buvo paskelbta šio įstatymo 36 straipsnio 3 dalyje nustatyta tvarka ir suinteresuotosioms šalims buvo suteiktos galimybės pateikti informaciją bei paaiškinimus;
-
-2) preliminariai nustatyti dempingo skirtumas ir žala;
-
-3) Konkurencijos taryba nusprendė, kad laikinasis muitas būtinas norint išvengti žalos, kuri dėl dempingo būtų padaryta tyrimo laikotarpiu.
- 
-
-16 straipsnis. Nutarimo taikyti laikinąjį muitą priėmimas
-
-1. Nutarimą taikyti laikinąjį muitą priima ir šio muito dydį nustato Konkurencijos taryba.
-
-2. Laikinojo muito dydis neturi viršyti preliminariai nustatyto dempingo skirtumo ir turi būti mažesnis už jį, jei šis mažesnis muito dydis yra pakankamas, kad pašalintų žalą vietiniams gamintojams.
-
-3. Konkurencijos tarybai priėmus nutarimą taikyti laikinąjį muitą, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba turi apie tai paskelbti šio įstatymo 36 straipsnio 4 dalyje nustatyta tvarka.
-
-4. Laikinasis muitas gali būti pradėtas taikyti ne anksčiau kaip praėjus 60 kalendorinių dienų ir ne vėliau kaip po 9 mėnesių nuo nutarimo vykdyti tyrimą įsigaliojimo dienos.
- 
-
-17 straipsnis. Laikinųjų muitų taikymas
-
-1. Laikinasis muitas gali būti taikomas 6 mėnesius. Konkurencijos tarybos nutarimu laikinojo muito taikymas gali būti pratęstas dar 3 mėnesiams, jei dempingo kaina įtariamos prekės eksportuotojai su tuo sutinka ir jų eksportuojamų į Lietuvos Respublikos muitų teritoriją tokių prekių kiekis sudaro ne mažiau kaip 1/2 bendro šių prekių importo į Lietuvos Respublikos muitų teritoriją kiekio. Jeigu eksportuotojas sutinka, laikinasis muitas gali būti iš karto įvestas 9 mėnesiams.
-
-2. Laikinasis muitas gali būti taikomas tik toms panašioms prekėms, kurios išleidžiamoms laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje nuo nutarimo jį taikyti įsigaliojimo dienos.
- 
-
-18 straipsnis. Laikinųjų muitų sumokėjimo užtikrinimas
-
-Konkurencijos tarybai priėmus nutarimą taikyti laikinąjį muitą, panašios prekės išleidžiamos laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje, tik kai yra sumokėtas laikinasis muitas arba kai muitinei yra pateikta garantija, jog laikinasis muitas bus sumokėtas. Garantija pateikiama Lietuvos Respublikos muitinės kodekso nustatyta tvarka. Garantijos dydį nustato muitinė. Laikinasis muitas turi būti sumokėtas arba išieškotas Lietuvos Respublikos muitinės kodekso nustatyta tvarka.
+3) prašymo pateikėjas atsiima prašymą atlikti tyrimą ir institucija nusprendžia, kad tyrimo baigimas ir antidempingo muito netaikymas atitinka valstybės interesus.
  
 
 KETVIRTASIS SKIRSNIS
-ĮSIPAREIGOJIMŲ DĖL KAINOS PRIĖMIMO PROCEDŪROS
+LAIKINASIS ANTIDEMPINGO MUITAS IR JO TAIKYMAS
  
 
-19 straipsnis. Įsipareigojimų dėl kainos priėmimas
+18 straipsnis. Laikinojo antidempingo muito taikymo sąlygos
 
-1. Tyrimų metu kiekvienas dempingo kaina įtariamos prekės eksportuotojas gali savo iniciatyva arba Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos siūlymu įsipareigoti padidinti kainą arba nutraukti šios prekės eksportą. Tačiau eksportuotojas neprivalo priimti įsipareigojimo dėl kainos.
+1. Tyrimo metu importuojamoms svarstomoms prekėms gali būti taikomas laikinasis antidempingo muitas, jei tenkinamos visos šios sąlygos:
 
-2. Pagal 1 dalyje nurodytą įsipareigojimą kaina turi būti padidinama suma, ne didesne negu reikia dempingo skirtumui pašalinti, bet mažesne negu dempingo skirtumas, jei tokio padidinimo pakanka, kad būtų pašalinta žala vietiniams gamintojams.
+1) tyrimas inicijuotas bei pradinės tyrimo procedūros buvo atliekamos vadovaujantis šio Įstatymo 10–14 straipsnių nuostatomis, apie tyrimo atlikimą buvo paskelbta šio Įstatymo 39 straipsnyje nustatyta tvarka, buvo pranešta suinteresuotosioms šalims ir sudarytos galimybės pateikti informaciją bei paaiškinimus;
 
-3. Eksportuotojo įsipareigojimas dėl kainos negali būti priimtas, jei nėra preliminariai ar galutinai nustatyta, kad yra dempingas ir žala vietiniams gamintojams.
+2) preliminariai nustatyti dempingo faktas, žala, priežastinis ryšys tarp svarstomos prekės importo ir vietinių gamintojų patiriamos žalos bei dempingo skirtumas;
 
-4. Jei eksportuotojo įsipareigojimas dėl kainos yra pateikiamas pasibaigus šio įstatymo 37 straipsnio 6 dalyje nustatytam laikotarpiui, jis nepriimamas, išskyrus atvejus, kai Konkurencijos taryba dėl ypatingų aplinkybių, susidariusių Lietuvos ekonomikoje ar eksportuotojui, nusprendžia įsipareigojimą priimti.
+3) laikinojo antidempingo muito taikymas atitinka Lietuvos valstybės interesus ir yra būtinas norint išvengti žalos, kuri dėl dempingo būtų padaryta tyrimo laikotarpiu.
 
-5. Siūlomo įsipareigojimo dėl kainos Konkurencijos taryba gali nepriimti, jeigu įsipareigojimo priėmimą laiko nepraktišku dėl per didelio esamų ar galimų eksportuotojų skaičiaus ar dėl bet kurių kitų priežasčių, įskaitant valstybės vykdomą politiką. Tokiais atvejais, jei įmanoma, eksportuotojui turi būti praneštos įsipareigojimo nepriėmimo priežastys ir sudaryta galimybė dėl jų pateikti pastabas. Į šias pastabas Konkurencijos taryba atsižvelgti neprivalo.
+2. Jei tai pačiai svarstomai prekei, kad būtų pašalinta žala vietiniams gamintojams, yra nustatytas ar jau taikomas kompensacinis muitas (įskaitant laikinąjį kompensacinį muitą), laikinasis antidempingo muitas negali būti taikomas, net jei tenkinamos visos šio straipsnio 1 dalyje nurodytos sąlygos.
  
 
-20 straipsnis. Veiksmai, priėmus įsipareigojimą dėl kainos
+19 straipsnis. Nutarimo taikyti laikinąjį antidempingo muitą priėmimas
 
-1. Jei priėmusi įsipareigojimą dėl kainos Konkurencijos taryba nustato, kad šio įsipareigojimo pakanka pašalinti preliminariai ar galutinai nustatytą žalą vietiniams gamintojams, jos nutarimu tyrimas sustabdomas, išskyrus šio straipsnio 2 dalyje numatytus atvejus.
+1. Jei tenkinamos visos šio Įstatymo 18 straipsnio 1 dalyje nustatytos sąlygos ir svarstomai prekei nėra nustatytas kompensacinis muitas (įskaitant laikinąjį kompensacinį muitą), Vyriausybė priima nutarimą taikyti laikinąjį antidempingo muitą. Šiame nutarime nustatomas laikinojo antidempingo muito dydis, data, nuo kurios šis muitas pradedamas taikyti (ši data paprastai yra ne ankstesnė kaip po 30 kalendorinių dienų nuo pastarojo nutarimo įsigaliojimo dienos), ir jo taikymo terminas. Prireikus nutarime nurodomi gamintojai ar eksportuotojai, kuriems pagal šio Įstatymo 20 straipsnio 3 dalies nuostatas laikinasis antidempingo muitas netaikomas. 
 
-2. Eksportuotojo prašymu arba Konkurencijos tarybos nutarimu tyrimas gali būti nesustabdomas, net jeigu priimtas eksportuotojo įsipareigojimas dėl kainos. Jeigu atsižvelgiant į turimos informacijos ribotumą Konkurencijos tarybai kyla įtarimas, kad priimtas įsipareigojimas dėl kainos nepakankamas dempingui ar žalai pašalinti, ji gali priimti nutarimą nestabdyti tyrimo.
+2. Laikinojo antidempingo muito dydis neturi viršyti preliminariai nustatyto dempingo skirtumo ir turi būti mažesnis už jį, jei šio mažesnio muito dydžio pakanka žalai vietiniams gamintojams pašalinti.
 
-3. Sustabdžius tyrimą, sustabdomas ir jo trukmės skaičiavimas.
-
-4. Šio straipsnio 2 dalies atveju, kai įsipareigojimas dėl kainos buvo priimtas preliminariai nustačius dempingo skirtumą, o atlikus tolesnį tyrimą nustatyta, kad dempingo ar žalos nėra, ir Konkurencijos taryba taip pat padarė tokią išvadą, eksportuotojo įsipareigojimas dėl kainos netenka galios. Tačiau jei nustatoma, kad dempingo ar žalos pašalinimą sąlygojo priimtas įsipareigojimas dėl kainos, arba jeigu galutinai yra nustatytas dempingas ir žala, šis įsipareigojimas turi būti paliktas galioti.
-
-5. Kai Konkurencijos taryba, priėmusi eksportuotojo įsipareigojimą dėl kainos, tyrimą sustabdo, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba turi apie tai paskelbti šio įstatymo 36 straipsnio nustatyta tvarka.
+3. Laikinasis antidempingo muitas gali būti pradėtas taikyti ne anksčiau kaip praėjus 60 kalendorinių dienų ir ne vėliau kaip po 9 mėnesių nuo sprendimo atlikti tyrimą įsigaliojimo dienos.
  
 
-21 straipsnis. Įsipareigojimo dėl kainos laikymosi priežiūra
+20 straipsnis. Laikinojo antidempingo muito taikymas
 
-Konkurencijos tarybai priėmus eksportuotojo įsipareigojimą dėl kainos, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba turi teisę reikalauti, kad eksportuotojas jos nustatytais terminais teiktų informaciją apie prisiimto įsipareigojimo vykdymą ir leistų jai tikrinti su tuo susijusius duomenis bei dokumentus. Šių reikalavimų nevykdymas yra tapatus įsipareigojimo pažeidimui.
+1. Laikinasis antidempingo muitas gali būti taikomas 6 mėnesius. Vyriausybės nutarimu laikinojo antidempingo muito taikymas gali būti pratęstas dar 3 mėnesiams, jei svarstomos prekės eksportuotojai su tuo sutinka ir jų eksportuojamų į Lietuvos Respublikos muitų teritoriją tokių prekių kiekis sudaro ne mažiau kaip 1/2 bendro šių prekių importo į Lietuvos Respublikos muitų teritoriją kiekio. Jeigu eksportuotojai sutinka, laikinasis antidempingo muitas gali būti iš karto nustatomas 9 mėnesiams.
+
+2. Laikinasis antidempingo muitas gali būti taikomas tik toms svarstomoms prekėms, kurios išleidžiamos laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje nuo Vyriausybės nutarime taikyti laikinąjį antidempingo muitą nustatytos datos.
+
+3. Laikinasis antidempingo muitas netaikomas svarstomoms prekėms, importuojamoms iš gamintojų ir (ar) eksportuotojų, kurių įsipareigojimai dėl kainos yra priimti pagal šio Įstatymo 22 straipsnį.
  
 
-22 straipsnis. Įsipareigojimo dėl kainos nesilaikymas
+21 straipsnis. Laikinojo antidempingo muito sumokėjimas
 
-1. Įsipareigojimo dėl kainos pažeidimo arba atsiėmimo atveju, jei tyrimas nebuvo sustabdytas priėmus tokį įsipareigojimą, bet buvo užbaigtas ir buvo galutinai nustatytas dempingas, žala ir jų priežastinis ryšys, vadovaujantis šio įstatymo 24 ir 25 straipsnių nuostatomis priimamas nutarimas taikyti antidempingo muitą. Prieš taikant antidempingo muitą eksportuotojui turi būti sudaryta galimybė pateikti paaiškinimus, išskyrus atvejį, kai jis pats atsiėmė įsipareigojimą dėl kainos.
-
-2. Įsipareigojimo dėl kainos pažeidimo arba atsiėmimo atveju, jei tyrimas buvo sustabdytas priėmus tokį įsipareigojimą, vadovaujantis turima informacija bei šio įstatymo 15 straipsnio, 16 straipsnio 1, 2 ir 3 dalių, 17 ir 18 straipsnių nuostatomis, gali būti nedelsiant pritaikytos laikinosios antidempingo priemonės ir tyrimas atnaujintas.
-
-3. Įsipareigojimo dėl kainos pažeidimo arba atsiėmimo atveju antidempingo muitas gali būti taikomas prekėms, kurios yra išleistos laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje ne daugiau kaip 90 kalendorinių dienų iki laikinųjų priemonių taikymo pradžios pagal šio straipsnio 2 dalį, bet ir ne anksčiau, negu buvo pažeistas arba atsiimtas įsipareigojimas.
- 
-
-23 straipsnis. Įsipareigojimo dėl kainos galiojimas
-
-Priimtas įsipareigojimas dėl kainos turi veikti tik tol, kol jis būtinas dempingui, darančiam žalą vietiniams gamintojams, pašalinti, bet ne ilgiau kaip 5 metus nuo nutarimo priimti įsipareigojimą įsigaliojimo dienos arba, jeigu po to buvo vykdytos peržiūros (pagal šio įstatymo šeštojo skirsnio nuostatas), nuo paskutinės peržiūros, kurios metu nustatyta, kad įsipareigojimas dėl kainos būtinas dempingui ir žalai pašalinti, baigimo dienos, atsižvelgiant į šio įstatymo 32 straipsnio 3 dalies nuostatas.
+Nuo Vyriausybės nutarime taikyti laikinąjį antidempingo muitą nurodytos datos svarstomos prekės išleidžiamos laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje tik kai yra sumokėtas laikinasis antidempingo muitas arba kai muitinei yra pateikta garantija, jog laikinasis antidempingo muitas bus sumokėtas. Garantija pateikiama Lietuvos Respublikos muitinės kodekso nustatyta tvarka. Garantijos dydį nustato muitinė. Laikinasis antidempingo muitas turi būti sumokėtas arba išieškotas Lietuvos Respublikos muitinės kodekso nustatyta tvarka.
  
 
 PENKTASIS SKIRSNIS
+ĮSIPAREIGOJIMŲ dėl kainos PRIĖMIMO PROCEDŪROS
+ 
+
+22 straipsnis. Įsipareigojimo dėl kainos priėmimas
+
+1. Tyrimų metu kiekvienas svarstomos prekės gamintojas ar eksportuotojas gali savo iniciatyva pateikti arba institucijos siūlymu priimti įsipareigojimą dėl kainos, tačiau įsipareigoti negali būti reikalaujama. 
+
+2. Pagal šio straipsnio 1 dalyje nurodytą įsipareigojimą kaina turi būti padidinama suma, ne didesne, negu reikia dempingo skirtumui pašalinti, bet mažesne, negu yra dempingo skirtumas, jei tokio padidinimo pakanka žalai vietiniams gamintojams pašalinti.
+
+3. Įsipareigojimas dėl kainos negali būti priimtas, jei nėra preliminariai ar galutinai nustatyta, kad yra dempingas ir žala vietiniams gamintojams.
+
+4. Jei įsipareigojimas dėl kainos yra pateikiamas pasibaigus šio Įstatymo 40 straipsnio 6 dalyje nustatytam laikotarpiui, jis nepriimamas, nebent institucija, atsižvelgdama į naujas aplinkybes, nusprendžia įsipareigojimą priimti.
+
+5. Siūlomo įsipareigojimo dėl kainos institucija gali nepriimti, jeigu įsipareigojimo priėmimą laiko nepraktišku dėl per didelio esamų ar galimų gamintojų ar eksportuotojų skaičiaus ar dėl valstybės vykdomos politikos. Tokiais atvejais gamintojui ar eksportuotojui turi būti praneštos įsipareigojimo nepriėmimo priežastys ir sudaryta galimybė dėl jų pateikti pastabas. Į šias pastabas institucija atsižvelgti neprivalo.
+
+6. Kai institucija priima įsipareigojimą dėl kainos, ji gali prašyti pateikti šio įsipareigojimo nekonfidencialią santrauką (jei įsipareigojimą dėl kainos pateikusi suinteresuotoji šalis nurodo, kad pateiktas įsipareigojimas yra konfidencialus), kad su ja galėtų susipažinti kitos suinteresuotosios šalys. 
+ 
+
+23 straipsnis. Veiksmai priėmus įsipareigojimą dėl kainos
+
+1. Jei priėmusi įsipareigojimą dėl kainos institucija nustato, kad šio įsipareigojimo pakanka pašalinti preliminariai ar galutinai nustatytą žalą vietiniams gamintojams, jos sprendimu tyrimas sustabdomas, išskyrus šio straipsnio 2 dalyje numatytus atvejus.
+
+2. Gamintojo ar eksportuotojo prašymu arba institucijos sprendimu tyrimas gali būti nesustabdomas, net jeigu yra priimtas įsipareigojimas dėl kainos. Jeigu dėl turimos informacijos ribotumo institucijai kyla įtarimas, kad priimtas įsipareigojimas dėl kainos nepakankamas dempingui ar žalai pašalinti, Institucija gali priimti sprendimą tyrimo nestabdyti.
+
+3. Sustabdžius tyrimą, sustabdomas ir jo trukmės skaičiavimas.
+
+4. Šio straipsnio 2 dalies atveju, kai įsipareigojimas dėl kainos buvo priimtas preliminariai nustačius dempingo skirtumą, o atlikus tolesnį tyrimą nustatyta, kad dempingo ar žalos nėra, ar nėra priežastinio ryšio tarp svarstomos prekės importo ir vietinių gamintojų patiriamos žalos ir institucija padarė tokią išvadą, įsipareigojimas dėl kainos netenka galios. Tačiau jei nustatoma, kad dempingo ar žalos pašalinimą sąlygojo priimtas įsipareigojimas dėl kainos, arba jeigu galutinai yra nustatytas dempingas, žala ir priežastinis ryšys tarp svarstomos prekės importo ir vietinių gamintojų patiriamos žalos, šis įsipareigojimas turi būti paliktas galioti.
+ 
+
+24 straipsnis. Įsipareigojimo dėl kainos laikymosi priežiūra
+
+Institucija, priėmusi įsipareigojimą dėl kainos, turi teisę reikalauti, kad gamintojas ar eksportuotojas jos nustatytais terminais teiktų informaciją apie prisiimto įsipareigojimo vykdymą ir leistų jai tikrinti su tuo susijusius duomenis bei dokumentus. Šių reikalavimų nevykdymas yra laikomas įsipareigojimo dėl kainos pažeidimu.
+ 
+ 
+
+25 straipsnis. Įsipareigojimo dėl kainos nesilaikymas
+
+1. Kai įsipareigojimas dėl kainos pažeidžiamas arba atsiimamas, jei tyrimas nebuvo sustabdytas priėmus tokį įsipareigojimą, bet buvo užbaigtas ir buvo galutinai nustatytas dempingas, žala ir priežastinis ryšys tarp svarstomos prekės importo ir vietinių gamintojų patiriamos žalos, institucija, vadovaudamasi šio Įstatymo 27, 28 ir 29 straipsnių nuostatomis, pateikia Vyriausybei tyrimo išvadas ir savo siūlymus taikyti antidempingo muitą prekėms, importuojamoms iš užsienio gamintojo ar eksportuotojo, kuris prisiimtą įsipareigojimą pažeidė arba atsiėmė. Prieš pateikiant siūlymą Vyriausybei dėl antidempingo muito taikymo, nepažeidžiant šio Įstatymo 40 straipsnio nuostatų, gamintojui ar eksportuotojui turi būti sudaryta galimybė pateikti paaiškinimus, tačiau ši nuostata netaikoma, jei įsipareigojimas dėl kainos atsiimamas.
+
+2. Kai įsipareigojimas dėl kainos pažeidžiamas arba atsiimamas, jei įsipareigojimą priėmus tyrimas buvo sustabdytas, institucija, vadovaudamasi turima informacija bei šio Įstatymo 18, 19, 20 ir 21 straipsnių nuostatomis, gali priimti sprendimą atnaujinti tyrimą ir nedelsiant pateikti siūlymą taikyti laikinąjį antidempingo muitą prekėms, importuojamoms iš užsienio gamintojo ar eksportuotojo, pažeidusio prisiimtą įsipareigojimą. 
+
+3. Kai įsipareigojimas dėl kainos pažeidžiamas arba atsiimamas, antidempingo muitas gali būti taikomas prekėms, kurios yra išleistos laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje ne anksčiau kaip 90 kalendorinių dienų iki laikinojo antidempingo muito taikymo (pagal šio straipsnio 2 dalį) pradžios, tačiau jokiu būdu antidempingo muitas negali būti taikomas prekėms, importuotoms iki įsipareigojimo pažeidimo ar atsiėmimo.
+ 
+
+26 straipsnis. Įsipareigojimo dėl kainos galiojimas
+
+1. Priimtas įsipareigojimas dėl kainos turi galioti tik tol, kol jis būtinas dempingui, darančiam žalą vietiniams gamintojams, neutralizuoti.
+
+2. Bet kuriuo atveju priimtas įsipareigojimas baigia galioti praėjus 5 metams nuo sprendimo priimti įsipareigojimą įsigaliojimo dienos arba nuo įsipareigojimo dėl kainos paskutinės (pagal šio Įstatymo septintojo skirsnio nuostatas) peržiūros baigimo dienos, jei peržiūros metu nustatyta, kad įsipareigojimas dėl kainos ir toliau būtinas dempingui ir jo sukeliamai žalai neutralizuoti, atsižvelgiant į šio Įstatymo 34 straipsnio 3 dalies nuostatas.
+ 
+
+ŠEŠTASIS SKIRSNIS
 ANTIDEMPINGO MUITAS IR JO TAIKYMAS
  
 
-24 straipsnis. Antidempingo muito taikymas
+27 straipsnis. Nutarimo taikyti antidempingo muitą priėmimas 
 
-1. Jeigu tyrimo metu galutinai nustatyta, kad yra dempingas ir žala vietiniams gamintojams ir antidempingo muito taikymas atitinka Lietuvos valstybės interesus, Konkurencijos taryba priima nutarimą taikyti antidempingo muitą. Šis nutarimas, Ūkio ministerijai pritarus, įsigalioja kitą dieną po paskelbimo „Valstybės žiniose“. Nutarime pateikiama 36 straipsnio 6 dalyje nurodyta informacija.
+1. Vyriausybė, apsvarsčiusi institucijos pateiktas tyrimo išvadas bei siūlymus, sprendžia, ar tikslinga taikyti antidempingo muitą. Jei svarstomai prekei taikomas laikinasis antidempingo muitas, siūlymą taikyti antidempingo muitą institucija turi pateikti Vyriausybei ne vėliau kaip prieš 1 mėnesį iki laikinojo antidempingo muito taikymo termino pabaigos.
 
-2. Nustatant, ar antidempingo muito taikymas atitinka Lietuvos valstybės interesus, turi būti įvertinti visi skirtingi interesai, įskaitant vietinių gamintojų ir prekės vartotojų interesus. Juos galima vertinti tik tuomet, jei visiems šioje dalyje nurodytiems ūkio subjektams buvo sudarytos galimybės pateikti savo nuomonę per nutarime vykdyti tyrimą nurodytą laikotarpį. Ypatingas dėmesys turi būti skiriamas tam, kad būtų pašalintas dempingo poveikis rinkai ir atkurta sąžininga konkurencija. 
+2. Jei institucijos pateiktos tyrimo išvados rodo, kad yra dempingas, žala vietiniams gamintojams bei priežastinis ryšys tarp svarstomos prekės importo ir vietinių gamintojų patiriamos žalos ir, atsižvelgiant į valstybės interesus, antidempingo muitą taikyti yra tikslinga, Vyriausybė priima nutarimą taikyti antidempingo muitą, nustato jo dydį ir datą, nuo kurios jis pradedamas taikyti. Ši data paprastai yra ne ankstesnė kaip po 30 kalendorinių dienų nuo ją nustatančio Vyriausybės nutarimo įsigaliojimo dienos.
 
-3. Antidempingo muitas taikomas visiems eksportuotojams, kurių prekės dempingo kaina importas į Lietuvos Respublikos muitų teritoriją daro žalą vietiniams gamintojams, išskyrus tuos eksportuotojus, kurių įsipareigojimai dėl kainų buvo priimti vadovaujantis šio įstatymo 19 straipsniu.
+3. Nustatant, ar dėl valstybės interesų tikslinga taikyti antidempingo muitą, turi būti atsižvelgta į skirtingus interesus, tarp jų vietinių gamintojų, įmonių, naudojančių svarstomą prekę savo produkcijai gaminti, galutinių svarstomos prekės vartotojų bei importuotojų ir jiems atstovaujančių asociacijų, jei šioje dalyje nurodytos suinteresuotosios šalys per institucijos sprendime atlikti tyrimą nustatytą laiką pranešė apie savo suinteresuotumą atliekamu tyrimu. Bet kuriuo atveju ypatingas dėmesys turi būti skiriamas dempingo poveikiui rinkai pašalinti ir sąžiningai konkurencijai atkurti.
 
-4. Kai pagal šio įstatymo 2 straipsnio 11 dalį panašios prekės vietiniais gamintojais laikomi gamintojai, esantys tam tikroje Lietuvos Respublikos muitų teritorijos dalyje, antidempingo muitas gali būti taikomas, jei tyrimo metu eksportuotojams buvo sudarytos galimybės įsipareigoti padidinti kainas arba nutraukti prekės dempingo kaina eksportą į tą Lietuvos Respublikos muitų teritorijos dalį. Jeigu eksportuotojas laiku nepasiūlo tinkamo įsipareigojimo dėl kainos arba nesilaiko prisiimto įsipareigojimo (kaip nustatyta šio įstatymo 22 straipsnio 1 ir 2 dalyse), prekės dempingo kaina importui į visą Lietuvos Respublikos muitų teritoriją gali būti taikomas antidempingo muitas, o šio įstatymo 22 straipsnio 2 dalyje nustatytu atveju – laikinasis muitas.
+4. Jei atlikus tyrimą dempingas ir žala vietiniams gamintojams nenustatyti arba nėra priežastinio ryšio tarp svarstomos prekės importo ir vietinių gamintojų patiriamos žalos, institucija priima sprendimą baigti tyrimą nesiūlydama Vyriausybei taikyti antidempingo muitą.
+
+5. Iki institucijos siūlymo taikyti antidempingo muitą pateikimo Vyriausybei ar sprendimo baigti tyrimą nesiūlant taikyti antidempingo muitą priėmimo suinteresuotosioms šalims (pagal šio Įstatymo 40 straipsnį) turi būti sudaryta galimybė gauti informaciją apie pagrindinius faktus ir motyvus, pagal kuriuos bus sprendžiama, ar taikyti antidempingo muitą, ar netaikyti, taip pat galimybė pateikti savo argumentus. Tačiau priimant sprendimą atsižvelgiama tik į įrodymais pagrįstus argumentus.
  
 
-25 straipsnis. Antidempingo muito dydis
+28 straipsnis. Antidempingo muito taikymas
 
-1. Antidempingo muito dydis individualiai kiekvienam eksportuotojui nustatomas nutarime taikyti antidempingo muitą. Jeigu eksportuojančioje šalyje eksportuotojų yra keletas ir muito dydį nustatyti kiekvienam eksportuotojui netikslinga, muito dydis nutarime taikyti antidempingo muitą nustatomas eksportuojančiai valstybei.
+1. Antidempingo muitas taikomas tik toms svarstomoms prekėms, kurios išleidžiamos laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje nuo Vyriausybės nutarime taikyti šį muitą nustatytos datos, išskyrus atvejus, kai priimamas sprendimas taikyti antidempingo muitą prekėms, importuotoms per tyrimo laikotarpį (vadovaujantis šio Įstatymo 30 straipsniu). Svarstomoms prekėms, importuojamoms iš tų užsienio gamintojų ar eksportuotojų, kurių įsipareigojimai dėl kainos buvo priimti vadovaujantis šio Įstatymo 22 straipsniu, antidempingo muitas netaikomas, išskyrus šio Įstatymo 25 straipsnio 1 dalyje ir šio straipsnio 2 dalyje nurodytą atvejį.
 
-2. Antidempingo muito dydis turi būti nustatytas toks, kokio reikia vietiniams gamintojams padarytai žalai pašalinti, bet ne didesnis už tyrimo metu galutinai nustatytą dempingo skirtumą.
+2. Kai pagal šio Įstatymo 9 straipsnį panašios prekės vietiniais gamintojais laikomi gamintojai, esantys tam tikroje Lietuvos Respublikos muitų teritorijos dalyje, antidempingo muitas gali būti taikomas, jei tyrimo metu užsienio gamintojams ir eksportuotojams buvo sudarytos galimybės įsipareigoti padidinti kainas arba nutraukti prekės dempingo kaina eksportą į tą Lietuvos Respublikos muitų teritorijos dalį. Jeigu laiku nepasiūlomas tinkamas įsipareigojimas dėl kainos arba nesilaikoma prisiimto įsipareigojimo (kaip nustatyta šio Įstatymo 25 straipsnio 1 ir 2 dalyse), svarstomos prekės importui į visą Lietuvos Respublikos muitų teritoriją gali būti taikomas antidempingo muitas, o šio Įstatymo 25 straipsnio 2 dalyje nustatytu atveju – laikinasis antidempingo muitas.
 
-3. Jei tyrimas buvo apribotas vadovaujantis šio įstatymo 12 straipsniu, eksportuotojams, kurių eksporto atvejai tyrimo metu nebuvo nagrinėti ir kuriems nebuvo nustatyti individualūs dempingo skirtumai, antidempingo muitas neturi viršyti dempingo skirtumų aritmetinio svertinio vidurkio, apskaičiuoto pagal tyrimo duomenis. Šiuo atveju į nereikšmingus (pagal šio įstatymo 7 straipsnio 3 dalies 3 punktą) dempingo skirtumus ir skirtumus, nustatytus esant šio įstatymo 10 straipsnio 6 dalyje apibrėžtoms aplinkybėms, neturi būti atsižvelgiama. Eksportuotojams, kurių prekėms pagal šio įstatymo 12 straipsnio 4 dalį buvo nustatytas individualus dempingo skirtumas, turi būti nustatytas ir individualus muito dydis, išskyrus atvejus, kai muito dydis nustatomas eksportuojančiai šaliai.
+3. Antidempingo muitas taikomas visiems eksportuotojams, kurių svarstomos prekės importas į Lietuvos Respublikos muitų teritoriją daro žalą vietiniams gamintojams, išskyrus tuos eksportuotojus, kurių įsipareigojimai dėl kainų buvo priimti vadovaujantis šio Įstatymo 22 straipsniu.
+
+4. Antidempingo muitas taikomas nepaisant kitų svarstomoms importuojamoms prekėms taikomų muitų, mokesčių ar rinkliavų. Tačiau jei tai pačiai importuojamai prekei, kad būtų pašalinta žala vietiniams gamintojams, yra nustatytas ar jau taikomas kompensacinis muitas (laikinasis kompensacinis muitas), antidempingo muitas negali būti taikomas.
+
+5. Antidempingo muitas už importuojamas prekes turi būti sumokėtas Lietuvos Respublikos muitinės kodekso nustatyta tvarka. Nesumokėjus antidempingo muito arba jo nesumokėjus laiku, skaičiuojami delspinigiai. Nesumokėtas antidempingo muitas ir delspinigiai išieškomi Lietuvos Respublikos muitinės kodekso nustatyta tvarka. 
  
 
-26 straipsnis.       Peržiūros individualiems dempingo skirtumams nustatyti tyrimo metu neeksportavusiems subjektams
+29 straipsnis. Antidempingo muito dydis
 
-1. Jei prekei taikomas antidempingo muitas, individualiems dempingo skirtumams nustatyti nagrinėtoje eksportuojančioje šalyje esantiems eksportuotojams, kurie tyrimo metu neeksportavo šios prekės į Lietuvos Respublikos muitų teritoriją, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba turi atlikti peržiūras šių eksportuotojų atžvilgiu. Peržiūra atliekama Konkurencijos tarybos nutarimu, jei šie eksportuotojai įrodo, kad nėra susiję su toje šalyje esančiais eksportuotojais ar gamintojais, kuriems buvo taikomas antidempingo muitas, ir eksportavo prekę į Lietuvos Respublikos muitų teritoriją pasibaigus tyrimui, arba jei jie gali įrodyti, kad turi neatšaukiamą sutartinį įsipareigojimą eksportuoti didelį svarstomos prekės kiekį į Lietuvos Respublikos muitų teritoriją.
+1. Antidempingo muito dydis importuojamai svarstomai prekei, atsižvelgiant į nustatytą dempingo skirtumą ir žalos mastą, nustatomas individualiai pagal kiekvieną eksportuotoją ar gamintoją, taikant Lietuvos Respublikos muitų tarifų įstatymo nustatytus skaičiavimo metodus. Jei eksportuojančioje šalyje eksportuotojų ar gamintojų yra keletas ir antidempingo muito dydžio kiekvienam eksportuotojui ar gamintojui nustatyti netikslinga arba tai trukdytų baigti tyrimą per nustatytą laiką, antidempingo muito dydis importuojamai svarstomai prekei nustatomas pagal kiekvieną eksportuojančią valstybę.
 
-2. Peržiūros laikas turi būti ne ilgesnis kaip 12 mėnesių. 
+2. Antidempingo muitas negali būti didesnis už tyrimo metu nustatytą dempingo skirtumą, bet gali būti mažesnis už jį, jei mažesnio muito pakanka žalai vietiniams gamintojams pašalinti.
 
-3. Peržiūros procedūroms ir įrodymams turi būti taikomi šio įstatymo 7, 8, 10, 11, 13 ir 14 straipsniuose nustatyti tyrimų vykdymo reikalavimai, jeigu šis straipsnis nenustato kitaip.
-
-4. Peržiūros metu antidempingo muitas netaikomas prekei, importuojamai iš šio straipsnio 1 dalyje nurodytų eksportuotojų.
-
-5. Konkurencijos taryba gali pareikalauti, kad importuotojai, įvežantys prekes iš šio straipsnio 1 dalyje nurodytų eksportuotojų, pateiktų muitinei garantiją, jog šis muitas bus sumokėtas nustačius, kad šie eksportuotojai parduoda prekę dempingo kaina ir šiam importui taikomas antidempingo muitas už praėjusį laikotarpį, prasidedantį nuo peržiūros pradžios.
-
-6. Šis straipsnis netaikomas šio įstatymo 25 straipsnio 3 dalyje nurodytiems atvejams.
+3. Jei tyrimas buvo apribotas vadovaujantis šio Įstatymo 16 straipsniu, tai svarstomoms prekėms, importuotoms iš eksportuotojų ar gamintojų, kurių eksporto sandoriai nebuvo nagrinėti tyrimo metu ir kuriems nebuvo nustatyti individualūs dempingo skirtumai, antidempingo muitas neturi viršyti dempingo skirtumų vidurkio, apskaičiuoto pagal tyrimui naudotos atrankos duomenis. Šiuo atveju į nereikšmingus (pagal šio Įstatymo 12 straipsnio 4 dalies 3 punktą) dempingo skirtumus ir skirtumus, nustatytus esant šio Įstatymo 15 straipsnio 7 dalyje nurodytoms aplinkybėms, neturi būti atsižvelgiama. Svarstomoms prekėms, importuojamoms iš eksportuotojo ar užsienio gamintojo, kuriam pagal šio Įstatymo 16 straipsnio 5 dalį buvo nustatytas individualus dempingo skirtumas, turi būti nustatytas ir individualus muito dydis, išskyrus atvejus, kai muito dydis nustatomas pagal prekės kilmės ar eksportuojančią šalį.
  
 
-27 straipsnis. Antidempingo muito taikymo pradžia
+30 straipsnis.       Antidempingo muito taikymas tyrimo laikotarpiu importuotoms svarstomoms prekėms
 
-Antidempingo muitas gali būti taikomas tik toms prekėms, kurios išleidžiamos laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje po to, kai įsigaliojo nutarimas taikyti šį muitą, išskyrus šio įstatymo 28 straipsnyje nustatytus atvejus.
+1. Jei buvo taikytas laikinasis antidempingo muitas ir atlikus tyrimą patvirtinama, kad yra dempingas, žala vietiniams gamintojams ir priežastinis ryšys tarp svarstomos prekės importo ir vietinių gamintojų patiriamos žalos, institucija teikia siūlymą Vyriausybei taikyti antidempingo muitą prekėms, importuotoms laikinojo antidempingo muito taikymo laikotarpiu. Taikant šią nuostatą, sąvoka „žala“ neapima nei žalos vietiniams gamintojams grėsmės, nei kliūties pradėti panašios prekės gamybą Lietuvoje, nebent būtų nustatyta, kad tik pritaikius laikinąjį antidempingo muitą žalos buvo išvengta. Visais kitais atvejais, kai žalos buvimas sietinas tik su žalos grėsmės ar kliūties pradėti panašios prekės gamybą Lietuvoje buvimu, antidempingo muitas prekėms, importuotoms tyrimo laikotarpiu, negali būti taikomas, o sumokėtas laikinasis antidempingo muitas turi būti grąžintas Lietuvos Respublikos muitinės kodekso nustatyta tvarka. Tokios nuostatos neturi riboti šio straipsnio 4 dalies nuostatų taikymo.
+
+2. Jei baigus tyrimą šio straipsnio 1 dalyje nurodytu atveju antidempingo muitas svarstomoms prekėms, yra didesnis už sumokėtą ar mokėtiną laikinąjį antidempingo muitą, skirtumo mokėti nereikia. Jei baigus tyrimą nustatomas mažesnis antidempingo muitas nei sumokėtas ar mokėtinas laikinasis antidempingo muitas, laikinojo antidempingo muito suma turi būti perskaičiuota, o permokėta suma turi būti grąžinta Lietuvos Respublikos muitinės kodekso nustatyta tvarka.
+
+3. Jeigu nustatoma, kad žalos nebuvo padaryta ir nebūtų padaryta net tuo atveju, jei laikinasis antidempingo muitas nebūtų taikytas, ir nėra pagrindo taikyti antidempingo muitą, jis netaikomas ir prekėms, importuotoms tyrimo laikotarpiu. Šiuo laikotarpiu sumokėtas laikinasis antidempingo muitas turi būti grąžintas Lietuvos Respublikos muitinės kodekso nustatyta tvarka, o jei muitinei buvo pateikta garantija, jos turi būti atsisakyta.
+
+4. Antidempingo muitas gali būti taikomas importuotoms svarstomoms prekėms, kurios buvo išleistos laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje ne anksčiau kaip 90 kalendorinių dienų iki laikinojo antidempingo muito taikymo pradžios ir ne anksčiau, negu priimtas institucijos sprendimas atlikti tyrimą, jei pagal šio Įstatymo 15 straipsnio 15 dalį buvo kaupiama detali informacija apie svarstomos prekės importą ir atlikdama tyrimą institucija nustatė, kad: 
+
+1) dempingas, kuris padarė žalos vietiniams gamintojams, buvo ir anksčiau, arba yra žinoma, kad tiriamų eksportuotojų atžvilgiu (Lietuvos Respublikoje ar kitoje šalyje) buvo atliekamas dempingo tyrimas ir nustatytas dempingas, arba kad importuotojas žinojo ar turėjo žinoti, jog eksportuotojas vykdo dempingą, galintį padaryti žalą;
+
+2) be tiriamuoju laikotarpiu žalą sukėlusio bendro svarstomos prekės importo didėjimo, prieš nustatant antidempingo muitą yra nustatytas dar ir didelis per palyginti trumpą laiką svarstomos prekės importo dempingo kaina didėjimas, kuris, atsižvelgiant į importo kiekį, laiką ir kitas aplinkybes, gali gerokai sumažinti numatomo taikyti antidempingo muito ištaisantį poveikį;
+
+3) importuotojams buvo suteikta galimybė pareikšti nuomonę iki siūlymo Vyriausybei taikyti antidempingo muitą pateikimo.
  
 
-28 straipsnis. Antidempingo muito taikymas už praėjusį laikotarpį
+31 straipsnis. Antidempingo muito galiojimas
 
-1. Antidempingo muitas gali būti taikomas panašioms prekėms, importuotoms laikinųjų priemonių taikymo laikotarpiu, patvirtinant arba pakeičiant laikinojo muito dydį, jei toks buvo taikomas ir yra galutinai nustatyta, kad buvo padaryta žala, arba galutinai nustatyta žalos grėsmė ir tik pritaikius laikinąsias priemones jos buvo išvengta. Ši dalis neturi riboti šio straipsnio 5 dalies taikymo.
+1. Antidempingo muitas turi būti taikomas tik tol, kol jis yra būtinas dempingui, sukeliančiam žalą vietiniams gamintojams, neutralizuoti.
 
-2. Jeigu šio straipsnio 1 dalyje nustatytu atveju antidempingo muitas, tenkantis laikinųjų priemonių taikymo laikotarpiui, yra nustatomas didesnis nei sumokėtas ar mokėtinas laikinasis muitas, mokėti skirtumą neturi būti reikalaujama. Jeigu antidempingo muitas yra mažesnis už taikytą laikinąjį muitą, jis turi būti perskaičiuotas, o permokėtos lėšos turi būti grąžintos.
-
-3. Jeigu antidempingo muitas nenustatomas, jis netaikomas ir laikinųjų priemonių taikymo laikotarpiui.
-
-4. Jeigu antidempingo muitas laikinųjų priemonių taikymo laikotarpiui netaikomas, šiuo laikotarpiu sumokėtas laikinasis muitas turi būti grąžintas, o muitinei pateiktos garantijos turi būti atsisakyta (piniginis užstatas turi būti grąžintas, o visi laidavimo dokumentai, susiję su laikinųjų priemonių taikymu, anuliuoti). Sumokėtam laikinajam muitui grąžinti taikoma 29 straipsnio 9 dalyje nustatyta tvarka.
-
-5. Antidempingo muitas gali būti taikomas prekėms, kurios buvo išleistos laisvai cirkuliuoti Lietuvos Respublikos muitų teritorijoje ne daugiau kaip 90 kalendorinių dienų iki laikinųjų priemonių taikymo pradžios, bet ne anksčiau tyrimo pradžios, jei nustatoma, kad tenkinamos visos šios sąlygos:
-
-1) Lietuvoje ar kitoje šalyje svarstomų eksportuotojų atžvilgiu buvo atliekamas dempingo tyrimas, kuriuo nustatyta, kad eksportuotojai vykdo žalą darantį dempingą arba kad importuotojas žinojo ar turėjo žinoti, jog eksportuotojas vykdo dempingą, kuris gali padaryti žalą;
-
-2) yra nustatytas didelis importo augimas, kuris, atsižvelgiant į importo kiekį, laiką ir kitas aplinkybes (tokias, kaip greitas importuotos prekės atsargų kaupimas), gali gerokai sumažinti numatomo taikyti antidempingo muito ištaisantį poveikį;
-
-3) importuotojams buvo suteiktos galimybės pareikšti savo nuomonę iki nutarimo taikyti antidempingo muitą priėmimo.
+2. Bet kuriuo atveju antidempingo muito taikymas baigiasi praėjus 5 metams nuo pirmos antidempingo muito taikymo dienos arba nuo paskutinės (pagal šio Įstatymo septintojo skirsnio nuostatas) antidempingo muito taikymo peržiūros baigimo dienos, jei peržiūros metu buvo nustatyta, kad antidempingo muitas ir toliau būtinas dempingui ir jo sukeliamai žalai neutralizuoti, atsižvelgiant į šio Įstatymo 34 straipsnio 3 dalies nuostatas.
  
 
-29 straipsnis. Antidempingo muito grąžinimas
+SEPTINTASIS SKIRSNIS
+PERŽIŪROS
+ 
+
+32 straipsnis. Antidempingo muito taikymo ir įsipareigojimo dėl kainos peržiūros inicijavimas
+
+1. Antidempingo muito taikymas ir įsipareigojimas dėl kainos peržiūrimi:
+
+1) baigiantis antidempingo muito taikymo ar įsipareigojimo dėl kainos galiojimo 5 metų terminui, nustatytam pagal šio Įstatymo 26 ir 31 straipsnius, institucijos iniciatyva arba vietinių gamintojų prašymu pratęsti jų taikymą ar galiojimą, motyvuotu tuo, kad nebetaikant antidempingo muito ar atleidus nuo įsipareigojimo dėl kainos dempingas ir žala tęsis arba atsiras iš naujo;
+
+2) vietinių gamintojų prašymu, motyvuotu tuo, kad taikomo antidempingo muito dydžio ar priimto įsipareigojimo dėl kainos nepakanka žalai pašalinti. Prašymas gali būti pateiktas pagal šio straipsnio 2 dalį ir vėliau, likus ne mažiau kaip 3 mėnesiams iki 5 metų antidempingo muito taikymo ar įsipareigojimo dėl kainos galiojimo termino pabaigos;
+
+3) prekės eksportuotojų ar importuotojų prašymu, motyvuotu tuo, kad antidempingo muitas ar įsipareigojimas dėl kainos jau nebūtini dempingo skirtumui kompensuoti ar pašalinti ir žalai pašalinti, arba teigiančiu, kad antidempingo muito ar įsipareigojimo dėl kainos dydis turi būti sumažintas;
+
+4) institucijos iniciatyva, motyvuota tuo, kad taikomo antidempingo muito dydžio ar įsipareigojimo dėl kainos nepakanka žalai pašalinti arba kad nustatyto dydžio antidempingo muitas ar įsipareigojimas dėl kainos jau nebūtini;
+
+5) vietinių gamintojų prašymu, motyvuotu tuo, kad antidempingo muito taikymas ar įsipareigojimo dėl kainos priėmimas nepadidino prekės pardavimo Lietuvos Respublikos muitų teritorijoje kainų arba šios kainos padidėjo nepakankamai. Šiuo atveju peržiūra neturi trukti ilgiau kaip 6 mėnesius.
+
+2. Prašymas peržiūrėti antidempingo muito taikymą ar įsipareigojimą dėl kainos gali būti pateiktas ne anksčiau kaip po 12 mėnesių nuo nutarimo taikyti antidempingo muitą ar sprendimo priimti įsipareigojimą dėl kainos įsigaliojimo dienos. Jis turi būti motyvuotas ir pagrįstas įrodymais.
+
+3. Sprendimą atlikti antidempingo muito taikymo ir įsipareigojimo dėl kainos peržiūrą institucija turi priimti ne vėliau kaip prieš 2 mėnesius iki 5 metų antidempingo muito taikymo ar įsipareigojimo dėl kainos galiojimo termino pabaigos.
+
+4. Likus ne daugiau kaip 12 ir ne mažiau kaip 8 mėnesiams iki antidempingo muito taikymo ar įsipareigojimo dėl kainos galiojimo 5 metų termino pabaigos, institucija apie artėjančią šio termino pabaigą turi paskelbti „Valstybės žinių“ priede „Informaciniai pranešimai“. Jei antidempingo muito taikymo ar įsipareigojimo dėl kainos galiojimo terminas nepratęsiamas, institucija turi taip pat apie tai paskelbti „Valstybės žinių“ priede „Informaciniai pranešimai“ bei pranešti visoms žinomoms atliekamu tyrimu suinteresuotosioms šalims.
+ 
+
+33 straipsnis. Peržiūros individualiems dempingo skirtumams nustatyti tyrimo metu neeksportavusiems eksportuotojams ir (ar) gamintojams
+
+1. Jei svarstomai prekei taikomas antidempingo muitas, nustatytas nagrinėtoje eksportuojančioje šalyje esantiems eksportuotojams ar gamintojams, kurie tyrimo metu neeksportavo šios prekės į Lietuvos Respublikos muitų teritoriją, institucija šiems eksportuotojams turi atlikti peržiūras individualiems dempingo skirtumams nustatyti. 
+
+2. Šio straipsnio 1 dalyje nurodytos peržiūros atliekamos institucijos sprendimu, jei nurodyti eksportuotojai ar užsienio gamintojai įrodo, kad nėra susiję su toje šalyje esančiais eksportuotojais ar gamintojais, kuriems buvo taikomas antidempingo muitas, ir eksportavo prekę į Lietuvos Respublikos muitų teritoriją pasibaigus tyrimui, arba jei jie gali įrodyti, kad turi neatšaukiamą sutartinį įsipareigojimą į Lietuvos Respublikos muitų teritoriją eksportuoti didelį svarstomos prekės kiekį. Apie numatomą peržiūrą turi būti raštu pranešta vietiniams gamintojams ir sudaryta galimybė per 20 kalendorinių dienų nuo pranešimo išsiuntimo pateikti pastabas.
+
+3. Šio straipsnio 1 dalyje nurodytos peržiūros turi būti operatyvios ir negali trukti ilgiau kaip 12 mėnesių. 
+
+4. Peržiūros procedūroms ir įrodymams taikomi šio Įstatymo 12, 13, 15, 16, 17 ir 27 straipsniuose nustatyti reikalavimai, jeigu šiame straipsnyje nenustatyta kitaip.
+
+5. Peržiūros metu svarstomai prekei, importuojamai iš šio straipsnio 1 dalyje nurodytų eksportuotojų, antidempingo muitas netaikomas.
+
+6. Institucija gali pareikalauti, kad importuotojai, įvežantys prekes iš šio straipsnio 1 dalyje nurodytų eksportuotojų ar užsienio gamintojų, pateiktų muitinei garantiją, jog šis muitas bus sumokėtas nustačius, kad šie eksportuotojai ar užsienio gamintojai parduoda svarstomą prekę dempingo kaina ir šiam importui taikomas antidempingo muitas už praėjusį laikotarpį, prasidedantį nuo peržiūros pradžios.
+
+7. Šio straipsnio nuostatos netaikomos, jeigu antidempingo muitas nustatytas pagal šio Įstatymo 29 straipsnio 3 dalį.
+ 
+
+34 straipsnis. Antidempingo muito taikymo ir įsipareigojimo dėl kainos peržiūros procedūros
+
+1. Antidempingo muito taikymo ir įsipareigojimo dėl kainos peržiūros procedūroms ir įrodymams turi būti taikomi šio Įstatymo 12, 13, 15, 16, 17 ir 27 straipsnių reikalavimai, jeigu šiame skirsnyje nenustatyta kitaip.
+
+2. Antidempingo muito taikymo ar įsipareigojimo dėl kainos peržiūra neturi trukti ilgiau kaip 12 mėnesių, išskyrus šio Įstatymo 32 straipsnio 1 dalies 5 punkte nustatytą atvejį.
+
+3. Antidempingo muito dydis ar įsipareigojimas dėl kainos turi likti nepakeisti iki peržiūros pabaigos. Jei pagal šio Įstatymo 26 ir (ar) 31 straipsnių nuostatas antidempingo muito taikymas ar įsipareigojimo dėl kainos galiojimas turėtų baigtis peržiūros metu, šios priemonės turi būti taikomos iki atliekamos peržiūros pabaigos. Tačiau tai neriboja galimybės pagal šio Įstatymo 26 ir (ar) 31 straipsnių nuostatas ir toliau taikyti šias priemones arba šio straipsnio 6 dalies nuostatą, jei peržiūros metu būtų nustatyta, kad antidempingo muito ar įsipareigojimo dėl kainos taikymas yra būtinas dempingo skirtumui kompensuoti ar pašalinti ir pašalinti žalą vietiniams gamintojams.
+
+4. Jei atlikus peržiūrą nustatyta, kad, netaikant antidempingo muito ar atleidus svarstomos prekės gamintoją ar eksportuotoją nuo įsipareigojimo, dėl kainos nebus būtinybės kompensuoti ar pašalinti dempingo skirtumą arba dempingas nepadarys žalos vietiniams gamintojams, antidempingo muito dydis ir (ar) įsipareigojimo dėl kainos dydis turi būti sumažintas iki nulio ir taikomas iki šių priemonių galiojimo pabaigos, kaip tai nustatyta šio Įstatymo 26 ir (ar) 31 straipsniuose.
+
+5. Jei atlikus peržiūrą nustatyta, kad sumažinus antidempingo muito dydį ar įsipareigojimą dėl kainos nebus būtinybės kompensuoti ar pašalinti dempingo skirtumą arba dempingas nepadarys žalos vietiniams gamintojams, antidempingo muito ar įsipareigojimo dėl kainos dydis turi būti atitinkamai sumažintas.
+
+6. Jei atlikus peržiūrą nustatyta, kad priimto įsipareigojimo dėl kainos nepakanka žalai pašalinti, gali būti priimtas papildomas įsipareigojimas dėl kainos arba pradėtas taikyti antidempingo muitas, o jeigu taikomo antidempingo muito nepakanka žalai pašalinti, jis gali būti padidintas nepažeidžiant šio Įstatymo 27, 28 ir 29 straipsnių reikalavimų.
+ 
+
+35 straipsnis. Antidempingo muito grąžinimas
 
 1. Importuotojas gali reikalauti grąžinti jo sumokėtą antidempingo muitą ar jo dalį, jei dempingo skirtumas, kurio pagrindu buvo taikomas antidempingo muitas, buvo likviduotas arba sumažėjo.
 
-2. Reikalaudamas grąžinti sumokėtą muitą, viršijantį šio straipsnio 1 dalyje nurodytą dempingo skirtumą, importuotojas turi pateikti prašymą Valstybinei konkurencijos ir vartotojų teisių gynimo tarnybai. Prašymas turi būti pateiktas per 6 mėnesius nuo dienos, kai buvo nuspręsta taikyti antidempingo muitą laikinųjų priemonių taikymo laikotarpiu, arba nuo dienos, kai pasibaigė taikyto antidempingo muito galiojimo laikas.
+2. Importuotojo prašymas grąžinti sumokėtą muitą arba jo dalį, viršijančią 1 dalyje nurodytą dempingo skirtumą, turi būti motyvuotas ir pagrįstas įrodymais. Prašymas institucijai turi būti pateiktas per 6 mėnesius nuo dienos, kurią buvo nuspręsta taikyti antidempingo muitą tyrimo metu importuotoms svarstomoms prekėms, arba nuo dienos, kurią pasibaigė taikyto antidempingo muito galiojimo laikas.
 
 3. Kartu su prašymu grąžinti muitą turi būti pateikta:
 
 1) informacija apie grąžintino antidempingo muito dydį;
 
-2) įrodymai, susiję su eksportuotojo, kuriam taikomas muitas, svarstomos prekės normaliąja verte ir eksporto kaina nagrinėjamu laikotarpiu;
+2) įrodymai, susiję su eksportuotojo ar gamintojo, kuriam taikomas muitas, svarstomos prekės normaliąja verte ir eksporto kaina nagrinėjamu laikotarpiu;
 
-3) jeigu importuotojas nėra susijęs su eksportuotoju ir negali tuojau pat gauti šios dalies 1 ir 2 punktuose nustatytos informacijos arba jeigu eksportuotojas nenori perduoti šios informacijos importuotojui, – eksportuotojo patvirtinimas, kad dempingo skirtumas buvo sumažintas arba jo neliko ir kad su tuo susiję įrodymai bus pateikti Valstybinei konkurencijos ir vartotojų teisių gynimo tarnybai.
+3) jeigu importuotojas nėra susijęs su eksportuotoju ir negali tuojau pat gauti šios dalies 1 ir 2 punktuose nustatytos informacijos arba jeigu eksportuotojas nenori perduoti šios informacijos importuotojui, – eksportuotojo patvirtinimas, kad dempingo skirtumas buvo sumažintas arba jo neliko ir kad su tuo susiję įrodymai bus pateikti institucijai.
 
-4. Prie prašymo turi būti pridėtos muitinės deklaracijos ir kiti dokumentai, susiję su grąžintino antidempingo muito dydžio apskaičiavimu ir mokėjimu.
+4. Prie prašymo turi būti pridėtos muitinės deklaracijos ir kiti dokumentai, susiję su grąžintino antidempingo muito dydžio apskaičiavimu ir mokėjimu, bei nurodyta, kokiai teritorinei muitinei antidempingo muitas buvo sumokėtas.
 
-5. Jei per 2 mėnesius nuo prašymo grąžinti muitą pateikimo dienos eksportuotojas nepateikia patvirtinimo, kad dempingo skirtumas buvo sumažintas arba jo neliko, ir su tuo susijusių įrodymų, importuotojo prašymas atmetamas.
+5. Jei šio straipsnio 3 dalies 3 punkte nurodytu atveju eksportuotojas per 2 mėnesius nuo prašymo grąžinti muitą pateikimo dienos nepateikia patvirtinimo, kad dempingo skirtumas buvo sumažintas arba jo neliko, ir su tuo susijusių įrodymų, importuotojo prašymas atmetamas.
 
-6. Konkurencijos taryba turi nuspręsti, ar prašymą patenkinti ir antidempingo muitą ar jo dalį grąžinti. Jei nuspręsta antidempingo muitą ar jo dalį grąžinti, Konkurencijos taryba turi nustatyti gražinamą sumą.
+6. Išnagrinėjusi pateiktus įrodymus, institucija turi nuspręsti, ar jų pakanka pagrįsti prašymui grąžinti sumokėtą antidempingo muitą ar jo dalį, ar būtina atlikti taikomo antidempingo muito peržiūrą. Tokiai peržiūrai taikomos šio Įstatymo 34 straipsnyje nustatytos procedūros. Vyriausybė, išnagrinėjusi institucijos pateiktus siūlymus ir peržiūros (jei ji buvo atliekama) išvadas, nusprendžia grąžinti antidempingo muitą ar jo dalį arba jo negrąžinti. Priėmusi nutarimą grąžinti antidempingo muitą ar jo dalį, Vyriausybė nustato grąžintinos sumos dydį.
 
-7. Konkurencijos taryba gali nuspręsti vykdyti tarpinę peržiūrą, pagal kurios rezultatus priimamas nutarimas grąžinti ar negrąžinti antidempingo muitą. Šiai peržiūrai vykdyti taikomos šio įstatymo 32 straipsnyje nustatytos peržiūros procedūros.
+7. Nutarimas dėl antidempingo muito ar jo dalies grąžinimo turi būti priimtas ne vėliau kaip per 12 mėnesių nuo prašymo jį grąžinti pateikimo dienos. Priklausanti grąžinti suma turi būti grąžinta ne vėliau kaip per 90 kalendorinių dienų nuo nutarimo ją grąžinti įsigaliojimo dienos. Kitos antidempingo muito grąžinimo procedūros atliekamos Lietuvos Respublikos muitinės kodekso nustatyta tvarka.
 
-8. Ar grąžinti antidempingo muitą, Konkurencijos taryba turi nuspręsti per 12 mėnesių nuo prašymo, nurodyto šio straipsnio 3 dalyje, pateikimo dienos. Priklausanti grąžinti suma turi būti grąžinta ne vėliau kaip per 90 kalendorinių dienų nuo nutarimo ją grąžinti įsigaliojimo dienos.
+8. Institucija per 15 kalendorinių dienų nuo Vyriausybės nutarimo grąžinti antidempingo muitą ar jo dalį paskelbimo „Valstybės žiniose“ praneša apie tai teritorinei muitinei, kuriai antidempingo muitai sumokėti. Šiai muitinei taip pat pateikia informaciją: Lietuvos Respublikos fizinio ar juridinio asmens, kuriam antidempingo muitas ar jo dalis turi būti grąžintas, pavadinimą, adresą (buveinės adresą) ir identifikavimo kodą; muitinės deklaracijų, pagal kurias antidempingo muitas sumokėtas (išieškotas), numerius ir datas bei grąžintino antidempingo muito sumą (skaičiais ir žodžiais).
 
-9. Antidempingo muitą iš surinktų muitų ir mokesčių įplaukų grąžina teritorinė muitinė, kurios veiklos zonoje yra įregistruotas ūkio subjektas. Antidempingo muitui grąžinti gali būti panaudotos ir kitų teritorinių muitinių surinktos muitų ir mokesčių įplaukos Muitinės departamento prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka.
-
-10. Šio straipsnio 1 dalyje nenurodytais atvejais antidempingo muitas grąžinamas vadovaujantis Lietuvos Respublikos muitinės kodekso nuostatomis.
- 
-
-30 straipsnis. Antidempingo muito galiojimas
-
-Antidempingo muitas turi būti taikomas tik tol, kol jis yra būtinas dempingui, sukeliančiam žalą vietiniams gamintojams, kompensuoti, bet ne ilgiau kaip 5 metus nuo nutarimo taikyti šį muitą įsigaliojimo dienos, arba, jeigu pagal šio įstatymo šeštojo skirsnio nuostatas po to buvo vykdytos peržiūros, nuo paskutinės antidempingo muito taikymo peržiūros, kurios metu nustatyta, kad antidempingo muitas būtinas dempingui kompensuoti ir jo žalai pašalinti, baigimo dienos, atsižvelgiant į šio įstatymo 32 straipsnio 3 dalies nuostatas.
- 
-
-ŠEŠTASIS SKIRSNIS
-ANTIDEMPINGO MUITO TAIKYMO IR ĮSIPAREIGOJIMO DĖL KAINOS PERŽIŪROS
- 
-
-31 straipsnis. Antidempingo muito taikymo ir įsipareigojimo dėl kainos peržiūros inicijavimas
-
-1. Antidempingo muito taikymas ir įsipareigojimas dėl kainos peržiūrimi:
-
-1) baigiantis antidempingo muito taikymo ar įsipareigojimo dėl kainos galiojimo 5 metų terminui, nustatytam pagal šio įstatymo 23 ir 30 straipsnius, Konkurencijos tarybos iniciatyva arba vietinių gamintojų prašymu, motyvuotu tuo, kad antidempingo muito ar įsipareigojimo dėl kainos panaikinimas sąlygos dempingo ir žalos tęsimąsi ar atsiradimą iš naujo, ir reikalaujančiu pratęsti jų taikymą ar galiojimą;
-
-2) vietinių gamintojų prašymu, motyvuotu tuo, kad taikomo antidempingo muito dydžio ar priimto įsipareigojimo dėl kainos nepakanka žalai pašalinti. Šis prašymas gali būti pateiktas ne anksčiau kaip po 12 mėnesių nuo nutarimo taikyti antidempingo muitą ar priimti įsipareigojimą dėl kainos įsigaliojimo dienos, išskyrus šio straipsnio 1 dalies 5 punkte numatytą atvejį;
-
-3) prekės eksportuotojų ar importuotojų prašymu, motyvuotu tuo, kad antidempingo muitas ar įsipareigojimas dėl kainos jau nebūtini dempingo skirtumui kompensuoti ar pašalinti ir žalai pašalinti, arba teigiančiu, kad antidempingo muito ar įsipareigojimo dėl kainos dydis turi būti sumažintas. Šis prašymas gali būti pateiktas ne anksčiau kaip po 12 mėnesių nuo nutarimo taikyti antidempingo muitą ar priimti įsipareigojimą dėl kainos įsigaliojimo dienos;
-
-4) Konkurencijos tarybos iniciatyva, motyvuota tuo, kad taikomo antidempingo muito dydžio ar įsipareigojimo dėl kainos nepakanka žalai pašalinti arba kad nustatyto dydžio antidempingo muitas ar įsipareigojimas dėl kainos jau nebūtini;
-
-5) vietinių gamintojų prašymu, motyvuotu tuo, kad antidempingo muito taikymas ar įsipareigojimo dėl kainos priėmimas nesukėlė prekės pardavimo Lietuvos Respublikos muitų teritorijoje kainų padidėjimo arba šių kainų padidėjimas buvo nepakankamas. Šis prašymas gali būti pateiktas ne anksčiau kaip po 4 mėnesių nuo nutarimo taikyti antidempingo muitą ar priimti įsipareigojimą dėl kainos įsigaliojimo dienos. Šiuo atveju peržiūros trukmė neturi viršyti 6 mėnesių.
-
-2. Vietinių gamintojų prašymas peržiūrėti antidempingo muito taikymą ar įsipareigojimą dėl kainos turi būti pateiktas ne mažiau kaip prieš 3 mėnesius, kai turi baigtis 5 metų antidempingo muito taikymo ar įsipareigojimo dėl kainos galiojimo terminas.
-
-3. Prašymas peržiūrėti antidempingo muito taikymą ar įsipareigojimą dėl kainos turi būti motyvuotas ir pagrįstas įrodymais.
-
-4. Nutarimą vykdyti antidempingo muito taikymo ir įsipareigojimo dėl kainos peržiūrą Konkurencijos taryba turi priimti ne mažiau kaip prieš 2 mėnesius, kai turi baigtis 5 metų antidempingo muito taikymo ar įsipareigojimo dėl kainos galiojimo terminas.
-
-5. Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba, likus ne daugiau kaip 12 ir ne mažiau kaip 8 mėnesiams iki antidempingo muito taikymo ar įsipareigojimo dėl kainos galiojimo 5 metų termino pabaigos, apie tai, kad artėja šio termino pabaiga, turi paskelbti „Valstybės žiniose“. Jei antidempingo muito taikymo ar įsipareigojimo dėl kainos galiojimo terminas nepratęsiamas, Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba turi taip pat apie tai paskelbti „Valstybės žiniose“ bei pranešti visoms žinomoms suinteresuotosioms šalims.
- 
-
-32 straipsnis. Antidempingo muito taikymo ir įsipareigojimo dėl kainos peržiūros procedūros
-
-1. Antidempingo muito taikymo ir įsipareigojimo dėl kainos peržiūros procedūroms ir įrodymams turi būti taikomi šio įstatymo 7, 8, 10, 11, 12, 13 ir 14 straipsnių reikalavimai, jeigu šiame skirsnyje nenustatyta kitaip.
-
-2. Antidempingo muito taikymo ar įsipareigojimo dėl kainos peržiūros trukmė neturi viršyti 12 mėnesių, išskyrus šio įstatymo 31 straipsnio 1 dalies 5 punkte nustatytą atvejį.
-
-3. Antidempingo muito ar įsipareigojimo dėl kainos dydis turi likti nepakeistas iki peržiūros pabaigos. Jei pagal šio įstatymo 23 ar 30 straipsnių nuostatas antidempingo muito taikymas ar įsipareigojimo dėl kainos galiojimas turėtų baigtis peržiūros metu, šios priemonės turi būti taikomos iki atliekamos peržiūros pabaigos. Tačiau tai neriboja galimybės pagal 23 ir 30 straipsnių nuostatas ir toliau taikyti šias priemones arba šio straipsnio 6 dalies nuostatą, jei peržiūros metu būtų nustatyta, kad antidempingo muito ar įsipareigojimo dėl kainos taikymas yra būtinas, jog būtų kompensuotas ar pašalintas dempingo skirtumas ir pašalinta žala vietiniams gamintojams.
-
-4. Jei atlikus peržiūrą nustatyta, kad netaikant antidempingo muito ar atleidus eksportuotoją nuo įsipareigojimo dėl kainos nebus būtinybės kompensuoti ar pašalinti dempingo skirtumą arba dempingas nepadarys žalos vietiniams gamintojams, antidempingo muito dydis ir (ar) įsipareigojimo dėl kainos dydis turi būti sumažintas iki nulio ir taikomas iki šių priemonių galiojimo pabaigos, kaip tai nustatyta šio įstatymo 23 ir 30 straipsniuose.
-
-5. Jei atlikus peržiūrą nustatyta, kad sumažinus antidempingo muito ar įsipareigojimo dėl kainos dydį nebus būtinybės kompensuoti ar pašalinti dempingo skirtumą arba dempingas nepadarys žalos vietiniams gamintojams, antidempingo muito ar įsipareigojimo dėl kainos dydis turi būti atitinkamai sumažintas.
-
-6. Jei atlikus peržiūrą nustatyta, kad priimto įsipareigojimo dėl kainos nepakanka žalai pašalinti, gali būti priimtas papildomas eksportuotojo įsipareigojimas dėl kainos arba pradėtas taikyti antidempingo muitas, o jeigu taikomo antidempingo muito nepakanka žalai pašalinti, jis gali būti padidintas nepažeidžiant šio įstatymo 24 ir 25 straipsnių reikalavimų.
- 
-
-SEPTINTASIS SKIRSNIS
-NUSTATYTO ANTIDEMPINGO MUITO IŠVENGIMAS
- 
-
-33 straipsnis. Nustatyto antidempingo muito išvengimo atvejai
-
-1. Nustatyto antidempingo muito išvengiama, kai yra tenkinamos abi šios sąlygos:
-
-1) pastebimi prekybos tarp trečiųjų šalių ir Lietuvos būdą keičiantys praktika, procesas ar veiksmai, kuriems nėra kitos pakankamos priežasties ar ekonominio pagrindimo, kaip antidempingo muito taikymas;
-
-2) yra įrodymų, kad taisantis padėtį muito poveikis yra mažinamas (tai matyti nagrinėjant panašių prekių eksporto kainas ir (ar) importo kiekį) ir yra akivaizdus dempingas palyginti su anksčiau nustatyta prekės, kuriai taikomas antidempingo muitas, normaliąja verte.
-
-2. Gaminio surinkimo operacijos Lietuvos Respublikos muitų teritorijoje ar trečiojoje šalyje laikomos antidempingo muito išvengimo atveju, kai tenkinamos visos šios sąlygos:
-
-1) operacijos prasidėjo ar labai jų pagausėjo prasidėjus dempingo tyrimams arba prieš pat pradedant tyrimus, o surinkimo komponentai yra įvežami iš valstybių, kurioms taikomos antidempingo priemonės, ir, šį įstatymą vykdančių institucijų nuomone, šių operacijų pradžią galima sieti su tyrimų pradžia;
-
-2) žalą pašalinantis antidempingo muito poveikis yra mažinamas didinant surinktos panašios prekės kiekį ar mažinant kainas ir yra akivaizdus dempingas palyginti su anksčiau nustatyta prekės, kuriai įvestas antidempingo muitas, normaliąja verte;
-
-3) įvežami komponentai sudaro ne mažiau kaip 60 procentų surinktos prekės dalių bendrosios vertės.
-
-3. Jei įvežtų komponentų surinkimo ar užbaigimo operacijos (operacijos, kurių reikia iš esmės pagamintam gaminiui užbaigti) pridėtinė vertė sudaro daugiau kaip 25 procentus gamybos išlaidų, laikoma, jog antidempingo muito neišvengiama, nors ir būtų tenkinamos visos šio straipsnio 2 dalyje nustatytos sąlygos.
- 
-
-34 straipsnis. Veiksmai, esant nustatyto antidempingo muito išvengimo atvejams
-
-1. Kai antidempingo muito yra išvengiama, šis muitas gali būti imtas taikyti panašių prekių ar jų komponentų importui iš trečiųjų šalių.
-
-2. Antidempingo muito išvengimo atveju tyrimas dėl antidempingo muito taikymo trečiosioms šalims gali būti pradėtas, kai Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba gauna vietinių gamintojų vardu pateiktą prašymą. Šiame prašyme turi būti pateikta pakankamai įrodymų, kad yra tenkinamos šio įstatymo 33 straipsnio 1 dalyje nustatytos sąlygos, kurių pagrindu Konkurencijos taryba nusprendžia vykdyti tyrimą.
-
-3. Tyrimas negali trukti ilgiau kaip 9 mėnesius.
-
-4. Vykdant tyrimą ir siekiant įrodyti, kad vengiama antidempingo muito, turi būti laikomasi šio įstatymo 7, 8, 10, 13 ir 14 straipsnių reikalavimų, o informuojant apie tyrimą ir priimamus nutarimus dėl dempingo muitų – 9 skirsnio nuostatų.
+9. Šio straipsnio 1 dalyje nenurodytais atvejais antidempingo muitas grąžinamas vadovaujantis Lietuvos Respublikos muitinės kodekso nuostatomis.
  
 
 AŠTUNTASIS SKIRSNIS
-NUTARIMŲ dėl antidempingo priemonių apskundimas
+NUSTATYTO ANTIDEMPINGO MUITO IŠVENGIMAS
  
 
-35 straipsnis. Konkurencijos tarybos nutarimų apskundimas
+36 straipsnis. Nustatyto antidempingo muito išvengimo atvejai
 
-1. Jei suinteresuotoji šalis nesutinka su Konkurencijos tarybos priimtais nutarimais dėl antidempingo muito taikymo ar netaikymo ir su nutarimais priimti įsipareigojimą dėl kainos ar su nutarimais, priimtais atlikus peržiūras pagal šio įstatymo šeštojo skirsnio nuostatas, arba nesutinka su šį įstatymą vykdančių institucijų veiksmais, susijusiais su šių nutarimų priėmimu, ji gali kreiptis į Vyriausiąją administracinių ginčų komisiją. Nesutikusi su šios komisijos sprendimu, suinteresuotoji šalis gali jį apskųsti Vilniaus apygardos administraciniam teismui. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1339, 1999-09-28, Žin., 1999, Nr. 85-2513 (1999-10-13), i. k. 0991010ISTAIII-1339
-Nr. VIII-1934, 2000-09-19, Žin., 2000, Nr. 84-2531 (2000-10-06), i. k. 1001010ISTAIII-1934
+1. Laikoma, kad nustatyto antidempingo muito išvengiama, kai yra tenkinamos abi šios sąlygos:
+
+1) Vyriausybei priėmus nutarimą taikyti antidempingo muitą, pasikeitė trečiųjų šalių ir Lietuvos Respublikos prekybos svarstoma preke būdas;
+
+2) panašios prekės kainų ir (ar) pardavimo kiekio pokyčiai rodo, kad antidempingo muito taikymo efektyvumas sumažėjo ir yra dempingo įrodymų, palyginti su anksčiau nustatyta prekės, kuriai taikomas antidempingo muitas, normaliąja verte.
+
+2. Gaminio surinkimo operacijos Lietuvos Respublikos muitų teritorijoje ar trečiojoje šalyje laikomos antidempingo muito išvengimo atveju, kai yra visos šios sąlygos:
+
+1) operacijos prasidėjo ar labai jų pagausėjo prasidėjus dempingo tyrimams arba prieš pat pradedant tyrimus, o svarstomos prekės surenkami komponentai įvežami iš valstybių, kurioms taikomos antidempingo priemonės, ir, institucijos nuomone, šių operacijų pradžią galima sieti su tyrimų pradžia;
+
+2) žalą atsveriantis antidempingo muito poveikis yra mažinamas didinant surinktos svarstomos prekės kiekį ar mažinant kainas ir yra akivaizdus dempingas, palyginti su anksčiau nustatyta prekės, kuriai taikomas antidempingo muitas, normaliąja verte;
+
+3) įvežami komponentai sudaro ne mažiau kaip 60 procentų surinktos prekės dalių bendrosios vertės.
+
+3. Jei įvežtų svarstomos prekės komponentų surinkimo ar svarstomos prekės gamybos užbaigimo operacijos (operacijos, kurios būtinos užbaigti iš esmės pagamintos prekės gamybos procesą) pridėtinė vertė sudaro daugiau kaip 25 procentus gamybos išlaidų, laikoma, jog antidempingo muito neišvengiama, nors ir būtų tenkinamos visos šio straipsnio 2 dalyje nustatytos sąlygos.
  
 
-2. Jeigu prieš priimdama nutarimą Konkurencijos taryba atmetė suinteresuotosios šalies pareikštas pretenzijas arba į jas neatsakė, arba jeigu suinteresuotoji šalis prieš priimant nutarimą nebuvo informuota, kaip tai numatyta šio įstatymo devintajame skirsnyje, suinteresuotoji šalis turi teisę šiuos veiksmus apskųsti.
+37 straipsnis. Veiksmai, nustačius antidempingo muito išvengimo atvejus
 
-3. Jei suinteresuotosios šalies pretenzijos buvo atmestos, apskųsti galima per 2 mėnesius nuo Konkurencijos tarybos galutinio nutarimo įsigaliojimo dienos, o jei suinteresuotoji šalis nebuvo tinkamai informuota, apskųsti galima per 6 mėnesius nuo galutinio nutarimo įsigaliojimo dienos.
+1. Kai antidempingo muito yra išvengiama, šis muitas gali būti imtas taikyti panašių prekių ar jų komponentų importui iš trečiųjų šalių.
 
-4. Apskundimas Vilniaus apygardos administraciniam teismui nesustabdo Konkurencijos tarybos nutarimų galiojimo, jei Vilniaus apygardos administracinis teismas nenustato kitaip.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1339, 1999-09-28, Žin., 1999, Nr. 85-2513 (1999-10-13), i. k. 0991010ISTAIII-1339
-Nr. VIII-1934, 2000-09-19, Žin., 2000, Nr. 84-2531 (2000-10-06), i. k. 1001010ISTAIII-1934
+2. Nustačius, kad antidempingo muito išvengta, tyrimas dėl antidempingo muito taikymo trečiosioms šalims gali būti pradėtas, kai institucija gauna vietinių gamintojų vardu pateiktą prašymą. Prašyme turi būti pateikta pakankamai įrodymų, kad yra šio Įstatymo 36 straipsnio 1 dalyje nustatytos sąlygos. Šių įrodymų pagrindu institucija nusprendžia atlikti tyrimą.
+
+3. Tyrimas negali trukti ilgiau kaip 9 mėnesius.
+
+4. Atliekant tyrimą ir siekiant įrodyti, kad vengiama antidempingo muito, turi būti laikomasi šio Įstatymo 12, 13, 15, 17 ir 27 straipsnių reikalavimų, o informuojant apie tyrimą ir priimamus nutarimus dėl antidempingo muitų – dešimtojo skirsnio nuostatų.
  
 
 DEVINTASIS SKIRSNIS
-INFORMAVIMAS
+apskundimas
  
 
-36 straipsnis. Nutarimų paskelbimas
+38 straipsnis. Vyriausybės įgaliotos institucijos sprendimų ir veiksmų apskundimas
 
-1. Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba turi viešai paskelbti Konkurencijos tarybos priimtus nutarimus. 
+1. Jei suinteresuotoji šalis nesutinka su institucijos priimtais sprendimais ar veiksmais, ji turi teisę juos apskųsti Vilniaus apygardos administraciniam teismui. Skundas Vilniaus apygardos administraciniam teismui gali būti paduotas per 3 mėnesius nuo skundžiamo sprendimo paskelbimo ar įteikimo suinteresuotajai šaliai dienos.
 
-2. „Valstybės žiniose“ skelbiami šie Konkurencijos tarybos nutarimai:
+2. Jei suinteresuotoji šalis nesutinka su institucijos veiksmais įgyvendinant šį Įstatymą arba neveikimu, ji turi teisę tai apskųsti Vilniaus apygardos administraciniam teismui. Skundas Vilniaus apygardos administraciniam teismui gali būti paduotas per 1 mėnesį nuo skundžiamo veiksmo atlikimo ar pranešimo apie šį veiksmą suinteresuotajai šaliai dienos. Skundas dėl institucijos neveikimo Vilniaus apygardos administraciniam teismui gali būti paduotas per 1 mėnesį nuo kitos dienos, kai baigiasi šiame Įstatyme nustatytas laikas atitinkamam veiksmui atlikti ar klausimui išspręsti. 
 
-1) vykdyti tyrimą;
-
-2) priimti įsipareigojimą dėl kainos arba atsisakyti jį priimti;
-
-3) sustabdyti tyrimą;
-
-4) taikyti laikinąjį muitą;
-
-5) taikyti antidempingo muitą, įskaitant antidempingo muito taikymą už praėjusį laikotarpį, ar jo netaikyti;
-
-6) vykdyti antidempingo muito taikymo ir įsipareigojimo dėl kainos peržiūrą;
-
-7) pratęsti antidempingo muito taikymo ir įsipareigojimo dėl kainos galiojimo terminą po peržiūros, nustatyti naują šių priemonių dydį arba nutraukti šių priemonių taikymą;
-
-8) baigti tyrimą;
-
-9) grąžinti antidempingo muitą.
-
-3. Konkurencijos tarybai nusprendus vykdyti tyrimą arba vykdyti antidempingo muito taikymo ir įsipareigojimo dėl kainų peržiūrą, apie tai turi būti paskelbta „Valstybės žiniose“ ir pateikta ši informacija:
-
-1) eksportuojančios valstybės ar valstybių pavadinimai;
-
-2) prekės, dėl kurios atliekamas tyrimas ar peržiūra, pavadinimas;
-
-3) tyrimo ar peržiūros pradžios data;
-
-4) įtarimo, kad yra dempingas (prašyme ištirti dempingą), arba įtarimo, kad yra pasikeitęs dempingo mastas, įrodymai (prašyme dėl peržiūros);
-
-5) santrauka įrodymų, kuriais grindžiamas įtarimas, kad yra žala arba kad pasikeitęs žalos mastas;
-
-6) adresas, kuriuo turi būti pateikiama informacija;
-
-7) laikotarpis, skirtas suinteresuotųjų šalių pranešimams pateikti.
-
-4. Nutarime taikyti laikinąjį muitą, atsižvelgiant į informacijos konfidencialumo reikalavimus, turi būti:
-
-1) eksportuotojų pavadinimai, o jei tai neįmanoma, eksportuojančių šalių pavadinimai;
-
-2) detalus prekės aprašymas, kad pagal Kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklatūrą būtų galima ją klasifikuoti, ir prekės kodas pagal šią nomenklatūrą;
-
-3) nurodytas dempingo skirtumas ir metodikos, kuria naudojantis nustatoma eksporto kaina, prekės normalioji vertė bei dempingo skirtumas, pasirinkimo paaiškinimas;
-
-4) įrodymai, kuriais remiantis nustatyta žala;
-
-5) pagrindiniai nutarimo priėmimo motyvai, įskaitant faktus ir teisės aktus bei jų nuostatas, kuriais buvo remtasi priimant ar atmetant suinteresuotųjų šalių pateiktus argumentus.
-
-5. Nutarime priimti įsipareigojimą dėl kainos arba atsisakyti jį priimti, atsižvelgiant į informacijos konfidencialumo reikalavimus, turi būti pateikta visa svarbi informacija apie faktus, teisės aktų nuostatas bei priežastis, kuriais remiantis buvo priimtas šis nutarimas. Jei nutarimu priimti įsipareigojimą dėl kainos tyrimas yra baigiamas, šiame nutarime, atsižvelgiant į informacijos konfidencialumo reikalavimus, turi būti pateikta visa šio straipsnio 4 dalyje nustatyta informacija, nutarimų, priimtų pagal šio įstatymo 12 straipsnio 4 dalį, pagrindimas ir nuoroda į viešai prieinamą dokumentą, kuriame yra išdėstyta priimto įsipareigojimo dėl kainos nekonfidencialioji dalis. Šis dokumentas turi būti laikomas Valstybinėje konkurencijos ir vartotojų teisių gynimo tarnyboje.
-
-6. Nutarime taikyti antidempingo muitą, įskaitant antidempingo muito taikymą už praėjusį laikotarpį, nustatomas antidempingo muito skaičiavimo metodas, muito dydis ir kiti būtini parametrai bei pateikiama šio straipsnio 4 dalyje nustatyta informacija ir nutarimų, priimtų pagal šio įstatymo 12 straipsnio 4 dalį, pagrindimas, o jei buvo siūlytas eksportuotojo įsipareigojimas dėl kainos, – šio įsipareigojimo priėmimo ar atmetimo priežastys.
-
-7. Nutarime baigti tyrimą, kai priimtas galutinis nutarimas netaikyti antidempingo muito (atsižvelgiant į dempingą ir žalą vietiniams gamintojams bei į Lietuvos valstybės interesus), vadovaujantis informacijos konfidencialumo reikalavimais, turi būti pateikta visa svarbi informacija apie faktus, teisės nuostatas bei priežastis, kurių pagrindu buvo priimtas nutarimas, o jei buvo siūlomas eksportuotojo įsipareigojimas dėl kainos, – jo priėmimo ar atmetimo priežastys.
-
-8. Šio straipsnio 2 dalies 7 punkte nurodytame nutarime turi būti pateikta šio straipsnio 4 dalyje nustatyta informacija bei nutarimų, priimtų pagal šio įstatymo 12 straipsnio 4 dalį, pagrindimas.
-
-9. Konkurencijos tarybos nutarimų, išvardytų šio straipsnio 2 dalies 2, 5 ir 7 punktuose, kopijos per 15 kalendorinių dienų nuo nutarimų įsigaliojimo turi būti perduotos kiekvienai žinomai suinteresuotajai šaliai.
- 
-
-37 straipsnis. Pagrindinių faktų ir motyvų atskleidimas suinteresuotosioms šalims
-
-1. Suinteresuotosios šalys gali reikalauti pateikti joms išsamią informaciją apie pagrindinius faktus bei motyvus, kurių pagrindu nustatytos laikinosios priemonės. Į šiuos reikalavimus atsakoma, jei jie gaunami raštu per 15 kalendorinių dienų po laikinųjų priemonių nustatymo. Atsakyti į šiuos reikalavimus Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba turi raštu ne vėliau kaip per 30 kalendorinių dienų po laikinųjų priemonių nustatymo.
-
-2. Suinteresuotosios šalys gali reikalauti galutinio pranešimo apie svarbiausius faktus bei motyvus, kurių pagrindu ketinama taikyti antidempingo muitą arba nutraukti tyrimą ir netaikyti antidempingo muito.
-
-3. Reikalavimas pateikti šio straipsnio 2 dalyje nurodytą pranešimą turi būti pateiktas raštu Valstybinei konkurencijos ir vartotojų teisių gynimo tarnybai. Jei yra taikomas laikinasis muitas, reikalavimas dėl pranešimo turi būti gautas ne vėliau kaip per 1 mėnesį po nutarimo taikyti šį muitą įsigaliojimo dienos. Jei laikinasis muitas netaikomas, suinteresuotosioms šalims turi būti suteikiama galimybė gauti galutinį pranešimą per Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos nustatytą laiką.
-
-4. Galutinis pranešimas turi būti pateikiamas raštu ne vėliau kaip per 1 mėnesį iki nutarimo taikyti antidempingo muitą arba nutraukti tyrimą, jeigu nepriimtas nutarimas taikyti antidempingo muitą. Pateikiant galutinį pranešimą, būtina atsižvelgti į konfidencialios informacijos saugumo reikalavimus. Ypatingas dėmesys turi būti skiriamas išdėstymui tų faktų ir motyvų, kurie skiriasi nuo faktų ir motyvų, panaudotų laikinosioms priemonėms nustatyti.
-
-5. Jei Valstybinė konkurencijos ir vartotojų teisių gynimo tarnyba galutinio pranešimo pateikimo metu negali skelbti tam tikrų faktų ar motyvų, šie faktai ar motyvai turi būti pranešti nedelsiant, kai atsiranda galimybė. Nuo pranešimo pateikimo nepriklauso jokie tolesni šį įstatymą vykdančių institucijų nutarimai, tačiau tais atvejais, kai nutarimai yra pagrįsti kokiais nors kitais faktais bei motyvais nei atskleistieji galutiniame pranešime, apie šiuos faktus bei motyvus turi būti nedelsiant pranešta.
-
-6. Gavusios galutinį pranešimą, suinteresuotosios šalys gali pareikšti savo nuomones ir pastabas, tačiau į jas atsižvelgiama tik tuo atveju, kai jos gautos per Valstybinės konkurencijos ir vartotojų teisių gynimo tarnybos nustatytą ne trumpesnį kaip 10 kalendorinių dienų laikotarpį.
- 
-
-38 straipsnis. Informacijos konfidencialumas
-
-1. Visa informacija, kuri yra konfidenciali (pavyzdžiui, jei jos atskleidimas suteiktų didelį pranašumą konkurentams ar turėtų didelį neigiamą poveikį informaciją pateikusiam subjektui ar asmeniui, iš kurio tas subjektas informaciją įsigijo) arba kurios konfidencialumo prašo ją pateikusios suinteresuotosios šalys, šį įstatymą vykdančių institucijų yra laikoma konfidencialia. Šį įstatymą vykdančios institucijos, gavusios konfidencialią informaciją, negali jos atskleisti be informacijos teikėjo leidimo.
-
-2. Suinteresuotosios šalys, teikdamos konfidencialią informaciją šį įstatymą vykdančioms institucijoms, kartu privalo pateikti nekonfidencialias šios informacijos santraukas. Santraukos turi būti detalios ir aiškiai atspindėti pateiktos informacijos prasmę. Jeigu šį įstatymą vykdančios institucijos atstovai ar kitos tyrimuose dalyvaujančios suinteresuotosios šalys pareiškia, kad pateikta santrauka neatskleidžia konfidencialios informacijos prasmės, informaciją teikęs subjektas privalo pateikti raštišką priežasčių išaiškinimą, kodėl negalima parengti tinkamos santraukos.
-
-3. Jeigu prašymas dėl informacijos konfidencialumo, šį įstatymą vykdančių institucijų nuomone, yra nepagrįstas ir informacijos teikėjas nesutinka, kad ji būtų viešai atskleista (apibendrinta ar santraukos forma), įstatymą vykdanti institucija neturi atsižvelgti į tokią informaciją. Tačiau jeigu yra kitų šaltinių, patvirtinančių informacijos teisingumą, į ją atsižvelgiama. Pats prašymas laikyti informaciją konfidencialia neturi būti atmestas.
-
-4. Gauta informacija turi būti naudojama tik tam tikslui, kuriam jos buvo reikalauta.
+3. Apskundimas Vilniaus apygardos administraciniam teismui nesustabdo institucijos sprendimų galiojimo, jei Vilniaus apygardos administracinis teismas nenustato kitaip.
  
 
 DEŠIMTASIS SKIRSNIS
-Antidempingo priemonės trečiosios ŠALIES naudai
+INFORMAVIMAS
  
 
-39 straipsnis. Prašymas dėl antidempingo priemonių trečiosios šalies naudai
+39 straipsnis. Nutarimų ir sprendimų skelbimas
 
-1. Prašymą antidempingo priemones panaudoti trečiosios šalies naudai, kad būtų apginti jos gamintojai, gali pateikti trečiosios šalies valstybinė institucija.
+1. Vykdant šį Įstatymą Vyriausybės priimti nutarimai yra skelbiami įstatymų nustatyta tvarka.
 
-2. Šiame prašyme turi būti pateikta informacija apie kainas, iš kurios būtų matyti, kad importuojamos prekės yra dempingo kainomis, bei detali informacija, rodanti, kad įtariamas dempingas daro žalą prašymą teikiančios trečiosios šalies vietiniams gamintojams. Antidempingo veiksmų trečiosios šalies naudai gali būti imamasi, jei šios šalies vyriausybė teikia visą reikalingą informaciją ir pagalbą šį įstatymą vykdančioms institucijoms.
+2. Įstatymų nustatyta tvarka „Valstybės žinių“ priede „Informaciniai pranešimai“ skelbiami šios dalies 1, 2, 3, 6, 8 punktuose nurodyti institucijos sprendimai ir informacija apie faktus ir motyvus, kuriais remiantis teikiami atitinkami siūlymai Vyriausybei:
+
+1) atlikti tyrimą;
+
+2) priimti įsipareigojimą dėl kainos arba atsisakyti jį priimti, įskaitant sprendimą priimti įsipareigojimą ir tyrimą sustabdyti;
+
+3) baigti tyrimą;
+
+4) taikyti laikinąjį antidempingo muitą;
+
+5) taikyti antidempingo muitą, įskaitant antidempingo muitą tyrimo metu importuotoms svarstomoms prekėms;
+
+6) atlikti antidempingo muito taikymo ir įsipareigojimo dėl kainos peržiūrą;
+
+7) pratęsti antidempingo muito taikymo terminą po peržiūros, nustatyti naują antidempingo muito dydį arba panaikinti antidempingo muito taikymą;
+
+8) pratęsti įsipareigojimo dėl kainos galiojimo terminą po peržiūros arba priimti papildomą įsipareigojimą;
+
+9) grąžinti antidempingo muitą.
+
+3. Institucijos sprendime atlikti tyrimą arba antidempingo muito taikymo ar įsipareigojimo dėl kainų peržiūrą turi būti ši informacija:
+
+1) užsienio gamintojų ar eksportuotojų pavadinimai, o jei tai neįmanoma, – prekės kilmės ar eksportuojančios šalies pavadinimas;
+
+2) išsamus svarstomos prekės aprašymas ir kodas pagal Lietuvos Respublikos kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklatūrą;
+
+3) data, nuo kurios pradedamas tyrimas ar peržiūra, ir jų trukmė;
+
+4) tiriamasis laikotarpis;
+
+5) dempingo ir žalos vietiniams gamintojams įrodymų (pateiktų prašyme atlikti tyrimą) santrauka arba pasikeitusio dempingo ir žalos masto įrodymų santrauka (prašyme atlikti peržiūrą);
+
+6) adresas, kuriuo turi būti pateikiama su atliekamu tyrimu ar peržiūra susijusi informacija;
+
+7) laikotarpis, per kurį suinteresuotosios šalys gali pranešti institucijai apie suinteresuotumą atliekamu tyrimu, pateikti įrodymus ir išdėstyti savo argumentus bei paaiškinimus;
+
+8) laikotarpis, per kurį suinteresuotosios šalys gali pateikti institucijai pagrįstus prašymus dėl konsultacijų, per kurias galėtų žodžiu išdėstyti savo argumentus bei paaiškinimus;
+
+9) laikotarpis, per kurį suinteresuotosios šalys gali pateikti prašymą institucijai organizuoti šio Įstatymo 15 straipsnio 13 dalyje nurodytą susitikimą;
+
+10) įspėjimas dėl nebendradarbiavimo pasekmių.
+
+4. Vyriausybei institucijos teikiamame siūlyme taikyti laikinąjį antidempingo muitą, atsižvelgiant į informacijos konfidencialumo reikalavimus, turi būti:
+
+1) užsienio gamintojų ar eksportuotojų pavadinimai, o jei tai netikslinga, – prekės kilmės ar eksportuojančių šalių pavadinimai. Jei tyrimo metu institucijai prieinama tokia informacija, turi būti nurodomi ir užsienio gamintojų ar eksportuotojų identifikavimo kodai (valstybės, kurioje jie registruoti, kompetentingos institucijos suteikti jų registracijos numeriai);
+
+2) išsamus svarstomos prekės aprašymas, kodas pagal Lietuvos Respublikos kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklatūrą ir prekės kilmės šalis;
+
+3) nurodytas dempingo skirtumas ir metodika, kuria naudojantis nustatyta svarstomos prekės normalioji vertė, eksporto kaina bei dempingo skirtumas;
+
+4) įrodymai, kuriais remiantis nustatyta žala;
+
+5) pagrindiniai nutarimo priėmimo motyvai, įskaitant faktus ir teisės aktus bei jų nuostatas, kuriais buvo remtasi priimant ar atmetant suinteresuotųjų šalių pateiktus argumentus;
+
+6) nurodytas siūlomo taikyti laikinojo antidempingo muito dydis, jo apskaičiavimo metodas, data, nuo kurios šį muitą siūloma pradėti taikyti, šio muito taikymo terminas ir prireikus – užsienio gamintojai ar eksportuotojai, kuriems laikinasis antidempingo muitas netaikomas pagal šio Įstatymo 20 straipsnio 3 dalies nuostatas.
+
+5. Institucijos sprendime priimti įsipareigojimą dėl kainos arba atsisakyti jį priimti, be kitų duomenų, nepažeidžiant informacijos konfidencialumo reikalavimų, turi būti pateikta šio straipsnio 4 dalyje nurodyta informacija, išskyrus nurodytą 6 punkte, ir nuoroda į viešą dokumentą, kuris yra priimto įsipareigojimo nekonfidenciali santrauka. Viešas dokumentas, kuris yra priimto įsipareigojimo nekonfidenciali santrauka, turi būti laikomas institucijoje.
+
+6. Vyriausybei institucijos teikiamame siūlyme taikyti antidempingo muitą (įskaitant prekėms, importuotoms tyrimo metu) nurodomas siūlomo taikyti antidempingo muito dydis pagal kiekvieną konkretų užsienio gamintoją ar eksportuotoją (išskyrus atvejus, kai antidempingo muitas nustatomas pagal prekės kilmės ar eksportuojančią šalį), jo apskaičiavimo metodas, data, nuo kurios antidempingo muitą siūloma taikyti, ir kiti būtini duomenys. Šiame institucijos siūlyme, nepažeidžiant informacijos konfidencialumo reikalavimų, turi būti pateikta šio straipsnio 4 dalyje nustatyta informacija, išskyrus nurodytą 6 punkte, o tais atvejais, kai buvo pateiktas užsienio gamintojo ar eksportuotojo įsipareigojimas, – šio įsipareigojimo priėmimo ar atsisakymo jį priimti motyvai. Pateikiant šią informaciją, atskirai išdėstoma informacija, susijusi su teikiamu siūlymu taikyti antidempingo muitą prekėms, importuotoms tyrimo metu.
+
+7. Institucijos sprendime baigti tyrimą nesiūlant Vyriausybei taikyti antidempingo muito, be kitų duomenų, nepažeidžiant informacijos konfidencialumo reikalavimų, turi būti nurodyta visa svarbi informacija apie faktus bei priežastis, dėl kurių buvo priimtas šis sprendimas, suinteresuotųjų šalių pateiktų argumentų priėmimo ar atmetimo priežastys, o tais atvejais, kai buvo pateiktas užsienio gamintojo ar eksportuotojo įsipareigojimas, – šio įsipareigojimo priėmimo ar atsisakymo jį priimti priežastys.
+
+8. Šio straipsnio 2 dalies 8 punkte nurodytuose institucijos sprendimuose turi būti pateikta visa svarbi informacija apie faktus ir motyvus, kuriais remiantis buvo priimti sprendimai. Šiuose institucijos sprendimuose, nepažeidžiant informacijos konfidencialumo reikalavimų, turi būti šio straipsnio 4 dalyje nustatyta informacija, išskyrus nurodytą 6 punkte, bei sprendimų, priimtų pagal šio Įstatymo 16 straipsnio 5 dalį, pagrindimas.
+
+9. Vyriausybei institucijos teikiamų siūlymų, nurodytų šio straipsnio 2 dalies 4, 5 ir 7 punktuose, kopijos per 10 kalendorinių dienų nuo Vyriausybės nutarimo įsigaliojimo dienos, pateikiamos kiekvienai žinomai suinteresuotajai šaliai.
  
 
-40 straipsnis. Prašymo dėl antidempingo priemonių trečiosios šalies naudai svarstymas
+40 straipsnis. Pagrindinių faktų ir motyvų atskleidimas suinteresuotosioms šalims
 
-Svarstydamos prašymą taikyti antidempingo priemones trečiosios šalies naudai, šį įstatymą vykdančios institucijos turi išnagrinėti įtariamo dempingo poveikį svarstomiems trečiosios šalies vietiniams gamintojams. Žala turi būti vertinama atsižvelgiant ne vien tik į įtariamo dempingo poveikį svarstomam trečiosios šalies vietinių gamintojų eksportui į Lietuvos Respublikos muitų teritoriją ar visam šių vietinių gamintojų eksportui.
+1. Suinteresuotosios šalys gali reikalauti pateikti joms išsamią informaciją apie pagrindinius faktus bei motyvus, kurių pagrindu nustatyti laikinieji antidempingo muitai. Į šiuos reikalavimus atsakoma, jei jie gaunami raštu, per 20 kalendorinių dienų po nutarimo taikyti laikinąjį antidempingo muitą įsigaliojimo. Atsakyti į šiuos reikalavimus institucija turi raštu ne vėliau kaip per 30 kalendorinių dienų po nutarimo taikyti laikinąjį antidempingo muitą įsigaliojimo.
+
+2. Suinteresuotosios šalys gali reikalauti pateikti išsamią informaciją apie svarbiausius faktus bei motyvus, kurių pagrindu ketinama taikyti antidempingo muitą arba nutraukti tyrimą ir netaikyti antidempingo muito.
+
+3. Reikalavimas pateikti šio straipsnio 2 dalyje nurodytą informaciją institucijai turi būti pateiktas raštu. Jei yra taikomas laikinasis antidempingo muitas, reikalavimas dėl šios informacijos turi būti gautas ne vėliau kaip per 1 mėnesį po nutarimo taikyti šį muitą įsigaliojimo dienos. Jei laikinasis antidempingo muitas netaikomas, suinteresuotosioms šalims turi būti suteikiama galimybė gauti šio straipsnio 2 dalyje nurodytą informaciją per institucijos nustatytą laiką.
+
+4. Prašoma informacija turi būti pateikiama raštu ne vėliau kaip per 1 mėnesį iki nutarimo projekto taikyti antidempingo muitą pateikimo arba sprendimo nutraukti tyrimą nesiūlant Vyriausybei taikyti antidempingo muito priėmimo. Pateikiant šią informaciją, būtina atsižvelgti į konfidencialios informacijos saugumo reikalavimus. Ypatingas dėmesys turi būti skiriamas išdėstymui tų faktų ir motyvų, kurie skiriasi nuo faktų ir motyvų, panaudotų laikiniesiems antidempingo muitams nustatyti.
+
+5. Jei institucija prašomos informacijos pateikimo metu tam tikrų faktų ar motyvų negali skelbti, atsiradus galimybei, šie faktai ar motyvai turi būti pranešti nedelsiant. Nuo šios informacijos pateikimo nepriklauso jokie tolesni institucijos sprendimai, tačiau tais atvejais, kai nutarimai yra pagrįsti kokiais nors kitais faktais bei motyvais negu atskleistieji prašomoje informacijoje, apie šiuos faktus bei motyvus turi būti nedelsiant pranešta.
+
+6. Gavusios prašomą informaciją, suinteresuotosios šalys gali pareikšti savo nuomones ir pastabas, tačiau į jas atsižvelgiama tik tuo atveju, kai jos gautos per institucijos nustatytą ne trumpesnį kaip 10 kalendorinių dienų laikotarpį.
  
 
-41 straipsnis. Nutarimas imtis antidempingo priemonių trečiosios šalies naudai
+41 straipsnis. Informacijos konfidencialumas
 
-Antidempingo priemonių trečiosios šalies naudai imamasi Konkurencijos tarybos nutarimu, jei tenkinamos bendrosios šio įstatymo sąlygos laikinosioms ir galutinėms antidempingo priemonėms taikyti ir jeigu, atsižvelgdama į Lietuvos Respublikos interesus, tam pritaria Lietuvos Respublikos Vyriausybė.
+1. Informacija, kurios atskleidimas suteiktų didelį pranašumą konkurentams ar turėtų neigiamo poveikio informaciją pateikusiai suinteresuotajai šaliai arba asmeniui, iš kurio suinteresuotoji šalis ją įsigijo, arba informacija, kurią laikyti konfidencialia prašo ją pateikusi suinteresuotoji šalis ir šį prašymą pagrindžia, institucijos yra laikoma konfidencialia. Institucija, gavusi konfidencialią informaciją, negali jos atskleisti be informaciją pateikusios suinteresuotosios šalies sutikimo.
+
+2. Suinteresuotosios šalys, teikdamos konfidencialią informaciją institucijai, kartu privalo pateikti nekonfidencialias šios informacijos santraukas. Santraukos turi būti detalios ir aiškiai atspindėti pateiktos informacijos prasmę. Jeigu institucijos atstovai ar kitos tyrimuose dalyvaujančios suinteresuotosios šalys pareiškia, kad pateikta santrauka neatskleidžia konfidencialios informacijos prasmės, informaciją teikęs subjektas privalo raštu išaiškinti priežastis, kodėl negalima parengti tinkamos santraukos.
+
+3. Jeigu prašymas dėl informacijos konfidencialumo, institucijos nuomone, yra nepagrįstas ir informacijos teikėjas nesutinka, kad ji būtų viešai atskleista (apibendrinta ar santraukos forma), institucija neturi atsižvelgti į tokią informaciją, išskyrus atvejus, kai yra kitų šią informaciją patvirtinančių šaltinių. 
+
+4. Gauta informacija turi būti naudojama tik tam tikslui, kuriam jos buvo reikalauta.
  
 
 VIENUOLIKTASIS SKIRSNIS
@@ -646,21 +919,9 @@ BAIGIAMOSIOS NUOSTATOS
 
 42 straipsnis. Tarptautinės sutartys
 
-Jeigu Lietuvos Respublikos tarptautinė sutartis, kurią ratifikavo Seimas, nustato kitokias taisykles, negu nustatytos šiame įstatyme, taikomos tarptautinės sutarties nuostatos.
- 
+1. Jeigu Lietuvos Respublikos tarptautinė sutartis nustato kitokias taisykles, negu nustatytos šiame Įstatyme, taikomos tarptautinės sutarties nuostatos.
 
-43 straipsnis. Įstatymo įsigaliojimas
-
-1. Šis įstatymas įsigalioja nuo 1998 m. liepos 1 d.
-
-2. Neteko galios nuo 1999-10-13
-Straipsnio dalies naikinimas:
-Nr. VIII-1339, 1999-09-28, Žin. 1999, Nr. 85-2513 (1999-10-13), i. k. 0991010ISTAIII-1339
- 
-
-3. Neteko galios nuo 1999-10-13
-Straipsnio dalies naikinimas:
-Nr. VIII-1339, 1999-09-28, Žin. 1999, Nr. 85-2513 (1999-10-13), i. k. 0991010ISTAIII-1339
+2. Vadovaudamasi Lietuvos Respublikos sutarčių dėl laisvosios prekybos nuostatomis, institucija prieš pradėdama tyrimą praneša Lietuvos Respublikos užsienio reikalų ministerijai apie gautą prašymą atlikti tyrimą.
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -669,6 +930,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
+ 
  
  
 Pakeitimai:
@@ -682,4 +944,9 @@ Lietuvos Respublikos antidempingo įstatymo 35 ir 43 straipsnių pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1934, 2000-09-19, Žin., 2000, Nr. 84-2531 (2000-10-06), i. k. 1001010ISTAIII-1934
 Lietuvos Respublikos antidempingo įstatymo 35 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-663, 2001-12-17, Žin., 2001, Nr. 112-4082 (2001-12-30), i. k. 1011010ISTA00IX-663
+Lietuvos Respublikos antidempingo įstatymo pakeitimo įstatymas
 
