@@ -21,21 +21,19 @@ LIETUVOS RESPUBLIKOS
 ŽALOS, PADARYTOS NETEISĖTAIS KVOTOS, TARDYMO, PROKURATŪROS IR TEISMO
 VEIKSMAIS, ATLYGINIMO
 ĮSTATYMAS
- 
 1997 m. lapkričio 4 d. Nr. VIII-484
 Vilnius
 
  
  
- 
 1 straipsnis. Įstatymo paskirtis
-Lietuvos Respublikos Seimas, siekdamas garantuoti
-asmenų konstitucines teises bei atsižvelgdamas į Europos žmogaus teisių ir
-pagrindinių laisvių apsaugos konvencijos nuostatas, priima šį įstatymą, kuris
-reglamentuoja žalos, padarytos fiziniam asmeniui (toliau - asmuo) dėl neteisėto
-nuteisimo, neteisėto laikino sulaikymo, neteisėto sulaikymo, neteisėto suėmimo,
-administracinio arešto arba pataisos darbų neteisėto paskyrimo, atlyginimą.
-Žalą atlygina valstybė.
+Lietuvos Respublikos Seimas, siekdamas
+garantuoti asmenų konstitucines teises bei atsižvelgdamas į Europos žmogaus
+teisių ir pagrindinių laisvių apsaugos konvencijos nuostatas, priima šį
+įstatymą, kuris reglamentuoja žalos, padarytos fiziniam asmeniui (toliau -
+asmuo) dėl neteisėto nuteisimo, neteisėto laikino sulaikymo, neteisėto
+sulaikymo, neteisėto suėmimo, administracinio arešto arba pataisos darbų neteisėto
+paskyrimo, atlyginimą. Žalą atlygina valstybė.
  
 2 straipsnis. Pagrindinės įstatyme
 vartojamos sąvokos
@@ -57,33 +55,22 @@ administracinį areštą ar pataisos darbus.
  
 3 straipsnis. Asmenys, turintys teisę į
 žalos atlyginimą
-***1. Teisę į žalos atlyginimą, jei
-yra šio įstatymo 4 straipsnyje nurodyti pagrindai, turi asmenys, kurie buvo
-neteisėtai laikinai sulaikyti, neteisėtai sulaikyti, neteisėtai nuteisti,
-neteisėtai suimti arba kuriems neteisėtai buvo paskirtas administracinis
-areštas ar pataisos darbai.
-2. Teisę į žalos atlyginimą turi ir
-asmenys, kuriems žalos atlyginimą priteisė Europos žmogaus teisių teismas arba
-Ministrų Komitetas, ir asmenys, su kuriais pasiektas šio įstatymo 4 straipsnio
-2 dalyje nurodytas draugiškas susitarimas, patvirtintas Lietuvos Respublikos
-Vyriausybės.
+1. Teisę į žalos atlyginimą, jei yra šio
+įstatymo 4 straipsnyje nurodyti pagrindai, turi asmenys, kurie buvo neteisėtai
+laikinai sulaikyti, neteisėtai sulaikyti, neteisėtai nuteisti, neteisėtai
+suimti arba kuriems neteisėtai buvo paskirtas administracinis areštas ar
+pataisos darbai.
+2. Teisę į žalos atlyginimą turi ir asmenys, kuriems
+žalos atlyginimą priteisė Europos žmogaus teisių teismas, ir asmenys, su
+kuriais pasiektas šio įstatymo 4 straipsnio 2 dalyje nurodytas draugiškas
+susitarimas.
 3. Ši teisė neperleidžiama ir
 nepaveldima.
- 
-***Pripažinti, kad Lietuvos
-Respublikos žalos, padarytos neteisėtais kvotos, tardymo, prokuratūros ir
-teismo veiksmais, atlyginimo įstatymo 3 straipsnio 1 dalis ir 4 straipsnio 1
-dalies 1 punktas ta apimtimi, kuria paneigiama teisė į žalos atlyginimą
-asmenims, kurių atžvilgiu apkaltinamasis nuosprendis panaikintas neįsiteisėjęs
-ir byla nutraukta arba nuteistas asmuo išteisintas dėl to, kad kuri nors nauja
-arba naujai paaiškėjusi aplinkybė neginčijamai įrodo, jog teismas padarė
-klaidą, jeigu neįrodyta, kad šios aplinkybės atitinkamu laiku nebuvo
-išaiškintos vien tik arba iš dalies dėl nuteistojo kaltės, ir baudžiamasis
-procesas yra pasibaigęs, prieštarauja Lietuvos Respublikos Konstitucijos 29
-straipsnio 1 daliai ir 30 straipsnio 1 bei 2 dalims.
 Straipsnio pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-00.06.30, Žin., 2000, Nr.54-1587 (00.07.05)
+2000 06 30, Žin., 2000, Nr. 54-1587 (2000 07 05)
+Nr. IX-211,
+2001 03 13, Žin., 2001, Nr. 28-895 (2001 03 30)
  
  
 4 straipsnis. Teisės į žalos atlyginimą
@@ -91,42 +78,33 @@ atsiradimo pagrindai
 1. Teisę į žalos atlyginimą turi
 asmenys, jeigu jiems neteisėtais veiksmais padaryta materialinės ar moralinės
 žalos ir jeigu yra bent vienas iš šių įsiteisėjusių procesinių sprendimų:
-***1) panaikinti įsiteisėjusį
-apkaltinamąjį nuosprendį, kuriuo asmuo buvo nuteistas kriminaline bausme, ir
-bylą nutraukti arba nuteistą asmenį išteisinti dėl to, kad kuri nors nauja arba
-naujai paaiškėjusi aplinkybė neginčijamai įrodo, kad teismas padarė klaidą,
-jeigu neįrodyta, kad šios aplinkybės atitinkamu laiku nebuvo išaiškintos vien
-tik arba iš dalies dėl nuteistojo kaltės;
+1) panaikinti apkaltinamąjį nuosprendį, kuriuo asmuo
+buvo nuteistas kriminaline bausme, arba nuteistą asmenį išteisinti dėl to, kad
+kuri nors nauja arba naujai paaiškėjusi aplinkybė neginčijamai įrodo, kad
+teismas padarė klaidą, jeigu neįrodyta, kad šios aplinkybės atitinkamu laiku
+nebuvo išaiškintos vien tik arba iš dalies dėl nuteistojo kaltės, jeigu
+baudžiamasis procesas pagal Lietuvos Respublikos baudžiamojo proceso kodeksą
+yra pasibaigęs;
 2) panaikinti kaip nepagrįstą ir
 neteisėtą kvotėjo, tardytojo, prokuroro nutarimą, teismo (teisėjo) nutartį,
 pagal kurį asmeniui buvo paskirtas laikinas sulaikymas, sulaikymas ar suėmimas;
 3) teismo sprendimas panaikinti
 administracinį areštą arba pataisos darbus dėl asmenį reabilituojančių
 aplinkybių.
-2. Teisės į žalos atlyginimą pagrindas
-yra ir Europos žmogaus teisių teismo arba Ministrų Komiteto sprendimas dėl
-žalos atlyginimo bei Lietuvos Respublikos Vyriausybės atstovo Europos žmogaus
-teisių komisijoje ir Europos žmogaus teisių teisme draugiškas susitarimas su
-nukentėjusiuoju, patvirtintas Lietuvos Respublikos Vyriausybės.
+2. Teisės į žalos atlyginimą pagrindas yra ir
+Europos žmogaus teisių teismo sprendimas dėl žalos atlyginimo bei Lietuvos
+Respublikos Vyriausybės atstovo Europos žmogaus teisių teisme draugiškas
+susitarimas su nukentėjusiuoju, kuriam preliminariai pritarė Lietuvos
+Respublikos Vyriausybė.
 3. Teisė į žalos atlyginimą neatsiranda,
-jeigu asmuo kvotos, parengtinio tardymo ar teisminio nagrinėjimo metu savęs apkalbinėjimu
-ar kitokiu būdu kliudė nustatyti tiesą, slapstėsi ir taip padėjo atsirasti
-žalai.
- 
-***Pripažinti, kad Lietuvos
-Respublikos žalos, padarytos neteisėtais kvotos, tardymo, prokuratūros ir
-teismo veiksmais, atlyginimo įstatymo 3 straipsnio 1 dalis ir 4 straipsnio 1
-dalies 1 punktas ta apimtimi, kuria paneigiama teisė į žalos atlyginimą
-asmenims, kurių atžvilgiu apkaltinamasis nuosprendis panaikintas neįsiteisėjęs
-ir byla nutraukta arba nuteistas asmuo išteisintas dėl to, kad kuri nors nauja
-arba naujai paaiškėjusi aplinkybė neginčijamai įrodo, jog teismas padarė
-klaidą, jeigu neįrodyta, kad šios aplinkybės atitinkamu laiku nebuvo
-išaiškintos vien tik arba iš dalies dėl nuteistojo kaltės, ir baudžiamasis
-procesas yra pasibaigęs, prieštarauja Lietuvos Respublikos Konstitucijos 29
-straipsnio 1 daliai ir 30 straipsnio 1 bei 2 dalims.
+jeigu asmuo kvotos, parengtinio tardymo ar teisminio nagrinėjimo metu savęs
+apkalbinėjimu ar kitokiu būdu kliudė nustatyti tiesą, slapstėsi ir taip padėjo
+atsirasti žalai.
 Straipsnio pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-00.06.30, Žin., 2000, Nr.54-1587 (00.07.05)
+2000 06 30, Žin., 2000, Nr. 54-1587 (2000 07 05)
+Nr. IX-211,
+2001 03 13, Žin., 2001, Nr. 28-895 (2001 03 30)
  
  
 5 straipsnis. Kreipimasis dėl žalos
@@ -142,30 +120,35 @@ atlyginimo paduodamas apylinkės teismui pagal kvotos, tardymo, prokuratūros
 institucijų, kurių pareigūnai padarė žalos, buvimo vietą, o ieškininis
 pareiškimas dėl teismo (teisėjo) padarytos žalos atlyginimo paduodamas
 apygardos teismui pagal žalos padarymo vietą.
-2. Europos žmogaus teisių teismo arba
-Ministrų Komiteto sprendimas arba šio įstatymo 4 straipsnio 2 dalyje nurodytas
-draugiškas susitarimas, patvirtintas Lietuvos Respublikos Vyriausybės,
-pateikiamas Lietuvos Respublikos teisingumo ministerijai per Lietuvos
-Respublikos Vyriausybės atstovą Europos žmogaus teisių komisijoje ir Europos
-žmogaus teisių teisme.
+2. Europos žmogaus teisių teismo sprendimas arba šio
+įstatymo 4 straipsnio 2 dalyje nurodytas draugiškas susitarimas pateikiamas
+Lietuvos Respublikos teisingumo ministerijai per Lietuvos Respublikos
+Vyriausybės atstovą Europos žmogaus teisių teisme.
+Straipsnio pakeitimai:
+Nr. IX-211,
+2001 03 13, Žin., 2001, Nr. 28-895 (2001 03 30)
  
-6 straipsnis. Procesinių
-sprendimų pagrįstumo patikrinimas
-Jeigu kyla abejonių dėl procesinio
-sprendimo, kuris yra ieškinio dėl žalos atlyginimo pagrindas, pagrįstumo,
-teismas, nagrinėjantis žalos atlyginimo bylą, turi teisę atidėti bylos
-nagrinėjimą ir, nepaisydamas to, ar suėjo terminas, kreiptis atitinkamai į
-Lietuvos Aukščiausiojo Teismo pirmininką, Apeliacinio teismo pirmininką,
-apygardos teismo pirmininką ir šių teismų Baudžiamųjų bylų skyrių pirmininkus,
-turinčius įstatymų suteiktą teikimo teisę, bei atitinkamą aukštesnį pagal
-pavaldumą prokurorą dėl procesinių sprendimų pagrįstumo patikrinimo.
+ 
+6 straipsnis. Procesinių sprendimų pagrįstumo
+patikrinimas
+Jeigu kyla abejonių dėl procesinio sprendimo, kuris
+yra ieškinio dėl žalos atlyginimo pagrindas, pagrįstumo, teismas, nagrinėjantis
+žalos atlyginimo bylą, turi teisę atidėti bylos nagrinėjimą ir kreiptis dėl
+teismo sprendimų atitinkamai į Lietuvos Aukščiausiojo Teismo pirmininką ir šio
+teismo Baudžiamųjų bylų skyriaus pirmininką, turinčius įstatymų suteiktą
+kasacinio teikimo teisę, bei atitinkamą aukštesnį pagal pavaldumą prokurorą dėl
+nutarimų pagrįstumo patikrinimo.
+Straipsnio pakeitimai:
+Nr. IX-211,
+2001 03 13, Žin., 2001, Nr. 28-895 (2001 03 30)
+ 
  
 7 straipsnis. Atlygintina žala ir jos
 dydis
 1. Asmeniui, turinčiam teisę į žalos
 atlyginimą pagal šį įstatymą, atlyginama reali žala, tai yra dėl kvotos,
-tardymo organų, prokuratūros pareigūnų ar teismo (teisėjo) neteisėtų veiksmų turėtos
-išlaidos, turto sužalojimas arba netekimas, negautas darbo užmokestis,
+tardymo organų, prokuratūros pareigūnų ar teismo (teisėjo) neteisėtų veiksmų
+turėtos išlaidos, turto sužalojimas arba netekimas, negautas darbo užmokestis,
 pašalpos, pensijos ar kitos darbinės pajamos bei moralinė žala, taip pat
 grąžinamos darbinės ir profesinės teisės. 
 2. Asmeniui, dirbusiam pagal darbo
@@ -219,11 +202,18 @@ neteisėto suėmimo, neteisėtai paskirto administracinio arešto laiką,
 informacijos apie administracinio arešto paskyrimą, laikiną sulaikymą,
 sulaikymą, suėmimą, nuteisimą paskleidimą visuomenėje ir kitas aplinkybes,
 tačiau jis negali būti didesnis kaip dešimt tūkstančių litų.
-8. Šio įstatymo 3 straipsnio 2 dalyje
-nurodytiems asmenims žalos atlyginimo dydį nustato Europos žmogaus teisių
-teismo arba Ministrų Komiteto sprendimas arba šio įstatymo 4 straipsnio 2
-dalyje nurodytas draugiškas susitarimas, patvirtintas Lietuvos Respublikos
-Vyriausybės.
+8. Šio įstatymo 3 straipsnio 2 dalyje nurodytiems
+asmenims žalos atlyginimo dydį nustato Europos žmogaus teisių teismo sprendimas
+arba šio įstatymo 4 straipsnio 2 dalyje nurodytas draugiškas susitarimas.
+Europos žmogaus teisių teismo sprendimas arba šio įstatymo 4 straipsnio 2
+dalyje nurodytas draugiškas susitarimas turi būti įvykdytas išmokant piniginę
+kompensaciją per 3 mėnesius nuo tos dienos, kai teismo sprendimą ar draugišką
+susitarimą gauna Lietuvos Respublikos Vyriausybės atstovas Europos žmogaus
+teisių teisme.
+Straipsnio pakeitimai:
+Nr. IX-211,
+2001 03 13, Žin., 2001, Nr. 28-895 (2001 03 30)
+ 
  
 8 straipsnis. Atgręžtinio reikalavimo
 teisė į asmenis, kaltus  dėl žalos atsiradimo
@@ -245,10 +235,10 @@ išieškotos sumos sumokamos į valstybės biudžetą.
  
 9 straipsnis. Asignavimai žalai
 atlyginti
-1. Lietuvos Respublikos valstybės
-biudžete kasmet numatomi asignavimai kvotos, tardymo organų, prokuratūros
-pareigūnų ir teismo (teisėjo) neteisėtais veiksmais padarytai žalai atlyginti.
-Šių asignavimų valdytojas yra Lietuvos Respublikos teisingumo ministerija, kuri
+1. Lietuvos Respublikos valstybės biudžete
+kasmet numatomi asignavimai kvotos, tardymo organų, prokuratūros pareigūnų ir
+teismo (teisėjo) neteisėtais veiksmais padarytai žalai atlyginti. Šių
+asignavimų valdytojas yra Lietuvos Respublikos teisingumo ministerija, kuri
 vykdo teismo sprendimus dėl žalos atlyginimo.
 2. Kol Lietuvos Respublikos valstybės
 biudžete nenumatyta lėšų žalai asmeniui atlyginti, žala atlyginama iš Lietuvos
@@ -264,13 +254,26 @@ priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                         ALGIRDAS
 BRAZAUSKAS
  
-_____________
+____________
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-211,
+2001 03 13, Žin., 2001, Nr. 28-895 (2001 03 30)
+ŽALOS, PADARYTOS NETEISĖTAIS KVOTOS, TARDYMO, PROKURATŪROS IR TEISMO
+VEIKSMAIS, ATLYGINIMO ĮSTATYMO 3, 4, 5, 6, 7 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
+ 
+*** Pabaiga ***
+ 
  
 Konstitucinio Teismo nutarimai:
  
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-00.06.30, Žin., 2000, Nr.54-1587 (00.07.05)
+2000 06 30, Žin., 2000, Nr. 54-1587 (2000 07 05)
 DĖL LIETUVOS RESPUBLIKOS ŽALOS, PADARYTOS NETEISĖTAIS KVOTOS, TARDYMO,
 PROKURATŪROS IR TEISMO VEIKSMAIS, ATLYGINIMO ĮSTATYMO 3 STRAIPSNIO 1 DALIES IR
 4 STRAIPSNIO 1 DALIES 1 PUNKTO ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
@@ -278,5 +281,6 @@ PROKURATŪROS IR TEISMO VEIKSMAIS, ATLYGINIMO ĮSTATYMO 3 STRAIPSNIO 1 DALIES IR
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.07.05)
+Redagavo: Aušrinė Trapinskienė (2001 04 02)
+                  autrap@lrs.lt
 
