@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 
 # Lietuvos Respublikos Vyriausybės įstatymas
 
+Suvestinė redakcija nuo 1990-04-07 iki 1990-04-10
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
+ 
+ 
 LIETUVOS RESPUBLIKOS
 VYRIAUSYBĖS
 Į S T A T Y M A S
@@ -314,7 +319,10 @@ IV. LIETUVOS RESPUBLIKOS MINISTERIJŲ SĄRAŠAS
 25 straipsnis. Lietuvos Respublikos ministerijos
 
 Respublikoje yra šios ministerijos:
-Ekonomikos ministerija; Energetikos ministerija; Finansų ministerija; Krašto apsaugos ministerija; Kultūros ir švietimo ministerija; Materialinių išteklių ministerija; Miškų ūkio ministerija; Pramonės ministerija; Prekybos ministerija; Ryšių ministerija; Statybos ir urbanistikos ministerija; Susisiekimo ministerija; Socialinės apsaugos ministerija; Sveikatos apsaugos ministerija; Teisingumo ministerija; Užsienio reikalų ministerija; Vidaus reikalų ministerija; Žemės ūkio ministerija.
+Ekonomikos ministerija; Energetikos ministerija; Finansų ministerija; Kultūros ir švietimo ministerija; Materialinių išteklių ministerija; Miškų ūkio ministerija; Pramonės ministerija; Prekybos ministerija; Ryšių ministerija; Statybos ir urbanistikos ministerija; Susisiekimo ministerija; Socialinės apsaugos ministerija; Sveikatos apsaugos ministerija; Teisingumo ministerija; Užsienio reikalų ministerija; Vidaus reikalų ministerija; Žemės ūkio ministerija.
+
+Straipsnio pakeitimai:
+Nr. I-108, 1990-04-03, Lietuvos aidas, 1990, Nr. 16-0 (1990-04-06); Žin., 1990, Nr. 11-347 (1990-04-20), i. k. 0901010NUTA000I-108
  
 
 V. LIETUVOS RESPUBLIKOS VYRIAUSYBĖS
@@ -393,4 +401,14 @@ AUKŠČIAUSIOSIOS TARYBOS  PIRMININKAS                     
  
 Vilnius, 1990 m. kovo 22 d. 
 Nr. I-61
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Nutarimas
+Nr. I-108, 1990-04-03, Lietuvos aidas, 1990, Nr. 16-0 (1990-04-06); Žin., 1990, Nr. 11-347 (1990-04-20), i. k. 0901010NUTA000I-108
+Dėl pakeitimų Lietuvos Respublikos Vyriausybės įstatyme
 
