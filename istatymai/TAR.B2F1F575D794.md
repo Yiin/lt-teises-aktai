@@ -41,15 +41,17 @@ turinčius dokumentus.
 mokestis imamas remiantis Lietuvos Respublikos sutartimis su kitomis
 valstybėmis, šiuo įstatymu, Lietuvos Respublikos notariato įstatymu.
  
-            2
-straipsnis. Mokesčio mokėtojai
-            Konsulinį
-mokestį moka užsienio ir Lietuvos Respublikos juridiniai asmenys, užsienio
-valstybių piliečiai ir Lietuvos Respublikos piliečiai, asmenys be pilietybės už
-Lietuvos Respublikos Užsienio reikalų ministerijos Konsulinio departamento,
-Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų užsienyje
-jiems teikiamas konsulines paslaugas, atliekamus notarinius veiksmus ar
-išduodamus juridinę galią turinčius dokumentus.
+2 straipsnis. Mokesčio mokėtojai
+Konsulinį mokestį moka užsienio ir Lietuvos
+Respublikos juridiniai asmenys, išskyrus Lietuvos banką, užsienio valstybių
+piliečiai ir Lietuvos Respublikos piliečiai, asmenys be pilietybės už Lietuvos
+Respublikos užsienio reikalų ministerijos Konsulinio departamento, Lietuvos
+Respublikos diplomatinių atstovybių ir konsulinių įstaigų užsienyje jiems
+teikiamas konsulines paslaugas, atliekamus notarinius veiksmus ar išduodamus
+juridinę galią turinčius dokumentus.
+Straipsnio pakeitimai:
+Nr. IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
  
             3
 straipsnis. Mokesčio objektas
@@ -86,9 +88,9 @@ straipsnis. Mokesčio tikslinimas pariteto pagrindais
             Lietuvos
 Respublikos Vyriausybė turi teisę pariteto pagrindais padidinti, sumažinti arba
 panaikinti konsulinį mokestį už vizas, dokumentų pareikalavimą ir jų
-legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims, atsižvelgdama
-į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos Respublikos
-juridinių ir fizinių asmenų.
+legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims,
+atsižvelgdama į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos
+Respublikos juridinių ir fizinių asmenų.
  
             6
 straipsnis. Mokesčio lengvatos
@@ -213,8 +215,8 @@ mokestis įskaitomas į valstybės biudžetą.
             11
 straipsnis. Baigiamosios nuostatos
             Lietuvos
-Respublikos konsulinio mokesčio įstatymas įsigalioja nuo 1995 m. sausio 
-1 dienos.
+Respublikos konsulinio mokesčio įstatymas įsigalioja nuo 1995 m. sausio 1
+dienos.
             Lietuvos
 Respublikos Vyriausybė iki 1994 m. lapkričio 1 d. nustato konsulinio mokesčio
 tarifus, mokėjimo ir grąžinimo tvarką.
@@ -268,10 +270,26 @@ Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvo
 Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
 2003 m. gegužės 1 d.
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+ĮMONIŲ
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
+PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
+ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO,
+MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS
+BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-06)
-                 autrap@lrs.lt
+Aušrinė Trapinskienė (2004-05-03)
+                 
+autrap@lrs.lt
