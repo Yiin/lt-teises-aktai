@@ -13,15 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6F32E17A217F"
 
 # Butų privatizavimo įstatymas
 
-@D1=19910528;D2=19960319;D3=19960405
+@D1=19910528;D2=19960710;D3=19960812
 
-@D1=19910528;D2=19960319;D3=19960405
+@D1=19910528;D2=19960710;D3=19960812
 Pakeitimai:
  1.
  Parlamentas,
 Įstatymas
-{#91FXAA1615 ;} Nr.
-1-1615, 91.07.25, Žin., 1991, Nr. 22-576
+{#19910725AA1615 ;}
+Nr. 1-1615, 91.07.25, Žin., 1991, Nr. 22-576
  DĖL LIETUVOS
 RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO 6 IR 9
  STRAIPSNIŲ
@@ -30,8 +30,8 @@ PAPILDYMO
  2.
  Parlamentas,
 Įstatymas
-{#91KSAA2128 ;} Nr.
-1-2128, 91.12.20, Žin., 1992, Nr. 3-36
+{#19911220AA2128 ;}
+Nr. 1-2128, 91.12.20, Žin., 1992, Nr. 3-36
  DĖL LIETUVOS
 RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO KAI KURIŲ
  STRAIPSNIŲ
@@ -40,26 +40,26 @@ PAKEITIMO IR PAPILDYMO
  3.
  Parlamentas,
 Įstatymas
-{#92IEAA2934 ;} Nr.
-1-2934, 92.10.06, Žin., 1992, Nr. 30-920
- DĖL LIETUVOS RESPUBLIKOS
-BUTŲ PRIVATIZAVIMO ĮSTATYMO 1 IR 7
+{#19921006AA2934 ;}
+Nr. 1-2934, 92.10.06, Žin., 1992, Nr. 30-920
+ DĖL LIETUVOS
+RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO 1 IR 7
  STRAIPSNIŲ DALINIO
 PAKEITIMO
  
  4.
  Parlamentas,
 Įstatymas
-{#93C@AA0116 ;} Nr.
-1-116, 93.04.01, Žin., 1993, Nr. 12-293
+{#19930401AA0116 ;}
+Nr. 1-116, 93.04.01, Žin., 1993, Nr. 12-293
  DĖL LIETUVOS
 RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO PAPILDYMO
  
  5.
  Parlamentas,
 Įstatymas
-{#93FNAA0224 ;} Nr.
-1-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
+{#19930715AA0224 ;}
+Nr. 1-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
  DĖL LIETUVOS
 RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO PAPILDYMO IR
  PAKEITIMO
@@ -67,8 +67,8 @@ RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO PAPILDYMO IR
  6.
  Parlamentas,
 Įstatymas
-{#93KHAA0329 ;} Nr.
-1-329, 93.12.09, Žin., 1993, Nr. 70-1308 (93.12.18)
+{#19931209AA0329 ;}
+Nr. 1-329, 93.12.09, Žin., 1993, Nr. 70-1308 (93.12.18)
  DĖL LIETUVOS
 RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO PAKEITIMO IR
  PAPILDYMO
@@ -76,16 +76,16 @@ RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO PAKEITIMO IR
  7.
  Parlamentas,
 Įstatymas
-{#94ANAA0390 ;} Nr.
-1-390, 94.02.15, Žin., 1994, Nr. 14-231 (94.02.23)
+{#19940215AA0390 ;}
+Nr. 1-390, 94.02.15, Žin., 1994, Nr. 14-231 (94.02.23)
  DĖL LIETUVOS
 RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO PAKEITIMO
  
  8.
  Parlamentas,
 Įstatymas
-{#94DRAA0470 ;} Nr.
-1-470, 94.05.19, Žin., 1994, Nr. 40-717 (94.05.27)
+{#19940519AA0470 ;}
+Nr. 1-470, 94.05.19, Žin., 1994, Nr. 40-717 (94.05.27)
  DĖL LIETUVOS
 RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO PAKEITIMO IR
  PAPILDYMO
@@ -93,16 +93,16 @@ RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO PAKEITIMO IR
  9.
  Parlamentas,
 Įstatymas
-{#94IXAA0616 ;} Nr.
-1-616, 94.10.25, Žin., 1994, Nr. 85-1606 (94.11.04)
+{#19941025AA0616 ;}
+Nr. 1-616, 94.10.25, Žin., 1994, Nr. 85-1606 (94.11.04)
  DĖL LIETUVOS
 RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO PAKEITIMO
  
  10.
  Parlamentas,
 Įstatymas
-{#95FBAA0998 ;} Nr.
-1-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
+{#19950703AA0998 ;}
+Nr. 1-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
  DĖL LIETUVOS
 RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO PAKEITIMO IR
  PAPILDYMO
@@ -110,19 +110,28 @@ RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO PAKEITIMO IR
  11.
  Parlamentas,
 Įstatymas
-{#96BRAA1239 ;} Nr.
-1-1239, 96.03.19, Žin., 1996, Nr. 30-733 (96.04.03)
+{#19960319AA1239 ;}
+Nr. 1-1239, 96.03.19, Žin., 1996, Nr. 30-733 (96.04.03)
  LIETUVOS
 RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO 2 STRAIPSNIO
  PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
  
+ 12.
+ Parlamentas,
+Įstatymas
+{#19960710AA1465 ;}
+Nr. 1-1465, 96.07.10, Žin., 1996, Nr. 68-1643 (96.07.19)
+ LIETUVOS
+RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO 1 STRAIPSNIO
+ PAKEITIMO ĮSTATYMAS
+ 
  *** Pabaiga ***
  
                       
 LIETUVOS RESPUBLIKOS
-                       
-BUTŲ PRIVATIZAVIMO
+                    
+   BUTŲ PRIVATIZAVIMO
                        
 Į S T A T Y M A S
  
@@ -131,38 +140,38 @@ BUTŲ PRIVATIZAVIMO
  
      Šis  įstatymas 
 nustato  valstybinio  ir  visuomeninio  butų
-fondo 
-pirkimo-pardavimo   tvarką  nuomininkams,   iki  1992   m.
-gruodžio   1  
-d.     pareiškusiems   norą   įsigyti   nuosavybėn
-gyvenamąsias
+fondo  
+pirkimo-pardavimo   tvarką   nuomininkams,  iki  1992  m.
+gruodžio  1 d. pareiškusiems
+norą įsigyti nuosavybėn gyvenamąsias
 patalpas.
      Jeigu 
 asmenys,  turintys  teisę  privatizuoti  gyvenamąsias
-patalpas pagal  šį
-įstatymą,  ne dėl  savo kaltės  šio straipsnio
-pirmojoje  
-dalyje    nustatytu   laiku    nepadavė    pareiškimų
+patalpas  pagal  šį 
+įstatymą,  ne dėl savo kaltės šio straipsnio
+pirmojoje   
+dalyje    nustatytu    laiku   nepadavė   pareiškimų
 gyvenamosioms 
 patalpoms  privatizuoti,  gali  kreiptis  į  Seimo
-sudarytą komisiją,
-kuri turi teisę leisti šiems asmenims  paduoti
+sudarytą  komisiją,
+kuri turi teisę leisti šiems asmenims paduoti
 pareiškimus 
 gyvenamosioms  patalpoms  privatizuoti  iki  1996 m.
-liepos  1  dienos, 
-o  nuomininkų,  privatizuojančių gyvenamąsias
+gruodžio  31  d., 
+o  nuomininkų,  privatizuojančių  gyvenamąsias
 patalpas 
 bendrabučiuose,  pareiškimų  padavimo  terminus nustato
-Lietuvos Respublikos
-Vyriausybė. Pareiškimai, paduoti po 1994  m.
-kovo  31  d.,  iki 
-šio  įstatymo  įsigaliojimo laikomi paduotais
-nepažeidus nustatyto
-termino. Pareiškimai,  paduoti  po  1994  m.
-liepos 1  d. iki 
-šio įstatymo  įsigaliojimo,  laikomi  paduotais
+Lietuvos 
+Respublikos Vyriausybė. Pareiškimai, paduoti po 1994 m.
+kovo  31  d.  iki 
+šio  įstatymo  įsigaliojimo, laikomi paduotais
+nepažeidus 
+nustatyto  termino.  Pareiškimai,  paduoti po 1994 m.
+liepos  1  d.  iki 
+šio  įstatymo įsigaliojimo, laikomi paduotais
 nepažeidus nustatyto
 termino.
+ 
  
 Straipsnio
 pakeitimas(ai):
@@ -182,12 +191,14 @@ pakeitimas(ai):
 1-616, 94.10.25, Žin., 1994, Nr. 85-1606 (94.11.04)
 {#95FBAA0998 ;} Nr.
 1-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
+{#19960710AA1465 ;}
+Nr. 1-1465, 96.07.10, Žin., 1996, Nr. 68-1643 (96.07.19)
  
      2 straipsnis.
 Pirkimo-pardavimo objektas
  
-     Pirkimo-pardavimo 
-objektas  yra valstybinio ir visuomeninio
+    
+Pirkimo-pardavimo  objektas  yra valstybinio ir visuomeninio
 butų  fondo 
 gyvenamieji  namai,  butai  daugiabučiuose  namuose,
 butai  ir 
@@ -210,7 +221,7 @@ namai,  jų  dalys,  butai,  negrąžinti  natūra
 savininkams  ar
 religinėms bendruomenėms, parduodami nuomininkams
 pagal  šį  įstatymą 
-po  savivaldybės  mero  (valdybos)  ar kitos
+po  savivaldybės  mero  (valdybos)  ar kitos
 institucijos   
 sprendimo   teisinės   registracijos   valstybės,
 savivaldybės, 
@@ -219,8 +230,8 @@ turto   registro 
 įstaigoje,  atitinkamai  indeksavus  gyvenamųjų
 namų, jų dalių, butų
 kainą.
-    
-Pirkimo-pardavimo  objektas  yra  savininkams bei religinėms
+     Pirkimo-pardavimo 
+objektas  yra  savininkams bei religinėms
 bendrijoms 
 grąžinamų (grąžintų) gyvenamųjų namų nuomininkams bei
 grįžusiems  
@@ -229,16 +240,16 @@ gyvenamosios
 patalpos.
     
 Pirkimo-pardavimo  objektas  taip pat yra valstybės reikmėms
-paimamų  valstybinio
- ir  visuomeninio butų fondo gyvenamųjų namų
+paimamų 
+valstybinio  ir  visuomeninio butų fondo gyvenamųjų namų
 ir bendrabučių
 nuomininkams suteiktos gyvenamosios patalpos.
      Pareiškimai 
 pirkti  gyvenamąsias  patalpas,  nurodytas  šio
 straipsnio 
 ketvirtojoje ar penktojoje dalyse, turi būti pateikti
-per   6  mėnesius  nuo 
-suteiktos  gyvenamosios  patalpos  nuomos
+per   6  mėnesius 
+nuo  suteiktos  gyvenamosios  patalpos  nuomos
 sutarties  
 pasirašymo   dienos,   o   nurodytas  šio  straipsnio
 trečiojoje   dalyje 
@@ -253,14 +264,14 @@ registracijos  turto
 registro įstaigoje, netaikant šio įstatymo 1
 straipsnio antrojoje
 dalyje nustatyto termino apribojimo.
-     Pirkimo-pardavimo 
-objektas  taip  pat  yra  pagal  sutartis
+    
+Pirkimo-pardavimo  objektas  taip  pat  yra  pagal  sutartis
 nuomojamos 
 valstybinio  ir  visuomeninio  butų  fondo  kūrybinės
 studijos  
 dirbtuvės  (toliau  -  kūrybinės  dirbtuvės),  kurioms
 privatizuoti  
-taikomos   gyvenamųjų   namų,  butų  privatizavimo
+taikomos   gyvenamųjų   namų,  butų  privatizavimo
 nuostatos,  
 išskyrus   6   straipsnio  antrojoje,  ketvirtojoje,
 penktojoje, 
@@ -296,8 +307,8 @@ nuomininkai;
 bendrabučiuose,  kurie  Vyriausybės nustatyta
 tvarka skiriami
 vidurinių,  profesinių, aukštesniųjų ir  aukštųjų
-mokyklų 
-moksleiviams,  studentams,  rezidentams bei doktorantams
+mokyklų  moksleiviams, 
+studentams,  rezidentams bei doktorantams
 apgyvendinti, taip
 pat  kambariai Lietuvos aklųjų  ir silpnaregių
 sąjungos bei
@@ -471,7 +482,7 @@ butų bendra tvarka apskaičiuotas kainas.
      Plotas 
 gyvenamuosiuose  namuose,  butuose,  viršijantis šio
 straipsnio 
-pirmojoje  dalyje  nustatytas  normas   respublikinio
+pirmojoje  dalyje  nustatytas  normas   respublikinio
 pavaldumo miestuose 
 ir miestuose  rajonų centruose,  parduodamas
 dviguba   kaina.  
@@ -488,8 +499,8 @@ iki 18  metų, jeigu 
 jie yra  pagrindiniai gyvenamojo  namo, buto
 nuomininkai, taip 
 pat II  grupės invalidams,  kurių šeimose nėra
-darbingų  asmenų,  parduodamo 
-namo,   buto  kainai  taikoma   50
+darbingų  asmenų, 
+parduodamo  namo,   buto  kainai  taikoma   50
 procentų nuolaida.
      Iki  50 
 procentų nuolaida  taikoma parduodant gyvenamuosius
@@ -504,7 +515,7 @@ sąrašus  sudaro  
 Respublikos
 Vyriausybė.
      Nuomininkui, 
-sulaukusiam    60  metų,   arba   nuomininkei,
+sulaukusiam    60  metų,   arba   nuomininkei,
 sulaukusiai 55 
 metų, arba  tokių asmenų  šeimai, kai  nėra  kitų
 darbingų asmenų, 
@@ -634,8 +645,8 @@ palūkanų mokėjimo 
 už kreditą  tvarką, taip  pat  valiutos  kursą
 nustato  Lietuvos 
 Respublikos  Vyriausybė,  numatydama,  kad  už
-parduodamą gyvenamąjį 
-namą, butą  pirkėjai turi  įmokėti pradinę
+parduodamą
+gyvenamąjį  namą, butą  pirkėjai turi  įmokėti pradinę
 įmoką, ne  mažesnę
 kaip  10 procentų  jo vertės,  pinigais ir  ne
 daugiau  kaip   80 
@@ -696,10 +707,10 @@ notariškai 
 patvirtinta.  Kai  nesudaroma  atskira  sutartis   su
 Kultūros   paveldo  
 inspekcija,   perkant   turintį    istorinę,
-kultūrinę, 
-architektūrinę  reikšmę   gyvenamąjį  namą  ar   butą
-tokiuose  statiniuose,  
-pirkimo-pardavimo  sutartis   notariškai
+kultūrinę,  architektūrinę 
+reikšmę   gyvenamąjį  namą  ar   butą
+tokiuose 
+statiniuose,   pirkimo-pardavimo  sutartis   notariškai
 netvirtinama.
  
 Straipsnio
@@ -724,8 +735,8 @@ Nuomininko ir jo šeimos narių teisių
                    
 gynimas
  
-     Nuomininkas ar jo
-šeimos nariai, neįgiję nuosavybės teisės į
+     Nuomininkas ar
+jo šeimos nariai, neįgiję nuosavybės teisės į
 privatizuotąjį   
 butą,     juo    naudojasi    kaip    savininko
 (bendrasavininkio)
@@ -777,6 +788,8 @@ V. LANDSBERGIS
 Vilnius, 1991 m.
 gegužės 28 d.
      Nr. I-1374
+ 
+ 
  
  
 _
