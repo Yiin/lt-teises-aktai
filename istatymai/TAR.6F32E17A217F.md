@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6F32E17A217F"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
-Ramunė Lūžaitė (1997.10.24)
+Ramunė Lūžaitė (1998.07.22)
  
 Įstatymas
 paskelbtas: Žin., 1991, Nr.17-449
@@ -142,6 +142,14 @@ Nr. VIII-452,
 LIETUVOS RESPUBLIKOS
 BUTŲ PRIVATIZAVIMO ĮSTATYMO 3 STRAIPSNIO PAPILDYMO
  
+15.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-847,
+98.07.02, Žin., 1998, Nr.65-1876 (98.07.22)
+LIETUVOS
+RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -165,8 +173,8 @@ sudarytą komisiją, kuri turi teisę leisti šiems asmenims paduoti pareiškimu
 gyvenamosioms patalpoms privatizuoti iki 1997 m. gruodžio 31 d., o nuomininkų,
 privatizuojančių gyvenamąsias patalpas bendrabučiuose, pareiškimų padavimo
 terminus nustato Lietuvos Respublikos Vyriausybė. Pareiškimai, paduoti po 1994
-m. kovo 31 d. iki šio įstatymo įsigaliojimo, laikomi paduotais nepažeidus nustatyto
-termino. Pareiškimai, paduoti po 1994 m. liepos 1 d. iki šio įstatymo
+m. kovo 31 d. iki šio įstatymo įsigaliojimo, laikomi paduotais nepažeidus
+nustatyto termino. Pareiškimai, paduoti po 1994 m. liepos 1 d. iki šio įstatymo
 įsigaliojimo, laikomi paduotais nepažeidus nustatyto
 termino.      
  
@@ -225,11 +233,11 @@ patalpos.
 pirkti gyvenamąsias patalpas, nurodytas šio straipsnio ketvirtojoje ar
 penktojoje dalyse, turi būti pateikti per  6 mėnesius nuo suteiktos
 gyvenamosios patalpos nuomos sutarties  pasirašymo  dienos,  o  nurodytas šio
-straipsnio trečiojoje  dalyje - per 6 mėnesius nuo savivaldybės mero
-(valdybos)  ar  kitos  institucijos  sprendimo  įregistruoti gyvenamąjį  namą, 
-jo  dalį,  butą valstybės, savivaldybės, kooperatinės  ar  visuomeninės 
-organizacijos vardu teisinės registracijos turto registro įstaigoje, netaikant
-šio įstatymo 1 straipsnio antrojoje dalyje nustatyto termino apribojimo.
+straipsnio trečiojoje  dalyje - per 6 mėnesius nuo savivaldybės mero (valdybos) 
+ar  kitos  institucijos  sprendimo  įregistruoti gyvenamąjį  namą,  jo  dalį, 
+butą valstybės, savivaldybės, kooperatinės  ar  visuomeninės  organizacijos
+vardu teisinės registracijos turto registro įstaigoje, netaikant šio įstatymo 1
+straipsnio antrojoje dalyje nustatyto termino apribojimo.
      Pirkimo-pardavimo
 objektas taip pat yra pagal sutartis nuomojamos valstybinio ir visuomeninio
 butų fondo kūrybinės studijos  dirbtuvės (toliau - kūrybinės dirbtuvės),
@@ -273,15 +281,15 @@ butai, nuomojami asmenų, kuriems suteiktas žemės sklypas individualiam
 gyvenamajam namui statyti arba kurie priimti į gyvenamųjų namų  statybos
 kooperatyvą, jeigu šiems asmenims gyvenamojo namo ar buto statybai suteiktas
 lengvatinis kreditas arba jeigu sklypas individualiam gyvenamajam namui statyti
-jiems suteiktas kvartaluose, kuriuose valstybės lėšomis yra nutiesti magistraliniai
-inžineriniai tinklai;
+jiems suteiktas kvartaluose, kuriuose valstybės lėšomis yra nutiesti
+magistraliniai inžineriniai tinklai;
      5)
 gyvenamieji namai, butai, kurie iš Lietuvos piliečių, turinčių teisę į
 nuosavybės atstatymą pagal Lietuvos Respublikos įstatymo  "Dėl  piliečių 
-nuosavybės  teisių  į  išlikusį nekilnojamąjį turtą  atstatymo tvarkos  ir sąlygų" 
-antrąjį straipsnį, administraciniais aktais  ar kitais būdais  buvo paimti,
-konfiskuoti arba nacionalizuoti, išskyrus šio įstatymo 2 straipsnio trečiojoje
-dalyje nurodytus atvejus;
+nuosavybės  teisių  į  išlikusį nekilnojamąjį turtą  atstatymo tvarkos  ir
+sąlygų"  antrąjį straipsnį, administraciniais aktais  ar kitais būdais  buvo
+paimti, konfiskuoti arba nacionalizuoti, išskyrus šio įstatymo 2 straipsnio
+trečiojoje dalyje nurodytus atvejus;
     
 6) gyvenamieji namai, butai, išnuomoti pagal Lietuvos Respublikos gyventojų
 apsirūpinimo gyvenamosiomis patalpomis įstatymą, išskyrus gyvenamuosius namus,
@@ -348,6 +356,9 @@ susitaria dėl gyvenamojo namo, buto pirkimo, kieno vardu bus sudaroma
 pirkimo-pardavimo sutartis ir kas taps perkamo namo, buto savininku
 (bendrasavininkiais). Toks susitarimas turi būti patvirtintas notariškai.
 Nesutarus pirkti gyvenamojo namo, buto, pirkimo-pardavimo sutartis nesudaroma.
+Sutuoktinių nuosavybės teisė į privatizuotą namą ar butą nustatoma pagal šeimos
+įstatymus, neatsižvelgiant į tai, kurio sutuoktinio vardu buvo privatizuotas
+namas ar butas.
      Pareiškimus
 gyvenamiesiems namams, butams įsigyti asmenys paduoda savivaldybei pagal
 gyvenamąją vietą, o jei namas, butas yra įmonės, įstaigos ar organizacijos
@@ -359,6 +370,8 @@ Nr.
 I-224, 93.07.15, Žin., 1993, Nr. 32-722 (93.07.28)
 Nr.
 I-998, 95.07.03, Žin., 1995, Nr. 59-1472 (95.07.19)
+Nr. VIII-847,
+98.07.02, Žin., 1998, Nr.65-1876 (98.07.22)
  
      6
 straipsnis. Parduodamų gyvenamųjų namų, butų kaina
@@ -382,9 +395,9 @@ tvarka, atsižvelgdamos į namų ir butų buvimo vietą, iki 20 procentų padidi
 sumažina parduodamų gyvenamųjų namų ar butų bendra tvarka apskaičiuotas kainas.
      Plotas
 gyvenamuosiuose namuose, butuose, viršijantis šio straipsnio pirmojoje dalyje
-nustatytas normas  respublikinio pavaldumo miestuose ir miestuose rajonų
-centruose, parduodamas dviguba  kaina.  Plotas,  kurį  užima  kūrybinės
-dirbtuvės, nepriklausomai nuo jų dydžio parduodamas dviguba kaina.
+nustatytas normas  respublikinio pavaldumo miestuose ir miestuose rajonų centruose,
+parduodamas dviguba  kaina.  Plotas,  kurį  užima  kūrybinės dirbtuvės,
+nepriklausomai nuo jų dydžio parduodamas dviguba kaina.
      Nuomininkui
 ir jo šeimos nariams, jeigu tarp jų yra I grupės invalidas arba vaikas
 invalidas iki 16 metų, kuriam nustatytas nuolatinės slaugos būtinumas bei
@@ -435,9 +448,9 @@ suteiktame bute), kuriems butai buvo suteikti  nugriaunant jų  asmenine
 nuosavybe  buvusius gyvenamuosius namus dėl žemės sklypų paėmimo valstybės  ar
 visuomenės reikalams ir pagal tuo laiku galiojusius įstatymus nebuvo
 kompensuota namų  vertė, neatlygintinai  pripažįstama nuosavybės teisė į
-nuomojamą gyvenamąjį namą ar butą. Jeigu nėra buvusių namų savininkų, jų
-įpėdiniams, įstatymų nustatyta tvarka pasikeitusiems gautąjį kaip kompensaciją
-butą į kitą  arba gyvenamojo ploto skirstymo tvarka pagerinusiems buto sąlygas,
+nuomojamą gyvenamąjį namą ar butą. Jeigu nėra buvusių namų savininkų, jų įpėdiniams,
+įstatymų nustatyta tvarka pasikeitusiems gautąjį kaip kompensaciją butą į kitą 
+arba gyvenamojo ploto skirstymo tvarka pagerinusiems buto sąlygas,
 neatlygintinai nuosavybės teisė pripažįstama tik į tą gyvenamojo ploto dalį,
 kuri buvo suteikta kaip kompensacija už nugriautą namą (butą).
      Grįžusiems
