@@ -454,7 +454,6 @@ pelno dalis, likusi po pelno skyrimo įstatiniam ir (arba) atsargos kapitalams,
 įmokama į valstybės biudžetą vieną kartą per metus, ne vėliau kaip iki kitų
 metų gegužės 1 dienos.
  
- 
 KETVIRTASIS
 SKIRSNIS
 LIETUVOS BANKO
@@ -545,8 +544,8 @@ kitas pinigų politikos priemones.
 PENKTASIS
 SKIRSNIS
 UŽSIENIO
-ATSARGOS IR OPERACIJOS SU 
-UŽSIENIO FINANSŲ IR KREDITO ĮSTAIGOMIS
+ATSARGOS IR OPERACIJOS
+SU UŽSIENIO FINANSŲ IR KREDITO ĮSTAIGOMIS
  
 33
 straipsnis. Užsienio atsargos
@@ -598,8 +597,8 @@ SKIRSNIS
 VALSTYBĖS IŽDO
 AGENTO FUNKCIJOS
  
-37
-straipsnis. Skolinimo teisės apribojimas
+37 straipsnis.
+Skolinimo teisės apribojimas
 Lietuvos bankui
 draudžiama skolinti Vyriausybei ir kitoms valstybės vykdomosios valdžios
 įstaigoms, valstybės ir savivaldybių įmonėms arba pirkti jų vertybinių popierių
@@ -707,20 +706,23 @@ nustatyta tvarka Lietuvos banko tarnautojai turi teisę dalyvauti kredito
 kitaip stebėti valdymo organų ir kredito įstaigų administracijos veiklą.
  
 47
-straipsnis. Bendradarbiavimas su kitų valstybių kredito įstaigų priežiūros 
+straipsnis. Bendradarbiavimas su kitų valstybių kredito įstaigų priežiūros
 institucijomis
 Atlikdamas
 kredito įstaigų licencijavimo ir priežiūros funkcijas, Lietuvos bankas turi
 teisę keistis su kitų valstybių kredito įstaigų priežiūros institucijomis
 informacija apie bet kurios kredito įstaigos veiklą, užtikrindamas tokios
 informacijos konfidencialumą. Gauta iš kitos kredito įstaigų priežiūros
-institucijos informacija gali būti perduota įstatymų numatytais atvejais tik
-teismui, prokurorui, tardymo ir kvotos organams, jeigu ji reikalinga
-baudžiamajai bylai tirti ar nagrinėti, taip pat valstybės kontrolės
-(priežiūros) institucijoms, jeigu jose dirbantys asmenys pagal jų veiklą
-reglamentuojančius teisės aktus gautą informaciją privalo laikyti paslaptyje ir
-yra užsienio valstybės kredito įstaigų priežiūros institucijos sutikimas
-informaciją atskleisti.
+institucijos informacija, susijusi su nusikalstama veika, gali būti perduota įstatymų
+numatytais atvejais tik teismui, prokurorui, ikiteisminio tyrimo įstaigoms,
+taip pat valstybės kontrolės (priežiūros) institucijoms, jeigu jose dirbantys
+asmenys pagal jų veiklą reglamentuojančius teisės aktus gautą informaciją
+privalo laikyti paslaptyje ir yra užsienio valstybės kredito įstaigų priežiūros
+institucijos sutikimas informaciją atskleisti.
+Straipsnio pakeitimai:
+Nr.
+IX-1465,
+2003-04-03, Žin., 2003, Nr. 38-1710 (2003-04-24)
  
 AŠTUNTASIS
 SKIRSNIS
@@ -783,8 +785,8 @@ savo
 įsipareigojimų
 1. Lietuvos
 bankas turi teisę be kredito įstaigos nurodymo nurašyti lėšas iš kredito
-įstaigos sąskaitų, jeigu ši įstaiga Lietuvos banko teisės aktuose ar sutartyse
-numatytu laiku neįvykdo savo įsipareigojimų Lietuvos bankui.
+įstaigos sąskaitų, jeigu ši įstaiga Lietuvos banko teisės aktuose ar sutartyse numatytu
+laiku neįvykdo savo įsipareigojimų Lietuvos bankui.
 2. Jeigu skolininkas sutartyje
 nustatytu laiku neįvykdo prievolių, kurių įvykdymas buvo užtikrintas
 Vyriausybės ar Lietuvos banko vertybinių popierių įkeitimu, Lietuvos bankas
@@ -884,12 +886,24 @@ BANKO ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Įstatymo nuostatos taikomos skirstant 2002 ir vėlesnių finansinių metų Lietuvos
 banko pelną.
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1465,
+2003-04-03, Žin., 2003, Nr. 38-1710 (2003-04-24)
+LIETUVOS
+BANKO ĮSTATYMO 47 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja kartu su Lietuvos
+Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+2003 m. gegužės 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-03-19)
+Aušrinė Trapinskienė (2003-05-12)
                  
 autrap@lrs.lt
