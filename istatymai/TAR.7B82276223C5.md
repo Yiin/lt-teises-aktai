@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7B82276223C5"
 Redagavo: Ramun? L??ait? (1997
 
 Įstatymas
-paskelbtas: Žin., 1991, Nr. 2-22
+skelbtas: Žin., 1991, Nr. 2-22
 Neoficialus
 įstatymo tekstas
  
@@ -117,11 +117,30 @@ reglamentuoja įstatymo numatyta tvarka priimti ir užregistruoti įstatai
             Policijos pareigūnams
 draudžiama streikuoti.
  
+8(1)
+straipsnis. Mokesčių policijos departamentas prie Vidaus reikalų ministerijos
+Iki atskiro
+įstatymo, reglamentuojančio Mokesčių policijos departamento prie Vidaus reikalų
+ministerijos reorganizavimą, teisinį statusą bei veiklos pagrindus, priėmimo,
+tačiau ne ilgiau kaip iki 2001 m. liepos 1 d., Mokesčių policijos departamentui
+prie Vidaus reikalų ministerijos vadovauja vyriausiasis mokesčių policijos
+komisaras. Mokesčių policijos departamento prie Vidaus reikalų ministerijos bei
+šio departamento padalinių pareigūnai iki atskiro įstatymo, reglamentuojančio
+Mokesčių policijos departamento prie Vidaus reikalų ministerijos
+reorganizavimą, teisinį statusą bei veiklos pagrindus, priėmimo, tačiau ne
+ilgiau kaip iki 2001 m. liepos 1 d., turi visas policijos pareigūnų pareigas
+bei teises, nustatytas Lietuvos Respublikos policijos veiklos įstatyme.
+Įstatymas
+papildytas straipsniu:
+Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
+109-3478 (2000 12 22)
+ 
+ 
             9 straipsnis. Neteko galios.
 Straipsnio
 pakeitimai:
-Nr. VIII-2048, 00.10.17, Žin., 2000, Nr.90-2777
-(00.10.27)
+Nr. VIII-2048, 00.10.17, Žin., 2000,
+Nr.90-2777 (00.10.27)
  
             10 straipsnis. Neteko
 galios.
@@ -159,6 +178,8 @@ Nr. VIII-2016, 00.10.10, Žin., 2000,
 Nr.92-2868 (00.10.31), įsigalioja nuo 2000.11.01
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
+Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
+109-3478 (2000 12 22)
  
             13 straipsnis. Neteko
 galios.
@@ -174,13 +195,15 @@ Nr. VIII-2016, 00.10.10, Žin., 2000,
 Nr.92-2868 (00.10.31), įsigalioja nuo 2000.11.01
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
+Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
+109-3478 (2000 12 22)
  
             14 straipsnis. Neteko
 galios.
 Straipsnio
 pakeitimai:
-Nr. VIII-2048, 00.10.17, Žin., 2000, Nr.90-2777
-(00.10.27)
+Nr. VIII-2048, 00.10.17, Žin., 2000,
+Nr.90-2777 (00.10.27)
  
             15 straipsnis. Neteko
 galios.
@@ -248,16 +271,16 @@ VIII-356,
             16(5 )straipsnis.
 Specialiųjų tyrimų tarnybos uždaviniai
             Specialiųjų tyrimų tarnyba
-renka, analizuoja, klasifikuoja, o jeigu reikia, perduoda vidaus reikalų sistemos
-padaliniams ir suinteresuotoms tarnyboms operatyvinę ir kitą informaciją apie
-nusikalstamus susivienijimus (organizuotas grupes), jų organizatorius bei
-narius, taip pat rengiančius ar padariusius nusikaltimus valstybės tarnybai ar
-susijusius su nusikalstamo susivienijimo veikla valstybės pareigūnus bei
-organizuoja priemones šiai informacijai realizuoti, tiria nusikalstamų
-susivienijimų (organizuotų grupių) narių, asmenų, susijusių su nusikalstamo
-susivienijimo veikla, padarytus nusikaltimus, taip pat nusikaltimus valstybės
-tarnybai, atlieka kvotą ir parengtinį tardymą šiose baudžiamosiose bylose,
-imasi priemonių tokių nusikaltimų prevencijai.
+renka, analizuoja, klasifikuoja, o jeigu reikia, perduoda vidaus reikalų
+sistemos padaliniams ir suinteresuotoms tarnyboms operatyvinę ir kitą
+informaciją apie nusikalstamus susivienijimus (organizuotas grupes), jų
+organizatorius bei narius, taip pat rengiančius ar padariusius nusikaltimus valstybės
+tarnybai ar susijusius su nusikalstamo susivienijimo veikla valstybės
+pareigūnus bei organizuoja priemones šiai informacijai realizuoti, tiria
+nusikalstamų susivienijimų (organizuotų grupių) narių, asmenų, susijusių su
+nusikalstamo susivienijimo veikla, padarytus nusikaltimus, taip pat
+nusikaltimus valstybės tarnybai, atlieka kvotą ir parengtinį tardymą šiose
+baudžiamosiose bylose, imasi priemonių tokių nusikaltimų prevencijai.
 Įstatymas
 papildytas straipsniu:
 Nr.
@@ -279,8 +302,7 @@ pakeitimai:
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
  
-            19 straipsnis. Neteko
-galios.
+            19 straipsnis. Neteko galios.
 Straipsnio
 pakeitimai:
 Nr. VIII-2048, 00.10.17, Žin., 2000,
@@ -322,7 +344,8 @@ pakeitimai:
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
  
-            22 straipsnis. Neteko galios.
+            22 straipsnis. Neteko
+galios.
 Straipsnio
 pakeitimai:
 Nr. VIII-2048, 00.10.17, Žin., 2000,
@@ -363,8 +386,8 @@ būklę tinka policijos pareigūno pareigoms.
 tarnybą Lietuvos Respublikos policijoje ir neturintiems specialiojo ar aukštojo
 išsilavinimo piliečiams suteikiamas pirmasis policininko stažuotojo pareiginis
 laipsnis ir nustatomas l metų stažuotės terminas.
-            Policijos pareigūnai negali
-būti politinių partijų ar kitų politinių organizacijų nariais.
+            Policijos pareigūnai negali būti
+politinių partijų ar kitų politinių organizacijų nariais.
             Tarnyba policijoje tvarkoma
 statutinės drausmės pagrindais.
             Tarnybos policijoje sąlygas
@@ -404,11 +427,11 @@ veiksmų, kurie galėtų pakenkti geram policijos vardui.
 be paskutiniojo sakinio.
             Priesaikos priėmimo tvarką
 nustato Tarnybos policijoje statutas.
-            Piliečiai, atsisakiusieji prisiekti,
-į policiją nepriimami.
+            Piliečiai, atsisakiusieji
+prisiekti, į policiją nepriimami.
  
-            27 straipsnis. Pareiginiai
-laipsniai
+27 straipsnis. Pareiginiai
+laipsniai 
 Policijos
 pareigūnų tarnybos stažui, kvalifikacijai ir einamoms pareigoms pažymėti bei
 santykiams reguliuoti yra šie pareiginiai laipsniai:
@@ -432,15 +455,16 @@ vyriausiasis
 komisaras
 generalinis
 komisaras.
-            Policijos pareiginiai
-laipsniai suteikiami pareigūnams skiriant juos į atitinkamas pareigas ir kai
-jie yra išlaikę kvalifikacinį egzaminą, kurio reikalavimus ir tvarką nustato
-Lietuvos Respublikos vidaus reikalų ministras. Lietuvos teisės akademijos
-Policijos fakulteto policijos pareigūnus į pareigas Akademijos statute nustatyta
-tvarka skiria Akademijos rektorius, o pareiginius laipsnius Akademijos
-rektoriaus teikimu jiems suteikia vidaus reikalų ministras.
-            Policininko kvalifikacijai
-pažymėti nustatomos pareiginio laipsnio kvalifikacinės kategorijos.
+Policijos
+pareiginiai laipsniai suteikiami pareigūnams skiriant juos į atitinkamas
+pareigas ir kai jie yra išlaikę kvalifikacinį egzaminą, kurio reikalavimus ir
+tvarką nustato Lietuvos Respublikos vidaus reikalų ministras. Lietuvos teisės
+universiteto Policijos fakulteto policijos pareigūnus į pareigas Universiteto
+statute nustatyta tvarka skiria Universiteto rektorius, o pareiginius laipsnius
+Universiteto rektoriaus teikimu jiems suteikia vidaus reikalų ministras.
+Policijos
+pareigūnų kvalifikacijai pažymėti nustatomos pareiginio laipsnio kvalifikacinės
+kategorijos.
 Straipsnio
 pakeitimai:
 Nr.
@@ -452,6 +476,8 @@ Nr. VIII-2016, 00.10.10, Žin., 2000,
 Nr.92-2868 (00.10.31), įsigalioja nuo 2000.11.01
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
+Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
+109-3478 (2000 12 22)
  
  
             28 straipsnis. Neteko
@@ -517,8 +543,8 @@ perkvalifikavimo kursai.
  
  
 IV SKIRSNIS.
-POLICIJOS
-PAREIGŪNŲ TEISĖS, PAREIGOS, ATSAKOMYBĖ
+POLICIJOS PAREIGŪNŲ
+TEISĖS, PAREIGOS, ATSAKOMYBĖ
  
             33 straipsnis. Neteko
 galios.
@@ -603,8 +629,8 @@ Nr.90-2777 (00.10.27)
  
  
 V SKIRSNIS.
-POLICIJOS GINKLAI
-IR SPECIALIOSIOS PRIEMONĖS, JŲ NAUDOJIMO SĄLYGOS
+POLICIJOS
+GINKLAI IR SPECIALIOSIOS PRIEMONĖS, JŲ NAUDOJIMO SĄLYGOS
  
             41 straipsnis. Neteko
 galios.
@@ -777,9 +803,9 @@ dydžius, atsižvelgiant į sveikatos sutrikimo laipsnį, ir kompensacijų
 išmokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
 Kompensacijos
 nemokamos šio įstatymo 48 straipsnio 3 dalyje nurodytais atvejais.
-Ar policijos pareigūno
-žūtis arba sveikatos sužalojimas susijęs su tarnybinių pareigų vykdymu,
-nustatoma vidaus reikalų ministro nustatyta tvarka.
+Ar policijos
+pareigūno žūtis arba sveikatos sužalojimas susijęs su tarnybinių pareigų
+vykdymu, nustatoma vidaus reikalų ministro nustatyta tvarka.
             Policijos pareigūnams
 atlyginama materialinė žala, tiesiogiai susijusi su jo tarnybinių pareigų
 vykdymu.
@@ -804,8 +830,7 @@ I-601,
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
  
-            50 straipsnis. Neteko
-galios.
+            50 straipsnis. Neteko galios.
 Straipsnio
 pakeitimai:
 Nr.
@@ -817,14 +842,14 @@ Nr.90-2777 (00.10.27)
  
  
 LIETUVOS RESPUBLIKOS
-AUKŠČIAUSIOSIOS TARYBOS -
-ATKURIAMOJO SEIMO PIRMININKO
-PAVADUOTOJAS                           K. MOTIEKA
+AUKŠČIAUSIOSIOS TARYBOS
+PIRMININKO PAVADUOTOJAS                                                                   
+K. MOTIEKA
  
 Vilnius, 1990 m. gruodžio 11 d. 
 Nr. I-851 
  
-___________
+__________
  
 Pakeitimai:
  
@@ -909,6 +934,18 @@ POLICIJOS ĮSTATYMO 12, 13, 25 STRAIPSNIŲ PAKEITIMO,
 PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.
  
+Pakeitimai:
+1)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-74, 2000 12 12, Žin., 2000, Nr.
+109-3478 (2000 12 22)
+POLICIJOS
+ĮSTATYMO 12, 13, 25 STRAIPSNIŲ PAKEITIMO, 16(1), 16(2), 21(1) STRAIPSNIŲ, 27
+STRAIPSNIO 5 DALIES IR 39(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMO
+1 IR 2 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, 7 STRAIPSNIO PAKEITIMO BEI
+PAPILDYMO 8(1) STRAIPSNIU ĮSTATYMAS
+ 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2048, 00.10.17, Žin., 2000,
@@ -918,5 +955,6 @@ POLICIJOS VEIKLOS ĮSTATYMAS
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.11.07)
+Redagavo: Aušrinė Trapinskienė (2000 12 22)
+                  autrap@lrs.lt
 
