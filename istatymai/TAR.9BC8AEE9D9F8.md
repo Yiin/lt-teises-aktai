@@ -150,12 +150,15 @@ komisijos narių įgaliojimų terminas - ketveri metai.
 kultūros vertybių apsaugos valdymo institucijų ir kultūros vertybių apsaugos
 biudžetinių įstaigų vadovai, pavaduotojai ar jų įgalioti asmenys turi teisę
 dalyvauti ir pasisakyti Valstybinės paminklosaugos komisijos posėdžiuose.
-            Valstybinei paminklosaugos
-komisijai vadovauja pirmininkas, kurį šios komisijos ir Lietuvos Respublikos
-Seimo Švietimo, mokslo ir kultūros komiteto teikimu skiria ir keičia Seimo
-Pirmininkas. Komisijos pirmininkas skiriamas dvejiems metams iš komisijos
-narių. Pareiginį atlyginimą Komisijos pirmininkui nustato Lietuvos Respublikos
-Vyriausybė.
+Valstybinei
+paminklosaugos komisijai vadovauja pirmininkas, kurį šios komisijos ir Lietuvos
+Respublikos Seimo Švietimo, mokslo ir kultūros komiteto teikimu skiria ir
+keičia Seimo Pirmininkas. Komisijos pirmininkas skiriamas dvejiems metams iš
+komisijos narių. Pareiginį atlyginimą Komisijos pirmininkui nustato Lietuvos
+Respublikos Vyriausybė. Pradėjus įgyvendinti Lietuvos Respublikos
+valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo
+nustatytą darbo apmokėjimo sistemą, Valstybinės paminklosaugos komisijos
+pirmininkui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
             Valstybinė paminklosaugos
 komisija turi sekretoriatą ir kontrolės tarnybą. Sekretoriato ir kontrolės
 tarnybos veikla organizuojama pagal nuostatus, kuriuos tvirtina Valstybinės
@@ -175,16 +178,16 @@ iš kultūros vertybių registrų;
 kultūros vertybių apsaugos valstybės valdymo institucijų ataskaitas;
             6) vertinti kultūros
 vertybių apsaugos valstybės valdymo institucijų veiklą;
-            7) informuoti Lietuvos Respublikos
-Seimo Švietimo, mokslo ir kultūros komitetą apie kultūros vertybių apsaugos
-valstybinės politikos vykdymo problemas;
+            7) informuoti Lietuvos
+Respublikos Seimo Švietimo, mokslo ir kultūros komitetą apie kultūros vertybių
+apsaugos valstybinės politikos vykdymo problemas;
             8) atlikti kitas įstatymų
 nustatytas funkcijas.
             Valstybinė paminklosaugos
 komisija turi teisę:
-            1) kontroliuoti, kaip
-kultūros vertybių apsaugos valstybės valdymo institucijos vykdo kultūros
-vertybių apsaugos valstybinę politiką;
+            1) kontroliuoti, kaip kultūros
+vertybių apsaugos valstybės valdymo institucijos vykdo kultūros vertybių
+apsaugos valstybinę politiką;
             2) gauti iš Lietuvos
 Respublikos Vyriausybės, ministerijų, kitų valstybės valdymo institucijų ir
 savivaldybių informaciją, paaiškinimus, sprendimus bei jų oficialius projektus
@@ -198,9 +201,9 @@ atitinkamomis kitų valstybių institucijomis ir tarptautinėmis organizacijomis
             Valstybinės paminklosaugos
 komisijos kontrolės tarnyba taip pat turi teisę:
             1) įspėti kultūros vertybių
-savininkus ir valdytojus, kad būtų pašalinti kultūros vertybių apsaugos įstatymų
-pažeidimai ir apie šiuos pažeidimus per 3 dienas pranešti atitinkamai kultūros
-vertybių apsaugos valstybės valdymo institucijai;
+savininkus ir valdytojus, kad būtų pašalinti kultūros vertybių apsaugos
+įstatymų pažeidimai ir apie šiuos pažeidimus per 3 dienas pranešti atitinkamai
+kultūros vertybių apsaugos valstybės valdymo institucijai;
             2) surašyti administracinius
 teisės pažeidimų protokolus dėl kultūros vertybių saugojimo pažeidimų ir per 3
 dienas pasiųsti juos į atitinkamą kultūros vertybių apsaugos valstybės valdymo
@@ -212,9 +215,12 @@ komisija kasmet pateikia ataskaitą Lietuvos Respublikos Seimui.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-168, 97.03.27, Žin., 1997, Nr.30-713 (97.04.09)
-Nr.
-VIII-401, 97.07.03, Žin., 1997, Nr.67-1676 (97.07.16)
+VIII-168,
+97.03.27, Žin., 1997, Nr.30-713 (97.04.09)
+Nr. VIII-401, 97.07.03,
+Žin., 1997, Nr.67-1676 (97.07.16)
+Nr. IX-275, 2001 04 19, Žin., 2001, Nr.
+39-1346 (2001 05 09)
  
  
             5 straipsnis. Kultūros
@@ -321,10 +327,10 @@ Valstybinę paminklosaugos komisiją apie įstatymo pažeidimo atvejus saugant
 kultūros paminklus.
 Straipsnio
 pakeitimai:
-Nr.
-VIII-423, 97.09.25, Žin., 1997, Nr.96-2421 (97.10.24)
-Nr. VIII-1663, 00.05.04, Žin., 2000, Nr.40-1114
-(00.05.17)
+Nr. VIII-423, 97.09.25,
+Žin., 1997, Nr.96-2421 (97.10.24)
+Nr. VIII-1663, 00.05.04, Žin., 2000,
+Nr.40-1114 (00.05.17)
  
  
             7 straipsnis. Kultūros
@@ -376,7 +382,6 @@ kitus saugojimo darbus kitoms įstaigoms, įmonėms ar specialistams;
             15) sudaryti
 bendradarbiavimo sutartis su kitų valstybių atitinkamomis institucijomis ar
 tarptautinėmis organizacijomis. 
- 
  
 II skyrius
  
@@ -441,8 +446,8 @@ skelbiama, jei:
 valstybė arba savivaldybės;
             2) yra pakankamas pagrindas
 manyti, kad vertybei gresia sunykimas arba sunaikinimas;
-            3) vertybė priklauso objektams,
-apibūdintiems šio įstatymo 3 straipsnio antrojoje dalyje.
+            3) vertybė priklauso
+objektams, apibūdintiems šio įstatymo 3 straipsnio antrojoje dalyje.
             Dėl nekilnojamųjų kultūros
 vertybių paskelbimo kultūros paminklais sprendimo panaikinimo savininkai gali
 kreiptis į teismą.
@@ -455,8 +460,8 @@ departamentui ir Valstybinei paminklosaugos komisijai pritarus, kultūros
 ministro teikimu iš Registro išbraukia Lietuvos Respublikos Vyriausybė, o visas
 kitas nekilnojamąsias kultūros vertybes - Kultūros vertybių apsaugos
 departamentas, jeigu:
-            1) yra nustatytas jų
-sunykimo ar sunaikinimo faktas;
+            1) yra nustatytas jų sunykimo
+ar sunaikinimo faktas;
             2) vertybės yra praradusios
 požymius, apibrėžiančius jų vertę;
             3) išnyko visuomeninė
@@ -470,8 +475,8 @@ Registro nekilnojamąsias kultūros vertybes turi būti paskelbta regiono ar
 vietos laikraščiuose, o kultūros paminklus - ne mažiau kaip dviejuose
 respublikiniuose laikraščiuose prieš tris mėnesius iki tokių sprendimų
 priėmimo.
-            Sprendimai dėl kultūros paminklų
-išbraukimo iš Registro skelbiami "Valstybės žiniose".
+            Sprendimai dėl kultūros
+paminklų išbraukimo iš Registro skelbiami "Valstybės žiniose".
  
             12 straipsnis. Informacijos
 apie nekilnojamąsias kultūros vertybes teikimas
@@ -546,19 +551,19 @@ kultūros vertybių apsaugos reglamentas
 vertybės apsaugos reglamentas yra šios vertybės priežiūros, tvarkymo ir
 naudojimo sąlygų nustatymo pagrindinis dokumentas. Apsaugos reglamente taip pat
 nurodomi pagrindiniai vertybės apskaitos duomenys - jos sudėtis ir apimtis,
-pagrindiniai kultūrinės vertės požymiai, visuomeninė reikšmė ir teritorija.
-Pasikeitus nekilnojamosios kultūros vertybės saugojimo sąlygoms, jos fizinei
-būklei ar paskelbus šią vertybę kultūros paminklu, apsaugos reglamentas
-papildomas ir patikslinamas.
+pagrindiniai kultūrinės vertės požymiai, visuomeninė reikšmė ir teritorija. Pasikeitus
+nekilnojamosios kultūros vertybės saugojimo sąlygoms, jos fizinei būklei ar
+paskelbus šią vertybę kultūros paminklu, apsaugos reglamentas papildomas ir
+patikslinamas.
             Nekilnojamųjų kultūros
 vertybių apsaugos reglamentus sudaro ir nustato Kultūros vertybių apsaugos
 departamentas. Tipinius nekilnojamųjų kultūros vertybių atskirų grupių apsaugos
 reglamentus, suderintus su Valstybine paminklosaugos komisija, kultūros
 ministro teikimu tvirtina Lietuvos Respublikos Vyriausybė.
-            Kiekvienai nekilnojamajai
-kultūros vertybei yra sudaromi 2 apsaugos reglamento egzemplioriai. Vienas
-egzempliorius įteikiamas vertybės savininkui (valdytojui), kitas yra saugomas
-Kultūros vertybių apsaugos departamente.
+            Kiekvienai nekilnojamajai kultūros
+vertybei yra sudaromi 2 apsaugos reglamento egzemplioriai. Vienas egzempliorius
+įteikiamas vertybės savininkui (valdytojui), kitas yra saugomas Kultūros
+vertybių apsaugos departamente.
             Nekilnojamųjų kultūros
 vertybių savininkai ir valdytojai privalo laikytis apsaugos reglamento
 reikalavimų.
@@ -579,9 +584,10 @@ departamentas nustato individualias apsaugos zonas. Šios zonos skirstomos į:
 poveikio zonas;
             2) vizualinės apsaugos
 zonas.
-            Apsaugos nuo fizinio poveikio
-zonos - tai plotai už nekilnojamųjų kultūros vertybių teritorijų, kuriuose
-atliekami darbai gali fiziškai pakenkti šioms vertybėms ar jų teritorijoms.
+            Apsaugos nuo fizinio
+poveikio zonos - tai plotai už nekilnojamųjų kultūros vertybių teritorijų,
+kuriuose atliekami darbai gali fiziškai pakenkti šioms vertybėms ar jų
+teritorijoms.
             Vizualinės apsaugos zonos -
 tai plotai už nekilnojamųjų kultūros vertybių apsaugos nuo fizinio poveikio
 zonų ar teritorijų, kuriuose aplinkos pakeitimai gali pakenkti šių vertybių
@@ -596,8 +602,8 @@ metrų.
 apsaugos zonos gali būti didesnės negu 500 metrų, jeigu tai lemia saugomos
 vertybės išlikimą.
             Prieš skelbiant
-nekilnojamąsias kultūros vertybes kultūros paminklais, turi būti nustatytos individualios
-apsaugos zonos.
+nekilnojamąsias kultūros vertybes kultūros paminklais, turi būti nustatytos
+individualios apsaugos zonos.
             Apie individualių apsaugos
 zonų nustatymą Kultūros vertybių apsaugos departamentas praneša nekilnojamųjų
 kultūros vertybių savininkams (valdytojams), visų nekilnojamojo turto objektų,
@@ -631,22 +637,23 @@ patvirtinti atitinkamas apsaugos zonų taisykles.
 kultūros vertybių ar atskirų istorinių ir sukultūrinto 
 kraštovaizdžio
 teritorijų – nekilnojamųjų kultūros vertybių saugojimas
-            Nekilnojamųjų kultūros
-vertybių grupėms bei jų aplinkai, istorinėms ir sukultūrinto kraštovaizdžio
-teritorijoms- nekilnojamosioms kultūros vertybėms išsaugoti gali būti
-steigiamos saugomos teritorijos.
+            Nekilnojamųjų kultūros vertybių grupėms bei jų
+aplinkai, istorinėms ir sukultūrinto kraštovaizdžio teritorijoms-
+nekilnojamosioms kultūros vertybėms išsaugoti gali būti steigiamos saugomos
+teritorijos.
              Saugomos teritorijos
 steigiamos Lietuvos Respublikos saugomų teritorijų įstatymo nustatyta tvarka.
             Saugomose teritorijose
 esančioms nekilnojamosioms kultūros vertybėms apsaugos zonos nenustatomos.
  
-            20 straipsnis. Nekilnojamųjų
-kultūros vertybių saugojimo priemonės teritorinio planavimo 
+            20 straipsnis.
+Nekilnojamųjų kultūros vertybių saugojimo priemonės teritorinio 
+planavimo
 dokumentuose
-            Rengiamuose Lietuvos
-Respublikos, jos regionų ar vietovių teritorinio planavimo dokumentuose turi
-būti numatytos nekilnojamųjų kultūros vertybių saugojimo ir integravimo į
-visuomenės gyvenimą priemonės.
+            Rengiamuose Lietuvos Respublikos, jos regionų
+ar vietovių teritorinio planavimo dokumentuose turi būti numatytos
+nekilnojamųjų kultūros vertybių saugojimo ir integravimo į visuomenės gyvenimą
+priemonės.
  
             21 straipsnis. Nekilnojamųjų
 kultūros vertybių tvarkymo darbai
@@ -677,9 +684,9 @@ vėliau kaip per 15 dienų Kultūros vertybių apsaugos departamentas turi priim
 sprendimus dėl naujai išaiškintų vertybių ištyrimo ir tolesnės darbų eigos.
  
             22 straipsnis. Nekilnojamųjų
-kultūros vertybių saugojimas atliekant priešavarinius, remonto 
-ar pritaikymo
-darbus
+kultūros vertybių saugojimas atliekant priešavarinius, 
+remonto ar
+pritaikymo darbus
             Nekilnojamųjų kultūros
 vertybių priešavariniams, remonto ar pritaikymo darbams bei tokiems darbams jų
 teritorijose atlikti reikalingas Kultūros vertybių apsaugos departamento
@@ -700,8 +707,8 @@ būtinus tyrimo, konservavimo ar restauravimo darbus.
 pritaikymo darbus turi prižiūrėti atestuoti specialistai.
  
             23 straipsnis. Nekilnojamųjų
-kultūros vertybių tyrimas, konservavimas, restauravimas ir 
-atkūrimas
+kultūros vertybių tyrimas, konservavimas, restauravimas 
+ir atkūrimas
             Nekilnojamąsias kultūros
 vertybes tirti, konservuoti, restauruoti ir atkurti galima tik pagal Kultūros
 vertybių apsaugos departamento patvirtintas sąlygas, programas ar projektus ir
@@ -718,24 +725,24 @@ motyvuotai atsisakyti, jeigu darbai neatitinka šio įstatymo 21 straipsnio
 sąlygų, per du mėnesius nuo kreipimosi dienos, o išduoti leidimą - per 15
 dienų.
 Nekilnojamųjų
-kultūros vertybių remonto, tyrimo, konservavimo, restauravimo ir atkūrimo darbus
-atlikti, taip pat rengti šių darbų sąlygas, programas ir projektus gali tik
-Lietuvos Respublikos Vyriausybės nustatyta tvarka Kultūros vertybių apsaugos
-departamento atestuotos įmonės.
+kultūros vertybių remonto, tyrimo, konservavimo, restauravimo ir atkūrimo
+darbus atlikti, taip pat rengti šių darbų sąlygas, programas ir projektus gali
+tik Lietuvos Respublikos Vyriausybės nustatyta tvarka Kultūros vertybių
+apsaugos departamento atestuotos įmonės.
 Straipsnio
 pakeitimai:
-Nr.
-VIII-423, 97.09.25, Žin., 1997, Nr.96-2421 (97.10.24)
-Nr. VIII-1663, 00.05.04, Žin., 2000, Nr.40-1114
-(00.05.17)
+Nr. VIII-423, 97.09.25,
+Žin., 1997, Nr.96-2421 (97.10.24)
+Nr. VIII-1663, 00.05.04, Žin., 2000,
+Nr.40-1114 (00.05.17)
  
  
             24 straipsnis. Nekilnojamųjų
 kultūros vertybių požymių turinčių objektų apsauga
             Kultūros vertybių apsaugos
-departamentas privalo uždrausti veiksmus, kurie sumenkintų dar neįrašytų į
-Registrą nekilnojamųjų kultūros vertybių požymių turinčių objektų kultūrinę
-vertę, iki bus išspręstas jų įrašymo į Registrą klausimas.
+departamentas privalo uždrausti veiksmus, kurie sumenkintų dar neįrašytų į Registrą
+nekilnojamųjų kultūros vertybių požymių turinčių objektų kultūrinę vertę, iki
+bus išspręstas jų įrašymo į Registrą klausimas.
  
             25 straipsnis. Didelės
 apimties žemės judinimo darbų apribojimas
@@ -747,22 +754,22 @@ darbų pradžią prieš metus pranešti Kultūros vertybių apsaugos departament
 kuris atlieka tokių teritorijų žvalgomuosius tyrimus.
             Jeigu tyrimų metu tokiose
 teritorijose randama nekilnojamųjų kultūros vertybių požymių turinčių objektų,
-Kultūros vertybių apsaugos departamentas gali pasiūlyti šio straipsnio
-pirmojoje dalyje nurodytiems asmenims patiems finansuoti rekalingų
-archeologinių tyrimų, rastų vertybių tyrimo ir perkėlimo į valstybines
-saugyklas išlaidas arba planuojamus darbus perkelti į kitą sklypą.
+Kultūros vertybių apsaugos departamentas gali pasiūlyti šio straipsnio pirmojoje
+dalyje nurodytiems asmenims patiems finansuoti rekalingų archeologinių tyrimų,
+rastų vertybių tyrimo ir perkėlimo į valstybines saugyklas išlaidas arba
+planuojamus darbus perkelti į kitą sklypą.
             Didelės apimties žemės
 judinimo darbai galimi tik atlikus reikalingus archeologinius tyrimus, rastų
 vertybių tyrimo ir perkėlimo į valstybines saugyklas darbus.
  
             26 straipsnis. Žemėje,
-vandenyje, pastatuose ir kitur rastų objektų, turinčių nekilnojamųjų 
-kultūros
-vertybių požymių, apsauga
-            Apie Lietuvos Respublikos
-teritorijoje, teritoriniuose vandenyse, pastatuose, jų dalyse ar kitur rastus
-nekilnojamųjų kultūros vertybių požymių turinčius objektus privaloma pranešti
-Kultūros vertybių apsaugos departamentui.
+vandenyje, pastatuose ir kitur rastų objektų, turinčių 
+nekilnojamųjų
+kultūros vertybių požymių, apsauga
+            Apie Lietuvos Respublikos teritorijoje,
+teritoriniuose vandenyse, pastatuose, jų dalyse ar kitur rastus nekilnojamųjų
+kultūros vertybių požymių turinčius objektus privaloma pranešti Kultūros
+vertybių apsaugos departamentui.
             Jeigu nekilnojamųjų kultūros
 vertybių požymių turintys objektai randami kasant žemę, atliekant statybos ar
 kitus darbus, šios vietos savininkas, valdytojas ar atsakingas darbų vykdytojas
@@ -771,10 +778,10 @@ Kultūros vertybių apsaugos departamentui. Kultūros vertybių apsaugos
 departamentas ne vėliau kaip per 15 dienų turi priimti sprendimą dėl šios
 vietos ir atrastų objektų ištyrimo ir registravimo.
  
-            27 straipsnis. Nekilnojamųjų
-kultūros vertybių saugojimo finansavimas
-            Nekilnojamųjų kultūros
-vertybių saugojimo darbai paprastai atliekami savininkų ar valdytojų lėšomis.
+            27 straipsnis.
+Nekilnojamųjų kultūros vertybių saugojimo finansavimas
+            Nekilnojamųjų kultūros vertybių
+saugojimo darbai paprastai atliekami savininkų ar valdytojų lėšomis.
             Iš valstybės biudžeto
 finansuojama:
             1) valstybei priklausančių
@@ -790,8 +797,8 @@ nutarimu gali būti kompensuota ir didesnė šių darbų vykdymo išlaidų dalis
             Iš savivaldybių biudžeto
 finansuojama:
             1) savivaldybėms
-priklausančių kultūros vertybių apsaugos, priešavariniai, remonto, tyrimo, konservavimo,
-restauravimo ir kiti darbai;
+priklausančių kultūros vertybių apsaugos, priešavariniai, remonto, tyrimo,
+konservavimo, restauravimo ir kiti darbai;
             2) ūkiškai nenaudojamų,
 kultūros paminklais nepaskelbtų nekilnojamųjų kultūros vertybių priežiūros,
 priešavariniai, remonto, tyrimo, konservavimo, restauravimo ir kiti darbai.
@@ -846,21 +853,22 @@ BAIGIAMOSIOS
 NUOSTATOS
  
             32 straipsnis. Atsakomybė už
-nekilnojamųjų kultūros vertybių apsaugos įstatymų pažeidimus
+nekilnojamųjų kultūros vertybių apsaugos įstatymų 
+pažeidimus
             Asmenims, pažeidusiems
 nekilnojamųjų kultūros vertybių apsaugos įstatymus, taikoma baudžiamoji,
 administracinė ir kitokia atsakomybė pagal Lietuvos Respublikos įstatymus.
  
             33 straipsnis. Žalos,
 padarytos nekilnojamosioms kultūros vertybėms, atlyginimas
-            Juridiniai ir fiziniai
-asmenys, padarę žalą nekilnojamosioms kultūros vertybėms, jų teritorijoms arba
-apsaugos zonoms, privalo suremontuoti, restauruoti arba atkurti vertybes,
-atstatyti jų teritorijų arba apsaugos zonų fizinę būklę ir, be to, atlyginti
-padarytus nuostolius.
+            Juridiniai ir fiziniai asmenys, padarę žalą
+nekilnojamosioms kultūros vertybėms, jų teritorijoms arba apsaugos zonoms,
+privalo suremontuoti, restauruoti arba atkurti vertybes, atstatyti jų
+teritorijų arba apsaugos zonų fizinę būklę ir, be to, atlyginti padarytus
+nuostolius.
             Nekilnojamųjų kultūros
-vertybių, jų teritorijų ar apsaugos zonų atstatymo būdą bei nuostolių dydį nustato
-Kultūros vertybių apsaugos departamentas.
+vertybių, jų teritorijų ar apsaugos zonų atstatymo būdą bei nuostolių dydį
+nustato Kultūros vertybių apsaugos departamentas.
             Lėšos, gautos atlyginus
 padarytus nuostolius, naudojamos pagal šio įstatymo 27 straipsnį iš valstybės
 biudžeto lėšų finansuojamiems nekilnojamųjų kultūros vertybių saugojimo darbams
@@ -870,10 +878,10 @@ finansuoti.
 valstybės išperkamos nekilnojamosios kultūros vertybės
             Jeigu nekilnojamųjų kultūros
 vertybių savininkai nesilaiko šių vertybių apsaugos reglamento ar jas žaloja,
-Kultūros vertybių apsaugos departamentas raštu įspėja savininką ir nurodo terminą
-trūkumams pašalinti. Jeigu savininkas neįvykdo šio reikalavimo, tai pagal
-Kultūros vertybių apsaugos departamento ieškinį teismas gali šią vertybę iš
-savininko paimti ir perduoti valstybės nuosavybėn. Savininkui apmokama pagal
+Kultūros vertybių apsaugos departamentas raštu įspėja savininką ir nurodo
+terminą trūkumams pašalinti. Jeigu savininkas neįvykdo šio reikalavimo, tai
+pagal Kultūros vertybių apsaugos departamento ieškinį teismas gali šią vertybę
+iš savininko paimti ir perduoti valstybės nuosavybėn. Savininkui apmokama pagal
 nekilnojamosios kultūros vertybės vertę, kuri nustatoma buvusio savininko
 susitarimu su Kultūros vertybių apsaugos departamentu, o esant ginčui, ją
 nustato teismas.
@@ -921,7 +929,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-401, 97.07.03, Žin., 1997, Nr.67-1676 (97.07.16)
+VIII-401,
+97.07.03, Žin., 1997, Nr.67-1676 (97.07.16)
 LIETUVOS
 RESPUBLIKOS NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 4 STRAIPSNIO
 PAPILDYMO ĮSTATYMAS
@@ -929,8 +938,8 @@ PAPILDYMO ĮSTATYMAS
 3.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.
-VIII-423, 97.09.25, Žin., 1997, Nr.96-2421 (97.10.24)
+Nr. VIII-423, 97.09.25,
+Žin., 1997, Nr.96-2421 (97.10.24)
 LIETUVOS
 RESPUBLIKOS NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 6, 23 STRAIPSNIŲ
 PAKEITIMO
@@ -938,13 +947,20 @@ PAKEITIMO
  
 4.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1663, 00.05.04, Žin., 2000, Nr.40-1114
-(00.05.17)
+Nr. VIII-1663, 00.05.04, Žin., 2000,
+Nr.40-1114 (00.05.17)
 NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 6, 23
 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-275, 2001 04 19, Žin., 2001, Nr.
+39-1346 (2001 05 09)
+NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 4
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
-Redagavo:
-Aušrinė Trapinskienė (2000.05.17)
+*** Pabaiga ***
+ 
+ 
+Redagavo: Aušrinė Trapinskienė (2001 05 15)
+                  autrap@lrs.lt
