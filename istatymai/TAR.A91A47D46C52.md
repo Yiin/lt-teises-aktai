@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A91A47D46C52"
 
 # Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymas
 
+Suvestinė redakcija nuo 1996-12-31 iki 1997-06-24
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 96-2146, i. k. 0951010ISTA00I-1074
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS PASLAPČIŲ IR JŲ APSAUGOS
 ĮSTATYMAS
@@ -68,6 +72,10 @@ Valstybės paslaptį sudarančių žinių apsaugą reglamentuoja šis įstatymas
 6) tvirtina norminius aktus, reglamentuojančius valstybės paslaptį sudarančių žinių apsaugą;
 
 7) nustato valstybės paslaptį sudarančių žinių perdavimo kitoms valstybėms arba tarptautinėms organizacijoms bei leidimų kitų valstybių piliečiams dirbti ar susipažinti su valstybės paslaptį sudarančiomis žiniomis išdavimo tvarką.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo 5 straipsnio 1 ir 2 punktai, taip pat 3 punkto nuostata, jog „[Vyriausybė] tvirtina valstybės paslapčių subjektų sąrašą“, prieštarauja Konstitucijos 25 straipsnio trečiajai daliai. Kitos įstatymo 5 straipsnio normos neprieštarauja Lietuvos Respublikos Konstitucijai.
+
+Straipsnio pakeitimai:
+1996-12-19, Žin., 1996, Nr. 126-2962 (1996-12-31), i. k. 0961000NUTARG961269            
  
 
 6 straipsnis. Žinių įslaptinimas
@@ -268,4 +276,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+1996-12-19, Žin., 1996, Nr. 126-2962 (1996-12-31), i. k. 0961000NUTARG961269                
+Dėl Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo 5 ir 10 straipsnių atitikimo Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės 1996 m. kovo 6 d. nutarimų Nr. 309 ir Nr. 310 atitikimo Lietuvos Respublikos Konstitucijai ir Lietuvos Respublikos civilinio proceso kodekso normoms
 
