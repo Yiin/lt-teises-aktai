@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Redagavo: Ramunė Lūžaitė (1996
+Redagavo: Ramun? L??ait? (1996
 
 
 
@@ -43,13 +43,24 @@ RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 23 IR 29 STRAIPSNIŲ
 PAKEITIMO
 ĮSTATYMAS
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-25, 96.12.05, Žin., 1996, Nr.121-2850 (96.12.14)
+LIETUVOS
+RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 13 IR 16 STRAIPSNIŲ
+PAKEITIMO
+ĮSTATYMAS 
+ 
 ***Pabaiga***
  
                      
 LIETUVOS RESPUBLIKOS
                           
 VYRIAUSYBĖS
-                            ĮSTATYMAS
+                           
+ĮSTATYMAS
  
                 
 1994 m. gegužės 19 d. Nr.I-464
@@ -77,7 +88,7 @@ ministrai.
 Lietuvos Respublikos Vyriausybė įgyvendina vykdomąją valdžią
 Lietuvoje.
     
-Vyriausybės   galias    apibrėžia    Lietuvos    Respublikos
+Vyriausybės   galias    apibrėžia    Lietuvos    Respublikos
 Konstitucija
 ir įstatymai.
  
@@ -100,8 +111,8 @@ dekretais, taip pat šiuo įstatymu.
               
 Vyriausybės veiklos principai
  
-     Lietuvos 
-Respublikos   Vyriausybė  savo   veikloje  remiasi
+    
+Lietuvos  Respublikos   Vyriausybė  savo   veikloje  remiasi
 demokratijos,
 teisėtumo ir viešumo principais.
  
@@ -120,7 +131,7 @@ ataskaitą.
     
 Lietuvos  Respublikos   ministrai  yra   atsakingi   Seimui,
 Respublikos 
-Prezidentui   ir   tiesiogiai   pavaldūs   Ministrui
+Prezidentui   ir   tiesiogiai   pavaldūs   Ministrui
 Pirmininkui.
     
 Seimo reikalavimu  Seimo statuto nustatyta tvarka Vyriausybė
@@ -134,8 +145,8 @@ LIETUVOS RESPUBLIKOS VYRIAUSYBĖS SUDARYMAS
  
     
 6 straipsnis.  Lietuvos Respublikos Vyriausybės sudarymo
-              
-tvarka ir Vyriausybės programa
+               tvarka
+ir Vyriausybės programa
  
     
 Lietuvos Respublikos  Ministrą  Pirmininką  Seimo  pritarimu
@@ -187,8 +198,8 @@ ir Vyriausybės programa.
               
 ministrų prisaikdinimas
  
-     Pradėdami 
-eiti  savo  pareigas,  Ministras  Pirmininkas  ir
+    
+Pradėdami  eiti  savo  pareigas,  Ministras  Pirmininkas  ir
 ministrai
 prisiekia Seimo posėdyje. Nustatomas toks jų priesaikos
 tekstas:
@@ -349,8 +360,8 @@ ministras.
 Pirmininkui ar ministrui arba nutarimo
                    
 projekto dėl nepasitikėjimo Vyriausybe
-                   
-pateikimas
+         
+          pateikimas
  
     
 Seimo sesijos  metu ne  mažesnė kaip  1/5 Seimo  narių grupė
@@ -360,7 +371,7 @@ taip 
 pat   pateikti   nutarimo   projektą   dėl   nepasitikėjimo
 Vyriausybe.
     
-Seimas, apsvarstęs  Ministro Pirmininko ar ministro atsakymą
+Seimas, apsvarstęs  Ministro Pirmininko ar ministro atsakymą
 į 
 interpeliaciją   arba  Vyriausybės  atsakymą  į  nutarimo  dėl
 nepasitikėjimo 
@@ -368,7 +379,7 @@ projektą,   gali  nutarti,   jog  atsakymas  esąs
 nepatenkinamas,
 ir  daugiau kaip  pusės visų  Seimo  narių  balsų
 dauguma 
-slaptu   balsavimu  pareikšti   nepasitikėjimą  Ministru
+slaptu   balsavimu  pareikšti   nepasitikėjimą  Ministru
 Pirmininku
 ar ministru arba Vyriausybe.
     
@@ -393,8 +404,8 @@ ministras.
 dienų   pateikia  Respublikos   Prezidentui  naują   ministro
 kandidatūrą.
  
-                          
-IV skirsnis
+               
+           IV skirsnis
        
 LIETUVOS RESPUBLIKOS VYRIAUSYBĖS NARIŲ GARANTIJOS
  
@@ -403,8 +414,8 @@ LIETUVOS RESPUBLIKOS VYRIAUSYBĖS NARIŲ GARANTIJOS
                    
 neliečiamumo garantijos
  
-     Ministras
-Pirmininkas  ir ministrai  negali  būti  patraukti
+    
+Ministras Pirmininkas  ir ministrai  negali  būti  patraukti
 baudžiamojon
 atsakomybėn, suimti, negali būti kitaip suvaržyta jų
 laisvė
@@ -421,29 +432,23 @@ garantijos
 Ministro  Pirmininko   ir  ministrų   sveikata   ir   gyvybė
 apdraudžiami
 valstybės lėšomis.
-    
-Pasibaigus   Ministro  Pirmininko  ar  ministrų  kadencijai,
-jiems 
-atsistatydinus  arba  atleidus  ministrą  iš  pareigų  dėl
-Vyriausybės    
-reorganizavimo,    taikomos    šios    socialinės
+     Pasibaigus Ministro
+Pirmininko ar ministrų kadencijai, jiems atsistatydinus arba atleidus juos iš
+pareigų dėl ministerijų panaikinimo ar reorganizavimo, taikomos šios socialinės
 garantijos:
-    
-1)  pasibaigus  pareigų  perdavimui,  Ministrui  Pirmininkui
-ar 
-ministrui,  dirbusiems  Vyriausybėje  ilgiau  negu  vienerius
-metus, 
-išmokama  6  jo  vidutinių  mėnesinių   darbo  užmokesčių
-dydžio
-išeitinė pašalpa,  dirbusiems  Vyriausybėje  trumpiau negu
-vienerius 
-metus  - 2  jo  vidutinių  mėnesinių darbo  užmokesčių
-dydžio
-išeitinė pašalpa;
-    
-2)  suteikiamas  esant  galimybei  ankstesnis  arba  tolygus
-darbas
-ar pareigos valstybinėje įstaigoje, organizacijoje.
+     1) esant galimybei,
+suteikiamas iki darbo Vyriausybėje dirbtas ar tolygus darbas arba pareigos
+valstybės įstaigoje, organizacijoje, valstybės ar savivaldybės įmonėje,
+išskyrus renkamas pareigas arba pareigas, į kurias skiriama konkurso būdu. Jei
+buvusios pareigos panaikintos arba įmonė, įstaiga, organizacija likviduota,
+asmens sutikimu esant galimybei jam suteikiamas tolygus darbas arba pareigos
+kitoje valstybės įstaigoje, organizacijoje, valstybės ar savivaldybės įmonėje;
+     2) pasibaigus pareigų
+perdavimui, Ministrui Pirmininkui ar ministrui išmokama vieno jo vidutinio
+mėnesinio darbo užmokesčio dydžio išeitinė pašalpa, o dirbusiems Vyriausybėje
+(įskaitant ir ankstesniąsias Vyriausybes) be pertraukos ilgiau kaip vienerius
+metus išmokama dviejų vidutinių mėnesinių darbo užmokesčių dydžio išeitinė
+pašalpa.
     
 Ministro Pirmininko  ar ministro, kurie žuvo eidami tarnybą,
 šeimai
@@ -458,13 +463,11 @@ tarnybinio 
 atlyginimo   dydžio  kompensacija   atsižvelgiant   į
 sužalojimų
 sunkumo laipsnį.
-    
-Šio   straipsnio   antrojoje   dalyje  numatytos  socialinės
-garantijos   
-netaikomos    asmenims,    atsistatydinusiems   dėl
-pareikšto 
-nepasitikėjimo šio įstatymo  11  straipsnio  nustatyta
-tvarka.
+     Šio straipsnio 2 dalyje
+numatytos socialinės garantijos netaikomos asmenims, atsistatydinusiems dėl
+jiems pareikšto nepasitikėjimo šio įstatymo 11 straipsnio nustatyta tvarka,
+taip pat dėl to, kad šie asmenys paskirti arba išrinkti į kitas pareigas
+valstybės įstaigoje, organizacijoje, valstybės ar savivaldybės įmonėje.
     
 Lėšos socialinėms garantijoms mokamos iš valstybės biudžeto.
     
@@ -474,6 +477,8 @@ Straipsnio
 pakeitimai:
 Nr.
 I-1624, 96.11.19, Žin., 1996, Nr.115-2667(96.11.29)
+Nr.
+VIII-25, 96.12.05, Žin., 1996, Nr.121-2850 (96.12.14)
  
     
 14 straipsnis. Draudimas Ministrui Pirmininkui ir
@@ -488,8 +493,8 @@ darbine veikla
 Ministras Pirmininkas  ir ministrai negali užimti jokių kitų
 renkamų
 ar  skiriamų pareigų, išskyrus Seimo nario pareigas, taip
-pat dirbti 
-verslo, komercijos  ar kitokiose privačiose įstaigose
+pat
+dirbti  verslo, komercijos  ar kitokiose privačiose įstaigose
 ar
 įmonėse,  taip  pat  gauti  kitokį  atlyginimą,  išskyrus  jam
 nustatytą
@@ -518,8 +523,8 @@ SU SEIMU IR RESPUBLIKOS PREZIDENTU
  
     
 15 straipsnis. Lietuvos Respublikos Vyriausybės teisė
-                 
-  teikti siūlymą dėl pirmalaikių Seimo
+                   
+teikti siūlymą dėl pirmalaikių Seimo
                    
 rinkimų
  
@@ -532,28 +537,31 @@ Seimas pareiškia tiesioginį nepasitikėjimą Vyriausybe.
  
     
 16 straipsnis. Lietuvos Respublikos Vyriausybės teisė
-                   
-paskelbti Respublikos Prezidento rinkimus
+           
+        paskelbti Respublikos Prezidento rinkimus
  
     
 Lietuvos Respublikos  Konstitucijos 89  straipsnio pirmojoje
 dalyje 
-numatytais   atvejais  Seimui   negalint  susirinkti   ir
+numatytais   atvejais  Seimui   negalint  susirinkti   ir
 paskelbti 
 Respublikos   Prezidento  rinkimų,   rinkimus  skelbia
 Vyriausybė.
-    
-Šio  nutarimo   vykdymas  pavedamas  Respublikos  Prezidento
-rinkimų
-komisijai.
+     Šio nutarimo vykdymas
+pavedamas Vyriausiajai rinkimų komisijai.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-25, 96.12.05, Žin., 1996, Nr.121-2850 (96.12.14)
  
     
 17 straipsnis. Ministro Pirmininko ir ministrų
                    
 dalyvavimas Seimo darbe
  
-    
-Ministras Pirmininkas  ir ministrai turi teisę Seimo statuto
+     Ministras
+Pirmininkas  ir ministrai turi teisę Seimo statuto
 nustatyta
 tvarka  dalyvauti  Seimo,  jo  komitetų,  komisijų  bei
 frakcijų 
@@ -570,7 +578,7 @@ Ministras Pirmininkas  arba ministras, kuriam Seimo sesijoje
 pateiktas
 Seimo nario paklausimas dėl Vyriausybės, ministerijų ar
 kitų
-Vyriausybės  įstaigų veiklos,  privalo  atsakyti  žodžiu  ar
+Vyriausybės  įstaigų veiklos,  privalo  atsakyti  žodžiu  ar
 raštu
 Seimo statuto nustatyta tvarka.
     
@@ -683,8 +691,8 @@ administraciniuose vienetuose;
 12)  siūlo   įstatymo  numatytais   atvejais  Seimui  įvesti
 tiesioginį
 valdymą savivaldybės teritorijoje;
-    
-13)  vykdo   kitas  pareigas,   kurias  Vyriausybei   paveda
+     13) 
+vykdo   kitas  pareigas,   kurias  Vyriausybei   paveda
 Konstitucija,
 šis ir kiti įstatymai;
     
@@ -788,8 +796,8 @@ pačius
 įstatymo  9 straipsnyje  ir 23  straipsnio 1  ir 2  punktuose
 numatytus
 įgaliojimus.
-    
-Ministras,  einantis   Ministro   Pirmininko   pareigas   ar
+     Ministras, 
+einantis   Ministro   Pirmininko   pareigas   ar
 pavaduojantis 
 Ministrą   Pirmininką,  dokumentuose  nurodo  savo
 pareigas
@@ -910,8 +918,8 @@ Aplinkos apsaugos ministerija;
 Ekonomikos ministerija;
     
 Energetikos ministerija;
-    
-Finansų ministerija;
+     Finansų
+ministerija;
     
 Krašto apsaugos ministerija;
     
@@ -938,8 +946,8 @@ Teisingumo ministerija;
 Užsienio reikalų ministerija;
     
 Valdymo reformų ir savivaldybių reikalų ministerija;
-    
-Vidaus reikalų ministerija;
+     Vidaus
+reikalų ministerija;
     
 Žemės ūkio ministerija.
     
@@ -949,8 +957,8 @@ Respublikos Seimas, priimdamas įstatymą.
  
     
 28 straipsnis. Lietuvos Respublikos ministerijų
-                
-   uždaviniai, funkcijos ir teisės
+                   
+uždaviniai, funkcijos ir teisės
  
     
 Ministerijos  sprendžia   jų  kompetencijai   priklausančius
@@ -1010,15 +1018,15 @@ kuri  yra ministro  patariamoji  institucija.  Kolegiją
 sudaro  
 ministras    (kolegijos    pirmininkas),    ministerijos
 sekretorius,  
-kiti    ministerijos   darbuotojai,    taip    pat
+kiti    ministerijos   darbuotojai,    taip    pat
 departamento,
 tarnybos,  inspekcijos prie ministerijos vadovai. Į
 kolegijos
 posėdžius  gali būti  kviečiami ir  kitų ministerijų ir
 valstybinių
 institucijų atstovai bei mokslininkai, šiems sutikus.
-     Kolegijos
-narių  skaičių nustato  ir jos  personalinę sudėtį
+    
+Kolegijos narių  skaičių nustato  ir jos  personalinę sudėtį
 tvirtina
 ministras.
     
@@ -1064,7 +1072,7 @@ yra  asmeniškai  atsakingas,  kad  įstaiga  spręstų  jai
 pavestus
 uždavinius.
     
-Vyriausybės  įstaigos   vadovas  gali   turėti   pavaduotoją
+Vyriausybės  įstaigos   vadovas  gali   turėti   pavaduotoją
 (pavaduotojus).
     
 Lietuvos Respublikos  Vyriausybės įstaigos  vadovas  leidžia
@@ -1075,8 +1083,8 @@ jie vykdomi.
  
     
 33 straipsnis. Lietuvos Respublikos Vyriausybės vykdoma
-                   
-ministerijų ir kitų Vyriausybės įstaigų
+     
+              ministerijų ir kitų Vyriausybės įstaigų
                    
 kontrolė ir jų teisės aktų įsigaliojimo
                    
@@ -1246,7 +1254,7 @@ jų įsigaliojimo diena.
 protokolai
  
     
-Vyriausybės   posėdžiai    yra   protokoluojami.   Protokole
+Vyriausybės   posėdžiai    yra   protokoluojami.   Protokole
 nurodomas
 posėdžio eilės numeris, taip pat asmenys, dalyvaujantys
 posėdyje. 
@@ -1281,8 +1289,8 @@ X skirsnis
          
 LIETUVOS RESPUBLIKOS VYRIAUSYBĖS KANCELIARIJA
  
-    
-41 straipsnis. Lietuvos Respublikos Vyriausybės
+     41
+straipsnis. Lietuvos Respublikos Vyriausybės
                    
 kanceliarija
  
