@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 Redagavo:
-Ramunė Lūžaitė (1997.07.17)
+Ramunė Lūžaitė (1999.01.05)
  
 Įstatymas
 paskelbtas: Žin., 1991,
@@ -147,6 +147,15 @@ LIETUVOS
 RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 37(1) STRAIPSNIO PAKEITIMO
 IR PAPILDYMO ĮSTATYMAS
  
+13.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-964,
+98.12.10, Žin., 1998, Nr.114-3191 (98.12.30)
+LIETUVOS
+RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 41 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
+ 
  ***
 Pabaiga ***
  
@@ -176,12 +185,11 @@ straipsnis. Valstybinio socialinio draudimo reguliavimas
      Valstybinį
 socialinį  draudimą reguliuoja  šis ir kiti Lietuvos Respublikos socialinio
 aprūpinimo įstatymai, taip pat Valstybinių socialinio  draudimo pensijų
-įstatymas, Lietuvos Respublikos  Vyriausybės  tvirtinami  Valstybinių 
-socialinio draudimo pensijų skyrimo ir mokėjimo nuostatai, Valstybinio
-socialinio draudimo pašalpų nuostatai, Valstybinio socialinio draudimo įstaigų
-nuostatai, taip pat Valstybinio socialinio draudimo fondo  biudžeto  sudarymo 
-ir  vykdymo  taisyklės, Savanoriškojo valstybinių socialinio pensijų draudimo
-taisyklės.
+įstatymas, Lietuvos Respublikos  Vyriausybės  tvirtinami  Valstybinių  socialinio
+draudimo pensijų skyrimo ir mokėjimo nuostatai, Valstybinio socialinio draudimo
+pašalpų nuostatai, Valstybinio socialinio draudimo įstaigų nuostatai, taip pat
+Valstybinio socialinio draudimo fondo  biudžeto  sudarymo  ir  vykdymo 
+taisyklės, Savanoriškojo valstybinių socialinio pensijų draudimo taisyklės.
  
 Straipsnio
 pakeitimai:
@@ -203,8 +211,8 @@ pašalpoms, numatytoms šio įstatymo 20-22 straipsniuose;
      3)
 draudimas kompensacijoms, numatytoms šio įstatymo 26 straipsnyje;
      4)
-draudimas nuo nedarbo, kai draudžiama bedarbio pašalpoms pagal Gyventojų
-užimtumo įstatymą. Iš šio draudimo lėšų taip pat kompensuojama už kitas nedarbo
+draudimas nuo nedarbo, kai draudžiama bedarbio pašalpoms pagal Gyventojų užimtumo
+įstatymą. Iš šio draudimo lėšų taip pat kompensuojama už kitas nedarbo
 priemones, numatytas Gyventojų užimtumo įstatyme;
      5)
 draudimas  nuo nelaimingų  atsitikimų gamyboje, kai draudžiama pašalpoms
@@ -337,10 +345,10 @@ laikotarpį bei šeimos nario slaugos pašalpą, moka darbdavys iš savo lėšų
 atveju ši pašalpa turi būti ne mažesnė kaip 80 procentų, o nelaimingo
 atsitikimo darbe, susirgimo profesine liga ar kitokio sveikatos pakenkimo,
 susijusio su darbu, atveju - ne mažesnė kaip 100  procentų  jos  gavėjo 
-vidutinio  mėnesinio  uždarbio, apskaičiuoto pagal paskutinių trijų mėnesių
-darbo užmokestį. Nuo trečios kalendorinės nedarbingumo dienos ligos pašalpa
-mokama iš Valstybinio socialinio draudimo fondo ir yra šio įstatymo 10
-straipsnyje nurodyto dydžio.
+vidutinio  mėnesinio  uždarbio, apskaičiuoto pagal paskutinių trijų mėnesių darbo
+užmokestį. Nuo trečios kalendorinės nedarbingumo dienos ligos pašalpa mokama iš
+Valstybinio socialinio draudimo fondo ir yra šio įstatymo 10 straipsnyje
+nurodyto dydžio.
      Laikiniems
 ir sezoniniams  darbuotojams,   netekusiems darbingumo sutarties galiojimo
 laikotarpiu, pašalpa dėl bendrojo susirgimo mokama ne ilgiau kaip trisdešimt
@@ -436,8 +444,8 @@ asmenims, kurių laikinojo nedarbingumo    tiesioginė priežastis  -  alko
 narkotinių arba toksinių medžiagų vartojimas.
      Tuo
 atveju, kai  savanoriškai gydomasi stacionare  nuo alkoholizmo, narkomanijos
-ar  toksikomanijos, ligos  pašalpa mokama ne ilgiau kaip  keturiolika kalendorinių
-dienų  per kalendorinius metus.
+ar  toksikomanijos, ligos  pašalpa mokama ne ilgiau kaip  keturiolika
+kalendorinių dienų  per kalendorinius metus.
      Asmenims,
 pažeidžiantiems   gydytojo nustatytą gydymo ir slaugos režimą, be  svarbių 
 priežasčių neatvykstantiems pas gydytoją arba  į įstatymo nustatytą darbingumo
@@ -523,10 +531,10 @@ straipsnis. Motinystės (tėvystės) pašalpa
 (tėvystės) pašalpa iš valstybinio socialinio draudimo lėšų skiriama vienam iš
 tėvų (globėjų), apdraustam pagal šio įstatymo 4 straipsnio 1 punktą.
      Moterims,
-pagimdžiusioms suėjus dvidešimt aštuonioms nėštumo savaitėms ir vėliau,
-apmokama už septyniasdešimt kalendorinių dienų iki gimdymo ir už penkiasdešimt
-šešias kalendorines dienas po gimdymo (komplikuoto gimdymo atveju ir kai gimė
-daugiau negu vienas vaikas - už septyniasdešimt kalendorinių dienų). Moterims,
+pagimdžiusioms suėjus dvidešimt aštuonioms nėštumo savaitėms ir vėliau, apmokama
+už septyniasdešimt kalendorinių dienų iki gimdymo ir už penkiasdešimt šešias
+kalendorines dienas po gimdymo (komplikuoto gimdymo atveju ir kai gimė daugiau
+negu vienas vaikas - už septyniasdešimt kalendorinių dienų). Moterims,
 pagimdžiusioms suėjus  dvidešimt dviems  nėštumo  savaitėms, apmokama už
 dvidešimt aštuonias kalendorines dienas po gimdymo (jei kūdikis gyvena,
 apmokama už penkiasdešimt šešias dienas po gimdymo). Už šioje dalyje nurodytus
@@ -939,9 +947,9 @@ straipsnis. Atsakomybė už įmokų mokėjimo teisingumą
      Už pavėluotai pervestas į valstybinio
 socialinio draudimo fondą įmokas skaičiuojami delspinigiai pagal finansų
 ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčių mokėjimą.
-Delspinigiai pradedami skaičiuoti nuo kitos dienos po to, kai įmokos turėjo būti
-sumokėtos arba pervestos, ir baigiami skaičiuoti įmokų sumokėjimo (pervedimo)
-dieną įskaitytinai.
+Delspinigiai pradedami skaičiuoti nuo kitos dienos po to, kai įmokos turėjo
+būti sumokėtos arba pervestos, ir baigiami skaičiuoti įmokų sumokėjimo
+(pervedimo) dieną įskaitytinai.
      Jeigu
 įmokos neteisėtai sumažintos, į valstybinio socialinio draudimo fondą išieškoma
 visa suma, kuria sumažintos įmokos, taip pat dvigubos šios sumos dydžio bauda.
@@ -1062,8 +1070,8 @@ straipsnis. Valstybinio socialinio draudimo fondo taryba
  
      Valstybinio
 socialinio draudimo fondui, kaip savarankiškai finansų ir kredito sistemos
-grandžiai, Lietuvos Respublikoje vadovauja 15 narių taryba. Ji sudaroma iš vienodo
-skaičiaus lygiateisių  narių,  atstovaujančių  apdraustųjų  interesus
+grandžiai, Lietuvos Respublikoje vadovauja 15 narių taryba. Ji sudaroma iš
+vienodo skaičiaus lygiateisių  narių,  atstovaujančių  apdraustųjų  interesus
 ginančioms   organizacijoms    (profesinėms   sąjungoms, susivienijimams,
 asociacijoms ir kt.), darbdavių organizacijoms (susivienijimams, asociacijoms
 ir kt.) bei valstybės valdymo institucijoms. Apdraustųjų  ir darbdavių 
@@ -1093,8 +1101,8 @@ uždavinius;
 teikia Lietuvos Respublikos Vyriausybei siūlymus dėl valstybinio socialinio
 draudimo įmokų tarifų;
      3)
-aprobuoja valstybinio socialinio draudimo fondo biudžeto projektą bei  jo
-vykdymo  ataskaitą  ir  teikia  tvirtinti Vyriausybei;
+aprobuoja valstybinio socialinio draudimo fondo biudžeto projektą bei  jo vykdymo 
+ataskaitą  ir  teikia  tvirtinti Vyriausybei;
      4)
 tvirtina darbuotojų skaičiaus ir valstybinio socialinio draudimo organizavimo 
 išlaidų normatyvus,  taip pat  darbo apmokėjimo schemas;
@@ -1102,15 +1110,23 @@ išlaidų normatyvus,  taip pat  darbo apmokėjimo schemas;
 organizuoja  Valstybinio socialinio  draudimo  fondo valdybos veiklos
 patikrinimus, kurie turi būti ne rečiau kaip vieną kartą per metus;
      6)
-nagrinėja ir sprendžia kitus valstybinio socialinio draudimo klausimus.
-     Tarybos
-sprendimai  priimami jos  narių paprasta balsų dauguma. Tarybos  darbas
-organizuojamas  pagal  jos  pačios patvirtintą reglamentą.
+nagrinėja ir sprendžia kitus valstybinio socialinio draudimo klausimus;
+     7)
+priima sprendimus dėl kreditorinių reikalavimų, atsiradusių dėl įmokų, baudų ir
+delspinigių nesumokėjimo, vykdymo terminų atidėjimo arba atsiskaitymo už
+kreditorinius reikalavimus Vyriausybės nustatyta tvarka turtu, akcijomis ir
+vertybiniais popieriais, kai bankrutuojanti įmonė sanuojama ar sudaroma taikos
+sutartis.
+Tarybos sprendimai  priimami jos  narių
+paprasta balsų dauguma. Tarybos  darbas organizuojamas  pagal  jos  pačios
+patvirtintą reglamentą.
  
 Straipsnio
 pakeitimai:
 Nr.
 I-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. VIII-964,
+98.12.10, Žin., 1998, Nr.114-3191 (98.12.30)
  
      42
 straipsnis. Valstybinio socialinio draudimo fondo valdyba
@@ -1130,8 +1146,7 @@ užtikrina šiame įstatyme numatytą apdraustųjų aprūpinimą laiku;
 įstatymų  nustatyta tvarka  organizuoja  savanorišką valstybinį socialinį
 draudimą;
      5)
-užsiima kita veikla, numatyta Valstybinio socialinio draudimo įstaigų
-nuostatuose.
+užsiima kita veikla, numatyta Valstybinio socialinio draudimo įstaigų nuostatuose.
      Valdyba
 turi teisę:
      1)
@@ -1223,9 +1238,9 @@ kitas kredito bei  finansų įstaigas, pareigoms atlikti reikalingas žinias be
 dokumentų nuorašus  apie  tikrinamo juridinio, fizinio  asmens  ar neturinčio
 juridinio asmens teisių asmens turtą bei pajamas;
      2)
-norėdami nustatyti, kaip draudėjas vykdo prievoles valstybinio  socialinio
-draudimo fondui,  be  išankstinio įspėjimo, pateikę tarnybinį pažymėjimą, 
-įeiti į draudėjo patalpas ar teritoriją, susijusias su jo veikla (įskaitant ir
+norėdami nustatyti, kaip draudėjas vykdo prievoles valstybinio  socialinio draudimo
+fondui,  be  išankstinio įspėjimo, pateikę tarnybinį pažymėjimą,  įeiti į
+draudėjo patalpas ar teritoriją, susijusias su jo veikla (įskaitant ir
 nuomojamas), tikrinti darbo sąlygas, darbuotojų skaičių ir panašiai. Pareigūnas
 turi šią teisę ir tais atvejais, kai veiklai bei pajamoms gauti naudojamos
 gyvenamosios patalpos ir kiti objektai. Įmonių, įstaigų, organizacijų vadovai
@@ -1264,10 +1279,10 @@ teritorinių skyrių vedėjai ir jų pavaduotojai turi teisę:
 išieškoti  ne ginčo tvarka iš įmonių  sąskaitų komerciniuose  bankuose  laiku 
 nesumokėtas  valstybinio socialinio draudimo įmokas bei netesybas;
      2)
-duoti nurodymus bankams nutraukti pinigų išdavimą bei pervedimą iš įmonių
-sąskaitų, jeigu jos nustatytu laiku nepateikė valstybinio socialinio draudimo
-įstaigoms finansinės apyskaitos ar nemoka socialinio draudimo įmokų ilgiau kaip
-3 mėnesius, neleidžia patikrinti socialinio draudimo įmokų bei išmokų arba kai
+duoti nurodymus bankams nutraukti pinigų išdavimą bei pervedimą iš įmonių sąskaitų,
+jeigu jos nustatytu laiku nepateikė valstybinio socialinio draudimo įstaigoms
+finansinės apyskaitos ar nemoka socialinio draudimo įmokų ilgiau kaip 3
+mėnesius, neleidžia patikrinti socialinio draudimo įmokų bei išmokų arba kai
 tikrinimo metu nustatyti neteisingo įmokų apskaičiavimo faktai;
      3) 
 įstatymų nustatyta tvarka skirti administracines nuobaudas. Paskirtos piniginės
@@ -1276,8 +1291,8 @@ baudos išieškomos į valstybinio socialinio draudimo fondo biudžetą;
 kreiptis į visų nuosavybės formų įmonių, įstaigų, organizacijų vadovus dėl
 aplinkybių ir sąlygų, trukdančių valstybinio socialinio draudimo fondo įstaigų
 pareigūnams tinkamai atlikti pareigas. Įmonių vadovai bei kiti pareigūnai
-privalo išnagrinėti valstybinio socialinio draudimo fondo įstaigų pareigūnų
-nurodymus ir nedelsdami (ne vėliau kaip kitą dieną po nurodymo gavimo) pranešti
+privalo išnagrinėti valstybinio socialinio draudimo fondo įstaigų pareigūnų nurodymus
+ir nedelsdami (ne vėliau kaip kitą dieną po nurodymo gavimo) pranešti
 valstybinio socialinio draudimo fondo įstaigai apie priimtas priemones.
      Valstybinio 
 socialinio  draudimo  fondo  valdybos direktorius ir jo pavaduotojai turi
@@ -1294,8 +1309,8 @@ valstybinio socialinio draudimo fondo įstaigoms įmokos, baudos ir delspinigiai
 ir  apdraustųjų  pretenzijas  dėl valstybinio socialinio draudimo įstaigų 
 pareigūnų, vykdančių  kontrolę, veiksmų  sprendžia  atitinkamos  įstaigos 
 vadovas  arba jo pavaduotojas, o dėl pastarųjų pareigūnų veiksmų - Valstybinio
-socialinio draudimo fondo valdyba.  Pareiškėjas, nesutinkantis su Valdybos
-sprendimu, turi teisę per 10 dienų po sprendimo gavimo kreiptis į teismą.
+socialinio draudimo fondo valdyba.  Pareiškėjas, nesutinkantis su Valdybos sprendimu,
+turi teisę per 10 dienų po sprendimo gavimo kreiptis į teismą.
  
 Straipsnio
 pakeitimai:
