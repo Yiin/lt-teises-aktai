@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2003-07-25 iki 2004-04-30
+Suvestinė redakcija nuo 2004-05-01 iki 2008-02-29
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
  
@@ -43,6 +43,13 @@ BENDROSIOS NUOSTATOS
 
 
 3. Šiuo įstatymu siekiama Lietuvos Respublikos ir Europos Sąjungos konkurencijos santykius reglamentuojančios teisės suderinimo.
+
+
+
+
+4. Šio Įstatymo nuostatomis įgyvendinamas šio Įstatymo priede pateiktas Europos Sąjungos teisės aktas.
+Papildyta straipsnio dalimi:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
@@ -214,7 +221,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-19. Komercinė paslaptis – ūkio subjektui priklausanti ir viešai neatskleista techninė, technologinė, komercinė ar organizacinė informacija, dėl kurios slaptumo išsaugojimo ūkio subjektas imasi tam tikrų priemonių, išskyrus informaciją, kuri pagal Lietuvos Respublikos įstatymus negali būti laikoma komercine paslaptimi. 
+19. Neteko galios nuo 2004-05-01
+Straipsnio dalies naikinimas:
+Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
@@ -277,12 +286,15 @@ DRAUDŽIAMI SUSITARIMAI
 
 
 
-5) susitarimą iš kitų ūkio subjektų reikalauti papildomų įsipareigojimų, kurie pagal savo komercinį pobūdį ar paskirtį nėra tiesiogiai susiję su sutarties objektu; 
+5) susitarimą iš kitų ūkio subjektų reikalauti papildomų įsipareigojimų, kurie pagal savo komercinį pobūdį ar paskirtį nėra tiesiogiai susiję su sutarties objektu. 
 
 
 
 
-6) konkurentų susitarimą dalyvauti ar nedalyvauti arba pateikti suderintus pasiūlymus viešajame pirkime, konkurse ar kituose panašaus pobūdžio pirkimuose.
+6) Neteko galios nuo 2004-05-01
+Straipsnio punkto naikinimas:
+Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -294,17 +306,25 @@ DRAUDŽIAMI SUSITARIMAI
 
 
 
-3. Šio straipsnio 1 dalies 6 punkte numatytas draudimas netaikomas, jeigu viešajam pirkimui, konkursui ar kitam panašaus pobūdžio pirkimui oficialiai pateikiamas bendras jungtinės veiklos ar kitos įstatymams neprieštaraujančios sutarties pagrindu parengtas pasiūlymas.
+3. Neteko galios nuo 2004-05-01
+Straipsnio dalies naikinimas:
+Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
 
-4. Šio straipsnio 1 ir 2 dalių pažeidimu nelaikomi nedidelę atitinkamos rinkos dalį turinčių ūkio subjektų sudaryti susitarimai, kurie dėl savo mažareikšmio poveikio negali itin riboti konkurencijos. Tokių susitarimų reikalavimus ir sąlygas teisės aktu nustato Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba).
+4. Šis straipsnis gali būti netaikomas ūkio subjektų sudarytiems susitarimams, kurie dėl savo mažareikšmio poveikio negali itin riboti konkurencijos. Reikalavimus ir sąlygas tokiems susitarimams teisės aktu nustato Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba).
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
 
-5. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos šio įstatymo 7 ir 8 straipsniuose numatytais atvejais.
+5. Neteko galios nuo 2004-05-01
+Straipsnio dalies naikinimas:
+Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
@@ -312,10 +332,10 @@ DRAUDŽIAMI SUSITARIMAI
 
 
 
-6 straipsnis. Išimtys
+6 straipsnis. Išimtis
 
 
-Dėl šio įstatymo 5 straipsnyje nurodytų susitarimų gali būti suteikta bendroji ar atskiroji išimtis, jeigu susitarimas skatina investicijas arba techninę ar ekonominę pažangą arba pagerina prekių paskirstymą ir dėl šių priežasčių sudaro galimybes visiems vartotojams gauti papildomos naudos, taip pat jeigu:
+1. Šio įstatymo 5 straipsnis netaikomas, jeigu susitarimas skatina techninę ar ekonominę pažangą arba pagerina prekių gamybą ar paskirstymą ir taip sudaro galimybes vartotojams gauti papildomos naudos, taip pat jeigu:
 
 
 1) susitariančiųjų šalių veiklai nesukelia apribojimų, kurie nėra būtini šiame straipsnyje nurodytiems tikslams pasiekti; 
@@ -324,98 +344,44 @@ Dėl šio įstatymo 5 straipsnyje nurodytų susitarimų gali būti suteikta bend
 
 
 2) nesuteikia susitarimo šalims galimybės riboti konkurenciją didelėje atitinkamos rinkos dalyje.
+
+
+
+
+
+
+2. Susitarimas, kuris atitinka šio straipsnio 1 dalies sąlygas, galioja nuo sudarymo momento (ab initio) be jokio išankstinio Konkurencijos tarybos sprendimo. Kilus ginčui, ar toks susitarimas atitinka šio straipsnio 1 dalį, pareiga įrodyti, kad atitinka, tenka tai susitarimo šaliai, kuri naudojasi šia išimtimi.
+
+
+
+
+3. Konkurencijos taryba turi teisę priimti teisės aktus ir nustatyti susitarimų grupes bei sąlygas, kurioms esant susitarimas tenkina šio straipsnio 1 dalies sąlygas.
+
+
+
+
+4. Konkurencijos taryba gali atšaukti ūkio subjektų teisę naudotis šio straipsnio 3 dalyje numatytų teisės aktų taikoma išimtimi, jeigu nustatoma, kad tam tikru atveju susitarimo poveikis yra nesuderinamas su šio straipsnio 1 dalies nuostatomis.
+
+
+Straipsnio pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
 
 
-
-
-
-
-7 straipsnis. Bendroji išimtis 
-
-
-1. Konkurencijos taryba, atsižvelgdama į šio įstatymo 6 straipsnio reikalavimus, priima teisės aktus dėl bendrosios išimties suteikimo tam tikroms susitarimų grupėms ir nustato bendrosios išimties taikymo sąlygas:
-
-
-1) susitarimams dėl licencijų naudoti prekių ir paslaugų ženklus, pramoninį dizainą ar kitus intelektinės nuosavybės objektus, dėl kurių gali būti tam tikrų prekių gamybos, pardavimo, kainų ar kitokių konkurencijos ribojimų, jei tai susiję su teisių į prekių ženklus, pramoninį dizainą ar kitus intelektinės nuosavybės objektus apsauga arba su licencijų techninių sąlygų reikalavimais;
-
-
-
-
-2) susitarimams, kurie leidžiami tam tikrose atitinkamose rinkose;
-
-
-
-
-3) kitoms tam tikroms susitarimų grupėms, kurioms yra suteikta bendroji išimtis pagal Europos Sąjungoje galiojančias teisės normas.
-
-
-
-
-
-
-2. Visi ūkio subjektai turi teisę sudaryti sutartis, kurios tenkina bendrosios išimties suteikimo ir taikymo sąlygas. 
-
-
-
-
-3. Ūkio subjektai turi teisę kreiptis į Konkurencijos tarybą dėl patvirtinimo, kad numatoma sutartis atitinka bendrosios išimties sąlygas. Jeigu per vieną mėnesį nuo šio kreipimosi įregistravimo Konkurencijos taryba nepateikia neigiamo atsakymo, laikoma, kad patvirtinimas yra duotas. 
-
-
-
-
-4. Ūkio subjektai ne vėliau kaip per vieną mėnesį nuo sutarties, kuri sudaryta pagal bendrosios išimties suteikimo sąlygas, įsigaliojimo privalo Konkurencijos tarybai pateikti informaciją apie esmines sutarties sąlygas. Konkurencijos taryba nustato tipinę šios informacijos pateikimo formą.
+7 straipsnis. Neteko galios nuo 2004-05-01
+Straipsnio naikinimas:
+Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
 
 
-
-
-8 straipsnis. Atskiroji išimtis
-
-
-1. Ūkio subjektas, kuris pagal šio įstatymo 6 straipsnį nori gauti atskirąją išimtį, privalo iki sutarties sudarymo ar jos įsigaliojimo pateikti Konkurencijos tarybai prašymą suteikti atskirąją išimtį. Kartu pateikiama sutartis ir dokumentai, įrodantys, kad minėta sutartis atitinka 6 straipsnio reikalavimus.
-
-
-
-
-2. Konkurencijos taryba ne vėliau kaip per tris mėnesius nuo prašymo suteikti atskirąją išimtį įregistravimo privalo priimti nutarimą dėl atskirosios išimties suteikimo, jeigu sutartis atitinka 6 straipsnio reikalavimus, arba nutarimą dėl atsisakymo suteikti atskirąją išimtį. Jeigu per šį laikotarpį Konkurencijos taryba nepriima nutarimo dėl atsisakymo suteikti atskirąją išimtį, laikoma, kad atskiroji išimtis yra suteikta pagal ūkio subjekto prašyme ir kartu su prašymu pateiktoje sutartyje numatytas sąlygas. 
-
-
-
-
-3. Nutarime dėl atskirosios išimties suteikimo nurodoma data, nuo kurios įsigalioja atskiroji išimtis, išimties galiojimo laikas ir būtinos sąlygos bei įpareigojimai. Nutarime dėl atsisakymo suteikti atskirąją išimtį nurodomi pagrindiniai motyvai, dėl kurių išimtis negali būti taikoma. 
-
-
-
-
-4. Esant ūkio subjekto prašymui, atskirosios išimties galiojimo laikas Konkurencijos tarybos sprendimu pratęsiamas, jeigu sutartis ir jos vykdymo aplinkybės atitinka 6 straipsnio reikalavimus bei nutarimo dėl išimties suteikimo sąlygas ir įpareigojimus.
-
-
-
-
-5. Konkurencijos taryba gali pakeisti arba panaikinti savo nutarimą suteikti atskirąją išimtį, jeigu:
-
-
-1) pasikeitė bent viena iš aplinkybių, dėl kurių buvo priimtas nutarimas suteikti išimtį; 
-
-
-
-
-2) nutarimas suteikti išimtį buvo priimtas remiantis neteisinga arba ne visa informacija; 
-
-
-
-
-3) sutarties šalys pažeidė kurią nors nutarimo dėl išimties suteikimo sąlygą ar privalomą įpareigojimą. 
+8 straipsnis. Neteko galios nuo 2004-05-01
+Straipsnio naikinimas:
+Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
-
-
-
-
 
 
 
@@ -501,7 +467,10 @@ KONCENTRACIJOS KONTROLĖ
 3. Jeigu koncentracijoje dalyvauja:
 
 
-1) komercinis bankas ar kita kredito įstaiga, – vietoj bendrųjų pajamų skaičiuojamas vienas dešimtadalis balansinio turto sumos;
+1) Neteko galios nuo 2004-05-01
+Straipsnio punkto naikinimas:
+Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -554,7 +523,10 @@ Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010IST
 
 
 
-2. Pranešimas apie koncentraciją turi būti pateiktas Konkurencijos tarybai ne vėliau kaip per 7 dienas nuo pasiūlymo sudaryti sutartį arba įsigyti akcijas ar turtą pateikimo, pavedimo sudaryti sutartį, sutarties sudarymo, nuosavybės teisės ar teisės disponuoti tam tikru turtu įgijimo. Terminas pradedamas skaičiuoti nuo pirmojo iš nurodytų veiksmų atlikimo dienos. Konkurencijos taryba nustato tipinę pranešimo apie koncentraciją formą.
+2. Pranešimas apie koncentraciją turi būti pateiktas Konkurencijos tarybai iki koncentracijos įgyvendinimo. Pranešimas pateikiamas po pasiūlymo sudaryti sutartį arba įsigyti akcijas ar turtą pateikimo, pavedimo sudaryti sutartį, sutarties sudarymo, nuosavybės teisės ar teisės disponuoti tam tikru turtu įgijimo. Pranešimas gali būti pateiktas ir turint aiškius ketinimus sudaryti sutartį arba pateikti viešą pasiūlymą supirkti akcijas. Konkurencijos taryba nustato tipinę pranešimo apie koncentraciją formą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -605,6 +577,13 @@ Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010IST
 
 
 5. Jeigu teikiamas pranešimas dėl numatomos įvykdyti koncentracijos, kurioje dalyvauja komerciniai bankai ar kitos kredito įstaigos, Konkurencijos tarybai pateikiama ir Lietuvos banko išvada.
+
+
+
+
+6. Prie pranešimo apie koncentraciją turi būti pridedami dokumentai, patvirtinantys, kad ūkio subjektai sumokėjo Vyriausybės nustatyto dydžio rinkliavą už pranešimo pateikimą ir nagrinėjimą.
+Papildyta straipsnio dalimi:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
@@ -612,10 +591,10 @@ Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010IST
 
 
 
-12 straipsnis. Koncentracijos vykdymo sustabdymas
+12 straipsnis. Koncentracijos sustabdymas
 
 
-1. Koncentracijoje, apie kurią privaloma pranešti, dalyvaujantys ūkio subjektai ar kontroliuojantys asmenys po pirmojo vykdant koncentraciją atlikto veiksmo neturi teisės toliau vykdyti koncentracijos, iki bus priimtas Konkurencijos tarybos nutarimas leisti vykdyti koncentraciją. 
+1. Koncentracijoje, apie kurią privaloma pranešti, dalyvaujantys ūkio subjektai ar kontroliuojantys asmenys neturi teisės įgyvendinti koncentracijos, kol bus priimtas Konkurencijos tarybos nutarimas pagal šio įstatymo 14 straipsnio 1 dalies 1 ar 2 punktus.
 
 
 
@@ -625,10 +604,12 @@ Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010IST
 
 
 
-3. Koncentracijoje dalyvaujančių ūkio subjektų ar kontroliuojančio asmens motyvuotu prašymu Konkurencijos taryba, atsižvelgdama į koncentracijos sustabdymo pasekmes koncentracijoje dalyvaujantiems asmenims ir numatomą koncentracijos įtaką konkurencijai, gali leisti atlikti atskirus koncentracijos veiksmus iki galutinio sprendimo priėmimo. Konkurencijos tarybos leidimas atlikti atskirus koncentracijos veiksmus gali būti duotas su tam tikromis sąlygomis ir įpareigojimais, kurie būtini Konkurencijos tarybos galutiniam sprendimui įvykdyti. Konkurencijos taryba turi priimti nutarimą, nustatantį atleidimo nuo koncentracijos vykdymo sustabdymo taisykles.
+3. Koncentracijoje dalyvaujančių ūkio subjektų ar kontroliuojančio asmens motyvuotu prašymu Konkurencijos taryba, atsižvelgdama į koncentracijos sustabdymo pasekmes koncentracijoje dalyvaujantiems asmenims ir numatomą koncentracijos įtaką konkurencijai, gali leisti atlikti atskirus koncentracijos veiksmus. Konkurencijos tarybos leidimas atlikti atskirus koncentracijos veiksmus gali būti duotas su tam tikromis sąlygomis ir įpareigojimais, kurie būtini veiksmingai konkurencijai užtikrinti.
+
+
+Straipsnio pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
-
-
 
 
 
@@ -641,7 +622,10 @@ Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010IST
 
 
 
-2. Konkurencijos taryba išnagrinėja pagal nustatytus reikalavimus pateiktus pranešimus apie koncentraciją ne vėliau kaip per keturis mėnesius. Šis laikotarpis prasideda kitą dieną po nustatytus reikalavimus atitinkančio pranešimo apie koncentraciją gavimo. Jeigu pranešimas apie koncentraciją neatitinka nustatytų reikalavimų, Konkurencijos taryba priima atitinkamą nutarimą ir nedelsdama apie tai raštu informuoja pranešimą pateikusius asmenis. 
+2. Konkurencijos taryba išnagrinėja pagal nustatytus reikalavimus pateiktus pranešimus apie koncentraciją ne vėliau kaip per keturis mėnesius. Šis laikotarpis prasideda kitą dieną po nustatytus reikalavimus atitinkančio pranešimo apie koncentraciją gavimo. Jeigu pranešimas apie koncentraciją neatitinka nustatytų reikalavimų, Konkurencijos taryba nedelsdama apie tai raštu informuoja pranešimą pateikusius asmenis. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -651,7 +635,17 @@ Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010IST
 
 
 
-4. Konkurencijos taryba, nagrinėdama pranešimus apie koncentraciją, turi teisę gauti iš ūkio subjektų, kontroliuojančių asmenų bei valstybės valdymo ir savivaldos institucijų informaciją, žodinius bei raštiškus paaiškinimus, reikalingus nutarimui dėl koncentracijos priimti.
+4. Konkurencijos taryba, ketindama priimti nutarimą pagal 14 straipsnio 1 dalies 2 punktą, pranešimą pateikusio ūkio subjekto motyvuotu prašymu šio straipsnio 2 dalyje nurodytą koncentracijos nagrinėjimo terminą gali pratęsti vienu mėnesiu. 
+Papildyta straipsnio dalimi:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
+
+
+
+
+5. Konkurencijos taryba, nagrinėdama pranešimus apie koncentraciją, turi teisę gauti iš ūkio subjektų, kontroliuojančių asmenų bei valstybės valdymo ir savivaldos institucijų informaciją, žodinius bei raštiškus paaiškinimus, reikalingus nutarimui dėl koncentracijos priimti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
@@ -675,7 +669,10 @@ Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010IST
 
 
 
-3) atsisakyti duoti leidimą vykdyti koncentraciją ir įpareigoti koncentracijoje dalyvaujančius ūkio subjektus ar kontroliuojančius asmenis atlikti veiksmus, kad būtų atkurta ankstesnė padėtis, išskyrus atskirus koncentracijos veiksmus, kuriuos leido atlikti Konkurencijos taryba pagal 12 straipsnio 3 dalį, arba pašalinančius koncentracijos pasekmes, įskaitant įpareigojimus parduoti įmonę ar jos dalį, ūkio subjekto turtą ar jo dalį, akcijas ar jų dalį, nutraukti ar pakeisti sutartis bei nustatyti šių įpareigojimų įvykdymo terminus bei sąlygas, jeigu dėl koncentracijos bus sukurta ar sustiprinta dominuojanti padėtis ir dėl to itin apribota konkurencija atitinkamoje rinkoje.
+3) atsisakyti duoti leidimą vykdyti koncentraciją ir įpareigoti koncentracijoje dalyvaujančius ūkio subjektus ar kontroliuojančius asmenis atlikti veiksmus, kad būtų atkurta ankstesnė padėtis, išskyrus atskirus koncentracijos veiksmus, kuriuos leido atlikti Konkurencijos taryba pagal 12 straipsnio 3 dalį, arba pašalinančius koncentracijos pasekmes, įskaitant įpareigojimus parduoti įmonę ar jos dalį, ūkio subjekto turtą ar jo dalį, akcijas ar jų dalį, nutraukti ar pakeisti sutartis bei nustatyti šių įpareigojimų įvykdymo terminus bei sąlygas, jeigu dėl koncentracijos bus sukurta ar sustiprinta dominuojanti padėtis, ar itin apribota konkurencija atitinkamoje rinkoje.
+Straipsnio punkto pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -700,10 +697,31 @@ Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010IST
 
 
 
-15 straipsnis.       Koncentracijos kontrolės pažeidimų tyrimas ir Konkurencijos tarybos nutarimų dėl koncentracijos pakeitimas ar panaikinimas
+141 straipsnis. Koncentracijos kontrolės procedūros taikymas savo iniciatyva
 
 
-1. Esant pagrindo manyti, kad vykdant koncentraciją buvo pažeisti šio įstatymo reikalavimai arba Konkurencijos tarybos nutarimai, Konkurencijos taryba atlieka tyrimą pagal šio įstatymo penktąjį skirsnį.
+1. Konkurencijos taryba gali įpareigoti ūkio subjektus teikti pranešimą apie koncentraciją ir mutatis mutandis taikyti koncentracijos kontrolės procedūrą, numatytą šio įstatymo trečiajame skirsnyje, nors ir nėra viršijami 10 straipsnio 1 dalyje nustatyti bendrųjų pajamų rodikliai, kai yra tikėtina, kad po koncentracijos bus sukurta ar sustiprinta dominuojanti padėtis, ar itin apribota konkurencija atitinkamoje rinkoje.
+
+
+
+
+2. Konkurencijos taryba gali priimti atskirą nutarimą taikyti koncentracijos kontrolės procedūrą tik tais atvejais, jeigu nuo koncentracijos įgyvendinimo praėjo ne daugiau kaip 12 mėnesių.
+
+
+Papildyta straipsniu:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
+
+
+
+
+15 straipsnis. Koncentracijos kontrolės pažeidimų tyrimas ir Konkurencijos tarybos nutarimų dėl koncentracijos pakeitimas ar panaikinimas
+
+
+1. Esant pagrindo manyti, kad vykdant koncentraciją buvo pažeisti šio įstatymo reikalavimai arba Konkurencijos tarybos nutarimai, Konkurencijos taryba atlieka tyrimą pagal šio įstatymo penktąjį skyrių.
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -931,7 +949,10 @@ Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010I
 
 
 
-2. Konkurencijos taryba dalį savo įgalinimų, išskyrus šio įstatymo 7, 8 straipsniuose, 10 straipsnio 4 dalyje, 14 straipsnio 1 dalyje, 15 straipsnio 2 dalyje numatytų sprendimų priėmimą, bylų nagrinėjimą ir šio įstatymo nustatytų sankcijų taikymą bei teisės aktų priėmimą, gali perduoti Konkurencijos tarybos pirmininkui ar Konkurencijos tarybos administracijai.
+2. Konkurencijos taryba dalį savo įgalinimų, išskyrus šio įstatymo 10 straipsnio 4 dalyje, 14 straipsnio 1 dalyje, 15 straipsnio 2 dalyje numatytų sprendimų priėmimą, bylų nagrinėjimą ir šio įstatymo nustatytų sankcijų taikymą bei teisės aktų priėmimą, gali perduoti Konkurencijos tarybos pirmininkui ar Konkurencijos tarybos administracijai.
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -947,7 +968,10 @@ Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010I
 20 straipsnis. Konkurencijos tarybos sudėtis, sudarymas bei darbo tvarka
 
 
-1. Konkurencijos tarybą sudaro pirmininkas bei 4 nariai. Konkurencijos tarybos pirmininką bei narius Lietuvos Respublikos Ministro Pirmininko teikimu skiria Respublikos Prezidentas. Konkurencijos tarybos pirmininkas skiriamas penkeriems metams, Konkurencijos tarybos nariai skiriami šešeriems metams. Konkurencijos taryba kas treji metai atnaujinama. Pirmą kartą skiriant Konkurencijos tarybos narius, 2 nariai skiriami šešeriems metams ir 2 nariai trejiems metams. 
+1. Konkurencijos tarybą sudaro pirmininkas ir 4 nariai. Konkurencijos tarybos pirmininką ir narius Lietuvos Respublikos Ministro Pirmininko teikimu skiria Respublikos Prezidentas. Konkurencijos tarybos pirmininkas skiriamas penkeriems metams, Konkurencijos tarybos nariai skiriami šešeriems metams. Tas pats asmuo Konkurencijos tarybos pirmininku ar nariu gali būti paskirtas ne daugiau kaip dviem kadencijoms iš eilės. Pirmą kartą skiriant Konkurencijos tarybos narius, 2 nariai skiriami šešeriems metams ir 2 nariai trejiems metams. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -997,17 +1021,33 @@ Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010I
 
 
 
-4. Konkurencijos tarybos nariai gali dirbti tik Konkurencijos taryboje, išskyrus mokslinį, pedagoginį ar kūrybinį darbą, gavę Konkurencijos tarybos sutikimą.
+4. Konkurencijos tarybos pirmininkui ir nariams, atleidžiamiems iš pareigų, kai pasibaigia jų kadencija, išmokama vieno mėnesio jų vidutinio darbo užmokesčio dydžio išeitinė išmoka, išskyrus atvejus, kai jie paskiriami antrai kadencijai. 
+Papildyta straipsnio dalimi:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
 
-5. Konkurencijos taryba, spręsdama jos kompetencijai priskirtus klausimus, priima nutarimus. Nutarimai priimami balsų dauguma, dalyvaujant ne mažiau kaip keturiems Konkurencijos tarybos nariams, įskaitant Konkurencijos tarybos pirmininką. Balsams pasiskirsčius po lygiai, lemia Konkurencijos tarybos pirmininko balsas. 
+5. Konkurencijos tarybos nariai gali dirbti tik Konkurencijos taryboje, išskyrus mokslinį, pedagoginį ar kūrybinį darbą, gavę Konkurencijos tarybos sutikimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
 
-6. Konkurencijos tarybos darbo tvarką ir jos nagrinėjamų bylų proceso taisykles nustato Konkurencijos tarybos priimtas darbo reglamentas.
+6. Konkurencijos taryba, spręsdama jos kompetencijai priskirtus klausimus, priima nutarimus. Nutarimai priimami balsų dauguma, dalyvaujant ne mažiau kaip 3 Konkurencijos tarybos nariams, įskaitant Konkurencijos tarybos pirmininką. Balsams pasiskirsčius po lygiai, lemia Konkurencijos tarybos pirmininko balsas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
+
+
+
+
+7. Konkurencijos tarybos darbo tvarką ir jos nagrinėjamų bylų proceso taisykles nustato Konkurencijos tarybos priimtas darbo reglamentas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
@@ -1095,7 +1135,10 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 1. Konkurencijos taryba tiria:
 
 
-1) konkurenciją ribojančių susitarimų bei išimties, suteiktos pagal šio įstatymo 7 ir 8 straipsnius, sąlygų ir įpareigojimų pažeidimą;
+1) konkurenciją ribojančius susitarimus; 
+Straipsnio punkto pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -1115,7 +1158,10 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 
 
 
-5) pažeidimus, kai nurodymai pateikti informaciją nevykdomi ar vykdomi ne laiku, pateikiama neteisinga ar ne visa informacija, šio įstatymo numatytais atvejais informacija nepateikiama nustatytu laiku, kliudoma Konkurencijos tarybos įgaliotiems pareigūnams atlikti tyrimą arba nevykdomos Konkurencijos tarybos nutarimais paskirtos sankcijos ar įpareigojimai.
+5) pažeidimus, kai nurodymai pateikti informaciją nevykdomi ar vykdomi ne laiku, pateikiama neteisinga ar ne visa informacija, šio įstatymo numatytais atvejais informacija nepateikiama nustatytu laiku, kliudoma Konkurencijos tarybos įgaliotiems pareigūnams atlikti tyrimą arba nevykdomos Konkurencijos tarybos nutarimais paskirtos sankcijos ar įpareigojimai, taip pat ūkio subjektų prisiimti įsipareigojimai pagal šio įstatymo 30 straipsnio 2 dalies 2 punktą.
+Straipsnio punkto pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -1174,7 +1220,10 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 
 
 
-3. Konkurencijos taryba turi išnagrinėti pareiškimus dėl konkurenciją ribojančių veiksmų ne vėliau kaip per 14 dienų nuo pareiškimo ir dokumentų pateikimo ir priimti nutarimą pradėti tyrimą ar atsisakyti pradėti tyrimą.
+3. Konkurencijos taryba turi išnagrinėti pareiškimus dėl konkurenciją ribojančių veiksmų ne vėliau kaip per 30 dienų nuo pareiškimo ir dokumentų pateikimo ir priimti nutarimą pradėti tyrimą ar atsisakyti pradėti tyrimą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -1197,7 +1246,15 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 
 
 
-4) pareiškėjas per Konkurencijos tarybos nustatytą laiką nepateikė tyrimui pradėti reikalingų duomenų ir dokumentų.
+4) pareiškėjas per Konkurencijos tarybos nustatytą laiką nepateikė tyrimui pradėti reikalingų duomenų ir dokumentų;
+
+
+
+
+5) nėra duomenų, kurie leistų pagrįstai įtarti įstatymo pažeidimą. 
+Papildyta straipsnio punktu:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -1209,7 +1266,9 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 
 
 
-6. Konkurencijos taryba turi baigti tyrimą ne vėliau kaip per 3 mėnesius nuo tyrimo pradžios. Konkurencijos taryba motyvuotu nutarimu kiekvieną kartą šį terminą gali pratęsti ne ilgiau kaip dviem mėnesiams.
+6. Konkurencijos taryba turi baigti tyrimą ne vėliau kaip per 5 mėnesius nuo tyrimo pradžios. Konkurencijos taryba motyvuotu nutarimu kiekvieną kartą šį terminą gali pratęsti ne ilgiau kaip 3 mėnesiams.
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
@@ -1270,7 +1329,10 @@ Konkurencijos TARYBOS vykdomas konkurenciją ribojančių veiksmų tyrimas
 
 
 
-3. Tyrimą atliekantys Konkurencijos tarybos įgalioti pareigūnai tvarkai palaikyti gali pasitelkti policijos darbuotojus.
+3. Tyrimą atliekantys Konkurencijos tarybos įgalioti pareigūnai tvarkai palaikyti gali pasitelkti policijos pareigūnus.
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -1426,12 +1488,35 @@ Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010I
 
 
 
-2. Apie priimtą sprendimą raštu pranešama pareiškėjui ir suinteresuotiems asmenims.
+2. Tyrimas nutraukiamas, jei:
+
+
+1) tyrimo metu paaiškėja, kad nėra teisės pažeidimo sudėties;
 
 
 
 
-3. Paaiškėjus naujoms aplinkybėms arba jeigu ūkio subjektas nesilaiko šio įstatymo pagrindu nustatytų sąlygų ir įpareigojimų, Konkurencijos taryba turi teisę nutrauktą tyrimą atnaujinti.
+2) veiksmai nepadarė esminės žalos įstatymų saugomiems interesams, o ūkio subjektas, įtariamas įstatymo pažeidimu, geranoriškai nutraukė veiksmus bei pateikė Konkurencijos tarybai rašytinį įsipareigojimą tokių veiksmų neatlikti. 
+
+
+Papildyta straipsnio dalimi:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
+
+
+
+
+3. Apie priimtą sprendimą raštu pranešama pareiškėjui ir suinteresuotiems asmenims.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
+
+
+
+
+4. Paaiškėjus naujoms aplinkybėms arba jeigu ūkio subjektas nesilaiko šio įstatymo pagrindu nustatytų sąlygų ir įpareigojimų, Konkurencijos taryba turi teisę nutrauktą tyrimą atnaujinti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
@@ -1637,7 +1722,6 @@ Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010I
 
 
 39 straipsnis. Teismo sprendimas
- 
 
 
 Teismas, išnagrinėjęs skundą dėl Konkurencijos tarybos nutarimo, priima vieną iš šių sprendimų:
@@ -1658,7 +1742,9 @@ Teismas, išnagrinėjęs skundą dėl Konkurencijos tarybos nutarimo, priima vie
 
 
 
-4) pakeisti nutarimą dėl atskirosios išimties suteikimo, koncentracijos, sankcijų arba laikinojo pobūdžio priemonių taikymo. 
+4) pakeisti nutarimą dėl koncentracijos, sankcijų arba laikinojo pobūdžio priemonių taikymo.
+Straipsnio punkto pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
@@ -1680,10 +1766,10 @@ ATSAKOMYBĖ UŽ KONKURENCIJOS ĮSTATYMO PAŽEIDIMUS
 40 straipsnis. Ūkio subjektams taikomos sankcijos
 
 
-1. Konkurencijos taryba, nustačiusi, kad ūkio subjektai įvykdė šio įstatymo draudžiamus veiksmus ar kitus šio įstatymo pažeidimus, turi teisę:
+1. Konkurencijos taryba, nustačiusi, kad ūkio subjektai įvykdė šio įstatymo draudžiamus veiksmus ar kitus šio įstatymo pažeidimus, vadovaudamasi objektyvumo ir proporcingumo principais, turi teisę:       
 
 
-1) įpareigoti ūkio subjektus nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant įpareigojimą nutraukti, pakeisti ar sudaryti sutartis, taip pat nustatyti šių įpareigojimų įvykdymo terminus ir sąlygas; 
+1) įpareigoti ūkio subjektus nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant įpareigojimą nutraukti, pakeisti ar sudaryti sutartis, taip pat nustatyti šių įpareigojimų įvykdymo terminus ir sąlygas;
 
 
 
@@ -1696,6 +1782,9 @@ ATSAKOMYBĖ UŽ KONKURENCIJOS ĮSTATYMO PAŽEIDIMUS
 3) skirti ūkio subjektams šiame įstatyme nustatytas pinigines baudas.
 
 
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -1716,33 +1805,30 @@ Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010I
 
 
 
-41 straipsnis. Baudos
+41 straipsnis. Baudos 
 
 
-1. Už draudžiamus susitarimus, išimties, suteiktos pagal šio įstatymo 7 ir 8 straipsnius, sąlygų pažeidimą, piktnaudžiavimą dominuojančia padėtimi šio įstatymo 9 straipsnio 1, 2, 3 ir 4 punktuose numatytais atvejais, koncentracijos, apie kurią buvo privaloma pranešti, įvykdymą be Konkurencijos tarybos leidimo, koncentracijos tęsimą jos sustabdymo laikotarpiu, Konkurencijos tarybos nustatytų koncentracijos vykdymo sąlygų ar privalomų įpareigojimų pažeidimą ūkio subjektams skiriama piniginė bauda nuo 3000 iki 100000 litų, o tais atvejais, kai šioje dalyje išvardyti pažeidimai buvo padaryti sunkinančiomis aplinkybėmis, ūkio subjektams gali būti skiriama ir didesnė bauda, tačiau neviršijanti 10 procentų bendrųjų metinių pajamų.
-
-
-
-
-2. Už atliktus nesąžiningos konkurencijos veiksmus, kuriuos tiria Konkurencijos taryba, ūkio subjektams gali būti skiriama piniginė bauda nuo 1000 iki 30000 litų, o tais atvejais, kai šioje dalyje išvardyti pažeidimai buvo padaryti sunkinančiomis aplinkybėmis, ūkio subjektams gali būti skiriama ir didesnė bauda, tačiau neviršijanti 3 procentų bendrųjų metinių pajamų.
+1. Už draudžiamus susitarimus, piktnaudžiavimą dominuojančia padėtimi, koncentracijos, apie kurią buvo privaloma pranešti, įgyvendinimą be Konkurencijos tarybos leidimo, koncentracijos tęsimą jos sustabdymo laikotarpiu, Konkurencijos tarybos nustatytų koncentracijos vykdymo sąlygų ar privalomų įpareigojimų pažeidimą ūkio subjektams skiriama piniginė bauda iki 10 procentų bendrųjų metinių pajamų praėjusiais ūkiniais metais. 
 
 
 
 
-3. Už neteisingos ar ne visos informacijos, reikalingos tyrimui atlikti, pateikimą, taip pat neteisingos ar ne visos informacijos pateikimą prašyme suteikti išimtį pagal šio įstatymo 8 straipsnį, pranešime apie koncentraciją ar kituose pranešimuose, pateikiamuose Konkurencijos tarybai šiame įstatyme numatytais atvejais, ūkio subjektams gali būti skiriama piniginė bauda nuo 1000 iki 10000 litų.
+2. Už atliktus nesąžiningos konkurencijos veiksmus, kuriuos tiria Konkurencijos taryba, ūkio subjektams gali būti skiriama piniginė bauda iki 3 procentų bendrųjų metinių pajamų praėjusiais ūkiniais metais.
 
 
 
 
-4. Už kliudymą Konkurencijos tarybos pareigūnams įeiti ir patikrinti ūkio subjekto patalpas, teritoriją ir transporto priemones, peržiūrėti ar paimti dokumentus ir daiktus, turinčius įrodomosios reikšmės tiriant bylą, ūkio subjektams gali būti skiriama piniginė bauda nuo 3000 iki 100000 litų.
+3. Už informacijos, reikalingos tyrimui atlikti ar koncentracijai nagrinėti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą šiame įstatyme numatytais atvejais, už kliudymą Konkurencijos tarybos pareigūnams įeiti ir patikrinti ūkio subjekto patalpas, teritoriją ir transporto priemones, peržiūrėti ar paimti dokumentus ir daiktus, turinčius įrodomosios reikšmės tiriant bylą, ūkio subjektams gali būti skiriama piniginė bauda iki 1 procento bendrųjų metinių pajamų praėjusiais ūkiniais metais.
 
 
 
 
-5. Už Konkurencijos tarybos įpareigojimų nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku, už nurodymų pateikti informaciją nevykdymą ar vykdymą ne laiku, už pranešimo apie numatomą vykdyti koncentraciją nepateikimą įstatymo nustatytu laiku, už informacijos šio įstatymo numatytais atvejais nepateikimą nustatytu laiku ūkio subjektams gali būti skiriama piniginė bauda nuo 1000 iki 10000 litų už kiekvieną pažeidimo vykdymo (tęsimo) dieną.
+4. Už Konkurencijos tarybos įpareigojimų nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku, už nurodymų pateikti informaciją vykdymą ne laiku, už prisiimtų įsipareigojimų nesilaikymą šio įstatymo numatytais atvejais ūkio subjektams gali būti skiriama piniginė bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną iki 5 procentų vidutinių dienos bendrųjų pajamų praėjusiais ūkiniais metais.
+
+
+Straipsnio pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
-
-
 
 
 
@@ -1754,6 +1840,9 @@ Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010I
 
 
 1) pažeidimu padarytos žalos dydį;
+Straipsnio punkto pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -1768,7 +1857,10 @@ Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010I
 
 
 
-4) ūkio subjektui dėl pažeidimo tekusių pajamų dydį;
+4) Neteko galios nuo 2004-05-01
+Straipsnio punkto naikinimas:
+Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -1790,7 +1882,17 @@ Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010I
 
 
 
-4. Konkurencijos taryba, nustatydama skiriamos piniginės baudos dydį, gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas, čia nenurodytas, aplinkybes. Konkurencijos taryba priima nutarimą, kuriuo nustato taisykles dėl atsakomybę lengvinančių aplinkybių pripažinimo.
+4. Konkurencijos taryba, nustatydama skiriamos piniginės baudos dydį, gali pripažinti atsakomybę lengvinančiomis ir kitas, čia nenurodytas aplinkybes. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
+
+
+
+
+5. Vyriausybė nutarimu patvirtina baudos dydžio nustatymo tvarką. 
+Papildyta straipsnio dalimi:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
  
 
 
@@ -1900,10 +2002,124 @@ Asmenims už šio įstatymo pažeidimus taikoma Lietuvos Respublikos įstatymų 
 
 
 2. Žala, padaryta ūkio subjektams neteisėtais Konkurencijos tarybos ar jos pareigūnų veiksmais, atlyginama įstatymų nustatyta tvarka. 
+ 
 
 
 
 
+
+
+
+
+VII SKYRIUS
+EUROPOS SĄJUNGOS KONKURENCIJOS TAISYKLIŲ TAIKYMAS
+ 
+
+
+47 straipsnis. Įgaliota institucija
+
+
+1. Konkurencijos taryba yra institucija, įgaliota taikyti Europos Sąjungos konkurencijos taisykles, kurių laikymosi priežiūra pagal Europos Sąjungos konkurencijos teisę pavedama nacionalinei konkurencijos institucijai. 
+
+
+
+
+2. Konkurencijos taryba, atlikdama funkcijas, suteiktas pagal šio straipsnio 1 dalį, veikia šio įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+48 straipsnis. Valstybės pagalba 
+
+
+1. Konkurencijos taryba yra koordinuojanti institucija valstybės pagalbos, kuriai taikomos Europos Sąjungos valstybės pagalbos taisyklės, klausimais. 
+
+
+
+
+2. Konkurencijos taryba Lietuvos Respublikos Vyriausybės patvirtinta tvarka atlieka valstybės pagalbos, nurodytos šio straipsnio 1 dalyje, projektų ekspertizę, teikia valstybės pagalbos teikėjams išvadas ir rekomendacijas, kaupia informaciją apie suteiktą valstybės pagalbą Lietuvos ūkio subjektams ir teikia ją Europos Bendrijų Komisijai bei kitoms suinteresuotoms institucijoms.
+
+
+
+
+3. Suteiktos valstybės pagalbos, nurodytos šio straipsnio 1 dalyje, įskaitant nereikšmingą pagalbą, registrą tvarko Konkurencijos taryba.
+ 
+
+
+
+
+
+
+49 straipsnis. Policijos pagalba ir tyrimo veiksmų sankcionavimas 
+
+
+1. Tyrimą pagal Europos Sąjungos konkurencijos taisykles atliekantys Europos Bendrijų Komisijos įgalioti asmenys ar šiems asmenims atlikti patikrinimą padedantys Konkurencijos tarybos įgalioti pareigūnai viešajai tvarkai palaikyti bei galimam prievartos panaudojimui gali pasitelkti policijos pareigūnus. 
+
+
+
+
+2. Vilniaus apygardos administracinis teismas sankcionuoja galimą prievartos panaudojimą Tarybos reglamento EB Nr. 1/2003 dėl konkurencijos taisyklių, nustatytų Sutarties 81 ir 82 straipsniuose įgyvendinimo (toliau – Tarybos reglamentas EB Nr. 1/2003) 20 straipsnyje nurodytu atveju.
+
+
+
+
+3. Vilniaus apygardos administracinis teismas sankcionuoja Europos Bendrijų Komisijos atliekamus patikrinimus ir galimą prievartos panaudojimą Tarybos reglamento EB Nr. 1/2003 21 straipsnyje nurodytu atveju. 
+
+
+
+
+4. Prašymą teismo sankcijai pateikia Europos Bendrijų Komisija arba Konkurencijos taryba.
+ 
+
+
+
+
+
+
+50 straipsnis. Konkurencijos bylų teisminis nagrinėjimas 
+
+
+1. Ūkio subjektas, kurio teisėti interesai pažeidžiami veiksmais, pažeidžiančiais Europos Bendrijos steigimo sutarties 81 ar 82 straipsnius ar kitais šio Įstatymo draudžiamais konkurenciją ribojančiais veiksmais, turi teisę kreiptis į Vilniaus apygardos teismą su ieškiniu dėl:
+
+
+1) neteisėtų veiksmų nutraukimo;
+
+
+
+
+2) padarytos žalos atlyginimo.
+
+
+
+
+
+
+2. Teismas, gavęs ieškinį, susijusį su Europos Bendrijos steigimo sutarties 81 ar 82 straipsnių taikymu, apie tai informuoja Europos Bendrijų Komisiją ir Konkurencijos tarybą. Tokiu atveju Europos Bendrijų Komisija ir Konkurencijos taryba turi teises, numatytas Civilinio proceso kodekso 50 straipsnio 2 dalyje.
+
+
+
+
+3. Sprendimo (nutarties), priimto byloje, kurioje buvo taikomi Europos Bendrijos steigimo sutarties 81 ar 82 straipsniai, nuorašas nedelsiant po tokio sprendimo (nutarties) paskelbimo išsiunčiamas Europos Bendrijų Komisijai ir Konkurencijos tarybai.
+
+
+
+
+4. Procesas gali būti atnaujinamas, kai paaiškėja, kad po teismo sprendimo (nutarties) priėmimo, kuriame susitarimams, sprendimams ar veiklai buvo taikomi Europos Bendrijų steigimo sutarties 81 ar 82 straipsniai, priimamas Europos Bendrijų Komisijos sprendimas dėl minėtų straipsnių taikymo tiems patiems susitarimams, sprendimams ar veiklai ir tas taikymo rezultatas iš esmės skiriasi. 
+
+
+
+
+5. Bylą nagrinėjant Vilniaus apygardos administraciniame teisme, mutatis mutandis taikomos šio straipsnio 2, 3 ir 4 dalys.
+
+
+
+
+Papildyta skyriumi:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
 
 
 
@@ -1916,8 +2132,24 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
  
+ 
 
 
+
+
+
+
+Lietuvos Respublikos
+1999 m. kovo 23 d.
+įstatymo Nr. VIII-1099
+priedas
+ 
+Įgyvendinamas Europos Sąjungos teisės aktas
+ 
+2002 m. gruodžio 16 d. Tarybos reglamentas EB Nr. 1/2003 dėl konkurencijos taisyklių, nustatytų Sutarties 81 ir 82 straipsniuose, įgyvendinimo.
+Papildyta priedu:
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
  
  
 Pakeitimai:
@@ -1931,3 +2163,8 @@ Lietuvos Respublikos konkurencijos įstatymo 19, 27, 28, 29, 38 ir 40 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010ISTA0IX-1715
 Lietuvos Respublikos konkurencijos įstatymo 10 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+Lietuvos Respublikos konkurencijos įstatymo pakeitimo ir papildymo, Valstybės pagalbos ūkio subjektams kontrolės įstatymo pripažinimo netekusiu galios ir Civilinio proceso kodekso 1 straipsnio pakeitimo įstatymas
