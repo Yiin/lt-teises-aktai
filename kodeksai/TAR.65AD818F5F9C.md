@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 1998-12-02 iki 2001-05-08
+Suvestinė redakcija nuo 2001-05-09 iki 2002-04-08
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -372,17 +372,21 @@ Kelių transporto kontrolė
 
 
 KETVIRTASIS skirsnis
-Žyminis mokestis ir tarifai
+VALSTYBĖS RINKLIAVA IR TARIFAI 
+Pakeistas skirsnio pavadinimas:
+Nr. IX-283, 2001-04-19, Žin., 2001, Nr. 39-1353 (2001-05-09), i. k. 1011010ISTA00IX-283
  
 
 
-15 straipsnis. Žyminis mokestis
+15 straipsnis. Valstybės rinkliava
 
 
-Už kelių transporto priemonių registravimą, dokumentų, licencijų (leidimų) verstis keleivių ir krovinių vežimais išdavimą mokamas nustatyto dydžio žyminis mokestis.
+Už kelių transporto priemonių registravimą, dokumentų, licencijų (leidimų) verstis keleivių ir krovinių vežimais išdavimą mokama nustatyto dydžio valstybės rinkliava.
+
+
+Straipsnio pakeitimai:
+Nr. IX-283, 2001-04-19, Žin., 2001, Nr. 39-1353 (2001-05-09), i. k. 1011010ISTA00IX-283
  
-
-
 
 
 
@@ -1486,3 +1490,8 @@ Lietuvos Respublikos kelių transporto kodekso 29 straipsnio pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-924, 1998-11-17, Žin., 1998, Nr. 105-2895 (1998-12-02), i. k. 0981010ISTAVIII-924
 Lietuvos Respublikos kelių transporto kodekso 16 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-283, 2001-04-19, Žin., 2001, Nr. 39-1353 (2001-05-09), i. k. 1011010ISTA00IX-283
+Lietuvos Respublikos kelių transporto kodekso ketvirtojo skirsnio pavadinimo ir 15 straipsnio pakeitimo įstatymas
