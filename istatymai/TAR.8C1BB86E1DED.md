@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8C1BB86E1DED"
 
 # Lietuvos Respublikos muitų tarifų įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2003-12-31
+Įstatymas netenka galios 2004-05-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2146, 2004-04-20, Žin., 2004, Nr. 63-2248 (2004-04-28), i. k. 1041010ISTA0IX-2146
+Lietuvos Respublikos muitų tarifų įstatymo, Antidempingo įstatymo, Protekcinių (apsaugos) priemonių įstatymo, Kompensacinių muitų įstatymo ir juos keitusių įstatymų pripažinimo netekusiais galios įstatymas
+ 
+Suvestinė redakcija nuo 2004-01-01 iki 2004-04-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 28-727, i. k. 0981010ISTAVIII-633
  
@@ -132,9 +137,10 @@ Muitas renkamas (sumokamas) už visas į Lietuvos Respublikos muitų teritoriją
 
 15) tarptautiniuose sporto renginiuose naudojami vaistai ir vaistinės medžiagos;
 
-16) paramos siuntos – Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais ir tvarka, taip pat daiktai, skirti neįgaliesiems asmenims, nukentėjusiesiems nuo nelaimių bei pasipriešinimo okupacijoms (rezistencijos) dalyviams ir nuo okupacijų nukentėjusiems asmenims; 
+16) paramos siuntos – Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais ir tvarka, taip pat daiktai, skirti neįgaliems asmenims ir asmenims, nukentėjusiems nuo nelaimių; 
 Straipsnio punkto pakeitimai:
 Nr. VIII-1816, 2000-07-11, Žin., 2000, Nr. 61-1822 (2000-07-26), i. k. 1001010ISTAIII-1816
+Nr. IX-941, 2002-06-11, Žin., 2002, Nr. 68-2756 (2002-07-03), i. k. 1021010ISTA00IX-941
  
 
 17) garbės apdovanojimai;
@@ -159,7 +165,10 @@ Nr. VIII-1816, 2000-07-11, Žin., 2000, Nr. 61-1822 (2000-07-26), i. k. 1001010I
 
 27) kuras ir tepalai, esantys automobilių transporto priemonėse, reikalingi tų priemonių eksploatavimui;
 
-28) karo, genocido ir okupacinių režimų represijų aukų paminklų, memorialų ir kapinių statybai, priežiūrai ir puošimui skirtos medžiagos;
+28) karo aukų paminklų, memorialų ir kapinių statybai, priežiūrai ir puošimui skirtos medžiagos; 
+Straipsnio punkto pakeitimai:
+Nr. IX-941, 2002-06-11, Žin., 2002, Nr. 68-2756 (2002-07-03), i. k. 1021010ISTA00IX-941
+ 
 
 29) karstai bei laidojimo urnos su mirusiųjų palaikais ir laidojimo puošalais;
 
@@ -187,7 +196,12 @@ Nr. VIII-1816, 2000-07-11, Žin., 2000, Nr. 61-1822 (2000-07-26), i. k. 1001010I
 
 3) į neapmuitinamas parduotuves pristatomos prekės;
 
-4) prekės, importuojamos į Lietuvos Respublikos muitų teritoriją ar eksportuojamos iš jos tarptautinėse sutartyse nustatytais atvejais bei Lietuvos Respublikos Vyriausybės nutarimu.
+4) prekės, importuojamos į Lietuvos Respublikos muitų teritoriją ar eksportuojamos iš jos tarptautinėse sutartyse nustatytais atvejais bei Lietuvos Respublikos Vyriausybės nutarimu;
+ 
+
+5) Šiaurės Atlanto Sutarties Organizacijos (NATO) saugumo investicijų programoms įgyvendinti skirtos prekės Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka iki Lietuvos Respublikai įsigalios Susitarimas dėl Šiaurės Atlanto Sutarties Organizacijos, valstybių atstovų ir tarptautinio personalo statuso, pasirašytas 1951 m. rugsėjo 20 d. Otavoje, bet ne ilgiau kaip iki 2004 m. gegužės 1 d. 
+Papildyta straipsnio punktu:
+Nr. IX-1920, 2003-12-18, Žin., 2003, Nr. 123-5591 (2003-12-30), i. k. 1031010ISTA0IX-1920
  
 
 KETVIRTASIS SKIRSNIS
@@ -381,4 +395,14 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1816, 2000-07-11, Žin., 2000, Nr. 61-1822 (2000-07-26), i. k. 1001010ISTAIII-1816
 Lietuvos Respublikos muitų tarifų įstatymo 6 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-941, 2002-06-11, Žin., 2002, Nr. 68-2756 (2002-07-03), i. k. 1021010ISTA00IX-941
+Lietuvos Respublikos muitų tarifų įstatymo 6 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1920, 2003-12-18, Žin., 2003, Nr. 123-5591 (2003-12-30), i. k. 1031010ISTA0IX-1920
+Lietuvos Respublikos muitų tarifų įstatymo 6 straipsnio papildymo įstatymas
 
