@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.22F9E22CD358"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 1997-12-24 iki 2001-12-04
+Suvestinė redakcija nuo 2001-12-05 iki 2003-04-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 107-0; Žin. 1990, Nr.31-747, i. k. 090XX01ISTA000I-676
  
@@ -469,6 +469,13 @@ BENDRIJOS NARIŲ TEISĖS IR PAREIGOS
 
 
 8. Tikrieji nariai neturi teisės sudaryti sandorių su bendrija, kurios nariai jie yra. Komanditoriai tokius sandorius gali sudaryti, tačiau iš tokių sandorių kylantys reikalavimai patenkinami tik po to, kai bus patenkinti visų kitų bendrijos kreditorių reikalavimai.
+
+
+
+
+9. Bendrijos narys komanditorius fizinis asmuo turi teisę dirbti bendrijoje tik pagal įstatymų nustatyta tvarka sudarytą darbo sutartį. 
+Papildyta straipsnio dalimi:
+Nr. IX-606, 2001-11-15, Žin., 2001, Nr. 102-3626 (2001-12-05), i. k. 1011010ISTA00IX-606
  
 
 
@@ -838,3 +845,8 @@ Lietuvos Respublikos ūkinių bendrijų įstatymo 21 straipsnio papildymo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-563, 1997-12-09, Žin., 1997, Nr. 117-3003 (1997-12-24), i. k. 0971010ISTAVIII-563
 Lietuvos Respublikos ūkinių bendrijų įstatymo 21 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-606, 2001-11-15, Žin., 2001, Nr. 102-3626 (2001-12-05), i. k. 1011010ISTA00IX-606
+Lietuvos Respublikos ūkinių bendrijų įstatymo 12 straipsnio papildymo įstatymas
