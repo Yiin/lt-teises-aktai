@@ -998,11 +998,13 @@ draudimo fondo biudžetą;
 asmenimis dėl kai kurių draudimo funkcijų atlikimo, išskyrus įmokų rinkimą;
 3) užtikrina šiame įstatyme numatytą apdraustųjų
 aprūpinimą;
-4) priima sprendimus dėl kreditinių reikalavimų,
-atsiradusių dėl įmokų, baudų ir delspinigių nesumokėjimo, vykdymo terminų
-atidėjimo arba atsiskaitymo už kreditinius reikalavimus Vyriausybės nustatyta
-tvarka turtu, akcijomis ir vertybiniais popieriais, kai bankrutuojanti įmonė
-sanuojama ar sudaroma taikos sutartis;
+4)
+priima sprendimus dėl kreditinių reikalavimų, atsiradusių dėl įmokų, baudų ir
+delspinigių nesumokėjimo, vykdymo terminų atidėjimo, kreditinių reikalavimų
+dalinio ar visiško atsisakymo arba atsiskaitymo už kreditinius reikalavimus
+Vyriausybės nustatyta tvarka turtu, akcijomis ir vertybiniais popieriais, kai
+įmonei iškelta restruktūrizavimo byla, bankrutuojanti įmonė sanuojama ar
+sudaroma taikos sutartis;
 5) įstatymų nustatyta tvarka organizuoja savanorišką
 valstybinį socialinį draudimą;
 6) kita veikla, numatyta Valstybinio socialinio
@@ -1059,8 +1061,10 @@ Nr. VIII-1086,
 99.03.16, Žin., 1999, Nr.32-900 (99.04.09)
 Nr. VIII-1188,
 99.05.18, Žin., 1999, Nr.50-1599 (99.06.09)
-Nr. IX-869, 2002-05-07,
-Žin., 2002, Nr. 52-1983 (2002-05-24)
+Nr. IX-869,
+2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
+Nr. IX-893,
+2002-05-21, Žin., 2002, Nr. 56-2226 (2002-06-07)
  
 43 straipsnis. Valstybinio socialinio draudimo fondo
 valdybos teritorinės įstaigos
@@ -1206,10 +1210,10 @@ siūlyti rejestro tvarkytojui atšaukti įmonės registravimą, jeigu ši be
 pateisinamų priežasčių nevykdo socialinio draudimo įstaigų pareigūnų
 reikalavimų dėl valstybinio socialinio draudimo įmokų mokėjimo, finansinių
 ataskaitų ir duomenų apie apdraustuosius pateikimo;
-2) areštuoti draudėjo turtą bei sąskaitas bankuose
-Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka, jeigu
-nesumokėta (nepervesta) valstybinio socialinio draudimo fondo įstaigoms įmokos,
-baudos ir delspinigiai.
+2) areštuoti draudėjo turtą bei sąskaitas bankuose Lietuvos
+Respublikos mokesčių administravimo įstatymo nustatyta tvarka, jeigu nesumokėta
+(nepervesta) valstybinio socialinio draudimo fondo įstaigoms įmokos, baudos ir
+delspinigiai.
             Draudėjų
 ir apdraustųjų pretenzijas dėl valstybinio socialinio draudimo įstaigų
 pareigūnų, vykdančių kontrolę, veiksmų sprendžia atitinkamos įstaigos vadovas
@@ -1252,8 +1256,8 @@ protokolus bylose, kurios pagal įstatymus priskirtos Valstybinio socialinio
 draudimo fondo įstaigų pareigūnų kompetencijai;
 7) pareikalauti iš draudėjo sutvarkyti buhalterinę
 apskaitą, kiek ji susijusi su valstybinio socialinio draudimo išmokomis;
-8) gauti iš draudėjo paaiškinimus dėl valstybinio socialinio
-draudimo išmokų apskaičiavimo;
+8) gauti iš draudėjo paaiškinimus dėl valstybinio
+socialinio draudimo išmokų apskaičiavimo;
 9) surašyti nustatytų pažeidimų aktus dėl valstybinio
 socialinio draudimo išmokų apskaičiavimo, žalos, padarytos Valstybinio
 socialinio draudimo fondo biudžetui, atlyginimo arba nepriemokų išmokėjimo
@@ -1381,16 +1385,16 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. I-869,
 95.04.27, Žin., 1995, Nr. 36-889 (95.05.03)
-DĖL LIETUVOS RESPUBLIKOS
-VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO
+DĖL LIETUVOS RESPUBLIKOS VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO
  
 6.
 Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. I-1024,
 95.07.05, Žin., 1995, Nr. 59-1481 (95.07.19)
-DĖL LIETUVOS RESPUBLIKOS
-VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO PAPILDYMO IR PAKEITIMO
+DĖL LIETUVOS RESPUBLIKOS VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO PAPILDYMO IR PAKEITIMO
  
 7.
 Lietuvos Respublikos Seimas,
@@ -1611,12 +1615,20 @@ liepos 1 d.
 Valstybinio socialinio draudimo
 įstatymo 44 straipsnio 1 dalis įsigalioja nuo 2002 m. spalio 1 d.
  
+28.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-893,
+2002-05-21, Žin., 2002, Nr. 56-2226 (2002-06-07)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO 42 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-05-29)
+Aušrinė Trapinskienė (2002-06-07)
                  
 autrap@lrs.lt
