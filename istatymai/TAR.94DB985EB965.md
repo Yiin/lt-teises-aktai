@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2003-01-01 iki 2004-05-10
+Suvestinė redakcija nuo 2004-05-11 iki 2007-09-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
- 
-TAR pastaba. Kooperatinės bendrovės turi suderinti savo įstatus pagal šį Įstatymą per metus nuo šio Įstatymo įsigaliojimo (2003-01-01).
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-903, 2002-05-28, Žin., 2002, Nr. 57-2296 (2002-06-12), i. k. 1021010ISTA00IX-903
-Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo pakeitimo įstatymas
  
 Nauja redakcija nuo 2003-01-01:
 Nr. IX-903, 2002-05-28, Žin. 2002, Nr. 57-2296 (2002-06-12), i. k. 1021010ISTA00IX-903
@@ -123,6 +118,49 @@ Lietuvos valstybė palaiko kooperatinį judėjimą, pripažįsta kooperatinių b
  
 
 
+
+
+
+
+31 straipsnis. Žemės ūkio kooperatinė bendrovė (kooperatyvas)
+
+
+1. Žemės ūkio kooperatinė bendrovė (kooperatyvas) – kooperatinė bendrovė (kooperatyvas), kurios daugiau kaip 70 procentų narių, įrašytų į jos narių registrą, yra fiziniai ir (ar) juridiniai asmenys, kurių pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų, o jų pajų vertė – daugiau kaip 70 procentų visų kooperatinės bendrovės (kooperatyvo) narių pajų vertės,  Vyriausybės nustatyta tvarka pripažinta žemės ūkio kooperatine bendrove (kooperatyvu).
+
+
+
+
+2. Teisę būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu) turi įstatymų ir kitų teisės aktų nustatyta tvarka įregistruota kooperatinė bendrovė (kooperatyvas). Kooperatinė bendrovė (kooperatyvas), siekianti einamaisiais kalendoriniais metais būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu), pateikia Vyriausybės įgaliotai institucijai šiuos dokumentus:
+
+
+1) kooperatinės bendrovės (kooperatyvo) registravimo pažymėjimo kopiją;
+
+
+
+
+2) kooperatinės bendrovės (kooperatyvo) narių registre esančių narių fizinių ir (ar) juridinių asmenų, kurių pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų, sąrašą ir kooperatinės bendrovės (kooperatyvo) narių registre esančių narių fizinių ir (ar) juridinių asmenų, kurių pajamos iš žemės ūkio veiklos sudaro 50 procentų arba mažiau visų gautų pajamų, sąrašą. Sąrašuose nurodomas eilės numeris, nario  fizinio asmens vardas, pavardė ir asmens kodas arba nario juridinio asmens pavadinimas ir kodas, pajaus dydis (vertė pinigais). Sąrašų pabaigoje skaičiais ir žodžiais nurodomas bendras į sąrašą įtrauktų kooperatinės bendrovės (kooperatyvo) narių skaičius ir jų pajų dydis (vertė pinigais);
+
+
+
+
+3) kiekvieno kooperatinės bendrovės (kooperatyvo) nario fizinio ar juridinio asmens, įtraukto į šios  dalies 2 punkte nurodytą pirmąjį sąrašą, pateiktą teisės aktų nustatyta tvarka patvirtintą pažymą arba deklaraciją, patvirtinančią, kad šio fizinio ar juridinio asmens pajamos, gautos praėjusiais metais iš žemės ūkio veiklos, sudarė daugiau kaip 50 procentų visų praėjusiais metais gautų pajamų.
+
+
+
+
+
+
+3. Kooperatines bendroves (kooperatyvus) pripažįsta žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) Vyriausybės įgaliota institucija. Kooperatinei bendrovei (kooperatyvui), pripažintai žemės ūkio kooperatine bendrove (kooperatyvu), išduodamas pažymėjimas. Pažymėjime nurodomi kalendoriniai metai, kuriais galioja kooperatinės bendrovės (kooperatyvo) pripažinimas žemės ūkio kooperatine bendrove (kooperatyvu). Kitais kalendoriniais metais kooperatinė bendrovė (kooperatyvas) iš naujo gali siekti būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu).
+
+
+
+
+4. Kooperatinių bendrovių (kooperatyvų) pripažinimo žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+
+Papildyta straipsniu:
+Nr. IX-2179, 2004-04-27, Žin., 2004, Nr. 78-2709 (2004-05-11), i. k. 1041010ISTA0IX-2179
+ 
 
 
 
@@ -549,7 +587,10 @@ Asmens narystė kooperatinėje bendrovėje pasibaigia:
 
 
 
-2) balsuojant turėti vieną balsą, nepaisant pajaus dydžio;
+2) balsuojant turėti vieną balsą, nepaisant pajaus dydžio. Kooperatinės bendrovės (kooperatyvo) narys turi teisę perleisti jam priklausančią balsavimo teisę kitam kooperatinės bendrovės (kooperatyvo) nariui (narių atstovui) ar trečiajam asmeniui įstatuose nustatyta tvarka;
+Straipsnio punkto pakeitimai:
+Nr. IX-2179, 2004-04-27, Žin., 2004, Nr. 78-2709 (2004-05-11), i. k. 1041010ISTA0IX-2179
+ 
 
 
 
@@ -1417,3 +1458,8 @@ Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 7 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-903, 2002-05-28, Žin., 2002, Nr. 57-2296 (2002-06-12), i. k. 1021010ISTA00IX-903
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2179, 2004-04-27, Žin., 2004, Nr. 78-2709 (2004-05-11), i. k. 1041010ISTA0IX-2179
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo papildymo 3-1 straipsniu, 11 straipsnio papildymo ir Kooperatinių bendrovių (kooperatyvų) įstatymo pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
