@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas
 
-Redagavo: Ramunė Lūžaitė (1998.01.10)
+Redagavo: Ramunė Lūžaitė (1998.12.22)
  
 Įstatymas paskelbtas: žin., 1997,
 nr.69-1743
@@ -24,17 +24,28 @@ Pakeitimai:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. VIII-544,
-97.12.02, Žin., 1997, Nr.116-2953 (97.12.19)
+Nr.
+VIII-544, 97.12.02, Žin., 1997, Nr.116-2953 (97.12.19)
 LIETUVOS
 RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14
 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. VIII-948, 98.12.03,
+Žin., 1998, Nr.111 (98.12.18)
 LIETUVOS RESPUBLIKOS
+SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAPILDYMO 12(1)
+STRAIPSNIU IR 9, 13, 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+ 
+*** Pabaiga ***
+LIETUVOS
+RESPUBLIKOS
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS
 ĮSTATYMAS
+ 
 1997 m. liepos 2 d. Nr. VIII-385
 Vilnius
 
@@ -70,9 +81,8 @@ pajamų sudėtis
  
 Savivaldybių biudžetams priskiriamos šios mokestinės
 pajamos:
-1) fizinių asmenų pajamų mokestis, atskaičius
-privalomojo sveikatos draudimo fondui pagal Sveikatos draudimo įstatymą skirtas
-lėšas;
+1) fizinių asmenų pajamų mokestis, atskaičius privalomojo
+sveikatos draudimo fondui pagal Sveikatos draudimo įstatymą skirtas lėšas;
 2) žemės mokestis;
 3) valstybinės žemės ir valstybiniam vandenų fondui
 priskirtų vandens telkinių, išnuomotų verslinei arba mėgėjiškai žūklei, nuomos
@@ -160,8 +170,8 @@ visų savivaldybių biudžetų mokestinių ir nemokestinių pajamų dydis.
 Nemokestinių pajamų dydis nustatomas kaip fiksuota mokestinių pajamų dalis
 procentais;
 3) C - planuojamų biudžetinių metų specialios
-tikslinės dotacijos iš valstybės biudžeto. Savivaldybių biudžetams skiriamos
-šios specialios tikslinės dotacijos:
+tikslinės dotacijos iš valstybės biudžeto. Savivaldybių biudžetams gali būti
+skiriamos šios specialios tikslinės dotacijos:
 a) asignavimai, skirti kompensacijoms už valstybės
 išperkamus gyvenamuosius namus, jų dalis, butus buvusiems savininkams;
 b) asignavimai kapitalo investicijoms, numatyti
@@ -171,6 +181,10 @@ kaliniams ir tremtiniams namams statyti ar pirkti;
 d) asignavimai gyvenamiesiems namams, butams statyti
 ir pirkti pagal Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymą;
 e) kitos tikslinės lėšos iš valstybės biudžeto.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-948, 98.12.03,
+Žin., 1998, Nr.111 (98.12.18)
  
 10 straipsnis. Valstybės biudžeto bendrosios
 dotacijos (D)
@@ -197,8 +211,8 @@ sudaryti dydis nustatomas kaip valstybės biudžeto bendrosios dotacijos dalis
 procentais.
 2. Valstybės biudžeto bendrosios dotacijos dalis
 rezervui nenumatytiems atvejams sudaryti (D1) skiriama toms
-savivaldybėms, kurių gautos mokestinės pajamos yra mažesnės, negu buvo
-prognozuota gauti mokestinių pajamų biudžetiniais metais.
+savivaldybėms, kurių gautos mokestinės pajamos yra mažesnės, negu buvo prognozuota
+gauti mokestinių pajamų biudžetiniais metais.
 3. Savivaldybei skiriama šios dotacijos dalis
 apskaičiuojama pagal formulę  kur:
 1) D1 - valstybės biudžeto bendrosios
@@ -240,6 +254,23 @@ savivaldybių, gaunančių dotaciją, skaičius;
 6) H - išlyginimo koeficientas, nuo kurio priklauso
 kiekvienos savivaldybės gaunamos dotacijos dalis.
  
+12(1) straipsnis. Lėšų,
+skiriamų savivaldybių prognozuojamoms                planuojamų biudžetinių
+metų pajamoms išlyginti, dydžio nustatymas
+ 
+Jei pagal šio įstatymo 9 straipsnį apskaičiuojama
+valstybės biudžeto bendroji dotacija savivaldybių mokestinėms pajamoms
+išlyginti nesusidaro arba jos dalies nepakanka mokestinėms pajamoms išlyginti
+pagal šio įstatymo 12 straipsnį, o kai kurioms savivaldybėms apskaičiuotas
+prognozuojamas planuojamų biudžetinių metų pajamų be specialių tikslinių
+dotacijų kapitalo investicijoms dydis yra mažesnis už apskaičiuotą iki
+planuojamų biudžetinių metų tokių pajamų dydį, šioms pajamoms išlyginti
+sudaromos lėšos iš fizinių asmenų pajamų mokesčio atskaitymų.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-948, 98.12.03,
+Žin., 1998, Nr.111 (98.12.18)
+ 
 13 straipsnis. Lėšų, skiriamų savivaldybių išlaidų
 struktūros
                skirtumams išlyginti, dydžio
@@ -267,14 +298,20 @@ b)  prognozuojamos visų
 savivaldybių vidutinės mokestinės pajamos vienam gyventojui;
 c) xi - prognozuojamos i-tosios
 savivaldybės mokestinės pajamos vienam gyventojui;
-d) k - koeficientas, nuo kurio priklauso
-savivaldybių, kurioms koreguojamos mokestinės pajamos, skaičius;
+d) k - koeficientas, nuo kurio priklauso savivaldybių,
+kurioms koreguojamos mokestinės pajamos, skaičius;
 e) h - išlyginimo koeficientas, nuo kurio priklauso
 kiekvienai savivaldybei koreguojamų mokestinių pajamų dalis.
-2. Valstybinė mokesčių inspekcija koreguojamą
+2. Prognozuojamos mokestinės pajamos vienam
+gyventojui apskaičiuojamos be šio įstatymo 12(1) straipsnyje nustatytų lėšų.
+3. Valstybinė mokesčių inspekcija koreguojamą
 mokestinių pajamų dalį (Pi), apskaičiuojamą kaip fizinių asmenų
 pajamų mokesčio atskirose savivaldybėse dalį procentais, perveda į valstybės
 iždo sąskaitą.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-948, 98.12.03,
+Žin., 1998, Nr.111 (98.12.18)
  
 14 straipsnis. Lėšų, skiriamų savivaldybių išlaidų
 struktūros
@@ -335,8 +372,8 @@ kurioms koreguojamos mokestinės pajamos, skaičius;
 5) išlyginimo koeficientą h, nuo kurio priklauso
 kiekvienai savivaldybei koreguojamų mokestinių pajamų dalis;
 6) koeficientus Mr, nurodančius
-demografinių, socialinių ir kitų rodiklių svarbą bendram visų savivaldybių
-biudžetų išlaidų pasikeitimui;
+demografinių, socialinių ir kitų rodiklių svarbą bendram visų savivaldybių biudžetų
+išlaidų pasikeitimui;
 7) nemokestinių pajamų dydį, kaip fiksuotą
 mokestinių pajamų dalį procentais.
  
@@ -354,9 +391,13 @@ skiriamą kiekvienai savivaldybei mokestinėms pajamoms išlyginti;
 skiriamą kiekvienai savivaldybei savivaldybių išlaidų struktūros skirtumams
 išlyginti;
 4) specialias tikslines dotacijas, skiriamas
-savivaldybėms. 
-2. Patvirtintos dotacijų sumos, nurodytos šio
-straipsnio 1 dalyje, savivaldybėms pervedamos kas mėnesį lygiomis dalimis.
+savivaldybėms;
+5) fizinių asmenų pajamų mokesčio atskaitymų dalį
+procentais, skiriamą savivaldybių pajamoms išlyginti;
+6) lėšų dalį, skiriamą kiekvienai savivaldybei
+pajamoms išlyginti.
+2. Patvirtintos dotacijų ir lėšų sumos, nurodytos
+šio straipsnio 1 dalyje, savivaldybėms pervedamos kas mėnesį lygiomis dalimis.
 3. Faktiškai įplaukusios lėšos, nurodytos 13
 straipsnio 2 dalyje, kas mėnesį savivaldybėms skiriamos 14 straipsnyje
 nustatyta tvarka.
@@ -369,6 +410,10 @@ nenumatytiems atvejams.
 priima sprendimus, dėl kurių keičiasi savivaldybių funkcijos, kartu ir
 išlaidos, ne vėliau kaip per mėnesį daromi atitinkami tarpusavio atsiskaitymai
 tarp valstybės biudžeto ir savivaldybių biudžetų.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-948, 98.12.03,
+Žin., 1998, Nr.111 (98.12.18)
  
 PENKTASS
 SKIRSNIS
