@@ -19,12 +19,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1DAB8BD6385D"
 Nr. 36-887
 Neoficialus įstatymo tekstas
  
- 
 LIETUVOS RESPUBLIKOS ĮSTATYMAS
  
-1995 m. balandžio 18 d. Nr.I-856 
+1995 m. balandžio 18 d. Nr. I-856 
 Vilnius
- 
  
 LIETUVOS AUKŠČIAUSIOJO TEISMO STATUTAS
  
@@ -76,7 +74,6 @@ Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
  
- 
             2
 straipsnis. Aukščiausiąjį Teismą sudaro Aukščiausiojo Teismo pirmininkas,
 skyrių pirmininkai ir teisėjai. Aukščiausiajame Teisme yra Baudžiamųjų bylų
@@ -88,7 +85,6 @@ Respublikos prokuratūros ir kiti įstatymai.
 Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
- 
  
             3
 straipsnis. Aukščiausiojo Teismo valdžios simboliai yra Lietuvos valstybės
@@ -103,7 +99,6 @@ Teismo buveinė yra Lietuvos Respublikos sostinėje Vilniuje.
 Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
- 
  
 II skyrius. AUKŠČIAUSIOJO TEISMO SENATAS
  
@@ -123,7 +118,6 @@ Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
  
- 
             5
 straipsnis. Aukščiausiojo Teismo
 senatas:
@@ -132,9 +126,8 @@ pagal Aukščiausiojo Teismo pirmininko teikimus. Į Senato sprendimuose esanči
 įstatymų taikymo išaiškinimus turi atsižvelgti teismai, valstybinės, kitos
 institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus;
             2)
-aprobuoja teismų sprendimus, į kurių išaiškinimus turi atsižvelgti teismai,
-valstybinės, kitos institucijos, taip pat kiti subjektai taikydami tuos pačius
-įstatymus;
+aprobuoja teismų sprendimus, į kurių išaiškinimus turi atsižvelgti teismai, valstybinės,
+kitos institucijos, taip pat kiti subjektai taikydami tuos pačius įstatymus;
             3)
 nagrinėja įstatymų taikymo teismų praktikoje apibendrinimo rezultatus;
             4)
@@ -163,7 +156,6 @@ Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
  
- 
             6
 straipsnis. Aukščiausiojo Teismo senato pirmininkui aprobuotinus teismų
 sprendimus paprastai siūlo bylą nagrinėjusi Aukščiausiojo Teismo teisėjų
@@ -179,12 +171,12 @@ Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
  
- 
             7
-straipsnis. Aukščiausiojo Teismo senato
-pirmininkas, gavęs skundų dėl teisėjų garbės teismų sprendimų, esant reikalui,
-gali pavesti Aukščiausiojo Teismo teisėjui atlikti papildomą patikrinimą. Jis
-turi būti baigtas prieš dvi savaites iki Aukščiausiojo Teismo senato posėdžio.
+straipsnis. Aukščiausiojo Teismo
+senato pirmininkas, gavęs skundų dėl teisėjų garbės teismų sprendimų, esant
+reikalui, gali pavesti Aukščiausiojo Teismo teisėjui atlikti papildomą
+patikrinimą. Jis turi būti baigtas prieš dvi savaites iki Aukščiausiojo Teismo
+senato posėdžio.
             Aukščiausiojo
 Teismo senatas, nagrinėdamas skundus dėl egzaminų komisijų išvadų, išklauso
 egzaminuotus asmenis, egzaminų komisijų pirmininkus, jeigu reikia, ir kitus
@@ -198,7 +190,6 @@ egzaminams.
 Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
- 
  
             8
 straipsnis. Aukščiausiojo Teismo senato posėdžius, išskyrus tuos, kuriuose
@@ -224,7 +215,6 @@ pakeitimai:
 Nr.
 I-1433,
 96.07.04, Žin., 1996, Nr. 67-1601 (96.07.17)
- 
  
             9
 straipsnis. Aukščiausiojo Teismo
@@ -254,7 +244,6 @@ Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
  
- 
             10
 straipsnis. Aukščiausiojo Teismo senato sekretorius organizuoja, kad
 dokumentų projektai būtų laiku parengti posėdžiui, šių dokumentų projektai ir
@@ -266,7 +255,6 @@ leidimą.
 Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
- 
  
 III skyrius. LIETUVOS AUKŠČIAUSIOJO TEISMO PIRMININKO
 IR SKYRIŲ PIRMININKŲ ĮGALIOJIMAI BEI KOMPETENCIJA
@@ -309,8 +297,8 @@ teikia Aukščiausiojo Teismo senatui teikimus dėl bylų nagrinėjimo Senate ir
 paskiria bylos pranešėją;
             9)
 teikia Aukščiausiojo Teismo senatui aprobuoti teismų sprendimus, į kuriuos turi
-atsižvelgti teismai, valstybinės ir kitos institucijos, taip pat kiti subjektai,
-taikydami tuos pačius įstatymus;
+atsižvelgti teismai, valstybinės ir kitos institucijos, taip pat kiti
+subjektai, taikydami tuos pačius įstatymus;
             10)
 teikia Aukščiausiojo Teismo senatui pritarti metodinę medžiagą apie įstatymų
 taikymo praktiką;
@@ -344,8 +332,8 @@ ir formą bei užtikrina šių žinių sistemingą kaupimą;
 kartu su teisingumo ministru nustato teismo posėdžių sekretoriaus tarnybinio
 pasižadėjimo turinį ir formą;
             21)
-teikia teikimus Teisėjų tarybai dėl Teisėjų tarybos posėdžių sušaukimo, o
-būdamas Teisėjų tarybos pirmininku, pats šaukia Teisėjų tarybos posėdžius;
+teikia teikimus Teisėjų tarybai dėl Teisėjų tarybos posėdžių sušaukimo, o būdamas
+Teisėjų tarybos pirmininku, pats šaukia Teisėjų tarybos posėdžius;
             22)
 turi teisę iškelti drausminę bylą visiems Aukščiausiojo, Apeliacinio, apygardų
 ir apylinkių teismų teisėjams;
@@ -364,7 +352,6 @@ darbo stažą turintis skyriaus pirmininkas.
 Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
- 
  
             12
 straipsnis. Aukščiausiojo Teismo
@@ -434,11 +421,10 @@ Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
  
- 
 V skyrius. AUKŠČIAUSIOJO TEISMO PIRMININKO, SKYRIŲ
-PIRMININKŲ IR TEISĖJŲ 
-SKYRIMO BEI ATLEIDIMO AR PAŠALINIMO IŠ PAREIGŲ TVARKA.
-
+PIRMININKŲ IR 
+TEISĖJŲ SKYRIMO BEI ATLEIDIMO AR PAŠALINIMO IŠ PAREIGŲ
+TVARKA. 
 AUKŠČIAUSIOJO TEISMO TEISĖJŲ ĮGALIOJIMŲ SUSTABDYMAS
  
             16
@@ -474,8 +460,8 @@ paskirtų teisėjų skiria Seimas Respublikos Prezidento teikimu.
             Skyriaus
 pirmininką atleidus iš pareigų, Aukščiausiojo Teismo pirmininkas kitą skyriaus
 pirmininko kandidatūrą pateikia svarstyti Aukščiausiojo Teismo senatui.
-Aukščiausiojo Teismo senatui pritarus, skyriaus pirmininko kandidatūra
-pateikiama Respublikos Prezidentui.
+Aukščiausiojo Teismo senatui pritarus, skyriaus pirmininko kandidatūra pateikiama
+Respublikos Prezidentui.
             Asmuo,
 Seimo paskirtas Lietuvos Aukščiausiojo Teismo pirmininku, skyriaus pirmininku,
 teisėju, pradeda eiti pareigas tik prisiekęs Seimui.
@@ -488,7 +474,6 @@ Nr. I-1395, 96.06.20,
 Žin., 1996, Nr. 64-1505 (96.07.05) 
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
- 
  
             18
 straipsnis. Lietuvos Aukščiausiojo
@@ -510,18 +495,21 @@ Teismo pirmininkas atleidžiamas iš pareigų Seimo nutarimu pagal Respublikos
 Prezidento teikimą tais pačiais pagrindais kaip ir Aukščiausiojo Teismo
 teisėjai, be to, dar ir pasibaigus įgaliojimų laikui.
             Aukščiausiojo Teismo
-teisėjai ir skyrių pirmininkai atleidžiami iš pareigų Seimo nutarimu pagal Respublikos
-Prezidento teikimą, pasiūlius Aukščiausiojo Teismo pirmininkui.
+teisėjai ir skyrių pirmininkai atleidžiami iš pareigų Seimo nutarimu pagal
+Respublikos Prezidento teikimą, pasiūlius Aukščiausiojo Teismo pirmininkui.
 Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
  
- 
-            19
-straipsnis. Aukščiausiojo Teismo pirmininką, skyrių pirmininkus ir teisėjus
-už šiurkštų Lietuvos Respublikos Konstitucijos pažeidimą arba priesaikos
-sulaužymą, taip pat paaiškėjus, jog padarytas nusikaltimas, Seimas gali
-pašalinti iš pareigų apkaltos proceso tvarka. 
+19 straipsnis.
+Aukščiausiojo Teismo pirmininką, skyrių pirmininkus ir teisėjus už šiurkštų
+Lietuvos Respublikos Konstitucijos pažeidimą arba priesaikos sulaužymą, taip
+pat paaiškėjus, jog padaryta nusikalstama veika, Seimas gali pašalinti iš
+pareigų apkaltos proceso tvarka.
+Straipsnio pakeitimai:
+Nr.
+IX-1445,
+2003-04-03, Žin., 2003, Nr. 38-1690 (2003-04-24)
  
             20
 straipsnis. Aukščiausiojo Teismo teisėjai ir skyrių pirmininkai atsako
@@ -537,14 +525,13 @@ Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
  
- 
 VI skyrius. AUKŠČIAUSIOJO TEISMO TEISĖJŲ STATUSAS
 IR NEPRIKLAUSOMUMO GARANTIJOS
  
             21
 straipsnis. Teisėjas ir teismas,
-vykdydamas teisingumą, yra nepriklausomi. Teisėjai, nagrinėdami bylas, klauso
-tik įstatymo.
+vykdydamas teisingumą, yra nepriklausomi. Teisėjai, nagrinėdami bylas, klauso tik
+įstatymo.
             Priimdamas
 sprendimą teismas vadovaujasi tais įstatymais, kurie neprieštarauja Lietuvos
 Respublikos Konstitucijai, įstatymams neprieštaraujančiais Vyriausybės
@@ -560,9 +547,9 @@ iki Teismo pastato ir Teisme, jeigu jais siekiama paveikti teisėją arba teism�
 yra baudžiami kaip kišimasis į teisėjų ar teismo veiklą. 
  
             22
-straipsnis. Teisėjas negali būti
-patrauktas baudžiamojon atsakomybėn, suimtas, negali būti kitaip suvaržyta jo
-laisvė be Seimo, o tarp Seimo sesijų - be Respublikos Prezidento sutikimo.
+straipsnis. Teisėjas negali būti patrauktas
+baudžiamojon atsakomybėn, suimtas, negali būti kitaip suvaržyta jo laisvė be
+Seimo, o tarp Seimo sesijų - be Respublikos Prezidento sutikimo.
             Baudžiamąją
 bylą teisėjui gali iškelti tik generalinis prokuroras.
             Jeigu teisėjui
@@ -570,9 +557,9 @@ iškeliama baudžiamoji byla, jo įgaliojimus sustabdo Seimas, o tarp Seimo sesi
 - Respublikos Prezidentas. Teisėjo įgaliojimai sustabdomi iki nuosprendžio
 baudžiamojoje byloje įsiteisėjimo.
             Teisėjas
-negali būti patrauktas administracinėn atsakomybėn. Jeigu teisėjas padaro
-administracinį teisės pažeidimą, Aukščiausiojo Teismo pirmininkas sprendžia
-drausminės bylos iškėlimo klausimą. 
+negali būti patrauktas administracinėn atsakomybėn. Jeigu teisėjas padaro administracinį
+teisės pažeidimą, Aukščiausiojo Teismo pirmininkas sprendžia drausminės bylos
+iškėlimo klausimą. 
  
             23
 straipsnis. Aukščiausiojo Teismo
@@ -581,7 +568,7 @@ metus ėjo šias pareigas. Ši pensija yra skiriama asmeniui, sulaukusiam senatv
 pensijos amžiaus arba pripažintam I ar II grupės invalidu. Pensija negali būti
 skiriama, o paskirtoji turi būti panaikinama, jeigu Aukščiausiojo Teismo
 pirmininkas atleistas iš pareigų apkaltos tvarka arba po atleidimo iš pareigų
-buvo teistas už tyčinio nusikaltimo padarymą.
+buvo teistas už tyčinės nusikalstamos veikos padarymą.
             Aukščiausiojo
 Teismo teisėjų pensinį aprūpinimą reguliuoja Lietuvos Respublikos valstybinių
 pensijų įstatymas ir kiti įstatymai.
@@ -589,6 +576,10 @@ pensijų įstatymas ir kiti įstatymai.
 Teismo teisėjų invalidumo pensijos ir pensijos dėl sužeidimo (suluošinimo) ar
 profesinio susirgimo skiriamos pagal Lietuvos Respublikos prokuratūros prie
 Lietuvos Aukščiausiojo Teismo pensijų skyrimo ir mokėjimo nuostatas. 
+Straipsnio pakeitimai:
+Nr.
+IX-1445,
+2003-04-03, Žin., 2003, Nr. 38-1690 (2003-04-24)
  
             24
 straipsnis. Aukščiausiojo Teismo
@@ -606,8 +597,8 @@ teisėjui mirus, tokio pat dydžio pašalpa išmokama jo šeimai. Kai Aukščiau
 Teismo teisėjas atleidžiamas iš pareigų savo noru, išrinkus į kitas pareigas ar
 jo sutikimu perkėlus į kitą darbą, jam išmokama 2 mėnesių jo vidutinio darbo
 užmokesčio dydžio išeitinė pašalpa. Teisėjui, pašalintam iš pareigų apkaltos
-proceso tvarka arba atleistam įsiteisėjus teisėją apkaltinusiam teismo
-nuosprendžiui arba pažeminus teisėjo vardą, išeitinė pašalpa nemokama. 
+proceso tvarka arba atleistam įsiteisėjus teisėją apkaltinusiam teismo nuosprendžiui
+arba pažeminus teisėjo vardą, išeitinė pašalpa nemokama. 
  
             26
 straipsnis. Aukščiausiojo Teismo teisėjui žuvus dėl priežasčių, susijusių
@@ -696,7 +687,6 @@ Straipsnio pakeitimai:
 Nr. I-1433, 96.07.04,
 Žin., 1996, Nr. 67-1601 (96.07.17)
  
- 
 31 straipsnis.
 Aukščiausiojo Teismo teisėjo atlyginimą už darbą sudaro pagal koeficientą
 nustatomas tarnybinis atlyginimas, priemoka už teisėjo ištarnautus metus ir
@@ -712,7 +702,6 @@ sąlygos, kitiems darbuotojams taikoma Lietuvos Respublikos valstybės tarnybos
 Straipsnio pakeitimai:
 Nr. IX-265, 2001 04 19, Žin., 2001, Nr.
 39-1336 (2001 05 09)
- 
  
             32
 straipsnis. Aukščiausiojo Teismo
@@ -739,7 +728,7 @@ nepriklausomumo garantijų.
 RESPUBLIKOS
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
  
-____________
+_________________
  
 Pakeitimai:
 
@@ -787,10 +776,24 @@ Nr. IX-265, 2001 04 19, Žin., 2001, Nr.
 LIETUVOS AUKŠČIAUSIOJO
 TEISMO STATUTO 31 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1445,
+2003-04-03, Žin., 2003, Nr. 38-1690 (2003-04-24)
+LIETUVOS
+AUKŠČIAUSIOJO TEISMO STATUTO 19 IR 23 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja kartu su
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+2003 m. gegužės 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė
-Trapinskienė (2001 05 11)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2003-05-09)
+                 
+autrap@lrs.lt
 
