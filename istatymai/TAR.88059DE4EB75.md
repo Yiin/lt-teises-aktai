@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.88059DE4EB75"
 
 # Lietuvos Respublikos baudžiamojo kodekso, patvirtinto 2000 m. rugsėjo 26 d. įstatymu Nr. VIII-1968, Baudžiamojo proceso kodekso, patvirtinto 2002 m. kovo 14 d. įstatymu Nr. IX-785, ir Bausmių vykdymo kodekso, patvirtinto 2002 m. birželio 27 d. įstatymu Nr. IX-994, įsigaliojimo ir įgyvendinimo tvarkos įstatymas
 
+Suvestinė redakcija nuo 2003-04-24 iki 2003-07-08
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 112-4970, i. k. 1021010ISTA0IX-1162
+ 
+ 
 LIETUVOS RESPUBLIKOS
 BAUDŽIAMOJO KODEKSO, PATVIRTINTO 2000 M. RUGSĖJO 26 D. ĮSTATYMU NR. VIII-1968, BAUDŽIAMOJO PROCESO KODEKSO, PATVIRTINTO 2002 M. KOVO 14 D. ĮSTATYMU NR. IX-785, IR BAUSMIŲ VYKDYMO KODEKSO,  PATVIRTINTO 2002 M. BIRŽELIO 27 D. ĮSTATYMU NR. IX-994,  ĮSIGALIOJIMO IR ĮGYVENDINIMO TVARKOS
 Į S T A T Y M A S
@@ -277,7 +282,10 @@ Asmenims, pagal senojo Baudžiamojo kodekso 531 straipsnį atleistiems nuo baud�
 13 straipsnis. Baudžiamosios atsakomybės senaties taikymas
 
 
-1. Asmenims, padariusiems nusikalstamą veiką ar nuteistiems iki 2003 m. gegužės 1 d., apkaltinamojo nuosprendžio priėmimo ar apkaltinamojo nuosprendžio vykdymo senatis nustatoma vadovaujantis naujojo Baudžiamojo kodekso 3, 95 ir 96 straipsnių taisyklėmis.
+1. Asmenims, padariusiems nusikalstamą veiką ar nuteistiems iki 2003 m. gegužės 1 d., apkaltinamojo nuosprendžio priėmimo ar apkaltinamojo nuosprendžio vykdymo senatis nustatoma vadovaujantis arba naujojo Baudžiamojo kodekso 3, 95 ir 96 straipsnių taisyklėmis, – kai senaties terminai pagal naujojo Baudžiamojo kodekso nuostatas yra tokie patys ar trumpesni, arba senojo Baudžiamojo kodekso 7, 49 ir 50 straipsnių taisyklėmis, – kai senaties terminai pagal naujojo Baudžiamojo kodekso nuostatas yra ilgesni. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1498, 2003-04-10, Žin., 2003, Nr. 38-1736 (2003-04-24), i. k. 1031010ISTA0IX-1498
+ 
 
 
 
@@ -662,13 +670,20 @@ Pagal Operatyvinės veiklos įstatymą surinkta informacija, kuri baudžiamojoje
 
 
 
-36 straipsnis. Bylos perdavimas nagrinėti teisiamajame posėdyje
+36 straipsnis. Teismingumo taisyklių taikymas ir bylos perdavimas nagrinėti teisiamajame posėdyje
 
 
-Įsigaliojus naujajam Baudžiamojo proceso kodeksui, teisme esančios bylos, kurių atidavimo teismui klausimas dar neišspręstas, teismui perduodamos pagal naujojo Baudžiamojo proceso kodekso taisykles, o jau atiduotų teismui bylų perdavimo teismui klausimas iš naujo nesprendžiamas.
+1. Byloms, kurios teismui su kaltinamąja išvada buvo atsiųstos (perduotos) iki naujojo Baudžiamojo proceso kodekso įsigaliojimo, taikomos senajame Baudžiamojo proceso kodekse nustatytos teismingumo taisyklės.
+
+
+
+
+2. Įsigaliojus naujajam Baudžiamojo proceso kodeksui, teisme esančios bylos, kurių atidavimo teismui klausimas dar neišspręstas, teismui perduodamos pagal naujojo Baudžiamojo proceso kodekso taisykles, išskyrus šio straipsnio 1 dalyje numatytą išimtį, o jau atiduotų teismui bylų perdavimo teismui klausimas iš naujo nesprendžiamas.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1498, 2003-04-10, Žin., 2003, Nr. 38-1736 (2003-04-24), i. k. 1031010ISTA0IX-1498
  
-
-
 
 
 
@@ -961,3 +976,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1498, 2003-04-10, Žin., 2003, Nr. 38-1736 (2003-04-24), i. k. 1031010ISTA0IX-1498
+Lietuvos Respublikos baudžiamojo kodekso, patvirtinto 2000 m. rugsėjo 26 d. įstatymu Nr. VIII-1968, Baudžiamojo proceso kodekso, patvirtinto 2002 m. kovo 14 d. įstatymu Nr. IX-785, ir Bausmių vykdymo kodekso, patvirtinto 2002 m. birželio 27 d. įstatymu Nr. IX-994, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 13 ir 36 straipsnių pakeitimo įstatymas
