@@ -116,8 +116,9 @@ Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
  
  
-7 straipsnis. Apskrities viršininko įgaliojimai
-švietimo, kultūros ir socialiniais klausimais
+            7 straipsnis.
+Apskrities viršininko įgaliojimai švietimo, kultūros ir socialiniais 
+klausimais
             Apskrities
 viršininkas:
             1)
@@ -150,8 +151,10 @@ Nr. VIII-471,
 97.10.21, Žin., 1997, Nr.101-2549 (97.11.07)
  
  
-8 straipsnis. Apskrities viršininko
-įgaliojimai sveikatos priežiūros ir farmacinės veiklos klausimais
+            8
+straipsnis. Apskrities viršininko įgaliojimai sveikatos priežiūros ir
+farmacinės 
+veiklos klausimais
             1.
 Apskrities viršininkas:
             1)
@@ -189,7 +192,8 @@ Nr. VIII-300,
  
 9
 straipsnis. Apskrities viršininko įgaliojimai teritorijos planavimo ir
-paminklotvarkos klausimais
+paminklotvarkos 
+klausimais
 Apskrities
 viršininkas:
 1) organizuoja
@@ -207,16 +211,6 @@ dokumentams;
 5) nustatyta
 tvarka atlieka savivaldybių teritorijų planavimo, statinių projektavimo,
 statybos, atidavimo naudoti, naudojimo ir griovimo valstybinę priežiūrą;
- 
-[5 punkto redakcija nuo 2001 m.
-rugpjūčio 1 d.:
-5) nustatyta
-tvarka atlieka savivaldybių teritorijų planavimo, statinių projektavimo,
-statybos, pripažinimo tinkamais naudoti, naudojimo ir griovimo valstybinę
-priežiūrą, išduoda leidimus statyti, rekonstruoti, remontuoti ar griauti
-ypatingos svarbos statinius (pagal Vyriausybės įgaliotos institucijos
-patvirtintą sąrašą);]
- 
 6) nustatyta
 tvarka prižiūri teritorijos planavimą;
 7) koordinuoja
@@ -237,10 +231,14 @@ Nr. VIII-1991, 2000 10 10, Žin., 2000, Nr.
 89-2752 (2000 10 25), įsigalioja nuo 2001 08 01
 Nr. IX-135, 2000 12 23, Žin., 2000, Nr.
 113-3622 (2000 12 30)
+Nr.
+IX-471,
+2001-07-12, Žin., 2001, Nr. 66-2412 (2001-08-01)
  
  
 10
-straipsnis. Apskrities viršininko įgaliojimai žemėtvarkos ir žemės ūkio klausimais
+straipsnis. Apskrities viršininko įgaliojimai žemėtvarkos ir žemės ūkio
+klausimais
 Apskrities
 viršininkas:
 1) tvarko laisvos valstybinės
@@ -283,7 +281,8 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
  
  
 11 straipsnis. Apskrities viršininko
-įgaliojimai gamtos išteklių naudojimo ir aplinkos apsaugos klausimais 
+įgaliojimai gamtos išteklių naudojimo ir aplinkos 
+apsaugos klausimais 
 Apskrities viršininkas:
 1) organizuoja veiklą apskričiai priskirtose saugomose
 teritorijose ir dalyvauja valdant kitas valstybės saugomas teritorijas
@@ -444,8 +443,9 @@ IV skyrius
 APSKRITIES VIRŠININKO SANTYKIAI SU SAVIVALDOS
 IR VALSTYBĖS VALDYMO INSTITUCIJOMIS
  
-16 straipsnis. Apskrities viršininko
-santykiai su savivaldos ir valstybės valdymo institucijomis
+            16
+straipsnis. Apskrities viršininko santykiai su savivaldos ir valstybės valdymo 
+institucijomis
 Apskrities viršininkas, įgyvendindamas jam priskirtas
 funkcijas ir vykdydamas Lietuvos Respublikos įstatymus, Respublikos Prezidento
 dekretus ir Vyriausybės nutarimus bei kitus teisės aktus, bendradarbiauja su
@@ -688,14 +688,21 @@ APSKRITIES VALDYMO
 Pakeistas įstatymo
 įsigaliojimas:
 Šis įstatymas įsigalioja nuo 2001 m. rugpjūčio 1 d.
- 
-                Pakeitimai:
-1)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-135, 2000 12 23, Žin., 2000, Nr.
 113-3622 (2000 12 30)
 APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO
 PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Įstatymai : VIII-1991
+ir IX-135 neteko galios nuo 2001 m. rugpjūčio 1 d.:
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-471,
+2001-07-12, Žin., 2001, Nr. 66-2412 (2001-08-01)
+APSKRITIES VALDYMO ĮSTATYMO 9
+STRAIPSNIO PAKEITIMO ĮSTATYMO IR APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO
+PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIAIS
+GALIOS ĮSTATYMAS
  
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -704,11 +711,12 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 APSKRITIES VALDYMO ĮSTATYMO 5, 10, 12, 13, 16, 17, 19, 20 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+***
+Pabaiga ***
  
-*** Pabaiga ***
  
- 
-Redagavo: Aušrinė
-Trapinskienė (2001 01 02)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2001-08-16)
+                
+ autrap@lrs.lt
 
