@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 1996-01-05 iki 1996-09-05
+Suvestinė redakcija nuo 1996-09-06 iki 1996-10-15
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
  
@@ -1258,9 +1258,11 @@ Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010IST
 
 
 
-4. Susirinkimo nutarimai priimami paprasta dalyvaujančių susirinkime akcininkų balsų dauguma, išskyrus šio įstatymo numatytus atvejus, kurių nutarimams reikia ne mažiau kaip 2/3 dalyvaujančiųjų balsų: pagal 10 straipsnio dešimtąją dalį, 19 straipsnio trečiosios dalies 1, 5, 6, 7, 9 punktus, 31 straipsnio trečiąją dalį ir 48 straipsnio pirmosios dalies 6 punktą.
+4. Susirinkimo nutarimai priimami paprasta dalyvaujančių susirinkime akcininkų balsų dauguma, išskyrus šio įstatymo numatytus atvejus, kurių nutarimams reikia ne mažiau kaip 2/3 dalyvaujančiųjų balsų: pagal 10 straipsnio 10 dalį, 19 straipsnio 3 dalies 1, 5, 6, 7, 9 punktus, 31 straipsnio 3 dalį, 45 straipsnio 2 dalies 4 punktą ir 48 straipsnio 1 dalies 6 punktą.
+TAR pastaba. 4 dalies redakcija, galiojanti iki 1997-04-01.
 Straipsnio dalies pakeitimai:
 Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+Nr. I-1504, 1996-08-22, Žin., 1996, Nr. 84-2003 (1996-09-06), i. k. 0961010ISTA00I-1504
  
 
 
@@ -2675,9 +2677,18 @@ Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010IST
 
 
 
-3) perduotas turtas už įsiskolinimus valstybės ar savivaldybių biudžetams.
+3) perduotas turtas už įsiskolinimus valstybės ar savivaldybių biudžetams;
 Papildyta straipsnio punktu:
 Nr. I-1160, 1995-12-28, Žin., 1996, Nr. 1-4 (1996-01-05), i. k. 0951010ISTA00I-1160
+ 
+
+
+
+
+4) Vyriausybės nustatyta tvarka ir pagal patvirtintą įmonių sąrašą perduotas turtas (gamybinės ir inžinerinės infrastruktūros objektai, statiniai, įrenginiai, įrengimai, socialiniai objektai) valstybės ar savivaldybių nuosavybėn jų funkcijoms vykdyti. 
+TAR pastaba. 4 punkto redakcija, galiojanti iki 1997-04-01.
+Papildyta straipsnio punktu:
+Nr. I-1504, 1996-08-22, Žin., 1996, Nr. 84-2003 (1996-09-06), i. k. 0961010ISTA00I-1504
  
 
 
@@ -2686,29 +2697,24 @@ Nr. I-1160, 1995-12-28, Žin., 1996, Nr. 1-4 (1996-01-05), i. k. 0951010ISTA00I-
 
 
 3. Įstatinis kapitalas gali būti sumažinamas tik šiais būdais:
-
-
 1) sumažinant akcijų nominalias vertes;
-
-
-
-
 2) anuliuojant akcijas.
-
-
-
-
 Bendrovė, mažindama įstatinį kapitalą, pirmiausia turi anuliuoti turimas savo akcijas. Visų akcijų nominali vertė mažinama proporcingai, o visų akcininkų turimų akcijų skaičius – proporcingai jų nominaliai vertei.
-
-
+Perduodant turtą pagal šio straipsnio 2 dalies 4 punktą, visuotiniame akcininkų susirinkime priimamas nutarimas, kuriame nurodoma, kurių akcininkų ir kiek jų akcijų anuliuojama, jei šie akcininkai su tuo sutinka. 
+TAR pastaba. 3 dalies redakcija, galiojanti iki 1997-04-01.
 Straipsnio dalies pakeitimai:
 Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+Nr. I-1504, 1996-08-22, Žin., 1996, Nr. 84-2003 (1996-09-06), i. k. 0961010ISTA00I-1504
  
 
 
 
 
-4. Nutarimas sumažinti įstatinį kapitalą turi būti viešai paskelbtas 3 kartus ne trumpesniais kaip 30 dienų intervalais arba praneštas kiekvienam bendrovės akcininkui ir kreditoriui.
+4. Nutarimas sumažinti įstatinį kapitalą turi būti viešai paskelbtas 3 kartus ne trumpesniais kaip 30 dienų intervalais arba praneštas kiekvienam bendrovės akcininkui ir kreditoriui. Šios taisyklės netaikomos, kai sprendimai priimami pagal šio straipsnio 2 dalies 4 punktą, jei gautas kiekvieno kreditoriaus raštiškas sutikimas. 
+TAR pastaba. 4 dalies redakcija, galiojanti iki 1997-04-01.
+Straipsnio dalies pakeitimai:
+Nr. I-1504, 1996-08-22, Žin., 1996, Nr. 84-2003 (1996-09-06), i. k. 0961010ISTA00I-1504
+ 
 
 
 
@@ -2731,7 +2737,10 @@ Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010IST
 
 
 
-8. Bendrovė, sumažinusi savo įstatinį kapitalą, gali akcininkams grąžinti įnašus ar jų dalį arba atleisti akcininkus nuo dar neįmokėtų įnašų (dalies įnašų) už pasirašytas akcijas (padidinti jau įmokėtų įnašų vertes). Sumažinus įstatinį kapitalą, akcininkams gali būti išmokama tik pinigais, jeigu bendrovės įstatuose ar akcijų pasirašymo sutartyje nenustatyta kitokia tvarka.
+8. Bendrovė, sumažinusi savo įstatinį kapitalą, gali akcininkams grąžinti įnašus ar jų dalį arba atleisti akcininkus nuo dar neįmokėtų įnašų (dalies įnašų) už pasirašytas akcijas (padidinti jau įmokėtų įnašų vertes). Sumažinus įstatinį kapitalą, su akcininkais gali būti atsiskaitoma tik pinigais, jeigu bendrovės įstatuose ar akcijų pasirašymo sutartyje nenustatyta kita tvarka, išskyrus atvejus, kai sprendimai priimami pagal šio straipsnio 2 dalies 4 punktą.
+TAR pastaba. 8 dalies redakcija, galiojanti iki 1997-04-01.
+Straipsnio dalies pakeitimai:
+Nr. I-1504, 1996-08-22, Žin., 1996, Nr. 84-2003 (1996-09-06), i. k. 0961010ISTA00I-1504
  
 
 
@@ -3057,3 +3066,8 @@ Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1160, 1995-12-28, Žin., 1996, Nr. 1-4 (1996-01-05), i. k. 0951010ISTA00I-1160
 Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 45 straipsnio laikino papildymo
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1504, 1996-08-22, Žin., 1996, Nr. 84-2003 (1996-09-06), i. k. 0961010ISTA00I-1504
+Lietuvos Respublikos akcinių bendrovių įstatymo 20, 45 straipsnių pakeitimo ir papildymo laikinasis įstatymas
