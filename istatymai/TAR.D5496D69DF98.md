@@ -605,13 +605,7 @@ organizacijoms jų atstovybėms įkurti;
 3)
 parduodant užsienio valstybėje esantį nekilnojamąjį turtą;
 4)
-parduodant Vyriausybės nustatyta tvarka tarnybines gyvenamąsias patalpas šių
-patalpų nuomininkams, jeigu patalpos tampa nereikalingos institucijų, valdančių
-jas nuosavybės ar patikėjimo teise, darbuotojams (tarnautojams) apgyvendinti
-dėl šių darbo pobūdžio. Tokios tarnybinės gyvenamosios patalpos parduodamos
-rinkos kaina, atskaičius nuomininko įdėtas lėšas valstybei ar savivaldybei
-įgyjant šias tarnybines gyvenamąsias patalpas bei jų pagerinimo išlaidas,
-nuomininko padarytas pagal Civilinį kodeksą;
+(neteko galios nuo 2003 m. gegužės 14 d.);
 5)
 kitais įstatymų nustatytais būdais.
 2.
@@ -627,6 +621,9 @@ pagrindų įstatymą.
 gali būti perduotas valstybės arba kitos savivaldybės nuosavybėn, kai yra
 atitinkamai Vyriausybės ar jos įgaliotos institucijos arba kitos savivaldybės
 tarybos sutikimas.
+Straipsnio pakeitimai:
+Nr. IX-1548,
+2003-04-29, Žin., 2003, Nr. 47-2065 (2003-05-14)
  
 18
 straipsnis. Valstybės ir savivaldybių turto mainai
@@ -755,10 +752,10 @@ asmenų veikos, jei yra įsiteisėjęs prokuroro nutarimas ar ikiteisminio tyrim
 teisėjo sprendimas dėl ikiteisminio tyrimo nutraukimo arba teismo ar teisėjo
 nutarimai nutraukti administracinio teisės pažeidimo bylą;
 7)
-jis trukdo statyti naujus statinius arba rekonstruoti esamus statinius ar
-teritorijas. Ši nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus
-nekilnojamąsias kultūros vertybes, nustatyta tvarka suderinus naujos statybos
-ar rekonstravimo projektą;
+jis trukdo statyti naujus statinius arba rekonstruoti esamus statinius ar teritorijas.
+Ši nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus nekilnojamąsias
+kultūros vertybes, nustatyta tvarka suderinus naujos statybos ar rekonstravimo
+projektą;
 8)
 nelieka kur jį pritaikyti.
 2.
@@ -793,10 +790,10 @@ savivaldybės nematerialųjį, ilgalaikį ir trumpalaikį materialųjį turtą,
 išskyrus šio Įstatymo 22 straipsnio 1 dalies 6 punkte nurodytą atvejį, galima
 šiais būdais:
 1)
-perduodant patikėjimo teise iš vienos valstybės ar savivaldybių institucijos,
-valstybės ar savivaldybės įstaigos ar organizacijos kitai tokiai institucijai,
-įstaigai ar organizacijai, taip pat šio Įstatymo 9 straipsnio 4 dalyje bei 11
-straipsnio 3 dalyje nurodytiems asmenims;
+perduodant patikėjimo teise iš vienos valstybės ar savivaldybių institucijos, valstybės
+ar savivaldybės įstaigos ar organizacijos kitai tokiai institucijai, įstaigai
+ar organizacijai, taip pat šio Įstatymo 9 straipsnio 4 dalyje bei 11 straipsnio
+3 dalyje nurodytiems asmenims;
 2)
 perduodant pagal panaudos sutartį viešosioms įstaigoms, veikiančioms pagal
 Viešųjų įstaigų įstatymą, kai bent vienas iš jų steigėjų yra valstybės ar
@@ -963,9 +960,9 @@ IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO
 Nauja įstatymo redakcija
 Šio Įstatymo 1 straipsnyje
 išdėstyto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo
-įstatymo 13 straipsnio 3 dalies ir 14 straipsnio 5 dalies nuostatos dėl neatlyginimo
-už perduoto turto pagerinimą netaikomos sutartims, kurios buvo sudarytos iki
-šio Įstatymo įsigaliojimo.
+įstatymo 13 straipsnio 3 dalies ir 14 straipsnio 5 dalies nuostatos dėl
+neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo
+sudarytos iki šio Įstatymo įsigaliojimo.
  
 8.
 Lietuvos
@@ -981,11 +978,21 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr.
 37-1341), t.y. nuo 2003 m. gegužės 1 d.
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1548,
+2003-04-29, Žin., 2003, Nr. 47-2065 (2003-05-14)
+VALSTYBĖS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 17
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-04-30)
+Aušrinė Trapinskienė (2003-05-21)
                  
 autrap@lrs.lt
