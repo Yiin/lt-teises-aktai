@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.62AC77FBC51D"
 
 # Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas
 
-Suvestinė redakcija nuo 1998-07-01 iki 1998-10-13
+Suvestinė redakcija nuo 1998-10-14 iki 1998-11-12
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 55-1351, i. k. 0951010ISTA000I-938
  
@@ -178,6 +178,10 @@ Pareigūnai, paskleidę tikrinimo metu sužinotas įmonės komercines paslaptis,
 Jeigu įmonė buvo įsteigta (registruota) arba buvo investuotas užsienio kapitalas iki 1993 m. gruodžio 31 d., tai jos pelno (pajamų) dalis (proporcinga užsienio investicijos daliai įmonės įstatiniame (nuosavame) kapitale), tenkanti šiai užsienio investicijai ir nepanaudota darbo užmokesčiui, taip pat reinvestuota įmonėje, penkerius metus nuo įplaukų gavimo dienos apmokestinama 70 procentų mažesniu pelno (pajamų) mokesčiu. Šiam terminui pasibaigus, užsienio investicijai tenkanti pelno (pajamų) dalis trejus metus apmokestinama 50 procentų mažesniu pelno (pajamų) mokesčiu.
 
 Jei įmonė buvo įsteigta (registruota) arba buvo investuotas užsienio kapitalas nuo 1994 m. sausio 1 d. iki šio įstatymo įsigaliojimo dienos, tai pelno (pajamų) dalis, tenkanti užsienio investicijai, šešerius metus apmokestinama 50 procentų mažesniu pelno (pajamų) mokesčiu.
+
+Jeigu investuotojas (investuotojai) po 1998 m. spalio 1 d. per 3 metus (36 kalendorinius mėnesius) investavo į Lietuvos Respublikoje įregistruotą įmonę ne mažiau kaip 200 mln. Lt, Vyriausybė investuotojo (investuotojų) pageidavimu turi sudaryti su investuotoju (investuotojais) investicijų sutartį, kurioje būtų numatyta, kad šiai įmonei 5 metus nuo investavimo momento nebus didinami įmonės mokamų tiesioginių mokesčių tarifai (Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio 1 dalyje išvardyti mokesčiai, išskyrus pridėtinės vertės mokestį ir akcizą), nustatyti investavimo momentu galiojusiuose atitinkamuose mokesčių įstatymuose. Vyriausybė turi teisę strateginiams investuotojams mokesčių nedidinimo terminą pratęsti iki 10 metų. Investavimo tvarką nustato Vyriausybė.
+Papildyta straipsnio dalimi:
+Nr. VIII-868, 1998-09-29, Žin., 1998, Nr. 90-2484 (1998-10-14), i. k. 0981010ISTAVIII-868
  
 
 13 straipsnis. Įmonių mokesčių lengvatos
@@ -272,4 +276,9 @@ Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-628, 1998-02-17, Žin., 1998, Nr. 25-631 (1998-03-13), i. k. 0981010ISTAVIII-628
 Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 14 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-868, 1998-09-29, Žin., 1998, Nr. 90-2484 (1998-10-14), i. k. 0981010ISTAVIII-868
+Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 12 straipsnio papildymo įstatymas
 
