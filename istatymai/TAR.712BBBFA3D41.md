@@ -20,8 +20,6 @@ Redagavo: Ramun? L??ait? (1997
 
 Įstatymas
 skelbtas: Žin., 1990, Nr. 24-596
-Nauja
-įstatymo redakcija skelbta: Žin., 2000, Nr. 61-1826
 Neoficialus
 įstatymo tekstas
  
@@ -61,8 +59,7 @@ padengti.
 - valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
 įstatyme nustatyta lėšų suma, kurią asignavimų valdytojas turi teisę gauti iš
 biudžete sukauptų lėšų, pateikęs paraišką Valstybės iždą tvarkančiai
-institucijai arba savivaldybių administracijai, patvirtintoms programoms
-finansuoti.
+institucijai arba savivaldybių administracijai, patvirtintoms programoms finansuoti.
 3. Bendroji
 dotacija - valstybės biudžeto asignavimai savivaldybių biudžetams jų
 mokestinėms pajamoms išlyginti, išlaidų struktūros skirtumams, kuriuos lemia
@@ -134,9 +131,9 @@ sveikatos draudimo fondą, Privatizavimo fondą, Valstybės įmonės Ignalinos
 atominės elektrinės eksploatavimo nutraukimo fondą. Kelių fondas,
 kaip specialioji programa, pradedamas perskirstyti per nacionalinį biudžetą nuo
 2002 m. sausio 1 d.
-4. Valstybės biudžete apskaitomos ir kitos specialiųjų
-programų išlaidoms apmokėti (išskyrus priskiriamas valstybės biudžeto pajamoms)
-įstatymų patvirtintų šaltinių lėšos.
+4. Valstybės biudžete apskaitomos ir kitos
+specialiųjų programų išlaidoms apmokėti (išskyrus priskiriamas valstybės
+biudžeto pajamoms) įstatymų patvirtintų šaltinių lėšos.
  
 4 straipsnis. Asignavimų valdytojai
 1. Valstybės biudžeto asignavimų valdytojai yra valstybės institucijų ir
@@ -167,8 +164,8 @@ savivaldybių biudžetų, rengimą ir vykdymą;
 4) teikti finansinę ir kitą atskaitomybę Vyriausybės arba jos įgaliotos
 institucijos nustatyta tvarka;
 5) kontroliuoti ir vykdyti savo
-turtinius įsipareigojimus, atlikti pavaldžių institucijų finansinės atskaitomybės
-analizę;
+turtinius įsipareigojimus, atlikti pavaldžių institucijų finansinės
+atskaitomybės analizę;
 6) užtikrinti vadovaujamos institucijos finansinių ir statistinių
 ataskaitų teisingumą;
 7) užtikrinti programų vykdymo ir paskirtų asignavimų naudojimo
@@ -178,9 +175,9 @@ biudžeto asignavimų valdytojai rengia darbuotojų skaičiaus normatyvus ir
 suderinę su Finansų ministerija, jeigu įstatymai nenustato kitaip, tvirtina
 juos pavaldžių institucijų programoms vykdyti.
 3. Savivaldybių biudžetų
-asignavimų valdytojai rengia šio straipsnio 2 dalyje nurodytus normatyvus, jeigu
-jie nėra nustatyti teisės aktų, ir suderinę su savivaldybės administracija
-tvirtina juos programoms vykdyti. 
+asignavimų valdytojai rengia šio straipsnio 2 dalyje nurodytus normatyvus,
+jeigu jie nėra nustatyti teisės aktų, ir suderinę su savivaldybės
+administracija tvirtina juos programoms vykdyti. 
  
 6 straipsnis. Asignavimų valdytojų teisės
 Valstybės biudžeto ir savivaldybės biudžeto asignavimų valdytojas turi
@@ -195,9 +192,9 @@ asignavimų paprastosioms išlaidoms, iš jų - darbo užmokesčiui, sumų. Asig
 sumos paprastosioms išlaidoms, iš jų - darbo užmokesčiui, yra maksimalios ir jų
 ekonomija gali būti naudojama nepaprastosioms išlaidoms finansuoti;
 2) keisti bendros asignavimų
-sumos ketvirtinį paskirstymą programai vykdyti, suderinęs su Finansų ministerija
-(valstybės biudžeto asignavimų valdytoja) arba su savivaldybės administracija
-(savivaldybės biudžeto asignavimų valdytoja);
+sumos ketvirtinį paskirstymą programai vykdyti, suderinęs su Finansų
+ministerija (valstybės biudžeto asignavimų valdytoja) arba su savivaldybės
+administracija (savivaldybės biudžeto asignavimų valdytoja);
 3) valstybės biudžeto asignavimų
 valdytojas, sudarydamas programų ir programų išlaidų sąmatų projektus, teikti
 programų bei jų išlaidų sąmatų alternatyvas Finansų ministerijai, o
@@ -235,8 +232,8 @@ biudžeto ir savivaldybių biudžetų asignavimų valdytojams pavaldžių instit
 išlaidų teisinis pagrindas yra asignavimų valdytojų patvirtintos šių
 institucijų išlaidų sąmatos, parengtos remiantis jų programomis.
 4. Nacionalinio
-biudžeto sudarymo ir vykdymo metodikos klausimus tvarko Vyriausybė arba jos įgaliota
-institucija.
+biudžeto sudarymo ir vykdymo metodikos klausimus tvarko Vyriausybė arba jos
+įgaliota institucija.
 Straipsnio pakeitimai:
 Nr. IX-364, 2001-06-07, Žin., 2001, Nr.
 55-1939 (2001-06-27)
@@ -256,8 +253,8 @@ arba teikti garantijas dėl paskolų, naudojamų tik investiciniams projektams
 finansuoti;
 2) imti trumpalaikes vidaus ir užsienio paskolas (kurių grąžinimo
 terminas tais pačiais biudžetiniais metais) biudžetiniais metais laikinam
-pajamų trūkumui padengti, kai nepakanka šiam tikslui savivaldybės biudžeto apyvartos
-lėšų.
+pajamų trūkumui padengti, kai nepakanka šiam tikslui savivaldybės biudžeto
+apyvartos lėšų.
 2. Vyriausybės nustatyta
 tvarka biudžetiniais metais savivaldybėms gali būti teikiamos trumpalaikės
 beprocentės paskolos iš valstybės biudžeto laikinam pajamų trūkumui padengti,
@@ -271,9 +268,9 @@ ministerija.
  
 11 straipsnis. Informacijos apie valstybės ir savivaldybių biudžetus
 viešumas
-1. Informacija apie valstybės ir savivaldybių biudžetų sudarymą, priėmimą,
-vykdymą, vertinimą, kontrolę turi būti aiški ir vieša, išskyrus informaciją,
-kuri įstatymų nustatyta tvarka yra valstybės paslaptis.
+1. Informacija apie valstybės ir savivaldybių biudžetų sudarymą,
+priėmimą, vykdymą, vertinimą, kontrolę turi būti aiški ir vieša, išskyrus
+informaciją, kuri įstatymų nustatyta tvarka yra valstybės paslaptis.
 2. Informaciją apie patvirtintą valstybės biudžetą, jo pajamas ir
 asignavimus, jų vykdymą skelbia Finansų ministerija leidinyje „Valstybės
 žinios“ ir Finansų ministerijos interneto puslapyje.
@@ -284,8 +281,8 @@ skelbia savivaldybių administratorius vietinėse informavimo priemonėse.
 Mokesčių
 įstatymai, kiti įstatymai ir teisės aktai bei jų pakeitimai, darantys įtaką
 atitinkamų metų biudžeto pajamoms, asignavimams ir valstybės skolai, įsigalioja
-įstatymų nustatyta tvarka, bet priimami ne vėliau kaip tų metų valstybės biudžeto
-ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas.
+įstatymų nustatyta tvarka, bet priimami ne vėliau kaip tų metų valstybės
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas.
  
 II SKYRIUS
 VALSTYBĖS BIUDŽETAS
@@ -321,8 +318,8 @@ Seimo patvirtintas bendras asignavimų sumas.
 1. Valstybės biudžete sudaromas Vyriausybės rezervas, kuris turi būti ne
 didesnis kaip 1 procentas patvirtintų valstybės biudžeto asignavimų sumos.
 Konkretų Vyriausybės rezervo dydį kasmet nustato Seimas Valstybės biudžeto ir
-savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu. Vyriausybės rezervo
-lėšos skirstomos Vyriausybės nutarimu.
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu. Vyriausybės
+rezervo lėšos skirstomos Vyriausybės nutarimu.
 2. Vyriausybės rezervo lėšos naudojamos tik tokioms reikmėms, kurių
 negalima numatyti sudarant valstybės biudžeto ir savivaldybių biudžetų
 finansinių rodiklių projektą ir priimant Valstybės biudžeto ir savivaldybių
@@ -348,9 +345,9 @@ rengiamas trejiems biudžetiniams metams remiantis strateginio planavimo
 principais, šiuo įstatymu, kitais įstatymais bei teisės aktais, šalies ūkio
 plėtros makroekonominėmis prognozėmis, Vyriausybės veiklos programa,
 Vyriausybės ilgalaikiu strateginiu veiklos planu, ministerijų ir Vyriausybės
-įstaigų strateginiais veiklos planais ir patvirtintais preliminariais
-pagrindiniais nacionalinio biudžeto rodikliais, taip pat valstybės biudžeto
-asignavimų valdytojų pateiktomis programomis ir išlaidų sąmatų projektais.
+įstaigų strateginiais veiklos planais ir patvirtintais preliminariais pagrindiniais
+nacionalinio biudžeto rodikliais, taip pat valstybės biudžeto asignavimų
+valdytojų pateiktomis programomis ir išlaidų sąmatų projektais.
 3. Asignavimų valdytojai programas
 ir išlaidų sąmatų projektus rengia vadovaudamiesi nustatytais
 valstybės prioritetais. 
@@ -396,9 +393,8 @@ savivaldybės biudžeto mokestinių pajamų sumos;
 11) fizinių
 asmenų pajamų mokesčio dalis (procentais), tenkanti atskiroms savivaldybėms.
 4. Atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų
-finansinių rodiklių patvirtinimo įstatymo projekte gali būti pateikiamos
-nuostatos, apribojančios teisę prisiimti įsipareigojimus naudoti biudžeto
-lėšas. 
+finansinių rodiklių patvirtinimo įstatymo projekte gali būti pateikiamos nuostatos,
+apribojančios teisę prisiimti įsipareigojimus naudoti biudžeto lėšas. 
 Straipsnio pakeitimai:
 Nr. IX-364, 2001-06-07, Žin., 2001, Nr.
 55-1939 (2001-06-27)
@@ -484,13 +480,18 @@ Savivaldybių biudžetų pajamas sudaro:
 paslaugas;
 6) pajamos už
 savivaldybių lėšų likučius einamosiose sąskaitose;
-7) pajamos, gautos
-Vyriausybės nustatyta tvarka paskirsčius lėšas už parduotus ir išnuomotus ne
+7) pajamos,
+gautos už išnuomotą valstybinę žemę, valstybinio vidaus vandenų fondo vandens
+telkinius ir Vyriausybės nustatyta tvarka paskirsčius lėšas už parduotus ne
 žemės ūkio paskirčiai valstybinės žemės sklypus;
 8) valstybės biudžeto dotacijos ir kitos pervestos lėšos;
 9) kitos Lietuvos Respublikos įstatymų nustatytos pajamos;
 10) negrąžintina
 finansinė parama (piniginės lėšos).
+Straipsnio pakeitimai:
+Nr.
+IX-1651,
+2003-06-26, Žin., 2003, Nr. 70-3164 (2003-07-16)
  
 23 straipsnis. Savivaldybių biudžetų asignavimai
 Savivaldybių biudžetų asignavimai yra naudojami Vietos savivaldos
@@ -507,8 +508,8 @@ dydis nustatomas tvirtinant savivaldybių biudžetus.
 būti atkurtos ne vėliau kaip iki biudžetinių metų pabaigos.
  
 25 straipsnis. Savivaldybės valdybos (mero) rezervas
-1. Savivaldybės gali sudaryti savivaldybės valdybos (mero) rezervą, kuris
-turi būti ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto
+1. Savivaldybės gali sudaryti savivaldybės valdybos (mero) rezervą,
+kuris turi būti ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto
 asignavimų sumos. Konkretų savivaldybės valdybos (mero) rezervo dydį kasmet
 nustato savivaldybės taryba, tvirtindama atitinkamų biudžetinių metų
 savivaldybės biudžetą. Savivaldybės valdybos (mero) rezervo lėšas skirsto
@@ -615,9 +616,9 @@ valdytojai jas yra įmokėję.
 2. Jeigu savivaldybių biudžetai
 nevykdomi, t.y. gaunama mažiau pajamų, negu buvo numatyta, finansavimas iš
 savivaldybių biudžetų vykdomas savivaldybių tarybų nustatyta tvarka. Jeigu
-numatoma, kad nustatytas pajamų planas iki metų pabaigos nebus įvykdytas, sprendimus
-dėl šiuose biudžetuose numatytų išlaidų finansavimo tvarkos savivaldybės
-valdybos (mero) teikimu priima savivaldybės taryba.
+numatoma, kad nustatytas pajamų planas iki metų pabaigos nebus įvykdytas,
+sprendimus dėl šiuose biudžetuose numatytų išlaidų finansavimo tvarkos
+savivaldybės valdybos (mero) teikimu priima savivaldybės taryba.
 3. Asignavimų
 valdytojams pervedamos valstybės biudžeto arba savivaldybių biudžetų asignavimų
 sumos specialiosioms programoms finansuoti mažinamos faktiškai
@@ -684,8 +685,8 @@ metais valstybės pasiskolintų lėšų suma ir anksčiau perskolintų ūkio sub
 valstybės pasiskolintų lėšų grąžintina suma (ne balanso dalyje).
 6. Valstybės biudžeto ir savivaldybių biudžetų įvykdymo apyskaitos
 sudarymo tvarką ir periodiškumą nustato Finansų ministerija.
-7. Valstybės biudžeto įvykdymo apyskaitą Vyriausybei teikia Finansų ministerija
-Vyriausybės nustatyta tvarka ir terminais.
+7. Valstybės biudžeto įvykdymo apyskaitą Vyriausybei teikia Finansų
+ministerija Vyriausybės nustatyta tvarka ir terminais.
 8. Valstybės ir savivaldybių
 biudžetų finansuojamų įstaigų gaunama negrąžintina finansinė parama
 įtraukiama į valstybės ir savivaldybių biudžetų finansuojamų biudžetinių
@@ -718,9 +719,8 @@ tikslams, ar asignavimai panaudoti galimu efektyviausiu būdu, ar naudojant
 asignavimus nepadaryta kitų teisės pažeidimų, taip pat kiek pasiekti programose
 nustatyti tikslai.
 3. Savivaldybių biudžetų vykdymo, savivaldybių biudžetų
-asignavimų valdytojų programų išlaidų sąmatų, savivaldybių biudžetų lėšų
-apskaitos ir finansinės atskaitomybės kontrolę atlieka savivaldybių
-kontrolieriai.
+asignavimų valdytojų programų išlaidų sąmatų, savivaldybių biudžetų lėšų apskaitos
+ir finansinės atskaitomybės kontrolę atlieka savivaldybių kontrolieriai.
 4. Valstybės ir savivaldybių biudžetų asignavimų valdytojų ir joms
 pavaldžių institucijų programų išlaidų sąmatų vidaus auditą atlieka
 vidaus audito tarnybos.
@@ -867,8 +867,8 @@ Nauja įstatymo redakcija
  
 13.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2058, 00.10.17, Žin., 2000, Nr.90-2778
-(00.10.27)
+Nr. VIII-2058, 00.10.17, Žin., 2000,
+Nr.90-2778 (00.10.27)
 BIUDŽETO SANDAROS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
@@ -887,8 +887,16 @@ Nr. IX-1089,
 BIUDŽETO
 SANDAROS ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+16.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1651,
+2003-06-26, Žin., 2003, Nr. 70-3164 (2003-07-16)
+BIUDŽETO
+SANDAROS ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
  
 Konstitucinio Teismo nutarimai:
@@ -910,6 +918,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-10-04)
+Aušrinė Trapinskienė (2003-07-16)
                  
 autrap@lrs.lt
