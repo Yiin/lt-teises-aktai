@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2004-10-01 iki 2004-11-16
+Suvestinė redakcija nuo 2004-11-17 iki 2007-01-29
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -141,7 +141,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-12. Finansinis tarpininkavimas (agento veikla) – veikla vienos arba kelių finansų įstaigų vardu ir naudai priimant indėlius ir kitas grąžintinas lėšas, skolinant, priimant įmokas už kitų asmenų suteiktas paslaugas ir teikiant kitas finansines paslaugas. 
+12. Finansinis tarpininkavimas (agento veikla) – veikla vienos arba kelių finansų įstaigų vardu ir naudai priimant indėlius ir kitas grąžintinas lėšas, skolinant, priimant įmokas už kitų asmenų suteiktas paslaugas, teikiant kitas finansines paslaugas, taip pat finansų įstaigų vykdoma priklausomo draudimo tarpininkavimo veikla, išskyrus draudiminių įvykių administravimą.
+Straipsnio dalies pakeitimai:
+Nr. IX-2528, 2004-11-02, Žin., 2004, Nr. 167-6107 (2004-11-17), i. k. 1041010ISTA0IX-2528
+ 
 
 
 
@@ -2945,3 +2948,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo 2, 4, 45 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1720, 2003-07-04, Žin., 2003, Nr. 74-3435 (2003-07-25), i. k. 1031010ISTA0IX-1720
 Lietuvos Respublikos finansų įstaigų įstatymo 3 straipsnio papildymo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2528, 2004-11-02, Žin., 2004, Nr. 167-6107 (2004-11-17), i. k. 1041010ISTA0IX-2528
+Lietuvos Respublikos finansų įstaigų įstatymo 2 straipsnio pakeitimo įstatymas
