@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8"
 
 # Lietuvos Respublikos pensijų sistemos reformos įstatymas
 
-Suvestinė redakcija nuo 2003-07-30 iki 2004-06-18
+Suvestinė redakcija nuo 2004-06-19 iki 2004-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5511, i. k. 1021010ISTA0IX-1215
  
@@ -78,21 +78,24 @@ Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010IST
 
 3 straipsnis. Dalyvavimas kaupiant pensijas 
 
-1. Asmenys, privalomai draudžiami valstybiniu socialiniu pensijų draudimu pagrindinei ir papildomai pensijos daliai gauti, išskyrus asmenis, kurie yra sulaukę senatvės pensijos amžiaus, turi teisę jų pačių pasirinkimu tapti pensijų fondo dalyviais ir kaupti šio Įstatymo nustatytą pensijų įmoką pensijų kaupimo bendrovėse. Asmenims, pasirinkusiems būti pensijų kaupimo dalyviais, tolesnis dalyvavimas negali būti nutrauktas.
+1. Asmenys, privalomai draudžiami valstybiniu socialiniu pensijų draudimu pagrindinei ir papildomai pensijos daliai gauti, išskyrus asmenis, kurie yra sulaukę senatvės pensijos amžiaus, turi teisę jų pačių pasirinkimu tapti pensijų fondo dalyviais ir kaupti šio Įstatymo nustatytą pensijų įmoką pensijų kaupimo bendrovėse. Asmenims, pasirinkusiems būti pensijų kaupimo dalyviais, tolesnis dalyvavimas negali būti nutrauktas, išskyrus Pensijų kaupimo įstatymo nustatytus atvejus.
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
+Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010ISTA0IX-2255
  
 
-2. Asmenys, nurodyti šio straipsnio 1 dalyje, jeigu jie nėra sudarę pensijų kaupimo sutarties su pensijų kaupimo bendrovėmis, turi teisę sudaryti šias sutartis iki 2003 m. gruodžio 1 d., o visais kitais kalendoriniais metais – nuo sausio 1 d. iki liepos 1 d. Šios sutartys įsigalioja nuo kitų metų sausio 1 d. Asmenims, naujai atėjusiems į darbo rinką ir pirmą kartą gavusiems socialinio draudimo pažymėjimą, šiame straipsnyje nustatyti apsisprendimo terminai netaikomi, o su šiais asmenimis sudarytos pensijų kaupimo sutartys įsigalioja nuo ketvirčio, einančio po šių sutarčių sudarymo, pradžios.
+2. Asmenys, nurodyti šio straipsnio 1 dalyje, jeigu jie nėra sudarę pensijų kaupimo sutarties su pensijų kaupimo bendrovėmis, turi teisę sudaryti šias sutartis iki 2003 m. gruodžio 1 d., o visais kitais kalendoriniais metais – nuo sausio 1 d. iki liepos 1 d., išskyrus naujus atėjusius į darbo rinką ir pirmą kartą gavusius socialinio draudimo pažymėjimą asmenis, kurie turi teisę sudaryti šias sutartis iki spalio 1 d. Tokia pensijų kaupimo sutartis įsigalioja ir pensijų įmokos pradedamos skaičiuoti nuo kitų metų sausio 1 d., jeigu pensijų kaupimo sutartis norminių teisės aktų nustatyta tvarka buvo įregistruota Valstybinio socialinio draudimo fondo valdybos administruojamame pensijų kaupimo dalyvių ir pensijų kaupimo sutarčių registre.
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
+Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010ISTA0IX-2255
  
 
 3. Dalyviai turi teisę laisvai pasirinkti pensijų kaupimo bendrovę. Vienu metu dalyvis gali turėti pensijų sąskaitą, kurioje kaupiama šio Įstatymo nustatyta pensijų įmoka, tik vienoje pensijų kaupimo bendrovėje. Jeigu dalyvis pereina į kitą pensijų kaupimo bendrovę, jo pensijų sąskaita buvusioje pensijų kaupimo bendrovėje uždaroma, o joje sukauptos lėšos pervedamos į kitoje bendrovėje atidarytą pensijų sąskaitą.
 
-4. Dalyviai turi teisę įstatymų nustatyta tvarka pereiti į kitą pensijų kaupimo bendrovę, išskyrus pirmuosius trejus metus nuo pirmosios pensijų kaupimo sutarties sudarymo. Administravimo išlaidų, susijusių su perėjimu iš vienos bendrovės į kitą, atlyginimo tvarką reglamentuoja Pensijų kaupimo įstatymas. Pensijų kaupimo sutartis negali būti nutraukta tol, kol nesudaryta sutartis su kita pensijų kaupimo bendrove. Perėjimas neribojamas pensijų kaupimo bendrovės reorganizavimo, pertvarkymo ir likvidavimo atveju.
+4. Dalyviai turi teisę įstatymų nustatyta tvarka pereiti į kitą pensijų kaupimo bendrovę, išskyrus pirmuosius trejus metus nuo pirmosios pensijų kaupimo sutarties įsigaliojimo. Administravimo išlaidų, susijusių su perėjimu iš vienos bendrovės į kitą, atlyginimo tvarką reglamentuoja Pensijų kaupimo įstatymas. Pensijų kaupimo sutartis negali būti nutraukta tol, kol nesudaryta sutartis su kita pensijų kaupimo bendrove, išskyrus įstatymų nustatytus atvejus. Perėjimas neribojamas pensijų kaupimo bendrovės reorganizavimo, bankroto ir likvidavimo atvejais.
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
+Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010ISTA0IX-2255
  
 
 4 straipsnis. Pensijų įmoka
@@ -201,4 +204,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
 Lietuvos Respublikos pensijų sistemos reformos įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Draudimo įstatymo, Pridėtinės vertės mokesčio įstatymo, Gyventojų pajamų mokesčio įstatymo pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010ISTA0IX-2255
+Lietuvos Respublikos pensijų sistemos reformos įstatymo 3 straipsnio pakeitimo įstatymas
 
