@@ -23,11 +23,6 @@ RINKLIAVŲ
 ĮSTATYMAS
 2000 m. birželio 13 d. Nr. VIII-1725
 Vilnius
-
-
-
-
- 
 I SKYRIUS
 BENDROSIOS NUOSTATOS
  
@@ -52,10 +47,12 @@ galiojanti tos savivaldybės teritorijoje.
 3
 straipsnis. Rinkliavų mokėtojai
 Rinkliavas moka
-fiziniai ir juridiniai asmenys.
+fiziniai ir juridiniai asmenys, išskyrus Lietuvos banką.
 Straipsnio pakeitimai:
 Nr. IX-435, 2001-07-10, Žin., 2001, Nr.
 62-2233 (2001-07-18)
+Nr. IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
  
 II SKYRIUS
 VALSTYBĖS RINKLIAVA
@@ -66,8 +63,8 @@ straipsnis. Valstybės rinkliavos objektai
 rinkliava imama už:
 1) civilinės
 būklės aktų registravimą civilinės metrikacijos įstaigose, įrašų civilinės
-būklės aktuose pakeitimą bei papildymą ir dokumentų, patvirtinančių įrašą
-civilinės būklės akte, išdavimą;
+būklės aktuose pakeitimą bei papildymą ir dokumentų, patvirtinančių įrašą civilinės
+būklės akte, išdavimą;
 2) išduodamus
 dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
 bei gyvenimo joje, dėl užsieniečių įdarbinimo, taip pat dokumentą,
@@ -90,8 +87,8 @@ straipsnis. Valstybės rinkliavos dydžiai
 1. Valstybės
 rinkliavos dydis nustatomas atsižvelgiant į paslaugos suteikimo išlaidas,
 kurias sudaro išlaidos:
-1) darbui, susijusiam
-su paslaugos suteikimu, apmokėti;
+1) darbui,
+susijusiam su paslaugos suteikimu, apmokėti;
 2) juridinę
 galią turinčio dokumento blankui pagaminti;
 3) teisės aktų
@@ -127,35 +124,16 @@ bei gyvenimo joje, užsieniečių įdarbinimo, taip pat už dokumentą, patvirti
 asmens gyvenamąją vietą, nuo valstybės rinkliavos atleidžiami:
 1) asmenys,
 turintys teisę gauti socialinę pašalpą Lietuvos Respublikos Vyriausybės
-nustatyta tvarka, netekę tėvų globos vaikai ir našlaičiai iki 18 metų,
-valstybės išlaikomi stacionariose globos įstaigose asmenys, vieni gyvenantys
-sutuoktinio neturintys asmenys, sukakę senatvės pensijos amžių, I ir II grupių
-invalidai - už Lietuvos Respublikos piliečio paso išdavimą bei paso pakeitimą,
-už dokumento, patvirtinančio asmens gyvenamąją vietą, išdavimą;
- 
-[2 dalies 1
-punkto redakcija nuo 2003 m. sausio 1 d.:
-1) asmenys,
-turintys teisę gauti socialinę pašalpą Lietuvos Respublikos Vyriausybės
 nustatyta tvarka, vaikai, kuriems nustatyta globa ir rūpyba, valstybės
 išlaikomi stacionariose globos įstaigose asmenys, vieniši asmenys, sukakę
 senatvės pensijos amžių, nustatytą Valstybinių socialinio draudimo pensijų
 įstatyme, I ir II grupių invalidai, vaikai invalidai iki 16 metų – už asmens
 tapatybės kortelės ir paso išdavimą bei pakeitimą, už dokumento, patvirtinančio
-asmens gyvenamąją vietą, išdavimą;]
- 
-2) politiniai
-kaliniai, tremtiniai, rezistencijos dalyviai - už Lietuvos Respublikos piliečio
-paso išdavimą bei paso pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens
-be pilietybės kelionės dokumento bei vizos išdavimą ir pratęsimą;
- 
-[2 dalies 2
-punkto redakcija nuo 2003 m. sausio 1 d.:
+asmens gyvenamąją vietą, išdavimą;
 2) politiniai kaliniai, tremtiniai,
 rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei
 pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės
-dokumento bei vizos išdavimą ir pratęsimą;]
- 
+dokumento bei vizos išdavimą ir pratęsimą;
 3) asmenys iki
 16 metų - už asmens be pilietybės kelionės dokumento bei pabėgėlio kelionės
 dokumento išdavimą, už vizų išdavimą ir pratęsimą, už vaiko kelionės dokumento
@@ -169,8 +147,8 @@ valstybės ar vietos savivaldos institucijų, įstaigų ar tarnybų organizuojam
 oficialiuose susitikimuose, labdaros bei organizuotos pagalbos Lietuvai
 tikslais arba su Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų,
 kurių narė yra Lietuvos Respublika, atstovai bei nurodytų asmenų šeimos nariai
-(sutuoktiniai, vaikai (įvaikiai) iki 21 metų, kurie gyvena kartu su tėvais ir
-nėra sudarę santuokos) - už dokumentų, suteikiančių teisę atvykti į Lietuvos
+(sutuoktiniai, vaikai (įvaikiai) iki 21 metų, kurie gyvena kartu su tėvais ir nėra
+sudarę santuokos) - už dokumentų, suteikiančių teisę atvykti į Lietuvos
 Respubliką, išdavimą; 
 6) lietuvių
 kilmės asmenys, pateikę krašto lietuvių bendruomenių arba Lietuvos Respublikos
@@ -223,8 +201,8 @@ Straipsnio pakeitimai:
 Nr.IX-847,
 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
  
-10 straipsnis.
-Valstybės rinkliavos grąžinimas
+10
+straipsnis. Valstybės rinkliavos grąžinimas
 1. Sumokėta
 valstybės rinkliava arba jos dalis grąžinama šiais atvejais:
 1) kai sumokėta
@@ -325,8 +303,8 @@ vietinių rinkliavų - dar ir savivaldybės kontrolieriai.
 2. Jeigu
 patikrinimo metu nustatyta, kad valstybės rinkliavos buvo paimta per mažai arba
 ji iš viso nebuvo paimta, tai trūkstama arba visa valstybės rinkliavos suma
-išieškoma į atitinkamą biudžetą iš institucijos, dėl kurios kaltės paimta per
-maža arba visai nepaimta valstybės rinkliava, Mokesčių administravimo įstatymo
+išieškoma į atitinkamą biudžetą iš institucijos, dėl kurios kaltės paimta per maža
+arba visai nepaimta valstybės rinkliava, Mokesčių administravimo įstatymo
 nustatyta tvarka. Institucijai žalą atlygina atsakingi valstybės tarnautojai
 įstatymų nustatyta tvarka.
  
@@ -373,8 +351,8 @@ panaikina.
 straipsnis. Įstatymo įsigaliojimas
 1. Šis įstatymas
 įsigalioja nuo 2001 m. sausio 1 d., išskyrus 17 straipsnį.
-2. Įsigaliojus šiam
-įstatymui, netenka galios:
+2. Įsigaliojus
+šiam įstatymui, netenka galios:
 1) Lietuvos
 Respublikos žyminio mokesčio įstatymas (Žin., 1994, Nr.51-950, Nr.89-1712;
 1995, Nr.47-1135; 1996, Nr.18-462, Nr.46-1112, Nr.116-2691; 1997, Nr.33-810,
@@ -385,12 +363,6 @@ Nr.58-1329; 1998, Nr.38-998).
  
 Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
- 
- 
-
-
-
-
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
 _________________
@@ -431,11 +403,25 @@ RINKLIAVŲ
 Šis
 Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
  
+5.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+ĮMONIŲ IR ORGANIZACIJŲ
+NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS
+FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ
+UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS
+TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-10-03)
+Aušrinė Trapinskienė (2004-05-03)
                  
 autrap@lrs.lt
