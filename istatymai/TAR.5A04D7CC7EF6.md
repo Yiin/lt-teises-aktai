@@ -13,13 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2000-05-26 iki 2004-08-02
+Suvestinė redakcija nuo 2004-08-03 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
  
-LIETUVOS RESPUBLIKOS
-BIBLIOTEKŲ
-Į S T A T Y M A S
+Nauja redakcija nuo 2004-08-03:
+Nr. IX-2378, 2004-07-15, Žin. 2004, Nr. 120-4431 (2004-08-03), i. k. 1041010ISTA0IX-2378
+ 
+LIETUVOS RESPUBLIKOS BIBLIOTEKŲ Į S T A T Y M A S
  
 1995 m. birželio 6 d. Nr. I-920
 Vilnius
@@ -27,21 +28,15 @@ Vilnius
  
 
 
-I. BENDROSIOS NUOSTATOS
+PIRMASIS SKIRSNIS
+BENDROSIOS NUOSTATOS
  
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-Lietuvos Respublikos bibliotekų įstatymas nustato Lietuvos bibliotekų sistemą, ryšius tarp bibliotekų, bibliotekų finansavimą ir valstybinį reguliavimą, apibūdina Lietuvos bibliotekų fondą ir jo apsaugą.
-
-
-
-
-Pagrindinės įstatymo nuostatos:
-spaudiniai ir kiti dokumentai (knygos, periodiniai leidiniai, rankraščiai, natos, mikroformos, garsiniai regimieji, kartografiniai, vaizdiniai, elektroniniai, neregių raštu atspausdinti ir kiti dokumentai), sukaupti ir saugomi valstybinėse ir nevalstybinėse bibliotekose, taip pat spaudiniai ir kiti dokumentai, esantys kitų valstybių bibliotekose, archyvuose ir privačiuose rinkiniuose, bet teisėtai priklausantys Lietuvos Respublikai, yra Lietuvos nacionalinis turtas, saugomas Lietuvos Respublikos įstatymų ir tarptautinių susitarimų nustatyta tvarka,
-spaudiniai ir kiti dokumentai, neatsižvelgiant į jų autorių ar juose užfiksuotų žinių politinę ar ideologinę orientaciją, turi būti nemokamai prieinami visiems asmenims.
+Šis įstatymas nustato bibliotekų veiklos valstybinį valdymą, bibliotekų sistemą, bibliotekų fondo sudarymo tvarką, šio fondo struktūrą ir jo apsaugą.
  
 
 
@@ -49,116 +44,45 @@ spaudiniai ir kiti dokumentai, neatsižvelgiant į jų autorių ar juose užfiks
 
 
 
-2 straipsnis. Bibliotekos apibūdinimas
+2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
-Biblioteka yra kultūros, švietimo ir informacijos įstaiga, kurioje renkami, tvarkomi, saugomi spaudiniai ir kiti dokumentai, sisteminamos ir platinamos juose užfiksuotos žinios pažinimo, bendravimo, žmonių sukauptų žinių išsaugojimo, ugdymo ir rekreacijos tikslams, įregistruota šio įstatymo nustatyta tvarka.
- 
+1. Biblioteka – įstatymų nustatyta tvarka įsteigtas juridinis asmuo, veikiantis informacijos sklaidos, kultūros, mokslo ir švietimo srityse ir vykdantis bibliotekų veiklą, arba juridinio asmens, turinčio teisę vykdyti bibliotekų veiklą, struktūrinis padalinys.
 
 
 
 
+2. Bibliotekininkas – fizinis asmuo, dirbantis bibliotekoje ir atliekantis bibliotekinį darbą ar jį administruojantis. 
 
 
-3 straipsnis. Bibliotekų veiklos teisinis reguliavimas
 
 
-Lietuvos bibliotekos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, kitais Lietuvos Respublikos įstatymais, Lietuvos Respublikos Vyriausybės nutarimais, Kultūros ministerijos norminiais aktais bei Lietuvos Respublikos tarptautiniais susitarimais.
+3. Bibliotekų veikla – dokumentų kaupimas, tvarkymas, sisteminimas ir saugojimas, galimybės naudotis viešaisiais informacijos šaltiniais užtikrinimas, neatsižvelgiant į jų autorių ar juose užfiksuotų žinių politinę ar ideologinę orientaciją; fizinių ir juridinių asmenų lygių teisių naudotis teisės aktų nustatyta tvarka teikiamomis nemokamomis paslaugomis užtikrinimas teikiant visuomenės švietimui, moksliniams tyrimams bei asmenybės ugdymui reikalingą informaciją ir paslaugas. 
 
 
 
 
-Kiekviena biblioteka, nesvarbu, ar ji turi juridinio asmens teises, veikia pagal steigėjo patvirtintus bibliotekos nuostatus.
- 
+4. Dokumentas – naudojama ir saugojama laikmena su joje įrašyta informacija: knyga, periodinis leidinys, rankraštis, natos, mikroformos, garsinis ir (arba) regimasis, kartografinis, vaizdinis, elektroninis, aklųjų (Brailio) raštu išspausdintas ar kitu būdu pateikiantis informaciją dokumentas.
 
 
 
 
+5. Dokumentų fondas – dokumentų, skirtų bibliotekos vartotojų informaciniams, mokslo, kultūriniams, edukaciniams, profesiniams, laisvalaikio ar kitiems poreikiams tenkinti, visuma.
 
 
-4 straipsnis. Valstybinės ir nevalstybinės bibliotekos
 
 
-Lietuvos Respublikoje yra valstybinės ir nevalstybinės bibliotekos.
+6. Tarpbibliotekinis abonementas – dokumentų skolinimo, informacijos ir reprografijos paslaugos, kurias bendradarbiavimo pagrindu organizuoja bibliotekos.
 
 
 
 
-Valstybinės bibliotekos yra bibliotekos, kurių steigėjai yra valstybės valdymo institucijos, savivaldybės bei kitos institucijos.
+7. Vartotojas – asmuo, šio įstatymo bei naudojimosi biblioteka taisyklių nustatyta tvarka įgijęs teisę naudotis bibliotekos paslaugomis.
 
 
 
 
-Nevalstybinės bibliotekos yra bibliotekos, kurių steigėjai yra nevalstybinės įmonės, įstaigos, taip pat politinės, profesinės, religinės, visuomeninės organizacijos ir visuomeniniai judėjimai bei fiziniai asmenys.
-
-
-
-
-Nevalstybinės bibliotekos gali gauti metodinę pagalbą iš valstybinių bibliotekų ir bibliotekų metodikos centrų.
- 
-
-
-
-
-
-
-5 straipsnis. Bibliotekų teisės
-
-
-Neturinčios juridinio asmens teisių bibliotekos teises ir pareigas nustato steigėjo patvirtinti nuostatai.
-
-
-
-
-Biblioteka, turinti juridinio asmens teises, gali:
-
-
-1) turėti einamąsias nacionalinės ir užsienio valiutos sąskaitas viename iš Lietuvos Respublikoje pasirinktų bankų, taip pat steigėjui leidus, – po vieną užsienio valiutos sąskaitą bet kurioje užsienio valstybėje;
-
-
-
-
-2) steigėjui leidus, steigti filialus, turinčius savo atskirą buveinę ir galinčius steigėjo leidimu turėti einamąją sąskaitą;
-
-
-
-
-3) remdamasi bibliotekos nuostatais, valdyti, naudotis ir disponuoti jai priskirtu turtu;
-
-
-
-
-4) sudaryti sutartis, prisiimti įsipareigojimus; steigėjui leidus, sudaryti sutartis dėl bibliotekos turto naudojimo;
-
-
-
-
-5) nustatyti savo vidaus struktūrą;
-
-
-
-
-6) steigėjui leidus, steigti fondus bei personalines įmones;
-
-
-
-
-7) nustatyti savo teikiamų paslaugų kainas, jei jų nenustato bibliotekos steigėjas;
-
-
-
-
-8) atsiskaityti už pateiktas prekes, atliktus darbus bei paslaugas bet kuria sutarta forma, neprieštaraujančia Lietuvos Respublikos įstatymams ir kitiems teisės aktams;
-
-
-
-
-9) jungtis į bibliotekų asociacijas;
-
-
-
-
-10) turėti kitų šio įstatymo nenustatytų civilinių teisių ir pareigų, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams.
+8. Viešoji biblioteka – visiems vartotojams prieinama biblioteka, kaupianti ir sauganti universalų teritorijos (apskrities, savivaldybės), kurioje ji yra, bendruomenės poreikius tenkinantį dokumentų fondą.
  
 
 
@@ -168,66 +92,20 @@ Biblioteka, turinti juridinio asmens teises, gali:
 
 
 
-
-
-II. BIBLIOTEKŲ SISTEMA, BIBLIOTEKŲ STEIGIMAS IR LIKVIDAVIMAS
+ANTRASIS SKIRSNIS
+BIBLIOTEKŲ VEIKLOS REGLAMENTAVIMAS, VALSTYBINIS VALDYMAS IR FINANSAVIMAS
  
 
 
-6 straipsnis. Bibliotekų sistema
+3 straipsnis. Bibliotekų veiklos reglamentavimas
 
 
-Lietuvos bibliotekų sistemą sudaro universalios ir specialios bibliotekos.
-
-
-
-
-Universalios bibliotekos aptarnauja skaitytojus pagal teritorinį principą, tenkina įvairių profesijų, įvairaus išsimokslinimo bei įvairaus amžiaus skaitytojų kompleksinius informacijos poreikius, kaupia universalaus turinio spaudinius ir kitų dokumentų fondą, atsižvelgdamos į aptarnaujamos teritorijos ekonominius, kultūrinius ir demografinius ypatumus.
+1. Bibliotekos vadovaujasi Lietuvos Respublikos Konstitucija, Civiliniu kodeksu, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais, steigimo dokumentais bei kitais teisės aktais.
 
 
 
 
-Specialios bibliotekos tenkina specialios (mokslo, gamybos, mokymo ir kt.) informacijos poreikius ir formuoja spaudinių ir kitų dokumentų fondą, atsižvelgdamos į steigėjo funkcijas.
-
-
-
-
-Universalios bibliotekos yra:
-
-
-1) Nacionalinė biblioteka;
-
-
-
-
-2) viešosios bibliotekos:
-a) apskričių bibliotekos;
-b) rajonų ir miestų savivaldybių bibliotekos.
-
-
-
-
-
-
-Specialios bibliotekos yra:
-
-
-1) mokslo institucijų bibliotekos; 
-
-
-
-
-2) aukštųjų mokyklų bibliotekos;
-
-
-
-
-3) švietimo įstaigų bibliotekos;
-
-
-
-
-4) kitos bibliotekos.
+2. Kai biblioteka steigiama, pertvarkoma ar pabaigiama arba steigiamas ar uždaromas jos filialas, bibliotekos steigėjas ar jos valdymo organas informuoja Kultūros ministeriją.
  
 
 
@@ -235,302 +113,73 @@ Specialios bibliotekos yra:
 
 
 
+4 straipsnis. Kultūros ministerijos kompetencija bibliotekų veiklos valdymo srityje
 
 
-7 straipsnis. Nacionalinė biblioteka
+Kultūros ministerija atlieka bibliotekų valstybinio valdymo institucijos funkcijas:
 
 
-Nacionalinė Martyno Mažvydo biblioteka yra pagrindinė viešo naudojimo mokslinė Lietuvos Respublikos biblioteka, nacionalinis spaudos archyvas, lietuviškų ir lituanistinių bei reikšmingiausių užsienio šalių mokslo ir universalaus pobūdžio spaudinių bei kitų dokumentų saugykla, nacionalinės bibliografijos, lituanistinių leidinių valstybinio registravimo, informacijos, bibliotekų mokslo tiriamojo darbo, metodinės veiklos bei šių darbų koordinavimo centras.
+1) nustato valstybės ar savivaldybių įsteigtų bibliotekų plėtros strategiją, rengia ir finansuoja ją įgyvendinančias programas;
 
 
 
 
-Nacionalinės bibliotekos nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+2) steigia, finansuoja, kontroliuoja, pertvarko ir pabaigia Kultūros ministerijos įsteigtas bibliotekas;
 
 
 
 
-Nacionalinės bibliotekos steigėja yra Kultūros ministerija.
- 
+3) konkurso būdu skiria bibliotekos, kurios steigėja yra Kultūros ministerija, vadovą ir jį atleidžia;
 
 
 
 
+4) rengia, derina ir teisės aktų nustatyta tvarka tvirtina bibliotekų veiklą reglamentuojančius dokumentus;
 
 
-8 straipsnis. Apskrities viešoji biblioteka
 
 
-Apskrities viešoji biblioteka garantuoja valstybinių bibliotekininkystės plėtojimo programų vykdymą apskrityje, yra apskrities viešųjų bibliotekų metodikos, bibliografijos ir informacijos centras. Ji garantuoja apskrities bibliotekų ryšius su Lietuvos bibliotekų fondu, atlieka kitas funkcijas, nustatytas Kultūros ministerijos patvirtintuose Apskrities viešosios bibliotekos nuostatuose.
+5) užsako ir finansuoja mokslinius tyrimus;
 
 
 
 
-Apskrities viešoji biblioteka kaupia universalų apskrities poreikius tenkinančių spaudinių ir kitų dokumentų fondą; kaupia ir saugo spaudinius ir kitus dokumentus, susijusius su apskritimi.
+6) koordinuoja valstybės ar savivaldybių įsteigtų bibliotekų veiklą, jų dalyvavimą tarpvalstybinėse programose;
 
 
 
 
-Apskrities viešosios bibliotekos steigėja yra Kultūros ministerija.
- 
+7) finansuoja apskričių ir savivaldybių viešųjų bibliotekų dokumentų įsigijimą;
 
 
 
 
+8) finansiškai gali remti bibliotekas, įgyvendinančias valstybines bibliotekų plėtros programas, neatsižvelgdama į jų teisinę formą ir statusą;
 
 
-9 straipsnis. Rajono arba miesto savivaldybės biblioteka
 
 
-Rajono arba miesto savivaldybės biblioteka kaupia universalų rajono ar miesto poreikius atitinkantį spaudinių ir kitų dokumentų fondą; kaupia ir saugo spaudinius ir kitus dokumentus, susijusius su rajonu ar miestu; garantuoja visų savivaldybės teritorijoje esančių bibliotekų ryšį su Lietuvos bibliotekų fondu.
+9) tvirtina valstybės ar savivaldybių įsteigtų bibliotekų teikiamų mokamų paslaugų sąrašą ir nustato, kad tame sąraše nesančias paslaugas šios bibliotekos teikia nemokamai;
 
 
 
 
-Rajono arba miesto savivaldybės bibliotekos steigėja yra rajono arba miesto savivaldybė.
+10) kontroliuoja, kaip laikomasi šio įstatymo ir kitų bibliotekų veiklą reglamentuojančių teisės aktų;
 
 
 
 
-Kiekviename rajone ar mieste turi būti įsteigta rajono ar miesto savivaldybės biblioteka su filialais miesto mikrorajonuose ir(arba) kaimo gyvenamosiose vietovėse.
+11) tvirtina bibliotekos statistinių ataskaitų formas;
 
 
 
 
-Miesteliuose ir miestuose gali būti steigiami miestelio arba miesto savivaldybės bibliotekos filialai, aptarnaujantys vaikus.
+12) nustato bibliotekininkų, dirbančių valstybės ar savivaldybių įsteigtose bibliotekose, atestavimo tvarką, rūpinasi jų kvalifikacijos kėlimu;
 
 
 
 
-Rajono ar miesto savivaldybės bibliotekos filialų skaičių ir jų išdėstymą atsižvelgiant į gyventojų skaičių ir tankumą nustato savivaldybė, suderinusi su Kultūros ministerija.
-
-
-
-
-Rajono ar miesto savivaldybės bibliotekos filialai steigiami:
-kaimo vietovėse vienas bibliotekos filialas steigiamas vidutiniškai 700–800 gyventojų; miesteliuose bibliotekos filialas steigiamas, jei juose gyvena iki 10 tūkst. gyventojų; miestuose, kuriuose gyvena daugiau negu 10 tūkst. gyventojų, miesto bibliotekos filialai steigiami vidutiniškai 20 – 30 tūkst. gyventojų.
-
-
-
-
-Miestuose kurortuose 5 tūkstančiams gyventojų steigiama biblioteka.
-
-
-
-
-Mieste, kuriame yra miesto ir rajono savivaldybių bibliotekos, miesto ir rajono savivaldybių susitarimu gali būti viena biblioteka, aptarnaujanti miesto ir rajono gyventojus. Tokiu atveju ši biblioteka finansuojama iš miesto ir rajono savivaldybių biudžetų lėšų.
-
-
-
-
-Rajono arba miesto savivaldybių bibliotekos pagal susitarimą su miesto ligoninėmis ir kitomis gydymo įstaigomis, įkalinimo, globos ir rūpybos bei kitomis socialinėmis institucijomis organizuoja bibliotekų paslaugas šiose institucijose, taip pat sudaro sąlygas invalidams naudotis spaudiniais ir kitais dokumentais bei informacija.
- 
-
-
-
-
-
-
-10 straipsnis. Mokslo institucijų bibliotekos
-
-
-Mokslo institucijų bibliotekos kaupia spaudinių ir kitų dokumentų fondą, kuris tenkina ją įsteigusios institucijos poreikius naudotis spaudiniais ir kitais dokumentais bei informacija; dalyvauja formuojant Lietuvos bibliotekų fondą ir bibliotekų informacinę sistemą.
- 
-
-
-
-
-
-
-11 straipsnis. Aukštųjų mokyklų ir švietimo įstaigų bibliotekos
-
-
-Aukštųjų mokyklų ir švietimo įstaigų bibliotekos yra bibliotekos, kaupiančios spaudinių ir kitų dokumentų fondą, garantuojantį galimybę aukštajai mokyklai ar švietimo įstaigai įgyvendinti mokslo, didaktinius ir ugdymo tikslus, tobulinti dėstytojų (mokytojų) kvalifikaciją, ir dalyvaujančios formuojant Lietuvos bibliotekų fondą bei bibliotekų informacinę sistemą.
-
-
-
-
-Aukštojoje, aukštesniojoje, profesinėje ir bendrojo lavinimo mokykloje turi būti įsteigta biblioteka.
-
-
-
-
-Kaimo pradinėje ir pagrindinėje mokykloje rajono savivaldybės sprendimu biblioteka gali būti nesteigiama, jeigu yra rajono savivaldybės bibliotekos filialas, galintis aptarnauti šias mokyklas. Šiuo atveju savivaldybė viešajai bibliotekai turi skirti papildomą finansavimą.
- 
-
-
-
-
-
-
-12 straipsnis. Kitos bibliotekos
-
-
-Juridiniai ir fiziniai asmenys gali steigti bibliotekas, kurios tenkina jų poreikius naudotis spaudiniais ir kitais dokumentais bei informacija.
-
-
-
-
-Visose rajonų ir miestų ligoninėse, globos ir rūpybos institucijose, įkalinimo vietose turi būti organizuojamos bibliotekų paslaugos. Tam šiose institucijose steigiamos bibliotekos arba sudaromos sutartys su viešosiomis bibliotekomis dėl bibliotekų paslaugų.
- 
-
-
-
-
-
-
-13 straipsnis. Valstybinės reikšmės bibliotekos
-
-
-Bibliotekos, kurių fondai turi išskirtinę reikšmę mokslui, švietimui, kultūrai, šalies ūkiui ir sudaro Lietuvos bibliotekų fondo pagrindą, garantuoja jo vientisumą bei tenkina pagrindinius visuomenės poreikius naudotis spaudiniais ir kitais dokumentais bei informacija, yra valstybinės reikšmės bibliotekos. Valstybinės reikšmės bibliotekos yra:
-Vilniaus universiteto biblioteka,
-Lietuvos mokslų akademijos biblioteka,
-Lietuvos technikos biblioteka,
-Lietuvos medicinos biblioteka,
-Lietuvos aklųjų biblioteka.
-Valstybinės reikšmės bibliotekos yra savo tinklo bibliotekų metodikos centrai.
- 
-
-
-
-
-
-
-14 straipsnis. Bibliotekų tinklai ir kitokie susivienijimai
-
-
-Bibliotekų tinklas yra organizuota bibliotekų, kurias vienija panašūs tikslai bei kiti bendri požymiai, visuma.
-
-
-
-
-Tarpusavio susitarimu bibliotekos bendriems uždaviniams spręsti gali jungtis į asociacijas, susivienijimus ir kitokius junginius.
- 
-
-
-
-
-
-
-15 straipsnis. Bibliotekų registravimas
-
-
-Visos bibliotekos registruojamos Kultūros įstaigų registro nuostatų, patvirtintų Lietuvos Respublikos Vyriausybės, nustatyta tvarka.
- 
-
-
-
-
-
-
-16 straipsnis. Bibliotekų turtas
-
-
-Bibliotekos turtą gali sudaryti pastatai, patalpos, kitos pagrindinės priemonės, spaudinių ir kitų dokumentų fondas, finansiniai ištekliai ir kitas su bibliotekos veikla susijęs turtas. Valstybinės bibliotekos joms priskirtą valstybės turtą valdo, juo naudojasi neatlygintinai ir privalo jį tausoti bei saugoti.
-
-
-
-
-Valstybinių bibliotekų, jų skyrių ir filialų patalpos yra valdomos ir naudojamos patikėjimo teise
-Straipsnio dalies pakeitimai:
-Nr. VIII-1681, 2000-05-16, Žin., 2000, Nr. 43-1223 (2000-05-26), i. k. 1001010ISTAIII-1681
- 
-
-
-
-
-Pastatai ir patalpos, kuriose yra valstybinės bibliotekos, bei šių bibliotekų turtas neprivatizuojami, neparduodami, neperduodami, taip pat neįkeičiami. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1681, 2000-05-16, Žin., 2000, Nr. 43-1223 (2000-05-26), i. k. 1001010ISTAIII-1681
- 
-
-
-
-
-Bibliotekos steigėjas privalo rūpintis, kad biblioteka turėtų reikiamų lėšų, bibliotekininkystės specialistų, veiklai tinkamas patalpas ir bibliotekų įrangą.
- 
-
-
-
-
-
-
-17 straipsnis. Valstybinės bibliotekos iškeldinimas iš patalpų
-
-
-Biblioteka gali būti iškeldinta tik į geresnes už buvusias patalpas, tinkamas bibliotekos funkcijoms.
- 
-
-
-
-
-
-
-18 straipsnis. Bibliotekų reorganizavimas
-
-
-Valstybinių bibliotekų steigėjas, norėdamas reorganizuoti biblioteką, turi parengti jos reorganizavimo projektą ir prieš 1 mėnesį iki sprendimo apie bibliotekos reorganizavimą priėmimo dienos pateikti jį Kultūros ministerijai ir gauti jos leidimą reorganizuoti. Reorganizavimo projekte turi būti nurodytas bibliotekos pavadinimas, adresas, reorganizavimo būdas, tikslas, terminas, reorganizavimo pagrindimas, turto įvertinimas, prievolių perėmimas ir jų terminai, reorganizuojamos bei reorganizuotos bibliotekos uždaviniai ir funkcijos bei išsami informacija apie spaudinių ir kitų dokumentų fondo paskirstymą. Prie reorganizavimo projekto turi būti pridėtas po reorganizavimo veiksiančios bibliotekos įstatų projektas.
-
-
-
-
-Kultūros ministerija per 2 savaites nuo kreipimosi dienos turi priimti sprendimą dėl bibliotekos reorganizavimo.
-
-
-
-
-Kultūros ministerijos atsisakymą leisti reorganizuoti biblioteką steigėjas turi teisę apskųsti teismui.
- 
-
-
-
-
-
-
-19 straipsnis. Bibliotekų likvidavimas
-
-
-Valstybinės reikšmės ir viešosios bibliotekos negali būti likviduotos.
-
-
-
-
-Kitų valstybinių bibliotekų steigėjai, norėdami likviduoti biblioteką, turi parengti jos likvidavimo projektą ir prieš 1,5 mėnesio iki sprendimo apie bibliotekos likvidavimą priėmimo dienos pateikti jį Kultūros ministerijai ir gauti jos leidimą likviduoti. Likvidavimo projekte turi būti nurodytas bibliotekos pavadinimas, adresas, likvidavimo terminas, pagrindimas, turto įvertinimas, išsami informacija apie spaudinių ir kitų dokumentų fondo bei kitokio bibliotekos turto panaudojimą.
-
-
-
-
-Kultūros ministerija per 1 mėnesį nuo kreipimosi dienos turi priimti sprendimą dėl bibliotekos likvidavimo. Jei atsakymas neigiamas, turi būti pateikiami motyvai dėl priimto sprendimo.
-
-
-
-
-Kultūros ministerijos atsisakymą leisti likviduoti biblioteką steigėjas turi teisę apskųsti teismui.
-
-
-
-
-Steigėjas, gavęs Kultūros ministerijos sutikimą likviduoti biblioteką, turi sudaryti komisiją, kurioje privalo dalyvauti Kultūros ministerijos ir likviduojamos bibliotekos bei jos metodikos centro atstovai.
-
-
-
-
-Likviduojant valstybinę instituciją, turinčią biblioteką, šios bibliotekos likvidavimui arba reorganizavimui taikomi šio įstatymo 17 ir 18 straipsnių reikalavimai.
-
-
-
-
-Nevalstybinės bibliotekos likviduojamos steigėjo sprendimu prieš dvi savaites pranešus apie tai Kultūros ministerijai.
-
-
-
-
-Įsigyti parduodamus likviduojamos nevalstybinės bibliotekos spaudinius ir kitus dokumentus pirmumo teisę turi valstybinės bibliotekos.
-
-
-
-
-Likviduojamų bibliotekų dokumentai, sudarantys Lietuvos archyvų fondo dalį, naudojami Lietuvos Respublikos archyvų įstatymo nustatyta tvarka.
+13) leidžia teisės aktus, kuriais nustatomas privalomas Lietuvos standartų taikymas bibliotekų veikloje.
  
 
 
@@ -540,34 +189,15 @@ Likviduojamų bibliotekų dokumentai, sudarantys Lietuvos archyvų fondo dalį, 
 
 
 
-III. BIBLIOTEKŲ FONDAS
- 
+5 straipsnis. Lietuvos bibliotekų taryba
 
 
-20 straipsnis. Lietuvos bibliotekų fondas
-
-
-Lietuvos bibliotekų fondas – tai vienodais organizaciniais principais sudaryta ir bendros informacinės sistemos pagrindu sujungta bibliotekų fondų visuma.
+1. Bibliotekų taryba yra institucija, atliekanti eksperto ir konsultanto funkcijas, kai sprendžiami bibliotekų politikos formavimo ir įgyvendinimo klausimai. 
 
 
 
 
-Lietuvos bibliotekų fondo struktūrą, formavimo principus, bibliotekų teises ir pareigas formuojant šį fondą ir juo naudojantis nustato Kultūros ministerijos patvirtinti Lietuvos bibliotekų fondo nuostatai.
-
-
-
-
-Valstybinis bibliotekos fondas yra valstybės nuosavybė. Jo apskaitos, saugojimo ir naudojimo tvarką reglamentuoja įstatymų nustatyta tvarka patvirtinti bibliotekų standartai, kurie yra privalomi visoms valstybinėms bibliotekoms.
-
-
-
-
-Biblioteka, į kurią kreipiasi abonentas, privalo panaudoti viso Lietuvos bibliotekų fondo galimybes, kad būtų patenkinti abonento poreikiai.
-
-
-
-
-Bibliotekų dokumentai, sudarantys archyvų fondo dalį, saugomi ir naudojami Lietuvos Respublikos archyvų įstatymo nustatyta tvarka.
+2. Bibliotekų tarybos sudėtį ir nuostatus tvirtina kultūros ministras.
  
 
 
@@ -575,104 +205,45 @@ Bibliotekų dokumentai, sudarantys archyvų fondo dalį, saugomi ir naudojami Li
 
 
 
-21 straipsnis. Bibliotekos fondo komplektavimas
+6 straipsnis. Bibliotekų finansavimas ir lėšos
 
 
-Bibliotekos fondas komplektuojamas iš gaunamų privalomųjų spaudinių egzempliorių, iš juridinių ir fizinių asmenų įsigyjamų spaudinių ir kitų dokumentų, keičiantis spaudiniais ir kitais dokumentais su Lietuvos ir kitų valstybių bibliotekomis, iš dovanotų arba gautų kaip palikimas spaudinių ir kitų dokumentų.
+1. Nacionalinei bibliotekai ir valstybinės reikšmės bibliotekoms išlaikyti skiriami asignavimai. Jie Lietuvos valstybės biudžete nurodomi atskira eilute.
 
 
 
 
-Privalomąjį nemokamą spaudinių ir kitų dokumentų egzempliorių gauna Nacionalinė, valstybinės reikšmės ir apskričių viešosios bibliotekos. Privalomųjų egzempliorių skaičių, jų skyrimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+2. Apskričių viešosios bibliotekos finansuojamos iš valstybės biudžeto. 
 
 
 
 
-Rajono ir miesto leidėjai privalo siųsti po vieną nemokamą privalomąjį spaudinių ir kitų dokumentų egzempliorių šio rajono arba miesto savivaldybės bibliotekai.
+3. Savivaldybių viešosios bibliotekos finansuojamos iš savivaldybių biudžetų. 
 
 
 
 
-Spaudinių ir kitų dokumentų siuntimo bibliotekoms tvarką ir tarifus nustato Lietuvos Respublikos Vyriausybė.
- 
+4. Lėšos dokumentams įsigyti apskričių ir savivaldybių viešosioms bibliotekoms skiriamos iš valstybės biudžeto ir savivaldybių biudžetų.
 
 
 
 
+5. Mokslo ir studijų institucijoms bei mokykloms bibliotekų veiklai lėšos skiriamos iš steigėjų (ir) ar valstybės biudžeto bei savivaldybių biudžetų lėšų.
 
 
-22 straipsnis. Depozitinis fondas
 
 
-Lietuvos bibliotekų nenaudojami ar turintys nedidelę paklausą, bet nepraradę mokslinės ar istorinės vertės spaudiniai ir kiti dokumentai gali būti perduoti į depozitinį fondą, veikiantį pagal Kultūros ministerijos patvirtintus nuostatus.
- 
+6. Specialiosios bei kitos bibliotekos finansuojamos iš steigėjų lėšų.
 
 
 
 
+7. Valstybinės bibliotekų plėtojimo bei mokslinių tyrimų programos finansuojamos iš valstybės biudžeto ir savivaldybių biudžetų bei rėmėjų lėšų.
 
 
-23 straipsnis. Mainų fondas
 
 
-Bibliotekos neprofiliniai, dubletiniai, mažą paklausą turintys bei mainams skirti spaudiniai ir kiti dokumentai gali būti perduoti į mainų fondą.
-
-
-
-
-Spaudinių ir kitų dokumentų mainų, perdavimo ir pardavimo iš mainų fondo tvarką nustato Kultūros ministerija.
- 
-
-
-
-
-
-
-24 straipsnis. Bibliotekų fondų apsauga
-
-
-Bibliotekos fondo saugojimo sąlygas ir apskaitos tvarką reglamentuoja įstatymų nustatyta tvarka patvirtinti bibliotekos fondo apskaitos ir saugojimo standartai.
-
-
-
-
-Bibliotekų abonentai privalo laikytis naudojimosi biblioteka taisyklių ir saugoti naudojamus spaudinius bei kitus dokumentus. Bibliotekų abonentai, praradę spaudinius ir kitus dokumentus iš bibliotekos fondų arba padarę jiems nepataisomą žalą, privalo juos pakeisti tokiais pat arba bibliotekos pripažintais lygiaverčiais, o jei pakeisti neįmanoma, – atlyginti dešimteriopą jų rinkos kainą.
-
-
-
-
-Už bibliotekos spaudinių ir kitų dokumentų negrąžinimą nurodytu terminu imamas mokestis, kurio dydį nustato Kultūros ministerijos patvirtintos Tipinės skaitytojų aptarnavimo taisyklės.
-
-
-
-
-Skaitytojams, turintiems laikinąjį skaitytojo bilietą, spaudiniai ir kiti dokumentai išduodami į namus už spaudinių ir kitų dokumentų rinkos kainos dydžio užstatą.
-
-
-
-
-Bibliotekos darbuotojai, dėl kurių kaltės dingo, buvo pagrobti, sunaikinti arba sužaloti bibliotekos spaudiniai ir kiti dokumentai, atsako įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-25 straipsnis. Bibliotekos rankraščių, senų, retų, ypač vertingų spaudinių ir kitų dokumentų apsauga ir restauravimas
-
-
-Bibliotekos rankraščių, senų, retų, ypač vertingų spaudinių ir kitų dokumentų saugojimo ir naudojimo tvarką nustato kultūros ministro patvirtinti Rankraščių ir senų bei ypač vertingų spaudinių apsaugos nuostatai.
-
-
-
-
-Rankraščiai, seni, reti, ypač vertingi spaudiniai ir kiti dokumentai gali būti restauruojami bibliotekose, kurių nuostatuose numatyta restauravimo funkcija, bei kitose institucijose, turinčiose Kultūros ministerijos išduotą licenciją restauruoti kultūros vertybes.
-
-
-
-
-Restauruoti rankraščius, senus, retus, ypač vertingus spaudinius ir kitus dokumentus turi teisę restauratoriai (asmenys, turintys Kultūros ministerijos suteiktą restauratoriaus kvalifikaciją), taip pat restauratorių vadovaujami asmenys.
+8. Bibliotekų lėšų šaltiniai gali būti teikiamos mokamos paslaugos bei kitos teisėtais būdais įgytos lėšos.
  
 
 
@@ -682,134 +253,83 @@ Restauruoti rankraščius, senus, retus, ypač vertingus spaudinius ir kitus dok
 
 
 
-IV. BIBLIOTEKŲ FINANSAVIMAS
+TREČIASIS SKIRSNIS
+BIBLIOTEKŲ SISTEMA
  
 
 
-26 straipsnis. Bibliotekų finansavimas
+7 straipsnis. Bibliotekų sistema
 
 
-Nacionalinei Martyno Mažvydo ir valstybinės reikšmės bibliotekoms išlaikyti skiriamų lėšų dydis nurodomas Lietuvos valstybės biudžete atskira eilute.
+1. Lietuvos bibliotekų sistemą sudaro:
 
 
+1) Lietuvos nacionalinė biblioteka;
 
 
-Apskričių viešosios bibliotekos finansuojamos iš valstybės biudžeto per Kultūros ministeriją.
 
 
+2) apskričių viešosios bibliotekos;
 
 
-Rajonų ir miestų savivaldybių bei bendrojo lavinimo mokyklų bibliotekos finansuojamos iš savivaldybių biudžetų. Rajonų ir miestų savivaldybių bibliotekų lėšos spaudiniams ir kitiems dokumentams įsigyti skiriamos iš valstybės biudžeto per Kultūros ministeriją. Bendrojo lavinimo mokyklų bibliotekų lėšos spaudiniams ir kitiems dokumentams įsigyti skiriamos iš valstybės biudžeto per Švietimo ir mokslo ministeriją.
 
 
+3) savivaldybių viešosios bibliotekos;
 
 
-Kitos valstybinės ir nevalstybinės bibliotekos finansuojamos iš steigėjų lėšų.
 
 
+4) mokslo ir studijų institucijų bibliotekos;
 
 
-Valstybinių bibliotekų finansavimo normatyvus nustato Lietuvos Respublikos Vyriausybė.
 
 
+5) mokyklų (išskyrus aukštąsias) bibliotekos;
 
 
-Valstybinės bibliotekų plėtojimo bei mokslinių tyrimų programos finansuojamos iš valstybės biudžeto ir kooperuotų valstybės bei bibliotekų steigėjų lėšų.
 
 
+6) specialiosios bibliotekos;
 
 
-Valstybinės bibliotekos gali teikti mokamas paslaugas, kurių sąrašą nustato Kultūros ministerija.
 
 
+7) kitos bibliotekos.
 
 
-Valstybinių bibliotekų pajamos neapmokestinamos.
- 
 
 
 
 
+2. Bibliotekos, kuriose sukauptas rašto ir kultūros paveldas turi išskirtinę reikšmę mokslui, švietimui, kultūrai ir šalies ūkiui, yra valstybinės reikšmės bibliotekos. Pagal steigėjo patvirtintus nuostatus šios bibliotekos atlieka atitinkamos srities bibliotekų veiklos koordinavimo ir metodinės pagalbos funkcijas. Valstybinės reikšmės bibliotekos statusas suteikiamas ir atšaukiamas šiuo įstatymu.
 
 
 
 
-V. BIBLIOTEKŲ VEIKLOS REGULIAVIMAS
- 
+3. Valstybinės reikšmės bibliotekos yra:
 
 
-27 straipsnis. Kultūros ministerijos kompetencija bibliotekų veiklos reguliavimo srityje
+1) Lietuvos aklųjų biblioteka;
 
 
-Įgaliotoji Lietuvos Respublikos bibliotekų valstybinio reguliavimo institucija yra Kultūros ministerija, kuri:
 
 
-1) kartu su Bibliotekų taryba nustato bibliotekų plėtros strategiją;
+2) Lietuvos medicinos biblioteka;
 
 
 
 
-2) rengia ir finansuoja bibliotekininkystės programas;
+3) Lietuvos mokslų akademijos biblioteka;
 
 
 
 
-3) steigia, likviduoja, finansuoja ir kontroliuoja pavaldžias bibliotekas;
+4) Lietuvos technikos biblioteka;
 
 
 
 
-4) skiria pavaldžių bibliotekų vadovus, raštu derina rajonų ir miestų savivaldybių bibliotekų vadovų skyrimą ir atleidimą;
-
-
-
-
-5) registruoja steigiamas bibliotekas;
-
-
-
-
-6) duoda leidimą reorganizuoti ar likviduoti valstybinę biblioteką;
-
-
-
-
-7) rengia, derina ir tvirtina bibliotekų veiklą reglamentuojančius dokumentus;
-
-
-
-
-8) užsako ir finansuoja mokslinių tyrimų temas;
-
-
-
-
-9) koordinuoja Lietuvos valstybinių bibliotekų veiklą, jų dalyvavimą tarpvalstybinėse bibliotekininkystės, informacijos ir dokumentacijos programose;
-
-
-
-
-10) finansuoja rajonų ir miestų savivaldybių bibliotekų spaudinių ir kitų dokumentų įsigijimą;
-
-
-
-
-11) finansiškai gali remti ne jos reguliavimo sričiai priklausančias bibliotekas, įgyvendinančias valstybines bibliotekų plėtros programas;
-
-
-
-
-12) kontroliuoja, kaip laikomasi šio įstatymo ir kitų bibliotekų veiklą reglamentuojančių dokumentų;
-
-
-
-
-13) turi teisę rinkti statistinius duomenis apie bibliotekų veiklą pagal Lietuvos Respublikos statistikos departamento patvirtintas formas;
-
-
-
-
-14) nustato bibliotekininkų kvalifikacines kategorijas, bibliotekų darbuotojų kvalifikacijos reikalavimus, tvirtina tipines pareigines bibliotekos darbuotojų instrukcijas, bibliotekininkų kvalifikacijos tobulinimo, perkvalifikavimo ir atestavimo tvarką, teikia pasiūlymus mokymo įstaigoms bibliotekininkų rengimo, kvalifikacijos tobulinimo ir perkvalifikavimo klausimais.
+5) Vilniaus universiteto biblioteka.
  
 
 
@@ -819,28 +339,108 @@ V. BIBLIOTEKŲ VEIKLOS REGULIAVIMAS
 
 
 
-28 straipsnis. Savivaldybių kompetencija bibliotekų veiklos reguliavimo srityje
+8 straipsnis. Lietuvos nacionalinė biblioteka 
 
 
-Savivaldybės pagal savo kompetenciją:
-
-
-1) steigia savivaldybių bibliotekas, suderinusios su Kultūros ministerija, nustato savivaldybių bibliotekų tinklą;
+1. Lietuvos nacionalinė biblioteka yra Lietuvos nacionalinė Martyno Mažvydo biblioteka (toliau – Nacionalinė biblioteka) – pagrindinė visiems vartotojams prieinama mokslinė Lietuvos Respublikos biblioteka.
 
 
 
 
-2) finansuoja, kontroliuoja savivaldybių bibliotekas ir rūpinasi jų materialine baze;
+2. Nacionalinė biblioteka yra valstybės biudžetinė įstaiga. 
 
 
 
 
-3) raštu suderinusios su Kultūros ministerija, skiria ir atleidžia savivaldybės bibliotekos vadovus;
+3. Nacionalinės bibliotekos steigėja yra Vyriausybė. Steigėjo funkcijas atlieka Kultūros ministerija. 
 
 
 
 
-4) Kultūros ministerijai leidus, reorganizuoja savivaldybės bibliotekas.
+4. Nacionalinės bibliotekos nuostatus tvirtina Vyriausybė.
+
+
+
+
+5. Nacionalinė biblioteka atlieka šias funkcijas:
+
+
+1) kaupia ir saugo Lietuvoje ir užsienyje publikuotus lituanistinius dokumentus, vykdo bibliografinę apskaitą;
+
+
+
+
+2) kaupia ir saugo šalies mokslui, švietimui, kultūrai ir ūkiui reikalingus Lietuvos ir užsienio šalių dokumentus;
+
+
+
+
+3) kaupia ir saugo nacionalinį publikuotų dokumentų archyvinį fondą;
+
+
+
+
+4) atlieka šalies universalaus tarpžinybinio depozitoriumo funkcijas;
+
+
+
+
+5) rengia ir leidžia Lietuvos valstybinę einamąją ir nacionalinę retrospektyviąją bibliografiją, įvairių mokslo sričių bibliografines rodykles, sudaro suvestinius katalogus ir duomenų bazes;
+
+
+
+
+6) atlieka Lietuvoje publikuotų dokumentų tarptautinę standartinę numeraciją (ISBN, ISSN, ISMN);
+
+
+
+
+7) kontroliuoja privalomųjų nemokamų dokumentų egzempliorių pateikimą nacionaliniam publikuotų dokumentų archyviniam fondui ir bibliotekoms;
+
+
+
+
+8) dalyvauja rengiant bibliotekų, dokumentavimo ir informacijos, bibliografavimo ir referavimo, archyvų ir dokumentų, informacijos mokslų ir leidybos sričių Lietuvos ir tarptautinių standartų projektus, nustatyta tvarka rengia ir teikia kultūros ministrui tvirtinti teisės aktų projektus, nustatančius privalomą šių sričių Lietuvos standartų taikymą bibliotekų veikloje, ir kontroliuoja, kaip taikomi Lietuvos standartai;
+
+
+
+
+9) atlieka Lietuvoje publikuotų dokumentų statistinę apskaitą;
+
+
+
+
+10) aptarnauja vartotojus;
+
+
+
+
+11) atlieka parlamentinės bibliotekos funkciją: tenkina Seimo ir Vyriausybės, kitų valstybės valdžios, valdymo institucijų ar jų valstybės tarnautojų, atliekančių tarnybines funkcijas, informacines reikmes, kaupia ir tvarko tam reikiamus dokumentus bei kitą informaciją;
+
+
+
+
+12) atlieka šalies ir tarptautinio tarpbibliotekinio abonemento centro funkcijas;
+
+
+
+
+13) teikia metodinę pagalbą Lietuvos bibliotekoms;
+
+
+
+
+14) kaupia ir analizuoja Lietuvos bibliotekų veiklos statistinius duomenis;
+
+
+
+
+15) kuria ir diegia Lietuvos integralią bibliotekų informacijos sistemą (LIBIS);
+
+
+
+
+16) atlieka kitas nuostatuose apibrėžtas funkcijas.
  
 
 
@@ -850,20 +450,166 @@ Savivaldybės pagal savo kompetenciją:
 
 
 
-29 straipsnis. Lietuvos bibliotekų taryba
+9 straipsnis. Apskrities viešoji biblioteka
 
 
-Lietuvos bibliotekų taryba yra institucija, kuri, kaip ekspertas ir konsultantas, sprendžia svarbiausius bibliotekų veiklos klausimus. Lietuvos bibliotekų tarybą sudaro Nacionalinės, valstybinės reikšmės, regionų apskričių bibliotekų, bibliotekininkų draugijų, sąjungų, asociacijų atstovai, mokslininkai bei kiti bibliotekininkystės specialistai.
-
-
-
-
-Lietuvos bibliotekų taryba teikia pasiūlymus Kultūros ministerijai ir Lietuvos Respublikos Vyriausybei bibliotekų plėtros strategijos, bibliotekininkystės programų ir jų finansavimo, biudžeto lėšų, skirtų bibliotekų plėtrai, paskirstymo, bibliotekų veiklą reglamentuojančių dokumentų tikslingumo ir kokybės, mokslinių tyrimų krypčių ir jų finansavimo bei kitais svarbiausiais bibliotekininkystės klausimais.
+1. Apskrities viešoji biblioteka yra biudžetinė įstaiga. Jos steigėjas yra apskrities viršininkas. 
 
 
 
 
-Lietuvos bibliotekų tarybos sudėtį tvirtina kultūros ministras, nuostatus kultūros ministro teikimu tvirtina Lietuvos Respublikos Vyriausybė.
+2. Apskrities viešoji biblioteka užtikrina valstybinių bibliotekininkystės plėtojimo programų vykdymą apskrityje, aptarnauja vartotojus, yra apskrities teritorijoje veikiančių viešųjų bibliotekų veiklos tyrimo, koordinavimo, metodinės pagalbos, tarpbibliotekinio abonemento, bibliografijos, kraštotyros ir informacijos centras.
+
+
+
+
+3. Apskrities viešoji biblioteka kaupia ir saugo apskrities poreikius tenkinantį universalų dokumentų fondą, dalyvauja formuojant Lietuvos bibliotekų fondą ir kuriant bibliotekų informacijos sistemą.
+
+
+
+
+4. Apskrities viešoji biblioteka apskrities ir savivaldybės sutartimi gali atlikti savivaldybės viešosios bibliotekos funkcijas.
+ 
+
+
+
+
+
+
+10 straipsnis. Savivaldybės viešoji biblioteka
+
+
+1. Savivaldybės viešoji biblioteka yra biudžetinė įstaiga. Jos steigėja yra savivaldybė. 
+
+
+
+
+2. Savivaldybės viešoji biblioteka kaupia ir saugo savivaldybės poreikius tenkinantį universalų dokumentų fondą, aptarnauja vartotojus, dalyvauja formuojant Lietuvos bibliotekų fondą ir kuriant bibliotekų informacijos sistemą.
+
+
+
+
+3. Kiekvienoje savivaldybėje turi būti įsteigta savivaldybės viešoji biblioteka, išskyrus šio įstatymo 9 straipsnio 4 dalyje ir šio straipsnio 7 dalyje nustatytus atvejus.
+
+
+
+
+4. Gali būti steigiami savivaldybės viešosios bibliotekos filialai miesto mikrorajonuose, miesteliuose ir (arba) kaimuose, taip pat filialai, aptarnaujantys vaikus ar kitas vartotojų grupes, bei mobiliosios bibliotekos.
+
+
+
+
+5. Kad būtų užtikrintas bibliotekos paslaugų prieinamumas savivaldybės teritorijos gyventojams, steigiami savivaldybės viešosios bibliotekos filialai:
+
+
+1) miestuose (filialai paprastai steigiami vidutiniškai 20–30 tūkst. gyventojų);
+
+
+
+
+2) miesteliuose ir kaimuose (vienas bibliotekos filialas paprastai steigiamas vidutiniškai 700–800 gyventojų).
+
+
+
+
+
+
+6. Savivaldybės viešosios bibliotekos filialų skaičių ir jų išdėstymą, atsižvelgiant į vietos sąlygas, nustato savivaldybės taryba.
+
+
+
+
+7. Mieste, kuriame yra miesto ir rajono savivaldybių bibliotekos, miesto ir rajono savivaldybių susitarimu gali būti viena biblioteka, aptarnaujanti miesto ir rajono gyventojus. Ši biblioteka finansuojama iš miesto ir rajono savivaldybių biudžetų lėšų.
+
+
+
+
+8. Savivaldybės viešoji biblioteka savivaldybės tarybos sprendimu gali aptarnauti kaimo pradinę ar pagrindinę mokyklą. Tokiu atveju savivaldybės viešoji biblioteka ir mokykla sudaro jungtinės veiklos (asociacijos) sutartį.
+
+
+
+
+9. Savivaldybės viešoji biblioteka savo veiklos nuostatų nustatyta tvarka teikia metodinę pagalbą savivaldybės teritorijoje esančioms bibliotekoms.
+ 
+
+
+
+
+
+
+11 straipsnis. Mokslo ir studijų institucijos biblioteka
+
+
+1. Mokslinių tyrimų įstaigos gali vykdyti bibliotekų veiklą. Jos kaupia ir saugo dokumentų fondą, kuris tenkina mokslinių tyrimų įstaigos poreikius naudotis dokumentais bei informacija, aptarnauja vartotojus ir dalyvauja formuojant Lietuvos bibliotekų fondą bei kuriant bibliotekų informacijos sistemą.
+
+
+
+
+2. Aukštosios mokyklos gali vykdyti bibliotekų veiklą. Jos kaupia ir saugo dokumentų fondą, garantuojantį galimybę mokyklai įgyvendinti mokslo ir studijų tikslus, tobulinti dėstytojų kvalifikaciją, aptarnauja vartotojus ir dalyvauja formuojant Lietuvos bibliotekų fondą bei kuriant bibliotekų informacijos sistemą.
+
+
+
+
+3. Valstybinėje aukštojoje mokykloje turi veikti biblioteka.
+ 
+
+
+
+
+
+
+12 straipsnis. Mokyklos (išskyrus aukštosios) biblioteka
+
+
+1. Mokyklos (išskyrus aukštąsias) gali vykdyti bibliotekų veiklą. Mokyklos (išskyrus aukštosios) biblioteka yra šios mokyklos struktūrinis padalinys, joje aptarnaujama mokyklos bendruomenė.
+
+
+
+
+2. Valstybinėje aukštesniojoje, profesinėje ir bendrojo lavinimo mokykloje turi veikti mokyklos biblioteka.
+
+
+
+
+3. Apskričių ir savivaldybių viešosios bibliotekos teikia metodinę pagalbą mokyklų bibliotekoms.
+ 
+
+
+
+
+
+
+13 straipsnis. Specialioji biblioteka
+
+
+1. Specialioji biblioteka gali veikti kaip biudžetinė įstaiga ar kitos teisinės formos viešasis juridinis asmuo arba juridinio asmens, turinčio teisę vykdyti bibliotekų veiklą, struktūrinis padalinys. Ji kaupia ir saugo specializuotą Lietuvoje bei užsienyje publikuotų dokumentų fondą, aptarnauja vartotojus, dalyvauja formuojant Lietuvos bibliotekų fondą ir kuriant bibliotekų informacijos sistemą.
+
+
+
+
+2. Specialioji biblioteka ir jos teikiamos paslaugos skirtos tenkinti bibliotekos steigimo dokumentuose nustatytų vartotojų poreikius naudotis dokumentais bei informacija. 
+ 
+
+
+
+
+
+
+14 straipsnis. Kitos bibliotekos
+
+
+Kitos bibliotekos – bibliotekų veikla užsiimantys viešieji ar privatūs juridiniai asmenys, nenurodyti šio įstatymo 8–13 straipsniuose. 
+ 
+
+
+
+
+
+
+15 straipsnis. Valstybės ar savivaldybių įsteigtų bibliotekų perkėlimas iš užimamų patalpų
+
+
+Valstybės ar savivaldybių įsteigtas bibliotekas galima perkelti iš užimamų patalpų tik į geresnes, bibliotekų veiklai vykdyti tinkamas, patalpas.
  
 
 
@@ -873,14 +619,30 @@ Lietuvos bibliotekų tarybos sudėtį tvirtina kultūros ministras, nuostatus ku
 
 
 
-VI. ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
+KETVIRTASIS SKIRSNIS
+LIETUVOS BIBLIOTEKŲ FONDAS IR JO APSAUGA
  
 
 
-30 straipsnis. Atsakomybė už Lietuvos Respublikos bibliotekų įstatymo pažeidimus
+16 straipsnis. Lietuvos bibliotekų fondas 
 
 
-Asmenys, pažeidę Lietuvos Respublikos bibliotekų įstatymą, atsako pagal Lietuvos Respublikos įstatymus.
+1. Vienodais organizaciniais principais sudaryta ir bendros informacinės sistemos pagrindu sujungta bibliotekų dokumentų fondų visuma sudaro Lietuvos bibliotekų fondą.
+
+
+
+
+2. Lietuvos bibliotekų fondo struktūrą, formavimo principus, bibliotekų teises ir pareigas formuojant šį fondą ir juo naudojantis reglamentuoja kultūros ministro patvirtinti Lietuvos bibliotekų fondo nuostatai ir kiti teisės aktai, kuriais patvirtintas privalomas atitinkamų Lietuvos standartų taikymas. 
+
+
+
+
+3. Tarptautinių organizacijų depozitiniai fondai yra neatskiriama Lietuvos bibliotekų fondo dalis. Tarptautinių organizacijų depozitinių fondų komplektavimo, saugojimo ir naudojimo tvarką nustato šių organizacijų ir bibliotekų tarpusavio sutartys.
+
+
+
+
+4. Kiekviena valstybės ar savivaldybės įsteigta biblioteka privalo panaudoti visas Lietuvos bibliotekų fondo galimybes vartotojo poreikiams tenkinti. 
  
 
 
@@ -888,17 +650,92 @@ Asmenys, pažeidę Lietuvos Respublikos bibliotekų įstatymą, atsako pagal Lie
 
 
 
+17 straipsnis. Lietuvos bibliotekų fondo struktūra
 
 
-VII. TARPTAUTINIS BIBLIOTEKŲ BENDRADARBIAVIMAS
+1. Lietuvos bibliotekų fondą sudaro: bibliotekų pagrindiniai fondai, depozitiniai fondai, mainų fondai, atsarginiai fondai, senų, retų ir ypač vertingų knygų ir rankraščių fondai, nacionalinis publikuotų dokumentų archyvinis fondas.
+
+
+
+
+2. Pagrindiniai fondai yra sudaromi bibliotekos vartotojams aptarnauti ir turi atitikti bibliotekos veiklos tikslą bei vartotojų poreikius.
+
+
+
+
+3. Depozitiniai fondai yra sudaromi iš retai vartotojų naudojamų, bet nepraradusių savo kultūrinės, mokslinės bei istorinės vertės dokumentų, siekiant optimaliai panaudoti bibliotekų saugyklas ir sumažinti saugojimo išlaidas. Depozitinis fondas yra saugomas Nacionalinėje bibliotekoje (universalūs dokumentai), Lietuvos technikos bibliotekoje (specialūs patentiniai ir norminiai dokumentai) ir Lietuvos aklųjų bibliotekoje (dokumentai aklųjų (Brailio) raštu, specialiai silpnaregiams išspausdinti didesniu šriftu, ir garsiniai dokumentai).
+
+
+
+
+4. Mainų fonduose kaupiami dubletai, neprofiliniai ir specialiai įsigyti keistis su kitomis bibliotekomis bei informacijos įstaigomis dokumentai.
+
+
+
+
+5. Atsarginiai fondai yra sudaromi iš dubletų ir laikinai neaktualių dokumentų egzempliorių. Šie fondai yra skirti bibliotekų fondams papildyti bei atnaujinti.
+
+
+
+
+6. Senų, retų ir ypač vertingų spaudinių bei rankraščių fondai sudaromi iš rankraščių ir jiems prilygstančių dokumentų, autorizuotų ir neautorizuotų mašinraščių, spaudinių korektūrinių egzempliorių, fotografijų, brėžinių ir senų bei ypač vertingų spaudinių.
+
+
+
+
+7. Nacionalinis publikuotų dokumentų archyvinis fondas yra kaupiamas iš Vyriausybės nustatyta tvarka viešosios informacijos rengėjų pateikiamų dviejų nemokamų privalomųjų publikuotų dokumentų egzempliorių, siekiant juos išsaugoti kaip kultūros paveldą.
  
 
 
-31 straipsnis. Tarptautinis bibliotekų bendradarbiavimas
 
 
-Lietuvos Respublikos bibliotekos turi teisę užmegzti tiesioginius ryšius su kitų valstybių bibliotekomis ir kitomis institucijomis, įstoti į tarptautines bibliotekų asociacijas ir dalyvauti jų veikloje, įstatymų nustatyta tvarka keistis specialistais, spaudiniais ir kitais dokumentais tiesioginių susitarimų būdu ir pagal tarpvalstybines kultūros bendradarbiavimo sutartis.
+
+
+18 straipsnis. Lietuvos bibliotekų fondo komplektavimas
+
+
+Lietuvos bibliotekų fondas yra komplektuojamas iš Vyriausybės nustatyta tvarka viešosios informacijos rengėjų pateikiamų nemokamų privalomųjų egzempliorių, iš fizinių bei juridinių asmenų įsigyjamų dokumentų, keičiantis dokumentais su Lietuvos ir užsienio bibliotekomis bei informacijos įstaigomis, iš dovanotų, gautų kaip palikimas ar kitais teisėtais būdais įsigytų dokumentų.
  
+
+
+
+
+
+
+19 straipsnis. Lietuvos bibliotekų fondo apsauga
+
+
+1. Lietuvos bibliotekų fondo saugojimo sąlygas ir apskaitos tvarką reglamentuoja kultūros ministro patvirtinti Bibliotekų fondo apsaugos nuostatai.
+
+
+
+
+2. Naudojimosi biblioteka taisykles tvirtina juridinio asmens, vykdančio bibliotekų veiklą, valdymo organas.
+
+
+
+
+3. Bibliotekos vartotojai privalo laikytis naudojimosi biblioteka taisyklių ir saugoti naudojamus dokumentus. Bibliotekos vartotojai, praradę dokumentus iš bibliotekos fondų arba juos nepataisomai sugadinę, privalo juos pakeisti tokiais pat arba bibliotekos pripažintais lygiaverčiais, o jei pakeisti neįmanoma, – atlyginti padarytą žalą įstatymų nustatyta tvarka. Naudojimosi biblioteka taisyklėse turi būti nustatyta dokumentų pripažinimo lygiaverčiais prarastiems ar nepataisomai sugadintiems dokumentams tvarka.
+
+
+
+
+4. Už bibliotekos dokumentų negrąžinimą per nurodytą terminą atlyginama naudojimosi biblioteka taisyklėse nustatyta tvarka.
+
+
+
+
+5. Naudojimosi biblioteka taisyklėse gali būti nustatyta, kad vartotojams, turintiems laikinąjį pažymėjimą, dokumentai išduodami į namus už užstatą, kurio dydis, grąžinimo tvarka ir terminai nustatomi šiose taisyklėse.
+
+
+
+
+6. Bibliotekų darbuotojai, dėl kurių kaltės dingo, buvo pagrobti, sunaikinti arba sugadinti bibliotekos dokumentai, atsako įstatymų nustatyta tvarka. 
+
+
+
+
+7. Rankraščiai ir seni bei ypač vertingi dokumentai gali būti restauruojami bibliotekose, kurių nuostatuose numatyta restauravimo funkcija, bei kitose institucijose, kuriose dirba atestuoti restauratoriai (asmenys, Lietuvos Respublikoje arba užsienyje įgiję restauratorius profesinę kvalifikaciją, turintys Lietuvos Respublikos kultūros ministro pripažintą arba užsienyje įgytą ir nustatyta tvarka pripažintą restauratoriaus kvalifikaciją), taip pat atestuotų restauratorių vadovaujami asmenys.
  
 
 
@@ -918,9 +755,15 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1681, 2000-05-16, Žin., 2000, Nr. 43-1223 (2000-05-26), i. k. 1001010ISTAIII-1681
 Lietuvos Respublikos bibliotekų įstatymo 16 straipsnio pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2378, 2004-07-15, Žin., 2004, Nr. 120-4431 (2004-08-03), i. k. 1041010ISTA0IX-2378
+Lietuvos Respublikos bibliotekų įstatymo pakeitimo įstatymas
