@@ -104,6 +104,70 @@ kurios pagrindinė veikla yra prekinės žemės ūkio produkcijos gamyba ir pasl
             ūkininkas - asmuo,
 besiverčiantis prekine žemės ūkio produkcijos gamyba ir naudojantis šiai
 veiklai žemės ūkio paskirties žemę.
+ 
+[Straipsnio redakcija nuo 2001 m. sausio
+1d.:
+2 straipsnis. Pagrindinės
+sąvokos
+Šiame įstatyme:
+1) žemė -
+svarbiausia gamtinės aplinkos dalis, apimanti Lietuvos Respublikos teritorijoje
+esančius sausumos, vandens ir miško plotus, apibūdinama gamtinėmis ir ūkinėmis
+charakteristikomis. Žmogaus veikloje žemė yra nekilnojamasis turtas, pagrindinė
+priemonė žemės ir miškų ūkyje ir teritorinė bazė kitoms ūkio šakoms plėtoti,
+gyvenamųjų vietovių, infrastruktūros sistemos elementams išdėstyti. Žemės
+santykių reguliavimo objektas yra visa Lietuvos Respublikos teritorija, įskaitant
+racionaliam žemės naudojimui reikalingus žemės paviršiaus, oro erdvės
+sluoksnius, vidaus ir teritorinius vandenis;
+2) žemės sklypas
+- teritorijos dalis, turinti nustatytas ribas ir pagrindinę tikslinę žemės
+naudojimo paskirtį;
+3) žemėnauda -
+žemės sklypas arba bendra ūkine veikla susieti du ir daugiau žemės sklypų,
+nustatyta tvarka įteisinti naudotis fiziniam arba juridiniam asmeniui;
+4) žemės valda
+(žemėvalda) - privatinės arba valstybinės nuosavybės teise valdomas žemės
+sklypas arba žemėnauda;
+5) žemės
+naudmenos - žemės plotai, nuo kitų plotų besiskiriantys jiems būdingomis
+gamtinėmis savybėmis arba ūkinio naudojimo ypatumais;
+6) žemės ūkio
+naudmenos - žemės naudmenos (ariamoji žemė, sodai, pievos, ganyklos),
+naudojamos arba tinkamos naudoti be papildomų gerinimo priemonių žemės ūkio
+produkcijai auginti;
+7) žemės
+naudotojas - neišnuomotos privačios žemės savininkas arba fizinis ar juridinis
+asmuo, kuriam nustatyta tvarka išnuomota ar suteikta naudotis valstybinė žemė
+arba išnuomota privati žemė;
+8) žemės
+servitutai - žemės savininko ar valstybinės žemės naudotojo prievolė įstatymų
+nustatyta tvarka leisti kitiems asmenims ribotai naudotis žemės sklypo dalimi;
+9) žemės
+informacinės sistemos duomenys - žinių apie žemės naudmenų kiekybines ir
+kokybines savybes bei jos teisinę būklę visuma;
+10) valstybinė
+žemėtvarka - visuma priemonių, skirtų Lietuvos Respublikos žemės fondo
+valstybiniam valdymui ir žemės santykių reguliavimui, kurios laiduoja: 1)
+teisines ir organizacines sąlygas visuomenei naudingai ir bendrai tautos
+gerovei reikalingai ūkinei veiklai naudoti žemę, su ja susijusius ūkinius ir
+infrastruktūros objektus bei kitus gamtos išteklius; 2) valstybės ir jos
+piliečių žemės nuosavybės ir naudojimo teisių apsaugą;
+11) žemės
+paėmimas visuomenės poreikiams - įstatymų nustatyta tvarka žemės išpirkimas iš
+žemės savininkų arba valstybinės žemės naudojimo teisės bei valstybinės žemės
+nuomos sutarties nutraukimas, Lietuvos Respublikos Vyriausybei arba apskričių
+viršininkams nustačius, jog ši žemė yra būtina visuomenės poreikiams;
+12) žemės ūkio
+įmonė - įmonė, kurios pagrindinė veikla yra prekinės žemės ūkio produkcijos
+gamyba ir paslaugos žemės ūkiui ir kuri šiai veiklai naudoja žemės ūkio
+naudmenas;
+13) ūkininkas -
+asmuo, besiverčiantis prekine žemės ūkio produkcijos gamyba ir naudojantis šiai
+veiklai žemės ūkio paskirties žemę;
+            14) žemės kadastras -
+nekilnojamojo turto  kadastro dalis, kurioje nustatyti žemės sklypų formavimo
+taisyklės ir būdai ir kurią sudaro duomenų apie žemės kiekį, sudėtį, vertę ir
+ūkinio naudojimo būklę visuma.]
 Straipsnio
 pakeitimai:
 Nr.
@@ -112,9 +176,10 @@ I-939,
 Nr.
 VIII-315,
 97.06.26, Žin., 1997, Nr.66-1598 (97.07.11)
+Nr. VIII-1766, 00.06.27, Žin., 2000,
+Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
  
-            3 straipsnis. Žemės
-nuosavybė
+            3 straipsnis. Žemės nuosavybė
  
             Žemės nuosavybė - tai žemės
 savininko teisė valdyti jam priklausančią žemę, ja naudotis ir disponuoti.
@@ -143,6 +208,7 @@ pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
  
+ 
             4 straipsnis. Išimtinė
 valstybės nuosavybės teisė į tam tikrą žemę
  
@@ -170,6 +236,7 @@ pakeitimai:
 Nr.
 I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
+ 
  
             5 straipsnis. Lietuvos
 Respublikos žemės fondas
@@ -202,6 +269,7 @@ neprivatizuoti vandenys, sudaro valstybinio vandenų fondo žemę.
 Straipsnio pakeitimai:
 Nr. I-939,
 95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28)
+ 
  
 6 straipsnis.
 Valstybinės žemės valdymo teisė
@@ -244,6 +312,7 @@ VIII-315,
 97.06.26, Žin., 1997, Nr.66-1598 (97.07.11)
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+ 
  
             7 straipsnis. Žemės
 savininkų teisės
@@ -315,6 +384,7 @@ Nr.
 I-939,
 95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28)
  
+ 
             9 straipsnis. Žemės
 naudotojų pareigos
  
@@ -359,6 +429,7 @@ pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
  
+ 
 10 straipsnis. Specialiosios
 žemės, miško ir vandens telkinių naudojimo sąlygos
  
@@ -387,6 +458,7 @@ I-939,
 95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28)
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+ 
  
             11 straipsnis. Žemės
 servitutai
@@ -437,6 +509,7 @@ Nr.
 VIII-315,
 97.06.26, Žin., 1997, Nr.66-1598 (97.07.11)
  
+ 
 12 straipsnis.
 Žemės sklypų registravimas
  
@@ -474,6 +547,16 @@ sandorių forma
 raštu. Privačios žemės sandoriai (išskyrus žemės nuomos ir panaudos) turi būti
 patvirtinti notariškai. Privaloma bet kurio žemės sandorio dalis - žemės sklypo
 (sandorio objekto) planas, patvirtintas valstybinės žemėtvarkos tarnybos.
+ 
+[1 dalies redakcija nuo 2001 m. sausio
+1d.:
+Žemės sandoriai
+sudaromi raštu. Privačios žemės sandoriai (išskyrus trumpalaikes žemės nuomos
+ir panaudos sutartis) turi būti patvirtinti notariškai. Žemės sandoriams
+sudaryti privalo būti parengtas nekilnojamojo turto objekto - žemės sklypo
+planas. Jis rengiamas Nekilnojamojo turto kadastro tvarkytojo nustatyta
+tvarka.]
+ 
             Visi žemės sandoriai per
 tris mėnesius užregistruojami Nekilnojamojo turto registre įstatymų nustatyta
 tvarka.
@@ -484,6 +567,9 @@ pakeitimai:
 Nr.
 I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
+Nr. VIII-1766, 00.06.27, Žin., 2000,
+Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
+ 
  
             15 straipsnis. Žemės
 sandorių objektas ir rūšys
@@ -505,6 +591,7 @@ pakeitimai:
 Nr.
 I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
+ 
  
             16 straipsnis. Žemės
 perleidimo sutarties turinys ir sąlygos
@@ -548,6 +635,7 @@ Nr.
 I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
  
+ 
             17 straipsnis. Privačios
 žemės nuosavybės teisė
  
@@ -575,6 +663,7 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+ 
  
             18 straipsnis. Privačios
 žemės perleidimo ir padalijimo sąlygos
@@ -623,8 +712,9 @@ pakeitimai:
 Nr.
 I-939,
 95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28) 
-Nr. VIII-1664, 00.05.04, Žin., 2000, Nr.42-1191
-(00.05.24)
+Nr. VIII-1664, 00.05.04, Žin., 2000,
+Nr.42-1191 (00.05.24)
+ 
  
             19 straipsnis. Privačios
 žemės paveldėjimas
@@ -653,6 +743,7 @@ I-939,
 Nr.
 I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
+ 
  
             20 straipsnis. Privačios
 žemės įkeitimas
@@ -686,11 +777,23 @@ naudojimo teisių suvaržymu.
             Dalinant įkeistą žemės
 sklypą į kelis žemės sklypus, hipotekinis reikalavimas nedalomas ir apima visus
 naujai suformuotus žemės sklypus.
+ 
+[Straipsnio redakcija nuo 2001 m. sausio
+1 d.:
+20 straipsnis. Žemės
+įkeitimas
+Žemė įkeičiama
+Hipotekos įstatymo nustatyta tvarka. Įkeičiant dalį žemės, ši dalis turi būti
+atidalyta ir įregistruota Nekilnojamojo turto registre kaip atskiras žemės
+sklypas.]
 Straipsnio
 pakeitimai:
 Nr.
 I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
+Nr. VIII-1766, 00.06.27, Žin., 2000,
+Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
+ 
  
 III. VALSTYBINĖ
 ŽEMĖS NUOSAVYBĖ
@@ -718,6 +821,7 @@ pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
  
+ 
             22 straipsnis. Valstybinės
 žemės suteikimas naudotis ir nuomojimas
  
@@ -738,14 +842,15 @@ pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
  
+ 
 23 straipsnis. Institucijos, turinčios
 teisę perduoti naudotis valstybinę žemę
  
 Valstybinę žemę perduoda naudotis:
 1) savivaldybės taryba - žemės
 sklypus, nustatyta tvarka perduotus valdyti patikėjimo teise savivaldybėms;
-2) apskrities viršininkas - kitus
-valstybinės žemės sklypus, esančius apskrities teritorijoje.
+2) apskrities viršininkas - kitus valstybinės žemės sklypus, esančius
+apskrities teritorijoje.
 Žemės perdavimo
 naudotis tvarką nustato Lietuvos Respublikos Vyriausybė.
 Straipsnio
@@ -758,6 +863,7 @@ VIII-315,
 97.06.26, Žin., 1997, Nr.66-1598 (97.07.11)
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+ 
  
             24 straipsnis. Valstybinės
 žemės perleidimas privatinėn nuosavybėn
@@ -793,9 +899,9 @@ IV. BENDROJI
             25 straipsnis. Bendrosios
 žemės nuosavybės sąvoka ir rūšys
  
-            Žemės sklypas gali priklausyti
-bendrosios nuosavybės teise dviems ar keliems Lietuvos Respublikos piliečiams
-arba valstybei ir vienam ar keliems piliečiams.
+            Žemės sklypas gali
+priklausyti bendrosios nuosavybės teise dviems ar keliems Lietuvos Respublikos
+piliečiams arba valstybei ir vienam ar keliems piliečiams.
             Galima žemės sklypo bendroji
 nuosavybė su nustatytomis dalimis - dalinė nuosavybė, o be nustatytų dalių -
 jungtinė nuosavybė.
@@ -814,6 +920,7 @@ Nr.
 I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
  
+ 
             26 straipsnis. Žemės
 įsigijimas ir valdymas bendrosios dalinės 
 nuosavybės
@@ -828,15 +935,16 @@ dalinės nuosavybės teise, bendrasavininkių dalys nustatomos jų tarpusavio
 susitarimu ir įrašomos žemės pirkimo ir pardavimo sutartyje nurodant dalių dydį
 bei vertę.
             Privačios žemės sklypų
-savininkams susitarus, du ar keli žemės sklypai gali būti sujungti į vieną žemės
-sklypą, valdomą bendrosios dalinės nuosavybės teise. Žemės sklypai sujungiami
-sudarant rašytinę sutartį, kuri patvirtinama notariškai ir per tris mėnesius
-užregistruojama Nekilnojamojo turto registre.
+savininkams susitarus, du ar keli žemės sklypai gali būti sujungti į vieną
+žemės sklypą, valdomą bendrosios dalinės nuosavybės teise. Žemės sklypai
+sujungiami sudarant rašytinę sutartį, kuri patvirtinama notariškai ir per tris
+mėnesius užregistruojama Nekilnojamojo turto registre.
 Straipsnio
 pakeitimai:
 Nr.
 I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
+ 
  
             27 straipsnis. Žemės
 įsigijimas ir valdymas bendrosios dalinės 
@@ -872,12 +980,13 @@ VIII-315,
  
 Žemė,
 sutuoktinių įsigyta privatinėn nuosavybėn, yra valdoma bendrosios jungtinės
-nuosavybės teise. Sutuoktinių turtines teises nustato Lietuvos Respublikos santuokos
-ir šeimos įstatymai.
+nuosavybės teise. Sutuoktinių turtines teises nustato Lietuvos Respublikos
+santuokos ir šeimos įstatymai.
 Straipsnio
 pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+ 
  
             29 straipsnis. Žemės valdymo
 bendrosios dalinės nuosavybės teise 
@@ -892,12 +1001,12 @@ kiekvienas iš bendrasavininkių - reikalauti atidalyti savo dalį.
 bendrosios dalinės nuosavybės teise, gali būti padalytas tarp bendrasavininkių
 arba atidalytos žemės ploto dalys - vienam ar keliems bendrasavininkiams
 natūra, laikantis šio įstatymo 18 straipsnio reikalavimų.
-            Žemės sklypo, valdomo
-bendrosios dalinės nuosavybės teise, padalijimas ir bendrasavininkio žemės
-ploto dalies atidalijimas iš bendro žemės sklypo įforminamas rašytine
-sutartimi, kuri patvirtinama notariškai ir per tris mėnesius užregistruojama
-Nekilnojamojo turto registre. Atidalijant žemės sklypą natūra, prie sutarties
-turi būti pridedamas atidalyto žemės sklypo planas.
+            Žemės sklypo, valdomo bendrosios
+dalinės nuosavybės teise, padalijimas ir bendrasavininkio žemės ploto dalies
+atidalijimas iš bendro žemės sklypo įforminamas rašytine sutartimi, kuri
+patvirtinama notariškai ir per tris mėnesius užregistruojama Nekilnojamojo
+turto registre. Atidalijant žemės sklypą natūra, prie sutarties turi būti
+pridedamas atidalyto žemės sklypo planas.
             Ginčai tarp bendrosios
 dalinės nuosavybės teisės dalyvių dėl žemės sklypo padalijimo ar atidalijimo
 sprendžiami teismine tvarka.
@@ -907,18 +1016,19 @@ Nr.
 I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
  
+ 
             30 straipsnis. Valstybės
 kompetencija reguliuojant žemės santykius
  
             Lietuvos Respublikos Seimas:
-            leidžia ir tikslina
-įstatymus dėl žemės santykių reguliavimo.
+            leidžia ir tikslina įstatymus
+dėl žemės santykių reguliavimo.
 Lietuvos Respublikos Vyriausybė:
 1) įstatymų
 nustatyta tvarka leidžia ir tikslina teisės norminius aktus žemės nuosavybės,
 valdymo, naudojimo ir kitais žemės santykių reguliavimo klausimais;
-2) rengia ir įgyvendina žemės
-naudojimo, teritorijų optimizavimo ir žemės gerinimo programas;
+2) rengia ir įgyvendina žemės naudojimo, teritorijų optimizavimo ir žemės
+gerinimo programas;
 3) teikia
 Lietuvos Respublikos Seimui tvirtinti bendrąjį Lietuvos Respublikos teritorijos
 planą, tvirtina kitus Teritorijų planavimo įstatyme nurodytus teritorijų
@@ -956,12 +1066,18 @@ naudotis arba išnuomoja valstybinę žemę, išskyrus žemę, kuri perduota val
 vietos savivaldos institucijoms;
 4) organizuoja
 valstybinio žemės kadastro darbus;
+ 
+[4 dalies 4 punkto redakcija nuo 2001 m.
+sausio 1 d.:
+4) įstatymų
+nustatyta tvarka organizuoja valstybinės žemės sklypų formavimo darbus;]
+ 
 5) sprendžia
 žemės paėmimo visuomenės poreikiams, jeigu paimamas žemės plotas ne didesnis
 kaip 5 ha miestuose ir 25 ha kaimo vietovėje, ir pagrindinės tikslinės žemės
 naudojimo paskirties keitimo klausimus;
-6) įgyvendina
-žemės reformą;
+6) įgyvendina žemės
+reformą;
 7) vykdo žemės
 naudojimo valstybinę kontrolę;
 8) tvirtina ir
@@ -977,9 +1093,9 @@ apribojimus;
 naudojimo reguliavimo.
             Vietos savivaldos
 institucijos savivaldybės teritorijoje:
-            1) tvirtina savivaldybės teritorijos
-plėtojimo generalinį planą ir jo pakeitimus, miestų ir miestelių plėtimo ir
-kūrimo generalines schemas;
+            1) tvirtina savivaldybės
+teritorijos plėtojimo generalinį planą ir jo pakeitimus, miestų ir miestelių
+plėtimo ir kūrimo generalines schemas;
             2) tvirtina ir įgyvendina
 savivaldybės teritorijai arba jos daliai rengiamus detalius planus;
             3) pagal suteiktus
@@ -1003,6 +1119,9 @@ VIII-315,
 97.06.26, Žin., 1997, Nr.66-1598 (97.07.11)
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+Nr. VIII-1766, 00.06.27, Žin., 2000,
+Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
+ 
  
 31
 straipsnis. Pagrindinės tikslinės žemės naudojimo paskirties nustatymo ir
@@ -1019,9 +1138,20 @@ pagrindinę tikslinę žemės naudojimo paskirtį padavimo, nagrinėjimo ir spre
 priėmimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 Vadovaujantis apskrities
 viršininko sprendimu leisti pakeisti pagrindinę tikslinę žemės naudojimo
-paskirtį, perskaičiuojama žemės sklypo vertė ir suinteresuoto asmens ar apskrities
-viršininko ar jo įgalioto administracijos atstovo prašymu patikslinami
-valstybinio žemės kadastro duomenys bei įrašai Nekilnojamojo turto registre.
+paskirtį, perskaičiuojama žemės sklypo vertė ir suinteresuoto asmens ar
+apskrities viršininko ar jo įgalioto administracijos atstovo prašymu
+patikslinami valstybinio žemės kadastro duomenys bei įrašai Nekilnojamojo turto
+registre.
+ 
+[3 dalies redakcija nuo 2001 m. sausio 1
+d.:
+Vadovaujantis
+apskrities viršininko sprendimu leisti pakeisti pagrindinę tikslinę žemės
+naudojimo paskirtį, perskaičiuojama žemės sklypo vertė ir suinteresuoto asmens
+ar apskrities viršininko, ar jo įgalioto administracijos atstovo prašymu
+patikslinami nekilnojamojo turto kadastro duomenys bei įrašai Nekilnojamojo
+turto registre.]
+ 
 Pagrindinė
 tikslinė žemės naudojimo paskirtis draustinių, nacionalinių ir regioninių parkų
 teritorijose keičiama tik pagal patvirtintus saugomų teritorijų tvarkymo
@@ -1036,6 +1166,9 @@ I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+Nr. VIII-1766, 00.06.27, Žin., 2000,
+Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
+ 
  
             32 straipsnis. Žemės
 paėmimas visuomenės poreikiams
@@ -1085,11 +1218,11 @@ teisingai atlyginama sumokant realią žemės sklypo kainą pinigais arba
 suteikiant lygiavertį žemės sklypą toje pat vietovėje, taip pat atlyginami kiti
 nuostoliai, atsiradę dėl žemės sklypo paėmimo, įstatymų ir Lietuvos Respublikos
 Vyriausybės nustatyta tvarka.
-            Paimant visuomenės poreikiams
-suteiktą naudotis ar išnuomotą valstybinę žemę, žemės naudojimo teisė ar žemės
-nuomos sutartis nutraukiama prieš terminą ir dėl to atsiradę nuostoliai žemės
-nuomininkams bei kitiems naudotojams atlyginami įstatymų ir Lietuvos
-Respublikos Vyriausybės nustatyta tvarka.
+            Paimant visuomenės
+poreikiams suteiktą naudotis ar išnuomotą valstybinę žemę, žemės naudojimo
+teisė ar žemės nuomos sutartis nutraukiama prieš terminą ir dėl to atsiradę
+nuostoliai žemės nuomininkams bei kitiems naudotojams atlyginami įstatymų ir
+Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 Nuostolius, atsiradusius dėl žemės paėmimo visuomenės poreikiams,
 privačios žemės savininkams bei kitiems teisėtiems privačios ir valstybinės
 žemės naudotojams atlygina suinteresuotas žemės paėmimu asmuo tarpusavio
@@ -1128,12 +1261,13 @@ suinteresuotas asmuo atsiskaito su paimto žemės sklypo savininku sutartyje
 numatytomis sąlygomis. Tais atvejais, kai paimamo žemės sklypo savininkas ir
 žemės paėmimu suinteresuotas asmuo nesusitaria dėl atlyginimo būdo ir dydžio
 per du mėnesius po sprendimo dėl žemės sklypo paėmimo visuomenės poreikiams
-antrojo paskelbimo spaudoje, žemės sklypas pereina valstybės nuosavybėn tą dieną,
-kada žemės paėmimu visuomenės poreikiams suinteresuotas asmuo šio straipsnio 7
-dalyje nustatyta tvarka sumoka atlyginimo dydžio sumą, nurodytą apskrities
-viršininko ar Lietuvos Respublikos Vyriausybės sprendime dėl žemės paėmimo
-visuomenės poreikiams. Sprendime paimti žemės sklypą visuomenės reikmėms gali
-būti nustatyta vėlesnė žemės nuosavybės teisės perėjimo valstybei data.
+antrojo paskelbimo spaudoje, žemės sklypas pereina valstybės nuosavybėn tą
+dieną, kada žemės paėmimu visuomenės poreikiams suinteresuotas asmuo šio
+straipsnio 7 dalyje nustatyta tvarka sumoka atlyginimo dydžio sumą, nurodytą
+apskrities viršininko ar Lietuvos Respublikos Vyriausybės sprendime dėl žemės
+paėmimo visuomenės poreikiams. Sprendime paimti žemės sklypą visuomenės
+reikmėms gali būti nustatyta vėlesnė žemės nuosavybės teisės perėjimo valstybei
+data.
             Jeigu žemė ar jos dalis,
 paimta visuomenės poreikiams, nepanaudojama sprendime nurodytam tikslui ir yra
 perleidžiama privačion nuosavybėn, pirmumo teisę ją išpirkti turi buvęs žemės
@@ -1163,9 +1297,9 @@ nuosavybės teisės valstybės naudai;
 ir nėra nei testamentinių, nei įstatyminių įpėdinių;
             3) žemės nuosavybės teisė
 nutraukiama, teismo sprendimu žemę perdavus valstybei.
-            Iš valstybinės žemės naudotojų
-ir kitų asmenų, sudariusių valstybinės žemės nuomos sutartis, žemė paimama į
-laisvos valstybinės žemės fondą:
+            Iš valstybinės žemės
+naudotojų ir kitų asmenų, sudariusių valstybinės žemės nuomos sutartis, žemė
+paimama į laisvos valstybinės žemės fondą:
             1) kai savo noru atsisako
 naudotis jiems suteikta naudotis arba išnuomota žeme;
             2) kai pasibaigia terminas,
@@ -1219,8 +1353,8 @@ formuojamos naujos žemėnaudos; statomos ūkininkų sodybos ir ūkinės reikšm
 gamybiniai pastatai, tiesiami keliai su tvirta danga; įrengiami tvenkiniai;
 sodinamas miškas; paverčiami žemės ūkio naudmenomis miškai, pelkės ir krūmai.
             Į žemės ūkio paskirties
-žemėnaudas įsiterpusių miškų priskyrimo miškų ūkio paskirties žemei ir šių miškų
-naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+žemėnaudas įsiterpusių miškų priskyrimo miškų ūkio paskirties žemei ir šių
+miškų naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 Žemės reformos
 metu maksimalų žemės ūkio paskirties žemės plotą, kurį piliečiai gali įsigyti
 privatinėn nuosavybėn, nustato Lietuvos Respublikos žemės reformos įstatymas.
@@ -1238,6 +1372,7 @@ VIII-315,
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
  
+ 
 36 straipsnis.
 Žemės ūkio įmonių naudojama žemė
  
@@ -1247,6 +1382,7 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+ 
  
 37 straipsnis.
 Ūkininko ūkio žemė
@@ -1264,6 +1400,7 @@ VIII-315,
 97.06.26, Žin., 1997, Nr.66-1598 (97.07.11)
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+ 
  
             38 straipsnis. Kita žemės
 ūkio paskirties žemė
@@ -1339,6 +1476,7 @@ pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
  
+ 
 41
 straipsnis. Miškų ūkio paskirties žemės savininkai, valdytojai ir kiti
 naudotojai
@@ -1399,6 +1537,7 @@ Nr.
 I-939,
 95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28)
  
+ 
 VIII. KITOS
 PASKIRTIES ŽEMĖ
  
@@ -1408,8 +1547,7 @@ paskirties žemė
             Kitos paskirties žemę sudaro
 žemės sklypai, nustatyta tvarka piliečių įsigyti privatinėn nuosavybėn, taip
 pat suteikti naudotis arba išnuomoti:
-            1) privačioms namų valdoms
-išdėstyti;
+            1) privačioms namų valdoms išdėstyti;
             2) įvairios paskirties
 gyvenamiesiems, socialiniams ir pramoniniams objektams statyti ir eksploatuoti;
             3) transporto, ryšių ir
@@ -1441,6 +1579,7 @@ pakeitimai:
 Nr.
 I-939,
 95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28) 
+ 
  
 IX. VALSTYBINIO
 VANDENŲ FONDO ŽEMĖ
@@ -1475,6 +1614,7 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+ 
  
 X. LAISVOS
 VALSTYBINĖS ŽEMĖS FONDAS
@@ -1518,10 +1658,10 @@ naudojimo ir apsaugos programas bei šalies administracinių teritorijų
             2) rengti žemėtvarkos
 projektus administracinėms riboms nustatyti arba pakeisti, kitus
 administracinių teritorijų tvarkymo projektus;
-            3) rengti žemėtvarkos
-projektus žemei paimti visuomenės poreikiams ir žemei suteikti vietos
-savivaldos institucijoms bei gyventojų bendram naudojimui, valstybinėms
-įmonėms, įstaigoms ir organizacijoms;
+            3) rengti žemėtvarkos projektus
+žemei paimti visuomenės poreikiams ir žemei suteikti vietos savivaldos
+institucijoms bei gyventojų bendram naudojimui, valstybinėms įmonėms, įstaigoms
+ir organizacijoms;
             4) rengti žemėtvarkos
 projektus žemei išpirkti, perleisti ir žemės mainams, naujoms žemėnaudoms
 suformuoti arba esamoms pertvarkyti, specialioms žemės naudojimo sąlygoms,
@@ -1536,8 +1676,9 @@ Nr.
 I-939,
 95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28) 
  
-            47 straipsnis. Valstybinės
-žemėtvarkos darbų atlikimas
+ 
+            47 straipsnis. Valstybinės žemėtvarkos
+darbų atlikimas
  
             Valstybinės žemėtvarkos
 darbai atliekami valstybės, žemės savininkų ir kitų žemės naudotojų lėšomis.
@@ -1548,8 +1689,8 @@ prie Žemės ūkio ministerijos.
 darbus atlieka apskrities viršininko administracija, valstybinės įmonės ir
 organizacijos bei jų pasitelktos kitos įmonės ir organizacijos.
             Žemėtvarkos proceso tvarką,
-žemėtvarkos projektavimo ir tyrinėjimo darbų turinį nustato Lietuvos
-Respublikos Vyriausybė arba jos įgaliota institucija.
+žemėtvarkos projektavimo ir tyrinėjimo darbų turinį nustato Lietuvos Respublikos
+Vyriausybė arba jos įgaliota institucija.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1560,6 +1701,7 @@ VIII-315,
 97.06.26, Žin., 1997, Nr.66-1598 (97.07.11)
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+ 
  
             48 straipsnis. Privatūs
 matininkai
@@ -1576,6 +1718,14 @@ Lietuvos Respublikos Vyriausybė.
  
 XII. VALSTYBINIS
 ŽEMĖS KADASTRAS
+ 
+[Skyriaus pavadinimas nuo 2001 m. sausio
+1 d.:
+XII. ŽEMĖS
+INFORMACINĖ SISTEMA]
+Skyriaus pavadinimas pakeistas:
+Nr. VIII-1766, 00.06.27, Žin., 2000,
+Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
  
             49 straipsnis. Valstybinio
 žemės kadastro paskirtis
@@ -1598,6 +1748,19 @@ kadastro tvarkymą, reikalavimus.
             Valstybinio žemės kadastro
 duomenys yra oficiali informacija apie Lietuvos Respublikos žemės fondą, jo
 naudojimą ir priklausomybę.
+ 
+[Straipsnio redakcija nuo 2001 m. sausio
+1 d.:
+49 straipsnis.
+Žemės informacinės sistemos paskirtis
+Žemės
+informacinės sistemos paskirtis - naudojantis nekilnojamojo turto kadastro,
+Nekilnojamojo turto registro, miškų kadastro, teritorijų planavimo,
+aplinkosaugos, paminklosaugos, žemės reformos, dirvožemio tyrimų ir kitais
+duomenimis apie žemę, Lietuvos Respublikos Vyriausybės nustatyta tvarka kaupti
+ir atnaujinti informaciją apie žemės naudmenų plotą ir vertę, žemės naudojimo
+sąlygas ir apribojimus, kitas žemės sklype esančio nekilnojamojo turto
+charakteristikas.]
 Straipsnio
 pakeitimai:
 Nr.
@@ -1608,6 +1771,9 @@ I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
+Nr. VIII-1766, 00.06.27, Žin., 2000,
+Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
+ 
  
             50 straipsnis. Valstybinio
 žemės kadastro tvarkymas
@@ -1627,6 +1793,24 @@ bei įrenginius.
             Valstybiniam žemės kadastrui
 sudaryti reikalingi darbai vykdomi valstybės, savivaldybių, žemės savininkų ir
 žemės naudotojų lėšomis Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+ 
+[Straipsnio redakcija nuo 2001 m. sausio
+1 d.:
+50 straipsnis.
+Žemės informacinės sistemos ir žemės kadastro tvarkymas
+Žemės
+informacinė sistema tvarkoma įstatymų bei Lietuvos Respublikos Vyriausybės
+nustatyta tvarka.
+Žemės kadastras
+tvarkomas Nekilnojamojo turto kadastro įstatymo, Žemės įstatymo, kitų įstatymų
+bei Lietuvos Respublikos Vyriausybės nustatyta tvarka. Tvarkant  žemės
+kadastrą, rengiami ir tikslinami nekilnojamojo turto kadastro žemėlapiai,
+kuriuose pažymimi suformuoti ir Nekilnojamojo turto registre įregistruoti žemės
+sklypai bei juose esantys kiti nekilnojamojo turto ir gamtos objektai, turintys
+įtakos žemės sklypo vertei ir žemės naudojimo sąlygoms. Nekilnojamojo turto
+kadastro žemėlapių turinys turi atitikti Nekilnojamojo turto registro įstatymo
+ir Lietuvos Respublikos Vyriausybės nutarimų, reglamentuojančių nekilnojamojo
+turto kadastro tvarkymą, reikalavimus.]
 Straipsnio
 pakeitimai:
 Nr.
@@ -1635,6 +1819,9 @@ I-939,
 Nr.
 VIII-315,
 97.06.26, Žin., 1997, Nr.66-1598 (97.07.11)
+Nr. VIII-1766, 00.06.27, Žin., 2000,
+Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
+ 
  
             51 straipsnis. Valstybinio
 žemės kadastro duomenų naudojimas
@@ -1667,11 +1854,39 @@ registro duomenims papildyti ir atnaujinti.
             Už valstybinio žemės
 kadastro informaciją suinteresuoti asmenys apmoka Lietuvos Respublikos
 Vyriausybės nustatyta tvarka.
+ 
+[Straipsnio redakcija nuo 2001 m. sausio
+1 d.:
+51
+straipsnis. Žemės informacinės sistemos ir žemės kadastro duomenų naudojimas
+Žemės
+informacinės sistemos ir žemės kadastro duomenys teikiami valstybinėms
+institucijoms, fiziniams bei juridiniams asmenims ir naudojami:
+1) valstybinės
+žemės išteklių naudojimo politikai formuoti ir įgyvendinti;
+2) valstybiniam
+žemės gerinimo bei apsaugos priemonių planavimui;
+3) gamtos
+išteklių naudojimo ir teritoriniam planavimui;
+4) žemėtvarkos
+projektams ir schemoms rengti;
+5) žemės
+įkeitimui ir žemės rinkos formavimui;
+6) žemės
+apmokestinimui ir mokesčių už žemę sistemos formavimui;
+7) žemės naudojimo
+valstybinei kontrolei;
+8) informacijai
+apie žemę statistiniuose ir kituose oficialiuose leidiniuose;
+9) nekilnojamojo
+turto kadastro ir registro duomenims papildyti ir atnaujinti.]
 Straipsnio
 pakeitimai:
 Nr.
 I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
+Nr. VIII-1766, 00.06.27, Žin., 2000,
+Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
  
  
 XIII. ŽEMĖS
@@ -1780,8 +1995,8 @@ nagrinėjimo tvarka
 teismai civilinio proceso tvarka.
             Šalių susitarimu žemės bei
 kiti ginčai, kylantys dėl civilinių teisinių santykių, gali būti perduoti
-spręsti trečiųjų teismui, kurio nuostatus tvirtina Lietuvos Respublikos
-Vyriausybė. 
+spręsti trečiųjų teismui, kurio nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+
  
  
 XV. TARPTAUTINĖS
@@ -1792,8 +2007,8 @@ sutartys
  
             Tais atvejais, kai Lietuvos
 Respublikos tarptautinėse sutartyse yra nustatytos kitokios žemės naudojimo
-taisyklės, negu numato Lietuvos Respublikos įstatymai, yra taikomos
-tarptautinės sutarties taisyklės, jeigu jos neprieštarauja Lietuvos Respublikos
+taisyklės, negu numato Lietuvos Respublikos įstatymai, yra taikomos tarptautinės
+sutarties taisyklės, jeigu jos neprieštarauja Lietuvos Respublikos
 Konstitucijai. 
  
  
@@ -1814,10 +2029,10 @@ Respublikos žemės įstatymui, netenka galios Lietuvos Respublikos žemės refo
 Respublikos Seimo priimtą įstatymą. 
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                             
 ALGIRDAS BRAZAUSKAS
- 
-___________
+_______________
 
 Pakeitimai:
  
@@ -1825,8 +2040,7 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-I-939,
-95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28)
+I-939, 95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28)
 DĖL
 LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO PAKEITIMO IR PAPILDYMO
  
@@ -1834,8 +2048,7 @@ LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-I-1540,
-96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16)
+I-1540, 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16)
 LIETUVOS
 RESPUBLIKOS ŽEMĖS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -1866,9 +2079,16 @@ Nr.42-1191 (00.05.24)
 28, 30, 31, 35, 36, 37, 39, 40, 41, 44, 47, 49, 55 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
  
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1766, 00.06.27, Žin., 2000,
+Nr.58-1706 (00.07.19)
+ŽEMĖS ĮSTATYMO 2, 14, 20, 30, 31, 49, 50, 51 STRAIPSNIŲ
+PAKEITIMO IR XII SKYRIAUS PAVADINIMO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
-***
-Pabaiga ***
+*** Pabaiga ***
  
-Redagavo:
-Aušrinė Trapinskienė (2000.05.24)
+ 
+Redagavo: Aušrinė Trapinskienė (2000.08.02)
