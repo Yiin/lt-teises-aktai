@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.24DBAB0C8BD9"
 
 # Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, jų išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus
 
-Suvestinė redakcija nuo 1990-12-02 iki 1991-05-29
+Įstatymas netenka galios 2004-09-02:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2421, 2004-08-23, Žin., 2004, Nr. 134-4838 (2004-09-02), i. k. 1041010ISTA0IX-2421
+Lietuvos Respublikos laikinojo įstatymo "Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, jų išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus", jį keitusių įstatymų bei su juo susijusių teisės aktų pripažinimo netekusiais galios įstatymas
+ 
+Suvestinė redakcija nuo 1991-05-30 iki 2004-09-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 84-0; Žin. 1990, Nr.27-657, i. k. 0901010ISTA000I-572
  
@@ -59,7 +64,10 @@ Tie patys veiksmai, padaryti pakartotinai, užtraukia administracinę nuobaudą 
 
 4 straipsnis. Neteisėtas prekių ir kitų materialinių vertybių išvežimas ar išsiuntimas
 
-Prekių, medžiagų, žaliavų, maisto produktų bei kitų materialinių vertybių vežimas ar siuntimas iš Lietuvos Respublikos, pažeidžiant jų išvežimo ar išsiuntimo tvarką, užtraukia administracinę nuobaudą – baudą nuo vieno tūkstančio rublių iki trijų tūkstančių rublių, konfiskuojant neteisėtai vežamas ar siunčiamas prekes ar kitas vertybes.
+Prekių, medžiagų, žaliavų, maisto produktų bei kitų materialinių vertybių vežimas ar išsiuntimas iš Lietuvos Respublikos, pažeidžiant jų išvežimo ar išsiuntimo tvarką, užtraukia administracinę nuobaudą – neteisėtai vežamų ar siunčiamų prekių ar kitų vertybių konfiskavimą arba baudą nuo vieno tūkstančio rublių iki trijų tūkstančių rublių, konfiskuojant neteisėtai vežamas ar siunčiamas prekes. 
+Straipsnio dalies pakeitimai:
+Nr. I-1364, 1991-05-23, Lietuvos aidas, 1991, Nr. 105-0 (1991-05-29); Žin., 1991, Nr. 16-418 (1991-06-10), i. k. 0911010ISTA00I-1364
+ 
 
 Tie patys veiksmai, padaryti pakartotinai, užtraukia administracinę nuobaudą – baudą nuo penkių tūkstančių rublių iki dešimties tūkstančių rublių, konfiskuojant neteisėtai vežamas ar siunčiamas prekes ir kitas vertybes.
 
@@ -170,4 +178,9 @@ Pakeitimai:
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-808, 1990-11-27, Lietuvos aidas, 1990, Nr. 135-0 (1990-12-01); Žin., 1990, Nr. 35-839 (1990-12-20), i. k. 0901010ISTA000I-808
 Padaryti pataisas Lietuvos Respublikos laikinajame įstatyme "Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, jų išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus"
+ 
+2.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-1364, 1991-05-23, Lietuvos aidas, 1991, Nr. 105-0 (1991-05-29); Žin., 1991, Nr. 16-418 (1991-06-10), i. k. 0911010ISTA00I-1364
+Dėl Lietuvos Respublikos laikinojo įstatymo "Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, jų išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus " pakeitimo
 
