@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2BD05C3A63E1"
 
 # Laikinosios atsiskaitymų tvarkos ir sąlygų įstatymas
 
-Suvestinė redakcija nuo 1999-04-23 iki 1999-07-08
+Suvestinė redakcija nuo 1999-07-09
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 31-711, i. k. 0931010ISTA000I-218
+ 
+TAR pastaba. Laikinosios atsiskaitymų tvarkos ir sąlygų įstatymas netenka galios 1999-12-01, įsigaliojus Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymui Nr. VIII-1422
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1268, 1999-06-24, Žin., 1999, Nr. 60-1957 (1999-07-09), i. k. 0991010ISTAIII-1268
+Lietuvos Respublikos laikinosios atsiskaitymų tvarkos ir sąlygų įstatymo 5 straipsnio pakeitimo įstatymas
  
 Nauja redakcija nuo 1997-07-16:
 Nr. VIII-383, 1997-07-02, Žin. 1997, Nr. 67-1664 (1997-07-16), i. k. 0971010ISTAVIII-383
@@ -75,10 +80,11 @@ Nr. VIII-1133, 1999-04-08, Žin., 1999, Nr. 36-1063 (1999-04-23), i. k. 0991010I
 
 5 straipsnis. Įstatymo galiojimas
 
-Įstatymas galioja iki kito įstatymo, reglamentuojančio žemės ūkio produkcijos supirkimą bei atsiskaitymą už supirktą žemės ūkio produkciją, įsigaliojimo, bet ne ilgiau kaip iki 1999 m. liepos 1 d.
+Įstatymas galioja iki kito įstatymo, reglamentuojančio žemės ūkio produkcijos supirkimą bei atsiskaitymą už supirktą žemės ūkio produkciją, įsigaliojimo.
 
 Straipsnio pakeitimai:
 Nr. VIII-992, 1998-12-21, Žin., 1998, Nr. 115-3244 (1998-12-31), i. k. 0981010ISTAVIII-992
+Nr. VIII-1268, 1999-06-24, Žin., 1999, Nr. 60-1957 (1999-07-09), i. k. 0991010ISTAIII-1268
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -130,4 +136,9 @@ Lietuvos Respublikos laikinosios atsiskaitymų tvarkos ir sąlygų įstatymo 5 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1133, 1999-04-08, Žin., 1999, Nr. 36-1063 (1999-04-23), i. k. 0991010ISTAIII-1133
 Lietuvos Respublikos laikinosios atsiskaitymų tvarkos ir sąlygų įstatymo 3 straipsnio papildymo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1268, 1999-06-24, Žin., 1999, Nr. 60-1957 (1999-07-09), i. k. 0991010ISTAIII-1268
+Lietuvos Respublikos laikinosios atsiskaitymų tvarkos ir sąlygų įstatymo 5 straipsnio pakeitimo įstatymas
 
