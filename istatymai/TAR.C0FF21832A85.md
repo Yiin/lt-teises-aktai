@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 1997-07-09 iki 1998-06-30
+Suvestinė redakcija nuo 1998-07-01 iki 2000-07-25
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -30,6 +30,7 @@ Vilnius
 
 
 Lietuvos Respublikos labdaros ir paramos įstatymo tikslas – reglamentuoti ir skatinti labdarą bei paramą Lietuvos Respublikoje, nustatant atvejus, kada taikomos valstybės mokesčių ir muito mokesčių lengvatos. 
+ 
 Straipsnio dalies pakeitimai:
 Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
  
@@ -94,6 +95,7 @@ Parama yra teikiama siekiant:
 
 
 Remiamos šio straipsnio antrojoje dalyje nurodytos programos, kurioms pritaria ar kurias tvirtina Lietuvos Respublikos Vyriausybė, ministerijos, apskričių viršininkai, vietos savivaldos institucijos ar tvirtina nevalstybinių organizacijų aukščiausieji valdymo organai. Programose turi būti numatyti tikslai, įgyvendinimo būdai ir priemonės, vykdytojai ir finansavimo šaltiniai.
+ 
 Papildyta straipsnio dalimi:
 Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
 Straipsnio dalies pakeitimai:
@@ -137,6 +139,7 @@ Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr.
 
 
 Parama pagal šį įstatymą nepripažįstamas tiesioginis pinigų ar materialinių vertybių perdavimas fiziniams asmenims, išskyrus kai tai numatyta 2 straipsnio antrojoje dalyje nurodytose programose. 
+ 
 Papildyta straipsnio dalimi:
 Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
  
@@ -185,6 +188,7 @@ Užsienio valstybių juridiniai bei fiziniai asmenys, taip pat tarptautinės org
 
 
 Politinės partijos ir politinės organizacijos nepripažįstamos labdaros ir paramos davėjais.
+ 
 
 
 Straipsnio pakeitimai:
@@ -211,6 +215,7 @@ Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr.
 
 
 Labdaros ir paramos gavėjais pagal šį įstatymą negali būti politinės partijos, politinės organizacijos ir pelno siekiančios organizacijos.
+ 
 Straipsnio dalies pakeitimai:
 Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
  
@@ -286,6 +291,7 @@ Labdaros ir paramos dalykas yra labdaros ir paramos davėjo:
 
 
 Labdaros ir paramos dalykas negali būti Lietuvos valstybės biudžeto ir savivaldybių biudžetų lėšos. Už valstybės biudžeto ir savivaldybių biudžetų lėšas įsigytos materialinės vertybės gali būti labdaros ir paramos dalykas tik su steigėjo leidimu. 
+ 
 Papildyta straipsnio dalimi:
 Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
  
@@ -370,12 +376,16 @@ Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr.
 
 
 
-Labdarai ar paramai skirtos materialinės vertybės, įvežamos į Lietuvos Respubliką arba išvežamos iš jos, neapmokestinamos muito mokesčiu. Iš Lietuvos Respublikos išvežamų labdarai skirtų materialinių vertybių išvežimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Labdarai ar paramai skirtos materialinės vertybės, įvežamos į Lietuvos Respubliką arba išvežamos iš jos, atleidžiamos nuo muitų Muitų tarifų įstatymo nustatyta tvarka. Iš Lietuvos Respublikos išvežamų labdarai skirtų materialinių vertybių išvežimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. VIII-627, 1998-02-17, Žin., 1998, Nr. 25-630 (1998-03-13), i. k. 0981010ISTAVIII-627
+ 
 
 
 
 
 Asmenys, dovanojantys ar kitaip perduodantys turtą labdaros ar paramos gavėjams, yra atleidžiami nuo žyminio mokesčio.
+ 
 Straipsnio dalies pakeitimai:
 Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
  
@@ -402,6 +412,7 @@ Ginčus dėl labdaros ar paramos pripažinimo nagrinėja teismas.
 
 
 Nustačius, kad lėšų ar materialinių vertybių perdavimas nėra labdara ar parama, mokesčių lengvatos, taikytos atsižvelgiant į šio įstatymo nuostatas, panaikinamos, o nesumokėti mokesčiai išieškomi mokesčių mokėjimą reglamentuojančių įstatymų nustatyta tvarka. 
+ 
 Straipsnio dalies pakeitimai:
 Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
  
@@ -420,6 +431,7 @@ Labdaros organizacijos ir fondai turi teisę laisvai skelbti per masinės inform
 
 
 Informacija apie labdaros ir paramos davėjus per masinės informacijos priemones bei kitiems fiziniams ir juridiniams asmenims, nenurodytiems šio įstatymo 9 straipsnyje, teikiama tik labdaros ir paramos davėjui sutikus.
+ 
 Straipsnio dalies pakeitimai:
 Nr. I-1149, 1995-12-20, Žin., 1995, Nr. 107-2398 (1995-12-30); Žin., 1996, Nr. 1-0 (1996-01-05), i. k. 0951010ISTA00I-1149
  
@@ -466,3 +478,8 @@ Dėl Lietuvos Respublikos labdaros ir paramos įstatymo pakeitimo ir papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-311, 1997-06-26, Žin., 1997, Nr. 65-1541 (1997-07-09), i. k. 0971010ISTAVIII-311
 Lietuvos Respublikos labdaros ir paramos įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-627, 1998-02-17, Žin., 1998, Nr. 25-630 (1998-03-13), i. k. 0981010ISTAVIII-627
+Lietuvos Respublikos labdaros ir paramos įstatymo 10 straipsnio pakeitimo įstatymas
