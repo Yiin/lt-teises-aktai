@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6673BD9A7B94"
 
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
+Suvestinė redakcija nuo 1991-02-22 iki 1992-02-13
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 119-0; Žin. 1990, Nr.32-764, i. k. 0901010ISTA000I-714
+ 
+ 
 LIETUVOS RESPUBLIKOS
 ŽEMĖS MOKESČIO
 ĮSTATYMAS
@@ -90,7 +95,9 @@ III. Mokesčio lengvatos
 Prie neapmokestinamų nepriskiriamos 1, 2, 4, 5 ir 6 punktuose nurodytose teritorijose esančios sodybinės, asmeninio ūkio ir komercinei veiklai naudojamos valstybinės valdžios organų skirtos žemės.
  
 
-7 straipsnis. Nuo žemės mokesčio atleidžiami žemės savininkai ir naudotojai – pirmos ir antros grupės invalidai bei senatvės pensininkai, kurių šeimos neturi kitų pajamų šaltinių, išskyrus pensijas, stipendijas ir neapmokestinamas fizinių asmenų pajamų mokesčiu pajamas iš žemės ūkio, jeigu jie naudojasi žemės sklypu iki 1 ha kaimo vietovėje ir iki 0,15 ha ne kaimo vietovėje.
+7 straipsnis. Nustatyti neapmokestinamą žemės mokesčiu naudojamos tarnybinės dalos ir sodybinio sklypo dalį kaimo vietovėje - 1,2 ha plotą ir naudojamo žemės sklypo dalį ne kaimo vietovėje – 0,25 ha plotą žemės naudotojams ir savininkams – pirmos ir antros grupės invalidams bei senatvės pensininkams, kurių šeimos neturi kitų nuolatinių pajamų šaltinių, išskyrus pensijas, stipendijas ir neapmokestinamas fizinių asmenų pajamų mokesčiu pajamas iš žemės ūkio.
+Straipsnio pakeitimai:
+Nr. I-1063, 1991-02-14, Lietuvos aidas, 1991, Nr. 37-0 (1991-02-21); Žin., 1991, Nr. 6-177 (1991-02-28), i. k. 0911010ISTA00I-1063
  
 
 8 straipsnis. Savivaldybių Tarybos, į kurių biudžetus įskaitomas žemės mokestis, turi teisę sumažinti arba atleisti nuo žemės mokesčio mokėjimo paskirus juridinius ir fizinius asmenis arba jų grupes.
@@ -134,4 +141,14 @@ PIRMININKAS                                  �
  
 Vilnius, 1990 m. spalio 25 d. 
 Nr. I-714
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-1063, 1991-02-14, Lietuvos aidas, 1991, Nr. 37-0 (1991-02-21); Žin., 1991, Nr. 6-177 (1991-02-28), i. k. 0911010ISTA00I-1063
+Dėl Lietuvos Respublikos žemės mokesčio įstatymo 7 straipsnio pakeitimo
 
