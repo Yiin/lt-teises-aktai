@@ -22,6 +22,7 @@ LIETUVOS RESPUBLIKOS
 APSKRITIES VALDYMO
 ĮSTATYMAS
  
+ 
 1994 m. gruodžio 15 d. Nr.I-707
 Vilnius
  
@@ -59,7 +60,6 @@ APSKRITIES VIRŠININKAS IR JO KOMPETENCIJA
  
             4
 straipsnis. Apskrities viršininkas
- 
             Apskrities
 viršininką skiria ir atleidžia Vyriausybė Ministro Pirmininko teikimu.
             Apskrities
@@ -82,9 +82,9 @@ Straipsnio pakeitimai:
 Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
  
+ 
             5
 straipsnis. Apskrities viršininko uždaviniai
- 
             Apskrities
 viršininko uždaviniai yra:
             1)
@@ -104,6 +104,7 @@ Nr. VIII-33,
 Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
  
+ 
             6
 straipsnis. Neteko galios.
 Straipsnio pakeitimai:
@@ -112,9 +113,10 @@ Nr. VIII-33,
 Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
  
-            7 straipsnis.
-Apskrities viršininko įgaliojimai švietimo, kultūros ir socialiniais klausimais
  
+            7 straipsnis.
+Apskrities viršininko įgaliojimai švietimo, kultūros ir socialiniais 
+klausimais
             Apskrities
 viršininkas:
             1)
@@ -146,10 +148,11 @@ Nr. VIII-129,
 Nr. VIII-471,
 97.10.21, Žin., 1997, Nr.101-2549 (97.11.07)
  
-            8
-straipsnis. Apskrities viršininko įgaliojimai sveikatos
-priežiūros ir farmacinės veiklos klausimais
  
+            8
+straipsnis. Apskrities viršininko įgaliojimai sveikatos priežiūros ir
+farmacinės 
+veiklos klausimais
             1.
 Apskrities viršininkas:
             1)
@@ -184,11 +187,11 @@ Nr. VIII-33,
 Nr. VIII-300,
 97.06.24, Žin., 1997, Nr.62-1466 (97.07.01)
  
-9
-straipsnis. Apskrities viršininko įgaliojimai teritorijos 
-planavimo
-ir paminklotvarkos klausimais
  
+9
+straipsnis. Apskrities viršininko įgaliojimai teritorijos planavimo ir
+paminklotvarkos 
+klausimais
 Apskrities
 viršininkas:
 1) organizuoja
@@ -206,6 +209,16 @@ dokumentams;
 5) nustatyta
 tvarka atlieka savivaldybių teritorijų planavimo, statinių projektavimo,
 statybos, atidavimo naudoti, naudojimo ir griovimo valstybinę priežiūrą;
+ 
+[5 punkto redakcija nuo 2001 m. sausio 1
+d.:
+5) nustatyta
+tvarka atlieka savivaldybių teritorijų planavimo, statinių projektavimo,
+statybos, pripažinimo tinkamais naudoti, naudojimo ir griovimo valstybinę
+priežiūrą, išduoda leidimus statyti, rekonstruoti, remontuoti ar griauti
+ypatingos svarbos statinius (pagal Vyriausybės įgaliotos institucijos
+patvirtintą sąrašą);]
+ 
 6) nustatyta
 tvarka prižiūri teritorijos planavimą;
 7) koordinuoja
@@ -222,15 +235,15 @@ Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 Nr. VIII-456,
 97.10.16, Žin., 1997, Nr.97-2444 (97.10.29)
+Nr. VIII-1991, 00.10.10, Žin., 2000,
+Nr.89-2752 (00.10.25), įsigalioja nuo 2001.01.01
+ 
  
 10
-straipsnis. Apskrities viršininko įgaliojimai žemėtvarkos ir 
-žemės
-ūkio klausimais
- 
+straipsnis. Apskrities viršininko įgaliojimai žemėtvarkos ir žemės ūkio
+klausimais
 Apskrities
 viršininkas:
- 
 1) tvarko laisvos valstybinės
 žemės fondą, išskyrus žemę, perduotą valdyti vietos savivaldos institucijoms;
 2) įgyvendina
@@ -266,24 +279,23 @@ Nr. VIII-1195,
 Nr. VIII-1662, 00.05.04, Žin., 2000,
 Nr.42-1190 (00.05.24)
  
-11 straipsnis. Apskrities viršininko
-įgaliojimai gamtos išteklių naudojimo ir 
-aplinkos apsaugos klausimais 
  
+11 straipsnis. Apskrities viršininko
+įgaliojimai gamtos išteklių naudojimo ir aplinkos 
+apsaugos klausimais 
 Apskrities viršininkas:
-1) organizuoja veiklą apskričiai
-priskirtose saugomose teritorijose ir dalyvauja valdant kitas valstybės
-saugomas teritorijas (išskyrus rezervatus); 
-2) pagal savo kompetenciją teikia
-pasiūlymus gamtos išteklių naudojimo limitams nustatyti; 
-3) rengia apskrities aplinkos apsaugos
-valstybines programas, investicijų projektus, organizuoja, koordinuoja jų
-įgyvendinimą; 
-4) pagal savo kompetenciją organizuoja
-vandens telkinių apsaugos zonų ir pakrantės apsaugos juostų tvarkymą bei
-vandens telkinių valdymą; 
-5) pagal savo kompetenciją atlieka
-valstybinę miškų būklės, naudojimo, atkūrimo ir apsaugos kontrolę; 
+1) organizuoja veiklą apskričiai priskirtose saugomose
+teritorijose ir dalyvauja valdant kitas valstybės saugomas teritorijas
+(išskyrus rezervatus); 
+2) pagal savo kompetenciją teikia pasiūlymus gamtos
+išteklių naudojimo limitams nustatyti; 
+3) rengia apskrities aplinkos apsaugos valstybines
+programas, investicijų projektus, organizuoja, koordinuoja jų įgyvendinimą; 
+4) pagal savo kompetenciją organizuoja vandens
+telkinių apsaugos zonų ir pakrantės apsaugos juostų tvarkymą bei vandens
+telkinių valdymą; 
+5) pagal savo kompetenciją atlieka valstybinę miškų
+būklės, naudojimo, atkūrimo ir apsaugos kontrolę; 
 6) organizuoja ekologinį švietimą.
 Straipsnio žymėjimas
 pakeistas:
@@ -293,9 +305,9 @@ Straipsnio pakeitimai:
 Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
  
+ 
             12
 straipsnis. Apskrities viršininko įgaliojimai kitais klausimais
- 
 Apskrities
 viršininkas, neviršydamas savo įgaliojimų:
 1) nagrinėja
@@ -320,8 +332,8 @@ mašinas;
 stichinių nelaimių, avarijų padarinių likvidavimą, paieškos ir gelbėjimo
 darbus;
 8) steigia,
-reorganizuoja, likviduoja valstybės įmones, valdo apskričių viršininkams
-perduotų įmonių valstybei priklausančias akcijas;
+reorganizuoja, likviduoja valstybės įmones, valdo apskričių viršininkams perduotų
+įmonių valstybei priklausančias akcijas;
 9) Vyriausybės
 įgaliotos institucijos nustatyta tvarka atstovauja valstybei akcinėse
 bendrovėse ar uždarosiose akcinėse bendrovėse, kuriose valstybei priklausančių
@@ -343,9 +355,9 @@ Nr. VIII-896,
 Nr. VIII-1093,
 99.03.18, Žin., 1999, Nr.30-854 (99.04.02)
  
+ 
             13
 straipsnis. Apskrities viršininko teisės
- 
             Apskrities
 viršininkas, vykdydamas jam priskirtus įgaliojimus, turi teisę:
             1)
@@ -388,12 +400,14 @@ kitus renginius;
 12) pagal savo kompetenciją nustatyta tvarka palaikyti
 ryšius su atitinkamomis užsienio valstybių regionų institucijomis ir
 tarptautinėmis organizacijomis.
-Straipsnio žymėjimas pakeistas:
+Straipsnio žymėjimas
+pakeistas:
 Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 Straipsnio pakeitimai:
 Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
+ 
  
             14
 straipsnis. Neteko galios.
@@ -405,12 +419,12 @@ Straipsnio pakeitimai:
 Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
  
+ 
 III skyrius
 VALSTYBĖS VALDYMO INSTITUCIJOS APSKRITYJE
  
             15
 straipsnis. Valstybės valdymo institucijos apskrityje
- 
             Valstybės
 valdymo institucijos pagal savo veiklos pobūdį Lietuvos Respublikos Seimui arba
 Vyriausybei leidus gali steigti apskrityje sau pavaldžias valdymo įstaigas ir
@@ -423,19 +437,19 @@ pakeistas:
 Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
  
+ 
 IV skyrius
 APSKRITIES VIRŠININKO SANTYKIAI SU SAVIVALDOS
 IR VALSTYBĖS VALDYMO INSTITUCIJOMIS
  
             16
-straipsnis. Apskrities viršininko santykiai su savivaldos
-ir valstybės valdymo institucijomis
- 
+straipsnis. Apskrities viršininko santykiai su savivaldos ir valstybės valdymo 
+institucijomis
 Apskrities viršininkas, įgyvendindamas jam priskirtas
 funkcijas ir vykdydamas Lietuvos Respublikos įstatymus, Respublikos Prezidento
 dekretus ir Vyriausybės nutarimus bei kitus teisės aktus, bendradarbiauja su
-savivaldos ir valstybės valdymo institucijomis, joms pavaldžiomis valdymo
-įstaigomis bei organizacijomis apskrityje.
+savivaldos ir valstybės valdymo institucijomis, joms pavaldžiomis valdymo įstaigomis
+bei organizacijomis apskrityje.
 Valstybės valdymo institucijos, įsteigtos apskrityje
 pagal šio įstatymo 15 straipsnio nuostatas, nėra pavaldžios apskrities
 viršininkui. Šios įstaigos ir organizacijos privalo pranešti apskrities
@@ -459,9 +473,9 @@ Straipsnio pakeitimai:
 Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
  
+ 
             17
 straipsnis. Apskrities taryba
- 
             Prie
 apskrities viršininko sudaroma taryba.
 Į tarybą pagal pareigas įeina apskrities viršininkas,
@@ -471,12 +485,13 @@ kuris yra šios tarybos pirmininkas, apskrities viršininko pavaduotojas
 svarsto apskrities raidos kryptis, apskrities gyventojų sveikatos problemas ir
 jų sprendimo būdus, socialinės ekonominės raidos ir aplinkos apsaugos bei
 sveikatos programų, teritorijos bendrojo planavimo dokumentų, sąlygų
-teritorijos specialiajam planavimui ir apskrities lėšų sąmatos projektus bei
-kitus klausimus.
+teritorijos specialiajam planavimui ir apskrities lėšų sąmatos projektus bei kitus
+klausimus.
 Straipsnio žymėjimas
 pakeistas:
 Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
+Straipsnio pakeitimai:
 Nr. VIII-300,
 97.06.24, Žin., 1997, Nr.62-1466 (97.07.01)
 Nr. VIII-896,
@@ -488,7 +503,6 @@ APSKRITIES VIRŠININKO VEIKLOS ORGANIZAVIMAS
  
             18
 straipsnis. Apskrities viršininko administracija
- 
             Apskrities
 viršininkas jam priskirtoms funkcijoms įgyvendinti formuoja administraciją ir
 jai vadovauja.
@@ -506,9 +520,9 @@ Straipsnio pakeitimai:
 Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
  
+ 
             19
 straipsnis. Apskrities viršininko įgaliojimai administravimo srityje
- 
             Apskrities
 viršininkas:
             1)
@@ -528,19 +542,21 @@ organizuoja apskrities tarybos posėdžius ir jiems vadovauja;
 vykdo kitus Lietuvos Respublikos įstatymų, Vyriausybės ir Ministro Pirmininko
 jam suteiktus įgaliojimus.
             Kai
-apskrities viršininko nėra, jo pareigas eina apskrities viršininko pavaduotojas.
+apskrities viršininko nėra, jo pareigas eina apskrities viršininko
+pavaduotojas.
 Straipsnio žymėjimas
 pakeistas:
-Nr. VIII-33, 96.12.12, Žin., 1996,
-Nr.126-2938 (96.12.31)
+Nr. VIII-33,
+96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
+Straipsnio pakeitimai:
 Nr. VIII-300,
 97.06.24, Žin., 1997, Nr.62-1466 (97.07.01)
 Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
  
+ 
             20
 straipsnis. Apskrities viršininko įsakymai ir kiti teisės aktai
- 
             Apskrities
 viršininkas leidžia įsakymus ir kitus teisės aktus ir tikrina, kaip jie
 vykdomi.
@@ -559,6 +575,7 @@ Straipsnio pakeitimai:
 Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
  
+ 
             21
 straipsnis. Neteko galios.
 Straipsnio žymėjimas
@@ -570,7 +587,6 @@ Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
  
  
- 
             Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
@@ -578,7 +594,7 @@ Nr. VIII-896,
 RESPUBLIKOS
 PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS 
  
-_________
+_______________
  
 Pakeitimai:
  
@@ -670,9 +686,18 @@ Nr. VIII-1662, 00.05.04, Žin., 2000,
 Nr.42-1190 (00.05.24)
 APSKRITIES VALDYMO ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+12.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1991, 00.10.10, Žin., 2000,
+Nr.89-2752 (00.10.25)
+APSKRITIES VALDYMO
+ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.05.24)
+Redagavo: Aušrinė
+Trapinskienė (2000.10.27)
 
