@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EB5CDDF16A91"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 1993-07-21 iki 1993-12-17
+Suvestinė redakcija nuo 1993-12-18 iki 1996-07-25
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 140-0; Žin. 1992, Nr.22-639, i. k. 0921010ISTA00I-2747
  
@@ -136,10 +136,10 @@ Sulaikytasis asmuo turi teisę tiek pats, tiek per savo gynėją sulaikymui duot
 Jeigu pasibaigus prevencinio sulaikymo terminui asmuo nepatraukiamas baudžiamojon atsakomybėn, jis turi būti nedelsiant paleistas.
 
 Jeigu asmens sulaikymu buvo užkirstas kelias nusikaltimui, tai sankciją davusiojo ar Lietuvos Respublikos generalinio prokuroro sprendimu sulaikytasis asmuo gali būti paleidžiamas ir nepasibaigus sulaikymo terminui, kuriam buvo duota sankcija. 
-TAR pastaba. 81 straipsnis galioja iki 1994 m. sausio 1 dienos.
+TAR pastaba. Įsigaliojus (1993-12-18) įstatymui Nr. I-336, visi asmenys, kurie yra sulaikyti pagal 1993 m. liepos 13 d. Lietuvos Respublikos laikinajame įstatyme „Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo“ nustatytą tvarką, per septynias dienas turi būti paleisti arba jų sulaikymo pagrįstumo klausimas turi būti pradėtas spręsti Lietuvos Respublikos baudžiamojo proceso kodekso 501 straipsnyje nustatyta tvarka, o 1993 m. liepos 13 d. Lietuvos Respublikos laikinasis įstatymas „Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo“ (Žin., 1993, Nr. 30-679) netenka galios (bet ne vėliau kaip 1994 m. sausio 1 d.).
 
-Papildyta straipsniu:
-Nr. I-210, 1993-07-13, Žin., 1993, Nr. 30-679 (1993-07-21), i. k. 0931010ISTA000I-210
+Straipsnio pakeitimai:
+Nr. I-336, 1993-12-15, Žin., 1993, Nr. 70-1310 (1993-12-18), i. k. 0931010ISTA000I-336
  
 
 9 straipsnis. Informacijos panaudojimas
@@ -209,4 +209,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-210, 1993-07-13, Žin., 1993, Nr. 30-679 (1993-07-21), i. k. 0931010ISTA000I-210
 Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-336, 1993-12-15, Žin., 1993, Nr. 70-1310 (1993-12-18), i. k. 0931010ISTA000I-336
+Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo
 
