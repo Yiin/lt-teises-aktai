@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B"
 Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
-Ramunė Lūžaitė (1999.07.07)
+Ramunė Lūžaitė (1999.08.24)
  
 Įstatymas
 paskelbtas: Žin., 1990, Nr. 14-395
@@ -336,6 +336,14 @@ Nr. VIII-1228,
 LIETUVOS RESPUBLIKOS
 ĮMONIŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+38.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1305,
+99.07.07, Žin., 1999, Nr.66-2122 (99.07.30)
+LIETUVOS RESPUBLIKOS
+ĮMONIŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
              
@@ -442,8 +450,8 @@ pagrįstus  naryste  ūkinėje  bendrijoje, reguliuoja įmonės steigimo doku
  
                
                 II skirsnis
-        
-                       ĮMONIŲ RŪŠYS
+                               
+ĮMONIŲ RŪŠYS
  
      6
 straipsnis.Įmonių rūšys ir įmonių junginiai
@@ -453,7 +461,8 @@ Lietuvos Respublikoje gali veikti šios
 įmonės:
 1) individualios (personalinės) įmonės;
 2) tikrosios ūkinės bendrijos;
-3) komanditinės (pasitikėjimo) ūkinės bendrijos;
+3) komanditinės (pasitikėjimo) ūkinės
+bendrijos;
 4) akcinės bendrovės, uždarosios akcinės
 bendrovės ir investicinės bendrovės;
 5) valstybės įmonės;
@@ -544,8 +553,8 @@ vienas tikrasis narys ir bent vienas narys komanditorius.
      Komanditinės
 (pasitikėjimo) ūkinės bendrijos  steigimą, likvidavimą ir veiklą be šio
 įstatymo reglamentuoja Lietuvos Respublikos civilinis kodeksas, Lietuvos
-Respublikos ūkinių bendrijų įstatymas bei bendrosios jungtinės veiklos
-sutartis, kuria steigiama komanditinė (pasitikėjimo) ūkinė bendrija.
+Respublikos ūkinių bendrijų įstatymas bei bendrosios jungtinės veiklos sutartis,
+kuria steigiama komanditinė (pasitikėjimo) ūkinė bendrija.
  
      10
 straipsnis. Akcinė bendrovė, uždaroji akcinė bendrovė ir 
@@ -553,8 +562,8 @@ straipsnis. Akcinė bendrovė, uždaroji akcinė bendrovė ir
 investicinė bendrovė
  
  
-Akcinė bendrovė, uždaroji akcinė bendrovė ir investicinė bendrovė yra ribotos
-turtinės atsakomybės įmonės, turinčios juridinio asmens teises, kurių įstatinis
+Akcinė bendrovė, uždaroji akcinė bendrovė ir investicinė bendrovė yra ribotos turtinės
+atsakomybės įmonės, turinčios juridinio asmens teises, kurių įstatinis
 (nuosavas) kapitalas yra padalytas į dalis - akcijas.  Akcininkai yra akcinės
 bendrovės, uždarosios akcinės bendrovės ar investicinės  bendrovės nariai,
 kuriais tampama įstatymų nustatyta tvarka įsigijus šių bendrovių akcijų.
@@ -579,8 +588,7 @@ I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
 įmonės
  
 Valstybės įmonė yra juridinio asmens teises
-turinti įmonė, kurios visas turtas nuosavybės teise priklauso Lietuvos
-Respublikai.
+turinti įmonė, kurios visas turtas nuosavybės teise priklauso Lietuvos Respublikai.
 Savivaldybės įmonė yra juridinio asmens
 teises turinti įmonė, kurios visas turtas nuosavybės teise priklauso
 savivaldybei.
@@ -618,8 +626,8 @@ Nr. VIII-422,
 
                              
 III skirsnis
-          
-           ĮMONIŲ ŪKINĖS VEIKLOS PAGRINDAI
+       
+              ĮMONIŲ ŪKINĖS VEIKLOS PAGRINDAI
  
 12 straipsnis. Įmonės veiklos sritis
  
@@ -635,9 +643,9 @@ laikyti lošimo namus, organizuoti azartinius lošimus.
 įmonėms ir jų junginiams draudžiama verstis kredito įstaigų veikla, taip pat
 draudžiama skolintis pinigų iš fizinių asmenų, išskyrus Lietuvos Respublikos
 įstatymų nustatytus atvejus ir būdus.
-Komercinės-ūkinės veiklos sritis, kuriose
-draudžiama užsienio kilmės kapitalo investicija, nustato Užsienio kapitalo
-investicijų Lietuvos Respublikoje įstatymas.
+Komercinės-ūkinės
+veiklos sritis, kuriose neleidžiamos užsienio investicijos, nustato Lietuvos
+Respublikos investicijų įstatymas.
 Laisvųjų ekonominių zonų įmonių veiklos
 sritis, kuriose draudžiamos kapitalo investicijos, nustato Lietuvos Respublikos
 laisvųjų ekonominių zonų pagrindų įstatymas.
@@ -667,6 +675,8 @@ Nr. VIII-422,
 97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
 Nr. VIII-936,
 98.11.24, Žin., 1998, Nr.109-2994 (98.12.11)
+Nr. VIII-1305,
+99.07.07, Žin., 1999, Nr.66-2122 (99.07.30)
  
      13
 straipsnis. Licencijų išdavimas
@@ -680,9 +690,10 @@ jeigu kiti įstatymai nenustato ko kita;
 3) auginti ir realizuoti kultūras, kuriose
 yra narkotinių, psichotropinių, stipriai veikiančių ir nuodingųjų medžiagų,
 taip pat gaminti, importuoti, eksportuoti narkotines, psichotropines medžiagas,
-prekursorius ir užsiimti jų didmenine bei mažmenine prekyba Lietuvos Respublikoje;
-4) gaminti alkoholio produktus, kuriuose
-tūrinė etilo alkoholio koncentracija yra ne daugiau kaip 22 procentai;
+prekursorius ir užsiimti jų didmenine bei mažmenine prekyba Lietuvos
+Respublikoje;
+4) gaminti alkoholio produktus, kuriuose tūrinė
+etilo alkoholio koncentracija yra ne daugiau kaip 22 procentai;
 5) teikti sveikatos priežiūros paslaugas,
 jeigu kiti įstatymai nenustato ko kita;
 6) užsiimti mokymo veikla, jeigu baigus
@@ -836,10 +847,10 @@ veikia  savarankiškai. Valstybės organai neturi teisės tvarkyti įmonių rei
 ar administraciniais metodais reguliuoti  jų  ūkinę veiklą, išskyrus Lietuvos
 Respublikos valstybės ir savivaldybės įmonių bei Akcinių bendrovių įstatymų
 numatytus  atvejus,  kai  šie organai yra valstybės įmonių steigėjai ar
-specialios paskirties akcinių ar uždarųjų akcinių bendrovių akcininkai, taip
-pat kai įstatymų nustatyta tvarka įmonei  už  teisės pažeidimus taikomas
-specialus priežiūros režimas ar bankroto bei kitais įstatymų numatytais
-atvejais skiriamas įmonės likvidatorius.
+specialios paskirties akcinių ar uždarųjų akcinių bendrovių akcininkai, taip pat
+kai įstatymų nustatyta tvarka įmonei  už  teisės pažeidimus taikomas specialus
+priežiūros režimas ar bankroto bei kitais įstatymų numatytais atvejais
+skiriamas įmonės likvidatorius.
      Visos
 įmonės turi vienodas teisines-ekonomines ūkininkavimo sąlygas.
      Visos
@@ -853,8 +864,8 @@ Respublikos Vyriausybės arba vietos savivaldybės organo nurodymus.
      Įmonė
 gali gauti valstybės centralizuota tvarka skiriamų (parduodamų) finansinių,
 medžiaginių ir kitokių vertybių už valstybės  patvirtintą  arba  sutartinę
-kainą ir už įmonės prisiimamus atitinkamus sutartinius įsipareigojimus valstybės
-(vietos savivaldybės) organui.
+kainą ir už įmonės prisiimamus atitinkamus sutartinius įsipareigojimus
+valstybės (vietos savivaldybės) organui.
 Įmonė privalo turėti valstybės institucijų
 išduotus leidimus, licencijas ir kitus dokumentus, jeigu pagal šį ir kitus
 įstatymus tokie leidimai, licencijos ir dokumentai yra reikalingi (licencija
@@ -868,8 +879,8 @@ Nr.
 I-1146, 95.12.20, Žin., 1995, Nr. 107-2395 (95.12.30) 
 Nr.
 I-1600, 96.10.22, Žin., 1996, Nr.106-2430 (96.11.06)
-Nr. VIII-422,
-97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+Nr. VIII-422, 97.09.25,
+Žin., 1997, Nr.96-2419 (97.10.24)
  
      15
 straipsnis.Įmonių veiklos kontrolė
@@ -1046,8 +1057,8 @@ straipsnis.Atsisakymas įregistruoti ar  perregistruoti įmonę
 įregistruoti įmonę galima, jeigu nepateikti šio įstatymo  21  straipsnyje 
 nustatyti  dokumentai  arba šie dokumentai  neatitinka  įstatymo  nustatytų 
 reikalavimų. Atsisakymas  įregistruoti  įmonę  kitokiais  motyvais  yra
-neteisėtas. Apie sprendimą įmonės neįregistruoti atitinkamas organas per 3 dienas
-privalo raštu pranešti įmonės steigėjui.
+neteisėtas. Apie sprendimą įmonės neįregistruoti atitinkamas organas per 3
+dienas privalo raštu pranešti įmonės steigėjui.
      Atsisakymas
 įregistruoti įmonę gali būti užginčytas teismine tvarka. Įmonės steigėjas per
 teismą gali išieškoti nuostolius, atsiradusius dėl neteisėto atsisakymo
@@ -1104,8 +1115,8 @@ civilinis kodeksas, Lietuvos Respublikos konkurencijos ir Įmonių bankroto
 dokumentai. Įmonę reorganizavus, naujam juridiniam asmeniui pereina teisės ir
 prievolės, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo
 biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės
-institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki
-reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka.
+institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos
+įmonės išregistravimo įstatymų nustatyta tvarka.
      Įmonę
 likvidavus arba reorganizavus daromi  atitinkami įrašai įmonių registravimo
 rejestre. Apie tai skelbiama vietos ir Respublikos spaudoje.
