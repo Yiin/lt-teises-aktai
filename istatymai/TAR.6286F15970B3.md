@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2002-07-17 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2003-07-22
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -280,9 +280,11 @@ Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA
 
 
 
-32. Projektinė grėsmė – galimų vidaus ir (ar) išorės pažeidėjų, kurie galėtų mėginti neteisėtai užvaldyti branduolinės energetikos objektą ir (ar) branduolines medžiagas arba įvykdyti diversiją, charakteristikų ir ketinimų visuma. Užkirsti kelią šiems veiksmams yra projektuojama fizinės saugos sistema.
+32. Projektinė grėsmė – galimų vidaus ir (ar) išorės pažeidėjų, kurie galėtų mėginti neteisėtai užvaldyti branduolinės energetikos objektą ir (ar) branduolines medžiagas arba įvykdyti teroro aktą, charakteristikų ir ketinimų visuma. Užkirsti kelią šiems veiksmams yra projektuojama fizinės saugos sistema.
 Papildyta straipsnio dalimi:
 Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
+Straipsnio dalies pakeitimai:
+Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010ISTA0IX-1417
  
 
 
@@ -1034,12 +1036,18 @@ Vidaus reikalų ministerija:
 Valstybės saugumo departamentas:
 
 
-1) vykdo diversijų, kenkimo, teroristinių aktų ir kitokio pobūdžio nusikalstamų veikų, siekiančių pakenkti valstybės saugumo interesams branduolinės energetikos objektuose, jų aplinkoje, branduolinių ir radioaktyviųjų medžiagų transportavimo keliuose, prevenciją;
+1) vykdo teroro aktų ir kitokio pobūdžio nusikalstamų veikų, siekiančių pakenkti valstybės saugumo interesams branduolinės energetikos objektuose, jų aplinkoje, branduolinių ir radioaktyviųjų medžiagų transportavimo keliuose, prevenciją; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010ISTA0IX-1417
+ 
 
 
 
 
-2) laikydamasis valstybės saugumo interesų, atlieka operatyvinius ir kvotos veiksmus nustatant ir tiriant veikas, kuriomis kėsinamasi į branduolinės energetikos objektus, branduolinius įrenginius bei įrengimus, taip pat branduolinės technologijos procesus;
+2) laikydamasis valstybės saugumo interesų, atlieka operatyvinius ir ikiteisminio tyrimo veiksmus nustatant ir tiriant veikas, kuriomis kėsinamasi į branduolinės energetikos objektus, branduolinius įrenginius bei įrengimus, taip pat branduolinės technologijos procesus;
+Straipsnio punkto pakeitimai:
+Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010ISTA0IX-1417
+ 
 
 
 
@@ -1974,7 +1982,10 @@ Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA
 
 
 
-2. Transporto priemonės ir asmenys (įskaitant ir įmonės darbuotojus), esantys objekto teritorijoje ar sanitarinėje apsaugos zonoje, Lietuvos Respublikos Vyriausybės nustatyta tvarka gali būti apžiūrimi bei tikrinami, ar neturi ginklų, šaudmenų, radioaktyviųjų medžiagų ir kitų daiktų, kuriuos būtų galima panaudoti kenkimo, diversijos, teroro ar kitiems nusikalstamiems tikslams.
+2. Transporto priemonės ir asmenys (įskaitant ir įmonės darbuotojus), esantys objekto teritorijoje ar sanitarinėje apsaugos zonoje, Lietuvos Respublikos Vyriausybės nustatyta tvarka gali būti apžiūrimi bei tikrinami, ar neturi ginklų, šaudmenų, radioaktyviųjų medžiagų ir kitų daiktų, kuriuos būtų galima panaudoti teroro aktams ar kitiems nusikalstamiems tikslams.
+Straipsnio dalies pakeitimai:
+Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010ISTA0IX-1417
+ 
 
 
 
@@ -2526,3 +2537,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo 16 ir 32 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1021, 2002-07-02, Žin., 2002, Nr. 72-3020 (2002-07-17), i. k. 1021010ISTA0IX-1021
 Lietuvos Respublikos branduolinės energijos įstatymo 5 ir 9 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010ISTA0IX-1417
+Lietuvos Respublikos branduolinės energijos įstatymo 2, 22 ir 51 straipsnių pakeitimo įstatymas
