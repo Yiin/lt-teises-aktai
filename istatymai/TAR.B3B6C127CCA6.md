@@ -29,7 +29,6 @@ ATOSTOGŲ
 I skirsnis.
 BENDRIEJI NUOSTATAI 
  
- 
             1 straipsnis. Įstatymo
 paskirtis
             Šis įstatymas nustato
@@ -64,10 +63,8 @@ Nr.44-1248 (00.05.31)
             Atostogos yra kasmetinės ir
 tikslinės. 
  
- 
 II skirsnis.
 KASMETINĖS ATOSTOGOS 
- 
  
             4 straipsnis. Kasmetinių
 atostogų sąvoka
@@ -96,6 +93,7 @@ pakeitimai:
 Nr.
 I-1288,
 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
+ 
  
             7 straipsnis. Kasmetinės
 pailgintos atostogos
@@ -226,9 +224,9 @@ apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 kasmetines minimalias atostogas mokamas ne vėliau kaip prieš tris kalendorines
 dienas iki prasidedant atostogoms. Darbo užmokestis už kasmetines pailgintas
 atostogas gali būti mokamas dalimis. Už pirmąją atostogų dalį (30 kalendorinių
-dienų) sumokama ne vėliau kaip prieš tris kalendorines dienas iki prasidedant atostogoms,
-o už likusią atostogų dalį - ne vėliau kaip prieš tris kalendorines dienas iki
-jų tęsinio.
+dienų) sumokama ne vėliau kaip prieš tris kalendorines dienas iki prasidedant
+atostogoms, o už likusią atostogų dalį - ne vėliau kaip prieš tris kalendorines
+dienas iki jų tęsinio.
             Jei darbuotojui
 priklausantis darbo užmokestis nustatytu laiku nesumokamas ne dėl darbuotojo
 kaltės, atostogos pratęsiamos tiek dienų, kiek buvo delsiama sumokėti darbo
@@ -240,8 +238,8 @@ VIII-271,
 97.06.17, Žin., 1997, Nr.63-1475 (97.07.02)
  
  
-            16 straipsnis. Piniginė
-kompensacija už nepanaudotas kasmetines atostogas
+            16 straipsnis. Piniginė kompensacija
+už nepanaudotas kasmetines atostogas
             Darbuotojams pakeisti
 atostogas pinigine kompensacija neleidžiama. Kai dėl darbo santykių pasibaigimo
 darbuotojui negali būti suteiktos atostogos arba kai darbuotojas jų
@@ -270,18 +268,23 @@ atostogų rūšys
             mokymosi;
             nemokamos.
  
-            18 straipsnis. Nėštumo ir
-gimdymo atostogos
-            Moterims suteikiamos nėštumo
-ir gimdymo atostogos - 70 kalendorinių dienų iki gimdymo ir 56 kalendorinės
-dienos po gimdymo (komplikuoto gimdymo atveju arba gimus dviems ar daugiau
-vaikų - 70 kalendorinių dienų). Šios atostogos apskaičiuojamos bendrai ir
-suteikiamos moteriai visos nepriklausomai nuo faktiškai iki gimdymo išnaudotų
-dienų skaičiaus. Už šių atostogų laiką mokama Lietuvos Respublikos valstybinio
-socialinio draudimo įstatymo nustatyta pašalpa.
+18 straipsnis.
+Nėštumo ir gimdymo atostogos 
+Moterims
+suteikiamos nėštumo ir gimdymo atostogos – 70 kalendorinių dienų iki gimdymo ir
+56 kalendorinės dienos po gimdymo (komplikuoto gimdymo atveju arba gimus dviem
+ir daugiau vaikų – 70 kalendorinių dienų). Šios atostogos apskaičiuojamos
+bendrai ir suteikiamos moteriai visos, neatsižvelgiant į faktiškai išnaudotų
+dienų skaičių. Už šių atostogų laiką mokama Lietuvos Respublikos ligos ir
+motinystės socialinio draudimo įstatymo nustatyta pašalpa.
+Straipsnio
+pakeitimai:
+Nr. IX-111, 2000 12 21, Žin., 2000, Nr.
+111-3575 (2000 12 29), įsigalioja nuo 2001 01 01
  
-            19 straipsnis. Atostogos vaikui
-prižiūrėti iki jam sueis treji metai
+ 
+            19 straipsnis. Atostogos
+vaikui prižiūrėti iki jam sueis treji metai
             Motinai, jos pageidavimu,
 suteikiamos atostogos vaikui prižiūrėti iki jam sueis treji metai.
             Šeimos pasirinkimu, šios
@@ -301,9 +304,9 @@ iki 14 kalendorinių dienų trukmės atostogos. Motinoms, auginančioms vaiką
 invalidą iki 16 metų , šalių suderintu laiku kasmet suteikiamos iki 30
 kalendorinių dienų trukmės nemokamos atostogos.
             Moters nėštumo ir gimdymo
-bei vaiko priežiūros iki jam sueis treji metai atostogų metu tėvui jo pageidavimu
-suteikiamos nemokamos atostogos, kurių bendra trukmė negali viršyti trijų
-mėnesių.
+bei vaiko priežiūros iki jam sueis treji metai atostogų metu tėvui jo
+pageidavimu suteikiamos nemokamos atostogos, kurių bendra trukmė negali viršyti
+trijų mėnesių.
 Straipsnio
 pakeitimai:
 Nr. VIII-365,
@@ -312,11 +315,11 @@ Nr. VIII-365,
  
             21 straipsnis. Atostogos
 įvaikinusiems asmenims
-            Asmenims, įvaikinusiems
-naujagimius, ir globėjams, paėmusiems kūdikius į globą, suteikiamos atostogos
-už laiką nuo įvaikinimo ar paėmimo į globą dienos iki kūdikiui sueis 70 dienų,
-mokant už jas taip, kaip numatyta šio įstatymo 18 straipsnyje. Jiems taip pat
-suteikiamos atostogos, numatytos šio įstatymo 19 ir 20 straipsniuose.
+            Asmenims, įvaikinusiems naujagimius,
+ir globėjams, paėmusiems kūdikius į globą, suteikiamos atostogos už laiką nuo
+įvaikinimo ar paėmimo į globą dienos iki kūdikiui sueis 70 dienų, mokant už jas
+taip, kaip numatyta šio įstatymo 18 straipsnyje. Jiems taip pat suteikiamos
+atostogos, numatytos šio įstatymo 19 ir 20 straipsniuose.
  
             22 straipsnis. Atostogos
 tėvams ir kitiems asmenims, auginantiems vaikus be motinos
@@ -358,10 +361,9 @@ sąlygos
 nurodytiems darbuotojams, kurie mokosi, laiko stojamuosius egzaminus į
 aukštąsias ir aukštesniąsias mokyklas su įmonių siuntimais, už suteikiamas
 atostogas šios įmonės moka ne mažesnį kaip vidutinį darbo užmokestį.
-            Darbuotojams, laikantiems
-stojamuosius egzaminus ir besimokantiems savo iniciatyva, mokymosi laiko
-apmokėjimo klausimas sprendžiamas kolektyvinėje sutartyje arba šalims
-susitarus.
+            Darbuotojams, laikantiems stojamuosius
+egzaminus ir besimokantiems savo iniciatyva, mokymosi laiko apmokėjimo
+klausimas sprendžiamas kolektyvinėje sutartyje arba šalims susitarus.
  
             25 straipsnis. Nemokamos
 atostogos dėl šeimyninių aplinkybių ir kitų svarbių priežasčių
@@ -391,8 +393,8 @@ papildomos lengvatos pasirinkti atostogų laiką, numatyti didesni apmokėjimai 
 atostogas, negu garantuoja šis įstatymas. Šios garantijos, išskyrus papildomą
 lengvatą pasirinkti atostogų laiką, negali būti nustatytos kolektyvinėse ir
 darbo sutartyse, sudaromose įstaigose, organizacijose, kurios yra išlaikomos iš
-valstybės, savivaldybių ir valstybinio socialinio draudimo fondo biudžetų bei kitų
-valstybės įsteigtų fondų lėšų, taip pat sudaromose Lietuvos banke.  
+valstybės, savivaldybių ir valstybinio socialinio draudimo fondo biudžetų bei
+kitų valstybės įsteigtų fondų lėšų, taip pat sudaromose Lietuvos banke.  
 Straipsnio
 pakeitimai:
 Nr. VIII-365,
@@ -419,13 +421,13 @@ administracinė ar baudžiamoji atsakomybė.
  
  
 LIETUVOS RESPUBLIKOS
-AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                   
-VYTAUTAS LANDSBERGIS 
+AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS       
+           VYTAUTAS LANDSBERGIS 
  
 Vilnius, 1991 m. gruodžio 17 d.
             Nr.I-2113 
  
-_______________
+__________
  
 Pakeitimai:
  
@@ -470,16 +472,25 @@ RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 20, 25 IR 26 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1702, 00.05.23, Žin., 2000,
-Nr.44-1248 (00.05.31)
+Nr. VIII-1702, 00.05.23, Žin., 2000, Nr.44-1248
+(00.05.31)
 ATOSTOGŲ ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Atostogų
 įstatymo 2 straipsnio 2 dalies nuostatos Kalėjimų departamento prie Lietuvos
 Respublikos teisingumo ministerijos ir jam pavaldžių įstaigų bei valstybės
 įmonių pareigūnams įsigalioja nuo 2000 m. rugsėjo 1 d.
  
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-111, 2000 12 21, Žin., 2000, Nr.
+111-3575 (2000 12 29)
+ATOSTOGŲ ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.05.31)
+Redagavo: Aušrinė Trapinskienė (2001 01 09)
+                  autrap@lrs.lt
 
