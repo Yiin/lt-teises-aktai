@@ -65,7 +65,6 @@ Straipsnio pakeitimai:
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 22-716 (2001 03 14)
  
- 
 ANTRASIS
 SKIRSNIS
 GARANTINIO FONDO
@@ -104,7 +103,6 @@ fondo lėšos naudojamos tik pagal šio įstatymo 3 straipsnyje numatytą paskir
 Straipsnio pakeitimai:
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 22-716 (2001 03 14)
- 
  
 5 straipsnis.
 Garantinio fondo lėšų naudojimas 
@@ -149,7 +147,6 @@ Garantinio fondo administravimo išlaidoms.
 Straipsnio pakeitimai:
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 22-716 (2001 03 14)
- 
  
 6 straipsnis.
 Lėšų iš Garantinio fondo skyrimo tvarka
@@ -230,8 +227,8 @@ sprendimus dėl Garantinio fondo lėšų skyrimo;
 5 straipsnio 1 dalies 1 ir 5 punktuose;
 4) teikia
 Vyriausybei Garantinio fondo veiklos pusmečio ir metų ataskaitas;
-5) teikia
-Vyriausybei pasiūlymus Garantinio fondo veiklos klausimais;
+5) teikia Vyriausybei
+pasiūlymus Garantinio fondo veiklos klausimais;
 6) tvirtina
 lėšų iš Garantinio fondo perdavimo įmonei sutarties tipinę formą;
 7) vykdo
@@ -240,13 +237,12 @@ Straipsnio pakeitimai:
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 22-716 (2001 03 14)
  
- 
 10 straipsnis.
 Garantinio fondo administratoriaus funkcijos
 Garantinio fondo
 administratoriaus pagrindinės funkcijos:
-1) vykdyti
-Garantinio fondo tarybos ir jos pirmininko pavedimus; 
+1) vykdyti Garantinio
+fondo tarybos ir jos pirmininko pavedimus; 
 2) priimti
 bankrutuojančių ir bankrutavusių įmonių paraiškas dėl lėšų skyrimo 3
 straipsnyje nurodytų darbuotojų išmokoms, šias paraiškas nagrinėti ir parengti
@@ -270,7 +266,6 @@ Straipsnio pakeitimai:
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 22-716 (2001 03 14)
  
- 
 KETVIRTASIS SKIRSNIS
 BAIGIAMOSIOS
 NUOSTATOS
@@ -287,36 +282,28 @@ Garantinį fondą, nepanaudotų lėšų naudojimo tvarką nustato šio fondo ste
 1. Šis įstatymas
 įsigalioja nuo 2000 m. spalio 1 d.
 2. Įmonėms,
-kuriose bankroto procesas pradėtas iki šio įstatymo įsigaliojimo dienos, netaikomi
-šio įstatymo 5 straipsnio 1 dalies 2, 3 ir 5 punktai. Tais atvejais, kai
-bankrutuojančios ar bankrutavusios įmonės darbuotojams bankroto proceso metu
-jau buvo sumokėta tam tikra darbo užmokesčio dalis, šio įstatymo 5 straipsnio 1
-dalies 1 punkte nurodytos išmokos jiems turi būti sumažinamos sumokėta suma.
+kuriose bankroto procesas pradėtas iki šio įstatymo įsigaliojimo dienos,
+netaikomi šio įstatymo 5 straipsnio 1 dalies 2, 3 ir 5 punktai. Tais atvejais,
+kai bankrutuojančios ar bankrutavusios įmonės darbuotojams bankroto proceso
+metu jau buvo sumokėta tam tikra darbo užmokesčio dalis, šio įstatymo 5
+straipsnio 1 dalies 1 punkte nurodytos išmokos jiems turi būti sumažinamos
+sumokėta suma.
 3.
 Bankrutuojančių ir bankrutavusių įmonių paraiškos dėl lėšų skyrimo iš
 Garantinio fondo šio įstatymo 3 straipsnyje nurodytiems darbuotojams pradedamos
 nagrinėti Garantinio fondo taryboje ne anksčiau kaip po 3 mėnesių nuo šio
 įstatymo įsigaliojimo dienos.
-4. Įmonių, kurių
-bankroto procesas pradėtas iki šio įstatymo įsigaliojimo dienos, darbuotojams
-išmokos mokamos iš Garantiniame fonde sukauptų Privatizavimo fondo lėšų ir
-įmonių grąžinamų finansinės paramos lėšų, kurios joms buvo skirtos iš Fondo
-bankrutuojančių ar bankrutavusių įmonių darbuotojų reikalavimams, susijusiems
-su darbo santykiais, tenkinti. Įmonių, kurių bankroto procesas pradėtas po šio
-įstatymo įsigaliojimo dienos, darbuotojams išmokos mokamos iš Garantiniame
-fonde sukauptų įmonių įmokų, valstybės biudžeto lėšų, skiriamų pagal atskirą
-programą, ir lėšų, atgautų šiame įstatyme numatyto atgręžtinio reikalavimo
-teise.
-5. Įmonės įmokas į
+4. Įmonės įmokas į
 Garantinį fondą pradeda mokėti nuo 2001 m. kovo 15 d.
-6. Įmonės,
+5. Įmonės,
 kurios sumokėjo įmokas į Garantinį fondą iki 2001 m. kovo 15 d., šių įmokų
 dydžiu gali sumažinti įmokas, apskaičiuotas ir mokėtinas į Garantinį fondą nuo
 2001 m. kovo 15 d.
 Straipsnio pakeitimai:
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 22-716 (2001 03 14)
- 
+Nr. IX-631,
+2001-12-06, Žin., 2001, Nr. 104-3703 (2001-12-12)
  
 13 straipsnis. Įstatymo
 įgyvendinimas
@@ -344,7 +331,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-________
+___________
  
 Pakeitimai:
  
@@ -356,9 +343,20 @@ Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 GARANTINIO FONDO ĮSTATYMO 3, 4,
 5, 9, 10, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-631,
+2001-12-06, Žin., 2001, Nr. 104-3703 (2001-12-12)
+GARANTINIO
+FONDO ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 03 14)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2001-12-12)
+                 
+autrap@lrs.lt
 
