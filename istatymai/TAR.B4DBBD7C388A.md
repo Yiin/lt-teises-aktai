@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4DBBD7C388A"
 
 # Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas
 
+Suvestinė redakcija nuo 1997-07-11 iki 2001-08-31
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 89-1985, i. k. 0951010ISTA00I-1057
+ 
 LIETUVOS RESPUBLIKOS
 RELIGINIŲ BENDRUOMENIŲ IR BENDRIJŲ
 Į S T A T Y M A S
@@ -246,7 +250,7 @@ Valstybinėse mokymo ir auklėjimo įstaigose tikybos dėstymo tvarką reglament
 
 
 
-10 straipsnis.       Tradicinių religinių bendruomenių ir bendrijų juridinio asmens teisių įforminimas
+10 straipsnis. Tradicinių religinių bendruomenių ir bendrijų juridinio asmens teisių įforminimas
 
 
 Tradicinės religinės bendruomenės ir bendrijos, turinčios juridinio asmens teises, praneša apie tai Teisingumo ministerijai.
@@ -255,9 +259,21 @@ Tradicinės religinės bendruomenės ir bendrijos, turinčios juridinio asmens t
 
 
 Naujai susikūrusios (atsikūrusios) tradicinės religinės bendruomenės ir bendrijos įgyja juridinio asmens teises, kai jų vadovybė apie susikūrimą (atsikūrimą) raštu praneša Teisingumo ministerijai ir yra nustatomas konkrečios bendruomenės ar bendrijos tradicijų tęstinumas atsižvelgiant į jos kanonus, statutus bei kitas normas.
+
+
+
+
+Tradicinių religinių bendruomenių, bendrijų ir centrų pagal jų kanonus, statutus ar kitas normas įsteigti juridiniai asmenys įgyja juridinio asmens teises, kai jų vadovybė raštu praneša Teisingumo ministerijai, o ši įformina įstatymų nustatyta tvarka.
+
+
+
+
+Šie juridiniai asmenys turi teisę užsiimti šiame įstatyme jų bendruomenei, bendrijai ar centrui numatyta veikla, taip pat veikla, numatyta šių juridinių asmenų įstatuose.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-394, 1997-07-02, Žin., 1997, Nr. 66-1618 (1997-07-11), i. k. 0971010ISTAVIII-394
  
-
-
 
 
 
@@ -532,3 +548,13 @@ Nutraukus religinės bendruomenės, bendrijos ar centro veiklą, likęs turtas p
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-394, 1997-07-02, Žin., 1997, Nr. 66-1618 (1997-07-11), i. k. 0971010ISTAVIII-394
+Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 10 straipsnio papildymo įstatymas
