@@ -337,33 +337,12 @@ KINO FINANSAVIMAS
 
 2) kitų teisėtai gautų lėšų.7 straipsnis. Kino valstybinis finansavimas
 
-
 1. Kino valstybinis finansavimas skiriamas iš valstybės biudžeto lėšų, atsižvelgiant į Lietuvos kino centro parengtas programas.
 
-
-
-
 2. Kino valstybinis finansavimas skiriamas:
-
-
 1) nacionalinių filmų parengiamiesiems darbams, nacionalinių filmų gamybai, sklaidai, platinimui ir rodymui;
-
-
-
-
 2) kino kultūros sklaidai;
-
-
-
-
 3) kino paveldui kaupti, išsaugoti ir rodyti.
-
-
-
-
-
-
-3. Per kalendorinius metus nepanaudotos kino valstybiniam finansavimui skirtos lėšos lieka Lietuvos kino centro sąskaitoje ir naudojamos kitais metais numatytiems kino valstybinio finansavimo projektams finansuoti.
  
 
 
@@ -560,21 +539,11 @@ KINO FINANSAVIMAS
 
 10 straipsnis. Ekspertai
 
-
 1. Kino valstybiniam finansavimui gauti pateiktą kino projektą, vadovaudamasi šio įstatymo 9 straipsnio kino valstybinio finansavimo pagrindais ir sąlygomis, vertina ekspertų komisijos, sudarytos atsižvelgiant į kino valstybinio finansavimo sritis, nustatytas šio įstatymo 7 straipsnyje, o nacionalinių filmų parengiamųjų ir gamybos darbų projektų atvejais, – atsižvelgiant ir į projektų kategorijas, nustatytas kultūros ministro patvirtintose kino valstybinio finansavimo taisyklėse.
-
-
-
 
 2. Sprendimus dėl kino valstybinio finansavimo skyrimo, įvertinęs ekspertų komisijų išvadas, priima Lietuvos kino centro direktorius.
 
-
-
-
-3. Ekspertų komisijos sudaromos iš Lietuvos kino meno kūrėjų, profesionalių kino meno vertintojų, filmų gamintojų. 
-
-
-
+3. Ekspertų komisijos sudaromos iš Lietuvos kino meno kūrėjų, profesionalių kino meno vertintojų, filmų gamintojų.
 
 4. Lietuvos kino centro direktorius, suderinęs su kultūros ministru, nustato ekspertų komisijų skaičių, nuostatus ir personalinę sudėtį. Ekspertų komisijų narių darbas apmokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
 
@@ -652,21 +621,11 @@ FILMŲ PLATINIMAS, RODYMAS IR PADARYMAS VIEŠAI PRIEINAMŲ ELEKTRONINIŲ RYŠIŲ
 
 13 straipsnis. Filmų platinimo, rodymo ir padarymo viešai prieinamų elektroninių ryšių tinklais sąlygos ir priežiūra
 
-
-1. Filmai Lietuvos Respublikoje gali būti platinami, rodomi ir padaromi viešai prieinami elektroninių ryšių tinklais Autorių teisių ir gretutinių teisių įstatymo nustatyta tvarka gavus autorių teisių ir gretutinių teisių turėtojų ar jų įgaliotų asmenų leidimą. 
-
-
-
+1. Filmai Lietuvos Respublikoje gali būti platinami, rodomi ir padaromi viešai prieinami elektroninių ryšių tinklais Autorių teisių ir gretutinių teisių įstatymo nustatyta tvarka gavus autorių teisių ir gretutinių teisių turėtojų ar jų įgaliotų asmenų leidimą.
 
 2. Juridiniai ir fiziniai asmenys, turintys teisę platinti filmus kino teatrams, privalo teikti Lietuvos kino centrui jo nustatytos statistinių duomenų teikimo formos informaciją apie filmų rodymą.
 
-
-
-
 3. Filmų, kurie padaromi viešai prieinami elektroninių ryšių tinklais, viešam perdavimui ir informacijai, kuri skirta viešai pristatyti filmus, taikomos Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo ir Visuomenės informavimo įstatymo nuostatos.
-
-
-
 
 4. Šio įstatymo kino filmų viešo rodymo reikalavimų ir kino filmų registravimo Filmų registro informacinėje sistemoje tvarkos priežiūrą atlieka Lietuvos kino centras. Lietuvos kino centro įgalioti pareigūnai turi teisę gauti informaciją, duomenis ar dokumentus, reikalingus šiai priežiūrai atlikti, taip pat turi teisę gauti žodinius ir rašytinius paaiškinimus iš tikrinamų juridinių ir fizinių asmenų. Lietuvos kino centro įgalioti pareigūnai privalo neatskleisti patikrinimų metu gautos konfidencialios ar komercinę paslaptį sudarančios informacijos.14 straipsnis. Filmų indeksavimas pagal žiūrovų amžiaus cenzą
 
@@ -731,7 +690,7 @@ FILMŲ PLATINIMAS, RODYMAS IR PADARYMAS VIEŠAI PRIEINAMŲ ELEKTRONINIŲ RYŠIŲ
 
 
 
-5. Filmų indeksavimo komisijos sudėtį, nuostatus, kuriuose nustatomi filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijai, tvirtina Lietuvos kino centro direktorius, suderinęs su kultūros ministru. Komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
+5. Filmų indeksavimo komisijos sudėtį, nuostatus, kuriuose nustatomi filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijai, tvirtina Lietuvos kino centro direktorius, suderinęs su kultūros ministru. Komisijos narių darbas apmokamas Biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
  
@@ -739,7 +698,7 @@ Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
 
 
 
-6. Filmų indeksai suteikiami iki filmų įregistravimo Filmų registre.
+6. Filmų indeksai suteikiami iki filmų įregistravimo Filmų registro informacinėje sistemoje.
 
 
 
@@ -789,7 +748,7 @@ Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
 
 
 
-11. Jeigu Filmų indeksavimo komisija nustato, kad filmas yra pornografinis, smurtinis arba filmo tikslas yra kurstyti neapykantą, filmo indeksas pagal žiūrovų amžiaus cenzą nesuteikiamas, filmas Filmų registre neregistruojamas ir negali būti rodomas Lietuvos Respublikoje.
+11. Jeigu Filmų indeksavimo komisija nustato, kad filmas yra pornografinis, smurtinis arba filmo tikslas yra kurstyti neapykantą, filmo indeksas pagal žiūrovų amžiaus cenzą nesuteikiamas, filmas Filmų registro informacinėje sistemoje neregistruojamas ir negali būti rodomas Lietuvos Respublikoje.
 
 
 
@@ -819,12 +778,12 @@ Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
 
 
 
-14. Informacija apie Lietuvos Respublikoje filmams suteiktus indeksus skelbiama Filmų registre. Asmens, turinčio teisę platinti filmą kino teatrams, pageidavimu išduodamas filmo indekso išrašas.
+14. Informacija apie Lietuvos Respublikoje filmams suteiktus indeksus skelbiama Filmų registro informacinėje sistemoje. Asmens, turinčio teisę platinti filmą kino teatrams, pageidavimu išduodamas filmo indekso išrašas.
 
 
 
 
-15. Filmai, rodomi festivaliuose, seminaruose, retrospektyvose ir kituose visuomenės kultūriniams, meniniams, edukaciniams poreikiams tenkinti skirtuose renginiuose, šio straipsnio 7–11 dalyse nustatyta tvarka neindeksuojami. Juos indeksais pagal žiūrovų amžiaus cenzą pažymi renginių rengėjai, įvertinę filmus pagal Filmų indeksavimo nuostatuose, patvirtintuose Lietuvos kino centro direktoriaus įsakymu, išvardytus filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijus. Jeigu filmui indeksas pagal žiūrovų amžiaus cenzą Lietuvos Respublikoje yra suteiktas, tokį filmą renginių rengėjai privalo pažymėti Lietuvos Respublikoje jam suteiktu indeksu.
+15. Filmai, rodomi festivaliuose, seminaruose, retrospektyvose ir kituose visuomenės kultūriniams, meniniams, edukaciniams poreikiams tenkinti skirtuose renginiuose, šio straipsnio 7–11 dalyse nustatyta tvarka neindeksuojami. Juos indeksais pagal žiūrovų amžiaus cenzą pažymi renginių rengėjai, įvertinę filmus pagal Lietuvos kino centro direktoriaus tvirtinamus filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijus, suderintus su kultūros ministru. Jeigu filmui indeksas pagal žiūrovų amžiaus cenzą Lietuvos Respublikoje yra suteiktas, tokį filmą renginių rengėjai privalo pažymėti Lietuvos Respublikoje jam suteiktu indeksu.
 
 
 
@@ -880,7 +839,7 @@ TAR pastaba. 16 straipsnio 2 dalies nuostatos dėl originalios nacionalinio film
 4. Nustatoma tokia originalios nacionalinio filmo medžiagos saugojimo tvarka:
 
 
-1) originalią nacionalinio filmo medžiagą filmo gamintojas valstybės archyvams saugoti privalo perduoti ne vėliau kaip per 12 mėnesių nuo filmo įregistravimo Filmų registre dienos;
+1) originalią nacionalinio filmo medžiagą filmo gamintojas valstybės archyvams saugoti privalo perduoti ne vėliau kaip per 12 mėnesių nuo filmo įregistravimo Filmų registro informacinėje sistemoje dienos;
 
 
 
@@ -893,7 +852,7 @@ TAR pastaba. 16 straipsnio 4 dalies nuostatos dėl originalios nacionalinio film
 
 
 
-5. Lietuvos kino centras informaciją apie pagamintus nacionalinius filmus valstybės archyvams pateikia per 5 darbo dienas nuo filmo įregistravimo Filmų registre dienos.
+5. Lietuvos kino centras informaciją apie pagamintus nacionalinius filmus valstybės archyvams pateikia per 5 darbo dienas nuo filmo įregistravimo Filmų registro informacinėje sistemoje dienos.
 
 
 
