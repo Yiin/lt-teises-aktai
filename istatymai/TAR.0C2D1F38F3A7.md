@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 1996-12-31 iki 1997-07-22
+Suvestinė redakcija nuo 1997-07-23 iki 1998-04-16
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
  
@@ -616,7 +616,10 @@ Jei bendrovė nebuvo įregistruota dėl priežasčių, nesusijusių su bendrovė
 
 
 
-3) prievolių perėmimas ir perėmimo terminai;
+3) prievolių, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka, perėmimas ir perėmimo terminai;
+Straipsnio punkto pakeitimai:
+Nr. VIII-378, 1997-07-02, Žin., 1997, Nr. 69-1739 (1997-07-23), i. k. 0971010ISTAVIII-378
+ 
 
 
 
@@ -774,7 +777,9 @@ Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010IST
 
 
 
-8. Sumokėjus mokesčius į biudžetą, atsiskaičius su kreditoriais ir darbuotojais, likęs likviduotos bendrovės turtas akcininkams padalijamas proporcingai jiems nuosavybės teise priklausančių akcijų nominaliai vertei. Analogiškai dalijamas ir vėliau išaiškėjęs bendrovės turtas. Jei bendrovės akcijos suteikia skirtingas teises, tai turto dalybose į tas teises turi būti atsižvelgta.
+8. Sumokėjus mokesčius į biudžetą, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki likviduojamos įmonės išregistravimo įstatymų nustatyta tvarka, atsiskaičius su kreditoriais ir darbuotojais, likęs likviduotos bendrovės turtas akcininkams padalijamas proporcingai jiems nuosavybės teise priklausančių akcijų nominaliai vertei. Analogiškai dalijamas ir vėliau išaiškėjęs bendrovės turtas. Jei bendrovės akcijos suteikia skirtingas teises, tai turto dalybose į tas teises turi būti atsižvelgta.
+Straipsnio dalies pakeitimai:
+Nr. VIII-378, 1997-07-02, Žin., 1997, Nr. 69-1739 (1997-07-23), i. k. 0971010ISTAVIII-378
  
 
 
@@ -3099,3 +3104,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo 20 ir 27 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-60, 1996-12-23, Žin., 1996, Nr. 126-2947 (1996-12-31), i. k. 0961010ISTA0VIII-60
 Lietuvos Respublikos akcinių bendrovių įstatymo 43 straipsnio papildymo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-378, 1997-07-02, Žin., 1997, Nr. 69-1739 (1997-07-23), i. k. 0971010ISTAVIII-378
+Lietuvos Respublikos akcinių bendrovių įstatymo 10 ir 11 straipsnių papildymo įstatymas
