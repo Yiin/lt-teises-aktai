@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CCC6F1CC7CE"
 
 # Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
 
+Suvestinė redakcija nuo 1994-07-20 iki 1994-12-30
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 62-1169, i. k. 0931010ISTA000I-300
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
@@ -57,16 +61,10 @@ Pakeisti ir papildyti kai kuriuos Lietuvos Respublikos įstatymus, reglamentuoja
 
 
 
-3. Lietuvos Respublikos akcinių bendrovių įstatymo (Žin., 1990, Nr. 24-594) 12 straipsnio antrosios dalies 6 punktą išdėstyti taip:
-
-
-
-
-„6) sudaryti sutartis, prisiimti įsipareigojimus, skolinti (tik nuosavo kapitalo lėšas) ir skolintis piniginių lėšų už palūkanas, nustatomas sutartimi;“.
-
-
-
-
+3. Neteko galios nuo 1994-07-20
+Straipsnio dalies naikinimas:
+Nr. I-528, 1994-07-05, Žin. 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA000I-528
+ 
 
 
 
@@ -160,3 +158,13 @@ Pakeisti ir papildyti kai kuriuos Lietuvos Respublikos įstatymus, reglamentuoja
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-528, 1994-07-05, Žin., 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA000I-528
+Lietuvos Respublikos akcinių bendrovių įstatymas
