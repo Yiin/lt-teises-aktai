@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DBCAF0AFD52A"
 
 # Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statuso
 
+Suvestinė redakcija nuo 1990-08-04 iki 1991-11-14
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 20-0; Žin. 1990, Nr.12-366, i. k. 0901010ISTA000I-137
+ 
+ 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
  
@@ -272,6 +277,30 @@ Atlyginimo mokėjimo tvarką ir dydį nustato Aukščiausioji Taryba.
 
 
 
+Deputatui ir jo šeimos nariams įgaliojimų laikotarpiui nemokamai suteikiama gyvenamoji patalpa Vilniuje, paliekant teisę naudotis gyvenamąja patalpa nuolatinėje gyvenamojoje vietoje
+Papildyta straipsnio dalimi:
+Nr. I-438, 1990-07-30, Lietuvos aidas, 1990, Nr. 52-0 (1990-08-03); Žin., 1990, Nr. 23-568 (1990-08-20), i. k. 0901010ISTA000I-438
+ 
+
+
+
+
+Nuolat dirbantieji Aukščiausiosios Tarybos deputatai, kuriems reikia gerinti buto sąlygas, turi teisę likti įskaitoje arba eilėje pagal buvusią darbo arba gyvenamąją vietą, arba įrašomi į eilę Aukščiausiojoje Taryboje
+Papildyta straipsnio dalimi:
+Nr. I-438, 1990-07-30, Lietuvos aidas, 1990, Nr. 52-0 (1990-08-03); Žin., 1990, Nr. 23-568 (1990-08-20), i. k. 0901010ISTA000I-438
+ 
+
+
+
+
+Aukščiausiosios Tarybos deputatas Lietuvos Respublikos teritorijoje turi teisę nemokamai naudotis visų rūšių keleiviniu transportu (išskyrus taksi), taip pat be eilės gauti kambarį viešbutyje 
+Papildyta straipsnio dalimi:
+Nr. I-438, 1990-07-30, Lietuvos aidas, 1990, Nr. 52-0 (1990-08-03); Žin., 1990, Nr. 23-568 (1990-08-20), i. k. 0901010ISTA000I-438
+ 
+
+
+
+
 Deputatas turi teisę turėti padėjėjus-sekretorius, kuriems apmokama iš valstybės biudžeto, taip pat padėjėjus, dirbančius visuomeniniais pagrindais.
  
 
@@ -321,6 +350,13 @@ Deputato parlamentinės veiklos laikas įskaitomas į visų rūšių darbo staž
 
 
 Išrinkimas deputatu nenutraukia narystės kūrybinėse sąjungose ir laisvųjų profesijų susivienijimuose.
+
+
+
+
+Tarp Aukščiausiosios Tarybos sesijų nuolatinių komisijų darbe daromos vieno mėnesio pertraukos 
+Papildyta straipsnio dalimi:
+Nr. I-438, 1990-07-30, Lietuvos aidas, 1990, Nr. 52-0 (1990-08-03); Žin., 1990, Nr. 23-568 (1990-08-20), i. k. 0901010ISTA000I-438
  
 
 
@@ -427,3 +463,14 @@ PIRMININKAS                                  �
  
 Vilnius, 1990 m. balandžio 11 d. 
 Nr. I-137
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-438, 1990-07-30, Lietuvos aidas, 1990, Nr. 52-0 (1990-08-03); Žin., 1990, Nr. 23-568 (1990-08-20), i. k. 0901010ISTA000I-438
+Dėl Lietuvos Respublikos įstatymo "Dėl Aukščiausiosios Tarybos deputato statuso" papildymo
