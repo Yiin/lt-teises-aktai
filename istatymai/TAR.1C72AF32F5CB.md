@@ -16,1909 +16,2554 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1C72AF32F5CB"
 Redagavo: Ramun? L??ait? (1997
 
 Įstatymas
-paskelbtas: Žin.,1993, Nr. 55-1064
+skelbtas: Žin., 1993, Nr. 55-1064
 Neoficialus
 įstatymo tekstas
  
-LIETUVOS
-RESPUBLIKOS
-ŽMONIŲ SAUGOS
-DARBE
-Į S T A T Y M A
-S 
+Lietuvos Respublikos 
+Darbuotojų saugos ir sveikatos
+į s t a t y m a s
  
 1993 m. spalio 7
-d. Nr.I-266
+d. Nr. I-266
 Vilnius
  
+Nauja įstatymo redakcija (pakeistas
+įstatymo pavadinimas):
+Nr. VIII-2063, 2000 10 17, Žin., 2000, Nr.
+95-2968 (2000 11 08)
  
-            Lietuvos Respublikos Seimas,
-            - pripažindamas Tarptautinės
-darbo organizacijos konstitucijos bei 1944 m. rugpjūčio 10 d. Tarptautinės
-darbo organizacijos generalinės konferencijos deklaracijos socialinio
-teisingumo nuostatas,
-            - pripažindamas Visuotinėje
-žmogaus teisių deklaracijoje skelbiamą kiekvieno žmogaus teisę į teisingas ir
+ 
+Lietuvos
+Respublikos Seimas, 
+siekdamas
+įgyvendinti Lietuvos Respublikos Konstitucijos straipsnių nuostatas,
+garantuojančias kiekvieno žmogaus teisę turėti tinkamas, saugias ir sveikas
+darbo sąlygas, 
+pripažindamas
+Tarptautinės darbo organizacijos konstitucijos ir 1944 m. gegužės 10 d.
+Tarptautinės darbo organizacijos generalinės konferencijos deklaracijos
+socialinio teisingumo nuostatas,
+pripažindamas
+Visuotinėje žmogaus teisių deklaracijoje skelbiamą kiekvieno žmogaus teisę į
 tinkamas darbo sąlygas,
-            - atsižvelgdamas į tai, kad
-nelaimingi atsitikimai darbe, profesinės ligos, netinkamos darbo sąlygos daro
-fizinę, moralinę ir ekonominę žalą žmonėms ir valstybei,
-            - norėdamas maksimaliai
-sumažinti tikimybę įmonių darbuotojams susižaloti ar susirgti, prarasti
-darbingumą dėl darbo sąlygų,
-            nustato žmonių saugos darbe
-valstybės politiką, pagrįstą šiais principais:
-            darbuotojų gyvybės,
-sveikatos ir darbingumo išsaugojimo prioritetu palyginti su darbo arba gamybos
-rezultatais,
-            trišaliu valstybės,
-darbdavių ir darbuotojų organizacijų bendradarbiavimu,
-            saugos darbe mokslo
-plėtojimu,
-            saugių darbo priemonių bei
-individualiosios ir kolektyvinės saugos darbe priemonių gamybos skatinimu,
-            vienodų saugos darbe
-reikalavimų įmonėms nustatymu,
-            darbdavių ir darbuotojų
-atsakomybe už saugos darbe norminių aktų pažeidimus,
-            saugos darbe ir darbo
-medicinos tarnybų steigimu,
-            ekonominių svertų,
-skatinančių saugų darbą, nustatymu,
-            saugos darbe specialistų
-rengimo, nelaimingų atsitikimų, profesinių ligų priežasčių tyrimo vienodos
-tvarkos nustatymu,
-            valstybine saugos darbe
-kontrole
-            ir vadovaudamasis Lietuvos
-Respublikos Konstitucijos 48 ir 49 straipsniais, atsižvelgdamas į Lietuvos
-Respublikos ekonomines sąlygas, jų perspektyvą, Tarptautinės darbo organizacijos
-konvencijas ir rekomendacijas bei kitų šalių patirtį,
-            priima Žmonių saugos darbe
-įstatymą. Šis įstatymas reglamentuoja žmonių saugą darbe įmonėse, įstaigose,
-organizacijose (toliau - įmonė) neatsižvelgiant į jų nuosavybės formas ir
-pavaldumą.
+įvertindamas
+tai, kad nelaimingi atsitikimai darbe, profesinės ligos, netinkamos darbo
+sąlygos daro fizinę, moralinę ir ekonominę žalą žmonėms, įmonėms ir valstybei, 
+nustato
+darbuotojų saugos ir sveikatos valstybės politiką, pagrįstą šiais principais:
+darbuotojų
+gyvybės, sveikatos ir darbingumo išsaugojimo prioritetu, palyginus su
+darbo arba gamybos rezultatais,
+darbdavių ir darbuotojų
+pareiga vykdyti darbuotojų saugos ir sveikatos teisės aktų reikalavimus,
+trišaliu
+valstybės, darbdavių ir darbuotojų organizacijų bendradarbiavimu darbuotojų
+saugos ir sveikatos srityje,
+darbuotojų
+saugos ir sveikatos mokslo plėtojimu,
+ekonominių priemonių,
+skatinančių saugių ir nekenksmingų darbo sąlygų darbuotojams sudarymą, taikymu,
+
+darbuotojų
+saugos ir sveikatos specialistų rengimo, nelaimingų atsitikimų darbe,
+profesinių ligų priežasčių tyrimo vienodos tvarkos nustatymu, 
+vienoda
+valstybine darbuotojų saugos ir sveikatos kontrole,
+įvertindamas
+Europos Sąjungos direktyvų „Dėl priemonių darbuotojų saugai ir sveikatai
+gerinti“ (89/391 EEC), „Dėl tam tikrų darbo laiko organizavimo aspektų“ (93/104
+EC), „Dėl dirbančio jaunimo apsaugos“ (94/33 EC), „Dėl priemonių nėščių,
+neseniai pagimdžiusių, krūtimi maitinančių moterų saugai ir sveikatos apsaugai
+gerinti“ (92/85 EEC) nuostatas bei Tarptautinės darbo organizacijos
+konvencijas, 
+priima Lietuvos
+Respublikos darbuotojų saugos ir sveikatos įstatymą. 
+ 
+I DALIS
+BENDROSIOS
+NUOSTATOS
+ 
+I skyrius 
+ĮSTAtYMO PASKIRTIS, PAGRINDINĖS SĄVOKOS, ĮSTATYMO TAIKYMAS
+ 
+1 straipsnis.
+Darbuotojų saugos ir sveikatos įstatymo paskirtis 
+Šio įstatymo
+paskirtis yra nustatyti: 
+1) bendrąsias
+teisines nuostatas ir reikalavimus siekiant darbuotojus apsaugoti nuo
+profesinės rizikos ar tokią riziką sumažinti;
+2) profesinės
+rizikos įvertinimo ir sumažinimo principus, nelaimingų atsitikimų darbe bei
+profesinių ligų tyrimo tvarkos bendrąsias nuostatas;
+3) darbo ir
+poilsio organizavimo bendrąsias nuostatas, privalomus darbuotojų saugos ir
+sveikatos reikalavimus, taikomus dirbantiems jauniems asmenims, nėščioms,
+neseniai pagimdžiusioms, krūtimi maitinančioms moterims, neįgaliems asmenims;
+4) valstybės ar
+savivaldybių institucijų kompetenciją, darbdavių ir darbuotojų teises bei
+pareigas siekiant sudaryti saugias ir sveikas darbo sąlygas;
+5) atsakomybės
+už darbuotojų saugos ir sveikatos teisės aktų reikalavimų pažeidimus
+bendruosius principus.
+ 
+2 straipsnis.
+Pagrindinės šio įstatymo sąvokos
+1. Darbuotojų
+sauga ir sveikata – visos prevencinės priemonės, skirtos darbuotojų
+darbingumui, sveikatai ir gyvybei darbe išsaugoti, kurios naudojamos ar
+planuojamos visuose įmonės veiklos etapuose, kad darbuotojai būtų apsaugoti nuo
+profesinės rizikos arba ji būtų kiek įmanoma sumažinta.
+2. Įmonė
+– bet kokios rūšies ir ekonominės veiklos srities bei nuosavybės formos įmonė,
+įstaiga, organizacija, valstybės ir savivaldybės institucija ar įstaiga, kurių
+teisinį statusą, veiklą, steigimo, reorganizavimo ir likvidavimo tvarką
+reglamentuoja atitinkami Lietuvos Respublikos įstatymai, ir kiti subjektai.
+3.
+Darbdavys – bet kokios rūšies įmonės savininkas, jos vadovas, paskirtas,
+išrinktas ar kitokia tvarka įgijęs įgaliojimus pagal atitinkamų įmonių
+įstatymus (įstatus, nuostatus, steigimo dokumentus) įmonės vardu sudaryti,
+pakeisti ir nutraukti darbo sutartį, atlikti kitokius veiksmus vykdant darbo
+įstatymų nuostatas; taip pat ūkininkas, sudaręs darbo sutartį su bent vienu
+fiziniu asmeniu. Kai darbo sutartis sudaroma tarp fizinių asmenų, darbdavys yra
+fizinis asmuo.
+4. Padalinio
+vadovas – įmonės administracijos atstovas, kuriam darbdavys pavedė
+vadovauti įmonės struktūriniam padaliniui ir šiame padalinyje įgyvendinti
+darbuotojų saugos ir sveikatos reikalavimus. 
+5. Darbuotojas
+– darbdavio įdarbintas asmuo, dirbantis darbdavio paskirtoje darbo vietoje
+pagal neterminuotą ar terminuotą darbo sutartį, taip pat asmuo, įgijęs įstatymų
+nustatytą valstybės tarnautojo statusą ir dirbantis valstybės ar savivaldybės
+institucijoje ar įstaigoje.
+6. Darbuotojų
+atstovas – įmonės darbuotojų susirinkime (konferencijoje) patvirtintas
+įmonės profesinių sąjungų pasiūlytas atstovas ar išrinktas darbuotojų atstovas,
+kuriam suteikiama teisė ir pareigos atstovauti darbuotojų interesams saugos ir sveikatos
+srityje įmonėje, įmonės padalinyje ar pamainoje. 
+7. Darbovietė
+– darbo vietų įmonės statiniuose (patalpose) ir bet kurių kitų vietų įmonės
+teritorijoje, kur darbuotojai gali būti savo darbo metu, visuma. Įmonės
+teritorija – įmonei priklausantis nuosavybės teise arba įmonės įstatymų
+nustatyta tvarka valdomas ar naudojamas žemės, vidaus ar jūros priekrantės
+vandenų plotas su nustatytomis ribomis.
+8. Darbo
+vieta – vieta, kurioje asmuo dirba arba privalo dirbti darbo sutartyje
+sulygtą darbą arba atlieka viešojo administravimo funkcijas.
+9. Darbo
+sąlygos – darbo aplinka, darbo pobūdis, darbo ir poilsio laikas, turintys
+tiesioginę įtaką darbuotojo savijautai, darbingumui, saugai ir sveikatai.
+10. Darbo
+priemonės – darbo procese naudojamos mašinos, įrenginiai, aparatai,
+prietaisai, įrankiai, įtaisai ir kiti reikmenys. 
+11. Potencialiai
+pavojingas įrenginys – didesnio pavojingumo darbo priemonė, kurią naudojant
+darbe pavojus darbuotojų saugai ir sveikatai dėl joje sukauptos energijos,
+vykstančių procesų yra didesnis negu kitų darbo priemonių ir kuriai nustatoma
+privalomoji priežiūra. 
+12. Kenksmingas
+veiksnys – rizikos veiksnys darbo aplinkoje, kuris veikdamas darbuotojo
+sveikatą gali sukelti ligą ar profesinę ligą ir kurio ilgalaikis poveikis gali
+būti pavojingas gyvybei.
+13. Pavojingas veiksnys – rizikos veiksnys darbo aplinkoje,
+dėl kurio darbuotojas gali patirti ūmių sveikatos sutrikimų ar mirti.
+14. Nelaimingas
+atsitikimas darbe – įvykis darbe, įskaitant eismo įvykį darbo laiku,
+nustatyta tvarka ištirtas ir pripažintas nelaimingu atsitikimu darbe, kurio
+padarinys – darbuotojo trauma (lengva, sunki, mirtina). Įvykis darbe, kai
+darbuotojas mirė dėl ligos, nesusijusios su darbu, nepriskiriamas prie
+nelaimingo atsitikimo darbe. 
+15. Nelaimingas
+atsitikimas pakeliui į darbą ar iš darbo – įvykis, įvykęs darbuotojo darbo
+dienomis kelyje tarp darbovietės ir:
+1) gyvenamosios
+vietos;
+2) ne
+darbovietėje esančios vietos, kurioje darbuotojas gauna užmokestį už darbą; 
+3) vietos ne
+įmonės teritorijoje, kur darbuotojas gali būti pertraukos pailsėti ir pavalgyti
+metu.
+16. Profesinė
+liga – ūmus ar lėtinis darbuotojo sveikatos sutrikimas, kurį sukėlė vienas
+ar daugiau kenksmingų ir (ar) pavojingų darbo aplinkos veiksnių, nustatyta
+tvarka pripažintas profesine liga.
+17. Profesinė
+rizika (rizika) – traumos ar kitokio darbuotojo sveikatos pakenkimo
+tikimybė dėl kenksmingo ir (ar) pavojingo darbo aplinkos veiksnio (veiksnių)
+poveikio.
+18. Incidentas
+– nesaugus įvykis, susijęs su darbu, kai nesužeidžiamas nė vienas darbuotojas
+arba kai dėl darbuotojo traumos, gautos incidento metu, reikalinga tik pirmoji
+medicinos pagalba.
+19. Pavojus
+– netikėtas pavojus darbuotojų sveikatai ar gyvybei dėl statinių ar jų
+konstrukcijų galimų griūčių, gaisrų, potvynių, taip pat dėl kitų reiškinių ar
+įvykių, kurių numatyti iš anksto nebuvo įmanoma. 
+20. Avarija
+– nenumatytas staigus įvykis įmonėje ar jos teritorijoje, sukėlęs staigų arba
+uždelstą pavojų žmonėms ir aplinkai.
+21. Darbuotojų
+saugos ir sveikatos teisės aktas – teisės aktas, kuriame nustatomos,
+keičiamos arba naikinamos teisės normos (įstatymai, Seimo ar Vyriausybės
+nutarimai, socialinės apsaugos ir darbo ministro arba su kitu ministru (kitais
+ministrais), sveikatos apsaugos ministro, Lietuvos Respublikos vyriausiojo
+valstybinio darbo inspektoriaus (toliau - vyriausiasis valstybinis darbo
+inspektorius) patvirtinti darbuotojų saugos ir sveikatos teisės aktai).
+22. Neįgalūs
+asmenys – asmenys, kurių darbo (darbinės veiklos) galimybės dėl įgimtų ar
+įgytų sveikatos trūkumų, palyginti su kitais asmenimis, yra mažesnės.
+23. Darbo
+laikas – laikas, kai darbuotojas privalo atlikti savo darbines funkcijas.
+24. Poilsio
+laikas – kiekvienas laiko tarpas, kuris nėra darbo laikas
+(švenčių dienos, kasmetinės atostogos, savaitės poilsio laikas, paros poilsio laikas,
+pertraukos pailsėti ir pavalgyti laikas).
+25. Darbo
+laikas naktį (nakties darbo laikas) – laikas nuo 10 valandos vakaro iki 6
+valandos ryto. Darbas naktį – darbas nakties darbo laiku.
+26. Naktinės
+pamainos darbuotojas – darbuotojas, kuris nakties darbo laiku dirba
+mažiausiai 3 savo kasdienio darbo laiko valandas.
+27. Darbas
+pamainomis – pastovaus ar nepastovaus pobūdžio darbas, kai darbuotojas
+paskiriamas į tą pačią darbo vietą, kad atliktų savo kasdieninį darbą skirtingu
+paros ar savaitės laiku pagal pamainų keitimo tvarką, nurodytą kalendoriniame
+grafike. Pamaininis darbuotojas – darbuotojas, dirbantis pamainomis. 
+28. Nėščia
+moteris – nėščia moteris, pateikusi darbdaviui sveikatos
+priežiūros įstaigos pažymą, patvirtinančią nėštumą.
+29. Neseniai
+pagimdžiusi moteris – motina, pateikusi darbdaviui sveikatos priežiūros
+įstaigos pažymą apie gimdymą ir auginanti savo vaiką, kol jam sukaks vieneri
+metai. 
+30. Krūtimi
+maitinanti moteris – motina, pateikusi darbdaviui sveikatos priežiūros
+įstaigos pažymą, kad augina ir maitina savo vaiką iki vienerių metų.
+31. Jaunas
+asmuo – jaunesnis negu 18 metų asmuo.
+32. Vaikas
+– jaunas asmuo iki 16 metų, kuris privalo lankyti mokyklą.
+33. Paauglys
+– jaunas asmuo, kuriam yra ne mažiau kaip 16 ir ne daugiau kaip 18 metų ir
+kuris nebeprivalo lankyti mokyklos.
+34. Lengvas
+darbas vaikui – darbas, kuris yra saugus, nekelia pavojaus vaiko sveikatai,
+vystymuisi ir netrukdo lankyti mokyklos, taip pat darbai, numatyti mokomosiose
+programose, kurie yra saugūs ir nekelia pavojaus vaiko sveikatai bei
+vystymuisi.
+ 
+3 straipsnis.
+Darbuotojų saugos ir sveikatos garantijos 
+1. Kiekvienam
+darbuotojui privalo būti sudarytos saugios ir sveikos darbo sąlygos, nesvarbu,
+kokia įmonės veiklos rūšis, kokia sudaryta darbo sutartis (terminuota ar neterminuota),
+darbuotojų skaičius, įmonės rentabilumas, darbo vieta, darbo aplinka, darbo
+pobūdis, darbo dienos arba darbo pamainos trukmė, kokia darbuotojo pilietybė,
+rasė, tautybė, lytis, seksualinė orientacija, amžius, socialinė kilmė,
+politiniai ar religiniai įsitikinimai. Šio įstatymo nustatytos darbuotojų
+saugos ir sveikatos garantijos taikomos taip pat ir valstybės bei savivaldybių
+institucijų ar įstaigų tarnautojams.
+2. Darbuotojo
+teisė saugiai dirbti užtikrinama šiuo įstatymu ir kitais darbuotojų saugos ir
+sveikatos teisės aktais, nustatant darbdaviui pareigą užtikrinti darbuotojo
+saugą ir sveikatą visais su jo darbu susijusiais aspektais, sudarant
+darbuotojui sąlygas teikti pasiūlymus dėl saugos ir sveikatos gerinimo
+darbdaviui, padalinio vadovui, darbuotojų atstovui, įmonės darbuotojų saugos ir
+sveikatos komitetui, taip pat suteikiant teisę kreiptis į Valstybinę darbo
+inspekciją prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinė
+darbo inspekcija) ar kitas valstybės institucijas, kai įmonėje neužtikrinama
+darbuotojų sauga ir sveikata.
+ 
+4 straipsnis.
+Įstatymo taikymas
+Šis įstatymas
+taikomas kiekvienai įmonei, esančiai Lietuvos Respublikos teritorijoje,
+atsižvelgiant į 5 straipsnyje numatytus šio įstatymo taikymo ypatumus. 
+ 
+5 straipsnis.
+Įstatymo taikymo ypatumai
+1. Krašto
+apsaugos kariniams pareigūnams ir kariams, Vidaus reikalų ministerijos,
+muitinės, valstybės saugumo ir kitų institucijų pareigūnams, kurių tarnybinius
+santykius nustato atitinkami statutai, šio įstatymo bei kitų darbuotojų saugos
+ir sveikatos teisės aktų nuostatos netaikomos, kai šie asmenys vykdo veiklą,
+kuriai būdingi specifiniai veiklos požymiai, neatitinkantys šio įstatymo
+nuostatų. Šių institucijų pareigūnų ir karių tarnybą reglamentuojančiuose
+teisės aktuose privalo būti numatyti saugos ir sveikatos reikalavimai, siekiant
+užtikrinti jų saugą ir sveikatą.
+2. Tais atvejais, kai šio straipsnio 1 dalyje nurodyti
+pareigūnai ir kariai vykdo veiklą, nepriskiriamą šio straipsnio 1 dalyje
+nurodytai veiklai, taikomos šio įstatymo, kitų darbuotojų saugos ir sveikatos
+teisės aktų nuostatos. 
+3. Darbuotojų,
+dirbančių su radioaktyviosiomis medžiagomis ir kitais jonizuojančiosios
+spinduliuotės šaltiniais, saugą ir sveikatą reglamentuoja Radiacinės saugos
+įstatymas, šis įstatymas ir kiti darbuotojų saugos ir sveikatos teisės aktai.
+4.
+Valstybės ir savivaldybių biudžeto lėšomis finansuojamoms institucijoms ir
+įstaigoms šio įstatymo 15 straipsnis netaikomas.
+ 
+II SKYRIUS 
+DARBUOTOJŲ SAUGOS IR SVEIKATOS VALDYMAS
+ 
+pirmasis skirsnis 
+DARBUOTOJŲ saugos ir sveikatos viešasis administravimas. Socialinių
+partnerių bendradarbiavimas įgyvendinant DARBUOTOJŲ saugos ir sveikatos
+politiką
+ 
+6 straipsnis.
+Darbuotojų saugos ir sveikatos viešasis administravimas
+1. Socialinės
+apsaugos ir darbo ministerija ir Sveikatos apsaugos ministerija pagal savo
+kompetenciją įgyvendina valstybės politiką darbuotojų saugos ir sveikatos
+srityje, vadovaudamosi Lietuvos Respublikos Konstitucija, įstatymais,
+Vyriausybės nutarimais ir kitais teisės aktais. 
+2. Socialinės apsaugos
+ir darbo ministras kartu su kitu ar kitais ministrais tvirtina atitinkamus
+darbuotojų saugos ir sveikatos teisės aktus, nustatydamas jų įsigaliojimo ir
+taikymo tvarką, atstovauja Lietuvos Respublikos interesams darbuotojų saugos ir
+sveikatos srityje kitose šalyse ir tarptautinėse organizacijose. 
+ 
+7 straipsnis.
+Lietuvos Respublikos darbuotojų saugos ir sveikatos komisija
+Valstybės,
+darbuotojų ir darbdavių interesams saugos ir sveikatos srityje derinti trišaliu
+socialinių partnerių (šalių) bendradarbiavimo principu steigiama Lietuvos
+Respublikos darbuotojų saugos ir sveikatos komisija (toliau – Darbuotojų saugos
+ir sveikatos komisija). Šios komisijos sudarymo tvarką ir jos funkcijas nustato
+Darbuotojų saugos ir sveikatos komisijos nuostatai, juos tvirtina Vyriausybė. 
+ 
+8
+straipsnis. Teritorinės ir atskirų ekonominės veiklos sričių darbuotojų saugos
+ir 
+sveikatos
+komisijos 
+1. Darbuotojų
+saugos ir sveikatos valstybės politikos įgyvendinimo, darbuotojų saugos ir
+sveikatos reikalavimų pažeidimų įmonėse prevencijos klausimams nagrinėti
+apskrityse trišaliu socialinių partnerių bendradarbiavimo principu steigiamos
+apskričių teritorinės darbuotojų saugos ir sveikatos komisijos. Jų steigimo,
+sudarymo tvarką ir kompetenciją nustato socialinės apsaugos ir darbo ir
+sveikatos apsaugos ministrai. 
+2. Atitinkamos ekonominės veiklos srities įmonių darbdavių
+respublikinių susivienijimų ir (ar) atitinkamų profesinių sąjungų respublikinių
+susivienijimų
+iniciatyva dvišalio socialinių partnerių bendradarbiavimo
+principu gali būti steigiamos atskirų ekonominės veiklos sričių darbuotojų
+saugos ir sveikatos komisijos. 
+ 
+9
+straipsnis. Apskrities viršininko ir savivaldybių institucijų įgaliojimai bei
+teisės 
+darbuotojų
+saugos ir sveikatos srityje
+1. Apskrities viršininkas, vadovaudamasis socialinės
+apsaugos ir darbo ministro patvirtintais teritorinių darbuotojų saugos ir
+sveikatos komisijų bendraisiais nuostatais, skiria atstovus į teritorinę
+darbuotojų saugos ir sveikatos komisiją.
+2. Savivaldybės
+taryba įmonių sutikimu turi teisę sudaryti ir tvirtinti bendras darbuotojų
+saugos ir sveikatos gerinimo programas ar priemones ir skirti lėšų joms
+įgyvendinti.
+ 
+10
+straipsnis. Darbuotojų mokymas saugos ir sveikatos srityje. Įmonių darbuotojų 
+saugos
+ir sveikatos specialistai
+1. Darbuotojų
+saugos ir sveikatos specialistus įmonių darbuotojų saugos ir sveikatos
+tarnyboms pagal specialias mokymo programas rengia Lietuvos Respublikos
+aukštosios ir aukštesniosios mokyklos.
+2. Darbuotojų
+saugos ir sveikatos specialistais įmonėse gali dirbti asmenys, turintys
+aukštąjį ar aukštesnįjį išsilavinimą ir įgiję darbuotojų saugos ir sveikatos
+žinių darbui atitinkamoje ekonominės veiklos srityje.
+3. Darbuotojų
+saugos ir sveikatos specialistų kvalifikacijos kėlimo tvarką nustato Socialinės
+apsaugos ir darbo ministerija kartu su Sveikatos apsaugos ministerija.
+4. Bendrojo
+lavinimo mokyklos privalo supažindinti moksleivius su bendraisiais saugos ir
+sveikatos darbe ir buityje reikalavimais.
+5. Aukštųjų,
+aukštesniųjų mokyklų studentai, profesinių (amatų) mokyklų moksleiviai privalo
+būti mokomi darbuotojų saugos ir sveikatos reikalavimų pagal įgyjamas
+specialybes ir profesijas.
+6. Įmonių
+darbuotojai mokomi ir instruktuojami darbuotojų saugos ir sveikatos klausimais
+šio įstatymo 30 straipsnyje nustatyta tvarka.
+ 
+11
+straipsnis. Darbuotojų saugos ir sveikatos mokslinio tyrimo darbų finansavimas
+1. Darbuotojų
+saugos ir sveikatos moksliniai tyrimai finansuojami iš valstybės biudžete
+mokslui ir studijoms numatomų asignavimų. 
+2. Darbuotojų saugos ir sveikatos mokslinių tyrimų
+programas tvirtina, jų įgyvendinimą koordinuoja ir siūlymus numatyti valstybės
+biudžeto projekte moksliniams tyrimams reikalingų lėšų teikia Socialinės
+apsaugos ir darbo ministerija, suderinusi su Sveikatos apsaugos ministerija.
+ 
+12 straipsnis.
+Profesinių sąjungų teisės
+1. Profesinės
+sąjungos atstovauja savo interesams darbuotojų saugos ir sveikatos srityje,
+vadovaudamosi Profesinių sąjungų įstatymu, Kolektyvinių susitarimų ir sutarčių
+įstatymu, šiuo įstatymu ir kitais darbuotojų saugos ir sveikatos teisės aktais.
+2. Profesinių
+sąjungų ir (ar) darbdavių iniciatyva kolektyvinėse sutartyse gali būti numatyti
+papildomi ir palankesni darbuotojų saugos ir sveikatos užtikrinimo reikalavimai
+negu galiojančiuose darbuotojų saugos ir sveikatos teisės aktuose. Tokių
+reikalavimų vykdymą kontroliuoja darbdavys ir įmonės profesinė sąjunga.
  
  
-I SKYRIUS.
-BENDRIEJI NUOSTATAI
+antrasis skirsnis
+ pagrindinė darbdavio pareiga. DARBUOTOJŲ saugos ir sveikatos
+tarnybos įmonėse. darbuotojų dalyvavimas įgyvendinant saugos ir sveikatos
+priemones 
  
-            1 straipsnis. Pagrindinės
-sąvokos
+13 straipsnis.
+Darbdavio pareiga užtikrinti darbuotojų saugą ir sveikatą 
+Darbdavio
+pareiga yra užtikrinti darbuotojų saugą ir sveikatą visais su darbu susijusiais
+aspektais. Įgyvendindamas šią pareigą, darbdavys imasi priemonių, būtinų
+darbuotojų saugai užtikrinti ir sveikatai apsaugoti. Darbuotojų saugos ir
+sveikatos priemonės įmonėse finansuojamos darbdavio lėšomis.
  
-            Šiame įstatyme:
-            1) sauga darbe (darbų sauga)
-- organizacinių, techninių, ekonominių, teisinių, higienos, gydymo,
-profilaktikos priemonių, skirtų žmonių sveikatai ir gyvybei, darbingumui išsaugoti
-darbe, visuma;
-            2) darbdavys - visų rūšių
-įmonių savininkai arba jų vadovai, paskirti, išrinkti ar kitokia tvarka įgiję
-įgaliojimus pagal atitinkamų įmonių, tarp jų ūkinių bendrijų ir personalinių
-įmonių, įstatymus (įstatus, nuostatus, steigimo dokumentus) įmonės vardu
-sudaryti, pakeisti ir nutraukti darbo sutartis, privalantys užtikrinti, kad
-būtų vykdomos prievolės pagal šį įstatymą, kitus darbo įstatymus, kolektyvines
-sutartis, saugos darbe norminius aktus.
-            Kai darbo sutartis sudaroma
-tarp fizinių asmenų, darbdavys yra fizinis asmuo;
-            3) darbdavio įgaliotas asmuo
-saugos darbe klausimais (toliau - darbdavio įgaliotas asmuo) - įmonės padalinio
-vadovas ar kitas kompetentingas saugos darbe klausimais darbuotojas, kuriam
-darbdavys perdavė dalį savo teisių ir pareigų saugos darbe klausimais;
-            4) darbuotojas - asmuo
-(darbininkas, tarnautojas), dirbantis darbdavio ar jo įgalioto asmens
-paskirtoje darbo vietoje pagal darbo sutartį, taip pat valstybinės ir
-vykdomosios valdžios tarnyboje ir kuriam netaikoma sąvoka
-"darbdavys";
-            5) darbo vieta - vieta, kur
-darbuotojas dirba arba privalo dirbti darbo sutartimi sulygtą darbą;
-            6) darbo aplinka -
-darbuotoją tiesiogiai supanti erdvės dalis, kurioje jį gali veikti kenksmingi
-ir pavojingi (fiziniai, cheminiai, psichofiziniai, biologiniai) veiksniai;
-            7) darbo sąlygos - darbo
-aplinkos veiksnių, tarp jų darbo pobūdžio, darbo ir poilsio režimo, darbo
-santykių visuma, turinti tiesioginę įtaką darbuotojo savijautai, sveikatai ir
-darbingumui;
-            8) darbo priemonės - darbo
-procese darbo objektui keisti naudojami reikmenys: medžiagos, įranga, įrankiai,
-prietaisai, įrenginiai (mašinos) bei įrenginių (mašinų) kompleksai, tarp jų
-potencialiai pavojingi įrenginiai;
-            9) kenksmingas veiksnys -
-darbo aplinkos veiksnys, dėl kurio darbuotojas gali netekti darbingumo, gali
-susirgti (ir profesine liga), o jo ilgalaikis poveikis gali būti pavojingas
-gyvybei;
-            10) pavojingas veiksnys -
-darbo aplinkos, darbo proceso veiksnys, dėl kurio, susidarius tam tikroms
-atsitiktinėms aplinkybėms, darbuotojas gali būti traumuotas, gali žūti arba
-gali ūmai pablogėti jo sveikata;
-            11) potencialiai pavojingas
-įrenginys - įrenginys, kuris kelia pavojų žmonių gyvybei, sveikatai ir aplinkai
-dėl jame sukauptos energijos arba jame vykstančių procesų;
-            12) profesinė liga -
-darbuotojo sveikatos sutrikimas dėl darbo aplinkos kenksmingo veiksnio
-(veiksnių) poveikio;
-            13) nelaimingas atsitikimas
-- ūmus darbuotojo sveikatos pakenkimas dėl trumpalaikio darbo aplinkos
-pavojingo, kenksmingo veiksnio poveikio, kai darbuotojas netenka darbingumo
-nors vienai dienai;
-            14) saugos darbe norminiai
-aktai - įstatymai, Lietuvos Respublikos Seimo ir Vyriausybės nutarimai,
-nustatyta tvarka patvirtinti valstybiniai arba įmonių standartai, nuostatai,
-normos ir taisyklės, tarp jų higienos, instrukcijos, reglamentuojantys vieno ar
-kelių rodiklių, sąlygų, veiksmų, veikimo būdų (metodų), techninių ir kitų
-priemonių privalomą įdiegimą ir naudojimą, taip pat kolektyvinių sutarčių
-nuostatos saugos darbe klausimais;
-            15) riboto darbingumo
-asmenys - asmenys, kurių darbo galimybės dėl sveikatos yra ribotos (invalidai,
-nėščios moterys, darbuotojai, kurie pagal medicinos išvadą perkeliami į kitą
-darbą, senatvės pensininkai).
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
-Nr.
-I-1326,
-96.05.07, Žin., 1996, Nr. 50-1195 (96.05.29)
- 
- 
-            2 straipsnis. Saugos darbe
-įstatymo objektas
- 
-            Saugos darbe įstatymo
-objektas - valstybinio valdymo institucijų, darbdavių ir darbuotojų tarpusavio
-santykiai bei pagrindinių saugos darbe reikalavimų nustatymas arba tokių
-reikalavimų nustatymo tvarka, kad būtų išsaugota darbuotojų gyvybė, sveikata ir
-darbingumas.
- 
-            3 straipsnis. Darbuotojų
-teisė saugiai dirbti
- 
-            Darbuotojai turi teisę
-saugiai dirbti, nesvarbu, kokia įmonių veiklos rūšis, rentabilumas, darbo
-vieta, darbo aplinka, darbo pobūdis, pilietybė, rasė, tautybė, lytis, amžius,
-socialinė kilmė, politiniai ar religiniai įsitikinimai.
- 
-            4 straipsnis. Įstatymo
-taikymas
- 
-            Šis įstatymas taikomas:
-            1) įmonėms, esančioms
-Lietuvos Respublikos teritorijoje, taip pat įmonėms, esančioms užsienyje, bet
-priklausančioms Lietuvos Respublikos jurisdikcijai;
-            2) užsienio kapitalo
-įmonėms, esančioms Lietuvos Respublikos teritorijoje, įmonėms, kuriose
-įstatinio kapitalo dalis priklauso užsienio investitoriui (bendroms įmonėms),
-esančioms Lietuvos Respublikos teritorijoje, jeigu kitaip nenustatyta
-tarptautinėse sutartyse, įmonių steigimo dokumentuose;
-            3) kitų valstybių piliečiams
-ir asmenims be pilietybės, dirbantiems Lietuvos Respublikos jurisdikcijai
-priklausančiose įmonėse.
- 
-            5 straipsnis. Įstatymo
-taikymo apribojimai
- 
-            Lietuvos Respublikos
-piliečių, dirbančių užsienyje įmonėse, nepriklausančiose Lietuvos Respublikos
-jurisdikcijai, saugą darbe reglamentuoja valstybės, kurioje jie dirba,
-įstatymai.
-            Lietuvos Respublikos
-Vyriausybė turi teisę apriboti šio įstatymo taikymą:
-            1) esant ekstremalioms darbo
-sąlygoms, kai žmonių saugią veiklą nustato kiti norminiai aktai;
-            2) paskelbus nepaprastąją
-(karinę) padėtį, taip pat esant kitoms ypatingoms aplinkybėms, gresiančioms
-valstybės saugumui.
-            Civilinės aviacijos, jūrų,
-upių, geležinkelio, automobilių transporto, žuvų pramonės laivyno darbuotojų
-saugų darbą reglamentuoja šis įstatymas bei šio įstatymo pagrindu parengti
-atitinkami norminiai aktai.
-            Žmonių, nesusietų darbo
-sutartimi, saugų darbą reglamentuoja šio įstatymo pagrindu parengti norminiai
-aktai.
- 
- 
-II SKYRIUS.
-SAUGOS DARBE REGULIAVIMAS
- 
-            6 straipsnis. Saugos darbe
-valstybinis valdymas
- 
-            Saugos darbe politiką
-formuoja Lietuvos Respublikos Vyriausybė. Saugos darbe valstybinio valdymo
-funkciją vykdo socialinės apsaugos ministras, vadovaudamasis Lietuvos Respublikos
-įstatymais ir šiuo įstatymu, Lietuvos Respublikos Vyriausybės nutarimais ir
-kitais saugos darbe norminiais aktais. Socialinės apsaugos ministras atstovauja
-Lietuvos Respublikos interesams saugos darbe klausimais kitose šalyse ir
-tarptautinėse organizacijose.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
- 
- 
-            7 straipsnis. Lietuvos
-Respublikos saugos darbe komisija
- 
-            Valstybės, darbuotojų,
-darbdavių tarpusavio interesams ir santykiams reguliuoti, formuojant ir
-įgyvendinant saugos darbe politiką, trišaliu principu steigiama Lietuvos
-Respublikos saugos darbe komisija (toliau įstatyme - Saugos darbe komisija).
-Saugos darbe komisijos sudarymo tvarką ir funkcijas nustato šios komisijos
-nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė.
- 
-            8 straipsnis. Saugos darbe
-fondas
- 
-            Saugos darbe profilaktikos
-priemonėms įgyvendinti, visuomenei informuoti bei Saugos darbe komisijos darbui
-finansuoti steigiamas saugos darbe fondas.
-            Saugos darbe fondo lėšas
-sudaro:
-            1) Saugos darbe komisijos
-šalių įmokos,
-            2) draudimo prevencinio
-fondo dalis,
-            3) valstybinio socialinio
-draudimo ir draudimo nuo nelaimingų atsitikimų darbe fondų dalis,
-            4) savanoriškos fizinių ar
-juridinių asmenų įmokos.
-            Saugos darbe fondo nuostatus
-tvirtina Lietuvos Respublikos Vyriausybė.
- 
-            9 straipsnis. Savivaldybių
-įgaliojimai saugos darbe klausimais
- 
-            Miestų, rajonų tarybos turi
-teisę :
-            1) reikalauti, kad įmonės
-(darbdaviai) praneštų apie įmonės gamybinės veiklos pradžią arba veiklos rūšies
-pasikeitimą;
-            2) įmonėms sutikus, sudaryti
-bendras saugos darbe programas ir parengti priemones, koordinuoti jų vykdymą,
-kooperuoti tam tikslui įmonių skiriamas lėšas.
- 
-            10 straipsnis. Saugos darbe
-specialistų rengimas, mokymas
- 
-            Saugos darbe specialistus
-rengia Lietuvos Respublikos aukštosios mokyklos.
-            Saugos darbe specialistų
-kvalifikacijos kėlimo tvarką nustato Lietuvos Respublikos Vyriausybė.
-            Bendrojo lavinimo mokyklos
-privalo apmokyti moksleivius bendrų saugos darbe ir buityje reikalavimų.
-            Aukštųjų, aukštesniųjų,
-profesinių (amatų) mokyklų studentai privalo būti apmokyti saugos darbe
-reikalavimų pagal įgyjamas specialybes, profesijas.
-            Įmonių darbuotojai mokomi ir
-instruktuojami saugos darbe klausimais pagal šio įstatymo 30 straipsnio
-reikalavimus.
- 
-            11 straipsnis. Saugos darbe
-priemonių ir mokslo finansavimas
- 
-            Saugos darbe priemones
-įmonėse finansuoja darbdaviai.
-            Saugos darbe mokslinius
-tyrimus koordinuoja Lietuvos Respublikos Vyriausybė.
-            Saugos darbe moksliniai
-tyrimai finansuojami darbdavių ir valstybės biudžeto lėšomis Lietuvos
-Respublikos Vyriausybės nustatyta tvarka.
-            Įmonėms, gaminančioms saugos
-darbe priemones, Lietuvos Respublikos Vyriausybės nustatyta tvarka yra taikomos
-mokesčių lengvatos.
- 
-            12 straipsnis. Profesinių
-sąjungų teisės
- 
-            Profesinės sąjungos gina
-savo narių sveikatos ir gyvybės išsaugojimo darbe interesus vadovaudamosi
-Lietuvos Respublikos profesinių sąjungų įstatymu.
- 
-            13 straipsnis. Saugos darbe
-struktūros įmonėse
- 
-            Už saugą darbe įmonėje
-atsako darbdavys.
-            Saugioms ir sveikoms darbo
-sąlygoms sudaryti darbdavys privalo steigti saugos darbe ir darbo medicinos
-tarnybas šio įstatymo 14 straipsnyje nustatyta tvarka bei sudaryti sąlygas
-veikti įmonės saugos darbe komitetui.
- 
-            14 straipsnis. Saugos darbe
-ir darbo medicinos tarnybos įmonėse
- 
-            Darbdavys saugos darbe,
-darbo higienos profilaktikai, priežiūrai, kontrolei, konsultavimui steigia
-įmonės saugos darbe ir darbo medicinos tarnybas arba šioms funkcijoms vykdyti
-samdo kitą organizaciją (asmenis).
-            Saugos darbe ir darbo
-medicinos tarnybų specialistai privalo turėti atitinkamą teorinį ir praktinį
-parengimą.
-            Įmonėse, kuriose dirba
-mažiau kaip 50 žmonių, saugos darbe tarnybos funkcijas gali vykdyti darbdavio
-paskirtas asmuo (asmenys), turintis parengimą tokiam darbui, kaip yra nurodyta
-šio straipsnio antrojoje dalyje.
-            Įmonės saugos darbe tarnyba,
-darbdavio samdomos saugos darbe tarnybų funkcijoms vykdyti organizacijos ar
-asmenys arba darbdavio paskirtas asmuo (asmenys) vykdyti saugos darbe tarnybos
-funkcijas įmonėje yra tiesiogiai atsakingi darbdaviui.
-            Jeigu šio straipsnio
-pirmojoje, antrojoje ir trečiojoje dalyse nustatyta tvarka ir sąlygomis įmonėje
-neįsteigta saugos darbe tarnyba, šios tarnybos funkcijas vykdo pats darbdavys.
-            Darbdaviai, įsteigę įmonėje
-saugos darbe tarnybą, apie tai nustatyta tvarka praneša Valstybinei darbo
+14 straipsnis.
+Darbuotojų saugos ir sveikatos tarnybos įmonėse 
+1. Siekdamas
+užtikrinti darbuotojams saugias ir sveikas darbo sąlygas, darbdavys steigia
+įmonėje darbuotojų saugos ir sveikatos tarnybą, susidedančią iš vieno arba
+daugiau darbuotojų saugos ir sveikatos specialistų. Jeigu įmonėje nėra tokių
+specialistų, darbdavys samdo darbuotojų saugos ir sveikatos tarnybą arba vieną
+ar daugiau šios srities specialistų (ne įmonės darbuotojų) šios tarnybos
+funkcijoms atlikti. Visais atvejais paskirtų ar pasamdytų specialistų skaičius,
+atsižvelgiant į įmonės dydį ir darbuotojų profesinę riziką, turi būti
+pakankamas, kad jie galėtų organizuoti įmonėje darbuotojų saugos ir sveikatos
+prevencines priemones. Darbdavys savarankiškai sprendžia, ar steigti bendrą
+darbuotojų saugos ir sveikatos tarnybą, ar steigti atskirą įmonės darbuotojų
+saugos tarnybą ir atskirą įmonės darbo medicinos tarnybą.
+2. Darbuotojų
+saugos ir sveikatos tarnybų įmonėse steigimo tvarką, tokių tarnybų funkcijas,
+teises, pareigas, bendruosius kvalifikacinius reikalavimus šių tarnybų
+specialistams nustato Įmonių darbuotojų saugos ir sveikatos tarnybų nuostatai.
+Juos tvirtina Socialinės apsaugos ir darbo ministerija ir Sveikatos apsaugos
+ministerija. Šiuose nuostatuose nustatomos ekonominės veiklos sritys, kurių
+įmonėse, atsižvelgiant į profesinę riziką ir (ar) darbuotojų skaičių,
+darbuotojų saugos ir sveikatos tarnybos privalo būti steigiamos, ir ekonominės
+veiklos sritys, kurių įmonėse tokios tarnybos gali būti nesteigiamos, o jų
+funkcijas atlieka pats darbdavys, kurio žinios iš darbuotojų saugos ir
+sveikatos srities privalo būti patikrintos vadovaujantis Socialinės apsaugos ir
+darbo ministerijos ir Sveikatos apsaugos ministerijos patvirtintais
+Instruktavimo, mokymo, atestavimo darbuotojų saugos ir sveikatos klausimais
+nuostatais. 
+3. Biudžetinėse
+įstaigose darbuotojų saugos ir sveikatos tarnybos gali būti nesteigiamos. Jų
+funkcijas atlieka institucijos vadovo paskirtas asmuo, kurio žinios iš
+darbuotojų saugos ir sveikatos srities privalo būti patikrintos vadovaujantis
+Instruktavimo, mokymo, atestavimo darbuotojų saugos ir sveikatos klausimais
+nuostatais.
+4. Į darbuotojų
+saugos ir sveikatos tarnybą darbdavio paskirtas darbuotojas ar darbuotojai,
+taip pat samdomos tarnybos specialistai bei kiti asmenys (ne įmonės
+darbuotojai), pasamdyti vykdyti darbuotojų saugos ir sveikatos tarnybos
+funkcijas įmonėje, privalo būti apmokyti pagal šio įstatymo 10 straipsnio 1
+dalyje numatytas programas ir atestuoti, turi turėti reikalingų sugebėjimų ir
+įgūdžių savo pareigoms atlikti. Paskirtų ar samdytų specialistų pareiga yra
+rūpintis įmonės darbuotojų sauga ir sveikata. Šie asmenys už savo darbą
+tiesiogiai atsiskaito darbdaviui.
+5. Darbuotojams,
+paskirtiems į darbuotojų saugos ir sveikatos tarnybą, suteikiama pakankamai
+laiko jų funkcijoms atlikti. Šie darbuotojai neturi patirti jokių nuostolių,
+administracinės ar kitos atsakomybės dėl savo veiklos organizuojant ir įgyvendinant
+prevencines priemones, susijusias su darbuotojų sauga ir sveikata, jeigu jie
+veikė vadovaudamiesi šiuo įstatymu ir kitais darbuotojų saugos ir sveikatos
+teisės aktais. Darbuotojų saugos ir sveikatos samdomų tarnybų ar asmenų (ne
+įmonės darbuotojų) bei darbdavio tarpusavio įsipareigojimai nustatomi
+sutartyje. 
+6. Darbdavys,
+įsteigęs darbuotojų saugos ir sveikatos tarnybą, informuoja paskirtus arba
+samdytus specialistus apie rizikos veiksnius, turinčius ar galinčius turėti
+įtakos darbuotojų saugai ir sveikatai, ir apie prevencines priemones, medicinos
+pagalbos, gaisrų gesinimo, darbuotojų evakavimo organizavimą.
+7. Įmonės
+darbuotojų saugos ir sveikatos tarnybos specialistų arba darbdavio samdytų
+tarnybų ar darbuotojų atstovų pareigos darbuotojų saugos ir sveikatos srityje
+neturi įtakos bendram darbdavio atsakomybės principui, nustatytam šio įstatymo
+13 straipsnyje.
+8. Darbdavys,
+įsteigęs įmonės darbuotojų saugos ir sveikatos tarnybą ar neįsteigęs tokios
+tarnybos ir pats pagal Įmonių darbuotojų saugos ir sveikatos tarnybų nuostatus
+atliekantis šios tarnybos funkcijas, apie tai praneša Valstybinei darbo
 inspekcijai.
-            Įmonių saugos darbe tarnybų
-pavyzdinius nuostatus tvirtina Lietuvos Respublikos Vyriausybė. Įmonės saugos
-darbe tarnybos nuostatus tvirtina darbdavys.
-            Atsižvelgiant į įmonėje
-dirbančių darbuotojų skaičių, taip pat į darbo aplinkos veiksnių kenksmingumą,
-pavojingumą, įmonėse steigiama darbo medicinos tarnyba (medicinos punktas) arba
-darbuotojų sveikatos priežiūrai samdomos atitinkamos įstaigos ar asmenys.
-Įmonių darbo medicinos tarnybų funkcijas ir steigimo tvarką nustato Lietuvos
-Respublikos Vyriausybė.
  
-            15 straipsnis. Saugos darbe
-komitetai
+15
+straipsnis. Darbuotojų dalyvavimas įgyvendinant darbuotojų saugos ir sveikatos 
+priemones.
+Įmonių darbuotojų saugos ir sveikatos komitetai, 
+darbuotojų
+atstovai 
+1. Darbdavys
+sudaro sąlygas darbuotojams ir jų atstovams, nurodytiems šiame straipsnyje,
+dalyvauti diskusijose svarstant darbuotojų saugos ir sveikatos klausimus.
+2. Įmonės
+darbuotojų saugos ir sveikatos komiteto (toliau šiame straipsnyje – komitetas)
+steigimo tvarka ir jo funkcijos:
+1) komitetas
+steigiamas įmonėje, kurioje dirba daugiau kaip 50 darbuotojų. Komitetas
+sudaromas dvišaliu principu – iš vienodo skaičiaus darbdavio skirtų bei įmonės
+profesinės sąjungos pasiūlytų ir įmonės darbuotojų susirinkime (konferencijoje)
+komiteto nariais patvirtintų atstovų. Jeigu įmonėje yra daugiau negu viena
+profesinė sąjunga, profesinės sąjungos deleguoja į komitetą savo atstovus arba
+paveda vienai profesinei sąjungai deleguoti į komitetą atstovus. Šie atstovai
+darbuotojų susirinkime (konferencijoje) patvirtinami komiteto nariais. Jeigu ne
+visi įmonės darbuotojai yra profesinių sąjungų nariai, profesinėms sąjungoms ir
+darbuotojams komitete atstovauja profesinių sąjungų ir darbuotojų atstovai, dėl
+jų skaičiaus komitete sprendimą priima darbuotojų susirinkimas (konferencija).
+Jeigu įmonėje profesinės sąjungos nėra, darbuotojams komitete atstovauja į
+komitetą darbuotojų kolektyvo susirinkime (konferencijoje) išrinkti darbuotojų
+atstovai;
+2) kai kurių
+ekonominės veiklos sričių, pasižyminčių didesne profesine rizika, įmonėse
+komitetas gali būti steigiamas, kai darbuotojų yra mažiau negu 50. Tokių
+ekonominės veiklos sričių sąrašas nustatomas tvirtinant Įmonių darbuotojų
+saugos ir sveikatos komitetų bendruosius nuostatus; 
+3) jeigu įmonėje
+dirba mažiau kaip 50 darbuotojų, komitetas gali būti steigiamas darbdavio ar
+profesinės sąjungos iniciatyva arba daugiau kaip pusės įmonės darbuotojų
+reikalavimu; 
+4) komiteto
+veiklą organizuoja ir jam vadovauja komiteto pirmininkas – darbdavys arba
+vienas iš jo paskirtų atstovų komitete. Pirmininkas organizuoja komiteto darbą.
+Komiteto sekretoriumi renkamas profesinės sąjungos atstovas. Jeigu įmonėje
+profesinės sąjungos nėra, komiteto sekretoriumi renkamas vienas iš darbuotojų
+atstovų, išrinktų į įmonės komitetą;
+5) atleidžiant
+iš darbo komiteto narį, kuris yra darbuotojų atstovas, jeigu tam nepritaria
+dauguma komiteto narių, tarp jų dauguma darbuotojų atstovų, darbdavys privalo
+informuoti Valstybinę darbo inspekciją apie tokio darbuotojo atleidimo
+priežastis iki jo atleidimo iš darbo dienos;
+6) darbdavys
+komiteto narius aprūpina jų pareigoms atlikti reikalingomis priemonėmis ir
+informacija; komiteto nariai taip pat apmokomi specialiuose mokymo
+kursuose, seminaruose įmonėje ar kituose renginiuose darbuotojų saugos ir
+sveikatos klausimais. Komiteto narių mokymo klausimus sprendžia komitetas; 
+7) už laiką,
+kurį komiteto narys vykdo jam pavestus įpareigojimus, susijusius su darbuotojų
+sauga ir sveikata, jam mokamas vidutinis darbo užmokestis;
+8) komitetų
+bendruosius nuostatus tvirtina Darbuotojų saugos ir sveikatos komisija.
+3. Įmonės
+darbuotojų susirinkime (konferencijoje) šio straipsnio 2 dalies 1 punkte
+nustatyta tvarka renkami darbuotojų atstovai, turintys įgaliojimus atstovauti
+darbuotojams ir rūpintis jų sauga ir sveikata. Konkretus darbuotojų, kuriems
+atstovauja darbuotojų atstovas, skaičius ir darbuotojų atstovų įgaliojimų
+laikas nustatomi darbuotojų susirinkime (konferencijoje). Jeigu įmonėje yra
+daugiau kaip vienas darbuotojų atstovas, vienas iš jų renkamas vyresniuoju
+darbuotojų atstovu ir koordinuoja visų darbuotojų atstovų veiklą. Valstybės ar
+savivaldybių institucijose darbuotojų atstovai nerenkami.
+4. Darbuotojų
+atstovai atlieka šias funkcijas: 
+1) dalyvauja
+darbdavio įgyvendinamose priemonėse darbuotojų saugai ir sveikatai įmonėje ar
+darbo vietose gerinti, tarp jų įmonės darbuotojų saugos ir sveikatos tarnybos
+įgyvendinamose priemonėse planuojant ir organizuojant darbuotojų mokymą; 
+2) dalyvauja
+darbdaviui steigiant įmonės darbuotojų saugos ir sveikatos tarnybą, parenkant
+ir paskiriant darbuotojus, atsakingus už pirmosios medicinos pagalbos
+suteikimą, taip pat parenkant ir paskiriant darbuotojus, atsakingus už
+gelbėjimo darbų organizavimą, darbuotojų evakavimą avarijų, stichinių
+nelaimių ar gaisrų atvejais (prieš paskirdamas tokius darbuotojus, darbdavys su
+darbuotojų atstovais konsultuojasi; juos paskyręs, darbdavys praneša darbuotojų
+atstovams apie jų darbo vietas, įpareigojimus); 
+3) dalyvauja
+išduodant darbuotojams reikiamas ir tinkamas asmenines apsaugos priemones ir
+prižiūrint, kad darbuotojai jomis naudotųsi, atstovauja darbuotojų interesams
+tiriant nelaimingus atsitikimus, profesines ligas ir incidentus;
+4) darbdavio
+arba padalinio vadovo nurodymu operatyviai informuoja darbuotojus apie kilusius
+ar gresiančius jiems pavojus ir nurodo priemones, kurių reikia
+neatidėliotinai imtis, kad būtų išvengta pavojaus, padeda darbuotojams pavojaus
+atveju pereiti į saugias vietas. 
+5. Darbuotojų
+atstovas turi teisę: 
+1) siūlyti ir
+reikalauti, kad įmonės padalinio vadovas, darbdavys imtųsi reikiamų priemonių
+darbuotojų saugai ir sveikatai užtikrinti;
+2) dalyvauti
+vertinant rizikos veiksnius ir numatant prevencines priemones;
+3) informuoti
+darbdavį, jeigu įmonės padalinio vadovas nesiima reikiamų priemonių darbuotojų
+saugai ir sveikatai užtikrinti. Jeigu darbdavys nesiima priemonių rizikos
+veiksniams šalinti ar jiems mažinti, – pranešti Valstybinei darbo inspekcijai;
+4) gauti
+informaciją visais su darbuotojų sauga ir sveikata susijusiais klausimais iš
+padalinio vadovo, darbdavio, darbuotojų saugos ir sveikatos tarnybos bei
+komiteto. 
+6. Darbdavys
+sudaro sąlygas darbuotojų atstovui atlikti jam pavestas funkcijas, suteikia
+darbui reikalingą informaciją. 
+7. Darbuotojų
+atstovai, atlikdami šio straipsnio 4 dalyje nurodytas funkcijas, neturi patirti
+finansinių nuostolių, administracinės ar kitos atsakomybės įgyvendindami
+darbuotojų saugos ir sveikatos profilaktines priemones, taip pat neturi patirti
+darbdavio, padalinio vadovo ar darbuotojų priešiškumo, jeigu savo veikloje
+vadovaujasi šiuo įstatymu, kitais darbuotojų saugos ir sveikatos teisės aktais.
+
+8. Darbuotojų
+atstovai mokomi įmonėje, mokymo įstaigose ar mokymui skirtuose seminaruose
+darbdavio lėšomis. Mokymosi laikotarpiu jiems mokamas vidutinis darbo
+užmokestis. Klausimai, susiję su darbuotojų atstovų mokymu, sprendžiami įmonėje
+– darbuotojų atstovų mokymo klausimus svarstant komitete, darbuotojų kolektyvo
+susirinkime (konferencijoje), sudarant kolektyvines sutartis.
+9. Darbuotojų
+atstovai privalo saugoti gamybines ir komercines paslaptis, kurias sužino
+atlikdami savo funkcijas.
+10. Darbuotojų
+atstovo įgaliojimai gali būti nutraukti jį skyrusio organo sprendimu.
  
-            Įmonėse, kuriose dirba
-daugiau kaip 50 darbuotojų, steigiami saugos darbe komitetai. Juos sudaro vienodas
-skaičius darbdavio ir įmonės profesinės sąjungos deleguotų atstovų, o jeigu
-įmonėse profesinės sąjungos nėra, darbuotojams atstovauja Lietuvos Respublikos
-kolektyvinių susitarimų ir sutarčių įstatymo nustatyta tvarka darbuotojų
-kolektyvo susirinkime (konferencijoje) išrinkti darbuotojų įgaliotiniai.
-            Darbdavio iniciatyva,
-darbdavio ir profesinės sąjungos susitarimu arba ne mažiau kaip pusės įmonės
-darbuotojų reikalavimu saugos darbe komitetai gali būti steigiami, jeigu
-įmonėje dirba mažiau kaip 50 darbuotojų.
-            Saugos darbe komitetai
-išklauso ir vertina darbdavio, įmonės padalinių vadovų, saugos darbe tarnybos
-veiklą saugos darbe klausimais, planuoja saugos darbe gerinimo priemones ir
-joms įgyvendinti reikalingas lėšas, kontroliuoja jų naudojimą ir priemonių
-įgyvendinimą, analizuoja nelaimingų atsitikimų ir profesinių ligų priežastis
-bei aplinkybes. Savo sprendimus komitetas priima komiteto šalių susitarimu.
-Priimtus sprendimus darbdavys privalo įgyvendinti.
-            Komiteto darbui vadovauja
-pirmininkas - darbdavys arba darbdavio įgaliotas asmuo. Komiteto sekretoriumi
-komitetas renka profesinės sąjungos atstovą (jeigu įmonėje profesinės sąjungos
-nėra - darbuotojų įgaliotinį). Komitetas posėdžiauja įmonės saugos darbe
-komiteto nuostatuose nustatytu laiku, taip pat įvykus nelaimingam atsitikimui
-darbe ar darbuotojui susirgus profesine liga.
-            Įmonės saugos darbe komiteto
-nariai (darbuotojų profesinės sąjungos atstovai arba darbuotojų įgaliotiniai)
-darbdavio iniciatyva gali būti atleidžiami iš darbo tik suderinus jų atleidimą
-su Valstybine darbo inspekcija.
-            Įmonės saugos darbe komiteto
-nariai darbui komitete apmokomi specialiuose mokymo kursuose, seminaruose ir
-kituose renginiuose saugos darbe klausimais darbdavio lėšomis.
-            Už laiką, kurio metu įmonės
-saugos darbe komiteto narys vykdo komiteto pavestus įpareigojimus, mokamas jo
-vidutinis darbo užmokestis.
-            Įmonių saugos darbe komitetų
-pavyzdinius nuostatus tvirtina Saugos darbe komisija. Įmonės saugos darbe
-komiteto nuostatus tvirtina darbdavys ir įmonės profesinė sąjunga (jeigu
-profesinės sąjungos nėra - įmonės saugos darbe komitetas). 
-Straipsnio
-pakeitimai:
-Nr.
-I-1326,
-96.05.07, Žin., 1996, Nr. 50-1195 (96.05.29)
+III skyrius 
+Reikalavimai Darbo aplinkai, Darbo vietoms, 
+Darbų organizavimui. DARBDAVIO VEIKSMAI PAVOJAUS ATVEJAIS
  
+16 straipsnis.
+Bendrieji reikalavimai darbo aplinkai ir darbo vietoms
+1. Darbo aplinka
+ir darbo vietos turi atitikti šio įstatymo ir kitų darbuotojų saugos ir
+sveikatos teisės aktų reikalavimus.
+2. Naujos ir
+rekonstruotos įmonės, jų padaliniai priimami eksploatuoti Vyriausybės nustatyta
+tvarka. 
  
-III SKYRIUS.
-DARBO APLINKOS, DARBO VIETŲ, DARBŲ, GAMYBINĖS
-BUITIES
-REIKALAVIMAI
+17
+straipsnis. Darbuotojų saugos ir sveikatos teisės aktai, reglamentuojantys 
+darboviečių
+ir darbo vietų įrengimą
+1. Kaip įrengti
+darbo vietas ir kokia turi būti darbo aplinka, nustato darbuotojų saugos ir
+sveikatos teisės aktai.
+2. Darbuotojų
+saugos ir sveikatos teisės aktų nustatyti darbo aplinkos veiksniai darbo
+vietose neturi viršyti veiksnių dydžių, galinčių sukelti darbuotojams sveikatos
+sutrikimų, profesinių ligų darbo įmonėje metu ir nutraukus darbą įmonėje.
+3. Darbo vietos,
+taip pat patalpos, skirtos darbuotojų higienos ar buitinėms reikmėms tenkinti,
+nurodytos šio įstatymo 26 straipsnio 1 dalyje, privalo atitikti minimalius
+darbuotojų saugos ir sveikatos reikalavimus, nustatytus Socialinės apsaugos ir
+darbo ministerijos patvirtintuose Darboviečių įrengimo bendruose nuostatuose
+bei kituose darbuotojų saugos ir sveikatos teisės aktuose. 
  
+18
+straipsnis. Saugos ir sveikatos reikalavimai darbo priemonėms ir jų naudojimui
+1. Leidžiama
+naudoti tik techniškai tvarkingas darbo priemones, atitinkančias darbuotojų
+saugos ir sveikatos teisės aktų reikalavimus.
+2. Minimalius
+darbuotojų saugos ir sveikatos reikalavimus darbo priemonėms nustato atitinkami
+darbuotojų saugos ir sveikatos teisės aktai. Juos tvirtina Socialinės apsaugos
+ir darbo ministerija ir Sveikatos apsaugos ministerija.
+3. Privalomus
+saugos ir sveikatos reikalavimus atskirų darbo priemonių ar jų grupių gamybai
+bei jų atitikties įvertinimo procedūroms nustato techniniai reglamentai ar kiti
+darbuotojų saugos ir sveikatos teisės aktai.
+4. Konkrečios
+darbo priemonės saugaus naudojimo reikalavimai, kurių privaloma laikytis,
+nustatomi darbo priemonės dokumentuose. Juos kartu su darbo priemone privalo
+pateikti gamintojas.
+5. Potencialiai
+pavojingų įrenginių priežiūros tvarką nustato Potencialiai pavojingų įrenginių
+priežiūros įstatymas. Šių įrenginių, kuriems privaloma speciali Vyriausybės
+įgaliotų ar nustatyta tvarka akredituotų įmonių priežiūra, kategorijų sąrašą
+tvirtina Vyriausybė. 
+6. Potencialiai
+pavojingų įrenginių nuolatinę privalomą priežiūrą vykdo jų savininkai. Šių
+įrenginių privalomą nuolatinę priežiūrą pagal įrenginio savininko ir juridinio
+asmens tarpusavio sutartis gali vykdyti juridiniai asmenys, turintys teisės
+aktų nustatyta tvarka leidimą tokiai veiklai.
+7. Valstybinė
+darbo inspekcija, nustačiusi, kad darbo priemonė naudojama pažeidžiant
+darbuotojų saugos ir sveikatos teisės aktų ar darbo priemonės techniniuose
+dokumentuose nurodytus saugaus naudojimo reikalavimus, turi teisę įstatymų
+nustatyta tvarka sustabdyti jos naudojimą.
  
-            16 straipsnis. Bendri darbo
-aplinkos ir darbo vietų reikalavimai
- 
-            Darbo aplinka ir darbo
-vietos turi atitikti šio įstatymo ir kitų saugos darbe norminių aktų
-reikalavimus.
-            Naujos ir rekonstruotos
-įmonės, jų padaliniai priimami eksploatuoti Lietuvos Respublikos Vyriausybės
-nustatyta tvarka.
- 
-            17 straipsnis. Saugos darbe
-norminiai aktai, reglamentuojantys darbo vietų įrengimą
- 
-            Darbo vietų įrengimo ir jų
-aplinkos reikalavimus nustato valstybiniai, įmonių standartai, valstybinės
-normos, taisyklės.
-            Darbo vietoms (1 straipsnio
-5 punktas) taip pat yra tolygios vietos, esančios patalpose, skirtose įmonės
-darbuotojų socialinėms - buitinėms reikmėms tenkinti.
-            Pagal standartus ir normas
-nustatyti darbo aplinkos veiksniai neturi viršyti dydžių, galinčių sukelti
-sveikatos sutrikimus, profesines ligas ir dirbančiam, ir jau nebedirbančiam
-asmeniui.
-            Saugos darbe standartai,
-normos, taisyklės, instrukcijos rengiami ir tvirtinami Lietuvos Respublikos
-Vyriausybės nustatyta tvarka.
- 
-            18 straipsnis. Darbo
-priemonės ir jų priežiūra
- 
-            Leidžiama naudoti tik
-techniškai tvarkingas, atitinkančias saugos reikalavimus darbo priemones.
-            Potencialiai pavojingų
-techninių įrenginių, keliančių pavojų darbuotojams, gyventojams, aplinkai,
-sąrašą tvirtina Lietuvos Respublikos Vyriausybė, o jų saugų naudojimą,
-priežiūrą ir kontrolę nustato norminiai aktai bei tokių įrenginių techniniai
-dokumentai.
- 
-            19 straipsnis. Įmonės vidaus
-eismo reikalavimai
- 
-            Už saugų eismą įmonėje
-atsako darbdavys.
-            Įmonių teritorijoje
-transporto eismas organizuojamas pagal transporto rūšies eismo taisykles,
-išimtys gali būti taikomos specialiam (technologiniam) transportui.
-            Specialaus (technologinio)
-transporto eismo taisykles pagal saugos darbe norminių aktų reikalavimus rengia
+19 straipsnis.
+Įmonės vidaus eismo reikalavimai
+1. Įmonės
+teritorijoje transporto priemonių eismas organizuojamas pagal atitinkamos
+transporto rūšies eismo taisykles. 
+2. Už visų rūšių
+transporto priemonių saugaus eismo organizavimą įmonės teritorijoje atsako
 darbdavys.
  
-            20 straipsnis. Kenksmingų ir
-pavojingų medžiagų naudojimo reikalavimai
- 
-            Darbdaviai, kurie gamina,
-naudoja, transportuoja, laiko žmonių sveikatai kenksmingas, pavojingas (lengvai
-užsidegančias, sprogias) medžiagas, įgyvendina priemones darbuotojų sveikatos,
-aplinkos, tarp jų darbo aplinkos, saugai užtikrinti.
-            Darbuotojai privalo būti
-apmokyti ir instruktuoti darbui su kenksmingomis ar pavojingomis medžiagomis,
-aprūpinti individualiosios ir kolektyvinės saugos priemonėmis.
-            Kenksmingų ir pavojingų
-medžiagų gamybą, naudojimą, transportavimą, laikymą nustato Lietuvos
-Respublikos norminiai aktai.
- 
-            21 straipsnis. Gaminamos
-produkcijos reikalavimai
- 
-            Įmonių gaminama ir
-realizuojama produkcija, vėliau priskirtina darbo priemonėms, turi atitikti
-norminiuose aktuose nustatytus saugos darbe reikalavimus. Sertifikatuose arba
-techniniuose dokumentuose nurodoma, kad produkcija atitinka saugos darbe
-reikalavimus.
-            Paaiškėjus, kad darbo
-priemonė kenkia žmonių sveikatai ar yra pavojinga gyvybei, Valstybinė darbo
-inspekcija uždraudžia jos gamybą.
- 
-            22 straipsnis. Darbų
-organizavimo reikalavimai
- 
-            Darbdaviai privalo taip
-organizuoti darbus ir sudaryti tokias sąlygas, tarp jų ir darbo apmokėjimo,
-kurios skatintų darbuotojus laikytis saugos darbe reikalavimų.
-            Darbo (gamybos)
-organizavimo, techninio aprūpinimo dokumentacijoje privalo būti nustatytos
-saugų darbą užtikrinančios sąlygos pagal saugos darbe norminių aktų
-reikalavimus.
- 
-            23 straipsnis. Saugaus darbų
-organizavimo ir vykdymo norminiai aktai
- 
-            Darbas turi būti
-organizuojamas pagal saugos darbe norminių aktų reikalavimus.
-            Darbdaviai pagal saugaus
-darbo organizavimo ir vykdymo norminius aktus bei darbo priemonių techninius
-dokumentus rengia darbuotojams saugaus darbo instrukcijas, su kuriomis
-darbuotojai supažindinami pasirašytinai. Darbuotojų profesijų, kurioms
-nerengiamos saugaus darbo instrukcijos, sąrašą sudaro darbdavys, suderinęs su
-Valstybine darbo inspekcija.
-            Kai saugos darbe norminiuose
-aktuose dar nenustatyti saugos darbe reikalavimai arba valstybiniuose
-standartuose, taisyklėse nėra konkrečių reikalavimų, kurių būtina laikytis,
-darbdaviai pagal šį įstatymą ir darbo priemonių techninius dokumentus rengia ir
-tvirtina saugaus darbo organizavimo ir vykdymo instrukcijas.
-            Saugaus darbo organizavimo
-ir vykdymo taisyklių, instrukcijų reikalavimai tolygūs darbuotojų pareiginiams
-nuostatams.
- 
-            24 straipsnis. Privalomas
-sveikatos tikrinimas
- 
-            Darbuotojai, dirbantys
-pavojingomis, kenksmingomis, labai kenksmingomis sąlygomis (67 straipsnis)
-privalo iš anksto (stodami į darbą), periodiškai, o dėl kai kurių darbų - ir
-nutraukę darbo sutartį, tikrintis sveikatą.
-            Asmenys iki 18 metų privalo
-sveikatą tikrintis stodami į darbą ir kiekvienais metais iki sukaks 18 metų.
-Kai kurių profesijų jauni darbuotojai, jeigu jų darbas susijęs su rizika
-sveikatai, privalo tikrintis sveikatą prieš stodami į darbą ir periodiškai iki
-sukaks 21 metai.
-            Maisto pramonės, viešojo
-maitinimo ir prekybos įmonių, vandentiekio įrenginių, gydymo bei profilaktikos
-ir vaikų įstaigų, taip pat kai kurių įmonių darbuotojų medicinos apžiūros turi
-būti atliekamos gyventojų sveikatos apsaugos tikslais.
-            Išlaidas už periodišką
-medicinos apžiūrą ir vidutinį darbo užmokestį darbuotojams už sugaištą
-medicinos apžiūroms laiką apmoka darbdavys. Apmokėjimo už periodiškas medicinos
-apžiūras ir vidutinio darbo užmokesčio darbuotojams už sugaištą medicinos
-apžiūroms laiką mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
-            Darbuotojas, atsisakęs
-nustatytu laiku pasitikrinti sveikatą, nušalinamas nuo darbo ir jam nemokamas
-darbo užmokestis. Toks atsisakymas laikomas darbo drausmės pažeidimu ir gali
-būti pagrindas darbdaviui atleisti darbuotoją iš darbo pagal įstatymus.
-Darbuotojo medicinos apžiūros išvada vienodai privaloma darbdaviui ir darbuotojui.
-            Profesijų, darbų ir gamybų,
-kuriose dirbantys darbuotojai, tarp jų asmenys iki 18 metų (kai kurių profesijų
-- iki 21 metų), stodami į darbą ir vėliau privalo periodiškai tikrintis
-sveikatą, sąrašą bei pasitikrinimų tvarką nustato Lietuvos Respublikos
-Vyriausybė.
- 
-            25 straipsnis. Darbų
-sustabdymas
- 
-            Valstybinis darbo
-inspektorius, įmonės saugos darbe komitetas savo sprendimu turi teisę
-reikalauti, kad darbdavys (jo įgaliotas asmuo) sustabdytų darbus, kai:
-            1) darbuotojai neapmokyti
-saugiai dirbti;
-            2) sugedus darbo priemonei
-ar dėl avarinės būklės gali susidaryti arba susidarė sąlygos nelaimingiems
-atsitikimams, ūmioms profesinėms ligoms;
-            3) dėl technologinių ar
-darbo procesų pažeidimų darbo aplinka tampa pavojinga sveikatai ar gyvybei;
-            4) darbuotojai neaprūpinti
-reikiamomis kolektyvinės ar individualiosios saugos darbe priemonėmis.
-            Darbdaviui (jo įgaliotam
-asmeniui) atsisakius įvykdyti reikalavimą sustabdyti darbą arba jeigu darbdavio
-(jo įgalioto asmens) nėra, valstybinis darbo inspektorius nutraukia darbus,
-reikalui esant, išveda darbuotojus iš pavojingos zonos.
-            Valstybinė darbo inspekcija
-gali sustabdyti darbus šio įstatymo 21 straipsnio antrojoje dalyje nurodytais
-atvejais.
-            Už laiką, kai darbai
-sustabdyti šio straipsnio pirmojoje dalyje numatytais atvejais, darbuotojams
-darbdavys moka vidutinį darbo užmokestį.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
- 
- 
-            26 straipsnis. Gamybinės
-buities reikalavimai
- 
-            Įmonėse norminių aktų
-nustatyta tvarka įrengiamos poilsio, persirengimo, drabužių, avalynės laikymo
-patalpos (vietos), sanitarinės bei asmeninės higienos patalpos (prausyklos,
-tualetai, moterims - asmeninės higienos patalpos).
-            Įmonėse, kuriose dirbama
-kenksmingomis, pavojingomis sąlygomis, gamybinės buities patalpos įrengiamos
-laikantis specialių reikalavimų.
-            Specialius įvairių rūšių
-gamybinės buities patalpų įrengimo ir teikiamų paslaugų, jų kiekybės ir kokybės
-rodiklių reikalavimus nustato saugos darbe norminiai aktai.
-            Sveikatos punktai, maitinimo
-patalpos įmonėje įrengiamos atsižvelgiant į darbuotojų skaičių pagal atitinkamų
-patalpų įrengimo standartų reikalavimus.
- 
-            27 straipsnis. Gyvenamųjų
-patalpų reikalavimai
- 
-            Darbdavio suteikiamos
-patalpos darbuotojams laikinai gyventi dėl darbo kilnojamo pobūdžio privalo
-tenkinti minimalius tokių patalpų buities ir higienos reikalavimus.
- 
- 
-IV SKYRIUS.
-DARBDAVIŲ, DARBUOTOJŲ PAREIGOS IR TEISĖS
- 
-I SKIRSNIS.
-DARBDAVIŲ PAREIGOS IR TEISĖS
- 
-            28 straipsnis. Darbdavių
-pareigos
- 
-            Darbdaviai privalo laikytis
-šio įstatymo ir vykdyti kitų saugos darbe norminių aktų reikalavimus:
-            1) pranešti Valstybinei
-darbo inspekcijai apie įmonės, jos padalinių eksploatacijos pradžią;
-            2) instruktuoti ir mokyti darbuotojus
-saugiai dirbti, tikrinti jų žinias;
-            3) sudarant darbo sutartį ir
-periodiškai vėliau, pakitus gamybos (darbo) procesui, informuoti darbuotojus
-apie pavojingus, kenksmingus ir kitus rizikos veiksnius darbo vietose ir jų
-poveikį sveikatai;
-            4) kontroliuoti, kaip
-darbuotojai laikosi saugos darbe reikalavimų, laikinai nušalinti darbuotoją nuo
-darbo už tą dieną (pamainą) nemokant jam darbo užmokesčio, jeigu jis darbo metu
-darbe neblaivus, apsvaigęs nuo sąmoningai panaudotų narkotinių ar toksinių medžiagų;
-            5) aprūpinti įmonę, darbo
-vietas ir darbuotojus saugiais įrenginiais, diegti saugius darbo bei
-technologinius procesus, aprūpinti darbuotojus saugos darbe priemonėmis,
-tinkamai įrengti gamybinės buities patalpas;
-            6) organizuoti medicinos
-paslaugas ir darbuotojų sveikatos patikrinimus pagal šio įstatymo 14, 24, 26
-straipsnius;
-            7) nustatyta tvarka pranešti
-apie nelaimingus atsitikimus, profesines ligas (74 straipsnis), sudaryti
-sąlygas jų priežastims ištirti ir atlyginti už pakenkimą sveikatai (78, 79 straipsniai);
-            8) sudaryti sąlygas saugos
-darbe organizacinėms struktūroms (nurodytoms šio įstatymo 13, 14, 15
-straipsniuose) funkcionuoti;
-            9) organizuoti darbuotojų
-darbą pagal fiziologiškai pagrįstą darbo ir poilsio režimą;
-            10) nustatyta tvarka organizuoti
-darbo aplinkos ir darbo vietų tyrimus, naudojamų kolektyvinių ir individualiųjų
-saugos priemonių bandymus;
-            11) atsižvelgiant į
-medicinos arba invalidumą nustatančios komisijos išvadą (33 straipsnis),
-perkelti darbuotojus į kitą darbą;
-            12) nustatyta tvarka
-apdrausti darbuotojus nuo nelaimingų atsitikimų darbe, profesinių ligų;
-            13) tvirtinti įmonės saugos
-darbe instrukcijas, pareigines instrukcijas, vykdyti kolektyvinės sutarties
-įsipareigojimus ir kitas saugos darbe prievoles;
-            14) sudaryti įmonės darbuotojų,
-dirbančių pagal darbo sutartis, vardinį sąrašą;
-            15) darbuotojo prašymu
-nemokamai išduoti pažymas apie darbą toje įmonėje (darbuotojo pareigos,
-kvalifikacija, kiek laiko įmonėje dirba, darbo užmokestis.
-Straipsnio
-pakeitimai:
-Nr.
-I-1326,
-96.05.07, Žin., 1996, Nr. 50-1195 (96.05.29)
- 
-            29 straipsnis. Darbdavių, jų
-įgaliotų asmenų atestacija
- 
-            Prieš pradedant eksploatuoti
-įmonę (teikti paslaugas), o vėliau ne rečiau kaip kas penkeri metai darbdavys,
-jo įgaliotas asmuo pateikia Valstybinei darbo inspekcijai socialinės apsaugos
-ir darbo ministro nustatyta tvarka pranešimą apie darbdavio, jo įgalioto asmens
-atestavimą saugos darbe klausimais įmonėje.
-            Darbdavių, kurie atleidžiami
-nuo atestacijos, sąrašą tvirtina Lietuvos Respublikos Vyriausybė. Atleidimas
-nuo atestacijos neatleidžia darbdavio nuo atsakomybės už saugų darbą įmonėje.
-            Šio straipsnio pirmojoje
-dalyje nurodytas darbdavio įgaliotas asmuo (įmonės atskiro struktūrinio
-padalinio, esančio kitoje negu įmonė vietoje (teritorijoje), vadovas) saugos
-darbe klausimais atestuojamas ir pateikia pranešimą Valstybinei darbo
-inspekcijai apie jo atestavimą saugos darbe klausimais kaip ir darbdavys.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
-Nr.
-I-1326,
-96.05.07, Žin., 1996, Nr. 50-1195 (96.05.29)
- 
- 
-            30 straipsnis. Darbuotojų
-instruktavimas ir atestavimas saugos darbe klausimais
- 
-            Darbdaviai negali skirti
-darbuotojų darbui, kol jie neinstruktuoti apie saugius darbo būdus.
-            Darbdaviai privalo
-instruktuoti darbuotojus saugos darbe klausimais sudarydami darbo sutartį,
-perkeldami į kitą darbą, keisdami darbo (gamybos) procesus, gamybos
-technologiją, darbo sąlygas, taip pat jei pasikeičia saugos darbe standartai,
-normos, taisyklės, instrukcijos.
-            Prižiūrėti ir dirbti su
-potencialiai pavojingais techniniais įrenginiais, taip pat dirbti pavojingus
-darbus leidžiama tik darbuotojams, įgijusiems specialių žinių ir išlaikiusiems
-saugos darbe egzaminą. Įmonės įgyja teisę atestuoti darbuotojus, dirbančius su
-potencialiai pavojingais techniniais įrenginiais, technologijomis, pavojingose
-gamybose bei vykdančius potencialiai pavojingus darbus, tik gavusios
-Valstybinės darbo inspekcijos leidimą.
-            Darbuotojų instruktavimo ir
-atestavimo saugos darbe klausimais tvarką įmonėse nustato socialinės apsaugos
-ministras.
- 
-            31 straipsnis. Darbuotojų
-aprūpinimas saugos darbe priemonėmis
- 
-            Darbdaviai nemokamai
-darbuotojams duoda darbo drabužius, darbo avalynę, kitas individualiosios ir
-kolektyvinės saugos darbe priemones norminiuose aktuose nustatytomis sąlygomis
-ir tvarka.
-            Darbdaviai privalo
-organizuoti darbo drabužių, darbo avalynės ir kitų individualiosios saugos
-priemonių laikymą, džiovinimą, skalbimą, valymą, taisymą.
-            Saugos darbe priemonės
-privalo būti periodiškai tikrinamos.
-            Darbo drabužiai, darbo
-avalynė ir kitos saugos darbe priemonės turi būti pritaikytos darbui, patogūs
-dėvėti ir neturi sudaryti papildomų pavojų darbuotojų saugai.
-            Jeigu darbai susiję su
-susiteršimu, darbuotojams nemokamai pagal nustatytas normas turi būti duodamos
-asmens higienos priemonės (muilas, rankšluosčiai). Darbuose, kur odą gali
-paveikti kenksmingosios medžiagos, nemokamai duodama pagal nustatytas normas
-plovimo, nukenksminimo priemonių, apsauginių pastų.
-            Minimalias darbo drabužių,
-darbo avalynės, individualiosios saugos, asmens higienos priemonių normas bei
-saugos darbe priemonių tikrinimo periodiškumą nustato Lietuvos Respublikos
-Vyriausybė.
- 
-            32 straipsnis. Medicinos
-paslaugų organizavimas
- 
-            Nelaimingų atsitikimų, ūmių
-susirgimų darbe atvejais darbdaviai privalo užtikrinti darbuotojams skubią
-medicinos pagalbą.
-            Darbuotojų, susirgusių darbo
-vietoje arba nukentėjusių nuo traumų, kai nebūtina kviesti greitosios medicinos
-pagalbos, nugabenimą į gydymo įstaigas organizuoja darbdavys (jo įgaliotas
-asmuo).
-            Medicinos paslaugų teikimo
-darbuotojams tvarką įmonėje nustato įmonių medicinos punktų nuostatai (14
-straipsnis).
- 
-            33 straipsnis. Darbdavio
-pareiga perkelti darbuotoją dėl sveikatos būklės į kitą darbą
- 
-            Darbuotojas, kuris pagal
-medicininės arba invalidumą nustatančios komisijos išvadą dėl sveikatos būklės
-negali dirbti sutarto darbo (eiti pareigų), nes tai pavojinga jo sveikatai arba
-jo darbas gali būti pavojingas kitiems, turi būti perkeltas, jam sutikus, į
-darbą, atitinkantį jo sveikatą ir esant galimybei - kvalifikaciją (specialybę),
-ar į kitą darbą.
-            Jeigu darbuotojas nesutinka
-būti perkeltas į siūlomą darbą arba nėra darbo, į kurį jis galėtų būti
-perkeltas, darbdavys, laikydamasis įstatymo, atleidžia darbuotoją iš darbo
-pagal Lietuvos Respublikos darbo sutarties įstatymo 26 straipsnio 10 punktą,
-išskyrus išimtį, nustatytą šio straipsnio trečiojoje dalyje.
-            Tuo atveju, kai darbuotojo
-sveikata pablogėja dėl darbo šioje įmonėje (negali dirbti ankstesnio darbo dėl
-sužalojimo, profesinės ligos, kitokio sveikatos pakenkimo), jis nušalinamas nuo
-darbo ir, jeigu nėra galimybės jį perkelti į kitą darbą pagal šio straipsnio
-pirmąją dalį, jam mokamas vidutinis darbo užmokestis iki pasveiks ar bus
-pripažintas invalidu. Darbuotoją pripažinus invalidu, pagal įstatymą jis gali
-būti atleistas iš darbo remiantis Lietuvos Respublikos darbo sutarties įstatymo
-26 straipsnio 10 punktu.
- 
-            34 straipsnis. Dviejų ir
-daugiau darbdavių pareigos organizuojant darbus toje pačioje įmonėje, 
-teritorijoje,
-darbo vietoje
- 
-            Du ir daugiau darbdavių,
-vykdydami darbus toje pačioje įmonėje, teritorijoje, darbo vietoje, privalo
-organizuoti darbą taip, kad būtų garantuotas visų darbuotojų saugus darbas,
-neatsižvelgiant į tai, su kuriuo iš darbdavių yra sudaryta darbo sutartis.
-Darbdaviai iš savo tarpo skiria vieną darbdavį, kuris organizuoja ir atsako už
-visų darbuotojų, dirbančių toje pačioje įmonėje, teritorijoje ar darbo vietoje,
-saugą. Toks susitarimas įforminamas raštu.
- 
-            35 straipsnis. Darbdavių
-teisės
- 
-            Kad būtų užtikrinta
-darbuotojų sauga darbe, darbdaviai turi teisę:
-            1) reikalauti, kad
-darbuotojai laikytųsi saugos darbe norminių aktų;
-            2) darbuotojams,
-pažeidusiems saugos darbe norminius aktus, skirti drausmines nuobaudas,
-nustatyta tvarka reikalauti atlyginti padarytą žalą;
-            3) atleisti iš darbo
-darbuotoją, kai darbuotojas pažeidžia norminių aktų nustatytus saugos darbe
-reikalavimus, jei prieš tai jam nors vieną kartą per paskutiniuosius dvylika
-mėnesių buvo taikytos drausminės nuobaudos už saugos darbe pažeidimus;
-            4) reikalauti iš kitų įmonių
-(darbdavių) atlyginti nuostolius, patirtus dėl to, kad įsigyta produkcija,
-projektai arba gautos paslaugos neatitiko saugos darbe norminių aktų
-reikalavimų;
-            5) gauti iš valstybinio
-valdymo institucijų informaciją saugos darbe klausimais;
-            6) patys dalyvauti arba
-įpareigoti kitus įmonės darbuotojus dalyvauti Valstybinės darbo inspekcijos
-tikrinimuose, susipažinti su tikrinimo medžiaga;
-            7) nustatyti įmonėje
-griežtesnius saugos darbe reikalavimus negu numatyta saugos darbe norminiuose
-aktuose. Griežtesni saugos darbe reikalavimai įmonėje įteisinami kolektyvinėse
-sutartyse, kolektyviniuose susitarimuose ir neturi prieštarauti Lietuvos
-Respublikos įstatymams, saugos darbe norminiams aktams;
-            8) dalį teisių ir pareigų
-saugos darbe klausimais perduoti kompetentingam įmonės darbuotojui (darbuotojams).
-Straipsnio
-pakeitimai:
-Nr.
-I-1326,
-96.05.07, Žin., 1996, Nr. 50-1195 (96.05.29) 
- 
- 
-            36 straipsnis. Dalies
-darbdavio teisių ir pareigų saugos darbe klausimais perdavimas 
-darbdavio
-įgaliotiems asmenims
- 
-            Darbdavys dalį savo teisių
-ir pareigų perduoda įgaliojamam darbuotojui (kompetentingam asmeniui)
-sudarydamas darbo sutartį. Kai darbdavio ir įgaliojamo asmens darbo sutartis
-sudaryta, dalies teisių ir pareigų saugos darbe klausimais perdavimas
-įforminamas darbdavio įsakymu, suderintu su įgaliojamu asmeniu, arba gali būti
-numatomas darbdavio tvirtinamuose įgaliojamo asmens pareiginiuose nuostatuose.
-            Darbdavio įgaliotas asmuo
-privalo vykdyti jam suteiktus įgaliojimus ir atsako už darbuotojų saugų darbą
-jam priskirtame įmonės padalinyje ir darbo vietose, išskyrus atvejus, kai apie
-pavojų darbuotojų sveikatai ar gyvybei (kurio pats pašalinti negali) jis
-pranešė darbdaviui raštu, o darbdavys nesiėmė priemonių arba nesudarė įgaliotam
-asmeniui sąlygų imtis reikalingų priemonių, kad būtų užtikrintas saugus darbas.
-Perduodamas dalį savo teisių ir pareigų saugos darbe klausimais atskiro
-struktūrinio padalinio, esančio kitoje negu įmonė vietoje (teritorijoje),
-vadovui, darbdavys jį įpareigoja ir suteikia teises imtis visų reikalingų
-priemonių iškilus pavojui darbuotojų sveikatai ar gyvybei.
-            Darbdavio teisių ir pareigų
-saugos darbe klausimais perdavimas įgaliotam asmeniui neatleidžia darbdavio nuo
-atsakomybės užtikrinti saugias ir sveikas darbo sąlygas įmonėje, jos
-padaliniuose, darbo vietose.
-Straipsnio
-pakeitimai:
-Nr.
-I-1326,
-96.05.07, Žin., 1996, Nr. 50-1195 (96.05.29)
- 
- 
-II SKIRSNIS.
-DARBUOTOJŲ PAREIGOS IR TEISĖS
- 
-            37 straipsnis. Darbuotojų
-pareigos
- 
-            Darbuotojai privalo:
-            1) saugoti savo ir nekenkti
-kitų darbuotojų sveikatai, mokėti saugiai dirbti, žinoti ir vykdyti saugos
-darbe norminių aktų reikalavimus;
-            2) laikytis mašinų ir
-mechanizmų eksploatavimo taisyklių, saugos darbe instrukcijų; nedirbti su
-techniškai netvarkingomis darbo priemonėmis ir apie tai pranešti darbdaviui (jo
-įgaliotam asmeniui);
-            3) dirbti su darbo
-drabužiais, darbo avalyne, naudoti individualiosios, kolektyvinės saugos
-priemones, kai to reikia pagal atitinkamas taisykles, instrukcijas;
-            4) imtis priemonių ir pagal
-galimybes bei kompetenciją pašalinti priežastis, galinčias sukelti traumas,
-avarijas, apie tai nedelsiant informuoti darbdavį (įgaliotą asmenį);
-            5) informuoti darbdavį, jo
-įgaliotą asmenį apie darbo metu gautas traumas, susijusius su darbu ūmius
-sveikatos sutrikimus;
-            6) nustatyta tvarka (24
-straipsnis) pasitikrinti sveikatą;
-            7) vykdyti kitus darbdavių,
-jų įgaliotų asmenų bei pareigūnų, kontroliuojančių saugą darbe, teisėtus
-nurodymus.
-            Individualias darbuotojų
-pareigas užtikrinti saugų darbą nustato įmonės vidaus darbo tvarkos taisyklės,
-pareiginės, saugos darbe instrukcijos.
- 
-            38 straipsnis. Darbuotojų
-teisės
- 
-            Darbuotojai turi teisę:
-            1) reikalauti, kad darbdavys
-užtikrintų saugų darbą, nustatyta tvarka (31 straipsnis) aprūpintų tinkamais
-darbo drabužiais, darbo avalyne, individualiosios saugos priemonėmis;
-            2) sužinoti iš darbdavio
-(įgalioto asmens) apie jų darbo aplinkoje esančius sveikatai kenksmingus ir
-pavojingus veiksnius;
-            3) susipažinti su
-išankstinių ir periodiškų sveikatos tikrinimų (24 straipsnis) rezultatais;
-nesutikus su patikrinimo rezultatais, sveikatą pasitikrinti pakartotinai;
-            4) atsisakyti dirbti, jeigu
-yra pavojus sveikatai, gyvybei (39 straipsnis), taip pat dirbti tuos darbus,
-kuriuos saugiai atlikti nėra apmokyti;
-            5) nustatyta tvarka
-reikalauti, kad būtų atlyginta žala, padaryta sveikatai dėl nesaugių darbo
-sąlygų;
-            6) derėtis su darbdaviu
-(įgaliotu asmeniu) dėl saugos darbe gerinimo Lietuvos Respublikos kolektyvinių
-sutarčių įstatymo nustatyta tvarka;
-            7) saugos darbe klausimais
-kreiptis į darbuotojų profesinę sąjungą, įmonės saugos darbe komitetą.
- 
-            39 straipsnis. Atsisakymo
-dirbti tvarka
- 
-            Šio įstatymo 38 straipsnio 4
-punkte numatytais atvejais darbuotojas praneša (žodžiu arba raštu) darbdaviui
-(įgaliotam asmeniui) atsisakymo dirbti priežastis.
-            Nesutarimus (ginčus) dėl
-darbuotojo atsisakymo dirbti pagal ginčijančios šalies pasirinkimą per 5 dienas
-sprendžia įmonės saugos darbe komitetas ar Valstybinė darbo inspekcija arba
-teismas įstatymo nustatyta tvarka.
-            Nepagrįstas atsisakymas
-dirbti laikomas darbo drausmės pažeidimu.
-            Už laiką, kurį darbuotojas
-pagrįstai atsisakė dirbti, darbuotojui mokamas vidutinis darbo užmokestis.
-Darbuotojui atsisakius dirbti nepagrįstai , už nedirbtą laiką neapmokama ir dėl
-to padaryta žala darbdaviui kompensuojama iš darbuotojo sąskaitos įstatymų
-nustatyta tvarka.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
- 
- 
-V SKYRIUS. DARBO
-IR POILSIO LAIKAS
- 
-            40 straipsnis. Darbo
-(pamainos) trukmė
- 
-            Normali darbuotojų darbo
-trukmė įmonėse negali būti ilgesnė kaip 40 valandų per savaitę.
-            Darbo dienos (pamainos)
-trukmė nustatoma pagal darbo dienų (pamainų) skaičių per savaitę.
-            Darbo dienos (pamainos)
-trukmė, įskaitant viršvalandžius, neturi viršyti 10 valandų per parą, o
-atvejais, kurie yra numatyti šio įstatymo 44 straipsnyje ir 48 straipsnio
-trečiojoje dalyje, darbo dienos (pamainos) trukmė (kartu su pertrauka pailsėti
-ir pavalgyti) negali būti ilgesnė kaip 12 valandų per parą.
-            Išimtiniais atvejais tam
-tikrų kategorijų (gydymo, socialinės globos, vaikų auklėjimo įstaigų bei
-energetikos ir ryšių specializuotų tarnybų, taip pat avarijų likvidavimo
-specializuotų tarnybų) darbuotojams, budėtojams patalpose darbo (pamainos)
-trukmė per parą gali būti ilgesnė negu nustatyta šio straipsnio trečiojoje
-dalyje. Tokiu atveju vidutinė savaitės darbo trukmė neturi viršyti 48 valandų,
-o poilsio tarp pamainų laikas privalo būti ne trumpesnis kaip 24 valandos.
-Darbų, kuriems taikomi šie darbo ir poilsio režimai, sąrašą tvirtina Lietuvos
-Respublikos Vyriausybė.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
- 
-            41 straipsnis. Sutrumpinta
-darbo trukmė
- 
-            Sutrumpinta darbo trukmė
-nustatoma:
-            1) darbuotojams nuo 16 iki
-18 metų - 36 valandos per savaitę, o asmenims nuo 14 iki 16 metų - 24 valandos
-per savaitę;
-            2) moksleiviams, dirbantiems
-mokslo metais laisvu nuo mokymosi metu, darbo laiko trukmė per savaitę negali
-viršyti pusės maksimalios darbo laiko trukmės, nustatytos šio straipsnio 1
-punkte;
-            3) darbuotojams, dirbantiems
-labai kenksmingomis darbo sąlygomis (67 straipsnis) - ne daugiau kaip 36
-valandos per savaitę. Konkrečią darbo dienos (pamainos) trukmę, atsižvelgdama į
-darbo sąlygų kenksmingumą, nustato Lietuvos Respublikos Vyriausybė;
-            4) riboto darbingumo
-asmenims - pagal medicinos arba invalidumą nustačiusios komisijos išvadą.
-            Kai kurių kategorijų
-darbuotojams (mokytojams, gydytojams ir kt.) sutrumpintą darbo trukmę nustato
-Lietuvos Respublikos Vyriausybė.
- 
-            42 straipsnis. Darbo dienų
-skaičiaus per savaitę, darbo pradžios, pabaigos, pertraukų 
-nustatymas
- 
-            Darbo dienų skaičius per
-savaitę ir darbo dienos (pamainos) pradžia, pabaiga, pertrauka pailsėti ir
-pavalgyti, papildomos ir specialios pertraukos darbo metu nustatomos vidaus
-darbo tvarkos taisyklėse, darbo (pamainų) grafikuose, kurie tvirtinami
-kolektyvinėje sutartyje nustatyta tvarka. Dirbant pamainomis, privalo būti
-garantuotas tolygus pamainų keitimasis.
-            Darbuotojams nustatoma
-penkių dienų darbo savaitė su dviem poilsio dienomis.
-            Įmonėse, kuriose dėl gamybos
-pobūdžio ar kitų sąlygų penkių darbo dienų savaitė neįmanoma, nustatoma šešių
-darbo dienų savaitė su viena poilsio diena.
-            Esant šešių dienų darbo
-savaitei, darbo diena negali trukti ilgiau kaip 7 valandas, kai savaitės darbo
-norma 40 valandų, 6 valandas - kai savaitės norma 36 valandos, ir 4 valandas -
-kai savaitės norma 24 valandos.
-            Vidaus darbo tvarkos
-taisyklės ir darbo grafikai paskelbiami viešai ne vėliau kaip prieš dvi
-savaites iki jų įsigaliojimo.
-            Darbdavys ne vėliau kaip
-prieš dvi savaites informuoja savivaldybę apie įmonės darbo grafiko pakeitimą.
-            Darbuotojų dirbtas darbo
-laikas ir viršvalandžiai žymimi Statistikos departamento prie Lietuvos
-Respublikos Vyriausybės nustatytos formos žiniaraščiuose.
-            Darbo laiko ypatumus
-valstybinio valdymo įstaigoms nustato Lietuvos Respublikos Vyriausybė.
-Straipsnio
-pakeitimai:
-Nr.
-I-1326,
-96.05.07, Žin., 1996, Nr. 50-1195 (96.05.29)
- 
-            43 straipsnis. Švenčių
-dienos, darbo trukmė švenčių ir poilsio dienų išvakarėse
- 
-Įmonėse
-nedirbama šių švenčių dienomis:
-1) sausio 1-ąją
-- Naujųjų metų dieną;
-2) vasario
-16-ąją - Lietuvos valstybės atkūrimo dieną;
-3) kovo 11-ąją -
-Lietuvos nepriklausomybės atkūrimo dieną;
-4) sekmadienį
-ir  pirmadienį -  krikščionių Velykų (pagal vakarietiškąją tradiciją) dienomis;
-5) pirmąjį
-gegužės sekmadienį - Motinos dieną;
-6) liepos 6-ąją
-- Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) dieną;
-7) rugpjūčio
-15-ąją - per Žolinę (Švč. Mergelės Marijos ėmimo į dangų dieną);
-8) lapkričio
-1-ąją - Visų Šventųjų dieną;
-9) gruodžio
-25-ąją ir 26-ąją - Kalėdų dienomis.
-            Švenčių dienomis leidžiama
-dirbti tokius darbus, kurių sustabdyti negalima dėl gamybinių ir techninių
-sąlygų (nepertraukiamai dirbančios įmonės), darbus, būtinus gyventojams aptarnauti,
-taip pat neatidėliotinus remonto, pakrovimo ar iškrovimo darbus.
-            Švenčių dienų išvakarėse
-darbuotojų, išskyrus šio įstatymo 41 straipsnyje nurodytuosius, darbo laikas
-sutrumpinamas viena valanda, kai dirbama penkių arba šešių dienų darbo savaitę.
-            Poilsio dienų išvakarėse,
-kai dirbama šešių dienų darbo savaitę, darbas neturi trukti ilgiau kaip 5
-valandas.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
-Nr. VIII-1762, 00.06.27, Žin., 2000,
-Nr.57-1678 (00.07.14)
- 
-            44 straipsnis. Suminė darbo
-laiko apskaita
- 
-            Nepertraukiamai dirbančiose
-įmonėse, taip pat atskiruose cechuose, baruose, darbuose su pertraukiamu darbo
-dienos (pamainos) režimu ir kai kuriuose darbuose, kur dėl gamybinių, techninių
-ir kitų sąlygų negalima laikytis konkrečiai darbuotojų kategorijai nustatytos
-dienos ar savaitės darbo trukmės, Valstybinei darbo inspekcijai leidus, galima
-įvesti suminę darbo laiko apskaitą, kad nebūtų viršijamas per apskaitinį
-laikotarpį tai darbuotojų kategorijai nustatytas darbo valandų skaičius. Esant
-suminei darbo laiko apskaitai, privalo būti garantuota šio įstatymo nustatyta
-dienos bei savaitės nepertraukiamo poilsio trukmė. Jeigu suminės darbo laiko
-apskaitos laikotarpiu viršijamas tai darbuotojų kategorijai nustatytas normalus
-darbo valandų skaičius, darbuotojams suteikiama poilsio diena (dienos) arba
-apmokama Lietuvos Respublikos darbo apmokėjimo įstatymo nustatyta tvarka.
-Konkreti kompensavimo forma nustatoma kolektyvinėje sutartyje arba darbdavio ir
-darbuotojo susitarimu.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
- 
- 
-            45 straipsnis. Darbas naktį
-ir jo ribojimas
- 
-            Darbas naktį apima laiką nuo
-10 valandos vakaro iki 6 valandos ryto.
-            Neleidžiama dirbti nakties
-metu asmenims, išvardytiems 61 straipsnyje, 63 straipsnio antrojoje dalyje, ir
-asmenims, kuriems pagal medicinos išvadą naktinis darbas draudžiamas.
-            Skirti dirbti nakties metu
-be darbuotojo sutikimo draudžiama:
-            1) darbuotojus, kurie vieni
-(tėvas arba motina) augina ar globoja (globėjas) vaikus iki aštuonerių metų;
-            2) invalidus, jeigu tokio
-darbo jiems nedraudžia invalidumą nustačiusios komisijos.
-            Kai dirbama nakties metu,
-nustatytoji darbo (pamainos) trukmė sumažinama viena valanda. Ši nuostata
-netaikoma darbininkams ir tarnautojams, kuriems jau numatytas sutrumpintas
-darbo laikas (41 straipsnio pirmosios dalies 3 punktas, 41 straipsnio antroji
-dalis). Naktinio darbo trukmė gali būti netrumpinama nepertraukiamoje gamyboje,
-taip pat kai dirbama pamainomis šešių darbo dienų savaitę su viena poilsio diena.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
- 
- 
-            46 straipsnis. Ne visas
-darbo laikas
- 
-            Darbuotojui susitarus su
-darbdaviu, gali būti nustatoma ne visa darbo diena ar nevisa darbo savaitė.
-            Darbdavys privalo nustatyti
-ne visos darbo dienos arba ne visos darbo savaitės darbo grafiką, jeigu to
-prašo:
-            nėščia moteris, moteris,
-turinti vaiką iki 14 metų arba vaiką invalidą iki 16 metų; tėvas, vienas
-auginantis vaiką iki 14 metų, taip pat globėjas, auginantis tokio pat amžiaus
-vaiką; invalidas, taip pat asmuo, slaugantis sergantį šeimos narį ir pristatęs
-medicinos išvadą.
-            Darbas ne viso darbo laiko
-sąlygomis neapriboja darbuotojo darbo teisių.
-            Ne visos darbo dienos arba
-ne visos darbo savaitės darbo nustatymo tvarką tvirtina Lietuvos Respublikos
-Vyriausybė. Kolektyvinėse sutartyse, kolektyviniuose susitarimuose, darbo
-sutartyse gali būti numatyti ir kitokie, darbuotojams palankesni, ne viso darbo
-laiko režimai.
- 
-            47 straipsnis. Budėjimas
-įmonėje, budėjimas namuose
- 
-            Ypatingais atvejais, kai
-reikia užtikrinti įmonėje tvarką ar garantuoti, jog bus atlikti neatidėliotini
-darbai, darbdavys gali pavesti darbuotojui ne dažniau kaip kartą per mėnesį, o darbuotojui
-sutikus - ne dažniau kaip kartą per savaitę, budėti įmonėje arba namuose,
-pasibaigus darbo dienai arba poilsio ar švenčių dienomis.
-            Budėjimo laikas įmonėje
-kartu su darbo dienos (pamainos) trukme (kai budima darbo dienai (pamainai)
-pasibaigus) negali viršyti šio įstatymo 40 straipsnio trečiojoje dalyje
-nustatytos darbo dienos (pamainos) trukmės, o budėjimo trukmė poilsio ir
-švenčių dienomis, taip pat namuose negali viršyti 8 valandų per parą. Budėjimas
-įmonėje prilyginamas darbo laikui, o budėjimas namuose - ne mažiau kaip
-trečdaliui darbo laiko.
-            Už budėjimą (įmonėje arba
-namuose) per artimiausias dešimtį dienų suteikiamas laisvalaikis tokios pat
-trukmės kaip budėjimas įmonėje ar darbo laikui prilygintas budėjimo laikas
-(budint namuose).
-            Budėti įmonėje arba namuose
-negalima skirti nėščių moterų ir asmenų iki aštuoniolikos metų, invalidų.
-Moterys, turinčios vaikų iki 14 metų, vyrai, vieni išlaikantys vaikus iki 14
-metų, taip pat invalidus slaugantys asmenys budėjimui įmonėje arba namuose gali
-būti skiriami tik jiems sutikus.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
- 
-            48 straipsnis.
-Viršvalandinis darbas
- 
-            Viršvalandiniu laikomas darbas,
-kurį darbuotojai dirba viršydami kolektyvinėse sutartyse arba vidaus tvarkos
-taisyklėse nustatytą darbo laiko trukmę.
-            Viršvalandiniu darbu
-nelaikomas darbdavių arba jų įgaliotų asmenų ir kitų įstatymuose numatytų
-darbuotojų darbas, viršijantis nustatytą darbo trukmę. Tokių asmenų pareigų,
-profesijų sąrašas nurodomas kolektyvinėse sutartyse, vidaus darbo tvarkos
-taisyklėse.
-            Darbdavys turi teisę
-organizuoti darbuotojams (išskyrus darbuotojus, išvardytus 45 straipsnio
-trečiojoje dalyje, 61 ir 63 straipsniuose) privalomą viršvalandinį darbą ir
-darbą poilsio dienomis :
-            1) kai dirbami krašto
-apsaugai būtini darbai bei reikia užkirsti kelią nelaimėms ir pavojams;
-            2) kai dirbami visuomenei
-būtini darbai, šalinamos atsitiktinės ar staiga atsiradusios aplinkybės dėl
-avarijų, gaivalinių nelaimių ir kt.;
-            3) kai būtina užbaigti
-pradėtą darbą, kurio dėl nenumatytos ar atsitiktinės kliūties, susijusios su
-techninėmis gamybos sąlygomis, nebuvo galima baigti per normalų darbo laiką,
-jeigu nutraukus pradėtą darbą, gali sugesti medžiagos ar įrenginiai;
-            4) kai dirbami mechanizmų
-arba įrenginių remonto ir atstatymo darbai, jeigu šiems mechanizmams ar
-įrenginiams sugedus, dauguma darbuotojų negali dirbti;
-            5) kai neatvyksta
-pamainininkas (darbdavys antrą pamainą iš eilės dirbantį darbuotoją privalo ne
-vėliau kaip po pusės pamainos pakeisti kitu darbuotoju);
-            6) pakrovimo bei iškrovimo
-ir su tuo susijusiems transporto darbams atlikti, kad nesusikauptų kroviniai ir
-būtų išvengta transporto priemonių prastovų.
-            Kitais, neišvardytais šio
-straipsnio trečiojoje dalyje, atvejais darbdavys gali organizuoti
-viršvalandinius darbus kolektyvinėje sutartyje nustatyta tvarka ir gavęs
-raštišką darbuotojo sutikimą.
-            Viršvalandiniais darbais
-nelaikomi tie darbai, kuriuos darbuotojas savo iniciatyva dirba pasibaigus
-darbo dienai (pamainai) susitaręs su darbdaviu, tačiau turi būti garantuota šio
-įstatymo 53, 54 straipsniuose nustatyta paros ir savaitės poilsio trukmė.
-            Dirbti viršvalandžius labai
-kenksmingomis darbo sąlygomis (67 straipsnis) draudžiama, išskyrus šio
-straipsnio trečiosios dalies 5 punkte nurodytą atvejį.
- 
-            49 straipsnis.
-Viršvalandinio darbo apribojimas
- 
-            Viršvalandiniai darbai
-kiekvienam darbuotojui neturi viršyti 4 valandų, jeigu jie dirbami dvi dienas
-iš eilės, ir 120 valandų per metus. Darbdavys privalo skaičiuoti visą
-darbuotojų išdirbtą viršvalandinių darbų laiką.
- 
-            50 straipsnis. Poilsio
-laikas
- 
-            Darbuotojų darbingumui ir
-sveikatai atstatyti nustatomos šios poilsio rūšys:
-            pertrauka pailsėti ir
-pavalgyti,
-            papildomos ir specialios
-pertraukos pailsėti,
-            paros poilsis,
-            savaitės poilsis.
-            Be poilsio laiko,
-darbingumui ir sveikatai atstatyti Lietuvos Respublikos įstatymų nustatyta
-tvarka suteikiamos atostogos.
- 
-            51 straipsnis. Pertrauka
-pailsėti ir pavalgyti
- 
-            Darbuotojams pailsėti ir
-pavalgyti suteikiama ne trumpesnė kaip pusės valandos ir ne ilgesnė kaip dviejų
-valandų pertrauka, kurios metu jie turi teisę palikti darbo vietą ir pertrauką
-naudoti savo nuožiūra. Pertrauka pailsėti ir valgyti suteikiama ne vėliau kaip
-po 4 valandų darbo.
-            Darbuose, kur dėl gamybos
-sąlygų negalima palikti darbo vietos ir daryti pertraukos, darbuotojui turi
-būti suteikiama galimybė pavalgyti darbo metu. Šių darbų sąrašas ir valgymo
-tvarka bei vieta nustatomi darbo arba kolektyvinėje sutartyje.
-            Pertraukos pailsėti ir
-pavalgyti pradžia ir pabaiga , jos trukmė ir suteikimo tvarka poilsio, švenčių
-dienų išvakarėse nustatomos kolektyviniuose susitarimuose, kolektyvinėse
-sutartyse, darbo sutartyse.
-            Pertrauka pailsėti ir
-pavalgyti neįskaitoma į darbo laiką.
- 
-            52 straipsnis. Papildomos ir
-specialios pertraukos
- 
-            Atsižvelgiant į darbo
-sąlygas, darbuotojams darbo metu suteikiamos papildomos pertraukos poilsiui.
-            Darbuotojams, dirbantiems
-lauke arba neapšildomose patalpose (kai aplinkos temperatūra žemesnė kaip
--10oC), taip pat kitais atvejais, numatytais saugos darbe norminiuose aktuose,
-privalo būti suteikiamos specialios pertraukos. Tam įrengiamos poilsio
-patalpos. Specialios pertraukos įskaitomos į darbo laiką ir negali būti
-trumpesnės kaip 10 minučių.
-            Papildomų ir specialių
-pertraukų poilsiui skaičius, trukmė ir poilsio vieta nustatomi atsižvelgiant į
-konkrečias darbo sąlygas kolektyvinėse arba darbo sutartyse.
-            Poilsio ir specialias
-pertraukas darbo (pamainos) metu atsižvelgiant į darbo sąlygas reglamentuoja
-tipiniai poilsio režimų nuostatai, kuriuos tvirtina socialinės apsaugos
-ministras. Kolektyvinėse sutartyse, kolektyviniuose susitarimuose gali būti
-numatytos papildomos poilsio pertraukos.
- 
-            53 straipsnis. Paros poilsis
- 
-            Draudžiama skirti darbuotoją
-dirbti dvi pamainas iš eilės.
-            Poilsio trukmė per parą
-negali būti trumpesnė kaip 10 valandų iš eilės. Asmenims iki 18 metų paros
-poilsio trukmė nustatoma remiantis šio įstatymo 60 straipsniu.
- 
-            54 straipsnis. Savaitės
-poilsis
- 
-            Savaitės nepertraukiamo poilsio
-trukmė turi būti ne trumpesnė kaip 36 valandos.
-            Esant penkių darbo dienų
-savaitei, darbuotojams suteikiamos dvi poilsio dienos per savaitę, o esant
-šešių dienų darbo savaitei - viena poilsio diena (42 straipsnio trečioji
-dalis).
-            Bendra poilsio diena -
-sekmadienis, o tose įmonėse, kurių visi darbuotojai ne krikščionys, vietoj
-bendros poilsio dienos - sekmadienio poilsio diena gali būti bet kuri kita
-savaitės diena, išskyrus šio įstatymo 55, 56 straipsniuose numatytus atvejus.
-            Esant mažiau kaip penkių
-darbo dienų savaitei, kitos poilsio dienos nustatomos darbo arba kolektyvinėse
-sutartyse.
- 
-            55 straipsnis. Poilsio
-dienos paslaugas teikiančiose įmonėse
- 
-            Įmonėms, kurios sekmadienį
-ir švenčių dienomis negali nutraukti darbo, kadangi turi teikti paslaugas
-gyventojams (parduotuvės, transporto įmonės, teatrai, muziejai ir kt.), poilsio
-dienas nustato miestų, rajonų tarybos.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
- 
- 
-            56 straipsnis. Poilsio
-dienos nepertraukiamai dirbančiose įmonėse ir esant suminei darbo laiko 
-apskaitai
- 
-            Įmonėse, kuriose negalima
-sustabdyti darbo dėl gamybinių, techninių sąlygų, arba įmonėse, nepertraukiamai
-teikiančiose paslaugas gyventojams ir jeigu jose yra suminė darbo laiko
-apskaita, poilsio dienos suteikiamos įvairiomis savaitės dienomis iš eilės
-kiekvienai darbuotojų grupei pagal darbo (pamainų) grafikus.
- 
-            57 straipsnis. Darbo ir
-poilsio laiko reguliavimo ypatumai
- 
-            Transporto, ryšių, žemės
-ūkio įmonėse, taip pat jūrų ir upių laivyne darbo ir poilsio laikas,
-atsižvelgiant į metų laiką, darbų sezoniškumą bei kitas sąlygas, gali skirtis
-nuo šio įstatymo nustatytų normų. Darbo ir poilsio laiko ypatumus atskiroms
-ūkio šakoms nustato Lietuvos Respublikos Vyriausybė. 
- 
- 
-VI SKYRIUS.
-JAUNIMO,MOTERŲ IR RIBOTO DARBINGUMO ASMENŲ DARBAS
- 
-I SKIRSNIS.
-JAUNIMO DARBAS
- 
-            58 straipsnis. Asmenų iki
-aštuoniolikos metų saugaus darbo reguliavimas
- 
-            Pagal šį įstatymą, kitus
-saugos darbe norminius aktus darbo lengvatos taikomos jaunimui - asmenims nuo
-14 iki 18 metų.
-            Esant vieno iš tėvų arba
-kito faktiškai vaiką auginančio asmens rašytiniam sutikimui bei gydytojo
-leidimui, jaunesni kaip 14 metų asmenys gali teikti ryšių paslaugas, dalyvauti kultūros
-ir meno renginiuose ir kitoje veikloje, neturinčioje neigiamo poveikio
-sveikatai, dorovei, mokymuisi.
-            Asmenų iki 14 metų
-įdarbinimo tvarką, darbus ir poilsio laiką, išimtines sąlygas, kurioms esant
-jie gali dirbti tam tikrą darbą, nustato Lietuvos Respublikos Vyriausybė.
-            Darbdaviai privalo sudaryti
-dirbančių jaunesnių kaip 18 metų asmenų vardinį sąrašą, garantuoti jų saugų
-darbą.
- 
-            59 straipsnis. Asmenų iki
-aštuoniolikos metų darbo lengvatos
- 
-            Draudžiama skirti jaunesnius
-kaip 18 metų asmenis dirbti kenksmingomis, labai kenksmingomis darbo sąlygomis,
-pavojingus darbus (67 straipsnis).
-            Asmenims iki aštuoniolikos
-metų draudžiamus dirbti darbus, kenksmingus ir pavojingus veiksnius nustato
-Lietuvos Respublikos Vyriausybė.
-            Jaunesnių kaip aštuoniolikos
-metų asmenų profesinio parengimo sąlygas ir tvarką numatytiems darbams (šio
-straipsnio antroji dalis) nustato Lietuvos Respublikos Vyriausybė.
-            Darbus, darbo sąlygas,
-kurioms esant gali būti įdarbinti asmenys nuo keturiolikos iki šešiolikos metų,
-nustato Lietuvos Respublikos Vyriausybė.
- 
-            60 straipsnis. Asmenų iki
-aštuoniolikos metų poilsio laikas
- 
-            Paros nepertraukiamo poilsio
-laikas asmenims iki 16 metų privalo būti ne trumpesnis kaip 14 valandų, o
-asmenims nuo 16 iki 18 metų - ne trumpesnis kaip 12 valandų ir apimti laiką nuo
-8 valandos vakaro iki 8 valandos ryto.
-            Asmenims iki 18 metų
-suteikiamos ne mažiau kaip dvi poilsio dienos per savaitę.
- 
-            61 straipsnis. Draudimas
-skirti jaunesnius kaip aštuoniolikos metų asmenis dirbti naktį, 
-viršvalandinius
-darbus
- 
-            Draudžiama skirti asmenis,
-jaunesnius kaip 18 metų dirbti naktį, poilsio ir švenčių dienomis,
-viršvalandinius darbus.
- 
- 
-II SKIRSNIS.
-MOTERŲ IR RIBOTO DARBINGUMO ASMENŲ DARBAS
- 
-            62 straipsnis. Motinystės
-sauga
- 
-            Moteris turi teisę
-pasirinkti dirbti visą ar ne visą darbo laiką, dirbti jos ir jos vaikų
-sveikatai nekenksmingą darbą.
-            Šiuo įstatymu valstybė
-garantuoja moterims, tarp jų nėščioms bei auginančioms vaikus, darbo lengvatas.
+20
+straipsnis. Darbuotojų apsauga nuo pavojingų cheminių medžiagų poveikio
 
+1. Įmonėse,
+kurių gamybos procesuose naudojamos, gaminamos, gabenamos ar laikomos žmonių
+sveikatai pavojingos cheminės medžiagos, darbdaviai numato ir įgyvendina
+priemones darbuotojų sveikatai, aplinkos apsaugai užtikrinti. Darbdaviai, kurių
+įmonėse naudojamos pavojingos cheminės medžiagos: 
+1) imasi
+priemonių pakeisti pavojingas chemines medžiagas nepavojingomis ar
+mažiau pavojingomis;
+2) organizuoja
+darbus taip, kad kuo mažiau darbuotojų patirtų ar galėtų patirti pavojingų
+cheminių medžiagų poveikį;
+3) naudoja darbo
+priemones, darbo ir technologinius procesus, užtikrinančius, kad pavojingos cheminės
+medžiagos nepateks į darbo aplinką ir aplinką arba pateks tik tokie jų kiekiai,
+kuriuos leidžia darbuotojų saugos ir sveikatos bei aplinkos apsaugos teisės
+aktai;
+4) sudaro
+prevencinių priemonių ir gelbėjimo darbų planus galimoms avarijoms, kurių metu
+darbuotojai, kiti asmenys ir aplinka gali būti paveikti pavojingų cheminių
+medžiagų.
+ 2. Visi įmonės
+darbuotojai privalo būti supažindinti su įmonėje gaminamų, naudojamų, gabenamų
+ar laikomų konkrečių pavojingų cheminių medžiagų poveikiu sveikatai.
+Darbuotojai, kurie dalyvauja pavojingų cheminių medžiagų gamyboje, jas
+naudoja darbo procesuose, gabena, prižiūri jų laikymą (sandėliavimą), privalo
+būti instruktuoti ir apmokyti saugiai dirbti su konkrečiomis pavojingomis
+cheminėmis medžiagomis, be to, jie privalo būti gerai susipažinę su
+apsaugos nuo tokių medžiagų poveikio bei pirmosios pagalbos priemonėmis. 
+3. Įmonės
+padaliniuose ir (ar) darbo vietose, kuriose yra pavojingų cheminių
+medžiagų, privalo būti įrengtos kolektyvinės apsaugos priemonės. Įmonės
+padaliniuose ir (ar) darbo vietose, kuriose yra degių, sprogių ar galinčių
+sukelti gaisrą, ypač pavojingų cheminių medžiagų, privalo būti įrengtos
+specialios sistemos, skirtos tokių pavojingų cheminių medžiagų kiekiui darbo
+aplinkoje registruoti, darbuotojams apie kilusį pavojų saugai ir sveikatai
+įspėti, taip pat specialios pirmosios medicinos pagalbos priemonės šių medžiagų
+sukeltų ūmių sveikatos sutrikimų atveju. Tokių priemonių sąrašą nustato
+Sveikatos apsaugos ministerija.
+4. Darbuotojai,
+dirbantys su pavojingomis cheminėmis medžiagomis, privalo būti aprūpinti
+atitinkamomis asmeninės apsaugos priemonėmis, nurodytomis pavojingos cheminės
+medžiagos saugos duomenų lape. 
+5. Darboviečių
+patalpos, kuriose gaminamos, naudojamos, laikomos pavojingos cheminės
+medžiagos, privalo būti pažymėtos specialiais įspėjamaisiais ir (ar)
+įpareigojančiais ženklais.
+6. Darbuotojų
+saugos ir sveikatos reikalavimus pavojingų cheminių medžiagų gamybai,
+naudojimui, gabenimui, laikymui darbovietėse nustato atitinkami darbuotojų
+saugos ir sveikatos teisės aktai. Naudojant pavojingą cheminę medžiagą,
+privaloma vadovautis darbuotojų saugos ir sveikatos reikalavimais, nurodytais
+medžiagos saugos duomenų lape, kuris gamintojo pateikiamas kartu su
+realizuojama medžiaga.
+7. Pavojingų
+cheminių medžiagų darbo aplinkoje leistinus ribinius dydžius, pavojingų cheminių
+medžiagų, kurių leistini ribiniai dydžiai darbo aplinkoje gali būti viršijami
+ne daugiau kaip 15 minučių per darbo dieną, taip pat ypač pavojingų cheminių
+medžiagų, kurių leistini ribiniai dydžiai darbo aplinkoje negali būti
+viršijami, sąrašus tvirtina Sveikatos apsaugos ministerija ir Socialinės
+apsaugos ir darbo ministerija.
  
-            63 straipsnis. Darbo
-lengvatos nėščioms moterims ir moterims, turinčioms mažamečių vaikų
+21 straipsnis.
+Darbuotojų saugos ir sveikatos reikalavimai gaminiams
+1. Gaminiai,
+tarp jų darbo priemonės, turi atitikti teisės aktų nustatytus darbuotojų saugos
+ir sveikatos reikalavimus. Gaminio gamintojo pateikiamuose atitiktį
+patvirtinančiuose sertifikatuose, o jeigu tokių sertifikatų nėra, – gamintojo
+kartu su gaminiu pateikiamuose dokumentuose privalo būti nurodoma, jog gaminys
+atitinka tam tikras normas, tarp jų ir darbuotojų saugos ir sveikatos
+reikalavimus.
+2. Gaminių, tarp
+jų darbo bei asmeninių apsaugos priemonių, nurodytų šio įstatymo 18 ir 31
+straipsniuose, atitiktį kontroliuojančioms įstaigoms nustačius, kad gaminys
+neatitinka jam nustatytų darbuotojų saugos ir sveikatos reikalavimų, gamintojas
+privalo nutraukti šio gaminio gamybą ir tiekimą į rinką.
  
-            Nėščioms moterims,
-pateikusioms medicinos išvadą, privalo būti sumažintos darbo normos arba jos
-perkeliamos į kitą sveikatai nekenksmingą darbą, už kurį mokamas ne mažesnis
-kaip anksčiau gautas vidutinis darbo užmokestis. Nesant galimybės nėščią moterį
-perkelti į jos sveikatai nekenksmingą darbą arba kol sprendžiamas klausimas dėl
-nėščios moters perkėlimo į lengvesnį ar nekenksmingą jos sveikatai darbą, ji
-turi būti palaisvinta nuo darbo, paliekant už visas palaisvintas nuo darbo dienas
-vidutinį darbo užmokestį.
-            Nėščias moteris ir moteris,
-turinčias iki trejų metų vaikų, draudžiama skirti viršvalandiniams darbams bei
-darbui naktį, o dirbti poilsio ir švenčių dienomis, siųsti į komandiruotes
-leidžiama tik joms sutikus.
-            Moterys, turinčios vaikų iki
-pusantrų metų ir dėl to negalinčios dirbti, jų pačių prašymu perkeliamos į kitą
-darbą, paliekant vidutinį ankstesnio darbo užmokestį iki vaikui sueis pusantrų
-metų. Taip pat, be bendros pertraukos pailsėti ir pavalgyti, joms ne rečiau
-kaip kas trys valandos duodamos ne trumpesnės kaip pusės valandos pertraukos
-kūdikiui maitinti. Motinos pageidavimu pertraukas kūdikiui maitinti galima
-sujungti, pridėti prie pertraukos pailsėti ir pavalgyti arba perkelti į darbo
-dienos (pamainos) pabaigą, atitinkamai sutrumpinant darbo dieną (pamainą). Šios
-pertraukos apmokamos pagal vidutinį darbo užmokestį.
-            Moterys, turinčios vaikų nuo
-trejų iki 14 metų, vaikų invalidų iki 16 metų, negali būti skiriamos dirbti
-viršvalandinius darbus arba būti siunčiamos į komandiruotes, jeigu pačios
-nesutinka.
-            Moterys, auginančios vaikus
-iki 14 metų, jeigu yra galimybė, turi pirmumo teisę pasirinkti darbo pamainą.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
+22
+straipsnis. Darbuotojų saugos ir sveikatos priemonių įgyvendinimo bendrieji 
+principai
+1. Darbdavys
+organizuoja darbą įmonėje, nustato darbo ir poilsio režimą, darbo apmokėjimą
+taip, kad būtų sudarytos sąlygos, skatinančios darbuotojus laikytis darbuotojų
+saugos ir sveikatos reikalavimų.
+2. Darbdavys
+imasi priemonių darbuotojų saugai ir sveikatai užtikrinti ir savarankiškai
+organizuoja darbuotojų saugos ir sveikatos būklės vidinę kontrolę įmonėje. Tuo
+tikslu:
+1) įvertina
+darbuotojų saugos ir sveikatos būklę, kaip nurodyta šio įstatymo 66 ir 68
+straipsniuose ir kituose darbuotojų saugos ir sveikatos teisės aktuose;
+2) užpildo
+Įmonės darbuotojų saugos ir sveikatos būklės pasą. Jame nurodoma, kad darbo
+vietos, darbo priemonės, darbo ir poilsio laikas atitinka darbuotojų saugos ir
+sveikatos teisės aktų reikalavimus, taip pat nurodomos darbuotojų saugos ir
+sveikatos gerinimo priemonės, jei darbuotojų saugos ir sveikatos būklė
+neatitinka reikalavimų;
+3)
+vadovaudamasis Įmonių darbuotojų saugos ir sveikatos tarnybų nuostatais,
+nurodytais šio įstatymo 14 straipsnio 2 dalyje, darbuotojų saugos ir sveikatos
+būklės įvertinimo rezultatais, nustato darbuotojų saugos ir sveikatos
+reikalavimų laikymosi kontrolės tvarką įmonėje, tvirtindamas įmonės darbuotojų
+saugos ir sveikatos tarnybos nuostatus arba įmonės darbuotojų saugos
+specialistų pareigines instrukcijas, duodamas įpareigojimus padalinių vadovams
+įgyvendinti darbuotojų saugos ir sveikatos priemones ir kontroliuoti, kaip
+laikomasi darbuotojų saugos ir sveikatos reikalavimų.
+3. Darbdavys,
+nustatydamas vidinę darbuotojų saugos ir sveikatos būklės kontrolę įmonėje ir
+numatydamas priemones darbuotojų saugai ir sveikatai gerinti, vadovaujasi šiais
+bendraisiais rizikos vertinimo ir darbuotojų saugos ir sveikatos užtikrinimo
+principais:
+1) rizikos
+darbuotojų saugai ir sveikatai vengimu;
+2) rizikos,
+kurios neįmanoma išvengti, įvertinimu;
+3) nustatytos
+rizikos priežasčių šalinimu;
+4) darbuotojo
+galimybių atlikti pavestą darbą įvertinimu pritaikant darbo procesą prie
+darbuotojo galimybių, įrengiant darbo vietas, parenkant darbo priemones, darbo
+metodus, nustatant darbo ar gamybos tempą;
+5) techninės
+pažangos priemonių taikymu įrengiant darbo vietas, sudarant saugią ir sveiką
+darbo aplinką, parenkant darbo priemones;
+6) pavojingų
+darbo procesų pakeitimu nepavojingais arba mažiau pavojingais;
+7) kolektyvinių
+darbuotojų saugos ir sveikatos priemonių pirmenybės taikymu. Tik tais atvejais,
+kai kolektyvinės apsaugos priemonės neužtikrina darbuotojų saugos ir sveikatos
+reikalavimų ar jų neįmanoma naudoti dėl nuo darbdavio nepriklausančių
+aplinkybių, darbuotojai aprūpinami asmeninėmis apsaugos priemonėmis;
+8) darbuotojų
+mokymu ir instruktavimu, jiems privalomais nurodymais laikytis darbuotojų
+saugos ir sveikatos reikalavimų;
+9) kitų reikiamų
+darbuotojų saugos ir sveikatos priemonių taikymu.
+4. Darbdavys,
+nustatydamas darbuotojų saugos ir sveikatos vidinės kontrolės sistemą įmonėje,
+ją svarsto su darbuotojais arba su darbuotojų atstovais, darbuotojų saugos ir
+sveikatos komitetu ir juos informuoja apie įpareigojimus, duotus padalinių
+vadovams dėl darbuotojų saugos ir sveikatos vidinės kontrolės ir priemonių
+įgyvendinimo įmonėje, padaliniuose, darbo vietose. 
+5. Įmonės
+darbuotojų saugos ir sveikatos būklės paso formą ir jo pildymo tvarką tvirtina
+Socialinės apsaugos ir darbo ir Sveikatos apsaugos ministerijos.
  
-            64 straipsnis. Darbai,
-kuriuos draudžiama skirti moterims
+23
+straipsnis. Teisės aktai, reglamentuojantys saugų darbų organizavimą ir jų 
+vykdymą
+įmonėse
+1. Darbai
+įmonėje turi būti organizuojami vadovaujantis šiuo įstatymu ir kitais
+darbuotojų saugos ir sveikatos teisės aktais.
+2. Darbdavys,
+vadovaudamasis darbuotojų saugos ir sveikatos užtikrinimo principais,
+numatytais šio įstatymo 22 straipsnio 2 dalyje, ir darbuotojų saugos ir
+sveikatos teisės aktais, technologinių procesų bei darbo priemonių techniniais
+dokumentais, rengia įmonės darbuotojų saugos ir sveikatos norminius dokumentus
+(darbuotojų saugos ir sveikatos instrukcijas, saugaus darbų atlikimo taisykles
+ir kitus reikiamus įmonės norminius dokumentus). 
+3. Darbdavio
+įsakymu, potvarkiu ar kitu tvarkomuoju dokumentu patvirtinti įmonės darbuotojų
+saugos ir sveikatos norminiai dokumentai, darbuotojų saugos ir sveikatos teisės
+aktai, su kuriais darbuotojai supažindinami pasirašytinai, yra privalomi.
  
-            Moterims iki 40 metų
-draudžiama skirti darbus, galinčius pakenkti motinystės funkcijoms.
-            Moterų, taip pat moterų iki
-40 metų, nėščių moterų sveikatai draudžiamus darbus, kenksmingus ir pavojingus
-darbo aplinkos veiksnius nustato Lietuvos Respublikos Vyriausybė.
+24 straipsnis.
+Privalomi sveikatos patikrinimai 
+1. Asmenys,
+kurie darbe gali būti veikiami profesinės rizikos veiksnių, privalo pasitikrinti
+sveikatą prieš įsidarbindami ir dirbdami tikrintis periodiškai, įmonės
+darbuotojų, kurie privalo pasitikrinti sveikatą, sveikatos tikrinimo grafike
+nustatytu laiku. Asmenų, kurių darbas susijęs su profesine rizika, pavojingų
+kancerogeninių medžiagų naudojimu darbo procese, sveikata tikrinama priimant į
+darbą; dirbant ir pakeitus darbą ar darbovietę, tikrinama periodiškai.
+2. Jauni asmenys
+privalo tikrintis sveikatą įsidarbindami ir kiekvienais metais, kol sukaks 18
+metų. 
+3. Naktį
+dirbantys ir pamaininiai darbuotojai privalo pasitikrinti sveikatą prieš
+įsidarbindami ir dirbdami tikrintis periodiškai, darbuotojų sveikatos tikrinimo
+grafike nustatytu laiku.
+4. Darbdavys
+tvirtina darbuotojų, kuriems privaloma pasitikrinti sveikatą, sąrašą ir
+suderintą su teritoriniu visuomenės sveikatos centru sveikatos tikrinimo
+grafiką. Su juo pasirašytinai supažindina darbuotojus. 
+5. Privalomi
+sveikatos patikrinimai atliekami darbo laiku. Už privalomus įsidarbinančių
+asmenų bei darbuotojų sveikatos patikrinimus sveikatos priežiūros įstaigoms
+mokama Sveikatos apsaugos ministerijos nustatyta tvarka. Vidutinį darbo
+užmokestį darbuotojams už darbo laiką, kurio metu jie tikrinasi sveikatą, moka
+darbdavys.
+6. Darbuotojas,
+atsisakęs nustatytu laiku pasitikrinti sveikatą, gali būti darbdavio
+nušalinamas nuo darbo ir jam už tą laiką, kol pasitikrins sveikatą, nemokamas
+darbo užmokestis. Medicininės apžiūros išvada dėl darbuotojo sveikatos vienodai
+privaloma ir darbdaviui, ir darbuotojui.
+7. Profesijų,
+darbų, kuriuos dirbantys asmenys įsidarbindami ir vėliau privalo periodiškai
+tikrintis sveikatą, sąrašą, sveikatos patikrinimų tvarką nustato Sveikatos
+apsaugos ministerija ir Socialinės apsaugos ir darbo ministerija.
+8. Šio
+straipsnio 1, 2 ir 3 dalyse nurodyti darbuotojai, pajutę neigiamą darbo ar
+darbo aplinkos poveikį sveikatai, turi teisę pasitikrinti sveikatą kitu laiku,
+negu nustatytas privalomo sveikatos tikrinimo grafike. Šia teise gali
+pasinaudoti ir šio straipsnio 1, 2 ir 3 dalyse nenurodyti įmonės darbuotojai.
+Visais atvejais darbdavys privalo suteikti darbuotojui pakankamai laiko
+pasitikrinti sveikatą. Vidutinį darbo užmokestį darbuotojui už laiką, kurio
+metu darbuotojas tikrinosi sveikatą savo iniciatyva, moka darbdavys tais
+atvejais, kai medicinos įstaigos išvadoje nurodyta, kad darbas ir (ar) darbo
+aplinka pakenkė darbuotojo sveikatai. 
  
-            65 straipsnis. Riboto
-darbingumo asmenų darbas
+25
+straipsnis. Darbuotojų evakuacijos bei avarijų prevencijos ir likvidavimo
+planai. 
+Darbdavio
+ir darbuotojų veiksmai pavojaus atvejais
+1. Kiekviena
+įmonė ir visi jos padaliniai privalo turėti darbuotojų evakuacijos planus.
+2. Darbdaviai
+privalo parengti įmonės, įmonės padalinių darbuotojų evakuacijos planus
+pavojaus atvejui. Su šiais planais darbuotojai susipažįsta įsidarbindami
+įmonėje. Darbuotojų evakuacijos planai iškabinami įmonės ir jos padalinių gerai
+matomose vietose. Evakuacijos planus, įmonės avarijų prevencijos ir likvidavimo
+planus privalo gerai žinoti įmonės darbuotojų saugos ir sveikatos tarnybos
+darbuotojai, darbuotojų atstovai.
+3. Darbdavys
+kiekvienoje įmonėje paskiria darbuotojus (jų sutikimu) ir juos periodiškai
+įmonėje apmoko, kaip apsaugoti savo ir kitų darbuotojų sveikatą ir gyvybę
+galimo pavojaus atveju, juos aprūpina pirmosios medicinos pagalbos ir kitomis
+reikiamomis priemonėmis, atsižvelgdamas į darbo ypatumus, darbuotojų skaičių.
+4. Esant pavojui
+įmonėje ar įmonės padalinyje, darbdavys: 
+1) kaip galima
+greičiau informuoja tuos darbuotojus, kuriems gali kilti pavojus, taip pat
+visus kitus įmonės darbuotojus ir nurodo, kokios priemonės bus panaudotos
+darbuotojų sveikatai ir gyvybei apsaugoti ir kokių veiksmų privalo imtis patys
+darbuotojai; 
+2) imasi visų
+reikiamų veiksmų darbams sustabdyti, duoda nurodymus darbuotojams sustabdyti
+darbus, jeigu jie yra apmokyti tai padaryti; duoda nurodymus darbuotojams
+palikti darbo patalpas ir pereiti į saugią vietą;
+3) kaip galima
+greičiau informuoja atitinkamas įmonės vidaus ir išorės tarnybas (civilinės
+saugos, priešgaisrinės saugos, sveikatos priežiūros, policiją) apie pavojų,
+nukentėjusius darbuotojus; 
+4) kol įmonei
+bus suteikta išorės tarnybų pagalba, likviduoti pavojų darbuotojų sveikatai ir
+gyvybei pasitelkia tam tikslui iš anksto apmokytus darbuotojus, nurodytus šio
+straipsnio 3 dalyje, taip pat įmonės darbuotojų saugos ir sveikatos tarnybos
+darbuotojus.
+5. Likvidavus
+avariją, užgesinus gaisrą ar kitais atvejais, kai dar yra pavojus darbuotojų
+saugai ir sveikatai, darbdavys arba padalinio vadovas negali duoti
+nurodymų tęsti ar pradėti darbą. 
+6. Darbuotojai
+pavojaus atveju turi teisę nutraukti darbą, išeiti iš darbo patalpos, palikti
+darbo vietas. Darbuotojų veiksmai pavojaus atvejais negali turėti jiems
+nepalankių padarinių. Dėl darbuotojų veiksmų pavojaus atveju negali būti
+skiriamos drausminės ar administracinės nuobaudos, taikoma materialinė ar
+kitokia atsakomybė, jeigu jie siekė save ar kitus darbuotojus apsaugoti nuo
+pavojaus.
+7. Įmonės
+atskiro struktūrinio padalinio, esančio kitoje negu įmonė teritorijoje ar
+vietovėje, vadovas darbuotojų saugos ir sveikatos klausimais atestuojamas šio
+įstatymo 29 straipsnyje nustatyta tvarka, savarankiškai vykdo priemones,
+nustatytas šio straipsnio 3, 4 ir 5 dalyse.
+8. Įmonėse,
+kuriose gaminamos, naudojamos, laikomos, gabenamos pavojingos medžiagos,
+nurodytos šio įstatymo 20 straipsnio 3 dalyje, ir kurių kiekis viršija
+nustatytus leistinus ribinius kiekius, vadovaujantis Vyriausybės patvirtintais
+Pramoninių avarijų prevencijos, likvidavimo ir tyrimo nuostatais, privalo būti
+įgyvendinamos specialios darbuotojų saugos ir sveikatos priemonės, naudojamos
+specialios darbo aplinkos kontrolės sistemos ar prietaisai, taip pat privalo
+būti sudaromi avarijų prevencijos bei likvidavimo planai. Tokių įmonių sąrašą
+tvirtina ir įmonių parengtuose avarijų prevencijos ir likvidavimo planuose
+numatytų priemonių įgyvendinimą kontroliuoja Civilinės saugos departamentas
+prie Krašto apsaugos ministerijos ir Valstybinė darbo inspekcija.
+9. Darbuotojas
+(darbuotojai) turi teisę atsisakyti dirbti, darbai taip pat privalo būti
+sustabdyti, jeigu darbdavys ir (ar) padalinio vadovas nesiima reikiamų
+priemonių pašalinti darbuotojų saugos ir sveikatos reikalavimų pažeidimus ir
+apsaugoti darbuotoją ar darbuotojus nuo galimo pavojaus saugai ir sveikatai
+šiais atvejais, kai: darbuotojas ar darbuotojai neapmokyti saugiai dirbti; kai
+sugedus darbo priemonei ar susidarius avarinei situacijai tęsiamas darbas; kai
+dirbama pažeidžiant nustatytus technologinius reglamentus; kai dirbama
+neįrengus reikiamų kolektyvinės apsaugos priemonių arba darbuotojas
+neaprūpintas asmeninėmis apsaugos priemonėmis; kitais atvejais, kai darbo aplinka
+kenksminga ir (ar) pavojinga sveikatai, gyvybei. Darbų sustabdymo procedūra
+atliekama tokia tvarka:
+1) įmonės
+darbuotojų saugos ir sveikatos komitetas turi teisę pareikalauti, kad darbdavys
+sustabdytų darbus. Jeigu įmonėje darbuotojų saugos ir sveikatos komiteto nėra,
+darbus sustabdyti turi teisę pareikalauti darbuotojų atstovas;
+2) jei darbdavys
+ar padalinio vadovas atsisako vykdyti įmonės darbuotojų saugos ir sveikatos
+komiteto ar darbuotojų atstovo reikalavimą, komitetas arba darbuotojų atstovas
+apie tai praneša Valstybinei darbo inspekcijai; 
+3) darbo
+inspektorius, patikrinęs darbuotojų saugos ir sveikatos apsaugos būklę, gali
+priimti sprendimą įpareigoti darbdavį, o jei darbdavio nėra, – padalinio vadovą
+sustabdyti darbus;
+4) jei darbdavys
+ar padalinio vadovas atsisako vykdyti darbo inspektoriaus reikalavimą, darbo
+inspektorius panaudoja visas Valstybinės darbo inspekcijos įstatymo jam
+suteiktas teises, kad būtų įvykdytas reikalavimas sustabdyti darbus;
+5) kol bus
+įvykdytas darbuotojų atstovo, įmonės darbuotojų saugos ir sveikatos komiteto ar
+darbo inspektoriaus reikalavimas sustabdyti darbus, darbuotojai, kurių saugai
+ir sveikatai gresia pavojus, turi teisę nutraukti darbą, palikti darbo vietą ar
+patalpą. Šiuo atveju darbdavys negali skirti nuobaudų ar taikyti kitokią
+atsakomybę;
+6) valstybės ir
+savivaldybės institucijų ir įstaigų, kuriose nesteigiami įmonių darbuotojų
+saugos ir sveikatos komitetai, nerenkami darbuotojų atstovai, tarnautojai apie
+savo atsisakymą dirbti, kai neužtikrinama sauga ir sveikata, informuoja
+padalinio vadovą, o jeigu jo nėra, – darbdavį. Padalinio vadovui arba
+darbdaviui atsisakius sustabdyti darbus, tarnautojas gali kreiptis į Valstybinę
+darbo inspekciją arba teismą.
+10. Darbo
+inspektoriai, įmonės inspektavimo metu nustatę pavojų darbuotojų saugai ir
+sveikatai, šio straipsnio 9 dalyje numatytais atvejais turi teisę pareikalauti,
+kad darbdavys ar padalinio vadovas sustabdytų darbus.
+11. Darbai taip
+pat privalo būti sustabdyti, kai gamtinės sąlygos kliudo saugiai juos atlikti.
+Pavojaus atvejais darbdavys, siekdamas užkirsti kelią nelaimingiems
+atsitikimams darbe, vadovaudamasis įstatymu, turi teisę perkelti darbuotojus į
+darbo sutartimi nesulygtą darbą toje pačioje įmonėje arba į kitą toje pačioje
+vietovėje esančią įmonę. Draudžiama perkelti darbuotoją į tokį darbą, kuris
+neleistinas dėl jo sveikatos būklės. Nesant darbo kitose darbo vietose, kur
+darbuotojai gali saugiai dirbti, įstatymų nustatyta tvarka skelbiama prastova.
+Už laiką, kurio metu perkeltas darbuotojas dirbo kitą darbo sutartimi nesulygtą
+darbą, už prastovų laiką, sustabdžius darbus pavojaus atveju ar dėl gamtinių
+sąlygų, darbuotojams mokama įstatymų nustatyta tvarka.
  
-            Riboto darbingumo asmenų
-saugą darbe garantuoja šis ir kiti įstatymai, saugos darbe norminiai aktai.
-            Vyresnių kaip 60 metų vyrų
-ir vyresnių kaip 55 metų moterų darbo ir poilsio lengvatas nustato šalys
-(darbuotojas ir darbdavys), sudarydamos (pratęsdamos) darbo sutartį arba
-kolektyviniuose susitarimuose, kolektyvinėse sutartyse. 
+26 straipsnis.
+Gamybinės buities, sanitarinės ir higienos patalpos 
+1. Įmonėse
+darbuotojų saugos ir sveikatos teisės aktų nustatyta tvarka įrengiamos poilsio,
+persirengimo, drabužių, avalynės, asmeninių apsaugos priemonių laikymo patalpos
+arba vietos, sanitarinės bei asmens higienos patalpos, kuriose įrengiamos
+prausyklos, dušai, tualetai, moterims – asmens higienos patalpos.
+2. Įmonėse,
+kuriose naudojamos pavojingos medžiagos, sanitarinės bei asmens higienos
+patalpos įrengiamos laikantis specialių reikalavimų tokioms patalpoms įrengti.
+Reikalavimai tokioms sanitarinės bei asmens higienos patalpoms įrengti privalo
+būti nustatyti darbuotojų saugos ir sveikatos teisės aktuose, įvertinant darbo
+pobūdį, naudojamas medžiagas, darbuotojų skaičių. 
+3. Įmonės darbo
+medicinos punktai, maitinimo patalpos įmonėje įrengiami atsižvelgiant į
+darbuotojų skaičių pagal tokių patalpų įrengimo reikalavimus.
+4. Reikalavimus
+buities, sanitarinės ir higienos patalpoms įrengti nustato Sveikatos apsaugos
+ministerija ir Socialinės apsaugos ir darbo ministerija.
  
+27 straipsnis.
+Reikalavimai gyvenamosioms patalpoms 
+1. Darbdavio
+suteikiamos patalpos darbuotojams laikinai gyventi dėl darbo vietų kilnojamojo
+pobūdžio privalo tenkinti minimalius tokių patalpų buities ir higienos
+reikalavimus.
+2. Minimalius
+darbuotojų saugos ir sveikatos reikalavimus patalpoms, skirtoms laikinai
+apgyvendinti darbuotojus, nustato Socialinės apsaugos ir darbo ministerijos
+patvirtinti Darboviečių įrengimo statybvietėse nuostatai bei kiti teisės aktai,
+nustatantys sveikatos reikalavimus gyvenamosioms patalpoms.
  
-VII SKYRIUS. SAUGOS
-DARBE VERTINIMAS IR KOMPENSACIJOS
+IV SKYRIUS 
+DARBDAVIŲ BEI DARBUOTOJŲ PAREIGOS IR TEISĖS
  
-            66 straipsnis. Saugos darbe
-vertinimas
+pirmasis skirsnis 
+darbdavių pareigos ir teisės
  
-            Sauga darbe vertinama pagal
-tai, kaip darbo sąlygos (kenksmingų, pavojingų veiksnių dydžiai) atitinka
-saugos darbe norminių aktų reikalavimus.
+28 straipsnis.
+Darbdavio pareigos užtikrinant darbuotojų saugą ir sveikatą
+1. Darbdavys,
+vykdydamas savo įsipareigojimus: 
+1) užtikrina,
+kad įmonės statiniai, kuriuose įrengtos darbo vietos, darbo vietos, darbo
+priemonės, darbo aplinka atitiktų darbuotojų saugos ir sveikatos teisės aktų
+nustatytus reikalavimus;
+2) organizuoja
+darbuotojų saugos ir sveikatos apsaugos būklės įvertinimą ir priemonių jai
+gerinti parengimą bei įgyvendinimą, Įmonės darbuotojų saugos ir sveikatos
+būklės paso pildymą ir prireikus šio paso kasmetinį patikslinimą;
+3) įvertinęs
+darbuotojų saugos ir sveikatos apsaugos būklę įmonėje, sprendžia, kokias
+kolektyvines ir (ar) asmenines apsaugos priemones naudoti, aprūpina jomis
+įmonę, darbo vietas, darbuotojus, nustatyta tvarka organizuoja tokių priemonių
+patikrinimus, aprūpina darbuotojus saugiomis darbo priemonėmis, diegia saugius
+darbo bei technologijos procesus, pagal darbuotojų saugos ir sveikatos teisės
+aktų reikalavimus įrengia buities, sanitarines ir asmens higienos patalpas; 
+4) užtikrina,
+kad darbuotojai gautų visapusišką informaciją apie darbuotojų saugos ir
+sveikatos apsaugos organizavimą įmonėje, apie esančią ar galimą profesinę
+riziką, parengtas priemones rizikai šalinti ar išvengti, taip pat informaciją
+apie Valstybinės darbo inspekcijos atlikto įmonės inspektavimo rezultatus;
+5) tvirtina
+darbuotojų saugos ir sveikatos instrukcijas, darbuotojų pareigines instrukcijas
+ar valstybės tarnautojų pareigybių aprašymus, vykdo kolektyvinės sutarties
+įsipareigojimus dėl darbuotojų saugos ir sveikatos gerinimo; 
+6) organizuoja
+darbuotojų instruktavimą, mokymą ir jų saugaus darbo žinių tikrinimą,
+instruktuoja darbuotojus apie darbuotojų saugos ir sveikatos reikalavimus ir
+jiems privalomus vykdyti darbuotojų saugos ir sveikatos teisės aktus, įmonės
+darbuotojų saugos ir sveikatos norminius dokumentus – priimant į darbą,
+perkeliant į kitą darbą, pakeitus darbo organizavimą, pradėjus naudoti naujas
+ar modernizuotas darbo priemones, pradėjus naudoti naujas technologijas,
+pakeitus ar priėmus naujus darbuotojų saugos ir sveikatos teisės aktus, taip
+pat kitais darbuotojų saugos ir sveikatos teisės aktų numatytais atvejais; 
+7) sudaro
+sąlygas šio įstatymo 14, 15 straipsniuose numatytų įmonės darbuotojų saugos ir
+sveikatos tarnybos, įmonės darbuotojų saugos ir sveikatos komiteto veiklai;
+8) užtikrina šio
+įstatymo ir kitų darbuotojų saugos ir sveikatos teisės aktų nustatytą
+darbuotojų darbo ir poilsio režimą, organizuoja darbuotojų darbą pagal
+fiziologiškai pagrįstą darbo ir poilsio režimą, organizuoja darbuotojų dirbto
+darbo laiko apskaitos žiniaraščių pildymą;
+9) sudaro
+sąlygas privalomiems sveikatos patikrinimams, organizuoja pirmąją medicinos
+pagalbą ir medicinos paslaugas šio įstatymo 24, 32 straipsnių ir kitų teisės
+aktų nustatyta tvarka;
+10) perkelia
+darbuotojus (jų sutikimu) į kitą darbą, atsižvelgdamas į valstybinės socialinės
+medicinos ekspertizės komisijos arba sveikatos priežiūros įstaigos,
+patikrinusios darbuotojų sveikatą, išvadą;
+11) praneša
+Valstybinei darbo inspekcijai apie įmonės, jos padalinių eksploatavimo pradžią;
+
+12) nustatyta
+tvarka apdraudžia darbuotojus privalomu draudimu nuo nelaimingų atsitikimų
+darbe ir profesinių ligų;
+13)
+vadovaudamasis Vyriausybės patvirtintais Nelaimingų atsitikimų darbe tyrimo ir
+apskaitos nuostatais, Profesinių ligų tyrimo ir apskaitos nuostatais, praneša
+apie nelaimingus atsitikimus darbe, profesines ligas atitinkamoms valstybės
+institucijoms, sudaro sąlygas tirti nelaimingus atsitikimus darbe bei profesines
+ligas;
+14)
+kontroliuoja, kaip darbuotojai laikosi darbuotojų saugos ir sveikatos
+reikalavimų. 
+2. Darbdavys
+vykdo kitus įpareigojimus:
+1) Nelaimingų
+atsitikimų darbe tyrimo ir apskaitos nuostatų bei Profesinių ligų tyrimo ir
+apskaitos nuostatų nustatyta tvarka organizuoja nelaimingų atsitikimų darbe ir
+profesinių ligų registravimą, sudarant sąrašus darbuotojų, kurie dėl nelaimingų
+atsitikimų darbe ar susirgimų profesinėmis ligomis neteko darbingumo 3 dienoms
+ir ilgiau, taip pat sudarant sąrašus darbuotojų, kurie dėl nelaimingų
+atsitikimų darbe ar susirgimų profesinėmis ligomis neteko darbingumo mažiau nei
+3 dienoms, užtikrina incidentų, kurių metu darbuotojai nebuvo traumuoti,
+registravimą;
+2) darbuotojų
+prašymu nemokamai išduoda pažymas, susijusias su darbu bei darbo santykiais
+įmonėje. 
  
-            67 straipsnis. Darbo sąlygų klasifikavimas
-ir charakteristikos
+29 straipsnis.
+Darbdavių, padalinių vadovų atestavimas
+1. Kiekvieno
+darbdavio žinios iš darbuotojų saugos ir sveikatos srities privalomai
+tikrinamos prieš jam pradedant eksploatuoti įmonę ar teikti paslaugas ir vėliau
+ne rečiau kaip kas 5 metai Instruktavimo, mokymo, atestavimo darbuotojų saugos
+ir sveikatos klausimais nuostatų nustatyta tvarka.
+2. Atskirų
+ekonominės veiklos sričių darbdaviai (padalinių vadovai) gali būti atleidžiami
+nuo darbuotojų saugos ir sveikatos srities žinių patikrinimo (atestavimo).
+Tokių ekonominės veiklos sričių sąrašas ir darbdavio atleidimo nuo atestavimo
+tvarka nustatomi Instruktavimo, mokymo, atestavimo darbuotojų saugos ir
+sveikatos klausimais nuostatuose. Darbdavio atleidimas nuo atestavimo
+neatleidžia jo nuo atsakomybės už darbuotojų saugą ir sveikatą įmonėje.
+3. Padalinio
+vadovo žinios iš darbuotojų saugos ir sveikatos srities tikrinamos tokia pat
+tvarka kaip darbdavio, kuris yra įmonės atskiro struktūrinio padalinio, esančio
+kitoje negu įmonė teritorijoje ar vietovėje, vadovas ir kuris darbdavio
+pavedimu ir darbdavio kontroliuojamas organizuoja ir užtikrina darbuotojų
+saugos ir sveikatos reikalavimų bei priemonių įgyvendinimą tokiame įmonės
+padalinyje. 
+4. Ištyrus sunkų
+ar mirtiną nelaimingą atsitikimą darbe, profesinę ligą ir nustačius, kad
+darbdavys ar šio straipsnio 3 dalyje nurodytas padalinio vadovas visiškai
+nesusipažinęs arba nepakankamai susipažinęs su darbuotojų saugos ir sveikatos
+reikalavimais, arba nustačius, kad jis žinojo apie darbuotojų saugos ir
+sveikatos reikalavimų pažeidimus, bet nesiėmė priemonių jiems pašalinti,
+vyriausiasis valstybinis darbo inspektorius gali pareikalauti, kad darbdavys ar
+padalinio vadovas pakartotinai pasitikrintų darbuotojų saugos ir sveikatos srities
+žinias.
  
-            Darbo sąlygos
-klasifikuojamos taip:
-            1) optimalios darbo sąlygos
-- darbo aplinka, kurioje nėra kenksmingų ir pavojingų veiksnių, neigiamai
-veikiančių darbuotojų savijautą, darbingumą, sveikatą arba keliančių pavojų
-gyvybei;
-            2) normalios darbo sąlygos -
-kai darbo aplinkos veiksniai ir jų sumacijos dydžiai atitinka saugos darbe
-norminių aktų reikalavimus (higienos normas) ir paprastai nesukelia sveikatos
-sutrikimų (profesinių ligų);
-            3) pavojingos darbo sąlygos
-(pavojingas darbas) - rizikos laipsnį turintis darbas, t.y. kai galimas
-pavojingo, kenksmingo veiksnio, susijusio su darbo pobūdžiu, atsitiktinis arba
-anomaliai pasikeitusio kenksmingo veiksnio poveikis;
-            4) kenksmingos darbo sąlygos
-- kai darbo aplinkos vienas ar daugiau veiksnių arba jų sumacijų dydžiai ne
-visuomet viršija saugos darbe norminių aktų reikalavimus (higienos normas),
-kenkia sveikatai ir tam tikrais atvejais gali sukelti profesines ligas ir
-tokiomis sąlygomis dirbant naudojamos individualiosios saugos priemonės;
-            5) labai kenksmingos darbo
-sąlygos - kai darbo aplinkos vienas ar daugiau veiksnių arba jų sumacijų
-dydžiai nuolat viršija saugos darbe norminių aktų reikalavimus (higienos
-normas) ir yra pavojus susirgti profesine liga. Pamainos trukmė (darbas)
-tokiomis sąlygomis ribojama remiantis šio įstatymo 41 straipsnio 3 punktu, 48
-straipsniu, 59 straipsniu, o kai kuriais atvejais privalo būti trumpesnė kaip 7
-valandos ir nustatoma saugos darbe norminiuose aktuose. Dirbant tokiomis
-sąlygomis, naudojamos individualiosios saugos priemonės; dirbti, kai darbo
-aplinkos kenksmingi veiksniai viršija labai kenksmingų darbo sąlygų dydžius,
-draudžiama;
-            6) ekstremalios darbo
-sąlygos - kai dėl technologinių, darbo (gamybos) procesų sutrikimų, avarijų,
-neprognozuotų gamtos ar kitų reiškinių pavojingų ir kenksmingų darbo aplinkos
-veiksnių dydžiai staiga padidėja ir dėl to galimi ūmūs apsinuodijimai, fiziniai
-sveikatos sužalojimai. Žmonių veiklą tokiomis sąlygomis reglamentuoja Lietuvos
-Respublikos Vyriausybės patvirtinti pramoninių avarijų prevencijos ir
-likvidavimo nuostatai, kiti norminiai aktai.
-            Darbo aplinkos kenksmingumo
-(sunkumo), pavojingumo rodiklius nustato saugos darbe, darbo higienos norminiai
+30 straipsnis.
+Darbuotojų instruktavimas ir mokymas 
+1. Darbdavys
+negali reikalauti, kad darbuotojas pradėtų darbą įmonėje, jeigu jis neapmokytas
+ir (ar) neinstruktuotas saugiai dirbti. 
+2. Darbdaviai
+privalo instruktuoti darbuotojus jų saugos ir sveikatos klausimais šio įstatymo
+28 straipsnio 1 dalies 6 punkte nustatytais atvejais. 
+3. Darbdavys
+užtikrina, kad darbuotojas, pasiųstas į įmonę iš bet kurios kitos įmonės,
+nepradėtų darbo tol, kol jis neinformuotas apie esančius ir galimus rizikos veiksnius
+įmonėje, neinstruktuotas ir neapmokytas saugiai dirbti konkrečioje darbo
+vietoje, nepaisant to, kad įmonėje, kurioje jis nuolat dirba, buvo nustatyta
+tvarka instruktuotas ir apmokytas saugiai dirbti. 
+4. Valdyti
+potencialiai pavojingus įrenginius, vykdyti nuolatinę privalomą priežiūrą jų
+eksploatavimo metu leidžiama darbuotojams, įgijusiems specialių žinių ir
+išlaikiusiems tokių žinių patikrinimo egzaminą Instruktavimo, mokymo ir
+atestavimo darbuotojų saugos ir sveikatos klausimais nuostatų nustatyta tvarka.
+
+5. Darbuotojų,
+dirbančių pavojingus darbus, kurių sąrašą tvirtina Vyriausybė, išskyrus
+darbuotojus, naudojančius potencialiai pavojingus įrenginius, instruktavimo,
+mokymo ir žinių patikrinimo tvarką įmonėje nustato darbdavys.
+6. Darbuotojų
+saugos ir sveikatos instrukcijų, pagal kurias instruktuojami darbuotojai,
+rengimo ir darbuotojų instruktavimo tvarką nustato Valstybinė darbo inspekcija.
+ 
+31 straipsnis.
+Darbuotojų aprūpinimas saugos ir sveikatos priemonėmis
+1. Darbdavys,
+vadovaudamasis darbuotojų saugos ir sveikatos teisės aktais ir įvertinęs
+darbuotojų saugos ir sveikatos būklę įmonėje, įrengia kolektyvines saugos
+priemones, nemokamai darbuotojams duoda asmenines apsaugos priemones.
+2. Kolektyvinių
+darbuotojų saugos ir sveikatos priemonių įrengimas darbo vietose ir (ar) darbo
+patalpose numatomas darbo ar gamybos technologinių procesų projektavimo metu,
+įvertinant darbo ar gamybos procesuose numatomas naudoti medžiagas, darbo
+priemones ir galimus rizikos veiksnius.
+3. Jei
+kolektyvinės apsaugos priemonės neužtikrina darbuotojų apsaugos nuo rizikos
+veiksnių, darbuotojams privalo būti išduotos asmeninės apsaugos priemonės.
+Asmeninės apsaugos priemonės turi būti pritaikytos darbui, patogios naudoti ir
+neturi sudaryti papildomų pavojų darbuotojų saugai. Reikalavimus asmeninių
+apsaugos priemonių projektavimui, gamybai, jų atitikties įvertinimui nustato
+reglamentai, standartai, normos, kiti darbuotojų saugos ir sveikatos teisės
 aktai.
+4. Darbdavys
+organizuoja asmeninių apsaugos priemonių laikymą, džiovinimą, skalbimą, valymą,
+taisymą, tikrinimą pagal tvarką, nustatytą konkrečios asmeninės apsaugos
+priemonės dokumentuose, kuriuos pateikia asmeninės apsaugos priemonės
+gamintojas kartu su priemone.
+5. Jeigu darbai
+yra susiję su užteršimu, darbuotojams nemokamai turi būti duodamos asmens
+higienos priemonės (muilas, rankšluosčiai ir kita).
+6. Projektuojant
+darbo ar gamybos technologinius procesus, įvertinus cheminių medžiagų ar
+preparatų, kurie bus naudojami gamyboje, savybes, privalo būti numatytos
+kenksmingumo pašalinimo priemonės. Kai įmonėje pradedamos naudoti naujos
+cheminės medžiagos ar preparatai, darbdavys, vadovaudamasis cheminės medžiagos
+saugos duomenų lapo informacija apie pavojingas medžiagas ar preparatus,
+privalo išduoti atitinkamas asmenines apsaugos bei kenksmingumo pašalinimo
+priemones. 
+7. Darbuotojų
+aprūpinimo asmeninėmis apsaugos priemonėmis nuostatus tvirtina Socialinės
+apsaugos ir darbo ministerija.
  
-            68 straipsnis. Darbo sąlygų
-vertinimas
+32 straipsnis.
+Medicinos paslaugų organizavimas
+1. Darbdavys
+privalo užtikrinti darbuotojams pirmąją medicinos pagalbą ir, jeigu reikia,
+iškviesti greitąją medicinos pagalbą nelaimingų atsitikimų darbe, ūmių
+susirgimų darbe atvejais.
+2. Darbdavys ar
+padalinio vadovas organizuoja darbuotojų, susirgusių darbo vietoje arba
+nukentėjusių nuo traumų, gabenimą į sveikatos priežiūros įstaigas, kai nebūtina
+kviesti greitosios medicinos pagalbos. 
+3. Medicinos
+paslaugų teikimo darbuotojams tvarką įmonėje nustato Įmonių darbuotojų saugos
+ir sveikatos tarnybų nuostatai, nurodyti šio įstatymo 14 straipsnio 2 dalyje.
  
-            Darbdaviai privalo
-užtikrinti darbo sąlygų vertinimą darbo vietose. Kiekvienai darbo vietai
-(vienodoms darbo vietoms) turi būti pildomas darbo sąlygų būklės pasas, pagal
-kurį numatomos priemonės darbo sąlygoms gerinti.
-            Darbo sąlygos vertinamos
-Lietuvos Respublikos Vyriausybės nustatyta tvarka .
-            Darbo sąlygų vertinimo
-nustatytos tvarkos pažeidimas užtraukia darbdaviams Lietuvos Respublikos
-įstatymuose nustatytą atsakomybę.
-Straipsnio
-pakeitimai:
-Nr.
-I-1326,
-96.05.07, Žin., 1996, Nr. 50-1195 (96.05.29) 
+33
+straipsnis. Darbdavio pareiga perkelti darbuotoją dėl sveikatos būklės į kitą 
+darbą
+1. Darbuotojas,
+kuris pagal valstybinės socialinės medicinos ekspertizės komisijos ar sveikatos
+priežiūros įstaigos išvadą dėl sveikatos būklės negali dirbti sutarto darbo
+(eiti pareigų), nes tai pavojinga jo sveikatai arba jo darbas gali būti
+pavojingas kitiems, jo sutikimu turi būti perkeltas į jo sveikatą ir, esant
+galimybei, kvalifikaciją atitinkantį darbą.
+2. Jeigu
+darbuotojas nesutinka būti perkeltas į siūlomą darbą arba įmonėje nėra darbo, į
+kurį jis galėtų būti perkeltas, darbdavys atleidžia darbuotoją iš darbo
+įstatymų nustatyta tvarka, išskyrus atvejį, numatytą šio straipsnio 3 dalyje.
+3. Jeigu
+darbuotojo sveikata pablogėjo dėl darbo šioje įmonėje (negali dirbti ankstesnio
+darbo dėl traumos, profesinės ligos, kitokio sveikatos pakenkimo) ir jei nėra
+galimybės jį perkelti į kitą darbą, atitinkantį jo sveikatą ir esant galimybei
+kvalifikaciją, nes įmonėje nėra darbo, kurį darbuotojas pagal savo sveikatos galimybes
+galėtų dirbti, jam mokama įstatymų nustatyto dydžio ligos pašalpa, kol bus
+gauta valstybinės socialinės medicinos ekspertizės komisijos išvada dėl
+darbuotojo darbingumo. Darbuotoją pripažinus invalidu, pagal
+įstatymą jam atlyginama sveikatai padaryta žala. Darbuotojas gali būti
+atleistas iš darbo įstatymų nustatyta tvarka, jeigu jis atsisako būti perkeltas
+į kitą jo sveikatą, fizines galimybes ir kvalifikaciją atitinkantį darbą. 
  
+34
+straipsnis. Dviejų ir daugiau darbdavių pareigos organizuojant darbus toje 
+pačioje
+įmonėje, darbo vietoje
+Du ir daugiau
+darbdavių, atlikdami darbus toje pačioje įmonėje, įmonės padalinyje ar darbo
+vietoje, organizuoja darbą taip, kad būtų garantuota visų darbuotojų sauga ir
+sveikata, neatsižvelgiant į tai, kurio darbdavio žinioje darbuotojas dirba.
+Darbdaviai, siekdami apsaugoti darbuotojus nuo nelaimingų atsitikimų darbe ir
+profesinių ligų, koordinuoja savo veiksmus ir informuoja vienas kitą bei
+darbuotojus apie darbe galimus pavojus ir profesinę riziką. 
  
-            69 straipsnis. Kompensacijos
-ir garantijos dirbantiesiems kenksmingomis, pavojingomis 
+35 straipsnis.
+Darbdavių teisės
+Kad būtų
+užtikrinta darbuotojų sauga ir sveikata, darbdaviai turi teisę:
+1) leisti
+įsakymus ir potvarkius dėl darbuotojų saugos ir sveikatos įmonėje ir
+reikalauti, kad darbuotojai dirbdami rūpintųsi savo pačių, taip pat kitų
+darbuotojų sauga ir sveikata, vykdytų jiems privalomų įmonės darbuotojų saugos
+ir sveikatos norminių dokumentų, kuriuos vykdyti jie buvo darbdavio apmokyti ir
+(ar) instruktuoti, reikalavimus ir laikytųsi darbo bei technologinių procesų
+reglamentų, šio įstatymo ir kitų darbuotojų saugos ir sveikatos teisės aktų
+nustatytų darbo ir poilsio laiko normų;
+2) darbuotojams,
+pažeidusiems įmonės darbuotojų saugos ir sveikatos norminių dokumentų
+reikalavimus, skirti drausmines, tarnybines nuobaudas, įstatymų nustatyta
+tvarka reikalauti atlyginti pažeidimu padarytą žalą įmonei;
+3) neleisti
+darbuotojui dirbti tą dieną (pamainą), kai jis darbe neblaivus, apsvaigęs nuo
+narkotinių ar toksinių medžiagų;
+4) atleisti iš
+darbo darbuotoją Darbo sutarties įstatymo nustatyta tvarka, kai jis pažeidžia
+darbuotojų saugos ir sveikatos teisės aktų ar įmonės darbuotojų saugos ir
+sveikatos norminių dokumentų nustatytus reikalavimus, kuriuos vykdyti
+darbuotojas buvo apmokytas ir (ar) instruktuotas, jei prieš tai jam nors
+vieną kartą per paskutinius 12 mėnesių buvo taikytos drausminės nuobaudos;
+5) įstatymų
+nustatyta tvarka reikalauti iš kitų įmonių (darbdavių) atlyginti nuostolius,
+patirtus dėl to, kad įsigytos darbo priemonės, darbo vietų, darbo priemonių
+projektai neatitiko darbuotojų saugos ir sveikatos teisės aktų reikalavimų;
+6) gauti iš
+darbuotojų saugos ir sveikatos valstybės institucijų informaciją darbuotojų
+saugos ir sveikatos klausimais;
+7) gauti
+Valstybinės darbo inspekcijos atlikto įmonės inspektavimo medžiagą ir su ja
+susipažinti;
+8) siūlyti
+nustatyti įmonėje griežtesnius darbuotojų saugos ir sveikatos reikalavimus,
+negu numatyta darbuotojų saugos ir sveikatos teisės aktuose. Griežtesni
+darbuotojų saugos ir sveikatos reikalavimai įmonėje įteisinami kolektyvinėse
+sutartyse, kolektyviniuose susitarimuose; 
+9) pavesti
+įmonės darbuotojų saugos ir sveikatos specialistams, padalinių vadovams vykdyti
+atskiras užduotis, susijusias su darbuotojų sauga ir sveikata. 
+ 
+36
+straipsnis. Darbuotojų saugos ir sveikatos priemonių įgyvendinimo pavedimas 
+įmonės
+darbuotojams
+Įgyvendinti
+darbuotojų saugos ir sveikatos priemones darbdavys gali pavesti įmonės
+darbuotojų saugos ir sveikatos specialistams, įmonės darbuotojų saugos ir
+sveikatos tarnybos darbuotojams, padalinių vadovams. Pavedimas įgyvendinti
+darbuotojų saugos ir sveikatos priemones turi būti nurodomas darbo sutartyje
+arba pareiginėje instrukcijoje. 
+ 
+antrasis skirsnis
+darbuotojo pareigos ir teisės
+ 
+37 straipsnis.
+Darbuotojo pareigos 
+1. Kiekvieno
+darbuotojo pareiga yra vykdyti įmonės darbuotojų saugos ir sveikatos norminių
+dokumentų reikalavimus ir kaip galima labiau rūpintis savo ir kitų darbuotojų
+sauga ir sveikata vadovaujantis savo žiniomis ir darbdavio duotais nurodymais.
+Darbuotojai, rūpindamiesi savo ir kitų darbuotojų sauga ir sveikata, privalo:
+1) darbo
+priemones naudoti pagal darbo priemonių dokumentuose, darbuotojų saugos ir
+sveikatos instrukcijose nurodytus jų saugaus naudojimo reikalavimus;
+2) tinkamai
+naudoti kolektyvines ir (ar) asmenines apsaugos priemones;
+3) savavališkai
+neišjungti, nekeisti arba nešalinti naudojamose darbo priemonėse ar kituose
+įrengimuose, pastatuose, kitose įmonės vietose įrengtų darbuotojų saugos ir
+sveikatos apsaugos įtaisų (priemonių), naudoti tokius įtaisus tinkamai ir apie
+jų gedimus pranešti darbuotojų atstovui, padalinio vadovui, darbdaviui;
+4) nedelsdami
+informuoti darbdavį, padalinio vadovą, darbuotojų atstovą, darbuotojų saugos ir
+sveikatos tarnybą, įmonės darbuotojų saugos ir sveikatos komitetą apie
+situaciją darbo vietose, darbo patalpose ar kitose įmonės vietose, kuri, jų
+įsitikinimu, gali kelti pavojų darbuotojų saugai ir sveikatai, taip pat
+informuoti padalinio vadovą ir darbdavį apie darbuotojų saugos ir sveikatos
+reikalavimų pažeidimus, kurių patys pašalinti negali arba neprivalo;
+5)
+bendradarbiauti su darbuotojų atstovais, įmonės darbuotojų saugos ir sveikatos
+tarnybos darbuotojais, padalinio vadovu, darbdaviu įgyvendindami darbuotojų
+saugos ir sveikatos reikalavimus ir priemones;
+6) imtis
+priemonių pagal galimybes bei turimas žinias pašalinti priežastis, galinčias
+sukelti traumas, ūmius apsinuodijimus, avarijas, apie tai nedelsiant informuoti
+padalinio vadovą ir darbdavį;
+7) informuoti
+padalinio vadovą ir darbdavį apie darbo metu gautas traumas, kitus su
+darbu susijusius sveikatos sutrikimus;
+8) pasitikrinti
+sveikatą šio įstatymo 24 straipsnio nustatyta tvarka;
+9) vykdyti
+teisėtus darbdavio, padalinio vadovo bei pareigūnų, kontroliuojančių darbuotojų
+saugą ir sveikatą įmonėje, nurodymus.
+2. Konkrečios
+darbuotojų pareigos saugant savo ir kitų darbuotojų sveikatą bei gyvybę
+nustatomos: darbuotojams, dirbantiems su darbo priemonėmis, – darbuotojų saugos
+ir sveikatos instrukcijose, kitiems įmonėms darbuotojams – pareiginėse
+instrukcijose. 
+ 
+38 straipsnis.
+Darbuotojo teisės
+Darbuotojas turi
+teisę:
+1) reikalauti,
+kad darbdavys užtikrintų darbuotojų saugą ir sveikatą, įrengtų kolektyvinės
+apsaugos priemones, aprūpintų asmeninėmis apsaugos priemonėmis;
+2) sužinoti iš
+padalinio vadovo, darbdavio apie darbo aplinkoje esančius sveikatai kenksmingus
+ir (ar) pavojingus veiksnius;
+3) susipažinti
+su išankstinių ir periodinių sveikatos tikrinimų rezultatais; jei nesutinka su
+patikrinimo rezultatais, sveikatą pasitikrinti pakartotinai;
+4) pats tartis
+su darbdaviu dėl darbuotojų saugos ir sveikatos gerinimo arba tam įgalioti
+darbuotojų atstovą;
+5) atsisakyti
+dirbti, jeigu yra pavojus darbuotojų saugai ir sveikatai, kaip numatyta šio
+įstatymo 25 straipsnio 6 ir 9 dalyse;
+6) įstatymų nustatyta
+tvarka reikalauti, kad būtų atlyginta žala, padaryta sveikatai dėl nesaugių
+darbo sąlygų;
+7) iškilus
+klausimams dėl saugos ir sveikatos, kreiptis į darbuotojų atstovą, padalinio
+vadovą, darbdavį, įmonės darbuotojų saugos ir sveikatos tarnybą, įmonės
+darbuotojų saugos ir sveikatos komitetą, Valstybinę darbo inspekciją ar kitą
+valstybės instituciją.
+ 
+39
+straipsnis. Darbuotojo atsisakymo dirbti dėl saugos ir sveikatos neužtikrinimo 
+nagrinėjimo
+tvarka
+1. Pavojaus
+saugai ir sveikatai atvejais, numatytais šio įstatymo 25 straipsnio 9 dalyje,
+darbuotojas turi teisę nutraukti darbą ir nedelsdamas raštu pranešti darbdaviui
+atsisakymo dirbti priežastis.
+2. Jei darbdavys
+nesutinka su darbuotojo motyvais dėl darbuotojų saugos ir sveikatos
+neužtikrinimo, ginčai dėl darbuotojo atsisakymo dirbti nagrinėjami įstatymų
+nustatyta tvarka. 
+3. Nepagrįstas
+atsisakymas dirbti laikomas darbo drausmės pažeidimu.
+4. Už laiką,
+kurį darbuotojas pagrįstai atsisakė dirbti, darbuotojui mokamas vidutinis darbo
+užmokestis. Darbuotojui atsisakius dirbti nepagrįstai, už nedirbtą laiką
+nemokama. 
+ 
+II DALIS
+DARBO IR POILSIO
+ORGANIZAVIMAS
+ 
+V skyrius
+Darbo ir poilsio laikas
+ 
+40 straipsnis.
+Darbo laiko trukmė
+1. Normali
+darbuotojų, tarp jų pamaininių darbuotojų, darbo laiko trukmė (toliau – darbo
+laikas) įmonėse negali būti ilgesnė kaip 40 darbo valandų per savaitę (7 dienų
+laikotarpį). Vidutinis maksimalus darbo laikas kartu su viršvalandžiais 7 dienų
+laikotarpiu neturi viršyti 48 valandų.
+2. Darbo dienos
+arba pamainos (toliau – darbo dienos) trukmė kartu su pertrauka pailsėti ir
+pavalgyti nustatoma pagal darbo dienų skaičių per 7 dienų savaitę.
+3. Darbo dienos
+trukmė kartu su pertrauka pailsėti ir pavalgyti tais atvejais, kurie yra
+numatyti šio įstatymo 44 straipsnyje ir 48 straipsnio 3 dalyje, negali būti
+ilgesnė kaip 12 valandų per parą (24 valandų laikotarpį).
+4. Išimtiniais atvejais
+tam tikrų kategorijų (gydymo, socialinės globos, vaikų auklėjimo įstaigų bei
+energetikos ir ryšių specializuotų tarnybų, taip pat avarijų likvidavimo
+specializuotų tarnybų ir kt.) darbuotojams, budėtojams patalpose darbo laikas
+per parą gali būti ilgesnis, negu nustatyta šio straipsnio 3 dalyje. Tokiu
+atveju vidutinis savaitės darbo laikas per 7 dienų laikotarpį neturi viršyti 48
+valandų, o poilsio tarp darbo dienų laikas privalo būti ne trumpesnis kaip 24
+valandos. Darbų, kuriems taikomi šie darbo ir poilsio režimai, sąrašą tvirtina
+Vyriausybė.
+5. Darbuotojams,
+dirbantiems ne vienoje darbovietėje arba vienoje darbovietėje, bet pagal dvi ar
+daugiau darbo sutarčių, darbo dienos trukmė (kartu su pertrauka pailsėti ir
+pavalgyti) negali būti ilgesnė kaip 12 valandų.
+ 
+41 straipsnis. Sutrumpintas
+darbo laikas
+1.
+Sutrumpintas darbo laikas nustatomas:
+1) paaugliams –
+ne daugiau kaip 8 valandos per parą kartu su kasdiene pamokų trukme ir ne
+daugiau kaip 40 valandų per savaitę kartu su pamokų trukme per savaitę;
+2) vaikams – iki
+2 valandų mokslo metų laiku ir 12 valandų per savaitę, jeigu dirbama trimestro
+arba pusmečio metu, tačiau ne tada, kai mokykloje vyksta pamokos, arba 7
+valandos per dieną ir 35 valandos per savaitę, kai dirbama ne mažiau kaip
+savaitę ne mokslo metų laiku (šis darbo laikas gali būti pailgintas iki 8
+valandų per dieną ir 40 valandų per savaitę vaikams, kuriems sukako 15 metų); 
+3) darbuotojams,
+dirbantiems darbo aplinkoje, kurioje sveikatai kenksmingų veiksnių dydžiai
+viršija darbuotojų saugos ir sveikatos teisės aktų nustatytus leistinus
+ribinius dydžius (kiekius) ir kai techninėmis ar kitomis priemonėmis jų kiekio
+darbo aplinkoje sumažinti iki sveikatai nekenksmingų dydžių neįmanoma, darbo
+laikas nustatomas atsižvelgiant į darbo aplinką. Sutrumpinto darbo laiko
+nustatymo kriterijus ir tvarką tvirtina Sveikatos apsaugos ministerija ir
+Socialinės apsaugos ir darbo ministerija;
+4) neįgaliems
+asmenims – pagal valstybinės socialinės medicinos ekspertizės komisijos išvadą.
+2. Į šio
+straipsnio 1 dalies 1 ir 2 punktuose nurodytą maksimalų darbo laiką jauniems
+asmenims, dirbantiems pagal sudėtinę darbo ir mokymo programą, įeina darbo
+laikas įmonėje ir mokymo laikas mokykloje. 
+3. Kai kurių
+kategorijų darbuotojams, kurių darbo pobūdis yra susijęs su didesne protine,
+emocine įtampa, sutrumpintą darbo laiką nustato Socialinės apsaugos ir darbo
+ministerija ir Sveikatos apsaugos ministerija.
+ 
+42
+straipsnis. Darbo dienų skaičius per savaitę, darbo pradžios, pabaigos,
+pertraukų 
+nustatymas
+1. Darbo dienų
+skaičius per savaitę ir darbo dienos pradžia, pabaiga, pertraukos pailsėti ir
+pavalgyti, papildomos ir specialios pertraukos nustatomos įmonės darbo
+grafikuose. Šie grafikai tvirtinami kolektyvinėje sutartyje nustatyta tvarka.
+Jeigu įmonėje kolektyvinė sutartis nesudaroma, darbo grafiką tvirtina
+darbdavys. Dirbant pamainomis, privalo būti garantuotas tolygus pamainų
+keitimasis. Darbo ir poilsio organizavimo tvarka įmonėje nustatoma Įmonės
+darbuotojų saugos ir sveikatos būklės pase, nurodytame šio įstatymo 22 straipsnio
+2 dalies 2 punkte.
+2. Darbuotojams
+nustatoma 5 darbo dienų savaitė su 2 poilsio dienomis.
+3. Įmonėse,
+kuriose dėl gamybos pobūdžio ar kitų sąlygų 5 darbo dienų savaitė neįmanoma,
+nustatoma 6 darbo dienų savaitė su 1 poilsio diena.
+4. Esant 6 darbo
+dienų savaitei, darbo laikas negali trukti ilgiau kaip 7 valandas, kai savaitės
+darbo laiko norma – 40 valandų. 
+5. Darbo
+grafikai paskelbiami viešai įmonių ir jų padalinių informaciniuose stenduose ne
+vėliau kaip prieš 2 savaites iki šių grafikų įsigaliojimo.
+ 6. Darbdavys,
+kurio įmonėje dirba daugiau negu 50 darbuotojų, ne vėliau kaip prieš 2 savaites
+informuoja savivaldybės instituciją apie savivaldybėje esančios įmonės darbo
+grafiko pakeitimą.
+7. Darbuotojų
+dirbtas darbo laikas ir viršvalandžiai žymimi Statistikos departamento prie
+Lietuvos Respublikos Vyriausybės ir Valstybinės darbo inspekcijos nustatytos
+formos žiniaraščiuose.
+8. Darbo laiko
+pradžią ir pabaigą valstybės ir savivaldybių institucijoms, nepažeidžiant šio
+įstatymo nustatytos vidutinės darbo kartu su viršvalandžiais laiko trukmės,
+nurodytos šio įstatymo 40 straipsnio 1 dalyje, taip pat paros poilsio laiko
+trukmės, nurodytos šio įstatymo 53 straipsnio 2 dalyje, bei savaitės poilsio
+laiko trukmės, nurodytos šio įstatymo 54 straipsnio 1 dalyje, nustato
+Vyriausybė ar jos įgaliota institucija.
+ 
+43
+straipsnis. Draudimas dirbti švenčių dienomis, darbo laikas švenčių ir poilsio 
+dienų
+išvakarėse
+1. Įmonėse
+nedirbama Švenčių dienų įstatymo nustatytomis švenčių dienomis.
+2. Švenčių
+dienomis leidžiama dirbti tokius darbus, kurių negalima sustabdyti dėl
+gamybinių ir (ar) techninių sąlygų. Darbų, kurie gali būti dirbami švenčių
+dienomis, sąrašą tvirtina Socialinės apsaugos ir darbo ministerija. 
+3. Švenčių dienų
+išvakarėse darbuotojų, išskyrus nurodytus šio įstatymo 41 straipsnyje, darbo
+laikas sutrumpinamas 1 valanda, kai dirbama 5 arba 6 darbo dienų savaitę.
+Atsižvelgiant į darbo grafiką, įmonių, nurodytų šio įstatymo 55 ir 56
+straipsniuose, darbuotojams darbo laikas švenčių dienų išvakarėse gali būti netrumpinamas.
+
+4. Poilsio dienų
+išvakarėse, kai dirbama 6 darbo dienų savaitę, darbo laikas neturi trukti
+ilgiau kaip 5 valandas. 
+ 
+44 straipsnis.
+Suminė darbo laiko apskaita
+1.
+Nepertraukiamai dirbančiose įmonėse, taip pat atskiruose cechuose, baruose, darbuose,
+kur yra pertraukiamas darbo dienos režimas, ir darbuose, kur dėl gamybinių,
+techninių ir kitų sąlygų negalima taikyti konkrečiai darbuotojų kategorijai ar
+darbams nustatytos dienos ar savaitės darbo laiko trukmės, gali būti įvedama
+suminė darbo laiko apskaita. Įvedus suminę darbo laiko apskaitą, privalo būti
+garantuota, kad vidutinė maksimali savaitės darbo laiko trukmė per 4 mėnesių
+suminės darbo laiko apskaitos laikotarpį neviršytų 48 valandų per savaitę ir 12
+valandų per darbo dieną. Viršijus vidutinę maksimalią savaitės darbo laiko
+trukmę, nurodytą šio įstatymo 40 straipsnio 1 dalyje, darbuotojui suteikiamas
+poilsio laikas, kaip nustatyta šio straipsnio 3 dalyje.
+2. Esant suminei
+darbo laiko apskaitai, privalo būti garantuota šio įstatymo nustatyta paros bei
+savaitės nepertraukiamo poilsio trukmė. 
+3. Kai įvedus
+suminę darbo laiko apskaitą viršijamas šio įstatymo 40 straipsnio 1 dalyje
+nustatytas vidutinis maksimalus darbo laikas per savaitę, darbuotojams per 4
+savaites privalo būti suteikiamas tokios trukmės poilsio laikas, kiek per 4
+paeiliui einančias savaites buvo viršytas vidutinis maksimalus darbo laikas per
+savaitę.
+4. Darbus,
+sąlygas, kurioms esant gali būti įvesta suminė darbo laiko apskaita, suminės
+darbo laiko apskaitos įvedimo įmonėse tvarką nustato Socialinės apsaugos ir
+darbo ministerija.
+5. Šio
+straipsnio nuostatos gali būti taikomos ekonominės veiklos sritims, nurodytoms
+šio įstatymo 57 straipsnyje.
+ 
+45 straipsnis.
+Darbas naktį 
+1. Darbas naktį
+apima laiką atitinkamai nuo 10 valandos vakaro iki 6 valandos ryto. Naktinių
+pamainų darbuotojų darbo laikas neturi viršyti 8 valandų per parą.
+2. Sutrumpinti
+nakties darbo laiką gali būti numatyta kolektyviniuose susitarimuose ir
+kolektyvinėse sutartyse, o jeigu jų nėra, – darbo sutartyse ir šio įstatymo 41
+straipsnio 1 dalies 3 punkte.
+3. Draudžiama
+skirti darbui naktį jaunus asmenis, nėščias moteris ir asmenis, kuriems pagal
+valstybinės socialinės medicinos ekspertizės komisijos ar medicinos įstaigos
+išvadą darbas naktį draudžiamas. 
+4. Skirti dirbti
+nakties metu be darbuotojo sutikimo neleidžiama:
+1) neseniai
+pagimdžiusias, krūtimi maitinančias moteris, taip pat asmenis, auginančius
+vaiką ar vaikus iki 3 metų;
+2)
+darbuotoją, kuris vienas (tėvas arba motina) augina ar globoja (globėjas) vaiką
+iki 14 metų;
+3) neįgalų
+asmenį pagal valstybinės socialinės medicinos ekspertizės komisijos išvadas.
+5. Darbuotojų,
+dirbančių naktį, sveikata nemokamai tikrinama šio įstatymo 24 straipsnio 3
+dalyje nurodyta tvarka, taip pat darbuotojo pageidavimu (jam turint
+nusiskundimų dėl naktinio darbo). Jeigu nustatoma, kad darbas naktį pakenkė
+darbuotojo sveikatai, darbdavys, vadovaudamasis medicinos išvada, privalo
+perkelti darbuotoją dirbti dienos metu.
+ 
+46 straipsnis.
+Ne visas darbo laikas 
+1. Darbuotojui,
+susitarus su darbdaviu, gali būti nustatoma ne visa darbo diena arba ne visa
+darbo savaitė.
+2. Darbdavys
+privalo nustatyti ne visos darbo dienos arba ne visos darbo savaitės darbo
+grafiką, jeigu to pageidauja: nėščia, krūtimi maitinanti ar neseniai
+pagimdžiusi moteris; moteris, turinti vaiką (vaikų) iki 14 metų arba neįgalų
+vaiką iki 16 metų; tėvas, vienas auginantis vaiką (vaikus) iki 14 metų arba
+neįgalų vaiką iki 16 metų, taip pat globėjas ar globėja, auginantys tokio pat
+amžiaus vaiką (vaikus); neįgalus asmuo; asmuo, slaugantis sergantį šeimos narį
+ir pateikęs darbdaviui medicinos įstaigos išvadą dėl būtinumo dirbti ne visą
+darbo laiką bei laikotarpio, kurį taikytinas darbas ne visą darbo laiką. 
+3. Ne viso darbo
+laiko nustatymo tvarką šio straipsnio 2 dalyje nurodytiems asmenims ir kitiems
+darbuotojams nustato Vyriausybė. 
+4. Darbuotojų,
+dirbančių ne visą darbo laiką, darbas apmokamas proporcingai dirbtam laikui
+arba pagal atliktą darbą. Darbas ne visą darbo laiką neapriboja darbuotojų
+teisių nustatant jiems kasmetinių atostogų trukmę, apskaičiuojant darbo stažą
+įmonėje, taikant kitas darbo įstatymų nustatytas garantijas.
+ 
+47 straipsnis.
+Budėjimas įmonėje arba namuose
+1. Ypatingais
+atvejais, kai reikia užtikrinti įmonėje vidaus darbo tvarką ar atlikti
+neatidėliotinus darbus, darbdavys gali pavesti darbuotojui ne dažniau kaip
+kartą per mėnesį, o jei darbuotojas sutinka, – ne dažniau kaip kartą per
+savaitę budėti įmonėje arba namuose pasibaigus darbo dienai, taip pat budėti
+įmonėje arba namuose poilsio ar Švenčių dienų įstatymo nustatytų švenčių
+dienomis.
+2. Budėjimo
+laikas įmonėje arba namuose kartu su darbo laiku (kai budima pasibaigus darbo
+dienai) negali viršyti 8 valandų. Budėjimo laikas poilsio ar Švenčių dienų
+įstatymo nustatytų švenčių dienomis įmonėje arba namuose negali viršyti 8
+valandų per parą. Budėjimas įmonėje prilyginamas darbo laikui, budėjimas
+namuose – ne mažiau kaip pusei darbo laiko įmonėje.
+3. Už budėjimą
+įmonėje arba namuose, kai viršijamas normalus darbo laikas, nurodytas šio
+įstatymo 40 straipsnio 1 dalyje, per kalendorinį mėnesį po budėjimo privalo
+būti suteikiamas laisvalaikis tokios pat trukmės kaip budėjimas įmonėje ar
+darbo laikui prilygintas budėjimo laikas (budint namuose). Darbuotojo
+pageidavimu šis laikas, kai budint viršijamas normalus darbo laikas, gali būti
+pridedamas prie kasmetinių atostogų arba už jį mokama atitinkamai kaip už
+viršvalandinį darbą arba darbą poilsio ar švenčių dienomis įstatymų nustatyta
+tvarka.
+4. Budėti
+įmonėje arba namuose negali būti skiriamos nėščios, krūtimi maitinančios ar
+neseniai pagimdžiusios moterys, neįgalūs ar jauni asmenys. Motina, turinti
+vaiką iki 14 metų, tėvas, vienas auginantis vaiką iki 14 metų, taip pat neįgalų
+asmenį slaugantis asmuo budėti įmonėje arba namuose gali būti skiriamas tik jų
+sutikimu.
+ 
+48 straipsnis.
+Viršvalandinis darbas
+1.
+Viršvalandiniu laikomas darbas, kurį darbuotojai dirba viršydami šio įstatymo
+40 straipsnio 1 dalyje nustatytą normalų 40 valandų per savaitę darbo laiką.
+2.
+Viršvalandiniu darbu nelaikomas šio įstatymo 40 straipsnio 4 dalyje nurodytų
+darbuotojų darbas. Viršvalandiniu darbu taip pat nelaikomas politinio
+(asmeninio) pasitikėjimo valstybės tarnautojų, ūkininkų šeimos narių darbas
+viršijant šio įstatymo 40 straipsnio 1 dalyje nustatytą normalų darbo laiką.
+3. Darbdavys
+turi teisę organizuoti darbuotojams, išskyrus darbuotojus, išvardytus šio
+įstatymo 45 straipsnio 3 dalyje, viršvalandinį darbą darbo, poilsio ir švenčių
+dienomis:
+1) kai dirbami
+krašto apsaugai būtini darbai arba kai reikia užkirsti kelią nelaimėms ar
+pavojams;
+2) kai dirbami
+visuomenei būtini darbai (šalinami avarijos, gaisro ar kitų įvykių padariniai);
+3) kai būtina
+užbaigti pradėtą darbą, kurio dėl nenumatytos ar atsitiktinės priežasties
+nebuvo galima baigti per normalią darbo trukmę, ir jeigu nutraukus pradėtą
+darbą gali sugesti medžiagos ar darbo priemonės;
+4) kai
+remontuojamos darbo priemonės, jeigu dėl jų gedimo dauguma darbuotojų negali
+dirbti;
+5) kai
+neatvyksta pamainininkas (tokiu atveju darbdavys antrą pamainą iš eilės
+dirbantį darbuotoją privalo ne vėliau kaip po pusės darbo dienos pakeisti kitu
+darbuotoju);
+6) pakrovimo bei
+iškrovimo ir su tuo susijusiems transporto darbams atlikti, siekiant apsaugoti
+gaminius nuo gedimo ir išvengti krovinių sankaupų bei transporto priemonių
+prastovų.
+4. Kitais šio
+straipsnio 3 dalyje neišvardytais atvejais darbo dienomis darbdavys gali
+organizuoti viršvalandinius darbus kolektyvinėje sutartyje nustatyta tvarka ir
+gavęs raštišką darbuotojo sutikimą, o jeigu įmonėje tokios sutarties nėra, –
+gavęs darbuotojo rašytinį sutikimą. Darbuotojui dirbti viršvalandinius darbus
+savo iniciatyva ir neturint darbdavio sutikimo draudžiama.
+5. Draudžiama
+dirbti viršvalandinius darbus, kai darbo aplinkos veiksniai viršija leistinus
+dydžius, išskyrus šio straipsnio 3 dalies 5 punkte nurodytą atvejį (kai
+neatvyksta į darbą darbuotoją pakeičiantis pamainininkas). Viršvalandinis
+darbas tokiomis sąlygomis negali trukti ilgiau kaip 2 valandas. 
+6. Už
+viršvalandinį darbą mokama įstatymų nustatyta tvarka.
+ 
+49 straipsnis.
+Viršvalandinio darbo ribojimas
+1. Darbuotojo
+viršvalandinis darbas per 2 dienas iš eilės neturi viršyti 4 valandų ir 120
+valandų per metus. Darbdavys privalo skaičiuoti darbuotojų dirbtą
+viršvalandinių darbų laiką ir jį nurodyti darbo laiko apskaitos žiniaraščiuose.
+2. Šio ir 48
+straipsnio nuostatos dėl viršvalandinio darbo netaikomos ekonominės veiklos
+sritims, nurodytoms šio įstatymo 57 straipsnyje.
+ 
+50 straipsnis.
+Poilsio laikas 
+1. Darbuotojų
+darbingumui ir sveikatai atgauti nustatomos šios poilsio rūšys:
+1) pertrauka
+pailsėti ir pavalgyti;
+2) papildomos ir
+specialios pertraukos pailsėti darbo dienos laiku;
+3) paros
+poilsis;
+4) savaitės
+poilsis.
+2. Be poilsio
+laiko, nurodyto šio straipsnio 1 dalyje, įstatymų nustatyta tvarka suteikiamos
+kasmetinės mokamos atostogos.
+ 
+51 straipsnis.
+Pertrauka pailsėti ir pavalgyti
+1. Darbuotojams
+pailsėti ir pavalgyti suteikiama ne trumpesnė kaip pusės valandos ir ne ilgesnė
+kaip 2 valandų pertrauka. Jos metu jie turi teisę palikti darbo vietą ir
+pertrauką naudoti savo nuožiūra. Pertrauka pailsėti ir pavalgyti privalo būti
+suteikiama ne vėliau kaip po 4 valandų nuo darbo pradžios. Ši pertrauka į darbo
+laiką neįskaitoma.
+2. Darbuose, kur
+dėl gamybos ar kitų sąlygų negalima palikti darbo vietos ir daryti pertraukos,
+darbuotojui turi būti suteikiama galimybė pavalgyti darbo metu. Šių darbų
+sąrašas ir valgymo tvarka bei vieta nustatomi Įmonės darbuotojų saugos ir
+sveikatos būklės pase arba kolektyvinėje sutartyje.
+3. Pertraukos
+pailsėti ir pavalgyti pradžia ir pabaiga, jos trukmė ir suteikimo tvarka
+poilsio bei Švenčių dienų įstatymo nustatytų švenčių dienų išvakarėse
+nustatomos kolektyviniuose susitarimuose, kolektyvinėse sutartyse, o jeigu
+tokios sutartys nesudaromos, – darbo sutartyse ir Įmonės darbuotojų saugos ir
+sveikatos būklės pase.
+ 
+52 straipsnis.
+Papildomos ir specialios pertraukos
+1. Atsižvelgiant
+į darbo sąlygas, darbuotojams darbo laiku suteikiamos papildomos pertraukos
+pailsėti.
+2. Darbuotojams,
+dirbantiems lauke arba nešildomose patalpose (kai aplinkos temperatūra žemesnė
+kaip –10 °C), taip pat kitais darbuotojų saugos ir sveikatos teisės aktuose
+numatytais atvejais, privalo būti suteikiamos specialios pertraukos. 
+3. Papildomos ir
+specialios pertraukos įskaitomos į darbo laiką ir negali būti trumpesnės kaip
+10 minučių. Papildomų ir specialių pertraukų pailsėti skaičius, trukmė ir
+poilsio vieta, atsižvelgiant į konkrečias darbo sąlygas, nustatomi
+kolektyvinėse sutartyse, o jei tokių sutarčių nėra, – darbo sutartyse ir Įmonės
+darbuotojų saugos ir sveikatos būklės pase.
+4. Poilsio ir specialias
+pertraukas darbo laiku, atsižvelgiant į darbo sąlygas, reglamentuoja Socialinės
+apsaugos ir darbo ministerijos patvirtinti Bendrieji poilsio režimo nuostatai.
+Kolektyvinėse sutartyse, kolektyviniuose susitarimuose gali būti numatyta
+daugiau, negu numato darbuotojų saugos ir sveikatos teisės aktai, papildomų ir
+specialių pertraukų.
+ 
+53 straipsnis.
+Paros poilsis
+1. Draudžiama
+skirti darbuotoją dirbti dvi pamainas iš eilės.
+2. Darbuotojo
+poilsio laikas per parą negali būti trumpesnis kaip 11 valandų iš eilės,
+nepaisant to, ar darbuotojas dirba vienoje, ar keliose darbovietėse, pagal
+vieną ar daugiau darbo sutarčių. Jauniems asmenims paros poilsio laiko trukmė
+privalo būti ne trumpesnė, negu nustatyta šio įstatymo 60 straipsnio 1 dalyje. 
+ 
+54 straipsnis.
+Savaitės poilsis
+1. Darbuotojo
+savaitės nepertraukiamo poilsio laikas kiekvieną savaitę privalo būti ne
+trumpesnis kaip 35 valandos.
+2. Visiems
+darbuotojams, išskyrus dirbančius šio įstatymo 55, 56 straipsniuose nurodytose
+įmonėse, bendra poilsio diena yra sekmadienis. Esant mažiau kaip 5 darbo dienų
+savaitei, kitos poilsio dienos nustatomos darbo arba kolektyvinėse sutartyse.
+ 
+55 straipsnis.
+Poilsio dienos paslaugas teikiančiose įmonėse
+Įmonėms, kurios
+sekmadienį ar Švenčių dienų įstatymo nustatytų švenčių dienomis negali
+nutraukti darbo dėl to, kad privalo teikti paslaugas gyventojams (parduotuvės,
+transporto įmonės, teatrai, muziejai ir kt.), poilsio dienas nustato
+savivaldybių institucijos. 
+ 
+56
+straipsnis. Poilsio dienos nepertraukiamai dirbančiose įmonėse ir esant suminei
+
 darbo
-sąlygomis
+laiko apskaitai
+Įmonėse, kuriose
+negalima sustabdyti darbo dėl gamybinių, techninių sąlygų, taip pat įmonėse,
+kuriose yra suminė darbo laiko apskaita, poilsio dienos gali būti suteikiamos
+įvairiomis savaitės dienomis iš eilės kiekvienai darbuotojų grupei pagal darbo
+pamainų keitimosi grafikus.
  
-            Už darbą kenksmingomis,
-labai kenksmingomis darbo sąlygomis apmokama Lietuvos Respublikos darbo
-apmokėjimo įstatymo nustatyta tvarka.
-            Dirbantiesiems labai
-kenksmingomis darbo sąlygomis, remiantis šio įstatymo 41 ir 67 straipsniais,
-trumpinama darbo dienos (pamainos) trukmė, o darbo laikas tokiomis sąlygomis
-per visą darbo veiklą neturi viršyti norminiuose aktuose nustatytos darbo
-trukmės. Jeigu darbuotojas, išdirbęs nustatytą darbo trukmę labai kenksmingomis
-sąlygomis, pageidauja persikvalifikuoti ir įsigyti naują profesiją
-(specialybę), persikvalifikavimo išlaidas apmoka darbdavys.
-            Priemokų už darbą
-kenksmingomis, labai kenksmingomis, pavojingomis sąlygomis dydžių nustatymo
-tvarką tvirtina Lietuvos Respublikos Vyriausybė.
-            Darbuotojams, dirbantiems
-kenksmingomis sąlygomis, atsižvelgiant į kenksmingų veiksnių dydį, duodami
-įmonių apmokami medicininiai adaptogeniniai preparatai, žmogaus atsparumą
-kenksmingų veiksnių poveikiui didinantys maisto produktai.
-            Kenksmingų veiksnių sąrašą
-ir sąlygas, kurioms esant gali būti duodami adaptogeniniai medicininiai
-preparatai, atsparumą kenksmingų veiksnių poveikiui didinantys maisto
-produktai, nustato sveikatos apsaugos ministras.
-            Už darbą pavojingomis
-sąlygomis (dirbant pavojingus darbus) mokama ne mažiau kaip 30 procentų
-valstybės nustatyto minimalaus valandinio atlygio (mėnesinės algos) dydžio
-priemoka. Pavojingų darbų (gamybų) sąrašą tvirtina Lietuvos Respublikos
-Vyriausybė.
-            Darbuotojams, dirbantiems
-pavojingomis, labai kenksmingomis sąlygomis, gali būti suteikiamos papildomos
-atostogos, kurių trukmė ir suteikimo tvarka nustatomos kolektyviniuose susitarimuose,
-kolektyvinėse arba darbo sutartyse.
+57 straipsnis.
+Darbo ir poilsio laiko reglamentavimo ypatumai
+Transporto,
+pašto, žemės ūkio, energetikos įmonėse, gydymo bei globos įstaigose, taip pat
+jūrų ir upių laivyboje ir kitose ekonominės veiklos srityse darbo laikas,
+atsižvelgiant į darbo sezoniškumą bei kitas sąlygas, gali skirtis nuo šio
+įstatymo nustatytų normų. Darbo, viršvalandinio darbo ir poilsio laiko ypatumus
+kai kuriose ekonominės veiklos srityse nustato Vyriausybė.
  
-            70 straipsnis. Saugos darbe
-ekspertizė
+III DALIS
+ ATSKIRŲ
+DARBUOTOJŲ GRUPIŲ SAUGOS IR SVEIKATOS GARANTIJOS
  
-            Saugos darbe ekspertizė
-atliekama projektuojant įmones, cechus, kitus gamybinius padalinius, naujas
-technologijas, taip pat pradėjus eksploatuoti minėtus objektus ir pradėjus
-gaminti naujas darbo priemones (21 straipsnis), keičiant valstybės garantuotų
-kompensacijų teikimo tvarką, sprendžiant ginčus, kilusius tarp darbdavių ir
-darbuotojų dėl kompensacijų ar dėl darbo sąlygų būklės įvertinimo darbo vietoje
-duomenų tikrumo, taip pat kolektyvinės sutarties šalims pareikalavus.
-            Saugos darbe ekspertizės
-tvarką nustato Lietuvos Respublikos Vyriausybė.
+VI skyrius
+JAUNI ASMENYS,
+MOTERYS, NEĮGALŪS ASMENYS
  
-VIII SKYRIUS.
-NELAIMINGI ATSITIKIMAI, PROFESINĖS LIGOS
+pirmasis skirsnis
+jauni asmenys
  
-            71 straipsnis. Nelaimingų
-atsitikimų, profesinių ligų klasifikavimas
+58 straipsnis.
+Dirbančių jaunų asmenų saugos ir sveikatos apsaugos reglamentavimas 
+1. Darbdaviai
+privalo užtikrinti jauno asmens amžių atitinkančias darbo sąlygas. Jaunam
+asmeniui darbdavio suteikiamas darbas privalo būti saugus, nekelti pavojaus
+sveikatai, fiziniam ir protiniam vystymuisi, nepakenkti mokymuisi.
+2.
+Vaikų iki 16 metų darbas draudžiamas, išskyrus jų fizines galimybes
+atitinkančius lengvus darbus ir laikantis įdarbinimo sąlygų, nustatytų šio
+straipsnio 4 ir 5 dalyje.
+3. Šiame
+įstatyme, kituose darbuotojų saugos ir sveikatos teisės aktuose nustatyti
+darbuotojų saugos ir sveikatos reikalavimai jaunų asmenų darbui privalo būti
+taikomi nepaisant to, ar su jaunu asmeniu sudaryta terminuota, ar neterminuota
+darbo sutartis.
+4. Vieno iš tėvų
+arba kito vaiką auginančio asmens ir darbdavio rašytiniu susitarimu, jeigu
+vaikas pageidauja ir yra gydytojo pažyma apie vaiko sveikatą bei gydytojo
+leidimas, vaikas (moksleivis) iki 16 metų gali dirbti lengvus darbus. Toks
+susitarimas vaiko, vieno iš tėvų arba vaiką auginančio asmens, arba vaiko
+sveikatą prižiūrinčio gydytojo iniciatyva gali būti bet kuriuo metu nutrauktas.
+5. Vaikams
+(moksleiviams) iki 16 metų leidžiamų dirbti lengvų darbų sąrašą, šio straipsnio
+4 dalyje nurodyto rašytinio susitarimo sudarymo ir pranešimo apie jį
+Valstybinei darbo inspekcijai tvarką, poilsio laiką ir kitas išimtines sąlygas,
+kurioms esant jie gali dirbti lengvus darbus, tvirtina Socialinės apsaugos ir
+darbo ministerija ir Sveikatos apsaugos ministerija.
+6. Įmonėje
+privalo būti sudarytas jaunesnių kaip 18 metų darbuotojų sąrašas.
+7. Prieš
+įdarbindamas jauną asmenį, darbdavys privalo įvertinti: 
+1) ar darbas, į
+kurį numatoma skirti jauną asmenį, nepriskiriamas jauniems asmenims draudžiamam
+darbui, ar darbo aplinkoje nėra kenksmingų, pavojingų sveikatai veiksnių,
+kuriems esant (šio įstatymo 59 straipsnio 2 dalis) į tokį darbą negali būti
+skiriami jauni asmenys;
+2) ar darbo
+vieta ir darbo aplinka atitinka darbuotojų saugos ir sveikatos teisės aktų
+reikalavimus; 
+3) pavojingų
+cheminių medžiagų naudojimą įmonėje ir galimą jų poveikį (būdą, laipsnį,
+trukmę);
+4) darbo
+priemonių techninę būklę, pavojingų cheminių medžiagų saugojimo būklę, kad
+jauni asmenys dėl neatsargumo nebūtų jų paveikti;
+5) darbo,
+gamybos technologinių procesų organizavimą, darbo priemonių išdėstymą, kad
+jauni asmenys nepatektų į įmonės padalinių darbo vietas, kuriose naudojamos
+pavojingos cheminės medžiagos;
+6) jauno asmens
+sugebėjimus suvokti ir vykdyti darbuotojų saugos ir sveikatos reikalavimus bei
+fizines galimybes atlikti pavedamus darbus.
+8. Apie
+galinčius kilti pavojus ir priemones šiems pavojams išvengti, taip pat apie
+įmonėje naudojamas priemones saugai užtikrinti ir sveikatai apsaugoti darbdavys
+informuoja jaunus asmenis juos įdarbindamas ir ne rečiau kaip kasmet, be to,
+darbdavys apie galimus pavojus ir priemones jiems išvengti privalo informuoti
+jų tėvus ar globėjus.
  
-            Šis įstatymas nustato
-nelaimingų atsitikimų (1 straipsnio 13 punktas) ir profesinių ligų (1
-straipsnio 12 punktas) klasifikaciją. Nelaimingi atsitikimai klasifikuojami :
-            1) pagal jų pasekmes -
-lengvi, sunkūs, mirtini;
-            2) pagal nukentėjusiųjų nuo
-nelaimingo atsitikimo skaičių - pavieniai, grupiniai;
-            3) pagal ryšį su darbu -
-susiję su darbu (taip pat pakeliui į darbą arba grįžtant iš darbo), nesusiję su
-darbu.
-            Pagal ligos pasireiškimo
-laiką ir požymius profesinės ligos klasifikuojamos :
-            1) ūmus profesinis
-susirgimas (apsinuodijimas) - staigus sveikatos sutrikimas, kurį sukėlė
-trumpalaikis (vienkartinis arba per vieną darbo dieną) darbo aplinkos veiksnys
-(veiksnai);
-            2) lėtinis profesinis
-susirgimas (apsinuodijimas) - sveikatos sutrikimas, kurį sukėlė darbo aplinkos
-veiksnys (veiksniai) per tam tikrą darbo laiką.
+59 straipsnis.
+Jauniems asmenims draudžiami dirbti darbai
+1. Jauni asmenys
+negali būti skiriami dirbti: 
+1) darbo, kuris
+fiziškai ir psichologiškai per sunkus;
+2) darbo,
+kuriame naudojamos toksinės, kancerogeninės, mutageninės ar kitos sveikatą veikiančios
+medžiagos;
+3) darbo, kur
+galimas jonizuojančiosios radiacijos poveikis, kitų sveikatai kenksmingų ir
+(ar) pavojingų veiksnių poveikis; 
+4) darbo, kur
+yra didesnė nelaimingų atsitikimų darbe ar susirgimų profesinėmis ligomis
+tikimybė, taip pat darbo, kurio dėl nepakankamo atsargumo ar patyrimo jaunas
+asmuo saugiai dirbti gali nesugebėti;
+5) darbo, kurio
+trukmė ilgesnė, negu nustatyta šio įstatymo 41 straipsnio 1 dalies 1 ir 2
+punktuose. 
+2. Jaunų asmenų
+įdarbinimo, jų sveikatos patikrinimo ir jų galimybių dirbti konkretų darbą
+nustatymo tvarką, darbo laiką, jiems draudžiamų dirbti darbų, kenksmingų,
+pavojingų veiksnių sveikatai sąrašą tvirtina Socialinės apsaugos ir
+darbo ministerija ir Sveikatos apsaugos ministerija.
+3. Tais
+atvejais, kai jauniems asmenims draudžiami darbai yra būtini jauno asmens
+profesiniam pasirengimui, jis privalo šiuos darbus atlikti prižiūrimas įmonės
+darbuotojų saugos ir sveikatos tarnybos specialisto ar kito darbdavio paskirto
+įmonės darbuotojo arba mokymo įstaigos, kurioje paauglys mokosi, darbuotojo,
+atestuoto darbuotojų saugos ir sveikatos srityje. Jaunų asmenų darbinio mokymo
+tvarką bei jų profesinio pasirengimo draudžiamiems darbams sąlygas ir tvarką
+nustato Socialinės apsaugos ir darbo ministerija.
+4. Jauni asmenys
+negali vienu metu dirbti daugiau negu vienoje įmonėje (darbovietėje).
  
-            72 straipsnis. Nelaimingų
-atsitikimų, profesinių ligų tyrimas
+60 straipsnis.
+Jaunų asmenų poilsio laikas 
+1. Paros
+nepertraukiamo poilsio laikas vaikams per 24 valandų laikotarpį privalo būti ne
+trumpesnis kaip 14 valandų paeiliui, paaugliams – ne trumpesnis kaip 12 valandų
+paeiliui. 
+2. Jauniems
+asmenims, kurių darbo dienos trukmė yra ilgesnė negu 4 valandos, privalo būti
+suteikta mažiausiai 30 minučių pertrauka darbo metu. Ji įskaitoma į darbo
+laiką. 
+3. Jauniems
+asmenims suteikiamos ne mažiau kaip 2 poilsio dienos paeiliui per savaitę,
+viena iš jų privalo būti sekmadienis.
  
-            Visoms įmonėms privaloma
-vienoda nelaimingų atsitikimų, profesinių ligų tyrimo tvarka.
-            Visi nelaimingi atsitikimai,
-profesinės ligos privalo būti ištirti, tyrimo rezultatai surašyti nustatytos
-formos aktuose, užregistruoti nustatytos formos žurnale.
-            Lengvus nelaimingus
-atsitikimus tiria dvišalė darbdavio sudaryta komisija iš darbuotojų įgaliotinių
-ir darbdavių skirtų atstovų.
-            Sunkius nelaimingus
-atsitikimus, nelaimingus atsitikimus, dėl kurių pasekmių nukentėjęs asmuo mirė,
-tiria trišalė komisija, sudaryta iš valstybinio darbo inspektoriaus (komisijos
-pirmininkas), profesinės sąjungos atstovo arba darbuotojų įgaliotinio (nesant įmonėje
-profesinės sąjungos arba kai nukentėjusysis nėra profesinės sąjungos narys) ir
-darbdavių skirto atstovo.
-            Profesinių ligų priežastis
-tiria darbo medicinos gydytojai, dalyvaujant valstybiniam darbo inspektoriui,
-darbdavio ir darbuotojų atstovams.
-            Ūmios profesinės ligos
-(apsinuodijimai) privalo būti ištirti ne vėliau kaip per vieną parą.
-            Ūmios profesinės ligos
-(apsinuodijimai), atsiradę kartu su nelaimingu atsitikimu, privalo būti
-tiriamos vienu metu.
-            Tiriant nelaimingus
-atsitikimus, profesines ligas, gali dalyvauti darbuotojų, darbdavių interesams
-atstovaujančios organizacijos, o reikalui esant - pakviesti ekspertai.
-            Profesinius susirgimus
-(apsinuodijimus), nelaimingus atsitikimus, dėl kurių žuvo 5 ir daugiau žmonių,
-tiria Lietuvos Respublikos Vyriausybės sudaryta komisija.
-            Sunkių nelaimingų atsitikimų
-klasifikacinius požymius, taip pat profesinių ligų sąrašus tvirtina Lietuvos
-Respublikos Vyriausybė.
-            Nelaimingų atsitikimų,
-profesinių ligų tyrimo ir apskaitos nuostatus tvirtina Lietuvos Respublikos
-Vyriausybė.
-            Nelaimingų atsitikimų,
-profesinių ligų tyrimo bei ekspertizių išlaidos apmokamos iš darbdavio lėšų.
+61
+straipsnis. Draudimas skirti jaunus asmenis dirbti nakties darbo laiku, 
+viršvalandinius
+darbus, poilsio ir švenčių dienomis
+Draudžiama
+skirti jaunus asmenis dirbti nakties darbo laiku, poilsio ir švenčių dienomis,
+viršvalandinius darbus. Vaikai iki 16 metų negali būti priimami darbui nuo 8
+valandos vakaro iki 6 valandos ryto. Paaugliai negali būti priimami darbui nuo
+10 valandos vakaro iki 6 valandos ryto arba nuo 11 valandos vakaro iki 7
+valandos ryto.
  
-            73 straipsnis. Nelaimingų
-atsitikimų, profesinių ligų tyrimo aktų saugojimas
+antrasis skirsnis
+moterys, neįgalūs asmenys
  
-            Nelaimingų atsitikimų,
-profesinių ligų tyrimo aktai įteikiami: nukentėjusiam darbuotojui arba jo
-interesams atstovaujančiam asmeniui, darbdaviui, Valstybinei darbo inspekcijai.
-Sunkių ir mirtinų nelaimingų atsitikimų atvejais arba kai yra baudžiamosios
-atsakomybės požymių, Valstybinė darbo inspekcija medžiagą apie nelaimingą
-atsitikimą perduoda prokuratūrai.
-            Nelaimingų atsitikimų,
-profesinių ligų tyrimo medžiaga ir aktai saugomi įmonėje, kur įvyko nelaimingas
-atsitikimas ar buvo užregistruota profesinė liga (lengvų nelaimingų atsitikimų
-- 45 metus, sunkių ir mirtinų nelaimingų atsitikimų, profesinių ligų - 75
-metus). Jei įmonė likviduojama, tyrimo aktai, tyrimo medžiaga perduodami įmonei
-- teisių perėmėjai.
-            Sunkių ir mirtinų nelaimingų
-atsitikimų, profesinių ligų tyrimo aktai Valstybinėje darbo inspekcijoje saugomi
-15 metų, vėliau perduodami valstybiniam saugojimui.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16) 
-Nr. VIII-561,
-97.12.09, Žin., 1997, Nr.117-3001 (97.12.24)
+62 straipsnis.
+Motinystės sauga 
+Nėščioms,
+neseniai pagimdžiusioms, krūtimi maitinančioms moterims turi būti
+sudarytos saugios ir sveikos darbo sąlygos. Šios moterys turi teisę pasirinkti
+dirbti visą ar ne visą darbo laiką. Šiuo įstatymu valstybė nustato dirbančioms
+nėščioms, neseniai pagimdžiusioms ar krūtimi maitinančioms moterims saugos ir
+sveikatos garantijas.
  
-            74 straipsnis. Pranešimai
-apie nelaimingus atsitikimus, profesines ligas
+63
+straipsnis. Bendrosios darbuotojų saugos ir sveikatos nuostatos dirbančioms 
+nėščioms,
+neseniai pagimdžiusioms ar krūtimi maitinančioms moterims
+1. Nėščias,
+neseniai pagimdžiusias ar krūtimi maitinančias moteris draudžiama skirti
+darbams, kurie gali turėti neigiamą poveikį moters ar kūdikio sveikatai.
+Nėščioms, neseniai pagimdžiusioms ar krūtimi maitinančioms moterims draudžiamų
+darbų, pavojingų veiksnių sąrašą (toliau šiame straipsnyje – draudžiamų darbų
+sąrašas) tvirtina Sveikatos apsaugos ir Socialinės apsaugos ir darbo
+ministerijos. 
+2. Darbdavys,
+vadovaudamasis draudžiamų darbų sąrašu bei darbo aplinkos įvertinimo
+rezultatais, privalo nustatyti galimą riziką nėščios, neseniai pagimdžiusios ar
+krūtimi maitinančios moters saugai ir sveikatai. Nustatęs galimą poveikį,
+darbdavys privalo imtis priemonių tokiai rizikai pašalinti:
+1) jeigu nėščia,
+neseniai pagimdžiusi ar krūtimi maitinanti moteris dirba darbą, nurodytą
+draudžiamų darbų sąraše, šią moterį iki nėštumo ir gimdymo atostogų jos
+sutikimu perkelti į kitą darbą įmonėje;
+2) jeigu nėščią,
+neseniai pagimdžiusią ar krūtimi maitinančią moterį veikia pavojingi veiksniai,
+imtis priemonių šiems veiksniams pašalinti. 
+3. Jeigu
+pavojingų veiksnių neįmanoma pašalinti, darbdavys įgyvendina darbo sąlygų
+gerinimo priemones, kad nėščia, neseniai pagimdžiusi ar krūtimi maitinanti
+moteris nebepatirtų tokių veiksnių poveikio. Jeigu pakeitus darbo sąlygas tokio
+poveikio neįmanoma pašalinti, darbdavys privalo perkelti tokią moterį (jos
+sutikimu) į kitą darbą toje pačioje įmonėje. 
+4. Perkeltai į
+kitą darbą toje pačioje įmonėje nėščiai, neseniai pagimdžiusiai ar krūtimi
+maitinančiai moteriai mokamas ne mažesnis kaip iki perkėlimo į kitą darbą
+gautas vidutinis darbo užmokestis.
+5. Nesant
+galimybės nėščią moterį perkelti į kitą darbą, neturintį neigiamo poveikio jos
+ar būsimo kūdikio sveikatai, nėščiai moteriai jos sutikimu suteikiamos
+nemokamos atostogos iki nėštumo ir gimdymo atostogų. Šių atostogų laikas
+neįskaitomas į draudimo stažą ir apskaičiuojant vidutinį kompensuojamąjį
+uždarbį.
+6. Nesant
+galimybės neseniai pagimdžiusią ar krūtimi maitinančią moterį po nėštumo ir
+gimdymo atostogų perkelti į kitą darbą, neturintį neigiamo poveikio jos ar
+kūdikio sveikatai, tokiai moteriai jos sutikimu suteikiamos nemokamos
+atostogos, kol kūdikiui sukaks vieneri metai, ir jai per tą laikotarpį mokamos
+įstatymo nustatytos motinystės draudimo išmokos.
+7. Kai nėščiai,
+neseniai pagimdžiusiai ar krūtimi maitinančiai moteriai reikia pasitikrinti
+sveikatą, ji privalo būti atleidžiama nuo darbo, paliekant jai vidutinį darbo
+užmokestį, jeigu pasitikrinti sveikatą reikia darbo metu.
  
-            Asmuo, nukentėjęs dėl
-nelaimingo atsitikimo, ūmios profesinės ligos, arba asmuo, matęs įvykį arba jo
-pasekmes, privalo nedelsdamas apie tai pranešti (jeigu jis pajėgia tai
-padaryti) įmonės saugos darbe tarnybai, tiesioginiam darbo vadovui (darbdavio
-įgaliotam asmeniui), darbdaviui.
-            Nelaimingų atsitikimų,
-profesinių ligų, dėl kurių nukentėjęs asmuo mirė, taip pat sunkių nelaimingų
-atsitikimų atvejais darbdavys (darbdavio įgaliotas asmuo) ne vėliau kaip per
-vieną valandą po to, kai sužinojo apie įvykį, praneša miesto (rajono)
-prokuratūrai, Valstybinei darbo inspekcijai, o ūmių profesinių susirgimų
-(apsinuodijimų) atvejais - Valstybinei visuomenės sveikatos priežiūros tarnybai
-ir Valstybinei darbo inspekcijai. Lėtinį profesinį susirgimą įtaręs gydytojas
-ne vėliau kaip per tris dienas apie tai raštu praneša Valstybinei visuomenės
-sveikatos priežiūros tarnybai ir Valstybinei darbo inspekcijai.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16) 
+64
+straipsnis. Kitos saugos ir sveikatos garantijos dirbančioms nėščioms, neseniai
+
+pagimdžiusioms
+ar krūtimi maitinančioms moterims ir asmenims, 
+auginantiems
+mažamečius vaikus
+1. Nėščias, neseniai pagimdžiusias ar krūtimi maitinančias
+moteris skirti viršvalandiniams darbams draudžiama. Asmenis, auginančius vieną
+ar kelis vaikus iki 3 metų, dirbti poilsio ar Švenčių dienų įstatymo nustatytų
+švenčių dienomis, siųsti į komandiruotes, skirti viršvalandiniams darbams
+leidžiama tik jų sutikimu.
+2. Krūtimi
+maitinančiai moteriai, be bendros pertraukos pailsėti ir pavalgyti, ne rečiau
+kaip kas 3 valandas suteikiamos ne trumpesnės kaip pusės valandos pertraukos
+kūdikiui maitinti. Moters pageidavimu pertraukas kūdikiui maitinti galima
+sujungti ar pridėti prie pertraukos pailsėti ir pavalgyti arba perkelti į darbo
+dienos pabaigą, atitinkamai sutrumpinant darbo dieną. Pertraukos kūdikiui
+maitinti apmokamos pagal darbuotojos vidutinį darbo užmokestį.
+3. Asmenys,
+auginantys vaiką iki 14 metų, neįgalų vaiką iki 16 metų, skiriami dirbti
+viršvalandinius darbus arba siunčiami į komandiruotes jų sutikimu.
+4. Asmenys,
+auginantys vaikus iki 14 metų, jeigu yra galimybė, turi pirmumo teisę
+pasirinkti darbo pamainą.
  
+65 straipsnis.
+Dirbančių neįgalių asmenų saugos ir sveikatos garantijos
+Dirbančių
+neįgalių asmenų saugą ir sveikatą garantuoja šis ir Invalidų socialinės
+integracijos įstatymas, kiti darbuotojų saugos ir sveikatos teisės aktai.
  
-IX SKYRIUS.
-EKONOMINĖS PRIEMONĖS IR ATSAKOMYBĖ
+IV DALIS
+ DARBUOTOJŲ SAUGOS IR SVEIKATOS BŪKLĖS VERTINIMAS. PAGRINDINĖS PRANEŠIMŲ
+APIE NELAIMINGus ATSITIKIMus DARBE IR PROFESINES LIGAS BEI JŲ TYRIMą NUOSTAToS
  
-I SKIRSNIS.
-EKONOMINĖS PRIEMONĖS
+VII SKYRIUS 
+DARBUOTOJŲ Saugos IR SVEIKATOS BŪKLĖS vertinimas 
  
-            75 straipsnis. Darbuotojų
+66 straipsnis.
+Darbuotojų saugos ir sveikatos būklės vertinimas
+1. Darbuotojų
+saugos ir sveikatos būklė vertinama pagal tai, kaip darbo priemonės, darbo
+sąlygos įmonėje, jos padaliniuose atitinka darbuotojų saugos ir sveikatos
+teisės aktuose nustatytus darbuotojų saugos ir sveikatos reikalavimus.
+2. Darbo sąlygos
+vertinamos pagal tai, kaip darbo aplinka darbo vietose, darbo pobūdis, darbo ir
+poilsio režimas atitinka šio įstatymo, kitų darbuotojų saugos ir sveikatos
+teisės aktų nustatytus reikalavimus.
+3. Darbdavys
+pagal darbuotojų saugos ir sveikatos būklės vertinimo rezultatus užpildo Įmonės
+darbuotojų saugos ir sveikatos būklės pasą, nurodytą šio įstatymo 22 straipsnio
+2 dalyje. 
+ 
+67 straipsnis.
+Darbo aplinkos klasifikavimas 
+1. Darbo aplinka
+klasifikuojama taip:
+1) optimali
+darbo aplinka – darbo aplinka, kurioje nėra kenksmingų veiksnių, neigiamai
+veikiančių darbuotojų savijautą, darbingumą, sveikatą;
+2) normali darbo
+aplinka – kai darbo aplinkoje esantys kenksmingi veiksniai arba veiksnių,
+turinčių panašų poveikį, suminiai dydžiai neviršija darbuotojų saugos ir
+sveikatos teisės aktų nustatytų leistinų ribinių dydžių; 
+3) kenksminga
+darbo aplinka – kai darbo aplinkos vienas ar daugiau kenksmingų veiksnių arba
+veiksnių, turinčių panašų poveikį, suminiai dydžiai darbo dienos metu atskirais
+laiko tarpais viršija darbuotojų saugos ir sveikatos teisės aktų nustatytus
+leistinus ribinius dydžius. Dirbant tokioje darbo aplinkoje, privalo
+būti sudaromos sąlygos darbuotojų sveikatai išsaugoti; 
+4) labai
+kenksminga darbo aplinka – kai darbo aplinkos vienas ar daugiau kenksmingų
+veiksnių arba veiksnių, turinčių panašų poveikį, suminiai dydžiai darbo dienos
+metu nuolat viršija darbuotojų saugos ir sveikatos teisės aktų nustatytus
+leistinus ribinius dydžius. Tokioje darbo aplinkoje gali būti dirbama
+tik išimtiniais atvejais ir privalo būti sudaromos sąlygos darbuotojų sveikatai
+išsaugoti; 
+5) pavojinga
+darbo aplinka – darbo aplinka, kuri gali susidaryti dėl darbo metu į darbo
+aplinką išsiskiriančių ypač pavojingų cheminių medžiagų ar jų preparatų
+aerozolių ar dulkių, taip pat naudojant pavojingas sprogias medžiagas. Siekiant
+apsaugoti darbuotojus nuo galimo tokių medžiagų veiksnių poveikio, privalo būti
+įgyvendinamos šio įstatymo 20 straipsnio 3 dalyje nustatytos priemonės.
+2. Darbo
+aplinkos veiksnių leistinus ribinius dydžius nustato darbuotojų saugos
+ir sveikatos teisės aktai. 
+ 
+68 straipsnis.
+Darbo aplinkos vertinimas
+1. Darbo aplinka
+vertinama siekiant nustatyti, ar darbo aplinkoje yra profesinė rizika. Darbo
+aplinka vertinama pagal tai, ar darbo aplinkoje esantys veiksniai atitinka
+darbuotojų saugos ir sveikatos teisės aktų nustatytus leistinus ribinius
+dydžius, kurių neviršijant darbo aplinka laikoma saugia ir nekenksminga.
+2. Darbo vietas,
+kurių darbo aplinka privalo būti įvertinta, numato darbdavys. Tokias darbo
+vietas darbdaviui gali nurodyti darbo inspektorius. Darbo aplinkos tyrimų
+rezultatai nurodomi Įmonės darbuotojų saugos ir sveikatos būklės pase.
+ 
+69 straipsnis.
+Darbuotojų saugos ir sveikatos ypatingos priemonės 
+1. Darbuotojų,
+dirbančių darbo aplinkoje, kurioje sveikatai kenksmingų veiksnių dydžiai
+viršija leistinus ribinius dydžius ir nėra galimybės sumažinti jų iki
+darbuotojų saugos ir sveikatos teisės aktuose nustatytų leistinų ribinių dydžių,
+darbo laiko trukmė toje aplinkoje sutrumpinama atsižvelgiant į darbo aplinkos
+vertinimo rezultatus ir vadovaujantis darbo laiko trukmės nustatymo pagal darbo
+aplinkos poveikį darbuotojų sveikatai kriterijais ir tvarka. 
+2. Darbuotojai,
+kurie dirba su pavojingomis biologinėmis medžiagomis, galinčiomis sukelti
+užkrečiamąsias ligas, skiepijami (vakcinuojami) darbdavio lėšomis. 
+3. Darbuotojams,
+dirbantiems darbus, kuriuos organizuojant ir atliekant užtikrinamas darbuotojų
+saugos ir sveikatos reikalavimų laikymasis, tačiau darbų pobūdis susijęs su
+protine, emocine įtampa, įstatymų nustatyta tvarka gali būti suteikiamos
+ilgesnės atostogos.
+ 
+70 straipsnis.
+Darbuotojų saugos ir sveikatos ekspertizės
+1. Darbuotojų
+saugos ir sveikatos ekspertizių tikslas yra ištirti, ar darbo vietos, darbo
+priemonės, darbo sąlygos atitinka darbuotojų saugos ir sveikatos teisės aktuose
+nustatytus darbuotojų saugos ir sveikatos reikalavimus.
+2. Darbuotojų
+saugos ir sveikatos ekspertizė gali būti skiriama naujų įmonių ar įmonių
+padalinių, naujų technologijų, darbo priemonių projektams įvertinti, taip pat
+pradėjus eksploatuoti minėtus objektus ar darbo priemones, tiriant nelaimingų
+atsitikimų darbe ar profesinių ligų aplinkybes ir priežastis, sprendžiant
+ginčus, kilusius dėl darbuotojų saugos ir sveikatos būklės įvertinimo duomenų
+tikrumo (darbdavio, įmonės profesinės sąjungos iniciatyva ar valstybės institucijų
+sprendimu), kitais darbuotojų saugos ir sveikatos teisės aktų nustatytais
+atvejais.
+ 
+VIII skyrius
+Nelaimingi atsitikimai darbe, profesinės ligos
+ 
+71 straipsnis.
+Nelaimingų atsitikimų darbe, profesinių ligų klasifikavimas
+1. Nelaimingi atsitikimai darbe ir nelaimingi atsitikimai
+pakeliui į darbą ar iš darbo pagal jų pasekmes skirstomi į lengvus, sunkius,
+mirtinus:
+1) lengvas
+nelaimingas atsitikimas darbe – įvykis, kurio metu darbuotojas patiria traumą
+ir netenka darbingumo nors vienai dienai ir kuris nepriskiriamas sunkių
+nelaimingų atsitikimų darbe kategorijai;
+2) sunkus
+nelaimingas atsitikimas darbe – įvykis, dėl kurio darbuotojas patiria
+sveikatai ir (ar) gyvybei pavojingą traumą. Sunkių traumų klasifikacinius
+požymius tvirtina Sveikatos apsaugos ministerija;
+3) mirtinas
+nelaimingas atsitikimas darbe – įvykis, dėl kurio darbuotojas patiria
+sveikatai ir (ar) gyvybei pavojingą traumą ir dėl jos iš karto ar po kurio
+laiko miršta.
+2. Pagal
+nukentėjusiųjų skaičių nelaimingi atsitikimai darbe skirstomi į pavienius
+nelaimingus atsitikimus darbe, kai traumą patiria vienas darbuotojas, ir
+grupinius nelaimingus atsitikimus darbe, kai traumą patiria daugiau negu vienas
+darbuotojas.
+3. Pagal ryšį su
+darbu nelaimingi atsitikimai darbe skirstomi į susijusius su darbu ir
+nesusijusius su darbu:
+1) nelaimingas
+atsitikimas darbe, susijęs su darbu, – įvykis, kurį ištyrus nustatoma, kad jis
+įvyko atliekant darbo sutartimi sulygtą darbą ar kitą darbdavio pavestą ar su
+darbdavio žinia atliekamą darbą arba vykstant į darbą ar iš darbo;
+2) nelaimingas
+atsitikimas, nesusijęs su darbu, – įvykis, kurį ištyrus nustatoma, kad
+nukentėjusysis patyrė traumą ar mirė: norėdamas nusižudyti ar susižaloti; kai
+prieš jį buvo panaudotas smurtas, jeigu smurto aplinkybės ir motyvai nesusiję
+su darbu; kai darė nusikaltimą; kai savavališkai (be darbdavio žinios) dirbo
+sau (savo interesais). 
+4. Profesinės
+ligos skirstomos pagal pasireiškimo laiką ir požymius:
+1) lėtinė
+profesinė liga – darbuotojo sveikatos sutrikimas, kurį sukėlė vienas ar daugiau
+kenksmingų ir (ar) pavojingų darbo aplinkos veiksnių per tam tikrą darbo laiką;
+2) ūmi profesinė
+liga – staigus darbuotojo sveikatos sutrikimas, kurį sukėlė trumpalaikis
+(vienkartinis arba per vieną darbo dieną) darbo aplinkos pavojingas veiksnys
+(veiksniai), pasižymintis ūminiu poveikiu.
+ 
+72
+straipsnis. Pranešimai apie nelaimingus atsitikimus darbe, profesines ligas
+1. Darbuotojas,
+nukentėjęs dėl nelaimingo atsitikimo darbe, ūmios profesinės ligos, asmuo,
+matęs įvykį arba jo pasekmes, privalo nedelsdamas apie tai pranešti padalinio
+vadovui, darbdaviui, įmonės darbuotojų saugos ir sveikatos tarnybai, jeigu jis
+pajėgia tai padaryti.
+2. Nelaimingų
+atsitikimų darbe, dėl kurių nukentėjęs asmuo mirė, sunkių nelaimingų atsitikimų
+darbe, taip pat kai darbuotojas mirė dėl ligos, nesusijusios su darbu, atvejais
+darbdavys nedelsdamas privalo pranešti atitinkamos apylinkės
+prokuratūrai, Valstybinei darbo inspekcijai. 
+3. Ūmių
+profesinių ligų, dėl kurių nukentėjęs asmuo mirė, atvejais darbdavys
+nedelsdamas privalo pranešti atitinkamos apylinkės prokuratūrai, Valstybinei
+darbo inspekcijai ir Visuomenės sveikatos priežiūros tarnybos teritorinei
+įstaigai.
+4. Lėtinę
+profesinę ligą įtaręs gydytojas ne vėliau kaip per 3 dienas apie tai raštu
+praneša Valstybinei darbo inspekcijai ir Valstybinės visuomenės sveikatos
+priežiūros tarnybos teritorinėms įstaigoms. 
+5. Pranešimų
+apie nelaimingus atsitikimus darbe, profesines ligas ir jų registravimo tvarką
+nustato atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatai,
+Profesinių ligų tyrimo ir apskaitos nuostatai.
+ 
+73 straipsnis.
+Nelaimingų atsitikimų darbe, profesinių ligų tyrimas
+1. Visoms
+įmonėms privaloma vienoda nelaimingų atsitikimų darbe, profesinių ligų tyrimo
+tvarka, nustatyta šio įstatymo ir Nelaimingų atsitikimų darbe tyrimo ir
+apskaitos nuostatų, Profesinių ligų tyrimo ir apskaitos nuostatų.
+2. Visi
+nelaimingi atsitikimai darbe, profesinės ligos privalo būti ištirti, tyrimo
+rezultatai surašyti nustatytos formos aktuose ir nustatyta tvarka
+užregistruoti.
+3. Lengvus
+nelaimingus atsitikimus darbe tiria darbdavio įsakymu ar kitu tvarkomuoju
+dokumentu patvirtinta dvišalė komisija, sudaryta iš darbdavio ir darbuotojų
+atstovo (atstovų). Nelaimingo atsitikimo darbe tyrime gali dalyvauti pats
+nukentėjęs darbuotojas. 
+4. Sunkius nelaimingus atsitikimus darbe, mirtinus
+nelaimingus atsitikimus darbe tiria Valstybinė darbo inspekcija dalyvaujant
+darbdavio ir darbuotojų atstovui. Tirdama nelaimingą atsitikimą darbe,
+Valstybinė darbo inspekcija nustato nelaimingo atsitikimo darbe aplinkybes ir
+priežastis, pasiūlo priemones panašių atsitikimų priežastims pašalinti.
+Nelaimingo atsitikimo darbe tyrimui darbo inspektorius gali pasitelkti
+reikalingus specialistus ar ekspertus. Darbdavys sudaro sąlygas ir teikia
+nelaimingam atsitikimui darbe tirti reikalingą informaciją. Darbo inspektoriaus
+surašytą ir pasirašytą nelaimingo atsitikimo darbe tyrimo aktą pasirašo tyrime
+dalyvavę asmenys. Darbo inspektorius nelaimingo atsitikimo darbe tyrimo aktą
+įteikia darbdaviui pasirašyti. Jei darbdavys ar darbuotojų atstovas nedalyvauja
+nelaimingo atsitikimo darbe tyrime, darbo inspektorius tiria nelaimingą
+atsitikimą darbe be suinteresuotos šalies atstovo (atstovų). Jei darbdavio ar
+darbuotojų atstovas arba darbdavys nepasirašo nelaimingo atsitikimo darbe
+tyrimo akto ir raštu nepateikia darbo inspektoriui motyvuotos nepasirašymo
+priežasties, darbo inspektoriaus surašytas nelaimingo atsitikimo tyrimo aktas
+įsigalioja nuo jo surašymo dienos.
+5. Darbo
+inspektoriaus surašytas nelaimingo atsitikimo darbe tyrimo aktas kartu su
+priedais išsiunčiamas Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatų
+nustatyta tvarka atitinkamoms institucijoms ir nukentėjusiajam arba jo šeimai.
+6. Valstybinės
+darbo inspekcijos atliktas nelaimingo atsitikimo darbe tyrimas ar sprendimai
+(išvados) dėl nelaimingo atsitikimo darbe aplinkybių ir (ar) priežasties
+(priežasčių) paties darbdavio, darbdavio ar darbuotojų atstovo pareiškimais
+gali būti skundžiami Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatų
+nustatyta tvarka – vyriausiajam valstybiniam darbo inspektoriui arba teismui.
+Pareiškimų dėl nelaimingų atsitikimų darbe nagrinėjimo tvarką Valstybinėje
+darbo inspekcijoje nustato Nelaimingų atsitikimų darbe tyrimo ir apskaitos
+nuostatai. Vyriausiojo valstybinio darbo inspektoriaus sprendimas dėl
+pareiškimų, kuriuose skundžiami nelaimingų atsitikimų darbe tyrimas, aplinkybės
+ir (ar) priežastis (priežastys), gali būti įstatymų nustatyta tvarka skundžiami
+teismui.
+7. Nelaimingo
+atsitikimo darbe tyrimo metu nustačius, kad įvykis darbe nesusijęs su darbu,
+arba nustačius, kad darbuojas mirė dėl ligos, nesusijusios su darbu, įvykio
+tyrimas nutraukiamas ir tyrimo medžiaga pateikiama atitinkamoms institucijoms
+Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatuose nustatyta tvarka.
+8. Nelaimingą
+atsitikimą darbe, dėl kurio mirė 3 ir daugiau darbuotojų, tiria komisija,
+kurios pirmininkas – vyriausiasis valstybinis darbo inspektorius, nariai –
+vyriausiojo valstybinio darbo inspektoriaus pavaduotojas, Valstybinės darbo
+inspekcijos teritorinio (inspektavimo) skyriaus viršininkas ir šio skyriaus 2
+darbo inspektoriai. Tyrime dalyvauja darbdavio ir darbuotojų atstovai.
+9. Ar įmonėje
+dirbantis arba dirbęs darbuotojas serga profesine liga, nustato gydytojas,
+turintis licenciją šiai veiklai, vadovaudamasis Profesinių ligų tyrimo ir
+apskaitos nuostatais ir profesinių ligų sąrašu.
+10. Profesinės
+ligos priežastis tiria ir jos pripažinimą profesine liga patvirtina profesinės
+ligos tyrimo komisija, kurios sudėtyje yra darbo inspektorius (komisijos
+pirmininkas), Visuomenės sveikatos priežiūros teritorinės įstaigos atstovas ir
+profesinę ligą įtaręs gydytojas. Tyrimas atliekamas vadovaujantis Profesinių
+ligų tyrimo ir apskaitos nuostatais. Tyrime dalyvauja darbdavio ir darbuotojų
+atstovai. Komisijos pirmininkas tyrimui gali pasitelkti atitinkamų specialistų
+ar ekspertų. Darbdavys sudaro sąlygas ir teikia tyrimui reikalingą informaciją.
+Komisijos surašytą profesinės ligos tyrimo aktą pasirašo komisijos nariai,
+darbdavio ir darbuotojų atstovai. Profesinės ligos tyrimo aktas įteikiamas
+pasirašytinai darbdaviui ir darbuotojui, kuriam buvo įtariama ar patvirtinta
+profesinė liga, ir išsiunčiamas atitinkamoms institucijoms. 
+11. Jei
+profesinę ligą tirianti komisija nustato, kad profesinei ligai galėjo turėti
+įtakos darbas ankstesnėje darbovietėje, komisija, vadovaudamasi Profesinių ligų
+tyrimo ir apskaitos nuostatais, tyrimą atlieka ankstesnėje įmonėje ar įmonėse.
+12. Komisijos,
+tyrusios profesinę ligą, sprendimus bei išvadas dėl profesinės ligos priežasčių,
+taip pat dėl tyrimo tvarkos tyrime dalyvavę darbdavio ir darbuotojų atstovai
+gali apskųsti teismui arba Profesinių ligų tyrimo ir apskaitos nuostatuose
+nustatyta tvarka vyriausiajam valstybiniam darbo inspektoriui. 
+13. Ginčytinus
+klausimus, susijusius su profesinės ligos diagnozės nustatymu, sprendžia
+Centrinė darbo medicinos ekspertų komisija. Jos nuostatus ir sudėtį tvirtina
+Sveikatos apsaugos ministerija. Pareiškėjai, nesutikę su Centrinės darbo
+medicinos ekspertų komisijos sprendimu, turi teisę kreiptis į teismą.
+14. Ūmias
+profesines ligas, dėl kurių mirė 3 ir daugiau darbuotojų, tiria komisija,
+kurios pirmininkas – vyriausiasis valstybinis darbo inspektorius, nariai –
+Lietuvos Respublikos vyriausiojo gydytojo higienisto pavaduotojas, Valstybinės
+darbo inspekcijos teritorinio (inspektavimo) skyriaus viršininkas bei po vieną
+Valstybinės darbo inspekcijos ir Valstybinės visuomenės sveikatos priežiūros
+tarnybos teritorinės įstaigos atstovą. Tyrime dalyvauja darbdavio ir darbuotojų
+atstovai.
+15. Nelaimingų
+atsitikimų darbe, profesinių ligų tyrimo metu Valstybinės darbo inspekcijos
+skirtos ekspertizės, kurias atlieka ne valstybinės įstaigos, apmokamos
+Valstybinei darbo inspekcijai šiam tikslui skirtomis lėšomis.
+ 
+74
+straipsnis. Nelaimingų atsitikimų darbe, profesinių ligų tyrimo aktų saugojimas
+ir 
+apskaita
+1. Nelaimingų
+atsitikimų darbe tyrimo aktai įteikiami nukentėjusiam darbuotojui arba jo
+interesams atstovaujančiam asmeniui, darbdaviui, Valstybinei darbo inspekcijai,
+draudimo įstaigai, kurioje nukentėjusysis apdraustas nuo nelaimingų atsitikimų
+darbe ir profesinių ligų. Sunkių ir mirtinių nelaimingų atsitikimų darbe
+atvejais Valstybinė darbo inspekcija nelaimingo atsitikimo darbe tyrimo
+medžiagą perduoda prokuratūrai.
+2. Profesinių
+ligų tyrimo aktai įteikiami nukentėjusiam darbuotojui arba jo interesams
+atstovaujančiam asmeniui, darbdaviui, Valstybinei darbo inspekcijai ir
+Valstybinės visuomenės sveikatos priežiūros tarnybos teritorinei įstaigai,
+draudimo įstaigai, kurioje nukentėjusysis apdraustas nuo nelaimingų atsitikimų
+darbe ir profesinių ligų. 
+3. Visų ištirtų
+nelaimingų atsitikimų darbe tyrimo aktai, taip pat profesinių ligų tyrimo aktai
+registruojami ir įtraukiami į apskaitą Valstybinėje darbo inspekcijoje
+atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatų,
+Profesinių ligų tyrimo ir apskaitos nuostatų nustatyta tvarka. Profesinės ligos
+taip pat registruojamos Valstybinės visuomenės sveikatos priežiūros tarnybos
+teritorinėje įstaigoje, Valstybiniame profesinių ligų registre Profesinių ligų
+tyrimo ir apskaitos nuostatų bei Valstybinio profesinių ligų registro nuostatų
+nustatyta tvarka.
+4. Nelaimingų
+atsitikimų darbe tyrimo aktai ir tyrimo medžiaga, profesinių ligų tyrimo aktai
+ir tyrimo medžiaga saugomi įmonėje, kur įvyko nelaimingas atsitikimas ar buvo
+užregistruota profesinė liga, ir Valstybinėje darbo inspekcijoje vadovaujantis
+Lietuvos archyvų departamento prie Lietuvos Respublikos Vyriausybės nustatytais
+dokumentų saugojimo terminais.
+5. Visi
+nelaimingi atsitikimai darbe ir profesinės ligos įmonėje registruojami
+atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatų,
+Profesinių ligų tyrimo ir apskaitos nuostatų nustatyta tvarka.
+ 
+V DALIS
+EKONOMINĖS PRIEMONĖS, SKATINANČIOS DARBUOTOJŲ SAUGOS IR SVEIKATOS
+GERINIMĄ. ATSAKOMYBĖ UŽ DARBUOTOJŲ SAUGOS IR SVEIKATOS REIKALAVIMŲ PAŽEIDIMUS.
+BAIGIAMOSIOS NUOSTATOS
+ 
+IX skyrius
+Ekonominės priemonės ir atsakomybė
+ 
+pirmasis skirsnis
+Ekonominės priemonės
+ 
+75
+straipsnis. Darbuotojų nelaimingų atsitikimų darbe ir profesinių ligų socialinis
+
 draudimas
+1. Darbdaviai
+privalo drausti darbuotojus nelaimingų atsitikimų darbe ir profesinių ligų
+socialiniu draudimu.
+2. Kolektyvinėse
+sutartyse, kolektyviniuose susitarimuose gali būti numatytas papildomas
+darbuotojų nelaimingų atsitikimų darbe ir profesinių ligų draudimas.
  
-            Darbdaviai privalo drausti
-darbuotojus nuo nelaimingų atsitikimų, profesinių ligų pagal Lietuvos
-Respublikos draudimo nuo nelaimingų atsitikimų darbe įstatymą.
-            Kolektyvinėse sutartyse,
-kolektyviniuose susitarimuose, be privalomojo, gali būti numatytas papildomas
-darbuotojų draudimas nuo nelaimingų atsitikimų, profesinių ligų.
+76
+straipsnis. Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo 
+įmokų
+dydžio diferencijavimas
+Atsižvelgiant į
+nelaimingus atsitikimus darbe ir profesines ligas bei profesinės rizikos
+veiksnius, ekonominės veiklos sritims nustatomos diferencijuotos nelaimingų
+atsitikimų darbe ir profesinių ligų socialinio draudimo įmokos.
  
-            76 straipsnis. Darbuotojų
-draudimo nuo nelaimingų atsitikimų ir  profesinių ligų priklausymas 
-nuo
-saugos darbe būklės
+antrasis skirsnis
+atsakomybė už darbuotojų saugos ir sveikatos teisės aktų reikalavimų
+pažeidimus. žalos atlyginimas
  
-            Atsižvelgiant į nelaimingus
-atsitikimus ir profesines ligas bei darbo sąlygas, įmonėms nustatomos
-diferencijuotos draudimo nuo nelaimingų atsitikimų ir profesinių ligų įmokos.
-            Įmonėms darbuotojų draudimo
-nuo nelaimingų atsitikimų ir profesinių ligų įmokų dydį ir mokėjimo tvarką
-pagal saugos darbe būklę nustato Lietuvos Respublikos Vyriausybė, remdamasi
-Lietuvos Respublikos draudimo nuo nelaimingų atsitikimų darbe įstatymu. 
+77 straipsnis.
+Darbdavių ir darbuotojų atsakomybė
+1. Darbdavys,
+kuris savo veikimu ar neveikimu pažeidė darbuotojų saugos ir sveikatos teisės
+aktus ir tuo neužtikrino saugių ir sveikų darbo sąlygų, atsako įstatymų
+nustatyta tvarka.
+2. Darbdavys
+neatsako už darbuotojų saugos ir sveikatos reikalavimų neužtikrinimą arba
+darbdavio atsakomybė už tai gali būti sumažinta, jeigu ištyrus nelaimingą
+atsitikimą darbe ar profesinę ligą nustatoma, kad tai įvyko susiklosčius
+neįprastoms ar nenumatytoms aplinkybėms, kurių darbdavys negalėjo kontroliuoti,
+arba dėl atsitikimų, kurių padarinių nebuvo galima išvengti, nors ir buvo
+naudojamos visos reikiamos priemonės. 
+3. Darbdavys
+neatsako už nelaimingus atsitikimus pakeliui į darbą ar iš darbo.
+4. Darbdavio atsakomybė už darbuotojų saugos ir sveikatos
+reikalavimų neužtikrinimą gali būti sumažinta įvertinus priemones, kurių
+darbdavys ėmėsi šio įstatymo 36 straipsnio nustatyta tvarka.
+5. Darbuotojui, kuris pažeidė darbuotojų saugos ir
+sveikatos teisės aktus ar įmonės darbuotojų saugos ir sveikatos norminius
+dokumentus, su kuriais buvo supažindintas, taikoma įstatymų nustatyta
+atsakomybė.
  
+78 straipsnis.
+Atlyginimas darbuotojui už pakenkimą sveikatai
+1. Darbuotojui, kuris dėl nelaimingo atsitikimo darbe,
+profesinės ligos neteko darbingumo ir dėl to prarado pajamas, jų kompensavimo
+tvarką nustato Nelaimingų atsitikimų darbe ir profesinių ligų socialinio
+draudimo įstatymas ir kiti įstatymai.
+2. Jeigu nukentėjęs darbuotojas nebuvo apdraustas nelaimingų
+atsitikimų darbe ir profesinių ligų socialiniu draudimu, prarastas pajamas dėl
+darbingumo netekimo ir išlaidas, susijusias su medicinos pagalba ir gydymu,
+taip pat išlaidas, susijusias su nukentėjusiojo socialine, medicinine ir
+profesine reabilitacija, atlygina darbdavys. Minėtų išlaidų apmokėjimo ir žalos
+atlyginimo sumos turi būti ne mažesnės, negu nustatyta Nelaimingų atsitikimų
+darbe ir profesinių ligų socialinio draudimo įstatyme.
  
-II SKIRSNIS.
-ATSAKOMYBĖ
+79 straipsnis. Išmokos,
+darbuotojui mirus dėl nelaimingo atsitikimo darbe 
+Darbuotojui
+mirus dėl nelaimingo atsitikimo darbe, pripažinto draudiminiu įvykiu,
+Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo
+nustatytiems asmenims mokamos šio draudimo išmokos.
  
-            77 straipsnis. Darbdavių ir
-darbuotojų atsakomybė
+80
+straipsnis. Administracinės baudos už darbuotojų saugos ir sveikatos teisės
+aktų pažeidimus
+Valstybinė darbo
+inspekcija už darbuotojų saugos ir sveikatos teisės aktų reikalavimų pažeidimus
+skiria įstatymų nustatytas baudas teisės aktų reikalavimus pažeidusiems
+darbdaviui ir darbuotojui.
  
-            Už šio įstatymo, saugos
-darbe norminių aktų pažeidimus, dėl kurių įvyko arba galėjo įvykti nelaimingas
-atsitikimas, darbuotojas susirgo profesine liga, įvyko avarija, sutriko įmonės
-darbas, darbdaviams, jų įgaliotiems asmenims, kurie savo veikimu ar neveikimu
-pažeidė saugos darbe norminių aktų reikalavimus arba nesudarė sąlygų tokių
-reikalavimų laikymuisi, taip pat darbuotojams, kurie, žinodami, kad pažeidžia
-saugos darbe reikalavimus, dirbo tokiomis sąlygomis, taikoma Lietuvos
-Respublikos įstatymų nustatyta drausminė, materialinė, administracinė ir
-baudžiamoji atsakomybė.
-            Darbdaviams, darbuotojams,
-kliudantiems Valstybinės darbo inspekcijos inspektoriams vykdyti pareigas,
-taikoma Lietuvos Respublikos įstatymų nustatyta drausminė, materialinė,
-administracinė ir baudžiamoji atsakomybė.
+X skyrius
+baigiamosios nuostatos
  
-            78 straipsnis. Atlyginimas
-darbuotojams už sužalotą sveikatą
+81 straipsnis.
+Darbuotojų saugos ir sveikatos kontrolė 
+Kaip įmonėse
+laikomasi darbuotojų saugos ir sveikatos reikalavimų, kontroliuoja Valstybinė
+darbo inspekcija. Valstybinės darbo inspekcijos funkcijas, teises ir atsakomybę
+nustato Valstybinės darbo inspekcijos įstatymas.
  
-            Darbuotojui, kuris dėl
-nelaimingo atsitikimo darbe, profesinės ligos ar kitokio sveikatos pakenkimo,
-susijusio su darbu, neteko darbingumo, žalos dėl darbingumo netekimo, gydymo,
-slaugymo, protezavimo ir kitų išlaidų, atsiradusių dėl sveikatos pakenkimo, o
-nukentėjusiojo mirties atveju - žalos jo šeimai ir kitiems asmenims, atlyginimą
-reglamentuoja Lietuvos Respublikos draudimo nuo nelaimingų atsitikimų darbe
-įstatymas ir kiti įstatymai.
-            Jeigu nukentėjęs darbuotojas
-nebuvo apdraustas nuo nelaimingų atsitikimų darbe, žalą dėl darbingumo netekimo
-ir išlaidas, susijusias su medicinos pagalba ir gydymu, taip pat išlaidas,
-susijusias su nukentėjusiojo socialine, profesine reabilitacija, atlygina
-darbdavys. Minėtų išlaidų apmokėjimo ir žalos atlyginimo sumos turi būti ne
-mažesnės negu numatyta Lietuvos Respublikos draudimo nuo nelaimingų atsitikimų
-darbe įstatyme.
+82 straipsnis.
+Ginčų nagrinėjimo tvarka
+1. Ginčai dėl
+darbuotojų saugos ir sveikatos teisės aktų taikymo ar jų pažeidimų nagrinėjami
+įstatymų nustatyta tvarka.
+2. Kolektyviniai
+darbo ginčai (konfliktai) dėl darbuotojų saugos ir sveikatos sprendžiami
+Kolektyvinių ginčų reguliavimo įstatymo nustatyta tvarka.
  
-            79 straipsnis. Saugos darbe
-norminių aktų reikalavimų pažeidimo pasekmės 
+83 straipsnis.
+Darbuotojų saugos ir sveikatos būklės įmonėje atskaitomybė
+1. Įmonės pagal
+Įmonės darbuotojų saugos ir sveikatos būklės paso duomenis pildo statistinės
+atskaitomybės formą. Joje nurodomos darbo vietos, kuriose darbo aplinkos
+veiksniai neatitinka darbuotojų saugos ir sveikatos teisės aktų nustatytų
+leistinų ribinių dydžių, taip pat nurodomi nelaimingi atsitikimai darbe,
+profesinės ligos bei darbo vietos, kuriose naudojami potencialiai pavojingi
+įrenginiai.
+2. Įmonės
+darbuotojų saugos ir sveikatos būklės statistinės atskaitomybės formą ir
+rodiklius nustato Vyriausybė.
  
-Saugos darbe
-norminių aktų pažeidimą, dėl kurio įvyko mirtinas nelaimingas atsitikimas
-darbe, Valstybinė darbo inspekcija nustato tirdama nelaimingą atsitikimą darbe.
-Įmonė,
-kurioje dėl saugos darbe norminių aktų pažeidimo įvyko mirtinas nelaimingas
-atsitikimas, mirusiojo šeimai išmoka vienkartinę pašalpą, ne mažesnę kaip 100
-respublikos ūkio vidutinių darbo užmokesčių. Apskaičiuojant šią pašalpą,
-respublikos ūkio vidutinis darbo užmokestis imamas tokio dydžio, kokį Statistikos
-departamentas prie Lietuvos Respublikos Vyriausybės paskelbė mėnesiui, ėjusiam
-prieš tą mėnesį, kurį įvyko mirtinas nelaimingas atsitikimas darbe. Ši pašalpa
-lygiomis dalimis išmokama kiekvienam mirusiojo šeimos nariui. Mirusiojo šeimos
-nariais laikomi sutuoktinis (sutuoktinė), vaikai (įvaikiai), tėvai (įtėviai),
-mirusiojo vaikas (vaikai), gimęs (gimę) po jo mirties. Pašalpos mokėjimo tvarką
-nustato Pašalpos darbuotojui žuvus dėl nelaimingo atsitikimo darbe skyrimo
-nuostatai, kuriuos tvirtina Vyriausybė.
-Jeigu
-mirtinas nelaimingas atsitikimas darbe įmonėje įvyko po to, kai Valstybinė
-darbo inspekcija nustatė saugos darbe norminių aktų reikalavimų pažeidimą, o
-darbdavys valstybinio darbo inspektoriaus nustatytu laiku jo nepašalino ir dėl
-to įvyko mirtinas nelaimingas atsitikimas darbe, įmonė į Saugos darbe fondo
-sąskaitą perveda sumą, lygią 50 respublikos ūkio vidutinių darbo užmokesčių.
-Apskaičiuojant šią sumą, respublikos ūkio vidutinis darbo užmokestis imamas
-tokio dydžio, kokį Statistikos departamentas prie Lietuvos Respublikos
-Vyriausybės paskelbė mėnesiui, ėjusiam prieš tą mėnesį, kurį buvo nustatytas
-saugos darbe norminių aktų reikalavimų pažeidimas.
-Ginčus, kilusius
-dėl šio straipsnio taikymo, sprendžia teismas.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
-Nr.
-VIII-368,
-97.07.01, Žin., 1997, Nr.67-1658 (97.07.16)
+84 straipsnis.
+Tarptautinis bendradarbiavimas
+Lietuvos
+Respublikos tarptautinis bendradarbiavimas darbuotojų saugos ir sveikatos srityje
+grindžiamas atitinkamais Europos Sąjungos, Tarptautinės darbo organizacijos
+teisės aktais, kitais tarptautiniais dokumentais.
  
- 
-            80 straipsnis.
-Administracinės baudos už saugos darbe norminių aktų pažeidimus
- 
-            Valstybinė darbo inspekcija
-už saugos darbe norminių aktų pažeidimus skiria Lietuvos Respublikos įstatymų
-nustatytas baudas norminius aktus pažeidusiems darbdaviams, darbuotojams.
-            Šiame straipsnyje numatytų
-baudų lėšos mokamos į valstybės biudžetą.
- 
- 
-X SKYRIUS.
-BAIGIAMIEJI NUOSTATAI
- 
-            81 straipsnis. Saugos darbe
-kontrolė
- 
-            Saugos darbe reikalavimų
-laikymąsi įmonėse, įstaigose ir organizacijose kontroliuoja Valstybinė darbo
-inspekcija prie Socialinės apsaugos ir darbo ministerijos. Valstybinės darbo
-inspekcijos funkcijas, teises ir atsakomybę nustato Lietuvos Respublikos
-valstybinės darbo inspekcijos įstatymas.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16)
- 
- 
-            82 straipsnis. Ginčų
-nagrinėjimo tvarka
- 
-            Ginčai dėl saugos darbe
-norminių aktų taikymo ar jų pažeidimų nagrinėjami:
-            tarp darbuotojų ir darbdavių
-- nustatyta darbo ginčų nagrinėjimo tvarka;
-            tarp įmonių - įstatymų
-nustatyta tvarka teisme arba arbitraže.
-            Kolektyviniai darbo ginčai
-(konfliktai) dėl saugos darbe sprendžiami Lietuvos Respublikos kolektyvinių
-ginčų reguliavimo įstatymo nustatyta tvarka.
- 
-            83 straipsnis. Saugos darbe
-apskaita ir atskaitomybė
- 
-            Įmonėse registruojami
-nelaimingi atsitikimai, profesinės ligos, darbo vietos, kuriose kenksmingi
-darbo aplinkos veiksniai neatitinka higienos normų, taip pat darbo vietos,
-kuriose naudojami potencialiai pavojingi techniniai įrenginiai (18 straipsnis),
-neatitinkančios saugos darbe norminių aktų reikalavimų darbo priemonės, vykdomi
-pavojingi darbai.
-            Saugos darbe apskaitos ir
-statistinės atskaitomybės rodiklius ir tvarką nustato Lietuvos Respublikos
-Vyriausybė.
- 
-            84 straipsnis. Tarptautinis
-bendradarbiavimas
- 
-            Lietuvos Respublikos
-tarptautinis bendradarbiavimas saugos darbe klausimais grindžiamas Tarptautinės
-darbo organizacijos konstitucija, 1944 m. rugpjūčio 10 d. Tarptautinės darbo
-organizacijos generalinės konferencijos deklaracija, Tarptautinės darbo
-organizacijos konvencijomis bei kitais tarptautiniais dokumentais.
- 
-            85 straipsnis. Tarptautinių
-dokumentų galiojimas Lietuvos Respublikoje
- 
-            Pagal Tarptautinės darbo
-organizacijos konstituciją Lietuvos Respublikoje galioja ratifikuotos
-Tarptautinės darbo organizacijos konvencijos ir kitų tarptautinių organizacijų
-dokumentai saugos darbe klausimais.
-            Rengiant Lietuvos
-Respublikos saugos darbe norminius aktus, atsižvelgiama į Tarptautinės darbo
+85
+straipsnis. Europos Sąjungos ir Tarptautinės darbo organizacijos darbuotojų 
+saugos
+ir sveikatos teisės aktų taikymas Lietuvos Respublikoje
+Rengiant
+Lietuvos Respublikos darbuotojų saugos ir sveikatos teisės aktus, taikomos
+Europos Sąjungos darbuotojų saugos ir sveikatos teisės aktų nuostatos,
+Tarptautinės darbo organizacijos konvencijų, kurios nustatyta tvarka ratifikuotos
+Lietuvos Respublikoje, nuostatos, taip pat atsižvelgiama į Tarptautinės darbo
 organizacijos rekomendacijas.
  
-            86 straipsnis. Tarptautinių
-sutarčių galiojimas
+86
+straipsnis. Įstatymo 15 straipsnio 3 dalies, 29 straipsnio ir 69 straipsnio 6
+dalies 
+galiojimas
+1. Šio įstatymo
+15 straipsnio 3 dalis įsigalioja nuo 2001 m. liepos 1 d.
+2. Šio įstatymo
+29 straipsnis galioja iki 2005 m. gruodžio 31 d.
+3. Žmonių saugos
+darbe įstatymo 69 straipsnio 6 dalis galioja iki 2001 m. sausio 1 d. 
  
-            Lietuvos Respublikoje
-galioja tik tos tarptautinės sutartys, kuriose nustatyti saugos darbe
-reikalavimai nemažina darbuotojų saugos darbe garantijų, nustatytų šiame
-įstatyme, kituose Lietuvos Respublikos saugos darbe norminiuose aktuose.
+87 straipsnis.
+Įstatymo 79 straipsnio taikymas
+Šio įstatymo 79
+straipsnio nuostatos yra taikomos nuo Nelaimingų atsitikimų darbe ir profesinių
+ligų socialinio draudimo įstatymo įsigaliojimo dienos.
  
-            87 straipsnis. Įstatymo
-įsigaliojimas
- 
-            Lietuvos Respublikos žmonių
-saugos darbe įstatymo 7 straipsnis, 8 straipsnis, 10 straipsnio antroji dalis,
-11 straipsnio trečioji dalis, 14 straipsnio šeštoji, septintoji ir aštuntoji
-dalys, 15 straipsnio aštuntoji dalis, 16 straipsnio antroji dalis, 17
-straipsnio ketvirtoji dalis, 18 straipsnio antroji dalis, 20 straipsnio
-trečioji dalis, 24 straipsnio ketvirtoji ir šeštoji dalys, 26 straipsnis, 28
-straipsnio 1 punktas, 29 straipsnis, 30 straipsnio ketvirtoji dalis, 31
-straipsnio šeštoji dalis, 41 straipsnio pirmosios dalies 3 punktas ir antroji
-dalis, 42 straipsnio aštuntoji dalis, 46 straipsnis, 52 straipsnio ketvirtoji
-dalis, 57 straipsnis, 58 straipsnio trečioji dalis, 59 straipsnio antroji,
-trečioji ir ketvirtoji dalys, 64 straipsnis, 67 straipsnio pirmosios dalies 5
-ir 6 punktai bei antroji dalis, 68 straipsnio antroji dalis, 69 straipsnio
-trečioji, penktoji ir šeštoji dalys, 70 straipsnio antroji dalis, 72 straipsnio
-dešimtoji ir vienuoliktoji dalys, 75 straipsnio pirmoji dalis, 76 straipsnis,
-79 straipsnis, 82 straipsnis, 84 straipsnio antroji dalis įsigalioja Lietuvos
-Respublikos Seimui priėmus atitinkamą įstatymą arba Lietuvos Respublikos
-Vyriausybei nustatyta tvarka patvirtinus atitinkamus saugos darbe norminius
-aktus. Iki nurodytuose straipsniuose minėtų norminių aktų patvirtinimo
-vadovaujamasi galiojančiais saugos darbe norminiais aktais.
-Straipsnio
-pakeitimai:
-Nr.
-I-628,
-94.11.03, Žin., 1994, Nr. 88-1669 (94.11.16) 
+88 straipsnis.
+Pasiūlymai Vyriausybei
+Įsigaliojus šiam
+įstatymui, Vyriausybė:
+1) iki 2001 m.
+vasario 1 d. patvirtina Nelaimingų atsitikimų darbe tyrimo ir apskaitos
+nuostatus ir Profesinių ligų tyrimo ir apskaitos nuostatus;
+2)
+nustato darbuotojų saugos ir sveikatos teisės aktų, patvirtintų įgyvendinant
+Seimo 1993 m. spalio 7 d. nutarimą Nr. I-267 „Dėl Lietuvos Respublikos žmonių
+saugos darbe įstatymo 88 straipsnyje nurodytų straipsnių įgyvendinimo“ (Žin.,
+1993, Nr. 55-1065; 1994, Nr. 88-1671), pakeitimų ir papildymų, taip pat kitų
+šio įstatymo straipsniuose nurodytų darbuotojų saugos ir sveikatos teisės aktų,
+kuriuos tvirtina ministrai, įsigaliojimo terminus.
  
  
             Skelbiu šį Lietuvos
@@ -1927,7 +2572,7 @@ Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                             
 ALGIRDAS BRAZAUSKAS 
  
-____________
+__________
  
 Pakeitimai:
  
@@ -1977,8 +2622,17 @@ Nr.57-1678 (00.07.14)
 ŽMONIŲ SAUGOS DARBE ĮSTATYMO 43 STRAIPSNIO PAPILDYMO
 ĮSTATYMAS
  
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2063, 2000 10 17, Žin., 2000, Nr.
+95-2968 (2000 11 08)
+ŽMONIŲ SAUGOS DARBE ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Nauja įstatymo redakcija (pakeistas
+įstatymo pavadinimas)
+ 
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.01)
+Redagavo: Aušrinė Trapinskienė (2000 11 13)
 
