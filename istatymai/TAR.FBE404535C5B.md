@@ -27,13 +27,12 @@ LIETUVOS RESPUBLIKOS
 TRANSPORTO
 VEIKLOS PAGRINDŲ
 Į S T A T Y M A S
+ 
 Nauja
 įstatymo redakcija:
 Nr.
 IX-747,
 2002-02-28, Žin., 2002, Nr. 29-1034 (2002-03-20)
- 
- 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
@@ -177,8 +176,8 @@ vykdo kitas šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas.
 Savivaldybių institucijos formuoja viešojo vietinio transporto veiklos
 strategiją ir organizuoja jos įgyvendinimą.
  
-5 straipsnis.
-Transporto rūšys
+5
+straipsnis. Transporto rūšys
 Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių,
 jūrų, oro ir vidaus vandenų transportas. Šių transporto rūšių, taip pat
 kombinuotų vežimų veiklos ypatumus nustato specialieji transporto rūšių
@@ -188,9 +187,8 @@ kombinuotų vežimų veiklos ypatumus nustato specialieji transporto rūšių
 straipsnis. Transporto objektų nuosavybė
 1. Transporto objektai nuosavybės teise gali
 priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio
-fiziniams bei juridiniams asmenims. Nuosavybės teisė į viešosios transporto
-infrastruktūros objektus – autobusų stotis negali būti perleista kitiems
-Lietuvos Respublikos ar užsienio fiziniams ar juridiniams asmenims.
+fiziniams bei juridiniams asmenims, užsienio juridinių asmenų filialams arba
+atstovybėms.
 2.
 Viešojo naudojimo geležinkeliai, valstybinės reikšmės keliai, tarptautinių oro
 uostų infrastruktūra, skrydžių valdymo sistemos įrenginiai, valstybinės
@@ -209,6 +207,8 @@ pakeitimai:
 Nr.
 IX-1866,
 2003-12-02, Žin., 2003, Nr. 119-5403 (2003-12-18)
+Nr. IX-2196,
+2004-04-29, Žin., 2004, Nr. 73-2530 (2004-04-30)
  
 7
 straipsnis. Transporto teisinių  santykių reglamentavimas
@@ -347,8 +347,9 @@ Viešosios transporto infrastruktūros savininkas yra valstybė ir savivaldybės
 Privačios transporto infrastruktūros savininkas yra fizinis ar juridinis asmuo.
 4.
 Viešosios transporto infrastruktūros valdytoją skiria Vyriausybė ar jos
-įgaliota institucija arba savivaldybės institucija. Valdytojui parinkti skelbiamas
-konkursas arba viešajai transporto infrastruktūrai valdyti steigiama įmonė.  
+įgaliota institucija arba savivaldybės institucija. Valdytojui parinkti
+skelbiamas konkursas arba viešajai transporto infrastruktūrai valdyti steigiama
+įmonė.  
  
 15 straipsnis. Viešosios transporto infrastruktūros valdytojo
 veiklos ypatumai
@@ -389,7 +390,6 @@ mechanizmus;
 gali būti steigiami nebiudžetiniai piniginiai fondai, jei tai yra suderinta su
 Europos Bendrijų teise arba Biudžeto sandaros įstatymo nustatyta tvarka, - programos.
  
- 
 17
 straipsnis. Viešosios transporto infrastruktūros valdymo kontrolė
 Viešosios transporto infrastruktūros valdytojo veiklą
@@ -410,7 +410,7 @@ PIRMININKO PAVADUOTOJAS                             
 MOTIEKA
  
 Vilnius, 1991 m. spalio 8 d.
-Nr.I-1863 
+Nr. I-1863 
 
 ________________
  
@@ -461,16 +461,26 @@ Nauja įstatymo redakcija
 5.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1866,
+Nr.
+IX-1866,
 2003-12-02, Žin., 2003, Nr. 119-5403 (2003-12-18)
 TRANSPORTO
 VEIKLOS PAGRINDŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2196,
+2004-04-29, Žin., 2004, Nr. 73-2530 (2004-04-30)
+TRANSPORTO
+VEIKLOS PAGRINDŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2003-12-19)
+Aušrinė Trapinskienė (2004-05-11)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
