@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2004-06-30
+Suvestinė redakcija nuo 2004-07-01 iki 2005-12-02
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -2498,6 +2498,11 @@ INTELEKTINĖS NUOSAVYBĖS APSAUGA IMPORTUOJANT IR EKSPORTUOJANT PREKES
 
 
 
+2. Muitinės departamento generalinio direktoriaus nustatytais atvejais ir tvarka šio straipsnio 1 dalyje nurodytus prašymus ir Intelektinės nuosavybės apsaugos reglamento 6 straipsnyje nurodytas deklaracijas, kurias privaloma pateikti kartu su minėtais prašymais, galima pateikti elektroniniu būdu.
+
+
+
+
 3. Šio straipsnio 1 ir 2 dalių nuostatos mutatis mutandis taikomos ir prašant pratęsti muitinės priežiūros priemonių taikymo laikotarpį. 
 
 
@@ -2572,6 +2577,22 @@ INTELEKTINĖS NUOSAVYBĖS APSAUGA IMPORTUOJANT IR EKSPORTUOJANT PREKES
 
 
 2. Intelektinės nuosavybės teisių subjektas privalo nedelsdamas pateikti teritorinei muitinei, kuriai priklausantis muitinės postas neišleido prekių arba jas sulaikė, arba prekes sulaikiusiai specialiajai muitinės įstaigai dokumentą, liudijantį šio straipsnio 1 dalyje nurodytą kreipimąsi į teismą ir teismo nutartį taikyti ieškinio užtikrinimo priemones, jeigu ji buvo priimta.
+ 
+
+
+
+
+
+
+84 straipsnis. Neišleistų arba sulaikytų prekių sunaikinimas paprastesne tvarka
+
+
+1. Intelektinės nuosavybės apsaugos reglamento 11 straipsnio 1 dalyje nurodytais atvejais muitinės įstaigos neišleistos arba sulaikytos prekės, dalyvaujant muitinės pareigūnams, sunaikinamos nereikalaujant, kad teismas jas pripažintų pagamintomis pažeidžiant intelektinės nuosavybės teises, ir laikantis Vyriausybės arba jos įgaliotos institucijos nustatytos tvarkos.
+
+
+
+
+2. Taikant šio straipsnio 1 dalį, intelektinės nuosavybės teisių subjektas turi teisę remtis iš muitinės gauta informacija, nurodyta šio Įstatymo 82 straipsnio 3 ir 4 dalyse.
  
 
 
