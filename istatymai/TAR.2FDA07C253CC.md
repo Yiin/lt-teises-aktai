@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2FDA07C253CC"
 
 # Lietuvos Respublikos valstybinių įmonių įstatymas
 
-Suvestinė redakcija nuo 1993-10-13 iki 1993-11-18
+Suvestinė redakcija nuo 1993-11-19 iki 1994-07-19
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 92-0; Žin. 1990, Nr.30-709, i. k. 0901010ISTA000I-604
  
@@ -89,7 +89,10 @@ Nr. I-219, 1993-07-14, Žin., 1993, Nr. 31-710 (1993-07-23), i. k. 0931010ISTA00
 
 2) nustatyti viso turimo valstybinio ir akcinio kapitalo naudojimo kryptis ir būdus;
 
-3) sudaryti sutartis dėl paskolų suteikimo arba gavimo ir palūkanų už jas dydžio;
+3) sudaryti sutartis dėl paskolų suteikimo (tik iš nuosavo kapitalo lėšų) arba jų gavimo ir palūkanų už jas dydžio; 
+Straipsnio punkto pakeitimai:
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
+ 
 
 4) leisti vertybinius popierius, išskyrus obligacijas;
 
@@ -810,4 +813,9 @@ Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-254, 1993-09-28, Žin., 1993, Nr. 52-995 (1993-10-13), i. k. 0931010ISTA000I-254
 Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
+Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
 
