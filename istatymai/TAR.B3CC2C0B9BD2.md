@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2003-04-16 iki 2004-01-06
+Suvestinė redakcija nuo 2004-01-07 iki 2004-04-14
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
  
@@ -473,10 +473,12 @@ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS
 10 straipsnis. Vandens naudojimo leidimai 
 
 
-Kad vandens telkinius būtų galima naudoti vandeniui išgauti, nuotekoms išleisti, juose plaukioti plaukiojimo priemonėmis, žvejoti, reikalingas leidimas. Leidimo nereikalaujama, jeigu vandens naudojimas daro nereikšmingą poveikį vandens telkinio fizinėms, cheminėms ir biologinėms savybėms. Vandens naudojimo ir (arba) poveikio ribas, kurias pasiekus reikalingas leidimas, nustato institucija, kuriai įstatymas suteikia teisę reglamentuoti leidimų išdavimą. 
+Kad vandens telkinius būtų galima naudoti vandeniui išgauti, nuotekoms išleisti, žvejoti, reikalingas leidimas. Leidimo nereikalaujama, jeigu vandens naudojimas daro nereikšmingą poveikį vandens telkinio fizinėms, cheminėms ir biologinėms savybėms. Vandens naudojimo ir (arba) poveikio ribas, kurias pasiekus reikalingas leidimas, nustato institucija, kuriai įstatymas suteikia teisę reglamentuoti leidimų išdavimą.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1941, 2003-12-22, Žin., 2004, Nr. 4-44 (2004-01-07), i. k. 1031010ISTA0IX-1941
  
-
-
 
 
 
@@ -526,20 +528,27 @@ Kad vandens telkinius būtų galima naudoti vandeniui išgauti, nuotekoms išlei
 13 straipsnis. Plaukiojimo priemonių naudojimas vandens telkiniuose
 
 
-1. Fiziniai ir juridiniai asmenys, vandens telkiniuose naudojantys plaukiojimo priemones, privalo užtikrinti, kad šios priemonės neleistinai neterštų vandens, neardytų krantų, negadintų hidrotechnikos statinių bei komunikacijų, nekeltų pavojaus žmonėms ir aplinkai. Aplinkosaugos sąlygas plaukioti vandens telkiniuose plaukiojimo priemonėmis nustato ir leidimų išdavimą reglamentuoja aplinkos ministras. 
+1. Fiziniai ir juridiniai asmenys, vandens telkiniuose naudojantys plaukiojimo priemones, privalo užtikrinti, kad šios priemonės neleistinai neterštų vandens, neardytų krantų, negadintų hidrotechnikos statinių bei komunikacijų, nekeltų pavojaus žmonėms ir aplinkai. Aplinkosaugos sąlygas plaukioti vandens telkiniuose plaukiojimo priemonėmis nustato aplinkos ministras. 
 
 
 
 
-2. Aplinkosaugos sąlygas vandens telkinių dugno valymo ir gilinimo darbams laivybos reikmėms nustato aplinkos ministras.
+2. Vandens telkinių, kuriuose plaukiojimas tam tikro tipo plaukiojimo priemonėmis draudžiamas ar ribojamas, sąrašą nustato aplinkos ministras.
 
 
 
 
-3. Laivybą vidaus vandenų keliuose reglamentuoja Vidaus vandenų transporto kodeksas. Laivybai vidaus vandenų keliuose vandens naudojimo leidimo nereikia.
+3. Aplinkosaugos sąlygas vandens telkinių dugno valymo ir gilinimo darbams laivybos reikmėms nustato aplinkos ministras.
+
+
+
+
+4. Laivybą vidaus vandenų keliuose reglamentuoja Vidaus vandenų transporto kodeksas.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1941, 2003-12-22, Žin., 2004, Nr. 4-44 (2004-01-07), i. k. 1031010ISTA0IX-1941
  
-
-
 
 
 
@@ -1096,3 +1105,8 @@ Lietuvos Respublikos vandens įstatymo 21 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1388, 2003-03-25, Žin., 2003, Nr. 36-1544 (2003-04-16), i. k. 1031010ISTA0IX-1388
 Lietuvos Respublikos vandens įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1941, 2003-12-22, Žin., 2004, Nr. 4-44 (2004-01-07), i. k. 1031010ISTA0IX-1941
+Lietuvos Respublikos vandens įstatymo 10 ir 13 straipsnių pakeitimo įstatymas
