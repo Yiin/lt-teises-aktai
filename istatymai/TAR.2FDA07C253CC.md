@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2FDA07C253CC"
 
 # Lietuvos Respublikos valstybinių įmonių įstatymas
 
-Suvestinė redakcija nuo 1994-07-20 iki 1994-11-17
+Įstatymas netenka galios 1994-12-31:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-722, 1994-12-21, Žin., 1994, Nr. 102-2049 (1994-12-31), i. k. 0941010ISTA000I-722
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
+ 
+Suvestinė redakcija nuo 1994-11-18 iki 1994-12-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 92-0; Žin. 1990, Nr.30-709, i. k. 0901010ISTA000I-604
- 
-TAR pastaba. Lietuvos Respublikos valstybinių įmonių įstatymas (Žin., 1990, Nr. 30-709; 1991, Nr. 4-107; 1992, Nr. 30-914; 1993, Nr. 31-710, Nr. 32-730, Nr. 49-963, Nr. 52-995, Nr. 62-1169) galioja tik valstybinėms įmonėms, kurios įrašytos 50 straipsnio  trečiojoje dalyje nustatytame įmonių sąraše.  50 str. 3 dalis: 3. Valstybinės ir valstybinės akcinės įmonės, išskyrus valstybines įmones, kurių Lietuvos Respublikos Vyriausybė nenumato iki 2000 metų nei akcionuoti, nei privatizuoti, taip pat individualios (personalinės) įmonės, kurioms suteiktos juridinio asmens teisės, turi būti reorganizuotos į bendroves Lietuvos Respublikos Vyriausybės nustatyta tvarka ir per 9 mėnesius nuo šio įstatymo įsigaliojimo įregistruotos Lietuvos Respublikos įmonių rejestre. Nurodytas laikas įmonėms, tęsiančioms privatizavimą pagal Valstybinio turto pirminio privatizavimo įstatymą, skaičiuojamas nuo jų privatizavimo termino pabaigos. Lietuvos Respublikos Vyriausybė turi parengti ir iki 1994 m. lapkričio 1 d. pateikti Seimui tvirtinti tokių įmonių sąrašą (nurodydama įstatinį kapitalą) ir Lietuvos Respublikos valstybės ir savivaldybių įmonių įstatymo projektą.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-528, 1994-07-05, Žin., 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA000I-528
-Lietuvos Respublikos akcinių bendrovių įstatymas
  
  
 LIETUVOS RESPUBLIKOS VALSTYBINIŲ ĮMONIŲ ĮSTATYMAS
@@ -512,9 +512,14 @@ VALSTYBINIS KAPITALAS
 
 1. Įmonei patikėtas Lietuvos valstybės kapitalas, kurį sudaro valstybės finansinės (piniginės) investicijos bei palūkanos už valstybės kapitalo naudojimą, nuosavybės teise priklauso Lietuvos Respublikai. Jeigu įmonės naudojamas valstybinis kapitalas yra sukurtas iš vietos savivaldybės lėšų ar kitokio jos turto, nuosavybės teisė į šį kapitalą priklauso vietos savivaldybei. Valstybei (vietos savivaldybei) nuosavybės teise taip pat priklauso amortizacinių atskaitymų dalis, kuri yra proporcinga valstybinio kapitalo daliai įmonės kapitale, neįskaitant skolinto kapitalo.
 
-2. Valstybinio kapitalo įmonė neturi teisės naudoti darbo užmokesčiui, premijoms, dividendams ar kitiems išmokėjimams, nekomercinei veiklai finansuoti.
+2. Valstybinio kapitalo įmonė neturi teisės naudoti įsipareigojimams kito asmens kreditoriui užtikrinti, darbo užmokesčiui, premijoms, dividendams ar kitiems išmokėjimams, nekomercinei veiklai finansuoti.
+Straipsnio dalies pakeitimai:
+Nr. I-656, 1994-11-10, Žin., 1994, Nr. 89-1725 (1994-11-18), i. k. 0941010ISTA000I-656
+ 
 
-3. Įmonė privalo užtikrinti jai patikėto valstybės (vietos savivaldybės) kapitalo išsaugojimą ir pelningą naudojimą. Valstybinis kapitalas gali būti sumažintas tik įstatymų nustatytais atvejais.
+3. Įmonė privalo užtikrinti jai patikėto valstybės (vietos savivaldybės) kapitalo išsaugojimą ir pelningą naudojimą, jis gali būti įkeičiamas tik gavus steigėjo sutikimą. Valstybinis kapitalas gali būti sumažintas tik įstatymų nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. I-656, 1994-11-10, Žin., 1994, Nr. 89-1725 (1994-11-18), i. k. 0941010ISTA000I-656
  
 
 23 straipsnis. Palūkanos už valstybinio kapitalo naudojimą
@@ -828,4 +833,9 @@ Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių ve
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-528, 1994-07-05, Žin., 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA000I-528
 Lietuvos Respublikos akcinių bendrovių įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-656, 1994-11-10, Žin., 1994, Nr. 89-1725 (1994-11-18), i. k. 0941010ISTA000I-656
+Dėl Lietuvos Respublikos valstybinių įmonių įstatymo papildymo
 
