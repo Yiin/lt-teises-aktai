@@ -100,20 +100,9 @@ Fondo biudžeto pajamų ir išlaidų biudžetinių metų plane ir Fondo biudžet
 vykdymo ataskaitoje parodomos biudžetiniams metams priskirtinos pajamos,
 neatsižvelgiant į jų gavimo laiką. Pinigų srautų plane ir ataskaitoje parodomos
 faktinės pinigų įplaukos.
-2.
-Fondo biudžeto pajamas sudaro draudėjų ir apdraustųjų valstybinio socialinio
-draudimo įmokos, individualių (personalinių) įmonių savininkų, individualių
-(personalinių) įmonių nuomininkų, advokatų, advokatų padėjėjų, notarų, tikrųjų
-ūkinių bendrijų narių, komanditinių ūkinių bendrijų tikrųjų narių, patentus
-įsigijusių asmenų bei
-ūkininkų valstybinio socialinio draudimo įmokos, valstybinio savanoriškojo
-socialinio draudimo įmokos, baudos, delspinigiai bei kitos pajamos, gautinos
-taikant sankcijas, asignavimai iš valstybės biudžeto, atgautos į ankstesnių
-metų Fondo biudžeto išlaidas iškeltos abejotinai atgautinos sumos, Fondo
-biudžeto veiklos pajamos ir iš turimo kapitalo gaunamos pajamos.
  
-[2
-dalies redakcija nuo 2003 m. sausio 1 d.:
+2
+dalies redakcija iki 2004 m. sausio 1 d.:
 2.
 Fondo biudžeto pajamas sudaro draudėjų ir apdraustųjų valstybinio socialinio
 draudimo įmokos, individualių (personalinių) įmonių savininkų, individualių
@@ -124,12 +113,27 @@ liudijimus turinčių asmenų bei ūkininkų valstybinio socialinio  draudimo
 delspinigiai bei kitos pajamos, gautinos taikant sankcijas, asignavimai iš
 valstybės biudžeto, atgautos į ankstesnių metų Fondo biudžeto išlaidas iškeltos
 abejotinai atgautinos sumos, Fondo biudžeto veiklos pajamos ir iš turimo
-kapitalo gaunamos pajamos.]
+kapitalo gaunamos pajamos.
+2
+dalies redakcija nuo 2004 m. sausio 1 d.:
+2. Fondo
+biudžeto pajamas sudaro draudėjų ir apdraustųjų valstybinio socialinio draudimo
+įmokos, individualių (personalinių) įmonių savininkų, individualių
+(personalinių) įmonių nuomininkų, tikrųjų ūkinių bendrijų narių, komanditinių
+ūkinių bendrijų tikrųjų narių, taip pat asmenų, kurie verčiasi individualia
+veikla pagal Gyventojų pajamų mokesčio įstatymą, valstybinio socialinio
+draudimo įmokos, valstybinio savanoriškojo socialinio draudimo įmokos, baudos,
+delspinigiai bei kitos pajamos, gautinos taikant sankcijas, asignavimai iš
+valstybės biudžeto, atgautos į ankstesnių metų Fondo biudžeto išlaidas iškeltos
+abejotinai atgautinos sumos, Fondo biudžeto veiklos pajamos ir iš turimo
+kapitalo gaunamos pajamos.
 Straipsnio pakeitimai:
-Nr. IX-871, 2002-05-07,
-Žin., 2002, Nr. 52-1984 (2002-05-24)
+Nr. IX-871,
+2002-05-07, Žin., 2002, Nr. 52-1984 (2002-05-24)
 Nr. IX-1266,
 2002-12-10, Žin., 2002, Nr. 123-5551 (2002-12-24), įsigalioja nuo 2003-01-01
+Nr. IX-1748,
+2003-10-07, Žin., 2003, Nr. 101-4535 (2003-10-29)
  
 4 straipsnis Fondo biudžeto pajamų planavimas
 1.
@@ -169,25 +173,26 @@ pajamų kitimą per paskutinius dvejus metus.
 5
 straipsnis. Fondo biudžeto išlaidos
 1.
-Fondo biudžeto pajamų ir išlaidų biudžetinių metų plane ir Fondo biudžeto vykdymo
-ataskaitoje parodomos biudžetiniams metams priskirtinos Fondo biudžeto
+Fondo biudžeto pajamų ir išlaidų biudžetinių metų plane ir Fondo biudžeto
+vykdymo ataskaitoje parodomos biudžetiniams metams priskirtinos Fondo biudžeto
 išlaidos, neatsižvelgiant į mokėjimo laiką. Pinigų srautų plane ir ataskaitoje
 parodomos faktinės pinigų išlaidos.
+2
+dalies redakcija iki 2004 m. sausio 1 d.:
 2.
 Fondo biudžeto išlaidas sudaro: pensijų socialinio draudimo, ligos, motinystės
 ir motinystės (tėvystės) socialinio draudimo, nelaimingų atsitikimų darbe ir
 profesinių ligų socialinio draudimo išlaidos, į Privalomojo sveikatos draudimo
 fondą bei draudimui nuo nedarbo pervedamos lėšos, įvertintos neatgautinos ir
 abejotinai atgautinos sumos bei Fondo biudžeto veiklos sąnaudos.
- 
-[2
+2
 dalies redakcija nuo 2004 m. sausio 1 d.:
 2.
 Fondo biudžeto išlaidas sudaro: pensijų socialinio draudimo, ligos, motinystės
 ir motinystės (tėvystės) socialinio draudimo, nelaimingų atsitikimų darbe ir
 profesinių ligų socialinio draudimo išlaidos bei draudimui nuo nedarbo
 pervedamos lėšos, įvertintos neatgautinos ir abejotinai atgautinos sumos bei
-Fondo biudžeto veiklos sąnaudos.]
+Fondo biudžeto veiklos sąnaudos.
  
 3.
 Pensijų socialinio draudimo išlaidoms priskiriamos senatvės, invalidumo, našlių
@@ -208,9 +213,8 @@ socialinio draudimo įstatymą.
 7.
 Į Privalomojo sveikatos draudimo fondą pervedamas lėšas sudaro gautos sveikatos
 draudimo įmokos, baudos ir delspinigiai, numatyti Sveikatos draudimo įstatyme.
- 
-[7
-dalis netenka galios nuo 2004 m. sausio 1 d.]
+7
+dalis netenka galios nuo 2004 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr. IX-871,
 2002-05-07, Žin., 2002, Nr. 52-1984 (2002-05-24)
@@ -229,6 +233,9 @@ abejotinai atgautinas sumas bei jų kitimo tendencijas. Fondo biudžeto vykdymo
 ataskaitoje neatgautinas ir abejotinai atgautinas sumas sudaro draudėjų skolos,
 kurių neįmanoma atgauti, bei Vyriausybės ar jos įgaliotos institucijos
 nustatyta tvarka įvertinti atidėjiniai abejotinai atgautinoms sumoms. 
+ 
+3
+dalies redakcija iki 2004 m. sausio 1 d.:
 3.
 Fondo biudžeto veiklos sąnaudas sudaro Fondo įstaigų valstybės tarnautojų darbo
 apmokėjimo, valstybės tarnautojų valstybinio socialinio draudimo, prekių ir
@@ -238,8 +245,7 @@ kitos sąnaudos (sumokėtos palūkanos, delspinigiai už laiku nepervestas lėš
 draudėjams pašalpoms mokėti, nekilnojamojo turto ir žemės nuomos mokesčiai),
 taip pat sąnaudos, susijusios su draudimo nuo nedarbo, sveikatos draudimo įmokų
 administravimu bei su išmokų, finansuojamų iš valstybės biudžeto, mokėjimu. 
- 
-[3
+3
 dalies redakcija nuo 2004 m. sausio 1 d. 3 dalies nuostata, kad Fondo biudžeto veiklos sąnaudas
 sudaro ir Fondo įstaigų darbuotojų darbo apmokėjimo bei jų valstybinio
 socialinio draudimo sąnaudos, įsigalioja nuo 2002 m. liepos 1 d.:
@@ -252,27 +258,28 @@ pardavus ilgalaikį turtą, kitos sąnaudos (sumokėtos palūkanos, delspinigiai
 laiku nepervestas lėšas draudėjams pašalpoms mokėti, nekilnojamojo turto ir
 žemės nuomos mokesčiai), taip pat sąnaudos, susijusios su draudimo nuo nedarbo
 įmokų administravimu bei su išmokų, finansuojamų iš valstybės biudžeto,
-mokėjimu.]
+mokėjimu.
 Straipsnio pakeitimai:
 Nr. IX-871,
 2002-05-07, Žin., 2002, Nr. 52-1984 (2002-05-24)
  
 7
 straipsnis. Fondo rezervas ir kasos apyvartos lėšos
+1
+dalies redakcija iki 2004 m. sausio 1 d.:
 1.
 Fonde sudaromas Fondo rezervas. Jis sudaromas iš Fondo biudžeto išlaidas
 viršijančios pajamų dalies, neįskaitant lėšų, pervedamų į Privalomojo sveikatos
 draudimo fondą, ir yra skiriamas Fondui stabilizuoti. Į Fondo rezervą
 įskaitomas įstatymų ir kitų teisės aktų nustatyta tvarka įvertintas ilgalaikis
 materialusis, nematerialusis ir finansinis sukauptas turtas.
- 
-[1
+1
 dalies redakcija nuo 2004 m. sausio 1 d.:
 1.
 Fonde sudaromas Fondo rezervas. Jis sudaromas iš Fondo biudžeto išlaidas
 viršijančios pajamų dalies ir yra skiriamas Fondui stabilizuoti. Į Fondo
 rezervą įskaitomas įstatymų ir kitų teisės aktų nustatyta tvarka įvertintas
-ilgalaikis materialusis, nematerialusis ir finansinis sukauptas turtas.]
+ilgalaikis materialusis, nematerialusis ir finansinis sukauptas turtas.
  
 2.
 Fondo rezervo lėšos Fondo tarybos nustatyta tvarka gali būti naudojamos Fondo
@@ -282,10 +289,10 @@ apmokėti, laikinam pajamų trūkumui atskiroms draudimo rūšims padengti.
 Jeigu per paskutinius dvejus metus nesudaromas einamųjų metų vieno mėnesio
 pajamų dydžio Fondo rezervas arba susikaupia daugiau kaip einamųjų metų 2
 mėnesių pajamų dydžio metinės pajamų sumos Fondo rezervas, Fondo taryba teikia
-Vyriausybei pasiūlymus dėl valstybinio socialinio draudimo įmokų tarifų ar
-išmokų dydžių pakeitimo. Vyriausybė, apsvarsčiusi Fondo tarybos pasiūlymus ir
-jiems pritarusi, pateikia Seimui teisės aktų projektus dėl valstybinio
-socialinio draudimo įmokų tarifų ar išmokų dydžių pakeitimo.
+Vyriausybei pasiūlymus dėl valstybinio socialinio draudimo įmokų tarifų ar išmokų
+dydžių pakeitimo. Vyriausybė, apsvarsčiusi Fondo tarybos pasiūlymus ir jiems
+pritarusi, pateikia Seimui teisės aktų projektus dėl valstybinio socialinio
+draudimo įmokų tarifų ar išmokų dydžių pakeitimo.
 4.
 Fondo biudžete sudaromos kasos apyvartos lėšos, būtinos pinigų cirkuliacijai
 užtikrinti. Šių lėšų dydis nustatomas tvirtinant Fondo biudžetą. 
@@ -491,8 +498,22 @@ FONDO BIUDŽETO SANDAROS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas
 įsigalioja nuo 2003 m. sausio 1 d.
  
-*** Pabaiga ***
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1748,
+2003-10-07, Žin., 2003, Nr. 101-4535 (2003-10-29)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO IR VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO
+SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2003-01-09)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2003-10-30)
+                 
+autrap@lrs.lt
