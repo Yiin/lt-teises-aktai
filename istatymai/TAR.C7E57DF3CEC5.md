@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2004-01-01 iki 2004-08-06
+Suvestinė redakcija nuo 2004-08-07 iki 2004-11-16
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -474,7 +474,10 @@ Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010IST
 
 
 
-2) darbuotojų perkvalifikavimo išlaidos iš dalies ar visiškai padengiamos Lietuvos Respublikos Vyriausybės nustatyta tvarka;
+2) darbuotojų perkvalifikavimo išlaidos iš dalies ar visiškai padengiamos Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
+ 
 
 
 
@@ -509,12 +512,18 @@ Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010IST
 
 
 
-9) infrastruktūra (iki investuotojui suteikto sklypo ribų) sutvarkoma valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės nustatyta tvarka;
+9) infrastruktūra (iki investuotojui suteikto sklypo ribų) sutvarkoma valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
+Straipsnio punkto pakeitimai:
+Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
+ 
 
 
 
 
-10) investuojant į valstybės ir savivaldybių nebaigtus statyti statinius ar apleistus ir nenaudojamus pastatus, kurių nepavyko privatizuoti pagal Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymą, kai bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą terminą šis objektas nebuvo privatizuotas, Lietuvos Respublikos Vyriausybė arba savivaldybė tokį turtą parduoda (perduoda) Vyriausybės arba savivaldybės tarybos nustatyta tvarka.
+10) neteko galios 2004-08-07.
+Straipsnio punkto pakeitimai:
+Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
+ 
 
 
 
@@ -627,3 +636,8 @@ Lietuvos Respublikos investicijų įstatymo 2, 12, 13 straipsnių pakeitimo ir p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1665, 2003-07-01, Žin., 2003, Nr. 73-3345 (2003-07-23), i. k. 1031010ISTA0IX-1665
 Lietuvos Respublikos investicijų įstatymo 8 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
+Lietuvos Respublikos investicijų įstatymo 13 straipsnio pakeitimo įstatymas
