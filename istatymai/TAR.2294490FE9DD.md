@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2004-04-30 iki 2004-04-30
+Suvestinė redakcija nuo 2004-05-01 iki 2004-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
