@@ -675,23 +675,34 @@ Nr. VIII-1043,
 99.02.09, Žin., 1999, Nr.19-507 (99.02.24)
  
  
+Straipsnio
+pavadinimas pakeistas:
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
 22(2)
-straipsnis. Kandidato stipendija ir kitos veiklos apribojimai
+straipsnis. Kandidato stipendija, valstybinis socialinis draudimas ir kitos
+veiklos 
+apribojimai
 Kandidatui
 praktikos metu mokama 60 procentų apylinkės teismo teisėjo algos dydžio
 stipendija. Kandidato praktikos vadovui atitinkamai yra mažinamas darbo krūvis
 teisme.
 Jeigu kandidato
-į apylinkės teismo teisėjus sutartis nutraukiama dėl kandidato kaltės, kandidatas
-privalo Teismų departamentui grąžinti visas šio departamento jam sumokėtas
-sumas (jeigu sutartyje nenustatyta kitaip). 
+į apylinkės teismo teisėjus sutartis nutraukiama dėl kandidato kaltės,
+kandidatas privalo Teismų departamentui grąžinti visas šio departamento jam
+sumokėtas sumas (jeigu sutartyje nenustatyta kitaip). 
 Kandidatui
 taikomi tokie pat reikalavimai kaip ir teisėjui.
+Kandidatai
+draudžiami valstybiniu socialiniu draudimu Lietuvos Respublikos valstybinio
+socialinio draudimo įstatyme nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
 VIII-696,
 98.04.08, Žin., 1998, Nr.38-1001 (98.04.22)
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
  
  
 22(3)
@@ -879,8 +890,8 @@ VIII-696,
  
 28 straipsnis.
 Teisėjų egzaminai
-Teisėjų egzaminus
-asmenys raštu ir žodžiu laiko tik prieš jų skyrimą teisėjais.
+Teisėjų
+egzaminus asmenys raštu ir žodžiu laiko tik prieš jų skyrimą teisėjais.
 Teisėjų egzaminų
 programas rengia Teisingumo ministerija, o tvirtina Lietuvos Aukščiausiojo
 Teismo pirmininkas ir teisingumo ministras.
@@ -969,8 +980,8 @@ mėnesius, arba kai reikalauja ne mažiau kaip 1/3 Tarybos narių.
 Teisėjų tarybos
 posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip pusė Teisėjų tarybos
 narių. Teisėjų tarybos nutarimai priimami atviru balsavimu. Nutarimas laikomas
-priimtu, jeigu už jį balsavo dauguma dalyvavusių posėdyje Teisėjų tarybos
-narių. Balsams pasiskirsčius po lygiai, lemia pirmininko balsas.
+priimtu, jeigu už jį balsavo dauguma dalyvavusių posėdyje Teisėjų tarybos narių.
+Balsams pasiskirsčius po lygiai, lemia pirmininko balsas.
 Teisėjų tarybos
 nutarimus pasirašo jos pirmininkas ir sekretorius.
 Straipsnio
@@ -1194,8 +1205,8 @@ VIII-253,
  
 IX skirsnis
  
-TEISMŲ
-PIRMININKAI, JŲ PAVADUOTOJAI IR SKYRIŲ PIRMININKAI
+TEISMŲ PIRMININKAI,
+JŲ PAVADUOTOJAI IR SKYRIŲ PIRMININKAI
  
 39 straipsnis.
 Teismų pirmininkai, jų pavaduotojai ir skyrių pirmininkai
@@ -1204,11 +1215,12 @@ pirmininkai yra teisminės administracijos pareigūnai, kurie vadovauja teismų
 organizaciniam darbui. Teismų pirmininkai šio įstatymo bei teisingumo ministro
 nustatyta tvarka kontroliuoja teisėjų administracinę veiklą ir kaip laikomasi
 teisėjo etikos, vadovauja teismo raštinės darbui, priima ir atleidžia iš darbo
-teismo raštinės tarnautojus bei kitus darbuotojus, taip pat vykdo kitas
-įstatymų jiems nustatytas funkcijas.
+teismo raštinės tarnautojus bei kitus darbuotojus, taip pat vykdo kitas įstatymų
+jiems nustatytas funkcijas.
 Teismų
 pirmininkų pavaduotojai bei skyrių pirmininkai vykdo teisingumą ir atsako už tą
-teismų organizacinio darbo sritį, kurią jiems paveda atitinkamų teismų pirmininkai.
+teismų organizacinio darbo sritį, kurią jiems paveda atitinkamų teismų
+pirmininkai.
 Teismų
 pirmininkai, jų pavaduotojai ir skyrių pirmininkai, nagrinėdami bylas, o
 apylinkės teismų hipotekos skyrių hipotekos teisėjai, vykdydami įstatymų jiems
@@ -1253,9 +1265,9 @@ Apygardų teismų ir Apeliacinio teismo pirmininkai
 Apygardų teismų
 ir Apeliacinio teismo pirmininkai paskirsto teisėjus į šių teismų skyrius.
 Apygardų teismų
-pirmininkai asmeniškai ar per jų paskirtus teisėjus kontroliuoja atitinkamo
-apygardos teismo bei jo teritorijoje esančių apylinkės teismų administracinę
-veiklą ir kaip laikomasi teisėjo etikos.
+pirmininkai asmeniškai ar per jų paskirtus teisėjus kontroliuoja atitinkamo apygardos
+teismo bei jo teritorijoje esančių apylinkės teismų administracinę veiklą ir
+kaip laikomasi teisėjo etikos.
 Apeliacinio
 teismo pirmininkas asmeniškai ar per jo paskirtus teisėjus kontroliuoja
 Apeliacinio bei apygardų teismų administracinę veiklą ir kaip laikomasi teisėjų
@@ -1305,8 +1317,8 @@ VIII-696,
  
 X skirsnis
  
-TEISĖJŲ
-SKIRIAMIEJI ŽENKLAI IR PRIESAIKA
+TEISĖJŲ SKIRIAMIEJI
+ŽENKLAI IR PRIESAIKA
  
 44 straipsnis.
 Teismų ir teisėjų valdžios simboliai
@@ -1499,10 +1511,15 @@ XII skirsnis
 TEISĖJŲ
 SOCIALINĖS GARANTIJOS
  
-52 straipsnis.
-Teisėjų pensijos
+52
+straipsnis. Teisėjų pensijos
 Teisėjų pensinį
-aprūpinimą reguliuoja Lietuvos Respublikos valstybinių pensijų įstatymas.
+aprūpinimą reguliuoja Lietuvos Respublikos valstybinių socialinio draudimo
+pensijų įstatymas.
+Straipsnio
+pakeitimai:
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
  
 53 straipsnis.
 Teisėjų aprūpinimas gyvenamosiomis patalpomis
@@ -1533,12 +1550,25 @@ VIII-696,
 98.04.08, Žin., 1998, Nr.38-1001 (98.04.22)
  
  
+Straipsnio
+pavadinimas pakeistas:
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
 55 straipsnis.
-Teisėjų atlyginimai ir kitos socialinės garantijos
-Teisėjų atlyginimus
-nustato Lietuvos Respublikos įstatymai.
+Teisėjų atlyginimai, valstybinis socialinis draudimas ir kitos socialinės
+garantijos
+Teisėjų
+atlyginimus nustato Lietuvos Respublikos įstatymai.
+Teisėjai
+draudžiami valstybiniu socialiniu draudimu Lietuvos Respublikos valstybinio
+socialinio draudimo įstatyme nustatyta tvarka.
 Kitas teisėjų
 socialines garantijas nustato Lietuvos Respublikos įstatymai.
+Straipsnio
+pakeitimai:
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
+ 
  
 XIII skirsnis
  
@@ -1574,8 +1604,8 @@ teikimu, pasiūlius Aukščiausiojo Teismo pirmininkui.
 *Apeliacinio
 teismo pirmininką ir kitus teisėjus teisingumo ministro teikimu ir patarus
 Teisėjų tarybai, atleidžia iš pareigų Respublikos Prezidentas Seimui pritarus.
-**Apeliacinio teismo
-skyrių pirmininkus atleidžia iš pareigų teisingumo ministras Teismų
+**Apeliacinio
+teismo skyrių pirmininkus atleidžia iš pareigų teisingumo ministras Teismų
 departamento direktoriaus teikimu arba savo iniciatyva.
 ***Kitų teismų
 pirmininkus ir kitus teisėjus teisingumo ministro teikimu ir patarus Teisėjų
@@ -1697,9 +1727,9 @@ nuobaudą, taip pat kai teisėjas verčiasi įstatymų draudžiama darbine veikl
 apygardų teismų, Apeliacinio teismo pirmininkams, jų pavaduotojams, skyrių
 pirmininkams ir kitiems teisėjams drausminę bylą gali iškelti Lietuvos
 Aukščiausiojo Teismo pirmininkas, teisingumo ministras Teismų departamento
-direktoriaus teikimu ar savo iniciatyva. Respublikos Prezidentas teisingumo ministro
-teikimu gali nušalinti teisėją, kuriam iškelta drausmės byla, nuo teisėjo
-pareigų, iki paaiškės bylos baigtis. 
+direktoriaus teikimu ar savo iniciatyva. Respublikos Prezidentas teisingumo
+ministro teikimu gali nušalinti teisėją, kuriam iškelta drausmės byla, nuo
+teisėjo pareigų, iki paaiškės bylos baigtis. 
 Aukščiausiojo
 Teismo skyrių pirmininkams ir kitiems teisėjams drausminę bylą gali iškelti tik
 Aukščiausiojo Teismo pirmininkas.
@@ -1741,8 +1771,8 @@ teismas, išnagrinėjęs teisėjo drausminę bylą, gali:
 išteisinti;
 2) pasitenkinti
 drausminės bylos svarstymu;
-3) nutraukti
-drausminę bylą, jei praleistas šios bylos iškėlimo terminas;
+3) nutraukti drausminę
+bylą, jei praleistas šios bylos iškėlimo terminas;
 4) pareikšti jam
 pastabą;
 5) pareikšti jam
@@ -1895,8 +1925,8 @@ Respublikos įstatymais, Vyriausybės nutarimais, Vyriausybės patvirtintais
 Hipotekos registro nuostatais, Turto arešto aktų registro nuostatais bei
 Teisingumo ministerijos teisės aktais.
 Hipotekos
-skyrius turi antspaudą su savo pavadinimu bei Lietuvos valstybės herbu ir sąskaitą
-banke. 
+skyrius turi antspaudą su savo pavadinimu bei Lietuvos valstybės herbu ir
+sąskaitą banke. 
 Straipsnio
 pakeitimai:
 Nr.
@@ -1927,8 +1957,8 @@ Hipotekos teisėjo pasiūlymu apylinkės teismo
 pirmininkas gali įgalioti kitus hipotekos skyriaus darbuotojus liudyti parašų
 hipotekos skyriui pateikiamuose dokumentuose bei dokumentų nuorašų ir jų išrašų
 tikrumą, taip pat atlikti su hipotekos registravimu bei hipotekos registro
-tvarkymu, turto arešto aktų registravimu bei turto arešto aktų registro
-tvarkymu susijusius veiksmus.
+tvarkymu, turto arešto aktų registravimu bei turto arešto aktų registro tvarkymu
+susijusius veiksmus.
 Hipotekos
 teisėjo pasiūlymu apylinkės teismo pirmininkas gali įgalioti kitus hipotekos
 skyriaus darbuotojus liudyti parašų tikrumą hipotekos skyriui pateikiamuose
@@ -1957,9 +1987,9 @@ veiklą užtikrina ir prižiūri Teismų departamentas, laikydamasis šio įstat
 nustatytų teismų veiklos bei teisėjų ir teismų nepriklausomumo principų. Teismų
 departamentas nustato hipotekos skyrių darbuotojų skaičių, jų darbo užmokestį,
 organizuoja hipotekos skyrių darbuotojų kvalifikacijos kėlimą.
-Teismų
-departamentas tikrina hipotekos skyrių ūkinę ir finansinę veiklą teisingumo
-ministro nustatyta tvarka.
+Teismų departamentas
+tikrina hipotekos skyrių ūkinę ir finansinę veiklą teisingumo ministro
+nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -2173,8 +2203,8 @@ užtikrinančias kuo greitesnį, atitinkantį teisėjų etikos taisykles bylų
 nagrinėjimą;
 2) priemones,
 užtikrinančias efektyvų teismų sprendimų vykdymą;
-3) kitas priemones,
-padedančias užtikrinti efektyvią ir geros kokybės teismų (teisėjų)
+3) kitas
+priemones, padedančias užtikrinti efektyvią ir geros kokybės teismų (teisėjų)
 administracinę veiklą.
 Teisingumo
 ministerija, Teismų departamentas ir teismų pirmininkai tarpusavyje koordinuoja
@@ -2209,8 +2239,8 @@ Nr.92-2847 (00.10.31)
  
  
  
-Skelbiu šį
-Lietuvos Respublikos Seimo priimtą įstatymą. 
+Skelbiu šį Lietuvos
+Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 BRAZAUSKAS
@@ -2417,8 +2447,17 @@ Nr. IX-44, 2000 11 28, Žin., 2000, Nr.
 103-3260 (2000 12 01)
 TEISMŲ ĮSTATYMO 66 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-***Pabaiga***
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
+VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO,
+KONSTITUCINIO TEISMO ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO
+SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE
+STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS
+KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+***Pabaiga***
  
  
 KONSTITUCINIO TEISMO NUTARIMAI:
@@ -2434,5 +2473,5 @@ KONSTITUCIJAI
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000 12 01)
-                  autrap@lrs.lt
+Redagavo: Angonita Rupšytė (2001-07-25)
+                  anrups@lrs.lt
