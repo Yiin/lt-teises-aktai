@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.75C66B100186"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 1994-06-08 iki 1994-12-29
+Suvestinė redakcija nuo 1994-12-30 iki 1995-12-28
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 191-0; Žin. 1992, Nr.29-843, i. k. 0921010ISTA00I-2880
  
@@ -450,7 +450,19 @@ Teismas, priėmęs sprendimą likviduoti bankrutavusią įmonę, privalo:
 
 29 straipsnis. Kreditorių reikalavimų patenkinimo eilė ir tvarka
 
-Pirmąja eile yra tenkinami įkaitu garantuoti kreditorių reikalavimai, taip pat darbuotojų reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą už suluošinimą ar kitokį sveikatos sužalojimą, taip pat gyvybės atėmimą.
+Pirmąja eile yra tenkinama:
+
+1) įkaitu garantuoti kreditorių reikalavimai;
+
+2) reikalavimai apmokėti už perdirbimui supirktą ir neapmokėtą žemės ūkio produkciją;
+
+3) darbuotojų reikalavimai, susiję su darbo santykiais;
+
+4) reikalavimai atlyginti žalą už suluošinimą ar kitokį sveikatos sužalojimą, taip pat gyvybės atėmimą. 
+
+Straipsnio dalies pakeitimai:
+Nr. I-739, 1994-12-22, Žin., 1994, Nr. 101-2020 (1994-12-30), i. k. 0941010ISTA000I-739
+ 
 
 Antrąja eile yra tenkinama:
 
@@ -492,4 +504,9 @@ Dėl Lietuvos Respublikos įmonių bankroto įstatymo pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
 Dėl Lietuvos Respublikos įmonių bankroto įstatymo pakeitimo ir papildymo
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-739, 1994-12-22, Žin., 1994, Nr. 101-2020 (1994-12-30), i. k. 0941010ISTA000I-739
+Dėl Lietuvos Respublikos įmonių bankroto įstatymo 29 straipsnio pakeitimo
 
