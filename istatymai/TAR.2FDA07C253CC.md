@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2FDA07C253CC"
 
 # Lietuvos Respublikos valstybinių įmonių įstatymas
 
-Suvestinė redakcija nuo 1991-01-24 iki 1992-10-10
+Suvestinė redakcija nuo 1992-10-11 iki 1993-07-22
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 92-0; Žin. 1990, Nr.30-709, i. k. 0901010ISTA000I-604
  
@@ -236,13 +236,22 @@ Abiem šiais atvejais VĮ darbuotojų susirinkimas arba VAĮ akcininkų susirink
 
 1. Įmonės komercinei-ūkinei veiklai vadovauja direktorių valdyba (toliau tekste „valdyba“). Ji susideda iš narių direktorių, kurių negali būti mažiau kaip 3 ir daugiau kaip 9. Valdybos veiklai vadovauja pirmininkas.
 
-2. Valdybos narius ne ilgesniam kaip 5 metų laikotarpiui skiria ir jų atlyginimus nustato stebėtojų taryba, išskyrus 34 straipsnio 2 dalyje nurodytus atvejus, taip pat pasibaigus laikinosios įmonės administracijos įgaliojimams, kai 1/3 valdybos narių metams skiria įmonės steigėjas. Jeigu stebėtojų taryba nesudaroma, valdybą formuoja akcininkų ir darbuotojų susirinkimai pagal stebėtojų tarybos sudarymo taisykles. Tuo atveju valdybą turi sudaryti ne mažiau kaip 6 nariai. Jų pareiginius atlyginimus, taip pat jiems skirtą pelno dalį VĮ nustato steigėjas, o VAĮ – akcininkų susirinkimas. Valdybos narį, taip pat jos pirmininką gali atšaukti jį paskyręs organas.
+2. Valdybos narius ne ilgesniam kaip 5 metų laikotarpiui skiria ir jų atlyginimus nustato stebėtojų taryba, išskyrus 34 straipsnio 2 dalyje nurodytus atvejus, taip pat pasibaigus laikinosios įmonės administracijos įgaliojimams, kai 1/3 valdybos narių metams skiria įmonės steigėjas. Jeigu stebėtojų taryba nesudaroma, valdybą formuoja akcininkų ir darbuotojų susirinkimai pagal stebėtojų tarybos sudarymo taisykles. Tuo atveju valdybą turi sudaryti ne mažiau kaip 6 nariai. Jų pareiginius atlyginimus, taip pat jiems skirtą pelno dalį VĮ nustato steigėjas, o VAĮ – akcininkų susirinkimas. Valdybos narį, taip pat jos pirmininką gali atšaukti jį paskyręs organas. Direktorių valdybos pirmininkui atlyginimą nustato steigėjas.
+Straipsnio dalies pakeitimai:
+Nr. I-2927, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-914 (1992-10-31), i. k. 0921010ISTA00I-2927
+ 
 
 3. Valdybos nariu gali būti: įmonės steigėjo ar stebėtojų tarybos paskirtas pilnametis įmonės darbuotojas, iš kurio neatimta teisė eiti šias pareigas, taip pat stebėtojų tarybos paskirtas įmonėje nedirbantis asmuo. Valdybos nariu negali būti paskirtas stebėtojų tarybos narys. Stebėtojų taryba gali laikinai, ne ilgiau kaip 6 mėnesiams, skirti savo narį į valdybą. Jei tą patį stebėtojų tarybos narį pakartotinai skiria laikinai dirbti valdyboje, visas jo darbo laikas negali būti ilgesnis kaip 12 mėnesių per 5 metus iš eilės. Stebėtojų taryba 2/3 balsų gali atšaukti valdybos narį: už pareigų nevykdymą, nesąžiningą darbą arba nesugebėjimą jį kvalifikuotai atlikti. Sprendimą atšaukti VAĮ valdybos narį gali priimti ir akcininkų susirinkimas 2/3 balsų dauguma.
 
-4. Jeigu įmonei netaikomos 34 straipsnio 2 dalies taisyklės ir nesudaroma laikinoji administracija, tai VAĮ valdybos pirmininką skiria stebėtojų taryba (jei ji nesudaryta – akcininkų susirinkimas), o VĮ valdybos pirmininką stebėtojų tarybos (jei ji nesudaryta – valdybos) teikimu skiria steigėjas. Ginčus tarp stebėtojų tarybos ir steigėjo dėl VĮ valdybos pirmininko paskyrimo sprendžia Lietuvos Respublikos Vyriausybė (vietos savivaldybės taryba).
+4. Įmonės direktorių valdybos pirmininką skiria ir atleidžia steigėjas. Ginčus tarp stebėtojų tarybos ir steigėjo dėl įmonės valdybos pirmininko paskyrimo sprendžia Lietuvos Respublikos Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. I-2927, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-914 (1992-10-31), i. k. 0921010ISTA00I-2927
+ 
 
-5. VĮ valdybos pirmininką gali atšaukti stebėtojų taryba 2/3balsų arba Lietuvos Respublikos Vyriausybė, jeigu nustatoma, jogVĮ realiai gresia nemokumas arba valdybos pirmininkas akivaizdžiai nevykdo savo pareigų. VAĮ valdybos pirmininką gali atšaukti 2/3 balsų VAĮ stebėtojų taryba arba akcininkų susirinkimas, taip pat Lietuvos Respublikos Vyriausybė, jeigu nustato, kad VAĮ realiai gresia valstybinio kapitalo praradimas.Atšaukus valdybos pirmininką, paleidžiama ir valdyba.
+5. Įmonės valdybos pirmininką gali atšaukti steigėjas, jeigu nustatoma, jog realiai gresia nemokumas arba valdybos pirmininkas akivaizdžiai nevykdo savo pareigų.
+Atšaukus valdybos pirmininką, steigėjas turi teisę paleisti ir valdybą. 
+Straipsnio dalies pakeitimai:
+Nr. I-2927, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-914 (1992-10-31), i. k. 0921010ISTA00I-2927
  
 
 12 straipsnis. Valdybos bei jos narių įgaliojimai
@@ -251,7 +260,10 @@ Abiem šiais atvejais VĮ darbuotojų susirinkimas arba VAĮ akcininkų susirink
 
 2. Valdyba nutarimus priima posėdžiuose. Jos nariai turi lygias sprendžiamojo balso teises. Valdybos darbo reglamentas priimamas 2/3 balsų dauguma, skaičiuojant pagal įstatuose apibrėžtą valdybos narių skaičių. Kiti valdybos nutarimai priimami posėdyje (balsavime) dalyvaujančių valdybos narių balsų dauguma. Posėdis (balsavimas) laikomas teisėtu, jeigu jame dalyvauja ne mažiau kaip 2/3 valdybos narių. Jeigu svarstomo klausimo nutarimo projektas paskelbiamas iš anksto, tai valdybos narys, negalintis atvykti į posėdį, turi teisę dalyvauti balsavime iki posėdžio pradžios raštu pranešdamas savo valią: „už“arba „prieš“ sprendimą. Valdybos posėdžiai šaukiami ir organizuojami pagal valdybos darbo reglamentą.
 
-3. Valdybos pirmininkas, vadovaudamasis įmonės įstatų, valdybos darbo reglamento ir jos nutarimais, turi teisę sudaryti visus įmonės sandorius. Įmonės įstatuose ar valdybos darbo reglamente gali būti nustatomos veiklos sritys, kuriose savarankiškai veikti ir sudaryti įmonės sandorius turi teisę ir kiti valdybos nariai. VAĮ valdybos nutarimu dalis valdybos funkcijų gali būti perduota įmonės administracijos vadovui. Kiti asmenys gali veikti ir sudaryti sandorius tik turėdami įmonės įgaliojimą.
+3. Valdybos pirmininkas, vadovaudamasis įmonės įstatų, valdybos darbo reglamento ir jos nutarimais, turi teisę sudaryti visus įmonės sandorius. Įmonės įstatuose ar valdybos darbo reglamente gali būti nustatomos veiklos sritys, kuriose savarankiškai veikti ir sudaryti įmonės sandorius turi teisę ir kiti valdybos nariai. Kiti asmenys gali veikti ir sudaryti sandorius tik turėdami įmonės įgaliojimą.
+Straipsnio dalies pakeitimai:
+Nr. I-2927, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-914 (1992-10-31), i. k. 0921010ISTA00I-2927
+ 
 
 4. Valdybos pirmininko ar kitų valdybos narių sudarytų sandorių negalima pripažinti negaliojančiais tik dėl to, kad pagal įmonės įstatus ar valdybos darbo reglamentą jie vieni, tik savo nuožiūra, šių sandorių sudaryti neturėjo teisės, išskyrus atvejus, kai kontrahentas žinojo ar turėjo žinoti, kad sudaro neteisėtą sandorį.
 
@@ -286,11 +298,16 @@ Abiem šiais atvejais VĮ darbuotojų susirinkimas arba VAĮ akcininkų susirink
 
 2. Kiekvienoje įmonėje turi būti administracijos vadovas(prezidentas, generalinis direktorius, direktorius) ir vyriausiasis finansininkas (buhalteris).
 
-3. VĮ administracijos vadovo pareigas gali užimti tik valdybos pirmininkas. Samdos sutartį su administracijos vadovu įmonės vardu sudaro stebėtojų tarybos pirmininkas, o jei stebėtojų taryba nesudaryta – VĮ įmonės steigėjas, o VAĮ – valdyba.
+3. Įmonės administracijos vadovo pareigas gali užimti tik valdybos pirmininkas, kuris su įmone privalo turėti nuolatinius darbo santykius. Samdos sutartį su direktorių valdybos pirmininku (administracijos vadovu) sudaro steigėjas. 
+Straipsnio dalies pakeitimai:
+Nr. I-2927, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-914 (1992-10-31), i. k. 0921010ISTA00I-2927
+ 
 
 4. Draudžiama derinti administracijos vadovo pareigas su įmonės vyriausiojo finansininko (buhalterio) pareigomis. Administracijos vadovui draudžiama būti kitos įmonės (ūkinės bendrijos, akcinės bendrovės ir uždarosios akcinės bendrovės)valdybos pirmininku, administracijos vadovu ar atstovu.
 
-5. VĮ valdybos pirmininkas (administracijos vadovas) privalo turėti su įmone nuolatinius darbo santykius, įformintus samdos sutartimi.
+5. Neteko galios nuo 1992-10-11
+Straipsnio dalies naikinimas:
+Nr. I-2927, 1992-10-06, Lietuvos aidas 1992, Nr. 199-0 (1992-10-10) ; Žin. 1992, Nr. 30-914 (1992-10-31), i. k. 0921010ISTA00I-2927
  
 
 14 straipsnis. Stebėtojų tarybos sudarymas
@@ -749,4 +766,9 @@ Pakeitimai:
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-977, 1991-01-22, Lietuvos aidas, 1991, Nr. 16-0 (1991-01-23); Žin., 1991, Nr. 4-107 (1991-02-10), i. k. 0911010ISTA000I-977
 Dėl Lietuvos Respublikos valstybinių įmonių įstatymo pakeitimo
+ 
+2.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2927, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-914 (1992-10-31), i. k. 0921010ISTA00I-2927
+Dėl Lietuvos Respublikos valstybinių įmonių įstatymo kai kurių straipsnių pakeitimo
 
