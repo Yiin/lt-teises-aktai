@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Suvestinė redakcija nuo 1992-11-27 iki 1993-01-31
+Įstatymas netenka galios 1994-06-08:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-486, 1994-05-31, Žin., 1994, Nr. 43-773 (1994-06-08), i. k. 0941010ISTA000I-486
+Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo
+ 
+Suvestinė redakcija nuo 1993-02-01 iki 1994-06-07
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
  
@@ -369,13 +374,14 @@ IV. LIETUVOS RESPUBLIKOS MINISTERIJŲ SĄRAŠAS
 25 straipsnis. Lietuvos Respublikos ministerijos
 
 Respublikoje yra šios ministerijos:
-Ekonomikos ministerija; Energetikos ministerija; Finansų ministerija; Krašto apsaugos ministerija; Kultūros ir švietimo ministerija; Miškų ūkio ministerija; Pramonės ir prekybos ministerija; Ryšių ir informatikos ministerija; Statybos ir urbanistikos ministerija; Susisiekimo ministerija; Socialinės apsaugos ministerija; Sveikatos apsaugos ministerija; Tarptautinių ekonominių santykių ministerija; Teisingumo ministerija; Užsienio reikalų ministerija; Vidaus reikalų ministerija; Žemės ūkio ministerija.
+Ekonomikos ministerija; Energetikos ministerija; Finansų ministerija; Krašto apsaugos ministerija; Kultūros ir švietimo ministerija; Miškų ūkio ministerija; Pramonės ir prekybos ministerija; Ryšių ir informatikos ministerija; Statybos ir urbanistikos ministerija; Susisiekimo ministerija; Socialinės apsaugos ministerija; Sveikatos apsaugos ministerija; Teisingumo ministerija; Užsienio reikalų ministerija; Vidaus reikalų ministerija; Žemės ūkio ministerija.
 
 Straipsnio pakeitimai:
 Nr. I-108, 1990-04-03, Lietuvos aidas, 1990, Nr. 16-0 (1990-04-06); Žin., 1990, Nr. 11-347 (1990-04-20), i. k. 0901010NUTA000I-108
 Nr. I-1112, 1991-02-28, Lietuvos aidas, 1991, Nr. 45-0 (1991-03-05); Žin., 1991, Nr. 8-226 (1991-03-20), i. k. 0911010ISTA00I-1112
 Nr. I-1858, 1991-10-03, Žin., 1991, Nr. 29-792 (1991-10-20), i. k. 0911010ISTA00I-1858
 Nr. I-2814, 1992-07-30, Žin., 1992, Nr. 24-700 (1992-08-31), i. k. 0921010ISTA00I-2814
+Nr. I-42, 1993-01-05, Žin., 1993, Nr. 3-54 (1993-01-31), i. k. 0931010ISTA0000I-42
  
 
 V. LIETUVOS RESPUBLIKOS VYRIAUSYBĖS
@@ -529,4 +535,9 @@ Dėl Lietuvos Respublikos prekybos ir materialinių išteklių ministerijos pert
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-3070, 1992-11-19, Lietuvos aidas, 1992, Nr. 232-0 (1992-11-26); Žin., 1992, Nr. 34-1034 (1992-11-30), i. k. 0921010ISTA00I-3070
 Dėl Lietuvos Respublikos Vyriausybės įstatymo 19 straipsnio pakeitimo
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-42, 1993-01-05, Žin., 1993, Nr. 3-54 (1993-01-31), i. k. 0931010ISTA0000I-42
+Dėl Lietuvos Respublikos tarptautinių ekonominių santykių ministerijos panaikinimo
 
