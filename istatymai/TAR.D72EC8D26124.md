@@ -1291,9 +1291,9 @@ už gyventojų parduotą turtą, išskyrus nurodytas 33(1)
 straipsnyje, viršijančios šio įstatymo 35 straipsnio 11 punkte nustatytą dydį,
 apmokestinamos taikant 10 procentų pajamų mokesčio tarifą.
 Gyventojų
-pajamos už parduodamas miško gėrybes (grybus, uogas, riešutus, vaistažoles ir
-kt.) bei antrines žaliavas apmokestinamos taikant 5 procentų pajamų mokesčio
-tarifą, netaikant joms šio įstatymo 35 straipsnio 11 punkto nuostatos.
+pajamos už parduodamas antrines žaliavas apmokestinamos taikant 5 procentų
+pajamų mokesčio tarifą, netaikant joms šio įstatymo 35 straipsnio 10 punkto
+nuostatos.
 Dividendai
 apmokestinami taikant 29 procentų pajamų mokesčio tarifą.
 Pensijos iš
@@ -1316,8 +1316,8 @@ Jeigu fiziniai
 asmenys gauna pajamas neįsigiję privalomo patento, iš jų išieškoma patento
 mokesčio suma ir tokio pat dydžio bauda.
  
-* Nuostatos dėl iš
-įmonės lėšų arba dėl turto vertės padidėjimo akcininkams nemokamai išduotų
+* Nuostatos dėl
+iš įmonės lėšų arba dėl turto vertės padidėjimo akcininkams nemokamai išduotų
 akcijų arba anksčiau išduotų akcijų nominalios vertės padidinimo sumos, taip
 pat dėl pajaus vertės padidinimo sumos nepriskyrimo bendrosioms pajamoms
 taikomos nuo 1999 m. sausio 1 d. Pajamų mokesčio suma, sumokėta ar išieškota
@@ -1350,6 +1350,8 @@ VIII-1476, 99.12.14, Žin., 1999,
 Nr.109-3174 (99.12.24)
 Nr. VIII-1813, 00.07.11, Žin., 2000,
 Nr.64-1911 (00.07.31)
+Nr. VIII-2065, 00.10.17, Žin., 2000,
+Nr.90-2781 (00.10.27)
  
  
 33(1)
@@ -1496,12 +1498,13 @@ pašalpos, išmokėtos stichinių nelaimių bei gaisrų atvejais;
 18)
 Politinių kampanijų finansavimo kontrolės įstatymo nustatyta tvarka politinės
 kampanijos metu gautos aukos ir dovanos;
-19)
-pajamos už asmeniniame pagalbiniame ūkyje pagamintą ir realizuotą žemės ūkio
-produkciją, išskyrus pajamas už realizuotus mėsėdžius švelniaplaukius
-žvėrelius, nutrijas ir jų produkciją, taip pat ūkininkų ir ūkio narių pajamos
-už ūkininkų ūkiuose, įregistruotuose Ūkininko ūkio įstatymo nustatyta tvarka,
-vykdomą žemės ūkio veiklą;
+19) pajamos už asmeniniame
+pagalbiniame ūkyje pagamintą ir realizuotą žemės ūkio produkciją, išskyrus
+pajamas už realizuotus mėsėdžius švelniaplaukius žvėrelius, nutrijas ir jų
+produkciją, taip pat ūkininkų ir ūkio narių pajamos už ūkininkų ūkiuose,
+įregistruotuose Ūkininko ūkio įstatymo nustatyta tvarka, vykdomą žemės ūkio
+veiklą ir gyventojų pajamos už parduodamas miško gėrybes (grybus, uogas,
+riešutus, vaistažoles ir kt.);
 20) vertybinių popierių
 vertės padidėjimo pajamos už parduotus arba kitu būdu perleistus vertybinius
 popierius, įsigytus iki 1999 metų, taip pat vertybinių popierių vertės
@@ -1563,8 +1566,10 @@ VIII-1476, 99.12.14, Žin., 1999,
 Nr.109-3174 (99.12.24)
 Nr. VIII-1813, 00.07.11, Žin., 2000,
 Nr.64-1911 (00.07.31)
-Nr. VIII-1983, 00.10.10, Žin., 2000, Nr.89-2747
-(00.10.25), įsigalioja nuo 2001.01.01
+Nr. VIII-1983, 00.10.10, Žin., 2000,
+Nr.89-2747 (00.10.25), įsigalioja nuo 2001.01.01
+Nr. VIII-2065, 00.10.17, Žin., 2000,
+Nr.90-2781 (00.10.27)
  
  
      36
@@ -1660,8 +1665,8 @@ neapmokestinti mokėtojai apmokestinami, neteisingas apmokestinimas
 patikslinamas ir mokestis grąžinamas arba išieškomas Lietuvos Respublikos
 mokesčių administravimo įstatymo nustatyta tvarka.
 Už praėjusį laikotarpį
-papildomai apskaičiuotas mokestis ir sankcijos sumokami Lietuvos Respublikos
-mokesčių administravimo įstatymo nustatytais terminais.
+papildomai apskaičiuotas mokestis ir sankcijos sumokami Lietuvos Respublikos mokesčių
+administravimo įstatymo nustatytais terminais.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1801,8 +1806,8 @@ papildytas VI skyriumi:
 Nr. VIII-1878, 00.07.18, Žin., 2000,
 Nr.64-1943 (00.07.31)
  
-VI. Pasiūlymai Lietuvos
-Respublikos Vyriausybei 
+VI. Pasiūlymai Lietuvos Respublikos
+Vyriausybei 
 arba jos įgaliotai institucijai
  
  
@@ -2267,8 +2272,15 @@ STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2065, 00.10.17, Žin., 2000,
+Nr.90-2781 (00.10.27)
+FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 33, 35
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.10.27)
+Redagavo: Aušrinė Trapinskienė (2000.10.30)
 
