@@ -13,10 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C5DF704DF871"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Redaguota: 1995
+Redaguota: 1995 06 14
 
-Redaguota:
-1995.02.10.
+Redaguota: 1995 06
+14
 Pakeitimai:
  
 1.Lietuvos
@@ -55,6 +55,16 @@ RESPUBLIKOS PRIDĖTINĖS VERTĖS
 MOKESČIO ĮSTATYMO
 PAKEITIMO IR PAPILDYMO
  
+5. Lietuvos
+Respublikos 1995 05 30
+Įstatymas Nr.1-904; 
+Žin., 1995,
+Nr.49-1178
+DĖL LIETUVOS
+RESPUBLIKOS PRIDĖTINĖS VERTĖS
+MOKESČIO ĮSTATYMO
+PAKEITIMO IR PAPILDYMO
+ 
  
                      
 LIETUVOS RESPUBLIKOS
@@ -66,8 +76,8 @@ PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMAS
 1993 m. gruodžio 22 d. Nr.I-345
  
  
-                            
-Vilnius
+                           
+ Vilnius
  
                     
                      
@@ -84,7 +94,9 @@ prekės.
  
      Pakeitimai:
      1.Nr. 1-567;
-1994.07.20.; Žin., 1994, Nr. 58-1136           
+1994.07.20.; 
+       Žin., 1994,
+Nr. 58-1136
  
  
      2 straipsnis. 
@@ -121,14 +133,14 @@ prekes. 
 Medicinos     technikos,  įrengimų,  naudojamų  vaistams
 gaminti, žaliavų  
 ir vaistinių prekių, už  kurias PVM nemokamas,
-sąrašą sudaro
-Lietuvos Respublikos Vyriausybė;
+sąrašą sudaro Lietuvos
+Respublikos Vyriausybė;
      2)  vaikų  
 darželių  ir   lopšelių,  senelių   ir  invalidų
 pensionatų teikiamas
 socialines paslaugas;
-     3) švietimo,  mokslo
-ir  studijų, taip   pat    nekomercinių
+     3) švietimo, 
+mokslo ir  studijų, taip   pat    nekomercinių
 kultūros įstaigų, 
 įregistruotų Lietuvos  Respublikos Vyriausybės
 nustatyta tvarka, 
@@ -139,8 +151,8 @@ patarnavimus (išskyrus   siuntinių  persiuntimo ir
 telekomunikacijų
 paslaugas  bei kolekcijoms skirtus pašto ženklus
 ir vokus);
-     5) draudimo, 
-bankų ir  kitų kredito   įstaigų    finansines
+     5) draudimo,  bankų
+ir  kitų kredito   įstaigų    finansines
 paslaugas, kurių 
 sąrašus sudaro Lietuvos Respublikos Vyriausybė,
 vertybinių popierių,
@@ -175,10 +187,14 @@ keleivinio transporto paslaugas.
  
      Pakeitimai:
      1.Nr. 1-567;
-1994.07.20.; Žin., 1994, Nr. 58-1136
-     2.Nr.1-774; 1995.01.26.;
-Žin., 1995, Nr.12-261
-     
+1994.07.20.; 
+       Žin., 1994,
+Nr. 58-1136
+     2.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
+ 
  
             II.
 PRIDĖTOSIOS VERTĖS MOKESČIO MOKĖTOJAI
@@ -196,8 +212,8 @@ taikomas   PVM  
 kompensacinis tarifas,  gauto PVM  už realizuotą
 produkciją   ir  
 suteiktas paslaugas   į  biudžetą  nemoka,    o
-sumokėtas   PVM už   pirktas 
-prekes   ir   gautas  paslaugas  iš
+sumokėtas   PVM už  
+pirktas  prekes   ir   gautas  paslaugas  iš
 biudžeto
 negrąžinamas.  Kompensacinis tarifas  gali būti taikomas
 ūkininkams, kurių 
@@ -206,7 +222,9 @@ tūkst. litų.
  
      Pakeitimai:
      1. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+1995.01.26.; 
+        Žin., 1995,
+Nr.12-261
  
  
      6 straipsnis.
@@ -233,21 +251,23 @@ iš biudžeto)
 pradėdami nuo kito mėnesio po registracijos.
      Jeigu per 
 metus šių asmenų pajamos už realizuotas prekes ir
-suteiktas paslaugas  
-viršija 50 tūkst. litų,  tai pradedant  tuo
+suteiktas
+paslaugas   viršija 50 tūkst. litų,  tai pradedant  tuo
 mėnesiu, kurį 
-viršijo, PVM  turi skaičiuoti ir mokėti į biudžetą
+viršijo, PVM  turi skaičiuoti ir mokėti į biudžetą
 bendra tvarka.
  
      Pakeitimai:
-     Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
-     
+     1.Nr.1-423;
+1994.04.07.; 
+       Žin., 1994,
+Nr. 28-489
+ 
  
      7 straipsnis.  
 Asmenys, kurie  pagal 6 straipsnio nuostatas
 yra PVM   mokėtojai,
-privalo  registruotis valstybinėje  mokesčių
+privalo  registruotis valstybinėje  mokesčių
 inspekcijoje kaip
 PVM mokėtojai.
      Valstybinė  
@@ -263,13 +283,15 @@ kuriems taikomas PVM kompensacinis tarifas.
  
      Pakeitimai:
      1. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
-               
+1995.01.26.; 
+        Žin., 1995,
+Nr.12-261
+ 
  
      8 straipsnis. 
 Asmenys, kurie   nėra  PVM  mokėtojai, neturi
 teisės šio  mokesčio
-imti  iš prekių  pirkėjų (paslaugos gavėjų),
+imti  iš prekių  pirkėjų (paslaugos gavėjų),
 išskyrus ūkininkus, 
 kuriems taikomas  PVM kompensacinis tarifas.
 Jeigu šie  asmenys
@@ -278,7 +300,9 @@ biudžetą.
  
      Pakeitimai:
      1. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+1995.01.26.; 
+        Žin., 1995,
+Nr.12-261
  
  
              III.
@@ -325,8 +349,10 @@ skaičiuoti
 (įskaitant į ją akcizus ir muitą).
  
      Pakeitimai:
-     Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
+     1.Nr.1-423;
+1994.04.07.;
+       Žin., 1994,
+Nr. 28-489
  
  
      11 straipsnis. 
@@ -337,7 +363,7 @@ prekių ar paslaugų kaina.
  
      12 straipsnis.
 PVM už prekes ir paslaugas apskaičiuojamas:
-     pardavėjui
+     pardavėjui
 (paslaugos teikėjui) išrašius pirkėjui (paslaugos
 gavėjui)
 sąskaitą-faktūrą   arba  kitą  dokumentą už  parduodamas
@@ -351,7 +377,9 @@ importuojamos.
  
      Pakeitimai:
      1. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+1995.01.26.; 
+        Žin., 1995,
+Nr.12-261
  
  
                      
@@ -376,10 +404,14 @@ procentų.
  
      Pakeitimai:
      1.Nr. 1-567;
-1994.07.20.; Žin., 1994, Nr. 58-1136
-     2. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
-          
+1994.07.20.; 
+       Žin., 1994,
+Nr. 58-1136
+     2.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
+ 
  
      14 straipsnis.
 PVM skaičiuojamas taikant 18 procentų tarifą,
@@ -409,8 +441,10 @@ atvejais.
  
      Pakeitimai:
      1.Nr. 1-567;
-1994.07.20.; Žin., 1994, Nr. 58-1136
-          
+1994.07.20.; 
+       Žin., 1994,
+Nr. 58-1136
+ 
  
                   
 V. MOKESČIO APSKAIČIAVIMAS
@@ -440,8 +474,10 @@ straipsnių
 nuostatas.
  
      Pakeitimai:
-     Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
+     1.Nr.1-423;
+1994.04.07.;
+       Žin., 1994,
+Nr. 28-489
  
  
      17 straipsnis. 
@@ -465,8 +501,8 @@ kūrimo;
 ūkio   sezoninių    žaliavų    bei    medžiagų
 apmokestinamosioms
 prekėms gaminti atsargų sudarymo;
-     4)  
-paslaugų    ir   materialinių    vertybių   panaudojimo
+     4)   paslaugų   
+ir   materialinių    vertybių   panaudojimo
 apmokestinamosioms  
 prekėms   gaminti, jeigu  jų gamybos  ciklas
 ilgesnis kaip  
@@ -489,8 +525,8 @@ panaikinti  
 mokėtojo   registraciją.   Nenustačiusi   pažeidimų,
 valstybinė mokesčių 
 inspekcija grąžina  PVM skirtumą per penkias
-dienas po patikrinimo
-dienos.
+dienas po
+patikrinimo dienos.
      Jeigu
 pakeičiama gamybinio ilgalaikio turto paskirtis ir dėl
 to netenkama  teisės
@@ -508,11 +544,17 @@ metai.
  
      Pakeitimai:
      1.Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
+1994.04.07.;
+       Žin., 1994,
+Nr. 28-489
      2.Nr. 1-567;
-1994.07.20.; Žin., 1994, Nr. 58-1136
-     3. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+1994.07.20.; 
+       Žin., 1994,
+Nr. 58-1136
+     3.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
  
  
      18  
@@ -536,9 +578,13 @@ daiktų kainą apskaičiuoti ir atskaityti PVM.
  
      Pakeitimai:
      1.Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
-     2. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+1994.04.07.;
+       Žin., 1994,
+Nr. 28-489
+     2.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
  
  
      19 straipsnis.
@@ -566,8 +612,8 @@ tenkinti, išlaikyti;
 reprezentacijai ir įvairioms pramogoms;
      6)
 keleiviniams   automobiliams, skirtiems  vežti ne daugiau
-kaip 10  žmonių (neskaičiuojant 
-vairuotojo), eksploatuoti, jeigu
+kaip 10  žmonių
+(neskaičiuojant  vairuotojo), eksploatuoti, jeigu
 eksploatavimas
 nesususijęs  su apmokamu  ir   PVM   apmokestinamu
 keleivių vežimu.
@@ -584,7 +630,7 @@ paslaugas  (išskyrus nurodytas   19   straipsnyje)
 atskaitoma
 proporcingai    per tą laikotarpį  išsiųstų  pirkėjams
 apmokestinamų ir 
-neapmokestinamų   prekių   (suteiktų  paslaugų)
+neapmokestinamų   prekių   (suteiktų  paslaugų)
 vertei.
      Šiame
 straipsnyje  išvardintiems    atvejams        Lietuvos
@@ -605,8 +651,8 @@ leista įvežti  be
 muitų  į Lietuvos Respubliką ir jas išvežusiems
 iš Lietuvos
 Respublikos;
-     2) paritetiniais 
-pagrindais užsienio šalių diplomatinėms ir
+     2)
+paritetiniais  pagrindais užsienio šalių diplomatinėms ir
 konsulinėms
 atstovybėms  už Lietuvos Respublikoje įsigytas prekes
 ir gautas paslaugas,
@@ -628,23 +674,36 @@ Lietuvos Respublika  numatyta  neimti  PVM  ar  jam
 tapačių mokesčių
 arba numatyta juos grąžinti;
      4) Lietuvos 
-Respublikos Vyriausybės   nustatyta   tvarka už
-prekes ir 
-paslaugas, apmokamas pagal techninės bei humanitarinės
-pagalbos programas 
-užsienio valstybių, tarptautinių organizacijų
-ir fondų  bei
-valstybei skirtų paskolų lėšomis. Jeigu importo PVM
-mokėjimo terminas
-nesuėjęs ir mokestis nesumokėtas, jis gali būti
-panaikintas.
+Respublikos Vyriausybės  nustatyta  tvarka  už
+importuojamas
+prekes  ir paslaugas, apmokamas pagal techninės bei
+humanitarinės
+pagalbos programas užsienio valstybių, tarptautinių
+organizacijų ir
+fondų bei valstybei skirtų paskolų lėšomis. Jeigu
+PVM mokėjimo 
+terminas nesuėjęs ir mokestis nesumokėtas, jis gali
+būti panaikintas. 
+Šis mokestis  Lietuvos Respublikos Vyriausybės
+nustatyta tvarka 
+taip pat  gali būti  grąžinamas  už  prekes  ir
+paslaugas, 
+įsigyjamas   Lietuvos  Respublikoje  pagal  techninės
+pagalbos programas.
  
      Pakeitimai:
-     1.Nr. 1-567;
-1994.07.20.; Žin., 1994, Nr. 58-1136
-     2. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
- 
+     1.Nr. 1-567;
+1994.07.20.; 
+       Žin., 1994, Nr.
+58-1136
+     2.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
+     3.Nr.1-904;
+1995 05 30
+       Žin., 1995,
+Nr. 49-1178
  
              VI.
 IMPORTO IR EKSPORTO APMOKESTINIMAS
@@ -661,9 +720,13 @@ mokėti tvarka.
  
      Pakeitimai:
      1.Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
-     2. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+1994.04.07.;
+       Žin., 1994,
+Nr. 28-489
+     2.Nr.1-774; 1995.01.26.;
+
+       Žin., 1995,
+Nr.12-261
  
  
      23 straipsnis. 
@@ -673,8 +736,8 @@ prekės:
 kaip labdara ir humanitarinė pagalba;
      2) įvežamos 
 fizinių asmenų, jeigu prekių įvežama ne daugiau
-kaip Lietuvos 
-Respublikos Vyriausybės   leista  jiems įvežti  be
+kaip Lietuvos  Respublikos
+Vyriausybės   leista  jiems įvežti  be
 muitų;
      3) įvežamos 
 užsienio šalių  diplomatinių   ir    konsulinių
@@ -688,10 +751,14 @@ eksportuotos prekės;
  
      Pakeitimai:
      1.Nr. 1-567;
-1994.07.20.; Žin., 1994, Nr. 58-1136
-     2. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
-     
+1994.07.20.; 
+       Žin., 1994,
+Nr. 58-1136
+     2.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
+ 
  
      24  
 straipsnis.   Importuojamų   prekių   vertė   nustatoma
@@ -701,8 +768,10 @@ Respublikos muitų
 tarifų įstatymo nuostatas.
  
      Pakeitimai:
-     Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
+     1.Nr.1-423;
+1994.04.07.;
+       Žin., 1994,
+Nr. 28-489
  
  
      25  
@@ -741,8 +810,10 @@ eksportui ir reeksportui skirtų prekių gamyba.    
  
 Pakeitimai:
      1.Nr. 1-567;
-1994.07.20.; Žin., 1994, Nr. 58-1136
-     
+1994.07.20.; 
+       Žin., 1994,
+Nr. 58-1136
+ 
  
             VII.
 PRIDĖTINĖS VERTĖS MOKESČIO APSKAITA
@@ -757,22 +828,24 @@ Lietuvos  Respublikos buhalterinės apskaitos
 pagrindų įstatymo 
 10 straipsnyje  nustatyti privalomi rekvizitai
 ir mokėtojo kodas.
-    
-Sąskaitas-faktūras  produkcijai  ir  suteiktoms  paslaugoms,
+     Sąskaitas-faktūras 
+produkcijai  ir  suteiktoms  paslaugoms,
 gautoms iš 
 ūkininkų, kuriems taikomas PVM kompensacinis tarifas,
 išrašo prekių ir
 paslaugų gavėjas.
  
      Pakeitimai:
-     1. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+     1.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
  
  
      27 straipsnis. 
 Jeigu  išrašius  sąskaitą-faktūrą  keičiamos
-prekių kainos  ar jų 
-kiekis, turi būti išrašoma nauja  sąskaita-
+prekių kainos  ar
+jų  kiekis, turi būti išrašoma nauja  sąskaita-
 faktūra,
 patikslinanti anksčiau išrašytąją.
  
@@ -785,6 +858,7 @@ sąskaitas-faktūras
 mokėtinos  tiekėjams PVM sumos, skaičiuojant į
 biudžetą mokėtiną
 PVM sumą, neatskaitomos.
+ 
  
     29   
 straipsnis.  Jeigu   mokėtojas apskaičiavo  ir įrašė į
@@ -812,8 +886,10 @@ apskaitos pagrindų
 įstatymo nustatytą laiką.
  
      Pakeitimai:
-     1. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+     1.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
  
  
             VIII.
@@ -821,11 +897,22 @@ MOKESČIO MOKĖJIMO Į BIUDŽETĄ TVARKA
  
  
      31 straipsnis. 
-PVM mokesčio  laikotarpis  yra  kalendorinis
-mėnuo. Lietuvos 
-Respublikos Vyriausybė gali nustatyti PVM avanso
-mokėjimo į biudžetą
-terminus ir tvarką.
+PVM  laikotarpis  yra  kalendorinis  mėnuo.
+Lietuvos 
+Respublikos   Vyriausybė  gali   nustatyti  PVM  avanso
+mokėjimo į 
+biudžetą  terminus  ir  tvarką,  taip  pat  kitą  PVM
+apskaičiavimo  ir  
+mokėjimo  tvarką   už  Lietuvos  Respublikoje
+pagamintus ir 
+įvežamus alkoholinius gėrimus, tabako gaminius bei
+naftos produktus.
+ 
+     Pakeitimai:
+     1.Nr.1-904;
+1995 05 30
+       Žin., 1995,
+Nr. 49-1178
  
  
      32 straipsnis. 
@@ -863,21 +950,31 @@ procentų.
  
      Pakeitimai:
      1.Nr. 1-567;
-1994.07.20.; Žin., 1994, Nr. 58-1136
-     2. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+1994.07.20.; 
+       Žin., 1994,
+Nr. 58-1136
+     2.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
  
  
-     35 straipsnis. 
- Apskaičiuota  mokėtina  PVM suma  turi būti
-sumokėta į  biudžetą
+     35 straipsnis.
+Apskaičiuota  mokėtina PVM  suma  turi  būti
+sumokėta į biudžetą
 per 10 dienų nuo šio įstatymo 32 straipsnyje
-nustatyto
-deklaracijos pateikimo termino. Apskaičiuota grąžintina
-PVM   suma   turi 
-būti  grąžinta  iš biudžeto  šio  įstatymo  17
-straipsnyje nustatyta
-tvarka ir terminais.
+nustatyto 
+deklaracijos  pateikimo  termino,  išskyrus  Lietuvos
+Respublikoje
+pagamintus ir įvežamus alkoholinius  gėrimus, tabako
+gaminius  bei 
+naftos  produktus,  kuriems  Lietuvos  Respublikos
+Vyriausybė   gali 
+nustatyti  kitą  PVM apskaičiavimo ir mokėjimo 
+tvarką. Apskaičiuota
+grąžintina PVM  suma turi  būti grąžinta iš
+biudžeto šio
+įstatymo 17 straipsnyje nustatyta tvarka ir terminais.
      Nustatytu
 laiku   PVM  nesumokėjus  (negrąžinus),  imama 0,3
 procento
@@ -894,9 +991,17 @@ metus.
  
      Pakeitimai:
      1.Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
-     2. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+1994.04.07.;
+       Žin., 1994,
+Nr. 28-489
+     2.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
+     3.Nr.1-904;
+1995 05 30
+       Žin., 1995,
+Nr. 49-1178
  
  
           IX.
@@ -929,13 +1034,14 @@ fizinių asmenų - per
 teismą.
  
      Pakeitimai:
-     1. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
-                                  
-
+     1.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
  
-                   
-X. BAIGIAMOSIOS NUOSTATOS
+ 
+                    X.
+BAIGIAMOSIOS NUOSTATOS
  
  
      37 straipsnis. 
@@ -944,7 +1050,9 @@ X. BAIGIAMOSIOS NUOSTATOS
  
      Pakeitimai:
      1.Nr.1-412;
-1994.03.24.; Žin., 1994, Nr.25-399
+1994.03.24.; 
+       Žin., 1994,
+Nr.25-399
  
  
      38
@@ -985,9 +1093,13 @@ veterinarinio aptarnavimo įstaigos."
  
      Pakeitimai:
      1.Nr. 1-567;
-1994.07.20.; Žin., 1994, Nr. 58-1136
-     2. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261   
+1994.07.20.; 
+       Žin., 1994,
+Nr. 58-1136
+     2.Nr.1-774;
+1995.01.26.;
+       Žin., 1995,
+Nr.12-261
  
  
      38-1
@@ -995,25 +1107,32 @@ straipsnis.   Gamybinės  įmonės, kuriose  dirba  riboto
 darbingumo asmenų, 
 1995 ir  1996 metais  apskaičiuotą į biudžetą
 mokėtiną   skirtumą
-tarp  PVM   sumos   už   parduotas prekes bei
+tarp  PVM   sumos   už   parduotas prekes bei
 suteiktas paslaugas
 ir atskaitomos sumos sumažina taip:
      riboto
 darbingumo asmenų dalis     PVM suma  sumažinama tarp
 visų dirbančiųjų
- 
 daugiau kaip 50
 proc.                        100 proc.    daugiau
 kaip 45 proc.,
 bet mažiau kaip 50
 proc.                     90 proc.
- 
 nuo 40 iki 45
 proc.                          70 proc.
-     Invalidų 
-visuomeninių   organizacijų  personalinės   įmonės
-apskaičiuotą mokėti
-į biudžetą PVM skirtumą mažina 100 procentų.
+    Invalidų 
+visuomeninių   organizacijų  akcinės   bendrovės,
+uždarosios  akcinės 
+bendrovės,  kurių  visos  akcijos  priklauso
+invalidų  visuomeninėms 
+organizacijoms,  apskaičiuotą  mokėti  į
+biudžetą PVM 
+skirtumą mažina  100 procentų.  Invalidų  draugijos
+akcinė bendrovė 
+"Puntukas" apskaičiuotą  mokėti į  biudžetą  PVM
+skirtumą   mažina   
+proporcingai   draugijos   turimo   kapitalo
+procentui.
      Teikiant šią
 lengvatą, riboto darbingumo asmenimis laikomi:
      I, II ir III
@@ -1031,11 +1150,19 @@ Lietuvos Respublikos
 Vyriausybė.
  
      Pakeitimai:
-     1. Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
-     2. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
-     
+     1.Nr.1-423;
+1994.04.07.;
+       Žin., 1994,
+Nr. 28-489
+     2.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
+     3.Nr.1-904;
+1995 05 30
+       Žin., 1995,
+Nr. 49-1178
+ 
  
      39 straipsnis.
 Lietuvos Respublikos Vyriausybė:
@@ -1054,10 +1181,14 @@ suteiktoms  paslaugoms nuo  1995  m.  liepos  1
 dienos.
  
      Pakeitimai:
-     1. Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
-     2. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+     1.Nr.1-423;
+1994.04.07.;
+       Žin., 1994,
+Nr. 28-489
+     2.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
  
  
      40 straipsnis. 
@@ -1068,8 +1199,10 @@ vertės mokesčio
 skaičiavimo ir mokėjimo instrukciją.
  
      Pakeitimai:
-     Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
+     1.Nr.1-423;
+1994.04.07.;
+       Žin., 1994,
+Nr. 28-489
  
  
      41
@@ -1086,12 +1219,19 @@ nustatyti
 laikotarpiui iki 1997 m. sausio 1 dienos.
  
      Pakeitimai:
-     1. Nr.1-423;
-1994.04.07.;Žin., 1994, Nr. 28-489
-     2. Nr. 1-567;
-1994.07.20.; Žin., 1994, Nr. 58-1136
-     3. Nr.1-774;
-1995.01.26.; Žin., 1995, Nr.12-261
+     1.Nr.1-423;
+1994.04.07.;
+       Žin., 1994,
+Nr. 28-489
+     2.Nr. 1-567;
+1994.07.20.; 
+       Žin., 1994,
+Nr. 58-1136
+     3.Nr.1-774;
+1995.01.26.; 
+       Žin., 1995,
+Nr.12-261
+ 
  
 Skelbiu šį Lietuvos
 Respublikos Seimo priimtą įstatymą.
@@ -1099,4 +1239,5 @@ Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS
 PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
+_
 
