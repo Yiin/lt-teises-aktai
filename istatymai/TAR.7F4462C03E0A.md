@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7F4462C03E0A"
 
 # Dėl Lietuvos Respublikos įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo ir papildymo
 
+Suvestinė redakcija nuo 1992-07-15
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 10-0; Žin. 1992, Nr.3-38, i. k. 0921010ISTA00I-2198
+ 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
 DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL PAPILDOMŲ SOCIALINIŲ GARANTIJŲ ŠEIMOMS ASMENŲ, NUKENTĖJUSIŲ KOVOJANT UŽ LIETUVOS RESPUBLIKOS LAISVĘ NUO 1991 M. SAUSIO 11–13 D. VYKDYTOS AGRESIJOS IR PO TO BUVUSIŲ ĮVYKIŲ“ PAKEITIMO IR PAPILDYMO
@@ -62,7 +66,9 @@ Išmokėti asmenims, sužalotiems kovojant už Lietuvos Respublikos laisvę nuo 
 
 
 
-Kompensacijos turi būti išmokėtos ne vėliau kaip per vieną mėnesį nuo atitinkamų dokumentų pateikimo Krašto apsaugos ministerijai ir ne vėliau kaip iki 1992 m. kovo 31 dienos.
+Dokumentai iš nukentėjusių asmenų priimami ne vėliau kaip iki 1992 m. spalio 31 d., o kompensacijos išmokamos ne vėliau kaip per vieną mėnesį nuo atitinkamų dokumentų pateikimo Krašto apsaugos ministerijai. 
+Straipsnio dalies pakeitimai:
+Nr. I-2751, 1992-07-15, Lietuvos aidas, 1992, Nr. 140-0 (1992-07-21); Žin., 1992, Nr. 22-642 (1992-08-10), i. k. 0921010ISTA00I-2751
  
 
 
@@ -96,3 +102,14 @@ II. Šis įstatymas įsigalioja nuo jo priėmimo dienos.
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
 PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2751, 1992-07-15, Lietuvos aidas, 1992, Nr. 140-0 (1992-07-21); Žin., 1992, Nr. 22-642 (1992-08-10), i. k. 0921010ISTA00I-2751
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo ir papildymo" pakeitimo
