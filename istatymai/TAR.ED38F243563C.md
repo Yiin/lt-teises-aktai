@@ -62,8 +62,8 @@ skiriamos pagal specialius įstatymus.
 Straipsnio
 pakeitimai:
 Nr.
-I-1012, 95.07.04, Žin., 1995, Nr. 59-1476
-(95.07.19)
+I-1012,
+95.07.04, Žin., 1995, Nr. 59-1476 (95.07.19)
  
  
 2 straipsnis.
@@ -101,21 +101,23 @@ valstybinę socialinio draudimo našlių pensiją, jo pasirinkimu skiriama ir
 mokama arba valstybinė našlių pensija, arba valstybinė socialinio draudimo
 našlių pensija. 
 Šio įstatymo 1
-straipsnio 1 dalies 3-5 punktuose nustatytų valstybinių pensijų dydis kiekvienos
-atskirai ar kartu su valstybine socialinio draudimo pensija vienam asmeniui
-negali viršyti pusantro užpraeito mėnesio prieš pensijos mokėjimą Statistikos
-departamento prie Lietuvos Respublikos Vyriausybės skelbiamo Lietuvos
-Respublikos ūkio darbuotojų vidutinio mėnesinio darbo užmokesčio. Pensijos
-dydžio ribojimą taiko valstybinę pensiją mokanti institucija.
+straipsnio 1 dalies 3–5 punktuose nustatytų valstybinių pensijų dydis
+kiekvienos atskirai ar kartu su valstybine socialinio draudimo pensija vienam
+asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama
+valstybinė pensija, Statistikos departamento prie Lietuvos Respublikos
+Vyriausybės paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio 1,5
+dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.
 Straipsnio
 pakeitimai:
 Nr.
-I-1012, 95.07.04, Žin., 1995, Nr. 59-1476
-(95.07.19) 
+I-1012,
+95.07.04, Žin., 1995, Nr. 59-1476 (95.07.19) 
 Nr. VIII-493,
 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
-Nr. VIII-1390, 99.11.04, Žin., 1999,
-Nr.99-2846 (99.11.24)
+Nr. VIII-1390,
+99.11.04, Žin., 1999, Nr.99-2846 (99.11.24)
+Nr. IX-185, 2001 02 20, Žin., 2001, Nr.
+21-693 (2001 03 09)
  
  
 II. LIETUVOS
@@ -154,8 +156,8 @@ Nepriklausomybės Akto signatarai.
 Straipsnio
 pakeitimai:
 Nr.
-I-1012, 95.07.04, Žin., 1995, Nr. 59-1476
-(95.07.19)
+I-1012,
+95.07.04, Žin., 1995, Nr. 59-1476 (95.07.19)
 Nr. VIII-553,
 97.12.02, Žin., 1997, Nr.115-2911 (97.12.17)
 Nr. VIII-771,
@@ -184,11 +186,11 @@ pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsn
 valstybinės pensijos mokamos neatsižvelgiant į tai, ar jų gavėjai turi
 draudžiamųjų pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio
 pensijų draudimo įmokos.
-Lietuvos
-Nepriklausomybės Akto signatarams pirmojo laipsnio valstybinę pensiją Lietuvos
-Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo komisijos
-teikimu skiria Vyriausybė, neribodama pirmojo laipsnio valstybinių pensijų
-skyrimo per kalendorinius metus skaičiaus.
+Lietuvos Nepriklausomybės
+Akto signatarams pirmojo laipsnio valstybinę pensiją Lietuvos Respublikos
+pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo komisijos teikimu
+skiria Vyriausybė, neribodama pirmojo laipsnio valstybinių pensijų skyrimo per
+kalendorinius metus skaičiaus.
 Asmenims, teismo
 nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo padarymą, pirmojo ar
 antrojo laipsnio valstybinės pensijos paskyrimas panaikinamas nuo nuosprendžio
@@ -198,30 +200,30 @@ po pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nu
 kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos,
 arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio
 mokamas ligos dienomis), motinystės, motinystės (tėvystės) ar bedarbio pašalpas
-(toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos nemokamos.
-Ši nuostata netaikoma šio straipsnio ketvirtojoje dalyje išvardytiems ginkluoto
-pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsnio
-valstybinių pensijų gavėjams, taip pat antrojo laipsnio valstybinių pensijų
-gavėjoms – motinoms, pagimdžiusioms ir išauginusioms bei gerai išauklėjusioms
-10 ir daugiau vaikų. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo
-laipsnių valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai
-institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias
-pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma
-išieškoma iš pensijos gavėjo Valstybinių socialinio draudimo pensijų įstatymo
-ir kitų įstatymų nustatyta tvarka.
+(toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos
+nemokamos. Ši nuostata netaikoma šio straipsnio ketvirtojoje dalyje
+išvardytiems ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams
+savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, taip pat antrojo
+laipsnio valstybinių pensijų gavėjoms – motinoms, pagimdžiusioms ir
+išauginusioms bei gerai išauklėjusioms 10 ir daugiau vaikų. Apie draudžiamųjų
+pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo
+pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų
+atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to
+permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo Valstybinių
+socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
 Straipsnio
 pakeitimai: 
 Nr.
-I-1123, 95.12.12, Žin., 1995, Nr. 102-2282
-(95.12.15)
+I-1123,
+95.12.12, Žin., 1995, Nr. 102-2282 (95.12.15)
 Nr. VIII-493,
 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
 Nr. VIII-553,
 97.12.02, Žin., 1997, Nr.115-2911 (97.12.17)
 Nr. VIII-771,
 98.06.09, Žin., 1998, Nr.56-1546 (98.06.19)
-Nr. IX-114, 2000 12 21, Žin., 2000, Nr.
-111-3578 (2000 12 29)
+Nr. IX-114,
+2000 12 21, Žin., 2000, Nr. 111-3578 (2000 12 29)
  
  
 6 straipsnis.
@@ -257,14 +259,14 @@ pirmojo arba antrojo laipsnio valstybinių pensijų skyrimo per kalendorinius
 metus skaičiaus.
 Komisija taip
 pat turi teisę Krašto apsaugos ministerijos teikimu skirti pirmojo arba antrojo
-laipsnio valstybinę pensiją 1918-1920 metų nepriklausomybės kovų kariams
-savanoriams, neribodama pirmojo arba antrojo laipsnio valstybinių pensijų
-skyrimo per kalendorinius metus skaičiaus.
+laipsnio valstybinę pensiją 1918-1920 metų nepriklausomybės kovų kariams savanoriams,
+neribodama pirmojo arba antrojo laipsnio valstybinių pensijų skyrimo per
+kalendorinius metus skaičiaus.
 Straipsnio
 pakeitimai:
 Nr.
-I-1012, 95.07.04, Žin., 1995, Nr. 59-1476
-(95.07.19)
+I-1012,
+95.07.04, Žin., 1995, Nr. 59-1476 (95.07.19)
 Nr.
 VIII-152,
 97.03.25, Žin., 1997, Nr.30-708 (97.04.09)
@@ -299,8 +301,8 @@ iš pareigų apkaltos tvarka arba po atleidimo iš pareigų buvo teisti už tyč
 nusikaltimo padarymą.
 Straipsnio
 pakeitimai:
-Nr. VIII-1730, 00.06.13, Žin., 2000,
-Nr.52-1487 (00.06.28), įsigalioja nuo 2000.07.01
+Nr. VIII-1730,
+00.06.13, Žin., 2000, Nr.52-1487 (00.06.28), įsigalioja nuo 2000.07.01
  
  
 8 straipsnis.
@@ -331,9 +333,9 @@ ir našlaičių pensija tiems asmenims, tokiomis pačiomis sąlygomis ir gavėju
 priklausiusios pensijos dalimis, kaip nurodyta Valstybinių socialinio draudimo
 pensijų įstatymo straipsniuose, reguliuojančiuose valstybines socialinio
 draudimo našlių ir našlaičių pensijas. Ši nuostata taip pat taikoma
-mirus asmeniui, kuris pagal šio įstatymo 4 straipsnio ketvirtąją dalį ir 7 straipsnį
-būtų turėjęs teisę gauti pirmojo laipsnio valstybinę pensiją kaip sukakęs
-senatvės pensijos amžių.
+mirus asmeniui, kuris pagal šio įstatymo 4 straipsnio ketvirtąją dalį ir 7
+straipsnį būtų turėjęs teisę gauti pirmojo laipsnio valstybinę pensiją kaip
+sukakęs senatvės pensijos amžių.
 Straipsnio
 pakeitimai:
 Nr. VIII-771,
@@ -346,9 +348,9 @@ personalinių
 pensijų mokėjimo
 Pirmojo ir
 antrojo laipsnių valstybinės pensijos skiriamos ir mokamos nuo 1995 metų sausio
-1 dienos, vadovaujantis šiuo įstatymu ir Lietuvos Respublikos pirmojo ir
-antrojo laipsnių valstybinių pensijų skyrimo ir mokėjimo nuostatais,
-tvirtinamais Vyriausybės.
+1 dienos, vadovaujantis šiuo įstatymu ir Lietuvos Respublikos pirmojo ir antrojo
+laipsnių valstybinių pensijų skyrimo ir mokėjimo nuostatais, tvirtinamais
+Vyriausybės.
 Lietuvos
 Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo komisija
 iki 1995 metų liepos 1 dienos turi iš naujo apsvarstyti iki šio įstatymo
@@ -457,8 +459,7 @@ o nuo 1947 m. vasario 4 d. perduotuose SSRS valstybės saugumo ministerijai
 SSRS vidaus reikalų liaudies komisariato (NKVD), SSRS vidaus reikalų
 ministerijos (MVD), SSRS valstybės saugumo liaudies komisariato (NKGB), SSRS
 valstybės saugumo ministerijos (MGB), SSRS valstybės saugumo komiteto (KGB)
-struktūrose, taip pat šių struktūrų padaliniuose, valdybose, įstaigose ar
-tarnybose;
+struktūrose, taip pat šių struktūrų padaliniuose, valdybose, įstaigose ar tarnybose;
 3)
 Lietuvos teritorijoje 1941-1944 metais veikusiuose sovietinių desantininkų,
 partizanų būriuose ar junginiuose, jeigu šie būriai ar junginiai arba atskiri
@@ -519,19 +520,19 @@ labui.
 Straipsnio
 pakeitimai:
 Nr.
-I-1012, 95.07.04, Žin., 1995, Nr. 59-1476
-(95.07.19)
+I-1012,
+95.07.04, Žin., 1995, Nr. 59-1476 (95.07.19)
 Nr.
-I-1484, 96.07.11, Žin., 1996, Nr. 73-1750
-(96.07.31) 
+I-1484,
+96.07.11, Žin., 1996, Nr. 73-1750 (96.07.31) 
 Nr. VIII-493,
 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
 Nr. VIII-967,
 98.12.10, Žin., 1998, Nr.114-3192 (98.12.30)
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 00.02.10, Žin., 2000, Nr.14-370 (00.02.18)
-Nr. VIII-1730, 00.06.13, Žin., 2000,
-Nr.52-1487 (00.06.28), įsigalioja nuo 2000.07.01
+Nr. VIII-1730,
+00.06.13, Žin., 2000, Nr.52-1487 (00.06.28), įsigalioja nuo 2000.07.01
  
  
 12
@@ -558,8 +559,8 @@ valstybinių pensijų bazių dydžio nukentėjusiųjų asmenų valstybinė pensi
 Straipsnio
 pakeitimai:
 Nr.
-I-1123, 95.12.12, Žin., 1995, Nr. 102-2282
-(95.12.15)
+I-1123,
+95.12.12, Žin., 1995, Nr. 102-2282 (95.12.15)
 Nr.
 VIII-493,
 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
@@ -580,9 +581,9 @@ vietovėse,
 valstybinės pensijos
 Šio įstatymo 11
 straipsnio pirmosios dalies 2-6 punktuose išvardytiems asmenims, tapusiems I ar
-II grupių invalidais arba sukakusiems senatvės pensijos amžių, skiriama ir mokama
-nukentėjusiųjų asmenų valstybinė pensija valstybinių pensijų bazės dydžio,
-išskyrus šio straipsnio antrojoje dalyje numatytus atvejus. 
+II grupių invalidais arba sukakusiems senatvės pensijos amžių, skiriama ir
+mokama nukentėjusiųjų asmenų valstybinė pensija valstybinių pensijų bazės
+dydžio, išskyrus šio straipsnio antrojoje dalyje numatytus atvejus. 
 Nukentėjusių
 asmenų valstybinė pensija skiriama šio įstatymo 11 straipsnio pirmosios dalies
 2-7 punktuose išvardytiems asmenims, kurie tapo invalidais: 
@@ -621,13 +622,13 @@ kompensacinė išmoka už ypatingas darbo sąlygas.
 Nukentėjusiųjų
 asmenų valstybinės pensijos taip pat skiriamos bei mokamos šio įstatymo 11
 straipsnio antrosios dalies 2 ir 4 punktuose nurodytų asmenų tėvams, tapusiems
-I ar II grupių invalidais arba sukakusiems senatvės pensijos amžių, ir yra
-valstybinių pensijų bazės dydžio.
+I ar II grupių invalidais arba sukakusiems senatvės pensijos amžių, ir yra valstybinių
+pensijų bazės dydžio.
 Straipsnio
 pakeitimai:
 Nr.
-I-1484, 96.07.11, Žin., 1996, Nr. 73-1750
-(96.07.31) 
+I-1484,
+96.07.11, Žin., 1996, Nr. 73-1750 (96.07.31) 
 Nr.
 VIII-189,
 97.04.22, Žin., 1997, Nr.38-925 (97.05.02)
@@ -665,9 +666,9 @@ nukentėjusių asmenų valstybinę našlių ir našlaičių pensiją turi pasipr
 1940-1990 metų okupacijoms dalyvių, žuvusių kovos lauke ar suėmimo metu,
 nužudytų ar mirusių tardymo ar kalinimo metu, nuteistų mirties bausme, jei
 bausmė įvykdyta, našliai (našlės), taip pat našlaičiai vaikai (įvaikai), jeigu
-jie tėvų mirties metu buvo nepilnamečiai, bei politinių kalinių vaikai (įvaikai),
-jeigu jie abiejų kalinčių tėvų mirties metu (taip pat jeigu vienas tėvų
-(įtėvių) buvo miręs, ištremtas arba dingęs be žinios, o kitas kalėjo) buvo
+jie tėvų mirties metu buvo nepilnamečiai, bei politinių kalinių vaikai
+(įvaikai), jeigu jie abiejų kalinčių tėvų mirties metu (taip pat jeigu vienas
+tėvų (įtėvių) buvo miręs, ištremtas arba dingęs be žinios, o kitas kalėjo) buvo
 nepilnamečiai. Šioje dalyje nurodytiems asmenims nustatyta nukentėjusių asmenų
 valstybinė našlaičių pensija skiriama ir mokama, jei jie neturi teisės į kitą
 nukentėjusių asmenų valstybinę pensiją.
@@ -707,14 +708,14 @@ valstybinių pensijų bazės.
 Straipsnio
 pakeitimai:
 Nr.
-I-1012, 95.07.04, Žin., 1995, Nr. 59-1476
-(95.07.19)
+I-1012,
+95.07.04, Žin., 1995, Nr. 59-1476 (95.07.19)
 Nr.
-I-1123, 95.12.12, Žin., 1995, Nr. 102-2282
-(95.12.15)
+I-1123,
+95.12.12, Žin., 1995, Nr. 102-2282 (95.12.15)
 Nr.
-I-1484, 96.07.11, Žin., 1996, Nr. 73-1750
-(96.07.31) 
+I-1484,
+96.07.11, Žin., 1996, Nr. 73-1750 (96.07.31) 
 Nr.
 VIII-493,
 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
@@ -724,8 +725,8 @@ Nr. VIII-977,
 98.12.16, Žin., 1998, Nr.115-3235 (98.12.31)
 Nr. VIII-1187,
 99.05.18, Žin., 1999, Nr.48-1525 (99.06.02)
-Nr. VIII-1390, 99.11.04, Žin., 1999,
-Nr.99-2846 (99.11.24)
+Nr. VIII-1390,
+99.11.04, Žin., 1999, Nr.99-2846 (99.11.24)
  
  
             15 straipsnis.
@@ -776,12 +777,12 @@ už du mėnesius.
 Straipsnio
 pakeitimai:
 Nr.
-I-1484, 96.07.11, Žin., 1996, Nr. 73-1750
-(96.07.31) 
+I-1484,
+96.07.11, Žin., 1996, Nr. 73-1750 (96.07.31) 
 Nr. VIII-967,
 98.12.10, Žin., 1998, Nr.114-3192 (98.12.30)
-Nr. VIII-1730, 00.06.13, Žin., 2000,
-Nr.52-1487 (00.06.28), įsigalioja nuo 2000.07.01
+Nr. VIII-1730,
+00.06.13, Žin., 2000, Nr.52-1487 (00.06.28), įsigalioja nuo 2000.07.01
  
  
 16 straipsnis.
@@ -799,8 +800,8 @@ bei terminais.
 Straipsnio
 pakeitimai:
 Nr.
-I-1012, 95.07.04, Žin., 1995, Nr. 59-1476
-(95.07.19) 
+I-1012,
+95.07.04, Žin., 1995, Nr. 59-1476 (95.07.19) 
 Nr.
 VIII-189,
 97.04.22, Žin., 1997, Nr.38-925 (97.05.02)
@@ -812,7 +813,8 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                              ALGIRDAS
 BRAZAUSKAS 
-_____________________
+ 
+___________
  
 Pakeitimai:
 
@@ -961,8 +963,8 @@ m. sausio 1 d.
  
 14.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1390, 99.11.04, Žin., 1999,
-Nr.99-2846 (99.11.24)
+Nr. VIII-1390,
+99.11.04, Žin., 1999, Nr.99-2846 (99.11.24)
 LIETUVOS
 RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO 3
 STRAIPSNIO PAPILDYMO IR 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -973,8 +975,8 @@ paskirtos našlaičių pensijos nemokamos.
  
 15.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1730, 00.06.13, Žin., 2000,
-Nr.52-1487 (00.06.28)
+Nr. VIII-1730,
+00.06.13, Žin., 2000, Nr.52-1487 (00.06.28)
 VALSTYBINIŲ PENSIJŲ ĮSTATYMO 7, 11, 15 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
@@ -982,14 +984,22 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 16.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-114, 2000 12 21, Žin., 2000, Nr.
-111-3578 (2000 12 29)
+Nr. IX-114, 2000 12
+21, Žin., 2000, Nr. 111-3578 (2000 12 29)
 VALSTYBINIŲ PENSIJŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-185,
+2001 02 20, Žin., 2001, Nr. 21-693 (2001 03 09)
+VALSTYBINIŲ PENSIJŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
 *** Pabaiga ***
+ 
  
  
 LIETUVOS RESPUBLIKOS KONSTITUCINIS TEISMAS:
@@ -1001,17 +1011,17 @@ DĖL LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO 11
 STRAIPSNIO 4 DALIES, LIETUVOS RESPUBLIKOS ASMENŲ, NUKENTĖJUSIŲ NUO 1939-1990
 METŲ OKUPACIJŲ, TEISINIO STATUSO ĮSTATYMO 8 STRAIPSNIO 3 DALIES 2 PUNKTO
 ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR LIETUVOS RESPUBLIKOS
-VYRIAUSYBĖS 1998 M. LIEPOS 3 D. NUTARIMU NR. 829 "DĖL 1939-1990 METŲ
-OKUPACIJŲ REPRESINIŲ STRUKTŪRŲ, TARNYBŲ IR PAREIGŲ, KURIAS ĖJUSIEMS ASMENIMS
-NESKIRIAMOS NUKENTĖJUSIŲJŲ ASMENŲ VALSTYBINĖS PENSIJOS, SĄRAŠO
-PATVIRTINIMO" PATVIRTINTO SĄRAŠO "1939-1990 METŲ OKUPACIJŲ REPRESINĖS
-STRUKTŪROS, TARNYBOS IR PAREIGOS, KURIAS ĖJUSIEMS ASMENIMS NESKIRIAMOS
-NUKENTĖJUSIŲJŲ ASMENŲ VALSTYBINĖS PENSIJOS" 9 BEI 12 PUNKTŲ ATITIKIMO
-LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ
-ĮSTATYMO 11 STRAIPSNIO 4 DALIAI
+VYRIAUSYBĖS 1998 M. LIEPOS 3 D. NUTARIMU NR. 829 "DĖL 1939-1990 METŲ OKUPACIJŲ
+REPRESINIŲ STRUKTŪRŲ, TARNYBŲ IR PAREIGŲ, KURIAS ĖJUSIEMS ASMENIMS NESKIRIAMOS
+NUKENTĖJUSIŲJŲ ASMENŲ VALSTYBINĖS PENSIJOS, SĄRAŠO PATVIRTINIMO"
+PATVIRTINTO SĄRAŠO "1939-1990 METŲ OKUPACIJŲ REPRESINĖS STRUKTŪROS,
+TARNYBOS IR PAREIGOS, KURIAS ĖJUSIEMS ASMENIMS NESKIRIAMOS NUKENTĖJUSIŲJŲ
+ASMENŲ VALSTYBINĖS PENSIJOS" 9 BEI 12 PUNKTŲ ATITIKIMO LIETUVOS
+RESPUBLIKOS KONSTITUCIJAI IR LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO
+11 STRAIPSNIO 4 DALIAI
  
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 01 05)
+Redagavo: Aušrinė Trapinskienė (2001 03 09)
                   autrap@lrs.lt
