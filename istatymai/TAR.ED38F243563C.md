@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 Redagavo: Ramunė
-Lūžaitė (1998.11.11)
+Lūžaitė (1999.01.05)
  
 Įstatymas
 paskelbtas: Žin., 1994, Nr.101-2018
@@ -119,6 +119,21 @@ PAPILDYMO ĮSTATYMAS
  
 Šis
 įstatymas įsigalioja nuo 1999 m. sausio 1 d.
+ 
+10.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-967,
+98.12.10, Žin., 1998, Nr.114-3192 (98.12.30)
+LIETUVOS
+RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO 11, 13, 14, 15 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
+ 
+Šis
+įstatymas įsigalioja nuo 1999 m. sausio 10 d., išskyrus Valstybinių pensijų
+įstatymo 11 straipsnio 1 dalies 4 punkto ir 11 straipsnio 3 dalies pakeitimus
+bei papildymus, taip pat 13 straipsnio 2 dalies 3 punktą, kurie įsigalioja nuo
+2000 m. sausio 1 d.
  
 ***
 Pabaiga ***
@@ -223,7 +238,7 @@ LAIPSNIŲ VALSTYBINĖS PENSIJOS
  
      4
 straipsnis. Teisė gauti Lietuvos Respublikos pirmojo arba antrojo
-                   laipsnio
+                   laipsnio
 valstybinę pensiją
  
 Teisę gauti Lietuvos Respublikos pirmojo arba
@@ -244,8 +259,8 @@ amžiaus tiek mėnesių, už kiek mėnesių kompensacija mokama.
 valstybinę pensiją šio įstatymo nustatyta tvarka taip pat turi aukščiausieji
 valstybės pareigūnai. 
 Teisę gauti pirmojo laipsnio valstybinę
-pensiją šio įstatymo nustatyta tvarka turi ginkluoto pasipriešinimo
-(rezistencijos) dalyviai - kariai savanoriai.
+pensiją šio įstatymo nustatyta tvarka turi ginkluoto pasipriešinimo (rezistencijos)
+dalyviai - kariai savanoriai.
 Teisę gauti pirmojo laipsnio valstybinę
 pensiją šio įstatymo nustatyta tvarka turi Lietuvos Nepriklausomybės Akto
 signatarai.
@@ -254,8 +269,8 @@ Straipsnio
 pakeitimai:
 Nr.
 I-102, 95.07.04, Žin., 1995, Nr. 59-1476 (95.07.19)
-Nr. VIII-553,
-97.12.02, Žin., 1997, Nr.115-2911 (97.12.17)
+Nr. VIII-553, 97.12.02,
+Žin., 1997, Nr.115-2911 (97.12.17)
 Nr. VIII-771,
 98.06.09, Žin., 1998, Nr.56-1546 (98.06.19)
  
@@ -268,8 +283,8 @@ ir panaikinimas
 laipsnio valstybinę pensiją skiria Vyriausybė pagal Lietuvos Respublikos
 pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo komisijos teikimą.
      Antrojo
-laipsnio  valstybinę  pensiją  skiria  Lietuvos Respublikos pirmojo ir antrojo laipsnių
-valstybinių pensijų skyrimo komisija.
+laipsnio  valstybinę  pensiją  skiria  Lietuvos Respublikos pirmojo ir antrojo
+laipsnių valstybinių pensijų skyrimo komisija.
     
 Per vienerius kalendorinius metus negali būti paskirta daugiau kaip 15 pirmojo
 laipsnio valstybinių pensijų ir daugiau kaip 45 antrojo laipsnio
@@ -282,8 +297,8 @@ valstybinių pensijų skyrimo per kalendorinius metus skaičiaus.
       Lietuvos
 Nepriklausomybės Akto signatarams pirmojo laipsnio valstybinę pensiją Lietuvos
 Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo komisijos
-teikimu skiria Vyriausybė, neribodama pirmojo laipsnio valstybinių pensijų skyrimo
-per kalendorinius metus skaičiaus.
+teikimu skiria Vyriausybė, neribodama pirmojo laipsnio valstybinių pensijų
+skyrimo per kalendorinius metus skaičiaus.
     
 Asmenims, teismo  nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo 
 padarymą, pirmojo  ar antrojo laipsnio valstybinės pensijos paskyrimas
@@ -350,8 +365,8 @@ Nr. VIII-553,
  
      7
 straipsnis. Lietuvos Respublikos valstybinės pensijos
-             
-     aukščiausiesiems valstybės pareigūnams
+                  
+aukščiausiesiems valstybės pareigūnams
  
      Respublikos
 Prezidentui, išėjusiam iš valstybės tarnybos, skiriama ir mokama Respublikos
@@ -448,9 +463,9 @@ arba jis tokią teisę įgyja vėliau, nuo šios teisės įgijimo jo pasirinkimu
 mokama personalinė pensija arba kita pensija;
 2) jei personalinės pensijos gavėjas turi
 teisę gauti mažesnę pirmojo arba antrojo laipsnio valstybinę ar valstybinę
-socialinio draudimo pensiją arba iš viso neturi teisės šių pensijų gauti,
-toliau mokama ankstesnė personalinė pensija, kuri indeksuojama kartu ir tiek
-pat kaip valstybinių pensijų bazė.
+socialinio draudimo pensiją arba iš viso neturi teisės šių pensijų gauti, toliau
+mokama ankstesnė personalinė pensija, kuri indeksuojama kartu ir tiek pat kaip
+valstybinių pensijų bazė.
      Jei
 asmeniui mokama personalinė pensija ir jis tuo pat metu turi teisę gauti
 mažesnę valstybinę socialinio draudimo pensiją, šios valstybinės socialinio
@@ -483,6 +498,8 @@ nuolatinės kompensacinės išmokos:
      1) 
 kurie tapo invalidais dėl 1991 metų sausio 11-13 dienomis vykdytos agresijos ir
 po to buvusių įvykių;
+ 
+[11 straipsnio 1 dalies 2 ir 3 punktų redakcija iki 1999 m. sausio 10 d.]
      2)
 politiniai kaliniai ir tremtiniai, pateikę Lietuvos Respublikos teisėsaugos
 institucijų dokumentus (reabilitacijos pažymas), patvirtinančius politinių
@@ -490,12 +507,30 @@ kalinių ir tremtinių teisių atstatymą;
      3) 
 rezistentai ir pasipriešinimo sovietinei okupacijai dalyviai, kurie nustatyta
 tvarka yra pripažinti rezistencijos ir pasipriešinimo dalyviais;
+ 
+[11 straipsnio 1 dalies 2 ir 3 punktų redakcija nuo 1999 m. sausio 10 d.]
+2) politiniai kaliniai ir tremtiniai, pateikę
+Lietuvos Respublikos teisėsaugos institucijų išduotus dokumentus
+(reabilitacijos pažymas), patvirtinančius politinių kalinių ir tremtinių teisių
+atkūrimą, arba Lietuvos gyventojų genocido ir rezistencijos tyrimo centro
+išduotus nuo okupacijų nukentėjusio asmens - politinio kalinio ar tremtinio
+teisinio statuso pažymėjimus;  
+3) pasipriešinimo 1940-1990 metų okupacijoms
+(rezistencijos) dalyviai - laisvės kovų dalyviai, kuriems įstatymų nustatyta
+tvarka yra pripažintas šis statusas;  
+      [11
+straipsnio 1 dalies 4 punkto redakcija iki 2000 m. sausio 1 d.]
      4) 
 kurie Antrojo pasaulinio karo metais buvo išvežti priverstiniams darbams už
 buvusios TSRS ribų (vaikai, sukakę 14 metų) arba buvo getuose ar koncentracijos
 stovyklose;
-     5)
- kurie  Antrojo  pasaulinio  karo  metais  tarnavo antihitlerinės  koalicijos 
+      [11
+straipsnio 1 dalies 4 punkto redakcija nuo 2000 m. sausio 1 d.]
+4) kurie Antrojo pasaulinio karo metais buvo
+išvežti priverstiniams darbams už buvusios TSRS ribų arba buvo getuose,
+koncentracijos ar kitokio tipo prievartinėse stovyklose;
+     5) 
+kurie  Antrojo  pasaulinio  karo  metais  tarnavo antihitlerinės  koalicijos 
 valstybių  veikiančiose armijose, partizanų būriuose ar junginiuose;
      6) 
 kurie  dalyvavo  likviduojant  Černobylio  atominės elektrinės avarijos
@@ -510,19 +545,33 @@ turi teisę gauti tėvai, sutuoktiniai ir vaikai:
      1)
 asmenų, žuvusių dėl 1991 metų sausio 11 - 13 dienomis vykdytos agresijos ir po
 to buvusių įvykių;
+      [11
+straipsnio 2 dalies 2 punko redakcija iki 1999 m. sausio 10 d.]
      2) 
 asmenų,  žuvusių  rezistencijos  ir  pasipriešinimo sovietinei okupacijai
 veiksmų metu, taip pat nužudytųjų ir mirusiųjų neteisėto kalinimo ar tremties
 metu;
+      [11
+straipsnio 2 dalies 2 punko redakcija nuo 1999 m. sausio 10 d.]
+2) asmenų, žuvusių pasipriešinimo 1940-1990
+metų okupacijoms (rezistencijos) veiksmų metu, taip pat nužudytų ir mirusių
+neteisėto kalinimo ar tremties metu;
      3)
 asmenų, žuvusių ar mirusių dėl Černobylio atominės elektrinės avarijos
 padarinių likvidavimo;
      4)
-asmenų, žuvusių ar mirusių būtinosios karinės tarnybos ar karinių mokymų
-sovietinėje armijoje (1945 07 22 - 1991 12 31) metu arba vėliau mirusių dėl
-ligų, susijusių su karine tarnyba.
+asmenų, žuvusių ar mirusių būtinosios karinės tarnybos ar karinių mokymų sovietinėje
+armijoje (1945 07 22 - 1991 12 31) metu arba vėliau mirusių dėl ligų, susijusių
+su karine tarnyba.
+      [11
+straipsnio 3 dalies redakcija iki 2000 m. sausio 1 d.]
      Getų
-ir koncentracijos stovyklų sąrašą tvirtina Lietuvos gyventojų genocido ir
+ir koncentracijos stovyklų sąrašą tvirtina Lietuvos gyventojų genocido ir rezistencijos
+tyrimo centras.
+      [11
+straipsnio 3 dalies redakcija nuo 2000 m. sausio 1 d.]
+Getų, koncentracijos ar kitokio tipo
+prievartinių stovyklų sąrašą tvirtina Lietuvos gyventojų genocido ir
 rezistencijos tyrimo centras.
     
 Nukentėjusiųjų asmenų valstybinės pensijos neskiriamos šio straipsnio pirmojoje
@@ -542,6 +591,8 @@ Nr.
 I-1484, 96.07.11, Žin., 1996, Nr. 73-1750 (96.07.31) 
 Nr. VIII-493,
 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
+Nr. VIII-967, 98.12.10,
+Žin., 1998, Nr.114-3192 (98.12.30)
  
      12
 straipsnis. Valstybinės pensijos nukentėjusiems dėl 1991 metų
@@ -576,9 +627,9 @@ valstybinių pensijų bazės dydžio.
 Nukentėjusiųjų asmenų valstybinė pensija
 skiriama asmenų, žuvusių dėl 1991 metų sausio 11-13 dienomis vykdytos agresijos
 ir po to buvusių įvykių, motinoms, sukakusioms 50 metų arba pripažintoms
-invalidėmis, taip pat tėvams, sukakusiems senatvės pensijos amžių arba pripažintiems
-invalidais. Šiems asmenims mokama dviejų valstybinių pensijų bazių dydžio
-nukentėjusiųjų asmenų valstybinė pensija. 
+invalidėmis, taip pat tėvams, sukakusiems senatvės pensijos amžių arba
+pripažintiems invalidais. Šiems asmenims mokama dviejų valstybinių pensijų
+bazių dydžio nukentėjusiųjų asmenų valstybinė pensija. 
  
 Straipsnio
 pakeitimai:
@@ -589,6 +640,8 @@ VIII-493, 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
 Nr.
 VIII-907, 98.10.22, Žin., 1998, Nr.98-2709 (98.11.11)
  
+      [13
+straipsnio redakcija iki 1999 m. sausio 10 d.]
      13
 straipsnis. Nukentėjusiųjų asmenų, tapusių invalidais,
                    
@@ -610,14 +663,14 @@ tarnybą ar karinius mokymus sovietinėje armijoje, arba vėliau buvo pripažint
 invalidais dėl ligų, susijusių su karine tarnyba, ar dėl Černobylio atominės
 elektrinės avarijos padarinių likvidavimo darbų poveikio, nukentėjusiųjų asmenų
 valstybinė pensija mokama: 
-1) I ar II grupių invalidams - 1,5
-valstybinių pensijų bazės dydžio. Be to, I grupės invalidams dar mokamas 0,5
-valstybinių pensijų bazės dydžio priedas slaugai, jei šis priedas nemokamas iš
-valstybinio socialinio draudimo fondo;
+1) I ar II grupių invalidams - 1,5 valstybinių
+pensijų bazės dydžio. Be to, I grupės invalidams dar mokamas 0,5 valstybinių
+pensijų bazės dydžio priedas slaugai, jei šis priedas nemokamas iš valstybinio
+socialinio draudimo fondo;
 2) III grupės invalidams - 0,75 valstybinių
 pensijų bazės dydžio.
 [13 straipsnio 2 dalies redakcija nuo 1999 m.
-sausio 1 d.]
+sausio 1 d. iki 1999 m. sausio 10 d.]
 Šio įstatymo 11 straipsnio
 pirmosios dalies 2-7 punktuose išvardytiems asmenims, kurie tapo invalidais
 neteisėto kalinimo ir tremties, rezistencijos ir pasipriešinimo sovietinei
@@ -638,6 +691,47 @@ taip pat skiriamos bei mokamos šio įstatymo 11 straipsnio antrosios dalies 2 i
 4 punktuose nurodytų asmenų tėvams, tapusiems I ar II grupių invalidais arba
 sukakusiems senatvės pensijos amžių, ir yra valstybinių pensijų bazės dydžio.
  
+    
+[13 straipsnio redakcija nuo 1999 m. sausio 10 d.]
+     13
+straipsnis. Nukentėjusiųjų asmenų, tapusių invalidais,
+                   
+valstybinės pensijos
+ 
+Šio įstatymo 11 straipsnio pirmosios dalies
+2-6 punktuose išvardytiems asmenims, tapusiems I ar II grupių invalidais arba
+sukakusiems senatvės pensijos amžių, skiriama ir mokama nukentėjusiųjų asmenų
+valstybinė pensija valstybinių pensijų bazės dydžio, išskyrus šio straipsnio
+antrojoje dalyje numatytus atvejus.
+Nukentėjusių asmenų valstybinė pensija
+skiriama šio įstatymo 11 straipsnio pirmosios dalies 2-7 punktuose išvardytiems
+asmenims, kurie tapo invalidais: 
+1) neteisėto kalinimo ir tremties,
+pasipriešinimo 1940-1990 metų okupacijoms (rezistencijos) veiksmų metu;
+2) būdami išvežti priverstiniams darbams,
+būdami getuose ir koncentracijos stovyklose; 
+[13 straipsnio 2 dalies 3 punktas įsigalioja
+nuo 2000 m. sausio 1 d.]
+3) būdami kitokio tipo prievartinėse
+stovyklose;
+4) dalyvaudami karo veiksmuose bei atlikdami
+būtinąją karinę tarnybą ar karinius mokymus sovietinėje armijoje, arba vėliau
+buvo pripažinti invalidais dėl ligų, susijusių su karine tarnyba; 
+5) dėl Černobylio atominės elektrinės
+avarijos padarinių likvidavimo darbų poveikio.
+Nukentėjusių asmenų valstybinė pensija mokama
+šio straipsnio 2 dalyje išvardytiems asmenims:
+1) pripažintiems I grupės invalidais - 2
+valstybinių pensijų bazių dydžio; 
+2) pripažintiems II grupės invalidais - 1,5
+valstybinių pensijų bazės dydžio;
+3) pripažintiems III grupės invalidais - 0,75
+valstybinių pensijų bazės dydžio.
+Nukentėjusiųjų asmenų valstybinės pensijos
+taip pat skiriamos bei mokamos šio įstatymo 11 straipsnio antrosios dalies 2 ir
+4 punktuose nurodytų asmenų tėvams, tapusiems I ar II grupių invalidais arba
+sukakusiems senatvės pensijos amžių, ir yra valstybinių pensijų bazės dydžio.
+ 
 Straipsnio
 pakeitimai:
 Nr.
@@ -648,6 +742,8 @@ Nr.
 VIII-493, 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
 Nr.
 VIII-907, 98.10.22, Žin., 1998, Nr.98-2709 (98.11.11)
+Nr. VIII-967,
+98.12.10, Žin., 1998, Nr.114-3192 (98.12.30)
  
      14
 straipsnis. Nukentėjusiųjų asmenų valstybinės našlių ir našlaičių 
@@ -671,8 +767,15 @@ našlaičių pensija taip pat skiriama:
 1) mirus asmeniui, pripažintam invalidu dėl
 1991 metų sausio 11-13 dienomis vykdytos agresijos ir po to buvusių įvykių (12
 straipsnio pirmoji dalis);
+[14 straipsnio 3 dalies 2 punkto redakcija
+iki 1999 m. sausio 10 d.]
 2) asmeniui žuvus rezistencijos ir
 pasipriešinimo sovietinei okupacijai veiksmų metu, taip pat žuvus ar mirus
+neteisėto kalinimo ar tremties metu;
+[14 straipsnio 3 dalies 2 punkto redakcija
+nuo 1999 m. sausio 10 d.]
+2) asmeniui žuvus pasipriešinimo 1940-1990
+metų okupacijoms (rezistencijos) veiksmų metu, taip pat žuvus ar mirus
 neteisėto kalinimo ar tremties metu;
 3) asmeniui mirus dėl Černobylio atominės
 elektrinės avarijos padarinių likvidavimo darbų poveikio;
@@ -703,6 +806,8 @@ Nr.
 I-1484, 96.07.11, Žin., 1996, Nr. 73-1750 (96.07.31) 
 Nr.
 VIII-493, 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
+Nr. VIII-967,
+98.12.10, Žin., 1998, Nr.114-3192 (98.12.30)
  
      15
 straipsnis. Nukentėjusiųjų asmenų valstybinių pensijų mokėjimas
@@ -720,6 +825,8 @@ asmenų  valstybinės  pensijos skiriamos, mokamos  ir ginčai dėl šių pen
 nagrinėjami Valstybinių socialinio draudimo pensijų įstatymo V skyriaus bei
 Valstybinių socialinio  draudimo  pensijų  skyrimo ir mokėjimo nuostatų
 nustatyta valstybinėms socialinio draudimo pensijoms tvarka.
+      [15
+straipsnio 4 dalies redakcija iki 1999 m. sausio 10 d.]
      Nukentėjusiųjų 
 asmenų  valstybinės  pensijos  asmenims, tapusiems  invalidais  dėl 1991 metų
 sausio 11-13 dienomis vykdytos agresijos ir po to buvusių įvykių bei šio
@@ -734,6 +841,22 @@ tapusiems invalidais dalyvaujant karo veiksmuose bei asmenims, tapusiems
 invalidais būtinosios  karinės  tarnybos ar karinių mokymų sovietinėje armijoje
 metu, taip pat žuvusiųjų (mirusiųjų) šios tarnybos ar mokymų metu -
 atitinkamiems šeimos nariams pateikus Krašto apsaugos ministerijos pažymą.
+      [15
+straipsnio 4 dalies redakcija nuo 1999 m. sausio 10 d.]
+Nukentėjusių asmenų valstybinės pensijos
+asmenims, tapusiems invalidais dėl 1991 metų sausio 11-13 dienomis vykdytos
+agresijos ir po to buvusių įvykių, bei šio įstatymo nustatytais atvejais jų
+tėvams, sutuoktiniams ir vaikams skiriamos pateikus Lietuvos Respublikos
+generalinės prokuratūros pažymą, pasipriešinimo 1940-1990 metų okupacijoms
+(rezistencijos) veiksmų dalyviams bei šio įstatymo nustatytais atvejais jų
+tėvams, sutuoktiniams ir vaikams skiriamos pateikus Lietuvos gyventojų genocido
+ir rezistencijos tyrimo centro pažymą, o asmenims, Antrojo pasaulinio karo
+metais tarnavusiems antihitlerinės koalicijos valstybių veikiančiose armijose,
+partizanų būriuose ar junginiuose, taip pat tapusiems invalidais dalyvaujant
+karo veiksmuose, bei asmenims, tapusiems invalidais būtinosios karinės tarnybos
+ar karinių mokymų sovietinėje armijoje metu, taip pat žuvusiųjų (mirusiųjų)
+šios tarnybos ar mokymų metu atitinkamiems šeimos nariams pateikus Krašto
+apsaugos ministerijos pažymą.
      Nukentėjusiųjų 
 asmenų  valstybinės  pensijos  mokamos, nepaisant nukentėjusiųjų asmenų kitų
 pajamų.
@@ -749,6 +872,8 @@ Straipsnio
 pakeitimai:
 Nr.
 I-1484, 96.07.11, Žin., 1996, Nr. 73-1750 (96.07.31) 
+Nr. VIII-967,
+98.12.10, Žin., 1998, Nr.114-3192 (98.12.30)
  
      16
 straipsnis. Įstatymo įsigaliojimas
@@ -760,9 +885,9 @@ straipsnis. Įstatymo įsigaliojimas
 Valstybinės našlių ir našlaičių pensijos skiriamos tik už asmenis, mirusius po
 šio įstatymo įsigaliojimo, išskyrus 14 straipsnyje nurodytuosius.
      Iki
-šio  įstatymo įsigaliojimo  nukentėjusiems asmenims paskirtos pensijos perskaičiuojamos
-šio įstatymo ir Valstybinių socialinio draudimo  pensijų įstatymo  nustatyta
-tvarka bei terminais.
+šio  įstatymo įsigaliojimo  nukentėjusiems asmenims paskirtos pensijos
+perskaičiuojamos šio įstatymo ir Valstybinių socialinio draudimo  pensijų
+įstatymo  nustatyta tvarka bei terminais.
  
 Straipsnio
 pakeitimai:
