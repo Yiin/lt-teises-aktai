@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2002-01-09 iki 2002-05-03
+Suvestinė redakcija nuo 2002-05-04 iki 2003-04-29
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -32,10 +32,17 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato labdaros ir paramos teikimą ir gavimą, jos teikimo ir gavimo tikslus, teikėjus ir gavėjus, labdaros ir paramos teikimo ir gavimo kontrolę bei apskaitą, kai labdaros ir (arba) paramos teikėjai ir (arba) gavėjai naudojasi įstatymų nustatytomis mokesčių ir muitų lengvatomis.
+1. Šis įstatymas nustato labdaros ir paramos teikimą ir gavimą, jos teikimo ir gavimo tikslus, teikėjus ir gavėjus, labdaros ir paramos teikimo ir gavimo kontrolę bei apskaitą, kai labdaros ir (arba) paramos tiekėjai ir (arba) gavėjai naudojasi įstatymų nustatytomis mokesčių ir muitų lengvatomis.
+
+
+
+
+2. Jeigu Lietuvos Respublikos tarptautinėse sutartyse nustatytos kitokios negu šio įstatymo ir kitų Lietuvos Respublikos įstatymų normos, taikomos Lietuvos Respublikos tarptautinių sutarčių normos.
+
+
+Straipsnio pakeitimai:
+Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
  
-
-
 
 
 
@@ -64,7 +71,10 @@ Vilnius
 
 
 
-2. Paramos dalykai šiame įstatyme nurodytiems paramos gavėjams teikiami jų įstatuose ar nuostatuose numatytiems šio straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams, o biudžetinėms įstaigoms - jų nuostatuose nustatytiems uždaviniams ir funkcijoms įgyvendinti. 
+2. Paramos dalykai šiame įstatyme nurodytiems paramos gavėjams teikiami jų įstatuose ar nuostatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose numatytiems šio straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams, o biudžetinėms įstaigoms – jų nuostatuose nustatytiems uždaviniams ir funkcijoms įgyvendinti.
+Straipsnio dalies pakeitimai:
+Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
+ 
 
 
 
@@ -111,7 +121,10 @@ Vilnius
 5 straipsnis. Labdaros ir paramos teikėjai
 
 
-1. Labdara pagal šį įstatymą pripažįstama, kai ją teikia tik Lietuvos Respublikoje registruoti labdaros ir paramos fondai, asociacijos, viešosios įstaigos, visuomeninės organizacijos, religinės bendruomenės, bendrijos ir centrai, tarptautinių visuomeninių organizacijų skyriai (padaliniai), jeigu labdaros teikimas numatytas jų įstatuose bei veiklą reglamentuojančiuose teisės aktuose ir jeigu jie pagal šio įstatymo nuostatas turi teisę gauti paramą. Asociacijų, visuomeninių organizacijų ar kitų narystės pagrindais veikiančių organizacijų savo nariams perduotos piniginės lėšos, turtas (įskaitant pagamintas ar įsigytas prekes) bei suteiktos paslaugos pagal šį įstatymą nepripažįstamos labdara.
+1. Labdara pagal šį įstatymą pripažįstama, kai ją teikia tik Lietuvos Respublikoje registruoti labdaros ir paramos fondai, asociacijos, viešosios įstaigos, visuomeninės organizacijos, religinės bendruomenės, bendrijos ir centrai, tarptautinių visuomeninių organizacijų skyriai (padaliniai), jeigu labdaros teikimas numatytas jų įstatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose bei veiklą reglamentuojančiuose teisės aktuose ir jeigu jie pagal šio įstatymo nuostatas turi teisę gauti paramą. Asociacijų, visuomeninių organizacijų ar kitų narystės pagrindais veikiančių organizacijų savo nariams perduotos piniginės lėšos, turtas (įskaitant pagamintas ar įsigytas prekes) bei suteiktos paslaugos pagal šį įstatymą nepripažįstamos labdara.
+Straipsnio dalies pakeitimai:
+Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
+ 
 
 
 
@@ -298,7 +311,10 @@ Labdara ir parama teikiama:
 10 straipsnis. Paramos panaudojimas
 
 
-1. Paramos gavėjai pagal šį įstatymą gautą paramą gali naudoti savo įstatuose ar nuostatuose numatytiems šio įstatymo 3 straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams, labdarai (jeigu jie pagal šį įstatymą turi teisę teikti labdarą), o biudžetinės įstaigos - nuostatuose nustatytiems uždaviniams ir funkcijoms įgyvendinti.
+1. Paramos gavėjai pagal šį įstatymą gautą paramą gali naudoti savo įstatuose ar nuostatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose numatytiems šio įstatymo 3 straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams, labdarai (jeigu jie pagal šį įstatymą turi teisę teikti labdarą), o biudžetinės įstaigos – nuostatuose nustatytiems uždaviniams ir funkcijoms įgyvendinti.
+Straipsnio dalies pakeitimai:
+Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
+ 
 
 
 
@@ -453,6 +469,14 @@ Nr. IX-680, 2001-12-21, Žin., 2002, Nr. 2-50 (2002-01-09), i. k. 1011010ISTA00I
 
 4. Juridinis asmuo, kuriam už šio straipsnio 3 dalyje nurodytą bent vieną pažeidimą buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į juridinių asmenų registro tvarkytoją ne anksčiau kaip po metų, kurie pradedami skaičiuoti nuo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas bei delspinigius, o per metų laikotarpį nebuvo nustatyta mokesčių įstatymų piktybinių pažeidimų arba Pinigų plovimo prevencijos įstatymo pažeidimų.
 TAR pastaba. Straipsnis įsigalioja nuo juridinių asmenų registro, nurodyto Lietuvos Respublikos civilinio kodekso antrojoje knygoje, veiklos pradžios 2004-01-01.
+
+
+
+
+5. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi paramos gavėjo statusą. Jiems netaikomos šio straipsnio 1, 2, 3 ir 4 dalių nuostatos.
+Papildyta straipsnio dalimi:
+Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
+ 
 
 
 
