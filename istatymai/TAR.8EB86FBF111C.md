@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8EB86FBF111C"
 
 # Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas
 
+Suvestinė redakcija nuo 2000-11-01 iki 2010-05-30
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 64-1927; Žin. 2000, Nr.86-0; Žin. 2002, Nr.103-0, i. k. 1001010ISTAIII-1856
+ 
 LIETUVOS RESPUBLIKOS
 GINKLUOTOS GYNYBOS IR PASIPRIEŠINIMO AGRESIJAI
 Į S T A T Y M A S
@@ -52,7 +56,10 @@ priima šį įstatymą.
 
 
 
-2. Ginkluotosios pajėgos – Lietuvos kariuomenė ir ginkluotos gynybos nuo agresijos metu priskirtos kitos ginkluotosios pajėgos: pasienio policija bei kiti specializuoti policijos daliniai, koviniai Lietuvos šaulių sąjungos būriai, taip pat kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadovybei.
+2. Ginkluotosios pajėgos – Lietuvos kariuomenė ir ginkluotos gynybos nuo agresijos metu priskirtos kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba, specializuoti policijos daliniai, koviniai Lietuvos šaulių sąjungos būriai, taip pat kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadovybei.
+Straipsnio dalies pakeitimai:
+Nr. VIII-2001, 2000-10-10, Žin., 2000, Nr. 92-2853 (2000-10-31), i. k. 1001010ISTAIII-2001
+ 
 
 
 
@@ -165,7 +172,9 @@ Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai teisinius p
 
 
 
-4. Agresija nelaikomas Lietuvos Respublikos ginkluotųjų pajėgų, esančių užsienyje, užpuolimas, nekeliantis rimtos grėsmės Lietuvos Respublikos suverenitetui, teritorijos vientisumui ar politinei nepriklausomybei. Agresija taip pat nelaikomi vietinio pobūdžio ginkluoti incidentai ir valstybės sienos pažeidimai, pagal savo pobūdį neprilygstantys šio straipsnio 2 dalyje išvardytiems agresijos aktams. Pasienio policijos ir kariuomenės reagavimo į šiuos incidentus bei pažeidimus tvarką nustato kiti teisės aktai.
+4. Agresija nelaikomas Lietuvos Respublikos ginkluotųjų pajėgų, esančių užsienyje, užpuolimas, nekeliantis rimtos grėsmės Lietuvos Respublikos suverenitetui, teritorijos vientisumui ar politinei nepriklausomybei. Agresija taip pat nelaikomi vietinio pobūdžio ginkluoti incidentai ir valstybės sienos pažeidimai, pagal savo pobūdį neprilygstantys šio straipsnio 2 dalyje išvardytiems agresijos aktams. Valstybės sienos apsaugos tarnybos ir kariuomenės reagavimo į šiuos incidentus bei pažeidimus tvarką nustato kiti teisės aktai.
+Straipsnio dalies pakeitimai:
+Nr. VIII-2001, 2000-10-10, Žin., 2000, Nr. 92-2853 (2000-10-31), i. k. 1001010ISTAIII-2001
  
 
 
@@ -364,3 +373,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2001, 2000-10-10, Žin., 2000, Nr. 92-2853 (2000-10-31), i. k. 1001010ISTAIII-2001
+Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo 2 ir 5 straipsnių pakeitimo įstatymas
