@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BFB136428878"
 
 # Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymas
 
+Suvestinė redakcija nuo 1999-06-11 iki 2007-12-31
+ 
+Įstatymas paskelbtas: Žin. 1997, Nr. 12-230, i. k. 0971010ISTA0VIII-97
+ 
 LIETUVOS RESPUBLIKOS PASIPRIEŠINIMO 1940–1990METŲ OKUPACIJOMS DALYVIŲ TEISINIO STATUSO Į S T A T Y M A S
  
 1997 m. sausio 23 d. Nr. VIII-97
@@ -40,7 +44,10 @@ priima šį įstatymą.
 1. Kariai savanoriai yra ginkluoto pasipriešinimo (rezistencijos) dalyviai:
 
 
-1) 1941-ųjų birželio sukilimo dalyviai, 22–28 dienomis ginklu kovoję su okupacinės valdžios struktūromis;
+1) 1941-ųjų birželio sukilimo dalyviai, 22–28 dienomis ginklu kovoję su okupacinės valdžios struktūromis, taip pat šio sukilimo vadovai bei štabų nariai; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1201, 1999-05-25, Žin., 1999, Nr. 51-1636 (1999-06-11), i. k. 0991010ISTAIII-1201
+ 
 
 
 
@@ -55,7 +62,10 @@ priima šį įstatymą.
 
 
 
-4) partizanai, kurie priklausė laisvės kovotojų struktūroms, davė priesaiką ir jos nesulaužė, nešiojo atpažinimo ženklus ir ginklus, gyveno nelegaliai.
+4) partizanai, kurie priklausė ginkluoto pasipriešinimo struktūroms, davė priesaiką ir jos nesulaužė, turėjo atpažinimo ženklus ir ginklus, gyveno nelegaliai, taip pat rezervinių būrių, organizacinių skyrių bei kitų slaptųjų ginkluoto pasipriešinimo struktūrų nariai, kurie davė priesaiką ir jos nesulaužė, turėjo ginklus ir vadovybės įsakymu dalyvavo kautynėse ar kitose ginkluotose operacijose, taip pat partizanų ryšininkai ar rėmėjai, patekę į kautynių situaciją, su ginklu dalyvavę šiose kautynėse ir jų metu suimti, sužeisti ar žuvę.
+Straipsnio punkto pakeitimai:
+Nr. VIII-1201, 1999-05-25, Žin., 1999, Nr. 51-1636 (1999-06-11), i. k. 0991010ISTAIII-1201
+ 
 
 
 
@@ -81,7 +91,9 @@ Laisvės kovų dalyviai yra neginkluoto pasipriešinimo (rezistencijos) dalyviai
 
 
 
-2) 1940–1990 m. veikusių ir siekusių atkurti Lietuvos nepriklausomybę pogrindinių organizacijų nariai, pogrindžio spaudos leidėjai ir kiti pavojingų pasipriešinimo akcijų dalyviai, nebendradarbiavę su okupacinėmis represinėmis žinybomis.
+2) 1940–1990 m. veikusių ir siekusių atkurti Lietuvos nepriklausomybę pogrindinių organizacijų nariai, pogrindžio spaudos leidėjai, bendradarbiai ir platintojai. Taip pat pasipriešinimo akcijų dalyviai bei asmenys, kitokiais būdais ar veiksmais dalyvavę kovoje už Lietuvos nepriklausomybę. Laisvės kovų dalyvio statusas šiems asmenims pripažįstamas, jei jie nebendradarbiavo su okupacinėmis represinėmis struktūromis.
+Straipsnio punkto pakeitimai:
+Nr. VIII-1201, 1999-05-25, Žin., 1999, Nr. 51-1636 (1999-06-11), i. k. 0991010ISTAIII-1201
  
 
 
@@ -108,3 +120,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1201, 1999-05-25, Žin., 1999, Nr. 51-1636 (1999-06-11), i. k. 0991010ISTAIII-1201
+Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymo 1, 2 straipsnių pakeitimo ir papildymo įstatymas
