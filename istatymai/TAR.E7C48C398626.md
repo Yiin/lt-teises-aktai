@@ -312,20 +312,45 @@ pagal atitinkamų bendruomenių poreikius susisiekimo infrastruktūrai plėtoti.
  
 14 straipsnis. Bevariklio transporto infrastruktūros
 finansavimas
+1 dalies redakcija iki 2004 m.
+sausio 1 d.:
 1. Krašto bevariklio transporto
 infrastruktūros įrengimas bei priežiūra finansuojama valstybės investicijų
 programose. Papildomi finansavimo šaltiniai gali būti Kelių fondo,
 Gamtos apsaugos fondo, Sveikatos fondo lėšos.
+1 dalies redakcija nuo 2004 m.
+sausio 1 d.:
+1. Krašto bevariklio transporto
+infrastruktūros įrengimas bei priežiūra finansuojama valstybės investicijų
+programose. Papildomi finansavimo šaltiniai gali būti Kelių priežiūros
+ir plėtros programos, Savivaldybių aplinkos apsaugos rėmimo specialiosios
+programos, Savivaldybių visuomenės sveikatos rėmimo specialiosios programos
+lėšos.
+ 
+2 dalies redakcija iki 2004 m.
+sausio 1 d.:
 2. Rajoninės ir vietinės
 bevariklio transporto infrastruktūros įrengimas bei priežiūra finansuojami iš
 savivaldybių biudžetų, naudojant savivaldybėms skiriamas Kelių fondo, Gamtos
 apsaugos fondo, Sveikatos fondo lėšas.
+2 dalies redakcija nuo 2004 m.
+sausio 1 d.:
+2. Rajoninės ir vietinės
+bevariklio transporto infrastruktūros įrengimas bei priežiūra finansuojami iš
+savivaldybių biudžetų, naudojant savivaldybėms skiriamas Kelių priežiūros ir
+plėtros programos, Savivaldybių aplinkos apsaugos rėmimo specialiosios
+programos, Savivaldybių visuomenės sveikatos rėmimo specialiosios programos
+lėšas.
+ 
 3. Bevariklio transporto
 infrastruktūrai finansuoti gali būti naudojamos Lietuvos Respublikos ir
 užsienio šalių fizinių ar juridinių asmenų lėšos.
 4. Įmonių investicijos į
 visuomeniniam naudojimui skirtą bevariklio transporto infrastruktūrą yra
 prilyginamos paramai pagal Labdaros ir paramos įstatymą.
+Straipsnio pakeitimai:
+Nr. IX-1617,
+2003-06-10, Žin., 2003, Nr. 61-2770 (2003-06-27)
  
 15
 straipsnis. Bevariklio transporto priemonių gamybos ir naudojimo skatinimas
@@ -340,17 +365,10 @@ transporto priemones, skatinamos teisės aktų nustatyta tvarka.
 ūkinių bendrijų investicijoms į tarnybiniam naudojimui skirtas bevariklio
 transporto priemones taikomos kitoms investicijoms galiojančios mokesčių
 lengvatos.
-4. Fiziniams
-asmenims, kurių veikla yra bevariklio transporto priemonių konstravimas,
-remontas, nuoma, keleivių ir krovinių vežimas bevariklio transporto
-priemonėmis, Vyriausybės nustatyta tvarka išduodami patentai.
- 
-[4 dalies redakcija nuo 2003 m. sausio 1
-d.:
 4.
-Fiziniai asmenys, kurių veikla yra bevariklio transporto priemonių konstravimas,
-remontas, nuoma, keleivių ir krovinių vežimas bevariklio transporto
-priemonėmis, gali ja verstis turėdami verslo liudijimą.]
+Fiziniai asmenys, kurių veikla yra bevariklio transporto priemonių
+konstravimas, remontas, nuoma, keleivių ir krovinių vežimas bevariklio
+transporto priemonėmis, gali ja verstis turėdami verslo liudijimą.
 Straipsnio pakeitimai:
 Nr. IX-1264,
 2002-12-10, Žin., 2002, Nr. 123-5549 (2002-12-24), įsigalioja nuo 2003–01-01
@@ -449,12 +467,23 @@ BEVARIKLIO
 TRANSPORTO ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1617,
+2003-06-10, Žin., 2003, Nr. 61-2770 (2003-06-27)
+BEVARIKLIO
+TRANSPORTO ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja nuo 2004 m.
+sausio 1 d. 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-01-13)
+Aušrinė Trapinskienė (2003-07-03)
                  
 autrap@lrs.lt
 
