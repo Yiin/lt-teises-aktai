@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
 
+Suvestinė redakcija nuo 2004-02-07 iki 2004-04-30
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 17-701, i. k. 1031010ISTA0IX-1315
+ 
+ 
 LIETUVOS RESPUBLIKOS
 SPROGMENŲ APYVARTOS KONTROLĖS
 Į S T A T Y M A S
@@ -634,7 +639,10 @@ SU sprogmenIMIS SUSIJUSI ŪKINĖ KOMERCINĖ VEIKLA
 
 
 
-2. Licencijoje, suteikiančioje teisę verstis sprogmenų gamyba, turi būti nurodyta sprogmenų rūšis – inicijuojančiosios sprogstamosios medžiagos, brizantinės sprogstamosios medžiagos, svaidomosios medžiagos (parakai), sprogmenys, sprogdinimo priemonės, taip pat didžiausias per metus pagaminamas sprogstamųjų medžiagų kiekis. 
+2. Licencijoje, suteikiančioje teisę verstis sprogmenų gamyba, turi būti nurodyta sprogmenų rūšis – inicijuojančiosios sprogstamosios medžiagos, brizantinės sprogstamosios medžiagos, svaidomosios medžiagos (parakai), sprogmenys, sprogdinimo priemonės. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA0IX-1965
+ 
 
 
 
@@ -677,7 +685,9 @@ SU sprogmenIMIS SUSIJUSI ŪKINĖ KOMERCINĖ VEIKLA
 
 
 
-7) neviršyti licencijoje nurodyto leistino pagaminti produkcijos kiekio.
+7) neteko galios 2004-02-07.
+Straipsnio punkto pakeitimai:
+Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA0IX-1965
  
 
 
@@ -1216,3 +1226,12 @@ Lietuvos Respublikos
 priedas
  
 Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas yra suderintas su 1993 m. balandžio 5 d. Europos Bendrijų Tarybos direktyva 93/15/EEB dėl civiliniam naudojimui skirtų sprogmenų išleidimo į rinką ir jos priežiūros nuostatų derinimo.
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA0IX-1965
+Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 11 ir 14 straipsnių pakeitimo įstatymas
