@@ -23,14 +23,13 @@ paskelbtas: Žin., 1994, Nr. 46-851
 Neoficialus
 įstatymo tekstas
  
- 
 LIETUVOS
 RESPUBLIKOS
 T E I S M Ų
 ĮSTATYMAS
  
 1994 m. gegužės
-31 d. Nr.I-480
+31 d. Nr. I-480
 Vilnius
  
  
@@ -1160,7 +1159,6 @@ o Apeliacinio teismo teisėju – Vyriausiojo administracinio teismo teisėjas
 neatsižvelgiant į darbo stažą Apeliaciniame teisme ar Vyriausiajame
 administraciniame teisme. 
  
- 
 68
 straipsnis. Reikalavimai asmeniui, siekiančiam tapti Aukščiausiojo Teismo
 teisėju
@@ -1169,14 +1167,13 @@ Teismo teisėju gali būti skiriamas:
 1) apygardos
 administracinio teismo, apygardos teismo teisėjas, turintis ne mažesnį kaip
 aštuonerių metų šių teismų teisėjo darbo stažą;
-2) Vyriausiojo
-administracinio teismo, Apeliacinio teismo teisėjas, turintis ne mažesnį kaip
-penkerių metų šių teismų teisėjo darbo stažą;
+2) Vyriausiojo administracinio
+teismo, Apeliacinio teismo teisėjas, turintis ne mažesnį kaip penkerių metų šių
+teismų teisėjo darbo stažą;
 3) teisės
 krypties socialinių mokslų daktaras ar habilituotas daktaras, turintis ne
 mažesnį kaip penkiolikos metų teisinio pedagoginio darbo stažą, pateikęs
 sveikatos pažymėjimą.
- 
  
 69 straipsnis.
 Teisinio pedagoginio darbo stažo pripažinimas 
@@ -1312,9 +1309,9 @@ statusas
 1. Teismo
 pirmininkas, pirmininko pavaduotojas ir skyriaus pirmininkas, vykdydami
 teisingumą, turi tokias pačias teises ir pareigas kaip ir kiti teisėjai.
-2. Teismo
-pirmininko, pirmininko pavaduotojo ir skyriaus pirmininko papildomas procesines
-teises ir pareigas nustato įstatymai.
+2. Teismo pirmininko,
+pirmininko pavaduotojo ir skyriaus pirmininko papildomas procesines teises ir
+pareigas nustato įstatymai.
 3. Teismo
 pirmininko, pirmininko pavaduotojo ir skyriaus pirmininko administracinius
 įgaliojimus nustato įstatymai ir kiti teisės aktai.
@@ -1652,12 +1649,16 @@ Teisėjo darbo stažas
 stažas skaičiuojamas nuo asmens paskyrimo į bet kurio teismo teisėjo pareigas
 dienos.
 2. Į teisėjo darbo stažą
-priedams apskaičiuoti, atostogų trukmei ir teisėjo pensijai nustatyti
-įskaitomas ir darbo Lietuvos Respublikos Konstitucinio Teismo teisėju, prokuroru,
-prokuroro pavaduotoju, prokuratūros tardytoju, valstybiniu arbitru stažas,
-darbo valstybės tarnyboje stažas, taip pat asmenų, turinčių teisės krypties
-socialinių mokslų daktaro ar habilituoto daktaro laipsnį, pedagoginis darbo
-stažas. 
+priedams apskaičiuoti ir atostogų trukmei nustatyti įskaitomas ir darbo
+Lietuvos Respublikos Konstitucinio Teismo teisėju, prokuroru, prokuroro pavaduotoju,
+prokuratūros tardytoju, valstybiniu arbitru stažas, darbo valstybės tarnyboje
+stažas, taip pat asmenų, turinčių teisės krypties socialinių mokslų daktaro ar
+habilituoto daktaro laipsnį, pedagoginis darbo stažas.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1014,
+2002-07-02, Žin., 2002, Nr. 73-3090 (2002-07-19)
  
 98 straipsnis.
 Teisėjų atostogos
@@ -1696,40 +1697,14 @@ draudimo įstatymo nustatyta tvarka.
  
 100 straipsnis.
 Teisėjų pensinis aprūpinimas
-1. Asmeniui,
-kuris turi bendrą dvidešimties ir daugiau metų teisėjo ir Lietuvos Respublikos
-Konstitucinio Teismo teisėjo, prokuroro, prokuroro pavaduotojo, prokuratūros
-tardytojo, valstybinio arbitro, darbo valstybės tarnyboje stažą, teisės
-krypties socialinių mokslų daktaro ar habilituoto daktaro laipsnį ir
-pedagoginio darbo stažą ir iki pensijos paskutinius penkerius metus dirbo
-teisėju arba kuris turi penkiolikos ir daugiau metų teisėjo darbo stažą,
-sulaukė senatvės pensijos amžiaus ir kuriam pasibaigė teisėjo įgaliojimų
-laikas, mokama 45 procentų paskutinio jo darbo teisėju darbo užmokesčio dydžio
-teisėjo pensija. Ši pensija mokama iš valstybės biudžeto. 
-2. Šio ir kitų
-įstatymų numatytų pensijų suma kartu su valstybine socialinio draudimo pensija
-negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama pensija,
-Statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio darbo
-užmokesčio 1,5 dydžio. Pensijos ribojimą taiko pensiją mokanti institucija
-Vyriausybės nustatyta tvarka.
-3. Teisėjo
-pensija neskiriama, o paskirtoji nemokama, kai:
-1) teisėjo
-įgaliojimai nutrūksta apkaltos proceso tvarka;
-2) jis
-atleidžiamas iš pareigų, nes savo poelgiu pažemino teisėjo vardą;
-3) įsiteisėja jį
-apkaltinęs teismo nuosprendis.
-4. Lietuvos
-Respublikos Konstitucinio Teismo teisėjui, kuris šias pareigas ėjo Lietuvos
-Respublikos Konstitucijoje nustatytą laiką, kurio kadencija pasibaigė ir kuris
-turi teisę į valstybinę socialinio draudimo pensiją, mokama 45 procentų jo
-darbo užmokesčio einant Lietuvos Respublikos Konstitucinio Teismo teisėjo
-pareigas paskutinio pilno mėnesio dydžio teisėjo pensija. Šios pensijos ir iš
-valstybės biudžeto bei Valstybinio socialinio draudimo fondo biudžeto lėšų
-mokamų pensijų suma negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį
-mokama pensija, Statistikos departamento paskelbto šalies ūkio vidutinio
-mėnesinio darbo užmokesčio 1,5 dydžio.
+Teisėjų pensinį
+aprūpinimą nustato Valstybinių socialinio draudimo pensijų įstatymas,
+Valstybinių pensijų įstatymas bei Teisėjų valstybinių pensijų įstatymas.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1014,
+2002-07-02, Žin., 2002, Nr. 73-3090 (2002-07-19)
  
 101 straipsnis.
 Kitos teisėjų socialinės garantijos 
@@ -1779,8 +1754,8 @@ Bendrosios administravimo teismuose nuostatos
 Administravimą teismuose sudaro teismo pareigūnų organizacinė veikla (vidinis
 teismo administravimas) ir šiame Įstatyme numatytų pareigūnų atliekama
 nurodytos veiklos priežiūra (išorinis teismų administravimas). 
-2.
-Administravimas teismuose negali pažeisti teisėjų nepriklausomumo principo.
+2. Administravimas
+teismuose negali pažeisti teisėjų nepriklausomumo principo.
 3.
 Administravimo teismuose nuostatus tvirtina Teismų taryba. 
  
@@ -1855,10 +1830,10 @@ apygardos administraciniame teisme, kuriame yra du ar daugiau teismo pirmininko
 pavaduotojų, nėra apygardos administracinio teismo pirmininko, šias pareigas
 eina teismo pirmininko paskirtas jo pavaduotojas arba didesnį teisėjo darbo
 stažą tame teisme turintis teismo pirmininko pavaduotojas, jeigu teismo
-pirmininkas jį pavaduojančio asmens nepaskyrė. Jeigu apygardos administraciniame
-teisme, kuriame nėra teismo pirmininko pavaduotojo pareigybės, nėra teismo
-pirmininko, jo pareigas Vyriausiojo administracinio teismo pirmininkas paveda
-laikinai eiti vienam iš to teismo teisėjų.
+pirmininkas jį pavaduojančio asmens nepaskyrė. Jeigu apygardos
+administraciniame teisme, kuriame nėra teismo pirmininko pavaduotojo
+pareigybės, nėra teismo pirmininko, jo pareigas Vyriausiojo administracinio
+teismo pirmininkas paveda laikinai eiti vienam iš to teismo teisėjų.
 4. Kai nėra
 apylinkės teismo pirmininko, šias pareigas eina šio teismo pirmininko
 pavaduotojas. Kai apylinkės teisme, kuriame yra du ar daugiau teismo pirmininko
@@ -1974,15 +1949,14 @@ teisės aktais, reglamentuojančiais buhalterinę apskaitą.
 3. Teismo
 buhalterijai vadovauja ir už jos darbą atsako teismo finansininkas.
  
- 
 112 straipsnis.
 Teismo ūkio skyrius (ūkvedys) 
 1. Teismo ūkio skyrius
-(ūkvedys) rūpinasi teismo pastato ir patalpų tinkama būkle, remontu, rekonstrukcija
-ir statybos darbais, tinkamų darbo sąlygų teisėjams ir teismo personalui
-užtikrinimu, teismo aprūpinimu organizacinėmis techninėmis priemonėmis, taip
-pat atlieka kitus techninius, ūkinius, tvarkos palaikymo darbus, reikalingus
-tinkamam teismo funkcionavimui.
+(ūkvedys) rūpinasi teismo pastato ir patalpų tinkama būkle, remontu,
+rekonstrukcija ir statybos darbais, tinkamų darbo sąlygų teisėjams ir teismo
+personalui užtikrinimu, teismo aprūpinimu organizacinėmis techninėmis
+priemonėmis, taip pat atlieka kitus techninius, ūkinius, tvarkos palaikymo
+darbus, reikalingus tinkamam teismo funkcionavimui.
 2. Už teismo
 ūkio skyriaus darbą atsako teismo ūkio skyriaus vedėjas (ūkvedys). 
  
@@ -2001,7 +1975,6 @@ Teismų savivalda
 Konstituciją ir kitus įstatymus laisvai ir savarankiškai, savo atsakomybe
 spręsti teismų veiklos klausimus. 
  
- 
 114 straipsnis.
 Teismų savivaldos sistema 
 1.
@@ -2016,20 +1989,17 @@ garbės teismas.
 ir Teisėjų garbės teismas už savo veiklą yra atskaitingi Visuotiniam teisėjų
 susirinkimui. 
 3. Teismų
-savivaldos institucijoms funkcijas įgyvendinti padeda Nacionalinė teismų administracija.
-
+savivaldos institucijoms funkcijas įgyvendinti padeda Nacionalinė teismų
+administracija. 
 4. Tam tikriems
 klausimams rengti, iš anksto svarstyti ar spręsti Teismų taryba gali sudaryti
 nuolatines arba laikinąsias komisijas.
- 
  
 115 straipsnis.
 Savanoriškos teisėjų organizacijos
 Teisėjai
 gali laisvai vienytis ir jungtis į teisėjų asociacijas ar kitas nepolitines
 organizacijas, atstovaujančias teisėjų interesams.
- 
- 
  
 ANTRASIS
 SKIRSNIS
@@ -2139,10 +2109,10 @@ Teismų tarybos reglamentą;
 3) pataria
 Respublikos Prezidentui dėl teisėjų skyrimo, paaukštinimo, perkėlimo ir
 atleidimo iš pareigų;
-4) pataria Respublikos
-Prezidentui dėl teismų pirmininkų, pirmininkų pavaduotojų, skyrių pirmininkų
-skyrimo ir atleidimo iš pareigų (išskyrus 79 straipsnyje ir 81 straipsnio 2 ir
-3 dalyse numatytus atvejus);
+4) pataria
+Respublikos Prezidentui dėl teismų pirmininkų, pirmininkų pavaduotojų, skyrių
+pirmininkų skyrimo ir atleidimo iš pareigų (išskyrus 79 straipsnyje ir 81
+straipsnio 2 ir 3 dalyse numatytus atvejus);
 5) pataria
 Respublikos Prezidentui dėl teisėjų skaičiaus teismuose nustatymo ar pakeitimo
 (išskyrus 12 straipsnio 8 ir 9 dalyse numatytus atvejus);
@@ -2154,8 +2124,8 @@ asmenų įrašymo į pretendentų į laisvas apylinkės teismo teisėjų vietas 
 tvarką bei asmenų įrašymo į teisėjų karjeros siekiančių asmenų registrą tvarką;
 8) sudaro
 atrankos ir kitas nuolatines ar laikinąsias komisijas ir tvirtina jų nuostatus;
-9) skiria Teisėjų
-etikos ir drausmės komisijos narius ir tvirtina jos pirmininką;
+9) skiria
+Teisėjų etikos ir drausmės komisijos narius ir tvirtina jos pirmininką;
 10) skiria
 Teisėjų garbės teismo narius;
 11) tvirtina
@@ -2191,9 +2161,9 @@ Aukščiausiojo Teismo patalpose.
 2. Teismų
 tarybos posėdžiai paprastai šaukiami kas mėnesį. Prireikus posėdžiai šaukiami
 Teismų tarybos pirmininko arba trečdalio Teismų tarybos narių iniciatyva. 
-3. Medžiaga,
-susijusi su Teismų tarybos posėdžiuose svarstomais klausimais, pateikiama
-visiems Teismų tarybos nariams ne vėliau kaip prieš tris dienas iki posėdžio. 
+3. Medžiaga, susijusi
+su Teismų tarybos posėdžiuose svarstomais klausimais, pateikiama visiems Teismų
+tarybos nariams ne vėliau kaip prieš tris dienas iki posėdžio. 
 4. Teismų taryba
 nutarimus priima atviru balsavimu. Nusprendusi Teismų taryba nutarimus gali
 priimti slaptu balsavimu.
@@ -2240,10 +2210,9 @@ TEISMŲ ADMINISTRACIJA
  
 124 straipsnis.
 Nacionalinė teismų administracija 
-1. Nacionalinė
-teismų administracija yra teismų savivaldos institucijas aptarnaujanti
-biudžetinė įstaiga. Nacionalinė teismų administracija steigiama atskiru
-įstatymu. 
+1. Nacionalinė teismų
+administracija yra teismų savivaldos institucijas aptarnaujanti biudžetinė
+įstaiga. Nacionalinė teismų administracija steigiama atskiru įstatymu. 
 2. Nacionalinė
 teismų administracija yra juridinis asmuo, turi antspaudą su Lietuvos valstybės
 herbu ir sąskaitą banke.
@@ -2273,10 +2242,9 @@ sąlygų;
 5) organizuoja
 ir užtikrina, kad teismai būtų centralizuotai aprūpinami reikiamomis prekėmis
 ir paslaugomis;
-6) sudaro
-Nacionalinės teismų administracijos ir apylinkių teismų, apygardų teismų,
-apygardų administracinių teismų biudžetų išlaidų sąmatų įvykdymo suvestinę
-ataskaitą; 
+6) sudaro Nacionalinės
+teismų administracijos ir apylinkių teismų, apygardų teismų, apygardų
+administracinių teismų biudžetų išlaidų sąmatų įvykdymo suvestinę ataskaitą; 
 7) kaupia,
 analizuoja ir apibendrina teismų statistiką ir pateikia ją Teismų tarybai,
 teismams bei Teisingumo ministerijai;
@@ -2311,9 +2279,9 @@ Biudžeto projektų parengimas ir svarstymas
 1. Biudžeto ir
 investicinių programų projektus sudaro asignavimų valdytojai – teismai. 
 2. Asignavimų
-valdytojai – teismai pasiūlymus dėl savo biudžetų projektų pateikia Teismų
-tarybai svarstyti. Aprobavusi pasiūlymus dėl pateiktų biudžetų projektų, Teismų
-taryba juos pateikia svarstyti Vyriausybei. 
+valdytojai – teismai pasiūlymus dėl savo biudžetų projektų pateikia Teismų tarybai
+svarstyti. Aprobavusi pasiūlymus dėl pateiktų biudžetų projektų, Teismų taryba
+juos pateikia svarstyti Vyriausybei. 
 3.
 Aukščiausiasis Teismas, Apeliacinis teismas ir Vyriausiasis administracinis
 teismas, parengę savo biudžetų projektus, tiesiogiai pateikia juos svarstyti
@@ -2323,9 +2291,9 @@ Vyriausybei.
 Teismų materialinis techninis aprūpinimas
 1. Teismų
 materialinį techninį aprūpinimą pagal patvirtintas išlaidų sąmatas organizuoja
-ir užtikrina teismų pirmininkai. Aprūpinimą centralizuotai teismų ir
-Nacionalinės teismų administracijos poreikiams įsigyjamomis prekėmis ir
-paslaugomis organizuoja ir užtikrina Nacionalinė teismų administracija. 
+ir užtikrina teismų pirmininkai. Aprūpinimą centralizuotai teismų ir Nacionalinės
+teismų administracijos poreikiams įsigyjamomis prekėmis ir paslaugomis
+organizuoja ir užtikrina Nacionalinė teismų administracija. 
 2. Valstybės
 investicijų programų projektus aprobuoja Teismų taryba, o valstybės investicijų
 programas valdo Teisingumo ministerija.
@@ -2340,8 +2308,8 @@ be Teismų tarybos sutikimo.
 5. Atskirais
 atvejais teismai savo funkcijoms atlikti reikalingas patalpas gali nuomotis. 
  
-129 straipsnis. Teismų
-ūkinės finansinės veiklos tikrinimas
+129 straipsnis.
+Teismų ūkinės finansinės veiklos tikrinimas
 Teismų ūkinę
 finansinę veiklą įstatymų nustatyta tvarka pagal savo įgaliojimus gali tikrinti
 Valstybės kontrolė ir kitos valstybės institucijos.
@@ -2613,6 +2581,13 @@ Iki šiame Įstatyme nurodytų
 Teismų įstatymo straipsnių įsigaliojimo taikomos atitinkamos Teismų įstatymo
 nuostatos, galiojusios iki Teismų įstatymo pakeitimo įstatymo įsigaliojimo.
  
+25.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1014,
+2002-07-02, Žin., 2002, Nr. 73-3090 (2002-07-19)
+TEISMŲ
+ĮSTATYMO 97 IR 100 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 ***Pabaiga***
  
@@ -2631,6 +2606,6 @@ KONSTITUCIJAI
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-03-27)
-          
-       autrap@lrs.lt
+Aušrinė Trapinskienė (2002-07-22)
+                 
+autrap@lrs.lt
