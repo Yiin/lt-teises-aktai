@@ -32,7 +32,6 @@ Nauja įstatymo redakcija nuo 2003 m. sausio 1 d. (keistas įstatymo pavadinimas
 Nr. IX-1188,
 2002-11-12, Žin., 2002, Nr. 116-5188 (2002-12-06), atitaisymas skelbtas: Žin.,
 2003, Nr. 3
- 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
@@ -234,9 +233,9 @@ asignavimų ir savivaldybių lėšų, statant naujus arba rekonstruojant ir
 pritaikant būsto paskirčiai esamus pastatus, taip pat perkant ar kitokiu būdu
 teisėtai įsigyjant gyvenamuosius namus, jų dalis, butus. Šiais būdais įsigyti
 gyvenamieji namai, jų dalys, butai registruojami savivaldybės nuosavybės teise.
-Valstybės biudžeto asignavimai socialinio būsto fondui plėtoti planuojami ir paskirstomi
-savivaldybėms pagal Vyriausybės patvirtintą socialinio būsto fondo plėtros
-programą. 
+Valstybės biudžeto asignavimai socialinio būsto fondui plėtoti planuojami ir
+paskirstomi savivaldybėms pagal Vyriausybės patvirtintą socialinio būsto fondo
+plėtros programą. 
 2. Socialinis
 būstas neprivatizuojamas, išskyrus atvejus, nustatytus šio Įstatymo 12
 straipsnyje. 
@@ -300,8 +299,9 @@ Socialinio būsto nuomos tvarka ir sąlygos
 1. Asmenys
 (šeimos), turintys teisę į savivaldybės socialinį būstą ar jo sąlygų pagerinimą
 pagal šio Įstatymo 8 straipsnį, pateikę rašytinį prašymą, registruojami
-savivaldybės vykdomojoje institucijoje pagal asmens (šeimos atveju – vieno iš
-sutuoktinių) įstatymų nustatyta tvarka deklaruotą gyvenamąją vietą. Kartu su
+savivaldybės vykdomojoje institucijoje pagal asmens (šeimos atveju – vieno iš sutuoktinių)
+įstatymų nustatyta tvarka deklaruotą gyvenamąją vietą, o jei
+gyvenamosios vietos neturi, – pagal savivaldybę, kurioje gyvena. Kartu su
 prašymu pateikiami dokumentai, įrodantys teisę į socialinį būstą ar būsto
 sąlygų pagerinimą. Registravimo tvarką nustato savivaldybės institucijos.
 2. Asmenų
@@ -337,6 +337,10 @@ viršijant dydžius, nustatytus pagal šio Įstatymo 8 straipsnio 1 dalies sąly
 nuomos sutartis nutraukiama. Duomenys apie turtą ir pajamas šio Įstatymo 8
 straipsnio 1 dalyje nurodyta tvarka pateikiami ne dažniau kaip vieną kartą per
 trejus metus.
+Straipsnio
+pakeitimai:
+Nr. IX-2217,
+2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14)
  
 KETVIRTASIS
 SKIRSNIS
@@ -368,29 +372,29 @@ griaunamų namų sąrašą pagal miesto (miestelio) plėtros planą, arba įraš
 visuomenės poreikiams paimamų pastatų sąrašą, ir kurių dėl to negalima buvo
 privatizuoti pagal Butų privatizavimo įstatymą;
 4) kai patalpų
-savininkai privatizuoja pagal Butų privatizavimo įstatymą privatizuotų
-gyvenamųjų patalpų papildomą naudingąjį plotą, atsiradusį atlikus privatizuoto
-buto inventorizaciją, taip pat plotą, atsiradusį savivaldybės institucijos
-sutikimu išplėtus privatizuoto buto naudingąjį plotą sumažinant gyvenamojo namo
-bendrojo naudojimo patalpų plotą (bendrabučių privatizavimo ir pertvarkymo į
-butus atvejais);
+savininkai privatizuoja pagal Butų privatizavimo įstatymą privatizuotų gyvenamųjų
+patalpų papildomą naudingąjį plotą, atsiradusį atlikus privatizuoto buto
+inventorizaciją, taip pat plotą, atsiradusį savivaldybės institucijos sutikimu
+išplėtus privatizuoto buto naudingąjį plotą sumažinant gyvenamojo namo bendrojo
+naudojimo patalpų plotą (bendrabučių privatizavimo ir pertvarkymo į butus
+atvejais);
 5) kai
 privatizuojamos grįžusiems į Lietuvą reabilituotiems politiniams kaliniams ir
 tremtiniams Vyriausybės nustatyta tvarka nuomos pagrindais suteiktos
 gyvenamosios patalpos;
-6) kai
-privatizuoja nuomininkai, gyvenantys gyvenamosiose patalpose, kurios
-negrąžintos natūra religinėms bendruomenėms ar bendrijoms, taip pat
-nuomininkai, kuriems suteiktos kitos gyvenamosios patalpos, iškeldinus juos iš
-religinėms bendruomenėms ar bendrijoms grąžintų gyvenamųjų patalpų;
+6) kai privatizuoja
+nuomininkai, gyvenantys gyvenamosiose patalpose, kurios negrąžintos natūra
+religinėms bendruomenėms ar bendrijoms, taip pat nuomininkai, kuriems suteiktos
+kitos gyvenamosios patalpos, iškeldinus juos iš religinėms bendruomenėms ar
+bendrijoms grąžintų gyvenamųjų patalpų;
 7) taip pat
 atvejais, kuriuos nustato Piliečių nuosavybės teisių į išlikusį nekilnojamąjį
 turtą atkūrimo įstatymas ir (ar) kiti teisės aktai, susiję su šio Įstatymo
 įgyvendinimu.
-2. Už kainą, Vyriausybės
-nustatyta tvarka apskaičiuotą pagal Turto ir verslo vertinimo pagrindų
-įstatymą, gali būti parduodamos šios savivaldybės (valstybės) gyvenamosios
-patalpos ir jų priklausiniai:
+2. Už kainą,
+Vyriausybės nustatyta tvarka apskaičiuotą pagal Turto ir verslo vertinimo
+pagrindų įstatymą, gali būti parduodamos šios savivaldybės (valstybės)
+gyvenamosios patalpos ir jų priklausiniai:
 1) kambariai (ir
 jų priklausiniai), esantys iš dalies privatizuotame bute su bendra virtuve,
 teikiant pirmenybę šio buto bendraturčiams, taip pat patuštinti bendrabučių
@@ -445,7 +449,7 @@ VYTAUTAS LANDSBERGIS
 Vilnius, 1992 m. balandžio 7 d.
             Nr. I-2455 
  
-__________________
+________________
  
 Pakeitimai:
  
@@ -455,8 +459,7 @@ Respublikos Seimas, Įstatymas
 Nr.I-358;
 93.12.23, Žin., 1994, Nr.1-3
 DĖL
-LIETUVOS RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO
-PAKEITIMO
+LIETUVOS RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO PAKEITIMO
 IR
 PAPILDYMO
  
@@ -543,11 +546,24 @@ VALSTYBĖS
 PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO 2, 4, 6, 8, 12 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2217,
+2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14)
+VALSTYBINIŲ
+SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIŲ ŠALPOS IŠMOKŲ ĮSTATYMO,
+MOKSLININKŲ VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO, VALSTYBINIŲ PENSIJŲ
+ĮSTATYMO, VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO, PINIGINĖS
+SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS
+ASMENIMS) ĮSTATYMO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-21)
-                 
-autrap@lrs.lt
+Aušrinė Trapinskienė (2004-05-18)
+            
+     autrap@lrs.lt
