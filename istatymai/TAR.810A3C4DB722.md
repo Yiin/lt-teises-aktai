@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.810A3C4DB722"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymas
 
+Suvestinė redakcija nuo 2003-01-01 iki 2008-09-30
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 55-1764, i. k. 0991010ISTAIII-1207
+ 
+ 
 LIETUVOS RESPUBLIKOS
 NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ  PIRMTAKŲ (PREKURSORIŲ) KONTROLĖS
 Į S T A T Y M A S
@@ -35,12 +40,17 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo tikslas – užtikrinti, kad pirmtakai (prekursoriai) nebūtų panaudojami neteisėtai narkotinių ir psichotropinių medžiagų gamybai.
+2. Šio įstatymo tikslas – užtikrinti, kad pirmtakai (prekursoriai) nebūtų panaudojami neteisėtai narkotinių ir psichotropinių medžiagų gamybai, bei suderinti pirmtakų kontrolės reglamentavimą su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
+ 
 
 
 
 
-3. Šis įstatymas netaikomas gaminiams, kuriuose esantys pirmtakai (prekursoriai) negali būti išskirti ir panaudoti neteisėtai narkotinių ir psichotropinių medžiagų gamybai.
+3. Šis įstatymas netaikomas gaminiams, mišiniams, natūraliems produktams, kuriuose esantys pirmtakai (prekursoriai) negali būti panaudoti neteisėtai narkotinių ir psichotropinių medžiagų gamybai. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
  
 
 
@@ -51,7 +61,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Narkotinių ir psichotropinių medžiagų pirmtakai (prekursoriai) (toliau – pirmtakai) – cheminės medžiagos, šių medžiagų druskos ar jų mišiniai, dažnai naudojami neteisėtai narkotinių ir psichotropinių medžiagų gamybai ir dėl to kontroliuojami pagal Jungtinių Tautų 1988 metų konvenciją „Dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta“ ir įrašyti į Sveikatos apsaugos ministerijos patvirtintą pirmtakų (prekursorių) sąrašą. 
+1. Narkotinių ir psichotropinių medžiagų pirmtakai (prekursoriai) (toliau – pirmtakai) – cheminės medžiagos, šių medžiagų druskos, mišiniai ir natūralūs produktai, kurių sudėtyje yra pirmtakų, dažnai naudojami neteisėtai narkotinių ir psichotropinių medžiagų gamybai ir dėl to kontroliuojami pagal Jungtinių Tautų 1998 metų konvenciją „Dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta“, ir įrašyti į Sveikatos apsaugos ministerijos patvirtintą pirmtakų (prekursorių) sąrašą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
+ 
 
 
 
@@ -86,7 +99,25 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Su pirmtakais susijusi veikla – pirmtakų gamyba, perdirbimas, sandėliavimas, didmeninė ar mažmeninė prekyba, įskaitant prekybos tarpininko veiklą, taip pat pirmtakų importas, eksportas, tranzitas.
+8. Su pirmtakais susijusi veikla - pirmtakų gamyba, perdirbimas, sandėliavimas, didmeninė ar mažmeninė prekyba, įskaitant prekybos tarpininko bei muitinės tarpininko veiklą, taip pat pirmtakų importas, eksportas, tranzitas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
+ 
+
+
+
+
+9. Neterminuotas eksporto leidimas – Vyriausybės įgaliotos institucijos išduodamas nustatytos formos dokumentas, suteikiantis teisę jo turėtojui neribotą laiką eksportuoti II kategorijos pirmtakus
+Papildyta straipsnio dalimi:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
+ 
+
+
+
+
+10. Pirkėjo deklaracija – Vyriausybės įgaliotos institucijos nustatytos formos dokumentas, kurį pildo I ir II kategorijų pirmtakų pirkėjas kiekvieno sandorio metu arba visų per metus sudaromų II kategorijos pirmtakų sandorių vienu kartu, nurodydamas perkamų pirmtakų paskirtį.
+Papildyta straipsnio dalimi:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
  
 
 
@@ -131,7 +162,10 @@ REIKALAVIMAI
 4 straipsnis. Su I kategorijos pirmtakais susijusios veiklos licencijavimas
 
 
-1. Verstis su I kategorijos pirmtakais susijusia veikla subjektas turi teisę tik turėdamas šios veiklos licenciją. Jei veikla susijusi su I kategorijos pirmtakų gamyba, perdirbimu, sandėliavimu, prekyba, ji galima tik licencijoje nurodytuose objektuose bei patalpose.
+1. Verstis su I kategorijos pirmtakais susijusia veikla subjektas, išskyrus muitinės tarpininkus, asmenis, laikančius prekes muitinės sandėliuose, ir transporto įmones, kurios verčiasi tik šia veikla, turi teisę tik turėdamas šios veiklos licenciją. Jei veikla susijusi su I kategorijos pirmtakų gamyba, perdirbimu, sandėliavimu, prekyba, ji galima tik licencijoje nurodytuose objektuose bei patalpose.
+Straipsnio dalies pakeitimai:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
+ 
 
 
 
@@ -173,13 +207,15 @@ REIKALAVIMAI
  
 
 
-6 straipsnis. Su II ir III kategorijų pirmtakais susijusios veiklos registracija
+6 straipsnis. Su II ir III kategorijų pirmtakais susijusios veiklos registracija 
 
 
-Subjektai, kurių veikla yra susijusi su II kategorijos pirmtakais ir III kategorijos pirmtakų eksportu į tas šalis, kurių sąrašą tvirtina Lietuvos Respublikos Vyriausybė, jeigu jų eksportuojamo pirmtakų siuntinio svoris viršija Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytąjį, privalo registruoti šią veiklą Lietuvos Respublikos Vyriausybės nustatyta tvarka Lietuvos Respublikos Vyriausybės įgaliotoje institucijoje.
+Subjektai, kurių veikla yra susijusi su II kategorijos pirmtakais ir III kategorijos pirmtakų eksportu, jei eksportuoto III kategorijos pirmtako (gryno arba mišiniuose) svoris per praėjusius kalendorinius metus viršijo Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytąjį arba jei III kategorijos pirmtakai eksportuojami į tas šalis, kurių sąrašą tvirtina Lietuvos Respublikos Vyriausybė, privalo registruoti šią veiklą Lietuvos Respublikos Vyriausybės nustatyta tvarka Lietuvos Respublikos Vyriausybės įgaliotoje institucijoje. Šis reikalavimas netaikomas muitinės tarpininkams, asmenims, laikantiems prekes muitinės sandėliuose, bei transporto įmonėms, kurios verčiasi tik šia veikla.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
  
-
-
 
 
 
@@ -202,13 +238,15 @@ Pirmtakai ženklinami laikantis Lietuvos Respublikoje galiojančios pavojingų c
 
 
 
-8 straipsnis. Su pirmtakais susijusios veiklos dokumentų įforminimo ypatumai
+8 straipsnis. Su pirmtakais susijusios veiklos dokumentų įforminimo ypatumai 
 
 
-Verčiantis su I ir II kategorijų pirmtakais susijusia veikla bei III kategorijos pirmtakų importu, eksportu, tranzitu, visuose dokumentuose (PVM sąskaitose-faktūrose, sąskaitose-faktūrose, važtaraščiuose, muitinės deklaracijose ir kituose dokumentuose) turi būti nurodyta: pirmtakų pavadinimai pagal Sveikatos apsaugos ministerijos patvirtintą sąrašą; kodai pagal Kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklatūrą; pirmtakų kiekis, svoris, o jeigu pirmtakas įeina į mišinį, – jo dalis mišinyje procentais, kiekis ir svoris, paties mišinio kiekis ir svoris; pirmtakų paskirtis; visų subjektų, dalyvaujančių pirmtakų pirkimo-pardavimo operacijoje, įskaitant galutinį gavėją, vardai, pavardės, įmonių pavadinimai ir adresai. II kategorijos pirmtakų, dėl kurių pagal šio straipsnio nuostatas taikomos dokumentų įforminimo išimtys, sąrašą tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.
+Verčiantis su pirmtakais susijusia veikla, visuose dokumentuose (PVM sąskaitose-faktūrose, sąskaitose-faktūrose, važtaraščiuose, muitinės deklaracijose ir kituose dokumentuose) turi būti nurodyta: pirmtakų pavadinimai pagal Sveikatos apsaugos ministerijos patvirtintą sąrašą; kodai pagal Kombinuotąją muitų tarifų ir užsienio prekybos statistikos nomenklatūrą; pirmtakų kiekis, svoris, o jeigu pirmtakas įeina į mišinį, – jo dalis mišinyje procentais, kiekis ir svoris, paties mišinio kiekis ir svoris; pirmtakų paskirtis (nurodoma pirkėjo deklaracijoje); visų subjektų, dalyvaujančių pirmtakų pirkimo-pardavimo operacijoje, įskaitant galutinį gavėją, vardai, pavardės, įmonių pavadinimai ir adresai. Verčiantis su II kategorijos pirmtakais susijusia veikla vidaus rinkoje, gali būti netaikomi šio straipsnio reikalavimai, jei pirmtakų siuntinio svoris neviršija Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytojo.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
  
-
-
 
 
 
@@ -216,10 +254,12 @@ Verčiantis su I ir II kategorijų pirmtakais susijusia veikla bei III kategorij
 9 straipsnis. Pirmtakų ir sandorių, susijusių su pirmtakais, apskaita 
 
 
-Subjektai, kurie verčiasi su I ir II kategorijų pirmtakais susijusia veikla bei III kategorijos pirmtakų importu, eksportu ar tranzitu, privalo tvarkyti visų sandorių, susijusių su pirmtakais, apskaitą. Subjektai, kurie verčiasi II ir III kategorijų pirmtakų eksportu į šalis, kurių sąrašą tvirtina Lietuvos Respublikos Vyriausybė, jeigu jų eksportuojamo pirmtakų siuntinio svoris viršija Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytąjį, tvarko eksportuojamų pirmtakų apskaitą. Sandorių, susijusių su pirmtakais, bei pirmtakų apskaitos tvarką nustato Lietuvos Respublikos Vyriausybės įgaliota institucija. 
+Subjektai, kurie verčiasi su I ir II kategorijų pirmtakais susijusia veikla bei III kategorijos pirmtakų importu, eksportu ar tranzitu, privalo tvarkyti visų sandorių, susijusių su pirmtakais, apskaitą. Subjektai, kurie verčiasi II ir III kategorijų pirmtakų eksportu į šalis, kurių sąrašą tvirtina Lietuvos Respublikos Vyriausybė, tvarko eksportuojamų pirmtakų apskaitą. Sandorių, susijusių su pirmtakais, bei pirmtakų apskaitos tvarką nustato Lietuvos Respublikos Vyriausybės įgaliota institucija.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
  
-
-
 
 
 
@@ -239,12 +279,17 @@ PIRMTAKŲ IMPORTO, EKSPORTO IR TRANZITO REIKALAVIMAI
 
 
 
-2. II ir III kategorijų pirmtakams eksportuoti leidimas reikalingas tuo atveju, kai II ir III kategorijų pirmtakai eksportuojami į tas šalis, kurių sąrašas patvirtintas Lietuvos Respublikos Vyriausybės, ir eksportuojamo pirmtakų siuntinio svoris viršija Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytąjį. Leidimą eksportuoti II ir III kategorijų pirmtakus Lietuvos Respublikos Vyriausybės įgaliota institucija išduoda tik savo veiklą įregistravusiems subjektams. 
+2. II ir III kategorijų pirmtakams eksportuoti leidimas reikalingas tuo atveju, kai II ir III kategorijų pirmtakai eksportuojami į tas šalis, kurių sąrašas patvirtintas Lietuvos Respublikos Vyriausybės. Tuo atveju, kai II kategorijos pirmtakai eksportuojami į kitas šalis, išduodamas neterminuotas eksporto leidimas. Leidimą eksportuoti II ir III kategorijų pirmtakus Lietuvos Respublikos Vyriausybės įgaliota institucija išduoda tik savo veiklą įregistravusiems subjektams. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
+ 
 
 
 
 
-3. Leidimai importuoti, eksportuoti, gabenti tranzitu I kategorijos pirmtakus bei eksportuoti II ir III kategorijų pirmtakus į šalis, kurių sąrašas patvirtintas Lietuvos Respublikos Vyriausybės, jeigu eksportuojamo pirmtakų siuntinio svoris viršija Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytąjį, išduodami Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+3. Leidimai importuoti, eksportuoti, gabenti tranzitu I kategorijos pirmtakus bei eksportuoti II ir III kategorijų pirmtakus į šalis, kurių sąrašas patvirtintas Lietuvos Respublikos Vyriausybės, ir šio straipsnio 2 dalyje nurodyti neterminuoti eksporto leidimai išduodami Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
  
 
 
@@ -260,7 +305,10 @@ PIRMTAKŲ IMPORTO, EKSPORTO IR TRANZITO REIKALAVIMAI
 
 
 
-2. Eksportuodamas I kategorijos pirmtakus, o II ir III kategorijų pirmtakus – į šalis, kurių sąrašas patvirtintas Lietuvos Respublikos Vyriausybės, ir jeigu II bei III kategorijų eksportuojamų pirmtakų siuntinių svoris viršija Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytąjį, subjektas leidimą eksportuoti pirmtakus privalo pateikti kartu su muitinės deklaracija muitinės postui valstybės sienos perėjimo vietoje, geležinkelio stotyje, tarptautiniame jūrų, upių ar oro uoste, per kuriuos išvežamas pirmtakų siuntinys. Šis muitinės postas leidimą eksportuoti pažymi ir išsiunčia Lietuvos Respublikos Vyriausybės įgaliotai institucijai.
+2. Eksportuodamas I kategorijos pirmtakus, o II ir III kategorijų pirmtakus – į šalis, kurių sąrašas patvirtintas Lietuvos Respublikos Vyriausybės, subjektas leidimą eksportuoti pirmtakus privalo pateikti kartu su muitinės deklaracija muitinės postui valstybės sienos perėjimo vietoje, geležinkelio stotyje, tarptautiniame jūrų, upių ar oro uoste, per kuriuos išvežamas pirmtakų siuntinys. Šis muitinės postas leidimą eksportuoti pažymi ir išsiunčia Lietuvos Respublikos Vyriausybės įgaliotai institucijai.
+Straipsnio dalies pakeitimai:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
+ 
 
 
 
@@ -301,13 +349,10 @@ Subjektai, kurių veikla susijusi su I, II ir III kategorijų pirmtakais, prival
 
 
 
-13 straipsnis. I kategorijos pirmtakų kiekių ribojimas
-
-
-Lietuvos Respublikos Vyriausybės įgaliota institucija, atsižvelgdama į Lietuvos Respublikos poreikius, kasmet patvirtina I kategorijos pirmtakų importo kiekius kitiems metams. 
+13 straipsnis. Neteko galios nuo 2003-01-01
+Straipsnio naikinimas:
+Nr. IX-1122, 2002-10-08, Žin. 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
  
-
-
 
 
 
@@ -321,6 +366,14 @@ Lietuvos Respublikos Vyriausybės įgaliota institucija, atsižvelgdama į Lietu
 
 
 2. Šio straipsnio 1 dalyje nurodytų institucijų pareigūnai Lietuvos Respublikos įstatymų nustatyta tvarka gali bet kuriuo metu įeiti ir patikrinti subjekto patalpas, susijusias su veikla naudojant pirmtakus, gamybos įrangą, saugomus pirmtakus, paimti pirmtakų pavyzdžius ir atlikti jų analizę, patikrinti veiklos, susijusios su pirmtakais, apskaitos dokumentus, taip pat fotografuoti ar kopijuoti šiuos dokumentus. 
+ 
+
+
+
+
+3. Su pirmtakais susijusiai subjektų veiklai laisvosiose ekonominėse zonose ir laisvuosiuose sandėliuose, kuri vykdoma šio įstatymo, Muitinės kodekso, laisvųjų ekonominių zonų bei laisvųjų sandėlių veiklą reglamentuojančių teisės aktų nustatyta tvarka, taikomos šio straipsnio 2 dalyje nurodytos kontrolės priemonės.
+Papildyta straipsnio dalimi:
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
  
 
 
@@ -425,3 +478,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1122, 2002-10-08, Žin., 2002, Nr. 102-4547 (2002-10-25), i. k. 1021010ISTA0IX-1122
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymo 1, 2, 4, 6, 8, 9, 10, 11, 14 straipsnių pakeitimo ir papildymo bei 13 straipsnio pripažinimo netekusiu galios įstatymas
