@@ -13,6 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
+Suvestinė redakcija nuo 2003-05-01 iki 2008-06-20
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
+ 
+ 
+ 
 LIETUVOS RESPUBLIKOS KORUPCIJOS PREVENCIJOS ĮSTATYMAS
  
 2002 m. gegužės 28 d. Nr. IX-904
@@ -39,12 +45,18 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
-1. Korupcijos prevencija – korupcijos priežasčių, sąlygų atskleidimas ir šalinimas sudarant bei įgyvendinant atitinkamų priemonių sistemą, taip pat poveikis asmenims siekiant atgrasinti nuo korupcinių nusikaltimų darymo.
+1. Korupcijos prevencija – korupcijos priežasčių, sąlygų atskleidimas ir šalinimas sudarant bei įgyvendinant atitinkamų priemonių sistemą, taip pat poveikis asmenims siekiant atgrasinti nuo korupcinio pobūdžio nusikalstamų veikų darymo. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010ISTA0IX-1483
+ 
 
 
 
 
-2. Korupciniai nusikaltimai – kyšio priėmimas, papirkimas, kitos nusikalstamos veikos, jeigu jos padaromos viešame sektoriuje paperkant ar siekiant asmeninės naudos: piktnaudžiavimas tarnyba, valstybės pareigūno neteisėtas dalyvavimas įmonės komercinėje, ūkinėje ar finansinėje veikloje, tarnybos įgaliojimų viršijimas, tarnybinis suklastojimas, sukčiavimas, turto pasisavinimas arba iššvaistymas, tarnybinės paslapties atskleidimas, pramoninės, komercinės ar banko paslapties paskelbimas, piktnaudžiavimas pasitikėjimu komercinėje, ūkinėje ar finansinėje veikloje, viešojo pirkimo tvarkos pažeidimas, žinomai neteisingų duomenų apie pajamas arba pelną pateikimas, pinigų plovimas, kliudymas rinkėjui pasinaudoti rinkimų ar referendumo teise, kontrabanda, taip pat tyčinis ir nusikalstamas buhalterinio dokumento ar įrašo, kuriuose nurodoma melaginga arba netiksli informacija, sukūrimas arba panaudojimas ar neteisėtas mokėjimo neužregistravimas, kai tokių veikų padarymu siekiama ar reikalaujama kyšio, papirkimo arba nuslėpti ar užmaskuoti kyšio priėmimą ar papirkimą.
+2. Korupcinio pobūdžio nusikalstamos veikos – kyšininkavimas, tarpininko kyšininkavimas, papirkimas, kitos nusikalstamos veikos, jeigu jos padarytos viešojo administravimo sektoriuje arba teikiant viešąsias paslaugas siekiant sau ar kitiems asmenims naudos: piktnaudžiavimas tarnybine padėtimi arba įgaliojimų viršijimas, piktnaudžiavimas oficialiais įgaliojimais, dokumentų ar matavimo priemonių suklastojimas, sukčiavimas, turto pasisavinimas ar iššvaistymas, tarnybos paslapties atskleidimas, komercinės paslapties atskleidimas, neteisingų duomenų apie pajamas, pelną ar turtą pateikimas, nusikalstamu būdu įgytų pinigų ar turto legalizavimas, kišimasis į valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens veiklą ar kitos nusikalstamos veikos, kai tokių veikų padarymu siekiama ar reikalaujama kyšio, papirkimo arba nuslėpti ar užmaskuoti kyšininkavimą ar papirkimą.
+Straipsnio dalies pakeitimai:
+Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010ISTA0IX-1483
+ 
 
 
 
@@ -83,7 +95,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) atgrasinti asmenis nuo korupcinių nusikaltimų darymo;
+2) atgrasinti asmenis nuo korupcinio pobūdžio nusikalstamų veikų darymo;
+Straipsnio punkto pakeitimai:
+Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010ISTA0IX-1483
+ 
 
 
 
@@ -218,7 +233,10 @@ Korupcijos prevencijos priemonės yra šios:
 3. Valstybės ar savivaldybės įstaigos veiklos sritis priskiriama prie sričių, kuriose egzistuoja didelė korupcijos pasireiškimo tikimybė, jeigu atitinka vieną ar kelis iš šių kriterijų: 
 
 
-1) padarytas korupcinis nusikaltimas;
+1) padaryta korupcinio pobūdžio nusikalstama veika; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010ISTA0IX-1483
+ 
 
 
 
@@ -268,7 +286,10 @@ Korupcijos prevencijos priemonės yra šios:
 
 
 
-2) išaiškinta korupcinių nusikaltimų kitose panašias funkcijas atliekančiose valstybės ar savivaldybių įstaigose;
+2) išaiškinta korupcinio pobūdžio nusikalstamų veikų kitose panašias funkcijas atliekančiose valstybės ar savivaldybių įstaigose;
+Straipsnio punkto pakeitimai:
+Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010ISTA0IX-1483
+ 
 
 
 
@@ -470,12 +491,18 @@ Korupcijos prevencijos priemonės yra šios:
 11 straipsnis. Informacijos pateikimas valstybės tarnautojų ir juridinių asmenų registrams
 
 
-1. Valstybės tarnautojų registrui pateikiama informacija apie valstybės tarnautojus, kurie įsiteisėjusiu galutiniu teismo nuosprendžiu yra pripažinti padarę korupcinius nusikaltimus, taip pat patraukti administracinėn ar drausminėn atsakomybėn už sunkius tarnybinius nusižengimus, susijusius su Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimų pažeidimu, padarytus siekiant gauti neteisėtų pajamų ar privilegijų sau ar kitiems asmenims.
+1. Valstybės tarnautojų registrui pateikiama informacija apie valstybės tarnautojus, kurie įsiteisėjusiu galutiniu teismo nuosprendžiu yra pripažinti padarę korupcinio pobūdžio nusikalstamas veikas, taip pat patraukti administracinėn ar drausminėn atsakomybėn už sunkius tarnybinius nusižengimus, susijusius su Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimų pažeidimu, padarytus siekiant gauti neteisėtų pajamų ar privilegijų sau ar kitiems asmenims. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010ISTA0IX-1483
+ 
 
 
 
 
-2. Juridinių asmenų registrui pateikiama informacija apie juridinius asmenis, kurie įsiteisėjusiu teismo nuosprendžiu yra pripažinti padarę korupcinius nusikaltimus arba kurių darbuotojas ar įgaliotas atstovas įsiteisėjusiu teismo nuosprendžiu yra pripažintas padaręs korupcinius nusikaltimus veikdamas juridinio asmens naudai arba jo interesais.
+2. Juridinių asmenų registrui pateikiama informacija apie juridinius asmenis, kurie įsiteisėjusiu teismo nuosprendžiu yra pripažinti padarę korupcinio pobūdžio nusikalstamas veikas arba kurių darbuotojas ar įgaliotas atstovas įsiteisėjusiu teismo nuosprendžiu yra pripažintas padaręs korupcinio pobūdžio nusikalstamas veikas veikdamas juridinio asmens naudai arba jo interesais.
+Straipsnio dalies pakeitimai:
+Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010ISTA0IX-1483
+ 
 
 
 
@@ -690,7 +717,10 @@ Specialiųjų tyrimų tarnyba, įgyvendindama šį Įstatymą:
 
 
 
-6) nesudaryti savo veiksmais ar neveikimu sąlygų korupciniams nusikaltimams;
+6) nesudaryti savo veiksmais ar neveikimu sąlygų korupcinio pobūdžio nusikalstamoms veikoms;
+Straipsnio punkto pakeitimai:
+Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010ISTA0IX-1483
+ 
 
 
 
@@ -741,3 +771,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010ISTA0IX-1483
+Lietuvos Respublikos korupcijos prevencijos įstatymo 2, 3, 6, 11 ir 16 straipsnių pakeitimo įstatymas
