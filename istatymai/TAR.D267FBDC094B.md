@@ -13,11 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 1995-06-28 iki 1995-07-18
+Suvestinė redakcija nuo 1995-07-19 iki 1996-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
- 
- 
  
 LIETUVOS RESPUBLIKOS
 ŽEMĖS MOKESČIO
@@ -86,7 +84,15 @@ III. MOKESČIO LENGVATOS
 
 
 
-2) žemės sklypai, nuosavybės teise priklausantys užsienio valstybių diplomatinėms ir konsulinėms įstaigoms (pariteto pagrindu).
+2) žemės sklypai, nuosavybės teise priklausantys užsienio valstybių diplomatinėms ir konsulinėms įstaigoms (pariteto pagrindu);
+
+
+
+
+3) miško žemė.
+TAR pastaba. 3 punkto nuostata taikoma apskaičiuojant žemės mokestį nuo 1995 metų.
+Papildyta straipsnio punktu:
+Nr. I-992, 1995-07-03, Žin., 1995, Nr. 59-1468 (1995-07-19), i. k. 0951010ISTA000I-992
  
 
 
@@ -108,6 +114,7 @@ Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA0
 
 
 Mokesčio lengvatas už istorijos ir kultūros paminklų žemę nustato Lietuvos Respublikos Vyriausybė.
+ 
 Straipsnio dalies pakeitimai:
 Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA000I-944
  
@@ -210,6 +217,7 @@ Nauji žemės savininkai mokestį moka:
 
 
 Žemės mokesčio apskaičiavimo ir sumokėjimo terminą nustato vietos savivaldos vykdomosios institucijos.
+ 
 Straipsnio dalies pakeitimai:
 Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA000I-944
  
@@ -270,3 +278,8 @@ Dėl Lietuvos Respublikos žemės mokesčio įstatymo 13 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-944, 1995-06-13, Žin., 1995, Nr. 53-1299 (1995-06-28), i. k. 0951010ISTA000I-944
 Dėl Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-992, 1995-07-03, Žin., 1995, Nr. 59-1468 (1995-07-19), i. k. 0951010ISTA000I-992
+Dėl Lietuvos Respublikos žemės mokesčio įstatymo papildymo
