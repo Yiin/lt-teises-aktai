@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2003-11-28 iki 2004-06-23
+Suvestinė redakcija nuo 2004-06-24 iki 2006-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -343,7 +343,10 @@ Respublikos Prezidento dekretus Lietuvos Respublikos Konstitucijos 85 straipsnyj
 
 
 
-3) dėl aukščiausių karinių laipsnių suteikimo – Lietuvos Respublikos Ministras Pirmininkas;
+3) dėl aukščiausių karinių laipsnių suteikimo – Lietuvos Respublikos krašto apsaugos ministras; 
+Straipsnio punkto pakeitimai:
+Nr. IX-2276, 2004-06-15, Žin., 2004, Nr. 98-3631 (2004-06-24), i. k. 1041010ISTA0IX-2276
+ 
 
 
 
@@ -664,7 +667,7 @@ Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas
  
 4.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2002-06-19, Žin., 2002, Nr. 62-2515 (2002-06-21), i. k. 1021000NUTARG021955                
+2002-06-19, Žin., 2002, Nr. 62-2515 (2002-06-21), i. k. 1021000NUTARG021955                
 Dėl Lietuvos Respublikos valstybinių pensijų įstatymo 7, 11, 15 straipsnių pakeitimo ir papildymo įstatymo, Lietuvos Respublikos valstybinių pensijų įstatymo 7 straipsnio 1 bei 4 dalių ir Lietuvos Respublikos Prezidento įstatymo 20 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
  
 5.
@@ -676,3 +679,8 @@ Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
 Lietuvos Respublikos Prezidento įstatymo 1, 3, 5, 7, 8, 9, 13, 15, 20 straipsnių pakeitimo ir įstatymo papildymo 21, 22, 23, 24 straipsniais įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2276, 2004-06-15, Žin., 2004, Nr. 98-3631 (2004-06-24), i. k. 1041010ISTA0IX-2276
+Lietuvos Respublikos Prezidento įstatymo 16 straipsnio pakeitimo įstatymas
