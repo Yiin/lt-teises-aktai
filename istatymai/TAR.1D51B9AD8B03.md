@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1D51B9AD8B03"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2000-03-29 iki 2001-06-19
+Suvestinė redakcija nuo 2001-06-20 iki 2001-06-29
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 109-3177, i. k. 0991010ISTAIII-1493
  
@@ -321,13 +321,15 @@ Nr. VIII-1529, 2000-01-12, Žin., 2000, Nr. 6-154 (2000-01-21), i. k. 1001010IST
 
 
 
-5 straipsnis. Pasiūlymai Vyriausybei
+5 straipsnis . Pasiūlymai Vyriausybei
 
 
-Vyriausybė iki 2000 m. birželio 30 d. parengia ir pateikia Seimui įstatymo projektą dėl Lietuvos Respublikos teritorijos administracinių vienetų, ypač apie didžiuosius miestus (Alytų, Kauną, Panevėžį, Šiaulius ir Vilnių) esančių savivaldybių, reorganizavimo pagal patvirtintą programą ir dėl naujų savivaldybių steigimo atsižvelgiant į gyventojų poreikius ir pasiūlymus.
+Vyriausybė iki 2003 m. sausio 1 d. parengia ir pateikia Seimui tvirtinti strateginį savivaldos plėtros planą, skirtą Lietuvos Respublikos teritorijos administracinių vienetų kompleksiniam pertvarkymui. Rengiant šį planą, vertinama gyventojų nuomonė ir siūlymai, ekonominės ir socialinės savivaldybių problemos, siekiama tobulinti viešąjį administravimą bei numatyti savivaldos reformos baigiamojo etapo galimybes.
+
+
+Straipsnio pakeitimai:
+Nr. IX-358, 2001-06-05, Žin., 2001, Nr. 52-1817 (2001-06-20), i. k. 1011010ISTA00IX-358
  
-
-
 
 
 
@@ -385,3 +387,8 @@ Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1576, 2000-03-16, Žin., 2000, Nr. 26-668 (2000-03-29), i. k. 1001010ISTAIII-1576
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 1 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-358, 2001-06-05, Žin., 2001, Nr. 52-1817 (2001-06-20), i. k. 1011010ISTA00IX-358
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 5 straipsnio pakeitimo įstatymas
