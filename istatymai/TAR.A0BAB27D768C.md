@@ -1539,26 +1539,22 @@ Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr.
 KARINĖ
 TEISĖSAUGA
  
-Teisėsaugą kariuomenėje vykdo
-Lietuvos teisėsaugos institucijų specializuoti padaliniai. Specializuotų
-padalinių ir pareigūnų veiklos paskirtis - sustabdyti kariškių daromus teisės
-pažeidimus, tirti tarnybos metu karių ir karininkų padarytus arba susijusius su
-tarnyba teisės pažeidimus, traukti juos padariusius kariškius atsakomybėn.
-Karinės teisėsaugos specializuoti padaliniai ir pareigybės steigiami
-prokuratūros ir tardymo institucijose. Karių ir karininkų bylas dėl tarnybos
-arba su tarnyba susijusių teisės pažeidimų nagrinėja specializuotas teismas. 
+Teisėsaugą kariuomenėje vykdo Lietuvos teisėsaugos institucijų specializuoti padaliniai. Specializuotų padalinių ir pareigūnų veiklos paskirtis – sustabdyti kariškių daromus teisės pažeidimus, tirti tarnybos metu karių ir karininkų padarytus arba susijusius su tarnyba teisės pažeidimus, traukti juos padariusius kariškius atsakomybėn. Karinės teisėsaugos specializuoti padaliniai ir pareigybės steigiami prokuratūros ir ikiteisminio tyrimo įstaigose. Karių ir karininkų bylas dėl tarnybos arba su tarnyba susijusių teisės pažeidimų nagrinėja specializuotas teismas.
 Specializuotų karinės teisėsaugos
 padalinių ir pareigūnų veiklos, patraukimo atsakomybėn ir proceso ypatumus karo
 padėties arba valstybės gynybos (karo) metu nustato įstatymai. 
-Krašto apsaugos ministerijos
-sistemoje veikia karo policija, kurios paskirtis - užkirsti kelią karių
-viešosios tvarkos ir teisės pažeidimams. Viešosios tvarkos ar teisės pažeidimų
-atvejais karo policija sulaiko pažeidėjus ir atlieka kvotą. Karo policijos
-funkcijas, teises ir pareigas nustato įstatymai. 
+Krašto apsaugos ministerijos sistemoje veikia karo policija, kurios
+paskirtis – užkirsti kelią karių viešosios tvarkos ir teisės pažeidimams.
+Viešosios tvarkos ar teisės pažeidimų atvejais karo policija sulaiko pažeidėjus
+ir atlieka ikiteisminį tyrimą. Karo policijos funkcijas, teises ir pareigas nustato
+įstatymai.
 Už drausmės pažeidimus krašto
 apsaugos tarnyboje kariuomenės vadai turi teisę skirti nuobaudas. Nuobaudų už
 drausmės pažeidimus rūšis, karinių pareigūnų teises nuobaudas skirti, jų
 skyrimo ir apskundimo procedūras nustato įstatymai.
+Skirsnio pakeitimai:
+Nr. IX-1457,
+2003-04-03, Žin., 2003, Nr. 38-1702 (2003-04-24)
  
 19 skyrius
 POLICIJOS
@@ -1567,8 +1563,8 @@ ir Valstybės sienos apsaugos tarnybos PAJĖGOS
 Pagrindinė policijos, kaip
 nacionalinio saugumo sistemos sudedamosios dalies, paskirtis – užtikrinti
 asmens saugumą, žmogaus teises ir laisves, palaikyti viešąją tvarką, kovoti su
-nusikaltimais, saugoti valstybės objektus. Policijos funkcijas nustato
-įstatymas. 
+nusikalstamomis veikomis, saugoti valstybės objektus. Policijos funkcijas
+nustato įstatymas.
 Policijos daliniai formuojami tik
 profesionalios tarnybos pagrindais. Privalomoji karo tarnyba policijoje
 neatliekama. 
@@ -1585,12 +1581,12 @@ perduodama Teisingumo ministerijos žinion;
 – vidaus
 tarnybos daliniuose tarnaujantys privalomosios krašto apsaugos tarnybos kariai
 su kovine ginkluote perkeliami į kariuomenės dalinius. 
-Valstybės sienos apsaugos
-tarnybos paskirtis – įgyvendinti valstybės sienos apsaugą ir valstybės sienos
-kirtimo kontrolę, užkardyti ir reguliuoti pasienio incidentus. Ši tarnyba
-priklauso Vidaus reikalų ministerijos valdymo sričiai. Pagal Gynybos štabo
-planus šios tarnybos daliniai rengiami ginkluotos gynybos veiksmams valstybės
-gynybos (karo) atveju. Jų rengimo gynybai tvarką reglamentuoja įstatymas. 
+Valstybės sienos apsaugos tarnybos
+paskirtis – įgyvendinti valstybės sienos apsaugą ir valstybės sienos kirtimo
+kontrolę, užkardyti ir reguliuoti pasienio incidentus. Ši tarnyba priklauso
+Vidaus reikalų ministerijos valdymo sričiai. Pagal Gynybos štabo planus šios
+tarnybos daliniai rengiami ginkluotos gynybos veiksmams valstybės gynybos
+(karo) atveju. Jų rengimo gynybai tvarką reglamentuoja įstatymas. 
 Valstybės sienos apsaugos
 tarnybos, o prireikus ir specializuoti policijos daliniai karo padėties ir
 valstybės gynybos (karo) metu priskiriami ginkluotosioms pajėgoms.
@@ -1598,6 +1594,8 @@ Skyriaus
 pakeitimai:
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr.
 92-2849 (2000 10 31)
+Nr. IX-1457,
+2003-04-03, Žin., 2003, Nr. 38-1702 (2003-04-24)
  
 20
 skyrius
@@ -1606,8 +1604,8 @@ SAUGUMO DEPARTAMENTAS
  
 Valstybės saugumo departamentas
 yra Seimui ir Respublikos Prezidentui atskaitinga institucija, kurios paskirtis
-- apsaugoti nuo pasikėsinimų valstybę, jos suverenitetą ir konstitucinę santvarką.
-
+- apsaugoti nuo pasikėsinimų valstybę, jos suverenitetą ir konstitucinę
+santvarką. 
 Valstybės saugumo departamento
 uždaviniai - vykdyti užsienio žvalgybą ir kontržvalgybą, laiku atskleisti
 veikas, keliančias grėsmę valstybės saugumui, suverenitetui, teritorijos
@@ -1621,8 +1619,8 @@ Informaciją, kuri nėra valstybės paslaptis, Departamentas teikia ir visuomene
 
 Valstybės saugumo departamento
 veiklą reglamentuoja įstatymai. 
-Valstybės saugumo departamento
-biudžetas, ištekliai, darbo metodai ir technika yra valstybės paslaptis. 
+Valstybės saugumo departamento biudžetas,
+ištekliai, darbo metodai ir technika yra valstybės paslaptis. 
 Seimas atlieka parlamentinę
 Departamento veiklos kontrolę. Ši kontrolė atliekama laikantis valstybės
 paslapčių apsaugos reikalavimų ir Seimo nustatytų specialių procedūrų.
@@ -1666,13 +1664,13 @@ paskirtis - ieškoti ir gelbėti Baltijos jūroje ir Lietuvos teritorijoje
 nelaimės ištiktų skraidymo aparatų ir laivų įgulas bei keleivius. Tarnybos
 funkcijas nustato įstatymai ir Lietuvos įsipareigojimai dėl tarptautinio
 bendradarbiavimo dirbant paieškos ir gelbėjimo darbus. 
-Jeigu reikia, katastrofoms ir
-kitoms didelio masto nelaimėms įveikti, gelbėjimo darbams dirbti bei pasekmėms
-šalinti telkiamos ne tik specializuotos civilinės saugos ir gelbėjimo tarnybos,
-bet ir kariuomenė, specialistai iš mobilizacinio rezervo, ministerijų, kitų
-valstybės institucijų ir savivaldybių organizacijos, panaudojami joms
-priklausantys ištekliai, savaveiksmių organizacijų savanoriai. Šio telkimo ir
-dalyvavimo darbuose sąlygas ir tvarką nustato įstatymas.
+Jeigu reikia, katastrofoms ir kitoms
+didelio masto nelaimėms įveikti, gelbėjimo darbams dirbti bei pasekmėms šalinti
+telkiamos ne tik specializuotos civilinės saugos ir gelbėjimo tarnybos, bet ir
+kariuomenė, specialistai iš mobilizacinio rezervo, ministerijų, kitų valstybės
+institucijų ir savivaldybių organizacijos, panaudojami joms priklausantys
+ištekliai, savaveiksmių organizacijų savanoriai. Šio telkimo ir dalyvavimo
+darbuose sąlygas ir tvarką nustato įstatymas.
  Visų vieningos civilinės saugos
 ir gelbėjimo sistemos institucijų ir tarnybų detalią struktūrą, pavaldumą,
 funkcijas, atsakomybę, tarpusavio ir su kitomis valstybės institucijomis bei
@@ -1702,8 +1700,7 @@ kitoms valstybės institucijoms pavaldžias tarnybas ir techniką, koordinuoja j
 veiksmus. Centro funkcijas ir įgaliojimus nustato Vyriausybė. Vyriausybė
 tvirtina ekstremalių situacijų valdymo planus, kuriuose, kai to reikia,
 numatomas ministrų vadovavimas gelbėjimo ir pasekmių šalinimo veiksmams.
-Skirsnio
-pakeitimai:
+Skirsnio pakeitimai:
 Nr. VIII-770,
 1998 06 04, Žin., 1998, Nr. 55-1520 (1998 06 17)
  
@@ -1732,9 +1729,9 @@ tarnyba yra karo prievolei alternatyvi privalomoji krašto apsaugos pagalbinė
 tarnyba be ginklų tiems, kurie dėl savo religinių ar pacifistinių įsitikinimų
 negali tarnauti su ginklu rankoje. Šios tarnybos tikslas - ugdyti piliečius ir
 sudaryti jiems galimybę prisidėti prie krašto apsaugos ir nacionalinio saugumo
-stiprinimo alternatyviu būdu. Šią tarnybą krašto apsaugos, gynybos ir
-nacionalinio saugumo stiprinimo reikmėms organizuoja Krašto apsaugos
-ministerija. Tarnybos atlikimo trukmę ir tvarką nustato įstatymas.
+stiprinimo alternatyviu būdu. Šią tarnybą krašto apsaugos, gynybos ir nacionalinio
+saugumo stiprinimo reikmėms organizuoja Krašto apsaugos ministerija. Tarnybos
+atlikimo trukmę ir tvarką nustato įstatymas.
  
 24
 skyrius
@@ -1805,13 +1802,26 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. IX-1360,
 2003-03-13, Žin., 2003, Nr. 32-1309 (2003-04-02)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO
-PRIEDĖLIO 11 SKYRIAUS PAKEITIMO ĮSTATYMAS
+NACIONALINIO SAUGUMO PAGRINDŲ
+ĮSTATYMO PRIEDĖLIO 11 SKYRIAUS PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+6.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-1457,
+2003-04-03, Žin., 2003, Nr. 38-1702 (2003-04-24)
+NACIONALINIO SAUGUMO PAGRINDŲ
+ĮSTATYMO PRIEDĖLIO 18 IR 19 SKYRIŲ PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja kartu su Lietuvos
+Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo2003
+m. gegužės 1 d.
+ 
+***
+Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-04-02)
+Aušrinė Trapinskienė (2003-05-15)
                  
 autrap@lrs.lt
