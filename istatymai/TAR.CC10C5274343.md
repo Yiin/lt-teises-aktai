@@ -1213,6 +1213,20 @@ interesus, tvarkoma pagal parengtus ir apskrities viršininko patvirtintus
 žemėnaudos; statomos ūkininkų sodybos ir ūkinės reikšmės gamybiniai pastatai,
 tiesiami keliai su tvirta danga; įrengiami tvenkiniai; sodinamas miškas;
 paverčiami žemės ūkio naudmenomis miškai, pelkės ir krūmai.
+Žemės ūkio
+paskirties žemės nuomos terminas nustatomas nuomotojo ir nuomininko susitarimu,
+bet ne trumpiau kaip 5 metams.
+Valstybinė žemės
+ūkio paskirties žemė kaimo vietovėje Vyriausybės nustatyta tvarka išnuomojama
+ne aukciono būdu:
+1) fiziniams
+asmenims, įregistravusiems ūkininko ūkį Ūkininko ūkio įstatymo nustatyta tvarka
+arba turintiems Vyriausybės įgaliotos institucijos išduotą kvalifikacinį
+pasirengimo ūkininkauti pažymėjimą;
+2) juridiniams
+asmenims – žemės ūkio produkcijos gamintojams, kurių metinės įplaukos iš
+prekinės žemės ūkio produkcijos realizavimo sudaro daugiau kaip 50 procentų
+visų gaunamų pajamų.
             Į žemės ūkio paskirties
 žemėnaudas įsiterpusių miškų priskyrimo miškų ūkio paskirties žemei ir šių
 miškų naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
@@ -1232,7 +1246,9 @@ VIII-315,
 97.06.26, Žin., 1997, Nr.66-1598 (97.07.11)
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
- 
+Nr.
+IX-1048,
+2002-07-05, Žin., 2002, Nr. 74-3141 (2002-07-24)
  
 36 straipsnis.
 Žemės ūkio įmonių naudojama žemė
@@ -1242,7 +1258,6 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
- 
  
 37 straipsnis.
 Ūkininko ūkio žemė
@@ -1259,7 +1274,6 @@ VIII-315,
 97.06.26, Žin., 1997, Nr.66-1598 (97.07.11)
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
- 
  
             38 straipsnis. Kita žemės
 ūkio paskirties žemė
@@ -1289,10 +1303,10 @@ suteikiami naudotis arba išnuomojami pirmiausia žemės ūkio veiklai.
             Naudojant privačią ir
 valstybinę žemės ūkio paskirties žemę, žemės ūkio naudmenos turi būti saugomos
 nuo dirvožemių alinimo, vėjo ir vandens erozijos, apaugimo krūmais ir mišku,
-supelkėjimo ar kitokio ūkinių savybių pablogėjimo. Vykdant statybas ar
-eksploatuojant gamtos išteklius, derlingasis dirvožemio sluoksnis neturi būti
-sunaikintas, bet panaudotas žemės ūkio naudmenoms gerinti, o pažeistos žemės
-turi būti rekultivuotos.
+supelkėjimo ar kitokio ūkinių savybių pablogėjimo. Vykdant statybas ar eksploatuojant
+gamtos išteklius, derlingasis dirvožemio sluoksnis neturi būti sunaikintas, bet
+panaudotas žemės ūkio naudmenoms gerinti, o pažeistos žemės turi būti
+rekultivuotos.
 Valstybinė žemės
 ūkio paskirties žemė gali būti perleidžiama arba perduodama naudoti
 kitai paskirčiai tik pagal nustatyta tvarka parengtus žemėtvarkos projektus ar
@@ -1332,7 +1346,6 @@ pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
  
- 
 41
 straipsnis. Miškų ūkio paskirties žemės savininkai, valdytojai ir kiti
 naudotojai
@@ -1361,7 +1374,6 @@ I-939,
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
  
- 
 VII.
 KONSERVACINĖS PASKIRTIES ŽEMĖ
  
@@ -1371,8 +1383,8 @@ paskirties žemė
 žemę sudaro žemė, nustatyta tvarka suteikta arba priskirta:
             1) valstybiniams
 rezervatams;
-            2) gamtos, istorijos, archeologijos
-ir kultūros paminklų teritorijoms;
+            2) gamtos, istorijos,
+archeologijos ir kultūros paminklų teritorijoms;
             3) valstybinių nacionalinių
 ir regioninių parkų bei monitoringo teritorijų rezervatams ir rezervatinėms
 apyrubėms;
@@ -1390,7 +1402,6 @@ pakeitimai:
 Nr.
 I-939,
 95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28)
- 
  
 VIII. KITOS
 PASKIRTIES ŽEMĖ
@@ -1415,8 +1426,9 @@ kaimų bendram (viešam) naudojimui bei kitiems savivaldybių poreikiams;
             8) kitai ne žemės ūkio ir ne
 miškų ūkio veiklai.
             Valstybinės žemės ploto
-poreikis kitos paskirties žemės naudotojams nustatomas pagal Lietuvos Respublikos
-Vyriausybės ir ministerijų bei valstybinių tarnybų patvirtintus normatyvus.
+poreikis kitos paskirties žemės naudotojams nustatomas pagal Lietuvos
+Respublikos Vyriausybės ir ministerijų bei valstybinių tarnybų patvirtintus
+normatyvus.
             Įstatymų ir Lietuvos
 Respublikos Vyriausybės nutarimų numatytais atvejais žemė kitai paskirčiai
 perleidžiama, suteikiama naudotis ar išnuomojama pagal susitarimą tik parengus
@@ -1432,7 +1444,6 @@ pakeitimai:
 Nr.
 I-939,
 95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28) 
- 
  
 IX. VALSTYBINIO
 VANDENŲ FONDO ŽEMĖ
@@ -1467,7 +1478,6 @@ pakeitimai:
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
  
- 
 X. LAISVOS
 VALSTYBINĖS ŽEMĖS FONDAS
  
@@ -1494,7 +1504,6 @@ Nr.
 VIII-315,
 97.06.26, Žin., 1997, Nr.66-1598 (97.07.11)
  
- 
 XI. VALSTYBINĖ
 ŽEMĖTVARKA
  
@@ -1503,8 +1512,8 @@ XI. VALSTYBINĖ
             Valstybinės žemėtvarkos
 paskirtis:
             1) rengti valstybinės žemės
-naudojimo ir apsaugos programas bei šalies administracinių teritorijų žemėtvarkos
-schemas kaip sudėtinę teritorinio planavimo (kraštotvarkos) dalį;
+naudojimo ir apsaugos programas bei šalies administracinių teritorijų
+žemėtvarkos schemas kaip sudėtinę teritorinio planavimo (kraštotvarkos) dalį;
             2) rengti žemėtvarkos
 projektus administracinėms riboms nustatyti arba pakeisti, kitus
 administracinių teritorijų tvarkymo projektus;
@@ -1518,19 +1527,17 @@ suformuoti arba esamoms pertvarkyti, specialioms žemės naudojimo sąlygoms,
 veiklos apribojimams bei servitutams nustatyti;
             5) rengti žemėtvarkos
 projektus žemės ūkio įmonių ir pagal atskirus užsakymus ūkininkų ūkių bei kitų
-žemės naudotojų žemėnaudoms tvarkyti ir racionaliam žemės naudojimui
-organizuoti.
+žemės naudotojų žemėnaudoms tvarkyti ir racionaliam žemės naudojimui organizuoti.
 Straipsnio
 pakeitimai:
 Nr.
 I-939,
 95.06.13, Žin., 1995, Nr. 53-1294 (95.06.28) 
  
- 
             47 straipsnis. Valstybinės
 žemėtvarkos darbų atlikimas
-            Valstybinės žemėtvarkos
-darbai atliekami valstybės, žemės savininkų ir kitų žemės naudotojų lėšomis.
+            Valstybinės žemėtvarkos darbai
+atliekami valstybės, žemės savininkų ir kitų žemės naudotojų lėšomis.
 Valstybinės
 žemėtvarkos darbams metodiškai vadovauja Žemėtvarkos ir teisės departamentas
 prie Žemės ūkio ministerijos.
@@ -1551,7 +1558,6 @@ VIII-315,
 Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
  
- 
             48 straipsnis. Privatūs
 matininkai
             Privačiu matininku gali būti
@@ -1563,7 +1569,6 @@ leidimą dirbti valstybinės žemėtvarkos darbus.
 pareigas, atsakomybę ir leidžiamų vykdyti darbų rūšis nustato įstatymai ir
 Lietuvos Respublikos Vyriausybė. 
  
- 
 XII. ŽEMĖS
 INFORMACINĖ SISTEMA
 Skyriaus pavadinimas pakeistas:
@@ -1573,13 +1578,12 @@ Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
 49 straipsnis.
 Žemės informacinės sistemos paskirtis
 Žemės
-informacinės sistemos paskirtis - naudojantis nekilnojamojo turto kadastro,
-Nekilnojamojo turto registro, miškų kadastro, teritorijų planavimo,
-aplinkosaugos, paminklosaugos, žemės reformos, dirvožemio tyrimų ir kitais
-duomenimis apie žemę, Lietuvos Respublikos Vyriausybės nustatyta tvarka kaupti
-ir atnaujinti informaciją apie žemės naudmenų plotą ir vertę, žemės naudojimo
-sąlygas ir apribojimus, kitas žemės sklype esančio nekilnojamojo turto
-charakteristikas.
+informacinės sistemos paskirtis - naudojantis nekilnojamojo turto kadastro, Nekilnojamojo
+turto registro, miškų kadastro, teritorijų planavimo, aplinkosaugos,
+paminklosaugos, žemės reformos, dirvožemio tyrimų ir kitais duomenimis apie
+žemę, Lietuvos Respublikos Vyriausybės nustatyta tvarka kaupti ir atnaujinti
+informaciją apie žemės naudmenų plotą ir vertę, žemės naudojimo sąlygas ir
+apribojimus, kitas žemės sklype esančio nekilnojamojo turto charakteristikas.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1592,7 +1596,6 @@ Nr. VIII-1664, 00.05.04, Žin., 2000,
 Nr.42-1191 (00.05.24)
 Nr. VIII-1766, 00.06.27, Žin., 2000,
 Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
- 
  
 50 straipsnis.
 Žemės informacinės sistemos ir žemės kadastro tvarkymas
@@ -1620,7 +1623,6 @@ VIII-315,
 Nr. VIII-1766, 00.06.27, Žin., 2000,
 Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
  
- 
 51
 straipsnis. Žemės informacinės sistemos ir žemės kadastro duomenų naudojimas
 Žemės
@@ -1634,8 +1636,8 @@ institucijoms, fiziniams bei juridiniams asmenims ir naudojami:
 išteklių naudojimo ir teritoriniam planavimui;
 4) žemėtvarkos
 projektams ir schemoms rengti;
-5) žemės įkeitimui
-ir žemės rinkos formavimui;
+5) žemės
+įkeitimui ir žemės rinkos formavimui;
 6) žemės
 apmokestinimui ir mokesčių už žemę sistemos formavimui;
 7) žemės
@@ -1651,7 +1653,6 @@ I-1540,
 96.09.24, Žin., 1996, Nr. 100-2262 (96.10.16) 
 Nr. VIII-1766, 00.06.27, Žin., 2000,
 Nr.58-1706 (00.07.19), įsigalioja nuo 2001.01.01
- 
  
 XIII. ŽEMĖS
 NAUDOJIMO VALSTYBINĖ KONTROLĖ
@@ -1688,8 +1689,8 @@ specialiųjų žemės ir miško naudojimo sąlygų ir veiklos apribojimų;
 sutvarkyti žemę taip, kad ji būtų tinkama naudoti pagal paskirtį;
             6) nevykdė privalomų
 priemonių žemės ūkio naudmenų dirvožemiams gerinti ir apsaugoti;
-            7) pažeidė kitų žemės naudotojų
-ir gyventojų interesus;
+            7) pažeidė kitų žemės
+naudotojų ir gyventojų interesus;
             8) nesilaikė kitų žemės
 suteikimo metu ar žemės nuomos sutartyje nustatytų sąlygų;
             9) trukdė žemės naudotojui
@@ -1723,12 +1724,12 @@ teisėtų žemės naudotojų ir kitų asmenų, įmonių, įstaigų, organizacij�
 neteisėto žemės sklypo užėmimo ar trukdymo naudotis priklausančio nuosavybės
 teise arba naudojamo kitu pagrindu žemės sklypu;
             3) žemės savininkų bei kitų
-teisėtų žemės naudotojų - dėl nutraukimo kaimyniniame žemės sklype veiklos
-(nors ir teisėtos), kuria daroma žala nuosavybės teise priklausančiai arba
-nuomojamai ar kitu pagrindu naudojamai žemei;
+teisėtų žemės naudotojų - dėl nutraukimo kaimyniniame žemės sklype veiklos (nors
+ir teisėtos), kuria daroma žala nuosavybės teise priklausančiai arba nuomojamai
+ar kitu pagrindu naudojamai žemei;
 4) žemės savininkų bei
-valstybinės žemės naudotojų ir apskrities viršininko - dėl atlyginimo už paimamą
-visuomenės poreikiams žemę būdo ir dydžio; 
+valstybinės žemės naudotojų ir apskrities viršininko - dėl atlyginimo už
+paimamą visuomenės poreikiams žemę būdo ir dydžio; 
 5) žemės
 savininkų bei žemės naudotojų ir apskrities viršininko - dėl pagrindinės
 tikslinės žemės naudojimo paskirties keitimo ar (ir) specialiųjų žemės ir miško
@@ -1853,11 +1854,19 @@ Nr. IX-490,
 ŽEMĖS
 ĮSTATYMO 18 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1048,
+2002-07-05, Žin., 2002, Nr. 74-3141 (2002-07-24)
+ŽEMĖS
+ĮSTATYMO 35 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001-08-17)
+Aušrinė Trapinskienė (2002-07-24)
                  
 autrap@lrs.lt
