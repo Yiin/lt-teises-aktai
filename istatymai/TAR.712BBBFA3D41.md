@@ -653,6 +653,22 @@ arba panaudotos ne pagal savo tikslinę paskirtį, grąžinamos į valstybės
 biudžetą - pervedamos iš savivaldybių biudžetų sąskaitų į Valstybės iždo
 sąskaitą.
  
+[3
+dalies redakcija nuo 2004-01-01
+3. Metų pabaigoje likusios
+nepanaudotos tikslinės paskirties lėšos, nustatytos savivaldybių biudžetams
+priimant atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių
+rodiklių patvirtinimo įstatymus, lėšos, kurios per metus buvo paskirtos
+savivaldybių biudžetams pagal atskirus įstatymus arba Vyriausybės nutarimus
+arba panaudotos ne pagal savo tikslinę paskirtį, grąžinamos į valstybės
+biudžetą – pervedamos iš savivaldybių biudžetų sąskaitų į Valstybės iždo
+sąskaitą, jeigu atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų
+finansinių rodiklių patvirtinimo įstatyme nenustatyta kitaip.
+Straipsnio pakeitimai:
+Nr.
+IX-1858,
+2003-11-27, Žin., 2003, Nr. 117-5321 (2003-12-17)
+ 
 33 straipsnis. Valstybės biudžeto ir savivaldybių
 biudžetų tikslinimas biudžetiniais metais
 Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant
@@ -719,8 +735,9 @@ tikslams, ar asignavimai panaudoti galimu efektyviausiu būdu, ar naudojant
 asignavimus nepadaryta kitų teisės pažeidimų, taip pat kiek pasiekti programose
 nustatyti tikslai.
 3. Savivaldybių biudžetų vykdymo, savivaldybių biudžetų
-asignavimų valdytojų programų išlaidų sąmatų, savivaldybių biudžetų lėšų apskaitos
-ir finansinės atskaitomybės kontrolę atlieka savivaldybių kontrolieriai.
+asignavimų valdytojų programų išlaidų sąmatų, savivaldybių biudžetų lėšų
+apskaitos ir finansinės atskaitomybės kontrolę atlieka savivaldybių
+kontrolieriai.
 4. Valstybės ir savivaldybių biudžetų asignavimų valdytojų ir joms
 pavaldžių institucijų programų išlaidų sąmatų vidaus auditą atlieka
 vidaus audito tarnybos.
@@ -843,8 +860,8 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1519, 00.01.04, Žin., 2000,
 Nr.5-126 (00.01.19)
 LIETUVOS
-RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 12 IR 28(2) STRAIPSNIŲ
-PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO
+12 IR 28(2) STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -895,8 +912,14 @@ Nr. IX-1651,
 BIUDŽETO
 SANDAROS ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+17.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1858,
+2003-11-27, Žin., 2003, Nr. 117-5321 (2003-12-17)
+BIUDŽETO
+SANDAROS ĮSTATYMO 32 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
  
  
 Konstitucinio Teismo nutarimai:
@@ -913,11 +936,13 @@ STRAIPSNIŲ, LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 18 STRAIPSNIO 2
 DALIES IR LIETUVOS RESPUBLIKOS SEIMO STATUTO 172 STRAIPSNIO 1 DALIES ATITIKTIES
 LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
+ 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-07-16)
+Aušra Bodin (2003-12-19)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
