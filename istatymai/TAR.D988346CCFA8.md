@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D988346CCFA8"
 
 # Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo
 
+Suvestinė redakcija nuo 1994-06-08
+ 
+Įstatymas paskelbtas: Žin. 1991, Nr. 29-792, i. k. 0911010ISTA00I-1858
+ 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
  
@@ -41,35 +45,10 @@ Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
 
-4. Padaryti Lietuvos Respublikos Vyriausybės įstatymo 25 straipsnyje (Žin., 1990, Nr. 11-330, 11-347; 1991, Nr. 8-226) šiuos pakeitimus:
-
-
-l) papildyti šį straipsnį žodžiais:
-
-
-
-
-„Krašto apsaugos ministerija; Ryšių ir informatikos ministerija; Prekybos ir materialinių išteklių ministerija; Tarptautinių ekonominių santykių ministerija.“;
-
-
-
-
-
-
-
-
-2) išbraukti iš šio straipsnio žodžius:
-
-
-
-
-„Materialinių išteklių ministerija; Prekybos ministerija; Ryšių ministerija;“.
-
-
-
-
-
-
+4. Neteko galios nuo 1994-06-08
+Punkto naikinimas:
+Nr. I-486, 1994-05-31, Žin. 1994, Nr. 43-773 (1994-06-08), i. k. 0941010ISTA000I-486
+ 
 
 
 
@@ -83,3 +62,14 @@ PIRMININKAS                                  �
  
 Vilnius, 1991 m. spalio 3 d. 
 Nr. I-1858
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-486, 1994-05-31, Žin., 1994, Nr. 43-773 (1994-06-08), i. k. 0941010ISTA000I-486
+Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo
