@@ -177,12 +177,22 @@ deklaracijos formą ir pildymo tvarką nustato centrinis mokesčių
 administratorius. 
 6. Nuo pajamų
 atskaitymų mokėjimo į Programos finansavimo sąskaitą atleidžiami:
+ 
+6 dalies 1
+punkto redakcija iki 2004 m. sausio 1 d.:
 1) žemės ūkio subjektai;
+6 dalies 1
+punkto redakcija nuo 2004 m. sausio 1 d.:
+1)
+žemės ūkio veiklos subjektai ir kooperatinės bendrovės (kooperatyvai), kurių
+apmokestinamasis pelnas pagal Lietuvos Respublikos pelno mokesčio įstatymo
+nuostatas apmokestinamas taikant 0 procentų pelno mokesčio tarifą;
+ 
 2) kūrybinės
 sąjungos (architektų, mokslininkų, dailininkų, dizainerių, fotomenininkų,
-kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro,
-žurnalistų), jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų pelno
-sunaudoja kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų įstatuose;
+kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro, žurnalistų),
+jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų pelno sunaudoja
+kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų įstatuose;
 3) įmonės,
 kuriose dirba ne mažiau kaip 50 procentų riboto darbingumo darbuotojų ir kurių
 pajamos gaunamos tik už jų pačių pagamintą produkciją;
@@ -206,6 +216,8 @@ Respublikos Vyriausybė.
 Straipsnio pakeitimai:
 Nr. IX-840,
 2002-04-09, Žin., 2002, Nr. 43-1605 (2002-04-26)
+Nr. IX-1776,
+2003-10-14, Žin., 2003, Nr. 104-4646 (2003-11-05)
  
 5 straipsnis. Dalis akcizo
 pajamų, gautų už realizuotą benziną, dyzelinius degalus, bei 
@@ -255,10 +267,10 @@ straipsnis. Lietuvos Respublikoje įregistruotų transporto priemonių savinink�
 ar 
 valdytojų
 naudotojo mokestis 
-1. Lietuvos Respublikoje
-įregistruotų transporto priemonių savininkai ar valdytojai, sumokėję naudotojo
-mokestį, įgyja teisę naudotis Lietuvos Respublikos keliais ir jų
-infrastruktūra. 
+1. Lietuvos
+Respublikoje įregistruotų transporto priemonių savininkai ar valdytojai,
+sumokėję naudotojo mokestį, įgyja teisę naudotis Lietuvos Respublikos keliais
+ir jų infrastruktūra. 
 2.
 Naudotojo mokestį į Programos finansavimo sąskaitą transporto priemonių
 savininkai ar valdytojai sumoka iki transporto priemonės valstybinės techninės
@@ -275,8 +287,8 @@ ir transportavimo grupėms. Pristatant šias transporto priemones valstybinei
 techninei apžiūrai, turi būti pateikiamas dokumentas, patvirtinantis
 pristatomos transporto priemonės priskyrimą tai ar kitai transportavimo grupei;
 2) už specialiai
-neįgaliesiems pritaikytas transporto priemones, priklausančias savivaldybių institucijoms
-ir nevyriausybinėms neįgaliųjų organizacijoms;
+neįgaliesiems pritaikytas transporto priemones, priklausančias savivaldybių
+institucijoms ir nevyriausybinėms neįgaliųjų organizacijoms;
 3) už valstybės ir savivaldybių
 sveikatos priežiūros įstaigų greitosios pagalbos ir reanimacijos automobilius.
  
@@ -303,8 +315,8 @@ tarifų, mokėjimo ir kontrolės tvarką nustato Lietuvos Respublikos Vyriausyb�
  
 9 straipsnis. Mokestis už važiavimą keliais Lietuvos
 Respublikoje ir užsienio šalyse 
-įregistruotomis transporto priemonėmis (jų junginiais),
-kurių matmenys 
+įregistruotomis transporto priemonėmis (jų
+junginiais), kurių matmenys 
 su kroviniu ar be jo viršija leidžiamus, arba kai
 viršijama leidžiama ašies 
 (ašių) apkrova ir (ar) transporto priemonės (jų
@@ -315,10 +327,10 @@ valstybinės ir vietinės reikšmės keliais transporto priemonėmis (jų
 junginiais), kurių matmenys su kroviniu ar be jo, ašies (ašių) apkrova ir (ar)
 bendroji masė viršija maksimalius leidžiamus dydžius, galima tik suderinus tai
 su kelio savininku ir gavus jo leidimą. Leidimai išduodami Susisiekimo
-ministerijos ir savivaldybių nustatyta tvarka, sumokėjus įstatymų nustatyto
-dydžio mokestį už naudojimąsi keliais ir jų infrastruktūra stambiagabaritėmis
-ir (ar) sunkiasvorėmis transporto priemonėmis. Mokesčio dydį, neviršydama šio
-Įstatymo 5 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos
+ministerijos ir savivaldybių nustatyta tvarka, sumokėjus įstatymų nustatyto dydžio
+mokestį už naudojimąsi keliais ir jų infrastruktūra stambiagabaritėmis ir (ar)
+sunkiasvorėmis transporto priemonėmis. Mokesčio dydį, neviršydama šio Įstatymo
+5 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos
 Respublikos Vyriausybė. Mokestis mokamas už kiekvieną leidimą. Dėl
 mokesčio, jo dydžio už naudojimąsi vietinės reikšmės vidaus keliais gali būti
 sprendžiama šalių tarpusavio sutarimu vadovaujantis Civiliniame kodekse
@@ -868,8 +880,7 @@ O2–O4
 
 
 
-3 priedėlio
-  tęsinys
+3 priedėlio tęsinys
 
 
 
@@ -932,8 +943,9 @@ skirtos specialiems darbams atlikti,
 
 
  
-2. Specialios
-kelių transporto priemonės, skirtos specialiems darbams atlikti, yra:
+2.
+Specialios kelių transporto priemonės, skirtos specialiems darbams atlikti,
+yra:
 1) automobiliniai kranai;
 2) automobiliniai keltuvai;
 3) automobiliai su gręžimo
@@ -994,8 +1006,8 @@ Transporto
   priemonės tipas, kategorijos, klasės ir grupės
 
 
- Ribiniai tarifai
-  (litais)
+ Ribiniai
+  tarifai (litais)
 
 
 
@@ -1059,8 +1071,8 @@ B
 
 transporto priemonė, turinti daugiau
   kaip 8 sėdimas vietas keleiviams ir 1 sėdimą vietą vairuotojui ir kurios
-  bendroji masė didesnė kaip 5 t, bet ne daugiau kaip 22 vietos keleiviams, neskaitant
-  vairuotojo
+  bendroji masė didesnė kaip 5 t, bet ne daugiau kaip 22 vietos keleiviams,
+  neskaitant vairuotojo
 
 
  
@@ -1225,8 +1237,8 @@ Leidžiami
   matmenys viršyti (cm)
 
 
-                                              
-    Ribiniai tarifai (litais)
+                                                
+  Ribiniai tarifai (litais)
 
 
 
@@ -1756,11 +1768,23 @@ KELIŲ
 PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1776,
+2003-10-14, Žin., 2003, Nr. 104-4646 (2003-11-05)
+KELIŲ
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-07-11)
+Aušrinė Trapinskienė (2003-11-07)
                  
 autrap@lrs.lt
