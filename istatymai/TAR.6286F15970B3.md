@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2002-07-01 iki 2002-07-16
+Suvestinė redakcija nuo 2002-07-17 iki 2003-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -347,23 +347,20 @@ Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA
 
 
 
-5 straipsnis. Branduolinės energetikos objektų nuosavybė
+5 straipsnis. Branduolinės energetikos objektų ir branduolinių medžiagų nuosavybė
 
 
-1. Branduolinės energetikos objektai Lietuvos Respublikoje yra valstybės nuosavybė.
-
-
-
-
-2. Branduolinės ir radioaktyviosios medžiagos gali priklausyti nuosavybės teise pagal Lietuvos Respublikos įstatymus įsteigtai įmonei, kurios įstatuose numatyta atitinkama ūkinė veikla.
+1. Branduolinės energetikos objektai nuosavybės teise priklauso valstybei ir (ar) turintiems šio įstatymo numatytas licencijas juridiniams asmenims.
 
 
 
 
-3. Branduolinis kuras yra tik Lietuvos Respublikos valstybės įmonių nuosavybė.
+2. Branduolinės ir radioaktyviosios medžiagos nuosavybės teise gali priklausyti valstybei ir (ar) turintiems šio įstatymo numatytas licencijas juridiniams asmenims. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1021, 2002-07-02, Žin., 2002, Nr. 72-3020 (2002-07-17), i. k. 1021010ISTA0IX-1021
  
-
-
 
 
 
@@ -510,7 +507,10 @@ Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010IS
 Ūkio ministerija:
 
 
-1) vykdo branduolinės energetikos objektus eksploatuojančių organizacijų steigėjo funkcijas;
+1) įgyvendina branduolinės energetikos objektus eksploatuojančių organizacijų dalyvio teises ir pareigas; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1021, 2002-07-02, Žin., 2002, Nr. 72-3020 (2002-07-17), i. k. 1021010ISTA0IX-1021
+ 
 
 
 
@@ -2521,3 +2521,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo 1, 2, 48, 49, 50, 51 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
 Lietuvos Respublikos branduolinės energijos įstatymo 16 ir 32 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1021, 2002-07-02, Žin., 2002, Nr. 72-3020 (2002-07-17), i. k. 1021010ISTA0IX-1021
+Lietuvos Respublikos branduolinės energijos įstatymo 5 ir 9 straipsnių pakeitimo įstatymas
