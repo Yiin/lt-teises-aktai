@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.79B2A6A8B981"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
+Suvestinė redakcija nuo 1993-10-13 iki 1993-11-18
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 57-0; Žin. 1990, Nr.24-594, i. k. 0901010ISTA000I-425
+ 
+ 
 LIETUVOS RESPUBLIKOS
 AKCINIŲ BENDROVIŲ
 ĮSTATYMAS
@@ -210,7 +215,9 @@ Steigiamasis susirinkimas taip pat tvirtina akcinės bendrovės steigimo ataskai
 
 10 straipsnis. Bendrovės likvidavimas
 
-1. Bendrovę likviduoti turi teisę visuotinis susirinkimas arba teismas, jeigu:
+1. Bendrovę likviduoti turi teisę visuotinis susirinkimas, teismas arba kreditorių susirinkimas, jeigu: 
+Straipsnio dalies pakeitimai:
+Nr. I-255, 1993-09-28, Žin., 1993, Nr. 52-996 (1993-10-13), i. k. 0931010ISTA000I-255
 
 1) pasibaigė įstatuose nurodytas bendrovės veiklos terminas;
 
@@ -218,7 +225,15 @@ Steigiamasis susirinkimas taip pat tvirtina akcinės bendrovės steigimo ataskai
 
 3) nuosavi aktyvai tapo mažesniais negu 1/2 įstatinio kapitalo;
 
-4) yra kiti Lietuvos Respublikos įstatymų numatyti bendrovės likvidavimo pagrindai.
+4) bendrovė bankrutavo; 
+Papildyta papunkčiu:
+Nr. I-255, 1993-09-28, Žin., 1993, Nr. 52-996 (1993-10-13), i. k. 0931010ISTA000I-255
+ 
+
+5) yra kiti Lietuvos Respublikos įstatymų numatyti bendrovės likvidavimo pagrindai.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. I-255, 1993-09-28, Žin., 1993, Nr. 52-996 (1993-10-13), i. k. 0931010ISTA000I-255
+ 
 
 Bendrovės veiklą taip pat gali nutraukti kiti valstybės organai, jeigu tokius atvejus numato Lietuvos Respublikos įstatymai.
 
@@ -1008,4 +1023,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1990 m. liepos 30 d. 
 Nr. I-425
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-255, 1993-09-28, Žin., 1993, Nr. 52-996 (1993-10-13), i. k. 0931010ISTA000I-255
+Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo
 
