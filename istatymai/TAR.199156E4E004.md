@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
+Suvestinė redakcija nuo 1996-01-01 iki 1996-11-01
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
+ 
+ 
 LIETUVOS RESPUBLIKOS INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMAS
  
 
@@ -635,7 +640,9 @@ INVALIDŲ MATERIALINĖS PADĖTIES GARANTIJOS
 
 
 
-3. Vaikai invalidai, I grupės invalidai ir juos lydintys asmenys (vienas asmuo), taip pat asmenys, kurie tapo invalidais dėl 1991 m. sausio 11–13 d. vykdytos agresijos ir po to buvusių įvykių, naudojasi visų rūšių valstybiniu miesto (rajono) priemiestiniu transportu, išskyrus taksi, nemokamai. Už važiavimą tarpmiestiniu transportu, išskyrus taksi, jiems taikoma 50% bilieto kainos nuolaida.
+3. Neteko galios nuo 1996-01-01
+Straipsnio dalies naikinimas:
+Nr. I-1080, 1995-10-31, Žin. 1995, Nr. 92-2056 (1995-11-10), i. k. 0951010ISTA00I-1080
  
 
 
@@ -793,3 +800,15 @@ AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                     �
  
 Vilnius, 1991 m. lapkričio 28 d. 
 Nr. I-2044
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1080, 1995-10-31, Žin., 1995, Nr. 92-2056 (1995-11-10), i. k. 0951010ISTA00I-1080
+Dėl kai kurių Lietuvos Respublikos įstatymų ir kitų teisės aktų, susijusių su Lietuvos Respublikos įstatymu "Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos", pakeitimo ir papildymo
