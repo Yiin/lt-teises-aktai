@@ -13,104 +13,122 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymas
 
-@D1=19910521;D2=19960606;D3=19960626
+Redagavo: Ramunė Lūžaitė (1997
 
 
 
 
-@D1=19910521;D2=19960606;D3=19960626
+Redagavo: Ramunė
+Lūžaitė (1997.01.23)
+ 
+Neoficialus įstatymo
+tekstas
+ 
 Pakeitimai:
- 1.
- Parlamentas,
-Įstatymas
-{#19920416AA2501 ;}
-Nr. 1-2501, 92.04.16, Žin., 1992, Nr. 13-350
- DĖL LIETUVOS
-RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
- 25 STRAIPSNIO
-PAKEITIMO
  
- 2.
- Parlamentas, Įstatymas
-{#19940512AA0455 ;}
-Nr. 1-455, 94.05.12, Žin., 1994, Nr. 39-702 (94.05.25)
- DĖL LIETUVOS
+1.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. 1-2501,
+92.04.16, Žin., 1992, Nr. 13-350
+DĖL LIETUVOS
 RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
- PAPILDYMO
+25 STRAIPSNIO PAKEITIMO
  
- 3.
- Parlamentas,
-Įstatymas
-{#19941103AA0623 ;}
-Nr. 1-623, 94.11.03, Žin., 1994, Nr. 88-1666 (94.11.16)
- DĖL LIETUVOS
+2.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. 1-455, 94.05.12,
+Žin., 1994, Nr. 39-702 (94.05.25)
+DĖL LIETUVOS
 RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
- PAKEITIMO
- 
- 4.
- Parlamentas,
-Įstatymas
-{#19941129AA0676 ;}
-Nr. 1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
- DĖL LIETUVOS
-RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
- PAKEITIMO IR
 PAPILDYMO
  
- 5.
- Parlamentas,
-Įstatymas
-{#19950427AA0869 ;}
-Nr. 1-869, 95.04.27, Žin., 1995, Nr. 36-889 (95.05.03)
- DĖL LIETUVOS
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. 1-623, 94.11.03,
+Žin., 1994, Nr. 88-1666 (94.11.16)
+DĖL LIETUVOS
 RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
- PAKEITIMO
- 
- 6.
- Parlamentas,
-Įstatymas
-{#19950705AA1024 ;}
-Nr. 1-1024, 95.07.05, Žin., 1995, Nr. 59-1481 (95.07.19)
- DĖL LIETUVOS
-RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
- PAPILDYMO IR
 PAKEITIMO
  
- 7.
- Parlamentas,
-Įstatymas
-{#19951017AA1062 ;}
-Nr. 1-1062, 95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
- DĖL LIETUVOS
+Šis įstatymas
+įsigalioja nuo 1995 metų sausio 1 dienos.
+ 
+4.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
+DĖL LIETUVOS
 RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
- PAKEITIMO IR
+PAKEITIMO IR
 PAPILDYMO
  
- 8.
- Parlamentas,
-Įstatymas
-{#19960528AA1353 ;}
-Nr. 1-1353, 96.05.28, Žin., 1996, Nr. 53-1250 (96.06.05)
- LIETUVOS
-RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 37-1
- IR 38 STRAIPSNIŲ
+5.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. 1-869, 95.04.27,
+Žin., 1995, Nr. 36-889 (95.05.03)
+DĖL LIETUVOS
+RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
+PAKEITIMO
+ 
+6.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. 1-1024,
+95.07.05, Žin., 1995, Nr. 59-1481 (95.07.19)
+DĖL LIETUVOS
+RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
+PAPILDYMO IR
+PAKEITIMO
+ 
+7.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. 1-1062, 95.10.17,
+Žin., 1995, Nr. 89-1987 (95.11.02)
+DĖL LIETUVOS
+RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
+PAKEITIMO IR
+PAPILDYMO
+ 
+8.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. 1-1353,
+96.05.28, Žin., 1996, Nr. 53-1250 (96.06.05)
+LIETUVOS RESPUBLIKOS
+VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 37-1
+IR 38 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
  
- 9.
- Parlamentas,
-Įstatymas
-{#19960606AA1369 ;}
-Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
- LIETUVOS
-RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 3,
- 27, 37(1)
-STRAIPSNIŲ PAKEITIMO IR 23, 24, 25 STRAIPSNIŲ
- PRIPAŽINIMO
+9.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. 1-1369,
+96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
+LIETUVOS RESPUBLIKOS
+VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 3,
+27, 37(1) STRAIPSNIŲ
+PAKEITIMO IR 23, 24, 25 STRAIPSNIŲ
+PRIPAŽINIMO
 NETEKUSIAIS GALIOS ĮSTATYMAS
  
   Šis įstatymas
 įsigalioja nuo 1997 metų sausio 1 dienos.
  
+10.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. I-1545,
+96.09.25, Žin., 1996, Nr.98-2232 (96.10.11)
+LIETUVOS RESPUBLIKOS
+VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
+45 STRAIPSNIO
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
  *** Pabaiga ***
  
@@ -121,13 +139,13 @@ LIETUVOS RESPUBLIKOS
                 
 VALSTYBINIO SOCIALINIO DRAUDIMO
  
-                        Į
-S T A T Y M A S
+                       
+Į S T A T Y M A S
  
  
  
  
-                 I
+                 I
 SKYRIUS. BENDRIEJI NUOSTATAI
  
      1 straipsnis.
@@ -146,7 +164,7 @@ paslaugų, jei jie negali dėl įstatymo numatytų
 priežasčių
 apsirūpinti  iš darbo  ir kitokių  pajamų  arba    dėl
 įstatymo numatytų  
-svarbių   priežasčių turi papildomų  išlaidų.
+svarbių   priežasčių turi papildomų  išlaidų.
 Įgyvendinant
 valstybinį socialinį draudimą, dalyvauja draudėjų ir
 draudžiamųjų
@@ -157,8 +175,8 @@ Valstybinio socialinio draudimo
                    
 reguliavimas
  
-     Valstybinį 
-socialinį   draudimą  reguliuoja   šis  ir  kiti
+     Valstybinį  socialinį  
+draudimą  reguliuoja   šis  ir  kiti
 Lietuvos
 Respublikos  socialinio aprūpinimo  įstatymai, taip  pat
 Valstybinių 
@@ -172,14 +190,14 @@ pašalpų  nuostatai,  Valstybinio  socialinio
 draudimo  įstaigų 
 nuostatai,  taip  pat  Valstybinio  socialinio
 draudimo  fondo  
-biudžeto   sudarymo   ir   vykdymo   taisyklės,
+biudžeto   sudarymo   ir   vykdymo   taisyklės,
 Savanoriškojo
 valstybinių socialinio pensijų draudimo taisyklės.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      3 straipsnis.
 Valstybinio socialinio draudimo rūšys
@@ -221,10 +239,10 @@ atsitikimų darbe
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
-{#19960606AA1369 ;}
-Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-1369,
+96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
  
      4 straipsnis.
@@ -242,7 +260,7 @@ nustatyta tvarka privalomai draudžiami:
      1)  asmenys,  
 dirbantys  pagal  darbo  sutartis,  taip  pat
 dirbantys narystės 
-pagrindais renkamose  institucijose,  ūkinėse
+pagrindais renkamose  institucijose,  ūkinėse
 bendrijose,  
 žemės    ūkio   bendrovėse    arba    kooperatinėse
 organizacijose ir
@@ -258,14 +276,14 @@ nariai.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      5 straipsnis.
 Valstybinio socialinio draudimo stažas
  
-     Valstybinio socialinio  
-draudimo stažas  - tai  laikas, kai
+     Valstybinio
+socialinio   draudimo stažas  - tai  laikas, kai
 asmuo pats   mokėjo
 ar  už  tą  asmenį  buvo  mokamos valstybinio
 socialinio draudimo 
@@ -294,8 +312,8 @@ nedarbingumui dėl ligos ar traumos;
 šeimos nariui, kurį būtina slaugyti;
      3) epideminių
 situacijų atvejais;
-     4) esant
-proteziniame-ortopediniame stacionare;
+     4) esant proteziniame-ortopediniame
+stacionare;
      5) laikinai 
 perkėlus į  kitą darbą  dėl susirgimo profesine
 liga, tuberkulioze
@@ -314,23 +332,22 @@ trečioji dalis).
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      7 straipsnis.
 Teisė į ligos pašalpą
  
-     Teisę į  ligos  pašalpą
-turi  apdraustieji,
-išvardinti šio 
-įstatymo 4  straipsnio 1-6 punktuose, jei jie dėl
-šio įstatymo  6
-straipsnyje  numatytų priežasčių yra palaisvinami
-nuo darbo   ar
-tarnybinių pareigų ir  dėl to  praranda savo darbo
-pajamas. Šią  teisę
-jie įgyja  nuo  pirmosios  darbo  (draudimo)
-dienos.
+     Teisę į  ligos 
+pašalpą turi  apdraustieji,  išvardinti  šio
+įstatymo  4
+straipsnio  1 punkte,  jei  jie  dėl šio  įstatymo  6
+straipsnyje 
+numatytų priežasčių yra palaisvinami  nuo darbo   ar
+tarnybinių pareigų
+ir  dėl to  praranda savo  darbo  pajamas. Šią
+teisę jie įgyja 
+nuo  pirmosios  darbo  (draudimo) dienos.
      Pašalpa
 bendrąja  tvarka mokoma, jei teisė ją gauti atsirado
 darbo laikotarpiu  
@@ -359,8 +376,8 @@ nedarbingumo pažymėjimas.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      8 straipsnis.
 Ligos pašalpos mokėjimo trukmė
@@ -370,13 +387,13 @@ Apdraustiesiems,   netekusiems   darbingumo  dėl  ligos arba
 traumos (6  
 straipsnio 1  punktas)   šio įstatymo  7 straipsnyje
 nurodytais
-laikotarpiais,  ligos  pašalpa mokama
-nuo pirmosios 
-darbingumo netekimo  dienos (neskaitant  dienų, už
-kurias buvo  gauta
-išeitinė pašalpa arba uždarbis) iki darbingumo
-atstatymo arba iki
-invalidumo pripažinimo.
+laikotarpiais,  ligos  pašalpa  mokama  nuo  pirmosios
+darbingumo netekimo 
+dienos (neskaitant  dienų,  už  kurias  buvo
+gauta išeitinė
+pašalpa arba uždarbis)  iki  darbingumo  atstatymo
+arba iki invalidumo
+pripažinimo.
      Ligos  pašalpa 
 už pirmąsias  dvi kalendorines  nedarbingumo
 dėl ligos, 
@@ -425,10 +442,10 @@ Valstybinio socialinio draudimo pašalpų nuostatuose.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
-{#19951017AA1062 ;}
-Nr. 1-1062, 95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-1062,
+95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
  
  
      9 straipsnis.
@@ -445,6 +462,11 @@ laikinajam nedarbingumui neapmokamų atostogų metu,
 pašalpa mokama  nuo
 tos  dienos, kurią darbuotojas turėjo pradėti
 dirbti.
+ 
+Straipsnio
+pakeitimai:
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      10 straipsnis.
 Ligos pašalpos dydis
@@ -477,10 +499,10 @@ darbui.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
-{#19951017AA1062 ;}
-Nr. 1-1062, 95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-1062,
+95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
  
      11 straipsnis.
 Kompensuojamasis uždarbis pašalpai
@@ -506,10 +528,10 @@ vidutinio darbo užmokesčio trijų dydžių sumos.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
-{#95FDAA1024 ;} Nr.
-1-1024, 95.07.05, Žin., 1995, Nr. 59-1481 (95.07.19)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-1024,
+95.07.05, Žin., 1995, Nr. 59-1481 (95.07.19)
  
      12 straipsnis.
 Sąlygos, kurioms esant, pašalpa nemokama
@@ -550,8 +572,8 @@ neskiriama arba jos mokėjimas nutraukiamas.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      13 straipsnis.
 Ligos pašalpa šeimos nariui slaugyti
@@ -580,8 +602,8 @@ dvi dienas.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      14 straipsnis.
 Ligos pašalpa epideminių situacijų atveju
@@ -614,8 +636,8 @@ pagal šio įstatymo
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      15 straipsnis.
 Pašalpa, esant proteziniame-ortopediniame
@@ -703,29 +725,29 @@ išeitinė pašalpa.
  
 Straipsnio
 pakeitimai:
-{#94JBAA0623 ;} Nr.
-1-623, 94.11.03, Žin., 1994, Nr. 88-1666 (94.11.16)
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-623, 94.11.03,
+Žin., 1994, Nr. 88-1666 (94.11.16)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
-                   3.
-Pašalpa vaiko priežiūrai
+                  
+3. Pašalpa vaiko priežiūrai
  
      18 straipsnis.
 (Panaikintas)
  
 Straipsnio
 pakeitimai:
-{#94JBAA0623 ;} Nr.
-1-623, 94.11.03, Žin., 1994, Nr. 88-1666 (94.11.16)
+Nr. 1-623, 94.11.03,
+Žin., 1994, Nr. 88-1666 (94.11.16)
  
      19 straipsnis.
 (Panaikintas)
  
 Straipsnio
 pakeitimai:
-{#94JBAA0623 ;} Nr.
-1-623, 94.11.03, Žin., 1994, Nr. 88-1666 (94.11.16)
+Nr. 1-623, 94.11.03,
+Žin., 1994, Nr. 88-1666 (94.11.16)
  
                      
 4. Laidojimo pašalpa
@@ -777,11 +799,11 @@ auginančiam vaiką.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
-          III
-SKYRIUS. GYDYMO IR PROFILAKTIKOS IŠMOKOS
+          III SKYRIUS.
+GYDYMO IR PROFILAKTIKOS IŠMOKOS
  
  
      23 straipsnis.
@@ -789,22 +811,21 @@ SKYRIUS. GYDYMO IR PROFILAKTIKOS IŠMOKOS
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
-{#19960606AA1369 ;}
-Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-1369,
+96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
      24 straipsnis.
 (Panaikintas)
  
-Straipsnio
-pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
-{#19951017AA1062 ;}
-Nr. 1-1062, 95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
-{#19960606AA1369 ;}
-Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
+Straipsnio pakeitimai:
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-1062,
+95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
+Nr. 1-1369,
+96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
  
      25 straipsnis.
@@ -812,12 +833,12 @@ Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
 Straipsnio
 pakeitimai:
-{#92COAA2501 ;} Nr.
-1-2501, 92.04.16, Žin., 1992, Nr. 13-350
-{#95CZAA0869 ;} Nr.
-1-869, 95.04.27, Žin., 1995, Nr. 36-889 (95.05.03)
-{#19960606AA1369 ;}
-Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
+Nr. 1-2501, 92.04.16,
+Žin., 1992, Nr. 13-350
+Nr. 1-869, 95.04.27,
+Žin., 1995, Nr. 36-889 (95.05.03)
+Nr. 1-1369,
+96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
      26 straipsnis.
 Išlaidų transportui kompensavimas
@@ -869,8 +890,8 @@ fondo tarybos teikimu.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
  
      27 straipsnis.
@@ -879,15 +900,15 @@ Sąlygos, kurioms esant, gydymo ir
 profilaktikos išmokos nemokamos
  
      Apdraustasis
-netenka  teisės į  26  straipsnyje  išvardintas
+netenka  teisės į  26  straipsnyje  išvardintas
 išmokas iš 
 valstybinio socialinio  draudimo lėšų  12 straipsnyje
 nurodytais atvejais.
  
 Straipsnio
 pakeitimai:
-{#19960606AA1369 ;}
-Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
+Nr. 1-1369,
+96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
  
       IV SKYRIUS.
@@ -923,8 +944,8 @@ skelbiami viešai Vyriausybės nustatyta tvarka.
 Respublikos  valstybinio socialinio  draudimo fondo
 biudžeto  projektą 
 rengia  ir  pateikia  Vyriausybei   tvirtinti
-Valstybinio socialinio
-draudimo fondo taryba.
+Valstybinio
+socialinio draudimo fondo taryba.
      Lietuvos
 Respublikos  valstybinio socialinio  draudimo fondo
 biudžeto  sudarymo  
@@ -932,15 +953,14 @@ ir  vykdymo   taisykles  tvirtina   Lietuvos
 Respublikos
 Vyriausybė.
  
-Straipsnio
-pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Straipsnio pakeitimai:
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
  
      29 straipsnis.
-Valstybinio socialinio draudimo ir Lietuvos
-                   
+Valstybinio socialinio draudimo fondo ir
+           Lietuvos
 Respublikos valstybės biudžetų santykiai
  
      Asignavimai 
@@ -952,13 +972,18 @@ socialinio draudimo  išlaidos arba  sumažėja
 pajamos, o įmokų
 socialiniam draudimui tarifai nekeičiami.
  
-     30 straipsnis.
-Valstybinio socialinio draudimo biudžeto
-                   
-pajamos
+Straipsnio
+pakeitimai:
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
-     Lietuvos  
-Respublikos   valstybinio   socialinio   draudimo
+     30 straipsnis.
+Valstybinio socialinio draudimo fondo
+                   
+biudžeto pajamos
+ 
+     Lietuvos
+Respublikos valstybinio socialinio  draudimo  fondo
 biudžeto pajamas
 sudaro:
      1) juridinių 
@@ -968,8 +993,8 @@ socialinio draudimo
      2) Valstybinio 
 socialinio draudimo  fondo valdybos  veiklos
 pajamos;
-     3) asignavimai  
-iš Valstybės  biudžeto, skiriami  pagal šio
+     3)
+asignavimai   iš Valstybės  biudžeto, skiriami  pagal šio
 įstatymo 29
 straipsnį;
      4) valstybinio
@@ -983,18 +1008,18 @@ nustatytus kiekvienos draudimo rūšies įmokų dydžius.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      31 straipsnis.
 Valstybinio socialinio draudimo fondo
-                    biudžeto
-išlaidos
+                   
+biudžeto išlaidos
  
      Valstybinio 
 socialinio  draudimo  fondo  biudžeto  išlaidos
 skirstomos  ir  
-apskaitomos  pagal   draudimo   rūšis.   Išlaidų
+apskaitomos  pagal   draudimo   rūšis.   Išlaidų
 straipsnių
 klasifikaciją  nustato Valstybinio socialinio draudimo
 fondo biudžeto
@@ -1002,8 +1027,8 @@ sudarymo ir vykdymo taisyklės.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      32 straipsnis.
 Valstybinio socialinio draudimo fondo
@@ -1040,8 +1065,8 @@ realiosios vertės išsaugojimą.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      33 straipsnis.
 Kasos apyvartos lėšos
@@ -1055,16 +1080,16 @@ nustatomas tvirtinant fondo biudžetą.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      34 straipsnis.
 Valstybinio socialinio draudimo įmokos
  
      Drausdamas
 asmenis,  išvardintus šio įstatymo 4 straipsnio 1
-punkte, darbdavys  privalo
-mokėti  nustatyto  dydžio  valstybinio
+punkte, darbdavys 
+privalo mokėti  nustatyto  dydžio  valstybinio
 socialinio draudimo
 įmokas.
      Įmokos   
@@ -1104,20 +1129,20 @@ fondo biudžeto sudarymo ir vykdymo taisyklės.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
-{#95FDAA1024 ;} Nr.
-1-1024, 95.07.05, Žin., 1995, Nr. 59-1481 (95.07.19)
-{#19951017AA1062 ;}
-Nr. 1-1062, 95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-1024,
+95.07.05, Žin., 1995, Nr. 59-1481 (95.07.19)
+Nr. 1-1062,
+95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
  
      35 straipsnis.
 Valstybinio socialinio draudimo įmokų
                    
 tarifai
  
-     Bendrąjį
-privalomojo  valstybinio socialinio  draudimo įmokų
+     Bendrąjį privalomojo 
+valstybinio socialinio  draudimo įmokų
 tarifą ir  jo
 dydžius  atskiroms draudimo rūšims nustato Lietuvos
 Respublikos 
@@ -1131,8 +1156,8 @@ nustato Lietuvos Respublikos Seimas.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      36 straipsnis.
 Valstybinio socialinio draudimo įmokų
@@ -1143,25 +1168,25 @@ mokėjimo tvarka
 socialinio  draudimo įmokų mokėtojas (draudėjas)
 pats jas
 apskaičiuoja ir sumoka į valstybinio socialinio draudimo
-biudžetą.
+fondo biudžetą.
      Draudėjai  - 
 įmonės,  įstaigos  ir  organizacijos,  kuriose
 dirba 4 straipsnio 
 1 punkte apdraustieji  asmenys, apskaičiuoja,
-išskaito ir įmoka į 
-valstybinio socialinio draudimo biudžetą  iš
-minėtų  apdraustųjų 
-asmenų  pajamų  mokamas  socialinio draudimo
-įmokas.
+išskaito  ir  įmoka 
+į  valstybinio   socialinio  draudimo  fondo
+biudžetą  iš minėtų 
+apdraustųjų asmenų pajamų mokamas socialinio
+draudimo įmokas.
      Įmokų mokėjimo 
 tvarka  ir  terminai  nustatomi  Valstybinio
 socialinio draudimo
-biudžeto sudarymo ir vykdymo taisyklėse.
+fondo biudžeto sudarymo ir vykdymo taisyklėse.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      37 straipsnis.
 Atsakomybė valstybiniam socialiniam draudimui
@@ -1213,12 +1238,12 @@ atlyginti.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
-{#19960528AA1353 ;}
-Nr. 1-1353, 96.05.28, Žin., 1996, Nr. 53-1250 (96.06.05)
-{#19960606AA1369 ;}
-Nr. 1-1369, 96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-1353,
+96.05.28, Žin., 1996, Nr. 53-1250 (96.06.05)
+Nr. 1-1369,
+96.06.06, Žin., 1996, Nr. 57-1341 (96.06.19)
  
      38 straipsnis.
 Atsakomybė už įmokų mokėjimo teisingumą
@@ -1259,12 +1284,12 @@ baudos, o vėliausiai - delspinigiai.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
-{#19951017AA1062 ;}
-Nr. 1-1062, 95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
-{#19960528AA1353 ;}
-Nr. 1-1353, 96.05.28, Žin., 1996, Nr. 53-1250 (96.06.05)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-1062,
+95.10.17, Žin., 1995, Nr. 89-1987 (95.11.02)
+Nr. 1-1353,
+96.05.28, Žin., 1996, Nr. 53-1250 (96.06.05)
  
  
        V SKYRIUS.
@@ -1279,8 +1304,8 @@ sistema
      Lietuvos
 Respublikos valstybinio socialinio draudimo valdymo
 sistemą sudaro:
-     1)  Valstybinio  
-socialinio  draudimo   fondo  taryba  prie
+     1) 
+Valstybinio   socialinio  draudimo   fondo  taryba  prie
 Socialinės apsaugos
 ir darbo ministerijos;
      2) Valstybinio 
@@ -1290,12 +1315,12 @@ skyriai;
      3)  kitos  
 akredituotos  valstybinio   socialinio  draudimo
 įstaigos;
-     4) draudėjai.
+     4) draudėjai.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      40 straipsnis.
 Valstybinio socialinio draudimo fondo
@@ -1323,15 +1348,15 @@ organizacijos,  o  valstybės  valdymo  institucijų
 atstovus skiria 
 Lietuvos Respublikos  Vyriausybė. Tarybos sudėtį
 tvirtina Vyriausybė.
-     Tarybai
-vadovauja  Socialinės apsaugos  ir  darbo  ministras
+     Tarybai vadovauja 
+Socialinės apsaugos  ir  darbo  ministras
 arba jo įgaliotas
 tarybos narys.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr. 1-676,
-94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      41 straipsnis.
 Valstybinio socialinio draudimo fondo
@@ -1376,12 +1401,13 @@ reglamentą.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      42 straipsnis.
 Valstybinio socialinio draudimo fondo
-                    valdyba
+                   
+valdyba
  
      Valstybinio 
 socialinio   draudimo  fondo   valdyba  yra  iš
@@ -1444,8 +1470,8 @@ Valstybinio socialinio draudimo įstaigų nuostatus.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      43 straipsnis.
 Valstybinio socialinio draudimo fondo
@@ -1461,8 +1487,8 @@ už:
 socialinio draudimo įmokų surinkimą;
      2) pensijų
 išmokėjimą teisingai ir laiku;
-     3) kitų  Valstybinio
-socialinio draudimo įstaigų nuostatuose
+     3) kitų 
+Valstybinio socialinio draudimo įstaigų nuostatuose
 numatytų funkcijų
 vykdymą.
      Valstybinio 
@@ -1474,8 +1500,8 @@ valstybinio herbo atvaizdu.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      44 straipsnis.
 Draudėjų pareigos
@@ -1495,7 +1521,7 @@ atsakingi už  teisingą ir  laiku    atliekamą
 valstybinio
 socialinio draudimo įmokų priskaičiavimą ir įmokėjimą
 į valstybinio
-socialinio draudimo biudžetą.
+socialinio draudimo fondo biudžetą.
      Draudėjai 
 išmoka   apdraustiesiems  valstybinio  socialinio
 draudimo    
@@ -1505,8 +1531,8 @@ tvarka.
  
 Straipsnio
 pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
      45 straipsnis.
 Valstybinio socialinio draudimo įstaigų
@@ -1519,64 +1545,168 @@ turi teisę
 patikrinti dokumentus, kuriais grindžiamos jos žinioje
 esančios įmokos ir
 išmokos.
-     Vykdant  
-valstybinio    socialinio    draudimo    kontrolę,
+     Vykdami  
+valstybinio  socialinio   draudimo   kontrolę,
+valstybinio socialinio
+draudimo įstaigų pareigūnai turi teisę:
+     1)  gauti  iš 
+įmonių, įstaigų bei organizacijų  ir  kitų
+asmenų,   įskaitant 
+bankus  ir  kitas  kredito  bei   finansų
+įstaigas,  pareigoms
+atlikti reikalingas žinias bei  dokumentų
+nuorašus   apie  
+tikrinamo  juridinio,  fizinio   asmens   ar
+neturinčio juridinio
+asmens teisių asmens turtą bei pajamas;
+     2)  norėdami 
+nustatyti, kaip draudėjas  vykdo  prievoles
+valstybinio  
+socialinio  draudimo  fondui,   be   išankstinio
+įspėjimo,  pateikę 
+tarnybinį pažymėjimą,   įeiti  į  draudėjo
+patalpas ar
+teritoriją, susijusias su jo veikla (įskaitant  ir
+nuomojamas), 
+tikrinti  darbo sąlygas, darbuotojų  skaičių  ir
+panašiai. 
+Pareigūnas  turi šią teisę ir  tais  atvejais,  kai
+veiklai bei pajamoms
+gauti naudojamos gyvenamosios patalpos ir
+kiti  objektai. 
+Įmonių,  įstaigų,  organizacijų  vadovai  bei
+fiziniai asmenys,
+trukdantys pareigūnui pasinaudoti šia teise,
+traukiami  
+atsakomybėn   įstatymų   nustatyta   tvarka.    Be
+išankstinio 
+įspėjimo įeiti į draudėjo patalpas ar  teritoriją
+(įskaitant  ir 
+nuomojamas) galima tik  draudėjo  darbo  metu.
+Kitais atvejais
+reikalingas draudėjo sutikimas;
+     3)   paimti 
+laikinai  -  iki  30  dienų  -  iš  draudėjo
+dokumentus,  
+fiksuojančius   darbo   pajamas,    nuo    kurių
+skaičiuojamos
+valstybinio socialinio draudimo įmokos, taip pat
+išmokos iš
+valstybinio socialinio draudimo fondo lėšų, palikus
+dokumentų  paėmimo
+aktą; užantspauduoti dokumentų,  vertybinių
+popierių,  pinigų 
+ir materialinių vertybių saugojimo  vietas,
+daryti  dokumentų 
+kopijas arba išrašus,  žymas  ant  draudėjo
+dokumentų, kad būtų
+išvengta jų klastojimo;
+     4)   duoti  
+draudėjui   privalomus   vykdyti   nurodymus
 valstybinio
-socialinio  draudimo įstaigų  pareigūnams suteikiamos
-Lietuvos
-Respublikos  valstybinės mokesčių inspekcijos įstatymo 4
-straipsnyje
-nurodytos teisės.
-     Valstybinio
-socialinio  draudimo fondo  valdybos direktorius
-ir   jo  
-pavaduotojai,   teritorinių   skyrių   vedėjai   ir  jų
-pavaduotojai turi
+socialinio draudimo klausimais;
+     5)  surašyti
+administracinių teisės pažeidimų  protokolus
+bylose,   kurios  
+pagal   įstatymą   priskirtos   valstybinio
+socialinio draudimo
+pareigūno kompetencijai;
+     6)  
+pareikalauti   iš  draudėjo,  kad  būtų   sutvarkyta
+buhalterinė
+apskaita;
+     7)  gauti iš
+draudėjo paaiškinimus valstybinio socialinio
+draudimo įmokų ir
+išmokų klausimais;
+     8)  surašyti 
+nustatytų pažeidimų aktus  dėl  valstybinio
+socialinio draudimo
+įmokų, baudų ir delspinigių apskaičiavimo,
+žalos,   padarytos 
+valstybinio  socialinio   draudimo   fondo
+biudžetui, 
+atlyginimo  arba nepriemokų  išmokėjimo  gavėjams,
+taip  pat  kitų 
+Lietuvos  Respublikos valstybinio  socialinio
+draudimo įstatymo
+reikalavimų vykdymo.
+     Valstybinio   
+socialinio   draudimo    fondo    valdybos
+direktorius ir jo
+pavaduotojai, teritorinių skyrių vedėjai  ir
+jų pavaduotojai turi
 teisę:
-     1)  išieškoti  
-neginčo  tvarka  iš  įmonių  sąskaitų  banko
-įstaigose  laiku  
-nesumokėtas  valstybinio  socialinio  draudimo
-įmokas bei
-netesybas;
-     2) duoti
-nurodymus bankų įstaigoms nutraukti pinigų išdavimą
-bei pervedimą  iš
-įmonių  sąskaitų,  jeigu  jos  nustatytu  laiku
+     1)  
+išieškoti   ne  ginčo  tvarka  iš  įmonių   sąskaitų
+komerciniuose   
+bankuose   laiku   nesumokėtas    valstybinio
+socialinio draudimo
+įmokas bei netesybas;
+     2)  duoti
+nurodymus bankams nutraukti pinigų išdavimą bei
+pervedimą  iš 
+įmonių  sąskaitų,  jeigu  jos  nustatytu  laiku
 nepateikė
-valstybinio  socialinio draudimo  įstaigoms  finansinės
-apyskaitos,
-neleidžia  patikrinti socialinio  draudimo įmokų  bei
-išmokų  arba   kai 
-tikrinimo  metu  nustatyti  neteisingo  įmokų
+valstybinio socialinio draudimo įstaigoms finansinės
+apyskaitos ar nemoka
+socialinio draudimo įmokų ilgiau  kaip  3
+mėnesius,  neleidžia
+patikrinti socialinio draudimo įmokų  bei
+išmokų  arba  kai 
+tikrinimo metu nustatyti  neteisingo  įmokų
 apskaičiavimo
 faktai;
-     3)   įstatymų  
-nustatyta  tvarka   skirti   administracines
-nuobaudas.
-Paskirtos  piniginės baudos  išieškomos į  valstybinio
+     3)   įstatymų 
+nustatyta  tvarka  skirti  administracines
+nuobaudas. Paskirtos
+piniginės baudos išieškomos į valstybinio
 socialinio draudimo
-fondo biudžetą.
-     Valstybinio
-socialinio  draudimo fondo  valdybos direktorius
-turi  teisę  
-siūlyti  rejestro   tvarkytojui  atšaukti    įmonės
-registravimą, 
-jeigu   ši  be   pateisinamų  priežasčių   nevykdo
-socialinio  
-draudimo   įstaigų    pareigūnų   reikalavimų    dėl
+fondo biudžetą;
+     4)  kreiptis 
+į  visų nuosavybės formų  įmonių,  įstaigų,
+organizacijų 
+vadovus  dėl aplinkybių  ir  sąlygų,  trukdančių
 valstybinio 
-socialinio  draudimo   įmokų  mokėjimo,   finansinių
+socialinio  draudimo  fondo  įstaigų  pareigūnams
+tinkamai  atlikti
+pareigas. Įmonių vadovai bei kiti pareigūnai
+privalo 
+išnagrinėti  valstybinio  socialinio  draudimo  fondo
+įstaigų pareigūnų
+nurodymus ir nedelsdami (ne vėliau kaip kitą
+dieną  po  nurodymo 
+gavimo) pranešti  valstybinio  socialinio
+draudimo fondo
+įstaigai apie priimtas priemones.
+     Valstybinio   
+socialinio   draudimo    fondo    valdybos
+direktorius ir jo
+pavaduotojai turi teisę:
+     1)   siūlyti  
+rejestro   tvarkytojui   atšaukti   įmonės
+registravimą, 
+jeigu  ši  be  pateisinamų  priežasčių  nevykdo
+socialinio  
+draudimo   įstaigų  pareigūnų   reikalavimų   dėl
+valstybinio 
+socialinio  draudimo įmokų  mokėjimo,  finansinių
 ataskaitų ir duomenų
-apie apdraustuosius pateikimo.
+apie apdraustuosius pateikimo;
+     2) areštuoti
+draudėjo turtą bei sąskaitas bankuose, jeigu
+nesumokėta
+(nepervesta) valstybinio socialinio draudimo  fondo
+įstaigoms įmokos,
+baudos ir delspinigiai.
      Draudėjų   ir  
 apdraustųjų   pretenzijas   dėl  valstybinio
 socialinio 
 draudimo  įstaigų   pareigūnų,  vykdančių   kontrolę,
 veiksmų  
-sprendžia   atitinkamos   įstaigos   vadovas   arba  jo
+sprendžia   atitinkamos   įstaigos   vadovas   arba  jo
 pavaduotojas,  o 
-dėl  pastarųjų  pareigūnų veiksmų - Valstybinio
+dėl  pastarųjų  pareigūnų veiksmų - Valstybinio
 socialinio draudimo 
 fondo valdyba.   Pareiškėjas,  nesutinkantis
 su  Valdybos 
@@ -1586,10 +1716,13 @@ teismą.
  
 Straipsnio
 pakeitimai:
-{#94DKAA0455 ;} Nr.
-1-455, 94.05.12, Žin., 1994, Nr. 39-702 (94.05.25)
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. 1-455, 94.05.12,
+Žin., 1994, Nr. 39-702 (94.05.25)
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
+Nr. I-1545,
+96.09.25, Žin., 1996, Nr.98-2232 (96.10.11)
+ 
  
      46 straipsnis.
 Ginčų, kylančių iš valstybinio socialinio
@@ -1613,10 +1746,9 @@ pat Valstybinio socialinio  draudimo  pašalpų
 nuostatuose numatyta
 tvarka.
  
-Straipsnio
-pakeitimai:
-{#94J\AA0676 ;} Nr.
-1-676, 94.11.29, Žin., 1994, Nr. 96-1874 (94.12.14)
+Straipsnio pakeitimai:
+Nr. 1-676, 94.11.29,
+Žin., 1994, Nr. 96-1874 (94.12.14)
  
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS
@@ -1628,5 +1760,3 @@ V.LANDSBERGIS
 Vilnius, 1991 m.
 gegužės 21 d.
      Nr. I-1336
- 
-_
