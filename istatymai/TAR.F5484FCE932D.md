@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F5484FCE932D"
 
 # Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo
 
+Suvestinė redakcija nuo 1994-11-29 iki 1994-12-13
+ 
+Įstatymas paskelbtas: Žin. 1994, Nr. 60-1182, i. k. 0941010ISTA000I-551
+ 
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
@@ -210,7 +215,10 @@ Teismas, nuteisdamas asmenį mirties bausme, gali pakeisti ją laisvės atėmimu
 
 Asmenys, kuriems mirties bausmė pakeista laisvės atėmimu iki gyvos galvos, laikomi kalėjime.“
 
-16. Kodekso 251, 27, 28, 31, 34, 341, 36, 38, 381, 46, 47, 481, 511, 52, 53 ir 60 straipsnius pripažinti netekusiais galios.
+16. Kodekso 251, 27, 28, 31, 33, 34, 341, 36, 38, 381, 46, 47, 481, 511, 52, 53 ir 60 straipsnius pripažinti netekusiais galios.
+Straipsnio dalies pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
 17. 25 straipsnį išdėstyti taip:
 
@@ -220,15 +228,15 @@ Laisvės atėmimas yra pagrindinė bausmė, teismo skiriama baudžiamojo įstaty
 
 Laisvės atėmimo laikas skaičiuojamas metais ir mėnesiais.
 
-Atlikti laisvės atėmimo bausmę teismo nuosprendžiu skiriama darbų kolonijose-gyvenvietėse, bendrojo, sustiprintojo ir griežtojo režimų kolonijose arba kalėjime, taip pat bendrojo ir sustiprintojo režimų auklėjimo darbų kolonijose.
+Atlikti laisvės atėmimo bausmę teismo nuosprendžiu skiriama pataisos darbų kolonijose-gyvenvietėse, bendrojo, sustiprintojo ir griežtojo režimų kolonijose arba kalėjime, taip pat bendrojo ir sustiprintojo režimų auklėjimo darbų kolonijose.
 
 Atlikti bausmę pataisos darbų kolonijose skiriama vyrams:
 
 pirmą kartą nuteisiamiems laisvės atėmimu už nusikaltimus, padarytus dėl neatsargumo, – kolonijose-gyvenvietėse asmenims, padariusiems nusikaltimus dėl neatsargumo;
 
-pirmą kartą nuteistiems laisvės atėmimu ne daugiau kaip penkeriems metams už nesunkius tyčinius nusikaltimus, būtent: neteisėtą aborto padarymą (124 straipsnio 2 ir 3 dalys), vengimą išlaikyti vaikus (125 straipsnis), palikimą pavojingoje gyvybei padėtyje (128 straipsnio 2 dalis), šmeižimą (132 straipsnis), įžeidimą (133 straipsnio 2 dalis), statybos taisyklių pažeidimą (215 straipsnis), neteisėtą statybinių medžiagų įgijimą (216 straipsnis), įvaikinimo paslapties pagarsinimą (2171 straipsnio 2 dalis), melagingą paliudijimą (218 straipsnis), įtraukimą nepilnamečio į nusikalstamą veiklą arba girtavimą (241 straipsnio 2 dalis), sukčiavimą be sunkinančių aplinkybių (274 straipsnio 1 dalis), turto pasisavinimą arba iššvaistymą be sunkinančių aplinkybių (275 straipsnio 1 dalis), piktnaudžiavimą tarnyba (285 straipsnis), tarnybinį suklastojimą (289 straipsnis), melagingą pranešimą apie nusikaltimą (291 straipsnis), melagingą įskundimą asmens (292 straipsnis), melagingus parodymus, išvadas, paaiškinimus ir vertimus (293 straipsnis), nepranešimą apie nusikaltimą (294 straipsnis), falsifikuotą prekių gaminimą sunkinančiomis aplinkybėmis (309 straipsnio 2 dalis), vartotojų apgaulę (311 straipsnis), tyčinį bankrotą (315 straipsnis), pramoninį šnipinėjimą (317 straipsnis), apgaulingą apskaitos vedimą (323 straipsnis), neteisingų duomenų apie pajamas pateikimą (324 straipsnis), neteisėtas finansines operacijas (326 straipsnis), neteisėtą medžiojimą (330 straipsnis), neteisėtą žvejybą ar retų ir nykstančių gyvūnų gaudymą (331 straipsnis), Lietuvos Respublikos kontinentinio šelfo įstatymų pažeidimą (332 straipsnis) – kolonijose, gyvenvietėse asmenims, padariusiems tyčinius nusikaltimus;
+pirmą kartą nuteistiems laisvės atėmimu ne daugiau kaip penkeriems metams už nesunkius tyčinius nusikaltimus, būtent: neteisėtą aborto padarymą (124 straipsnio 2 ir 3 dalys), vengimą išlaikyti vaikus (125 straipsnis), palikimą pavojingoje gyvybei padėtyje (128 straipsnio 2 dalis), šmeižimą (132 straipsnis), įžeidimą (133 straipsnio 2 dalis), statybos taisyklių pažeidimą (215 straipsnis), neteisėtą statybinių medžiagų įgijimą (216 straipsnis), įvaikinimo paslapties pagarsinimą (2171 straipsnio 2 dalis), melagingą paliudijimą (218 straipsnis), įtraukimą nepilnamečio į nusikalstamą veiklą arba girtavimą (241 straipsnio 2 dalis), sukčiavimą be sunkinančių aplinkybių (274 straipsnio 1 dalis), turto pasisavinimą arba iššvaistymą be sunkinančių aplinkybių (275 straipsnio 1 dalis), piktnaudžiavimą tarnyba (285 straipsnis), tarnybinį suklastojimą (289 straipsnis), melagingą pranešimą apie nusikaltimą (291 straipsnis), melagingą įskundimą asmens (292 straipsnis), melagingus parodymus, išvadas, paaiškinimus ir vertimus (293 straipsnis), nepranešimą apie nusikaltimą (294 straipsnis), falsifikuotą prekių gaminimą sunkinančiomis aplinkybėmis (309 straipsnio 2 dalis), vartotojų apgaulę (311 straipsnis), tyčinį bankrotą (315 straipsnis), pramoninį šnipinėjimą (317 straipsnis), apgaulingą apskaitos vedimą (323 straipsnis), neteisingų duomenų apie pajamas pateikimą (324 straipsnis), neteisėtas finansines operacijas (326 straipsnis), neteisėtą medžiojimą (330 straipsnis), neteisėtą žvejybą ar retų ir nykstančių gyvūnų gaudymą (331 straipsnis), Lietuvos Respublikos kontinentinio šelfo įstatymų pažeidimą (332 straipsnis) – kolonijose - gyvenvietėse asmenims, padariusiems tyčinius nusikaltimus;
 
-pirmą kartą nuteisiamiems laisvės atėmimu už nesunkius tyčinius nusikaltimus, išskyrus nurodytus šio straipsnio penktosios dalies trečiojoje pastraipoje, – bendrojo režimo kolonijose;
+pirmą kartą nuteisiamiems laisvės atėmimu už nesunkius tyčinius nusikaltimus, išskyrus nurodytus šio straipsnio ketvirtosios dalies trečiojoje pastraipoje, – bendrojo režimo kolonijose;
 
 pirmą kartą nuteisiamiems laisvės atėmimu už sunkius nusikaltimus – sustiprintojo režimo kolonijose;
 
@@ -236,7 +244,7 @@ nuteisiamiems už itin pavojingus valstybinius nusikaltimus (62–70 straipsniai
 
 Atlikti bausmę pataisos darbų kolonijose skiriama moterims:
 
-pirmą kartą nuteisiamoms laisvės atėmimu už nusikaltimus, padarytus dėl neatsargumo, – kolonijose-gyvenvietėse asmenims, padariusiems nusikaltimus dėl neatsargumo; pirmą kartą nuteisiamoms už tyčinius nusikaltimus, nurodytus šio straipsnio penktosios dalies trečiojoje pastraipoje, – kolonijose-gyvenvietėse asmenims, padariusiems tyčinius nusikaltimus; kitoms nuteisiamoms laisvės atėmimu moterims – bendrojo režimo kolonijose.
+pirmą kartą nuteisiamoms laisvės atėmimu už nusikaltimus, padarytus dėl neatsargumo, – kolonijose-gyvenvietėse asmenims, padariusiems nusikaltimus dėl neatsargumo; pirmą kartą nuteisiamoms už tyčinius nusikaltimus, nurodytus šio straipsnio ketvirtosios dalies trečiojoje pastraipoje, – kolonijose-gyvenvietėse asmenims, padariusiems tyčinius nusikaltimus; kitoms nuteisiamoms laisvės atėmimu moterims – bendrojo režimo kolonijose.
 
 Atlikti bausmę auklėjimo darbų kolonijose skiriama:
 
@@ -244,7 +252,7 @@ nepilnamečiams, pirmą kartą nuteisiamiems laisvės atėmimu, taip pat nepilna
 
 nepilnamečiams, pirmiau atlikusiems laisvės atėmimo bausmę, – sustiprintojo režimo kolonijose.
 
-Atsižvelgdamas į padaryto nusikaltimo pobūdį ir pavojingumo laipsnį, kaltininko asmenybę ir kitas bylos aplinkybes, teismas, nurodydamas priimto sprendimo motyvus, gali paskirti atlikti laisvės atėmimo bausmę: pirmą kartą nuteistiems už nusikaltimus, padarytus dėl neatsargumo, taip pat už tyčinius nusikaltimus, nurodytus šio straipsnio penktosios dalies trečiojoje pastraipoje, – bendrojo režimo pataisos darbų kolonijose; kitiems nuteistiems laisvės atėmimu, bet nepripažintiems itin pavojingais recidyvistais, – bet kurios rūšies pataisos darbų kolonijose, išskyrus kolonijas-gyvenvietes; nuteistiems nepilnamečiams – bendrojo režimo auklėjimo darbų kolonijose vietoj sustiprintojo režimo kolonijų.
+Atsižvelgdamas į padaryto nusikaltimo pobūdį ir pavojingumo laipsnį, kaltininko asmenybę ir kitas bylos aplinkybes, teismas, nurodydamas priimto sprendimo motyvus, gali paskirti atlikti laisvės atėmimo bausmę: pirmą kartą nuteistiems už nusikaltimus, padarytus dėl neatsargumo, taip pat už tyčinius nusikaltimus, nurodytus šio straipsnio ketvirtosios dalies trečiojoje pastraipoje, – bendrojo režimo pataisos darbų kolonijose; kitiems nuteistiems laisvės atėmimu, bet nepripažintiems itin pavojingais recidyvistais, – bet kurios rūšies pataisos darbų kolonijose, išskyrus kolonijas-gyvenvietes; nuteistiems nepilnamečiams – bendrojo režimo auklėjimo darbų kolonijose vietoj sustiprintojo režimo kolonijų.
 
 Laisvės atėmimas, ištisai ar iš dalies atliktinas kalėjime, gali būti paskirtas:
 
@@ -258,15 +266,35 @@ Asmenys, nuteisti pagal šio kodekso 2271 straipsnį, laisvės atėmimo bausmę 
 
 Paskirtą nuteistajam pataisos darbų įstaigos rūšį pakeičia teismas Lietuvos Respublikos įstatymų nustatytais pagrindais ir tvarka.“
 
-18. 26 straipsnio pirmąją dalį pakeisti taip:
+Straipsnio dalies pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
-1) iš 1 punkto išbraukti žodžius „netikrų pinigų ar vertybinių popierių pagaminimą arba realizavimą sunkinančiomis aplinkybėmis (86 straipsnio 2 dalis), valiutos operacijų taisyklių pažeidimą sunkinančiomis aplinkybėmis (87 straipsnio 2 dalis), plėšimą, turint tikslą užvaldyti valstybinį ar visuomeninį turtą, sunkinančiomis aplinkybėmis (92 straipsnio 2 dalis), valstybinio ar visuomeninio turto grobimą itin stambiu mastu (95 straipsnis).“, „ir 254 straipsnio „c“ punktas),“, „plėšimą sunkinančiomis aplinkybėmis (148 straipsnio 2 ir 3 dalys)“;
+18. 26 straipsnį išdėstyti taip:
 
-2) po žodžių „orlaivio nuvarymą (2492 straipsnis)“ įrašyti žodžius „plėšimą sunkinančiomis aplinkybėmis (272 straipsnio 2 ir 3 dalys), netikrų pinigų ar vertybinių popierių pagaminimą, laikymą arba paleidimą apyvarton sunkinančiomis aplinkybėmis (327 straipsnio 2 dalis)“;
+„26 straipsnis. Itin pavojingas recidyvistas
 
-3) iš 2 punkto išbraukti žodžius „netikrų pinigų ar vertybinių popierių pagaminimą arba realizavimą (86 straipsnis), valiutos operacijų taisyklių pažeidimą (87 straipsnis), valstybinio ir visuomeninio turto grobimą vagystės būdu sunkinančiomis aplinkybėmis (90 straipsnio 2, 3 ir 4 dalys), valstybinio ar visuomeninio turto grobimą atvirosios vagystės būdu sunkinančiomis aplinkybėmis (91 straipsnio 2, 3 ir 4 dalys), plėšimą, turint tikslą užvaldyti valstybinį ar visuomeninį turtą (92 straipsnis), valstybinio ar visuomeninio turto grobimą sukčiavimo būdu sunkinančiomis aplinkybėmis (93 straipsnio 2 ir 3 dalys), valstybinio ir visuomeninio turto grobimą pasisavinimo, išeikvojimo būdu arba piktnaudžiaujant tarnybine padėtimi sunkinančiomis aplinkybėmis (94 straipsnio 2 ir 3 dalys), valstybinio ar visuomeninio turto grobimą itin stambiu mastu (95 straipsnis),“, „ir 254 straipsnio „c“ punktas),“, „vagystę sunkinančiomis aplinkybėmis (146 straipsnio 2 ir 3 dalys), atvirąją vagystę sunkinančiomis aplinkybėmis (147 straipsnio 2 ir 3 dalys), plėšimą (148 straipsnis), sukčiavimą sunkinančiomis aplinkybėmis (151 straipsnio 2 ir 3 dalys), spekuliaciją sunkinančiomis aplinkybėmis (164 straipsnio 2 ir 3 dalys), kyšio priėmimą (180 straipsnis)“;
+Itin pavojingu recidyvistu gali būti teismo nuosprendžiu pripažįstamas:
 
-4) po žodžių „orlaivio nuvarymą (2492 straipsnis)“ įrašyti žodžius „vagystę sunkinančiomis aplinkybėmis (271 straipsnio 2, 3 ir 4 dalys), plėšimą (272 straipsnis), turto prievartavimą sunkinančiomis aplinkybėmis (273 straipsnio 2 ir 3 dalys), sukčiavimą sunkinančiomis aplinkybėmis (274 straipsnio 2 ir 3 dalys), turto pasisavinimą arba iššvaistymą sunkinančiomis aplinkybėmis (275 straipsnio 2 ir 3 dalys), kyšio priėmimą (282 straipsnis), netikrų pinigų ar vertybinių popierių pagaminimą, laikymą arba paleidimą apyvarton (327 straipsnis), operacijų su pinigais ar vertybiniais popieriais taisyklių pažeidimą (329 straipsnis)“.
+1) asmuo, kuris pirmiau buvo nuteistas laisvės atėmimu už itin pavojingą valstybinį nusikaltimą (62-70 straipsniai), banditizmą (75 straipsnis), tyčinį nužudymą (104 ir 105 straipsniai), išžaginimą, jeigu tai padarė grupė asmenų arba jeigu tai sukėlė itin sunkias pasekmes, taip pat išžaginimą nepilnametės arba mažametės (118 straipsnio 3 ir 4 dalys), įkaitų paėmimą (1311 straipsnis), kėsinimąsi į policininko ar policijos rėmėjo gyvybę (2031 straipsnis), radioaktyviųjų medžiagų grobimą (2342 straipsnis), orlaivio nuvarymą (2492 straipsnis), plėšimą sunkinančiomis aplinkybėmis (272 straipsnio 2 ir 3 dalys), netikrų pinigų ar vertybinių popierių pagaminimą, laikymą arba paleidimą apyvarton sunkinančiomis aplinkybėmis (327 straipsnio 2 dalis) ir vėl padarė kurį nors iš šių nusikaltimų, už kurį jis nuteisiamas laisvės atėmimu ne mažiau kaip penkeriems metams;
+
+2) asmuo, kuris pirmiau buvo bet kuria eile du kartus nuteistas laisvės atėmimu už itin pavojingą valstybinį nusikaltimą (62-70 straipsniai), piktnaudžiavimą oficialiais įgaliojimais (742 straipsnis), banditizmą (75 straipsnis), masines riaušes (78 straipsnis), tyčinį nužudymą (104 ir 105 straipsniai), tyčinį sunkų kūno sužalojimą (111 straipsnis), išžaginimą (118 straipsnis), įkaitų paėmimą (1311 straipsnis), kėsinimąsi į policininko ar policijos rėmėjo gyvybę (2031 straipsnis), itin piktybinį chuliganizmą (225 straipsnio 3 dalis), nusikalstamo susivienijimo organizavimą, vadovavimą ar dalyvavimą jame (2271 straipsnis), asmens terorizavimą sunkinančiomis aplinkybėmis (2272 straipsnio 2 dalis), narkotinių priemonių grobimą, neteisėtą gaminimą, įsigijimą, laikymą, gabenimą ar siuntimą, turint tikslą jas realizuoti, tokių priemonių neteisėtą realizavimą (2321 straipsnio 3 ir 4 dalys), taip pat jų grobimą sunkinančiomis aplinkybėmis (2322 straipsnio 2 ir 3 dalys), neteisėtą šaunamojo ginklo, šaudmenų ir sprogstamųjų medžiagų nešiojimą, laikymą, įgijimą, gaminimą, realizavimą ir perdavimą sunkinančiomis aplinkybėmis (234 straipsnio 2 dalis), šaunamojo ginklo, šaudmenų ar sprogstamųjų medžiagų grobimą sunkinančiomis aplinkybėmis (2341 straipsnio 2 ir 3 dalys), nusikalstamų grupių ginklavimą (2344 straipsnis), radioaktyviųjų medžiagų grobimą (2342 straipsnis), orlaivio nuvarymą (2492 straipsnis), vagystę sunkinančiomis aplinkybėmis (271 straipsnio 2, 3 ir 4 dalys), plėšimą (272 straipsnis), turto prievartavimą sunkinančiomis aplinkybėmis (273 straipsnio 2 ir 3 dalys), sukčiavimą sunkinančiomis aplinkybėmis (274 straipsnio 2 ir 3 dalys), turto pasisavinimą arba iššvaistymą sunkinančiomis aplinkybėmis (275 straipsnio 2 ir 3 dalys), kyšio priėmimą (282 straipsnis), netikrų pinigų ar vertybinių popierių pagaminimą, laikymą arba paleidimą apyvarton (327 straipsnis), operacijų su pinigais ar vertybiniais popieriais taisyklių pažeidimą (329 straipsnis) ir vėl padarė kurį nors iš šių nusikaltimų, už kurį jis nuteisiamas laisvės atėmimu daugiau kaip trejiems metams;
+
+3) asmuo, kuris pirmiau buvo bet kuria eile tris ar daugiau kartų nuteistas laisvės atėmimu už piktybinį chuliganizmą (225 straipsnio 2 dalis) arba už nusikaltimus, suminėtus šio straipsnio pirmosios dalies 2 punkte, ir vėl padarė piktybinį chuliganizmą (225 straipsnio 2 dalis), arba kurį nors iš šio straipsnio pirmosios dalies 2 punkte suminėtų nusikaltimų, už kurį jis nuteisiamas laisvės atėmimu;
+
+4) asmuo, kuris, atlikdamas laisvės atėmimo bausmę už kurį nors iš šio straipsnio pirmosios dalies 2 ir 3 punktuose suminėtų nusikaltimų, vėl padarė tyčinį nusikaltimą, už kurį jis nuteisiamas laisvės atėmimu ne mažiau kaip penkeriems metams.
+
+Spręsdamas asmens pripažinimo itin pavojingu recidyvistu klausimą, teismas atsižvelgia į kaltininko asmenybę, padarytų nusikaltimų pavojingumo laipsnį, jų motyvus, nusikalstamų ketinimų įvykdymo laipsnį, į dalyvavimo padarant nusikaltimus laipsnį bei pobūdį ir kitas bylos aplinkybes. Teismo sprendimas turi būti motyvuotas nuosprendyje.
+
+Sprendžiant asmens pripažinimo itin pavojingu recidyvistu klausimą, neatsižvelgiama į teistumą už nusikaltimą, kurį jis padarė būdamas jaunesnis kaip aštuoniolikos metų, taip pat į teistumą, kuris yra panaikintas arba išnykęs įstatymo nustatyta tvarka.
+
+Asmens pripažinimas itin pavojingu recidyvistu panaikinamas panaikinant jo teistumą.
+
+Lietuvos Respublikos baudžiamojo kodekso straipsniai, numatantys atsakomybę už itin pavojingo recidyvisto padarytus nusikaltimus, taikomi tais atvejais, kai asmuo įstatymo nustatyta tvarka buvo pripažintas itin pavojingu recidyvistu iki šio nusikaltimo padarymo.“ 
+
+Straipsnio dalies pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
 19. 29 ir 30 straipsnius išdėstyti taip:
 
@@ -334,7 +362,12 @@ Nusikaltimo įrankiai ir priemonės, taip pat pinigai ar kitos vertybės, gautos
 
 „10) kad nusikaltimą padarė asmuo būdamas girtas, apsvaigęs nuo narkotinių ar toksinių priemonių.“;
 
-2) 12 punktą pripažinti netekusiu galios.
+2) 12 punktą pripažinti netekusiu galios;
+
+3) iš pirmosios dalies 6 punkto išbraukti žodžius „arba nepilnamečiai buvo įtraukti dalyvauti nusikaltimo padaryme 
+Papildyta straipsnio punktu:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
 23. Papildyti Kodeksą 411 straipsniu:
 
@@ -480,7 +513,10 @@ Tokiam nepilnamečiui teismas paskiria priverčiamąsias auklėjamojo pobūdžio
 
 „2) nuteistiems už narkotinių priemonių grobimą sunkinančiomis aplinkybėmis (2322 straipsnio 2 dalis), išskyrus plėšimo būdu, radioaktyviųjų medžiagų grobimą (2342 straipsnis), turto prievartavimą sunkinančiomis aplinkybėmis (273 straipsnio 2 ir 3 dalys) –“;
 
-4) iš aštuntosios dalies 2 punkto išbraukti žodžius „plėšimą turint tikslą užvaldyti valstybinį ar visuomeninį turtą sunkinančiomis aplinkybėmis (92 straipsnio 2 dalis), valstybinio ar visuomeninio turto grobimą itin stambiu mastu (95 straipsnis), plėšimą sunkinančiomis aplinkybėmis (148 straipsnio 2 ir 3 dalys)“. Po žodžių „nusikalstamų grupių ginklavimą (2344 straipsnis)“ įrašyti žodžius „plėšimą sunkinančiomis aplinkybėmis (272 straipsnio 2 ir 3 dalys)“;
+4) iš aštuntosios dalies 2 punkto išbraukti žodžius „veiksmai, kuriais dezorganizuojamas laisvės atėmimo įstaigų darbas (76 straipsnis)“, „plėšimą turint tikslą užvaldyti valstybinį ar visuomeninį turtą sunkinančiomis aplinkybėmis (92 straipsnio 2 dalis), valstybinio ar visuomeninio turto grobimą itin stambiu mastu (95 straipsnis), padarytą plėšimo būdu, plėšimą sunkinančiomis aplinkybėmis (148 straipsnio 2 ir 3 dalys)“. Po žodžių „nusikalstamų grupių ginklavimą (2344 straipsnis)“ įrašyti žodžius „plėšimą sunkinančiomis aplinkybėmis (272 straipsnio 2 ir 3 dalys), „laisvės atėmimo įstaigų darbo dezorganizavimas (303 straipsnis)“;
+Straipsnio punkto pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
 5) devintąją ir dešimtąją dalis išdėstyti taip:
 
@@ -490,7 +526,10 @@ Pakeičiant neatliktąją laisvės atėmimo bausmės dalį pataisos darbais, ši
 
 33. 541 straipsnį pakeisti taip:
 
-1) iš 3 punkto išbraukti ženklus ir žodį „(gaujos)“;
+1) iš 3 punkto išbraukti ženklus ir žodį „(gaujos)“, o vietoj žodžių „išžaginimą (118 straipsnis)“ įrašyti žodžius „išžaginimą, jeigu tai padarė grupė asmenų arba sukėlė itin sunkias pasekmes, taip pat išžaginimą nepilnametės, mažametės (118 straipsnio 3 ir 4 dalys); 
+Straipsnio punkto pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
 2) 6 punktą pripažinti netekusiu galios.
 
@@ -498,9 +537,23 @@ Pakeičiant neatliktąją laisvės atėmimo bausmės dalį pataisos darbais, ši
 
 1) ketvirtojoje dalyje vietoj skaičių „2–6“ įrašyti skaičius „2–5“;
 
-2) septintojoje dalyje vietoj žodžių „nuo penkių tūkstančių iki penkiolikos tūkstančių rublių“ įrašyti žodžius „nuo 10 iki 40 MGL dydžio“.
+2) septintojoje dalyje vietoj žodžių „nuo penkių tūkstančių iki penkiolikos tūkstančių rublių“ įrašyti žodžius „nuo 10 iki 40 MGL dydžio“;
 
-35. Iš 55 straipsnio šeštosios dalies 2 punkto išbraukti žodžius „plėšimą turint tikslą užvaldyti valstybinį ar visuomeninį turtą sunkinančiomis aplinkybėmis (92 straipsnio 3 dalis), plėšimą sunkinančiomis aplinkybėmis (148 straipsnio 2 ir 3 dalys), prievartavimą sunkinančiomis aplinkybėmis (150 straipsnio 3 dalis)“. Po žodžių „orlaivio nuvarymą (2492 straipsnis)“ įrašyti žodžius „plėšimą sunkinančiomis aplinkybėmis (272 straipsnio 2 ir 3 dalys), turto prievartavimą sunkinančiomis aplinkybėmis (273 straipsnio 2 ir 3 dalys).“
+3) trečiosios dalies 4 punkte po žodžių „pavojingiems recidyvistams“ įrašyti žodžius „ir asmenims, nuteistiems už
+išžaginimą pagal šio kodekso 118 straipsnio pirmąją ir antrąją dalis, 
+Papildyta straipsnio punktu:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
+
+35. 55 straipsnį pakeisti taip:
+
+1) trečiojoje dalyje vietoj žodžių „nepilnamečių reikalų komisijos arba stebėjimo komisijos prie vietinės Liaudies deputatų tarybos vykdomojo komiteto“ įrašyti žodžius „Vaikų teisių apsaugos tarnybos prie Socialinės apsaugos ministerijos;
+
+2) iš šeštosios dalies 2 punkto išbraukti žodžius „plėšimą turint tikslą užvaldyti valstybinį ar visuomeninį turtą sunkinančiomis aplinkybėmis (92 straipsnio 3 dalis), prievartavimą valstybinio ar visuomeninio turto sunkinančiomis aplinkybėmis (96 straipsnio 3 dalis), plėšimą sunkinančiomis aplinkybėmis (148 straipsnio 2 ir 3 dalys), prievartavimą sunkinančiomis aplinkybėmis (150 straipsnio 3 dalis)“. Po žodžių „orlaivio nuvarymą (2492 straipsnis)“ įrašyti žodžius „plėšimą sunkinančiomis aplinkybėmis (272 straipsnio 2 ir 3 dalys), turto prievartavimą sunkinančiomis aplinkybėmis (273 straipsnio 2 ir 3 dalys)“, o vietoj žodžių „milicijos darbuotojo ir liaudies draugovininko“ įrašyti žodžius „policininko ar policijos rėmėjo“. 
+
+Straipsnio dalies pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
 36. 57 straipsnį išdėstyti taip:
 
@@ -552,9 +605,15 @@ Jeigu nepilnametis nevykdo arba netinkamai vykdo jam paskirtą priverčiamąją 
 
 Kėsinimasis į Lietuvos Respublikos Prezidento, Seimo nario, Ministro Pirmininko, ministro arba Seimo skiriamo pareigūno gyvybę ryšium su jų valstybine ar visuomenine veikla“.
 
-40. Pripažinti netekusiais galios 76, 77, 86, 87, 88, 108, 114, 123, 1231, 1232, 207, 2071, 2121, 228, 2327, 240, 250 straipsnius.
+40. Pripažinti netekusiais galios 76, 77, 86, 87, 88, 108, 114, 123, 1231, 1232, 2071, 2121, 228, 2327, 240, 250 straipsnius.
+Straipsnio dalies pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
-41. 89 straipsnio dispozicijoje po skaičiaus „75“ įrašyti žodį „ir“, o žodžius „ir 86“ išbraukti.
+41. 89 straipsnio dispozicijoje po skaičiaus „70“ įrašyti žodį „ir“, o skaičius „77 ir 86“ išbraukti
+Straipsnio dalies pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
 42. 111 straipsnio pirmojoje dalyje, 112 straipsnio pirmojoje dalyje, 113, 115 straipsniuose, 116 straipsnio pirmojoje dalyje vietoj žodžių „kūno sužalojimas“ įrašyti žodžius „žmogaus kūno sužalojimas, užkrėtimas liga ar kitoks susargdinimas“.
 
@@ -638,7 +697,10 @@ Kėsinimasis į Lietuvos Respublikos Prezidento, Seimo nario, Ministro Pirminink
 
 79. Iš 248, 2481 straipsnių sankcijų išbraukti žodžius „nuo vieno šimto iki trijų šimtų rublių“.
 
-80. Iš 2482 straipsnio pirmosios ir antrosios dalių sankcijų išbraukti žodžius „penkių šimtų rublių“.
+80. Iš 2482 straipsnio pirmosios ir antrosios dalių sankcijų išbraukti žodžius „penkių šimtų rublių“, o iš antrosios dalies sankcijos išbraukti žodžius „ir atlygintinu transporto priemonės paėmimu ar be paėmimo“.
+Straipsnio dalies pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
 81. 214 straipsnį išdėstyti taip:
 
@@ -991,9 +1053,12 @@ Neatsargus svetimo turto sunaikinimas ar sužalojimas, padaręs nukentėjusiajam
 baudžiamas laisvės atėmimu iki trejų metų su bauda ar be baudos arba pataisos darbais iki dvejų metų, arba bauda.
  
 
-280 straipsnis. Transporto priemonių nuvažiavimas be leidimo
+280 straipsnis. Sąvokų išaiškinimas
 
-(panaikintas)
+Šio skirsnio straipsniuose numatytas turto pagrobimas laikomas stambiu, jeigu pagrobtojo turto vertė viršija 250 minimalių gyvenimo lygių (MGL) dydžio sumą. 
+
+Straipsnio pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
  
 
 281 straipsnis. Nusikalstamu būdu gauto turto įgijimas arba realizavimas
@@ -1054,9 +1119,12 @@ baudžiamas bauda su atėmimu teisės eiti tam tikras pareigas ar dirbti tam tik
 
 287 straipsnis. Tarnybos įgaliojimų viršijimas
 
-Valstybės pareigūno ar valstybės tarnautojo viršijimas įstatymo suteiktų jam tarnybos teisių arba padaręs didelę žalą valstybės interesams ar kitiems asmenims – 
+Valstybės pareigūno ar valstybės tarnautojo viršijimas įstatymo suteiktų jam tarnybos teisių savanaudiškais tikslais arba padaręs didelę žalą valstybės interesams ar kitiems asmenims – 
 
 baudžiamas laisvės atėmimu iki penkerių metų arba pataisos darbais iki dvejų metų, arba bauda su atėmimu teisės eiti tam tikras pareigas ar dirbti tam tikrą darbą arba užsiimti tam tikra veikla iki penkerių metų.
+
+Straipsnio pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
  
 
 288 straipsnis. Tarnybos pareigų neatlikimas
@@ -1472,6 +1540,56 @@ Užsienio piliečių tyrimas, žvalgymas ir eksploatavimas gamtos turtų ir vykd
 baudžiami laisvės atėmimu iki vienerių metų ir bauda arba be jos, arba bauda.“
  
 
+89. Iš 125 straipsnio išbraukti žodį „liaudies“. 
+Papildyta straipsnio dalimi:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
+
+90. 207 straipsnį išdėstyti taip:
+
+„207 straipsnis. Oficialaus dokumento suklastojimas ar suklastoto oficialaus dokumento realizavimas ar panaudojimas
+
+Oficialaus dokumento suklastojimas, taip pat žinomai suklastoto oficialaus dokumento realizavimas ar panaudojimas – 
+
+baudžiami laisvės atėmimu iki trejų metų arba pataisos darbais iki dvejų metų, arba bauda.
+
+Tos pačios veikos, padarytos itin svarbaus oficialaus dokumento atžvilgiu arba sukėlusios žymią žalą valstybės ar visuomenės interesams arba asmens teisėms ar teisėtiems interesams – 
+baudžiami laisvės atėmimu iki penkerių metų ir bauda arba bauda.“ 
+
+Papildyta straipsnio dalimi:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
+
+91. 221 straipsnyje vietoj raidžių „TSRS“ įrašyti žodžius „Lietuvos Respublikos“. 
+Papildyta straipsnio dalimi:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
+
+92. 2452 ir 2454 straipsniuose, 2453 straipsnio pirmojoje dalyje vietoj žodžių „tarybinių“ ir „tarybinio“ įrašyti žodžius „Lietuvos Respublikos“. 
+Papildyta straipsnio dalimi:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
+
+93. 39 straipsnyje po žodžių „jo pavojingumo“ išbraukti žodį „visuomenei“. 
+Papildyta straipsnio dalimi:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
+
+94. Iš 138, 139, 140 straipsnių, 1401 straipsnio pirmosios ir antrosios dalių, 141 straipsnio pirmosios dalies, 2451 straipsnio pirmosios dalies sankcijų išbraukti žodžius „arba atleidimu iš pareigų“. 
+Papildyta straipsnio dalimi:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
+
+95. Iš 2361 straipsnio pirmosios dalies sankcijos išbraukti žodžius „o esant savanaudiškam suinteresuotumui, – bauda“. 
+Papildyta straipsnio dalimi:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
+
+96. 62 straipsnio pirmojoje dalyje ir 70 straipsnyje vietoj žodžių „Laikinuoju Pagrindiniu Įstatymu (Konstitucija)“ įrašyti žodį „Konstitucija“. 
+Papildyta straipsnio dalimi:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
+
 II. Pakeisti ir papildyti Lietuvos Respublikos pataisos darbų kodeksą (Žin., 1971, Nr. 20-142; 1973, Nr. 21-195; 1977, Nr. 9-107; 1981, Nr. 28-331; 1983, Nr. 13-129; 1985, Nr. 28-308; 1986, Nr. 19-198, Nr. 36-379; 1987, Nr. 33-391; 1990, Nr. 23-554; 1991, Nr. 8-214, Nr. 36-975):
 
 1.1 straipsnio pavadinimą ir pirmąją dalį išdėstyti taip:
@@ -1490,7 +1608,7 @@ BENDRIEJI LAISVĖS ATĖMIMO IR PATAISOS DARBŲ
 BE LAISVĖS ATĖMIMO BAUSMIŲ VYKDYMO NUOSTATAI
  
 
-5 straipsnis.         Įstaigos ir organai, vykdantys teismų nuosprendžius, kuriais nuteista laisvės atėmimu ir pataisos darbais be laisvės atėmimo
+5 straipsnis. Įstaigos ir organai, vykdantys teismų nuosprendžius, kuriais nuteista laisvės atėmimu ir pataisos darbais be laisvės atėmimo
 
 Teismų nuosprendžius, kuriais nuteista laisvės atėmimu ir pataisos darbais be laisvės atėmimo, Lietuvos Respublikoje vykdo Vidaus reikalų ministerijos pataisos darbų įstaigos ir organai.
 
@@ -1513,7 +1631,7 @@ Pagrindinės nuteistųjų pataisymo priemonės yra bausmės atlikimo režimas, n
 Šios priemonės taikomos atsižvelgiant į padaryto nusikaltimo pobūdį ir pavojingumo laipsnį, nuteistojo asmenybę, taip pat jo elgesį bausmės atlikimo metu bei pažiūrą į darbą.
  
 
-8 straipsnis.         Asmenų, atliekančių laisvės atėmimo ir pataisos darbų be laisvės atėmimo bausmę, teisinė padėtis
+8 straipsnis. Asmenų, atliekančių laisvės atėmimo ir pataisos darbų be laisvės atėmimo bausmę, teisinė padėtis
 
 Asmenys, atliekantys laisvės atėmimo ir pataisos darbų be laisvės atėmimo bausmę, turi teises ir pareigas, įstatymų nustatytas Lietuvos Respublikos piliečiams, su apribojimais, įstatymų nustatytais nuteistiesiems, taip pat kylančiais iš teismo nuosprendžio ir režimo, kurį šis kodeksas nustato tos rūšies bausmei atlikti.
 
@@ -1532,13 +1650,14 @@ Visa pataisos darbų įstaigų ir organų, vykdančių teismų nuosprendžius, k
 Atliekantys bausmę asmenys privalo nenukrypstamai laikytis įstatymų, kurie nustato jiems teismo nuosprendžiu paskirtos bausmės vykdymo tvarką ir sąlygas, reikalavimų.
  
 
-11 straipsnis. Prokurorinė bausmės vykdymo priežiūra
+11 straipsnis. Bausmės vykdymo kontrolė
 
-Ar tiksliai laikomasi įstatymų vykdant teismų nuosprendžius, kuriais nuteista laisvės atėmimu ir pataisos darbais be laisvės atėmimo, prižiūri Lietuvos Respublikos generalinis prokuroras ir jam pavaldūs prokurorai pagal Lietuvos Respublikos prokuratūros įstatymą.
+Nuteistų laisvės atėmimu ir pataisos darbais be laisvės atėmimo asmenų pažeistas bausmės atlikimo metu teises ir valstybės teisėtus civilinius interesus įstatymo nustatytais atvejais gina Lietuvos Respublikos generalinis prokuroras ir jam pavaldūs prokurorai.
 
-Įgyvendindamas įstatymų vykdymo priežiūrą, prokuroras privalo imtis priemonių išaiškinti ir laiku pašalinti bet kokius įstatymo pažeidimus, atstatyti pažeistas teises ir patraukti kaltininkus atsakomybėn.
+Prokuroras kontroliuoja nuosprendžių įvykdymą.“ 
 
-Pataisos darbų įstaigų administracija ir organai, vykdantys teismų nuosprendžius, kuriais nuteista laisvės atėmimu ir pataisos darbais be laisvės atėmimo, privalo vykdyti prokuroro nutarimus ir pasiūlymus dėl bausmės atlikimo taisyklių laikymosi.“
+Straipsnio pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
  
 
 4. 14 straipsnio trečiąją dalį išdėstyti taip:
@@ -1565,7 +1684,11 @@ Izoliuotai nuo kitų nuteistųjų, taip pat atskirai laikomi: nuteistieji už it
 
 7. 19 straipsnio antrosios dalies antrąjį sakinį išdėstyti taip:
 
-„Nuteistųjų perkėlimo tvarką nustato Lietuvos Respublikos vidaus reikalų ministerija, suderinusi su Generaline prokuratūra.“
+„Nuteistųjų perkėlimo tvarką nustato Lietuvos Respublikos vidaus reikalų ministerija.“
+
+Straipsnio dalies pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
 8. 20 straipsnio trečiąją pastraipą išdėstyti taip:
 
@@ -1629,7 +1752,10 @@ Laisvės atėmimu nuteistų asmenų bendrasis lavinimas bei profesinis-techninis
 
 2) iš ketvirtosios dalies pirmo sakinio išbraukti žodžius „išskyrus atvejus, numatytus Lietuvos TSR baudžiamojo kodekso 29 straipsnio septintojoje dalyje.“;
 
-3) aštuntąją dalį pripažinti netekusia galios.
+3) penktąją dalį pripažinti netekusia galios.
+Straipsnio punkto pakeitimai:
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+ 
 
 19. 100 straipsnį pakeisti taip:
 
@@ -2206,4 +2332,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-652, 1994-11-10, Žin., 1994, Nr. 92-1799 (1994-11-29), i. k. 0941010ISTA000I-652
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" pakeitimo ir papildymo
 
