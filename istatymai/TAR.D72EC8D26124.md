@@ -113,7 +113,6 @@ Nr.64-1911 (00.07.31)
 Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
 62-2236 (2001-07-18)
  
- 
 2 straipsnis.
 Pajamų mokestis neišskaitomas: 
 1) pensininkams iš
@@ -142,9 +141,9 @@ stipendijų.
 Pajamų mokestis
 taip pat neišskaitomas iš profesinių sąjungų, draugijų, kitų visuomeninių
 organizacijų ir politinių partijų pašalpų, išmokėtų savo organizacijų nariams
-iš lėšų, kurios surinktos iš fizinių asmenų nario mokesčio. Ši nuostata
-netaikoma apmokestinant pašalpas, kurias gauna asmenys, susiję su šiomis
-visuomeninėmis organizacijomis ir politinėmis partijomis darbo santykiais.
+iš lėšų, kurios surinktos iš fizinių asmenų nario mokesčio. Ši nuostata netaikoma
+apmokestinant pašalpas, kurias gauna asmenys, susiję su šiomis visuomeninėmis
+organizacijomis ir politinėmis partijomis darbo santykiais.
 Lėšų, surinktų
 iš profesinių sąjungų, draugijų, kitų visuomeninių organizacijų ir politinių
 partijų fizinių asmenų nario mokesčio, apskaitos taisykles nustato Lietuvos
@@ -167,7 +166,6 @@ VIII-1303,
 Nr. VIII-1740, 00.06.20, Žin., 2000,
 Nr.53-1522 (00.06.30)
  
- 
 3 straipsnis.
 Tarptautinis dvigubas
 apmokestinimas panaikinamas remiantis su užsienio valstybėmis sudarytomis ir
@@ -187,7 +185,6 @@ I-1184,
 Nr.
 VIII-166,
 97.03.27, Žin., 1997, Nr.28-662 (97.03.29) 
- 
  
 II. Pajamų,
 susijusių su darbo santykiais, apmokestinimo tvarka 
@@ -220,8 +217,7 @@ Nr.34-955 (00.04.26),
 Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
 62-2236 (2001-07-18)
  
- 
-* 5 straipsnis.
+5 straipsnis.
 Pagrindinėje
 darbovietėje gaunamų pajamų, susijusių su darbo santykiais, neapmokestinamasis
 minimumas yra:
@@ -250,13 +246,43 @@ neapmokestinamasis minimumas (PNM) - 115 litų.
 II grupės regėjimo invalidams, tėvams, auginantiems bent vieną vaiką invalidą,
 taip pat tėvams, auginantiems keturis ir daugiau vaikų, už ketvirtą ir
 kiekvieną paskesnį vaiką apskaičiuotas mokestis mažinamas 10 litų.
+ 
+[1 ir 2 dalių redakcija nuo 2002 m.
+balandžio 1 d.:
+Pagrindinėje
+darbovietėje gaunamų pajamų, susijusių su darbo santykiais, neapmokestinamasis
+minimumas yra:
+1) I grupės invalidams –
+430 litų;
+2) II grupės invalidams
+– 379 litai;
+3) III grupės invalidams
+– 283 litai;
+4) asmenims, turintiems
+tris ir daugiau vaikų (įvaikių) iki 18 metų, – 430 litų;
+5) motinai (įmotei) arba
+tėvui (įtėviui), neturintiems sutuoktinio ir auginantiems vieną vaiką (įvaikį)
+iki 18 metų, – 335 litai, auginantiems du ir daugiau vaikų (įvaikių) iki 18
+metų, už antrą ir kiekvieną paskesnį vaiką (įvaikį) neapmokestinamasis
+minimumas didinamas 53 litais;
+6) žemės ūkio produkciją
+gaminančių įmonių darbuotojams, kai šių įmonių pajamos (įplaukos) už realizuotą
+žemės ūkio produkciją per metus sudaro daugiau kaip 50 procentų bendrųjų
+realizavimo pajamų (įplaukų), taip pat ūkininkų, kurių ūkiai įregistruoti
+Lietuvos Respublikos ūkininko ūkio įstatymo nustatyta tvarka, samdomiems
+darbuotojams – 325 litų;
+7) kitiems šio
+straipsnio 1–6 punktuose nepaminėtiems asmenims pagrindinis neapmokestinamasis
+minimumas (PNM) – 250 litų.
+Be to, I ir II
+grupės regėjimo invalidams, tėvams (įtėviams), auginantiems bent vieną vaiką
+(įvaikį) invalidą, taip pat tėvams (įtėviams), auginantiems keturis ir daugiau
+vaikų (įvaikių), už ketvirtą ir kiekvieną paskesnį vaiką (įvaikį) apskaičiuotas
+mokestis mažinamas 12 litų.]
+ 
      Lietuvos
 Respublikos Vyriausybė šiame straipsnyje nustatytus neapmokestinamųjų minimumų
 dydžius indeksuoja pagal vartojimo kainų indeksą.
- 
-* Pastaba: 5
-straipsnyje nurodyti neapmokestinamųjų minimų dydžiai buvo indeksuoti 
-1998 m. vasario 5 d. Lietuvos Respublikos Vyriausybės nutarimu Nr.150
 Straipsnio
 pakeitimai: 
 Nr.I-1580,
@@ -269,7 +295,8 @@ Nr.I-430,
 94.04.12, Žin., 1994, Nr. 30-531
 Nr. VIII-1958, 00.09.26, Žin., 2000,
 Nr.84-2534 (00.10.06) ,įsigalioja nuo 2001.01.01
- 
+Nr. IX-646,
+2001-12-13, Žin., 2001, Nr. 111-4023 (2001-12-30), įsigalioja nuo 2002-04-01
  
      6
 straipsnis.
@@ -319,7 +346,6 @@ Nr.
 VIII-166,
 97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
  
- 
      7
 straipsnis.
      Į
@@ -351,8 +377,8 @@ nustatyta tvarka, tačiau neviršijančia 15 procentų apskaičiuotų pajamų,
 susijusių su darbo santykiais per kalendorinius metus;
 2) pensijų įmokų
 į asmenines pensijų programų dalyvių sąskaitas pagal Lietuvos Respublikos
-pensijų fondų įstatymą suma, neviršijančia 25 procentų apskaičiuotų pajamų, susijusių
-su darbo santykiais, per kalendorinius metus.
+pensijų fondų įstatymą suma, neviršijančia 25 procentų apskaičiuotų pajamų,
+susijusių su darbo santykiais, per kalendorinius metus.
 Straipsnio
 pakeitimai: 
 Nr.I-1514,
@@ -379,7 +405,6 @@ VIII-1303,
 Nr. VIII-1813, 00.07.11, Žin., 2000,
 Nr.64-1911 (00.07.31)
  
- 
      8
 straipsnis.
      Ne pagrindinėje darbovietėje gaunamos pajamos,
@@ -404,7 +429,6 @@ Nr.
 I-892,
 95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
  
- 
 8(1)
 straipsnis.
 
@@ -422,11 +446,10 @@ I-1184,
 Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
 62-2236 (2001-07-18)
  
- 
 9
 straipsnis. 
-Pajamų mokestį pagal
-šio įstatymo 4 ir 8 straipsniuose nurodytus tarifus išskaito pajamas
+Pajamų mokestį
+pagal šio įstatymo 4 ir 8 straipsniuose nurodytus tarifus išskaito pajamas
 apskaičiavusios ir išmokėjusios įmonės, įstaigos, organizacijos, tarp jų
 užsienio juridinių asmenų ir kitų organizacijų atstovybės ir nuolatinės
 buveinės, bei gyventojai, mokantys uždarbį samdomiems asmenims, ir kas
@@ -442,7 +465,6 @@ Nr. VIII-865,
 Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
 62-2236 (2001-07-18)
  
- 
 10
 straipsnis.
 
@@ -450,10 +472,10 @@ straipsnis.
 įstaigos, organizacijos ir gyventojai, gaudami iš banko įstaigų pinigus darbo
 apmokėjimui už atitinkamą mėnesį (arba mėnesio antrąją pusę), kartu pateikia
 banko įstaigoms mokamąjį pavedimą išskaitytoms iš to mėnesio uždarbių pajamų
-mokesčio sumoms sumokėti. Apskaičiuojant išmokėtinas 6 straipsnio 3 punkte nurodytas
-išmokas, iš jų išskaitytas pajamų mokestis turi būti pervestas į biudžetą
-gaunant iš banko įstaigų pinigus šioms išmokoms. Mokėti pajamų mokestį iš
-įmonės, įstaigos ir organizacijos lėšų draudžiama.
+mokesčio sumoms sumokėti. Apskaičiuojant išmokėtinas 6 straipsnio 3 punkte
+nurodytas išmokas, iš jų išskaitytas pajamų mokestis turi būti pervestas į
+biudžetą gaunant iš banko įstaigų pinigus šioms išmokoms. Mokėti pajamų mokestį
+iš įmonės, įstaigos ir organizacijos lėšų draudžiama.
 Įmonės,
 įstaigos, organizacijos ir gyventojai, neturintys banko įstaigose
 atsiskaitomųjų sąskaitų arba mokantieji už darbą iš savo einamųjų įplaukų,
@@ -465,20 +487,19 @@ Nr.I-211,
 Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
 62-2236 (2001-07-18)
  
- 
-     11 straipsnis.
+     11
+straipsnis.
 Įmonės,
 įstaigos ir organizacijos, turinčios nesavarankiškų struktūrinių padalinių kitų
-savivaldybių teritorijoje, išskaitytas pajamų mokesčio sumas iš šių
-struktūrinių padalinių dirbančiųjų pajamų perveda į biudžetą toje teritorijoje,
-kurioje yra minėtieji struktūriniai padaliniai.
+savivaldybių teritorijoje, išskaitytas pajamų mokesčio sumas iš šių struktūrinių
+padalinių dirbančiųjų pajamų perveda į biudžetą toje teritorijoje, kurioje yra
+minėtieji struktūriniai padaliniai.
 Straipsnio
 pakeitimai: 
 Nr.I-1055,
 1991.02.14, Žin., 1991, Nr. 6-170 
 Nr. VIII-1520, 00.01.04, Žin., 2000,
 Nr.5-127 (00.01.19), įsigalioja nuo 2001.01.01
- 
  
      12
 straipsnis.
@@ -491,38 +512,19 @@ Nr.
 I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17) 
  
- 
-     13
-straipsnis.
-     Neišskaityto arba
-išskaityto per mažo pajamų mokesčio trūkstama suma, taip pat bauda išieškoma iš
-tą mokestį privalančios išskaityti įmonės, įstaigos ar organizacijos Lietuvos
-Respublikos mokesčių administravimo įstatymo nustatyta tvarka. Biudžeto
-išlaikomos įstaigos ir organizacijos baudų už per mažai išskaitytas pajamų
-mokesčio trūkstamas sumas nemoka. Neišskaitytas arba išskaityto per mažo pajamų
+13 straipsnis. 
+Mokestį privalančioms
+išskaityti įmonėms, įstaigoms ar organizacijoms už šio skyriaus nuostatų
+pažeidimą baudos skiriamos Lietuvos Respublikos mokesčių administravimo
+įstatymo nustatyta tvarka. Neišskaitytas arba išskaityto per mažo pajamų
 mokesčio trūkstamas sumas iš darbuotojo įmonė, įstaiga ar organizacija gali
 išieškoti ne daugiau kaip už tris praėjusius mėnesius, skaičiuojant nuo to
 mėnesio, kurį buvo nustatyta klaida.
-     Jei
-darbuotojas pagrindine darboviete nurodo daugiau negu vieną darbovietę,
-pagrindine laikoma ta, kurioje gaunamas mažiausias darbo užmokestis, ir iš jo
-išieškoma per visą laikotarpį per mažai išskaityto mokesčio suma ir trigubo
-šios sumos dydžio bauda.
- 
-[13 straipsnio redakcija nuo 2001 m. rugsėjo 1 d.
-13 straipsnis. 
-Mokestį
-privalančioms išskaityti įmonėms, įstaigoms ar organizacijoms už šio skyriaus
-nuostatų pažeidimą baudos skiriamos Lietuvos Respublikos mokesčių
-administravimo įstatymo nustatyta tvarka. Neišskaitytas arba išskaityto per
-mažo pajamų mokesčio trūkstamas sumas iš darbuotojo įmonė, įstaiga ar
-organizacija gali išieškoti ne daugiau kaip už tris praėjusius mėnesius,
-skaičiuojant nuo to mėnesio, kurį buvo nustatyta klaida.
 Jei darbuotojas
 pagrindine darboviete nurodo daugiau negu vieną darbovietę, pagrindine laikoma
 ta, kurioje gaunamas mažiausias darbo užmokestis, ir iš jo išieškoma per visą
 laikotarpį išskaityto per mažo mokesčio suma ir nuo 10 iki 50 procentų šios
-sumos dydžio bauda.]
+sumos dydžio bauda.
 Straipsnio
 pakeitimai: 
 Nr.I-211,
@@ -532,7 +534,6 @@ I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
 Nr. IX-400, 2001-06-26, Žin., 2001, Nr.
 62-2217 (2001-07-18), įsigalioja nuo 2001-09-01
- 
  
 14 straipsnis.
 Jeigu išskaitytų
@@ -550,8 +551,8 @@ Nr.
 I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
- 
-     15 straipsnis.
+     15
+straipsnis.
      Religinių bendruomenių, bendrijų ir centrų
 (aukštesniųjų valdymo institucijų) dvasininkų, religinių apeigų patarnautojų ir
 aptarnaujančio personalo (išskyrus asmenis, atliekančius statybos, remonto,
@@ -564,7 +565,6 @@ Nr.I-2280,
 Nr.
 I-1400,
 96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02) 
- 
  
 III. Autoriams
 ir jų įpėdiniams išmokamo autorinio atlyginimo už mokslo, literatūros,
@@ -597,7 +597,6 @@ I-1400,
 Nr. VIII-1813, 00.07.11, Žin., 2000,
 Nr.64-1911 (00.07.31)
  
- 
      17
 straipsnis.
      Pajamų
@@ -609,11 +608,10 @@ pakeitimai:
 Nr.I-2280,
 1992.02.06, Žin., 1992, Nr. 7-150
  
- 
      18
 straipsnis.
-     Nuo įpėdiniams išmokamo autorinio atlyginimo už
-kūrinius ir darbus, už kuriuos toks atlyginimas jau buvo mokėtas, imamas 60%
+     Nuo įpėdiniams išmokamo autorinio atlyginimo
+už kūrinius ir darbus, už kuriuos toks atlyginimas jau buvo mokėtas, imamas 60%
 dydžio pajamų mokestis.
      Vaikams iki
 18 metų, sutuoktiniams ir tėvams (moterims per 55 metus ir vyrams per 60 metų
@@ -632,20 +630,11 @@ Nr.
 I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
- 
-     20
-straipsnis. 
-     Neišskaityto
-arba išskaityto per mažo pajamų mokesčio trūkstama suma, taip pat bauda
-išieškoma iš autorinį atlyginimą išmokėjusios įmonės, įstaigos ar organizacijos
-Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
- 
-[20 straipsnio redakcija nuo 2001 m. rugsėjo 1 d.
 20 straipsnis. 
 Autorinį
 atlyginimą išmokėjusioms įmonėms, įstaigoms ar organizacijoms už šio
 skyriaus nuostatų pažeidimą baudos skiriamos Lietuvos Respublikos
-mokesčių administravimo įstatymo nustatyta tvarka.]
+mokesčių administravimo įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -653,7 +642,6 @@ I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
 Nr. IX-400, 2001-06-26, Žin., 2001, Nr.
 62-2217 (2001-07-18), įsigalioja nuo 2001-09-01
- 
  
      21
 straipsnis. 
@@ -665,7 +653,6 @@ pakeitimai:
 Nr.
 I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
- 
  
      22
 straipsnis. 
@@ -684,7 +671,6 @@ Nr.
 I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
- 
      23
 straipsnis.
      Savivaldybių
@@ -694,7 +680,6 @@ Straipsnio
 pakeitimai:
 Nr.I-2280,
 1992.02.06, Žin., 1992, Nr. 7-150
- 
  
 IV. Lietuvos
 Respublikos individualių (personalinių) įmonių ir ūkinių bendrijų pajamų 
@@ -719,27 +704,27 @@ dydžio pajamų mokesčiu. Jeigu įplaukos už realizuotą žemės ūkio produkc
 apmokestinamosios pajamos apmokestinamos 10% dydžio pajamų mokesčiu.
 Kitų ūkinių bendrijų ir
 individualių (personalinių) įmonių apmokestinamosios pajamos apmokestinamos
-taikant 24% pajamų mokesčio tarifą. Pajamos, panaudotos investicijai,
-apmokestinamos Juridinių asmenų pelno mokesčio įstatymo 7 straipsnio pirmosios
-dalies 2 punkte nustatyta tvarka arba šių ūkinių bendrijų ir individualių
-(personalinių) įmonių lėšos (nuosavos ar skolintos), panaudotos investicijai,
-atimamos iš bendrųjų pajamų Juridinių asmenų pelno mokesčio įstatymo 4
-straipsnio pirmojoje dalyje nustatyta tvarka. Tuo atveju, kai keičiama
-investicijoms skirtų pajamų, apmokestintų Juridinių asmenų pelno mokesčio
-įstatymo 7 straipsnio pirmosios dalies 2 punkte nustatyta tvarka, naudojimo
-paskirtis, įskaitant atvejus, kai ūkinių bendrijų ir individualių
-(personalinių) įmonių savininkai išsimoka ūkinių bendrijų ir individualių
-(personalinių) įmonių pajamų dalį (visas pajamas), toms investicijai
-panaudotoms pajamoms turi būti perskaičiuojamas pajamų mokestis.
+taikant 24% pajamų mokesčio tarifą. Pajamos, panaudotos investicijai, apmokestinamos
+Juridinių asmenų pelno mokesčio įstatymo 7 straipsnio pirmosios dalies 2 punkte
+nustatyta tvarka arba šių ūkinių bendrijų ir individualių (personalinių) įmonių
+lėšos (nuosavos ar skolintos), panaudotos investicijai, atimamos iš bendrųjų
+pajamų Juridinių asmenų pelno mokesčio įstatymo 4 straipsnio pirmojoje dalyje
+nustatyta tvarka. Tuo atveju, kai keičiama investicijoms skirtų pajamų,
+apmokestintų Juridinių asmenų pelno mokesčio įstatymo 7 straipsnio pirmosios
+dalies 2 punkte nustatyta tvarka, naudojimo paskirtis, įskaitant atvejus, kai
+ūkinių bendrijų ir individualių (personalinių) įmonių savininkai išsimoka
+ūkinių bendrijų ir individualių (personalinių) įmonių pajamų dalį (visas
+pajamas), toms investicijai panaudotoms pajamoms turi būti perskaičiuojamas
+pajamų mokestis.
 Laisvųjų ekonominių zonų ūkinės
-bendrijos ir individualios (personalinės) įmonės 5 metus nuo įmonių įregistravimo
-dienos moka 80% mažesnį pajamų mokestį, kitus 5 metus – 50% mažesnį pajamų
-mokestį. Jeigu užsienio investuotojas (investuotojai) įsigijo ne mažiau kaip
-30% ūkinių bendrijų nuosavo kapitalo ir investavo ne mažiau kaip vieno milijono
-JAV dolerių vertės užsienio kilmės kapitalą, šios ūkinės bendrijos 5 metus nuo
-jų įregistravimo dienos nemoka pajamų mokesčio, o kitus 10 metų moka 50%
-mažesnį pajamų mokestį. Laisvųjų ekonominių zonų ūkinių bendrijų ir
-individualių (personalinių) įmonių pajamų dalis, panaudota būtinoms
+bendrijos ir individualios (personalinės) įmonės 5 metus nuo įmonių
+įregistravimo dienos moka 80% mažesnį pajamų mokestį, kitus 5 metus – 50%
+mažesnį pajamų mokestį. Jeigu užsienio investuotojas (investuotojai) įsigijo ne
+mažiau kaip 30% ūkinių bendrijų nuosavo kapitalo ir investavo ne mažiau kaip
+vieno milijono JAV dolerių vertės užsienio kilmės kapitalą, šios ūkinės
+bendrijos 5 metus nuo jų įregistravimo dienos nemoka pajamų mokesčio, o kitus
+10 metų moka 50% mažesnį pajamų mokestį. Laisvųjų ekonominių zonų ūkinių
+bendrijų ir individualių (personalinių) įmonių pajamų dalis, panaudota būtinoms
 pagrindinėms priemonėms įsigyti, tyrimams bei naujoms technologijoms diegti,
 taip pat investicijoms ir kapitaliniams įdėjimams zonose, į apmokestinamą pelną
 neįtraukiama.
@@ -761,10 +746,10 @@ pajamų mokesčiu.
 kurioje užsienio investuotojo (investuotojų) užsienio kapitalo investicija yra
 pasiekusi du milijonus JAV dolerių, trejus metus nemoka pajamų mokesčio nuo
 apyskaitinio ketvirčio, kurį pradėtos gauti pajamos, pradžios. Kitus 3 metus ši
-įmonė moka 50% mažesnį pajamų mokestį. Šioje dalyje numatytos mokesčių lengvatos
-netaikomos įmonėms, kurios verčiasi didmenine, mažmenine naftos produktų
-prekyba, jeigu jų pajamos iš prekybos šiais produktais sudaro daugiau kaip 30%
-jų realizacinių pajamų.
+įmonė moka 50% mažesnį pajamų mokestį. Šioje dalyje numatytos mokesčių
+lengvatos netaikomos įmonėms, kurios verčiasi didmenine, mažmenine naftos
+produktų prekyba, jeigu jų pajamos iš prekybos šiais produktais sudaro daugiau
+kaip 30% jų realizacinių pajamų.
 Ūkinių
 bendrijų ir individualių (personalinių) įmonių, kurių bendrosios įplaukos per
 mokestinį laikotarpį neviršija 1 milijono litų ir vidutinis sąrašinis
@@ -832,7 +817,6 @@ Nr.64-1911 (00.07.31)
 Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
 62-2236 (2001-07-18)
  
- 
      25 straipsnis. Neteko galios nuo 2000
 m. liepos 31 d..
 Straipsnio
@@ -847,7 +831,6 @@ I-892,
 Nr. VIII-1813, 00.07.11, Žin., 2000,
 Nr.64-1911 (00.07.31)
  
- 
 26
 straipsnis.
 
@@ -860,16 +843,16 @@ momentu, tai apmokestinamosios pajamos nustatomos iš bendrųjų įplaukų
 atskaičius ir mokestiniu laikotarpiu atsiradusioms beviltiškoms skoloms
 tenkančią sąnaudų dalį, tačiau beviltiškoms skoloms, atsiradusioms iki 1999 m.
 gruodžio 31 d., tenkanti sąnaudų dalis iš bendrųjų pajamų atskaitoma lygiomis
-dalimis per penkerius metus, pradedant tuo mokestiniu laikotarpiu, kuriuo įsigaliojo
-šio punkto nuostatos. Skolos yra laikomos beviltiškomis pagal Juridinių asmenų
-pelno mokesčio įstatymo 5 straipsnio nuostatas, išskyrus tai, kad vienerių metų
-laikotarpis pradedamas skaičiuoti nuo skolos atsiradimo momento (kai ūkinė
-operacija užfiksuojama apskaitos dokumente). Pateikdamos pajamų deklaracijas
-apie beviltiškomis laikomų skolų sumas ūkinės bendrijos arba individualios
-(personalinės) įmonės, neatsižvelgiant į jų pasirinktą įplaukų
-pripažinimo būdą, privalo pranešti vietos mokesčio administratoriui Lietuvos
-Respublikos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
-Ūkinės bendrijos arba individualios (personalinės) įmonės gali
+dalimis per penkerius metus, pradedant tuo mokestiniu laikotarpiu, kuriuo
+įsigaliojo šio punkto nuostatos. Skolos yra laikomos beviltiškomis pagal
+Juridinių asmenų pelno mokesčio įstatymo 5 straipsnio nuostatas, išskyrus tai,
+kad vienerių metų laikotarpis pradedamas skaičiuoti nuo skolos atsiradimo
+momento (kai ūkinė operacija užfiksuojama apskaitos dokumente). Pateikdamos
+pajamų deklaracijas apie beviltiškomis laikomų skolų sumas ūkinės bendrijos arba
+individualios (personalinės) įmonės, neatsižvelgiant į jų pasirinktą
+įplaukų pripažinimo būdą, privalo pranešti vietos mokesčio administratoriui
+Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatyta
+tvarka. Ūkinės bendrijos arba individualios (personalinės) įmonės gali
 pasirinkti bendrųjų įplaukų pripažinimo būdą: pajamų uždirbimo momentą arba
 faktišką įplaukų gavimo momentą. Pasirinktas įplaukų pripažinimo būdas negali
 būti keičiamas iki ūkinės bendrijos ir individualios (personalinės) įmonės
@@ -877,14 +860,14 @@ likvidavimo. Bendrosios įplaukos – tai realizavimo įplaukų ir nerealizacini
 įplaukų suma. Bendrosioms įplaukoms nepriskiriamos iš juridinio asmens lėšų
 arba dėl turto vertės padidėjimo akcininkams proporcingai jų turimų akcijų
 skaičiui nemokamai išduotos akcijos arba anksčiau išduotų akcijų nominalios
-vertės padidinimo suma. Įplaukų priskyrimas realizavimo ir apmokestinamoms nerealizacinėms
-įplaukoms nustatomas pagal Juridinių asmenų pelno mokesčio įstatymo 3
-straipsnį. Jeigu ūkinių bendrijų nariams, individualių (personalinių) įmonių
-savininkams ir jų šeimų nariams asmeninės nuosavybės teise priklausantis
-turtas naudojamas įplaukoms uždirbti, tai tokio turto eksploatavimo,
-nusidėvėjimo ir remonto išlaidos pripažįstamos ūkinės bendrijos arba
-individualios (personalinės) įmonės sąnaudomis finansų ministro
-nustatyta tvarka.
+vertės padidinimo suma. Įplaukų priskyrimas realizavimo ir apmokestinamoms
+nerealizacinėms įplaukoms nustatomas pagal Juridinių asmenų pelno mokesčio
+įstatymo 3 straipsnį. Jeigu ūkinių bendrijų nariams, individualių
+(personalinių) įmonių savininkams ir jų šeimų nariams asmeninės
+nuosavybės teise priklausantis turtas naudojamas įplaukoms uždirbti, tai tokio
+turto eksploatavimo, nusidėvėjimo ir remonto išlaidos pripažįstamos ūkinės
+bendrijos arba individualios (personalinės) įmonės sąnaudomis finansų
+ministro nustatyta tvarka.
 Parduodant materialųjį
 ilgalaikį turtą pigiau negu jo likutinė vertė, bendrąsias įplaukas sudarys
 suma, ne mažesnė kaip to turto likutinė vertė.
@@ -920,7 +903,6 @@ Nr.64-1911 (00.07.31)
 Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
 62-2236 (2001-07-18)
  
- 
      26(1)
 straipsnis.
             Pinigines ir
@@ -939,13 +921,12 @@ išplatintų loterijos bilietų (kortelių) vertės ir 8 procentus pajamų nuo
 nominalios išplatintų loterijos bilietų (kortelių) vertės privalomai skiria
 labdarai ir paramai. Nustatytos pajamų dalies sumokėjimo į biudžetą bei skyrimo
 labdarai ir paramai tvarką, konkrečių labdaros bei paramos davėjų ir gavėjų
-sąrašą nustato Lietuvos Respublikos Vyriausybė. Šiame straipsnyje nustatytoms
-privalomo dydžio labdarai ir paramai skirtoms sumoms netaikomos Juridinių
-asmenų pelno mokesčio įstatymo 6 straipsnio antrojoje dalyje nustatytos
-lengvatos.
+sąrašą nustato Lietuvos Respublikos Vyriausybė. Šiame straipsnyje nustatytoms privalomo
+dydžio labdarai ir paramai skirtoms sumoms netaikomos Juridinių asmenų pelno
+mokesčio įstatymo 6 straipsnio antrojoje dalyje nustatytos lengvatos.
             Pinigines ir pinigines -
-daiktines loterijas rengiančios įmonės pajamų mokestį moka šio įstatymo
-nustatyta tvarka.
+daiktines loterijas rengiančios įmonės pajamų mokestį moka šio įstatymo nustatyta
+tvarka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -953,7 +934,6 @@ VIII-291,
 97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
 Nr. VIII-865,
 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
- 
  
 27 straipsnis.
 Nustatant
@@ -987,7 +967,6 @@ Nr. VIII-865,
 Nr. VIII-1813, 00.07.11, Žin., 2000,
 Nr.64-1911 (00.07.31)
  
- 
      28
 straipsnis.
 Kūrybinių sąjungų
@@ -1013,7 +992,6 @@ Nr. VIII-865,
 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
 Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
 62-2236 (2001-07-18)
- 
  
 29
 straipsnis.
@@ -1043,7 +1021,6 @@ VIII-166,
 97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
 Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
 62-2236 (2001-07-18)
- 
  
 30 straipsnis.
 Individualios
@@ -1091,9 +1068,9 @@ mokesčio mokėtojui turi sumažinti mokesčio mokėjimo avansu prievolės sumą
 proporcingai sumažėjusioms įplaukoms arba atleisti nuo pajamų avansinio
 mokesčio. Jeigu šio mokesčio mokėtojo einamųjų metų bendrosios įplaukos vėl
 padidėjo iki 25 procentų ir daugiau, jis privalo ne vėliau kaip prieš mėnesį
-iki eilinio pajamų avansinio mokesčio mokėjimo termino kreiptis į vietos
-mokesčio administratorių, kad padidintų likusius pajamų avansinius mokesčius.
-Pajamų mokesčio avansinė apyskaita už pirmuosius keturis mokestinio laikotarpio
+iki eilinio pajamų avansinio mokesčio mokėjimo termino kreiptis į vietos mokesčio
+administratorių, kad padidintų likusius pajamų avansinius mokesčius. Pajamų
+mokesčio avansinė apyskaita už pirmuosius keturis mokestinio laikotarpio
 mėnesius pateikiama iki mokestinio laikotarpio pirmojo mėnesio (sausio)
 paskutinės dienos. Pajamų mokesčio avansinė apyskaita už mokestinio laikotarpio
 penktąjį-dvyliktąjį mėnesius pateikiama iki mokestinio laikotarpio penktojo
@@ -1123,19 +1100,18 @@ Nr.64-1911 (00.07.31)
 Nr. IX-438, 2001-07-10, Žin., 2001, Nr.
 62-2236 (2001-07-18)
  
- 
 31 straipsnis.
 Jeigu pajamų
-deklaracijoje apskaičiuota mokesčio suma yra didesnė, negu už mokestinį
-laikotarpį pagal pajamų mokesčio avansines apyskaitas sumokėta mokesčio suma,
-mokesčio mokėtojas privalo kitą darbo dieną po pajamų deklaracijos pateikimo
-termino pasibaigimo papildomai apskaičiuotą mokesčio sumą sumokėti į biudžetą.
-Tuo atveju, kai mokesčio mokėtojas pajamų avansinio mokesčio nemoka, pajamų
-deklaracijoje apskaičiuotą pajamų mokestį privalo sumokėti į biudžetą kitą darbo
-dieną po pajamų deklaracijos pateikimo termino pasibaigimo. Mokesčio permoka
-grąžinama Mokesčių administravimo įstatymo nustatyta tvarka. Jeigu mokestis
-(avansinis mokestis) sumokamas ne laiku, Mokesčių administravimo įstatymo
-nustatyta tvarka skaičiuojami delspinigiai.
+deklaracijoje apskaičiuota mokesčio suma yra didesnė, negu už mokestinį laikotarpį
+pagal pajamų mokesčio avansines apyskaitas sumokėta mokesčio suma, mokesčio
+mokėtojas privalo kitą darbo dieną po pajamų deklaracijos pateikimo termino
+pasibaigimo papildomai apskaičiuotą mokesčio sumą sumokėti į biudžetą. Tuo
+atveju, kai mokesčio mokėtojas pajamų avansinio mokesčio nemoka, pajamų
+deklaracijoje apskaičiuotą pajamų mokestį privalo sumokėti į biudžetą kitą
+darbo dieną po pajamų deklaracijos pateikimo termino pasibaigimo. Mokesčio
+permoka grąžinama Mokesčių administravimo įstatymo nustatyta tvarka. Jeigu
+mokestis (avansinis mokestis) sumokamas ne laiku, Mokesčių administravimo
+įstatymo nustatyta tvarka skaičiuojami delspinigiai.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1152,19 +1128,11 @@ Nr. VIII-865,
 Nr. VIII-1813, 00.07.11, Žin., 2000,
 Nr.64-1911 (00.07.31)
  
- 
-32 straipsnis.
-Jei mokesčio
-mokėtojas pajamų mokesčio deklaracijoje nurodo mažesnę pajamų mokesčio sumą ir
-per mažai sumoka į biudžetą, jam Mokesčių administravimo įstatymo nustatyta
-tvarka skiriamos ekonominės sankcijos (baudos arba delspinigiai).
- 
-[32 straipsnio redakcija nuo 2001 m. rugsėjo 1 d.:
 32 straipsnis. 
 Individualioms
 (personalinėms) įmonėms ir ūkinėms bendrijoms baudos už šio skyriaus nuostatų
 pažeidimą skiriamos Lietuvos Respublikos mokesčių administravimo įstatymo
-nustatyta tvarka.]
+nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.I-2280,
@@ -1185,8 +1153,8 @@ I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
 Nr. VIII-865,
 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
-Nr. VIII-1813, 00.07.11, Žin., 2000, Nr.64-1911
-(00.07.31)
+Nr. VIII-1813, 00.07.11, Žin., 2000,
+Nr.64-1911 (00.07.31)
 Nr. IX-400, 2001-06-26, Žin., 2001, Nr.
 62-2217 (2001-07-18), įsigalioja nuo 2001-09-01
  
@@ -1203,10 +1171,10 @@ IV dalyse bei šio straipsnio trečiojoje, ketvirtojoje, penktojoje ir šeštojo
 dalyse, apmokestinamos taikant 20 procentų pajamų mokesčio tarifą.
 Bendrosioms pajamoms
 nepriskiriama iš įmonės lėšų arba dėl turto vertės padidėjimo akcininkams
-nemokamai išduotos akcijos arba anksčiau išduotų akcijų nominalios vertės
-padidinimo suma, taip pat pajaus vertės padidinimo suma. Iš šiame straipsnyje
-nurodytų bendrųjų pajamų jokios išlaidos neišskaitomos, išskyrus sumas, kurias
-paramos teikėjas davė Labdaros ir paramos įstatymo nustatyta tvarka, tačiau
+nemokamai išduotos akcijos arba anksčiau išduotų akcijų nominalios vertės padidinimo
+suma, taip pat pajaus vertės padidinimo suma. Iš šiame straipsnyje nurodytų
+bendrųjų pajamų jokios išlaidos neišskaitomos, išskyrus sumas, kurias paramos
+teikėjas davė Labdaros ir paramos įstatymo nustatyta tvarka, tačiau
 neviršijančias 15 procentų bendrųjų pajamų. Bendrosios pajamos nustatomos
 atskaičius fizinių asmenų, įsiregistravusių pridėtinės vertės mokesčio
 mokėtojais, apskaičiuotą, o fizinių asmenų, neįsiregistravusių pridėtinės
@@ -1243,12 +1211,7 @@ išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė. Konkrečius privalom
 patento mokesčio dydžius nustato savivaldybės.
 Jeigu fiziniai
 asmenys gauna pajamas neįsigiję privalomo patento, iš jų išieškoma patento
-mokesčio suma ir tokio pat dydžio bauda.
- 
-[10 dalies redakcija nuo 2001 m. rugsėjo 1 d.:
-Jeigu fiziniai
-asmenys gauna pajamas neįsigiję privalomo patento, iš jų išieškoma patento
-mokesčio suma ir nuo 10 iki 50 procentų jos dydžio bauda.]
+mokesčio suma ir nuo 10 iki 50 procentų jos dydžio bauda.
 Straipsnio
 pakeitimai:
 Nr.I-296,
@@ -1313,8 +1276,8 @@ nurodytas šiame straipsnyje pajamas fiziniai asmenys gauna iš kitų fizinių
 asmenų, gavęs pajamas asmuo privalo jas deklaruoti nuolatinės gyvenamosios
 vietos valstybinei mokesčių inspekcijai.
 Užsienio
-valstybių piliečių pajamos iš komercinės-ūkinės veiklos ar kitos pajamos, gaunamos
-Lietuvoje, apmokestinamos ta pačia tvarka kaip ir Lietuvos Respublikos
+valstybių piliečių pajamos iš komercinės-ūkinės veiklos ar kitos pajamos,
+gaunamos Lietuvoje, apmokestinamos ta pačia tvarka kaip ir Lietuvos Respublikos
 gyventojų pajamos.
 Straipsnio
 pakeitimai:
@@ -1340,12 +1303,12 @@ mokesčiu neapmokestinama:
 1)
 pajamos iš donorystės;
 2) pajamos, kurios yra
-paveldimo arba dovanojamo turto mokesčio bazė, taip pat sutuoktinių, vaikų
-(įvaikių), tėvų (įtėvių), globėjų (globotinių), senolių, vaikaičių, brolių ir
-seserų paveldėtas turtas; iš fizinių asmenų dovanojimo būdu gautos pajamos
-(pinigais ir natūra), jeigu šių pajamų bendra suma (vertė) per kalendorinius
-metus neviršija 10 tūkst. litų, taip pat dovanojimo būdu gautos pajamos
-(pinigais ir natūra) iš sutuoktinių, vaikų (įvaikių) ir tėvų (įtėvių);
+paveldimo arba dovanojamo turto mokesčio bazė, taip pat sutuoktinių, vaikų (įvaikių),
+tėvų (įtėvių), globėjų (globotinių), senolių, vaikaičių, brolių ir seserų
+paveldėtas turtas; iš fizinių asmenų dovanojimo būdu gautos pajamos (pinigais
+ir natūra), jeigu šių pajamų bendra suma (vertė) per kalendorinius metus
+neviršija 10 tūkst. litų, taip pat dovanojimo būdu gautos pajamos (pinigais ir
+natūra) iš sutuoktinių, vaikų (įvaikių) ir tėvų (įtėvių);
 3)
 gaunami alimentai;
 4)
@@ -1419,8 +1382,8 @@ Pajamų mokestis, apskaičiuotas nuo savininkams (pajininkams) grąžintų įna�
 vertės, perskaičiuojamas atsižvelgiant į įnašų vertės padidėjimą dėl turto
 indeksavimo ar perkainojimo Lietuvos Respublikos įstatymų ir Vyriausybės
 nutarimų nustatyta tvarka. Sumokėta ar išieškota pajamų mokesčio suma,
-atitinkanti dėl turto indeksavimo ar perkainojimo padidėjusią įnašų vertę,
-grąžinama Mokesčių administravimo įstatymo nustatyta tvarka.
+atitinkanti dėl turto indeksavimo ar perkainojimo padidėjusią įnašų vertę, grąžinama
+Mokesčių administravimo įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.I-2280,
@@ -1588,29 +1551,6 @@ Nr.
 I-1309,
 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
- 
-40 straipsnis.
-Jei įmonės, įstaigos ir
-organizacijos iš 33 straipsnyje nurodytų gyventojų pajamų mokesčio neišskaito
-ir nustatytu laiku nesumoka į biudžetą, šį mokestį ir delspinigius apskaičiuoja
-ir iš įmonės išieško valstybinės mokesčių inspekcijos. Apskaičiuotas pajamų
-mokestis ir sankcijos sumokami Lietuvos Respublikos mokesčių administravimo
-įstatymo nustatyta tvarka.
-Jei pajamų
-deklaracijos nepateiktos arba pateiktose deklaracijose nurodytos mažesnės
-pajamos, iš turto savininko (pagrindinio buto nuomininko) bei kito asmens,
-gavusio pajamas už turto nuomą bei kitas pajamas, išieškoma apskaičiuota pajamų
-mokesčio suma ir bauda Lietuvos Respublikos mokesčių administravimo įstatymo
-nustatyta tvarka.
-Jei valstybinė
-mokesčių inspekcija nustato, kad gyventojo pajamos už parduotą turtą viršija 1
-PNM per mėnesį arba gyventojas pardavė per metus ne vieną tos pačios rūšies
-daiktą skirtingoms arba toms pačioms įmonėms, įstaigoms ar organizacijoms (arba
-per jas), bet nepranešė joms apie tai ir dėl to nesumokėjo pajamų mokesčio, iš
-mokėtojo išieškoma nuo jam išmokėtos sumos apskaičiuota pajamų mokesčio suma ir
-bauda Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
- 
-[40 straipsnio redakcija nuo 2001 m. rugsėjo 1 d.
 40 straipsnis. 
 Įmonės, įstaigos
 ir organizacijos bei fiziniai asmenys už šio skyriaus nuostatų pažeidimą atsako
@@ -1624,7 +1564,7 @@ mokėtojo išieškoma nuo jam išmokėtos sumos apskaičiuota pajamų mokesčio 
 skiriama Lietuvos Respublikos mokesčių administravimo įstatyme numatyto dydžio
 bauda bei to įstatymo nustatyta tvarka skaičiuojami delspinigiai. Šiuo atveju
 mokestį išskaičiuojančiam asmeniui baudos netaikomos ir delspinigiai
-neskaičiuojami.]
+neskaičiuojami.
 Straipsnio
 pakeitimai:
 Nr.I-2280,
@@ -1662,13 +1602,13 @@ straipsnio ketvirtojoje dalyje ir 35 straipsnyje (išskyrus 35 straipsnio 10
 punkto nuostatą dėl per metus parduoto vieno bet kokios vertės vienos ar kitos
 rūšies daikto).
 Žinios apie Lietuvos
-Respublikos nuolatiniams gyventojams išmokėtas sumas pateikiamos Valstybinės mokesčių
-inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka tai
-valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje nuolat gyvena
-pajamas gavęs asmuo. Šia tvarka žinios pateikiamos ir tuo atveju, kai įmonės,
-įstaigos ir organizacijos Lietuvos Respublikos nuolatiniams gyventojams išmoka
-sumas už parduotą vieną bet kokios vertės vienos arba kitos rūšies daiktą ir
-neišskaito pajamų mokesčio.
+Respublikos nuolatiniams gyventojams išmokėtas sumas pateikiamos Valstybinės
+mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatyta
+tvarka tai valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje nuolat
+gyvena pajamas gavęs asmuo. Šia tvarka žinios pateikiamos ir tuo atveju, kai
+įmonės, įstaigos ir organizacijos Lietuvos Respublikos nuolatiniams gyventojams
+išmoka sumas už parduotą vieną bet kokios vertės vienos arba kitos rūšies
+daiktą ir neišskaito pajamų mokesčio.
 Įmonės, įstaigos ir
 organizacijos privalo valstybinėms mokesčių inspekcijoms pateikti žinias apie
 visas užsienio valstybių piliečiams ir asmenims be pilietybės išmokėtas sumas
@@ -1869,8 +1809,8 @@ Nr.
 I-430,
 94.04.12, Žin., 1994, Nr. 30-531 (94.04.22)
 DĖL
-LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO PAKEITIMO
-IR PAPILDYMO
+LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO
+PAKEITIMO IR PAPILDYMO
  
 9.
 Lietuvos
@@ -1918,8 +1858,8 @@ Nr.
 I-1184,
 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 LIETUVOS
-RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO PAKEITIMO IR
-PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
  
 14.
 Lietuvos
@@ -1963,8 +1903,8 @@ Nr.
 I-1461,
 96.07.10, Žin., 1996, Nr. 73-1747 (96.07.31)
 LIETUVOS
-RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 7 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 18.
 Lietuvos
@@ -2128,8 +2068,8 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1813, 00.07.11, Žin., 2000,
 Nr.64-1911 (00.07.31)
 FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 1, 7,
-16, 24, 26, 27, 30, 31, 32, 33, 35 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI 25
-STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+16, 24, 26, 27, 30, 31, 32, 33, 35 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI 25 STRAIPSNIO
+PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 1.
 Šio įstatymo 6 straipsnio 1 dalies nuostatos dėl mokestiniu laikotarpiu
 atsiradusioms beviltiškoms skoloms tenkančių sąnaudų įtraukimo į sąnaudas
@@ -2160,9 +2100,9 @@ pažeidimą bei dėl palūkanų, išskyrus palūkanas už paskolas, kurias sutei
 tarptautinės finansinės institucijos (institucijos arba organizacijos, kurių
 visi nariai arba steigėjai yra kelių valstybių vyriausybės, taip pat užsienio
 valstybių fondai ir valstybinės finansinės institucijos, kurių daugiau kaip 50
-procentų akcijų paketo turėtojai yra užsienio valstybių vyriausybės) apmokestinimo taikomos nuo 2002 m. sausio 1 d.,
-apmokestinant šias pajamas ir palūkanas, gautas pagal sutartis, sudarytas iki
-šio įstatymo įsigaliojimo.
+procentų akcijų paketo turėtojai yra užsienio valstybių vyriausybės) apmokestinimo taikomos nuo 2002 m. sausio 1 d., apmokestinant
+šias pajamas ir palūkanas, gautas pagal sutartis, sudarytas iki šio įstatymo
+įsigaliojimo.
 4. Šio įstatymo 2, 3, 11
 straipsnių nuostatos, 12 straipsnyje pakeistas 35 straipsnio 14 punktas
 įsigalioja nuo 2001 m. sausio 1 d.
@@ -2220,8 +2160,8 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-300, 2001 04 26, Žin., 2001, Nr. 41-1421 (2001 05 16)
-FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 35
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 35 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 43.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2240,9 +2180,23 @@ FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 1, 4,
 8(1), 9, 10, 24, 26, 28, 29, 30 IR 
 41 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+45.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-646, 2001-12-13,
+Žin., 2001, Nr. 111-4023 (2001-12-30)
+FIZINIŲ
+ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Įstatymas
+įsigalioja nuo 2002 m. balandžio 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušra Petraitienė (2001-07-19)
-                  aupetr@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2002-01-03)
+                
+ autrap@lrs.lt
 
