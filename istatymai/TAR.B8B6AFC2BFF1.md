@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2003-07-24
+Suvestinė redakcija nuo 2003-07-25 iki 2004-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
  
@@ -511,7 +511,10 @@ KONCENTRACIJOS KONTROLĖ
 
 
 
-3) investicinė bendrovė, – bendrosios pajamos skaičiuojamos kaip visų ūkio subjektų, kuriuos kontroliuoja investicinė bendrovė, bendrųjų pajamų suma;
+3) kolektyvinio investavimo subjektai ar juos valdančios valdymo įmonės, – bendrosios pajamos skaičiuojamos kaip visų ūkio subjektų, kuriuos kontroliuoja valdymo įmonė ar investicinė kintamojo kapitalo bendrovė, kurios turto valdymas neperduotas valdymo įmonei, bendrųjų pajamų suma; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010ISTA0IX-1715
+ 
 
 
 
@@ -533,7 +536,9 @@ KONCENTRACIJOS KONTROLĖ
 
 
 
-5. Laikoma, kad koncentracija nevykdoma, kai komerciniai bankai, kitos kredito įstaigos, vertybinių popierių viešosios apyvartos tarpininkai, investicinės bendrovės bei draudimo įmonės įsigyja daugiau kaip 1/4 kitos įmonės akcijų, turėdamos tikslą jas perleisti, jeigu nesinaudojama šių akcijų suteikiama balsavimo teise, ir šios akcijos perleidžiamos ne vėliau kaip per vienerius metus, ir ne vėliau kaip per vieną mėnesį po įsigijimo pateikiama informacija Konkurencijos tarybai. Jeigu finansinės įstaigos, įsigijusios daugiau kaip 1/4 kitos įmonės akcijų, nusprendžia nesilaikyti šioje dalyje nustatytų sąlygų, jos privalo pateikti pranešimą apie koncentraciją bendra tvarka.
+5. Laikoma, kad koncentracija nevykdoma, kai komerciniai bankai, kitos kredito įstaigos, vertybinių popierių viešosios apyvartos tarpininkai, kolektyvinio investavimo subjektai ar juos valdančios valdymo įmonės bei draudimo įmonės įsigyja daugiau kaip 1/4 kitos įmonės akcijų, turėdamos tikslą jas perleisti, jeigu nesinaudojama šių akcijų suteikiama balsavimo teise, ir šios akcijos perleidžiamos ne vėliau kaip per vienerius metus, ir ne vėliau kaip per vieną mėnesį po įsigijimo pateikiama informacija Konkurencijos tarybai. Jeigu finansinės įstaigos, įsigijusios daugiau kaip 1/4 kitos įmonės akcijų, nusprendžia nesilaikyti šioje dalyje nustatytų sąlygų, jos privalo pateikti pranešimą apie koncentraciją bendra tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010ISTA0IX-1715
  
 
 
@@ -1921,3 +1926,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1933, 2000-09-19, Žin., 2000, Nr. 85-2572 (2000-10-11), i. k. 1001010ISTAIII-1933
 Lietuvos Respublikos konkurencijos įstatymo 19, 27, 28, 29, 38 ir 40 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1715, 2003-07-04, Žin., 2003, Nr. 74-3430 (2003-07-25), i. k. 1031010ISTA0IX-1715
+Lietuvos Respublikos konkurencijos įstatymo 10 straipsnio pakeitimo įstatymas
