@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2004-04-01 iki 2004-04-30
+Suvestinė redakcija nuo 2004-05-01 iki 2004-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1600; Žin. 1999, Nr.68-0; Žin. 2011, Nr.91-4318, i. k. 0991010ISTAIII-1190
  
@@ -472,15 +472,19 @@ Be Vyriausybės nustatyta tvarka išduotos licencijos draudžiama:
 10 straipsnis. Licencijų ir leidimų išdavimas
 
 
-1. Šio įstatymo 9 straipsnio 1 punkte nurodytai veiklai licencijas išduoda Valstybinė atominės energetikos saugos inspekcija, suderinusi su Radiacinės saugos centru, Aplinkos ministerija ir savivaldybės, kurios teritorija ar jos dalis yra saugyklos ar kapinyno sanitarinės apsaugos zonoje, administracijos direktoriumi. 
+1. Šio įstatymo 9 straipsnio 1 punkte nurodytai veiklai licencijas išduoda Valstybinė atominės energetikos saugos inspekcija, suderinusi su Aplinkos ministerija ar jos įgaliota institucija, Radiacinės saugos centru ir savivaldybės, kurios teritorija ar jos dalis yra saugyklos ar kapinyno sanitarinės apsaugos zonoje, administracijos direktoriumi. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA0IX-2004
+Nr. IX-2116, 2004-04-13, Žin., 2004, Nr. 60-2124 (2004-04-24), i. k. 1041010ISTA0IX-2116
  
 
 
 
 
-2. Šio įstatymo 9 straipsnio 2 punkte nurodytai veiklai licencijas radioaktyviųjų atliekų vežėjui išduoda Radiacinės saugos centras, suderinus su Aplinkos ministerija, o radioaktyviąsias atliekas vežti su branduolinėmis medžiagomis – ir Valstybine atominės energetikos saugos inspekcija.
+2. Šio įstatymo 9 straipsnio 2 punkte nurodytai veiklai licencijas radioaktyviųjų atliekų vežėjui išduoda Radiacinės saugos centras, o radioaktyviąsias atliekas vežti su branduolinėmis medžiagomis – dar ir suderinęs su Valstybine atominės energetikos saugos inspekcija. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2116, 2004-04-13, Žin., 2004, Nr. 60-2124 (2004-04-24), i. k. 1041010ISTA0IX-2116
+ 
 
 
 
@@ -490,7 +494,10 @@ Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA
 
 
 
-4. Vienkartinius leidimus siuntėjui vežti šalies viduje, išvežti ir vežti tranzitu radioaktyviąsias atliekas išduoda Aplinkos ministerija, suderinus su Radiacinės saugos centru, o radioaktyviąsias atliekas vežti su branduolinėmis medžiagomis – ir su Valstybine atominės energetikos saugos inspekcija. 
+4. Vienkartinius leidimus siuntėjui vežti šalies viduje, išvežti ir vežti tranzitu radioaktyviąsias atliekas išduoda Radiacinės saugos centras, o radioaktyviąsias atliekas vežti su branduolinėmis medžiagomis – dar ir suderinęs su Valstybine atominės energetikos saugos inspekcija. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2116, 2004-04-13, Žin., 2004, Nr. 60-2124 (2004-04-24), i. k. 1041010ISTA0IX-2116
+ 
 
 
 
@@ -1128,3 +1135,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA0IX-2004
 Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 2, 10, 14 ir 24 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2116, 2004-04-13, Žin., 2004, Nr. 60-2124 (2004-04-24), i. k. 1041010ISTA0IX-2116
+Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 10 straipsnio pakeitimo įstatymas
