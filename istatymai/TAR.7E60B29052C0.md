@@ -111,6 +111,13 @@ iš:
 1) pareiginės algos;
 2) priedo už ištarnautus Lietuvos valstybei metus;
 3) vienkartinės priemokos.
+3. Duomenys apie valstybės politikų, teisėjų ir
+valstybės pareigūnų darbo užmokestį yra vieši. Šių duomenų pateikimo tvarką iki
+2002 m. birželio 1 d. nustato Vyriausybė.
+Straipsnio pakeitimai:
+Nr. IX-811,
+2002-03-26, Žin., 2002, Nr. 38-1358 (2002-04-10)
+ 
  
 4 straipsnis. Valstybės politikų,
 teisėjų ir valstybės pareigūnų pareiginės algos
@@ -196,9 +203,9 @@ C – buvęs darbo
 užmokestis;
 B – valstybės politiko, teisėjo ar valstybės pareigūno
 darbo užmokestis, nustatytas šiuo įstatymu;
-M – darbo
-užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo
-užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
+M – darbo užmokesčio
+perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo užmokestį.
+Nustatomi šie pereinamojo laikotarpio koeficientai:
  
 
 
@@ -324,11 +331,10 @@ D
 
  
 *4. Pereinamuoju laikotarpiu į valstybės politiko, teisėjo ir valstybės
-pareigūno pareigas išrinktiems ar paskirtiems asmenims darbo užmokestis
-nustatomas ir apskaičiuojamas pagal šio straipsnio nuostatas ir nurodytas formules, kuriose dydis C reiškia naujai
-išrinkto ar paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo
-užmokesčio, apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo
-apmokėjimo sąlygas, dydį. 
+pareigūno pareigas išrinktiems ar paskirtiems asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio
+nuostatas ir nurodytas formules, kuriose dydis C reiškia naujai išrinkto ar
+paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokesčio,
+apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo apmokėjimo sąlygas, dydį. 
 *5. Pasibaigus
 pereinamajam laikotarpiui, valstybės politikams, teisėjams ir valstybės
 pareigūnams turi būti mokamas šio įstatymo nustatytas darbo užmokestis.
@@ -380,10 +386,10 @@ Nr. VIII-2057,
  
 9 straipsnis.
 Pasiūlymai Vyriausybei
-Lietuvos
-Respublikos Vyriausybė per du mėnesius nuo šio įstatymo paskelbimo „Valstybės
-žiniose“ parengia ir pateikia Seimui įstatymų, susijusių su šiuo įstatymu,
-pakeitimų ir papildymų įstatymų projektus.
+Lietuvos Respublikos
+Vyriausybė per du mėnesius nuo šio įstatymo paskelbimo „Valstybės žiniose“
+parengia ir pateikia Seimui įstatymų, susijusių su šiuo įstatymu, pakeitimų ir
+papildymų įstatymų projektus.
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
  
@@ -410,8 +416,7 @@ I. Valstybės politikų pareiginės algos
 Eil. Nr. 
 
 
-Pareigų
-  pavadinimas
+Pareigų pavadinimas
 
 
 Pareiginės
@@ -500,8 +505,8 @@ Komitetų pirmininkų pavaduotojai
 3.5.
 
 
-Pakomitečių pirmininkai, nuolatinių komisijų
-  pirmininkai 
+Pakomitečių pirmininkai, nuolatinių
+  komisijų pirmininkai 
 
 
  
@@ -746,7 +751,7 @@ Merų pavaduotojai
 
 
 
-Skyriaus
+Skirsnio
 pakeitimai:
 Nr. VIII-2057,
 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
@@ -967,8 +972,8 @@ Apylinkių
 7.1.
 
 
-Kuriuose dirba 15 ir
-  daugiau teisėjų
+Kuriuose
+  dirba 15 ir daugiau teisėjų
 
 
 10
@@ -1495,8 +1500,8 @@ Prokuroras,
 5.
 
 
-Kitų rajonų (miestų) apylinkių prokuratūros
-  prie apylinkių teismų
+Kitų rajonų (miestų) apylinkių
+  prokuratūros prie apylinkių teismų
 
 
  
@@ -1697,8 +1702,7 @@ Seimo kontrolieriai
 6.
 
 
-Moterų ir vyrų lygių galimybių
-  kontrolierius
+Moterų ir vyrų lygių galimybių kontrolierius
 
 
 12
@@ -1858,7 +1862,7 @@ Pareigūnai
 Pastaba. Komisijų ir
 tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 apskaičiuojamas proporcingai dirbtam laikui.
-Skyriaus
+Skirsnio
 pakeitimai:
 Nr. VIII-2057,
 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
@@ -1876,8 +1880,9 @@ Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. VIII-2057,
 2000 10 17, Žin., 2000, Nr. 92-2887 (2000 10 31)
-VALSTYBĖS POLITIKŲ,
-TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+VALSTYBĖS
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PAKEITIMO
+ĮSTATYMAS
  
 2.
 Lietuvos
@@ -1916,6 +1921,16 @@ VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 7 STRAIPSNIO
 PAPILDYMO ĮSTATYMAS
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-811,
+2002-03-26, Žin., 2002, Nr. 38-1358 (2002-04-10)
+VALSTYBĖS
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 3 STRAIPSNIO
+PAPILDYMO ĮSTATYMAS
+ 
  
 *** Pabaiga ***
  
@@ -1940,8 +1955,8 @@ RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL
 VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ
 PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS", LIETUVOS
 RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL
-LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR LIETUVOS
-RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ DARBUOTOJŲ DARBO
+LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR LIETUVOS RESPUBLIKOS
+VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ DARBUOTOJŲ DARBO
 APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D.
 NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO
 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS
@@ -1954,6 +1969,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-01-03)
+Aušrinė Trapinskienė (2002-04-10)
                  
 autrap@lrs.lt
