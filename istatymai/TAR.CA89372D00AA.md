@@ -112,10 +112,14 @@ kiti įstatymai.
  
 6
 straipsnis. Policijos veiklos viešumas 
-1. Policija,
-nepažeisdama įstatymais ginamų asmens bei visuomenės interesų, apie savo veiklą
-teisės aktų nustatyta tvarka informuoja valstybės ir savivaldybių institucijas
-bei visuomenę.
+1. Policija, nepažeisdama įstatymais
+ginamų asmens bei visuomenės interesų, apie
+savo veiklą teisės aktų nustatyta tvarka informuoja valstybės ir savivaldybių
+institucijas bei visuomenę. Policijos generalinis komisaras vieną kartą per
+pusmetį pateikia visuomenei informaciją apie policijos veiklą Policijos
+departamento prie Lietuvos Respublikos
+vidaus reikalų ministerijos interneto tinklalapyje, o esant galimybei, –  ir
+per kitas visuomenės informavimo priemones.
 2. Asmens
 prašymu Vyriausybės nustatyta tvarka policija privalo pateikti savo
 informacinėse sistemose turimus neslaptus duomenis apie šį asmenį. Draudžiama
@@ -131,6 +135,11 @@ sutrukdytų nusikalstamų veikų prevenciją, išaiškinimą arba lemtų jų pad
 4. Policija
 neteikia informacijos, kuri pažeistų asmens nekaltumo prezumpcijos principą,
 policijos etikos normas, asmens, visuomenės ar valstybės saugumo interesus. 
+Straipsnio
+pakeitimai:
+Nr.
+IX-1773,
+2003-10-14, Žin., 2003, Nr. 104-4643 (2003-11-05)
  
 7
 straipsnis. Vidaus reikalų ministro kompetencija 
@@ -166,18 +175,18 @@ ir visuomene
 bendradarbiauja su teisėsaugos institucijomis įstatymų, kitų teisės aktų bei
 teisėsaugos institucijų vadovų nustatyta tvarka.
 2. Policija,
-siekdama užtikrinti asmens ir visuomenės saugumą bei viešąją tvarką,
-bendradarbiauja su kitomis valstybės bei savivaldybių institucijomis
-įgyvendindama nusikalstamumo kontrolės ir prevencijos programas bei kita forma
-įtraukdama į šią veiklą visuomenines organizacijas ir gyventojus. Policija
-bendradarbiauja su visuomeninėmis organizacijomis ir pavieniais asmenimis
-įstatymų ir kitų teisės aktų nustatyta tvarka. 
+siekdama užtikrinti asmens ir visuomenės saugumą bei viešąją tvarką, bendradarbiauja
+su kitomis valstybės bei savivaldybių institucijomis įgyvendindama
+nusikalstamumo kontrolės ir prevencijos programas bei kita forma įtraukdama į
+šią veiklą visuomenines organizacijas ir gyventojus. Policija bendradarbiauja
+su visuomeninėmis organizacijomis ir pavieniais asmenimis įstatymų ir kitų
+teisės aktų nustatyta tvarka. 
 3. Policija
-remia įvairių formų teisinio švietimo programas, propaguoja teisines žinias mokymo
-įstaigose, visuomenės informavimo priemonėse ir leidybinėje veikloje.
+remia įvairių formų teisinio švietimo programas, propaguoja teisines žinias
+mokymo įstaigose, visuomenės informavimo priemonėse ir leidybinėje veikloje.
  
-9
-straipsnis. Policija ir visuomenės informavimo priemonės 
+9 straipsnis.
+Policija ir visuomenės informavimo priemonės 
 1. Policija
 bendradarbiauja su visuomenės informavimo priemonėmis įstatymų nustatyta
 tvarka.
@@ -187,8 +196,8 @@ informacija apie nusikalstamų veikų ir kitų teisės pažeidimų prevencijos
 priemonių, kitų policijos uždavinių įgyvendinimą bei skelbiama kita su
 policijos veikla susijusi informacija.
  
-10 straipsnis.
-Policijos veiklos kontrolė 
+10
+straipsnis. Policijos veiklos kontrolė 
 1. Policijos
 veiklą įstatymų nustatyta tvarka kontroliuoja vidaus reikalų ministras bei tam
 įgaliotos institucijos. 
@@ -234,18 +243,21 @@ koordinuoja vadovaujamų įstaigų veiklą;
 3) organizuoja
 vadovaujamų įstaigų veiklai būtiną materialinį techninį aprūpinimą;
 4) nustatyta tvarka steigia
-teritorines, specializuotas policijos
-įstaigas ir policijos profesinio ugdymo įstaigas;
+teritorines, specializuotas policijos įstaigas ir policijos profesinio ugdymo
+įstaigas;
 5) įstatymų
 nustatyta tvarka rengia ir teikia Finansų ministerijai Policijos departamento
 biudžeto projektą;
 6) atsako už jo
-kompetencijai priskirtų uždavinių vykdymą bei vadovaujamų įstaigų darbo organizavimą;
- 
+kompetencijai priskirtų uždavinių vykdymą bei vadovaujamų įstaigų darbo
+organizavimą;
 7) suderinęs su vidaus
 reikalų ministru skiria į pareigas ir iš jų atleidžia teritorinių policijos
 įstaigų vadovus;
-8) vykdo kitus įstatymų ir kitų teisės aktų suteiktus įgaliojimus.
+8) atsiskaito už
+savo veiklą Respublikos Prezidentui ir vidaus reikalų ministrui šių
+reikalavimu;
+9) vykdo kitus įstatymų ir kitų teisės aktų suteiktus įgaliojimus.
 3. Policijos
 generalinio komisaro įsakymai ir nurodymai privalomi jam pavaldiems policijos
 pareigūnams. Jis turi teisę atšaukti pavaldžių policijos pareigūnų priimtus
@@ -273,30 +285,32 @@ etikos komisijos išvada;
 4) kai
 įsiteisėja teismo nuosprendis, kuriuo pareigūnas nuteisiamas už padarytą
 nusikalstamą veiką;
-5) jei įstatymo nustatyta
-tvarka jo veikla įvertinama nepatenkinamai;
+5) jei įstatymo
+nustatyta tvarka jo veikla įvertinama nepatenkinamai;
 6) jei pereina į renkamas pareigas
 arba pareigas, į kurias skiriama konkurso tvarka;
 7) jei netenka
 Lietuvos Respublikos pilietybės;
 8) pasibaigus
 kadencijai, jeigu nėra paskiriamas antrai kadencijai.
-7.
-Pasibaigus policijos generalinio komisaro kadencijai ar atleidus jį iš pareigų
-savo noru, jis eina pareigas tol, kol paskiriamas kitas policijos generalinis
-komisaras. 
+7. Pasibaigus policijos generalinio
+komisaro kadencijai ar atleidus jį iš pareigų savo noru, jis eina pareigas tol,
+kol paskiriamas kitas policijos generalinis komisaras. 
 Straipsnio
 pakeitimai:
 Nr.
 IX-1504,
 2003-04-17, Žin., 2003, Nr. 42-1910 (2003-05-01)
+Nr.
+IX-1773,
+2003-10-14, Žin., 2003, Nr. 104-4643 (2003-11-05)
  
 13
 straipsnis. Policijos departamentas
-1. Policijos
-departamentas yra policijos įstaiga, padedanti policijos generaliniam komisarui
-formuoti policijos veiklos strategiją ir kontroliuoti jos įgyvendinimą, taip
-pat organizuoti ir įgyvendinti teritorinių policijos įstaigų valdymą. 
+1. Policijos departamentas
+yra policijos įstaiga, padedanti policijos generaliniam komisarui formuoti
+policijos veiklos strategiją ir kontroliuoti jos įgyvendinimą, taip pat
+organizuoti ir įgyvendinti teritorinių policijos įstaigų valdymą. 
 2. Policijos departamentas:
 1) užtikrina jam
 priskirtų policijos uždavinių įgyvendinimą;
@@ -374,15 +388,16 @@ pat gali būti steigiami policijos komisariatai, kaip aukštesnės pakopos
 policijos komisariatų struktūriniai padaliniai. Policijos nuovados ir kiti
 padaliniai gali būti steigiami ir atskiriems policijos uždaviniams bei
 funkcijoms vykdyti.
-9. Kai į pareigas skiriami policijos komisariatų vadovai, jų kandidatūros
-yra derinamos su atitinkamos apskrities viršininku ar savivaldybės meru.
+9. Kai į pareigas skiriami policijos komisariatų vadovai, jų
+kandidatūros yra derinamos su atitinkamos apskrities viršininku ar savivaldybės
+meru.
 10. Policijos
 pareigūnų skyrimo ir atleidimo iš pareigų tvarką ir pagrindus nustato šis
 įstatymas, tarnybą policijoje reglamentuojantys įstatymai bei kiti teisės
 aktai. 
  
-15 straipsnis.
-Policijos pareigūnų rengimas
+15
+straipsnis. Policijos pareigūnų rengimas
 1. Policijos
 pareigūnų rengimas policijos uždaviniams vykdyti apima policijos pareigūnų
 mokymą Švietimo ir mokslo ministerijos mokymo įstaigose ir policijos pareigūnų
@@ -411,10 +426,10 @@ straipsnis. Policijos pareigūno įgaliojimai
 uždavinius, reikalauti, kad tiesiogiai jam nepavaldūs asmenys vykdytų jo
 teisėtus nurodymus, o jų nevykdymo ar pasipriešinimo atveju panaudoti
 prievartą.
-2. Policijos pareigūnai, vykdydami
-jiems suteiktus įgaliojimus, vadovaujasi tik įstatymais. Įstatymais pagrįsti
-policijos pareigūnų reikalavimai yra privalomi visiems fiziniams ir juridiniams asmenims. Už šių reikalavimų nevykdymą asmenys
-atsako įstatymų nustatyta tvarka.
+2. Policijos pareigūnai, vykdydami jiems suteiktus įgaliojimus, vadovaujasi
+tik įstatymais. Įstatymais pagrįsti policijos pareigūnų reikalavimai yra
+privalomi visiems fiziniams ir juridiniams asmenims. Už šių reikalavimų
+nevykdymą asmenys atsako įstatymų nustatyta tvarka.
 3. Policijos
 įstaigos vadovai turi teisę pakeisti jiems pavaldžių policijos pareigūnų
 priimtus neteisėtus sprendimus arba sustabdyti jų vykdymą įstatymų ir kitų
@@ -441,13 +456,13 @@ pareigūnas, užtikrindamas jam pavestų policijos uždavinių įgyvendinimą, t
 teisę: 
 1) pagrįstai įtardamas, jog padarytas
 administracinis teisės pažeidimas ar nusikalstama veika, tikrinti su tuo
-susijusio asmens, transporto priemonės,
-krovinių dokumentus ir laikinai, kol bus priimtas sprendimas, juos paimti;
-2) įstatymų
-nustatyta tvarka sulaikyti ir pristatyti teisėtvarkos pažeidėjus į policijos ar
-kitų teisėsaugos institucijų tarnybines patalpas jų asmenybei nustatyti, taip
-pat protokolams, aktams, pranešimams surašyti, asmenims ir jų turimiems
-daiktams apžiūrėti;
+susijusio asmens, transporto priemonės, krovinių dokumentus ir laikinai, kol
+bus priimtas sprendimas, juos paimti;
+2) įstatymų nustatyta
+tvarka sulaikyti ir pristatyti teisėtvarkos pažeidėjus į policijos ar kitų
+teisėsaugos institucijų tarnybines patalpas jų asmenybei nustatyti, taip pat
+protokolams, aktams, pranešimams surašyti, asmenims ir jų turimiems daiktams
+apžiūrėti;
 3) persekiodamas
 asmenį, įtariamą padarius nusikalstamą veiką, ar nusikaltėlį, besislepiantį nuo
 teisėsaugos institucijų, taip pat siekdamas užkirsti kelią daromai
@@ -480,10 +495,10 @@ apriboti patekimą į tam tikrą teritoriją ar patalpą, sustabdyti vykdomus
 darbus, apriboti ar uždrausti transporto eismą, jei kyla pavojus gamtai,
 viešajai tvarkai, asmens ar valstybės saugumui;
 8) tikrinti
-transporto priemonę vairuojantį asmenį, įtardamas, jog jis yra apsvaigęs nuo alkoholio,
-narkotinių, psichotropinių ar toksinių medžiagų ar paveiktas vaistų, neleisti
-tokiam asmeniui, taip pat asmeniui, neturinčiam teisės vairuoti arba dėl
-sveikatos būklės keliančiam pavojų saugiam eismui, transporto priemonės
+transporto priemonę vairuojantį asmenį, įtardamas, jog jis yra apsvaigęs nuo
+alkoholio, narkotinių, psichotropinių ar toksinių medžiagų ar paveiktas vaistų,
+neleisti tokiam asmeniui, taip pat asmeniui, neturinčiam teisės vairuoti arba
+dėl sveikatos būklės keliančiam pavojų saugiam eismui, transporto priemonės
 vairuoti;
 9) uždrausti
 eksploatuoti transporto priemones, kurių konstrukcija arba techninė būklė
@@ -504,8 +519,8 @@ ar vaizdo įrašus.
 2. Policijos
 pareigūnas turi ir kitas įstatymų jam suteiktas teises.
  
-19 straipsnis. Policijos pareigūno teisės
-vykdant nusikalstamų veikų ir kitų teisės 
+19 straipsnis. Policijos pareigūno teisės vykdant
+nusikalstamų veikų ir kitų teisės 
 pažeidimų prevenciją 
 Policijos
 pareigūnas, vykdydamas nusikalstamų veikų ir kitų teisės pažeidimų prevenciją,
@@ -557,10 +572,10 @@ kitas, taip pat ir užplombuotas, patalpas;
 transportą, fiziniams ar juridiniams asmenims priklausančiose transporto
 priemonėse esančius krovinius ir daiktus;
 3) skirti bei atlikti inventorizaciją,
-reviziją, kontrolinius matavimus ir kitus
-patikrinimus; atlikti apžiūrą, susipažinti ir paimti buhalterinės apskaitos,
-personalo, patikrinimų, revizijų medžiagas, kitus dokumentus, žaliavos,
-produkcijos, prekių pavyzdžius, kitus daiktus; reikalauti, kad būtų sutvarkyta buhalterinė apskaita;
+reviziją, kontrolinius matavimus ir kitus patikrinimus; atlikti apžiūrą,
+susipažinti ir paimti buhalterinės apskaitos, personalo, patikrinimų, revizijų medžiagas, kitus dokumentus,
+žaliavos, produkcijos, prekių pavyzdžius, kitus daiktus; reikalauti, kad būtų
+sutvarkyta buhalterinė apskaita;
 4) gauti iš
 vadovų, pareigūnų, materialiai atsakingų ir kitų asmenų duomenis, paaiškinimus
 dėl pažeidimų ar nusikalstamų veikų;
@@ -575,8 +590,8 @@ kompetenciją vykdyti operatyvinę veiklą, tirti baudžiamąsias bylas, sudaryt
 kriminalistines įskaitas (kartotekas ir kolekcijas) bei atlikti kitus įstatymų
 bei kitų teisės aktų nustatytus veiksmus.
  
-21
-straipsnis. Policijos pareigūno pareigos 
+21 straipsnis.
+Policijos pareigūno pareigos 
 1. Policijos
 pareigūnas privalo:
 1) gerbti ir
@@ -589,8 +604,8 @@ daromai nusikalstamai veikai ar kitam teisės pažeidimui, įvykio vietai bei
 pristatyti į policijos įstaigą asmenį, padariusį įstatymų uždraustą veiką, bei
 pranešti apie tai policijos įstaigai. Šio punkto reikalavimai (išskyrus
 reikalavimą pranešti apie tai policijos įstaigai) netaikomi policijos
-pareigūnui tais atvejais, kai šios pareigos vykdymas iš esmės pakenktų
-specialios kompetencijos policijos įstaigos uždaviniams įgyvendinti;
+pareigūnui tais atvejais, kai šios pareigos vykdymas iš esmės pakenktų specialios
+kompetencijos policijos įstaigos uždaviniams įgyvendinti;
 3) užtikrinti
 sulaikyto ar pristatyto į policijos įstaigą asmens teises ir teisėtus
 interesus, suteikti neatidėliotiną pagalbą asmeniui, nukentėjusiam nuo teisės
@@ -615,10 +630,10 @@ straipsnis. Policijos pareigūno atsakomybė
 1. Policijos
 pareigūnas asmeniškai atsako už savo veiksmus ir sprendimus bei jų padarinius.
 2. Policijos
-pareigūnas, vykdydamas jam patikėtas pareigas ir pažeidęs įstatymo reikalavimus,
-įstatymų ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į pažeidimo
-pobūdį, traukiamas tarnybinėn, administracinėn, materialinėn ar baudžiamojon
-atsakomybėn. 
+pareigūnas, vykdydamas jam patikėtas pareigas ir pažeidęs įstatymo
+reikalavimus, įstatymų ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į
+pažeidimo pobūdį, traukiamas tarnybinėn, administracinėn, materialinėn ar
+baudžiamojon atsakomybėn. 
 3. Žinomai
 neteisėto įsakymo ar nurodymo vykdymas policijos pareigūno nuo atsakomybės
 neatleidžia.
@@ -632,8 +647,8 @@ aktų suteiktus įgaliojimus.
  
 KETVIRTASIS
 SKIRSNIS
-ŠAUNAMŲJŲ
-GINKLŲ, FIZINĖS IR KITOKIOS
+ŠAUNAMŲJŲ GINKLŲ,
+FIZINĖS IR KITOKIOS
 PRIEVARTOS
 PANAUDOJIMAS
  
@@ -656,8 +671,8 @@ fizinę prievartą, šaunamąjį ginklą bei sprogstamąsias medžiagas.
 prievarta šiame įstatyme suprantama kaip įspėjimas apie ketinimą panaudoti
 fizinę prievartą, šaunamąjį ginklą ar sprogstamąsias medžiagas. Psichinei
 prievartai prilyginamas šaunamojo ginklo demonstravimas bei įspėjamieji šūviai,
-tačiau šias psichinės prievartos priemones galima naudoti tik šio įstatymo 25
-straipsnio 2 ir 4 dalyse išvardytomis sąlygomis.
+tačiau šias psichinės prievartos priemones galima naudoti tik šio įstatymo 25 straipsnio
+2 ir 4 dalyse išvardytomis sąlygomis.
 4. Fizinė
 prievarta šiame įstatyme suprantama kaip:
 1) bet kokio
@@ -701,10 +716,10 @@ save, kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai
 kėsinimosi;
 2) sulaikydamas
 teisės pažeidimą padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo;
-3) kai kėsinamasi
-į policijos kontroliuojamą ar saugomą objektą, transporto priemonę, šaunamąjį
-ginklą, sprogstamąsias medžiagas, specialiąsias ryšio, aktyvios ar pasyvios
-gynybos priemones ar kitą policijos turtą;
+3) kai
+kėsinamasi į policijos kontroliuojamą ar saugomą objektą, transporto priemonę,
+šaunamąjį ginklą, sprogstamąsias medžiagas, specialiąsias ryšio, aktyvios ar
+pasyvios gynybos priemones ar kitą policijos turtą;
 4) masinių
 riaušių ar grupinių veiksmų, kuriais pažeidžiama viešoji tvarka, metu;
 5) esant
@@ -743,16 +758,15 @@ išlaisvinti įkaitus arba užkirsti kelią teroro aktui;
 pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš transporto priemonę ir
 gyvūnus. 
 4. Draudžiama
-panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali
-nukentėti pašaliniai asmenys, prieš moteris, kai akivaizdu, kad jos nėščios,
-taip pat prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius,
-jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus
-atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba
-jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar
-sveikatai.
+panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti
+pašaliniai asmenys, prieš moteris, kai akivaizdu, kad jos nėščios, taip pat
+prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius, jei jų
+amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai
+jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba jei užpuola
+tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
  
-26 straipsnis.
-Sprogstamųjų medžiagų panaudojimas 
+26
+straipsnis. Sprogstamųjų medžiagų panaudojimas 
 Policijos
 pareigūnas, nesukeldamas grėsmės žmogaus gyvybei, turi teisę panaudoti
 sprogstamąsias medžiagas sprogstamiesiems įtaisams sunaikinti, patekti į
@@ -862,11 +876,20 @@ VEIKLOS ĮSTATYMO 12 IR 17 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja 2003 m. gegužės 1 d.
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1773,
+2003-10-14, Žin., 2003, Nr. 104-4643 (2003-11-05)
+POLICIJOS
+VEIKLOS ĮSTATYMO 6, 12 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-20)
+Aušrinė Trapinskienė (2003-11-05)
                  
 autrap@lrs.lt
