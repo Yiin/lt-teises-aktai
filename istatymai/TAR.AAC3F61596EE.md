@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AAC3F61596EE"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2002-12-24 iki 2003-05-13
+Suvestinė redakcija nuo 2003-05-14 iki 2003-06-03
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2633, i. k. 1021010ISTA00IX-965
  
@@ -42,7 +42,10 @@ Operatyvinės veiklos subjektai vadovaujasi Lietuvos Respublikos Konstitucija, �
 
 1. Operatyvinė veikla – operatyvinės veiklos subjektų vieša ir slapta žvalgybinio pobūdžio veikla, vykdoma šio Įstatymo nustatyta tvarka.
 
-2. Operatyvinės veiklos objektai – rengiami, daromi ar padaryti nusikaltimai, juos rengiantys, darantys ar padarę asmenys, šių asmenų aktyvūs veiksmai neutralizuojant operatyvinę veiklą arba įterpiant nusikalstamų struktūrų narius į teisėsaugos, krašto apsaugos ar kitas valstybės valdžios ir valdymo institucijas, kitų valstybių specialiųjų tarnybų veikla bei kiti su valstybės saugumu susiję asmenys ir įvykiai.
+2. Operatyvinės veiklos objektai – rengiamos, daromos ar padarytos nusikalstamos veikos, jas rengiantys, darantys ar padarę asmenys, šių asmenų aktyvūs veiksmai neutralizuojant operatyvinę veiklą arba įterpiant nusikalstamų struktūrų narius į teisėsaugos, krašto apsaugos ar kitas valstybės valdžios ir valdymo institucijas, kitų valstybių specialiųjų tarnybų veikla bei kiti su valstybės saugumu susiję asmenys ir įvykiai. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
 3. Operatyvinės veiklos subjektai – specialius valstybės įgaliojimus turintys krašto apsaugos, vidaus reikalų, muitinės sistemų, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos padaliniai, kuriems pavedama operatyvinė veikla ir kurių pareigūnai įgaliojami ją vykdyti. Šių padalinių sąrašą sudaro ir jų operatyvinės veiklos mastą nustato Vyriausybė. Operatyvinės veiklos subjektų pagrindinės institucijos – Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos, Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų ministerijos, Muitinės departamentas prie Finansų ministerijos, Policijos departamentas prie Vidaus reikalų ministerijos, Specialiųjų tyrimų tarnyba, Vadovybės apsaugos departamentas prie Vidaus reikalų ministerijos, Valstybės saugumo departamentas, Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos.
 
@@ -65,7 +68,10 @@ Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010IS
 
 11. Operatyvinės įskaitos duomenų tvarkymas – bet kuris su šiais duomenimis atliekamas veiksmas: rinkimas, užrašymas, kaupimas, saugojimas, klasifikavimas, grupavimas, jungimas, keitimas (papildymas ar taisymas), teikimas, paskelbimas, naudojimas, laikymas, loginės ir (arba) aritmetinės operacijos, paieška, skleidimas, naikinimas ar kitoks veiksmas arba veiksmų rinkinys. Operatyvinės įskaitos duomenys gali būti tvarkomi automatizuotai.
 
-12. Operatyvinės veiklos metodai – būdai gauti operatyvinę informaciją: operatyvinė apklausa, operatyvinė apžiūra, operatyvinis patikrinimas, slaptas sekimas, agentūrinis metodas, elektroninė žvalgyba.
+12. Operatyvinės veiklos metodai – būdai gauti operatyvinę informaciją: operatyvinė apklausa, operatyvinė apžiūra, operatyvinis patikrinimas, operatyvinis sekimas, agentūrinis metodas, elektroninė žvalgyba. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
 13. Operatyvinė apklausa – operatyvinės veiklos metodas, kai informacija gaunama tiesiogiai bendraujant su informaciją turinčiu asmeniu. Slapta operatyvinė apklausa – operatyvinės apklausos rūšis, kai jos vykdytojo priklausomybė operatyvinės veiklos subjektui yra užšifruojama.
 
@@ -73,21 +79,39 @@ Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010IS
 
 15. Operatyvinis patikrinimas – operatyvinės veiklos metodas, kai informacija gaunama atliekant slaptą operatyvinę apklausą bei užšifruotą operatyvinę apžiūrą.
 
-16. Slaptas sekimas – operatyvinės veiklos metodas, kai informacija gaunama slaptai, tiesiogiai stebint objektą.
+16. Operatyvinis sekimas – operatyvinės veiklos metodas, kai informacija gaunama slaptai, tiesiogiai stebint objektą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
 17. Agentūrinis metodas – operatyvinės veiklos metodas, kai iš asmens informacija gaunama įgyto pasitikėjimo pagrindu, panaudojant operatyvinės veiklos slaptuosius dalyvius.
 
 18. Elektroninė žvalgyba – operatyvinės veiklos metodas, kai informacija gaunama elektroninėmis technikos priemonėmis.
 
-19. Nusikalstamos veikos imitacijos modelis – sankcionuoti veiksmai, formaliai turintys nusikaltimo ar kitokio teisės pažeidimo požymių, atliekami siekiant apginti nuo nusikalstamo kėsinimosi įstatymų saugomas asmens teises ir laisves, nuosavybę, visuomenės ir valstybės saugumą.
+19. Nusikalstamos veikos imitacijos modelis – sankcionuoti veiksmai, formaliai turintys nusikalstamos veikos ar kitokio teisės pažeidimo požymių, atliekami siekiant apginti nuo nusikalstamo kėsinimosi įstatymų saugomas asmens teises ir laisves, nuosavybę, visuomenės ir valstybės saugumą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
-20. Kontroliuojamasis gabenimas – sankcionuoti veiksmai, kurių metu leidžiama įvežti į Lietuvos Respublikos teritoriją, pervežti per ją arba išvežti iš jos neteisėtai gabenamas ar keliančias įtarimą prekes bei kitokius objektus, kontroliuojant operatyvinės veiklos subjektui, siekiant išaiškinti nusikaltimus, juos rengiančius, darančius ar padariusius asmenis. Kontroliuojamasis gabenimas gali būti atliekamas tik tarptautinių sutarčių ar susitarimų pagrindu.
+20. Kontroliuojamasis gabenimas – sankcionuoti veiksmai, kurių metu leidžiama įvežti į Lietuvos Respublikos teritoriją, pervežti per ją arba išvežti iš jos neteisėtai gabenamas ar keliančias įtarimą prekes bei kitokius objektus, kontroliuojant operatyvinės veiklos subjektui, siekiant išaiškinti nusikalstamas veikas, jas rengiančius, darančius ar padariusius asmenis. Kontroliuojamasis gabenimas gali būti atliekamas tik tarptautinių sutarčių ar susitarimų pagrindu. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
-21. Pasala – operatyvinių veiksmų visuma siekiant sulaikyti nusikaltimą darančius ar padariusius asmenis, surinkti įrodymus, kai turima informacijos apie tokius asmenis, nusikaltimo padarymo vietą ir laiką.
+21. Pasala – operatyvinių veiksmų visuma siekiant sulaikyti nusikalstamą veiką darančius ar padariusius asmenis, surinkti informaciją, galinčią turėti reikšmės nusikalstamai veikai tirti, kai turima informacijos apie tokius asmenis, nusikalstamos veikos padarymo vietą ir laiką. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
-22. Slaptoji operacija – operatyvinių veiksmų visuma siekiant sulaikyti nusikaltimą darančius ar padariusius asmenis ir (ar) surinkti įrodymus, kai turint informacijos apie kėsinimąsi padaryti nusikaltimą ar daromą nusikaltimą yra sudaromos sąlygos, kad kėsinimasis padaryti nusikaltimą ar daromas nusikaltimas vyktų numatytoje vietoje ir reikiamu laiku.
+22. Slaptoji operacija – operatyvinių veiksmų visuma siekiant sulaikyti nusikalstamą veiką darančius ar padariusius asmenis ir (ar) surinkti informaciją, galinčią turėti reikšmės nusikalstamai veikai tirti, kai turint informacijos apie kėsinimąsi padaryti nusikalstamą veiką ar daromą nusikalstamą veiką yra sudaromos sąlygos, kad kėsinimasis padaryti nusikalstamą veiką ar daroma nusikalstama veika vyktų numatytoje vietoje ir reikiamu laiku. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
-23. Operatyvinis tyrimas – organizacinė taktinė operatyvinės veiklos forma, apimanti operatyvinius veiksmus, įskaitant ir tuos, kuriems atlikti reikia teismo ar prokuroro sankcijos. Atlikdami operatyvinį tyrimą, operatyvinės veiklos subjektai gali tvarkyti operatyvinio tyrimo bylas.
+23. Operatyvinis tyrimas – organizacinė taktinė operatyvinės veiklos forma, apimanti operatyvinius veiksmus, įskaitant ir tuos, kuriems atlikti reikia motyvuotos teismo nutarties ar prokuroro sankcijos. Atlikdami operatyvinį tyrimą, operatyvinės veiklos subjektai gali tvarkyti operatyvinio tyrimo bylas.
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
 24. Pašto siunta – siunčiama paštu pašto korespondencija, reklaminė pašto siunta, pašto siuntiniai.
 
@@ -107,23 +131,26 @@ Operatyvinė veikla grindžiama teisėtumo, žmogaus ir piliečių teisių bei l
 
 Operatyvinės veiklos uždaviniai yra šie:
 
-1) nusikaltimų prevencija;
+1) nusikalstamų veikų prevencija;
 
-2) nusikaltimų išaiškinimas, taip pat rengiančių, darančių ar padariusių nusikaltimus asmenų nustatymas;
+2) nusikalstamų veikų išaiškinimas, taip pat rengiančių, darančių ar padariusių nusikalstamas veikas asmenų nustatymas; 
 
 3) asmenų apsauga nuo nusikalstamo poveikio;
 
-4) asmenų, kurie slapstosi nuo kvotos, tardymo ar teismo, taip pat dingusių be žinios asmenų paieška;
+4) asmenų, kurie slapstosi nuo ikiteisminio tyrimo ar teismo, taip pat dingusių be žinios asmenų paieška;
 
 5) veikų, keliančių grėsmę valstybės konstitucinei santvarkai, jos nepriklausomybei, ekonominiam saugumui, valstybės gynybinės galios užtikrinimui ar kitiems svarbiems nacionalinio saugumo interesams, prevencija ir išaiškinimas;
 
-6) daiktų, pinigų, vertybinių popierių, kito turto, susijusio su nusikaltimų padarymu, paieška;
+6) daiktų, pinigų, vertybinių popierių, kito turto, susijusio su nusikalstamų veikų padarymu, paieška;
 
 7) valstybės paslapčių apsauga;
 
 8) kitų valstybių specialiųjų tarnybų veiklos tyrimas;
 
 9) operatyvinės veiklos subjektų saugumo bei imuniteto užtikrinimas.
+
+Straipsnio pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
  
 
 6 straipsnis. Žmogaus ir piliečių teisių bei laisvių apsauga vykdant operatyvinę veiklą
@@ -242,11 +269,17 @@ OPERATYVINIS TYRIMAS
 
 Operatyvinis tyrimas atliekamas, kai:
 
-1) turima informacijos apie rengiamą, daromą ar padarytą sunkų nusikaltimą arba nusikaltimus, numatytus Baudžiamojo kodekso 72-1 straipsnio 3 dalyje, 73 straipsnio 2 dalyje, 73-1, 74, 89, 110 straipsniuose, 112 straipsnio 2 dalyje, 127 straipsnyje, 131 straipsnio 2 dalyje, 203-1 straipsnyje, 207 straipsnio 2 dalyje, 214 straipsnio 2 dalyje, 227-2, 234-2 straipsniuose, 234-3 straipsnio 2 dalyje, 239 straipsnio 3 ir 4 dalyse, 241 straipsnio 1 dalyje, 242 straipsnio 2 dalyje, 243 straipsnio 2 dalyje, 271 straipsnio 2 dalyje, 281 straipsnio 2 dalyje, 284, 285, 287, 296 straipsniuose, 300 straipsnio 2 dalyje, 309 straipsnio 2 dalyje, arba apie nusikaltimą rengiantį, darantį ar padariusį asmenį;
+1) nusikalstamos veikos požymiai nėra nustatyti, bet turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 150 straipsnio 1 dalyje, 151 straipsnio 2 dalyje, 162 straipsnyje, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 2 dalyje, 227 straipsnio 2 dalyje, 228 straipsnio 2 dalyje, 240 straipsnyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 300 straipsnio 2 dalyje, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, arba apie nusikaltimą rengiantį, darantį ar padariusį asmenį; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
 2) yra informacijos apie kitų valstybių specialiųjų tarnybų veiklą;
 
-3) pasislepia įtariamasis, kaltinamasis, teisiamasis arba nuteistasis;
+3) pasislepia įtariamasis, kaltinamasis arba nuteistasis;
+Straipsnio punkto pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
 4) dingsta be žinios asmuo;
 
@@ -307,11 +340,20 @@ Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010IS
 
 11 straipsnis. Slaptas patekimas į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones bei jų apžiūra, laikinas dokumentų paėmimas ir apžiūra, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimas tirti neskelbiant apie jų paėmimą
 
-1. Slaptą patekimą į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones, taip pat jų apžiūrą, laikiną dokumentų paėmimą ir apžiūrą, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimą tirti neskelbiant apie jų paėmimą sankcionuoja apygardų teismų pirmininkai ar šių teismų Baudžiamųjų bylų skyrių pirmininkai pagal generalinio prokuroro ar jo įgalioto generalinio prokuroro pavaduotojo arba apygardų prokuratūrų vyriausiųjų prokurorų ar jų įgaliotų vyriausiųjų prokurorų pavaduotojų motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis.
+1. Slaptą patekimą į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones, taip pat jų apžiūrą, laikiną dokumentų paėmimą ir apžiūrą, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimą tirti neskelbiant apie jų paėmimą motyvuota nutartimi sankcionuoja apygardų teismų pirmininkai ar šių teismų Baudžiamųjų bylų skyrių pirmininkai pagal generalinio prokuroro ar jo įgalioto generalinio prokuroro pavaduotojo arba apygardų prokuratūrų vyriausiųjų prokurorų ar jų įgaliotų vyriausiųjų prokurorų pavaduotojų motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
-2. Neatidėliotinais atvejais, kai iškyla pavojus žmogaus gyvybei, sveikatai, nuosavybei, visuomenės ar valstybės saugumui, leidžiama atlikti šio straipsnio 1 dalyje nurodytus veiksmus remiantis šio straipsnio 1 dalyje išvardytų prokurorų nutarimu. Tokiu atveju prokuroras, priėmęs šį nutarimą, per 24 valandas šio straipsnio 1 dalyje nurodytam teisėjui pateikia teikimą patvirtinti veiksmų teisėtumą ar pagrįstumą. Jei terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas kitą dieną po poilsio ar švenčių dienos. Teisėjui nepatvirtinus minėtų veiksmų teisėtumo ar pagrįstumo, jie nutraukiami, o jų metu gauta informacija nedelsiant sunaikinama.
+2. Neatidėliotinais atvejais, kai iškyla pavojus žmogaus gyvybei, sveikatai, nuosavybei, visuomenės ar valstybės saugumui, leidžiama atlikti šio straipsnio 1 dalyje nurodytus veiksmus remiantis šio straipsnio 1 dalyje išvardytų prokurorų nutarimu. Tokiu atveju prokuroras, priėmęs šį nutarimą, per 24 valandas šio straipsnio 1 dalyje nurodytam teisėjui pateikia teikimą dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo motyvuota nutartimi. Jei terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas kitą dieną po poilsio ar švenčių dienos. Teisėjui nepatvirtinus minėtų veiksmų teisėtumo ar pagrįstumo, jie nutraukiami, o jų metu gauta informacija nedelsiant sunaikinama. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
-3. Konspiracijos tikslais teikimas atlikti šio straipsnio 1 dalyje nurodytus operatyvinius veiksmus gali būti sankcionuotas bet kuriame apygardos teisme.
+3. Konspiracijos tikslais motyvuota nutartis dėl šio straipsnio 1 dalyje nurodytų operatyvinių veiksmų gali būti priimta bet kuriame apygardos teisme. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
 4. Teikime nurodoma:
 
@@ -329,11 +371,17 @@ Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010IS
 
 6. Šio straipsnio 5 dalyje numatytas veiksmų pratęsimas sankcionuojamas ta pačia tvarka kaip ir šių veiksmų skyrimas. Pratęsimų skaičius neribojamas, tačiau kiekvienu atveju pratęsti galima ne ilgesniam nei šio straipsnio 5 dalyje nustatytam laikotarpiui.
 
-7. Sankcionavus teikimą dėl slapto patekimo į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones bei jų apžiūros, laikino dokumentų paėmimo ir apžiūros, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimo tirti neskelbiant apie jų paėmimą arba dėl šių veiksmų pratęsimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas vieną teikimo egzempliorių nedelsdamas išsiunčia generaliniam prokurorui arba jo įgaliotam generalinio prokuroro pavaduotojui.
+7. Priėmus motyvuotą nutartį dėl slapto patekimo į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones bei jų apžiūros, laikino dokumentų paėmimo ir apžiūros, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimo tirti neskelbiant apie jų paėmimą arba dėl šių veiksmų pratęsimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas vieną motyvuotos teismo nutarties egzempliorių nedelsdamas išsiunčia generaliniam prokurorui arba jo įgaliotam generalinio prokuroro pavaduotojui. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
 8. Jei prokuroras atsisako teikti teikimą dėl šio straipsnio 1 dalyje nustatytų veiksmų sankcionavimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas turi teisę kreiptis į aukštesnįjį prokurorą iš nurodytų šio straipsnio 1 dalyje, turintį įgaliojimus teikti teikimus sankcionuoti šiuos veiksmus. Prokuroro atsisakymas turi būti motyvuotas raštu. Sprendimą atsisakyti teikti teikimą sankcionuoti nurodytus veiksmus priėmęs prokuroras apie atsisakymą praneša generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui. Aukštesniojo prokuroro sprendimas yra galutinis.
 
-9. Jei apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas atsisako sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti sprendimą apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis.
+9. Jei apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas priima motyvuotą nutartį atsisakyti sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti sprendimą apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis.
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
 10. Draudžiama atlikti šiame straipsnyje nustatytus operatyvinius veiksmus, kurie kelia tiesioginį pavojų žmogaus gyvybei, sveikatai arba gali sukelti kitų sunkių pasekmių.
  
@@ -431,13 +479,35 @@ PANAUDOJIMAS NE OPERATYVINĖJE VEIKLOJE IR ATSAKOMYBĖ UŽ ŠIO
 
 17 straipsnis. Įslaptintos operatyvinės bei kitos įslaptintos informacijos panaudojimas ne operatyvinėje veikloje ir šios informacijos atskleidimas
 
-1. Įslaptinta operatyvinė informacija įstatymų nustatyta tvarka gali būti išslaptinama ir panaudojama baudžiamojoje byloje kaip įrodymai. Jeigu tokia informacija baudžiamojoje byloje panaudojama kaip įrodymai, byloje turi būti dokumentas, patvirtinantis, jog operatyviniai veiksmai yra atlikti šio Įstatymo nustatyta tvarka.
+1. Įslaptinta operatyvinė informacija įstatymų nustatyta tvarka gali būti išslaptinama ir panaudojama baudžiamajame procese. Jeigu tokia informacija panaudojama baudžiamajame procese, turi būti surašomas protokolas dėl operatyvinių veiksmų atlikimo. Protokole nurodoma: 
+
+1) protokolo surašymo vieta, laikas;
+
+2) pareigūno, surašiusio protokolą, pareigos, vardas, pavardė;
+
+3) naudojamų operatyvinių veiksmų pavadinimai;
+
+4) žinomi duomenys apie asmenis, kuriems buvo taikomi operatyviniai veiksmai, arba objekto apibūdinimas;
+
+5) siekiamas rezultatas;
+
+6) operatyvinių veiksmų atlikimo metu užfiksuotos informacijos turinys;
+
+7) naudotų techninių priemonių techniniai duomenys, nurodant fiksuojamo įvykio vietą, laiką ir turinį (jeigu naudojamos techninės priemonės);
+
+8) priedai, garso ir vaizdo juostos, kompaktinės plokštelės ar kitos elektroninės informacijos laikmenos arba kiti materialūs objektai, kuriuose grafiniais ar kitais ženklais užfiksuota informacija, turinti reikšmės nusikalstamai veikai tirti ir nagrinėti. 
+
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
 2. Įstatymų nustatytais atvejais įslaptinta operatyvinė informacija gali būti panaudojama kitiems tikslams.
 
 3. Įslaptintos operatyvinės informacijos pateikimo valstybės institucijoms ir pareigūnams tvarką nustato Vyriausybė.
 
-4. Informaciją apie operatyvinės veiklos slaptųjų dalyvių tapatybę nustatančius duomenis, slaptųjų dalyvių bendradarbiavimą ar darbą operatyvinės veiklos subjektų sistemoje, taip pat kitokią įslaptintą informaciją galima atskleisti ir panaudoti baudžiamojoje byloje bei kitais įstatymų nustatytais atvejais tik Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
+4. Informaciją apie operatyvinės veiklos slaptųjų dalyvių tapatybę nustatančius duomenis, slaptųjų dalyvių bendradarbiavimą ar darbą operatyvinės veiklos subjektų sistemoje, taip pat kitokią įslaptintą informaciją galima atskleisti ir panaudoti baudžiamajame procese bei kitais įstatymų nustatytais atvejais tik Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
  
 
 18 straipsnis. Atsakomybė už šio Įstatymo reikalavimų pažeidimus
@@ -453,7 +523,10 @@ OPERATYVINĖS VEIKLOS FINANSAVIMAS
 
 19 straipsnis. Operatyvinės veiklos finansavimas
 
-1. Operatyvinė veikla Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka finansuojama iš valstybės biudžeto pagal valstybės institucijų sąmatas ir iš kitų šaltinių. Operatyvinei veiklai skirtų lėšų išlaidų pagrindus ir tvarką nustato operatyvinės veiklos subjektų pagrindinės institucijos.
+1. Operatyvinė veikla finansuojama iš valstybės biudžeto pagal valstybės institucijų sąmatas. Operatyvinei veiklai skirtų lėšų išlaidų pagrindus ir tvarką nustato operatyvinės veiklos subjektų pagrindinės institucijos. Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka operatyvinė veikla gali būti finansuojama ir iš kitų šaltinių.
+Straipsnio dalies pakeitimai:
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+ 
 
 2. Operatyvinės veiklos metu gautos pajamos įtraukiamos į apskaitą kaip nebiudžetinės lėšos ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti naudojamos šiai veiklai aprūpinti.
 
@@ -542,9 +615,9 @@ Straipsnio naikinimas:
 Nr. IX-1222, 2002-12-05, Žin. 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
  
 
-25 straipsnis. Įstatymo taikymas
-
-Iki Įstatymo įsigaliojimo sankcionuotiems operatyviniams veiksmams šio Įstatymo nuostatos, nustatančios operatyvinių veiksmų sankcionavimo tvarką, netaikomos.
+25 straipsnis. Neteko galios nuo 2003-05-14
+Straipsnio naikinimas:
+Nr. IX-1537, 2003-04-29, Žin. 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
  
 
 26 straipsnis. Pasiūlymai Vyriausybei
@@ -589,4 +662,9 @@ Dėl Lietuvos Respublikos telekomunikacijų įstatymo (2000 m. liepos 11 d. reda
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
 Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 7, 10, 23 straipsnių pakeitimo bei papildymo ir 24 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 5, 9, 11, 17, 19 straipsnių pakeitimo ir 25 straipsnio pripažinimo netekusiu galios įstatymas
 
