@@ -21,7 +21,6 @@ LIETUVOS RESPUBLIKOS
 SEIMO NARIŲ DARBO SĄLYGŲ 
 ĮSTATYMAS
  
- 
 1996 m. liepos 11 d. Nr. I-1473
 Vilnius
  
@@ -246,18 +245,9 @@ Nr. VIII-1976, 2000 10 10, Žin., 2000, Nr.
  
 17 straipsnis. Seimo narių teisė grįžti į ankstesnį
 darbą 
-            1.
-Pasibaigus Seimo nario įgaliojimų laikui Seimo statuto 8 straipsnio 1 ir 3
-punktuose numatytais atvejais, jam turi būti suteiktas iki išrinkimo dirbtas
-darbas arba pareigos valstybinėje įmonėje, įstaigoje ar organizacijoje,
-išskyrus Vyriausybės nario ir renkamas valdymo institucijos pareigas. Jei
-buvusios pareigos panaikintos arba įmonė, įstaiga ar organizacija likviduota,
-turi būti suteiktas kitas tolygus darbas arba pareigos toje pačioje įmonėje,
-įstaigoje, organizacijoje arba, jeigu Seimo narys sutinka, kitoje valstybinėje
-įmonėje, įstaigoje, organizacijoje. Seimo narys taip pat turi teisę kreiptis į
-Valdymo reformų ir savivaldybių reikalų ministeriją, kuri informuoja buvusį
-Seimo narį apie laisvas valdininkų darbo vietas jo nuolatinėje gyvenamojoje
-vietovėje ir, jeigu jis sutinka, įdarbina.
+1. Pasibaigus Seimo nario įgaliojimų laikui Seimo statuto 8
+straipsnio 1 ir 3 punktuose numatytais atvejais, Seimo narys turi teisę Valstybės tarnybos įstatymo
+nustatyta tvarka grįžti į ankstesnį darbą.
             2.
 Seimo nario parlamentinės veiklos laikas įskaitomas į visų rūšių darbo stažą.
             3.
@@ -267,7 +257,11 @@ pašalpa. Ši pašalpa išmokama tiek vidutinių pareiginių atlyginimų dydžio
 metų nepertraukiamai truko jo kadencija Seime ar Seime ir Lietuvos Respublikos
 Aukščiausiojoje Taryboje, bet ne mažesnė nei 2 vidutinių pareiginių atlyginimų
 dydžio.
-            
+Straipsnio pakeitimai:
+Nr. IX-121, 2000 12 21, Žin., 2000, Nr.
+111-3580 (2000 12 29), įsigalioja nuo 2001 01 01
+ 
+ 
 PENKTASIS SKIRSNIS 
 SEIMO NARIŲ PADĖJĖJAI-SEKRETORIAI IR FRAKCIJŲ
 DARBUOTOJAI
@@ -311,13 +305,13 @@ Seimo nariui jo įgaliojimų laikui gyventi kartu su šeimos nariais, jeigu Seim
 narys pageidauja, Seimo kanclerio sprendimu suteikiama gyvenamoji patalpa Seimo
 viešbutyje. Gyvenamoji patalpa Seimo viešbutyje pirmąja eile suteikiama Seimo
 nariui, neturinčiam gyvenamosios patalpos Vilniuje.
-2. Seimo nariams, išskyrus turintiems gyvenamąsias patalpas
-Vilniuje ir 25 km nuo Vilniaus administracinės ribos, gyvenimo Seimo viešbutyje
-išlaidos (už šaltą ir karštą vandenį, elektros energiją, dujas, šiluminę
-energiją ir komunalines paslaugas) kompensuojamos Seimo valdybos nustatyta
-tvarka. Kiti Seimo viešbutyje gyvenantys Seimo nariai moka už šaltą ir karštą
-vandenį, elektros energiją, dujas, šiluminę energiją ir komunalines paslaugas
-Seimo viešbutyje pagal patvirtintus tarifus.
+2. Seimo nariams, išskyrus turintiems gyvenamąsias
+patalpas Vilniuje ir 25 km nuo Vilniaus administracinės ribos, gyvenimo Seimo
+viešbutyje išlaidos (už šaltą ir karštą vandenį, elektros energiją, dujas,
+šiluminę energiją ir komunalines paslaugas) kompensuojamos Seimo valdybos
+nustatyta tvarka. Kiti Seimo viešbutyje gyvenantys Seimo nariai moka už šaltą
+ir karštą vandenį, elektros energiją, dujas, šiluminę energiją ir komunalines
+paslaugas Seimo viešbutyje pagal patvirtintus tarifus.
 3. Nutrūkus Seimo nario įgaliojimams, buvęs Seimo
 narys ir su juo gyvenantys jo šeimos nariai privalo per 30 dienų išsikelti iš
 užimamų gyvenamųjų patalpų ir visiškai atsiskaityti už gyvenimą Seimo
@@ -335,8 +329,8 @@ BAIGIAMOSIOS NUOSTATOS
             21
 straipsnis. Seimo narių darbo sąlygų įstatymo įgyvendinimas 
             1.
-Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo
-įstatymu, sudaro Seimo kanceliarija, savivaldybės.
+Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo įstatymu,
+sudaro Seimo kanceliarija, savivaldybės.
             2.
 Lietuvos Respublikos diplomatinės atstovybės užsienyje privalo teikti Seimo
 nariams paramą komandiruočių atitinkamoje užsienio valstybėje metu.
@@ -398,8 +392,20 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 dienos, kurią 2000 m. spalio 8 d. naujai išrinktas Seimas susirenka į pirmą
 posėdį, tai yra nuo 2000 m. spalio 19 d.
  
+5.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. IX-121, 2000 12 21, Žin., 2000, Nr.
+111-3580 (2000 12 29)
+SEIMO NARIŲ DARBO SĄLYGŲ
+ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2001
+m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000 10 31)
+Redagavo: Aušrinė
+Trapinskienė (2001 01 08)
+                  autrap@lrs.lt
 
