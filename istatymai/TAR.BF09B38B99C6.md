@@ -32,36 +32,37 @@ Vilnius
  
             1 straipsnis. Įstatymo
 paskirtis
-            Šis įstatymas reglamentuoja
-juridiniams asmenims ir juridinio asmens teisių neturinčioms įmonėms ir
-organizacijoms nuosavybės teise priklausančio nekilnojamojo turto, kuriam
-Lietuvos Respublikos Vyriausybės nustatyta tvarka privaloma teisinė
-registracija, apmokestinimą.
+Šis
+įstatymas reglamentuoja juridiniams asmenims ir užsienio valstybių juridiniams
+asmenims bei organizacijoms (toliau – juridiniams asmenims) nuosavybės
+teise priklausančio nekilnojamojo turto apmokestinimą.
 Straipsnio
 pakeitimai:
 Nr.
 I-1436,
 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19) 
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
+62-2232 (2001-07-18)
  
  
             2 straipsnis. Mokesčio
 objektas
-            Mokesčio objektas yra
-Lietuvos Respublikos teritorijoje juridiniams asmenims ir juridinio asmens
-teisių neturinčioms įmonėms ir organizacijoms nuosavybės teise priklausantis
-nekilnojamasis turtas, kuriam privaloma teisinė registracija, išskyrus žemę.
+            Mokesčio objektas yra Lietuvos
+Respublikos teritorijoje juridiniams asmenims nuosavybės teise priklausantis
+nekilnojamasis turtas, išskyrus žemę, orlaivius ir laivus.
 Straipsnio
 pakeitimai:
 Nr.
 I-1436,
 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19) 
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
+62-2232 (2001-07-18)
  
  
             3 straipsnis. Mokesčio
 mokėtojai
-            Mokestį moka juridiniai
-asmenys ir juridinio asmens teisių neturinčios įmonės ir organizacijos,
-įregistruotos Lietuvos Respublikoje įstatymų nustatyta tvarka.
+Mokestį moka juridiniai asmenys,
+kuriems nuosavybės teise priklauso nekilnojamasis turtas Lietuvos Respublikoje.
 Straipsnio
 pakeitimai:
 Nr.
@@ -70,10 +71,11 @@ I-1253,
 Nr.
 I-1436,
 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19) 
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
+62-2232 (2001-07-18)
  
  
-            4 straipsnis. Mokesčio
-tarifas
+            4 straipsnis. Mokesčio tarifas
             Metinis mokesčio tarifas - 1
 procentas nekilnojamojo turto mokestinės vertės.
 Straipsnio
@@ -117,8 +119,8 @@ išvardytų Švietimo įstatyme, nekilnojamasis turtas;
 rūpybos įstaigų, vykdančių Lietuvos Respublikos Vyriausybės nustatyta tvarka
 patvirtintas funkcijas, nekilnojamasis turtas;
             13) visuomeninių
-organizacijų, veikiančių pagal Visuomeninių organizacijų įstatymą, nekilnojamasis
-turtas;
+organizacijų, veikiančių pagal Visuomeninių organizacijų įstatymą,
+nekilnojamasis turtas;
             14) aplinkos apsaugai ir
 priešgaisrinei apsaugai naudojamas nekilnojamasis turtas bei bendros paskirties
 objektai, kuriems privaloma teisinė registracija, pagal Lietuvos Respublikos
@@ -127,12 +129,8 @@ Vyriausybės patvirtintą sąrašą;
 įmonių nekilnojamasis turtas;
             16) nekilnojamasis turtas,
 esantis bankrutavusios įmonės balanse;
- 
-[1 dalis papildoma 17 punktu nuo 2001 m.
-sausio 1 d.:
 17) nepriimti
-naudoti statiniai.]
- 
+naudoti statiniai.
             2. Savivaldybių tarybos savo
 biudžeto sąskaita turi teisę sumažinti nekilnojamojo turto mokestį arba visai
 nuo jo atleisti.
@@ -150,13 +148,17 @@ Nr. VIII-2059,
  
             6 straipsnis. Nekilnojamojo
 turto mokestinė vertė
-            Nekilnojamąjį turtą, kuriam
-privaloma valstybinė teisinė registracija, įvertina Lietuvos Respublikos
-Vyriausybės įsteigtos arba įgaliotos valstybės institucijos.
+            Nekilnojamąjį turtą įvertina Lietuvos
+Respublikos Vyriausybės įsteigtos arba įgaliotos valstybės institucijos.
             Nekilnojamasis turtas
 įvertinamas mokestine verte pagal Lietuvos Respublikos Vyriausybės nustatytą
 metodiką. Įvertinimas galioja penkerius metus, jeigu vartojimo kainų indeksas
-neviršija 1,25 per kalendorinius metus.
+neviršija 
+1,25 per kalendorinius metus.
+Straipsnio
+pakeitimai: 
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
+62-2232 (2001-07-18)
  
             7 straipsnis. Mokesčio
 apskaičiavimas
@@ -167,15 +169,17 @@ ir apskaičiavimą iki kovo mėnesio 1 dienos pateikia miesto (rajono) valstybin
 mokesčių inspekcijai.
             Ar teisingai apskaičiuotas
 mokestis, kontroliuoja miestų (rajonų) valstybinės mokesčių inspekcijos.
-            Mokestis už naujai įsigytą
-ar pastatytą apmokestinamąjį nekilnojamąjį turtą skaičiuojamas po 1/12 metinės
-sumos už kiekvieną mėnesį, pradedant kitu mėnesiu po šio turto teisinio
-įregistravimo. Mokesčio apskaičiavimas valstybinei mokesčių inspekcijai
-pateikiamas praėjus vienam mėnesiui po turto teisinio įregistravimo. Už naujai
-įsigytą turtą mokestis paskirstomas proporcingai likusiems mokėjimo terminams.
-            Nuosavybės teisei į
-nekilnojamąjį turtą perėjus kitam asmeniui arba netekus to turto, mokestis
-neskaičiuojamas nuo kito mėnesio po turto teisinės registracijos pakeitimo.
+            Mokestis už naujai įsigytą ar
+pastatytą apmokestinamąjį nekilnojamąjį turtą skaičiuojamas po 1/12 metinės
+sumos už kiekvieną mėnesį, pradedant mėnesiu, einančiu po mėnesio, kurį
+nekilnojamasis turtas įgytas nuosavybės teise. Mokesčio apskaičiavimas
+valstybinei mokesčių inspekcijai pateikiamas praėjus vienam mėnesiui po turto
+įgijimo nuosavybės teise. Už naujai įsigytą turtą mokestis paskirstomas
+proporcingai likusiems mokėjimo terminams.
+            Praradus nuosavybės teisę į
+nekilnojamąjį turtą, mokestis
+neskaičiuojamas nuo kito mėnesio, einančio po mėnesio, kurį
+nuosavybės teisė į turtą buvo prarasta.
             Laiku neapmokestinti
 mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas
 Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
@@ -184,6 +188,8 @@ pakeitimai:
 Nr.
 I-1311,
 96.04.30, Žin., 1996, Nr. 46-1106 (96.05.17) 
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
+62-2232 (2001-07-18)
  
  
             8 straipsnis. Mokesčio
@@ -193,8 +199,8 @@ metinės sumos pasibaigus ketvirčiui, per 25 dienas.
             Nekilnojamojo turto mokestis
 įskaitomas į savivaldybės, kurios teritorijoje yra turtas, biudžetą.
  
-            9 straipsnis. Atsakomybė už
-neteisingą mokesčio apskaičiavimą ir mokėjimą
+            9 straipsnis. Atsakomybė už neteisingą
+mokesčio apskaičiavimą ir mokėjimą
             Atsakomybė už mokesčio
 įstatymo pažeidimus ir mokesčio mokėjimo užtikrinimo priemonės taikomos
 Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
@@ -287,13 +293,25 @@ STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2059,
 00.10.17, Žin., 2000, Nr.92-2888 (00.10.31)
-ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO
-ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO
+5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
+62-2232 (2001-07-18)
+ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO
+ĮSTATYMO 1, 2, 3, 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Užsienio
+juridiniai asmenys ir organizacijos už Lietuvos Respublikoje esantį ir
+nuosavybės teise priklausantį nekilnojamąjį turtą mokestį pradeda mokėti nuo
+2002 m. sausio 1 d.
  
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.11.06)
+Redagavo: Aušra Petraitienė (2001-07-19)
+                  aupetr@lrs.lt
 
