@@ -74,26 +74,26 @@ pareigūnams;
 saugumo departamento generaliniam direktoriui ir jo pavaduotojams;
 3) Specialiųjų
 tyrimų tarnybos direktoriui ir jo pavaduotojams;
-4) Lietuvos
-banko valdybos pirmininkui, jo pavaduotojams ir valdybos nariams;
-5) valstybės
+4) valstybės
 kontrolieriui ir jo pavaduotojams;
-6) Seimo
+5) Seimo
 kontrolieriams;
-7) moterų ir
+6) moterų ir
 vyrų lygių galimybių kontrolieriui;
-8) vaiko teisių
+7) vaiko teisių
 apsaugos kontrolieriui;
-9) Seimo ar
-Respublikos Prezidento paskirtiems institucijų ir įstaigų vadovams bei
-pareigūnams;
-10) Seimo,
+8) Seimo ar
+Respublikos Prezidento paskirtiems institucijų ir įstaigų, finansuojamų iš
+valstybės biudžeto, vadovams bei pareigūnams;
+9) Seimo,
 Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
 (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
 Straipsnio
 pakeitimai:
 Nr. VIII-2057,
 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
+43-1492 (2001 05 23)
  
  
 3 straipsnis. Valstybės politikų,
@@ -133,8 +133,8 @@ Lietuvos valstybei metus nuo 1990 m. kovo 11 d. valstybės ir savivaldybių
 institucijose bei įstaigose einant viešojo administravimo valstybės tarnautojų
 bei A ir B lygio paslaugų valstybės tarnautojų, taip pat Valstybės tarnybos
 įstatymo 4 straipsnio 3 dalies 1–6 punktuose nurodytas pareigas. 
-2. Tarnybos
-laikas einant ne tuo pačiu metu šio straipsnio 1 dalyje nurodytas pareigas
+2. Tarnybos laikas
+einant ne tuo pačiu metu šio straipsnio 1 dalyje nurodytas pareigas
 susumuojamas. Į tarnybos stažą įskaitomas stažuotės ar bandomasis laikotarpis,
 taip pat mokamų atostogų laikas.
 3. Priedą už
@@ -159,9 +159,9 @@ metų, priemokos dydis perskaičiuojamas proporcingai esamoms darbo užmokesčio
 lėšoms arba dirbtam laikui tais metais.
 2. Institucijų
 teisės aktuose (statutuose, nuostatuose), reglamentuojančiuose teisėjų ir
-valstybės pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas konkretizuojamos
-šio straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir išmokėjimo
-sąlygos bei tvarka. 
+valstybės pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas
+konkretizuojamos šio straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir
+išmokėjimo sąlygos bei tvarka. 
  
 7 straipsnis.
 Įstatymo įgyvendinimo tvarka
@@ -172,19 +172,19 @@ pradedamos taikyti naujai išrinktam ar perrinktam Respublikos Prezidentui.
 Pirmininko, Seimo pareigūnų ir Seimo narių darbo užmokesčio dydis ir apmokėjimo
 sąlygos pradedamos taikyti nuo kito naujai išrinkto Seimo pirmojo posėdžio
 dienos.
-3. Valstybės politikams,
-teisėjams ir valstybės pareigūnams: 
+3. Valstybės
+politikams, teisėjams ir valstybės pareigūnams: 
  
 1) kurių
 vidutinis darbo užmokestis, Vyriausybės nustatyta tvarka apskaičiuotas iš trijų
 paskutinių mėnesių tarnybinių atlyginimų (pareiginių algų) ir iš paskutinių
 dvylikos mėnesių nustatytų priedų ir priemokų (toliau – buvęs darbo
 užmokestis), yra didesnis už šio įstatymo nustatytą darbo užmokestį,
-įsigaliojus šiam įstatymui, mokamas iki tol gautas darbo užmokestis ir 2000
-metais nedidinamas. Nustatytu pereinamuoju laikotarpiu (2001 m. sausio 1 d. –
-2003 m. liepos 1 d.) iki 2001 m. sausio 1 d. buvęs darbo užmokestis
-mažinamas kiekvieną mėnesį priklausantį darbo užmokestį apskaičiuojant (kol
-susilygins su šio įstatymo nustatytu darbo užmokesčiu) pagal formulę:
+įsigaliojus šiam įstatymui, mokamas iki tol gautas darbo užmokestis ir 2000 metais
+nedidinamas. Nustatytu pereinamuoju laikotarpiu (2001 m. sausio 1 d. – 2003 m.
+liepos 1 d.) iki 2001 m. sausio 1 d. buvęs darbo užmokestis mažinamas
+kiekvieną mėnesį priklausantį darbo užmokestį apskaičiuojant (kol susilygins su
+šio įstatymo nustatytu darbo užmokesčiu) pagal formulę:
 A = C – [(C–B) x
 M].
 Čia:
@@ -194,9 +194,9 @@ C – buvęs darbo
 užmokestis;
 B – valstybės politiko, teisėjo ar valstybės pareigūno
 darbo užmokestis, nustatytas šiuo įstatymu;
-M – darbo
-užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo
-užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
+M – darbo užmokesčio
+perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo užmokestį.
+Nustatomi šie pereinamojo laikotarpio koeficientai:
  
 
 
@@ -322,12 +322,10 @@ D
 
  
 4. Pereinamuoju laikotarpiu į valstybės politiko, teisėjo ir valstybės
-pareigūno pareigas išrinktiems ar paskirtiems asmenims darbo užmokestis
-nustatomas ir apskaičiuojamas pagal šio straipsnio nuostatas ir nurodytas
-formules, kuriose dydis C reiškia naujai
-išrinkto ar paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo
-užmokesčio, apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo
-apmokėjimo sąlygas, dydį. 
+pareigūno pareigas išrinktiems ar paskirtiems asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio
+nuostatas ir nurodytas formules, kuriose dydis C reiškia naujai išrinkto ar
+paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokesčio,
+apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo apmokėjimo sąlygas, dydį. 
 5. Pasibaigus
 pereinamajam laikotarpiui, valstybės politikams, teisėjams ir valstybės
 pareigūnams turi būti mokamas šio įstatymo nustatytas darbo užmokestis.
@@ -1448,8 +1446,8 @@ Prokuroras,
 5.
 
 
-Kitų rajonų (miestų) apylinkių
-  prokuratūros prie apylinkių teismų
+Kitų rajonų (miestų) apylinkių prokuratūros
+  prie apylinkių teismų
 
 
  
@@ -1582,7 +1580,7 @@ Direktoriaus pavaduotojai
 3.
 
 
-Lietuvos banko valdyba:
+Valstybės kontrolė:
 
 
  
@@ -1593,50 +1591,6 @@ Lietuvos banko valdyba:
 3.1.
 
 
-Pirmininkas
-
-
-15
-
-
-
-
-3.2.
-
-
-Pirmininko pavaduotojai
-
-
-12
-
-
-
-
-3.3.
-
-
-Nariai
-
-
-10
-
-
-
-
-4.
-
-
-Valstybės kontrolė:
-
-
- 
-
-
-
-
-4.1.
-
-
 Valstybės kontrolierius
 
 
@@ -1645,7 +1599,7 @@ Valstybės kontrolierius
 
 
 
-4.2.
+3.2.
 
 
 Valstybės kontrolieriaus pavaduotojai
@@ -1656,7 +1610,7 @@ Valstybės kontrolieriaus pavaduotojai
 
 
 
-5.
+4.
 
 
 Seimo kontrolieriai:
@@ -1667,7 +1621,7 @@ Seimo kontrolieriai:
 
 
 
-5.1.
+4.1.
 
 
 Įstaigos vadovas
@@ -1678,7 +1632,7 @@ Seimo kontrolieriai:
 
 
 
-5.2.
+4.2.
 
 
 Seimo kontrolieriai
@@ -1689,7 +1643,7 @@ Seimo kontrolieriai
 
 
 
-6.
+5.
 
 
 moterų ir vyrų lygių galimybių
@@ -1701,7 +1655,7 @@ moterų ir vyrų lygių galimybių
 
 
 
-7.
+6.
 
 
 Vaiko teisių apsaugos kontrolierius
@@ -1712,7 +1666,7 @@ Vaiko teisių apsaugos kontrolierius
 
 
 
-8.
+7.
 
 
 Seimo ar Respublikos Prezidento
@@ -1726,7 +1680,7 @@ Seimo ar Respublikos Prezidento
 
 
 
-8.1.
+7.1.
 
 
 Pirmininkai
@@ -1737,7 +1691,7 @@ Pirmininkai
 
 
 
-8.2.
+7.2.
 
 
 Pavaduotojai
@@ -1748,7 +1702,7 @@ Pavaduotojai
 
 
 
-8.3.
+7.3.
 
 
 Nariai
@@ -1760,7 +1714,7 @@ Nariai
 
 
 
-9.
+8.
 
 
 Seimo, Respublikos Prezidento, kitų
@@ -1773,7 +1727,7 @@ Seimo, Respublikos Prezidento, kitų
 
 
 
-9.1.
+8.1.
 
 
 Pirmininkai
@@ -1784,7 +1738,7 @@ Pirmininkai
 
 
 
-9.2.
+8.2.
 
 
 Pavaduotojai
@@ -1795,7 +1749,7 @@ Pavaduotojai
 
 
 
-9.3.
+8.3.
 
 
 Nariai
@@ -1806,11 +1760,11 @@ Nariai
 
 
 
-10.
+9.
 
 
 Kiti Seimo ar Respublikos Prezidento
-  paskirti institucijų ir įstaigų: 
+  paskirti institucijų ir įstaigų, finansuojamų iš valstybės biudžeto: 
 
 
  
@@ -1818,7 +1772,7 @@ Kiti Seimo ar Respublikos Prezidento
 
 
 
-10.1
+9.1
 
 
 Vadovai
@@ -1829,7 +1783,7 @@ Vadovai
 
 
 
-10.2.
+9.2.
 
 
 Pareigūnai
@@ -1839,10 +1793,15 @@ Pareigūnai
 
 
 
+Pastaba. Komisijų ir tarybų, kurių
+posėdžiai vyksta periodiškai, nariams pareiginės algos dydis apskaičiuojamas
+proporcingai dirbtam laikui.
 Skirsnio
 pakeitimai:
 Nr. VIII-2057,
 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
+43-1492 (2001 05 23)
  
 __________
  
@@ -1865,9 +1824,18 @@ Nr. IX-231,
 VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO
 APMOKĖJIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
+43-1492 (2001 05 23)
+VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO
+APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO IR ĮSTATYMO PRIEDĖLIO IV SKIRSNIO PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo: Aušrinė
-Trapinskienė (2001 04 04)
+Trapinskienė (2001 05 24)
                   autrap@lrs.lt
