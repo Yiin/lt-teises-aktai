@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C40F7F89A7C3"
 
 # Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2004-03-31
+Suvestinė redakcija nuo 2004-04-01 iki 2007-06-22
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 46-1116, i. k. 0961010ISTA00I-1324
  
@@ -36,7 +36,9 @@ Vilnius
 
 
 
-2. Šis įstatymas netaikomas įrenginiams, kurių priežiūra nustatyta Branduolinės energijos, Radiacinės saugos, Radioaktyviųjų atliekų tvarkymo įstatymų, įrenginiams, naudojamiems išimtinai gynybos tikslams, taip pat elektros įrenginiams, išskyrus naudojamus sprogioje aplinkoje.
+2. Šis įstatymas netaikomas įrenginiams, kurių priežiūra nustatyta Branduolinės energijos, Radiacinės saugos, Radioaktyviųjų atliekų tvarkymo įstatymų, įrenginiams, naudojamiems išimtinai gynybos tikslams. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
  
 
 
@@ -77,7 +79,10 @@ Vilnius
 
 
 
-7. Įrenginio savininkas – juridinis ar fizinis asmuo arba įmonė, neturinti juridinio asmens teisių, kuriai įrenginys priklauso nuosavybės teise, arba įrenginio valdytojas, kuris valdo, naudoja įrenginį bei juo disponuoja turto patikėjimo teise.
+7. Įrenginio savininkas – juridinis ar fizinis asmuo, kuriam įrenginys priklauso nuosavybės teise, arba įrenginio valdytojas, kuris valdo, naudoja įrenginį bei juo disponuoja turto patikėjimo teise. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
 
 
 
@@ -136,7 +141,10 @@ Vilnius
 
 
 
-8) kėlimo kranų ir jų įrangos;
+8) kėlimo įrenginių ir jų įrangos; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
 
 
 
@@ -146,19 +154,28 @@ Vilnius
 
 
 
-10) sprogioje aplinkoje naudojamų elektros įrenginių;
+10) pramoginių įrenginių ir jų įrangos;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
 
 
 
 
-11) pramoginių įrenginių ir jų įrangos.
+11) degiąsias dujas naudojančių pramoninių įrenginių ir jų įrangos. 
+Papildyta straipsnio punktu:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
 
 
 
 
 
 
-2. Įrenginių gamintojai, jų įgalioti atstovai ir kiti juridiniai bei fiziniai asmenys ir įmonės, neturinčios juridinio asmens teisių, tiekiantys įrenginius į rinką, privalo vadovautis įrenginių priežiūros norminiais aktais ir užtikrinti, kad į rinką pateikti įrenginiai turėtų jų saugos atitiktį patvirtinančius dokumentus ir kad naudojamas įrenginys atitiktų konkretaus priežiūros norminio akto reikalavimus. Įrenginių gamintojai bei montuotojai privalo užtikrinti, kad įrenginiai būtų pagaminti, sumontuoti ir išbandyti pagal įrenginių priežiūros norminių aktų reikalavimus. Įrenginių projektavimo ir gamybos stadijose privalomąją priežiūrą priežiūros norminių aktų, kitų teisės aktų nustatyta tvarka atlieka paskelbtos (notifikuotos) įstaigos.
+2. Įrenginių gamintojai, jų įgalioti atstovai ir kiti juridiniai bei fiziniai asmenys, tiekiantys įrenginius į rinką, privalo vadovautis įrenginių priežiūros norminiais aktais ir užtikrinti, kad į rinką pateikti įrenginiai turėtų jų saugos atitiktį patvirtinančius dokumentus ir kad naudojamas įrenginys atitiktų konkretaus priežiūros norminio akto reikalavimus. Įrenginių gamintojai bei montuotojai privalo užtikrinti, kad įrenginiai būtų pagaminti, sumontuoti ir išbandyti pagal įrenginių priežiūros norminių aktų reikalavimus. Įrenginių projektavimo ir gamybos stadijose privalomąją priežiūrą priežiūros norminių aktų, kitų teisės aktų nustatyta tvarka atlieka paskelbtos (notifikuotos) įstaigos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
 
 
 
@@ -207,14 +224,19 @@ Vilnius
 
 
 
-6) tvirtina atskirų kategorijų įrenginių techninės būklės tikrinimo didžiausias kainas ir (ar) tarifus valstybės institucijų, suteikusių įgaliojimus viešosioms įstaigoms tikrinti įrenginių techninę būklę (toliau – suteikusios įgaliojimus valstybės institucijos), teikimu.
+6) tvirtina atskirų kategorijų įrenginių techninės būklės tikrinimo kainas ir (ar) tarifus valstybės institucijų, suteikusių įgaliojimus viešosioms įstaigoms tikrinti įrenginių techninę būklę (toliau – suteikusios įgaliojimus valstybės institucijos), teikimu. 
+Straipsnio punkto pakeitimai:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
 
 
 
 
 
 
-2. Socialinės apsaugos ir darbo ministras koordinuoja valstybės institucijų, atsakingų už atskirų kategorijų įrenginių priežiūros organizavimą, įrenginių priežiūros darbus.
+2. Socialinės apsaugos ir darbo ministerija koordinuoja valstybės institucijų, atsakingų už atskirų kategorijų įrenginių priežiūros organizavimą, veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
  
 
 
@@ -228,32 +250,34 @@ Vilnius
 Valstybės institucijos, atsakingos už atskirų kategorijų įrenginių priežiūros organizavimą:
 
 
-1) Vyriausybės nustatyta tvarka suteikia viešosioms įstaigoms įgaliojimus tikrinti atskirų kategorijų įrenginių techninę būklę arba juos panaikina ir tvirtina bendruosius įrenginių techninės būklės tikrinimo nuostatus;
+1) Vyriausybės nustatyta tvarka suteikia viešosioms įstaigoms įgaliojimus tikrinti atskirų kategorijų įrenginių techninę būklę arba juos panaikina;
 
 
 
 
-2) tvirtina įrenginių priežiūros norminius aktus, reglamentuojančius įrenginių, kurių priežiūrą joms pavesta organizuoti, techninės būklės tikrinimo tvarką;
+2) tvirtina įrenginių, kurių priežiūrą joms pavesta organizuoti, priežiūros norminius aktus;
 
 
 
 
-3) pagal Vyriausybės patvirtintą įrenginių kategorijų sąrašą sudaro ir tvirtina įgaliotų įstaigų prižiūrimų įrenginių sąrašus (nurodydamos jų parametrus) ir potencialiai pavojingų įrenginių valstybės registre registruojamų įrenginių sąrašus;
+3) pagal Vyriausybės patvirtintą įrenginių kategorijų sąrašą sudaro ir tvirtina įgaliotų įstaigų prižiūrimų ir valstybės registre registruojamų įrenginių sąrašą (nurodydamos jų parametrus);
 
 
 
 
-4) analizuoja ir teikia Vyriausybei tvirtinti įgaliotų įstaigų apskaičiuotas atskirų kategorijų įrenginių techninės būklės tikrinimo didžiausias kainas ir (ar) tarifus;
+4) analizuoja ir teikia Vyriausybei tvirtinti įgaliotų įstaigų apskaičiuotas atskirų kategorijų įrenginių techninės būklės tikrinimo kainas ir (ar) tarifus;
 
 
 
 
-5) nustato importuojamų įrenginių dokumentų patikrinimo ir šių įrenginių tinkamumo naudoti Lietuvos Respublikoje pripažinimo tvarką.
+5) nustato naujų importuojamų įrenginių, išskyrus tuos, kurie atitinka techninių reglamentų reikalavimus, ir importuojamų naudotų įrenginių techninių dokumentų patikrinimo bei šių įrenginių tinkamumo naudoti Lietuvos Respublikoje pripažinimo tvarką. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
  
-
-
-
-
 
 
 
@@ -264,7 +288,10 @@ Valstybės institucijos, atsakingos už atskirų kategorijų įrenginių prieži
 Valstybinė darbo inspekcija:
 
 
-1) vadovaudamasi Valstybinės darbo inspekcijos įstatymu, kontroliuoja, kaip laikomasi įrenginių techninės būklės tikrinimo tvarkos ir terminų ir kaip atliekama nuolatinė įrenginių priežiūra;
+1) vadovaudamasi Valstybinės darbo inspekcijos įstatymu, kontroliuoja, ar laikomasi įrenginių techninės būklės tikrinimo tvarkos ir terminų, taip pat ar įrenginių priežiūros teisės aktų nustatyta tvarka įrenginių savininkai atlieka jų nuolatinę priežiūrą; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
 
 
 
@@ -331,7 +358,10 @@ Valstybinė darbo inspekcija:
 
 
 
-5) apskaičiuoti ir nustatyti atskirų kategorijų įrenginių techninės būklės tikrinimo kainas ir (ar) tarifus ir pateikti juos suteikusiai įgaliojimus valstybės institucijai. Įgaliotų įstaigų nustatytos kainos ir (ar) tarifai neturi viršyti Vyriausybės patvirtintų kainų ir (ar) tarifų;
+5) teikti pasiūlymus dėl atskirų kategorijų įrenginių techninės būklės tikrinimo kainų ir (ar) tarifų nustatymo; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
 
 
 
@@ -382,7 +412,10 @@ Valstybinė darbo inspekcija:
 
 
 
-2) atsako už savo veiksmus ir sprendimus; dėl jų kaltės padaryta žala juridiniams ir fiziniams asmenims ar įmonėms, neturinčioms juridinio asmens teisių, atlyginama įstatymų nustatyta tvarka;
+2) atsako už savo veiksmus ir sprendimus; dėl jų kaltės padaryta žala juridiniams ir fiziniams asmenims atlyginama įstatymų nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
 
 
 
@@ -458,14 +491,25 @@ Valstybinė darbo inspekcija:
 
 
 
-10) apmokėti už įgaliotų įstaigų atliktus įrenginio techninės būklės tikrinimus pagal įgaliotų įstaigų nustatytas kainas ir (ar) tarifus.
+10) apmokėti už įgaliotų įstaigų atliktus įrenginio techninės būklės tikrinimus pagal įgaliotų įstaigų nustatytas kainas ir (ar) tarifus;
+
+
+
+
+11) pasibaigus įrenginių gamintojo nurodytam arba norminiuose teisės aktuose nustatytam įrenginių naudojimo laikui, juos toliau naudoti tik atlikus nuodugnų techninės būklės tyrimą ir gavus įgaliotos įstaigos išvadą, kad įrenginiai tinkami naudoti. 
+Papildyta straipsnio punktu:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
 
 
 
 
 
 
-3. Įrenginių savininkai gali pavesti dalį savo pareigų, nurodytų šio straipsnio 2 dalies 3, 5 ir 9 punktuose, kitam juridiniam asmeniui ar įmonei, neturinčiai juridinio asmens teisių, kai šie atlieka įrenginių nuolatinę priežiūrą pagal sutartį su įrenginio savininku.
+3. Įrenginių savininkai gali pavesti dalį savo pareigų, nurodytų šio straipsnio 2 dalies 3, 5 ir 9 punktuose, kitam juridiniam asmeniui, kai šis atlieka įrenginių nuolatinę priežiūrą tiesiogiai pagal sutartį su įrenginio savininku. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
 
 
 
@@ -520,3 +564,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1972, 2000-10-03, Žin., 2000, Nr. 89-2742 (2000-10-25), i. k. 1001010ISTAIII-1972
 Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 1, 2, 3, 4, 5, 6, 8, 9 ir 10 straipsnių pakeitimo ir papildymo įstatymas
