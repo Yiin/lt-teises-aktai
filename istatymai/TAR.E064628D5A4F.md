@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F"
 
 # Lietuvos Respublikos aukštojo mokslo įstatymas
 
-Suvestinė redakcija nuo 2002-07-12 iki 2003-05-13
+Suvestinė redakcija nuo 2003-05-14 iki 2005-07-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 27-715, i. k. 1001010ISTAIII-1586
  
@@ -66,9 +66,10 @@ BENDROSIOS NUOSTATOS
 
 4. Diplomas – asmens įgytą profesinę kvalifikaciją arba profesinę kvalifikaciją ir kvalifikacinį laipsnį, taip pat mokslo laipsnį liudijantis pažymėjimas, išduodamas baigus pagrindines studijas, specialiąsias profesines studijas, magistrantūrą, meno aspirantūrą, apgynus daktaro disertaciją.
 
-5. Doktorantūra – mokslininkams rengti skirtos trečiosios (aukščiausios) pakopos universitetinės studijos, į kurias priimami asmenys, baigę magistrantūros ar vientisąsias studijas, moksliniai tyrimai ir disertacijos rengimas. 
+5. Doktorantūra – mokslininkams rengti skirtos trečiosios pakopos universitetinės studijos, į kurias priimami asmenys, baigę magistrantūros ar vientisąsias studijas, moksliniai tyrimai ir disertacijos rengimas. 
 Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 6. Kvalifikacija – profesinė kvalifikacija arba profesinė kvalifikacija ir kvalifikacinis laipsnis (bakalauro, magistro), suteikiamas baigus atitinkamos pakopos nuosekliąsias studijas.
@@ -82,9 +83,10 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 9. Magistras – kvalifikacinis laipsnis, suteikiamas asmeniui, išėjusiam magistrantūros studijų programą, taip pat asmuo, turintis magistro kvalifikacinį laipsnį.
 
-10. Meno aspirantūra – trečiosios profesinės pakopos universitetinės studijos, skirtos aukštosios mokyklos meno dalykų dėstytojams rengti ir menininkams specializuotis, meno projekto rengimas ir gynimas. 
+10. Meno aspirantūra – trečiosios pakopos universitetinės studijos, skirtos aukštosios mokyklos meno dalykų dėstytojams rengti ir menininkams specializuotis, meno projekto rengimas ir gynimas. 
 Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 11. Mokslininkas – asmuo, dirbantis mokslinį darbą ir turintis mokslo laipsnį ar pedagoginį vardą. 
@@ -103,9 +105,10 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 18. Profesinė kvalifikacija – profesinis pasirengimas, įgyjamas baigus pagrindines studijas, specialiąsias profesines ar vientisąsias studijas, taip pat magistrantūrą, rezidentūrą ar meno aspirantūrą. 
 
-19. Rezidentūra – trečiosios profesinės pakopos universitetinės studijos, skirtos medicinos studijas baigusiems asmenims rengti medicinos praktikai. 
+19. Rezidentūra – trečiosios pakopos universitetinės studijos, skirtos rengti praktinei veiklai specialistus, įgijusius Vyriausybės nustatytų studijų krypčių kvalifikacijas. Kiekvienos studijų krypties rezidentūros pavadinime turi būti tos studijų krypties pavadinimas. 
 Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 20. Specialiosios profesinės studijos – antrosios pakopos nuosekliosios universitetinės studijos, į kurias priimami asmenys, baigę universitetines pagrindines studijas, ir kurios skirtos tam tikros studijų krypties profesinei kvalifikacijai įgyti. 
@@ -123,9 +126,10 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 25. Universitetinės studijos – nuosekliosios studijos, sudarančios sąlygas asmeniui įgyti teoriniu pasirengimu ir moksliniais tyrimais grindžiamą aukštąjį išsilavinimą ir kvalifikaciją, taip pat mokslo laipsnį (apgynus disertaciją).
 
-26. Vientisosios studijos – magistro arba specialiai profesinei kvalifikacijai įgyti skirtos studijos, kai tęstinumu susiejamos pirmosios ir antrosios pakopų universitetinės studijos. 
+26. Vientisosios studijos – magistro ir (arba) profesinei kvalifikacijai įgyti skirtos studijos, kai tęstinumu susiejamos pirmosios ir antrosios pakopų universitetinės studijos. Medicinos ir odontologijos studijų krypčių vientisosios studijos apima ir būtiną minimalų praktinį pasirengimą (internatūrą). 
 Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 27. Meno licenciatas – kvalifikacinis laipsnis, suteikiamas asmeniui, išėjusiam meno aspirantūros studijų programą, taip pat asmuo, turintis meno licenciato kvalifikacinį laipsnį.
@@ -133,11 +137,24 @@ Papildyta straipsnio dalimi:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
  
 
+28. Kiti studijas vykdantys subjektai – Lietuvos ir užsienio juridiniai asmenys, kuriems Vyriausybės nustatyta tvarka yra išduotas leidimas vykdyti studijas pagal kitų valstybių aukštųjų mokyklų studijų programas. 
+Papildyta straipsnio dalimi:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
+
+29. Su studijomis susijusi veikla – priėmimo studijuoti skelbimas, sutarčių dėl studijų sudarymas, studijų ar konsultacijų vykdymas, taip pat valstybės pripažįstamų išsilavinimo, profesinės kvalifikacijos ar kvalifikacinių laipsnių pažymėjimų (atestatų), diplomų išdavimas.
+Papildyta straipsnio dalimi:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
+
 3 straipsnis. Teisė įgyti aukštąjį išsilavinimą 
 
 1. asmenys, įgiję ne žemesnį kaip vidurinį išsilavinimą, pagal sugebėjimus ir žinias turi teisę šio įstatymo nustatyta tvarka siekti įgyti aukštąjį išsilavinimą Lietuvos aukštosiose mokyklose.
 
-2. Užsienio valstybių piliečių bei asmenų be pilietybės studijų tvarką nustato aukštosios mokyklos, vadovaudamosi Vyriausybės patvirtintais reikalavimais.
+2. Užsienio valstybių piliečių bei asmenų be pilietybės studijų tvarką nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 3. Užsienio aukštosiose mokyklose įgytas aukštasis išsilavinimas pripažįstamas Lietuvos Respublikos įstatymų ir kitų teisės aktų bei Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka.
  
@@ -354,6 +371,15 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 2. Priimant sprendimą steigti aukštąją mokyklą, būtina turėti Vyriausybės įgaliotų institucijų išvadas, patvirtinančias, kad steigiamosios mokyklos materialinė bazė atitinka sveikatos apsaugos ir darbo saugumo reikalavimus.
 
 3. Valstybinis universitetas steigiamas tik universiteto padalinio, veikiančios aukštosios mokyklos ar kelių veikiančių aukštųjų mokyklų reorganizavimo būdu.
+
+4. Nevalstybinę aukštąją mokyklą ar užsienio šalies aukštosios mokyklos filialą gali steigti tik juridinis asmuo (išskyrus Lietuvos Respublikos valstybines aukštąsias mokyklas), turintis materialinę bazę, būtiną aukštosios mokyklos veiklai užtikrinti, ir Vyriausybės nustatyta tvarka gavęs leidimą vykdyti studijas. Ministerija Vyriausybės nustatyta tvarka teikia Vyriausybei išvadą dėl leidimo steigti aukštąją mokyklą išdavimo arba informuoja pareiškėjus apie neigiamo sprendimo priėmimo priežastis. 
+Papildyta straipsnio dalimi:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
+
+5. Asmenų vykdoma su studijomis susijusi veikla be Vyriausybės leidimo yra neteisėta. Ši veikla įstatymų nustatyta tvarka nutraukiama, o asmenys traukiami administracinėn atsakomybėn.
+Papildyta straipsnio dalimi:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 14 straipsnis. Valstybinių aukštųjų mokyklų steigimas
@@ -372,27 +398,28 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
  
 
-15 straipsnis. Nevalstybinių aukštųjų mokyklų steigimas 
+15 straipsnis. Studijų pagal kitų šalių aukštųjų mokyklų studijų programas vykdymas
 
-1. Nevalstybines aukštąsias mokyklas Vyriausybės nustatyta tvarka gali steigti Lietuvos ir kitų valstybių fiziniai ir juridiniai asmenys. Mokymo įstaigos, kuriose studijos vyksta pagal kitų šalių aukštųjų mokyklų studijų programas, steigiamos kaip nevalstybinės aukštosios mokyklos. 
-Straipsnio dalies pakeitimai:
-Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
-Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
- 
+1. Lietuvoje gali būti vykdomos studijos pagal kitų šalių aukštųjų mokyklų studijų programas, jeigu tose šalyse yra nacionalinė vertinimo (akreditavimo) sistema, pagal kurią yra įvertintos (akredituotos) tos aukštosios mokyklos arba jų programos.
 
-2. Fiziniai ir juridiniai asmenys, norintys steigti nevalstybinę aukštąją mokyklą, pateikia Ministerijai aukštosios mokyklos veiklos, studijų programų ir statuto projektus, taip pat dokumentus, įrodančius, kad steigėjai turi lėšų šaltinius, būtinus aukštosios mokyklos materialinei bazei sukurti ir veiklai užtikrinti. Ministerija turi išnagrinėti pateiktus dokumentus ne vėliau kaip per 3 mėnesius. Jeigu aukštosios mokyklos veiklos projektas, studijų programos, statutas ir materialinė bazė atitinka šio įstatymo nustatytas sąlygas, Ministerija teikia Vyriausybei išvadą dėl licencijos išdavimo aukštajai mokyklai. Ministerija, priėmusi neigiamą sprendimą dėl aukštosios mokyklos steigimo, apie šį sprendimą ir jo priežastis informuoja pareiškėjus. Šis sprendimas gali būti skundžiamas teismo tvarka.
-Straipsnio dalies pakeitimai:
-Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
- 
+2. Lietuvos ir užsienio aukštosios mokyklos, ketinančios Lietuvoje vykdyti studijas pagal kitų šalių aukštųjų mokyklų studijų programas ir užsiimti kita su studijomis susijusia veikla, turi Vyriausybės nustatyta tvarka gauti leidimą šioms paslaugoms teikti.
 
-3. Nevalstybinės aukštosios mokyklos veikla, pradėta negavus Vyriausybės licencijos, yra įstatymų nustatyta tvarka nutraukiama, o mokyklos steigėjai traukiami administracinėn atsakomybėn.
+3. Kiti juridiniai asmenys, turintys užsienio aukštosios mokyklos įgaliojimą vykdyti studijas Lietuvoje ir tos užsienio šalies aukštojo mokslo sritį reglamentuojančios valstybės institucijos tarpininkavimo raštą, taip pat gali vykdyti studijas pagal kitų šalių aukštųjų mokyklų studijų programas ir užsiimti kita su studijomis susijusia veikla, jeigu Vyriausybės nustatyta tvarka gavo leidimą šioms paslaugoms teikti.
+
+4. Ministerija Vyriausybės nustatyta tvarka prižiūri, kaip vykdomos leidimo sąlygos. Vyriausybė gali nustatyti sąlygas, kurioms esant leidimas gali būti Ministerijos teikimu panaikintas.
+
+Straipsnio pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 16 straipsnis. Aukštosios mokyklos veiklos pradžia
 
 1. Aukštoji mokykla turi teisę pradėti savo veiklą nuo jos ir studijų programų įregistravimo Švietimo įstaigų bei mokslo ir studijų institucijų valstybės registre bei Studijų ir mokymo programų registre dienos. Nauja aukštoji mokykla registruojama Švietimo įstaigų bei mokslo ir studijų institucijų valstybės registre po to, kai Vyriausybės ar jos įgaliotos institucijos sudaryta komisija patvirtina, kad sąlygos, kurios buvo nurodytos priimant nutarimą steigti aukštąją mokyklą ar išduoti licenciją, yra įvykdytos.
 
-2. Ne vėliau kaip po ketverių metų nuo aukštosios mokyklos veiklos pradžios Vyriausybės įgaliota studijų kokybės vertinimo institucija vertina aukštosios mokyklos veiklą. 
+2. Ne vėliau kaip po ketverių metų nuo aukštosios mokyklos veiklos pradžios Studijų kokybės vertinimo centras vertina aukštosios mokyklos veiklą.
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 3. Jei veikla įvertinama teigiamai, ministras išduoda leidimą valstybinei aukštajai mokyklai priimti statutą ir sudaryti aukštosios mokyklos savivaldos institucijas šio įstatymo nustatyta tvarka. Išrinkus senatą (akademinę tarybą) bei universiteto rektorių (kolegijos direktorių), steigiamosios tarybos ir universiteto laikinojo rektoriaus (kolegijos direktoriaus) įgaliojimai nutrūksta.
 
@@ -409,13 +436,17 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 4. Išrinkus reorganizuotos aukštosios mokyklos vadovą, laikinojo administratoriaus įgaliojimai pasibaigia.
 
-5. Jeigu Vyriausybės įgaliota studijų kokybės vertinimo institucija pakartotinai neigiamai įvertina aukštosios mokyklos veiklą ir nustato, kad jos teikiamos kvalifikacijos neatitinka nustatytų reikalavimų, Ministerija gali siūlyti Vyriausybei:
+5. Jeigu Studijų kokybės vertinimo centras pakartotinai neigiamai įvertina aukštosios mokyklos veiklą ir nustato, kad jos teikiamos kvalifikacijos neatitinka nustatytų reikalavimų, Ministerija gali siūlyti Vyriausybei:
 
 1) panaikinti nevalstybinės aukštosios mokyklos licenciją;
 
 2) likviduoti ar reorganizuoti valstybinę kolegiją;
 
 3) siūlyti Seimui likviduoti arba reorganizuoti valstybinį universitetą.
+
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 6. Kai yra priimtas nutarimas likviduoti valstybinę aukštąją mokyklą, ministras paskiria likvidatorių, kuris pagal patvirtintą likvidavimo projektą ir grafiką likviduoja aukštąją mokyklą. Projekte turi būti išdėstyti siūlymai dėl darbuotojų tolesnio darbo, galimybių studentams tęsti studijas kitose aukštosiose mokyklose, taip pat siūlymai dėl aukštosios mokyklos turto naudojimo. 
 
@@ -446,7 +477,14 @@ AUKŠTųjų MOKyklų SAVIVALDa IR VALSTYBINIS REGULIAVIMAS
 
 3. Ministerijos ekspertinė institucija strateginiais aukštojo mokslo plėtros klausimais yra Aukštojo mokslo taryba, kuri sudaroma ir veikia pagal Vyriausybės patvirtintus nuostatus.
 
-4. Aukštųjų mokyklų tarpusavio ryšius bei ryšius su valdžios ir valdymo bei vietos savivaldos institucijomis koordinuoja Lietuvos universitetų rektorių konferencija (konferencijos), Lietuvos kolegijų direktorių konferencija (konferencijos), Lietuvos studentų atstovybių sąjunga (sąjungos), kitos aukštųjų mokyklų visuomeninės, ne pelno ir kitokios organizacijos bei asociacijos, veikiančios pagal įstatymus ir savo įstatus. Šios organizacijos pačių prašymu gali gauti valstybės biudžeto finansinę paramą iš bendrosioms mokslo ir studijų reikmėms skiriamų lėšų.
+4. Ministerijos ekspertinė institucija aukštųjų mokyklų vertinimo klausimais yra biudžetinė įstaiga Studijų kokybės vertinimo centras. Šios įstaigos steigėjo funkcijas atlieka Ministerija. 
+Papildyta straipsnio dalimi:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
+
+5. Aukštųjų mokyklų tarpusavio ryšius bei ryšius su valdžios ir valdymo bei vietos savivaldos institucijomis koordinuoja Lietuvos universitetų rektorių konferencija (konferencijos), Lietuvos kolegijų direktorių konferencija (konferencijos), Lietuvos studentų atstovybių sąjunga (sąjungos), kitos aukštųjų mokyklų visuomeninės, ne pelno ir kitokios organizacijos bei asociacijos, veikiančios pagal įstatymus ir savo įstatus. Šios organizacijos pačių prašymu gali gauti valstybės biudžeto finansinę paramą iš bendrosioms mokslo ir studijų reikmėms skiriamų lėšų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 20 straipsnis. Lietuvos aukštojo mokslo sistemos plėtros planavimas
@@ -511,7 +549,10 @@ AUKŠTųjų MOKyklų SAVIVALDa IR VALSTYBINIS REGULIAVIMAS
 
 10) svarsto universiteto plėtros perspektyvinio plano projektą ir, gavęs universiteto tarybos išvadą, jį tvirtina bei teikia Ministerijai kartu su universiteto tarybos išvada;
 
-11) svarsto sutarties su Ministerija projektą ir, gavęs universiteto tarybos išvadą, teikia jį Ministerijai kartu su universiteto tarybos išvada; 
+11) neteko galios 2003-05-14; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 12) svarsto metines rektoriaus ataskaitas, metines pajamų ir išlaidų sąmatas bei jų įvykdymo ataskaitas ir, gavęs universiteto tarybos išvadą, jas tvirtina; 
 
@@ -550,7 +591,10 @@ AUKŠTųjų MOKyklų SAVIVALDa IR VALSTYBINIS REGULIAVIMAS
 
 7) svarsto taikomųjų mokslinių tyrimų ir (ar) taikomosios mokslinės veiklos plėtros programas;
 
-8) nagrinėja kolegijos plėtros perspektyvinio plano bei sutarties su Ministerija projektus ir, gavusi kolegijos tarybos pritarimą, teikia juos Ministerijai; 
+8) nagrinėja kolegijos plėtros perspektyvinio plano projektą ir, gavusi kolegijos tarybos pritarimą, teikia jį Ministerijai;
+Straipsnio punkto pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 9) svarsto metines direktoriaus ataskaitas, metines pajamų ir išlaidų sąmatas bei jų įvykdymo ataskaitas ir, gavusi kolegijos tarybos pritarimą, jas tvirtina; 
 
@@ -567,7 +611,10 @@ AUKŠTųjų MOKyklų SAVIVALDa IR VALSTYBINIS REGULIAVIMAS
 
 1. Valstybinio universiteto taryba, valstybinės kolegijos taryba (toliau – taryba):
 
-1) rengia išvadas dėl aukštosios mokyklos plėtros perspektyvinio plano bei aukštosios mokyklos sutarties su Ministerija projektų;
+1) rengia išvadas dėl aukštosios mokyklos plėtros perspektyvinio plano projekto;
+Straipsnio punkto pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 2) teikia siūlymus dėl studijų, mokslinių tyrimų ir jų plėtros programų, taip pat dėl struktūros pakeitimų, reikalingų toms programoms įgyvendinti; 
 
@@ -765,9 +812,10 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 32 straipsnis. Profesoriai emeritai
 
-1. Vyresniems kaip 65 metų profesoriams, aktyviai dirbusiems mokslinį ir pedagoginį darbą universitete, už ypatingus nuopelnus mokslui ar menui senatas gali suteikti profesoriaus emerito vardą. Profesoriui emeritui universiteto statuto nustatyta tvarka sudaromos sąlygos dalyvauti universiteto mokslinėje ir kitoje veikloje. Kiekvieno universiteto profesorių emeritų skaičius nustatomas universiteto sutartyje su Ministerija. 
+Vyresniems kaip 65 metų profesoriams ir vyriausiesiems mokslo darbuotojams, aktyviai dirbusiems mokslinį ir pedagoginį darbą universitete, už ypatingus nuopelnus mokslui ar menui senatas gali suteikti profesoriaus emerito vardą. Profesoriui emeritui universiteto statuto nustatyta tvarka sudaromos sąlygos dalyvauti universiteto mokslinėje ir kitoje veikloje. Profesoriui emeritui aukštosios mokyklos nustatyta tvarka mokama universiteto senato nustatyto dydžio profesoriaus emerito mėnesinė išmoka.
 
-2. Profesoriaus emerito vardas suteikia teisę gauti 75% universiteto profesoriaus atlyginimo dydžio mokslininko valstybinę pensiją. Profesoriui emeritui gali būti suteikiamos universiteto sutartyje su Ministerija numatytos papildomos socialinės garantijos. 
+Straipsnio pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 33 straipsnis. Kviestiniai dėstytojai ir mokslo darbuotojai
@@ -800,7 +848,10 @@ MOKSLINĖ IR MENINĖ VEIKLA
 
 2. Valstybė skiria biudžeto lėšų valstybiniuose universitetuose atliekamiems moksliniams tyrimams finansuoti, taip pat mokslinei aparatūrai, įrangai įsigyti bei mokslinėms laboratorijoms įrengti. 
 
-3. Universitetuose atliekamų mokslinių tyrimų kryptis ir mastą, tematiką bei terminus nustato patys universitetai, atsižvelgdami į valstybės reikmes, tyrimų svarbą krašto švietimui, kultūrai ir ūkiui, tarptautinio mokslinio bendradarbiavimo programas, taip pat į mokslo darbuotojų kvalifikaciją bei universiteto turimus finansinius išteklius. Valstybinių universitetų tyrimų kryptys bei terminai nurodomi universiteto sutartyje su Ministerija. Pagal tikslines programas vykdoma taikomoji mokslinė veikla ir su ja susiję taikomieji moksliniai tyrimai yra finansuojami iš valstybės biudžeto, taip pat iš užsakovų lėšų.
+3. Universitetuose atliekamų mokslinių tyrimų kryptis ir mastą, tematiką bei terminus nustato patys universitetai, atsižvelgdami į valstybės reikmes, tyrimų svarbą krašto švietimui, kultūrai ir ūkiui, tarptautinio mokslinio bendradarbiavimo programas, taip pat į mokslo darbuotojų kvalifikaciją bei universiteto turimus finansinius išteklius. Valstybinių universitetų tyrimų kryptys bei terminai nurodomi universiteto plėtros perspektyviniame plane. Pagal tikslines programas vykdoma taikomoji mokslinė veikla ir su ja susiję taikomieji moksliniai tyrimai yra finansuojami iš valstybės biudžeto, taip pat iš užsakovų lėšų.
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 4. Universitetuose mokslinė veikla plėtojama katedrose, laboratorijose, kituose moksliniuose padaliniuose. Valstybiniuose universitetuose dideli, ilgalaikiai, tarptautinio lygio atskirų mokslo krypčių ar šakų fundamentiniai ir taikomieji tyrimai gali būti vykdomi šių universitetų mokslo institutuose.
 
@@ -822,7 +873,10 @@ Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
  
 
-6. Instituto direktorių iš mokslininkų ne ilgesnei kaip 5 metų kadencijai ir ne daugiau kaip dviem kadencijoms iš eilės viešo konkurso būdu slaptu balsavimu renka instituto taryba. Išrinktą instituto direktorių, senatui pritarus, tvirtina rektorius. Instituto direktorius yra instituto tarybos narys pagal pareigas. 
+6. Instituto direktorių iš mokslininkų ne ilgesnei kaip 5 metų kadencijai ir ne daugiau kaip dviem kadencijoms iš eilės viešo konkurso būdu slaptu balsavimu renka komisija, kurią sudaro po lygiai atstovų iš instituto tarybos ir universiteto senato bei vienas Ministerijos atstovas. Konkurso ir komisijos sudarymo tvarką nustato Ministerija. Su išrinktu direktoriumi rektorius sudaro terminuotą darbo sutartį. Instituto direktorius yra instituto tarybos narys pagal pareigas.
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 7. Institutas neatlygintinai naudojasi jam perduotu valstybės turtu. Instituto vykdomiems tyrimams finansuoti skiriamos valstybės biudžeto lėšos kaip ir valstybiniams mokslo institutams. Instituto veiklos metinę ataskaitą bei metinę pajamų ir išlaidų sąmatos įvykdymo ataskaitą tvirtina universiteto senatas, gavęs universiteto tarybos išvadą.
  
@@ -854,15 +908,24 @@ STUDIJOS
 
 3) vientisosios (suderintos pirmoji ir antroji pakopos);
 
-4) rezidentūros, meno aspirantūros (trečioji profesinė pakopa);
+4) rezidentūros, meno aspirantūros, doktorantūros (trečioji pakopa). 
+Straipsnio punkto pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
-5) doktorantūros (trečioji pakopa). 
+5) neteko galios 2003-05-14. 
+Straipsnio punkto pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
  
 
-3. Pagrindinės nuosekliųjų pirmosios pakopos studijų formos yra šios: dieninės, vakarinės ir neakivaizdinės studijos. Konkrečios nuosekliųjų studijų krypties formas, dėstomus dalykus ir jų santykį nustato atitinkamos studijų krypties reglamentas. Studijų formų aprašus tvirtina Ministerija, atsižvelgusi į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus, Aukštojo mokslo tarybos bei Lietuvos studentų sąjungos (sąjungų) išvadas.
+3. Pagrindinės nuosekliųjų studijų formos yra šios: dieninė, vakarinė ir neakivaizdinė. Konkrečias nuosekliųjų pirmosios pakopos studijų krypties formas nustato atitinkamos studijų krypties reglamentas. Studijų formų aprašus tvirtina Ministerija, atsižvelgusi į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus, Aukštojo mokslo tarybos bei Lietuvos studentų atstovybių sąjungos (sąjungų) išvadas.
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 4. Nenuosekliųjų studijų formas nustato pati aukštoji mokykla.
 
@@ -873,9 +936,10 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 40 straipsnis. Studijų kryptys
 
-1. Bendrąjį universitetinių ir neuniversitetinių studijų sričių ir krypčių, pagal kurias vyksta nuosekliosios studijos Lietuvos aukštosiose mokyklose, klasifikatorių tvirtina Vyriausybė. Universitetinių ir neuniversitetinių studijų sričių ir krypčių, pagal kurias vyksta nuosekliosios studijos konkrečioje aukštojoje mokykloje, sąrašą tvirtina Ministerija, atsižvelgusi į mokslo ir studijų ekspertinių institucijų išvadas. 
+1. Bendrąjį universitetinių ir neuniversitetinių studijų sričių ir krypčių, pagal kurias vyksta nuosekliosios studijos Lietuvos aukštosiose mokyklose, klasifikatorių tvirtina Vyriausybė.
 Straipsnio dalies pakeitimai:
 Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 2. Naujų studijų krypčių steigimo arba jų panaikinimo aukštosiose mokyklose tvarką tvirtina Ministerija, atsižvelgusi į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus bei Aukštojo mokslo tarybos išvadas.
@@ -887,7 +951,10 @@ Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA0
 
 2. Universitetinių pagrindinių studijų apimtis yra ne mažesnė kaip 140 kreditų ir ne didesnė kaip 180 kreditų, o neuniversitetinių pagrindinių studijų apimtis yra ne mažesnė kaip 120 kreditų ir ne didesnė kaip 160 kreditų.
 
-3. Vientisųjų studijų apimtis yra ne mažesnė kaip 180 kreditų (kai suteikiama profesinė kvalifikacija) ar 200 kreditų (kai suteikiamas magistro kvalifikacinis laipsnis), bet ne didesnė kaip 240 kreditų. Pirmoji studijų dalis (160 kreditų) priskiriama pagrindinių studijų pirmajai pakopai, o likusi dalis (20–80 kreditų) priskiriama nuosekliųjų studijų antrajai pakopai.
+3. Vientisųjų studijų apimtis yra ne mažesnė kaip 180 kreditų (kai suteikiama profesinė kvalifikacija) ar 200 kreditų (kai suteikiamas magistro kvalifikacinis laipsnis), bet ne didesnė kaip 240 kreditų, išskyrus medicinos studijų krypties studijas, kurių apimtis yra ne didesnė kaip 280 kreditų. Pirmoji studijų dalis (160 kreditų) priskiriama pagrindinių studijų pirmajai pakopai, o likusi dalis (20–80 kreditų, medicinos studijų krypties – 80–120 kreditų) priskiriama nuosekliųjų studijų antrajai pakopai.
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 4. Specialiųjų profesinių studijų apimtis yra ne mažesnė kaip 40 kreditų ir ne didesnė kaip 80 kreditų. 
 
@@ -917,9 +984,24 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 6. Specialiosios profesinės studijos skiriamos geriau pasirengti darbui, kuriam reikalingi specialūs praktiniai gebėjimai. Bendruosius specialiųjų profesinių studijų programų reikalavimus tvirtina Ministerija. 
 
-7. Rezidentūros studijos skiriamos medicinos studijas baigusiems asmenims pasirengti savarankiškai medicinos praktikai.
+7. Rezidentūros studijos skiriamos Vyriausybės nustatytų studijų krypčių kvalifikacijas įgijusiems asmenims pasirengti savarankiškai praktinei veiklai. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
-8. Doktorantūros studijos baigiamos disertacijos parengimu. Disertacijos ginamos prie universitetų veikiančiose mokslo krypčių tarybose. Doktorantūros studijų, disertacijos gynimo ir mokslo laipsnių suteikimo tvarką nustato doktorantūros nuostatai, kuriuos tvirtina Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos mokslų akademijos, Lietuvos universitetų rektorių konferencijos (konferencijų) siūlymus bei Aukštojo mokslo tarybos išvadas. Meno aspirantūros studijos vykdomos pagal meno aspirantūros nuostatus, kuriuos tvirtina Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų) siūlymus bei Aukštojo mokslo tarybos išvadas.
+8. Doktorantūros studijos baigiamos disertacijos parengimu. Disertacijos ginamos prie universitetų veikiančiose mokslo krypčių tarybose. Doktorantūros studijų, disertacijos gynimo ir mokslo laipsnių suteikimo tvarką nustato doktorantūros nuostatai, kuriuos tvirtina Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos mokslų akademijos, Lietuvos universitetų rektorių konferencijos (konferencijų) siūlymus bei Aukštojo mokslo tarybos išvadas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
+
+9. Meno aspirantūros studijos vykdomos pagal meno aspirantūros nuostatus. Juos tvirtina Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų) siūlymus bei Aukštojo mokslo tarybos išvadas. 
+Papildyta straipsnio dalimi:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
+
+10. Tais atvejais, kai studijų programoje yra numatyta studentų profesinės veiklos praktika, įmonė ar įstaiga, kurioje studentas atlieka praktiką, ir studentas bei aukštoji mokykla, kurioje jis studijuoja, sudaro praktinio mokymo sutartį. Sutarties turinį, formą ir registravimo tvarką nustato Ministerija.
+Papildyta straipsnio dalimi:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 43 straipsnis. Tęstinis mokymasis
@@ -933,7 +1015,9 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 1. Nuosekliosios studijos Lietuvos aukštosiose mokyklose vyksta pagal studijų programas, įtrauktas į studijų ir mokymo programų registrą. Programos registruojamos Ministerijos nustatyta tvarka. 
 
-2. Studijų programų kokybė periodiškai vertinama. Tai daro Vyriausybės įgaliota studijų kokybės vertinimo institucija ir viešai skelbia savo išvadas, į kurias Ministerija atsižvelgia sudarydama sutartį su aukštąja mokykla. 
+2. Studijų programų kokybė periodiškai vertinama. Ministerijos nustatyta tvarka tai daro Studijų kokybės vertinimo centras ir viešai skelbia savo išvadas. Į šias išvadas Ministerija atsižvelgia teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 45 straipsnis. Individuali studijų programa
@@ -956,18 +1040,25 @@ Aukštosios mokyklos gali sudaryti sąlygas studentui studijuoti pagal individua
 2. Rezultatų įskaitymo tvarką nustato Ministerija, atsižvelgdama į Lietuvos universitetų rektorių konferencijos, Lietuvos kolegijų direktorių konferencijos siūlymus bei tarptautinius susitarimus. 
  
 
-47 straipsnis. Priėmimas į valstybinę aukštąją mokyklą 
+47 straipsnis. Priėmimas į valstybinę aukštąją mokyklą
 
 1. Į aukštąją mokyklą priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą.
 
-2. Priėmimo į aukštąją mokyklą sąlygas nustato pati aukštoji mokykla, Vyriausybės nustatyta tvarka jas suderinusi su Ministerija. Priėmimo į pagrindines studijas sąlygos skelbiamos ne vėliau kaip prieš 2 metus iki priėmimo pradžios. Stojantis asmuo turi teisę pateikti prašymą stoti į kelias aukštąsias mokyklas.
+2. Priėmimo į aukštąją mokyklą taisykles nustato pati aukštoji mokykla, Vyriausybės nustatyta tvarka jas suderinusi su Ministerija. Priėmimo į pagrindines ir vientisąsias studijas sąlygos dėl konkursinių mokomųjų dalykų pagal studijų kryptis ir dėl konkursinio balo formavimo principų derinamos Vyriausybės nustatyta tvarka ir skelbiamos ne vėliau kaip prieš 2 metus iki priėmimo pradžios. Stojantis asmuo turi teisę pateikti prašymą stoti į kelias aukštąsias mokyklas.
 
-3. Studentai į aukštąją mokyklą priimami konkurso būdu. Pagrindinių studijų atrankos konkurso pagrindą turi sudaryti ne daugiau kaip keturių mokomųjų dalykų brandos egzaminų rezultatai ir (ar) metiniai pažymiai. Specialiesiems gebėjimams nustatyti aukštoji mokykla gali organizuoti ne daugiau kaip du egzaminus ar testus. Jei Ministerijos įgaliota institucija organizuoja ir administruoja mokomojo dalyko egzaminą, aukštoji mokykla šio mokomojo dalyko egzamino ar testo neorganizuoja. 
+3. Studentai į aukštąją mokyklą priimami konkurso būdu. Pagrindinių ir vientisųjų studijų konkursinį balą turi sudaryti ne daugiau kaip keturių mokomųjų dalykų mokymosi rezultatai (iš jų – ne daugiau kaip 3 mokomųjų dalykų brandos egzaminų rezultatai). Specialiesiems gebėjimams nustatyti aukštoji mokykla papildomai gali organizuoti ne daugiau kaip du egzaminus ar testus. Jei mokomojo dalyko brandos egzaminą organizuoja ir administruoja Ministerijos įgaliota institucija, aukštoji mokykla šio mokomojo dalyko egzamino ar testo neorganizuoja. Priimant į antrosios ir trečiosios pakopos studijas turi būti atsižvelgiama į žemesnės arba tos pačios pakopos studijų rezultatus ir aukštosios mokyklos nustatytus kitus kriterijus.
 
-4. Ministerija gali nustatyti užsienio piliečių ir asmenų be pilietybės, kurių studijos visiškai ar iš dalies finansuojamos iš Lietuvos valstybės biudžeto, priėmimo į aukštąsias mokyklas kvotas ir tvarką.
+4. Bendrą maksimaliai leistiną priimamų į aukštąsias mokyklas studentų skaičių pagal studijų pakopas, formas ir finansavimo pobūdį kasmet ne vėliau kaip iki kovo 1 d. tvirtina Vyriausybė, atsižvelgdama į specialistų poreikį, konkrečios aukštosios mokyklos specialistų parengimo kokybę, taip pat aukštosioms mokykloms skirtas valstybės biudžeto lėšas.
+
+5. Asmenys, sutinkantys mokėti visą studijų kainą, konkurso būdu gali būti priimami į vakarinės ir neakivaizdinės formų visų pakopų studijas, taip pat iki 2005–2006 studijų metų – į antrosios pakopos dieninės formos studijas.
+
+6. Su studentais, priimamais šio straipsnio 5 dalyje nustatyta tvarka, aukštoji mokykla sudaro studijų sutartis. Standartines studijų sutarties sąlygas nustato Ministerija.
+
+7. Ministerija gali nustatyti užsienio valstybių piliečių ir asmenų be pilietybės, kurių studijos visiškai ar iš dalies finansuojamos iš Lietuvos valstybės biudžeto, priėmimo į aukštąsias mokyklas kvotas ir tvarką.
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 VII SKIRSNIS
@@ -976,9 +1067,10 @@ STUDENTAI
 
 48 straipsnis. Aukštųjų mokyklų studentai ir klausytojai
 
-1. Aukštųjų mokyklų studentai yra asmenys, studijuojantys pagal nuosekliųjų studijų programas. Šiame ir kituose įstatymuose nustatytomis studentų teisėmis taip pat naudojasi doktorantai, meno aspirantai ir rezidentai.
+1. Aukštųjų mokyklų studentai yra asmenys, studijuojantys pagal nuosekliųjų studijų programas.
 Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 2. Studentams išduodamas atitinkamos formos studento pažymėjimas, kurio išdavimo tvarką nustato Ministerija.
@@ -1012,11 +1104,10 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 11) naudotis įstatymų, aukštųjų mokyklų statutų bei kitų teisės aktų nustatytomis kitomis teisėmis.
 
-2. Pirmosios ir antrosios pakopų studijų (išskyrus rezidentūrą) studentai, be šio straipsnio 1 dalyje išvardytų teisių, turi ir šias teises:
-
-1) Vyriausybės nustatyta tvarka gauti stipendijas; 
-
-2) Vyriausybės nustatyta tvarka gauti paskolas studijoms apmokėti ir pragyvenimo išlaidoms iš dalies padengti. 
+2. Studentas, neišlaikęs egzamino, įskaitos ar kitaip neatsiskaitęs už studijų programoje numatytus dalykus, turi teisę nemokamai perlaikyti (atsiskaityti) aukštosios mokyklos nustatyta tvarka, kuri turi būti priimta atsižvelgus į studentų atstovybės siūlymus. Ši nuostata netaikoma aukštosiose mokyklose, kurios naudoja kaupiamąją žinių vertinimo sistemą ir tam yra gavusios studentų atstovybės pritarimą.
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 3. Studentai privalo:
 
@@ -1098,40 +1189,12 @@ Aukštųjų mokyklų finansavimas
 
 54 straipsnis. Valstybės biudžeto lėšų skyrimas valstybinėms aukštosioms mokykloms
 
-1. Valstybės biudžeto lėšos skiriamos valstybinei aukštajai mokyklai numatytoms programoms įgyvendinti pagal sutartį, kurią Ministerija Vyriausybės pavedimu 3 metams sudaro su aukštąja mokykla. Valstybės biudžeto lėšos aukštajai mokyklai skiriamos bendra suma: paprastosios išlaidos (neišskiriant lėšų darbo užmokesčiui) ir valstybės investicijų programoje numatyti valstybės biudžeto asignavimai nepaprastosioms išlaidoms. Valstybės biudžeto lėšų skyrimo valstybinei aukštajai mokyklai pagal sutartį bei atsiskaitymo ir atskaitomybės už valstybės biudžeto lėšas tvarką nustato Vyriausybė, o lėšų panaudojimo tikslingumą kontroliuoja Finansų ministerija ir Valstybės kontrolė. Jeigu valstybės biudžeto dalis, skirta tiems finansiniams metams, yra pakeičiama, subsidijų dydį Ministerija privalo patikslinti. Kol valstybės subsidija nėra patvirtinta ar patikslinta, už avansinius išmokėjimus institucijoms yra atsakinga Ministerija. 
-TAR pastaba. 54 straipsnio 1 dalies nuostatos dėl valstybės biudžeto lėšų aukštajai mokyklai skyrimo bendra suma įsigalioja nuo 2002 m. sausio 1 d.
-Straipsnio dalies pakeitimai:
-Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
- 
+1. Valstybės biudžeto lėšas kiekvienai valstybinei aukštajai mokyklai kasmet skiria Seimas. Valstybės biudžeto lėšos aukštajai mokyklai skiriamos bendra suma: paprastosios išlaidos (neišskiriant lėšų darbo užmokesčiui) ir valstybės investicijų programoje numatyti valstybės biudžeto asignavimai nepaprastosioms išlaidoms.
 
-2. Sutarties projektą pagal Ministerijos nustatytą formą rengia aukštoji mokykla. Sutartyje, vadovaujantis perspektyviniu Vyriausybės patvirtintu Lietuvos aukštojo mokslo sistemos plėtros planu, turi būti numatyta:
+2. Aukštajai mokyklai skiriamos valstybės biudžeto lėšos turi būti siejamos su atitinkamomis programomis ir aukštosios mokyklos veiklos vertinimo rezultatais. Prireikus Ministerija gali inicijuoti aukštosios mokyklos ūkinės ir finansinės veiklos auditą.
 
-1) kiekvienais metais priimamų į aukštąją mokyklą studentų skaičius pagal studijų kryptis, pakopas ir formas;
-
-2) aukštosios mokyklos mokslinių tyrimų ir meninės kūrybos kryptys arba programos;
-
-3) objektai, įrašyti į Lietuvos Respublikos nekilnojamųjų kultūros vertybių registrą ir Lietuvos kultūros vertybių sąrašus;
-
-4) valstybės biudžeto lėšos, skiriamos sutartyje numatytai aukštosios mokyklos veiklai užtikrinti ir plėtoti;
-
-5) valstybės lėšos investicijų ir kitoms programoms įgyvendinti;
-
-6) kiti aukštosios mokyklos ir Ministerijos įsipareigojimai;
-
-7) aukštosios mokyklos planuojamos gauti iš mokslinės, konsultacinės, informacinės ir ūkinės veiklos bei teikiamų paslaugų pajamos, kurios naudojamos pagal senato (akademinės tarybos) patvirtintą sąmatą. 
-
-Straipsnio dalies pakeitimai:
-Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
- 
-
-3. Kasmet ne vėliau kaip kovo mėnesį aukštoji mokykla ir Ministerija sudaro sutartį kitiems kalendoriniams metams bei ketinimų vėlesniems 2 metams susitarimą, kuris yra neatskiriama sutarties dalis. Sutarties projektas kartu su universiteto (kolegijos) tarybos išvada teikiamas Ministerijai. Ši per tris mėnesius pateikia savo išvadas ir siūlymus dėl projekto.
-Straipsnio dalies pakeitimai:
-Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
- 
-
-4. Kasmet ne vėliau kaip kovo mėnesį aukštoji mokykla ir Ministerija įvertina, kaip sutartis vykdoma, prireikus ją tikslina ar papildo abipusiais įsipareigojimais ateinantiems 3 metams.
-
-5. Aukštajai mokyklai skiriamos valstybės biudžeto lėšos turi būti siejamos su atitinkamomis programomis ir aukštosios mokyklos veiklos vertinimo rezultatais. Prireikus Ministerija gali inicijuoti aukštosios mokyklos ūkinės ir finansinės veiklos auditą.
+Straipsnio pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 55 straipsnis. Valstybės biudžeto lėšos nevalstybinėms aukštosioms mokykloms
@@ -1165,17 +1228,26 @@ e) skirtos tarptautiniams mainams plėtoti;
 
 6) studentų studijų įmokos;
 
-7) kitos teisėtai įgytos lėšos. 
+7) lėšos, gautos iš asmenų, nurodytų šio įstatymo 61 straipsnyje; 
+Papildyta straipsnio punktu:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
+
+8) kitos teisėtai įgytos lėšos. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
  
 
-2. Valstybinės aukštosios mokyklos lėšos, gautos iš studentų studijų įmokų, ir pajamos iš mokslinės ir ūkinės veiklos bei teikiamų paslaugų Vyriausybės nustatyta tvarka įtraukiamos į apskaitą valstybės biudžete, tačiau aukštosios mokyklos jų statutuose nustatytiems tikslams ir uždaviniams įgyvendinti valdo ir naudoja šias lėšas bei jomis disponuoja savarankiškai.
+2. Valstybinės aukštosios mokyklos lėšos, gautos kaip studentų studijų įmokos, taip pat lėšos, gautos iš asmenų, nurodytų šio įstatymo 61 straipsnyje, ir pajamos iš mokslinės ir ūkinės veiklos bei teikiamų paslaugų Vyriausybės nustatyta tvarka įtraukiamos į valstybės biudžeto apskaitą, tačiau naudojamos šios aukštosios mokyklos specialiosioms programoms finansuoti. Aukštosios mokyklos jų statutuose nustatytiems tikslams ir uždaviniams įgyvendinti specialiųjų programų lėšas valdo, naudoja bei jomis disponuoja savarankiškai.
 Papildyta straipsnio dalimi:
 Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
 Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 3. Nevalstybinių aukštųjų mokyklų lėšų struktūrą ir paskirtį nustato steigėjai.
@@ -1197,17 +1269,20 @@ Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA0
 
 4) objektų, įrašytų į Lietuvos Respublikos nekilnojamųjų kultūros vertybių registrą ir Lietuvos kultūros vertybių sąrašus, priežiūrai.
 
-3. Lėšos studijoms skiriamos remiantis metodikoje nustatoma studijų kaina pagal studijų kryptį, pakopą ir formą.
+3. Lėšos studijoms skiriamos remiantis pagal metodiką nustatomomis studijų išlaidomis (pagal studijų kryptį, pakopą ir formą).
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
  
 
-58 straipsnis. Studijų kaina 
+58 straipsnis. Studijų išlaidos ir kaina
 
-1. Ministerija, vadovaudamasi valstybės biudžeto lėšų poreikio nustatymo ir jų skyrimo mokslo ir studijų institucijoms metodika, nustato studijų valstybinėse aukštosiose mokyklose (pagal studijų kryptį, pakopą ir formą) kainą. Studijų kaina susideda iš dviejų dalių: studentų studijų įmokos ir dalies, padengiamos iš valstybės biudžeto. 
+1. Studijų valstybinėje aukštojoje mokykloje išlaidos (pagal studijų kryptį, pakopą ir formą) nustatomos vadovaujantis šio įstatymo 57 straipsnyje nurodyta metodika.
 
-2. Į studijų kainą įskaičiuojamos lėšos, būtinos studijoms organizuoti bei jų moksliniam lygiui palaikyti, t. y.:
+2. Į studijų išlaidas įskaičiuojamos lėšos, būtinos studijoms organizuoti bei jų moksliniam lygiui palaikyti, tai yra:
 
 1) lėšos aukštųjų mokyklų dėstytojų, mokslo ir kitų su studijomis susijusių darbuotojų darbo užmokesčiui ir valstybiniam socialiniam draudimui;
 
@@ -1215,64 +1290,105 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 3) lėšos studentų kultūros, sporto ir visuomeninei veiklai organizuoti.
 
-3. Studijų kaina nevalstybinėse aukštosiose mokyklose nustatoma susitarimu.
+3. Studijų kaina valstybinėje aukštojoje mokykloje nurodoma priėmimo į aukštąją mokyklą taisyklėse, suderintose šio įstatymo 47 straipsnio 2 dalyje nustatyta tvarka.
+
+4. Lietuvos Respublikos piliečiams šio straipsnio 3 dalyje nurodyta studijų kaina negali būti didesnė negu studijų išlaidos, nustatytos šio straipsnio 1 ir 2 dalyse nustatyta tvarka.
+
+5. Užsienio valstybių piliečiams ir asmenims be pilietybės šio straipsnio 3 dalyje nurodyta studijų kaina negali būti mažesnė negu studijų išlaidos, nustatytos šio straipsnio 1 ir 2 dalyse nustatyta tvarka, išskyrus atvejus, kai Lietuvos Respublikos tarptautinės sutartys ar kiti teisės aktai nustato kitaip.
+
+6. Studijų kaina nevalstybinėse aukštosiose mokyklose nustatoma susitarimu.
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 59 straipsnis. Studentų studijų įmokos
 
-Valstybinių aukštųjų mokyklų visų formų pagrindinių, vientisųjų ir antrosios pakopos studijų studentai kiekvieną semestrą aukštajai mokyklai moka studentų studijų įmoką, kuri lygi Vyriausybės nustatyto minimalaus gyvenimo lygio 4 dydžiams. Ne mažiau kaip 50 procentų valstybinių aukštųjų mokyklų studentų studijų įmoka už pirmąjį dieninės formos pagrindinių ir vientisųjų studijų semestrą mokama iš valstybės biudžeto. Vyriausybė kasmet nustato, kokiai daliai studentų pagal studijų pakopas ir formas studijų įmokos už pirmąjį studijų semestrą apmokamos valstybės lėšomis. Studentai neturi mokėti aukštosioms mokykloms jokių kitų įmokų, susijusių su studijų programa (už naudojimąsi auditorijomis, bibliotekomis, laboratorijomis, kita studijų įranga, aukštųjų mokyklų sporto įrenginiais ir kt.). 
+1. Valstybinių aukštųjų mokyklų visų formų pagrindinių, vientisųjų ir antrosios pakopos studijų studentai kiekvieną semestrą aukštajai mokyklai moka studijų įmoką, kuri lygi Vyriausybės nustatyto minimalaus gyvenimo lygio 4 dydžiams.
+
+2. Studentai, be šio straipsnio 1 dalyje numatytos studijų įmokos arba studijų sutartyje nurodytos studijų kainos, neturi mokėti aukštosioms mokykloms jokių kitų įmokų, tiesiogiai susijusių su studijų programos įgyvendinimu, aukštosios mokyklos studijų nuostatų, suderintų su studentų atstovybe, nustatyta tvarka.
+
+3. Įmokų, tiesiogiai nesusijusių su studijų programos įgyvendinimu, dydžius nustato aukštoji mokykla, suderinusi su Ministerija ir Lietuvos studentų atstovybių sąjunga (sąjungomis).
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
 Nr. IX-1052, 2002-07-05, Žin., 2002, Nr. 71-2968 (2002-07-12), i. k. 1021010ISTA0IX-1052
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 60 straipsnis. Nemokamas aukštasis mokslas gerai besimokantiems valstybinių aukštųjų mokyklų studentams
 
-1. Gerai besimokantiems studentams laiduojamas nemokamas mokslas – jų studijų įmokos apmokamos valstybės lėšomis. Gerai besimokančiais studentais laikomi 30 procentų kiekvienos studijų programos kiekvieno semestro studentų, atrinktų kas semestrą pagal geriausius studijų rezultatus. 
+1. Gerai besimokantiems valstybinių aukštųjų mokyklų studentams laiduojamas nemokamas mokslas – jų studijų įmokos apmokamos valstybės lėšomis. Gerai besimokančiais studentais laikomi 30 procentų kiekvienos studijų programos kiekvieno semestro studentų, išskyrus studentus, nurodytus šio įstatymo 61 straipsnyje, atrinktų kas semestrą pagal geriausius studijų rezultatus (pirmąjį studijų semestrą – pagal stojimo rezultatus).
 
-2. Ne mažiau kaip 50 procentų dieninių studijų studentų, atrinktų aukštosios mokyklos konkurso tvarka pagal mokymosi rezultatus, studijų įmokos apmokamos valstybės lėšomis. Vyriausybė kasmet nustato, kokiai daliai studentų pagal studijų pakopas ir formas studijų įmokos apmokamos valstybės lėšomis.
+2. Ne mažiau kaip 50 procentų dieninių studijų studentų, išskyrus studentus, nurodytus šio įstatymo 61 straipsnyje, atrinktų aukštosios mokyklos konkurso tvarka pagal mokymosi rezultatus (pirmąjį studijų semestrą – pagal stojimo rezultatus), studijų įmokos apmokamos valstybės lėšomis. Vyriausybė kasmet nustato, kokiai daliai tais metais į aukštąją mokyklą priimtų studentų pagal studijų pakopas ir formas studijų įmokos apmokamos valstybės biudžeto lėšomis. Priėmimo į aukštąją mokyklą metu užfiksuotas studijų, kurių įmoka apmokama valstybės biudžeto lėšomis, vietų skaičius išlieka per visą nustatytą studijų laikotarpį.
+
+3. Studentai aukštosios mokyklos nustatyta tvarka už nepažangumą išbraukiami iš aukštosios mokyklos studentų sąrašų.
+
+4. Į laisvas vietas pagal pažangumą prioriteto tvarka gali pretenduoti šie toje pačioje studijų programoje tame pačiame kurse studijuojantys asmenys (išskyrus asmenis, nurodytus šio įstatymo 61 straipsnio 1 dalies 1–3 punktuose):
+
+1) tos pačios studijų formos studentai;
+
+2) kitų studijų formų studentai.
+
+5. Tais atvejais, kai nėra galimybės užpildyti laisvas vietas šio straipsnio 4 dalyje nustatyta tvarka, valstybės biudžeto lėšos, skirtos šioms laisvoms vietoms finansuoti, gali būti panaudojamos to paties kurso ne mažesnės studijų kainos studijų programoms finansuoti.
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 61 straipsnis. Mokamos studijos valstybinėse aukštosiose mokyklose
 
-Už studijas valstybinėje aukštojoje mokykloje visą studijų kainą moka:
+1. Už studijas valstybinėje aukštojoje mokykloje visą studijų kainą moka:
 
-1) asmenys, studijuojantys pagal tos pačios arba žemesnės pakopos studijų programą, kurią jie yra baigę valstybinėje aukštojoje mokykloje, jeigu ne mažiau kaip už pusę baigtos studijų programos jie nemokėjo;
+1) asmenys, studijuojantys pagal tos pačios arba žemesnės pakopos, kurią jie yra baigę valstybinėje aukštojoje mokykloje, studijų programą, jeigu ne daugiau kaip už pusę baigtos studijų programos kreditų mokėjo visą studijų kainą, išskyrus Vyriausybės nustatytus atvejus;
 
-2) asmenys, vienu metu studijuojantys pagal dvi tos pačios pakopos studijų programas (jie moka už vieną studijų programą pasirinktinai);
+2) asmenys, vienu metu studijuojantys pagal dvi ar daugiau tos pačios pakopos studijų programas, jeigu jų studijos pagal bent vieną iš šių studijų programų yra visiškai arba iš dalies apmokamos valstybės biudžeto lėšomis (jie moka už antrąją ir kitas studijų programas);
 
-3) užsieniečiai, jeigu Lietuvos Respublikos tarptautinės sutartys nenustato kitaip;
+3) užsieniečiai, jeigu Lietuvos Respublikos tarptautinės sutartys ar kiti teisės aktai nenustato kitaip;
 
-4) asmenys, studijuojantys pagal nenuosekliųjų studijų programas arba kursus;
+4) asmenys, priimti studijuoti šio įstatymo 47 straipsnio 5 dalyje nustatyta tvarka.
 
-5) asmenys, kartojantys nuosekliųjų studijų programos atskirus dalykus.
+2. Už studijas valstybinėje aukštojoje mokykloje studijų kainą, proporcingą dalyko apimčiai, moka:
+
+1) asmenys, studijuojantys nenuosekliai;
+
+2) asmenys, kartojantys nuosekliųjų studijų programos atskirus dalykus.
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 62 straipsnis. Parama studentams
 
-1. Valstybinių ir nevalstybinių aukštųjų mokyklų pagrindinių, vientisųjų ir antrosios studijų pakopos studentai, taip pat Europos Sąjungos šalių bei kitų šalių, jeigu tai numato Lietuvos Respublikos tarptautinės sutartys, studentai gali gauti valstybės paskolas:
+1. Valstybinių ir nevalstybinių aukštųjų mokyklų pagrindinių, vientisųjų ir antrosios studijų pakopos studentai gali gauti valstybės paskolas:
 
-1) studijų įmokoms mokėti, jeigu jos nebuvo sumokėtos valstybės lėšomis;
+1) studijų įmokoms mokėti, jeigu jos nebuvo sumokėtos valstybės biudžeto lėšomis;
 
 2) gyvenimo išlaidoms;
 
-3) studijoms užsienyje.
+3) dalinėms studijoms pagal tarptautines sutartis ir susitarimus
 
-2. Valstybinių aukštųjų mokyklų dieninės studijų formos pirmosios ir antrosios pakopų studentai Vyriausybės nustatyta tvarka gali gauti stipendijas. Lėšos stipendijoms skiriamos iš valstybės biudžeto asignavimų, numatytų mokslui ir studijoms.
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
-3. Studentai turi teisę gauti ir kitą paramą, kuri teikiama Vyriausybės nustatyta tvarka. 
+2. Valstybinių aukštųjų mokyklų dieninės studijų formos pagrindinių, vientisųjų ir antrosios studijų pakopos studentai, doktorantai ir meno aspirantai Vyriausybės nustatyta tvarka gali gauti stipendijas. Lėšos stipendijoms skiriamos iš valstybės biudžeto asignavimų, numatytų aukštosioms mokykloms
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
-4. Valstybės paramos studijoms užsienyje, taip pat paramos rezidentams, doktorantams ir meno aspirantams tvarką nustato Vyriausybė.
+3. Studentai turi teisę gauti ir kitą paramą, kuri teikiama Vyriausybės nustatyta tvarka
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
+
+4. Valstybės paramos studijoms užsienyje, taip pat paramos rezidentams tvarką nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
@@ -1280,11 +1396,17 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 63 straipsnis. Valstybės paskolų teikimas 
 
-1. Valstybės paskolas pagal Vyriausybės patvirtintas taisykles studentams teikia Lietuvos valstybinis mokslo ir studijų fondas. Paskolos teikiamos iš tam tikslui Fondui perduodamų valstybės lėšų, numatytų mokslui ir studijoms, iš lėšų, kurias Fondas sukaupia iš grąžinamų paskolų, palūkanų bei delspinigių, rėmėjų lėšų ir iš kitų lėšų.
+1. Valstybės paskolas studentams teikia Lietuvos valstybinis mokslo ir studijų fondas. Paskolos teikiamos iš tam tikslui Fondui numatytų valstybės biudžeto lėšų, iš lėšų, kurias Fondas sukaupia iš grąžinamų paskolų, palūkanų bei delspinigių, iš rėmėjų lėšų ir kitų lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 2. Paskolas gavę asmenys turi pradėti grąžinti paskolas ir mokėti palūkanas ne vėliau kaip praėjus 2 metams po studijų baigimo arba nutraukimo ir grąžinti per laiką, ne daugiau kaip tris kartus ilgesnį, negu truko studijos, kurių studijų įmokoms buvo gautos paskolos. Paskolų grąžinimo laikas yra susijęs su paskola gavusio asmens mėnesinėmis pajamomis. 
 
-3. valstybės paskolų suteikimo, administravimo ir grąžinimo tvarką nustato Vyriausybė. Nuo paskolų (ar negrąžintos paskolos dalies) grąžinimo Vyriausybės nustatyta tvarka ir sąlygomis gali būti atleidžiami aukštųjų mokyklų absolventai, kurie ne vėliau kaip per 6 mėnesius po aukštosios mokyklos baigimo įsidarbina valstybės tarnautojais rajonuose esančiose (išskyrus Vilniaus, Kauno, Klaipėdos ir Šiaulių miestus) valstybės ar savivaldybių įstaigose, organizacijose ir dirba jose ne trumpiau kaip 5 metus. Paskolų grąžinimo terminas gali būti pratęstas arba paskolos gali būti negrąžintos, atsižvelgiant į asmens socialinę padėtį. Paskolos gali būti apmokėtos valstybės biudžeto ar savivaldybės biudžeto lėšomis, jei tai numato darbo sutartis. Vyriausybė gali nustatyti ir kitokias paskolų grąžinimo lengvatas.
+3. Valstybės paskolų suteikimo, administravimo ir grąžinimo tvarką nustato Vyriausybė. Paskolų grąžinimo terminas gali būti pratęstas arba paskolos gali būti negrąžintos, atsižvelgiant į asmens socialinę padėtį.
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
@@ -1324,25 +1446,35 @@ BAIGIAMOSIOS NUOSTATOS
 
 67 straipsnis. Įstatymo įgyvendinimas
 
-1. Vyriausybė iki 2002 m. spalio 1 d. priima ar pakeičia Aukštojo mokslo įstatymui įgyvendinti reikalingus teisės aktus, iki 2002 m. liepos 15 d. nustato šiais metais į valstybines aukštąsias mokyklas priimamų studentų, tarp jų tų vakarinių ir neakivaizdinių, taip pat antrosios pakopos dieninių studijų formų studentų, kurie sutinka patys mokėti visą studijų kainą pagal sutartis su aukštąja mokykla, maksimalų skaičių. Vyriausybė, skirstydama valstybės biudžeto lėšas mokslui ir studijoms, nuo 2003 metų numato tokią lėšų dalį Lietuvos valstybiniam mokslo ir studijų fondui, kad būtų užtikrintas šiame įstatyme numatytas valstybės paskolų studentams teikimas Vyriausybės nustatyta tvarka. 
+1. Vyriausybė iki 2003 m. rugsėjo 1 d. priima ar pakeičia Aukštojo mokslo įstatymui įgyvendinti reikalingus teisės aktus. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1052, 2002-07-05, Žin., 2002, Nr. 71-2968 (2002-07-12), i. k. 1021010ISTA0IX-1052
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 2. Iki 2002 m. liepos 1 d. aukštosios mokyklos privalo suderinti savo statutus su šio įstatymo nuostatomis ir pateikti Seimui tvirtinti statutų pataisas.
 
-3. Šiame įstatyme nustatyta studijų įmokų mokėjimo tvarka pradedama taikyti nuo 2002 m. rugsėjo 1 d., o paskolų studijų įmokoms mokėti teikimo tvarka – nuo 2003 m. sausio 1 d. Studijų įmokų mokėjimo ir paskolų studijų įmokoms mokėti teikimo tvarka taikoma tik studentams, pradedantiems studijas 2002–2003 ir vėlesniais studijų metais. 
+3. Šiame įstatyme nustatyta studijų įmokų mokėjimo tvarka pradedama taikyti nuo 2002 m. rugsėjo 1 d., o paskolų studijų įmokoms mokėti teikimo tvarka – nuo 2003 m. sausio 1 d. Studijų įmokų mokėjimo ir paskolų studijų įmokoms mokėti teikimo tvarka, taip pat šio įstatymo 60 straipsnio 1 ir 2 dalių nuostatos taikomos pagrindinių ir vientisųjų studijų studentams nuo 2002–2003 studijų metų, o antrosios pakopos studentams – nuo 2006–2007 studijų metų, išskyrus studentus, sudariusius sutartis su aukštąja mokykla iki 2002 metų. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1052, 2002-07-05, Žin., 2002, Nr. 71-2968 (2002-07-12), i. k. 1021010ISTA0IX-1052
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 4. Kol nėra sudarytos prie universitetų veikiančios mokslo krypčių tarybos, numatytos 42 straipsnio 8 dalyje, doktorantų disertacijos ginamos ir mokslo laipsniai suteikiami Vyriausybės nustatyta tvarka.
 
-5. Iki Lietuvos Respublikos civilinio kodekso (Žin. 2000, Nr. 74-3363) įsigaliojimo įsteigti juridinio asmens teises turintys valstybinių universitetų padaliniai turi būti per vienerius metus nuo šio įstatymo įsigaliojimo reorganizuoti arba pertvarkyti Lietuvos Respublikos civilinio kodekso ir šio įstatymo nustatyta tvarka.
+5. Lietuvos Respublikai įstojus į Europos Sąjungą, Europos Sąjungos valstybių narių piliečiams netaikomos šio įstatymo 3 straipsnio 2 dalies, 47 straipsnio 7 dalies ir 58 straipsnio 5 dalies nuostatos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+ 
 
 6. Šiame įstatyme numatytos neuniversitetinių studijų reglamentavimo tvarkos išimtinius atvejus nustato Lietuvos Respublikos Vyriausybė Švietimo ir mokslo ministerijos teikimu. 
 Papildyta straipsnio dalimi:
 Nr. IX-1052, 2002-07-05, Žin., 2002, Nr. 71-2968 (2002-07-12), i. k. 1021010ISTA0IX-1052
+ 
+
+7. Aukštųjų mokyklų steigimo procedūros, pradėtos Vyriausybės nustatyta tvarka iki šio įstatymo įsigaliojimo, baigiamos vadovaujantis Aukštojo mokslo įstatymo (Žin., 2000, Nr. 27-715; 2001, Nr. 16-496; 2002, Nr. 3-75, Nr. 71-2968) nuostatomis.
+Papildyta straipsnio dalimi:
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
 Straipsnio pakeitimai:
@@ -1379,4 +1511,9 @@ Lietuvos Respublikos aukštojo mokslo įstatymo 2 straipsnio, II skirsnio pavadi
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1052, 2002-07-05, Žin., 2002, Nr. 71-2968 (2002-07-12), i. k. 1021010ISTA0IX-1052
 Lietuvos Respublikos aukštojo mokslo įstatymo 59 ir 67 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+Lietuvos Respublikos aukštojo mokslo įstatymo 2, 3, 13, 15, 16, 17, 19, 22, 23, 24, 32, 36, 37, 39, 40, 41, 42, 44, 47, 48, 49, 54, 56, 57, 58, 59, 60, 61, 62, 63, 67 straipsnių pakeitimo ir papildymo įstatymas
 
