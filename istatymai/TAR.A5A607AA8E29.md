@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1991-12-29 iki 1992-03-24
+Suvestinė redakcija nuo 1992-03-25 iki 1992-07-02
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
  
@@ -139,7 +139,10 @@ PRIVATIZAVIMO OBJEKTAI IR SUBJEKTAI
 
 3. Lietuvos Respublikos Vyriausybės nutarimais, taip pat jais remiantis priimtais aukštesniosios pakopos vietos savivaldybių (vietinio ūkio objektams) nutarimais gali būti nustatomi ir kiti Respublikos ar vietinio ūkio objektai, kurių negalima privatizuoti, taip pat gali būti nustatomos ir įmonės, kurios gali veikti tik kaip valstybinės įmonės.
 
-4. Kultūros ir švietimo objektus įtraukti į privatizavimo programas galima tik suderinus su Lietuvos Respublikos kultūros ir švietimo ministerija, saugomus gamtos objektus ir teritorijas - su Lietuvos Respublikos aplinkos apsaugos departamentu, bet po tų objektų sąrašų patvirtinimo Vyriausybėje. Farmacijos ir gydymo įstaigas įtraukti į privatizavimo programas galima tik suderinus su Lietuvos Respublikos sveikatos apsaugos ministerija, transporto įmones - su Lietuvos Respublikos susisiekimo ministerija, energetikos objektus - su Lietuvos Respublikos energetikos ministerija. Kraštovaizdžio, urbanistikos ir architektūros, archeologijos, istorijos ir dailės objektai, pastatyti (sukurti) iki 1940 metų, taip pat kiti objektai, kurie nustatyta tvarka priskirti prie valstybės saugomų, gali būti įtraukiami į privatizavimo programas ir įkainojami tik suderinus su Lietuvos Respublikos kultūros paveldo inspekcija ir Aplinkos apsaugos departamentu.
+4. Kultūros ir švietimo objektus įtraukti į privatizavimo programas galima tik suderinus su Lietuvos Respublikos kultūros ir švietimo ministerija, saugomus gamtos objektus ir teritorijas bei saugomų teritorijų objektus - su Lietuvos Respublikos aplinkos apsaugos departamentu, bet po tų objektų sąrašų patvirtinimo Vyriausybėje. Farmacijos ir gydymo įstaigas įtraukti į privatizavimo programas galima tik suderinus su Lietuvos Respublikos sveikatos apsaugos ministerija, transporto įmones - su Lietuvos Respublikos susisiekimo ministerija, energetikos objektus - su Lietuvos Respublikos energetikos ministerija. Kraštovaizdžio, urbanistikos ir architektūros, archeologijos, istorijos ir dailės objektai, pastatyti (sukurti) iki 1940 metų, taip pat kiti objektai, kurie nustatyta tvarka priskirti prie valstybės saugomų, gali būti įtraukiami į privatizavimo programas ir įkainojami tik suderinus su Lietuvos Respublikos kultūros paveldo inspekcija ir Aplinkos apsaugos departamentu.
+Straipsnio dalies pakeitimai:
+Nr. I-2385, 1992-03-17, Lietuvos aidas, 1992, Nr. 57-0 (1992-03-24); Žin., 1992, Nr. 10-247 (1992-04-10), i. k. 0921010ISTA00I-2385
+ 
 
 5. Privatizavimo objektams, kurie įstatymo nustatyta tvarka įvertinti kaip kultūros paveldo objektai, sudaromos apsaugos ir eksploatavimo sutartys su asmenimis, įsigyjančiais šiuos objektus.
 
@@ -465,4 +468,9 @@ Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 11 
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo kai kurių straipsnių pakeitimo
+ 
+5.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2385, 1992-03-17, Lietuvos aidas, 1992, Nr. 57-0 (1992-03-24); Žin., 1992, Nr. 10-247 (1992-04-10), i. k. 0921010ISTA00I-2385
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 7 straipsnio ketvirtosios dalies papildymo
 
