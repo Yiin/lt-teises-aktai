@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2001-05-09 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2007-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
  
@@ -45,25 +45,32 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Lietuvos Respublikos specialiųjų tyrimų tarnyba (toliau – Specialiųjų tyrimų tarnyba arba Tarnyba) – Respublikos Prezidentui ir Seimui atskaitinga, statutiniais pagrindais veikianti valstybės teisėsaugos įstaiga, kuri rengia ir įgyvendina korupcijos prevencijos priemones, atskleidžia ir tiria nusikaltimus, kuriais pasireiškia korupcija.
+1. Lietuvos Respublikos specialiųjų tyrimų tarnyba (toliau – Specialiųjų tyrimų tarnyba arba Tarnyba) – Respublikos Prezidentui ir Seimui atskaitinga, statutiniais pagrindais veikianti valstybės teisėsaugos įstaiga, kuri atskleidžia ir tiria korupcinio pobūdžio nusikalstamas veikas, rengia ir įgyvendina korupcijos prevencijos priemones.
 
 
 
 
-2. Korupcija – asmens pažadėjimas, siūlymas ar davimas bet kokio neteisėto atlygio valstybės politikui, pareigūnui ar tarnautojui, taip pat valstybės politiko, pareigūno ar tarnautojo tiesioginis ar netiesioginis prašymas arba priėmimas bet kokio neteisėto atlygio sau ar kitam asmeniui arba priėmimas pasiūlymo ar pažado dėl tokio atlygio už tam tikrų funkcijų vykdymą ar nevykdymą, taip pat asmens pažadėjimas, siūlymas ar davimas bet kokio neteisėto atlygio bet kuriam asmeniui, kuris teigia galįs daryti įtaką valstybės politiko, pareigūno ar tarnautojo sprendimams, taip pat asmens, kuris teigia galįs daryti įtaką valstybės politiko, pareigūno ar tarnautojo sprendimams, tiesioginis ar netiesioginis prašymas arba priėmimas bet kokio neteisėto atlygio arba priėmimas pasiūlymo ar pažado dėl tokio atlygio, taip pat bendrininkavimas darant šioje dalyje nurodytas veikas.
+2. Korupcija – valstybės tarnautojo ar jam prilyginto asmens tiesioginis ar netiesioginis siekimas, reikalavimas arba priėmimas turtinės ar kitokios asmeninės naudos (dovanos, paslaugos, pažado, privilegijos) sau ar kitam asmeniui už atlikimą arba neatlikimą veiksmų pagal einamas pareigas, taip pat valstybės tarnautojo ar jam prilyginto asmens veiksmai arba neveikimas siekiant, reikalaujant turtinės ar kitokios asmeninės naudos sau arba kitam asmeniui ar šią naudą priimant, taip pat tiesioginis ar netiesioginis siūlymas ar suteikimas valstybės tarnautojui, jam prilygintam asmeniui turtinės ar kitokios asmeninės naudos (dovanos, paslaugos, pažado, privilegijos) už atlikimą arba neatlikimą veiksmų pagal valstybės tarnautojo ar jam prilyginto asmens einamas pareigas, taip pat tarpininkavimas darant šioje dalyje nurodytas veikas. 
 
 
 
 
-3. Valstybės politikui, pareigūnui ir tarnautojui pagal šį įstatymą prilyginamas asmuo, turintis atitinkamus įgaliojimus ir pareigas kitos valstybės institucijoje, tarptautinėje organizacijoje ar tarptautinėse teisminėse institucijose.
+3. Korupcinio pobūdžio nusikalstamos veikos – kyšininkavimas, tarpininko kyšininkavimas, papirkimas, kitos nusikalstamos veikos, jeigu jos padarytos viešojo administravimo sektoriuje arba teikiant viešąsias paslaugas siekiant sau ar kitiems asmenims naudos: piktnaudžiavimas tarnybine padėtimi arba įgaliojimų viršijimas, piktnaudžiavimas oficialiais įgaliojimais, dokumentų ar matavimo priemonių suklastojimas, sukčiavimas, turto pasisavinimas ar iššvaistymas, tarnybos paslapties atskleidimas, komercinės paslapties atskleidimas, neteisingų duomenų apie pajamas, pelną ar turtą pateikimas, nusikalstamu būdu įgytų pinigų ar turto legalizavimas, kišimasis į valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens veiklą ar kitos nusikalstamos veikos, kai tokių veikų padarymu siekiama ar reikalaujama kyšio, papirkimo arba nuslėpti ar užmaskuoti kyšininkavimą ar papirkimą.
 
 
 
 
-4. Asmuo – bet kurios valstybės fizinis, juridinis, juridinio asmens teisių neturintis arba turintis kitokį, jo steigimo valstybės teisės nustatytą, teisinį statusą asmuo.
+4. Šiame straipsnyje vartojama valstybės tarnautojo, jam prilyginto asmens sąvoka atitinka Lietuvos Respublikos baudžiamajame kodekse įtvirtintą šios sąvokos išaiškinimą.
+
+
+
+
+5. Asmuo – bet kuris fizinis, juridinis arba turintis kitokį, jo steigimo valstybės teisės nustatytą, teisinį statusą asmuo. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
  
-
-
 
 
 
@@ -151,12 +158,18 @@ Specialiųjų tyrimų tarnyba saugo ir gina asmenį, visuomenę, valstybę nuo k
 Specialiųjų tyrimų tarnyba:
 
 
-1) vykdo operatyvinę veiklą, kad atskleistų nusikaltimus, kuriais pasireiškia korupcija, ir užkirstų jiems kelią; 
+1) vykdo operatyvinę veiklą siekdama atskleisti korupcinio pobūdžio nusikalstamas veikas ir užkirsti joms kelią; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
+ 
 
 
 
 
-2) atlieka kvotą ir parengtinį tardymą;
+2) atlieka ikiteisminį tyrimą dėl korupcinio pobūdžio nusikalstamų veikų; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
+ 
 
 
 
@@ -219,23 +232,25 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS STRUKTŪRA IR VALDYMAS
 
 
 
-10 straipsnis. Specialiųjų tyrimų tarnybos darbuotojai 
+10 straipsnis. Specialiųjų tyrimų tarnybos personalas
 
 
-1. Tarnybos darbuotojai yra pareigūnai ir kiti valstybės tarnautojai. 
-
-
-
-
-2. Tarnybos pareigūnų statusą nustato Specialiųjų tyrimų tarnybos įstatymas ir Specialiųjų tyrimų tarnybos statutas, o kitų Tarnyboje dirbančių valstybės tarnautojų – Lietuvos Respublikos valstybės tarnybos įstatymas. 
+1. Tarnybos darbuotojai yra pareigūnai, valstybės tarnautojai ir darbuotojai.
 
 
 
 
-3. Tarnybos pareigūnų priėmimo į pareigas ir atleidimo iš jų, pareigūnų drausminės atsakomybės, nušalinimo nuo pareigų tvarką nustato Tarnybos statutas.
+2. Tarnybos pareigūnų statusą reglamentuoja šis įstatymas, Valstybės tarnybos įstatymas ir Specialiųjų tyrimų tarnybos statutas, valstybės tarnautojų – Valstybės tarnybos įstatymas, o darbuotojų – Darbo kodeksas ir kiti teisės aktai.
+
+
+
+
+3. Tarnybos pareigūnų priėmimo į pareigas ir atleidimo iš jų, pareigūnų drausminės atsakomybės, nušalinimo nuo pareigų tvarką nustato Tarnybos statutas. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
  
-
-
 
 
 
@@ -267,12 +282,12 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS STRUKTŪRA IR VALDYMAS
 1. Specialiųjų tyrimų tarnybos direktorius ir jo pavaduotojai yra atleidžiami iš pareigų šiais pagrindais:
 
 
-1) savo noru;
+1) atsistatydinę savo noru;
 
 
 
 
-2) sulaužius priesaiką;
+2) sulaužę priesaiką;
 
 
 
@@ -282,42 +297,49 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS STRUKTŪRA IR VALDYMAS
 
 
 
-4) dėl sveikatos būklės, pateikus atitinkamos medicininės ekspertizės komisijos išvadą;
+4) dėl sveikatos būklės, pateikę atitinkamos medicinos ekspertizės komisijos išvadą;
 
 
 
 
-5) šalims susitarus;
+5) jų sutikimu perkėlus į kitą darbą;
 
 
 
 
-6) jų sutikimu perkėlus į kitą darbą;
+6) paaiškėjus šio įstatymo 15 straipsnyje nurodytoms aplinkybėms;
 
 
 
 
-7) paaiškėjus šio įstatymo 15 straipsnyje nurodytoms aplinkybėms;
+7) pasibaigus kadencijai;
 
 
 
 
-8) pasibaigus kadencijai, jeigu nėra paskiriamas antrai kadencijai.
+8) kai jiems sukanka 62 metai ir 6 mėnesiai;
+
+
+
+
+9) netekę Lietuvos Respublikos pilietybės.
 
 
 
 
 
 
-2. Specialiųjų tyrimų tarnybos direktorius ir jo pavaduotojai, sukakę įstatymų nustatyto amžiaus vidaus reikalų, specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, kalėjimų departamento ir jam pavaldžių institucijų pareigūnų ir karių valstybinei pensijai gauti, gali būti atleidžiami iš pareigų.
+2. Specialiųjų tyrimų tarnybos direktorius ir jo pavaduotojai, sulaukę Specialiųjų tyrimų tarnybos statuto 34 straipsnio 1 dalyje nustatyto amžiaus ar ištarnavę įstatymų nustatytą laikotarpį valstybinei pareigūnų ir karių pensijai gauti, jeigu jų tarnybos laikas nustatyta tvarka nebuvo pratęstas arba baigėsi jų tarnybos pratęsimo terminas, gali būti atleidžiami iš pareigų.
 
 
 
 
-3. Ginčai dėl atleidimo iš pareigų sprendžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+3. Ginčai dėl atleidimo iš pareigų sprendžiami Administracinių bylų teisenos įstatymo nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
  
-
-
 
 
 
@@ -332,7 +354,7 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ TEISĖS, PAREIGOS IR VEIKLOS APRIBOJI
 13 straipsnis. Specialiųjų tyrimų tarnybos pareigūnų teisės
 
 
-1. Persekiodamas asmenį, įtariamą padariusį nusikaltimą, užkirsdamas kelią daromam nusikaltimui, tikrindamas informaciją apie valstybės pareigūnų ir tarnautojų piktnaudžiavimą tarnyba, jų ryšius su asmenimis, kurie susiję su nusikalstamais susivienijimais, ar eidamas kitas tarnybines pareigas, esant įstatymų numatytiems pagrindams ir sąlygoms, Specialiųjų tyrimų tarnybos pareigūnas pateikia tarnybinį ženklą ar tarnybinį pažymėjimą.
+1. Persekiodamas asmenį, įtariamą padariusį nusikalstamą veiką, užkirsdamas kelią daromai nusikalstamai veikai, tikrindamas informaciją apie valstybės pareigūnų ir tarnautojų piktnaudžiavimą tarnyba, jų ryšius su asmenimis, kurie susiję su nusikalstamais susivienijimais, ar eidamas kitas tarnybines pareigas, esant įstatymų numatytiems pagrindams ir sąlygoms, Specialiųjų tyrimų tarnybos pareigūnas pateikia tarnybinį ženklą ar tarnybinį pažymėjimą.
 
 
 
@@ -340,64 +362,59 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ TEISĖS, PAREIGOS IR VEIKLOS APRIBOJI
 2. Specialiųjų tyrimų tarnybos pareigūnas turi teisę:
 
 
-1) tikrinti asmens dokumentus ir pristatyti asmenis, įtariamus padariusius nusikaltimą, į Specialiųjų tyrimų tarnybos arba policijos įstaigas;
+1) tikrinti asmens dokumentus ir pristatyti asmenis, įtariamus padariusius nusikalstamą veiką, į Specialiųjų tyrimų tarnybos arba policijos įstaigas;
 
 
 
 
-2) įstatymų numatytais atvejais ir tvarka panaudoti ginklą, specialiąsias priemones ir kitą prievartą;
+2) įstatymų nustatytais atvejais ir tvarka panaudoti ginklą, specialiąsias priemones ir kitą prievartą;
 
 
 
 
-3) nekliudomai įeiti į visų nuosavybės formų ir rūšių įmonių, įstaigų, organizacijų patalpas jų darbo metu, o ne darbo metu – su tos įmonės, įstaigos ar organizacijos administracijos atstovu, savininku arba jo atstovu; 
+3) tirdamas nusikalstamas veikas ar turėdamas pagrįstų duomenų, kad tokia veika yra rengiama, daroma ar buvo padaryta, nekliudomai įeiti į visų nuosavybės formų ir rūšių įmonių, įstaigų, organizacijų patalpas jų darbo metu, o ne darbo metu – su tos įmonės, įstaigos ar organizacijos administracijos atstovu, savininku arba jo atstovu; 
 
 
 
 
-4) įstatyme numatytais atvejais ir tvarka jėga atidaryti patalpas ar transporto priemones;
+4) įstatymų nustatytais atvejais ir tvarka jėga atidaryti patalpas ar transporto priemones;
 
 
 
 
-5) vykdamas į nusikaltimo padarymo vietą, persekiodamas asmenį, įtariamą padariusį nusikaltimą, gabendamas asmenį, kuriam būtina skubi medicinos pagalba, į gydymo įstaigą, nekliudomai naudotis įmonėms, įstaigoms, organizacijoms ar fiziniams asmenims, išskyrus užsienio valstybių diplomatinėms ar konsulinėms atstovybėms, priklausančiomis visų rūšių transporto ar ryšių priemonėmis. Jeigu transporto ar ryšių priemonės savininkas ar valdytojas pareikalauja, išduodama Specialiųjų tyrimų tarnybos direktoriaus nustatytos formos pažyma, pagal kurią iš Specialiųjų tyrimų tarnybos lėšų kompensuojami patirti nuostoliai ar materialinė žala;
+5) vykdamas į nusikalstamos veikos padarymo vietą, persekiodamas asmenį, įtariamą padariusį nusikalstamą veiką, veždamas asmenį, kuriam būtina skubi medicinos pagalba, į gydymo įstaigą, nekliudomai naudotis įmonėms, įstaigoms, organizacijoms ar fiziniams asmenims, išskyrus užsienio valstybių diplomatines ar konsulines atstovybes, priklausančiomis visų rūšių transporto ar ryšių priemonėmis. Jeigu transporto ar ryšių priemonės savininkas ar valdytojas pareikalauja, išduodama Specialiųjų tyrimų tarnybos direktoriaus nustatytos formos pažyma, pagal kurią iš Specialiųjų tyrimų tarnybos lėšų kompensuojami patirti nuostoliai ar materialinė žala;
 
 
 
 
-6) stabdyti kelių transporto priemones ir tikrinti vairuotojo, keleivių ar transporto priemonės dokumentus ir joje esančius krovinius bei daiktus;
+6) persekiodamas asmenį, įtariamą padariusį nusikalstamą veiką, kuris slepiasi nuo teisėsaugos institucijų, taip pat siekdamas užkirsti kelią daromai nusikalstamai veikai, stabdyti kelių transporto priemones ir tikrinti vairuotojo, keleivių ar transporto priemonės dokumentus ir joje esančius krovinius bei daiktus; 
 
 
 
 
-7) vykdamas į nusikaltimo padarymo vietą ar persekiodamas asmenį, įtariamą padariusį nusikaltimą, nustatyta tvarka naudotis mėlynos spalvos švyturėliais ant automobilių ir garsiniais signalais;
+7) vykdamas į nusikalstamos veikos padarymo vietą ar persekiodamas asmenį, įtariamą padariusį nusikalstamą veiką, nustatyta tvarka naudotis mėlynos spalvos švyturėliais ant automobilių ir garsiniais signalais;
 
 
 
 
-8) gauti iš asmenų informacijos ar paaiškinimų apie rengiamus, daromus ar padarytus nusikaltimus ir kitus teisės pažeidimus;
+8) gauti iš asmenų informacijos ar paaiškinimų apie rengiamas, daromas ar padarytas nusikalstamas veikas ir kitus teisės pažeidimus;
 
 
 
 
-9) tikrinti visų rūšių įmonių, įstaigų bei organizacijų ūkinę-finansinę ir kitokią veiklą;
+9) tirdamas nusikalstamas veikas ar turėdamas duomenų, kad tokia veika yra rengiama, daroma ar buvo padaryta, tikrinti visų rūšių įmonių, įstaigų bei organizacijų ūkinę-finansinę ir kitokią veiklą;
 
 
 
 
-10) pranešus įmonės vadovui arba savininkui ar jų atstovui ir Specialiųjų tyrimų tarnybos direktoriui leidus, nustatyta tvarka skirti inventorizacijas, revizijas, atlikti apžiūrą, susipažinti ir paimti buhalterinės apskaitos, personalo, tikrinimų medžiagas, kitus dokumentus bei daiktus;
-
-
-
-
-11) atlikti kitus Specialiųjų tyrimų tarnybos pareigūnui įstatymų leidžiamus veiksmus.
+10) atlikti kitus Specialiųjų tyrimų tarnybos pareigūnui įstatymų leidžiamus veiksmus.
 
 
 
 
 
 
-3. Specialiųjų tyrimų tarnybos pareigūnas, eidamas tarnybines pareigas pasienio, muitinės bei kituose objektuose ir teritorijose, kuriuose nustatytas specialus vidaus režimas, ir pateikęs tarnybinį ženklą ar tarnybinį pažymėjimą, turi teisę:
+3. Specialiųjų tyrimų tarnybos pareigūnas, eidamas tarnybines pareigas pasienio, muitinės bei kituose objektuose ir teritorijose, kuriuose nustatytas specialus vidaus režimas, pateikęs tarnybinį ženklą ar tarnybinį pažymėjimą, jeigu yra pakankamas pagrindas, turi teisę:
 
 
 1) tikrinti asmenų ir pareigūnų, transporto priemonių bei krovinių dokumentus;
@@ -405,10 +422,7 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ TEISĖS, PAREIGOS IR VEIKLOS APRIBOJI
 
 
 
-2) sulaikyti pasienio ir muitų režimo pažeidėjus bei kitus asmenis, atlikti jų asmens bei daiktų apžiūrą ir pristatyti juos į Valstybės sienos apsaugos tarnybos, muitinės ar kitų teisėsaugos institucijų tarnybines patalpas, laikantis įstatymų, reglamentuojančių asmenų sulaikymo tvarką bei sulaikytų asmenų garantijas;
-Straipsnio punkto pakeitimai:
-Nr. VIII-2011, 2000-10-10, Žin., 2000, Nr. 92-2863 (2000-10-31), i. k. 1001010ISTAIII-2011
- 
+2) sulaikyti pasienio ir muitų režimo pažeidėjus bei kitus asmenis, atlikti jų asmens bei daiktų apžiūrą ir pristatyti juos į Valstybės sienos apsaugos tarnybos, muitinės ar kitų teisėsaugos institucijų tarnybines patalpas, laikydamasis įstatymų, reglamentuojančių asmenų sulaikymo tvarką bei sulaikytų asmenų garantijas;
 
 
 
@@ -418,12 +432,14 @@ Nr. VIII-2011, 2000-10-10, Žin., 2000, Nr. 92-2863 (2000-10-31), i. k. 1001010I
 
 
 
-4) atlikti kitus Specialiųjų tyrimų tarnybos pareigūnui įstatymų leidžiamus veiksmus.
+4) atlikti kitus Specialiųjų tyrimų tarnybos pareigūnui įstatymų leidžiamus veiksmus. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
  
-
-
-
-
 
 
 
@@ -546,12 +562,18 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ TEISINĖ APSAUGA
 17 straipsnis. Specialiųjų tyrimų tarnybos ir jos pareigūnų veiklos garantijos 
 
 
-1. Baudžiamąją bylą Specialiųjų tyrimų tarnybos pareigūnui gali iškelti tik Lietuvos Respublikos generalinis prokuroras ar jo pavaduotojas. 
+1. Pradėti ikiteisminį tyrimą, kuriame įtariamasis yra Specialiųjų tyrimų tarnybos pareigūnas, gali tik Lietuvos Respublikos generalinis prokuroras ar jo pavaduotojas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
+ 
 
 
 
 
-2. Vykdantys tarnybines pareigas Tarnybos pareigūnai negali būti atvesdinti, sulaikyti, draudžiama juos, jų daiktus ir transporto priemones apžiūrėti, jeigu nedalyvauja Specialiųjų tyrimų tarnybos padalinio viršininkas ar jo įgaliotas atstovas, išskyrus atvejus, kai pareigūnas sulaikomas akivaizdžiai darantis nusikaltimą.
+2. Vykdantys tarnybines pareigas Tarnybos pareigūnai negali būti atvesdinti, sulaikyti, draudžiama juos, jų daiktus ir transporto priemones apžiūrėti, jeigu nedalyvauja Specialiųjų tyrimų tarnybos padalinio viršininkas ar jo įgaliotas atstovas, išskyrus atvejus, kai pareigūnas sulaikomas akivaizdžiai darantis nusikalstamą veiką. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
+ 
 
 
 
@@ -562,6 +584,13 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ TEISINĖ APSAUGA
 
 
 4. Tarnybos pareigūnų ir jų šeimos narių apsaugai gali būti taikomos priemonės, numatytos Baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatyme.
+
+
+
+
+5. Duomenys apie Specialiųjų tyrimų tarnybos pareigūnus Valstybės tarnautojų registrui neteikiami. 
+Papildyta straipsnio dalimi:
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
  
 
 
@@ -645,6 +674,13 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS FINANSAVIMAS, MATERIALINIS APRŪPINIMAS IR VEIKLO
 
 
 2. Specialiųjų tyrimų tarnyba gali turėti specialiųjų lėšų operatyvinei veiklai užtikrinti.
+
+
+
+
+3. Specialiųjų tyrimų tarnyba šiame įstatyme nustatytiems uždaviniams ir funkcijoms įgyvendinti turi teisę įstatymų nustatyta tvarka gauti paramą iš užsienio valstybių institucijų bei įstaigų ir tarptautinių organizacijų. 
+Papildyta straipsnio dalimi:
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
  
 
 
@@ -671,15 +707,22 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS FINANSAVIMAS, MATERIALINIS APRŪPINIMAS IR VEIKLO
 22 straipsnis. Specialiųjų tyrimų tarnybos veiklos kontrolė
 
 
-1. Specialiųjų tyrimų tarnybos atliekamą kvotą ir parengtinį tardymą įstatymų nustatyta tvarka kontroliuoja prokuroras. 
+1. Specialiųjų tyrimų tarnybos parlamentinę kontrolę atlieka Lietuvos Respublikos Seimas.
 
 
 
 
-2. Specialiųjų tyrimų tarnybos vidaus darbo tvarką nustato direktorius.
+2. Specialiųjų tyrimų tarnybos atliekamą ikiteisminį tyrimą įstatymų nustatyta tvarka kontroliuoja, organizuoja ir jam vadovauja prokuroras.
+
+
+
+
+3. Specialiųjų tyrimų tarnybos vidaus darbo tvarką nustato direktorius. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
  
-
-
 
 
 
@@ -762,3 +805,8 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 13 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-269, 2001-04-19, Žin., 2001, Nr. 39-1340 (2001-05-09), i. k. 1011010ISTA00IX-269
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 19 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 2, 8, 10, 12, 13, 17, 20, 22 straipsnių pakeitimo ir papildymo įstatymas
