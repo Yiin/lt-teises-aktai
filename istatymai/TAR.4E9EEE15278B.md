@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B"
 
 # Lietuvos Respublikos hipotekos įstatymas
 
-Suvestinė redakcija nuo 1998-04-01 iki 1999-11-25
+Suvestinė redakcija nuo 1999-11-26 iki 2000-10-10
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 200-0; Žin. 1992, Nr.31-951, i. k. 0921010ISTA00I-2936
+ 
+TAR pastaba. Įstatymo Nr. VIII-1379 nuostatos, susijusios su hipotekos teisėjo nutarties areštuoti įkeistą turtą registravimu turto arešto aktų registre, įsigalioja turto arešto aktų registrui pradėjus darbą. Iki turto arešto aktų registras pradės darbą, areštavęs įkeistą turtą hipotekos teisėjas pažymi apie turto areštą hipotekos registre ir apie nutarties areštuoti įkeistą turtą priėmimą ne vėliau kaip kitą darbo dieną praneša įkeisto turto registrui (registrams).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
+Lietuvos Respublikos hipotekos įstatymo 8, 39, 43 straipsnių pakeitimo ir papildymo 11(1) straipsniu įstatymas
  
 Nauja redakcija nuo 1997-07-02:
 Nr. VIII-251, 1997-06-10, Žin. 1997, Nr. 63-1468 (1997-07-02), i. k. 0971010ISTAVIII-251
@@ -78,9 +83,15 @@ HIPOTEKOS OBJEKTAS
 
 1. Pagal šį įstatymą gali būti įkeičiamas nekilnojamasis turtas, įregistruotas Lietuvos Respublikos nekilnojamojo turto registre, laivai, įregistruoti Lietuvos Respublikos laivų registre (rejestre) ar laivų knygoje, orlaiviai, įregistruoti Lietuvos Respublikos valstybės orlaivių bei civilinių orlaivių registruose.
 
-2. Pagal šį įstatymą negali būti įkeičiamas turtas, išimtas iš civilinės apyvartos, areštuotas turtas, taip pat turtas, į kurį pagal Lietuvos Respublikos įstatymus negali būti nukreipiamas išieškojimas.
+2. Pagal šį įstatymą negali būti įkeičiamas turtas, išimtas iš civilinės apyvartos, areštuotas turtas, kuriuo uždrausta disponuoti, taip pat turtas, į kurį pagal Lietuvos Respublikos įstatymus negali būti nukreipiamas išieškojimas. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
+ 
 
-3. Įkeičiamas turtas, išskyrus žemę, turi būti apdraustas, kol hipoteka bus baigta.
+3. Įkeistas turtas, išskyrus žemę, turi būti apdraudžiamas, kol hipoteka bus baigta.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
+ 
 
 4. Norint įkeisti dalį turto, ši dalis turi būti tiksliai apibrėžta ir įregistruota turto registre kaip atskiras objektas.
 
@@ -119,6 +130,14 @@ Padalijus įkeistą nekilnojamąjį turtą, hipotekos reikalavimas nedalijamas i
 1. Įkeisti nekilnojamojo turto objektai gali būti sujungti į vieną  tik gavus kreditorių, kurių reikalavimo tenkinimo eiliškumas po sujungimo pasikeis, sutikimą raštu.
 
 2. Sujungus kelis nekilnojamojo turto objektus, kiekvieno iš jų hipoteka apima po sujungimo suformuotą nekilnojamąjį turtą. Hipotekos kreditorių reikalavimų tenkinimo eilė nustatoma pagal prašymo įregistruoti hipoteką įregistravimo hipotekos skyriuje datą.
+ 
+
+111 straipsnis. Duomenų apie padalytą ar sujungtą įkeistą nekilnojamąjį turtą pakeitimas hipotekos registre
+
+Apie įkeisto turto padalijimą ar sujungimą ir įkeisto turto kodo pakeitimą Nekilnojamojo turto registro tvarkymo įstaiga nedelsiant turi informuoti hipotekos registrą Nekilnojamojo turto registro nuostatuose nustatyta tvarka. Remdamasis Nekilnojamojo turto registro tvarkymo įstaigos pranešimu, hipotekos skyrius per 3 darbo dienas turi pakeisti įkeisto turto kodą hipotekos registre Hipotekos registro nuostatų nustatyta tvarka ir informuoti hipotekos kreditorių apie hipotekos registro duomenų pakeitimą, išskyrus atvejus, kai turtas įkeistas pareikštiniu hipotekos lakštu.
+
+Papildyta straipsniu:
+Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
  
 
 12 straipsnis. Kilnojamojo turto hipoteka
@@ -387,11 +406,14 @@ HIPOTEKOS REIKALAVIMO PERLEIDIMAS IR ĮKEITIMAS
 SKOLOS IŠIEŠKOJIMAS HIPOTEKOS KREDITORIAUS NAUDAI
  
 
-39 straipsnis. Pareiškimo dėl priverstinio skolos išieškojimo pateikimas ir  tenkinimas
+39 straipsnis. Pareiškimo dėl priverstinio skolos išieškojimo pateikimas ir tenkinimas
 
-Jeigu skolininkas sutartyje nustatytu terminu neįvykdo hipoteka apsaugoto skolinio įsipareigojimo, kreditorius gali kreiptis į hipoteką įregistravusį hipotekos skyrių su pareiškimu dėl priverstinio skolos išieškojimo, nurodydamas jame hipotekos skyriaus žurnalo eilės numerį, negrąžintos skolos dydį, skolininką, įkeisto turto savininką ir jų adresus (buveines). Hipotekos teisėjas per 3 darbo dienas priima nutartį areštuoti įkeistą turtą, daro apie tai žymą hipotekos registre ir ne vėliau kaip kitą darbo dieną praneša apie tai įkeisto turto registrui (registrams) bei įspėja skolininką ir įkeisto turto savininką, kad, negrąžinus skolos per vieną mėnesį, įkeistas turtas bus parduotas iš varžytynių.
+1. Jeigu skolininkas per sutartyje nustatytą terminą neįvykdo hipoteka apsaugoto skolinio įsipareigojimo, kreditorius gali kreiptis į hipoteką įregistravusį hipotekos skyrių su pareiškimu dėl priverstinio skolos išieškojimo, nurodydamas pareiškime hipotekos kodą hipotekos registre, negrąžintos skolos dydį, skolininką, įkeisto turto savininką ir jų adresus (buveines). Hipotekos teisėjas per 3 darbo dienas priima nutartį areštuoti įkeistą turtą ir įregistruoja ją turto arešto aktų registre bei įspėja skolininką ir įkeisto turto savininką, kad, negrąžinus skolos per vieną mėnesį, įkeistas turtas bus parduotas iš varžytynių. Įspėjimas skolininkui ir įkeisto turto savininkui įteikiamas Civilinio proceso kodekso devintajame skirsnyje nustatyta tvarka.
 
-2. Hipotekos teisėjo nutartis areštuoti įkeistą turtą per 3 darbo dienas išsiunčiama vykdyti teismo antstoliui, kurio veiklos teritorijoje yra turtas. Įkeistas turtas areštuojamas Civilinio proceso kodekso nustatyta tvarka.
+2. Tais atvejais, kai areštuotas įkaito davėjo turtas turi būti perduotas saugoti ar administruoti kitam asmeniui, hipotekos teisėjo nutartis areštuoti įkeistą turtą per 3 darbo dienas išsiunčiama vykdyti teismo antstoliui, kurio veiklos teritorijoje yra turtas. Areštuotas įkaito davėjo turtas perduodamas saugoti ar administruoti kitam asmeniui Civilinio proceso kodekso nustatyta tvarka.
+
+Straipsnio pakeitimai:
+Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
  
 
 40 straipsnis. Teisė reikalauti patenkinti hipoteka apsaugotą reikalavimą prieš terminą
@@ -423,11 +445,14 @@ Nuo įkeisto turto arešto momento įkeisto turto savininkas netenka teisės per
 Pajamos, gautos iš įkeisto turto po šio turto arešto, apskaitomos atskirai ir panaudojamos visų esamų hipotekos kreditorių reikalavimams tenkinti.
  
 
-43 straipsnis.  Nutarties priverstinai parduoti įkeistą turtą iš varžytynių priėmimas
+43 straipsnis. Nutarties priverstinai parduoti įkeistą turtą iš varžytynių priėmimas
 
-1. Jeigu skola per 1 mėnesį nuo įkeisto turto arešto dienos negrąžinta, kreditorius pakartotinai kreipiasi su pareiškimu į hipotekos skyrių dėl skolos išieškojimo ir kartu pateikia hipotekos lakštą. Gavęs prašymą, hipotekos teisėjas per 3 darbo dienas priima nutartį už skolą įkeistą turtą parduoti iš varžytynių, daro apie tai žymą hipotekos registre ir ne vėliau kaip kitą darbo dieną praneša apie tai turto registrui (registrams). Hipotekos teisėjo nutartis kartu su kreditoriaus pareiškimu išieškoti skolą per 3 darbo dienas išsiunčiami vykdyti turto buvimo vietos antstolių kontorai prie apylinkės teismo.
+1. Jeigu skola per 1 mėnesį nuo įspėjimo skolininkui ir įkeisto turto savininkui įteikimo dienos negrąžinta, kreditorius pakartotinai kreipiasi su pareiškimu į hipotekos skyrių dėl skolos išieškojimo ir kartu pateikia hipotekos lakštą. Gavęs pareiškimą, hipotekos teisėjas per 3 darbo dienas priima nutartį už skolą įkeistą turtą parduoti iš varžytynių ir praneša apie tai hipotekos kreditoriams, kurių prievolių įvykdymui užtikrinti yra įkeistas šis turtas, įkeisto turto savininkui ir skolininkui. Hipotekos teisėjo nutartis kartu su kreditoriaus pareiškimu išieškoti skolą per 3 darbo dienas išsiunčiami vykdyti turto buvimo vietos antstolių kontorai prie apylinkės teismo.
 
-2. Jeigu nuo įkeisto turto arešto praėjus 2 mėnesiams kreditorius nesikreipė dėl skolos išieškojimo, hipotekos teisėjas priima nutartį panaikinti įkeisto turto areštą, daro apie tai žymą hipotekos registre ir ne vėliau kaip kitą darbo dieną praneša apie tai turto registrui (registrams).
+2. Jeigu nuo įspėjimo skolininkui ir įkeisto turto savininkui įteikimo dienos praėjus 2 mėnesiams kreditorius nesikreipė dėl skolos išieškojimo, hipotekos teisėjas priima nutartį panaikinti įkeisto turto areštą ir išregistruoja nutartį areštuoti įkeistą turtą iš turto arešto aktų registro.
+
+Straipsnio pakeitimai:
+Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
  
 
 44 straipsnis. Pranešimas apie varžytynes suinteresuotiems asmenims
@@ -598,4 +623,9 @@ Lietuvos Respublikos hipotekos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-670, 1998-03-19, Žin., 1998, Nr. 31-822 (1998-04-01), i. k. 0981010ISTAVIII-670
 Lietuvos Respublikos hipotekos įstatymo 9 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
+Lietuvos Respublikos hipotekos įstatymo 8, 39, 43 straipsnių pakeitimo ir papildymo 11(1) straipsniu įstatymas
 
