@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6D124D42F326"
 
 # Lietuvos Respublikos pilietybės įstatymas
 
-Suvestinė redakcija nuo 1993-07-28 iki 1993-12-17
+Suvestinė redakcija nuo 1993-12-18 iki 1993-12-21
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 251-0; Žin. 1991, Nr.36-977, i. k. 0911010ISTA00I-2072
  
@@ -213,9 +213,10 @@ Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 1 punkte, teisę
 
 Asmenys, nurodyti šio įstatymo 17 straipsnio pirmosios dalies 2 ir 3 punktuose, teisę į Lietuvos Respublikos pilietybę įgyvendina, kai atsisako turimos kitos valstybės pilietybės ir persikelia nuolat gyventi į Lietuvą bei prisiekia Lietuvos Respublikai.
 
-Lietuvių kilmės asmenys, turėję Lietuvos Respublikos pilietybę ir nuo 1940 m. birželio 15 d. iki 1990 m. kovo 11 d. pasitraukę iš Lietuvos, gyvenantys kitose valstybėse ir jų vaikai, kurie su gimimu kitoje valstybėje neįgijo šios valstybės pilietybės, Lietuvos Respublikos pilietybę atstato, raštu pareiškę Lietuvos Respublikos vidaus reikalų ministerijai ar Lietuvos Respublikos diplomatinėms įstaigoms užsienyje, kad jie yra Lietuvos Respublikos piliečiai, ir pateikę tai patvirtinančius įrodymus.
+Lietuvių kilmės asmenys, prieš 1940 m. birželio 15 d. turėję Lietuvos Respublikos pilietybę, ir jų vaikai, taip pat kiti asmenys, iki 1940 m. birželio 15 d. turėję Lietuvos Respublikos pilietybę (jei visi nurodytieji nėra repatrijavę iš Lietuvos) ir nuo 1940 m. birželio 15 d. iki 1990 m. kovo 11 d. pasitraukę arba ištremti iš Lietuvos, gyvenantys kitose valstybėse, Lietuvos Respublikos pilietybę atstato raštu pareiškę Lietuvos Respublikos vidaus reikalų ministerijai ar Lietuvos Respublikos diplomatinėms įstaigoms užsienyje, kad jie yra Lietuvos Respublikos piliečiai, ir pateikę patvirtinančius įrodymus. Jiems netaikomos šio straipsnio pirmosios dalies ir Pilietybės įstatymo 1 straipsnio 1 punkto išlygos.
 Straipsnio dalies pakeitimai:
 Nr. I-2079, 1991-12-10, Lietuvos aidas, 1991, Nr. 251-0 (1991-12-17); Žin., 1991, Nr. 36-981 (1991-12-31), i. k. 0911010ISTA00I-2079
+Nr. I-320, 1993-12-07, Žin., 1993, Nr. 70-1303 (1993-12-18), i. k. 0931010ISTA000I-320
  
 
 Lietuvos Respublikos pilietybės atstatymas pagal šį įstatymą savaime nesukelia teisinių pasekmių atstačiusio pilietybę asmens šeimos nariams.
@@ -461,4 +462,9 @@ Dėl Lietuvos Respublikos pilietybės įstatymo 14 ir 25 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 Dėl Lietuvos Respublikos pilietybės įstatymo pakeitimo ir papildymo
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-320, 1993-12-07, Žin., 1993, Nr. 70-1303 (1993-12-18), i. k. 0931010ISTA000I-320
+Dėl Lietuvos Respublikos pilietybės įstatymo 18 straipsnio pakeitimo
 
