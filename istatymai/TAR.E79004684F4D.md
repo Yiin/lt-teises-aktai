@@ -19,7 +19,8 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 Redagavo:
-Ramunė Lūžaitė (1997.07.10)
+Ramunė Lūžaitė (1999.05.10)
+ 
  
 Įstatymas
 paskelbtas: Žin., 1995, Nr.59-1462
@@ -45,6 +46,15 @@ Nr.
 VIII-320, 97.06.26, Žin., 1997, Nr.65-1547 (97.07.09)
 LIETUVOS
 RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 9 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1155,
+99.04.22, Žin., 1999, Nr.39-1202 (99.05.05)
+LIETUVOS
+RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
 ***
@@ -86,9 +96,9 @@ veiklai skirta teritorija, kurioje yra šio įstatymo nustatytos ūkio subjektam
 specialios ekonominės ir teisinės funkcionavimo sąlygos. Šioje teritorijoje
 neturi būti nuolatinių gyventojų.
      2.
-Zonoje prekės importo ir eksporto muitų bei mokesčių ir kitų ekonominio pobūdžio
-draudimų ir apribojimų požiūriu yra laikomos esančiomis už Lietuvos Respublikos
-muitų teritorijos ribų. 
+Zonoje prekės importo ir eksporto muitų bei mokesčių ir kitų ekonominio
+pobūdžio draudimų ir apribojimų požiūriu yra laikomos esančiomis už Lietuvos
+Respublikos muitų teritorijos ribų. 
  
  
      3
@@ -212,8 +222,8 @@ Nr.I-1268,
  
      8
 straipsnis. Draudžiamos ir ribojamos zonoje kapitalo investavimo ir 
-                  
-veiklos sritys
+     
+             veiklos sritys
  
      1.
 Zonoje įmonėms draudžiamos šios kapitalo investavimo ir veiklos sritys:
@@ -269,9 +279,9 @@ STEIGIMAS
 straipsnis. Zonos steigimo tvarka
  
      1.
-Zonos steigimo iniciatoriais gali būti Respublikos miestų ir rajonų
-savivaldybės ir apskritys, kurios Lietuvos Respublikos Vyriausybei pateikia
-pasiūlymą įsteigti zoną. Šiame siūlyme turi būti:
+Zonos steigimo iniciatoriais gali būti Respublikos miestų ir rajonų savivaldybės
+ir apskritys, kurios Lietuvos Respublikos Vyriausybei pateikia pasiūlymą
+įsteigti zoną. Šiame siūlyme turi būti:
      nurodyta
 zonos veiklos rūšis (rūšys);
      zonos
@@ -529,20 +539,20 @@ vidaus rinkoje supirktomis prekėmis arba reinvestuoti į Lietuvos Respublikos
      2.
 Muitinė privalo tikrinti į zoną atvykstančius ar iš jos išvykstančius asmenis,
 transporto priemones, įvežamas, išvežamas ar zonoje esančias prekes. Prekės
-įvežamos į zoną ir išvežamos iš jos tiktai per įvažiavimo (išvažiavimo)
-punktus; jų įvežimo (išvežimo) tvarką reglamentuoja Lietuvos Respublikos
-muitinės kodeksas ir Lietuvos Respublikos Vyriausybės nutarimai.
+įvežamos į zoną ir išvežamos iš jos tiktai per įvažiavimo (išvažiavimo) punktus;
+jų įvežimo (išvežimo) tvarką reglamentuoja Lietuvos Respublikos muitinės
+kodeksas ir Lietuvos Respublikos Vyriausybės nutarimai.
      3.
-Zonos išskyrimui reikalinga muitinės infrastruktūra ir statomų muitinių  pastatų
-projektai,  taip pat  visų zonos išskyrimui reikalingų infrastruktūrų ir visų
-statomų pastatų projektai Lietuvos Respublikos Vyriausybės nustatyta tvarka
-turi būti  suderinti  su  Muitinės  departamentu  prie  Finansų ministerijos.
+Zonos išskyrimui reikalinga muitinės infrastruktūra ir statomų muitinių 
+pastatų projektai,  taip pat  visų zonos išskyrimui reikalingų infrastruktūrų
+ir visų statomų pastatų projektai Lietuvos Respublikos Vyriausybės nustatyta
+tvarka turi būti  suderinti  su  Muitinės  departamentu  prie  Finansų
+ministerijos.
  
 Straipsnio
 pakeitimai:
 Nr.I-1268,
 96.04.02, Žin., 1996, Nr.35-871
- 
  
      17
 straipsnis. Bankų ir draudimo įstaigų veikla zonoje.
@@ -552,13 +562,17 @@ ir finansinės sąlygos
      1.
 Bankų ir draudimo įstaigų veiklą zonoje reguliuoja Lietuvos Respublikos
 komercinių bankų ir draudimo įstatymai.
-     2.
-Atsiskaitymui zonoje gali būti naudojamas litas ir konvertuojama užsienio šalių
-valiuta.
+2. Mokėjimams bei atsiskaitymams laisvojoje
+ekonominėje zonoje naudojamas litas. Mokėjimams bei atsiskaitymams tarp zonos
+įmonių gali būti naudojama užsienio valiuta.
      3.
 Į zoną įvežamiems ar išvežamiems pinigams taikoma tokia pat tvarka kaip
 įvežamiems pinigams iš užsienio ar išvežamiems į užsienį. 
  
+Straipsnio
+pakeitimai:
+Nr. VIII-1155,
+99.04.22, Žin., 1999, Nr.39-1202 (99.05.05)
  
      18
 straipsnis. Apskaita ir atskaitomybė zonoje
@@ -570,8 +584,8 @@ galiojančius įstatymus ir kitus teisės aktus.
  
            
 V SKYRIUS. DARBO SANTYKIAI, KALBŲ VARTOJIMAS 
-            
-     LAISVOJOJE EKONOMINĖJE ZONOJE 
+                 
+LAISVOJOJE EKONOMINĖJE ZONOJE 
  
  
      19
@@ -751,8 +765,9 @@ kylantys tarp zonos įmonių, tarp zonos įmonių ir zonos valdymo  bendrovės,
 tarp  zonos valdymo bendrovės ir valstybinių institucijų, tarp zonos valdymo
 bendrovės ir Lietuvos Respublikos Vyriausybės  įgaliotos valstybinės 
 institucijos, atliekančios laisvųjų  ekonominių zonų valstybinę priežiūrą,
-ginčai dėl kompensacijos už zonos įmonių veiklos sąlygų pakeitimą ir kiti ginčai
-sprendžiami Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
+ginčai dėl kompensacijos už zonos įmonių veiklos sąlygų pakeitimą ir kiti
+ginčai sprendžiami Lietuvos Respublikos civilinio proceso kodekso nustatyta
+tvarka. 
  
  
     
