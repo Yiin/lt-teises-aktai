@@ -81,7 +81,7 @@ apskaičiavimo ir tvirtinimo tvarką nustato Valstybinių socialinio draudimo
 pensijų įstatymas.
 Straipsnio pakeitimai:
 Nr. IX-1247,
-2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
  
 4 straipsnis. Asmenys, draudžiami ligos ir motinystės socialiniu
 draudimu
@@ -89,11 +89,11 @@ draudimu
 draudimu privalomai draudžiami: 
 1)
 gaunantys atlyginimą už darbą asmenys: dirbantys pagal darbo sutartis, einantys
-narystės pagrindu renkamąsias pareigas renkamose organizacijose, dirbantys
-narystės pagrindu ūkinėse bendrijose, žemės ūkio bendrovėse arba kooperatinėse
+narystės pagrindu renkamąsias pareigas renkamose organizacijose, dirbantys narystės
+pagrindu ūkinėse bendrijose, žemės ūkio bendrovėse arba kooperatinėse
 organizacijose, kandidatai į notarus (asesoriai), viešojo administravimo
-valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus Valstybinio socialinio
-draudimo įstatymo 4 straipsnio 1 dalies 3–5 punktuose);
+valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus Valstybinio
+socialinio draudimo įstatymo 4 straipsnio 1 dalies 3–5 punktuose);
 2)
 valstybės politikai, Konstitucinio Teismo teisėjai, Lietuvos Aukščiausiojo
 Teismo teisėjai, kitų teismų teisėjai, kandidatai į teisėjus, prokuratūros
@@ -124,10 +124,10 @@ ligos pašalpos skyrimo ir mokėjimo atvejus;
 gydytojo nurodymu būtina slaugyti susirgusį apdraustojo asmens šeimos narį;
 3) dėl užkrečiamųjų ligų protrūkių arba epidemijų nušalintiems nuo
 darbo;
-4) apdraustiesiems asmenims, kurie gydosi sveikatos priežiūros
-įstaigoje, teikiančioje ortopedines ir (ar) protezavimo paslaugas.Ši pašalpa
-skiriama apdraustiesiems asmenims už visą gydymosi tokioje įstaigoje laiką,
-taip pat vykimo į ją ir grįžimo iš jos laiką. 
+4) apdraustiesiems asmenims, kurie gydosi sveikatos priežiūros įstaigoje,
+teikiančioje ortopedines ir (ar) protezavimo paslaugas.Ši pašalpa skiriama
+apdraustiesiems asmenims už visą gydymosi tokioje įstaigoje laiką, taip pat
+vykimo į ją ir grįžimo iš jos laiką. 
 5)
 vaikų priežiūrai, jeigu vaikų įstaigose nustatytas infekcijų plitimą ribojantis
 režimas.
@@ -138,7 +138,7 @@ turintiems teisę jas gauti apdraustiesiems asmenims šiais atvejais:
 atostogų, iki vaikui sukaks vieneri metai, laiku.
 Straipsnio pakeitimai:
 Nr. IX-709,
-2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06), įsigalioja nuo 2002-04-01
+2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06)
  
 6 straipsnis. Pašalpos gavėjo kompensuojamasis uždarbis
 1. Jeigu pašalpos gavėjo vidutinis mėnesinis kompensuojamasis uždarbis yra mažesnis už nedarbingumo atsiradimo bei nėštumo ir gimdymo atostogų suteikimo mėnesį galiojusių Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų ketvirtadalį, ligos ir motinystės pašalpos skaičiuojamos taikant pastarąjį dydį. Jeigu pašalpos gavėjo vidutinis mėnesinis kompensuojamasis uždarbis yra mažesnis už vaiko priežiūros atostogų suteikimo mėnesį galiojusių Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų trečdalį, motinystės (tėvystės) pašalpos skaičiuojamos taikant pastarąjį dydį.
@@ -151,7 +151,7 @@ apskaičiuojamas Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudi
 pašalpų nuostatų nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-1247,
-2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
  
 7
 straipsnis. Pašalpos mokėjimas mirus asmeniui, turėjusiam teisę ją gauti 
@@ -175,8 +175,8 @@ PAŠALPA
 nurodytais atvejais turi šio įstatymo 4 straipsnio 1 dalyje išvardyti
 apdraustieji asmenys, jeigu jie:
 1) tampa laikinai nedarbingi ir dėl to praranda darbo pajamų, taip
-pat jeigu tuo laikotarpiu jie negauna ligos pašalpos pagal Nelaimingų
-atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą;
+pat jeigu tuo laikotarpiu jie negauna ligos pašalpos pagal Nelaimingų atsitikimų
+darbe ir profesinių ligų socialinio draudimo įstatymą;
 2) prieš laikinojo nedarbingumo nustatymo dieną turi ne trumpesnį
 kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per
 paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą.
@@ -197,19 +197,19 @@ pašalpa iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo
 nedarbingumo dienos ir mokama iki darbingumo atgavimo arba kol bus pripažintas
 invalidumas. 
 2.
-Apdraustiesiems asmenims, gaunantiems valstybinio socialinio draudimo invalidumo
-pensiją, ligos pašalpa 5 straipsnio 2 dalies 1 punkte numatytais atvejais iš
-Valstybinio socialinio draudimo fondo lėšų pradedama mokėti šio straipsnio 1
-dalyje nustatyta tvarka ir mokama ne ilgiau kaip 90 kalendorinių dienų per
-kalendorinius metus.
+Apdraustiesiems asmenims, gaunantiems valstybinio socialinio draudimo
+invalidumo pensiją, ligos pašalpa 5 straipsnio 2 dalies 1 punkte numatytais
+atvejais iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti šio
+straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau kaip 90 kalendorinių
+dienų per kalendorinius metus.
 3. Apdraustiesiems asmenims, kurie savanoriškai gydosi nuo
 alkoholizmo, narkomanijos ar toksikomanijos specializuotuose stacionaruose,
 ligos pašalpa iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti
-šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau kaip 
-14 kalendorinių dienų vieną kartą per kalendorinius metus.
+šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau kaip 14
+kalendorinių dienų vieną kartą per kalendorinius metus.
 Straipsnio pakeitimai:
 Nr. IX-709,
-2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06), įsigalioja nuo 2002-04-01
+2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06)
  
 10 straipsnis. Ligos pašalpos sergančiam šeimos nariui slaugyti
 mokėjimo trukmė 
@@ -231,8 +231,8 @@ Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios
 slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau
 kaip 120 dienų per kalendorinius metus.
 Straipsnio pakeitimai:
-Nr. IX-709, 2002-01-15,
-Žin., 2002, Nr. 13-469 (2002-02-06), įsigalioja nuo 2002-04-01
+Nr. IX-709,
+2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06)
  
 11
 straipsnis. Ligos pašalpos užkrečiamųjų ligų protrūkių arba jų epidemijų metu 
@@ -260,7 +260,7 @@ vaiką, ligos pašalpa iš Valstybinio socialinio draudimo fondo lėšų mokama 
 įstatymo 10 straipsnio 2 dalyje nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-709,
-2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06), įsigalioja nuo 2002-04-01
+2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06)
  
 12 straipsnis. Ligos pašalpos asmenims, kurie gydosi
 sveikatos priežiūros įstaigose, 
@@ -279,14 +279,14 @@ atvejais iš Valstybinio socialinio draudimo fondo lėšų mokama šio įstatymo
 straipsnio 2 dalyje nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-709,
-2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06), įsigalioja nuo 2002-04-01
+2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06)
  
 13 straipsnis. Ligos pašalpos mokėjimas atostogų metu
 1. Jeigu apdraustojo asmens laikinasis nedarbingumas dėl ligos
 arba traumos atsirado to asmens mokamų kasmetinių atostogų metu arba šių
-atostogų metu apdraustasis asmuo gydosi sveikatos priežiūros įstaigoje,
-teikiančioje ortopedines ir (ar) protezavimo paslaugas, ligos pašalpa mokama
-šio įstatymo 9 ir 12 straipsniuose nustatyta tvarka.
+atostogų metu apdraustasis asmuo gydosi sveikatos priežiūros įstaigoje, teikiančioje
+ortopedines ir (ar) protezavimo paslaugas, ligos pašalpa mokama šio įstatymo 9
+ir 12 straipsniuose nustatyta tvarka.
 2. Jeigu apdraustojo asmens laikinasis nedarbingumas dėl šio
 įstatymo 5 straipsnio 2 dalyje nurodytų priežasčių atsirado to asmens nemokamų
 atostogų metu arba jeigu apdraustasis asmuo nušalintas nuo darbo be teisės
@@ -301,15 +301,14 @@ Ligos pašalpa, kurią moka darbdavys 2 pirmąsias kalendorines nedarbingumo
 dienas, negali būti mažesnė negu 80 procentų ir ne didesnė kaip 100 procentų
 pašalpos gavėjo vidutinio darbo užmokesčio, apskaičiuoto Vyriausybės nustatyta
 tvarka.
-2. Ligos pašalpa, mokama iš Valstybinio socialinio draudimo fondo lėšų, lygi 
-85 procentams pašalpos gavėjo kompensuojamojo uždarbio. Ši pašalpa per mėnesį negali būti mažesnė už nedarbingumo atsiradimo mėnesį galiojusių einamųjų metų draudžiamųjų pajamų ketvirtadalį.
+2. Ligos pašalpa, mokama iš Valstybinio socialinio draudimo fondo lėšų, lygi 85 procentams pašalpos gavėjo kompensuojamojo uždarbio. Ši pašalpa per mėnesį negali būti mažesnė už nedarbingumo atsiradimo mėnesį galiojusių einamųjų metų draudžiamųjų pajamų ketvirtadalį.
 3. Ligos pašalpa apskaičiuojama ir mokama Vyriausybės tvirtinamų
 Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-709,
-2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06), įsigalioja nuo 2002-04-01
+2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06)
 Nr. IX-1247,
-2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
  
 15 straipsnis. Sąlygos, kuriomis ligos pašalpa nemokama
 1. Ligos pašalpa nemokama, jeigu atitinkamos institucijos nustato,
@@ -329,7 +328,7 @@ Straipsnio
 pakeitimai:
 Nr.
 IX-1419,
-2003-04-03, Žin., 2003, Nr. 38-1664 (2003-04-24), įsigalioja nuo 2003-05-01
+2003-04-03, Žin., 2003, Nr. 38-1664 (2003-04-24)
  
 TREČIASIS SKIRSNIS
 MOTINYSTĖS
@@ -343,8 +342,8 @@ motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu turi pagal šio
 įstatymo 4 straipsnio 1 dalį apdrausti asmenys, kuriems suteiktos nėštumo ir
 gimdymo atostogos, jeigu jie iki pirmosios nėštumo ir gimdymo atostogų dienos
 turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį
-kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo
-stažą.
+kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio
+draudimo stažą.
 2. Moteriai, atleistai iš darbo nėštumo metu arba
 nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos
 likvidavimo ar bankroto ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir
@@ -357,41 +356,38 @@ patvirtintas Nedarbingumo pažymėjimų bei nėštumo ir gimdymo atostogų pažy
 davimo taisykles.
 Straipsnio pakeitimai:
 Nr. IX-1248,
-2002-12-10, Žin., 2002, Nr. 124-5622 (2002-12-27), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 124-5622 (2002-12-27)
 Nr. IX-1333,
-2003-01-28, Žin., 2003, Nr. 12-441 (2003-01-31), įsigalioja nuo 2003-02-01
+2003-01-28, Žin., 2003, Nr. 12-441 (2003-01-31)
  
 17 straipsnis. Motinystės pašalpos nėštumo ir gimdymo atostogų
 laikotarpiu 
 mokėjimo trukmė
 1. Motinystės pašalpa mokama moterims už 70 kalendorinių dienų iki
-gimdymo (suėjus 
-28 nėštumo savaitėms ir daugiau) ir už 56 kalendorines dienas po gimdymo
-(komplikuoto gimdymo atveju ir kai gimė daugiau negu vienas vaikas – už 70
-kalendorinių dienų po gimdymo). Pašalpa mokama už visą nustatytą iki gimdymo ir
-po gimdymo laikotarpį neatsižvelgiant į faktinį iki gimdymo praėjusių dienų
-skaičių.
+gimdymo (suėjus 28 nėštumo savaitėms ir daugiau) ir už 56 kalendorines dienas
+po gimdymo (komplikuoto gimdymo atveju ir kai gimė daugiau negu vienas vaikas –
+už 70 kalendorinių dienų po gimdymo). Pašalpa mokama už visą nustatytą iki
+gimdymo ir po gimdymo laikotarpį neatsižvelgiant į faktinį iki gimdymo
+praėjusių dienų skaičių.
 2. Moterims, pagimdžiusioms 22–28 nėštumo savaitę, motinystės
-pašalpa mokama už 
-28 kalendorines dienas po gimdymo. Jeigu kūdikis gyvena 28 paras ir ilgiau,
-pašalpa mokama už 70 dienų po gimdymo.
+pašalpa mokama už 28 kalendorines dienas po gimdymo. Jeigu kūdikis gyvena 28
+paras ir ilgiau, pašalpa mokama už 70 dienų po gimdymo.
 3.
 Apdraustam asmeniui, įvaikinusiam naujagimį ar paskirtam jo globėju, motinystės
 pašalpa mokama nuo įvaikinimo ar globos nustatymo dienos, kol kūdikiui sueis 70
 dienų.
 Straipsnio pakeitimai:
 Nr. IX-1248,
-2002-12-10, Žin., 2002, Nr. 124-5622 (2002-12-27), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 124-5622 (2002-12-27)
  
 18 straipsnis. Motinystės pašalpos nėštumo ir gimdymo atostogų
 laikotarpiu dydis
 1. Motinystės pašalpa nėštumo ir gimdymo atostogų laikotarpiu mokama 100 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio. Ši pašalpa per mėnesį negali būti mažesnė už nėštumo ir gimdymo atostogų suteikimo mėnesį galiojusių einamųjų metų draudžiamųjų pajamų ketvirtadalį.
-2. Motinystės pašalpa apskaičiuojama ir mokama Vyriausybės
-tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta
-tvarka.
+2. Motinystės pašalpa apskaičiuojama ir mokama Vyriausybės tvirtinamų
+Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-1247,
-2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
  
 19 straipsnis. Teisė gauti motinystės (tėvystės) pašalpą
 1. Teisę gauti motinystės (tėvystės) pašalpą turi vienas iš tėvų
@@ -417,12 +413,12 @@ straipsnyje nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.
 5. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam šio
 straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą,
 atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto
-ir dėl to negavusiam vaiko iki vienerių metų priežiūros atostogų, motinystės
-(tėvystės) pašalpa mokama šio įstatymo 20 straipsnyje nustatyta tvarka, bet ne
-ilgiau kaip iki įsidarbinimo.
+ir dėl to negavusiam vaiko iki vienerių metų priežiūros atostogų, motinystės (tėvystės)
+pašalpa mokama šio įstatymo 20 straipsnyje nustatyta tvarka, bet ne ilgiau kaip
+iki įsidarbinimo.
 Straipsnio pakeitimai:
 Nr. IX-1333,
-2003-01-28, Žin., 2003, Nr. 12-441 (2003-01-31), įsigalioja nuo 2003-02-01
+2003-01-28, Žin., 2003, Nr. 12-441 (2003-01-31)
  
 20 straipsnis. Motinystės (tėvystės) pašalpos mokėjimo trukmė
 1.
@@ -432,14 +428,16 @@ nėštumo ir gimdymo atostogų pabaigos iki tol, kol vaikui sukanka vieneri meta
 atostogų laikotarpį, tai motinystės (tėvystės) pašalpa turintiems teisę ją
 gauti šio įstatymo 19 straipsnyje nurodytiems asmenims skiriama nuo vaiko
 gimimo dienos.
-3. Jeigu motinystės pašalpą už nėštumo ir gimdymo atostogų
-laikotarpį gavusi motina mirė, motinystės (tėvystės) pašalpa turintiems teisę
-ją gauti šio įstatymo 19 straipsnyje nurodytiems asmenims skiriama nuo motinos
-mirties dienos. 
+3. Jeigu motinystės pašalpą už nėštumo ir gimdymo atostogų laikotarpį
+gavusi motina mirė, motinystės (tėvystės) pašalpa turintiems teisę ją gauti šio
+įstatymo 19 straipsnyje nurodytiems asmenims skiriama nuo motinos mirties
+dienos. 
 Straipsnio pakeitimai:
 Nr. IX-709,
-2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06), įsigalioja nuo 2002-04-01
+2002-01-15, Žin., 2002, Nr. 13-469 (2002-02-06)
  
+21 straipsnio redakcija iki
+2004 m. kovo 1 d.:
 21
 straipsnis. Motinystės (tėvystės) pašalpos dydis
 Motinystės (tėvystės) pašalpa
@@ -451,9 +449,23 @@ gautą kompensuojamąjį uždarbį tik tose darbovietėse, kuriose jis yra išle
 vaiko priežiūros atostogų. Pašalpa apskaičiuojama ir mokama Vyriausybės
 tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta
 tvarka.
+21 straipsnio redakcija nuo
+2004 m. kovo 1 d.:
+21 straipsnis. Motinystės (tėvystės) pašalpos dydis
+Motinystės (tėvystės) pašalpa
+mokama 70 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio. Ši pašalpa
+per mėnesį negali būti mažesnė už vaiko priežiūros atostogų suteikimo mėnesį
+galiojusių einamųjų metų draudžiamųjų pajamų trečdalį. Kai apdraustasis dirba
+ne vienoje darbovietėje, motinystės (tėvystės) pašalpa jam apskaičiuojama pagal
+gautą kompensuojamąjį uždarbį tik tose darbovietėse, kuriose jis yra išleistas
+vaiko priežiūros atostogų. Pašalpa apskaičiuojama ir mokama Vyriausybės
+tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta
+tvarka.
 Straipsnio pakeitimai:
 Nr. IX-1247,
-2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
+Nr. IX-1975,
+2004-01-27, Žin., 2004, Nr. 25-750 (2004-02-14)
  
 KETVIRTASIS
 SKIRSNIS
@@ -474,9 +486,8 @@ valstybinio socialinio draudimo įmokos, delspinigiai ir baudos. Ligos ir
 motinystės socialinio draudimo pajamų dalį gali sudaryti lėšos, skirtos iš
 Valstybinio socialinio draudimo fondo biudžeto rezervo.
 3. Ligos ir motinystės socialinio draudimo išlaidas sudaro lėšos,
-skirtos šio įstatymo 
-5 straipsnyje nurodytoms ligos, motinystės ir motinystės (tėvystės) pašalpoms
-mokėti.
+skirtos šio įstatymo 5 straipsnyje nurodytoms ligos, motinystės ir motinystės
+(tėvystės) pašalpoms mokėti.
  
 23 straipsnis. Valstybinio socialinio draudimo įmokų tarifai ligos
 ir motinystės 
@@ -596,11 +607,22 @@ IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2003 m. gegužės 1 d.
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1975,
+2004-01-27, Žin., 2004, Nr. 25-750 (2004-02-14)
+LIGOS
+IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 21 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. kovo 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2003-04-25)
+Aušrinė Trapinskienė (2004-02-18)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
