@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8949DB1FAC6E"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 1994-08-03 iki 1994-12-31
+Suvestinė redakcija nuo 1995-01-01 iki 1995-01-19
  
 Įstatymas paskelbtas: Žin. 1989, Nr. 33-445, i. k. 0891010ISTA0XI-3335
  
@@ -181,7 +181,10 @@ Per du mėnesius nesurinkus reikiamo Lietuvos TSR piliečių parašų skaičiaus
 
 Vyriausioji rinkimų komisija, gavusi dokumentus dėl referendumo paskelbimo, per penkiolika dienų juos patikrina. Jeigu Vyriausioji rinkimų komisija nustato, kad jie atitinka šio įstatymo reikalavimus, piliečių iniciatyvinės grupės baigiamąjį aktą kartu su piliečių reikalavimais – pareiškimais ir savo išvada perduoda Lietuvos Respublikos Seimui.
 
-Jeigu randa dokumentuose neesminių trūkumų ar trūksta labai nedaug (iki 0,5 procento) piliečių parašų, Vyriausioji rinkimų komisija apie tai praneša iniciatyvinei grupei ir nustato iki penkiolikos dienų terminą šiems trūkumams pašalinti. Jeigu per nustatytą laiką šie trūkumai pašalinami, reikalavimas dėl referendumo paskelbimo toliau nagrinėjamas bendra tvarka. Jeigu pažeistas iniciatyvos teisės įgyvendinimo terminas, nesurinktas reikiamas skaičius Lietuvos Respublikos piliečių parašų arba jeigu pateiktuose dokumentuose nustatyta rimtų įstatymo pažeidimų (suklastoti piliečių parašai ar pažeistas savanoriškumo principas renkant parašus), Vyriausioji rinkimų komisija motyvuotu sprendimu atmeta reikalavimą paskelbti referendumą ir praneša apie tai iniciatyvinei grupei bei Lietuvos Respublikos Seimui. Šį sprendimą piliečių iniciatyvinė grupė turi teisę per vieną mėnesį apskųsti Lietuvos Aukščiausiajam Teismui, o esant apygardos teismams – apygardos teismui.
+Jeigu randa dokumentuose neesminių trūkumų ar trūksta labai nedaug (iki 0,5 procento) piliečių parašų, Vyriausioji rinkimų komisija apie tai praneša iniciatyvinei grupei ir nustato iki penkiolikos dienų terminą šiems trūkumams pašalinti. Jeigu per nustatytą laiką šie trūkumai pašalinami, reikalavimas dėl referendumo paskelbimo toliau nagrinėjamas bendra tvarka. Jeigu pažeistas iniciatyvos teisės įgyvendinimo terminas, nesurinktas reikiamas skaičius Lietuvos Respublikos piliečių parašų arba jeigu pateiktuose dokumentuose nustatyta rimtų įstatymo pažeidimų (suklastoti piliečių parašai ar pažeistas savanoriškumo principas renkant parašus), Vyriausioji rinkimų komisija motyvuotu sprendimu atmeta reikalavimą paskelbti referendumą ir praneša apie tai iniciatyvinei grupei bei Lietuvos Respublikos Seimui. Šį sprendimą piliečių iniciatyvinė grupė turi teisę per vieną mėnesį apskųsti Lietuvos Aukščiausiajam Teismui, o esant apygardos teismams – Vilniaus apygardos teismui.
+Straipsnio dalies pakeitimai:
+Nr. I-643, 1994-11-08, Žin., 1994, Nr. 89-1716 (1994-11-18), i. k. 0941010ISTA000I-643
+ 
 
 Jeigu aptinkama, kad pilietis už to paties referendumo paskelbimą pasirašė du kartus ar daugiau, jo visi parašai neįskaitomi. Taip pat parašai neįskaitomi, jeigu piliečių parašų rinkimo lape neįrašyti visi šiame įstatyme nustatyti duomenys arba jie nurodyti neteisingai. 
 
@@ -392,9 +395,15 @@ Politinės partijos ir kitos politinės ar visuomeninės organizacijos įgalioti
 
 2) miestų, rajonų referendumo komisijų – Vyriausiajai rinkimų komisijai;
 
-3) Vyriausiosios rinkimų komisijos – Aukščiausiajam Teismui.
+3) Vyriausiosios rinkimų komisijos – Vilniaus apygardos teismui.
+Straipsnio punkto pakeitimai:
+Nr. I-643, 1994-11-08, Žin., 1994, Nr. 89-1716 (1994-11-18), i. k. 0941010ISTA000I-643
+ 
 
-Šie skundai turi būti išnagrinėti ne vėliau kaip per 48 valandas nuo skundo padavimo. Į šį terminą įskaitomos ir ne darbo dienos. Aukščiausiojo Teismo sprendimas yra galutinis. 
+Šie skundai turi būti išnagrinėti ne vėliau kaip per 48 valandas nuo skundo padavimo. Vilniaus apygardos teismo sprendimas įsiteisėja nuo paskelbimo. 
+Straipsnio dalies pakeitimai:
+Nr. I-643, 1994-11-08, Žin., 1994, Nr. 89-1716 (1994-11-18), i. k. 0941010ISTA000I-643
+ 
 
 Papildyta straipsniu:
 Nr. I-496, 1994-06-15, Žin., 1994, Nr. 47-870 (1994-06-22); Žin., 1994, Nr. 48-0 (1994-06-24), i. k. 0941010ISTA000I-496
@@ -862,4 +871,9 @@ Dėl Lietuvos Respublikos referendumo įstatymo 3 straipsnio papildymo
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 1994-07-22, Žin., 1994, Nr. 57-1120 (1994-07-27), i. k. 0941000NUTARG940214                
 Dėl 1994 m. birželio 15 d. įstatymo "Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo ir papildymo" 1, 9, 12 ir 39 punktų nuostatų, kuriomis buvo pakeisti ar papildyti Referendumo įstatymo 1, 9, 12 ir 32 straipsniai, atitikimo Lietuvos Respublikos Konstitucijai
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-643, 1994-11-08, Žin., 1994, Nr. 89-1716 (1994-11-18), i. k. 0941010ISTA000I-643
+Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo
 
