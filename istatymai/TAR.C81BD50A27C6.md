@@ -19,7 +19,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 Įstatymas
-skelbtas: Žin., 1996, Nr. 66-1572
+skelbtas: Žin., 1996, Nr.66-1572
 Neoficialus
 įstatymo tekstas
  
@@ -405,8 +405,8 @@ reguliavimo
 klausimais
             Sveikatos
 apsaugos ministerija:
-            1) šio įstatymo nustatyta
-tvarka steigia, reorganizuoja ar likviduoja jai pavaldžias LNSS įstaigas;
+            1) šio įstatymo nustatyta tvarka
+steigia, reorganizuoja ar likviduoja jai pavaldžias LNSS įstaigas;
             2)
 šio įstatymo nustatyta tvarka kartu su valstybinėmis aukštosiomis mokyklomis ar
 valstybinėmis mokslo įstaigomis steigia, reorganizuoja ir likviduoja įstaigas; 
@@ -424,8 +424,8 @@ nustato sveikatos priežiūros tinkamumo ir priimtinumo reikalavimus;
 kartu su Finansų ministerija rengia pasiūlymus Vyriausybei dėl valstybės
 biudžeto asignavimų LNSS įstaigoms;
             8)
-prognozuoja sveikatos priežiūros specialistų poreikį ir formuoja valstybės užsakymą
-rengti šiuos specialistus;
+prognozuoja sveikatos priežiūros specialistų poreikį ir formuoja valstybės
+užsakymą rengti šiuos specialistus;
             9)
 kontroliuoja, kaip įstaigos laikosi sveikatos priežiūros būtinųjų sąlygų,
 įstatymų, kitų teisės aktų ir norminių dokumentų reikalavimų;
@@ -617,9 +617,9 @@ steigimą,
 veiklą,
 reorganizavimą ir likvidavimą
             Biudžetinių
-įstaigų steigimo, veiklos, valdymo, reorganizavimo ir likvidavimo klausimus
-reguliuoja Biudžetinių įstaigų įstatymas, Sveikatos sistemos įstatymas, šis ir
-kiti įstatymai bei teisės aktai.
+įstaigų steigimo, veiklos, valdymo, reorganizavimo ir likvidavimo klausimus reguliuoja
+Biudžetinių įstaigų įstatymas, Sveikatos sistemos įstatymas, šis ir kiti
+įstatymai bei teisės aktai.
             
             22
 straipsnis. Biudžetinių įstaigų valdymo, veiklos ir lėšų naudojimo ypatumai
@@ -648,9 +648,8 @@ sutrikusio vystymosi kūdikių namai;
             3)
 audinių ir organų transplantacijos biuras, kurio steigėja yra Sveikatos
 apsaugos ministerija;
-            4)
-teismo psichiatrijos ir narkologijos bei teismo medicinos asmens ekspertizės
-įstaigos;
+            4) teismo
+psichiatrijos ir narkologijos bei teismo medicinos asmens ekspertizės įstaigos;
             5)
 patologoanatominės ekspertizės įstaigos;
             6)
@@ -1028,8 +1027,8 @@ sudaro viešosios įstaigos likvidavimo aktą;
             6)
 likviduotą įstaigą išregistruoja įstatymų nustatyta tvarka.
             3.
-Likvidatorius yra atsakingas įstaigai ir steigėjui (steigėjams) už nuostolius, kurie
-susidarė dėl jo kaltės.
+Likvidatorius yra atsakingas įstaigai ir steigėjui (steigėjams) už nuostolius,
+kurie susidarė dėl jo kaltės.
             
 39
 straipsnis. LNSS savivaldybių ir valstybės asmens sveikatos priežiūros viešųjų
@@ -1165,8 +1164,8 @@ patvirtintas prioritetines programas, jei šie tyrimai skirti LNSS valdymo ir
 gyventojų sveikatos saugos, grąžinimo ir stiprinimo, paslaugų tinkamumo,
 prieinamumo, jų teikimo, socialinio teisingumo plėtojimo aktualioms problemoms
 spręsti.
-            2. Iš
-savivaldybės biudžeto asignavimų, skirtų sveikatos priežiūrai:
+            2.
+Iš savivaldybės biudžeto asignavimų, skirtų sveikatos priežiūrai:
             1)
 išlaikomos biudžetinės įstaigos, kurių steigėja yra savivaldybių taryba;
             2)
@@ -1255,8 +1254,8 @@ protrūkius, kitus žalos pacientų sveikatai padarymo atvejus;
 teikti nemokamas planinės sveikatos priežiūros paslaugas, įsitikinus, kad
 pacientas turi teisę tokias paslaugas gauti.
             
-            46
-straipsnis. Asmens sveikatos priežiūros įstaigų vidaus tvarkos taisyklės 
+            46 straipsnis.
+Asmens sveikatos priežiūros įstaigų vidaus tvarkos taisyklės 
             1. Asmens
 sveikatos priežiūros įstaigos privalo turėti vidaus tvarkos taisykles ir
 užtikrinti, kad jos būtų prieinamos pacientams susipažinti.
@@ -1366,9 +1365,9 @@ kitais būdais negalima nustatyti mirties priežasties;
 kitais įstatymų numatytais atvejais, gavus teisėsaugos institucijų reikalavimą.
             5.
 Įstaiga garantuoja mirusiojo kūno nemokamą apsaugą iki tol, kol jį atsiims
-mirusiojo šeimos nariai, jo įstatyminiai atstovai arba paciento prieš mirtį nurodyti
-asmenys, bet ne ilgiau kaip keturias paras po patologoanatominio tyrimo ar
-teisės medicinos ekspertizės. 
+mirusiojo šeimos nariai, jo įstatyminiai atstovai arba paciento prieš mirtį
+nurodyti asmenys, bet ne ilgiau kaip keturias paras po patologoanatominio
+tyrimo ar teisės medicinos ekspertizės. 
             6.
 Pasibaigus šio straipsnio 5 dalyje nurodytam terminui, įstaiga mirusiojo kūną
 perduoda teritorinei lavoninei.
@@ -1673,30 +1672,32 @@ Uždarosios
 biudžetinės įstaigos veiklos kontrolė atliekama Vyriausybės ar jos įgaliotų
 institucijų nustatyta tvarka.
  
-            61
-straipsnis. Baigiamosios nuostatos
-            1. Veikiančios
-asmens sveikatos priežiūros įstaigos vykdomai sveikatos priežiūrai turi gauti
-licencijas iki 1999 metų gruodžio 31 dienos. Šių įstaigų atliekama sveikatos priežiūra
-be licencijos nuo 2000 metų sausio 1 dienos yra neteisėta.
-            2.
-Veikiančios visuomenės sveikatos priežiūros įstaigos vykdomai visuomenės
-sveikatos priežiūrai turi gauti licencijas iki 2000 metų gruodžio 31 dienos.
-Šių įstaigų atliekama visuomenės sveikatos priežiūra be licencijos nuo 2001
-metų sausio 1 dienos yra neteisėta.
-   3. LNSS
-viešųjų ir biudžetinių įstaigų vadovai turi būti atestuojami per trejus metus
+ 
+61 straipsnis.
+Baigiamosios nuostatos
+1.Veikiančios
+asmens ir visuomenės sveikatos priežiūros įstaigos vykdomai sveikatos
+priežiūros veiklai turi gauti licencijas iki 2002 metų gruodžio 31 dienos pagal
+Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintą planą -
+grafiką. Šių įstaigų atliekama sveikatos priežiūra be licencijos nuo 2003 metų
+sausio 1 dienos yra neteisėta.
+2.
+LNSS viešųjų ir biudžetinių įstaigų vadovai turi būti atestuojami per trejus metus
 nuo šio įstatymo įsigaliojimo.
+Straipsnio pakeitimai:
+Nr. VIII-1512, 99.12.23, Žin., 2000,
+Nr.1-6 (00.01.05)
  
  
-   Skelbiu šį
+Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
+ 
  
 RESPUBLIKOS PREZIDENTAS                                                ALGIRDAS
 BRAZAUSKAS
-            
-            _____________
-            
+ 
+_____________
+ 
 Pakeitimai:
  
 1.
@@ -1719,7 +1720,14 @@ SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAKEITIMO
 Nauja
 įstatymo redakcija
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1512, 99.12.23, Žin., 2000,
+Nr.1-6 (00.01.05)
+SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 61 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.16)
+Redagavo: Aušrinė Trapinskienė (2000.08.17)
