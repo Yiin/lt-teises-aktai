@@ -13,28 +13,30 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 1997-10-24 iki 2002-10-22
+Suvestinė redakcija nuo 2002-10-23 iki 2008-11-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
-LIETUVOS RESPUBLIKOS
-KELIŲ
-Į S T A T Y M A S
+Nauja redakcija nuo 2002-10-23:
+Nr. IX-1113, 2002-10-03, Žin. 2002, Nr. 101-4492 (2002-10-23), i. k. 1021010ISTA0IX-1113
+ 
+LIETUVOS RESPUBLIKOS KELIŲ Į S T A T Y M A S
  
 1995 m. gegužės 11 d. Nr. I-891
 Vilnius
  
+ 
 
 
-I SKYRIUS
+PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. 
+1 straipsnis. Įstatymo paskirtis
 
 
-Šis automobilių kelių (toliau – Kelių) įstatymas nustato Lietuvos Respublikos kelių (išskyrus miestų gatves) plėtojimo, priežiūros ir naudojimosi jais teisinius pagrindus.
+Šis Įstatymas nustato Lietuvos Respublikos automobilių kelių plėtojimo, priežiūros ir naudojimosi jais teisinius pagrindus.
  
 
 
@@ -42,20 +44,90 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. 
+2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
-Kelias – tai inžinerinis statinys, skirtas nustatytų gabaritų ir masės transporto priemonių bei pėsčiųjų eismui.
-
-
-
-
-Kelią sudaro sankasa, važiuojamoji dalis, kelkraščiai, skiriamoji juosta, kelio grioviai, sankryžos, autobusų sustojimo aikštelės, pėsčiųjų ir dviračių takai, kelio statiniai, eismo reguliavimo priemonės.
+1. Didžiagabaritė transporto priemonė – transporto priemonė, kurios matmenys (ilgis, plotis, aukštis) su kroviniu ar be jo yra didesni už didžiausius leistinus dydžius.
 
 
 
 
-Kelio kompleksą sudaro kelias, kelių tiesimo ir priežiūros įmonių pastatai, statiniai ir įrenginiai, transporto aptarnavimo statiniai ir įrenginiai, avarinio ryšio linijos, želdiniai ir šių objektų užimta žemė, taip pat sanitarinės apsaugos zonos žemė.
+2. Gatvė – kelias ar jo ruožas, esantis miesto ar kaimo gyvenamosios vietovės teritorijoje, paprastai turintis pavadinimą.
+
+
+
+
+3. Kelias – inžinerinis statinys, skirtas transporto priemonių ir pėsčiųjų eismui. Kelią sudaro žemės sankasa, važiuojamoji dalis, kelkraščiai, skiriamoji juosta, kelio grioviai, sankryžos, autobusų sustojimo aikštelės, poilsio aikštelės, pėsčiųjų ir dviračių takai, kelio statiniai, techninės eismo reguliavimo priemonės, želdynai, esantys kelio juostoje, kelio oro sąlygų stebėjimo ir transporto eismo apskaitos, apšvietimo bei kiti įrenginiai su šių objektų užimama žeme.
+
+
+
+
+4. Kelio apsaugos zona – abipus kelio nustatyto pločio žemės juosta, kurioje ribojama ūkinė veikla.
+
+
+
+
+5. Kelio briauna – kelkraščio ir žemės sankasos šlaito plokštumų susikirtimo linija.
+
+
+
+
+6. Kelio juosta – žemės juosta, kurioje nutiestas arba tiesiamas kelias.
+
+
+
+
+7. Kelio kategorija – rodiklis, nustatantis kelio techninius parametrus bendrame kelių tinkle (kelio ir jo statinių matmenis, eismo juostų skaičių, sankryžų tipą, eismo pralaidumą ir kita).
+
+
+
+
+8. Kelio priežiūra – nuolatiniai kelio darbai siekiant užtikrinti saugų eismą ir numatytą kelio bei jo statinių tarnavimo laiką.
+
+
+
+
+9. Kelio rekonstravimas – statybos rūšis, kurios tikslas iš esmės pertvarkyti esamą kelią ar jo statinius.
+
+
+
+
+10. Kelio savininkas – valstybė, savivaldybės, juridinis ar fizinis asmuo, kuriam kelias priklauso nuosavybės teise.
+
+
+
+
+11. Kelio statiniai – visa tai, kas sukurta tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbais, naudojant statybos medžiagas, gaminius, dirbinius, produktus, ir yra tvirtai sujungta su žeme.
+
+
+
+
+12. Kelio taisymas (remontas) – statybos rūšis, kurios tikslas iš dalies arba visiškai atkurti statybos techninių reglamentų nustatytas kelio ar kitų jo statinių savybes, pablogėjusias dėl statinio naudojimo, arba jas pagerinti.
+
+
+
+
+13. Kelio tiesimas – naujo kelio ar jo ruožo statymas nauja trasa, miesto, kaimo gyvenamosios vietovės aplinkkelio su visais kelio statiniais tiesimas, tilto, viaduko ar kitokio statinio statyba, buvusio statinio rekonstravimas.
+
+
+
+
+14. Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos – Vyriausybės įsteigta institucija, organizuojanti bei koordinuojanti valstybinės reikšmės kelių atkūrimą, priežiūrą bei plėtrą.
+
+
+
+
+15. Pagrindinis kelių tinklas – magistraliniai ir krašto keliai.
+
+
+
+
+16. Sunkiasvorė transporto priemonė – transporto priemonė, kurios ašies (ašių) apkrova ir (ar) bendroji masė su kroviniu ar be jo yra didesnės už didžiausius leistinus dydžius.
+
+
+
+
+17. Techninės eismo reguliavimo priemonės – kelio ženklai, šviesoforai, aptvarai, atitvarai, kelių ženklinimas ir kita.
  
 
 
@@ -63,114 +135,43 @@ Kelio kompleksą sudaro kelias, kelių tiesimo ir priežiūros įmonių pastatai
 
 
 
-3 straipsnis. 
+3 straipsnis. Kelių suskirstymas pagal reikšmę
 
 
-Keliai pagal reikšmę skirstomi į valstybinės ir vietinės reikšmės kelius.
+1. Keliai, atsižvelgiant į transporto priemonių eismo pralaidumą, socialinę ir ekonominę jų reikšmę, skirstomi į valstybinės reikšmės ir vietinės reikšmės kelius.
 
 
 
 
-Valstybinės reikšmės keliai skirstomi į magistralinius, krašto ir rajoninius kelius.
+2. Valstybinės reikšmės keliai, kuriais vyksta tarptautinis, tranzitinis, turistinis ir vietinis intensyvus transporto priemonių eismas, skirstomi į:
 
 
+1) magistralinius kelius. Tai pagrindiniai Lietuvos keliai ir jų tęsiniai – gatvių važiuojamoji dalis, kuriais vyksta intensyviausias transporto priemonių eismas. Jiems priskiriami ir visi į Europos tarptautinį kelių tinklą įtraukiami valstybinės reikšmės keliai;
 
 
-Magistraliniais vadinami tarptautinio susisiekimo Lietuvos keliai.
 
 
+2) krašto kelius. Jie sudaro pagrindinio kelių tinklo dalį. Tai keliai ir jų tęsiniai - gatvių važiuojamoji dalis, kuriais vyksta intensyvus transporto priemonių eismas tarp Lietuvos Respublikos teritorijos administracinių vienetų centrų, taip pat tranzitinio ir turistinio transporto priemonių eismas;
 
 
-Krašto keliais vadinami keliai, jungiantys magistralinius kelius, administracinių vienetų centrus ir didžiuosius miestus arba besijungiantys vienas su kitu.
 
 
+3) rajoninius kelius. Tai keliai, naudojami Lietuvos Respublikos teritorijos administracinių vienetų teritorijose esančių juridinių ar fizinių asmenų susisiekimo reikmėms ir jungiantys miestų ir kaimų gyvenamąsias vietoves su pagrindinių kelių tinklu.
 
 
-Rajoniniais vadinami keliai, jungiantys krašto kelius, miestus, kaimus, kitus objektus, bet nepriskirti krašto keliams.
 
 
 
 
-Vietinės reikšmės keliais vadinami keliai, jungiantys rajoninius kelius, kaimus, taip pat kiti keliai, naudojami vietiniam susisiekimui.
- 
+3. Vietinės reikšmės keliai naudojami vietiniam susisiekimui ir skirstomi į:
 
 
+1) viešuosius kelius. Tai keliai, jungiantys rajoninius kelius, gyvenamąsias vietoves, sąvartynus, rekreacijos objektus, lankomus gamtos, kultūros paminklus, bei gatvės gyvenamosiose vietovėse ir kiti keliai, nepriskirti valstybinės reikšmės keliams;
 
 
 
 
-4 straipsnis. 
-
-
-Keliai pagal jų parametrus, vadovaujantis Lietuvos kelių projektavimo normomis, skirstomi į technines kategorijas.
- 
-
-
-
-
-
-
-5 straipsnis. 
-
-
-Pagal nuosavybės formą keliai yra valstybės, savivaldybių arba privatūs.
- 
-
-
-
-
-
-
-6 straipsnis. 
-
-
-Valstybės ir vietinių kelių projektavimo, tiesimo, taisymo ir priežiūros valstybines valdymo funkcijas atlieka Susisiekimo ministerija.
-
-
-
-
-Už valstybinės reikšmės kelių tvarkymą ir priežiūrą, taip pat už gatvių, kuriomis per miestus (išskyrus miestų savivaldybių teritorijose) ir miestelius eina magistraliniai ir krašto keliai, važiuojamosios dalies ir statinių priežiūrą atsakinga Susisiekimo ministerija.
-
-
-
-
-Už vietinės reikšmės kelių tvarkymą ir priežiūrą atsakingos savivaldybės.
-
-
-
-
-Už privačių kelių tvarkymą ir priežiūrą atsakingi jų savininkai.
-
-
-
-
-Už geležinkelių pervažų tvarkymą ir priežiūrą atsakingos geležinkelio organizacijos.
- 
-
-
-
-
-
-
-7 straipsnis. 
-
-
-Keliai vadinami pagal tų gyvenamųjų vietovių, kuriose jie prasideda ir baigiasi, pavadinimus. Prireikus kelio pavadinime gali būti ir tarpinių gyvenamųjų vietovių ar kitų objektų vardai.
-
-
-
-
-Magistraliniai ir krašto keliai numeruojami.
-
-
-
-
-Valstybinės reikšmės kelius registruoja Susisiekimo ministerija, jų sąrašus tvirtina Lietuvos Respublikos Vyriausybė. Susisiekimo ministerija renka, tvarko ir saugo duomenis apie valstybinės reikšmės kelius, disponuoja šių duomenų banku. Ji neatlygintinai teikia reikalingus duomenis valstybiniams kadastrams, registrams, klasifikatoriams bei duomenų bankams, taip pat turi teisę nemokamai gauti iš jų reikalingą informaciją.
-
-
-
-
-Vietinės reikšmės kelius registruoja bei jų sąrašus tvirtina savivaldybės.
+2) vidaus kelius. Tai juridinių ir (ar) fizinių asmenų reikmėms naudojami keliai (miškų, nacionalinių parkų, valstybės saugomų teritorijų, pasienio, karjerų, privažiavimo prie hidrotechninių įrenginių, ribotų teritorijų – kiemų keliai ir visi kiti keliai, nepriskirti viešiesiems keliams).
  
 
 
@@ -180,69 +181,166 @@ Vietinės reikšmės kelius registruoja bei jų sąrašus tvirtina savivaldybės
 
 
 
-II SKYRIUS 
+4 straipsnis. Kelių suskirstymas pagal nuosavybės formas
+
+
+1. Keliai nuosavybės teise priklauso valstybei, savivaldybėms, juridiniams ar fiziniams asmenims.
+
+
+
+
+2. Valstybinės reikšmės keliai išimtine nuosavybės teise priklauso valstybei. Juos turto patikėjimo teise įstatymų ir kitų teisės aktų nustatyta tvarka valdo, naudoja ir jais disponuoja Susisiekimo ministerijos įsteigtos valstybės įmonės ar jos įgaliota Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos.
+
+
+
+
+3. Vietinės reikšmės viešieji keliai ir gatvės nuosavybės teise priklauso savivaldybėms, o vidaus keliai - valstybei, savivaldybėms, kitiems juridiniams ir (ar) fiziniams asmenims.
+
+
+
+
+4. Kelias, kuris Susisiekimo ministerijos siūlymu išbraukiamas iš valstybinės reikšmės kelių sąrašo (nutiesus naują kelią, nutiesus miestų ar kitų gyvenamųjų vietovių aplinkkelius, pasikeitus to kelio socialinei ekonominei reikšmei, sumažėjus transporto priemonių eismo intensyvumui, likę kelių ruožai po ištiesinimo), tampa vietinės reikšmės keliu su visais jam priklausančiais statiniais ir įrenginiais. Jei savivaldybių tarybos pritaria, teisės aktų nustatyta tvarka kelias perduodamas savivaldybių nuosavybėn ir įrašomas į atitinkamą vietinės reikšmės kelių sąrašą. Kai kelias išbraukiamas iš vietinės reikšmės kelių sąrašo (pasikeitus to kelio socialinei ekonominei reikšmei, padidėjus transporto priemonių eismo intensyvumui ir atsiradus būtinybei rekonstruoti jį į aukštesnės kategorijos kelią), tai toks kelias, suderinus su Susisiekimo ministerija, įrašomas į valstybinės reikšmės kelių sąrašą ir perduodamas šio straipsnio 2 dalyje nurodytiems juridiniams asmenims.
+
+
+
+
+5. Kai kurie valstybinės reikšmės kelių statiniai ar įrenginiai (tarp jų kelių tiesimo ir priežiūros gamybinės bazės ar gamybiniai buitiniai pastatai), tapę nereikalingi šio straipsnio 2 dalyje nurodytiems juridiniams asmenims, įstatymų ir kitų teisės aktų nustatyta tvarka savivaldybės tarybos sutikimu gali būti perduodami jos nuosavybėn.
+ 
+
+
+
+
+
+
+5 straipsnis. Kelių plėtros politika, strategija ir jų  įgyvendinimas
+
+
+1. Kelių priežiūros ir plėtros valstybės politikos kryptis nustato Seimas priimdamas įstatymus.
+
+
+
+
+2. Kelių priežiūros ir plėtros valstybės politiką vykdo bei valstybinės reikšmės kelių programas rengia Susisiekimo ministerija.
+
+
+
+
+3. Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos:
+
+
+1) Susisiekimo ministerijos įgaliota atlieka valstybinės reikšmės kelius prižiūrinčių valstybės įmonių steigėjos funkcijas;
+
+
+
+
+2) nustato valstybinės reikšmės kelius prižiūrinčioms valstybės įmonėms privalomus kelių priežiūros darbus (užduotis);
+
+
+
+
+3) vykdo valstybinės reikšmės kelių projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbų užsakovų funkcijas;
+
+
+
+
+4) vykdo valstybinės reikšmės kelių projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbų organizavimo funkcijas;
+
+
+
+
+5) kontroliuoja, kad valstybinės reikšmės kelius projektuotų, tiestų, statytų, rekonstruotų, taisytų (remontuotų), prižiūrėtų tik asmenys, atitinkantys teisės aktų nustatytus reikalavimus.
+
+
+
+
+
+
+4. Vietinės reikšmės kelių projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros užsakovo funkcijas vykdo jų savininkai ir (ar) valdytojai.
+
+
+
+
+5. Kelių projektavimo, tiesimo, statybos, rekonstravimo ir taisymo (remonto) darbai vykdomi Viešųjų pirkimų įstatymo ir kitų teisės aktų nustatyta tvarka. Keliai gali būti tiesiami ar rekonstruojami koncesiniais pagrindais.
+
+
+
+
+6. Gatvių, kurios nėra valstybinės reikšmės kelių tąsa, projektavimo, tiesimo, rekonstravimo, taisymo (remonto) ir priežiūros darbus organizuoja ir užsakovo funkcijas atlieka savivaldybės. Gatvių, kurios yra valstybinės reikšmės kelių tąsa, projektavimo, tiesimo, rekonstravimo, taisymo (remonto) ir priežiūros darbų tvarką nustato Vyriausybė.
+
+
+
+
+7. Geležinkelių pervažų įrengimą ir priežiūrą reglamentuoja Geležinkelio transporto kodeksas.
+ 
+
+
+
+
+
+
+6 straipsnis. Kelio pavadinimas ir numeravimas
+
+
+1. Keliai numeruojami ir pavadinimai jiems suteikiami sudarant kelių sąrašus.
+
+
+
+
+2. Keliai vadinami pagal tų gyvenamųjų vietovių arba objektų, kuriuose jie prasideda ir baigiasi, pavadinimus. Prireikus kelio pavadinime gali būti ir tarpinių gyvenamųjų vietovių ar kitų objektų vardai.
+
+
+
+
+3. Valstybinės reikšmės kelių sąrašą Susisiekimo ministerijos teikimu tvirtina Vyriausybė.
+
+
+
+
+4. Vietinės reikšmės kelių sąrašus tvirtina savivaldybių tarybos.
+
+
+
+
+5. Miestų, kurie neturi aplinkkelių, gatvių, kurios yra Europos tarptautinio kelių tinklo kelių tęsiniai, sąrašus savivaldybių tarybų pritarimu, tvirtina Vyriausybė Vidaus reikalų ministerijos, suderinusios su Susisiekimo ministerija, teikimu. Šių gatvių trasos (esamų, tiesiamų bei planuojamų tiesti) turi būti numatytos atitinkamuose teritorijų planavimo dokumentuose. Vykdant žemės reformą šiose teritorijose pirmenybė suteikiama miestų visuomeninių transporto sistemų plėtros poreikiams. Piliečių nuosavybės teisių į žemę atkūrimo klausimai sprendžiami teisės aktų nustatyta tvarka.
+ 
+
+
+
+
+
+
+7 straipsnis. Kelių duomenų bankai
+
+
+Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos renka, inventorizuoja, tvarko ir saugo duomenis apie valstybinės reikšmės kelius, o savivaldybės – apie vietinės reikšmės kelius. Jos tvirtina kelių duomenų bankų nuostatus apie duomenų objektus, tvarkymą, saugojimą ir kita, disponuoja šių duomenų bankais ir neatlygintinai teikia reikalingus duomenis valstybės kadastrams, registrams, klasifikatoriams bei duomenų bankams, taip pat turi teisę nemokamai gauti iš jų reikalingą informaciją apie kelius.
+ 
+
+
+
+
+
+
+
+
+ANTRASIS SKIRSNIS
 KELIŲ TIESIMAS IR PRIEŽIŪRA
  
 
 
-8 straipsnis. 
+8 straipsnis. Pagrindiniai reikalavimai
 
 
-Keliai projektuojami remiantis patvirtintais teritorinio planavimo dokumentais, o tiesiami pagal nustatyta tvarka patvirtintus projektus. Kelių tiesimo ir taisymo projektai rengiami vadovaujantis Lietuvos Respublikos įstatymais, normatyviniais statybos dokumentais.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-426, 1997-09-25, Žin., 1997, Nr. 96-2424 (1997-10-24), i. k. 0971010ISTAVIII-426
- 
+1. Keliai projektuojami remiantis patvirtintais teritorijų planavimo bei Lietuvos kelių projektavimo normatyviniais dokumentais. Kelių tiesimo, statybos, rekonstrukcijos, taisymo (remonto) projektų ekspertizės atliekamos Vyriausybės nustatyta tvarka.
 
 
 
 
-9 straipsnis. 
-
-
-Žemė keliams tiesti, pastatams statyti, gamybinėms bazėms steigti, taip pat statybinių medžiagų bei grunto karjerams įgyjama Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
- 
+2. Keliai projektuojami, tiesiami, statomi, rekonstruojami, taisomi (remontuojami) ir prižiūrimi vadovaujantis įstatymais, kitais teisės aktais bei normatyviniais statybos techniniais dokumentais. Vykdomų darbų specialiųjų statybos reikalavimų valstybinė priežiūra atliekama Vyriausybės nustatyta tvarka.
 
 
 
 
-
-
-10 straipsnis. 
-
-
-Žemės juostos, kurioje nutiestas arba tiesiamas kelias (toliau – kelio juosta), minimalus plotis nustatomas:
-
-
-1) automagistralių ir I kategorijos kelių – 39 metrai;
-
-
-
-
-2) II kategorijos kelių – 28 metrai;
-
-
-
-
-3) III kategorijos kelių – 22 metrai;
-
-
-
-
-4) IV kategorijos kelių – 19 metrų;
-
-
-
-
-5) V kategorijos kelių – 18 metrų.
-
-
-
-
-
-
-Jeigu nutiestas ar tiesiamas kelias atskiruose ruožuose (iškasose, pylimuose) netelpa nustatyto pločio juostoje, tai šios juostos ribos nustatomos ne arčiau kaip po metrą nuo pylimo pado kraštų ar iškasos išorinių kraštų.
+3. Reikalavimus asmenims, turintiems teisę projektuoti, tiesti, statyti, rekonstruoti, taisyti (remontuoti), prižiūrėti valstybinės reikšmės kelius, nustato Susisiekimo ministerija ar jos įgaliota institucija.
  
 
 
@@ -250,40 +348,10 @@ Jeigu nutiestas ar tiesiamas kelias atskiruose ruožuose (iškasose, pylimuose) 
 
 
 
-11 straipsnis.
+9 straipsnis. Kelių kategorijos nustatymas
 
 
-Nuo kelio briaunos į abi puses nustatoma kelio sanitarinė apsaugos zona. Jos plotis atsižvelgiant į kelio kategoriją ir autotransporto eismo intensyvumą yra:
-
-
-1) automagistralių ir I kategorijos kelių arba kai eismo intensyvumas daugiau kaip 7000 automobilių per parą (toliau – a/m/p) – po 150 metrų;
-
-
-
-
-2) II kategorijos kelių arba kai eismo intensyvumas daugiau kaip 3000 a/m/p – po 70 metrų;
-
-
-
-
-3) III kategorijos kelių arba kai eismo intensyvumas daugiau kaip 700 a/m/p – po 50 metrų;
-
-
-
-
-4) IV ir V kategorijos kelių arba kai eismo intensyvumas daugiau kaip 250 a/m/p – po 20 metrų;
-
-
-
-
-5) kitais atvejais minimalus sanitarinės apsaugos zonos plotis nustatomas po 10 metrų.
-
-
-
-
-
-
-Žemė kelio sanitarinėje apsaugos zonoje yra valstybės arba privati. Ši žemė naudojama Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Kelių kategorijos nustatomos atsižvelgiant į transporto priemonių eismo pralaidumą ir kelių padėtį gyvenamųjų vietovių atžvilgiu bei vadovaujantis Aplinkos ministerijos ir Susisiekimo ministerijos patvirtintais Lietuvos kelių projektavimo normatyviniais dokumentais. Valstybinės reikšmės kelių kategorijas nustato Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos. Vietinės reikšmės viešųjų kelių kategorijas nustato savivaldybės, o vidaus kelių – juridiniai ar fiziniai asmenys, kuriems nuosavybės teise priklauso šie keliai.
  
 
 
@@ -291,15 +359,10 @@ Nuo kelio briaunos į abi puses nustatoma kelio sanitarinė apsaugos zona. Jos p
 
 
 
-12 straipsnis. 
+10 straipsnis. Žemės naudojimas kelių reikmėms
 
 
-Valstybinės reikšmės kelių sanitarinės apsaugos zonoje leidžiama tiesti kelius, statyti tik kelių komplekso pastatus, garsą slopinančius ir teršalus sulaikančius įrenginius, tiesti inžinerines komunikacijas, biotransporto trasas, formuoti želdinių juostą, steigti ir plėtoti aptarnavimo objektus, atsižvelgiant į kelių plėtros perspektyvą bei saugaus eismo reikalavimus, pagal nustatyta tvarka parengtus ir suderintus projektus.
-
-
-
-
-Kelio sanitarinėje apsaugos zonoje rudens ir žiemos laikotarpiu leidžiama statyti laikinus sniegą sulaikančius įrenginius.
+Žemė keliams tiesti, statiniams statyti, taip pat statybinių medžiagų bei grunto karjerams įrengti perduodama Žemės įstatymo ir kitų teisės aktų nustatyta tvarka.
  
 
 
@@ -307,33 +370,108 @@ Kelio sanitarinėje apsaugos zonoje rudens ir žiemos laikotarpiu leidžiama sta
 
 
 
-13 straipsnis. 
+11 straipsnis. Kelio juosta
 
 
-Keliai tiesiami, taisomi ir atiduodami naudotis vadovaujantis atitinkamais normatyviniais statybos dokumentais.
+1. Valstybinės reikšmės kelių juostos minimalus plotis pagal kelio kategorijas yra:
 
 
-Straipsnio pakeitimai:
-Nr. VIII-426, 1997-09-25, Žin., 1997, Nr. 96-2424 (1997-10-24), i. k. 0971010ISTAVIII-426
+
+ 1) automagistralių ir I kategorijos kelių 
+ – 
+ 39 metrai; 
+
+
+ 2) II kategorijos kelių 
+ – 
+ 28 metrai; 
+
+
+ 3) III kategorijos kelių 
+ – 
+ 22 metrai; 
+
+
+ 4) IV kategorijos kelių 
+ – 
+ 19 metrų; 
+
+
+ 5) V kategorijos kelių 
+ – 
+ 18 metrų. 
+
+
+
+
+
+
+
+2. Vietinės reikšmės kelių juostos minimalus plotis yra:
+
+
+
+ 1) I kategorijos kelių 
+ – 
+ 15 metrų; 
+
+
+ 2) II kategorijos kelių 
+ – 
+ 12 metrų; 
+
+
+ 3) III kategorijos kelių 
+ – 
+ 10 metrų. 
+
+
+
+
+
+
+
+3. Jeigu nutiestas ar tiesiamas kelias kai kuriuose ruožuose (iškasose, pylimuose) netelpa nustatyto pločio juostoje, tai šios juostos ribos nustatomos ne arčiau kaip po metrą nuo pylimo pado, iškasos ar kelio griovių išorinių kraštų.
  
 
 
 
 
-14 straipsnis. 
 
 
-Kelių priežiūros tikslas – sudaryti tinkamas, saugias ir racionalias eismo sąlygas.
+12 straipsnis. Kelio apsaugos zona
 
 
-
-
-Kelių priežiūra ir eismo organizavimu rūpinasi kelių savininkai. Techninės eismo reguliavimo priemonės statomos gavus Vidaus reikalų ministerijos leidimą.
+1. Siekiant sudaryti saugias eismo sąlygas, nuo kelio briaunų į abi puses nustatoma kelio apsaugos zona. Jos plotis pagal kelio reikšmę yra:
 
 
 
+ 1) magistralinių kelių 
+ – 
+ po 70 metrų; 
 
-Kelių priežiūrą reglamentuoja šis įstatymas ir kiti Lietuvos Respublikos teisės aktai.
+
+ 2) krašto kelių 
+ – 
+ po 50 metrų; 
+
+
+ 3) rajoninių kelių 
+ – 
+ po 20 metrų; 
+
+
+ 4) vietinės reikšmės kelių 
+ – 
+ po 10 metrų. 
+
+
+
+
+
+
+
+2. Kelio apsaugos zonas miestuose, kaimo gyvenamosiose vietovėse įstatymų nustatyta tvarka gali tikslinti Teritorijų planavimo įstatyme numatyti planavimo organizatoriai, turintys teisę tvirtinti teritorijų planavimo dokumentus (bendruosius, detaliuosius, specialiuosius planus).
  
 
 
@@ -341,10 +479,25 @@ Kelių priežiūrą reglamentuoja šis įstatymas ir kiti Lietuvos Respublikos t
 
 
 
-15 straipsnis. 
+13 straipsnis. Darbų vykdymas keliuose ir jų apsaugos zonose
 
 
-Kaip laikomasi saugaus eismo reikalavimų, kontroliuoja Vidaus reikalų, Susisiekimo ministerijos ir savivaldybės.
+1. Keliuose, kelių juostose ir jų apsaugos zonose dirbti įvairius darbus be kelio savininko leidimo draudžiama. Techninės eismo reguliavimo priemonės įrengiamos suderinus su policija.
+
+
+
+
+2. Kelių apsaugos zonose leidžiama statyti statinius ar įrenginius laikantis Statybos įstatymo, atsižvelgiant į kelių plėtros perspektyvą bei saugaus eismo reikalavimus, pagal normatyvinių statybos techninių dokumentų nustatytą tvarką ir suderintus projektus. Kelių apsaugos zonose rudens, žiemos ir pavasario laikotarpiais leidžiama statyti laikinus sniegą sulaikančius įrenginius.
+
+
+
+
+3. Kelių apsaugos zonose draudžiama statyti gyvenamuosius namus ir visuomeninius pastatus, kurie nesusiję su transporto ir keleivių aptarnavimu. Draudžiama įrengti išorinę reklamą automobilių keliuose ir jų apsaugos zonose, taip pat gatvėse ir prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, kelio ženklus, pabloginti matomumą, akinti eismo dalyvius, atitraukti jų dėmesį tuo keldama pavojų eismo dalyviams, taip pat draudžiama naudoti reklamą, imituojančią kelio ženklus. Išorinė reklama, įrengta pažeidžiant šiuos reikalavimus, turi būti nuimta, nugriauta ar išmontuota Statybos įstatymo ir kitų teisės aktų nustatyta tvarka. Kelių apsaugos zonose draudžiama statyti paminklinius akcentus-simbolius, įrengti karjerus, vandens telkinius, sandėliuoti medžiagas be kelio ir žemės savininko leidimo.
+
+
+
+
+4. Kelio apsaugos zonose esančius antžeminius ar požeminius inžinerinius tinklus prižiūri jų savininkai. Šie tinklai tiesiami ir rekonstruojami pagal patvirtintus projektus. Darbams atlikti būtina gauti kelio ir žemės valdytojo ar jos savininko leidimą.
  
 
 
@@ -352,10 +505,32 @@ Kaip laikomasi saugaus eismo reikalavimų, kontroliuoja Vidaus reikalų, Susisie
 
 
 
-16 straipsnis. 
+14 straipsnis. Kelių pripažinimas tinkamais naudoti
 
 
-Kelių projektavimas, tiesimas ir priežiūra finansuojama Lietuvos Respublikos įstatymų nustatyta tvarka.
+Nutiesti, rekonstruoti, sutaisyti (suremontuoti) keliai pripažįstami tinkamais naudoti Statybos įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+15 straipsnis. Kelių priežiūra
+
+
+Kelių priežiūros tvarką nustato Vyriausybė.
+ 
+
+
+
+
+
+
+16 straipsnis. Kelių finansavimas
+
+
+Kelių ir statinių projektavimas, tiesimas, statyba, rekonstravimas, taisymas (remontas) ir priežiūra yra finansuojama įstatymų nustatyta tvarka.
  
 
 
@@ -365,15 +540,30 @@ Kelių projektavimas, tiesimas ir priežiūra finansuojama Lietuvos Respublikos 
 
 
 
-III SKYRIUS
+TREČIASIS SKIRSNIS
 NAUDOJIMASIS KELIAIS
  
 
 
-17 straipsnis. 
+17 straipsnis. Teisė naudotis keliais
 
 
-Naudotis keliais turi teisę visi juridiniai ir fiziniai asmenys, vadovaudamiesi šiuo įstatymu bei Lietuvos Respublikos Vyriausybės patvirtintomis kelių priežiūros taisyklėmis ir atsižvelgdami į kelių savininkų teisėtus reikalavimus.
+1. Naudotis keliais bei jų infrastruktūra turi teisę visi juridiniai ir fiziniai asmenys vadovaudamiesi Civiliniu kodeksu, šiuo Įstatymu ir kitais teisės aktais.
+
+
+
+
+2. Teisę naudotis keliais, nuosavybės teise priklausančiais juridiniams ir (ar) fiziniams asmenims, reglamentuoja Civilinis kodeksas.
+
+
+
+
+3. Naudotis keliais bei jų infrastruktūra galima tik tokiomis transporto priemonėmis, kurios atitinka Susisiekimo ministerijos patvirtintas didžiausias (maksimalias) leistinas kelių transporto priemonių charakteristikas (matmenis, masę, ašių apkrovas ir kita). Jei šios charakteristikos yra didesnės už didžiausias (maksimalias) leistinas, tai naudotis keliais tokiomis transporto priemonėmis galima šio Įstatymo 20 straipsnyje nustatyta tvarka.
+
+
+
+
+4. Už naudojimąsi keliais ir jų infrastruktūra mokami įstatymų nustatyti mokesčiai ir (ar) rinkliavos.
  
 
 
@@ -381,20 +571,25 @@ Naudotis keliais turi teisę visi juridiniai ir fiziniai asmenys, vadovaudamiesi
 
 
 
-18 straipsnis. 
+18 straipsnis. Eismo ribojimas
 
 
-Eismas keliu gali būti laikinai apribotas arba nutrauktas suderinus tai nustatyta tvarka ir gavus kelio savininko sutikimą. Kelio savininkas gali laikinai apriboti ar nutraukti eismą dėl avarijų, stichinių nelaimių, per pavasario polaidį, kai kelias gadinamas, kelio remonto metu arba jei kyla grėsmė saugiam eismui. Jei kyla pavojus transporto eismo ar žmonių saugumui, gamtai ar viešajai tvarkai, policija turi teisę apriboti arba uždrausti transporto ar pėsčiųjų eismą, darbus keliuose ir prie jų be kelio savininko sutikimo.
-
-
-
-
-Žinios apie kelio uždarymą skelbiamos per visuomenės informavimo priemones.
+1. Kelio savininkas Vyriausybės nustatyta tvarka gali laikinai apriboti, nutraukti eismą ar uždaryti kelią dėl avarijų, stichinių nelaimių, per polaidį, esant itin karštiems orams, kai dėl to gali būti sugadintas kelias, kelio tiesimo ar taisymo (remonto), priežiūros darbų metu, kilus grėsmei saugiam eismui.
 
 
 
 
-Dėl nurodytų eismo ribojimų atsiradę nuostoliai eismo dalyviams neatlyginami.
+2. Policijos pareigūnai, įspėję kelio savininką, turi teisę keisti, apriboti ir uždrausti kelių eismą, kai tai būtina saugiam eismui užtikrinti ar eismo sąlygoms gerinti.
+
+
+
+
+3. Apie kelio uždarymą skelbiama per visuomenės informavimo priemones.
+
+
+
+
+4. Dėl šio straipsnio 1 ir 2 dalyse nurodytų ribojimų atsiradę nuostoliai eismo dalyviams neatlyginami.
  
 
 
@@ -402,10 +597,15 @@ Dėl nurodytų eismo ribojimų atsiradę nuostoliai eismo dalyviams neatlyginami
 
 
 
-19 straipsnis. 
+19 straipsnis. Saugaus eismo užtikrinimas ir jo priežiūra
 
 
-Mokestis imamas tik už važiavimą keliais, kurie nutiesti koncesijos pagrindais. Važiavimas privačiais keliais gali būti mokamas tik gavus savivaldybės leidimą.
+1. Saugaus eismo keliais reikalavimus reglamentuoja Saugaus eismo automobilių keliais įstatymas ir kiti teisės aktai.
+
+
+
+
+2. Saugaus eismo priemonės įgyvendinamos projektuojant, tiesiant, taisant (remontuojant) ir prižiūrint kelius vadovaujantis Lietuvos kelių projektavimo normatyviniais dokumentais, Lietuvos Respublikos standartais ir kitais normatyviniais statybos techniniais dokumentais.
  
 
 
@@ -413,47 +613,10 @@ Mokestis imamas tik už važiavimą keliais, kurie nutiesti koncesijos pagrindai
 
 
 
-20 straipsnis. 
+20 straipsnis.       Naudojimasis valstybinės, vietinės reikšmės keliais ir jų infrastruktūra didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis
 
 
-Norint vežti leistiną svorį viršijančius krovinius, reikia gauti kelio savininko leidimą.
-
-
-
-
-Norint vežti leistinus gabaritus viršijančius krovinius, tai reikia suderinti su kelio savininku ir gauti Vidaus reikalų ministerijos leidimą.
-
-
-
-
-Vežant pavojingus krovinius, turi būti laikomasi galiojančios šių krovinių gabenimo tvarkos.
-
-
-
-
-Už šių krovinių vežimą keliais imamas mokestis įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-21 straipsnis. 
-
-
-Kelyje ar jo sanitarinėje apsaugos zonoje esančias antžemines ar požemines inžinerines komunikacijas prižiūri jų savininkai. Tiesiant ar rekonstruojant šias komunikacijas, būtina gauti kelio ir žemės savininko sutikimą, o jeigu atliekant darbus kliudoma eismui – suderinti su Vidaus reikalų ministerija.
- 
-
-
-
-
-
-
-22 straipsnis. 
-
-
-Asmuo, sudaręs kliūtį eismui ar pastebėjęs tokią kliūtį, turi ją pašalinti, o jeigu to padaryti neįmanoma – apie tai įspėti eismo dalyvius (paženklinti kliūtį) ir pranešti policijai arba kelio savininkui.
+Naudotis valstybinės ir vietinės reikšmės viešaisiais keliais ir jų infrastruktūra didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis galima tik suderinus tai su kelio savininku ir gavus leidimą. Leidimai važiuoti tokiomis transporto priemonėmis valstybinės reikšmės keliais išduodami Susisiekimo ministerijos nustatyta tvarka, o vietinės reikšmės viešaisiais keliais - savivaldybių nustatyta tvarka, sumokėjus įstatymų nustatyto dydžio mokestį už naudojimąsi keliais ir jų infrastruktūra didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis. Mokesčio dydis už naudojimąsi vietinės reikšmės vidaus keliais gali būti nustatomas šalių (kelio savininko ir naudotojo) tarpusavio sutarimu.
  
 
 
@@ -463,46 +626,38 @@ Asmuo, sudaręs kliūtį eismui ar pastebėjęs tokią kliūtį, turi ją pašal
 
 
 
-IV SKYRIUS
-KELIŲ SAVININKŲ IR EISMO DALYVIŲ TEISĖS IR ATSAKOMYBĖ
+KETVIRTASIS SKIRSNIS
+UŽ KELIŲ PRIEŽIŪRĄ ATSAKINGŲ ASMENŲ TEISĖS
  
 
 
-23 straipsnis. 
+21 straipsnis. Už kelių priežiūrą atsakingų asmenų teisės
 
 
-Kelio savininkai ir už kelių priežiūrą atsakingi pareigūnai turi teisę:
+Už kelių priežiūrą atsakingi asmenys turi teisę:
 
 
-1) stabdyti transporto priemones, kurių savininkai pažeidžia šio įstatymo arba kelių priežiūros taisyklių reikalavimus, ir uždrausti joms toliau važiuoti;
-
-
-
-
-2) tikrinti, ar neviršyti leistini transporto priemonių masė ir gabaritai, o jei viršyti ir nėra leidimo – uždrausti joms toliau važiuoti;
+1) kartu su policija stabdyti transporto priemones, kurių savininkai ar valdytojai pažeidžia šio Įstatymo arba kitų kelių priežiūrą reglamentuojančių teisės aktų reikalavimus, ir uždrausti joms toliau važiuoti;
 
 
 
 
-3) šalinti kelyje paliktas ir saugiam eismui kliudančias transporto priemones arba krovinius jų savininkų arba vairuotojų sąskaita;
+2) kartu su Vyriausybės įgaliota institucija tikrinti, ar nepažeistos didžiausios leistinos kelių transporto priemonių charakteristikos (matmenys, masė, ašių apkrovos ir kita);
 
 
 
 
-4) šalinti savavališkai pastatytus reklaminius ženklus, įrengtas komunikacijas, sankryžas ar nuovažas tai įrengusių subjektų sąskaita, jei to jie nepadaro patys po įspėjimo.
- 
+3) kartu su policija šalinti kelyje paliktas ir saugiam eismui kliudančias transporto priemones arba krovinius jų savininkų ar valdytojų lėšomis;
 
 
 
 
+4) Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka šalinti kelio juostoje medžius ir krūmus, savavališkai įrengtą išorinę reklamą, kuri kelia grėsmę saugiam eismui;
 
 
 
 
-24 straipsnis. 
-
-
-Už kelių priežiūrą atsakingi pareigūnai turi teisę surašyti administracinių teisės pažeidimų protokolus asmenims, pažeidusiems kelių priežiūros taisykles ir juos bausti Administracinių teisės pažeidimų kodekso nustatyta tvarka.
+5) įstatymų ir kitų teisės aktų nustatyta tvarka šalinti savavališkai pastatytus objektus, nurodytus šio Įstatymo 13 straipsnio 3 dalyje, kelyje ar kelio juostoje savavališkai įrengtas sankryžas, nuovažas, technines eismo reguliavimo priemones ir kita tai įrengusių asmenų lėšomis, jei po rašytinio įspėjimo to jie nepadaro patys.
  
 
 
@@ -510,15 +665,19 @@ Už kelių priežiūrą atsakingi pareigūnai turi teisę surašyti administraci
 
 
 
-25 straipsnis.
-
-
-Už kelių priežiūrą atsakingi asmenys, pažeidę kelių priežiūros taisyklių reikalavimus arba nesiėmę priemonių laiku uždrausti ar apriboti eismą atskiruose kelio ruožuose, kai naudojimasis jais kelia grėsmę saugiam eismui ar kelio atsparumui, atsako pagal galiojančius įstatymus.
 
 
 
 
-Kelius prižiūrintys asmenys atleidžiami nuo atsakomybės, jei avarija įvyko dėl eismo dalyvių ar kitų asmenų kaltės, dėl stichinių nelaimių ar staigaus atmosferos sąlygų pasikeitimo.
+PENKTASIS SKIRSNIS
+ATSAKOMYBĖ
+ 
+
+
+22 straipsnis. Atsakomybė
+
+
+Asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
  
 
 
@@ -526,10 +685,17 @@ Kelius prižiūrintys asmenys atleidžiami nuo atsakomybės, jei avarija įvyko 
 
 
 
-26 straipsnis.
 
 
-Už šio įstatymo, Kelių eismo taisyklių ir kelių priežiūros taisyklių pažeidimus eismo dalyviai ir kiti asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+ŠEŠTASIS SKIRSNIS
+TARPTAUTINĖS SUTARTYS
+ 
+
+
+23 straipsnis. Tarptautinės sutartys
+
+
+Jei pagal Lietuvos Respublikos tarptautines sutartis nustatytos kitokios taisyklės negu šiame Įstatyme, taikomos tarptautinių sutarčių taisyklės.
  
 
 
@@ -537,10 +703,17 @@ Už šio įstatymo, Kelių eismo taisyklių ir kelių priežiūros taisyklių pa
 
 
 
-27 straipsnis. 
 
 
-Jei Lietuvos Respublikoje tarptautinėmis sutartimis nustatytos kitokios taisyklės negu tos, kurias numato šis įstatymas, tai taikomos tarptautinių sutarčių taisyklės.
+SEPTINTASIS SKIRSNIS
+PASIŪLYMAS VYRIAUSYBEI
+ 
+
+
+24 straipsnis. Pasiūlymas Vyriausybei
+
+
+Vyriausybė per 3 mėnesius nuo šio Įstatymo įsigaliojimo peržiūri galiojančius teisės aktus, susijusius su šio Įstatymo nuostatų įgyvendinimu, ir prireikus juos pakeičia arba parengia reikalingus projektus ir juos pateikia Seimui.
  
  
 
@@ -560,9 +733,15 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-426, 1997-09-25, Žin., 1997, Nr. 96-2424 (1997-10-24), i. k. 0971010ISTAVIII-426
 Lietuvos Respublikos kelių įstatymo 8, 13 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1113, 2002-10-03, Žin., 2002, Nr. 101-4492 (2002-10-23), i. k. 1021010ISTA0IX-1113
+Lietuvos Respublikos kelių įstatymo pakeitimo įstatymas
