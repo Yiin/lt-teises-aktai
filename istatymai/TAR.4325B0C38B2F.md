@@ -17,7 +17,6 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 1999, Nr. 110-3207
 Neoficialus įstatymo tekstas
  
- 
 LIETUVOS RESPUBLIKOS
 NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO
 ĮSTATYMAS
@@ -57,10 +56,11 @@ apdrausti nelaimingų atsitikimų, susijusių su tarnyba, draudimu.
 3
 straipsnis. Pagrindinės šio įstatymo sąvokos
 1. Nelaimingas
-atsitikimas darbe - nustatyta tvarka įregistruotas ūmus darbuotojo
-sveikatos pakenkimas dėl darbo aplinkos pavojingo, kenksmingo veiksnio
-(veiksnių) trumpalaikio poveikio, kai darbuotojas netenka dalies ar viso
-darbingumo arba dėl to miršta.
+atsitikimas darbe – įvykis darbe, įskaitant eismo įvykį darbo laiku,
+nustatyta tvarka ištirtas ir pripažintas nelaimingu atsitikimu darbe, kurio
+padarinys – darbuotojo trauma (lengva, sunki, mirtina). Įvykis darbe, kai
+darbuotojas mirė dėl ligos, nesusijusios su darbu, nepriskiriamas prie
+nelaimingo atsitikimo darbe.
 2. Profesinė
 liga – ūmus ar lėtinis darbuotojo sveikatos sutrikimas, kurį sukėlė vienas
 ar daugiau kenksmingų ir (ar) pavojingų darbo aplinkos veiksnių, nustatyta
@@ -73,9 +73,9 @@ vieta - vieta, kurioje asmuo dirba arba privalo dirbti darbo sutartyje
 sulygtą darbą arba atlieka viešojo administravimo funkcijas.
 5. Apdraustasis
 - asmuo, už kurį draudėjas įstatymų nustatyta tvarka privalo mokėti
-valstybinio socialinio draudimo įmokas. Šis asmuo, nukentėjęs nuo nelaimingo
-atsitikimo darbe ar susirgęs profesine liga, šio įstatymo nustatyta tvarka turi
-teisę gauti draudimo išmoką.
+valstybinio socialinio draudimo įmokas. Šis asmuo, nukentėjęs nuo nelaimingo atsitikimo
+darbe ar susirgęs profesine liga, šio įstatymo nustatyta tvarka turi teisę
+gauti draudimo išmoką.
 6. Darbingumo
 netekimas - laikinas ar visiškas profesinio darbingumo netekimas (toliau -
 darbingumo netekimas) dėl nelaimingo atsitikimo darbe arba dėl susirgimo
@@ -104,9 +104,13 @@ asmens draudžiamosios pajamos - visos pajamos, nuo kurių buvo mokamos
 valstybinio socialinio draudimo įmokos, taip pat šio įstatymo nustatytos ligos
 dėl nelaimingo atsitikimo darbe arba profesinės ligos pašalpos, apdraustojo
 gautos ligos, motinystės (tėvystės) pašalpos bei draudimo nuo nedarbo bedarbio
-pašalpos, kurios pagal Bedarbių rėmimo įstatymo 15 straipsnio 1 dalį yra mokamos
-asmenims, per paskutinius trejus metus turintiems ne mažesnį kaip 24 mėnesių
-valstybinio socialinio draudimo stažą.
+pašalpos, kurios pagal Bedarbių rėmimo įstatymo 15 straipsnio 1 dalį yra
+mokamos asmenims, per paskutinius trejus metus turintiems ne mažesnį kaip 24
+mėnesių valstybinio socialinio draudimo stažą.
+Straipsnio pakeitimai:
+Nr. VIII-2064, 2000 10 17, Žin., 2000, Nr.
+95-2969 (2000 11 08)
+ 
  
 4 straipsnis. Asmenys, draudžiami
 nelaimingų atsitikimų darbe socialiniu draudimu 
@@ -240,7 +244,8 @@ straipsnis. Apdraustųjų asmenų teisės
 1.
 Teisę į šio įstatymo 11 straipsnyje nustatytas draudimo išmokas turi
 apdraustieji, kurių sveikatai dėl nelaimingo atsitikimo darbe ar susirgimo
-profesine liga buvo pakenkta įvykus draudiminiam įvykiui, numatytam 6 straipsnyje.
+profesine liga buvo pakenkta įvykus draudiminiam įvykiui, numatytam 6
+straipsnyje.
 2.
 Apdraustieji taip pat turi teisę gauti iš draudėjo informaciją apie
 valstybinio socialinio draudimo įmokų mokėjimą už juos, o įvykus draudiminiam
@@ -252,7 +257,6 @@ straipsnis. Apdraustųjų asmenų pareigos ir atsakomybė
 Apdraustieji
 asmenys turi laikytis saugos darbe teisės aktų nustatytų reikalavimų bei
 gydymo, medicininės, profesinės reabilitacijos rekomendacijų.
- 
  
 ANTRASIS
 SKIRSNIS
@@ -318,8 +322,8 @@ išmokoms skaičiuoti negali viršyti Vyriausybės patvirtintų vidutinių mėne
 draudžiamųjų pajamų, galiojusių draudiminio įvykio atsitikimo mėnesį, trijų su
 puse dydžio sumos.
 Straipsnio pakeitimai:
-Nr. VIII-1787, 00.07.04, Žin.,
-2000, Nr.58-1716 (00.07.19)
+Nr. VIII-1787, 2000 07 04, Žin., 2000, Nr.
+58-1716 (2000 07 19)
  
  
 15 straipsnis. Ligos pašalpų mokėjimas mirus asmeniui, turėjusiam
@@ -346,6 +350,7 @@ Valstybinę socialinio draudimo senatvės arba invalidumo pensiją gaunantiems
 asmenims susižalojus darbe ar susirgus profesine liga, ligos pašalpa pradedama
 mokėti nuo pirmos nedarbingumo dienos ir mokama iki darbingumo atgavimo arba
 kol dėl šios priežasties bus peržiūrėtas invalidumas.
+ 
  
 18 straipsnis. Ligos pašalpos besigydantiems sveikatos priežiūros
 įstaigoje, 
@@ -421,8 +426,8 @@ koeficiento (k) (šio įstatymo 3 straipsnio 9 dalis) ir mokėjimo mėnesį
 galiojančių vidutinių mėnesinių draudžiamųjų pajamų (D) sandaugos pusė, t.y.
 pagal formulę 0,5 x d x k x D. 
  
-25 straipsnis. Kompensacijų mokėjimas pasikeitus apdraustojo
-nedarbingumo 
+25 straipsnis. Kompensacijų mokėjimas pasikeitus apdraustojo nedarbingumo
+
 laipsniui
 1. Jeigu VMSEK iš naujo nustato,
 kad apdraustasis, turėjęs teisę gauti netekto darbingumo vienkartinę
@@ -431,10 +436,10 @@ darbingumo kompensacija mokama šio įstatymo 24 straipsnyje nustatyta tvarka nu
 netekto darbingumo pasikeitimo dienos. 
 2. Jeigu VMSEK iš naujo nustato,
 kad apdraustasis, turėjęs teisę gauti netekto darbingumo periodinę kompensaciją
-(šio įstatymo 24 straipsnis), neteko mažiau kaip 30 procentų darbingumo, jam išmokama
-netekto darbingumo vienkartinė kompensacija (šio įstatymo 23 straipsnis), o
-netekto darbingumo periodinės kompensacijos mokėjimas nutraukiamas nuo netekto
-darbingumo pasikeitimo dienos. 
+(šio įstatymo 24 straipsnis), neteko mažiau kaip 30 procentų darbingumo, jam
+išmokama netekto darbingumo vienkartinė kompensacija (šio įstatymo 23
+straipsnis), o netekto darbingumo periodinės kompensacijos mokėjimas
+nutraukiamas nuo netekto darbingumo pasikeitimo dienos. 
 3. Jeigu apdraustojo, gaunančio
 netekto darbingumo periodinę kompensaciją, netektas darbingumas sumažėja iki
 šio įstatymo 23 straipsnyje nustatytų dydžių, netekto darbingumo vienkartinė
@@ -448,13 +453,13 @@ kompensacija mokama iki VMSEK nustatyto darbingumo netekimo termino pabaigos.
  
 27
 straipsnis. Draudimo išmokos dydžio sumažinimas 
-Draudimo išmoką mokanti valstybinio
-socialinio draudimo įstaiga turi teisę atitinkamai sumažinti apdraustajam
-išmoką dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga, jeigu VMSEK
-iš naujo nustato, kad apdraustojo netektas darbingumas sumažėjo. Jei
-draudiminis įvykis ir darbingumo netekimo laipsnis buvo nustatytas teismo
-sprendimu, draudimo išmoka šiame straipsnyje nustatytu atveju gali būti
-atitinkamai sumažinta tik teismine tvarka.
+Draudimo išmoką mokanti
+valstybinio socialinio draudimo įstaiga turi teisę atitinkamai sumažinti
+apdraustajam išmoką dėl nelaimingo atsitikimo darbe ar susirgimo profesine
+liga, jeigu VMSEK iš naujo nustato, kad apdraustojo netektas darbingumas
+sumažėjo. Jei draudiminis įvykis ir darbingumo netekimo laipsnis buvo
+nustatytas teismo sprendimu, draudimo išmoka šiame straipsnyje nustatytu atveju
+gali būti atitinkamai sumažinta tik teismine tvarka.
  
 28
 straipsnis. Draudimo išmokos dydžio padidinimas 
@@ -553,9 +558,9 @@ traumatizmo ir profesinio sergamumo lygį.
 straipsnis. Valstybinio socialinio draudimo įmokų mokėjimo tvarka
 1. Šiame įstatyme nustatytos
 valstybinio socialinio draudimo rūšies valstybinio socialinio draudimo įmokos
-už kiekvieną apdraustąjį, nurodytą šio įstatymo 
-4 straipsnio 1 dalies 1, 2 punktuose, ir skaičiuojamos, ir mokamos įstatymų
-nustatyta tvarka kartu su kitomis valstybinio socialinio draudimo įmokomis. 
+už kiekvieną apdraustąjį, nurodytą šio įstatymo 4 straipsnio 
+1 dalies 1, 2 punktuose, ir skaičiuojamos, ir mokamos įstatymų nustatyta tvarka
+kartu su kitomis valstybinio socialinio draudimo įmokomis. 
 2.
 Valstybinio socialinio draudimo įmokos už apdraustuosius, nurodytus šio
 įstatymo 4 straipsnio 1 dalies 3-5 punktuose, mokamos už tuos laikotarpius, kai
@@ -617,20 +622,30 @@ Skelbiu
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-___________
+_________
 Pakeitimai:
  
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. VIII-1787, 00.07.04, Žin.,
-2000, Nr.58-1716 (00.07.19)
+Nr. VIII-1787, 2000 07 04, Žin., 2000, Nr.
+58-1716 (2000 07 19)
 NELAIMINGŲ
 ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 14 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. VIII-2064, 2000 10 17, Žin., 2000, Nr.
+95-2969 (2000 11 08)
+NELAIMINGŲ
+ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
 *** Pabaiga ***
  
  
 Redagavo: Aušrinė
-Trapinskienė (2000.08.01)
+Trapinskienė (2000 11 27)
+                  autrap@lrs.lt
