@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 1996-06-21 iki 1997-04-08
+Suvestinė redakcija nuo 1997-04-09 iki 1999-11-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -1057,7 +1057,10 @@ Kalinamųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių kar
 32 straipsnis. Vandensvaidžių, specialios paskirties dujų, šarvuočių bei kitos technikos panaudojimo pagrindai
 
 
-1. Masinių riaušių arba masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, šiurkščiai pažeidžiantys kardomojo kalinimo vietos vidaus tvarką, vidaus reikalų ministro arba šios ministerijos sekretoriaus įsakymu prieš kalinamuosius gali būti panaudojami vandensvaidžiai, specialios paskirties dujos, šarvuočiai bei kita technika.
+1. Masinių riaušių arba masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, šiurkščiai pažeidžiantys kardomojo kalinimo vietos vidaus tvarką, Pataisos reikalų departamento prie Vidaus reikalų ministerijos direktoriaus įsakymu prieš kalinamuosius gali būti panaudojami vandensvaidžiai, specialios paskirties dujos, šarvuočiai bei kita technika.
+Straipsnio dalies pakeitimai:
+Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. 0971010ISTAVIII-151
+ 
 
 
 
@@ -1138,7 +1141,10 @@ Kalinamųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių kar
 
 
 
-4. Šaunamieji ginklai taip pat gali būti panaudojami vidaus reikalų ministro arba šios ministerijos sekretoriaus įsakymu masinių riaušių ar masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, kurie šiurkščiai pažeidžia kardomojo kalinimo vietos vidaus tvarką, jeigu kitomis priemonėmis nutraukti minėtų veiksmų nėra galimybių.
+4. Šaunamieji ginklai taip pat gali būti panaudojami Pataisos reikalų departamento prie Vidaus reikalų ministerijos direktoriaus  įsakymu masinių riaušių ar masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, kurie šiurkščiai pažeidžia kardomojo kalinimo vietos vidaus tvarką, jeigu kitomis priemonėmis nutraukti minėtų veiksmų nėra galimybių.
+Straipsnio dalies pakeitimai:
+Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. 0971010ISTAVIII-151
+ 
 
 
 
@@ -1424,3 +1430,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
 Lietuvos Respublikos kardomojo kalinimo įstatymo 6, 9 ir 35 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. 0971010ISTAVIII-151
+Lietuvos Respublikos kardomojo kalinimo įstatymo 32 ir 33 straipsnių pakeitimo įstatymas
