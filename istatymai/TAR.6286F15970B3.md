@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2004-04-01 iki 2004-04-30
+Suvestinė redakcija nuo 2004-05-01 iki 2004-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -702,12 +702,18 @@ Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010IST
 
 
 
-5) nustato branduolinių medžiagų apskaitos ir kontrolės Lietuvos Respublikoje procedūras ir kontroliuoja, kaip jų laikomasi šių medžiagų importo, eksporto, reeksporto, transportavimo, naudojimo, saugojimo ir laidojimo metu;
+5) Neteko galios nuo 2004-05-01
+Straipsnio punkto naikinimas:
+Nr. IX-1688, 2003-07-03, Žin. 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
+ 
 
 
 
 
-6) išduoda juridiniams ir fiziniams asmenims licencijas branduolinės energetikos objektams bei jų sistemoms projektuoti, statyti, eksploatuoti, atlikti saugos įvertinimo bei kitus su saugia branduolinės energetikos objektų eksploatacija susijusius darbus;
+6) Neteko galios nuo 2004-05-01
+Straipsnio punkto naikinimas:
+Nr. IX-1688, 2003-07-03, Žin. 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
+ 
 
 
 
@@ -1170,7 +1176,10 @@ Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010IST
 
 
 
-5) saugoti ir laidoti branduolines ir radioaktyviąsias medžiagas bei jų atliekas;
+5) laidoti branduolines ir radioaktyviąsias medžiagas bei jų atliekas; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
+ 
 
 
 
@@ -1198,26 +1207,27 @@ Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010IST
 26 straipsnis. Licencijas išduodančios institucijos
 
 
-1. Veiklai, išvardytai 25 straipsnio 1 punkte, licencijas išduoda VATESI, suderinus su Sveikatos apsaugos ministerija, Aplinkos ministerija ir vietos savivaldos institucija, kurios teritorija ar jos dalis yra branduolinės energetikos objekto sanitarinės apsaugos zonoje.
+1. Veiklai, išvardytai 25 straipsnio 1 punkte, licencijas išduoda VATESI, suderinus su Aplinkos ministerija ar jos įgaliota institucija, Radiacinės saugos centru ir savivaldybės, kurios teritorija ar jos dalis yra branduolinės energetikos objekto sanitarinės apsaugos zonoje, administracijos direktoriumi.
 
 
 
 
-2. Veiklai, išvardytai 25 straipsnio 2-6 punktuose, licencijas išduoda VATESI, suderinus su Sveikatos apsaugos ministerija ir Aplinkos ministerija.
+2. Veiklai, išvardytai 25 straipsnio 2–5 punktuose, licencijas išduoda VATESI, suderinus su Aplinkos ministerija ar jos įgaliota institucija ir Radiacinės saugos centru, o veiklai, išvardytai 6 punkte, licencijas išduoda VATESI, suderinus su Radiacinės saugos centru.
 
 
 
 
-3. Veiklai, išvardytai 25 straipsnio 7 punkte, licencijas išduoda Radiacinės saugos centras, suderinus su VATESI ir Aplinkos ministerija.
+3. Veiklai, išvardytai 25 straipsnio 7 punkte, licencijas išduoda Radiacinės saugos centras, suderinus su VATESI.
 
 
 
 
-4. Veiklai, išvardytai 25 straipsnio 8 punkte, licencijas išduoda Ūkio ministerija, suderinus su VATESI, Aplinkos ministerija ir Sveikatos apsaugos ministerija. 
+4. Veiklai, išvardytai 25 straipsnio 8 punkte, licencijas išduoda Ūkio ministerija, suderinus su VATESI ir Radiacinės saugos centru. 
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
+Nr. IX-2114, 2004-04-13, Žin., 2004, Nr. 60-2122 (2004-04-24), i. k. 1041010ISTA0IX-2114
  
 
 
@@ -1617,7 +1627,7 @@ BRANDUOLINĖS ENERGETIKOS OBJEKTŲ EKSPLOATAVIMAS
 
 
 
-2. Branduolinio reaktoriaus išbandymo metu VATESI, suderinus su Aplinkos ministerija ir Radiacinės saugos centru, išduoda atskirus leidimus:
+2. Branduolinio reaktoriaus išbandymo metu VATESI, suderinus su Aplinkos ministerija ar jos įgaliota institucija ir Radiacinės saugos centru, išduoda atskirus leidimus:
 
 
 1) branduoliniam kurui įvežti į objekto aikštelę;
@@ -1625,7 +1635,7 @@ BRANDUOLINĖS ENERGETIKOS OBJEKTŲ EKSPLOATAVIMAS
 
 
 
-2) pirmajam branduolinio kuro pakrovimui į reaktorių;
+2) pirmajam branduolinio kuro pakrovimui į reaktorių; 
 
 
 
@@ -1635,6 +1645,7 @@ BRANDUOLINĖS ENERGETIKOS OBJEKTŲ EKSPLOATAVIMAS
 
 Straipsnio dalies pakeitimai:
 Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
+Nr. IX-2114, 2004-04-13, Žin., 2004, Nr. 60-2122 (2004-04-24), i. k. 1041010ISTA0IX-2114
  
 
 
@@ -2581,3 +2592,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo 14, 17, 25, 28, 31 ir 32 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2003, 2004-02-05, Žin., 2004, Nr. 28-874 (2004-02-21), i. k. 1041010ISTA0IX-2003
 Lietuvos Respublikos branduolinės energijos įstatymo 20, 21 straipsnių pakeitimo ir papildymo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2114, 2004-04-13, Žin., 2004, Nr. 60-2122 (2004-04-24), i. k. 1041010ISTA0IX-2114
+Lietuvos Respublikos branduolinės energijos įstatymo 26 ir 35 straipsnių pakeitimo įstatymas
