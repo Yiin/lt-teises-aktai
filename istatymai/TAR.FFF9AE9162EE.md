@@ -167,15 +167,9 @@ išmetamųjų dujų neutralizavimo sistemos;
 2) fiziniai ir juridiniai
 asmenys, teršiantys iš transporto priemonių, naudojamų žemės ūkio veiklai, jei
 jų pajamos iš šios veiklos sudaro daugiau kaip 50 procentų visų gaunamų pajamų;
-3) fiziniai asmenys, kurie turi
-patentą ir savo veikloje naudoja asmenines transporto priemones;
- 
-[3 dalies 3
-punkto redakcija nuo 2003 m. sausio 1 d.:
 3) fiziniai asmenys, kurie
 verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio
-įstatyme, ir savo veikloje naudoja asmenines transporto priemones;]
- 
+įstatyme, ir savo veikloje naudoja asmenines transporto priemones;
 4) fiziniai ir juridiniai
 asmenys, teršiantys iš transporto priemonių, naudojančių nustatytus standartus
 atitinkančius biodegalus, ir pateikę biodegalų sunaudojimą patvirtinančius
@@ -187,17 +181,18 @@ aplinkos teršimą gaminių ar pakuotės atliekomis už tokį apmokestinamųjų 
 ar pakuotės kiekį, koks buvo eksportuotas per mokestinį laikotarpį, Vyriausybės
 ar jos įgaliotų institucijų nustatyta tvarka pateikus dokumentus,
 patvirtinančius eksportuotą apmokestinamųjų gaminių ar pakuotės kiekį.
-5. Apmokestinamųjų gaminių
-gamintojai ir importuotojai atleidžiami nuo mokesčio už aplinkos teršimą
-gaminių ar pakuotės atliekomis už visą gaminių ar pakuotės kiekį, jei įvykdo
-Vyriausybės nustatytas apmokestinamųjų gaminių bei apmokestinamosios pakuotės
-atliekų tvarkymo užduotis ir Vyriausybės ar jos įgaliotos institucijos
-nustatyta tvarka pateikia dokumentus, patvirtinančius šių gaminių ar pakuotės
-atliekų pakartotinai panaudotą arba perdirbtą ar panaudotą energijai gauti
-kiekį.
+5.
+Gamintojai ir importuotojai atleidžiami nuo mokesčio už aplinkos teršimą
+gaminių ir (ar) pakuotės atliekomis už visą gaminių ir (ar) pakuotės kiekį, jei
+įvykdo Vyriausybės nustatytas gaminių bei pakuotės atliekų naudojimo ir (ar)
+perdirbimo užduotis ir Vyriausybės ar jos įgaliotos institucijos nustatyta
+tvarka pateikia dokumentus, patvirtinančius šių gaminių ar pakuotės atliekų
+pakartotinai panaudotą arba perdirbtą ar panaudotą energijai gauti kiekį.
 Straipsnio pakeitimai:
 Nr. IX-1265,
 2002-12-10, Žin., 2002, Nr. 123-5550 (2002-12-24), įsigalioja nuo 2003-01-01
+Nr. IX-1547,
+2003-04-29, Žin., 2003, Nr. 48-2108 (2003-05-15)
  
 6 straipsnis.
 Teršalų ir gaminių bei pakuotės apmokestinimo ir tarifų nustatymo tvarka
@@ -307,8 +302,8 @@ nurodyto šio Įstatymo 2 priedėlyje;
 2)
 nuslėptą degalų kiekį, sunaudotą mobiliuose taršos šaltiniuose, dauginant iš
 mokesčio už aplinkos teršimą iš mobilių taršos šaltinių tarifo, nurodyto šio
-Įstatymo 5 priedėlyje, ir iš mokesčio už aplinkos teršimą iš mobilių taršos
-šaltinių tarifo koeficiento, nurodyto šio Įstatymo 6 priedėlyje;
+Įstatymo 5 priedėlyje, ir iš mokesčio už aplinkos teršimą iš mobilių taršos šaltinių
+tarifo koeficiento, nurodyto šio Įstatymo 6 priedėlyje;
 3)
 nuslėptą apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį dauginant
 iš tarifo, nurodyto šio Įstatymo 3 ar 4 priedėlyje, ir koeficiento 2.
@@ -330,11 +325,11 @@ Mokestis už aplinkos teršimą gaminių ar pakuotės atliekomis mokamas į vals
 biudžetą. Šios lėšos naudojamos Atliekų tvarkymo įstatyme numatytiems Gaminių
 ar pakuotės atliekų tvarkymo programos tikslams įgyvendinti.
 3.
-Didesnio tarifo mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą
-teršalų ir apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį, už
-normatyvus viršijantį teršalų kiekį, mokamas arba išieškomas iš pažeidėjo į
-valstybės biudžetą. Šios lėšos naudojamos Aplinkos apsaugos rėmimo programos
-įstatyme numatytiems tikslams įgyvendinti.
+Didesnio tarifo mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą teršalų
+ir apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį, už normatyvus
+viršijantį teršalų kiekį, mokamas arba išieškomas iš pažeidėjo į valstybės
+biudžetą. Šios lėšos naudojamos Aplinkos apsaugos rėmimo programos įstatyme
+numatytiems tikslams įgyvendinti.
 4.
 Nesumokėtas mokestis už aplinkos teršimą sumokamas arba išieškomas,
 delspinigiai skaičiuojami, permokėta mokesčio suma grąžinama Mokesčių
@@ -378,9 +373,12 @@ Respublikos                                  �
 m. sausio 22 d. 
                                                                                                 įstatymo
 Nr. IX-720
-                                                                                                1
+                                                                                                1
 priedėlis        
  
+Mokesčio už
+aplinkos teršimą iš stacionarių taršos šaltinių tarifai iki 2005 m. sausio 1
+d.:
  
 MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
 STACIONARIŲ TARŠOS ŠALTINIŲ TARIFAI
@@ -675,6 +673,523 @@ V
  
 
 
+Mokesčio už
+aplinkos teršimą iš stacionarių taršos šaltinių tarifai 2005–2009
+metų periodui (2003 m. balandžio 29 d. įstatymo Nr. IX-1547 1 priedėlis):
+ 
+MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ STACIONARIŲ
+TARŠOS ŠALTINIŲ TARIFAI
+ 
+I.
+Teršalai, išmetami į atmosferą 
+ 
+
+
+
+Teršalai
+
+
+Mokesčio tarifai,
+  Lt/t                                         
+
+
+
+
+ 
+
+
+2005
+  m.
+
+
+2006
+  m.
+
+
+2007
+  m.
+
+
+2008
+  m.
+
+
+2009
+  m.
+
+
+
+
+SO2 
+   
+
+
+311
+
+
+311
+
+
+311
+
+
+311
+
+
+311
+
+
+
+
+NOx  
+  
+
+
+587
+
+
+587
+
+
+587
+
+
+587
+
+
+587
+
+
+
+
+Vanadžio
+  pentoksidas
+
+
+11 485
+
+
+11 485
+
+
+11 485
+
+
+11 485
+
+
+11 485
+
+
+
+
+Kietosios
+  dalelės (organinės ir neorganinės)(*
+  )
+
+
+184
+
+
+184
+
+
+184
+
+
+184
+
+
+184
+
+
+
+
+Teršalų grupės
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+I
+
+
+1210
+
+
+1210
+
+
+1210
+
+
+1210
+
+
+1210
+
+
+
+
+II
+
+
+570
+
+
+570
+
+
+570
+
+
+570
+
+
+570
+
+
+
+
+III
+
+
+74
+
+
+74
+
+
+74
+
+
+74
+
+
+74
+
+
+
+
+IV
+
+
+13
+
+
+13
+
+
+13
+
+
+13
+
+
+13
+
+
+
+ 
+II. Teršalai, išmetami į vandens telkinius, žemės paviršių
+ir gilesnius jos sluoksnius
+ 
+
+
+
+Teršalai
+
+
+Mokesčio tarifai, Lt/t
+
+
+
+
+ 
+
+
+2005
+  m.
+
+
+2006
+  m.
+
+
+2007
+  m.
+
+
+2008
+  m.
+
+
+2009
+  m.
+
+
+
+
+BDS7
+
+
+765
+
+
+765
+
+
+765
+
+
+765
+
+
+765
+
+
+
+
+Bendrasis
+  azotas
+
+
+600
+
+
+600
+
+
+600
+
+
+600
+
+
+600
+
+
+
+
+Bendrasis
+  fosforas
+
+
+3000
+
+
+3000
+
+
+3000
+
+
+3000
+
+
+3000
+
+
+
+
+Suspenduotos
+  medžiagos
+
+
+309
+
+
+309
+
+
+309
+
+
+309
+
+
+309
+
+
+
+
+Sulfatai
+
+
+2
+
+
+2
+
+
+2
+
+
+2
+
+
+2
+
+
+
+
+Chloridai
+
+
+9
+
+
+9
+
+
+9
+
+
+9
+
+
+9
+
+
+
+
+Teršalų grupės
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+I
+
+
+8700460
+
+
+8700460
+
+
+8700460
+
+
+8700460
+
+
+8700460
+
+
+
+
+II
+
+
+792710
+
+
+792710
+
+
+792710
+
+
+792710
+
+
+792710
+
+
+
+
+III
+
+
+129250
+
+
+129250
+
+
+129250
+
+
+129250
+
+
+129250
+
+
+
+
+IV
+
+
+29290
+
+
+29290
+
+
+29290
+
+
+29290
+
+
+29290
+
+
+
+
+V
+
+
+2871
+
+
+2871
+
+
+2871
+
+
+2871
+
+
+2871
+
+
+
+ 
+
+
+ 
                                                                                                 Lietuvos
 Respublikos                                                                                                              2002
 m. sausio 22 d. 
@@ -889,27 +1404,29 @@ V
  
 
 
-                                                                                                Lietuvos
-Respublikos                                                                                                              2002
+Lietuvos
+Respublikos
+2002
 m. sausio 22 d. 
-                                                                                                įstatymo
+                                                                                                įstatymo
 Nr. IX-720
-                                                                                                3
+                                                                                                3
 priedėlis        
  
-APMOKESTINAMŲJŲ
-GAMINIŲ SĄRAŠAS IR MOKESČIO TARIFAI
- 
+APMOKESTINAMŲJŲ GAMINIŲ SĄRAŠAS
+IR MOKESČIO TARIFAI
+
 
 
 
 Gaminys
 
 
-Kodas([1])
+Kodas(1)
 
 
 Tarifas
+
 
 
 
@@ -944,7 +1461,7 @@ ex40.11
   restauruotos
 
 
-ex4012.10
+ex4012
 
 
 0,30
@@ -968,54 +1485,17 @@ ex4012.20;
 
 
 2.     
-  Akumuliatoriai:
+  Akumuliatoriai,
+  naudojami 
+Transporto
+  priemonėse
 
 
- 
+ex85.07
 
 
- 
-
-
-
-
-2.1.  
-  nikelio-kadmio
-
-
-8507.30
-
-
-11
-  Lt už vienetą
-
-
-
-
-2.2.  
-  nikelio-geležies
-
-
-8507.40
-
-
-9
-  Lt už vienetą
-
-
-
-
-2.3.  
-  rūgštiniai
-  švino
-
-
-8507.10;
-  8507.20
-
-
-7
-  Lt už vienetą
+0,50
+  Lt už 1 kg
 
 
 
@@ -1036,14 +1516,15 @@ ex4012.20;
 
 4.     
   Galvaniniai
-  elementai
+  elementai ir akumuliatoriai, išskyrus nurodytus 2 punkte
 
 
-8506.30
+8506.30;
+  ex85.07
 
 
 4%
-  elemento didmeninės kainos
+  didmeninės kainos
 
 
 
@@ -1056,8 +1537,8 @@ ex4012.20;
 8421.23
 
 
-1
-  Lt už vienetą
+1 Lt
+  už vienetą
 
 
 
@@ -1071,8 +1552,8 @@ ex4012.20;
   8421.31.10.0; 8421.31.90.0; 8421.39; 8421.39.10.0
 
 
-1
-  Lt už vienetą
+1 Lt
+  už vienetą
 
 
 
@@ -1086,23 +1567,17 @@ ex4012.20;
   8708.80.10.0; 8708.80.90.0
 
 
-3
-  Lt už vienetą
-
-
-
-
- 
-
-
- 
-
-
- 
+3 Lt
+  už vienetą
 
 
 
  
+([1]) Pagal Kombinuotąją muitų tarifų
+ir užsienio statistikos nomenklatūrą (2003 m. redakcija).
+Priedėlio pakeitimai:
+Nr. IX-1547,
+2003-04-29, Žin., 2003, Nr. 48-2108 (2003-05-15)
  
 
 
@@ -1209,13 +1684,15 @@ Tarifai
 
                                                                                                 Lietuvos
 Respublikos
-                                                                                                2002
+                                                                                                2002
 m. sausio 22 d. 
                                                                                                 įstatymo
 Nr. IX-720
                                                                                                 5
 priedėlis
- 
+Mokesčio už
+aplinkos teršimą iš mobilių taršos šaltinių tarifai iki 2005
+m. sausio 1 d.:
  
 MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
 MOBILIŲ TARŠOS ŠALTINIŲ TARIFAI 
@@ -1419,6 +1896,325 @@ už
  
 
 
+Mokesčio už
+aplinkos teršimą iš mobilių taršos šaltinių tarifai 2005–2009
+metų periodui (2003 m. balandžio 29 d. įstatymo Nr. IX-1547 2 priedėlis):
+ 
+MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
+MOBILIŲ TARŠOS ŠALTINIŲ 
+TARIFAI
+ 
+ 
+
+
+
+Transporto 
+
+
+Kuro rūšis 
+
+
+Mokesčio tarifai, Lt/t/(ciklą)
+
+
+
+
+priemonėms
+
+
+arba ciklas
+
+
+2005
+  m.
+
+
+2006
+  m.
+
+
+2007
+  m.
+
+
+2008
+  m.
+
+
+2009
+  m.
+
+
+
+
+1.
+  Motorinėms 
+
+
+benzinas
+
+
+21
+
+
+21
+
+
+21
+
+
+21
+
+
+21
+
+
+
+
+transporto
+  
+
+
+dyzelinas
+
+
+22
+
+
+22
+
+
+22
+
+
+22
+
+
+22
+
+
+
+
+priemonėms
+  su vidaus degimo 
+
+
+suskystintos
+  naftos dujos
+
+
+20
+
+
+20
+
+
+20
+
+
+20
+
+
+20
+
+
+
+
+varikliais
+
+
+suslėgtos
+  gamtinės dujos
+
+
+16
+
+
+16
+
+
+16
+
+
+16
+
+
+16
+
+
+
+
+2.
+  Laivams
+
+
+benzinas
+
+
+32
+
+
+32
+
+
+32
+
+
+32
+
+
+32
+
+
+
+
+ 
+
+
+dyzelinas
+
+
+34
+
+
+34
+
+
+34
+
+
+34
+
+
+34
+
+
+
+
+ 
+
+
+mazutas,
+  kurio sieringumas £0,5%
+
+
+
+8
+
+
+8
+
+
+8
+
+
+8
+
+
+8
+
+
+
+
+ 
+
+
+mazutas,
+  kurio sieringumas nuo 0,5% iki 1,5%
+
+
+14
+
+
+14
+
+
+14
+
+
+14
+
+
+14
+
+
+
+
+ 
+
+
+mazutas,
+  kurio sieringumas nuo 1,5% iki 2,5%
+
+
+20
+
+
+20
+
+
+20
+
+
+20
+
+
+20
+
+
+
+
+3.
+  Geležinkelių transporto priemonėms
+
+
+dyzelinas
+
+
+26
+
+
+26
+
+
+26
+
+
+26
+
+
+26
+
+
+
+
+4.
+  Lėktuvų pakilimo ir nusileidimo ciklui 
+
+
+už
+  vieną ciklą
+
+
+5
+
+
+5
+
+
+5
+
+
+5
+
+
+5
+
+
+
+ 
+
+
                                                                                                 Lietuvos
 Respublikos
                                                                                                 2002
@@ -1612,11 +2408,25 @@ PAKEITIMO ĮSTATYMO 1 STRAIPSNIU PAKEISTO MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTA
 Šis Įstatymas įsigalioja nuo 2003
 m. sausio 1 d.
  
-*** Pabaiga ***
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1547, 2003-04-29, Žin., 2003, Nr. 48-2108 (2003-05-15)
+MOKESČIO
+UŽ APLINKOS TERŠIMĄ ĮSTATYMO 5 STRAIPSNIO IR 3 PRIEDĖLIO PAKEITIMO BEI 11
+STRAIPSNIO 2 DALIES ĮGYVENDINIMO ĮSTATYMAS
+Šis Įstatymas, išskyrus 1 ir 2
+straipsnius, įsigalioja nuo 2005 m. sausio 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2003-01-20)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2003-05-27)
+                 
+autrap@lrs.lt
  
 
 
@@ -1630,14 +2440,17 @@ asbesto turinčias kietąsias daleles.
 
 
 * Išskyrus:
+kietąsias daleles,
+susidarančias deginant kietąjį, skystąjį arba dujinį kurą;
+asbesto turinčias
+kietąsias daleles. 
+
+
+* Išskyrus:
 kietąsias
 daleles, susidarančias deginant kietąjį, skystąjį arba dujinį kurą;
 asbesto
 turinčias kietąsias daleles.
-
-
-[1] Pagal Kombinuotąją muitų tarifų
-ir užsienio statistikos nomenklatūrą, 2001 m. redakcija.
 
 
 1 Tarifas tūrio ar svorio vienetui
