@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2000-11-01 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2004-06-18
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
  
@@ -69,7 +69,10 @@ Nr. VIII-2003, 2000-10-10, Žin., 2000, Nr. 92-2855 (2000-10-31), i. k. 1001010I
 
 
 
-5. Karinės teisėsaugos institucijos – karo policija, karinės kvotos ir parengtinio tardymo institucijos bei jų kontrolę atliekančios institucijos, karo lauko teismai.
+5. Karinės teisėsaugos institucijos – karo policija, karinės ikiteisminio tyrimo įstaigos bei jų kontrolę atliekančios institucijos, karo lauko teismai.
+Straipsnio dalies pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+ 
 
 
 
@@ -112,7 +115,10 @@ KARO PADĖTIES ĮVEDIMAS IR ATŠAUKIMAS
 3 straipsnis. Karo padėties įvedimas 
 
 
-1. Karo padėtį įveda Seimas, kai prireikia ginti Tėvynę arba vykdyti Lietuvos valstybės tarptautinius įsipareigojimus. Ginkluoto užpuolimo atveju, kai kyla grėsmė valstybės suverenumui ar jos teritorijos vientisumui, sprendimą dėl gynybos nuo ginkluotos agresijos ir dėl karo padėties įvedimo priima Respublikos Prezidentas nedelsdamas ir šį sprendimą teikia tvirtinti artimiausiame Seimo posėdyje, o tarp Seimo sesijų – nedelsdamas šaukia Seimo neeilinę sesiją. Seimas įstatymu patvirtina arba panaikina Respublikos Prezidento sprendimą.
+1. Karo padėtį įveda Seimas, kai prireikia ginti Tėvynę arba vykdyti Lietuvos valstybės tarptautinius įsipareigojimus. Ginkluoto užpuolimo atveju, kai kyla grėsmė valstybės suverenumui ar jos teritorijos vientisumui, sprendimą dėl gynybos nuo ginkluotos agresijos ir dėl karo padėties įvedimo priima Respublikos Prezidentas nedelsdamas ir šį sprendimą teikia tvirtinti artimiausiame Seimo posėdyje, o tarp Seimo sesijų – nedelsdamas šaukia Seimo neeilinę sesiją. Seimas nutarimu patvirtina arba panaikina Respublikos Prezidento sprendimą.
+Straipsnio dalies pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+ 
 
 
 
@@ -149,18 +155,26 @@ KARO PADĖTIES ĮVEDIMAS IR ATŠAUKIMAS
 5 straipsnis. Sprendimų dėl karo padėties įforminimas
 
 
-Seimas karo padėtį įveda ar ją atšaukia priimdamas įstatymą. Respublikos Prezidento sprendimai dėl karo padėties įvedimo ar atšaukimo įforminami dekretais.
+Seimas karo padėtį įveda ar ją atšaukia priimdamas nutarimą. Respublikos Prezidento sprendimai dėl karo padėties įvedimo ar atšaukimo įforminami dekretais.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
  
 
 
 
 
+6 straipsnis.         Seimo nutarimo ir Respublikos Prezidento dekreto dėl karo padėties įvedimo paskelbimas ir įsigaliojimas 
+Pakeistas straipsnio pavadinimas:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+ 
 
 
-6 straipsnis.         Įstatymo ir Respublikos Prezidento dekreto dėl karo padėties įvedimo paskelbimas ir įsigaliojimas 
-
-
-1. Lietuvos Respublikos įstatymas ar Respublikos Prezidento dekretas dėl karo padėties įvedimo skelbiamas nedelsiant po jo priėmimo per visuomenės informavimo priemones ir įsigalioja Lietuvos Respublikos įstatymų nustatyta tvarka.
+1. Lietuvos Respublikos Seimo nutarimas ar Respublikos Prezidento dekretas dėl karo padėties įvedimo skelbiamas nedelsiant po jo priėmimo per visuomenės informavimo priemones ir įsigalioja Lietuvos Respublikos įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+ 
 
 
 
@@ -183,10 +197,16 @@ Seimas karo padėtį įveda ar ją atšaukia priimdamas įstatymą. Respublikos 
 
 
 
-7 straipsnis.         Įstatymo ir Respublikos Prezidento dekreto dėl karo padėties atšaukimo paskelbimas ir įsigaliojimas 
+7 straipsnis.         Seimo nutarimo ir Respublikos Prezidento dekreto dėl karo padėties atšaukimo paskelbimas ir įsigaliojimas 
+Pakeistas straipsnio pavadinimas:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+ 
 
 
-1. Lietuvos Respublikos įstatymas ar Respublikos Prezidento dekretas dėl karo padėties atšaukimo paskelbiamas per visuomenės informavimo priemones ir įsigalioja Lietuvos Respublikos įstatymų nustatyta tvarka. 
+1. Lietuvos Respublikos Seimo nutarimas ar Respublikos Prezidento dekretas dėl karo padėties atšaukimo paskelbiamas per visuomenės informavimo priemones ir įsigalioja Lietuvos Respublikos įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+ 
 
 
 
@@ -215,10 +235,12 @@ TEISIŲ IR LAISVIŲ APRIBOJIMAS BEI PAREIGŲ NUSTATYMAS
 8 straipsnis. Žmogaus teisės naudotis privataus gyvenimo neliečiamumu apribojimas
 
 
-Karo padėties metu asmenų telefoninių pokalbių pasiklausymas, susirašinėjimo, pašto siuntų ar kitokio susižinojimo tikrinimas gali būti atliekamas be teismo sprendimo. Tikrinti asmenų susirašinėjimą, pašto siuntas, klausytis telefoninių pokalbių ar kontroliuoti bet kokį kitokį asmenų susižinojimą turi teisę tik operatyvinės veiklos subjektai, kvotos ir tardymo organai, karinės žvalgybos ir kontržvalgybos skyriai.
+Karo padėties metu asmenų telefoninių pokalbių pasiklausymas, susirašinėjimo, pašto siuntų ar kitokio susižinojimo tikrinimas gali būti atliekamas be teismo sprendimo. Tikrinti asmenų susirašinėjimą, pašto siuntas, klausytis telefoninių pokalbių ar kontroliuoti bet kokį kitokį asmenų susižinojimą turi teisę tik operatyvinės veiklos subjektai, ikiteisminio tyrimo įstaigos, karinės žvalgybos ir kontržvalgybos skyriai.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
  
-
-
 
 
 
@@ -567,50 +589,56 @@ Karo komendantų veiklą, atliekant vietos savivaldos institucijų, taip pat aps
 
 
 
-26 straipsnis. Kvotos ir parengtinio tardymo institucijos
+26 straipsnis. Ikiteisminio tyrimo įstaigos
 
 
-Kai kvotos ir parengtinio tardymo organai negali atlikti jiems Lietuvos Respublikos baudžiamojo proceso kodekso pavestų funkcijų, jas atlieka karo policija, Valstybės saugumo departamento kvotos padaliniai, o jei savo funkcijų atlikti negali, - karo komendanto paskirti asmenys. Teritorijoje, kurioje karo policija ir karinės komendantūros negali atlikti savo funkcijų, kvotą ir parengtinį tardymą atlieka šioje teritorijoje veikiančio ar dislokuoto karinio dalinio ar kito karinio vieneto vado paskirti asmenys. Kvotėjais ar tardytojais, esant galimybei, turi būti paskirti asmenys, turintys teisinį išsilavinimą.
+Kai ikiteisminio tyrimo įstaigos negali atlikti joms Lietuvos Respublikos baudžiamojo proceso kodekso pavestų funkcijų, jas atlieka karo policija, Valstybės saugumo departamento ikiteisminio tyrimo padaliniai, o jei savo funkcijų atlikti negali, – karo komendanto paskirti asmenys. Teritorijoje, kurioje karo policija ir karinės komendantūros negali atlikti savo funkcijų, ikiteisminį tyrimą atlieka šioje teritorijoje veikiančio ar dislokuoto karinio dalinio ar kito karinio vieneto vado paskirti asmenys. Ikiteisminio tyrimo pareigūnais, esant galimybei, turi būti paskirti asmenys, turintys teisinį išsilavinimą.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
  
 
 
 
 
+27 straipsnis. Ikiteisminio tyrimo atlikimas
 
 
-27 straipsnis. Kvotos ir parengtinio tardymo atlikimas
-
-
-1. Baudžiamosios bylos iškeliamos ir tiriamos Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka, išskyrus šio įstatymo nustatytus atvejus.
-
-
-
-
-2. Kai karinio dalinio vado ar karo komendanto paskirti asmenys atlieka kvotą ar parengtinį tardymą, Lietuvos Respublikos baudžiamojo proceso kodekso nustatyti terminai netaikomi. Kai šie pareigūnai tiria baudžiamąją bylą, su civiliniu ieškiniu susiję klausimai nesprendžiami.
+1. Ikiteisminis tyrimas atliekamas Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka, išskyrus šio įstatymo nustatytus atvejus.
 
 
 
 
-3. Asmeniui, kuris įtariamas padaręs nusikaltimą, kaltinamajam nuo jų sulaikymo arba pirmosios apklausos momento, kitais įstatymų nustatytais atvejais garantuojama teisė į gynybą. Negalint užtikrinti, kad asmenį gintų advokatas, gynėju skiriamas kitas asmuo. Šiuo atveju gynėju leidžiama būti asmeniui, nesuinteresuotam bylos baigtimi ir, esant galimybei, turinčiam aukštąjį išsilavinimą.
+2. Kai ikiteisminį tyrimą atlieka karinio dalinio vado ar karo komendanto paskirti asmenys, Lietuvos Respublikos baudžiamojo proceso kodekso nustatyti terminai netaikomi. Kai šie pareigūnai atlieka ikiteisminį tyrimą, su civiliniu ieškiniu susiję klausimai nesprendžiami.
 
 
 
 
-4. Įvedant karo padėtį, Respublikos Prezidentas ar Seimas gali nustatyti, jog poėmis ar krata Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka daroma be įstatyme numatytos sankcijos.
+3. Asmeniui, kuris įtariamas padaręs nusikalstamą veiką, nuo jo sulaikymo arba pirmosios apklausos momento, o kaltinamajam – kitais įstatymų nustatytais atvejais garantuojama teisė į gynybą. Kai negalima užtikrinti, kad asmenį gintų advokatas ar įstatymų nustatytais atvejais advokato padėjėjas, gynėju skiriamas kitas asmuo. Šiuo atveju gynėju gali būti asmuo, nesuinteresuotas bylos baigtimi ir, jei įmanoma, turintis aukštąjį išsilavinimą.
+
+
+
+
+4. Įvedant karo padėtį, Respublikos Prezidentas ar Seimas gali nustatyti, kad poėmis ar krata Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka daromi be įstatymų numatytos teisėjo nutarties ar patvirtinimo.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
  
 
 
 
 
+28 straipsnis. Ikiteisminio tyrimo organizavimas
 
 
-28 straipsnis. Kvotos ir parengtinio tyrimo kontrolė
+Ikiteisminį tyrimą organizuoja ir jam vadovauja prokuroras. Jei prokuroras to daryti negali, ikiteisminį tyrimą kontroliuoja ikiteisminio tyrimo teisėjas.
 
 
-Kvotą ir parengtinį tardymą kontroliuoja prokuroras. Jam negalint užtikrinti kontrolės, ją pagal bylos teismingumą vykdo teismo pirmininkas.
+Straipsnio pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
  
-
-
 
 
 
@@ -631,12 +659,17 @@ Kvotą ir parengtinį tardymą kontroliuoja prokuroras. Jam negalint užtikrinti
 
 
 
-2) tvarkomasis ir teisiamasis posėdžiai gali būti sujungti. Sujungus tvarkomąjį ir teisiamąjį posėdžius, teismo nutartis atiduoti kaltinamąjį teismui nepriimama;
+2) Neteko galios nuo 2003-05-01
+Straipsnio punkto naikinimas:
+Nr. IX-1422, 2003-04-03, Žin. 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+ 
 
 
 
 
-3) teismo pirmininkas privalo užtikrinti, kad nagrinėjant baudžiamąją bylą įstatymų nustatytais atvejais dalyvautų gynėjas. Nesant galimybės teisminiame nagrinėjime dalyvauti advokatui, gynėju gali būti asmuo, turintis teisinį išsilavinimą. Gynėju teisminio nagrinėjimo metu negali būti asmuo, dalyvavęs tos baudžiamosios bylos parengtiniame tyrime ar suinteresuotas bylos baigtimi.
+3) teismo pirmininkas privalo užtikrinti, kad nagrinėjant baudžiamąją bylą įstatymų nustatytais atvejais dalyvautų gynėjas. Nesant galimybės bylos nagrinėjimo teisme metu dalyvauti advokatui, gynėju gali būti asmuo, turintis teisinį išsilavinimą. Gynėju bylos nagrinėjimo teisme metu negali būti asmuo, dalyvavęs tos bylos ikiteisminiame tyrime ar suinteresuotas bylos baigtimi.
+Straipsnio punkto pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
  
 
 
@@ -649,7 +682,10 @@ Kvotą ir parengtinį tardymą kontroliuoja prokuroras. Jam negalint užtikrinti
 30 straipsnis. Karo lauko teismų steigimas
 
 
-1. Valstybiniams nusikaltimams, karo nusikaltimams, nusikaltimams krašto apsaugos tarnybai, nusikaltimams, kuriuos padarė kariai, bei nusikaltimams, kurie padaryti kariams, tirti prie karo komendantų gali būti steigiami karo lauko teismai. Jeigu prie karo komendantų įsteigti karo lauko teismai negali funkcionuoti, tokie teismai steigiami šiose teritorijose veikiančiuose ar dislokuotuose kariniuose daliniuose.
+1. Nusikaltimams žmoniškumui ir karo nusikaltimams, nusikaltimams Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai, nusikalstamoms veikoms krašto apsaugos tarnybai, nusikalstamoms veikoms, kurias padarė kariai, bei nusikalstamoms veikoms, kurios padarytos kariams, tirti prie karo komendantų gali būti steigiami karo lauko teismai. Jeigu prie karo komendantų įsteigti karo lauko teismai negali funkcionuoti, tokie teismai steigiami šiose teritorijose veikiančiuose ar dislokuotuose kariniuose daliniuose.
+Straipsnio dalies pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+ 
 
 
 
@@ -680,7 +716,10 @@ Kvotą ir parengtinį tardymą kontroliuoja prokuroras. Jam negalint užtikrinti
 
 
 
-2. Baudžiamąsias bylas dėl sunkių nusikaltimų nagrinėja karo lauko teismas prie karo komendantų. Karo lauko teismą sudaro trys teisėjai. Baudžiamąsias bylas dėl kitų nusikaltimų nagrinėja vienas teisėjas.
+2. Baudžiamąsias bylas dėl sunkių ar labai sunkių nusikaltimų nagrinėja karo lauko teismas prie karo komendantų. Karo lauko teismą sudaro trys teisėjai. Baudžiamąsias bylas dėl kitų nusikalstamų veikų nagrinėja vienas teisėjas.
+Straipsnio dalies pakeitimai:
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+ 
 
 
 
@@ -879,3 +918,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2003, 2000-10-10, Žin., 2000, Nr. 92-2855 (2000-10-31), i. k. 1001010ISTAIII-2003
 Lietuvos Respublikos karo padėties įstatymo 2 ir 21 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+Lietuvos Respublikos karo padėties įstatymo 2, 3, 5, 6, 7, 8, 26, 27, 28, 29, 30 ir 31 straipsnių pakeitimo įstatymas
