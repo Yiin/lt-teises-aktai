@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2000-05-24 iki 2000-10-03
+Suvestinė redakcija nuo 2000-10-04 iki 2004-01-06
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -212,9 +212,10 @@ II SKIRSNIS
 5 straipsnis. Įmonės steigimo teisinis pagrindas
 
 
-1. Valstybės įmonės steigimo teisinis pagrindas yra įmonės steigimo aktas, priimtas Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės arba kurio nors iš jų pavedimu – įgaliotos jiems atskaitingos ar pavaldžios institucijos. Savivaldybės įmonės steigimo teisinis pagrindas yra įmonės steigimo aktas, priimtas savivaldybės tarybos. Institucija, priėmusi nutarimą (sprendimą) įsteigti įmonę, yra tos įmonės steigėja. Seimas, Vyriausybė ar savivaldybės taryba, jeigu kuris nors iš jų yra įmonės steigėjas, gali įgalioti jiems atskaitingas ar pavaldžias institucijas vykdyti visas ar dalį įmonės steigėjos funkcijų, taip pat susigrąžinti šias funkcijas. Įmonės steigėjo funkcijos iš Seimo Vyriausybei arba iš Vyriausybės Seimui bei tarp šioms institucijoms atskaitingų ar pavaldžių valstybės institucijų yra perduodamos Lietuvos Respublikos Seimo nutarimu.
+1. Valstybės įmonės steigimo teisinis pagrindas yra įmonės steigimo aktas, priimtas Lietuvos Respublikos Seimo, Vyriausybės arba kurio nors iš jų pavedimu – įgaliotos jiems atskaitingos ar pavaldžios institucijos, įstaigos, taip pat biudžetinės įstaigos steigėjo priimtas sprendimas reorganizuoti biudžetinę įstaigą, išlaikomą iš valstybės biudžeto, į valstybės įmonę, jei įmonė steigiama dalyvaujant reorganizavime biudžetinei įstaigai. Savivaldybės įmonės steigimo teisinis pagrindas yra įmonės steigimo aktas, priimtas savivaldybės tarybos, taip pat savivaldybės tarybos sprendimas reorganizuoti savivaldybės biudžetinę įstaigą į savivaldybės įmonę. Institucija, įstaiga, priėmusi sprendimą įsteigti įmonę, yra tos įmonės steigėja. Seimas, Vyriausybė ar savivaldybės taryba, jeigu kuris nors iš jų yra įmonės steigėjas, gali įgalioti jiems atskaitingas ar pavaldžias institucijas, įstaigas vykdyti visas ar dalį įmonės steigėjos funkcijų, taip pat susigrąžinti šias funkcijas. Įmonės steigėjo funkcijos iš Seimo Vyriausybei arba iš Vyriausybės Seimui bei tarp šioms institucijoms, įstaigoms atskaitingų ar pavaldžių valstybės institucijų, įstaigų yra perduodamos Lietuvos Respublikos Seimo nutarimu.
 Straipsnio dalies pakeitimai:
 Nr. VIII-1264, 1999-06-24, Žin., 1999, Nr. 60-1956 (1999-07-09), i. k. 0991010ISTAIII-1264
+Nr. VIII-1920, 2000-09-12, Žin., 2000, Nr. 83-2512 (2000-10-04), i. k. 1001010ISTAIII-1920
  
 
 
@@ -1223,3 +1224,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1658, 2000-05-02, Žin., 2000, Nr. 42-1186 (2000-05-24), i. k. 1001010ISTAIII-1658
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 19 straipsnio pakeitimo ir papildymo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1920, 2000-09-12, Žin., 2000, Nr. 83-2512 (2000-10-04), i. k. 1001010ISTAIII-1920
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 5 straipsnio pakeitimo įstatymas
