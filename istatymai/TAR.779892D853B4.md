@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2003-07-01 iki 2003-09-25
+Suvestinė redakcija nuo 2003-09-26 iki 2004-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -1845,12 +1845,15 @@ FINANSŲ ĮSTAIGOS VERSLO RIZIKA IR JOS APRIBOJIMAS
 
 
 
-4) pačios finansų įstaigos kontroliuojamos arba ją globojančios (patronuojančios) finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių dalies įkeitimo; 
+4) pačios finansų įstaigos kontroliuojamos arba ją globojančios (patronuojančios) finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių dalies įkeitimo. 
 
 
 
 
-5) įmonės, kuri turi kvalifikuotąją finansų įstaigos kliento įstatinio kapitalo ir (arba) balsavimo teisių dalį arba kurios kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turi finansų įstaigos klientas, įstatinio kapitalo ir (arba) balsavimo teisių dalies įkeitimo. 
+5) Neteko galios nuo 2003-09-26
+Straipsnio punkto naikinimas:
+Nr. IX-1734, 2003-09-16, Žin. 2003, Nr. 91-4109 (2003-09-26), i. k. 1031010ISTA0IX-1734
+ 
 
 
 
@@ -2864,14 +2867,15 @@ Nr. IX-1125, 2002-10-08, Žin., 2002, Nr. 101-4496 (2002-10-23), i. k. 1021010IS
 
 
 
-59 straipsnis. Pasiūlymai Vyriausybei ir Lietuvos bankui 
+59 straipsnis. Pasiūlymai Vyriausybei ir Lietuvos bankui
 
 
-Pasiūlyti Vyriausybei ir Lietuvos bankui parengti ir iki 2003 m. sausio 1 d. pateikti Seimui įstatymų, neatitinkančių Finansų įstaigų įstatymo nuostatų, pakeitimo ir (arba) papildymo įstatymų projektus, taip pat parengti šiam Įstatymui įgyvendinti reikalingus įstatymų lydimuosius teisės aktus. 
+Pasiūlyti Vyriausybei ir Lietuvos bankui parengti ir iki 2003 m. lapkričio 1 d. pateikti Seimui įstatymų, neatitinkančių Finansų įstaigų įstatymo nuostatų, pakeitimo ir (arba) papildymo įstatymų projektus, taip pat parengti šiam Įstatymui įgyvendinti reikalingus lydimuosius teisės aktus. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-1125, 2002-10-08, Žin., 2002, Nr. 101-4496 (2002-10-23), i. k. 1021010ISTA0IX-1125
+Nr. IX-1734, 2003-09-16, Žin., 2003, Nr. 91-4109 (2003-09-26), i. k. 1031010ISTA0IX-1734
  
 
 
@@ -2900,3 +2904,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo 58 ir 59 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1481, 2003-04-03, Žin., 2003, Nr. 38-1726 (2003-04-24), i. k. 1031010ISTA0IX-1481
 Lietuvos Respublikos finansų įstaigų įstatymo 6 ir 20 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1734, 2003-09-16, Žin., 2003, Nr. 91-4109 (2003-09-26), i. k. 1031010ISTA0IX-1734
+Lietuvos Respublikos finansų įstaigų įstatymo 31 ir 59 straipsnių pakeitimo įstatymas
