@@ -13,12 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2001-04-20 iki 2003-03-31
+Suvestinė redakcija nuo 2003-04-01 iki 2003-12-04
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
  
+Nauja redakcija nuo 2003-04-01:
+Nr. IX-1211, 2002-12-03, Žin. 2002, Nr. 123-5507 (2002-12-24), i. k. 1021010ISTA0IX-1211
  
-LIETUVOS RESPUBLIKOS TURIZMO Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS
+TURIZMO
+Į S T A T Y M A S
  
 1998 m. kovo 19 d. Nr. VIII-667
 Vilnius
@@ -31,10 +35,10 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo tikslas
+1 straipsnis. Įstatymo paskirtis
 
 
-Turizmo įstatymas nustato turizmo verslo ir savaveiksmio turizmo organizavimo principus bei prioritetus, turizmo paslaugų teikimo reikalavimus, šį verslą kontroliuojančių valstybės ir vietos savivaldos institucijų kompetenciją, turizmo išteklių naudojimo sąlygas.
+Šis Įstatymas nustato turizmo verslo organizavimo principus, reikalavimus turizmo paslaugų teikimui ir turistų (vartotojų) teisių apsaugai bei valstybės, savivaldybių institucijų kompetenciją turizmo reguliavimo, planavimo ir turizmo išteklių naudojimo srityje.
  
 
 
@@ -42,100 +46,85 @@ Turizmo įstatymas nustato turizmo verslo ir savaveiksmio turizmo organizavimo p
 
 
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Turizmas – tikslinga žmonių veikla, susijusi su kelione ir laikinu buvimu už nuolatinės gyvenamosios vietos ribų ne ilgiau kaip vienerius metus, jei ši veikla nėra mokymas ar mokamas darbas lankomoje vietovėje.
+1. Apgyvendinimo paslauga – būtinos apgyvendinimui sąlygos ir veiklos, kuria tenkinami turisto nakvynės ir higienos poreikiai, rezultatas.
 
 
 
 
-2. Turistas – asmuo, kuris pažintiniais, profesiniais-dalykiniais, etniniais, kultūriniais, rekreaciniais, religiniais ar specialiais tikslais keliauja po šalį ar į kitas šalis ir apsistoja bent vienai nakvynei už savo nuolatinės gyvenamosios vietos ribų.
+2. Ekskursija – trumpiau kaip parą trunkantis objektų ar vietovių lankymas pagal nustatytą maršrutą, kai dalyvauja gidas.
 
 
 
 
-3. Turizmo paslauga – veikla, susijusi su turistų poreikių tenkinimu, suteikiant turistams kelionės organizavimo, transporto, apgyvendinimo, maitinimo, informacijos ar specialias paslaugas.
+3. Gidas – teisės aktų nustatytus kvalifikacinius reikalavimus atitinkantis fizinis asmuo, kuris suteikia specialią informaciją apie lankomus muziejus, meno galerijas, gamtos, kultūros, mokslo, parodų ar kitus objektus arba vietoves.
 
 
 
 
-4. Kelionės organizavimo paslauga – veikla, kurią sudaro kelionei reikalingų turizmo paslaugų įgijimas ir pardavimas, turizmo paslaugų paketų rengimas, reklama bei pardavimas ir papildomų paslaugų, susijusių su kelionės organizavimu, teikimas.
+4. Kambarys (numeris) – apgyvendinimui skirtame pastate specialiai įrengta patalpa ar jų grupė ir apgyvendinimo paslaugų teikėjo siūloma asmenims nuomotis kaip nedaloma visuma.
 
 
 
 
-5. Turizmo paslaugų paketas – už bendrą kainą parduoti parengtas turizmo paslaugų rinkinys, kurį sudaro ne mažiau kaip dvi turizmo paslaugos, įskaitant transportą ir (ar) apgyvendinimą, kai paslaugų trukmė viršija parą.
+5. Kelionės organizatorius – juridinis asmuo, reguliariai rengiantis organizuotas turistines keliones ir savo vardu viešai siūlantis teikti turizmo paslaugas bet kuriam asmeniui arba tam tikrai asmenų grupei.
 
 
 
 
-6. Apgyvendinimo paslauga – būtinos apgyvendinti sąlygos ir veikla, kuria tenkinami turisto nakvynės, higienos, maitinimo ir poilsio poreikiai.
+6. Kelionės organizavimo paslauga – veiklos, susijusios su organizuotų turistinių kelionių rengimu ir (ar) jų pardavimu, rezultatas.
 
 
 
 
-7. Turistinė kelionė – ilgiau kaip parą trunkanti individuali ar grupės asmenų kelionė pagal nustatytą maršrutą ir laiką.
+7. Kelionių agentūra – juridinis asmuo, tarpininkaujantis parduodant organizuotas turistines keliones ir (ar) atskiras turizmo paslaugas.
 
 
 
 
-8. Turistinės kelionės sutartis – raštu sudarytas susitarimas, kuriuo paslaugų teikėjas įsipareigoja paslaugų vartotojui abipusiškai sutartomis sąlygomis suteikti konkrečias turizmo paslaugas, o paslaugų vartotojas – už jas sumokėti.
+8. Kelionių vadovas – teisės aktų nustatytus kvalifikacinius reikalavimus atitinkantis fizinis asmuo, kuris suteikia kelionės informaciją ir lydi turistus kelionėse šalies viduje arba užsienyje.
 
 
 
 
-9. Ekskursija – trumpiau kaip parą trunkantis objektų ar vietovių lankymas pagal nustatytą maršrutą arba išvyka pažintiniais tikslais, dalyvaujant gidui.
+9. Kurortas – įstatymo suteiktas statusas gyvenamajai vietovei, kurioje yra gamtinių gydomųjų veiksnių (mineralinių vandenų, gydomojo purvo, sveikatai palankus klimatas, rekreacinių želdinių, vandens telkinių) bei speciali infrastruktūra šiems veiksniams naudoti gydymui, profilaktikai ir poilsiui bei turizmui. 
 
 
 
 
-10. Gidas – asmuo, kuris suteikia specialią informaciją apie lankomus muziejus, meno galerijas, gamtos, kultūros, mokslo, parodų ar kitus objektus arba vietoves.
+10. Organizuota turistinė kelionė (turizmo paslaugų rinkinys) – iš anksto parengta, už bendrą kainą parduodama turistinė kelionė, kurią sudaro ne mažiau kaip dvi turizmo paslaugos (apgyvendinimo, vežimo, kita esminę kelionės dalį sudaranti turizmo paslauga, nesusijusi su vežimu ar apgyvendinimu) ir kuri tęsiasi ilgiau kaip 24 valandas arba yra įtraukta nakvynė. 
 
 
 
 
-11. Kelionių vadovas – asmuo, kuris suteikia kelionės informaciją ir lydi pavienius žmones ar žmonių grupes kelionėse šalies viduje arba užsienyje.
+11. Rekreacinė teritorija – vietovė, turinti gamtines ar kultūrines aplinkos savybes ir sąlygas žmonių visaverčiam fiziniam bei dvasiniam poilsiui organizuoti.
 
 
 
 
-12. Kelionių operatorius – asmuo, kuris reguliariai rengia turistinių kelionių maršrutus ir sudaro šioms kelionėms reikalingų turizmo paslaugų paketus.
+12. Rekreaciniai ištekliai – gamtinės ar kultūrinės aplinkos savybės, tinkamos žmonių visaverčiam fiziniam bei dvasiniam poilsiui organizuoti.
 
 
 
 
-13. Kelionių agentas – asmuo, veikiantis kaip tarpininkas parduodant įvairias turizmo paslaugas.
+13. Turistas – fizinis asmuo, kuris pažintiniais, profesiniais-dalykiniais, etniniais, kultūriniais, rekreaciniais, sveikatingumo, religiniais ar specialiais tikslais keliauja po šalį ar į kitas šalis ir apsistoja bent vienai nakvynei, tačiau ne ilgiau kaip vienerius metus už savo nuolatinės gyvenamosios vietos ribų, jei ši veikla nėra mokymasis ar apmokamas darbas lankomoje vietovėje.
 
 
 
 
-14. Pažymėjimas (sertifikatas) – dokumentas, patvirtinantis asmens kvalifikaciją arba tai, kad asmuo atitinka nustatytus paslaugų teikimo reikalavimus.
+14. Turizmo ištekliai – turistinį interesą turintys objektai ar vietovės.
 
 
 
 
-15. Turistinis žygis – organizuotas aktyvus keliavimas gamtinėje aplinkoje nauju ar žinomu maršrutu pažinimo, sveikatingumo ir (ar) sporto tikslais.
+15. Turizmo paslauga – fizinių ir juridinių asmenų veikla, kuria tenkinami turistų kelionės organizavimo, apgyvendinimo, maitinimo, vežimo, informacijos, pramogų ir kiti poreikiai.
 
 
 
 
-16. Žygio vadovas – asmuo, turintis atitinkamą pasirengimą, organizuojantis pasiruošimą žygiui ir šiam žygiui vadovaujantis.
-
-
-
-
-17. Turizmo ištekliai – atitinkamos teritorijos ar atskirų gamtos, kultūros, socialinės, ūkio bei valdymo paskirties objektų vertybės ir galimybės tenkinti turistų poreikius.
-
-
-
-
-18. Rekreacinė teritorija – teritorija, turinti gamtines ar kultūrines aplinkos savybes ir sąlygas žmonių pilnaverčiam fiziniam bei dvasiniam poilsiui organizuoti.
-
-
-
-
-19. Rekreacinės paskirties žemės sklypas – teritorija, turinti nustatytas ribas ir rekreacinę žemės naudojimo paskirtį, pagal detalius planus naudojama rekreacijai (visuomenės bendram naudojimui) bei rekreacijos (turizmo) objektams ir įrenginiams statyti bei eksploatuoti.
+16. Turizmo paslaugų teikimo sutartis – raštu sudarytas susitarimas, kuriuo viena šalis – turistinės kelionės organizatorius – įsipareigoja už atlyginimą kitai šaliai – turistui – užtikrinti organizuotą turistinę kelionę, o turistas įsipareigoja sumokėti už suteiktas paslaugas.
  
 
 
@@ -146,34 +135,14 @@ Turizmo įstatymas nustato turizmo verslo ir savaveiksmio turizmo organizavimo p
 
 
 ANTRASIS SKIRSNIS
-TURIZMO VERSLAS
+TURIZMO PASLAUGOS
  
 
 
-3 straipsnis. Turizmo verslas, rūšys ir finansinės garantijos
+3 straipsnis. Turizmo paslaugų rūšys 
 
 
-1. Turizmo verslas yra fizinių ir juridinių asmenų veikla, kuria sukuriamos ir tiesiogiai arba tarpininkavimo būdu teikiamos turizmo paslaugos.
-
-
-
-
-2. Teikti turizmo paslaugas turi teisę:
-
-
-1) fiziniai asmenys, turintys Vyriausybės nustatyta tvarka išduotą patentą nuomoti individualias patalpas turistams apgyvendinti arba pažymėjimą (sertifikatą) teikti gido ir kelionių vadovo paslaugas;
-
-
-
-
-2) įmonės ar viešosios įstaigos, įstatymų nustatyta tvarka įregistruotos įmonių registre ir turinčios pažymėjimą (sertifikatą).
-
-
-
-
-
-
-3. Turizmo verslo rūšys:
+Turizmo paslaugų rūšys:
 
 
 1) kelionės organizavimo paslaugos;
@@ -191,61 +160,10 @@ TURIZMO VERSLAS
 
 
 
-4) maitinimo paslaugos;
-
-
-
-
-5) pramogų ir kitos turizmo paslaugos.
-
-
-
-
-
-
-4. Kelionės organizavimo paslaugas teikia įmonės, turinčios finansines garantijas, kurias sudaro banko ar draudimo įmonės garantas arba pagalbos draudimas. Finansinių garantijų nereikalaujama, jeigu įmonė, parduodama turizmo paslaugas, veikia kaip tarpininkas ir jos parduodamos paslaugos turi tiesioginio paslaugų teikėjo patvirtintas finansines garantijas.
-
-
-
-
-5. Banko ar draudimo įmonės garanto dydį, taikymo ir kontrolės tvarką nustato Kelionės organizavimo paslaugų finansinių garantijų taisyklės. Šias taisykles tvirtina Vyriausybė arba jos įgaliota institucija.
-
-
-
-
-6. Pagalbos draudimo sutartis sudaro kelionės organizavimo paslaugų teikėjas ir draudimo įmonė, vadovaudamiesi Pagalbos turistams draudimo taisyklėmis, parengtomis pagal šio ir Draudimo įstatymo reikalavimus. Draudimo sutartyje turi būti nustatyti draudimo įmonės įsipareigojimai suteikti pagalbą keliaujantiems asmenims, kai dėl transporto priemonės gedimo, avarijos ar kitų nenumatytų aplinkybių negali būti tęsiama kelionė ir reikalinga neatidėliotina pagalba turistinės kelionės sutarties įsipareigojimams vykdyti. Pagalbos suteikimas yra keliaujančių asmenų sugrąžinimas į kelionės sutartyje numatytą išvykimo (grįžimo) vietą arba kelionės tęsimas ir abiem atvejais būtinų išlaidų, susijusių su šioje straipsnio dalyje nurodytais įvykiais, asmenims atlyginimas. Pagalbą galima suteikti pinigais ar (ir) natūra (techninėmis priemonėmis, personalu, kelionės bilietais ir pan.). Šis draudimas neapima paslaugų kokybės neatitikimo, paslaugų priežiūros ar garantinio serviso. Pagalbos turistams draudimo taisykles tvirtina Vyriausybė arba jos įgaliota institucija.
-
-
-
-
-7. Įmonėms, pažeidžiančioms šio įstatymo reikalavimus, gali būti taikomi Įmonių rejestro įstatyme nustatyti įmonių komercinės-ūkinės veiklos apribojimai.
+4) vežimo, maitinimo, pramogų ir kitos turizmo paslaugos.
  
 
 
-
-
-
-
-4 straipsnis. Turizmo plėtra
-
-
-1. Lietuvos Respublikoje prioritetas suteikiamas vietiniam (Lietuvos gyventojų kelionės bei turistiniai žygiai po šalį) ir atvykstamajam (užsienio piliečių kelionės Lietuvoje) turizmui. Turizmo plėtros priemonės ir būdai nustatomi kas ketveri metai atnaujinamoje Nacionalinėje turizmo plėtros programoje.
-
-
-
-
-2. Valstybė užtikrina racionalų ir efektyvų šalies turizmo išteklių naudojimą, apskaitą ir apsaugą, taip pat skatina turizmo klubų ar kitų turizmo visuomeninių organizacijų veiklą. Turizmo ištekliai naudojami atsižvelgiant į visuomenės ir verslo interesus bei aplinkos apsaugos ir paminklosaugos reikalavimus.
-
-
-
-
-3. Valstybė, plėtodama turizmą, nustato palankias vizų išdavimo ir pasienio bei muitinės postų veiklos sąlygas Lietuvos Respublikos ir užsienio piliečių turizmui organizuoti, vykdo turizmo verslo mokesčių politiką, skatinančią atvykstamąjį turizmą, formuoja informacinę ir statistinę apskaitos sistemą bei šalies turizmo įvaizdį, planuoja turizmo paslaugų plėtrą šalyje ir atskiruose regionuose, leidžia ir įgyvendina turizmo verslą reguliuojančius teisės aktus.
-
-
-
-
-4. Lietuvoje įregistruotų įmonių kelionių organizavimo paslaugos, suteiktos užsienio turistams, yra laikomos eksportuojamomis paslaugomis.
- 
 
 
 
@@ -259,75 +177,105 @@ KELIONĖS ORGANIZAVIMO PASLAUGOS
  
 
 
-5 straipsnis. Įmonės, teikiančios kelionės organizavimo paslaugas
+4 straipsnis. Kelionės organizavimo paslaugų teikėjai
 
 
-1. Kelionės organizavimo paslaugas teikia įmonės – turizmo agentūros, rengiančios ir parduodančios turistines keliones, ir kelionių agentūros, veikiančios kaip tiesioginio turizmo paslaugų teikėjo ir paslaugų vartotojo tarpininkės, bei šių įmonių filialai ar padaliniai. Žodžius „turizmo agentūra“, „kelionių agentūra“savo pavadinime, reklamoje ar kitais atvejais gali vartoti tik įmonės, įregistruotos turizmo paslaugų registre ir turinčios pažymėjimą (sertifikatą) teikti kelionės organizavimo paslaugas. Turizmo agentūros veikla yra tapati kelionių operatoriaus veiklai.
-
-
-
-
-2. Turizmo agentūros veiklą sudaro:
-
-
-1) turizmo paslaugų paketų rengimas, reklama bei pardavimas;
+1. Kelionės organizavimo paslaugas teikia kelionės organizatoriai ir kelionių agentūros.
 
 
 
 
-2) sutarčių sudarymas su turizmo paslaugų teikėjais dėl jų paslaugų turistams teikimo turizmo agentūros organizuojamų kelionių metu;
+2. Kelionės organizatoriaus veiklą sudaro:
+
+
+1) organizuotų turistinių kelionių rengimas, jų reklama ir (ar) pardavimas;
 
 
 
 
-3) transporto priemonių nuoma, transporto bilietų rezervavimas ir pardavimas, apgyvendinimo vietų rezervavimas ir pardavimas, vietų maitinimo įmonėse užsakymas, ekskursijų, poilsio bei pramogų ir specialių paslaugų organizavimas;
+2) sutarčių sudarymas su turizmo paslaugų teikėjais dėl jų paslaugų turistams teikimo kelionės organizatoriaus organizuojamų turistinių kelionių metu;
 
 
 
 
-4) kongresų, konferencijų, sporto ir panašių renginių organizavimas, kai tai susiję su turizmo paslaugų teikimu;
+3) atskirų turizmo paslaugų užsakymas (vietų rezervavimas) ir (ar) pardavimas;
 
 
 
 
-5) kitos turizmo paslaugos, numatytos įmonės įstatuose.
+4) kongresų, konferencijų ir kitų panašių renginių organizavimas, kai tai susiję su turizmo paslaugų teikimu;
 
 
 
 
-
-
-3. Kelionių agentūros veiklą sudaro:
-
-
-1) turizmo agentūrų parengtų turizmo paslaugų paketų pardavimas ir reklama;
-
-
-
-
-2) transporto priemonių užsakymas, transporto bilietų pardavimas, apgyvendinimo vietų užsakymas ir pardavimas, vietų maitinimo įmonėse užsakymas, ekskursijų ir poilsio bei pramogų užsakymas, informacijos bei kitų kelionei reikalingų paslaugų teikimas;
-
-
-
-
-3) kitos turizmo paslaugos, numatytos įmonės įstatuose.
+5) kitų turizmo paslaugų teikimas.
 
 
 
 
 
 
-4. Kelionių agentūra savo veiklą vykdo tik sudariusi sutartis su turizmo paslaugų teikėjais, jų vardu ir negali nustatyti kitokių turizmo paslaugų kainų nei tas, kurias nurodo paslaugų teikėjas.
+3. Kelionių agentūros veiklą sudaro:
+
+
+1) organizuotų turistinių kelionių pardavimas kelionės organizatoriaus vardu;
 
 
 
 
-5. Operacijas, susijusias su kelionės organizavimo paslaugomis, vykdo kelionių operatoriai ir kelionių agentai, turėdami atitinkamą turizmo srities išsilavinimą ar kvalifikaciją patvirtinantį pažymėjimą (sertifikatą). Kvalifikacinius reikalavimus kelionių operatoriaus ar kelionių agento pažymėjimui (sertifikatui) gauti, jo formą ir išdavimo tvarką nustato Vyriausybės įgaliota institucija.
+2) atskirų turizmo paslaugų užsakymas (vietų rezervavimas) ir (ar) pardavimas;
 
 
 
 
-6. Šio įstatymo nuostatos netaikomos oro, vandens, sausumos transporto vežėjams ir jų agentams, neteikiantiems turizmo paslaugų.
+3) kitų turizmo paslaugų teikimas.
+
+
+
+
+
+
+4. Organizuotos turistinės kelionės pardavimas atskiromis paslaugomis, išrašant sąskaitą už kiekvieną atskirą paslaugą, neatleidžia kelionių organizatoriaus nuo pareigos sudaryti turizmo paslaugų teikimo sutartį.
+
+
+
+
+5. Kelionės organizatorius gali teikti kelionės organizavimo paslaugas ir savo pavadinime, reklamoje ar kitais atvejais vartoti žodžius „kelionės organizatorius“ tik kai:
+
+
+1) turi šio įstatymo nustatyta tvarka įgytą prievolių įvykdymo užtikrinimą;
+
+
+
+
+2) yra įvykdęs 7 straipsnio 6 dalies reikalavimus.
+
+
+
+
+
+
+6. Kelionių agentūra gali tarpininkauti parduodant organizuotas turistines keliones ir (ar) atskiras turizmo paslaugas ir savo pavadinime, reklamoje ar kitais atvejais vartoti žodžius „kelionių agentūra“ tik kai:
+
+
+1) turi sudarytą rašytinį susitarimą su kelionės organizatoriumi arba keleivių vežimo įmone;
+
+
+
+
+2) Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka Vyriausybės įgaliotai institucijai yra pateikę informaciją apie šio straipsnio 6 dalies 1 punkto reikalavimų įvykdymą bei turi galiojantį kelionės agentūros pažymėjimą.
+
+
+
+
+
+
+7. Pažymėjimo, patvirtinančio, kad kelionės organizatorius ar turizmo agentūra atitinka nustatytus reikalavimus, bei suteikiančio teisę teikti atitinkamas turizmo paslaugas, išdavimo tvarką tvirtina Vyriausybė arba jos įgaliota institucija.
+
+
+
+
+8. Asmuo, kuris veikia kaip kelionės organizatoriaus, neturinčio verslo vietos Lietuvos Respublikoje, tarpininkas, turisto atžvilgiu taip pat laikomas kelionės organizatoriumi. 
  
 
 
@@ -335,35 +283,15 @@ KELIONĖS ORGANIZAVIMO PASLAUGOS
 
 
 
-6 straipsnis. Kelionės organizavimo paslaugų teikimo minimalūs reikalavimai
+5 straipsnis. Turizmo paslaugų teikimo sutartis
 
 
-1. Įmonė, norinti teikti kelionės organizavimo paslaugas, registruojama turizmo paslaugų registre, jai išduodamas pažymėjimas (sertifikatas), jeigu ji atitinka šiuos minimalius reikalavimus:
-
-
-1) įmonė (filialas ar padalinys) turi tarnybines patalpas, įrengtas pagal darbo vietų higieninio įvertinimo reikalavimus;
+1. Turizmo paslaugų teikimo sutartis sudaroma Civilinio kodekso ir šio įstatymo nustatyta tvarka ir sąlygomis.
 
 
 
 
-2) įmonės (filialo ar padalinio) administracijos vadovas turi aukštąjį ar aukštesnįjį turizmo srities išsilavinimą ir dvejų metų darbo turizmo srityje stažą arba aukštąjį ar aukštesnįjį išsilavinimą ir trejų metų vadovaujančio darbo turizmo srityje stažą;
-
-
-
-
-3) įmonės (filialo ar padalinio) administracijos vadovas nėra teistas arba yra išnykęs jo teistumas už tyčinius nusikaltimus;
-
-
-
-
-4) įmonė (filialas ar padalinys) turi parengusi parduoti turizmo paslaugų paketą, jeigu pareiškia norą būti registruojama turizmo paslaugų registre kaip turizmo agentūra.
-
-
-
-
-
-
-2. Pažymėjimo (sertifikato) išdavimo (panaikinimo) tvarką nustato Kelionės organizavimo paslaugų teikimo taisyklės. Šias taisykles tvirtina Vyriausybė arba jos įgaliota institucija. Pažymėjimo (sertifikato) formą tvirtina Valstybinis turizmo departamentas.
+2. Standartines turizmo paslaugų teikimo sutarties sąlygas tvirtina Valstybinis turizmo departamentas.
  
 
 
@@ -371,60 +299,120 @@ KELIONĖS ORGANIZAVIMO PASLAUGOS
 
 
 
-7 straipsnis. Turistinės kelionės sutartis
+6 straipsnis. Kelionės organizatoriaus ir kelionių agentūros teisės ir pareigos
 
 
-1. Turistinės kelionės sutarties šalys yra įmonė – kelionės organizavimo paslaugų teikėja ir asmuo – turistinės kelionės paslaugų vartotojas.
-
-
-
-
-2. Turistinės kelionės sutartis sudaroma, kai vartotojui siūlomos ne mažiau kaip dvi turizmo paslaugos, kelionės trukmė viršija parą arba kelionė yra su nakvyne. Į kelionės paslaugų paketo kainą įskaičiuojamos visos paslaugos.
+1. Kelionės organizatoriaus ir kelionių agentūros teises ir pareigas nustato Civilinis kodeksas, šis Įstatymas, Vartotojų teisių gynimo įstatymas, kiti įstatymai ir teisės aktai, turizmo paslaugų teikimo sutartis.
 
 
 
 
-3. Turistinės kelionės sutartyje turi būti nurodyta:
+2. Kelionės organizatorius, viešai reklamuodamas savo teikiamas paslaugas kelionių prospektuose, kataloguose ar kitoje turistinę kelionę aprašančioje medžiagoje, turi teikti neklaidinančią informaciją apie:
 
 
-1) kelionės organizavimo paslaugų teikėjo rekvizitai;
-
-
-
-
-2) paslaugų vartotojo asmens duomenys ir gyvenamoji vieta;
+1) transporto priemonę, kuria vykstama, jos charakteristiką ir kategoriją;
 
 
 
 
-3) išvykimo, grįžimo vieta, data ir laikas bei lankomos vietos ar šalys, nurodant datas;
+2) apgyvendinimo tipą, objekto vietą, kategoriją ar patogumų lygį ir pagrindinius ypatumus bei klasę (pagal atitinkamas priimančiosios valstybės taisykles);
 
 
 
 
-4) kelionėje teikiamos turizmo paslaugos ir jų charakteristikos bei specialūs vartotojo pageidavimai;
+3) maitinimą;
 
 
 
 
-5) kelionės paslaugų užmokestis (jo keitimas ir grąžinimas), mokėjimo būdai ir terminai;
+4) maršrutą;
 
 
 
 
-6) sutarties sąlygų keitimo ir sutarties nutraukimo atvejai, sveikatos draudimo tvarka, finansinės garantijos;
+5) valiutų keitimo sąlygas ir tvarką;
 
 
 
 
-7) sutarties numeris ir sudarymo data, pretenzijų pareiškimo terminas.
+6) valstybių, į kurias vykstama, pasienio formalumus ir vizų gavimo tvarką bei laiką, per kurį turi jas gauti;
+
+
+
+
+7) valstybių, į kurias vykstama, epidemiologinę būklę, imunoprofilaktikos reikalavimus, kuriuos reikia atlikti prieš vykstant į kelionę, taip pat sveikatos draudimo įforminimo tvarką;
+
+
+
+
+8) turizmo paslaugų teikimo sutarties įforminimo tvarką bei sąlygas;
+
+
+
+
+9) visą kelionės kainą, kainos dalį, kuri turi būti sumokėta iš anksto, bei likusios sumos sumokėjimo grafiką;
+
+
+
+
+10) kelionei organizuoti reikalingą mažiausią asmenų skaičių ir galutinį terminą informuoti turistą apie kelionės atšaukimą, nesurinkus nustatyto mažiausio asmenų skaičiaus.
 
 
 
 
 
 
-4. Tipinę turistinės kelionės sutarties formą tvirtina Valstybinis turizmo departamentas.
+3. Kelionės organizatorius atsako už kelionių prospektuose, kataloguose ar kitoje turistinę kelionę aprašančioje medžiagoje pateiktą informaciją, išskyrus tuos atvejus, kai:
+
+
+1) turistui iki sutarties sudarymo buvo pranešta apie tokios informacijos pasikeitimus, o kelionių prospekte, kataloge ar kitoje turistinę kelionę aprašančioje medžiagoje buvo aiškiai numatyta pakeitimų galimybė;
+
+
+
+
+2) pakeitimai daromi po sutarties sudarymo abiejų sutarties šalių rašytiniu susitarimu.
+
+
+
+
+
+
+4. Prieš turizmo paslaugų teikimo sutarties pasirašymą kelionės organizatorius ir (ar) kelionių agentūra privalo įteikti turistui rašytinį dokumentą, kuriame būtų išsami informacija, nurodyta šio straipsnio 2 dalyje, jei ši informacija turistui nebuvo žinoma iš jam pateikto kelionės prospekto, katalogo, kitos turistinę kelionę aprašančios medžiagos arba jei ta informacija nėra nurodyta sutartyje ar jos priede. 
+
+
+
+
+5. Prieš išvykstant į kelionę, kelionės organizatorius ir (ar) kelionių agentūra privalo rašytine forma turistui laiku pateikti:
+
+
+1) informaciją apie tarpines stotis ir sustojimo laiką, buvimo vietą bei informaciją apie keleivio vietą transporto priemonėje;
+
+
+
+
+2) kelionės organizatoriaus ir (ar) kelionių agentūros atstovo pavardę, adresą ir telefono numerį ar vietinių agentūrų, į kurias turistas galėtų kreiptis pagalbos, adresus ir telefono numerius. Jei tokių atstovų ar agentūrų nėra, turistui privaloma nurodyti telefono numerį, kuriuo jis galėtų skambinti nenumatytu atveju, ar informaciją, kuri jam padėtų susisiekti su kelionės organizatoriumi ir (ar) kelionių agentūra;
+
+
+
+
+3) informaciją apie galimybę sudaryti draudimo sutartis, kad būtų padengtos turisto patirtos išlaidos dėl galimo kelionės atšaukimo, dėl aplinkybių, už kurias turistas atsako, arba dėl suteiktos pagalbos, įskaitant repatriaciją, nelaimingo atsitikimo ar ligos atveju.
+
+
+
+
+
+
+6. Jei į turistinę kelionę vyksta nepilnamečiai, kelionės organizatorius turi pateikti jų tėvams ar globėjams informaciją, leisiančią tiesiogiai susisiekti su vaiku ar atsakingu asmeniu vaiko buvimo vietoje.
+
+
+
+
+7. Jei turistų grupę sudaro daugiau kaip 15 vaikų iki 16 metų arba daugiau kaip 7 neįgalūs vaikai, tai kelionės organizatorius turi garantuoti, kad, be kelionės vadovo, šią turistų grupę lydėtų pilnametis asmuo.
+
+
+
+
+8. Kelionės organizatorius ir (ar) kelionių agentūra, kuri yra sutarties šalis, yra atsakingi turistui už sutartyje numatytų įsipareigojimų tinkamą vykdymą, nepaisant to, ar tuos įsipareigojimus turi įvykdyti kelionės organizatorius ir (ar) kelionių agentūra, ar kiti paslaugų teikėjai, kurių pagalba kelionės organizatorius arba kelionių agentūra naudojosi.
  
 
 
@@ -432,63 +420,65 @@ KELIONĖS ORGANIZAVIMO PASLAUGOS
 
 
 
-8 straipsnis. Turistinės kelionės paslaugų vartotojo teisės ir pareigos
+7 straipsnis. Kelionės organizatoriaus prievolių įvykdymo užtikrinimas
 
 
-1. Turistinės kelionės paslaugų vartotojo teises ir pareigas nustato šis įstatymas, Vartotojų teisių gynimo įstatymas, kiti įstatymai ir turistinės kelionės sutartis.
+1. Kelionės organizatorius, siūlantis parduoti organizuotą turistinę kelionę, turi užtikrinti:
 
 
-
-
-2. Turistinės kelionės paslaugų vartotojas turi laiku pateikti reikiamus dokumentus, laiku sumokėti už kelionės sutartyje numatytas paslaugas ir informuoti dėl sutarties nutraukimo (keitimo), laikytis valstybės sienos perėjimo ir muitinės procedūrų reikalavimų, saugoti turistinės kelionės sutartį iki kelionės pabaigos.
+1) turisto grąžinimą į pradinę turisto išvykimo vietą ir pinigų, turisto sumokėtų už organizuotą turistinę kelionę, grąžinimą turistui proporcingai nesuteiktų paslaugų vertei, jei prasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionės organizatorius negalės toliau vykdyti turizmo paslaugų teikimo sutarties;
 
 
 
 
-3. Turistinės kelionės paslaugų vartotojas turi teisę perleisti turistinę kelionę kitam asmeniui, sudarydamas naują sutartį, jeigu kelionę perimantis asmuo sutinka su kelionės sąlygomis ir jeigu paslaugos teikėjui padengiamos papildomos išlaidos, susijusios su tokiu perdavimu.
- 
- 
- 
+2) pinigų, turisto sumokėtų už organizuotą turistinę kelionę, grąžinimą turistui, jei dar neprasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionės organizatorius negalės pradėti vykdyti turizmo paslaugų teikimo sutarties.
 
 
 
 
 
 
-9 straipsnis. Įmonės, teikiančios kelionės organizavimo paslaugas, teisės ir pareigos
-
-
-1. Kelionės organizavimo paslaugas teikiančios įmonės teises ir pareigas nustato šis įstatymas, Vartotojų teisių gynimo įstatymas, kiti įstatymai ir teisės aktai, turistinės kelionės sutartis. 
+2. Tokios kelionės organizatoriaus prievolės turi būti užtikrintos laidavimo draudimu, kai kiekvienas kelionių organizatorius individualiai pasirašo laidavimo draudimo sutartį su draudimo įmone (draudiku), pagal kurią draudikas įsipareigoja laidavimo draudimo sutartyje nustatyta suma kompensuoti trečiojo asmens nuostolius, atsiradusius dėl draudėjo prievolių neįvykdymo.
 
 
 
 
-2. Kelionės organizavimo paslaugų teikėjas, sudarydamas turistinės kelionės sutartį, turi pateikti turistinės kelionės paslaugų vartotojui visą informaciją apie kelionės maršrutą, teikiamas kelionėje paslaugas ir įsipareigojimus, valiutų keitimą, dokumentų ir turistinės kelionės sutarties įforminimą bei vykdymą, valstybių sienų perėjimo tvarką, prireikus lankomos vietovės epidemiologinę būklę, profilaktikos priemones ir vakcinaciją.
+3. Kelionės organizatoriaus prievolių, atsirandančių šio straipsnio 1 dalyje numatytais atvejais, įvykdymo užtikrinimo draudimo suma yra: 
+
+
+1) nuo 100 tūkst. litų iki 200 tūkst. litų, jei kelionės organizatoriaus metinių įplaukų dydis (skaičiuojant pagal praėjusius metus) už suteiktas turizmo paslaugas pagal visas turizmo paslaugų teikimo sutartis, sudarytas kelionėms į užsienį, neviršija 4 mln. litų;
 
 
 
 
-3. Jeigu prieš kelionę viena iš turistinės kelionės sutartyje numatytų paslaugų negali būti suteikta dėl trečiųjų asmenų įsipareigojimų nevykdymo ar dėl nenumatytų aplinkybių arba keičiasi paslaugos kaina, kelionės organizavimo paslaugų teikėjas privalo nedelsdamas apie tai informuoti turistinės kelionės paslaugų vartotoją ir pateikti pasiūlymus dėl sutarties keitimo ar nutraukimo ir įmokų grąžinimo arba alternatyvios kelionės organizavimo.
+2) arba 5 procentai nuo kelionės organizatoriaus metinių įplaukų dydžio (skaičiuojant pagal praėjusius metus) už suteiktas turizmo paslaugas pagal visas turizmo paslaugų teikimo sutartis, sudarytas kelionėms į užsienį, kai metinių įplaukų dydis už šias sutartis viršija 4 mln. litų.
 
 
 
 
-4. Jeigu kelionės metu paaiškėja, kad turistinės kelionės sutartyje numatytų dalies paslaugų negalima suteikti, kelionės organizavimo paslaugų teikėjas turi pasiūlyti kitų paslaugų variantų. Jeigu siūlomų (ar suteiktų) paslaugų kokybė skiriasi nuo aptartų turistinės kelionės sutartyje, turistinės kelionės paslaugų vartotojui sumokamas kainų skirtumas, o jeigu vartotojas nesutinka, kelionės organizavimo paslaugų teikėjas savo sąskaita suteikia vartotojui transportą grįžti į turistinės kelionės sutartyje numatytą išvykimo (grįžimo) vietą. Kelionės metu vartotojo nuostolius dėl kelionės sutarties nevykdymo, patirtus dėl paslaugų teikėjo kaltės, atlygina kelionės organizavimo paslaugų teikėjas.
+
+
+4. Juridinio asmens, kuris pirmą kartą arba po vienerių metų ar ilgesnio laikotarpio vėl pradeda teikti kelionės organizavimo paslaugas, prievolių, atsirandančių šio straipsnio 1 dalyje numatytais atvejais, įvykdymo užtikrinimo draudimo suma apskaičiuojama pagal planuojamas kelionės organizatoriaus metines įplaukas (verslo planą). 
 
 
 
 
-5. Jeigu kelionės organizavimo paslaugų teikėjas nutraukia sutartį, kai nėra turistinės kelionės paslaugų vartotojo kaltės, vartotojui grąžinamos įmokos ir atlyginami nuostoliai.
+5. Kelionės organizatoriaus prievolių įvykdymo užtikrinimo draudimo taisykles tvirtina Vyriausybė arba jos įgaliota institucija.
 
 
 
 
-6. Kelionės organizavimo paslaugų teikėjas negali keisti išvykimo laiko likus iki kelionės pradžios 20 dienų, išskyrus atvejus, kai nesurenkamas minimalus turistų skaičius, arba esant nenumatytoms aplinkybėms. Šiais atvejais kelionės organizavimo paslaugų teikėjas privalo nedelsdamas apie tai informuoti turistinės kelionės paslaugų vartotoją ir pateikti pasiūlymus dėl sutarties keitimo ar nutraukimo ir įmokų grąžinimo arba alternatyvios kelionės organizavimo. Likus iki kelionės pradžios 20 dienų, įmonė negali didinti kelionės sutartyje nustatytos kainos, išskyrus atvejus, kai kinta transporto išlaidos dėl kuro ar mokesčių oro ar jūrų uostuose, taip pat jei keičiasi valiutų keitimo kursai.
+6. Kelionės organizatorius Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo Vyriausybės įgaliotai institucijai pateikti informaciją apie šio straipsnio 1 dalyje nurodytų prievolių užtikrinimą ir turėti galiojantį kelionės organizatoriaus pažymėjimą.
 
 
 
 
-7. Turistinės kelionės paslaugų vartotojui, savo noru nutraukusiam kelionės sutartį likus mažiau kaip 20 dienų iki kelionės pradžios, gali būti suteikiama alternatyvi kelionė abipusiškai suderintu laiku, sąlygomis ir įforminus naują kelionės sutartį arba grąžinama įmokų dalis pagal kelionės sutartyje numatytas sąlygas.
+7. Juridinio asmens prievolės, atsirandančios šio straipsnio 1 dalyje numatytais atvejais, papildomai gali būti užtikrintos Kelionių garantijų fondo suteikiama garantija.
+
+
+
+
+8. Kelionių garantijų fondą savo kasmetiniais įnašais kaupia kelionių organizatoriai savanoriškumo pagrindu.
  
 
 
@@ -503,30 +493,25 @@ TURIZMO INFORMACIJOS PASLAUGOS
  
 
 
-10 straipsnis. Gidų ir kelionių vadovų paslaugos
+8 straipsnis. Gido ir kelionių vadovo paslaugos
 
 
-1. Ekskursijų metu informacijos paslaugas teikia gidai.
-
-
-
-
-2. Gidai savo veiklą Lietuvoje vykdo būdami susiję darbo santykiais ar sutartimis su Lietuvoje įregistruotomis įmonėmis, įstaigomis ir organizacijomis ar įregistravę įmonę.
+1. Ekskursijos metu informacijos paslaugas teikia gidas.
 
 
 
 
-3. Kelionių vadovas kontroliuoja kelionės sutarties vykdymą ir kelionės metu informuoja kelionės dalyvius apie kelionės maršruto eigą, reikalavimus, susijusius su vietovės ar objekto lankymu, taip pat supažindina su paslaugų teikimo tvarka.
+2. Kelionės metu kelionės organizatoriui atstovauja kelionių vadovas.
 
 
 
 
-4. Kelionių vadovas savo veiklą vykdo būdamas susijęs darbo santykiais ar kitokiomis sutartimis su kelionių organizavimo paslaugas teikiančiomis įmonėmis ir atstovauja šioms įmonėms kelionės metu.
+3. Gidas ir kelionių vadovas paslaugas teikia tik turėdami jų kvalifikaciją patvirtinantį pažymėjimą. Gidų kvalifikacija vertinama suteikiant antrą, pirmą ar aukščiausią kategoriją. Kvalifikacinius reikalavimus gido ir kelionių vadovo pažymėjimui gauti, taip pat pažymėjimo išdavimo tvarką nustato Valstybinis turizmo departamentas. 
 
 
 
 
-5. Gidas ir kelionių vadovas paslaugas teikia tik turėdami kvalifikaciją patvirtinantį pažymėjimą (sertifikatą). Kvalifikacinius reikalavimus gido ir kelionių vadovo kategorijai ir pažymėjimui (sertifikatui) gauti, taip pat pažymėjimo (sertifikato) suteikimo (panaikinimo) tvarką nustato Vyriausybė arba jos įgaliota institucija. Pažymėjimą (sertifikatą) išduoda Valstybinis turizmo departamentas, įvertinęs gidus ir kelionių vadovus vienijančios asociacijos rekomendacijas.
+4. Kvalifikaciniai reikalavimai netaikomi užsienio valstybių kelionių vadovams, lydintiems turistus iš kitų šalių. Kvalifikaciniai reikalavimai taip pat netaikomi užsienio valstybių gidams, lydintiems ir vedantiems ekskursijas kitų šalių turistams, išskyrus atvejus, kai tai susiję su atskirų muziejų ir kultūros paveldo objektų lankymu. Muziejų ir kultūros paveldo objektų, kuriuose galimos ekskursijos tik su gidu, turinčiu kvalifikaciją patvirtinantį pažymėjimą, sąrašą nustato Vyriausybė arba jos įgaliota institucija. 
  
 
 
@@ -534,55 +519,45 @@ TURIZMO INFORMACIJOS PASLAUGOS
 
 
 
-11 straipsnis. Turizmo informacijos centro veikla
+9 straipsnis. Turizmo informacijos centro veikla
 
 
-1. Turizmo informacijos centras steigiamas ir veikia kaip įmonė ar viešoji įstaiga.
-
-
-
-
-2. Turizmo informacijos centras:
-
-
-1) renka, kaupia ir teikia informaciją apie turizmo paslaugas, lankomus objektus ir vietoves;
+1. Turizmo informacijos centrai gali būti steigiami ir veikti kaip įmonės, biudžetinės ar viešosios įstaigos.
 
 
 
 
-2) rengia, leidžia ir platina informacinius ir kartografinius leidinius apie turizmo paslaugas, objektus ir vietoves;
+2. Turizmo informacijos centras, naudojantis turizmo informacijos centro ženklo („i“ raidė žalios spalvos stačiakampyje ir užrašas „Turizmo informacija“, o užsienio valstybėse – „Lietuvos turizmo informacija“), privalo:
+
+
+1) rinkti, kaupti ir nemokamai teikti informaciją apie turizmo paslaugas, lankomus objektus ir vietoves;
 
 
 
 
-3) tvarko duomenų bazes;
-
-
-
-
-4) gali užsakyti ir parduoti apgyvendinimo vietas, kelionės bilietus, turizmo paslaugų paketus, bilietus į teatrus, koncertus, sporto ir kitus renginius;
-
-
-
-
-5) gali parduoti suvenyrus, meno dirbinius, liaudies amatų gaminius;
-
-
-
-
-6) vykdo kitą su turizmo informacijos paslaugų teikimu susijusią veiklą, numatytą savo įstatuose.
+2) rengti, leisti ir platinti informacinius bei kartografinius leidinius apie turizmo paslaugas, objektus ir vietoves.
 
 
 
 
 
 
-3. Turizmo informacijos centro paslaugų teikimo minimalius reikalavimus nustato Valstybinis turizmo departamentas. Turizmo informacijos centro ženklu („i“ raidė žalios spalvos stačiakampyje ir užrašas „Turizmo informacija“, o užsienio šalyse – „Lietuvos turizmo informacija“) turi teisę būti paženklinti centrai, turintys Valstybinio turizmo departamento išduotą pažymėjimą (sertifikatą).
+3. Turizmo informacijos centrai, kurių steigėjai yra savivaldybių ar valstybės institucijos, tvarko ir teikia turizmo paslaugų ir išteklių duomenis Nacionalinei turizmo informacijos sistemai.
 
 
 
 
-4. Turizmo informacijos centrų, kurių steigėjai yra apskričių ir (ar) savivaldybių institucijos, veikla gali būti dotuojama šių institucijų.
+4. Turizmo informacijos centras gali užsakyti (rezervuoti) apgyvendinimo paslaugas, transporto bilietus, bilietus į teatrus, koncertus, sporto ir kitus renginius bei prekiauti suvenyrais.
+
+
+
+
+5. Turizmo informacijos centro ženklo naudojimo tvarką nustato Valstybinis turizmo departamentas.
+
+
+
+
+6. Apskričių ir (ar) savivaldybių institucijų įsteigtų Turizmo informacijos centrų duomenų teikimo Nacionalinei turizmo informacijos sistemai paslaugos yra finansuojamos iš šių institucijų biudžetų.
  
 
 
@@ -597,18 +572,45 @@ TURISTŲ APGYVENDINIMO PASLAUGOS
  
 
 
-12 straipsnis. Turistų apgyvendinimo paslaugų teikėjai
+10 straipsnis. Turistų apgyvendinimo paslaugų teikėjai
 
 
-Turistų apgyvendinimo paslaugas teikia:
+1. Turistų apgyvendinimo paslaugas teisės aktų nustatyta tvarka gali teikti:
 
 
-1) įmonės, teikiančios viešbučio tipo ar specialaus apgyvendinimo paslaugas;
+1) juridiniai asmenys, teikiantys viešbučio tipo ar specialaus apgyvendinimo paslaugas;
 
 
 
 
-2) individualių gyvenamųjų patalpų ir butų savininkai, teikiantys nakvynės ir pusryčių bei kaimo turizmo paslaugas.
+2) fiziniai asmenys, teikiantys nakvynės ir pusryčių ar kaimo turizmo paslaugas;
+
+
+
+
+3) fiziniai ar juridiniai asmenys, teikiantys turistinės stovyklos paslaugas;
+
+
+
+
+4) fiziniai ir juridiniai asmenys, teikiantys apgyvendinimo paslaugas laivuose ir keltuose (toliau – laivuose).
+
+
+
+
+
+
+2. Apgyvendinimo paslaugų teikėjai informuodami turistus privalo pateikti tikslią bei teisingą informaciją apie apgyvendinimo paslaugų teikimo vietą, klasę, teikiamas paslaugas bei apgyvendinimo paslaugų kainą.
+
+
+
+
+3. Apgyvendinimo paslaugų paros kaina, nurodyta užsakymo priėmimo metu, negali būti didinama turisto atsiskaitymo už apgyvendinimo paslaugas metu. 
+
+
+
+
+4. Išankstinį apgyvendinimo paslaugų užsakymą (rezervavimą) apgyvendinimo paslaugų teikėjas turi registruoti. Turisto pageidavimu užsakymas turi būti patvirtintas raštu.
  
 
 
@@ -616,27 +618,60 @@ Turistų apgyvendinimo paslaugas teikia:
 
 
 
+11 straipsnis. Viešbučio tipo apgyvendinimo paslaugos
 
 
-13 straipsnis. Viešbučio tipo apgyvendinimo paslaugos
+1. Viešbučio tipo apgyvendinimo paslaugos yra būtinų apgyvendinimo poreikių tenkinimas ir atitinkamų sąlygų sudarymas tam tikslui skirtame (pritaikytame) pastate, kuriame yra: 
 
 
-1. Viešbučio tipo apgyvendinimo paslaugas teikia viešbučiai, moteliai, svečių namai. Žodžius „viešbutis“, „motelis“, „svečių namai“savo pavadinime, reklamoje ar kitais atvejais gali vartoti tik įmonės, įregistruotos turizmo paslaugų registre ir turinčios pažymėjimą (sertifikatą) teikti apgyvendinimo paslaugas.
-
-
-
-
-2. Viešbutis yra įmonė, kurioje apgyvendinimo paslaugos teikiamos tam tikslui skirtame (pritaikytame) statinyje (ar jų grupėje) su specialiai suplanuotomis patalpomis – kambariais (numeriais) ir bendrojo naudojimo patalpomis, taip pat inžinerine įranga bei reikiama įranga apgyvendinimo paslaugoms teikti. Kambariai (numeriai) turi būti sunumeruoti, turėti bendrą komercinį valdymą. Kambarių turi būti ne mažiau už nustatytą minimalų kiekį.
+1) kambarių (numerių), bendro naudojimo patalpų ir veiklai organizuoti skirtų patalpų;
 
 
 
 
-3. Motelis yra įmonė, teikianti apgyvendinimo paslaugas viešbučio tipo statinyje, turinti geras autotransporto privažiavimo sąlygas ir papildomai teikianti transporto priemonių saugojimo bei aptarnavimo (autoserviso) paslaugas.
+2) ne mažiau už nustatytą mažiausią skaičių specialiai įrengtų kambarių (numerių);
 
 
 
 
-4. Svečių namai yra įmonė, viešbučio tipo statinyje teikianti tik apgyvendinimo paslaugas ir patarnavimus, reikalingus turistams priimti.
+3) teikiamos atitinkamos paslaugos, iš jų turistų užsakymų priėmimas ir aptarnavimas kambariuose (numeriuose), apgyvendinti kambariai kasdien tvarkomi ir valomi;
+
+
+
+
+4) atliekamas bendras kambarių (numerių) komercinis valdymas.
+
+
+
+
+
+
+2. Viešbučio tipo apgyvendinimo paslaugas teikia viešbučiai, moteliai, svečių namai:
+
+
+1) viešbutis turi turėti ne mažiau kaip 10 vienviečių ir (ar) dviviečių kambarių (numerių) su įranga nakvynės, higienos, maitinimo ir poilsio poreikiams tenkinti. Viešbučiai privalo būti klasifikuoti ir turėti klasifikavimo pažymėjimą;
+
+
+
+
+2) motelis turi turėti ne mažiau kaip 5 kambarius (numerius) su įranga nakvynės, higienos, maitinimo ir poilsio poreikiams tenkinti. Motelyje turi būti sudarytos sąlygos transporto priemonėms saugoti ir teikiamos transporto priemonių priežiūros paslaugos. Moteliai privalo būti klasifikuoti ir turėti klasifikavimo pažymėjimą;
+
+
+
+
+3) svečių namai turi turėti ne mažiau kaip 5 kambarius (numerius) su įranga nakvynės ir higienos poreikiams tenkinti. Maitinimo ir poilsio paslaugos gali būti teikiamos specialiai įrengtose bendro naudojimo patalpose. Svečių namai privalo būti klasifikuoti ir turėti klasifikavimo pažymėjimą.
+
+
+
+
+
+
+3. Viešbutis, motelis, svečių namai gali teikti viešbučio tipo apgyvendinimo paslaugas ir savo pavadinime, reklamoje ar kitais atvejais vartoti žodžius „viešbutis“, „motelis“, „svečių namai“ tik kai jie atitinka šio Įstatymo ir kitų teisės aktų reikalavimus ir turi galiojančius dokumentus, patvirtinančius, kad teikiamos atitinkamos paslaugos atitinka visuomenės sveikatos priežiūros teisės aktų reikalavimus.
+
+
+
+
+4. Jei viešbutyje, motelyje, svečių namuose pusryčiai yra neteikiami ar pusryčių kaina neįskaičiuojama į apgyvendinimo paslaugos kainą, apie tai turistas turi būti informuojamas užsakymo priėmimo metu. Turisto pageidavimu pusryčių kaina gali būti nurodoma atskirai. 
  
 
 
@@ -644,80 +679,85 @@ Turistų apgyvendinimo paslaugas teikia:
 
 
 
-14 straipsnis. Viešbučio tipo apgyvendinimo paslaugų minimalūs reikalavimai
+12 straipsnis. Specialaus apgyvendinimo paslaugos
 
 
-1. Įmonė, norinti teikti viešbučio tipo apgyvendinimo paslaugas, registruojama turizmo paslaugų registre. Jai išduodamas pažymėjimas (sertifikatas), jeigu ji atitinka šiuos minimalius reikalavimus:
+1. Specialaus apgyvendinimo paslaugos yra būtinų apgyvendinimo poreikių tenkinimas ir atitinkamų sąlygų sudarymas tam tikslui skirtame (pritaikytame) pastate, jų grupėje ar apgyvendinimui įrengtoje teritorijoje, kuriuose:
 
 
-1) specialiai įrengta mažiausiai 10 vienviečių (mažiausias plotas – 8 kv.m) ir dviviečių (mažiausias plotas – 12 kv.m) kambarių (numerių) viešbutyje ir mažiausiai 5 kambariai (numeriai) motelyje, svečių namuose;
-
-
-
-
-2) kiekviename kambaryje (numeryje) atskirai įrengta vonios (dušo) patalpa (mažiausias plotas – 2,3 kv.m) arba praustuvas, tiekiamas šaltas ir karštas vanduo;
+1) patalpos ir teritorija suplanuotos taip, kad būtų galima teikti apgyvendinimo paslaugas;
 
 
 
 
-3) įrengta mažiausiai dvi bendrojo naudojimo patalpos asmens higienos (sanitarijos) poreikiams dešimčiai apgyvendinimo vietų (jeigu nėra šios įrangos kambariuose (numeriuose);
+2) yra aikštelių apgyvendinti turistus palapinėse ar mobiliuose nameliuose arba yra apgyvendinimui skirtų stacionarių namelių ar apgyvendinimui įrengtų kambarių;
 
 
 
 
-4) įrengta speciali bendrojo naudojimo patalpa maitinimui ir poilsiui arba atskiros patalpos šioms paslaugoms teikti;
+3) bendras komercinis apgyvendinimo vienetų (aikštelių, namelių, patalpų ar kambarių) valdymas; 
 
 
 
 
-5) įrengta virtuvė maistui ruošti ir tiekti;
+4) yra bendro naudojimo patalpų poilsio ar specialioms paslaugoms teikti; 
 
 
 
 
-6) įrengta priėmimo patalpa su telefono ryšiu, informacine ir registravimo apskaitos sistema;
-
-
-
-
-7) įrengti sandėliai ir atskira patalpa darbuotojams;
-
-
-
-
-8) viešbutyje sudarytos sąlygos teikti maitinimo paslaugas (užsakymus) kambariuose (numeriuose);
-
-
-
-
-9) kambariai (numeriai) kas dieną tvarkomi ir valomi;
-
-
-
-
-10) patalpos atitinka bendro saugumo, priešgaisrinio saugumo ir higienos normų reikalavimus;
-
-
-
-
-11) darbuotojai turi einamas pareigas atitinkantį kvalifikacinį pasirengimą.
+5) yra įranga maitinimo ir higienos poreikiams tenkinti.
 
 
 
 
 
 
-2. Pusryčių paslauga yra paslauga, kurios kaina įskaičiuojama į bendrą apgyvendinimo paslaugos kainą. Vartotojo pageidavimu pusryčių kaina gali būti nurodoma atskirai.
+2. Specialaus apgyvendinimo paslaugas teikia kurortų sanatorijos, kurortų reabilitacijos centrai, kempingai, turizmo centrai, poilsio namai, jaunimo nakvynės namai bei kiti specialaus apgyvendinimo paslaugų teikėjai: 
+
+
+1) kurortų sanatorija – apgyvendinimo paslaugoms teikti skirtas (pritaikytas) pastatas ar jų grupė, kuriame taip pat teikiamos gydymo, antirecidyvinės, sveikatą grąžinančios, reabilitacinės, fizinės kultūros, dietinio maitinimo ir kitos paslaugos, tam tikslui naudojant gamtinius gydomuosius ir rekreacinius išteklius. Kurortų sanatorija privalo turėti Sveikatos apsaugos ministerijos išduotą licenciją teikti medicinines reabilitacijos paslaugas;
 
 
 
 
-3. Apgyvendinimo paslaugų kaina negali būti didinama vartotojo apgyvendinimo metu arba jei kaina buvo deklaruota informacijos šaltiniuose ir nurodytas jos galiojimo laikotarpis, arba jei nėra galiojimo laikotarpio, – metus nuo šios informacijos paskelbimo.
+2) kurortų reabilitacijos centras – apgyvendinimo paslaugoms teikti skirtas (pritaikytas) pastatas ar jų grupė, kur teikiamos sveikatingumo, fizinės kultūros, maitinimo ir kitos reabilitacijos paslaugos, tam tikslui naudojant rekreacinius išteklius;
 
 
 
 
-4. Patalpų įrengimo reikalavimus ir pažymėjimo (sertifikato) formą bei išdavimo (panaikinimo) tvarką nustato Viešbučio tipo apgyvendinimo paslaugų teikimo taisyklės. Šias taisykles tvirtina Vyriausybė arba jos įgaliota institucija.
+3) kempingas – apgyvendinimo paslaugoms teikti skirta, suplanuota aikštelėmis ir įrengta teritorija, kurioje turistai apgyvendinami palapinėse, mobiliuose ar stacionariuose nameliuose, ir yra sudarytos sąlygos transporto priemonėms statyti. Kempingai privalo būti klasifikuoti ir turėti klasifikavimo pažymėjimą;
+
+
+
+
+4) turizmo centras – apgyvendinimui bei poilsiui pritaikyti (skirti) statiniai, kuriuose turistai apgyvendinami atskiruose nameliuose ar kambariuose, o maitinimo, higienos ir kitos paslaugos teikiamos centralizuotai paslaugų komplekse. Turizmo centras turi turėti įrangą aktyviam poilsiui bei turistiniams žygiams organizuoti; 
+
+
+
+
+5) poilsio namai – pastatas ar pastatai, kuriuose kambariai (ar nameliai) yra pritaikyti apgyvendinimui ir poilsiui organizuoti šeimoms ar pavieniams asmenims. Poilsio namai privalo būti klasifikuoti ir turėti klasifikavimo pažymėjimą; 
+
+
+
+
+6) jaunimo nakvynės namai – apgyvendinimui pritaikytos patalpos bei sudarytos sąlygos tenkinti nakvynės ir higienos poreikius. Jaunimo nakvynės namai gali būti steigiami ir veikti kaip įmonė ar viešoji įstaiga, organizuojanti keitimąsi jaunaisiais turistais ir propaguojanti krašto pažinimą.
+
+
+
+
+
+
+3. Sanatorija, reabilitacijos centras, kempingas, turizmo centras, poilsio namai, jaunimo nakvynės namai gali teikti specialaus apgyvendinimo paslaugas ir savo pavadinime, reklamoje ar kitais atvejais vartoti žodžius „sanatorija“, „reabilitacijos centras“, „kempingas“, „turizmo centras“, „poilsio namai“, „jaunimo nakvynės namai“ tik kai jie atitinka šio Įstatymo ir kitų teisės aktų reikalavimus ir turi galiojančius dokumentus, patvirtinančius, kad teikiamos atitinkamos paslaugos atitinka visuomenės sveikatos priežiūros teisės aktų reikalavimus.
+
+
+
+
+4. Be šio straipsnio 2 dalyje nurodytų specialaus apgyvendinimo paslaugų, gali būti teikiamos specialaus apgyvendinimo paslaugos keleivių vežimui skirtuose arba plaukiojimui nenaudojamuose laivuose, konferencijų centruose, medžioklės nameliuose ir kitos specialaus apgyvendinimo paslaugos. Šių paslaugų teikimui yra taikomi bendrieji reikalavimai, nustatyti šio straipsnio 1 dalyje, įskaitant patalpų pritaikymą apgyvendinimo paslaugoms teikti, maitinimo bei higienos poreikiams tenkinti.
+
+
+
+
+5. Apgyvendinimo paslaugos laivuose gali būti teikiamos, jeigu laivo išplanavimas ir turimos patalpos atitinka higienos reikalavimus ir laivai yra įregistruoti Lietuvos Respublikos jūrų laivų registre ar Lietuvos Respublikos vidaus vandenų laivų registre. Minimalus kajučių skaičius nenustatomas.
  
 
 
@@ -725,50 +765,45 @@ Turistų apgyvendinimo paslaugas teikia:
 
 
 
-15 straipsnis. Specialaus apgyvendinimo paslaugos
+13 straipsnis. Apgyvendinimo paslaugų klasifikavimas
 
 
-1. Specialaus apgyvendinimo paslaugas teikia sanatorijos, sveikatingumo kompleksai, kempingai, turizmo bazės, poilsio namai, nakvynės paslaugų namai, jaunimo nakvynės namai. Žodžius „sanatorija“, „sveikatingumo kompleksas“, „kempingas“, „turizmo bazė“, „poilsio namai“, „nakvynės paslaugų namai“, „jaunimo nakvynės namai“savo pavadinime, reklamoje ar kitais atvejais gali vartoti tik juridiniai ar fiziniai asmenys, įregistruoti turizmo paslaugų registre ir turintys pažymėjimą (sertifikatą) teikti apgyvendinimo paslaugas.
+1. Siekiant informuoti turistus (paslaugų vartotojus) apie apgyvendinimo paslaugų kokybę bei sudaryti galimybę pasirinkti ir gauti pageidaujamo lygio paslaugas, apgyvendinimo paslaugas teikiantys viešbučiai, moteliai, svečių namai, kempingai ir poilsio namai yra klasifikuojami:
 
 
-
-
-2. Specialaus apgyvendinimo paslaugos teikiamos tam tikslui skirtame statinyje, statinių grupėje arba specialiai įrengtoje teritorijoje, kurie yra specialiai suplanuoti, turi inžinerinę įrangą bei reikiamą įrangą apgyvendinimo paslaugoms kambariuose (numeriuose), patalpose (numeriuose) ar specialiose aikštelėse teikti. Turistų higienos, poilsio bei kitiems poreikiams tenkinti ir specialioms paslaugoms teikti turi būti įrengiamos bendrojo naudojimo patalpos. Kambariai (numeriai), apgyvendinimo patalpos ar aikštelės turi būti sunumeruoti ir turėti bendrą komercinį valdymą.
-
-
-
-
-3. Sanatorija yra įmonė, naudojanti specialius rekreacinius išteklius, statinius ir įrangą, kurie leidžia teikti apgyvendinimo paslaugas kambariuose (numeriuose), taip pat specialaus maitinimo, fizinio parengimo, sveikatingumo procedūrų ir kitas paslaugas. Šiuo įstatymu nereglamentuojamos sanatorinės-kurortinės įstaigos, akredituotos teikti nustatyto sąrašo medicinines reabilitacijos paslaugas.
+1) viešbučiai, moteliai – 5 žvaigždučių klasifikavimo sistema, žemiausiai klasei suteikiant vieną žvaigždutę. Klasifikuojant turi būti įvertinama statinių architektūra, jų suplanavimas, kambarių (numerių) ir bendrųjų patalpų įrengimas bei įrangos kokybė, priėmimo sąlygos, teikiamų paslaugų pasirinkimas ir kokybė, darbuotojų profesinis pasirengimas, aptarnaujančių darbuotojų skaičiaus ir apgyvendinimo vietų skaičiaus santykis bei kiti kriterijai, patvirtinantys bendrą teikiamų apgyvendinimo paslaugų kokybę;
 
 
 
 
-4. Sveikatingumo kompleksas yra įmonė, naudojanti rekreacinės paskirties žemės sklypą bei statinius ir įrangą, kurie leidžia teikti apgyvendinimo paslaugas kambariuose (numeriuose) ar patalpose (numeriuose), taip pat specialias maitinimo, fizinio parengimo ir kitas socialinės reabilitacijos paslaugas.
+2) svečių namai – 4 žvaigždučių klasifikavimo sistema, žemiausiai klasei suteikiant vieną žvaigždutę. Klasifikuojant turi būti įvertinamas patalpų suplanavimas, kambarių (numerių) ir bendrųjų patalpų įrengimas bei įrangos kokybė, priėmimo sąlygos, teikiamų paslaugų pasirinkimas ir kokybė, darbuotojų profesinis pasirengimas bei kiti kriterijai, patvirtinantys bendrą teikiamų apgyvendinimo paslaugų kokybę;
 
 
 
 
-5. Kempingas yra įmonė, naudojanti rekreacinės paskirties žemės sklypą bei statinius, kurie leidžia teikti apgyvendinimo paslaugas patalpose (numeriuose) ar įrengtose aikštelėse palapinėms bei karavanams (su transporto priemonėmis) statyti. Šioje įmonėje turi būti sudarytos sąlygos maitinimo, higienos ir poilsio poreikiams tenkinti. 
+3) kempingai – 4 žvaigždučių klasifikavimo sistema, žemiausiai klasei suteikiant vieną žvaigždutę. Klasifikuojant turi būti įvertinamas kempingo teritorijos suplanavimas, apgyvendinimo sąlygos ir įrangos kokybė, priėmimo sąlygos, teikiamų paslaugų pasirinkimas ir kokybė bei kiti kriterijai, patvirtinantys bendrą teikiamų apgyvendinimo paslaugų kokybę;
 
 
 
 
-6. Turizmo bazė yra įmonė, naudojanti rekreacinės paskirties žemės sklypą bei statinius, kuriuose turistai apgyvendinami atskirose patalpose (numeriuose), o maitinimo, higienos ir kitos paslaugos teikiamos centralizuotai paslaugų komplekse. Turizmo bazė turi turėti įrangą aktyviam poilsiui organizuoti.
+4) poilsio namai – 4 žvaigždučių klasifikavimo sistema, žemiausiai klasei suteikiant vieną žvaigždutę. Klasifikuojant turi būti įvertinamas patalpų suplanavimas, kambarių (numerių) ir bendrųjų patalpų įrengimas bei įrangos kokybė, priėmimo sąlygos, teikiamų paslaugų pasirinkimas ir kokybė bei kiti kriterijai, patvirtinantys bendrą teikiamų apgyvendinimo ir poilsio paslaugų kokybę.
 
 
 
 
-7. Poilsio namai yra įmonė, naudojanti rekreacinės paskirties žemės sklypą bei statinius, kuriuose kambariai (numeriai) yra pritaikyti nakvynei ir poilsiui pavieniams žmonėms ar šeimoms. Šioje įmonėje turi būti sudarytos sąlygos maitinimo, higienos ir poilsio poreikiams tenkinti.
+
+
+2. Apgyvendinimo paslaugų klasifikavimo reikalavimus, kuriuose nustatomi teikiamų paslaugų ir įrangos vertinimo reikalavimai, klasės suteikimo, panaikinimo, kontrolės tvarka bei pažymėjimo forma, tvirtina Valstybinis turizmo departamentas, įvertinęs šias paslaugas teikiančių, įmones vienijančių asociacijų rekomendacijas. 
 
 
 
 
-8. Nakvynės paslaugų namai yra įmonė, teikianti apgyvendinimo paslaugas nakvynės ir higienos poreikiams tenkinti.
+3. Viešbučius, motelius, svečių namus, kempingus ir poilsio namus klasifikuoja Apgyvendinimo paslaugų klasifikavimo komisija, kurią sudaro turizmo verslo asociacijų, Valstybinio turizmo departamento bei savivaldybių institucijų atstovai. Apgyvendinimo paslaugų klasifikavimo komisijos nuostatus tvirtina ir šios komisijos priežiūrą vykdo Valstybinis turizmo departamentas.
 
 
 
 
-9. Jaunimo nakvynės namai yra įmonė arba viešoji įstaiga, teikianti apgyvendinimo paslaugas, organizuojanti keitimąsi jaunaisiais turistais ir propaguojanti krašto pažinimą.
+4. Dokumentas, patvirtinantis viešbučio, motelio, svečių namų, kempingo, poilsio namų įvertinimą (suteiktų žvaigždučių skaičių), privalo būti priėmimo patalpoje, turistams matomoje vietoje.
  
 
 
@@ -776,20 +811,35 @@ Turistų apgyvendinimo paslaugas teikia:
 
 
 
-16 straipsnis. Specialaus apgyvendinimo paslaugų minimalūs reikalavimai
+14 straipsnis. Kaimo turizmo paslauga
 
 
-1. Įmonė, teikianti specialaus apgyvendinimo paslaugas, registruojama turizmo paslaugų registre ir jai išduodamas pažymėjimas (sertifikatas), jeigu ji tenkina šių paslaugų minimalius reikalavimus.
+1. Kaimo turizmo paslauga – kaimo gyvenamojoje vietovėje ar mieste, kuriame gyvena ne daugiau kaip 3000 gyventojų, ūkininko sodyboje ar individualiame gyvenamajame pastate teikiama turizmo paslauga, kurios teikėjai privalo:
 
 
-
-
-2. Sanatorijos, sveikatingumo komplekso, kempingo, turizmo bazės, poilsio namų, nakvynės paslaugų namų, jaunimo nakvynės namų įrengimo ir paslaugų teikimo minimalius reikalavimus, jų priežiūros bei pažymėjimo (sertifikato) išdavimo (panaikinimo) tvarką nustato Specialaus apgyvendinimo paslaugų teikimo taisyklės. Šias taisykles tvirtina Vyriausybė arba jos įgaliota institucija. Specialaus apgyvendinimo paslaugų teikimo taisyklėse, vadovaujantis šiuo įstatymu ir atsižvelgiant į įmonės teikiamų paslaugų pobūdį, nustatomi teritorijos, saugumo, patalpų, įrangos, apgyvendinimo, specialių paslaugų, higienos normų, darbuotojų kvalifikacijos ir kontrolės reikalavimai ir būtinos sąlygos.
+1) turėti turistams apgyvendinti pritaikytą sodybą ar atskirus pastatus, kuriuose apgyvendinimui skirtų kambarių (numerių) yra ne daugiau kaip 20;
 
 
 
 
-3. Pažymėjimas (sertifikatas) verstis jaunimo nakvynės namų veikla išduodamas įvertinus jaunimo nakvynės namus vienijančios organizacijos rekomendacijas. Jaunimo nakvynės namų ženklą (stilizuotas namelis ir eglutė) galima naudoti tik turint viešosios įstaigos Lietuvos jaunimo nakvynės namai sutikimą.
+2) sudaryti kaimo turizmo paslaugos teikimo reikalavimus atitinkančias sąlygas.
+
+
+
+
+
+
+2. Fiziniai asmenys gali teikti kaimo turizmo paslaugas tik turėdami savivaldybės išduotą pažymėjimą, patvirtinantį, kad kaimo turizmo paslaugos teikimo reikalavimai įvykdyti.
+
+
+
+
+3. Kaimo turizmo paslaugų kūrimas ir plėtojimas gali būti remiamas specialiosioms ir kitoms programoms vykdyti skirtomis lėšomis įstatymų ir kitų teisės aktų nustatyta tvarka, prioritetą teikiant kaimų architektūrinėms tradicijoms išlaikyti.
+
+
+
+
+4. Kaimo turizmo paslaugos teikimo reikalavimus nustato Vyriausybė arba jos įgaliota institucija.
  
 
 
@@ -797,25 +847,30 @@ Turistų apgyvendinimo paslaugas teikia:
 
 
 
-17 straipsnis. Apgyvendinimo paslaugų klasifikavimas
+15 straipsnis. Nakvynės ir pusryčių paslauga 
 
 
-1. Norint informuoti paslaugų vartotojus apie paslaugų kokybę, sudaryti galimybę rinktis ir gauti pageidaujamo lygio paslaugas, apgyvendinimo paslaugas teikiančios įmonės skirstomos į:
+1. Nakvynės ir pusryčių paslauga – apgyvendinimo paslauga, įskaitant pusryčius, kurios teikėjai privalo:
 
 
-1) viešbučius ir motelius. Jiems taikoma 5 žvaigždučių klasifikavimo sistema, žemiausiai klasei suteikiant vieną žvaigždutę, taip pat nustatomas poilsio viešbučių tipas. Klasifikuojant viešbučius ir motelius, įvertinamas jų suplanavimas, kambarių (numerių) ir bendrųjų patalpų įrengimas, priėmimo sąlygos, teikiamų paslaugų pasirinkimas ir kokybė, darbuotojų profesinis parengimas ir jų skaičiaus bei apgyvendinimo vietų skaičiaus įmonėje santykis;
-
-
-
-
-2) kempingus. Jiems taikoma 4 žvaigždučių klasifikavimo sistema, žemiausiai klasei suteikiant vieną žvaigždutę. Klasifikuojant kempingus, įvertinamas jų suplanavimas, patalpų ir įrangos būklė, priėmimo sąlygos, paslaugų pasiūla ir kokybė.
+1) turėti turistams apgyvendinti pritaikytas gyvenamąsias patalpas ar atskirus pastatus, kuriuose apgyvendinimui skirtų kambarių (numerių) yra ne daugiau kaip 10;
 
 
 
 
+2) sudaryti nakvynės ir pusryčių paslaugos teikimo reikalavimus atitinkančias sąlygas.
 
 
-2. Apgyvendinimo paslaugų klasifikavimo reikalavimus, klasės suteikimo, panaikinimo, kontrolės ir pažymėjimo (sertifikato) formą bei išdavimo tvarką nustato Valstybinis turizmo departamentas, įvertinęs viešbučius, motelius, kempingus vienijančios asociacijos rekomendacijas. Įvertinimui atlikti sudaroma klasifikavimo komisija, susidedanti iš turizmo valdymo institucijų, turizmo verslo asociacijų, paslaugų priežiūros kontrolės (inspekcijų) atstovų.
+
+
+
+
+2. Fiziniai asmenys gali teikti nakvynės ir pusryčių paslaugas tik turėdami savivaldybės išduotą pažymėjimą, patvirtinantį, kad nakvynės ir pusryčių paslaugos teikimo reikalavimai įvykdyti.
+
+
+
+
+3. Nakvynės ir pusryčių paslaugos teikimo reikalavimus nustato Vyriausybė arba jos įgaliota institucija. 
  
 
 
@@ -823,38 +878,25 @@ Turistų apgyvendinimo paslaugas teikia:
 
 
 
-18 straipsnis. Nakvynės ir pusryčių bei kaimo turizmo paslaugos
+16 straipsnis. Turistinės stovyklos paslauga
 
 
-1. Nakvynės ir pusryčių, taip pat kaimo turizmo paslaugos yra apgyvendinimo paslaugos, kai už nustatytą mokestį ar be mokesčio išnuomojama apgyvendinimui įrengta individuali gyvenamoji patalpa arba atskiri kambariai ir nuomojamų kambarių (numerių) yra ne daugiau kaip 6. Jeigu kambarių (numerių) yra daugiau, taikomi apgyvendinimo paslaugų įmonės reikalavimai. Nakvynės ir pusryčių ar kaimo turizmo paslaugą teikia nuomojamos patalpos savininkas ir jo šeimos nariai.
-
-
-
-
-2. Individualiomis turistų apgyvendinimo patalpomis gali būti individualūs gyvenamieji namai, ūkininkų sodybos ar jų dalys, atskiri butai ar kambariai, vasarnamiai, sodo nameliai.
+1. Turistinės stovyklos paslauga – trumpalaikio poilsio organizavimas ir (ar) nakvynės suteikimas palapinėse ar apgyvendinimui skirtose patalpose rekreacinėse teritorijose, žemės ūkio, miško ar kitos paskirties žemėje įrengtoje stovyklavietėje. Stovyklavietėje privalo būti nustatytos vietos palapinėms statyti ir įranga maistui ruošti, higienos poreikiams tenkinti, atliekoms surinkti bei aktyviam poilsiui organizuoti.
 
 
 
 
-3. Nakvynės ir pusryčių paslaugą miestuose teikia individualių gyvenamųjų patalpų savininkai. Individualių patalpų savininkas turi turėti patentą apgyvendinimo paslaugoms teikti. Patentas, taikant minimalų jo mokesčio dydį, išduodamas įstatymų nustatyta tvarka, kai savininkas pateikia savivaldybės išduotą pažymėjimą (sertifikatą) dėl minimalių reikalavimų įvykdymo.
+2. Rekreacinėse teritorijose, nepaisant to, kokia pagrindinė tikslinė žemės naudojimo paskirtis, gali būti įrengiamos stovyklavietės turistinės stovyklos paslaugoms teikti.
 
 
 
 
-4. Kaimo turizmo paslaugą kaimo vietovėse teikia ūkininkai ar individualių namų savininkai, papildomai sudarydami aktyvaus poilsio galimybes. Ūkininkas ar individualių namų savininkas turi turėti patentą apgyvendinimo paslaugoms teikti. Patentas išduodamas įstatymų nustatyta tvarka, paeiliui penkerius metus nuo patento išdavimo dienos netaikant patento mokesčio ir savininkui pateikus savivaldybės išduotą pažymėjimą (sertifikatą) dėl minimalių reikalavimų įvykdymo.
+3. Fiziniai asmenys gali teikti turistinės stovyklos paslaugas tik turėdami savivaldybės išduotą pažymėjimą, patvirtinantį, kad turistinės stovyklos paslaugos teikimo reikalavimai įvykdyti.
 
 
 
 
-5. Kaimo turizmo paslaugų sukūrimas ir plėtojimas gali būti remiamas specialiųjų ir kitų programų vykdymui skirtomis lėšomis įstatymų ir kitų teisės aktų nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. IX-239, 2001-04-05, Žin., 2001, Nr. 34-1128 (2001-04-20), i. k. 1011010ISTA00IX-239
- 
-
-
-
-
-6. Patalpų individualiems turistams apgyvendinti įrengimo minimalius reikalavimus, pažymėjimo (sertifikato) išdavimo ir paslaugų registravimo tvarką nustato Valstybinis turizmo departamentas.
+4. Turistinės stovyklos paslaugos teikimo reikalavimus nustato Vyriausybė arba jos įgaliota institucija.
  
 
 
@@ -862,32 +904,35 @@ Nr. IX-239, 2001-04-05, Žin., 2001, Nr. 34-1128 (2001-04-20), i. k. 1011010ISTA
 
 
 
-19 straipsnis. Turistinės stovyklos paslaugos
+17 straipsnis. Vandens turizmo paslauga
 
 
-1. Stovykla yra turistinių paslaugų teikimo vieta, kai fizinių ar juridinių asmenų bei personalinių įmonių nuomojama ar kitais pagrindais naudojama teritorija ir joje esanti įranga naudojama turistams priimti, nakvynę suteikiant palapinėse ar apgyvendinti skirtose patalpose, ir turistams sudaroma galimybė užsiimti kokia nors veikla, susijusia su stovyklos organizavimo tikslais.
+1. Vandens turizmo paslauga yra turistų vežimas laivais turistiniais maršrutais, turistų apgyvendinimas laivuose, maitinimo ir kitų paslaugų teikimas laivuose. Šios paslaugos teikėjas privalo:
 
 
-
-
-2. Stovykloje turi būti įranga maistui ruošti ir tiekti arba tiekti (kai maistas pristatomas), taip pat įranga higienos poreikiams tenkinti. Stovyklas registruoja ir jų įrengimą kontroliuoja savivaldybės valdyba, o kai jos nėra, – meras.
- 
+1) turėti nuosavybės teise jam priklausantį arba išsinuomotą laivą, atitinkantį laivų, skirtų keleiviams vežti, reikalavimus;
 
 
 
 
-
-
-20 straipsnis. Maitinimo paslaugos ir minimalūs jų teikimo reikalavimai
-
-
-1. Turistų maitinimo paslaugos gali būti teikiamos kartu su apgyvendinimo paslaugomis ar atskiroje įmonėje, teikiančioje viešojo maitinimo paslaugas.
+2) laivus, naudojamus turistams vežti, įregistruoti Lietuvos Respublikos jūrų laivų registre ar Lietuvos Respublikos vidaus vandenų laivų registre bei turėti Susisiekimo ministerijos išduotą licenciją (leidimą), suteikiančią teisę verstis keleivių vežimu laivais Lietuvos Respublikoje ir tarptautiniais maršrutais;
 
 
 
 
-2. Įmonių, teikiančių viešojo maitinimo paslaugas, minimalius paslaugų teikimo reikalavimus, jų priežiūros ir pažymėjimo (sertifikato) išdavimo (panaikinimo) tvarką nustato Viešojo maitinimo paslaugų taisyklės. Šias taisykles tvirtina Vyriausybė arba jos įgaliota institucija. Viešojo maitinimo paslaugų teikimo taisyklėse pagal įmonės veiklos pobūdį nustatomi įrangos, aptarnavimo, higienos, saugumo, kontrolės bei darbuotojų kvalifikacijos reikalavimai ir būtinos sąlygos.
- 
+3) užtikrinti, kad laivų, kuriuose teikiamos apgyvendinimo paslaugos, išplanavimas ir turimos patalpos atitiktų higienos reikalavimus. Šie laivai gali būti klasifikuojami atsižvelgiant į apgyvendinimo paslaugų kokybę.
+
+
+
+
+
+
+2. Turistinėse trasose įrengiamos prieplaukos arba keleivių įlaipinimo ir išlaipinimo punktai, atitinkantys darbų saugos, sanitarijos, aplinkosaugos reikalavimus ir turintys infrastruktūrą, kuri užtikrintų minimalius turistų poreikius.
+
+
+
+
+3. Vandens turizmo paslaugų teikimo reikalavimus nustato Vyriausybė arba jos įgaliota institucija.
  
 
 
@@ -902,33 +947,48 @@ TURIZMO VALDYMAS
  
 
 
-21 straipsnis. Turizmo politikos formavimas ir turizmo valdymas
+18 straipsnis. Turizmo politikos formavimas ir turizmo valdymas
 
 
-1. Turizmo valstybinio valdymo funkcijas šalyje vykdo Vyriausybė, Valstybinis turizmo departamentas, apskričių viršininkai, vietos savivaldos institucijos.
-
-
-
-
-2. Lietuvos Respublikos Vyriausybė:
-
-
-1) teikia tvirtinti Seimui Nacionalinę turizmo plėtros programą, nustatančią valstybinę turizmo plėtros ir investicijų į turizmą politiką, taip pat tvirtina valstybinės reikšmės teritorines turizmo bei rekreacijos schemas ir projektus;
+1. Turizmo plėtros politikos kryptis nustato Seimas priimdamas įstatymus.
 
 
 
 
-2) vykdo valstybės turizmo programų ir projektų rengimo bei turizmo informacinių centrų veiklos užsienyje finansavimą;
+2. Turizmo valdymo funkcijas šalyje atlieka Vyriausybė, Vyriausybės įgaliota ministerija, Valstybinis turizmo departamentas prie įgaliotos ministerijos, apskričių viršininkai, savivaldybių institucijos.
 
 
 
 
-3) tvirtina Valstybinio turizmo departamento nuostatus, kuriuose nustato Valstybinio turizmo departamento pavaldumą;
+3. Lietuvos Respublikos Vyriausybė:
+
+
+1) tvirtina Nacionalinę turizmo plėtros programą, nustatančią valstybės turizmo plėtros ir investicijų į turizmą prioritetus ir priemones;
 
 
 
 
-4) tvirtina Turizmo tarybos nuostatus.
+2) tvirtina valstybinės reikšmės turizmo, rekreacijos bei kurortų infrastruktūros projektus;
+
+
+
+
+3) steigia Valstybinį turizmo departamentą prie įgaliotos ministerijos (toliau – Valstybinis turizmo departamentas) ir tvirtina šio departamento nuostatus.
+
+
+
+
+
+
+4. Vyriausybės įgaliota ministerija:
+
+
+1) vykdo strateginį šalies turizmo veiklos planavimą;
+
+
+
+
+2) rengia ir teikia pasiūlymus Vyriausybei dėl valstybinės reikšmės turizmo, rekreacijos bei kurortų infrastruktūros projektų įgyvendinimo.
  
 
 
@@ -938,48 +998,48 @@ TURIZMO VALDYMAS
 
 
 
-22 straipsnis. Valstybinis turizmo departamentas
+19 straipsnis. Valstybinis turizmo departamentas
 
 
 Valstybinis turizmo departamentas:
 
 
-1) rengia pasiūlymus Vyriausybei šalies turizmo politikos ir jos įgyvendinimo klausimais;
+1) dalyvauja vykdant strateginį šalies turizmo veiklos planavimą, rengia Nacionalinę turizmo plėtros programą; 
 
 
 
 
-2) vykdo strateginį turizmo veiklos planavimą ir rengia Nacionalinę turizmo plėtros programą, pagal savo kompetenciją derina įstatymų ir kitų teisės aktų projektus, teritorines turizmo plėtros programas, turizmo ir rekreacijos plėtros schemas ir projektus;
+2) rengia valstybinės reikšmės turizmo infrastruktūros plėtros projektus;
 
 
 
 
-3) atlieka turizmo rinkų ir Lietuvos turizmo paslaugų tyrimus, rengia bei platina informaciją apie Lietuvą ir jos turizmo galimybes užsienio bei vidaus turizmo rinkose ir turizmo mugėse;
+3) pagal savo kompetenciją derina įstatymų ir kitų teisės aktų projektus;
 
 
 
 
-4) pagal savo kompetenciją rengia tarptautinių sutarčių projektus ir pasirašo sutartis, atstovauja Lietuvos turizmui tarptautiniuose ir vietiniuose renginiuose, taip pat tvarkydamas reikalus su juridiniais ir fiziniais asmenimis;
+4) pagal savo kompetenciją turizmo ir rekreacijos srityje derina teritorinių turizmo plėtros programų, kurortų plėtros programų, turizmo ir rekreacijos plėtros schemų bei specialiojo teritorijų planavimo dokumentų projektus;
 
 
 
 
-5) koordinuoja ministerijų ir Vyriausybės įstaigų, apskričių viršininkų, vietos savivaldos institucijų, valstybinių parkų valdymo institucijų veiklą turizmo plėtros, informacijos bei turizmo išteklių naudojimo srityje ir teikia minėtoms institucijoms atitinkamus pasiūlymus;
+5) atlieka turizmo rinkų ir Lietuvos turizmo paslaugų tyrimus, rengia Lietuvos turizmo rinkodaros planus ir koordinuoja jų įgyvendinimą, rengia bei platina informaciją apie Lietuvą ir jos turizmo bei kurortų galimybes užsienio bei vidaus turizmo rinkose;
 
 
 
 
-6) įstatymų nustatyta tvarka vykdo valstybės įmonės steigėjo funkcijas, atstovauja valstybei priklausančioms akcijoms akcinėse bendrovėse ir uždarosiose akcinėse bendrovėse;
+6) pagal savo kompetenciją koordinuoja valstybės turizmo politikos įgyvendinimą turizmo ir kurortų veiklos planavimo, turizmo išteklių naudojimo ir informacijos srityje bei įgyvendinant Nacionalinę turizmo plėtros programą;
 
 
 
 
-7) rengia turizmo paslaugas reglamentuojančių teisės aktų projektus, tvirtina turizmo paslaugų teikimo normatyvus ir taisykles, nustatyta tvarka kontroliuoja turizmo teisės aktų vykdymą;
+7) rengia turizmo paslaugas reglamentuojančių teisės aktų projektus, tvirtina turizmo paslaugų teikimo taisykles ir reikalavimus, nustatyta tvarka kontroliuoja turizmo teisės aktų vykdymą;
 
 
 
 
-8) tiria ir prognozuoja turizmo specialistų rengimo reikmes ir organizuoja specialistų perkvalifikavimą;
+8) tiria ir prognozuoja turizmo specialistų rengimo reikmes ir organizuoja specialistų kvalifikacijos kėlimą, vykdo turizmo specialistų kvalifikacijų pripažinimą;
 
 
 
@@ -989,22 +1049,17 @@ Valstybinis turizmo departamentas:
 
 
 
-10) tvarko valstybinį turizmo išteklių registrą bei valstybinį turizmo paslaugų registrą;
+10) steigia viešąsias įstaigas turizmo informacijos ir rinkodaros veiklai plėtoti;
 
 
 
 
-11) kartu su Turizmo taryba rengia Vyriausybei metines apžvalgas apie turizmo būklę šalyje;
+11) steigia ir valdo Nacionalinę turizmo informacijos sistemą;
 
 
 
 
-12) vykdo viešosios įstaigos Lietuvos turizmo fondas steigėjo funkcijas turizmo informacijos ir rinkodaros veiklai plėtoti, bei gautas paramos lėšas naudodamas tiktai tikslinėms turizmo programoms ar priemonėms įgyvendinti;
-
-
-
-
-13) vykdo kitas departamento nuostatuose numatytas funkcijas.
+12) teisės aktų nustatyta tvarka atstovauja kelionės organizavimo paslaugų vartotojų interesams.
  
 
 
@@ -1014,33 +1069,20 @@ Valstybinis turizmo departamentas:
 
 
 
-23 straipsnis. Turizmo taryba
+20 straipsnis. Turizmo taryba
 
 
-1. Prie Valstybinio turizmo departamento sudaroma nuolatinė Turizmo taryba iš 15 narių. Į Turizmo tarybą įeina Valstybinio turizmo departamento direktorius, 6 nariai, atstovaujantys ministerijoms ar Vyriausybės įstaigoms, ir 8 nariai, atstovaujantys turizmo verslo asociacijoms ar organizacijoms bei savaveiksmėms turistinėms organizacijoms.
-
-
-
-
-2. Turizmo tarybos darbo bei Turizmo tarybos pirmininko rinkimo ir narių atstovavimo (delegavimo) tvarką nustato tarybos nuostatai. Turizmo tarybos techninį aprūpinimą vykdo Valstybinis turizmo departamentas.
+1. Turizmo plėtros klausimams nagrinėti ir pasiūlymams teikti valstybės institucijoms, įgyvendinančioms valstybės politiką turizmo srityje bei Nacionalinę turizmo plėtros programą, sudaroma nuolatinė Turizmo taryba iš valstybės institucijų, savivaldybių asociacijos bei savivaldybių atstovų ir turizmo verslo asociacijų ar organizacijų bei savaveiksmių turistinių organizacijų atstovų. Turizmo taryboje ne mažiau kaip pusę narių sudaro turizmo verslo asociacijų ar organizacijų bei savaveiksmių turistinių organizacijų deleguoti atstovai.
 
 
 
 
-3. Turizmo taryba:
-
-
-1) teikia pasiūlymus Vyriausybės valdymo institucijoms, apskričių ir vietos savivaldos institucijoms dėl turizmo veiklos ir verslo skatinimo bei rėmimo, dėl palankiausių įvažiavimo į Lietuvos Respubliką ir išvažiavimo į kitas valstybes sąlygų sudarymo, valstybės sienos perėjimo punktų veiklos ir įvažiavimo formalumų keitimo, turizmo specialistų rengimo, šalies turizmo įvaizdžio formavimo bei kitais klausimais;
+2. Turizmo taryba sudaroma ir veiklą vykdo pagal Vyriausybės arba jos įgaliotos institucijos patvirtintus nuostatus.
 
 
 
 
-2) teikia Valstybiniam turizmo departamentui tarybos pasiūlymus dėl tarptautinių turizmo sutarčių rengimo ir vykdymo, dėl poįstatyminių aktų ir kitų norminių dokumentų rengimo ir įgyvendinimo, dėl Nacionalinės turizmo plėtros programos vykdymo;
-
-
-
-
-3) kartu su Valstybiniu turizmo departamentu rengia ir teikia Vyriausybei metines šalies turizmo apžvalgas bei pasiūlymus dėl turizmo teisinio reguliavimo.
+3. Turizmo tarybos techninį aptarnavimą vykdo Valstybinis turizmo departamentas.
  
 
 
@@ -1048,71 +1090,28 @@ Valstybinis turizmo departamentas:
 
 
 
-
-
-24 straipsnis. Švietimo ir mokslo ministerijos kompetencija turizmo srityje
-
-
-Švietimo ir mokslo ministerija turizmo profesinio rengimo bei vaikų ir jaunimo turizmo srityje:
-
-
-1) numato mokymo plane sąlygas ir priemones, leidžiančias ugdyti vaikų ir jaunimo turizmo įgūdžius, krašto pažinimą;
-
-
-
-
-2) kartu su vietos savivaldos ir apskrities valdymo institucijomis planuoja ir sudaro sąlygas organizuoti vaikų ir jaunimo nacionalinius ir tarptautinius turistinius žygius, keliones ir sąskrydžius moksleivių ir studentų atostogų metu, tvirtina moksleivių kelionių ir žygių organizavimo taisykles;
-
-
-
-
-3) koordinuoja vaikų ir jaunimo poilsio ir darbo stovyklų veiklą, rengia jų veiklos metodines rekomendacijas, kartu su savivaldybių ir apskričių institucijomis sudaro šių stovyklų plėtros planą;
-
-
-
-
-4) kartu su Valstybiniu turizmo departamentu ir kitomis suinteresuotomis institucijomis rengia turizmo srities studijų ir mokymo programų reikalavimus, koordinuoja turizmo specialistų rengimą, vykdo metodinį vadovavimą.
- 
-
-
-
-
-
-
-
-
-25 straipsnis. Apskrities viršininko kompetencija plėtojant turizmą
+21 straipsnis. Apskrities viršininko kompetencija plėtojant turizmą
 
 
 Apskrities viršininkas:
 
 
-1) kartu su apskrities tarybos nariais planuoja turizmo plėtrą apskrities teritorijoje;
+1) kartu su savivaldybėmis planuoja turizmo plėtrą apskrities teritorijoje ir pagal Nacionalinę turizmo plėtros programą rengia (koreguoja) ir tvirtina apskrities turizmo ir rekreacijos plėtros projektus, planus, turizmo plėtros galimybių studijas;
 
 
 
 
-2) pagal Nacionalinę turizmo plėtros programą rengia (koreguoja) ir tvirtina apskrities turizmo ir rekreacijos plėtros schemas, projektus ar priemones;
+2) planuoja bei organizuoja vaikų ir jaunimo stovyklų, finansuojamų valstybės biudžeto lėšomis, veiklą;
 
 
 
 
-3) organizuoja veiklą apskričiai priskirtose saugomose teritorijose, planuoja ir vykdo priemones, reikalingas jų apsaugai ir turizmui plėtoti;
+3) tvarko apskrities turizmo išteklių apskaitą ir turizmo informaciją ir teikia duomenis Nacionalinei turizmo informacijos sistemai;
 
 
 
 
-4) planuoja bei organizuoja vaikų ir jaunimo poilsio ir darbo stovyklų veiklą;
-
-
-
-
-5) tvarko apskrities turizmo išteklių registrą;
-
-
-
-
-6) sudaro turizmo duomenų banką, steigia apskrities turizmo informacijos centrą ir kartu su savivaldybėmis organizuoja jo filialus, kuria ir propaguoja apskrities turizmo įvaizdį.
+4) gali steigti apskrities turizmo informacijos centrą.
  
 
 
@@ -1122,61 +1121,61 @@ Apskrities viršininkas:
 
 
 
-26 straipsnis. Vietos savivaldos institucijų kompetencija turizmo srityje
+22 straipsnis. Savivaldybių institucijų kompetencija turizmo srityje
 
 
-Vietos savivaldos institucijos:
+1. Savivaldybės:
 
 
-1) skatina ir remia turizmo verslą kaip darbo vietų skaičiaus didinimo ir gyventojų laisvalaikio užimtumo priemonę;
-
-
-
-
-2) pagal Nacionalinę turizmo plėtros programą ir apskrities turizmo planavimo dokumentus rengia, tvirtina ir vykdo savivaldybės turizmo plėtros priemonių planus arba savivaldybės turizmo ir rekreacijos plėtros schemas ir projektus;
+1) skatina turizmo verslą kaip darbo vietų kūrimo ir gyventojų užimtumo priemonę;
 
 
 
 
-3) tvarko savivaldybės turizmo paslaugų registrą;
+2) vadovaudamosi Nacionalinės turizmo plėtros programos nuostatomis, rengia, tvirtina ir įgyvendina savivaldybės turizmo plėtros programas (strategijas) arba savivaldybės turizmo ir rekreacijos plėtros schemas ir projektus;
 
 
 
 
-4) rengia ir vykdo priemones, reikalingas rekreacinių teritorijų apsaugai, poilsio ir turizmo veiklai jose plėtoti, ir tvarko šių teritorijų apskaitą;
+3) steigia savivaldybės turizmo informacijos centrą. Nesant savivaldybės įsteigto turizmo informacijos centro, tvarko ir teikia turizmo paslaugų ir išteklių duomenis Nacionalinei turizmo informacijos sistemai;
 
 
 
 
-5) analizuoja savivaldybės teritorijos turizmo išteklius ir paslaugų rinką, reklamuoja ir teikia turizmo informaciją, gali steigti turizmo informacijos centrą, vykdo kitą turizmo rinkodaros veiklą;
+4) planuoja ir vykdo priemones, reikalingas rekreacinių teritorijų apsaugai, poilsio ir turizmo veiklai jose plėtoti, ir tvarko šių teritorijų apskaitą, tvirtina rekreacinių teritorijų naudojimo reglamentus;
 
 
 
 
-6) sudaro sutartis su turizmo paslaugas teikiančiais juridiniais ir fiziniais asmenimis dėl gamtos (rekreacinių) išteklių naudojimo (nuomos) turizmui ir poilsiui, kontroliuoja sutarčių vykdymą;
+5) vykdo savivaldybės teritorijos turizmo išteklių ir paslaugų rinkotyrą ir rinkodarą;
 
 
 
 
-7) tvirtina juridinių asmenų mokėjimų už gamtos (rekreacinių) išteklių naudojimą dydį ir tvarką;
+6) įstatymų nustatyta tvarka sudaro sutartis su turizmo paslaugas teikiančiais juridiniais ir fiziniais asmenimis dėl rekreacinių išteklių naudojimo (nuomos) turizmui ir poilsiui, kontroliuoja sutarčių vykdymą;
 
 
 
 
-8) planuoja ir organizuoja vaikų ir jaunimo stovyklų veiklą, nustato stovyklų įrengimo ir registravimo bei poilsio organizavimo turistinėse (poilsio) zonose (įskaitant gamtos gėrybių rinkimą ir žvejybą) bendrus reikalavimus, kontroliuoja jų vykdymą;
+7) įstatymų nustatyta tvarka tvirtina mokesčių už savivaldybei priklausančių rekreacinių išteklių naudojimą dydį ir tvarką;
 
 
 
 
-9) nustato paslaugų vartotojų sanitarijos ir higienos poreikių tenkinimo bendrus reikalavimus pakelės serviso įmonėms (degalinėms, autoserviso ar maitinimo įmonėms), poilsio ir parkavimo aikštelėms, atsižvelgdamos į kelių kategorijas ir vietos sąlygas;
+8) planuoja ir organizuoja vaikų ir jaunimo stovyklų veiklą, nustato šių stovyklų rengimo reikalavimus, kontroliuoja jų vykdymą;
 
 
 
 
-10) sudaro komisiją pažymėjimams (sertifikatams) išduoti, kuri veikia Turizmo paslaugų teikimo taisyklėse nustatyta tvarka ir susideda iš turizmo paslaugų įmonių veiklą kontroliuojančių (priežiūros) institucijų atstovų, turizmo verslo asociacijų atstovų bei turizmo sritį koordinuojančių institucijų specialistų. Komisijos nustatytos formos pažymas (aktus), kad įmonės atitinka Turizmo paslaugų teikimo taisyklių reikalavimus, komisijai pateikia jos nariai – kontroliuojančių (priežiūros) institucijų atstovai.
+9) išduoda kaimo turizmo, nakvynės ir pusryčių bei turistinės stovyklos paslaugos teikimo pažymėjimus bei kontroliuoja šių paslaugų teikimo reikalavimų vykdymą.
+
+
+
+
+
+
+2. Pažymėjimo, patvirtinančio, kad kaimo turizmo, nakvynės ir pusryčių bei turistinės stovyklos paslaugos atitinka nustatytus reikalavimus, išdavimo tvarką tvirtina savivaldybės taryba.
  
-
-
 
 
 
@@ -1186,75 +1185,69 @@ Vietos savivaldos institucijos:
 
 
 SEPTINTASIS SKIRSNIS
-TURIZMO IŠTEKLIAI
+TURIZMO IŠTEKLIAI IR INFORMACIJOS SISTEMA
  
 
 
-27 straipsnis. Turizmo išteklių rūšys 
+23 straipsnis. Turizmo išteklių naudojimas, apsauga ir planavimas
 
 
-1.Turizmo išteklius sudaro gamtos ištekliai, kultūros ištekliai ir socialinės, verslo bei valdymo paskirties objektai.
-
-
-
-
-2. Turizmo gamtos ištekliams priskiriami vandens telkiniai ir jų pakrantės, gyvūnija, rekreaciniai miškai, rekreacinės ir saugomos teritorijos bei saugomi kraštovaizdžio objektai, kurių vertybės sudaro galimybes naudoti juos profesiniam, pažintiniam, rekreaciniam ir kitokiam turizmui.
+1. Turizmo išteklius sudaro rekreaciniai ištekliai ir specialaus (dalykinio) intereso objektai (pramogų centrai, konferencijų centrai, parodų centrai, muziejai, galerijos ir kiti turistinės traukos objektai).
 
 
 
 
-3. Turizmo kultūros ištekliams priskiriami archeologijos, istorijos, meno, mokslo ir technikos, urbanistikos paveldo objektai, folkloras, tradicijos ir liaudies amatai, šiuolaikiniai meno kūriniai ir mokslo laimėjimai, kolekcijos, kiti kultūros objektai ir saugomos teritorijos, kurių vertybės sudaro galimybes naudoti juos profesiniam, pažintiniam, kultūriniam ir kitokiam turizmui.
+2. Rekreaciniams ištekliams priskiriama: 
+
+
+1) gamtos ištekliai (miškai, gyvenamųjų vietovių želdynai, vandens telkiniai ir jų pakrantės, tinkamos arba galimos pritaikyti žmonių poilsiui ir pramogoms, mineralinio vandens ir gydomojo purvo telkiniai, gamtos paveldo objektai);
 
 
 
 
-4. Socialinės, ūkio bei valdymo paskirties objektai kaip turizmo ištekliai yra kultūros, mokslo, technikos, parodų, poilsio bei pramogų, verslo, kongresų, organizacijų centrai, kurių veikla yra tiesiogiai susijusi su profesinių-dalykinių ar specialių turistų poreikių tenkinimu.
- 
+2) kultūros paveldo objektai (nekilnojamosios kultūros vertybės);
+
+
+
+
+3) turizmo paslaugų ir poilsio infrastruktūros pastatai bei objektai, esantys kurortuose, rekreacinėse ir saugomose teritorijose, taip pat turistinės trasos, apžvalgos aikštelės, kitos rekreacijai skirtos teritorijos.
 
 
 
 
 
 
-28 straipsnis. Turizmo išteklių naudojimas ir apsauga
-
-
-1. Valstybė, savivaldybės, fiziniai ir juridiniai asmenys gali valdyti, naudoti turizmo išteklius ir jais disponuoti įstatymų nustatyta tvarka.
+3. Rekreacinių išteklių naudotojais visuomenės ir verslo tikslais gali būti fiziniai ir juridiniai asmenys, teikiantys poilsio, reabilitacines ir turizmo paslaugas. Visuomenės lankymui ar poilsio veiklai naudojamose rekreacinėse teritorijose (paplūdimiuose, gyvenamųjų vietovių parkuose, stovyklavietėse, apžvalgos aikštelėse, turistinėse trasose, kitose poilsio vietose) privalo būti stacionari ar laikina įranga higienos poreikiams tenkinti ir atliekoms surinkti, taip pat teritorijos lankymui skirta informacija ir infrastruktūra (takai, poilsio aikštelės ir įrengimai). 
 
 
 
 
-2. Saugomose teritorijose turizmo išteklių naudojimą ir apsaugą nustato Saugomų teritorijų įstatymas.
+4. Rekreacinės teritorijos gali būti nustatomos Lietuvos Respublikos teritorijos bendrajame plane, apskričių ir savivaldybių teritorijų bendruosiuose planavimo dokumentuose, taip pat specialiuosiuose planavimo dokumentuose. Rekreacinėms teritorijoms priskiriamos teritorijos, pasižyminčios rekreaciniais ištekliais, taip pat teritorijos, turinčios turizmo paslaugų arba poilsio infrastruktūrą. Rekreacinėse teritorijose prioritetas skiriamas poilsio ir turizmo veiklai. 
 
 
 
 
-3. Rekreacinių teritorijų registravimo, apsaugos, naudojimo ir planavimo tvarką nustato Vyriausybė arba jos įgaliota institucija. Duomenys apie rekreacinių teritorijų vietą, dydį, vertybes, naudojimo sąlygas bei valdymą, disponavimą jomis kaupiami turizmo išteklių registre.
+5. Detaliaisiais ar specialiaisiais teritorijų planais suformuotose rekreacinėse teritorijose gali būti statomi turizmo paslaugų, poilsio bei reabilitacinės infrastruktūros statiniai: apgyvendinimo, pramogų ir gydyklų statiniai bei įranga, turistinių trasų, stovyklaviečių, gyvenamųjų vietovių parkų, paplūdimių ir prieplaukų bei informavimo įranga. Rekreacinėse teritorijose turizmo paslaugų, poilsio bei reabilitacinės infrastruktūros statiniai statomi vadovaujantis statybos techniniais reglamentais ir privalo atitikti normatyvinius statinio saugos ir paskirties reikalavimus.
 
 
 
 
-4. Saugomų kilnojamųjų ir nekilnojamųjų kultūros vertybių naudojimo turizmui ir lankymo tvarką nustato Kultūros ministerija.
+6. Privačiuose žemės sklypuose, esančiuose kaimo gyvenamosiose vietovėse, nerengiant detaliųjų planų ir nekeičiant pagrindinės tikslinės žemės naudojimo paskirties, gali būti vykdoma naujų statinių statyba kaimo turizmo paslaugoms teikti ir esamų individualių gyvenamųjų pastatų bei sodybų rekonstrukcija ir jų pritaikymas kaimo turizmo poreikiams pagal teisės aktų nustatyta tvarka parengtus ir patvirtintus projektus.
 
 
 
 
-5. Saugomose ir rekreacinėse teritorijose turizmui (poilsiui) organizuoti įrengiamos turistinės (poilsio) trasos. Jos formuojamos jungiant gamtos, kultūros, paslaugų ar pramogų objektus. Šiose trasose turi būti informacinė įranga, įranga higienos ir sanitarijos poreikiams tenkinti, taip pat vietos stovyklauti (poilsiauti) bei apžvalgos aikštelės.
+7. Turizmo paslaugų, poilsio bei reabilitacinės infrastruktūros objektų statybai detalieji planai nerengiami tais atvejais, kai nekeičiama sklypo žemės naudojimo paskirtis, planuojamiems ar rekonstruojamiems turizmo ir poilsio paslaugų statiniams nereikalingas leidimas statybai. Rekreacinis sklypas neformuojamas kaimo turizmo ir turistinės stovyklos objektams ir įrenginiams statyti bei eksploatuoti.
 
 
 
 
-6. Privačiose žemės valdose keliauti ir stovyklauti galima tik savininko nurodytose vietose ir pagal įstatymus bei teisės aktus, reglamentuojančius keliavimą, stovyklavimą, objektų lankymą ar poilsiavimą.
+8. Rekreacinių teritorijų naudojimo ir apsaugos priežiūrą vykdo savivaldybių institucijos, vadovaudamosi įstatymais bei Rekreacinių teritorijų naudojimo, planavimo ir apsaugos nuostatais, kuriuos tvirtina Vyriausybė arba jos įgaliota institucija. Rekreacinėse teritorijose draudžiama veikla, galinti pabloginti rekreacinių išteklių būklę ir kelianti pavojų asmenų saugumui ir poilsio organizavimui. Rekreacinių teritorijų naudojimo, planavimo ir apsaugos nuostatuose išvardytais atvejais gali būti nustatomi ūkinės veiklos reguliavimo rekreacinėse teritorijose reglamentai, jeigu vykdoma ūkinė veikla gali turėti neigiamą poveikį rekreaciniams ištekliams, aplinkai ir žmonių sveikatai.
 
 
 
 
-7. Įstatymų nustatyta tvarka dėl aplinkos užterštumo, higienos normų ir taisyklių neatitikimo, teritorijos neparengtumo ar išteklių naudojimo pažeidimų savivaldybės meras gali laikinai apriboti turizmo išteklių naudojimą, iki bus patenkinti šių išteklių naudojimo tvarkos reikalavimai.
-
-
-
-
-8. Saugomose teritorijose – valstybiniuose parkuose (išskyrus rezervatų zonas) ir savivaldybių disponuojamose rekreacinėse teritorijose yra skatinama veikla, susijusi su turizmo (poilsio) organizavimu, turizmo (poilsio) paslaugų objektų ir poilsio organizavimo infrastruktūra (higienos, saugos, pliažo, pakrantės įrenginiais bei informacine įranga).
+9. Rekreacinėse teritorijose bei valstybinių parkų rekreacinėse, ūkinėse zonose yra skatinama veikla, susijusi su turizmo ir poilsio infrastruktūros plėtra. 
  
 
 
@@ -1262,103 +1255,30 @@ TURIZMO IŠTEKLIAI
 
 
 
-29 straipsnis. Valstybinis turizmo išteklių registras
+24 straipsnis. Nacionalinė turizmo informacijos sistema
 
 
-1. Valstybinio turizmo išteklių registro tikslas – registruoti, fiksuoti šalies turizmo išteklius, jų kokybę bei naudojimą ir tvarkyti jų apskaitą.
+1. Nacionalinė turizmo informacijos sistema – duomenų apie turizmo išteklius ir jų naudojimo turizmui sąlygas, taip pat duomenų apie turizmo paslaugas bei jų kokybę kaupimo, tvarkymo, apdorojimo, saugojimo, paieškos ir pateikimo kompiuterizuota informacinė sistema, skirta viešam turizmo informacijos pateikimui.
 
 
 
 
-2. Valstybinį turizmo išteklių registrą tvarko Valstybinis turizmo departamentas kartu su apskričių ir savivaldybių institucijomis. Registro sudarymą, tvarkymą ir naudojimą reglamentuoja Vyriausybės patvirtinti Valstybinio turizmo išteklių registro nuostatai.
+2. Nacionalinė turizmo informacijos sistema kuriama geoinformacinių sistemų duomenų bazių principais. Nacionalinės turizmo informacijos sistemos valdytojas yra Valstybinis turizmo departamentas.
 
 
 
 
-3. Valstybinis turizmo išteklių registras sudaromas iš turizmo išteklių apskaitos duomenų apie išteklių valdymą, naudojimą ir disponavimą jais, taip pat jų vietą, dydį, vertybes bei naudojimo sąlygas. Šis registras naudojasi kitų valstybės registrų bei teritorijų planavimo duomenų bazėmis.
- 
+3. Nacionalinei turizmo informacijos sistemai duomenys apie turizmo išteklius ir paslaugų teikimą Vyriausybės nustatyta tvarka gaunami iš kitų valstybės registrų, informacinių sistemų, duomenų bankų ar kitų duomenų teikėjų.
 
 
 
 
+4. Nacionalinė turizmo informacijos sistema veikia pagal Nacionalinės turizmo informacijos sistemos nuostatus, kuriuose nurodoma sistemos tvarkymo objektas ir tikslai, duomenų sąrašas, duomenų mastai, rinkimo ir teikimo tvarka, duomenų rinkėjai ir teikėjai, duomenų apsaugos reikalavimai.
 
 
-30 straipsnis. Turizmo paslaugų registras
 
 
-1. Turizmo paslaugų registras yra duomenų bei dokumentų rinkinys, kuriame registruojama ir kaupiama informacija apie fizinių ir juridinių asmenų teikiamas turizmo paslaugas. Turizmo paslaugų registrą sudaro valstybinė bei savivaldybių duomenų bazės ir paslaugų klasifikatoriai.
-
-
-
-
-2. Turizmo paslaugų registrą steigia ir jo nuostatus tvirtina Vyriausybė. Valstybinį turizmo paslaugų registrą tvarko Valstybinis turizmo departamentas, savivaldybės – valdyba, o kai jos nėra,– meras. Turizmo paslaugų registras rengiamas ir tvarkomas kartu su turizmo išteklių registru.
- 
-
-
-
-
-
-
-
-
-AŠTUNTASIS SKIRSNIS
-BAIGIAMOSIOS NUOSTATOS
- 
-
-
-31 straipsnis. Savaveiksmio turizmo organizavimas
-
-
-Savaveiksmis turizmas apima turistinių žygių, kelionių, sąskrydžių bei turistinių varžybų organizavimą ir vykdymą. Jis organizuojamas individualiu arba klubiniu principu laikantis šiame straipsnyje išvardytų renginių organizavimo ir vykdymo taisyklių, kurias Turizmo tarybos teikimu tvirtina Valstybinio turizmo departamentas.
-
-
-
-
-Savaveiksmio turizmo renginių metu naudojimasis turizmo paslaugomis turi atitikti šiame įstatyme nustatytus reikalavimus.
- 
-
-
-
-
-
-
-32 straipsnis. Lietuvos Respublikos turizmo įstatymas ir tarptautinės sutartys
-
-
-Jeigu Lietuvos Respublikos Seimo ratifikuotose tarptautinėse sutartyse nustatyta kas kita negu šiame įstatyme, taikomos tarptautinių sutarčių nuostatos.
- 
-
-
-
-
-
-
-33 straipsnis. Atsakomybė
-
-
-Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-34 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas įsigalioja nuo 1998 m. rugsėjo 1 d.
- 
-
-
-
-
-
-
-35 straipsnis. Pasiūlymas Vyriausybei
-
-
-Vyriausybė iki 1998 m. rugsėjo 1 d. priima teisės aktus, susijusius su Turizmo įstatymu.
+5. Nacionalinės turizmo informacijos sistemos nuostatus tvirtina Vyriausybė arba jos įgaliota institucija.
  
 
 
@@ -1377,9 +1297,15 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-239, 2001-04-05, Žin., 2001, Nr. 34-1128 (2001-04-20), i. k. 1011010ISTA00IX-239
 Lietuvos Respublikos turizmo įstatymo 18 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1211, 2002-12-03, Žin., 2002, Nr. 123-5507 (2002-12-24), i. k. 1021010ISTA0IX-1211
+Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas
