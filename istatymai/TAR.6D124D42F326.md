@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6D124D42F326"
 
 # Lietuvos Respublikos pilietybės įstatymas
 
-Suvestinė redakcija nuo 1996-02-21 iki 1997-07-15
+Įstatymas netenka galios 2003-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1078, 2002-09-17, Žin., 2002, Nr. 95-4087 (2002-10-02), i. k. 1021010ISTA0IX-1078
+Lietuvos Respublikos pilietybės įstatymas
+ 
+Suvestinė redakcija nuo 1997-07-16 iki 2002-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 251-0; Žin. 1991, Nr.36-977, i. k. 0911010ISTA00I-2072
  
@@ -31,17 +36,19 @@ I. BENDRIEJI NUOSTATAI
 
 Lietuvos Respublikos piliečiai yra:
 
-1) asmenys, iki 1940 m. birželio 15 d. turėję Lietuvos pilietybę, ir jų vaikai (jeigu šie asmenys ar jų vaikai nerepatrijavo iš Lietuvos);
+1) asmenys, iki 1940 m. birželio 15 d. turėję Lietuvos pilietybę, jų vaikai ir vaikaičiai (jeigu šie asmenys, jų vaikai ar vaikaičiai nerepatrijavo iš Lietuvos);
 
-2) asmenų, turėjusių Lietuvos pilietybę iki 1940 m. birželio 15 d., vaikaičiai, jeigu jie neįgijo kitos valstybės pilietybės;
+2) asmenys, 1919 m. sausio 9 d.–1940 m. birželio 15 d. nuolat gyvenę dabartinėje Lietuvos Respublikos teritorijoje, taip pat jų vaikai ir vaikaičiai, jeigu jie Pilietybės įstatymo įsigaliojimo dieną nuolat gyveno ir šiuo metu gyvena Lietuvoje, ir nėra kitos valstybės piliečiai;
 
-3) asmenys, 1919 m. sausio 9 d. – 1940 m. birželio 15 d. nuolat gyvenę dabartinėje Lietuvos Respublikos teritorijoje, taip pat jų vaikai ir vaikaičiai, jeigu jie Pilietybės įstatymo įsigaliojimo dieną nuolat gyveno ir šiuo metu gyvena Lietuvoje ir nėra kitos valstybės piliečiai;
+3) lietuvių kilmės asmenys, gyvenantys kitose valstybėse, jeigu jie išvyko iš Lietuvos teritorijos iki 1918 m. vasario 16 d. ir neįgijo kitos valstybės pilietybės;
 
-4) lietuvių kilmės asmenys, gyvenantys kitose valstybėse, jeigu jie išvyko iš Lietuvos teritorijos iki 1918 m. vasario 16 d. ir neįgijo kitos valstybės pilietybės;
+4) asmenys, iki 1991 m. lapkričio 4 d. įgiję Lietuvos Respublikos pilietybę pagal Pilietybės įstatymą, galiojusį iki Pilietybės įstatymo priėmimo 1991 m. gruodžio 5 dieną;
 
-5) asmenys, iki 1991 m. lapkričio 4 d. įgiję Lietuvos Respublikos pilietybę pagal Pilietybės įstatymą, galiojusį iki Pilietybės įstatymo priėmimo 1991 m. gruodžio 5 dieną;
+5) kiti asmenys, kurie įgijo Lietuvos Respublikos pilietybę pagal Pilietybės įstatymą.
 
-6) kiti asmenys, kurie įgijo Lietuvos Respublikos pilietybę pagal Pilietybės įstatymą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-391, 1997-07-02, Žin., 1997, Nr. 67-1668 (1997-07-16), i. k. 0971010ISTAVIII-391
+ 
 
 Asmenims, nurodytiems šio straipsnio pirmosios dalies 1 punkte, jų pageidavimu išduodami Lietuvos Respublikos piliečio pasai arba pagal šio įstatymo 17 straipsnį teisę į Lietuvos Respublikos pilietybę patvirtinantys dokumentai.
 
@@ -214,7 +221,10 @@ III. TEISĖS Į LIETUVOS RESPUBLIKOS PILIETYBĘ IŠSAUGOJIMAS. LIETUVOS RESPUBLI
 
 Teisė į Lietuvos Respublikos pilietybę neterminuotai išsaugoma:
 
-1) asmenims, iki 1940 m. birželio 15 d. turėjusiems Lietuvos pilietybę, ir jų vaikams (jei šie asmenys ar jų vaikai nerepatrijavo iš Lietuvos), gyvenantiems kitose valstybėse;
+1) asmenims, iki 1940 m. birželio 15 d. turėjusiems Lietuvos pilietybę, jų vaikams ir vaikaičiams (jeigu šie asmenys, jų vaikai ar vaikaičiai nerepatrijavo iš Lietuvos), gyvenantiems kitose valstybėse;
+Straipsnio punkto pakeitimai:
+Nr. VIII-391, 1997-07-02, Žin., 1997, Nr. 67-1668 (1997-07-16), i. k. 0971010ISTAVIII-391
+ 
 
 2) lietuvių kilmės asmenims, gyvenantiems kitose valstybėse.
 
@@ -349,17 +359,19 @@ Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA
 Prie prašymo suteikti Lietuvos Respublikos pilietybę pridedami šie dokumentai: 
 asmens tapatybę patvirtinantis dokumentas; gimimo liudijimas; dokumentai, patvirtinantys nuolatinę gyvenamąją vietą ir nuolatinius darbą (užsiėmimą) arba kitą legalų pragyvenimo šaltinį; dokumentai, patvirtinantys, jog nėra aplinkybių, nurodytų šio įstatymo 13 straipsnio 4 ir 5 punktuose.
 
-Prie prašymo įgyvendinti teisę į Lietuvos Respublikos pilietybę pridedami dokumentai, patvirtinantys, kad asmuo iki 1940 m. birželio 15 d. turėjo Lietuvos Respublikos pilietybę (ar yra tokio asmens vaikas); dokumentai, patvirtinantys asmens tapatybę (pasas ar jį atitinkantis dokumentas), lietuvių kilmę, turėtą kitos valstybės pilietybę ir jos atsisakymą (arba dokumentas, patvirtinantis kad asmuo yra be pilietybės), taip pat nuolatinę gyvenamąją vietą.
+Prie prašymo įgyvendinti teisę į Lietuvos Respublikos pilietybę pridedami dokumentai, patvirtinantys, kad asmuo iki 1940 m. birželio 15 d. turėjo Lietuvos Respublikos pilietybę (ar yra tokio asmens vaikas ar vaikaitis); dokumentai, patvirtinantys asmens tapatybę (pasas ar jį atitinkantis dokumentas), lietuvių kilmę, turėtą kitos valstybės pilietybę ir jos atsisakymą (arba dokumentas, patvirtinantis, kad asmuo yra be pilietybės), taip pat nuolatinę gyvenamąją vietą
 Straipsnio dalies pakeitimai:
 Nr. I-2312, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-162 (1992-03-10), i. k. 0921010ISTA00I-2312
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
+Nr. VIII-391, 1997-07-02, Žin., 1997, Nr. 67-1668 (1997-07-16), i. k. 0971010ISTAVIII-391
  
 
-Dokumentai, įrodantys, jog asmuo iki 1940 m. birželio 15 d. turėjo Lietuvos Respublikos pilietybę, yra: išlikę Lietuvos Respublikos vidaus ar užsienio pasai, išduoti iki 1940 m. birželio 15 d.; Lietuvos Respublikos užsienio pasai, išduoti Lietuvos diplomatinių atstovybių ar konsulinių įstaigų po 1940 m. birželio 15 d.; dokumentai apie tarnybą Lietuvos kariuomenėje ar darbą valstybinėje tarnyboje; gimimo liudijimai arba kiti dokumentai, kuriuose tiesiogiai nurodyta apie turėtą Lietuvos pilietybę. Jeigu šių dokumentų nėra, gali būti pateikiami: dokumentai apie mokymąsi, darbą, gyvenimą Lietuvoje iki 1940 m. birželio 15 d.; priesaikinis pareiškimas, patvirtintas notaro arba Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos pareigūno; užsienio valstybės paso patvirtinta kopija ir kiti dokumentai. Lietuvių kilmę patvirtina dokumentai, tiesiogiai ar netiesiogiai rodantys, kad asmens tėvai ar seneliai, vienas iš tėvų ar senelių yra lietuviai, taip pat asmens rašytinis pareiškimas, patvirtinantis, kad jis laiko save lietuviu. Jeigu nėra patikimų dokumentų, įrodančių lietuvių kilmę, šį klausimą sprendžia Pilietybės reikalų komisija. Pateikiami dokumentai turi atitikti Lietuvos Respublikos įstatymų nustatytus reikalavimus. 
+Dokumentai, įrodantys, jog asmuo iki 1940 m. birželio 15 d. turėjo Lietuvos Respublikos pilietybę, yra: išlikę Lietuvos Respublikos vidaus ar užsienio pasai, išduoti iki 1940 m. birželio 15 d.; Lietuvos Respublikos užsienio pasai, išduoti Lietuvos diplomatinių atstovybių ar konsulinių įstaigų po 1940 m. birželio 15 d.; dokumentai apie tarnybą Lietuvos kariuomenėje ar darbą valstybinėje tarnyboje; gimimo liudijimai arba kiti dokumentai, kuriuose tiesiogiai nurodyta apie turėtą Lietuvos pilietybę. Jeigu šių dokumentų nėra, gali būti pateikiami: dokumentai apie mokymąsi, darbą, gyvenimą Lietuvoje iki 1940 m. birželio 15 d.; priesaikinis pareiškimas, patvirtintas notaro arba Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos pareigūno; notaro patvirtinti trijų Lietuvos Respublikos piliečių, kurie patys turėjo Lietuvos Respublikos pilietybę iki 1940 m. birželio 15 d., paliudijimai apie tai, kad asmuo iki 1940 m. birželio 15 d. turėjo Lietuvos Respublikos pilietybę; užsienio valstybės paso patvirtinta kopija ir kiti dokumentai. Lietuvių kilmę patvirtina dokumentai, tiesiogiai ar netiesiogiai rodantys, kad asmens tėvai ar seneliai, vienas iš tėvų ar senelių yra lietuviai, taip pat asmens rašytinis pareiškimas, patvirtinantis, kad jis laiko save lietuviu. Jeigu nėra patikimų dokumentų įrodančių lietuvių kilmę, šį klausimą sprendžia Pilietybės reikalų komisija. Pateikiami dokumentai turi atitikti Lietuvos Respublikos įstatymų nustatytus reikalavimus.
 Papildyta straipsnio dalimi:
 Nr. I-240, 1993-07-16, Žin., 1993, Nr. 32-733 (1993-07-28), i. k. 0931010ISTA000I-240
 Straipsnio dalies pakeitimai:
 Nr. I-1053, 1995-10-03, Žin., 1995, Nr. 86-1940 (1995-10-20), i. k. 0951010ISTA00I-1053
+Nr. VIII-391, 1997-07-02, Žin., 1997, Nr. 67-1668 (1997-07-16), i. k. 0971010ISTAVIII-391
  
 
 Prie prašymo atsisakyti Lietuvos Respublikos pilietybės pridedami: Lietuvos Respublikos piliečio pasas, kitos valstybės paso nuorašas, patvirtintas notariškai ar pareigūno, kuris priima prašymą dėl pilietybės atsisakymo; dokumentai, patvirtinantys asmens nuolatinę gyvenamąją vietą ir darbą (užsiėmimą); sumokėtos valstybinės rinkliavos kvitas. 
@@ -561,4 +573,9 @@ Dėl Lietuvos Respublikos pilietybės įstatymo pakeitimo ir papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1199, 1996-02-06, Žin., 1996, Nr. 16-415 (1996-02-21), i. k. 0961010ISTA00I-1199
 Lietuvos Respublikos pilietybės įstatymo 17 ir 22 straipsnių papildymo ir 31 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-391, 1997-07-02, Žin., 1997, Nr. 67-1668 (1997-07-16), i. k. 0971010ISTAVIII-391
+Lietuvos Respublikos pilietybės įstatymo 1, 17 ir 28 straipsnių pakeitimo įstatymas
 
