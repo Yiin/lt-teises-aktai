@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7B2A8006AB08"
 
 # Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto
 
+Suvestinė redakcija nuo 1995-03-03 iki 1995-07-07
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 20-486, i. k. 0931010ISTA000I-160
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
@@ -44,8 +48,19 @@ DĖL BUVUSIŲ LIETUVOS TSR VALSTYBINIŲ PROFESINIŲ SĄJUNGŲ TURTO
 5 straipsnis. Lietuvos sanatorijų ir poilsio namų turto perdavimo ir naudojimo tvarką nustato atskiras Lietuvos Respublikos Seimo nutarimas.
  
 
-6 straipsnis. Profesinių sąjungų ginčus, kylančius dėl joms tenkančio turto, sprendžia teismas.
+6 straipsnis. Specialiajam fondui veikiančioms ir besisteigiančioms profesinėms sąjungoms remti perduotas turtas negali būti privatizuojamas ar akcionuojamas, taip pat parduodamas ar kitaip perleidžiamas ne profesinėms sąjungoms. 
+Papildyta straipsniu:
+Nr. I-817, 1995-02-23, Žin., 1995, Nr. 19-437 (1995-03-03), i. k. 0951010ISTA000I-817
  
+
+7 straipsnis. Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti veiklą turi teisę kontroliuoti Valstybės kontrolės departamentas. 
+Papildyta straipsniu:
+Nr. I-817, 1995-02-23, Žin., 1995, Nr. 19-437 (1995-03-03), i. k. 0951010ISTA000I-817
+ 
+
+8 straipsnis. Profesinių sąjungų ginčus, kylančius dėl joms tenkančio turto, sprendžia teismas.
+Straipsnio numeracijos pakeitimas:
+Nr. I-817, 1995-02-23, Žin., 1995, Nr. 19-437 (1995-03-03), i. k. 0951010ISTA000I-817
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -53,4 +68,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-817, 1995-02-23, Žin., 1995, Nr. 19-437 (1995-03-03), i. k. 0951010ISTA000I-817
+Dėl Lietuvos Respublikos įstatymo "Dėl buvusių Lietuvos TSR valstybinių profesinių sąjungų turto" pakeitimo ir papildymo
 
