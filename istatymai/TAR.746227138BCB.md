@@ -81,7 +81,6 @@ Straipsnio pakeitimai:
 Nr. IX-956,
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
  
- 
 II
 SKYRIUS
 MOTERŲ
@@ -335,8 +334,8 @@ jeigu moterų ir vyrų lygių galimybių kontrolierius nenusprendžia kitaip.
  
 19 straipsnis. Skundo reikalavimai 
 1. Skunde turi būti:
-1) adresatas - moterų ir vyrų lygių
-galimybių kontrolierius;
+1) adresatas - moterų ir vyrų lygių galimybių
+kontrolierius;
 2) pareiškėjo vardas, pavardė ar
 institucijos pavadinimas ir adresas;
 3) apskundžiamų institucijų pavadinimai
@@ -488,13 +487,19 @@ Nr. IX-272, 2001 04 19, Žin., 2001, Nr.
 Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 64-2328 (2001-07-25)
  
-27
-straipsnis. Moterų ir vyrų lygių galimybių kontrolieriaus tarnybos veiklos
-ataskaita
+27 straipsnis. Moterų ir vyrų lygių
+galimybių kontrolieriaus tarnybos veiklos ataskaita
 Moterų ir vyrų lygių galimybių
 kontrolierius kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių
 kalendorinių metų Moterų ir vyrų lygių galimybių kontrolieriaus tarnybos
-veiklos ataskaitą, kuri nagrinėjama Seime ir paskelbiama viešai.
+veiklos ataskaitą, kuri nagrinėjama Seime. Visa ataskaita turi būti paskelbta
+Moterų ir vyrų lygių galimybių kontrolieriaus tarnybos interneto tinklalapyje,
+o esant galimybei, – ir per kitas visuomenės informavimo priemones.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1771,
+2003-10-14, Žin., 2003, Nr. 104-4641 (2003-11-05)
  
 28
 straipsnis. Moterų ir vyrų lygių galimybių kontrolieriaus tarnybos veiklos
@@ -512,8 +517,8 @@ NUOSTATOS
 29 straipsnis. Pasiūlymai Lietuvos
 Respublikos Vyriausybei 
 Pasiūlyti Vyriausybei per 10 dienų nuo
-šio įstatymo įsigaliojimo Moterų ir vyrų lygių galimybių kontrolieriaus
-tarnybai skirti patalpas.
+šio įstatymo įsigaliojimo Moterų ir vyrų lygių galimybių kontrolieriaus tarnybai
+skirti patalpas.
  
 30 straipsnis. Įstatymo įsigaliojimas
 Šis įstatymas įsigalioja 1999 m. kovo 1
@@ -575,11 +580,19 @@ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 21 IR 24 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr.
 37-1341), t.y. nuo 2003 m. gegužės 1 d.
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1771,
+2003-10-14, Žin., 2003, Nr. 104-4641 (2003-11-05)
+MOTERŲ
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 27 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-04-28)
+Aušrinė Trapinskienė (2003-11-05)
                  
 autrap@lrs.lt
