@@ -19,7 +19,6 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DED6F61055E5"
 Nr. 116-2701
 Neoficialus įstatymo tekstas
  
- 
 LIETUVOS RESPUBLIKOS
 VAISTŲ
 ĮSTATYMAS
@@ -58,11 +57,13 @@ Homeopatiniai preparatai - preparatai, pagaminti pagal homeopatinės gamybos
 metodiką.
             6.
 Kraujo preparatai - vaistai, pagaminti iš kraujo arba jo sudedamųjų dalių.
-            7.
-Pagrindinis tyrinėtojas (tyrinėjant vaistą klinikiniu būdu) - medicinos mokslo
-laipsnį turintis ir konkretaus vaisto klinikiniam tyrinėjimui Valstybinės
-vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos patvirtintas
-gydytojas.
+7. Tyrėjas – gydytojas ar asmuo, kuris gali
+atlikti biomedicininį tyrimą, nes turi atitinkamą išsilavinimą ir pacientų
+priežiūros patirties. Tyrėjas atsako už biomedicininį tyrimą, atliekamą tyrimo
+vietoje. Jei biomedicininį tyrimą tyrėjas atlieka vienas arba tyrimo atlikimo
+vietoje vadovauja tyrimą atliekančių asmenų grupei ir yra atsakingas už šios
+grupės veiklą, tyrėjas vadinamas pagrindiniu tyrėju. Kvalifikacinius reikalavimus
+pagrindiniam tyrėjui nustato Sveikatos apsaugos ministerija.
             8.
 Radioaktyvūs vaistai - vaistai, turintys vieną ar daugiau radioaktyviųjų
 izotopų, skleidžiančių jonizuojančius spindulius, ir dėl šių savybių vartojami
@@ -75,12 +76,15 @@ Serumai - vaistai, gaminami iš žmonių ar gyvūnų kraujo, organų, jų dalių
 jų sekretų, turinčių specifinius antikūnus. Šiame įstatyme serumai nėra
 traktuojami kaip kraujo gaminiai.
             11.
-Šalutinė reakcija į vaistą - nepageidautini reiškiniai, atsirandantys nurodytu
-būdu vartojant vaistus.
-            12.
-Tiriamieji vaistai - gaminiai, turintys cheminių medžiagų ir skirti nustatyti,
-ar jie gali būti skiriami gydymui, ligų diagnostikai, jų profilaktikai arba
-fiziologinėms funkcijoms paveikti.
+Šalutinė reakcija į vaistą - nepageidautini reiškiniai, atsirandantys nurodytu būdu
+vartojant vaistus.
+12. Tiriamasis vaistas – farmacinė aktyvios
+sudedamosios medžiagos arba jos placebo forma, kuri tiriama arba naudojama
+klinikiniame tyrime kaip vaisto arba kontrolės atitikmuo, įskaitant vaistus,
+kuriais prekiauti rinkoje jau išduoti leidimai, bet kurie yra vartojami arba
+surenkami (sudedami arba supakuojami) kitaip, negu yra registruoti, arba kai
+jie tiriami nepatvirtintai indikacijai nustatyti ar norint gauti išsamesnių
+duomenų apie registruotą vaisto formą.“
             13.
 Tradicinės medicinos preparatai - gaminiai, kuriems negali būti priskiriamos
 visos vaisto kokybinės savybės, tačiau tradiciškai vartojami kaip vaistai.
@@ -95,8 +99,14 @@ laikymas sandėlyje, siūlymas parduoti arba atidavimas kitiems.
             16.
 Vaisto gamintojas - įmonė, Vyriausybės nustatyta tvarka akredituota gatavų
 vaistų gamybai serijomis ir savo vardu atiduodanti juos į apyvartą.
-            17.
-Vaisto klinikinis tyrinėjimas - tiriamojo vaisto poveikio išbandymas žmogui.
+17. Klinikinis vaistinio preparato tyrimas –
+visi su žmonėmis susiję biomedicininiai tyrimai, skiriami nustatyti, patikrinti
+ir patvirtinti vieno arba kelių tiriamųjų vaistinių preparatų klinikinį,
+farmakologinį ir (arba) kitokį farmakodinaminį poveikį, ir (arba) nustatyti
+nepageidaujamas reakcijas į vieną ar kelis tiriamuosius vaistinius preparatus,
+ir (arba) ištirti vieno ar kelių tiriamųjų preparatų absorbciją, pasiskirstymą,
+metabolizmą ir išsiskyrimą, siekiant nustatyti tiriamojo vaistinio preparato
+saugą ir (arba) veiksmingumą.
             18.
 Vaisto kokybė - vaisto savybių visuma, apibūdinama tapatybe, grynumu, sudėtimi,
 kitomis cheminėmis, fizinėmis ir biologinėmis savybėmis, vaisto gamybos
@@ -108,14 +118,17 @@ veikianti tarnyba prie Sveikatos apsaugos ministerijos.
 Vakcinos - vaistai, turintys antigenų ir padedantys žmogaus ar gyvūno
 organizmui pasigaminti apsauginių ir gynybinių medžiagų.
             21.
-Veterinariniai premiksai - daugiakomponenčiai mišiniai, turintys vitaminų, mikroelementų,
-fermentų, amino rūgščių, antioksidantų, skirti gyvūnų ligų profilaktikai ir
-gydymui.
+Veterinariniai premiksai - daugiakomponenčiai mišiniai, turintys vitaminų,
+mikroelementų, fermentų, amino rūgščių, antioksidantų, skirti gyvūnų ligų
+profilaktikai ir gydymui.
             22.
 Veterinariniai vaistai - vaistai, skirti tik gyvūnams.
             23.
 Veterinariniai vaistiniai pašarai - pašarai, į kuriuos įmaišyta gyvūnų ligų
 profilaktikai arba gydymui skirtų vaistų.
+Straipsnio pakeitimai:
+Nr. IX-2166,
+2004-04-22, Žin., 2004, Nr. 68-2373 (2004-04-29)
             
 ANTRASIS SKIRSNIS
 VAISTŲ REGISTRAVIMO PAGRINDAI
@@ -131,33 +144,33 @@ tvarką nustato Farmacinės veiklos įstatymas.
 Vaisto registravimas - tai vaisto įrašymas į Valstybinį vaistų registrą,
 atlikus vaisto gamintojo pateiktų dokumentų ir vaisto pavyzdžių ekspertizę,
 kuria įvertinama vaisto kokybė, saugumas bei efektyvumas.
-            3.
-Vaistai registruojami Valstybiniame vaistų registre.
-            4.
-Vaistų (išskyrus veterinarinių), radioaktyvių vaistų, homeopatinių preparatų,
-tradicinės medicinos preparatų, medicininių bioproduktų (toksinų, serumų,
-diagnostinių alergenų, diagnostinių antigenų, diagnostinių serumų, vakcinų),
-biotechnologinių produktų, kraujo preparatų, gydomosios kosmetikos priemonių
-bei specialios paskirties maisto produktų registravimą vykdo ir Vaistų
-registravimo taisykles tvirtina Valstybinė vaistų kontrolės tarnyba.
+3. Vaistai registruojami Vaistinių preparatų registre.
+4. Vaistus (išskyrus veterinarinius), radioaktyvius
+vaistus, homeopatinius preparatus, tradicinės medicinos preparatus,
+medicininius bioproduktus (toksinus, serumus, diagnostinius alergenus,
+diagnostinius antigenus, diagnostinius serumus, vakcinas), biotechnologinius
+produktus, kraujo preparatus, gydomosios kosmetikos priemones bei specialios
+paskirties maisto produktus registruoja Valstybinė vaistų kontrolės tarnyba.
+Vaistų registravimo taisykles tvirtina Sveikatos apsaugos ministerija.
 5. Veterinarinių vaistų registravimą vykdo ir
 Veterinarinių vaistų registravimo taisykles tvirtina Valstybinė maisto ir
 veterinarijos tarnyba.
-6. Valstybinį vaistų registrą tvarko ir jo duomenis
-platina Valstybinė vaistų kontrolės tarnyba ir Valstybinė maisto
-ir veterinarijos tarnyba.
+6. Vaistinių preparatų registrą tvarko ir jo duomenis
+platina Valstybinė vaistų kontrolės tarnyba. Valstybinį veterinarinių vaistų
+registrą tvarko ir jo duomenis platina Valstybinė maisto ir veterinarijos
+tarnyba.
 Straipsnio
 pakeitimai:
 Nr. VIII-1798, 00.07.04, Žin., 2000,
 Nr.61-1809 (00.07.26)
- 
+Nr. IX-2166,
+2004-04-22, Žin., 2004, Nr. 68-2373 (2004-04-29)
  
             4
 straipsnis. Bendrieji vaistų registravimo reikalavimai
 1. Prašymą
-įregistruoti vaistą vaisto gamintojas ar jo įgaliotas atstovas pateikia
-Valstybinei vaistų kontrolės tarnybai arba Valstybinei maisto ir veterinarijos
-tarnybai.
+įregistruoti vaistą vaisto gamintojas ar jo įgaliotas atstovas pateikia Valstybinei
+vaistų kontrolės tarnybai arba Valstybinei maisto ir veterinarijos tarnybai.
             2.
 Kartu su prašymu įregistruoti vaistą vaisto ekspertizei pareiškėjas privalo
 pateikti:
@@ -189,7 +202,6 @@ pakeitimai:
 Nr. VIII-1798, 00.07.04, Žin., 2000,
 Nr.61-1809 (00.07.26)
  
- 
 5 straipsnis. Sprendimas dėl vaisto įregistravimo
 1. Sprendimą dėl vaisto įregistravimo priima
 Valstybinė vaistų kontrolės tarnyba arba Valstybinė maisto ir veterinarijos
@@ -214,7 +226,6 @@ pakeitimai:
 Nr. VIII-1798, 00.07.04, Žin., 2000,
 Nr.61-1809 (00.07.26)
  
- 
 6 straipsnis. Vaisto registravimo dokumento galiojimas
 1. Įregistravus vaistą Valstybiniame vaistų registre,
 Valstybinė vaistų kontrolės tarnyba arba Valstybinė maisto ir veterinarijos
@@ -224,17 +235,16 @@ kontrolės tarnyba arba Valstybinė maisto ir veterinarijos tarnyba.
 2. Vaisto registravimo liudijimas išduodamas ne
 ilgesniam kaip penkerių metų laikotarpiui. Kai šis terminas pasibaigia, vaistas
 gali būti vartojamas tik perregistruotas. Vaisto perregistravimo tvarką nustato
-Valstybinė vaistų kontrolės tarnyba arba Valstybinė maisto ir veterinarijos tarnyba.
+Valstybinė vaistų kontrolės tarnyba arba Valstybinė maisto ir veterinarijos
+tarnyba.
 Straipsnio
 pakeitimai:
 Nr. VIII-1798, 00.07.04, Žin., 2000,
 Nr.61-1809 (00.07.26)
  
- 
             7
-straipsnis. Vaistų laikinas išėmimas iš apyvartos ir vaistų registravimo
-galiojimo 
-panaikinimas
+straipsnis. Vaistų laikinas išėmimas iš apyvartos ir vaistų registravimo 
+galiojimo panaikinimas
             1.
 Vaistai laikinai išimami iš apyvartos ar vaistų registravimo galiojimas
 panaikinamas registravimo taisyklių nustatyta tvarka.
@@ -283,8 +293,8 @@ veterinarijos tarnybos patvirtintus pakuotės teksto ir ženklinimo reikalavimus
 ir kartu su jais lietuvių kalba yra pateikiamos Vaisto vartojimo instrukcija
 veterinarinės medicinos specialistams ir Informacija apie veterinarinį vaistą.
 Vaisto vartojimo instrukcijos veterinarinės medicinos specialistams ir
-Informacijos apie veterinarinį vaistą turinį ir pateikimo sąlygas nustato
-Valstybinė maisto ir veterinarijos tarnyba.
+Informacijos apie veterinarinį vaistą turinį ir pateikimo sąlygas nustato Valstybinė
+maisto ir veterinarijos tarnyba.
             6.
 Vaistai, skirti veterinarijos reikmėms, privalo būti ženklinami užrašu
 “Veterinarijos tikslams”.
@@ -294,7 +304,6 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1798, 00.07.04, Žin., 2000,
 Nr.61-1809 (00.07.26)
- 
  
 KETVIRTASIS SKIRSNIS
 VAISTŲ KOKYBĖS KONTROLĖ
@@ -307,7 +316,6 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1798, 00.07.04, Žin., 2000,
 Nr.61-1809 (00.07.26)
- 
  
 10 straipsnis. Vaistų kokybės kontrolę vykdančių
 institucijų kompetencija
@@ -338,20 +346,19 @@ pakeitimai:
 Nr. VIII-1798, 00.07.04, Žin., 2000,
 Nr.61-1809 (00.07.26)
  
- 
 PENKTASIS SKIRSNIS
 KLINIKINIŲ TIRIAMOJO VAISTO TYRINĖJIMŲ YPATUMAI
             
             11
 straipsnis. Klinikinių tiriamojo vaisto tyrinėjimų ypatumai
-            1.
-Klinikinius tiriamojo vaisto tyrinėjimus reglamentuoja įstatymai, Sveikatos
-apsaugos ministerijos patvirtintos Vaistų tyrinėjimo geros klinikinės praktikos
-taisyklės bei kiti teisės aktai, kurių laikymąsi kontroliuoja Valstybinė vaistų
-kontrolės tarnyba ir kitos įstatymų įgaliotos institucijos.
-2. Leidimą vykdyti tiriamojo vaisto klinikinius
-tyrinėjimus išduoda Lietuvos bioetikos komitetas Valstybinės vaistų kontrolės
-tarnybos teikimu.
+            1. Klinikinius tiriamojo vaisto tyrinėjimus
+reglamentuoja įstatymai, Sveikatos apsaugos ministerijos patvirtintos Vaistų
+tyrinėjimo geros klinikinės praktikos taisyklės bei kiti teisės aktai, kurių
+laikymąsi kontroliuoja Valstybinė vaistų kontrolės tarnyba ir kitos įstatymų
+įgaliotos institucijos.
+2. Leidimą vykdyti klinikinį vaistinio preparato
+tyrimą išduoda Valstybinė vaistų kontrolės tarnyba Lietuvos bioetikos komiteto
+ar Regioninio biomedicininių tyrimų etikos komiteto pritarimu.
             3.
 Veterinarinių vaistų tyrinėjimo tvarką nustato Valstybinė maisto ir
 veterinarijos tarnyba.
@@ -360,7 +367,8 @@ Nr. VIII-1673, 00.05.11, Žin., 2000,
 Nr.44-1246 (00.05.31) 
 Nr. VIII-1798, 00.07.04, Žin., 2000,
 Nr.61-1809 (00.07.26)
- 
+Nr. IX-2166,
+2004-04-22, Žin., 2004, Nr. 68-2373 (2004-04-29)
  
 ŠEŠTASIS SKIRSNIS
 VAISTŲ RIZIKOS VEIKSNIŲ VERTINIMAS.
@@ -384,7 +392,6 @@ pakeitimai:
 Nr. VIII-1798, 00.07.04, Žin., 2000,
 Nr.61-1809 (00.07.26)
  
- 
             13
 straipsnis. Informavimas apie vaistus
             1.
@@ -398,7 +405,6 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1798, 00.07.04, Žin., 2000,
 Nr.61-1809 (00.07.26)
- 
  
 SEPTINTASIS SKIRSNIS
 VETERINARINIAI VAISTAI
@@ -425,7 +431,6 @@ pakeitimai:
 Nr. VIII-1798, 00.07.04, Žin., 2000,
 Nr.61-1809 (00.07.26)
  
- 
 AŠTUNTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
             
@@ -447,7 +452,26 @@ straipsnis. Įstatymo įsigaliojimas
 RESPUBLIKOS
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
  
-________________
+                                                                                                  
+Lietuvos Respublikos
+                                                                                    1996
+m. lapkričio 19 d. 
+                                                                                    įstatymo
+Nr. I-1633
+                                                                                    priedas
+ 
+ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+ 
+2001 m. balandžio 4 d. Europos Parlamento ir Tarybos
+direktyva 2001/20/EB dėl valstybių narių įstatymų ir kitų teisės aktų,
+susijusių su geros klinikinės praktikos įgyvendinimu atliekant žmonėms skirtų
+vaistų klinikinius tyrimus, suderinimo.
+Įstatymas papildytas
+straipsniu:
+Nr. IX-2166,
+2004-04-22, Žin., 2004, Nr. 68-2373 (2004-04-29)
+ 
+_______________
  
 Pakeitimai: 
  
@@ -464,9 +488,21 @@ Nr.61-1809 (00.07.26)
 VAISTŲ ĮSTATYMO 3, 4, 5,
 6, 8, 9, 10, 11, 12, 13, 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2166,
+2004-04-22, Žin., 2004, Nr. 68-2373 (2004-04-29)
+VAISTŲ
+ĮSTATYMO 2, 3, 11 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė
-Trapinskienė (2000.08.16)
+Redagavo:
+Aušrinė Trapinskienė (2004-05-05)
+                 
+autrap@lrs.lt
 
