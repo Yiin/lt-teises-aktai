@@ -13,10 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.172F280D69BC"
 
 # Lietuvos Respublikos gyventojų indėlių draudimo įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 Redagavo:
-Ramunė Lūžaitė (1997.07.11)
+Ramunė Lūžaitė (1999.01.06)
  
 Įstatymas
 paskelbtas: Žin., 1996 Nr.1-1
@@ -45,6 +45,15 @@ IR PAPILDYMO ĮSTATYMAS
 Įstatymas įsigalioja
 nuo 1998 m. sausio 1 d.
  
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1004,
+98.12.22, Žin., 1998, Nr.115-3247 (98.12.31)
+LIETUVOS
+RESPUBLIKOS GYVENTOJŲ INDĖLIŲ DRAUDIMO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -58,12 +67,10 @@ Vilnius
  
 I SKIRSNIS. BENDROSIOS NUOSTATOS 
  
- 
      1
 straipsnis. Įstatymo paskirtis    Šio įstatymo  paskirtis - nustatyti
 gyventojų  indėlių, laikomų Lietuvos bankuose, privalomojo draudimo tvarką ir
 šių indėlių kompensavimą Indėlių draudimo fondo (toliau - Fondas) lėšomis. 
- 
  
      2
 straipsnis. Pagrindinės sąvokos
@@ -82,8 +89,8 @@ draudiminio įvykio atveju;
 - komercinis bankas, nustatyta tvarka į Fondą sumokėjęs visą pirmąją metinę
 draudimo įmoką ir mokantis kitas įmokas;
      draudiminis
-įvykis - Lietuvos Respublikos komercinių bankų įstatymo nustatyta tvarka
-bankroto bylos iškėlimas draudėjui;
+įvykis - Lietuvos Respublikos komercinių bankų įstatymo nustatyta tvarka bankroto
+bylos iškėlimas draudėjui;
      indėlis
 - vienas ar keli vardiniai indėliai tame pačiame banke, priklausantys vienam
 gyventojui;
@@ -91,9 +98,8 @@ gyventojui;
 suma - draudžiamo indėlio suma. 
  
  
-          
-             II SKIRSNIS. INDĖLIŲ DRAUDIMAS 
- 
+                       
+II SKIRSNIS. INDĖLIŲ DRAUDIMAS 
  
      3
 straipsnis. Draudimo objektas ir draudimo suma
@@ -102,8 +108,8 @@ straipsnis. Draudimo objektas ir draudimo suma
 straipsnio redakcija iki 1998 m. sausio 1 d.]
      Draudimo
 objektas yra Lietuvos bankuose laikomi gyventojų indėliai litais ir užsienio
-valiuta - Jungtinių Amerikos Valstijų doleriais ir Vokietijos Federacinės
-Respublikos markėmis (toliau - užsienio valiuta).
+valiuta - Jungtinių Amerikos Valstijų doleriais ir Vokietijos Federacinės Respublikos
+markėmis (toliau - užsienio valiuta).
      Neapdraudžiami 
 gyventojų  indėliai  Lietuvos  bankų dukteriniuose bankuose ar šių bankų
 teritoriniuose padaliniuose, veikiančiuose ne Lietuvos Respublikos
@@ -137,7 +143,6 @@ Nr.
 I-1189, 96.02.01, Žin., 1996, Nr.14-354
 Nr.
 VIII-296, 97.06.24, Žin., 1997, Nr.66-1596 (97.07.11)
- 
  
      4
 straipsnis. Draudimo kompensacija
@@ -216,7 +221,6 @@ pakeitimai:
 Nr.
 VIII-296, 97.06.24, Žin., 1997, Nr.66-1596 (97.07.11)
  
- 
      5
 straipsnis. Draudimo kompensacijų apribojimai
  
@@ -232,8 +236,8 @@ su banku susijusių asmenų indėlius;
 banko paskolos gavėjo indėlius, jeigu jų dydis neviršija jo negrąžintų paskolų
 su palūkanomis dydžio. Jeigu banko paskolos gavėjo indėlis yra didesnis už šio
 gavėjo negrąžintas paskolas kartu su palūkanomis, kompensuojamas indėlio ir
-paskolų su palūkanomis skirtumas,  bet ne didesnis negu nurodytas šio įstatymo 4
-straipsnio pirmojoje dalyje;
+paskolų su palūkanomis skirtumas,  bet ne didesnis negu nurodytas šio įstatymo
+4 straipsnio pirmojoje dalyje;
      5)
 anoniminėse ir užkoduotose sąskaitose laikomus indėlius;
      6)
@@ -250,7 +254,6 @@ Straipsnio
 pakeitimai:
 Nr.
 I-1189, 96.02.01, Žin., 1996, Nr.14-354
- 
  
      6
 straipsnis. Draudimo įmoka
@@ -285,7 +288,6 @@ I-1189, 96.02.01, Žin., 1996, Nr.14-354
 Nr.
 VIII-296, 97.06.24, Žin., 1997, Nr.66-1596 (97.07.11)
  
- 
      7
 straipsnis. Draudimo nutraukimas 
  
@@ -309,7 +311,6 @@ sprendimo apie draudimo nutraukimą paskelbimo "Valstybės žiniose".
                  
 III SKIRSNIS. INDĖLIŲ DRAUDIMO FONDAS 
  
- 
      8
 straipsnis. Fondo statusas
  
@@ -328,16 +329,14 @@ taip pat savo įstatais.
 neatsako už valstybės prievoles. Valstybė atsako tik už šiame įstatyme
 nustatytas draudimines Fondo prievoles. 
  
- 
      9
 straipsnis. Fondo įstatai
  
      Fondo
 įstatuose turi būti nurodytos Fondo funkcijos, jo tarybos ir administracijos
 teisės bei pareigos, taip pat Lietuvos Respublikos valstybės  ir savivaldybės 
-įmonių  įstatymo  6 straipsnyje nustatyti kiti reikalavimai. Fondo įstatus
-tvirtina Lietuvos Respublikos Vyriausybė. 
- 
+įmonių  įstatymo  6 straipsnyje nustatyti kiti reikalavimai. Fondo įstatus tvirtina
+Lietuvos Respublikos Vyriausybė. 
  
      10
 straipsnis. Fondo funkcijos 
@@ -354,7 +353,6 @@ tikrina, ar draudėjai nepažeidžia nustatytos indėlių draudimo tvarkos;
      4)
 atlieka kitas fondo įstatuose numatytas funkcijas. 
  
- 
      11
 straipsnis. Fondo veikla
  
@@ -362,8 +360,7 @@ straipsnis. Fondo veikla
 draudžia gyventojų indėlius, investuoja Fondo lėšas ir atlieka kitą veiklą,
 kuri numatyta Fondo įstatuose. 
  
- 
-     12
+    12
 straipsnis. Fondo teisės
  
      Fondas,
@@ -392,13 +389,11 @@ ne ginčo tvarka išieškoti iš draudėjo laiku nesumokėtas įmokas ;
      10)
 užsiimti kita Fondo įstatuose numatyta veikla. 
  
- 
      13
 straipsnis. Fondo valdymas
  
      Fondo
 valdymo organai yra Fondo taryba ir administracija. 
- 
  
      14
 straipsnis. Fondo taryba
@@ -462,7 +457,6 @@ kitas Fondo įstatuose nurodytas teises.
 vadovas ir darbuotojai Lietuvos Respublikos įstatymų nustatyta tvarka privalo
 atlyginti Fondui nuostolius, padarytus dėl jų kaltės. 
  
- 
      16
 straipsnis. Fondo paslapčių saugojimas
  
@@ -475,7 +469,6 @@ informacijos slaptumą garantuoja tų valstybių įstatymai.
 žinių,  laikomų Fondo paslaptimi, paskleidimą Fondo tarybos nariai ir
 darbuotojai atsako įstatymų nustatyta tvarka. 
  
- 
      17
 straipsnis. Fondo kapitalas
  
@@ -485,8 +478,8 @@ kapitalą sudaro įstatinis ir atsargos kapitalas.
 įstatinis kapitalas formuojamas iš valstybės biudžeto lėšų.
      Fondo
 įstatinis kapitalas steigimo metu yra 10 mln. litų.
-     Fondo
-įstatinis kapitalas per 1997 ir 1998 metus turi būti padidintas iki 50 mln.
+Fondo
+įstatinis kapitalas iki 2002 metų turi būti padidintas iki 60 mln.
 litų.
      Jeigu
 Fondo aktyvai tampa mažesni už jo įsipareigojimus, lėšos jiems  padidinti iki
@@ -495,6 +488,10 @@ biudžetą.
      Atsargos
 kapitalas formuojamas iš Fondo pelno. 
  
+Straipsnio
+pakeitimai:
+Nr. VIII-1004,
+98.12.22, Žin., 1998, Nr.115-3247 (98.12.31)
  
      18
 straipsnis. Fondo pajamos
@@ -511,7 +508,6 @@ pajamos iš Fondo lėšų investavimo;
 lėšos,  įstatymų  nustatyta  tvarka  išieškotos  iš likviduojamo banko;
      5)
 lėšos, gautos iš kitos veiklos, numatytos šiame įstatyme ir Fondo įstatuose. 
- 
  
      19
 straipsnis. Fondo išlaidos
@@ -530,7 +526,6 @@ palūkanos už Fondo imamas paskolas;
 kitos išlaidos, susidariusios atliekant funkcijas, kurios neprieštarauja
 Lietuvos Respublikos įstatymams ir Fondo įstatams.
  
- 
      20
 straipsnis. Fondo veiklos rezultatas
  
@@ -542,7 +537,6 @@ Fondo pelnas naudojamas Fondo atsargos kapitalui didinti.
      Finansiniai
 metai prasideda sausio 1 d. ir baigiasi gruodžio 31 dieną. 
  
- 
      21
 straipsnis. Fondo lėšų investavimas
  
@@ -550,14 +544,12 @@ straipsnis. Fondo lėšų investavimas
 lėšos  gali būti  investuojamos tik  į Lietuvos Respublikos  Vyriausybės  bei 
 kitų  valstybių  vyriausybių vertybinius popierius. 
  
- 
      22
 straipsnis. Finansinės veiklos kontrolė
  
      Metinė
-Fondo  finansinė ataskaita turi būti patikrinta nepriklausomo audito ir paskelbta
-ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos. 
- 
+Fondo  finansinė ataskaita turi būti patikrinta nepriklausomo audito ir
+paskelbta ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos. 
  
      23
 straipsnis. Fondo atleidimas nuo mokesčių
@@ -565,7 +557,6 @@ straipsnis. Fondo atleidimas nuo mokesčių
      Fondas
 atleidžiamas nuo juridinių asmenų pelno mokesčio bei palūkanų už kapitalo
 naudojimą mokėjimo į valstybės biudžetą. 
- 
  
      24
 straipsnis. Fondo sprendimų apskundimas
@@ -577,7 +568,6 @@ būti apskųsti teismui įstatymų nustatyta tvarka.
  
                  
 IV SKIRSNIS. BAIGIAMOSIOS NUOSTATOS 
- 
  
      25
 straipsnis. Veikiančių bankų dalyvavimas privalomojo draudimo 
@@ -604,14 +594,12 @@ bankai privalo šio įstatymo nustatyta tvarka drausti gyventojų indėlius.
 kad šio įstatymo 5 straipsnio pirmosios dalies 7 punktas netenka galios nuo
 1997 m. sausio 1 dienos. 
  
- 
      26
 straipsnis. Teisės į draudimo kompensaciją atsiradimas
  
      Teisę
 į draudimo kompensaciją, nustatytą šio įstatymo 4 straipsnio antrojoje dalyje,
 gyventojai įgyja, kai bankas yra įmokėjęs visą metinę draudimo įmoką. 
- 
  
      27
 straipsnis. Pasiūlymai Lietuvos Respublikos valstybės institucijoms
@@ -633,5 +621,5 @@ Finansų ministerijai iki 1996 m. balandžio 1 d. šio įstatymo nustatyta tvark
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  RESPUBLIKOS
-PREZIDENTAS                           ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                           ALGIRDAS BRAZAUSKAS
 
