@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA7CC8021E9D"
 
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas
 
-Suvestinė redakcija nuo 2000-01-19 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2007-01-10
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 66-1609, i. k. 0971010ISTAVIII-342
  
@@ -498,7 +498,15 @@ g) paimti priverstiniams darbams už Lietuvos ribų, taip pat kartu su jais buv�
 
 
 
-h) asmenys, nukentėję ar persekioti už okupacinių režimų persekiojamų nepilnamečių asmenų gelbėjimą ir globą.
+h) asmenys, nukentėję ar persekioti už okupacinių režimų persekiojamų nepilnamečių asmenų gelbėjimą ir globą,
+
+
+
+
+i) kurie būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje metu atliko tarnybą Afganistane.
+Papildyta papunkčiu:
+Nr. IX-2384, 2004-07-15, Žin., 2004, Nr. 116-4331 (2004-07-27), i. k. 1041010ISTA0IX-2384
+ 
 
 
 
@@ -612,6 +620,14 @@ Nr. VIII-1522, 2000-01-04, Žin., 2000, Nr. 5-129 (2000-01-19), i. k. 1001010IST
 
 
 
+3. Asmenų, nurodytų šio įstatymo 7 straipsnio 1 dalies 8 punkto i papunktyje, teisinio statuso pripažinimą, pažymėjimų išdavimą bei jų apskaitą Vyriausybės nustatyta tvarka atlieka Krašto apsaugos ministerija.
+Papildyta straipsnio dalimi:
+Nr. IX-2384, 2004-07-15, Žin., 2004, Nr. 116-4331 (2004-07-27), i. k. 1041010ISTA0IX-2384
+ 
+
+
+
+
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -628,3 +644,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1522, 2000-01-04, Žin., 2000, Nr. 5-129 (2000-01-19), i. k. 1001010ISTAIII-1522
 Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 2, 3, 5, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2384, 2004-07-15, Žin., 2004, Nr. 116-4331 (2004-07-27), i. k. 1041010ISTA0IX-2384
+Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 7 ir 9 straipsnių papildymo įstatymas
