@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1992-09-25 iki 1992-12-12
+Suvestinė redakcija nuo 1992-12-13 iki 1993-02-12
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
+ 
+TAR pastaba. Nuo 1992 m. gruodžio 12 d. iki 1993 m. sausio 15 d. atidedamas Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 14 straipsnio pirmosios dalies 1 ir 2 punktų („1) parduodant privatizavimo objektus aukcionuose; 2) skelbiant viešą akcijų pasirašymą.“), 16 ir 17 straipsnių galiojimas.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-18, 1992-12-10, Lietuvos aidas, 1992, Nr. 244-0 (1992-12-12); Žin., 1992, Nr. 36-1098 (1992-12-31), i. k. 0921010ISTA0000I-18
+Dėl valstybinio turto privatizavimo aukcionų ir viešo akcijų pasirašymo atidėjimo
  
 LIETUVOS RESPUBLIKOS
 VALSTYBINIO TURTO PIRMINIO PRIVATIZAVIMO
@@ -539,4 +544,9 @@ Dėl kai kurių Lietuvos Respublikos įstatymų atskirų straipsnių pakeitimo
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-2893, 1992-09-17, Lietuvos aidas, 1992, Nr. 187-0 (1992-09-24); Žin., 1992, Nr. 28-812 (1992-10-10), i. k. 0921010ISTA00I-2893
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo ir pakeitimo
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-18, 1992-12-10, Lietuvos aidas, 1992, Nr. 244-0 (1992-12-12); Žin., 1992, Nr. 36-1098 (1992-12-31), i. k. 0921010ISTA0000I-18
+Dėl valstybinio turto privatizavimo aukcionų ir viešo akcijų pasirašymo atidėjimo
 
