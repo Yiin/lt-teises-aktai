@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B494EC0B78B0"
 
 # Lietuvos Respublikos prekių ženklų įstatymas
 
-Suvestinė redakcija nuo 2004-03-13 iki 2004-04-30
+Suvestinė redakcija nuo 2004-05-01 iki 2006-06-27
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2844, i. k. 1001010ISTAIII-1981
  
@@ -154,6 +154,22 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 21. Juridinio asmens pavadinimas – juridinio asmens, jo filialo arba atstovybės pavadinimas. 
+Papildyta straipsnio dalimi:
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+ 
+
+
+
+
+22. Bendrijos prekių ženklas – ženklas, pareikštas registruoti arba įregistruotas pagal Reglamentą dėl Bendrijos prekių ženklo. 
+Papildyta straipsnio dalimi:
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+ 
+
+
+
+
+23. Reglamentas dėl Bendrijos prekių ženklo – 1993 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 40/94 dėl Bendrijos prekių ženklo.
 Papildyta straipsnio dalimi:
 Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
  
@@ -366,9 +382,17 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
+7) tapatus ankstesniam Bendrijos prekių ženklui arba klaidinamai į jį panašus, jeigu vėlesnis ženklas pareikštas registruoti ar įregistruotas prekėms ir (ar) paslaugoms, kurios nėra panašios į prekes ir (ar) paslaugas, kurioms registruotas ankstesnis Bendrijos prekių ženklas, jeigu ankstesnis Bendrijos prekių ženklas turi reputaciją Europos Bendrijoje ir jeigu dėl neteisėto vėlesnio ženklo naudojimo gali atsirasti galimybė nesąžiningai įgyti pranašumą arba pažeisti ankstesnio Bendrijos prekių ženklo skiriamąjį požymį, arba pakenkti jo reputacijai. 
+Papildyta straipsnio punktu:
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+ 
 
 
-2. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytas ankstesnis ženklas yra:
+
+
+
+
+2. Šio straipsnio 1 dalies 1, 2 ir 7 punktuose nurodytas ankstesnis ženklas yra:
 
 
 1) ženklas, kurio paraiškos padavimo Lietuvos Respublikoje data yra ankstesnė už šio straipsnio 1 dalyje nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą;
@@ -381,9 +405,22 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-3) ženklas, kuris šio straipsnio 1 dalyje nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą, šio įstatymo 9 straipsnio nustatyta tvarka yra pripažintas plačiai žinomu Lietuvos Respublikoje. 
+3) ženklas, kuris šio straipsnio 1 dalyje nurodyto ženklo paraiškos padavimo datai, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą, šio įstatymo 9 straipsnio nustatyta tvarka yra pripažintas plačiai žinomu Lietuvos Respublikoje;
 
 
+
+
+4) Bendrijos prekių ženklas, kurio paraiškos padavimo data pagal Reglamentą dėl Bendrijos prekių ženklo yra ankstesnė už šio straipsnio 1 dalyje nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą;
+
+
+
+
+5) Bendrijos prekių ženklas, kuriam Reglamento dėl Bendrijos prekių ženklo nustatyta tvarka prašoma suteikti pirmenybę šio straipsnio 2 dalies 1 ar 2 punkte nurodyto ženklo pagrindu, net jeigu pastarojo buvo atsisakyta arba leista pasibaigti jo galiojimo terminui.
+
+
+Straipsnio dalies pakeitimai:
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+ 
 
 
 
@@ -497,7 +534,10 @@ TREČIASIS SKIRSNIS
 
 
 
-2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su ženklo registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant ir atstovavimą Apeliaciniame skyriuje, atlieka per Lietuvos Respublikos patentinį patikėtinį.
+2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su ženklo registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Apeliaciniame skyriuje, atlieka per Lietuvos Respublikos patentinį patikėtinį.
+Straipsnio dalies pakeitimai:
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+ 
 
 
 
@@ -1727,7 +1767,10 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 40 straipsnis. Ženklo savininko teisių pasibaigimas
 
 
-1. Ženklo registracija nesuteikia jo savininkui teisės uždrausti kitam asmeniui žymėti juo prekes, kurios paties ženklo savininko arba jo sutikimu yra pažymėtos ir išleistos į Lietuvos Respublikos ar bet kurios kitos valstybės, su kuria Lietuvos Respublika dėl šių prekių yra sudariusi dvišales ar daugiašales bendros rinkos, muitų sąjungos ar panašias tarptautines sutartis, rinką.
+1. Ženklo registracija nesuteikia jo savininkui teisės uždrausti kitam asmeniui žymėti juo prekes, kurios paties ženklo savininko arba jo sutikimu yra pažymėtos ir išleistos į Europos Bendrijos rinką.
+Straipsnio dalies pakeitimai:
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+ 
 
 
 
@@ -1996,6 +2039,14 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
+6. Ankstesnio ženklo, saugomo pagal šį įstatymą, kurio pagrindu buvo siekiama Bendrijos prekių ženklui pirmenybės, registracija gali būti pripažinta negaliojančia arba panaikinta a posteriori (remiantis vėlesnėmis aplinkybėmis) net ir tuo atveju, kai jau yra pasibaigęs šio ženklo registracijos galiojimo terminas arba kai ženklo savininko prašymu šis ženklas jau yra išregistruotas.
+Papildyta straipsnio dalimi:
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+ 
+
+
+
+
 
 
 47 straipsnis. Ženklo registracijos panaikinimas
@@ -2259,6 +2310,29 @@ Vyriausybė iki 2001 m. sausio 1 d. suderina teisės aktus, susijusius su šio �
 
 
 
+551 straipsnis. Reglamento dėl Bendrijos prekių ženklo taikymas
+
+
+1. Valstybinis patentų biuras yra centrinė pramoninės nuosavybės tarnyba pagal Reglamentą dėl Bendrijos prekių ženklo.
+
+
+
+
+2. Valstybinis patentų biuras patvirtina reikalingus teisės aktus, susijusius su Reglamento dėl Bendrijos prekių ženklo taikymu.
+
+
+
+
+3. Mokesčiai už Valstybinio patentų biuro atliekamus veiksmus padavus per Valstybinį patentų biurą paraišką Bendrijos prekių ženklui registruoti mokami Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo ir Reglamento dėl Bendrijos prekių ženklo nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+ 
+
+
+
+
 56 straipsnis. Įstatymo įsigaliojimas
 
 
@@ -2303,13 +2377,34 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos prekių ženklų įstatymo
-Nr. VIII-1981
+Lietuvos Respublikos
+2000 m. spalio 10 d. įstatymo Nr. VIII-1981
 priedas
  
-Lietuvos Respublikos prekių ženklų įstatymas yra suderintas su 1988 m. gruodžio 21 d. Pirmąja Tarybos direktyva Nr. 89/104/EEB dėl valstybių narių prekių ženklų įstatymų derinimo.
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 1988 m. gruodžio 21 d. Pirmoji Tarybos direktyva 89/104/EEB dėl valstybių narių prekių ženklų įstatymų derinimo.
+
+
+
+
+2. 1993 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 40/94 dėl Bendrijos prekių ženklo.
+
+
+
+
+3. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo.
+Papildyta straipsnio dalimi:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
+
+
 Papildyta priedu:
 Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+Priedo pakeitimai:
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
  
  
  
