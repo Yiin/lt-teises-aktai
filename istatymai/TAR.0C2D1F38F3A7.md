@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 1999-10-15 iki 2000-02-22
+Suvestinė redakcija nuo 2000-02-23 iki 2000-04-04
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
  
@@ -2992,7 +2992,10 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 
 
 
-2. Nemokiai akcinei bendrovei draudžiama didinti įstatinį kapitalą papildomais įnašais viešai platinant akcijas. Šias akcijas ji gali platinti tik savo akcininkams ir darbuotojams.
+2. Nemokiai akcinei bendrovei draudžiama didinti įstatinį kapitalą papildomais įnašais viešai platinant akcijas. Šias akcijas ji gali platinti tik savo kreditoriams, akcininkams ir darbuotojams.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010ISTAIII-1532
+ 
 
 
 
@@ -3079,7 +3082,11 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 45 straipsnis. Įstatinio kapitalo sumažinimas
 
 
-1. Įstatinis kapitalas gali būti sumažinamas visuotinio akcininkų susirinkimo nutarimu, priimtu 2/3 balsų. Kai bendrovė turi išleidusi skirtingų klasių akcijas, visuotinis akcininkų susirinkimas gali sumažinti įstatinį kapitalą, jeigu tam pritaria atskirų klasių akcijų savininkai (taip pat ir neturintys balsavimo teisės) 2/3 tos klasės akcijų savininkų, dalyvavusių susirinkime, balsų.
+1. Įstatinis kapitalas gali būti sumažinamas visuotinio akcininkų susirinkimo nutarimu, priimtu 2/3 balsų. Kai bendrovė turi išleidusi skirtingų klasių akcijas, visuotinis akcininkų susirinkimas gali sumažinti įstatinį kapitalą, jei tam pritaria atskirų klasių akcijų savininkai (taip pat ir neturintys balsavimo teisės) 2/3 tos klasės akcijų savininkų, dalyvavusių susirinkime, balsų. Jeigu bendrovė mažina įstatinį kapitalą šio straipsnio 2 dalies 2 punkte nurodytu atveju, tai kartu tame pačiame visuotiniame akcininkų susirinkime galima nutarti didinti bendrovės įstatinį kapitalą papildomais įnašais, išleidžiant naujas akcijas, kurias įsigis bendrovės kreditoriai. 
+TAR pastaba. 1 dalies redakcija, galiojanti iki 2000 m. gruodžio 31 d.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010ISTAIII-1532
+ 
 
 
 
@@ -3092,7 +3099,11 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 
 
 
-2) panaikintas dėl nuostolių susidaręs bendrovės nuosavo kapitalo ir įstatinio kapitalo skirtumas;
+2) panaikinti bendrovės balanse įrašyti nuostoliai; 
+TAR pastaba. 2 punkto redakcija, galiojanti iki 2000 m. gruodžio 31 d.
+Straipsnio punkto pakeitimai:
+Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010ISTAIII-1532
+ 
 
 
 
@@ -3166,9 +3177,11 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 
 
 
-7. Dėl įstatinio kapitalo sumažinimo bendrovės įstatų pakeitimai registruojami Įmonių rejestro įstatymo nustatyta tvarka: ne anksčiau kaip praėjus 6 mėnesiams po pirmojo ir 30 dienų po trečiojo viešo paskelbimo arba 3 mėnesiams po to, kai buvo pranešta visiems akcininkams ir kreditoriams bei buvo suteiktos papildomos garantijos jų pareikalavusiems kreditoriams. Šios taisyklės netaikomos, jei įstatinis kapitalas mažinamas anuliuojant bendrovės akcijas, kurias bendrovė supirko iš grynojo pelno ar nepaskirstytojo pelno arba įsigijo nemokamai. Įstatinis kapitalas laikomas sumažintu tik įstatų pakeitimus įregistravus Lietuvos Respublikos įmonių rejestre.
+7. Dėl įstatinio kapitalo sumažinimo bendrovės įstatų pakeitimai registruojami Įmonių rejestro įstatymo nustatyta tvarka: ne anksčiau kaip praėjus 6 mėnesiams po pirmojo ir 30 dienų po trečiojo viešo paskelbimo arba 3 mėnesiams po to, kai buvo pranešta visiems akcininkams bei kreditoriams ir buvo suteiktos papildomos garantijos jų pareikalavusiems kreditoriams. Šios taisyklės netaikomos, jei įstatinis kapitalas mažinamas, anuliuojant bendrovės akcijas, kurias bendrovė supirko iš grynojo pelno ar nepaskirstytojo pelno arba įsigijo nemokamai. Įstatinis kapitalas laikomas sumažintu tik įstatų pakeitimus įregistravus Lietuvos Respublikos įmonių rejestre. Jei bendrovės įstatinis kapitalas mažinamas, kad būtų panaikinti į bendrovės balansą įrašyti nuostoliai, bendrovės įstatų pakeitimai gali būti pateikiami įmonių rejestro tvarkytojui registruoti iš karto po visuotinio akcininkų susirinkimo nutarimo priėmimo.
+TAR pastaba. 7 dalies redakcija, galiojanti iki 2000 m. gruodžio 31 d. 
 Straipsnio dalies pakeitimai:
 Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010ISTAIII-1532
 Straipsnio dalies numeracijos pakeitimas:
 Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010ISTAVIII-666
  
@@ -3579,3 +3592,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo 13 straipsnio papildymo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1345, 1999-10-05, Žin., 1999, Nr. 86-2562 (1999-10-15), i. k. 0991010ISTAIII-1345
 Lietuvos Respublikos akcinių bendrovių įstatymo 13 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010ISTAIII-1532
+Lietuvos Respublikos akcinių bendrovių įstatymo 43 ir 45 straipsnių pakeitimo įstatymas
