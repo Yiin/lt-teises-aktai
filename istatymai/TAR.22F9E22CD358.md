@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.22F9E22CD358"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2003-12-31
+Suvestinė redakcija nuo 2004-01-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 107-0; Žin. 1990, Nr.31-747, i. k. 090XX01ISTA000I-676
+ 
+TAR pastaba. Nuo Įstatymo Nr. IX-1804 įsigaliojimo (2004-01-01) Ūkinių bendrijų įstatymas (Žin., 1990, Nr. 31-747; 1993, Nr. 32-731, Nr. 49-964, Nr. 52-998, Nr. 62-1169; 1997, Nr. 66-1608, Nr. 69-1742, Nr. 117-3003; 2001, Nr. 102-3626; 2003, Nr. 38-1720) taikomas reorganizuojant ir likviduojant tik tas bendrijas, dėl kurių reorganizavimo ir likvidavimo sprendimai priimti iki šio Įstatymo įsigaliojimo. Nuo šio Įstatymo įsigaliojimo kituose įstatymuose vartojama sąvoka „bendrosios jungtinės veiklos sutartis“ atitinka sąvoką „jungtinės veiklos sutartis“, sąvoka „narys komanditorius“ atitinka sąvoką „komanditorius“.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1804, 2003-11-06, Žin., 2003, Nr. 112-4990 (2003-11-28), i. k. 1031010ISTA0IX-1804
+Lietuvos Respublikos ūkinių bendrijų įstatymas
  
  
 LIETUVOS RESPUBLIKOS
@@ -857,3 +862,8 @@ Lietuvos Respublikos ūkinių bendrijų įstatymo 12 straipsnio papildymo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1475, 2003-04-03, Žin., 2003, Nr. 38-1720 (2003-04-24), i. k. 1031010ISTA0IX-1475
 Lietuvos Respublikos ūkinių bendrijų įstatymo 17 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1804, 2003-11-06, Žin., 2003, Nr. 112-4990 (2003-11-28), i. k. 1031010ISTA0IX-1804
+Lietuvos Respublikos ūkinių bendrijų įstatymas
