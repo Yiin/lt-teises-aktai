@@ -81,7 +81,7 @@ I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
  
  
-II. skyrius.
+II skyrius.
 Lietuvos Respublikos gyventojų
 aprūpinimo
 vaistais garantijos
@@ -96,7 +96,7 @@ medicininės paskirties gaminiais.
 kitų medicininės paskirties gaminių sąrašą sudaro ir tvirtina Lietuvos
 Respublikos sveikatos apsaugos ministerija. 
  
-III. skyrius.
+III skyrius.
 Valstybinė vaistų registracija 
  
             4 straipsnis.
@@ -113,7 +113,6 @@ pakeitimai:
 Nr.
 I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
- 
  
             6 straipsnis.
             Už vaistų ir vaistinių
@@ -151,7 +150,7 @@ privalo sustabdyti ar uždrausti vaisto gamybą, įvežimą ir realizaciją Liet
 Respublikoje, jei paaiškėja ir nustatoma, kad tas vaistas žalingai veikia
 žmonių sveikatą ar paveldimumą.
  
-IV. skyrius.
+IV skyrius.
 Farmacinės veiklos teisinės sąlygos 
  
             10 straipsnis.
@@ -167,25 +166,31 @@ I-1442,
 Nr. VIII-258,
 97.06.12, Žin., 1997, Nr.58-1332 (97.06.20)
  
- 
             11 straipsnis.
             Leidimas (licenzija)
 užsiimti farmacine veikla vaistinėse gali būti išduodamas tik tiems fiziniams
 asmenims, kurie turi aukštąjį ir specialųjį vidurinį farmacinį išsilavinimą ir
 jų kvalifikacija atitinka Sveikatos apsaugos ministerijos patvirtintus
 reikalavimus.
-             Vaistinės, išskyrus
-valstybines, valstybines akcines ir labdaros organizacijų vaistines, gali
-priklausyti nuosavybės teise tik turintiems aukštąjį farmacinį išsilavinimą
-fiziniams asmenims arba fizinių asmenų grupėms, kuriose daugiau kaip pusė
-vaistinės (vaistinės dalies) įstatinio kapitalo priklauso asmenims, turintiems
-aukštąjį ar specialųjį vidurinį farmacinį išsilavinimą.
+            *Vaistinės, išskyrus valstybines,
+valstybines akcines ir labdaros organizacijų vaistines, gali priklausyti
+nuosavybės teise tik turintiems aukštąjį farmacinį išsilavinimą fiziniams
+asmenims arba fizinių asmenų grupėms, kuriose daugiau kaip pusė vaistinės
+(vaistinės dalies) įstatinio kapitalo priklauso asmenims, turintiems aukštąjį
+ar specialųjį vidurinį farmacinį išsilavinimą.
+*Pastaba. Pripažinti, kad
+Lietuvos Respublikos farmacinės veiklos įstatymo 11 straipsnio 2 dalis ta
+apimtimi, kuria ribojama fizinių asmenų, neturinčių aukštojo farmacinio
+išsilavinimo, taip pat fizinių asmenų grupių teisė turėti nuosavybės teise vaistinių,
+prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims, 46
+straipsnio 1 daliai ir 48 straipsnio 1 daliai.
 Straipsnio
 pakeitimai:
 Nr.
 I-205,
 93.07.08, Žin., 1993, Nr.29-666 (93.07.16)
- 
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2002-03-14, Žin., 2002, Nr. 28-1003 (2002-03-16)
  
             12 straipsnis.
             Vaistinę padalinio teisėmis
@@ -200,7 +205,6 @@ pakeitimai:
 Nr.
 I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
- 
  
             13 straipsnis.
             Gaminti vaistus pagal
@@ -226,7 +230,6 @@ I-1442,
 Nr. VIII-258,
 97.06.12, Žin., 1997, Nr.58-1332 (97.06.20)
  
- 
             15 straipsnis.
             Būtino asortimento vaistų
 sąraše esančių vaistų kainas tvirtina ir nustato jas vienodas visoje
@@ -242,7 +245,6 @@ Nr.
 I-205,
 93.07.08, Žin., 1993, Nr.29-666 (93.07.16)
  
- 
             16 straipsnis.
             Gaminant vaistus, gali būti
 vartojamos tik tos pagalbinės medžiagos, kurios nurodytos farmakopėjoje ar
@@ -253,7 +255,6 @@ pakeitimai:
 Nr.
 I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24) 
- 
  
             17 straipsnis.
             Informaciją apie vaistų ir
@@ -278,7 +279,6 @@ I-1442,
 Nr. VIII-1802, 00.07.04, Žin., 2000,
 Nr.61-1813 (00.07.26)
  
- 
             18 straipsnis.
             Farmacinė veikla, kuria
 pažeidžiami šio įstatymo bei su juo susijusių poįstatyminių norminių aktų
@@ -287,7 +287,7 @@ reikalavimai, laikoma neteisėta.
 organizacijos ir fiziniai asmenys už neteisėtą farmacinę veiklą atsako pagal
 Lietuvos Respublikos įstatymus. 
  
-V. skyrius.
+V skyrius.
 Valstybinė farmacinės veiklos kontrolė 
  
             19 straipsnis.
@@ -300,7 +300,6 @@ Nr.
 I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
  
- 
             20 straipsnis.
             Vaistų, vaistinių medžiagų
 ir vaistinių žaliavų kokybės kontrolė Lietuvos Respublikoje atliekama pagal
@@ -309,15 +308,15 @@ sutartyse, kai viena iš šalių yra Lietuvos Respublika, arba pagal tarptautini
 organizacijų, kurių narė yra Lietuvos Respublika, vaistų kokybės ir jos
 kontrolės reikalavimus. 
  
-VI. skyrius.
+VI skyrius.
 Farmacinė veikla veterinarijoje 
  
 21 straipsnis.
 Veterinarijoje
 vartojami vaistai ir veterinarinės paskirties gaminiai registruojami
 Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka.
-Valstybinį veterinarinių vaistų registrą tvarko Valstybinė maisto ir
-veterinarijos tarnyba.
+Valstybinį veterinarinių vaistų registrą tvarko Valstybinė maisto ir veterinarijos
+tarnyba.
 Straipsnio
 pakeitimai:
 Nr.
@@ -325,7 +324,6 @@ I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
 Nr. VIII-1802, 00.07.04, Žin., 2000,
 Nr.61-1813 (00.07.26)
- 
  
 22 straipsnis. 
 Valstybinė maisto ir veterinarijos
@@ -345,7 +343,6 @@ I-1442,
 Nr. VIII-1802, 00.07.04, Žin., 2000,
 Nr.61-1813 (00.07.26)
  
- 
             23 straipsnis.
 Lietuvos
 Respublikoje įmonės ir fiziniai asmenys gali užsiimti farmacine veikla
@@ -363,7 +360,6 @@ I-1442,
 Nr. VIII-1802, 00.07.04, Žin., 2000,
 Nr.61-1813 (00.07.26)
  
- 
 24 straipsnis. 
 Farmacinę veiklą
 veterinarijoje - tik veterinarijos tikslams vartojamų vaistų gamybą, kokybės
@@ -377,7 +373,6 @@ I-1442,
 Nr. VIII-1802, 00.07.04, Žin., 2000,
 Nr.61-1813 (00.07.26)
  
- 
             25 straipsnis.
             Įmonėms, turinčioms leidimą
 (licenciją) farmacinei veiklai veterinarijoje, draudžiama parduoti vaistus
@@ -388,6 +383,7 @@ papildytas straipsniu:
 Nr.
 I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24) 
+ 
  
  
 LIETUVOS RESPUBLIKOS
@@ -432,8 +428,28 @@ Nr.61-1813 (00.07.26)
 FARMACINĖS VEIKLOS ĮSTATYMO 17, 21, 22, 23, 24
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.10)
+KONSTITUCINIO
+TEISMO NUTARIMAI:
+ 
+1.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2002-03-14,
+Žin., 2002, Nr. 28-1003 (2002-03-16)
+DĖL
+LIETUVOS RESPUBLIKOS FARMACINĖS VEIKLOS ĮSTATYMO 11 STRAIPSNIO 2 DALIES
+ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+***
+Pabaiga ***
+ 
+ 
+Redagavo:
+Aušrinė Trapinskienė (2002-03-18)
+                 
+autrap@lrs.lt
 
