@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
+Suvestinė redakcija nuo 1997-06-25 iki 1997-07-10
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
+ 
 LIETUVOS RESPUBLIKOS BRANDUOLINĖS ENERGIJOS Į S T A T Y M A S
  
 1996 m. lapkričio 14 d. Nr. I-1613
@@ -386,7 +390,10 @@ Branduolinės energetikos valstybinį valdymą pagal savo kompetenciją atlieka:
 
 
 
-2) Lietuvos Respublikos energetikos ministerija;
+2) Lietuvos Respublikos ūkio ministerija; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
+ 
 
 
 
@@ -477,10 +484,10 @@ Branduolinės energetikos valstybinį valdymą pagal savo kompetenciją atlieka:
 
 
 
-9 straipsnis. Energetikos ministerijos kompetencija
+9 straipsnis. Ūkio ministerijos kompetencija
 
 
-Energetikos ministerija:
+Ūkio ministerija:
 
 
 1) vykdo branduolinės energetikos objektus eksploatuojančių organizacijų steigėjo funkcijas;
@@ -523,12 +530,14 @@ Energetikos ministerija:
 
 
 
-9) vykdo kitas šio įstatymo nustatytas ar Vyriausybės jai pavestas funkcijas.
+9) vykdo kitas šio įstatymo nustatytas ar Vyriausybės jai pavestas funkcijas. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
  
-
-
-
-
 
 
 
@@ -1140,7 +1149,9 @@ Be Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos draud
 
 
 
-4. Veiklai, išvardytai 25 straipsnio 8 punkte, licencijas išduoda Ekonomikos ministerija, suderinus su VATESI, Aplinkos apsaugos ministerija ir Sveikatos apsaugos ministerija.
+4. Veiklai, išvardytai 25 straipsnio 8 punkte, licencijas išduoda Ūkio ministerija, suderinus su VATESI, Aplinkos apsaugos ministerija ir Sveikatos apsaugos ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
  
 
 
@@ -1225,7 +1236,10 @@ BRANDUOLINĖS ENERGETIKOS OBJEKTŲ PROJEKTAVIMO IR STATYBOS YPATINGOS SĄLYGOS
 
 
 
-2. Kitus branduolinės energetikos objektus projektuoti ir atominę elektrinę rekonstruoti galima po Energetikos ministerijos teikimu priimto Lietuvos Respublikos Vyriausybės sprendimo.
+2. Kitus branduolinės energetikos objektus projektuoti ir atominę elektrinę rekonstruoti galima po Ūkio ministerijos teikimu priimto Lietuvos Respublikos Vyriausybės sprendimo.
+Straipsnio dalies pakeitimai:
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
+ 
 
 
 
@@ -1264,7 +1278,10 @@ Branduolinės energetikos objekto statybos ar rekonstravimo projektas suderinama
 
 
 
-2) Energetikos ministerija;
+2) Ūkio ministerija; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
+ 
 
 
 
@@ -1489,7 +1506,10 @@ BRANDUOLINĖS ENERGETIKOS OBJEKTŲ EKSPLOATAVIMAS
 
 
 
-2. Kitų branduolinės energetikos objektų eksploatacija gali būti nutraukta Vyriausybės sprendimu. Jų uždarymo tvarką nustato Valstybinė atominės energetikos saugos inspekcija, suderinus su Energetikos ministerija, Sveikatos apsaugos ministerija, Aplinkos apsaugos ministerija ir Socialinės apsaugos ir darbo ministerija.
+2. Kitų branduolinės energetikos objektų eksploatacija gali būti nutraukta Vyriausybės sprendimu. Jų uždarymo tvarką nustato Valstybinė atominės energetikos saugos inspekcija, suderinus su Ūkio ministerija, Sveikatos apsaugos ministerija, Aplinkos apsaugos ministerija ir Socialinės apsaugos ir darbo ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
+ 
 
 
 
@@ -1505,7 +1525,10 @@ BRANDUOLINĖS ENERGETIKOS OBJEKTŲ EKSPLOATAVIMAS
 38 straipsnis. Atominę elektrinę eksploatuojančios organizacijos pareigos rengiantis nutraukti objekto eksploataciją
 
 
-1. Atominę elektrinę eksploatuojanti organizacija, ketinanti nutraukti objekto eksploataciją, turi prieš 5 metus pateikti VATESI eksploatacijos nutraukimo programą, atitinkančią elektrinės statybos įstatymą, suderintą su Energetikos ministerija, Aplinkos apsaugos ministerija, Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija, apskrities valdytoju bei vietos savivaldos institucija, kurios teritorija ar jos dalis yra objekto sanitarinėje apsaugos zonoje. Programoje turi būti numatytos įrenginių demontavimo, konservavimo, radioaktyviųjų medžiagų tvarkymo ir objekto vėlesnės kontrolės bei priežiūros priemonės.
+1. Atominę elektrinę eksploatuojanti organizacija, ketinanti nutraukti objekto eksploataciją, turi prieš 5 metus pateikti VATESI eksploatacijos nutraukimo programą, atitinkančią elektrinės statybos įstatymą, suderintą su Ūkio ministerija, Aplinkos apsaugos ministerija, Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija, apskrities valdytoju bei vietos savivaldos institucija, kurios teritorija ar jos dalis yra objekto sanitarinėje apsaugos zonoje. Programoje turi būti numatytos įrenginių demontavimo, konservavimo, radioaktyviųjų medžiagų tvarkymo ir objekto vėlesnės kontrolės bei priežiūros priemonės. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
+ 
 
 
 
@@ -2177,7 +2200,10 @@ Darbo santykius branduolinės energetikos objektuose reguliuoja Lietuvos Respubl
 71 straipsnis. Užsienio valstybių piliečių ir asmenų be pilietybės darbo santykių ypatumai
 
 
-1. Užsienio valstybių piliečiai ir asmenys be pilietybės, turintys Lietuvos Respublikos vizą arba leidimą nuolat gyventi Lietuvos Respublikoje, įsidarbina branduolinės energetikos objektuose pritarus Lietuvos Respublikos energetikos ministerijai ir suderinus su Valstybės saugumo departamentu Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+1. Užsienio valstybių piliečiai ir asmenys be pilietybės, turintys Lietuvos Respublikos vizą arba leidimą nuolat gyventi Lietuvos Respublikoje, įsidarbina branduolinės energetikos objektuose pritarus Lietuvos Respublikos ūkio ministerijai ir suderinus su Valstybės saugumo departamentu Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
+ 
 
 
 
@@ -2237,7 +2263,9 @@ TARPTAUTINIAI SANTYKIAI IR ĮSTATYMO ĮSIGALIOJIMAS
 
 
 
-2. Rengiant ir sudarant tarptautines sutartis, susijusias su branduolinės energijos gamyba ar naudojimu, privalo dalyvauti Lietuvos Respublikos energetikos ministerijos įgalioti asmenys, o susijusias su branduoline sauga ir radiacine apsauga – įgalioti VATESI atstovai.
+2. Rengiant ir sudarant tarptautines sutartis, susijusias su branduolinės energijos gamyba ar naudojimu, privalo dalyvauti Lietuvos Respublikos ūkio ministerijos įgalioti asmenys, o susijusias su branduoline sauga ir radiacine apsauga - įgalioti VATESI atstovai. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
  
 
 
@@ -2281,3 +2309,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
+Lietuvos Respublikos branduolinės energijos įstatymo 7, 9, 26, 29, 30, 37, 38, 71 ir 74 straipsnių pakeitimo įstatymas
