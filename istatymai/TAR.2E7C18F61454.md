@@ -5141,7 +5141,7 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 3. Teismas dalyvaujančių byloje ar kitų suinteresuotų asmenų prašymu ar savo iniciatyva negali taikyti šio straipsnio 1 dalies 6, 7 ir 12 punktuose nustatytų ar kitų laikinųjų apsaugos priemonių, kurios ribotų finansų sektoriaus subjektų pertvarkymo veiksmus, atliekamus pagal Lietuvos Respublikos finansinio tvarumo įstatymo nustatytą tvarką, jei tai yra numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą finansų įstaigoms.
 Straipsnio dalies pakeitimai:
 Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
- 
+ 
 
 
 
@@ -5156,12 +5156,7 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 
 
-6. Taikant laikinąsias apsaugos priemones, draudžiama areštuoti lėšas, nurodytas šio Kodekso 668 ir 739 straipsniuose. Areštavus lėšas, esančias kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, leidžiama su jomis atlikti tik tas operacijas, kurios nurodytos teismo nutartyje. Teismas, leisdamas atlikti tam tikras operacijas, nurodo antstoliui nustatyti konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti. Šioje dalyje nurodytų lėšų areštas, teismo nutartyje nurodytas leidimas atlikti operacijas su areštuotomis lėšomis ar antstolio nustatyta konkreti suma, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti, nestabdo tos pačios ar pirmesnės reikalavimų patenkinimo eilės išieškojimo vykdymo. Šiuo atveju išieškojimas iš areštuotų lėšų, esančių kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, vykdomas Sprendimų vykdymo instrukcijoje nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
-Nr. XIII-3034, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13472
-Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
- 
+6. Taikant laikinąsias apsaugos priemones, draudžiama areštuoti lėšas, nurodytas šio Kodekso 668 ir 739 straipsniuose. Areštavus lėšas, laikomas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose atidarytose sąskaitose ar pagal Lietuvos Respublikos valstybės iždo įstatymą atidarytose valstybės ižde įstaigų tvarkomose sąskaitose, leidžiama su jomis atlikti tik tas operacijas, kurios nurodytos teismo nutartyje. Teismas, leisdamas atlikti tam tikras operacijas, nurodo antstoliui nustatyti konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti. Šioje dalyje nurodytų lėšų areštas, teismo nutartyje nurodytas leidimas atlikti operacijas su areštuotomis lėšomis ar antstolio nustatyta konkreti suma, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti, nestabdo tos pačios ar pirmesnės reikalavimų patenkinimo eilės išieškojimo vykdymo. Šiuo atveju išieškojimas iš areštuotų lėšų vykdomas Sprendimų vykdymo instrukcijoje nustatyta tvarka.
 
 
 
@@ -5180,19 +5175,13 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 Straipsnio dalies pakeitimai:
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
- 
+ 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 Nr. XI-1711, 2011-11-17, Žin., 2011, Nr. 139-6551 (2011-11-18)
-Nr. XII-1050, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10745
- 
-
-
-
-
-146 straipsnis. Atsakovo nuostolių, galimų dėl laikinųjų apsaugos priemonių  taikymo, atlyginimo užtikrinimas
+Nr. XII-1050, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10745146 straipsnis. Atsakovo nuostolių, galimų dėl laikinųjų apsaugos priemonių  taikymo, atlyginimo užtikrinimas
 
 
 1. Šalies prašymu teismas nutartimi gali pareikalauti, kad ieškovas ar kitas prašymą dėl laikinųjų apsaugos priemonių taikymo padavęs asmuo per teismo nustatytą terminą pateiktų atsakovo nuostolių, galinčių atsirasti dėl laikinųjų apsaugos priemonių taikymo, atlyginimo užtikrinimą. Šių nuostolių atlyginimas gali būti užtikrinamas ir banko garantija. Ieškovui nesumokėjus nuostolių atlyginimui užtikrinti skirtų pinigų arba nepateikus banko garantijos per nustatytą terminą, teismas per tris darbo dienas nuo termino pabaigos dienos privalo panaikinti taikytas laikinąsias apsaugos priemones. Ši nutartis atskiruoju skundu neskundžiama. 
@@ -20820,24 +20809,24 @@ Nr. XII-889, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
 6) vykdomojo rašto išdavimo data; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
- 
+ 
 
 
 
 
-7) išieškotojo ir skolininko duomenys: vardas, pavardė, asmens kodas (jeigu išieškotojas ar skolininkas neturi Lietuvos Respublikos gyventojų registro įstatymo nustatyta tvarka jam suteikto asmens kodo, – asmens gimimo data, jeigu išieškotojas ar skolininkas yra juridinis asmuo, – pavadinimas ir juridinio asmens kodas), adresas; 
+7) išieškotojo ir skolininko duomenys: vardas, pavardė, asmens kodas (jeigu išieškotojas ar skolininkas neturi Lietuvos Respublikos gyventojų registro įstatymo nustatyta tvarka jam suteikto asmens kodo, – asmens gimimo data, jeigu išieškotojas ar skolininkas yra juridinis asmuo, – pavadinimas ir juridinio asmens kodas), adresas; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
 Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
- 
+ 
 
 
 
 
-8) išieškotojo ir skolininko kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų rekvizitai, elektroninio pašto adresai, telefono numeriai, kitų turimų elektroninių ryšių priemonių adresai (jeigu jie žinomi);
+8) išieškotojo ir skolininko kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose atidarytų ar pagal Valstybės iždo įstatymą atidarytų valstybės ižde įstaigų tvarkomų sąskaitų rekvizitai, elektroninio pašto adresai, telefono numeriai, kitų turimų elektroninių ryšių priemonių adresai (jeigu jie žinomi);
 Papildyta straipsnio punktu:
 Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
- 
+ 
 
 
 
@@ -20845,7 +20834,7 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 9) vykdomajame rašte dėl išlaikymo periodinėmis išmokomis išieškojimo – vaikų gimimo datos.
 Papildyta straipsnio punktu:
 Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
- 
+ 
 
 
 
@@ -20876,13 +20865,7 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 
 Straipsnio pakeitimai:
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
- 
-
-
-
-
-649 straipsnis. Vykdomojo dokumento dublikato išdavimo tvarka
+Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)649 straipsnis. Vykdomojo dokumento dublikato išdavimo tvarka
 
 
 1. Jeigu vykdomasis raštas prarastas, tai išieškotojo ar antstolio prašymu išduodamas vykdomojo rašto dublikatas. Prašymas išduoti vykdomojo rašto dublikatą paduodamas bylą nagrinėjusiam pirmosios instancijos teismui.
@@ -21441,16 +21424,16 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 Straipsnio dalies pakeitimai:
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
- 
+ 
 
 
 
 
-2. Vykdant išieškojimą iš valstybės, savivaldybės ar biudžetinių įstaigų, išieškojimas gali būti nukreipiamas tik į joms priklausančias pinigines lėšas, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto ir mirusio skolininko turtą paveldi valstybė. Vykdant išieškojimą iš valstybės ar biudžetinių įstaigų, išieškojimas negali būti nukreipiamas į valstybės iždo bendrąją sąskaitą Lietuvos Respublikos valstybės iždo įstatyme nustatytais atvejais. 
+2. Vykdant išieškojimą iš valstybės, savivaldybės ar biudžetinių įstaigų, išieškojimas gali būti nukreipiamas tik į joms priklausančias pinigines lėšas, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto ir mirusio skolininko turtą paveldi valstybė. Išieškojimas negali būti nukreipiamas į valstybės iždo pagrindinę sąskaitą.
 Straipsnio dalies pakeitimai:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
- 
+ 
 
 
 
@@ -21463,17 +21446,11 @@ Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
 4. Išieškojimas negali būti nukreipiamas į pinigines lėšas, kurios priklauso skolininkui kaip valstybės ar savivaldybių parama ir kitos išmokos ar kompensacijos, skiriamos dėl ekstremaliosios situacijos ar karantino. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3034, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13472
- 
+ 
 
 
 Straipsnio pakeitimai:
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
- 
-
-
-
-
-669 straipsnis. Išieškojimo tvarka likviduojant įmones, įstaigas, organizacijas 
+Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)669 straipsnis. Išieškojimo tvarka likviduojant įmones, įstaigas, organizacijas 
 
 
 Likviduojant įmonę, įstaigą, organizaciją, išieškojimas gali būti nukreipiamas į visą jos turtą, nesilaikant šio Kodekso 665 straipsnio 2 – 4 dalyse nustatytos eilės.
@@ -21960,22 +21937,16 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti asmenys antstolio reikalavimu privalo per jo nustatytą terminą pranešti, ar pas juos yra skolininko pinigų ir kitokio turto.
+2. Šio straipsnio 1 dalyje nurodyti asmenys antstolio reikalavimu privalo per jo nustatytą terminą pranešti, ar pas juos yra skolininko pinigų ir kitokio turto.
 
 
 
 
-3. Nustatęs, kad pas kitus asmenis yra skolininko pinigų ir kitokio turto, antstolis juos aprašo ar surašo turto arešto aktą. Tuo atveju, kai yra areštuojamos kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose esančios lėšos ir leidžiama su jomis atlikti tam tikras operacijas, antstolis nurodo konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti. 
+3. Nustatęs, kad pas kitus asmenis yra skolininko pinigų ir kitokio turto, antstolis juos aprašo ar surašo turto arešto aktą. Tuo atveju, kai yra areštuojamos kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose atidarytose sąskaitose ar pagal Valstybės iždo įstatymą atidarytose valstybės ižde įstaigų tvarkomose sąskaitose laikomos lėšos ir leidžiama su jomis atlikti tam tikras operacijas, antstolis nurodo konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti. 
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
- 
-
-
-
-
-689 straipsnis. Disponavimo piniginėmis lėšomis, esančiomis kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje atidarytoje skolininko sąskaitoje (sąskaitose), apribojimas ir išieškojimas iš tokioje sąskaitoje (sąskaitose) laikomų piniginių lėšų
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774689 straipsnis. Disponavimo piniginėmis lėšomis, esančiomis kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje atidarytoje skolininko sąskaitoje (sąskaitose), apribojimas ir išieškojimas iš tokioje sąskaitoje (sąskaitose) laikomų piniginių lėšų
 
 
 1. Išieškojimą iš piniginių lėšų, esančių kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje atidarytoje skolininko sąskaitoje (sąskaitose), arba disponavimo tokioje sąskaitoje (sąskaitose) laikomomis piniginėmis lėšomis apribojimą antstolis ir kitos institucijos ar pareigūnai, turintys teisę areštuoti ar duoti nurodymus priverstinai nurašyti skolininko pinigines lėšas arba nutraukti piniginių lėšų išmokėjimą iš skolininko sąskaitos (sąskaitų), vykdo elektroninių ryšių priemonėmis per Piniginių lėšų apribojimų informacinę sistemą šio Kodekso, Vyriausybės, Sprendimų vykdymo instrukcijoje ir kituose teisės aktuose nustatyta tvarka.
