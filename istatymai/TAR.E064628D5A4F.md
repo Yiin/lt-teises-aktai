@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F"
 
 # Lietuvos Respublikos aukštojo mokslo įstatymas
 
-Suvestinė redakcija nuo 2002-01-12 iki 2002-07-11
+Suvestinė redakcija nuo 2002-07-12 iki 2003-05-13
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 27-715, i. k. 1001010ISTAIII-1586
  
@@ -1223,10 +1223,11 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 59 straipsnis. Studentų studijų įmokos
 
-Valstybinių aukštųjų mokyklų visų formų pagrindinių ir antrosios pakopos studijų studentai kiekvieną semestrą, išskyrus pirmąjį pagrindinių studijų semestrą, aukštajai mokyklai moka studentų studijų įmoką, kuri lygi Vyriausybės nustatyto minimalaus gyvenimo lygio 4 dydžiams. Visiems valstybinių aukštųjų mokyklų studentams studijų įmoka už pirmąjį pagrindinių studijų semestrą mokama iš valstybės biudžeto. Studentai neturi mokėti aukštosioms mokykloms jokių kitų įmokų, susijusių su studijų programa (už naudojimąsi auditorijomis, bibliotekomis, laboratorijomis, kita studijų įranga, aukštųjų mokyklų sporto įrenginiais ir kt.).
+Valstybinių aukštųjų mokyklų visų formų pagrindinių, vientisųjų ir antrosios pakopos studijų studentai kiekvieną semestrą aukštajai mokyklai moka studentų studijų įmoką, kuri lygi Vyriausybės nustatyto minimalaus gyvenimo lygio 4 dydžiams. Ne mažiau kaip 50 procentų valstybinių aukštųjų mokyklų studentų studijų įmoka už pirmąjį dieninės formos pagrindinių ir vientisųjų studijų semestrą mokama iš valstybės biudžeto. Vyriausybė kasmet nustato, kokiai daliai studentų pagal studijų pakopas ir formas studijų įmokos už pirmąjį studijų semestrą apmokamos valstybės lėšomis. Studentai neturi mokėti aukštosioms mokykloms jokių kitų įmokų, susijusių su studijų programa (už naudojimąsi auditorijomis, bibliotekomis, laboratorijomis, kita studijų įranga, aukštųjų mokyklų sporto įrenginiais ir kt.). 
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. IX-1052, 2002-07-05, Žin., 2002, Nr. 71-2968 (2002-07-12), i. k. 1021010ISTA0IX-1052
  
 
 60 straipsnis. Nemokamas aukštasis mokslas gerai besimokantiems valstybinių aukštųjų mokyklų studentams
@@ -1323,15 +1324,26 @@ BAIGIAMOSIOS NUOSTATOS
 
 67 straipsnis. Įstatymo įgyvendinimas
 
-1. Vyriausybė iki 2002 m. liepos 1 d. priima ar pakeičia Aukštojo mokslo įstatymui įgyvendinti reikalingus teisės aktus. Vyriausybė, skirstydama valstybės biudžeto lėšas mokslui ir studijoms, nuo 2003 metų numato tokią lėšų dalį Lietuvos valstybiniam mokslo ir studijų fondui, kad būtų užtikrintas šiame įstatyme numatytas valstybės paskolų studentams teikimas Vyriausybės nustatyta tvarka.
+1. Vyriausybė iki 2002 m. spalio 1 d. priima ar pakeičia Aukštojo mokslo įstatymui įgyvendinti reikalingus teisės aktus, iki 2002 m. liepos 15 d. nustato šiais metais į valstybines aukštąsias mokyklas priimamų studentų, tarp jų tų vakarinių ir neakivaizdinių, taip pat antrosios pakopos dieninių studijų formų studentų, kurie sutinka patys mokėti visą studijų kainą pagal sutartis su aukštąja mokykla, maksimalų skaičių. Vyriausybė, skirstydama valstybės biudžeto lėšas mokslui ir studijoms, nuo 2003 metų numato tokią lėšų dalį Lietuvos valstybiniam mokslo ir studijų fondui, kad būtų užtikrintas šiame įstatyme numatytas valstybės paskolų studentams teikimas Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1052, 2002-07-05, Žin., 2002, Nr. 71-2968 (2002-07-12), i. k. 1021010ISTA0IX-1052
+ 
 
 2. Iki 2002 m. liepos 1 d. aukštosios mokyklos privalo suderinti savo statutus su šio įstatymo nuostatomis ir pateikti Seimui tvirtinti statutų pataisas.
 
-3. Šiame įstatyme nustatyta studijų įmokų mokėjimo bei paskolų studijų įmokoms mokėti teikimo tvarka pradedama taikyti nuo 2003 m. sausio 1 d. studentams, pradedantiems studijas 2002–2003 mokslo metais.
+3. Šiame įstatyme nustatyta studijų įmokų mokėjimo tvarka pradedama taikyti nuo 2002 m. rugsėjo 1 d., o paskolų studijų įmokoms mokėti teikimo tvarka – nuo 2003 m. sausio 1 d. Studijų įmokų mokėjimo ir paskolų studijų įmokoms mokėti teikimo tvarka taikoma tik studentams, pradedantiems studijas 2002–2003 ir vėlesniais studijų metais. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1052, 2002-07-05, Žin., 2002, Nr. 71-2968 (2002-07-12), i. k. 1021010ISTA0IX-1052
+ 
 
 4. Kol nėra sudarytos prie universitetų veikiančios mokslo krypčių tarybos, numatytos 42 straipsnio 8 dalyje, doktorantų disertacijos ginamos ir mokslo laipsniai suteikiami Vyriausybės nustatyta tvarka.
 
 5. Iki Lietuvos Respublikos civilinio kodekso (Žin. 2000, Nr. 74-3363) įsigaliojimo įsteigti juridinio asmens teises turintys valstybinių universitetų padaliniai turi būti per vienerius metus nuo šio įstatymo įsigaliojimo reorganizuoti arba pertvarkyti Lietuvos Respublikos civilinio kodekso ir šio įstatymo nustatyta tvarka.
+
+6. Šiame įstatyme numatytos neuniversitetinių studijų reglamentavimo tvarkos išimtinius atvejus nustato Lietuvos Respublikos Vyriausybė Švietimo ir mokslo ministerijos teikimu. 
+Papildyta straipsnio dalimi:
+Nr. IX-1052, 2002-07-05, Žin., 2002, Nr. 71-2968 (2002-07-12), i. k. 1021010ISTA0IX-1052
+ 
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
@@ -1362,4 +1374,9 @@ Lietuvos Respublikos aukštojo mokslo įstatymo 5, 9, 11, 15, 34, 40, 51, 54, 56
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
 Lietuvos Respublikos aukštojo mokslo įstatymo 2 straipsnio, II skirsnio pavadinimo, 14, 15, 17, 27, 28, 29, 37, 39, 41, 47, 48, 54, 56, 57, 58, 59, 60, 61, 62, 63, 66, 67 straipsnių pakeitimo bei papildymo ir 18, 64, 65, 68 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1052, 2002-07-05, Žin., 2002, Nr. 71-2968 (2002-07-12), i. k. 1021010ISTA0IX-1052
+Lietuvos Respublikos aukštojo mokslo įstatymo 59 ir 67 straipsnių pakeitimo įstatymas
 
