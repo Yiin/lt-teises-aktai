@@ -24,11 +24,6 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ
 ĮSTATYMAS
 1999 m. gegužės 13 d. Nr. VIII-1183
 Vilnius
-
-
-
-
- 
 Nauja įstatymo redakcija nuo 2003 m. sausio 1 d.:
 Nr. IX-720,
 2002-01-22, Žin., 2002, Nr. 13-474 (2002-02-06)
@@ -191,8 +186,9 @@ jų pajamos iš šios veiklos sudaro daugiau kaip 50 procentų visų gaunamų pa
 verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio
 įstatyme, ir savo veikloje naudoja asmenines transporto priemones;
 4) fiziniai ir juridiniai
-asmenys, teršiantys iš transporto priemonių, naudojančių nustatytus standartus atitinkančius
-biodegalus, ir pateikę biodegalų sunaudojimą patvirtinančius dokumentus.
+asmenys, teršiantys iš transporto priemonių, naudojančių nustatytus standartus
+atitinkančius biodegalus, ir pateikę biodegalų sunaudojimą patvirtinančius
+dokumentus.
 4. Fiziniai ir juridiniai
 asmenys, kurie eksportuoja pagal šį Įstatymą apmokestinamus gaminius ir (ar) į
 apmokestinamąją pakuotę įpakuotus gaminius, yra atleidžiami nuo mokesčio už
@@ -223,6 +219,9 @@ atliekų pakartotinai panaudotą arba perdirbtą ar panaudotą energijai gauti
 kiekį.
 *Pastaba. 5
 dalies nuostatos taikomos apskaičiuojant 2004 metų mokestį už aplinkos teršimą.
+ 
+6. Nuo mokesčio
+už aplinkos teršimą atleidžiamas Lietuvos bankas.
 Straipsnio pakeitimai:
 Nr. IX-1265,
 2002-12-10, Žin., 2002, Nr. 123-5550 (2002-12-24)
@@ -230,6 +229,8 @@ Nr. IX-1547,
 2003-04-29, Žin., 2003, Nr. 48-2108 (2003-05-15)
 Nr. IX-1970,
 2004-01-22, Žin., 2004, Nr. 25-746 (2004-02-14)
+Nr. IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
  
 6 straipsnis.
 Teršalų ir gaminių bei pakuotės apmokestinimo ir tarifų nustatymo tvarka
@@ -265,8 +266,8 @@ Mokesčio už aplinkos teršimą tarifai, išskyrus tuos, kurie nustatomi kaip t
 tikras kainos procentas, indeksuojami Vyriausybės ar jos įgaliotų institucijų
 nustatyta tvarka, taikant vartotojų prekių ir paslaugų kainų indeksą.
  
-7 straipsnis.
-Mokestinis laikotarpis
+7 straipsnis. Mokestinis
+laikotarpis
 1. Mokesčio už aplinkos teršimą
 iš stacionarių ir mobilių taršos šaltinių mokestinis laikotarpis yra:
 1)
@@ -318,8 +319,8 @@ duomenis.
 dalies nuostatos taikomos apskaičiuojant 2004 metų mokestį už aplinkos teršimą.
 Straipsnio
 pakeitimai:
-Nr. IX-1970,
-2004-01-22, Žin., 2004, Nr. 25-746 (2004-02-14)
+Nr. IX-1970, 2004-01-22,
+Žin., 2004, Nr. 25-746 (2004-02-14)
  
 9
 straipsnis. Mokesčio už aplinkos teršimą mokėjimo kontrolė
@@ -381,8 +382,8 @@ administravimo įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-IX-1608, 2003-06-10,
-Žin., 2003, Nr. 61-2761 (2003-06-27)
+IX-1608,
+2003-06-10, Žin., 2003, Nr. 61-2761 (2003-06-27)
  
 11
 straipsnis. Mokesčio tarifų galiojimo terminas
@@ -407,12 +408,6 @@ ar jos įgaliota institucija iki 2002 m. spalio 1 d. parengia ir patvirtina šia
  
 Skelbiu šį Lietuvos Respublikos
 Seimo priimtą įstatymą. 
- 
-
-
-
-
- 
 RESPUBLIKOS
 PREZIDENTAS                                                   VALDAS ADAMKUS
 
@@ -2263,7 +2258,7 @@ už
  
 
 
-                                                                                                Lietuvos
+                                                                                                Lietuvos
 Respublikos
                                                                                                 2002
 m. sausio 22 d. 
@@ -2490,12 +2485,26 @@ UŽ APLINKOS TERŠIMĄ ĮSTATYMO 2, 5, 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 2 ir 3 straipsnių nuostatos taikomos apskaičiuojant 2004 metų mokestį už
 aplinkos teršimą.
  
-***
-Pabaiga ***
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+ĮMONIŲ
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
+PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO,
+MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ
+APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
  
+*** Pabaiga
+***
  
 Redagavo:
-Aušrinė Trapinskienė (2004-02-18)
+Aušrinė Trapinskienė (2004-05-03)
                  
 autrap@lrs.lt
  
