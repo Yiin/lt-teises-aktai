@@ -17,7 +17,6 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8"
 67-1656
 Neoficialus įstatymo tekstas
  
- 
 LIETUVOS RESPUBLIKOS
 ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE 
 AR SUSIRGIMŲ PROFESINE LIGA 
@@ -474,14 +473,14 @@ IX-1121,
  
 21 straipsnis. Kreipimosi dėl žalos
 atlyginimo tvarka
-1. Dėl žalos atlyginimo nukentėjusieji kreipiasi
-į įmonę, įstaigą, organizaciją ar ūkininką su pareiškimu pridėdami turimus
-dokumentus, būtinus žalos atlyginimui apskaičiuoti. Jeigu nukentėjusysis visų
-reikiamų dokumentų neturi, juos išreikalauja įmonė, įstaiga, organizacija ar
-ūkininkas. Pareiškimas dėl žalos atlyginimo turi būti išnagrinėtas ne vėliau
-kaip per 10 kalendorinių dienų nuo gavimo dienos ir ne vėliau kaip per 5
-kalendorines dienas nuo jo išnagrinėjimo apie rezultatus turi būti pranešta
-nukentėjusiajam.
+1. Dėl žalos atlyginimo nukentėjusieji
+kreipiasi į įmonę, įstaigą, organizaciją ar ūkininką su pareiškimu pridėdami
+turimus dokumentus, būtinus žalos atlyginimui apskaičiuoti. Jeigu
+nukentėjusysis visų reikiamų dokumentų neturi, juos išreikalauja įmonė,
+įstaiga, organizacija ar ūkininkas. Pareiškimas dėl žalos atlyginimo turi būti
+išnagrinėtas ne vėliau kaip per 10 kalendorinių dienų nuo gavimo dienos ir ne
+vėliau kaip per 5 kalendorines dienas nuo jo išnagrinėjimo apie rezultatus turi
+būti pranešta nukentėjusiajam.
 2. Nukentėjusieji, kuriems iki šio
 įstatymo įsigaliojimo dienos žalos atlyginimas nebuvo apskaičiuotas arba kurie
 dėl žalos atlyginimo nesikreipė, pareiškimus pateikia ir šie turi būti
@@ -536,15 +535,14 @@ nukentėjusiesiems dėl sveikatos sužalojimo darbe ar susirgimo profesine liga,
 kai ši prievolė pereina valstybei, tvarką.
 7. Šis įstatymas taikomas žalai
 atlyginti:
-1) dėl nelaimingų atsitikimų darbe, įvykusių
-iki 1999 m. gruodžio 31 d. įskaitytinai, ir susirgimų profesine liga, kurie
-nustatyta tvarka buvo pripažinti profesinėmis ligomis iki 1999 m. gruodžio 31
-d. įskaitytinai;
-2) dėl susirgimų profesine liga,
-nustatyta tvarka pripažintų profesinėmis ligomis nuo 2000 m. sausio 1 d. iki
-2001 m. liepos 1 d. tiems nukentėjusiesiems, kurie nebuvo apdrausti pagal
-Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo
-nuostatas.
+1) dėl nelaimingų atsitikimų darbe,
+įvykusių iki 1999 m. gruodžio 31 d. įskaitytinai, ir susirgimų profesine liga,
+kurie nustatyta tvarka buvo pripažinti profesinėmis ligomis iki 1999 m.
+gruodžio 31 d. įskaitytinai;
+2) dėl susirgimų profesine liga, nustatyta tvarka
+pripažintų profesinėmis ligomis po 2000 m. sausio 1 d. tiems nukentėjusiesiems,
+kurie po 2000 m. sausio 1 d. nebuvo drausti pagal Nelaimingų atsitikimų darbe
+ir profesinių ligų socialinio draudimo įstatymo nuostatas.
 Straipsnio
 pakeitimai:
 Nr.
@@ -552,6 +550,8 @@ IX-1121,
 2002-10-08, Žin., 2002, Nr. 102-4546 (2002-10-25)
 Nr. IX-1247,
 2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24), įsigalioja nuo 2003-01-01
+Nr. IX-1591,
+2003-05-29, Žin., 2003, Nr. 57-2536 (2003-06-13)
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
@@ -559,7 +559,6 @@ priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS
 BRAZAUSKAS
- 
 ________________
  
 Pakeitimai:
@@ -569,9 +568,9 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr.
 102-2918 (1999 12 01)
 LIETUVOS RESPUBLIKOS ŽALOS
-ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
-LAIKINOJO ĮSTATYMO 2, 4, 8, 11, 12, 13, 18, 20 STRAIPSNIŲ PAKEITIMO IR
-PAPILDYMO 18(1) STRAIPSNIU ĮSTATYMAS
+ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO
+ĮSTATYMO 2, 4, 8, 11, 12, 13, 18, 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 18(1)
+STRAIPSNIU ĮSTATYMAS
 Asmenims,
 kurių teisė į žalos atlyginimą atsirado iki šio įstatymo įsigaliojimo, šio
 įstatymo nustatyta tvarka, bet ne vėliau kaip per 6 mėnesius nuo šio įstatymo
@@ -604,8 +603,7 @@ IX-1121,
 2002-10-08, Žin., 2002, Nr. 102-4546 (2002-10-25)
 ŽALOS
 ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
-LAIKINOJO ĮSTATYMO 2, 12, 18(1), 20, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-ĮSTATYMAS
+LAIKINOJO ĮSTATYMO 2, 12, 18(1), 20, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šio
 Įstatymo 3 straipsnis įsigalioja nuo 2003 m. sausio 1 d. 
  
@@ -630,8 +628,8 @@ Respublikos Seimas, Įstatymas
 Nr. IX-1540,
 2003-04-29, Žin., 2003, Nr. 47-2064 (2003-05-14)
 ŽALOS
-ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO
-ĮSTATYMO 18(1) STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
+LAIKINOJO ĮSTATYMO 18(1) STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Šio Įstatymo 1
 straipsnyje išdėstytame 18(1) straipsnio 1 dalies 4 punkte
 nurodytiems asmenims mokamas tokio dydžio žalos atlyginimas, į kokį jie turėjo
@@ -639,11 +637,22 @@ teisę 2003 m. sausio 1 d.
 Šio Įstatymo
 nuostatos taikomos nuo 2003 m. sausio 1 d.
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1591,
+2003-05-29, Žin., 2003, Nr. 57-2536 (2003-06-13)
+NELAIMINGŲ
+ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO IR ŽALOS
+ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
+LAIKINOJO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis Įstatymas taikomas nuo 2000 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušrinė Trapinskienė (2003-05-14)
+Aušrinė Trapinskienė (2003-06-16)
                  
 autrap@lrs.lt
