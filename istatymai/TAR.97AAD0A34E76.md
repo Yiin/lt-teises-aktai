@@ -49,8 +49,10 @@ užsienio valstybės firmos filialas ar atstovybė, užsienio banko filialas
 vardas - firmos ar firmos padalinio pavadinimas, kuris identifikuoja firmą
 ar firmos padalinį ir leidžia ją atskirti nuo kitų firmų ar firmų padalinių.
 4. Simbolinis
-vardas - žodis ar žodžių junginys, vartojamas perkeltine reikšme kaip
-sutartinis žodinis ženklas.
+vardas – žodis ar žodžių junginys, vartojamas perkeltine reikšme kaip
+sutartinis žodinis ženklas, taip pat raidės ar skaitmenys, kurie negali būti
+suprantami kaip žodžiai, tačiau suprantami kaip firmos vardas ir neklaidina
+visuomenės.
 5.
 Pareiškėjas - fizinis asmuo, įmonė, neturinti juridinio asmens teisių, juridinis
 asmuo arba jų grupė, padavę paraišką firmos vardui įregistruoti.
@@ -59,6 +61,9 @@ asmuo arba jų grupė, padavę paraišką firmos vardui įregistruoti.
 7. Firmų
 registrai - valstybės registrai, kuriuose registruojamos visų rūšių įmonės,
 viešosios įstaigos, kredito unijos ir kitos kredito įstaigos.
+Straipsnio pakeitimai:
+Nr. IX-810,
+2002-03-26, Žin., 2002, Nr. 38-1357 (2002-04-10)
  
 3 straipsnis.
 Pareiga registruoti firmos vardą
@@ -95,9 +100,8 @@ Reikalavimai firmos vardui
 turi būti sudarytas iš firmos rūšį nusakančių žodžių ar jų santrumpų ir
 simbolinio vardo ir (ar) iš firmos rūšį nusakančių žodžių ar jų santrumpų ir
 tiesioginės reikšmės pavadinimo.
-2.
-Firmos vardas turi būti sudarytas laikantis lietuvių bendrinės kalbos normų ir
-Valstybinės lietuvių kalbos komisijos prie Lietuvos Respublikos Seimo nutarimų.
+2. Firmos vardas
+turi būti sudarytas laikantis lietuvių bendrinės kalbos normų.
 3. Firmos vardas
 turi atitikti atskirų firmų rūšių veiklą reglamentuojančių įstatymų ir teisės
 aktų reikalavimus.
@@ -108,16 +112,16 @@ esantis simbolinis vardas negali būti sudarytas tik iš tiesioginę veiklos rū
 ar prekių (paslaugų) rūšį nurodančio bendrinio žodžio (žodžių). Firmos varde
 esantis tiesioginės reikšmės pavadinimas negali būti sudarytas arba tik iš
 tiesioginę veiklos rūšį ar prekių (paslaugų) rūšį nurodančio žodžio (žodžių),
-arba tik iš vietovardžio, arba tik iš kitokio žodžio (žodžių), neturinčio
-skiriamojo požymio.
+arba tik iš vietovardžio, arba tik iš kitokio žodžio (žodžių), neturinčio skiriamojo
+požymio.
 6.
 Lietuvos Respublikos oficialusis ar tradicinis (trumpasis) pavadinimas firmos
 varde gali būti vartojamas Vyriausybės nustatyta tvarka.
-7. Firmos varde
-esantis simbolinis vardas ar tiesioginės reikšmės pavadinimas, susidedantis iš
-raidžių, kurios negali būti suprantamos kaip žodžiai, ir (ar) skaitmenų arba jų
-derinių, gali būti įregistruojamas tik tada, jeigu toks firmos vardas yra
-nusistovėjęs rinkoje.
+7. (Neteko
+galios)
+Straipsnio pakeitimai:
+Nr. IX-810,
+2002-03-26, Žin., 2002, Nr. 38-1357 (2002-04-10)
  
 5 straipsnis.
 Neregistruotini firmų vardai
@@ -255,13 +259,7 @@ atstovo (jeigu toks yra) vardas, pavardė, susirašinėjimo adresas, telefono
 numeris (jeigu yra nurodytas). Prašymą turi pasirašyti pareiškėjas ar jo
 atstovas;
 2) dokumentas,
-patvirtinantis, kad sumokėta valstybinė rinkliava;
- 
-[4 dalies 2 punkto redakcija nuo 2001 m.
-liepos 1 d.:
-2) dokumentas,
-patvirtinantis, kad sumokėtas nustatytas mokestis;]
- 
+patvirtinantis, kad sumokėtas nustatytas mokestis;
 3) pareiškėjo
 įgaliojimas asmeniui, jeigu paraišką paduoda įgaliotas asmuo;
 4)
@@ -363,12 +361,12 @@ apskųsti teismui.
  
 15 straipsnis.
 Firmos vardo įregistravimas ir firmos vardo liudijimas
-1. Priėmus
-sprendimą įregistruoti firmos vardą, Firmų vardų registro tvarkymo įstaiga šį
-vardą įrašo į Firmų vardų registrą ir išduoda pareiškėjui firmos vardo
-liudijimą. Liudijimo formą nustato Firmų vardų registro tvarkymo įstaiga. Jeigu
-pareiškėjas per 30 dienų nuo firmos vardo liudijimo išdavimo dienos nepasiima
-firmos vardo liudijimo, šis liudijimas išsiunčiamas jam paštu.
+1. Priėmus sprendimą
+įregistruoti firmos vardą, Firmų vardų registro tvarkymo įstaiga šį vardą įrašo
+į Firmų vardų registrą ir išduoda pareiškėjui firmos vardo liudijimą. Liudijimo
+formą nustato Firmų vardų registro tvarkymo įstaiga. Jeigu pareiškėjas per 30
+dienų nuo firmos vardo liudijimo išdavimo dienos nepasiima firmos vardo
+liudijimo, šis liudijimas išsiunčiamas jam paštu.
 2. Firmos vardo
 liudijimas yra teisinis dokumentas, patvirtinantis firmos vardo įregistravimą.
 3. Jeigu firma
@@ -384,8 +382,8 @@ mėnesių nuo firmos vardo įregistravimo datos.
 Pasibaigus šio straipsnio 5 dalyje nustatytam terminui, firmos vardo laikina
 teisinė apsauga netenka galios.
  
-16 straipsnis. Firmos
-vardo išregistravimas
+16 straipsnis.
+Firmos vardo išregistravimas
 1. Firmos vardas
 išregistruojamas iš Firmų vardų registro, jeigu:
 1) teismo
@@ -400,8 +398,7 @@ pakeičia firmos vardą;
 5)
 reorganizuotos firmos neperima išimtinės teisės į firmos vardą.
 2. Firmų vardų
-registro tvarkymo įstaiga firmos vardą išregistruoja gavusi vieną iš šių
-dokumentų:
+registro tvarkymo įstaiga firmos vardą išregistruoja gavusi vieną iš šių dokumentų:
 1) įsiteisėjusį
 teismo sprendimą firmos vardą pripažinti negaliojančiu;
 2) pranešimą iš
@@ -426,14 +423,8 @@ firmos varde pakeisti firmos rūšį nusakančius žodžius ar jų santrumpas;
 padaryti pakeitimą pagrindžiančius dokumentus;
 3) firmos vardo
 liudijimo originalą ar dublikatą;
-4)
-dokumentą, patvirtinantį, kad sumokėta valstybinė rinkliava.
- 
-[1 dalies 4 punkto redakcija nuo 2001 m.
-liepos 1 d.:
 4) dokumentą,
-patvirtinantį, kad sumokėtas nustatytas mokestis.]
- 
+patvirtinantį, kad sumokėtas nustatytas mokestis.
 2.
 Firmų vardų registro tvarkymo įstaiga per 10 darbo dienų patikrina, ar pateikti
 visi šio straipsnio 1 dalyje nurodyti dokumentai, ar jie tinkamai įforminti, ir
@@ -449,7 +440,8 @@ Nr. IX-354,
  
 KETVIRTASIS
 SKIRSNIS
-BAIGIAMOSIOS NUOSTATOS
+BAIGIAMOSIOS
+NUOSTATOS
  
 18 straipsnis.
 Ginčai dėl firmos vardo
@@ -514,9 +506,21 @@ FIRMŲ VARDŲ ĮSTATYMO 11 IR 17 STRAIPSNIŲ PAKEITIMO
 Šis įstatymas įsigalioja
 nuo 2001 m. liepos 1 d.
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-810,
+2002-03-26, Žin., 2002, Nr. 38-1357 (2002-04-10)
+FIRMŲ
+VARDŲ ĮSTATYMO 2 STRAIPSNIO PAPILDYMO IR 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001-06-20)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2002-04-12)
+                 
+autrap@lrs.lt
 
