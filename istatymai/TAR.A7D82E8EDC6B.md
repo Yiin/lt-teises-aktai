@@ -272,17 +272,38 @@ mokesčio mokėjimo ir kontrolės tvarką bei dydžius, neviršydama šio Įstat
 priedėlyje nustatytų ribinių tarifų, nustato Lietuvos Respublikos Vyriausybė.
 4. Naudotojo
 mokestis nemokamas:
+4 dalies 1 punkto redakcija iki 2005 m.
+sausio 1 d.:
 1) už Vidaus
 reikalų ministerijai ir įstaigoms prie šios ministerijos priklausančias
 transporto priemones, priskirtas kovinei, kovos-mokomajai, mokomajai, rikiuotės
 ir transportavimo grupėms. Pristatant šias transporto priemones valstybinei
 techninei apžiūrai, turi būti pateikiamas dokumentas, patvirtinantis
 pristatomos transporto priemonės priskyrimą tai ar kitai transportavimo grupei;
+4 dalies 1 punkto redakcija nuo 2005 m.
+sausio 1 d.:
+1) už Vidaus
+reikalų ministerijai ir įstaigoms prie šios ministerijos priklausančias
+transporto priemones, priskirtas kovinei, kovos-mokomajai, mokomajai, rikiuotės
+ir transportavimo grupėms, ir savivaldybių priešgaisrinės tarnybos transporto
+priemones. Pristatant šias transporto priemones valstybinei techninei apžiūrai,
+turi būti pateikiamas dokumentas, patvirtinantis pristatomos transporto
+priemonės priskyrimą tai ar kitai transportavimo grupei;
+ 
 2) už specialiai
 neįgaliesiems pritaikytas transporto priemones, priklausančias savivaldybių
 institucijoms ir nevyriausybinėms neįgaliųjų organizacijoms;
 3) už valstybės ir savivaldybių
 sveikatos priežiūros įstaigų greitosios pagalbos ir reanimacijos automobilius.
+ 
+4 dalis papildoma 4 punktu nuo 2005 m.
+sausio 1 d.:
+4) už specialiai moksleivių (vaikų)
+pavėžėjimui pritaikytas transporto priemones (autobusus), priklausančias
+savivaldybių švietimo įstaigoms ir (ar) savivaldybių kontroliuojamoms įmonėms.
+Straipsnio pakeitimai:
+Nr. IX-2329,
+2004-07-08, Žin., 2004, Nr. 116-4319 (2004-07-27)
  
 8
 straipsnis. Užsienio šalyse įregistruotų transporto priemonių savininkų ar
@@ -342,9 +363,8 @@ Kiti Programos finansavimo šaltiniai
 leidimą atlikti įvairius darbus kelio juostoje ar kelio apsaugos zonoje renka
 ir leidimus išduoda Susisiekimo ministerijos ar savivaldybių nustatyta tvarka
 jų įgaliotos institucijos. Mokesčio dydis nustatomas kiekvienu konkrečiu atveju
-atsižvelgiant į darbų pobūdį, keliams ir aplinkai daromą žalą, atstatomųjų
-darbų vertę, dėl eismo sąlygų pasikeitimo susidariusius nuostolius ir darbų
-trukmę.
+atsižvelgiant į darbų pobūdį, keliams ir aplinkai daromą žalą, atstatomųjų darbų
+vertę, dėl eismo sąlygų pasikeitimo susidariusius nuostolius ir darbų trukmę.
 2. Valstybės
 biudžeto lėšos į Programos finansavimo sąskaitą pervedamos, jei tai yra
 numatyta atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių
@@ -393,9 +413,9 @@ priežiūros, uosto saugos tarnyboms, prokuratūros, muitinės, inspekcijų, tai
 pat kitiems valstybės pareigūnams, nurodytiems Vyriausybės nustatytoje
 tvarkoje, ir jų transporto priemonėms, tolimojo, vietinio (miesto) reguliaraus
 susisiekimo autobusams, dviračiams, autocisternoms, vežančioms kurą į Kuršių
-neriją, juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę,  transporto
-priemonėms ir darbuotojams, Neringos mieste ir Klaipėdos miesto dalyje
-Smiltynėje gyvenamąją vietą deklaravusiems asmenims ir jų lengvosioms
+neriją, juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę, 
+transporto priemonėms ir darbuotojams, Neringos mieste ir Klaipėdos miesto
+dalyje Smiltynėje gyvenamąją vietą deklaravusiems asmenims ir jų lengvosioms
 transporto priemonėms neatlygintinai perkelti keltais per Klaipėdos valstybinio
 jūrų uosto akvatoriją į (iš) Kuršių neriją (-os) bei Šilutės rajono gyventojų
 ir jų lengvųjų transporto priemonių neatlygintino perkėlimo užlieta krašto
@@ -429,7 +449,8 @@ Respublikos
 m. gruodžio 21 d.
                                                                                                 įstatymo
 Nr. IX-682
-1 priedėlis
+1
+priedėlis
  
 ATSKAITYMŲ NUO PAJAMŲ Į PROGRAMOS FINANSAVIMO SĄSKAITĄ
 MAKSIMALŪS DYDŽIAI
@@ -466,8 +487,8 @@ UŽ LIETUVOS RESPUBLIKOJE ĮREGISTRUOTAS KROVININES TRANSPORTO PRIEMONES RIBINIA
 TARIFAI
             
 Transporto priemonių
-savininkų ar valdytojų kasmetinio mokesčio už Lietuvos Respublikoje
-įregistruotas krovinines transporto priemones ribiniai tarifai:
+savininkų ar valdytojų kasmetinio mokesčio už Lietuvos Respublikoje įregistruotas
+krovinines transporto priemones ribiniai tarifai:
  
 
 
@@ -493,8 +514,7 @@ nuo
 
 
 Krovininės kelių transporto priemonės kategorijos
-  N3,  tarp jų priekabos, puspriekabės klasės O4 nuo 12 t
-  (įskaitytinai)
+  N3,  tarp jų priekabos, puspriekabės klasės O4 nuo 12 t (įskaitytinai)
 
 
 nuo 12 t
@@ -544,8 +564,8 @@ nuo 15 t
 
 
 
-nuo 15 t
-  (įskaitytinai) iki 23 t bendrosios masės**
+nuo 15 t (įskaitytinai)
+  iki 23 t bendrosios masės**
 
 
  990–1980
@@ -683,6 +703,7 @@ nuo 40 t
 
 
 
+
                                                                                                                         
 *     kai  ašis (ašys)
 su pneumatine pakaba 
@@ -707,8 +728,8 @@ RIBINIAI
 TARIFAI
  
 1. Lietuvos Respublikoje
-įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio ribiniai
-tarifai:
+įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio
+ribiniai tarifai:
  
 
 
@@ -985,8 +1006,8 @@ Nr. IX-682                                    
 priedėlis
  
 UŽSIENIO ŠALYSE
-ĮREGISTRUOTŲ TRANSPORTO PRIEMONIŲ  SAVININKŲ AR VALDYTOJŲ NAUDOTOJO MOKESČIO RIBINIAI
-TARIFAI
+ĮREGISTRUOTŲ TRANSPORTO PRIEMONIŲ  SAVININKŲ AR VALDYTOJŲ NAUDOTOJO MOKESČIO
+RIBINIAI TARIFAI
  
 Užsienio šalyse įregistruotų transporto
 priemonių savininkų ar valdytojų naudotojo mokesčio vienkartiniai
@@ -1206,7 +1227,7 @@ skirtos specialioms darbo funkcijoms
  
 
 
-                                                                                                Lietuvos
+                                                                                                Lietuvos
 Respublikos
                                                                                                 2001
 m. gruodžio 21 d.
@@ -1478,8 +1499,7 @@ mėnesiniai
 
 
 
-Rajono
-  teritorijoje
+Rajono teritorijoje
 
 
 Lietuvos
@@ -1787,11 +1807,23 @@ UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO
 Šis
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2329,
+2004-07-08, Žin., 2004, Nr. 116-4319 (2004-07-27)
+KELIŲ
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-05-03)
+Aušrinė Trapinskienė (2004-07-27)
                  
 autrap@lrs.lt
