@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2003-07-22
+Suvestinė redakcija nuo 2003-07-23 iki 2004-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -891,7 +891,10 @@ Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, N
 17 straipsnis. Socialinės apsaugos ir darbo ministerijos kompetencija
 
 
-1. Technikos priežiūros tarnyba prie Socialinės apsaugos ir darbo ministerijos vykdo potencialiai pavojingų techninių įrenginių priežiūrą, išskyrus tuos, kuriuos kontroliuoja Valstybinė atominės energetikos saugos inspekcija.
+1. Socialinės apsaugos ir darbo ministerija koordinuoja potencialiai pavojingų įrenginių priežiūrą, kurią vykdo įgaliotos įrenginių techninės būklės tikrinimo įstaigos Potencialiai pavojingų įrenginių priežiūros įstatymo nustatyta tvarka, išskyrus tuos, kuriuos kontroliuoja Valstybinė atominės energetikos saugos inspekcija. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
+ 
 
 
 
@@ -1382,7 +1385,9 @@ Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, N
 
 
 
-3. Atominės elektrinės, branduolinio reaktoriaus, branduolinio kuro ir radioaktyviųjų medžiagų (įskaitant atliekas) saugyklų projektai kartu su ekspertų išvadomis pateikiami tvirtinti Lietuvos Respublikos Vyriausybei, kuri, esant reikalui, gali pareikalauti atlikti bet kokią papildomą ekspertizę.
+3. Neteko galios nuo 2003-07-23
+Straipsnio dalies naikinimas:
+Nr. IX-1688, 2003-07-03, Žin. 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
  
 
 
@@ -1513,10 +1518,11 @@ Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA
 
 
 
-9. Visose darbų vykdymo stadijose branduolinės saugos, radiacinės apsaugos ir kituose norminiuose aktuose nustatytų sąlygų bei reikalavimų įgyvendinimą kontroliuoja ir prižiūri pagal kompetenciją: VATESI, Sveikatos apsaugos ministerija, Aplinkos ministerija, Socialinės apsaugos ir darbo ministerija, Vidaus reikalų ministerija, Valstybės saugumo departamentas, Radiacinės saugos centras ir apskrities viršininkas. 
+9. Visose darbų vykdymo stadijose branduolinės saugos, radiacinės apsaugos ir kituose norminiuose aktuose nustatytų sąlygų bei reikalavimų įgyvendinimą kontroliuoja ir prižiūri pagal kompetenciją: VATESI, Sveikatos apsaugos ministerija, Aplinkos ministerija, Valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos, Vidaus reikalų ministerija, Valstybės saugumo departamentas, Radiacinės saugos centras ir apskrities viršininkas. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
 Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
+Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
  
@@ -2542,3 +2548,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo 5 ir 9 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010ISTA0IX-1417
 Lietuvos Respublikos branduolinės energijos įstatymo 2, 22 ir 51 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
+Lietuvos Respublikos branduolinės energijos įstatymo 14, 17, 25, 28, 31 ir 32 straipsnių pakeitimo įstatymas
