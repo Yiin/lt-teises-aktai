@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 1999-11-19 iki 1999-12-16
+Suvestinė redakcija nuo 1999-12-17 iki 2000-12-28
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
  
@@ -28,7 +28,7 @@ Vilnius
 1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas
 
 
-Patvirtinti Lietuvos Respublikos teritorijoje galiojančių įstatymų, kurie buvo priimti iki 1990 m. kovo 11 d. ir kurių galiojimas laikinai pratęsiamas iki 2000 m. sausio 1 d., sąrašą ir į jį įrašyti šiuos įstatymus:
+Patvirtinti Lietuvos Respublikos teritorijoje galiojančių įstatymų, kurie buvo priimti iki 1990 m. kovo 11 d. ir kurių galiojimas laikinai pratęsiamas iki 2001 m. sausio 1 d., sąrašą ir į jį įrašyti šiuos įstatymus: 
 
 
 1) Lietuvos Respublikos baudžiamąjį kodeksą, priimtą 1961 m. birželio 26 d., (Žin., 1961, Nr. 18-147) su vėlesniais pakeitimais ir papildymais;
@@ -67,47 +67,23 @@ Patvirtinti Lietuvos Respublikos teritorijoje galiojančių įstatymų, kurie bu
 
 
 8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais;
-Straipsnio punkto pakeitimai:
-Nr. VIII-797, 1998-06-16, Žin., 1998, Nr. 59-1657 (1998-07-01), i. k. 0981010ISTAVIII-797
+
+
+
+
+9) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d., (Žin., 1989, Nr. 33-445) su vėlesniais pakeitimais ir papildymais;
+
+
+
+
+10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117).
+
+
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1470, 1999-12-07, Žin., 1999, Nr. 107-3101 (1999-12-17), i. k. 0991010ISTAIII-1470
  
-
-
-
-
-9) Neteko galios nuo 1999-11-19
-Straipsnio punkto naikinimas:
-Nr. VIII-1392, 1999-11-04, Žin. 1999, Nr. 98-2813 (1999-11-19), i. k. 0991010ISTAIII-1392
-Straipsnio punkto pakeitimai:
-Nr. VIII-797, 1998-06-16, Žin., 1998, Nr. 59-1657 (1998-07-01), i. k. 0981010ISTAVIII-797
- 
-
-
-
-
-10) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos valstiečio ūkio“, priimtą 1989 m. liepos 4 d., (Žin., 1989, Nr. 20-242); 
-Straipsnio punkto pakeitimai:
-Nr. VIII-797, 1998-06-16, Žin., 1998, Nr. 59-1657 (1998-07-01), i. k. 0981010ISTAVIII-797
- 
-
-
-
-
-11) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d., (Žin., 1989, Nr. 33-445) su vėlesniais pakeitimais ir papildymais; 
-Straipsnio punkto pakeitimai:
-Nr. VIII-797, 1998-06-16, Žin., 1998, Nr. 59-1657 (1998-07-01), i. k. 0981010ISTAVIII-797
- 
-
-
-
-
-12) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117).
-Straipsnio punkto pakeitimai:
-Nr. VIII-797, 1998-06-16, Žin., 1998, Nr. 59-1657 (1998-07-01), i. k. 0981010ISTAVIII-797
- 
-
-
-
-
 
 
 
@@ -133,3 +109,8 @@ Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1392, 1999-11-04, Žin., 1999, Nr. 98-2813 (1999-11-19), i. k. 0991010ISTAIII-1392
 Lietuvos Respublikos aplinkos oro apsaugos įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1470, 1999-12-07, Žin., 1999, Nr. 107-3101 (1999-12-17), i. k. 0991010ISTAIII-1470
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
