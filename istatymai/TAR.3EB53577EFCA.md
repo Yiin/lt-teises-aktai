@@ -200,9 +200,8 @@ poelgiu pažemino prokuroro vardą;
 įsiteisėja jį apkaltinęs teismo nuosprendis;
 8) jei netenka
 Lietuvos Respublikos pilietybės;
-9) pasikeitus
-generalinio prokuroro skyrimo tvarkai, kai įstatymas nustato kitus generalinį
-prokurorą skiriančius subjektus.
+9) (neteko
+galios).
 5. Generalinio
 prokuroro pavaduotojus skiria ir atleidžia Respublikos Prezidentas generalinio
 prokuroro teikimu.
@@ -216,7 +215,8 @@ VIII-142,
 1997 03 13, Žin., 1997, Nr. 23-543 (1997 03 15) 
 Nr. IX-43, 2000 11 28, Žin., 2000, Nr.
 103-3259 (2000 12 01)
- 
+Nr. IX-866,
+2002-05-02, Žin., 2002, Nr. 49-1886 (2002-05-17)
  
             12 straipsnis. Lietuvos
 Respublikos generalinė prokuratūra
@@ -397,9 +397,9 @@ atlikti tardymą dėl bet kokio nusikaltimo.
  
             28 straipsnis. Valstybinio
 kaltinimo palaikymas
-            1. Prokuroras baudžiamojo
-proceso įstatymo nustatyta tvarka palaiko valstybinį kaltinimą pirmosios,
-apeliacinės ir kasacinės instancijos teismuose.
+            1. Prokuroras baudžiamojo proceso
+įstatymo nustatyta tvarka palaiko valstybinį kaltinimą pirmosios, apeliacinės
+ir kasacinės instancijos teismuose.
             2. Prokuroras privalo
 apskųsti neteisėtus ar nepagrįstus teismo nuosprendžius, nutartis ir nutarimus.
             3. Aukštesnysis prokuroras
@@ -432,8 +432,8 @@ suderintų veiksmų ir sprendimų įvykdymo.
 teisėtų interesų bei asmenų pažeistų teisių gynimas
             1. Prokuroras, gavęs
 pareiškimą ar kitą informaciją apie valstybės teisėtų interesų bei asmenų
-teisių pažeidimus, įstatymo nustatyta tvarka rengia medžiagą civilinei bylai teisme
-iškelti, jei:
+teisių pažeidimus, įstatymo nustatyta tvarka rengia medžiagą civilinei bylai
+teisme iškelti, jei:
             1) pažeisti neveiksnių,
 ribotai veiksnių, invalidų, nepilnamečių bei kitų asmenų, turinčių ribotas
 galimybes ginti savo teises, interesai;
@@ -521,8 +521,8 @@ pensinį aprūpinimą reguliuoja Lietuvos Respublikos įstatymai.
  
             37 straipsnis. Prokuratūros
 pareigūnų aprūpinimas gyvenamosiomis patalpomis
-            Prokuratūros pareigūnams,
-paskyrimo vietoje neturintiems gyvenamosios patalpos, įstatymo nustatyta tvarka
+            Prokuratūros pareigūnams, paskyrimo
+vietoje neturintiems gyvenamosios patalpos, įstatymo nustatyta tvarka
 suteikiamos tarnybinės gyvenamosios patalpos.
             Kol prokuratūros pareigūnui
 bus suteikta tarnybinė gyvenamoji patalpa arba kol jis apsirūpins gyvenamąja
@@ -595,8 +595,7 @@ Respublikos prokuratūros įstatymo įsigaliojimas
 prokuratūros įstatymas įsigalioja nuo 1995 m. sausio 1 dienos.
             2. Lietuvos Respublikos
 prokuratūros reformavimo tvarką nustato Lietuvos Respublikos įstatymas
-"Dėl Lietuvos Respublikos prokuratūros įstatymo įgyvendinimo
-tvarkos".
+"Dėl Lietuvos Respublikos prokuratūros įstatymo įgyvendinimo tvarkos".
  
  
  
@@ -656,8 +655,20 @@ SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS
 PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ
 APSAUGOS KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-866,
+2002-05-02, Žin., 2002, Nr. 49-1886 (2002-05-17)
+PROKURATŪROS
+ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Angonita Rupšytė (2001-07-25)
-                  anrups@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2002-05-17)
+              
+   autrap@lrs.lt
