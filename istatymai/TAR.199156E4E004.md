@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 1996-01-01 iki 1996-11-01
+Suvestinė redakcija nuo 1996-11-02 iki 1997-07-15
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -98,6 +98,13 @@ BENDRIEJI NUOSTATAI
 
 
 10. Lietuvos Respublika plėtoja ir skatina tarptautinį bendradarbiavimą, sprendžiant invalidumo problemas.
+
+
+
+
+11. Gestų kalba yra kurčiųjų gimtoji kalba.
+Papildyta straipsnio dalimi:
+Nr. I-1587, 1996-10-22, Žin., 1996, Nr. 105-2395 (1996-11-02), i. k. 0961010ISTA00I-1587
  
 
 
@@ -352,7 +359,9 @@ MEDICININĖ, PROFESINĖ IR SOCIALINĖ INVALIDŲ REABILITACIJA, JŲ MEDICININIS, 
 
 
 
-3. Lietuvos Respublikos Vyriausybė ir vietos savivaldybes užtikrina aukščiau nurodytų reikalavimų įgyvendinimą.
+3. Lietuvos Respublikos Vyriausybė, apskričių valdytojų administracijos ir vietos savivaldybės užtikrina aukščiau nurodytų reikalavimų įgyvendinimą.
+Straipsnio dalies pakeitimai:
+Nr. I-1587, 1996-10-22, Žin., 1996, Nr. 105-2395 (1996-11-02), i. k. 0961010ISTA00I-1587
  
 
 
@@ -363,7 +372,10 @@ MEDICININĖ, PROFESINĖ IR SOCIALINĖ INVALIDŲ REABILITACIJA, JŲ MEDICININIS, 
 13 straipsnis. Medicininės, profesinės, ir socialinės invalidų reabilitacijos programos. Invalidų aprūpinimo kompensacine technika skatinimas
 
 
-1. Lietuvos Respublikos Vyriausybė rengia ir vykdo valstybinę, o vietos savivaldybės - teritorines medicininės, profesinės ir socialinės invalidų reabilitacijos programas.
+1. Lietuvos Respublikos Vyriausybė rengia ir vykdo valstybinę, apskritys – regionines, o vietos savivaldybės – teritorines medicininės, profesinės ir socialinės invalidų reabilitacijos programas.
+Straipsnio dalies pakeitimai:
+Nr. I-1587, 1996-10-22, Žin., 1996, Nr. 105-2395 (1996-11-02), i. k. 0961010ISTA00I-1587
+ 
 
 
 
@@ -665,15 +677,15 @@ INVALIDŲ SOCIALINĖS INTEGRACIJOS ORGANIZACINĖS GARANTIJOS. INVALIDŲ SOCIALIN
 
 
 
-2. Invalidų visuomeninės organizacijos turi juridinio asmens teises, įstatymų leidybos iniciatyvos teisę savo respublikinių organų asmenyje.
+2. Invalidų visuomeninės organizacijos turi juridinio asmens teises.
 
 
 
 
-3. Invalidų visuomeninės organizacijos:
+3. Invalidų visuomeninės organizacijos pagal savo kompetenciją:
 
 
-a) vykdo ir remia invalidų medicininę, profesinę ir socialinę reabilitaciją, jų ugdymą,mokymą, medicininį ir socialinį aptarnavimą;
+a) vykdo ir remia invalidų medicininę, profesinę ir socialinę reabilitaciją, jų ugdymą, mokymą, medicininį ir socialinį aptarnavimą;
 
 
 
@@ -689,11 +701,18 @@ c) kontroliuoja šio įstatymo bei kitų invalidų visuomeninius santykius regul
 
 
 d) dalyvauja nustatant invalidumą ir kontroliuoja invalidumo nustatymą.
+
+
+
+
+
+
+4. Lietuvos Respublikos Vyriausybės nustatyta tvarka iš valstybės biudžeto finansuojamos invalidų respublikinių visuomeninių organizacijų invalidų reabilitacijos programos, o vietos savivaldybių nustatyta tvarka iš savivaldybių biudžeto finansuojamos invalidų teritorinių visuomeninių organizacijų invalidų reabilitacijos programos.
+
+
+Straipsnio pakeitimai:
+Nr. I-1587, 1996-10-22, Žin., 1996, Nr. 105-2395 (1996-11-02), i. k. 0961010ISTA00I-1587
  
-
-
-
-
 
 
 
@@ -706,7 +725,10 @@ d) dalyvauja nustatant invalidumą ir kontroliuoja invalidumo nustatymą.
 
 
 
-2. Lietuvos invalidų reikalų taryba padeda Lietuvos Respublikos Vyriausybei rengti valstybinę medicininės, profesinės, socialinės invalidų reabilitacijos programą, kontroliuoja jos įgyvendinimą, padeda rengti įstatymus, kitus norminius aktus, susijusius su invalidų gyvenimu ir veikla, disponuoja Invalidų fondu, organizuoja tarptautinį bendradarbiavimą, sprendžia kitus klausimus.
+2. Lietuvos invalidų reikalų taryba padeda Lietuvos Respublikos Vyriausybei rengti valstybinę medicininės, profesinės, socialinės invalidų reabilitacijos programą, kontroliuoja jos įgyvendinimą, padeda rengti įstatymus, kitus norminius aktus, susijusius su invalidų gyvenimu ir veikla, disponuoja Invalidų fondu, tvarko lėšas, skirtas Invalidų socialinės integracijos įstatymo įgyvendinimui, organizuoja tarptautinį bendradarbiavimą, sprendžia kitus klausimus.
+Straipsnio dalies pakeitimai:
+Nr. I-1587, 1996-10-22, Žin., 1996, Nr. 105-2395 (1996-11-02), i. k. 0961010ISTA00I-1587
+ 
 
 
 
@@ -722,7 +744,10 @@ d) dalyvauja nustatant invalidumą ir kontroliuoja invalidumo nustatymą.
 27 straipsnis. Invalidų socialinio aprūpinimo finansavimas.
 
 
-1. Pagrindiniai invalidų socialinio aprūpinimo finansavimo šaltiniai yra valstybinio socialinio draudimo, Lietuvos Respublikos valstybės biudžeto ir vietos savivaldybių biudžetų lėšos.
+1. Pagrindiniai invalidų socialinio aprūpinimo finansavimo šaltiniai yra valstybinio socialinio draudimo, Lietuvos Respublikos valstybės biudžeto ir vietos savivaldybių biudžetų lėšos. Iš Lietuvos Respublikos biudžeto gali būti skiriamos lėšos svarbiausioms vietos savivaldybių invalidų reabilitacijos programoms iš dalies finansuoti. Invalidų reabilitacijos programos iš biudžeto finansuojamos prioritetine tvarka.
+Straipsnio dalies pakeitimai:
+Nr. I-1587, 1996-10-22, Žin., 1996, Nr. 105-2395 (1996-11-02), i. k. 0961010ISTA00I-1587
+ 
 
 
 
@@ -739,6 +764,13 @@ d) dalyvauja nustatant invalidumą ir kontroliuoja invalidumo nustatymą.
 
 
 Invalidų fondas yra papildomas invalidų socialinio aprūpinimo finansavimo šaltinis, kurį steigia ir tvarko Lietuvos invalidų reikalų taryba . Invalidų fondo sudarymo ir panaudojimo tvarką nustato Lietuvos invalidų reikalų taryba. Invalidų fondui papildyti Lietuvos invalidų reikalų taryba gali organizuoti nustatyta tvarka loterijas ir aukcionus. Draudžiama Invalidų fondo lėšas naudoti tikslams, nesusijusiems su invalidų socialiniu aprūpinimu.
+
+
+
+
+2. Invalidų fondo lėšas gali papildyti palūkanos, mokamos už bankuose saugomas šio fondo lėšas.
+Papildyta straipsnio dalimi:
+Nr. I-1587, 1996-10-22, Žin., 1996, Nr. 105-2395 (1996-11-02), i. k. 0961010ISTA00I-1587
  
 
 
@@ -812,3 +844,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1080, 1995-10-31, Žin., 1995, Nr. 92-2056 (1995-11-10), i. k. 0951010ISTA00I-1080
 Dėl kai kurių Lietuvos Respublikos įstatymų ir kitų teisės aktų, susijusių su Lietuvos Respublikos įstatymu "Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos", pakeitimo ir papildymo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1587, 1996-10-22, Žin., 1996, Nr. 105-2395 (1996-11-02), i. k. 0961010ISTA00I-1587
+Lietuvos Respublikos invalidų socialinės integracijos įstatymo 2, 12, 13, 25, 26, 27, 28 straipsnių papildymo ir pakeitimo įstatymas
