@@ -198,8 +198,8 @@ pareiškę, kad dėl religinių ar pacifistinių įsitikinimų negali tarnauti s
 ginklu, ir paskirti atlikti alternatyviąją krašto apsaugos tarnybą;
 3) valstybės pripažintų tradicinių
 Lietuvoje religinių bendruomenių ir bendrijų dvasininkai.
-2. Asmuo, nuteistas už padarytą sunkų ar labai sunkų nusikaltimą, už kurį jam buvo paskirta laisvės atėmimo bausmė, negali būti šaukiamas atlikti privalomąją karo tarnybą.
-3. Šio įstatymo 17 straipsnyje numatytos
+2. Asmenys, netekę abiejų tėvų ar likę be tėvų globos, jeigu jie nėra įvaikinti arba iki pilnametystės jiems buvo nustatyta globa (rūpyba), raštu pateikę motyvuotą prašymą, krašto apsaugos ministro sprendimu gali būti atleidžiami nuo privalomosios pradinės karo tarnybos.3. Asmuo, nuteistas už padarytą sunkų ar labai sunkų nusikaltimą, už kurį jam buvo paskirta laisvės atėmimo bausmė, negali būti šaukiamas atlikti privalomąją karo tarnybą.
+4. Šio įstatymo 17 straipsnyje numatytos
 trukmės privalomoji pradinė karo tarnyba gali būti pakeista vienu iš šių
 tarnybos atlikimo būdų:
 1)
@@ -215,12 +215,12 @@ studijomis pagal Akademijos mokymo programą;
 asmenims - iki 6 mėnesių trukmės tarnyba atskiruose mokomuosiuose kariniuose
 vienetuose pagal vadų rengimo programą arba iki 3 mėnesių trukmės tarnyba pagal
 bazinį kario parengimo kursą;
-4)
-šio įstatymo 19 straipsnyje nustatyta tvarka būtinaisiais kariniais mokymais;
+4) šio įstatymo 19 straipsnyje nustatyta tvarka
+būtinaisiais kariniais mokymais;
 5) sudariusiems kario savanorio tarnybos
 sutartį asmenims - pavyzdinga, ne trumpesne kaip 3 metų tarnyba rikiuotės
 savanoriu krašto apsaugos savanorių pajėgose.
-4. Privalomąją pradinę karo tarnybą
+5. Privalomąją pradinę karo tarnybą
 atlikę laikomi asmenys:
 1) atlikę šio įstatymo 17 straipsnyje
 nustatytos trukmės privalomąją pradinę karo tarnybą;
@@ -230,17 +230,17 @@ pažymėjimą;
 3)
 atleisti (pašalinti) iš Lietuvos karo akademijos kariūnai, išėję bent vienerių
 metų studijų kursą.
-5. Privalomoji
+6. Privalomoji
 pradinė karo tarnyba vienu iš šio straipsnio 3 dalies 1, 3 ir 4 punktuose
 nurodytų būdų gali būti pakeista krašto apsaugos ministro nustatyta tvarka
 naujokų šaukimo komisijos rekomendavimu (išskyrus išimtį, nustatytą šio
 straipsnio 6 dalyje). Šiais būdais atliekamos tarnybos trukmę ir jos atlikimą
 patvirtinančių pažymėjimų formą kariuomenės vado siūlymu nustato krašto
 apsaugos ministras.
-6. Pretenduojantiems į vidaus tarnybą
+7. Pretenduojantiems į vidaus tarnybą
 asmenims privalomoji pradinė karo tarnyba šio straipsnio 3 dalies 4 punkte
 nurodytu būdu pakeičiama krašto apsaugos ministro nustatyta tvarka.
-7. Baigę aukštąsias arba aukštesniąsias
+8. Baigę aukštąsias arba aukštesniąsias
 mokyklas šauktiniai, kurie per 12 mėnesių po tokios mokyklos baigimo dienos
 nebuvo pašaukti atlikti privalomosios pradinės karo tarnybos, nuo privalomosios
 pradinės karo tarnybos atleidžiami.
@@ -252,14 +252,17 @@ Nr. VIII-1863, 00.07.17, Žin., 2000,
 Nr.64-1933 (00.07.31)
 Nr. IX-1480,
 2003-04-03, Žin., 2003, Nr. 38-1725 (2003-04-24)
-Nr. IX-1506, 2003-04-17,
-Žin., 2003, Nr. 42-1912 (2003-05-01)
+Nr. IX-1506,
+2003-04-17, Žin., 2003, Nr. 42-1912 (2003-05-01)
+Nr.
+IX-1774,
+2003-10-14, Žin., 2003, Nr. 104-4644 (2003-11-05)
  
 9 straipsnis. Privalomosios pradinės karo ir
 alternatyviosios krašto apsaugos tarnybos atidėjimas
 1. Naujokų šaukimo komisijos sprendimu
-privalomoji pradinė karo ir alternatyvioji krašto apsaugos tarnyba šio straipsnio
-3 dalyje nustatyta tvarka atidedama:
+privalomoji pradinė karo ir alternatyvioji krašto apsaugos tarnyba šio
+straipsnio 3 dalyje nustatyta tvarka atidedama:
 1) dieninių, vakarinių vidurinių
 bendrojo lavinimo ir profesinių mokyklų moksleiviams, ne vyresniems kaip 20
 metų, - kol jas baigs;
@@ -313,10 +316,10 @@ aukštesniosios mokyklos neakivaizdinio skyriaus studentas - iki jam sukaks 24
 metai.
 3. Tais atvejais, kai atidedant
 privalomąją pradinę karo tarnybą, taikant šio straipsnio 2 dalyje nustatytas
-papildomas sąlygas, šaukimo metu šauktinių lieka mažiau, negu turi būti pašaukta
-pagal nustatytą tarnybos vietų skaičių, papildomos privalomosios pradinės karo
-tarnybos atidėjimo sąlygos taikomos eilės tvarka: nuo šio straipsnio 2 dalies 1
-punkto iki 4 punkto.
+papildomas sąlygas, šaukimo metu šauktinių lieka mažiau, negu turi būti
+pašaukta pagal nustatytą tarnybos vietų skaičių, papildomos privalomosios
+pradinės karo tarnybos atidėjimo sąlygos taikomos eilės tvarka: nuo šio
+straipsnio 2 dalies 1 punkto iki 4 punkto.
 4. Tais atvejais, kai
 atidėjus privalomąją pradinę karo tarnybą pagal šio straipsnio 2 dalyje
 nustatytas papildomas privalomosios pradinės karo tarnybos atidėjimo sąlygas
@@ -361,9 +364,9 @@ TREČIASIS SKIRSNIS
 ŠAUKIMO KOMISIJOS
             
             11 straipsnis. Šaukimo komisijos
-            1. Karo prievolininkams į tarnybą
-pašaukti, tarnybai atidėti, nuo jos atleisti bei šauktinių sveikatai patikrinti
-sudaromos :
+            1. Karo prievolininkams į tarnybą pašaukti,
+tarnybai atidėti, nuo jos atleisti bei šauktinių sveikatai patikrinti sudaromos
+:
             1) naujokų šaukimo komisijos;
             2) šauktinių medicinos ekspertizės
 komisijos;
@@ -381,7 +384,8 @@ Nr.64-1933 (00.07.31)
 1. Naujokų šaukimo ir šauktinių
 medicinos ekspertizės komisijas sudaro ir jas tvirtina savivaldybės meras.
 Naujokų šaukimo ir šauktinių medicinos ekspertizės komisijas, kurios sudaromos
-iš etatinių krašto apsaugos sistemos darbuotojų, tvirtina krašto apsaugos ministras.
+iš etatinių krašto apsaugos sistemos darbuotojų, tvirtina krašto apsaugos
+ministras.
 2. Išlaidos, susijusios su savivaldybės
 mero sudaromų teritorinių šauktinių medicinos ekspertizės komisijų darbu,
 apmokamos iš šiems tikslams skirtų valstybės biudžeto asignavimų krašto
@@ -591,8 +595,8 @@ kuriuose karo prievolės administravimas nepertvarkytas, teritorijose karo
 prievolininkai šaukiami į privalomąją karo tarnybą šio įstatymo nustatyta
 tvarka, netaikant II(1) skyriaus nuostatų.
  
-15(2) straipsnis. Karo prievolės
-administravimo subjektai
+15(2) straipsnis. Karo prievolės administravimo
+subjektai
 1. Karo prievolę tiesiogiai
 administruoja:
 1) vietos savivaldos institucijos;
@@ -822,12 +826,12 @@ straipsnis. Šauktinių aprūpinimas
 1. Už tinkamumo karo
 tarnybai tikrinimo dienas regioniniuose karo prievolės centruose šauktiniams
 išmokama 0,1 minimalaus gyvenimo lygio dydžio dienpinigių.
-2. Šauktiniams apmokamos kelionės
-iš gyvenamosios vietos į regioninį karo prievolės centrą ir atgal arba į
-tarnybos vietą išlaidos pagal pateiktus keleivinio transporto (išskyrus taksi)
-bilietus, o tokių bilietų nepateikus, - pagal nustatyta tvarka patvirtintus
-važiavimo paprastu autobusu ir (ar) traukinio bendruoju keleiviniu vagonu
-maksimalius tarifinius įkainius. Kelionės išlaidos neapmokamos, kai karo
+2. Šauktiniams apmokamos
+kelionės iš gyvenamosios vietos į regioninį karo prievolės centrą ir atgal arba
+į tarnybos vietą išlaidos pagal pateiktus keleivinio transporto (išskyrus
+taksi) bilietus, o tokių bilietų nepateikus, - pagal nustatyta tvarka
+patvirtintus važiavimo paprastu autobusu ir (ar) traukinio bendruoju keleiviniu
+vagonu maksimalius tarifinius įkainius. Kelionės išlaidos neapmokamos, kai karo
 prievolininkas vežamas Administravimo tarnybos transportu arba kai jis šio
 transporto atsisako.
 3. Šauktiniai jų tinkamumo
@@ -836,13 +840,13 @@ karo tarnybai tikrinimo dienomis aprūpinami maistu pagal Vyriausybės arba jos
 išmokama Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė
 kompensacija, taip pat iškilus būtinybei apnakvindinami.
 4. Šiame straipsnyje
-numatytas aprūpinimas šauktiniui neteikiamas, jei šauktinis dėl savo kaltės
-neįvykdė savivaldybės atrankos komisijos ar Administravimo tarnybos nustatytų
+numatytas aprūpinimas šauktiniui neteikiamas, jei šauktinis dėl savo kaltės neįvykdė
+savivaldybės atrankos komisijos ar Administravimo tarnybos nustatytų
 reikalavimų ir dėl to regioniniame karo prievolės centre negalėjo būti
 tikrinamas jo tinkamumas karo tarnybai.
-5. Šiame straipsnyje numatytos išmokos mokamos iš
-Krašto apsaugos ministerijai tam tikslui skirtų biudžeto lėšų krašto apsaugos
-ministro nustatyta tvarka.
+5. Šiame straipsnyje numatytos išmokos
+mokamos iš Krašto apsaugos ministerijai tam tikslui skirtų biudžeto lėšų krašto
+apsaugos ministro nustatyta tvarka.
  
 III SKYRIUS
 TARNYBA
@@ -879,8 +883,8 @@ straipsnio 1 ir 2 dalyse numatytus atvejus.
 trunka 12 mėnesių.
 3. Į tarnybos
 laiką neįskaitomas laikas, kurį privalomosios pradinės karo tarnybos karys:
-1) buvo
-savavališkai palikęs dalinį;
+1) buvo savavališkai
+palikęs dalinį;
 2) be
 pateisinamos priežasties pavėlavo sugrįžti iš komandiruotės ar atostogų;
 3) išbuvo
@@ -1040,7 +1044,8 @@ pakeitimai:
 Nr. VIII-1258,
 99.06.22, Žin., 1999, Nr.59-1918 (99.07.07) 
  
-24 straipsnis. Materialinis aprūpinimas
+24 straipsnis. Materialinis
+aprūpinimas
 Asmenys, atliekantys alternatyviąją
 krašto apsaugos tarnybą Lietuvos Respublikos krašto apsaugos sistemoje, jos
 metu aprūpinami maistu, apranga, gyvenamuoju plotu ir kitkuo tokia pat tvarka
@@ -1061,11 +1066,11 @@ tinkantys tikrajai karo tarnybai, nuo 19 iki 35 metų imtinai įrašomi į
 pirmosios parengties atsargos grupę, nuo 36 iki 45 metų imtinai, taip pat
 atsargos karo prievolininkės nuo 19 iki 45 metų - į antrosios parengties
 atsargos grupę.
-2. Atsargos karo prievolininkai,
-šauktinių medicinos ekspertizės komisijų pripažinti pagal sveikatos būklę
-netinkamais tikrajai karo tarnybai arba atlikę alternatyviąją krašto apsaugos
-tarnybą, įrašomi į trečiosios parengties atsargos grupę. Trečiosios parengties
-atsargos grupė rengiama pagal atskirą programą.
+2. Atsargos karo prievolininkai, šauktinių
+medicinos ekspertizės komisijų pripažinti pagal sveikatos būklę netinkamais
+tikrajai karo tarnybai arba atlikę alternatyviąją krašto apsaugos tarnybą,
+įrašomi į trečiosios parengties atsargos grupę. Trečiosios parengties atsargos
+grupė rengiama pagal atskirą programą.
 3. Į pirmosios
 parengties atsargos grupę įrašomi jaunesnieji atsargos karininkai iki 45 metų,
 į antrosios parengties atsargos grupę - iki 55 metų. Į pirmosios parengties
@@ -1159,16 +1164,16 @@ Nr. VIII-1258,
 įstaigų ir organizacijų pareigos
 1. Vietos
 savivaldos institucijos, kurių teritorijoje karo prievolės administravimas
-nepertvarkytas, taip pat šiose teritorijose įregistruotos visų rūšių bei
-nuosavybės formų įmonės, įstaigos ir organizacijos:
+nepertvarkytas, taip pat šiose teritorijose įregistruotos visų rūšių bei nuosavybės
+formų įmonės, įstaigos ir organizacijos:
 1) tvarko jose dirbančių karo prievolininkų apskaitą;
 2) vietinėms
 teritorinėms karinėms įstaigoms šių reikalavimu iki einamųjų metų gruodžio 31
 d. pateikia jaunuolių, kuriems sukako 16 ir 18 metų, ir šauktinių sąrašus bei
 papildomus sąrašus;
 3) kas ketvirtį teikia vietinėms
-teritorinėms karinėms įstaigoms duomenis apie karo prievolininkų karinės įskaitos
-pasikeitimus;
+teritorinėms karinėms įstaigoms duomenis apie karo prievolininkų karinės
+įskaitos pasikeitimus;
 4) kartą per metus pagal vietinių
 teritorinių karinių įstaigų planą sutikrina karo prievolininkų įskaitos
 duomenis su vietinių teritorinių karinių įstaigų karo prievolininkų karinės
@@ -1241,15 +1246,14 @@ Nr.64-1933 (00.07.31)
  
 32 straipsnis.
 Gyventojų registro tarnybos pareigos
-1. Gyventojų registro tarnyba, Krašto apsaugos
-ministerijai pareikalavus, teisės aktų nustatyta tvarka teikia jai informaciją
-apie karo prievolininkų gyvenamąją vietą, paso ar asmens tapatybės kortelės ir
-kitus duomenis.
+1. Gyventojų registro tarnyba, Krašto
+apsaugos ministerijai pareikalavus, teisės aktų nustatyta tvarka teikia jai
+informaciją apie karo prievolininkų gyvenamąją vietą, paso ar asmens tapatybės
+kortelės ir kitus duomenis.
 2. Gyventojų registro tarnyba
 informaciją apie ikišauktinio amžiaus jaunuolių bei šauktinių gyvenamąją vietą,
-paso ar asmens tapatybės kortelės ir kitus duomenis teikia savivaldybių, kurių
-teritorijoje karo prievolės administravimas pertvarkytas, institucijoms jų
-reikalavimu.
+paso ar asmens tapatybės kortelės ir kitus duomenis teikia savivaldybių, kurių teritorijoje
+karo prievolės administravimas pertvarkytas, institucijoms jų reikalavimu.
 Straipsnio
 pakeitimai:
 Nr. VIII-1863, 00.07.17, Žin., 2000,
@@ -1277,9 +1281,10 @@ Nr. VIII-1863, 00.07.17, Žin., 2000,
 Nr.64-1933 (00.07.31)
  
             34 straipsnis. Teismų pareigos
-            1. Teismai apie įsiteisėjusius nuosprendžius
-nuteistiems laisvės atėmimu karo prievolininkams per 7 dienas nuo nuosprendžio   įsiteisėjimo
-privalo pranešti vietinėms teritorinėms karinėms įstaigoms.
+            1. Teismai apie įsiteisėjusius
+nuosprendžius nuteistiems laisvės atėmimu karo prievolininkams per 7 dienas nuo
+nuosprendžio   įsiteisėjimo privalo pranešti vietinėms teritorinėms karinėms
+įstaigoms.
             2. Nuteistų laisvės atėmimu karo
 prievolininkų karių ar šauktinių liudijimai turi būti išsiųsti į vietines
 teritorines karines įstaigas, kuriose jie yra įrašyti į karinę įskaitą.
@@ -1356,8 +1361,8 @@ pakeitimai:
 Nr. VIII-1258,
 99.06.22, Žin., 1999, Nr.59-1918 (99.07.07) 
  
-            42 straipsnis. Įstatymų ir kitų teisės
-aktų pripažinimas netekusiais galios
+            42 straipsnis. Įstatymų ir kitų teisės aktų
+pripažinimas netekusiais galios
             Įsigaliojus šiam įstatymui, netenka
 galios:
             1) Aukščiausiosios Tarybos nutarimas
@@ -1451,11 +1456,19 @@ Nr. IX-1658,
 KARO
 PRIEVOLĖS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1774,
+2003-10-14, Žin., 2003, Nr. 104-4644 (2003-11-05)
+KARO
+PRIEVOLĖS ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-07-16)
-                 
-autrap@lrs.lt
+Aušrinė Trapinskienė (2003-11-06)
+     
+            autrap@lrs.lt
