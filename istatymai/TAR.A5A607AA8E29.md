@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1994-10-28 iki 1995-04-27
+Suvestinė redakcija nuo 1995-04-28 iki 1995-05-25
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
  
@@ -465,11 +465,13 @@ Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, 
 Jei už pradinę akcijų pasirašymo kainą pasirašyta daugiau kaip 80 procentų, bet ne daugiau kaip 110 procentų, o kai objekto privatizavimo laipsnis apribotas Seimo ar Vyriausybės nutarimais – ne daugiau kaip 100 procentų numatytų išleisti akcijų, tai akcijų pasirašymas laikomas įvykusiu. Šiuo atveju akcijų emisijos kaina yra lygi pradinei akcijų pasirašymo kainai. Kai už pradinę akcijų pasirašymo kainą buvo pasirašyta mažiau kaip 80 procentų numatytų išleisti akcijų, Centrinė privatizavimo komisija gali užskaityti akcijų pasirašymą, jeigu buvo pasirašyta ne mažiau kaip 70 procentų numatytų išleisti akcijų.
 Jei už pradinę akcijų pasirašymo kainą buvo pasirašyta daugiau kaip 110 procentų numatytų išleisti akcijų ir pakanka likusio valstybinio kapitalo, Centrinė privatizavimo komisija turi teisę padidinti įmonės privatizavimo laipsnį ir patvirtinti viešo akcijų pasirašymo sutartį. Visais šiame straipsnyje nurodytais atvejais valstybei turi būti palikta ne mažiau kaip 11 procentų įstatinio kapitalo vertės akcijų. 
 Jeigu akcijų pasirašymas laikomas įvykusiu visais šioje dalyje numatytais atvejais, taip pat pardavus iš anksto nustatytą akcijų paketą, įmonė (objektas) laikoma privatizuota pagal Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymą.
+Pasibaigus valstybinio turto privatizavimui panaudojant valstybės vienkartines išmokas ir kitas tikslines kompensacijas, Centrinė privatizavimo komisija gali patvirtinti viešo arba uždaro akcijų pasirašymo sutartį, jeigu paskutiniame pasibaigusiame viešo arba uždaro akcijų pasirašymo etape pasirašoma ir daugiau kaip 110 procentų numatytų išleisti akcijų (100 procentų – jeigu privatizavimo laipsnis apribotas), priimdama sprendimą išbraukti iš sutarties paskutinius ją pasirašiusius asmenis skaičiuojant, kad valstybei būtų palikta ne mažiau kaip 11 procentų privatizuojamo objekto įstatinio kapitalo vertės akcijų. Asmenims, kurie išbraukiami iš akcijų pasirašymo sutarties, įmokėtos lėšos turi būti grąžinamos be jokių atskaitymų.
 Straipsnio dalies pakeitimai:
 Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
 Nr. I-2893, 1992-09-17, Lietuvos aidas, 1992, Nr. 187-0 (1992-09-24); Žin., 1992, Nr. 28-812 (1992-10-10), i. k. 0921010ISTA00I-2893
 Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, Nr. 6-116 (1993-02-28), i. k. 0931010ISTA0000I-64
 Nr. I-569, 1994-07-20, Žin., 1994, Nr. 59-1159 (1994-08-03); Žin., 1994, Nr. 61-0 (1994-08-10), i. k. 0941010ISTA000I-569
+Nr. I-861, 1995-04-20, Žin., 1995, Nr. 35-861 (1995-04-28); Žin., 1995, Nr. 38-0 (1995-05-10), i. k. 0951010ISTA000I-861
  
 
 4. Kai už pradinę kainą pasirašyta daugiau kaip 110 procentų numatytų išleisti akcijų ir Centrinė privatizavimo komisija nepatvirtino viešo akcijų pasirašymo sutarties, skelbiamas naujas akcijų pasirašymas už ne mažiau kaip 10 procentų padidintą pradinę kainą. Šiuo atveju kiekvienas akcijas pasirašęs asmuo turi teisę pareikalauti, kad įnašai jam būtų grąžinti be jokių išskaitymų.
@@ -479,9 +481,10 @@ Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, 
 Nr. I-569, 1994-07-20, Žin., 1994, Nr. 59-1159 (1994-08-03); Žin., 1994, Nr. 61-0 (1994-08-10), i. k. 0941010ISTA000I-569
  
 
-5. Jeigu per pirmąjį etapą pasirašoma ne daugiau kaip 80 procentų numatytų išleisti akcijų ir Centrinė privatizavimo komisija nepatvirtina viešo akcijų pasirašymo sutarties, tai tęsiant akcijų pasirašymą pradinė jų kaina ne dažniau kaip kas 10 dienų mažinama 10 procentų, kol pasirašoma daugiau kaip 80 procentų numatytų išleisti akcijų arba akcijų pardavimo kaina sumažinama iki akcijos nominalios vertės. 
+5. Jeigu per pirmąjį etapą pasirašoma ne daugiau kaip 80 procentų numatytų išleisti akcijų ir Centrinė privatizavimo komisija nepatvirtina viešo akcijų pasirašymo sutarties, tai tęsiant akcijų pasirašymą pradinė jų kaina ne dažniau kaip kas 10 dienų mažinama 10 procentų, kol pasirašoma daugiau kaip 80 procentų numatytų išleisti akcijų arba akcijų pardavimo kaina sumažinama iki akcijos nominalios vertės. Pasibaigus valstybinio turto privatizavimui panaudojant valstybės vienkartines išmokas ir kitas tikslines kompensacijas, Centrinė privatizavimo komisija gali patvirtinti viešo arba uždaro akcijų pasirašymo sutartį pagal pasibaigusio etapo rezultatus, jeigu pasirašyta ir mažiau kaip 70 procentų numatytų išleisti akcijų.
 Straipsnio dalies pakeitimai:
 Nr. I-64, 1993-02-02, Lietuvos aidas, 1993, Nr. 28-0 (1993-02-12); Žin., 1993, Nr. 6-116 (1993-02-28), i. k. 0931010ISTA0000I-64
+Nr. I-861, 1995-04-20, Žin., 1995, Nr. 35-861 (1995-04-28); Žin., 1995, Nr. 38-0 (1995-05-10), i. k. 0951010ISTA000I-861
  
 
 6. Sumažinus akcijų kainą, asmenys, jas anksčiau pasirašę už didesnę kainą, privalo mokėti tą kainą, už kurią buvo pasirašyta paskutinioji įmonės akcija. Tokia kaina yra laikoma akcijų emisijos kaina. Akcijų emisijos kaina negali būti mažesnė už jų nominalią vertę.
@@ -654,4 +657,9 @@ Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 2 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-610, 1994-10-20, Žin., 1994, Nr. 84-1585 (1994-10-28), i. k. 0941010ISTA000I-610
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 11 straipsnio pakeitimo
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-861, 1995-04-20, Žin., 1995, Nr. 35-861 (1995-04-28); Žin., 1995, Nr. 38-0 (1995-05-10), i. k. 0951010ISTA000I-861
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo
 
