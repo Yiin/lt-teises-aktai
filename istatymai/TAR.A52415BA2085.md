@@ -13,9 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085"
 
 # Lietuvos Respublikos komercinių bankų įstatymas
 
-@D1=19941221;D2=19960604;D3=19960624
+@D1=19941221;D2=19960702;D3=19960903
 
-@D1=19941221;D2=19960604;D3=19960624
+@D1=19941221;D2=19960702;D3=19960903
 Pakeitimai:
  1.
  Parlamentas,
@@ -54,6 +54,16 @@ RESPUBLIKOS KOMERCINIŲ BANKŲ ĮSTATYMO 2, 6, 7, 10, 11, 14
  STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+ 5.
+ Parlamentas,
+Įstatymas
+{#19960702AA1417 ;}
+Nr. 1-1417, 96.07.02, Žin., 1996, Nr. 65-1535 (96.07.10)
+ LIETUVOS
+RESPUBLIKOS KOMERCINIŲ BANKŲ ĮSTATYMO 34 IR 40 STRAIPSNIŲ
+ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
+ 
  *** Pabaiga ***
  
                      
@@ -70,8 +80,8 @@ KOMERCINIŲ BANKŲ
                             
 Vilnius
  
-                           
-I skyrius
+                            I
+skyrius
                         
 BENDROJI DALIS
  
@@ -127,8 +137,8 @@ daugiau kaip 50 procentų balsų, arba akcinio
 kapitalo  dalį, 
 suteikiančią  galimybę  kontroliuoti  šio  banko
 valdymą.
-     Banko  filialas 
-(skyrius)  -  neturintis  juridinio  asmens
+     Banko 
+filialas  (skyrius)  -  neturintis  juridinio  asmens
 teisių  Lietuvos  
 Respublikoje  įregistruoto   banko   padalinys
 Lietuvos
@@ -152,9 +162,9 @@ operacijų ir  neužsiimantis kita komercine -
 licencija  - raštiškas Lietuvos banko leidimas bankui
 verstis  statute  
 (įstatuose)  nurodyta   veikla  atliekant  šio
-įstatymo 25 straipsnyje
-nustatytas visas ar dalį operacijų.
-     Akcijų paketas 
+įstatymo 25
+straipsnyje nustatytas visas ar dalį operacijų.
+     Akcijų paketas 
 - fizinių  ar juridinių  asmenų ar jų grupės
 tiesiogiai ar  (ir)
 netiesiogiai  įsigyta arba  valdoma  1/10  ar
@@ -169,8 +179,8 @@ akcijų  paketas,  
 suteikiantis  jų  savininkams  ar  valdytojams
 galimybę
 kontroliuoti banko valdymą ir veiklą.
-     Tiesiogiai  įgytos  
-ar  (ir)  valdomos  akcijos  -  akcinio
+     Tiesiogiai 
+įgytos   ar  (ir)  valdomos  akcijos  -  akcinio
 kapitalo dalis,
 kurią akcininkas įsigijo ar (ir) valdo savo vardu
 ar yra perdavęs
@@ -196,7 +206,7 @@ kapitalas  - banko  akcininkų (steigėjų) papildomi
 įnašai ar (ir)
 atskaitymai iš banko pelno.
      Papildomi
-kapitalai  - banko  statute  (įstatuose)  numatyti
+kapitalai  - banko  statute  (įstatuose)  numatyti
 kiti banko kapitalai
 ir fondai.
  
@@ -301,8 +311,8 @@ licenciją, jeigu:
 dukterinio  banko  kontrolinį  akcijų  paketą
 įsigijo užsienio
 bankas;
-     2) steigiamo  dukterinio
-banko  pagrindinis kapitalas yra ne
+     2) steigiamo 
+dukterinio banko  pagrindinis kapitalas yra ne
 mažesnis už Lietuvos
 banko nustatytą minimalų pagrindinį kapitalą
 ir visiškai
@@ -357,7 +367,7 @@ priežiūros ir
 informacijos teikimo;
      6) pateikti šio
 straipsnio 6 dalyje numatyti dokumentai.
-     Registruojant 
+     Registruojant 
 užsienio  banko  filialą  (skyrių),  Lietuvos
 bankui turi būti
 pateikiama:
@@ -365,8 +375,8 @@ pateikiama:
 įregistruoti filialą (skyrių);
      2) filialo
 (skyriaus) steigimo dokumentai;
-     3)   banko   (steigėjo)  
-statutas   (įstatai),   licencija,
+     3)   banko  
+(steigėjo)   statutas   (įstatai),   licencija,
 registracijos 
 pažymėjimas  ar  kiti  dokumentai,  patvirtinantys
 teisę verstis banko
@@ -394,7 +404,7 @@ užsienio valstybės įstatymus;
 dokumentas,   patvirtinantis,  kad   sumokėtas   žyminis
 mokestis.
      Užsienio 
-banko   filialui  (skyriui)   draudžiama   priimti
+banko   filialui  (skyriui)   draudžiama   priimti
 indėlius, jeigu:
      1) jį  įsteigęs
 bankas  neturi teisės  priimti indėlių  savo
@@ -404,8 +414,8 @@ užsienio    valstybės   įstatymai    nenumato   indėlių
 kompensavimo 
 užsienio   valstybėse  esančių   filialų   (skyrių)
 indėlininkams;
-     3)  indėlių  
-kompensavimo  sąlygos   yra  blogesnės,   negu
+     3)  indėlių   kompensavimo 
+sąlygos   yra  blogesnės,   negu
 nustatyta Lietuvos
 Respublikos įstatymų.
      Užsienio
@@ -482,15 +492,15 @@ sukaupę  pagrindinį  kapitalą,  kreipiasi  į
 Lietuvos banką su
 paraiška banko licencijai gauti.
      Banko steigimo 
-metu banko  išleistos  akcijos  negali  būti
+metu banko  išleistos  akcijos  negali  būti
 platinamos viešai, 
 neatsižvelgiant į  banko steigimo  būdą,  kol
 bankas
 neįregistruotas įstatymų nustatyta tvarka.
      Veikiančiai  
 bendrovei,    kurios   visuotinis    akcininkų
-susirinkimas priėmė  sprendimą 
-verstis  banko  veikla,  taikomos
+susirinkimas priėmė 
+sprendimą  verstis  banko  veikla,  taikomos
 Lietuvos
 Respublikos  akcinių bendrovių  įstatymo  10  straipsnio
 pirmoji, šeštoji  -
@@ -505,8 +515,8 @@ rejestro įstatymo  nustatyta  tvarka,  bankas
 veiklą.  Banko statuto  (įstatų)  pakeitimai
 registruojami 
 Lietuvos   Respublikos  įmonių  rejestro  įstatymo
-nustatyta tvarka, prieš
-tai gavus Lietuvos banko leidimą.
+nustatyta tvarka,
+prieš tai gavus Lietuvos banko leidimą.
  
      9 straipsnis.
 Banko filialų (skyrių) ir atstovybių steigimas
@@ -515,8 +525,8 @@ Banko filialų (skyrių) ir atstovybių steigimas
 (skyriai) ir atstovybės Lietuvos Respublikoje
 ir  užsienyje  
 steigiami  gavus   Lietuvos  banko   leidimą   ir
-registruojami Lietuvos 
-Respublikos  įstatymų  nustatyta  tvarka.
+registruojami
+Lietuvos  Respublikos  įstatymų  nustatyta  tvarka.
 Kiti  banko  
 padaliniai  steigiami   banko  statute  (įstatuose)
 nustatyta  tvarka.  
@@ -574,7 +584,7 @@ valstybės,  kurios   jurisdikcijai  priklauso
 užsienio  bankas,  
 bankų  priežiūros   institucijos  dokumentas,
 patvirtinantis, jog 
-ši institucija  neprieštarauja, kad Lietuvos
+ši institucija  neprieštarauja, kad Lietuvos
 Respublikoje būtų
 steigiamas dukterinis bankas;
      6)  Lietuvos  
@@ -583,8 +593,8 @@ akcininkų sąrašas;
      7) dokumentai,
 patvirtinantys, jog yra apmokėtas pagrindinis
 kapitalas;
-     8) 
-dokumentai   ir  informacija   apie  banko  steigėjų  ir
+     8)  dokumentai  
+ir  informacija   apie  banko  steigėjų  ir
 akcininkų statusą,
 lėšų, naudojamų banko akcijoms įsigyti, kilmę,
 finansinę būklę, 
@@ -599,8 +609,7 @@ naudosis bankas,
 atitinka Lietuvos banko nustatytus reikalavimus;
      10)
 dokumentas,  patvirtinantis žyminio  mokesčio  už  banko
-licenciją
-sumokėjimą.
+licenciją sumokėjimą.
      Veikianti 
 bendrovė,  priėmusi  sprendimą  reorganizuotis  į
 banką, iki  banko 
@@ -671,7 +680,7 @@ licencijos išdavimo.
      Lietuvos 
 banko  sprendimu  išduodama  banko  licencija gali
 būti    su  
-apribojimais   operacijoms,   kurioms   bankas   dar
+apribojimais   operacijoms,   kurioms   bankas   dar
 nepasirengęs.
      Banko  
 licencijos   apribojimai   taikomi   ir   šio  banko
@@ -727,7 +736,7 @@ perduodama.
 licencijos  apribojimai  panaikinami  Lietuvos  banko
 sprendimu.
      Už banko 
-licencijos išdavimą  mokamas  įstatymų  nustatytas
+licencijos išdavimą  mokamas  įstatymų  nustatytas
 žyminis mokestis.
      Sprendimas
 neišduoti  banko licencijos gali būti skundžiamas
@@ -739,8 +748,8 @@ pakeitimai:
 {#19960604AA1358 ;}
 Nr. 1-1358, 96.06.04, Žin., 1996, Nr. 57-1337 (96.06.19)
  
-     12 straipsnis.
-Banko licencijos atšaukimas
+     12 straipsnis. Banko
+licencijos atšaukimas
  
      Banko
 licencija  netenka galios nuo tos dienos, kai Lietuvos
@@ -822,7 +831,7 @@ kapitalo.
      Banko
 akcininkais negali būti:
      1) valstybės 
-valdžios  ir  valdymo  institucijos,  išskyrus
+valdžios  ir  valdymo  institucijos,  išskyrus
 Lietuvos Respublikos
 Vyriausybę ir savivaldybes;
      2) biudžetinės
@@ -860,7 +869,7 @@ akcijos. Naujai  išleistosios banko  akcijos
 turi būti
 pasirašytos ir visiškai apmokėtos per akcijų pasirašymo
 sutartyje 
-nurodytą   laiką,  ne  ilgesnį  kaip  12  mėnesių  nuo
+nurodytą   laiką,  ne  ilgesnį  kaip  12  mėnesių  nuo
 akcininkų 
 susirinkimo,   priėmusio  nutarimą   išleisti   naujas
 akcijas, dienos.
@@ -868,8 +877,8 @@ akcijas, dienos.
 mėnesių  nuo akcininkų  susirinkimo, priėmusio
 nutarimą padidinti 
 banko akcinį kapitalą, banko statuto (įstatų)
-pakeitimai, 
-susiję   su  akcinio   kapitalo  padidėjimu,  nebuvo
+pakeitimai,  susiję  
+su  akcinio   kapitalo  padidėjimu,  nebuvo
 įregistruoti 
 Lietuvos  Respublikos  įstatymų  nustatyta  tvarka,
 akcinis kapitalas
@@ -892,8 +901,8 @@ pasirašymo sutartyse
 nurodytų sąlygų ir terminų;
      3) lėšų už
 nupirktas akcijas kilmė yra legali.
-     Bankui draudžiama 
-priimti skolininkui  priklausančias  šio
+     Bankui
+draudžiama  priimti skolininkui  priklausančias  šio
 banko akcijas už
 šiam bankui negrąžintą paskolą.
      Lėšos
@@ -1151,9 +1160,9 @@ reikalavimu banko  valdyba ir  administracija
 privalo pateikti
 dokumentus, susijusius su banko veikla.
  
-     19 straipsnis.
+     19 straipsnis.
 Banko tarybos darbo tvarka
-     Banko 
+     Banko 
 tarybos   nariai  turi   lygias   teises.   Balsavime
 kiekvienas narys 
 turi  vieną  balsą.  Balsams  pasiskirsčius  po
@@ -1170,7 +1179,7 @@ posėdis  yra  teisėtas,  kai  jame  dalyvauja
 daugiau kaip pusė
 jos narių. Nutarimai priimami paprasta posėdžio
 dalyvių balsų 
-dauguma, išskyrus  nutarimus  dėl  banko  valdybos
+dauguma, išskyrus  nutarimus  dėl  banko  valdybos
 narių atšaukimo, 
 kurie priimami ne mažiau kaip 2/3 banko tarybos
 narių balsų.
@@ -1197,7 +1206,7 @@ už  banko  operacijų  vykdymą  atsako  pagal
 įstatymus.  Banko 
 valdybos  narių  skaičių,  kuris  negali  būti
 mažesnis  kaip   3, 
-taip  pat  valdybos  ir  jos  narių  veiklą,
+taip  pat  valdybos  ir  jos  narių  veiklą,
 įgalinimus ir 
 teises, nutarimų  priėmimo  tvarką  nustato  banko
 statutas (įstatai)
@@ -1212,8 +1221,8 @@ neribojamas.
 valdybos  nariu  gali  būti  skiriamas  tik  veiksnus
 fizinis asmuo. Banko
 valdybos nariu negali būti skiriamas:
-     1) to paties banko
-tarybos narys;
+     1) to paties
+banko tarybos narys;
      2) asmuo, 
 esantis  bet  kurio  kito  Lietuvos  Respublikoje
 įregistruoto banko
@@ -1238,8 +1247,8 @@ nariai dirba  banke
 ir  gauna pareiginį  atlyginimą,  kurį  jiems
 nustato banko 
 taryba. Visuotinio akcininkų susirinkimo sprendimu
-banko valdybos  pirmininkui,
-jo pavaduotojams ir valdybos nariams
+banko valdybos 
+pirmininkui, jo pavaduotojams ir valdybos nariams
 gali būti mokamos
 tantjemos.
      Banko valdybos 
@@ -1258,7 +1267,7 @@ Banko administracija
      Banko
 administraciją  sudaro jo  centrinio valdymo  aparato,
 struktūrinių 
-padalinių   bei  filialų  (skyrių)  vadovai  ir  jų
+padalinių   bei  filialų  (skyrių)  vadovai  ir  jų
 pavaduotojai.
      Banko 
 administracija   vykdo  banko   visuotinio  akcininkų
@@ -1268,8 +1277,8 @@ ir valdybos nutarimus.
 administracijos  pareigas ir įgalinimus nustato banko
 statutas (įstatai)
 ir banko valdybos patvirtintos taisyklės.
-     Banko
-administraciją  ir jos  vadovą į  darbą  priima  banko
+     Banko administraciją 
+ir jos  vadovą į  darbą  priima  banko
 valdyba. Banko
 administracijos vadovas negali vykdyti vyriausiojo
 finansininko
@@ -1322,8 +1331,8 @@ pranešti  apie    patikrinimų  metu  nustatytus
 pažeidimus.
      Banko revizijų 
 tarnyba  (revizorius)  atlieka  patikrinimus
-visuotinio 
-akcininkų  susirinkimo,  banko  tarybos  ar  valdybos
+visuotinio  akcininkų 
+susirinkimo,  banko  tarybos  ar  valdybos
 pavedimu.
  
      23 straipsnis.
@@ -1332,8 +1341,8 @@ Banko komitetai ir tarnybos
 turėti nuolat veikiančius paskolų komitetą ir
 vidaus audito
 tarnybą. Gali būti sudaromi ir kiti banko komitetai
-bei tarnybos.  Jų
-funkcijas,  sudarymo ir  veiklos tvarką nustato
+bei tarnybos.  Jų funkcijas, 
+sudarymo ir  veiklos tvarką nustato
 Lietuvos banko
 teisės aktai ir banko statutas (įstatai).
  
@@ -1355,8 +1364,8 @@ pagrindinė buveinė;
 atliekamos operacijos;
      4) akcinio 
 kapitalo nominali  vertė  ir  jo  sudėtis  pagal
-akcijų  klases,   akcijų    
-savininkams  suteikiamas  teises  ir
+akcijų  klases,  
+akcijų     savininkams  suteikiamas  teises  ir
 pareigas;
      5) kiti
 kapitalai;
@@ -1366,7 +1375,8 @@ už akcijas tvarka;
 perdavimo kitų asmenų nuosavybėn tvarka;
      8) vienos 
 klasės ar rūšies akcijų keitimo į kitos klasės ar
-rūšies akcijas tvarka;
+rūšies akcijas
+tvarka;
      9) obligacijų
 išleidimo ir jų apyvartos tvarka;
      10) banko
@@ -1391,7 +1401,7 @@ nuostatos.
  
      25 straipsnis.
 Banko operacijos
-     Bankas turi
+     Bankas turi
 teisę atlikti šias operacijas:
      1) priimti 
 indėlius ir  kitas grąžintinas lėšas į klientams
@@ -1525,8 +1535,8 @@ valdo daugiau kaip
 dukterinių bankų bei įmonių tarybų ir valdybų
 nariai, revizoriai, 
 administracijos ir  filialų (skyrių) vadovai
-bei jų  sutuoktiniai,
-tėvai ir vaikai arba įmonės, kuriose minėti
+bei jų 
+sutuoktiniai, tėvai ir vaikai arba įmonės, kuriose minėti
 asmenys  tiesiogiai 
 ar  (ir)  netiesiogiai  įsigijo  arba  valdo
 daugiau kaip 20
@@ -1570,8 +1580,8 @@ gali vienašališkai 
 nutraukti  sutartį  arba  ją  pakeisti,  arba
 pareikalauti
 papildomos garantijos.
-     Bankams
-draudžiama  banko prievolių  pagal paskolų  sutartis
+     Bankams draudžiama 
+banko prievolių  pagal paskolų  sutartis
 įvykdymui
 užtikrinti  priimti paties  banko ir su banku susijusių
 asmenų išleistus 
@@ -1580,8 +1590,8 @@ sutartis.
  
      31 straipsnis.
 Paslapties saugojimas
-     Esantys   ir   
-buvę   banko   tarybos,   valdybos   nariai,
+     Esantys   ir    buvę  
+banko   tarybos,   valdybos   nariai,
 administracija 
 bei   darbuotojai  privalo   laikyti   paslaptyje
 informaciją, gautą 
@@ -1626,115 +1636,149 @@ KAPITALAI IR PELNO PASKIRSTYMAS
  
      33 straipsnis.
 Kapitalų rūšys
+ 
      Bankas turi
 pagrindinį ir papildomus kapitalus.
+ 
  
      34 straipsnis.
 Banko pagrindinis kapitalas
  
-     Banko
-pagrindinis kapitalas negali būti mažesnis už Lietuvos
-banko nustatytą
-minimalų pagrindinio kapitalo dydį.
-     Bankas, 
-gavęs   išankstinį  Lietuvos  banko  leidimą,  gali
-sumažinti savo 
-pagrindinį kapitalą  iki Lietuvos banko nustatyto
+     Banko  
+pagrindinis   kapitalas   negali  būti  mažesnis  už
+Lietuvos  banko 
+nustatytą  minimalų  pagrindinio  kapitalo dydį,
+išskyrus šio
+straipsnio ketvirtojoje dalyje numatytą atvejį.
+     Bankas,  
+gavęs  išankstinį  Lietuvos  banko  leidimą,  gali
+sumažinti  savo 
+pagrindinį kapitalą iki Lietuvos banko nustatyto
 minimalaus
 pagrindinio kapitalo dydžio.
-     Banko atsargos 
-kapitalas  formuojamas  iš  banko  akcininkų
-papildomų įnašų    
-ar (ir)  atskaitymų  iš  banko  pelno.  Banko
-atsargos  kapitalo  
-paskirtis  -   garantuoti  banko   finansinį
-stabilumą.
-     Banko  akcinis 
-kapitalas turi  būti  sumažintas  visuotinio
-akcininkų
-susirinkimo  nutarimu, jeigu  banko metų  ir  ketvirčių
-finansinėse
-ataskaitose  nurodyti nuostoliai  siekia 75 procentus
-banko akcinio
-kapitalo nominalios vertės.
-     Jeigu  banko  
-metų  ir  ketvirčių  finansinėse  ataskaitose
-nurodyti nuostoliai 
-siekia šio  straipsnio  ketvirtojoje  dalyje
-nustatytą dydį, 
-banko valdyba  privalo per  tris dienas apie tai
-informuoti banko 
-tarybą bei  Lietuvos banką  ir  per  45  dienas
-sušaukti neeilinį
-visuotinį banko akcininkų susirinkimą, kuriame,
-jeigu   reikia,   
-pateikiama   nepriklausomo    audito   išvada.
-Susirinkimas
-sprendžia  akcinio  kapitalo  mažinimo  ir  tolesnės
+     Banko 
+atsargos  kapitalas  formuojamas  iš  banko akcininkų
+papildomų  įnašų
+ar(ir) atskaitymų iš banko pelno. Banko atsargos
+kapitalo paskirtis -
+garantuoti banko finansinį stabilumą.
+     Banko  akcinis
+kapitalas turi būti sumažintas nuostolių suma
+visuotinio 
+akcininkų  susirinkimo  nutarimu,  jeigu  banko  metų
+ar(ir)  ketvirčių 
+finansinėse  ataskaitose  nurodyti  nuostoliai
+siekia 75 procentus
+banko akcinio kapitalo nominalios vertės.
+     Jeigu  banko 
+metų  ar(ir) ketvirčių finansinėse ataskaitose
+nurodyti 
+nuostoliai  siekia  šio  straipsnio ketvirtojoje dalyje
+nustatytą  dydį, 
+banko  valdyba privalo per tris dienas apie tai
+informuoti  banko 
+tarybą  bei  Lietuvos  banką  ir per 45 dienas
+sušaukti  
+neeilinį   visuotinį   banko   akcininkų  susirinkimą,
+kuriame,  jeigu 
+reikia,  pateikiama nepriklausomo audito išvada.
+Susirinkimas 
+sprendžia  akcinio  kapitalo  mažinimo  ir tolesnės
 banko veiklos
 klausimus.
-     Jei visuotinis 
-akcininkų susirinkimas  per nustatytą  laiką
+     Jeigu  banko 
+metų  ar(ir) ketvirčių finansinėse ataskaitose
+nurodyti 
+nuostoliai  yra lygūs banko akcinio kapitalo nominaliai
+vertei   arba   už  
+ją   didesni,   visuotinis  banko  akcininkų
+susirinkimas   
+privalo    sumažinti    banko   akcinį   kapitalą
+anuliuodamas 
+turimas  savo akcijas nuostoliams padengti. Priėmus
+šį   sprendimą,  
+Lietuvos  bankas  šio  įstatymo  39  straipsnio
+nustatyta tvarka
+skiria banko laikinąjį administratorių.
+     Jei 
+visuotinis  akcininkų  susirinkimas per nustatytą laiką
 nesušaukiamas,  
 neįvyksta   ar   nepritaria   akcinio   kapitalo
-sumažinimui
-nuostolių  suma,  Lietuvos  bankas  šio  įstatymo  39
-straipsnio nustatyta
-tvarka skiria laikinąjį administratorių.
-     Šiuo atveju
-laikinasis administratorius ne vėliau kaip per 7
-dienas nuo  jo
-paskyrimo turi kreiptis į teismą dėl banko akcinio
-kapitalo 
-sumažinimo.  Kai  teismas  priima  sprendimą  sumažinti
-akcinį  kapitalą,  
-laikinasis  administratorius  Lietuvos  banko
-pritarimu  priima 
-sprendimą  banką  reorganizuoti  arba  pasiūlo
-Lietuvos bankui 
-remiantis 45  straipsniu iškelti bankui bankroto
-bylą.
-     Šio  
-straipsnio   ketvirtojoje,  penktojoje,  šeštojoje  ir
-septintojoje dalyse 
-nustatyta tvarka  taikoma ir tuo atveju, jei
-šio straipsnio 
-ketvirtojoje dalyje  nurodyto  dydžio  nuostolius
-nustato Lietuvos
-bankas ir apie tai praneša banko valdybai.
-     Apie 
-šaukiamą   visuotinį  akcininkų   susirinkimą  ir   jo
-darbotvarkę ne  vėliau
-kaip  prieš  30  dienų  pranešama  visiems
-akcininkams.  Dėl  
+sumažinimui 
+nuostolių  suma,  Lietuvos  bankas  šio  įstatymo 39
+straipsnio 
+nustatyta  tvarka  skiria  laikinąjį  administratorių
+arba kreipiasi į
+teismą dėl bankroto bylos iškėlimo bankui.
+     Šiuo  atveju 
+laikinasis administratorius ne vėliau kaip per
+7  dienas  nuo  jo 
+paskyrimo  turi  kreiptis  į teismą dėl banko
+akcinio   kapitalo  
+sumažinimo.  Kai  teismas  priima  sprendimą
+sumažinti  akcinį 
+kapitalą, laikinasis administratorius Lietuvos
+banko   pritarimu  
+priima  sprendimą  banką  reorganizuoti  arba
+pasiūlo  Lietuvos 
+bankui  remiantis 45 straipsniu iškelti bankui
+bankroto bylą.
+     Šio   
+straipsnio   ketvirtojoje,   penktojoje,   šeštojoje,
+septintojoje  ir 
+aštuntojoje  dalyse nustatyta tvarka taikoma ir
+tuo  atveju,  jei 
+šio  straipsnio  ketvirtojoje  dalyje nurodyto
+dydžio  nuostolius 
+nustato  Lietuvos  bankas ir apie tai praneša
+banko valdybai.
+     Apie   šaukiamą  
+visuotinį   akcininkų  susirinkimą  ir  jo
+darbotvarkę  ne 
+vėliau  kaip  prieš  30  dienų pranešama visiems
+akcininkams.   Dėl 
 akcinio  kapitalo  sumažinimo  bankų  statutų
-pakeitimai
-registruojami  Lietuvos Respublikos įstatymų nustatyta
-tvarka. Akcinis 
-kapitalas laikomas  sumažintu  tik  įregistravus
+pakeitimai 
+registruojami Lietuvos Respublikos įstatymų nustatyta
+tvarka.  Akcinis 
+kapitalas  laikomas  sumažintu tik įregistravus
 statutų pakeitimus.
-     Kai bankai 
-mažina akcinį  kapitalą šio straipsnio nustatyta
-tvarka, 
-netaikomos   Lietuvos  Respublikos   akcinių   bendrovių
-įstatymo 45
-straipsnio ketvirtoji, penktoji, šeštoji ir aštuntoji
-dalys.
+     Jeigu  bankas
+yra nemokus, banko akcinis kapitalas gali būti
+didinamas 
+papildomais  įnašais  už  viešai  platinamas  akcijas,
+kurių pasirašymo
+sutartyje nurodyta, kad bankas yra nemokus.
+     Šio  
+straipsnio  vienuoliktojoje  dalyje  nustatyta  tvarka
+akcinis   kapitalas 
+gali  būti  didinamas  tik  Lietuvos  bankui
+leidus, išskyrus
+atvejį, kai bankui iškelta bankroto byla.
+     Kai  bankai 
+mažina akcinį kapitalą šio straipsnio nustatyta
+tvarka,  
+netaikomos   Lietuvos   Respublikos  akcinių  bendrovių
+įstatymo   45  
+straipsnio   ketvirtoji,   penktoji,  šeštoji  ir
+aštuntoji dalys.
  
-Straipsnio
+ Straipsnio
 pakeitimai:
 {#95K\AA1165 ;} Nr.
 1-1165, 95.12.29, Žin., 1995, Nr. 107-2411 (95.12.30)
 {#96ATAA1218 ;} Nr.
 1-1218, 96.02.21, Žin., 1996, Nr. 19-495 (96.03.01)
+{#19960702AA1417 ;}
+Nr. 1-1417, 96.07.02, Žin., 1996, Nr. 65-1535 (96.07.10)
  
      35 straipsnis.
 Pelno paskirstymas
  
      Banko pelnas 
 yra lėšos,  kurios lieka  iš banko  finansinių
-metų pajamų atskaičius
-tų metų banko išlaidas ir nuostolių sumas.
+metų pajamų
+atskaičius tų metų banko išlaidas ir nuostolių sumas.
      Banko
 finansiniai metai sutampa su kalendoriniais metais.
      Sprendime dėl
@@ -1824,7 +1868,7 @@ ir  bankų  sistemos  saugumą,  patikimumą  ir
 stabilumą, turi
 teisę taikyti bankams šias poveikio priemones:
      1) įspėti 
-banką dėl  jo veiklos  trūkumų ir  pažeidimų  bei
+banką dėl  jo veiklos  trūkumų ir  pažeidimų  bei
 nustatyti jų
 pašalinimo terminus;
      2)  įstatymų  
@@ -1873,8 +1917,8 @@ nenustatyta  kitaip. Apskundimas nesustabdo šio nutarimo
 vykdymo.
      Teismas 
 nagrinėja,   ar  buvo  pagrindas  taikyti  poveikio
-priemonę ir  ar laikytasi 
-jos taikymo  tvarkos.  Teismas  negali
+priemonę ir  ar
+laikytasi  jos taikymo  tvarkos.  Teismas  negali
 spręsti klausimo 
 dėl poveikio  priemonės rūšies parinkimo ir jos
 taikymo tikslingumo.
@@ -1903,7 +1947,7 @@ aktai.
 37 straipsnyje  išvardytos poveikio  priemonės
 taikomos bankams
 Lietuvos banko valdybos nutarimu.
-     Nutarimą
+     Nutarimą
 taikyti  poveikio priemonę  Lietuvos banko  valdyba
 priima
 vadovaudamasi:
@@ -1950,8 +1994,8 @@ poveikio priemonės negali būti taikomos.
 Banko tarybos įgaliojimų sustabdymo ir banko
                    
 valdybos bei administracijos vadovo
-                   
-nušalinimo tvarka
+                    nušalinimo
+tvarka
  
      Banko tarybos 
 įgaliojimai  sustabdomi,  banko  valdyba  bei
@@ -1990,14 +2034,28 @@ laikinajam 
 administratoriui,  o  jų  po  šio  paskyrimo  priimti
 sprendimai yra
 neteisėti ir nevykdytini.
-     Laikinasis   
-administratorius,   įspėjęs   raštu   prieš  7
+     Jeigu   banko  
+akcijos   yra  anuliuotos  šio  įstatymo  34
+straipsnyje 
+nustatyta  tvarka  ir yra paskirtas banko laikinasis
+administratorius, 
+visų  banko valdymo organų įgaliojimai pereina
+šiam 
+administratoriui.  Laikinojo  administratoriaus  sprendimai
+tais   
+klausimais,    kurie   priklauso   visuotinio   akcininkų
+susirinkimo 
+kompetencijai,  privalo  būti  suderinti su Lietuvos
+Respublikos
+Vyriausybe ir Lietuvos banku.
+     Laikinasis  
+administratorius,   įspėjęs   raštu   prieš   7
 kalendorines 
 dienas, turi teisę nutraukti darbo sutartį su banko
 valdybos  
 nariais,   banko   administracijos  vadovu,  taip  pat
-padalinių  vadovais, 
-kurie  pagal  savo  pareigines instrukcijas
+padalinių 
+vadovais,  kurie  pagal  savo  pareigines instrukcijas
 turi  teisę 
 priimti  sprendimus  imti ir duoti paskolas, vykdyti
 kitokias 
@@ -2030,7 +2088,7 @@ atlygis.
      Laikinajam    
 administratoriui    neprivalomi    visuotinio
 akcininkų  
-susirinkimo   nutarimai,   jeigu   jie   prieštarauja
+susirinkimo   nutarimai,   jeigu   jie   prieštarauja
 laikinojo 
 administratoriaus  skyrimo  tikslams arba priimti tais
 klausimais,  kurie
@@ -2072,14 +2130,14 @@ Lietuvos banką dėl
 bankroto bylos iškėlimo.
      Laikinajam 
 administratoriui  atsistatydinus iš šių pareigų,
-Lietuvos   bankas  
+Lietuvos   bankas  
 sprendžia   klausimą   dėl   kito   laikinojo
 administratoriaus 
 paskyrimo  ar  bankroto bylos iškėlimo bankui.
 Lietuvos   banko  
 išlaidas   laikinojo  administratoriaus  darbo
-apmokėjimui kompensuoja
-bankas.
+apmokėjimui
+kompensuoja bankas.
      Laikinasis 
 administratorius už žalą bankui, atsiradusią dėl
 jo   kaltės,  
@@ -2089,25 +2147,28 @@ tvarka.
 bankas  paskiria  laikinąjį  administratorių,
 sustabdomi 
 išieškojimai teisme ar ne ginčo tvarka ir be Lietuvos
-banko  leidimo 
-draudžiami  visų  šio banko finansinių prievolių,
+banko  leidimo  draudžiami 
+visų  šio banko finansinių prievolių,
 įskaitant  palūkanas
 ir mokesčius, mokėjimai, taip pat draudžiama
 banko  kreditorių 
 reikalavimus  perleisti  kitiems  asmenims  ir
 draudžiama  dalyti 
 ar  kitaip  skirstyti  banko  turtą, išskyrus
-išlaidas,  
-reikalingas   laikinojo   administratoriaus   veiklai
+išlaidas,   reikalingas  
+laikinojo   administratoriaus   veiklai
 užtikrinti, pagal
 išlaidų sąmatą, suderintą su Lietuvos banku.
  
-Straipsnio
+ Straipsnio
 pakeitimai:
 {#95K\AA1165 ;} Nr.
 1-1165, 95.12.29, Žin., 1995, Nr. 107-2411 (95.12.30)
 {#96CQAA1295 ;} Nr.
 1-1295, 96.04.18, Žin., 1996, Nr. 41-989 (96.05.08)
+{#19960702AA1417 ;}
+Nr. 1-1417, 96.07.02, Žin., 1996, Nr. 65-1535 (96.07.10)
+ 
  
      41 straipsnis.
 Laikinojo administratoriaus atšaukimas
@@ -2143,8 +2204,8 @@ likviduojamas  Lietuvos Respublikos akcinių bendrovių
 tvarka.
  
  
-                            X
-skyrius
+                           
+X skyrius
            BANKO
 BANKROTO BYLOS IŠKĖLIMO IR TEISMINIO
                       
@@ -2201,8 +2262,8 @@ dienas  priima nutartį iškelti banko bankroto
 bylą ir privalo:
      1) pranešti 
 apie iškeltą  bylą žinomiems  kreditoriams, šio
-banko bankams 
-korespondentams, rejestro  tvarkytojui bei  viešai
+banko bankams  korespondentams,
+rejestro  tvarkytojui bei  viešai
 paskelbti
 nurodydamas:
      teismą,
@@ -2229,7 +2290,7 @@ Skundo  padavimas  nesustabdo banko bankroto
 bylos eigos.
      Nutraukus 
 banko   bankroto  bylą   dėl  reorganizavimo   ar
-sanavimo, apie  tai
+sanavimo, apie  tai
 pranešama   rejestro  tvarkytojui bei  viešai
 paskelbiama.
      Teismui iškėlus
@@ -2240,8 +2301,8 @@ bankroto byla  yra
 nutraukiama,   tai  banko valdymo organai turi
 teisę toliau atlikti
 savo funkcijas;
-     2)  uždraudžiamas  
-visų  finansinių   prievolių,  įskaitant
+     2) 
+uždraudžiamas   visų  finansinių   prievolių,  įskaitant
 palūkanas ir 
 mokesčius, mokėjimas,  išieškojimas teismine  ar ne
 ginčo tvarka,  taip
@@ -2260,16 +2321,16 @@ Banko administratorius
  
      Banko 
 administratorius   -   tai   banko   bankroto   bylos
-nagrinėjimo laikotarpiui
-skiriamas banko valdytojas.
+nagrinėjimo
+laikotarpiui skiriamas banko valdytojas.
      Bankos
 administratoriumi  negali būti  paskirtas  skolininko
 atstovas,  banko  
 savininkas  (savininkai),   akcininkai,  banko
 tarybos ir valdybos
 narys, administracijos vadovas, kreditorius.
-     Banko administratorius
-privalo:
+     Banko
+administratorius privalo:
      1) po 
 paskyrimo  per  3  dienas  bankuose  korespondentuose
 esančių  banko  
@@ -2310,15 +2371,15 @@ atostogas.  Banko 
 administratorius taip pat turi teisę sumažinti
 darbo  užmokestį 
 darbuotojams  be  jų  sutikimo  iki biudžetinių
-įstaigų,  
-organizacijų   darbuotojų  vidutinio  mėnesinio  darbo
+įstaigų,   organizacijų  
+darbuotojų  vidutinio  mėnesinio  darbo
 užmokesčio  
 dydžio,   kurį   kas   mėnesį   skelbia  Statistikos
 departamentas  
 prie  Lietuvos  Respublikos  Vyriausybės,  keisti
 kitas  darbo 
 sutarties  sąlygas  (lengvatas, darbo režimą, darbo
-vietą,  perkelti į
+vietą,  perkelti į
 kitą mažiau apmokamą darbą, jeigu tai nekenkia
 darbuotojo 
 sveikatai).  Prireikus banko administratorius skelbia
@@ -2336,8 +2397,8 @@ bylose dėl turto išieškojimo.
 bankroto bylą ir dėl to sustabdžius bylas dėl
 kreditorių  pinigų  
 išieškojimo,  kreditoriams   (ieškovams)  iš
-valstybės  biudžeto  
-lėšų  grąžinamas   jų  sumokėtas    žyminis
+valstybės 
+biudžeto   lėšų  grąžinamas   jų  sumokėtas    žyminis
 mokestis.
  
 Straipsnio
@@ -2358,7 +2419,7 @@ pardavimu ar 
 kitokiu perdavimu,  turi patvirtinti  teismas.  Šie
 sprendimai be minėto
 patvirtinimo negalioja.
-     Banko
+     Banko
 administratorius  atlygina nuostolius,  kurie atsirado
 vykdant
 nepatvirtintus šio straipsnio pirmojoje dalyje išvardytus
@@ -2369,8 +2430,8 @@ Kreditorių teisės, teismui iškėlus banko
                    
 bankroto bylą
  
-     Teismui iškėlus 
-banko bankroto bylą, kreditoriai turi teisę
+     Teismui
+iškėlus  banko bankroto bylą, kreditoriai turi teisę
 per teismo nustatytą
 laikotarpį, ne trumpesnį kaip 30 dienų ir ne
 ilgesnį kaip  3
@@ -2397,8 +2458,8 @@ kreditorių  ar  trečiųjų  asmenų    bankui  taikomos
 ekonominės ir 
 finansinės priemonės,  kad būtų galima išvengti jo
 likvidavimo.
-     Bankrutuojančiam 
-bankui   taikomos  sanavimo   sąlygos  yra
+    
+Bankrutuojančiam  bankui   taikomos  sanavimo   sąlygos  yra
 nustatytos 
 Lietuvos  Respublikos  įmonių  bankroto  įstatymo  23
 straipsnyje.
@@ -2456,8 +2517,8 @@ sprendimo likviduoti jį priėmimo dienos.
      Bankrutavusio
 banko  nekilnojamasis turtas  perkainojamas ir
 parduodamas.
-     Teismo sprendimas
-dėl  bankrutavusio banko likvidavimo  gali
+     Teismo
+sprendimas dėl  bankrutavusio banko likvidavimo  gali
 būti  apskųstas 
 Lietuvos  Respublikos  civilinio proceso kodekso
 nustatyta tvarka.
@@ -2477,8 +2538,8 @@ priėmus sprendimą
 likviduoti banką.
      Pirmąja eile
 tenkinama:
-     1) įkaitu
-garantuoti kreditorių reikalavimai;
+     1) įkaitu garantuoti
+kreditorių reikalavimai;
      2) teismo 
 paskirto likvidatoriaus darbo užmokesčio ir kitos
 išlaidos, susijusios
@@ -2551,8 +2612,8 @@ teisėsaugos institucijos.
 įstatymo įsigaliojimo  dienos  bankų  išleistos  ir
 valstybei 
 priklausančios   privilegijuotos  akcijos  pakeičiamos
-paprastomis 
-vardinėmis.   Su  tuo  susijusios  statuto  (įstatų)
+paprastomis  vardinėmis.  
+Su  tuo  susijusios  statuto  (įstatų)
 pataisos Lietuvos 
 Respublikos Vyriausybės  ar  atitinkamo  banko
 valdybos teikimu
@@ -2597,7 +2658,6 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS
 PREZIDENTAS                ALGIRDAS BRAZAUSKAS
- 
  
  
 _
