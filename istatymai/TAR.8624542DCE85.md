@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8624542DCE85"
 Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
-Ramunė Lūžaitė (1998.06.03)
+Ramunė Lūžaitė (1999.04.02)
  
 Įstatymas
 paskelbtas: Žin., 1990, Nr.29-692
@@ -73,6 +73,23 @@ LIETUVOS
 RESPUBLIKOS POLITINIŲ PARTIJŲ IR POLITINIŲ ORGANIZACIJŲ ĮSTATYMO 10 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
+6.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1094,
+99.03.18, Žin., 1999, Nr.30-855 (99.04.02)
+LIETUVOS
+RESPUBLIKOS POLITINIŲ PARTIJŲ IR POLITINIŲ ORGANIZACIJŲ ĮSTATYMO 5, 6, 7, 8
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+Šis
+įstatymas įsigalioja nuo 1999 m. gegužės 1 d.
+ 
+Skundus,
+gautus iki 1999 m. gegužės 1 d., bei pradėtas nagrinėti bylas pirmąja
+instancija, apeliacine ir kasacine tvarka išnagrinėja bendrosios kompetencijos
+teismai pagal procesines normas, kurios galioja iki 1999 m. gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
@@ -94,9 +111,9 @@ tikslams įgyvendinti, padeda formuoti ir išreikšti Lietuvos piliečių intere
 ir politinę valią.
      Lietuvos 
 Respublikos Seimas,  siekdamas garantuoti politinių partijų ir politinių
-organizacijų lygiateisiškumą ir užtikrinti, kad jų veikla tarnautų nepriklausomos
-demokratinės Lietuvos valstybės stiprinimui bei  visuomenės pažangai, priima ir
-skelbia šį įstatymą.
+organizacijų lygiateisiškumą ir užtikrinti, kad jų veikla tarnautų
+nepriklausomos demokratinės Lietuvos valstybės stiprinimui bei  visuomenės
+pažangai, priima ir skelbia šį įstatymą.
      
 Preambulės
 pakeitimai:
@@ -117,7 +134,7 @@ organizacijas ir dalyvauti jų veikloje. Politinių partijų ir politinių
 organizacijų nariu gali būti tik Lietuvos Respublikos pilietis, turintis
 aktyviąją rinkimų teisę.
      Tuo
-mat metu Lietuvos Respublikos pilietis gali būti tik vienos politinės partijos
+pat metu Lietuvos Respublikos pilietis gali būti tik vienos politinės partijos
 ar politinės organizacijos nariu. 
  
 Straipsnio
@@ -177,8 +194,9 @@ Statute (įstatuose) turi būti nurodyta:
     
 1) partijos ar politinės organizacijos pavadinimas, buveinė, tikslai,
 uždaviniai ir veiklos teritorija;
-    
-2) įstojimo  į partiją ar politinę organizaciją ir išstojimo sąlygos ir tvarka;
+ 
+   2) įstojimo  į partiją ar politinę organizaciją ir išstojimo sąlygos ir
+tvarka;
     
 3) partijos  ar  politinės  organizacijos  narių  teisės  ir pareigos;
     
@@ -220,12 +238,12 @@ registravimas
 Politines partijas  ir politines  organizacijas  registruoja Lietuvos
 Respublikos teisingumo ministerija.
     
-Steigėjai  ne  vėliau  kaip  per  vieną  mėnesį  po  statuto (įstatų),
-programos  priėmimo ir vadovaujančiųjų organų išrinkimo dienos  paduoda  
-Lietuvos  Respublikos  teisingumo  ministerijai pareiškimą dėl  partijos ar
-politinės organizacijos registravimo. Pareiškimą pasirašo  vadovas, 
-nurodydamas  partijos ar  politinės organizacijos buveinės  adresą,  telefoną. 
-Prie  pareiškimo  dėl registravimo pridedama:
+Steigėjai  ne  vėliau  kaip  per  vieną  mėnesį  po  statuto (įstatų), programos 
+priėmimo ir vadovaujančiųjų organų išrinkimo dienos  paduoda   Lietuvos 
+Respublikos  teisingumo  ministerijai pareiškimą dėl  partijos ar politinės
+organizacijos registravimo. Pareiškimą pasirašo  vadovas,  nurodydamas 
+partijos ar  politinės organizacijos buveinės  adresą,  telefoną.  Prie 
+pareiškimo  dėl registravimo pridedama:
     
 1) statutas (įstatai), programa dviem egzemplioriais;
     
@@ -234,9 +252,9 @@ partijos  ar  politinės  organizacijos  įsteigimo laikas ir  vieta, taip�
 steigėjų,  dalyvavusių suvažiavime ir balsavusių už  partijos  ar  politinės 
 organizacijos  įsteigimą, skaičius;
     
-3) steigėjų  sąrašas, kuriame  turi būti  kiekvieno steigėjo vardas,  pavardė,  
-gimimo  data,   pilietybė  ir  asmens  kodas, gyvenamosios vietos  adresas,
-užsiėmimas, žyma apie nepriklausymą kitoms partijoms  ir politinėms
+3) steigėjų  sąrašas, kuriame  turi būti  kiekvieno steigėjo vardas, 
+pavardė,   gimimo  data,   pilietybė  ir  asmens  kodas, gyvenamosios vietos 
+adresas, užsiėmimas, žyma apie nepriklausymą kitoms partijoms  ir politinėms
 organizacijoms. Šie duomenys turi būti patvirtinti  kiekvieno steigėjo 
 parašu,  taip  pat  asmens, sudariusio steigėjų sąrašą, parašu;
     
@@ -253,8 +271,8 @@ dokumentai ir  nėra pažeisti šio įstatymo reikalavimai.
     
 Jei dokumentų  trūksta, steigėjams  pranešama apie tai raštu ir nustatomas 
 terminas trūkstamiems  dokumentams  pateikti.  Šis terminas negali  būti
-ilgesnis  negu  vienas  mėnuo.  Partija  ar politinė organizacija  įregistruojama
-per  mėnesį  nuo  trūkstamų dokumentų pateikimo dienos.
+ilgesnis  negu  vienas  mėnuo.  Partija  ar politinė organizacija 
+įregistruojama per  mėnesį  nuo  trūkstamų dokumentų pateikimo dienos.
     
 Politinė partija  ar politinė organizacija, praleidusi šiame straipsnyje
 nustatytus  dokumentų pateikimo  terminus,  taip  pat pažeidusi kitus šio
@@ -316,10 +334,17 @@ politinės partijos ar politinės organizacijos veikla sustabdoma. Teisingumo 
 ministerija, spręsdama, ar  politinė partija,  politinė organizacija nepažeidė
 Lietuvos Respublikos  Konstitucijos ar  šio įstatymo,  turi teisę kreiptis į
 kitas valstybės institucijas ir gauti iš jų išvadas.
+      [5
+straipsnio 3 dalies redakcija iki 1999 m. gegužės 1 d.]
      Rinkiminės
 kampanijos metu politinės partijos ar politinės organizacijos veiklą gali
 sustabdyti tik Vilniaus apygardos teismas, kurio sprendimas įsiteisėja nuo
 paskelbimo.
+      [5
+straipsnio 3 dalies redakcija nuo 1999 m. gegužės 1 d.]
+Rinkiminės kampanijos metu politinės partijos
+ir politinės organizacijos veiklą gali sustabdyti tik Apygardos administracinis
+teismas, kurio sprendimas įsiteisėja nuo paskelbimo.
      Sustabdžius
 politinės  partijos ar politinės organizacijos veiklą,  jai draudžiama naudotis
 visomis  masinės informacijos  priemonėmis, vykdyti agitaciją ir propagandą,
@@ -344,6 +369,8 @@ Nr.
 I-639, 94.11.08, Žin., 1994, Nr.91-1763 (94.11.25)
 Nr.
 I-953, 95.06.20, Žin., 1995, Nr.55-1354 (95.07.05)
+Nr. VIII-1094,
+99.03.18, Žin., 1999, Nr.30-855 (99.04.02)
  
      6
 straipsnis. Politinių partijų ir politinių organizacijų veiklos 
@@ -355,9 +382,15 @@ partijos ar politinės organizacijos veikla pasibaigia:
      1)
 jei  pati partija ar politinė organizacija nutraukia savo  veiklą  statute
 (įstatuose) nustatyta tvarka;
+      [6
+straipsnio 2 punkto redakcija iki 1999 m. gegužės 1 d.]
      2)
 jei  partijos ar politinės organizacijos veiklą nutraukia Vilniaus apygardos
 teismas.
+      [6
+straipsnio 2 punkto redakcija nuo 1999 m. gegužės 1 d.]
+2) jei partijos ar politinės organizacijos
+veiklą nutraukia Apygardos administracinis teismas.
  
 Straipsnio
 pakeitimai:
@@ -365,7 +398,11 @@ Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
 Nr.
 I-639, 94.11.08, Žin., 1994, Nr.91-1763 (94.11.25)
+Nr. VIII-1094,
+99.03.18, Žin., 1999, Nr.30-855 (99.04.02)
  
+      [7
+straipsnio redakcija iki 1999 m. gegužės 1 d.]
      7
 straipsnis. Politinių partijų ir politinių organizacijų veiklos 
                   
@@ -377,13 +414,28 @@ nutraukti politinės partijos ar politinės organizacijos veiklą, jeigu  po
 pakartotinio  veiklos sustabdymo ji per metus pažeidžia Konstituciją ar šį
 įstatymą. 
  
+      [7
+straipsnio redakcija nuo 1999 m. gegužės 1 d.]
+7 straipsnis. Politinių partijų ir politinių
+organizacijų veiklos 
+              nutraukimas
+ 
+Lietuvos Respublikos teisingumo ministerijos
+teikimu Apygardos administracinis teismas gali nutraukti politinės partijos ar
+politinės organizacijos veiklą, jeigu po pakartotinio veiklos sustabdymo ji per
+metus pažeidžia Konstituciją ir šį įstatymą.
+ 
 Straipsnio
 pakeitimai:
 Nr.
 I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
 Nr.
 I-639, 94.11.08, Žin., 1994, Nr.91-1763 (94.11.25)
+Nr. VIII-1094,
+99.03.18, Žin., 1999, Nr.30-855 (99.04.02)
  
+      [8
+straipsnio redakcija iki 1999 m. gegužės 1 d.]
     
 8 straipsnis. Apskundimo tvarka
  
@@ -391,6 +443,14 @@ I-639, 94.11.08, Žin., 1994, Nr.91-1763 (94.11.25)
 Atsisakymas  registruoti   politinę  partiją   ar   politinę organizaciją, jos 
 veiklos sustabdymas  gali  būti  apskųsti  per mėnesį nuo  pranešimo apie  tai
 gavimo  dienos Vilniaus apygardos teismui.
+ 
+      [8
+straipsnio redakcija nuo 1999 m. gegužės 1 d.]
+8 straipsnis. Apskundimo tvarka
+ 
+Atsisakymas registruoti politinę partiją ar
+politinę organizaciją, jos veiklos sustabdymas gali būti apskųsti per mėnesį
+nuo pranešimo apie tai gavimo dienos Apygardos administraciniam teismui.
  
 Straipsnio
 pakeitimai:
@@ -400,6 +460,8 @@ Nr.
 I-639, 94.11.08, Žin., 1994, Nr.91-1763 (94.11.25)
 Nr.
 I-953, 95.06.20, Žin., 1995, Nr.55-1354 (95.07.05)
+Nr. VIII-1094,
+99.03.18, Žin., 1999, Nr.30-855 (99.04.02)
  
  
      
@@ -430,8 +492,8 @@ I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
  
      10
 straipsnis. Politinės  partijos  ar politinės organizacijos veiklos 
-        
-           apribojimas 
+                   
+apribojimas 
  
     
 Politinių partijų  ir politinių  organizacijų  organizacinė struktūra
@@ -493,8 +555,8 @@ skiria kitų valstybių valdžios bei valdymo organai, valstybinės organizacijo
 ar fondai.
      Politinės
 partijos ir politinės organizacijos gali gauti lėšų ar kitokio turto iš
-tarptautinių organizacijų, nevalstybinių organizacijų, fondo ir asmenų tik
-Lietuvos Respublikos įstatymų nustatyta tvarka.
+tarptautinių organizacijų, nevalstybinių organizacijų, fondo ir asmenų tik Lietuvos
+Respublikos įstatymų nustatyta tvarka.
      Neteisėtai
 gautos  lėšos ir  turtas  teismo  sprendimu perduodamas Lietuvos Respublikos
 nuosavybėn.
@@ -571,8 +633,8 @@ I-499, 94.06.15, Žin., 1994, Nr.48-891 (94.06.24)
  
      16
 straipsnis. Teisė skleisti informaciją apie politinės partijos ar 
-                   
-politinės organizacijos veiklą
+                 
+  politinės organizacijos veiklą
  
      Politinės
 partijos ir politinės organizacijos turi teisę nekliudomai raštu, žodžiu ar
@@ -649,7 +711,7 @@ I-953, 95.06.20, Žin., 1995, Nr.55-1354 (95.07.05)
 LIETUVOS
 RESPUBLIKOS 
 AUKŠČIAUSIOSIOS
-TARYBOS PIRMININKAS                         V. LANDSBERGIS 
+TARYBOS PIRMININKAS                         V. LANDSBERGIS 
  
 Vilnius,
 1990 m. rugsėjo 25 d.
