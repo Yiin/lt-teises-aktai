@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B"
 
 # Lietuvos Respublikos hipotekos įstatymas
 
+Suvestinė redakcija nuo 1994-09-30 iki 1996-10-15
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 200-0; Žin. 1992, Nr.31-951, i. k. 0921010ISTA00I-2936
+ 
 LIETUVOS RESPUBLIKOS HIPOTEKOS ĮSTATYMAS
  
  
@@ -52,7 +56,9 @@ II. HIPOTEKOS OBJEKTAS
 Įkeistas turtas, išskyrus žemę, turi būti apdraustas, iki sueis nustatytas skolinio įsipareigojimo vykdymo terminas.
 Norint įkeisti dalį turto, toji dalis turi būti tiksliai apibrėžta ir įregistruota turto registre kaip atskiras objektas.
 Turtas, priklausantis bendrosios nuosavybės teise, gali būti įkeistas tik visiems bendrasavininkiams sutikus.
-Pagal hipotekos įstatymą įkeisti valstybinį turtą neleidžiama.
+Pagal Hipotekos įstatymą gali būti įkeičiamas bet koks turtas, išskyrus tą, į kurį pagal Lietuvos Respublikos įstatymus negali būti nukreipiamas išieškojimas. 
+Straipsnio pakeitimai:
+Nr. I-594, 1994-09-22, Žin., 1994, Nr. 76-1419 (1994-09-30), i. k. 0941010ISTA000I-594
  
 
 9 straipsnis. Nekilnojamojo turto įkeitimas apima:
@@ -330,11 +336,19 @@ Apie hipotekos baigimą hipotekos įstaiga turi raštiškai pranešti įkeisto t
 
  
  
- 
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
 PIRMININKAS                                                                              VYTAUTAS LANDSBERGIS
  
 Vilnius, 1992 m. spalio 6 d. 
 Nr. I-2936
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-594, 1994-09-22, Žin., 1994, Nr. 76-1419 (1994-09-30), i. k. 0941010ISTA000I-594
+Dėl Lietuvos Respublikos hipotekos įstatymo 8 straipsnio pakeitimo
 
