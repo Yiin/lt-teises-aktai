@@ -47,16 +47,13 @@ Nr. VIII-1851,
  
 1
 straipsnis. Teisė gauti vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės
-saugumo, 
-krašto
-apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių 
-įstaigų
-bei valstybės įmonių pareigūnų ir karių valstybinę pensiją 
+saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių
+įstaigų bei valstybės įmonių pareigūnų ir karių valstybinę pensiją 
 Teisę
 gauti vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto
-apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei
-valstybės įmonių pareigūnų ir karių valstybinę pensiją (toliau - pareigūnų ir
-karių pensija) turi šie Lietuvos Respublikos piliečiai:
+apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės
+įmonių pareigūnų ir karių valstybinę pensiją (toliau - pareigūnų ir karių
+pensija) turi šie Lietuvos Respublikos piliečiai:
 1)
 Vidaus reikalų ministerijos, policijos, Valstybės sienos apsaugos tarnybos ir
 kitų vidaus reikalų įstaigų pareigūnai, vidaus tarnybos dalinių karininkai,
@@ -73,16 +70,16 @@ prokuratūros pareigūnai;
 Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnai.
 Teisę gauti pareigūnų ir karių
 valstybinę pensiją taip pat turi šio straipsnio pirmojoje dalyje išvardyti
-pareigūnai ir kariai, kurie, būdami įtraukti į Vidaus reikalų ministerijos, Valstybės
-saugumo departamento, Krašto apsaugos ministerijos kadrų rezervą, Specialiųjų
-tyrimų tarnybos personalo rezervą, dirba kitose Lietuvos Respublikos
-ministerijose, departamentuose, įstaigose ir organizacijose.
-            Teisę gauti pareigūnų ir karių invalidumo
-pensijas turi privalomosios karo tarnybos kariai bei kariai savanoriai, tapę
-invalidais tarnybos ar mokymų metu dėl priežasčių, susijusių su tarnyba ar
-mokymais. Šiems asmenims žuvus tarnybos ar mokymų metu dėl priežasčių,
-susijusių su tarnyba ar mokymais, teisę gauti pareigūnų ir karių valstybines
-našlių ir našlaičių pensijas turi jų sutuoktiniai ir vaikai.
+pareigūnai ir kariai, kurie, būdami įtraukti į Vidaus reikalų ministerijos,
+Krašto apsaugos ministerijos kadrų rezervą, Valstybės saugumo departamento,
+Specialiųjų tyrimų tarnybos pareigūnų rezervą, dirba kitose Lietuvos
+Respublikos ministerijose, departamentuose, įstaigose ir organizacijose.
+            Teisę gauti pareigūnų ir karių invalidumo pensijas
+turi privalomosios karo tarnybos kariai bei kariai savanoriai, tapę invalidais
+tarnybos ar mokymų metu dėl priežasčių, susijusių su tarnyba ar mokymais. Šiems
+asmenims žuvus tarnybos ar mokymų metu dėl priežasčių, susijusių su tarnyba ar
+mokymais, teisę gauti pareigūnų ir karių valstybines našlių ir našlaičių
+pensijas turi jų sutuoktiniai ir vaikai.
 Straipsnio
 pakeitimai: 
 Nr. VIII-908, 98.10.22, Žin., 1998,
@@ -95,6 +92,9 @@ Nr. VIII-1851,
 00.07.13, Žin., 2000, Nr.64-1923 (00.07.31), įsigalioja nuo 2000.09.01
 Nr. VIII-2008,
 2000 10 10, Žin., 2000, Nr. 92-2860 (2000 10 31)
+Nr.
+IX-1412,
+2003-04-01, Žin., 2003, Nr. 36-1545 (2003-04-16)
  
  
             2 straipsnis. Pareigūnų ir karių
@@ -177,9 +177,9 @@ sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente, jam pavald�
 pareigas dienos;
 2)
 darbo įstaigose bei organizacijose laikas, jeigu pareigūnai ar kariai buvo
-paskirti dirbti jose, būdami įtraukti į Vidaus reikalų ministerijos, Valstybės
-saugumo departamento ar Krašto apsaugos ministerijos kadrų rezervą bei
-Specialiųjų tyrimų tarnybos personalo rezervą;
+paskirti dirbti jose, būdami įtraukti į Vidaus reikalų ministerijos ar Krašto
+apsaugos ministerijos kadrų rezervą, Valstybės saugumo departamento bei
+Specialiųjų tyrimų tarnybos pareigūnų rezervą;
 3) nuteisto pareigūno ar kario bausmės
 atlikimo laikas, jeigu šis pareigūnas ar karys vėliau reabilituotas.
 Straipsnio pakeitimai:
@@ -189,6 +189,9 @@ Nr. VIII-1654,
 00.05.02, Žin., 2000, Nr.41-1167 (00.05.19), įsigalioja nuo 2000.06.01
 Nr. VIII-1851,
 00.07.13, Žin., 2000, Nr.64-1923 (00.07.31), įsigalioja nuo 2000.09.01
+Nr.
+IX-1412,
+2003-04-01, Žin., 2003, Nr. 36-1545 (2003-04-16)
  
  
 7 straipsnis. Pareigūnų ir karių
@@ -215,10 +218,9 @@ valstybinė invalidumo pensija
             Pareigūnų ir karių valstybinė invalidumo
 pensija skiriama šio įstatymo 1 straipsnyje nurodytiems pareigūnams ir kariams,
 pripažintiems invalidais. Jei invalidumas atsirado dėl priežasčių, susijusių su
-tarnyba, pensija skiriama nepaisant invalidumo pripažinimo laiko. Jei
-invalidumas atsirado dėl kitų priežasčių, pareigūnų ir karių valstybinė
-invalidumo pensija skiriama tik tuo atveju, jei invalidumas atsirado tarnybos
-metu.
+tarnyba, pensija skiriama nepaisant invalidumo pripažinimo laiko. Jei invalidumas
+atsirado dėl kitų priežasčių, pareigūnų ir karių valstybinė invalidumo pensija
+skiriama tik tuo atveju, jei invalidumas atsirado tarnybos metu.
             Invalidumas pripažįstamas atsiradusiu dėl
 priežasčių, susijusių su tarnyba, jei susirgimas, sužeidimas ar trauma, sukėlę
 invalidumą, įvyko tarnyboje. Priežastinį ryšį turi patvirtinti žinybinė
@@ -226,8 +228,8 @@ centrinė medicinos ekspertizės komisija.
             Invalidumo grupę nustato Valstybinė
 medicininės socialinės ekspertizės komisija (VMSEK). 
  
-            9 straipsnis. Pareigūnų ir karių
-valstybinės invalidumo pensijos dydis 
+            9 straipsnis. Pareigūnų ir karių valstybinės
+invalidumo pensijos dydis 
             Pareigūnų ir karių valstybinė invalidumo
 pensija mokama pareigūnams ir kariams už kiekvienus tarnybos metus, įskaitytus
 į tarnybos laiką pensijai skirti, po 1,2% I grupės, 1% II grupės ir 0,5% III
@@ -235,10 +237,10 @@ grupės invalidams darbo užmokesčio, nurodyto šio įstatymo 7 straipsnio
 pirmojoje dalyje.
             Jei asmuo mirė ar invalidumas
 pripažįstamas atsiradusiu dėl priežasčių, susijusių su tarnyba, ir faktinis
-pareigūno arba kario tarnybos laikas mažesnis už 20 metų, tarnybos laikas
-pensijai skirti prilyginamas 20 metų. Jei asmuo mirė ar invalidumas
-pripažįstamas atsiradusiu dėl kitų priežasčių, pensija apskaičiuojama pagal
-faktinį tarnybos laiką pensijai skirti. 
+pareigūno arba kario tarnybos laikas mažesnis už 20 metų, tarnybos laikas pensijai
+skirti prilyginamas 20 metų. Jei asmuo mirė ar invalidumas pripažįstamas
+atsiradusiu dėl kitų priežasčių, pensija apskaičiuojama pagal faktinį tarnybos
+laiką pensijai skirti. 
 Privalomosios karo tarnybos kariams bei
 kariams savanoriams, tapusiems invalidais tarnybos ar mokymų metu dėl
 priežasčių, susijusių su tarnyba ar mokymais, mokama pareigūnų ir karių
@@ -262,12 +264,12 @@ valstybinė našlių ir našlaičių pensija
 Teisę gauti pareigūnų ir karių
 valstybinę našlių ir našlaičių pensiją turi mirusiojo (arba nustatyta tvarka
 pripažinto mirusiu ar nežinia kur esančiu) pareigūno ar kario sutuoktinis bei
-vaikai, taip pat jiems prilyginti asmenys, nurodyti Valstybinių socialinio
-draudimo pensijų įstatymo 34 ir 35 straipsniuose. Ši pensija skiriama, jei
-miręs asmuo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę pensiją už
-tarnybą arba žuvęs ar miręs nuo sužalojimų asmuo dėl priežasčių, susijusių su
-tarnyba, arba dėl invalidumo buvo įgijęs teisę gauti pareigūnų ir karių
-valstybinę invalidumo pensiją arba vieną iš šių pensijų gavo.
+vaikai, taip pat jiems prilyginti asmenys, nurodyti Valstybinių socialinio draudimo
+pensijų įstatymo 34 ir 35 straipsniuose. Ši pensija skiriama, jei miręs asmuo
+buvo įgijęs teisę gauti pareigūnų ir karių valstybinę pensiją už tarnybą arba
+žuvęs ar miręs nuo sužalojimų asmuo dėl priežasčių, susijusių su tarnyba, arba
+dėl invalidumo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę invalidumo
+pensiją arba vieną iš šių pensijų gavo.
             Pareigūnų ir karių valstybinė našlių ir
 našlaičių pensija apskaičiuojama taip pat kaip karių ir pareigūnų valstybinė
 invalidumo pensija I grupės invalidams, atsižvelgiant, ar pareigūnas mirė dėl
@@ -286,10 +288,10 @@ tėvai buvo įgiję teisę gauti pareigūnų ir karių valstybinę pensiją už 
 arba invalidumo pensiją.
 Privalomosios karo tarnybos kariui ar
 kariui savanoriui mirus tarnybos ar mokymų metu dėl priežasčių, susijusių su
-tarnyba ar mokymais, skiriama našlių ir našlaičių pensija šio straipsnio pirmojoje-ketvirtojoje
-dalyse nustatyta tvarka. Ji apskaičiuojama kaip nustatyta šio įstatymo 9
-straipsnio trečiosios dalies 2 punkte pareigūnų ir karių valstybinė invalidumo
-pensija II grupės invalidams.
+tarnyba ar mokymais, skiriama našlių ir našlaičių pensija šio straipsnio
+pirmojoje-ketvirtojoje dalyse nustatyta tvarka. Ji apskaičiuojama kaip
+nustatyta šio įstatymo 9 straipsnio trečiosios dalies 2 punkte pareigūnų ir
+karių valstybinė invalidumo pensija II grupės invalidams.
 Straipsnio
 pakeitimai: 
 Nr. VIII-828, 98.07.01, Žin., 1998,
@@ -314,8 +316,8 @@ skaičiuojami nuo apskaičiuotos pareigūno ar kario valstybinės pensijos (šio
 įstatymo 7 ir 9 straipsniai). Tais atvejais, kai apskaičiuotos pareigūno ar
 kario valstybinės pensijos dydis (šio įstatymo 7, 9 straipsniai ir 16
 straipsnio 7 dalis) turi būti apribojamas Valstybinių pensijų įstatymo 3
-straipsnio 3 dalies nustatyta tvarka, mokėtini 30 procentų skaičiuojami nuo pareigūno
-ar kario valstybinės pensijos apriboto dydžio. 
+straipsnio 3 dalies nustatyta tvarka, mokėtini 30 procentų skaičiuojami nuo
+pareigūno ar kario valstybinės pensijos apriboto dydžio. 
 Šio straipsnio antrojoje dalyje
 nustatyta tvarka mokamos pensijos ir už ištarnautus metus bei invalidumo
 pensijos, paskirtos atitinkamiems pareigūnams ir kariams galiojusia iki 1995 m.
@@ -360,10 +362,10 @@ institucijos per Nuostatuose nustatytą laiką privalo priimti sprendimą apie
 pensijos paskyrimą arba apie atsisakymą ją paskirti ir apie sprendimą pranešti
 pareiškėjui. Jei atsisakoma skirti pensiją, privaloma nurodyti atsisakymo
 priežastį.
-            Jei pareiškėjas nesutinka su šio straipsnio
-pirmojoje dalyje nurodytos institucijos sprendimu, jis turi teisę šį sprendimą
-apskųsti tos institucijos vadovui, o jei nesutinkama ir su vadovo sprendimu,
-ginčas sprendžiamas teisme. 
+            Jei pareiškėjas nesutinka su šio
+straipsnio pirmojoje dalyje nurodytos institucijos sprendimu, jis turi teisę šį
+sprendimą apskųsti tos institucijos vadovui, o jei nesutinkama ir su vadovo
+sprendimu, ginčas sprendžiamas teisme. 
 Straipsnio pakeitimai:
 Nr. VIII-1632,
 00.04.18, Žin., 2000, Nr.36-986 (00.05.03), įsigalioja nuo 2000.09.01
@@ -584,8 +586,8 @@ IR PAPILDYMO ĮSTATYMAS
 Nr. VIII-1632, 00.04.18, Žin., 2000,
 Nr.36-986 (00.05.03) 
 VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO
-APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAVADINIMO,
-1, 3, 6, 12, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO
+PAVADINIMO, 1, 3, 6, 12, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja nuo 2000 m. rugsėjo 1 d.
 Šis pakeitimas neteko galios nuo 2000 m. rugsėjo
@@ -635,8 +637,8 @@ VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS,
 VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM
 PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
 ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šis įstatymas įsigalioja
-nuo 2001 m. sausio 1 d.
+Šis įstatymas
+įsigalioja nuo 2001 m. sausio 1 d.
  
 10.
 Lietuvos Respublikos Seimas,
@@ -648,11 +650,22 @@ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIM�
 DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ
 VALSTYBINIŲ PENSIJŲ ĮSTATYMO 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1412,
+2003-04-01, Žin., 2003, Nr. 36-1545 (2003-04-16)
+VIDAUS
+REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS,
+PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ
+PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1 IR 6 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-04-12)
-  
-               autrap@lrs.lt
+Aušra Bodin (2003-04-17)
+                 
+aubodi@lrs.lt
