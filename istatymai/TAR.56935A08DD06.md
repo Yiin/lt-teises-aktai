@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.56935A08DD06"
 
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
 
+Suvestinė redakcija nuo 2002-07-19 iki 2005-03-04
+ 
+Įstatymas paskelbtas: Žin. 1997, Nr. 108-2731, i. k. 0971010ISTAVIII-512
+ 
 LIETUVOS RESPUBLIKOS JŪROS APLINKOS APSAUGOS ĮSTATYMAS
  
 1997 m. lapkričio 13 d. Nr. VIII-512
@@ -850,24 +854,28 @@ Jūros rajono pakrantės vertingiems arba būdingiems kompleksams bei rūšims, 
 
 
 
-53 straipsnis. Apsaugos juostų ir zonų nustatymas
+53 straipsnis. Pajūrio juostos ir jūros kranto zonos nustatymas
 
 
-Kad būtų išsaugota jūros rajono pakrantės aplinka, nustatoma apsaugos juosta ir zona. Apsaugos zona gali būti nustatoma ir pakrantės vandens akvatorijai. 
+Kad būtų išsaugota jūros rajono pakrantės aplinka, nustatomos dvi skirtingo apsaugos režimo teritorijos – pajūrio juosta ir jūros kranto zona. Jūros kranto zona gali būti nustatoma ir pakrantės akvatorijoje.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
  
 
 
 
 
+54 straipsnis. Pajūrio juostos naudojimo režimas
 
 
-54 straipsnis. Apsaugos juostų ir zonų naudojimo režimas
+Jūros rajono pajūrio juostos naudojimo bei apsaugos režimą nustato Pajūrio juostos įstatymas, kiti teisės aktai.
 
 
-Jūros rajono pakrantės apsaugos juostos ir zonos naudojimo ir apsaugos režimą nustato įstatymas „Dėl statybų Lietuvos Respublikos pajūrio juostoje ir Kuršių nerijoje“, kiti teisės aktai, pirmiausia atsižvelgiant į pakrantės gamtines ir rekreacines vertybes.
+Straipsnio pakeitimai:
+Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
  
-
-
 
 
 
@@ -886,21 +894,25 @@ Gali būti formuojamos įrenginių, esančių jūros rajone ar jos pakrantėje, 
 56 straipsnis. Jūros kranto zonos tvarkymo reglamentavimas
 
 
-Jūros kranto zonos (paplūdimio, kopagūbrio, kranto, povandeninio šlaito) tvarkymą reglamentuoja Krantų apsaugos ir naudojimo nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+Jūros kranto zonos tvarkymą reglamentuoja Krantų apsaugos ir naudojimo nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
  
 
 
 
 
+57 straipsnis. Pajūrio juostos ir jūros kranto zonos žymėjimas
 
 
-57 straipsnis. Pakrantės juostų ir zonų žymėjimas
+Pajūrio juostos ir jūros kranto zonos ribos pažymimos bei jų naudojimo ir apsaugos, kranto tvarkymo priemonės nustatomos visų lygių ir visų rūšių teritorijų planavimo dokumentuose, patvirtintuose Teritorijų planavimo įstatymo nustatyta tvarka.
 
 
-Jūros rajono pakrantės apsaugos juostų ir zonų ribos pažymimos bei jų naudojimo ir apsaugos, kranto tvarkymo priemonės nustatomos visų lygių ir visų rūšių teritorijų planavimo dokumentuose, patvirtintuose Teritorinio planavimo įstatymo nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
  
-
-
 
 
 
@@ -1152,3 +1164,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 53, 54, 56 ir 57 straipsnių pakeitimo įstatymas
