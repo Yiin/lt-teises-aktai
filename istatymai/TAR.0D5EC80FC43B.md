@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0D5EC80FC43B"
 
 # Lietuvos Respublikos teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymas
 
-Suvestinė redakcija nuo 1997-12-27 iki 1998-12-30
+Suvestinė redakcija nuo 1998-12-31 iki 1999-12-16
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2729, i. k. 0971010ISTAVIII-510
  
@@ -37,7 +37,9 @@ Vilnius
 
 
 
-2. Nuo 1998 m. gruodžio 31 d. netenka galios Lietuvos Respublikos teritorijoje galiojantys poįstatyminiai norminiai teisės aktai, priimti iki 1990 m. kovo 11 d.
+2. Nuo 1999 m. gruodžio 31 d. netenka galios Lietuvos Respublikos teritorijoje galiojantys poįstatyminiai norminiai teisės aktai, priimti iki 1990 m. kovo 11 d.
+Straipsnio dalies pakeitimai:
+Nr. VIII-998, 1998-12-22, Žin., 1998, Nr. 115-3245 (1998-12-31), i. k. 0981010ISTAVIII-998
  
 
 
@@ -89,3 +91,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-587, 1997-12-23, Žin., 1997, Nr. 118-3045 (1997-12-27), i. k. 0971010ISTAVIII-587
 Lietuvos Respublikos teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-998, 1998-12-22, Žin., 1998, Nr. 115-3245 (1998-12-31), i. k. 0981010ISTAVIII-998
+Lietuvos Respublikos teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymo 1 straipsnio pakeitimo įstatymas
