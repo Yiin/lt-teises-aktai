@@ -120,7 +120,8 @@ pirotechnikos priemonių (pagal Vidaus reikalų ministerijos patvirtintą sąra�
 importas, pardavimas; 
 5)
 vertybinių popierių, dokumentų blankų ir specialių ženklų – banderolių
-alkoholiniams gėrimams ir tabako gaminiams ženklinti spausdinimas; 
+apdorotam tabakui, etilo alkoholiui ir alkoholiniams gėrimams ženklinti
+spausdinimas;
 6)
 geodeziniai topografiniai darbai;
 7)
@@ -140,13 +141,16 @@ straipsnių pakeitimo ir papildymo 11(1) straipsniu įstatymo (Žin.,
 2)
 Lietuvos Respublikos Seimo 1997 m. spalio 14 d. nutarimą Nr.VIII-445 „Dėl
 Lietuvos Respublikos įmonių įstatymo 4, 6, 11, 12, 13, 14, 15, 19, 20, 21, 22
-straipsnių pakeitimo ir papildymo 11(1) straipsniu įstatymo
-įgyvendinimo“ (Žin., 1997, Nr.96-2420).
-Straipsnio pakeitimai:
-Nr. IX-314, 2001 05 08, Žin., 2001, Nr. 43-1494 (2001 05 23)
-Nr. IX-812,
-2002-03-26, Žin., 2002, Nr. 38-1359 (2002-04-10)
- 
+straipsnių pakeitimo ir papildymo 11(1) straipsniu įstatymo įgyvendinimo“
+(Žin., 1997, Nr.96-2420).
+Straipsnio
+pakeitimai:
+Nr. IX-314,
+2001 05 08, Žin., 2001, Nr. 43-1494 (2001 05 23)
+Nr. IX-812, 2002-03-26,
+Žin., 2002, Nr. 38-1359 (2002-04-10)
+Nr. IX-1123,
+2002-10-08, Žin., 2002, Nr. 101-4494 (2002-10-23)
  
 3
 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
@@ -173,26 +177,37 @@ ____________
 Pakeitimai:
  
 1.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-314, 2001 05 08, Žin.,
-2001, Nr. 43-1494 (2001 05 23)
-ĮMONIŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMO 2
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
- 
-2.
-Lietuvos Respublikos Seimas,
-Įstatymas
-Nr. IX-812, 2002-03-26,
-Žin., 2002, Nr. 38-1359 (2002-04-10)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-314, 2001 05 08, Žin., 2001, Nr.
+43-1494 (2001 05 23)
 ĮMONIŲ ĮSTATYMO 13 STRAIPSNIO
 PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-812,
+2002-03-26, Žin., 2002, Nr. 38-1359 (2002-04-10)
+ĮMONIŲ
+ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1123,
+2002-10-08, Žin., 2002, Nr. 101-4494 (2002-10-23)
+ĮMONIŲ
+ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-04-10)
+Aušrinė Trapinskienė (2002-10-24)
                  
 autrap@lrs.lt
 
