@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29"
 
 # Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1991-08-08 iki 1991-12-28
+Suvestinė redakcija nuo 1991-12-29 iki 1992-03-24
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 55-0; Žin. 1991, Nr.10-261, i. k. 0911010ISTA00I-1115
  
@@ -176,11 +176,24 @@ Straipsnio dalies pakeitimai:
 Nr. I-1146, 1991-03-14, Žin., 1991, Nr. 10-262 (1991-04-10), i. k. 0911010ISTA00I-1146
  
 
-2. Juridiniai asmenys negali už rublius įsigyti privatizavimo objektų (akcijų).
+2. Asmenys, kurie pagal Lietuvos Respublikos pilietybės įstatymą turi teisę į Lietuvos Respublikos pilietybės atstatymą, gali įsigyti privatizavimo objektus (akcijas) už laisvai konvertuojamą valiutą, taikant Lietuvos Respublikos Vyriausybės šiam tikslui nustatytą rublio ir konvertuojamų valiutų santykį. 
+Papildyta straipsnio dalimi:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
 
-3. Lietuvos ir kitų valstybių fiziniai ir juridiniai asmenys turi teisę už laisvai konvertuojamą valiutą įsigyti privatizavimo objektus (akcijas), kurie įtraukti į atskirą, Lietuvos Respublikos Aukščiausiosios Tarybos patvirtintą, sąrašą.
+3. Juridiniai asmenys, išskyrus Lietuvos Respublikos Vyriausybės nustatyta tvarka įsteigtas investicines akcines bendroves, negali už rublius įsigyti privatizavimo objektų (akcijų). 
+Straipsnio dalies pakeitimai:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
 
-4. Privatizavimo objektų (akcijų) negali įsigyti valstybinės valdžios ir valdymo įstaigos, valstybinės ir valstybinės akcinės įmonės, iš Lietuvos Respublikos valstybės biudžeto ir vietos savivaldybių biudžetų finansuojamos įmonės, įstaigos ir organizacijos.
+4. Lietuvos ir kitų valstybių fiziniai ir juridiniai asmenys turi teisę už laisvai konvertuojamą valiutą įsigyti privatizavimo objektus (akcijas), kurie įtraukti į atskirą, Lietuvos Respublikos Aukščiausiosios Tarybos patvirtintą, sąrašą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
+
+5. Privatizavimo objektų (akcijų) negali įsigyti valstybinės valdžios ir valdymo įstaigos, valstybinės ir valstybinės akcinės įmonės, iš Lietuvos Respublikos valstybės biudžeto ir vietos savivaldybių biudžetų finansuojamos įmonės, įstaigos ir organizacijos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
  
 
 10 straipsnis. Atstovavimas
@@ -196,15 +209,20 @@ ATSISKAITYMAI UŽ PERKAMĄ PRIVATIZAVIMO OBJEKTĄ
 
 1. Privatizavimo objektai parduodami ir perduodami už šio įstatymo 12 straipsnyje nustatyta tvarka skirtas valstybės vienkartines išmokas (investicinius čekius), Lietuvos Respublikoje galiojančius pinigus ar laisvai konvertuojamą valiutą, taip pat tikslines kompensacijas, papildomai išmokamas pagal kitus Lietuvos Respublikos įstatymus.
 
-2. Kiekvienam asmeniui, kuris pagal šio įstatymo 9 straipsnį turi teisę įsigyti privatizuojamą valstybinį turtą, leidžiama panaudoti privatizavimo objektų įsigijimui pinigus (rublius). Jų kvotas nustato Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo įsigaliojimo“. Šią teisę asmuo gali perduoti tik savo sutuoktiniui, tėvams, vaikams, broliams ir seserims. Į nustatytą pinigų kvotą neįskaitomos pinigų sumos, kurias nuomininkai išleidžia valstybinio ir visuomeninio butų fondo butams įsigyti. Jeigu asmuo tyčia pažeidžia investicijoms nustatytą pinigų (rublių) kvotą, tai neteisėtai investuota pinigų suma teismine tvarka išieškoma į Lietuvos Respublikos valstybės biudžetą. Centrinė privatizavimo komisija tvirtina privatizavimo objektų, parduodamų netaikant pinigų (rublių) kvotų, sąrašą. Į šį sąrašą gali būti įtraukiami tik tie privatizavimo objektai, kurie liko neparduoti šio įstatymo nustatyta tvarka.
+2. Kiekvienam asmeniui, kuris pagal šio įstatymo 9 straipsnio pirmąją dalį turi teisę įsigyti privatizuojamą valstybinį turtą, leidžiama naudoti privatizavimo objektų įsigijimui pinigus (rublius). Jų kvotas nustato Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo įsigaliojimo“. Šią teisę asmuo gali perduoti tik savo sutuoktiniui, tėvams, vaikams, vaikaičiams, broliams ir seserims. Į nustatytą pinigų kvotą neįskaitomos pinigų sumos, kurias nuomininkai išleidžia valstybinio ir visuomeninio butų fondo butams įsigyti. Investicinės akcinės bendrovės privatizavimo objektams (akcijoms) įsigyti turi teisę naudoti pinigus (rublius), kuriuos sumoka (neviršijant nustatytų kvotų) 9 straipsnio pirmojoje dalyje nurodyti asmenys už įsigyjamas šių bendrovių akcijas. Jeigu asmuo tyčia pažeidė investicijoms nustatytą pinigų (rublių) kvotą, tai neteisėtai investuota pinigų suma per teismą išieškoma į Lietuvos Respublikos valstybės biudžetą. Centrinė privatizavimo komisija tvirtina privatizavimo objektų, parduodamų netaikant pinigų (rublių) kvotų, sąrašą. Į šį sąrašą gali būti įtraukiami tik tie privatizavimo objektai, kurie liko neparduoti šio įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
 
 3. Jeigu privatizavimo objektas šio įstatymo nustatyta tvarka įsigyjamas už laisvai konvertuojamą valiutą, tai pinigų kvotos nenustatomos.
 
 4. Privatizavimo objektas (akcijos) Lietuvos Respublikos finansų ministerijos nustatyta tvarka gali būti parduodamas išsimokėtinai, taikant lengvatines palūkanas.
 
 5. Asmenims, kuriems paskirta valstybės vienkartinė išmoka ar kita kompensacija, atidaromos asmeninės arba bendros šeimos narių investicinės sąskaitos, kuriose įrašomos paskirtų valstybės vienkartinių išmokų ir kitų tikslinių kompensacijų, papildomai skiriamų pagal Lietuvos Respublikos įstatymus, sumos. Investicijoms pagal nustatytas pinigų kvotas naudojami pinigai (rubliai) pervedami į tas pačias investicines sąskaitas. Privatizavimo objektams (akcijoms) įsigyti nepanaudotos pinigų (rublių) sumos, esančios investicinėje sąskaitoje, turi būti pervestos į jas įnešusių asmenų indėlių sąskaitas.
+Investicinės sąskaitos taip pat atidaromos investicinėms akcinėms bendrovėms. Į šias sąskaitas pervedamos asmenų, įsigyjančių investicinių akcinių bendrovių akcijas, asmeninėse investicinėse sąskaitose esančios investicinės lėšos. Investicinės akcinės bendrovės privatizavimo objektams (akcijoms) įsigyti turi teisę naudoti tik savo investicinėse sąskaitose turimas investicines lėšas. Investicinės akcinės bendrovės įstatinis kapitalas negali būti didesnis kaip 400 milijonų rublių.
 Straipsnio dalies pakeitimai:
 Nr. I-1635, 1991-07-30, Lietuvos aidas, 1991, Nr. 154-0 (1991-08-07); Žin., 1991, Nr. 23-604 (1991-08-20), i. k. 0911010ISTA00I-1635
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
  
 
 6. Investicinių sąskaitų tvarkymo ir apmokėjimų už įsigyjamą privatizavimo objektą (akcijas) taisykles nustato Lietuvos Respublikos finansų ministerija ir Lietuvos bankas.
@@ -230,7 +248,10 @@ Nr. I-1614, 1991-07-25, Lietuvos aidas, 1991, Nr. 151-0 (1991-08-02); Žin., 199
 
 2. Atsižvelgiant į vidutinio darbo užmokesčio Lietuvos ūkyje ir vidutinio darbo užmokesčio žemės ūkyje skirtumą, asmenims, po 1944 metų dirbusiems, taip pat dabar dirbantiems žemės ūkio įmonėse, pagal atskirus Lietuvos Respublikos įstatymus papildomai skiriamos tikslinės žemės ūkio kompensacijos (agrariniai čekiai).
 
-3. Asmuo, kuriam paskirta valstybės vienkartinė išmoka ar kita tikslinė kompensacija, gali ją perleisti tik savo sutuoktiniui, tėvams, vaikams, broliams ir seserims, įrašant lėšas į asmens, kuriam perleidžiama išmoka ar kompensacija, investicinę sąskaitą. Šios išmokos ir kompensacijos paveldimos bendra tvarka.
+3. Asmuo, kuriam paskirta valstybės vienkartinė išmoka ar kita tikslinė kompensacija, gali jas perleisti tik savo sutuoktiniui, tėvams, vaikams, vaikaičiams, broliams ir seserims, taip pat įsigyti už jas investicinių akcinių bendrovių akcijas. Šios lėšos įrašomos į asmens, kuriam perleidžiama išmoka ar kompensacija, investicinę sąskaitą, o įsigyjant investicinės akcinės bendrovės akcijas – į šios bendrovės investicinę sąskaitą. Šios išmokos ir kompensacijos paveldimos bendra tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
 
 4. Valstybės vienkartinių išmokų ir kitų tikslinių kompensacijų skyrimo tvarką nustato Lietuvos Respublikos Vyriausybė.
  
@@ -258,7 +279,10 @@ PRIVATIZAVIMO OBJEKTŲ PARDAVIMAS
 
 2) skelbiant viešą akcijų pasirašymą.
 
-2. Privatizavimo objektas (akcijos) parduodamas fiziniam asmeniui privačios nuosavybės teise, fizinių asmenų grupei - bendrosios dalinės arba sutuoktinių bendrosios jungtinės nuosavybės teise.
+2. Privatizavimo objektas (akcijos) parduodamas fiziniam asmeniui, investicinei akcinei bendrovei privačios nuosavybės teise, fizinių asmenų grupei – privačios bendrosios dalinės arba sutuoktinių bendrosios jungtinės nuosavybės teise. 
+Straipsnio dalies pakeitimai:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
 
 3. Privatizavimo objektas, kurio pradinė pardavimo kaina yra didesnė kaip 500 tūkstančių rublių, parduodamas tik skelbiant viešą akcijų pasirašymą. Ši sąlyga netaikoma objektams, parduodamiems už laisvai konvertuojamą valiutą. Išleidžiamų akcijų nominalių verčių suma turi būti lygi privatizavimo objekto valstybinio kapitalo (numatytos privatizuoti jo dalies) dydžiui, apskaičiuotam pagal Lietuvos Respublikos Vyriausybės nustatytas taisykles.
 
@@ -277,7 +301,10 @@ PRIVATIZAVIMO OBJEKTŲ PARDAVIMAS
 
 2. Respublikinis privatizavimo fondas sudaromas iš įplaukų už parduotus privatizavimo objektus (akcijas), priskirtus Lietuvos Respublikos Vyriausybės reguliavimo sferai, ir 70 procentų lėšų, gautų privatizuojant vietos savivaldybių reguliavimo sferai priskirtus objektus.
 
-3. 30 procentų lėšų, gautų už vietos savivaldybių reguliavimo sferai priskirtų privatizavimo objektų (akcijų) pardavimą, kaupiama aukštesniosios pakopos savivaldybių privatizavimo fonduose.
+3. Aukštesniosios pakopos savivaldybės privatizavimo fonduose kaupiama 30 procentų lėšų, gautų už vietos savivaldybės reguliavimo sferai priskirtų privatizavimo objektų (akcijų) pardavimą, ir 5 procentai lėšų, gautų už parduotus privatizavimo objektus (akcijas), priskirtus Lietuvos Respublikos Vyriausybės reguliavimo sferai. 
+Straipsnio dalies pakeitimai:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
 
 4. Valstybės vienkartinių išmokų ir kitų tikslinių kompensacijų lėšos, panaudotos valstybiniam turtui įsigyti, į privatizavimo fondus nepervedamos.
 
@@ -293,16 +320,25 @@ PRIVATIZAVIMO OBJEKTŲ PARDAVIMAS
 4) šio įstatymo 3 straipsnyje nustatytus privatizavimo objekto ekonominius ir techninius duomenis.
 Respublikiniame privatizavimo informaciniame biuletenyje turi būti paskelbti šios dalies 1-3 punktuose nurodyti duomenys.
 
-2. Aukciono dalyviais gali būti iš anksto nustatyta tvarka užsiregistravę ir mokūs fiziniai asmenys arba jų grupės, turinčios notariškai įformintą grupės steigimo sutartį. Fizinių asmenų grupės sudarytoje sutartyje turi būti nurodyta:
+2. Aukciono dalyviais gali būti nustatyta tvarka užsiregistravę ir mokūs fiziniai asmenys, jų grupės, turinčios notariškai įformintą grupės steigimo sutartį, arba investicinės akcinės bendrovės. Fizinių asmenų grupės sudarytoje sutartyje turi būti nurodyta:
 1) grupės narių pavardė, vardai ir adresai;
 2) grupės narių numatomų įnašų dydis (dalys), kitos pareigos ir teisės;
 3) grupės atstovas ir jo įgalinimai dalyvauti aukcione;
 4) įgyto aukcione turto panaudojimo sąlygos ir tvarka.
 Fizinių asmenų grupės įsigytas turtas bendrosios dalinės nuosavybės teise priklauso sutartį sudariusiems asmenims. Grupės narių prievolės yra proporcingos jų sutartiniams įnašams.
+Straipsnio dalies pakeitimai:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
 
-3. Aukcionas gali vykti, jeigu užsiregistravo ne mažiau kaip du dalyviai. Aukciono dalyviai privalo ne vėliau kaip 7 dienas iki aukciono pradžios užsiregistruoti aukcionų organizavimo tarnyboje ir įmokėti į šios tarnybos nurodytą sąskaitą 5 procentus norimo įsigyti privatizavimo objekto pradinės kainos, taip pat sumokėti 50 rublių registracijos mokestį.
+3. Aukcionas gali vykti, jeigu užsiregistravo ne mažiau kaip du dalyviai. Aukciono dalyviai privalo ne vėliau kaip prieš 3 dienas iki aukciono pradžios užsiregistruoti aukcionų organizavimo tarnyboje ir įmokėti į šios tarnybos nurodytą sąskaitą 5 procentus norimo įsigyti privatizavimo objekto pradinės kainos, taip pat sumokėti 50 rublių registracijos mokestį. Vietoj pradinio įnašo privatizavimo tarnybai Lietuvos Respublikos Vyriausybės nustatyta tvarka gali būti pateikiamas notariškai patvirtintas skolinis įsipareigojimas. 
+Straipsnio dalies pakeitimai:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
 
-4. Per 5 dienas po aukciono pirkėjas turi sumokėti aukcione nustatytos kainos (jos privalomos dalies, jei objektas perkamas išsimokėtinai) ir pradinio įnašo skirtumą. Jei pirkėjas nustatytu laiku neatsiskaito, tai aukcionas laikomas neįvykusiu, o pradinis pirkėjo įnašas negrąžinamas.
+4. Per 15 dienų po aukciono pirkėjas turi sumokėti aukcione nustatytos kainos (jos privalomos dalies, jei objektas perkamas išsimokėtinai) ir pradinio įnašo skirtumą. Jei pirkėjas nustatytu laiku neatsiskaito, tai aukcionas laikomas neįvykusiu, o pradinis pirkėjo įnašas negrąžinamas.
+Straipsnio dalies pakeitimai:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
 
 5. Pagal Lietuvos Respublikos finansų ministerijos nustatytas taisykles fizinis asmuo gali aukcione parduodamą privatizavimo objektą įsigyti išsimokėtinai. Šiuo atveju pirkėjas turi sumokėti šio straipsnio ketvirtojoje dalyje nustatytu terminu ne mažiau kaip 60 procentų objekto kainos, įskaitant valstybės vienkartines išmokas ir kitas tikslines kompensacijas. Centrinė privatizavimo komisija turi teisę šį procentą pakeisti.
 
@@ -338,7 +374,10 @@ Respublikiniame privatizavimo informaciniame biuletenyje skelbiami šios dalies 
 
 2. Akcijų pasirašymas yra sutartis tarp valstybės (vietos savivaldybės), kiuriai atstovauja privatizavimo tarnybos, ir fizinio asmens ar jų grupės arba, šio įstatymo numatytais atvejais, juridinio asmens. Šia sutartimi viena šalis įsipareigoja pateikti tam tikrą skaičių akcijų, o kita šalis - apmokėti visą pasirašytų akcijų emisijos kainą. Sutartis laikoma sudaryta, jei pasirašyta daugiau kaip 80 procentų numatytų išleisti akcijų ir akcijų pasirašymas atitinkamos privatizavimo komisijos patvirtintas.
 
-3. Akcijos pasirašomos keliais etapais. Per pirmąjį etapą, trunkantį 30 dienų, jos pasirašomos už pradinę akcijų pasirašymo kainą, kurią nustato privatizavimo tarnyba. Pradinė akcijų pasirašymo kaina turi būti didesnė už jų nominalią vertę. Jei už pradinę akcijų pasirašymo kainą buvo pasirašyta daugiau kaip 80 ir ne daugiau kaip 110 procentų numatytų išleisti akcijų, tai akcijų pasirašymas laikomas įvykusiu. Šiuo atveju akcijų emisijos kaina yra lygi pradinei akcijų pasirašymo kainai.
+3. Akcijos pasirašomos keliais etapais. Per pirmąjį etapą, trunkantį 45 dienas, jos pasirašomos už pradinę akcijų pasirašymo kainą, kurią nustato privatizavimo tarnyba. Pradinė akcijų pasirašymo kaina turi būti didesnė už jų nominalią vertę. Jei už pradinę akcijų pasirašymo kainą buvo pasirašyta daugiau kaip 80 ir ne daugiau kaip 110 procentų numatytų išleisti akcijų, tai akcijų pasirašymas laikomas įvykusiu. Šiuo atveju akcijų emisijos kaina yra lygi pradinei akcijų pasirašymo kainai.
+Straipsnio dalies pakeitimai:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
 
 4. Kai už pradinę kainą pasirašyta daugiau kaip 10 procentų numatytų išleisti akcijų, skelbiamas naujas akcijų pasirašymas už ne mažiau kaip 10 procentų padidintą pradinę kainą. Šiuo atveju kiekvienas akcijas pasirašęs asmuo turi teisę pareikalauti, kad įnašai jam būtų grąžinti be jokių išskaitymų.
 
@@ -350,7 +389,10 @@ Respublikiniame privatizavimo informaciniame biuletenyje skelbiami šios dalies 
 
 8. Jeigu pagal akcijų nominalios vertės kainą pasirašoma ne daugiau kaip 80 procentų akcijų, laikoma, kad akcijų pasirašymas neįvyko ir apie tai informuojama privatizavimo informaciniame biuletenyje. Šiuo atveju atitinkama privatizavimo komisija mažina valstybinio turto įmonėje įvertinimą ir ne vėliau kaip per 10 dienų skelbia naują akcijų pasirašymą arba priima sprendimą ne vėliau kaip per 7 dienas nuo akcijų pasirašymo pabaigos grąžinti asmenims jų pradinius įnašus.
 
-9. Pasirašant akcijas, turi būti tuoj pat įmokama į privatizavimo tarnybos nurodytą banko sąskaitą ne mažiau kaip 25 procentai nominalios akcijų vertės. Ne mažiau kaip 5 procentai šio sumos turi būti įmokėta pinigais. Jei atitinkama privatizavimo komisija patvirtino akcijų pasirašymą, tai jas įsigijusieji asmenys per 30 dienų privalo sumokėti visą akcijų emisijos kainą.Jei akcijos perkamos išsimokėtinai, tai jas įsigijusieji asmenys per 2 metus privalo sumokėti visą akcijų emisijos kainą.
+9. Pasirašant akcijas, turi būti tuoj pat įmokama į privatizavimo tarnybos nurodytą banko sąskaitą ne mažiau kaip 25 procentai nominalios akcijų vertės. Ne mažiau kaip 5 procentai nominalios akcijų vertės turi būti įmokėta pinigais. Jei atitinkama privatizavimo komisija patvirtino akcijų pasirašymą, tai jas įsigijusieji asmenys per 30 dienų privalo sumokėti visą akcijų emisijos kainą.Jei akcijos perkamos išsimokėtinai, tai jas įsigijusieji asmenys per 2 metus privalo sumokėti visą akcijų emisijos kainą.
+Straipsnio dalies pakeitimai:
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+ 
 
 10. Jeigu akcijos laiku neapmokamos, tai atitinkamos privatizavimo komisijos nutarimu pasirašytosios akcijos gali būti anuliuojamos, o įmokėtas pradinis įnašas perduodamas į atitinkamą privatizavimo fondą. Jei anuliavus akcijas pasirašytųjų akcijų lieka ne daugiau kaip 80 procentų, turi būti skelbiamas viešas anuliuotųjų akcijų pasirašymas. Nutarimus dėl akcijų pasirašymo anuliavimo galima per 10 dienų apskųsti Centrinei privatizavimo komisijai.
 
@@ -418,4 +460,9 @@ Dėl Lietuvos Respublikos Valstybinio turto pirminio privatizavimo įstatymo 12 
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-1635, 1991-07-30, Lietuvos aidas, 1991, Nr. 154-0 (1991-08-07); Žin., 1991, Nr. 23-604 (1991-08-20), i. k. 0911010ISTA00I-1635
 Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo 11 straipsnio pakeitimo
+ 
+4.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2117, 1991-12-18, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1992, Nr. 3-32 (1992-01-31), i. k. 0911010ISTA00I-2117
+Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo kai kurių straipsnių pakeitimo
 
