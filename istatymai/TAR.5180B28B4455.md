@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
-Lūžaitė (1997.04.16)
+Lūžaitė (1999.07.09)
  
 Neoficialus įstatymo
 tekstas
@@ -63,10 +63,19 @@ SRIČIŲ" 2 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos Respublikos
 Seimas, Įstatymas 
 Nr. VIII-174,
-97.04.03, Žin., 1997, Nr.32-784 (97.04.16)
+97.04.03, Žin., 1997, Nr.31-784 (97.04.16)
 LIETUVOS RESPUBLIKOS
 ĮSTATYMO “DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ” PAKEITIMO
 IR PAPILDYMO ĮSTATYMAS
+ 
+6.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr.
+VIII-1256, 99.06.22, Žin., 1999, Nr.60-1952 (99.07.09)
+LIETUVOS
+RESPUBLIKOS ĮSTATYMO „DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“
+4 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 ***Pabaiga***
  
@@ -105,12 +114,12 @@ fizinių asmenų, valstybės ir savivaldybės papildomų įnašų galima Akcini�
 bendrovių įstatymo nustatyta tvarka tik Vyriausybei priėmus nutarimą. Šioms
 specialios paskirties bendrovėms įstatinį kapitalą didinti papildomais įnašais
 leidžiama, kai visos perkainojimo rezervo lėšos yra panaudotos įstatiniam
-kapitalui didinti ir bendrovės įstatų pakeitimai dėl įstatinio kapitalo padidinimo
-įregistruoti Įmonių rejestro įstatymo nustatyta tvarka. Įstatinį kapitalą
-didinti perkainojimo rezervo lėšomis draudžiama esant nepadengtiems bendrovės
-finansinėje atskaitomybėje apskaitytiems bendrovės nuostoliams. Įstatinis
-kapitalas iš papildomų įnašų gali būti didinamas tik Valstybės ir savivaldybių
-turto privatizavimo įstatymo nustatyta tvarka.
+kapitalui didinti ir bendrovės įstatų pakeitimai dėl įstatinio kapitalo
+padidinimo įregistruoti Įmonių rejestro įstatymo nustatyta tvarka. Įstatinį
+kapitalą didinti perkainojimo rezervo lėšomis draudžiama esant nepadengtiems
+bendrovės finansinėje atskaitomybėje apskaitytiems bendrovės nuostoliams.
+Įstatinis kapitalas iš papildomų įnašų gali būti didinamas tik Valstybės ir
+savivaldybių turto privatizavimo įstatymo nustatyta tvarka.
      Uždrausti
 įmonėms, įrašytoms į šio įstatymo 2 priedėlį ir reorganizuotoms į specialios
 paskirties bendroves,     keisti specialios bendrovės statusą, reorganizuotis
@@ -148,15 +157,15 @@ Nr.
 I-1409, 96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
  
     
-4 straipsnis. Įmonė
-Lietuvos jūrų laivininkystė, kodas 4035584, gali būti privatizuojama tik po to,
-kai bus priimtas įstatymas dėl šio objekto veiklos valstybinio reguliavimo po
-privatizavimo.
+4 straipsnis.(Neteko
+galios)
  
 Įstatymas
 papildytas straipsniu:
 Nr.
-VIII-174, 97.04.03, Žin., 1997, Nr.32-784 (97.04.16)
+VIII-174, 97.04.03, Žin., 1997, Nr.31-784 (97.04.16)
+Nr.
+VIII-1256, 99.06.22, Žin., 1999, Nr.60-1952 (99.07.09)
  
     
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -167,8 +176,8 @@ RESPUBLIKOS
 PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
  
  
-                                       
-Lietuvos Respublikos
+                                
+       Lietuvos Respublikos
                                        
 1995 m. vasario 15 d.
                                        
@@ -179,8 +188,8 @@ Lietuvos Respublikos
  
                
 Veiklos sričių, kuriose gali būti
-               
-specialios paskirties bendrovių,
+   
+            specialios paskirties bendrovių,
                          
 s ą r a š a s
  
@@ -214,8 +223,8 @@ Maisto produktų ir gėrimų gamyba
 Žuvies ir žuvies produktų perdirbimas ir konservavimas
 151401   
 Augalinių ir gyvulinių aliejų bei taukų gamyba
-155101   
-Degtinės, likerio gamyba
+155101 
+  Degtinės, likerio gamyba
 155102   
 Žaliavų su alkoholiu, skirtų gaminti gėrimus, gamyba
 155103   
@@ -286,8 +295,8 @@ Dviračių ir invalidų vežimėlių gamyba
  
      
 Kitų gaminių, neįtrauktų į kitas kategorijas, gamyba
-369910
-   Vaizdinių mokymo priemonių gamyba
+369910   
+Vaizdinių mokymo priemonių gamyba
  
                 
 Elektros energijos, dujų, garo
@@ -317,8 +326,8 @@ Vandens paskirstymas gyventojams
 Statyba
 451003   
 Sprogdinimo, išlyginimo, žemių stumdymo ir užpylimo
-         
-darbai
+     
+    darbai
 451004   
 Melioravimo darbai
 452002   
@@ -344,8 +353,8 @@ Didmeninė prekyba chirurginiais ir ortopediniais
 instrumentais bei protezais
 514100   
 Didmeninė prekyba benzinu, dujų kuru, tepalais,
-         
-dizeliniu kuru, žibalu, kitais naftos produktais
+   
+      dizeliniu kuru, žibalu, kitais naftos produktais
 514901   
 Prekyba cheminėmis augalų apsaugos priemonėmis ir
          
@@ -439,8 +448,8 @@ Jūrų uostų aptarnavimas
  
                        
 Paštas ir ryšiai
-641100   
-Nacionalinio pašto veikla
+641100
+   Nacionalinio pašto veikla
 642000   
 Ryšiai
  
@@ -460,15 +469,15 @@ Sanitarinė-epidemiologinė veikla
  
                            
 Švietimas
-802202 
-  Profesinis mokymas
+802202   
+Profesinis mokymas
 809003   
 Kvalifikacijos kėlimas
  
            
 Sveikatos apsauga ir socialinės paslaugos
-851100   
-Gydymas ligonių, sergančių pavojingomis ir ypač
+851100  
+ Gydymas ligonių, sergančių pavojingomis ir ypač
          
 pavojingomis infekcinėmis, tarp jų ir venerinėmis bei
          
@@ -514,8 +523,8 @@ Kino ir videofilmų gamyba
 Kitų paslaugų rūšių teikimas
 930106   
 Įmonių ir įstaigų skalbinių skalbimas
-930301   
-Mirusiųjų kremavimas ir laidojimas
+930301  
+ Mirusiųjų kremavimas ir laidojimas
 930302   
 Karstų gamyba
 930303   
@@ -540,19 +549,19 @@ Lietuvos Respublikos
 1995 m. vasario 15 d.
                                        
 įstatymo Nr.I-794
-                                       
-2 priedėlis
+                                     
+  2 priedėlis
  
  
            
 Valstybinių įmonių, kurios iki 2000 metų
           
 turi būti specialios paskirties bendrovės,
-              
-           s ą r a š a s
+                         
+s ą r a š a s
 _________________________________________________________________
 Įmonės
-kodas                             Pavadinimas
+kodas                             Pavadinimas
 _________________________________________________________________
 2055155       
 Lietuvos valstybinė energetikos sistema
@@ -570,14 +579,14 @@ Valstybinė įmonė "Anykščių vynas"
 Valstybinė firma "Alita"
 6855597       
 Panevėžio valstybinė veislinių gyvulių supirkimo
-              
-firma
+        
+      firma
 7224603       
 Raseinių valstybinė gyvulių sėklinimo įmonė
 2054584       
 Vilniaus valstybinė vandens tiekimo įmonė
-3275136  
-     Kauno valstybinė vandens tiekimo įmonė
+3275136       
+Kauno valstybinė vandens tiekimo įmonė
 4008926       
 Klaipėdos valstybinė vandens tiekimo įmonė
 4413336       
