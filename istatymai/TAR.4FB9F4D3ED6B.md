@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B"
 Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo:
-Ramunė Lūžaitė (1997.07.28)
+Ramunė Lūžaitė (1997.10.24)
  
 Įstatymas
 paskelbtas: Žin., 1990, Nr. 14-395
@@ -27,40 +27,40 @@ Neoficialus
 Pakeitimai:
  
 1.
-Parlamentas,
-Įstatymas
+Lietuvos
+Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 Nr.
 I-448, 90.07.31, Žin., 1990, Nr. 23-573
 DĖL
 LIETUVOS RESPUBLIKOS ĮMONIŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
  
 2.
-Parlamentas,
-Įstatymas
+Lietuvos
+Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 Nr.
 I-678, 90.10.16, Žin., 1990, Nr. 31-749
 DĖL
 LIETUVOS RESPUBLIKOS ĮMONIŲ ĮSTATYMO 22 STRAIPSNIO PAPILDYMO
  
 3.
-Parlamentas,
-Įstatymas
+Lietuvos
+Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 Nr.
 I-1027, 91.01.31, Žin., 1991, Nr. 5-128
 DĖL
 LIETUVOS RESPUBLIKOS ĮMONIŲ ĮSTATYMO PAKEITIMO
  
 4.
-Parlamentas,
-Įstatymas
+Lietuvos
+Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 Nr.
 I-1224, 91.04.16, Žin., 1991, Nr. 13-330
 DĖL
 LIETUVOS RESPUBLIKOS ĮMONIŲ ĮSTATYMO 6 STRAIPSNIO PAPILDYMO
  
 5.
-Parlamentas,
-Įstatymas
+Lietuvos
+Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 Nr.
 I-1937, 91.10.29, Žin., 1991, Nr. 32-867
 DĖL
@@ -68,7 +68,7 @@ LIETUVOS RESPUBLIKOS ĮMONIŲ ĮSTATYMO PAPILDYMO
  
 6.
 Lietuvos
-Respublikos Seimas, Įstatymas 
+Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 Nr.
 I-2658, 92.06.23, Žin., 1992, Nr. 20-590
 DĖL
@@ -76,7 +76,7 @@ KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ ATSKIRŲ STRAIPSNIŲ PAKEITIMO
  
 7.
 Lietuvos
-Respublikos Seimas, Įstatymas 
+Respublikos Aukščiausioji Taryba-Atkuriamasis Seimas, Įstatymas
 Nr.
 I-3016, 92.10.29, Žin., 1992, Nr. 33-1009
 DĖL
@@ -301,6 +301,22 @@ Nr. VIII-376,
 LIETUVOS RESPUBLIKOS
 ĮMONIŲ ĮSTATYMO 23 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+35.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+LIETUVOS RESPUBLIKOS
+ĮMONIŲ ĮSTATYMO 4, 6, 11, 12, 13, 14, 15, 19, 20, 21, 22 STRAIPSNIŲ PAKEITIMO
+IR PAPILDYMO 11(1) STRAIPSNIU
+ 
+Pastaba: Įmonių įstatymo 13 straipsnio 1 dalies 6, 7, 12, 19, 21 ir 24
+punktai galioja, iki bus priimti ir įsigalios šiuose punktuose nurodytų veiklos
+rūšių kitus reguliavimo būdus nustatantys įstatymai: Švietimo įstatymo
+papildymo, Žemės įstatymo papildymo, Loterijų, piniginių-daiktinių žaidimų ir azartinių
+lošimų, Energetikos įstatymo pakeitimo, Klaipėdos valstybinio jūrų uosto
+įstatymo pakeitimo ir Turizmo įstatymai.
+ 
 ***
 Pabaiga ***
              
@@ -379,11 +395,16 @@ ir kiti įmonės steigimo dokumentai.
 ar  savivaldybės  kapitalui  įmonių valdymo organuose gali atstovauti valstybės
 ar savivaldybės valdininkai Lietuvos Respublikos Vyriausybės nustatyta tvarka.
  
+Valstybės ar savivaldybės kapitalui įmonių valdymo organuose atstovaujančios
+valstybės ar savivaldos institucijos turi teisę pareikšti ieškinius teisme dėl
+valstybės ar savivaldos institucijos interesų gynimo.
+ 
 Straipsnio
 pakeitimai:
 Nr.
 I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
- 
+Nr. VIII-422, 97.09.25,
+Žin., 1997, Nr.96-2419 (97.10.24)
  
      5
 straipsnis.Darbo santykiai įmonėje
@@ -408,25 +429,22 @@ pagrįstus  naryste  ūkinėje  bendrijoje, reguliuoja įmonės steigimo doku
      6
 straipsnis.Įmonių rūšys ir įmonių junginiai
  
-     Lietuvos
-Respublikoje gali veikti šios įmonės:
-     1)
-individualios (personalinės);
-     2)
-tikrosios ūkinės bendrijos;
-     3)
-komanditinės (pasitikėjimo) ūkinės bendrijos;
-     4)
-akcinės  bendrovės, uždarosios  akcinės bendrovės ir investicinės bendrovės;
-     5)
-valstybinės (vietos savivaldybės) įmonės;
-     6)
-žemės ūkio bendrovės (veikla reglamentuojama atskirame įstatyme);
-     7)
-kooperatinės  bendrovės (kooperatyvai).  Jų  veikla reglamentuojama atskirame
-įstatyme.
+     
+Lietuvos Respublikoje gali veikti šios įmonės:
+1) individualios (personalinės) įmonės;
+2) tikrosios ūkinės bendrijos;
+3) komanditinės (pasitikėjimo) ūkinės
+bendrijos;
+4) akcinės bendrovės, uždarosios akcinės
+bendrovės ir investicinės bendrovės;
+5) valstybės įmonės;
+6) savivaldybės įmonės;
+7) žemės ūkio bendrovės (veikla
+reglamentuojama atskirame įstatyme);
+8) kooperatinės bendrovės (kooperatyvai). Jų
+veikla reglamentuojama atskirame įstatyme.
      Įmonės,
-jei  tai neprieštarauja  Lietuvos  Respublikos konkurencijos  įstatymui,  gali 
+jei  tai neprieštarauja  Lietuvos  Respublikos konkurencijos  įstatymui,  gali 
 jungtis  į  koncernus, konsorciumus, asociacijas ir kitus junginius.
  
 Straipsnio
@@ -439,6 +457,8 @@ Nr.
 I-231, 93.07.15, Žin., 1993, Nr. 32-729 (93.07.28)
 Nr.
 I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
  
      7
 straipsnis.Individuali (personalinė) įmonė
@@ -486,14 +506,14 @@ Lietuvos Respublikos civilinis kodeksas, Lietuvos Respublikos ūkinių bendrijų
 straipsnis.Komanditinė (pasitikėjimo) ūkinė bendrija
  
      Komanditinę
-(pasitikėjimo) ūkinę bendriją sudaro bendros firmos  vardu  veikiantys 
-tikrieji  nariai  ir  nariai komanditoriai, kuriems įmonės  turtas priklauso 
-bendrosios dalinės nuosavybės teise. Komanditinė (pasitikėjimo)  ūkinė bendrija
-nėra juridinis asmuo, jos turtas neatskirtas nuo bendrijos  tikrųjų  narių 
-turto.   Pagal  komanditinės (pasitikėjimo) ūkinės bendrijos prievoles jos
-tikrieji nariai solidariai atsako visu savo turtu, o nariai komanditoriai - tik
-ta savo turto dalimi, kurią pagal sutartį yra perdavę bendrai komanditinės 
-(pasitikėjimo)  ūkinės  bendrijos  veiklai. Komanditinė (pasitikėjimo) ūkinė
+(pasitikėjimo) ūkinę bendriją sudaro bendros firmos  vardu  veikiantys  tikrieji 
+nariai  ir  nariai komanditoriai, kuriems įmonės  turtas priklauso  bendrosios
+dalinės nuosavybės teise. Komanditinė (pasitikėjimo)  ūkinė bendrija nėra
+juridinis asmuo, jos turtas neatskirtas nuo bendrijos  tikrųjų  narių  turto.  
+Pagal  komanditinės (pasitikėjimo) ūkinės bendrijos prievoles jos tikrieji
+nariai solidariai atsako visu savo turtu, o nariai komanditoriai - tik ta savo
+turto dalimi, kurią pagal sutartį yra perdavę bendrai komanditinės 
+(pasitikėjimo)  ūkinės  bendrijos  veiklai. Komanditinė (pasitikėjimo) ūkinė
 bendrija neatsako pagal savo narių prievoles, nesusijusias su bendrijos veikla.
      Komanditinės
 (pasitikėjimo) ūkinės bendrijos nariais gali būti  fiziniai  ar  juridiniai 
@@ -518,8 +538,8 @@ Akcinė bendrovė, uždaroji akcinė bendrovė ir investicinė bendrovė yra rib
 turtinės atsakomybės įmonės, turinčios juridinio asmens teises, kurių įstatinis
 (nuosavas) kapitalas yra padalytas į dalis - akcijas.  Akcininkai yra akcinės
 bendrovės, uždarosios akcinės bendrovės ar investicinės  bendrovės nariai,
-kuriais tampama įstatymų nustatyta tvarka įsigijus šių bendrovių akcijų.
-Akcininkais gali būti fiziniai asmenys, juridiniai asmenys ar valstybė (vietos
+kuriais tampama įstatymų nustatyta tvarka įsigijus šių bendrovių akcijų. Akcininkais
+gali būti fiziniai asmenys, juridiniai asmenys ar valstybė (vietos
 savivaldybė), kuriai atstovauja atitinkama valstybės institucija.  Akcinės 
 bendrovės,  uždarosios  akcinės  bendrovės  ir investicinės bendrovės steigimą,
 likvidavimą, reorganizavimą ir veiklą, akcininkų teises ir pareigas, santykius
@@ -536,53 +556,72 @@ I-529, 94.07.05, Žin., 1994, Nr. 55-1047 (94.07.20)
 Nr.
 I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21)
  
+11 straipsnis. Valstybės ir savivaldybės
+įmonės
  
-     11
-straipsnis.Valstybinė įmonė
+Valstybės įmonė yra juridinio asmens teises
+turinti įmonė, kurios visas turtas nuosavybės teise priklauso Lietuvos
+Respublikai.
+Savivaldybės įmonė yra juridinio asmens
+teises turinti įmonė, kurios visas turtas nuosavybės teise priklauso
+savivaldybei.
+Valstybės ir savivaldybės įmonės turtą valdo,
+naudoja ir juo disponuoja turto patikėjimo teisėmis.
+Valstybės ir savivaldybės įmonės pagal savo
+prievoles atsako tik tuo įmonės turtu, į kurį gali būti nukreipiamas
+išieškojimas. Įmonės neatsako už valstybės ar savivaldybės prievoles. 
+Valstybės ir savivaldybės įmonių steigimą,
+veiklą, reorganizavimą ir likvidavimą taip pat reglamentuoja Lietuvos
+Respublikos civilinis kodeksas, Lietuvos Respublikos valstybės ir savivaldybės
+įmonių įstatymas, kiti norminiai aktai bei įstatymų nustatyta tvarka
+patvirtinti ir įregistruoti įmonės įstatai.
  
-     Valstybinė
-įmonė valstybinės nuosavybės teise priklauso Lietuvos valstybei arba vietos
-savivaldybei, turi juridinio asmens teises, yra ribotos turtinės atsakomybės. 
-Valstybė (vietos savivaldybė) neatsako pagal įmonės prievoles, įmonė neatsako
-pagal valstybės (vietos savivaldybės) prievoles.
-     Valstybinių
-įmonių  steigimą, veiklą,  likvidavimą  ir reorganizavimą taip pat
-reglamentuoja ir Lietuvos Respublikos civilinis kodeksas, Lietuvos Respublikos
-valstybinių įmonių įstatymas bei  įstatymų nustatyta  tvarka patvirtinti  ir
-įregistruoti atskiros valstybinės įmonės įstatai.
+Straipsnio
+pakeitimai:
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
  
-             
+11(1) straipsnis. Valstybinės ir
+valstybinės akcinės įmonės
+ 
+Valstybinių įmonių ir valstybinių akcinių
+įmonių, kuriose pradėta vykdyti bankroto teisminė ar neteisminė procedūra,
+rūšis nekeičiama iki bankroto procedūrų pabaigos.
+Valstybinių įmonių ir valstybinių akcinių
+įmonių, kurios yra likviduojamos, rūšis nekeičiama.
+ 
+Įstatymas
+papildytas straipsniu:
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
+ 
+            
 
                              
 III skirsnis
           
            ĮMONIŲ ŪKINĖS VEIKLOS PAGRINDAI
  
-     12
-straipsnis.Įmonės veiklos sfera
+12 straipsnis. Įmonės veiklos sritis
  
-     Įmonė
-turi teisę užsiimti bet kokia komercine-ūkine ar kitokia veikla, nesuvaržyta
-šiuo ar kitais įstatymais, įmonės įstatais, jos steigimo sutartimi ar kitais
-įmonės steigimo dokumentais arba kitaip neuždrausta įstatymo nustatyta tvarka.
-     Lietuvos
-Respublikoje draudžiama steigti ir laikyti lošimo namus, organizuoti azartinius
-lošimus.
-     Šio 
-įstatymo  6 straipsnyje nurodytoms įmonėms ir jų junginiams draudžiama verstis
-kredito įstaigų veikla, taip pat draudžiama skolintis pinigų iš fizinių asmenų,
-išskyrus atvejus, kai šios įmonės ir jų junginiai kaupia skolintas lėšas
-Lietuvos Respublikos įstatymų nustatyta tvarka išleisdami ir platindami kredito
-vertybinius popierius - obligacijas. Šiuo būdu kaupti skolintas lėšas
-neleidžiama tais atvejais, kai atskirų įmonių rūšių įstatymai draudžia išleisti
-kredito vertybinius popierius - obligacijas.
-     Komercinės-ūkinės 
-veiklos  sritis,  kuriose  draudžiama užsienio kilmės kapitalo investicija,
-nustato Užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas.
-     Laisvųjų 
-ekonominių zonų įmonių veiklos sritis, kuriose draudžiamos kapitalo
-investicijos, nustato Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų
-įstatymas.
+Įmonė turi teisę užsiimti bet kokia
+komercine-ūkine ar kitokia veikla, nesuvaržyta šio ar kitų įstatymų, įmonės
+steigimo dokumentų arba kitaip neuždrausta įstatymų nustatyta tvarka.
+Komercinės-ūkinės veiklos, kuria verstis reikalinga licencija, sritis,
+licencijas išduodančias institucijas bei licencijų išdavimo tvarką nustato šis
+ir kiti įstatymai.
+Lietuvos Respublikoje draudžiama steigti ir
+laikyti lošimo namus, organizuoti azartinius lošimus.
+Įmonių įstatymo 6 straipsnyje nurodytoms
+įmonėms ir jų junginiams draudžiama verstis kredito įstaigų veikla, taip pat
+draudžiama skolintis pinigų iš fizinių asmenų, išskyrus Lietuvos Respublikos
+įstatymų nustatytus atvejus ir būdus.
+Komercinės-ūkinės veiklos sritis, kuriose
+draudžiama užsienio kilmės kapitalo investicija, nustato Užsienio kapitalo
+investicijų Lietuvos Respublikoje įstatymas.
+Laisvųjų ekonominių zonų įmonių veiklos
+sritis, kuriose draudžiamos kapitalo investicijos, nustato Lietuvos Respublikos
+laisvųjų ekonominių zonų pagrindų įstatymas.
  
 Straipsnio
 pakeitimai:
@@ -602,239 +641,120 @@ Nr.
 I-1252, 96.03.28, Žin., 1996, Nr. 35-859 (96.04.19) 
 Nr.
 I-1552, 96.09.25, Žin., 1996, Nr. 100-2267 (96.10.16) 
- 
+Nr. VIII-422, 97.09.25,
+Žin., 1997, Nr.96-2419 (97.10.24)
  
      13
 straipsnis. Licencijų išdavimas
  
-     Be 
-Lietuvos Respublikos Vyriausybės  nustatyta  tvarka išduotos licencijos
-(leidimo) draudžiama:
-     1)
-atlikti žemės gelmių ( geologinius) tyrimus;
-     2)
-naudoti žemės gelmių išteklius ir ertmes;
-     3)
-taisyti sportinius ir  medžioklinius graižtvinius ir lygiavamzdžius  šautuvus, 
-pneumatinius šautuvus,  pistoletus ( revolverius ), kovinius ginklus bei
-pistoletus (revolverius) savigynai, arbaletus;
-     4)
-užsiimti farmacine veikla;
-     5)
-auginti ir realizuoti kultūras, kuriose yra narkotinių, psichotropinių,
-stipriai veikiančių ir nuodingųjų medžiagų;
-     6)
-gaminti alkoholio produktus;
-     7)
-užsiimti ir atlikti asmens sveikatos priežiūrą, visuomenės sveikatos 
-priežiūrą,  teikti  tradicinės  medicinos, liaudies medicinos ir ne medicinos
-sveikatos atgavimo paslaugas;
-     8)
-užsiimti veterinarine praktika;
-     9)
-užsiimti teisininko  praktika, jei ko  kita  nenustato įstatymai;
-     10)
-steigti mokymo įstaigas, įmones ir įstaigas, užsiimančias sveikatinimo veikla;
-     11) 
-atlikti  geodezinius  topografinius  darbus,  užsiimti topografinių, teminių
-planų, žemėlapių, taip pat ir kartografinių schemų leidyba bei spausdinimu;
-     12)
-užsiimti transporto tarptautine ūkine veikla, jei ko kita nenustato įstatymai;
-     13)
-gaminti, importuoti į Lietuvos Respubliką tabaką ir jo gaminius;
-     14)
-užsiimti veikla, susijusia su vario ir kitų spalvotųjų metalų, jų lydinių,
-laužo bei atliekų supirkimu Lietuvos Respublikoje ir perlydimu;
-     15)
-importuoti į Lietuvos Respubliką alkoholio produktus, užsiimti jų didmenine ir
-mažmenine prekyba;
-     16)
-teikti turizmo paslaugas;
-     17)
-rengti pinigines ir pinigines - daiktines loterijas, skirtas labdaros ir
-paramos tikslams;
-     18)
-užsiimti veikla, susijusia su juodųjų metalų laužo ir jų atliekų supirkimu
-Lietuvos Respublikoje;
-     19)
-užsiimti veikla, susijusia su tauriųjų metalų atliekų ir laužo supirkimu bei
-perdirbimu;
-     20)
-teikti komutacines telefono, telegrafo, telekso ryšių bei duomenų perdavimo
-paslaugas naudojantis bendro telekomunikacijų tinklo linijomis ir stotimis;
-     21) 
-statyti  ir  eksploatuoti  elektromagnetines  bangas spinduliuojančius
-įrenginius;
-     22)
-tirti, konservuoti ir restauruoti nekilnojamąsias kultūros vertybes, taip pat
-rengti šių darbų sąlygas, programas, projektus bei konservuoti ir restauruoti
-kultūros kilnojamąsias vertybes;
-     23)
-projektuoti ir tiesti valstybės kelius;
-     24)
-gaminti, importuoti į Lietuvos Respubliką, eksportuoti iš Lietuvos Respublikos
-narkotines, psichotropines, ne vaistinės paskirties stipriai veikiančias ir
-nuodingąsias medžiagas, užsiimti jų didmenine ir mažmenine prekyba Lietuvos
+Be Lietuvos Respublikos Vyriausybės nustatyta
+tvarka išduotos licencijos (leidimo) draudžiama:
+1) gaminti ginklus bei jų dalis, šaudmenis,
+sprogstamąsias medžiagas, sprogmenis, pirotechnikos priemones, taisyti ginklus,
+jeigu kiti įstatymai nenustato ko kita;
+2) užsiimti farmacine veikla;
+3) auginti ir realizuoti kultūras, kuriose
+yra narkotinių, psichotropinių, stipriai veikiančių ir nuodingųjų medžiagų,
+taip pat gaminti, importuoti, eksportuoti narkotines, psichotropines medžiagas,
+prekursorius ir užsiimti jų didmenine bei mažmenine prekyba Lietuvos
 Respublikoje;
-     25)
-importuoti į Lietuvos Respubliką specialios paskirties maisto produktus ir
-maisto priedus, užsiimti jų didmenine prekyba Lietuvos Respublikoje;
-     26)
-gaminti antspaudus, spaudus, medžioklinius peilius;
-     27)
-steigti tirus (šaudyklas), medžioklinius šaudymo stendus;
-     28)
-užsiimti transporto priemonių komisine prekyba, apsauginės gaisrinės
-signalizacijos projektavimu, gamyba, diegimu, montavimu ir eksploatavimo
-paslaugomis;
-     29)
-užsiimti cheminių medžiagų, galinčių žalingai veikti aplinką, gamyba, įvežimu,
-pervežimu, prekyba, naudojimu, saugojimu ir laidojimu;
-     30)
-užsiimti ūkine - komercine veikla, susijusia su tauriaisiais metalais ir
-brangakmeniais;
-     31)
-užsiimti tarpininkavimo veikla viešojoje vertybinių popierių apyvartoje;
-     32)
-užsiimti vertybinių popierių biržų veikla;
-     33)
-užsiimti investavimu ir reinvestavimu į vertybinius popierius bei prekyba jais,
-kaip pagrindine veikla, bei investicinių bendrovių turto valdymu, jei ko kita
-nenustato įstatymai;
-     34)
-užsiimti naftos produktų  importu, eksportu, didmenine ir mažmenine prekyba,
-taip pat mažmenine prekyba suskystintomis dujomis;
-     35)
-užsiimti energetine veikla;
-     36)
-pardavinėti šaunamuosius ginklus ir šaudmenis, medžioklinius, sportinius
-šaunamuosius ginklus, arbaletus, pneumatinius šautuvus ( pistoletus ), dujinius
-pistoletus ( revolverius ) bei balionėlius, sprogstamąsias medžiagas,
-pirotechnikos priemones;
-     37)
-inventorizuoti miškus ir rengti miškotvarkos projektus;
-     38)
-eksportuoti žaliavinę medieną;
-     39)
-teikti agentavimo ir krovinių ekspedijavimo paslaugas vandens, oro ir
-geležinkelio transporte;
-     40)
-užsiimti laivų vilkimu (buksyravimu);
-     41)
-užsiimti gelbėjimo ir povandeniniais techniniais darbais;
-     42)
-teikti locmanų paslaugas;
-     43)
-gaminti ginklus, jų dalis, sprogmenis bei pirotechnikos priemones;
-     44)
-atlikti auditą;
-     45)
-užsiimti įdarbinimo tarpininkavimo paslaugomis;
-     46)
-įvežti ir gaminti biologines augalų apsaugos priemones ir prekiauti jomis;
-     47)
-užsiimti nekilnojamojo turto pirkimu ir pardavimu, jo plėtimu ir pardavimu bei
-tarpininkavimo veikla perkant, parduodant, vertinant ir nuomojant jį;
-     48)
-prekiauti antikvariniais daiktais;
-     49)
-užsiimti draudimo veikla.
-     Tik
-valstybės  įmonės ir specialios paskirties bendrovės (akcinės bei uždarosios
-akcinės), kurių visos akcijos priklauso valstybei, ir tik turėdamos Lietuvos
-Respublikos Vyriausybės nustatyta tvarka išduotas licencijas turi teisę
-užsiimti šia veikla:
- 
-1) gaminti ir pardavinėti ginklus, sprogmenis, šaudmenis;
- 
-2) gaminti  vertybinius popierius, piniginius ženklus ir monetas, pašto
-ženklus;
- 
-3) užsiimti radioktyviųjų, branduolinių medžiagų ar jų atliekų pervežimu,
-naudojimu ar kita susijusia su tomis medžiagomis veikla.
- 
-Be Lietuvos banko išduotos licencijos draudžiama užsiimti kredito įstaigos ir
-banko veikla.
- 
-Tik valstybės  įmonės, savivaldybės įmonės ir specialios paskirties bendrovės
-(akcinės bei uždarosios akcinės) ir tik turėdamos Lietuvos  Respublikos
-Vyriausybės nustatyta tvarka išduotas licencijas turi teisę užsiimti šia
-veikla:
- 
-1) gaminti nedenatūruotą etilo alkoholį bei alkoholinius gėrimus, kuriuose
-tūrinė etilo alkoholio koncentracija viršija 22 procentus. Šią teisę turi tik
-valstybės įmonės, jeigu Alkoholio kontrolės įstatymas nenustato kitaip;
- 
-2) gydyti ligonius, sergančius užkrečiamomis ligomis, kurios yra nurodytos
-Sveikatos apsaugos ministerijos nustatytame sąraše;
- 
-3) gydyti gyvulius, sergančius ypač pavojingomis ligomis;
- 
-4) surinkti ir pristatyti laiškus, atvirukus ir spaudinius (spausdintą
-produkciją vokuose) (tik valstybinė įmonė "Lietuvos paštas");
- 
-5) priimti ir išmokėti pinigines pašto perlaidas, teikti pašto kasos (žiro
-pašto) paslaugas (tik valstybinė įmonė "Lietuvos paštas");
- 
-6) gaminti, importuoti į Lietuvos Respubliką, realizuoti ne vaistinės
-paskirties stipriai veikiančias medžiagas.
- 
-Be Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos
-(leidimo) akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kuriose
-valstybei priklauso mažiau kaip 50 procentų akcijų teikiamų balsų, taip pat
-kitų rūšių įmonėms, kuriose valstybei priklauso mažiau kaip 50 procentų nuosavo
-(pagrindinio) kapitalo, draudžiama:
- 
-1) eksploatuoti geležinkelius, jūros uostus, aerouostus ir valstybinius
-automobilių kelius pagal jų funkcinę paskirtį;
- 
-2)  eksploatuoti   valstybinės  reikšmės  dujotiekius, naftotiekius, ryšių
-linijas, elektros perdavimo linijas, šilumos tinklus ir užtikrinti šių objektų
-techninį funkcionavimą.
- 
-Kiekvienai įstatymo nustatytai licencijuojamai komercinės- ūkinės veiklos
-sričiai Lietuvos Respublikos Vyriausybė tvirtina licencijavimo taisykles, jeigu
-ko kita nenustato kiti įstatymai.  Licencijavimo taisyklėse nurodoma:
- 
+4) gaminti alkoholio produktus, kuriuose
+tūrinė etilo alkoholio koncentracija yra ne daugiau kaip 22 procentai;
+5) teikti sveikatos priežiūros paslaugas,
+jeigu kiti įstatymai nenustato ko kita;
+6) užsiimti mokymo veikla, jeigu baigus
+mokymą išduodami valstybės pripažinti išsilavinimo pažymėjimai;
+7) atlikti valstybinės žemėtvarkos,
+geodezinius topografinius darbus;
+8) verstis keleivių vežimu Lietuvos
+Respublikoje, taip pat keleivių ir krovinių vežimu tarptautiniais maršrutais,
+jeigu kiti įstatymai nenustato ko kita; 
+9) gaminti, importuoti į Lietuvos Respubliką
+tabaką ir jo gaminius, taip pat užsiimti jų didmenine prekyba; 
+10) supirkti Lietuvos Respublikoje spalvotųjų
+metalų ir jų lydinių laužą bei atliekas realizavimui; 
+11) importuoti alkoholio produktus, užsiimti
+didmenine prekyba alkoholio produktais, užsiimti mažmenine prekyba
+alkoholiniais gėrimais;
+12) rengti pinigines ir pinigines-daiktines
+loterijas;
+13) supirkti Lietuvos Respublikoje juodųjų
+metalų laužą ir jų atliekas realizavimui; 
+14) steigti ir eksploatuoti bendruosius
+telekomunikacijų tinklus, teikti telekomunikacijų veiklos paslaugas;
+15) gaminti antspaudus, spaudus;
+16) steigti bei eksploatuoti šaudymo tirus,
+šaudyklas, medžioklinius šaudymo stendus;
+17) užsiimti Aplinkos apsaugos ministerijos
+patvirtintame sąraše nurodytų pavojingų cheminių, branduolinių ir
+radioaktyviųjų medžiagų gamyba, didmenine prekyba, pervežimu, sandėliavimu bei
+pavojingų atliekų surinkimu, nukenksminimu, saugojimu ir laidojimu; 
+18) užsiimti nefasuotų naftos produktų pagal
+Lietuvos Respublikos Vyriausybės nustatytą sąrašą importu, eksportu, didmenine
+ir mažmenine prekyba;
+19) užsiimti energetikos įrenginių (elektros,
+šilumos, degiųjų gamtinių ir skystųjų angliavandenilinių dujų) aptarnavimu;
+20) importuoti, pardavinėti pirotechnikos
+priemones (pagal Vidaus reikalų ministerijos nustatytą sąrašą), civilinius
+ginklus ir jų šaudmenis (išskyrus pistoletus ir revolverius savigynai bei jų
+šaudmenis);
+21) teikti laivų agentavimo paslaugas;
+22) atlikti auditą;
+23) užsiimti draudimo veikla;
+24) teikti turizmo paslaugas;
+25) spausdinti vertybinius popierius ir
+dokumentų blankus.
+Tik valstybės įmonės, savivaldybės įmonės ir
+specialios paskirties bendrovės (akcinės bei uždarosios akcinės) ir tik
+turėdamos Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotas licencijas
+turi teisę užsiimti šia veikla:
+1) gaminti alkoholio produktus, kuriuose tūrinė
+etilo alkoholio koncentracija viršija 22 procentus. Šią teisę turi tik
+valstybės įmonės, jeigu Alkoholio kontrolės įstatymas nenustato ko kita; 
+2) spausdinti piniginius ženklus, pašto
+ženklus ir gaminti monetas.
+Kiekvienai įstatymo nustatytai licencijuojamai
+komercinės-ūkinės veiklos sričiai Lietuvos Respublikos Vyriausybė tvirtina
+licencijavimo taisykles, jeigu kiti įstatymai nenustato ko kita. 
+Licencijavimo taisyklėse nurodoma:
 1) licencijuojama veikla;
- 
-2) licenciją išduodanti institucija ir jos įgaliojimai;
- 
-3) dokumentai, reikalingi licencijai gauti, bei jiems keliami reikalavimai;
- 
+2) licenciją išduodanti institucija ir jos
+įgaliojimai;
+3) dokumentai, reikalingi licencijai gauti,
+bei jiems keliami reikalavimai;
 4) dokumentų nagrinėjimo tvarka ir terminai;
-  5)
-licencijų rūšys ir jų išdavimo sąlygos, pakartotinis licencijos išdavimas;
- 
-6) licencijos galiojimo trukmė;
- 
-7) licencijos formos rekvizitai; 
- 
-8) išduodamų licencijų registravimo tvarka;
- 
-9) atsisakymo išduoti licencijas atvejai;
- 
-10) licencijuojamos veiklos sąlygos su licencijos turėtojų teisėmis ir
-pareigomis;
- 
-11) licencijos sąlygų laikymosi priežiūros atlikimo tvarka;
- 
-12) licencijos galiojimo sustabdymo ir panaikinimo atvejai ir tvarka. 
-Licencijavimo taisyklėse  gali  būti  nurodyti  ir  kiti reikalavimai bei
-sąlygos. Licencijų išdavimo bei licencijuojamos veiklos sąlygos neturi
-priklausyti nuo licenciją įgyjančios įmonės rūšies.  Lietuvos Respublikos
-Vyriausybės pavedimu licencijas išduoda, licencijuojamos veiklos sąlygų
-laikymosi priežiūrą atlieka, taip pat licencijų galiojimą sustabdo ir panaikina
-ministerijos (prie ministerijų esantys departamentai, inspekcijos, tarnybos) ar
-Vyriausybės įstaigos.  Licencija užsiimti komercine-ūkine veikla arba
-motyvuotas raštiškas atsisakymas išduoti licenciją turi būti pateiktas
+5) licencijų rūšys ir jų išdavimo sąlygos,
+pakartotinis licencijos išdavimas;
+6) licencijos formos rekvizitai;
+7) išduodamų licencijų registravimo ir
+perregistravimo tvarka;
+8) atsisakymo išduoti licencijas atvejai;
+9) licencijuojamos veiklos sąlygos, įskaitant
+licencijos turėtojų teises ir pareigas;
+10) licencijos sąlygų laikymosi priežiūros
+tvarka;
+11) licencijos galiojimo sustabdymo bei
+panaikinimo atvejai ir tvarka.
+Licencijavimo taisyklėse gali būti nurodyti
+ir kiti reikalavimai bei sąlygos. Licencijų išdavimo bei licencijuojamos
+veiklos sąlygos neturi priklausyti nuo licenciją įgyjančios įmonės rūšies.
+Licencija išduodama neterminuotam laikotarpiui, numatant jos perregistravimą
+Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+Lietuvos Respublikos Vyriausybės pavedimu
+licencijas išduoda, licencijuojamos veiklos sąlygų laikymosi priežiūrą atlieka,
+taip pat licencijų galiojimą sustabdo ir panaikina ministerijos (prie
+ministerijų esantys departamentai, inspekcijos, tarnybos) ar Vyriausybės
+įstaigos, jeigu kiti įstatymai nenustato ko kita.
+Licencija užsiimti komercine-ūkine veikla
+arba motyvuotas raštiškas atsisakymas išduoti licenciją turi būti pateiktas
 pareiškėjui per 30 dienų nuo dokumentų, reikalingų licencijai išduoti, gavimo
-dienos. Lietuvos Respublikos Vyriausybė turi teisę pratęsti  licencijos
-išdavimo  terminą šio straipsnio pirmosios dalies  20 ir  21 punktuose  nurodytai 
-veiklai. Atsisakymas išduoti įmonei licenciją negali būti grindžiamas
-komercinės-ūkinės veiklos netikslingumu.  Apie licencijos  išdavimą, jos 
-galiojimo sustabdymą  ir panaikinimą "Valstybės  žiniose" skelbia 
-licenciją išdavusi institucija.
+dienos, jeigu kiti įstatymai nenustato ko kita. Lietuvos Respublikos Vyriausybė
+turi teisę pratęsti licencijos šio straipsnio pirmosios dalies 14 ir 17
+punktuose nurodytai veiklai išdavimo terminą. Atsisakymas išduoti įmonei
+licenciją negali būti grindžiamas komercinės-ūkinės veiklos netikslingumu.
+Apie licencijos išdavimą, jos galiojimo
+sustabdymą ir panaikinimą “Valstybės žiniose” skelbia licenciją išdavusi
+institucija.
  
 Straipsnio
 pakeitimai:
@@ -880,6 +800,8 @@ Nr.
 I-1181, 96.01.23, Žin., 1996, Nr. 11-284 (96.02.07) 
 Nr.
 I-1462, 96.07.10, Žin., 1996, Nr. 68-1641 (96.07.19)
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
  
      14
 straipsnis.Įmonių santykiai su valstybės organais
@@ -906,8 +828,14 @@ Respublikos Vyriausybės arba vietos savivaldybės organo nurodymus.
      Įmonė
 gali gauti valstybės centralizuota tvarka skiriamų (parduodamų) finansinių,
 medžiaginių ir kitokių vertybių už valstybės  patvirtintą  arba  sutartinę
-kainą ir už įmonės prisiimamus atitinkamus sutartinius įsipareigojimus valstybės
-(vietos savivaldybės) organui.
+kainą ir už įmonės prisiimamus atitinkamus sutartinius įsipareigojimus
+valstybės (vietos savivaldybės) organui.
+Įmonė privalo turėti valstybės institucijų
+išduotus leidimus, licencijas ir kitus dokumentus, jeigu pagal šį ir kitus
+įstatymus tokie leidimai, licencijos ir dokumentai yra reikalingi (licencija
+(leidimas) užsiimti tam tikra komercine-ūkine veikla, gamtos išteklių naudojimo
+leidimas, leidimas-higienos pasas, leidimas eksploatuoti įmonę, nekilnojamojo
+turto nuosavybės dokumentai ir pan.).
  
 Straipsnio
 pakeitimai: 
@@ -915,7 +843,8 @@ Nr.
 I-1146, 95.12.20, Žin., 1995, Nr. 107-2395 (95.12.30) 
 Nr.
 I-1600, 96.10.22, Žin., 1996, Nr.106-2430 (96.11.06)
- 
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
  
      15
 straipsnis.Įmonių veiklos kontrolė
@@ -929,16 +858,19 @@ paslaptyje dokumentus apie savo komercinę veiklą.
 veiklos tikrinimas  ir revizija leidžiama  tik Lietuvos Respublikos įstatymų
 numatytais atvejais.
      Valstybės
-organas, išdavęs leidimą (licenciją) veiklai, kuriai pagal šio įstatymo  13
-straipsnį reikalingas  toks leidimas (licencija), turi teisę gauti iš leidimą
-(licenciją) gavusios įmonės informaciją, reikalingą leidime (licencijoje)
-nurodytai veiklai kontroliuoti.
+institucija, išdavusi įmonei licenciją (leidimą), suteikiančią teisę užsiimti
+tam tikra komercine-ūkine veikla, ar kitokį įstatymų numatytą leidimą, turi
+teisę gauti iš tos įmonės informaciją, reikalingą jos veiklos priežiūrai ir
+kontrolei vykdyti. Įmonė negali trukdyti priežiūrą ir kontrolę vykdančioms
+valstybės institucijoms (jų įgaliotiems pareigūnams) atlikti jų kompetencijai
+priskirtas priežiūros ir kontrolės funkcijas.
  
 Straipsnio
 pakeitimai: 
 Nr.
 I-888, 95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
- 
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
  
      16
 straipsnis.Atsakomybė už įmonių įstatymų pažeidimus
@@ -951,8 +883,8 @@ tvarka gali būti traukiami teisinėn atsakomybėn.
  
                               
 IV skirsnis
-                 
-ĮMONIŲ STEIGIMAS IR JŲ VEIKLOS NUTRAUKIMAS
+          
+       ĮMONIŲ STEIGIMAS IR JŲ VEIKLOS NUTRAUKIMAS
  
    
 17 straipsnis. Įmonės steigėjas
@@ -975,29 +907,16 @@ straipsnis.Įmonės steigimo tvarka
 steigimo tvarką nustato šis ir kiti norminiai aktai, reglamentuojantys atskirų
 rūšių įmonių steigimą.
  
-     19
-straipsnis.Įmonės steigimo dokumentai
+19 straipsnis. Įmonės steigimo ir
+registravimo dokumentai
  
-     Įmonės
-steigimo dokumentai yra įmonės įstatai, leidimas (licencija) užsiimti  tam
-tikros  rūšies ūkine  veikla  ir kvalifikacijos atestatas, žemės sklypo
-suteikimo aktas, jei pagal šį ar  kitus įstatymus  tokie  dokumentai 
-reikalingi,  ir savivaldybės leidimas užsiimti ūkine veikla, jei jos
-teritorijoje numatoma steigti įmonę Lietuvos Valstybės biudžeto lėšomis.
-Atskirų rūšių įmonių steigimo dokumentai taip pat yra ir įmonės steigimo,
-bendrosios  jungtinės veiklos ar nuomos sutartis. Įmonės, užsiimančios gamybine
-veikla, taip pat privalo turėti Lietuvos Respublikos  aplinkos apsaugos
-departamento išduotą ekologinį pasą-leidimą. Atskirais įstatymais gali būti
-nustatomi ir kiti įmonės steigimo dokumentai. Įmonės, užsiimančios Lietuvos
-Respublikos Vyriausybės  nustatytų rūšių  komercine-ūkine ar kitokia veikla,
-taip pat privalo turėti Valstybinės higienos inspekcijos išduotą leidimą -
-higienos pasą. Šio leidimo išdavimo tvarką ir sąlygas nustato Sveikatos
-apsaugos ministerija. Jeigu įmonės, užsiimančios komercine-ūkine veikla, kuriai
-reikalingas toks leidimas,  neturi leidimo,  jos atsako pagal Lietuvos
-Respublikos įstatymus.
-     Įmonės
-steigimo dokumentų turinį ir formą nustato norminiai aktai, reglamentuojantys
-atskirų rūšių įmonių steigimą.
+Įmonės steigimo dokumentai, atsižvelgiant į
+steigiamos įmonės rūšį, yra įmonės steigimo aktas (steigimo sutartis,
+bendrosios jungtinės veiklos sutartis), įmonės įstatai, kiti įstatymų nustatyti
+steigimo dokumentai. Įmonės steigimo dokumentų turinį ir formą nustato
+norminiai aktai, reglamentuojantys atskirų rūšių įmonių steigimą.
+Įmonės registravimo dokumentai yra įstatymų
+nustatyti dokumentai, reikalingi įmonei įregistruoti.
  
 Straipsnio
 pakeitimai: 
@@ -1013,17 +932,16 @@ Nr.
 I-1156, 95.12.21, Žin., 1996, Nr. 8-195 (96.01.26) 
 Nr.
 I-1552, 96.09.25, Žin., 1996, Nr. 100-2267 (96.10.16) 
- 
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
  
      20
 straipsnis.Vietos savivaldybės leidimas užsiimti ūkine veikla
  
-     Vietos 
-savivaldybės  leidimas  užsiimti  ūkine veikla reikalingas tik tada, kai įmonė
-steigiama iš Lietuvos Valstybės biudžeto lėšų ir registruojama Lietuvos
-Respublikos ekonomikos ministerijoje. Kitais atvejais  vietos savivaldybės 
-organo įmonės (įmonės steigimo sutarties ar jos įstatų) įregistravimas
-prilygsta leidimui užsiimti ūkine veikla.
+     Vietos
+savivaldos institucijos leidimas užsiimti ūkine veikla reikalingas tada, kai
+įmonė registruojama Lietuvos Respublikos ūkio ministerijoje. Kitais atvejais
+įmonės įregistravimas prilygsta leidimui užsiimti ūkine veikla.
      Leidimą
 užsiimti ūkine veikla išduoda vietos savivaldybės organas, gavęs visus įmonės
 steigimo dokumentus.
@@ -1046,59 +964,44 @@ raštu pranešti įmonės steigėjui.
      Savivaldybės
 organas privalo atšaukti leidimą užsiimti ūkine veikla, jeigu vėliau paaiškėja
 šio straipsnio 4 dalyje nustatytos aplinkybės.  Apie leidimo atšaukimą
-savivaldybės organas raštu praneša įmonininkui, įmonės administracijai ir valstybės 
-organams,  kontroliuojantiems  įmonių  ūkinę  ir komercinę bei sveikatinimo
-veiklą.
+savivaldybės organas raštu praneša įmonininkui, įmonės administracijai ir
+valstybės  organams,  kontroliuojantiems  įmonių  ūkinę  ir komercinę bei
+sveikatinimo veiklą.
      Jeigu
 įmoninkas, gavęs leidimą užsiimti ūkine veikla, per 1 metus įmonės
 neįregistruoja, leidimas nustoja galios.
      Savivaldybės 
 organo  atsisakymą  duoti  leidimą  arba sprendimą atšaukti  leidimą užsiimti 
-ūkine veikla  įmonės steigėjas ne vėliau kaip per 30 dienų po savivaldybės
-organo sprendimo įteikimo dienos gali užginčyti teismine tvarka.
+ūkine veikla  įmonės steigėjas ne vėliau kaip per 30 dienų po savivaldybės organo
+sprendimo įteikimo dienos gali užginčyti teismine tvarka.
  
 Straipsnio
 pakeitimai: 
 Nr.
 I-888, 95.05.11, Žin., 1995, Nr. 44-1074 (95.05.26)
- 
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
  
      21
 straipsnis.Įmonės registravimas ir perregistravimas
  
-     Įmonė
-laikoma įsteigta nuo jos įregistravimo Lietuvos Respublikos įmonių rejestre
-dienos. Įmonę steigiantys asmenys steigimo laikotarpiu - nuo įmonės steigimo
-sutarties (akto) sudarymo iki įmonės įregistravimo - neturi teisės įmonės vardu
-užsiimti komercine-ūkine veikla. Tokių asmenų pajamas, gautas iš
-komercinės-ūkinės veiklos, valstybinės mokesčių inspekcijos per teismą išieško
-į biudžetą.
-     Įmonių
-registravimą reglamentuoja Lietuvos  Respublikos rejestro įstatymas.
-     Įmonės
-registravimui pateikiami šie dokumentai:
-     1)
-steigėjo ar steigėjų pareiškimas įregistruoti įmonę, nurodant jame duomenis,
-reikalingus įtraukti į rejestrą;
-     2)
-tinkamai įforminti įmonės steigimo dokumentai;
-     3)
-pažyma apie valstybės mokesčių sumokėjimą.
-     Sprendimas
-įregistruoti arba atsisakyti įregistruoti įmonę turi būti priimtas ne vėliau
-kaip per 15 dienų nuo visų dokumentų, nurodytų šio straipsnio 4 dalyje,
-įteikimo. Apie įmonės įregistravimą rejestro tvarkytojas skelbia vietos ir
-Respublikos spaudoje.
-     Tais
-atvejais, kai įmonės (įmonės steigimo sutarties ar jos įstatų) registravimas 
-prilygsta leidimui ją  steigti, taikomas šio įstatymo 20 straipsnis.
-     Jeigu 
-įmonės steigimo dokumentai keičiami ar papildomi, įmonė perregistruojama pagal
-šio straipsnio reikalavimus. Įmonė taip pat turi būti perregistruojama, jei ji
-įstatymų nustatyta tvarka parduodama, išnuomojama ar kitaip perleidžiama
-kitiems fiziniams, juridiniams asmenims ar valstybei, taip pat jei įmonės
-pagrindu laisvojoje ekonominėje zonoje steigiama zonos įmonė ar, likvidavus
-zoną, jos įmonė tęsia veiklą.
+Įmonė laikoma įsteigta nuo jos įregistravimo
+Lietuvos Respublikos įmonių rejestre dienos. Įmonės neįregistravus Lietuvos
+Respublikos įstatymų nustatyta tvarka, komercine-ūkine veikla įmonės vardu
+užsiimti draudžiama. Asmenų pajamas, gautas iš komercinės-ūkinės veiklos
+neteisėtai naudojantis įmonės vardu, valstybinės mokesčių inspekcijos išieško į
+biudžetą per teismą.
+Įmonių registravimą reglamentuoja Lietuvos
+Respublikos įmonių rejestro įstatymas.
+Įmonei įregistruoti įmonių rejestro
+tvarkytojui pateikiamas steigėjo ar steigėjų prašymas įregistruoti įmonę,
+nurodant jame duomenis, reikalingus įtraukti į rejestrą, ir įstatymo nustatyti
+kiti įmonės registravimo dokumentai. 
+Sprendimas įregistruoti arba atsisakyti
+įregistruoti įmonę turi būti priimtas ne vėliau kaip per 15 dienų nuo visų
+dokumentų, nurodytų šio straipsnio trečiojoje dalyje, įteikimo. Apie įmonės
+įregistravimą ar išregistravimą skelbiama Lietuvos Respublikos įmonių rejestro
+įstatymo nustatyta tvarka.
  
 Straipsnio
 pakeitimai: 
@@ -1108,7 +1011,8 @@ Nr.
 I-1015, 95.07.05, Žin., 1995, Nr. 60-1503 (95.07.21) 
 Nr.
 I-1252, 96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
- 
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
  
      22
 straipsnis.Atsisakymas įregistruoti ar  perregistruoti įmonę
@@ -1120,11 +1024,9 @@ reikalavimų. Atsisakymas  įregistruoti  įmonę  kitokiais  motyvais  yra
 neteisėtas. Apie sprendimą įmonės neįregistruoti atitinkamas organas per 3
 dienas privalo raštu pranešti įmonės steigėjui.
      Atsisakymas
-įregistruoti  įmonę gali  būti  užginčytas teismine tvarka. Įmonės steigėjas
-per teismą gali išieškoti nuostolius, atsiradusius dėl neteisėto atsisakymo
-įregistruoti įmonę. Jeigu įmonės steigėjas negali paskaičiuoti ir nurodyti realaus
-nuostolio dydžio, tai rejestro tvarkytojas privalo sumokėti įmonės steigėjui
-1000 rublių nuostolių atlyginimą už kiekvieną uždelstą mėnesį.
+įregistruoti įmonę gali būti užginčytas teismine tvarka. Įmonės steigėjas per
+teismą gali išieškoti nuostolius, atsiradusius dėl neteisėto atsisakymo
+įregistruoti įmonę.
      Tais
 atvejais, kai įmonės (įmonės steigimo sutarties arba įstatų) registravimas
 prilygsta leidimui užsiimti ūkine veikla, ginčai dėl registravimo nagrinėjami
@@ -1136,7 +1038,8 @@ Straipsnio
 pakeitimai: 
 Nr.
 I-678, 90.10.16, Žin., 1990, Nr. 31-749
- 
+Nr. VIII-422,
+97.09.25, Žin., 1997, Nr.96-2419 (97.10.24)
  
      23
 straipsnis.Įmonės likvidavimas ir reorganizavimas
@@ -1174,10 +1077,10 @@ asociacijas, prisijungus prie kitų įmonių, susivienijimų, pasidalijus į kel
 civilinis kodeksas, Lietuvos Respublikos konkurencijos ir Įmonių bankroto
 įstatymai, kiti įstatyminiai aktai ir įmonės įstatai bei kiti įmonės steigimo
 dokumentai. Įmonę reorganizavus, naujam juridiniam asmeniui pereina teisės ir
-prievolės, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo
-biudžetą, taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės
-institucijų priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki
-reorganizuojamos įmonės išregistravimo įstatymų nustatyta tvarka.
+prievolės, įskaitant nesumokėtas į valstybinio socialinio draudimo fondo biudžetą,
+taip pat mokesčio administratoriaus pareigūnų ir kitų valstybės institucijų
+priskaičiuotas sumas, tarp jų baudas ir delspinigius, iki reorganizuojamos
+įmonės išregistravimo įstatymų nustatyta tvarka.
      Įmonę
 likvidavus arba reorganizavus daromi  atitinkami įrašai įmonių registravimo
 rejestre. Apie tai skelbiama vietos ir Respublikos spaudoje.
@@ -1191,14 +1094,13 @@ I-1252, 96.03.28, Žin., 1996, Nr. 35-859 (96.04.19)
 Nr.
 VIII-376, 97.07.02, Žin., 1997, Nr.69-1737 (97.07.23)
  
- 
      24
 straipsnis.Įmonės filialai ir atstovybės
  
      Įmonės
 gali steigti savo filialus ir atstovybes. Įmonės filialai ir atstovybės veikia
-pagal įmonės įgaliojimą. Įmonės filialui steigti taikomos įmonių steigimo ir 
-registravimo taisyklės.
+pagal įmonės įgaliojimą. Įmonės filialui steigti taikomos įmonių steigimo ir  registravimo
+taisyklės.
      Filialus
 steigti gali tik Lietuvos Respublikos įmonių rejestre  įregistruotos  įmonės 
 atitinkamos  rūšies įmonių įstatymo nustatyta tvarka.
