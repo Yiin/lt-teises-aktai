@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
+Suvestinė redakcija nuo 1996-06-21 iki 1997-04-08
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
+ 
+ 
 LIETUVOS RESPUBLIKOS KARDOMOJO KALINIMO Į S T A T Y M A S
  
 1996 m. sausio 18 d. Nr. I-1175
@@ -99,7 +104,10 @@ Kardomojo kalinimo (suėmimo) pagrindus nustato Baudžiamojo proceso kodeksas.
 6 straipsnis. Kardomojo kalinimo vietose laikomi asmenys
 
 
-1. Kardomojo kalinimo vietose laikomi asmenys, suimti pagal teismo nuosprendį ar nutartį, teisėjo nutarimą ar prokuroro sankciją, taip pat suimti nuteistieji, kuriems nuosprendis įsiteisėjo.
+1. Kardomojo kalinimo vietose laikomi asmenys, suimti pagal teismo nuosprendį ar nutartį, teisėjo nutartį, taip pat suimti nuteistieji, kuriems nuosprendis įsiteisėjo.
+Straipsnio dalies pakeitimai:
+Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
+ 
 
 
 
@@ -182,24 +190,22 @@ BENDROSIOS ASMENŲ PRIĖMIMO Į KARDOMOJO KALINIMO VIETAS SĄLYGOS
 1. Asmenų priėmimo į kardomojo kalinimo vietas procesinis pagrindas yra:
 
 
-1) teismo nutartis arba teisėjo nutarimas skirti kardomąją priemonę – suėmimą;
+1) teismo arba teisėjo nutartis skirti kardomąją priemonę – suėmimą;
 
 
 
 
-2) prokuroro sankcija skirti kardomąją priemonę – suėmimą;
+2) teismo nuosprendis skirti laisvės atėmimo arba mirties bausmę asmenims, kuriems nebuvo parinktas suėmimas;
 
 
 
 
-3) teismo nuosprendis skirti laisvės atėmimo arba mirties bausmę asmenims, kuriems nebuvo parinktas suėmimas;
+3) teisėjo sankcija perkelti nuteistąjį iš pataisos darbų įstaigos į tardymo izoliatorių.
 
 
-
-
-4) teisėjo sankcija perkelti nuteistąjį iš pataisos darbų įstaigos į tardymo izoliatorių.
-
-
+Straipsnio dalies pakeitimai:
+Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
+ 
 
 
 
@@ -1191,7 +1197,10 @@ Pagrindai kalinamuosius paleisti iš suėmimo yra šie:
 35 straipsnis. Kalinamųjų paleidimo tvarka
 
 
-1. Kalinamuosius paleidžia kardomojo kalinimo vietos direktorius, remdamasis teismo nuosprendžiu ar nutartimi, teisėjo, prokuroro arba bylą tiriančio pareigūno nutarimu.
+1. Kalinamuosius paleidžia kardomojo kalinimo vietos direktorius, remdamasis teismo nuosprendžiu ar nutartimi, teisėjo nutartimi, prokuroro nutarimu.
+Straipsnio dalies pakeitimai:
+Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
+ 
 
 
 
@@ -1405,3 +1414,13 @@ Kalinamiesiems draudžiama dirbti:
 
 
 9) eiti materialiai atsakingojo pareigas.
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
+Lietuvos Respublikos kardomojo kalinimo įstatymo 6, 9 ir 35 straipsnių pakeitimo ir papildymo įstatymas
