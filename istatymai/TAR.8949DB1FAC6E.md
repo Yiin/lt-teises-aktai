@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8949DB1FAC6E"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 1996-09-13 iki 1997-12-23
+Suvestinė redakcija nuo 1997-12-24 iki 1999-04-30
  
 Įstatymas paskelbtas: Žin. 1989, Nr. 33-445, i. k. 0891010ISTA0XI-3335
  
@@ -250,9 +250,11 @@ Vyriausioji rinkimų komisija:
 
 8) nustato ir skelbia galutinius referendumo rezultatus;
 
-9) perduoda valstybės archyvui saugoti piliečių, turinčių teisę dalyvauti referendume, sąrašus, balsų skaičiavimo ir kitus referendumo komisijų protokolus;
+9) vykdo kitus šiame įstatyme numatytus įgaliojimus.
 
-10) vykdo kitus šiame įstatyme numatytus įgaliojimus.
+Straipsnio dalies pakeitimai:
+Nr. VIII-571, 1997-12-09, Žin., 1997, Nr. 117-3011 (1997-12-24), i. k. 0971010ISTAVIII-571
+ 
 
 Jeigu tą pačią dieną kartu vyksta arba Seimo, arba savivaldybės tarybos rinkimai, arba referendumas, apylinkių rinkimų ar referendumo komisijos sudaromos tos pačios. Vyriausioji rinkimų komisija atskiroje rinkimų, referendumo teritorijoje sudaro vieną – miesto, rajono, apygardos rinkimų arba referendumo – komisiją ir nustato jos funkcijas organizuojant ir vykdant kitus rinkimus arba referendumą. 
 Papildyta straipsnio dalimi:
@@ -754,7 +756,10 @@ Galutinius referendumo rezultatus ne vėliau kaip per 4 dienas po referendumo sk
 
 323 straipsnis. Referendumo dokumentų saugojimas
 
-Pasibaigus referendumui, Vyriausioji rinkimų komisija ne vėliau kaip per 20 dienų po to, kai baigėsi šiame įstatyme nustatytas terminas skundams dėl jos sprendimų išnagrinėti, valstybės archyvui perduoda neterminuotai saugoti referendumo apylinkių, miestų, rajonų referendumo komisijų, Vyriausiosios rinkimų komisijos protokolus ir referendumo sąrašus.
+Pasibaigus referendumui, Vyriausioji rinkimų komisija ne vėliau kaip per 20 dienų po to, kai baigėsi šiame įstatyme nustatytas terminas skundams dėl jos sprendimų išnagrinėti, valstybės archyvui perduoda nuolat saugoti referendumo apylinkių, miestų, rajonų referendumo komisijų, Vyriausiosios rinkimų komisijos protokolus. Piliečių, dalyvavusių referendume, sąrašus Vyriausioji rinkimų komisija saugo 5 metus. 
+
+Straipsnio pakeitimai:
+Nr. VIII-571, 1997-12-09, Žin., 1997, Nr. 117-3011 (1997-12-24), i. k. 0971010ISTAVIII-571
  
 
 33 straipsnis. Referendumu priimtų Lietuvos Respublikos įstatymo nuostatų ar kito sprendimo paskelbimas ir įsigaliojimas
@@ -832,4 +837,9 @@ Dėl Lietuvos Respublikos referendumo įstatymo 16 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1505, 1996-08-22, Žin., 1996, Nr. 86-2044 (1996-09-13), i. k. 0961010ISTA00I-1505
 Lietuvos Respublikos referendumo įstatymo pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-571, 1997-12-09, Žin., 1997, Nr. 117-3011 (1997-12-24), i. k. 0971010ISTAVIII-571
+Lietuvos Respublikos referendumo įstatymo 16 ir 32(3) straipsnių pakeitimo įstatymas
 
