@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 1993-03-11 iki 1993-10-12
+Suvestinė redakcija nuo 1993-10-13 iki 1993-11-18
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
  
@@ -974,7 +974,10 @@ BENDROVĖS VEIKLOS NUTRAUKIMAS
 
 
 
-3) bendrovei bankrutavus; 
+3) teismui arba kreditorių susirinkimui priėmus sprendimą pripažinti bendrovę bankrutavusia;
+Straipsnio punkto pakeitimai:
+Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
+ 
 
 
 
@@ -1013,6 +1016,10 @@ BENDROVĖS VEIKLOS NUTRAUKIMAS
 
 
 2. Bendrovę likviduoja valdyba (administracija), kuri tampa bendrovės likvidatoriumi. Narių susirinkimas turi teisę savo nuožiūra, kreditorių ar valstybės valdymo organų reikalavimu išrinkti kitus likvidatorius, bet kuriuo laiku juos atšaukti ir rinkti naujus. Išrinkus likvidatorius, valdyba (administracija) savo įgaliojimus nutraukia, jos funkcijas perima likvidatoriai. 
+Bendrovę likviduoja valdyba (administratorius), kuri tampa bendrovės likvidatoriumi, jeigu narių susirinkimas neišrenka likvidatoriaus. Nutraukiant bendrovės veiklą šio įstatymo 29 straipsnio 3 ir 5 punktuose numatytais pagrindais, bendrovės likvidatorių skiria organas, priėmęs sprendimą nutraukti bendrovės veiklą. Išrinkus (paskyrus) likvidatorių, valdyba (administratorius) savo įgaliojimus nutraukia, jos funkcijas perima likvidatorius.
+Straipsnio dalies pakeitimai:
+Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
+ 
 
 
 
@@ -1064,7 +1071,10 @@ BENDROVĖS VEIKLOS NUTRAUKIMAS
 
 
 
-4. Pajininkams negali būti išmokėta jų turto dalis, kol nėra patenkinti kreditorių reikalavimai ir kitos pretenzijos. Kreditorių reikalavimai pradedami tenkinti tik tada, kai bendrovė yra sumokėjusi mokesčius valstybei. 
+4. Pajininkams negali būti išmokėta jų turto dalis, kol nėra patenkinti kreditorių reikalavimai ir kitos pretenzijos. Kreditorių reikalavimai pradedami tenkinti tik tada, kai bendrovė yra sumokėjusi mokesčius valstybei, o bendrovės bankroto atveju – Lietuvos Respublikos įmonių bankroto įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
+ 
 
 
 
@@ -1141,4 +1151,9 @@ Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo papildymo ir pakeit
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-73, 1993-02-03, Žin., 1993, Nr. 7-140 (1993-03-10), i. k. 0931010ISTA0000I-73
+Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-256, 1993-09-28, Žin., 1993, Nr. 52-997 (1993-10-13), i. k. 0931010ISTA000I-256
 Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo ir papildymo
