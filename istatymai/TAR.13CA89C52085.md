@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.13CA89C52085"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 1998-12-11 iki 1998-12-29
+Suvestinė redakcija nuo 1998-12-30 iki 2000-04-18
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1500; Žin. 1997, Nr.87-0, i. k. 0971010ISTAVIII-270
  
@@ -764,7 +764,11 @@ BAIGIAMOJI DALIS
 
 3) bankrutuojančios ar bankrutavusios įmonės turto pardavimo varžytynėse tvarką, suderintą su šio įstatymo ir Civilinio proceso kodekso atitinkamomis nuostatomis;
 
-4) teisės teikti bankroto administravimo paslaugas fiziniams ir juridiniams asmenims suteikimo tvarką.
+4) teisės teikti bankroto administravimo paslaugas fiziniams ir juridiniams asmenims suteikimo tvarką;
+
+5) sanavimo organizavimo tvarką ir sanavimo projekto reikalavimus, atsižvelgdama į šio įstatymo nuostatas. 
+Papildyta straipsnio punktu:
+Nr. VIII-962, 1998-12-10, Žin., 1998, Nr. 114-3189 (1998-12-30), i. k. 0981010ISTAVIII-962
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -782,4 +786,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-942, 1998-11-26, Žin., 1998, Nr. 109-2996 (1998-12-11), i. k. 0981010ISTAVIII-942
 Lietuvos Respublikos įmonių bankroto įstatymo 3, 21, 41 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-962, 1998-12-10, Žin., 1998, Nr. 114-3189 (1998-12-30), i. k. 0981010ISTAVIII-962
+Lietuvos Respublikos įmonių bankroto įstatymo 43 straipsnio papildymo įstatymas
 
