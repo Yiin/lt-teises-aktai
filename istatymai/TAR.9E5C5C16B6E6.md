@@ -13,25 +13,38 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 
 # Lietuvos Respublikos alkoholio kontrolės įstatymas
 
-Redaguota : 1995 07 26
+Redaguota : 1996 01 26
 
 
 
 
-Redaguota : 1995 07
+Redaguota : 1996 01
 26
 g
-Pakeitimai:
+   Pakeitimai:
 1. Lietuvos
 Respublikos 1995 07 03
-Įstatymas Nr. 1-987
-Žin., 1995,
+   Įstatymas Nr.
+1-987
+   Žin., 1995,
 Nr.61-1527
-DĖL LIETUVOS
+   DĖL LIETUVOS
 RESPUBLIKOS ALKOHOLIO
-KONTROLĖS ĮSTATYMO
-PAKEITIMO
+   KONTROLĖS
+ĮSTATYMO PAKEITIMO
  
+2. Lietuvos
+Respublikos 1995 12 26
+   Įstatymas Nr.
+1-1156
+   Žin., 1996,
+Nr.1-195
+   DĖL LIETUVOS
+RESPUBLIKOS ADMINISTRACINIŲ 
+   TEISĖS PAŽEIDIMŲ
+KODEKSO, ĮMONIŲ ĮSTATYMO 
+   IR ALKOHOLIO
+KONTROLĖS ĮSTATYMO PAKEITIMO
  
  
                      
@@ -40,8 +53,7 @@ LIETUVOS RESPUBLIKOS
                      
 ALKOHOLIO KONTROLĖS
  
-                           
-ĮSTATYMAS
+                            ĮSTATYMAS
  
                 1995
 m. balandžio 18 d. Nr.I-857
@@ -57,7 +69,7 @@ SKYRIUS. BENDROSIOS NUOSTATOS
      1 straipsnis.
 Įstatyme vartojamos pagrindinės sąvokos
  
-     Etilo
+     Etilo
 alkoholis  (toliau -  alkoholis) -  narkotinio veikimo
 medžiaga, galinti
 lemti pripratimą ir priklausomybę nuo jos.
@@ -66,7 +78,7 @@ produktai   -  nedenatūruotas   etilo  alkoholis,
 denatūruotas 
 etilo   alkoholis,   techninis   etilo   alkoholis,
 alkoholiniai
-gėrimai,  ingredientai  ir  žaliavos,  kuriuose  yra
+gėrimai,  ingredientai  ir  žaliavos,  kuriuose  yra
 etilo alkoholio.
      Alkoholiniai
 gėrimai - gėrimai, kurių tūrinė etilo alkoholio
@@ -74,8 +86,8 @@ koncentracija sudaro
 nuo 1 iki 50 procentų.
      Alkoholio   
 reklama    -    su    alkoholiniais    gėrimais
-supažindinančios,
-jų  gamybą, prekybą, importą, aptarnavimo būdus
+supažindinančios, jų 
+gamybą, prekybą, importą, aptarnavimo būdus
 ar  vartojimą  
 remiančios  audio  arba  vizualinės  informacijos
 neasmeniškas 
@@ -90,8 +102,8 @@ realizavimo  ir  
 vartojimo  rėmimas  populiarinant  alkoholinius
 gėrimus 
 gaminančių,   importuojančių  ar  realizuojančių  įmonių
-pavadinimus,
-naudojant  prekės ženklus, simbolius, kitus būdingus
+pavadinimus, naudojant 
+prekės ženklus, simbolius, kitus būdingus
 alkoholinių  gėrimų 
 požymius,  taip  pat  Lietuvos  Respublikoje
 realizuojamas
@@ -115,7 +127,7 @@ vartojimo,  alkoholio reklamos  valstybinio reguliavimo
 priemonių, skirtų
 alkoholinių gėrimų bendrajam suvartojimui, taip
 pat  alkoholinių  
-gėrimų,  kitų  produktų,  kuriuose  yra  etilo
+gėrimų,  kitų  produktų,  kuriuose  yra  etilo
 alkoholio,
 vartojimo  nulemtoms kenksmingoms  pasekmėms sveikatai
 ir ūkiui mažinti,
@@ -136,8 +148,8 @@ Alkoholio kontrolės įstatymo paskirtis ir
                jo
 reguliuojami santykiai
  
-     Alkoholio kontrolės 
-įstatymo paskirtis  - mažinti  bendrąjį
+     Alkoholio
+kontrolės  įstatymo paskirtis  - mažinti  bendrąjį
 alkoholio
 suvartojimą,  piktnaudžiavimą alkoholiu, jo daromą žalą
 sveikatai ir 
@@ -163,16 +175,17 @@ Respublikoje pagrindus.
  
      3 straipsnis.
 Valstybės alkoholio kontrolės politikos
-               principai
+              
+principai
  
-     Valstybės
+     Valstybės
 alkoholio kontrolės politikos principai yra:
      1) mokesčiais
 mažinti alkoholinių gėrimų prieinamumą ;
      2) valstybinio
 reguliavimo priemonėmis riboti privatų pelną,
 gautą  iš  
-alkoholinių  gėrimų   gamybos,  importo  ir  prekybos
+alkoholinių  gėrimų   gamybos,  importo  ir  prekybos
 alkoholiniais
 gėrimais;
      3)  skatinti
@@ -254,8 +267,8 @@ teisės  aktus   taikomas  ypatingas  valstybinio
 reguliavimo režimas.
      Lietuvos
 Respublikos Vyriausybė, remdamasi Prekybos įstatymo
-4 straipsnio  pirmąja
-dalimi,  ypatingais  atvejais  gali  įvesti
+4 straipsnio 
+pirmąja dalimi,  ypatingais  atvejais  gali  įvesti
 alkoholinių gėrimų 
 didmeninės ir  mažmeninės prekybos  valstybės
 monopolį. Monopolio
@@ -263,8 +276,8 @@ monopolį. Monopolio
 tvarką nustato 
 įstatymai  ir  Lietuvos  Respublikos  Vyriausybės
 nutarimai.
-     Lietuvos
-Respublikos  Vyriausybė  ypatingais  atvejais,  kai
+     Lietuvos Respublikos 
+Vyriausybė  ypatingais  atvejais,  kai
 Lietuvos gyventojų 
 ligotumas alkoholinėmis  psichozėmis  viršija
 nustatytą  rodiklį, 
@@ -291,8 +304,8 @@ valstybinio reguliavimo ypatumai
 (technologiniai,  parfumerijos  ir  kosmetikos
 pramonės  gaminiai  
 ir  kt.),   kuriuose  yra  etilo  alkoholio,
-vartojami  kaip 
-apsvaigimą  sukeliantys  gėrimai,  tai  Lietuvos
+vartojami  kaip  apsvaigimą 
+sukeliantys  gėrimai,  tai  Lietuvos
 Respublikos
 Vyriausybė  turi teisę,  remdamasi Sveikatos apsaugos
 ministerijos
@@ -327,7 +340,7 @@ Lietuvos Respublikos norminius dokumentus.
      Reikalavimai  
 alkoholio    produktų    kokybei    nustatomi
 norminiuose
-dokumentuose,  kuriuos rengia  ir  tvirtina  Lietuvos
+dokumentuose,  kuriuos rengia  ir  tvirtina  Lietuvos
 standartizacijos
 tarnyba  prie Valdymo  reformų  ir  savivaldybių
 reikalų
@@ -338,7 +351,7 @@ norminiuose
 dokumentuose,  kuriuos rengia  ir tvirtina  Sveikatos
 apsaugos
 ministerija.
-     Kiekvienai  
+     Kiekvienai  
 Lietuvos   Respublikoje   pagamintų   alkoholio
 produktų  siuntai  
 įmonė  gamintoja   privalo  išduoti  Lietuvos
@@ -368,8 +381,8 @@ Respublikos 1995 07 03
  
      7 straipsnis.
 Alkoholio produktų atitikimo norminių
-               dokumentų
-reikalavimams nustatymas
+              
+dokumentų reikalavimams nustatymas
  
      Ar alkoholio 
 produktai atitinka  šio įstatymo  bei Lietuvos
@@ -377,8 +390,8 @@ Respublikos
 norminių  dokumentų reikalavimus,  pagal kompetenciją
 kontroliuoja  
 Lietuvos   valstybinė   kokybės   inspekcija  prie
-Valstybinės  konkurencijos 
-ir  vartotojų  teisių gynimo tarnybos,
+Valstybinės 
+konkurencijos  ir  vartotojų  teisių gynimo tarnybos,
 Valstybinė  
 higienos  inspekcija  prie   Valstybinės  visuomenės
 sveikatos 
@@ -436,8 +449,8 @@ maksimali  tūrinė  
 etilo  alkoholio  koncentracija.  Alkoholinių
 gėrimų grupes  ir 
 etilo  alkoholio  koncentraciją  jose  nustato
-norminiai 
-dokumentai,   kuriuos  rengia   Valstybinė  tabako  ir
+norminiai  dokumentai,  
+kuriuos  rengia   Valstybinė  tabako  ir
 alkoholio kontrolės
 tarnyba prie Lietuvos Respublikos Vyriausybės
 (toliau -  VTAKT)
@@ -492,8 +505,8 @@ gėrimais kriterijus nustato VTAKT.
  
      11 straipsnis.
 Alkoholio produktų gamybos Lietuvos
-               Respublikoje
-valstybinio reguliavimo ypatumai
+              
+Respublikoje valstybinio reguliavimo ypatumai
  
      Alkoholinių
 gėrimų,  maisto produktų  etilo alkoholio priedų
@@ -568,8 +581,8 @@ produktus suteikimas nustatytų rūšių
 įmonėms ir specialiosios paskirties bendrovėms šio
 įstatymo  ir  kitų
 teisės aktų nustatyta tvarka  suteikiama teisė
-gaminti nedenatūruotą 
-etilo  alkoholį  bei  alkoholinius gėrimus, 
+gaminti
+nedenatūruotą  etilo  alkoholį  bei  alkoholinius gėrimus, 
 kurių tūrinė etilo
 alkoholio  koncentracija viršija  22 procentus. 
 Šis reikalavimas 
@@ -594,7 +607,7 @@ produktus,
 įskaitant  alkoholinius gėrimus,  kurių  tūrinė  etilo
 alkoholio
 koncentracija neviršija 22 procentų.
-     Šio straipsnio 
+     Šio straipsnio 
 pirmosios,  antrosios  ir  trečiosios  dalių
 nuostatos galioja
 iki 2000 m. gruodžio 31 d. Nuo 2001 m. sausio 1
@@ -685,7 +698,7 @@ jos turi:
 ir Lietuvos Respublikos Vyriausybės nutarimų
 nustatyta tvarka
 išduotą leidimą;
-     2) įmonės
+     2) įmonės
 gamintojos - užsienio šalies ūkio subjekto išduotą
 pažymėjimą
 (sertifikatą), liudijantį alkoholio produktų kokybę;
@@ -723,8 +736,8 @@ išdavimo tvarka
 metus  galiojančius leidimus  importuoti alkoholio
 produktus,
 remdamasi  šiuo įstatymu, išduoda Lietuvos Respublikos
-Vyriausybė ar jos
-pavedimu VTAKT.
+Vyriausybė ar jos pavedimu
+VTAKT.
      Leidžiamų 
 kiekvienais  metais  išduoti  leidimų  importuoti
 alkoholinius 
@@ -740,16 +753,16 @@ galiojančių leidimų importuoti skaičius neturi
 viršyti dešimties.
      Leidimai
 importuoti  alkoholinius  gėrimus  išduodami  pagal
-viešą konkursą, 
-kurio sąlygas  bei tvarką  nustato ir visuomenės
+viešą konkursą,  kurio
+sąlygas  bei tvarką  nustato ir visuomenės
 informavimo
 priemonėse skelbia Lietuvos Respublikos Vyriausybė.
      Leidimai 
 importuoti  alkoholinius  gėrimus   (išskyrus alų)
 išduodami tik toms
 įmonėms, kurios  pateikia dokumentus, 
-liudijančius apie
-sudarytas sutartis tik su tokiais užsienio ūkio
+liudijančius apie sudarytas
+sutartis tik su tokiais užsienio ūkio
 subjektais, kurie
 dėl savo  produkcijos  kokybės  patikimumo  yra
 įtraukti į
@@ -801,7 +814,8 @@ Vidaus prekybos alkoholio produktais reguliavimas
  
      19 straipsnis.
 Vidaus prekybos alkoholio produktais
-                    leidimai
+                   
+leidimai
  
     Didmeninė
 prekyba  alkoholio produktais leidžiama tik turint
@@ -859,8 +873,8 @@ ir viešojo 
 maitinimo įmonėms  prekiauti alkoholiniais  gėrimais,
 kurių tūrinė etilo
 alkoholio koncentracija neviršija 12 procentų,
-masiniuose,   sporto,   
-kultūros,   religiniuose,   šventiniuose
+masiniuose,  
+sporto,    kultūros,   religiniuose,   šventiniuose
 renginiuose,
 mitinguose,  manifestacijose ir  parodose skaičių ir
 juos išduoda.
@@ -885,8 +899,8 @@ bei prekybos jais
 laikas ir vieta.
      Leidimų įmonėms
 užsiimti vidaus prekyba alkoholio produktais
-išdavimo bei
-atšaukimo sąlygas ir tvarką, atsisakymo juos išduoti
+išdavimo bei atšaukimo
+sąlygas ir tvarką, atsisakymo juos išduoti
 pagrindus,
 remdamasi  šiuo bei Įmonių įstatymu, taip pat prekybos
 alkoholio 
@@ -920,7 +934,7 @@ gėrimus  pagal   jų 
 grupes,  kurie  neįrašyti  į  leidimus  juos
 importuoti,
 realizuoti;
-     3) importuotus
+     3) importuotus
 alkoholinius  gėrimus be nustatyto specialaus
 ženklinimo, taip pat
 tuos importuotus alkoholinius gėrimus, kurių
@@ -946,7 +960,7 @@ Alimentarius
 reikalavimų bei   Lietuvos   Respublikoje
 galiojančių prekių
 ženklinimo taisyklių;
-     7)
+     7)
 falsifikuotus alkoholio produktus;
      8) alų,  kurio
 tūrinė  etilo alkoholio koncentracija didesnė
@@ -990,8 +1004,8 @@ alkoholinius gėrimus neblaiviems asmenims;
 alkoholinius gėrimus uniformuotiems pareigūnams.
      Importuotų 
 alkoholinių    gėrimų (išskyrus alų)  specialaus   
-ženklinimo
-papildymo  specialia   įmonės,  turinčios   didmeninės
+ženklinimo papildymo 
+specialia   įmonės,  turinčios   didmeninės
 prekybos
 alkoholiniais gėrimais teisę, žyma tvarką nustato VTAKT.
      Alkoholinių
@@ -1039,8 +1053,8 @@ Respublikos 1995 07 03
 Prekybos  alkoholiniais  gėrimais 
                    
 mažmeninės prekybos ir viešojo 
-                    maitinimo
-įmonėse tvarka
+                   
+maitinimo įmonėse tvarka
  
      Lietuvos 
 Respublikoje  draudžiama  prekiauti  alkoholiniais
@@ -1068,7 +1082,7 @@ Lietuvos
 Respublikos  norminiuose dokumentuose  nustatytu atstumu
 nuo jų įrengtose
 stacionarinėse viešojo maitinimo įmonėse;
-     6) prekybos  ir
+     6) prekybos  ir
 viešojo  maitinimo įmonėse, kurios įrengtos
 degalinėse ir prie
 jų (savivaldybių nurodytu atstumu);
@@ -1077,8 +1091,8 @@ jaunesniems kaip 18 metų;
      8) kitais 
 Lietuvos   Respublikos  Vyriausybės   nustatytais
 atvejais.
-     Prekiauti
-alkoholiniais  gėrimais leidžiama  tik  išimtinai
+     Prekiauti alkoholiniais 
+gėrimais leidžiama  tik  išimtinai
 tokiai prekybai 
 skirtose stacionarinėse prekybos įmonėse arba jų
 specializuotuose
@@ -1101,8 +1115,8 @@ nustatyta tvarka.
 viešojo maitinimo  įmonėse leidžiama prekiauti
 alkoholiniais
 gėrimais  tik nuo  11 valandos  iki kitos  dienos 6
-valandos ryto 
-(prekyba alumi  leidžiama nuo 8 valandos ryto). Už
+valandos ryto  (prekyba
+alumi  leidžiama nuo 8 valandos ryto). Už
 leidimo prekiauti 
 alkoholiniais gėrimais  prekybos įmonėse po 22
 valandos, o  viešojo
@@ -1168,8 +1182,8 @@ SKYRIUS. ALKOHOLINIŲ GĖRIMŲ VARTOJIMO
 MAŽINIMAS IR KONTROLĖ
  
  
-           I skirsnis.
-Alkoholio bendrojo suvartojimo
+           I
+skirsnis. Alkoholio bendrojo suvartojimo
  
                
 mažinimo organizacinės priemonės
@@ -1195,8 +1209,8 @@ importo, eksporto, vartojimo, jo daromos
                    
 žalos sveikatai ir ūkiui statistika
  
-     Lietuvos
-Respublikoje  nustatyta tvarka  tvarkoma  alkoholio
+     Lietuvos Respublikoje 
+nustatyta tvarka  tvarkoma  alkoholio
 produktų  gamybos,  
 vidaus  ir  užsienio  prekybos  apskaita  ir
 statistikos
@@ -1238,7 +1252,7 @@ sveikatai  ir  
 ūkiui  valstybiniai   ir  žinybiniai  atrankiniai
 statistikos tyrimai.
      Alkoholio
-vartojimo,  jo daromos  ekonominės žalos sveikatai
+vartojimo,  jo daromos  ekonominės žalos sveikatai
 ir ūkiui 
 valstybinių ir  žinybinių atrankinių statistikos tyrimų
 organizavimo
@@ -1279,8 +1293,8 @@ Visuomenės informavimas apie alkoholį, jo
                    
 vartojimo lemiamą žalą sveikatai ir ūkiui
  
-     Švietimo ir 
-mokslo ministerija  privalo parengti  sveikatos
+     Švietimo ir  mokslo
+ministerija  privalo parengti  sveikatos
 ugdymo visose 
 bendrojo lavinimo  mokyklose  ir  kitose  švietimo
 įstaigose programas 
@@ -1295,8 +1309,8 @@ alkoholinius 
 gėrimus,   jų  daromą   žalą  sveikatai  ir  ūkiui,
 sveikatai 
 palankios   aplinkos,  užkertančios   kelią  alkoholio
-vartojimo daromai žalai,
-sveikos gyvensenos formavimą.
+vartojimo daromai
+žalai, sveikos gyvensenos formavimą.
      Lietuvos
 radijo  ir televizijos  laidose ne  rečiau kaip  du
 kartus per  savaitę
@@ -1315,7 +1329,7 @@ Respublikos   Vyriausybė   rengia,   tvirtina   ir
 įgyvendina 
 valstybės  alkoholio  kontrolės  programą.  Valstybės
 alkoholio 
-kontrolės   programa   finansuojama   iš   Valstybinio
+kontrolės   programa   finansuojama   iš   Valstybinio
 sveikatos fondo 
 lėšų. Valstybinio sveikatos fondo steigimo ir jo
 lėšų šaltinių 
@@ -1340,8 +1354,8 @@ alkoholio kontrolės 
 programas, dėl  jų rengimo  ir  įgyvendinimo
 teikti pasiūlymus 
 Lietuvos Respublikos Vyriausybei, Nacionalinei
-sveikatos tarybai 
-(toliau -  NST),  VTAKT  ir  kitoms  valstybės
+sveikatos tarybai  (toliau
+-  NST),  VTAKT  ir  kitoms  valstybės
 alkoholio kontrolės 
 politiką formuojančioms  ir įgyvendinančioms
 institucijoms.
@@ -1413,7 +1427,7 @@ mažmeninės  prekybos subjektų  konkursus  dėl
 alkoholinių gėrimų
 pardavimo rėmimo.
      Lietuvos 
-Respublikos   Vyriausybė  įmonėms,   kurios   turi
+Respublikos   Vyriausybė  įmonėms,   kurios   turi
 nustatyta  tvarka  
 išduotus  leidimus   prekiauti  alkoholiniais
 gėrimais,  turi 
@@ -1434,22 +1448,22 @@ televizijos programas, taip pat per Lietuvos spaudą;
      2) panaudojant 
 užsienio  šalyse  atspausdintus,  įvežtus  į
 Lietuvos 
-Respubliką   ir   joje   realizuojamus   specializuotus
+Respubliką   ir   joje   realizuojamus   specializuotus
 reklaminius
 leidinius, skirtus alkoholio reklamai;
      3) paštu
 (naudojant atvirlaiškius, vokus, pašto ženklus);
      4)  kitais 
 audio  arba  vizualinės  informacijos  perdavimo
-būdais, priemonėmis, 
-įskaitant netiesioginę  alkoholinių  gėrimų
+būdais,
+priemonėmis,  įskaitant netiesioginę  alkoholinių  gėrimų
 reklamą.
      Kaip   
 įgyvendinamas    alkoholio    reklamos    draudimas,
-kontroliuoja VTAKT, 
-Spaudos kontrolės  valdyba  prie  Teisingumo
-ministerijos,
-savivaldybės.   
+kontroliuoja VTAKT,
+Visuomenės informavimo priemonių valdyba prie
+Teisingumo
+ministerijos.
      Audio arba
 vizualinės informacijos turinio, apipavidalinimo,
 jos perdavimo  būdų 
@@ -1459,11 +1473,18 @@ draudimo kontrolės  tvarką  nustato  Lietuvos
 Respublikos
 Vyriausybė.
  
+   Pakeitimai:
+1. Lietuvos
+Respublikos 1995 12 26
+   Įstatymas Nr.
+1-1156
+   Žin., 1996, Nr.1-195
+ 
  
      31 straipsnis.
 Alkoholinių gėrimų gamybos ir prekybos
-                    įmonių
-populiarinimo ribojimas
+                   
+įmonių populiarinimo ribojimas
  
      Lietuvos
 Respublikos  ir užsienio alkoholinių gėrimų gamybos
@@ -1483,10 +1504,10 @@ skirsnis. Alkoholio bendrojo suvartojimo
 mažinimo ekonominės priemonės
  
  
-     32 straipsnis.
+     32 straipsnis.
 Importo muito mokesčio ir akcizų tarifų už
-                    alkoholio
-produktus diferencijavimas
+                   
+alkoholio produktus diferencijavimas
  
      Alkoholio
 produktų  apmokestinimo muito mokesčiu ir akcizais
@@ -1599,7 +1620,7 @@ užtraukia 
 atsakomybę.
  
      Pakeitimai:
-     1. Lietuvos
+  1. Lietuvos
 Respublikos 1995 07 03
      Įstatymas Nr.
 1-987
@@ -1666,7 +1687,7 @@ reabilitacijos
 priemonės.
  
      Pakeitimai:
-     1. Lietuvos
+  1. Lietuvos
 Respublikos 1995 07 03
      Įstatymas Nr.
 1-987
@@ -1688,20 +1709,20 @@ formavimo sistema
  
      Valstybės
 alkoholio  kontrolės politiką  pagal  kompetenciją
-formuoja ir 
-koordinuoja Lietuvos Respublikos Seimas, Vyriausybė,
-Nacionalinė  sveikatos  
-taryba,  savivaldybių   tarybos,   kitos
+formuoja ir  koordinuoja
+Lietuvos Respublikos Seimas, Vyriausybė,
+Nacionalinė 
+sveikatos   taryba,  savivaldybių   tarybos,   kitos
 įstatymų 
 nustatytos   institucijos.  Jų   įgaliojimus  alkoholio
 kontrolės srityje
 nustato šis ir kiti įstatymai bei teisės aktai.
  
  
-     38 straipsnis.
+     38 straipsnis.
 Nacionalinės sveikatos tarybos
-                    kompetencija
-alkoholio kontrolės srityje
+                   
+kompetencija alkoholio kontrolės srityje
  
      Nacionalinės 
 sveikatos  tarybos  bendrąją  kompetenciją  ir
@@ -1718,8 +1739,8 @@ kontrolės politiką;
 rengiant,   aprobuojant  valstybės   alkoholio
 kontrolės programą
 ir koordinuojant jos įgyvendinimą;
-     3) prižiūri, kaip 
-VTAKT ir  kitos Vyriausybės  institucijos
+     3) prižiūri,
+kaip  VTAKT ir  kitos Vyriausybės  institucijos
 įgyvendina alkoholio
 kontrolės politiką;
      4) kaupia,
@@ -1733,8 +1754,8 @@ leidžia leidinius
 apie alkoholio kontrolės politiką Lietuvoje;
      6) dalyvauja  
 tarptautinių   organizacijų,   tiriančių   ir
-koordinuojančių
-šalių alkoholio kontrolės politiką, veikloje;
+koordinuojančių šalių
+alkoholio kontrolės politiką, veikloje;
      7) kiekvienais 
 metais daro  Seime pranešimą  apie alkoholio
 kontrolės būklę
@@ -1766,8 +1787,7 @@ aktai.
  
      40 straipsnis.
 Valstybinė tabako ir alkoholio kontrolės
-                   
-tarnyba
+                    tarnyba
  
      Šio įstatymo 
 įgyvendinimui užtikrinti  Lietuvos Respublikos
@@ -1788,10 +1808,10 @@ tarnybos veiklos kontrolė
  
      Kasmet 
 Lietuvos   Respublikos   Vyriausybė   iš   Valstybės
-kontrolės
-departamento,  Sveikatos apsaugos  ministerijos, Vidaus
-reikalų ministerijos, 
-Pramonės ir  prekybos ministerijos atstovų
+kontrolės departamento, 
+Sveikatos apsaugos  ministerijos, Vidaus
+reikalų
+ministerijos,  Pramonės ir  prekybos ministerijos atstovų
 skiria komisiją, 
 kuri tikrina,  kaip VTAKT vykdo šio įstatymo ir
 kitų teisės  aktų
@@ -1870,7 +1890,7 @@ Ekonominių sankcijų už Alkoholio kontrolės
                    
 įstatymo pažeidimus taikymas
  
-     Valstybinė
+     Valstybinė
 tabako  ir alkoholio  kontrolės tarnyba  (VTAKT)
 arba Valstybinė 
 higienos inspekcija  prie Valstybinės visuomenės
@@ -1879,13 +1899,14 @@ priežiūros  tarnybos, arba  Lietuvos valstybinė kokybės
 inspekcija prie 
 Valstybinės konkurencijos  ir  vartotojų  teisių
 gynimo tarnybos, 
-arba Spaudos  kontrolės valdyba prie Teisingumo
-ministerijos, arba 
-Valstybinė mokesčių  inspekcija prie  Finansų
-ministerijos, arba 
-policija pagal  savo kompetenciją  turi teisę
-skirti įmonėms, 
-įstaigoms, organizacijoms baudas už šio įstatymo
+arba Visuomenės  informavimo priemonių  valdyba
+prie Teisingumo
+ministerijos arba Valstybinė mokesčių  inspekcija
+prie Finansų
+ministerijos, arba policija pagal  savo kompetenciją
+turi teisę skirti 
+įmonėms,  įstaigoms, organizacijoms  baudas už
+šio įstatymo
 pažeidimus.
      Įmonės,
 pagaminusios  ir  išleidusios  alkoholio  produktus,
@@ -1901,8 +1922,8 @@ punktuose, 
 ketvirtojoje  ir  penktojoje  šio  straipsnio  dalyse
 numatytų  
 alkoholio    produktų   realizavimo   reikalavimų   ar
-pažeidusios 
-prekybos   alkoholiniais  gėrimais  tvarką,  privalo
+pažeidusios  prekybos  
+alkoholiniais  gėrimais  tvarką,  privalo
 sumokėti iki  10
 procentų  jų metinės bendrosios apyvartos dydžio
 baudą.
@@ -1969,11 +1990,12 @@ alkoholio produktų 
 gamybą, importą,  eksportą ar prekybą be šiai
 veiklai 
 reikalingo   leidimo,  kaip  ir  už  alkoholinių  gėrimų
-pardavimo rėmimą 
-ir  (ar)  reklamą,  skiria  VTAKT  (už  reklamą
-spaudoje baudą 
-skiria Spaudos  kontrolės valdyba prie Teisingumo
-ministerijos).
+pardavimo  rėmimą 
+ir  (ar)  reklamą,  skiria  VTAKT  (už reklamą
+spaudoje,  per 
+radiją  ir  televiziją  baudą  skiria  Visuomenės
+informavimo
+priemonių valdyba prie Teisingumo ministerijos).
      Šiame 
 straipsnyje   numatytos  baudos  išieškomos  įstatymų
 nustatyta tvarka ne
@@ -1981,12 +2003,18 @@ vėliau kaip per mėnesį nuo pažeidimo padarymo
 dienos.
  
      Pakeitimai:
-     1. Lietuvos
+  1. Lietuvos
 Respublikos 1995 07 03
      Įstatymas Nr.
 1-987
      Žin., 1995, Nr.
 1-1527
+  2. Lietuvos
+Respublikos 1995 12 26
+     Įstatymas Nr.
+1-1156
+     Žin., 1996,
+Nr.1-195
  
  
      45 straipsnis.
@@ -2014,11 +2042,11 @@ nutarimas paskirti baudą.
 Nesumokėtų piniginių baudų išieškojimas ir
                    
 delspinigių už laiku nesumokėtas pinigines
-                    baudas
-skaičiavimas
+                   
+baudas skaičiavimas
  
-     Ūkio 
-subjektų   nesumokėtas  pinigines   baudas  kartu   su
+     Ūkio  subjektų   nesumokėtas 
+pinigines   baudas  kartu   su
 delspinigiais,
 kurie  už  kiekvieną  dieną  sudaro  0,2  procento
 piniginės baudos, 
@@ -2077,7 +2105,7 @@ pažeidimus taikymo
 ir jo pagrindimas skelbiami viešai.
  
  
-     49 straipsnis.
+     49 straipsnis.
 Nuostolių atlyginimo tvarka
  
      Nuostoliai, 
@@ -2086,8 +2114,8 @@ straipsnio 
 pirmojoje   dalyje  nurodytų   institucijų  nutarimų,
 pažeidžiančių šio 
 įstatymo reikalavimus, atlyginami iš nutarimus
-priėmusių
-institucijų  lėšų, kurios  vėliau išieškomos iš kaltųjų
+priėmusių institucijų 
+lėšų, kurios  vėliau išieškomos iš kaltųjų
 asmenų.
  
  
@@ -2099,7 +2127,7 @@ skirstymo tvarka
      Lėšos, kurios
 šio įstatymo nustatyta tvarka išieškomos į šio
 įstatymo 44 
-straipsnio pirmojoje  dalyje nurodytos  institucijos
+straipsnio pirmojoje  dalyje nurodytos  institucijos
 sąskaitą pagal  šios
 institucijos  pareigūnų  priimtus  nutarimus
 taikyti ekonomines
@@ -2123,7 +2151,7 @@ Respublikos Vyriausybės  nustatytos  dalys  jos
 nustatyta tvarka 
 skiriamos šio  įstatymo 44 straipsnio pirmojoje
 dalyje  
-nurodytos    institucijos   pareigūnams   ir   asmenims,
+nurodytos    institucijos   pareigūnams   ir   asmenims,
 padėjusiems
 išaiškinti  Alkoholio kontrolės  įstatymo pažeidimus,
 dėl kurių  buvo
@@ -2150,8 +2178,7 @@ institucijos sąskaitą.
  
      51 straipsnis.
 Ginčai dėl Alkoholio kontrolės įstatymo
-                   
-pažeidimų
+                    pažeidimų
  
      Juridinių  ir  
 fizinių  asmenų   ginčai  dėl  šio  įstatymo
@@ -2172,7 +2199,7 @@ sutartyse nenumatyta kitaip.
 SKYRIUS. BAIGIAMOSIOS NUOSTATOS
  
  
-     52 straipsnis.
+     52 straipsnis.
 Alkoholio kontrolės įstatymo įsigaliojimas
  
      Alkoholio 
