@@ -314,8 +314,8 @@ Nr. IX-1247,
 15 straipsnis. Sąlygos, kuriomis ligos pašalpa nemokama
 1. Ligos pašalpa nemokama, jeigu atitinkamos institucijos nustato,
 kad apdraustasis asmuo:
-1) tapo laikinai nedarbingas dėl traumos, kurią gavo darydamas
-nusikaltimą;
+1)
+tapo laikinai nedarbingas dėl traumos, kurią gavo darydamas nusikalstamą veiką;
 2) sužalojo savo sveikatą arba apsimetė sergančiu;
 3) laikinai nedarbingas dėl piktnaudžiavimo alkoholiu,
 narkotinėmis, toksinėmis ar psichotropinėmis medžiagomis. 
@@ -325,6 +325,11 @@ arba, kaip teisės aktų nustatyta, pasitikrinti darbingumo, ligos pašalpa gali
 būti neskiriama arba jos mokėjimas nutraukiamas nuo pažeidimo padarymo dienos
 Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų
 nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1419,
+2003-04-03, Žin., 2003, Nr. 38-1664 (2003-04-24), įsigalioja nuo 2003-05-01
  
 TREČIASIS SKIRSNIS
 MOTINYSTĖS
@@ -338,17 +343,8 @@ motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu turi pagal šio
 įstatymo 4 straipsnio 1 dalį apdrausti asmenys, kuriems suteiktos nėštumo ir
 gimdymo atostogos, jeigu jie iki pirmosios nėštumo ir gimdymo atostogų dienos
 turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį
-kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio
-draudimo stažą.
- 
-2 dalies redakcija iki 2003 m. vasario 1 d.:
-2. Pagrindas skirti motinystės pašalpą nėštumo ir
-gimdymo atostogų laikotarpiu yra nėštumo ir gimdymo atostogų pažymėjimas, išduotas
-pagal Sveikatos apsaugos ir Socialinės apsaugos ir darbo ministerijų
-patvirtintas Nedarbingumo pažymėjimų bei nėštumo ir gimdymo atostogų pažymėjimų
-davimo taisykles.
-16 straipsnis papildomas nauja 2 dalimi, 2 dalis
-laikoma 3 dalimi nuo 2003 m. vasario 1 d.:
+kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo
+stažą.
 2. Moteriai, atleistai iš darbo nėštumo metu arba
 nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos
 likvidavimo ar bankroto ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir
@@ -413,9 +409,6 @@ pašalpų arba pagal pasirinkimą.
 3. Asmeniui, neturinčiam teisės gauti motinystės (tėvystės)
 pašalpos iš Valstybinio socialinio draudimo fondo lėšų, mokama pašalpa pagal
 Valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymą.
- 
-19 straipsnis papildomas 4 ir 5 dalimis nuo 2003 m.
-vasario 1 d.:
 4. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka
 išleistam vaiko iki vienerių metų priežiūros atostogų bei gaunančiam motinystės
 (tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos
@@ -494,10 +487,11 @@ rodiklių patvirtinimo įstatymu.
  
 24 straipsnis. Valstybinio socialinio draudimo įmokų mokėjimo
 tvarka
-Ligos ir motinystės socialiniam draudimui skirtos valstybinio socialinio
-draudimo įmokos už kiekvieną apdraustąjį asmenį, nurodytą šio įstatymo 4
-straipsnio 1 dalyje, skaičiuojamos ir mokamos įstatymų nustatyta tvarka kartu
-su kitomis privalomosiomis valstybinio socialinio draudimo įmokomis.
+Ligos ir motinystės socialiniam draudimui skirtos valstybinio
+socialinio draudimo įmokos už kiekvieną apdraustąjį asmenį, nurodytą šio
+įstatymo 4 straipsnio 1 dalyje, skaičiuojamos ir mokamos įstatymų nustatyta
+tvarka kartu su kitomis privalomosiomis valstybinio socialinio draudimo
+įmokomis.
  
 PENKTASIS SKIRSNIS
 BAIGIAMOSIOS
@@ -517,9 +511,9 @@ nuostatus.
 1. Šis įstatymas įsigalioja nuo
 2001 m. sausio 1 d.
 2. Šio įstatymo nuostatos taikomos asmenims, nuo šio įstatymo
-įsigaliojimo tapusiems laikinai nedarbingais dėl motinystės, motinystės (tėvystės),
-taip pat dėl ligos arba traumos, išskyrus atvejus, kuriuos numato Nelaimingų
-atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas. 
+įsigaliojimo tapusiems laikinai nedarbingais dėl motinystės, motinystės
+(tėvystės), taip pat dėl ligos arba traumos, išskyrus atvejus, kuriuos numato
+Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas. 
 3. Ligos, motinystės ir motinystės (tėvystės) pašalpos, paskirtos
 iki šio įstatymo įsigaliojimo, neperskaičiuojamos ir mokamos pagal iki šio
 įstatymo įsigaliojimo nustatytą tvarką.
@@ -591,10 +585,22 @@ IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 16 IR 19 STRAIPSNIŲ PAPILDYMO
 atleistiems iš darbo dėl įmonės, įstaigos ar organizacijos likvidavimo ar
 bankroto iki šio Įstatymo įsigaliojimo. 
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1419,
+2003-04-03, Žin., 2003, Nr. 38-1664 (2003-04-24)
+LIGOS
+IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2003 m. gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2003-02-04)
-                
-autrap@lrs.lt
+Aušra Bodin (2003-04-25)
+                 
+aubodi@lrs.lt
