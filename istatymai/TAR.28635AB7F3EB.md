@@ -14,7 +14,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.28635AB7F3EB"
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymas
 
 Redagavo:
-Ramunė Lūžaitė (1997.12.03)
+Ramunė Lūžaitė (1998.01.28)
+ 
  
 Įstatymas
 paskelbtas: Žin., 1997, Nr.60-1398
@@ -33,6 +34,15 @@ LIETUVOS
 RESPUBLIKOS LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO
 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. VIII-613,
+98.01.15, Žin., 1998, Nr.9-199 (98.01.28)
+LIETUVOS
+RESPUBLIKOS LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO
+6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -50,8 +60,8 @@ Vilnius
 Lietuvos Respublikos Seimas,
 vadovaudamasis tarptautinės bendrijos visuotinai
 pripažinta nuostata, kad žmonių naikinimas bet kuriuo tikslu yra nusikaltimas,
-atsižvelgdamas į tai, kad Lietuvos Respublika
-prisijungė prie 1948 m. gruodžio 
+atsižvelgdamas į tai, kad Lietuvos Respublika prisijungė
+prie 1948 m. gruodžio 
 9 d. Konvencijos dėl kelio užkirtimo genocido nusikaltimui ir baudimo už jį bei
 1968 m. lapkričio 26 d. Konvencijos dėl senaties termino netaikymo už karinius
 nusikaltimus ir nusikaltimus žmonijai,
@@ -64,8 +74,8 @@ konstatuodamas, kad Lietuvos gyventojų fizinis ir
 dvasinis genocidas bei nusikaltimai žmonijai ir žmoniškumui buvo vykdomi
 okupacijų laikotarpiu,
 konstatuodamas, kad 1940-1990 m. Lietuvoje
-įvairiomis formomis (karinėmis ir politinėmis) vyko pasipriešinimas (rezistencija)
-SSRS ir Vokietijos okupacinėms valdžioms,
+įvairiomis formomis (karinėmis ir politinėmis) vyko pasipriešinimas
+(rezistencija) SSRS ir Vokietijos okupacinėms valdžioms,
 pripažindamas, kad didelė Lietuvos gyventojų dalis
 žuvo laisvės kovose arba tapo genocido, nusikaltimų žmonijai ir žmoniškumui bei
 karo nusikaltimų aukomis ir turi būti atmenama, deramai pagerbta ir įamžinta,
@@ -95,8 +105,8 @@ tyrimo centras (toliau - Centras) yra tarpžinybinė valstybės institucija,
 tirianti visas genocido, nusikaltimų žmonijai ir žmoniškumui apraiškas,
 Lietuvos gyventojų persekiojimą okupacijų metais, taip pat ginkluoto ir
 neginkluoto pasipriešinimo okupacijoms procesus, inicijuojanti genocido
-organizatorių ir vykdytojų teisinį įvertinimą. Centras koordinuoja kitų institucijų
-vykdomus šiuo įstatymu apibrėžtos srities tyrimo darbus. 
+organizatorių ir vykdytojų teisinį įvertinimą. Centras koordinuoja kitų
+institucijų vykdomus šiuo įstatymu apibrėžtos srities tyrimo darbus. 
 2. Centras turi teisę programų vykdymui sudaryti
 tarpžinybines darbo grupes. Jose pagal sutartis gali dirbti kitų žinybų ir
 organizacijų specialistai.
@@ -122,9 +132,9 @@ UŽDAVINIAI IR FUNKCIJOS
 Centro uždaviniai - istorinės tiesos ir teisingumo
 atkūrimas, okupacinių režimų 1939-1990 metais vykdyto Lietuvos gyventojų
 fizinio bei dvasinio genocido ir pasipriešinimo šiems režimams tyrimas, laisvės
-kovotojų ir genocido aukų atminimo įamžinimas, okupacijos padarinių teisinio
-įvertinimo inicijavimas. Centras taip pat tiria 1920-1939 m. Vilniaus krašte
-okupacinio režimo vykdytą politiką bei pasipriešinimo jai procesus.
+kovotojų ir genocido aukų atminimo įamžinimas, okupacijos padarinių teisinio įvertinimo
+inicijavimas. Centras taip pat tiria 1920-1939 m. Vilniaus krašte okupacinio
+režimo vykdytą politiką bei pasipriešinimo jai procesus.
  
 5 straipsnis. Centro funkcijos
  
@@ -140,8 +150,8 @@ totalitarinių režimų esmę, genocido bei nusikaltimų žmoniškumui ir karo
 nusikaltimų vykdymo sistemą, nustato genocido organizatorius bei vykdytojus ir
 pateikia medžiagą apie juos; inicijuoja baudžiamųjų bylų iškėlimą;
 3) renka, analizuoja ir apibendrina medžiagą apie
-pasipriešinimą okupaciniams režimams, pogrindinių organizacijų veiklą, partizanų
-judėjimą ir laisvės kovų dalyvius;
+pasipriešinimą okupaciniams režimams, pogrindinių organizacijų veiklą,
+partizanų judėjimą ir laisvės kovų dalyvius;
 4) skelbia mokslinę, informacinę, analitinę
 medžiagą, leidžia leidinius apie Lietuvos gyventojų genocidą ir pasipriešinimą
 okupaciniams režimams, rengia mokslines konferencijas, dalyvauja kitų
@@ -161,10 +171,10 @@ komiteto (KGB) LSSR padalinio, buvusios LSSR vidaus reikalų ministerijos ir
 Lietuvos komunistų partijos, buvusių LSSR institucijų pirmųjų skyrių) archyvų
 saugojimo, tvarkymo ir naudojimo klausimus Vyriausybės patvirtinto reglamento
 tvarka; sukuria bendras darbo grupes informacinės paieškos sistemai kurti;
-9) tiria archyvinę medžiagą ir teikia informaciją juridiniams
-bei fiziniams asmenims apie okupacijų laikotarpiu žuvusius, dingusius be
-žinios, represuotus, persekiotus, nukentėjusius Lietuvos gyventojus ir karius
-savanorius;
+9) tiria archyvinę medžiagą ir teikia informaciją
+juridiniams bei fiziniams asmenims apie okupacijų laikotarpiu žuvusius,
+dingusius be žinios, represuotus, persekiotus, nukentėjusius Lietuvos
+gyventojus ir karius savanorius;
 10) inicijuoja, skatina ir remia memorialinių
 kompleksų, paminklų statybos, atminimo ženklų, kino filmų, monografijų kūrimo
 projektus ir skelbia viešus konkursus jiems įgyvendinti;
@@ -194,9 +204,9 @@ vykdo edukacines programas studentams ir moksleiviams;
 rezistencija, paieškomis Lietuvoje ir kitose valstybėse, jų susigrąžinimu ar
 kopijų įsigijimu, kaupia rašytinę, foto-, fono-, filmuotą medžiagą apie
 genocidą ir rezistenciją;
-17) inicijuoja visapusišką genocido ir okupacijos
-padarinių teisinį įvertinimą, taip pat genocidą ir Lietuvos gyventojų
-persekiojimą vykdžiusių organizacijų bei žinybų pripažinimą nusikalstamomis;
+17) inicijuoja visapusišką genocido ir okupacijos padarinių
+teisinį įvertinimą, taip pat genocidą ir Lietuvos gyventojų persekiojimą
+vykdžiusių organizacijų bei žinybų pripažinimą nusikalstamomis;
 18) fiksuoja genocido ir Lietuvos gyventojų
 persekiojimo faktus ir teikia medžiagą apie konkrečius genocido vykdytojus
 valstybės teisėsaugos institucijoms; bendradarbiauja su šiomis institucijomis,
@@ -253,7 +263,10 @@ organizacijų, Pasaulio lietuvių bendruomenės ir kitų valstybinių institucij
 visuomeninių organizacijų atstovų.
 6. Prie Centro veikia Lietuvos gyventojų genocido ir
 rezistencijos tyrimo, aukų rėmimo ir įamžinimo fondas, šį steigia ir nuostatus
-tvirtina Vyriausybė.
+tvirtina Vyriausybė. Lėšos šiam fondui skiriamos iš valstybės biudžeto.
+Genocido ir rezistencijos aukoms remti išmokama ne mažiau  kaip 80 procentų iš
+valstybės biudžeto šiam fondui skirtų lėšų.  Nuostatuose nustatyta tvarka lėšos
+fondui gali būti kaupiamos ir iš kitų  šaltinių.
 7. Už savo veiklą Centras atsiskaito Seimui ir
 Vyriausybei.
 8. Centro kompetenciją, struktūrą ir funkcijas
@@ -265,6 +278,8 @@ generalinio direktoriaus teikimu tvirtina Vyriausybė.
 Straipsnio pakeitimai:
 Nr.
 VIII-514, 97.11.13, Žin., 1997, Nr.108-2732 (97.11.28)
+Nr. VIII-613,
+98.01.15, Žin., 1998, Nr.9-199 (98.01.28)
  
  
 KETVIRTASIS
