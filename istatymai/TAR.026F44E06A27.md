@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.026F44E06A27"
 
 # Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas
 
-Suvestinė redakcija nuo 1995-07-05 iki 1997-07-08
+Suvestinė redakcija nuo 1997-07-09 iki 1999-12-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 54-1048, i. k. 0931010ISTA000I-270
  
@@ -295,7 +295,7 @@ Statistikos tarybos sudėtį ir nuostatus tvirtina Lietuvos Respublikos Vyriausy
 Apskričių statistikos valdybos, miestų ir rajonų statistikos skyriai pavaldūs Statistikos departamentui. Jie:
 
 
-1) atlieka statistikos darbus, numatytus Statistikos departamento metinėse darbų programose, gali atlikti kitus statistikos darbus, kuriuos paveda ir finansuoja apskrities valdytojas ir savivaldybės; 
+1) atlieka statistikos darbus, numatytus Statistikos departamento metinėse darbų programose, gali atlikti kitus statistikos darbus, kuriuos paveda ir finansuoja apskrities viršininkas ir savivaldybės;
 
 
 
@@ -308,12 +308,12 @@ aplinkos apsaugą,
 ekonomiką,
 memorialinius objektus,
 politinių partijų, politinių ir visuomeninių organizacijų bei profesinių sąjungų veiklą.
-Šiam tikslui statistikos valdybos ir skyriai naudoja savo sukauptą ir kitų apskrities valdytojo administracijos ir savivaldybės administracijos padalinių surinktą statistikos medžiagą, nurodydami šaltinius ar autoriu.
+Šiam tikslui statistikos valdybos ir skyriai naudoja savo sukauptą ir kitų apskrities viršininko administracijos ir savivaldybės administracijos padalinių surinktą statistikos medžiagą, nurodydami šaltinius ar autorius.
 
 
 
 
-3) nemokamai teikia apskričių valdytojams ir vietos savivaldos institucijoms statistikos informaciją, pagal sutartis teikia ir mokamą statistikos informaciją;
+3) nemokamai teikia apskričių viršininkams ir vietos savivaldos institucijoms statistikos informaciją, pagal sutartis teikia ir mokamą statistikos informaciją;
 
 
 
@@ -325,6 +325,7 @@ politinių partijų, politinių ir visuomeninių organizacijų bei profesinių s
 
 Straipsnio pakeitimai:
 Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
+Nr. VIII-312, 1997-06-26, Žin., 1997, Nr. 65-1542 (1997-07-09), i. k. 0971010ISTAVIII-312
  
 
 
@@ -338,9 +339,10 @@ Statistikos informaciją, atitinkančią jų veiklos pobūdį, nedubliuodamos va
 
 
 
-Statistikos tyrimus Lietuvos Respublikos Vyriausybės, apskričių valdytojų ar vietos savivaldos institucijų pavedimu gali atlikti kitos įstaigos ir organizacijos, jei užsakovas apmoka. 
+Statistikos tyrimus Lietuvos Respublikos Vyriausybės, apskričių viršininkų ar vietos savivaldos institucijų pavedimu gali atlikti kitos įstaigos ir organizacijos, jei užsakovas apmoka.
 Straipsnio dalies pakeitimai:
 Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
+Nr. VIII-312, 1997-06-26, Žin., 1997, Nr. 65-1542 (1997-07-09), i. k. 0971010ISTAVIII-312
  
 
 
@@ -372,9 +374,10 @@ Valstybiniai statistikos tyrimai rengiami pagal statistikos darbų programą arb
 
 
 
-Apskričių valdytojai ir vietos savivaldos institucijos gali atlikti statistikos tyrimus savo teritorijoje. Šių tyrimų atlikimo tvarką nustato atitinkamai apskričių statistikos valdybos, miestų ir rajonų statistikos skyriai ar kitos juos atliekančios tarnybos. 
+Apskričių viršininkai ir vietos savivaldos institucijos gali atlikti statistikos tyrimus savo teritorijoje. Šių tyrimų atlikimo tvarką nustato atitinkamai apskričių statistikos valdybos, miestų ir rajonų statistikos skyriai ar kitos juos atliekančios tarnybos.
 Straipsnio dalies pakeitimai:
 Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
+Nr. VIII-312, 1997-06-26, Žin., 1997, Nr. 65-1542 (1997-07-09), i. k. 0971010ISTAVIII-312
  
 
 
@@ -419,9 +422,10 @@ Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA0
 12 straipsnis. Statistikos duomenų pateikimo prievolė
 
 
-Statistikos duomenis korespondencijos būdu statistikos tarnyboms privalo teikti visų nuosavybės formų įmonės, įstaigos ir organizacijos, ministerijos, kitos valstybės valdymo institucijos, savivaldybės, apskričių valdytojai, vietos savivaldos institucijos, politinės partijos, kitos politinės ir visuomeninės organizacijos, profesinės sąjungos bei fiziniai asmenys. Duomenys rengiami, išnagrinėjus metodinius nurodymus ir remiantis atitinkamais dokumentais, o pateikiami statistikos tarnybų nustatytu laiku.
+Statistikos duomenis korespondencijos būdu statistikos tarnyboms privalo teikti visų nuosavybės formų įmonės, įstaigos ir organizacijos, ministerijos, kitos valstybės valdymo institucijos, apskričių viršininkai, vietos savivaldos institucijos, politinės partijos, kitos politinės ir visuomeninės organizacijos, profesinės sąjungos bei fiziniai asmenys. Duomenys rengiami, išnagrinėjus metodinius nurodymus ir remiantis atitinkamais dokumentais, o pateikiami statistikos tarnybų nustatytu laiku. 
 Straipsnio dalies pakeitimai:
 Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
+Nr. VIII-312, 1997-06-26, Žin., 1997, Nr. 65-1542 (1997-07-09), i. k. 0971010ISTAVIII-312
  
 
 
@@ -511,3 +515,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
 Dėl Lietuvos Respublikos statistikos įstatymo pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-312, 1997-06-26, Žin., 1997, Nr. 65-1542 (1997-07-09), i. k. 0971010ISTAVIII-312
+Lietuvos Respublikos statistikos įstatymo 8, 9, 10, 12 straipsnių pakeitimo įstatymas
