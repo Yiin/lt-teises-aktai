@@ -13,6 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7B05BA273A50"
 
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 1, 2, 34, 36, 37(1), 38, 42, 43, 44, 45, 46 straipsnių pakeitimo ir papildymo įstatymas
 
+Įstatymas netenka galios 2004-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1831, 2003-11-18, Žin., 2003, Nr. 113-5056 (2003-12-03), i. k. 1031010ISTA0IX-1831
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 1, 2, 34, 36, 38, 44, 45, 46 straipsnių pakeitimo ir įstatymo papildymo 33 straipsniu įstatymas
+ 
+Suvestinė redakcija nuo 2002-12-24 iki 2003-12-31
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 52-1983, i. k. 1021010ISTA00IX-869
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 1, 2, 34, 36, 371, 38, 42, 43, 44, 45, 46 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 Į S T A T Y M A S
@@ -211,21 +220,33 @@ Pakeisti 46 straipsnį ir jį išdėstyti taip:
 
 5. Apdraustų asmenų ginčai su draudėjais ir valstybinio socialinio draudimo fondo įstaigomis dėl pensijų, pašalpų ir kitų išmokų yra sprendžiami šiame įstatyme, Valstybinių socialinio draudimo pensijų įstatyme, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme, Ligos ir motinystės socialinio draudimo įstatyme bei kituose teisės aktuose nustatyta tvarka.
 
-6. Draudėjų skundai dėl papildomai priskaičiuotų valstybinio socialinio draudimo įmokų sumų, paskirtų baudų, priskaičiuotų delspinigių bei dėl kitų mokesčio administratoriaus pareigūnų veiksmų nagrinėjami Mokesčių administravimo įstatymo nustatyta tvarka.“
+6. Draudėjų skundai dėl papildomai priskaičiuotų valstybinio socialinio draudimo įmokų sumų, paskirtų baudų, priskaičiuotų delspinigių bei dėl kitų mokesčio administratoriaus pareigūnų veiksmų nagrinėjami Mokesčių administravimo įstatymo nustatyta tvarka.
+
+7. Ginčus dėl valstybinių socialinio draudimo pensijų stažo ir dėl draudžiamųjų bei joms prilyginamų pajamų nagrinėja teismas.“
+Papildyta straipsnio dalimi:
+Nr. IX-1229, 2002-12-10, Žin., 2002, Nr. 123-5521 (2002-12-24), i. k. 1021010ISTA0IX-1229
  
 
 12 straipsnis. Pasiūlymai Vyriausybei
 
-1. Vyriausybė Lietuvos Respublikos 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekte numato asignavimus Valstybinei mokesčių inspekcijai valstybinio socialinio draudimo įmokoms administruoti.
+1. Vyriausybė Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekte numato asignavimus Valstybinei mokesčių inspekcijai valstybinio socialinio draudimo įmokoms administruoti. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1229, 2002-12-10, Žin., 2002, Nr. 123-5521 (2002-12-24), i. k. 1021010ISTA0IX-1229
+ 
 
 2. Vyriausybė ar jos įgalioja institucija iki 2002 m. spalio 1 d. parengia būtinus teisės aktus, reglamentuojančius draudėjų registravimo Valstybinėje mokesčių inspekcijoje bei Valstybinės mokesčių inspekcijos ir Valstybinio socialinio draudimo fondo valdybos informacijos apie draudėjus apsikeitimo tvarką.
 
-3. Vyriausybė iki 2003 m. liepos 1 d. parengia būtinus teisės aktus valstybinio socialinio draudimo įmokų administravimo reformai įgyvendinti ir galiojančius teisės aktus suderina su Valstybinio socialinio draudimo įstatymu bei Mokesčių administravimo įstatymu.
+3. Vyriausybė iki 2004 m. sausio 1 d. parengia būtinus teisės aktus valstybinio socialinio draudimo įmokų administravimo reformai įgyvendinti ir galiojančius teisės aktus suderina su Valstybinio socialinio draudimo įstatymu bei Mokesčių administravimo įstatymu.
+Straipsnio dalies pakeitimai:
+Nr. IX-1229, 2002-12-10, Žin., 2002, Nr. 123-5521 (2002-12-24), i. k. 1021010ISTA0IX-1229
  
 
 13 straipsnis. Įstatymo įsigaliojimas
 
-1. Šis Įstatymas, išskyrus 12 straipsnį ir šio straipsnio 2 dalyje numatytą išlygą, įsigalioja nuo 2003 m. liepos 1 d.
+1. Šis Įstatymas, išskyrus 12 straipsnį ir šio straipsnio 2 dalyje numatytą išlygą, įsigalioja nuo 2004 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. IX-1229, 2002-12-10, Žin., 2002, Nr. 123-5521 (2002-12-24), i. k. 1021010ISTA0IX-1229
+ 
 
 2. Valstybinio socialinio draudimo įstatymo 44 straipsnio 1 dalis įsigalioja nuo 2002 m. spalio 1 d.
  
@@ -236,4 +257,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1229, 2002-12-10, Žin., 2002, Nr. 123-5521 (2002-12-24), i. k. 1021010ISTA0IX-1229
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 1, 2, 34, 36, 37(1), 38, 42, 43, 44, 45, 46 straipsnių pakeitimo ir papildymo įstatymo 11, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
 
