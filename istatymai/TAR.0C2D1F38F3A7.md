@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 1996-09-06 iki 1996-10-15
+Suvestinė redakcija nuo 1996-10-16 iki 1996-12-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
  
@@ -1258,11 +1258,11 @@ Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010IST
 
 
 
-4. Susirinkimo nutarimai priimami paprasta dalyvaujančių susirinkime akcininkų balsų dauguma, išskyrus šio įstatymo numatytus atvejus, kurių nutarimams reikia ne mažiau kaip 2/3 dalyvaujančiųjų balsų: pagal 10 straipsnio 10 dalį, 19 straipsnio 3 dalies 1, 5, 6, 7, 9 punktus, 31 straipsnio 3 dalį, 45 straipsnio 2 dalies 4 punktą ir 48 straipsnio 1 dalies 6 punktą.
-TAR pastaba. 4 dalies redakcija, galiojanti iki 1997-04-01.
+4. Susirinkimo nutarimai priimami paprasta dalyvaujančių susirinkime akcininkų balsų dauguma, išskyrus šio įstatymo numatytus atvejus, kurių nutarimams reikia ne mažiau kaip 2/3 dalyvaujančiųjų balsų: pagal 10 straipsnio 10 dalį, 19 straipsnio 3 dalies 1, 5, 6, 7, 9 punktus, 27 straipsnio 7 dalį, 31 straipsnio 3 dalį ir 48 straipsnio 1 dalies 6 punktą.
 Straipsnio dalies pakeitimai:
 Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
 Nr. I-1504, 1996-08-22, Žin., 1996, Nr. 84-2003 (1996-09-06), i. k. 0961010ISTA00I-1504
+Nr. I-1533, 1996-09-24, Žin., 1996, Nr. 100-2257 (1996-10-16), i. k. 0961010ISTA00I-1533
  
 
 
@@ -1719,9 +1719,10 @@ Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010IST
 
 
 
-7. Valdybos sprendimams dėl didesnės kaip 1/20 bendrovės įstatinio kapitalo vertės ilgalaikio turto dalies pardavimo, perleidimo, nuomos ar įkeitimo, taip pat laidavimo ar garantavimo juo kitų subjektų prievolių įvykdymą reikalingas visuotinio akcininkų susirinkimo nutarimas. Tokių sandorių, sudaromų be visuotinio akcininkų susirinkimo nutarimo, suminė vertė ūkiniais metais negali būti didesnė kaip 1/20 bendrovės įstatinio kapitalo vertės. 
+7. Valdybos sprendimams dėl didesnės kaip 1/20 bendrovės įstatinio kapitalo vertės ilgalaikio turto dalies pardavimo, perleidimo, nuomos ar įkeitimo, taip pat laidavimo ar garantavimo juo kitų subjektų prievolių įvykdymą reikalingas visuotinio akcininkų susirinkimo nutarimas, priimtas ne mažiau kaip 2/3 dalyvaujančiųjų balsų. Tokių sandorių, sudaromų be visuotinio akcininkų susirinkimo nutarimo, suminė vertė ūkiniais metais negali būti didesnė kaip 1/20 bendrovės įstatinio kapitalo vertės.
 Straipsnio dalies pakeitimai:
 Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+Nr. I-1533, 1996-09-24, Žin., 1996, Nr. 100-2257 (1996-10-16), i. k. 0961010ISTA00I-1533
  
 
 
@@ -3071,3 +3072,8 @@ Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 45 straipsnio laikino pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1504, 1996-08-22, Žin., 1996, Nr. 84-2003 (1996-09-06), i. k. 0961010ISTA00I-1504
 Lietuvos Respublikos akcinių bendrovių įstatymo 20, 45 straipsnių pakeitimo ir papildymo laikinasis įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1533, 1996-09-24, Žin., 1996, Nr. 100-2257 (1996-10-16), i. k. 0961010ISTA00I-1533
+Lietuvos Respublikos akcinių bendrovių įstatymo 20 ir 27 straipsnių pakeitimo ir papildymo įstatymas
