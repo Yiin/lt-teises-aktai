@@ -23,14 +23,13 @@ paskelbtas: Žin., 1996, Nr. 11-281
 Neoficialus
 įstatymo tekstas
  
- 
 LIETUVOS
 RESPUBLIKOS
 TABAKO KONTROLĖS
 ĮSTATYMAS
  
 1995 m. gruodžio
-20 d. Nr.I-1143
+20 d. Nr. I-1143
 Vilnius
  
  
@@ -56,16 +55,17 @@ medžiagų;
 tabako gaminių
 reklama - bet kokia forma ir bet kokiomis perdavimo priemonėmis skelbiama
 informacija, kuria tiesiogiai skatinamas tabako gaminių įsigijimas ar vartojimas;
-paslėpta tabako
-gaminių reklama - reklamos tikslu žodžiais ar vaizdais pateikiama informacija
-apie tabako gaminius gaminančias, importuojančias ar realizuojančias įmones, jų
-firmos vardą, prekės ženklą ar veiklą tokia forma, kuri gali suklaidinti reklamos
-vartotojus dėl šios informacijos pateikimo tikrojo tikslo. Toks informacijos
-pateikimas visais atvejais laikomas paslėpta reklama, kai už ją apmokama ar
-kitaip atsilyginama;
+paslėpta tabako gaminių reklama - reklamos tikslu
+žodžiais ar vaizdais pateikiama informacija apie tabako gaminius gaminančias,
+importuojančias ar realizuojančias įmones, jų firmos vardą, prekės ženklą ar
+veiklą tokia forma, kuri gali suklaidinti reklamos vartotojus dėl šios
+informacijos pateikimo tikrojo tikslo. Toks informacijos pateikimas visais
+atvejais laikomas paslėpta reklama, kai už ją apmokama ar kitaip atsilyginama;
 tabako gaminių
 rėmimas – vartotojui skirti informavimo ir įtikinėjimo veiksmai, skatinantys
-apsispręsti pirkti tabako gaminius;
+apsispręsti pirkti tabako gaminius. Rėmimu nelaikomas tabako gaminių
+gamintojo (rėmėjo) pavadinimo ar prekių ženklo vaizdavimas gamintojo (rėmėjo)
+remiamų renginių metu ir šių renginių rėmėjų sąrašuose;
             tabako ir jo gaminių
 kontrolė - šiame įstatyme ir kituose teisės aktuose numatytų tabako gaminių
 gamybos, importo, vidaus prekybos, vartojimo, tabako reklamos valstybinio
@@ -74,7 +74,18 @@ kenksmingoms pasekmėms sveikatai ir ūkiui mažinti, visuma;
 švietimo
 įstaigos - ikimokyklinio ugdymo įstaigos, bendrojo lavinimo, profesinės,
 aukštesniosios mokyklos, vaikų papildomo ugdymo įstaigos: meno, sporto, kalbų,
-technikos, kitokio profilio mokyklos, taip pat vaikų vasaros stovyklos.
+technikos, kitokio profilio mokyklos, taip pat vaikų vasaros stovyklos;
+prekybos tabako
+gaminiais vieta – parduotuvių, kioskų, paviljonų, restoranų, kavinių, barų,
+bufetų, kitos tabako gaminiais prekiaujančių įmonių patalpos (įskaitant
+autoparduotuves), kuriose tabako gaminiai parduodami vartotojui (aptarnaujant
+pirkėjus lauko sąlygomis, prekybos tabako gaminiais vieta laikoma kasos aparato
+įrengimo vieta), bei patalpos, kuriose vykdoma tabako gaminių didmeninė
+prekyba;
+socialinė
+reklama – socialinės gerovės, apimančios sveikos gyvensenos, sveikatos
+stiprinimo, ligų ir žalingų sveikatai įpročių profilaktiką, propagavimas bet
+kokiomis reklamos formomis ir priemonėmis.
 Straipsnio
 pakeitimai:
 Lietuvos
@@ -84,7 +95,8 @@ Respublikos Konstitucinis Teismas, Nutarimas
 Nr.
 VIII-1178,
 99.05.11, Žin., 1999, Nr.50-1597 (99.06.09)
- 
+Nr. IX-942, 2002-06-11,
+Žin., 2002, Nr. 68-2757 (2002-07-03)
  
      2
 straipsnis. Tabako kontrolės įstatymo paskirtis ir jo reguliuojami santykiai
@@ -112,8 +124,8 @@ IMPORTO REGULIAVIMAS
 straipsnis. Valstybės tabako kontrolės politikos principai
      Valstybės
 tabako kontrolės politikos principai:
-     1) ginti žmogaus
-teises į gyvenimą be rūkymo;
+     1) ginti
+žmogaus teises į gyvenimą be rūkymo;
      2) ginti
 nerūkančiųjų teises į aplinką be tabako dūmų;
      3)
@@ -142,9 +154,8 @@ straipsnis. Tabako auginimas
      Tabaką
 auginti leidžiama juridiniams ir fiziniams asmenims, turintiems Lietuvos
 Respublikos Vyriausybės nustatyta tvarka išduotą leidimą, taip pat turintiems
-asmeniniam naudojimui iki 100 kvadratinių metrų žemės ploto - be leidimo.
-Maksimalų žemės ploto tabakui auginti dydį nustato Lietuvos Respublikos
-Vyriausybė.
+asmeniniam naudojimui iki 100 kvadratinių metrų žemės ploto - be leidimo. Maksimalų
+žemės ploto tabakui auginti dydį nustato Lietuvos Respublikos Vyriausybė.
  
      5
 straipsnis. Tabako gaminių asortimento ribojimas
@@ -153,20 +164,20 @@ Respublikoje draudžiama gaminti uostomąjį ir kramtomąjį tabaką.
  
 6 straipsnis. Teisė
 gaminti tabako gaminius
-Lietuvos Respublikoje
-įmonėms draudžiama gaminti tabako gaminius be Lietuvos Respublikos Vyriausybės
-ar jos pavedimu Valstybinės tabako ir alkoholio kontrolės tarnybos prie
-Lietuvos Respublikos Vyriausybės (toliau - VTAKT) nustatyta tvarka išduotos
-licencijos. Licencija gaminti tabako gaminius išduodama neterminuotam laikui ir
-kasmet perregistruojama.
+Lietuvos Respublikoje įmonėms draudžiama gaminti
+tabako gaminius be Lietuvos Respublikos Vyriausybės ar jos pavedimu Valstybinės
+tabako ir alkoholio kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės
+(toliau – VTAKT) nustatyta tvarka išduotos licencijos. Licencija gaminti tabako
+gaminius išduodama neterminuotam laikui.
 Tabako gaminių
 gamybos licencijavimo taisykles, remdamasi šiuo ir Lietuvos Respublikos įmonių
 įstatymu, nustato Lietuvos Respublikos Vyriausybė.
 Straipsnio
 pakeitimai;
-Nr. VIII-1568, 00.03.16, Žin., 2000, Nr.28-758
-(00.04.05)
- 
+Nr. VIII-1568, 00.03.16, Žin., 2000,
+Nr.28-758 (00.04.05)
+Nr. IX-942,
+2002-06-11, Žin., 2002, Nr. 68-2757 (2002-07-03)
  
      7
 straipsnis. Tabako gaminių kokybės ir kenksmingų medžiagų kiekių juose 
@@ -177,11 +188,11 @@ Respublikos teisės aktų, kurie rengiami ir tvirtinami Lietuvos Respublikos
 Vyriausybės nustatyta tvarka, reikalavimus.
      Sveikatai
 kenksmingų medžiagų maksimalius kiekius tabako gaminiuose reglamentuoja
-higienos normos, kurios rengiamos ir tvirtinamos Lietuvos Respublikos Vyriausybės
-nustatyta tvarka.
-     Įmonės,
-pagaminusios ir (ar) realizavusios tabako gaminius, kurie neatitinka nustatytų
-kokybės reikalavimų, su sveikatai kenksmingų medžiagų kiekiais, kurie viršija
+higienos normos, kurios rengiamos ir tvirtinamos Lietuvos Respublikos
+Vyriausybės nustatyta tvarka.
+     Įmonės, pagaminusios
+ir (ar) realizavusios tabako gaminius, kurie neatitinka nustatytų kokybės
+reikalavimų, su sveikatai kenksmingų medžiagų kiekiais, kurie viršija
 nustatytas normas, atsako pagal įstatymus ir kitus teisės aktus.
      Tabako
 gaminių kokybės ir higienos rodiklių atitikimo norminių dokumentų reikalavimams
@@ -203,20 +214,21 @@ Nr.
 VIII-1178,
 99.05.11, Žin., 1999, Nr.50-1597 (99.06.09)
  
- 
      8
 straipsnis. Tabako gaminių importo reikalavimai
      Lietuvos Respublikos, kitų šalių piliečiams
 leidžiamą įvežti į Lietuvos Respubliką asmeniniam vartojimui tabako gaminių
 kiekį nustato Lietuvos Respublikos Vyriausybė. Uostomojo ir kramtomojo tabako
 gaminių importas į Lietuvos Respubliką draudžiamas.
-Įmonėms
-importuoti tabaką ir tabako gaminius į Lietuvos Respubliką draudžiama:
+Įmonėms importuoti
+tabaką ir tabako gaminius į Lietuvos Respubliką draudžiama:
 1) be Lietuvos
 Respublikos Vyriausybės ar jos pavedimu VTAKT išduotos licencijos;
-2) be įmonės
-gamintojos išduoto pažymėjimo (sertifikato), liudijančio kiekvienos tabako
-gaminių siuntos kokybę;
+2) be įmonės gamintojos išduotos atitikties
+deklaracijos ir (ar) pažymėjimo (sertifikato), liudijančių kiekvienos tabako
+gaminių siuntos kokybę, o importuojant tabako gaminių gamybai skirtą tabaką, –
+be gamintojo išduotos atitikties deklaracijos, liudijančios, kad tabakas tinka
+tabako gaminių gamybai;
 3) be užrašų
 lietuvių kalba ant tabako gaminių pakuočių šoninių pusių apie juose esančių
 maksimaliai leistinų dervų ir nikotino kiekius;
@@ -229,10 +241,10 @@ poveikį sveikatai.
 leidžiama importuoti į Lietuvos Respubliką tik tokius tabako gaminius, kuriuose
 sveikatai kenksmingų medžiagų kiekiai neviršija normų, nustatytų Lietuvos
 Respublikos teisės aktuose.
-Tabako ir tabako gaminių
-importo licencijavimo taisykles, remdamasi šiuo ir Lietuvos Respublikos įmonių
-įstatymu, nustato Lietuvos Respublikos Vyriausybė. Licencija importuoti tabako
-gaminius išduodama neterminuotam laikui ir kasmet perregistruojama.
+Tabako ir tabako
+gaminių importo licencijavimo taisykles, remdamasi šiuo ir Lietuvos Respublikos
+įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė. Licencija importuoti
+tabako gaminius išduodama neterminuotam laikui.
 Įmonėms,
 turinčioms licencijas importuoti į Lietuvos Respubliką tabaką ar tabako
 gaminius, perduoti pagal sutartį teisę importuoti juos kitiems ūkio subjektams
@@ -248,16 +260,17 @@ pakeitimai:
 Nr.
 VIII-1178,
 99.05.11, Žin., 1999, Nr.50-1597 (99.06.09)
-Nr. VIII-1568, 00.03.16, Žin., 2000, Nr.28-758
-(00.04.05)
- 
+Nr. VIII-1568, 00.03.16, Žin., 2000,
+Nr.28-758 (00.04.05)
+Nr. IX-942,
+2002-06-11, Žin., 2002, Nr. 68-2757 (2002-07-03)
  
      9
 straipsnis. Leidimai vidaus prekybai tabako gaminiais
 Didmeninė prekyba tabako
 gaminiais leidžiama tik turint Lietuvos Respublikos Vyriausybės ar jos pavedimu
-VTAKT išduotas licencijas. Licencija didmeninei prekybai tabako gaminiais išduodama
-neterminuotam laikui ir kasmet perregistruojama.
+VTAKT išduotas licencijas. Licencija didmeninei prekybai tabako gaminiais
+išduodama neterminuotam laikui.
 Mažmeninė prekyba tabako
 gaminiais leidžiama tik turint atitinkamos savivaldos vykdomosios institucijos
 nustatyta tvarka išduotas licencijas.
@@ -268,7 +281,8 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1568, 00.03.16, Žin., 2000,
 Nr.28-758 (00.04.05)
- 
+Nr. IX-942,
+2002-06-11, Žin., 2002, Nr. 68-2757 (2002-07-03)
  
 10
 straipsnis. Tabako gaminių pardavimo ribojimai ir vidaus prekybos jais
@@ -279,8 +293,12 @@ Respublikoje prekiauti uostomuoju ir kramtomuoju tabaku yra draudžiama.
 Lietuvos
 Respublikoje realizuoti, laikyti, gabenti tabako gaminius, išskyrus tranzitu
 gabenamus ir eksportuojamus, draudžiama:
-1) be įmonės
-gamintojos išduoto pažymėjimo (sertifikato), liudijančio šių gaminių kokybę;
+1) be įmonės gamintojos išduotos atitikties
+deklaracijos ir (ar) pažymėjimo (sertifikato), liudijančių šių gaminių kokybę,
+arba be žymos juridinę galią turinčiuose tabako gaminius lydinčiuose
+dokumentuose, kad tabako gaminių kokybė atitinka normatyvinių dokumentų
+reikalavimus. Tabako gaminių kokybę liudijančių dokumentų įforminimo
+reikalavimus nustato Lietuvos Respublikos Vyriausybės įgaliota institucija;
 2) jeigu juose
 esančių sveikatai kenksmingų medžiagų kiekiai viršija Lietuvos Respublikos
 norminiuose dokumentuose nustatytas normas;
@@ -299,12 +317,17 @@ gaminių prekinis žymėjimas neatitinka šio įstatymo ir Lietuvos Respublikos
 teisės aktų reikalavimų;
 8) asmenims iki
 18 metų;
-9) be gaminių
-įsigijimą patvirtinančių juridinę galią turinčių dokumentų;
+9) be tabako
+gaminių įsigijimą patvirtinančių juridinę galią turinčių dokumentų. Tabako
+gaminių įsigijimą patvirtinantys juridinę galią turintys dokumentai turi būti
+visose tabako gaminių realizavimo, laikymo, saugojimo vietose;
 10) jeigu jie
 yra falsifikuoti;
 11) jeigu jie
-yra kontrabandiniai.
+yra kontrabandiniai;
+12) laikyti,
+saugoti tabako gaminius – įmonėms, neturinčioms licencijos verstis tabako
+gaminių gamyba arba importu, didmenine ar mažmenine prekyba.
 Tabako gaminių
 pardavėjai turi teisę prireikus reikalauti iš asmenų, perkančių tabako
 gaminius, pateikti asmens amžių liudijantį dokumentą. 
@@ -323,13 +346,12 @@ procentų mažmeninės prekių apyvartos;
 prekybos automatais;
 4) asmenims iki
 18 metų.
-Prekybos tabako
-gaminiais vietose privalo būti užrašai, įspėjantys apie kenksmingą rūkymo
-poveikį sveikatai, informuojantys apie draudimą parduoti tabako gaminius
-asmenims iki 18 metų bei tabako gaminių pardavimo ribojimus, kurie yra
-nustatomi šiame įstatyme. Įspėjimų tekstus ir jų užrašymo tvarką bei
-apipavidalinimo reikalavimus nustato Lietuvos Respublikos Vyriausybė ar jos
-įgaliota institucija.
+Prekybos tabako gaminiais
+vietose, išskyrus patalpas, kuriose vykdoma tabako gaminių didmeninė prekyba,
+privalo būti užrašai apie kenksmingą tabako poveikį sveikatai ir
+informuojantys, kad yra draudžiama parduoti tabako gaminius asmenims iki 18
+metų. Įspėjimų tekstus ir jų užrašymo tvarką bei apipavidalinimo reikalavimus
+nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 Juridiniai ir
 fiziniai asmenys, realizuojantys, laikantys arba gabenantys nekokybiškus,
 falsifikuotus, kontrabandinius tabako gaminius arba tabako gaminius, nustatyta
@@ -342,88 +364,72 @@ pakeitimai:
 Nr.
 VIII-1178,
 99.05.11, Žin., 1999, Nr.50-1597 (99.06.09)
+Nr. IX-942,
+2002-06-11, Žin., 2002, Nr. 68-2757 (2002-07-03)
  
  
 III SKYRIUS.
 TABAKO GAMINIŲ VARTOJIMO MAŽINIMAS IR KONTROLĖ
  
-     11
-straipsnis. Tabako gaminių pardavimo rėmimo ir reklamos ribojimas
-     Įmonėms,
-turinčioms teisę vidaus prekybai tabako gaminiais, draudžiama naudoti tokius jų
-pardavimo rėmimo būdus:
-     1) dalį
-produkcijos išduoti veltui arba kaip premiją;
-     2) taikyti
-fiksuotas nuolaidas kuponų, išspausdintų visuomenės informavimo priemonėse,
-savininkams;
-     3) platinti
-tabako gaminius arba jų naujus pavyzdžius nemokamai;
-     4) teikti tabako gaminius į loterijas,
-konkursus, sporto varžybas, žaidimus kaip prizus arba kartu su jais;
-     5)
-organizuoti mažmeninės prekybos subjektų konkursus, kurie remtų tabako gaminių
-pardavimą.
-     Lietuvos
-Respublikos Vyriausybė įmonėms, užsiimančioms vidaus prekyba tabako gaminiais,
-turi teisę nustatyti ir kitus jų pardavimo rėmimo ribojimus.
-     Lietuvos
-Respublikos ir kitų valstybių tabako gaminių gamybos ir prekybos įmonėms remti
-renginius vaikams ir paaugliams iki 18 metų Lietuvos Respublikoje draudžiama.
-Lietuvos
-Respublikoje tabako gaminių reklama, taip pat paslėpta tabako gaminių reklama
-yra draudžiama.
-Garsinė ar
-vaizdinė informacija pripažįstama tabako gaminių reklama, jeigu ji:
-1) propaguoja
-tabako gaminių vartojimą;
-2) propaguoja
-tabako gaminių kokybės rodiklius;
-3) propaguoja
-tabako gaminių gamybos kokybės rodiklius;
-4) supažindina su
-tabako gaminių gamybos technologija bei įranga ir ją propaguoja;
-5) vertina arba
-lygina įvairių rūšių tabako gaminių kokybę, juslines bei kitas savybes;
-6) skatina
-nepilnamečius ir jaunimą vartoti tabako gaminius ar vaizduoja vartojančius
-šiuos gaminius;
-7) sieja tabako
-gaminių vartojimą su fizinio aktyvumo padidėjimu;
-8) sukuria
-įspūdį, kad tabako gaminių vartojimas didina socialinę ir seksualinę sėkmę;
-9) pripažįsta
-tabako gaminių profilaktines bei gydomąsias savybes;
-10) teigia, kad
-tabako gaminių vartojimas yra priemonė, padedanti išspręsti asmens konfliktus;
-11) skatina
-tabako gaminių vartojimą ir neigiamai vaizduoja asmenis, atsisakančius šiuos
-gaminius vartoti;
-12) pabrėžia
-didesnę nikotino koncentraciją kaip tabako gaminių privalumą.
-Tabako gaminių
-prekybos vietose Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka
-leidžiama pateikti tik šią informaciją apie tabako gaminius: 
-1) gamintojo,
-prekybos įmonės pavadinimas ir adresas, prekybos rūšis (didmeninė ar
-mažmeninė);
-2) tabako
-gaminių pavadinimas ir rūšis;
-3) žodžiai
-“Prekiaujame” arba “Parduodame”;
+11 straipsnis. Tabako gaminių rėmimo
+ribojimas ir reklamos draudimas
+Lietuvoje draudžiama tabako gaminius remti šiais
+būdais:
+1) dalį produkcijos išduoti veltui arba kaip premiją;
+2) visuomenės informavimo priemonėse išspausdintų kuponų savininkams
+taikyti fiksuotas nuolaidas;
+3) nemokamai platinti tabako gaminius arba jų naujus pavyzdžius;
+4) teikti tabako gaminius į loterijas, konkursus, sporto varžybas,
+žaidimus kaip prizus arba kartu su jais;
+5) organizuoti mažmeninės prekybos subjektų
+konkursus, kurie remtų tabako gaminių pardavimą;
+6) remti renginius, skirtus asmenims iki 18 metų,
+taip pat tabako gaminių rėmimo veiklai pasitelkti asmenis iki 18 metų.
+Lietuvos Respublikos Vyriausybė įmonėms, užsiimančioms vidaus prekyba
+tabako gaminiais, turi teisę nustatyti ir kitus tabako gaminių rėmimo
+ribojimus.
+Lietuvos Respublikoje
+tabako gaminių reklama, taip pat paslėpta tabako gaminių reklama yra
+draudžiama.
+Šio straipsnio
+trečiojoje dalyje nustatytas tabako gaminių reklamos draudimas netaikomas
+informacijai apie tabako gaminius šių gaminių prekybos vietose, informaciniams
+pranešimams, kurie skirti tik tabako verslo specialistams, ir tabako gaminius
+gaminančių arba jais prekiaujančių įmonių registruotiems pavadinimams (jei
+tabako gaminio ar tabako gaminių gamintojo pavadinimas yra sudėtinė šių įmonių
+registruoto pavadinimo dalis) bei prekės ženklams, kai šie pavadinimai ir
+prekės ženklai pateikiami iškabose ant šių įmonių buveinės ar padalinio pastato
+bei įmonių specializuoto transporto. 
+Tabako gaminių prekybos vietose Vyriausybės ar jos
+įgaliotos institucijos nustatyta tvarka apie tabako gaminius leidžiama pateikti
+tik šią informaciją:
+1) gamintojo, prekybos įmonės pavadinimas ir
+adresas, prekės ženklas, prekybos rūšis (didmeninė ar mažmeninė);
+2) tabako gaminių pavadinimas ir rūšis;
+3) žodžiai „Prekiaujame“ arba
+„Parduodame“;
 4) tabako dervų,
 nikotino ir kitų kenksmingų sveikatai medžiagų rūkaluose koncentracija;
-5) tabako
-gaminių kainos;
-6) informacija
-apie tabako gaminių vartojimo žalą sveikatai.
-Tabako gaminių
-reklamos platintojai, skleidėjai privalo, teikdami tabako gaminių reklamą, ant
-išorinių reklamos priemonių bei visuomenės informavimo priemonėse skelbti savo
-arba gamintojų lėšomis ne mažesnės apimties informaciją (socialinę reklamą)
-apie kenksmingą tabako poveikį žmonių sveikatai. Šios informacijos (socialinės
-reklamos) teikimo tvarką, formą ir turinį ant išorinių reklamos priemonių bei
-visuomenės informavimo priemonėse nustato Lietuvos Respublikos Vyriausybė.
+5) tabako gaminių kainos;
+6) informacija apie tabako gaminių
+vartojimo žalą sveikatai.
+Tabako gaminių gamintojai ir (ar) importuotojai
+kiekvienais metais ne vėliau kaip iki gegužės 1 dienos Vyriausybės nustatyta
+tvarka pateikia Vyriausybės įgaliotai institucijai raštišką ataskaitą, iš kokių
+sudedamųjų dalių pagaminti pardavimui Lietuvos Respublikoje skirti tabako
+gaminiai. Šioje ataskaitoje pateikiama:
+1) bendras visų
+numatomų parduoti Lietuvos Respublikoje tabako gaminių rūšių ir į juos dedamų
+visų sudedamųjų dalių sąrašas;
+2) bendras
+sąrašas (suskirstant pagal tabako gaminių visas sudedamąsias dalis) visų
+sudedamųjų dalių, dedamų į kitas nei tabakas sudedamąsias dalis, kurios
+naudojamos bet kurios rūšies tabako gaminiams, skirtiems parduoti Lietuvos
+Respublikoje;
+3) informacija
+apie Lietuvos Respublikoje parduodamus visų rūšių tabako gaminius, nurodant
+visas sudedamąsias dalis, dedamas į tabaką, išskyrus komercine paslaptimi
+laikomą informaciją apie konkretaus gaminio sudėtį.
 Straipsnio
 pakeitimai:
 Lietuvos
@@ -435,7 +441,8 @@ VIII-1178,
 99.05.11, Žin., 1999, Nr.50-1597 (99.06.09)
 Nr. VIII-1490, 99.12.21, Žin., 2000,
 Nr.1-4 (00.01.05)
- 
+Nr. IX-942,
+2002-06-11, Žin., 2002, Nr. 68-2757 (2002-07-03)
  
 12 straipsnis. Tabako gaminių
 pakuočių apipavidalinimo reikalavimai
@@ -444,15 +451,14 @@ gaminių pavadinimų reikalavimus nustato Lietuvos Respublikos valstybinis
 patentų biuras.
 Straipsnio
 pakeitimai:
-Nr. IX-124, 2000 12 21, Žin., 2000, Nr. 113-3615
-(2000 12 30), įsigalioja nuo 2001 01 01
- 
+Nr. IX-124, 2000 12 21, Žin., 2000, Nr.
+113-3615 (2000 12 30), įsigalioja nuo 2001 01 01
  
      13
 straipsnis. Tabako gaminių vartojimo mažinimo ekonominio reguliavimo priemonės
-     Tabako
-gaminių apmokestinimo muito mokesčiu ir akcizais tvarką nustato įstatymai ir
-kiti teisės aktai.
+     Tabako gaminių
+apmokestinimo muito mokesčiu ir akcizais tvarką nustato įstatymai ir kiti
+teisės aktai.
      Tabako
 gaminius įtraukti į minimalų maisto produktų ir ne maisto prekių rinkinį
 minimaliam gyvenimo lygiui apskaičiuoti draudžiama.
@@ -461,7 +467,6 @@ pakeitimai:
 Nr.
 VIII-1178,
 99.05.11, Žin., 1999, Nr.50-1597 (99.06.09)
- 
  
      14
 straipsnis. Tabako gaminių vartojimo ribojimas
@@ -484,8 +489,8 @@ vietose uniformuotiems Lietuvos Respublikos pareigūnams, išskyrus specialias
 rūkymo vietas.
      Įmonėse,
 įstaigose, organizacijose rūkyti leidžiama tik specialiai įrengtose patalpose
-(vietose), kurių įrengimo ir eksploatavimo reikalavimus nustato Lietuvos
-Respublikos Vyriausybė.
+(vietose), kurių įrengimo ir eksploatavimo reikalavimus nustato Lietuvos Respublikos
+Vyriausybė.
      Viešbučiuose,
 restoranuose ir kavinėse turi būti skirtos vietos nerūkantiesiems.
      Savivaldybės
@@ -499,7 +504,6 @@ Nr.
 VIII-1178,
 99.05.11, Žin., 1999, Nr.50-1597 (99.06.09)
  
- 
 15
 straipsnis. Visuomenės informavimas apie tabako gaminius, rūkymo žalą sveikatai
 Visos švietimo
@@ -512,7 +516,6 @@ pakeitimai:
 Nr.
 VIII-1178,
 99.05.11, Žin., 1999, Nr.50-1597 (99.06.09)
- 
  
      16
 straipsnis. Tabako kontrolės programos
@@ -554,20 +557,27 @@ SUBJEKTAI BEI JŲ KOMPETENCIJA
  
 18
 straipsnis. Valstybės tabako kontrolės politikos vykdomųjų institucijų sistema
-Valstybės tabako
-kontrolę pagal savo kompetenciją atlieka VTAKT, savivaldos vykdomosios
-institucijos, Valstybinė mokesčių inspekcija prie Finansų ministerijos,
-policija bei sveikatos priežiūros sistemos įstaigos. Šių institucijų kompetenciją
-tabako kontrolės srityje nustato šis ir kiti Lietuvos Respublikos įstatymai bei
-teisės aktai.
+Valstybės tabako kontrolę pagal savo kompetenciją
+atlieka VTAKT, savivaldybių vykdomosios institucijos, Valstybinė mokesčių
+inspekcija, policija, Valstybinė ne maisto produktų inspekcija prie Ūkio
+ministerijos bei sveikatos priežiūros sistemos įstaigos. Šių institucijų
+kompetenciją tabako kontrolės srityje nustato šis ir kiti Lietuvos Respublikos
+įstatymai bei teisės aktai.
 Tabako gaminių
-reklamą, taip pat paslėptą tabako gaminių reklamą kontroliuoja VTAKT, o išorinę
-reklamą – VTAKT ir savivaldos vykdomosios institucijos.
+reklamos draudimo laikymąsi, įskaitant klaidinančią ir lyginamąją reklamą, taip
+pat paslėptą tabako gaminių reklamą, pagal savo kompetenciją kontroliuoja
+VTAKT, Nacionalinė vartotojų teisių apsaugos taryba, Lietuvos Respublikos
+konkurencijos taryba, savivaldybių vykdomosios institucijos ir valstybės
+įstaiga, atsakinga už kultūros vertybių apsaugą. Šių institucijų kompetenciją
+tabako gaminių reklamos kontrolės srityje nustato šis ir kiti Lietuvos
+Respublikos įstatymai bei teisės aktai.
 Straipsnio
 pakeitimai:
 Nr.
 VIII-1178,
 99.05.11, Žin., 1999, Nr.50-1597 (99.06.09)
+Nr. IX-942,
+2002-06-11, Žin., 2002, Nr. 68-2757 (2002-07-03)
  
  
 V SKYRIUS. 
@@ -601,56 +611,74 @@ privalo būti konfiskuojami ir sunaikinami.
 21
 straipsnis. Ekonominių sankcijų už Tabako kontrolės įstatymo pažeidimus
 taikymas
-Valstybinė
-tabako ir alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės,
-Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos arba Valstybinė
-mokesčių inspekcija prie Finansų ministerijos, arba savivaldos vykdomosios
-institucijos, arba teismai pagal savo kompetenciją turi teisę skirti įmonėms,
-įstaigoms, organizacijoms baudas už šio įstatymo pažeidimus.
+Valstybinė tabako ir alkoholio kontrolės tarnyba
+prie Lietuvos Respublikos Vyriausybės arba Nacionalinė vartotojų teisių
+apsaugos taryba, arba Valstybinė ne maisto produktų inspekcija prie Ūkio
+ministerijos, arba Valstybinė mokesčių inspekcija, arba savivaldybių
+vykdomosios institucijos, arba teismai pagal savo kompetenciją turi teisę
+skirti įmonėms, įstaigoms, organizacijoms baudas už šio įstatymo pažeidimus.
 Tabako
 auginimas, jo gaminių gaminimas, importas bei prekyba, neturint šiai veiklai
 atitinkamo leidimo ar licencijos, užtraukia komercinės-ūkinės veiklos
 subjektams penkiasdešimties tūkstančių litų baudą. Baudas skiria VTAKT bei
 savivaldos vykdomosios institucijos.
 Tabako gaminių
-gamyba, realizavimas, laikymas, gabenimas Lietuvos Respublikoje, nesilaikant
-šio įstatymo 7 straipsnio pirmosios ir trečiosios dalių reikalavimų, gaminių
-įsigijimą patvirtinančių juridinę galią turinčių dokumentų neturėjimas
+gamyba, pateikimas į rinką ir realizavimas, laikymas, gabenimas Lietuvos
+Respublikoje, nesilaikant šio įstatymo 7 straipsnio pirmosios ir trečiosios
+dalių reikalavimų, gaminių įsigijimą patvirtinančių juridinę galią turinčių
+dokumentų neturėjimas, tabako gaminių laikymas, saugojimas neturint licencijos
+užsiimti tabako gaminių gamyba arba importu, didmenine ar mažmenine prekyba
 užtraukia komercinės-ūkinės veiklos subjektams dvidešimties tūkstančių litų
-baudą, o šio straipsnio reikalavimų pažeidimas, padarytas per vienerius metus
-nuo ankstesnio pažeidimo, - penkiasdešimties tūkstančių litų baudą. Už šio
-straipsnio reikalavimų pažeidimą baudas skiria Valstybinė ne maisto produktų
-inspekcija prie Ūkio ministerijos, Valstybinė mokesčių inspekcija prie Finansų
-ministerijos, VTAKT, teismai pagal savo kompetenciją.
-Tabako gaminių
-importo reikalavimų, nustatytų šio įstatymo 8 straipsnio antrosios dalies 2, 3,
-4, 5 punktuose, trečiojoje ir penktojoje dalyse, ir tabako gaminių pardavimo
-reikalavimų, nustatytų šio įstatymo 10 straipsnio pirmojoje, antrojoje,
-penktojoje ir šeštojoje dalyse, pažeidimas užtraukia komercinės-ūkinės veiklos
-subjektams dvidešimties tūkstančių litų baudą.
+baudą, o šioje dalyje numatytas pažeidimas, padarytas per vienerius metus nuo
+ankstesnio pažeidimo, – penkiasdešimties tūkstančių litų baudą. Už šioje dalyje
+numatytus pažeidimus baudas pagal savo kompetenciją skiria Nacionalinė
+vartotojų teisių apsaugos taryba, Valstybinė mokesčių inspekcija, VTAKT,
+teismai. Nacionalinė vartotojų teisių apsaugos taryba, išnagrinėjusi
+Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos pateiktus
+dokumentus, šioje dalyje numatytas baudas skiria tuomet, jeigu tabako gaminys,
+kuris neatitinka nustatytų kokybės reikalavimų ir kuriame esantis sveikatai
+kenksmingų medžiagų kiekis viršija nustatytas normas, buvo pateiktas į rinką.
+Šiuo atveju Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos surašo
+Nacionalinės vartotojų teisių apsaugos tarybos nustatytos formos protokolą, kad
+nesaugus gaminys buvo pateiktas į rinką, ir kartu su reikalingais įrodymais ne
+vėliau kaip per 3 darbo dienas jį perduoda Nacionalinei vartotojų teisių
+apsaugos tarybai.
+Tabako gaminių importo reikalavimų, nustatytų šio
+įstatymo 8 straipsnio antrosios dalies 2, 3, 4, 5 punktuose, trečiojoje ir
+penktojoje dalyse, ir tabako gaminių pardavimo reikalavimų, nustatytų šio
+įstatymo 10 straipsnio pirmojoje, antrojoje, penktojoje ir šeštojoje dalyse,
+pažeidimas užtraukia komercinės-ūkinės veiklos subjektams dvidešimties
+tūkstančių litų baudą.
 Šių reikalavimų
 pažeidimas, padarytas pakartotinai per vienerius metus nuo ankstesnio
 pažeidimo, užtraukia komercinės-ūkinės veiklos subjektams penkiasdešimties
 tūkstančių litų baudą.
 Už šio įstatymo reikalavimų pažeidimus baudas skiria:
-1) už 8 straipsnio antrosios dalies 2, 3 ir 5 punktų,
-trečiosios dalies, 10 straipsnio antrosios dalies 1, 2, 5, 6 ir 7 punktų
-reikalavimų nesilaikymą - Valstybinė ne maisto produktų inspekcija prie Ūkio
-ministerijos;
-2) už 8 straipsnio antrosios dalies 4 punkto ir 10
-straipsnio antrosios dalies 4 punkto reikalavimų nesilaikymą - Valstybinė
-mokesčių inspekcija prie Finansų ministerijos, teismai;
+1) už 8
+straipsnio antrosios dalies 2, 3 ir 5 punktų, trečiosios dalies reikalavimų
+nesilaikymą – Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos,
+už 10 straipsnio antrosios dalies 1, 5, 6 ir 7 punktų nesilaikymą – Valstybinė
+ne maisto produktų inspekcija prie Ūkio ministerijos, VTAKT;
+2) už 8
+straipsnio antrosios dalies 4 punkto reikalavimų nesilaikymą – Valstybinė
+mokesčių inspekcija, teismai, už 10 straipsnio antrosios dalies 4 punkto
+reikalavimų nesilaikymą – Valstybinė mokesčių inspekcija, VTAKT, teismai;
 3) už 10
 straipsnio antrosios dalies 3, 8 punktų, 10 straipsnio pirmosios, penktosios ir
-šeštosios dalių reikalavimų nesilaikymą - VTAKT, savivaldos vykdomosios
+šeštosios dalių reikalavimų nesilaikymą – VTAKT, savivaldybių vykdomosios
 institucijos.
 Tabako gaminių
-pardavimo rėmimas ir reklamos naudojimo reikalavimų, nustatytų 11 straipsnio
-pirmojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje ir septintojoje
-dalyse, nesilaikymas užtraukia komercinės-ūkinės veiklos subjektams penkių
-tūkstančių litų baudą, o šių reikalavimų pakartotinis pažeidimas - dešimties
-tūkstančių litų baudą. Baudas už šiuos pažeidimus skiria Valstybinė tabako ir
-alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės.
+rėmimo ribojimo ir reklamos draudimo reikalavimų, nustatytų 11 straipsnio
+pirmojoje, trečiojoje, ketvirtojoje ir penktojoje dalyse, nesilaikymas
+užtraukia komercinės-ūkinės veiklos subjektams penkių tūkstančių litų baudą, o
+šių reikalavimų pakartotinis pažeidimas, padarytas per vienerius metus nuo
+ankstesnio pažeidimo, – dešimties tūkstančių litų baudą. Baudas už šiuos
+pažeidimus skiria Valstybinė tabako ir alkoholio kontrolės tarnyba prie
+Lietuvos Respublikos Vyriausybės (išskyrus pažeidimus visuomenės informavimo
+priemonėse). Baudas už šio įstatymo 
+11 straipsnio pirmojoje, trečiojoje, ketvirtojoje ir penktojoje dalyse
+nustatytų reikalavimų pažeidimus visuomenės informavimo priemonėse skiria
+Nacionalinė vartotojų teisių apsaugos taryba.
 Straipsnio
 pakeitimai:
 Nr.
@@ -660,7 +688,8 @@ Nr. VIII-1568, 00.03.16, Žin., 2000,
 Nr.28-758 (00.04.05)
 Nr. VIII-1830, 00.07.11, Žin., 2000,
 Nr.61-1832 (00.07.26)
- 
+Nr. IX-942,
+2002-06-11, Žin., 2002, Nr. 68-2757 (2002-07-03)
  
      22
 straipsnis. Piniginių baudų išieškojimas
@@ -678,8 +707,8 @@ nesumokėtas
 pinigines baudas skaičiavimas
      Ūkio
 subjektų nesumokėtas pinigines baudas kartu su delspinigiais, kurie už
-kiekvieną dieną sudaro 0,2 procento piniginės baudos dydžio, išieško šio
-įstatymo 21 straipsnio pirmojoje dalyje nurodytos institucijos ne ginčo tvarka.
+kiekvieną dieną sudaro 0,2 procento piniginės baudos dydžio, išieško šio įstatymo
+21 straipsnio pirmojoje dalyje nurodytos institucijos ne ginčo tvarka.
  
 24 straipsnis.
 Nutarimo taikyti ekonominę sankciją vykdymo atidėjimas
@@ -734,17 +763,20 @@ jeigu Lietuvos Respublikos tarptautinėse sutartyse nenumatyta kitaip.
 VI SKYRIUS.
 BAIGIAMOSIOS NUOSTATOS
  
-     29
-straipsnis. Lietuvos Respublikos tabako kontrolės įstatymo įsigaliojimas
-     Lietuvos Respublikos tabako kontrolės įstatymo
-4 straipsnis, 6 straipsnio antroji dalis, 7 straipsnio pirmoji, antroji,
-ketvirtoji, penktoji ir šeštoji dalys, 8 straipsnio trečioji, šeštoji ir
-septintoji dalys, 9 straipsnio trečioji dalis, 10 straipsnio ketvirtoji ir
-šeštoji dalys, 11 straipsnio penktoji dalis, 12 straipsnis, 13 straipsnio
-antroji ir trečioji dalys, 14 straipsnio antroji dalis, 16 straipsnio pirmoji
-ir ketvirtoji dalys, 17 straipsnis, 24 straipsnio antroji dalis, 27 straipsnis
-įsigalioja Lietuvos Respublikos tabako kontrolės įstatymo įgyvendinimo įstatymo
-nustatyta tvarka.
+29 straipsnis. Lietuvos Respublikos
+tabako kontrolės įstatymo įsigaliojimas
+Lietuvos Respublikos tabako
+kontrolės įstatymo 4 straipsnis, 6 straipsnio antroji dalis, 7 straipsnio
+pirmoji, antroji, ketvirtoji, penktoji ir šeštoji dalys, 8 straipsnio trečioji,
+šeštoji ir septintoji dalys, 9 straipsnio trečioji dalis, 10 straipsnio
+ketvirtoji ir šeštoji dalys, 11 straipsnio penktoji dalis, 12 straipsnis, 14
+straipsnio antroji dalis, 16 straipsnio pirmoji ir ketvirtoji dalys, 17
+straipsnis, 24 straipsnio antroji dalis, 27 straipsnis įsigalioja Lietuvos
+Respublikos tabako kontrolės įstatymo įgyvendinimo įstatymo nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr. IX-942,
+2002-06-11, Žin., 2002, Nr. 68-2757 (2002-07-03)
  
  
             Skelbiu šį Lietuvos
@@ -797,6 +829,16 @@ TABAKO KONTROLĖS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO
 Šis
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-942,
+2002-06-11, Žin., 2002, Nr. 68-2757 (2002-07-03)
+TABAKO
+KONTROLĖS ĮSTATYMO 1, 6, 8, 9, 10, 11, 18, 21, 29 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
@@ -816,8 +858,11 @@ RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO 1, 3 IR 11 STRAIPSNIŲ, TAIP PAT LIETUVO
 RESPUBLIKOS VYRIAUSYBĖS 1996 M. VASARIO 2 D. NUTARIMO NR. 179 “DĖL ALKOHOLIO
 REKLAMOS KONTROLĖS” ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 01 05)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2002-07-04)
+                 
+autrap@lrs.lt
