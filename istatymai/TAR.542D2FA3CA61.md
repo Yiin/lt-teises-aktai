@@ -305,10 +305,12 @@ perdavimo–priėmimo akto pasirašymo. Perdavimo–priėmimo aktą pasirašo sa
 (savininkai) ir garantiją išdavusi savivaldybės vykdomoji institucija.
 14. Valstybės garantijos nuomininkams
 vykdomos Vyriausybės nustatyta tvarka, bet ne vėliau kaip šio straipsnio 11
-dalyje nustatyti terminai. Vyriausybė kasmet, atsižvelgdama į
-valstybės finansines išgales, valstybės biudžeto ir savivaldybių biudžetų
-finansinių rodiklių patvirtinimo įstatymo projekte numato lėšas valstybės
-garantijoms vykdyti, bet ne vėliau kaip iki 2009 m.
+dalyje nustatyti terminai. Valstybės garantijoms įvykdyti Vyriausybės
+nustatytais terminais ir tvarka turi būti atliktas nuomojamų gyvenamųjų patalpų
+rinkos vertės patikslinimas. Vyriausybė kasmet, atsižvelgdama į valstybės
+finansines išgales, valstybės biudžeto ir savivaldybių biudžetų finansinių
+rodiklių patvirtinimo įstatymo projekte numato lėšas valstybės garantijoms
+vykdyti, bet ne vėliau kaip iki 2009 m.
 15. Ginčai dėl valstybės garantijų
 nagrinėjami teismo tvarka. Šiose bylose šalys atleidžiamos nuo žyminio
 mokesčio.
@@ -316,6 +318,8 @@ Straipsnio
 pakeitimai:
 Nr. IX-2393,
 2004-07-15, Žin., 2004, Nr. 117-4374 (2004-07-29)
+Nr. IX-2497,
+2004-10-19, Žin., 2004, Nr. 156-5696 (2004-10-26)
  
 10 straipsnis. Atlyginimo už žemę, mišką
 padidinimo tvarka
@@ -341,7 +345,7 @@ priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                     VALDAS
 ADAMKUS
  
-_____________________
+_________________
  
 Pakeitimai:
  
@@ -352,9 +356,9 @@ Nr. VIII-1182,
 1999.05.13, Žin., 1999, Nr. 48-1523 (1999.06.02)
 LIETUVOS
 RESPUBLIKOS KOMPENSACIJŲ UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO,
-ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ
-PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME,
-ĮSTATYMO 8, 9, 10, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS 
+ŠALTINIŲ, MOKĖJIMO TERMINŲ BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ,
+NUMATYTŲ PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO
+ĮSTATYME, ĮSTATYMO 8, 9, 10, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS 
  
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -402,8 +406,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1760, 2003-10-14,
-Žin., 2003, Nr. 102-4582 (2003-10-31)
+IX-1760,
+2003-10-14, Žin., 2003, Nr. 102-4582 (2003-10-31)
 KOMPENSACIJŲ
 UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ
 BEI TVARKOS, TAIP PAT GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ NUOSAVYBĖS
@@ -423,11 +427,23 @@ BEI TVARKOS, TAIP PAT VALSTYBĖS GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ
 NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 9
 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2497,
+2004-10-19, Žin., 2004, Nr. 156-5696 (2004-10-26)
+KOMPENSACIJŲ
+UŽ VALSTYBĖS IŠPERKAMĄ NEKILNOJAMĄJĮ TURTĄ DYDŽIO, ŠALTINIŲ, MOKĖJIMO TERMINŲ
+BEI TVARKOS, TAIP PAT VALSTYBĖS GARANTIJŲ IR LENGVATŲ, NUMATYTŲ PILIEČIŲ
+NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYME, ĮSTATYMO 9
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-07-29)
+Aušrinė Trapinskienė (2004-10-26)
                  
 autrap@lrs.lt
