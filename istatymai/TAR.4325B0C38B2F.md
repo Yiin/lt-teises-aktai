@@ -26,7 +26,7 @@ DRAUDIMO
 Vilnius
 Nauja įstatymo redakcija nuo 2004 m.
 sausio 1 d. (29
-straipsnis įsigalioja nuo 2005 m. sausio 1 d.):
+straipsnis įsigalioja nuo 2006 m. sausio 1 d.):
 Nr.
 IX-1819,
 2003-11-11, Žin., 2003, Nr. 114-5114 (2003-12-05)
@@ -731,25 +731,21 @@ draudimo įmokų tarifą.
 4. Lėšų, skirtų
 nelaimingų atsitikimų darbe ir profesinių ligų prevencijai, panaudojimo tvarką
 nustato Vyriausybė. 
+ *29 straipsnis. Nelaimingų atsitikimų darbe socialinio draudimo įmokų tarifai
+Nelaimingų
+atsitikimų darbe socialinio draudimo įmokų tarifų grupių skaičius ir grupių
+tarifai tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių
+patvirtinimo įstatymu. Draudėjų priskyrimą nelaimingų atsitikimų darbe
+socialinio draudimo įmokų tarifų grupei, atsižvelgdama į traumatizmo ir
+profesinio sergamumo rodiklius ir vadovaudamasi Vyriausybės ar jos įgaliotos
+institucijos patvirtinta metodika, tvirtina Valstybinio socialinio draudimo
+fondo taryba.
+*Pastaba. 29straipsnis įsigalioja nuo
+2006 m. sausio 1 d.
+Straipsnio pakeitimai:
+Nr. IX-2561, 2004-11-11,
+Žin., 2004, Nr. 171-6311 (2004-11-26)
  
-29 straipsnis. Nelaimingų atsitikimų darbe socialinio draudimo įmokų
-tarifai 
-1. Nelaimingų
-atsitikimų darbe socialinio draudimo įmokų tarifai diferencijuojami
-atsižvelgiant į draudėjo ekonominės veiklos rūšies profesinės rizikos laipsnio
-bei kiekvieno draudėjo traumatizmo ir profesinio sergamumo rodiklius.
-Nelaimingų atsitikimų darbe socialinio draudimo įmokų dydžių taikymo kiekvienam
-draudėjui tvarką tvirtina Vyriausybė. Nelaimingų atsitikimų darbe socialinio
-draudimo įmokų tarifų grupių skaičius ir kiekvienos grupės tarifas tvirtinami
-Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
-2. Kiekvieno
-draudėjo priskyrimą konkrečiai grupei tvirtina Valstybinio socialinio draudimo
-fondo taryba, atsižvelgdama į kiekvienam draudėjui apskaičiuotus rizikingumo
-rodiklius ir vadovaudamasi Vyriausybės patvirtinta tvarka (šio straipsnio 3
-dalis).
-3. Nelaimingų
-atsitikimų darbe socialiniam draudimui nustatyto įmokų tarifo diferencijavimo ir
-įmokų tarifo dydžių taikymo draudėjams tvarką tvirtina Vyriausybė. 
  
 30 straipsnis. Valstybinio socialinio draudimo įmokų mokėjimo tvarka
 1. Šiame
@@ -758,9 +754,9 @@ socialinio draudimo įmokos už kiekvieną apdraustąjį, nurodytą šio Įstaty
 straipsnio 1 dalies 1, 2 punktuose, skaičiuojamos ir mokamos įstatymų nustatyta
 tvarka kartu su kitomis valstybinio socialinio draudimo įmokomis. 
 2. Valstybinio
-socialinio draudimo įmokos už apdraustuosius, nurodytus šio Įstatymo 4
-straipsnio 1 dalies 3–5 punktuose, mokamos už tuos laikotarpius, kai jiems už
-darbą mokamas darbo užmokestis.
+socialinio draudimo įmokos už apdraustuosius, nurodytus šio Įstatymo 4 straipsnio
+1 dalies 3–5 punktuose, mokamos už tuos laikotarpius, kai jiems už darbą mokamas
+darbo užmokestis.
  
 31 straipsnis.
 Lėšų išieškojimas iš kaltų asmenų
@@ -800,15 +796,12 @@ Nr. IX-2540,
 Ginčai dėl šio Įstatymo taikymo
 sprendžiami įstatymų nustatyta tvarka.
  
- 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
- 
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
 _______________
 Pakeitimai:
- 
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1787, 2000 07 04, Žin., 2000, Nr.
@@ -881,8 +874,8 @@ IX-1591,
 2003-05-29, Žin., 2003, Nr. 57-2536 (2003-06-13)
 NELAIMINGŲ
 ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO IR ŽALOS
-ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO
-ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
+LAIKINOJO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 9.
 Lietuvos
@@ -896,12 +889,22 @@ Nauja įstatymo redakcija
 Šis Įstatymas, išskyrus 29 straipsnį,
 įsigalioja nuo 2004 m. sausio 1 d.
 Šio Įstatymo 29 straipsnis įsigalioja
-nuo 2005 m. sausio 1 d.
+nuo 2006 m. sausio 1 d.
 Šio Įstatymo
 nuostatos taikomos draudiminiams įvykiams, įvykusiems šiam Įstatymui
 įsigaliojus, taip pat asmenims, kuriems profesinė liga nustatyta po 2000 m.
 sausio 1 d., jeigu šie asmenys po šios datos buvo drausti nelaimingų atsitikimų
 darbe ir profesinių ligų socialiniu draudimu.
+Šio įstatymo įsigaliojimas
+pakeistas:
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-2561,
+2004-11-11, Žin., 2004, Nr. 171-6311 (2004-11-26)
+NELAIMINGŲ ATSITIKIMŲ DARBE IR
+PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO BEI NELAIMINGŲ ATSITIKIMŲ DARBE IR
+PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMO PAKEITIMO
+ĮSTATYMAS
  
 10.
 Lietuvos
@@ -936,9 +939,19 @@ LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO
 Šis
 įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2561,
+2004-11-11, Žin., 2004, Nr. 171-6311 (2004-11-26)
+NELAIMINGŲ
+ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO BEI NELAIMINGŲ
+ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO
+ĮSTATYMO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
- 
  
 Redagavo:
 Aušrinė Trapinskienė (2004-12-02)
