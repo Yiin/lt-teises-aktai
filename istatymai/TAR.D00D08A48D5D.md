@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D00D08A48D5D"
 
 # Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatymas
 
-Suvestinė redakcija nuo 2000-10-25 iki 2004-04-15
+Suvestinė redakcija nuo 2004-04-16 iki 2006-11-06
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2696, i. k. 0961010ISTA00I-1626
  
-Nauja redakcija nuo 2000-01-05:
-Nr. VIII-1484, 1999-12-21, Žin. 2000, Nr. 1-2 (2000-01-05), i. k. 0991010ISTAIII-1484
+Nauja redakcija nuo 2004-04-16:
+Nr. IX-2078, 2004-03-25, Žin. 2004, Nr. 55-1886 (2004-04-16), i. k. 1041010ISTA0IX-2078
  
-LIETUVOS RESPUBLIKOS ŽMOGAUS AUDINIŲ IR ORGANŲ DONORYSTĖS IR TRANSPLANTACIJOS ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ŽMOGAUS AUDINIŲ, LĄSTELIŲ IR ORGANŲ DONORYSTĖS IR TRANSPLANTACIJOS  ĮSTATYMAS
  
 1996 m. lapkričio 19 d. Nr. I-1626
 Vilnius
@@ -35,17 +35,17 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato žmogaus audinių ir organų donorystės ir transplantacijos sąlygas bei tvarką.
+1. Šis Įstatymas nustato žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos sąlygas bei tvarką.
 
 
 
 
-2. Šis įstatymas nereglamentuoja spermos, kiaušialąstės, embriono, vaisiaus, kraujo ar jo sudėtinių dalių transplantacijos. Jų transplantaciją reglamentuoja kiti įstatymai.
+2. Šis Įstatymas nereglamentuoja audinių, ląstelių ir organų paėmimo ar ištyrimo žmogaus patologoanatominio ar teismo medicininio tyrimo metu.
 
 
 
 
-3. Šis įstatymas nereglamentuoja audinių ir organų paėmimo ar ištyrimo žmogaus patologoanatominio ar teismo medicininio tyrimo metu.
+3. Šis Įstatymas nereglamentuoja spermos, kiaušialąstės, embriono ar embriono ląstelių, vaisiaus ląstelių ar audinių, kraujo ar kraujo komponentų (išskyrus kraujodaros kamienines ląsteles, išgaunamas iš suaugusio žmogaus arba placentos ar placentinio kraujo po vaiko gimimo) transplantacijos. 
  
 
 
@@ -53,30 +53,45 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Transplantacija – audinių ir(ar) organų paėmimas ir persodinimas į kito žmogaus kūną gydymo tikslu.
-
-
-
-
-2. Donoras – žmogus, kurio audinių ir(ar) organų paimama transplantacijai jam esant gyvam arba po jo mirties.
+1. Transplantacija – audinių, ląstelių ir (ar) organų paėmimas ir persodinimas į kito žmogaus kūną gydymo tikslu.
 
 
 
 
-3. Recipientas – žmogus, kuriam gydymo tikslu persodinami audiniai ir(ar) organai.
+2. Donoras – žmogus, kurio audinių, ląstelių ir (ar) organų paimama transplantacijai jam esant gyvam arba po jo mirties ir kuris yra įregistruotas Žmogaus audinių, ląstelių ir organų donorų bei recipientų registre.
 
 
 
 
-4. Audiniai ir organai – gyvo ar mirusio žmogaus kūno dalys.
+3. Recipientas – žmogus, kuris yra registruotas Žmogaus audinių, ląstelių ir organų donorų bei recipientų registre ir kuriam gydymo tikslu persodinami audiniai, ląstelės ir (ar) organai.
 
 
 
 
-5. Regeneruojantis audinys – gyvo žmogaus audinys, kuris, jį sužeidus ar dalį jo paėmus, savaime atsinaujina.
+4. Ląstelės – kraujodaros kamieninės ląstelės, išgaunamos iš suaugusio žmogaus arba placentos ar placentinio kraujo po vaiko gimimo. 
+
+
+
+
+5. Audiniai – gyvo ar mirusio žmogaus kūno dalys, reikalingos recipiento organizmo funkcijoms atkurti. 
+
+
+
+
+6. Regeneruojantis audinys – gyvo žmogaus audinys, kuris, jį sužeidus ar dalį jo paėmus, savaime atsinaujina.
+
+
+
+
+7. Organai – atskiros žmogaus kūno dalys, sudarytos iš įvairių audinių, kurie išlaiko savo struktūrą, vaskuliariškumą ir galimybę atlikti fiziologines funkcijas. 
+
+
+
+
+8. Audinių bankas – valstybės sveikatos priežiūros viešoji įstaiga, atliekanti audinių ir (ar) ląstelių apdorojimą, konservavimą, saugojimą ir utilizavimą, kitas teisės aktų nustatytas funkcijas.
  
 
 
@@ -87,22 +102,22 @@ BENDROSIOS NUOSTATOS
 3 straipsnis. Žmogaus audinių ir organų donorų bei recipientų registras
 
 
-1. Transplantacijos atvejai ir duomenys apie donorus ir recipientus atskirais sąrašais turi būti įrašomi į Žmogaus audinių ir organų donorų bei recipientų registrą.
+1. Transplantacijos atvejai ir duomenys apie donorus ir recipientus atskirais sąrašais turi būti įrašomi į Žmogaus audinių, ląstelių ir organų donorų bei recipientų registrą.
 
 
 
 
-2. Žmogaus audinių ir organų donorų bei recipientų registrą steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+2. Žmogaus audinių, ląstelių ir organų donorų bei recipientų registrą steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
 
 
 
 
-3. Kad būtų išsaugotas donorų bei recipientų konfidencialumas, naudojimosi Žmogaus audinių ir organų donorų bei recipientų registro duomenimis tvarką nustato Sveikatos apsaugos ministerija.
+3. Kad būtų išsaugotas donorų bei recipientų konfidencialumas, naudojimosi Žmogaus audinių, ląstelių ir organų donorų bei recipientų registro duomenimis tvarką nustato Sveikatos apsaugos ministerija.
 
 
 
 
-4. Už Žmogaus audinių ir organų donorų bei recipientų registro duomenų konfidencialumą atsako visi šio registro duomenimis besinaudojantys fiziniai ir juridiniai asmenys.
+4. Už Žmogaus audinių, ląstelių ir organų donorų bei recipientų registro duomenų konfidencialumą atsako visi fiziniai ir juridiniai asmenys, kurie naudojasi šio registro duomenimis.
  
 
 
@@ -110,10 +125,21 @@ BENDROSIOS NUOSTATOS
 
 
 
-4 straipsnis. Donoro, recipiento duomenų konfidencialumas
+4 straipsnis. Audinių bankai
 
 
-Informacija apie donoro ir recipiento sveikatos būklę, taip pat visa kita asmeninio pobūdžio informacija, įskaitant ir duomenis apie asmenų tapatybę, yra konfidenciali ir suteikiama tik Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka.
+Audinių bankai Sveikatos apsaugos ministerijos nustatyta tvarka gali teikti sveikatos priežiūros paslaugas ir vykdyti savo veiklą tik gavę licenciją šiai veiklai teisės aktų nustatyta tvarka. Audinių bankus gali steigti tik valstybės sveikatos priežiūros įstaigos, turinčios teisę teikti tretinės sveikatos priežiūros paslaugas, ir (ar) medicinos specialistus rengiančios aukštosios universitetinės mokyklos. 
+ 
+
+
+
+
+
+
+5 straipsnis. Donoro, recipiento duomenų konfidencialumas
+
+
+Informacija apie donoro ir recipiento sveikatos būklę, taip pat visa kita asmeninio pobūdžio informacija, tarp jų ir duomenys apie asmenų tapatybę, yra konfidenciali ir suteikiama tik Pacientų teisių ir žalos sveikatai atlyginimo įstatymo  ir kitų teisės aktų nustatyta tvarka.
  
 
 
@@ -128,7 +154,7 @@ TRANSPLANTACIJA IŠ MIRUSIO ŽMOGAUS
  
 
 
-5 straipsnis. Mirties konstatavimas
+6 straipsnis. Mirties konstatavimas
 
 
 Mirties kriterijus ir konstatavimo tvarką nustato Žmogaus mirties registravimo ir kritinių būklių įstatymas, kiti teisės aktai.
@@ -139,25 +165,25 @@ Mirties kriterijus ir konstatavimo tvarką nustato Žmogaus mirties registravimo
 
 
 
-6 straipsnis. Asmens teisė sutikti ir atsisakyti, kad jo audiniai ir(ar) organai po jo mirties būtų panaudoti transplantacijai
+7 straipsnis. Asmens teisė sutikti ir atsisakyti, kad jo audiniai ir (ar) organai po jo mirties būtų panaudoti transplantacijai 
 
 
-1. Kiekvienas veiksnus asmuo, ne jaunesnis kaip 18 metų, turi teisę pareikšti apie sutikimą ar nesutikimą, kad jo audiniai ir(ar) organai po jo mirties būtų panaudoti transplantacijai. Apie savo sutikimą ar nesutikimą asmuo turi pareikšti raštu sveikatos priežiūros įstaigai Sveikatos apsaugos ministerijos nustatyta tvarka.
-
-
-
-
-2. Sveikatos priežiūros įstaiga, gavusi asmens raštišką sutikimą ar nesutikimą, kad jo audiniai ir(ar) organai po jo mirties būtų panaudoti transplantacijai, privalo tai registruoti Sveikatos apsaugos ministerijos nustatyta tvarka ir nedelsiant perduoti duomenis Žmogaus audinių ir organų donorų bei recipientų registrui. Asmuo turi būti informuotas, kad jis bet kada gali pakeisti nuomonę dėl sutikimo ar nesutikimo ir apie tai turi pranešti sveikatos priežiūros įstaigai.
+1. Kiekvienas veiksnus asmuo, ne jaunesnis kaip 18 metų, turi teisę pareikšti apie sutikimą ar nesutikimą, kad jo audiniai ir (ar) organai po jo mirties būtų panaudoti transplantacijai. Apie savo sutikimą ar nesutikimą asmuo turi pareikšti raštu sveikatos priežiūros įstaigai Sveikatos apsaugos ministerijos nustatyta tvarka. 
 
 
 
 
-3. Asmeniui sutikusiam, kad jo audiniai ir(ar) organai po jo mirties būtų panaudoti transplantacijai, sveikatos priežiūros įstaiga turi išduoti Sveikatos apsaugos ministerijos nustatyto pavyzdžio kortelę.
+2. Sveikatos priežiūros įstaiga, gavusi asmens raštišką sutikimą ar nesutikimą, kad jo audiniai ir (ar) organai po jo mirties būtų panaudoti transplantacijai, privalo tai registruoti Sveikatos apsaugos ministerijos nustatyta tvarka ir nedelsdama perduoti duomenis Žmogaus audinių, ląstelių ir organų donorų bei recipientų registrui. Asmuo turi būti informuotas, kad jis bet kada gali pakeisti nuomonę dėl sutikimo ar nesutikimo ir apie tai turi pranešti sveikatos priežiūros įstaigai.
 
 
 
 
-4. Informacija apie asmens sutikimą ar nesutikimą, kad jo audiniai ir(ar) organai po jo mirties būtų panaudoti transplantacijai, yra konfidenciali ir saugoma Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka.
+3. Asmeniui, sutikusiam, kad jo audiniai ir (ar) organai po jo mirties būtų panaudoti transplantacijai, sveikatos priežiūros įstaiga turi išduoti Sveikatos apsaugos ministerijos nustatyto pavyzdžio kortelę.
+
+
+
+
+4. Informacija apie asmens sutikimą ar nesutikimą, kad jo audiniai ir (ar) organai po jo mirties būtų panaudoti transplantacijai, yra konfidenciali ir saugoma Pacientų teisių ir žalos sveikatai atlyginimo įstatymo bei kitų teisės aktų nustatyta tvarka.
  
 
 
@@ -165,15 +191,15 @@ Mirties kriterijus ir konstatavimo tvarką nustato Žmogaus mirties registravimo
 
 
 
-7 straipsnis. Asmens audinių ir(ar) organų paėmimas po mirties transplantacijai, jeigu nėra žinoma asmens valia 
+8 straipsnis. Asmens audinių ir (ar) organų paėmimas po jo mirties transplantacijai, jeigu nėra žinoma asmens valia
 
 
-1. Mirus žmogui, kuris būdamas gyvas šio įstatymo 6 straipsnio nustatyta tvarka nepareiškė savo valios, jo audinius ir(ar) organus leidžiama paimti transplantacijai, jei veiksnūs mirusiojo artimieji neprieštarauja. Artimųjų neprieštaravimas įforminamas raštu Sveikatos apsaugos ministerijos nustatyta tvarka. Mirusiojo artimųjų dėl neprieštaravimo, kad asmens audiniai ir(ar) organai būtų paimti transplantacijai, atsiklausiama tokia pirmumo tvarka: sutuoktinis(–ė), tėvai (globėjai, įtėviai), pilnamečiai vaikai (įvaikiai), broliai, seserys. Atsiklausus šia tvarka, jeigu jie neprieštarauja, kitų artimųjų neatsiklausiama.
+1. Mirus žmogui, kuris būdamas gyvas šio Įstatymo 7 straipsnio nustatyta tvarka nepareiškė savo valios, jo audinius ir (ar) organus leidžiama paimti transplantacijai, jei veiksnūs mirusiojo artimieji neprieštarauja. Artimųjų neprieštaravimas įforminamas raštu Sveikatos apsaugos ministerijos nustatyta tvarka. Mirusiojo artimųjų, ar jie neprieštarauja, kad asmens audiniai ir (ar) organai būtų paimti transplantacijai, atsiklausiama tokia pirmumo tvarka: sutuoktinis (-ė), tėvai (globėjai, įtėviai), pilnamečiai vaikai (įvaikiai), broliai (seserys). Atsiklausus šia tvarka, jeigu jie neprieštarauja, kitų artimųjų neatsiklausiama.
 
 
 
 
-2. Jeigu asmuo būdamas gyvas šio įstatymo 6 straipsnyje nustatyta tvarka nepareiškė savo valios dėl audinių ir organų panaudojimo transplantacijai ir nėra kitų galimybių sužinoti jo valios, o mirusiojo artimieji yra nežinomi ir jų atsiklausti nėra galimybės, skubiu atveju sprendimą dėl tokio asmens audinių ir(ar) organų paėmimo transplantacijai gali priimti sveikatos priežiūros įstaigos konsiliumas. Konsiliumą sudaro šios sveikatos priežiūros įstaigos medicinos etikos komisijos atstovas, gydantis gydytojas, skyriaus, kuriame buvo gydomas asmuo, vedėjas ar kitas administracijos atstovas.
+2. Jeigu asmuo, būdamas gyvas, šio Įstatymo 7 straipsnyje nustatyta tvarka nepareiškė savo valios dėl audinių ir organų panaudojimo transplantacijai ir nėra kitų galimybių sužinoti jo valios, o mirusiojo artimieji yra nežinomi ir jų atsiklausti nėra galimybės, skubiu atveju sprendimą dėl tokio asmens audinių ir (ar) organų paėmimo transplantacijai gali priimti sveikatos priežiūros įstaigos konsiliumas. Konsiliumą sudaro šios sveikatos priežiūros įstaigos medicinos etikos komisijos atstovas, gydantis gydytojas, skyriaus, kuriame buvo gydomas asmuo, vedėjas ar kitas administracijos atstovas.
 
 
 
@@ -186,7 +212,7 @@ Mirties kriterijus ir konstatavimo tvarką nustato Žmogaus mirties registravimo
 
 
 
-8 straipsnis. Transplantavimo tvarka 
+9 straipsnis. Transplantavimo tvarka
 
 
 1. Mirusio žmogaus audinių ir organų transplantavimo organizavimo tvarką sveikatos priežiūros įstaigose nustato Sveikatos apsaugos ministerija.
@@ -206,7 +232,6 @@ Mirties kriterijus ir konstatavimo tvarką nustato Žmogaus mirties registravimo
 
 4. Gydytojas, konstatavęs asmens mirties faktą arba dalyvavęs konsiliume, priėmusiame sprendimą leisti transplantuoti asmens audinius ir organus, neturi teisės dalyvauti šio asmens audinius ir organus transplantuojant.
  
- 
 
 
 
@@ -220,15 +245,15 @@ TRANSPLANTACIJA IŠ GYVO DONORO
  
 
 
-9 straipsnis. Transplantavimo iš gyvo donoro tvarka
+10 straipsnis. Transplantavimo iš gyvo donoro tvarka 
 
 
-1. Transplantacijai audiniai ir organai gali būti imami iš gyvo asmens tik recipiento terapijai ir kai nėra mirusio asmens tinkamo organo bei kitų alternatyvų. 
+1. Transplantacijai audiniai, ląstelės ir organai gali būti imami iš gyvo asmens tik recipientui gydyti ir kai nėra mirusio asmens tinkamų audinių, ląstelių ar organo bei kitų efektyvių gydymo alternatyvų. 
 
 
 
 
-2. Imti audinius bei organus iš gyvo veiksnaus donoro leidžiama tik gavus jo raštišką sutikimą. Donoras turi teisę atšaukti savo sutikimą.
+2. Imti audinius, ląsteles bei organus iš gyvo veiksnaus donoro leidžiama tik gavus jo raštišką sutikimą. Donoras turi teisę atšaukti savo sutikimą.
 
 
 
@@ -238,7 +263,7 @@ TRANSPLANTACIJA IŠ GYVO DONORO
 
 
 
-4. Imti audinius ar organus iš pilnamečio neveiksnaus ar ribotai veiksnaus donoro draudžiama.
+4. Imti audinius, ląsteles  ar organus iš pilnamečio neveiksnaus ar ribotai veiksnaus donoro draudžiama.
 
 
 
@@ -248,27 +273,27 @@ TRANSPLANTACIJA IŠ GYVO DONORO
 
 
 
-6. Regeneruojančius audinius leidžiama imti iš nepilnamečių tik esant jų tėvų arba globėjų bei savivaldybės vaikų teisių apsaugos tarnybos raštiškiems sutikimams ir jeigu šie audiniai yra skirti transplantuoti donoro broliui ar seseriai.
+6. Regeneruojančius audinius ir ląsteles leidžiama imti iš nepilnamečių tik esant jų tėvų arba globėjų bei savivaldybės vaikų teisių apsaugos tarnybos raštiškiems sutikimams ir jeigu šie audiniai yra skirti transplantuoti donoro broliui ar seseriai.
 
 
 
 
-7. Regeneruojančius audinius iš vyresnio kaip 14 metų nepilnamečio asmens leidžiama imti laikantis šio straipsnio 6 dalies reikalavimų ir tik gavus šio asmens raštišką sutikimą.
+7. Regeneruojančius audinius ir ląsteles iš vyresnio kaip 14 metų nepilnamečio asmens leidžiama imti laikantis šio straipsnio 6 dalies reikalavimų ir tik gavus šio asmens raštišką sutikimą.
 
 
 
 
-8. Prieš paimant audinius bei organus turi būti patikrinta donoro ir recipiento sveikata Sveikatos apsaugos ministerijos nustatyta tvarka.
+8. Prieš paimant audinius, ląsteles bei organus turi būti patikrinta donoro ir recipiento sveikata Sveikatos apsaugos ministerijos nustatyta tvarka.
 
 
 
 
-9. Donoras turi būti suprantamai informuojamas apie galimas audinių ir organų donorystės pasekmes sveikatai. Iš asmens draudžiama imti audinius ar organus, jeigu tai labai pablogintų jo sveikatą ar sukeltų grėsmę gyvybei. 
+9. Donoras turi būti suprantamai informuojamas apie galimas audinių, ląstelių ir organų donorystės pasekmes sveikatai. Iš asmens draudžiama imti audinių, ląstelių ar organų, jeigu tai labai pablogintų jo sveikatą ar sukeltų grėsmę gyvybei. 
 
 
 
 
-10. Audinių ir organų paėmimo iš gyvo donoro organizavimo tvarką nustato Sveikatos apsaugos ministerija
+10. Audinių, ląstelių ir organų paėmimo iš gyvo donoro organizavimo tvarką nustato Sveikatos apsaugos ministerija.
  
 
 
@@ -283,20 +308,18 @@ KOMERCINIŲ SANDORIŲ UŽDRAUDIMAS
  
 
 
-10 straipsnis. Komercinių sandorių neleistinumas
+11 straipsnis. Komercinių sandorių neleistinumas
 
 
-1. Gyvo ar mirusio žmogaus audiniai ir organai negali būti civilinių komercinių sandorių objektas. Audinių ir organų, skirtų transplantacijai, įvežimo iš užsienio ir išvežimo į užsienį tvarką nustato Vyriausybė ar jos įgaliota institucija.
+1. Gyvo ar mirusio žmogaus audiniai, ląstelės ir organai negali būti civilinių komercinių sandorių objektas. Transplantacijai skirtų audinių, ląstelių ir organų įvežimo į Lietuvos Respubliką ir išvežimo iš Lietuvos Respublikos tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 
 
 
-2. Sveikatos priežiūros įstaigų išlaidos dėl žmogaus audinių ir organų paėmimo, paruošimo ir transportavimo apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto ar valstybės biudžeto lėšų teisės aktų nustatyta tvarka. Žmogaus audinių ir organų, skirtų transplantacijai, kai jie įvežami iš užsienio ar išvežami į užsienį, paruošimo ir transportavimo išlaidos apmokamos Sveikatos apsaugos ministerijos nustatyta tvarka. 
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1985, 2000-10-10, Žin., 2000, Nr. 89-2749 (2000-10-25), i. k. 1001010ISTAIII-1985
+2. Sveikatos priežiūros įstaigų išlaidos dėl žmogaus audinių, ląstelių ir organų paėmimo, paruošimo ir transportavimo apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto ar valstybės biudžeto lėšų teisės aktų nustatyta tvarka. Transplantacijai skirtų žmogaus audinių, ląstelių ir organų, kurie bus įvežami į Lietuvos Respubliką ar iš jos išvežami, paruošimo ir transportavimo išlaidos apmokamos Sveikatos apsaugos ministerijos nustatyta tvarka.
  
+
+
 
 
 
@@ -308,21 +331,10 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-11 straipsnis. Atsakomybė
+12 straipsnis. Atsakomybė
 
 
-Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-12 straipsnis. Įstatymo įgyvendinimas 
-
-
-Lietuvos Respublikos Vyriausybė ir Sveikatos apsaugos ministerija iki 1999 m. gruodžio 31 d. parengia ir patvirtina ar pakeičia teisės aktus, reikalingus šiam įstatymui įgyvendinti.
+Asmenys, pažeidę šio Įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 
 
@@ -333,6 +345,7 @@ Lietuvos Respublikos Vyriausybė ir Sveikatos apsaugos ministerija iki 1999 m. g
 
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+ 
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
@@ -353,3 +366,8 @@ Lietuvos Respublikos žmogaus audinių ir organų donorystės ir transplantacijo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1985, 2000-10-10, Žin., 2000, Nr. 89-2749 (2000-10-25), i. k. 1001010ISTAIII-1985
 Lietuvos Respublikos žmogaus audinių ir organų donorystės ir transplantacijos įstatymo 10 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2078, 2004-03-25, Žin., 2004, Nr. 55-1886 (2004-04-16), i. k. 1041010ISTA0IX-2078
+Lietuvos Respublikos žmogaus audinių ir organų donorystės ir transplantacijos įstatymo pakeitimo įstatymas
