@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B8927CF0E9E"
 
 # Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymas
 
+Suvestinė redakcija nuo 1997-10-01 iki 2000-07-30
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 20-521, i. k. 0961010ISTA00I-1214
+ 
+ 
 LIETUVOS RESPUBLIKOS DELSPINIGIŲ NUSTATYMO UŽ IŠMOKŲ, SUSIJUSIŲ SU DARBO SANTYKIAIS, PAVĖLUOTĄ MOKĖJIMĄ ĮSTATYMAS
  
 1996 m. vasario 20 d. Nr. I-1214
@@ -28,9 +33,19 @@ Jeigu ūkio subjekto sąskaitoje nepakanka lėšų apmokėti pagal visus banke e
 
 1. Kai ne dėl darbuotojo kaltės pavėluotai išmokamas darbo užmokestis ar kitos su darbo santykiais susijusios išmokos (išskyrus Lietuvos Respublikos valstybinio socialinio draudimo įstatymo numatytas išmokas), kartu su jomis darbuotojui sumokami delspinigiai. Delspinigių dydį sudaro 0,2 procento priklausančios išmokėti sumos už kiekvieną praleistą kalendorinę dieną, pradedant skaičiuoti po 7 kalendorinių dienų, kai išmokos teisės aktuose ar kolektyvinėje (jeigu jos nėra – darbo) sutartyje arba darbdavio nustatytu laiku turėjo būti sumokėtos, ir baigiant skaičiuoti įskaitant jų išmokėjimo dieną. Kolektyvinėje (jeigu jos nėra – darbo) sutartyje gali būti numatytos darbuotojams palankesnės sąlygos.
 
-2. Delspinigiai neįskaitomi, kai yra apskaičiuojamas darbuotojo vidutinis darbo užmokestis, jie neapmokestinami fizinių asmenų pajamų mokesčiu, nuo jų nemokamos privalomojo valstybinio socialinio draudimo įmokos.
+2. Įmonei iškėlus bankroto bylą arba pradėjus neteisminę bankroto procedūrą, delspinigių skaičiavimas nutraukiamas nuo bankroto bylos iškėlimo (kreditorių sprendimo taikyti neteisminę bankroto procedūrą) dienos. 
+Papildyta straipsnio dalimi:
+Nr. VIII-284, 1997-06-24, Žin., 1997, Nr. 66-1591 (1997-07-11), i. k. 0971010ISTAVIII-284
+ 
 
-3. Darbo užmokesčio lėšos, panaudotos delspinigiams išmokėti, išieškomos iš kaltų dėl pavėluotai išmokėto darbo užmokesčio ir kitų su darbo santykiais susijusių išmokų juridinių ar fizinių asmenų įstatymų nustatyta tvarka.
+3. Delspinigiai neįskaitomi, kai yra apskaičiuojamas darbuotojo vidutinis darbo užmokestis, jie neapmokestinami fizinių asmenų pajamų mokesčiu, nuo jų nemokamos privalomojo valstybinio socialinio draudimo įmokos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. VIII-284, 1997-06-24, Žin., 1997, Nr. 66-1591 (1997-07-11), i. k. 0971010ISTAVIII-284
+ 
+
+4. Darbo užmokesčio lėšos, panaudotos delspinigiams išmokėti, išieškomos iš kaltų dėl pavėluotai išmokėto darbo užmokesčio ir kitų su darbo santykiais susijusių išmokų juridinių ar fizinių asmenų įstatymų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. VIII-284, 1997-06-24, Žin., 1997, Nr. 66-1591 (1997-07-11), i. k. 0971010ISTAVIII-284
  
 
 3 straipsnis. Delspinigių mokėjimo biudžetinėse įstaigose tvarka
@@ -49,4 +64,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-284, 1997-06-24, Žin., 1997, Nr. 66-1591 (1997-07-11), i. k. 0971010ISTAVIII-284
+Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymo 2 straipsnio papildymo įstatymas
 
