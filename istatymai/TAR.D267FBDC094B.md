@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
+Suvestinė redakcija nuo 1995-04-12 iki 1995-06-27
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
+ 
 LIETUVOS RESPUBLIKOS
 ŽEMĖS MOKESČIO
 Į S T A T Y M A S
@@ -217,8 +221,9 @@ Nustatytu laiku neapmokestinti mokėtojai apmokestinami ne daugiau kaip už dvej
 13 straipsnis. 
 
 
-Mokesčio laiku nesumokėjus, už kiekvieną pavėluotą dieną imama 0,5 procento delspinigių.
- 
+Mokesčio laiku nesumokėjus, už kiekvieną pavėluotą dieną imama 0,1 procento delspinigių.
+Straipsnio dalies pakeitimai:
+Nr. I-843, 1995-04-06, Žin., 1995, Nr. 31-703 (1995-04-12), i. k. 0951010ISTA000I-843
  
 
 
@@ -235,3 +240,14 @@ AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                     �
  
 Vilnius, 1992 m. birželio 25 d. 
 Nr. I-2675
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-843, 1995-04-06, Žin., 1995, Nr. 31-703 (1995-04-12), i. k. 0951010ISTA000I-843
+Dėl Lietuvos Respublikos žemės mokesčio įstatymo 13 straipsnio pakeitimo
