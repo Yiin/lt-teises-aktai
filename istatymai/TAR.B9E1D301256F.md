@@ -888,12 +888,22 @@ apmokestinamos taikant kombinuotą akcizo tarifą. Jį sudaro specifinis (litais
 už 1000 cigarečių) ir vertybinis (procentais nuo maksimalios mažmeninės kainos)
 elementai. Kombinuoto akcizo tarifo apskaičiavimo tvarką nustato Vyriausybė ar
 jos įgaliota institucija.
+ 
+2 dalies redakcija iki 2004 m. sausio 1 d.:
 2. Cigaretėms
 taikomas toks akcizo tarifas:
 1) specifinis
 elementas – 42,6 lito ir
 2) vertybinis
 elementas – 10 procentų. 
+2 dalies redakcija nuo 2004 m. sausio 1 d.:
+2. Cigaretėms
+taikomas toks akcizo tarifas:
+1) specifinis
+elementas – 47,5 lito ir
+2) vertybinis
+elementas –15 procentų.
+ 
 3. Šio Įstatymo 3
 straipsnio 9 dalyje nurodytus požymius atitinkantis tabako ritinėlis, kuris (be
 filtro ar kandiklio) yra ilgesnis kaip 9 cm, bet ne ilgesnis kaip 18 cm, šiame
@@ -904,6 +914,9 @@ pakeitimai:
 Nr.
 IX-1228,
 2002-12-10, Žin., 2002, Nr. 123-5520 (2002-12-24)
+Nr.
+IX-1817,
+2003-11-11, Žin., 2003, Nr. 112-4995 (2003-11-28)
  
 26 straipsnis.
 Kitam apdorotam tabakui taikomi akcizo tarifai 
@@ -936,33 +949,58 @@ KURAS
  
 29 straipsnis. Variklių benzinui, jo pakaitalams ir
 priedams taikomi akcizo tarifai
+1 dalies redakcija iki 2004 m. sausio 1 d.:
 1. Variklių benzinui,
 jo pakaitalams ir priedams taikomas 1250 litų už toną produkto akcizo tarifas,
 jeigu šiame straipsnyje nenustatyta kitaip.
+1 dalies redakcija nuo 2004 m. sausio 1 d.:
+1. Variklių benzinui,
+jo pakaitalams ir priedams taikomas 1318 litų už toną produkto akcizo tarifas,
+jeigu šiame straipsnyje nenustatyta kitaip.
+ 
 2. Variklių benzino
 ir biologinės kilmės žaliavų mišiniams, pagamintiems laikantis Biokuro įstatymo
 ir jo įgyvendinimą reglamentuojančių teisės aktų reikalavimų, taikomas šio
 straipsnio 1 dalyje nustatytas akcizo tarifas, sumažintas dalimi, proporcingai
 atitinkančia biologinės kilmės žaliavų dalį (procentais) tonoje produkto.
+Straipsnio pakeitimai:
+Nr.
+IX-1817,
+2003-11-11, Žin., 2003, Nr. 112-4995 (2003-11-28)
  
+30 straipsnio redakcija iki 2004 m. sausio 1 d.:
 30 straipsnis. Žibalui, jo pakaitalams ir priedams
 taikomi akcizo tarifai
 Žibalui, jo
 pakaitalams ir priedams taikomas 720 litų už toną produkto akcizo tarifas. 
+30 straipsnio redakcija nuo 2004 m. sausio 1 d.:
+30 straipsnis.
+Žibalui, jo pakaitalams ir priedams taikomi akcizo tarifai
+Žibalui, jo
+pakaitalams ir priedams taikomas 1002 litų už toną produkto akcizo tarifas.
+Straipsnio pakeitimai:
+Nr.
+IX-1817,
+2003-11-11, Žin., 2003, Nr. 112-4995 (2003-11-28)
  
 31 straipsnis. Gazoliams, jų pakaitalams ir priedams
 taikomi akcizo tarifai
+1 dalies redakcija iki 2004 m. sausio 1 d.:
 1. Gazoliams, jų
 pakaitalams ir priedams taikomas 860 litų už toną produkto akcizo tarifas,
+jeigu šiame straipsnyje nenustatyta kitaip.
+1 dalies redakcija nuo 2004 m. sausio 1 d.:
+1. Gazoliams, jų
+pakaitalams ir priedams taikomas 1002 litų už toną produkto akcizo tarifas,
 jeigu šiame straipsnyje nenustatyta kitaip.
  
 2. Šildymui skirtiems
 gazoliams (buitiniam krosnių kurui), pažymėtiems šio Įstatymo 
 37 straipsnyje nustatyta tvarka, taikomas 80 litų už toną produkto akcizo
 tarifas.
-3. Gazolių ir
-biologinės kilmės žaliavų mišiniams, pagamintiems laikantis Biokuro įstatymo ir
-jo įgyvendinimą reglamentuojančių teisės aktų reikalavimų, taikomas šiame
+3. Gazolių ir biologinės
+kilmės žaliavų mišiniams, pagamintiems laikantis Biokuro įstatymo ir jo
+įgyvendinimą reglamentuojančių teisės aktų reikalavimų, taikomas šiame
 straipsnyje tiems gazoliams nustatytas akcizo tarifas, sumažintas dalimi,
 proporcingai atitinkančia biologinės kilmės priemaišų dalį (procentais) tonoje
 produkto.
@@ -971,6 +1009,9 @@ pakeitimai:
 Nr.
 IX-1228,
 2002-12-10, Žin., 2002, Nr. 123-5520 (2002-12-24)
+Nr.
+IX-1817,
+2003-11-11, Žin., 2003, Nr. 112-4995 (2003-11-28)
  
 32 straipsnis. Skystajam kurui (mazutams), jo
 pakaitalams ir priedams taikomi 
@@ -1018,9 +1059,9 @@ straipsnyje nustatytų atleidimo atvejų, nuo akcizų atleidžiami:
 (variklių kuras), kurie tiekiami kaip kuro atsargos orlaiviams, gabenantiems
 keleivius ir (arba) krovinius vietiniais maršrutais, taip pat teikiantiems
 kitokias paslaugas už atlyginimą; orlaiviams, kurie naudojami atliekant
-valstybės ar savivaldybių institucijų funkcijas; orlaiviams, dalyvaujantiems karinėse
-tarptautinėse pratybose. Kuro, kuriam taikoma ši lengvata, kodus pagal KPN
-nustato Vyriausybė;
+valstybės ar savivaldybių institucijų funkcijas; orlaiviams, dalyvaujantiems
+karinėse tarptautinėse pratybose. Kuro, kuriam taikoma ši lengvata, kodus pagal
+KPN nustato Vyriausybė;
 2) laivų degalai
 (variklių kuras), kurie tiekiami kaip kuro atsargos laivams, gabenantiems
 keleivius ir (arba) krovinius vietiniais maršrutais, taip pat teikiantiems
@@ -1052,12 +1093,12 @@ Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės
 ūkio naudmenų hektarui bei 275 litrų vienai tonai sugautų ir realizuotų žuvų.
 Lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 2. Panaikinus akcizų
-mokėjimo laikino atidėjimo režimą arba importuojant kurą, nurodytą šio straipsnio
-1 dalies 1 arba 2 punkte, akcizai neskaičiuojami. Panaikinus akcizų mokėjimo
-laikino atidėjimo režimą arba importuojant kurą, skirtą šio straipsnio 1 dalies
-3 punkte nurodytiems tikslams, akcizai turi būti apskaičiuoti ir sumokėti šio
-Įstatymo nustatyta tvarka, o nurodyta lengvata taikoma įsigijusiam ar
-importavusiam kurą asmeniui grąžinant akcizus, kuriuos jis sumokėjo šį kurą
+mokėjimo laikino atidėjimo režimą arba importuojant kurą, nurodytą šio
+straipsnio 1 dalies 1 arba 2 punkte, akcizai neskaičiuojami. Panaikinus akcizų
+mokėjimo laikino atidėjimo režimą arba importuojant kurą, skirtą šio straipsnio
+1 dalies 3 punkte nurodytiems tikslams, akcizai turi būti apskaičiuoti ir
+sumokėti šio Įstatymo nustatyta tvarka, o nurodyta lengvata taikoma įsigijusiam
+ar importavusiam kurą asmeniui grąžinant akcizus, kuriuos jis sumokėjo šį kurą
 įsigydamas iš tiekėjo (akcizų mokėtojo) arba importuodamas. Šio straipsnio 1
 dalies 3 punkte nurodytos lengvatos taikymo tvarką ir apribojimus nustato
 Vyriausybė ar jos įgaliota institucija. 
@@ -1087,8 +1128,8 @@ BAIGIAMOSIOS NUOSTATOS
  
 38 straipsnis.
 Įskaitymas į biudžetą
-Akcizai įskaitomi į valstybės
-biudžetą.
+Akcizai įskaitomi į
+valstybės biudžetą.
  
 39 straipsnis. Akcizo už kurą, naudojamą žemės ūkyje
 ir vidaus vandenų 
@@ -1100,9 +1141,8 @@ ir vidaus vandenų
 grąžinamas. Grąžinama akcizų suma apskaičiuojama pagal žemės ūkio subjektų
 įsigytą gazolių ir (arba) jų pakaitalų kiekį, tačiau neviršijant:
 1)
-120 litrų per kalendorinius metus vienam žemės ūkio naudmenų hektarui,
-deklaruotam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, ir
-(arba)
+120 litrų per kalendorinius metus vienam žemės ūkio naudmenų hektarui, deklaruotam
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, ir (arba)
 2)
 275 litrų per kalendorinius metus vienai tonai tvenkiniuose ir kituose vidaus
 vandenyse sugautų ir realizuotų žuvų.
@@ -1193,15 +1233,14 @@ Respublikos akcizų įstatymo 3 ir 6 straipsnių pakeitimo ir papildymo įstatym
 20) Lietuvos
 Respublikos akcizų įstatymo 2, 3, 5, 5(1)
 straipsnių pakeitimo ir papildymo įstatymas ( Žin., 2001, Nr. 14-425);
-21) Lietuvos
-Respublikos akcizų įstatymo 6 straipsnio papildymo įstatymas (Žin., 2001, Nr.
-16-494);
+21) Lietuvos Respublikos
+akcizų įstatymo 6 straipsnio papildymo įstatymas (Žin., 2001, Nr. 16-494);
 22) Lietuvos
 Respublikos akcizų įstatymo 5(1) straipsnio pakeitimo
 įstatymas (Žin., 2001, Nr. 43-1489);
 23) Lietuvos
-Respublikos akcizų įstatymo 5(1), 6 straipsnių
-pakeitimo bei papildymo ir Įstatymo papildymo 5(2)
+Respublikos akcizų įstatymo 5(1), 6 straipsnių pakeitimo
+bei papildymo ir Įstatymo papildymo 5(2)
 straipsniu įstatymas (Žin., 2001, Nr. 45-1575);
 24) Lietuvos Respublikos akcizų įstatymo
 2 ir 5 straipsnių pakeitimo įstatymas (Žin., 2001, Nr. 62-2239).
@@ -1266,11 +1305,21 @@ Nr. IX-1602,
 AKCIZŲ
 ĮSTATYMO 24 IR 27 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1817,
+2003-11-11, Žin., 2003, Nr. 112-4995 (2003-11-28)
+AKCIZŲ
+ĮSTATYMO 25, 29, 30 IR 31 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-06-23)
+Aušrinė Trapinskienė (2003-12-02)
                  
 autrap@lrs.lt
