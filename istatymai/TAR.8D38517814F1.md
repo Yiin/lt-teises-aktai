@@ -29,7 +29,8 @@ Vilnius
 
  
 Nauja
-įstatymo redakcija nuo 2003 m. sausio 1 d.:
+įstatymo redakcija nuo 2003 m. sausio 1 d. (12 straipsnis įsigalioja nuo 2003
+m. kovo 1 d.):
 Nr.
 IX-1004,
 2002-07-01, Žin., 2002, Nr. 72-3016 (2002-07-17)
@@ -59,10 +60,10 @@ medžiagos ar daiktai, kurių atliekų turėtojas atsikrato, nori atsikratyti ar
 privalo atsikratyti ir kurie priklauso atliekų kategorijoms, nurodytoms
 Įstatymo 1 priedėlyje, bei patenka į Aplinkos ministerijos patvirtintą atliekų
 sąrašą.
-3. Atliekų gamintojas –
-asmuo, kurio veiklos metu susidaro atliekų arba kuris atlieka atliekų
-rūšiavimo, maišymo ar kitokią operaciją, kurios metu pasikeičia atliekų pobūdis
-ar sudėtis.
+3. Atliekų gamintojas – asmuo,
+kurio veiklos metu susidaro atliekų arba kuris atlieka atliekų rūšiavimo,
+maišymo ar kitokią operaciją, kurios metu pasikeičia atliekų pobūdis ar
+sudėtis.
 4. Atliekų naudojimas –
 atliekų tvarkymo būdas, nurodytas Įstatymo 2 priedėlyje.
 5. Atliekų perdirbimas –
@@ -115,12 +116,12 @@ savybėmis ir atitinkančios atliekų pavojingumo kriterijus.
 20. Sąvartynas – atliekų
 šalinimo įrenginys, skirtas atliekoms išversti ant žemės paviršiaus ar po žeme.
 Sąvartynams priklauso atliekų šalinimo įrenginiai, kuriuose atliekų gamintojas
-šalina savo atliekas jų susidarymo vietoje, ir nuolatiniai (veikiantys ilgiau negu
-metus) įrenginiai, naudojami laikinai saugoti atliekoms, išskyrus įrenginius,
-kuriuose atliekos iškraunamos, kad būtų paruoštos toliau pervežti į naudojimo,
-apdorojimo ar šalinimo vietas; įrenginiai, kuriuose atliekos saugomos iki
-naudojimo ar apdorojimo trumpiau negu trejus metus, ir įrenginiai, kuriuose
-atliekos saugomos iki šalinimo trumpiau negu vienus metus.
+šalina savo atliekas jų susidarymo vietoje, ir nuolatiniai (veikiantys ilgiau
+negu metus) įrenginiai, naudojami laikinai saugoti atliekoms, išskyrus
+įrenginius, kuriuose atliekos iškraunamos, kad būtų paruoštos toliau pervežti į
+naudojimo, apdorojimo ar šalinimo vietas; įrenginiai, kuriuose atliekos
+saugomos iki naudojimo ar apdorojimo trumpiau negu trejus metus, ir įrenginiai,
+kuriuose atliekos saugomos iki šalinimo trumpiau negu vienus metus.
  
 Antrasis skirsnis
 ATLIEKŲ
@@ -158,9 +159,9 @@ Atliekų tvarkymo organizavimas
 1. Atliekų turėtojas šio Įstatymo
 bei kitų teisės aktų nustatyta tvarka turi tvarkyti atliekas pats arba perduoti
 jas atliekų tvarkytojui.
-2. Įmonės, kurių ūkinėje
-komercinėje veikloje susidaro atliekų, privalo jas rūšiuoti Vyriausybės ar jos
-įgaliotos institucijos nustatyta tvarka.
+2. Įmonės, kurių ūkinėje komercinėje
+veikloje susidaro atliekų, privalo jas rūšiuoti Vyriausybės ar jos įgaliotos
+institucijos nustatyta tvarka.
 3. Atliekas surenkančios,
 vežančios, saugančios ilgiau, negu nustatyta šio Įstatymo 8 straipsnio 3
 dalyje, naudojančios bei šalinančios įmonės turi registruotis Vyriausybės ar
@@ -187,15 +188,15 @@ gamtos išteklių naudojimo leidimus, Vyriausybės ar jos įgaliotos institucijo
 nustatyta tvarka turi rengti ir įgyvendinti gamtos išteklių taupymo ir atliekų
 mažinimo planus.
 3. Gamtos išteklių taupymo ir
-atliekų mažinimo planai peržiūrimi ir keičiami, jeigu pasikeičia gamybos
-technologija ar mastas, išskyrus pačiame plane numatytus pasikeitimus, tačiau
-ne rečiau kaip kas penkeri metai.
+atliekų mažinimo planai peržiūrimi ir keičiami, jeigu pasikeičia gamybos technologija
+ar mastas, išskyrus pačiame plane numatytus pasikeitimus, tačiau ne rečiau kaip
+kas penkeri metai.
  
 6 straipsnis.
 Gamtos išteklių naudojimo leidimai
 1. Įmonės, kurių ūkinėje
-komercinėje veikloje susidaro atliekų kiekiai, viršijantys Aplinkos
-ministerijos nustatytus ribinius dydžius, ir įmonės, kurios atliekas naudoja,
+komercinėje veikloje susidaro atliekų kiekiai, viršijantys Aplinkos ministerijos
+nustatytus ribinius dydžius, ir įmonės, kurios atliekas naudoja,
 šalina ar saugo ilgiau, negu nustatyta šio Įstatymo 8 straipsnio 3
 dalyje, turi gauti gamtos išteklių naudojimo ir teršalų emisijos į aplinką
 leidimus (gamtos išteklių naudojimo leidimus) Aplinkos ministerijos nustatyta
@@ -348,9 +349,9 @@ TVARKYMO valstybinis reglamentavimas
  
 20 straipsnis.
 Aplinkos ministerijos funkcijos
-1. Aplinkos ministerija
-reglamentuoja ir administruoja visų atliekų tvarkymą, kontroliuoja nustatytų
-reikalavimų ir užduočių įgyvendinimą.
+1. Aplinkos ministerija reglamentuoja
+ir administruoja visų atliekų tvarkymą, kontroliuoja nustatytų reikalavimų ir
+užduočių įgyvendinimą.
 2. Aplinkos ministerija
 koordinuoja kitų valstybės institucijų, apskričių viršininkų ir savivaldybių
 veiklą atliekų tvarkymo srityje, ieško papildomų finansavimo šaltinių valstybės
@@ -374,8 +375,8 @@ ministerija inicijuoja šių atliekų tvarkymo pajėgumų sukūrimo projektus.
 1. Ūkio ministerija rengia ir
 tvirtina programas, skatinančias atliekų prevenciją, taip pat skatinančias
 mažinti gamyboje susidarančių atliekų kiekį, diegti mažaatliekes technologijas,
-kurti rinkas iš antrinių žaliavų pagamintiems produktams; koordinuoja šių
-programų įgyvendinimą.
+kurti rinkas iš antrinių žaliavų pagamintiems produktams; koordinuoja šių programų
+įgyvendinimą.
 2. Ūkio ministerija koordinuoja
 pramonės įmonių veiksmus diegiant gamyboje susidarančių atliekų tvarkymo
 pajėgumus. Tais atvejais, kai pramonės įmonės nesugeba užtikrinti saugaus savo
@@ -454,8 +455,8 @@ paslaugos pasiūlą visiems savivaldybės teritorijoje esantiems asmenims.
 3. Savivaldybių atliekų tvarkymo
 planus rengia savivaldybės ir tvirtina savivaldybių tarybos.
  
-29
-straipsnis. Regioninių ir savivaldybių atliekų tvarkymo planų sudėtis
+29 straipsnis. Regioninių ir savivaldybių atliekų
+tvarkymo planų sudėtis
 1. Regioniniuose ir savivaldybių atliekų tvarkymo planuose turi būti
 šios pagrindinės dalys:
 1) esamos atliekų tvarkymo būklės apžvalga;
@@ -496,12 +497,13 @@ atliekų atskiro surinkimo priemonėmis.
 4. Eksploatuoti komunalinių
 atliekų tvarkymo sistemą savivaldybės gali pavesti (kaip privalomą užduotį)
 savivaldybės įsteigtai bendrovei arba kelių savivaldybių įsteigtai atliekų
-tvarkymo įstaigai, įmonei ar organizacijai. Savivaldybės gali organizuoti ir komunalinių
-atliekų tvarkymo sistemos eksploatavimo ir plėtojimo paslaugų operatorių
-(atliekų tvarkytojų) atrankos konkursą arba, nutarusios įvesti vietinę
-rinkliavą iš atliekų turėtojų už komunalinių atliekų surinkimą ir tvarkymą,
-turi organizuoti komunalinių atliekų tvarkymo (komunalinių atliekų tvarkymo
-sistemos eksploatavimo ir plėtojimo) paslaugų viešojo pirkimo konkursą.
+tvarkymo įstaigai, įmonei ar organizacijai. Savivaldybės gali organizuoti ir
+komunalinių atliekų tvarkymo sistemos eksploatavimo ir plėtojimo paslaugų
+operatorių (atliekų tvarkytojų) atrankos konkursą arba, nutarusios įvesti
+vietinę rinkliavą iš atliekų turėtojų už komunalinių atliekų surinkimą ir
+tvarkymą, turi organizuoti komunalinių atliekų tvarkymo (komunalinių atliekų
+tvarkymo sistemos eksploatavimo ir plėtojimo) paslaugų viešojo pirkimo
+konkursą.
 5. Įmonės, kurios verčiasi
 komunalinių atliekų surinkimu, įskaitant antrinių žaliavų surinkimą, šią veiklą
 savivaldybės teritorijoje gali vykdyti tik tuo atveju, jeigu yra sudariusios
@@ -545,13 +547,26 @@ tvarkymo programos lėšos;
 savivaldybių biudžetai;
 3) Aplinkos apsaugos rėmimo
 programos lėšos;
+ 
+4 punkto
+redakcija iki 2004 m. sausio 1 d.:
 4)
 savivaldybių gamtos apsaugos fondai;
+4 punkto
+redakcija nuo 2004 m. sausio 1 d.:
+4) Savivaldybių aplinkos apsaugos
+rėmimo specialiosios programos lėšos;
+ 
 5) Lietuvos aplinkos apsaugos
 investicijų fondo programos lėšos;
 6) užsienio šalių, tarptautinių
 organizacijų ir finansų institucijų bei Lietuvos Respublikos asmenų tiksliniai
 įnašai.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1615,
+2003-06-10, Žin., 2003, Nr. 61-2768 (2003-06-27)
  
 34
 straipsnis. Gaminių ar pakuotės atliekų tvarkymo programa
@@ -572,8 +587,8 @@ investiciniams projektams rengti, vertinti ir įgyvendinti;
 investiciniams projektams įgyvendinti naudojamų paskolų palūkanoms dotuoti;
 4)
 mažaatliekėms technologijoms kurti bei jų naudojimui skatinti.
-4.
-Pagrindiniai Programos lėšų naudojimo principai:
+4. Pagrindiniai
+Programos lėšų naudojimo principai:
 1)
 apmokestinamųjų gaminių ir (ar) pakuotės atliekų tvarkymo išlaidos
 kompensuojamos tik tada, kai galutinis šių atliekų sutvarkymas yra jų
@@ -592,9 +607,8 @@ pajamų skirtumo;
 kompensacijos apskaičiuojamos vienam panaudotų atliekų svorio ar tūrio vienetui
 ir mokamos už panaudotą ar pašalintą (pagal šio straipsnio 4 dalies 2 punktą)
 apmokestinamųjų gaminių ir (ar) pakuotės atliekų kiekį, išskyrus tą atliekų
-kiekį, už kurį mokėtojai pagal Mokesčio už aplinkos teršimą įstatymą
-atleidžiami nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės
-atliekomis;
+kiekį, už kurį mokėtojai pagal Mokesčio už aplinkos teršimą įstatymą atleidžiami
+nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis;
 5)
 lėšos, sukauptos apmokestinus mokesčiu už aplinkos teršimą gaminių ir (ar)
 pakuotės atliekomis tam tikrą gaminių grupę ir (ar) pakuotės rūšį, naudojamos
@@ -607,9 +621,9 @@ apmokestinamųjų gaminių ir (ar) pakuotės atliekų tvarkymo investiciniai
 projektai Programos lėšomis finansuojami tik tais atvejais, kai minėtų gaminių
 ir (ar) pakuotės atliekoms tvarkyti nėra būtinų pajėgumų arba yra įgyvendinti
 tik atskiri šių atliekų tvarkymo etapai;
-7)
-Programos lėšos, nepanaudotos einamaisiais biudžetiniais metais, yra naudojamos
-kitais metais šio straipsnio 3 dalyje numatytoms priemonėms finansuoti.
+7) Programos
+lėšos, nepanaudotos einamaisiais biudžetiniais metais, yra naudojamos kitais
+metais šio straipsnio 3 dalyje numatytoms priemonėms finansuoti.
 5.
 Programos lėšų valdymo bendrosios nuostatos:
 1)
@@ -654,7 +668,6 @@ atestavimo tvarką.
 Įstatymo įsigaliojimas
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d., išskyrus 12
 straipsnį, kuris įsigalioja nuo 2003 m. kovo 1 d.
- 
  
  
 Skelbiu šį
@@ -769,8 +782,8 @@ QQ10
 
 
 Mechaninio
-  apdirbimo ir apdailos liekanos (pvz.: tekinimo, frezavimo darbų atliekos ir t.
-  t.)
+  apdirbimo ir apdailos liekanos (pvz.: tekinimo, frezavimo darbų atliekos ir
+  t. t.)
 
 
 
@@ -1184,8 +1197,8 @@ H9 Infekcinės: medžiagos,
 turinčios gyvybingų mikroorganizmų arba jų toksinų, kurie, kaip žinoma arba
 pagrįstai tikima, sukelia žmonių ar kitų gyvųjų organizmų ligas
 H10 Teratogeninės:
-medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali
-sukelti įgimtus nepaveldimus išsigimimus arba padidinti jų skaičių
+medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti
+įgimtus nepaveldimus išsigimimus arba padidinti jų skaičių
 H11 Mutageninės: medžiagos
 ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti
 paveldimus genetinius išsigimimus arba padidinti jų tikimybę
@@ -1235,14 +1248,28 @@ IX-1004,
 2002-07-01, Žin., 2002, Nr. 72-3016 (2002-07-17)
 ATLIEKŲ
 TVARKYMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2003 m. sausio 1 d., išskyrus 12 straipsnį, kuris įsigalioja
+nuo 2003 m. kovo 1 d.
 Nauja
 įstatymo redakcija
+ 
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1615,
+2003-06-10, Žin., 2003, Nr. 61-2768 (2003-06-27)
+ATLIEKŲ
+TVARKYMO ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d. 
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-07-18)
+Aušrinė Trapinskienė (2003-07-02)
                  
 autrap@lrs.lt
