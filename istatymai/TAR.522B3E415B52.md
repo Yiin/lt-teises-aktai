@@ -1986,7 +1986,6 @@ tinkamam teismo funkcionavimui.
 2. Už teismo
 ūkio skyriaus darbą atsako teismo ūkio skyriaus vedėjas (ūkvedys). 
  
- 
 XIII SKYRIUS
 TEISMŲ SAVIVALDA
  
@@ -2140,19 +2139,19 @@ Teismų tarybos reglamentą;
 3) pataria
 Respublikos Prezidentui dėl teisėjų skyrimo, paaukštinimo, perkėlimo ir
 atleidimo iš pareigų;
-4) pataria
-Respublikos Prezidentui dėl teismų pirmininkų, pirmininkų pavaduotojų, skyrių
-pirmininkų skyrimo ir atleidimo iš pareigų (išskyrus 79 straipsnyje ir 81
-straipsnio 2 ir 3 dalyse numatytus atvejus);
+4) pataria Respublikos
+Prezidentui dėl teismų pirmininkų, pirmininkų pavaduotojų, skyrių pirmininkų
+skyrimo ir atleidimo iš pareigų (išskyrus 79 straipsnyje ir 81 straipsnio 2 ir
+3 dalyse numatytus atvejus);
 5) pataria
 Respublikos Prezidentui dėl teisėjų skaičiaus teismuose nustatymo ar pakeitimo
 (išskyrus 12 straipsnio 8 ir 9 dalyse numatytus atvejus);
 6) sudaro
 Pretendentų į teisėjus egzamino komisiją ir skiria jos pirmininką, svarsto šios
 komisijos nuostatus bei egzamino programą ir juos tvirtina;
-7) tvirtina asmenų
-įrašymo į pretendentų į laisvas apylinkės teismo teisėjų vietas sąrašą tvarką
-bei asmenų įrašymo į teisėjų karjeros siekiančių asmenų registrą tvarką;
+7) tvirtina
+asmenų įrašymo į pretendentų į laisvas apylinkės teismo teisėjų vietas sąrašą
+tvarką bei asmenų įrašymo į teisėjų karjeros siekiančių asmenų registrą tvarką;
 8) sudaro
 atrankos ir kitas nuolatines ar laikinąsias komisijas ir tvirtina jų nuostatus;
 9) skiria Teisėjų
@@ -2341,8 +2340,8 @@ be Teismų tarybos sutikimo.
 5. Atskirais
 atvejais teismai savo funkcijoms atlikti reikalingas patalpas gali nuomotis. 
  
-129 straipsnis.
-Teismų ūkinės finansinės veiklos tikrinimas
+129 straipsnis. Teismų
+ūkinės finansinės veiklos tikrinimas
 Teismų ūkinę
 finansinę veiklą įstatymų nustatyta tvarka pagal savo įgaliojimus gali tikrinti
 Valstybės kontrolė ir kitos valstybės institucijos.
@@ -2599,6 +2598,21 @@ Nr. IX-732,
 TEISMŲ
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
+Šio įstatymo įsigaliojimą nusako:
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-788,
+2002-03-14, Žin., 2002, Nr. 31-1131 (2002-03-27)
+TEISMŲ ĮSTATYMO PAKEITIMO
+ĮSTATYMO ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMAS
+Teismų įstatymo pakeitimo įstatymas įsigalioja nuo
+2002 m. gegužės 1 d., išskyrus šiame Įstatyme numatytas išimtis.
+Teismų įstatymo 94 ir 100
+straipsniai įsigalioja nuo 2003 m. sausio 1 d.
+Iki šiame Įstatyme nurodytų
+Teismų įstatymo straipsnių įsigaliojimo taikomos atitinkamos Teismų įstatymo
+nuostatos, galiojusios iki Teismų įstatymo pakeitimo įstatymo įsigaliojimo.
+ 
  
 ***Pabaiga***
  
@@ -2618,5 +2632,5 @@ KONSTITUCIJAI
  
 Redagavo:
 Aušrinė Trapinskienė (2002-03-27)
-                 
-autrap@lrs.lt
+          
+       autrap@lrs.lt
