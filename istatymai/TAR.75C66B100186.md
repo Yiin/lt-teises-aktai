@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.75C66B100186"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 1993-10-13 iki 1994-06-07
+Suvestinė redakcija nuo 1994-06-08 iki 1994-12-29
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 191-0; Žin. 1992, Nr.29-843, i. k. 0921010ISTA00I-2880
  
@@ -45,23 +45,37 @@ Apie bankroto bylos iškėlimą, jos eigą ir įmonėje atliekamą bankroto proc
 
 Įmonės bankroto bylą teismas iškelia pagal:
 
-1) kreditorių pareiškimus dėl įmonės nemokumo. Pareiškimai gali būti pateikti pasibaigus trims mėnesiams po termino, nustatyto įstatymuose, kituose norminiuose aktuose, taip pat kreditorių ir įmonės sutartyse, arba praėjus tokiam pat terminui po kreditoriaus reikalavimo įvykdyti finansinius įsipareigojimus, jei sutartyse terminas nenustatytas, nurodant, kad skolininkas neturi pakankamai turto savo prievolėms įvykdyti;
+1) kreditorių arba jiems atstovaujančių oficialiai įregistruotų visuomeninių žemės ūkio produkcijos gamintojų organizacijų pareiškimus dėl:
+įmonės nemokumo. Pareiškimai gali būti pateikti pasibaigus trims mėnesiams, o dėl žemės ūkio įmonių – šešiems mėnesiams po termino, nustatyto įstatymuose, kituose norminiuose aktuose, taip pat kreditorių ir įmonės sutartyse, arba praėjus tokiam pat terminui po kreditoriaus reikalavimo įvykdyti finansinius įsipareigojimus, jei sutartyse terminas nenustatytas;
+pernelyg didelio įmonės įsiskolinimo. Pareiškimai gali būti pateikti, kai turinčios juridinio asmens teises įmonės nuosavybe esantis turtas nepadengia jos įsiskolinimų (balanse apskaityto turto vertė yra mažesnė už skolintą kapitalą);
+įmonės netinkamo disponavimo savo turtu (turto dovanojimo, pardavimo mažesnėmis kainomis ar kitokio eikvojimo) arba kitų veiksmų, dėl kurių kreditoriai turi pagrindo manyti, kad iš skolininko turto nebus patenkinti jų reikalavimai;
 
-2) kreditorių pareiškimus dėl pernelyg didelio įmonės įsiskolinimo. Šie pareiškimai gali būti pateikti, kai turinčios juridinio asmens teises įmonės nuosavybe esantis turtas nepadengia jos įsiskolinimų (balanse apskaityto turto vertė yra mažesnė už skolintą kapitalą);
+2) įmonės savininko (savininkų) arba valdymo organo, kurio kompetencijai priklauso sprendimo dėl reorganizavimo ar likvidavimo priėmimas, pareiškimą, jeigu įmonė yra nemoki arba realiai (įrodomai) laukiama jos nemokumo. Jeigu įmonės turto nepakanka finansiniams įsipareigojimams įvykdyti, jos savininkas (savininkai) arba šiame punkte nurodytas įmonės valdymo organas privalo kreiptis į teismą dėl bankroto bylos iškėlimo.
 
-3) kreditorių pareiškimus dėl įmonės netinkamo disponavimo savo turtu (turto dovanojimas, pardavimas mažesnėmis kainomis ar kitoks eikvojimas) arba kitų veiksmų, dėl kurių kreditoriai turi pagrindo manyti, kad iš skolininko turto nebus patenkinti jų reikalavimai;
+Prie pareiškimo dėl įmonės bankroto bylos iškėlimo pridedami dokumentai, įrodantys šio pareiškimo pagrįstumą. 
 
-4) įmonės savininko (savininkų) arba jos valdymo organo, kurio kompetencijai priklauso sprendimo dėl įmonės reorganizavimo ar likvidavimo priėmimas, pareiškimą, jeigu įmonė yra nemoki ar realiai (įrodomai) laukiama jos nemokumo, arba jos turimo turto nepakanka esamiems finansiniams įsipareigojimams įvykdyti.
-
-Prie pareiškimo dėl įmonės bankroto bylos iškėlimo pridedami dokumentai, įrodantys šio pareiškimo pagrįstumą.
+Straipsnio pakeitimai:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
  
 
 4 straipsnis. Neteisminės bankroto procedūros taikymas
 
-Skolininkas ar kreditoriai gali nesikreipti į teismą dėl įmonės bankroto bylos iškėlimo, jeigu skolininkas viešai pasiskelbia apie nesugebėjimą įvykdyti finansinius įsipareigojimus ir raštu apie tai praneša kiekvienam kreditoriui.
-Pranešime turi būti nurodyta: įmonės pavadinimas ir kiti rekvizitai, pirmojo kreditorių susirinkimo data ir vieta.
+Skolininkas arba kreditoriai gali nesikreipti į teismą dėl įmonės bankroto bylos iškėlimo, jeigu:
 
-Sprendimą dėl neteisminės bankroto procedūros taikymo gali priimti kreditorių susirinkimas, susitaręs su skolininku, jeigu šiam sprendimui vienbalsiai pritaria visi kreditoriai.
+1) skolininkui nėra iškeltų bylų teismuose;
+
+2) balanse apskaityto turto vertė nėra mažesnė už skolintą kapitalą;
+
+3) skolininkas arba valdymo organas, kurio kompetencijai priklauso sprendimo dėl įmonės reorganizavimo ar likvidavimo priėmimas, viešai pasiskelbia apie nesugebėjimą įvykdyti finansinius įsipareigojimus ir raštu apie tai praneša kiekvienam kreditoriui, nurodydamas įmonės pavadinimą, pirmojo kreditorių susirinkimo datą ir vietą. 
+
+Straipsnio dalies pakeitimai:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+ 
+
+Sprendimą dėl neteisminės bankroto procedūros taikymo gali priimti kreditorių susirinkimas, susitaręs su skolininku, jeigu šiam sprendimui atviru balsavimu pritarė kreditoriai, kurių reikalavimų suma vertine išraiška sudaro ne mažiau kaip 4/5 visų skolininko neįvykdytų finansinių įsipareigojimų (įskaitant ir tuos, kurių mokėjimo terminai nesuėję) sumos, esančios sprendimo priėmimo dieną. 
+Straipsnio dalies pakeitimai:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+ 
 
 Kreditorių susirinkimo sprendimų vykdymo ir reikalavimų patenkinimo tvarka nustatoma pagal šiame įstatyme nustatytą teisminę bankroto bylų nagrinėjimo tvarką ir sąlygas.
 Straipsnio dalies pakeitimai:
@@ -70,7 +84,9 @@ Nr. I-258, 1993-09-28, Žin., 1993, Nr. 52-999 (1993-10-13), i. k. 0931010ISTA00
 
 Jeigu šalys nesusitaria dėl bankroto procedūros taikymo arba jei kreditorių susirinkimas, remdamasis šiame įstatyme nustatyta tvarka, negali priimti sprendimo dėl reikalavimų patenkinimo sąlygų ir tvarkos, šis klausimas perduodamas nagrinėti teismui.
 
-Bankroto neteisminę procedūrą vykdo kreditorių susirinkimas.
+Bankroto neteisminę procedūrą vykdo kreditorių susirinkimas. Šis susirinkimas taip pat atlieka šio įstatymo 6, 10, 19, 20, 21, 22, 23, 26 ir 28 straipsniuose numatytus veiksmus. 
+Straipsnio dalies pakeitimai:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
  
 
 5 straipsnis. Tyčinis bankrotas
@@ -96,9 +112,15 @@ II SKIRSNIS
 
 6 straipsnis. Bankroto bylos iškėlimas teisme
 
-Įmonės bankroto bylą iškelia vietovės, kurioje yra įmonės buveinė, teismas.
+Įmonės bankroto bylą iškelia vietovės, kurioje yra įmonės buveinė, teismas, jeigu į jį 3 straipsnyje nustatyta tvarka kreipėsi skolininkas arba bent vienas kreditorius, kurio reikalavimas nėra garantuotas įkaitu, arba jeigu suminiai kreditorių reikalavimai yra ne mažesni kaip 3/4 skolininko balanse apskaityto turto vertės. 
+Straipsnio dalies pakeitimai:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+ 
 
-Teismas turi teisę atsisakyti kelti bankroto bylą, jeigu kreipėsi tik vienas kreditorius arba jeigu suminiai kreditorių reikalavimai yra nedideli palyginti su turimu įstatiniu kapitalu. Šiuo atveju turtinės skolininko ir kreditorių pretenzijos sprendžiamos bendra turtinių ginčų sprendimo tvarka.
+Teismas turi teisę atsisakyti kelti bankroto bylą, jeigu kreditorių reikalavimai yra garantuoti įkaitu ir gali būti sprendžiami bendra turtinių ginčų nagrinėjimo tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+ 
 
 Teismas, priėmęs skolininko ar kreditorių pareiškimus ir preliminariai nustatęs ieškininių reikalavimų įmonės bankroto bylai iškelti pagrįstumą, per 7 dienas priima nutartį ją iškelti ir privalo:
 
@@ -117,6 +139,11 @@ terminus, iki kada yra priimamos kreditorių pretenzijos;
 5) sustabdyti kitų, iškeltų šiai įmonei šiame teisme, bylų nagrinėjimą ir pranešti kitiems teismams, kuriuose yra šios įmonės bylų, apie bankroto bylos iškėlimą, kad būtų sustabdytos kitos šiai įmonei iškeltos bylos;
 
 6) užklausti už sanavimą atsakingą organą dėl galimybės taikyti įmonei sanavimo priemones. Jei byla iškelta valstybinei ar valstybinei akcinei įmonei, teismas turi užklausti apie tai ir šios įmonės steigėją. Sanuojantis organas ir steigėjas privalo atsakyti į užklausimą per vieną mėnesį nuo užklausimo gavimo dienos.
+
+Veiksmus, numatytus šio straipsnio trečiojoje dalyje, teismas, priėmęs nutartį iškelti įmonės bankroto bylą, gali pavesti atlikti įmonės administratoriui. 
+Papildyta straipsnio dalimi:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+ 
 
 Teismo nutartis iškelti bankroto bylą gali būti apskųsta Civilinio proceso kodekso nustatyta tvarka.
 
@@ -182,7 +209,10 @@ Teisę sušaukti pirmąjį kreditorių susirinkimą turi teismas arba pasiskelbu
 
 1) bylos iškėlimo dėl įmonės bankroto dienos, kai byla iškeliama teisme;
 
-2) viešo įmonės pasiskelbimo bankrutavusia dienos.
+2) viešo įmonės pasiskelbimo apie nesugebėjimą įvykdyti finansinius įsipareigojimus dienos. 
+Straipsnio punkto pakeitimai:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+ 
 
 Kitus kreditorių susirinkimo posėdžius turi teisę sušaukti teismas, kreditorių susirinkimo pirmininkas. Prašyti sušaukti susirinkimą turi teisę grupė kreditorių, kurių reikalavimų suma vertine išraiška sudaro ne mažiau kaip 1/3 visų kreditorių pateiktų reikalavimų sumos.
 
@@ -271,7 +301,10 @@ V SKIRSNIS
 
 19 straipsnis. Įmonės reorganizavimo sąlygos
 
-Įmonės reorganizavimas – tai kreditorių, administratoriaus, įmonės savininko (savininkų) ar jo įgalioto atstovo vykdomas šios įmonės struktūros pertvarkymas skaidant arba perduodant visą ar dalį įmonės turto kitiems ūkiniams subjektams, jos veiklos pobūdžio pakeitimas siekiant patenkinti kreditorių reikalavimus.
+Įmonės reorganizavimas – tai administratoriaus vykdomas šios įmonės struktūros pertvarkymas, kai ją skaido arba dalį jos turto parduoda kitiems ūkiniams subjektams, jos veiklos pobūdžio pakeitimas, kad būtų laiduojamas įmonės mokumas ir patenkinti kreditorių reikalavimai. 
+Straipsnio dalies pakeitimai:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+ 
 
 Kreditorių susirinkimo arba įmonės teikimu teismas gali priimti sprendimą dėl įmonės reorganizavimo, jeigu yra galimybė pasiekti vieną iš šių tikslų:
 
@@ -385,14 +418,26 @@ Priimamas sprendimas likviduoti bankrutavusią įmonę, jeigu:
 
 2) kreditorių susirinkimo nutarimu įmonė nereorganizuojama arba teismo sprendimu įmonės reorganizavimas nutraukiamas;
 
-3) šiai įmonei netaikomas sanavimas.
+3) šiai įmonei netaikomas sanavimas;
 
-Sprendimas dėl priverstinio bankrutavusios įmonės likvidavimo gali būti priimtas ne anksčiau kaip praėjus 3 mėnesiams nuo įmonės bankroto bylos iškėlimo dienos.
+4) įmonės balanse apskaityto turto vertė yra mažesnė už skolintą kapitalą. 
+Papildyta straipsnio punktu:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+ 
+
+Bankrutavusi įmonė gali būti likviduota tik praėjus trims mėnesiams nuo sprendimo likviduoti ją priėmimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+ 
+
+Bankrutavusios įmonės nekilnojamasis turtas perkainojamas ir parduodamas viešose varžytinėse. 
+Papildyta straipsnio dalimi:
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+ 
 
 Teismo sprendimas dėl priverstinio bankrutavusios įmonės likvidavimo gali būti apskųstas Civilinio proceso kodekso nustatyta tvarka.
 
 Likvidavus bankrutavusią įmonę, laikoma, kad visi jos skolų ir jai mokėtinų skolų terminai pasibaigė.
- 
 
 28 straipsnis. Sprendimo dėl bankrutuojančios įmonės likvidavimo paskelbimas
 
@@ -442,4 +487,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-258, 1993-09-28, Žin., 1993, Nr. 52-999 (1993-10-13), i. k. 0931010ISTA000I-258
 Dėl Lietuvos Respublikos įmonių bankroto įstatymo pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+Dėl Lietuvos Respublikos įmonių bankroto įstatymo pakeitimo ir papildymo
 
