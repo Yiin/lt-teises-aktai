@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7A7054CAB4EE"
 
 # Dėl darbuotojų privataus kapitalo kaupimo valstybinėse įmonėse
 
-Suvestinė redakcija nuo 1991-04-14 iki 1991-08-07
+Įstatymas netenka galios 2004-11-17:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2522, 2004-11-02, Žin., 2004, Nr. 167-6101 (2004-11-17), i. k. 1041010ISTA0IX-2522
+Lietuvos Respublikos kai kurių įstatymų, reglamentuojančių valstybės ir savivaldybių turto privatizavimą, ir su jais susijusių teisės aktų pripažinimo netekusiais galios įstatymas
+ 
+Suvestinė redakcija nuo 1991-08-08 iki 2004-11-16
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 139-0; Žin. 1990, Nr.35-848, i. k. 0901010ISTA000I-828
  
@@ -28,8 +33,11 @@ Lietuvos Respublikos Aukščiausioji Taryba, atsižvelgdama į valstybinių įmo
 
 1. Kol nepradėta įgyvendinti Lietuvos Respublikos valstybinio turto privatizavimo programa, darbo kolektyvų pageidavimu leisti valstybinėms (valstybinėms akcinėms ar kooperatinėms) įmonėms (išskyrus 2 punkte nurodytas įmones), kurios yra persiregistravusios pagal Lietuvos Respublikos įmonių įstatymus, suderinus su steigėju, iš darbuotojų įnašų formuoti akcinį kapitalą, privatizuojant iki 10% įmonėje sukaupto valstybinio pagrindinio kapitalo (fondų), įvertinto pagal šio įstatymo 4 punkte perskaičiuotą fondų likutinę vertę.
 
-2. Pagal šį laikinąjį įstatymą negali būti privatizuojamos valstybinės įmonės, veikiančios transporto ir ryšių, miškų ūkio šakose, kuro ir energetikos sistemoje, komunaliniame ūkyje, žemės ūkio įmonės, taip pat valstybinės įmonės, kuriose pagrindinių fondų likutinė vertė yra mažesnė kaip 1/3 jų balansinės vertės,ir Lietuvos Respublikos Vyriausybės nustatytos įmonės, kuriose nenumatoma kaupti privataus kapitalo.
-Akcinis kapitalas negali būti kaupiamas nedidelėse (iki 150 tūkst. rublių vertės) valstybinėse įmonėse, kurios gali būti privatizuojamos parduodant aukcione (neišleidžiant akcijų), taip pat iki 1940 metų pastatytose įmonėse, kurios gali būti grąžintos jų buvusiems savininkams.
+2. Pagal šį laikinąjį įstatymą negali būti privatizuojamos valstybinės žemės ūkio įmonės, taip pat valstybinės įmonės, kuriose perskaičiuota, bet neindeksuota pagrindinių fondų likutinė vertė yra mažesnė kaip vienas trečdalis jų balansinės vertės, ir Lietuvos Respublikos Vyriausybės nustatytos įmonės, kuriose nenumatoma kaupti privataus kapitalo.
+Akcinis kapitalas negali būti kaupiamas nedidelėse (iki 150 tūkst. rublių neindeksuotų pagrindinių priemonių vertės) valstybinėse įmonėse, kurios gali būti privatizuojamos parduodant aukcione (neišleidžiant akcijų), taip pat iki 1940 metų pastatytose įmonėse, kurių buvę savininkai gali pareikšti pretenzijas į daugiau kaip 50 procentų perskaičiuoto įstatinio kapitalo vertės (1989 metų kainomis). 
+Straipsnio pakeitimai:
+Nr. I-1636, 1991-07-30, Lietuvos aidas, 1991, Nr. 154-0 (1991-08-07); Žin., 1991, Nr. 23-605 (1991-08-20), i. k. 0911010ISTA00I-1636
+ 
 
 3. Įmonių valstybinis turtas privatizuojamas iš leidžiant paprastąsias vardines akcijas. Jos gali būti parduotos tik įmonės darbuotojams, išdirbusiems šioje įmonėje ne mažiau kaip vienus metus, už kainą, lygią išleidžiamų akcijų nominaliai vertei. Darbuotojas neturi teisės įsigyti akcijų, kurių bendra nominali vertė yra didesnė kaip 3 tūkst. rublių. Šių akcijų cirkuliacija 1991 metais yra uždrausta: jos negali būti parduodamos ar kaip kitaip perduodamos kitų asmenų nuosavybėn, išskyrus perdavimą šeimos nariams (sutuoktiniui, tėvams, vaikams) bei mirusio akcininko įpėdiniams. Akcininkui vietoj akcijų gali būti išduodami įmonės administracijos nustatytos formos sertifikatai ar pažymėjimai. Išleistos akcijos registruojamos įmonės akcininkų registracijos knygoje. Išleistos akcijos registruojamos įmonės darbininkų registracijos knygoje.
 Straipsnio pakeitimai:
@@ -85,5 +93,10 @@ Dėl Lietuvos Respublikos laikinojo įstatymo "Dėl darbuotojų privataus kapita
 2.
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-1203, 1991-04-09, Lietuvos aidas, 1991, Nr. 73-0 (1991-04-13); Žin., 1991, Nr. 12-314 (1991-04-30), i. k. 0911010ISTA00I-1203
+Dėl Lietuvos Respublikos laikinojo įstatymo "Dėl darbuotojų privataus kapitalo kaupimo valstybinėse įmonėse" pakeitimo ir papildymo
+ 
+3.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-1636, 1991-07-30, Lietuvos aidas, 1991, Nr. 154-0 (1991-08-07); Žin., 1991, Nr. 23-605 (1991-08-20), i. k. 0911010ISTA00I-1636
 Dėl Lietuvos Respublikos laikinojo įstatymo "Dėl darbuotojų privataus kapitalo kaupimo valstybinėse įmonėse" pakeitimo ir papildymo
 
