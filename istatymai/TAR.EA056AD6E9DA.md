@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EA056AD6E9DA"
 
 # Lietuvos Respublikos valstybinės mokesčių inspekcijos įstatymas
 
+Suvestinė redakcija nuo 1993-11-19 iki 1994-11-08
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 30-0; Žin. 1990, Nr.19-493, i. k. 0901010ISTA000I-324
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBINĖS MOKESČIŲ INSPEKCIJOS
 Į S T A T Y M A S
@@ -47,7 +51,11 @@ Valstybinė mokesčių inspekcija:
 
 4) kontroliuoja mokesčių ir įmokų paskirstymą biudžetams;
 
-5) organizuoja konfiskuoto, bešeimininkio ir valstybės paveldėto turto bei lobių apskaitą, įkainojimą bei realizavimą.
+5) organizuoja konfiskuoto, bešeimininkio ir valstybės paveldėto turto bei lobių apskaitą, įkainojimą bei realizavimą.;
+
+6) tikrina, ar ūkiniai subjektai nepažeidžia paskolų sutartis reguliuojančių įstatymų. 
+Papildyta straipsnio punktu:
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
  
 
 III. Valstybinės mokesčių inspekcijos teisės
@@ -78,7 +86,11 @@ Valstybinės mokesčių inspekcijos viršininkas ir jo pavaduotojas, be šio įs
 
 2) duoti nurodymus bankų įstaigoms nutraukti pinigų išdavimą bei pervedimą iš įmonių sąskaitų, jeigu jie nustatytu laiku nepateikė valstybinei mokesčių inspekcijai mokesčių ir kitų įmokų į biudžetus apskaičiavimų, neleidžia patikrinti mokesčių arba kai tikrinimo metu nustatyti pajamų slėpimo bei neteisingo mokesčių apskaičiavimo faktai;
 
-3) įstatymo nustatyta tvarka skirti administracines nuobaudas.
+3) įstatymo nustatyta tvarka skirti administracines nuobaudas;
+
+4) teikia pasiūlymus įmonių rejestro tvarkytojams už Lietuvos Respublikos įstatymų numatytus pažeidimus atšaukti įmonės įregistravimą įstatymų nustatyta tvarka.
+Papildyta straipsnio punktu:
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
  
 
 IV. Valstybinės mokesčių inspekcijos pareigūnų atsakomybė
@@ -100,4 +112,15 @@ AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                     �
  
 Vilnius, 1990 m. birželio 26 d. 
 Nr. I-324
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-300, 1993-11-09, Žin., 1993, Nr. 62-1169 (1993-11-19), i. k. 0931010ISTA000I-300
+Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
 
