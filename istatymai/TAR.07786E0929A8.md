@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 1994-11-18 iki 1997-12-23
+Suvestinė redakcija nuo 1997-12-24 iki 1997-12-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
  
@@ -803,7 +803,6 @@ Sutartis dėl patentinės paraiškos ar patento perleidimo turi būti sudaryta r
 
 Patentinės paraiškos ar patento nuosavybės teisės pakeitimas, sumokėjus mokestį, registruojamas Valstybiniame patentų biure. Patentinės paraiškos ar patento perėmėjas nuosavybės teisę įgyja nuo registracijos Valstybiniame patentų biure datos. Žinios apie patento savininko pasikeitimą skelbiamos Valstybinio patentų biuro oficialiame biuletenyje.
  
- 
 
 
 
@@ -877,7 +876,9 @@ Sumokėjus mokestį, licencinė sutartis įrašoma į Lietuvos Respublikos paten
 
 
 
-Licencinių sutarčių sudarymo ir pakeitimo tvarką nustato atskiras įstatymas.
+4. Neteko galios nuo 1997-12-24
+Straipsnio dalies naikinimas:
+Nr. VIII-565, 1997-12-09, Žin. 1997, Nr. 117-3005 (1997-12-24), i. k. 0971010ISTAVIII-565
  
 
 
@@ -1551,3 +1552,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-638, 1994-11-08, Žin., 1994, Nr. 89-1713 (1994-11-18), i. k. 0941010ISTA000I-638
 Dėl Lietuvos Respublikos patentų įstatymo pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-565, 1997-12-09, Žin., 1997, Nr. 117-3005 (1997-12-24), i. k. 0971010ISTAVIII-565
+Lietuvos Respublikos patentų įstatymo 34 straipsnio pakeitimo įstatymas
