@@ -1376,15 +1376,19 @@ ir savivaldybės tarybai;
 8) yra
 atsakingas už savivaldybės finansinių išteklių bei turto naudojimo patikrinimų
 atlikimą arba organizavimą; 
+ 
+2
+dalies 9 punkto redakcija nuo 2003 m. gegužės 1 d.:
 9) patikrinimo
-metu nustatęs nusikaltimo požymių, medžiagą perduoda teisėsaugos institucijoms;
-10) priima sprendimus
-dėl savivaldybės kontrolieriaus tarnybos gaunamų gyventojų skundų ar pareiškimų
-nagrinėjimo; 
+metu nustatęs nusikalstamos veikos požymių, medžiagą perduoda teisėsaugos
+institucijoms;
+10) priima
+sprendimus dėl savivaldybės kontrolieriaus tarnybos gaunamų gyventojų skundų ar
+pareiškimų nagrinėjimo; 
 11)
 pagal Seimo kontrolierių prašymus teikia jiems reikalingą informaciją; 
-12) pagal
-kompetenciją leidžia įsakymus;
+12) pagal kompetenciją
+leidžia įsakymus;
 13) kiekvienais
 metais iki savivaldybės biudžeto patvirtinimo pateikia savivaldybės tarybai
 veiklos ataskaitą, o kai savivaldybės taryba ar Kontrolės komitetas reikalauja,
@@ -1404,9 +1408,9 @@ biudžetinėse ir viešosiose įstaigose bei savivaldybės kontroliuojamose įmo
 savivaldybės biudžeto lėšų naudojimo teisėtumą visose, nepaisant jų
 statuso, įstaigose, įmonėse bei organizacijose, kurioms tos lėšos skirtos; 
 3) pagal
-kompetenciją Viešojo administravimo įstatymo nustatyta tvarka nagrinėja
-gyventojų skundus ir pareiškimus. Anoniminiai skundai ar pareiškimai
-nagrinėjami, jeigu taip nusprendžia savivaldybės kontrolierius;
+kompetenciją Viešojo administravimo įstatymo nustatyta tvarka nagrinėja gyventojų
+skundus ir pareiškimus. Anoniminiai skundai ar pareiškimai nagrinėjami, jeigu
+taip nusprendžia savivaldybės kontrolierius;
 4)
 Administracinių teisės pažeidimų kodekso nustatytais atvejais surašo
 administracinių teisės pažeidimų protokolus ir juos teikia nagrinėti įstatymų
@@ -1416,11 +1420,14 @@ Nr. IX-519,
 2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
 Nr. IX-1327,
 2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)
+Nr.
+IX-1449,
+2003-04-03, Žin., 2003, Nr. 38-1694 (2003-04-24)
  
 SEPTINTASIS
 SKIRSNIS
-SAVIVALDYBĖS
-VIEŠOJO ADMINISTRAVIMO ĮSTAIGOS, 
+SAVIVALDYBĖS VIEŠOJO
+ADMINISTRAVIMO ĮSTAIGOS, 
 JŲ
 SUDARYMAS IR ĮGALIOJIMAI
  
@@ -1436,9 +1443,9 @@ ir gaunančių užmokestį iš savivaldybės biudžeto, skaičių mero teikimu t
 arba keičia savivaldybės taryba, o pareigybes tvirtina savivaldybės
 administracijos direktorius. Savivaldybės administracijos įgaliojimai nesusiję
 su savivaldybės tarybos įgaliojimų pabaiga. Savivaldybės administracija turi
-sąskaitų bankuose ir antspaudą su savivaldybės herbu. Savivaldybės administracijos
-struktūriniai ir struktūriniai teritoriniai padaliniai – seniūnijos paprastai
-turi sąskaitų bankuose.
+sąskaitų bankuose ir antspaudą su savivaldybės herbu. Savivaldybės
+administracijos struktūriniai ir struktūriniai teritoriniai padaliniai – seniūnijos
+paprastai turi sąskaitų bankuose.
 2. Savivaldybės administracijos direktorius yra
 savivaldybės administracijos vadovas – įstaigos vadovas, pavaldus savivaldybės
 tarybai ir atskaitingas merui. Savivaldybės administracijos direktoriaus
@@ -1451,8 +1458,8 @@ asmeniui neribojamas. Savivaldybės administracijos direktoriaus pavaduotojas
 (jeigu ši pareigybė įsteigiama) į pareigas mero siūlymu skiriamas savivaldybės
 tarybos sprendimu politinio (asmeninio) pasitikėjimo pagrindu. Tarnybines
 nuobaudas savivaldybės administracijos direktoriui (direktoriaus pavaduotojui)
-už tarnybinius nusižengimus skiria savivaldybės taryba. Tarnybinės nuobaudos skyrimo
-procedūra pradedama mero iniciatyva arba remiantis jo gauta rašytine
+už tarnybinius nusižengimus skiria savivaldybės taryba. Tarnybinės nuobaudos
+skyrimo procedūra pradedama mero iniciatyva arba remiantis jo gauta rašytine
 informacija apie savivaldybės administracijos direktoriaus (direktoriaus
 pavaduotojo) tarnybinius nusižengimus.
 4. Dėl savivaldybės administracijos direktoriaus
@@ -1563,10 +1570,10 @@ Nr. IX-1327,
  
 31 straipsnis.
 Seniūnijos ir seniūno funkcijos
-1. Seniūnijos veiklą
-reglamentuoja savivaldybės mero patvirtinti seniūnijos veiklos nuostatai.
-Seniūnijos veikla finansuojama iš savivaldybės biudžeto, tam seniūnijai
-skiriami reikiami asignavimai.
+1. Seniūnijos
+veiklą reglamentuoja savivaldybės mero patvirtinti seniūnijos veiklos
+nuostatai. Seniūnijos veikla finansuojama iš savivaldybės biudžeto, tam
+seniūnijai skiriami reikiami asignavimai.
 2. Seniūnija:
 1) prireikus
 įvertina atskirų šeimų (asmenų) gyvenimo sąlygas ir pateikia savivaldybės
@@ -1585,8 +1592,8 @@ savininkų, valdytojų ir naudotojų pranešimus apie medžiojamųjų gyvūnų p
 6) dalyvauja
 rengiant ir įgyvendinant vaiko teisių apsaugos ir vaiko teisių pažeidimų
 prevencijos gerinimo priemones;
-7) dalyvauja rengiant
-ir įgyvendinant kaimo plėtros programas;
+7) dalyvauja
+rengiant ir įgyvendinant kaimo plėtros programas;
 8) dalyvauja
 organizuojant civilinę saugą;
 9) dalyvauja
@@ -1610,8 +1617,8 @@ kapinių priežiūrą;
 želdinių priežiūrą;
 17) organizuoja
 laisvalaikio centrų veiklą;
-18) nustatyta tvarka
-gali organizuoti socialinės paramos teikimą ir pašalpų mokėjimą;
+18) nustatyta
+tvarka gali organizuoti socialinės paramos teikimą ir pašalpų mokėjimą;
 19) organizuoja
 seniūnijos veiklos nuostatuose priskirtas būsto paslaugas;
 20) prireikus
@@ -1621,9 +1628,8 @@ organizuoja viešųjų tualetų paslaugas.
 administravimą;
 2) administruoja
 seniūnijai skirtus asignavimus;
-3) seniūnijos
-veiklos nuostatų nustatyta tvarka atlieka jam priskirtas personalo valdymo
-funkcijas;
+3) seniūnijos veiklos
+nuostatų nustatyta tvarka atlieka jam priskirtas personalo valdymo funkcijas;
 4) išduoda
 seniūnijai priskirtos teritorijos gyventojams šeimos sudėtį, gyvenamąją vietą
 ir kitokias faktinę padėtį patvirtinančias pažymas, išskyrus atvejus, kai tai
@@ -1638,8 +1644,9 @@ veiksmus ir Civilinio kodekso nustatyta tvarka neatlygintinai tvirtina
 seniūnijai priskirtos teritorijos gyventojų oficialiesiems testamentams
 prilyginamus testamentus. Seniūnas notarinius veiksmus atlieka seniūnijos
 patalpose. Atlikti notarinius veiksmus ne seniūnijos patalpose seniūnas gali
-tik tuo atveju, kai suinteresuotas asmuo dėl svarbios priežasties (liga, invalidumas)
-negali atvykti į seniūnijos patalpas ir iškviečia seniūną į gyvenamąją vietą;
+tik tuo atveju, kai suinteresuotas asmuo dėl svarbios priežasties (liga,
+invalidumas) negali atvykti į seniūnijos patalpas ir iškviečia seniūną į gyvenamąją
+vietą;
 8) nagrinėja Administracinių teisės
 pažeidimų kodekso priskirtas administracinių teisės pažeidimų bylas; 
 9) seniūnijos
@@ -1675,10 +1682,10 @@ savivaldybės administracijos direktoriui. Konsultuoja seniūnijai priskirtos
 teritorijos gyventojus ir teikia jiems informaciją apie savivaldybės
 institucijų ir savivaldybės administracijos bei valstybės institucijų veiklą
 savivaldybės teritorijoje.
-4. Seniūnijos
-veiklos nuostatuose gali būti seniūnijoms bei seniūnams pavesta atlikti ir
-kitas funkcijas, nepriskirtas kitiems savivaldybės administracijos
-struktūriniams padaliniams seniūnijai priskirtoje teritorijoje.
+4. Seniūnijos veiklos
+nuostatuose gali būti seniūnijoms bei seniūnams pavesta atlikti ir kitas
+funkcijas, nepriskirtas kitiems savivaldybės administracijos struktūriniams
+padaliniams seniūnijai priskirtoje teritorijoje.
 Straipsnio
 pakeitimai:
 Nr. IX-426, 2001-07-05, Žin., 2001, Nr.
@@ -1816,12 +1823,12 @@ tarybų patvirtintoms socialinėms ir ekonominėms bei kitoms programoms
 teikimui organizuoti.
 4. Savivaldybės arba jų vardu Lietuvos savivaldybių
 asociacija derina teisės akto, pagal kurį numatomas savivaldybių funkcijų,
-pajamų ir (ar) išlaidų pasikeitimas, projektą kartu su prie jo pridėtais
-finansiniais skaičiavimais.
+pajamų ir (ar) išlaidų pasikeitimas, projektą kartu su prie jo pridėtais finansiniais
+skaičiavimais.
 5. Jeigu
 savivaldybių biudžetų pajamos ar išlaidos dėl valstybės institucijų priimtų
-teisės aktų keičiasi, pasikeitusios sumos, išskyrus sumas, kuriomis savivaldybių
-biudžetai sumažėja dėl valstybinės žemės laisvosios ekonominės zonos
+teisės aktų keičiasi, pasikeitusios sumos, išskyrus sumas, kuriomis
+savivaldybių biudžetai sumažėja dėl valstybinės žemės laisvosios ekonominės zonos
 teritorijoje nuomos mokesčio, panaudoto žemei išpirkti iš žemės savininkų šioje
 teritorijoje, kompensuojamos atitinkamai iš Lietuvos valstybės ar savivaldybių
 biudžetų. Kompensuojamos sumos nustatomos Savivaldybių biudžetų pajamų
@@ -1904,8 +1911,8 @@ spręsdamos visus su jomis tiesiogiai susijusius klausimus.
 7. Rengiami bei
 svarstomi su savivaldybių veikla susiję įstatymų ir kitų teisės aktų projektai
 aptariami su atskiromis savivaldybėmis arba Lietuvos savivaldybių asociacija
-Seimo statuto ir Vyriausybės darbo reglamento bei kitų valstybinio
-administravimo subjektų nustatyta tvarka.
+Seimo statuto ir Vyriausybės darbo reglamento bei kitų valstybinio administravimo
+subjektų nustatyta tvarka.
 8. Nustatyta
 tvarka kasmet Vyriausybė ir Lietuvos savivaldybių asociacija svarsto ir derina
 savivaldybių biudžetų pajamų dydį ir jų išlyginimą lemiančius rodiklius.
@@ -2086,17 +2093,17 @@ tarybai.
 apklausos paskelbimo iniciatyvos teisę įgyvendina ne mažiau kaip 10 procentų
 apklausos teritorijos gyventojų, turinčių teisę rinkti šios savivaldybės
 tarybą, reikalavimu.
-3. Savivaldybės taryba apklausos paskelbimo
-iniciatyvos teisę įgyvendina ne mažiau kaip 
+3. Savivaldybės taryba apklausos
+paskelbimo iniciatyvos teisę įgyvendina ne mažiau kaip 
 1/4 savivaldybės tarybos narių grupės reikalavimu savivaldybės tarybos veiklos
 reglamento nustatyta tvarka.
  
 49
 straipsnis. Gyventojų apklausos paskelbimo iniciatyvos teisės įgyvendinimas
-1. Apklausos paskelbimo
-iniciatyvos teisę gyventojai įgyvendina tiesiogiai. Šiam tikslui sudaroma
-iniciatyvinė grupė iš ne mažiau kaip 10 gyventojų, turinčių teisę rinkti
-savivaldybės tarybą. Grupės atstovas asmeniškai pateikia merui prašymą
+1. Apklausos
+paskelbimo iniciatyvos teisę gyventojai įgyvendina tiesiogiai. Šiam tikslui
+sudaroma iniciatyvinė grupė iš ne mažiau kaip 10 gyventojų, turinčių teisę
+rinkti savivaldybės tarybą. Grupės atstovas asmeniškai pateikia merui prašymą
 įregistruoti iniciatyvinę grupę.
 2. Iniciatyvinės
 grupės prašyme turi būti nurodyta: preliminarus arba galutinis apklausai
@@ -2111,11 +2118,11 @@ administracija suteikia reikalingą pagalbą rengiant galutinį apklausai teikia
 (-ų) klausimo (-ų) tekstą. Galutinį klausimo (-ų) tekstą pasirašo visi
 iniciatyvinės grupės nariai ir jis pateikiamas merui.
 4. Meras paveda savivaldybės administracijos direktoriui
-spręsti iniciatyvinės grupės įregistravimo klausimą. Savivaldybės
-administracijos direktorius, gavęs iniciatyvinės grupės prašymą, ne vėliau kaip
-per 5 darbo dienas įregistruoja iniciatyvinę grupę ir ne vėliau kaip per 5
-darbo dienas nuo jos įregistravimo išduoda vidaus reikalų ministro patvirtintos
-formos gyventojų parašų dėl reikalavimo paskelbti apklausą rinkimo lapus.
+spręsti iniciatyvinės grupės įregistravimo klausimą. Savivaldybės administracijos
+direktorius, gavęs iniciatyvinės grupės prašymą, ne vėliau kaip per 5 darbo
+dienas įregistruoja iniciatyvinę grupę ir ne vėliau kaip per 5 darbo dienas nuo
+jos įregistravimo išduoda vidaus reikalų ministro patvirtintos formos gyventojų
+parašų dėl reikalavimo paskelbti apklausą rinkimo lapus.
 5. Gyventojų
 iniciatyvos paskelbti apklausą teisei įgyvendinti nustatomas vieno mėnesio
 laikotarpis. Jis skaičiuojamas nuo gyventojų parašų dėl reikalavimo paskelbti
@@ -2419,8 +2426,8 @@ SAVIVALDOS ĮSTATYMO 6, 17, 19 IR 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-963, 2002-06-20,
-Žin., 2002, Nr. 68-2765 (2002-07-03)
+IX-963,
+2002-06-20, Žin., 2002, Nr. 68-2765 (2002-07-03)
 VIETOS
 SAVIVALDOS ĮSTATYMO 3, 14, 18, 20, 25, 36, 41 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
@@ -2445,8 +2452,8 @@ Nr.
 IX-1137,
 2002-10-15, Žin., 2002, Nr. 103-4605 (2002-10-30)
 VIETOS
-SAVIVALDOS ĮSTATYMO 17, 21 STRAIPSNIŲ PAPILDYMO BEI ĮSTATYMO PAPILDYMO
-TRYLIKTUOJU SKIRSNIU ĮSTATYMAS
+SAVIVALDOS ĮSTATYMO 17, 21 STRAIPSNIŲ PAPILDYMO BEI ĮSTATYMO PAPILDYMO TRYLIKTUOJU
+SKIRSNIU ĮSTATYMAS
  
 25.
 Lietuvos
@@ -2499,6 +2506,18 @@ VIETOS
 SAVIVALDOS ĮSTATYMO 8, 14, 15, 17, 20, 24, 26, 29, 31, 40 STRAIPSNIŲ PAPILDYMO
 IR PAKEITIMO ĮSTATYMAS
  
+30.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1449,
+2003-04-03, Žin., 2003, Nr. 38-1694 (2003-04-24)
+VIETOS
+SAVIVALDOS ĮSTATYMO 28 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin.,
+2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin.,
+2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
@@ -2526,11 +2545,8 @@ KONSTITUCIJOS 119 STRAIPSNIO PAKEITIMO ĮSTATYMO TAIKYMO TVARKOS KONSTITUCINIO
 ĮSTATYMO ĮRAŠYMO Į KONSTITUCINIŲ ĮSTATYMŲ SĄRAŠĄ ĮSTATYMO ATITIKTIES LIETUVOS
 RESPUBLIKOS KONSTITUCIJAI
  
-***
-Pabaiga ***
- 
  
 Redagavo:
-Aušrinė Trapinskienė (2003-03-24)
+Aušrinė Trapinskienė (2003-04-29)
                  
 autrap@lrs.lt
