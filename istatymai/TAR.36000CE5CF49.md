@@ -14,7 +14,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.36000CE5CF49"
 # Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros laikinasis įstatymas
 
 Įstatymas paskelbtas: Žin.,
-1999, Nr.110-3206
+1999, Nr. 110-3206
 Neoficialus įstatymo tekstas
  
  
@@ -162,55 +162,43 @@ dydis numatomas įvertinus veiklos pajamų kitimą per paskutiniuosius 2-3 metus
 bei prognozuojamus ateinančių metų vartojimo kainų indeksus. 
 Straipsnio
 pakeitimai:
-Nr. VIII-1789, 00.07.04, Žin., 2000,
-Nr.56-1653 (00.07.12)
+Nr. VIII-1789, 2000 07 04, Žin., 2000, Nr.
+56-1653 (2000 07 12)
  
  
 5
 straipsnis. Fondo biudžeto išlaidos
 1.
 Fondo biudžeto išlaidas sudaro: pensijų draudimo, ligos ir motinystės
-(tėvystės) draudimo, draudimo kompensacijoms, nelaimingų atsitikimų darbe ir
-profesinių ligų socialinio draudimo išlaidos, į Privalomojo sveikatos draudimo
-fondą bei draudimui nuo nedarbo pervedamos lėšos, įvertintos neatgautinos ir
-abejotinai atgautinos sumos bei veiklos sąnaudos.
+(tėvystės) draudimo, nelaimingų atsitikimų darbe ir profesinių ligų socialinio
+draudimo išlaidos, į Privalomojo sveikatos draudimo fondą bei draudimui nuo
+nedarbo pervedamos lėšos, įvertintos neatgautinos ir abejotinai atgautinos
+sumos bei veiklos sąnaudos.
 2.
 Pensijų draudimo išlaidoms priskiriamos senatvės, invalidumo, našlių ir
 našlaičių (maitintojo netekimo) ir ištarnauto laiko pensijos, numatytos
 Valstybinių socialinio draudimo pensijų įstatyme.
-3.
-Ligos ir motinystės (tėvystės) draudimo išlaidoms priskiriamos ligos ir motinystės
-(tėvystės), taip pat laidojimo pašalpos, numatytos Valstybinio socialinio
-draudimo įstatyme ir Valstybinio savanoriškojo socialinio draudimo ligos ir
-motinystės pašalpoms taisyklėse.
- 
-[3
-dalies redakcija nuo 2001 m. sausio 1 d.:
 3. Ligos ir
 motinystės (tėvystės) draudimo išlaidoms priskiriamos ligos ir motinystės
 (tėvystės) pašalpos, numatytos Valstybinio socialinio draudimo įstatyme ir
 Valstybinio savanoriškojo socialinio draudimo ligos ir motinystės pašalpoms
-taisyklėse.]
- 
+taisyklėse.
 4.
-Draudimo kompensacijoms išlaidoms priskiriamos išmokos, numatytos Valstybinio
-socialinio draudimo įstatyme.
-5.
 Draudimo nuo nedarbo išlaidoms priskiriamos pagal Bedarbių rėmimo įstatymą
 pervedamos lėšos.
-6.
+5.
 Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išlaidoms
 priskiriamos išlaidos pagal Nelaimingų atsitikimų darbe ir profesinių ligų
 socialinio draudimo įstatymą.
-7. Į
+6. Į
 Privalomojo sveikatos draudimo fondą pervedamas lėšas sudaro gautos sveikatos
 draudimo įmokos, baudos ir delspinigiai, numatyti Sveikatos draudimo įstatyme.
-8.
+7.
 Fondo biudžeto projekte nenumatomos neatgautinos ir abejotinai atgautinos
 sumos. Fondo biudžeto vykdymo ataskaitoje neatgautinas ir abejotinai atgautinas
 sumas sudaro draudėjų skolos, kurių neįmanoma atgauti, bei įvertinti atidėjimai
 abejotinai atgautinoms sumoms. 
-9.
+8.
 Veiklos sąnaudas sudaro valstybinio socialinio draudimo įstaigų darbuotojų
 darbo apmokėjimo, darbuotojų valstybinio socialinio draudimo, prekių ir
 paslaugų įsigijimo, ilgalaikio turto nusidėvėjimo ir amortizacijos sąnaudos,
@@ -221,16 +209,19 @@ palūkanos, delspinigiai už laiku nepervestas lėšas draudėjams pašalpų
 išmokėjimui, įmonių ir organizacijų nekilnojamojo turto ir žemės mokesčiai).
 Straipsnio
 pakeitimai:
-Nr. VIII-1706, 00.05.23, Žin., 2000,
-Nr.45-1300 (00.06.02), įsigalioja nuo 2001.01.01
+Nr. VIII-1706, 2000 05 23, Žin., 2000, Nr.
+45-1300 (2000 06 02), įsigalioja nuo 2001 01 01
+Nr. IX-99, 2000 12 20, Žin., 2000, Nr.
+111-3571 (2000 12 29), įsigalioja nuo 2001 01 01
+ 
  
 6
 straipsnis. Fondo rezervas ir kasos apyvartos lėšos
 1.
 Valstybinio socialinio draudimo fonde sudaromi Valstybinio socialinio draudimo
-fondo rezervas (toliau - Fondo rezervas) ir kasos apyvartos lėšos. Fondo
-rezervas skiriamas Valstybinio socialinio draudimo fondui stabilizuoti ir yra
-ne mažesnis kaip 15 procentų metinės Fondo pajamų sumos. Fondo rezervas
+fondo rezervas (toliau - Fondo rezervas) ir kasos apyvartos lėšos. Fondo rezervas
+skiriamas Valstybinio socialinio draudimo fondui stabilizuoti ir yra ne
+mažesnis kaip 15 procentų metinės Fondo pajamų sumos. Fondo rezervas
 formuojamas iš Valstybinio socialinio draudimo fondo pajamų dalies,
 viršijančios išlaidas, neįskaitant lėšų, pervedamų į Privalomojo sveikatos
 draudimo fondą. Į Fondo rezervą įskaitomi Valstybinio socialinio draudimo fondo
@@ -298,13 +289,12 @@ draudimo senatvės pensijai gauti.
  
 *** Valstybinio
 socialinio draudimo fondo biudžeto sandaros laikinojo įstatymo 7 straipsnyje
-nustatyta tvarka taikoma ir valstybinio socialinio draudimo įmokų mokėjimui už
+nustatyta tvarka taikoma ir valstybinio socialinio draudimo įmokų mokėjimui už 
 2000 metų I ir II ketvirčius.
- 
 Straipsnio
 pakeitimai:
-Nr. VIII-1789, 00.07.04, Žin., 2000,
-Nr.56-1653 (00.07.12)
+Nr. VIII-1789, 2000 07 04, Žin., 2000, Nr.
+56-1653 (2000 07 12)
  
  
 8
@@ -381,21 +371,24 @@ pensijų draudimui;
 b)
 ligos ir motinystės (tėvystės) draudimui;
 c)
-draudimui kompensacijoms;
-d)
 draudimui nuo nedarbo;
-e)
+d)
 nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui;
-f)
+e)
 lėšos, pervedamos į Privalomojo sveikatos draudimo fondą;
-g)
+f)
 neatgautinos ir abejotinai atgautinos sumos;
-h) veiklos
-sąnaudos;
+g)
+veiklos sąnaudos;
 3)
 grynasis einamųjų metų rezultatas;
 4)
 kasos apyvartos lėšos.
+Straipsnio
+pakeitimai:
+Nr. IX-99, 2000 12 20, Žin., 2000, Nr.
+111-3571 (2000 12 29), įsigalioja nuo 2001 01 01
+ 
  
 10
 straipsnis. Fondo biudžeto pinigų srautų klasifikacija
@@ -413,8 +406,8 @@ a)
 išlaidos nematerialiajam turtui įsigyti;
 b)
 įplaukos, gautos pardavus nematerialųjį turtą;
-c)
-išlaidos ilgalaikiam materialiajam turtui įsigyti;
+c) išlaidos
+ilgalaikiam materialiajam turtui įsigyti;
 d)
 įplaukos, gautos pardavus ilgalaikį materialųjį turtą;
 e)
@@ -467,15 +460,15 @@ Skelbiu
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS
 ADAMKUS
  
-_______________
+____________
  
 Pakeitimai:
  
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. VIII-1706, 00.05.23, Žin., 2000,
-Nr.45-1300 (00.06.02)
+Nr. VIII-1706, 2000 05 23, Žin., 2000, Nr.
+45-1300 (2000 06 02)
 VALSTYBINIO
 SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS LAIKINOJO ĮSTATYMO 5 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
@@ -485,14 +478,26 @@ sausio 1 d.
 2.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. VIII-1789, 00.07.04, Žin., 2000,
-Nr.56-1653 (00.07.12)
+Nr. VIII-1789, 2000 07 04, Žin., 2000, Nr.
+56-1653 (2000 07 12)
 VALSTYBINIO
 SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS LAIKINOJO ĮSTATYMO 4, 7 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-99, 2000 12 20, Žin., 2000, Nr.
+111-3571 (2000 12 29)
+VALSTYBINIO SOCIALINIO
+DRAUDIMO FONDO BIUDŽETO SANDAROS LAIKINOJO ĮSTATYMO 5 IR 9 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2001 m.
+sausio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.07.24)
+Redagavo: Aušrinė Trapinskienė (2001 01 03)
+                  autrap@lrs.lt
 
