@@ -59,211 +59,6 @@ Nr. XIV-1901, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08467
 4. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
 Papildyta straipsnio dalimi:
 Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
- 
-
-
-
-
-
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
-
-
-1. Bandomasis gyvūnas – eksperimentams ar kitiems mokslo tikslams veisiamas, auginamas, naudojamas ar numatomas naudoti gyvūnas.
-
-
-
-
-2. Bepriežiūris gyvūnas – gyvūno laikytojo neprižiūrimas ūkinis gyvūnas arba gyvūnas augintinis, kuris yra už gyvūno laikytojo valdomo gyvenamojo ar negyvenamojo pastato ar kitos teritorijos ribų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
- 
-
-
-
-
-3. Bešeimininkis gyvūnas – ūkinis gyvūnas arba gyvūnas augintinis, kuris neturi savininko ar jis nežinomas arba kurio savininkas atsisakė neperduodamas jo kitam savininkui. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
- 
-
-
-
-
-4. Gyvūnas – bet kokios rūšies domestikuotas ar laukinis gyvūnas, įskaitant ūkinius gyvūnus ir gyvūnus augintinius. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
- 
-
-
-
-
-5. Gyvūnas augintinis – gyvūnas, laikomas estetiniams ir bendravimo poreikiams tenkinti.
-
-
-
-
-6. Gyvūno augintinio ženklinimas – gyvūno augintinio žymėjimas išoriniu ženklu, tatuiruote ar mikroschema.
-
-
-
-
-7. Gyvūno laikymas – gyvūno gyvenimo, mitybos, zoohigienos sąlygų sudarymas.
-
-
-
-
-8. Gyvūno laikytojas – asmuo, kuris yra gyvūno savininkas ar jį laiko atlygintinai ar neatlygintinai.
-
-
-
-
-9. Gyvūno nugaišinimas – gyvūno nužudymas veterinariniais vaistais.
-
-
-
-
-10. Gyvūno nužudymas – gyvybės atėmimas gyvūnui.
-
-
-
-
-11. Gyvūno registravimas – gyvūno duomenų įrašymas į tam tikrų gyvūnų registro duomenų bazę.
-
-
-
-
-12. Gyvūno savininkas – asmuo, kuriam nuosavybės teise priklauso gyvūnas.
-
-
-
-
-121. Gyvūno suluošinimas – veiksmai ar neveikimas, dėl kurių sužalojamos gyvūno kūno dalys ir (ar) organai ir (arba) atsiranda žalingų liekamųjų reiškinių jo fizinei ir (ar) psichikos sveikatai. 
-Papildyta straipsnio dalimi:
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
- 
-
-
-
-
-13. Gyvūnų apsauga – priemonės gyvūnų gerovei užtikrinti.
-
-
-
-
-14. Gyvūnų augintinių veisėjas – asmuo, turintis Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka išduotą leidimą veisti gyvūnus augintinius verslo tikslais.
-
-
-
-
-141. Gyvūnų augintinių viešbutis – teisės aktų nustatytus reikalavimus atitinkanti gyvūnų augintinių laikymo vieta, kurioje teikiama gyvūnų augintinių laikino apgyvendinimo paslauga. 
-Papildyta straipsnio dalimi:
-Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
- 
-
-
-
-
-15. Gyvūnų gerovė – optimalus gyvūnų fiziologinių ir etologinių poreikių tenkinimas.
-
-
-
-
-16. Gyvūnų globa – asmens veikla, skirta gyvūno gerovei ir apsaugai užtikrinti.
-
-
-
-
-17. Gyvūnų globėjas – asmuo, atitinkantis teisės aktų nustatytus reikalavimus ir užsiimantis bepriežiūrių ir bešeimininkių gyvūnų globa ir (ar) laikinąja gyvūnų globa, ir (ar) šiame įstatyme nustatytais atvejais laikinuoju gyvūnų laikymu. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
- 
-
-
-
-
-18. Gyvūnų globos namai – asmuo, turintis teisės aktų nustatytus reikalavimus atitinkančias patalpas, kuriose gyvūnai laikomi, kol nugaiš (išskyrus atvejus, kai dėl gyvūnų sveikatos būklės ar agresyvumo juos būtina nugaišinti), bešeimininkiai ir bepriežiūriai gyvūnai – kol bus surasti nauji savininkai, sužeisti ar sergantys laukiniai gyvūnai – kol juos bus galima išleisti į laisvę.
-
-
-
-
-19. Kovinio šuns mišrūnas – negrynaveislis šuo, kurio bent vienas iš tėvų yra kovinis šuo.
-
-
-
-
-20. Kovinis šuo – kovoms išvestos veislės šuo, įrašytas į Kovinių šunų veislių sąrašą, kurį tvirtina Valstybinės maisto ir veterinarijos tarnybos direktorius.
-
-
-
-
-201. Laikinasis gyvūno laikymas – trumpalaikis gyvūno, kurio savininkas yra žinomas, laikymas. Ši veikla neapima laikinosios gyvūnų globos. 
-Papildyta straipsnio dalimi:
-Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
- 
-
-
-
-
-21. Laikinoji gyvūnų globa (toliau – laikinoji globa) – asmens veikla, kuria užtikrinama bešeimininkių ar bepriežiūrių gyvūnų gerovė ir apsauga, kol bus nustatytas jų savininkas ar laikytojas, laikantis Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) 4.61 straipsnio 3 dalyje nustatytų terminų.
-
-
-
-
-22. Neteko galios nuo 2021-05-01
-Straipsnio dalies naikinimas:
-Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
- 
-
-
-
-
-23. Pavojingas šuo – pavojingos veislės šuo, įrašytas į Pavojingų šunų veislių sąrašą, kurį tvirtina Valstybinės maisto ir veterinarijos tarnybos direktorius.
-
-
-
-
-24. Pavojingo šuns mišrūnas – negrynaveislis šuo, kurio bent vienas iš tėvų yra pavojingas šuo.
-
-
-
-
-25. Prekiautojas gyvūnais – asmuo, turintis Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka išduotą leidimą prekiauti gyvūnais.
-
-
-
-
-26. Skerdimas – kaip apibrėžta 2009 m. rugsėjo 24 d. Tarybos reglamento (EB) Nr. 1099/2009 dėl žudomų gyvūnų apsaugos (toliau – Reglamentas (EB) Nr. 1099/2009) 2 straipsnio j punkte.
-Straipsnio dalies pakeitimai:
-Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
- 
-
-
-
-
-27. Ūkinis gyvūnas – gyvūnas, laikomas ar veisiamas maistui, vaistams ir kitai produkcijai gauti, darbo ir kitais ūkininkavimo tikslais.
-Straipsnio dalies pakeitimai:
-Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
- 
-
-
-
-
-28. Verslinis gyvūnų augintinių veisimas – teisės aktų nustatyta tvarka vykdomas gyvūnų augintinių veisimas siekiant pelno, įskaitant kergimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
- 
-
-
-
-
-29. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos kituose Lietuvos Respublikos įstatymuose ir kituose teisės aktuose.
- 
-
-
-
-
-
 
 3 straipsnis. Valstybės ir savivaldybių institucijų ir kitų juridinių asmenų kompetencija
 
@@ -903,87 +698,31 @@ Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
 
 
 
-7 straipsnis. Gyvūnų registravimas ir ženklinimas
+7 straipsnis. Gyvūnų ženklinimas ir registravimas. Gyvūnų augintinių registras
 
+1. Atskirų rūšių gyvūnai privalo būti ženklinami ir registruojami pagal gyvūnų ženklinimą ir registravimą reglamentuojančių teisės aktų reikalavimus.
 
-1. Atskirų rūšių gyvūnai privalo būti registruojami ir ženklinami pagal gyvūnų registravimą ir ženklinimą reglamentuojančių teisės aktų reikalavimus.
+2. Katės, šunys ir šeškai privalo būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registro informacinėje sistemoje. Už katės, šuns ar šeško paženklinimą mikroschema ir duomenų pateikimą Gyvūnų augintinių registro informacinės sistemos tvarkytojui ir (ar) šio straipsnio 9 dalyje nurodytiems veterinarijos gydytojams ir (ar) asmenims, taip pat už pateiktų duomenų teisingumą atsako jų laikytojas ar savininkas.
 
+3. Kiti gyvūnai augintiniai gali būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registro informacinėje sistemoje jų laikytojo ar savininko pageidavimu.
 
+4. Gyvūnų augintinių registro objektai yra katės, šunys, šeškai, kiti gyvūnai augintiniai, paženklinti mikroschemomis. Gyvūnų augintinių registro informacinėje sistemoje jos objektai registruojami pagal registravimo sąlygas, nustatytas Gyvūnų augintinių registro informacinės sistemos nuostatuose.
 
+5. Gyvūnų augintinių registro informacinėje sistemoje tvarkomi duomenų, identifikuojančių objektus, jų ženklinimą ir registravimą, jų laikytojus ir (ar) savininkus, veisėjus, rinkiniai. Gyvūnų augintinių registrą sudarantys duomenų rinkiniai detalizuojami šio registro informacinės sistemos nuostatuose.
 
-2. Katės, šunys ir šeškai privalo būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registre. Už katės, šuns ar šeško paženklinimą mikroschema ir įregistravimą Gyvūnų augintinių registre atsako jų laikytojas ar savininkas. 
-Papildyta straipsnio dalimi:
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
- 
+6. Duomenų tvarkymo Gyvūnų augintinių registro informacinėje sistemoje tikslas – kaupiant su registruotais gyvūnais augintiniais susijusius duomenis apie gyvūnų augintinių laikytojus ir (ar) savininkus, užtikrinti gyvūnų augintinių atsekamumą, jų gerovę ir apsaugą.
 
+7. Gyvūnų augintinių registro informacinės sistemos valdytoja ir joje tvarkomų duomenų, įskaitant asmens duomenis, valdytoja – Aplinkos ministerija.
 
+8. Gyvūnų augintinių registro informacinėje sistemoje objektai registruojami, duomenys teikiami, su duomenų tvarkymu susiję veiksmai atliekami neatlygintinai.
 
+9. Gyvūnus augintinius ženklina, duomenis, jų laikytojų ir (ar) savininkų asmens duomenis Gyvūnų augintinių registro informacinei sistemai teikia, už pateiktų duomenų teisingumą atsako veterinarijos gydytojai, turintys veterinarijos praktikos licenciją. Kates, šunis ir šeškus taip pat ženklina, jų duomenis, jų laikytojų ir (ar) savininkų asmens duomenis Gyvūnų augintinių registro informacinei sistemai teikia, už pateiktų duomenų teisingumą atsako asmenys, baigę kačių, šunų ir šeškų ženklinimo ir jų duomenų teikimo Gyvūnų augintinių registro informacinei sistemai mokymus ir turintys tai patvirtinantį dokumentą.
 
-3. Kiti gyvūnai augintiniai gali būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registre.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
- 
+10. Kačių, šunų ir šeškų ženklinimo ir duomenų teikimo Gyvūnų augintinių registro informacinei sistemai mokymus turi teisę organizuoti mokslo ir studijų institucijos, vykdančios aukštojo mokslo studijas ar su studijomis susijusią veiklą ir mokslinius tyrimus, eksperimentinę veiklą žemės ūkio mokslų srityje veterinarijos ir (arba) gyvūnų mokslų kryptyse. Šios institucijos privalo parengtą ne trumpesnę kaip 8 akademinių valandų mokymų programą suderinti su Valstybine maisto ir veterinarijos tarnyba.
 
+11. Gyvūnų augintinių registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Gyvūnų augintinių registro informacinės sistemos duomenys teikiami laikantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje nurodytų apribojimų, Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) 5 straipsnyje apibrėžtų asmens duomenų tvarkymo principų, 6 straipsnyje nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
 
-
-
-4. Gyvūnų augintinių registro valdytoja – Aplinkos ministerija, tvarkytoją (tvarkytojus) skiria Vyriausybė.
-Straipsnio dalies pakeitimai:
-Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
-Nr. XIV-1307, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15634
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
- 
-
-
-
-
-5. Gyvūnų augintinių registro duomenys yra teikiami savivaldybių administracijoms neatlygintinai, o kitiems asmenims – įstatymų, kitų teisės aktų nustatyta tvarka.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
- 
-
-
-
-
-6. Gyvūnus augintinius ženklina ir jų duomenis Gyvūnų augintinių registrui teikia veterinarijos gydytojai, turintys veterinarijos praktikos licenciją. Kates, šunis ir šeškus taip pat ženklina ir jų duomenis Gyvūnų augintinių registrui teikia asmenys, baigę kačių, šunų ir šeškų ženklinimo ir jų duomenų teikimo Gyvūnų augintinių registrui mokymus ir turintys mokymų baigimą patvirtinantį dokumentą. 
-Papildyta straipsnio dalimi:
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
- 
-
-
-
-
-7. Kačių, šunų ir šeškų ženklinimo ir duomenų teikimo Gyvūnų augintinių registrui mokymus turi teisę organizuoti mokslo ir studijų institucijos, vykdančios aukštojo mokslo studijas ar su studijomis susijusią veiklą ir mokslinius tyrimus bei eksperimentinę veiklą žemės ūkio mokslų srityje veterinarijos ir (arba) gyvūnų mokslų kryptyse. Šios institucijos privalo parengtą ne trumpesnę kaip 8 akademinių valandų mokymų programą suderinti su Valstybine maisto ir veterinarijos tarnyba. 
-Papildyta straipsnio dalimi:
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
- 
-
-
-
-
-8. Socialiai remtinų asmenų laikomų kačių, šunų ir šeškų, atvestų iki šio straipsnio įsigaliojimo dienos, ženklinimo ir registravimo išlaidos kompensuojamos iš valstybės ir savivaldybių biudžetų lėšų. Iš valstybės ir savivaldybių biudžetų lėšų taip pat kompensuojamos gyvūnų globėjų laikomų kačių, šunų ir šeškų ženklinimo ir registravimo išlaidos. Išlaidos kompensuojamos iki 2022 m. gruodžio 31 d. 
-Papildyta straipsnio dalimi:
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
- 
-
-
-
-
-9. Šio straipsnio 8 dalyje nurodytų socialiai remtinų asmenų grupes ir jų laikomų kačių, šunų ir šeškų ženklinimo ir registravimo išlaidų kompensavimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. 
-Papildyta straipsnio dalimi:
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
- 
-
-
-
-
-
-
-8 straipsnis. Kovinių ir pavojingų šunų įvežimas, įsigijimas, laikymas, veisimas, registravimas, ženklinimas, dresavimas ir prekyba jais
+12. Gyvūnų augintinių registro informacinėje sistemoje tvarkomi duomenys atveriami pakartotinai naudoti, išskyrus asmens duomenis, duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį.8 straipsnis. Kovinių ir pavojingų šunų įvežimas, įsigijimas, laikymas, veisimas, registravimas, ženklinimas, dresavimas ir prekyba jais
 
 
 1. Lietuvos Respublikoje draudžiami koviniai šunys, kovinių ir pavojingų šunų mišrūnai.
@@ -1118,7 +857,7 @@ GYVŪNŲ VEISIMAS, PREKYBA, VEŽIMAS
 4. Neteko galios nuo 2021-05-01
 Straipsnio dalies naikinimas:
 Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
- 
+ 
 
 
 
@@ -1126,7 +865,7 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 5. Draudžiama veisti genetiškai nesveikus gyvūnus augintinius su akivaizdžiai matomomis genetinėmis ligomis, apsigimimais, patologijomis ar gyvūnus augintinius, kuriems atliktos šio įstatymo 4 straipsnio 2 dalies 9 punkte išvardytos veterinarinės procedūros.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2978, 2024-09-12, paskelbta TAR 2024-09-19, i. k. 2024-16410
- 
+ 
 
 
 
@@ -1144,24 +883,12 @@ Nr. XIV-2978, 2024-09-12, paskelbta TAR 2024-09-19, i. k. 2024-16410
 8. Draudžiama laikyti ir (ar) veisti gyvūnus kailių gavybos ar pardavimo tikslu.
 Papildyta straipsnio dalimi:
 Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
- 
+ 
 
 
 
 
-9. Gyvūnų augintinių veisėjai teisės aktų nustatyta tvarka registruoja savo veiklą Gyvūnų augintinių registro duomenų bazėje. 
-Papildyta straipsnio dalimi:
-Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
- 
-
-
-
-
-
-
-11 straipsnis. Gyvūnų vežimas
+9. Gyvūnų augintinių veisėjai teikia duomenis apie savo veiklą Gyvūnų augintinių registro duomenų tvarkytojui arba šio įstatymo 7 straipsnio 9 dalyje nurodytiems veterinarijos gydytojams ar asmenims, ženklinantiems kates, šunis ir šeškus.11 straipsnis. Gyvūnų vežimas
 
 
 Gyvūnai turi būti vežami taip, kad kelionės metu nesusižalotų, nepatirtų nereikalingo streso ir būtų užtikrintas jų saugumas. Transporto priemonių konteineriai, kuriuose vežami gyvūnai, turi būti pakankamo ploto ir aukščio, atsižvelgiant į gyvūnų rūšį, dydį ir planuojamos kelionės pobūdį.
