@@ -13,12 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.833EE7DCBAD7"
 
 # Lietuvos Respublikos kolektyvinių susitarimų ir sutarčių įstatymas
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
-Ramunė Lūžaitė (1997.06.10)
+Ramunė Lūžaitė (1997.07.11)
  
- Įstatymas
+Įstatymas
 paskelbtas: Žin., 1991, Nr.12-312
  
 Neoficialus
@@ -27,22 +27,38 @@ Neoficialus
 Pakeitimai:
  
 1.
-Nr.1-2020;
-1991.11.21.; Žin., 1991, Nr.34-935;
+Nr.I-2020; 1991.11.21.;
+Žin., 1991, Nr.34-935;
  
 2.
-Nr.1-417;
-1994.03.31.; Žin., 1994, Nr.29-511.
+Nr.I-417; 1994.03.31.;
+Žin., 1994, Nr.29-511.
  
 3.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-I-1287, 96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
+I-1287,
+96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
 LIETUVOS
 RESPUBLIKOS KOLEKTYVINIŲ SUSITARIMŲ IR SUTARČIŲ ĮSTATYMO 8 IR 10 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-285,
+97.06.24, Žin., 1997, Nr.66-1592 (97.07.11)
+LIETUVOS
+RESPUBLIKOS KOLEKTYVINIŲ SUSITARIMŲ IR SUTARČIŲ ĮSTATYMO 18 STRAIPSNIO
+PAPILDYMO ĮSTATYMAS
+ 
+Įstatymas įsigalioja
+nuo 1997 m. spalio 1 d.
+ 
+***
+Pabaiga ***
          
 
                          
@@ -82,8 +98,8 @@ straipsnis. Kolektyvinio susitarimo turinys
      Kolektyvinis
 susitarimas sudaromas dėl darbuotojų, kuriuos atstovauja profesinės sąjungos ar
 jų susivienijimai, užimtumo, perkvalifikavimo, darbo organizavimo, darbo
-apmokėjimo, saugos darbe ekonominių ir socialinių priemonių bei papildomų
-garantijų. 
+apmokėjimo, saugos darbe ekonominių ir socialinių priemonių bei papildomų garantijų.
+
  
  
      3
@@ -138,8 +154,8 @@ sąlygų.
  
 Straipsnio
 pakeitimai:
-Nr.1-417;
-1994.03.31.; Žin., 1994, Nr.29-511. 
+Nr.I-417; 1994.03.31.;
+Žin., 1994, Nr.29-511. 
  
  
      7
@@ -164,10 +180,10 @@ darbuotojų, o konferencijoje - ne mažiau kaip du trečdaliai delegatų.
  
 Straipsnio
 pakeitimai:
-1-2020;
-1991.11.21.; Žin., 1991, Nr.34-935;
-1-417;
-1994.03.31.; Žin., 1994, Nr.29-511. 
+I-2020; 1991.11.21.;
+Žin., 1991, Nr.34-935;
+I-417; 1994.03.31.;
+Žin., 1994, Nr.29-511. 
  
  
      8
@@ -191,10 +207,11 @@ valdininkais, nustatytais  Lietuvos  Respublikos valdininkų įstatymo.
  
 Straipsnio
 pakeitimai:
-1-417;
-1994.03.31.; Žin., 1994, Nr.29-511; 
+Nr.I-417; 1994.03.31.;
+Žin., 1994, Nr.29-511; 
 Nr.
-I-1287, 96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
+I-1287,
+96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
  
      9
 straipsnis. Darbuotojų kolektyvo susirinkimas (konferencija)
@@ -222,8 +239,8 @@ balsavimu, susirinkime - balsų dauguma, o konferencijoje - 2/3 balsų.
  
 Straipsnio
 pakeitimai:
-1-417;
-1994.03.31.; Žin., 1994, Nr.29-511;
+Nr.I-417; 1994.03.31.;
+Žin., 1994, Nr.29-511;
      
  
      10
@@ -234,16 +251,18 @@ sutartis privaloma ją sudarančioms šalims, taip pat darbdavio  teisių
 perėmėjui. Darbdavio teisių perėmėjui kolektyvinė sutartis galioja iki naujos
 sutarties sudarymo.
     
-Darbdavys, prieš priimdamas asmenį į darbą,  privalo  jį supažindinti  su  kolektyvine 
-sutartimi.  Sudarius  su   šiuo asmeniu  darbo  sutartį, kolektyvinės sutarties
-nuostatos  jam yra privalomos kaip ir kitiems šios įmonės darbuotojams.
+Darbdavys, prieš priimdamas asmenį į darbą,  privalo  jį supažindinti  su 
+kolektyvine  sutartimi.  Sudarius  su   šiuo asmeniu  darbo  sutartį,
+kolektyvinės sutarties nuostatos  jam yra privalomos kaip ir kitiems šios
+įmonės darbuotojams.
  
 Straipsnio
 pakeitimai:
-1-417;
-1994.03.31.; Žin., 1994, Nr.29-511;
+Nr.I-417; 1994.03.31.;
+Žin., 1994, Nr.29-511;
 Nr.
-I-1287, 96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
+I-1287,
+96.04.17, Žin., 1996, Nr.41-985 (96.05.08)
  
                             
 III SKIRSNIS
@@ -329,8 +348,8 @@ sąlygas. Šią informaciją privalo pateikti darbdavys ir darbuotojų atstovai.
  
 Straipsnio
 pakeitimai:
-1-417;
-1994.03.31.; Žin., 1994, Nr.29-511;
+Nr.I-417; 1994.03.31.;
+Žin., 1994, Nr.29-511;
  
      15
 straipsnis. Derybų terminai
@@ -345,16 +364,16 @@ likus 2 mėnesiams iki jos galiojimo pabaigos.
  
      16
 straipsnis. Kolektyvinės sutarties projekto rengimas, svarstymas
-                    
-ir pasirašymas
+              
+      ir pasirašymas
  
      Kolektyvinės
 sutarties šalių atstovai rengia kolektyvinės sutarties projektą atsižvelgdami 
 į  darbuotojų pasiūlymus ir derybų susitarimus.
      Projektas
-turi būti aptartas šalių atstovų nustatyta tvarka darbuotojų  grupėse 
-(struktūriniuose padaliniuose) ir po to pateiktas   svarstyti   darbuotojų 
-kolektyvo susirinkimui (konferencijai).
+turi būti aptartas šalių atstovų nustatyta tvarka darbuotojų  grupėse  (struktūriniuose
+padaliniuose) ir po to pateiktas   svarstyti   darbuotojų  kolektyvo
+susirinkimui (konferencijai).
      Jei 
 kolektyvinės  sutarties projektui nepritarta, šalių atstovai, atsižvelgdami  į
 nurodytas pastabas ir pasiūlymus, jį pataiso  bei papildo ir per 15 dienų
@@ -373,11 +392,31 @@ sutartis įsigalioja nuo jos pasirašymo dieno.
      18
 straipsnis. Kolektyvinės sutarties galiojimo trukmė
  
+      [18
+straipsnio redakcija iki 1997 m. spalio 1 d.]
      Kolektyvinė
 sutartis  galioja iki  naujos  kolektyvinės sutarties pasirašymo.
      Kolektyvinės 
-sutarties  galiojimo  trukmė  nustatoma kolektyvinėje sutartyje, bet ne ilgiau
+sutarties  galiojimo  trukmė  nustatoma kolektyvinėje sutartyje, bet ne ilgiau
 kaip 2 metams.
+ 
+      [18
+straipsnio redakcija nuo 1997 m. spalio 1 d.]
+ Kolektyvinė
+sutartis  galioja iki  naujos  kolektyvinės sutarties pasirašymo.
+     Kolektyvinės 
+sutarties  galiojimo  trukmė  nustatoma kolektyvinėje sutartyje, bet ne ilgiau
+kaip 2 metams.
+    
+Kolektyvinė sutartis nustoja galioti įmonei iškėlus bankroto bylą arba pradėjus
+neteisminę bankroto procedūrą.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-285,
+97.06.24, Žin., 1997, Nr.66-1592 (97.07.11)
+ 
  
      19
 straipsnis. Kolektyvinės sutarties pakeitimai ir papildymai
@@ -388,8 +427,8 @@ sutartyje nustatyta tvarka.
  
 Straipsnio
 pakeitimai:
-1-417;
-1994.03.31.; Žin., 1994, Nr.29-511;
+Nr.I-417; 1994.03.31.;
+Žin., 1994, Nr.29-511;
          
 
                                
@@ -413,7 +452,7 @@ straipsnis. Informacija apie kolektyvinės sutarties
  
      Jeigu 
 kolektyvinės  sutarties  vykdymu  suinteresuoti darbuotojai pageidauja,
-informaciją jiems ne vėliau kaip per 15 dienų  pateikia  darbdavys
+informaciją jiems ne vėliau kaip per 15 dienų  pateikia  darbdavys
 kolektyvinėje sutartyje nustatyta tvarka.
  
      22
@@ -453,8 +492,8 @@ kolektyvinio susitarimo  nevykdymo,  atsako  pagal  Lietuvos  Respublikos
  
 Straipsnio
 pakeitimai:
-1-417;
-1994.03.31.; Žin., 1994, Nr.29-511;
+Nr.I-417; 1994.03.31.;
+Žin., 1994, Nr.29-511;
  
      25
 straipsnis. Darbdavio ar jo įgalioto asmens atsakomybė už vengimą 
@@ -467,8 +506,8 @@ ar kolektyvinę  sutartį atsako pagal Lietuvos Respublikos įstatymus.
  
 Straipsnio
 pakeitimai:
-1-417;
-1994.03.31.; Žin., 1994, Nr.29-511;
+Nr.I-417; 1994.03.31.;
+Žin., 1994, Nr.29-511;
  
      26
 straipsnis. Draudimas streikuoti 
@@ -483,13 +522,13 @@ kolektyvinio susitarimo ar kolektyvinės sutarties galiojimo termino pabaigos.
  
 Straipsnio
 pakeitimai:
-1-417;
-1994.03.31.; Žin., 1994, Nr.29-511;
+Nr.I-417; 1994.03.31.;
+Žin., 1994, Nr.29-511;
  
 LIETUVOS
 RESPUBLIKOS
 AUKŠČIAUSIOSIOS
-TARYBOS PIRMININKAS               V.LANDSBERGIS
+TARYBOS PIRMININKAS                          V.LANDSBERGIS
  
 Vilnius,
 1991 m. balandžio 4 d. Nr. I-1201
