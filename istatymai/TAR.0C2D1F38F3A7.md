@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 1994-12-31 iki 1995-03-09
+Suvestinė redakcija nuo 1995-03-10 iki 1995-05-16
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
  
@@ -991,7 +991,11 @@ Bendrovė taip pat gali turėti ir kitokias, šio įstatymo nenustatytas, civili
 
 
 
-3. Bendrovės įstatuose gali būti numatyta taisyklė, jog kai kurių rūšių akcijoms balsavimo teisė nesuteikiama.
+3. Bendrovės įstatuose gali būti numatyta taisyklė, jog kai kurių rūšių akcijoms balsavimo teisė nesuteikiama. Valstybės valdžios ir valdymo institucijoms draudžiama įsigyti bendrovių akcijų, kurios nesuteikia balsavimo teisės.
+TAR pastaba. Iki įstatymo Nr. I-807 įsigaliojimo dienos (1995-03-10) akcinių bendrovių ir uždarųjų akcinių bendrovių išleistos valstybei (savivaldybėms) priklausančios akcijos, nesuteikiančios balsavimo teisės, turi būti pakeistos akcijomis, suteikiančiomis balsavimo teisę. Su tuo susiję įstatų pakeitimai gali būti padaryti ir įregistruojami bendrovės valdybos (stebėtojų tarybos, administracijos) arba valstybės valdžios ir valdymo institucijos, kuri yra valstybei (savivaldybei) priklausančių akcijų turėtoja, teikimu be visuotinio akcininkų susirinkimo. Ši nuostata turi būti įgyvendinta iki 1995 m. balandžio 20 dienos.
+Straipsnio dalies pakeitimai:
+Nr. I-807, 1995-02-22, Žin., 1995, Nr. 21-492 (1995-03-10), i. k. 0951010ISTA000I-807
+ 
 
 
 
@@ -2766,3 +2770,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-723, 1994-12-21, Žin., 1994, Nr. 102-2050 (1994-12-31), i. k. 0941010ISTA000I-723
 Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-807, 1995-02-22, Žin., 1995, Nr. 21-492 (1995-03-10), i. k. 0951010ISTA000I-807
+Dėl Lietuvos Respublikos akcinių bendrovių įstatymo papildymo
