@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E59A4E24506E"
 
 # Lietuvos Respublikos susirinkimų įstatymas
 
+Suvestinė redakcija nuo 2003-05-01 iki 2008-07-02
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 69-1291, i. k. 0931010ISTA000I-317
+ 
 LIETUVOS RESPUBLIKOS
 SUSIRINKIMŲ
 Į S T A T Y M A S
@@ -444,7 +448,10 @@ Susirinkimą nutraukia policijos pareigūnai, stebintys, ar laikomasi įstatymų
 
 
 
-2) pasinaudodami susirinkimo galimybėmis, kėsinasi įvykdyti ar įvykdo pavojingus valstybinius nusikaltimus ar įvairius kitus tyčinius nusikaltimus asmens gyvybei, sveikatai, laisvei ir orumui, valdymo tvarkai, visuomenės saugumui ir viešajai tvarkai;
+2) pasinaudodami susirinkimo galimybėmis, kėsinasi įvykdyti ar įvykdo nusikaltimus Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai ar kitas tyčines nusikalstamas veikas žmogaus gyvybei, sveikatai, laisvei, asmens garbei ir orumui, visuomenės saugumui, valdymo tvarkai ir viešajai tvarkai; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1452, 2003-04-03, Žin., 2003, Nr. 38-1697 (2003-04-24), i. k. 1031010ISTA0IX-1452
+ 
 
 
 
@@ -584,3 +591,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1452, 2003-04-03, Žin., 2003, Nr. 38-1697 (2003-04-24), i. k. 1031010ISTA0IX-1452
+Lietuvos Respublikos susirinkimų įstatymo 17 straipsnio pakeitimo įstatymas
