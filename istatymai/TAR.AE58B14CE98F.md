@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AE58B14CE98F"
 
 # Lietuvos Respublikos peticijų įstatymas
 
+Suvestinė redakcija nuo 2003-09-24 iki 2003-12-17
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 66-2128; Žin. 1999, Nr.104-0, i. k. 0991010ISTAIII-1313
+ 
+ 
 LIETUVOS RESPUBLIKOS
 PETICIJŲ
 ĮSTATYMAS
@@ -44,7 +49,10 @@ Bendrosios nuostatos
 
 1. Peticijos teisė – Konstitucijoje laiduojama teisė kreiptis šio įstatymo nustatyta tvarka į Seimą, Vyriausybę ar vietos savivaldos valdžios ir valdymo institucijas – tarybą bei merą (valdybą) (toliau – vietos savivaldos valdžios ir valdymo institucijos).
 
-2. Pareiškėjas – Lietuvos Respublikos pilietis ar užsienietis, nuolat gyvenantis Lietuvos Respublikoje, arba jų grupė, šio įstatymo nustatyta tvarka parašę ir pateikę kreipimąsi (peticiją). 
+2. Pareiškėjas – ne jaunesnis kaip 16 metų Lietuvos Respublikos pilietis ar užsienietis, nuolat gyvenantis Lietuvos Respublikoje, arba jų grupė, šio įstatymo nustatyta tvarka parašę ir pateikę kreipimąsi (peticiją).
+Straipsnio dalies pakeitimai:
+Nr. IX-1723, 2003-09-04, Žin., 2003, Nr. 90-4062 (2003-09-24), i. k. 1031010ISTA0IX-1723
+ 
 
 3. Pareiškėjo atstovas – pirmasis kreipimąsi pasirašęs ar kitas kreipimesi nurodytas asmuo, kuriam turi būti pranešta apie peticijos nagrinėjimą, priimtus sprendimus ir kuris turi teisę dalyvauti ją nagrinėjant.
 
@@ -149,7 +157,10 @@ Kreipimosi padavimas, jo pripažinimas peticija ir peticijos priėmimas nagrinė
 
 5) peticijų komisija per kalendorinius metus dėl tų pačių reikalavimų ir siūlymų, išdėstytų kreipimesi, jau yra priėmusi sprendimą;
 
-6) kreipimąsi paduoda ne Lietuvos Respublikos pilietis ar užsienietis, nuolat gyvenantis Lietuvos Respublikoje, arba jų grupė.
+6) kreipimąsi paduoda jaunesnis kaip 16 metų Lietuvos Respublikos pilietis, ne Lietuvos Respublikos pilietis ar užsienietis, nuolat gyvenantis Lietuvos Respublikoje, arba jų grupė. 
+Straipsnio punkto pakeitimai:
+Nr. IX-1723, 2003-09-04, Žin., 2003, Nr. 90-4062 (2003-09-24), i. k. 1031010ISTA0IX-1723
+ 
 
 4. Peticijų komisija, priėmusi motyvuotą sprendimą nepripažinti kreipimosi peticija, apie tai praneša pareiškėjui ar jo atstovui ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. Tokį kreipimąsi nagrinėja įregistravusi institucija kitų įstatymų ir teisės aktų nustatyta tvarka arba persiunčia nagrinėti kitoms valstybės institucijoms.
 
@@ -167,6 +178,10 @@ Kreipimosi padavimas, jo pripažinimas peticija ir peticijos priėmimas nagrinė
 Savivaldybės peticijų komisija apie peticijos nagrinėjimo vietą ir laiką paskelbia vietos spaudoje arba savivaldybės tarybos nustatyta tvarka.
 
 11. Kreipimosi pripažinimo peticija ir peticijų priėmimo nagrinėti klausimą peticijų komisija išsprendžia ne vėliau kaip per 20 darbo dienų nuo kreipimosi įregistravimo dienos. Jei kreipimosi pripažinimo peticija ir peticijų priėmimo nagrinėti klausimui išspręsti reikalingi papildomi dokumentai ar išvados, terminas skaičiuojamas nuo paskutinio reikiamo dokumento gavimo dienos.
+
+12. Tuo atveju, kai kreipimasis pripažįstamas peticija ir priimamas nagrinėti, tačiau Seime, Vyriausybėje ar vietos savivaldos valdžios ir valdymo institucijose jau yra užregistruotas ar svarstomas teisės akto projektas, kuriame yra suformuluoti pareiškėjo peticijoje pateikti siūlymai ar reikalavimai, tokia peticija yra perduodama svarstyti kartu su minėtu teisės akto projektu.
+Papildyta straipsnio dalimi:
+Nr. IX-1723, 2003-09-04, Žin., 2003, Nr. 90-4062 (2003-09-24), i. k. 1031010ISTA0IX-1723
  
 
 10 straipsnis. Kreipimosi nepripažinimo peticija ir atsisakymo priimti peticiją nagrinėti apskundimas
@@ -264,4 +279,14 @@ Peticijų komisijos turi būti sudarytos iki 1999 m. spalio 1 d. Peticijų komis
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1723, 2003-09-04, Žin., 2003, Nr. 90-4062 (2003-09-24), i. k. 1031010ISTA0IX-1723
+Lietuvos Respublikos peticijų įstatymo 2 ir 9 straipsnių pakeitimo ir papildymo įstatymas
 
