@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8BD85866468A"
 
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo įgyvendinimo įstatymo pakeitimo įstatymas
 
+Suvestinė redakcija nuo 1998-12-11
+ 
+Įstatymas paskelbtas: Žin. 1997, Nr. 62-1464, i. k. 0971010ISTAVIII-298
+ 
+ 
 LIETUVOS RESPUBLIKOS
 SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO PAKEITIMO
 Į S T A T Y M A S
@@ -24,64 +29,10 @@ Vilnius
  
 
 
-1 straipsnis. Sveikatos priežiūros įstaigų įstatymo įgyvendinimo įstatymo nauja redakcija
-
-
-Pakeisti Sveikatos priežiūros įstaigų įstatymo įgyvendinimo įstatymą ir jį išdėstyti taip:
+1 straipsnis. Neteko galios nuo 1998-12-11
+Straipsnio naikinimas:
+Nr. VIII-940, 1998-11-24, Žin. 1998, Nr. 109-2995 (1998-12-11), i. k. 0981010ISTAVIII-940
  
-
-
-
-
-„SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS
- 
-
-
-1 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
-
-
-1. Vyriausybė iki 1997 m. spalio 1 d. parengia ir pateikia Seimui ar priima pagal kompetenciją šiuos teisės aktus: 
-
-
-1) privatizavimo įstatymų pakeitimų ir papildymų įstatymų projektus, kuriuose būtų numatytas lėšų, gautų privatizavus LNSS asmens sveikatos priežiūros viešąsias įstaigas, perdavimas į valstybės ir savivaldybių sveikatos fondus;
-
-
-
-
-2) Sveikatos sistemos įstatymo papildymų ir pakeitimų įstatymo projektą;
-
-
-
-
-3) įstatymo „Dėl laikinosios atskaitymų į savivaldybių biudžetus normatyvų ir dotacijų nustatymo metodikos“ papildymo ir pakeitimo projektą, kuriame būtų numatytas asignavimų savivaldybių remiamai (nemokamai) asmens sveikatos priežiūrai, savivaldybių privalomosioms sveikatos programoms, savivaldybių sveikatos priežiūros įstaigų nepaprastosioms išlaidoms ir pirminei visuomenės sveikatos priežiūrai nustatymas valstybės biudžeto projekte ir šių išlaidų normatyvų apskaičiavimas;
-
-
-
-
-4) Biudžetinės sandaros įstatymo papildymų ir pakeitimų projektą, kuriame patikslinti sveikatos priežiūros paslaugų teikimo ir valstybės privalomųjų bei savivaldybių privalomųjų sveikatos programų finansavimo, Valstybinio sveikatos fondo lėšų šaltinių formavimo iš akcizų už alkoholinius gėrimus ir tabako gaminius atskaitymų, valstybės ir savivaldybių sveikatos priežiūros įstaigų nepaprastųjų išlaidų atlyginimo tvarką;  
-
-
-
-
-5) Juridinių asmenų pelno mokesčio, Įmonių ir organizacijų nekilnojamojo turto mokesčio, Kelių fondo įstatymų pakeitimų projektus, kuriuose numatyti mokesčių lengvatas sveikatos priežiūros įstaigoms.
-
-
-
-
-
-
-2. Vyriausybė iki 1999 m. sausio 1 d. parengia ir patvirtina kitus teisės aktus, susijusius su Sveikatos priežiūros įstaigų įstatymo įgyvendinimu.“
- 
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -102,3 +53,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-940, 1998-11-24, Žin., 1998, Nr. 109-2995 (1998-12-11), i. k. 0981010ISTAVIII-940
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo pakeitimo įstatymas
