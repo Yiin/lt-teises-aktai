@@ -41,8 +41,8 @@ aktais.
 Straipsnio pakeitimai:
 Nr. IX-2139,
 2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
-Nr. IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533
-(2004-10-16)
+Nr. IX-2469,
+2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
  
 2 straipsnis.
 Bendrosios Garantinio fondo steigimo bei valdymo nuostatos
@@ -76,8 +76,8 @@ Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 22-716 (2001 03 14)
 Nr. IX-1119,
 2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
-Nr. IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533
-(2004-10-16)
+Nr. IX-2469,
+2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
  
 ANTRASIS
 SKIRSNIS
@@ -88,10 +88,20 @@ LĖŠOS, JŲ NAUDOJIMAS IR KONTROLĖ
 Garantinio fondo lėšos
 1. Garantinio
 fondo lėšas sudaro:
+ 
+1 dalies 1 punkto redakcija iki 2005 m.
+sausio 1 d.:
 1) įmonių,
 nurodytų šio įstatymo 1 straipsnio 2 dalyje, įmokos – 0,2 proc. priskaičiuoto
 darbuotojams darbo užmokesčio (nuo kurio skaičiuojamos privalomojo valstybinio
 socialinio draudimo įmokos);
+1 dalies 1 punkto redakcija nuo 2005 m.
+sausio 1 d.:
+1) įmonių,
+nurodytų šio įstatymo 1 straipsnio 2 dalyje, įmokos – 0,2 proc. priskaičiuoto
+darbuotojams darbo užmokesčio (nuo kurio skaičiuojamos valstybinio socialinio
+draudimo įmokos);
+ 
 2) Privatizavimo
 fondo lėšos ir valstybės biudžeto lėšos, skiriamos pagal atskirą programą; 
 3) lėšos, gautos
@@ -117,6 +127,8 @@ fondo lėšos naudojamos tik pagal šio įstatymo 3 straipsnyje numatytą paskir
 Straipsnio pakeitimai:
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 22-716 (2001 03 14)
+Nr. IX-2538,
+2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26)
  
 5 straipsnis.
 Garantinio fondo lėšų naudojimas 
@@ -166,8 +178,8 @@ darbo sutartį.
 4. Patvirtinta
 darbuotojų kreditorinių reikalavimų suma mažinama iš Garantinio fondo sumokėtos
 išmokos suma. Garantinio fondo administratorius į šią sumą įgyja atgręžtinio
-reikalavimo teisę. Jo kreditoriniai reikalavimai tenkinami Įmonių bankroto įstatymo
-nustatyta tvarka.
+reikalavimo teisę. Jo kreditoriniai reikalavimai tenkinami Įmonių bankroto
+įstatymo nustatyta tvarka.
 5. Išmokos,
 nurodytos šio straipsnio 1 dalyje, bankrutuojančios ar bankrutavusios įmonės
 darbuotojui mokamos vieną kartą.
@@ -226,8 +238,8 @@ fondo tarybai priėmus sprendimą skirti lėšų, Garantinio fondo administrator
 su bankrutuojančia ar bankrutavusia įmone arba savivaldybės tarybos įgaliota
 įstaiga, arba jos pavedimu su juridiniu asmeniu, kuriam suteikta teisė teikti
 įmonių bankroto administravimo paslaugas, sudaro lėšų iš Garantinio fondo
-perdavimo įmonei (savivaldybės įstaigai, juridiniam asmeniui, teikiančiam
-bankroto administravimo paslaugas) sutartį.
+perdavimo įmonei (savivaldybės įstaigai, juridiniam asmeniui, teikiančiam bankroto
+administravimo paslaugas) sutartį.
 8. Garantinio
 fondo tarybos sprendimai gali būti skundžiami įstatymų nustatyta tvarka.
 Straipsnio pakeitimai:
@@ -249,8 +261,8 @@ SKIRSNIS
 GARANTINIO FONDO
 VALDYMAS
  
-8 straipsnis.
-Garantinio fondo taryba
+8 straipsnis. Garantinio
+fondo taryba
 1. Garantiniam
 fondui vadovauja Garantinio fondo taryba. Tarybos sudėtį tvirtina Vyriausybė.
 2. Garantinio
@@ -287,8 +299,8 @@ kitus Garantinio fondo nuostatuose nustatytus uždavinius ir funkcijas.
 Straipsnio pakeitimai:
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 22-716 (2001 03 14)
-Nr. IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533
-(2004-10-16)
+Nr. IX-2469,
+2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
  
 10 straipsnis.
 Garantinio fondo administratoriaus funkcijos
@@ -340,16 +352,16 @@ bankroto procesas pradėtas iki šio įstatymo įsigaliojimo dienos, netaikomi �
 netaikomos įmonėms, dėl kurių teismas, nagrinėjantis bankroto bylą, ar
 kreditorių susirinkimas, bankroto procedūras vykdant ne teismo tvarka, iki šio
 įstatymo įsigaliojimo dienos yra priėmęs nutartį (nutarimą) išregistruoti
-likviduotą dėl bankroto įmonę. Kai bankrutuojančios ar bankrutavusios įmonės darbuotojams
-bankroto proceso metu jau buvo sumokėta tam tikra įmonės įsiskolinimo dalis iš
-Fondo bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams,
-susijusiems su darbo santykiais, tenkinti skirtų finansinės paramos lėšų, šio
-įstatymo 5 straipsnio 1 dalies 1 punkte nurodytos išmokos jiems turi būti
-sumažinamos sumokėta suma. Kai darbuotojams skirtos išmokos, numatytos šio
-įstatymo 5 straipsnio 1 dalies 1 punkte, pagal galiojusias šios dalies
-nuostatas buvo sumažintos bankroto proceso metu iš įmonės lėšų sumokėta darbo
-užmokesčio dalimi, jiems skiriamos papildomos išmokos, kurių kiekvienos dydis
-yra lygus sumai, kuria buvo sumažinta anksčiau skirta išmoka.
+likviduotą dėl bankroto įmonę. Kai bankrutuojančios ar bankrutavusios įmonės
+darbuotojams bankroto proceso metu jau buvo sumokėta tam tikra įmonės
+įsiskolinimo dalis iš Fondo bankrutuojančių ir bankrutavusių įmonių darbuotojų
+reikalavimams, susijusiems su darbo santykiais, tenkinti skirtų finansinės
+paramos lėšų, šio įstatymo 5 straipsnio 1 dalies 1 punkte nurodytos išmokos
+jiems turi būti sumažinamos sumokėta suma. Kai darbuotojams skirtos išmokos,
+numatytos šio įstatymo 5 straipsnio 1 dalies 1 punkte, pagal galiojusias šios
+dalies nuostatas buvo sumažintos bankroto proceso metu iš įmonės lėšų sumokėta
+darbo užmokesčio dalimi, jiems skiriamos papildomos išmokos, kurių kiekvienos
+dydis yra lygus sumai, kuria buvo sumažinta anksčiau skirta išmoka.
 3.
 Bankrutuojančių ir bankrutavusių įmonių paraiškos dėl lėšų skyrimo iš
 Garantinio fondo šio įstatymo 3 straipsnyje nurodytiems darbuotojams pradedamos
@@ -467,19 +479,32 @@ BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-2469, 2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
+IX-2469,
+2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
 GARANTINIO
 FONDO ĮSTATYMO 1, 3, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO
 PRIEDU ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2004 m. lapkričio 1 d.
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2538,
+2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26)
+GARANTINIO
+FONDO ĮSTATYMO, ĮMONIŲ BANKROTO ĮSTATYMO, LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ
+ĮSTATYMO, ŽEMĖS ŪKIO BENDROVIŲ ĮSTATYMO, ŪKININKO ŪKIO ĮSTATYMO PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušrinė Trapinskienė (2004-10-20)
+Aušrinė Trapinskienė (2004-12-10)
                  
 autrap@lrs.lt
 
