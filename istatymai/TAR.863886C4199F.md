@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.863886C4199F"
 
 # Lietuvos Respublikos muziejų įstatymas
 
-Suvestinė redakcija nuo 1997-07-09 iki 1999-03-18
+Suvestinė redakcija nuo 1999-03-19 iki 2003-06-19
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1292, i. k. 0951010ISTA000I-930
  
@@ -36,7 +36,7 @@ I. BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Muziejus,muziejinė vertybė ir rinkinys
+1 straipsnis. Muziejus, muziejinė vertybė ir rinkinys
 
 
 Muziejus – tai visuomenei tarnaujanti ir jos bei gamtos raidą atspindinti vieša, pastovi, šio įstatymo nustatyta tvarka įregistruota kultūros įstaiga, kurios svarbiausia veikla yra kaupti, saugoti, restauruoti, tirti, eksponuoti bei populiarinti materialines ir dvasines kultūros vertybes bei gamtos objektus.
@@ -194,6 +194,10 @@ Lietuvos Respublikos muziejų fondą sudaro Lietuvoje esančių muziejų rinkini
 
 
 Valstybinių muziejų fondas yra valstybinė nuosavybė. Šio fondo muziejinės vertybės ankstesniems savininkams negrąžinamos.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos muziejų įstatymo 5 straipsnio 2 dalis ta apimtimi, kuria paneigiama teisė išreikalauti kultūros vertybes iš svetimo neteisėto valdymo, kai jos valstybinių muziejų fondui yra atitekusios po 1990 m. kovo 11 d., prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsniui.
+Straipsnio dalies pakeitimai:
+1999-03-16, Žin., 1999, Nr. 26-740 (1999-03-19), i. k. 0991000NUTARG990487            
+ 
 
 
 
@@ -725,3 +729,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-319, 1997-06-26, Žin., 1997, Nr. 65-1546 (1997-07-09), i. k. 0971010ISTAVIII-319
 Lietuvos Respublikos muziejų įstatymo 9 ir 21 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+1999-03-16, Žin., 1999, Nr. 26-740 (1999-03-19), i. k. 0991000NUTARG990487                
+Dėl Lietuvos Respublikos muziejų įstatymo 5 straipsnio 2 dalies atitikimo Lietuvos Respublikos Konstitucijai
