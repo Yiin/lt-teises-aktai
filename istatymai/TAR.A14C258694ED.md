@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A14C258694ED"
 
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas
 
+Suvestinė redakcija nuo 1999-01-01 iki 2002-06-18
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 1-4, i. k. 0941010ISTA000I-732
+ 
 LIETUVOS RESPUBLIKOS MOKSLININKŲ VALSTYBINIŲ PENSIJŲ LAIKINASIS ĮSTATYMAS
  
 1994 m. gruodžio 22 d. Nr. I-732
@@ -27,12 +31,6 @@ Lietuvos Respublikos Seimas, atsižvelgdamas į tai, kad Lietuvoje nėra sukurta
 
 
 1 straipsnis. Teisė gauti mokslininkų valstybinę pensiją
-
-
-Teisę gauti mokslininkų valstybinę pensiją turi nuolat Lietuvos Respublikoje gyvenantys asmenys, kuriems įstatymų nustatyta tvarka Lietuvos Respublikoje yra suteiktas ar nostrifikuotas mokslo laipsnis arba pedagoginis mokslo vardas.
- 
-
-
 
 
 
@@ -93,6 +91,13 @@ Asmenims, kuriems įstatymų nustatyta tvarka nostrifikuotas mokslų kandidato l
 
 
 Mokslinio darbo stažas Lietuvos Respublikos valstybinėse mokslo ir studijų institucijose nuo docento pedagoginio mokslo vardo suteikimo dienos laikomas daktaro stažu, o nuo profesoriaus pedagoginio mokslo vardo suteikimo dienos – habilituoto daktaro stažu.
+
+
+
+
+Lietuvos Respublikos pilietybę turinčių politinių kalinių ir tremtinių, kuriems atkurtos visos pilietinės teisės, mokslinio darbo stažas buvusios Sovietų Sąjungos sąjunginio ir respublikinio pavaldumo valstybinėse mokslo ir studijų institucijose, taip pat kitų mokslininkų mokslinio darbo stažas, kai jie dirbo mokslinį darbą vykdydami iš valstybės biudžeto finansuojamas mokslo programas, prilyginamas mokslinio darbo stažui Lietuvos Respublikos valstybinėse mokslo ir studijų institucijose šio įstatymo 6 straipsnio 3 dalies nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. VIII-909, 1998-10-22, Žin., 1998, Nr. 98-2711 (1998-11-11), i. k. 0981010ISTAVIII-909
  
 
 
@@ -103,15 +108,17 @@ Mokslinio darbo stažas Lietuvos Respublikos valstybinėse mokslo ir studijų in
 5 straipsnis. Mokslininkų valstybinės pensijos dydis
 
 
-Už kiekvienus visus daktaro stažo metus kiekvieną mėnesį mokama 10 procentų to mėnesio valstybinės socialinio draudimo bazinės pensijos. Už kiekvienus visus habilituoto daktaro stažo metus kiekvieną mėnesį papildomai mokama 5 procentai to mėnesio valstybinės socialinio draudimo bazinės pensijos.
+Už kiekvienus visus daktaro stažo metus kiekvieną mėnesį mokama 10 procentų to mėnesio valstybinių pensijų bazės. Už kiekvienus visus habilituoto daktaro stažo metus kiekvieną mėnesį papildomai mokama 5 procentai to mėnesio valstybinių pensijų bazės.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-909, 1998-10-22, Žin., 1998, Nr. 98-2711 (1998-11-11), i. k. 0981010ISTAVIII-909
  
 
 
 
 
-
-
-6 straipsnis. Mokslininkų valstybinių pensijų skyrimas ir mokėjimas
+6 straipsnis. Mokslininkų valstybinių pensijų skyrimas ir mokėjimas 
 
 
 Mokslininkų valstybines pensijas skiria ir moka Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai, vadovaudamiesi šiuo įstatymu, Valstybinių socialinio draudimo pensijų įstatymu, Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatais, pagal valstybinių mokslo ir studijų institucijų išduotus dokumentus.
@@ -124,10 +131,17 @@ Valstybinių mokslo ir studijų institucijų, kuriose mokslininko darbas įskait
 
 
 
+Lietuvos Respublikos pilietybę turinčių politinių kalinių ir tremtinių, kuriems atkurtos visos pilietinės teisės, mokslinio darbo stažą buvusios Sovietų Sąjungos sąjunginio ir respublikinio pavaldumo valstybinėse mokslo ir studijų institucijose, taip pat kitų mokslininkų mokslinio darbo stažą, kai jie dirbo mokslinį darbą vykdydami iš valstybės biudžeto finansuojamas mokslo programas, nustato ir išduoda mokslinio darbo stažą patvirtinančius dokumentus pensijai skirti Lietuvos Respublikos mokslinio darbo stažo nustatymo komisija prie Švietimo ir mokslo ministerijos. Į šią komisiją įeina švietimo ir mokslo ministras, kuris yra komisijos pirmininkas, švietimo ir mokslo viceministras, vienas Socialinės apsaugos ir darbo ministerijos įgaliotas atstovas, po du Lietuvos mokslo tarybos ir Mokslininkų sąjungos atstovus. Komisija sudaroma švietimo ir mokslo ministro įsakymu ir vadovaujasi švietimo ir mokslo ministro patvirtintais Mokslinio darbo stažo nustatymo nuostatais, suderintais su Lietuvos mokslo taryba.
+
+
+
+
 Mokslininkų valstybinių pensijų skyrimo, mokėjimo ir pristatymo išlaidos valstybinio socialinio draudimo fondui apmokamos iš valstybės biudžeto.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-909, 1998-10-22, Žin., 1998, Nr. 98-2711 (1998-11-11), i. k. 0981010ISTAVIII-909
  
-
-
 
 
 
@@ -158,3 +172,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-909, 1998-10-22, Žin., 1998, Nr. 98-2711 (1998-11-11), i. k. 0981010ISTAVIII-909
+Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 4, 5, 6 straipsnių papildymo ir pakeitimo įstatymas
