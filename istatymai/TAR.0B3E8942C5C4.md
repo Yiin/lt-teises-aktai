@@ -496,9 +496,20 @@ už Vyriausybės patvirtintas valstybės remiamas pajamas ir neturi viršyti dvi
 minimalių gyvenimo lygių.
 Bedarbiams, nurodytiems šio įstatymo 15 straipsnio 2,
 3 ir 4 dalyse, mokama valstybės remiamų pajamų dydžio bedarbio pašalpa.
+ 
+5 dalies redakcija iki 2004 m.
+liepos 1 d.:
 Bedarbiams, gaunantiems iš valstybės ar socialinio
 draudimo biudžetų pensiją, mažesnę už priklausančią bedarbio (mokymo) pašalpą,
 mokamas priklausančios bedarbio pašalpos ir gaunamos pensijos skirtumas.
+5 dalies redakcija nuo 2004 m.
+liepos 1 d.:
+Bedarbiams, gaunantiems iš valstybės ar valstybinio
+socialinio draudimo fondo biudžetų pensiją, mažesnę už priklausančią bedarbio
+(mokymo) pašalpą, mokamas priklausančios bedarbio pašalpos ir gaunamos pensijos
+skirtumas, išskyrus asmenis, gaunančius valstybinę socialinio draudimo senatvės
+pensiją pagal Valstybinių socialinio draudimo senatvės pensijų išankstinio
+mokėjimo įstatymą.
 Įstatymas papildytas straipsniu:
 Nr. I-1191, 1996
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
@@ -507,6 +518,9 @@ Nr. IX-687,
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 Nr. IX-1366,
 2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Nr.
+IX-1830,
+2003-11-18, Žin., 2003, Nr. 114-5118 (2003-12-05)
  
 17 straipsnis. Bedarbio pašalpos neskyrimas
             Bedarbio
@@ -638,8 +652,8 @@ Straipsnio pakeitimai:
 Nr. IX-687,
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
  
-20(2) straipsnis. Vietinių užimtumo iniciatyvų
-projektų įgyvendinimas
+20(2) straipsnis. Vietinių užimtumo
+iniciatyvų projektų įgyvendinimas
 Vietinių užimtumo iniciatyvų projektai – tai naujų
 darbo vietų kūrimo projektai, padedantys sutelkti vietos bendruomenės, įmonių,
 įstaigų ir trišalių socialinių partnerių pastangas didinti savivaldybės
@@ -660,8 +674,8 @@ atrankos, įgyvendinimo finansavimo ir kontrolės tvarką nustato socialinės
 apsaugos ir darbo ministras.
 Įstatymas papildytas
 straipsniu:
-Nr. IX-1366,
-2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Nr. IX-1366, 2003-03-13,
+Žin., 2003, Nr. 32-1313 (2003-04-02)
  
 V skyrius. LIETUVOS DARBO BIRŽA
  
@@ -693,22 +707,20 @@ steigia ir jų nuostatus tvirtina Lietuvos darbo birža.
 Lietuvos darbo birža ir jos
 teritorinės darbo biržos yra išlaikomos iš Užimtumo fondo lėšų ir paslaugas
 teikia nemokamai.
-Darbo rinkos
-būklės bei darbo rinkos politikos priemonių ir paslaugų įgyvendinimo klausimams
-nagrinėti prie Lietuvos darbo biržos bei teritorinių darbo biržų steigiamos
-visuomeniniais pagrindais veikiančios trišalės komisijos. Jos sudaromos iš
-vienodo skaičiaus lygiateisių narių:
-darbuotojų (profesinių sąjungų, susivienijimų, asociacijų ir kt.), darbdavių
-(asociacijų, konfederacijų ir kt.) ir valstybės bei savivaldybių institucijų
-atstovų.
+Darbo rinkos būklės bei darbo rinkos politikos
+priemonių ir paslaugų įgyvendinimo klausimams nagrinėti prie Lietuvos darbo
+biržos bei teritorinių darbo biržų steigiamos visuomeniniais pagrindais veikiančios trišalės komisijos. Jos
+sudaromos iš vienodo skaičiaus lygiateisių narių: darbuotojų (profesinių
+sąjungų, susivienijimų, asociacijų ir kt.), darbdavių (asociacijų,
+konfederacijų ir kt.) ir valstybės bei savivaldybių institucijų atstovų.
 Trišalės komisijos prie Lietuvos darbo biržos
 nuostatus bei pavyzdinius trišalės komisijos prie teritorinės darbo biržos
 nuostatus tvirtina socialinės apsaugos ir darbo ministras.
 Straipsnio pakeitimai:
 Nr. I-1191, 1996
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
-Nr. IX-1366,
-2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Nr. IX-1366, 2003-03-13,
+Žin., 2003, Nr. 32-1313 (2003-04-02)
  
 22 straipsnis. Neteko
 galios nuo 2003 m. balandžio 2 d.
@@ -719,8 +731,8 @@ Nr. VIII-1291,
 1999 07 07, Žin., 1999, Nr. 65-2086 (1999 07 28)
 Nr. IX-687,
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
-Nr. IX-1366,
-2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Nr. IX-1366, 2003-03-13,
+Žin., 2003, Nr. 32-1313 (2003-04-02)
  
             23
 straipsnis. Trišalių komisijų teisės 
@@ -733,9 +745,8 @@ tobulinimo;
             teikia
 pasiūlymus gyventojų užimtumo programų, nedarbo ribojimo priemonių, papildomų
 darbo vietų steigimo ar įdarbinimo kvotų negalintiems lygiomis sąlygomis su
-kitais konkuruoti darbo rinkoje piliečiams nustatymo, viešųjų darbų
-organizavimo, bedarbių profesinio konsultavimo, mokymo ir permokymo tvarkos
-klausimais;
+kitais konkuruoti darbo rinkoje piliečiams nustatymo, viešųjų darbų organizavimo,
+bedarbių profesinio konsultavimo, mokymo ir permokymo tvarkos klausimais;
             reguliariai
 svarsto darbo biržų veiklą ir Užimtumo fondo naudojimą, teikia atitinkamus
 pasiūlymus.
@@ -753,8 +764,8 @@ kontrolė
 Bedarbių rėmimo įstatymo laikymąsi kontroliuoja
 Valstybinė darbo inspekcija.
 Straipsnio pakeitimai:
-Nr. IX-1366, 2003-03-13,
-Žin., 2003, Nr. 32-1313 (2003-04-02)
+Nr. IX-1366,
+2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
  
 25 straipsnis. Ginčų sprendimas
 Ginčai, kilę dėl šio įstatymo taikymo, nagrinėjami
@@ -847,12 +858,22 @@ Nr. IX-1646,
 BEDARBIŲ
 RĖMIMO ĮSTATYMO 14 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1830,
+2003-11-18, Žin., 2003, Nr. 114-5118 (2003-12-05)
+BEDARBIŲ
+RĖMIMO ĮSTATYMO 16(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-07-09)
+Aušrinė Trapinskienė (2003-12-05)
                  
 autrap@lrs.lt
 
