@@ -13,6 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E79BEEF827D7"
 
 # Laikinasis Lietuvos Respublikos kariuomenės vadovybės įstatymas
 
+Įstatymas netenka galios 1996-10-18:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1548, 1996-09-25, Žin., 1996, Nr. 101-2302 (1996-10-18), i. k. 0961010ISTA00I-1548
+Lietuvos Respublikos krašto apsaugos tarnybos įstatymas
+ 
+Suvestinė redakcija nuo 1993-11-19 iki 1996-10-17
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 31-713, i. k. 0931010ISTA000I-221
+ 
 LIETUVOS RESPUBLIKOS
 LAIKINASIS
 LIETUVOS RESPUBLIKOS KARIUOMENĖS VADOVYBĖS
@@ -33,7 +42,9 @@ Lietuvos Respublikos Prezidentas yra vyriausias valstybės ginkluotųjų pajėg�
 
 Vyriausiasis Lietuvos Respublikos ginkluotųjų pajėgų vadas atsako už valstybės paruošimą organizuotai atremti ginkluotą agresiją.
 
-Vyriausiasis Lietuvos Respublikos ginkluotųjų pajėgų vadas skiria ir atleidžia atskirų kariuomenės rūšių vadus, karininkus pulko, brigados vadų pareigoms užimti; suteikia pirminį ir aukščiausius (nuo pulkininko) karininkų laipsnius.
+Vyriausiasis Lietuvos Respublikos ginkluotųjų pajėgų vadas skiria atskirų kariuomenės rūšių vadus, karininkus pulko, brigados vadų pareigoms užimti ir juos atleidžia, suteikia aukščiausius (nuo pulkininko) karininkų laipsnius. 
+Straipsnio dalies pakeitimai:
+Nr. I-302, 1993-11-11, Žin., 1993, Nr. 62-1170 (1993-11-19), i. k. 0931010ISTA000I-302
  
 
 3 straipsnis.
@@ -52,7 +63,10 @@ Krašto apsaugos ministras atsako už:
 
 3) kariuomenės finansinių išteklių tvarkymą.
 
-Krašto apsaugos ministras teikia Respublikos Prezidentui pasiūlymus dėl pirminio ir aukščiausių (nuo pulkininko) karinių laipsnių suteikimo, atskirų kariuomenės rūšių vadų skyrimo ar atleidimo, dėl karininkų paskyrimo pulko vado, brigados vado ir aukštesnėms pareigoms.
+Krašto apsaugos ministras teikia Respublikos Prezidentui pasiūlymus dėl aukščiausių (nuo pulkininko) karinių laipsnių suteikimo, atskirų kariuomenės rūšių vadų skyrimo ir atleidimo, dėl karininkų paskyrimo pulko vado, brigados vado ir aukštesnėms pareigoms. 
+Straipsnio dalies pakeitimai:
+Nr. I-302, 1993-11-11, Žin., 1993, Nr. 62-1170 (1993-11-19), i. k. 0931010ISTA000I-302
+ 
 
 Krašto apsaugos ministras tvirtina:
 
@@ -109,4 +123,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-302, 1993-11-11, Žin., 1993, Nr. 62-1170 (1993-11-19), i. k. 0931010ISTA000I-302
+Dėl Lietuvos Respublikos laikinojo kariuomenės vadovybės įstatymo pakeitimo
 
