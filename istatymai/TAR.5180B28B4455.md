@@ -13,10 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455"
 
 # Dėl specialios paskirties bendrovių ir jų veiklos sričių
 
-Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramun? L??ait? (1997
 
-Redagavo:
-Ramunė Lūžaitė (1997.01.03)
+Redagavo: Ramunė
+Lūžaitė (1997.04.16)
+ 
+Neoficialus įstatymo
+tekstas
  
 Pakeitimai:
  
@@ -56,6 +59,15 @@ LIETUVOS
 RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS
 SRIČIŲ" 2 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+5.
+Lietuvos Respublikos
+Seimas, Įstatymas 
+Nr. VIII-174,
+97.04.03, Žin., 1997, Nr.32-784 (97.04.16)
+LIETUVOS RESPUBLIKOS
+ĮSTATYMO “DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ” PAKEITIMO
+IR PAPILDYMO ĮSTATYMAS
+ 
 ***Pabaiga***
  
 LIETUVOS RESPUBLIKOS
@@ -66,6 +78,8 @@ Vilnius
  
 DĖL SPECIALIOS PASKIRTIES BENDROVIŲ
 IR JŲ VEIKLOS SRIČIŲ 
+ 
+(Žin., 1995, Nr.21-490)
  
  
      Lietuvos 
@@ -91,12 +105,12 @@ fizinių asmenų, valstybės ir savivaldybės papildomų įnašų galima Akcini�
 bendrovių įstatymo nustatyta tvarka tik Vyriausybei priėmus nutarimą. Šioms
 specialios paskirties bendrovėms įstatinį kapitalą didinti papildomais įnašais
 leidžiama, kai visos perkainojimo rezervo lėšos yra panaudotos įstatiniam
-kapitalui didinti ir bendrovės įstatų pakeitimai dėl įstatinio kapitalo
-padidinimo įregistruoti Įmonių rejestro įstatymo nustatyta tvarka. Įstatinį
-kapitalą didinti perkainojimo rezervo lėšomis draudžiama esant nepadengtiems
-bendrovės finansinėje atskaitomybėje apskaitytiems bendrovės nuostoliams.
-Įstatinis kapitalas iš papildomų įnašų gali būti didinamas tik Valstybės ir
-savivaldybių turto privatizavimo įstatymo nustatyta tvarka.
+kapitalui didinti ir bendrovės įstatų pakeitimai dėl įstatinio kapitalo padidinimo
+įregistruoti Įmonių rejestro įstatymo nustatyta tvarka. Įstatinį kapitalą
+didinti perkainojimo rezervo lėšomis draudžiama esant nepadengtiems bendrovės
+finansinėje atskaitomybėje apskaitytiems bendrovės nuostoliams. Įstatinis
+kapitalas iš papildomų įnašų gali būti didinamas tik Valstybės ir savivaldybių
+turto privatizavimo įstatymo nustatyta tvarka.
      Uždrausti
 įmonėms, įrašytoms į šio įstatymo 2 priedėlį ir reorganizuotoms į specialios
 paskirties bendroves,     keisti specialios bendrovės statusą, reorganizuotis
@@ -133,6 +147,16 @@ Straipsnio
 Nr.
 I-1409, 96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
  
+    
+4 straipsnis. Įmonė
+Lietuvos jūrų laivininkystė, kodas 4035584, gali būti privatizuojama tik po to,
+kai bus priimtas įstatymas dėl šio objekto veiklos valstybinio reguliavimo po
+privatizavimo.
+ 
+Įstatymas
+papildytas straipsniu:
+Nr.
+VIII-174, 97.04.03, Žin., 1997, Nr.32-784 (97.04.16)
  
     
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -140,7 +164,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS
-PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
  
  
                                        
@@ -174,8 +198,8 @@ Galvijų, avių, ožkų, arklių, kiaulių veisimas
 014003   
 Dirbtinis sėklinimas
  
-                     
-    Miškininkystė
+                         
+Miškininkystė
 020001   
 Miško auginimas
  
@@ -206,7 +230,7 @@ Leidinių leidimas
 222101   
 Leidinių spausdinimas
  
-      
+         
 Kokso, naftos produktų ir branduolinio kuro gamyba
 232000   
 Naftos produktų gamyba
@@ -230,12 +254,12 @@ nuodingųjų medžiagų gamyba
 242901   
 Sprogstamųjų medžiagų gamyba
  
-      
+         
 Kitų nemetalinių mineralinių produktų gamyba
 261000   
 Stiklo ir gaminių iš stiklo gamyba
  
-      
+                    
 Mašinų ir įrengimų gamyba
 292700   
 Ginklų gamyba
@@ -262,8 +286,8 @@ Dviračių ir invalidų vežimėlių gamyba
  
      
 Kitų gaminių, neįtrauktų į kitas kategorijas, gamyba
-369910   
-Vaizdinių mokymo priemonių gamyba
+369910
+   Vaizdinių mokymo priemonių gamyba
  
                 
 Elektros energijos, dujų, garo
@@ -413,8 +437,8 @@ Oro uostų aptarnavimas
 630312   
 Jūrų uostų aptarnavimas
  
-     
-                  Paštas ir ryšiai
+                       
+Paštas ir ryšiai
 641100   
 Nacionalinio pašto veikla
 642000   
@@ -436,8 +460,8 @@ Sanitarinė-epidemiologinė veikla
  
                            
 Švietimas
-802202   
-Profesinis mokymas
+802202 
+  Profesinis mokymas
 809003   
 Kvalifikacijos kėlimas
  
@@ -524,22 +548,18 @@ Lietuvos Respublikos
 Valstybinių įmonių, kurios iki 2000 metų
           
 turi būti specialios paskirties bendrovės,
-                         
-s ą r a š a s
+              
+           s ą r a š a s
 _________________________________________________________________
 Įmonės
 kodas                             Pavadinimas
 _________________________________________________________________
 2055155       
 Lietuvos valstybinė energetikos sistema
-6313154       
-Gargždų valstybinė naftos įmonė
 2005952       
 Valstybinė įmonė "Lietuvos dujos"
 1005384       
 Valstybinė įmonė "Lietuvos geležinkeliai"
-4035584       
-Lietuvos jūrų laivininkystė
 2005728       
 Valstybinė įmonė "Vilniaus degtinė"
 3208278       
@@ -548,8 +568,6 @@ Valstybinė bendrovė "Stumbras"
 Valstybinė įmonė "Anykščių vynas"
 4951989       
 Valstybinė firma "Alita"
-6111045       
-Valstybinė Kėdainių chemijos gamykla
 6855597       
 Panevėžio valstybinė veislinių gyvulių supirkimo
               
@@ -558,8 +576,8 @@ firma
 Raseinių valstybinė gyvulių sėklinimo įmonė
 2054584       
 Vilniaus valstybinė vandens tiekimo įmonė
-3275136       
-Kauno valstybinė vandens tiekimo įmonė
+3275136  
+     Kauno valstybinė vandens tiekimo įmonė
 4008926       
 Klaipėdos valstybinė vandens tiekimo įmonė
 4413336       
@@ -576,7 +594,6 @@ Druskininkų valstybinė vandens tiekimo įmonė
 Palangos valstybinė vandens tiekimo įmonė
 5281284       
 Birštono valstybinė vandens tiekimo įmonė
- 
 5300599       
 Valstybinė Naujosios Akmenės šilumos ir vandens
               
@@ -593,8 +610,8 @@ Jonavos valstybinė vandens tiekimo įmonė
 Joniškio valstybinė vandens tiekimo įmonė
 5883472       
 Kaišiadorių valstybinė vandens tiekimo įmonė
-5884794   
-    Žiežmarių valstybinė vandens ir šilumos tiekimo
+5884794       
+Žiežmarių valstybinė vandens ir šilumos tiekimo
               
 įmonė
 6118642       
@@ -603,8 +620,8 @@ Kėdainių valstybinė vandens tiekimo įmonė
 Kelmės valstybinė vandens tiekimo įmonė
 6399442       
 Kretingos valstybinė vandens tiekimo įmonė
-6517137     
-  Lazdijų valstybinė vandens tiekimo įmonė
+6517137       
+Lazdijų valstybinė vandens tiekimo įmonė
 6648611       
 Mažeikių valstybinė vandens tiekimo įmonė
 6752475       
@@ -621,6 +638,7 @@ paslaugų įmonė
 Radviliškio valstybinė vandens tiekimo įmonė
 7382052       
 Palangos valstybinės vandens tiekimo įmonės Skuodo
+              
 baras
 7426488       
 Šakių valstybinė vandens tiekimo įmonė
@@ -640,8 +658,6 @@ Ukmergės valstybinė vandens tiekimo įmonė
 Utenos valstybinė vandens tiekimo įmonė
 8459818       
 Varėnos valstybinė vandens tiekimo įmonė
-4703879       
-Panevėžio stiklo fabrikas
  
 Priedėlio
 pakeitimai:
