@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2000-03-08 iki 2000-05-23
+Suvestinė redakcija nuo 2000-05-24 iki 2001-07-24
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -451,7 +451,10 @@ VALSTYBINĖ INVESTAVIMO POLITIKA
 
 
 
-2. Valstybės investicijų programą, sudaromą ne mažiau kaip trejiems metams, tvirtina Lietuvos Respublikos Vyriausybė. Valstybės investicijų programa teikiama Lietuvos Respublikos Seimui kartu su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu. 
+2. Valstybės investicijų programa sudaroma ne mažiau kaip trejiems metams. Lietuvos Respublikos Vyriausybė Valstybės investicijų programą teikia svarstyti ir tvirtinti Lietuvos Respublikos Seimui kartu su atitinkamų metų valstybės ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu įstatymų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1659, 2000-05-02, Žin., 2000, Nr. 42-1187 (2000-05-24), i. k. 1001010ISTAIII-1659
+ 
 
 
 
@@ -516,3 +519,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1558, 2000-02-17, Žin., 2000, Nr. 20-495 (2000-03-08), i. k. 1001010ISTAIII-1558
 Lietuvos Respublikos investicijų įstatymo 8 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1659, 2000-05-02, Žin., 2000, Nr. 42-1187 (2000-05-24), i. k. 1001010ISTAIII-1659
+Lietuvos Respublikos investicijų įstatymo 14 straipsnio pakeitimo įstatymas
