@@ -13,6 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.84A7600FBF7D"
 
 # Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo
 
+Suvestinė redakcija nuo 1993-12-18
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 30-679, i. k. 0931010ISTA000I-210
+ 
+TAR pastaba. Įsigaliojus (1993-12-18) įstatymui Nr. I-336, visi asmenys, kurie yra sulaikyti pagal 1993 m. liepos 13 d. Lietuvos Respublikos laikinajame įstatyme „Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo“ nustatytą tvarką, per septynias dienas turi būti paleisti arba jų sulaikymo pagrįstumo klausimas turi būti pradėtas spręsti Lietuvos Respublikos baudžiamojo proceso kodekso 50-1 straipsnyje nustatyta tvarka, o 1993 m. liepos 13 d. Lietuvos Respublikos laikinasis įstatymas „Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo“ (Žin., 1993, Nr. 30-679) netenka galios (bet ne vėliau kaip 1994 m. sausio 1 d.). Patvirtinus asmens sulaikymo pagrįstumą Lietuvos Respublikos baudžiamojo proceso kodekso 50-1 straipsnyje numatytais atvejais, bendras sulaikymo terminas, įskaitant faktiškai sulaikytam išbūtą laiką pagal 1993 m. liepos 13 d. Lietuvos Respublikos laikinojo įstatymo „Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo“ nustatytą tvarką, negali būti ilgesnis kaip šešiasdešimt dienų.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-336, 1993-12-15, Žin., 1993, Nr. 70-1310 (1993-12-18), i. k. 0931010ISTA000I-336
+Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo
+ 
 LIETUVOS RESPUBLIKOS
 LAIKINASIS ĮSTATYMAS
  
@@ -48,4 +57,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-336, 1993-12-15, Žin., 1993, Nr. 70-1310 (1993-12-18), i. k. 0931010ISTA000I-336
+Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo
 
