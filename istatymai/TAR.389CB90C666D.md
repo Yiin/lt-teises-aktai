@@ -749,39 +749,18 @@ psichotropinių ar kitų svaigiųjų medžiagų, arba tyčinį nusikaltimą, jei
 teistumas neišnykęs arba nepanaikintas;
 3) atliekantis
 laisvės atėmimo bausmę už neatsargų nusikaltimą; 
- 
-2 dalies 4
-punkto redakcija iki 2003 m. liepos 1 d.:
-4) kuris
-Įstatymų nustatyta tvarka kaltinamas padaręs tyčinį nusikaltimą arba būdamas
-neblaivus, apsvaigęs nuo narkotinių, psichotropinių ar kitų svaigiųjų medžiagų
-padaręs neatsargų nusikaltimą, arba jam paskirta kardomoji priemonė;
-2 dalies 4
-punkto redakcija nuo 2003 m. liepos 1 d.:
 4) kuris įstatymų nustatyta tvarka įtariamas arba
 kaltinamas padaręs tyčinę nusikalstamą veiką arba būdamas neblaivus, apsvaigęs
 nuo narkotinių, psichotropinių ar kitų svaigiųjų medžiagų padaręs neatsargią
 nusikalstamą veiką, arba jam paskirta kardomoji priemonė;
- 
 5) kuris yra
 įrašytas į operatyvinę įskaitą arba kuriam Organizuoto nusikalstamumo užkardymo
 įstatymo nustatyta tvarka taikomi teismo įpareigojimai;
- 
-2 dalies 6
-punkto redakcija iki 2003 m. liepos 1 d.:
-6) kuriam per pastaruosius 3 metus dėl to, kad
-susitarė su nukentėjusiuoju, nebuvo keliama baudžiamoji byla arba iškelta
-baudžiamoji byla buvo nutraukta dėl tyčinio nusikaltimo arba dėl neatsargaus
-nusikaltimo, kurį jis padarė būdamas neblaivus, apsvaigęs nuo narkotinių,
-psichotropinių ar kitų svaigiųjų medžiagų; 
-2 dalies 6
-punkto redakcija nuo 2003 m. liepos 1 d.:
 6) kuriam per pastaruosius 3 metus dėl to, kad
 susitarė su nukentėjusiuoju, nebuvo pradėtas ikiteisminis tyrimas arba
 ikiteisminis tyrimas buvo nutrauktas dėl tyčinės nusikalstamos veikos arba dėl
 neatsargios nusikalstamos veikos, kurią jis padarė būdamas neblaivus, apsvaigęs
 nuo narkotinių, psichotropinių ar kitų svaigiųjų medžiagų;
- 
 7) padaręs
 pakartotinai per metus administracinį teisės pažeidimą, kuriuo kėsinosi į
 nuosavybę, viešąją ar valdymo tvarką;
@@ -897,8 +876,8 @@ nustatyta tvarka išduotą licenciją verstis prekybos tarpininko veikla;
 2) verstis
 licencijuojama veikla objektuose, kuriems neišduotas teritorinės policijos
 įstaigos leidimas.
-4. Ginklų apskaitos
-tvarką nustato Vyriausybės įgaliota institucija.
+4. Ginklų
+apskaitos tvarką nustato Vyriausybės įgaliota institucija.
  
 22
 straipsnis. Ginklų, jų pagrindinių dalių ir šaudmenų gamyba
@@ -945,8 +924,8 @@ paties pagamintus ginklus, šaudmenis, jų dalis;
 ginklų, šaudmenų dalis iš Europos Sąjungos valstybių narių;
 7) išvežti
 paties pagamintus ginklus, šaudmenis į Europos Sąjungos valstybes nares. 
-6. Ginklų, šaudmenų gamintojai
-privalo laikytis produktų saugos reikalavimų. 
+6. Ginklų, šaudmenų gamintojai privalo
+laikytis produktų saugos reikalavimų. 
 7. Lygiavamzdžių, graižtvinių,
 pneumatinių bei templinių šaunamųjų ginklų savininkai ir valdytojai savo
 reikmėms šaudmenis gali gamintis patys. Asmenys, teisėtai turintys
@@ -1379,10 +1358,10 @@ prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius, jeigu j
 amžius žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai jie
 priešinasi pavojingu žmogaus gyvybei būdu arba jei užpuola tokių asmenų grupė
 ir šis užpuolimas kelia grėsmę gyvybei.
-6. Apie kiekvieną
-ginklo panaudojimo atvejį, kai žuvo žmogus ar padaryta materialinė žala,
-padaryti kūno sužalojimai asmeniui, ginklo savininkas ar naudotojas nedelsdamas
-turi pranešti teritorinei policijos įstaigai ar prokuratūrai.
+6. Apie
+kiekvieną ginklo panaudojimo atvejį, kai žuvo žmogus ar padaryta materialinė
+žala, padaryti kūno sužalojimai asmeniui, ginklo savininkas ar naudotojas
+nedelsdamas turi pranešti teritorinei policijos įstaigai ar prokuratūrai.
 7. Medžioklės
 plotuose medžioklei skirti ginklai ir šaudmenys naudojami šio Įstatymo ir
 medžioklę reglamentuojančių teisės aktų nustatyta tvarka. 
@@ -1624,16 +1603,7 @@ licencijos, leidimo nešiotis, leidimo laikyti ginklus, šaudmenis galiojimą;
 visuomenės saugumui ar viešajai tvarkai;
 4) mirus ginklo
 savininkui, kol bus išspręstas turto paveldėjimo klausimas;
- 
-1 dalies 5
-punkto redakcija iki 2003 m. liepos 1 d.:
-5) kai asmuo
-įstatymų nustatyta tvarka kaltinamas padaręs tyčinį nusikaltimą ar jam paskirta
-kardomoji priemonė – kardomasis kalinimas (suėmimas);
-1 dalies 5
-punkto redakcija nuo 2003 m. liepos 1 d.:
 5) kai asmuo įstatymų nustatyta tvarka įtariamas ar kaltinamas padaręs tyčinę nusikalstamą veiką ar jam paskirta kardomoji priemonė – suėmimas;
- 
 6) esant
 pakankamam pagrindui įtarti, kad asmuo serga ligomis ar turi fizinių trūkumų,
 trukdančių tinkamai elgtis su ginklu, ar turi sveikatos sutrikimų, problemų dėl
@@ -1661,20 +1631,6 @@ realizavimo jo savininkui pranešama apie realizuotą ginklą ir jam atvykus
 išmokama atitinkama pinigų suma. Perduoto realizuoti Ginklų fondui ginklo
 tinkamumas naudoti nustatomas ir vertė apskaičiuojama Vyriausybės ar jos
 įgaliotos institucijos nustatyta tvarka.
- 
-5 dalies
-redakcija iki 2003 m. liepos 1 d.:
-5. Šio
-straipsnio 1 dalies 5 punkte numatytais atvejais ginklai ir šaudmenys paimami
-iki kaltinimų ar kardomosios priemonės asmeniui panaikinimo įstatymų nustatyta
-tvarka. Šio straipsnio 1 dalies 6, 7 punktuose numatytais atvejais policijos
-įstaigos ginklus, šaudmenis paima, kol bus priimtas atitinkamas sprendimas dėl
-leidimo panaikinimo ar ginklo grąžinimo. Tais atvejais, kai ginklai, šaudmenys
-buvo paimti pasibaigus licencijos ar leidimo galiojimo laikui, tačiau jų
-galiojimo terminas teisės aktų nustatyta tvarka buvo pratęstas, ginklai ir
-šaudmenys grąžinami jų savininkui.
-5 dalies
-redakcija nuo 2003 m. liepos 1 d.:
 5. Šio straipsnio 1 dalies 5 punkte numatytais
 atvejais ginklai ir šaudmenys paimami iki ikiteisminio tyrimo ar baudžiamosios
 bylos nutraukimo arba kardomosios priemonės asmeniui panaikinimo įstatymų
@@ -1684,7 +1640,6 @@ sprendimas dėl leidimo panaikinimo ar ginklo grąžinimo. Tais atvejais, kai
 ginklai, šaudmenys buvo paimti pasibaigus licencijos ar leidimo galiojimo
 laikui, tačiau jų galiojimo terminas teisės aktų nustatyta tvarka buvo
 pratęstas, ginklai ir šaudmenys grąžinami jų savininkui.
- 
 6. Jei
 sprendimas dėl leidimo panaikinimo ar nepratęsimo, licencijos panaikinimo
 apskundžiamas įstatymų nustatyta tvarka, ginklas ir šaudmenys laikinai paimami
@@ -1726,9 +1681,9 @@ suteikia teisę laikyti ginklą 10 dienų ir per šį terminą jį pateikti
 realizuoti.
 5. Per 10 dienų nuo paveldėto
 ginklo realizavimo paveldėtojui pranešama apie realizuotą ginklą ir jam atvykus
-išmokama atitinkama pinigų suma. Perduoto realizuoti Ginklų fondui ginklo
-tinkamumas naudoti nustatomas ir vertė apskaičiuojama Vyriausybės ar jos
-įgaliotos institucijos nustatyta tvarka.
+išmokama atitinkama pinigų suma. Perduoto realizuoti Ginklų fondui ginklo tinkamumas
+naudoti nustatomas ir vertė apskaičiuojama Vyriausybės ar jos įgaliotos
+institucijos nustatyta tvarka.
 6. Jei
 paveldėtojas be svarbių priežasčių per 1 mėnesį nuo paveldėjimo teisės
 liudijimo gavimo nesikreipia į teritorinę policijos įstaigą dėl leidimo
@@ -1738,27 +1693,28 @@ realizuoti ir teritorinei policijos įstaigai nepateikia šio straipsnio 4 dalyj
 nurodytos pažymos, kad ginklas, šaudmenys yra perduoti realizuoti, ginklas,
 šaudmenys paimami neatlygintinai ir perduodami realizuoti į Ginklų fondą.
 7. Respublikos Prezidentas, Seimo
-Pirmininkas, Ministras Pirmininkas už nuopelnus Lietuvos valstybei turi teisę
-apdovanoti asmenis B, C kategorijų trumpaisiais šaunamaisiais ginklais
-(pistoletais, revolveriais) bei kardais, durklais, kalavijais.
+Pirmininkas, Ministras Pirmininkas, taip pat krašto apsaugos ministras ir
+vidaus reikalų ministras turi teisę apdovanoti asmenis B, C kategorijų
+trumpaisiais šaunamaisiais ginklais (pistoletais, revolveriais) bei kardais,
+durklais, kalavijais už pasižymėjimą kovos aplinkybėmis, už nuopelnus ar
+pasiaukojimą ir narsą užtikrinant asmens, visuomenės ir (ar) valstybės saugumą,
+kovojant su nusikalstamumu, už asmeninę drąsą atliekant valstybės užduotis.
 8. Apdovanoti Lietuvos
 Respublikos nuolatinius gyventojus ginklais gali ir užsienio valstybių,
 vyriausybių vadovai, kiti oficialūs asmenys. 
-9. Krašto
-apsaugos ministras, vidaus reikalų ministras, Valstybės saugumo departamento generalinis
-direktorius, Specialiųjų tyrimų tarnybos direktorius, generalinis prokuroras
-turi teisę apdovanoti šio straipsnio 7 dalyje nurodytais ginklais savo
-pavaldžius pareigūnus. Šaulių sąjungos vadas krašto apsaugos ministro pritarimu
-turi teisę apdovanoti šio straipsnio 7 dalyje nurodytais ginklais Šaulių
-sąjungos narius.
-10. Tvarką,
+9. Tvarką,
 reglamentuojančią apdovanojimą ginklais, jų laikymo, nešiojimo, naudojimo
 reikalavimus nustato Vyriausybė ar jos įgaliota institucija.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1751,
+2003-10-07, Žin., 2003, Nr. 101-4538 (2003-10-29)
  
 TRYLIKTASIS
 SKIRSNIS
-GINKLŲ, ŠAUDMENŲ,
-JŲ DALIŲ SUNAIKINIMAS
+GINKLŲ,
+ŠAUDMENŲ, JŲ DALIŲ SUNAIKINIMAS
  
 43
 straipsnis. Ginklų, šaudmenų, jų dalių sunaikinimas
@@ -1799,7 +1755,8 @@ BAIGIAMOSIOS NUOSTATOS
 straipsnis. Ginklų ir šaudmenų apyvartos kontrolė
 1. Ginklų ir
 šaudmenų apyvartą Lietuvos Respublikos teritorijoje kontroliuoja Vidaus reikalų
-ministerija, Ginklų fondas, pagal savo kompetenciją kitos valstybės institucijos.
+ministerija, Ginklų fondas, pagal savo kompetenciją kitos valstybės
+institucijos.
 2. Valstybės
 tarnautojai, įgalioti kontroliuoti ginklų ir šaudmenų apyvartą, turi teisę:
 1) apžiūrėti
@@ -1846,8 +1803,8 @@ išvežimą iš Lietuvos Respublikos, sunaikinimą teikiama vadovaujantis Lietuv
 Respublikos tarptautinėmis sutartimis Lietuvos Respublikos teisės aktų
 nustatyta tvarka. 
  
-47
-straipsnis. Atsakomybė už ginklų ir šaudmenų apyvartos pažeidimus
+47 straipsnis.
+Atsakomybė už ginklų ir šaudmenų apyvartos pažeidimus
 Asmenys, pažeidę
 ginklų ir šaudmenų apyvartos, jos kontrolės tvarką, atsako įstatymų nustatyta
 tvarka.
@@ -1933,9 +1890,20 @@ GINKLŲ IR ŠAUDMENŲ KONTROLĖS
 Šis Įstatymas įsigalioja nuo 2003
 m. liepos 1 d.
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1751,
+2003-10-07, Žin., 2003, Nr. 101-4538 (2003-10-29)
+GINKLŲ
+IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 42 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė
-(2003-05-28)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2003-10-29)
+                 
+autrap@lrs.lt
