@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B"
 
 # Lietuvos Respublikos hipotekos įstatymas
 
-Suvestinė redakcija nuo 2000-10-11 iki 2001-06-30
+Įstatymas netenka galios 2003-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-743, 2002-02-28, Žin., 2002, Nr. 36-1340 (2002-04-06); Žin., 2002, Nr. 42-0 (2002-04-24), i. k. 1021010KODE00IX-743
+Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
+ 
+Suvestinė redakcija nuo 2001-07-01 iki 2002-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 200-0; Žin. 1992, Nr.31-951, i. k. 0921010ISTA00I-2936
  
@@ -29,105 +34,63 @@ PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
  
 
-1 straipsnis. Hipotekos sąvoka
-
-Hipoteka – tai esamo ar būsimo skolinio įsipareigojimo įvykdymą apsaugantis turto įkeitimas, kai įkeisto turto savininkui paliekama nuosavybės teisė. Jei suėjus nustatytam terminui skola hipotekos kreditoriui negrąžinama, jis turi teisę reikalauti, kad įkeistas turtas būtų parduotas iš varžytynių ir iš gautų pinigų atlyginta jam priklausanti suma. Susitarimas dėl įkeisto turto perleidimo hipotekos kreditoriaus nuosavybėn negalioja.
+1 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-2 straipsnis. Hipotekos kreditoriaus teisė patenkinti reikalavimą iš įkeisto turto vertės pirmiau už kitus kreditorius
-
-Hipotekos kreditorius turi teisę visiškai patenkinti savo reikalavimą iš įkeisto turto pirmiau už kitus kreditorius. Jei pardavus įkeistą turtą varžytynėse gaunama mažesnė suma nei priklauso kreditoriui, jis turi teisę nukreipti savo reikalavimą į kitą skolininko turtą lygiomis teisėmis su kitais kreditoriais.
+2 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-3 straipsnis. Hipotekos atsiradimo pagrindai
-
-1. Turtas įkeičiamas sudarant  kreditoriaus ir įkeičiamo turto savininko ar asmens, turinčio į tą turtą patikėjimo teisę, (toliau – savininkas) sutartį arba vienašaliu įkeičiamo turto savininko pareiškimu ir įregistruojant įkeitimą hipotekos registre. Hipoteka, neįregistruota hipotekos registre, neturi galios.
-
-2. Hipotekos sutartis negalioja, jeigu turtą įkeitė asmuo, kuris nėra įkeičiamo turto savininkas.
+3 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-4 straipsnis. Hipotekos kreditorių reikalavimų tenkinimo eilė
-
-1. Jeigu turtas įkeičiamas kelis kartus, kreditorių reikalavimai patenkinami pagal prašymo įregistruoti hipoteką įregistravimo apylinkės teismo hipotekos skyriuje (toliau – hipotekos skyrius) datą eilės tvarka.
-
-2. Hipotekos reikalavimo suma, palūkanos ir delspinigiai negali būti didinami, taip pat skolinio įsipareigojimo įvykdymo terminas negali būti sutrumpintas hipotekos kreditoriaus ir skolinininko ar įkeisto turto savininko susitarimu be visų paskesnės eilės kreditorių raštiško sutikimo.
+4 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-5 straipsnis. Hipotekos išlikimas įkeisto turto nuosavybės teisei perėjus kitam asmeniui
-
-Jeigu įkeisto turto nuosavybės teisė pereina kitam asmeniui, hipoteka seka paskui turtą.
+5 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-6 straipsnis. Hipotekos registro duomenų teisingumas
-
-Visi duomenys, įrašyti į hipotekos registrą, laikomi teisingais ir išsamiais, kol jie nenuginčyti įstatymų nustatyta tvarka.
+6 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-7 straipsnis. Hipotekos registro duomenų viešumas
-
-1. Hipotekos registro duomenys yra vieši. Su šiais duomenimis Hipotekos registro nuostatų nustatyta tvarka atlygintinai gali susipažinti kiekvienas.
-
-2. Kilus ginčui, asmenys negali teisintis nežinoję apie turto įkeitimą, jeigu jis buvo įregistruotas hipotekos registre.
+7 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 ANTRASIS SKIRSNIS
 HIPOTEKOS OBJEKTAS
  
 
-8 straipsnis. Įkeičiamas turtas
-
-1. Pagal šį įstatymą gali būti įkeičiamas nekilnojamasis turtas, įregistruotas Lietuvos Respublikos nekilnojamojo turto registre, laivai, įregistruoti Lietuvos Respublikos jūrų laivų registre, orlaiviai, įregistruoti Lietuvos Respublikos valstybės orlaivių bei civilinių orlaivių registruose.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1901, 2000-08-29, Žin., 2000, Nr. 75-2268 (2000-09-07), i. k. 1001010ISTAIII-1901
+8 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-2. Pagal šį įstatymą negali būti įkeičiamas turtas, išimtas iš civilinės apyvartos, areštuotas turtas, kuriuo uždrausta disponuoti, taip pat turtas, į kurį pagal Lietuvos Respublikos įstatymus negali būti nukreipiamas išieškojimas. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
+9 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-3. Įkeistas turtas, išskyrus žemę, turi būti apdraudžiamas, kol hipoteka bus baigta.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
+10 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-4. Norint įkeisti dalį turto, ši dalis turi būti tiksliai apibrėžta ir įregistruota turto registre kaip atskiras objektas.
-
-5. Turtas, priklausantis bendrosios nuosavybės teise, gali būti įkeistas tik rašytiniu bendrasavininkių sutikimu.
-
-6. Jeigu įkeistas turtas pereina valstybės arba savivaldybės nuosavybėn paveldėjimo teise ar įkeistas bešeimininkis turtas perduodamas teismo sprendimu valstybės arba savivaldybės nuosavybėn, kreditorius turi teisę reikalauti įvykdyti skolinį įsipareigojimą iš valstybės arba savivaldybės ne daugiau nei įkeisto turto vertė.
- 
-
-9 straipsnis. Nekilnojamojo turto įkeitimas
-
-1. Nekilnojamojo turto įkeitimas apima:
-
-1) hipotekos registravimo momentu nekilnojamojo turto registre įregistruotą pagrindinį daiktą ir jo priklausinius;
-
-2) vėliau prie to turto jo savininko valia prijungtus ar dėl gamtinių įvykių prisijungusius daiktus.
-
-2. Hipoteka neapima turto, kurį prie pagrindinio daikto po jo įkeitimo prijungė nuomininkas ar asmuo, naudojantis turtą pagal panaudos sutartį.
-
-3. Jeigu įkeičiant pastatą kartu nėra įkeičiamas žemės sklypas, ant kurio stovi pastatas, pastato įkeitimas apima žemės sklypo, ant kurio stovi įkeistasis pastatas, nuomos (panaudos) teisę, atsiradusią nekilnojamojo turto registre įregistruotos žemės nuomos (panaudos) sutarties pagrindu.
-Straipsnio dalies pakeitimai:
-Nr. VIII-670, 1998-03-19, Žin., 1998, Nr. 31-822 (1998-04-01), i. k. 0981010ISTAVIII-670
- 
-
-4. Įkeičiant žemę, ant jos stovintys pastatai neįkeičiami, jei hipotekos sutartyje nenustatyta kitaip. Šiuo atveju, pardavus įkeistą žemę varžytynėse, pastato savininkas įgyja teisę į žemės servitutą. Jei varžytynėse parduodamas įkeistas žemės sklypas, ant kurio stovi kitam asmeniui (ne žemės savininkui) nuosavybės teise priklausantys pastatai, įsigijusiam varžytynėse žemę asmeniui pereina buvusio žemės savininko teisės ir pareigos,  turėtos pastato savininkui.
-
-5. Nekilnojamojo turto hipoteka neapima iš šio turto gaunamų pajamų.
- 
-
-10 straipsnis. Hipotekos išlikimas padalijus įkeistą nekilnojamąjį turtą
-
-Padalijus įkeistą nekilnojamąjį turtą, hipotekos reikalavimas nedalijamas ir lieka galioti visiems po padalijimo esantiems nekilnojamojo turto objektams. Susitarimas dėl hipotekos reikalavimo padalijimo negalioja. Po nekilnojamojo turto padalijimo suformuotų nekilnojamojo turto objektų, priklausančių nuosavybės teise skirtingiems savininkams, pardavimo varžytynėse eilė nustatoma turto padalijimo momentu turto savininkų rašytiniu susitarimu. Nesant rašytinio turto savininkų susitarimo, nekilnojamojo turto objektų pardavimo varžytynėse eilę nustato hipotekos teisėjas.
- 
-
-11 straipsnis. Hipotekos išlikimas sujungus nekilnojamojo turto objektus
-
-1. Įkeisti nekilnojamojo turto objektai gali būti sujungti į vieną  tik gavus kreditorių, kurių reikalavimo tenkinimo eiliškumas po sujungimo pasikeis, sutikimą raštu.
-
-2. Sujungus kelis nekilnojamojo turto objektus, kiekvieno iš jų hipoteka apima po sujungimo suformuotą nekilnojamąjį turtą. Hipotekos kreditorių reikalavimų tenkinimo eilė nustatoma pagal prašymo įregistruoti hipoteką įregistravimo hipotekos skyriuje datą.
+11 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 111 straipsnis. Duomenų apie padalytą ar sujungtą įkeistą nekilnojamąjį turtą pakeitimas hipotekos registre
@@ -138,16 +101,14 @@ Papildyta straipsniu:
 Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
  
 
-12 straipsnis. Kilnojamojo turto hipoteka
-
-1.Kilnojamojo turto hipoteka apima įkeitimo momentu turto registre įregistruotą turtą, jo sudėtines dalis ir priklausinius.
-
-2. Kilnojamojo turto hipoteka neapima iš šio turto gaunamų pajamų.
+12 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-13 straipsnis. Įkeisto turto vertės sumažėjimas
-
-Įkeisto turto savininkas neturi teisės mažinti įkeisto turto vertės. Jei įkeisto turto vertė sumažinama tiek, kad kyla pavojus, jog nebebus galima iki galo atlyginti hipotekos kreditoriaus reikalavimo, kreditorius gali reikalauti iš skolininko anksčiau, nei sueis sutartas terminas, įvykdyti tą skolinio įsipareigojimo dalį, kuria sumažėjo įkeisto turto vertė.
+13 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 14 straipsnis. Kreditoriaus teisė į įkeisto turto draudimo sumą
@@ -156,143 +117,72 @@ Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010
 
 2. Gavus raštišką visų kreditorių sutikimą, draudimo suma gali būti išmokama ir įkeisto turto savininkui.
 
-3. Nutraukus įkeisto turto draudimo sutartį, hipotekos kreditorius turi teisę kreiptis į hipotekos skyrių dėl pirmalaikio skolos išieškojimo ta pačia tvarka, kaip ir suėjus skolos grąžinimo terminui.
+3. Neteko galios nuo 2001-07-01
+Straipsnio dalies naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 TREČIASIS SKIRSNIS
 HIPOTEKOS RŪŠYS
  
 
-15 straipsnis. Hipotekos rūšys
-
-Lietuvos Respublikoje nustatomos šios hipotekos:
-
-1) paprastoji;
-
-2) jungtinė;
-
-3) svetimo turto;
-
-4) maksimalioji;
-
-5) bendroji;
-
-6) sąlyginė.
+15 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-16 straipsnis. Paprastoji hipoteka
-
-Paprastoji hipoteka registruojama, kai skolininkas vieno konkretaus įsipareigojimo įvykdymą apsaugo įkeisdamas vieną konkretų savo turto objektą.
+16 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-17 straipsnis. Jungtinė hipoteka
-
-1. Jungtinė hipoteka registruojama, kai skolininkas vieno konkretaus įsipareigojimo įvykdymą apsaugo vienu metu įkeisdamas kelis savo turto objektus.
-
-2. Parduodant jungtine hipoteka įkeistą turtą varžytynėse, skola išieškoma iš visų parduodamų objektų vienu metu, o parduoti galima tik tiek, kiek reikia kreditoriaus reikalavimui patenkinti. Turto objektų pardavimo eilę nustato turto savininkas.
+17 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-18 straipsnis. Svetimo turto hipoteka
-
-1. Svetimo turto hipoteka registruojama, kai turto įkeitimu apsaugomas ne įkeičiamo turto savininko (įkaito davėjo), bet kito asmens (skolininko) skolinio įsipareigojimo įvykdymas. Įkaito davėjas neatsako už skolininko įsipareigojimo vykdymą kitu savo turtu. 
-
-2. Tais atvejais, kai įkaito davėjas įvykdo įkeistu turtu apsaugotą skolinį įsipareigojimą arba įkeistas turtas parduodamas iš varžytynių, įkaito davėjas turi atgręžtinio reikalavimo teisę į asmenį, kurio įsipareigojimo įvykdymui apsaugoti buvo įkeistas turtas, dėl sumokėtos sumos atlyginimo.
+18 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-19 straipsnis. Maksimalioji hipoteka
-
-1. Maksimalioji hipoteka registruojama, kai susitariama tik dėl maksimalios įsipareigojimų apsaugojimo turtu sumos ir dėl paskolos naudojimo srities. Maksimalioji hipoteka galioja ne ilgiau kaip 5 metus. Pasibaigus šiam terminui, skolos dydis fiksuojamas ir hipoteka pradeda veikti kaip paprastoji, o vėliau prisiimtų skolinių įsipareigojimų ši hipoteka neapsaugo.
-
-2. Skolos dydžio fiksavimo data gali būti nustatyta hipotekos sutartyje. Jeigu tai nepadaryta, hipotekos kreditorius gali reikalauti skolos dydį fiksuoti bet kuriuo momentu, bet ne anksčiau kaip praėjus 3 metams nuo hipotekos įregistravimo dienos.
-
-3. Skolos dydis taip pat fiksuojamas šiais atvejais:
-
-1) kai kiti kreditoriai reikalauja parduoti įkeistą turtą iš varžytynių;
-
-2) areštavus įkeistą turtą;
-
-3) paskelbus skolininką arba kreditorių nemokiais ar juos likviduojant;
-
-4) kreditoriui ar skolininkui mirus, jeigu turto paveldėtojai per 8 mėnesius nuo palikimo atsiradimo dienos neperregistravo hipotekos savo vardu.
-
-4. Skolos dydžio fiksavimas panaikinamas, jei kreditoriai atšaukia reikalavimą parduoti turtą iš varžytynių, taip pat jei panaikinamas turto areštas arba atšaukiamas skolininko ar kreditoriaus likvidavimas.
-
-5. Skolos dydžio fiksavimas ir jo panaikinimas registruojamas hipotekos registre Hipotekos registro nuostatų nustatyta tvarka.
-
-6. Maksimalus įsipareigojimų apsaugojimo sumos dydis negali būti didinamas be toliau eilėje esančių to paties turto hipotekos kreditorių sutikimo.
+19 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-20 straipsnis. Bendroji hipoteka
-
-1. Bendroji hipoteka registruojama, kai vienam skoliniam įsipareigojimui apsaugoti įkeičiama keletas atskiriems savininkams priklausančių objektų.
-
-2. Bendrąja hipoteka įkeisto objekto savininkas gali šį objektą dar kartą įkeisti tik baigęs hipoteką.
-
-3. Bendrosios hipotekos sutartyje turi būti nurodyta įkeistų objektų pardavimo varžytynėse eilė.
+20 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-21 straipsnis. Sąlyginė hipoteka
-
-1. Sąlyginė hipoteka registruojama, jeigu susitariama, jog:
-
-1) hipoteka įsigalios nuo to momento, kai sutartyje numatyta sąlyga bus įvykdyta. Kol sąlyga neįvykdyta, hipoteka kreditoriaus prašymu gali būti bet kuriuo momentu panaikinta;
-
-2) hipoteka galios tik iki to momento, kol bus vykdoma sutartyje numatyta sąlyga. Jei sąlyga nebevykdoma, kreditorius turi teisę reikalauti, kad hipoteka būtų baigta.
-
-2. Sąlyga gali būti nustatoma tiek kreditoriui, tiek skolininkui.
+21 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 KETVIRTASIS SKIRSNIS
 HIPOTEKOS ĮREGISTRAVIMO TVARKA
  
 
-22 straipsnis. Prašymo įregistruoti hipoteką pateikimo tvarka
-
-1. Prašymas įregistruoti nekilnojamojo turto hipoteką pateikiamas nekilnojamojo turto buvimo vietos hipotekos skyriui, o prašymas įregistruoti kilnojamojo turto hipoteką – bet kuriam hipotekos skyriui.
-
-2. Prašymas pakeisti arba baigti hipoteką pateikiamas hipoteką įregistravusiam hipotekos skyriui.
+22 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-23 straipsnis. Įkeitimo (hipotekos) sutarties ir įkeičiamo turto savininko vienašalio pareiškimo įkeisti turtą forma
-
-1. Turto įkeitimo (hipotekos) sutartis arba vienašalis įkeičiamo turto savininko pareiškimas įkeisti turtą įforminami hipotekos lakštu, kurio formą tvirtina Teisingumo ministerija. Kai turtas įkeičiamas hipotekos sutartimi, hipotekos lakštą pasirašo skolininkas, įkeičiamo turto savininkas (kai skolininkas ir turto savininkas ne tas pats asmuo) ir kreditorius, o tais atvejais, kai turtas įkeičiamas vienašaliu įkeičiamo turto savininko pareiškimu, - įkeičiamo turto savininkas.
-
-2. Hipotekos lakštas turi būti patvirtintas notaro ir šio įstatymo nustatyta tvarka įregistruotas hipotekos registre.
-
-3. Visi įkeitimo (hipotekos) sutarties pakeitimai įrašomi hipotekos lakšte ir registruojami hipotekos registre ta pačia tvarka kaip ir hipoteka.
+23 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-24 straipsnis. Hipotekos lakšto turinys
-
-1. Hipotekos lakšte turi būti nurodyta:
-
-1) skolininkas (fizinio asmens vardas, pavardė, adresas, identifikavimo kodas; juridinio asmens arba įmonės, neturinčios juridinio asmens teisių, pavadinimas, buveinė, identifikavimo kodas);
-
-2) įkeičiamo turto savininkas - kai skolininkas ir turto savininkas ne tas pats asmuo (fizinio asmens vardas, pavardė, adresas, identifikavimo kodas; juridinio asmens arba įmonės, neturinčios juridinio asmens teisių,  pavadinimas, buveinė, identifikavimo kodas);
-
-3) kreditorius (fizinio asmens vardas, pavardė, adresas, identifikavimo kodas; juridinio asmens arba įmonės, neturinčios juridinio asmens teisių, pavadinimas, buveinė, identifikavimo kodas);
-
-4) įkeičiamas turtas (jo buvimo vieta, identifikavimo kodas, kiti turtą identifikuojantys duomenys);
+24 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-5) turtu apsaugomos skolos suma arba maksimalus apsaugomas įsipareigojimų dydis;
-
-6) įsipareigojimo įvykdymo terminas;
-
-7) palūkanos;
-
-8) jeigu įsipareigojimas bus vykdomas pagal reikalavimą, – nuo kada kreditorius gali reikalauti įvykdyti įsipareigojimą; jei bus registruojama sąlyginė hipoteka, – tiksliai nurodyta sąlyga, kuriai esant hipoteka galios, arba sąlyga, kurią įvykdžius hipoteka įsigalios, taip pat sąlygos, dėl kurių vienos iš šalių pareiškimu turi būti susitarta.
-
-2. Jeigu hipotekos lakštą surašo įkeičiamo turto savininkas vienašališkai, kreditorius gali būti nenurodytas. Šiuo atveju surašomas pareikštinis hipotekos lakštas.
-
-3. Pareikštinis hipotekos lakštas jo turėtojo pageidavimu bet kuriuo momentu gali būti įformintas vardiniu hipotekos lakštu.
- 
-
-25 straipsnis. Skolinio įsipareigojimo, apsaugoto hipoteka, vykdymas
-
-1. Skolinį įsipareigojimą, apsaugotą hipoteka, galima reikalauti vykdyti tik pateikus hipotekos lakštą. Jeigu kreditorius nepateikia hipotekos lakšto, skolininkas savo įsipareigojimo gali nevykdyti.
-
-2. Skolininkui įvykdžius hipoteka apsaugotą skolinį įsipareigojimą, kreditorius privalo grąžinti skolininkui hipotekos lakštą, kuriame pažymėta apie skolinio įsipareigojimo įvykdymą.
+25 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 26 straipsnis. Prašymo įregistruoti hipoteką registravimas
@@ -350,11 +240,9 @@ Duomenys apie įregistruotą hipoteką ne vėliau kaip per 24 valandas perduodam
 Prašymai pakeisti ir baigti hipoteką registruojami ta pačia tvarka kaip ir prašymas įregistruoti hipoteką, pateikus hipotekos skyriui hipotekos lakštą su jame padarytais pakeitimais arba įrašais apie skolinio įsipareigojimo įvykdymą.
  
 
-33 straipsnis. Hipotekos lakšto ir hipotekos registro duomenų neatitikimas
-
-1. Jeigu hipotekos lakšto tekstas nesutampa su hipotekos registro įrašu, tai sprendžiamąją galią turi hipotekos registro įrašas. Šiuo atveju dėl hipotekos registro tvarkymo įstaigos kaltės patirtą žalą sąžiningam lakšto turėtojui atlygina valstybė įstatymų nustatyta tvarka. Priteista atlygintinos žalos suma išieškoma iš hipotekos registro tvarkymo įstaigos lėšų, o jeigu ši įstaiga neturi pakankamai lėšų žalai atlyginti, – iš valstybės biudžeto. Valstybei civilinėse bylose dėl žalos atlyginimo atstovauja Teisingumo ministerija.
-
-2. Valstybė, atlyginusi žalą, įgyja atgręžtinio reikalavimo teisę į hipotekos teisėją bei kitus hipotekos registro tvarkymo įstaigos darbuotojus, kurių neteisėtais veiksmais buvo padaryta žala. Atgręžtinio reikalavimo tvarka išieškotos sumos sumokamos į valstybės biudžetą.
+33 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 34 straipsnis. Teisių pagal prarastą pareikštinį hipotekos lakštą grąžinimas
@@ -370,34 +258,24 @@ PENKTASIS SKIRSNIS
 HIPOTEKOS REIKALAVIMO PERLEIDIMAS IR ĮKEITIMAS
  
 
-35 straipsnis. Hipotekos reikalavimo perleidimas 
-
-1. Hipotekos reikalavimą kreditorius gali perleisti kitam asmeniui, išskyrus atvejus, kai šalių susitarimu hipotekos sutartyje įrašyta, jog kreditorius neturi teisės tai daryti.
-
-2. Asmeniui, įgijusiam hipotekos reikalavimą, pereina visos ankstesnio hipotekos kreditoriaus teisės.
+35 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-36 straipsnis. Hipotekos reikalavimo perleidimo tvarka
-
-1. Hipotekos reikalavimas perleidžiamas perduodant hipotekos lakštą indosamentu.
-
-2. Indosamentas turi būti įrašytas hipotekos lakšte, nurodant asmenį, kuriam perleidžiamas hipotekos reikalavimas. Indosamentas turi būti pasirašytas indosanto (hipotekos lakšto turėtojo) ir įregistruotas hipotekos registre. 
-
-3. Hipotekos reikalavimo perleidimas (hipotekos lakšto indosamentas) registruojamas hipotekos registre ta pačia tvarka kaip ir hipoteka.
+36 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-37 straipsnis. Hipotekos kreditoriaus teisė perleisti savo eilės pirmumą patenkinti reikalavimą iš įkeisto turto vertės kitam hipotekos kreditoriui
-
-1. Kai turtas įkeistas kelis kartus, vienas hipotekos kreditorius gali perleisti savo eilės pirmumą patenkinti reikalavimą iš įkeisto turto vertės kitam to paties skolininko hipotekos kreditoriui. Tai įrašoma abiejuose hipotekos lakštuose. Jeigu kreditoriaus, perleidžiančio savo eilės pirmumą, reikalavimo suma yra mažesnė nei perėmėjo, būtinas tolesnės nei perleidėjo ir pirmesnės nei perėmėjo eilės kreditorių notariškai patvirtintas sutikimas.
-
-2. Susitarimas dėl hipotekos kreditoriaus eilės pirmumo perleidimo įsigalioja įregistravus jį hipotekos registre.
+37 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-38 straipsnis. Hipotekos reikalavimo įkeitimas
-
-1. Hipotekos kreditorius gali įkeisti savo hipotekos reikalavimą gaunamai paskolai apsaugoti. Įkeičiant hipotekos reikalavimą, skolos grąžinimo terminas negali būti ilgesnis už hipotekos sutartyje nurodytą skolos grąžinimo terminą.
-
-2. Hipotekos reikalavimas įkeičiamas šalių susitarimu, įrašant tai hipotekos lakšte, ir įsigalioja nuo šio susitarimo įregistravimo hipotekos registre.
+38 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 ŠEŠTASIS SKIRSNIS
@@ -406,7 +284,10 @@ SKOLOS IŠIEŠKOJIMAS HIPOTEKOS KREDITORIAUS NAUDAI
 
 39 straipsnis. Pareiškimo dėl priverstinio skolos išieškojimo pateikimas ir tenkinimas
 
-1. Jeigu skolininkas per sutartyje nustatytą terminą neįvykdo hipoteka apsaugoto skolinio įsipareigojimo, kreditorius gali kreiptis į hipoteką įregistravusį hipotekos skyrių su pareiškimu dėl priverstinio skolos išieškojimo, nurodydamas pareiškime hipotekos kodą hipotekos registre, negrąžintos skolos dydį, skolininką, įkeisto turto savininką ir jų adresus (buveines). Hipotekos teisėjas per 3 darbo dienas priima nutartį areštuoti įkeistą turtą ir įregistruoja ją turto arešto aktų registre bei įspėja skolininką ir įkeisto turto savininką, kad, negrąžinus skolos per vieną mėnesį, įkeistas turtas bus parduotas iš varžytynių. Įspėjimas skolininkui ir įkeisto turto savininkui įteikiamas Civilinio proceso kodekso devintajame skirsnyje nustatyta tvarka.
+1. Jeigu skolininkas sutartyje nustatytu terminu neįvykdo hipoteka apsaugoto skolinio įsipareigojimo, kreditorius gali kreiptis į hipoteką įregistravusį hipotekos skyrių su pareiškimu dėl priverstinio skolos išieškojimo arba teisės administruoti įkeistą turtą suteikimo, nurodydamas jame hipotekos skyriaus žurnalo eilės numerį, negrąžintos skolos dydį, skolininką, įkeisto turto savininką ir jų adresus (buveines). Hipotekos teisėjas per 3 darbo dienas priima nutartį areštuoti įkeistą turtą, daro apie tai žymą hipotekos registre ir ne vėliau kaip kitą darbo dieną praneša apie tai įkeisto turto registrui (registrams) bei įspėja skolininką ir įkeisto turto savininką, kad, negrąžinus skolos per vieną mėnesį, įkeistas turtas bus parduotas iš varžytynių arba perduotas administruoti. Įspėjimas skolininkui ir įkeisto turto savininkui įteikiamas Civilinio proceso kodekso devintajame skirsnyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. IX-369, 2001-06-12, Žin., 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
+ 
 
 2. Tais atvejais, kai areštuotas įkaito davėjo turtas turi būti perduotas saugoti ar administruoti kitam asmeniui, hipotekos teisėjo nutartis areštuoti įkeistą turtą per 3 darbo dienas išsiunčiama vykdyti teismo antstoliui, kurio veiklos teritorijoje yra turtas. Areštuotas įkaito davėjo turtas perduodamas saugoti ar administruoti kitam asmeniui Civilinio proceso kodekso nustatyta tvarka.
 
@@ -414,28 +295,17 @@ Straipsnio pakeitimai:
 Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
  
 
-40 straipsnis. Teisė reikalauti patenkinti hipoteka apsaugotą reikalavimą prieš terminą
+40 straipsnis. Hipotekos kreditoriaus reikalavimo patenkinimas, kai skolininkui (įkeisto turto savininkui ) pradėta bankroto (restruktūrizavimo) byla
 
-1. Hipotekos kreditorius turi teisę reikalauti patenkinti hipoteka apsaugotą reikalavimą prieš terminą, jeigu:
+Tais atvejais, kai skolininkui (įkeisto turto savininkui) pradėta bankroto (restruktūrizavimo) procedūra, įkeistas turtas parduodamas ir hipotekos kreditorių reikalavimai tenkinami Įmonių bankroto (Įmonių restruktūrizavimo) įstatymo nustatyta tvarka. 
 
-1) kiti kreditoriai įstatymų nustatytais atvejais reikalauja parduoti įkeistą turtą iš varžytynių;
-
-2) skolininkas mirė (kai skolininkas yra fizinis asmuo);
-
-3) pradėta skolininko ar įkeisto turto savininko bankroto procedūra arba priimtas sprendimas jį likviduoti (kai skolininkas yra juridinis asmuo ar įmonė, neturinti juridinio asmens teisių);
-
-4) skolininkas šio įstatymo 13 straipsnyje numatytu atveju neįvykdė skolinio įsipareigojimo dalies, kuria sumažėjo įkeisto turto vertė;
-
-5) įkeisto turto draudimo sutartis nutraukta prieš terminą.
-
-2. Jeigu šio straipsnio 1 dalyje nustatytais atvejais skolininkas prieš terminą neįvykdo hipoteka apsaugoto kreditoriaus reikalavimo,  kreditorius turi teisę kreiptis į hipotekos skyrių dėl priverstinio skolos išieškojimo prieš terminą ta pačia tvarka kaip ir suėjus skolos grąžinimo terminui.
-
-3. Tais atvejais, kai skolininkui (įkeisto turto savininkui) pradėta bankroto procedūra, įkeistas turtas parduodamas ir hipotekos kreditorių reikalavimai tenkinami Įmonių bankroto įstatymo nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. IX-369, 2001-06-12, Žin., 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-41 straipsnis. Įkeisto turto savininko teisės disponuoti įkeistu turtu apribojimas
-
-Nuo įkeisto turto arešto momento įkeisto turto savininkas netenka teisės perleisti turtą kitiems asmenims, taip pat įkeisti, išnuomoti ar kitokiomis teisėmis jį apsunkinti, kirsti įkeistame žemės sklype augantį mišką, parduoti ar naikinti daiktus, kurie pagal įstatymą ar sutartį laikomi turto priklausiniais, reikalauti padalyti įkeistą turtą ar atskirti priklausinius nuo įkeisto turto. Sutartys, sudarytos pažeidžiant šiuos draudimus, teismine tvarka gali būti pripažintos negaliojančiomis.
+41 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 42 straipsnis. Pajamų iš įkeisto turto apskaita
@@ -443,11 +313,22 @@ Nuo įkeisto turto arešto momento įkeisto turto savininkas netenka teisės per
 Pajamos, gautos iš įkeisto turto po šio turto arešto, apskaitomos atskirai ir panaudojamos visų esamų hipotekos kreditorių reikalavimams tenkinti.
  
 
-43 straipsnis. Nutarties priverstinai parduoti įkeistą turtą iš varžytynių priėmimas
+43 straipsnis. Nutarties priverstinai parduoti įkeistą turtą iš varžytynių arba perduoti įkeistą turtą administruoti priėmimas 
+Pakeistas straipsnio pavadinimas:
+Nr. IX-369, 2001-06-12, Žin., 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
+ 
 
-1. Jeigu skola per 1 mėnesį nuo įspėjimo skolininkui ir įkeisto turto savininkui įteikimo dienos negrąžinta, kreditorius pakartotinai kreipiasi su pareiškimu į hipotekos skyrių dėl skolos išieškojimo ir kartu pateikia hipotekos lakštą. Gavęs pareiškimą, hipotekos teisėjas per 3 darbo dienas priima nutartį už skolą įkeistą turtą parduoti iš varžytynių ir praneša apie tai hipotekos kreditoriams, kurių prievolių įvykdymui užtikrinti yra įkeistas šis turtas, įkeisto turto savininkui ir skolininkui. Hipotekos teisėjo nutartis kartu su kreditoriaus pareiškimu išieškoti skolą per 3 darbo dienas išsiunčiami vykdyti turto buvimo vietos antstolių kontorai prie apylinkės teismo.
+1. Jeigu skola per 1 mėnesį nuo įkeisto turto arešto dienos negrąžinta, kreditorius pakartotinai kreipiasi su pareiškimu į hipotekos skyrių dėl skolos išieškojimo arba įkeisto turto perdavimo administruoti ir kartu pateikia hipotekos lakštą. Gavęs prašymą, hipotekos teisėjas per 3 darbo dienas priima nutartį už skolą įkeistą turtą parduoti iš varžytynių arba perduoti įkeistą turtą administruoti, daro apie tai žymą hipotekos registre ir ne vėliau kaip kitą darbo dieną praneša apie tai turto registrui (registrams). Hipotekos teisėjo nutartis kartu su kreditoriaus pareiškimu išieškoti skolą arba perduoti įkeistą turtą administruoti per 3 darbo dienas išsiunčiami vykdyti turto buvimo vietos antstolių kontorai prie apylinkės teismo. 
+Straipsnio dalies pakeitimai:
+Nr. IX-369, 2001-06-12, Žin., 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
+ 
 
 2. Jeigu nuo įspėjimo skolininkui ir įkeisto turto savininkui įteikimo dienos praėjus 2 mėnesiams kreditorius nesikreipė dėl skolos išieškojimo, hipotekos teisėjas priima nutartį panaikinti įkeisto turto areštą ir išregistruoja nutartį areštuoti įkeistą turtą iš turto arešto aktų registro.
+
+3. Jeigu įkeistas daiktas buvo perduotas kreditoriui administruoti ir jį administruojant paaiškėja, kad negalima patenkinti hipoteka apsaugoto reikalavimo, kreditorius kreipiasi su pareiškimu į hipotekos skyrių dėl įkeisto turto pardavimo iš varžytynių ir kartu pateikia hipotekos lakštą bei administratoriaus veiklos ataskaitą. Gavęs prašymą, hipotekos teisėjas per 3 darbo dienas priima nutartį už skolą įkeistą turtą parduoti iš varžytynių, daro apie tai žymą hipotekos registre ir ne vėliau kaip kitą darbo dieną praneša apie tai turto registrui (registrams). Hipotekos teisėjo nutartis kartu su kreditoriaus pareiškimu išieškoti skolą per 3 darbo dienas išsiunčiami vykdyti turto buvimo vietos antstolių kontorai prie apylinkės teismo. 
+Papildyta straipsnio dalimi:
+Nr. IX-369, 2001-06-12, Žin., 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
+ 
 
 Straipsnio pakeitimai:
 Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
@@ -502,22 +383,20 @@ Jeigu turto kaina, gauta varžytynėse, kuriam nors hipotekos kreditoriui pasiro
 
 51 straipsnis. Nutarties baigti hipoteką priėmimas
 
-Hipotekos teisėjas per 3 darbo dienas nuo turto pardavimo (perdavimo) akto gavimo dienos priima nutartį baigti hipoteką.
+Hipotekos teisėjas per 3 darbo dienas nuo turto pardavimo (perdavimo) akto arba administratoriaus veiklos ataskaitos, patvirtinančios, kad kreditoriaus reikalavimai patenkinti iš įkeisto turto gautų pajamų, gavimo dienos priima nutartį baigti hipoteką. 
+
+Straipsnio pakeitimai:
+Nr. IX-369, 2001-06-12, Žin., 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-52 straipsnis. Lėšų, gautų  priverstinai pardavus turtą, paskirstymas
+52 straipsnis. Lėšų, gautų priverstinai pardavus turtą, paskirstymas
 
 1. Lėšos už priverstinai parduotą turtą įmokamos į hipotekos skyriaus depozitinę sąskaitą ir hipotekos teisėjo nutartimi per 3 darbo dienas po turto pardavimo akto patvirtinimo paskirstomos hipotekos kreditoriams pagal jų reikalavimų tenkinimo eilę.
 
-2. Hipotekos kreditoriui atlyginama:
+2. Hipotekos teisėjo nutarties dėl sumų paskirstymo nuorašas išsiunčiamas visiems hipotekos kreditoriams. 
 
-1) skolos suma;
-
-2) palūkanos už paskutiniuosius 3 metus iki nustatyto įsipareigojimo įvykdymo termino pasibaigimo arba iki pradedant skolininko bankroto procedūrą ar priimant sprendimą jį likviduoti;
-
-3) skolos išieškojimo išlaidos.
-
-3. Hipotekos teisėjo nutarties dėl sumų paskirstymo nuorašas išsiunčiamas visiems hipotekos kreditoriams. 
+Straipsnio pakeitimai:
+Nr. IX-369, 2001-06-12, Žin., 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 53 straipsnis. Ginčų dėl lėšų paskirstymo nagrinėjimo ir lėšų išmokėjimo tvarka
@@ -527,18 +406,18 @@ Hipotekos teisėjas per 3 darbo dienas nuo turto pardavimo (perdavimo) akto gavi
 2. Nesant ginčo, gautos už parduotą turtą sumos išmokamos hipotekos kreditoriams hipotekos teisėjo nutartyje nustatyta tvarka.  Likusi suma, išskaičius varžytynių organizavimo išlaidas, grąžinama parduoto turto savininkui, o tais atvejais, kai prie išieškojimo buvo prisijungę ne hipotekos kreditoriai, – pervedama į teismo antstolių kontoros depozitinę sąskaitą ir paskirstoma bei išmokama kreditoriams Civilinio proceso kodekso nustatyta tvarka.
  
 
-54 straipsnis. Įkeisto turto savininko atgręžtinio reikalavimo į skolininką teisė
-
-Jei varžytynėse buvo parduotas turtas, kurį po hipotekos įregistravimo atlygintinai buvo įgijęs kitas asmuo, šis asmuo turi atgręžtinio reikalavimo į skolininką teisę.
+54 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 SEPTINTASIS SKIRSNIS
 HIPOTEKOS IŠREGISTRAVIMO TVARKA
  
 
-55 straipsnis. Hipotekos baigimas
-
-Hipoteka pasibaigia nuo to momento, kai ji išregistruojama iš centrinio hipotekos registro.
+55 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 56 straipsnis. Skolininko teisė reikalauti baigti hipoteką
@@ -546,24 +425,17 @@ Hipoteka pasibaigia nuo to momento, kai ji išregistruojama iš centrinio hipote
 Sumokėjęs visą skolą arba įvykdęs kitą sutartą įsipareigojimą, skolininkas gali reikalauti, kad hipoteka būtų baigta. Hipotekos skyrius išregistruoja hipoteką iš hipotekos registro per 3 darbo dienas nuo hipotekos lakšto, kuriame pažymėta, kad visi hipotekos reikalavimai yra įvykdyti, pateikimo dienos.
  
 
-57 straipsnis. Asmens, įgijusio įkeistą turtą, teisė baigti hipoteką
-
-1. Asmuo, įgijęs įkeistą turtą atlygintinai, kol kreditorius nesikreipė į hipotekos skyrių dėl skolos išieškojimo, gali išlaisvinti turtą nuo hipotekos, pasiūlydamas kreditoriui mažesnę sumą, negu numatyta skoliniame įsipareigojime. Įkeisto turto įgijėjas turi pateikti hipotekos skyriui turto pirkimo-pardavimo sutartį bei pareiškimą leisti išlaisvinti turtą nuo hipotekos, jame nurodydamas sumą, siūlomą už turto išlaisvinimą. Apie tai hipotekos skyrius privalo raštu pranešti kreditoriui.
-
-2. Jei per 40 dienų kreditorius nieko nepraneša hipotekos skyriui, laikoma, kad jis su siūloma kaina sutiko. Naujasis turto savininkas sumoka kreditoriui sutartą sumą ir taip užbaigia hipoteką. Hipotekos skyrius išregistruoja hipoteką per 3 darbo dienas nuo hipotekos lakšto, patvirtinančio sutartos sumos sumokėjimą, pateikimo dienos.
-
-3. Jei kreditorius nesutinka su siūloma kaina, hipotekos teisėjas priima nutartį priverstinai parduoti įkeistą turtą varžytynėse. Pradinę kainą siūlo kreditorius. Ši kaina privalo būti didesnė už siūlytą jam kainą ne mažiau kaip dešimtadaliu. Varžytynės vykdomos šio įstatymo ir Civilinio proceso kodekso nustatyta tvarka.
-
-4. Asmuo, atlygintinai įgijęs kelis kartus įkeistą turtą, gali išlaisvinti turtą nuo hipotekų jų eilės tvarka.
-
-5. Jei turtas parduodamas varžytynėse, kreditorius privalo atlyginti turto pirkimo įforminimo išlaidas asmeniui, reikalavusiam išlaisvinti turtą nuo hipotekos.
-
-6. Išlaisvinti turtą nuo hipotekos įkeisto turto paveldėtojai bei asmenys, įgiję šį turtą neatlygintinai, neturi teisės.
+57 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 58 straipsnis. Priverstinai parduoto įkeisto turto išlaisvinimas nuo visų hipotekų
 
-Priverstinis įkeisto turto pardavimas išlaisvina jį nuo visų hipotekų. Parduoto turto hipotekos išregistruojamos per 3 darbo dienas nuo turto pardavimo akto gavimo.
+Priverstinis įkeisto turto pardavimas kreditoriaus prašymu išlaisvina jį nuo visų hipotekų. Parduoto turto hipotekos išregistruojamos per 3 darbo dienas nuo turto pardavimo akto gavimo. 
+
+Straipsnio pakeitimai:
+Nr. IX-369, 2001-06-12, Žin., 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
 59 straipsnis. Kreditoriaus teisė atsisakyti hipotekos
@@ -578,16 +450,19 @@ Priverstinis įkeisto turto pardavimas išlaisvina jį nuo visų hipotekų. Pard
 Įstatymų nustatyta tvarka pripažinus hipotekos sutartį negaliojančia, įregistruota hipotekos registre hipoteka baigiama ir išregistruojama iš hipotekos registro per 3 darbo dienas nuo įsiteisėjusio teismo sprendimo, kuriuo hipotekos sutartis pripažinta negaliojančia, pateikimo hipotekos skyriui dienos.
  
 
-61 straipsnis. Hipotekos baigimas, kai pasibaigus skolos grąžinimo terminui hipotekos kreditoriaus buvimo vieta nežinoma
-
-Jei pasibaigus skolos grąžinimo terminui hipotekos kreditoriaus buvimo vieta yra nežinoma, įkeisto turto savininkas arba skolininkas gali įmokėti reikalingą atsiskaityti skolos ir palūkanų sumą į depozitinę hipotekos skyriaus sąskaitą ir pateikti pareiškimą hipotekos skyriui baigti hipoteką. Kai hipotekos teisėjas priima nutartį tenkinti suinteresuoto asmens prašymą, hipoteka išregistruojama. Hipotekos teisėjas „Valstybės žiniose“ turi paskelbti apie hipotekos baigimą ir hipotekos lakšto pripažinimą negaliojančiu bei pakviesti kreditorių atsiimti į hipotekos skyriaus depozito sąskaitą įmokėtą jam priklausančią skolos sumą. Kreditorius gali atsiimti skolą per 10 metų. Jei kreditorius per 10 metų neatsiėmė jam priklausančios skolos, hipotekos teisėjas „Valstybės žiniose“ pakartotinai pakviečia kreditorių atsiimti skolą. Jeigu kreditorius per 6 mėnesius nuo šio paskelbimo dienos neatvyksta atsiimti skolos, praranda į ją teisę. Hipotekos skyrius 2/3 skolos sumos grąžina skolininkui, o 1/3 perveda į valstybės biudžetą.
+61 straipsnis. Neteko galios nuo 2001-07-01
+Straipsnio naikinimas:
+Nr. IX-369, 2001-06-12, Žin. 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
 
-62 straipsnis.  Hipotekos baigimas, kai hipotekos kreditoriaus buvimo vieta 10 metų nuo skolos grąžinimo termino pabaigos nežinoma
+62 straipsnis. Hipotekos baigimas, kai hipotekos kreditorius arba hipotekos kreditoriaus buvimo vieta 10 metų nuo skolos mokėjimo termino pabaigos nežinoma
 
-Jeigu nuo skolos grąžinimo termino pabaigos 10 metų hipotekos kreditoriaus buvimo vieta yra nežinoma,  įkeisto turto savininkas ar skolininkas gali reikalauti, kad hipoteka būtų baigta. Hipotekos teisėjas, gavęs suinteresuoto asmens prašymą, „Valstybės žiniose“ įspėja kreditorių, jog jis per 6 mėnesius gali pareikšti savo hipotekines teises. Jeigu per nurodytą terminą kreditorius  neatsiliepia, hipotekos teisėjo nutartimi hipoteka baigiama, hipotekos lakštas pripažįstamas negaliojančiu ir kreditorius praranda reikalavimo teisę. Hipotekos teisėjo nutartis dėl hipotekos lakšto pripažinimo negaliojančiu per 3 darbo dienas paskelbiama „Valstybės žiniose“.
+Jeigu nuo skolos mokėjimo termino pabaigos 10 metų hipotekos kreditorius arba hipotekos kreditoriaus buvimo vieta yra nežinoma, įkeisto turto savininkas ar skolininkas gali reikalauti, kad hipoteka būtų baigta. Hipotekos teisėjas, gavęs suinteresuoto asmens prašymą, „Valstybės žiniose“ įspėja kreditorių, jog jis per 6 mėnesius gali pareikšti savo hipotekines teises. Jeigu per nurodytą terminą kreditorius neatsiliepia, hipotekos teisėjo nutartimi hipoteka baigiama, hipotekos lakštas pripažįstamas negaliojančiu ir kreditorius praranda reikalavimo teisę. Hipotekos teisėjo nutartis dėl hipotekos lakšto pripažinimo negaliojančiu per 3 darbo dienas paskelbiama „Valstybės žiniose“. 
 
+Straipsnio pakeitimai:
+Nr. IX-369, 2001-06-12, Žin., 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
  
+
  
  
 LIETUVOS RESPUBLIKOS
@@ -636,4 +511,9 @@ Lietuvos Respublikos hipotekos įstatymo 8 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1965, 2000-09-26, Žin., 2000, Nr. 85-2586 (2000-10-11), i. k. 1001010ISTAIII-1965
 Lietuvos Respublikos hipotekos įstatymo 8 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-369, 2001-06-12, Žin., 2001, Nr. 55-1941 (2001-06-27), i. k. 1011010ISTA00IX-369
+Lietuvos Respublikos hipotekos įstatymo 14, 39, 40, 51, 52, 58, 62 straipsnių pakeitimo ir 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 33, 35, 36, 37, 38, 41, 54, 55, 57, 61 straipsnių pripažinimo netekusiais galios įstatymas
 
