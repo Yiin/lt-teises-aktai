@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8"
 
 # Dėl Lietuvos Respublikos tarptautinių sutarčių
 
-Suvestinė redakcija nuo 1992-10-11 iki 1995-10-19
+Įstatymas netenka galios 1999-07-09:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1248, 1999-06-22, Žin., 1999, Nr. 60-1948 (1999-07-09), i. k. 0991010ISTAIII-1248
+Lietuvos Respublikos tarptautinių sutarčių įstatymas
+ 
+Suvestinė redakcija nuo 1995-10-20 iki 1999-07-08
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 106-0; Žin. 1991, Nr.16-415, i. k. 0911010ISTA00I-1344
  
@@ -127,7 +132,9 @@ Nr. I-2929, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 199
 Taip pat ratifikuojamos tos Lietuvos Respublikos tarptautinės sutartys, kuriose numatytas jų ratifikavimas.
 
 Lietuvos Respublikos Vyriausybė savo nutarimu pateikia ratifikuoti Lietuvos Respublikos tarptautines sutartis Lietuvos Respublikos Aukščiausiajai Tarybai.
- 
+TAR pastaba. 7 straipsnio ketvirtoji dalis, nustatanti, jog „Lietuvos Respublikos Vyriausybė savo nutarimu pateikia ratifikuoti Lietuvos Respublikos tarptautines sutartis Lietuvos Respublikos Aukščiausiajai Tarybai“, prieštarauja Lietuvos Respublikos Konstitucijos 84 straipsnio 2 punkto nuostatai, kad Respublikos Prezidentas „teikia jas Seimui ratifikuoti“.
+Straipsnio dalies pakeitimai:
+1995-10-17, Žin., 1995, Nr. 86-1949 (1995-10-20), i. k. 0951000NUTARG950470            
  
 
 8 straipsnis
@@ -158,6 +165,10 @@ III. LIETUVOS RESPUBLIKOS TARPTAUTINIŲ SUTARČIŲ VYKDYMAS
 12 straipsnis
 
 Lietuvos Respublikos tarptautinės sutartys turi Lietuvos Respublikos teritorijoje įstatymo galią.
+TAR pastaba. 12 straipsnio nuostata, kad Lietuvos Respublikos tarptautinės sutartys „turi... įstatymo galią“, pagal reguliuojamo dalyko apimtį prieštarauja Lietuvos Respublikos Konstitucijos 138 straipsnio trečiajai daliai tiek, kiek ji taikoma Seimo neratifikuotoms tarptautinėms sutartims.
+
+Straipsnio pakeitimai:
+1995-10-17, Žin., 1995, Nr. 86-1949 (1995-10-20), i. k. 0951000NUTARG950470            
  
 
 13 straipsnis
@@ -205,4 +216,9 @@ Pakeitimai:
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-2929, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-915 (1992-10-31), i. k. 0921010ISTA00I-2929
 Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos tarptautinių sutarčių" pakeitimo ir papildymo
+ 
+2.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+1995-10-17, Žin., 1995, Nr. 86-1949 (1995-10-20), i. k. 0951000NUTARG950470                
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos tarptautinių sutarčių" 7 straipsnio ketvirtosios dalies ir 12 straipsnio atitikimo Lietuvos Respublikos Konstitucijai
 
