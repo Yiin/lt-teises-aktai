@@ -722,7 +722,9 @@ Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
 
 11. Gyvūnų augintinių registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Gyvūnų augintinių registro informacinės sistemos duomenys teikiami laikantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje nurodytų apribojimų, Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) 5 straipsnyje apibrėžtų asmens duomenų tvarkymo principų, 6 straipsnyje nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
 
-12. Gyvūnų augintinių registro informacinėje sistemoje tvarkomi duomenys atveriami pakartotinai naudoti, išskyrus asmens duomenis, duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį.8 straipsnis. Kovinių ir pavojingų šunų įvežimas, įsigijimas, laikymas, veisimas, registravimas, ženklinimas, dresavimas ir prekyba jais
+12. Gyvūnų augintinių registro informacinėje sistemoje tvarkomi duomenys atveriami pakartotinai naudoti, išskyrus asmens duomenis, duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį.
+
+8 straipsnis. Kovinių ir pavojingų šunų įvežimas, įsigijimas, laikymas, veisimas, registravimas, ženklinimas, dresavimas ir prekyba jais
 
 
 1. Lietuvos Respublikoje draudžiami koviniai šunys, kovinių ir pavojingų šunų mišrūnai.
@@ -888,7 +890,9 @@ Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
 
 
 
-9. Gyvūnų augintinių veisėjai teikia duomenis apie savo veiklą Gyvūnų augintinių registro duomenų tvarkytojui arba šio įstatymo 7 straipsnio 9 dalyje nurodytiems veterinarijos gydytojams ar asmenims, ženklinantiems kates, šunis ir šeškus.11 straipsnis. Gyvūnų vežimas
+9. Gyvūnų augintinių veisėjai teikia duomenis apie savo veiklą Gyvūnų augintinių registro duomenų tvarkytojui arba šio įstatymo 7 straipsnio 9 dalyje nurodytiems veterinarijos gydytojams ar asmenims, ženklinantiems kates, šunis ir šeškus.
+
+11 straipsnis. Gyvūnų vežimas
 
 
 Gyvūnai turi būti vežami taip, kad kelionės metu nesusižalotų, nepatirtų nereikalingo streso ir būtų užtikrintas jų saugumas. Transporto priemonių konteineriai, kuriuose vežami gyvūnai, turi būti pakankamo ploto ir aukščio, atsižvelgiant į gyvūnų rūšį, dydį ir planuojamos kelionės pobūdį.
