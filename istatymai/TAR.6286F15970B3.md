@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 1997-07-11 iki 1997-12-09
+Suvestinė redakcija nuo 1997-12-10 iki 1999-07-27
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -769,7 +769,10 @@ Sveikatos apsaugos ministerija:
 
 
 
-9) organizuoja branduolinę avariją bei jos pasekmes likviduojančių pajėgų bei gyventojų apšvitos higieninę kontrolę ir teikia išvadas bei pasiūlymus apšvitai mažinti;
+9) organizuoja pajėgų, likviduojančių branduolinę avariją ir (ar) jos pasekmes, bei gyventojų apšvitos higieninę kontrolę ir teikia pasiūlymus apšvitai mažinti; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-534, 1997-11-20, Žin., 1997, Nr. 112-2825 (1997-12-10), i. k. 0971010ISTAVIII-534
+ 
 
 
 
@@ -1016,7 +1019,10 @@ Valstybės saugumo departamentas:
 
 
 
-3) sprendžia apie asmenų, įdarbinamų branduolinės energetikos objektuose ar skiriamų transportuoti branduolines ir radioaktyviąsias medžiagas, patikimumą;
+3) sprendžia apie asmenų, įdarbinamų ir dirbančių branduolinės energetikos objektuose ar skiriamų transportuoti branduolines ir radioaktyviąsias medžiagas, patikimumą; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-534, 1997-11-20, Žin., 1997, Nr. 112-2825 (1997-12-10), i. k. 0971010ISTAVIII-534
+ 
 
 
 
@@ -2149,10 +2155,10 @@ Darbo santykius branduolinės energetikos objektuose reguliuoja Lietuvos Respubl
 
 
 
-70 straipsnis. Apribojimai sudarant darbo sutartį
+70 straipsnis. Darbo sutarties apribojimai
 
 
-1. Branduolinės energetikos objektą eksploatuojančios organizacijos vadovaujančiais darbuotojais gali dirbti tik Lietuvos Respublikos piliečiai. Branduolinės energetikos objekto vadovas į darbą skiriamas Vyriausybės nutarimu. 
+1. Branduolinės energetikos objektą eksploatuojančios organizacijos vadovaujančiais darbuotojais gali dirbti tik Lietuvos Respublikos piliečiai. Branduolinės energetikos objekto vadovas į darbą skiriamas ir atleidžiamas Vyriausybės nutarimu.
 
 
 
@@ -2162,7 +2168,7 @@ Darbo santykius branduolinės energetikos objektuose reguliuoja Lietuvos Respubl
 
 
 
-3. Į darbą, susijusį su branduolinių įrenginių valdymu ar branduolinių ir radioaktyviųjų medžiagų tvarkymu, negali būti priimami asmenys:
+3. Branduolinės energetikos objektuose negali dirbti asmenys:
 
 
 1) nustatyta tvarka pripažinti alkoholikais, narkomanais ar toksikomanais;
@@ -2180,27 +2186,29 @@ Darbo santykius branduolinės energetikos objektuose reguliuoja Lietuvos Respubl
 
 
 
-4) užsienio valstybių piliečiai ir asmenys be pilietybės, neturintys Lietuvos Respublikos vizų ar leidimų nuolat gyventi Lietuvoje.
+4) užsienio valstybių piliečiai ir asmenys be pilietybės, neturintys Lietuvos Respublikos vizų ar leidimų nuolat gyventi Lietuvoje;
+
+
+
+
+5) teisti už tyčinius nusikaltimus.
 
 
 
 
 
 
-4. Valdyti branduolinius įrenginius ir tvarkyti branduolines ar radioaktyviąsias medžiagas negali būti priimami asmenys, teisti už tyčinius kriminalinius nusikaltimus.
+4. Į darbą branduolinės energetikos objektuose asmenys priimami tik suderinus jų kandidatūras su Valstybės saugumo departamentu.
 
 
 
 
-5. Į darbą branduolinės energetikos objektuose asmenys priimami tik suderinus jų kandidatūras su Valstybės saugumo departamentu.
+5. Asmenys, kurių darbas susijęs su Lietuvos Respublikos valstybės paslaptį sudarančių žinių naudojimu ir apsauga, negali dirbti branduolinės energetikos objektuose, jeigu neturi Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo nustatyta tvarka išduoto leidimo dirbti su valstybės paslaptį sudarančiomis žiniomis. Jeigu toks leidimas Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo nustatyta tvarka anuliuojamas, asmuo atleidžiamas iš darbo (tarnybos). 
 
 
-
-
-6. Į darbą, susijusį su Lietuvos Respublikos valstybės paslaptį sudarančių žinių naudojimu ir apsauga, asmenys priimami vadovaujantis Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymu.
+Straipsnio pakeitimai:
+Nr. VIII-534, 1997-11-20, Žin., 1997, Nr. 112-2825 (1997-12-10), i. k. 0971010ISTAVIII-534
  
-
-
 
 
 
@@ -2333,3 +2341,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo 7, 9, 26, 29, 30, 37, 38,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
 Lietuvos Respublikos branduolinės energijos įstatymo 24, 32, 38 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-534, 1997-11-20, Žin., 1997, Nr. 112-2825 (1997-12-10), i. k. 0971010ISTAVIII-534
+Lietuvos Respublikos branduolinės energijos įstatymo 15, 22 ir 70 straipsnių pakeitimo įstatymas
