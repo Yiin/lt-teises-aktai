@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.17D427E4AAD3"
 
 # Lietuvos Respublikos policijos rėmėjų įstatymas
 
+Suvestinė redakcija nuo 2003-05-01 iki 2015-09-30
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 60-1705, i. k. 0981010ISTAVIII-800
+ 
+ 
 LIETUVOS RESPUBLIKOS POLICIJOS RĖMĖJŲ ĮSTATYMAS
  
 1998 m. birželio 18 d. Nr. VIII-800
@@ -169,12 +174,17 @@ POLICIJOS RĖMĖJŲ TEISĖS IR PAREIGOS
 
 
 
-2) įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, kad būtų užkirstas kelias nusikaltimui ar sulaikytas nusikaltėlis, stichinės nelaimės ar kito ypatingo įvykio, keliančio grėsmę žmonių gyvybei, sveikatai ar turtui, atveju;
+2) įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, kad būtų užkirstas kelias nusikalstamai veikai ar sulaikytas nusikaltėlis, stichinės nelaimės ar kito ypatingo įvykio, keliančio grėsmę žmonių gyvybei, sveikatai ar turtui, atveju; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
+ 
 
 
 
 
-3) jei įtariama, kad yra padarytas nusikaltimas ar administracinis teisės pažeidimas, stabdyti transporto priemones.
+3) jei įtariama, kad yra padaryta nusikalstama veika ar administracinis teisės pažeidimas, stabdyti transporto priemones.
+Straipsnio punkto pakeitimai:
+Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
  
 
 
@@ -374,7 +384,10 @@ POLICIJOS RĖMĖJŲ SOCIALINĖS GARANTIJOS IR ATSAKOMYBĖ
 3. Pašalpos nemokamos, jeigu:
 
 
-1) policijos rėmėjas žuvo ar susižalojo darydamas tyčinį nusikaltimą;
+1) policijos rėmėjas žuvo ar susižalojo darydamas tyčinę nusikalstamą veiką;
+Straipsnio punkto pakeitimai:
+Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
+ 
 
 
 
@@ -428,7 +441,10 @@ Policijos rėmėjui gali būti atlygintos transporto, ryšių ir kitos išlaidos
 13 straipsnis. Policijos rėmėjų apdovanojimas
 
 
-1. Policijos rėmėjas, pasižymėjęs saugant viešąją tvarką ir visuomenę, užkardant nusikaltimus, gali būti policijos įstaigos vadovo ar kitų institucijų paskatintas padėka, pinigine premija bei apdovanotas ar pristatytas aukštesniam apdovanojimui įstatymų nustatyta tvarka.
+1. Policijos rėmėjas, pasižymėjęs saugant viešąją tvarką ir visuomenę, užkardant nusikalstamas veikas, gali būti policijos įstaigos vadovo ar kitų institucijų paskatintas padėka, pinigine premija bei apdovanotas ar pristatytas aukštesniam apdovanojimui įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
+ 
 
 
 
@@ -503,3 +519,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
+Lietuvos Respublikos policijos rėmėjų įstatymo 5, 11 ir 13 straipsnių pakeitimo įstatymas
