@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D0429A864011"
 
 # Lietuvos Respublikos melioracijos įstatymas
 
-Suvestinė redakcija nuo 1995-06-28 iki 1997-06-24
+Suvestinė redakcija nuo 1997-06-25 iki 1997-07-08
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 71-1326, i. k. 0931010ISTA000I-323
  
@@ -102,7 +102,9 @@ Melioracijos krypčių ir prioritetų programas tvirtina Lietuvos Respublikos Vy
 
 
 
-Lietuvos Respublikos žemės ūkio ministerija rengia melioracijos programas, nustato melioracijos prioritetus, rengia ir tvirtina norminius aktus melioracijos klausimais, atlieka melioracijos darbų valstybinę priežiūrą, sudaro melioracijos įrenginių kadastrą, koordinuoja valstybinių melioracijos tarnybų veiklą.
+Lietuvos Respublikos žemės ir miškų ūkio ministerija rengia melioracijos programas, nustato melioracijos prioritetus, rengia ir tvirtina norminius aktus melioracijos klausimais, atlieka melioracijos darbų valstybinę priežiūrą, sudaro melioracijos įrenginių kadastrą, koordinuoja valstybinių melioracijos tarnybų veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-243, 1997-06-10, Žin., 1997, Nr. 59-1362 (1997-06-25), i. k. 0971010ISTAVIII-243
 
 
 
@@ -143,7 +145,9 @@ Smulkūs melioracijos įrenginių priežiūros darbai visuose ūkiuose, meliorac
 
 
 
-Melioracijos įrenginių smulkių priežiūros darbų sąrašą tvirtina Žemės ūkio ministerija.
+Melioracijos įrenginių smulkių priežiūros darbų sąrašą tvirtina Žemės ir miškų ūkio ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-243, 1997-06-10, Žin., 1997, Nr. 59-1362 (1997-06-25), i. k. 0971010ISTAVIII-243
 
 
 
@@ -185,10 +189,12 @@ Valstybinė melioracijos projektų ekspertizė ir melioracijos darbų valstybin�
 9 straipsnis. Melioracijos kadastras
 
 
-Melioruotos žemės ir melioracijos įrenginių kadastras yra sudėtinė valstybinio žemės kadastro dalis ir apima visumą žinių apie teisinę, geografinę ir ūkinę melioruotos žemės ir melioracijos įrenginių padėtį. Melioruotos žemės, melioracijos įrenginių apskaitos, atskaitomybės ir kadastro sudarymo tvarką nustato Žemės ūkio ministerija.
+Melioruotos žemės ir melioracijos įrenginių kadastras yra sudėtinė valstybinio žemės kadastro dalis ir apima visumą žinių apie teisinę, geografinę ir ūkinę melioruotos žemės ir melioracijos įrenginių padėtį. Melioruotos žemės, melioracijos įrenginių apskaitos, atskaitomybės ir kadastro sudarymo tvarką nustato Žemės ir miškų ūkio ministerija.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-243, 1997-06-10, Žin., 1997, Nr. 59-1362 (1997-06-25), i. k. 0971010ISTAVIII-243
  
-
-
 
 
 
@@ -238,7 +244,10 @@ Valstybei priklausančių melioracijos įrenginių naudotojai privalo:
 
 
 
-2) leisti Žemės ūkio ministerijos ir valstybinių melioracijos tarnybų įgaliotiems asmenims tikrinti ir, suderinus su naudotojais, remontuoti jų žemėje esančius melioracijos įrenginius, atlikti nustatytus priežiūros darbus;
+2) leisti Žemės ir miškų ūkio ministerijos ir valstybinių melioracijos tarnybų įgaliotiems asmenims tikrinti ir, suderinus su naudotojais, remontuoti jų žemėje esančius melioracijos įrenginius, atlikti nustatytus priežiūros darbus; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-243, 1997-06-10, Žin., 1997, Nr. 59-1362 (1997-06-25), i. k. 0971010ISTAVIII-243
+ 
 
 
 
@@ -322,3 +331,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-943, 1995-06-13, Žin., 1995, Nr. 53-1298 (1995-06-28), i. k. 0951010ISTA000I-943
 Dėl Lietuvos Respublikos melioracijos įstatymo pakeitimo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-243, 1997-06-10, Žin., 1997, Nr. 59-1362 (1997-06-25), i. k. 0971010ISTAVIII-243
+Lietuvos Respublikos melioracijos įstatymo 5, 7, 9 ir 12 straipsnių pakeitimo įstatymas
