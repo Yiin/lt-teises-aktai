@@ -15,430 +15,293 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3"
 
 @D1=19910109;D2=19960417;D3=19960515
 
-Redagavo: Ramunė
-Lūžaitė (1999.04.02)
+Įstatymas paskelbtas: Žin., 1991,
+Nr. 4-104
+Neoficialus įstatymo tekstas
  
-Įstatymas
-paskelbtas: 1991, Nr.4-104
- 
-Neoficialus įstatymo
-tekstas
- 
-Pakeitimai:
- 
-1.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. I-1286,
-96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
-LIETUVOS RESPUBLIKOS DARBO APMOKĖJIMO
-ĮSTATYMO 2, 3, 6, 9, 10, 11, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
- 
-2.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. VIII-1101,
-99.03.23, Žin., 1999, Nr.30-858 (99.04.02)
-LIETUVOS RESPUBLIKOS DARBO APMOKĖJIMO
-ĮSTATYMO 16 STRAIPSNIO PAPILDYMO ĮSTATYMAS
- 
-*** Pabaiga ***
- 
-                     
 LIETUVOS RESPUBLIKOS
- 
-                       
 DARBO APMOKĖJIMO
-                       
 Į S T A T Y M A S
  
  
-     Šis įstatymas 
-reguliuoja darbuotojų, dirbančių pagal samdos
-(darbo)  
-sutartis    įmonėse,   įstaigose    ir   organizacijose
-nepriklausomai nuo
-jų nuosavybės formų, darbo apmokėjimą.
+            Šis
+įstatymas reguliuoja darbuotojų, dirbančių pagal samdos (darbo) sutartis
+įmonėse, įstaigose ir organizacijose nepriklausomai nuo jų nuosavybės formų,
+darbo apmokėjimą.
  
-     1 straipsnis.
-Apmokėjimas už darbą
+            1
+straipsnis. Apmokėjimas už darbą
+            Darbuotojo
+darbo užmokesti priklauso nuo darbo paklausos ir pasiūlos darbo rinkoje, darbo
+kiekio ir kokybės bei įmonės veiklos rezultatų.
+            Draudžiama
+mažinti darbo užmokestį dėl lyties, amžiaus, rasės, tautybės ir politinių
+įsitikinimų.
  
-     Darbuotojo
-darbo  užmokesti priklauso nuo darbo paklausos ir
-pasiūlos darbo 
-rinkoje,  darbo  kiekio  ir  kokybės  bei  įmonės
-veiklos rezultatų.
-     Draudžiama
-mažinti  darbo  užmokestį  dėl  lyties,  amžiaus,
-rasės, tautybės ir
-politinių įsitikinimų.
- 
-     2 straipsnis.
-Darbo užmokesčio minimumas
- 
-     Valstybė 
-nustato   minimalų  valandinį   atlygį  (minimalią
-mėnesinę algą).
-     Darbuotojui   
-nustatytas   valandinis   tarifinis   atlygis
-(mėnesinė  alga) 
-negali  būti  mažesnis  už  valstybės nustatytą
-minimalų valandinį
-atlygį (minimalią mėnesinę algą).
- 
-Straipsnio
-pakeitimai:
+2 straipsnis. Darbo užmokesčio minimumas
+Lietuvos Respublikos Vyriausybė nustato minimalų
+valandinį atlygį (minimalią 
+mėnesinę algą). 
+Darbuotojui nustatytas
+valandinis tarifinis atlygis (mėnesinė alga) negali būti mažesnis už Lietuvos
+Respublikos Vyriausybės nustatytą minimalų valandinį atlygį (minimalią mėnesinę
+algą).
+Straipsnio pakeitimai: 
 Nr. I-1286,
 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+Nr. IX-223, 2001 03 22, Žin., 2001, Nr.
+28-898 (2001 03 30) 
  
-     3 straipsnis.
-Darbo apmokėjimo organizavimas
  
-     Darbo
-apmokėjimo  sąlygas, profesijų  ir pareigų tarifinius-
-kvalifikacinius
-reikalavimus,  darbų ir  darbuotojų  tarifikavimo
-tvarką  nustato  
-įmonių,  įstaigų   ir  organizacijų  savininkai
-(darbdaviai)  
-kolektyviniuose    susitarimuose    (kolektyvinėse
-sutartyse).
-     Konkretūs
-valandiniai  tarifiniai atlygiai, mėnesinės algos,
-kitos darbo 
-apmokėjimo formos  ir sąlygos, darbo normos įmonėse,
-įstaigose ir 
-organizacijose nustatomos kolektyvinėse arba, jeigu
-jos nesudaromos, 
-samdos sutartyse  Lietuvos Respublikos įstatymų
-nustatyta   tvarka  
-(toliau   -   "kolektyvinėse   arba   samdos
+            3
+straipsnis. Darbo apmokėjimo organizavimas
+            Darbo
+apmokėjimo sąlygas, profesijų ir pareigų tarifinius- kvalifikacinius
+reikalavimus, darbų ir darbuotojų tarifikavimo tvarką nustato įmonių, įstaigų
+ir organizacijų savininkai (darbdaviai) kolektyviniuose susitarimuose
+(kolektyvinėse sutartyse).
+            Konkretūs
+valandiniai tarifiniai atlygiai, mėnesinės algos, kitos darbo apmokėjimo formos
+ir sąlygos, darbo normos įmonėse, įstaigose ir organizacijose nustatomos
+kolektyvinėse arba, jeigu jos nesudaromos, samdos sutartyse Lietuvos
+Respublikos įstatymų nustatyta tvarka (toliau - "kolektyvinėse arba samdos
 sutartyse").
-     Darbuotojo   
-darbo  apmokėjimo  sąlygos,  nustatytos  darbo
-sutartyje,  atsižvelgiant 
-į  teisės  aktuose  bei  kolektyvinėse
-sutartyse  
-patvirtintas   nuostatas,  gali  būti  keičiamos  tik
-raštišku darbuotojo
-ir darbdavio susitarimu.
- 
-Straipsnio
-pakeitimai:
+            Darbuotojo
+darbo apmokėjimo sąlygos, nustatytos darbo sutartyje, atsižvelgiant į teisės
+aktuose bei kolektyvinėse sutartyse patvirtintas nuostatas, gali būti keičiamos
+tik raštišku darbuotojo ir darbdavio susitarimu.
+Straipsnio pakeitimai: 
 Nr. I-1286,
 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
  
-     4 straipsnis.Valstybinių
-įstaigų darbuotojų darbo
-                 
-apmokėjimas
  
-     Valstybės 
-tarnautojų   darbo  apmokėjimo   salygas  nustato
-Lietuvos Respublikos
-įstatymai.
-     Kitų  iš 
-biudžeto  finansuojamų  įstaigų  darbuotojų  darbo
-apmokėjimo sąlygas 
-nustato Lietuvos Respublikos Vyriausybė. Šios
-sąlygos peržiūrimos
-ne rečiau kaip kartą per metus, atsižvelgiant
-į materialinės
-gamybos darbuotojų darbo užmokesčio didėjimą.
+            4
+straipsnis.Valstybinių įstaigų darbuotojų darbo apmokėjimas
+            Valstybės
+tarnautojų darbo apmokėjimo salygas nustato Lietuvos Respublikos įstatymai.
+            Kitų
+iš biudžeto finansuojamų įstaigų darbuotojų darbo apmokėjimo sąlygas nustato
+Lietuvos Respublikos Vyriausybė. Šios sąlygos peržiūrimos ne rečiau kaip kartą
+per metus, atsižvelgiant į materialinės gamybos darbuotojų darbo užmokesčio
+didėjimą.
  
-     5 straipsnis.
-Realaus darbo užmokesčio užtikrinimas
+            5
+straipsnis. Realaus darbo užmokesčio užtikrinimas
+            Atsižvelgiant
+į kainų pasikeitimo indeksus, darbo užmokestis yra indeksuojamas Lietuvos
+Respublikos gyventojų pajamų garantijų įstatymo nustatyta tvarka.
  
-     Atsižvelgiant į
-kainų pasikeitimo indeksus, darbo užmokestis
-yra indeksuojamas
-Lietuvos Respublikos gyventojų pajamų garantijų
-įstatymo nustatyta
-tvarka.
- 
-     6
-straipsnis.Darbo apmokėjimas esant nukrypimų
-                 
-nuo normalių darbo sąlygų
- 
- 
-     Jeigu   yra 
-nukrypimų  nuo  normalių darbo sąlygų, už darbą
-apmokama:
-     kenksmingomis  
-sąlygomis   -   ne   mažiau   kaip  pusantro
-darbuotojui 
-nustatyto  valandinio  (dieninio)  tarifinio atlygio
-(mėnesinės algos);
-     labai  
-kenksmingomis  darbo  sąlygomis  -  ne  mažiau  kaip
-dvigubu 
-darbuotojui  nustatytu  valandiniu  (dieniniu) tarifiniu
-atlygiu (mėnesine
-alga).
-     Darbo  sąlygų  
-klasifikaciją   ir   kenksmingumų   veiksnių
-leistinas 
-koncentracijas   bei  lygius   reglamentuoja  Lietuvos
-Respublikos
-įstatymai ir kiti norminiai aktai.
-     Konkretūs
-apmokėjimo  dydžiai nustatomi  kolektyvinėse  arba
-samdos sutartyse.
- 
-Straipsnio
-pakeitimai:
+            6
+straipsnis.Darbo apmokėjimas esant nukrypimų nuo normalių darbo sąlygų
+            Jeigu
+yra nukrypimų nuo normalių darbo sąlygų, už darbą apmokama:
+            kenksmingomis
+sąlygomis - ne mažiau kaip pusantro darbuotojui nustatyto valandinio (dieninio)
+tarifinio atlygio (mėnesinės algos);
+            labai
+kenksmingomis darbo sąlygomis - ne mažiau kaip dvigubu darbuotojui nustatytu
+valandiniu (dieniniu) tarifiniu atlygiu (mėnesine alga).
+            Darbo
+sąlygų klasifikaciją ir kenksmingumų veiksnių leistinas koncentracijas bei
+lygius reglamentuoja Lietuvos Respublikos įstatymai ir kiti norminiai aktai.
+            Konkretūs
+apmokėjimo dydžiai nustatomi kolektyvinėse arba samdos sutartyse.
+Straipsnio pakeitimai: 
 Nr. I-1286,
 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
  
-     7
+ 
+            7
 straipsnis.Apmokėjimas už viršvalandinį ir naktinį darbą
+            Už
+viršvalandinį darbą ir darbą naktį (nuo 10 val. vakaro iki 6 val. ryto) mokama
+ne mažiau kaip pusantro darbuotojui nustatyto valandinio tarifinio atlygio
+(mėnesinės algos).
+            Konkretūs
+apmokėjimo dydžiai nustatomi kolektyvinėse arba samdos sutartyse.
  
-     Už
-viršvalandinį  darbą ir  darbą naktį  (nuo 10 val. vakaro
-iki 6  val. ryto) 
-mokama ne  mažiau  kaip  pusantro  darbuotojui
-nustatyto valandinio
-tarifinio atlygio (mėnesinės algos).
-     Konkretūs
-apmokėjimo  dydžiai nustatomi  kolektyvinėse  arba
-samdos sutartyse.
+            8
+straipsnis.Apmokėjimas už darbą poilsio ir švenčių dienomis
+            Darbas
+poilsio arba švenčių dieną, jeigu jis nenumatytas pagal grafiką, kompensuojamas
+suteikiant per mėnesį kitą poilsio dieną arba, darbuotojui pageidaujant,
+apmokant ne mažiau kaip dvigubu darbuotojui nustatytu valandiniu ar dieniniu
+atlygiu, nesuteikiant papildomos poilsio dienos.
+            Darbas
+švenčių dieną pagal grafiką apmokamas ne mažiau kaip dvigubu valandiniu arba
+dieniniu atlygiu.
  
-     8
-straipsnis.Apmokėjimas už darbą poilsio ir švenčių
-                 
-dienomis
+            9
+straipsnis. Apmokėjimas už prastovos laiką
+Už kiekvieną prastovos ne dėl darbuotojo kaltės
+valandą mokama ne mažiau kaip Lietuvos Respublikos Vyriausybės nustatytas
+minimalus valandinis atlygis, išskyrus atvejus, nurodytus šiame straipsnyje.
+Kai dėl prastovos įstatymų
+nustatyta tvarka perkelto į kitą darbą darbuotojo darbo užmokestis sumažėja dėl
+nuo jo nepriklausančių priežasčių, jam mokamas iki perkėlimo buvęs vidutinis
+darbo užmokestis. Esant prastovai dėl gamybinių, gamtinių ir kitų Darbo
+sutarties įstatymo 24 straipsnyje nenurodytų sąlygų, kai šios sąlygos teisės
+aktų nustatyta tvarka neleidžia saugiai dirbti, kolektyvinėje ar darbo
+sutartyje gali būti numatytos kitos laikinai perkeltų į kitą darbą darbuotojų
+apmokėjimo sąlygos.
+Jeigu darbuotojui prastovos atveju nepasiūloma įmonėje
+esančio kito darbo pagal jo profesiją, specialybę, kvalifikaciją arba
+specialaus profesinio pasirengimo nereikalaujančio darbo, kurį jis galėtų
+dirbti nepakenkdamas savo sveikatai, jam už kiekvieną prastovos valandą mokamas
+jo dviejų trečdalių vidutinio valandinio darbo užmokesčio dydžio, buvusio iki
+prastovos, atlygis, bet ne mažesnis nei Lietuvos Respublikos Vyriausybės
+patvirtintas minimalus valandinis atlygis už kiekvieną prastovos valandą.
+Jeigu darbuotojas raštiškai atsisako pasiūlyto darbo
+pagal savo profesiją, specialybę, kvalifikaciją arba specialaus profesinio
+pasirengimo nereikalaujančio darbo, kurį jis galėtų dirbti nepakenkdamas savo
+sveikatai, jam mokama ne mažiau nei 0,3 Lietuvos Respublikos Vyriausybės
+nustatyto minimalaus valandinio atlygio už kiekvieną prastovos valandą.
+            Darbdavys
+neturi teisės reikalauti, kad darbuotojas, nedirbantis dėl prastovos, būtų
+darbovietėje ilgiau kaip vieną valandą per darbo dieną (pamainą). Už buvimą
+įmonėje šioje nuostatoje nurodytą laiką mokamas šio straipsnio trečiojoje
+dalyje nustatyto dydžio darbo užmokestis. Kolektyvinėje, darbo sutartyje arba
+šalių susitarimu gali būti numatyti visiško neatvykimo į darbą prastovos metu
+atvejai.
+            Kolektyvinėje
+ar darbo sutartyje gali būti nustatomi didesni negu nurodyti šiame straipsnyje
+apmokėjimo dydžiai.
+            Išmoka
+už prastovą ne dėl darbuotojo kaltės turi būti mokama tais pačiais terminais ir
+tvarka kaip ir darbo užmokestis (šio įstatymo 11 straipsnis).
+            Prastovos
+dėl darbuotojo kaltės laikas neapmokamas.
+Straipsnio pakeitimai: 
+Nr. I-1286,
+96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+Nr. IX-223, 2001 03 22, Žin., 2001, Nr.
+28-898 (2001 03 30) 
  
-     Darbas poilsio 
-arba švenčių  dieną, jeigu  jis  nenumatytas
-pagal grafiką, 
-kompensuojamas suteikiant per mėnesį kitą poilsio
-dieną arba,  darbuotojui
-pageidaujant,  apmokant ne  mažiau  kaip
-dvigubu darbuotojui 
-nustatytu valandiniu  ar  dieniniu  atlygiu,
-nesuteikiant
-papildomos poilsio dienos.
-     Darbas švenčių 
-dieną pagal grafiką apmokamas ne mažiau kaip
-dvigubu valandiniu
-arba dieniniu atlygiu.
  
-     9 straipsnis.
-Apmokėjimas už prastovos laiką
- 
-     Prastovos  ne 
-dėl  darbuotojo  kaltės  laikas  apmokamas ne
-mažesniu  kaip 
-valstybės  nustatytu minimaliu valandiniu atlygiu
-už kiekvieną
-prastovos valandą.
-     Kai  dėl
-prastovos įstatymų nustatyta tvarka perkelto į kitą
-darbą   darbuotojo 
-darbo  užmokestis  sumažėja  ne  dėl  nuo  jo
-priklausančių  
-priežasčių,   jam  mokamas  iki  perkėlimo  buvęs
-vidutinis darbo
-užmokestis.
-     Jeigu  
-darbuotojui  prastovos  atveju  nepasiūloma  įmonėje
-esančio  kito 
-darbo,  kurį  jis galėtų dirbti nepakenkdamas savo
-profesijai, 
-specialybei, kvalifikacijai ir sveikatos būklei, jam
-už  kiekvieną 
-prastovos  valandą  mokamas  jo  dviejų  trečdalių
-vidutinio  
-valandinio   darbo  užmokesčio  dydžio,  buvusio  iki
-prastovos, 
-atlygis,  bet  ne mažesnis nei valstybės patvirtintas
-minimalus valandinis
-atlygis už kiekvieną prastovos valandą.
-     Jeigu 
-darbuotojas atsisako pasiūlyto darbo, kurį jis galėtų
-dirbti    
-nepakenkdamas     savo     profesijai,    specialybei,
-kvalifikacijai  ir 
-sveikatos būklei, jam mokamas ne mažesnis nei
-valstybės 
-nustatytas  minimalus  valandinis atlygis už kiekvieną
-prastovos valandą.
-     Darbdavys  
-neturi   teisės   reikalauti,  kad  darbuotojas,
-nedirbantis  dėl 
-prastovos,  būtų darbovietėje ilgiau kaip vieną
-valandą  per  darbo 
-dieną  (pamainą).  Už  buvimą  įmonėje šioje
-nuostatoje 
-nurodytą  laiką  mokamas  šio  straipsnio  trečiojoje
-dalyje  nustatyto 
-dydžio  darbo užmokestis. Kolektyvinėje, darbo
-sutartyje  arba  šalių 
-susitarimu  gali  būti  numatyti  visiško
-neatvykimo į darbą
-prastovos metu atvejai.
-     Kolektyvinėje  
-ar   darbo  sutartyje  gali  būti  nustatomi
-didesni negu
-nurodyti šiame straipsnyje apmokėjimo dydžiai.
-     Išmoka  už 
-prastovą  ne  dėl  darbuotojo  kaltės  turi būti
-mokama  tais pačiais
-terminais ir tvarka kaip ir darbo užmokestis
-(šio įstatymo 11
-straipsnis).
-     Prastovos dėl
-darbuotojo kaltės laikas neapmokamas.
- 
-Straipsnio
-pakeitimai:
+            10
+straipsnis. Apmokėjimas už ne visą ir sutrumpintą darbo laiką
+            Ne
+visas darbo laikas (ne visa darbo diena arba savaitė), nustatytas darbuotojui susitarus
+su darbdaviu, apmokamas proporcingai dirbtam laikui arba už atliktą darbą.
+            Darbuotojams, kuriems pagal įstatymus ar
+kolektyvines sutartis sutrumpinamas darbo laikas (nepilnamečiams, riboto
+darbingumo asmenims, darbuotojams, dirbantiems labai kenksmingomis darbo
+sąlygomis ir kt.), gali būti numatomos papildomos darbo apmokėjimo garantijos.
+Straipsnio pakeitimai: 
 Nr. I-1286,
 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
  
-     10 straipsnis.
-Apmokėjimas už ne visą ir
-                   
-sutrumpintą darbo laiką
  
-     Ne  visas 
-darbo  laikas (ne visa darbo diena arba savaitė),
-nustatytas  
-darbuotojui   susitarus   su   darbdaviu,  apmokamas
-proporcingai dirbtam
-laikui arba už atliktą darbą.
-     Darbuotojams,  
-kuriems   pagal  įstatymus  ar  kolektyvines
-sutartis  
-sutrumpinamas  darbo  laikas  (nepilnamečiams,  riboto
-darbingumo    
-asmenims,    darbuotojams,    dirbantiems    labai
-kenksmingomis 
-darbo  sąlygomis  ir  kt.),  gali  būti  numatomos
-papildomos darbo
-apmokėjimo garantijos.
- 
-Straipsnio
-pakeitimai:
+            11
+straipsnis. Darbo užmokesčio mokėjimo terminai, vieta ir tvarka
+Darbo užmokestis mokamas
+darbo metu ne rečiau kaip du kartus per mėnesį. Esant raštiškam darbuotojo
+prašymui, darbo užmokestis gali būti mokamas ne rečiau kaip vieną kartą per
+mėnesį. Konkretūs darbo užmokesčio mokėjimo terminai, vieta ir tvarka nustatomi
+kolektyvinėse arba darbo sutartyse.
+            Išleidžiant
+darbuotoją kasmetinių atostogų, visas jam priklausantis iki atostogų pradžios
+uždarbis mokamas kartu su darbo užmokesčiu už visą atostogų laiką ne vėliau
+kaip prieš tris kalendorines dienas iki prasidedant atostogoms.
+            Jeigu
+darbuotojas atleidžiamas iš darbo, visas jam priklausantis darbo užmokestis
+išmokamas ne vėliau kaip paskutinę darbo dieną.
+Straipsnio pakeitimai: 
 Nr. I-1286,
 96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+Nr. IX-223, 2001 03 22, Žin., 2001, Nr.
+28-898 (2001 03 30) 
  
-     11 straipsnis.
-Darbo užmokesčio mokėjimo terminai,
-                   
-vieta ir tvarka
  
-     Darbo  užmokestis 
-mokamas  darbo  metu  ne  rečiau  kaip du
-kartus  per mėnesį.
-Konkretūs darbo užmokesčio mokėjimo terminai,
-vieta ir tvarka
-nustatomi kolektyvinėse arba darbo sutartyse.
-     Išleidžiant  
-darbuotoją   kasmetinių  atostogų,  visas  jam
-priklausantis  iki 
-atostogų  pradžios  uždarbis mokamas kartu su
-darbo  užmokesčiu 
-už  visą  atostogų  laiką ne vėliau kaip prieš
-tris kalendorines
-dienas iki prasidedant atostogoms.
-     Jeigu  
-darbuotojas   atleidžiamas   iš   darbo,  visas  jam
-priklausantis  
-darbo   užmokestis   išmokamas   ne  vėliau  kaip
-paskutinę darbo
-dieną.
+            12
+straipsnis. Vidutinis darbo užmokestis
+            Vidutinis
+darbo užmokestis darbuotojams garantuojamas Lietuvos Respublikos įstatymų,
+kolektyvinių arba samdos sutarčių numatytais atvejais ir yra apskaičiuojamas
+Lietuvos Respublikos Vyriausybės nustatyta tavrka.
+            Į
+vidutinį darbo užmokestį įskaitomos visos darbo apmokėjimo rūšys, nuo kurių
+pagal galiojančią tvarką priskaitomi valstybinio socialinio draudimo įnašai.
+            Jeigu
+darbuotojas įstatymų numatytais atvejais yra atitraukiamas nuo pagrindinio
+darbo, darbo užmokestį, ne mažesnį už vidutinį, moka arba kompensuoja ta
+įstaiga ar organizacija, kurios įpareigojimus vykdo darbuotojas.
  
-Straipsnio
-pakeitimai:
+            13
+straipsnis. Ginčų sprendimas
+            Ginčai
+darbo apmokėjimo klausimais nagrinėjami Lietuvos Respublikos įstatymų nustatyta
+darbo ginčų sprendimo tvarka.
+ 
+            14
+straipsnis. Įstatymo laikimosi kontrolė
+            Šio
+įstatymo laikymosi kontrolę vykdo valstybinė darbo inspekcija.
+ 
+            15
+straipsnis. Atsakomybė už šio įstatymo pažeidimą
+            Nuostolius,
+atsiradusius dėl šio įstatymo pažeidimo, privalo atlyginti kaltoji šalis.
+            Lietuvos
+Respublikos įstatymų numatytais atvejais už šio įstatymo pažeidimus taikoma
+drausminė, administracinė ar baudžiamoji atsakomybė.
+ 
+            16
+straipsnis. Žinios apie darbo užmokestį
+            Žinios
+apie darbuotojo darbo užmokestį teikiamos ir skelbiamos tik įstatymo numatytais
+atvejais arba darbuotojui sutikus. Žinios apie darbuotojų darbo užmokestį,
+mokamą iš valstybės arba savivaldybių biudžetų, Valstybinio socialinio draudimo
+fondo biudžeto bei Sveikatos draudimo fondo biudžeto lėšų, yra viešos. Žinių
+apie darbo užmokestį teikimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Straipsnio pakeitimai: 
 Nr. I-1286,
-96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
- 
-     12 straipsnis.
-Vidutinis darbo užmokestis
- 
-     Vidutinis 
-darbo   užmokestis   darbuotojams   garantuojamas
-Lietuvos
-Respublikos  įstatymų, kolektyvinių arba samdos sutarčių
-numatytais atvejais 
-ir yra  apskaičiuojamas Lietuvos Respublikos
-Vyriausybės
-nustatyta tavrka.
-     Į vidutinį
-darbo užmokestį įskaitomos visos darbo apmokėjimo
-rūšys, nuo kurių
-pagal galiojančią tvarką priskaitomi valstybinio
-socialinio draudimo
-įnašai.
-     Jeigu  
-darbuotojas   įstatymų   numatytais   atvejais   yra
-atitraukiamas nuo 
-pagrindinio darbo, darbo užmokestį, ne mažesnį
-už vidutinį,  moka
-arba  kompensuoja ta  įstaiga ar organizacija,
-kurios įpareigojimus
-vykdo darbuotojas.
- 
-     13 straipsnis.
-Ginčų sprendimas
- 
-     Ginčai  darbo 
-apmokėjimo  klausimais  nagrinėjami  Lietuvos
-Respublikos įstatymų
-nustatyta darbo ginčų sprendimo tvarka.
- 
-     14 straipsnis.
-Įstatymo laikimosi kontrolė
- 
-     Šio  įstatymo 
-laikymosi  kontrolę  vykdo  valstybinė  darbo
-inspekcija.
- 
-     15 straipsnis.
-Atsakomybė už šio įstatymo pažeidimą
- 
-     Nuostolius,
-atsiradusius dėl šio įstatymo pažeidimo, privalo
-atlyginti kaltoji
-šalis.
-     Lietuvos
-Respublikos  įstatymų numatytais  atvejais  už  šio
-įstatymo 
-pažeidimus   taikoma   drausminė,   administracinė   ar
-baudžiamoji
-atsakomybė.
- 
-     16 straipsnis.
-Žinios apie darbo užmokestį
- 
-     Žinios   apie  
-darbuotojo   darbo  užmokestį  teikiamos  ir
-skelbiamos  tik 
-įstatymo  numatytais  atvejais  arba darbuotojui
-sutikus.
-Žinios apie darbuotojų darbo užmokestį, mokamą iš
-valstybės arba savivaldybių biudžetų, Valstybinio socialinio draudimo fondo
-biudžeto bei Sveikatos draudimo fondo biudžeto lėšų, yra viešos. Žinių apie
-darbo užmokestį teikimo tvarką nustato Lietuvos Respublikos Vyriausybė.
- 
-Straipsnio
-pakeitimai:
-Nr. I-1286,
-96.04.17, Žin., 1996, Nr. 41-984 (96.05.08)
+96.04.17, Žin., 1996, Nr. 41-984 (96.05.08) 
 Nr. VIII-1101,
 99.03.23, Žin., 1999, Nr.30-858 (99.04.02)
  
  
  
-Lietuvos Respublikos
+Lietuvos
+Respublikos 
 Aukščiausiosios
-Tarybos Pirmininkas                V.LANDSBERGIS
+Tarybos Pirmininkas                                                              
+V.LANDSBERGIS
  
+Vilnius,
+1991 m. sausio 9 d. 
+Nr. I-924
  
-Vilnius, 1991 m.
-sausio 9 d. Nr. I-924
+__________
  
+Pakeitimai:
  
-_
+1. 
+Lietuvos Respublikos Seimas,
+Įstatymas 
+Nr. I-1286,
+96.04.17, Žin., 1996, Nr. 41-984 (96.05.08) 
+LIETUVOS RESPUBLIKOS DARBO
+APMOKĖJIMO ĮSTATYMO 2, 3, 6, 9, 10, 11, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
+ 
+2. 
+Lietuvos Respublikos Seimas,
+Įstatymas 
+Nr. VIII-1101,
+99.03.23, Žin., 1999, Nr.30-858 (99.04.02) 
+LIETUVOS RESPUBLIKOS DARBO
+APMOKĖJIMO ĮSTATYMO 16 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+3. 
+Lietuvos Respublikos Seimas, Įstatymas 
+Nr. IX-223, 2001 03 22, Žin., 2001, Nr.
+28-898 (2001 03 30) 
+DARBO APMOKĖJIMO ĮSTATYMO 2, 9, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
+ 
+*** Pabaiga ***
+ 
+Redagavo: Aušrinė Trapinskienė (2001 04 02)
+                autrap@lrs.lt
 
