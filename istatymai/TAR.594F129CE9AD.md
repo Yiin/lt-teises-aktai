@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
+Suvestinė redakcija nuo 2000-10-11 iki 2000-12-31
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
+ 
+ 
 LIETUVOS RESPUBLIKOS
 ADMINISTRACINIŲ GINČŲ KOMISIJŲ
 ĮSTATYMAS
@@ -72,12 +77,18 @@ Vilnius
 
 
 
-2. Apskrities administracinių ginčų komisija sudaroma 4 metams Vyriausybės sprendimu iš 5 narių, turinčių aukštąjį teisinį išsilavinimą. Komisijos narių kandidatūras, iš jų ir pirmininko kandidatūrą, Vyriausybei teikia apskrities viršininkas.
+2. Apskrities administracinių ginčų komisija sudaroma 4 metams iš 5 narių, turinčių aukštąjį teisinį išsilavinimą. Komisijos narius, iš jų komisijos pirmininką ir pirmininko pavaduotoją, skiria Vyriausybė. Komisijos narių, komisijos pirmininko ir pirmininko pavaduotojo kandidatūras Vyriausybei teikia apskrities taryba. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
+ 
 
 
 
 
-3. Komisijos pirmininkas ir nariai turi teisę atsistatydinti. Apskrities viršininkas ir savivaldybės meras motyvuotu teikimu gali siūlyti Vyriausybei ar savivaldybės tarybai atleisti komisijos pirmininką ar narį prieš laiką, o vietoj jų teikti naujas kandidatūras.
+3. Komisijos pirmininkas, pirmininko pavaduotojas ir nariai turi teisę atsistatydinti. Motyvuotu teikimu apskrities taryba gali siūlyti Vyriausybei, o savivaldybės meras – savivaldybės tarybai atleisti atitinkamos komisijos pirmininką, pirmininko pavaduotoją ar narį prieš laiką ir vietoj jų teikti naujas kandidatūras.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
+ 
 
 
 
@@ -90,23 +101,30 @@ Vilnius
 
 
 
-4 straipsnis. Apskrities administracinių ginčų komisijos statusas
+4 straipsnis. Apskrities administracinių ginčų komisijų statusas
 
 
-1. Apskrities administracinių ginčų komisija yra juridinis asmuo, išlaikomas iš valstybės biudžeto asignavimų, skirtų apskričiai.
-
-
-
-
-2. Komisijos pirmininkas (ar narys) ir sekretorius yra valstybės tarnautojai ir jų darbas komisijoje laikytinas darbu pagrindinėje darbovietėje; kitiems komisijos nariams darbas komisijoje laikytinas darbu nepagrindinėje darbovietėje.
+1. Apskrities administracinių ginčų komisijos nariais jų sutikimu gali būti valstybės ar savivaldybių tarnautojai, taip pat šio statuso neturintys asmenys. 
 
 
 
 
-3. Komisijos pirmininko, narių ir sekretoriaus atlyginimus nustato Vyriausybė.
+2. Apskrities administracinių ginčų komisiją aptarnauja apskrities viršininko administracija. 
+
+
+
+
+3. Komisijos technines funkcijas (skundų registravimas, raštvedyba, susirašinėjimas ir kt.) atlieka apskrities viršininko paskirtas administracijos tarnautojas. Jis kartu yra ir atsakingasis komisijos sekretorius.
+
+
+
+
+4. Valstybės ir savivaldybių tarnautojams už darbą komisijoje nemokama, o kitiems komisijos nariams atlyginama Vyriausybės nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
  
-
-
 
 
 
@@ -155,7 +173,9 @@ Vilnius
 
 
 
-3. Už savo darbą apskrities administracinių ginčų komisija kartą per metus atsiskaito apskrities viršininkui, taip pat yra atsakinga Vyriausiajai administracinių ginčų komisijai.
+3. Už savo darbą apskrities administracinių ginčų komisija kartą per metus atsiskaito apskrities tarybai, taip pat yra atsakinga Vyriausiajai administracinių ginčų komisijai. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
  
 
 
@@ -393,3 +413,20 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
+Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2, 5, 9, 13, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
+Lietuvos Respublikos administracinių ginčų komisijų įstatymo 3, 4, 6 straipsnių pakeitimo ir papildymo įstatymas
