@@ -22,20 +22,19 @@ KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO
 ĮSTATYMAS
 2002 m. kovo 14 d. Nr. IX-785
 Vilnius
-1 straipsnis.
-Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimas
+1
+straipsnis. Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimas
 Šiuo
 Įstatymu Seimas patvirtina Lietuvos Respublikos baudžiamojo proceso kodeksą.
  
-2
-straipsnis. Lietuvos Respublikos baudžiamojo proceso kodekso įsigaliojimas
+2 straipsnis. Lietuvos Respublikos
+baudžiamojo proceso kodekso įsigaliojimas
 Lietuvos
 Respublikos baudžiamojo proceso kodekso įsigaliojimo data nustatoma atskiru
 įstatymu.
  
-3
-straipsnis. Lietuvos Respublikos baudžiamojo proceso kodekso įgyvendinimo
-tvarka
+3 straipsnis. Lietuvos Respublikos
+baudžiamojo proceso kodekso įgyvendinimo tvarka
 Lietuvos
 Respublikos baudžiamojo proceso kodekso įgyvendinimo tvarka nustatoma atskiru
 įstatymu.
@@ -49,8 +48,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
                                                                                                 PATVIRTINTAS
-                                                                                                2002 m.
-kovo 14 d.
+                                                                                                2002 m. kovo 14 d.
                                                                                                 įstatymu
 Nr. IX-785
  
@@ -60,22 +58,32 @@ Baudžiamojo proceso
 k o d e k s
 a s
  
-I dalis
+I
+dalis
 BENDROSIOS NUOSTATOS
  
-I skyrius
+I
+skyrius
 bAUDŽIAMOJO pROCESO PASKIRTIS IR pagrindinės tAISYKLĖS
  
 1
 straipsnis. Baudžiamojo proceso paskirtis
-Baudžiamojo proceso paskirtis yra ginant žmogaus ir
-piliečio teises bei laisves, visuomenės ir valstybės interesus greitai,
-išsamiai atskleisti nusikalstamas veikas ir tinkamai pritaikyti įstatymą, kad
+1. Baudžiamojo proceso
+paskirtis yra ginant žmogaus ir piliečio
+teises bei laisves, visuomenės ir valstybės interesus greitai, išsamiai
+atskleisti nusikalstamas veikas ir tinkamai pritaikyti įstatymą, kad
 nusikalstamą veiką padaręs asmuo būtų teisingai nubaustas ir niekas nekaltas
 nebūtų nuteistas.
+2. Baudžiamojo
+proceso taisyklės yra suderintos su Europos Sąjungos teisės aktų, nurodytų
+Lietuvos Respublikos baudžiamojo proceso kodekso priede, nuostatomis.
+Straipsnio
+pakeitimai:
+Nr. IX-2170, 2004-04-27,
+Žin., 2004, Nr. 72-2493 (2004-04-30)
  
-2 straipsnis.
-Pareiga atskleisti nusikalstamas veikas 
+2
+straipsnis. Pareiga atskleisti nusikalstamas veikas 
 Prokuroras ir ikiteisminio tyrimo įstaigos kiekvienu
 atveju, kai paaiškėja nusikalstamos veikos požymių, privalo pagal savo
 kompetenciją imtis visų įstatymų numatytų priemonių, kad per trumpiausią laiką
@@ -107,18 +115,17 @@ reikalavimą;
 7) mirusiajam, išskyrus tuos atvejus, kai byla
 reikalinga mirusiajam reabilituoti arba kitų asmenų bylai atnaujinti dėl naujai
 paaiškėjusių aplinkybių;
-8) asmeniui, kuriam
-įsiteisėjo teismo nuosprendis dėl to paties kaltinimo arba teismo nutartis ar
-prokuroro nutarimas nutraukti procesą tuo pačiu pagrindu;
+8) asmeniui,
+kuriam įsiteisėjo teismo nuosprendis dėl to paties kaltinimo arba teismo
+nutartis ar prokuroro nutarimas nutraukti procesą tuo pačiu pagrindu;
 9) jeigu egzistuoja Lietuvos Respublikos baudžiamojo
 kodekso V skyriuje numatyta baudžiamąją atsakomybę šalinanti aplinkybė.
 2. Jeigu šio straipsnio 1 dalies 1 punkte nurodyta
 aplinkybė paaiškėja nagrinėjimo teisme metu, teismas baigia nagrinėti bylą ir
 priima išteisinamąjį nuosprendį.
  
-4
-straipsnis. Lietuvos Respublikos baudžiamojo proceso kodekso
-galiojimo laikas ir teritorija
+4 straipsnis. Lietuvos Respublikos baudžiamojo
+proceso kodekso galiojimo laikas ir teritorija
 1. Proceso tvarką nustato Lietuvos Respublikos
 baudžiamojo proceso kodeksas, galiojantis proceso veiksmų atlikimo metu.
 2. Nesvarbu, kur
@@ -128,9 +135,8 @@ teritorijoje vyksta pagal Lietuvos Respublikos baudžiamojo proceso kodeksą.
 nustato kitokias taisykles negu šis Kodeksas, taikomos tarptautinės sutarties
 taisyklės. 
  
-5
-straipsnis. Lietuvos Respublikos baudžiamojo proceso kodekso
-galiojimas užsienio piliečiams ir asmenims be pilietybės
+5 straipsnis. Lietuvos Respublikos baudžiamojo
+proceso kodekso galiojimas užsienio piliečiams ir asmenims be pilietybės
 1. Procesas dėl
 nusikalstamų veikų, kurias padarė užsienio piliečiai ir asmenys be pilietybės,
 Lietuvos Respublikos teritorijoje vyksta pagal Lietuvos Respublikos baudžiamojo
@@ -154,8 +160,8 @@ bylas nagrinėja tik teismai.
 2. Teisingumas
 baudžiamosiose bylose vykdomas vadovaujantis principu, kad įstatymui ir teismui
 visi asmenys lygūs nepaisant kilmės, socialinės ir turtinės padėties, tautybės,
-rasės, lyties, išsilavinimo, kalbos, religinių ar politinių pažiūrų, veiklos
-rūšies ir pobūdžio, gyvenamosios vietos ir kitų aplinkybių.
+rasės, lyties, išsilavinimo, kalbos, religinių ar politinių pažiūrų, veiklos rūšies
+ir pobūdžio, gyvenamosios vietos ir kitų aplinkybių.
 3. Draudžiama
 kam nors teikti privilegijų arba daryti apribojimus dėl kokių nors aplinkybių
 bei žmogaus asmeninių savybių, socialinės bei turtinės padėties.
@@ -175,18 +181,18 @@ straipsnis. Proceso kalba
 1. Lietuvos
 Respublikoje baudžiamasis procesas vyksta valstybine kalba.
 2. Lietuvių
-kalbos nemokantiems baudžiamojo proceso dalyviams užtikrinama teisė daryti pareiškimus,
-duoti parodymus ir paaiškinimus, paduoti prašymus ir skundus, kalbėti teisme
-gimtąja kalba arba kita kalba, kurią jie moka. Visais šiais atvejais, taip pat
-susipažindami su bylos medžiaga proceso dalyviai turi teisę naudotis vertėjo
-paslaugomis šio Kodekso nustatyta tvarka.
+kalbos nemokantiems baudžiamojo proceso dalyviams užtikrinama teisė daryti
+pareiškimus, duoti parodymus ir paaiškinimus, paduoti prašymus ir skundus,
+kalbėti teisme gimtąja kalba arba kita kalba, kurią jie moka. Visais šiais
+atvejais, taip pat susipažindami su bylos medžiaga proceso dalyviai turi teisę
+naudotis vertėjo paslaugomis šio Kodekso nustatyta tvarka.
 3. Bylos
 dokumentai, kurie šio Kodekso nustatytais atvejais įteikiami įtariamajam,
 kaltinamajam ar nuteistajam, taip pat kitiems proceso dalyviams, turi būti
 išversti į jų gimtąją kalbą arba į kitą kalbą, kurią jie moka.
  
-9 straipsnis.
-Bylų nagrinėjimo teisme viešumas
+9
+straipsnis. Bylų nagrinėjimo teisme viešumas
 1. Bylos visuose
 teismuose nagrinėjamos viešai, išskyrus atvejus, kai tai prieštarauja
 valstybės, tarnybos, profesinės ar komercinės paslapties saugojimo interesams.
@@ -210,8 +216,8 @@ liudytojai, į teismo posėdžių salę neįleidžiami.
 nuosprendžių, priimtų neviešai išnagrinėjus bylą, rezoliucinės dalys visais
 atvejais paskelbiamos viešai.
  
-10
-straipsnis. Įtariamojo, kaltinamojo ir nuteistojo teisės į gynybą užtikrinimas
+10 straipsnis. Įtariamojo, kaltinamojo
+ir nuteistojo teisės į gynybą užtikrinimas
 1. Įtariamasis, kaltinamasis ir nuteistasis turi teisę
 į gynybą. Ši teisė jiems užtikrinama nuo sulaikymo arba pirmosios apklausos.
 2. Teismas,
@@ -220,9 +226,8 @@ prokuroras, ikiteisminio tyrimo pareigūnas privalo užtikrinti galimybę
 būdais gintis nuo įtarimų bei kaltinimų ir imtis reikiamų priemonių
 užtikrinti jų asmeninių ir turtinių teisių apsaugą.
  
-11
-straipsnis. Proporcingumo principo laikymasis taikant procesines prievartos
-priemones ir atliekant tyrimo veiksmus
+11 straipsnis. Proporcingumo principo laikymasis
+taikant procesines prievartos priemones ir atliekant tyrimo veiksmus
 1. Procesinės
 prievartos priemonės turi būti taikomos tik tais atvejais, kai be jų negalima
 pasiekti reikiamų proceso tikslų. Bet kokios procesinės prievartos priemonės
@@ -233,7 +238,8 @@ grasinti, atlikti žmogaus orumą žeminančius bei sveikatai kenkiančius veiks
 Panaudoti fizinę jėgą leidžiama tik tiek, kiek tai būtina proceso veiksmo
 atlikimo trukdymams pašalinti.
  
-II skyrius
+II
+skyrius
 pagrindinės ŠiO kodeksO sąvokos
  
 12
@@ -265,17 +271,36 @@ dalyje nurodyti asmenys.
 straipsnis. Aukštesnysis teismas
 Aukštesnysis
 teismas yra teismas, kuris šio Kodekso nustatyta specialia tvarka nagrinėja ir
-sprendžia klausimus dėl žemesniojo teismo nutarčių. Dėl apylinkės teismo
-nutarčių aukštesnysis teismas yra apygardos teismas, dėl apygardos teismo nutarčių – Lietuvos apeliacinis teismas.
+sprendžia klausimus dėl žemesniojo teismo nutarčių. Dėl apylinkės teismo nutarčių aukštesnysis teismas yra apygardos
+teismas, dėl apygardos teismo nutarčių – Lietuvos apeliacinis teismas.
  
 17
 straipsnis. Gynėjas
 1. Gynėju
 laikomas asmuo, kuris įstatymų nustatyta tvarka teikia teisinę pagalbą
-įtariamajam, kaltinamajam, nuteistajam ar išteisintajam, gina jų teises ir
-teisėtus interesus.
+įtariamajam, kaltinamajam, nuteistajam ar
+išteisintajam, gina jų teises ir teisėtus interesus.
 2. Gynėju gali
 būti advokatas ir įstatymų numatytomis sąlygomis – advokato padėjėjas.
+ 
+17(1) straipsnis. Europos arešto orderis
+1. Europos
+arešto orderis yra Europos Sąjungos valstybės narės teisminės institucijos
+sprendimas, kuriuo kita Europos Sąjungos valstybė narė įpareigojama suimti ir
+perduoti šiame sprendime nurodytą asmenį siekiant pradėti šio asmens
+baudžiamąjį persekiojimą ar vykdyti jam paskirtą su laisvės atėmimu susijusią
+bausmę ir kuris atitinka 2002 m. birželio 13 d. Tarybos pagrindų sprendimo
+2002/584/TVR dėl Europos arešto orderio ir valstybių narių tarpusavio perdavimo
+procedūrų 8 straipsnio 1 dalyje nurodytus formos ir turinio reikalavimus. 
+2. Europos
+arešto orderiu pripažįstamas ir šio straipsnio 1 dalyje nurodytas sprendimas,
+perduotas faksimilinio ryšio ar kitokiais elektroninių ryšių galiniais
+įrenginiais, jeigu yra užtikrintas perduodamos informacijos vientisumas ir
+autentiškumas.
+Kodeksas
+papildytas straipsniu:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
  
 18
 straipsnis. Ikiteisminio tyrimo pareigūnas
@@ -295,21 +320,21 @@ paskirtas atlikti įstatymų numatytus proceso veiksmus bei priimti sprendimus.
 straipsnis. Įrodymai
 1. Įrodymai
 baudžiamajame procese yra įstatymų nustatyta tvarka gauti duomenys.
-2. Ar gauti
-duomenys laikytini įrodymais, kiekvienu atveju sprendžia teisėjas ar teismas,
-kurio žinioje yra byla.
+2. Ar gauti duomenys
+laikytini įrodymais, kiekvienu atveju sprendžia teisėjas ar teismas, kurio
+žinioje yra byla.
 3. Įrodymais
 gali būti tik tokie duomenys, kurie patvirtina arba paneigia bent vieną
 aplinkybę, turinčią reikšmės bylai išspręsti teisingai.
-4. Įrodymais
-gali būti tik teisėtais būdais gauti duomenys, kuriuos galima patikrinti šiame
+4. Įrodymais gali
+būti tik teisėtais būdais gauti duomenys, kuriuos galima patikrinti šiame
 Kodekse numatytais proceso veiksmais.
 5. Teisėjai
 įrodymus įvertina pagal savo vidinį įsitikinimą, pagrįstą išsamiu ir nešališku
 visų bylos aplinkybių išnagrinėjimu, vadovaudamiesi įstatymu.
  
-21 straipsnis.
-Įtariamasis
+21
+straipsnis. Įtariamasis
 1. Įtariamasis
 yra ikiteisminio tyrimo dalyvis.
 2. Įtariamuoju
@@ -341,13 +366,13 @@ kaltinamasis aktas arba prokuroro pareiškimas nubausti asmenį teismo baudžiam
 kaltinimo ar pagreitinto proceso tvarka.
 3. Kaltinamasis
 turi teisę: žinoti, kuo jis kaltinamas, ir gauti kaltinamojo akto nuorašą;
-susipažinti teisme su byla; nustatyta tvarka pasidaryti reikiamų dokumentų
-išrašus arba nuorašus; turėti gynėją; pateikti prašymus; pareikšti nušalinimus;
-teikti įrodymus ir dalyvauti juos tiriant; nagrinėjimo teisme metu
-užduoti klausimus; duoti paaiškinimus apie teismo tiriamas bylos aplinkybes ir
-pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių pareikštų prašymų;
-dalyvauti baigiamosiose kalbose, kai nėra gynėjo; kreiptis į teismą paskutiniu
-žodžiu; apskųsti teismo nuosprendį ir nutartis.
+susipažinti teisme su byla; nustatyta tvarka pasidaryti reikiamų
+dokumentų išrašus arba nuorašus; turėti gynėją; pateikti prašymus; pareikšti
+nušalinimus; teikti įrodymus ir dalyvauti juos tiriant; nagrinėjimo
+teisme metu užduoti klausimus; duoti paaiškinimus apie teismo tiriamas bylos
+aplinkybes ir pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių
+pareikštų prašymų; dalyvauti baigiamosiose kalbose, kai nėra gynėjo; kreiptis į
+teismą paskutiniu žodžiu; apskųsti teismo nuosprendį ir nutartis.
 4.
 Kaltinamasis, dėl kurio yra priimtas apkaltinamasis nuosprendis, tampa nuteistuoju, o kaltinamasis, dėl kurio priimtas
 išteisinamasis nuosprendis, tampa išteisintuoju.
@@ -385,9 +410,8 @@ yra paros laikas nuo 22 iki 6 valandos.
 straipsnis. Nukentėjusysis
 1.
 Nukentėjusiuoju pripažįstamas fizinis asmuo, kuriam nusikalstama veika
-padarė fizinės, turtinės ar moralinės žalos. Asmuo pripažįstamas
-nukentėjusiuoju ikiteisminio tyrimo pareigūno, prokuroro nutarimu ar teismo
-nutartimi.
+padarė fizinės, turtinės ar moralinės žalos. Asmuo pripažįstamas nukentėjusiuoju
+ikiteisminio tyrimo pareigūno, prokuroro nutarimu ar teismo nutartimi.
 2.
 Nukentėjusysis ir jo atstovas turi teisę: teikti įrodymus; pateikti prašymus;
 pareikšti nušalinimus; ikiteisminio tyrimo metu ir teisme susipažinti su byla;
@@ -396,8 +420,8 @@ ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio tyrimo teisėjo ir teism
 veiksmus, taip pat apskųsti teismo nuosprendį ar nutartį; pasakyti baigiamąją
 kalbą.
 3.
-Nukentėjusysis privalo duoti parodymus. Jis prisiekia ir atsako už melagingus parodymus
-kaip liudytojas.
+Nukentėjusysis privalo duoti parodymus. Jis prisiekia ir atsako už melagingus
+parodymus kaip liudytojas.
  
 29
 straipsnis. Nuosprendis
@@ -435,8 +459,8 @@ straipsnis. Priesaika
 1. Priesaika yra
 teismui duotas iškilmingas pasižadėjimas sakyti tiesą, pateikti teisingą išvadą
 ar teisingai išversti.
-2. Teisme
-įstatymų nustatytais žodžiais prisiekia liudytojas, nukentėjusysis, ekspertas,
+2. Teisme įstatymų
+nustatytais žodžiais prisiekia liudytojas, nukentėjusysis, ekspertas,
 specialistas ir vertėjas.
  
 34
@@ -444,18 +468,21 @@ straipsnis. Privatus kaltintojas
 1. Privatus
 kaltintojas yra nukentėjusysis arba jo atstovas, palaikantys kaltinimą
 šio Kodekso numatytose privataus kaltinimo bylose.
-2. Privatus kaltintojas, dalyvaudamas nagrinėjant bylą
-pirmosios instancijos teisme, palaiko kaltinimą, pateikia įrodymus ir dalyvauja
-juos tiriant, dalyvauja baigiamosiose kalbose, pateikia pasiūlymų dėl
-teisiamajame posėdyje ištirtų įrodymų vertinimo, baudžiamųjų įstatymų taikymo, bausmės rūšies ir dydžio, nusikalstama veika
-padarytos žalos atlyginimo.
+2. Privatus
+kaltintojas, dalyvaudamas nagrinėjant bylą pirmosios instancijos teisme,
+palaiko kaltinimą, pateikia įrodymus ir dalyvauja juos tiriant, dalyvauja
+baigiamosiose kalbose, pateikia pasiūlymų dėl teisiamajame posėdyje ištirtų
+įrodymų vertinimo, baudžiamųjų įstatymų
+taikymo, bausmės rūšies ir dydžio, nusikalstama veika padarytos žalos
+atlyginimo.
 3. Privatus
 kaltintojas turi teisę dalyvauti apeliaciniame procese.
  
 35
 straipsnis. Prokuroras
 Prokuroras yra
-Lietuvos Respublikos generalinis prokuroras ir jam pavaldūs prokurorai, dalyvaujantys baudžiamajame procese pagal savo
+Lietuvos Respublikos generalinis prokuroras
+ir jam pavaldūs prokurorai, dalyvaujantys baudžiamajame procese pagal savo
 kompetenciją.
  
 36
@@ -464,8 +491,8 @@ Protokolas yra
 dokumentas, kuriame šio Kodekso nustatyta tvarka patvirtinamas ikiteisminio
 tyrimo arba teismo veiksmų atlikimo faktas, jų turinys bei rezultatai.
  
-37
-straipsnis. Svarbios asmens nedalyvavimo baudžiamajame procese priežastys
+37 straipsnis. Svarbios asmens
+nedalyvavimo baudžiamajame procese priežastys
 1. Svarbiomis
 asmens nedalyvavimo baudžiamajame procese priežastimis laikomos šios:
 1) laisvės
@@ -503,15 +530,16 @@ Teisėjas yra
 Lietuvos Aukščiausiojo Teismo pirmininkas, Lietuvos Aukščiausiojo Teismo
 skyriaus pirmininkas, Lietuvos Aukščiausiojo Teismo teisėjas; Lietuvos
 apeliacinio teismo pirmininkas, Lietuvos apeliacinio teismo skyriaus
-pirmininkas, Lietuvos apeliacinio teismo teisėjas; apygardos teismo pirmininkas,
-apygardos teismo skyriaus pirmininkas, apygardos teismo teisėjas; apylinkės
-teismo pirmininkas, apylinkės teismo pirmininko pavaduotojas, apylinkės teismo
-teisėjas.
+pirmininkas, Lietuvos apeliacinio teismo teisėjas; apygardos teismo
+pirmininkas, apygardos teismo skyriaus pirmininkas, apygardos teismo teisėjas;
+apylinkės teismo pirmininkas, apylinkės teismo pirmininko pavaduotojas,
+apylinkės teismo teisėjas.
  
 40
 straipsnis. Teismas
 1. Teismai yra
-Lietuvos Aukščiausiasis Teismas, Lietuvos apeliacinis teismas, apygardos teismas, apylinkės teismas.
+Lietuvos Aukščiausiasis Teismas, Lietuvos
+apeliacinis teismas, apygardos teismas, apylinkės teismas.
 2. Teismas yra:
 apylinkės teismo teisėjas ar apylinkės teismo teisėjų kolegija, apygardos
 teismo teisėjas ar apygardos teismo Baudžiamųjų bylų skyriaus teisėjų kolegija,
@@ -531,8 +559,8 @@ teismas priima nerengdamas bylos nagrinėjimo teisme.
 42
 straipsnis. Valstybinis kaltinimas
 Valstybinis
-kaltinimas yra prokuroro veikla, kuria įrodinėjama, kad nusikalstamos veikos
-padarymu kaltinamas asmuo yra kaltas.
+kaltinimas yra prokuroro veikla, kuria įrodinėjama, kad nusikalstamos veikos padarymu
+kaltinamas asmuo yra kaltas.
  
 43
 straipsnis. Vertėjas
@@ -542,14 +570,16 @@ suprantantis asmuo, ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio
 tyrimo teisėjo ar teismo pakviestas dalyvauti procese šio Kodekso nustatyta
 tvarka.
  
-III skyrius
+III
+skyrius
 Proceso dalyvių teisių užtikrinimas
  
-PIRMASIS SKIRSNIS
+PIRMASIS
+SKIRSNIS
 Asmens teisių užtikrinimo pagrindai
  
-44
-straipsnis. Asmens teisių apsauga baudžiamojo proceso metu
+44 straipsnis. Asmens teisių apsauga
+baudžiamojo proceso metu
 1. Niekam negali
 būti atimta laisvė kitaip kaip šio Kodekso numatytais atvejais ir nustatyta
 tvarka.
@@ -557,8 +587,8 @@ tvarka.
 sulaikytajam ar suimtajam nedelsiant jam suprantama kalba turi būti pranešama,
 dėl ko jis sulaikomas ar suimamas.
 3. Kiekvienas
-sulaikytasis ar suimtasis turi teisę kreiptis į teismą, skųsdamasis, kad neteisingai
-sulaikytas ar suimtas.
+sulaikytasis ar suimtasis turi teisę kreiptis į teismą, skųsdamasis, kad
+neteisingai sulaikytas ar suimtas.
 4. Kiekvienas
 asmuo, kuris buvo nepagrįstai sulaikytas ar suimtas, turi teisę į žalos
 atlyginimą įstatymų nustatyta tvarka.
@@ -582,32 +612,34 @@ nusikalstamos veikos padarymu įtariamas ar kaltinamas asmuo gali gintis pats
 arba per pasirinktą gynėją, o neturėdamas pakankamai lėšų gynėjui atsilyginti
 turi nemokamai gauti teisinę pagalbą įstatymo, reglamentuojančio valstybės
 garantuojamos teisinės pagalbos teikimą, nustatyta tvarka.
-9. Kiekvienas asmuo turi teisę, kad būtų gerbiamas jo ir jo
-šeimos privatus gyvenimas, taip pat teisę į būsto neliečiamybę, susirašinėjimo,
-telefoninių pokalbių, telegrafo pranešimų ir kitokio susižinojimo slaptumą.
-Šios asmens teisės baudžiamojo proceso metu gali būti apribotos šio Kodekso numatytais atvejais ir tvarka.
+9. Kiekvienas
+asmuo turi teisę, kad būtų gerbiamas jo ir jo šeimos privatus gyvenimas, taip
+pat teisę į būsto neliečiamybę, susirašinėjimo, telefoninių pokalbių, telegrafo
+pranešimų ir kitokio susižinojimo slaptumą. Šios asmens teisės baudžiamojo proceso metu gali būti apribotos šio Kodekso
+numatytais atvejais ir tvarka.
 10. Kiekvienas
 asmuo, pripažintas nukentėjusiuoju, turi teisę reikalauti, kad būtų nustatytas
 ir teisingai nubaustas nusikalstamą veiką padaręs asmuo, taip pat gauti dėl
 nusikalstamos veikos padarytos žalos atlyginimą.
  
-45
-straipsnis. Pareiga išaiškinti proceso dalyviams jų teises ir jas užtikrinti
+45 straipsnis. Pareiga išaiškinti
+proceso dalyviams jų teises ir jas užtikrinti
 Teisėjas,
 prokuroras ir ikiteisminio tyrimo pareigūnas privalo išaiškinti proceso
 dalyviams jų procesines teises ir užtikrinti galimybę jomis pasinaudoti.
  
-46
-straipsnis. Prokuroro ir teisėjo pareiga išaiškinti asmeniui neteisėtais
-veiksmais pažeistų teisių atkūrimo ir žalos atlyginimo tvarką
+46 straipsnis. Prokuroro ir teisėjo
+pareiga išaiškinti asmeniui neteisėtais veiksmais pažeistų teisių atkūrimo ir
+žalos atlyginimo tvarką
 Kai
 baudžiamasis procesas nutraukiamas dėl to, kad nenustatyta nusikaltimo ar
-baudžiamojo nusižengimo požymių, o asmuo buvo
-suimtas, taip pat kai priimamas išteisinamasis nuosprendis, prokuroras ir
+baudžiamojo nusižengimo požymių, o asmuo
+buvo suimtas, taip pat kai priimamas išteisinamasis nuosprendis, prokuroras ir
 teisėjas privalo išaiškinti asmeniui dėl neteisėto sulaikymo, suėmimo ar
 nuteisimo pažeistų teisių atkūrimo ir žalos atlyginimo tvarką.
  
-ANTRASIS SKIRSNIS
+ANTRASIS
+SKIRSNIS
 Gynyba
  
 47
@@ -616,12 +648,13 @@ straipsnis. Gynėjas
 advokatai. Tas pats advokatas negali būti dviejų ar daugiau asmenų gynėju,
 jeigu vieno iš jų gynybos interesai prieštarauja kito gynybos interesams.
 2. Advokato
-pavedimu gynėju gali būti advokato padėjėjas, jeigu tam neprieštarauja ginamasis.
-Advokato padėjėjas negali būti gynėju nagrinėjant teisme bylą dėl sunkaus ar
-labai sunkaus nusikaltimo.
+pavedimu gynėju gali būti advokato padėjėjas, jeigu tam neprieštarauja
+ginamasis. Advokato padėjėjas negali būti gynėju nagrinėjant teisme bylą dėl
+sunkaus ar labai sunkaus nusikaltimo.
 3. Vienas asmuo
 gali turėti kelis gynėjus. Tais atvejais, kai įtariamasis ar kaltinamasis turi
-kelis gynėjus ir bent vienas iš jų atvyksta dalyvauti procese, procesas gali vykti.
+kelis gynėjus ir bent vienas iš jų atvyksta
+dalyvauti procese, procesas gali vykti.
  
 48
 straipsnis. Gynėjo teisės ir pareigos
@@ -632,7 +665,8 @@ su įtariamojo sulaikymo protokolu;
 2) dalyvauti
 įtariamojo apklausose;
 3) matytis su
-sulaikytu arba suimtu įtariamuoju be pašaliečių. Šių pasimatymų skaičius ir trukmė neribojami;
+sulaikytu arba suimtu įtariamuoju be
+pašaliečių. Šių pasimatymų skaičius ir trukmė neribojami;
 4) dalyvauti
 veiksmuose, kurie atliekami su įtariamuoju, taip pat įtariamojo arba jo gynėjo
 prašymu atliekamuose veiksmuose;
@@ -642,9 +676,10 @@ tyrimo pareigūno, prokuroro ar teisėjo leidimu dalyvauti bet kokiuose kituose
 6)
 savarankiškai rinkti gynybai reikalingus duomenis, kuriuos gynėjas gali gauti
 nesinaudodamas procesinėmis prievartos priemonėmis: gauti iš įmonių, įstaigų ir
-organizacijų bei asmenų gynybai reikalingus dokumentus ir daiktus, kalbėtis su asmenimis apie jiems žinomas įvykio
-aplinkybes, apžiūrėti ir fotografuoti įvykio vietą, transporto priemones ar
-kitaip fiksuoti gynybai reikalingą informaciją;
+organizacijų bei asmenų gynybai reikalingus dokumentus
+ir daiktus, kalbėtis su asmenimis apie jiems žinomas įvykio aplinkybes,
+apžiūrėti ir fotografuoti įvykio vietą, transporto priemones ar kitaip fiksuoti
+gynybai reikalingą informaciją;
 7) ikiteisminio
 tyrimo metu susipažinti su proceso veiksmų dokumentais šio Kodekso nustatytais
 atvejais ir tvarka;
@@ -660,12 +695,11 @@ privalo:
 visas įstatymuose nurodytas gynybos priemones ir būdus, kad būtų nustatytos
 aplinkybės, teisinančios ginamąjį ar lengvinančios jo atsakomybę, ir teikti
 ginamajam reikiamą teisinę pagalbą;
-2)
-nurodytu laiku atvykti pas ikiteisminio tyrimo pareigūną, prokurorą ir į
-teismą; negalėdamas atvykti apie neatvykimą ir jo priežastis iš anksto pranešti
-ikiteisminio tyrimo pareigūnui, prokurorui ar teismui; be svarbios priežasties
-neatvykusiam gynėjui gali būti skiriama šio Kodekso 163 straipsnyje numatyta
-bauda;
+2) nurodytu laiku atvykti pas ikiteisminio
+tyrimo pareigūną, prokurorą ir į teismą; negalėdamas atvykti apie neatvykimą ir
+jo priežastis iš anksto pranešti ikiteisminio tyrimo pareigūnui, prokurorui ar
+teismui; be svarbios priežasties neatvykusiam gynėjui gali būti skiriama šio
+Kodekso 163 straipsnyje numatyta bauda;
 3) laikytis
 įstatymų nustatytos proceso veiksmų ir teismo posėdžio tvarkos, vykdyti
 teisėtus ikiteisminio tyrimo pareigūno, prokuroro, teisėjo ir teismo
@@ -673,19 +707,18 @@ reikalavimus;
 4) saugoti
 profesinę paslaptį; advokatas ir jo padėjėjas neturi teisės paskelbti žinių,
 kurias sužinojo vykdydami gynėjo pareigas;
-5)
-neatsisakyti ginti įtariamojo, kaltinamojo ar nuteistojo, kurį jau apsiėmė
-ginti, išskyrus tuos atvejus, kai paaiškėja šio Kodekso 61 straipsnio 1 dalyje
-nurodytos aplinkybės arba kai gynėjo dalyvavimas keliose bylose tampa
-nesuderinamas;
+5) neatsisakyti ginti įtariamojo, kaltinamojo
+ar nuteistojo, kurį jau apsiėmė ginti, išskyrus tuos atvejus, kai paaiškėja šio
+Kodekso 61 straipsnio 1 dalyje nurodytos aplinkybės arba kai gynėjo dalyvavimas
+keliose bylose tampa nesuderinamas;
 6) nenaudoti
 neteisėtų gynybos priemonių.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-49
-straipsnis. Neteisėtas gynybos priemones naudojančio gynėjo nušalinimas 
+49 straipsnis. Neteisėtas gynybos
+priemones naudojančio gynėjo nušalinimas 
 1. Ikiteisminio
 tyrimo metu prokuroras, o teismo proceso metu bylą nagrinėjantis teismas,
 nustatę, kad gynėjas naudoja neteisėtas gynybos priemones, turi teisę nušalinti
@@ -704,28 +737,26 @@ teismas privalo išaiškinti įtariamajam ir kaltinamajam jo teisę turėti gyn�
 nuo sulaikymo ar pirmosios apklausos momento ir suteikti galimybę šia teise
 pasinaudoti. Dėl įtariamojo ar kaltinamojo prašymo turėti gynėją arba dėl
 gynėjo atsisakymo surašomas protokolas.
-2. Įtariamasis,
-kaltinamasis ir nuteistasis turi teisę
+2. Įtariamasis, kaltinamasis ir nuteistasis turi teisę
 pasirinkti ir pasikviesti sau tinkamą gynėją. Įtariamojo, kaltinamojo ar
 nuteistojo pavedimu gynėją gali pakviesti jų atstovai pagal įstatymą arba kiti
 asmenys, kuriems įtariamasis, kaltinamasis ar nuteistasis tai paveda.
-3. Jei įtariamasis,
-kaltinamasis ar nuteistasis prašo, gynėjo dalyvavimą užtikrina ikiteisminio
-tyrimo pareigūnas, prokuroras ar teismas.
-4. Tais
-atvejais, kai įtariamojo, kaltinamojo ar nuteistojo pasirinktas gynėjas daugiau
-kaip tris dienas iš eilės negali dalyvauti procese, ikiteisminio tyrimo
-pareigūnas, prokuroras ir teisėjas turi teisę pasiūlyti įtariamajam,
-kaltinamajam ar nuteistajam pasikviesti kitą gynėją, o jei šie to nepadaro,
-privalo gynėją paskirti. Jeigu įtariamojo, kaltinamojo ar nuteistojo
-pasirinktas gynėjas negali per šešias valandas atvykti dalyvauti pirmojoje
-apklausoje arba apklausoje dėl suėmimo pagrįstumo, ikiteisminio tyrimo
-pareigūnas, prokuroras ar teismas turi teisę pasiūlyti įtariamajam,
-kaltinamajam ar nuteistajam į šią apklausą pasikviesti kitą gynėją, o jei šie
-to nepadaro, privalo pats paskirti ir pakviesti budintį advokatą. Pagal šią
-dalį gynėjas yra paskiriamas neatsižvelgiant į ginamojo norus turėti konkretų
-advokatą. Naujo gynėjo paskyrimas netrukdo bylos procese dalyvauti asmens anksčiau
-pasirinktam gynėjui.
+3. Jei
+įtariamasis, kaltinamasis ar nuteistasis prašo, gynėjo dalyvavimą užtikrina
+ikiteisminio tyrimo pareigūnas, prokuroras ar teismas.
+4. Tais atvejais, kai įtariamojo, kaltinamojo
+ar nuteistojo pasirinktas gynėjas daugiau kaip tris dienas iš eilės negali
+dalyvauti procese, ikiteisminio tyrimo pareigūnas, prokuroras ir teisėjas turi
+teisę pasiūlyti įtariamajam, kaltinamajam ar nuteistajam pasikviesti kitą
+gynėją, o jei šie to nepadaro, privalo gynėją paskirti. Jeigu įtariamojo,
+kaltinamojo ar nuteistojo pasirinktas gynėjas negali per šešias valandas
+atvykti dalyvauti pirmojoje apklausoje arba apklausoje dėl suėmimo pagrįstumo,
+ikiteisminio tyrimo pareigūnas, prokuroras ar teismas turi teisę pasiūlyti
+įtariamajam, kaltinamajam ar nuteistajam į šią apklausą pasikviesti kitą
+gynėją, o jei šie to nepadaro, privalo pats paskirti ir pakviesti budintį
+advokatą. Pagal šią dalį gynėjas yra paskiriamas neatsižvelgiant į ginamojo
+norus turėti konkretų advokatą. Naujo gynėjo paskyrimas netrukdo bylos procese dalyvauti
+asmens anksčiau pasirinktam gynėjui.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
@@ -751,21 +782,24 @@ gyvos galvos;
 XXXII skyriuje nustatyta tvarka nagrinėjant bylą kaltinamajam nedalyvaujant;
 7) tiriant ir
 nagrinėjant bylas, kai įtariamasis ar kaltinamasis yra suimtas;
-8) kai
-sprendžiama dėl asmens išdavimo (ekstradicijos) arba perdavimo Tarptautiniam
-baudžiamajam teismui.
+8) kai sprendžiama dėl asmens
+išdavimo (ekstradicijos) arba perdavimo Tarptautiniam baudžiamajam teismui ar
+pagal Europos arešto orderį.
 2. Šio
 straipsnio 1 dalyje nenurodytais atvejais nagrinėjant bylą teisme gynėjas
 dalyvauja, jeigu gynėjo pageidauja kaltinamasis.
 3. Ikiteisminio
-tyrimo pareigūnas, prokuroras ar teismas turi teisę pripažinti, kad gynėjo
-dalyvavimas būtinas ir kitais atvejais, jeigu, jų nuomone, be gynėjo
-pagalbos įtariamojo ar kaltinamojo teisės ir teisėti interesai nebūtų reikiamai
-ginami.
+tyrimo pareigūnas, prokuroras ar teismas turi teisę pripažinti, kad gynėjo dalyvavimas
+būtinas ir kitais atvejais, jeigu, jų nuomone, be gynėjo pagalbos
+įtariamojo ar kaltinamojo teisės ir teisėti interesai nebūtų reikiamai ginami.
 4. Šiame
 straipsnyje nurodytais atvejais, jeigu gynėjo nėra pasikvietęs pats
-įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu nėra pakvietę kiti asmenys, ikiteisminio tyrimo
+įtariamasis, kaltinamasis ar nuteistasis
+arba jų pavedimu ar sutikimu nėra pakvietę kiti asmenys, ikiteisminio tyrimo
 pareigūnas, prokuroras ar teismas privalo paskirti gynėją.
+Straipsnio pakeitimai:
+Nr. IX-2170, 2004-04-27,
+Žin., 2004, Nr. 72-2493 (2004-04-30)
  
 52
 straipsnis. Atsisakymas gynėjo
@@ -773,13 +807,13 @@ straipsnis. Atsisakymas gynėjo
 turi teisę atsisakyti gynėjo, išskyrus šio Kodekso 433 straipsnyje numatytą
 atvejį. Atsisakyti gynėjo leidžiama tik paties įtariamojo ar kaltinamojo
 iniciatyva. Dėl gynėjo atsisakymo surašomas protokolas.
-2.
-Ikiteisminio tyrimo pareigūnui, prokurorui ir teismui neprivalomas nepilnamečio
-arba asmens, kuris dėl fizinių ar psichinių trūkumų negali pats pasinaudoti
-teise į gynybą, taip pat proceso kalbos nemokančio asmens ar asmens, įtariamo
-ar kaltinamo sunkaus ar labai sunkaus nusikaltimo padarymu, kai dėl bylos
-sudėtingumo ar didelės apimties arba kitais atvejais kyla abejonių dėl šio
-asmens galimybės pasinaudoti teise į gynybą, pareikštas atsisakymas gynėjo.
+2. Ikiteisminio tyrimo pareigūnui, prokurorui
+ir teismui neprivalomas nepilnamečio arba asmens, kuris dėl fizinių ar
+psichinių trūkumų negali pats pasinaudoti teise į gynybą, taip pat proceso
+kalbos nemokančio asmens ar asmens, įtariamo ar kaltinamo sunkaus ar labai
+sunkaus nusikaltimo padarymu, kai dėl bylos sudėtingumo ar didelės apimties
+arba kitais atvejais kyla abejonių dėl šio asmens galimybės pasinaudoti teise į
+gynybą, pareikštas atsisakymas gynėjo.
 3. Atsisakymas
 gynėjo neatima iš įtariamojo, kaltinamojo ar nuteistojo teisės vėliau bet
 kuriuo proceso metu vėl turėti gynėją.
@@ -787,16 +821,18 @@ Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-TREČIASIS SKIRSNIS
+TREČIASIS
+SKIRSNIS
 Atstovavimas
  
 53
 straipsnis. Atstovai pagal įstatymą
 1. Įtariamojo,
-kaltinamojo, nuteistojo arba nukentėjusiojo atstovai pagal įstatymą gali dalyvauti procese ir ginti savo
-atstovaujamų proceso dalyvių interesus, jeigu šie yra nepilnamečiai arba
-nustatyta tvarka pripažinti neveiksniais, išskyrus atvejus, kai tai
-prieštarautų nepilnamečio ar neveiksnaus asmens interesams.
+kaltinamojo, nuteistojo arba nukentėjusiojo atstovai pagal įstatymą gali
+dalyvauti procese ir ginti savo atstovaujamų
+proceso dalyvių interesus, jeigu šie yra nepilnamečiai arba nustatyta tvarka
+pripažinti neveiksniais, išskyrus atvejus, kai tai prieštarautų nepilnamečio ar
+neveiksnaus asmens interesams.
 2. Atstovais
 pagal įstatymą gali būti nepilnamečio arba neveiksnaus įtariamojo, kaltinamojo,
 nuteistojo ir nukentėjusiojo tėvai, įtėviai, globėjai, rūpintojai arba
@@ -816,27 +852,25 @@ paskirti atstovu bet kokį kitą asmenį, galintį tinkamai atstovauti nepilname
 ar neveiksnaus asmens interesams.
  
 54
-straipsnis. Atstovo pagal įstatymą teisės ir pareigos
+straipsnis. Atstovo pagal įstatymą teisės ir
+pareigos
 1. Atstovas
 pagal įstatymą turi teisę dalyvauti atliekant proceso veiksmus, kuriuose
-dalyvauja jo atstovaujamas asmuo, ir padėti
-šiam asmeniui pasinaudoti įstatymų suteiktomis teisėmis. Jeigu atstovaujamas
-asmuo yra suimtas, atstovas pagal įstatymą gali su juo pasimatyti ikiteisminio
-tyrimo pareigūno, prokuroro, teisėjo leidimu.
+dalyvauja jo atstovaujamas asmuo, ir padėti šiam asmeniui pasinaudoti įstatymų suteiktomis teisėmis. Jeigu
+atstovaujamas asmuo yra suimtas, atstovas pagal įstatymą gali su juo pasimatyti
+ikiteisminio tyrimo pareigūno, prokuroro, teisėjo leidimu.
 2. Atstovas
-pagal įstatymą šaukiamas privalo atvykti pas
-ikiteisminio tyrimo pareigūną, prokurorą, teisėją ir į teismą, ikiteisminio
-tyrimo ir nagrinėjimo teisme metu laikytis nustatytos tvarkos.
+pagal įstatymą šaukiamas privalo atvykti pas ikiteisminio tyrimo pareigūną, prokurorą, teisėją ir į teismą,
+ikiteisminio tyrimo ir nagrinėjimo teisme metu laikytis nustatytos tvarkos.
 3. Atstovas
-pagal įstatymą gali būti apklaustas kaip liudytojas, taip pat įtraukiamas į procesą kaip civilinis atsakovas. Šiais
-atvejais jis turi ir liudytojo ar civilinio atsakovo teises bei pareigas.
+pagal įstatymą gali būti apklaustas kaip liudytojas, taip pat įtraukiamas į
+procesą kaip civilinis atsakovas. Šiais atvejais jis turi ir liudytojo ar civilinio atsakovo teises bei pareigas.
  
 55
 straipsnis. Įgaliotieji atstovai
 1.
 Nukentėjusiojo, civilinio ieškovo ar civilinio atsakovo atstovu laikomas asmuo,
-teikiantis teisinę pagalbą šiems proceso
-dalyviams, ginantis jų teises ir teisėtus interesus.
+teikiantis teisinę pagalbą šiems proceso dalyviams, ginantis jų teises ir teisėtus interesus.
 2.
 Nukentėjusiojo, civilinio ieškovo ar civilinio atsakovo atstovu gali būti
 advokatas arba advokato pavedimu advokato padėjėjas, o ikiteisminio tyrimo
@@ -845,12 +879,11 @@ išsilavinimą turintis asmuo, kurį proceso dalyvis įgaliojo atstovauti savo
 interesams. Juridinio asmens atstovu gali būti juridinio asmens vadovas arba
 įgaliotas darbuotojas ar advokatas.
 3.
-Nukentėjusiojo, civilinio ieškovo ar
-civilinio atsakovo atstovui leidžiama dalyvauti procese nuo asmens pripažinimo
+Nukentėjusiojo, civilinio ieškovo ar civilinio atsakovo atstovui leidžiama
+dalyvauti procese nuo asmens pripažinimo
 nukentėjusiuoju, civiliniu ieškovu ar įtraukimo civiliniu atsakovu, kai
 ikiteisminio tyrimo pareigūnas ar prokuroras dėl atstovo dalyvavimo procese
-priima nutarimą, o teismas – nutartį.
-Atstovas gali dalyvauti procese kartu su atstovaujamu asmeniu arba vietoj jo.
+priima nutarimą, o teismas – nutartį. Atstovas gali dalyvauti procese kartu su atstovaujamu asmeniu arba vietoj jo.
 Nukentėjusysis, civilinis ieškovas ar civilinis atsakovas gali bet kuriuo metu
 atsisakyti atstovo paslaugų arba pasirinkti kitą atstovą.
 4. Įstatymų,
@@ -873,8 +906,7 @@ interesams; šaukiamas atvykti pas ikiteisminio tyrimo pareigūną, prokurorą,
 teisėją ir į teismą; ikiteisminio tyrimo ir nagrinėjimo teisme metu laikytis
 nustatytos tvarkos.
  
-Ketvirtasis
-skirsnis
+Ketvirtasis skirsnis
 Nušalinimas
  
 57
@@ -904,14 +936,13 @@ atstovas pagal įstatymą, nukentėjusiojo, privataus kaltintojo, civilinio
 ieškovo ar civilinio atsakovo atstovas;
 3) jis pats arba jo šeimos nariai
 ar giminaičiai yra suinteresuoti bylos baigtimi;
-4) proceso dalyviai
-motyvuotai nurodo kitokias aplinkybes, keliančias pagrįstų abejonių šio
-Kodekso 57 straipsnio 2 dalyje nurodyto asmens nešališkumu.
+4) proceso
+dalyviai motyvuotai nurodo kitokias aplinkybes, keliančias pagrįstų
+abejonių šio Kodekso 57 straipsnio 2 dalyje nurodyto asmens nešališkumu.
 2. Be to,
 teisėjas negali dalyvauti procese ar pakartotinai nagrinėti tą pačią bylą:
 1) jeigu jis
-tame procese dalyvavo kaip ikiteisminio tyrimo pareigūnas, prokuroras ar
-gynėjas;
+tame procese dalyvavo kaip ikiteisminio tyrimo pareigūnas, prokuroras ar gynėjas;
 2) jeigu jis
 sprendė įtariamojo suėmimo ar suėmimo pratęsimo klausimą, sankcionavo
 procesinių prievartos priemonių taikymą arba nagrinėjo proceso dalyvių skundus
@@ -921,9 +952,9 @@ priėmė nuosprendį pirmosios instancijos teisme, negali nagrinėti tą pačią
 apeliacine tvarka ir kasacine tvarka, taip pat iš naujo nagrinėti tą bylą
 pirmosios instancijos teisme tuo atveju, kai panaikintas jo priimtas
 nuosprendis;
-4) jeigu jis priėmė
-sprendimą apeliacinės instancijos teisme, negali nagrinėti tos bylos kasacine
-tvarka;
+4) jeigu jis
+priėmė sprendimą apeliacinės instancijos teisme, negali nagrinėti tos bylos
+kasacine tvarka;
 5) jeigu jis
 priėmė sprendimą kasacinės instancijos teisme, negali dalyvauti nagrinėjant tą
 bylą apeliacine tvarka;
@@ -939,8 +970,8 @@ eksperto ar specialisto pirmesnis dalyvavimas procese atitinkamai ikiteisminio
 tyrimo pareigūnu, prokuroru, teisiamojo posėdžio sekretoriumi, vertėju,
 ekspertu ar specialistu nėra pagrindas juos nušalinti.
  
-59 straipsnis.
-Nušalinimas teisme
+59
+straipsnis. Nušalinimas teisme
 1. Teisėjas,
 teisiamojo posėdžio sekretorius, vertėjas, ekspertas, specialistas ar
 prokuroras privalo nusišalinti šio Kodekso 58 straipsnyje nurodytais
@@ -982,8 +1013,8 @@ straipsnis. Nušalinimas ikiteisminio tyrimo metu
 1. Ikiteisminio
 tyrimo pareigūnas, prokuroras, ikiteisminio tyrimo teisėjas, vertėjas,
 ekspertas ar specialistas privalo nusišalinti šio Kodekso 58 straipsnyje
-nurodytais pagrindais. Advokatas arba advokato padėjėjas privalo nusišalinti, jei
-yra šio Kodekso 61 straipsnyje nurodyti pagrindai. Tokiu pat pagrindu jų
+nurodytais pagrindais. Advokatas arba advokato padėjėjas privalo nusišalinti,
+jei yra šio Kodekso 61 straipsnyje nurodyti pagrindai. Tokiu pat pagrindu jų
 nušalinimą gali pareikšti šio Kodekso 57 straipsnio 1 dalyje išvardyti asmenys.
 2. Nušalinimas turi būti pareiškiamas ir motyvuojamas
 raštu.
@@ -996,9 +1027,9 @@ pasirašytinai.
 ikiteisminio tyrimo pareigūno nušalinimo nusprendžia prokuroras. Dėl prokuroro
 nušalinimo nusprendžia ikiteisminio tyrimo teisėjas. Ikiteisminio tyrimo
 pareigūnas ar prokuroras per vieną dieną nuo to momento, kai gautas nušalinimo
-pareiškimas, perduoda jį atitinkamai prokurorui ar ikiteisminio tyrimo
-teisėjui. Prokuroras ar ikiteisminio tyrimo teisėjas privalo per dvi
-dienas išspręsti pareikšto nušalinimo klausimą. Jeigu nušalinimas atmetamas,
+pareiškimas, perduoda jį atitinkamai prokurorui ar ikiteisminio tyrimo teisėjui.
+Prokuroras ar ikiteisminio tyrimo teisėjas privalo per dvi dienas
+išspręsti pareikšto nušalinimo klausimą. Jeigu nušalinimas atmetamas,
 prokuroras priima nutarimą, o ikiteisminio tyrimo teisėjas – nutartį.
 Šie dokumentai pareiškėjui paskelbiami pasirašytinai.
 5. Dėl
@@ -1020,16 +1051,16 @@ tiriant arba nagrinėjant bylą dalyvauja pareigūnas, su kuriuo tas advokatas
 arba advokato padėjėjas turi giminystės ryšių.
 2. Dėl advokato
 arba advokato padėjėjo nušalinimo teisme nusprendžia nagrinėjantis bylą teismas
-šio Kodekso 59 straipsnyje nustatyta tvarka, o dėl nušalinimo ikiteisminio
-tyrimo metu – ikiteisminio tyrimo teisėjas šio Kodekso 60 straipsnyje nustatyta
+šio Kodekso 59 straipsnyje nustatyta tvarka, o dėl nušalinimo ikiteisminio tyrimo
+metu – ikiteisminio tyrimo teisėjas šio Kodekso 60 straipsnyje nustatyta
 tvarka.
  
-PENKTASIS SKIRSNIS
+PENKTASIS
+SKIRSNIS
 Apskundimas ikiteisminio tyrimo metu
  
-62
-straipsnis. Ikiteisminio tyrimo pareigūno proceso veiksmų ir nutarimų
-apskundimas
+62 straipsnis. Ikiteisminio tyrimo
+pareigūno proceso veiksmų ir nutarimų apskundimas
 1. Ikiteisminio
 tyrimo pareigūno proceso veiksmus ir nutarimus proceso dalyviai gali
 apskųsti ikiteisminio tyrimo pareigūną kontroliuojančiam prokurorui. Jei
@@ -1038,9 +1069,8 @@ ikiteisminio tyrimo teisėjui.
 2. Skundas paduodamas prokurorui tiesiogiai arba per
 ikiteisminio tyrimo pareigūną, dėl kurio proceso veiksmų ar nutarimų
 skundžiamasi. Skundai gali būti tiek rašytiniai, tiek žodiniai. Dėl žodinių
-skundų ikiteisminio tyrimo pareigūnas ar prokuroras surašo protokolą. Jį
-pasirašo pareiškėjas ir skundą priėmęs ikiteisminio tyrimo pareigūnas ar
-prokuroras.
+skundų ikiteisminio tyrimo pareigūnas ar prokuroras surašo protokolą. Jį pasirašo
+pareiškėjas ir skundą priėmęs ikiteisminio tyrimo pareigūnas ar prokuroras.
 3. Ikiteisminio
 tyrimo pareigūnas gautą skundą kartu su savo paaiškinimais privalo per vieną
 dieną nuo skundo gavimo perduoti prokurorui.
@@ -1056,10 +1086,10 @@ veiksmus ir nutarimus proceso dalyviai gali apskųsti aukštesniajam prokurorui.
 Jei aukštesnysis prokuroras atsisako patenkinti skundą, šis jo nutarimas gali
 būti skundžiamas ikiteisminio tyrimo teisėjui.
 2. Skundas
-paduodamas aukštesniajam prokurorui tiesiogiai arba per ikiteisminį tyrimą
-atliekantį prokurorą, dėl kurio veiksmų ar nutarimų skundžiamasi. Skundai gali
-būti tiek rašytiniai, tiek žodiniai. Dėl žodinių skundų prokuroras surašo protokolą. Jį pasirašo pareiškėjas ir skundą priėmęs
-prokuroras.
+paduodamas aukštesniajam prokurorui
+tiesiogiai arba per ikiteisminį tyrimą atliekantį prokurorą, dėl kurio veiksmų
+ar nutarimų skundžiamasi. Skundai gali būti tiek rašytiniai, tiek žodiniai. Dėl
+žodinių skundų prokuroras surašo protokolą. Jį pasirašo pareiškėjas ir skundą priėmęs prokuroras.
 3. Skundo
 padavimas iki jo išsprendimo nesustabdo skundžiamo veiksmo ar nutarimo vykdymo,
 išskyrus atvejus, jeigu tai padaryti pripažįsta esant reikalinga prokuroras.
@@ -1067,9 +1097,8 @@ išskyrus atvejus, jeigu tai padaryti pripažįsta esant reikalinga prokuroras.
 kuriems šis Kodeksas numato kitokią prokuroro proceso veiksmų ar nutarimų
 apskundimo tvarką. 
  
-64
-straipsnis. Skundų dėl ikiteisminio tyrimo pareigūno ar prokuroro proceso
-veiksmų ir nutarimų išsprendimas
+64 straipsnis. Skundų dėl ikiteisminio
+tyrimo pareigūno ar prokuroro proceso veiksmų ir nutarimų išsprendimas
 1. Skundai dėl
 ikiteisminio tyrimo pareigūno ar prokuroro proceso veiksmų ir nutarimų
 gali būti paduodami, kol vyksta ikiteisminis tyrimas, išskyrus šiame Kodekse
@@ -1083,8 +1112,8 @@ ir pasiūloma juos pašalinti, jei skundas atmetamas, – motyvai, dėl kurių
 skundas pripažintas nepagrįstu ir atmestas.
 3. Nagrinėdami
 skundą, prokuroras ir ikiteisminio tyrimo teisėjas turi teisę susipažinti su
-ikiteisminio tyrimo dokumentais ir pareikalauti ikiteisminio tyrimo pareigūno ar prokuroro paaiškinimų, jeigu jie nebuvo
-pateikti anksčiau.
+ikiteisminio tyrimo dokumentais ir pareikalauti ikiteisminio tyrimo pareigūno
+ar prokuroro paaiškinimų, jeigu jie nebuvo pateikti anksčiau.
 4. Ikiteisminio
 tyrimo teisėjui nagrinėjant skundą, gali dalyvauti prokuroras, įtariamojo
 gynėjas ir skundą padavęs asmuo. Suimtas įtariamasis pristatomas ikiteisminio
@@ -1097,15 +1126,15 @@ atliekančiam pareigūnui ar prokurorui vykdyti.
 6. Ikiteisminio tyrimo teisėjo sprendimas, priimtas
 šio straipsnio nustatyta tvarka, yra galutinis ir neskundžiamas.
  
-65
-straipsnis. Ikiteisminio tyrimo teisėjo proceso veiksmų ir nutarčių apskundimas
-ir skundų išsprendimas
+65 straipsnis. Ikiteisminio tyrimo
+teisėjo proceso veiksmų ir nutarčių apskundimas ir skundų išsprendimas
 1. Ikiteisminio
 tyrimo teisėjo atliekamus proceso veiksmus ir jo priimtas nutartis dėl
 procesinių prievartos priemonių taikymo proceso dalyviai gali apskųsti
 apylinkės teismo pirmininkui.
 2. Apylinkės
-teismo pirmininkas skundą privalo išnagrinėti per penkias dienas nuo jo gavimo. Nagrinėjant skundą, gali dalyvauti
+teismo pirmininkas skundą privalo išnagrinėti per penkias dienas nuo jo gavimo.
+Nagrinėjant skundą, gali dalyvauti
 prokuroras, įtariamojo gynėjas ir skundą padavęs asmuo. Suimtas įtariamasis
 pristatomas pas apylinkės teismo pirmininką, jeigu tai būtina.
 3. Šio
@@ -1113,13 +1142,14 @@ straipsnio nuostatos netaikomos tais atvejais, kuriems šis Kodeksas numato
 kitokią ikiteisminio tyrimo teisėjo proceso veiksmų ar nutarčių apskundimo
 tvarką.
  
-IV skyrius
+IV
+skyrius
 Lietuvos Respublikos teismų ir prokuratūros susižinojimas su
 užsienio valstybių įstaigomis ir tarptautinėmis organizacijomis
  
-66
-straipsnis. Lietuvos Respublikos teismų ir prokuratūros susižinojimo su
-užsienio valstybių įstaigomis ir tarptautinėmis organizacijomis tvarka
+66 straipsnis. Lietuvos Respublikos
+teismų ir prokuratūros susižinojimo su užsienio valstybių įstaigomis ir
+tarptautinėmis organizacijomis tvarka
 1. Lietuvos
 Respublikos teismų ir prokuratūros susižinojimo su užsienio valstybių
 įstaigomis ir tarptautinėmis organizacijomis tvarką, taip pat šių įstaigų ir
@@ -1127,15 +1157,15 @@ organizacijų prašymų vykdymo tvarką nustato šis Kodeksas ir Lietuvos
 Respublikos tarptautinės sutartys.
 2. Lietuvos
 Respublikos teismai ir prokuratūra prašymus užsienio valstybių įstaigoms ir
-tarptautinėms organizacijoms siunčia per Lietuvos Respublikos teisingumo
-ministeriją ar Lietuvos Respublikos generalinę prokuratūrą. Lietuvos
-Respublikos tarptautinių sutarčių numatytais atvejais Lietuvos Respublikos
-teismai, prokuratūra ir ikiteisminio tyrimo įstaigos prašymus užsienio
-valstybių įstaigoms ir tarptautinėms organizacijoms gali siųsti tiesiogiai.
+tarptautinėms organizacijoms siunčia per Lietuvos Respublikos teisingumo ministeriją
+ar Lietuvos Respublikos generalinę prokuratūrą. Lietuvos Respublikos
+tarptautinių sutarčių numatytais atvejais Lietuvos Respublikos teismai,
+prokuratūra ir ikiteisminio tyrimo įstaigos prašymus užsienio valstybių
+įstaigoms ir tarptautinėms organizacijoms gali siųsti tiesiogiai.
  
-67
-straipsnis. Užsienio valstybių įstaigų ir tarptautinių organizacijų prašymų dėl
-proceso veiksmų atlikimo vykdymas
+67 straipsnis. Užsienio valstybių
+įstaigų ir tarptautinių organizacijų prašymų dėl proceso veiksmų atlikimo
+vykdymas
 1. Lietuvos
 Respublikos teismai, prokuratūra ar ikiteisminio tyrimo įstaigos, vykdydamos
 užsienio valstybių įstaigų ir tarptautinių organizacijų prašymus, atlieka šiame
@@ -1166,10 +1196,11 @@ Respublikos teritorijoje leidžiama atlikti proceso veiksmus tik Lietuvos
 Respublikos tarptautinėje sutartyje numatytais atvejais ir dalyvaujant Lietuvos
 Respublikos pareigūnams.
 5. Lietuvos
-Respublikos tarptautinėje sutartyje numatytais atvejais Lietuvos Respublikos teismai,
-prokuratūra, ikiteisminio tyrimo įstaigos vykdo tiesiogiai gautus užsienio
-valstybių įstaigų ir tarptautinių organizacijų prašymus bei tiesiogiai užsienio
-valstybėms ir tarptautinėms organizacijoms siunčia atsakymus į prašymus.
+Respublikos tarptautinėje sutartyje numatytais atvejais Lietuvos Respublikos
+teismai, prokuratūra, ikiteisminio tyrimo įstaigos vykdo tiesiogiai gautus
+užsienio valstybių įstaigų ir tarptautinių organizacijų prašymus bei tiesiogiai
+užsienio valstybėms ir tarptautinėms organizacijoms siunčia atsakymus į
+prašymus.
  
 68
 straipsnis. Prašymas pradėti arba perimti baudžiamąjį persekiojimą
@@ -1184,9 +1215,9 @@ Lietuvos Respublikos generalinė prokuratūra patikrindama to prašymo pagrįstu
 Apie patikrinimo rezultatus pranešama prašymą atsiuntusiai užsienio valstybės
 įstaigai ar tarptautinei organizacijai. Jeigu dėl užsienio valstybės įstaigos
 ar tarptautinės organizacijos prašyme nurodyto asmens veikos Lietuvos
-Respublikoje jau išnagrinėta baudžiamoji byla, priimtas nuosprendis ir jis
-įsiteisėjo, kartu su pranešimu išsiunčiamas išverstas į užsienio kalbą ir
-reikiamai patvirtintas to nuosprendžio nuorašas.
+Respublikoje jau išnagrinėta baudžiamoji byla, priimtas nuosprendis ir jis įsiteisėjo,
+kartu su pranešimu išsiunčiamas išverstas į užsienio kalbą ir reikiamai
+patvirtintas to nuosprendžio nuorašas.
 3. Jeigu
 Lietuvos Respublikos teritorijoje nusikalstamą veiką padarė užsienio valstybės
 pilietis ar kitas asmuo ir po to išvyko iš Lietuvos Respublikos, ikiteisminio
@@ -1203,27 +1234,99 @@ ministerija kreipiasi į užsienio valstybės įstaigą prašydama išduoti Liet
 Respublikos pilietį arba kitą asmenį, jeigu pradėtas jo baudžiamasis
 persekiojimas arba priimtas apkaltinamasis nuosprendis.
 2. Lietuvos
-Respublikos prašyme išduoti asmenį nurodoma:
-įtariamojo (kaltinamojo, nuteistojo) pavardė, vardas, gimimo metai, asmens
-kodas, pilietybė; padarytos nusikalstamos veikos aplinkybės; Lietuvos
+Respublikos prašyme išduoti asmenį nurodoma: įtariamojo (kaltinamojo,
+nuteistojo) pavardė, vardas, gimimo metai,
+asmens kodas, pilietybė; padarytos nusikalstamos veikos aplinkybės; Lietuvos
 Respublikos baudžiamojo kodekso straipsnio, numatančio padarytą nusikalstamą
-veiką, tekstas; įtariamojo (kaltinamojo,
-nuteistojo) išorės požymiai. Prie prašymo pridedama prašomo išduoti asmens
+veiką, tekstas; įtariamojo (kaltinamojo, nuteistojo) išorės požymiai. Prie prašymo pridedama prašomo išduoti asmens
 nuotrauka, į užsienio kalbą išverstas ir reikiamai patvirtintas nuosprendžio
 nuorašas, taip pat kiti Lietuvos Respublikos tarptautinėse sutartyse numatyti
 dokumentai.
  
-70
-straipsnis. Užsienio valstybės išduoto asmens baudžiamosios atsakomybės ribos
-Užsienio valstybės išduotas asmuo negali būti Lietuvos
-Respublikoje patrauktas baudžiamojon atsakomybėn ir nuteistas, taip pat
-perduodamas trečiajai valstybei ar Tarptautiniam baudžiamajam teismui už iki
-išdavimo padarytą nusikalstamą veiką, už kurią nebuvo išduotas, jeigu nėra
-asmenį išdavusios užsienio valstybės sutikimo.
+69(1) straipsnis. Europos
+arešto orderio išdavimas dėl asmens perdavimo Lietuvos Respublikai
+1. Siekdama iš Europos Sąjungos valstybės narės
+perimti Lietuvos Respublikos pilietį arba kitą asmenį, kurio baudžiamasis
+persekiojimas yra pradėtas Lietuvos Respublikoje, Lietuvos Respublikos
+generalinė prokuratūra, gavusi teismo nutartį suimti asmenį, išduoda Europos
+arešto orderį ir kreipiasi į kompetentingą Europos Sąjungos valstybės narės
+instituciją, kad ši perduotų Europos arešto orderyje nurodytą asmenį. 
+2. Dėl Lietuvos
+Respublikos piliečio ar kito asmens, kuris Lietuvos Respublikoje įsiteisėjusiu
+apkaltinamuoju nuosprendžiu nuteistas laisvės atėmimo bausme, tačiau nuo
+bausmės atlikimo pasislėpė Europos Sąjungos valstybėje narėje, Europos arešto
+orderį išduoda ir į kompetentingą šios valstybės instituciją kreipiasi Lietuvos
+Respublikos teisingumo ministerija. 
+3. Europos
+arešto orderio išdavimo ir asmens perėmimo pagal Europos arešto orderį tvarką
+nustato Lietuvos Respublikos generalinis prokuroras ir Lietuvos Respublikos
+teisingumo ministras.
+Kodeksas
+papildytas straipsniu:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
  
-71
-straipsnis. Asmenų išdavimas iš Lietuvos Respublikos (ekstradicija) arba
-perdavimas Tarptautiniam baudžiamajam teismui
+70 straipsnis. Užsienio valstybės
+išduoto ar perduoto asmens baudžiamosios atsakomybės ribos
+1. Užsienio valstybės išduotas ar perduotas asmuo
+negali būti Lietuvos Respublikoje sulaikytas, traukiamas baudžiamojon
+atsakomybėn ir nuteistas už iki jo išdavimo ar perdavimo padarytą nusikalstamą
+veiką, už kurią nebuvo išduotas ar perduotas, išskyrus atvejus, kai:
+1) gautas asmenį
+išdavusios ar perdavusios užsienio valstybės sutikimas;
+2) asmuo,
+turėdamas galimybę išvykti iš Lietuvos Respublikos, ja nepasinaudojo per
+keturiasdešimt penkias dienas ar per kitą Lietuvos Respublikos tarptautinėje
+sutartyje nurodytą terminą arba palikęs Lietuvos Respublikos teritoriją vėl į
+ją sugrįžo;
+3) asmuo prieš
+perdavimą pagal Europos arešto orderį sutiko, kad jis gali būti persekiojamas
+ir dėl kitų nusikalstamų veikų, padarytų iki jo perdavimo;
+4) asmuo,
+perduotas pagal Europos arešto orderį, raštu sutinka, kad jis gali būti
+persekiojamas ir dėl kitų nusikalstamų veikų, padarytų iki jo perdavimo;
+5) asmuo buvo
+perduotas pagal Europos arešto orderį, bet už nusikalstamą veiką, padarytą iki
+asmens perdavimo, Lietuvos Respublikos įstatymai nenumato laisvės atėmimo ar
+arešto bausmės arba negali būti taikoma kardomoji priemonė – suėmimas;
+6) kitais
+Lietuvos Respublikos tarptautinėse sutartyse numatytais atvejais. 
+2. Užsienio
+valstybės išduotas ar perduotas asmuo už nusikalstamas veikas, dėl kurių jis
+buvo išduotas ar perduotas, bei kitas nusikalstamas veikas, padarytas iki jo
+išdavimo ar perdavimo, gali būti išduodamas ar perduodamas trečiajai valstybei
+tik šio straipsnio 1 dalies 1–4 ir 6 punktuose numatytais atvejais. 
+3. Prireikus
+Lietuvos Respublikos generalinė prokuratūra kreipiasi į asmenį išdavusią ar
+perdavusią užsienio valstybę dėl šio straipsnio 1 dalies 1 punkte numatyto
+sutikimo gavimo. 
+4. Jeigu
+užsienio valstybės pagal Europos arešto orderį perduotas asmuo raštu sutinka
+dėl jo baudžiamojo persekiojimo už kitas nusikalstamas veikas, padarytas iki jo
+perdavimo pagal Europos arešto orderį, ikiteisminiam tyrimui vadovaujantis
+prokuroras su pareiškimu kreipiasi į ikiteisminio tyrimo teisėją. Ikiteisminio
+tyrimo teisėjas per dešimt dienų turi surengti posėdį, kuriame privalo
+dalyvauti pagal Europos arešto orderį perduotas asmuo, jo gynėjas ir
+prokuroras. Posėdžio metu ikiteisminio tyrimo teisėjas patikrina, ar asmuo savo
+noru sutinka būti persekiojamas už nusikalstamas veikas, dėl kurių jis nebuvo
+perduotas pagal Europos arešto orderį, ir žino teisines tokio sutikimo
+pasekmes. Nustatęs, kad asmuo savo noru sutinka būti persekiojamas už tokias
+nusikalstamas veikas ir žino teisines tokio sutikimo pasekmes, ikiteisminio
+tyrimo teisėjas priima nutartį dėl asmens baudžiamojo persekiojimo už
+nusikalstamas veikas, dėl kurių jis nebuvo perduotas pagal Europos arešto
+orderį. 
+5. Jeigu
+užsienio valstybės pagal Europos arešto orderį perduotas asmuo sutinka būti
+išduotas ar perduotas trečiajai valstybei už nusikalstamas veikas, padarytas
+iki jo perdavimo Lietuvos Respublikai, jis išduodamas (perduodamas) trečiajai
+valstybei šio Kodekso 75 straipsnyje nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
+ 
+71 straipsnis. Asmenų išdavimas iš
+Lietuvos Respublikos (ekstradicija) arba perdavimas Tarptautiniam baudžiamajam
+teismui
 1. Lietuvos Respublikos pilietis, įtariamas padaręs
 nusikalstamą veiką, gali būti išduotas užsienio valstybei arba perduotas
 Tarptautiniam baudžiamajam teismui tik tuo atveju, jei šį įpareigojimą nustato
@@ -1236,8 +1339,8 @@ jei šį įpareigojimą nustato Lietuvos Respublikos tarptautinė sutartis ar
 Jungtinių Tautų Organizacijos Saugumo Tarybos rezoliucija.
 3. Lietuvos
 Respublikos pilietis ar užsienietis gali būti neišduodamas, jeigu:
-1) padaryta veika
-pagal Lietuvos Respublikos baudžiamąjį kodeksą nelaikoma nusikaltimu ar
+1) padaryta
+veika pagal Lietuvos Respublikos baudžiamąjį kodeksą nelaikoma nusikaltimu ar
 baudžiamuoju nusižengimu;
 2) nusikalstama
 veika padaryta Lietuvos valstybės teritorijoje;
@@ -1261,96 +1364,261 @@ Respublikos baudžiamuosius įstatymus nebaudžiami ir užsienio valstybėms
 neišduodami, išskyrus Lietuvos Respublikos baudžiamojo kodekso 7 straipsnyje
 numatytus atvejus.
  
-72
-straipsnis. Asmenų, kuriuos prašoma išduoti iš Lietuvos Respublikos arba
-perduoti Tarptautiniam baudžiamajam teismui, suėmimas
+71(1) straipsnis. Asmens perdavimas pagal
+Europos arešto orderį 
+1. Lietuvos
+Respublikos pilietis ar užsienietis, Europos arešto orderį išdavusioje
+valstybėje įtariamas padaręs nusikalstamą veiką arba neatlikęs šioje valstybėje
+paskirtos su laisvės atėmimu susijusios bausmės, Lietuvos Respublikos
+baudžiamojo kodekso 9(1) straipsnyje numatytais pagrindais ir
+sąlygomis perduodamas Europos arešto orderį išdavusiai valstybei. 
+2. Asmuo Europos
+arešto orderį išdavusiai valstybei perduodamas šio Kodekso 72–77 straipsniuose
+nustatyta tvarka. Jeigu asmuo sutiko būti perduotas Europos arešto orderį
+išdavusiai valstybei, sprendimas dėl jo perdavimo
+turi būti priimtas ne vėliau kaip per dešimt dienų nuo jo rašytinio sutikimo
+dienos. Kitais atvejais sprendimas dėl asmens perdavimo turi būti priimtas ne
+vėliau kaip per šešiasdešimt dienų nuo jo suėmimo dienos.
+3. Išimtiniais
+atvejais šio straipsnio 2 dalyje nustatyti terminai gali būti pratęsti iki
+trisdešimties dienų, tačiau apie pratęsimo priežastis būtina nedelsiant
+pranešti Europos arešto orderį išdavusios valstybės institucijai. Jeigu
+ypatingais atvejais ir pratęstas terminas nėra pakankamas, apie uždelsimo
+priežastis turi būti pranešama Europos Sąjungos baudžiamojo persekiojimo
+institucijai (Eurojustui). 
+4. Jeigu Europos
+arešto orderis išduotas dėl asmens, pagal tarptautinės teisės normas turinčio
+imunitetą nuo baudžiamosios jurisdikcijos, arba jeigu nėra kompetentingos
+institucijos leidimo patraukti baudžiamojon atsakomybėn asmenį, kai šis
+leidimas pagal įstatymus būtinas, šio straipsnio 2 ir 3 dalyse nurodyti
+terminai prasideda nuo to laiko, kada šis asmuo prarado imunitetą ar kada
+gautas kompetentingos institucijos leidimas. Lietuvos Respublikos generalinė
+prokuratūra privalo kreiptis į kompetentingą Lietuvos Respublikos instituciją
+dėl tokio leidimo suteikimo ar imuniteto panaikinimo. 
+5. Asmuo Europos
+arešto orderį išdavusiai valstybei perduodamas tik dėl baudžiamojo persekiojimo
+už tame orderyje nurodytą nusikalstamą veiką ar paskirtos bausmės vykdymo.
+Jeigu užsienio valstybė kartu su išduotu Europos arešto orderiu pateikia
+prašymą perduoti asmenį ir dėl jo baudžiamojo persekiojimo ar paskirtos bausmės
+vykdymo už nusikalstamą veiką, dėl kurios negali būti išduodamas Europos arešto
+orderis, šis prašymas nagrinėjamas kartu su Europos arešto orderiu. Sprendimą
+dėl asmens perdavimo pagal Europos arešto orderį priimantis teismas gali
+sutikti, kad asmuo būtų perduotas ir dėl šios nusikalstamos veikos, jeigu ji
+pripažįstama nusikalstama pagal Lietuvos Respublikos baudžiamuosius įstatymus. 
+6. Jeigu
+užsienio valstybė po to, kai Lietuvos Respublika jai perdavė asmenį pagal
+Europos arešto orderį, pateikia prašymą dėl šio asmens baudžiamojo persekiojimo
+ar paskirtos bausmės vykdymo už nusikalstamą veiką, dėl kurios jis nebuvo
+perduotas pagal Europos arešto orderį, arba prašymą dėl šio asmens perdavimo ar
+išdavimo trečiajai valstybei, šį prašymą nagrinėja ir sutikimą duoda Lietuvos
+Respublikos generalinė prokuratūra. Lietuvos Respublikos generalinė prokuratūra
+gali motyvuotai nesutikti dėl asmens baudžiamojo persekiojimo ar bausmės
+vykdymo už nusikalstamą veiką, dėl kurios nebuvo išduotas Europos arešto orderis,
+arba dėl asmens perdavimo kitai Europos Sąjungos valstybei narei, jeigu yra
+Lietuvos Respublikos baudžiamojo kodekso 9(1) straipsnyje nustatyti
+Europos arešto orderio nevykdymo pagrindai ir (ar) sąlygos. Sutikimas pagal
+Europos arešto orderį užsienio valstybei perduotą asmenį išduoti trečiajai (ne
+Europos Sąjungos) valstybei gali būti duodamas vadovaujantis Lietuvos
+Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. Lietuvos
+Respublikos generalinė prokuratūra sutikimą arba nesutikimą dėl asmens
+baudžiamojo persekiojimo, paskirtos bausmės vykdymo arba asmens perdavimo ar
+išdavimo trečiajai valstybei turi duoti per dvidešimt dienų nuo prašymo gavimo
+dienos. Lietuvos Respublikos generalinės prokuratūros sutikimą dėl pagal
+Europos arešto orderį užsienio valstybei perduoto asmens baudžiamojo
+persekiojimo ar paskirtos bausmės vykdymo už nusikalstamą veiką, dėl kurios jis
+nebuvo perduotas pagal Europos arešto orderį, arba dėl šio asmens perdavimo ar
+išdavimo trečiajai valstybei per dešimt dienų nutartimi patvirtina Vilniaus
+apygardos teismo teisėjas. 
+7. Europos
+arešto orderį išdavusios valstybės prašymu Lietuvos Respublikos generalinė
+prokuratūra užtikrina daiktų ir dokumentų, turinčių reikšmės nusikalstamai
+veikai tirti, ir asmens, dėl kurio išduotas Europos arešto orderis,
+nusikalstamu būdu įgyto turto paėmimą ir perdavimą Europos arešto orderį
+išdavusiai valstybei. Jeigu šie daiktai turi būti konfiskuojami ar perduodami
+teisėtiems savininkams pagal Lietuvos Respublikos įstatymus, Lietuvos Respublikos
+generalinė prokuratūra juos gali perduoti tik laikinai, kol jie reikalingi
+baudžiamajam procesui Europos arešto orderį išdavusioje valstybėje.
+Kodeksas
+papildytas straipsniu:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
+ 
+72 straipsnis. Kardomosios priemonės
+asmenims, kuriuos prašoma išduoti iš Lietuvos Respublikos arba perduoti
+Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį
 1. Asmenys,
 kuriuos prašoma išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam
-baudžiamajam teismui, suimami Lietuvos Respublikos tarptautinėse sutartyse ir šiame Kodekse numatytais pagrindais.
-2. Asmenims, kuriuos prašoma išduoti iš Lietuvos
-Respublikos arba perduoti Tarptautiniam baudžiamajam teismui, suėmimo skyrimo
-bei apskundimo tvarką nustato šis Kodeksas.
-3. Asmenų, kuriuos prašoma išduoti iš Lietuvos
-Respublikos arba perduoti Tarptautiniam baudžiamajam teismui, suėmimo trukmę
-nustato Lietuvos Respublikos tarptautinės sutartys bei šis Kodeksas.
+baudžiamajam teismui ar pagal Europos arešto orderį, suimami Lietuvos
+Respublikos tarptautinėse sutartyse ir šiame Kodekse numatytais pagrindais.
+2. Asmenims, kuriuos prašoma išduoti iš Lietuvos Respublikos
+arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto
+orderį, suėmimo skyrimo bei apskundimo tvarką nustato šis Kodeksas.
+3. Asmenų,
+kuriuos prašoma išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam
+baudžiamajam teismui ar pagal Europos arešto orderį, suėmimo trukmę nustato
+Lietuvos Respublikos tarptautinės sutartys bei šis Kodeksas.
+4. Asmenims,
+kuriuos prašoma išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam
+baudžiamajam teismui ar pagal Europos arešto orderį, gali būti taikomos ir
+kitos šiame Kodekse numatytos kardomosios priemonės, jeigu jų pakanka
+užtikrinti, kad asmuo nepabėgtų (nepasislėptų) nuo Lietuvos Respublikos
+teisėsaugos institucijų.
+Straipsnio pakeitimai:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
  
 73
-straipsnis. Asmenų išdavimo iš Lietuvos Respublikos tvarka
-1. Remdamasis
-Lietuvos Respublikos tarptautine sutartimi
-Lietuvos Respublikos generalinės prokuratūros prokuroras su pareiškimu dėl
-asmens išdavimo iš Lietuvos Respublikos arba perdavimo Tarptautiniam
-baudžiamajam teismui kreipiasi į Vilniaus apygardos teismą.
+straipsnis. Asmenų išdavimo (perdavimo) iš Lietuvos Respublikos tvarka
+1. Remdamasis Lietuvos
+Respublikos tarptautine sutartimi ar išduotu Europos arešto orderiu Lietuvos Respublikos generalinės prokuratūros
+prokuroras su pareiškimu dėl asmens išdavimo iš Lietuvos Respublikos arba
+perdavimo Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį
+kreipiasi į Vilniaus apygardos teismą.
 2. Vilniaus
-apygardos teismo teisėjas per septynias dienas turi surengti posėdį, į kurį
-šaukiami išduotinas asmuo, jo gynėjas ir prokuroras. Prokuroro ir gynėjo
-dalyvavimas tokiame posėdyje yra būtinas. Posėdis protokoluojamas.
+apygardos teismo teisėjas per septynias dienas turi surengti posėdį, kuriame
+privalo dalyvauti išduotinas (perduotinas) asmuo, jo gynėjas ir prokuroras.
+Posėdis protokoluojamas.
 3. Vilniaus apygardos teismo teisėjas, nusprendęs
 patenkinti prokuroro pareiškimą, priima nutartį išduoti asmenį iš Lietuvos
-Respublikos arba perduoti Tarptautiniam baudžiamajam teismui, o nusprendęs
-atsisakyti patenkinti pareiškimą, – nutartį atsisakyti išduoti asmenį iš
-Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam teismui. Jei
-asmuo, kurį atsisakoma išduoti iš Lietuvos Respublikos arba perduoti
-Tarptautiniam baudžiamajam teismui, yra suimtas, teisėjas, priimdamas nutartį
-atsisakyti išduoti asmenį iš Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam
-teismui, išsprendžia ir kardomosios priemonės klausimą.
+Respublikos arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos
+arešto orderį, o nusprendęs atsisakyti patenkinti pareiškimą, – nutartį
+atsisakyti išduoti asmenį iš Lietuvos Respublikos arba perduoti Tarptautiniam
+baudžiamajam teismui ar pagal Europos arešto orderį. Jei asmuo, kurį atsisakoma
+išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam
+teismui ar pagal Europos arešto orderį, yra suimtas, teisėjas, priimdamas
+nutartį atsisakyti išduoti asmenį iš Lietuvos Respublikos arba perduoti
+Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, išsprendžia
+ir kardomosios priemonės klausimą. Nutartis atsisakyti perduoti asmenį pagal
+Europos arešto orderį turi būti motyvuota. 
+4. Jeigu gautos
+informacijos nepakanka sprendimui dėl asmens išdavimo iš Lietuvos Respublikos
+arba perdavimo Tarptautiniam baudžiamajam teismui ar pagal Europos arešto
+orderį priimti, Vilniaus apygardos teismo teisėjas paveda Lietuvos Respublikos
+generalinei prokuratūrai nedelsiant kreiptis į prašymą pateikusią instituciją
+dėl reikalingos papildomos informacijos suteikimo. 
+5. Jeigu dėl
+vieno asmens gaunami keli prašymai išduoti iš Lietuvos Respublikos arba
+perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį,
+sprendimą dėl jų priima Vilniaus apygardos teismas, vadovaudamasis šiomis
+taisyklėmis:
+1) prašymas
+perduoti Tarptautiniam baudžiamajam teismui turi viršenybę prieš kitus
+prašymus;
+2) prašymas dėl
+baudžiamojo persekiojimo turi viršenybę prieš prašymą dėl paskirtos bausmės
+vykdymo;
+3) likusiais
+atvejais atsižvelgiama į visas asmens išdavimui reikšmingas aplinkybes, ypač į
+padarytos nusikalstamos veikos pavojingumo pobūdį ir mastą, veikos padarymo
+vietą ir atitinkamų prašymų išduoti (perduoti) asmenį datas. Teisės aktuose
+numatytais atvejais teismas atsižvelgia ir į tarptautinių baudžiamojo
+persekiojimo institucijų (įskaitant Eurojustą) konsultacijas.
+Straipsnio pakeitimai:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
  
 74
 straipsnis. Nutarties apskundimas
-1. Asmuo, dėl
-kurio priimta nutartis, ar jo gynėjas, nesutikdami su nutartimi išduoti asmenį
-iš Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam teismui, arba
+1. Asmuo, dėl kurio priimta nutartis, ar jo gynėjas,
+nesutikdami su nutartimi išduoti iš Lietuvos Respublikos arba perduoti
+Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, arba
 prokuroras, nesutikdamas su nutartimi atsisakyti išduoti asmenį iš Lietuvos
-Respublikos arba perduoti Tarptautiniam baudžiamajam teismui, turi teisę per
-septynias dienas nuo nutarties priėmimo dienos paduoti skundą Lietuvos
-apeliaciniam teismui.
-2. Lietuvos apeliacinio teismo teisėjas privalo
-išnagrinėti skundą ne vėliau kaip per keturiolika dienų nuo jo padavimo dienos.
-Skundui nagrinėti gali būti surengtas posėdis, į kurį šaukiami išduotinas asmuo
-ir jo gynėjas arba tik gynėjas. Prokuroro dalyvavimas tokiame posėdyje būtinas.
-Lietuvos apeliacinio teismo teisėjas gali priimti nutartį panaikinti Vilniaus
-apygardos teismo nutartį arba palikti ją galioti.
+Respublikos arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos
+arešto orderį, turi teisę per septynias dienas nuo nutarties priėmimo dienos
+paduoti skundą Lietuvos apeliaciniam teismui.
+2. Lietuvos
+apeliacinio teismo teisėjas privalo išnagrinėti skundą ne vėliau kaip per
+keturiolika dienų nuo jo padavimo dienos. Skundui nagrinėti gali būti surengtas
+posėdis, į kurį šaukiami išduotinas
+(perduotinas) asmuo ir jo gynėjas arba tik gynėjas. Prokuroro dalyvavimas
+tokiame posėdyje būtinas. Lietuvos apeliacinio teismo teisėjas gali priimti
+nutartį panaikinti Vilniaus apygardos teismo nutartį arba palikti ją galioti.
 3. Lietuvos
-apeliacinio teismo teisėjo nutartis yra galutinė ir kasacine tvarka neskundžiama.
+apeliacinio teismo teisėjo nutartis yra
+galutinė ir kasacine tvarka neskundžiama.
 4. Paduotas skundas dėl Vilniaus apygardos teismo
 teisėjo nutarties sustabdo šios nutarties vykdymą.
+Straipsnio pakeitimai:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
  
-75
-straipsnis. Supaprastinta asmenų išdavimo iš Lietuvos Respublikos tvarka
+75 straipsnis. Supaprastinta asmenų
+išdavimo (perdavimo) iš Lietuvos Respublikos tvarka
 1. Lietuvos
-Respublikos tarptautinėje sutartyje numatytais atvejais gali būti taikoma
-supaprastinta asmens išdavimo iš Lietuvos Respublikos tvarka.
+Respublikos tarptautinėje sutartyje numatytais atvejais arba gavus Europos
+arešto orderį gali būti taikoma supaprastinta asmens išdavimo (perdavimo) iš
+Lietuvos Respublikos tvarka.
 2. Supaprastinta
-asmens išdavimo iš Lietuvos Respublikos tvarka taikoma tik tuo atveju, kai yra
-rašytinis išduotino asmens sutikimas ir Lietuvos Respublikos generalinės
-prokuratūros pritarimas. Šiuo atveju Lietuvos Respublikos generalinės
-prokuratūros prokuroras su pareiškimu dėl asmens išdavimo iš Lietuvos
-Respublikos kreipiasi į Vilniaus apygardos teismą.
-3. Vilniaus
-apygardos teismo teisėjas per tris dienas turi surengti posėdį, kuriame privalo
-dalyvauti išduotinas asmuo, jo gynėjas ir prokuroras. Posėdžio metu teisėjas
-patikrina, ar išduotinas asmuo savo noru sutiko būti išduotas iš Lietuvos
-Respublikos ir žino teisines išdavimo pasekmes, taip pat ar Lietuvos
-Respublikos generalinė prokuratūra pritaria supaprastintos išdavimo iš Lietuvos
-Respublikos tvarkos taikymui. Posėdis protokoluojamas.
-4. Vilniaus
-apygardos teismo teisėjas, nustatęs, kad išduotinas asmuo savo noru sutiko būti
-išduotas iš Lietuvos Respublikos ir žino teisines išdavimo pasekmes, ir yra
-Lietuvos Respublikos generalinės prokuratūros pritarimas taikyti supaprastintą
-išdavimo iš Lietuvos Respublikos tvarką, priima nutartį išduoti asmenį. Jeigu
-išduotinas asmuo atsisako savo sutikimo, teisėjas turi priimti nutartį taikyti
-šio Kodekso 73 straipsnyje numatytą išdavimo tvarką.
+asmens išdavimo (perdavimo) iš Lietuvos Respublikos tvarka taikoma tik tuo
+atveju, kai yra rašytinis išduotino (perduotino) asmens sutikimas, o ekstradicijos
+atvejais – ir Lietuvos Respublikos generalinės prokuratūros pritarimas. Pagal
+Europos arešto orderį prašomas perduoti asmuo taip pat gali raštu sutikti būti
+perduodamas ir dėl kitų nusikalstamų veikų, dėl kurių nebuvo išduotas Europos
+arešto orderis. Gavęs asmens rašytinį sutikimą, Lietuvos Respublikos
+generalinės prokuratūros prokuroras su pareiškimu dėl asmens išdavimo
+(perdavimo) iš Lietuvos Respublikos kreipiasi į Vilniaus apygardos teismą.
+3. Vilniaus apygardos teismo teisėjas per tris dienas
+turi surengti posėdį, kuriame privalo dalyvauti išduotinas (perduotinas) asmuo,
+jo gynėjas ir prokuroras. Posėdžio metu teisėjas patikrina, ar išduotinas
+(perduotinas) asmuo savo noru sutiko būti išduotas (perduotas) iš Lietuvos
+Respublikos ir žino teisines išdavimo (perdavimo) pasekmes, o ekstradicijos
+atvejais – taip pat ar Lietuvos Respublikos generalinė prokuratūra pritaria
+supaprastintos išdavimo iš Lietuvos Respublikos tvarkos taikymui. Posėdis
+protokoluojamas.
+4. Vilniaus apygardos teismo
+teisėjas, nustatęs, kad išduotinas (perduotinas) asmuo savo noru sutiko būti
+išduotas (perduotas) iš Lietuvos Respublikos ir žino teisines išdavimo
+(perdavimo) pasekmes, o ekstradicijos atvejais – taip pat kad yra Lietuvos
+Respublikos generalinės prokuratūros pritarimas taikyti supaprastintą išdavimo
+iš Lietuvos Respublikos tvarką, priima nutartį išduoti (perduoti) asmenį. Jeigu
+išduotinas (perduotinas) asmuo atsisako savo sutikimo, teisėjas turi priimti
+nutartį taikyti šio Kodekso 73 straipsnyje numatytą išdavimo (perdavimo)
+tvarką.
+Straipsnio pakeitimai:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
  
-76
-straipsnis. Išduodamo asmens perdavimo tvarka
-Išduodamo
-asmens, dėl kurio yra įsiteisėjusi nutartis išduoti iš Lietuvos Respublikos
-arba perduoti Tarptautiniam baudžiamajam teismui, perdavimo tvarką ir sąlygas
-nustato Lietuvos Respublikos tarptautinė sutartis.
+76 straipsnis. Asmens, dėl kurio yra
+įsiteisėjusi nutartis išduoti iš Lietuvos Respublikos arba perduoti
+Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, perdavimo
+tvarka 
+1. Asmens, dėl
+kurio yra įsiteisėjusi nutartis išduoti iš Lietuvos Respublikos arba perduoti
+Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, perdavimo
+užsienio valstybės institucijai ar Tarptautiniam baudžiamajam teismui tvarką ir
+sąlygas nustato Lietuvos Respublikos tarptautinės sutartys ir kiti teisės
+aktai.
+2. Asmuo, dėl
+kurio yra įsiteisėjusi nutartis perduoti pagal Europos arešto orderį, perduodamas
+Europos arešto orderį išdavusiai valstybei ne vėliau kaip per dešimt dienų.
+Jeigu susidaro nenumatytos aplinkybės, dėl kurių perduoti tokį asmenį per šį
+terminą neįmanoma, Lietuvos Respublikos generalinė prokuratūra ir atitinkama
+užsienio valstybės institucija nedelsdamos nustato kitą perdavimo dieną. Tokiu
+atveju asmuo turi būti perduotas ne vėliau kaip per dešimt dienų nuo šios
+dienos. 
+3. Išimtiniais atvejais, kai pagrįstai manoma, kad
+asmens perdavimas keltų pavojų asmens gyvybei ar sveikatai, arba kai yra kitų
+svarbių humanitarinių priežasčių, asmens perdavimas pagal Europos arešto orderį
+kitai valstybei gali būti atidėtas. Tokioms priežastims išnykus, Lietuvos
+Respublikos generalinė prokuratūra ir atitinkama užsienio valstybės institucija
+nedelsdamos nustato kitą asmens perdavimo dieną. Tokiu atveju asmuo turi būti
+perduotas ne vėliau kaip per dešimt dienų nuo šios dienos. 
+4. Asmens
+perdavimas pagal Europos arešto orderį taip pat gali būti atidedamas, kol bus
+baigtas su šiuo asmeniu susijęs Lietuvos Respublikoje pradėtas baudžiamasis
+procesas arba kol šis asmuo atliks Lietuvos Respublikoje jam paskirtą bausmę.
+Tačiau asmuo šio Kodekso 77 straipsnyje numatyta tvarka gali būti laikinai
+perduotas kitai valstybei proceso veiksmams atlikti.
+5. Jeigu asmuo
+nebuvo perduotas per šio straipsnio 2 ar 3 dalyje numatytus terminus, jam
+paskirta kardomoji priemonė panaikinama.
+Straipsnio pakeitimai:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
  
-77
-straipsnis. Suimto arba nuteisto asmens laikinas perdavimas kitai valstybei ar
-Tarptautiniam baudžiamajam teismui proceso veiksmams atlikti
+77 straipsnis. Suimto arba nuteisto
+asmens laikinas perdavimas kitai valstybei ar Tarptautiniam baudžiamajam
+teismui proceso veiksmams atlikti
 1. Lietuvos Respublikos tarptautinėje sutartyje
 numatytais atvejais ir tvarka suimtas arba nuteistas asmuo gali būti laikinai
 perduotas kitai valstybei ar Tarptautiniam baudžiamajam teismui proceso
@@ -1359,7 +1627,38 @@ veiksmams atlikti.
 perdavimo kitai valstybei ir šio perdavimo sąlygų priima Lietuvos Respublikos
 generalinė prokuratūra.
  
-V skyrius
+77(1) straipsnis. Suimtų
+asmenų vežimas tranzitu per Lietuvos Respublikos teritoriją
+1. Užsienio
+valstybės suimti asmenys tranzitu per Lietuvos Respublikos teritoriją gali būti
+vežami tik gavus Lietuvos Respublikos teisingumo ministerijos ar Lietuvos
+Respublikos generalinės prokuratūros sutikimą. 
+2. Suimtą asmenį
+vežti tranzitu per Lietuvos Respublikos teritoriją draudžiama šiais atvejais:
+1) užsienio
+valstybės suimtas asmuo yra Lietuvos Respublikos pilietis, o Lietuvos
+Respublikos tarptautinės sutartys ir kiti teisės aktai draudžia Lietuvos
+Respublikos piliečius išduoti (perduoti) valstybei, į kurią suimtas asmuo
+vežamas;
+2) užsienio valstybės suimtas asmuo yra Lietuvos
+Respublikos pilietis, vežamas į trečiąją valstybę atlikti su laisvės atėmimu
+susijusios bausmės, kai nebuvo atsižvelgta į Lietuvos Respublikos ar šio asmens
+prašymą leisti su laisvės atėmimu susijusią bausmę atlikti Lietuvos
+Respublikoje;
+3) kitais
+tarptautinėse sutartyse numatytais atvejais. 
+3. Užsienio
+valstybės suimtą Lietuvos Respublikos pilietį vežti tranzitu per Lietuvos
+Respublikos teritoriją į trečiąją valstybę baudžiamojo persekiojimo tikslais
+gali būti leidžiama tuo atveju, kai nuteistas asmuo galės atlikti paskirtą su
+laisvės atėmimu susijusią bausmę Lietuvos Respublikoje, jei to pageidautų.
+Kodeksas
+papildytas straipsniu:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
+ 
+V
+skyrius
 Liudytojai, ekspertai IR SPECIALISTAI
  
 PIRMASIS SKIRSNIS
@@ -1378,9 +1677,8 @@ priežiūros įstaigos pažymą arba teismo psichiatro ar teismo mediko išvadą
 fizinių ar psichinių trūkumų nesugeba teisingai suvokti reikšmingų bylai
 aplinkybių ir duoti dėl jų parodymus.
  
-80
-straipsnis. Aplinkybės, dėl kurių asmenys negali būti apklausiami kaip
-liudytojai
+80 straipsnis. Aplinkybės, dėl kurių
+asmenys negali būti apklausiami kaip liudytojai
 Kaip liudytojas
 negali būti apklausiamas:
 1) asmuo, kuris gali duoti
@@ -1426,8 +1724,8 @@ Prezidento rezidencijoje. Į teismo posėdį Respublikos Prezidentas nešaukiama
 kaltinamojo šeimos nariai ar artimieji giminaičiai gali neduoti parodymų arba
 neatsakyti į kai kuriuos pateiktus klausimus.
  
-83 straipsnis.
-Liudytojo pareigos ir atsakomybė
+83
+straipsnis. Liudytojo pareigos ir atsakomybė
 1. Kiekvienas šaukiamas kaip liudytojas asmuo privalo
 atvykti pas ikiteisminio tyrimo pareigūną, prokurorą ir į teismą bei duoti
 teisingus parodymus apie tai, kas jam žinoma apie reikšmės bylai išspręsti
@@ -1445,7 +1743,8 @@ atsisako ar vengia duoti parodymus, teisėjas ar teismas taip pat gali paskirti
 parodymų davimą liudytojas atsako pagal Lietuvos Respublikos baudžiamojo
 kodekso 235 straipsnį.
  
-ANTRASIS SKIRSNIS
+ANTRASIS
+SKIRSNIS
 Ekspertai
  
 84
@@ -1516,23 +1815,24 @@ vertinimas.
 suformuluojami atsakymai į pateiktus klausimus. Eksperto išvados negali
 peržengti jo specialių žinių ribų.
  
-TREČIASIS SKIRSNIS
+TREČIASIS
+SKIRSNIS
 SPECIALIStai
  
 89
 straipsnis. Specialistas
-1. Specialistas yra reikiamų specialių žinių ir įgūdžių
-turintis asmuo, kuriam pavedama atlikti objektų tyrimą ir pateikti išvadą arba
-paaiškinimus jo kompetencijos klausimais.
-2. Specialistu
-gali būti ikiteisminio tyrimo įstaigos pareigūnas arba šioje įstaigoje
-nedirbantis asmuo. Specialistai, kurie yra ikiteisminio tyrimo įstaigos
-pareigūnai, pagal pareigas yra įspėti dėl atsakomybės pagal Lietuvos
-Respublikos baudžiamojo kodekso 235 straipsnį už melagingos išvados ar
-paaiškinimo pateikimą. Specialistai, kurie nėra ikiteisminio tyrimo įstaigos
-pareigūnai, kiekvienu atveju, kai jie yra kviečiami dalyvauti procese, įspėjami
-dėl atsakomybės pagal Lietuvos Respublikos baudžiamojo kodekso 235 straipsnį už
-melagingos išvados ar paaiškinimo pateikimą.
+1. Specialistas yra reikiamų specialių žinių ir
+įgūdžių turintis asmuo, kuriam pavedama atlikti objektų tyrimą ir pateikti
+išvadą arba paaiškinimus jo kompetencijos klausimais.
+2. Specialistu gali
+būti ikiteisminio tyrimo įstaigos pareigūnas arba šioje įstaigoje nedirbantis
+asmuo. Specialistai, kurie yra ikiteisminio tyrimo įstaigos pareigūnai, pagal
+pareigas yra įspėti dėl atsakomybės pagal Lietuvos Respublikos baudžiamojo
+kodekso 235 straipsnį už melagingos išvados ar paaiškinimo pateikimą.
+Specialistai, kurie nėra ikiteisminio tyrimo įstaigos pareigūnai, kiekvienu
+atveju, kai jie yra kviečiami dalyvauti procese, įspėjami dėl atsakomybės pagal
+Lietuvos Respublikos baudžiamojo kodekso 235 straipsnį už melagingos išvados ar
+paaiškinimo pateikimą.
 3. Teismo medikai yra
 specialistai, atliekantys žmogaus kūno arba lavono tyrimą.
 4. Teismo psichiatrai, teismo
@@ -1564,14 +1864,16 @@ vaizdinė medžiaga.
  
 
 
-VI skyrius
+VI
+skyrius
 Daiktai ir dokumentai
  
-PIRMASIS SKIRSNIS
+PIRMASIS
+SKIRSNIS
 Daiktai
  
-91
-straipsnis. Daiktai, turintys reikšmės nusikalstamai veikai tirti ir nagrinėti
+91 straipsnis. Daiktai, turintys
+reikšmės nusikalstamai veikai tirti ir nagrinėti
 Daiktais,
 turinčiais reikšmės nusikalstamai veikai tirti ir nagrinėti, laikomi materialūs
 objektai, kurie buvo nusikalstamos veikos padarymo įrankiais ar priemonėmis
@@ -1580,9 +1882,9 @@ nusikalstamų veikų objektais, taip pat visi kiti daiktai, kurie gali būti
 priemonėmis nusikalstamai veikai atskleisti ir kaltininkams nustatyti arba
 kaltinimui paneigti ar atsakomybei palengvinti.
  
-92
-straipsnis. Daiktų, turinčių reikšmės nusikalstamai veikai tirti ir nagrinėti,
-procesinis įforminimas ir laikymo tvarka
+92 straipsnis. Daiktų, turinčių reikšmės
+nusikalstamai veikai tirti ir nagrinėti, procesinis įforminimas ir laikymo
+tvarka
 1. Daiktai,
 turintys reikšmės nusikalstamai veikai tirti ir nagrinėti, jeigu jų nereikia
 tirti šio Kodekso 205 straipsnyje nustatyta tvarka, turi būti apžiūrimi pagal
@@ -1598,15 +1900,14 @@ su nusikalstamos veikos tyrimo medžiaga, turi būti, jei įmanoma,
 nufotografuojami, užantspauduojami ir laikomi ikiteisminio tyrimo pareigūno,
 prokuroro ar teismo nurodytoje vietoje.
  
-93
-straipsnis. Daiktų, turinčių reikšmės nusikalstamai veikai tirti ir nagrinėti,
-laikymo terminai
+93 straipsnis. Daiktų, turinčių reikšmės
+nusikalstamai veikai tirti ir nagrinėti, laikymo terminai
 1. Daiktai,
 turintys reikšmės nusikalstamai veikai tirti ir nagrinėti, laikomi iki
-nuosprendžio įsiteisėjimo arba iki termino, per kurį gali būti apskųstas
-nutarimas ar nutartis nutraukti procesą, pabaigos. Kai ginčas dėl teisės į
-daiktus yra spręstinas ieškinio tvarka, daiktai laikomi iki sprendimo, priimto
-toje byloje civilinio proceso tvarka, įsiteisėjimo.
+nuosprendžio įsiteisėjimo arba iki termino, per kurį gali būti apskųstas nutarimas
+ar nutartis nutraukti procesą, pabaigos. Kai ginčas dėl teisės į daiktus yra
+spręstinas ieškinio tvarka, daiktai laikomi iki sprendimo, priimto toje byloje
+civilinio proceso tvarka, įsiteisėjimo.
 2. Daiktai gali
 būti grąžinti jų savininkams ir nesuėjus šio straipsnio 1 dalyje nurodytiems
 terminams, jeigu tai nepakenks procesui.
@@ -1624,18 +1925,17 @@ pabaigos būtų laikomi jų pavyzdžiai.
 rūšių daiktų saugojimo, pardavimo (perdavimo) ir sunaikinimo tvarką nustato
 Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos.
  
-94
-straipsnis. Priemonės, kurių imamasi dėl daiktų, turinčių reikšmės
-nusikalstamai veikai tirti ir nagrinėti, nutraukiant procesą ir priimant
-nuosprendį
+94 straipsnis. Priemonės, kurių imamasi
+dėl daiktų, turinčių reikšmės nusikalstamai veikai tirti ir nagrinėti,
+nutraukiant procesą ir priimant nuosprendį
 1. Priimant nuosprendį ar nutraukiant procesą, daiktų,
 turinčių reikšmės nusikalstamai veikai tirti ir nagrinėti, klausimas
 išsprendžiamas taip:
 1) nusikalstamos veikos įrankiai, priemonės ir
 nusikalstamos veikos rezultatai, atitinkantys Lietuvos Respublikos baudžiamojo
 kodekso 72 straipsnyje nurodytus požymius, konfiskuojami;
-2) daiktai, kurių
-apyvarta uždrausta, perduodami valstybės institucijoms arba sunaikinami;
+2) daiktai,
+kurių apyvarta uždrausta, perduodami valstybės institucijoms arba sunaikinami;
 3) dokumentai,
 turintys šio Kodekso 91 straipsnyje numatytų požymių, saugomi kaip
 nusikalstamos veikos tyrimo medžiaga arba perduodami suinteresuotoms įmonėms,
@@ -1663,68 +1963,68 @@ grąžintų teisėtiems savininkams, jeigu šie yra nustatyti ir jeigu tai
 nepažeidžia kitų asmenų teisėtų interesų. Užsienio valstybės įstaigai
 neperduodami daiktai, kurių apyvarta yra uždrausta.
  
-ANTRASIS SKIRSNIS
+ANTRASIS
+SKIRSNIS
 Dokumentai
  
-95
-straipsnis. Dokumentai, turintys reikšmės nusikalstamai veikai tirti ir
-nagrinėti
+95 straipsnis. Dokumentai, turintys
+reikšmės nusikalstamai veikai tirti ir nagrinėti
 Dokumentais,
 turinčiais reikšmės nusikalstamai veikai tirti ir nagrinėti, yra materialūs
 objektai, kuriuose įmonė, įstaiga, organizacija, pareigūnas ar fizinis asmuo
 tam tikrais ženklais užfiksuoja informaciją, galinčią padėti atskleisti
 nusikalstamą veiką ir nustatyti su šia veika susijusias aplinkybes.
  
-96
-straipsnis. Dokumentų, turinčių reikšmės nusikalstamai veikai tirti ir
-nagrinėti, rūšys
-1. Dokumentai, turintys
-reikšmės nusikalstamai veikai tirti ir nagrinėti, yra:
+96 straipsnis. Dokumentų, turinčių
+reikšmės nusikalstamai veikai tirti ir nagrinėti, rūšys
+1. Dokumentai,
+turintys reikšmės nusikalstamai veikai tirti ir nagrinėti, yra:
 1) apžiūros,
 kratos, poėmio, parodymo atpažinti, parodymų patikrinimo vietoje, eksperimento
 ir kitų proceso veiksmų protokolai, taip pat teismo teisiamojo posėdžio
 protokolai;
-2) įstaigų, įmonių,
-organizacijų dokumentai: raštai, pažymos, apskaitos dokumentai, posėdžių
-protokolai ir kiti oficialūs dokumentai;
+2) įstaigų,
+įmonių, organizacijų dokumentai: raštai, pažymos, apskaitos dokumentai,
+posėdžių protokolai ir kiti oficialūs dokumentai;
 3) privatūs
 fizinių asmenų raštai, pareiškimai, prašymai, skundai, laiškai, dienoraščiai ir
 kiti asmeninio pobūdžio rašiniai;
 4) magnetiniai,
 lazeriniai ir elektroniniai įrašai: garso ir vaizdo juostos, kompaktinės
 plokštelės ir kitos elektroninės informacijos laikmenos;
-5) kiti
-materialūs objektai, kuriuose grafiniais arba kitokiais ženklais užfiksuota
-informacija, turinti reikšmės nusikalstamai veikai tirti ir nagrinėti.
+5) kiti materialūs
+objektai, kuriuose grafiniais arba kitokiais ženklais užfiksuota informacija,
+turinti reikšmės nusikalstamai veikai tirti ir nagrinėti.
 2. Dokumentai ir
 kiti įrašai laikomi daiktais, jeigu jie turi šio Kodekso 91 straipsnyje
 nurodytų požymių.
  
-TREČIASIS SKIRSNIS
+TREČIASIS
+SKIRSNIS
 daiktų ir dokumentų, turinčių reikšmės nusikalstamai veikai tirti ir
 nagrinėti, išreikalavimas ir pateikimas
  
-97
-straipsnis. Daiktų ir dokumentų, turinčių reikšmės nusikalstamai veikai tirti
-ir nagrinėti, išreikalavimas
+97 straipsnis. Daiktų ir dokumentų,
+turinčių reikšmės nusikalstamai veikai tirti ir nagrinėti, išreikalavimas
 Ikiteisminio tyrimo pareigūnas, prokuroras ir teismas
-turi teisę reikalauti iš fizinių ir juridinių asmenų pateikti daiktus ir dokumentus,
-turinčius reikšmės nusikalstamai veikai tirti ir nagrinėti.
+turi teisę reikalauti iš fizinių ir juridinių asmenų pateikti daiktus ir
+dokumentus, turinčius reikšmės nusikalstamai veikai tirti ir nagrinėti.
  
-98 straipsnis. Daiktų ir
-dokumentų, turinčių reikšmės nusikalstamai veikai tirti ir nagrinėti,
-pateikimas
+98
+straipsnis. Daiktų ir dokumentų, turinčių reikšmės nusikalstamai veikai tirti
+ir nagrinėti, pateikimas
 Įtariamasis, kaltinamasis, atstovas pagal įstatymą,
 gynėjas, nukentėjusysis, civilinis ieškovas, civilinis atsakovas, jų atstovai,
 taip pat bet koks fizinis ar juridinis asmuo gali savo iniciatyva pateikti
 daiktus ir dokumentus, turinčius reikšmės nusikalstamai veikai tirti ir
 nagrinėti. 
  
-VII skyrius
+VII
+skyrius
 Baudžiamojo proceso terminai
  
-99 straipsnis.
-Terminų paskirtis
+99
+straipsnis. Terminų paskirtis
 Baudžiamojo
 proceso terminai nustato procesinę reikšmę turinčių veiksmų pradžios, įvykdymo
 ar pabaigos laiką. Įstatymų numatytais atvejais terminus gali nustatyti
@@ -1749,10 +2049,9 @@ terminas pasibaigia ne darbo dieną, paskutine termino diena laikoma pirmoji po
 jos einanti darbo diena.
 5. Sulaikymo,
 suėmimo ir priverčiamųjų medicinos priemonių taikymo terminai skaičiuojami nuo
-faktinio šių priemonių taikymo momento. Kai pasibaigia šio Kodekso 127
-straipsnyje numatyti laisvės apribojimo terminai, asmuo turi būti nedelsiant
-paleistas. Tai privaloma net ir tuo atveju, kai terminas baigiasi ne darbo
-dieną.
+faktinio šių priemonių taikymo momento. Kai pasibaigia šio Kodekso 127 straipsnyje
+numatyti laisvės apribojimo terminai, asmuo turi būti nedelsiant paleistas. Tai
+privaloma net ir tuo atveju, kai terminas baigiasi ne darbo dieną.
  
 101
 straipsnis. Terminų laikymasis
@@ -1849,9 +2148,8 @@ straipsnis. Advokato darbo apmokėjimas
 advokatas procese dalyvavo kaip gynėjas pagal paskyrimą, teismas, priimdamas
 nuosprendį ar nutartį, nusprendžia, kokio dydžio atlyginimą kaltinamasis turi
 sumokėti už advokato paslaugas.
-2. Pripažinęs
-kaltinamąjį kaltu, teismas, priimdamas nuosprendį, turi teisę nuspręsti iš
-kaltinamojo išieškoti nukentėjusiojo ir
+2. Pripažinęs kaltinamąjį kaltu, teismas, priimdamas
+nuosprendį, turi teisę nuspręsti iš kaltinamojo išieškoti nukentėjusiojo ir
 civilinio ieškovo turėtas išlaidas advokato, kuris dalyvavo byloje kaip
 nukentėjusiojo ar civilinio ieškovo atstovas, paslaugoms apmokėti.
 3. Teismas,
@@ -1860,9 +2158,8 @@ numatytų išlaidų kaltinamajam nepriteisti ar jų dydį sumažinti. Šiuo atve
 išlaidos advokato paslaugoms apmokėti atlyginamos įstatymo, reglamentuojančio
 valstybės garantuojamos teisinės pagalbos teikimą, nustatyta tvarka.
 4. Jeigu
-procesas nutraukiamas ikiteisminio tyrimo metu,
-už advokato paslaugas atlyginama Lietuvos Respublikos teisingumo ministerijos
-nustatyta tvarka.
+procesas nutraukiamas ikiteisminio tyrimo metu, už advokato paslaugas
+atlyginama Lietuvos Respublikos teisingumo ministerijos nustatyta tvarka.
 5. Nepilnamečio
 nukentėjusiojo atstovui – advokatui už paslaugas atlyginama įstatymo,
 reglamentuojančio valstybės garantuojamos teisinės pagalbos teikimą, nustatyta
@@ -1872,7 +2169,8 @@ tvarka.
 II dalis
 Nusikalstama veika padarytos žalos atlyginimas
  
-IX skyrius
+IX
+skyrius
 Žalos atlyginimas, kai civilinis ieškinys baudžiamojoje byloje
 nepareiškiamas
  
@@ -1915,9 +2213,9 @@ Teismas jį nagrinėja kartu su baudžiamąja byla.
 straipsnis. Civilinis ieškovas
 1. Civiliniu
 ieškovu pripažįstamas fizinis arba juridinis asmuo, kuris baudžiamojoje byloje
-reikalauja atlyginti dėl įtariamojo arba kaltinamojo nusikalstamos veikos
-patirtą turtinę ar neturtinę žalą. Asmuo pripažįstamas civiliniu ieškovu
-prokuroro nutarimu ar teismo nutartimi.
+reikalauja atlyginti dėl įtariamojo arba kaltinamojo nusikalstamos veikos patirtą
+turtinę ar neturtinę žalą. Asmuo pripažįstamas civiliniu ieškovu prokuroro
+nutarimu ar teismo nutartimi.
 2. Civilinis
 ieškovas turi teisę:
 1) duoti
@@ -1959,8 +2257,8 @@ atsakovas turi šio Kodekso 110 straipsnio 2 dalyje nustatytas civilinio ieškov
 teises.
 3. Civilinis
 atsakovas privalo:
-1) kviečiamas dalyvauti
-nagrinėjant bylą pirmosios instancijos teisme; 
+1) kviečiamas
+dalyvauti nagrinėjant bylą pirmosios instancijos teisme; 
 2) laikytis
 nustatytos teismo proceso tvarkos.
  
@@ -1992,8 +2290,8 @@ nagrinėjant civilinį ieškinį baudžiamojoje byloje kyla klausimų, kurių
 sprendimo šis Kodeksas nereglamentuoja, taikomos atitinkamos civilinio proceso
 normos, jeigu jos neprieštarauja baudžiamojo proceso normoms.
  
-114
-straipsnis. Civilinio ieškinio perdavimas bankroto bylą nagrinėjančiam teismui
+114 straipsnis. Civilinio ieškinio
+perdavimas bankroto bylą nagrinėjančiam teismui
 Jeigu į
 baudžiamąją bylą kaip civilinis atsakovas įtraukta įmonė, kuriai iškelta
 bankroto byla, civilinis ieškinys šioje baudžiamojoje byloje gali būti
@@ -2011,11 +2309,11 @@ ieškinį arba jį atmeta. Tenkindamas civilinį ieškinį, teismas gali nesilai
 ieškinio ribų, jeigu ieškinio dydis neturi įtakos nusikalstamos veikos
 kvalifikavimui ir bausmės dydžiui.
 2. Išimtiniais
-atvejais, kai negalima civilinio ieškinio tiksliai apskaičiuoti neatidėjus baudžiamosios
-bylos nagrinėjimo ar negavus papildomos medžiagos, teismas, priimdamas
-apkaltinamąjį nuosprendį, gali pripažinti civiliniam ieškovui teisę į ieškinio
-patenkinimą, o klausimą dėl ieškinio dydžio perduoti nagrinėti civilinio
-proceso tvarka.
+atvejais, kai negalima civilinio ieškinio tiksliai apskaičiuoti neatidėjus
+baudžiamosios bylos nagrinėjimo ar negavus papildomos medžiagos, teismas,
+priimdamas apkaltinamąjį nuosprendį, gali pripažinti civiliniam ieškovui teisę
+į ieškinio patenkinimą, o klausimą dėl ieškinio dydžio perduoti nagrinėti
+civilinio proceso tvarka.
 3. Priimdamas
 išteisinamąjį nuosprendį, teismas:
 1) atmeta
@@ -2044,12 +2342,13 @@ ar dėl kitų priežasčių negali ginti teisme teisėtų savo interesų.
  
 118
 straipsnis. Avanso suteikimas iš valstybės lėšų
-Jeigu
-kaltinamasis arba už jo veiksmus materialiai atsakingi asmenys neturi lėšų
-žalai atlyginti, įstatymų numatytais atvejais žala teismo sprendimu gali būti
-atlyginama avansu iš valstybės tam skirtų lėšų.
+Jeigu kaltinamasis
+arba už jo veiksmus materialiai atsakingi asmenys neturi lėšų žalai atlyginti,
+įstatymų numatytais atvejais žala teismo sprendimu gali būti atlyginama avansu
+iš valstybės tam skirtų lėšų.
  
-III dalis
+III
+dalis
 Procesinės prievartos priemonės
  
 XI skyrius
@@ -2070,8 +2369,9 @@ priemonės yra šios: suėmimas, namų areštas, užstatas, dokumentų paėmimas
 įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis
 pasižadėjimas neišvykti.
 2. Kariui kaip
-kardomoji priemonė gali būti skiriamas karinio dalinio, kuriame jis tarnauja, vadovybės stebėjimas, o nepilnamečiui –
-atidavimas tėvams, rūpintojams arba kitiems fiziniams ar juridiniams asmenims,
+kardomoji priemonė gali būti skiriamas karinio dalinio, kuriame jis tarnauja,
+vadovybės stebėjimas, o nepilnamečiui – atidavimas tėvams, rūpintojams arba
+kitiems fiziniams ar juridiniams asmenims,
 kurie rūpinasi vaikais, prižiūrėti.
  
 121
@@ -2116,21 +2416,24 @@ duomenų, jog įtariamasis pats ar per kitus asmenis gali bandyti:
 1) paveikti
 nukentėjusiuosius, liudytojus, ekspertus, kitus įtariamuosius, kaltinamuosius
 ar nuteistuosius;
-2) sunaikinti, paslėpti
-ar suklastoti daiktus bei dokumentus, turinčius reikšmės nusikalstamai veikai
-tirti ir nagrinėti teisme.
+2) sunaikinti,
+paslėpti ar suklastoti daiktus bei dokumentus, turinčius reikšmės nusikalstamai
+veikai tirti ir nagrinėti teisme.
 4. Kai pagrįstai
 manoma, kad įtariamasis darys naujus nusikaltimus, suėmimas gali būti
 paskirtas, jei yra duomenų, jog asmuo, įtariamas padaręs vieną ar kelis labai
 sunkius ar sunkius nusikaltimus arba Lietuvos Respublikos baudžiamojo kodekso
 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187
-straipsnio 2 dalyje numatytus apysunkius nusikaltimus, iki nuosprendžio priėmimo
-gali padaryti naujų labai sunkių, sunkių ar šioje dalyje nurodytų apysunkių nusikaltimų,
-taip pat jei yra duomenų, kad būdamas laisvėje asmuo, įtariamas grasinimu ar
-pasikėsinimu padaryti nusikaltimą, gali tą nusikaltimą padaryti.
+straipsnio 2 dalyje numatytus apysunkius nusikaltimus, iki nuosprendžio
+priėmimo gali padaryti naujų labai sunkių, sunkių ar šioje dalyje nurodytų
+apysunkių nusikaltimų, taip pat jei yra duomenų, kad būdamas laisvėje asmuo,
+įtariamas grasinimu ar pasikėsinimu padaryti nusikaltimą, gali tą nusikaltimą
+padaryti.
 5. Be to,
 suėmimo pagrindas yra prašymas išduoti asmenį užsienio valstybei arba perduoti
-Tarptautiniam baudžiamajam teismui.
+Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, taip pat
+užsienio valstybės prašymas laikinai sulaikyti ieškomą asmenį, kol bus
+atsiųstas prašymas dėl asmens ekstradicijos ar Europos arešto orderis.
 6. Skiriant
 suėmimą turi būti nurodytas jo skyrimo pagrindas ir motyvai.
 7. Suėmimas gali
@@ -2140,6 +2443,9 @@ negalima pasiekti šio Kodekso 119 straipsnyje numatytų tikslų.
 būti skiriamas tik tiriant ir nagrinėjant bylas dėl nusikaltimų, už kuriuos
 baudžiamasis įstatymas numato griežtesnę negu vienerių metų laisvės atėmimo
 bausmę.
+Straipsnio pakeitimai:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
  
 123
 straipsnis. Suėmimo skyrimo tvarka
@@ -2150,8 +2456,8 @@ sulaikytas šio Kodekso 140 straipsnyje nustatyta tvarka.
 manydamas, kad įtariamajam, kuris nėra sulaikytas, būtina skirti suėmimą,
 kreipiasi su pareiškimu į tyrimo atlikimo vietos apylinkės teismo ikiteisminio
 tyrimo teisėją. Prokuroro pareiškime turi būti nurodyti šio Kodekso 125
-straipsnio 2 dalyje nustatyti duomenys. Teisėjas, nusprendęs patenkinti prokuroro
-pareiškimą, priima nutartį skirti suėmimą, nusprendęs atsisakyti pareiškimą
+straipsnio 2 dalyje nustatyti duomenys. Teisėjas, nusprendęs patenkinti
+prokuroro pareiškimą, priima nutartį skirti suėmimą, nusprendęs atsisakyti pareiškimą
 patenkinti, – nutartį atsisakyti skirti suėmimą.
 3. Remiantis šio
 straipsnio 2 dalyje nurodyta nutartimi suimtą asmenį ne vėliau kaip per
@@ -2167,12 +2473,12 @@ ar ją panaikinti.
 140 straipsnyje nustatyta tvarka sulaikytą asmenį, kuriam reikia skirti
 suėmimą, prokuroras ne vėliau kaip per keturiasdešimt aštuonias valandas nuo
 sulaikymo momento kartu su pareiškimu dėl suėmimo pristato tyrimo atlikimo
-vietos apylinkės teismo ikiteisminio tyrimo teisėjui. Teisėjas privalo
-pristatytą asmenį apklausti dėl suėmimo pagrįstumo. Sulaikyto asmens apklausoje
-gali dalyvauti gynėjas ir prokuroras. Apklausęs sulaikytą asmenį, teisėjas
-patenkina prokuroro pareiškimą ir priima nutartį skirti suėmimą, kurioje
-nustatomas konkretus suėmimo terminas, arba atsisako patenkinti pareiškimą ir
-priima nutartį atsisakyti skirti suėmimą.
+vietos apylinkės teismo ikiteisminio tyrimo teisėjui. Teisėjas privalo pristatytą
+asmenį apklausti dėl suėmimo pagrįstumo. Sulaikyto asmens apklausoje gali
+dalyvauti gynėjas ir prokuroras. Apklausęs sulaikytą asmenį, teisėjas patenkina
+prokuroro pareiškimą ir priima nutartį skirti suėmimą, kurioje nustatomas
+konkretus suėmimo terminas, arba atsisako patenkinti pareiškimą ir priima
+nutartį atsisakyti skirti suėmimą.
 5. Teisėjas,
 priimdamas nutartį skirti suėmimą arba palikdamas šią nutartį galioti, gali
 pavesti prokurorui per nustatytą terminą surinkti papildomą medžiagą. Gavęs šią
@@ -2183,12 +2489,11 @@ perduota į teismą, paskirti, palikti galioti, pratęsti ar panaikinti suėmim�
 arba pakeisti jį kita kardomąja priemone gali teismas, kurio žinioje yra byla,
 vadovaudamasis šio Kodekso 122 straipsnio reikalavimais.
 7. Teisėjui
-nagrinėjant suėmimo skyrimo klausimą, rašomas posėdžio protokolas. Jame užrašomi pristatyto teisėjui asmens
-paaiškinimai, prokuroro ir gynėjo pareiškimai bei pastabos.
+nagrinėjant suėmimo skyrimo klausimą, rašomas posėdžio protokolas. Jame
+užrašomi pristatyto teisėjui asmens paaiškinimai, prokuroro ir gynėjo pareiškimai bei pastabos.
  
-124
-straipsnis. Suimto asmens pristatymas kitos apylinkės teismo ikiteisminio
-tyrimo teisėjui
+124 straipsnis. Suimto asmens
+pristatymas kitos apylinkės teismo ikiteisminio tyrimo teisėjui
 1. Suimtas
 asmuo, kurio per keturiasdešimt aštuonias valandas nuo suėmimo neįmanoma
 pristatyti suėmimą paskyrusiam ikiteisminio tyrimo teisėjui arba kitam tos
@@ -2252,26 +2557,27 @@ dešimčiai dienų, o kai suėmimas paskirtas ar pratęstas trumpesniam negu vie
 mėnesio terminui, – likus ne mažiau kaip penkioms dienoms iki anksčiau paskirto
 ar pratęsto suėmimo termino pabaigos turi su pareiškimu kreiptis į ikiteisminio
 tyrimo teisėją, o jei pratęsus suėmimo terminą bendra suėmimo trukmė viršytų
-šešis mėnesius arba jei suėmimas trunka ilgiau kaip šešis mėnesius, – į apygardos
-teismą.
+šešis mėnesius arba jei suėmimas trunka ilgiau kaip šešis mėnesius, – į
+apygardos teismą.
 4. Prokuroro
 pareiškime dėl suėmimo termino pratęsimo turi būti nurodyti šio Kodekso 125
 straipsnio 2 dalyje išvardyti duomenys. Jei pratęsus suėmimo terminą bendra
-suėmimo trukmė viršytų šešis mėnesius arba jei suėmimas trunka ilgiau kaip šešis
-mėnesius, pareiškime turi būti pateikti motyvai, kodėl byla laikytina ypač
-sudėtinga ar didelės apimties, ir išvardyti pagrindiniai ikiteisminio tyrimo
-veiksmai, atlikti po suėmimo paskyrimo ar suėmimo termino paskutinio pratęsimo.
+suėmimo trukmė viršytų šešis mėnesius arba jei suėmimas trunka ilgiau kaip
+šešis mėnesius, pareiškime turi būti pateikti motyvai, kodėl byla laikytina
+ypač sudėtinga ar didelės apimties, ir išvardyti pagrindiniai ikiteisminio
+tyrimo veiksmai, atlikti po suėmimo paskyrimo ar suėmimo termino paskutinio
+pratęsimo.
 5. Teismas
 negali atsisakyti patenkinti prokuroro pareiškimą dėl suėmimo termino pratęsimo
 vien dėl tos priežasties, kad toks pareiškimas paduotas praleidus šio
 straipsnio 3 dalyje numatytus terminus.
-6.
-Suėmimo termino pratęsimo ikiteisminio tyrimo metu klausimui išspręsti
-ikiteisminio tyrimo teisėjas ar apygardos teismo teisėjas privalo surengti
-posėdį, į kurį šaukiami gynėjas ir prokuroras. Šių asmenų dalyvavimas tokiame
-posėdyje būtinas. Prireikus į posėdį gali būti pristatomas suimtasis. Suimtąjį
-privaloma pristatyti į posėdį tuo atveju, kai sprendžiamas ilgiau kaip šešis
-mėnesius trunkančio suėmimo termino pratęsimo klausimas.
+6. Suėmimo termino pratęsimo ikiteisminio
+tyrimo metu klausimui išspręsti ikiteisminio tyrimo teisėjas ar apygardos
+teismo teisėjas privalo surengti posėdį, į kurį šaukiami gynėjas ir prokuroras.
+Šių asmenų dalyvavimas tokiame posėdyje būtinas. Prireikus į posėdį gali būti
+pristatomas suimtasis. Suimtąjį privaloma pristatyti į posėdį tuo atveju, kai
+sprendžiamas ilgiau kaip šešis mėnesius trunkančio suėmimo termino pratęsimo
+klausimas.
 7. Teisėjas šio
 straipsnio 6 dalyje nurodytame posėdyje priima nutartį pratęsti suėmimo terminą
 arba šio termino nepratęsti. Teisėjas priima nutartį nepratęsti suėmimo
@@ -2284,11 +2590,10 @@ priima nutartį nepratęsti suėmimo termino, suimtasis į laisvę paleidžiamas
 pasibaigus anksčiau paskirtam ar pratęstam terminui. Teisėjas gali nuspręsti
 paleisti asmenį tuoj pat, jei nustato, kad suėmimas buvo paskirtas ar
 pratęstas, nors aiškiai tam nebuvo būtinų sąlygų ar pagrindo.
-9. Kai
-byla perduota teismui, suėmimo termino pratęsimo klausimą teismas, kurio
-žinioje yra byla, sprendžia nepaisydamas to, ar dėl to gautas prokuroro
-pareiškimas. Jei teismas perdavė bylą prokurorui, suėmimo terminas teismo gali
-būti pratęstas ne ilgiau kaip iki trijų mėnesių.
+9. Kai byla perduota teismui, suėmimo termino
+pratęsimo klausimą teismas, kurio žinioje yra byla, sprendžia nepaisydamas to,
+ar dėl to gautas prokuroro pareiškimas. Jei teismas perdavė bylą prokurorui,
+suėmimo terminas teismo gali būti pratęstas ne ilgiau kaip iki trijų mėnesių.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
@@ -2326,9 +2631,8 @@ turtui ar būstui apsaugoti ir jų imtis.
 straipsnio 1 ar 2 dalyje nurodytas priemones prokuroras arba teismas praneša
 suimtajam.
  
-130
-straipsnis. Suimtojo arba jo gynėjo teisė apskųsti nutartį paskirti suėmimą
-arba nutartį pratęsti suėmimo terminą 
+130 straipsnis. Suimtojo arba jo gynėjo
+teisė apskųsti nutartį paskirti suėmimą arba nutartį pratęsti suėmimo terminą 
 1. Suimtasis arba jo gynėjas turi teisę aukštesniajam
 teismui paduoti skundą dėl suėmimo paskyrimo bei dėl šios kardomosios priemonės
 termino pratęsimo. Skundą dėl suėmimo paskyrimo ar šios kardomosios priemonės
@@ -2349,22 +2653,22 @@ teismo teisėjo priimta nutartis yra galutinė ir neskundžiama.
 131
 straipsnis. Prokuroro teisė apskųsti teisėjo nutartį
 1. Prokuroras
-ikiteisminio tyrimo arba bylos nagrinėjimo teisme metu ne vėliau kaip per tris
-dienas nuo atitinkamos nutarties priėmimo turi teisę aukštesniajam teismui
-paduoti skundą dėl suėmimo nepaskyrimo arba suimtojo paleidimo į laisvę, arba suėmimo termino nepratęsimo. Skundas paduodamas
-per suėmimo nepaskyrusį, suimtąjį paleidusį arba suėmimo termino nepratęsusį
-teismą, o šis privalo nedelsdamas perduoti skundą aukštesniajam teismui.
-Aukštesniojo teismo teisėjas privalo
-išnagrinėti skundą ne vėliau kaip per septynias dienas nuo jo gavimo dienos.
-Skundui nagrinėti rengiamas posėdis; į jį šaukiami įtariamasis ar kaltinamasis
-ir gynėjas. Šių asmenų neatvykimas netrukdo teismui nagrinėti skundą. Prokuroro
-dalyvavimas tokiame posėdyje būtinas.
-Prokuroras turi pateikti aukštesniajam teismui skundui nagrinėti reikalingą
-ikiteisminio tyrimo medžiagą. Jei skundas paduotas nagrinėjant bylą teisme,
-teismas, kurio nutartis apskųsta, privalo aukštesniajam teismui perduoti
-skundui nagrinėti reikalingą bylos medžiagą.
+ikiteisminio tyrimo arba bylos nagrinėjimo
+teisme metu ne vėliau kaip per tris dienas nuo atitinkamos nutarties priėmimo
+turi teisę aukštesniajam teismui paduoti skundą dėl suėmimo nepaskyrimo arba
+suimtojo paleidimo į laisvę, arba suėmimo termino nepratęsimo. Skundas paduodamas per suėmimo nepaskyrusį, suimtąjį paleidusį
+arba suėmimo termino nepratęsusį teismą, o šis privalo nedelsdamas perduoti
+skundą aukštesniajam teismui. Aukštesniojo teismo teisėjas privalo išnagrinėti
+skundą ne vėliau kaip per septynias dienas nuo jo gavimo dienos. Skundui nagrinėti rengiamas posėdis; į jį šaukiami įtariamasis
+ar kaltinamasis ir gynėjas. Šių asmenų neatvykimas netrukdo teismui nagrinėti
+skundą. Prokuroro dalyvavimas tokiame posėdyje būtinas. Prokuroras turi
+pateikti aukštesniajam teismui skundui
+nagrinėti reikalingą ikiteisminio tyrimo medžiagą. Jei skundas paduotas
+nagrinėjant bylą teisme, teismas, kurio nutartis apskųsta, privalo
+aukštesniajam teismui perduoti skundui nagrinėti reikalingą bylos medžiagą.
 2. Aukštesniojo
-teismo teisėjo priimta nutartis yra galutinė ir neskundžiama.
+teismo teisėjo priimta nutartis yra galutinė
+ir neskundžiama.
 3. Prokuroro
 paduotas skundas nesustabdo teismo priimtos nutarties vykdymo.
  
@@ -2406,14 +2710,14 @@ užstato davėjas sumokėjo nustatyto dydžio piniginę įmoką, ir nurodomas į
 dokumento (kvito) numeris. Įmokos dokumentas (kvitas) pridedamas prie
 baudžiamosios bylos. Įtariamajam ir užstato davėjui pasirašytinai įteikiami
 nutarimo ar nutarties skirti kardomąją priemonę – užstatą nuorašas.
-5. Jei įtariamasis
-pažeidžia kardomąją priemonę – užstatą, jam kaip kardomoji priemonė skiriamas
-suėmimas, kai tam yra pagrindas, o užstatas pereina valstybei. Dėl to, kad kaip
-užstatas sumokėta piniginė įmoka pereina valstybei, priimamas nutarimas ar
-nutartis arba tai pažymima nuosprendžio rezoliucinėje dalyje. Prokuroro
-nutarimas gali būti apskųstas ikiteisminio tyrimo teisėjui, o teisėjo ar teismo
-nutartis – aukštesniajam teismui per penkias dienas nuo pranešimo apie tokio
-nutarimo ar nutarties priėmimą gavimo dienos.
+5. Jei
+įtariamasis pažeidžia kardomąją priemonę – užstatą, jam kaip kardomoji priemonė
+skiriamas suėmimas, kai tam yra pagrindas, o užstatas pereina valstybei. Dėl
+to, kad kaip užstatas sumokėta piniginė įmoka pereina valstybei, priimamas
+nutarimas ar nutartis arba tai pažymima nuosprendžio rezoliucinėje dalyje.
+Prokuroro nutarimas gali būti apskųstas ikiteisminio tyrimo teisėjui, o teisėjo
+ar teismo nutartis – aukštesniajam teismui per penkias dienas nuo pranešimo
+apie tokio nutarimo ar nutarties priėmimą gavimo dienos.
 6. Jeigu
 priimtas sprendimas nutraukti procesą, įsiteisėjo nuosprendis arba nuspręsta,
 kad taikyti užstatą kaip kardomąją priemonę netikslinga, užstatas grąžinamas
@@ -2428,16 +2732,15 @@ kortelė, vairuotojo pažymėjimas. Paėmus dokumentus, įtariamajam
 išduodama generalinio prokuroro nustatytos formos pažyma, kurioje nurodomi
 paimti dokumentai.
  
-135
-straipsnis. Įtariamojo įpareigojimas periodiškai registruotis policijos
-įstaigoje
+135 straipsnis. Įtariamojo įpareigojimas
+periodiškai registruotis policijos įstaigoje
 1. Prokuroro
 nutarimu ar teismo nutartimi įtariamasis gali būti įpareigotas registruotis
-policijos įstaigoje. Nutarime ar nutartyje turi būti nurodytas įstaigos adresas, kokiomis savaitės ar
-mėnesio dienomis ir kokią valandą įtariamasis privalo atvykti į policijos
-įstaigą registruotis. Jei įtariamasis nustatytu laiku neatvyksta registruotis,
-policijos įstaigos pareigūnas privalo nedelsdamas pranešti prokurorui ir imtis priemonių įtariamojo buvimo
-vietai nustatyti.
+policijos įstaigoje. Nutarime ar nutartyje turi būti nurodytas įstaigos
+adresas, kokiomis savaitės ar mėnesio dienomis ir kokią valandą įtariamasis privalo atvykti į policijos įstaigą registruotis.
+Jei įtariamasis nustatytu laiku neatvyksta registruotis, policijos įstaigos
+pareigūnas privalo nedelsdamas pranešti prokurorui ir imtis priemonių
+įtariamojo buvimo vietai nustatyti.
 2. Pažeidusiam įpareigojimą periodiškai registruotis
 policijos įstaigoje įtariamajam gali būti paskirta griežtesnė kardomoji
 priemonė.
@@ -2471,8 +2774,8 @@ paskyrusiems šią kardomąją priemonę.
  
 138
 straipsnis. Nepilnamečio atidavimas prižiūrėti
-1. Nepilnamečio įtariamojo atidavimas tėvams, rūpintojams
-arba kitiems fiziniams ar juridiniams asmenims, kurie rūpinasi vaikais,
+1. Nepilnamečio įtariamojo atidavimas tėvams,
+rūpintojams arba kitiems fiziniams ar juridiniams asmenims, kurie rūpinasi vaikais,
 prižiūrėti yra kurio nors iš nurodytų asmenų rašytinis įsipareigojimas
 užtikrinti, kad nepilnametis įtariamasis deramai elgsis ir šaukiamas atvyks pas
 ikiteisminio tyrimo pareigūną, prokurorą ar į teismą.
@@ -2490,16 +2793,16 @@ lygių (MGL) dydžio bauda.
 139
 straipsnis. Kardomosios priemonės panaikinimas ar pakeitimas
 1. Paskirta
-kardomoji priemonė panaikinama, kai ji tampa
-nebereikalinga, arba pakeičiama griežtesne ar švelnesne, kai to reikalauja
+kardomoji priemonė panaikinama, kai ji tampa nebereikalinga, arba pakeičiama
+griežtesne ar švelnesne, kai to reikalauja
 bylos aplinkybės. Kardomąją priemonę panaikina arba pakeičia prokuroras
 nutarimu arba teismas nutartimi.
 2. Jeigu
-ikiteisminio tyrimo metu išnyksta suėmimo pagrindai ar jam taikyti reikalingos sąlygos, prokuroras privalo nedelsdamas su
-pareiškimu kreiptis į suėmimą paskyrusį ar suėmimo terminą pratęsusį teismą dėl nutarties
+ikiteisminio tyrimo metu išnyksta suėmimo pagrindai ar jam taikyti reikalingos
+sąlygos, prokuroras privalo nedelsdamas su pareiškimu
+kreiptis į suėmimą paskyrusį ar suėmimo terminą pratęsusį teismą dėl nutarties
 skirti suėmimą ar pratęsti jo terminą panaikinimo. Teismas dėl įtariamojo
-paleidimo į laisvę privalo nuspręsti
-prokuroro pareiškimo gavimo dieną.
+paleidimo į laisvę privalo nuspręsti prokuroro pareiškimo gavimo dieną.
  
 XII skyrius
 Kitos procesinės prievartos priemonės
@@ -2539,9 +2842,8 @@ gali būti pratęstas arba įtariamasis gali būti perkeltas į kitą specialią
 atiduodamas į ekspertizės įstaigą, taip pat laikymo joje terminai nustatomi ar
 pratęsiami laikantis tos pačios tvarkos kaip ir skiriant, pratęsiant ar
 apskundžiant suėmimą.
-4. Suimtas
-įtariamasis į ekspertizės įstaigą ikiteisminio tyrimo metu atiduodamas
-prokuroro nutarimu.
+4. Suimtas įtariamasis
+į ekspertizės įstaigą ikiteisminio tyrimo metu atiduodamas prokuroro nutarimu.
 5. Į ekspertizės
 įstaigą gali būti atiduotas ir kaltinamasis.
  
@@ -2616,12 +2918,13 @@ procese negali būti remiamasi kaip įtariamojo ar kaltinamojo kaltumą
 pagrindžiančiais duomenimis.
 4. Darant
 kratą, turi dalyvauti buto, namo ar kitų patalpų, kuriose daroma krata,
-savininkas, nuomotojas, valdytojas, pilnametis jų šeimos narys ar artimasis giminaitis, o darant kratą įmonėje, įstaigoje
+savininkas, nuomotojas, valdytojas, pilnametis jų šeimos narys ar artimasis
+giminaitis, o darant kratą įmonėje, įstaigoje
 ar organizacijoje, – tos įmonės, įstaigos ar organizacijos atstovas. Kai nėra
 galimybės užtikrinti šių asmenų dalyvavimą, krata daroma kviestinio ar
-savivaldybės institucijos atstovo akivaizdoje.
-Prireikus kviestiniai gali būti kviečiami dalyvauti atliekant kratą ir kitais
-atvejais.
+savivaldybės institucijos atstovo akivaizdoje. Prireikus kviestiniai gali būti
+kviečiami dalyvauti atliekant kratą ir
+kitais atvejais.
 5. Krata žemėje,
 miške, vandens telkiniuose gali būti daroma ir nedalyvaujant savininkui,
 nuomotojui ar valdytojui, tačiau šiems asmenims vėliau pranešama raštu apie
@@ -2635,10 +2938,10 @@ daroma pagal tas pačias taisykles kaip ir buto, namo ar kitų patalpų krata.
 dėl to nepriėmus atskiros nutarties, gali būti daroma:
 1) sulaikant ar
 suimant;
-2) kai yra pakankamas
-pagrindas manyti, kad patalpoje ar kitoje vietoje, kur daromas poėmis ar krata,
-esantis asmuo slepia prie savęs daiktus ar dokumentus, galinčius turėti
-reikšmės nusikalstamai veikai tirti.
+2) kai yra
+pakankamas pagrindas manyti, kad patalpoje ar kitoje vietoje, kur daromas
+poėmis ar krata, esantis asmuo slepia prie savęs daiktus ar dokumentus,
+galinčius turėti reikšmės nusikalstamai veikai tirti.
 3. Asmens kratą
 gali daryti tik tos pačios lyties asmuo.
 4. Darant asmens
@@ -2680,10 +2983,10 @@ tikrinti paimtų pašto siuntų turinį turi prokuroras, teisėjas ir teismas.
  
 149
 straipsnis. Kratos ir poėmio tvarka
-1. Pareigūnas, pradėdamas
-kratą ir poėmį, privalo paskelbti nutartį ar nutarimą dėl kratos ar poėmio, po
-to pareikalauti atiduoti nutartyje ar nutarime nurodytus daiktus ar dokumentus
-arba nurodyti besislapstančio asmens buvimo vietą.
+1. Pareigūnas,
+pradėdamas kratą ir poėmį, privalo paskelbti nutartį ar nutarimą dėl kratos ar
+poėmio, po to pareikalauti atiduoti nutartyje ar nutarime nurodytus daiktus ar
+dokumentus arba nurodyti besislapstančio asmens buvimo vietą.
 2. Darydamas
 kratą ar poėmį, pareigūnas turi teisę atidaryti užrakintas patalpas ir
 talpyklas, jeigu atidaryti jas atsisakoma. Pareigūnas turi vengti nereikalingo
@@ -2696,11 +2999,10 @@ susižinoti tarpusavyje arba su kitais asmenimis iki kratos ar poėmio pabaigos.
 vieta, kur daroma krata ar poėmis, gali būti pareigūnų apsupta.
 5. Daryti kratas
 ar poėmius nakties metu, išskyrus neatidėliotinus atvejus, draudžiama.
-6. Darantis
-kratą ar poėmį pareigūnas turi teisę paimti tik tuos daiktus ir dokumentus, kurie gali
-turėti reikšmės tyrimui. Daiktai ir dokumentai, kurių apyvarta įstatymų
-uždrausta, turi būti paimami neatsižvelgiant
-į jų ryšį su tyrimu.
+6. Darantis kratą ar poėmį pareigūnas turi teisę paimti tik tuos
+daiktus ir dokumentus, kurie gali turėti reikšmės tyrimui. Daiktai ir
+dokumentai, kurių apyvarta įstatymų uždrausta, turi būti paimami
+neatsižvelgiant į jų ryšį su tyrimu.
 7. Visi
 paimtieji daiktai ir dokumentai parodomi dalyvaujantiems asmenims ir
 išvardijami kratos ar poėmio protokole arba prie protokolo pridedamame
@@ -2718,8 +3020,8 @@ daiktai ir dokumentai nebuvo paimti, tai nurodoma protokole. Vienas kratos bei
 poėmio protokolo egzempliorius paliekamas asmeniui, pas kurį buvo daroma
 krata ar poėmis.
  
-150
-straipsnis. Kratos ir poėmio diplomatinių atstovybių patalpose sąlygos
+150 straipsnis. Kratos ir poėmio
+diplomatinių atstovybių patalpose sąlygos
 1. Daryti kratas
 ir poėmius patalpoje, kurioje yra diplomatinė atstovybė arba kurioje
 gyvena diplomatinės atstovybės nariai ir jų šeimos, galima tik diplomatinių
@@ -2732,12 +3034,10 @@ Lietuvos Respublikos užsienio reikalų ministerijos atstovo dalyvavimas.
 151
 straipsnis. Laikinas nuosavybės teisės apribojimas
 1. Civiliniam
-ieškiniui ar galimam turto konfiskavimui
-užtikrinti prokuroro nutarimu įtariamajam ar pagal įstatymus materialiai
+ieškiniui ar galimam turto konfiskavimui užtikrinti prokuroro nutarimu įtariamajam ar pagal įstatymus materialiai
 atsakingam už įtariamojo veiksmus fiziniam asmeniui arba fiziniams asmenims,
-kurie turi nusikalstamu būdu gautą ar įgytą turtą, gali būti skiriamas laikinas nuosavybės teisės apribojimas.
-Laikinas nuosavybės teisės apribojimas gali būti skiriamas kartu su poėmiu ar
-krata.
+kurie turi nusikalstamu būdu gautą ar įgytą turtą, gali būti skiriamas laikinas
+nuosavybės teisės apribojimas. Laikinas nuosavybės teisės apribojimas gali būti skiriamas kartu su poėmiu ar krata.
 2. Juridinio
 asmens nuosavybės teisė gali būti laikinai apribota prokuroro nutarimu, kai:
 1) siekiama
@@ -2788,8 +3088,8 @@ nutartimi, jeigu ši priemonė tampa nebereikalinga.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
-Nr. IX-1637, 2003-06-19,
-Žin., 2003, Nr. 68-3070 (2003-07-09)
+Nr. IX-1637,
+2003-06-19, Žin., 2003, Nr. 68-3070 (2003-07-09)
  
 152
 straipsnis. Nutarimas skirti laikiną nuosavybės teisės apribojimą
@@ -2854,53 +3154,50 @@ laikiną nuosavybės teisės apribojimą, prokuroras ar teismas apie tai
 nedelsdamas turi pranešti turto arešto aktų registro tvarkytojui ir pateikti
 nutarimą ar nutartį panaikinti laikiną nuosavybės teisės apribojimą.
  
-153
-straipsnis. Dokumentų dėl laikino nuosavybės teisės apribojimo perdavimas
-bankroto bylą nagrinėjančiam teismui
+153 straipsnis. Dokumentų dėl laikino
+nuosavybės teisės apribojimo perdavimas bankroto bylą nagrinėjančiam teismui
 1. Jeigu
 baudžiamojoje byloje, užtikrinant civilinį ieškinį, šio Kodekso 151 straipsnyje
 nustatyta tvarka laikinai apribota įmonės, kuriai iškelta bankroto byla,
-nuosavybės teisė, visi su laikinu nuosavybės
-teisės apribojimu susiję dokumentai gali būti perduoti bankroto bylą
+nuosavybės teisė, visi su laikinu nuosavybės teisės apribojimu susiję
+dokumentai gali būti perduoti bankroto bylą
 nagrinėjančiam teismui. Bankroto bylą nagrinėjantis teismas sprendžia visus su
 apribota nuosavybės teise susijusius klausimus.
 2. Baudžiamojoje
 byloje paskirtam turto saugotojui ar administratoriui išlieka visos teisės ir
 pareigos, kol laikinas nuosavybės teisės apribojimas bus panaikintas.
  
-154
-straipsnis. Telekomunikacijų tinklais perduodamos informacijos kontrolė bei
-įrašų darymas
+154 straipsnis. Telekomunikacijų
+tinklais perduodamos informacijos kontrolė bei įrašų darymas
 1. Kai pagal prokuroro prašymą yra priimta
 ikiteisminio tyrimo teisėjo nutartis, ikiteisminio tyrimo pareigūnas gali
 klausytis telefoninių pokalbių, kontroliuoti kitą telekomunikacijų tinklais
 perduodamą informaciją ir daryti įrašus, jeigu yra pagrindas manyti, kad tokiu
-būdu galima gauti duomenų apie rengiamą, daromą ar padarytą labai sunkų ar
-sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos
-Respublikos baudžiamojo kodekso 131 straipsnyje, 145 straipsnio 2 dalyje, 146
-straipsnio 2 ir 3 dalyse, 162 straipsnyje, 178 straipsnio 2 dalyje, 180
-straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 189 straipsnio 2 dalyje, 213
-straipsnio 1 dalyje, 225 straipsnio 2 dalyje, 253 straipsnio 1 dalyje, 256
-straipsnio 1 dalyje, 307 straipsnio 1 ir 2 dalyse, arba jeigu yra pavojus, kad
-nukentėjusiajam, liudytojui ar kitiems proceso dalyviams arba jų artimiesiems
-bus panaudotas smurtas, prievartavimas ar kitokios neteisėtos veikos.
-Neatidėliotinais atvejais šie ikiteisminio tyrimo pareigūno veiksmai gali būti
-atliekami ir prokuroro nutarimu. Šiuo atveju per tris dienas nuo tokių veiksmų
-pradžios turi būti gautas ikiteisminio tyrimo teisėjo sutikimas. Jei toks
-sutikimas negaunamas, pradėti veiksmai turi būti nutraukti, o visi įrašai
-nedelsiant sunaikinami.
+būdu galima gauti duomenų apie rengiamą, daromą ar padarytą labai sunkų ar sunkų
+nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos
+baudžiamojo kodekso 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2
+ir 3 dalyse, 162 straipsnyje, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje,
+181 straipsnio 1 dalyje, 189 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 225
+straipsnio 2 dalyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 307
+straipsnio 1 ir 2 dalyse, arba jeigu yra pavojus, kad nukentėjusiajam,
+liudytojui ar kitiems proceso dalyviams arba jų artimiesiems bus panaudotas
+smurtas, prievartavimas ar kitokios neteisėtos veikos. Neatidėliotinais
+atvejais šie ikiteisminio tyrimo pareigūno veiksmai gali būti atliekami ir
+prokuroro nutarimu. Šiuo atveju per tris dienas nuo tokių veiksmų pradžios turi
+būti gautas ikiteisminio tyrimo teisėjo sutikimas. Jei toks sutikimas
+negaunamas, pradėti veiksmai turi būti nutraukti, o visi įrašai nedelsiant
+sunaikinami.
 2. Šio
-straipsnio 1 dalyje nustatyta tvarka gali
-būti kontroliuojama ir fiksuojama telekomunikacijų tinklais perduodama
+straipsnio 1 dalyje nustatyta tvarka gali būti kontroliuojama ir fiksuojama
+telekomunikacijų tinklais perduodama
 informacija, išskyrus jos turinį, jeigu yra pagrindas manyti, kad tokiu būdu
 galima gauti duomenų apie nesunkius nusikaltimus, numatytus Lietuvos
-Respublikos baudžiamojo kodekso 166, 196,
-197, 198(1) straipsniuose, 309 straipsnio 1 ir 2 dalyse.
+Respublikos baudžiamojo kodekso 166, 196, 197, 198(1) straipsniuose, 309
+straipsnio 1 ir 2 dalyse.
 3. Telefoninių
 pokalbių klausymas ar kitos telekomunikacijų tinklais perduodamos informacijos
 kontrolė negali trukti ilgiau kaip šešis mėnesius. Tiriant sudėtingą ar didelio
-masto nusikalstamą veiką, šios priemonės
-taikymas gali būti vieną kartą pratęstas trims mėnesiams.
+masto nusikalstamą veiką, šios priemonės taikymas gali būti vieną kartą pratęstas trims mėnesiams.
 4.
 Telekomunikacijų operatoriai privalo sudaryti sąlygas klausytis
 telefoninių pokalbių ar kontroliuoti kitą telekomunikacijų tinklais perduodamą
@@ -2909,11 +3206,10 @@ darbuotojai, nevykdantys šios pareigos ar trukdantys atlikti šiame straipsnyje
 nurodytus veiksmus, gali būti remiantis šio Kodekso 163 straipsniu nubausti
 bauda.
 5. Pokalbių
-nukentėjusiųjų, liudytojų ar kitų proceso
-dalyvių telefonais galima klausytis šių asmenų prašymu arba jų sutikimu, nors
-ir nėra tuo reikalu priimtos ikiteisminio tyrimo teisėjo nutarties, jei
-klausantis nesinaudojama telekomunikacijų operatorių paslaugomis ir
-įrenginiais.
+nukentėjusiųjų, liudytojų ar kitų proceso dalyvių telefonais galima klausytis
+šių asmenų prašymu arba jų sutikimu, nors ir
+nėra tuo reikalu priimtos ikiteisminio tyrimo teisėjo nutarties, jei klausantis
+nesinaudojama telekomunikacijų operatorių paslaugomis ir įrenginiais.
 6. Draudžiama klausytis gynėjo telefoninių pokalbių su
 įtariamuoju ar kaltinamuoju, kontroliuoti kitą telekomunikacijų tinklais tarp
 jų perduodamą informaciją ir daryti jos įrašus.
@@ -2942,17 +3238,18 @@ atsisakantys pateikti prokurorui reikalaujamą informaciją ar dokumentus, gali
 būti remiantis šio Kodekso 163 straipsniu nubausti bauda.
 3. Prokuroras
 šio straipsnio 1 dalyje nustatyta tvarka gautą informaciją gali panaudoti tik
-nusikalstamai veikai tirti. Nusikalstamos veikos tyrimui nereikalingą informaciją prokuroras privalo nedelsdamas sunaikinti.
+nusikalstamai veikai tirti. Nusikalstamos veikos tyrimui nereikalingą
+informaciją prokuroras privalo nedelsdamas sunaikinti.
 4. Prokuroro
 pavedimu susipažinti su informacija šiame straipsnyje nustatyta tvarka gali ir
 ikiteisminio tyrimo pareigūnas.
 5. Lietuvos
-Respublikos įstatymai gali nustatyti prokuroro teisės susipažinti su informacija
-apribojimus.
+Respublikos įstatymai gali nustatyti prokuroro teisės susipažinti su
+informacija apribojimus.
  
-156
-straipsnis. Fotografavimas, filmavimas, matavimas, rankų atspaudų ir pavyzdžio
-genetinei daktiloskopijai paėmimas
+156 straipsnis. Fotografavimas,
+filmavimas, matavimas, rankų atspaudų ir pavyzdžio genetinei daktiloskopijai
+paėmimas
 1. Ikiteisminio
 tyrimo pareigūno ar prokuroro nutarimu įtariamasis, o teismo nutartimi
 kaltinamasis, nors jie tam ir prieštarautų, gali būti fotografuojami,
@@ -2964,27 +3261,27 @@ Jei tokie asmenys nesutinka, kad jiems būtų atliekami tokie veiksmai, šiuos
 veiksmus galima atlikti priverstiniu būdu, bet tik tuo atveju, kai yra
 prokuroro nutarimas.
  
-157
-straipsnis. Laikinas nušalinimas nuo pareigų ar laikinas teisės užsiimti tam
-tikra veikla sustabdymas
+157 straipsnis. Laikinas nušalinimas nuo
+pareigų ar laikinas teisės užsiimti tam tikra veikla sustabdymas
 1.
-Nusikalstamos veikos tyrimo metu ikiteisminio tyrimo teisėjas, gavęs prokuroro
-prašymą, nutartimi turi teisę laikinai nušalinti įtariamąjį nuo pareigų ar
-laikinai sustabdyti teisę užsiimti tam tikra veikla, jei tai būtina, kad būtų greičiau ir nešališkiau ištirta
-nusikalstama veika ar užkirsta įtariamajam galimybė daryti naujas nusikalstamas
-veikas. Nutartis laikinai nušalinti įtariamąjį nuo pareigų siunčiama įtariamojo
-darbdaviui vykdyti.
+Nusikalstamos veikos tyrimo metu
+ikiteisminio tyrimo teisėjas, gavęs prokuroro prašymą, nutartimi turi teisę
+laikinai nušalinti įtariamąjį nuo pareigų ar laikinai sustabdyti teisę užsiimti
+tam tikra veikla, jei tai būtina, kad būtų greičiau ir nešališkiau ištirta
+nusikalstama veika ar užkirsta įtariamajam
+galimybė daryti naujas nusikalstamas veikas. Nutartis laikinai nušalinti
+įtariamąjį nuo pareigų siunčiama įtariamojo darbdaviui vykdyti.
 2. Laikinas nušalinimas nuo pareigų ar laikinas teisės
 užsiimti tam tikra veikla sustabdymas negali trukti ilgiau kaip
 šešis mėnesius. Prireikus šios priemonės taikymas gali būti pratęstas dar iki
 trijų mėnesių. Pratęsimų skaičius neribojamas.
 3. Nutartį
-laikinai nušalinti įtariamąjį nuo pareigų ar
-laikinai sustabdyti teisę užsiimti tam tikra veikla, taip pat nutartį
-pratęsti šios priemonės taikymo terminą per penkias dienas nuo nutarties
-paskelbimo įtariamajam dienos įtariamasis ar jo gynėjas gali apskųsti
-aukštesniajam teismui. Šio teismo priimta
-nutartis yra galutinė ir neskundžiama.
+laikinai nušalinti įtariamąjį nuo pareigų ar laikinai sustabdyti teisę užsiimti
+tam tikra veikla,
+taip pat nutartį pratęsti šios priemonės
+taikymo terminą per penkias dienas nuo nutarties paskelbimo įtariamajam dienos
+įtariamasis ar jo gynėjas gali apskųsti aukštesniajam teismui. Šio teismo
+priimta nutartis yra galutinė ir neskundžiama.
 4. Kai byla perduota į teismą, dėl laikino nušalinimo
 nuo pareigų ar laikino teisės užsiimti tam tikra veikla sustabdymo nusprendžia
 teismas, kurio žinioje yra byla.
@@ -2993,9 +3290,8 @@ tyrimo metu prokuroras, o perdavus bylą teismui – teismas privalo panaikinti
 laikiną nušalinimą nuo pareigų ar laikiną teisės užsiimti tam tikra
 veikla sustabdymą, kai ši priemonė pasidaro nebereikalinga.
  
-158
-straipsnis. Savo tapatybės neatskleidžiančių ikiteisminio tyrimo pareigūnų
-veiksmai
+158 straipsnis. Savo tapatybės
+neatskleidžiančių ikiteisminio tyrimo pareigūnų veiksmai
 1. Tiriant labai sunkius ir sunkius nusikaltimus, taip
 pat Lietuvos Respublikos baudžiamojo kodekso XXVIII ir XXXVII skyriuose
 numatytus apysunkius nusikaltimus, ikiteisminio tyrimo pareigūnai tyrimą gali
@@ -3107,10 +3403,10 @@ straipsnis. Pranešimas asmeniui apie jam taikytas priemones
 kuriam buvo taikoma bent viena šiame skyriuje numatyta priemonė jam nežinant,
 baigus tokią priemonę taikyti turi būti pranešta apie ją. Pranešti būtina
 iškart, kai tai įmanoma padaryti nepakenkiant tyrimo sėkmei.
-2. Jei baudžiamasis
-procesas nutraukiamas, visa apie privatų asmens gyvenimą surinkta informacija
-turi būti nedelsiant sunaikinta. Sprendimą dėl tokios informacijos sunaikinimo
-priima vyriausiasis apygardos prokuroras. 
+2. Jei
+baudžiamasis procesas nutraukiamas, visa apie privatų asmens gyvenimą surinkta
+informacija turi būti nedelsiant sunaikinta. Sprendimą dėl tokios informacijos
+sunaikinimo priima vyriausiasis apygardos prokuroras. 
 3. Šio
 straipsnio 2 dalyje nustatyta tvarka turi būti sunaikinama ir tam tikra
 informacija, kai nusprendžiama, kad ji ar jos dalis baudžiamajame procese nebus
@@ -3124,14 +3420,13 @@ Nr. IX-1496,
 straipsnis. Informacijos panaudojimas kitose baudžiamosiose bylose
 Vienoje
 baudžiamojoje byloje taikant šiame Kodekse numatytas procesinės prievartos
-priemones surinkta informacija apie privatų
-asmens gyvenimą gali būti panaudota kitoje baudžiamojoje byloje tik
-ikiteisminio tyrimo teisėjo ar teismo sutikimu.
+priemones surinkta informacija apie privatų asmens gyvenimą gali būti panaudota
+kitoje baudžiamojoje byloje tik ikiteisminio
+tyrimo teisėjo ar teismo sutikimu.
  
-163
-straipsnis. Teisėtų ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio
-tyrimo teisėjo ar teismo nurodymų nevykdantiems asmenims taikomos prievartos
-priemonės
+163 straipsnis. Teisėtų ikiteisminio
+tyrimo pareigūno, prokuroro, ikiteisminio tyrimo teisėjo ar teismo nurodymų
+nevykdantiems asmenims taikomos prievartos priemonės
 1. Liudytojas,
 be svarbios priežasties neatvykstantis dalyvauti procese, ar bet koks asmuo,
 nevykdantis ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio tyrimo
@@ -3162,11 +3457,11 @@ Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-IV dalis
+IV
+dalis
 Ikiteisminis tyrimas
  
-XIII
-skyrius
+XIII skyrius
 Ikiteisminio tyrimo bendrosios nuostatos
  
 164
@@ -3206,8 +3501,8 @@ pareiškimą ar pranešimą apie nusikalstamą veiką;
 2) jei prokuroras ar ikiteisminio tyrimo pareigūnas
 patys nustato nusikalstamos veikos požymius ir surašo tarnybinį pranešimą.
 2. Šio Kodekso
-nustatytais atvejais ikiteisminis tyrimas
-pradedamas tik tuo atveju, kai yra nukentėjusiojo skundas.
+nustatytais atvejais ikiteisminis tyrimas pradedamas tik tuo atveju, kai yra
+nukentėjusiojo skundas.
 3. Sprendimą pradėti ikiteisminį tyrimą priima
 prokuroras, ikiteisminio tyrimo įstaigos vadovas ar šio įgaliotas asmuo ant
 pareiškimo, pranešimo ar skundo apie nusikalstamą veiką užrašydami rezoliuciją.
@@ -3217,9 +3512,9 @@ tvarka.
 pradėtą ikiteisminį tyrimą pranešama skundą, pareiškimą arba pranešimą
 padavusiam asmeniui.
  
-167
-straipsnis. Ikiteisminio tyrimo pradžia tik pagal nukentėjusiojo skundą ar jo
-teisėto atstovo pareiškimą, ar prokuroro reikalavimą
+167 straipsnis. Ikiteisminio tyrimo
+pradžia tik pagal nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą, ar
+prokuroro reikalavimą
 1. Dėl nusikalstamų veikų, numatytų Lietuvos
 Respublikos baudžiamojo kodekso 145 straipsnyje, 149 straipsnio 1 dalyje, 150
 straipsnio 1 dalyje, 151 straipsnio 1 dalyje, 178 straipsnio 1 ir 4 dalyse, 179
@@ -3231,11 +3526,11 @@ tvarka.
 2. Šio
 straipsnio 1 dalyje numatytais atvejais ikiteisminis tyrimas gali būti
 pradedamas prokuroro reikalavimu.
-3. Jeigu ikiteisminio tyrimo metu nustatyta, kad įtariamojo
-veikoje yra ir tokios nusikalstamos veikos, dėl kurios tyrimas daromas tik
-pagal nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą, ar prokuroro reikalavimą,
-požymių, tai ikiteisminis tyrimas dėl tos veikos daromas tik gavus atitinkamą
-skundą, pareiškimą ar reikalavimą.
+3. Jeigu ikiteisminio tyrimo metu nustatyta, kad
+įtariamojo veikoje yra ir tokios nusikalstamos veikos, dėl kurios tyrimas
+daromas tik pagal nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą, ar
+prokuroro reikalavimą, požymių, tai ikiteisminis tyrimas dėl tos veikos
+daromas tik gavus atitinkamą skundą, pareiškimą ar reikalavimą.
  
 168
 straipsnis. Atsisakymas pradėti ikiteisminį tyrimą
@@ -3268,8 +3563,8 @@ Nr. IX-1637,
 straipsnis. Prokuroro veiksmai pradedant ikiteisminį tyrimą
 1. Gavęs
 skundą, pareiškimą ar pranešimą apie padarytą nusikalstamą veiką arba pats
-nustatęs nusikalstamos veikos požymius, prokuroras
-tuoj pat pradeda ikiteisminį tyrimą.
+nustatęs nusikalstamos veikos požymius, prokuroras tuoj pat pradeda ikiteisminį
+tyrimą.
 2. Pradėjęs
 ikiteisminį tyrimą, prokuroras arba pats atlieka visus reikalingus ikiteisminio
 tyrimo veiksmus, arba tai padaryti paveda ikiteisminio tyrimo įstaigai.
@@ -3297,13 +3592,12 @@ tyrimo atnaujinimo;
 užbaigimo ir kaltinamojo akto surašymo.
 5. Tik
 prokuroras gali kreiptis į ikiteisminio tyrimo teisėją dėl šio teisėjo
-kompetencijai priskirtų veiksmų atlikimo. Šio Kodekso 214 ir 217 straipsniuose numatytais atvejais prokuroro
-nutarimus dėl ikiteisminio tyrimo nutraukimo ir dėl nutraukto ikiteisminio
-tyrimo atnaujinimo turi patvirtinti ikiteisminio tyrimo teisėjas.
+kompetencijai priskirtų veiksmų atlikimo. Šio Kodekso 214 ir 217 straipsniuose
+numatytais atvejais prokuroro nutarimus dėl ikiteisminio tyrimo nutraukimo ir dėl nutraukto ikiteisminio tyrimo atnaujinimo
+turi patvirtinti ikiteisminio tyrimo teisėjas.
  
-171
-straipsnis. Ikiteisminio tyrimo įstaigų pareigūnų veiksmai pradedant
-ikiteisminį tyrimą
+171 straipsnis. Ikiteisminio tyrimo
+įstaigų pareigūnų veiksmai pradedant ikiteisminį tyrimą
 1. Jeigu skundą,
 pareiškimą ar pranešimą apie nusikalstamą veiką gauna ikiteisminio tyrimo
 įstaiga arba jeigu ikiteisminio tyrimo įstaiga pati nustato nusikalstamos
@@ -3323,8 +3617,8 @@ atlikti ikiteisminio tyrimo veiksmus kitai ikiteisminio tyrimo įstaigai.
 turi teisę sudaryti tyrimo grupę iš kelių vienos ar skirtingų ikiteisminio
 tyrimo įstaigų pareigūnų.
  
-172
-straipsnis. Ikiteisminio tyrimo įstaigų pareigūnų teisės ir pareigos
+172 straipsnis. Ikiteisminio tyrimo
+įstaigų pareigūnų teisės ir pareigos
 1. Ikiteisminio
 tyrimo įstaigos pareigūnas, atlikdamas ikiteisminį tyrimą, turi teisę atlikti
 visus šiame Kodekse numatytus veiksmus, išskyrus tuos, kuriuos gali atlikti tik
@@ -3387,8 +3681,8 @@ veikos tyrimą paveda aukštesnysis prokuroras.
 straipsnis. Atskirieji pavedimai
 1. Prireikus
 tyrimo veiksmus atlikti kitoje vietovėje, prokuroras ar ikiteisminio tyrimo
-įstaigos pareigūnas gali patys juos atlikti arba pavesti tai padaryti atitinkamam
-prokurorui ar ikiteisminio tyrimo įstaigai.
+įstaigos pareigūnas gali patys juos atlikti arba pavesti tai padaryti
+atitinkamam prokurorui ar ikiteisminio tyrimo įstaigai.
 2. Prokuroras
 turi teisę pavesti tyrimo veiksmus atlikti kitos vietovės prokurorui arba bet
 kokiai ikiteisminio tyrimo įstaigai.
@@ -3416,9 +3710,10 @@ numatytus sprendimus.
 177
 straipsnis. Ikiteisminio tyrimo duomenų neskelbtinumas
 1. Ikiteisminio
-tyrimo duomenys neskelbtini. Šie duomenys iki bylos nagrinėjimo teisme gali
-būti paskelbti tik prokuroro leidimu ir tik tiek, kiek pripažįstama leistina.
-Draudžiama skelbti duomenis apie nepilnamečius įtariamuosius ir nukentėjusiuosius.
+tyrimo duomenys neskelbtini. Šie duomenys
+iki bylos nagrinėjimo teisme gali būti paskelbti tik prokuroro leidimu ir tik
+tiek, kiek pripažįstama leistina. Draudžiama skelbti duomenis apie
+nepilnamečius įtariamuosius ir nukentėjusiuosius.
 2. Reikiamais
 atvejais prokuroras ar ikiteisminio tyrimo pareigūnas įspėja proceso dalyvius
 ar kitus asmenis, mačiusius atliekamus ikiteisminio tyrimo veiksmus, kad
@@ -3429,11 +3724,12 @@ Respublikos baudžiamojo kodekso 247 straipsnį.
 XIV skyrius
 Ikiteisminio tyrimo veiksmai
  
-PIRMASIS SKIRSNIS
+PIRMASIS
+SKIRSNIS
 Ikiteisminio tyrimo veiksmų bendrosios nuostatos
  
-178
-straipsnis. Prokuroro ir ikiteisminio tyrimo pareigūnų atliekami veiksmai
+178 straipsnis. Prokuroro ir
+ikiteisminio tyrimo pareigūnų atliekami veiksmai
 1. Laikydamiesi
 šiame Kodekse nustatytos tvarkos, prokuroras ir ikiteisminio tyrimo pareigūnas
 gali apklausti įtariamąjį, liudytojus, taikyti procesines prievartos priemones,
@@ -3488,9 +3784,9 @@ priemonės, protokole turi būti nurodytos jų naudojimo sąlygos ir tvarka.
 3. Protokolą
 pasirašo atlikęs tyrimo veiksmą asmuo, protokolą surašęs asmuo ir visi kiti
 asmenys, dalyvavę atliekant tyrimo veiksmą. Apie tai, kad dalyvavęs atliekant
-tyrimo veiksmą asmuo atsisako pasirašyti tyrimo veiksmo protokolą arba dėl fizinių
-trūkumų ar kitokių priežasčių negali jo pasirašyti, pažymima protokole ir
-tyrimo veiksmą atlikęs asmuo tai patvirtina parašu.
+tyrimo veiksmą asmuo atsisako pasirašyti tyrimo veiksmo protokolą arba dėl
+fizinių trūkumų ar kitokių priežasčių negali jo pasirašyti, pažymima protokole
+ir tyrimo veiksmą atlikęs asmuo tai patvirtina parašu.
 4. Protokole
 daromi pakeitimai, pataisymai ir papildymai turi būti aptariami.
 5. Nuotraukos,
@@ -3505,28 +3801,27 @@ pasitelkiami specialistai.
 2. Jeigu dalyvauti atliekant tyrimo veiksmą
 pasitelkiamas specialistas, kuris nėra ikiteisminio tyrimo įstaigos pareigūnas,
 prieš tyrimo veiksmo pradžią įsitikinama jo asmens tapatybe ir kompetentingumu,
-išsiaiškinami jo santykiai su įtariamuoju ir nukentėjusiuoju, patikrinama, ar
-nėra pagrindo specialistą nušalinti. Prieš pradėdamas vykdyti savo pareigas,
-toks specialistas pasirašo rašytinį pasižadėjimą sąžiningai atlikti jam
-pavedamas užduotis; be to, jis įspėjamas dėl atsakomybės pagal Lietuvos
-Respublikos baudžiamojo kodekso 235 straipsnį už melagingos išvados ar
-paaiškinimo pateikimą.
+išsiaiškinami jo santykiai su įtariamuoju ir nukentėjusiuoju, patikrinama, ar nėra
+pagrindo specialistą nušalinti. Prieš pradėdamas vykdyti savo pareigas, toks
+specialistas pasirašo rašytinį pasižadėjimą sąžiningai atlikti jam pavedamas
+užduotis; be to, jis įspėjamas dėl atsakomybės pagal Lietuvos Respublikos
+baudžiamojo kodekso 235 straipsnį už melagingos išvados ar paaiškinimo
+pateikimą.
  
-181
-straipsnis. Įtariamojo ir jo gynėjo, nukentėjusiojo ir jo atstovo teisė
-susipažinti su ikiteisminio tyrimo duomenimis
-1. Įtariamasis ir jo gynėjas, taip pat nukentėjusysis ir
-jo atstovas ikiteisminio tyrimo metu bet kuriuo momentu turi teisę susipažinti
-su ikiteisminio tyrimo duomenimis. Prašymas susipažinti su ikiteisminio tyrimo
-medžiaga pateikiamas prokurorui. Prokuroras turi teisę neleisti susipažinti su visais ikiteisminio tyrimo duomenimis ar jų
-dalimi, jei toks susipažinimas, prokuroro manymu, galėtų pakenkti ikiteisminio
-tyrimo sėkmei. Atsisakydamas leisti susipažinti su visais ikiteisminio tyrimo
-duomenimis ar jų dalimi, prokuroras privalo
-surašyti nutarimą. Šis nutarimas per septynias dienas gali būti apskųstas
-ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjas privalo tokį skundą
-išnagrinėti per tris dienas nuo jo gavimo ir priimti nutartį. Ikiteisminio
-tyrimo teisėjo priimta nutartis
-neskundžiama.
+181 straipsnis. Įtariamojo ir jo gynėjo,
+nukentėjusiojo ir jo atstovo teisė susipažinti su ikiteisminio
+tyrimo duomenimis
+1. Įtariamasis
+ir jo gynėjas, taip pat nukentėjusysis ir jo atstovas ikiteisminio tyrimo metu bet kuriuo momentu turi teisę
+susipažinti su ikiteisminio tyrimo duomenimis. Prašymas susipažinti su
+ikiteisminio tyrimo medžiaga pateikiamas prokurorui. Prokuroras turi teisę
+neleisti susipažinti su visais ikiteisminio tyrimo duomenimis ar jų dalimi, jei toks susipažinimas, prokuroro
+manymu, galėtų pakenkti ikiteisminio tyrimo sėkmei. Atsisakydamas leisti
+susipažinti su visais ikiteisminio tyrimo duomenimis ar jų dalimi, prokuroras
+privalo surašyti nutarimą. Šis nutarimas per septynias dienas gali būti apskųstas ikiteisminio tyrimo
+teisėjui. Ikiteisminio tyrimo teisėjas privalo tokį skundą išnagrinėti per tris
+dienas nuo jo gavimo ir priimti nutartį. Ikiteisminio tyrimo teisėjo priimta
+nutartis neskundžiama.
 2. Prokuroras neturi teisės neleisti susipažinti su
 visais ikiteisminio tyrimo duomenimis, jei ikiteisminis tyrimas baigtas ir yra
 rašomas kaltinamasis aktas.
@@ -3536,7 +3831,8 @@ turi jo gynėjas.
  
 
 
-ANTRASIS SKIRSNIS
+ANTRASIS
+SKIRSNIS
 Apklausa ikiteisminio tyrimo metu
  
 182
@@ -3560,12 +3856,12 @@ atsakomybės pagal Lietuvos Respublikos baudžiamojo kodekso 235 straipsnį už
 melagingų parodymų davimą. Visa tai pažymima protokole ir patvirtina liudytojas
 savo parašu.
 2. Apklausa
-pradedama pasiūlymu liudytojui papasakoti visa, kas jam žinoma apie aplinkybes,
-turinčias reikšmės bylai išspręsti. Po to liudytojui gali būti užduodami
-klausimai. Draudžiama užduoti atsakymą menančius klausimus.
+pradedama pasiūlymu liudytojui papasakoti visa,
+kas jam žinoma apie aplinkybes, turinčias reikšmės bylai išspręsti. Po to
+liudytojui gali būti užduodami klausimai. Draudžiama užduoti atsakymą menančius
+klausimus.
 3. Liudytojo
-apklausos protokolas surašomas laikantis šio
-Kodekso 179 straipsnyje numatytų reikalavimų. Liudytojo parodymai užrašomi
+apklausos protokolas surašomas laikantis šio Kodekso 179 straipsnyje numatytų reikalavimų. Liudytojo parodymai užrašomi
 pirmuoju asmeniu ir kiek galima pažodžiui. Jeigu reikia, nurodomi liudytojui
 užduoti klausimai ir jo atsakymai.
 4. Liudytojas, kuriam įstatymų nustatyta tvarka
@@ -3625,12 +3921,13 @@ nukentėjusiajam nebūtų daromas neleistinas poveikis. Jaunesni kaip
 aštuoniolikos metų liudytojas ir nukentėjusysis į teisiamąjį posėdį kviečiami
 tik išimtiniais atvejais. 
 3. Jaunesnio
-kaip aštuoniolikos metų liudytojo ar nukentėjusiojo apklausoje turi teisę dalyvauti jo
-atstovas. Proceso dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro
-ar ikiteisminio tyrimo teisėjo iniciatyva į jaunesnių kaip aštuoniolikos metų liudytojo arba nukentėjusiojo apklausą gali būti
-kviečiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba
-psichologas, kurie padeda apklausti nepilnametį, atsižvelgdami į jo socialinę
-ir psichologinę brandą.
+kaip aštuoniolikos metų liudytojo ar nukentėjusiojo
+apklausoje turi teisę dalyvauti jo atstovas. Proceso dalyvių prašymu arba
+ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo
+iniciatyva į jaunesnių kaip aštuoniolikos metų liudytojo arba nukentėjusiojo
+apklausą gali būti kviečiamas valstybinės
+vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda
+apklausti nepilnametį, atsižvelgdami į jo socialinę ir psichologinę brandą.
 Straipsnio
 pakeitimai:
 Nr. IX-1637,
@@ -3658,9 +3955,10 @@ pradžioje įtariamojo paklausiama, ar jis prisipažįsta padaręs nusikalstamą
 veiką, kurios padarymu įtariamas. Po to pasiūloma duoti parodymus apie įtarimo
 esmę. Vėliau įtariamajam gali būti užduodami klausimai.
 4. Įtariamojo apklausos protokolas
-surašomas laikantis šio Kodekso 179 straipsnyje nustatytų reikalavimų.
-Įtariamojo parodymai protokole užrašomi pirmuoju asmeniu ir kiek galima
-pažodžiui. Jeigu reikia, nurodomi įtariamajam užduoti klausimai ir jo atsakymai.
+surašomas laikantis šio Kodekso 179
+straipsnyje nustatytų reikalavimų. Įtariamojo parodymai protokole užrašomi
+pirmuoju asmeniu ir kiek galima pažodžiui. Jeigu reikia, nurodomi įtariamajam
+užduoti klausimai ir jo atsakymai.
 5. Proceso
 dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio
 tyrimo teisėjo iniciatyva į jaunesnio kaip aštuoniolikos metų įtariamojo
@@ -3680,8 +3978,8 @@ prašymo pateikimo pristatyti suimtą įtariamąjį pas ikiteisminio tyrimo teis
 ir dalyvauti jo apklausoje.
 3. Prokuroro iniciatyva įtariamąjį apklausia
 ikiteisminio tyrimo teisėjas tuo atveju, kai manoma, kad bylos nagrinėjimo
-teisme metu kaltinamasis gali pakeisti savo parodymus arba pasinaudoti teise atsisakyti
-duoti parodymus.
+teisme metu kaltinamasis gali pakeisti savo parodymus arba pasinaudoti teise
+atsisakyti duoti parodymus.
 4. Prokuroro iniciatyva atliekamos įtariamojo
 apklausos metu taikomos šio Kodekso 188 straipsnio 4 dalies nuostatos.
 5. Įtariamojo prašymu atliekamos apklausos metu turi
@@ -3713,7 +4011,8 @@ pat perklausyti ir peržiūrėti tų apklausų garso ir vaizdo įrašus leidžia
 po to, kai akistatos dalyviai davė parodymus akistatos metu ir jie surašyti į
 protokolą.
  
-TREČIASIS SKIRSNIS
+TREČIASIS
+SKIRSNIS
 Parodymų patikrinimo veiksmai
  
 191
@@ -3741,10 +4040,11 @@ atpažinti pradžioje atpažintinam asmeniui pasiūloma užimti bet kokią viet�
 parodomų asmenų. Tai pažymima protokole.
 4. Parodomų
 asmenų grupė nufotografuojama arba kitaip vizualiai užfiksuojama.
-5. Jeigu parodyti asmens negalima, atpažinimas gali būti
-daromas pagal jo nuotrauką. Ji parodoma kartu su ne mažiau kaip trimis kitų
+5. Jeigu
+parodyti asmens negalima, atpažinimas gali būti daromas pagal jo nuotrauką. Ji parodoma kartu su ne mažiau kaip trimis kitų
 asmenų nuotraukomis. Pagal nuotraukas asmuo gali būti parodomas atpažinti ir
-tais atvejais, kai to reikia liudytojo ar nukentėjusiojo asmens saugumui užtikrinti.
+tais atvejais, kai to reikia liudytojo ar nukentėjusiojo asmens saugumui
+užtikrinti.
 6. Asmuo gali
 būti parodomas atpažinti ir iš vaizdo įrašo, padaryto laikantis šio straipsnio
 1 ir 2 dalyse nustatytų taisyklių.
@@ -3774,17 +4074,17 @@ nustatyti nežinomą įtariamąjį, daiktą ar kitą objektą, liudytojui ar
 nukentėjusiajam gali būti parodomos ikiteisminio tyrimo įstaigoje surinktos
 asmenų nuotraukų ar vaizdo įrašų kartotekos, daiktų ar kitų objektų kolekcijos.
 2. Parodymo
-atpažinti iš kolekcijų ir kartotekų pradžioje atpažįstantis asmuo turi būti apklaustas
-apie aplinkybes, kuriomis jis matė ar kitaip įsidėmėjo atpažintiną asmenį,
-daiktą ar kitą objektą, taip pat apie žymes ir ypatybes, pagal kurias jis gali
-atpažinti tą asmenį, daiktą ar kitą objektą.
+atpažinti iš kolekcijų ir kartotekų pradžioje atpažįstantis asmuo turi būti
+apklaustas apie aplinkybes, kuriomis jis matė ar kitaip įsidėmėjo atpažintiną
+asmenį, daiktą ar kitą objektą, taip pat apie žymes ir ypatybes, pagal kurias
+jis gali atpažinti tą asmenį, daiktą ar kitą objektą.
 3. Parodymo
 atpažinti iš kolekcijų ir kartotekų eiga turi būti fotografuojama arba kitaip
 vizualiai fiksuojama.
-4. Jeigu
-atpažįstantis asmuo parodo vieną iš kartotekoje užfiksuotų asmenų, daiktų ar
-kitų objektų, jam pasiūloma paaiškinti, pagal kokias žymes ar ypatybes jis
-pažino tą asmenį, daiktą ar kitą objektą.
+4. Jeigu atpažįstantis asmuo parodo vieną iš
+kartotekoje užfiksuotų asmenų, daiktų ar kitų objektų, jam pasiūloma
+paaiškinti, pagal kokias žymes ar ypatybes jis pažino tą asmenį, daiktą ar kitą
+objektą.
  
 195
 straipsnis. Apklausa parodymo atpažinti metu
@@ -3820,8 +4120,9 @@ aplinkybėmis vietoje ir atsako į užduodamus klausimus. Parodymų tikrinimo
 vietoje metu turi būti laikomasi šiame Kodekse numatytų bendrųjų liudytojo ir
 įtariamojo apklausos taisyklių.
 3. Pagal
-apklausiamo asmens parodymus gali būti atkuriama įvykio situacija ir šis asmuo
-gali pademonstruoti parodymuose minimus veiksmus.
+apklausiamo asmens parodymus gali būti
+atkuriama įvykio situacija ir šis asmuo gali pademonstruoti parodymuose minimus
+veiksmus.
 4. Jeigu
 tikrinant parodymus vietoje randama kokių nors objektų, galinčių turėti
 reikšmės nusikalstamai veikai ištirti, jie turi būti paimami ir šis faktas
@@ -3830,16 +4131,17 @@ nurodomas parodymų patikrinimo vietoje protokole.
 197
 straipsnis. Eksperimentas
 Liudytojų,
-nukentėjusiųjų, įtariamųjų parodymams ar versijoms patikrinti galima atkurti tiriamo
-įvykio situaciją, aplinką, asmenų veiksmus ar kitas aplinkybes ir atlikti
-reikiamus bandymus.
+nukentėjusiųjų, įtariamųjų parodymams ar versijoms patikrinti galima atkurti
+tiriamo įvykio situaciją, aplinką, asmenų veiksmus ar kitas aplinkybes ir
+atlikti reikiamus bandymus.
  
-KETVIRTASIS SKIRSNIS
+KETVIRTASIS
+SKIRSNIS
 Proceso veiksmų su nukentėjusiuoju ar liudytoju, kuriems taikomas
 anonimiškumas, ypatumai
  
-198
-straipsnis. Nukentėjusiojo ar liudytojo teisė prašyti taikyti anonimiškumą
+198 straipsnis. Nukentėjusiojo ar
+liudytojo teisė prašyti taikyti anonimiškumą
 1.
 Nukentėjusysis ar liudytojas šio Kodekso nustatyta tvarka gali prašyti
 prokurorą ar ikiteisminio tyrimo pareigūną taikyti jam anonimiškumą.
@@ -3849,32 +4151,32 @@ liudytojui anonimiškumą, taip pat imasi šiame Kodekse nustatytų priemonių
 nukentėjusiojo ar liudytojo, kuriam taikomas anonimiškumas, asmens tapatybę
 nurodančių duomenų slaptumui užtikrinti.
  
-199
-straipsnis. Anonimiškumo taikymo nukentėjusiajam ir liudytojui pagrindai
+199 straipsnis. Anonimiškumo taikymo
+nukentėjusiajam ir liudytojui pagrindai
 1.
 Nukentėjusiajam ir liudytojui anonimiškumas gali būti taikomas, jeigu:
 1) gresia realus
 pavojus nukentėjusiojo, liudytojo ar jų šeimos narių arba artimųjų giminaičių
 gyvybei, sveikatai, laisvei ar turtui;
-2) nukentėjusiojo
-ar liudytojo parodymai yra svarbūs baudžiamajai bylai;
+2)
+nukentėjusiojo ar liudytojo parodymai yra svarbūs baudžiamajai bylai;
 3) nukentėjusysis ar liudytojas dalyvauja procese dėl
 labai sunkaus ar sunkaus nusikaltimo.
 2.
 Nukentėjusiajam ar liudytojui anonimiškumas taikomas, jeigu yra visi šiame
 straipsnyje išvardyti pagrindai.
  
-200
-straipsnis. Nukentėjusiojo ar liudytojo anonimiškumo nustatymo tvarka
+200 straipsnis. Nukentėjusiojo ar
+liudytojo anonimiškumo nustatymo tvarka
 1.
 Nukentėjusysis ar liudytojas prieš apklausą gali prašyti taikyti
 anonimiškumą.
 2. Nustatęs, kad
-yra pagrindas taikyti anonimiškumą, prokuroras ar ikiteisminio tyrimo pareigūnas
-dar turi patikrinti, ar nukentėjusysis bei liudytojas:
-1) neturi
-fizinių ar psichinių trūkumų, dėl kurių negalėtų teisingai suvokti turinčių
-bylai reikšmės dalykų ir duoti apie juos teisingų parodymų;
+yra pagrindas taikyti anonimiškumą, prokuroras ar ikiteisminio tyrimo
+pareigūnas dar turi patikrinti, ar nukentėjusysis bei liudytojas:
+1) neturi fizinių
+ar psichinių trūkumų, dėl kurių negalėtų teisingai suvokti turinčių bylai
+reikšmės dalykų ir duoti apie juos teisingų parodymų;
 2) nebuvo
 anksčiau teisti už melagingų parodymų davimą;
 3) dėl
@@ -3882,15 +4184,15 @@ asmeninių arba savanaudiškų motyvų gali duoti melagingus parodymus prieš
 įtariamąjį.
 3. Jeigu yra
 pagrindas taikyti anonimiškumą ir nėra šio straipsnio 2 dalyje numatytų
-aplinkybių, prokuroras ar ikiteisminio tyrimo pareigūnas priima motyvuotą nutarimą taikyti anonimiškumą. Ikiteisminio tyrimo
-pareigūno nutarimą turi patvirtinti prokuroras.
+aplinkybių, prokuroras ar ikiteisminio tyrimo pareigūnas priima motyvuotą
+nutarimą taikyti anonimiškumą. Ikiteisminio tyrimo pareigūno nutarimą turi patvirtinti prokuroras.
 4. Nutarimas
 taikyti anonimiškumą laikomas atskirai nuo bylos ir saugomas šio Kodekso 201
 straipsnio 2 dalyje nustatyta tvarka.
  
-201
-straipsnis. Tyrimo veiksmų ir kitų bylos dokumentų turinio ypatumai, kai
-nukentėjusiajam ir liudytojui taikomas anonimiškumas
+201 straipsnis. Tyrimo veiksmų ir kitų
+bylos dokumentų turinio ypatumai, kai nukentėjusiajam ir liudytojui taikomas
+anonimiškumas
 1.
 Nukentėjusysis ir liudytojas, kuriems taikomas anonimiškumas, tyrimo veiksmų ir
 kituose bylos dokumentuose įvardijamas numeriu.
@@ -3918,9 +4220,8 @@ nerašoma informacija, iš kurios būtų galima nustatyti tyrimo veiksme
 dalyvavusio ar kitame dokumente paminėto nukentėjusiojo ar liudytojo, kuriam
 taikomas anonimiškumas, asmens tapatybę.
  
-202
-straipsnis. Atsakomybė už nukentėjusiajam ar liudytojui taikomo anonimiškumo
-atskleidimą
+202 straipsnis. Atsakomybė už
+nukentėjusiajam ar liudytojui taikomo anonimiškumo atskleidimą
 Nukentėjusiojo
 ir liudytojo asmens tapatybę nurodantys duomenys, įforminti ir įslaptinti šio
 Kodekso 201 straipsnyje nustatyta tvarka, sudaro valstybės paslaptį.
@@ -3929,9 +4230,9 @@ dalyvaujantis prokuroras, ikiteisminio tyrimo pareigūnas ir teisėjas. Už
 įslaptintų duomenų paskelbimą jie atsako pagal Lietuvos Respublikos baudžiamojo
 kodekso 125 straipsnį.
  
-203
-straipsnis. Ikiteisminio tyrimo teisėjo atliekama nukentėjusiojo ar liudytojo,
-kuriems taikomas anonimiškumas, apklausa
+203 straipsnis. Ikiteisminio tyrimo
+teisėjo atliekama nukentėjusiojo ar liudytojo, kuriems taikomas anonimiškumas,
+apklausa
 1. Ikiteisminio
 tyrimo teisėjas nukentėjusįjį ar liudytoją, kuriems taikomas anonimiškumas,
 apklausia vadovaudamasis šio Kodekso 183 ir 184 straipsniuose nustatytomis
@@ -3954,9 +4255,9 @@ protokolą. Su juo po apklausos gynėjas turi teisę susipažinti.
 ar liudytojo, kuriems taikomas anonimiškumas, apklausoje gali dalyvauti
 prokuroras.
  
-204
-straipsnis. Nukentėjusiojo ar liudytojo, kuriems taikomas anonimiškumas,
-parodymo atpažinti ir akistatos ypatumai
+204 straipsnis. Nukentėjusiojo ar
+liudytojo, kuriems taikomas anonimiškumas, parodymo atpažinti ir akistatos
+ypatumai
 1. Jeigu
 atpažįstantysis yra asmuo, kuriam taikomas anonimiškumas, parodymas atpažinti
 atliekamas sudarant akustines ir vizualines kliūtis, trukdančias nustatyti
@@ -3965,7 +4266,8 @@ atpažįstančio asmens tapatybę.
 suvedamam į akistatą asmeniui taikomas anonimiškumas, akistata daroma naudojant
 šio straipsnio 1 dalyje numatytas priemones.
  
-PENKTASIS SKIRSNIS
+PENKTASIS
+SKIRSNIS
 Objektų tyrimas IR APŽIŪRA
  
 205
@@ -3991,11 +4293,10 @@ ir lavono tyrimą atlieka teismo medikas ar kitas gydytojas.
 2. Asmens
 psichinės būklės tyrimą atlieka teismo psichiatras, teismo psichologas.
 3. Oficialiai
-palaidotas lavonas gali būti iškastas (ekshumuotas) tik tuo atveju, kai yra
-priimta ikiteisminio tyrimo teisėjo nutartis. Ekshumuotą lavoną turi atpažinti
-jį pažinoję asmenys arba kitaip nustatoma jo
-tapatybė. Ekshumacijoje turi teisę dalyvauti mirusiojo šeimos nariai ar
-artimieji giminaičiai.
+palaidotas lavonas gali būti iškastas
+(ekshumuotas) tik tuo atveju, kai yra priimta ikiteisminio tyrimo teisėjo
+nutartis. Ekshumuotą lavoną turi atpažinti jį pažinoję asmenys arba kitaip
+nustatoma jo tapatybė. Ekshumacijoje turi teisę dalyvauti mirusiojo šeimos nariai ar artimieji giminaičiai.
 4. Asmens būsto ar tarnybinių patalpų, kurios nėra
 įvykio vieta, tyrimas gali būti atliekamas tik būsto savininko ar įmonės,
 įstaigos, organizacijos atstovo sutikimu arba ikiteisminio tyrimo teisėjo
@@ -4005,16 +4306,16 @@ jo šeimos narys arba įmonės, įstaigos, organizacijos atstovas.
 207
 straipsnis. Apžiūra
 1. Turinčius
-reikšmės nusikalstamai veikai ištirti
-daiktus ar kitus objektus, kurių nereikia tirti šio Kodekso 205 straipsnyje
-nustatyta tvarka, apžiūri prokuroras, ikiteisminio tyrimo pareigūnas ar
-specialistas.
+reikšmės nusikalstamai veikai ištirti daiktus ar kitus objektus, kurių nereikia
+tirti šio Kodekso 205 straipsnyje nustatyta
+tvarka, apžiūri prokuroras, ikiteisminio tyrimo pareigūnas ar specialistas.
 2. Dėl apžiūros
 surašomas protokolas. Apžiūros protokole smulkiai aprašomi apžiūrėti objektai,
 nurodomi jų požymiai, turintys reikšmės nusikalstamos veikos aplinkybėms
 nustatyti. Apžiūrimi daiktai kiek galima nufotografuojami arba nufilmuojami.
  
-ŠEŠTASIS SKIRSNIS
+ŠEŠTASIS
+SKIRSNIS
 Ekspertizė
  
 208
@@ -4030,10 +4331,10 @@ straipsnis. Ekspertizės skyrimo tvarka
 pripažinęs būtinumą skirti ekspertizę, raštu apie tai praneša įtariamajam, jo
 gynėjui ir kitiems ekspertizės rezultatais suinteresuotiems proceso dalyviams
 ir nurodo terminą, per kurį šie asmenys gali pateikti prašymus dėl klausimų
-ekspertui, dėl konkretaus eksperto skyrimo ir pateikti papildomą medžiagą
-ekspertizei. Po to prokuroras su pareiškimu dėl ekspertizės kreipiasi į
-ikiteisminio tyrimo teisėją. Prie pareiškimo pridedami proceso dalyvių prašymai
-arba jame nurodoma, kad prašymų negauta.
+ekspertui, dėl konkretaus eksperto skyrimo ir pateikti papildomą medžiagą ekspertizei.
+Po to prokuroras su pareiškimu dėl ekspertizės kreipiasi į ikiteisminio tyrimo
+teisėją. Prie pareiškimo pridedami proceso dalyvių prašymai arba jame nurodoma,
+kad prašymų negauta.
 2. Ikiteisminio
 tyrimo teisėjas, nusprendęs, jog būtina skirti ekspertizę, priima nutartį
 skirti ekspertizę, o nusprendęs, jog ekspertizės skirti nebūtina, – nutartį
@@ -4047,9 +4348,8 @@ skirti ekspertizę nusiunčiama į ekspertizės įstaigą arba įteikiama eksper
 Ekspertizės įstaigose ekspertizės atliekamos laikantis šių įstaigų nuostatuose
 nustatytos tvarkos.
  
-210
-straipsnis. Pavedimas asmeniui, neįtrauktam į ekspertų sąrašą, atlikti
-ekspertizę
+210 straipsnis. Pavedimas asmeniui,
+neįtrauktam į ekspertų sąrašą, atlikti ekspertizę
 1. Jeigu ekspertizė pavedama atlikti asmeniui,
 neįtrauktam į ekspertų sąrašą, ikiteisminio tyrimo teisėjas pakviečia prokuroro
 pasiūlytą asmenį, įsitikina jo asmens tapatybe, specialybe ir kompetentingumu,
@@ -4098,10 +4398,9 @@ nėra pavojinga;
 5) kai
 įtariamasis ir nukentėjusysis susitaiko Lietuvos Respublikos baudžiamojo
 kodekso 38 straipsnyje numatytais atvejais;
-6) kai
-įtariamasis perduodamas asmeniui, kuris vertas teismo pasitikėjimo, pagal
-laidavimą Lietuvos Respublikos baudžiamojo kodekso 40 straipsnyje numatytais
-atvejais;
+6) kai įtariamasis
+perduodamas asmeniui, kuris vertas teismo pasitikėjimo, pagal laidavimą
+Lietuvos Respublikos baudžiamojo kodekso 40 straipsnyje numatytais atvejais;
 7) kai
 įtariamasis Lietuvos Respublikos baudžiamojo kodekso 39(1)
 straipsnyje nurodytomis sąlygomis padeda atskleisti organizuotos grupės ar
@@ -4119,8 +4418,8 @@ Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-213 straipsnis. Ikiteisminio tyrimo
-nutraukimas kelių nusikalstamų veikų padarymo atveju
+213 straipsnis.
+Ikiteisminio tyrimo nutraukimas kelių nusikalstamų veikų padarymo atveju
 Kai asmuo įtariamas padaręs kelias nusikalstamas
 veikas, iš kurių viena ar kelios yra baudžiamieji nusižengimai ar nesunkūs
 nusikaltimai, o kita ar kitos – sunkūs ar labai sunkūs nusikaltimai, prokuroras
@@ -4148,9 +4447,8 @@ jų atstovams. Šie asmenys turi teisę apskųsti sprendimus nutraukti ikiteismi
 tyrimą ar jo nenutraukti. Skundai paduodami ir nagrinėjami šio Kodekso 63, 64
 ir 65 straipsniuose nustatyta tvarka.
  
-215
-straipsnis. Ikiteisminio tyrimo nutraukimas dėl pernelyg ilgos ikiteisminio
-tyrimo trukmės
+215 straipsnis. Ikiteisminio tyrimo
+nutraukimas dėl pernelyg ilgos ikiteisminio tyrimo trukmės
 1. Jei per šešis
 mėnesius po pirmosios įtariamojo apklausos ikiteisminis tyrimas nebaigiamas,
 įtariamasis, jo atstovas ar gynėjas gali paduoti skundą ikiteisminio tyrimo
@@ -4185,8 +4483,8 @@ straipsnis. Nutarimo nutraukti ikiteisminį tyrimą turinys
 nutraukti ikiteisminį tyrimą išdėstoma nusikalstamos veikos esmė, tyrimo
 nutraukimo pagrindai ir motyvai.
 2. Nutarime
-turi būti šio Kodekso 94 straipsnyje
-nustatyta tvarka išspręstas daiktų, turinčių reikšmės nusikalstamai veikai
+turi būti šio Kodekso 94 straipsnyje nustatyta tvarka išspręstas daiktų,
+turinčių reikšmės nusikalstamai veikai
 ištirti, klausimas. Be to, nutarime nurodoma, kad panaikinama kardomoji
 priemonė, taip pat civilinio ieškinio ir turto konfiskavimo užtikrinimo
 priemonės.
@@ -4196,9 +4494,9 @@ straipsnis. Nutraukto ikiteisminio tyrimo atnaujinimo tvarka
 1. Pagal proceso dalyvių skundus ar savo
 iniciatyva prokuroras gali atnaujinti ikiteisminį tyrimą, jei tam yra
 pagrindas. Ikiteisminis tyrimas atnaujinamas prokuroro nutarimu. Ikiteisminis
-tyrimas, kuris buvo nutrauktas šio Kodekso 212 straipsnio 3–9 punktuose
-numatytais atvejais, atnaujinamas, kai ikiteisminio tyrimo teisėjas patvirtina
-prokuroro nutarimą atnaujinti nutrauktą ikiteisminį tyrimą. 
+tyrimas, kuris buvo nutrauktas šio Kodekso 212 straipsnio 3–9 punktuose numatytais
+atvejais, atnaujinamas, kai ikiteisminio tyrimo teisėjas patvirtina prokuroro
+nutarimą atnaujinti nutrauktą ikiteisminį tyrimą. 
 2. Jei
 įtariamasis, dėl kurio padarytos veikos ikiteisminis tyrimas buvo nutrauktas
 šio Kodekso 212 straipsnio 5 punkte numatytu atveju, per vienerius metus nuo
@@ -4234,9 +4532,9 @@ Ikiteisminio tyrimo pabaiga kaltinamojo akto surašymu
 218
 straipsnis. Ikiteisminio tyrimo pabaiga
 1. Prokuroras,
-įsitikinęs, jog ikiteisminio tyrimo metu surinkta pakankamai duomenų, pagrindžiančių
-įtariamojo kaltę dėl nusikalstamos veikos padarymo, praneša įtariamajam, jo
-gynėjui, nukentėjusiajam, jo atstovui, civiliniam ieškovui, civiliniam
+įsitikinęs, jog ikiteisminio tyrimo metu surinkta pakankamai duomenų,
+pagrindžiančių įtariamojo kaltę dėl nusikalstamos veikos padarymo, praneša įtariamajam,
+jo gynėjui, nukentėjusiajam, jo atstovui, civiliniam ieškovui, civiliniam
 atsakovui ir jų atstovams, kad ikiteisminis tyrimas baigtas, ir surašo
 kaltinamąjį aktą.
 2. Tuo atveju,
@@ -4264,7 +4562,8 @@ duomenys, kuriais grindžiamas kaltinimas;
 Respublikos baudžiamojo kodekso straipsnis (jo dalis ir punktas), numatantis
 atsakomybę už padarytą veiką;
 6) įtariamojo
-gynėjo vardas ir pavardė, jei įtariamasis ikiteisminio tyrimo metu turėjo gynėją;
+gynėjo vardas ir pavardė, jei įtariamasis ikiteisminio tyrimo metu turėjo
+gynėją;
 7) įtariamojo
 pozicija, jeigu įtariamasis nesutinka su įtarimu.
  
@@ -4297,11 +4596,11 @@ bei pateikti teismui prašymus jiems gali būti pranešama per spaudą.
 teismui perduoti likus ne mažiau kaip dešimčiai dienų iki suėmimo termino
 pabaigos.
  
-V dalis
+V
+dalis
 Bylų procesas pirmosios instancijos teisme
  
-XVII
-skyrius
+XVII skyrius
 Teismo sudėtis ir teismingumas
  
 221
@@ -4321,12 +4620,13 @@ teisėjas. Atsarginis teisėjas būna teisiamojo posėdžio salėje nuo bylos
 nagrinėjimo pradžios ir, kai procese negali dalyvauti bylą nagrinėjantis
 teisėjas, šį pakeičia. 
 2. Jeigu
-atsarginis teisėjas, stojęs į pasitraukusiojo vietą trijų teisėjų kolegijoje,
-nereikalauja kartoti teismo veiksmų arba vieno teisėjo nagrinėjamoje byloje to
-nenusprendžia pats, byla nagrinėjama toliau.
+atsarginis teisėjas, stojęs į
+pasitraukusiojo vietą trijų teisėjų kolegijoje, nereikalauja kartoti teismo
+veiksmų arba vieno teisėjo nagrinėjamoje byloje to nenusprendžia pats, byla
+nagrinėjama toliau.
  
-223
-straipsnis. Teismo sudėties nekeičiamumas nagrinėjant baudžiamąją bylą
+223 straipsnis. Teismo sudėties
+nekeičiamumas nagrinėjant baudžiamąją bylą
 Kiekvieną
 baudžiamąją bylą turi išnagrinėti tos pačios sudėties teismas. Jeigu kuris nors
 iš teisėjų dėl kokios nors priežasties negali toliau dalyvauti posėdyje, jį
@@ -4348,27 +4648,27 @@ nusikalstamos veikos padarymo metu buvo Respublikos Prezidentu, Seimo ar
 Vyriausybės nariais, Konstitucinio Teismo teisėjais, teisėjais ar prokurorais.
 2. Baudžiamąsias
 bylas, kuriose asmenys kaltinami padarę labai sunkius nusikaltimus, taip pat
-bylas, kuriose kaltinamieji nusikalstamos veikos metu buvo Respublikos
-Prezidentu, Seimo ar Vyriausybės nariais, Konstitucinio Teismo teisėjais,
-teisėjais ar prokurorais, nagrinėja apygardos teismo trijų teisėjų kolegija.
-Kitas baudžiamąsias bylas apygardos teisme nagrinėja vienas teisėjas.
+bylas, kuriose kaltinamieji nusikalstamos veikos metu buvo Respublikos Prezidentu,
+Seimo ar Vyriausybės nariais, Konstitucinio Teismo teisėjais, teisėjais ar
+prokurorais, nagrinėja apygardos teismo trijų teisėjų kolegija. Kitas
+baudžiamąsias bylas apygardos teisme nagrinėja vienas teisėjas.
 3. Apygardos
 teismas turi teisę priimti savo žinion kiekvieną baudžiamąją bylą, kuri
 teisminga tos apygardos apylinkės teismui.
 4. Apygardos
 teismas priverčiamųjų medicinos priemonių skyrimo, numatyto šio Kodekso XXIX
-skyriuje, bylas nagrinėja pagal šio straipsnio 1 ir 2 dalyse nustatytas
-teismingumo taisykles.
+skyriuje, bylas nagrinėja pagal šio straipsnio 1 ir 2 dalyse nustatytas teismingumo
+taisykles.
  
 226
 straipsnis. Teritorinis baudžiamųjų bylų teismingumas
 1. Baudžiamoji
 byla teisminga tam teismui, kurio veiklos teritorijoje padaryta nusikalstama
 veika.
-2. Jeigu nusikalstama
-veika padaryta Lietuvos Respublikos jūrų laive ar orlaivyje ir šio straipsnio 1
-dalies taisyklės negalima pritaikyti, byla teisminga tam teismui, kurio veiklos
-teritorijoje yra laivo ar orlaivio registravimo uostas.
+2. Jeigu
+nusikalstama veika padaryta Lietuvos Respublikos jūrų laive ar orlaivyje ir šio
+straipsnio 1 dalies taisyklės negalima pritaikyti, byla teisminga tam teismui,
+kurio veiklos teritorijoje yra laivo ar orlaivio registravimo uostas.
 3. Kai
 nusikalstamos veikos vietos negalima nustatyti arba nusikalstama veika padaryta
 užsienyje, byla teisminga tam teismui, kurio veiklos teritorijoje nuolat gyvena
@@ -4376,11 +4676,12 @@ kaltinamasis, o jeigu jis Lietuvos Respublikoje neturi nuolatinės gyvenamosios
 vietos, – teismui, kurio veiklos teritorijoje užbaigtas bylos ikiteisminis
 tyrimas.
  
-227
-straipsnis. Teismingumo nustatymas kelių nusikalstamų veikų atvejais
+227 straipsnis. Teismingumo nustatymas
+kelių nusikalstamų veikų atvejais
 1. Jeigu
 nusikalstamos veikos padarytos kelių teismų veiklos teritorijose, baudžiamąją
-bylą nagrinėja tas teismas, kurio veiklos teritorijoje užbaigtas ikiteisminis tyrimas.
+bylą nagrinėja tas teismas, kurio veiklos teritorijoje užbaigtas ikiteisminis
+tyrimas.
 2. Kai byla,
 kurioje vienas ar keli asmenys kaltinami padarę kelias nusikalstamas veikas,
 yra teisminga apygardos teismui dėl bent vienos nusikalstamos veikos ar
@@ -4391,17 +4692,16 @@ straipsnis. Baudžiamosios bylos perdavimas pagal teismingumą
 1. Teismas, iki
 bylos nagrinėjimo teisiamajame posėdyje nustatęs, kad gauta baudžiamoji byla
 jam neteisminga, tą bylą perduoda pagal teismingumą.
-2. Teismas, teisiamajame posėdyje nustatęs, kad nagrinėjama
-byla teisminga kitam tos pačios pakopos teismui, ją išnagrinėja neperduodamas
-kitam teismui.
+2. Teismas, teisiamajame posėdyje nustatęs, kad
+nagrinėjama byla teisminga kitam tos pačios pakopos teismui, ją išnagrinėja
+neperduodamas kitam teismui.
 3. Apygardos
 teismo teisiamajame posėdyje pradėta nagrinėti byla negali būti perduota
 apylinkės teismui. Apylinkės teismas, teisiamajame posėdyje nustatęs, kad byla
 teisminga apygardos teismui, visais atvejais ją perduoda pagal teismingumą.
  
-229
-straipsnis. Baudžiamosios bylos perdavimas iš teismo, kuriam ji teisminga,
-kitam teismui
+229 straipsnis. Baudžiamosios bylos
+perdavimas iš teismo, kuriam ji teisminga, kitam teismui
 1. Siekiant
 užtikrinti svarbius valstybės saugumo, viešosios tvarkos ar teisingumo
 interesus, baudžiamoji byla gali būti perduota iš teismo, kuriam ji teisminga,
@@ -4413,10 +4713,10 @@ bylos perdavimo iš vieno teismo kitam teismui išsprendžia:
 teismo, kurio veiklos teritorijoje yra šie teismai, pirmininkas ar šio
 apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas, – kai byla perduodama
 iš vieno apylinkės teismo kitam apylinkės teismui;
-2) Lietuvos apeliacinio
-teismo pirmininkas ar šio teismo Baudžiamųjų bylų skyriaus pirmininkas, – kai
-byla perduodama iš vienos apygardos apylinkės teismo kitos apygardos apylinkės
-teismui arba iš vieno apygardos teismo kitam apygardos teismui.
+2) Lietuvos
+apeliacinio teismo pirmininkas ar šio teismo Baudžiamųjų bylų skyriaus pirmininkas,
+– kai byla perduodama iš vienos apygardos apylinkės teismo kitos apygardos
+apylinkės teismui arba iš vieno apygardos teismo kitam apygardos teismui.
  
  
 230
@@ -4425,8 +4725,7 @@ Teismų ginčą dėl
 bylų teismingumo išsprendžia aukštesniojo teismo pirmininkas ar šio teismo
 Baudžiamųjų bylų skyriaus pirmininkas.
  
-XVIII
-skyrius
+XVIII skyrius
 Bylos parengimas nagrinėti teisme
  
 231
@@ -4476,26 +4775,25 @@ bylos išskyrimo ar bylų sujungimo klausimas.
 perduodamas bylą nagrinėti teisiamajame posėdyje, nutartyje suformuluoja
 sprendimą bylą perduoti nagrinėti teisiamajame posėdyje, nurodo kaltinamojo
 vardą ir pavardę, tą nusikalstamą veiką numatantį baudžiamąjį įstatymą, bylos
-nagrinėjimo laiką ir vietą, nusprendžia, kuriuos asmenis šaukti į teisiamąjį
-posėdį kaip kaltinamąjį, jo atstovą pagal įstatymą, nukentėjusįjį, civilinį
-ieškovą, civilinį atsakovą ir jų atstovus, taip pat kaip liudytojus, ekspertus
-ir specialistus.
+nagrinėjimo laiką ir vietą, nusprendžia, kuriuos asmenis šaukti į teisiamąjį posėdį
+kaip kaltinamąjį, jo atstovą pagal įstatymą, nukentėjusįjį, civilinį ieškovą,
+civilinį atsakovą ir jų atstovus, taip pat kaip liudytojus, ekspertus ir
+specialistus.
 4. Be to,
 teisėjas ta pačia nutartimi išsprendžia gautus prašymus, taip pat nusprendžia
 dėl gynėjo paskyrimo, vertėjo iškvietimo, kardomosios priemonės, išskyrus
 suėmimą, ir kitų procesinių prievartos priemonių kaltinamajam paskyrimo,
 pakeitimo ar panaikinimo, neviešo bylos nagrinėjimo.
-5. Dėl kardomosios priemonės – suėmimo paskyrimo,
-termino pratęsimo, pakeitimo ar panaikinimo teismas nusprendžia posėdyje vadovaudamasis
+5. Dėl kardomosios priemonės – suėmimo paskyrimo, termino
+pratęsimo, pakeitimo ar panaikinimo teismas nusprendžia posėdyje vadovaudamasis
 šio Kodekso XI skyriaus nuostatomis. Teismo posėdyje dalyvauja prokuroras ir
 gynėjas. Suimtas kaltinamasis pristatomas į posėdį.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-234
-straipsnis. Bylos perdavimas pagal teismingumą, bylos išskyrimas, bylos nagrinėjimo
-atidėjimas
+234 straipsnis. Bylos perdavimas pagal
+teismingumą, bylos išskyrimas, bylos nagrinėjimo atidėjimas
 1. Byla
 perduodama pagal teismingumą laikantis šio Kodekso 224–229 straipsniuose
 nustatytų taisyklių.
@@ -4506,10 +4804,10 @@ pažeidimo negalima ištaisyti teisme ir jis trukdo nagrinėti bylą.
 3. Byla taip pat
 gali būti perduota prokurorui jo prašymu ikiteisminiam tyrimui papildyti.
 Teismas, perduodamas bylą prokurorui, nustato konkretų terminą pažeidimams
-pašalinti ar
-ikiteisminiam tyrimui papildyti. Pašalinęs pažeidimus ar papildęs ikiteisminį
-tyrimą, prokuroras bylą teismui perduoda šio Kodekso 218 ir 220 straipsniuose
-nustatyta tvarka.
+pašalinti ar ikiteisminiam
+tyrimui papildyti. Pašalinęs pažeidimus ar papildęs ikiteisminį tyrimą,
+prokuroras bylą teismui perduoda šio Kodekso 218 ir 220 straipsniuose nustatyta
+tvarka.
 4. Byla gali
 būti išskirta į kelias tais atvejais, jeigu tai padeda greičiau išnagrinėti
 išskirtas bylas.
@@ -4522,11 +4820,7 @@ buvimo vieta nežinoma, – kol ji taps žinoma, išskyrus atvejus, kai byla
 nagrinėjama šio Kodekso XXXII skyriuje nustatyta tvarka;
 3) įstatymų
 numatytais atvejais kreipiamasi į Konstitucinį Teismą, – kol bus gautas
-Konstitucinio Teismo nutarimas.
- 
-5 dalis papildoma 4 punktu nuo Lietuvos
-Respublikos įstojimo į Europos Sąjungą
-dienos:
+Konstitucinio Teismo nutarimas;
 4) įstatymų
 numatytais atvejais kreipiamasi į kompetentingą Europos Sąjungos teisminę
 instituciją dėl Europos Sąjungos teisės aktų aiškinimo ar galiojimo, – kol bus
@@ -4543,18 +4837,19 @@ Nr. IX-1732,
 235
 straipsnis. Bylos nutraukimas
 1. Byla
-nutraukiama, kai yra šio Kodekso 3 straipsnio 1 dalyje numatytos aplinkybės, dėl
-kurių procesas negalimas, arba yra Lietuvos Respublikos baudžiamojo kodekso
+nutraukiama, kai yra šio Kodekso 3 straipsnio 1 dalyje numatytos aplinkybės,
+dėl kurių procesas negalimas, arba yra Lietuvos Respublikos baudžiamojo kodekso
 36–40 ir 93 straipsniuose numatyti pagrindai atleisti asmenį nuo baudžiamosios
 atsakomybės. Kai baudžiamoji byla nutraukiama, nutraukiamas ir procesinių
 prievartos priemonių taikymas, suimtas kaltinamasis nedelsiant paleidžiamas iš
 kardomojo kalinimo vietos, taip pat nusprendžiama dėl daiktinių įrodymų.
 2. Bylos
-nutraukimo klausimai nagrinėjami teismo posėdyje. Šiame posėdyje dalyvauja
-prokuroras, kaltinamasis, gynėjas, nukentėjusysis
-ir jo atstovas. Jeigu kaltinamasis neturi pasirinkęs gynėjo, jį paskiria
-teisėjas. Jeigu bylą teisiamajame posėdyje turėtų nagrinėti trijų teisėjų
-kolegija, bylos nutraukimo klausimą turi spręsti ši kolegija.
+nutraukimo klausimai nagrinėjami teismo
+posėdyje. Šiame posėdyje dalyvauja prokuroras, kaltinamasis, gynėjas,
+nukentėjusysis ir jo atstovas. Jeigu kaltinamasis neturi pasirinkęs gynėjo, jį
+paskiria teisėjas. Jeigu bylą teisiamajame posėdyje turėtų nagrinėti trijų
+teisėjų kolegija, bylos nutraukimo klausimą
+turi spręsti ši kolegija.
 3. Teismo posėdyje
 teisėjas padaro pranešimą svarstomu klausimu. Po to kalba prokuroras ir
 gynėjas. Teisę kalbėti šiame posėdyje taip pat turi kiti jame dalyvaujantys
@@ -4564,13 +4859,13 @@ kambaryje. Posėdžio metu teismo posėdžio sekretorius rašo protokolą.
 236
 straipsnis. Šaukimai į teisiamąjį posėdį
 1. Nagrinėjimo
-teisme dalyviai, taip pat liudytojai, ekspertai, specialistai ir vertėjai į
-teisiamąjį posėdį iškviečiami šaukimu. Šaukimo į teisiamąjį posėdį turinį nustato šio Kodekso 182 straipsnis.
+teisme dalyviai, taip pat liudytojai, ekspertai, specialistai ir vertėjai į teisiamąjį posėdį iškviečiami šaukimu. Šaukimo į teisiamąjį posėdį
+turinį nustato šio Kodekso 182 straipsnis.
 2. Jeigu byloje
 daug nukentėjusiųjų ar civilinių ieškovų, apie bylos nagrinėjimo teisme laiką jiems gali būti pranešama per spaudą.
 3. Jeigu
-numatoma, kad bylos nagrinėjimas teisme tęsis ilgai, teisėjas gali duoti
-patvarkymą šio straipsnio 1 dalyje nurodytus
+numatoma, kad bylos nagrinėjimas teisme
+tęsis ilgai, teisėjas gali duoti patvarkymą šio straipsnio 1 dalyje nurodytus
 proceso dalyvius šaukti ne į posėdžio pradžią, o vėlesniam laikui.
  
 237
@@ -4597,14 +4892,15 @@ nagrinėti teisiamajame posėdyje klausimą, o vėliau gautus prašymus – kai 
 gaunami. Jeigu prašymai atmetami, dėl to priimama motyvuota nutartis.
 Šios nutarties nuorašai nedelsiant išsiunčiami prokurorui ir gynėjui.
 2. Prašymai,
-kurie buvo atmesti, palikti nenagrinėti dėl
-motyvų nebuvimo ar gauti pavėluotai, gali būti pakartoti teisiamajame posėdyje.
+kurie buvo atmesti, palikti nenagrinėti dėl motyvų nebuvimo ar gauti
+pavėluotai, gali būti pakartoti teisiamajame posėdyje.
 3. Jeigu bylos
-perdavimo nagrinėti teisiamajame posėdyje ar pasirengimo nagrinėti teisme metu
-patenkinamas prašymas apklausti liudytoją, kuriam reikėtų taikyti anonimiškumą, tai šiam liudytojui taikomas
-anonimiškumas ir jį apklausia ikiteisminio tyrimo teisėjas, laikydamasis šio
-Kodekso 201–204 straipsniuose nustatytų taisyklių. Dėl šių liudytojų šaukimo į
-teisiamąjį posėdį nusprendžia bylą nagrinėjantis teisėjas.
+perdavimo nagrinėti teisiamajame posėdyje ar
+pasirengimo nagrinėti teisme metu patenkinamas prašymas apklausti liudytoją,
+kuriam reikėtų taikyti anonimiškumą, tai šiam liudytojui taikomas anonimiškumas
+ir jį apklausia ikiteisminio tyrimo teisėjas, laikydamasis šio Kodekso 201–204
+straipsniuose nustatytų taisyklių. Dėl šių
+liudytojų šaukimo į teisiamąjį posėdį nusprendžia bylą nagrinėjantis teisėjas.
  
 239
 straipsnis. Ikiteisminio tyrimo teisėjo veiksmai
@@ -4621,13 +4917,12 @@ pasekmių.
 2. Šio straipsnio 1 dalyje nurodytos apklausos
 atliekamos pagal šio Kodekso 184 ir 186 straipsniuose nustatytas taisykles.
  
-240
-straipsnis. Bylos perdavimo ir nagrinėjimo teisiamajame posėdyje pradžios
-terminai
+240 straipsnis. Bylos perdavimo ir
+nagrinėjimo teisiamajame posėdyje pradžios terminai
 1. Dėl bylos
 perdavimo nagrinėti teisiamajame posėdyje teisėjas turi nuspręsti ne vėliau
-kaip per penkiolika dienų nuo bylos gavimo teisme, jeigu kaltinamasis yra
-suimtas, ir per vieną mėnesį, – jeigu kaltinamasis yra laisvėje.
+kaip per penkiolika dienų nuo bylos gavimo teisme, jeigu kaltinamasis yra suimtas,
+ir per vieną mėnesį, – jeigu kaltinamasis yra laisvėje.
 2. Byla teisiamajame posėdyje turi būti pradėta
 nagrinėti ne vėliau kaip per dvidešimt dienų nuo teisėjo nutarties perduoti
 bylą nagrinėti teisiamajame posėdyje priėmimo.
@@ -4686,42 +4981,35 @@ išreikalavimui arba dėl kitų svarbių priežasčių daromas pertraukas.
 244
 straipsnis. Bylos nagrinėjimo atidėjimas
 1. Kai bylos
-negalima nagrinėti tame teisiamajame posėdyje dėl to, kad kas nors iš šauktų
-asmenų neatvyko, bylos nagrinėjimas turi būti atidėtas.
- 
-2 dalies redakcija iki Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
-2. Bylos nagrinėjimas taip pat atidedamas šio Kodekso
-234 straipsnio 5 dalies 3 punkte ir 254 straipsnio 2 dalyje numatytais
-atvejais.
-2 dalies redakcija nuo Lietuvos Respublikos
-įstojimo į Europos Sąjungą dienos:
+negalima nagrinėti tame teisiamajame posėdyje dėl to, kad kas nors iš šauktų asmenų
+neatvyko, bylos nagrinėjimas turi būti atidėtas.
 2.
 Bylos nagrinėjimas taip pat atidedamas šio Kodekso 234 straipsnio 5 dalies 3, 4 punktuose ir 254 straipsnio 2 dalyje numatytais
 atvejais.
- 
 3. Jei bylos
 nagrinėjimas buvo atidėtas, nagrinėjimas teisme pradedamas iš pradžių.
 Straipsnio
 pakeitimai:
 Nr. IX-1490,
 2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
-Nr. IX-1496,
-2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
+Nr. IX-1496, 2003-04-10,
+Žin., 2003, Nr. 38-1734 (2003-04-24)
 Nr. IX-1732,
 2003-09-16, Žin., 2003, Nr. 92-4138 (2003-10-01)
  
 245
 straipsnis. Asmenys, dalyvaujantys bylą nagrinėjant teisme
 1. Bylos
-nagrinėjimas teisme vyksta posėdyje dalyvaujant teismo iškviestiems prokurorui, nukentėjusiajam ir jo atstovui, kaltinamajam, jo
-atstovui pagal įstatymą ir gynėjui, civiliniam ieškovui, civiliniam atsakovui
-bei jų atstovams.
+nagrinėjimas teisme vyksta posėdyje
+dalyvaujant teismo iškviestiems prokurorui, nukentėjusiajam ir jo atstovui,
+kaltinamajam, jo atstovui pagal įstatymą ir gynėjui, civiliniam ieškovui,
+civiliniam atsakovui bei jų atstovams.
 2. Nagrinėjant
 bylą teisme, gali dalyvauti keli prokurorai, vieną kaltinamąjį gali ginti keli
 gynėjai.
  
-246 straipsnis.
-Kaltinamojo dalyvavimas bylą nagrinėjant teisme
+246
+straipsnis. Kaltinamojo dalyvavimas bylą nagrinėjant teisme
 1. Byla
 pirmosios instancijos teismo posėdyje nagrinėjama dalyvaujant kaltinamajam.
 Kaltinamajam atvykti į teismą privaloma. Nagrinėti bylą, kai nedalyvauja
@@ -4729,8 +5017,8 @@ kaltinamasis, leidžiama tik tuo atveju, jeigu kaltinamasis yra ne Lietuvos
 Respublikos teritorijoje ir vengia atvykti į teismą.
 2. Kai
 kaltinamasis šio straipsnio 1 dalyje numatytu atveju nedalyvauja teismo
-posėdyje, bylos nagrinėjimas vyksta bendra tvarka, išskyrus šio Kodekso XXXII
-skyriuje nustatytas išimtis.
+posėdyje, bylos nagrinėjimas vyksta bendra
+tvarka, išskyrus šio Kodekso XXXII skyriuje nustatytas išimtis.
  
 247
 straipsnis. Kaltinamojo neatvykimo pasekmės
@@ -4760,8 +5048,8 @@ arba bylos nagrinėjimas atidedamas.
 iš posėdžių salės arba kviečiamas vėliau neatvyksta į teisiamąjį posėdį,
 teismas turi teisę taikyti šio Kodekso 247 straipsnyje numatytas priemones.
  
-249
-straipsnis. Nepilnamečio kaltinamojo atstovo pagal įstatymą neatvykimo pasekmės
+249 straipsnis. Nepilnamečio kaltinamojo
+atstovo pagal įstatymą neatvykimo pasekmės
 Nepilnamečio
 kaltinamojo atstovo pagal įstatymą neatvykimas nesustabdo bylos nagrinėjimo,
 jeigu teismas nepripažįsta, kad jo dalyvavimas būtinas.
@@ -4773,9 +5061,9 @@ prokuroras ar gynėjas ir nėra galimybės tame posėdyje juos pakeisti, daroma
 teisiamojo posėdžio pertrauka arba bylos nagrinėjimas atidedamas. Pakeisti į
 teisiamąjį posėdį neatvykusį gynėją leidžiama laikantis šio Kodekso 50
 straipsnio reikalavimų.
-2. Naujai įstojusiam
-į bylą prokurorui ar gynėjui turi būti duodama laiko pasirengti dalyvauti
-nagrinėjant bylą teisme.
+2. Naujai
+įstojusiam į bylą prokurorui ar gynėjui turi būti duodama laiko pasirengti
+dalyvauti nagrinėjant bylą teisme.
  
 251
 straipsnis. Nukentėjusiojo ar jo atstovo neatvykimo pasekmės
@@ -4785,9 +5073,8 @@ padaryti teisiamojo posėdžio pertrauką, ar bylos nagrinėjimą atidėti,
 atsižvelgdamas į tai, ar galima be nukentėjusiojo ar jo atstovo išsamiai
 ištirti visas bylos aplinkybes ir apginti nukentėjusiojo interesus.
  
-252
-straipsnis. Civilinio ieškovo, civilinio atsakovo ar jų atstovo neatvykimo
-pasekmės
+252 straipsnis. Civilinio ieškovo,
+civilinio atsakovo ar jų atstovo neatvykimo pasekmės
 1. Jei neatvyko
 civilinis ieškovas ar jo atstovas, teismas civilinį ieškinį palieka
 nenagrinėtą. Šiuo atveju asmuo, dėl nusikalstamos veikos patyręs žalos, turi
@@ -4809,35 +5096,33 @@ posėdžių salėje ir įrašyti į teisiamojo posėdžio protokolą.
 3. Bylos
 nagrinėjimo teisme metu priimamos nutartys turi būti paskelbtos balsu.
  
-254
-straipsnis. Bylos išskyrimas, bylų sujungimas ir nutraukimas ar perdavimas
-prokurorui
-1. Teismas bylos
-nagrinėjimo teisme metu gali šio Kodekso 234 straipsnio 4 dalyje numatytu
-atveju bylą išskirti į kelias arba kelias bylas sujungti į vieną.
+254 straipsnis. Bylos išskyrimas, bylų
+sujungimas ir nutraukimas ar perdavimas prokurorui
+1.
+Teismas bylos nagrinėjimo teisme metu gali šio Kodekso 234 straipsnio 4 dalyje
+numatytu atveju bylą išskirti į kelias arba kelias bylas sujungti į vieną.
 2. Kai
 byloje yra keli kaltinamieji, bylą galima išskirti ir atidėti dėl vienų
 kaltinamųjų ir nagrinėti toliau dėl kitų kaltinamųjų. Tačiau jeigu atskiras
 nagrinėjimas kenkia nagrinėjimo teisme išsamumui, visos bylos nagrinėjimas
 atidedamas.
 3. Jeigu
-nagrinėjimo teisme metu nustatoma, kad surašytas iš
-esmės šio Kodekso 219 straipsnio reikalavimų neatitinkantis kaltinamasis aktas,
-šio pažeidimo negalima ištaisyti teisme ir jis trukdo nagrinėti bylą, byla
-perduodama prokurorui. Byla gali būti perduota prokurorui ir tuo atveju, jeigu
-yra jo prašymas papildyti ikiteisminį tyrimą. Teismas, perduodamas bylą
-prokurorui, nustato konkretų terminą pažeidimams pašalinti ar ikiteisminiam
-tyrimui papildyti. Pašalinęs pažeidimus ar papildęs ikiteisminį tyrimą,
-prokuroras bylą teismui perduoda šio Kodekso 218 ir 220 straipsniuose nustatyta
-tvarka.
+nagrinėjimo teisme metu nustatoma, kad surašytas iš esmės šio Kodekso 219
+straipsnio reikalavimų neatitinkantis kaltinamasis aktas, šio pažeidimo
+negalima ištaisyti teisme ir jis trukdo nagrinėti bylą, byla perduodama prokurorui.
+Byla gali būti perduota prokurorui ir tuo atveju, jeigu yra jo prašymas
+papildyti ikiteisminį tyrimą. Teismas, perduodamas bylą prokurorui, nustato
+konkretų terminą pažeidimams pašalinti ar ikiteisminiam tyrimui papildyti.
+Pašalinęs pažeidimus ar papildęs ikiteisminį tyrimą, prokuroras bylą teismui
+perduoda šio Kodekso 218 ir 220 straipsniuose nustatyta tvarka.
 4.
 Nagrinėjimo teisme metu, kai nustatomos šio Kodekso 3 straipsnio 1 dalies 2–9
 punktuose numatytos aplinkybės, byla nutraukiama teismo nutartimi.
-5. Nagrinėjimo
-teisme metu, kai nustatomi Lietuvos Respublikos baudžiamojo kodekso 36–40,
-93 straipsniuose, 114 straipsnio 3 dalyje, 259 straipsnio 3 dalyje ir 291
-straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti asmenį nuo baudžiamosios
-atsakomybės, byla nutraukiama nuosprendžiu.
+5.
+Nagrinėjimo teisme metu, kai nustatomi Lietuvos Respublikos baudžiamojo kodekso
+36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 259 straipsnio 3 dalyje ir
+291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti asmenį nuo
+baudžiamosios atsakomybės, byla nutraukiama nuosprendžiu.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
@@ -4882,9 +5167,9 @@ Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-257
-straipsnis. Teismo veiksmai, kai paaiškėja, kad kaltinamasis gali būti padaręs
-kitą nusikalstamą veiką ar kad nusikalstamą veiką gali būti padaręs kitas asmuo
+257 straipsnis. Teismo veiksmai, kai
+paaiškėja, kad kaltinamasis gali būti padaręs kitą nusikalstamą veiką ar kad
+nusikalstamą veiką gali būti padaręs kitas asmuo
 Jeigu
 nagrinėjimo teisme metu paaiškėja, kad kaltinamasis gali būti padaręs kitą
 nusikalstamą veiką, kuri nebuvo nurodyta kaltinamajame akte, taip pat kad
@@ -4903,8 +5188,8 @@ gali leisti jam kreiptis į teismą, duoti parodymus ar paaiškinimus sėdint.
 3. Posėdžio
 tvarką teismo posėdžių salėje užtikrina teisiamojo posėdžio pirmininkas.
  
-259
-straipsnis. Teisiamojo posėdžio tvarką pažeidusiems asmenims taikomos priemonės
+259 straipsnis. Teisiamojo posėdžio
+tvarką pažeidusiems asmenims taikomos priemonės
 1. Kaltinamasis,
 kuris nepaisydamas teisiamojo posėdžio pirmininko įspėjimo vėl pažeidžia
 posėdžio tvarką ar parodo nepagarbą teismui, teismo nutartimi gali būti
@@ -4914,16 +5199,16 @@ pirmininkas praneša apie jo nedalyvavimo metu tirtus įrodymus ir suteikia teis
 duoti paaiškinimus dėl jų. Nuosprendis kaltinamajam paskelbiamas jo akivaizdoje
 arba perskaitomas tuoj po jo paskelbimo.
 2. Prokuroras ar
-gynėjas, kurie po teisiamojo posėdžio pirmininko įspėjimo vėl pažeidžia
-posėdžio tvarką ar parodo nepagarbą teismui, teismo nutartimi gali būti
-nušalinti nuo dalyvavimo nagrinėjant bylą teisme. Šiuo atveju bylos
-nagrinėjimas atidedamas arba daroma pertrauka tol, kol nušalintas prokuroras ar
-gynėjas bus pakeisti kitais.
-3. Kiti
-nagrinėjimo teisme dalyviai, po teisiamojo posėdžio pirmininko įspėjimo
-pakartotinai pažeidę posėdžio tvarką ar parodę nepagarbą teismui, gali būti
-pašalinti iš posėdžių salės teismo nutartimi, o byloje nedalyvaujantys asmenys
-– teisiamojo posėdžio pirmininko patvarkymu.
+gynėjas, kurie po teisiamojo posėdžio pirmininko įspėjimo vėl pažeidžia posėdžio
+tvarką ar parodo nepagarbą teismui, teismo nutartimi gali būti nušalinti nuo
+dalyvavimo nagrinėjant bylą teisme. Šiuo atveju bylos nagrinėjimas atidedamas
+arba daroma pertrauka tol, kol nušalintas prokuroras ar gynėjas bus pakeisti
+kitais.
+3. Kiti nagrinėjimo
+teisme dalyviai, po teisiamojo posėdžio pirmininko įspėjimo pakartotinai
+pažeidę posėdžio tvarką ar parodę nepagarbą teismui, gali būti pašalinti iš
+posėdžių salės teismo nutartimi, o byloje nedalyvaujantys asmenys – teisiamojo
+posėdžio pirmininko patvarkymu.
 4. Nagrinėjimo
 teisme dalyviai ar nedalyvaujantys byloje asmenys, kurie nepaklūsta teismui
 arba teisiamojo posėdžio pirmininko sprendimui juos nušalinti nuo bylos
@@ -4932,9 +5217,8 @@ daro triukšmaudami ar rodydami kitokią nepagarbą teismui, gali būti tuoj pat
 nubausti bauda arba areštu remiantis šio Kodekso 163 straipsniu. Areštas negali
 būti paskirtas prokurorui ir gynėjui.
  
-260
-straipsnis. Garso ir vaizdo įrašymo priemonių naudojimo teisiamajame posėdyje
-tvarka
+260 straipsnis. Garso ir vaizdo įrašymo
+priemonių naudojimo teisiamajame posėdyje tvarka
 1. Teisiamojo
 posėdžio metu naudoti kino ar televizijos kameras, fotoaparatus, taip pat kitas
 garso ir vaizdo įrašymo priemones neleidžiama.
@@ -4953,33 +5237,31 @@ straipsnio 4 dalyje numatytos nuobaudos.
 261
 straipsnis. Teisiamojo posėdžio protokolas
 1. Teisiamojo
-posėdžio protokole turi būti nurodoma:
-posėdžio vieta ir laikas (kada jis buvo pradėtas ir baigtas); teismo
-pavadinimas ir sudėtis, sekretorius, vertėjas, nagrinėjimo teisme dalyviai ir
-kiti teismo pašaukti asmenys; nagrinėjama byla; kaltinamajam paskirta kardomoji
-priemonė; kaltinamojo asmens duomenys;
-teismo veiksmai iš eilės, kaip jie buvo atliekami; nagrinėjimo teisme dalyvių,
-liudytojų, ekspertų ir kitų asmenų pareiškimai bei prašymai; nutartys, teismo
-priimtos pačioje posėdžių salėje; nuoroda apie nutarčių priėmimą pasitarimų kambaryje; kad kaltinamajam ir kitiems bylos
-nagrinėjimo teisme dalyviams išaiškintos jų teisės ir pareigos; kaltinamųjų,
-nukentėjusiųjų ir liudytojų parodymų turinys, šių asmenų pavardės, vardai ir
-gimimo metai, taip pat ekspertų ir specialistų išvadų turinys; teisiamajame posėdyje atliktų apžiūrų ir kitų įrodymų rinkimo
-bei tyrimo veiksmų rezultatai; turinys viso to, ką nagrinėjimo teisme dalyviai
-prašė įrašyti į protokolą; buvę teisiamojo posėdžio salėje tvarkos pažeidimo
-faktai ir pažeidėjai, taip pat teisiamojo
-posėdžio pirmininko patvarkymai pagal šio Kodekso 259 straipsnio 3 dalį;
-trumpas nagrinėjimo teisme dalyvių baigiamųjų kalbų turinys; trumpas
-kaltinamojo paskutinio žodžio turinys; nuoroda apie nuosprendžio paskelbimą ir
-nuosprendžio apskundimo tvarkos bei termino
-išaiškinimą.
+posėdžio protokole turi būti nurodoma: posėdžio vieta ir laikas (kada jis buvo
+pradėtas ir baigtas); teismo pavadinimas ir sudėtis, sekretorius, vertėjas,
+nagrinėjimo teisme dalyviai ir kiti teismo pašaukti asmenys; nagrinėjama byla; kaltinamajam paskirta kardomoji
+priemonė; kaltinamojo asmens duomenys; teismo veiksmai iš eilės, kaip jie buvo
+atliekami; nagrinėjimo teisme dalyvių, liudytojų, ekspertų ir kitų asmenų
+pareiškimai bei prašymai; nutartys, teismo priimtos pačioje posėdžių salėje; nuoroda apie nutarčių priėmimą pasitarimų
+kambaryje; kad kaltinamajam ir kitiems bylos nagrinėjimo teisme dalyviams
+išaiškintos jų teisės ir pareigos; kaltinamųjų, nukentėjusiųjų ir liudytojų
+parodymų turinys, šių asmenų pavardės, vardai
+ir gimimo metai, taip pat ekspertų ir specialistų išvadų turinys; teisiamajame
+posėdyje atliktų apžiūrų ir kitų įrodymų rinkimo bei tyrimo veiksmų rezultatai;
+turinys viso to, ką nagrinėjimo teisme dalyviai prašė įrašyti į protokolą; buvę
+teisiamojo posėdžio salėje tvarkos pažeidimo
+faktai ir pažeidėjai, taip pat teisiamojo posėdžio pirmininko patvarkymai pagal
+šio Kodekso 259 straipsnio 3 dalį; trumpas nagrinėjimo teisme dalyvių
+baigiamųjų kalbų turinys; trumpas kaltinamojo paskutinio žodžio turinys; nuoroda apie nuosprendžio paskelbimą ir
+nuosprendžio apskundimo tvarkos bei termino išaiškinimą.
 2. Nagrinėjimo
 teisme dalyvių prašymu asmenų parodymai, paaiškinimai arba pareiškimai ištisai
 arba atskiros jų dalys posėdžio pirmininko patvarkymu į teisiamojo posėdžio
 protokolą įrašomi pažodžiui. Šiuo atveju asmenys, kurie nagrinėjant bylą teisme
 davė parodymus arba paaiškinimus, padarė pareiškimus arba pateikė prašymus,
 turi teisę perskaityti teisiamojo posėdžio protokole savo parodymų,
-paaiškinimų, pareiškimų arba prašymų įrašus, prašyti papildyti protokolą, padaryti
-jame pataisas ir patvirtinti parašu protokolo įrašų tikrumą.
+paaiškinimų, pareiškimų arba prašymų įrašus, prašyti papildyti protokolą,
+padaryti jame pataisas ir patvirtinti parašu protokolo įrašų tikrumą.
 3. Teisiamasis
 posėdis gali būti stenografuojamas. Šiuo atveju iššifruota stenograma prilygsta
 teisiamojo posėdžio protokolui.
@@ -4988,17 +5270,17 @@ posėdžio protokolas turi būti pasirašomas tuojau pat ir ne vėliau kaip per 
 dienas po to, kai pasibaigia teisiamasis posėdis, o didelės apimties bylose –
 per septynias dienas po to, kai pasibaigia teisiamasis posėdis.
 5. Protokolą
-pasirašo teisiamojo posėdžio pirmininkas ir sekretorius.
+pasirašo teisiamojo posėdžio pirmininkas ir
+sekretorius.
 6. Per tris
-dienas po teisiamojo posėdžio protokolo
-pasirašymo nagrinėjimo teisme dalyviai gali su juo susipažinti ir pateikti savo
-pastabas, taip pat nurodyti jo neteisingumą ar neišsamumą. Pateiktas pastabas
-išnagrinėja teisiamojo posėdžio pirmininkas ir, jeigu su jomis sutinka, patvirtina jų teisingumą bei prideda
-prie teisiamojo posėdžio protokolo.
+dienas po teisiamojo posėdžio protokolo pasirašymo nagrinėjimo teisme dalyviai
+gali su juo susipažinti ir pateikti savo pastabas, taip pat nurodyti jo
+neteisingumą ar neišsamumą. Pateiktas pastabas išnagrinėja teisiamojo posėdžio pirmininkas ir, jeigu su jomis sutinka,
+patvirtina jų teisingumą bei prideda prie teisiamojo posėdžio protokolo.
 7. Jeigu
 teisiamojo posėdžio pirmininkas nesutinka su pastabomis, jos pateikiamos
-nagrinėti teismo posėdyje, pastabos dėl trijų teisėjų kolegijos išnagrinėtų
-bylų – tiems patiems teisėjams, kurie
+nagrinėti teismo posėdyje, pastabos dėl
+trijų teisėjų kolegijos išnagrinėtų bylų – tiems patiems teisėjams, kurie
 nagrinėjo bylą. Jeigu ta pati teismo sudėtis negalima, du teisėjai privalo būti
 iš bylą nagrinėjusiųjų. Į šį teismo posėdį kviečiami pastabas pateikę
 nagrinėjimo teisme dalyviai.
@@ -5012,9 +5294,9 @@ Parengiamoji teisiamojo posėdžio dalis
  
 262 straipsnis.
 Teisiamojo posėdžio pradžia
-1. Paskirtu baudžiamajai
-bylai nagrinėti laiku teisiamojo posėdžio pirmininkas pradeda teisiamąjį posėdį
-ir paskelbia, kokia byla bus nagrinėjama.
+1. Paskirtu
+baudžiamajai bylai nagrinėti laiku teisiamojo posėdžio pirmininkas pradeda
+teisiamąjį posėdį ir paskelbia, kokia byla bus nagrinėjama.
 2. Posėdžio
 sekretorius, teisiamojo posėdžio pirmininkui suteikus žodį, praneša teismui,
 kas iš nagrinėjimo teisme dalyvių, liudytojų, ekspertų, specialistų bei vertėjų
@@ -5049,9 +5331,8 @@ asmenybę paklausdamas, koks jo vardas, pavardė, gimimo data, gimimo vieta,
 gyvenamoji vieta, užsiėmimas, išsilavinimas, šeiminė padėtis, teistumas, taip
 pat kitų duomenų, apibūdinančių kaltinamąjį asmenį.
  
-266
-straipsnis. Klausimo, ar galima nagrinėti bylą, kai į posėdį neatvyko kas nors
-iš šauktų asmenų, išsprendimas
+266 straipsnis. Klausimo, ar galima
+nagrinėti bylą, kai į posėdį neatvyko kas nors iš šauktų asmenų, išsprendimas
 1. Jeigu į
 teisiamąjį posėdį neatvyko kaltinamasis, jo atstovas pagal įstatymą, prokuroras
 ar gynėjas, nukentėjusysis, civilinis ieškovas, civilinis atsakovas ar jų
@@ -5062,13 +5343,12 @@ teisiamąjį posėdį neatvyko liudytojas, ekspertas ar specialistas, teismas
 nusprendžia, ar nagrinėti bylą, ar ją atidėti, atsižvelgdamas į tai, ar galima
 be šių asmenų išsamiai ištirti visas bylos aplinkybes, arba padaro pertrauką
 šiems asmenims iškviesti.
-3. Tuo
-atveju, kai teismas priėmė nutartį atidėti bylos nagrinėjimą ar padarė
-pertrauką, jis gali apklausti atvykusius liudytojus, ekspertus, specialistus,
-nukentėjusiuosius ir išklausyti civilinius ieškovus, civilinius atsakovus ar jų
-atstovus. Vėliau į teisiamąjį posėdį apklausti liudytojai, ekspertai,
-specialistai, civiliniai ieškovai, civiliniai atsakovai ar jų atstovai šaukiami
-tik būtinais atvejais.
+3. Tuo atveju, kai teismas priėmė nutartį
+atidėti bylos nagrinėjimą ar padarė pertrauką, jis gali apklausti atvykusius liudytojus,
+ekspertus, specialistus, nukentėjusiuosius ir išklausyti civilinius
+ieškovus, civilinius atsakovus ar jų atstovus. Vėliau į teisiamąjį posėdį
+apklausti liudytojai, ekspertai, specialistai, civiliniai ieškovai, civiliniai
+atsakovai ar jų atstovai šaukiami tik būtinais atvejais.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
@@ -5076,10 +5356,10 @@ Nr. IX-1496,
 267
 straipsnis. Teismo sudėties paskelbimas
 1. Teisiamojo
-posėdžio pirmininkas paskelbia nagrinėjančių bylą teisėjų, ją nagrinėjant teisme
-dalyvaujančių prokurorų, gynėjų, atstovų, ekspertų, specialistų, vertėjų bei
-posėdžio sekretoriaus pavardes ir paklausia nagrinėjimo teisme dalyvių, ar jie
-pareiškia šiems asmenims nušalinimą.
+posėdžio pirmininkas paskelbia nagrinėjančių bylą teisėjų, ją nagrinėjant
+teisme dalyvaujančių prokurorų, gynėjų, atstovų, ekspertų, specialistų, vertėjų
+bei posėdžio sekretoriaus pavardes ir paklausia nagrinėjimo teisme dalyvių, ar
+jie pareiškia šiems asmenims nušalinimą.
 2. Nušalinama
 pagal šio Kodekso 58, 59 ir 61 straipsniuose nustatytas taisykles.
  
@@ -5119,8 +5399,8 @@ reikalingi nauji įrodymai.
 kiekvieno prašymo priima nutartį. Prašymo atmetimas neatima iš asmens, kurio
 prašymas atmestas, teisės pateikti jį vėliau įrodymų tyrimo eigoje.
 3. Teismas turi
-teisę savo iniciatyva nutarti iškviesti naujus liudytojus, ekspertus,
-specialistus, taip pat išreikalauti kitus įrodymus.
+teisę savo iniciatyva nutarti iškviesti naujus liudytojus, ekspertus, specialistus,
+taip pat išreikalauti kitus įrodymus.
  
 XXI skyrius
 ĮRODYMŲ tyrimas
@@ -5137,8 +5417,8 @@ kaltinimą, reikiamais atvejais išaiškina kaltinamajam to kaltinimo esmę ir
 paklausia, ar jis prisipažįsta kaltas. Kaltinamasis turi teisę motyvuoti savo
 atsakymą.
  
-272 straipsnis.
-Kaltinamojo apklausa
+272
+straipsnis. Kaltinamojo apklausa
 1. Po kaltinamojo atsakymų dėl kaltinimo teisiamojo
 posėdžio pirmininkas išaiškina jam teisę duoti paaiškinimus, atsakyti į
 klausimus ar atsisakyti tai daryti. Be to, pirmininkas paaiškina, kad
@@ -5187,32 +5467,27 @@ paaiškinimus.
 straipsnis. Klausimų uždavimas teisiamajame posėdyje
 1. Užduoti
 klausimus teisme apklausiamiems kaltinamiesiems, nukentėjusiesiems,
-liudytojams, ekspertams ir specialistams turi teisę prokuroras, nukentėjusysis,
-civilinis ieškovas, civilinis atsakovas ir jų atstovai, gynėjas, kaltinamojo atstovas pagal įstatymą ir kaltinamasis.
+liudytojams, ekspertams ir specialistams turi teisę prokuroras, nukentėjusysis, civilinis ieškovas, civilinis atsakovas
+ir jų atstovai, gynėjas, kaltinamojo atstovas pagal įstatymą ir kaltinamasis.
 Teismo leidimu kaltinamiesiems, nukentėjusiesiems, liudytojams klausimus gali
-užduoti ir ekspertas bei specialistas. Draudžiama užduoti atsakymą menančius
-klausimus.
+užduoti ir ekspertas bei specialistas. Draudžiama užduoti atsakymą menančius klausimus.
 2. Jeigu
-liudytojas yra pašauktas į teisiamąjį posėdį
-vieno iš nagrinėjimo teisme dalyvio prašymu, šis dalyvis tam liudytojui
-klausimus užduoda pirmas.
+liudytojas yra pašauktas į teisiamąjį posėdį vieno iš nagrinėjimo teisme
+dalyvio prašymu, šis dalyvis tam liudytojui klausimus užduoda pirmas.
 3. Teisėjai
-apklausiamiems asmenims turi teisę užduoti klausimus bet kuriuo įrodymų tyrimo
-metu.
+apklausiamiems asmenims turi teisę užduoti klausimus bet kuriuo įrodymų tyrimo metu.
 4. Teisėjai ir
-teisiamojo posėdžio pirmininko leidimu
-nagrinėjimo teisme dalyviai klausimus apklausiamiems asmenims užduoda
-tiesiogiai. Nagrinėjimo teisme dalyviams, kurie piktnaudžiauja šia teise,
-pirmininkas gali ją atimti ir leisti užduoti klausimus tik per jį.
+teisiamojo posėdžio pirmininko leidimu nagrinėjimo teisme dalyviai klausimus
+apklausiamiems asmenims užduoda tiesiogiai. Nagrinėjimo teisme dalyviams, kurie
+piktnaudžiauja šia teise, pirmininkas gali ją atimti ir leisti užduoti klausimus tik per jį.
 5. Jaunesniems kaip aštuoniolikos metų
 nukentėjusiesiems ir liudytojams klausimai užduodami tik per teisiamojo
 posėdžio pirmininką, o prireikus – per atstovą.
 6. Teisiamojo posėdžio pirmininkas atmeta klausimus,
 kurie nesusiję su byla.
  
-276
-straipsnis. Kaltinamojo, nukentėjusiojo ir liudytojo pirmiau duotų parodymų
-perskaitymas
+276 straipsnis. Kaltinamojo,
+nukentėjusiojo ir liudytojo pirmiau duotų parodymų perskaitymas
 1. Kaltinamojo, nukentėjusiojo ir liudytojo parodymai,
 duoti ikiteisminio tyrimo teisėjui arba pirmiau teisme, gali būti teisiamajame
 posėdyje balsu perskaitomi, taip pat perklausomi ir peržiūrimi tokių apklausų
@@ -5224,15 +5499,15 @@ nėra – dar ir šio Kodekso 246 straipsnyje numatytais atvejais;
 vengia duoti parodymus, taip pat kai pareiškia, kad neprisimena aplinkybių,
 apie kurias anksčiau davė parodymus;
 3) duoda
-teisiamajame posėdyje parodymus, kurie iš esmės skiriasi nuo parodymų, duotų
-ikiteisminio tyrimo metu ar pirmiau teisme.
-2. Be
-to, teisiamajame posėdyje gali būti balsu perskaityti asmenų, apklaustų teisme
-atidėjus bylos nagrinėjimą ar padarius pertrauką šio Kodekso 243 ir 244
-straipsniuose nustatyta tvarka, parodymai, taip pat liudytojo ar
-nukentėjusiojo, pagal teismo nutartį nepašauktų į teisiamąjį posėdį dėl to, kad
-jiems buvo taikytas anonimiškumas arba kad jie neturi aštuoniolikos metų,
-parodymai, duoti ikiteisminio tyrimo teisėjui.
+teisiamajame posėdyje parodymus, kurie iš esmės skiriasi nuo parodymų, duotų ikiteisminio
+tyrimo metu ar pirmiau teisme.
+2. Be to, teisiamajame posėdyje gali būti
+balsu perskaityti asmenų, apklaustų teisme atidėjus bylos nagrinėjimą ar
+padarius pertrauką šio Kodekso 243 ir 244 straipsniuose nustatyta tvarka,
+parodymai, taip pat liudytojo ar nukentėjusiojo, pagal teismo nutartį
+nepašauktų į teisiamąjį posėdį dėl to, kad jiems buvo taikytas anonimiškumas
+arba kad jie neturi aštuoniolikos metų, parodymai, duoti ikiteisminio tyrimo
+teisėjui.
 3. Nagrinėjimo
 teisme dalyvių prašymu gali būti perklausomi ir peržiūrimi garso ir vaizdo
 įrašai. Prieš perklausant ir peržiūrint garso ir vaizdo įrašus, gali
@@ -5313,11 +5588,11 @@ straipsnis. Nepilnamečio liudytojo apklausos ypatumai
 jaunesnį kaip aštuoniolikos metų liudytoją, šaukiamas valstybinės vaiko teisių
 apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti
 nepilnametį atsižvelgdami į jo socialinę ir psichologinę brandą. Prireikus
-dalyvauti apklausoje taip pat šaukiami nepilnamečio liudytojo tėvai ar kiti atstovai
-pagal įstatymą. Dalyvaujantys apklausoje valstybinės vaiko teisių apsaugos
-institucijos atstovas arba psichologas, nepilnamečio liudytojo tėvai ar kiti
-atstovai pagal įstatymą teisiamojo posėdžio pirmininko leidimu gali užduoti
-liudytojui klausimų.
+dalyvauti apklausoje taip pat šaukiami nepilnamečio liudytojo tėvai ar kiti
+atstovai pagal įstatymą. Dalyvaujantys apklausoje valstybinės vaiko teisių
+apsaugos institucijos atstovas arba psichologas, nepilnamečio liudytojo tėvai
+ar kiti atstovai pagal įstatymą teisiamojo posėdžio pirmininko leidimu gali
+užduoti liudytojui klausimų.
 2. Jaunesnis
 kaip šešiolikos metų liudytojas po jo apklausos turi būti pašalinamas iš
 posėdžių salės, jeigu teismas nepripažįsta, kad jam likti salėje būtina.
@@ -5339,8 +5614,8 @@ leidžiama perskaityti turimus dokumentus, susijusius su duotais parodymais. Ši
 dokumentai pateikiami teismui bei nagrinėjimo teisme dalyviams ir teismo
 nutartimi gali būti pridėti prie bylos.
  
-282
-straipsnis. Liudytojo, kuriam taikomas anonimiškumas, apklausos ypatumai
+282 straipsnis. Liudytojo, kuriam
+taikomas anonimiškumas, apklausos ypatumai
 1. Teismas
 paveda prokurorui taip organizuoti liudytojo, kuriam taikomas anonimiškumas,
 atvykimą į teismą, kad būtų užtikrintas jo anonimiškumas.
@@ -5376,9 +5651,9 @@ straipsnis. Nukentėjusiojo apklausos tvarka
 1. Kai reikia
 apklausti kelis nukentėjusiuosius, teismas nustato jų apklausų eilę.
 2.
-Nukentėjusysis apklausiamas ir jo parodymai
-perskaitomi laikantis visų taisyklių, reglamentuojančių liudytojo apklausą ir
-liudytojo parodymų perskaitymą.
+Nukentėjusysis apklausiamas ir jo parodymai perskaitomi laikantis visų
+taisyklių, reglamentuojančių liudytojo apklausą ir liudytojo parodymų
+perskaitymą.
 3. Jaunesnio
 kaip aštuoniolikos metų nukentėjusiojo apklausoje turi dalyvauti jo atstovas.
 Tokio amžiaus nukentėjusysis ir jo atstovas teismo nutartimi gali dalyvauti ne
@@ -5390,9 +5665,8 @@ ikiteisminio tyrimo teisėjui.
 4. Nukentėjusysis, kuriam taikomas anonimiškumas,
 apklausiamas laikantis šio Kodekso 282 straipsnyje nustatytų taisyklių.
  
-284
-straipsnis. Specialisto dalyvavimas nagrinėjant bylą teisme ir specialisto
-apklausa
+284 straipsnis. Specialisto dalyvavimas
+nagrinėjant bylą teisme ir specialisto apklausa
 1. Jeigu ikiteisminio tyrimo metu pateikta
 specialisto išvada yra pakankamai aiški ir išsami, ji teismo posėdyje
 paskelbiama specialistui nedalyvaujant.
@@ -5404,9 +5678,8 @@ specialistas, nepateikęs išvados ikiteisminio tyrimo metu.
 4. Specialistas
 apklausiamas laikantis liudytojų apklausos taisyklių.
  
-285
-straipsnis. Eksperto dalyvavimas bylą nagrinėjant teisme, jeigu ekspertizė buvo
-atlikta ikiteisminio tyrimo metu
+285 straipsnis. Eksperto dalyvavimas
+bylą nagrinėjant teisme, jeigu ekspertizė buvo atlikta ikiteisminio tyrimo metu
 Jeigu ekspertizė buvo atlikta ikiteisminio tyrimo metu
 ir teismui pateiktas ekspertizės aktas yra pakankamai aiškus ir išsamus, jis
 teismo posėdyje paskelbiamas ekspertui nedalyvaujant. Ekspertas į teismo posėdį
@@ -5414,10 +5687,11 @@ teismo posėdyje paskelbiamas ekspertui nedalyvaujant. Ekspertas į teismo posė
 būtini ekspertizės aktui paaiškinti ar papildyti. Ekspertas apklausiamas
 laikantis šio Kodekso 275 straipsnyje nustatytos klausimų uždavimo tvarkos.
  
-286
-straipsnis. Ekspertizės skyrimas ir darymas bylos nagrinėjimo teisme metu
+286 straipsnis. Ekspertizės skyrimas ir
+darymas bylos nagrinėjimo teisme metu
 1. Teismas turi
-teisę paskirti ekspertizę bylos nagrinėjimo teisme dalyvių prašymu arba savo iniciatyva.
+teisę paskirti ekspertizę bylos nagrinėjimo teisme dalyvių prašymu arba savo
+iniciatyva.
 2. Bylos
 nagrinėjimo teisme dalyviai klausimus ekspertui pateikia raštu. Teisiamojo
 posėdžio pirmininkas šiuos klausimus perskaito balsu, po to teismas išklauso
@@ -5437,15 +5711,15 @@ ekspertizę ir surašo ekspertizės aktą. Ekspertas, manydamas, kad jam pateikt
 medžiagos nepakanka išvadai padaryti arba kad pateikti klausimai nepriklauso jo
 kompetencijai, surašo aktą, kad negalima pateikti išvados.
 4. Ekspertas,
-darydamas ekspertizę nustatęs reikšmės bylai
-turinčių aplinkybių, dėl kurių jam nebuvo pateikta klausimų, turi teisę
-nurodyti jas ekspertizės akte.
+darydamas ekspertizę nustatęs reikšmės bylai turinčių aplinkybių, dėl kurių jam
+nebuvo pateikta klausimų, turi teisę nurodyti jas ekspertizės akte.
 5. Ekspertizės
 aktą arba eksperto aktą, kad negalima pateikti išvados, dalyvaujantis bylą
 nagrinėjant teisme ekspertas perskaito balsu teismo posėdyje ir ekspertizės
 aktas arba eksperto aktas pridedamas prie bylos. Nagrinėjimo teisme dalyviai
 gali žodžiu užduoti ekspertui klausimų norėdami išsiaiškinti ar papildyti
-ekspertizės aktą arba išsiaiškinti eksperto aktą, kad negalima pateikti išvados.
+ekspertizės aktą arba išsiaiškinti eksperto aktą, kad negalima pateikti
+išvados.
 6. Ekspertizės
 įstaiga ar nedalyvaujantis bylą nagrinėjant teisme ekspertas ekspertizės aktą
 arba eksperto aktą, kad negalima pateikti išvados, nusiunčia teismui. Teisme
@@ -5493,8 +5767,8 @@ jie parodomi nagrinėjimo teisme dalyviams. Prireikus daiktiniai įrodymai gali
 būti parodyti ir liudytojams ar ekspertui. Daiktinių įrodymų apžiūra tiek
 teismo iniciatyva, tiek nagrinėjimo teisme dalyvių prašymu gali būti atliekama
 bet kuriuo įrodymų tyrimo metu. Asmenys, kuriems parodomi daiktiniai įrodymai,
-turi teisę atkreipti teismo dėmesį į bet kokias su apžiūra susijusias
-aplinkybes. Tai nurodoma teisiamojo posėdžio protokole.
+turi teisę atkreipti teismo dėmesį į bet kokias su apžiūra susijusias aplinkybes.
+Tai nurodoma teisiamojo posėdžio protokole.
 2. Daiktinius įrodymus, kurių negalima pristatyti į
 teismą, teismas prireikus apžiūri daiktinių įrodymų buvimo vietoje laikydamasis
 šio straipsnio 1 dalyje nustatytų taisyklių.
@@ -5506,9 +5780,9 @@ tyrimo metu teisiamojo posėdžio pirmininkas paskelbia ikiteisminio tyrimo ir
 nagrinėjimo teisme metu gautus bei prie bylos pridėtus dokumentus, turinčius
 reikšmės bylai nagrinėti. Nagrinėjimo teisme dalyvių prašymu ar teismo
 iniciatyva šie dokumentai gali būti apžiūrimi.
-2. Įrodymų tyrimo
-teisme metu gali būti perklausomi ir peržiūrimi garso ar vaizdo įrašai, kurie
-buvo padaryti atliekant ikiteisminį tyrimą.
+2. Įrodymų
+tyrimo teisme metu gali būti perklausomi ir peržiūrimi garso ar vaizdo įrašai,
+kurie buvo padaryti atliekant ikiteisminį tyrimą.
 3. Tuo atveju, kai nagrinėjimo teisme dalyviai
 pareiškia, jog jie nepageidauja, kad dokumentai būtų skelbiami ir
 apžiūrimi, teisiamojo posėdžio pirmininkas gali apsiriboti tik šių dokumentų
@@ -5537,14 +5811,13 @@ išnagrinėti prašymai, jeigu jų buvo, ir reikiamais atvejais atlikti papildom
 tyrimo veiksmai, teisiamojo posėdžio pirmininkas paskelbia, kad įrodymų tyrimas
 teisme baigtas.
  
-XXII
-skyrius
+XXII skyrius
 BAIGIAMOSIOS KALBOS ir kaltinamojo paskutinis žodis
  
 293
 straipsnis. Baigiamosios kalbos
-1. Baigęs
-įrodymų tyrimą, teismas pradeda klausyti baigiamųjų kalbų.
+1. Baigęs įrodymų
+tyrimą, teismas pradeda klausyti baigiamųjų kalbų.
 2. Baigiamosios kalbos yra teisiamajame posėdyje
 dalyvaujančio byloje prokuroro, nukentėjusiojo arba jo atstovo, civilinio
 ieškovo, civilinio atsakovo arba jų atstovų, gynėjo arba gynėjo neturinčio
@@ -5554,21 +5827,21 @@ privataus kaltinimo byloje yra sujungti priešpriešiniai kaltinimai, baigiamųj
 kalbų eiliškumą nustato teismas.
 4. Baigiamojoje
 kalboje negalima remtis įrodymais, kurie nebuvo ištirti teisiamajame posėdyje.
-5. Po to, kai
-nagrinėjimo teisme dalyviai pasako baigiamąsias kalbas, jie turi teisę pasakyti
+5. Po to, kai nagrinėjimo
+teisme dalyviai pasako baigiamąsias kalbas, jie turi teisę pasakyti
 atsikirtimus ir pastabas dėl to, kas pasakyta pirmiau baigiamosiose kalbose.
 Paskutinis atsikirtimus ir pastabas pasako gynėjas, o jeigu šio nėra, –
 kaltinamasis.
-6. Teismas
-negali apriboti baigiamųjų kalbų trukmės, bet teisiamojo posėdžio pirmininkas
-turi teisę nutraukti baigiamąją kalbą, jeigu ši aiškiai nesusijusi su
-nagrinėjama byla.
+6. Teismas negali
+apriboti baigiamųjų kalbų trukmės, bet teisiamojo posėdžio pirmininkas turi
+teisę nutraukti baigiamąją kalbą, jeigu ši aiškiai nesusijusi su nagrinėjama
+byla.
 7. Pasakę
 baigiamąsias kalbas, nagrinėjimo teisme dalyviai gali raštu pasiūlyti teismui
 šio Kodekso 307 straipsnyje numatytų sprendimų formuluotę.
  
-294 straipsnis.
-Kaltinamojo paskutinis žodis
+294
+straipsnis. Kaltinamojo paskutinis žodis
 1. Po baigiamųjų
 kalbų teisiamojo posėdžio pirmininkas suteikia kaltinamajam paskutinį žodį.
 2. Klausimai
@@ -5599,8 +5872,7 @@ esantiesiems teismo posėdžių salėje.
 išeidamas priimti nuosprendžio, praneša apie nuosprendžio paskelbimo laiką ir
 vietą.
  
-XXIII
-skyrius
+XXIII skyrius
 Nuosprendžio priėmimas
  
 297
@@ -5629,10 +5901,10 @@ atsakyti tik arba teigiamai, arba neigiamai.
 balsuoja mažiausią teisėjo darbo stažą turintis teisėjas. Teisiamojo posėdžio
 pirmininkas, nesvarbu, koks jo turimas teisėjo darbo stažas, balsuoja
 paskutinis.
-4. Teisėjas, balsavęs
-prieš kaltinamojo pripažinimą kaltu, turi teisę susilaikyti nuo balsavimo dėl
-bausmės skyrimo. Tokiu atveju šio teisėjo balsas priskiriamas prie kaltinamajam
-palankesnės teisėjo nuomonės.
+4. Teisėjas,
+balsavęs prieš kaltinamojo pripažinimą kaltu, turi teisę susilaikyti nuo
+balsavimo dėl bausmės skyrimo. Tokiu atveju šio teisėjo balsas priskiriamas
+prie kaltinamajam palankesnės teisėjo nuomonės.
 5. Nuosprendžio
 priėmimo metu klausimai išsprendžiami balsų dauguma, išskyrus dėl laisvės
 atėmimo iki gyvos galvos bausmės. Laisvės atėmimo iki gyvos galvos bausmė
@@ -5662,8 +5934,9 @@ kiti įrodymai.
  
 302
 straipsnis. Nuosprendžio surašymas
-1. Teismas, apsvarstęs
-ir išsprendęs nuosprendžiui priimti reikalingus klausimus, surašo nuosprendį.
+1. Teismas,
+apsvarstęs ir išsprendęs nuosprendžiui priimti reikalingus klausimus, surašo
+nuosprendį.
 2. Nuosprendį
 pasirašo visi jį priėmę teisėjai. Teisėjas, kuris laikosi kitos nuomonės, taip
 pat pasirašo nuosprendį.
@@ -5691,8 +5964,7 @@ kaltinamąjį nuo baudžiamosios atsakomybės.
 1) nepadaryta
 veika, turinti nusikaltimo ar baudžiamojo nusižengimo požymių;
 2) nenustatyta,
-kad kaltinamasis dalyvavo padarant
-nusikalstamą veiką.
+kad kaltinamasis dalyvavo padarant nusikalstamą veiką.
 6. Jeigu
 išteisinamasis nuosprendis priimtas remiantis šio straipsnio 5 dalies 2 punktu,
 o nusikalstamą veiką padaręs asmuo lieka nenustatytas, teismas po nuosprendžio
@@ -5744,8 +6016,8 @@ aplinkybės, taip pat kokia sunkia nepagydoma liga, dėl kurios bausmę
 atlikti būtų per sunku, nuteistasis serga. Nuteistojo liga turi būti
 patvirtinta sveikatos priežiūros įstaigos pažyma arba ekspertų komisijos
 išvada. Jeigu atleidžiant nuo bausmės atlikimo skiriama baudžiamojo poveikio
-priemonė ar auklėjamojo poveikio priemonė, nuosprendžio aprašomojoje dalyje
-nurodomi tos priemonės skyrimo motyvai.
+priemonė ar auklėjamojo poveikio priemonė, nuosprendžio aprašomojoje dalyje nurodomi
+tos priemonės skyrimo motyvai.
 3. Išteisinamojo
 nuosprendžio aprašomojoje dalyje išdėstoma:
 1) kaltinimo,
@@ -5756,13 +6028,13 @@ nustatytos bylos aplinkybės;
 įvertinimo motyvai;
 4) teismo išvados dėl kaltinamojo išteisinimo.
 4.
-Nuosprendžio, kuriuo baudžiamoji byla
-nutraukiama, aprašomojoje dalyje nurodomos šio straipsnio 1 dalies 1 ir 2
-punktuose numatytos aplinkybės, nusikalstamos veikos kvalifikavimas, taip pat
-atleidimo nuo baudžiamosios atsakomybės pagrindai ir motyvai. Jeigu nutraukiant
-baudžiamąją bylą skiriama baudžiamojo
-poveikio priemonė ar auklėjamojo poveikio priemonė, nuosprendžio aprašomojoje
-dalyje nurodomi tos priemonės skyrimo motyvai.
+Nuosprendžio, kuriuo baudžiamoji byla nutraukiama, aprašomojoje dalyje
+nurodomos šio straipsnio 1 dalies 1 ir 2 punktuose numatytos aplinkybės,
+nusikalstamos veikos kvalifikavimas, taip pat atleidimo nuo baudžiamosios
+atsakomybės pagrindai ir motyvai. Jeigu
+nutraukiant baudžiamąją bylą skiriama baudžiamojo poveikio priemonė ar
+auklėjamojo poveikio priemonė, nuosprendžio aprašomojoje dalyje nurodomi tos
+priemonės skyrimo motyvai.
 5. Aprašomojoje
 nuosprendžio dalyje turi būti nurodyti motyvai, pagrindžiantys sprendimą dėl
 nusikalstama veika padarytos žalos atlyginimo.
@@ -5789,7 +6061,8 @@ teisėjas pasirašo ir prideda prie jau esančio nuosprendžio.
 4. Jeigu apeliacinės instancijos teismui
 apskundžiamas nuosprendis, kurio aprašomoji dalis surašyta sutrumpinta ir
 kuriuo nuteisti keli asmenys arba nuteistieji pripažinti kaltais dėl kelių
-nusikalstamų veikų padarymo, surašoma nesutrumpinta aprašomoji nuosprendžio dalis.
+nusikalstamų veikų padarymo, surašoma nesutrumpinta aprašomoji nuosprendžio
+dalis.
  
 307
 straipsnis. Rezoliucinė nuosprendžio dalis
@@ -5818,9 +6091,9 @@ nuteisiamas, dėl kurių išteisinamas.
 nuosprendžio, kuriuo kaltinamasis atleidžiamas nuo bausmės atlikimo,
 rezoliucinėje dalyje nurodomi šio straipsnio 1 dalies 1–3 punktuose nurodyti
 duomenys ir sprendimai, taip pat sprendimas skirti bausmę bei sprendimas
-atleisti nuteistąjį nuo jos atlikimo, sprendimas dėl procesinių prievartos
-priemonių panaikinimo, sprendimas dėl baudžiamojo poveikio priemonės ar
-auklėjamojo poveikio priemonės skyrimo, kai tam yra pagrindas.
+atleisti nuteistąjį nuo jos atlikimo, sprendimas dėl procesinių prievartos priemonių
+panaikinimo, sprendimas dėl baudžiamojo poveikio priemonės ar auklėjamojo
+poveikio priemonės skyrimo, kai tam yra pagrindas.
 4. Išteisinamojo
 nuosprendžio rezoliucinėje dalyje nurodoma:
 1) kaltinamojo
@@ -5861,9 +6134,9 @@ nuosprendį.
 ypač sudėtinga ar didelė, teismas turi teisę iki nuosprendžio skelbimo laiko
 surašyti tik nuosprendžio įžanginę ir rezoliucinę dalis. Šiuo atveju teismas
 paskelbia nuosprendžio įžanginę bei rezoliucinę dalis ir žodžiu paaiškina jo
-priėmimo argumentus. Visą motyvuotą nuosprendį surašo ir pasirašo bylą
-išnagrinėję teisėjai ne vėliau kaip per septynias dienas, o teismo pirmininko
-ar Baudžiamųjų bylų skyriaus pirmininko sutikimu – per keturiolika dienų po
+priėmimo argumentus. Visą motyvuotą nuosprendį surašo ir pasirašo bylą išnagrinėję
+teisėjai ne vėliau kaip per septynias dienas, o teismo pirmininko ar
+Baudžiamųjų bylų skyriaus pirmininko sutikimu – per keturiolika dienų po
 nuosprendžio priėmimo.
 3. Visi teismo
 posėdžių salėje esantys asmenys nuosprendį išklauso stovėdami.
@@ -5876,9 +6149,9 @@ ypatumus.
  
 309
 straipsnis. Paleidimas iš suėmimo 
-1. Suimtą išteisintąjį
-ar nuteistąjį teismas nedelsdamas paleidžia iš suėmimo teismo posėdžių salėje,
-kai tokiam asmeniui:
+1. Suimtą
+išteisintąjį ar nuteistąjį teismas nedelsdamas paleidžia iš suėmimo teismo
+posėdžių salėje, kai tokiam asmeniui:
 1) paskelbia
 išteisinamąjį nuosprendį;
 2) paskelbia
@@ -5903,19 +6176,19 @@ nutraukti baudžiamąją bylą.
 nepaleidžiamas asmuo, kuriam kardomoji priemonė – suėmimas paskirta kitoje
 byloje.
  
-310
-straipsnis. Nuosprendžio nuorašo įteikimas išteisintajam ar nuteistajam
+310 straipsnis. Nuosprendžio nuorašo
+įteikimas išteisintajam ar nuteistajam
 Ne vėliau kaip
 per penkias dienas po nuosprendžio paskelbimo, o kai buvo paskelbta tik
 įžanginė ir rezoliucinė dalys, – per tą patį laiką po viso nuosprendžio
 surašymo jo nuorašas turi būti įteiktas arba išsiųstas išteisintajam ar
 nuteistajam.
  
-VI dalis
+VI
+dalis
 Bylų procesas apeliacinės instancijos teisme
  
-XXIV
-skyrius
+XXIV skyrius
 Neįsiteisėjusio nuosprendžio ar nutarties apskundimas
  
 311
@@ -5959,8 +6232,8 @@ straipsnis. Nuosprendžio apskundimo tvarka ir terminai
 skundas dėl neįsiteisėjusio teismo nuosprendžio turi būti rašytinis ir
 apelianto pasirašytas. Apeliaciniame skunde turi būti nurodyta: apeliacinės
 instancijos teismo pavadinimas; byla, dėl kurios paduodamas skundas;
-skundžiamos nuosprendžio dalies esmė; nuosprendžio apskundimo pagrindai ir motyvai;
-apelianto prašymai.
+skundžiamos nuosprendžio dalies esmė; nuosprendžio apskundimo pagrindai ir
+motyvai; apelianto prašymai.
 2. Apeliacinis
 skundas paduodamas apeliacinės instancijos teismui per nuosprendį priėmusį
 teismą.
@@ -5969,8 +6242,8 @@ skundas dėl teismo nuosprendžio gali būti paduodamas per dvidešimt dienų nu
 nuosprendžio paskelbimo dienos, o šio Kodekso 308 straipsnio 2 dalyje numatytu
 atveju – per dvidešimt dienų suėjus terminui visam nuosprendžiui surašyti.
 4. Suimtam
-nuteistajam terminas apeliaciniam skundui paduoti skaičiuojamas nuo
-nuosprendžio nuorašo įteikimo jam dienos.
+nuteistajam terminas apeliaciniam skundui paduoti skaičiuojamas nuo nuosprendžio
+nuorašo įteikimo jam dienos.
 5. Teisiamajame posėdyje nedalyvavusiam kaltinamajam
 terminas apeliaciniam skundui paduoti skaičiuojamas nuo nuosprendžio nuorašo
 jam išsiuntimo dienos.
@@ -5981,8 +6254,8 @@ byla.
 7. Praleidus
 terminą paduotas apeliacinis skundas grąžinamas apeliantui.
  
-314
-straipsnis. Nuosprendžio apskundimo termino atnaujinimo tvarka
+314 straipsnis. Nuosprendžio apskundimo
+termino atnaujinimo tvarka
 1. Turintys
 teisę paduoti apeliacinį skundą asmenys, kurie dėl svarbių priežasčių praleido
 apskundimo terminą, turi teisę prašyti priėmusį nuosprendį teismą atnaujinti
@@ -6028,11 +6301,11 @@ Kodekso 317 straipsnyje nustatytos taisyklės.
 317
 straipsnis. Pranešimai apie paduotus apeliacinius skundus
 1. Apie apeliacinio skundo padavimą bei apie teisę su
-juo susipažinti ir pateikti atsikirtimus nuosprendį priėmęs teismas praneša nuteistajam,
-išteisintajam ar kitiems proceso dalyviams, su kurių interesais skundas
-susijęs. Jeigu skundas susijęs su nukentėjusiaisiais ar civiliniais ieškovais,
-kurių baudžiamojoje byloje yra daug, pranešimai šiems asmenims gali būti
-nesiunčiami, o apie paduotą skundą ir apie galimybę su juo susipažinti bei
+juo susipažinti ir pateikti atsikirtimus nuosprendį priėmęs teismas praneša
+nuteistajam, išteisintajam ar kitiems proceso dalyviams, su kurių interesais
+skundas susijęs. Jeigu skundas susijęs su nukentėjusiaisiais ar civiliniais
+ieškovais, kurių baudžiamojoje byloje yra daug, pranešimai šiems asmenims gali
+būti nesiunčiami, o apie paduotą skundą ir apie galimybę su juo susipažinti bei
 pateikti atsikirtimus pranešama per spaudą ne vėliau kaip likus dešimčiai dienų
 iki nurodytos susipažinimo su paduotu skundu dienos.
 2. Nuteistajam
@@ -6043,8 +6316,8 @@ tokie nuorašai įteikiami jų prašymu.
 atsikirtimai į skundą pridedami prie bylos arba persiunčiami apeliacinės
 instancijos teismui bylai papildyti.
  
-318
-straipsnis. Pirmosios instancijos teismo nutarčių apskundimo tvarka
+318 straipsnis. Pirmosios instancijos
+teismo nutarčių apskundimo tvarka
 1. Šio Kodekso
 312 straipsnyje nurodyti proceso dalyviai gali paduoti skundus dėl pirmosios
 instancijos teismo ar teisėjo nutarčių. Apskųsti teismo ar teisėjo nutartį gali
@@ -6059,15 +6332,14 @@ teismui tik pasibaigus šio nuosprendžio apskundimo terminui.
 perdavimo nagrinėti teisiamajame posėdyje, dėl galimumo nagrinėti bylą, kai kas
 nors iš proceso dalyvių neatvyko, dėl pareikštų nušalinimų, dėl naujų įrodymų
 rinkimo, dėl proceso dalyvių prašymų nagrinėjimo, dėl pastabų teisiamojo
-posėdžio protokole bei tvarkos palaikymo teisiamojo posėdžio metu.
-Prieštaravimai šioms nutartims nurodomi apeliaciniame skunde dėl nuosprendžio.
+posėdžio protokole bei tvarkos palaikymo teisiamojo posėdžio metu. Prieštaravimai
+šioms nutartims nurodomi apeliaciniame skunde dėl nuosprendžio.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-319
-straipsnis. Bylos su gautu apeliaciniu skundu išsiuntimas bei pranešimas apie
-bylos nagrinėjimo vietą ir laiką
+319 straipsnis. Bylos su gautu apeliaciniu
+skundu išsiuntimas bei pranešimas apie bylos nagrinėjimo vietą ir laiką
 1. Pasibaigus
 apeliacinio skundo padavimo terminui, teismas per tris dienas išsiunčia bylą su
 gautais skundais ir atsikirtimais į juos apeliacinės instancijos teismui.
@@ -6084,8 +6356,9 @@ kam nors iš kartu su juo gyvenančių pilnamečių asmenų arba nuteistojo ar
 išteisintojo darbovietės administracijai.
 3. Jeigu byloje
 yra daug nukentėjusiųjų ar civilinių ieškovų, apie bylos nagrinėjimo
-apeliacinės instancijos teisme laiką jiems gali būti pranešama per spaudą. Šis pranešimas turi būti išspausdintas ne vėliau
-kaip likus dešimčiai dienų iki bylos nagrinėjimo teisme dienos.
+apeliacinės instancijos teisme laiką jiems
+gali būti pranešama per spaudą. Šis pranešimas turi būti išspausdintas ne
+vėliau kaip likus dešimčiai dienų iki bylos nagrinėjimo teisme dienos.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
@@ -6140,20 +6413,20 @@ instancijos teismas, bet ne vėliau kaip po vieno mėnesio. Šiuo atveju proceso
 dalyviams pranešama apie bylos nagrinėjimo apeliacinės instancijos teisme
 dieną.
  
-322
-straipsnis. Asmenys, dalyvaujantys nagrinėjant bylą apeliacinės instancijos
-teismo posėdyje
+322 straipsnis. Asmenys, dalyvaujantys
+nagrinėjant bylą apeliacinės instancijos teismo posėdyje
 1. Nagrinėjant
 bylą apeliacine tvarka, teismo posėdyje dalyvauja prokuroras ir gynėjas.
 2. Šiame
 posėdyje turi teisę dalyvauti nuteistasis, išteisintasis, asmuo, kuriam
 paskirtos ar nepaskirtos priverčiamosios medicinos priemonės, jų
-atstovai pagal įstatymą, nukentėjusysis, privatus kaltintojas, civilinis ieškovas,
-civilinis atsakovas ir jų atstovai. Šių asmenų, jeigu jiems buvo laiku pranešta
-apie bylos nagrinėjimo laiką, neatvykimas nekliudo nagrinėti bylą.
+atstovai pagal įstatymą, nukentėjusysis, privatus kaltintojas, civilinis
+ieškovas, civilinis atsakovas ir jų atstovai. Šių asmenų, jeigu jiems buvo
+laiku pranešta apie bylos nagrinėjimo laiką, neatvykimas nekliudo nagrinėti
+bylą.
 Straipsnio pakeitimai:
-Nr. IX-1496, 2003-04-10,
-Žin., 2003, Nr. 38-1734 (2003-04-24)
+Nr. IX-1496,
+2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
 323
 straipsnis. Bylos parengimas nagrinėti teismo posėdyje
@@ -6211,11 +6484,11 @@ nagrinėjimas iš esmės pradedamas vieno iš teisėjų pranešimu, kuriame jis
 išdėsto bylos esmę, pagrindines pirmosios instancijos teismo nuosprendžio
 išvadas, apeliacinių skundų ar atsikirtimų į juos motyvus. Proceso dalyviai
 gali prašyti pranešėją papildyti pranešimą.
-4. Teismo iniciatyva
-arba proceso dalyvių prašymu gali būti perskaitytas pirmosios instancijos
-teismo nuosprendis ir kiti toje byloje priimti nuosprendžiai arba nutartys,
-taip pat pirmosios instancijos teismo teisiamojo posėdžio protokolas arba jo
-dalys.
+4. Teismo
+iniciatyva arba proceso dalyvių prašymu gali būti perskaitytas pirmosios
+instancijos teismo nuosprendis ir kiti toje byloje priimti nuosprendžiai arba
+nutartys, taip pat pirmosios instancijos teismo teisiamojo posėdžio protokolas
+arba jo dalys.
 5. Kai teismui
 pateikiama papildoma medžiaga, kolegijos pirmininkas ar kitas teisėjas ją balsu
 perskaito ir perduoda susipažinti proceso dalyviams, jeigu šie to prašo.
@@ -6240,8 +6513,8 @@ pastabas dėl to, kas buvo pasakyta pirmesnėse kalbose. Paskutinis atsikerta ir
 pasako pastabas gynėjas, o jeigu šio nėra, – nuteistasis ar išteisintasis. Po
 baigiamųjų kalbų nuteistajam ar išteisintajam suteikiamas paskutinis žodis.
 9. Po
-baigiamųjų kalbų ir paskutinio žodžio teismas išeina į pasitarimų kambarį
-priimti nuosprendžio ar nutarties.
+baigiamųjų kalbų ir paskutinio žodžio teismas
+išeina į pasitarimų kambarį priimti nuosprendžio ar nutarties.
 10. Teisėjų
 pasitarimo tvarką priimant nuosprendį ar nutartį nustato šio Kodekso 299
 straipsnis.
@@ -6270,8 +6543,8 @@ kalbos nemokančiam nuteistajam ar išteisintajam išsiunčiamas arba įteikiama
 rašytinis nuosprendžio ar nutarties vertimas į jo gimtąją kalbą arba į kalbą,
 kurią jis moka.
  
-325
-straipsnis. Skundų dėl pirmosios instancijos teismo nutarčių nagrinėjimo tvarka
+325 straipsnis. Skundų dėl pirmosios
+instancijos teismo nutarčių nagrinėjimo tvarka
 1. Skundus dėl
 pirmosios instancijos teismo ar teisėjo nutarčių apeliacinės instancijos
 teismas nagrinėja teismo posėdyje šio Kodekso 323 ir 324 straipsniuose
@@ -6280,9 +6553,8 @@ nustatyta tvarka.
 instancijos teismas skundus dėl nutarčių nagrinėja tik tiek, kiek jie susiję su
 asmenimis, dėl kurių skundai paduoti.
  
-326
-straipsnis. Apeliacinės instancijos teismo sprendimų, priimamų išnagrinėjus
-bylą, rūšys
+326 straipsnis. Apeliacinės instancijos
+teismo sprendimų, priimamų išnagrinėjus bylą, rūšys
 1. Išnagrinėjęs
 bylą teismo posėdyje, dėl apskųsto nuosprendžio apeliacinės instancijos teismas
 priima nutartį:
@@ -6297,18 +6569,15 @@ nuosprendį šio Kodekso 328 straipsnio 3 ir 4 punktuose numatytais pagrindais;
 nagrinėti teismui, jeigu bylą išnagrinėjo šališkas pirmosios instancijos
 teismas arba byla išnagrinėta pažeidžiant šio Kodekso 224 ir 225 straipsniuose
 nustatytas teismingumo taisykles;
-5)
-panaikinti nuosprendį ir perduoti bylą prokurorui, kai ikiteisminio tyrimo metu
-buvo surašytas
-iš esmės šio Kodekso 219 straipsnio reikalavimų neatitinkantis kaltinamasis
-aktas,
-šio pažeidimo negalima ištaisyti teisme ir jis trukdo nagrinėti bylą.
+5) panaikinti nuosprendį ir perduoti bylą
+prokurorui, kai ikiteisminio tyrimo metu buvo surašytas iš
+esmės šio Kodekso 219 straipsnio reikalavimų neatitinkantis kaltinamasis aktas, šio pažeidimo negalima ištaisyti teisme ir
+jis trukdo nagrinėti bylą.
 2. Išnagrinėjęs
 bylą teismo posėdyje, dėl apskųsto nuosprendžio apeliacinės instancijos teismas
 priima nuosprendį:
 1) panaikinti
-nuosprendį ir nutraukti bylą šio Kodekso 327 straipsnio 2 punkte numatytais
-pagrindais;
+nuosprendį ir nutraukti bylą šio Kodekso 327 straipsnio 2 punkte numatytais pagrindais;
 2) pakeisti
 nuosprendį šio Kodekso 328 straipsnio 1 ir 2 punktuose numatytais pagrindais.
 3. Teismas turi
@@ -6331,22 +6600,22 @@ nutartį.
 bylą teismo posėdyje, dėl apskųstos nutarties baudžiamąją bylą nutraukti
 apeliacinės instancijos teismas priima nutartį:
 1) atmesti apeliacinį skundą;
-2) panaikinti nutartį
-ir perduoti bylą iš naujo nagrinėti pirmosios instancijos teismui;
+2) panaikinti
+nutartį ir perduoti bylą iš naujo nagrinėti pirmosios instancijos teismui;
 3) pakeisti
 nutartį.
 Straipsnio pakeitimai:
-Nr. IX-1496,
-2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
+Nr. IX-1496, 2003-04-10,
+Žin., 2003, Nr. 38-1734 (2003-04-24)
  
 327
 straipsnis. Nuosprendžio panaikinimo ir bylos nutraukimo pagrindai
 Apeliacinės
 instancijos teismas panaikina pirmosios instancijos teismo apkaltinamąjį
 nuosprendį ir nutraukia bylą, jeigu:
-1) yra šio
-Kodekso 3 straipsnio 1 dalies 2–9 punktuose numatytos aplinkybės,
-dėl kurių baudžiamasis procesas negalimas;
+1) yra šio Kodekso
+3 straipsnio 1 dalies 2–9 punktuose numatytos aplinkybės, dėl
+kurių baudžiamasis procesas negalimas;
 2) yra Lietuvos
 Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3
 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti
@@ -6358,8 +6627,7 @@ Nr. IX-1496,
 328
 straipsnis. Nuosprendžio pakeitimo pagrindai
 Apeliacinės
-instancijos teismas pakeičia pirmosios
-instancijos teismo nuosprendį, jeigu:
+instancijos teismas pakeičia pirmosios instancijos teismo nuosprendį, jeigu:
 1) netinkamai
 pritaikytas baudžiamasis įstatymas;
 2) neteisingai
@@ -6369,8 +6637,8 @@ išdėstytos teismo išvados neatitinka bylos aplinkybių;
 4) netinkamai
 išspręsti kiti nuosprendžio klausimai.
  
-329
-straipsnis. Nuosprendžio panaikinimo ir naujo nuosprendžio priėmimo pagrindai
+329 straipsnis. Nuosprendžio panaikinimo
+ir naujo nuosprendžio priėmimo pagrindai
 Pirmosios
 instancijos teismo nuosprendis panaikinamas ir priimamas naujas nuosprendis,
 jeigu:
@@ -6379,12 +6647,12 @@ instancijos teismas priėmė apkaltinamąjį nuosprendį, o apeliacinės instanc
 teismas teismo posėdyje padarė išvadą, jog neįrodyta, kad kaltinamasis dalyvavo
 padarant nusikalstamą veiką, arba nepadaryta veika, turinti nusikaltimo ar
 baudžiamojo nusižengimo požymių;
-2) pirmosios
-instancijos teismas priėmė išteisinamąjį nuosprendį, o apeliacinės instancijos teismas teismo posėdyje padarė išvadą, jog
-reikia priimti apkaltinamąjį nuosprendį;
+2) pirmosios instancijos teismas priėmė
+išteisinamąjį nuosprendį, o apeliacinės instancijos teismas teismo posėdyje
+padarė išvadą, jog reikia priimti apkaltinamąjį nuosprendį;
 3) pirmosios
-instancijos teismas nuosprendžiu nutraukė baudžiamąją bylą, o apeliacinės
-instancijos teismas teismo posėdyje padarė išvadą, kad reikia priimti apkaltinamąjį arba išteisinamąjį nuosprendį;
+instancijos teismas nuosprendžiu nutraukė baudžiamąją bylą, o apeliacinės instancijos teismas teismo posėdyje padarė
+išvadą, kad reikia priimti apkaltinamąjį arba išteisinamąjį nuosprendį;
 4) pirmosios
 instancijos teismas padarė šio Kodekso 369 straipsnio 3 dalyje numatytą esminį
 šio Kodekso pažeidimą, kurį galima ištaisyti apeliacinės instancijos teismo
@@ -6393,9 +6661,8 @@ Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-330
-straipsnis. Nuosprendžio priėmimas kelių skirtingų apeliacinio teismo sprendimų
-atveju
+330 straipsnis. Nuosprendžio priėmimas
+kelių skirtingų apeliacinio teismo sprendimų atveju
 Jeigu byloje, kurioje buvo išnagrinėti su keliais
 nuteistaisiais susiję apeliaciniai skundai, dėl atskirų nuteistųjų yra
 pagrindas atmesti apeliacinį skundą, panaikinti nuosprendį ir nutraukti bylą,
@@ -6411,12 +6678,13 @@ nurodoma: pirmosios instancijos teismo pavadinimas, pirmosios instancijos
 teismo nuosprendžio priėmimo laikas ir rezoliucinės dalies turinys, pirmosios
 instancijos teismo nuosprendyje nurodytos apelianto ginčijamos bylos
 aplinkybės, apeliacinio skundo esmė.
-2. Apeliacinės instancijos teismas, panaikindamas pirmosios
-instancijos teismo nuosprendį ir priimdamas naują nuosprendį, nurodo
-apeliacinės instancijos teismo nustatytas bylos aplinkybes ir įrodymus, kurie
-yra pagrindas nuteistąjį pripažinti nekaltu ir jį išteisinti arba išteisintąjį pripažinti kaltu ir jį
-nuteisti, taip pat motyvus, kuriais vadovaudamasis atmeta arba kitaip įvertina
-apskųsto nuosprendžio įrodymus.
+2. Apeliacinės
+instancijos teismas, panaikindamas pirmosios instancijos teismo nuosprendį ir
+priimdamas naują nuosprendį, nurodo apeliacinės instancijos teismo nustatytas
+bylos aplinkybes ir įrodymus, kurie yra
+pagrindas nuteistąjį pripažinti nekaltu ir jį išteisinti arba išteisintąjį
+pripažinti kaltu ir jį nuteisti, taip pat motyvus, kuriais vadovaudamasis
+atmeta arba kitaip įvertina apskųsto nuosprendžio įrodymus.
 3. Jeigu pirmosios instancijos teismo nuosprendis
 panaikinamas ir byla nutraukiama, apeliacinės instancijos teismo nuosprendyje
 turi būti nurodomas bylos nutraukimo pagrindas.
@@ -6427,23 +6695,25 @@ taikymo ir bausmės skyrimo.
  
 332
 straipsnis. Apeliacinės instancijos teismo nutarties turinys
-1. Apeliacinės
-instancijos teismo nutartis, priimta išnagrinėjus bylą, susideda iš įžanginės,
-aprašomosios ir rezoliucinės dalių.
-2. Įžanginėje
-nutarties dalyje nurodoma: nutarties priėmimo laikas ir vieta; nutartį
-priėmusio teismo pavadinimas ir sudėtis; prokuroras ir kiti proceso dalyviai,
-dalyvavę nagrinėjant baudžiamąją bylą apeliacinės instancijos teismo posėdyje;
-apeliantas; apskųstą nuosprendį priėmusio teismo pavadinimas; pirmosios
-instancijos teismo nuosprendžio priėmimo laikas ir rezoliucinės dalies turinys.
-3. Aprašomojoje
-nutarties dalyje trumpai išdėstomos apskųstame nuosprendyje nurodytos apelianto
-ginčijamos bylos aplinkybės, nurodoma apeliacinio skundo esmė, nagrinėjant bylą
-apeliacine tvarka dalyvavusių proceso dalyvių prašymai, išdėstomos motyvuotos
-apeliacinės instancijos teismo išvados dėl apeliacinio skundo.
-4. Rezoliucinėje
-nutarties dalyje nurodomas apeliacinės instancijos teismo sprendimas dėl
-apeliacinio skundo.
+1.
+Apeliacinės instancijos teismo nutartis, priimta išnagrinėjus bylą, susideda iš
+įžanginės, aprašomosios ir rezoliucinės dalių.
+2.
+Įžanginėje nutarties dalyje nurodoma: nutarties priėmimo laikas ir vieta;
+nutartį priėmusio teismo pavadinimas ir sudėtis; prokuroras ir kiti proceso
+dalyviai, dalyvavę nagrinėjant baudžiamąją bylą apeliacinės instancijos teismo
+posėdyje; apeliantas; apskųstą nuosprendį priėmusio teismo pavadinimas;
+pirmosios instancijos teismo nuosprendžio priėmimo laikas ir rezoliucinės
+dalies turinys.
+3.
+Aprašomojoje nutarties dalyje trumpai išdėstomos apskųstame nuosprendyje
+nurodytos apelianto ginčijamos bylos aplinkybės, nurodoma apeliacinio skundo
+esmė, nagrinėjant bylą apeliacine tvarka dalyvavusių proceso dalyvių prašymai,
+išdėstomos motyvuotos apeliacinės instancijos teismo išvados dėl apeliacinio
+skundo.
+4.
+Rezoliucinėje nutarties dalyje nurodomas apeliacinės instancijos teismo
+sprendimas dėl apeliacinio skundo.
 5. Jeigu
 apeliacinis skundas atmetamas, nutartyje turi būti nurodyti motyvai,
 paaiškinantys, kodėl skundas atmetamas, o nuosprendis pripažįstamas teisingu.
@@ -6455,24 +6725,23 @@ apeliacinės instancijos teismas pakeičia pirmosios instancijos teismo
 nuosprendį, nutartyje turi būti nurodyti motyvai, kodėl nuosprendyje išdėstytos
 teismo išvados neatitinka bylos aplinkybių, arba kokie kiti nuosprendžio
 klausimai netinkamai išspręsti.
-8. Jeigu apeliacinės instancijos teismas panaikina
-pirmosios instancijos teismo nuosprendį ir perduoda bylą iš naujo nagrinėti
-teismui, nutartyje turi būti nurodyti motyvai, kodėl nuosprendis yra naikinamas,
-taip pat šio Kodekso 326 straipsnio 1 dalies 4 punkte numatytas pažeidimas,
-kurį turi ištaisyti pirmosios instancijos teismas.
-9. Jeigu apeliacinės instancijos
-teismas panaikina pirmosios instancijos teismo nuosprendį ir perduoda bylą
-prokurorui, nutartyje turi būti nurodyti
-motyvai, kodėl nuosprendis yra naikinamas, taip pat šio Kodekso 234 straipsnio
-2 dalyje numatytas pažeidimas, kurį turi pašalinti prokuroras.
- 
+8. Jeigu
+apeliacinės instancijos teismas panaikina pirmosios instancijos teismo
+nuosprendį ir perduoda bylą iš naujo nagrinėti teismui, nutartyje turi būti
+nurodyti motyvai, kodėl nuosprendis yra naikinamas, taip pat šio Kodekso 326
+straipsnio 1 dalies 4 punkte numatytas pažeidimas, kurį turi ištaisyti
+pirmosios instancijos teismas.
+9. Jeigu
+apeliacinės instancijos teismas panaikina pirmosios instancijos teismo
+nuosprendį ir perduoda bylą prokurorui, nutartyje turi būti nurodyti motyvai,
+kodėl nuosprendis yra naikinamas, taip pat šio Kodekso 234 straipsnio 2 dalyje
+numatytas pažeidimas, kurį turi pašalinti prokuroras.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-333
-straipsnis. Apeliacinės instancijos teismo nuosprendžio ar nutarties perdavimas
-vykdyti
+333 straipsnis. Apeliacinės instancijos
+teismo nuosprendžio ar nutarties perdavimas vykdyti
 1. Apeliacinės
 instancijos teismo nuosprendis ar nutartis kartu su baudžiamąja byla,
 apeliaciniu skundu, atsikirtimais ir papildomai pateikta medžiaga ne vėliau
@@ -6491,16 +6760,17 @@ apeliacinės instancijos teismo nuosprendžio įvykdymą.
 instancijos teismo nuosprendžio ar nutarties nuorašas turi būti patvirtintas
 vieno iš bylą nagrinėjusių teisėjų parašu ir teismo antspaudu.
  
-334
-straipsnis. Apeliacinės instancijos teismo nuosprendžio ar nutarties
-išsiuntimas Lietuvos Respublikos generalinei prokuratūrai
+334 straipsnis. Apeliacinės instancijos
+teismo nuosprendžio ar nutarties išsiuntimas Lietuvos Respublikos generalinei
+prokuratūrai
 Apeliacinės
 instancijos teismas savo nuosprendžio ar nutarties nuorašą išsiunčia Lietuvos
 Respublikos generalinei prokuratūrai, jeigu jis, panaikindamas ar pakeisdamas
 pirmosios instancijos teismo nuosprendį ar nutartį, konstatavo, kad
 ikiteisminio tyrimo metu buvo padaryta esminių šio Kodekso pažeidimų.
  
-VII dalis
+VII
+dalis
 Nuosprendžio ir nutarties vykdymas
  
 335
@@ -6541,8 +6811,8 @@ nuteistasis serga sunkia liga, kliudančia atlikti bausmę, – kol jis pasveiks
 2) kai
 nuteistoji pradedant vykdyti nuosprendį yra nėščia, – ne ilgiau kaip vieneriems
 metams;
-3) kai
-nuteistoji, kuriai tėvų valdžia neapribota, turi mažamečių vaikų, – iki
+3) kai nuteistoji,
+kuriai tėvų valdžia neapribota, turi mažamečių vaikų, – iki
 jauniausiajam iš jų sueis treji metai;
 4) kai
 nedelsiamas bausmės atlikimas nuteistajam ar jo šeimai gali lemti itin sunkias
@@ -6551,9 +6821,9 @@ ligos ar mirties arba kitokių nepaprastų aplinkybių, – teismo nustatomam, b
 ne ilgesniam kaip trijų mėnesių laikotarpiui.
 2. Nuosprendžio
 vykdymas negali būti atidėtas asmenims, nuteistiems už sunkius ir labai sunkius
-nusikaltimus, nurodytus Lietuvos Respublikos baudžiamojo kodekso 11 straipsnyje,
-taip pat asmenims, pagal Lietuvos Respublikos baudžiamojo kodekso 27 straipsnį
-pripažintiems pavojingais recidyvistais.
+nusikaltimus, nurodytus Lietuvos Respublikos baudžiamojo kodekso 11
+straipsnyje, taip pat asmenims, pagal Lietuvos Respublikos baudžiamojo kodekso
+27 straipsnį pripažintiems pavojingais recidyvistais.
 3. Nuosprendžio
 vykdymas atidedamas nuosprendžiui įsiteisėjus. Nuosprendžio vykdymo atidėjimo
 klausimą nuteistojo, jo gynėjo, šeimos narių arba artimųjų giminaičių prašymu
@@ -6582,9 +6852,8 @@ teismo posėdžių salėje šio Kodekso 309 straipsnio 1 dalyje numatytais atvej
 vykdyti teismo paskelbtą nuosprendį privaloma visoms valstybės institucijoms
 bei asmenims ir tai negali būti trukdoma.
  
-341
-straipsnis. Leidimas šeimos nariams ar artimiesiems giminaičiams pasimatyti su
-nuteistuoju
+341 straipsnis. Leidimas šeimos nariams
+ar artimiesiems giminaičiams pasimatyti su nuteistuoju
 Prieš
 pateikdamas nuosprendį vykdyti, teismas gali leisti suimto nuteistojo šeimos
 nariams ar artimiesiems giminaičiams jų prašymu pasimatyti su
@@ -6645,8 +6914,8 @@ nebuvo padaryta anksčiau, privalo juos atiduoti šeimos nariams, artimiesiems
 giminaičiams, kitiems asmenims ar įstaigoms globoti ar rūpintis ir apie tai
 turi pranešti nuteistajam.
  
-344 straipsnis.
-Nuteistojo asmens turto apsauga
+344
+straipsnis. Nuteistojo asmens turto apsauga
 Nuosprendį
 vykdyti pateikiantis teismas, jeigu tai nebuvo padaryta anksčiau, privalo imtis
 priemonių nuteistojo būstui ir kitokiam turtui išsaugoti. Dėl to teismas,
@@ -6654,23 +6923,22 @@ pateikdamas nuosprendį vykdyti, tuo pat metu siunčia atitinkamą rašytinį
 pavedimą turto buvimo vietos savivaldybės valdybai ir apie tai praneša
 nuteistajam.
  
-345
-straipsnis. Pirmosios instancijos teismo nutarties įsiteisėjimas ir jos
-vykdymas
+345 straipsnis. Pirmosios instancijos
+teismo nutarties įsiteisėjimas ir jos vykdymas
 1. Pirmosios
 instancijos teismo nutartis įsiteisėja ir vykdoma pasibaigus jos apskundimo
 terminui, jeigu ji nebuvo apskųsta. Jeigu dėl pirmosios instancijos teismo
 nutarties buvo paduotas skundas, bet nutartis nepanaikinama, ji įsiteisėja, kai
-apeliacinės instancijos arba kitoks teismas įstatymų nustatyta tvarka išnagrinėja
-skundą.
+apeliacinės instancijos arba kitoks teismas įstatymų nustatyta tvarka
+išnagrinėja skundą.
 2. Pirmosios
 instancijos teismo nutartis, kuri negali būti skundžiama, įsiteisėja ir vykdoma
 po jos paskelbimo.
 3. Nutartis
 pateikiama vykdyti šio Kodekso 342 straipsnyje nustatyta tvarka.
  
-346 straipsnis. Nuosprendžio ir
-nutarties privalomumas
+346
+straipsnis. Nuosprendžio ir nutarties privalomumas
 1. Įsiteisėję
 teismo nuosprendis ir nutartis yra privalomi visoms valstybės ir savivaldybių
 institucijoms ir pareigūnams, įmonėms, įstaigoms ir organizacijoms bei
@@ -6707,8 +6975,8 @@ Respublikos bausmių vykdymo kodeksu ir kitais bausmių, baudžiamojo poveikio
 priemonių ir auklėjamojo poveikio priemonių nepilnamečiams vykdymą
 reglamentuojančiais teisės aktais.
  
-349
-straipsnis. Nuosprendžio, kuriuo paskirtas viešųjų teisių atėmimas, vykdymas
+349 straipsnis. Nuosprendžio, kuriuo
+paskirtas viešųjų teisių atėmimas, vykdymas
 1. Nuosprendį paskelbęs teismas tuoj pat išaiškina
 nuteistajam viešųjų teisių atėmimo bausmės turinį ir terminą. Šis terminas
 skaičiuojamas nuo nuosprendžio paskelbimo dienos.
@@ -6716,9 +6984,8 @@ skaičiuojamas nuo nuosprendžio paskelbimo dienos.
 nuteistajam atėmimą po nuosprendžio įsiteisėjimo paskelbiama dienraštyje arba
 interneto tinklapyje.
  
-350
-straipsnis. Nuosprendžio, kuriuo atimta teisė dirbti tam tikrą darbą arba
-užsiimti tam tikra veikla, vykdymas
+350 straipsnis. Nuosprendžio, kuriuo
+atimta teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla, vykdymas
 Nuosprendį
 paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos teisės dirbti tam
 tikrą darbą arba užsiimti tam tikra veikla atėmimo bausmės atlikimo tvarką,
@@ -6726,17 +6993,16 @@ sąlygas bei jo teises ir pareigas.
  
 351
 straipsnis. Nuosprendžio, kuriuo paskirti viešieji darbai, vykdymas
-1. Nuosprendį
-paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos viešųjų darbų
-bausmės atlikimo tvarką, sąlygas bei jo teises ir pareigas.
-2. Teismas
-bausmę vykdančios įstaigos teikimu viešųjų darbų bausmę gali pakeisti kita
-bausme arba atleisti nuteistąjį nuo šios bausmės atlikimo ir jam paskirti
+1.
+Nuosprendį paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos viešųjų
+darbų bausmės atlikimo tvarką, sąlygas bei jo teises ir pareigas.
+2.
+Teismas bausmę vykdančios įstaigos teikimu viešųjų darbų bausmę gali pakeisti
+kita bausme arba atleisti nuteistąjį nuo šios bausmės atlikimo ir jam paskirti
 baudžiamojo poveikio priemonę Lietuvos Respublikos baudžiamojo kodekso 46
 straipsnyje numatytais atvejais.
-3. Viešųjų
-darbų bausmė pakeičiama šio Kodekso 362
-straipsnyje nustatyta tvarka.
+3.
+Viešųjų darbų bausmė pakeičiama šio Kodekso 362 straipsnyje nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
@@ -6751,27 +7017,24 @@ terminą, per kurį turi būti savanoriškai sumokėta bauda.
 nesumokama savanoriškai, ją priverstinai išieško antstolis pagal nuosprendį
 priėmusio teismo išduotą vykdomąjį raštą.
 3. Teismas
-baudą gali pakeisti kita bausme Lietuvos Respublikos baudžiamojo kodekso 47
-straipsnyje numatytais atvejais.
+baudą gali pakeisti kita bausme Lietuvos Respublikos baudžiamojo kodekso 47 straipsnyje numatytais atvejais.
 4. Bauda kita
-bausme pakeičiama šio Kodekso 362
-straipsnyje nustatyta tvarka.
+bausme pakeičiama šio Kodekso 362 straipsnyje nustatyta tvarka.
  
-353
-straipsnis. Nuosprendžio, kuriuo paskirtas laisvės apribojimas, vykdymas
+353 straipsnis. Nuosprendžio, kuriuo
+paskirtas laisvės apribojimas, vykdymas
 1. Nuosprendį
 paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos laisvės apribojimo
 bausmės atlikimo tvarką, sąlygas bei jo teises ir pareigas.
-2.
-Teismas laisvės apribojimo bausmę gali pakeisti kita bausme arba atleisti
-nuteistąjį nuo šios bausmės atlikimo ir jam paskirti baudžiamojo poveikio
-priemonę Lietuvos Respublikos baudžiamojo kodekso 48 straipsnyje numatytais
-atvejais.
+2. Teismas laisvės apribojimo bausmę gali
+pakeisti kita bausme arba atleisti nuteistąjį nuo šios bausmės atlikimo ir jam
+paskirti baudžiamojo poveikio priemonę Lietuvos Respublikos baudžiamojo kodekso
+48 straipsnyje numatytais atvejais.
 3. Laisvės
 apribojimo bausmė pakeičiama šio Kodekso 362 straipsnyje nustatyta tvarka.
 Straipsnio pakeitimai:
-Nr. IX-1496,
-2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
+Nr. IX-1496, 2003-04-10,
+Žin., 2003, Nr. 38-1734 (2003-04-24)
  
 354
 straipsnis. Nuosprendžio, kuriuo paskirtas areštas, vykdymas
@@ -6784,23 +7047,20 @@ straipsnyje numatytais atvejais.
 3. Arešto
 atlikimo tvarka pakeičiama šio Kodekso 362 straipsnyje nustatyta tvarka.
  
-355
-straipsnis. Nuosprendžio, kuriuo paskirtas terminuotas laisvės atėmimas,
-vykdymas
+355 straipsnis. Nuosprendžio, kuriuo
+paskirtas terminuotas laisvės atėmimas, vykdymas
 Nuosprendį
 paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos terminuoto laisvės
 atėmimo bausmės atlikimo tvarką, sąlygas bei jo teises ir pareigas.
  
-356
-straipsnis. Nuosprendžio, kuriuo paskirta laisvės atėmimo iki gyvos galvos
-bausmė, vykdymas
+356 straipsnis. Nuosprendžio, kuriuo
+paskirta laisvės atėmimo iki gyvos galvos bausmė, vykdymas
 Nuosprendį
 paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos laisvės atėmimo iki
 gyvos galvos bausmės atlikimo tvarką, sąlygas bei jo teises ir pareigas.
  
-357
-straipsnis. Nuosprendžio, kuriuo paskirta baudžiamojo poveikio priemonė,
-vykdymas
+357 straipsnis. Nuosprendžio, kuriuo
+paskirta baudžiamojo poveikio priemonė, vykdymas
 1. Jei nuosprendžiu paskirta baudžiamojo
 poveikio priemonė – turto konfiskavimas, nuosprendį paskelbęs teismas
 nuosprendžio nuorašą, konfiskuotino turto dokumentų nuorašus bei vykdomąjį
@@ -6811,21 +7071,19 @@ perdavęs konfiskuotą turtą teritorinei valstybinei mokesčių inspekcijai, ne
 vėliau kaip per tris dienas grąžina nuosprendį priėmusiam teismui vykdomąjį
 raštą su įrašu, kad turtas konfiskuotas.
 3.
-Nuteistiesiems, kuriems paskirta baudžiamojo
-poveikio priemonė – uždraudimas naudotis specialia teise arba turtinės žalos
-atlyginimas ar pašalinimas, arba nemokami darbai, arba įmoka į nukentėjusiųjų
-nuo nusikaltimų asmenų fondą, Lietuvos Respublikos baudžiamojo kodekso 74 straipsnyje numatytais atvejais teismas vieną
-baudžiamojo poveikio priemonę gali pakeisti kita šio Kodekso 362 straipsnyje
-nustatyta tvarka.
+Nuteistiesiems, kuriems paskirta baudžiamojo poveikio priemonė – uždraudimas
+naudotis specialia teise arba turtinės žalos atlyginimas ar pašalinimas, arba
+nemokami darbai, arba įmoka į nukentėjusiųjų nuo nusikaltimų asmenų fondą, Lietuvos Respublikos baudžiamojo
+kodekso 74 straipsnyje numatytais atvejais teismas vieną baudžiamojo poveikio
+priemonę gali pakeisti kita šio Kodekso 362 straipsnyje nustatyta tvarka.
  
-358
-straipsnis. Nuteisto asmens atleidimo nuo bausmės atlikimo arba bausmės vykdymo
-atidėjimo panaikinimo, arba bausmės vykdymo atidėjimo termino pratęsimo tvarka 
+358 straipsnis. Nuteisto asmens
+atleidimo nuo bausmės atlikimo arba bausmės vykdymo atidėjimo panaikinimo, arba
+bausmės vykdymo atidėjimo termino pratęsimo tvarka 
 1. Nuteistąjį,
 kuriam bausmės vykdymas atidėtas remiantis Lietuvos Respublikos baudžiamojo
-kodekso 75 straipsniu, nuo bausmės atleidžia arba jam bausmės vykdymo atidėjimo
-terminą pratęsia, arba bausmės vykdymo
-atidėjimą panaikina ir nuteistąjį pasiunčia atlikti paskirtą bausmę nuteistojo
+kodekso 75 straipsniu, nuo bausmės atleidžia arba jam bausmės vykdymo atidėjimo terminą pratęsia, arba bausmės vykdymo atidėjimą
+panaikina ir nuteistąjį pasiunčia atlikti paskirtą bausmę nuteistojo
 gyvenamosios vietos apylinkės teismas nuteistojo elgesį kontroliuojančios
 institucijos teikimu.
 2. Šio
@@ -6834,8 +7092,8 @@ straipsnio 1 dalyje nurodytus klausimus teismas nagrinėja teismo posėdyje.
 institucijos atstovas. Į teismo posėdį šaukiamas nuteistasis arba jo atstovas
 pagal įstatymą ir gynėjas, tačiau šių asmenų neatvykimas nesustabdo klausimo
 nagrinėjimo.
-3. Bylos nagrinėjimas pradedamas teisėjo pranešimu. Po to teismas išklauso
-atvykusius į posėdį asmenis.
+3. Bylos nagrinėjimas pradedamas teisėjo
+pranešimu. Po to teismas išklauso atvykusius į posėdį asmenis.
 4. Teismas
 nuteistąjį atleidžia nuo bausmės atlikimo arba bausmės vykdymo atidėjimo
 terminą pratęsia, arba panaikina bausmės vykdymo atidėjimą ir pasiunčia
@@ -6856,25 +7114,25 @@ susirgo psichine liga ir gali prireikti jam skirti priverčiamąsias medicinos
 priemones, teikimas nagrinėjamas šio Kodekso 402 ir 403 straipsniuose nustatyta
 tvarka.
  
-360
-straipsnis. Lygtinis atleidimas nuo laisvės atėmimo bausmės prieš terminą,
-neatliktos laisvės atėmimo bausmės dalies pakeitimas švelnesne bausme ir
-lygtinis paleidimas iš laisvės atėmimo vietos
+360 straipsnis. Lygtinis atleidimas nuo
+laisvės atėmimo bausmės prieš terminą, neatliktos laisvės atėmimo bausmės
+dalies pakeitimas švelnesne bausme ir lygtinis paleidimas iš laisvės atėmimo
+vietos
 1. Lietuvos Respublikos baudžiamojo kodekso 77 ir 94
 straipsniuose numatytais atvejais nuteistąjį lygtinai nuo laisvės atėmimo
 bausmės prieš terminą atleidžia ir neatliktą laisvės atėmimo bausmės dalį
 pakeičia švelnesne bausme teismas bausmę vykdančios institucijos teikimu.
 2. Lietuvos
-Respublikos bausmių vykdymo kodekse numatytais atvejais nuteistąjį laisvės atėmimo bausme lygtinai paleidžia iš
+Respublikos bausmių vykdymo kodekse
+numatytais atvejais nuteistąjį laisvės atėmimo bausme lygtinai paleidžia iš
 laisvės atėmimo vietos teismas bausmę vykdančios institucijos teikimu.
 3. Dėl lygtinio
-atleidimo nuo laisvės atėmimo bausmės prieš terminą, dėl neatliktos laisvės
-atėmimo bausmės dalies pakeitimo švelnesne bausme ir dėl lygtinio paleidimo iš laisvės atėmimo vietos teismas nusprendžia
-šio Kodekso 362 straipsnyje nustatyta tvarka.
+atleidimo nuo laisvės atėmimo bausmės prieš terminą, dėl neatliktos laisvės atėmimo bausmės dalies pakeitimo
+švelnesne bausme ir dėl lygtinio paleidimo iš laisvės atėmimo vietos teismas
+nusprendžia šio Kodekso 362 straipsnyje nustatyta tvarka.
  
-361
-straipsnis. Nuosprendžio vykdymo metu kylančių abejonių ir neaiškumų
-pašalinimas
+361 straipsnis. Nuosprendžio vykdymo
+metu kylančių abejonių ir neaiškumų pašalinimas
 1. Teismas
 nuosprendžio vykdymo metu turi teisę išspręsti dėl nuosprendžio kylančias
 abejones, jeigu jas išsprendus nepakeičiama nuosprendžio esmė.
@@ -6914,8 +7172,8 @@ kitokių neaiškumų.
 nuosprendį kylančias abejones ir neaiškumus teismas nagrinėja ir išsprendžia
 teismo posėdyje šio Kodekso 362 straipsnyje nustatyta tvarka.
  
-362
-straipsnis. Su nuosprendžio vykdymu susijusių klausimų išsprendimo tvarka
+362 straipsnis. Su nuosprendžio vykdymu
+susijusių klausimų išsprendimo tvarka
 1. Klausimus dėl nuteistojo atleidimo nuo bausmės
 atlikimo dėl ligos pagal šio Kodekso 359 straipsnį, dėl viešųjų darbų pakeitimo
 kita bausme ar, atleidus nuo viešųjų darbų bausmės, baudžiamojo poveikio
@@ -6926,39 +7184,38 @@ bausmės pagal šio Kodekso 353 straipsnį, dėl arešto atlikimo tvarkos pakeit
 pagal šio Kodekso 354 straipsnį, dėl vienos baudžiamojo poveikio priemonės
 pakeitimo kita baudžiamojo poveikio priemone pagal šio Kodekso 357 straipsnį
 nagrinėja ir nutartimi išsprendžia nuteistojo bausmės atlikimo vietos apylinkės
-teismas. Teismo posėdyje dalyvauja išvadą apie nuteistojo sveikatos būklę pateikusios
-gydytojų komisijos atstovas, bausmę vykdančios institucijos atstovas ir
-prokuroras. Į posėdį reikiamais atvejais teismas gali šaukti ir nuteistąjį,
-tačiau jo neatvykimas klausimo sprendimo nesustabdo.
+teismas. Teismo posėdyje dalyvauja išvadą apie nuteistojo sveikatos būklę
+pateikusios gydytojų komisijos atstovas, bausmę vykdančios institucijos
+atstovas ir prokuroras. Į posėdį reikiamais atvejais teismas gali šaukti ir
+nuteistąjį, tačiau jo neatvykimas klausimo sprendimo nesustabdo.
 2. Klausimus dėl
 baudos nuteistajam pakeitimo kita bausme pagal šio Kodekso 352 straipsnį
 nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas. Klausimus dėl
-nuteistojo lygtinio atleidimo nuo laisvės atėmimo bausmės prieš terminą bei
-neatliktos laisvės atėmimo bausmės dalies pakeitimo švelnesne bausme ir
-lygtinio paleidimo iš laisvės atėmimo vietos pagal šio Kodekso 360 straipsnį
-nagrinėja ir nutartimi išsprendžia bausmės atlikimo vietos apylinkės teismas.
-Teismo posėdyje dalyvauja bausmę vykdančios institucijos atstovas. Į posėdį
-teismas šaukia nuteistąjį, prokurorą ir gynėją, tačiau šių asmenų neatvykimas
-klausimo sprendimo nesustabdo.
+nuteistojo lygtinio atleidimo nuo laisvės atėmimo bausmės prieš terminą bei neatliktos
+laisvės atėmimo bausmės dalies pakeitimo švelnesne bausme ir lygtinio paleidimo
+iš laisvės atėmimo vietos pagal šio Kodekso 360 straipsnį nagrinėja ir
+nutartimi išsprendžia bausmės atlikimo vietos apylinkės teismas. Teismo
+posėdyje dalyvauja bausmę vykdančios institucijos atstovas. Į posėdį teismas
+šaukia nuteistąjį, prokurorą ir gynėją, tačiau šių asmenų neatvykimas klausimo
+sprendimo nesustabdo.
 3. Klausimus dėl nuosprendžio vykdymo metu kylančių
 abejonių ir neaiškumų pagal šio Kodekso 361 straipsnį, taip pat klausimus,
 numatytus Lietuvos Respublikos bausmių vykdymo kodekse, nagrinėja ir nutartimi
 išsprendžia nuosprendį priėmęs teismas. Į teismo posėdį reikiamais atvejais
 teismas šaukia prokurorą, gynėją ir kitus proceso dalyvius, tačiau šių asmenų
 neatvykimas klausimo sprendimo nesustabdo.
-4. Šiame straipsnyje numatytais atvejais klausimo nagrinėjimas
-pradedamas posėdžio pirmininko pranešimu. Po to teismas išklauso į posėdį
-atvykusius asmenis.
+4. Šiame
+straipsnyje numatytais atvejais klausimo nagrinėjimas pradedamas posėdžio
+pirmininko pranešimu. Po to teismas išklauso į posėdį atvykusius asmenis.
 5. Nutartį
 teismas priima pasitarimų kambaryje.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-362(1)
-straipsnis. Įstatymo, panaikinančio veikos nusikalstamumą, švelninančio bausmę
-arba kitokiu būdu lengvinančio veiką padariusio asmens teisinę padėtį, taikymo
-tvarka 
+362(1) straipsnis. Įstatymo,
+panaikinančio veikos nusikalstamumą, švelninančio bausmę arba kitokiu būdu
+lengvinančio veiką padariusio asmens teisinę padėtį, taikymo tvarka 
 1. Įstatymą,
 panaikinantį veikos nusikalstamumą, švelninantį bausmę arba kitokiu būdu
 lengvinantį veiką padariusio asmens teisinę padėtį, pagal nuteistojo, jo gynėjo
@@ -6983,25 +7240,26 @@ subendrintą bausmę.
 5. Teismas,
 nustatęs, kad prašymas ar teikimas nepagrįstas, priima nutartį prašymą ar
 teikimą atmesti.
-6. Teismo nutartį
-turi teisę apskųsti prokuroras, nuteistasis ir jo gynėjas. Nutartis skundžiama
-ir skundas nagrinėjamas šio Kodekso 364 straipsnyje nustatyta tvarka. Skundą
-išnagrinėjusio teismo nutartis yra neskundžiama.
-Įstatymas papildytas straipsniu:
+6. Teismo
+nutartį turi teisę apskųsti prokuroras, nuteistasis ir jo gynėjas. Nutartis
+skundžiama ir skundas nagrinėjamas šio Kodekso 364 straipsnyje nustatyta
+tvarka. Skundą išnagrinėjusio teismo nutartis yra neskundžiama.
+Kodeksas papildytas straipsniu:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-363
-straipsnis. Teistumo laiko sutrumpinimo arba teistumo panaikinimo tvarka
+363 straipsnis. Teistumo laiko
+sutrumpinimo arba teistumo panaikinimo tvarka
 1. Atlikusio
 bausmę asmens prašymą dėl teistumo laiko sutrumpinimo arba teistumo panaikinimo
 pagal Lietuvos Respublikos baudžiamojo kodekso 97 straipsnį nagrinėja apylinkės
 teismas pagal atlikusio bausmę asmens gyvenamąją vietą.
 2. Prašymą dėl
-teistumo laiko sutrumpinimo arba teistumo panaikinimo teismas nagrinėja teismo posėdyje,
-išreikalavęs nuosprendžio nuorašą arba teismo bylą, taip pat kitus reikiamus
-dokumentus, apibūdinančius atlikusį bausmę asmenį, jo darbinę veiklą ir elgesį.
-Teismo posėdyje turi dalyvauti pateikęs prašymą atlikęs bausmę asmuo.
+teistumo laiko sutrumpinimo arba teistumo panaikinimo teismas nagrinėja teismo
+posėdyje, išreikalavęs nuosprendžio nuorašą arba teismo bylą, taip pat kitus
+reikiamus dokumentus, apibūdinančius atlikusį bausmę asmenį, jo darbinę veiklą
+ir elgesį. Teismo posėdyje turi dalyvauti pateikęs prašymą atlikęs bausmę
+asmuo.
 3. Teistumo laiko sutrumpinimo arba teistumo
 panaikinimo klausimo nagrinėjimas pradedamas posėdžio pirmininko pranešimu. Po
 to teismas išnagrinėja turimus dokumentus, išklauso bausmę atlikusį asmenį.
@@ -7013,9 +7271,8 @@ priima nutartį atmesti prašymą dėl teistumo laiko sutrumpinimo arba teistumo
 panaikinimo, pakartotinai šiuos klausimus teismas gali nagrinėti ne anksčiau
 kaip po vienerių metų nuo prašymo atmetimo.
  
-364
-straipsnis. Su nuosprendžio vykdymu susijusių nutarčių apskundimas ir skundų
-nagrinėjimas
+364 straipsnis. Su nuosprendžio vykdymu
+susijusių nutarčių apskundimas ir skundų nagrinėjimas
 1. Skundą dėl
 apylinkės teismo nutarties, susijusios su nuosprendžio vykdymu, nagrinėja
 apygardos teismas, dėl apygardos teismo nutarties – Lietuvos apeliacinis
@@ -7038,8 +7295,8 @@ nuteistąjį nuo bausmės atlikimo dėl ligos, lygtinai atleisti nuo laisvės
 atėmimo bausmės prieš terminą ir pakeisti neatliktą laisvės atėmimo bausmės
 dalį švelnesne bausme vykdymą.
 5. Skundas turi
-būti išnagrinėtas apygardos teismo ar Lietuvos apeliacinio teismo Baudžiamųjų
-bylų skyriaus trijų teisėjų kolegijos
+būti išnagrinėtas apygardos teismo ar
+Lietuvos apeliacinio teismo Baudžiamųjų bylų skyriaus trijų teisėjų kolegijos
 posėdyje per septynias dienas nuo skundo gavimo apygardos teisme ar Lietuvos
 apeliaciniame teisme dienos.
 6. Nagrinėjant
@@ -7064,12 +7321,11 @@ teismo nutartį.
 teismo ir Lietuvos apeliacinio teismo teisėjų kolegijos nutartis įsigalioja nuo
 jos priėmimo dienos ir yra neskundžiama.
  
-365
-straipsnis. Užsienio valstybių teismų nuosprendžių ir Tarptautinio baudžiamojo
-teismo sprendimų vykdymas
+365 straipsnis. Užsienio valstybių
+teismų nuosprendžių ir Tarptautinio baudžiamojo teismo sprendimų vykdymas
 1. Užsienio
-valstybių teismų nuosprendžiai ir Tarptautinio baudžiamojo teismo sprendimai Lietuvos
-Respublikoje vykdomi pagal šio Kodekso VII dalies taisykles.
+valstybių teismų nuosprendžiai ir Tarptautinio baudžiamojo teismo sprendimai
+Lietuvos Respublikoje vykdomi pagal šio Kodekso VII dalies taisykles.
 2. Lietuvos
 Respublikos tarptautinėje sutartyje numatytais atvejais užsienio valstybės
 teismo nuosprendžiu paskirtą bausmę suderina su Lietuvos Respublikos
@@ -7077,11 +7333,11 @@ baudžiamųjų ir bausmių vykdymo įstatymų reikalavimais bausmės atlikimo vi
 apylinkės teismas bausmę vykdančios institucijos teikimu šio Kodekso 362
 straipsnyje nustatyta tvarka.
  
-VIII dalis
+VIII
+dalis
 Bylų procesas kasacinės instancijos teisme
  
-XXVI
-skyrius
+XXVI skyrius
 Įsiteisėjusio nuosprendžio ar nutarties apskundimas ir kasacinės
 bylos parengimas
  
@@ -7103,10 +7359,10 @@ numatytais pagrindais turi teisę prokuroras, nukentėjusysis, jo atstovas,
 nuteistasis, jo gynėjas ir atstovas pagal įstatymą, išteisintasis, jo gynėjas
 ir atstovas pagal įstatymą.
 2. Nuteistojo
-ar išteisintojo gynėjas turi teisę paduoti kasacinį skundą tik tuo atveju, kai
-tai neprieštarauja raštu pareikštai nuteistojo ar išteisintojo valiai. Asmens, kuris dėl fizinių ar psichinių trūkumų negali pats
-pasinaudoti teise į gynybą, ir nepilnamečio nuteistojo ar išteisintojo gynėjai
-gali paduoti kasacinį skundą nepaisydami nuteistojo ar išteisintojo valios.
+ar išteisintojo gynėjas turi teisę paduoti kasacinį skundą tik tuo atveju, kai tai neprieštarauja raštu pareikštai nuteistojo
+ar išteisintojo valiai. Asmens, kuris dėl fizinių ar psichinių trūkumų negali
+pats pasinaudoti teise į gynybą, ir nepilnamečio nuteistojo ar išteisintojo
+gynėjai gali paduoti kasacinį skundą nepaisydami nuteistojo ar išteisintojo valios.
 3. Kasacine
 tvarka neskundžiami ir nenagrinėjami nagrinėjant bylą privataus kaltinimo
 tvarka priimti nuosprendžiai ar nutartys.
@@ -7154,7 +7410,8 @@ esminių šio Kodekso pažeidimų.
 pritaikytas baudžiamasis įstatymas yra tada, kai netinkamai pritaikytos
 Lietuvos Respublikos baudžiamojo kodekso bendrosios dalies normos, taip pat kai
 nusikalstamos veikos kvalifikuojamos ne pagal tuos Lietuvos Respublikos
-baudžiamojo kodekso straipsnius, dalis ir punktus, pagal kuriuos tai reikėjo daryti.
+baudžiamojo kodekso straipsnius, dalis ir punktus, pagal kuriuos tai reikėjo
+daryti.
 3. Esminiais šio
 Kodekso pažeidimais laikomi tokie šio Kodekso reikalavimų pažeidimai, dėl kurių
 buvo suvaržytos įstatymų garantuotos kaltinamojo teisės ar kurie
@@ -7180,9 +7437,9 @@ Dėl pirmosios
 instancijos ir apeliacinės instancijos teismų įsiteisėjusių nuosprendžių ir
 nutarčių kasaciniai skundai paduodami Lietuvos Aukščiausiajam Teismui.
  
-372
-straipsnis. Lietuvos Aukščiausiojo Teismo pirmininko ar Baudžiamųjų bylų
-skyriaus pirmininko sprendimai dėl gauto kasacinio skundo
+372 straipsnis. Lietuvos Aukščiausiojo
+Teismo pirmininko ar Baudžiamųjų bylų skyriaus pirmininko sprendimai dėl gauto
+kasacinio skundo
 1. Gavęs
 kasacinį skundą, Lietuvos Aukščiausiojo Teismo pirmininkas ar Baudžiamųjų bylų
 skyriaus pirmininkas patikrina, ar skundas atitinka šio Kodekso reikalavimus.
@@ -7210,31 +7467,30 @@ pirmininkas ar Baudžiamųjų bylų skyriaus pirmininkas sudaro Baudžiamųjų b
 skyriaus trijų teisėjų kolegiją, vieną iš teisėjų patvirtina kolegijos
 pirmininku ir paskiria teismo posėdžio datą. Kolegijos teisėjai susipažįsta su
 kasaciniu skundu ir byla. Pranešėjas nurodo šaukti į teismą šio Kodekso 375
-straipsnyje išvardytus asmenis. Jeigu kasacinis skundas paduotas remiantis nuteistojo
-ar išteisintojo padėtį bloginančiais pagrindais, nuteistajam ar išteisintajam
-nusiunčiamas kasacinio skundo nuorašas.
+straipsnyje išvardytus asmenis. Jeigu kasacinis skundas paduotas remiantis
+nuteistojo ar išteisintojo padėtį bloginančiais pagrindais, nuteistajam ar
+išteisintajam nusiunčiamas kasacinio skundo nuorašas.
 4. Šio Kodekso 378 straipsnio 4 dalyje numatytu atveju
-Lietuvos Aukščiausiojo Teismo pirmininkas ar Baudžiamųjų bylų skyriaus pirmininkas,
-kai kasacinė byla pranešėjo parengta posėdžiui, gali nuspręsti perduoti ją
-nagrinėti išplėstinei septynių teisėjų kolegijai ar Lietuvos Aukščiausiojo
-Teismo Baudžiamųjų bylų skyriaus plenarinei sesijai.
+Lietuvos Aukščiausiojo Teismo pirmininkas ar Baudžiamųjų bylų skyriaus
+pirmininkas, kai kasacinė byla pranešėjo parengta posėdžiui, gali nuspręsti
+perduoti ją nagrinėti išplėstinei septynių teisėjų kolegijai ar Lietuvos
+Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus plenarinei sesijai.
  
 374
 straipsnis. Teismo nuosprendžio ir nutarties vykdymo sustabdymas
 Kai dėl gauto
 kasacinio skundo šio Kodekso 372 straipsnyje nustatyta tvarka priimama nutartis
-nagrinėti skundą Baudžiamųjų bylų skyriuje, Lietuvos Aukščiausiojo Teismo
-pirmininkas, Baudžiamųjų bylų skyriaus pirmininkas ar teisėjų kolegija, kuriai
-pavesta nagrinėti kasacinę bylą, taip pat šios kolegijos teisėjas nutartimi
-gali sustabdyti bet kurio Lietuvos Respublikos teismo nuosprendžio ir nutarties
+nagrinėti skundą Baudžiamųjų bylų skyriuje, Lietuvos Aukščiausiojo Teismo pirmininkas,
+Baudžiamųjų bylų skyriaus pirmininkas ar teisėjų kolegija, kuriai pavesta
+nagrinėti kasacinę bylą, taip pat šios kolegijos teisėjas nutartimi gali
+sustabdyti bet kurio Lietuvos Respublikos teismo nuosprendžio ir nutarties
 vykdymą, kol byla bus išspręsta kasacinės instancijos teismo posėdyje.
  
-XXVII
-skyrius
+XXVII skyrius
 Kasacinės bylos nagrinėjimas
  
-375
-straipsnis. Asmenys, dalyvaujantys teismo posėdyje nagrinėjant kasacinę bylą
+375 straipsnis. Asmenys, dalyvaujantys
+teismo posėdyje nagrinėjant kasacinę bylą
 1. Nagrinėjant
 kasacinę bylą, teismo posėdyje dalyvauja prokuroras. Posėdyje taip pat
 dalyvauja gynėjas, kurį pasikvietė nuteistasis ar išteisintasis, arba kiti
@@ -7263,8 +7519,8 @@ Nr. IX-1496,
 376
 straipsnis. Teismo įgaliojimų nagrinėjant kasacinę bylą ribos
 1. Nagrinėdamas
-kasacinę bylą, teismas teisės taikymo aspektu patikrina priimtus nuosprendžius
-ir nutartis, dėl kurių paduotas skundas.
+kasacinę bylą, teismas teisės taikymo aspektu patikrina priimtus nuosprendžius ir nutartis, dėl kurių paduotas
+skundas.
 2. Jeigu byloje nuteisti keli asmenys, teismas
 išnagrinėja bylą dėl to nuteistojo, su kuriuo susijęs paduotas skundas. Tačiau
 jeigu netinkamas baudžiamojo įstatymo pritaikymas ir esminiai šio Kodekso
@@ -7280,8 +7536,7 @@ Sugriežtinti bausmę teismas gali tuo atveju, kai dėl to paduotas skundas,
 tačiau jis neturi teisės sugriežtinti bausmę paskirdamas laisvės atėmimą iki
 gyvos galvos.
 4.
-Pritaikydamas kitą baudžiamąjį įstatymą arba paskirdamas naują bausmę, teismas
-remiasi pirmosios instancijos ir apeliacinės
+Pritaikydamas kitą baudžiamąjį įstatymą arba paskirdamas naują bausmę, teismas remiasi pirmosios instancijos ir apeliacinės
 instancijos teismų posėdžiuose išnagrinėtais įrodymais.
  
 377
@@ -7296,12 +7551,12 @@ Kodekso 9 straipsnyje nurodytus atvejus.
 bylai nagrinėti laiku kolegijos pirmininkas pradeda teismo posėdį ir paskelbia,
 kokia byla, dėl kieno kasacinio skundo ir dėl kokio teismo nuosprendžio ar
 nutarties nagrinėjama. Po to kolegijos pirmininkas patikrina, kas atvyko į
-posėdį, ar apie bylos nagrinėjimo laiką buvo pranešta šio Kodekso 375
-straipsnyje nurodytiems asmenims. Paskui kolegijos pirmininkas paskelbia bylą
-nagrinėjančių teisėjų ir dalyvaujančių posėdyje prokurorų, gynėjų, atstovų,
-vertėjų bei posėdžio sekretoriaus vardus ir pavardes ir paklausia į posėdį
-atvykusius asmenis, ar šie turi pareiškimų dėl nušalinimo. Tokius pareiškimus
-teismas išnagrinėja šio Kodekso 57–59 ir 61 straipsniuose nustatyta tvarka.
+posėdį, ar apie bylos nagrinėjimo laiką buvo pranešta šio Kodekso 375 straipsnyje
+nurodytiems asmenims. Paskui kolegijos pirmininkas paskelbia bylą nagrinėjančių
+teisėjų ir dalyvaujančių posėdyje prokurorų, gynėjų, atstovų, vertėjų bei
+posėdžio sekretoriaus vardus ir pavardes ir paklausia į posėdį atvykusius
+asmenis, ar šie turi pareiškimų dėl nušalinimo. Tokius pareiškimus teismas
+išnagrinėja šio Kodekso 57–59 ir 61 straipsniuose nustatyta tvarka.
 4. Posėdžio
 pradžioje kolegija savo iniciatyva ar proceso dalyvių prašymu gali apsvarstyti,
 ar kasacinis skundas atitinka šio Kodekso reikalavimus ir ar yra šio Kodekso
@@ -7328,20 +7583,20 @@ duoda nuteistasis ar išteisintasis arba jų gynėjas.
 9. Išnagrinėjęs
 bylą, teismas išeina į pasitarimų kambarį priimti nutarties. Priėmęs nutartį,
 teismas grįžta į posėdžių salę ir kolegijos pirmininkas ar kitas teisėjas
-paskelbia rezoliucinę nutarties dalį ir išdėsto jos priėmimo argumentus. Visa
-motyvuota nutartis surašoma ir ją pasirašo
-visa teisėjų kolegija ne vėliau kaip per septynias dienas, o teismo pirmininko
-ar Baudžiamųjų bylų skyriaus pirmininko sutikimu – per keturiolika dienų nuo
-nutarties priėmimo.
+paskelbia rezoliucinę nutarties dalį ir
+išdėsto jos priėmimo argumentus. Visa motyvuota nutartis surašoma ir ją
+pasirašo visa teisėjų kolegija ne vėliau kaip per septynias dienas, o teismo
+pirmininko ar Baudžiamųjų bylų skyriaus pirmininko sutikimu – per keturiolika
+dienų nuo nutarties priėmimo.
 10. Jeigu išnagrinėjus bylą kasacine tvarka
 nuteistasis turi būti iš suėmimo paleistas, nutartis turi būti galutinai
 surašyta ir perduota vykdyti jos priėmimo dieną.
 11. Teismo
 posėdyje rašomas protokolas.
  
-378
-straipsnis. Bylos perdavimas nagrinėti išplėstinei septynių teisėjų kolegijai
-arba Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus plenarinei sesijai
+378 straipsnis. Bylos perdavimas
+nagrinėti išplėstinei septynių teisėjų kolegijai arba Lietuvos Aukščiausiojo
+Teismo Baudžiamųjų bylų skyriaus plenarinei sesijai
 1. Trijų teisėjų
 kolegijos nagrinėjama kasacinė byla gali būti perduota nagrinėti išplėstinei
 septynių teisėjų kolegijai, jeigu tinkamas baudžiamojo ar baudžiamojo proceso
@@ -7365,8 +7620,8 @@ tvarka pranešėju paskirtas teisėjas, susipažinęs su kasaciniu skundu ir byl
 medžiaga, numato, kad nagrinėjant kasacinę bylą gali būti priimti šio
 straipsnio 1 ir 2 dalyse numatyti sprendimai.
  
-379
-straipsnis. Bylos nagrinėjimas išplėstinės septynių teisėjų kolegijos posėdyje
+379 straipsnis. Bylos nagrinėjimas
+išplėstinės septynių teisėjų kolegijos posėdyje
 1. Byla
 parengiama nagrinėti išplėstinės septynių teisėjų kolegijos posėdyje laikantis
 šio Kodekso 373 straipsnyje numatytų taisyklių ir nuostatos, kad išplėstinėje
@@ -7380,9 +7635,8 @@ septynių teisėjų kolegijos posėdyje, remiantis šio Kodekso 378 straipsnio 2
 dalyje numatytu pagrindu, byla gali būti perduota nagrinėti Lietuvos
 Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus plenarinei sesijai.
  
-380
-straipsnis. Bylos nagrinėjimas Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų
-skyriaus plenarinėje sesijoje
+380 straipsnis. Bylos nagrinėjimas
+Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus plenarinėje sesijoje
 1. Byla Lietuvos
 Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus plenarinėje sesijoje
 nagrinėjama vadovaujantis šio Kodekso 377 straipsnio reikalavimais su šiame
@@ -7406,28 +7660,17 @@ Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-381 straipsnio redakcija iki Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
-381
-straipsnis. Kasacinės bylos nagrinėjimo atidėjimas
-Jeigu proceso
-dalyvis, kurio dalyvavimą teismo posėdyje teismas pripažįsta būtinu, dėl ligos
-ar dėl kitos svarbios priežasties neatvyko į teismo posėdį, kasacinės bylos nagrinėjimas atidedamas. Kasacinės
-bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos
-Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas
-teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai.
-381 straipsnio redakcija nuo Lietuvos Respublikos
-įstojimo į Europos Sąjungą dienos:
-381
-straipsnis. Kasacinės bylos nagrinėjimo atidėjimas
+381 straipsnis. Kasacinės bylos
+nagrinėjimo atidėjimas
 Jeigu proceso dalyvis,
 kurio dalyvavimą teismo posėdyje teismas pripažįsta būtinu, dėl ligos ar dėl
-kitos svarbios priežasties neatvyko į teismo
-posėdį, kasacinės bylos nagrinėjimas atidedamas. Kasacinės bylos nagrinėjimas
-taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį
-Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai,
-arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją
-preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo
-klausimu.
+kitos svarbios priežasties neatvyko į teismo posėdį, kasacinės bylos
+nagrinėjimas atidedamas. Kasacinės bylos
+nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos
+Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas
+neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos
+Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės
+aktų aiškinimo ar galiojimo klausimu.
 Straipsnio
 pakeitimai:
 Nr. IX-1490,
@@ -7437,8 +7680,8 @@ Nr. IX-1490,
 straipsnis. Teismo, išnagrinėjusio kasacinę bylą, nutartys
 Teismas,
 išnagrinėjęs kasacinę bylą, priima vieną iš šių nutarčių:
-1) atmesti kasacinį
-skundą;
+1) atmesti
+kasacinį skundą;
 2) panaikinti
 nuosprendį bei paskesnes teismų nutartis ir bylą nutraukti;
 3) panaikinti
@@ -7454,9 +7697,8 @@ nagrinėti apeliacine tvarka;
 6) pakeisti
 teismo nuosprendį ar nutartį.
  
-383
-straipsnis. Nuosprendžio ar nutarties panaikinimo ir pakeitimo kasacinės
-instancijos teisme pagrindai
+383 straipsnis. Nuosprendžio ar
+nutarties panaikinimo ir pakeitimo kasacinės instancijos teisme pagrindai
 Kasacinės
 instancijos teismas panaikina ir pakeičia nuosprendį ar nutartį vadovaudamasis
 šio Kodekso 369 straipsnyje nustatytais pagrindais.
@@ -7470,9 +7712,9 @@ dalių.
 dalyje nurodoma: nutarties priėmimo data ir vieta; nutartį priėmusio teismo
 pavadinimas ir sudėtis; prokuroras, gynėjas ir kiti nagrinėjant baudžiamąją
 bylą kasacinės instancijos teismo posėdyje dalyvavę proceso dalyviai;
-kasatorius; apskųstą nuosprendį ar nutartį priėmusio teismo pavadinimas, nuosprendžio
-ar nutarties priėmimo data ir rezoliucinės dalies turinys; kasacinėje byloje
-dalyvavusių proceso dalyvių prašymai.
+kasatorius; apskųstą nuosprendį ar nutartį priėmusio teismo pavadinimas,
+nuosprendžio ar nutarties priėmimo data ir rezoliucinės dalies turinys; kasacinėje
+byloje dalyvavusių proceso dalyvių prašymai.
 3. Aprašomojoje
 dalyje trumpai išdėstomos apskųstame nuosprendyje ar nutartyje nurodytos bylos
 aplinkybės, susijusios su kasaciniu skundu, pateikiama kasacinio skundo esmė,
@@ -7503,25 +7745,24 @@ Kodekso 380 straipsnio 5 dalyje numatytą atvejį.
 kitos nuomonės, turi teisę ją išdėstyti raštu. Atskiroji nuomonė neskelbiama,
 bet pridedama prie bylos.
  
-385
-straipsnis. Kasacinės instancijos teismo nutarties nuorašo išsiuntimas Lietuvos
-Respublikos generalinei prokuratūrai
+385 straipsnis. Kasacinės instancijos
+teismo nutarties nuorašo išsiuntimas Lietuvos Respublikos generalinei
+prokuratūrai
 Kasacinės
 instancijos teismas savo nutarties nuorašą išsiunčia Lietuvos Respublikos
 generalinei prokuratūrai, jeigu jis, panaikindamas ar pakeisdamas teismo
 nuosprendį ar nutartį, nustatė ikiteisminio tyrimo pareigūno ar prokuroro
 padarytus įstatymų pažeidimus.
  
-386
-straipsnis. Bylos nagrinėjimas, kai panaikintas pirmosios instancijos teismo
-nuosprendis arba apeliacinės instancijos teismo nuosprendis ar nutartis
+386 straipsnis. Bylos nagrinėjimas, kai
+panaikintas pirmosios instancijos teismo nuosprendis arba
+apeliacinės instancijos teismo nuosprendis ar nutartis
 1. Jei
-kasacinės instancijos teismas panaikino pirmosios instancijos teismo nuosprendį
-arba apeliacinės instancijos teismo nuosprendį ar nutartį, byla turi būti
-nagrinėjama bendra tvarka.
+kasacinės instancijos teismas panaikino pirmosios instancijos teismo nuosprendį arba apeliacinės instancijos teismo
+nuosprendį ar nutartį, byla turi būti nagrinėjama bendra tvarka.
 2. Kasacinės
-instancijos teismo nurodymai yra privalomi
-teisme iš naujo nagrinėjant bylą. Tačiau kasacinės instancijos teismas neturi
+instancijos teismo nurodymai yra privalomi teisme iš naujo nagrinėjant bylą.
+Tačiau kasacinės instancijos teismas neturi
 teisės iš anksto nustatyti išvadų, kurias gali padaryti teismas iš naujo
 nagrinėdamas bylą.
 3. Iš naujo
@@ -7533,19 +7774,20 @@ numatantį įstatymą, taip pat kai po nuosprendžio panaikinimo iš naujo
 nagrinėdamas bylą teismas nustato aplinkybes, rodančias, kad kaltinamasis yra
 padaręs sunkesnę nusikalstamą veiką.
 4. Iš naujo
-išnagrinėjus bylą, pirmosios instancijos teismo priimtas nuosprendis ar apeliacinės
-instancijos teismo nuosprendis ir nutartis gali būti skundžiami bendra tvarka.
+išnagrinėjus bylą, pirmosios instancijos teismo priimtas nuosprendis ar
+apeliacinės instancijos teismo nuosprendis ir nutartis gali būti skundžiami bendra
+tvarka.
  
-IX dalis
+IX
+dalis
 Baudžiamojo proceso ypatumai tiriant ir nagrinėjant atskirų
 kategorijų bylas
  
-XXVIII
-skyrius
+XXVIII skyrius
 Bylų dėl juridinių asmenų padarytų nusikalstamų veikų procesas
  
-387 straipsnis.
-Proceso tvarka
+387
+straipsnis. Proceso tvarka
 1. Bylų dėl
 juridinių asmenų padarytų nusikalstamų veikų proceso tvarką nustato šio Kodekso
 bendrosios taisyklės su šio skyriaus straipsniuose numatytomis išimtimis.
@@ -7554,11 +7796,11 @@ procesas dėl nusikalstamų veikų buvo pradėtas atskirai juridiniam asmeniui i
 fiziniam asmeniui, tokios veikos turi būti tiriamos kartu. Šiais atvejais
 proceso veiksmai atliekami ir sprendimai dėl juridinio asmens priimami
 vadovaujantis šio Kodekso bendrosiomis taisyklėmis ir išimtimis, kurias nustato
-šio skyriaus straipsniai, o dėl fizinio asmens – vadovaujantis šio Kodekso
-bendrosiomis taisyklėmis.
+šio skyriaus straipsniai, o dėl fizinio asmens – vadovaujantis šio Kodekso bendrosiomis
+taisyklėmis.
  
-388 straipsnis.
-Trauktino baudžiamojon atsakomybėn juridinio asmens atstovas
+388
+straipsnis. Trauktino baudžiamojon atsakomybėn juridinio asmens atstovas
 1. Trauktino
 baudžiamojon atsakomybėn juridinio asmens atstovu gali būti juridinio asmens
 vadovas ar darbuotojas arba advokatas, juridinio asmens įgaliotas būti atstovu
@@ -7575,9 +7817,8 @@ asmens atstovas procese naudojasi visomis teisėmis, kurias šis Kodeksas
 suteikia įtariamajam ir kaltinamajam, taip pat atlieka šių proceso dalyvių
 pareigas.
  
-389
-straipsnis. Laikinos procesinės prievartos priemonės, taikomos juridiniam
-asmeniui
+389 straipsnis. Laikinos procesinės
+prievartos priemonės, taikomos juridiniam asmeniui
 1. Juridiniam
 asmeniui gali būti paskirtos šios procesinės prievartos priemonės: laikinas
 juridinio asmens veiklos sustabdymas ir laikinas juridinio asmens
@@ -7586,66 +7827,62 @@ veiklos apribojimas.
 asmens veiklą laikinai sustabdo ar laikinai apriboja prokuroro prašymu
 ikiteisminio tyrimo teisėjas ar teismas nutartimi.
 3. Laikinas
-juridinio asmens veiklos sustabdymas ar
-laikinas juridinio asmens veiklos apribojimas skiriamas tuo atveju, jeigu
+juridinio asmens veiklos sustabdymas ar laikinas juridinio asmens veiklos
+apribojimas skiriamas tuo atveju, jeigu
 trauktino baudžiamojon atsakomybėn juridinio asmens veikla gali sukliudyti
 netrukdomą baudžiamosios bylos procesą, taip pat gali pažeisti ūkininkavimo
-tvarką, padaryti žalos finansams, gamtai,
-visuomenės saugumui bei intelektinei nuosavybei.
-4. Nutartyje
-laikinai sustabdyti juridinio asmens veiklą juridinis asmuo įpareigojamas
-laikinai nutraukti visą steigimo dokumentuose numatytą ūkinę, komercinę,
-finansinę ar profesinę veiklą ir uždaryti
-visus padalinius. Nutartyje nurodomas laikino juridinio asmens veiklos
-sustabdymo terminas. Prokuroro prašymu ikiteisminio tyrimo teisėjo ar teismo
-nutartimi šis terminas gali būti pratęstas.
+tvarką, padaryti žalos finansams, gamtai, visuomenės saugumui bei intelektinei
+nuosavybei.
+4. Nutartyje laikinai sustabdyti juridinio asmens
+veiklą juridinis asmuo įpareigojamas laikinai nutraukti visą steigimo
+dokumentuose numatytą ūkinę, komercinę, finansinę ar profesinę veiklą ir
+uždaryti visus padalinius. Nutartyje nurodomas laikino juridinio asmens veiklos sustabdymo terminas. Prokuroro
+prašymu ikiteisminio tyrimo teisėjo ar teismo nutartimi šis terminas gali būti
+pratęstas.
 5. Nutartyje
-laikinai apriboti juridinio asmens veiklą
-uždraudžiama juridiniam asmeniui užsiimti tam tikra steigimo dokumentuose
+laikinai apriboti juridinio asmens veiklą uždraudžiama juridiniam asmeniui
+užsiimti tam tikra steigimo dokumentuose
 numatyta veikla ir įpareigojama uždaryti tam tikrą juridinio asmens padalinį.
 Nutartyje nurodomas laikino juridinio asmens veiklos apribojimo terminas.
 6. Nutartis,
-kuria laikinai sustabdoma juridinio asmens
-veikla ar laikinai apribojama juridinio asmens veikla, siunčiama antstoliui
-vykdyti.
+kuria laikinai sustabdoma juridinio asmens veikla ar laikinai apribojama
+juridinio asmens veikla, siunčiama
+antstoliui vykdyti.
 7. Nutartis juridinio asmens atstovui paskelbiama
 pasirašytinai.
 8. Juridinio
-asmens atstovas ikiteisminio tyrimo teisėjo ar teismo nutartis laikinai sustabdyti juridinio asmens veiklą
-ar laikinai apriboti juridinio asmens veiklą gali apskųsti aukštesniajam
+asmens atstovas ikiteisminio tyrimo teisėjo ar teismo nutartis laikinai
+sustabdyti juridinio asmens veiklą ar laikinai apriboti juridinio asmens veiklą gali apskųsti aukštesniajam
 teismui per penkias dienas nuo paskelbimo apie nutarties priėmimą dienos.
 9. Ikiteisminio
-tyrimo teisėjo ar teismo nutartį neskirti laikino
-juridinio asmens veiklos sustabdymo ar laikino juridinio asmens veiklos
+tyrimo teisėjo ar teismo nutartį neskirti laikino juridinio asmens veiklos
+sustabdymo ar laikino juridinio asmens veiklos
 apribojimo gali apskųsti prokuroras šio straipsnio 8 dalyje nustatytais
 terminais ir tvarka.
  
-390
-straipsnis. Nuosprendžio priėmimas byloje, kurioje teisiami juridinis asmuo ir
-fizinis asmuo
+390 straipsnis. Nuosprendžio priėmimas
+byloje, kurioje teisiami juridinis asmuo ir fizinis asmuo
 1. Baudžiamojoje
 byloje, kurioje patraukti baudžiamojon atsakomybėn ir teisiami juridinis asmuo
 ir fizinis asmuo, teismas priima vieną nuosprendį. Šio nuosprendžio
-rezoliucinėje dalyje atskirai išdėstomi teismo sprendimai dėl juridinio asmens ir
-dėl fizinio asmens.
+rezoliucinėje dalyje atskirai išdėstomi teismo sprendimai dėl juridinio asmens
+ir dėl fizinio asmens.
 2. Nuosprendį
 apeliacine tvarka turi teisę apskųsti nuteisto juridinio asmens atstovas ir
 nuteistas fizinis asmuo, taip pat kiti nagrinėjimo teisme dalyviai šio Kodekso
 313 straipsnyje nustatyta tvarka.
  
-391
-straipsnis. Nuosprendžio, kuriuo juridinio asmens veikla apribojama ar
-juridinis asmuo likviduojamas, vykdymas
+391 straipsnis. Nuosprendžio, kuriuo
+juridinio asmens veikla apribojama ar juridinis asmuo likviduojamas, vykdymas
 Nuosprendis, kuriuo juridinio asmens veikla apribojama
 ar juridinis asmuo likviduojamas, šio Kodekso 342 straipsnyje nustatyta tvarka
 pateikiamas antstoliui vykdyti.
  
-XXIX
-skyrius
+XXIX skyrius
 Priverčiamųjų medicinos priemonių taikymo procesas
  
-392
-straipsnis. Priverčiamųjų medicinos priemonių taikymo pagrindai
+392 straipsnis. Priverčiamųjų medicinos
+priemonių taikymo pagrindai
 1. Lietuvos
 Respublikos baudžiamojo kodekso 98 straipsnyje nustatytas priverčiamąsias
 medicinos priemones teismas taiko asmenims, teismo pripažintiems
@@ -7660,9 +7897,8 @@ pripažintiems ribotai pakaltinamais, Lietuvos Respublikos baudžiamojo kodekso
 medicinos priemonių taikymo proceso tvarką nustato šio Kodekso bendrosios
 taisyklės su šio skyriaus straipsniuose numatytomis išimtimis.
  
-393
-straipsnis. Priverčiamųjų medicinos priemonių taikymo proceso pradžios
-pagrindai
+393 straipsnis. Priverčiamųjų medicinos
+priemonių taikymo proceso pradžios pagrindai
 1. Bendra tvarka pradėtas procesas tampa
 priverčiamųjų medicinos priemonių taikymo procesu, jeigu ikiteisminio tyrimo
 metu ar nagrinėjant bylą teisme nustatoma, kad asmuo nepakaltinamas ar ribotai
@@ -7673,23 +7909,23 @@ Priverčiamosios medicinos priemonės pradedamos taikyti ir tuo atveju, kai
 asmeniui po bausmės paskyrimo sutriko psichika ir dėl to jis negali suvokti
 savo veiksmų esmės ar jų valdyti.
  
-394
-straipsnis. Priverčiamųjų medicinos priemonių taikymo proceso pradžia
+394 straipsnis. Priverčiamųjų medicinos
+priemonių taikymo proceso pradžia
 1. Jeigu
 ikiteisminio tyrimo metu ar nagrinėjant bylą teisme nustatomos šio Kodekso 393
 straipsnio 1 dalyje nurodytos aplinkybės, ikiteisminio tyrimo pareigūnas,
 prokuroras, teisėjas ar teismas priima šiuos sprendimus:
 1) ikiteisminio
-tyrimo pareigūnas perduoda tyrimo medžiagą prokurorui. Kai yra pagrindas, prokuroras
-užrašo rezoliuciją pradėti procesą taikyti priverčiamąsias medicinos
-priemones ir paveda ikiteisminio tyrimo įstaigai atlikti ikiteisminį tyrimą
-arba pats jį atlieka;
+tyrimo pareigūnas perduoda tyrimo medžiagą prokurorui. Kai yra pagrindas,
+prokuroras užrašo rezoliuciją pradėti procesą taikyti priverčiamąsias
+medicinos priemones ir paveda ikiteisminio tyrimo įstaigai atlikti ikiteisminį
+tyrimą arba pats jį atlieka;
 2) bylos
 nagrinėjimo teisme metu teisėjas ar teismas priima nutartį pradėti procesą
 taikyti priverčiamąsias medicinos priemones.
-2. Jeigu šio
-Kodekso 393 straipsnio 1 dalyje nurodytos aplinkybės nustatomos po bausmės
-paskyrimo, teismas priima šiuos sprendimus:
+2. Jeigu šio Kodekso
+393 straipsnio 1 dalyje nurodytos aplinkybės nustatomos po bausmės paskyrimo,
+teismas priima šiuos sprendimus:
 1) kol
 nuosprendis neįsiteisėjęs ir nepradėtas vykdyti, teismas perima bylą savo
 žinion ir nutaria pradėti procesą taikyti priverčiamąsias medicinos priemones;
@@ -7703,8 +7939,7 @@ straipsnis. Įrodinėtinos aplinkybės
 Proceso dėl
 nepakaltinamo ar ribotai pakaltinamo asmens padarytos veikos metu, taip pat
 proceso asmeniui, kuriam po nusikalstamos veikos padarymo sutriko psichika ir
-dėl to jis negali suvokti savo veiksmų esmės ar jų valdyti, metu turi būti
-įrodinėjama:
+dėl to jis negali suvokti savo veiksmų esmės ar jų valdyti, metu turi būti įrodinėjama:
 1) baudžiamojo
 įstatymo uždraustos veikos padarymo laikas, vieta, būdas ir kitos aplinkybės;
 2) ar
@@ -7728,8 +7963,8 @@ pakankamai duomenų, rodančių, kad kaip tik šis asmuo padarė baudžiamojo
 įstatymo uždraustą veiką, dėl kurios atliekamas tyrimas.
 2. Jeigu dėl
 baudžiamojo įstatymo uždraustą veiką padariusio asmens psichikos būklės
-negalima atlikti proceso veiksmų, kuriuose jis dalyvautų, ikiteisminio tyrimo
-pareigūnas dėl to surašo protokolą.
+negalima atlikti proceso veiksmų, kuriuose jis dalyvautų, ikiteisminio tyrimo pareigūnas
+dėl to surašo protokolą.
 3. Šio Kodekso
 393 straipsnio 1 dalyje numatytais atvejais gynėjo dalyvavimas būtinas nuo
 nutarties skirti psichiatrijos ekspertizę priėmimo momento, jeigu jis anksčiau
@@ -7741,8 +7976,8 @@ straipsnis. Ikiteisminio tyrimo pabaiga
 ikiteisminis tyrimas baigtas šio Kodekso 393 straipsnio 1 dalyje numatytais
 atvejais, prokuroras priima vieną iš šių nutarimų:
 1) nutraukti
-bylą šio Kodekso 3 straipsnyje numatytais atvejais, – jei nustatomos
-aplinkybės, dėl kurių procesas negalimas;
+bylą šio Kodekso 3 straipsnyje numatytais atvejais, – jei nustatomos aplinkybės,
+dėl kurių procesas negalimas;
 2) perduoti bylą teismui, – jei nustatoma, kad yra
 pagrindas asmeniui taikyti priverčiamąsias medicinos priemones.
 2. Jeigu
@@ -7777,9 +8012,9 @@ gavęs iš prokuroro bylą, perduoda ją nagrinėti teisiamajame posėdyje, apie
 praneša asmens, kurio byla nagrinėjama, atstovams pagal įstatymą arba šeimos
 nariams ar artimiesiems giminaičiams bei gynėjui ir prokurorui ir
 nurodo šaukti liudytojus, nukentėjusiuosius ir ekspertus.
-2. Teisėjas turi teisę reikalauti, kad į teisiamąjį posėdį
-būtų pristatytas asmuo, kurio byla nagrinėjama, jeigu pagal eksperto išvadą tam
-nekliudo jo ligos pobūdis.
+2. Teisėjas turi teisę reikalauti, kad į teisiamąjį
+posėdį būtų pristatytas asmuo, kurio byla nagrinėjama, jeigu pagal eksperto
+išvadą tam nekliudo jo ligos pobūdis.
  
 400
 straipsnis. Nagrinėjimo teisme tvarka ir ribos
@@ -7813,9 +8048,8 @@ psichikos sutrikimas, dėl kurio reikia tik atidėti bylos nagrinėjimą;
 5) ar taikytina
 priverčiamoji medicinos priemonė ir būtent kokia.
  
-402
-straipsnis. Bylos nagrinėjimas ir išsprendimas teisme, kai asmens psichika
-sutriko po bausmės paskyrimo
+402 straipsnis. Bylos nagrinėjimas ir
+išsprendimas teisme, kai asmens psichika sutriko po bausmės paskyrimo
 1. Jeigu asmens
 psichika sutriko po bausmės paskyrimo, kol nuosprendis dar neįsiteisėjęs ir
 nepradėtas vykdyti, bylą nagrinėja nuosprendį priėmęs teismas.
@@ -7827,10 +8061,10 @@ straipsnio 1 ir 2 dalyse numatytais atvejais teismas, išreikalavęs baudžiamą
 bylą, priverčiamųjų medicinos priemonių taikymo klausimą svarsto teisiamajame
 posėdyje. Jame turi dalyvauti prokuroras ir gynėjas. Teisiamajame posėdyje
 nustatomos aplinkybės, turinčios esminės reikšmės sprendžiant dėl priverčiamųjų
-medicinos priemonių taikymo: išklausoma eksperto išvada apie psichinę
-nuteistojo būklę, kaip liudytojai apklausiami bausmės atlikimo įstaigos
-darbuotojai ir kiti asmenys, patikrinami kiti duomenys apie nuteistojo elgesį
-po bausmės paskyrimo.
+medicinos priemonių taikymo: išklausoma eksperto išvada apie psichinę nuteistojo
+būklę, kaip liudytojai apklausiami bausmės atlikimo įstaigos darbuotojai ir
+kiti asmenys, patikrinami kiti duomenys apie nuteistojo elgesį po bausmės
+paskyrimo.
 4. Teismas,
 priimdamas nutartį, turi išspręsti šiuos klausimus:
 1) ar po bausmės
@@ -7850,16 +8084,16 @@ baudžiamojo įstatymo uždraustą veiką būdamas nepakaltinamas;
 2) atleisti
 asmenį nuo baudžiamosios atsakomybės ir taikyti jam priverčiamąją medicinos
 priemonę, – jeigu įrodyta, kad jis padarė baudžiamojo įstatymo uždraustą veiką
-būdamas ribotai pakaltinamas Lietuvos Respublikos baudžiamojo kodekso 18 straipsnyje
-nurodytu atveju;
+būdamas ribotai pakaltinamas Lietuvos Respublikos baudžiamojo kodekso 18
+straipsnyje nurodytu atveju;
 3) bausmės
 vykdymą sustabdyti ir taikyti priverčiamąją medicinos priemonę, – jeigu
 įrodyta, kad po nusikalstamos veikos padarymo ar bausmės paskyrimo sutriko
 asmens psichika ir dėl to jis negali suvokti savo veiksmų esmės ar jų valdyti;
 4) nutraukti
-bylą ir netaikyti priverčiamosios medicinos priemonės, – jeigu įrodyta, kad
-pagal padarytos veikos pobūdį ir patologinę būseną asmuo nėra pavojingas
-visuomenei ir jam nereikia priverčiamojo gydymo;
+bylą ir netaikyti priverčiamosios medicinos
+priemonės, – jeigu įrodyta, kad pagal padarytos veikos pobūdį ir patologinę
+būseną asmuo nėra pavojingas visuomenei ir jam nereikia priverčiamojo gydymo;
 5) perduoti bylą
 iš naujo tirti, – jeigu nenustatyta, kad asmuo nepakaltinamas, arba jeigu
 psichikos sutrikimas nėra toks, dėl kurio nebūtų galima skirti bausmės;
@@ -7867,10 +8101,10 @@ psichikos sutrikimas nėra toks, dėl kurio nebūtų galima skirti bausmės;
 bylą, – jeigu neįrodyta, kad asmuo padarė baudžiamojo įstatymo uždraustą veiką,
 arba jeigu yra šio Kodekso 3 straipsnyje išvardytos aplinkybės, dėl kurių
 procesas negalimas.
-2. Šio
-straipsnio 1 dalies 1–3 punktuose numatytais atvejais teismas, remdamasis
-Lietuvos Respublikos baudžiamojo kodekso 98 straipsniu, gali taikyti vieną iš
-šių priverčiamųjų medicinos priemonių:
+2. Šio straipsnio
+1 dalies 1–3 punktuose numatytais atvejais teismas, remdamasis Lietuvos
+Respublikos baudžiamojo kodekso 98 straipsniu, gali taikyti vieną iš šių
+priverčiamųjų medicinos priemonių:
 1) ambulatorinį
 stebėjimą pirminės psichikos sveikatos priežiūros sąlygomis;
 2) stacionarinį
@@ -7897,17 +8131,16 @@ nukentėjusysis, jo atstovas ir prokuroras. Apeliaciniai ir kasaciniai skundai
 paduodami ir nagrinėjami pagal šio Kodekso VI ir VIII dalyse nustatytas
 taisykles.
  
-405
-straipsnis. Priverčiamosios medicinos priemonės taikymo pratęsimas, jos rūšies
-pakeitimas ar panaikinimas
+405 straipsnis. Priverčiamosios
+medicinos priemonės taikymo pratęsimas, jos rūšies pakeitimas ar panaikinimas
 1. Taikydamas
 priverčiamąją medicinos priemonę, teismas nenustato jos taikymo laiko. Ji
 taikoma, kol asmuo pasveiksta arba pagerėja jo psichikos būklė bei išnyksta
 jo pavojingumas.
 2. Teismas ne
-rečiau kaip kartą per šešis mėnesius privalo
-spręsti dėl priverčiamosios medicinos priemonės taikymo pratęsimo, rūšies
-pakeitimo ar panaikinimo.
+rečiau kaip kartą per šešis mėnesius privalo spręsti dėl priverčiamosios
+medicinos priemonės taikymo pratęsimo,
+rūšies pakeitimo ar panaikinimo.
 3. Teismas
 išnagrinėja ir išsprendžia priverčiamosios medicinos priemonės taikymo
 pratęsimo, rūšies pakeitimo ar panaikinimo klausimus pagal sveikatos priežiūros
@@ -7923,15 +8156,14 @@ taikytą priverčiamąją medicinos priemonę, – jeigu asmuo pasveiko ir išny
 reikalas tokią priemonę taikyti.
 4. Dėl
 priverčiamosios medicinos priemonės pratęsimo, rūšies pakeitimo ar panaikinimo
-sprendžia teismas pagal šios priemonės
-taikymo vietą. Sprendžiant šį klausimą, teismo posėdyje turi dalyvauti išvadą
-apie asmens sveikatos būklę pateikusios sveikatos priežiūros įstaigos atstovas.
+sprendžia teismas pagal šios priemonės taikymo vietą. Sprendžiant šį klausimą,
+teismo posėdyje turi dalyvauti išvadą apie
+asmens sveikatos būklę pateikusios sveikatos priežiūros įstaigos atstovas.
 Teisėjas turi teisę reikalauti, kad į posėdį būtų pristatytas asmuo, kuriam
-pratęsiama, keičiama ar panaikinama
-priverčiamoji medicinos priemonė, jeigu pagal gydytojų komisijos išvadą tam
-nekliudo jo ligos pobūdis. Apie posėdžio vietą ir laiką teismas privalo
-pranešti šio Kodekso 404 straipsnyje nurodytiems asmenims. Šių asmenų
-neatvykimas nagrinėti klausimą nekliudo.
+pratęsiama, keičiama ar panaikinama priverčiamoji medicinos priemonė, jeigu pagal gydytojų komisijos išvadą tam nekliudo jo
+ligos pobūdis. Apie posėdžio vietą ir laiką teismas privalo pranešti šio
+Kodekso 404 straipsnyje nurodytiems asmenims. Šių asmenų neatvykimas nagrinėti
+klausimą nekliudo.
 5. Priverčiamųjų
 medicinos priemonių taikymas pratęsiamas, jos pakeičiamos ar panaikinamos
 teismo nutartimi.
@@ -7940,8 +8172,9 @@ nutartis pratęsti, pakeisti ar panaikinti priverčiamąją medicinos priemonę 
 teisę šio Kodekso X dalyje nustatyta tvarka apskųsti šio Kodekso 404
 straipsnyje išvardyti asmenys.
  
-406 straipsnis.
-Proceso atnaujinimas asmeniui, kuriam taikyta priverčiamoji medicinos priemonė
+406
+straipsnis. Proceso atnaujinimas asmeniui, kuriam taikyta priverčiamoji
+medicinos priemonė
 1. Jeigu asmenį,
 kuriam po nusikalstamos veikos padarymo ar bausmės paskyrimo sutriko psichika
 ir dėl to buvo taikyta priverčiamoji medicinos priemonė, gydytojų komisija pripažįsta
@@ -7961,9 +8194,8 @@ Straipsnio pakeitimai:
 Nr. IX-1637,
 2003-06-19, Žin., 2003, Nr. 68-3070 (2003-07-09)
  
-408
-straipsnis. Asmenys, turintys teisę paduoti skundą ar pareiškimą ir palaikyti
-kaltinimą teisme
+408 straipsnis. Asmenys, turintys teisę
+paduoti skundą ar pareiškimą ir palaikyti kaltinimą teisme
 1. Privataus
 kaltinimo bylose skundą paduoda ir kaltinimą teisme palaiko nukentėjusysis.
 Teisme jis įgyja privataus kaltintojo statusą.
@@ -7971,10 +8203,10 @@ Teisme jis įgyja privataus kaltintojo statusą.
 nukentėjusysis dėl nepilnametystės, fizinių ar psichinių trūkumų negali
 pasinaudoti visomis nukentėjusiojo teisėmis, paduoti pareiškimą ir
 palaikyti kaltinimą teisme gali jo teisėtas atstovas.
-3. Jeigu
-procesas pradėtas dėl nukentėjusiojo teisėto atstovo pareiškimo, toks atstovas
-teisme įgyja privataus kaltintojo statusą ir kaltinimą teisme palaiko vienas
-arba kartu su nukentėjusiuoju.
+3. Jeigu procesas
+pradėtas dėl nukentėjusiojo teisėto atstovo pareiškimo, toks atstovas teisme
+įgyja privataus kaltintojo statusą ir kaltinimą teisme palaiko vienas arba
+kartu su nukentėjusiuoju.
  
 409
 straipsnis. Perėjimas iš privataus kaltinimo į valstybinį kaltinimą
@@ -8024,15 +8256,16 @@ straipsnis. Nukentėjusiojo skundo ar teisėto atstovo pareiškimo turinys
 1. Skundas ar
 pareiškimas privataus kaltinimo tvarka paduodamas raštu.
 2. Skunde ar
-pareiškime turi būti nurodyta: teismo, kuriam teisminga byla, pavadinimas;
-nusikalstamos veikos, kuria kaltinamas asmuo, padarymo vieta, laikas,
-padariniai ir kitos esminės aplinkybės; duomenys, kurie patvirtina skunde ar
-pareiškime išdėstytas aplinkybes; nukentėjusiojo, nusikalstamos veikos padarymu
-įtariamo asmens bei liudytojų vardai, pavardės ir gyvenamoji vieta. Skundas
-turi būti pasirašytas nukentėjusiojo, o 408 straipsnio 2 dalyje numatytu atveju
-pareiškimas – nukentėjusiojo teisėto atstovo.
+pareiškime turi būti nurodyta: teismo, kuriam teisminga byla,
+pavadinimas; nusikalstamos veikos, kuria kaltinamas asmuo, padarymo vieta,
+laikas, padariniai ir kitos esminės aplinkybės; duomenys, kurie patvirtina
+skunde ar pareiškime išdėstytas aplinkybes; nukentėjusiojo, nusikalstamos
+veikos padarymu įtariamo asmens bei liudytojų vardai, pavardės ir gyvenamoji
+vieta. Skundas turi būti pasirašytas nukentėjusiojo, o 408 straipsnio 2 dalyje
+numatytu atveju pareiškimas – nukentėjusiojo teisėto atstovo.
 3. Šio
-straipsnio reikalavimų neatitinkantis skundas nepriimamas ir grąžinamas jį padavusiam asmeniui.
+straipsnio reikalavimų neatitinkantis skundas nepriimamas ir grąžinamas jį
+padavusiam asmeniui.
 4. Šio
 straipsnio 2 dalyje nurodyti reikalavimai taikomi ir nukentėjusiojo teisėto
 atstovo pareiškimui.
@@ -8045,15 +8278,15 @@ pareiškimas, nukentėjusysis ir (ar) jo teisėtas atstovas, ir
 nusikalstamos veikos padarymu kaltinamas asmuo šaukiami pas teisėją sutaikinti.
 Nusikalstamos veikos padarymu kaltinamam asmeniui kartu su šaukimu išsiunčiamas
 ir skundo nuorašas.
-2. Taikinamasis posėdis prasideda teisėjo pranešimu
-apie nukentėjusiojo skundo ar jo teisėto atstovo pareiškimo turinį ir kvietimu
+2. Taikinamasis
+posėdis prasideda teisėjo pranešimu apie nukentėjusiojo skundo ar jo teisėto atstovo pareiškimo turinį ir kvietimu
 susitaikyti. Po to pasisako nukentėjusysis ir (ar) jo teisėtas atstovas, ir
-nusikalstamos veikos padarymu kaltinamas asmuo. Jeigu šie asmenys susitaiko, procesas dėl skundo nutraukiamas.
-3.
-Nukentėjusysis ir (ar) jo teisėtas atstovas, ir nusikalstamos veikos padarymu
-kaltinamas asmuo susitaikydami gali sudaryti sutartį dėl žalos atlyginimo.
-Pagal sutartį dėl žalos atlyginimo vėliau
-gali būti išduotas vykdomasis dokumentas.
+nusikalstamos veikos padarymu kaltinamas asmuo. Jeigu šie asmenys susitaiko,
+procesas dėl skundo nutraukiamas.
+3. Nukentėjusysis ir (ar) jo teisėtas atstovas, ir
+nusikalstamos veikos padarymu kaltinamas asmuo susitaikydami gali sudaryti
+sutartį dėl žalos atlyginimo. Pagal sutartį dėl žalos atlyginimo vėliau gali
+būti išduotas vykdomasis dokumentas.
 4. Tiek
 pareikštas nuomones dėl susitaikymo, tiek sutartį dėl žalos atlyginimo
 taikinamojo posėdžio protokole pasirašo nukentėjusysis ir (ar) jo teisėtas
@@ -8068,9 +8301,8 @@ svarbios priežasties, laikoma, kad privatus kaltintojas kaltinimo atsisakė.
 Tokiu atveju procesas dėl skundo nutraukiamas.
 7. Jeigu be
 svarbios priežasties į taikinamąjį posėdį neatvyksta nusikalstamos veikos
-padarymu kaltinamas asmuo, teisėjas
-nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą perduoda nagrinėti
-teisiamajame posėdyje.
+padarymu kaltinamas asmuo, teisėjas nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą perduoda nagrinėti teisiamajame
+posėdyje.
  
 414
 straipsnis. Teismo veiksmai iki teisiamojo posėdžio
@@ -8127,12 +8359,12 @@ išaiškina nukentėjusiajam šio teisę kreiptis į teismą privataus kaltinimo
 tvarka. Dėl šios nusikalstamos veikos bendra tvarka pradėtas ikiteisminis
 tyrimas nutraukiamas.
 2. Bylą
-nagrinėjant teisme, kai yra pagrindas manyti,
-kad kaltinamojo veika gali būti perkvalifikuota iš nusikalstamos veikos,
+nagrinėjant teisme, kai yra pagrindas manyti, kad kaltinamojo veika gali būti
+perkvalifikuota iš nusikalstamos veikos,
 nagrinėjamos valstybinio kaltinimo tvarka, į nusikalstamą veiką, nagrinėjamą
 privataus kaltinimo tvarka, teisiamojo posėdžio pirmininkas iki įrodymų tyrimo
-pabaigos paklausia nukentėjusįjį, ar šis
-nesusitaikytų su kaltinamuoju, jei veika būtų perkvalifikuota pagal šio Kodekso
+pabaigos paklausia nukentėjusįjį, ar šis nesusitaikytų su kaltinamuoju, jei
+veika būtų perkvalifikuota pagal šio Kodekso
 407 straipsnyje nurodytus Lietuvos Respublikos baudžiamojo kodekso straipsnius.
 3. Kai yra
 galimybė perkvalifikuoti nusikalstamą veiką ir nukentėjusysis reikalauja, kad
@@ -8140,16 +8372,14 @@ kaltinamasis būtų nuteistas už nusikalstamą veiką, nagrinėjamą privataus
 kaltinimo tvarka, teismas dėl šios veikos pasitarimų kambaryje priima
 nuosprendį, jei yra įstatymų numatytos kitos sąlygos.
  
-XXXI
-skyrius
+XXXI skyrius
 Bylų SUPAPRASTINTAS procesas
  
-Pirmasis
-skirsnis
+Pirmasis skirsnis
 TEISMO Baudžiamojo įsakymo PRIĖMIMO procesas
  
-418
-straipsnis. Prokuroro teisė nuspręsti užbaigti procesą baudžiamuoju įsakymu
+418 straipsnis. Prokuroro teisė
+nuspręsti užbaigti procesą baudžiamuoju įsakymu
 1. Dėl
 nusikalstamų veikų, už kurių padarymą gali būti skiriama tik bauda arba ši
 bausmė yra numatyta kaip alternatyvinė, nagrinėjimo teisme gali nebūti, o
@@ -8164,10 +8394,10 @@ kaltinamasis aktas nerašomas. Šiuo atveju prokuroras surašo pareiškimą, kur
 kartu su ikiteisminio tyrimo metu surinkta medžiaga išsiunčia teismui pagal
 teismingumą.
 4. Prokuroras,
-priėmęs sprendimą užbaigti procesą teismo baudžiamuoju įsakymu, privalo apie
-tai pranešti nukentėjusiajam. Nukentėjusysis per tris dienas nuo tokio
-pranešimo gavimo gali prokuroro sprendimą apskųsti ikiteisminio tyrimo teisėjui. Skundas nagrinėjamas šio
-Kodekso 64 straipsnyje nustatyta tvarka.
+priėmęs sprendimą užbaigti procesą teismo
+baudžiamuoju įsakymu, privalo apie tai pranešti nukentėjusiajam. Nukentėjusysis
+per tris dienas nuo tokio pranešimo gavimo gali prokuroro sprendimą apskųsti
+ikiteisminio tyrimo teisėjui. Skundas nagrinėjamas šio Kodekso 64 straipsnyje nustatyta tvarka.
  
 419
 straipsnis. Prokuroro pareiškimo turinys
@@ -8218,31 +8448,32 @@ Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-422
-straipsnis. Kaltinamojo teisė reikalauti surengti bylos nagrinėjimą teisme
-1. Teisėjo surašytas teismo baudžiamasis įsakymas įteikiamas
-kaltinamajam. Kaltinamasis, nesutikdamas su
-baudos paskyrimu teismo baudžiamuoju įsakymu, per keturiolika dienų nuo šio dokumento gavimo
-dienos turi teisę paduoti teismui, surašiusiam tą teismo baudžiamąjį įsakymą, prašymą
-reikalaudamas surengti bylos nagrinėjimą teisme.
-2. Jei kaltinamasis paduoda prašymą reikalaudamas
-surengti bylos nagrinėjimą teisme, teismo baudžiamasis įsakymas neįgyja
-teisinės galios. Jei kaltinamasis šia teise nepasinaudoja, teismo baudžiamasis
-įsakymas įsiteisėja ir vykdomas šio Kodekso nustatyta tvarka. Įsiteisėjęs
-teismo baudžiamasis įsakymas yra neskundžiamas.
+422 straipsnis. Kaltinamojo teisė
+reikalauti surengti bylos nagrinėjimą teisme
+1.
+Teisėjo surašytas teismo baudžiamasis įsakymas įteikiamas kaltinamajam.
+Kaltinamasis, nesutikdamas su baudos paskyrimu teismo baudžiamuoju įsakymu, per
+keturiolika dienų nuo šio dokumento gavimo dienos turi teisę paduoti teismui,
+surašiusiam tą teismo baudžiamąjį įsakymą, prašymą reikalaudamas surengti bylos
+nagrinėjimą teisme.
+2. Jei
+kaltinamasis paduoda prašymą reikalaudamas surengti bylos nagrinėjimą teisme,
+teismo baudžiamasis įsakymas neįgyja teisinės galios. Jei kaltinamasis šia
+teise nepasinaudoja, teismo baudžiamasis įsakymas įsiteisėja ir vykdomas šio
+Kodekso nustatyta tvarka. Įsiteisėjęs teismo baudžiamasis įsakymas yra
+neskundžiamas.
  
 423
 straipsnis. Bylos perdavimas nagrinėti teisme teisėjo iniciatyva
 1. Nutartį
 perduoti bylą nagrinėti teisme teisėjas priima tuo atveju, kai bylos aplinkybės
-nėra pakankamai aiškios ir kilusias abejones
-galima pašalinti tik nagrinėjimo teisme metu.
+nėra pakankamai aiškios ir kilusias abejones galima pašalinti tik nagrinėjimo
+teisme metu.
 2. Priėmęs šio
 straipsnio 1 dalyje nurodytą nutartį, teisėjas privalo prokuroro pareiškimo dėl
 proceso užbaigimo teismo baudžiamuoju įsakymu nuorašą išsiųsti kaltinamajam.
  
-424
-straipsnis. Proceso nutraukimas 
+424 straipsnis. Proceso nutraukimas 
 1. Nutartį
 nutraukti baudžiamąjį procesą teisėjas priima nustatęs, kad yra aplinkybių, dėl
 kurių procesas negalimas. Priėmęs nutartį nutraukti procesą, teisėjas apie tai
@@ -8252,24 +8483,21 @@ priėmimą gavimo apskųsti teisėjo nutartį nutraukti procesą aukštesniajam
 teismui.
 2. Jei
 aukštesnysis teismas, išnagrinėjęs skundą, panaikina nutartį nutraukti procesą,
-kitas to paties teismo, kurio priimta
-nutartis panaikinta, teisėjas privalo priimti vieną iš šio Kodekso 420
-straipsnio 1 dalies 1 ir 2 punktuose numatytų sprendimų.
+kitas to paties teismo, kurio priimta nutartis panaikinta, teisėjas privalo priimti vieną iš šio Kodekso 420 straipsnio 1 dalies
+1 ir 2 punktuose numatytų sprendimų.
  
-425
-straipsnis. Bylos nagrinėjimas teisme kaltinamojo reikalavimu ar teisėjo
-iniciatyva
-1. Gavęs kaltinamojo
-prašymą su reikalavimu surengti bylos nagrinėjimą teisme, teismas bylos
-nagrinėjimą privalo surengti ne vėliau kaip po dešimties dienų nuo prašymo gavimo
-dienos. Bylos nagrinėjimas teisme teisėjo iniciatyva turi būti surengtas
-praėjus ne mažiau kaip trims dienoms ir ne daugiau kaip dešimčiai dienų nuo
-prokuroro pareiškimo dėl proceso užbaigimo teismo baudžiamuoju įsakymu
-nuorašo įteikimo kaltinamajam.
+425 straipsnis. Bylos nagrinėjimas
+teisme kaltinamojo reikalavimu ar teisėjo iniciatyva
+1. Gavęs
+kaltinamojo prašymą su reikalavimu surengti bylos nagrinėjimą teisme, teismas
+bylos nagrinėjimą privalo surengti ne vėliau kaip po dešimties dienų nuo
+prašymo gavimo dienos. Bylos nagrinėjimas teisme teisėjo iniciatyva turi
+būti surengtas praėjus ne mažiau kaip trims dienoms ir ne daugiau kaip
+dešimčiai dienų nuo prokuroro pareiškimo dėl proceso užbaigimo teismo baudžiamuoju
+įsakymu nuorašo įteikimo kaltinamajam.
 2. Kaltinamojo
 reikalavimu ar teisėjo iniciatyva surengtas nagrinėjimas teisme vyksta pagal šio
-Kodekso V dalyje nustatytas taisykles,
-išskyrus tai, kad nagrinėjimo teisme metu vietoj kaltinamojo akto skaitymo
+Kodekso V dalyje nustatytas taisykles, išskyrus tai, kad nagrinėjimo teisme metu vietoj kaltinamojo akto skaitymo
 kaltinimo esmę prokuroras išdėsto remdamasis pareiškimu dėl proceso užbaigimo
 teismo baudžiamuoju įsakymu.
 3. Bylą
@@ -8289,9 +8517,8 @@ ANTRASIS
 SKIRSNIS
 Pagreitintas procesas
  
-426
-straipsnis. Prokuroro teisė nuspręsti užbaigti baudžiamąją bylą pagreitinto
-proceso tvarka
+426 straipsnis. Prokuroro teisė
+nuspręsti užbaigti baudžiamąją bylą pagreitinto proceso tvarka
 1. Jei
 nusikalstamos veikos padarymo aplinkybės yra aiškios, o baudžiamoji byla dėl
 tos veikos padarymo turi būti nagrinėjama apylinkės teisme, prokuroras veikos
@@ -8319,9 +8546,9 @@ pagrindiniai duomenys, kuriais grindžiamas kaltinimas.
 pareiškimo dėl bylos nagrinėjimo pagreitinto proceso tvarka egzempliorių
 prokuroras privalo įteikti kaltinamajam.
  
-428
-straipsnis. Teismo veiksmai, kai atvyksta prokuroras su pareiškimu dėl bylos
-nagrinėjimo pagreitinto proceso tvarka
+428 straipsnis. Teismo veiksmai, kai
+atvyksta prokuroras su pareiškimu dėl bylos nagrinėjimo pagreitinto proceso
+tvarka
 1. Kai
 prokuroras su pareiškimu dėl bylos nagrinėjimo pagreitinto proceso tvarka
 atvyksta į apylinkės teismą, teisme tuoj pat rengiamas posėdis. Šio posėdžio
@@ -8344,9 +8571,8 @@ prokuroro pareiškimą dėl bylos nagrinėjimo pagreitinto proceso tvarka.
 straipsnio 2 dalyje nurodyti sprendimai įrašomi į teismo posėdžio protokolą ir
 yra neskundžiami.
  
-429
-straipsnis. Prokuroro pareiškimo dėl bylos nagrinėjimo pagreitinto proceso
-tvarka atmetimas
+429 straipsnis. Prokuroro pareiškimo dėl
+bylos nagrinėjimo pagreitinto proceso tvarka atmetimas
 1. Teisėjas
 sprendimą atmesti prokuroro pareiškimą dėl bylos nagrinėjimo pagreitinto
 proceso tvarka priima šiais atvejais:
@@ -8359,9 +8585,8 @@ prokuroro pareiškimas dėl bylos nagrinėjimo pagreitinto proceso tvarka
 atmestas, prokuroras iš naujo perduoti bylą į teismą gali tik surašęs
 kaltinamąjį aktą. Toliau procesas vyksta bendra tvarka.
  
-430
-straipsnis. Teismo veiksmai, kai nuspręsta nagrinėjimą teisme surengti kitą
-dieną
+430 straipsnis. Teismo veiksmai, kai
+nuspręsta nagrinėjimą teisme surengti kitą dieną
 1. Jei
 kaltinamasis, motyvuodamas tuo, kad jam reikia laiko pasirengti gynybai,
 nesutinka, kad bylos nagrinėjimas vyktų tuoj pat, teisėjas privalo paskirti
@@ -8370,14 +8595,13 @@ rengiamas praėjus terminui, kurio kaltinamasis prašė pasirengti gynybai, tač
 ne vėliau kaip po dvidešimties dienų. Konkrečią bylos nagrinėjimo teisme
 dieną teisėjas paskiria išklausęs visų proceso dalyvių nuomones.
 2. Tame pačiame
-posėdyje, kai paskiria naują bylos nagrinėjimo teisme dieną, teisėjas
-prokuroro, kitų proceso dalyvių prašymu ar savo iniciatyva apklausia į teismą
-atvykusius liudytojus ar nukentėjusiuosius, o kaltinamojo sutikimu – ir jį
-patį. Apklausti liudytojai ir nukentėjusieji vėliau bylos nagrinėjimo teisme
-metu apklausiami tik tuo atveju, kai to motyvuotai prašo kas nors iš proceso
-dalyvių arba to prireikia teismui. Nagrinėjantis bylą teismas, manydamas, kad
-prašymu apklausti liudytojus ar nukentėjusįjį siekiama vilkinti procesą, gali
-prašymo netenkinti.
+posėdyje, kai paskiria naują bylos nagrinėjimo teisme dieną, teisėjas prokuroro,
+kitų proceso dalyvių prašymu ar savo iniciatyva apklausia į teismą atvykusius
+liudytojus ar nukentėjusiuosius, o kaltinamojo sutikimu – ir jį patį. Apklausti
+liudytojai ir nukentėjusieji vėliau bylos nagrinėjimo teisme metu apklausiami
+tik tuo atveju, kai to motyvuotai prašo kas nors iš proceso dalyvių arba to
+prireikia teismui. Nagrinėjantis bylą teismas, manydamas, kad prašymu apklausti
+liudytojus ar nukentėjusįjį siekiama vilkinti procesą, gali prašymo netenkinti.
 3. Prokuroro
 prašymu ar savo iniciatyva teisėjas gali nuspręsti kaltinamajam paskirti
 kardomąją priemonę – suėmimą šio Kodekso XI skyriuje nustatytais pagrindais ir
@@ -8400,10 +8624,10 @@ medžiaga.
  
 432
 straipsnis. Bylos nagrinėjimas teisme
-1. Bylos nagrinėjimas teisme pagreitinto proceso tvarka vyksta
-laikantis šio Kodekso V dalyje nustatytų taisyklių, tik vietoj kaltinamojo akto
-prokuroras perskaito savo pareiškimą dėl bylos nagrinėjimo pagreitinto proceso
-tvarka.
+1. Bylos
+nagrinėjimas teisme pagreitinto proceso tvarka vyksta laikantis šio Kodekso V dalyje nustatytų taisyklių, tik vietoj
+kaltinamojo akto prokuroras perskaito savo pareiškimą dėl bylos nagrinėjimo
+pagreitinto proceso tvarka.
 2. Teismas,
 bylos nagrinėjimo metu nustatęs, kad bylos aplinkybės nėra pakankamai aiškios,
 priima nutartį grąžinti bylą prokurorui. Ši nutartis yra neskundžiama. Tokiu
@@ -8413,8 +8637,7 @@ procedūros.
 bylą pagreitinto proceso tvarka priimtas nuosprendis ir nutartys skundžiami
 bendra tvarka.
  
-XXXII
-skyrius
+XXXII skyrius
 Bylų procesas kaltinamajam nedalyvaujant
  
 433
@@ -8434,19 +8657,18 @@ taisyklių su šiame skyriuje numatytomis išimtimis.
 435
 straipsnis. Kaltinamojo teisės į gynybą užtikrinimas
 Nagrinėjant
-bylą kaltinamajam nedalyvaujant, visais atvejais gynėjo dalyvavimas būtinas.
-Bylos nagrinėjimo teisme metu kaltinamojo interesus gina teismo paskirtas
-gynėjas, jei kaltinamasis nėra iš anksto pasirinkęs gynėjo ar gynėjo nepakviečia kaltinamojo artimieji giminaičiai ar šeimos
-nariai.
+bylą kaltinamajam nedalyvaujant, visais
+atvejais gynėjo dalyvavimas būtinas. Bylos nagrinėjimo teisme metu kaltinamojo
+interesus gina teismo paskirtas gynėjas, jei kaltinamasis nėra iš anksto
+pasirinkęs gynėjo ar gynėjo nepakviečia kaltinamojo artimieji giminaičiai ar šeimos nariai.
  
 436
 straipsnis. Bylos nagrinėjimo kaltinamajam nedalyvaujant ypatumai
 1. Nagrinėjant
 bylą kaltinamajam nedalyvaujant, įrodymų tyrimo teisme pradžioje, po to, kai
-prokuroras šio Kodekso 271 straipsnyje
-nustatyta tvarka perskaito kaltinamąjį aktą, gynėjui suteikiama galimybė
-pareikšti savo nuomonę dėl kaltinimo. Proceso dalyviai gali prašyti gynėją savo
-poziciją patikslinti.
+prokuroras šio Kodekso 271 straipsnyje nustatyta tvarka perskaito kaltinamąjį aktą, gynėjui suteikiama galimybė pareikšti savo
+nuomonę dėl kaltinimo. Proceso dalyviai gali prašyti gynėją savo poziciją
+patikslinti.
 2. Nagrinėjant
 bylą kaltinamajam nedalyvaujant, negali būti pasinaudota šio Kodekso 273
 straipsnyje numatyta galimybe atlikti sutrumpintą įrodymų tyrimą, nors bylos
@@ -8456,19 +8678,21 @@ bylą kaltinamajam nedalyvaujant, po baigiamųjų kalbų gynėjui suteikiama
 galimybė pasakyti baigiamąjį žodį. Po to teismas iš karto išeina priimti
 nuosprendžio.
  
-437
-straipsnis. Išnagrinėjus bylą kaltinamajam nedalyvaujant priimto nuosprendžio
-įteikimas ir vykdymas
+437 straipsnis. Išnagrinėjus bylą
+kaltinamajam nedalyvaujant priimto nuosprendžio įteikimas ir vykdymas
 1. Išnagrinėjus bylą kaltinamajam nedalyvaujant
 priimtas nuosprendis įteikiamas kaltinamojo gynėjui. Nuo nuosprendžio įteikimo
 gynėjui momento prasideda terminas, per kurį nuosprendis įsiteisėja.
 2. Priimtas ir
 įsiteisėjęs nuosprendis iki nuteistojo sulaikymo ar jo pristatymo ekstradicijos
-tvarka vykdomas tik tiek, kiek jį įmanoma įvykdyti be nuteistojo.
+tvarka ar pagal Europos arešto orderį vykdomas tik tiek, kiek jį įmanoma
+įvykdyti be nuteistojo.
+Straipsnio pakeitimai:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
  
-438
-straipsnis. Išnagrinėjus bylą kaltinamajam nedalyvaujant priimto nuosprendžio
-apskundimo tvarka
+438 straipsnis. Išnagrinėjus bylą
+kaltinamajam nedalyvaujant priimto nuosprendžio apskundimo tvarka
 1. Nuteistasis,
 kurio byla buvo nagrinėjama jam nedalyvaujant, turi teisę paduoti apeliacinį
 skundą ir praėjus tokio skundo padavimo terminams, taip pat pareikšti, kad jis
@@ -8477,39 +8701,39 @@ vykdyti, turintis teisę apeliacine tvarka nagrinėti tą bylą teismas savo
 iniciatyva ar nuteistojo arba jo gynėjo prašymu gali priimti nutartį sustabdyti
 nuosprendžio vykdymą.
 2. Jei šio
-straipsnio 1 dalyje numatytą skundą padavęs nuteistasis, kuris yra laisvas, be
-svarbios priežasties neatvyksta į bylos nagrinėjimą apeliacine tvarka,
-apeliacinės instancijos teismas gali
+straipsnio 1 dalyje numatytą skundą padavęs nuteistasis, kuris yra laisvas, be svarbios priežasties neatvyksta
+į bylos nagrinėjimą apeliacine tvarka, apeliacinės instancijos teismas gali
 nagrinėti bylą nuteistajam nedalyvaujant arba apeliacinį procesą nutraukti.
 3. Apeliacinės
-instancijos teismas, gavęs nuteistojo, kuris nedalyvavo nagrinėjant bylą
-pirmosios instancijos teisme, skundą, privalo pakartotinai atlikti tuos
-pirmosios instancijos teisme atliktus
-įrodymų tyrimo veiksmus, kurių metu nagrinėtais įrodymais buvo grindžiamas
-apkaltinamasis nuosprendis, jei nuteistasis apeliaciniame skunde nesutinka su
-tų įrodymų vertinimu. Pakartotinai šie įrodymų tyrimo veiksmai turi būti atliekami nepaisant to, ar byla jau buvo nagrinėjama
-pagal kitų proceso dalyvių skundus. Pagal nuteistojo skundą pradėto apeliacinio
-proceso metu priimtas nuosprendis ar nutartis kasacine tvarka gali būti
-skundžiami bendra tvarka.
+instancijos teismas, gavęs nuteistojo, kuris
+nedalyvavo nagrinėjant bylą pirmosios instancijos teisme, skundą, privalo
+pakartotinai atlikti tuos pirmosios instancijos teisme atliktus įrodymų tyrimo
+veiksmus, kurių metu nagrinėtais įrodymais buvo grindžiamas apkaltinamasis
+nuosprendis, jei nuteistasis apeliaciniame
+skunde nesutinka su tų įrodymų vertinimu. Pakartotinai šie įrodymų tyrimo
+veiksmai turi būti atliekami nepaisant to, ar byla jau buvo nagrinėjama pagal
+kitų proceso dalyvių skundus. Pagal nuteistojo skundą pradėto apeliacinio
+proceso metu priimtas nuosprendis ar
+nutartis kasacine tvarka gali būti skundžiami bendra tvarka.
 4. Kiti proceso
 dalyviai nuosprendį ir nutartis gali apskųsti šio Kodekso 313 straipsnyje
 nustatyta tvarka.
  
-X dalis
+X
+dalis
 Žemesniųjų teismų nutarčių apskundimas aukštesniesiems teismams ir
 skundų nagrinėjimas
  
-439
-straipsnis. Žemesniųjų teismų nutarčių apskundimas aukštesniesiems teismams
+439 straipsnis. Žemesniųjų teismų
+nutarčių apskundimas aukštesniesiems teismams
 Bylos
 nagrinėjimo teisme dalyviai bei kiti asmenys turi teisę šioje Kodekso dalyje
 nustatyta tvarka apskųsti žemesniųjų teismų nutartis aukštesniesiems teismams,
 išskyrus tuos atvejus, kai šis Kodeksas numato specialią atskirų teismo
 nutarčių apskundimo tvarką.
  
-440
-straipsnis. Žemesniųjų teismų nutarčių apskundimo aukštesniesiems teismams
-tvarka
+440 straipsnis. Žemesniųjų teismų
+nutarčių apskundimo aukštesniesiems teismams tvarka
 1. Bylos
 nagrinėjimo teisme dalyviai turi teisę paduoti aukštesniajam teismui skundus
 dėl žemesniojo teismo nutarties, jeigu mano, kad žemesniojo teismo nutartimi
@@ -8529,12 +8753,13 @@ Nr. IX-1496,
 straipsnis. Skundo nagrinėjimo aukštesniajame teisme tvarka
 1. Aukštesniojo
 teismo pirmininkas ar Baudžiamųjų bylų skyriaus pirmininkas skundą paskiria
-nagrinėti teisėjui ar trijų teisėjų kolegijai ir vieną iš šių teisėjų
-patvirtina kolegijos pirmininku. Jeigu skundžiamą nutartį priėmė apylinkės
-teismas arba apygardos teisme vienas
-teisėjas, skundą nagrinėja apygardos teismo arba Lietuvos apeliacinio teismo vienas
-teisėjas; jeigu nutartį apygardos teisme priėmė teisėjų kolegija, skundą
-nagrinėja Lietuvos apeliacinio teismo Baudžiamųjų bylų skyriaus trijų teisėjų kolegija.
+nagrinėti teisėjui ar trijų teisėjų kolegijai
+ir vieną iš šių teisėjų patvirtina kolegijos pirmininku. Jeigu skundžiamą
+nutartį priėmė apylinkės teismas arba apygardos teisme vienas teisėjas, skundą
+nagrinėja apygardos teismo arba Lietuvos apeliacinio teismo vienas
+teisėjas; jeigu nutartį apygardos teisme
+priėmė teisėjų kolegija, skundą nagrinėja Lietuvos apeliacinio teismo
+Baudžiamųjų bylų skyriaus trijų teisėjų kolegija.
 2.
 Aukštesniajame teisme skundas turi būti išnagrinėtas per septynias dienas nuo
 skundo gavimo šiame teisme dienos.
@@ -8544,12 +8769,12 @@ padavęs asmuo. Jeigu skundą paduoda suimtas kaltinamasis ar nuteistasis, teism
 dalyvauja jų gynėjai. Šių asmenų, jeigu jiems buvo laiku pranešta apie teismo
 posėdžio dieną, neatvykimas nekliudo nagrinėti skundą.
 4. Skundą
-padavęs asmuo arba suimto kaltinamojo ar nuteistojo gynėjai gali duoti paaiškinimus
-skundo argumentams patikslinti ar papildyti, taip pat pateikti su skundu
-susijusius dokumentus.
+padavęs asmuo arba suimto kaltinamojo ar nuteistojo gynėjai gali duoti
+paaiškinimus skundo argumentams patikslinti ar papildyti, taip pat pateikti su
+skundu susijusius dokumentus.
  
-442
-straipsnis. Aukštesniojo teismo sprendimai, priimti išnagrinėjus skundą
+442 straipsnis. Aukštesniojo teismo
+sprendimai, priimti išnagrinėjus skundą
 1. Išnagrinėjęs
 skundą, aukštesniojo teismo teisėjas ar teisėjų kolegija pasitarimų kambaryje
 priima vieną iš šių nutarčių:
@@ -8559,8 +8784,8 @@ skundą ir palikti galioti teismo nutartį;
 teismo nutartį ir priimti dėl skundo naują sprendimą;
 3) pakeisti
 teismo nutartį.
-2. Apygardos teismo ar Lietuvos apeliacinio teismo nutartis
-dėl skundo įsigalioja nuo jos priėmimo dienos ir yra neskundžiama.
+2. Apygardos teismo ar Lietuvos apeliacinio teismo
+nutartis dėl skundo įsigalioja nuo jos priėmimo dienos ir yra neskundžiama.
  
 XI DALIS
 BAUDŽIAMOSIOS BYLOS ATNAUJINIMAS
@@ -8568,9 +8793,8 @@ BAUDŽIAMOSIOS BYLOS ATNAUJINIMAS
 XXXIII skyrius
 Baudžiamosios bylos atnaujinimas dėl naujai paaiškėjusių aplinkybių
  
-443
-straipsnis. Įsiteisėjusio teismo nuosprendžio ar nutarties panaikinimas dėl
-naujai paaiškėjusių aplinkybių
+443 straipsnis. Įsiteisėjusio teismo
+nuosprendžio ar nutarties panaikinimas dėl naujai paaiškėjusių aplinkybių
 1. Įsiteisėjęs
 teismo nuosprendis ar nutartis gali būti panaikinti dėl naujai paaiškėjusių
 aplinkybių, kurios nurodytos šio Kodekso 444 straipsnyje.
@@ -8579,9 +8803,8 @@ nuosprendį ar nutartį panaikina ir bylas dėl naujai paaiškėjusių aplinkybi
 atnaujina Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus trijų teisėjų
 kolegija.
  
-444
-straipsnis. Naujai paaiškėjusios aplinkybės, dėl kurių galima atnaujinti
-baudžiamąją bylą
+444 straipsnis. Naujai paaiškėjusios
+aplinkybės, dėl kurių galima atnaujinti baudžiamąją bylą
 1. Naujai
 paaiškėjusios aplinkybės, dėl kurių galima panaikinti nuosprendį ar nutartį ir
 atnaujinti baudžiamąją bylą, yra šios:
@@ -8597,29 +8820,32 @@ teismo nuosprendžiu nustatyta, kad atlikdami ikiteisminį tyrimą
 pareigūnai nusikalstamai piktnaudžiavo ir dėl to buvo priimtas neteisėtas ir
 nepagrįstas nuosprendis;
 4) kitokios
-aplinkybės, kurios teismui nebuvo ir negalėjo būti žinomos priimant nuosprendį
-ar nutartį, nors ikiteisminis tyrimas bei bylos nagrinėjimas teisme buvo
-atliktas išsamiai, ir kurios vienos ar kartu
-su anksčiau nustatytomis aplinkybėmis įrodo, kad nuteistasis yra nekaltas arba
-kad jis padarė lengvesnę ar sunkesnę nusikalstamą veiką negu ta, už kurią jis
-nuteistas, taip pat kurios įrodo, kad išteisintasis arba asmuo, kurio byla nutraukta, yra kaltas.
+aplinkybės, kurios teismui nebuvo ir negalėjo būti žinomos priimant nuosprendį ar nutartį, nors ikiteisminis tyrimas bei bylos
+nagrinėjimas teisme buvo atliktas išsamiai, ir kurios vienos ar kartu su
+anksčiau nustatytomis aplinkybėmis įrodo, kad nuteistasis yra nekaltas arba kad
+jis padarė lengvesnę ar sunkesnę
+nusikalstamą veiką negu ta, už kurią jis nuteistas, taip pat kurios įrodo, kad
+išteisintasis arba asmuo, kurio byla nutraukta, yra kaltas.
 2. Kai šio
 straipsnio 1 dalies 1–3 punktuose išvardytiems asmenims negalima priimti
-nuosprendžio, nes kaltinamasis miręs arba suėjo baudžiamosios atsakomybės
-senaties terminai, naujai paaiškėjusios aplinkybės nustatomos atliekant tyrimą šio Kodekso 446 ir 447 straipsniuose
+nuosprendžio, nes kaltinamasis miręs arba
+suėjo baudžiamosios atsakomybės senaties terminai, naujai paaiškėjusios
+aplinkybės nustatomos atliekant tyrimą šio Kodekso 446 ir 447 straipsniuose
 nustatyta tvarka.
  
-445
-straipsnis. Baudžiamosios bylos atnaujinimo dėl naujai paaiškėjusių aplinkybių
-terminai
+445 straipsnis. Baudžiamosios bylos
+atnaujinimo dėl naujai paaiškėjusių aplinkybių terminai
 Baudžiamoji
-byla dėl naujai paaiškėjusių aplinkybių gali būti atnaujinama ne vėliau kaip per vienerius metus nuo naujų aplinkybių paaiškėjimo dienos.
+byla dėl naujai paaiškėjusių aplinkybių gali būti atnaujinama ne vėliau kaip per vienerius metus nuo
+naujų aplinkybių paaiškėjimo dienos.
  
 446
 straipsnis. Proceso dėl naujai paaiškėjusių aplinkybių pradžia
 1. Pareiškimą
-dėl naujai paaiškėjusių aplinkybių prokurorui gali paduoti nuteistasis,
-išteisintasis, jų gynėjai ir atstovai pagal įstatymą, nukentėjusysis, civilinis ieškovas, civilinis atsakovas ir jų atstovai.
+dėl naujai paaiškėjusių aplinkybių
+prokurorui gali paduoti nuteistasis, išteisintasis, jų gynėjai ir atstovai
+pagal įstatymą, nukentėjusysis, civilinis ieškovas, civilinis atsakovas ir jų
+atstovai.
 2. Su apylinkių
 teismų įsiteisėjusiais nuosprendžiais susijusius asmenų pareiškimus dėl naujai
 paaiškėjusių aplinkybių nagrinėja apylinkės vyriausiasis prokuroras, su
@@ -8639,8 +8865,8 @@ Apie tokį prokuroro nutarimą pranešama suinteresuotiems asmenims ir išaiški
 teisė apskųsti nutarimą aukštesniajam prokurorui. Šio prokuroro nutarimą
 suinteresuotas asmuo gali apskųsti apylinkės teismui.
  
-447
-straipsnis. Prokuroro veiksmai baigus tirti naujai paaiškėjusias aplinkybes
+447 straipsnis. Prokuroro veiksmai
+baigus tirti naujai paaiškėjusias aplinkybes
 1. Kai naujai
 paaiškėjusios aplinkybės baigiamos tirti ir yra pagrindas atnaujinti bylą,
 prokuroras tyrimo medžiagą ir savo išvadą perduoda Lietuvos Aukščiausiojo
@@ -8649,14 +8875,13 @@ Teismo pirmininkui.
 pagrindo atnaujinti bylą, prokuroras savo nutarimu procesą nutraukia. Apie šį
 nutarimą pranešama suinteresuotiems asmenims, taip pat jiems išaiškinama teisė
 apskųsti prokuroro nutarimą. Prokuroro nutarimas per penkias dienas nuo
-pranešimo apie jį gavimo gali būti apskųstas aukštesniajam prokurorui, o aukštesniojo
-prokuroro nutarimas per tris dienas – apylinkės teismui, jeigu skundą nagrinėjo
-apygardos vyriausiasis prokuroras, arba Vilniaus apygardos teismui, jei skundą
-nagrinėjo Lietuvos Respublikos generalinis prokuroras.
+pranešimo apie jį gavimo gali būti apskųstas aukštesniajam prokurorui, o
+aukštesniojo prokuroro nutarimas per tris dienas – apylinkės teismui, jeigu
+skundą nagrinėjo apygardos vyriausiasis prokuroras, arba Vilniaus apygardos
+teismui, jei skundą nagrinėjo Lietuvos Respublikos generalinis prokuroras.
  
-448
-straipsnis. Baudžiamosios bylos atnaujinimo dėl naujai paaiškėjusių aplinkybių
-teisme tvarka
+448 straipsnis. Baudžiamosios bylos
+atnaujinimo dėl naujai paaiškėjusių aplinkybių teisme tvarka
 1. Lietuvos
 Aukščiausiajame Teisme bylos atnaujinimo dėl naujai paaiškėjusių aplinkybių
 klausimą nagrinėja ir išsprendžia Baudžiamųjų bylų skyriaus trijų teisėjų,
@@ -8667,12 +8892,12 @@ skyriaus pirmininkas. Jis paskiria pranešėją ir vieną iš teisėjų
 patvirtina kolegijos pirmininku.
 2. Teisėjų
 kolegija teismo posėdyje nagrinėja prokuroro išvadą ir tyrimo medžiagą.
-Prireikus gali būti išreikalauta byla, kurioje priimtas naikintinas nuosprendis
-ar nutartis. 
+Prireikus gali būti išreikalauta byla,
+kurioje priimtas naikintinas nuosprendis ar nutartis. 
 3. Teismo
-posėdyje dalyvauja prokuroras. Šio Kodekso
-446 straipsnio 1 dalyje nurodytam asmeniui, padavusiam pareiškimą dėl naujai
-paaiškėjusių aplinkybių, pranešama apie teismo posėdžio vietą ir laiką, tačiau
+posėdyje dalyvauja prokuroras. Šio Kodekso 446 straipsnio 1 dalyje nurodytam
+asmeniui, padavusiam pareiškimą dėl naujai paaiškėjusių aplinkybių, pranešama
+apie teismo posėdžio vietą ir laiką, tačiau
 jo neatvykimas nekliudo nagrinėti bylą.
 4. Paskirtu
 laiku kolegijos pirmininkas pradeda teismo posėdį, paskelbia, kokia prokuroro
@@ -8687,13 +8912,13 @@ esmę, nuosprendžio ar nutarties turinį.
 pranešimo paaiškinimus duoda prokuroras.
 7. Priimti
 nutarties teismas išeina į pasitarimų kambarį. Priėmęs nutartį, teismas grįžta
-į posėdžių salę ir kolegijos pirmininkas paskelbia nutarties rezoliucinę dalį
-bei išdėsto jos priėmimo argumentus. Visa motyvuota nutartis surašoma ir ją
-visa teisėjų kolegija pasirašo ne vėliau kaip per tris dienas nuo nutarties
+į posėdžių salę ir kolegijos pirmininkas paskelbia nutarties rezoliucinę dalį bei
+išdėsto jos priėmimo argumentus. Visa motyvuota nutartis surašoma ir ją visa
+teisėjų kolegija pasirašo ne vėliau kaip per tris dienas nuo nutarties
 priėmimo.
  
-449
-straipsnis. Teismo nutartys dėl prokuroro išvados baudžiamajai bylai atnaujinti
+449 straipsnis. Teismo nutartys dėl
+prokuroro išvados baudžiamajai bylai atnaujinti
 1. Teismas,
 išnagrinėjęs prokuroro išvadą ir tyrimo medžiagą, gali priimti vieną iš šių
 nutarčių:
@@ -8710,8 +8935,8 @@ perduoti ją iš naujo tirti ar iš naujo nagrinėti teisme, turi teisę sustabd
 bet kurio Lietuvos Respublikos teismo priimto nuosprendžio ar nutarties
 vykdymą.
  
-450
-straipsnis. Procesas atnaujinus baudžiamąją bylą dėl naujai paaiškėjusių aplinkybių
+450 straipsnis. Procesas atnaujinus
+baudžiamąją bylą dėl naujai paaiškėjusių aplinkybių
 Jeigu
 baudžiamoji byla atnaujinama dėl naujai paaiškėjusių aplinkybių, ikiteisminis
 tyrimas atliekamas ir nagrinėjimas teisme vyksta, taip pat paskesnis
@@ -8721,9 +8946,8 @@ XXXIV SKYRIUS
 BAUDŽIAMOSIOS BYLOS ATNAUJINIMAS DĖL AIŠKIAI NETINKAMO
 BAUDŽIAMOJO ĮSTATYMO PRITAIKYMO
  
-451
-straipsnis. Baudžiamosios bylos atnaujinimo dėl aiškiai netinkamo baudžiamojo
-įstatymo pritaikymo pagrindai
+451 straipsnis. Baudžiamosios bylos
+atnaujinimo dėl aiškiai netinkamo baudžiamojo įstatymo pritaikymo pagrindai
 Baudžiamosios bylos, kurios išnagrinėtos arba paliktos
 nenagrinėtos kasacinės instancijos teisme, taip pat kurių nuosprendžio ar
 nutarties nebuvo galima apskųsti arba jie nebuvo apskųsti kasacine tvarka,
@@ -8746,8 +8970,8 @@ atleisti nuo bausmės, nes suėjo senaties terminas;
 netinkamą amnestijos akto taikymą, nuteistąjį atleisti nuo bausmės arba ją
 sumažinti.
  
-452
-straipsnis. Teisė paduoti pareiškimą dėl baudžiamosios bylos atnaujinimo
+452 straipsnis. Teisė paduoti pareiškimą
+dėl baudžiamosios bylos atnaujinimo
 1. Paduoti
 pareiškimą Lietuvos Aukščiausiajam Teismui dėl baudžiamosios bylos atnaujinimo
 šio Kodekso 451 straipsnyje nustatytais pagrindais turi teisę nuteistasis, jo
@@ -8762,23 +8986,23 @@ bausmės prieš terminą.
 pareiškimai bei teikimai dėl baudžiamosios bylos atnaujinimo nepriimami ir
 nenagrinėjami.
  
-453
-straipsnis. Sprendimo dėl baudžiamosios bylos atnaujinimo priėmimas
+453 straipsnis. Sprendimo dėl
+baudžiamosios bylos atnaujinimo priėmimas
 1. Lietuvos Aukščiausiojo Teismo pirmininkas ar
-Baudžiamųjų bylų skyriaus pirmininkas, nustatę, kad gautas pareiškimas
-nepasirašytas, paduotas praleidus šio Kodekso 452 straipsnio 1 dalyje
-nustatytus terminus, yra pakartotinis arba jame netinkamai nurodyti šio Kodekso
-451 straipsnyje numatyti pagrindai, pareiškimą grąžina jį padavusiam asmeniui.
-Tinkamai surašytas pareiškimas gali būti vėl paduotas.
+Baudžiamųjų bylų skyriaus pirmininkas, nustatę, kad gautas pareiškimas nepasirašytas,
+paduotas praleidus šio Kodekso 452 straipsnio 1 dalyje nustatytus terminus, yra
+pakartotinis arba jame netinkamai nurodyti šio Kodekso 451 straipsnyje numatyti
+pagrindai, pareiškimą grąžina jį padavusiam asmeniui. Tinkamai surašytas
+pareiškimas gali būti vėl paduotas.
 2. Jeigu pareiškimas atitinka šio Kodekso
 reikalavimus, Lietuvos Aukščiausiojo Teismo pirmininkas ar Baudžiamųjų bylų
 skyriaus pirmininkas priima nutartį perduoti pareiškimą Baudžiamųjų bylų
 skyriaus teisėjų kolegijai.
-3. Lietuvos
-Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus trijų teisėjų kolegija per vieną
-mėnesį nuo šio straipsnio 2 dalyje nurodytos nutarties priėmimo dienos,
-o kai yra pagrindas manyti, jog nuteistąjį reikia paleisti iš laisvės atėmimo
-vietos, – nedelsdama nutartimi išsprendžia klausimą, ar reikia baudžiamąją bylą
+3. Lietuvos Aukščiausiojo
+Teismo Baudžiamųjų bylų skyriaus trijų teisėjų kolegija per vieną mėnesį nuo
+šio straipsnio 2 dalyje nurodytos nutarties priėmimo dienos, o kai yra
+pagrindas manyti, jog nuteistąjį reikia paleisti iš laisvės atėmimo vietos, –
+nedelsdama nutartimi išsprendžia klausimą, ar reikia baudžiamąją bylą
 atnaujinti.
 4. Atnaujinta
 byla perduodama nagrinėti:
@@ -8803,9 +9027,9 @@ toje byloje priimtų nuosprendžių ir nutarčių vykdymą.
 straipsnis. Atnaujintos baudžiamosios bylos nagrinėjimas 
 1. Nagrinėjant
 atnaujintą baudžiamąją bylą, teismo posėdyje dalyvauja prokuroras ir gynėjas. Į
-teismo posėdį gali būti iškviesti nuteistasis, jo atstovas pagal įstatymą,
-nukentėjusysis ir jo atstovas. Šių asmenų, jei jiems buvo tinkamai pranešta
-apie bylos nagrinėjimo vietą ir laiką, neatvykimas nekliudo išnagrinėti bylą.
+teismo posėdį gali būti iškviesti nuteistasis, jo atstovas pagal įstatymą, nukentėjusysis
+ir jo atstovas. Šių asmenų, jei jiems buvo tinkamai pranešta apie bylos
+nagrinėjimo vietą ir laiką, neatvykimas nekliudo išnagrinėti bylą.
 2. Bylos
 nagrinėjimo pradžioje kolegijos pirmininkas paklausia bylos nagrinėjimo
 dalyvių, ar šie nereiškia nušalinimų teisėjams, prokurorui, gynėjui, vertėjui
@@ -8825,8 +9049,8 @@ Visa motyvuota nutartis surašoma ne vėliau kaip per tris dienas. Jeigu
 nuteistasis turi būti paleistas iš laisvės atėmimo vietos, visa motyvuota
 nutartis turi būti surašyta ir perduota vykdyti jos priėmimo dieną.
 6. Trijų teisėjų
-kolegijos ir išplėstinės septynių teisėjų kolegijos priimtą nutartį pasirašo
-visi teisėjai, o Baudžiamųjų bylų skyriaus plenarinės sesijos priimtą nutartį –
+kolegijos ir išplėstinės septynių teisėjų kolegijos priimtą nutartį pasirašo visi
+teisėjai, o Baudžiamųjų bylų skyriaus plenarinės sesijos priimtą nutartį –
 plenarinės sesijos pirmininkas ir pranešėjas.
 7. Teismo
 posėdyje rašomas teismo posėdžio protokolas.
@@ -8850,12 +9074,11 @@ nutartis (su pakeitimais arba be pakeitimų);
 teismų nuosprendžius ar nutartis.
  
 XXXV SKYRIUS
-BAUDŽIAMOSIOS BYLOS ATNAUJINIMAS DĖL
-EUROPOS ŽMOGAUS TEISIŲ TEISMO SPRENDIMO
+BAUDŽIAMOSIOS BYLOS ATNAUJINIMAS DĖL EUROPOS ŽMOGAUS TEISIŲ TEISMO
+SPRENDIMO
  
-456
-straipsnis. Baudžiamosios bylos atnaujinimo dėl Europos žmogaus teisių teismo
-sprendimo pagrindas
+456 straipsnis. Baudžiamosios bylos
+atnaujinimo dėl Europos žmogaus teisių teismo sprendimo pagrindas
 Lietuvos Respublikos teismų išnagrinėtos baudžiamosios
 bylos gali būti atnaujintos, kai Europos žmogaus teisių teismas pripažįsta, kad
 sprendimas nuteisti asmenį yra priimtas pažeidžiant Žmogaus teisių ir
@@ -8875,8 +9098,8 @@ atstovas ar Lietuvos Respublikos generalinis prokuroras.
 Aukščiausiojo Teismo pirmininkas teikimu gali reikalauti atnaujinti bylą ir tuo
 atveju, kai nėra šio straipsnio 1 dalyje nurodyto prašymo.
  
-458
-straipsnis. Prašymo ar teikimo dėl baudžiamosios bylos atnaujinimo padavimas
+458 straipsnis. Prašymo ar teikimo dėl
+baudžiamosios bylos atnaujinimo padavimas
 1. Prašymas ar
 teikimas atnaujinti baudžiamąją bylą kartu su Europos žmogaus teisių teismo
 galutiniu sprendimu ir jo vertimu į lietuvių kalbą paduodamas Lietuvos
@@ -8891,19 +9114,18 @@ Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
  
-459
-straipsnis. Sprendimas dėl prašymo ar teikimo priimtinumo ir baudžiamosios
-bylos atnaujinimo 
+459 straipsnis. Sprendimas dėl prašymo
+ar teikimo priimtinumo ir baudžiamosios bylos atnaujinimo 
 1. Lietuvos Aukščiausiojo Teismo pirmininkas
 patikrina, ar prašymas dėl bylos atnaujinimo pateiktas nepažeidžiant šio
 Kodekso 457 straipsnio 1 dalies ir 458 straipsnio reikalavimų, taip pat ar nėra
-atnaujintas bylos nagrinėjimas Europos žmogaus teisių teisme. Jeigu
-tokių pažeidimų yra arba bylos nagrinėjimas Europos žmogaus teisių teisme
+atnaujintas bylos nagrinėjimas Europos žmogaus teisių teisme. Jeigu tokių
+pažeidimų yra arba bylos nagrinėjimas Europos žmogaus teisių teisme
 atnaujintas, Lietuvos Aukščiausiojo Teismo pirmininkas prašymą grąžina jo
 pateikėjui. Tinkamai pateiktas prašymas ar teikimas perduodamas trijų teisėjų
 kolegijai spręsti dėl jo priimtinumo pagal šio Kodekso 456 straipsnio
-reikalavimus. Teisėjų kolegija dėl prašymo ar teikimo priimtinumo nusprendžia ne
-vėliau kaip per vieną mėnesį nuo šio prašymo ar teikimo perdavimo kolegijai
+reikalavimus. Teisėjų kolegija dėl prašymo ar teikimo priimtinumo nusprendžia
+ne vėliau kaip per vieną mėnesį nuo šio prašymo ar teikimo perdavimo kolegijai
 dienos.
 2. Teisėjų kolegija, išnagrinėjusi prašymo ar teikimo
 dėl baudžiamosios bylos atnaujinimo priimtinumo klausimą, priima vieną iš šių
@@ -8924,8 +9146,8 @@ baudžiamąją bylą;
 Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus plenarinei sesijai, jeigu
 byla buvo nagrinėta kasacine tvarka.
 4. Teisėjų
-kolegija, nusprendusi atnaujinti baudžiamąją bylą, ta pačia nutartimi gali sustabdyti
-toje byloje priimtų nuosprendžių ir nutarčių vykdymą.
+kolegija, nusprendusi atnaujinti baudžiamąją bylą, ta pačia nutartimi gali
+sustabdyti toje byloje priimtų nuosprendžių ir nutarčių vykdymą.
 Straipsnio pakeitimai:
 Nr. IX-1496,
 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
@@ -8933,9 +9155,9 @@ Nr. IX-1496,
 460
 straipsnis. Atnaujintos baudžiamosios bylos nagrinėjimas 
 1. Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų
-skyriaus teisėjų kolegijos ar plenarinės sesijos posėdis atnaujintai
-baudžiamajai bylai nagrinėti surengiamas per kiek įmanoma trumpesnį laiką nuo
-nutarties atnaujinti baudžiamąją bylą priėmimo. 
+skyriaus teisėjų kolegijos ar plenarinės sesijos posėdis atnaujintai baudžiamajai
+bylai nagrinėti surengiamas per kiek įmanoma trumpesnį laiką nuo nutarties
+atnaujinti baudžiamąją bylą priėmimo. 
 2. Teismo
 posėdyje turi teisę dalyvauti asmuo, pateikęs prašymą atnaujinti baudžiamąją
 bylą. Posėdyje dalyvauja prokuroras ir gynėjas. Apie posėdį pranešama
@@ -8967,8 +9189,8 @@ atėmimo vietos, nutartis perduodama vykdyti jos priėmimo dieną.
 7. Teismo
 posėdyje rašomas teismo posėdžio protokolas. 
  
-461
-straipsnis. Teismo, išnagrinėjusio atnaujintą baudžiamąją bylą, nutartys
+461 straipsnis. Teismo, išnagrinėjusio
+atnaujintą baudžiamąją bylą, nutartys
 1. Teismas, išnagrinėjęs atnaujintą baudžiamąją bylą,
 priima vieną iš šių nutarčių:
 1) atmesti prašymą ar teikimą atnaujinti baudžiamąją
@@ -8991,6 +9213,23 @@ išnagrinėjęs atnaujintą baudžiamąją bylą, gali teismų nuosprendžius ar
 panaikinti iš dalies.
 3. Šiame
 straipsnyje nurodytos teismo nutartys yra galutinės ir neskundžiamos.
+ 
+ 
+Lietuvos Respublikos 
+                                                                                                baudžiamojo
+proceso kodekso 
+                                                                                                priedas
+ 
+ĮGYVENDINAMI
+EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+2002 m. birželio 13 d. Tarybos
+pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio ir valstybių narių
+tarpusavio perdavimo procedūrų.
+Kodeksas
+papildytas priedu:
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
  
 ____________________
  
@@ -9039,8 +9278,8 @@ m. gegužės 1 d.
 3.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-1637, 2003-06-19,
-Žin., 2003, Nr. 68-3070 (2003-07-09)
+Nr. IX-1637,
+2003-06-19, Žin., 2003, Nr. 68-3070 (2003-07-09)
 BAUDŽIAMOJO PROCESO KODEKSO 151,
 168, 186, 276, 407, 409 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -9052,11 +9291,23 @@ Nr. IX-1993,
 BAUDŽIAMOJO PROCESO KODEKSO 154
 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
+6.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-2170,
+2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
+BAUDŽIAMOJO PROCESO KODEKSO 1,
+51, 70, 72, 73, 74, 75, 76, 122, 437 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI
+KODEKSO PAPILDYMO 17(1), 69(1), 71(1), 77(1) STRAIPSNIAIS IR PRIEDU ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą
+dienos.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-02-18)
+Aušrinė Trapinskienė (2004-05-11)
                  
 autrap@lrs.lt
