@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.890D3838A27D"
 
 # Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymas
 
-Suvestinė redakcija nuo 1999-06-23 iki 2002-04-25
+Suvestinė redakcija nuo 2002-04-26 iki 2008-06-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 30-712, i. k. 0971010ISTAVIII-157
  
+Nauja redakcija nuo 2002-04-26:
+Nr. IX-836, 2002-04-04, Žin. 2002, Nr. 43-1601 (2002-04-26), i. k. 1021010ISTA00IX-836
  
-LIETUVOS RESPUBLIKOS
-ŽMOGAUS MIRTIES NUSTATYMO IR KRITINIŲ BŪKLIŲ
-Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS ŽMOGAUS MIRTIES NUSTATYMO IR KRITINIŲ BŪKLIŲ Į S T A T Y M A S
  
 1997 m. kovo 25 d. Nr. VIII-157
 Vilnius
@@ -35,7 +35,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas reglamentuoja žmogaus kritinių būklių ir mirties fakto nustatymo bei mirties registravimo pagrindus, sąlygas ir tvarką, taip pat sveikatos priežiūros darbuotojų bei kitų asmenų teises ir pareigas po to, kai yra nustatyta žmogaus kritinė būklė arba mirtis.
+Šis Įstatymas reglamentuoja žmogaus kritinių būklių, mirties momento ir fakto nustatymo bei medicininio mirties liudijimo išdavimo sąlygas ir tvarką, taip pat sveikatos priežiūros darbuotojų bei kitų asmenų teises ir pareigas po to, kai yra nustatyta žmogaus kritinė būklė arba mirtis.
  
 
 
@@ -43,10 +43,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
-1. Mirtis – negrįžtama žmogaus organizmo, kaip visumos, žūtis.
+1. Gaivinimas – medicinos pagalbos priemonės, kuriomis siekiama atnaujinti sutrikusius arba išnykusius kvėpavimą, kraujotaką, galvos smegenų veiklą ir kitas gyvybiškai svarbias žmogaus organizmo funkcijas gyvybei pavojingų būklių atvejais.
 
 
 
@@ -56,12 +56,27 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Smegenų mirtis – negrįžtama visų galvos smegenų struktūrų veiklos baigtis, nors kai kurie žmogaus organai bei organų sistemos dar veikia.
+3. Medicininis mirties liudijimas – gydytojo išduodamas dokumentas, patvirtinantis asmens mirties faktą ir būtinas mirčiai užregistruoti.
 
 
 
 
-4. Gaivinimas – medicinos pagalbos priemonės, kuriomis siekiama atnaujinti sutrikusius arba išnykusius kvėpavimą, kraujotaką, galvos smegenų veiklą ir kitas gyvybiškai svarbias žmogaus organizmo funkcijas gyvybei pavojingų būklių atvejais.
+4. Mirties faktas – faktas, nustatomas negrįžtamai nutrūkus žmogaus kraujotakai ir kvėpavimui arba įvykus žmogaus smegenų mirčiai.
+
+
+
+
+5. Mirties momentas – laikas, kai negrįžtamai nutrūksta žmogaus kraujotaka ir kvėpavimas arba kai negrįžtamai nutrūksta visų žmogaus galvos smegenų struktūrų veikla.
+
+
+
+
+6. Mirtis – negrįžtama žmogaus organizmo, kaip visumos, žūtis.
+
+
+
+
+7. Smegenų mirtis – negrįžtama visų žmogaus galvos smegenų struktūrų veiklos baigtis, nors kai kurie jo organai bei organų sistemos dar veikia.
  
 
 
@@ -71,7 +86,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-ANTRASIS SKIRSNIS
+Antrasis skirsnis
 KRITINIŲ BŪKLIŲ IR MIRTIES FAKTO NUSTATYMAS
  
 
@@ -92,7 +107,7 @@ Kritinę būklę nustato:
 
 
 
-3) Lietuvos Respublikos Vyriausybės nustatyto sąrašo profesijų, darbų ir veiklos sričių darbuotojai, transporto priemonių vairuotojai mėgėjai, buvę kartu su nukentėjusiaisiais ar ligoniais nelaimingų atsitikimų ar ūmaus gyvybei pavojingo susirgimo vietose ir privalantys suteikti jiems pirmąją pagalbą.
+3) Vyriausybės nustatyto sąrašo profesijų, darbų ir veiklos sričių darbuotojai, transporto priemonių vairuotojai mėgėjai, buvę kartu su nukentėjusiaisiais ar ligoniais nelaimingų atsitikimų ar ūmaus gyvybei pavojingo susirgimo vietose ir privalantys suteikti jiems pirmąją pagalbą.
  
 
 
@@ -102,13 +117,13 @@ Kritinę būklę nustato:
 
 
 
-4 straipsnis. Teisė nustatyti mirties faktą
+4 straipsnis. Teisė nustatyti asmens mirties faktą
 
 
-Mirties faktą nustato:
+Asmens mirties faktą nustato:
 
 
-1) mirusįjį gydęs gydytojas;
+1) asmens sveikatos priežiūros specialybių gydytojai;
 
 
 
@@ -123,12 +138,12 @@ Mirties faktą nustato:
 
 
 
-4) skubios nestacionarinės medicinos pagalbos įstaigų gydytojai ir slaugos specialistai;
+4) gydytojų konsiliumas;
 
 
 
 
-5) gydytojų konsiliumas;
+5) skubios nestacionarinės medicinos pagalbos įstaigų slaugos specialistai;
 
 
 
@@ -143,25 +158,15 @@ Mirties faktą nustato:
 
 
 
-5 straipsnis. Mirties kriterijai
+5 straipsnis. Negrįžtamo kraujotakos ir kvėpavimo nutrūkimo nustatymas 
 
 
-1. Mirties faktas nustatomas negrįžtamai nutrūkus žmogaus kraujotakai ir kvėpavimui arba nustačius žmogaus smegenų mirtį.
-
-
-
-
-2. Nutrūkusios kraujotakos ir kvėpavimo negrįžtamumo bei smegenų mirties nustatymo kriterijus tvirtina Sveikatos apsaugos ministerija.
+1. Negrįžtamai nutrūkusi kraujotaka ir kvėpavimas yra nustatomi esant neabejotiniems mirties požymiams. Jei nėra neabejotinų mirties požymių, negrįžtamai nutrūkusi kraujotaka ir kvėpavimas vertinami pagal gaivinamojo kardiovaskulinės sistemos atsaką į gaivinimo veiksmus. 
 
 
 
 
-
-
-6 straipsnis. Mirties laikas
-
-
-Mirties laikas yra momentas, kai negrįžtamai nutrūksta žmogaus kraujotaka ir kvėpavimas arba nustatoma žmogaus smegenų mirtis.
+2. Neabejotinų mirties požymių sąrašą bei gaivinimo standartus nustato Sveikatos apsaugos ministerija.
  
 
 
@@ -169,10 +174,15 @@ Mirties laikas yra momentas, kai negrįžtamai nutrūksta žmogaus kraujotaka ir
 
 
 
-7 straipsnis. Smegenų mirties kriterijai
+6 straipsnis. Smegenų mirties nustatymas
 
 
-Smegenų mirties faktas nustatomas pagrįstais tyrimo metodais įrodžius, jog visų žmogaus galvos smegenų struktūrų veikla yra negrįžtamai nutrūkusi, o žmogaus kraujotaka ir kvėpavimas išlieka tik palaikomi dirbtinių priemonių.
+1. Smegenų mirtis nustatoma pagrįstais tyrimų metodais įrodžius, jog visų žmogaus galvos smegenų struktūrų veikla yra negrįžtamai nutrūkusi, o žmogaus kraujotaka ir kvėpavimas išlieka tik palaikomi dirbtinių priemonių.
+
+
+
+
+2. Negrįžtamai nutrūkusios visų žmogaus galvos smegenų struktūrų veiklos kriterijus, jų nustatymo metodiką tvirtina Sveikatos apsaugos ministerija.
  
 
 
@@ -180,20 +190,20 @@ Smegenų mirties faktas nustatomas pagrįstais tyrimo metodais įrodžius, jog v
 
 
 
-8 straipsnis. Smegenų mirties fakto nustatymo sąlygos ir tvarka
+7 straipsnis. Smegenų mirties nustatymo sąlygos ir tvarka 
 
 
-1. Smegenų mirties faktas nustatomas tik stacionarinėje asmens sveikatos priežiūros įstaigoje.
-
-
-
-
-2. Smegenų mirties faktą nustato konsiliumas iš ne mažiau kaip trijų gydytojų, tarp kurių turi būti neurologas arba neurochirurgas.
+1. Smegenų mirtis nustatoma tik stacionarinėje asmens sveikatos priežiūros įstaigoje.
 
 
 
 
-3. Nustatant smegenų mirties faktą neturi teisės dalyvauti chirurgai transplantologai ir kiti asmenys, dėl kokios nors priežasties suinteresuoti mirštančiojo organų bei audinių transplantavimu arba nors kiek su transplantavimu susiję.
+2. Smegenų mirtį nustato konsiliumas iš ne mažiau kaip trijų gydytojų, iš kurių vienas turi būti neurologas arba neurochirurgas.
+
+
+
+
+3. Nustatant smegenų mirtį, neturi teisės dalyvauti chirurgai transplantologai ir kiti asmenys, dėl kokios nors priežasties suinteresuoti mirštančiojo organų bei audinių transplantavimu arba nors kiek su transplantavimu susiję.
  
 
 
@@ -201,15 +211,20 @@ Smegenų mirties faktas nustatomas pagrįstais tyrimo metodais įrodžius, jog v
 
 
 
-9 straipsnis. Smegenų mirties nustatymo pasekmės
+8 straipsnis. Smegenų mirties nustatymo pasekmės
 
 
-1. Nustačius smegenų mirties faktą, visos žmogui taikomos medicinos pagalbos priemonės nutraukiamos, jei mirusiojo organų bei audinių nenumatoma panaudoti transplantacijai.
+1. Nustačius smegenų mirtį, visos žmogui taikomos medicinos pagalbos priemonės nutraukiamos, jei mirusiojo organų bei audinių nenumatoma panaudoti transplantacijai.
 
 
 
 
-2. Jei mirusiojo organus bei audinius numatoma panaudoti transplantacijai, jam leidžiama taikyti tik tas medicinos pagalbos priemones, kuriomis stengiamasi užtikrinti organų bei audinių tinkamumą persodinti į kito žmogaus kūną.
+2. Apie asmens, kurio audiniai ir (ar) organai gali būti panaudoti transplantacijai, smegenų mirties faktą turi būti pranešama Nacionaliniam organų transplantacijos biurui.
+
+
+
+
+3. Jei mirusiojo organus bei audinius numatoma panaudoti transplantacijai, leidžiama jam taikyti tik tas medicinos pagalbos priemones, kuriomis stengiamasi užtikrinti organų bei audinių tinkamumą persodinti į kito žmogaus kūną.
  
 
 
@@ -219,20 +234,20 @@ Smegenų mirties faktas nustatomas pagrįstais tyrimo metodais įrodžius, jog v
 
 
 
-TREČIASIS SKIRSNIS
-KRITINĘ BŪKLĘ IR MIRTĮ NUSTAČIUSIŲ ASMENŲ PAREIGOS
+Trečiasis skirsnis
+KRITINĘ BŪKLĘ IR MIRTĮ NUSTATANČIŲ ASMENŲ TEISĖS IR PAREIGOS
  
 
 
-10 straipsnis. Kritinę būklę nustačiusio asmens pareigos
+9 straipsnis. Kritinę būklę nustačiusio asmens pareigos
 
 
-1. Kritinę būklę nustatęs asmuo privalo nedelsdamas suteikti žmogui pirmąją medicinos pagalbą ir imtis kitų galimų priemonių žmogaus gyvybei išsaugoti.
+1. Kritinę būklę nustatęs asmuo privalo nedelsdamas suteikti žmogui pirmąją medicinos pagalbą ir imtis kitų galimų priemonių žmogaus gyvybei išsaugoti. 
 
 
 
 
-2. Sveikatos priežiūros ir farmacijos specialistų kompetenciją teikti pirmąją medicinos pagalbą nustato Sveikatos apsaugos ministerija. Lietuvos Respublikos Vyriausybės nustatyto sąrašo profesijų, darbų ir veiklos sričių darbuotojų bei transporto priemonių vairuotojų mėgėjų, buvusių kartu su nukentėjusiaisiais ar ligoniais nelaimingų atsitikimų ar ūmaus gyvybei pavojingo susirgimo vietose ir privalančių suteikti jiems pirmąją pagalbą, taip pat įstatymų nustatytų kitų asmenų kompetenciją šiais klausimais nustato Vyriausybė.
+2. Sveikatos priežiūros ir farmacijos specialistų kompetenciją teikti pirmąją medicinos pagalbą nustato Sveikatos apsaugos ministerija. Vyriausybės nustatyto sąrašo profesijų, darbų ir veiklos sričių darbuotojų bei transporto priemonių vairuotojų mėgėjų, buvusių kartu su nukentėjusiaisiais ar ligoniais nelaimingų atsitikimų ar ūmaus gyvybei pavojingo susirgimo vietose ir privalančių suteikti jiems pirmąją pagalbą, taip pat įstatymų nustatytų kitų asmenų kompetenciją šiais klausimais nustato Vyriausybė.
  
 
 
@@ -240,36 +255,30 @@ KRITINĘ BŪKLĘ IR MIRTĮ NUSTAČIUSIŲ ASMENŲ PAREIGOS
 
 
 
-11 straipsnis. Teisė nepradėti gaivinimo
+10 straipsnis. Teisė nepradėti gaivinimo
 
 
 1. Leidžiama nepradėti gaivinimo:
 
 
-1) kai yra neabejotinų mirties požymių: negrįžtamai nutrūkusi kraujotaka ir kvėpavimas, lavoniškas atšalimas, yra lavondėmių, lavoniškas sustingimas ir kitų ankstyvųjų bei vėlyvųjų lavoniškų reiškinių;
+1) jeigu yra neabejotinų mirties požymių: negrįžtamai nutrūkusi kraujotaka ir kvėpavimas, lavoniškas atšalimas, lavoniškas sustingimas, yra lavondėmių ir kitų ankstyvųjų bei vėlyvųjų lavoniškų reiškinių;
 
 
 
 
-2) kai gydytojų konsiliumas nusprendė, kad sunki lėtinė liga neabejotinai sukėlė negrįžtamą organizmo pakenkimą, dėl kurio jis negali funkcionuoti; 
-Straipsnio punkto pakeitimai:
-Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
- 
+2) jeigu pacientas įstatymų nustatyta tvarka yra pareiškęs nesutikimą, kad būtų gaivinamas, ir yra gydytojų konsiliumo pritarimas;
 
 
 
 
-3) jeigu pacientas įstatymų nustatyta tvarka yra pareiškęs nesutikimą, kad būtų gaivinamas, ir yra gydytojų konsiliumo pritarimas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
- 
+3) tais atvejais, kai gaivinimas kelia tiesioginę grėsmę kritinę būklę nustačiusio asmens gyvybei.
 
 
 
 
-4) tais atvejais, kai gaivinimas kelia tiesioginę grėsmę kritinę būklę nustačiusio asmens gyvybei.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
+
+
+2. Jeigu dėl šio straipsnio 1 dalies 1 ir 2 punktuose nustatytų sąlygų yra abejonių, kritinę būklę nustatęs asmuo privalo pradėti gaivinimą. 
  
 
 
@@ -277,28 +286,18 @@ Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010I
 
 
 
-2. Jeigu dėl šio straipsnio 1 dalies 1, 2, 3 punktuose nustatytų sąlygų yra abejonių, kritinę būklę nustatęs asmuo privalo pradėti gaivinimą. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
- 
-
-
-
-
-
-
-12 straipsnis. Teisė nutraukti gaivinimą
+11 straipsnis. Teisė nutraukti gaivinimą
 
 
 Leidžiama nutraukti gaivinimą:
 
 
-1) gaivinimo metu atsinaujinus gyvybiškai svarbioms organizmo funkcijoms;
+1) gaivinimo metu atsinaujinus gyvybiškai svarbioms organizmo funkcijoms; 
 
 
 
 
-2) gaivinimo metu išryškėjus šiame įstatyme numatytiems neabejotiniems mirties požymiams;
+2) gaivinimo metu išryškėjus šiame Įstatyme numatytiems neabejotiniems mirties požymiams;
 
 
 
@@ -318,28 +317,15 @@ Leidžiama nutraukti gaivinimą:
 
 
 
-13 straipsnis. Sąlygos, kurioms esant asmuo gali būti negaivinamas
+12 straipsnis. Asmens mirties faktą nustačiusio asmens pareigos
 
 
-Gydytojų konsiliumui nusprendus, kad nėra pagrindo abejoti, jog mirštančiojo organizmas yra negrįžtamai pakenktas ligos ir dėl to negali funkcionuoti, asmuo gali būti negaivinamas. 
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
- 
+1. Asmens mirties faktą nustatęs asmuo privalo nedelsdamas nustatyta tvarka pažymėti tai medicinos dokumentuose.
 
 
 
 
-14 straipsnis. Mirties faktą nustačiusio asmens pareigos
-
-
-1. Mirties faktą nustatęs asmuo privalo nedelsdamas nustatyta tvarka pažymėti tai medicinos dokumentuose.
-
-
-
-
-2. Žmogaus mirties faktą nustatęs asmuo privalo nedelsdamas pranešti apie tai policijai, jeigu yra bent viena iš šių sąlygų:
+2. Asmens mirties faktą nustatęs asmuo privalo nedelsdamas pranešti apie tai policijai, jeigu yra bent viena iš šių sąlygų:
 
 
 1) nustatyta arba įtariama smurtinė mirtis;
@@ -357,7 +343,7 @@ Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010I
 
 
 
-4) neaiški mirties priežastis, kai mirtis įvyko už stacionarinės asmens sveikatos priežiūros įstaigos ribų;
+4) neaiški mirties priežastis, jei mirtis įvyko už stacionarinės asmens sveikatos priežiūros įstaigos ribų;
 
 
 
@@ -372,17 +358,17 @@ Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010I
 
 
 
-7) nustačius arba įtarus, jog mirtis įvyko nuo gamybinės traumos, apsinuodijimo, profesinio susirgimo, ypač pavojingos infekcinės ligos;
+7) nustatyta arba įtariama, jog mirtis įvyko nuo gamybinės traumos, apsinuodijimo, profesinės ligos, ypač pavojingos infekcinės ligos;
 
 
 
 
-8) jei mirusiajam jo paskutinio susirgimo metu nebuvo teikiama medicinos pagalba;
+8) mirusiajam jo paskutinio susirgimo metu nebuvo teikiama medicinos pagalba;
 
 
 
 
-9) jeigu reikalauja mirusiojo teisėtas atstovas;
+9) to reikalauja mirusiojo teisėtas atstovas;
 
 
 
@@ -394,9 +380,7 @@ Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010I
 
 
 
-3. Apie žmogaus mirties faktą turi būti pranešta jo giminėms ar artimiesiems įstatymų nustatyta tvarka.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
+3. Apie asmens mirties faktą įstatymų nustatyta tvarka turi būti pranešta jo giminėms ar artimiesiems.
  
 
 
@@ -406,44 +390,18 @@ Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010I
 
 
 
-KETVIRTASIS SKIRSNIS
-MIRTIES REGISTRAVIMAS
+Ketvirtasis skirsnis
+MEDICININIO MIRTIES LIUDIJIMO IŠDAVIMO TVARKA
  
 
 
-15 straipsnis. Teisiniai mirties registravimo pagrindai
+13 straipsnis. Medicininis mirties liudijimas
 
 
-Teisiniai mirties registravimo pagrindai yra:
+1. Medicininį mirties liudijimą išduoda:
 
 
-1) medicininis mirties liudijimas;
-
-
-
-
-2) įsiteisėjęs teismo sprendimas paskelbti asmenį mirusiu.
- 
-
-
-
-
-
-
-
-
-16 straipsnis. Medicininis mirties liudijimas
-
-
-1. Medicininis mirties liudijimas yra gydytojo išduodamas dokumentas, patvirtinantis žmogaus mirties faktą ir būtinas mirčiai užregistruoti.
-
-
-
-
-2. Medicininį mirties liudijimą išduoda:
-
-
-1) mirčiai įvykus ne stacionarinėje asmens sveikatos priežiūros įstaigoje - ambulatorinę medicinos pagalbą teikiantis gydytojas;
+1) mirčiai įvykus ne stacionarinėje asmens sveikatos priežiūros įstaigoje, – ambulatorinę medicinos pagalbą teikiantis gydytojas;
 
 
 
@@ -458,19 +416,19 @@ Teisiniai mirties registravimo pagrindai yra:
 
 
 
-4) įstatymų nustatytais atvejais - stacionarinės asmens sveikatos priežiūros įstaigos gydytojas, nustatęs žmogaus mirties faktą.
+4) įstatymų nustatytais atvejais – stacionarinės asmens sveikatos priežiūros įstaigos gydytojas, nustatęs asmens mirties faktą.
 
 
 
 
 
 
-3. Gali būti išduodamas laikinas arba galutinis medicininis mirties liudijimas.
+2. Gali būti išduodamas laikinas arba galutinis medicininis mirties liudijimas.
 
 
 
 
-4. Laikinas medicininis mirties liudijimas išduodamas:
+3. Laikinas medicininis mirties liudijimas išduodamas:
 
 
 1) kai medicininio mirties liudijimo išrašymo metu nežinoma mirties priežastis;
@@ -485,12 +443,12 @@ Teisiniai mirties registravimo pagrindai yra:
 
 
 
-5. Laikinas medicininis mirties liudijimas ne vėliau kaip per vieną mėnesį turi būti pakeistas galutiniu.
+4. Laikinas medicininis mirties liudijimas ne vėliau kaip per vieną mėnesį turi būti pakeistas galutiniu.
 
 
 
 
-6. Medicininio mirties liudijimo išdavimo tvarką nustato Sveikatos apsaugos ministerija.
+5. Medicininio mirties liudijimo išdavimo tvarką nustato Sveikatos apsaugos ministerija.
  
 
 
@@ -498,15 +456,15 @@ Teisiniai mirties registravimo pagrindai yra:
 
 
 
-17 straipsnis. Medicininio mirties liudijimo rekvizitai
+14 straipsnis. Medicininio mirties liudijimo rekvizitai
 
 
-1. Medicininį mirties liudijimą sudaro dvi dalys, kuriose įrašyta informacija turi būti vienoda.
+1. Medicininį mirties liudijimą sudaro dvi dalys. Jose įrašyta informacija turi būti vienoda.
 
 
 
 
-2. Medicininiame mirties liudijime turi būti nurodyti šie duomenys:
+2. Medicininiame mirties liudijime turi būti nurodomi šie mirusiojo duomenys:
 
 
 1) vardas ir pavardė;
@@ -544,32 +502,24 @@ Teisiniai mirties registravimo pagrindai yra:
 
 
 
-8) mirties liudijimą išdavusio gydytojo pareigos, vardas, pavardė ir parašas.
+8) medicininį mirties liudijimą išdavusio gydytojo pareigos, vardas, pavardė ir parašas.
 
 
 
 
 
 
-3. Mirusiojo, kurio asmens tapatybė nenustatyta, medicininiame mirties liudijime gali būti neįrašomi šio straipsnio 2 dalies 1-6 punktuose nurodyti duomenys.
+3. Mirusiojo, kurio asmens tapatybė nenustatyta, medicininiame mirties liudijime gali būti neįrašomi šio straipsnio 2 dalies 1–6 punktuose nurodyti duomenys.
 
 
 
 
-4. Kūdikio medicininiame mirties liudijime turi būti nurodyta, ar jis gimė išnešiotas, taip pat mirusio kūdikio svoris jam gimus.
+4. Kūdikio medicininiame mirties liudijime turi būti nurodyta, ar jis gimė išnešiotas, taip pat mirusio kūdikio svoris jam gimus. 
 
 
 
 
-5. Neteko galios nuo 1999-06-23
-Straipsnio dalies naikinimas:
-Nr. VIII-1214, 1999-06-08, Žin. 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
- 
-
-
-
-
-6. Medicininio mirties liudijimo formą nustato Sveikatos apsaugos ministerija.
+5. Medicininio mirties liudijimo formą nustato Sveikatos apsaugos ministerija.
  
 
 
@@ -577,108 +527,20 @@ Nr. VIII-1214, 1999-06-08, Žin. 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010IS
 
 
 
-18 straipsnis. Medicininio mirties liudijimo išdavimas
+15 straipsnis. Medicininio mirties liudijimo išdavimas
 
 
-1. Medicininį mirties liudijimą išduoda asmens sveikatos priežiūros įstaigos. Jis išduodamas asmenims, pateikusiems asmens dokumentus ir pasirašiusiems liudijimo dalį, kuri saugoma liudijimą išdavusioje įstaigoje Sveikatos apsaugos ministerijos nustatyta tvarka.
+1. Medicininį mirties liudijimą išduoda asmens sveikatos priežiūros įstaigos. Jis išduodamas asmenims, pateikusiems asmens dokumentus ir pasirašiusiems liudijimo dalį. Pasirašyta liudijimo dalis saugoma liudijimą išdavusioje įstaigoje Sveikatos apsaugos ministerijos nustatyta tvarka.
 
 
 
 
-2. Medicininis mirties liudijimas išduodamas tą pačią dieną, kai yra dėl jo kreipiamasi į asmens sveikatos priežiūros įstaigą.
+2. Medicininis mirties liudijimas išduodamas tą pačią dieną, kurią dėl jo kreipiamasi į asmens sveikatos priežiūros įstaigą.
 
 
 
 
-3. Medicininius mirties liudijimus išduodančios sveikatos priežiūros įstaigos privalo užtikrinti liudijimų išdavimą poilsio ir švenčių dienomis.
- 
-
-
-
-
-
-
-19 straipsnis. Mirties registravimo subjektai
-
-
-1. Mirtį registruoja mirusiojo nuolatinės gyvenamosios vietos civilinės metrikacijos įstaigos, taip pat savivaldybių seniūnijų kaimo vietovėse seniūnai bei Lietuvos Respublikos konsulinės įstaigos.
-
-
-
-
-2. Jeigu nėra galimybių nustatyti mirusiojo nuolatinę gyvenamąją vietą, mirtį registruoja mirimo vietos civilinės metrikacijos įstaiga.
-
-
-
-
-3. Teismo sprendimu paskelbtų mirusiais asmenų mirtį registruoja civilinės metrikacijos įstaigos, esančios teritorijoje, kurioje yra sprendimą priėmęs teismas.
-
-
-
-
-4. Ne Lietuvos Respublikos teritorijoje gyvenusių Lietuvos Respublikos piliečių mirtį registruoja Lietuvos Respublikos konsulinės įstaigos.
-
-
-
-
-5. Lietuvos Respublikos teritorijoje mirusių kitų valstybių piliečių ir asmenų be pilietybės mirtys registruojamos Lietuvos Respublikos įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-20 straipsnis. Pareiškimas registruoti mirtį
-
-
-1. Pareiškimas registruoti mirtį ją registruojančiai įstaigai turi būti pateiktas per tris paras nuo žmogaus mirties laiko arba lavono radimo. Šį pareiškimą gali pateikti:
-
-
-1) mirusiojo giminės, kaimynai ir kiti fiziniai asmenys;
-
-
-
-
-2) stacionarinė asmens sveikatos priežiūros įstaiga, kurioje asmuo mirė;
-
-
-
-
-3) uždaroji sveikatos priežiūros įstaiga;
-
-
-
-
-4) policija.
-
-
-
-
-
-
-2. Kartu su pareiškimu registruoti mirtį ją registruojančiai įstaigai turi būti pateiktas laikinas arba galutinis medicininis mirties liudijimas.
- 
-
-
-
-
-
-
-21 straipsnis. Mirties registravimo tvarka
-
-
-1. Mirtis registruojama civilinės būklės aktų registravimo knygose. Mirties registravimo tvarką, civilinės būklės aktų registravimo knygų formas bei jų pildymo tvarką nustato Lietuvos Respublikos Vyriausybė.
-
-
-
-
-2. Duomenis apie mirčių įregistravimą seniūnai pateikia civilinės metrikacijos įstaigoms.
-
-
-
-
-3. Civilinės metrikacijos ir konsulinės įstaigos pateikia Statistikos departamentui prie Lietuvos Respublikos Vyriausybės mirties registravimo dokumentus (mirties akto įrašus ir medicininius mirties liudijimus). Duomenys - mirusiojo vardas, pavardė, asmens kodas, gyvenamoji vieta, gimimo data, mirties data ir priežastis - pateikiami Lietuvos Respublikos gyventojų registrui Gyventojų registro įstatymo nustatyta tvarka.
+3. Medicininius mirties liudijimus išduodančios asmens sveikatos priežiūros įstaigos privalo užtikrinti, kad liudijimai būtų išduodami ir poilsio bei švenčių dienomis.
  
 
 
@@ -688,15 +550,15 @@ Nr. VIII-1214, 1999-06-08, Žin. 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010IS
 
 
 
-PENKTASIS SKIRSNIS
+Penktasis skirsnis
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-22 straipsnis. Gydytojų konsiliumo sudarymas
+16 straipsnis. Gydytojų konsiliumo sudarymas
 
 
-Mirčiai, smegenų mirčiai nustatyti bei kitiems šiame įstatyme numatytiems klausimams spręsti gydytojų konsiliumo sudarymo, sprendimų priėmimo ir įforminimo tvarką nustato Sveikatos apsaugos ministerija.
+Smegenų mirčiai nustatyti bei kitiems šiame Įstatyme numatytiems klausimams spręsti gydytojų konsiliumo sudarymo, sprendimų priėmimo ir įforminimo tvarką nustato Sveikatos apsaugos ministerija.
  
 
 
@@ -704,32 +566,10 @@ Mirčiai, smegenų mirčiai nustatyti bei kitiems šiame įstatyme numatytiems k
 
 
 
-23 straipsnis. Atsakomybė
+17 straipsnis. Atsakomybė
 
 
-Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-24 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas įsigalioja nuo 1997 m. rugsėjo 1 d.
- 
-
-
-
-
-
-
-25 straipsnis. Pasiūlymas Vyriausybei
-
-
-Lietuvos Respublikos Vyriausybė ir Sveikatos apsaugos ministerija iki 1997 m. rugsėjo 1 d. turi priimti teisės aktus, susijusius su Žmogaus mirties registravimo ir kritinių būklių įstatymu.
+Asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvarka. 
 
 
 
@@ -742,9 +582,11 @@ Lietuvos Respublikos Vyriausybė ir Sveikatos apsaugos ministerija iki 1997 m. r
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
 
+ 
  
  
 Pakeitimai:
@@ -753,3 +595,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1214, 1999-06-08, Žin., 1999, Nr. 55-1767 (1999-06-23), i. k. 0991010ISTAIII-1214
 Lietuvos Respublikos žmogaus mirties registravimo ir kritinių būklių įstatymo 11, 13, 14 ir 17 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-836, 2002-04-04, Žin., 2002, Nr. 43-1601 (2002-04-26), i. k. 1021010ISTA00IX-836
+Lietuvos Respublikos žmogaus mirties registravimo ir kritinių būklių įstatymo pakeitimo įstatymas
