@@ -15,134 +15,135 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F15B67B048EB"
 
 Redagavo: Ramun? L??ait? (1997
 
-Redagavo: Ramunė
-Lūžaitė (1998.08.17)
+Redagavo:
+Ramunė Lūžaitė (1999.10.28)
+ 
  
 Įstatymas
 paskelbtas: Žin., 1992, Nr.20-588
  
-Neoficialus įstatymo
-tekstas
+Neoficialus
+įstatymo tekstas
  
 Pakeitimai:
  
 1.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-I-1050, 95.09.28, Žin., 1995, Nr. 83-1882 (95.10.11)
-DĖL
-LIETUVOS RESPUBLIKOS BUHALTERINĖS APSKAITOS PAGRINDŲ ĮSTATYMO PAKEITIMO IR
-PAPILDYMO
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1050, 95.09.28, Žin., 1995, Nr.
+83-1882 (95.10.11)
+DĖL LIETUVOS RESPUBLIKOS BUHALTERINĖS
+APSKAITOS PAGRINDŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
  
 2.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr.
-I-1213, 96.02.20, Žin., 1996, Nr. 18-463 (96.02.28)
-LIETUVOS
-RESPUBLIKOS BUHALTERINĖS APSKAITOS PAGRINDŲ ĮSTATYMO 9, 10, 20 IR 22 STRAIPSNIŲ
-PAKEITIMO ĮSTATYMAS
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. I-1213, 96.02.20, Žin., 1996, Nr.
+18-463 (96.02.28)
+LIETUVOS RESPUBLIKOS BUHALTERINĖS
+APSKAITOS PAGRINDŲ ĮSTATYMO 9, 10, 20 IR 22 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 3.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr.
-I-1410, 96.06.27, Žin., 1996, Nr. 64-1509 (96.07.05)
-LIETUVOS
-RESPUBLIKOS BUHALTERINĖS APSKAITOS PAGRINDŲ ĮSTATYMO 9, 10 IR 20 STRAIPSNIŲ
-PAKEITIMO ĮSTATYMAS
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. I-1410, 96.06.27, Žin., 1996, Nr.
+64-1509 (96.07.05)
+LIETUVOS RESPUBLIKOS BUHALTERINĖS
+APSKAITOS PAGRINDŲ ĮSTATYMO 9, 10 IR 20 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-65, 96.12.23, Žin., 1996,
+Nr.126-2949 (96.12.31)
+LIETUVOS RESPUBLIKOS BUHALTERINĖS
+APSKAITOS PAGRINDŲ ĮSTATYMO 9, 10 IR 20 STRAIPSNIŲ PAKEITIMO ĮSTATYMO PAKEITIMO
+ĮSTATYMAS
+ 
+5.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-65, 96.12.23, Žin., 1996, Nr.126-2949 (96.12.31)
-LIETUVOS
-RESPUBLIKOS BUHALTERINĖS APSKAITOS PAGRINDŲ ĮSTATYMO 9, 10 IR 20 STRAIPSNIŲ
-PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
- 
-5.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. VIII-292,
-97.06.24, Žin., 1997, Nr.64-1509 (97.07.04)
-LIETUVOS
-RESPUBLIKOS BUHALTERINĖS APSKAITOS PAGRINDŲ ĮSTATYMO 9 IR 10 STRAIPSNIŲ
-PAKEITIMO ĮSTATYMAS 
+VIII-292, 97.06.24, Žin., 1997, Nr.64-1509 (97.07.04)
+LIETUVOS RESPUBLIKOS BUHALTERINĖS
+APSKAITOS PAGRINDŲ ĮSTATYMO 9 IR 10 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS 
  
 6.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. VIII-842,
-98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-842, 98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
+LIETUVOS RESPUBLIKOS BUHALTERINĖS
+APSKAITOS PAGRINDŲ ĮSTATYMO 1, 2, 9, 10, 16, 17, 21 STRAIPSNIŲ PAPILDYMO IR
+PAKEITIMO ĮSTATYMAS
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1368, 99.10.19, Žin., 1999, Nr.90-2644
+(99.10.27)
 LIETUVOS
-RESPUBLIKOS BUHALTERINĖS APSKAITOS PAGRINDŲ ĮSTATYMO 1, 2, 9, 10, 16, 17, 21
-STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS BUHALTERINĖS APSKAITOS PAGRINDŲ ĮSTATYMO 1 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+*** Pabaiga ***
  
- 
-LIETUVOS RESPUBLIKOS
-BUHALTERINĖS APSKAITOS PAGRINDŲ
+LIETUVOS
+RESPUBLIKOS
+BUHALTERINĖS
+APSKAITOS PAGRINDŲ
 ĮSTATYMAS 
  
- 
 I SKIRSNIS
-BENDRIEJI NUOSTATAI 
- 
+BENDRIEJI
+NUOSTATAI 
  
      1
 straipsnis. Įstatymo taikymo sritis
  
-     Šiame
-įstatyme nustatyta privaloma individualių (personalinių) įmonių, tikrųjų ūkinių
-bendrijų, komanditinių (pasitikėjimo) ūkinių bendrijų, akcinių, uždarųjų
-akcinių, kooperatinių, žemės ūkio ir investicinių bendrovių, valstybės ir savivaldybės
-įmonių (toliau - įmonių), viešųjų įstaigų, visuomeninių organizacijų bei visų
-tipų įmonių ir organizacijų junginių, advokatų biurų (kontorų), taip pat
-įstaigų ir organizacijų, išlaikomų iš biudžeto (toliau - organizacijų),
-finansinės apskaitos tvarka.
+Šiame įstatyme nustatyta privaloma individualių
+(personalinių) įmonių, tikrųjų ūkinių bendrijų, komanditinių (pasitikėjimo)
+ūkinių bendrijų, akcinių, uždarųjų akcinių, kooperatinių, žemės ūkio ir
+investicinių bendrovių, valstybės ir savivaldybės įmonių nuolatinių buveinių
+(toliau - įmonių), viešųjų įstaigų, visuomeninių organizacijų bei visų tipų
+įmonių ir organizacijų junginių, advokatų kontorų, taip pat įstaigų ir
+organizacijų, išlaikomų iš biudžeto (toliau - organizacijų), finansinės
+apskaitos tvarka.
      Kitos
 įstaigos ir organizacijos, užsiimančios nekomercine veikla (veikla, kuria
 nesiekiama pelno), buhalterinės apskaitos tvarką pasirenka savarankiškai,
 laikydamosi šio įstatymo.
  
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
+Nr. I-1050, 95.09.28, Žin., 1995, Nr.
+83-1882 (95.10.11) 
 Nr.
-I-1050, 95.09.28, Žin., 1995, Nr. 83-1882 (95.10.11) 
-Nr. VIII-842,
-98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
+VIII-842, 98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
+Nr. VIII-1368, 99.10.19, Žin., 1999, Nr.90-2644
+(99.10.27)
  
-    
-2 straipsnis. Įstatymo paskirtis
+     2 straipsnis. Įstatymo paskirtis
  
-Buhalterinės apskaitos pagrindų įstatymas
-reglamentuoja įmonių ir organizacijų turto, nuosavybės, ūkinių procesų ir
-veiklos rezultatų bendruosius apskaitos principus (įmonės besitęsiančios
-veiklos, apskaitos pastovumo, pajamų ir sąnaudų kaupimo). Buhalterinė apskaita
-turi būti organizuota taip, kad būtų teikiama laiku ir tiksli informacija
-mokesčius skaičiuojančioms tarnyboms, valstybinei statistikai, savininkams,
-kreditoriams, komercinės veiklos partneriams ir garantuojamas ūkiniams
-komerciniams sandoriams informacinis pagrindas. 
+Buhalterinės
+apskaitos pagrindų įstatymas reglamentuoja įmonių ir organizacijų turto,
+nuosavybės, ūkinių procesų ir veiklos rezultatų bendruosius apskaitos principus
+(įmonės besitęsiančios veiklos, apskaitos pastovumo, pajamų ir sąnaudų
+kaupimo). Buhalterinė apskaita turi būti organizuota taip, kad būtų teikiama
+laiku ir tiksli informacija mokesčius skaičiuojančioms tarnyboms, valstybinei statistikai,
+savininkams, kreditoriams, komercinės veiklos partneriams ir garantuojamas
+ūkiniams komerciniams sandoriams informacinis pagrindas. 
  
-Straipsnio
-pakeitimai:
-Nr. VIII-842,
-98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
+Straipsnio pakeitimai:
+Nr.
+VIII-842, 98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
  
-    
-3 straipsnis. Bendras vadovavimas buhalterinei apskaitai
+     3 straipsnis. Bendras vadovavimas
+buhalterinei apskaitai
  
-    
-Bendrą metodinį  vadovavimą buhalterinei apskaitai pagal Lietuvos  Respublikos 
-įstatymus,  tarptautinius  apskaitos standartus ir Europos ekonominės bendrijos
-direktyvas vykdo Lietuvos Respublikos Vyriausybė. 
+     Bendrą metodinį  vadovavimą
+buhalterinei apskaitai pagal Lietuvos  Respublikos  įstatymus,  tarptautinius 
+apskaitos standartus ir Europos ekonominės bendrijos direktyvas vykdo Lietuvos
+Respublikos Vyriausybė. 
  
-    
-4 straipsnis. Buhalterinės apskaitos sistema
+     4 straipsnis. Buhalterinės
+apskaitos sistema
  
      Buhalterinės
 apskaitos tvarkymo sistemą lemia nuosavybės forma, įmonės rūšis, įmonės dydis,
@@ -161,25 +162,22 @@ apskaita tvarkoma valstybine lietuvių kalba. Bendrose  įmonėse  ir Lietuvoj
 esančiose užsienio kapitalo įmonėse apskaita tvarkoma lietuvių kalba, o esant
 reikalui - ir užsienio kalba. 
  
-    
-5 straipsnis. Buhalterinės apskaitos sąskaitų planas
+     5 straipsnis. Buhalterinės
+apskaitos sąskaitų planas
  
-    
-Pavyzdinis buhalterinės apskaitos sąskaitų planas tvirtinamas Lietuvos
-Respublikos Vyriausybės nustatyta tvarka. Įmonės sudaro individualų sąskaitų
-planą, kurį tvirtina įmonės vadovas. 
+     Pavyzdinis buhalterinės apskaitos
+sąskaitų planas tvirtinamas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Įmonės sudaro individualų sąskaitų planą, kurį tvirtina įmonės vadovas. 
  
-    
-6 straipsnis. Piniginis matas
+     6 straipsnis. Piniginis matas
  
-    
-Buhalterinė apskaita tvarkoma naudojant Lietuvos Respublikoje galiojantį
-piniginį  vienetą. Operacijos,  vykdomos užsienio valiuta, apskaitoje
-perskaičiuojamos nustatytu kursu. 
- 
+     Buhalterinė apskaita tvarkoma
+naudojant Lietuvos Respublikoje galiojantį piniginį  vienetą. Operacijos, 
+vykdomos užsienio valiuta, apskaitoje perskaičiuojamos nustatytu kursu. 
  
 II SKIRSNIS
-BUHALTERINĖS APSKAITOS TARNYBA
+BUHALTERINĖS
+APSKAITOS TARNYBA
  
      7
 straipsnis. Buhalterinės apskaitos tvarkymas
@@ -188,39 +186,37 @@ straipsnis. Buhalterinės apskaitos tvarkymas
 apskaita gali būti tvarkoma:
      1)
 organizavus savarankišką buhalterinės apskaitos tarnybą;
-     2)
-pagal sutartis naudojantis buhalterinių, auditinių ir kitų konsultacinių įmonių
+     2) pagal
+sutartis naudojantis buhalterinių, auditinių ir kitų konsultacinių įmonių
 paslaugomis.
      Savarankiška
 buhalterinės apskaitos tarnyba arba pareigybė privaloma valstybės ir
-savivaldybės įmonėse, akcinėse ir uždarosiose akcinėse
-bendrovėse.
+savivaldybės
+įmonėse,
+akcinėse ir uždarosiose akcinėse bendrovėse.
      Savarankiškų
 buhalterinės apskaitos tarnybų, buhalterinių, auditinių ir kitų konsultacinių
 įmonių funkcijas reglamentuoja jų veiklos nuostatai.
  
-Straipsnio
-pakeitimai:
-Nr.
-I-1050, 95.09.28, Žin., 1995, Nr. 83-1882 (95.10.11)
+Straipsnio pakeitimai:
+Nr. I-1050, 95.09.28, Žin., 1995, Nr.
+83-1882 (95.10.11)
  
-    
-8 straipsnis. Vyriausiojo finansininko (buhalterio) statusas
+     8 straipsnis. Vyriausiojo
+finansininko (buhalterio) statusas
  
-    
-Buhalterinę  apskaitą   įmonėje  tvarko  vyriausiasis finansininkas
-(buhalteris). Jį skiria ir atleidžia įmonės vadovas (valdyba), savininkas
-(savininkai).
-    
-Vyriausiasis finansininkas  (buhalteris)  pagal  Lietuvos Respublikos įstatymus
-ir poįstatyminius aktus bei šį įstatymą tvarkydamas buhalterinę apskaitą, turi
-garantuoti buhalterinių įrašų teisingumą ir kad atskaitomybė būtų parengta
-laiku. Jo nurodymai dėl buhalterinės apskaitos yra privalomi visiems įmonės
-darbuotojams. 
- 
+     Buhalterinę  apskaitą   įmonėje 
+tvarko  vyriausiasis finansininkas (buhalteris). Jį skiria ir atleidžia įmonės
+vadovas (valdyba), savininkas (savininkai).
+     Vyriausiasis finansininkas 
+(buhalteris)  pagal  Lietuvos Respublikos įstatymus ir poįstatyminius aktus bei
+šį įstatymą tvarkydamas buhalterinę apskaitą, turi garantuoti buhalterinių
+įrašų teisingumą ir kad atskaitomybė būtų parengta laiku. Jo nurodymai dėl
+buhalterinės apskaitos yra privalomi visiems įmonės darbuotojams. 
  
 III SKIRSNIS
-DOKUMENTAI IR APSKAITOS REGISTRAI
+DOKUMENTAI IR
+APSKAITOS REGISTRAI
  
      9
 straipsnis. Ūkinių operacijų fiksavimas
@@ -230,11 +226,11 @@ dokumentai yra įrašų apie ūkines operacijas į apskaitos registrus pagrindas
 Jie surašomi ranka ar techninėmis priemonėmis aiškiai ir įskaitomai. Įrašai į
 apskaitos registrus taip pat daromi ranka arba techninėmis priemonėmis aiškiai
 ir įskaitomai.
-Duomenys apie ūkines operacijas turi būti
-įrašyti į įmonės pasirinktus apskaitos registrus ne vėliau kaip per 30 dienų,
-pasibaigus kalendoriniam mėnesiui, išskyrus dokumentų pagal nuolatinių ir
-ilgalaikių paslaugų sutartis (energijos, dujų, ryšių, nuomos ir kitų pagal
-sutartis) duomenis.
+Duomenys apie
+ūkines operacijas turi būti įrašyti į įmonės pasirinktus apskaitos registrus ne
+vėliau kaip per 30 dienų, pasibaigus kalendoriniam mėnesiui, išskyrus dokumentų
+pagal nuolatinių ir ilgalaikių paslaugų sutartis (energijos, dujų, ryšių,
+nuomos ir kitų pagal sutartis) duomenis.
      Atliktas
 ūkines operacijas, išskyrus telekomunikacijų paslaugų teikimą masiniams
 vartotojams, įmonės pagrindžia specialiais apskaitos dokumentais. Operacijos,
@@ -243,20 +239,19 @@ nereikalaujama naudoti specialių apskaitos dokumentų, įskaitant ir
 telekomunikacijų paslaugų teikimą masiniams vartotojams, pagrindžiamos
 pavyzdiniais ar laisvos formos dokumentais.
  
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
+Nr. I-1050, 95.09.28, Žin., 1995, Nr.
+83-1882 (95.10.11)
+Nr. I-1213, 96.02.20, Žin., 1996, Nr.
+18-463 (96.02.28)
+Nr. I-1410, 96.06.27, Žin., 1996, Nr.
+64-1509 (96.07.05)
+Nr. VIII-65, 96.12.23, Žin., 1996,
+Nr.126-2949 (96.12.31)
 Nr.
-I-1050, 95.09.28, Žin., 1995, Nr. 83-1882 (95.10.11)
+VIII-292, 97.06.24, Žin., 1997, Nr.64-1509 (97.07.04)
 Nr.
-I-1213, 96.02.20, Žin., 1996, Nr. 18-463 (96.02.28)
-Nr.
-I-1410, 96.06.27, Žin., 1996, Nr. 64-1509 (96.07.05)
-Nr.
-VIII-65, 96.12.23, Žin., 1996, Nr.126-2949 (96.12.31)
-Nr. VIII-292,
-97.06.24, Žin., 1997, Nr.64-1509 (97.07.04)
-Nr. VIII-842,
-98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
+VIII-842, 98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
  
      10
 straipsnis. Apskaitos dokumentų juridinė galia
@@ -302,18 +297,17 @@ mokėtoja, - PVM mokėtojo kodas, adresas, įmonės, gavusios paslaugą,
 pavadinimas, paslaugos pavadinimas ir jos piniginė išraiška bei apskaitos
 dokumento surašymo data.
  
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
+Nr. I-1050, 95.09.28, Žin., 1995, Nr.
+83-1882 (95.10.11)
+Nr. I-1410, 96.06.27, Žin., 1996, Nr.
+64-1509 (96.07.05)
+Nr. VIII-65, 96.12.23, Žin., 1996,
+Nr.126-2949 (96.12.31)
 Nr.
-I-1050, 95.09.28, Žin., 1995, Nr. 83-1882 (95.10.11)
+VIII-292, 97.06.24, Žin., 1997, Nr.64-1509 (97.07.04)
 Nr.
-I-1410, 96.06.27, Žin., 1996, Nr. 64-1509 (96.07.05)
-Nr.
-VIII-65, 96.12.23, Žin., 1996, Nr.126-2949 (96.12.31)
-Nr. VIII-292,
-97.06.24, Žin., 1997, Nr.64-1509 (97.07.04)
-Nr. VIII-842,
-98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
+VIII-842, 98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
  
      11
 straipsnis. Dokumentų pasirašymas ir atsakomybė
@@ -326,10 +320,9 @@ apskaitos dokumentų išrašymą laiku ir teisingai, už juose esančių duomen�
 tikrumą ir ūkinės operacijos teisėtumą atsako  asmenys,  surašiusieji  ir 
 pasirašiusieji apskaitos dokumentus.
  
-Straipsnio
-pakeitimai:
-Nr.
-I-1050, 95.09.28, Žin., 1995, Nr. 83-1882 (95.10.11)
+Straipsnio pakeitimai:
+Nr. I-1050, 95.09.28, Žin., 1995, Nr.
+83-1882 (95.10.11)
  
      12
 straipsnis. Apskaitos registrai
@@ -341,94 +334,83 @@ registruose.
 registrai gali būti pavyzdiniai arba laisvos formos. Jie sudaromi chronologine,
 sistemine, chronologine - sistemine ar kita nustatyta tvarka.
  
-Straipsnio
-pakeitimai:
-Nr.
-I-1050, 95.09.28, Žin., 1995, Nr. 83-1882 (95.10.11)
- 
+Straipsnio pakeitimai:
+Nr. I-1050, 95.09.28, Žin., 1995, Nr.
+83-1882 (95.10.11)
  
 IV SKIRSNIS
-FINANSINĖ ATSKAITOMYBĖ
+FINANSINĖ
+ATSKAITOMYBĖ
  
-    
-13 straipsnis. Sudėtis ir teikimas
+     13 straipsnis. Sudėtis ir teikimas
  
-    
-Įmonių finansinę metinę atskaitomybę, išskyrus tų įmonių, kurios turi teisę
-pateikti supaprastintą atskaitomybę, sudaro balansas, pelno ataskaita,
-finansinės būklės pakitimų ataskaita ir paaiškinamasis raštas.   Finansinės
-atskaitomybės formas ir jų teikimo bei skelbimo tvarką nustato  Lietuvos
-Respublikos  Vyriausybė. Reikalauti nenustatytos finansinės atskaitomybės
-draudžiama. 
+     Įmonių finansinę metinę
+atskaitomybę, išskyrus tų įmonių, kurios turi teisę pateikti supaprastintą
+atskaitomybę, sudaro balansas, pelno ataskaita, finansinės būklės pakitimų
+ataskaita ir paaiškinamasis raštas.   Finansinės atskaitomybės formas ir jų
+teikimo bei skelbimo tvarką nustato  Lietuvos Respublikos  Vyriausybė.
+Reikalauti nenustatytos finansinės atskaitomybės draudžiama. 
  
-    
-14 straipsnis. Pagrindiniai reikalavimai
+     14 straipsnis. Pagrindiniai
+reikalavimai
  
-    
-Iki metinės finansinės atskaitomybės sudarymo buhalterinėje apskaitoje turi
-būti nurodytos visos ataskaitinio laikotarpio ūkinės operacijos. Buhalterinės
-apskaitos duomenys turi būti patvirtinti ilgalaikio turto, prekinių bei
-materialinių vertybių, atsiskaitymų, piniginių ir kitų lėšų inventorizacijų
-duomenimis.
+     Iki metinės finansinės
+atskaitomybės sudarymo buhalterinėje apskaitoje turi būti nurodytos visos
+ataskaitinio laikotarpio ūkinės operacijos. Buhalterinės apskaitos duomenys
+turi būti patvirtinti ilgalaikio turto, prekinių bei materialinių vertybių,
+atsiskaitymų, piniginių ir kitų lėšų inventorizacijų duomenimis.
  
-    
-15 straipsnis. Įmonių finansinės atskaitomybės tvirtinimas
+     15 straipsnis. Įmonių finansinės
+atskaitomybės tvirtinimas
  
-    
-Įmonių finansinė  atskaitomybė, prieš pateikiant valdymo organams, svarstoma ir
-tvirtinama įmonių įstatuose nustatyta tvarka.   Prieš pateikiant tvirtinti gali
-būti atliekama finansinės atskaitomybės auditinė kontrolė. Už pateiktą
-neteisingą finansinę atskaitomybę, nors ji patikrinta ir patvirtinta
-auditoriaus, atsako įmonės administracijos vadovas arba savininkas.  
-Juridinio  asmens  teises  turinčios  įmonės  finansinę atskaitomybę sudaro
-gruodžio 31 dienos duomenimis, o balansą - dar įmonės steigimo ir likvidavimo
-dienos duomenimis. 
- 
+     Įmonių finansinė  atskaitomybė,
+prieš pateikiant valdymo organams, svarstoma ir tvirtinama įmonių įstatuose
+nustatyta tvarka.   Prieš pateikiant tvirtinti gali būti atliekama finansinės
+atskaitomybės auditinė kontrolė. Už pateiktą neteisingą finansinę atskaitomybę,
+nors ji patikrinta ir patvirtinta auditoriaus, atsako įmonės administracijos
+vadovas arba savininkas.   Juridinio  asmens  teises  turinčios  įmonės 
+finansinę atskaitomybę sudaro gruodžio 31 dienos duomenimis, o balansą - dar įmonės
+steigimo ir likvidavimo dienos duomenimis. 
  
 V SKIRSNIS
-TURTO ĮKAINOJIMAS IR INVENTORIZACIJA
+TURTO
+ĮKAINOJIMAS IR INVENTORIZACIJA
  
-    
-16 straipsnis. Turto įkainojimas
+     16 straipsnis. Turto įkainojimas
  
-   
-Įmonės ar organizacijos ilgalaikis turtas apskaitoje įkainojamas ir rodomas
-įsigijimo arba perkainota (iš naujo įvertina) verte Vyriausybės nustatyta
-tvarka, balanse - likutine verte (įsigijimo arba perkainotos vertės ir
-nusidėvėjimo skirtumas).
-   
-Atsargos  apskaitoje  įkainojamos  įsigijimo  verte,  o finansinėje
-atskaitomybėje - faktine savikaina. Faktinė savikaina apskaičiuojama 
-pirmiausia  nurašant  anksčiausiai  įsigytas atsargas. 
+    Įmonės ar organizacijos ilgalaikis
+turtas apskaitoje įkainojamas ir rodomas įsigijimo arba perkainota (iš naujo įvertina)
+verte Vyriausybės nustatyta tvarka, balanse - likutine verte (įsigijimo arba
+perkainotos vertės ir nusidėvėjimo skirtumas).
+    Atsargos  apskaitoje  įkainojamos 
+įsigijimo  verte,  o finansinėje atskaitomybėje - faktine savikaina. Faktinė
+savikaina apskaičiuojama  pirmiausia  nurašant  anksčiausiai  įsigytas
+atsargas. 
  
-Straipsnio
-pakeitimai:
-Nr. VIII-842,
-98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
+Straipsnio pakeitimai:
+Nr.
+VIII-842, 98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
  
-    
-17 straipsnis. Inventorizacija
+     17 straipsnis. Inventorizacija
  
-Inventorizacijos tvarką nustato
-Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+Inventorizacijos
+tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
  
-Straipsnio
-pakeitimai:
-Nr. VIII-842,
-98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
+Straipsnio pakeitimai:
+Nr.
+VIII-842, 98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
  
-    
-18 straipsnis. Pajamų ir sąnaudų apskaita bei įvertinimas
+     18 straipsnis. Pajamų ir sąnaudų
+apskaita bei įvertinimas
  
-    
-Apskaitinės pajamos rodomos tuo laiku, kada jos uždirbtos, o sąnaudos apskaitomos 
-jų susidarymo metu, neatsižvelgiant į sumokėjimo laiką.   Pajamų ir  sąnaudų
-apskaitos  tvarką  nustato  Lietuvos Respublikos Vyriausybė. 
- 
+     Apskaitinės pajamos rodomos tuo
+laiku, kada jos uždirbtos, o sąnaudos apskaitomos  jų susidarymo metu,
+neatsižvelgiant į sumokėjimo laiką.   Pajamų ir  sąnaudų apskaitos  tvarką 
+nustato  Lietuvos Respublikos Vyriausybė. 
  
 VI SKIRSNIS
-DOKUMENTŲ, APSKAITOS REGISTRŲ IR FINANSINĖS
-ATSKAITOMYBĖS SAUGOJIMAS
+DOKUMENTŲ,
+APSKAITOS REGISTRŲ IR FINANSINĖS ATSKAITOMYBĖS SAUGOJIMAS
  
      19
 straipsnis. Klaidų taisymas
@@ -459,10 +441,9 @@ perduodančių dokumentus valstybiniam saugojimui, metų  finansinė  atskaito
 saugoma  nuolat.  Įmonių, neperduodančių dokumentų valstybiniam saugojimui,
 metų finansinė atskaitomybė saugoma 15 metų.
  
-Straipsnio
-pakeitimai:
-Nr.
-I-1410, 96.06.27, Žin., 1996, Nr. 64-1509 (96.07.05) 
+Straipsnio pakeitimai:
+Nr. I-1410, 96.06.27, Žin., 1996, Nr.
+64-1509 (96.07.05) 
  
      21
 straipsnis. Dingimo ir paėmimo įforminimas
@@ -472,18 +453,17 @@ straipsnis. Dingimo ir paėmimo įforminimas
 atskaitomybei, darbuotojas, atsakingas už jų saugojimą, parašo aiškinamąjį
 raštą ir įteikia jį įmonės vadovui (savininkui). Jis priima atitinkamą
 sprendimą.
-    
-Teisėsaugos, finansų ir kontrolės organai paimti apskaitos dokumentus gali tik
-dalyvaujant įmonės ar organizacijos, padalinio vadovui (savininkui) arba
-buhalteriui. Apskaitos dokumentus paimantys pareigūnai surašo dokumentų paėmimo
-aktą (protokolą) ir palieka tų apskaitos dokumentų kopijas. Jeigu nėra
-galimybės palikti kopijų, protokole surašomi visi paimtojo apskaitos dokumento
+     Teisėsaugos,
+finansų ir kontrolės organai paimti apskaitos dokumentus gali tik dalyvaujant
+įmonės ar organizacijos, padalinio vadovui (savininkui) arba buhalteriui.
+Apskaitos dokumentus paimantys pareigūnai surašo dokumentų paėmimo aktą
+(protokolą) ir palieka tų apskaitos dokumentų kopijas. Jeigu nėra galimybės
+palikti kopijų, protokole surašomi visi paimtojo apskaitos dokumento
 rekvizitai.
  
-Straipsnio
-pakeitimai:
-Nr. VIII-842, 98.07.02,
-Žin., 1998, Nr.68-1981 (98.07.31)
+Straipsnio pakeitimai:
+Nr.
+VIII-842, 98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
  
      22
 straipsnis. Apskaitos perimamumas
@@ -495,34 +475,32 @@ registrus  ir  finansinę atskaitomybę. Kai nėra teisių perėmėjo, kaip to
 saugoti apskaitos  dokumentus,  apskaitos  registrus  ir  finansinę
 atskaitomybę, sprendžia organas, kuris priėmė nutarimą šią įmonę likviduoti.
  
- 
 VII SKIRSNIS
-KOMERCINĖ PASLAPTIS IR ATSAKOMYBĖ
+KOMERCINĖ
+PASLAPTIS IR ATSAKOMYBĖ
  
-    
-23 straipsnis. Komercinė paslaptis
+     23 straipsnis. Komercinė paslaptis
  
-    
-Apskaitos informacija, esanti įmonės komercine paslaptimi, neskelbiama. 
-Komercinę  paslaptį  privalo  saugoti  įmonės darbuotojai ir kiti asmenys
-(auditoriai, revizoriai, ekspertai, mokesčių inspektoriai)  ir teisėsaugos
-pareigūnai, kurie ją sužinojo vykdydami tarnybines pareigas.   Komercine
-paslaptimi negali būti finansinės atskaitomybės rodikliai.
+     Apskaitos informacija, esanti
+įmonės komercine paslaptimi, neskelbiama.  Komercinę  paslaptį  privalo 
+saugoti  įmonės darbuotojai ir kiti asmenys (auditoriai, revizoriai, ekspertai,
+mokesčių inspektoriai)  ir teisėsaugos pareigūnai, kurie ją sužinojo vykdydami
+tarnybines pareigas.   Komercine paslaptimi negali būti finansinės
+atskaitomybės rodikliai.
  
-    
-24 straipsnis. Atsakomybė už buhalterinės apskaitos organizavimą
+     24 straipsnis. Atsakomybė už
+buhalterinės apskaitos organizavimą
  
-    
-Už  buhalterinės  apskaitos  organizavimą,  atskaitomybės pateikimą laiku,
-apskaitos dokumentų išsaugojimą atsako įmonės administracijos vadovas
-(savininkas).   Įmonės pareigūnai, pažeidusieji šio įsatymo ir kitų apskaitos
-norminių aktų reikalavimus, atsako pagal Lietuvos Respublikos įstatymus. 
+     Už  buhalterinės  apskaitos  organizavimą, 
+atskaitomybės pateikimą laiku, apskaitos dokumentų išsaugojimą atsako įmonės
+administracijos vadovas (savininkas).   Įmonės pareigūnai, pažeidusieji šio
+įsatymo ir kitų apskaitos norminių aktų reikalavimus, atsako pagal Lietuvos
+Respublikos įstatymus. 
  
- LIETUVOS
-RESPUBLIKOS
- AUKŠČIAUSIOSIOS
-TARYBOS PIRMININKAS               VYTAUTAS LANDSBERGIS
+ LIETUVOS RESPUBLIKOS
+ AUKŠČIAUSIOSIOS TARYBOS
+PIRMININKAS               VYTAUTAS LANDSBERGIS
  
-Vilnius,
-1992 m. birželio 18 d.   Nr.I-2654
+Vilnius, 1992 m. birželio 18 d.  
+Nr.I-2654
 
