@@ -15,103 +15,74 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2F569DB9753A"
 
 @D1=19950705;D2=19960530;D3=19960626
 
-Redagavo: Ramunė Lūžaitė
-(1999.11.22)
- 
- 
-Nuo 1999 m. lapkričio 19 d. bus
-redaguojamas šio įstatymo naujos redakcijos tekstas (Nr.VIII-1387)
-(Nr. VIII-1387, 99.11.04, Žin.,
-1999, Nr.98-2811 (99.11.19)
- 
-Įstatymas paskelbtas: Žin., 1995, Nr.63-1581
- 
-Neoficialus įstatymo tekstas
- 
-Pakeitimai:
-1.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1356, 96.05.30, Žin., 1996, Nr. 57-1336
-(96.06.19)
-LIETUVOS RESPUBLIKOS INVESTICINIŲ BENDROVIŲ ĮSTATYMO 2
-IR 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
- 
-2.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-712, 98.04.21, Žin., 1998, Nr.42-1142
-(98.05.06)
-LIETUVOS RESPUBLIKOS INVESTICINIŲ BENDROVIŲ ĮSTATYMO
-3, 6, 9, 10, 13, 17, 19, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
- 
-3.
-Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. VIII-1387, 99.11.04, Žin.,
-1999, Nr.98-2811 (99.11.19)
-LIETUVOS RESPUBLIKOS INVESTICINIŲ BENDROVIŲ ĮSTATYMO PAKEITIMO
-ĮSTATYMAS
+paskelbtas: Žin., 1995, Nr. 63-1581
+Neoficialus
+įstatymo tekstas
  
-Nauja įstatymo redakcija 
- 
-*** Pabaiga ***
- 
-Nauja įstatymo redakcija: 
-Nr. VIII-1387, 99.11.04, Žin.,
-1999, Nr.98-2811 (99.11.19)
  
 LIETUVOS RESPUBLIKOS
 INVESTICINIŲ BENDROVIŲ
 Į S T A T Y M A S
  
+1995 m. liepos 5 d. Nr.I-1018
+Vilnius
+ 
+Nauja įstatymo redakcija: 
+Nr. VIII-1387, 1999.11.04, Žin., 1999, Nr. 98-2811 (1999.11.19)
+ 
 PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
  
 1 straipsnis. Įstatymo paskirtis
- 
-1. Šis
-įstatymas reglamentuoja investicinių bendrovių steigimo, reorganizavimo ir
-likvidavimo, valdymo ir veiklos ypatumus,
-investicinių bendrovių veiklos valstybinę priežiūrą, akcininkų teises bei
-pareigas ir teisių apsaugos priemones. Šis įstatymas taip pat nustato
+1. Šis įstatymas reglamentuoja investicinių bendrovių steigimo,
+reorganizavimo ir likvidavimo, valdymo ir veiklos
+ypatumus, investicinių bendrovių veiklos valstybinę priežiūrą, akcininkų teises
+bei pareigas ir teisių apsaugos priemones. Šis įstatymas taip pat nustato
 investicinių akcinių bendrovių, įsteigtų iki jo įsigaliojimo dienos ir
 veikiančių valstybiniam turtui privatizuoti
 pagal Valstybinio turto pirminio privatizavimo įstatymą, reorganizavimo į
 investicines bendroves tvarką.
-2.
-Investicinėms bendrovėms taikomos Akcinių bendrovių įstatymo nuostatos,
-Vertybinių popierių viešosios apyvartos įstatymo nuostatos, jeigu ko kita nenustato šis įstatymas.
+2. Investicinėms bendrovėms taikomos Akcinių bendrovių įstatymo
+nuostatos, Vertybinių popierių viešosios apyvartos įstatymo nuostatos, jeigu ko kita nenustato šis įstatymas.
  
-2 straipsnis. Pagrindinės šio įstatymo
-sąvokos
+[2 dalies redakcija nuo 2002 m. balandžio 1 d.:
+2. Investicinėms bendrovėms taikomos
+Akcinių bendrovių įstatymo nuostatos, Vertybinių popierių rinkos įstatymo
+nuostatos, jeigu ko kita nenustato šis įstatymas.]
+Straipsnio pakeitimai:
+Nr. IX-661,
+2001-12-17, Žin., 2001, Nr. 112-4080 (2001-12-30), įsigalioja nuo 2002-04-01
  
-1. Depozitoriumas - bankas, šio įstatymo
-ketvirtojo skirsnio nustatyta tvarka saugantis investicinės bendrovės pinigines
-lėšas ir vertybinius popierius bei turintis teisę atlikti operacijas
+2 straipsnis. Pagrindinės šio
+įstatymo sąvokos
+1. Depozitoriumas - bankas, šio
+įstatymo ketvirtojo skirsnio nustatyta tvarka saugantis investicinės bendrovės
+pinigines lėšas ir vertybinius popierius bei turintis teisę atlikti operacijas
 vertybiniais popieriais ir pinigais.
 2. Investicinė bendrovė - akcinė
 bendrovė, kurios veiklos pobūdis ar turto sudėtis atitinka šio įstatymo 3
 straipsnyje nustatytus kriterijus. Investicinės bendrovės gali veikti kaip
 investicinės kintamojo kapitalo bendrovės, uždarieji investiciniai fondai ar
 kontroliuojančiosios investicinės bendrovės.
-3. Investicinė akcinė bendrovė - akcinė
-bendrovė, Vyriausybės nustatyta tvarka įsteigta valstybiniam turtui
+3. Investicinė akcinė bendrovė -
+akcinė bendrovė, Vyriausybės nustatyta tvarka įsteigta valstybiniam turtui
 privatizuoti pagal Valstybinio turto pirminio privatizavimo įstatymą.
-4. Emitentas - fizinis ar juridinis
-asmuo, savo vardu siūlantis leisti arba leidžiantis vertybinius popierius.
-5. Investicijų portfelis - investicinės
-bendrovės turimų investicijų rinkinys.
-6. Diversifikuotas investicijų portfelis
-- investicijų portfelis, kuris atitinka visus šiuos reikalavimus:
-1) investuota
-ne daugiau kaip 5 procentai investicinės bendrovės nuosavų (grynųjų) aktyvų į
-vieno emitento vertybinius popierius, išskyrus, kai:
-a) investuota
-ne daugiau kaip 10 procentų investicinės
-bendrovės nuosavų (grynųjų) aktyvų į vieno emitento vertybinius popierius, o
-investicijų, kai investuojama daugiau kaip 5 procentai, bet ne daugiau kaip 10
-procentų investicinės bendrovės nuosavų (grynųjų) aktyvų į vieno emitento
-vertybinius popierius, bendra suma yra ne
-didesnė kaip 40 procentų investicinės bendrovės nuosavų (grynųjų) aktyvų;
+4. Emitentas - fizinis ar
+juridinis asmuo, savo vardu siūlantis leisti arba leidžiantis vertybinius
+popierius.
+5. Investicijų portfelis -
+investicinės bendrovės turimų investicijų rinkinys.
+6. Diversifikuotas investicijų
+portfelis - investicijų portfelis, kuris atitinka visus šiuos reikalavimus:
+1) investuota ne daugiau kaip 5 procentai investicinės bendrovės nuosavų (grynųjų) aktyvų į vieno
+emitento vertybinius popierius, išskyrus, kai:
+a) investuota ne daugiau kaip 10 procentų investicinės bendrovės nuosavų
+(grynųjų) aktyvų į vieno emitento vertybinius popierius, o investicijų, kai
+investuojama daugiau kaip 5 procentai, bet
+ne daugiau kaip 10 procentų investicinės bendrovės nuosavų (grynųjų) aktyvų į
+vieno emitento vertybinius popierius, bendra suma yra ne didesnė kaip 40
+procentų investicinės bendrovės nuosavų (grynųjų) aktyvų;
 b) investuota ne daugiau kaip 35
 procentai investicinės bendrovės nuosavų (grynųjų) aktyvų į valstybės
 (savivaldybės) išleistus arba valstybės (savivaldybės) garantuotus vieno
@@ -125,33 +96,34 @@ investuota ne daugiau kaip 30 procentų investicinės bendrovės nuosavų (gryn�
 aktyvų į vienos emisijos šios valstybės (savivaldybės) išleistus arba
 garantuotus vieno emitento vertybinius popierius ir investicijų portfelį sudaro
 ne mažiau kaip 6 skirtingų emisijų vertybiniai popieriai;
-2) nėra įsigyta
-daugiau kaip 10 procentų vieno emitento akcijų, suteikiančių balso teisę;
+2) nėra įsigyta daugiau kaip 10 procentų vieno emitento akcijų,
+suteikiančių balso teisę;
 3) nėra įsigyta daugiau kaip 10 procentų
 vieno emitento akcijų, nesuteikiančių balso teisės;
-4) nėra įsigyta
-daugiau kaip 10 procentų vieno emitento skolos vertybinių popierių, išskyrus,
-kai įsigyjami valstybės (savivaldybės) išleisti ar garantuoti vertybiniai popieriai; investicinei bendrovei įsigyjant
-skolos vertybinius popierius, nereikalingas visuotinio akcininkų susirinkimo
-pritarimas ir netaikomi Akcinių bendrovių įstatyme numatyti apribojimai
-akcinėms bendrovėms įsigyjant skolos vertybinius popierius.
-7. Investicinė pozicija - bendrovės
-turimi tam tikro emitento, tam tikros rūšies, tam tikros emisijos vertybiniai
-popieriai, įsigyti už tą pačią kainą.
+4) nėra įsigyta daugiau kaip 10
+procentų vieno emitento skolos vertybinių popierių, išskyrus, kai įsigyjami
+valstybės (savivaldybės) išleisti ar garantuoti vertybiniai popieriai;
+investicinei bendrovei įsigyjant skolos vertybinius popierius, nereikalingas
+visuotinio akcininkų susirinkimo pritarimas
+ir netaikomi Akcinių bendrovių įstatyme numatyti apribojimai akcinėms
+bendrovėms įsigyjant skolos vertybinius popierius.
+7. Investicinė pozicija -
+bendrovės turimi tam tikro emitento, tam tikros rūšies, tam tikros emisijos
+vertybiniai popieriai, įsigyti už tą pačią kainą.
 8. Įstatinis kapitalas - įstatymų
 nustatyta tvarka įregistruotuose įstatuose nurodytas akcinės bendrovės
 kapitalas, kuris yra lygus išleistų akcijų skaičiaus ir akcijų nominalios
 vertės sandaugai.
-9. Nuosavas kapitalas - investicinės
-kintamojo kapitalo bendrovės akcininkų kapitalas, kuris nėra registruojamas nei
-nurodomas įstatuose ir kurio dydis keičiasi dėl akcijų išpirkimo ir jų
-anuliavimo bei naujų akcijų išleidimo.
+9. Nuosavas kapitalas -
+investicinės kintamojo kapitalo bendrovės akcininkų kapitalas, kuris nėra
+registruojamas nei nurodomas įstatuose ir kurio dydis keičiasi dėl akcijų
+išpirkimo ir jų anuliavimo bei naujų akcijų išleidimo.
 10. Nuosavi (grynieji) aktyvai -
 investicinės bendrovės turto vertės ir ilgalaikių bei trumpalaikių finansinių
 įsipareigojimų skirtumas.
 11. Asmenys, susiję su investicine
 bendrove:
-            1) asmenys, turintys 10 ir daugiau
+1) asmenys, turintys 10 ir daugiau
 procentų investicinės bendrovės akcijų;
 2) investicinės bendrovės kontroliuojami
 asmenys;
@@ -159,7 +131,8 @@ asmenys;
 susijusių juridinių asmenų vadovai arba su investicine bendrove susijusių
 įmonių, neturinčių juridinio asmens teisių, savininkai ir vadovai.
 12.
-Asmenys, susiję su investicinės bendrovės depozitoriumu: 
+Asmenys,
+susiję su investicinės bendrovės depozitoriumu: 
 1) depozitoriumo kontroliuojami arba
 depozitoriumą kontroliuojantys asmenys;
 2) depozitoriumo vadovai;
@@ -170,24 +143,24 @@ neturinti įmonė, - šio juridinio asmens ar juridinio asmens teisių neturinč
 savininkai.
 13. Asmenys, susiję su investicinės
 bendrovės valdymo įmone:
-1) valdymo
-įmonės kontroliuojami arba valdymo įmonę kontroliuojantys asmenys;
+1) valdymo įmonės kontroliuojami arba valdymo įmonę kontroliuojantys
+asmenys;
 2) valdymo įmonės vadovai;
 3) jei kontroliuojamas arba
 kontroliuojantis asmuo yra juridinis asmuo arba juridinio asmens teisių
 neturinti įmonė, - šio juridinio asmens ar juridinio asmens teisių neturinčios
 įmonės vadovai arba juridinio asmens teisių neturinčios įmonės
 savininkai.
-14. Kontroliuojantis asmuo - įmonė,
-neturinti juridinio asmens teisių, fizinis arba juridinis asmuo, kuris būdamas
-akcininku (pajininku, nariu) pats turi daugiau kaip trečdalį visų balsų arba
-pagal susitarimą su kitais akcininkais (pajininkais, nariais) vienas
+14. Kontroliuojantis asmuo -
+įmonė, neturinti juridinio asmens teisių, fizinis arba juridinis asmuo, kuris
+būdamas akcininku (pajininku, nariu) pats turi daugiau kaip trečdalį visų
+balsų arba pagal susitarimą su kitais akcininkais (pajininkais, nariais) vienas
 kontroliuoja daugiau kaip trečdalį visų balsų, arba turi teisę išrinkti
 (paskirti) daugumą stebėtojų tarybos (valdybos) narių ar administracijos
 vadovą, arba faktiškai kontroliuoja juridinio asmens arba įmonės, neturinčios
 juridinio asmens teisių, priimamus sprendimus.
-15. Kontroliuojamas asmuo - įmonė arba
-organizacija, kurioje įmonė, neturinti juridinio asmens teisių, fizinis
+15. Kontroliuojamas asmuo - įmonė
+arba organizacija, kurioje įmonė, neturinti juridinio asmens teisių, fizinis
 arba juridinis asmuo, būdamas akcininku (pajininku, nariu), pats turi daugiau
 kaip trečdalį visų balsų arba pagal susitarimą su kitais akcininkais
 (pajininkais, nariais) vienas kontroliuoja daugiau kaip trečdalį visų balsų,
@@ -195,15 +168,16 @@ arba turi teisę išrinkti (paskirti) daugumą stebėtojų tarybos (valdybos) na
 ar administracijos vadovą, arba faktiškai kontroliuoja juridinio asmens arba
 įmonės, neturinčios juridinio asmens teisių, priimamus sprendimus.
 16.
-Pradinis kapitalas - leidimo verstis investicinės bendrovės veikla gavimo dieną
-investicinės bendrovės steigėjų apmokėtas investicinės bendrovės įstatinis arba
-nuosavas kapitalas.
-17. Vadovai - įmonės stebėtojų tarybos
-ir valdybos nariai, administracijos vadovas ir jo pavaduotojai, vyriausiasis
-finansininkas (buhalteris).
-18. Valdymo įmonė - įmonė, kuriai pagal
-turto valdymo sutartį yra perduotas investicinės bendrovės turto valdymas ir
-administracijos įgaliojimai.
+Pradinis
+kapitalas - leidimo verstis investicinės bendrovės veikla gavimo
+dieną investicinės bendrovės steigėjų apmokėtas investicinės bendrovės
+įstatinis arba nuosavas kapitalas.
+17. Vadovai - įmonės stebėtojų
+tarybos ir valdybos nariai, administracijos vadovas ir jo pavaduotojai,
+vyriausiasis finansininkas (buhalteris).
+18. Valdymo įmonė - įmonė, kuriai
+pagal turto valdymo sutartį yra perduotas investicinės bendrovės turto valdymas
+ir administracijos įgaliojimai.
 19. Nepriekaištinga reputacija.
 Nepriekaištingos reputacijos asmenimis nelaikomi:
 1)
@@ -219,26 +193,25 @@ piktnaudžiaus jiems suteiktais įgaliojimais.
  
 3 straipsnis. Investicinės bendrovės
 samprata
- 
-1. Investicinė
-bendrovė yra akcinė bendrovė (išskyrus šio straipsnio 4 dalyje numatytas išimtis), kuri sukaupia fizinių ir
-juridinių asmenų bei juridinio asmens teisių neturinčių įmonių pinigines lėšas
-viešai platindama savo akcijas ir turi bent vieną iš šių požymių:
-1) pagrindinė
-veikla, iš kurios gaunama daugiau kaip 60 procentų pajamų (išskyrus šio straipsnio 2 dalyje numatytą atvejį), yra
-sukauptų lėšų investavimas ar reinvestavimas į vertybinius popierius;
+1. Investicinė bendrovė yra akcinė bendrovė (išskyrus šio straipsnio 4
+dalyje numatytas išimtis), kuri sukaupia fizinių ir juridinių asmenų bei
+juridinio asmens teisių neturinčių įmonių pinigines lėšas viešai platindama savo akcijas ir turi bent vieną iš šių
+požymių:
+1) pagrindinė veikla, iš kurios gaunama daugiau kaip 60 procentų pajamų
+(išskyrus šio straipsnio 2 dalyje numatytą atvejį), yra sukauptų lėšų
+investavimas ar reinvestavimas į vertybinius
+popierius;
 2) daugiau kaip 50 procentų bendrovės
 turto vertės sudaro vertybiniai popieriai.
-2. Investicinė kintamojo kapitalo bendrovė
-gali verstis tik piniginių lėšų, kurios surenkamos viešai platinant
+2. Investicinė kintamojo kapitalo
+bendrovė gali verstis tik piniginių lėšų, kurios surenkamos viešai platinant
 išperkamąsias investicinės kintamojo kapitalo bendrovės akcijas, investavimu
 arba reinvestavimu į diversifikuotą investicijų portfelį.
-3. Kiekviena
-įmonė, atitinkanti šio straipsnio 1 dalies 1
-ar 2 punktų kriterijus, turi būti reorganizuota į investicinę bendrovę šiame
-įstatyme nustatyta tvarka, išskyrus šio straipsnio 4 dalyje nurodytus atvejus.
-4.
-Investicinėmis bendrovėmis nėra laikoma ir šis įstatymas netaikomas:
+3. Kiekviena įmonė, atitinkanti šio straipsnio 1 dalies 1 ar 2 punktų
+kriterijus, turi būti reorganizuota į investicinę bendrovę šiame įstatyme
+nustatyta tvarka, išskyrus šio straipsnio 4
+dalyje nurodytus atvejus.
+4. Investicinėmis bendrovėmis nėra laikoma ir šis įstatymas netaikomas:
 1) bankams, draudimo bendrovėms, finansų
 maklerio įmonėms, taip pat kitoms operacijas vertybiniais popieriais
 atliekančioms finansinėms institucijoms, kurių veiklą reglamentuoja kiti
@@ -246,22 +219,18 @@ atliekančioms finansinėms institucijoms, kurių veiklą reglamentuoja kiti
 2) ne daugiau kaip 100 akcininkų
 (savininkų) turinčioms akcinėms bendrovėms, kurios neplatino ir neplatina savo
 vertybinių popierių viešai;
-3) akcinėms
-bendrovėms, kurios laikinai peržengia šio straipsnio 1 dalies 2 punkte
-nustatytą ribą, jeigu jos šią ribą viršijančius vertybinius popierius parduos
-ne vėliau kaip per 3 mėnesius;
+3) akcinėms bendrovėms, kurios laikinai peržengia šio straipsnio 1 dalies 2 punkte nustatytą ribą, jeigu jos šią
+ribą viršijančius vertybinius popierius parduos ne vėliau kaip per 3 mėnesius;
 4) įmonėms, kurių įstatinis kapitalas
 yra mažesnis kaip 250 tūkstančių litų.
  
 4 straipsnis. Investicinių bendrovių
 klasifikacija
- 
 1. Investicinės bendrovės gali būti šių
 rūšių:
 1) investicinės kintamojo kapitalo
 bendrovės;
-                        2) uždarieji investiciniai
-fondai;
+2) uždarieji investiciniai fondai;
 3) kontroliuojančiosios investicinės
 bendrovės.
 2. Investicinė bendrovė yra laikoma
@@ -284,35 +253,33 @@ diversifikuotas ir ji nėra išleidusi išperkamųjų akcijų.
 4. Investicinė bendrovė yra laikoma
 kontroliuojančiąja investicine bendrove, jeigu jos turimas investicijų
 portfelis nėra diversifikuotas ir ji nėra išleidusi išperkamųjų akcijų.
-5.
-Kontroliuojančioji investicinė bendrovė gali būti įsteigta tik reorganizavus
-investicinę akcinę bendrovę, taip pat kitos rūšies įmonę (išskyrus investicinę kintamojo kapitalo bendrovę ir
+5. Kontroliuojančioji investicinė
+bendrovė gali būti įsteigta tik reorganizavus investicinę akcinę bendrovę, taip
+pat kitos rūšies įmonę (išskyrus investicinę kintamojo kapitalo bendrovę ir
 uždarąjį investicinį fondą) pagal 3 straipsnio 3 dalies nuostatas.
  
 ANTRASIS SKIRSNIS
 INVESTICINIŲ BENDROVIŲ BENDRIEJI REIKALAVIMAI
  
-5
-straipsnis. Investicinių bendrovių steigimas, reorganizavimas ir likvidavimas
- 
+5 straipsnis.
+Investicinių bendrovių steigimas, reorganizavimas ir likvidavimas
 1. Investicinės bendrovės veikla galima
 verstis tik gavus Vertybinių popierių komisijos leidimą. Norint gauti leidimą,
 Vertybinių popierių komisijai pateikiama paraiška. Paraiška teikiama ir
 leidimas išduodamas pagal Vertybinių popierių komisijos patvirtintas taisykles.
 Vertybinių popierių komisija per 30 kalendorinių dienų nuo paraiškos
 investicinės bendrovės veiklos leidimui gauti įteikimo privalo išnagrinėti
-leidimo išdavimo klausimą. Jei leidimas neišduodamas, investicinės bendrovės
-atstovams turi būti pateiktas motyvuotas atsakymas. 
+leidimo išdavimo klausimą. Jei leidimas neišduodamas, investicinės
+bendrovės atstovams turi būti pateiktas motyvuotas atsakymas. 
 2. Investicinės bendrovės pavadinime
 turi būti šie žodžiai ar jų santrumpos iš pirmųjų raidžių: „investicinė
-kintamojo kapitalo bendrovė“ ar „IKKB“, „uždarasis investicinis fondas“ ar
-„UIF“, „kontroliuojančioji investicinė bendrovė“ ar „KIB“. Investicinės
+kintamojo kapitalo bendrovė“ ar „IKKB“, „uždarasis investicinis fondas“
+ar „UIF“, „kontroliuojančioji investicinė bendrovė“ ar „KIB“. Investicinės
 bendrovės pavadinime žodžiai „akcinė bendrovė“ ar jų santrumpa „AB“ yra
 neprivalomi. Investicinės bendrovės pavadinimas turi atitikti Vyriausybės
 patvirtintų įmonių, įstaigų ir organizacijų vardų nuostatų reikalavimus. 
-3. Investicinės bendrovės veiklos leidimas gali
-būti išduotas naujai įsteigtai investicinei kintamojo kapitalo bendrovei ar
-uždarajam investiciniam fondui arba jau veikiančiai įmonei, kuri
+3. Investicinės bendrovės veiklos leidimas gali būti išduotas naujai
+įsteigtai investicinei kintamojo kapitalo bendrovei ar uždarajam investiciniam fondui arba jau veikiančiai įmonei, kuri
 reorganizuojama į investicinę bendrovę.
 4. Naujai steigiamo uždarojo
 investicinio fondo pirmosios emisijos akcijas gali įsigyti tik jo steigėjai.
@@ -322,24 +289,23 @@ nei šio įstatymo 6 straipsnio 1 dalyje nustatytas investicinės kintamojo
 kapitalo bendrovės minimalus nuosavas kapitalas. Investicinės bendrovės
 steigėjų įsigytos akcijos turi būti visiškai apmokėtos iki leidimo verstis
 investicinės bendrovės veikla išdavimo. 
-5. Turto
-valdymo sutartį su investicinės bendrovės
-valdymo įmone arba sutartį dėl investicinės bendrovės turto saugojimo su šios
-bendrovės depozitoriumu investicinės bendrovės steigimo metu gali pasirašyti
-šios bendrovės steigėjų atstovas, turintis teisę steigimo metu sudarinėti sandorius steigiamos bendrovės vardu. Šias
-sutartis turi patvirtinti steigiamasis investicinės bendrovės susirinkimas.
-Tokios sutartys įsigalioja nuo investicinės bendrovės įregistravimo įmonių
-rejestre. Tuo atveju, kai į investicinę bendrovę reorganizuojama kitos rūšies įmonė, turto valdymo sutartį su valdymo įmone
-turi teisę pasirašyti reorganizuojamos įmonės vadovas ir tokia sutartis
-įsigalioja nuo jos patvirtinimo po reorganizavimo veikiančios investicinės
-bendrovės akcininkų susirinkime.
+5. Turto valdymo sutartį su investicinės bendrovės valdymo įmone arba
+sutartį dėl investicinės bendrovės turto saugojimo su šios bendrovės depozitoriumu investicinės bendrovės steigimo
+metu gali pasirašyti šios bendrovės steigėjų atstovas, turintis teisę steigimo
+metu sudarinėti sandorius steigiamos bendrovės vardu. Šias sutartis turi
+patvirtinti steigiamasis investicinės bendrovės susirinkimas. Tokios sutartys įsigalioja nuo investicinės
+bendrovės įregistravimo įmonių rejestre. Tuo atveju, kai į investicinę bendrovę
+reorganizuojama kitos rūšies įmonė, turto valdymo sutartį su valdymo įmone turi
+teisę pasirašyti reorganizuojamos įmonės vadovas ir tokia sutartis įsigalioja nuo jos patvirtinimo po reorganizavimo
+veikiančios investicinės bendrovės akcininkų susirinkime.
 6. Prie paraiškos gauti leidimą,
 nurodytos šio straipsnio 1 dalyje, turi būti pridėta investicinės bendrovės
 steigimo sutartis, įstatai, įmonės registravimo pažymėjimas, dokumentai,
-įrodantys, kad investicinės bendrovės turtas yra perduotas saugoti depozitoriumui,
-pažyma apie investicinės bendrovės akcijų apmokėjimą, taip pat sutartis su
-valdymo įmone ir depozitoriumu, jeigu pagal šį įstatymą tokios sutartys turi
-būti sudarytos arba neprivalo būti sudarytos, bet yra sudarytos.
+įrodantys, kad investicinės bendrovės turtas yra perduotas saugoti
+depozitoriumui, pažyma apie investicinės bendrovės akcijų apmokėjimą, taip pat
+sutartis su valdymo įmone ir depozitoriumu, jeigu pagal šį įstatymą tokios
+sutartys turi būti sudarytos arba neprivalo būti sudarytos, bet yra
+sudarytos.
 7. Investicinės bendrovės įstatuose turi
 būti nurodyta:
 1) pavadinimas;
@@ -350,23 +316,23 @@ objektai, būdai;
 kontroliuojančiosios investicinės bendrovės įstatinio kapitalo dydis;
 5) uždarojo investicinio fondo ar
 kontroliuojančiosios investicinės bendrovės akcijų skaičius ir jų nominali
-vertė, jeigu investicinės kintamojo kapitalo bendrovės leidžiamos išperkamosios
-akcijos turi nominalią vertę, - šių akcijų nominali vertė;
-6) akcijų suteikiamos teisės,
-investicinės kintamojo kapitalo bendrovės akcijų pardavimo ir išpirkimo tvarka
-ir terminai, atsiskaitymo už išpirktas arba parduotas akcijas tvarka ir
-terminai, kurie negali būti ilgesni, nei nustatyti įstatyme; akcijų išpirkimo
-sustabdymo ir nutraukimo tvarka; akcijų pardavimo sustabdymo ir nutraukimo
-pagrindai bei tvarka;
-            7) valdymo organų formavimo
+vertė, jeigu investicinės kintamojo kapitalo bendrovės leidžiamos
+išperkamosios akcijos turi nominalią vertę, - šių akcijų nominali vertė;
+6) akcijų suteikiamos teisės, investicinės
+kintamojo kapitalo bendrovės akcijų pardavimo ir išpirkimo tvarka ir terminai,
+atsiskaitymo už išpirktas arba parduotas akcijas tvarka ir terminai, kurie
+negali būti ilgesni, nei nustatyti įstatyme; akcijų išpirkimo sustabdymo ir
+nutraukimo tvarka; akcijų pardavimo sustabdymo ir nutraukimo pagrindai bei
 tvarka;
-8) visuotinio akcininkų susirinkimo
-kompetencija, jo sušaukimo bei balsavimo jame tvarka, investicinės kintamojo
-kapitalo bendrovės visuotinio akcininkų susirinkimo kvorumas;
+7) valdymo organų formavimo tvarka;
+8) visuotinio akcininkų susirinkimo kompetencija,
+jo sušaukimo bei balsavimo jame tvarka, investicinės kintamojo kapitalo
+bendrovės visuotinio akcininkų susirinkimo kvorumas;
 9) stebėtojų tarybos ir valdybos, jeigu
 ji sudaroma, kompetencija bei administracijos vadovo, jei administracija
 sudaroma, kompetencija;
-10) pajamų paskirstymo politika ir tvarka; 
+10) pajamų paskirstymo politika ir
+tvarka; 
 11) investicinės kintamojo kapitalo
 bendrovės dividendų išmokėjimo akcininkams principai ir tvarka, numatant
 dividendų paskirstymo akcininkams tvarką, išmokų periodiškumą, pelno dalį,
@@ -378,16 +344,14 @@ ir investicinės kintamojo kapitalo bendrovės akcijų pardavimo bei išpirkimo
 kainos nustatymo taisyklės;
 13) išlaidų struktūra ir jų padengimo
 principai;
-14) pranešimų
-paskelbimo tvarka, prospektų, metų ir
-pusmečių ataskaitų pateikimo bei paskelbimo tvarka, bendrovės dokumentų ir
-kitos informacijos pateikimo akcininkams tvarka;
-15) likvidavimo
-ir uždarojo investicinio fondo bei kontroliuojančiosios investicinės bendrovės
-reorganizavimo tvarka;
-16) gali būti ir kitų nuostatų, neprieštaraujančių įstatymams
-ir kitiems teisės aktams. Investicinės kintamojo kapitalo bendrovės įstatuose
-gali būti nurodomas numatomas išleisti didžiausias akcijų skaičius.
+14) pranešimų paskelbimo tvarka, prospektų, metų ir pusmečių ataskaitų
+pateikimo bei paskelbimo tvarka, bendrovės dokumentų ir kitos informacijos
+pateikimo akcininkams tvarka;
+15) likvidavimo ir uždarojo investicinio fondo bei kontroliuojančiosios
+investicinės bendrovės reorganizavimo tvarka;
+16) gali būti ir kitų nuostatų, neprieštaraujančių įstatymams ir kitiems
+teisės aktams. Investicinės kintamojo kapitalo bendrovės įstatuose gali būti nurodomas numatomas išleisti
+didžiausias akcijų skaičius.
 8. Investicinės bendrovės įstatai negali
 būti pakeisti ar papildyti, o depozitoriumas ar valdymo įmonė negali būti
 pakeisti be Vertybinių popierių komisijos sutikimo. Sutikimas yra laikomas
@@ -408,59 +372,55 @@ dalyje nurodyti dokumentai;
 reikalavimų;
 3) leidimui gauti pateiktuose
 dokumentuose yra klaidingos ar tikrovės neatitinkančios informacijos;
-4) ne visos
-naujai steigiamo uždarojo investicinio fondo pirmosios emisijos akcijos yra
-apmokėtos arba naujai steigiamo uždarojo investicinio fondo steigėjai įsigijo
-tik dalį pirmosios emisijos akcijų, arba investicinės
-kintamojo kapitalo bendrovės steigėjai įsigijo naujai steigiamos investicinės
-kintamojo kapitalo bendrovės akcijų už mažesnę sumą nei šio įstatymo 6
-straipsnio 1 dalyje numatytas investicinės kintamojo kapitalo bendrovės
-minimalus nuosavas kapitalas, arba apmokėtas
-ne visas investicinės kintamojo kapitalo bendrovės minimalus nuosavas
-kapitalas, nurodytas šio įstatymo 6 straipsnio 1 dalyje, arba steigėjai
-apmokėjo ne visas įsigytas akcijas;
-5) investicinės
-bendrovės vadovai ar steigėjai, investicinės
-bendrovės valdymo įmonės ir (arba) depozitoriumo vadovai nėra nepriekaištingos
-reputacijos asmenys ir (arba) neturi darbo finansinėse įstaigose ar bankuose
-patirties;
-6) investicinė
-bendrovė nėra perdavusi piniginių lėšų ir (arba) vertybinių popierių saugoti depozitoriumui.
-10. Jeigu
-naujai steigiamo uždarojo investicinio fondo ar kontroliuojančiosios
-investicinės bendrovės investicijų portfelio valdymas nėra perduotas valdymo
-įmonei, ne mažiau kaip du investicinės bendrovės vadovai arba darbuotojai, atsakingi už investicinės bendrovės turto valdymą,
-privalo turėti Vertybinių popierių komisijos pripažintą kvalifikacinį
-sertifikatą. Apie kvalifikacinius sertifikatus turinčių asmenų pasikeitimus
-turi būti per 10 dienų pranešta Vertybinių popierių komisijai.
+4) ne visos naujai steigiamo uždarojo investicinio fondo pirmosios
+emisijos akcijos yra apmokėtos arba naujai
+steigiamo uždarojo investicinio fondo steigėjai įsigijo tik dalį pirmosios
+emisijos akcijų, arba investicinės kintamojo kapitalo bendrovės steigėjai
+įsigijo naujai steigiamos investicinės kintamojo kapitalo bendrovės akcijų už mažesnę sumą nei šio įstatymo 6 straipsnio 1
+dalyje numatytas investicinės kintamojo kapitalo bendrovės minimalus nuosavas
+kapitalas, arba apmokėtas ne visas investicinės kintamojo kapitalo bendrovės
+minimalus nuosavas kapitalas, nurodytas šio įstatymo 6 straipsnio 1 dalyje, arba steigėjai apmokėjo ne visas įsigytas akcijas;
+5) investicinės bendrovės vadovai ar steigėjai, investicinės bendrovės
+valdymo įmonės ir (arba) depozitoriumo vadovai nėra nepriekaištingos
+reputacijos asmenys ir (arba) neturi darbo
+finansinėse įstaigose ar bankuose patirties;
+6) investicinė bendrovė nėra perdavusi piniginių lėšų ir (arba)
+vertybinių popierių saugoti depozitoriumui.
+10. Jeigu naujai steigiamo uždarojo investicinio fondo ar
+kontroliuojančiosios investicinės bendrovės investicijų
+portfelio valdymas nėra perduotas valdymo įmonei, ne mažiau kaip du
+investicinės bendrovės vadovai arba darbuotojai, atsakingi už investicinės
+bendrovės turto valdymą, privalo turėti Vertybinių popierių komisijos
+pripažintą kvalifikacinį sertifikatą. Apie
+kvalifikacinius sertifikatus turinčių asmenų pasikeitimus turi būti per 10
+dienų pranešta Vertybinių popierių komisijai.
 11. Investicinės bendrovės
 registruojamos Įmonių rejestro įstatymo nustatyta tvarka.
-12. Uždarojo
-investicinio fondo rūšis gali būti keičiama tik į investicinės kintamojo
-kapitalo bendrovės rūšį. Kontroliuojančiosios investicinės bendrovės rūšis gali
-būti keičiama tik į uždarojo investicinio
-fondo arba investicinės kintamojo kapitalo bendrovės rūšį. Keisti investicinės
-kintamojo kapitalo bendrovės rūšį ar veiklą draudžiama. Draudžiama keisti
-investicinės bendrovės veiklą. Investicinei bendrovei reorganizuoti arba investicinės bendrovės rūšiai pakeisti turi
-būti gautas Vertybinių popierių komisijos sutikimas. Keičiant investicinės
-bendrovės rūšį, investicinė bendrovė turi gauti naują leidimą, kuris suteiktų
-jai teisę verstis kitos rūšies investicinės bendrovės veikla, ir atitinkamai pakeisti savo įstatus. Jei uždarojo investicinio
-fondo arba kontroliuojančiosios investicinės bendrovės rūšis keičiama į
-investicinės kintamojo kapitalo bendrovės rūšį, Vertybinių popierių komisijoje
-turi būti perregistruojamos šios bendrovės
-akcijos, įregistruojant išperkamąsias akcijas. Nutarimą pakeisti investicinės
-bendrovės rūšį turi teisę priimti tik investicinės bendrovės visuotinis
-akcininkų susirinkimas ne mažesne kaip 3/4 atstovaujamų susirinkime balsų
-dauguma. Investicinę bendrovę
-reorganizuojant skaidymo būdu, kiekvienas jos akcininkas turi gauti tokią pat
-dalį kiekvienos iš naujo steigiamos investicinės bendrovės akcijų, kokią jis
-turėjo reorganizuojamoje bendrovėje. Investicinės bendrovės reorganizavimo arba
-likvidavimo pagrindas negali būti jos turto
-dalies, kurią sudaro vertybiniai popieriai, sumažėjimas žemiau 3 straipsnio 1
-dalies 2 punkte nustatytos ribos.
+12. Uždarojo investicinio fondo rūšis gali
+būti keičiama tik į investicinės kintamojo kapitalo bendrovės rūšį.
+Kontroliuojančiosios investicinės bendrovės rūšis gali būti keičiama tik į
+uždarojo investicinio fondo arba investicinės kintamojo kapitalo bendrovės
+rūšį. Keisti investicinės kintamojo kapitalo
+bendrovės rūšį ar veiklą draudžiama. Draudžiama keisti investicinės bendrovės
+veiklą. Investicinei bendrovei reorganizuoti arba investicinės bendrovės rūšiai
+pakeisti turi būti gautas Vertybinių popierių komisijos sutikimas. Keičiant
+investicinės bendrovės rūšį, investicinė
+bendrovė turi gauti naują leidimą, kuris suteiktų jai teisę verstis kitos
+rūšies investicinės bendrovės veikla, ir atitinkamai pakeisti savo įstatus. Jei
+uždarojo investicinio fondo arba kontroliuojančiosios investicinės bendrovės rūšis keičiama į investicinės kintamojo
+kapitalo bendrovės rūšį, Vertybinių popierių komisijoje turi būti
+perregistruojamos šios bendrovės akcijos, įregistruojant išperkamąsias akcijas.
+Nutarimą pakeisti investicinės bendrovės rūšį turi teisę priimti tik investicinės bendrovės visuotinis akcininkų
+susirinkimas ne mažesne kaip 3/4 atstovaujamų susirinkime balsų dauguma.
+Investicinę bendrovę reorganizuojant skaidymo būdu, kiekvienas jos akcininkas
+turi gauti tokią pat dalį kiekvienos iš naujo steigiamos investicinės bendrovės akcijų, kokią jis turėjo reorganizuojamoje
+bendrovėje. Investicinės bendrovės reorganizavimo arba likvidavimo pagrindas
+negali būti jos turto dalies, kurią sudaro vertybiniai popieriai, sumažėjimas
+žemiau 3 straipsnio 1 dalies 2 punkte
+nustatytos ribos.
 13. Vertybinių popierių komisija gali
-panaikinti investicinei bendrovei išduotą veiklos leidimą, jeigu investicinė
-bendrovė:
+panaikinti investicinei bendrovei išduotą veiklos leidimą, jeigu
+investicinė bendrovė:
 1) yra likviduojama;
 2) leidimą gavo pateikusi klaidingą ar
 melagingą informaciją, suklastotus dokumentus, taip pat nuslėpusi faktus, dėl
@@ -469,33 +429,31 @@ kurių leidimas neturėjo būti išduodamas;
 sąlygų arba nesilaiko įstatymų ir kitų teisės aktų;
 4) nevykdo šio įstatymo 6 straipsnio 1
 dalyje nustatytų kapitalo reikalavimų;
-5) 12 mėnesių
-nesinaudoja suteiktu leidimu arba tokį laikotarpį nesiverčia savo veikla;
+5) 12 mėnesių nesinaudoja suteiktu
+leidimu arba tokį laikotarpį nesiverčia savo veikla;
 6) neužtikrina jai patikėtų lėšų
 saugumo, nebegali vykdyti įsipareigojimų kreditoriams arba jai iškeliama
 bankroto byla;
-7) aplaidžiai
-ar apgaulingai tvarko buhalterinę apskaitą, netinkamai sudaro finansines
-ataskaitas, išskyrus, jeigu tai įvyko dėl investicinės bendrovės depozitoriumo
-arba valdymo įmonės kaltės;
+7) aplaidžiai ar apgaulingai tvarko buhalterinę apskaitą, netinkamai sudaro finansines ataskaitas, išskyrus, jeigu
+tai įvyko dėl investicinės bendrovės depozitoriumo arba valdymo įmonės kaltės;
 8) yra reorganizuojama.
 14. Leidimas investicinei bendrovei taip
 pat gali būti panaikintas, jeigu atsiranda nors viena iš sąlygų, nurodytų šio
-straipsnio 9 dalies 5 punkte. Tais atvejais, kai 13 dalies 6 ir 7 punktuose
-nurodyti investicinės bendrovės leidimo panaikinimo pagrindai atsiranda dėl
-investicinės bendrovės depozitoriumo arba valdymo įmonės kaltės, Vertybinių
-popierių komisija turi teisę nurodyti investicinei bendrovei pakeisti valdymo
-įmonę ir (arba) depozitoriumą šio įstatymo nustatyta tvarka.
-15. Investicinė bendrovė turi teisę samdyti
-nepriklausomą auditorių bendrovės veiklai patikrinti, jeigu Vertybinių popierių
-komisija nustato šio straipsnio 13 dalies 6 ir 7 punktuose nurodytus
-investicinės bendrovės veiklos leidimo panaikinimo pagrindus. Nepriklausomo auditoriaus išvada Vertybinių popierių
-komisijai turi būti pateikta per 2 mėnesius nuo pareikalavimo atlikti auditą,
-jeigu Komisija nenustato kitokio termino. Investicinei bendrovei išduoto
-veiklos leidimo panaikinimo klausimas gali būti svarstomas be nepriklausomo audito išvadų, jeigu investicinė
-bendrovė per nustatytą terminą Vertybinių popierių komisijai nepateikė šių
-išvadų arba atsisakė atlikti nepriklausomą auditą, arba nepateikė jokios
-informacijos apie tai, kad bus atliekamas nepriklausomas auditas.
+straipsnio 9 dalies 5 punkte. Tais atvejais, kai 13 dalies 6 ir 7
+punktuose nurodyti investicinės bendrovės leidimo panaikinimo pagrindai
+atsiranda dėl investicinės bendrovės depozitoriumo arba valdymo įmonės kaltės,
+Vertybinių popierių komisija turi teisę nurodyti investicinei bendrovei
+pakeisti valdymo įmonę ir (arba) depozitoriumą šio įstatymo nustatyta tvarka.
+15. Investicinė bendrovė turi teisę samdyti nepriklausomą auditorių
+bendrovės veiklai patikrinti, jeigu Vertybinių popierių komisija nustato šio straipsnio 13 dalies 6 ir 7
+punktuose nurodytus investicinės bendrovės veiklos leidimo panaikinimo
+pagrindus. Nepriklausomo auditoriaus išvada Vertybinių popierių komisijai turi
+būti pateikta per 2 mėnesius nuo pareikalavimo atlikti auditą, jeigu Komisija nenustato kitokio termino.
+Investicinei bendrovei išduoto veiklos leidimo panaikinimo klausimas gali būti
+svarstomas be nepriklausomo audito išvadų, jeigu investicinė bendrovė per
+nustatytą terminą Vertybinių popierių komisijai nepateikė šių išvadų arba atsisakė atlikti nepriklausomą
+auditą, arba nepateikė jokios informacijos apie tai, kad bus atliekamas
+nepriklausomas auditas.
 16. Jeigu investicinei bendrovei
 išduotas leidimas buvo panaikintas, ši bendrovė turi būti likviduojama,
 išskyrus šio straipsnio 13 dalies 8 punkte nurodytą atvejį. Likviduojama
@@ -509,74 +467,66 @@ investicinės bendrovės turtas, kurį sudaro vertybiniai popieriai, įtraukti �
 vertybinių popierių biržų prekybos sąrašus, turi būti parduoti per šias biržas;
 vertybiniai popieriai, kuriais prekiaujama kitose pripažintose nuolatinėse
 reguliuojamose rinkose, turi būti parduoti šiose rinkose; kiti vertybiniai
-popieriai bei kitas investicinės bendrovės kilnojamasis ir nekilnojamasis turtas
-turi būti parduotas aukcione pagal Vertybinių popierių komisijos nustatytas
-taisykles. Gauti už jį pinigai kartu su kitomis likviduojamos bendrovės
-piniginėmis lėšomis, įvykdžius visas jos prievoles, padalijami akcininkams
-proporcingai jų turimų šios bendrovės akcijų skaičiui. Likviduojama investicinė
-bendrovė gali sudaryti tik tuos sandorius, kurie susiję su jos likvidavimu.
-Likviduojamos investicinės kintamojo kapitalo bendrovės akcijų pardavimas ir
-išpirkimas nutraukiamas nuo nutarimo likviduoti šią bendrovę priėmimo akcininkų
-susirinkime. Apie tokį nutarimą turi būti nedelsiant pranešta asmenims,
-platinantiems ir išperkantiems investicinės kintamojo kapitalo bendrovės
-akcijas.
-17. Ginčus dėl
-investicinės bendrovės veiklos leidimo išdavimo ar jo panaikinimo sprendžia teismas.
-18.
-Investicinės bendrovės turi teisę investuoti savo turtą į kitą įmonę (įsigyti
-šios įmonės vertybinių popierių) be raštiško kreditorių sutikimo.
+popieriai bei kitas investicinės bendrovės kilnojamasis ir nekilnojamasis
+turtas turi būti parduotas aukcione pagal Vertybinių popierių komisijos
+nustatytas taisykles. Gauti už jį pinigai kartu su kitomis likviduojamos
+bendrovės piniginėmis lėšomis, įvykdžius visas jos prievoles, padalijami
+akcininkams proporcingai jų turimų šios bendrovės akcijų skaičiui. Likviduojama
+investicinė bendrovė gali sudaryti tik tuos sandorius, kurie susiję su jos
+likvidavimu. Likviduojamos investicinės kintamojo kapitalo bendrovės
+akcijų pardavimas ir išpirkimas nutraukiamas nuo nutarimo likviduoti šią
+bendrovę priėmimo akcininkų susirinkime. Apie tokį nutarimą turi būti
+nedelsiant pranešta asmenims, platinantiems ir išperkantiems investicinės
+kintamojo kapitalo bendrovės akcijas.
+17. Ginčus dėl investicinės bendrovės veiklos leidimo išdavimo ar jo
+panaikinimo sprendžia teismas.
+18. Investicinės bendrovės turi teisę investuoti savo turtą į kitą įmonę
+(įsigyti šios įmonės vertybinių popierių) be
+raštiško kreditorių sutikimo.
  
 6 straipsnis. Kapitalas
- 
-1. Investicinės
-kintamojo kapitalo bendrovės nuosavas kapitalas
-turi būti ne mažesnis kaip 1 milijonas litų. Uždarojo investicinio fondo ir
-kontroliuojančiosios investicinės bendrovės įstatinis kapitalas turi būti ne
-mažesnis kaip 250 tūkstančių litų, o jų nuosavi (grynieji) aktyvai negali būti
-mažesni už įstatinį kapitalą. Vertybinių
+1. Investicinės kintamojo kapitalo bendrovės nuosavas kapitalas turi būti
+ne mažesnis kaip 1 milijonas litų. Uždarojo investicinio fondo ir
+kontroliuojančiosios investicinės bendrovės
+įstatinis kapitalas turi būti ne mažesnis kaip 250 tūkstančių litų, o jų
+nuosavi (grynieji) aktyvai negali būti mažesni už įstatinį kapitalą. Vertybinių
 popierių komisijai ne vėliau kaip per 5 dienas turi būti pranešta apie tai,
 kad:
-1) investicinės
-kintamojo kapitalo bendrovės nuosavas kapitalas tapo mažesnis nei 1 milijonas
-litų;
-2) uždarojo
-investicinio fondo ar kontroliuojančiosios
-investicinės bendrovės nuosavi (grynieji) aktyvai tapo mažesni už įstatinį
-kapitalą.
+1) investicinės kintamojo kapitalo
+bendrovės nuosavas kapitalas tapo mažesnis nei 1 milijonas litų;
+2) uždarojo investicinio fondo ar kontroliuojančiosios investicinės
+bendrovės nuosavi (grynieji) aktyvai tapo mažesni už įstatinį kapitalą.
 2. Didinant uždarojo investicinio fondo
 arba kontroliuojančiosios investicinės bendrovės įstatinį kapitalą, akcininkai
-neturi pirmumo teisės pasirašyti naujos emisijos akcijų. Akcininkai taip pat
-neturi pirmumo teisės pasirašyti papildomų investicinės kintamojo kapitalo
+neturi pirmumo teisės pasirašyti naujos emisijos akcijų. Akcininkai taip
+pat neturi pirmumo teisės pasirašyti papildomų investicinės kintamojo kapitalo
 bendrovės akcijų.
-3. Uždarasis
-investicinis fondas ir kontroliuojančioji investicinė bendrovė neturi teisės
-mažinti įstatinio kapitalo, išskyrus mažinimą
-dėl patirtų nuostolių ir šio įstatymo 10 straipsnio 5 dalyje nurodytą atvejį.
-4. Uždarojo
-investicinio fondo skolintas kapitalas negali sudaryti daugiau kaip 10 procentų
-jo nuosavų (grynųjų) aktyvų vertės. Jei šis reikalavimas yra pažeidžiamas dėl
-nuosavų (grynųjų) aktyvų vertės sumažėjimo,
-uždarasis investicinis fondas ne vėliau kaip per 3 mėnesius nuo pažeidimo
-padarymo dienos privalo tokią būklę ištaisyti.
-5. Investicinės
-kintamojo kapitalo bendrovės skolintas kapitalas negali sudaryti daugiau kaip
-15 procentų jos nuosavų (grynųjų) aktyvų
-vertės. Ilgalaikės paskolos kilnojamajam ar nekilnojamajam turtui, būtinam šios
-bendrovės veiklai, įsigyti negali sudaryti daugiau kaip 10 procentų jos nuosavų
-(grynųjų) aktyvų vertės. Investicinė kintamojo kapitalo bendrovė gali imti savo išleistoms akcijoms
-išpirkti būtiną trumpalaikę paskolą (ne ilgiau kaip 60 dienų), kuri negali
-sudaryti daugiau kaip 10 procentų bendrovės nuosavų (grynųjų) aktyvų vertės ir
-kartu su ilgalaikėmis paskolomis negali viršyti šioje dalyje nustatyto limito.
+3. Uždarasis investicinis fondas ir
+kontroliuojančioji investicinė bendrovė neturi teisės mažinti įstatinio
+kapitalo, išskyrus mažinimą dėl patirtų nuostolių ir šio įstatymo 10 straipsnio
+5 dalyje nurodytą atvejį.
+4. Uždarojo investicinio fondo skolintas kapitalas negali sudaryti daugiau kaip 10 procentų jo nuosavų (grynųjų)
+aktyvų vertės. Jei šis reikalavimas yra pažeidžiamas dėl nuosavų (grynųjų)
+aktyvų vertės sumažėjimo, uždarasis investicinis fondas ne vėliau kaip per 3
+mėnesius nuo pažeidimo padarymo dienos
+privalo tokią būklę ištaisyti.
+5. Investicinės kintamojo kapitalo bendrovės skolintas kapitalas negali
+sudaryti daugiau kaip 15 procentų jos nuosavų (grynųjų) aktyvų vertės.
+Ilgalaikės paskolos kilnojamajam ar nekilnojamajam turtui, būtinam šios bendrovės veiklai, įsigyti negali sudaryti daugiau kaip
+10 procentų jos nuosavų (grynųjų) aktyvų vertės. Investicinė kintamojo kapitalo
+bendrovė gali imti savo išleistoms akcijoms išpirkti būtiną trumpalaikę paskolą
+(ne ilgiau kaip 60 dienų), kuri negali sudaryti
+daugiau kaip 10 procentų bendrovės nuosavų (grynųjų) aktyvų vertės ir kartu su
+ilgalaikėmis paskolomis negali viršyti šioje dalyje nustatyto limito.
  
 7 straipsnis. Akcijos
- 
 1. Investicinės bendrovės visos akcijos
 gali būti tik paprastosios, suteikiančios vienodas teises jų savininkams.
 Kiekviena akcija suteikia jos turėtojui vieną balsą visuose akcininkų
 susirinkimuose ir teisę lygiais pagrindais su kitomis akcijomis gauti
 dividendus bei atitinkamą dalį investicinės bendrovės turto, kai ji
-likviduojama. Investicinės kintamojo kapitalo bendrovės akcijos gali neturėti
-nominalios vertės.
+likviduojama. Investicinės kintamojo kapitalo bendrovės akcijos gali
+neturėti nominalios vertės.
 2. Investicinės kintamojo kapitalo
 bendrovės ir uždarojo investicinio fondo akcijos ir steigimo metu, ir
 platinamos įregistravus bendrovę gali būti apmokėtos tik pinigais. Platinant
@@ -584,33 +534,33 @@ platinamos įregistravus bendrovę gali būti apmokėtos tik pinigais. Platinant
 atsiskaityti piniginiais įnašais ir šio įstatymo 9 straipsnio 2 dalyje
 nurodytais vertybiniais popieriais bei nekilnojamuoju turtu, tačiau turtiniai
 įnašai negali sudaryti daugiau nei 25 procentus platinamų akcijų vertės.
-Uždarojo investicinio fondo ir kontroliuojančiosios investicinės bendrovės akcijos
-turi būti visiškai apmokėtos iki įstatinio kapitalo ar jo padidinimo
+Uždarojo investicinio fondo ir kontroliuojančiosios investicinės bendrovės
+akcijos turi būti visiškai apmokėtos iki įstatinio kapitalo ar jo padidinimo
 įregistravimo. Investicinė kintamojo kapitalo bendrovė neturi teisės parduoti
 savo akcijų išsimokėtinai ar atidėti jų apmokėjimo termino. Už investicinės
 kintamojo kapitalo bendrovės akcijas turi būti atsiskaityta ne vėliau kaip per
-3 darbo dienas nuo investicinės kintamojo kapitalo bendrovės akcijų
-pirkimo-pardavimo sandorio sudarymo. Tik po to, kai investicinės kintamojo
-kapitalo bendrovės akcijos visiškai apmokamos, jos laikomos išleistomis ir gali
-būti įrašomos į šios bendrovės akcininko asmeninę vertybinių popierių sąskaitą
-bei įtraukiamos į apskaitą pagal sąskaitų tvarkytojams keliamus reikalavimus.
-Investicinė kintamojo kapitalo bendrovė neturi teisės išleisti akcijų ar
-perduoti jas investuotojams, jei už jas nėra sumokėta nustatyta kaina.
-Investicinės kintamojo kapitalo bendrovės akcijų išpirkimo sandoris laikomas
-sudarytu nuo pareikalavimo išpirkti šios bendrovės akcijas iš jų savininko
-pateikimo asmeniui, išperkančiam investicinės kintamojo kapitalo bendrovės
-akcijas, ir patvirtinimo savininkui, kad toks reikalavimas gautas, pateikimo.
-Nuo išpirkimo sandorio sudarymo investicinės kintamojo kapitalo bendrovės
-akcininkas netenka visų teisių, kurias suteikia šios bendrovės akcijos, išskyrus
-teises, atsirandančias iš išpirkimo sandorio sudarymo. Asmuo, išperkantis
-investicinės kintamojo kapitalo bendrovės akcijas, privalo atsiskaityti su
-asmeniu, pareikalavusiu išpirkti šios bendrovės akcijas, ne vėliau kaip per 7
-darbo dienas nuo akcijų išpirkimo sandorio sudarymo.
-3. Uždarojo
-investicinio fondo ir kontroliuojančiosios investicinės bendrovės akcijos gali
-būti įtrauktos į vertybinių popierių biržos prekybos sąrašus pagal Vertybinių
-popierių komisijos ir biržos patvirtintas taisykles. Investicinės kintamojo kapitalo bendrovės akcijos negali būti perkamos ir
-parduodamos vertybinių popierių biržoje.
+3 darbo dienas nuo investicinės kintamojo kapitalo bendrovės akcijų pirkimo-pardavimo
+sandorio sudarymo. Tik po to, kai investicinės kintamojo kapitalo bendrovės
+akcijos visiškai apmokamos, jos laikomos išleistomis ir gali būti įrašomos į
+šios bendrovės akcininko asmeninę vertybinių popierių sąskaitą bei įtraukiamos
+į apskaitą pagal sąskaitų tvarkytojams keliamus reikalavimus. Investicinė
+kintamojo kapitalo bendrovė neturi teisės išleisti akcijų ar perduoti jas
+investuotojams, jei už jas nėra sumokėta nustatyta kaina. Investicinės
+kintamojo kapitalo bendrovės akcijų išpirkimo sandoris laikomas sudarytu nuo
+pareikalavimo išpirkti šios bendrovės akcijas iš jų savininko pateikimo
+asmeniui, išperkančiam investicinės kintamojo kapitalo bendrovės akcijas, ir
+patvirtinimo savininkui, kad toks reikalavimas gautas, pateikimo. Nuo išpirkimo
+sandorio sudarymo investicinės kintamojo kapitalo bendrovės akcininkas netenka
+visų teisių, kurias suteikia šios bendrovės akcijos, išskyrus teises,
+atsirandančias iš išpirkimo sandorio sudarymo. Asmuo, išperkantis investicinės
+kintamojo kapitalo bendrovės akcijas, privalo atsiskaityti su asmeniu,
+pareikalavusiu išpirkti šios bendrovės akcijas, ne vėliau kaip per 7 darbo
+dienas nuo akcijų išpirkimo sandorio sudarymo.
+3. Uždarojo investicinio fondo ir kontroliuojančiosios investicinės
+bendrovės akcijos gali būti įtrauktos į
+vertybinių popierių biržos prekybos sąrašus pagal Vertybinių popierių komisijos
+ir biržos patvirtintas taisykles. Investicinės kintamojo kapitalo bendrovės
+akcijos negali būti perkamos ir parduodamos vertybinių popierių biržoje.
 4. Jeigu akcininkas pareikalauja,
 investicinė kintamojo kapitalo bendrovė privalo įstatuose nustatyta tvarka
 išpirkti iš jo savo akcijas, atsiskaitydama už jas pinigais. Investicinės
@@ -629,42 +579,40 @@ išpirkimo kainą šių akcijų platinimo ir (arba) išpirkimo sąnaudų suma ti
 atveju, jei šiomis sąnaudomis nebuvo sumažinti investicinės kintamojo kapitalo
 bendrovės nuosavi (grynieji) aktyvai ir nebuvo padidinta šios bendrovės akcijų
 pardavimo kaina.
-5. Investicinė
-kintamojo kapitalo bendrovė privalo viešai skelbti savo akcijų pardavimo ir
-išpirkimo kainas kiekvieną kartą, kai jos išleidžiamos ar išperkamos, tačiau ne rečiau kaip du kartus per
-mėnesį. Vertybinių popierių komisija gali sumažinti skelbimų dažnumą iki vieno
-karto per mėnesį, jeigu toks sumažinimas nepadarys žalos investicinės kintamojo
-kapitalo bendrovės akcininkams ir kitiems investuotojams.
+5. Investicinė kintamojo kapitalo
+bendrovė privalo viešai skelbti savo akcijų pardavimo ir išpirkimo kainas
+kiekvieną kartą, kai jos išleidžiamos ar išperkamos, tačiau ne rečiau kaip du
+kartus per mėnesį. Vertybinių popierių komisija gali sumažinti skelbimų dažnumą
+iki vieno karto per mėnesį, jeigu toks
+sumažinimas nepadarys žalos investicinės kintamojo kapitalo bendrovės
+akcininkams ir kitiems investuotojams.
 6. Investicinė kintamojo kapitalo
 bendrovė, remdamasi savo įstatuose numatytomis procedūromis ar kitomis
 taisyklėmis, gali laikinai (ne ilgiau kaip 3 mėnesiams per ūkinius metus)
 sustabdyti savo akcijų išpirkimą, jeigu:
-1) tuo norima
-apsaugoti savo akcininkų interesus nuo
-galimo investicinės kintamojo kapitalo bendrovės nemokumo, taip pat nuo akcijų
-išpirkimo kainos kritimo dėl nepalankios vertybinių popierių rinkos
-konjunktūros ir su tuo susijusio investicinės kintamojo kapitalo bendrovės
-turimo investicijų portfelio vertės
-sumažėjimo;
+1) tuo norima apsaugoti savo akcininkų interesus nuo galimo investicinės
+kintamojo kapitalo bendrovės nemokumo, taip pat nuo akcijų išpirkimo kainos
+kritimo dėl nepalankios vertybinių popierių
+rinkos konjunktūros ir su tuo susijusio investicinės kintamojo kapitalo
+bendrovės turimo investicijų portfelio vertės sumažėjimo;
 2) nuosavas kapitalas tampa arba,
 įvykdžius reikalavimą išpirkti akcijas, taptų mažesnis, nei nustatyta 6
 straipsnio 1 dalyje;
-3) to
-pareikalauja Vertybinių popierių komisija.
-7. Sprendimą
-sustabdyti investicinės kintamojo kapitalo
-bendrovės akcijų išpirkimą turi teisę priimti šios bendrovės valdymo įmonė arba
-Vertybinių popierių komisija. Nuo sprendimo sustabdyti investicinės kintamojo
-kapitalo bendrovės akcijų išpirkimą priėmimo momento šiai bendrovei ir
-asmenims, įgaliotiems išpirkti šios
-bendrovės akcijas, draudžiama išpirkti bendrovės akcijas: priimti išpirkimo
-paraiškas, atsiskaityti už akcijas, kurias išpirkti buvo pareikalauta iki
-nutarimo sustabdyti akcijų išpirkimą priėmimo. Investicinės kintamojo kapitalo
-bendrovės prievolė sumokėti akcininkams,
+3) to pareikalauja Vertybinių popierių komisija.
+7. Sprendimą sustabdyti investicinės kintamojo kapitalo bendrovės akcijų
+išpirkimą turi teisę priimti šios bendrovės valdymo įmonė arba Vertybinių
+popierių komisija. Nuo sprendimo sustabdyti
+investicinės kintamojo kapitalo bendrovės akcijų išpirkimą priėmimo momento
+šiai bendrovei ir asmenims, įgaliotiems išpirkti šios bendrovės akcijas,
+draudžiama išpirkti bendrovės akcijas: priimti išpirkimo paraiškas,
+atsiskaityti už akcijas, kurias išpirkti
+buvo pareikalauta iki nutarimo sustabdyti akcijų išpirkimą priėmimo.
+Investicinės kintamojo kapitalo bendrovės prievolė sumokėti akcininkams,
 pareikalavusiems išpirkti jų akcijas iki nutarimo sustabdyti akcijų išpirkimą
-priėmimo, jei su jais nėra atsiskaityta, pasibaigia nuo nutarimo sustabdyti
-akcijų išpirkimą priėmimo. Tokie asmenys nuo nutarimo sustabdyti investicinės kintamojo kapitalo bendrovės akcijų
-išpirkimą priėmimo momento atgauna visas akcininko teises.
+priėmimo, jei su jais nėra atsiskaityta,
+pasibaigia nuo nutarimo sustabdyti akcijų išpirkimą priėmimo. Tokie asmenys nuo
+nutarimo sustabdyti investicinės kintamojo kapitalo bendrovės akcijų išpirkimą
+priėmimo momento atgauna visas akcininko teises.
 8. Akcijų išpirkimo sustabdymo atveju
 investicinės kintamojo kapitalo bendrovės valdymo įmonė privalo nedelsdama apie
 tokį sprendimą informuoti asmenis, išperkančius šios bendrovės akcijas, ir per
@@ -680,63 +628,91 @@ Vertybinių popierių komisija, atnaujinti investicinės kintamojo kapitalo
 bendrovės akcijų išpirkimą turi teisę Vertybinių popierių komisija. Apie
 sprendimą atnaujinti investicinės kintamojo kapitalo bendrovės akcijų išpirkimą
 turi būti pranešta tokia pačia tvarka kaip ir apie išpirkimo sustabdymą.
-9. Investicinės
-kintamojo kapitalo bendrovės išperkamosios akcijos, įregistruotos Vertybinių popierių komisijoje, platinamos neterminuotai.
-Investicinės kintamojo kapitalo bendrovės akcijų emisijos dydis yra
-neribojamas, išskyrus tuos atvejus, kai šios bendrovės įstatuose nurodytas
-maksimalus leidžiamas išplatinti akcijų skaičius.
-Jeigu platinant investicinės kintamojo kapitalo bendrovės akcijas pasikeičia
-prospekto duomenys arba įvyksta esminis įvykis, apie tai turi būti pranešta
-teisės aktų nustatyta tvarka. Tokiu atveju asmenys, jau įsigiję investicinės
-kintamojo kapitalo bendrovės akcijų, turi
-teisę reikalauti, kad ši bendrovė jas išpirktų už išpirkimo kainą. Toks asmuo
-neturi teisės reikalauti, kad investicinė kintamojo kapitalo bendrovė arba jos
-akcijų platintojas grąžintų įnašus Vertybinių popierių viešosios apyvartos įstatymo 7 straipsnio 3 dalyje nustatyta tvarka.
-Investicinės kintamojo kapitalo bendrovės akcijų platinimas gali būti
-sustabdytas arba nutrauktas šio įstatymo, Vertybinių popierių viešosios
-apyvartos įstatymo ir investicinės kintamojo kapitalo bendrovės įstatų nustatytais pagrindais ir tvarka.
+9. Investicinės kintamojo kapitalo bendrovės išperkamosios akcijos,
+įregistruotos Vertybinių popierių komisijoje, platinamos neterminuotai.
+Investicinės kintamojo kapitalo bendrovės akcijų emisijos dydis yra neribojamas, išskyrus tuos atvejus, kai šios bendrovės
+įstatuose nurodytas maksimalus leidžiamas išplatinti akcijų skaičius. Jeigu
+platinant investicinės kintamojo kapitalo bendrovės akcijas pasikeičia
+prospekto duomenys arba įvyksta esminis įvykis,
+apie tai turi būti pranešta teisės aktų nustatyta tvarka. Tokiu atveju asmenys,
+jau įsigiję investicinės kintamojo kapitalo bendrovės akcijų, turi teisę
+reikalauti, kad ši bendrovė jas išpirktų už išpirkimo kainą. Toks asmuo neturi
+teisės reikalauti, kad investicinė kintamojo
+kapitalo bendrovė arba jos akcijų platintojas grąžintų įnašus Vertybinių
+popierių viešosios apyvartos įstatymo 7 straipsnio 3 dalyje nustatyta tvarka.
+Investicinės kintamojo kapitalo bendrovės akcijų platinimas gali būti sustabdytas arba nutrauktas šio įstatymo, Vertybinių
+popierių viešosios apyvartos įstatymo ir investicinės kintamojo kapitalo
+bendrovės įstatų nustatytais pagrindais ir tvarka. Investicinės kintamojo
+kapitalo bendrovės steigėjai turi teisę pateikti šiai bendrovei išpirkti jos steigimo metu pasirašytas akcijas
+tik tada, kai viešai išplatinta ne mažesnės kaip pusė investicinės kintamojo
+kapitalo bendrovės minimalaus nuosavo kapitalo, nurodyto šio įstatymo 6
+straipsnio 1 dalyje, vertės šios bendrovės akcijų. Investicinės kintamojo kapitalo bendrovės steigėjai turi
+teisę pateikti išpirkti tiek šios bendrovės vertybinių popierių, įsigytų jos
+steigimo metu, kad bendra jų vertė būtų ne didesnė nei 4/5 pateikimo metu
+viešai išplatintų šios bendrovės vertybinių popierių vertės.
+ 
+[9 dalies redakcija nuo 2002 m. balandžio 1 d.:
+9. Investicinės kintamojo kapitalo bendrovės išperkamosios akcijos,
+įregistruotos Vertybinių popierių komisijoje, platinamos neterminuotai.
+Investicinės kintamojo kapitalo bendrovės akcijų emisijos dydis yra neribojamas, išskyrus tuos atvejus, kai
+šios bendrovės įstatuose nurodytas maksimalus leidžiamas išplatinti akcijų
+skaičius. Jeigu platinant investicinės kintamojo kapitalo bendrovės akcijas
+pasikeičia prospekto duomenys arba įvyksta esminis įvykis, apie tai turi būti pranešta teisės aktų nustatyta
+tvarka. Tokiu atveju asmenys, jau įsigiję investicinės kintamojo kapitalo
+bendrovės akcijų, turi teisę reikalauti, kad ši bendrovė jas išpirktų už
+išpirkimo kainą. Toks asmuo neturi teisės reikalauti, kad investicinė kintamojo kapitalo bendrovė arba jos
+akcijų platintojas grąžintų įnašus Vertybinių popierių rinkos įstatymo 11
+straipsnio 4 dalyje nustatyta tvarka. Investicinės kintamojo kapitalo bendrovės
+akcijų platinimas gali būti sustabdytas arba nutrauktas šio įstatymo, Vertybinių popierių rinkos įstatymo ir investicinės
+kintamojo kapitalo bendrovės įstatų nustatytais pagrindais ir tvarka.
 Investicinės kintamojo kapitalo bendrovės steigėjai turi teisę pateikti šiai
-bendrovei išpirkti jos steigimo metu pasirašytas akcijas tik tada, kai viešai
-išplatinta ne mažesnės kaip pusė investicinės kintamojo kapitalo bendrovės minimalaus nuosavo kapitalo,
-nurodyto šio įstatymo 6 straipsnio 1 dalyje, vertės šios bendrovės akcijų.
-Investicinės kintamojo kapitalo bendrovės steigėjai turi teisę pateikti
-išpirkti tiek šios bendrovės vertybinių popierių, įsigytų jos steigimo metu, kad bendra jų vertė būtų ne didesnė nei
-4/5 pateikimo metu viešai išplatintų šios bendrovės vertybinių popierių vertės.
-10.
-Investicinės kintamojo kapitalo bendrovės akcijų pasirašymas, pardavimas ir
-išpirkimas vyksta pagal Vertybinių popierių komisijos
-patvirtintas taisykles. Parduodant investicinės kintamojo kapitalo bendrovės
-akcijas, netaikomos Akcinių bendrovių įstatymo nuostatos, reglamentuojančios
-akcinių bendrovių akcijų pasirašymą ir apmokėjimą.
+bendrovei išpirkti jos steigimo metu pasirašytas
+akcijas tik tada, kai viešai išplatinta ne mažesnės kaip pusė investicinės
+kintamojo kapitalo bendrovės minimalaus nuosavo kapitalo, nurodyto šio įstatymo
+6 straipsnio 1 dalyje, vertės šios bendrovės akcijų. Investicinės kintamojo
+kapitalo bendrovės steigėjai turi teisę
+pateikti išpirkti tiek šios bendrovės vertybinių popierių, įsigytų jos steigimo
+metu, kad bendra jų vertė būtų ne didesnė nei 4/5 pateikimo metu viešai
+išplatintų šios bendrovės vertybinių popierių vertės.]
+ 
+10. Investicinės kintamojo kapitalo
+bendrovės akcijų pasirašymas, pardavimas ir išpirkimas vyksta pagal Vertybinių
+popierių komisijos patvirtintas taisykles. Parduodant investicinės kintamojo
+kapitalo bendrovės akcijas, netaikomos Akcinių bendrovių įstatymo nuostatos,
+reglamentuojančios akcinių bendrovių akcijų
+pasirašymą ir apmokėjimą.
+Straipsnio pakeitimai:
+Nr. IX-661,
+2001-12-17, Žin., 2001, Nr. 112-4080 (2001-12-30), įsigalioja nuo 2002-04-01
  
 8 straipsnis. Valdymas 
- 
 1. Investicinės kintamojo kapitalo
 bendrovės turto valdymas turi būti perduotas valdymo įmonei, veikiančiai pagal
 šio įstatymo trečiojo skirsnio nuostatas. Uždarojo investicinio fondo ir
 kontroliuojančiosios investicinės bendrovės turto ar jo dalies (investicijų
 portfelio) valdymas gali būti perduotas valdymo įmonei. Šiais atvejais
 investicinės bendrovės valdyba nesudaroma; gali būti nesudaroma ir
-administracija. Jei turto valdymas yra perduotas valdymo įmonei, investicinėje
-bendrovėje turi būti sudaroma stebėtojų taryba. Tuo atveju, kai investicinėje
-bendrovėje nėra administracijos, šios bendrovės finansinę apskaitą privalo
-tvarkyti valdymo įmonė. Ši valdymo įmonės pareiga turi būti numatyta ir aptarta
-turto valdymo sutartyje ir investicinės bendrovės įstatuose.
-2. Teisę dalyvauti investicinės kintamojo kapitalo bendrovės
-visuotiniame akcininkų susirinkime turi asmenys, buvę jos akcininkais šios
-bendrovės visuotinio akcininkų susirinkimo akcininkų apskaitos dienos
-pabaigoje. Visuotinio akcininkų susirinkimo akcininkų apskaitos diena turi būti pasirinkta ne ankstesnė kaip
-60 ir ne vėlesnė kaip 30 kalendorinių dienų iki investicinės kintamojo kapitalo
-bendrovės akcininkų susirinkimo. Akcijos, kurias akcininkas pareikalavo
-investicinės kintamojo kapitalo bendrovės išpirkti, balso teisės nesuteikia, nors šios bendrovės visuotinio akcininkų
-susirinkimo akcininkų apskaitos dieną šis akcininkas ir buvo investicinės
-kintamojo kapitalo bendrovės akcininkų sąraše. Investicinės kintamojo kapitalo
-bendrovės visuotiniame (akcininkų) susirinkime
-kvorumas nustatomas pagal išleistų ir nesupirktų akcijų skaičių, buvusį
-investicinės kintamojo kapitalo bendrovės visuotinio akcininkų susirinkimo
-akcininkų apskaitos dienos pabaigoje. Akcininkas visuotiniame akcininkų
-susirinkime turi tiek balsų, kiek jis jų
-turėjo visuotinio akcininkų susirinkimo akcininkų apskaitos dienos pabaigoje.
+administracija. Jei turto valdymas yra perduotas valdymo įmonei,
+investicinėje bendrovėje turi būti sudaroma stebėtojų taryba. Tuo
+atveju, kai investicinėje bendrovėje nėra administracijos, šios bendrovės
+finansinę apskaitą privalo tvarkyti valdymo įmonė. Ši valdymo įmonės pareiga
+turi būti numatyta ir aptarta turto valdymo sutartyje ir investicinės bendrovės
+įstatuose.
+2. Teisę dalyvauti investicinės kintamojo kapitalo bendrovės visuotiniame
+akcininkų susirinkime turi asmenys, buvę jos akcininkais šios bendrovės
+visuotinio akcininkų susirinkimo akcininkų apskaitos dienos pabaigoje.
+Visuotinio akcininkų susirinkimo akcininkų
+apskaitos diena turi būti pasirinkta ne ankstesnė kaip 60 ir ne vėlesnė kaip 30
+kalendorinių dienų iki investicinės kintamojo kapitalo bendrovės akcininkų
+susirinkimo. Akcijos, kurias akcininkas pareikalavo investicinės kintamojo
+kapitalo bendrovės išpirkti, balso teisės
+nesuteikia, nors šios bendrovės visuotinio akcininkų susirinkimo akcininkų
+apskaitos dieną šis akcininkas ir buvo investicinės kintamojo kapitalo
+bendrovės akcininkų sąraše. Investicinės kintamojo kapitalo bendrovės visuotiniame (akcininkų) susirinkime kvorumas nustatomas
+pagal išleistų ir nesupirktų akcijų skaičių, buvusį investicinės kintamojo
+kapitalo bendrovės visuotinio akcininkų susirinkimo akcininkų apskaitos dienos
+pabaigoje. Akcininkas visuotiniame akcininkų susirinkime turi tiek balsų, kiek jis jų turėjo visuotinio akcininkų susirinkimo
+akcininkų apskaitos dienos pabaigoje.
 3. Tik investicinės kintamojo kapitalo
 bendrovės akcininkų susirinkimas turi teisę:
 1) keisti ir papildyti investicinės
@@ -758,8 +734,8 @@ pakeisti valdymo įmonę. Valdymo įmonę akcininkų susirinkimas gali keisti ti
 7) nustatyti ir tvirtinti audito
 paslaugų apmokėjimo sąlygas;
 8) tvirtinti metinę finansinę
-atskaitomybę, valdymo įmonės ataskaitą apie investicinės kintamojo kapitalo
-bendrovės veiklą, audito ataskaitą;
+atskaitomybę, valdymo įmonės ataskaitą apie investicinės kintamojo kapitalo bendrovės
+veiklą, audito ataskaitą;
 9) išleisti naujos emisijos akcijų, jei
 investicinės kintamojo kapitalo bendrovės įstatuose nustatytas maksimalus
 leidžiamas išplatinti akcijų skaičius;
@@ -813,68 +789,63 @@ visuotinio akcininkų susirinkimo nutarimuose nurodytus klausimus.
 9. Akcinių bendrovių įstatyme nustatytos
 valdybos teisės ir pareigos investicinėje kintamojo kapitalo bendrovėje
 perduodamos valdymo įmonei ir (arba) stebėtojų tarybai. Šių teisių ir pareigų
-perdavimas ir jų paskirstymas turi būti nurodytas investicinės kintamojo
-kapitalo bendrovės įstatuose ir turto valdymo sutartyje.
+perdavimas ir jų paskirstymas turi būti nurodytas investicinės kintamojo kapitalo
+bendrovės įstatuose ir turto valdymo sutartyje.
  
 9 straipsnis. Turtas
- 
 1. Investicinės bendrovės turtą gali
 sudaryti tik:
 1) pinigai ir Vertybinių popierių
 komisijos pripažintos pinigų rinkos priemonės;
-                        2) vertybiniai popieriai;
-3) kitas
-kilnojamasis ir nekilnojamasis turtas, kuris
-yra būtinas tiesioginei investicinės kintamojo kapitalo bendrovės ar uždarojo
-investicinio fondo veiklai ir sudaro ne daugiau kaip 20 procentų šios bendrovės
-nuosavų (grynųjų) aktyvų vertės;
-4) kitas
-kilnojamasis ir nekilnojamasis turtas, įsigyjamas
-kontroliuojančiosios investicinės bendrovės, kuris sudaro ne daugiau kaip 25
-procentus šios bendrovės nuosavų (grynųjų) aktyvų vertės.
+2) vertybiniai popieriai;
+3) kitas kilnojamasis ir nekilnojamasis
+turtas, kuris yra būtinas tiesioginei investicinės kintamojo kapitalo bendrovės
+ar uždarojo investicinio fondo veiklai ir sudaro ne daugiau kaip 20 procentų
+šios bendrovės nuosavų (grynųjų) aktyvų vertės;
+4) kitas kilnojamasis ir nekilnojamasis
+turtas, įsigyjamas kontroliuojančiosios investicinės bendrovės, kuris sudaro ne
+daugiau kaip 25 procentus šios bendrovės nuosavų (grynųjų) aktyvų vertės.
 2. Investicinė bendrovė gali įsigyti šių
 vertybinių popierių:
-1) kurie yra
-įtraukti į Lietuvos Respublikoje veikiančios
-vertybinių popierių biržos oficialųjį ar einamąjį prekybos sąrašą;
+1) kurie yra įtraukti į Lietuvos Respublikoje
+veikiančios vertybinių popierių biržos oficialųjį ar einamąjį prekybos sąrašą;
 kontroliuojančiosios investicinės bendrovės turi teisę įsigyti vertybinių
 popierių, įtrauktų į Lietuvos Respublikoje veikiančių vertybinių popierių biržų
 prekybos sąrašus;
-2) kuriais prekiaujama kitose pripažintose reguliuojamose,
-nuolatinėse ir viešose vertybinių popierių rinkose Lietuvoje; investicinė
-kintamojo kapitalo bendrovė tokių vertybinių popierių gali įsigyti tuo atveju,
-jei šiose rinkose vertybinių popierių kainą galima nustatyti ne rečiau, nei reikia apskaičiuoti
-investicinės kintamojo kapitalo bendrovės akcijų pardavimo ir išpirkimo kainą;
-3) išleidžiamų
-naujų vertybinių popierių emitentų, kurių anksčiau išleisti vertybiniai
-popieriai yra įtraukti į Lietuvos Respublikoje veikiančios vertybinių popierių biržos oficialųjį ar einamąjį prekybos
-sąrašą, jeigu jų emisijos sąlygose numatytas įsipareigojimas įtraukti šiuos
-išleidžiamus naujus vertybinius popierius į minėtą prekybos sąrašą ir yra
-garantuojama, kad jie bus įrašyti į šį sąrašą
-ne vėliau kaip per vienerius metus nuo išleidimo; kontroliuojančiosios
+2) kuriais prekiaujama kitose pripažintose reguliuojamose, nuolatinėse ir
+viešose vertybinių popierių rinkose Lietuvoje; investicinė kintamojo kapitalo
+bendrovė tokių vertybinių popierių gali įsigyti tuo atveju, jei šiose rinkose
+vertybinių popierių kainą galima nustatyti
+ne rečiau, nei reikia apskaičiuoti investicinės kintamojo kapitalo bendrovės
+akcijų pardavimo ir išpirkimo kainą;
+3) išleidžiamų naujų vertybinių popierių emitentų, kurių anksčiau
+išleisti vertybiniai popieriai yra įtraukti į Lietuvos Respublikoje veikiančios vertybinių popierių biržos oficialųjį ar einamąjį
+prekybos sąrašą, jeigu jų emisijos sąlygose numatytas įsipareigojimas įtraukti
+šiuos išleidžiamus naujus vertybinius popierius į minėtą prekybos sąrašą ir yra
+garantuojama, kad jie bus įrašyti į šį
+sąrašą ne vėliau kaip per vienerius metus nuo išleidimo; kontroliuojančiosios
 investicinės bendrovės turi teisę įsigyti išleidžiamų naujų vertybinių
 popierių, jeigu jų emisijos sąlygose yra numatytas emitento įsipareigojimas
 pateikti prašymą įtraukti į oficialųjį ar
 einamąjį Lietuvos Respublikoje veikiančios vertybinių popierių biržos prekybos
 sąrašą ar į kitos pripažintos reguliuojamos, nuolatinės ir viešos vertybinių
-popierių rinkos Lietuvoje prekybos sąrašą arba jei šie vertybiniai popieriai
-išleidžiami į viešąją apyvartą;
-4) Vyriausybės
-(vietos savivaldos institucijos) išleistų ar garantuotų vertybinių popierių;
-5) Vertybinių
-popierių komisijos pripažintų likvidžiais kitų vertybinių popierių.
-3. Investicinė
-kintamojo kapitalo bendrovė arba uždarasis investicinis fondas gali įsigyti ir kitų šio straipsnio 2 dalyje nenurodytų
-vertybinių popierių, kurių bendra vertė negali sudaryti daugiau kaip 10
-procentų šios bendrovės nuosavų (grynųjų) aktyvų. Kontroliuojančioji
-investicinė bendrovė gali įsigyti kitų šio straipsnio
-2 dalyje nenurodytų vertybinių popierių, kurių bendra vertė negali sudaryti
-daugiau kaip 20 procentų šios bendrovės nuosavų (grynųjų) aktyvų. Jei šis
-reikalavimas yra pažeidžiamas dėl nuosavų (grynųjų) aktyvų vertės sumažėjimo ar
-dėl įstatymuose arba kituose teisės aktuose
-numatytos pirmumo teisės įsigyti išleidžiamų naujų vertybinių popierių, ar dėl
-kitų nuo bendrovės nepriklausančių objektyvių priežasčių, tai investicinė
-bendrovė ne vėliau kaip per 3 mėnesius nuo pažeidimo padarymo dienos privalo tokią būklę ištaisyti. 
+popierių rinkos Lietuvoje prekybos sąrašą arba jei šie vertybiniai popieriai išleidžiami į viešąją apyvartą;
+4) Vyriausybės (vietos savivaldos institucijos) išleistų ar garantuotų
+vertybinių popierių;
+5) Vertybinių popierių komisijos pripažintų likvidžiais kitų vertybinių
+popierių.
+3. Investicinė kintamojo kapitalo bendrovė arba uždarasis investicinis fondas gali įsigyti ir kitų šio straipsnio 2
+dalyje nenurodytų vertybinių popierių, kurių bendra vertė negali sudaryti
+daugiau kaip 10 procentų šios bendrovės nuosavų (grynųjų) aktyvų.
+Kontroliuojančioji investicinė bendrovė gali įsigyti kitų šio straipsnio 2 dalyje nenurodytų vertybinių popierių, kurių
+bendra vertė negali sudaryti daugiau kaip 20 procentų šios bendrovės nuosavų
+(grynųjų) aktyvų. Jei šis reikalavimas yra pažeidžiamas dėl nuosavų (grynųjų)
+aktyvų vertės sumažėjimo ar dėl įstatymuose
+arba kituose teisės aktuose numatytos pirmumo teisės įsigyti išleidžiamų naujų
+vertybinių popierių, ar dėl kitų nuo bendrovės nepriklausančių objektyvių
+priežasčių, tai investicinė bendrovė ne vėliau kaip per 3 mėnesius nuo
+pažeidimo padarymo dienos privalo tokią
+būklę ištaisyti. 
 4. Investicinė kintamojo kapitalo
 bendrovė gali investuoti ne daugiau kaip 5 procentus nuosavų (grynųjų) aktyvų į
 kitų investicinių kintamojo kapitalo bendrovių akcijas. Tokių investicinės
@@ -885,12 +856,12 @@ kapitalo bendrovės nuosavų (grynųjų) aktyvų.
 5. Investicinė kintamojo kapitalo
 bendrovė gali investuoti į vertybinius popierius, išleistus kitos investicinės
 kintamojo kapitalo bendrovės, kurią valdo ta pati valdymo įmonė, arba valdymo
-įmonė, kurią su investuojančios investicinės kintamojo kapitalo bendrovės
-valdymo įmone sieja bendras valdymas ar kontrolė, arba kai vienos iš šių
-investicinių kintamojo kapitalo bendrovių valdymo įmonė tiesiogiai arba
-netiesiogiai valdo daugiau nei 10 procentų balsų kitos investicinės kintamojo
-kapitalo bendrovės valdymo įmonės visuotiniame akcininkų susirinkime, tik esant
-visoms šioms sąlygoms:
+įmonė, kurią su investuojančios investicinės kintamojo kapitalo bendrovės valdymo
+įmone sieja bendras valdymas ar kontrolė, arba kai vienos iš šių investicinių
+kintamojo kapitalo bendrovių valdymo įmonė tiesiogiai arba netiesiogiai valdo
+daugiau nei 10 procentų balsų kitos investicinės kintamojo kapitalo bendrovės
+valdymo įmonės visuotiniame akcininkų susirinkime, tik esant visoms šioms
+sąlygoms:
 1) investicinės kintamojo kapitalo
 bendrovės, kurios akcijos yra įsigyjamos, įstatuose yra nurodyta, kad ši
 bendrovė turi teisę įsigyti tik tam tikrame ekonomikos sektoriuje ar tam
@@ -916,25 +887,22 @@ turto.
  
 10 straipsnis. Investicinių bendrovių
 veiklos ypatumai
- 
-1. Investicinei
-kintamojo kapitalo bendrovei ir uždarajam investiciniam fondui yra draudžiama:
-1) suteikti
-paskolas, garantuoti ar laiduoti už kitą asmenį dėl jo prievolių įvykdymo,
-įkeisti turimus vertybinius popierius ar nekilnojamąjį turtą, išskyrus šio
-įstatymo 6 straipsnio 4 ir 5 dalyse nurodytus atvejus;
+1. Investicinei kintamojo kapitalo bendrovei ir uždarajam investiciniam fondui yra draudžiama:
+1) suteikti paskolas, garantuoti ar laiduoti už kitą asmenį dėl jo
+prievolių įvykdymo, įkeisti turimus vertybinius popierius ar nekilnojamąjį
+turtą, išskyrus šio įstatymo 6 straipsnio 4 ir 5 dalyse nurodytus atvejus;
 2) imti paskolas pažeidžiant šio
 įstatymo 6 straipsnio 4 ir 5 dalių reikalavimus;
-3) įsigyti ir
-turėti vertybinių popierių, dėl kurių būtų pažeisti diversifikuotam investicijų
-portfeliui nustatyti reikalavimai, išskyrus steigiamą naują investicinę
-kintamojo kapitalo bendrovę ar uždarąjį
-investicinį fondą, kuris 6 mėnesius nuo investicinės bendrovės veiklos leidimo
-gavimo gali nesilaikyti diversifikavimo reikalavimų;
+3) įsigyti ir turėti vertybinių popierių, dėl kurių būtų pažeisti
+diversifikuotam investicijų portfeliui nustatyti reikalavimai, išskyrus
+steigiamą naują investicinę kintamojo
+kapitalo bendrovę ar uždarąjį investicinį fondą, kuris 6 mėnesius nuo
+investicinės bendrovės veiklos leidimo gavimo gali nesilaikyti diversifikavimo
+reikalavimų;
 4) leisti obligacijas;
 5) steigti filialus ar atstovybes;
-6) įsigyti brangiųjų metalų arba
-brangiųjų metalų sertifikatų (liudijimų);
+6) įsigyti brangiųjų metalų arba brangiųjų
+metalų sertifikatų (liudijimų);
 7) įsigyti savo valdymo įmonės išleistų
 vertybinių popierių.
 2. Investicinė kintamojo kapitalo
@@ -961,35 +929,32 @@ kintamojo kapitalo bendrovės arba uždarojo investicinio fondo periodinėse
 ataskaitose. Periodinėje ataskaitoje turi būti aprašyta ir šios investicinės
 pozicijos rizika, taip pat kaip šiai rizikai sumažinti naudojama išvestinė
 finansinė priemonė gali nuo jos apsaugoti.
-3. Jei
-investicinė kintamojo kapitalo bendrovė ar uždarasis investicinis fondas
-pažeidžia diversifikuoto investicijų portfelio reikalavimus dėl įstatymuose ir
-kituose teisės aktuose numatytos pirmumo teisės įsigyti išleidžiamus naujus vertybinius popierius ar dėl kitų nuo šios
-bendrovės ar šio fondo nepriklausančių objektyvių priežasčių, jie privalo ne
-vėliau kaip per 3 mėnesius parduoti atitinkamą dalį vertybinių popierių, dėl
-kurių buvo pažeisti šioje dalyje numatyti
-apribojimai, jei kitokiu būdu per nurodytą terminą nesutvarko savo investicijų
-portfelio taip, kad jis atitiktų diversifikuoto investicijų portfelio
-reikalavimus. Šis terminas gali būti pratęstas Vertybinių popierių komisijos
-sutikimu, jeigu per 3 mėnesius tretiesiems
-asmenims perleisdama diversifikuoto vertybinių popierių portfelio reikalavimų
-neatitinkančius vertybinius popierius investicinė bendrovė patirs nuostolių dėl
-nepalankiai susiklosčiusios situacijos vertybinių popierių rinkoje. Nepalankiai susiklosčiusia situacija vertybinių popierių
-rinkoje laikoma tokia situacija, kai investicinės bendrovės visų arba dalies
-turimų vertybinių popierių rinkos kaina krinta, palyginti su jų įsigijimo
-kaina, dėl finansinių krizių Lietuvoje arba už jos ribų, socialinių neramumų, stichinių nelaimių arba
-kitokių veiksnių, nepriklausančių nuo investicinės bendrovės, jos valdymo
-įmonės arba šių vertybinių popierių emitento valios.
-4.
-Kontroliuojančiajai investicinei bendrovei yra draudžiama:
-1) turėti vieno
-emitento išleistų vertybinių popierių, kurių
-bendra vertė sudarytų daugiau kaip 25 procentus nuosavų (grynųjų) aktyvų,
-išskyrus Vyriausybės vertybinius popierius. Jei šis reikalavimas pažeidžiamas
-dėl nuosavų (grynųjų) aktyvų vertės sumažėjimo ar dėl įstatymuose arba kituose teisės aktuose numatytos pirmumo
-teisės įsigyti naujai išleidžiamų vertybinių popierių, ar dėl kitų nuo
-bendrovės nepriklausančių objektyvių priežasčių, investicinė bendrovė ne vėliau
-kaip per 6 mėnesius nuo pažeidimo padarymo dienos privalo tokią būklę ištaisyti;
+3. Jei investicinė kintamojo kapitalo bendrovė ar uždarasis investicinis
+fondas pažeidžia diversifikuoto investicijų portfelio reikalavimus dėl
+įstatymuose ir kituose teisės aktuose numatytos pirmumo teisės įsigyti išleidžiamus naujus vertybinius popierius ar dėl kitų
+nuo šios bendrovės ar šio fondo nepriklausančių objektyvių priežasčių, jie
+privalo ne vėliau kaip per 3 mėnesius parduoti atitinkamą dalį vertybinių
+popierių, dėl kurių buvo pažeisti šioje
+dalyje numatyti apribojimai, jei kitokiu būdu per nurodytą terminą nesutvarko
+savo investicijų portfelio taip, kad jis atitiktų diversifikuoto investicijų
+portfelio reikalavimus. Šis terminas gali būti pratęstas Vertybinių popierių
+komisijos sutikimu, jeigu per 3 mėnesius
+tretiesiems asmenims perleisdama diversifikuoto vertybinių popierių portfelio
+reikalavimų neatitinkančius vertybinius popierius investicinė bendrovė patirs
+nuostolių dėl nepalankiai susiklosčiusios situacijos vertybinių popierių rinkoje. Nepalankiai susiklosčiusia situacija
+vertybinių popierių rinkoje laikoma tokia situacija, kai investicinės bendrovės
+visų arba dalies turimų vertybinių popierių rinkos kaina krinta, palyginti su
+jų įsigijimo kaina, dėl finansinių krizių Lietuvoje arba už jos ribų, socialinių neramumų, stichinių nelaimių arba kitokių
+veiksnių, nepriklausančių nuo investicinės bendrovės, jos valdymo įmonės arba
+šių vertybinių popierių emitento valios.
+4. Kontroliuojančiajai investicinei bendrovei yra draudžiama:
+1) turėti vieno emitento išleistų
+vertybinių popierių, kurių bendra vertė sudarytų daugiau kaip 25 procentus
+nuosavų (grynųjų) aktyvų, išskyrus Vyriausybės vertybinius popierius. Jei šis
+reikalavimas pažeidžiamas dėl nuosavų (grynųjų) aktyvų vertės sumažėjimo ar dėl įstatymuose arba kituose teisės aktuose
+numatytos pirmumo teisės įsigyti naujai išleidžiamų vertybinių popierių, ar dėl
+kitų nuo bendrovės nepriklausančių objektyvių priežasčių, investicinė bendrovė
+ne vėliau kaip per 6 mėnesius nuo pažeidimo padarymo dienos privalo tokią būklę ištaisyti;
 2) imti iš kontroliuojamų įmonių
 kreditus ar gauti jų garantijas;
 3) be visuotinio akcininkų susirinkimo
@@ -1013,25 +978,24 @@ sprendimo įkeisti nekilnojamąjį turtą, teikti paskolas, garantuoti ar laiduo
 už kitą asmenį dėl jo prievolių įvykdymo, jeigu tokių kontroliuojančiosios
 investicinės bendrovės prievolių ir suteiktų paskolų bendra suma sudarytų
 daugiau kaip 10 procentų jos nuosavų (grynųjų) aktyvų vertės.
-5. Uždarajam
-investiciniam fondui ir kontroliuojančiajai investicinei bendrovei draudžiama
-visais būdais supirkti savo akcijas ar priimti jas kaip įkaitą. Jeigu uždarasis
-investicinis fondas arba kontroliuojančioji investicinė bendrovė įgyja nuosavybės teisę į savo akcijas, tai šis fondas
-arba bendrovė privalo šias akcijas perleisti kitų asmenų nuosavybėn per 12
-mėnesių nuo įgijimo. Jei per nustatytą laiką akcijos neperleidžiamos, jos turi
-būti anuliuojamos ir atitinkamai sumažinamas
-įstatinis kapitalas Akcinių bendrovių įstatymo nustatyta tvarka.
-6. Investicinei kintamojo kapitalo
-bendrovei, valdymo įmonei arba depozitoriumui, veikiantiems investicinės
-kintamojo kapitalo bendrovės arba savo vardu, bet investicinės kintamojo
-kapitalo bendrovės sąskaita, draudžiama perleisti ir (arba) įsipareigoti
-perleisti vertybinius popierius, kurių savininkas nėra investicinė kintamojo
-kapitalo bendrovė.
+5. Uždarajam investiciniam fondui ir kontroliuojančiajai investicinei
+bendrovei draudžiama visais būdais supirkti savo akcijas ar priimti jas kaip
+įkaitą. Jeigu uždarasis investicinis fondas arba kontroliuojančioji investicinė bendrovė įgyja nuosavybės
+teisę į savo akcijas, tai šis fondas arba bendrovė privalo šias akcijas
+perleisti kitų asmenų nuosavybėn per 12 mėnesių nuo įgijimo. Jei per nustatytą
+laiką akcijos neperleidžiamos, jos turi būti anuliuojamos ir atitinkamai sumažinamas įstatinis kapitalas
+Akcinių bendrovių įstatymo nustatyta tvarka.
+6. Investicinei kintamojo
+kapitalo bendrovei, valdymo įmonei arba depozitoriumui, veikiantiems
+investicinės kintamojo kapitalo bendrovės arba savo vardu, bet investicinės
+kintamojo kapitalo bendrovės sąskaita, draudžiama perleisti ir (arba)
+įsipareigoti perleisti vertybinius popierius, kurių savininkas nėra investicinė
+kintamojo kapitalo bendrovė.
  
-11 straipsnis. Investicinės kintamojo
-kapitalo bendrovės investicijų portfelio vertės padidėjimo ir investicijų
-pajamų paskirstymas
- 
+11 straipsnis. Investicinės
+kintamojo kapitalo bendrovės investicijų portfelio vertės 
+padidėjimo ir investicijų pajamų
+paskirstymas
 1. Investicinės kintamojo kapitalo
 bendrovės investicijų portfelio vertės padidėjimas ir investicijų pajamos
 paskirstomi remiantis šios bendrovės įstatais. Investicinės kintamojo kapitalo
@@ -1044,16 +1008,15 @@ Investicinė kintamojo kapitalo bendrovė gali savo akcininkams mokėti dividend
 kelis kartus per metus, jei taip yra nustatyta jos įstatuose. Investicinei
 kintamojo kapitalo bendrovei netaikomos Akcinių bendrovių įstatymo nuostatos,
 reglamentuojančios pelno paskirstymo ir dividendų mokėjimo tvarką. Draudžiama
-dividendams naudoti nerealizuotą investicinės kintamojo kapitalo bendrovės
-pelną.
+dividendams naudoti nerealizuotą investicinės kintamojo kapitalo bendrovės pelną.
 2. Investicinės kintamojo kapitalo
 bendrovės pajamų paskirstymą vykdo šios bendrovės valdymo įmonė, duodama
 pavedimus investicinės kintamojo kapitalo bendrovės depozitoriumui.
  
 12 straipsnis. Informacija, kurią
-investicinė bendrovė turi pateikti savo akcininkams, visuomenei bei priežiūros
+investicinė bendrovė turi pateikti savo akcininkams, 
+visuomenei bei priežiūros
 institucijoms
- 
 1. Investicinė bendrovė privalo
 sudaryti:
 1) prospektą;
@@ -1072,9 +1035,9 @@ sudaryti neatskiriamą prospekto dalį ir būti pateikiami jo prieduose.
 ir jo pataisas, taip pat metų ir pusmečių ataskaitas privalo pateikti
 Vertybinių popierių komisijai pagal šios komisijos nustatytus jų turinio,
 pateikimo tvarkos ir terminų reikalavimus.
-5. Finansinė atskaitomybė, pateikta metų
-ataskaitoje, turi būti patikrinta nepriklausomo auditoriaus, turinčio teisę
-įstatymų nustatyta tvarka atlikti auditą. Auditoriaus išvados turi būti
+5. Finansinė atskaitomybė, pateikta
+metų ataskaitoje, turi būti patikrinta nepriklausomo auditoriaus, turinčio
+teisę įstatymų nustatyta tvarka atlikti auditą. Auditoriaus išvados turi būti
 pateikiamos metų ataskaitoje. Auditoriaus išvadose taip pat turi būti nurodyti
 visi šio įstatymo ir kitų investicinių bendrovių finansinę veiklą
 reglamentuojančių teisės aktų pažeidimai.
@@ -1085,31 +1048,29 @@ investicinės kintamojo kapitalo bendrovės akcijų pirkimo-pardavimo sandorio
 sudarymą. Be to, metų ir pusmečių ataskaitos turi būti prieinamos visuomenei
 tam tikrose prospekte nurodytose vietose. Prospektas, metų ir pusmečių
 ataskaitos visuomenei turi būti prieinami nemokamai.
-7. Investicinė
-bendrovė, valdymo įmonė, su kuria sudaryta turto valdymo sutartis, ir
-depozitoriumas privalo tvarkyti sandorių ir kitų bendrovės operacijų apskaitą
-įstatymų ir kitų teisės aktų nustatyta
-tvarka. Visi su investicinės bendrovės veikla susiję dokumentai turi būti
-prieinami Vertybinių popierių komisijos darbuotojams patikrinti.
+7. Investicinė bendrovė, valdymo įmonė, su kuria sudaryta turto valdymo
+sutartis, ir depozitoriumas privalo tvarkyti sandorių ir kitų bendrovės
+operacijų apskaitą įstatymų ir kitų teisės
+aktų nustatyta tvarka. Visi su investicinės bendrovės veikla susiję dokumentai
+turi būti prieinami Vertybinių popierių komisijos darbuotojams patikrinti.
 8. Jeigu Vertybinių popierių komisija
 pareikalauja, bet ne dažniau kaip kartą per metus, investicinė bendrovė per 3
 mėnesius privalo jai pateikti nepriklausomo auditoriaus ataskaitą, kurioje būtų
 pateiktos išvados, kaip investicinė bendrovė vykdo šio įstatymo 9 ir 10
-straipsnių reikalavimus. Toks investicinės bendrovės auditas, finansuojamas iš
-Vertybinių popierių komisijos lėšų, gali būti atliekamas ir dažniau.
-9.
-Kontroliuojančiosios investicinės bendrovės kartu su metų ataskaita privalo
-kiekvienais ūkiniais metais sudaryti ir paskelbti papildomą ataskaitą apie
-įmonių grupės, kurią sudaro
+straipsnių reikalavimus. Toks investicinės bendrovės auditas, finansuojamas
+iš Vertybinių popierių komisijos lėšų, gali būti atliekamas ir dažniau.
+9. Kontroliuojančiosios investicinės bendrovės kartu su metų ataskaita
+privalo kiekvienais ūkiniais metais sudaryti ir paskelbti papildomą ataskaitą
+apie įmonių grupės, kurią sudaro
 kontroliuojančioji investicinė bendrovė ir jos kontroliuojamos įmonės, veiklą.
-10.
-Apibūdindama šio straipsnio 9 dalyje nurodytos įmonių grupės finansinę būklę,
-kontroliuojančioji investicinė bendrovė ataskaitoje turi pateikti pagal Finansų
-ministerijos nustatytą metodiką parengtą
-konsoliduotą buhalterinį balansą, konsoliduotą pelno (nuostolių) ataskaitą bei
-atitinkamų straipsnių paaiškinimus (aiškinamąjį raštą). Pagal konsoliduoto
-buhalterinio balanso duomenis negali būti sprendžiama, ar įmonė atitinka 3 straipsnio 1 dalies 2 punkte nustatytus
-reikalavimus.
+10. Apibūdindama šio straipsnio 9 dalyje nurodytos įmonių grupės
+finansinę būklę, kontroliuojančioji investicinė bendrovė ataskaitoje turi
+pateikti pagal Finansų ministerijos
+nustatytą metodiką parengtą konsoliduotą buhalterinį balansą, konsoliduotą
+pelno (nuostolių) ataskaitą bei atitinkamų straipsnių paaiškinimus (aiškinamąjį
+raštą). Pagal konsoliduoto buhalterinio balanso duomenis negali būti
+sprendžiama, ar įmonė atitinka 3 straipsnio
+1 dalies 2 punkte nustatytus reikalavimus.
 11. Įmonės, kurios pagal šio straipsnio
 9 dalies nuostatas sudaro įmonių grupę, privalo pateikti investicinėms
 bendrovėms visą informaciją, būtiną konsoliduotoms ataskaitoms sudaryti.
@@ -1121,21 +1082,23 @@ Ataskaitoje apie įmonių grupės valdymą turi būti atskleista informacija api
 bei svarbiausius ataskaitinio laikotarpio įvykius.
  
 13 straipsnis. Draudimai asmenims,
-susijusiems su investicine bendrove, valdymo įmone arba depozitoriumu
- 
-1. Asmenims,
-susijusiems su investicine bendrove,
-investicinės bendrovės depozitoriumui, investicinės bendrovės ar investicinės
-bendrovės valdymo įmonės darbuotojams arba asmenims, susijusiems su
-depozitoriumu ar valdymo įmone, draudžiama visais būdais perleisti šiai
-investicinei bendrovei tiesiogiai ar per jos
-valdymo įmonę vertybinius popierius arba kitokį turtą, taip pat bet kokiu būdu
-gauti iš šios investicinės bendrovės vertybinius popierius ar kitokį turtą,
-išskyrus atvejus, kai perkamos investicinės bendrovės akcijos, gaunami pinigai už išperkamas šios investicinės bendrovės
-akcijas, gaunamas autorinis atlyginimas arba gaunamos piniginės išmokos,
-susijusios su darbo santykiais su šia investicine bendrove, arba depozitoriumas
-gauna užmokestį iš investicinės bendrovės už jos turto saugojimą arba tarpininkavimą perkant ar parduodant
-vertybinius popierius pagal sutartį su šia bendrove.
+susijusiems su investicine bendrove, valdymo įmone 
+arba depozitoriumu
+1. Asmenims, susijusiems su
+investicine bendrove, investicinės bendrovės depozitoriumui, investicinės
+bendrovės ar investicinės bendrovės valdymo įmonės darbuotojams arba asmenims,
+susijusiems su depozitoriumu ar valdymo įmone, draudžiama visais būdais
+perleisti šiai investicinei bendrovei
+tiesiogiai ar per jos valdymo įmonę vertybinius popierius arba kitokį turtą,
+taip pat bet kokiu būdu gauti iš šios investicinės bendrovės vertybinius
+popierius ar kitokį turtą, išskyrus atvejus, kai perkamos investicinės
+bendrovės akcijos, gaunami pinigai už
+išperkamas šios investicinės bendrovės akcijas, gaunamas autorinis atlyginimas
+arba gaunamos piniginės išmokos, susijusios su darbo santykiais su šia
+investicine bendrove, arba depozitoriumas gauna užmokestį iš investicinės
+bendrovės už jos turto saugojimą arba
+tarpininkavimą perkant ar parduodant vertybinius popierius pagal sutartį su šia
+bendrove.
 2. Asmenims, susijusiems su investicine
 bendrove, investicinės bendrovės depozitoriumui, investicinės bendrovės valdymo
 įmonei, investicinės bendrovės ar investicinės bendrovės valdymo įmonės
@@ -1167,16 +1130,17 @@ tėvai ir įtėviai bei sutuoktinio broliai ir seserys.
 nuostatas, privalo atlyginti investicinei bendrovei padarytus nuostolius ir
 atsako įstatymų nustatyta tvarka.
  
-TREČIASIS SKIRSNIS
+TREČIASIS
+SKIRSNIS
 VALDYMO ĮMONĖS
  
-14 straipsnis. Valdymo įmonės samprata
- 
-1. Valdymo
-įmone gali būti tik Lietuvos Respublikoje registruota bei Lietuvos Respublikoje
-turinti buveinę akcinė bendrovė ar uždaroji akcinė bendrovė, turinti Vertybinių popierių komisijos išduotą leidimą
-verstis investicinių bendrovių turto valdymu. Šių leidimų išdavimo bei
-panaikinimo tvarką ir sąlygas nustato Vertybinių popierių komisija.
+14 straipsnis. Valdymo įmonės
+samprata
+1. Valdymo įmone gali būti tik Lietuvos Respublikoje registruota bei
+Lietuvos Respublikoje turinti buveinę akcinė bendrovė ar uždaroji akcinė bendrovė, turinti Vertybinių popierių komisijos
+išduotą leidimą verstis investicinių bendrovių turto valdymu. Šių leidimų
+išdavimo bei panaikinimo tvarką ir sąlygas nustato Vertybinių popierių
+komisija.
 2. Ginčus dėl leidimo išdavimo ar
 panaikinimo sprendžia teismas.
 3. Valdymo įmonės įstatinis kapitalas
@@ -1190,27 +1154,55 @@ kapitalui.
 4. Ne mažiau kaip du valdymo įmonės
 darbuotojai, atsakingi už investicinių bendrovių turto valdymą, privalo turėti
 Vertybinių popierių komisijos pripažintą kvalifikacinį sertifikatą. Valdymo
-įmonė privalo pateikti Vertybinių popierių komisijai duomenis apie visus vadovus
-bei laikinai juos pavaduojančius asmenis (vardai, pavardės, adresai, telefonų
-numeriai). Valdymo įmonės vadovais gali būti tik nepriekaištingos reputacijos
-asmenys, turintys darbo finansų įstaigose arba bankuose patirties. Tokie patys
-reikalavimai taikomi ir laikinai valdymo įmonės vadovus pavaduojantiems
-asmenims. Apie numatomus valdymo įmonės vadovų pakeitimus Vertybinių popierių
-komisijai turi būti pranešta iš anksto. Jeigu valdymo įmonės vadovais tampa
-asmenys, kurie pagal įstatymus neturi teisės eiti valdymo įmonės vadovų
-pareigų, Vertybinių popierių komisija turi teisę panaikinti valdymo įmonės
-leidimą verstis investicinių bendrovių turto valdymu. Įsigyti valdymo įmonės
-akcijų, kurios suteikia 10 ir daugiau procentų balsų valdymo įmonės visuotiniuose
-akcininkų susirinkimuose, galima tik gavus Vertybinių popierių komisijos
-leidimą. Asmuo, įsigijęs akcijų, suteikiančių 10 ir daugiau procentų balsų
-visuotiniuose valdymo įmonės akcininkų susirinkimuose, be tokio leidimo netenka
-teisės balsuoti valdymo įmonės akcininkų susirinkimuose. Tokiu atveju valdymo
-įmonės visuotinio akcininkų susirinkimo kvorumas skaičiuojamas pagal balsus,
-kuriuos šioje įmonėje suteikia akcijos, priklausančios kitiems akcininkams.
-Balsavimo teisė atgaunama po to, kai perleidžiamos akcijos, viršijančios šioje
-dalyje nustatytą balsų ribą. Šios dalies reikalavimai taikomi ir asmenims,
-kurie pagal Vertybinių popierių viešosios apyvartos įstatymą yra laikomi kartu
-veikiančiais asmenimis, turinčiais akcijų paketą.
+įmonė privalo pateikti Vertybinių popierių komisijai duomenis apie visus
+vadovus bei laikinai juos pavaduojančius asmenis (vardai, pavardės, adresai,
+telefonų numeriai). Valdymo įmonės vadovais gali būti tik nepriekaištingos
+reputacijos asmenys, turintys darbo finansų įstaigose arba bankuose patirties.
+Tokie patys reikalavimai taikomi ir laikinai valdymo įmonės vadovus
+pavaduojantiems asmenims. Apie numatomus valdymo įmonės vadovų pakeitimus
+Vertybinių popierių komisijai turi būti pranešta iš anksto. Jeigu valdymo
+įmonės vadovais tampa asmenys, kurie pagal įstatymus neturi teisės eiti valdymo
+įmonės vadovų pareigų, Vertybinių popierių komisija turi teisę panaikinti
+valdymo įmonės leidimą verstis investicinių bendrovių turto valdymu. Įsigyti
+valdymo įmonės akcijų, kurios suteikia 10 ir daugiau procentų balsų valdymo įmonės
+visuotiniuose akcininkų susirinkimuose, galima tik gavus Vertybinių popierių
+komisijos leidimą. Asmuo, įsigijęs akcijų, suteikiančių 10 ir daugiau procentų
+balsų visuotiniuose valdymo įmonės akcininkų susirinkimuose, be tokio leidimo
+netenka teisės balsuoti valdymo įmonės akcininkų susirinkimuose. Tokiu atveju
+valdymo įmonės visuotinio akcininkų susirinkimo kvorumas skaičiuojamas pagal
+balsus, kuriuos šioje įmonėje suteikia akcijos, priklausančios kitiems
+akcininkams. Balsavimo teisė atgaunama po to, kai perleidžiamos akcijos,
+viršijančios šioje dalyje nustatytą balsų ribą. Šios dalies reikalavimai
+taikomi ir asmenims, kurie pagal Vertybinių popierių viešosios apyvartos
+įstatymą yra laikomi kartu veikiančiais asmenimis, turinčiais akcijų paketą.
+ 
+[4 dalies redakcija nuo 2002 m.
+balandžio 1 d.:
+4. Ne mažiau kaip du valdymo įmonės
+darbuotojai, atsakingi už investicinių bendrovių turto valdymą, privalo turėti
+Vertybinių popierių komisijos pripažintą kvalifikacinį sertifikatą. Valdymo
+įmonė privalo pateikti Vertybinių popierių komisijai duomenis apie visus
+vadovus bei laikinai juos pavaduojančius asmenis (vardai, pavardės, adresai,
+telefonų numeriai). Valdymo įmonės vadovais gali būti tik nepriekaištingos
+reputacijos asmenys, turintys darbo finansų įstaigose arba bankuose patirties.
+Tokie patys reikalavimai taikomi ir laikinai valdymo įmonės vadovus
+pavaduojantiems asmenims. Apie numatomus valdymo įmonės vadovų pakeitimus
+Vertybinių popierių komisijai turi būti pranešta iš anksto. Jeigu valdymo
+įmonės vadovais tampa asmenys, kurie pagal įstatymus neturi teisės eiti valdymo
+įmonės vadovų pareigų, Vertybinių popierių komisija turi teisę panaikinti
+valdymo įmonės leidimą verstis investicinių bendrovių turto valdymu. Įsigyti
+valdymo įmonės akcijų, kurios suteikia 10 ir daugiau procentų balsų valdymo
+įmonės visuotiniuose akcininkų susirinkimuose, galima tik gavus Vertybinių
+popierių komisijos leidimą. Asmuo, įsigijęs akcijų, suteikiančių 10 ir daugiau
+procentų balsų visuotiniuose valdymo įmonės akcininkų susirinkimuose, be tokio
+leidimo netenka teisės balsuoti valdymo įmonės akcininkų susirinkimuose. Tokiu
+atveju valdymo įmonės visuotinio akcininkų susirinkimo kvorumas skaičiuojamas
+pagal balsus, kuriuos šioje įmonėje suteikia akcijos, priklausančios kitiems
+akcininkams. Balsavimo teisė atgaunama po to, kai perleidžiamos akcijos,
+viršijančios šioje dalyje nustatytą balsų ribą. Šios dalies reikalavimai
+taikomi ir asmenims, kurie pagal Vertybinių popierių rinkos įstatymą yra
+laikomi kartu veikiančiais asmenimis, turinčiais akcijų paketą.]
+ 
 5. Vertybinių popierių komisija gali
 neduoti leidimo įsigyti valdymo įmonės akcijų, suteikiančių 10 ir daugiau
 procentų balsų valdymo įmonės visuotiniuose akcininkų susirinkimuose, jei to
@@ -1225,9 +1217,8 @@ aplinkybės atsiranda po to, kai Vertybinių popierių komisija išdavė leidim�
 įsigyti valdymo įmonės akcijų, asmuo, kuriam priklauso 10 ir daugiau procentų
 balso teisę suteikiančių valdymo įmonės akcijų, netenka balso teisės
 visuotiniuose valdymo įmonės akcininkų susirinkimuose. Balso teisę toks asmuo
-atgauna tuomet, kai perleidžia akcijas, viršijančias šio straipsnio 4 dalyje
-nustatytą balsų ribą, arba atsistatydina iš investicinės bendrovės vadovo
-pareigų.
+atgauna tuomet, kai perleidžia akcijas, viršijančias šio straipsnio 4 dalyje nustatytą
+balsų ribą, arba atsistatydina iš investicinės bendrovės vadovo pareigų.
 7. Valdymo įmonė neturi teisės sudaryti
 su investicine bendrove jokių kitų sandorių, išskyrus turto valdymo sutartį,
 taip pat įsigyti investicinės bendrovės išleidžiamų vertybinių popierių ir
@@ -1243,17 +1234,19 @@ atvejais, kai ji nevaldo nė vienos investicinės bendrovės turto. Valdymo įmo
 reorganizuoti turi būti gautas Vertybinių popierių komisijos sutikimas.
 Vertybinių popierių komisija gali neduoti sutikimo tais atvejais, kai valdymo
 įmonės reorganizavimas gali pažeisti jos valdomų investicinių bendrovių
-akcininkų interesus, reorganizavimas prieštarauja įstatymams arba kitiems teisės
-aktams arba po reorganizavimo veiksiančios valdymo įmonės nebeatitiks įstatymų
-ir kitų teisės aktų joms keliamų reikalavimų.
+akcininkų interesus, reorganizavimas prieštarauja įstatymams arba kitiems
+teisės aktams arba po reorganizavimo veiksiančios valdymo įmonės nebeatitiks
+įstatymų ir kitų teisės aktų joms keliamų reikalavimų.
 10. Valdymo įmonė privalo teikti
 Vertybinių popierių komisijai periodines finansines ataskaitas, ataskaitas apie
 savo kapitalą bei veiklą pagal Vertybinių popierių komisijos patvirtintas
 taisykles.
+Straipsnio pakeitimai:
+Nr. IX-661,
+2001-12-17, Žin., 2001, Nr. 112-4080 (2001-12-30), įsigalioja nuo 2002-04-01
  
-15 straipsnis. Valdymo įmonės teisės ir
-pareigos
- 
+15 straipsnis. Valdymo įmonės teisės
+ir pareigos
 1. Valdymo įmonė turi teisę disponuoti
 investicinės bendrovės nuosavais (grynaisiais) aktyvais ir įgyvendinti teises,
 kurias suteikia investicinės bendrovės nuosavi (grynieji) aktyvai, pagal turto
@@ -1279,7 +1272,6 @@ draudžiama atstovauti ir tos pačios valdymo įmonės valdomoms investicinėms
 bendrovėms, kurių vertybinių popierių portfelis turi būti diversifikuotas.
  
 16 straipsnis. Turto valdymo sutartis
- 
 1. Investicinės bendrovės ir valdymo
 įmonės sutartyje (turto valdymo sutartyje) turi būti numatyta:
 1) sutarties objektas;
@@ -1288,8 +1280,8 @@ bendrovėms, kurių vertybinių popierių portfelis turi būti diversifikuotas.
 objektai, būdai;
 4) atlyginimo valdymo įmonei dydis, jo
 mokėjimo būdai ir tvarka;
-5) investicinės bendrovės išlaidų struktūra
-ir jų padengimo tvarka;
+5) investicinės bendrovės išlaidų
+struktūra ir jų padengimo tvarka;
 6) atsakomybė už įsipareigojimų
 neįvykdymą;
 7) sutarties nutraukimo sąlygos ir
@@ -1315,32 +1307,30 @@ Vertybinių popierių komisija nurodo investicinei bendrovei pakeisti valdymo
 investicinės bendrovės visuotinio akcininkų susirinkimo nutarimas
 nereikalingas. Ginčai dėl valdymo sutarties nutraukimo sprendžiami teismuose
 įstatymų nustatyta tvarka.
-3. Metinis
-atlyginimas valdymo įmonei už investicinės
-bendrovės turto valdymą negali viršyti didesniojo iš šių dydžių:
+3. Metinis atlyginimas valdymo įmonei už investicinės bendrovės turto
+valdymą negali viršyti didesniojo iš šių
+dydžių:
 1) 2 procentų investicinės bendrovės
 nuosavų (grynųjų) aktyvų vidutinės metinės vertės;
 2) 20 procentų investicinės bendrovės
 metinio grynojo pelno.
-4. Turto
-valdymo sutartyje su investicine bendrove
-draudžiama numatyti alternatyvinę galimybę valdymo įmonės atlyginimą skaičiuoti
-pasirinktinai pagal kurį nors iš šio straipsnio 3 dalyje nurodytų dydžių. Sieti
-valdymo įmonės atlyginimą su abiem dydžiais galima tik tuo atveju, kai nustatomas fiksuotas valdymo įmonės atlyginimas,
-kartu numatant, kad tuo atveju, jei nustatytas fiksuotas atlyginimas viršija
-abu šiuos dydžius, valdymo įmonei mokama atlyginimo suma negali viršyti
-didesniojo iš jų.
+4. Turto valdymo sutartyje su investicine bendrove draudžiama numatyti alternatyvinę galimybę valdymo įmonės
+atlyginimą skaičiuoti pasirinktinai pagal kurį nors iš šio straipsnio 3 dalyje
+nurodytų dydžių. Sieti valdymo įmonės atlyginimą su abiem dydžiais galima tik
+tuo atveju, kai nustatomas fiksuotas valdymo įmonės atlyginimas, kartu numatant, kad tuo atveju, jei nustatytas fiksuotas
+atlyginimas viršija abu šiuos dydžius, valdymo įmonei mokama atlyginimo suma
+negali viršyti didesniojo iš jų.
  
-17 straipsnis. Valdymo įmonės pakeitimas
- 
-1. Jeigu pasibaigia turto valdymo
-sutarties terminas ir sutartis nepratęsiama arba sutartis su ta pačia valdymo
-įmone nepasirašoma iš naujo, taip pat jeigu turto valdymo sutartis nutraukiama
-arba turto valdymo sutartis pasibaigia kitais įstatymų bei turto valdymo
-sutarties nustatytais atvejais, investicinė kintamojo kapitalo bendrovė privalo
-ne vėliau kaip per 3 mėnesius nuo sutarties pasibaigimo perduoti turto valdymą
-kitai valdymo įmonei. Kol investicinės kintamojo kapitalo bendrovės turto
-valdymas neperduotas kitai valdymo įmonei, šios bendrovės turtą valdo jos
+17 straipsnis. Valdymo įmonės
+pakeitimas
+1. Jeigu pasibaigia turto valdymo sutarties
+terminas ir sutartis nepratęsiama arba sutartis su ta pačia valdymo įmone
+nepasirašoma iš naujo, taip pat jeigu turto valdymo sutartis nutraukiama arba
+turto valdymo sutartis pasibaigia kitais įstatymų bei turto valdymo sutarties
+nustatytais atvejais, investicinė kintamojo kapitalo bendrovė privalo ne vėliau
+kaip per 3 mėnesius nuo sutarties pasibaigimo perduoti turto valdymą kitai
+valdymo įmonei. Kol investicinės kintamojo kapitalo bendrovės turto valdymas
+neperduotas kitai valdymo įmonei, šios bendrovės turtą valdo jos
 depozitoriumas. Tuo metu, kai investicinės kintamojo kapitalo bendrovės turtą
 valdo jos depozitoriumas, draudžiama platinti šios bendrovės akcijas.
 2. Naują valdymo įmonę bei sutartį turi
@@ -1355,11 +1345,11 @@ pasirinkta valdymo įmonė pagal įstatymus arba kitus teisės aktus negali būt
 šios investicinės kintamojo kapitalo bendrovės valdymo įmone arba turto valdymo
 sutartis prieštarauja įstatymams ar kitiems teisės aktams arba investicinės
 kintamojo kapitalo bendrovės akcininkų interesams.
-4. Vertybinių popierių komisija turi teisę
-reikalauti, kad investicinės bendrovės turto valdymas būtų perduotas kitai
-valdymo įmonei, jei valdymo įmonė nebeatitinka įstatymų ar kitų teisės aktų
-reikalavimų, pažeidžia turto valdymo sutartį, šį arba kitus įstatymus, kitus
-teisės aktus.
+4. Vertybinių popierių komisija turi
+teisę reikalauti, kad investicinės bendrovės turto valdymas būtų perduotas
+kitai valdymo įmonei, jei valdymo įmonė nebeatitinka įstatymų ar kitų teisės
+aktų reikalavimų, pažeidžia turto valdymo sutartį, šį arba kitus įstatymus,
+kitus teisės aktus.
 5. Jei investicinė kintamojo kapitalo
 bendrovė nesudaro naujos turto valdymo sutarties per šio straipsnio 1 dalyje
 nurodytą terminą, atsiradus šio straipsnio 1 arba 4 dalyse numatytoms
@@ -1368,53 +1358,48 @@ kintamojo kapitalo bendrovės leidimą.
  
 18 straipsnis. Nuostolių (žalos)
 atlyginimas
- 
 Valdymo įmonė įstatymų nustatyta tvarka
 turi atlyginti padarytus dėl jos kaltės nuostolius (žalą) investicinei
 bendrovei ar jos akcininkams. Turto valdymo sutarties nutraukimas pirma laiko
 neatleidžia valdymo įmonės nuo investicinei bendrovei arba jos akcininkams
 padarytų nuostolių (žalos) atlyginimo.
  
-KETVIRTASIS SKIRSNIS
+KETVIRTASIS
+SKIRSNIS
 DEPOZITORIUMAI
  
-19 straipsnis. Investicinės bendrovės
-prievolė perduoti saugoti savo turtą depozitoriumui
- 
-Investicinės
-kintamojo kapitalo bendrovės arba uždarojo investicinio fondo turtas, kurį
-sudaro piniginės lėšos ir vertybiniai popieriai, turi būti perduodamas saugoti
-vienam depozitoriumui pasaugos pagrindais arba sudarant banko sąskaitos
-sutartį. Kontroliuojančiosios investicinės
-bendrovės turimi vertybiniai popieriai turi būti perduodami saugoti vienam
-depozitoriumui arba Lietuvos centriniam vertybinių popierių depozitoriumui.
-Investicinė bendrovė negali turėti daugiau kaip vieno depozitoriumo.
+19 straipsnis. Investicinės
+bendrovės prievolė perduoti saugoti savo turtą 
+depozitoriumui
+Investicinės kintamojo kapitalo bendrovės arba uždarojo investicinio fondo turtas, kurį sudaro piniginės lėšos ir
+vertybiniai popieriai, turi būti perduodamas saugoti vienam depozitoriumui
+pasaugos pagrindais arba sudarant banko sąskaitos sutartį. Kontroliuojančiosios
+investicinės bendrovės turimi vertybiniai
+popieriai turi būti perduodami saugoti vienam depozitoriumui arba Lietuvos
+centriniam vertybinių popierių depozitoriumui. Investicinė bendrovė negali
+turėti daugiau kaip vieno depozitoriumo.
  
 20 straipsnis. Teisės verstis
 depozitoriumo veikla įgijimas
- 
-1.
-Depozitoriumu gali būti tik Lietuvos Respublikoje įregistruotas ir Lietuvos
-Respublikoje turintis buveinę bankas. 
+1. Depozitoriumu gali būti tik Lietuvos Respublikoje įregistruotas ir
+Lietuvos Respublikoje turintis buveinę bankas. 
 2. Depozitoriumo įstatinis kapitalas
 negali būti mažesnis kaip 5 milijonai litų. Jeigu depozitoriumo įstatinis
 kapitalas pasidaro mažesnis už minimalų arba jo nuosavi aktyvai pasidaro
 mažesni už įstatinį kapitalą, depozitoriumas privalo apie tai ne vėliau kaip
-per 5 dienas informuoti Vertybinių popierių komisiją. Tokiu atveju sutartis su depozitoriumu
-turi būti nutraukiama, o investicinės bendrovės turtas šio įstatymo 22
-straipsnyje nustatyta tvarka turi būti perduodamas saugoti kitam
+per 5 dienas informuoti Vertybinių popierių komisiją. Tokiu atveju sutartis su
+depozitoriumu turi būti nutraukiama, o investicinės bendrovės turtas šio
+įstatymo 22 straipsnyje nustatyta tvarka turi būti perduodamas saugoti kitam
 depozitoriumui.
  
-21 straipsnis. Depozitoriumo veikla ir
-jos priežiūra
- 
+21 straipsnis. Depozitoriumo veikla
+ir jos priežiūra
 1. Depozitoriumas privalo atlikti kiekvienos
 investicinės bendrovės turto atskirą apskaitą. Depozitoriumo kreditoriai neturi
 teisės nukreipti išieškojimo į jame pasaugos pagrindais saugomą investicinės
 bendrovės turtą.
-2. Vertybinių
-popierių komisija turi teisę nustatyti depozitoriumo veiklos kontrolės taisykles, taip pat reikalavimus
-metiniam ir kitokiam auditui.
+2. Vertybinių popierių komisija turi teisę nustatyti depozitoriumo
+veiklos kontrolės taisykles, taip pat reikalavimus metiniam ir kitokiam auditui.
 3. Vykdydamas investicinės bendrovės ar
 valdymo įmonės (jeigu tokia yra) nurodymus, depozitoriumas privalo užtikrinti,
 kad:
@@ -1423,41 +1408,48 @@ bendrovės akcijų pardavimo ir išpirkimo kaina būtų skaičiuojama pagal šio
 įstatymo ir šios bendrovės įstatų reikalavimus;
 2) investicinė bendrovė ar jos vardu
 veikiantys asmenys, parduodami, išleisdami, supirkdami, išpirkdami ir
-panaikindami bendrovės akcijas, laikytųsi šio įstatymo ir šios bendrovės įstatų
-reikalavimų;
-3) pajamos,
-gaunamos iš sandorių dėl investicinės bendrovės turto, laiku patektų į jos
-sąskaitą;
-4) investicinės
-bendrovės pajamos būtų naudojamos įstatymuose, taip pat kituose teisės aktuose
-ir šios bendrovės įstatuose nustatyta
-tvarka.
+panaikindami bendrovės akcijas, laikytųsi šio įstatymo ir šios bendrovės
+įstatų reikalavimų;
+3) pajamos, gaunamos iš sandorių dėl
+investicinės bendrovės turto, laiku patektų į jos sąskaitą;
+4) investicinės bendrovės pajamos būtų naudojamos įstatymuose, taip pat
+kituose teisės aktuose ir šios bendrovės įstatuose nustatyta tvarka.
 4. Depozitoriumas įstatymų nustatyta
 tvarka atsako už padarytų dėl jo kaltės nuostolių (žalos) investicinei
 bendrovei ar jos akcininkams atlyginimą. Depozitoriumas negali būti atleistas
 nuo savo prievolių vykdymo dėl to, kad visą ar dalį jam patikėto turto jis
 perdavė trečiajai šaliai.
-5.
-Depozitoriumas privalo sudaryti su investicine bendrove sutartį, kurioje būtų
-numatyta atsiskaitymo už jo paslaugas tvarka ir įkainiai.
+5. Depozitoriumas privalo sudaryti su investicine bendrove sutartį,
+kurioje būtų numatyta atsiskaitymo už jo paslaugas tvarka ir įkainiai.
 6. Depozitoriumas privalo vykdyti
 investicinės bendrovės (ar valdymo įmonės) nurodymus, jeigu jie neprieštarauja
 Akcinių bendrovių įstatymui, šiam įstatymui, Vertybinių popierių viešosios
 apyvartos įstatymui, šiais įstatymais remiantis priimtiems teisės aktams bei
 investicinės bendrovės įstatams. 
  
-22 straipsnis. Depozitoriumo pakeitimas
+[6 dalies redakcija nuo 2002 m. balandžio 1 d.:
+6. Depozitoriumas privalo vykdyti
+investicinės bendrovės (ar valdymo įmonės) nurodymus, jeigu jie neprieštarauja
+Akcinių bendrovių įstatymui, šiam įstatymui, Vertybinių popierių rinkos
+įstatymui, šiais įstatymais remiantis priimtiems teisės aktams bei investicinės
+bendrovės įstatams.]
+Straipsnio pakeitimai:
+Nr. IX-661,
+2001-12-17, Žin., 2001, Nr. 112-4080 (2001-12-30), įsigalioja nuo 2002-04-01
  
+22 straipsnis. Depozitoriumo
+pakeitimas
 1. Jei sutartis su depozitoriumu
 nutraukiama arba pasibaigia įstatymų ar sutarties nurodytais atvejais, ne
 vėliau kaip per 2 savaites nuo sutarties pasibaigimo arba nutraukimo visas
 depozitoriume saugomas investicinės bendrovės turtas, o depozitoriumo bankroto
 atveju - turtas, kurį sudaro pinigai, saugomi pasaugos pagrindais, ir
 vertybiniai popieriai, turi būti perduotas saugoti kitam depozitoriumui. Naują
-investicinės bendrovės depozitoriumą parenka ir sutartį su juo sudaro investicinės
-kintamojo kapitalo bendrovės stebėtojų taryba arba uždarojo investicinio fondo
-ar kontroliuojančiosios investicinės bendrovės administracijos vadovas, arba
-stebėtojų taryba, jei investicinės bendrovės administracija nesudaryta.
+investicinės bendrovės depozitoriumą parenka ir sutartį su juo sudaro
+investicinės kintamojo kapitalo bendrovės stebėtojų taryba arba uždarojo
+investicinio fondo ar kontroliuojančiosios investicinės bendrovės
+administracijos vadovas, arba stebėtojų taryba, jei investicinės bendrovės
+administracija nesudaryta.
 2. Sutartis su depozitoriumu nutrūksta
 šiais atvejais: depozitoriumo įstatinis kapitalas tampa mažesnis už minimalų
 arba depozitoriumo nuosavi aktyvai pasidaro mažesni už įstatinį kapitalą,
@@ -1466,24 +1458,22 @@ depozitoriumą, Lietuvos bankas apriboja šio banko operacijas su vertybiniais
 popieriais arba atšaukia banko licenciją, depozitoriumas pasiskelbia ar
 paskelbiamas nemokiu arba jam iškeliama bankroto byla. Išvardytos sutarties
 nutraukimo sąlygos turi būti įrašytos į sutartį su depozitoriumu.
-3. Jei investicinės bendrovės
-depozitoriumas nebeatitinka įstatymų arba kitų teisės aktų keliamų reikalavimų,
-depozitoriumas nevykdo arba netinkamai vykdo savo įsipareigojimus pagal sutartį
-su investicine bendrove ir pareigas investicinei bendrovei, atsirandančias iš
-įstatymų ar kitų teisės aktų, Vertybinių popierių komisija, siekdama užtikrinti
-investicinės bendrovės akcininkų teises, turi teisę nurodyti investicinei
-bendrovei, kad jos depozitoriumas būtų pakeistas.
+3. Jei investicinės bendrovės depozitoriumas
+nebeatitinka įstatymų arba kitų teisės aktų keliamų reikalavimų, depozitoriumas
+nevykdo arba netinkamai vykdo savo įsipareigojimus pagal sutartį su investicine
+bendrove ir pareigas investicinei bendrovei, atsirandančias iš įstatymų ar kitų
+teisės aktų, Vertybinių popierių komisija, siekdama užtikrinti investicinės
+bendrovės akcininkų teises, turi teisę nurodyti investicinei bendrovei, kad jos
+depozitoriumas būtų pakeistas.
 4. Jei šio straipsnio 1 ir 2 dalyse
 nurodytais atvejais investicinės bendrovės turtas per šio straipsnio 1 dalyje
 nustatytą terminą neperduodamas kitam depozitoriumui, Vertybinių popierių
 komisija turi teisę panaikinti investicinės bendrovės leidimą.
  
-23 straipsnis. Depozitoriumų nepriklausomybė
-nuo investicinių bendrovių
- 
-1. Nė viena
-įmonė negali veikti kaip investicinė bendrovė (ar valdymo įmonė) ir
-depozitoriumas kartu.
+23 straipsnis. Depozitoriumų
+nepriklausomybė nuo investicinių bendrovių
+1. Nė viena įmonė negali veikti kaip
+investicinė bendrovė (ar valdymo įmonė) ir depozitoriumas kartu.
 2. Investicinė bendrovė ar valdymo įmonė
 ir depozitoriumas savo funkcijas privalo atlikti nepriklausomai.
 3. Depozitoriumo, kuriame investicinė
@@ -1498,25 +1488,22 @@ dalyse nustatyti reikalavimai, Vertybinių popierių komisija turi teisę
 panaikinti investicinės bendrovės valdymo įmonės leidimą arba reikalauti, kad
 investicinės bendrovės valdymo įmonė ir (arba) depozitoriumas būtų pakeisti.
  
-PENKTASIS SKIRSNIS
+PENKTASIS
+SKIRSNIS
 INVESTUOTOJŲ INTERESŲ APSAUGA
  
-24 straipsnis. Pareiga veikti akcininkų
-interesų labui
- 
+24 straipsnis. Pareiga veikti
+akcininkų interesų labui
 1. Investicinė bendrovė, valdymo įmonė
 ir depozitoriumas privalo savo veiklą organizuoti pagal galiojančius įstatymus
 ir kitus teisės aktus bei užtikrinti, kad jų veikla nepažeistų akcininkų
 turtinių teisių bei interesų.
-2. Investicinė
-bendrovė, valdymo įmonė bei depozitoriumas, taip pat su jais susiję asmenys
-negali sudaryti jokio sandorio dėl
-investicinės bendrovės ar jos turto, jei šis sandoris pakenktų investicinei
-bendrovei ar jos akcininkų teisėms ir interesams. Investicinės bendrovės
-vadovai, valdymo įmonė bei depozitoriumas neatsako už žalą, kuri buvo padaryta
-investicinei bendrovei norint sumažinti
-nuostolius, susijusius su jos investicijų portfelio vertės sumažėjimu dėl jį
-sudarančių vertybinių popierių kurso kritimo.
+2. Investicinė bendrovė, valdymo įmonė bei depozitoriumas, taip pat su
+jais susiję asmenys negali sudaryti jokio sandorio dėl investicinės bendrovės ar jos turto, jei šis sandoris pakenktų
+investicinei bendrovei ar jos akcininkų teisėms ir interesams. Investicinės
+bendrovės vadovai, valdymo įmonė bei depozitoriumas neatsako už žalą, kuri buvo
+padaryta investicinei bendrovei norint sumažinti nuostolius, susijusius su jos investicijų portfelio vertės
+sumažėjimu dėl jį sudarančių vertybinių popierių kurso kritimo.
 3. Nustačius, kad vadovas ar valdymo
 įmonė sudarė sandorį, iš kurio jis (ji) gauna naudą investicinės bendrovės ar
 jos akcininkų sąskaita, taip pat jei vadovas ar valdymo įmonė neteisėtais
@@ -1532,7 +1519,6 @@ jiems nuostolius (žalą).
  
 25 straipsnis. Vertybinių popierių
 komisijos teisės
- 
 1. Įgyvendindama šį įstatymą, Vertybinių
 popierių komisija turi teisę priimti jos kompetencijai priskirtus teisės aktus.
 2. Vertybinių popierių komisija turi
@@ -1541,16 +1527,15 @@ investicinės bendrovės, valdymo įmonės ir depozitoriumai laikosi šio įstat
 ir su juo susijusių kitų teisės aktų bei taisyklių. Atlikdami šias funkcijas,
 Vertybinių popierių komisijos darbuotojai gali be leidimo įeiti į išvardytų
 įmonių patalpas, tikrinti, laikinai paimti dokumentus (palikdami jų apyrašą) ar
-juos kopijuoti, taip pat raštu pateikti klausimus arba žodžiu apklausti šių
-įmonių vadovus ar bet kuriuos kitus jiems pavaldžius asmenis. Vertybinių
-popierių komisija turi teisę Asmens duomenų teisinės apsaugos įstatymo
-nustatyta tvarka gauti duomenis apie asmenis, kurie yra arba ruošiasi tapti
-investicinių bendrovių, valdymo įmonių arba depozitoriumų vadovais, siekdama
-įsitikinti, ar šie asmenys yra nepriekaištingos reputacijos ir turi teisę eiti
-tokias pareigas.
-3. Vertybinių
-popierių komisijos nurodymai investicinėms bendrovėms, turto valdymo įmonėms ar jų vadovams dėl įstatymų ir kitų teisės aktų
-pažeidimų pašalinimo yra privalomi.
+juos kopijuoti, taip pat raštu pateikti klausimus arba žodžiu apklausti šių įmonių
+vadovus ar bet kuriuos kitus jiems pavaldžius asmenis. Vertybinių popierių
+komisija turi teisę Asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka
+gauti duomenis apie asmenis, kurie yra arba ruošiasi tapti investicinių
+bendrovių, valdymo įmonių arba depozitoriumų vadovais, siekdama įsitikinti, ar
+šie asmenys yra nepriekaištingos reputacijos ir turi teisę eiti tokias
+pareigas.
+3. Vertybinių popierių komisijos nurodymai investicinėms bendrovėms,
+turto valdymo įmonėms ar jų vadovams dėl įstatymų ir kitų teisės aktų pažeidimų pašalinimo yra privalomi.
 4. Vertybinių popierių komisijos
 darbuotojai privalo saugoti investicinių bendrovių komercines paslaptis, kurias
 jie sužinojo atlikdami savo pareigas. Už gautos informacijos panaudojimą ne
@@ -1559,47 +1544,42 @@ pagal paskirtį arba kitus neteisėtus veiksmus šie darbuotojai atsako pagal
  
 26 straipsnis. Atsakomybė už įstatymo
 pažeidimus
- 
 1. Investicinės bendrovės, valdymo
 įmonės, depozitoriumai ir jų vadovai už šio įstatymo pažeidimus atsako įstatymų
 nustatyta tvarka.
 2. Vertybinių popierių komisija turi
 teisę:
-1) taikyti
-Administracinių teisės pažeidimų kodekse nustatytas sankcijas investicinių
-bendrovių, valdymo įmonių ir depozitoriumų vadovams, taip pat šių įmonių auditoriams už šio įstatymo ir kitų teisės aktų
-pažeidimus;
+1) taikyti Administracinių teisės pažeidimų kodekse nustatytas sankcijas
+investicinių bendrovių, valdymo įmonių ir depozitoriumų vadovams, taip pat šių
+įmonių auditoriams už šio įstatymo ir kitų teisės aktų pažeidimus;
 2) valdymo įmonėms ar depozitoriumams,
 kurie savo neteisėta veikla padarė nuostolių (žalos) investicinėms bendrovėms
 ar jų akcininkams, skirti piniginę baudą iki 3 procentų jų metinių pajamų.
-3. Šio straipsnio 2 dalyje nustatytų sankcijų taikymas
-neatleidžia asmenų nuo prievolės atlyginti dėl jų kaltės investicinių
-bendrovių, jų akcininkų ar trečiųjų asmenų patirtus nuostolius (žalą), taip pat
-nuo atsakomybės pagal kitus įstatymus.
+3. Šio straipsnio 2 dalyje nustatytų sankcijų taikymas neatleidžia asmenų nuo prievolės atlyginti dėl jų
+kaltės investicinių bendrovių, jų akcininkų ar trečiųjų asmenų patirtus
+nuostolius (žalą), taip pat nuo atsakomybės pagal kitus įstatymus.
 4. Vertybinių popierių komisijos
 sprendimai dėl šio straipsnio 2 dalies 2 punkte nustatytų sankcijų taikymo gali
 būti per vieną mėnesį apskųsti teismui. Apskundimas nesustabdo Vertybinių
 popierių komisijos nurodymų ir sprendimų pašalinti įstatymų ir kitų teisės aktų
 pažeidimus vykdymo, jeigu teismas nenurodo ko kita.
-5. Piniginės
-baudos į biudžetą turi būti sumokamos ne vėliau kaip per 15 dienų nuo nutarimo
-skirti baudą investicinei bendrovei, valdymo įmonei, depozitoriumui ar jų
-vadovams gavimo dienos. Piniginės baudos iš
-valdymo įmonių ar depozitoriumų pajamų išieškomos ne ginčo tvarka.
+5. Piniginės baudos į biudžetą turi
+būti sumokamos ne vėliau kaip per 15 dienų nuo nutarimo skirti baudą
+investicinei bendrovei, valdymo įmonei, depozitoriumui ar jų vadovams gavimo
+dienos. Piniginės baudos iš valdymo įmonių ar depozitoriumų pajamų išieškomos ne ginčo tvarka.
  
-ŠEŠTASIS SKIRSNIS
+ŠEŠTASIS
+SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
  
 27 straipsnis. Šio įstatymo taikymas
 veikiančioms investicinėms akcinėms bendrovėms
- 
-1. Investicinės
-akcinės bendrovės, įsteigtos valstybinio turto
-privatizavimo laikotarpiu įgyvendinant Valstybinio turto pirminio privatizavimo
-įstatymą, nepakeitusios savo įstatų ir nepersiregistravusios į investicines
-bendroves iki 1997 m. liepos 1 d., turi būti likviduotos Vyriausybės nustatyta
-tvarka pagal šio įstatymo 5 straipsnio 16
-dalyje nustatytus investicinės bendrovės likvidavimo principus. 
+1. Investicinės akcinės bendrovės, įsteigtos valstybinio turto
+privatizavimo laikotarpiu įgyvendinant Valstybinio turto pirminio privatizavimo įstatymą, nepakeitusios savo įstatų ir
+nepersiregistravusios į investicines bendroves iki 1997 m. liepos 1 d., turi
+būti likviduotos Vyriausybės nustatyta tvarka pagal šio įstatymo 5 straipsnio
+16 dalyje nustatytus investicinės bendrovės
+likvidavimo principus. 
 2. Investicinių akcinių bendrovių
 privilegijuotosios akcijos, iki 1995 m. rugsėjo 2 d. nekonvertuotos į
 paprastąsias akcijas, nuo 1995 m. rugsėjo 2 d. laikomos paprastosiomis
@@ -1610,21 +1590,66 @@ popierių komisijos sprendimu be investicinės akcinės bendrovės akcininkų
 susirinkimo nutarimo. Nuo 1995 m. rugsėjo 2 d. negalioja jokios investicinių
 akcinių bendrovių įstatuose numatytos investicinių akcinių bendrovių steigėjų
 privilegijos.
-3. Investicinė
-akcinė bendrovė savo pinigus ir vertybinius
-popierius privalo saugoti pasirinktame depozitoriume. Sutarties su
-depozitoriumu nuorašas turi būti pateiktas Vertybinių popierių komisijai.
-4. Nuo šio įstatymo įsigaliojimo dienos
-steigti naujas investicines akcines bendroves yra draudžiama.
+3. Investicinė akcinė bendrovė savo pinigus ir vertybinius popierius
+privalo saugoti pasirinktame depozitoriume.
+Sutarties su depozitoriumu nuorašas turi būti pateiktas Vertybinių popierių
+komisijai.
+4. Nuo šio įstatymo įsigaliojimo
+dienos steigti naujas investicines akcines bendroves yra draudžiama.
 5. Investicinių akcinių bendrovių įstatų
 nuostatos iki jų išregistravimo Įmonių rejestre galioja tiek, kiek
 neprieštarauja šiam ir Akcinių bendrovių įstatymui.
+ 
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
  
+RESPUBLIKOS PREZIDENTAS                                                   ALGIRDAS BRAZAUSKAS
+ 
+______________
+ 
+Pakeitimai:
+1.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. I-1356, 96.05.30,
+Žin., 1996, Nr. 57-1336 (96.06.19)
+LIETUVOS
+RESPUBLIKOS INVESTICINIŲ BENDROVIŲ ĮSTATYMO 2 IR 22 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. VIII-712, 98.04.21,
+Žin., 1998, Nr.42-1142 (98.05.06)
+LIETUVOS
+RESPUBLIKOS INVESTICINIŲ BENDROVIŲ ĮSTATYMO 3, 6, 9, 10, 13, 17, 19, 
+22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1387, 99.11.04, Žin., 1999, Nr.98-2811 (99.11.19)
+LIETUVOS
+RESPUBLIKOS INVESTICINIŲ BENDROVIŲ ĮSTATYMO
+PAKEITIMO ĮSTATYMAS
+Nauja įstatymo redakcija 
+ 
+4.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-661,
+2001-12-17, Žin., 2001, Nr. 112-4080 (2001-12-30)
+INVESTICINIŲ BENDROVIŲ ĮSTATYMO
+1, 7, 14 IR 21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Įstatymas įsigalioja nuo 2002 m.
+balandžio 1 d 
+ 
+*** Pabaiga ***
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+Redagavo: Aušrinė Trapinskienė
+(2002-01-22)
+                  autrap@lrs.lt
 
