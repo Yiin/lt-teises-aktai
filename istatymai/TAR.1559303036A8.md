@@ -85,13 +85,9 @@ būti autorizuotos, patikrintos ir išsamios.
 kultūrai, taip pat informacinėms, pasaulio kultūros, publicistikos, analizės,
 pažintinėms, šviečiamosioms, meno laidoms. Masinė kultūra atspindima
 apžvalginio, pažintinio, analitinio pobūdžio laidose.
-3. Daugiau kaip pusę LRT programos turi sudaryti
-Europos ir Lietuvos autorių garso ir vaizdo (audiovizualiniai) kūriniai. Ne
-mažiau kaip 10 procentų LRT programos turi sudaryti nepriklausomų kūrėjų
-(radijo ir televizijos laidas kuriančių fizinių ar juridinių asmenų,
-nepavaldžių LRT ir nesusijusių su juo turtiniais santykiais ar jungtine veikla)
-garso ir vaizdo (audiovizualiniai) kūriniai, sukurti ne anksčiau kaip per
-pastaruosius 5 metus. 
+3. Europos
+kūrinių bei nepriklausomų kūrėjų garso ir vaizdo (audiovizualinių) kūrinių LRT
+programose mastus nustato Visuomenės informavimo įstatymas.
 4. Minimali
 LRT programų transliavimo trukmė yra:
 1)
@@ -100,9 +96,13 @@ dienomis - 16 valandų per parą;
 2) radijo:
 pirmosios programos trukmė - 24 valandos per parą, antrosios - 18 valandų per
 parą, trečiosios - 12 valandų per parą.
+Straipsnio pakeitimai:
+Nr. VIII-2070, 00.10.17, Žin., 2000,
+Nr.94-2919 (00.11.03)
  
-5 straipsnis. LRT teisės ir pareigos
-
+ 
+5 straipsnis. LRT teisės ir
+pareigos 
 1. LRT
 yra Seimo įsteigto Lietuvos radijo ir televizijos teisių ir pareigų perėmėja.
 Negali būti jokių kitų LRT dalininkų. LRT visuotinio susirinkimo funkcijos
@@ -139,9 +139,9 @@ suteikia Lietuvos tradicinėms ir valstybės pripažintoms religinėms
 bendruomenėms laiką transliuoti religines apeigas dvišaliuose susitarimuose
 numatytomis sąlygomis ir tvarka.
 8. LRT suteikia laiką rinkimų metu kandidatams į
-Respublikos Prezidentus, politinėms partijoms ir jų kandidatams į Seimo ar savivaldybių
-tarybų narius Prezidento rinkimų, Seimo rinkimų ir Savivaldybių tarybų rinkimų
-įstatymų nustatytomis sąlygomis ir tvarka.
+Respublikos Prezidentus, politinėms partijoms ir jų kandidatams į Seimo ar
+savivaldybių tarybų narius Prezidento rinkimų, Seimo rinkimų ir Savivaldybių
+tarybų rinkimų įstatymų nustatytomis sąlygomis ir tvarka.
 9. LRT
 sudaro sąlygas darbuotojams kelti kvalifikaciją.
 10. LRT naudojamuose kanaluose neleidžiama veikti
@@ -149,8 +149,8 @@ kitoms radijo ir televizijos stotims be Tarybos leidimo.
  
 6 straipsnis. Reklama LRT
 programose
-1. Reklama LRT programose transliuojama įstatymų
-nustatyta tvarka.
+1. Reklama LRT programose transliuojama įstatymų nustatyta
+tvarka.
 2. Reklama LRT programose draudžiama: 
 1) valstybės paskelbtomis gedulo dienomis;
 2) transliuojant valstybinės reikšmės renginius;
@@ -163,10 +163,19 @@ palaipsniui proporcingai mažinamas iki 10 procentų dienos transliavimo laiko.
 5. LRT
 informacinėse ir švietimo programose ar laidose komercinė reklama
 netransliuojama.
-6. LRT draudžiama įtraukti reklamos intarpus į
-trumpesnių kaip 45 minučių kino filmų transliaciją. 
-7. LRT
-netransliuojami teleparduotuvės skelbimai.
+6. Jeigu transliuojamų garso ir vaizdo kūrinių, tokių
+kaip vaidybiniai ar televizijos filmai (išskyrus serialus, kelių serijų filmus,
+pramogines programas ir dokumentinius filmus), trukmė yra ilgesnė negu 45
+minutės, juos reklama galima pertraukti vieną kartą per 45 minutes; papildomai
+šių kūrinių transliaciją pertraukti reklamos intarpu galima tik tais atvejais,
+kai šių kūrinių trukmė ne mažiau kaip 20 minučių ilgesnė negu du ar daugiau
+ištisi 45 minučių tarpai.
+7. LRT netransliuojami
+teleparduotuvės skelbimai.
+Straipsnio pakeitimai:
+Nr. VIII-2070, 00.10.17, Žin., 2000,
+Nr.94-2919 (00.11.03)
+ 
  
 7 straipsnis. LRT programų
 rėmimas
@@ -187,71 +196,18 @@ II SKYRIUS
 LIETUVOS
 NACIONALINIO RADIJO IR TELEVIZIJOS VALDYMAS
  
-9 straipsnis. LRT taryba 
-1. LRT valdymo organai yra Taryba ir administracija.
-Taryba yra sudaroma Visuomenės informavimo įstatymo 29 straipsnio nustatyta
-tvarka. Tarybos nariais negali būti Seimo, Vyriausybės, Radijo ir televizijos
-komisijos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai,
-asmenys, dirbantys pagal darbo sutartis radijo ir televizijos stotyse,
-įskaitant LRT, taip pat radijo ir televizijos stočių savininkai ir
-bendrasavininkiai.
-2. Tarybos narys negali būti atšauktas iš pareigų, kol
-nesibaigė jo įgaliojimų laikas, išskyrus atvejus, kai:
-1) Tarybos narys atsistatydina; 
-2)
-Tarybos narys be pateisinamos priežasties daugiau kaip 4 mėnesius nedalyvauja
-Tarybos darbe;
-3) Tarybos nariui yra įsiteisėjęs apkaltinamasis
-teismo nuosprendis;
-4) Tarybos narys netenka Lietuvos Respublikos
-pilietybės;
-5) pakinta Tarybos nario paskyrimo įstatyminis
-pagrindas.
-3. Pasibaigus kurio nors Tarybos nario įgaliojimų
-laikui, šis Tarybos narys gali būti pakartotinai skiriamas į Tarybą su sąlyga,
-jeigu dėl tokio paskyrimo nesusidaro daugiau kaip dvi kadencijos iš eilės.
-4. Kai Taryboje atsiranda laisva vieta, Tarybos
-pirmininkas kreipiasi į instituciją, paskyrusią ar delegavusią trūkstamą
-Tarybos narį, prašydamas paskirti naują Tarybos narį iki kadencijos, kuriai
-buvo paskirtas atsistatydinęs ar atšauktas Tarybos narys, pabaigos.
-5. Taryba turi teisę atsistatydinti nepasibaigus
-kadencijai. Jeigu Taryba atsistatydina, Tarybos ir visų jos narių įgaliojimai
-nutrūksta naujai sudarytai Tarybai susirinkus į pirmąjį posėdį. Tarybos
-atsistatydinimo atveju netaikoma šio straipsnio 4 dalies nuostata.
-6. Kai Taryba atsistatydina, Seimo Švietimo, mokslo ir
-kultūros komitetas ne vėliau kaip per 10 dienų kreipiasi į institucijas,
-paskyrusias ar delegavusias Tarybos narius, prašydamas paskirti Tarybos narius.
-7. Institucijos, įgaliotos skirti Tarybos narius,
-privalo juos paskirti ne vėliau kaip per 10 dienų nuo Seimo Švietimo, mokslo ir
-kultūros komiteto kreipimosi dienos. Paskyrus visus Tarybos narius, Seimo
-Švietimo, mokslo ir kultūros komitetas ne vėliau kaip per 10 dienų organizuoja
-Tarybos pirmininko rinkimą. Tarybos pirmininkas renkamas 3 metams paprasta visų
-Tarybos narių balsų dauguma ne daugiau kaip dviem kadencijoms iš eilės. Tarybos
-pirmininko pavaduotojas renkamas ta pačia tvarka Tarybos pirmininko teikimu. 
-8. Tarybos posėdžius ne rečiau kaip kartą per mėnesį
-šaukia Tarybos pirmininkas, o kai jis neina pareigų, - pirmininko pavaduotojas,
-savo iniciatyva arba trečdalio Tarybos narių reikalavimu. Posėdžiai yra
-teisėti, kai juose dalyvauja daugiau kaip pusė Tarybos narių. Nutarimai
-priimami paprasta visų Tarybos narių balsų dauguma, išskyrus šio įstatymo 12
-straipsnio 4 dalyje nurodytą atvejį. 
-9. Taryba dirba pagal savo pačios patvirtintą darbo
-reglamentą.
-10. Taryba finansuojama (apmokama už posėdžius,
-administracinės išlaidos) iš LRT lėšų.
- 
-[9 straipsnio redakcija nuo 2000 m. spalio 1 d.:
 9 straipsnis. LRT taryba
 1. LRT valdymo organai yra Taryba ir administracija.
 2. Taryba yra aukščiausioji LRT valdymo institucija,
-atstovaujanti visuomenės interesams. Ji sudaroma 6 metams iš 12 asmenų – visuomenės,
-mokslo ir kultūros veikėjų. Pirmajai Tarybos, sudaromos šio įstatymo nustatyta
-tvarka, kadencijai 4 tarybos narius 6 metams skiria Respublikos Prezidentas; 4
-narius 4 metams skiria Seimas (2 nariai skiriami iš opozicinių frakcijų
-pasiūlytų kandidatų); 4 narius kaip savo atstovus (po vieną) 2 metams skiria
-šios organizacijos: Lietuvos mokslo taryba, Lietuvos švietimo taryba, Lietuvos
-meno kūrėjų asociacija, Lietuvos vyskupų konferencija. Pasibaigus Tarybos nario
-įgaliojimų laikui, jį paskyrusi ar delegavusi institucija (organizacija) naują
-narį skiria 6 metams.
+atstovaujanti visuomenės interesams. Ji sudaroma 6 metams iš 12 asmenų –
+visuomenės, mokslo ir kultūros veikėjų. Pirmajai Tarybos, sudaromos šio
+įstatymo nustatyta tvarka, kadencijai 4 tarybos narius 6 metams skiria
+Respublikos Prezidentas; 4 narius 4 metams skiria Seimas (2 nariai skiriami iš
+opozicinių frakcijų pasiūlytų kandidatų); 4 narius kaip savo atstovus (po
+vieną) 2 metams skiria šios organizacijos: Lietuvos mokslo taryba, Lietuvos
+švietimo taryba, Lietuvos meno kūrėjų asociacija, Lietuvos vyskupų
+konferencija. Pasibaigus Tarybos nario įgaliojimų laikui, jį paskyrusi ar
+delegavusi institucija (organizacija) naują narį skiria 6 metams.
 3. Tarybos sudarymą organizuoja Seimo Švietimo, mokslo
 ir kultūros komitetas. Jis kviečia pirmąjį Tarybos posėdį, kuriame Tarybos
 nariai paprasta visų Tarybos narių balsų dauguma 3 metams išsirenka Tarybos
@@ -305,7 +261,7 @@ straipsnio 4 dalyje nurodytą atvejį.
 12. Taryba dirba pagal savo pačios patvirtintą darbo
 reglamentą.
 13. Taryba finansuojama (apmokama už posėdžius,
-administracinės išlaidos) iš LRT lėšų.]
+administracinės išlaidos) iš LRT lėšų.
 Straipsnio pakeitimai:
 Nr. VIII-1911, 00.08.31, Žin., 2000,
 Nr.78-2362 (00.09.15), įsigalioja nuo 2000.10.01
@@ -332,14 +288,13 @@ pajamų ir išlaidų sąmatas bei jų vykdymo ataskaitas;
 tvirtina LRT kūrybinių darbuotojų, dirbančių pagal terminuotas darbo sutartis,
 taip pat darbuotojų, priimamų viešo konkurso tvarka, pareigybes; 
 10) tvirtina konkursų LRT laidoms rengti rezultatus;
-11)
-steigia LRT ūkinės ir finansinės veiklos klausimams svarstyti Administracinę
-komisiją;
+11) steigia
+LRT ūkinės ir finansinės veiklos klausimams svarstyti Administracinę komisiją;
 12) tvirtina Administracinės komisijos nuostatus;
 13) skiria Administracinės komisijos narius;
 14)
-nustato konkurso LRT generalinio direktoriaus (toliau - generalinis
-direktorius) pareigoms tvarką;
+nustato konkurso LRT generalinio direktoriaus (toliau - generalinis direktorius)
+pareigoms tvarką;
 15) ne vėliau kaip per 15 dienų po Tarybos pirmininko
 išrinkimo skelbia konkursą generalinio direktoriaus pareigoms;
 16)
@@ -350,12 +305,12 @@ atlyginimą;
 pavaduotojus.
 2. Tarybos narys negali būti generaliniu direktoriumi.
 3. Tarybos nutarimai LRT yra privalomi.
-4. Jei generalinis direktorius nesutinka su Tarybos
-nutarimu, jis gali kreiptis į Tarybą su motyvuotu prašymu persvarstyti
-nutarimą, išskyrus Tarybos nutarimą dėl Tarybos atsistatydinimo. Taryba privalo
-ne vėliau kaip per 10 dienų svarstyti generalinio direktoriaus prašymą.
-Pakartotinai balsavus už tą patį nutarimą daugiau kaip pusei visų Tarybos
-narių, generalinis direktorius nutarimą privalo vykdyti.
+4. Jei generalinis direktorius nesutinka su Tarybos nutarimu,
+jis gali kreiptis į Tarybą su motyvuotu prašymu persvarstyti nutarimą, išskyrus
+Tarybos nutarimą dėl Tarybos atsistatydinimo. Taryba privalo ne vėliau kaip per
+10 dienų svarstyti generalinio direktoriaus prašymą. Pakartotinai balsavus už
+tą patį nutarimą daugiau kaip pusei visų Tarybos narių, generalinis direktorius
+nutarimą privalo vykdyti.
 5.
 Taryba turi teisę siųsti savo atstovus į LRT administracijos bei
 Administracinės komisijos posėdžius, taip pat gauti iš LRT administracijos,
@@ -391,8 +346,8 @@ patvirtintus nuostatus.
 5. Administracinės komisijos nariai išsirenka
 pirmininką, kuris ne rečiau kaip kartą per 2 mėnesius šaukia Administracinės
 komisijos posėdžius. Posėdis teisėtas, jei jame dalyvauja daugiau kaip pusė
-Administracinės komisijos narių. Administracinė komisija išvadas priima
-paprasta Administracinės komisijos narių balsų dauguma. 
+Administracinės komisijos narių. Administracinė komisija išvadas priima paprasta
+Administracinės komisijos narių balsų dauguma. 
 6. Administracinė komisija atlieka šias funkcijas:
 1) teikia išvadas Tarybai dėl LRT veiklos perspektyvinių ir kasmetinių
 planų ekonominio bei finansinio pagrįstumo;
@@ -406,9 +361,8 @@ sandorio suma yra ne mažesnė kaip 100 000 litų;
 projektų finansinio pagrįstumo;
 6) teikia išvadas generaliniam direktoriui dėl lėšų,
 kurios nėra numatytos patvirtintoje LRT sąmatoje, panaudojimo;
-7) teikia išvadas generaliniam direktoriui dėl
-sutarties su LRT darbuotojų profesinėmis sąjungomis projekto ekonominio
-pagrįstumo;
+7) teikia išvadas generaliniam direktoriui dėl sutarties
+su LRT darbuotojų profesinėmis sąjungomis projekto ekonominio pagrįstumo;
 8) konsultuoja Tarybą ir generalinį direktorių finansų klausimais;
 9) gali siūlyti
 Tarybai inicijuoti LRT ar atskirų jos padalinių ūkinės ir finansinės veiklos
@@ -427,8 +381,8 @@ direktorius. Generalinis direktorius atsako už LRT veiklą, LRT parengtas ir
 transliuojamas programas, taip pat už Tarybos nutarimų įgyvendinimą.
 2.
 Generalinį direktorių viešo konkurso būdu 5 metams skiria Taryba daugiau kaip
-pusės visų Tarybos narių balsų dauguma. Negavus tokio balsų skaičiaus, rengiamas
-naujas konkursas.
+pusės visų Tarybos narių balsų dauguma. Negavus tokio balsų skaičiaus,
+rengiamas naujas konkursas.
 3. Jeigu asmuo, patvirtintas generaliniu direktoriumi,
 yra politinės partijos ar politinės organizacijos narys, jis sustabdo savo
 narystę šioje organizacijoje darbo generaliniu direktoriumi laikotarpiui.
@@ -447,8 +401,8 @@ generalinio direktoriaus pareigas iki naujo generalinio direktoriaus paskyrimo.
  
 13 straipsnis. Generalinio direktoriaus
 funkcijos, teisės ir atskaitomybė 
-1.
-Generalinis direktorius:
+1. Generalinis
+direktorius:
 1) vadovauja LRT veiklai, atstovauja LRT šalyje,
 užsienyje ir tarptautinėse organizacijose, taip pat teisme, tvirtina LRT
 struktūrą, darbo apmokėjimo sistemą, sudaro sutartis, skelbia įsakymus ir
@@ -514,7 +468,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą
 įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 BRAZAUSKAS
  
 ___________
@@ -526,9 +480,9 @@ Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. VIII-23,
 96.12.05, Žin., 1996, Nr.121-2849 (96.12.14)
-LIETUVOS
-RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4, 8, 10
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS
+LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4, 8, 10 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 2.
 Lietuvos
@@ -573,8 +527,15 @@ PAKEITIMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja nuo 2000 m. spalio 1 d.
  
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2070, 00.10.17, Žin., 2000,
+Nr.94-2919 (00.11.03)
+LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4 IR 6 STRAIPSNIŲ
+PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2000.09.15)
+Aušrinė Trapinskienė (2000.11.06)
