@@ -117,8 +117,8 @@ asmenybę, taip pat jo elgesį bausmės atlikimo metu bei pažiūrą į darbą.
  
 8 straipsnis. Asmenų,
 atliekančių laisvės atėmimo ir pataisos darbų be laisvės 
-atėmimo
-bausmę, teisinė padėtis
+atėmimo bausmę,
+teisinė padėtis
 Asmenys, atliekantys laisvės
 atėmimo ir pataisos darbų be laisvės atėmimo bausmę, turi teises ir pareigas,
 įstatymų nustatytas Lietuvos Respublikos piliečiams, su apribojimais, įstatymų
@@ -935,7 +935,7 @@ izoliatorių ar karcerį, perkeltiems į kamerų tipo patalpas, skambinti telefo
 draudžiama.
 Nuteistųjų skambinimo telefonu tvarką nustato Pataisos
 darbų įstaigų vidaus tvarkos taisyklės.
-Įstatymas papildytas straipsniu:
+Kodeksas papildytas straipsniu:
 Nr. VIII-624,
 1998-02-03, Žin., 1998, Nr. 16-380 (1998-02-13)
  
@@ -979,8 +979,8 @@ Nr. I-280, 1993-10-19,
  
 471 straipsnis.
 Nuteistųjų, negaunančių siuntinių ar perdavimų, teisė pirkti 
-leidžiamus siųsti siuntiniuose
-bei perdavimuose maisto produktus ir daiktus
+leidžiamus siųsti
+siuntiniuose bei perdavimuose maisto produktus ir daiktus
 Nuteistiesiems, negaunantiems
 siuntinių ir perdavimų, suteikiama teisė pirkti už pinigus, esančius jų
 asmeninėse sąskaitose, maisto produktus ir daiktus, leidžiamus siųsti
@@ -1055,8 +1055,9 @@ apmoka nuteistieji.
  
 50 straipsnis. Nuteistųjų teisė
 kreiptis į valstybės organus, visuomenines 
-organizacijas bei pareigūnus su
-pasiūlymais, pareiškimais ir skundais
+organizacijas
+bei pareigūnus su pasiūlymais, pareiškimais ir 
+skundais
 Nuteistieji turi teisę kreiptis
 su pasiūlymais, pareiškimais ir skundais į valstybės organus, visuomenines
 organizacijas ir pareigūnus. Prie nuteistųjų pasiūlymų, pareiškimų ir skundų,
@@ -1949,8 +1950,9 @@ išskaitomos išlaidos maitinimui ir kitiems poreikiams tenkinti.
  
 831 straipsnis.
 Pataisos darbų įstaigos viršininko teisės nuteistųjų neteisėtų 
-grupinių veiksmų, šiurkščiai
-pažeidžiančių įstaigos vidaus tvarką, atveju
+grupinių
+veiksmų, šiurkščiai pažeidžiančių įstaigos vidaus tvarką, 
+atveju
 Nuteistųjų neteisėtų grupinių
 veiksmų, šiurkščiai pažeidžiančių pataisos darbų įstaigos vidaus tvarką, atveju
 įstaigos viršininkas turi teisę laikinai, pranešęs prokurorui, sustabdyti:
@@ -2082,8 +2084,7 @@ Pataisos reikalų departamento prie Vidaus reikalų ministerijos direktoriaus
 įsakymu masinių riaušių ar masinio pasipriešinimo pataisos darbų įstaigos
 administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimas ar
 kitokie tyčiniai veiksmai, kurie šiurkščiai pažeidžia pataisos darbų įstaigos
-vidaus tvarką, jeigu kitomis priemonėmis nutraukti minėtų veiksmų nėra
-galimybių.
+vidaus tvarką, jeigu kitomis priemonėmis nutraukti minėtų veiksmų nėra galimybių.
 Šaunamuosius ginklus draudžiama
 naudoti tais atvejais, kai gali nukentėti pašaliniai asmenys arba netoliese yra
 lengvai užsidegančių ar sprogstančiųjų medžiagų saugyklos.
@@ -2126,8 +2127,8 @@ Straipsnio pakeitimai:
 Nr. I-551, 1994-07-19,
 Žin., Nr. 60-1182 (1994-08-05)
  
-847 straipsnis.
-Lygtinis nuteistųjų paleidimas iš laisvės atėmimo vietų
+847 straipsnis. Lygtinis
+nuteistųjų paleidimas iš laisvės atėmimo vietų
 Asmenys, lygtinai paleisti iš
 laisvės atėmimo vietų, į savo gyvenamąją vietą vyksta valstybės lėšomis
 savarankiškai. Šiais atvejais teismas, kuris priėmė nutartį lygtinai paleisti
@@ -2165,17 +2166,18 @@ registravimasis vidaus reikalų organe nuo vieno iki keturių kartų per mėnes�
 Per pirmuosius tris mėnesius po paleidimo registravimosi kartų skaičių nustato
 teismas, o vėliau - vidaus reikalų organo viršininkas, atsižvelgdamas į
 paleisto asmens elgesį.
-Asmenims, esant jų sutikimui,
-gali būti nustatyta pareiga įmokėti į teismo sąskaitą piniginį užstatą nuo
-penkių tūkstančių iki penkiolikos tūkstančių rublių. Šiuo atveju asmuo iš
-laisvės atėmimo vietos lygtinai paleidžiamas tuoj pat po užstato įmokėjimo į
-teismo sąskaitą.
+Asmenims, esant jų sutikimui, gali būti nustatyta
+pareiga įmokėti į teismo sąskaitą piniginį užstatą nuo 10 iki 100 MGL dydžio.
+Šiuo atveju asmuo iš laisvės atėmimo vietos lygtinai paleidžiamas tuoj pat po
+užstato įmokėjimo į teismo sąskaitą.
 Jei lygtinai paleistasis
-siunčiamas toliau atlikti bausmę į laisvės atėmimo vietą, tai piniginis užstatas
-tampa valstybės nuosavybe.
+siunčiamas toliau atlikti bausmę į laisvės atėmimo vietą, tai piniginis
+užstatas tampa valstybės nuosavybe.
 Straipsnio pakeitimai:
 Nr. I-2061, 1991-12-03,
 Žin., Nr. 36-975 (1991-12-31)
+Nr. VIII-997,
+1998-12-22, Žin., 1999, Nr. 1-4 (1999-01-06)
  
 849 straipsnis.
 Lygtinai paleistų iš laisvės atėmimo vietų asmenų atsakomybė už 
@@ -2228,9 +2230,9 @@ organas gali:
 1) paskelbti padėką;
 2) prieš terminą panaikinti
 pirmiau paskirtą nuobaudą;
-3) prašyti teismą panaikinti
-vieną arba kelias pareigas, numatytas Lietuvos Respublikos baudžiamojo kodekso
-542 straipsnio šeštojoje dalyje.
+3) prašyti teismą panaikinti vieną
+arba kelias pareigas, numatytas Lietuvos Respublikos baudžiamojo kodekso 542
+straipsnio šeštojoje dalyje.
 Lygtinai paleistieji, kurie
 pavyzdingu elgesiu, sąžiningu darbu įrodė, kad pasitaisė, įstatymo nustatyta
 tvarka gali būti teikiami lygtinai atleisti nuo bausmės prieš terminą arba
@@ -2258,6 +2260,21 @@ Straipsnio pakeitimai:
 Nr. I-2061, 1991-12-03,
 Žin., Nr. 36-975 (1991-12-31)
  
+84(12) straipsnis. Pareigos atlyginti
+likusią materialinės žalos dalį vykdymo 
+kontrolė
+Jei lygtinai paleistas asmuo nėra visiškai atlyginęs
+nusikaltimu padarytos materialinės žalos, laisvės atėmimo vietos administracija
+teismo nutartį ir vykdomuosius dokumentus persiunčia teismo antstolių kontorai
+teisingumo ministro nustatyta tvarka.
+Jei lygtinai paleistas asmuo per neatliktosios bausmės
+dalies laiką neatlygina likusios nusikaltimu padarytos materialinės žalos, tai
+teismo antstolio teikimu teismas nutartimi pasiunčia asmenį atlikti likusią
+laisvės atėmimo bausmės dalį.
+Kodeksas papildytas straipsniu:
+Nr. VIII-997,
+1998-12-22, Žin., 1999, Nr. 1-4 (1999-01-06)
+ 
 KETVIRTASIS SKYRIUS
 Skyriaus pavadinimas
 keistas:
@@ -2270,15 +2287,15 @@ TVARKA IR SĄLYGOS
  
 Šešioliktasis skirsnis
  
-85-93 straipsniai. Neteko galios.
+85-93 straipsniai. Neteko
+galios.
 Straipsnio pakeitimai:
 Nr. I-551, 1994-07-19,
 Žin., Nr. 60-1182 (1994-08-05)
  
 Septynioliktasis skirsnis
  
-94-97 straipsniai. Neteko
-galios.
+94-97 straipsniai. Neteko galios.
 Straipsnio pakeitimai:
 Nr. I-551, 1994-07-19,
 Žin., Nr. 60-1182 (1994-08-05)
@@ -2337,9 +2354,9 @@ laikotarpių minimumą.
 Jeigu pataisos darbų atlikimo
 laikotarpiu nuteistajam už naują teisės pažeidimą buvo paskirta administracinė
 nuobauda - areštas arba nuteistasis buvo suimtas kardomosios priemonės tvarka,
-tai arešto arba kardomojo kalinimo laikas į bausmės atlikimo laiką neįskaitomas,
-išskyrus tuos atvejus, kai nuteistasis paskiau buvo teismo išteisintas arba
-administracinė nuobauda buvo pripažinta nepagrįsta.
+tai arešto arba kardomojo kalinimo laikas į bausmės atlikimo laiką
+neįskaitomas, išskyrus tuos atvejus, kai nuteistasis paskiau buvo teismo
+išteisintas arba administracinė nuobauda buvo pripažinta nepagrįsta.
  
 100 straipsnis. Pataisos darbų
 be laisvės atėmimo bausmės vykdymo 
@@ -2405,8 +2422,8 @@ Straipsnio pakeitimai:
 Nr. I-551, 1994-07-19,
 Žin., Nr. 60-1182 (1994-08-05)
  
-102 straipsnis. Tvarka, kuria
-daromos išskaitos iš nuteistųjų pataisos darbais be 
+102 straipsnis. Tvarka, kuria daromos
+išskaitos iš nuteistųjų pataisos darbais be 
 laisvės atėmimo
 uždarbio
 Išskaitos daromos iš visos
@@ -2482,9 +2499,9 @@ Nuteistasis gali paskirtą
 nuobaudą apskųsti aukštesniam viršininkui.
 Jeigu nuteistieji pataisos
 darbais be laisvės atėmimo piktybiškai vengia atlikti bausmę, organas,
-vykdantis šios rūšies bausmę, gali kreiptis į teismą, teikdamas neatliktąjį
-pataisos darbų be laisvės atėmimo laiką pakeisti laisvės atėmimo bausme tam
-pačiam laikui.
+vykdantis šios rūšies bausmę, gali kreiptis į teismą, teikdamas neatliktąjį pataisos
+darbų be laisvės atėmimo laiką pakeisti laisvės atėmimo bausme tam pačiam
+laikui.
 Straipsnio pakeitimai:
 Nr. I-551, 1994-07-19,
 Žin., Nr. 60-1182 (1994-08-05)
@@ -2516,26 +2533,26 @@ prieš terminą;
 teismo nutartimi atleisti nuo
 tolesnio bausmės atlikimo dėl nuteistojo susirgimo chroniška psichine ar
 kitokia sunkia liga, kuri kliudo toliau atlikti bausmę;
-kitais įstatymų numatytais
-pagrindais.
+kitais įstatymų numatytais pagrindais.
  
 106 straipsnis. Teikimas
 lygtinai atleisti nuo bausmės prieš terminą ar pakeisti 
 bausmę
 švelnesne ir lygtinai paleisti iš laisvės atėmimo vietų
-Dėl nuteistojo, kuriam pagal
-Lietuvos Respublikos baudžiamojo kodekso 54, 541, 542 ir
+Dėl nuteistojo, kuriam pagal Lietuvos Respublikos
+baudžiamojo kodekso 54, 54(1), 54(2), 54(3) ir
 55 straipsnius gali būti pritaikytas lygtinis atleidimas nuo bausmės prieš
-terminą arba neatliktosios bausmės dalies pakeitimas švelnesne bausme arba
+terminą arba neatliktosios bausmės dalies pakeitimas švelnesne bausme, arba
 lygtinis paleidimas iš laisvės atėmimo vietos, organas, kurio žinioje yra
 bausmės vykdymas, kartu su Baudžiamojo kodekso straipsniuose minėtais organais
 kreipiasi į teismą su teikimu lygtinai atleisti nuteistąjį nuo bausmės prieš
 terminą arba pakeisti jam neatliktąją bausmės dalį švelnesne bausme, arba
 lygtinai paleisti nuteistąjį iš laisvės atėmimo vietos.
-Teikime turi būti duomenys,
-apibūdinantys nuteistojo elgesį, jo pažiūrą į darbą ir mokymąsi per visą
-bausmės atlikimo laiką. Kartu su teikimu teismui pasiunčiama nuteistojo asmens
-byla.
+Teikime turi būti duomenys, apibūdinantys nuteistojo
+elgesį, jo požiūrį į darbą ir mokymąsi per visą bausmės atlikimo laiką. Kartu
+su teikimu teismui pasiunčiama nuteistojo asmens byla, o įstatymo numatytais
+atvejais - pažyma, patvirtinanti ne mažiau kaip pusės nusikaltimu padarytos
+materialinės žalos atlyginimo faktą.
 Lygtinai paleistasis iš laisvės
 atėmimo vietos išleidžiamas tik esant nuteistojo įsipareigojimui pavyzdingu
 elgesiu ir sąžiningu darbu įrodyti, kad jis pasitaisys. Tokį raštišką
@@ -2550,13 +2567,15 @@ atsisakymo lygtinai paleisti priėmimo dienos.
 Asmenys, lygtinai paleisti iš
 laisvės atėmimo vietų, nukreipti nuosprendį atlikti pagal paskirtą laisvės
 atėmimo bausmę, įstatymo numatytais atvejais gali būti pristatyti lygtiniam
-paleidimui iš laisvės atėmimo vietų ne ankščiau kaip praėjus vieneriems metams
-po nutarties dėl pasiuntimo į laisvės atėmimo vietas priėmimo dienos.
+paleidimui iš laisvės atėmimo vietų ne ankščiau kaip praėjus vieneriems metams po
+nutarties dėl pasiuntimo į laisvės atėmimo vietas priėmimo dienos.
 Straipsnio pakeitimai:
 Nr. I-2061, 1991-12-03,
 Žin., Nr. 36-975 (1991-12-31)
 Nr. I-551, 1994-07-19,
 Žin., Nr. 60-1182 (1994-08-05)
+Nr. VIII-997,
+1998-12-22, Žin., 1999, Nr. 1-4 (1999-01-06)
  
 1061 straipsnis.
 Neteko galios.
@@ -2586,14 +2605,14 @@ pusėje, o paleidžiant kitais pagrindais - tą dieną, kurią pataisos darbų
 nenustatyta kitaip. Jeigu dokumentai gaunami pasibaigus darbo dienai,
 paleidžiama kitos dienos rytą.
 Skaičiuojant bausmės laiką
-mėnesiais, bausmės laikas pasibaigia atitinkamą paskutinio mėnesio dieną, o jeigu
-tas mėnuo atitinkamos dienos neturi - paskutinę to mėnesio dieną.
+mėnesiais, bausmės laikas pasibaigia atitinkamą paskutinio mėnesio dieną, o
+jeigu tas mėnuo atitinkamos dienos neturi - paskutinę to mėnesio dieną.
 Jeigu laisvės atėmimo bausmės
 laikas pasibaigia poilsio arba šventės dieną, nuteistasis paleidžiamas tą
 dieną, kuri eina prieš poilsio arba šventės dieną.
-Paleidžiamiesiems paleidimo dieną
-išduodami asmens dokumentai ir daiktai, asmeninėje sąskaitoje laikomi pinigai,
-taip pat atitinkami dokumentai apie bausmės atlikimą.
+Paleidžiamiesiems paleidimo
+dieną išduodami asmens dokumentai ir daiktai, asmeninėje sąskaitoje laikomi
+pinigai, taip pat atitinkami dokumentai apie bausmės atlikimą.
 Paleidžiamajam prašant, jam
 duodama charakteristika.
 Per tris mėnesius prieš bausmės
@@ -2649,8 +2668,8 @@ BAUSMĖS ATLIKIMO ASMENIMS
  
 110 straipsnis. Materialinės
 pagalbos suteikimas asmenims, paleidžiamiems iš 
-laisvės 
-atėmimo vietų
+laisvės atėmimo
+vietų
 Asmenys, paleidžiami iš laisvės
 atėmimo vietų, nemokamai nuvežami į jų gyvenamąją ar darbo vietą, taip pat
 aprūpinami maisto produktais arba pinigais kelionei pagal nustatytas normas.
@@ -2805,6 +2824,16 @@ VIII-624,
 PATAISOS
 DARBŲ KODEKSO 23, 24, 25, 32, 34, 45, 69 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 45(3) STRAIPSNIU ĮSTATYMAS
+ 
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-997,
+1998-12-22, Žin., 1999, Nr. 1-4 (1999-01-06)
+PATAISOS
+DARBŲ KODEKSO PAPILDYMAS 84(12) STRAIPSNIU IR 84(8), 106 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
  
 ***
 Pabaiga ***
