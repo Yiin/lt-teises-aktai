@@ -61,12 +61,16 @@ nario darbo laikas yra nenormuotas.
 Seimo nariui įvykdžius Lietuvos Respublikos Seimo statuto 2 straipsnio
 reikalavimus, jo socialinio draudimo pažymėjime įrašoma: “Lietuvos Respublikos
 Seimo narys”.
-            2.
-Seimo nariai valstybės draudžiami valstybiniu socialiniu draudimu.
+            2. Seimo nariai
+draudžiami valstybiniu socialiniu draudimu Valstybinio socialinio draudimo
+įstatyme nustatyta tvarka.
             3.
 Seimo nario sveikata ir gyvybė draudžiama valstybės lėšomis. Draudimo sąlygas
 ir tvarką nustato įstatymas.
-            
+Straipsnio pakeitimai:
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
+ 
 ANTRASIS SKIRSNIS
 SEIMO NARIŲ DARBO SĄLYGOS
             
@@ -141,12 +145,12 @@ nedalyvauja posėdyje, laikoma, kad posėdis praleistas be svarbios priežasties
             9
 straipsnis. Nedalyvavimo priežastys 
             Nedalyvavimo
-Seimo posėdyje iš anksto numatytų balsavimų metu, taip pat nedalyvavimo
-komiteto, komisijos ar pakomitečio posėdyje svarbiomis priežastimis laikoma:
-Seimo nario laikinasis nedarbingumas, išvyka Seimo valdybai komandiravus ar
-pritarus, nelaimingi atsitikimai ar kitos aplinkybės, apie kurių pateisinamumą
-sprendžia Seimo Etikos ir procedūrų komisija (toliau - Etikos ir procedūrų
-komisija), atitinkamų komitetų, komisijų bei pakomitečių pirmininkai.
+Seimo posėdyje iš anksto numatytų balsavimų metu, taip pat nedalyvavimo komiteto,
+komisijos ar pakomitečio posėdyje svarbiomis priežastimis laikoma: Seimo nario
+laikinasis nedarbingumas, išvyka Seimo valdybai komandiravus ar pritarus,
+nelaimingi atsitikimai ar kitos aplinkybės, apie kurių pateisinamumą sprendžia
+Seimo Etikos ir procedūrų komisija (toliau - Etikos ir procedūrų komisija),
+atitinkamų komitetų, komisijų bei pakomitečių pirmininkai.
             
             10
 straipsnis. Informacija apie dalyvavimą posėdžiuose 
@@ -184,13 +188,13 @@ straipsnis. Atlyginimo dydis ir jo sumažinimas
 1. Seimo nariui kas mėnesį mokamas atlyginimas, kurio
 dydį nustato Lietuvos Respublikos įstatymai.
 2. Seimo nariui, per mėnesį be svarbios priežasties
-nedalyvavusiam daugiau kaip ketvirtadalyje Seimo posėdžių iš anksto numatytų
-balsavimų metu, kai buvo priimami teisės aktai, arba daugiau kaip
-ketvirtadalyje Seimo komiteto, komisijos ar pakomitečio, kurių darbe turi
-dalyvauti, posėdžių, to mėnesio atlyginimas sumažinamas vienu trečdaliu.
-Remiantis Seimo Etikos ir procedūrų komisijos išvadomis, atlyginimas
-sumažinamas Seimo valdybos sprendimu. Suma, kuria sumažinamas Seimo nario
-atlyginimas, išskaitoma iš kito, artimiausio mėnesio atlyginimo. 
+nedalyvavusiam daugiau kaip ketvirtadalyje Seimo posėdžių iš anksto numatytų balsavimų
+metu, kai buvo priimami teisės aktai, arba daugiau kaip ketvirtadalyje Seimo
+komiteto, komisijos ar pakomitečio, kurių darbe turi dalyvauti, posėdžių, to
+mėnesio atlyginimas sumažinamas vienu trečdaliu. Remiantis Seimo Etikos ir
+procedūrų komisijos išvadomis, atlyginimas sumažinamas Seimo valdybos
+sprendimu. Suma, kuria sumažinamas Seimo nario atlyginimas, išskaitoma iš kito,
+artimiausio mėnesio atlyginimo. 
 3. Jeigu Seimo nariui įstatymų nustatyta tvarka
 paskirtas kardomasis kalinimas (suėmimas), atlyginimas jam nemokamas už visą
 suėmimo laiką. Kai Seimo nariui iškelta baudžiamoji byla nutraukiama dėl
@@ -208,8 +212,8 @@ Straipsnio
 pakeitimai: 
 Nr. VIII-685, 1998 03 26, Žin., 1998,
 Nr. 34-900 (1998 04 10) 
-Nr. VIII-1976, 2000
-10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+Nr. VIII-1976,
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
  
  
             14
@@ -394,15 +398,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą
 įstatymą. 
  
 RESPUBLIKOS
-PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                     ALGIRDAS BRAZAUSKAS
  
 __________
  
 Pakeitimai:
 
 1.
-Lietuvos Respublikos Seimas,
-Įstatymas 
+Lietuvos Respublikos Seimas, Įstatymas
+
 Nr. VIII-685,
 1998 03 26, Žin., 1998, Nr. 34-900 (1998 04 10) 
 LIETUVOS RESPUBLIKOS SEIMO NARIŲ
@@ -435,12 +439,10 @@ dienos, kurią 2000 m. spalio 8 d. naujai išrinktas Seimas susirenka į pirmą
 posėdį, tai yra nuo 2000 m. spalio 19 d.
  
 5.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-121, 2000 12 21, Žin., 2000, Nr.
 111-3580 (2000 12 29)
-SEIMO NARIŲ DARBO SĄLYGŲ
-ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001
 m. sausio 1 d.
  
@@ -459,6 +461,16 @@ SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 7, 16, 17 IR 20 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
 Šis įstatymas, išskyrus 3 straipsnį, įsigalioja nuo 2002
 m. sausio 1 d.
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+64-2328 (2001-07-25)
+VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO, KONSTITUCINIO TEISMO
+ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO,
+PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE STATUTO,
+MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 *** Pabaiga ***
  
