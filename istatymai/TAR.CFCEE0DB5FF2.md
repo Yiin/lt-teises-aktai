@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CFCEE0DB5FF2"
 
 # Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas
 
+Suvestinė redakcija nuo 1997-07-09 iki 2000-10-31
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 92-2143, i. k. 0961010ISTA00I-1516
+ 
 LIETUVOS RESPUBLIKOS
 KLAIPĖDOS LAISVOSIOS EKONOMINĖS ZONOS
 ĮSTATYMAS
@@ -106,7 +110,10 @@ Zonoje plėtojama prekybos, gamybos, eksporto ir importo, verslo veikla. Zonos v
 6 straipsnis. Konkurso sąlygos geriausiam zonos verslo planui ir zonos statutui parengti bei steigėjų grupei parinkti ir kriterijai nugalėtojams nustatyti
 
 
-1. Tarptautinį konkursą organizuoja Klaipėdos miesto savivaldybė, o konkurso komisiją ir nuostatus tvirtina Vyriausybė. Į komisiją turi būti įtraukta ne mažiau kaip po vieną Klaipėdos miesto tarybos ir Klaipėdos apskrities valdytojo skiriamą narį.
+1. Tarptautinį konkursą organizuoja Klaipėdos miesto savivaldybė, o konkurso komisiją ir nuostatus tvirtina Vyriausybė. Į komisiją turi būti įtraukta ne mažiau kaip po vieną Klaipėdos miesto tarybos ir Klaipėdos apskrities viršininko skiriamą narį. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010ISTAVIII-330
+ 
 
 
 
@@ -423,3 +430,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010ISTAVIII-330
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 6 straipsnio pakeitimo įstatymas
