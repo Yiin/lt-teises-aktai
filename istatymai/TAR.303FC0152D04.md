@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 
 # Lietuvos Respublikos reklamos įstatymas
 
+Suvestinė redakcija nuo 2002-12-24 iki 2006-10-05
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
+ 
 LIETUVOS RESPUBLIKOS
 REKLAMOS
 Į S T A T Y M A S
@@ -40,7 +44,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Jeigu kiti Lietuvos Respublikos įstatymai nustato papildomų ar kitų reklamos naudojimo reikalavimų arba draudimų, taikomos tų įstatymų nuostatos. Jeigu Lietuvos Respublikos tarptautinės sutartys nustato kitokių reklamos naudojimo reikalavimų, taikomos tų sutarčių nuostatos.
+3. Jeigu kiti Lietuvos Respublikos įstatymai nustato papildomų ar kitų reklamos naudojimo reikalavimų arba nustato kitą reklamos naudojimo kontrolės tvarką ar reklaminės veiklos subjektų atsakomybę, taikomos tų įstatymų nuostatos. Jeigu Lietuvos Respublikos tarptautinės sutartys nustato kitokių reklamos naudojimo reikalavimų, taikomos tų sutarčių nuostatos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
@@ -51,6 +58,13 @@ BENDROSIOS NUOSTATOS
 
 
 5. Šis įstatymas nereglamentuoja politinės ir socialinės reklamos bei skelbimų, nesusijusių su komercine-ūkine, finansine ar profesine veikla.
+
+
+
+
+6. Šio įstatymo nuostatos yra suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
+Papildyta straipsnio dalimi:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
  
 
 
@@ -61,7 +75,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-1. Asmuo – juridinis ar fizinis asmuo, taip pat juridinio asmens teisių neturinti įmonė. 
+1. Asmuo – juridinis ar fizinis asmuo. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
@@ -136,7 +153,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-16. Žymuo – ženklas, kurio paskirtis yra atskirti vienam asmeniui priklausančias prekes nuo kitam asmeniui priklausančių prekių arba vieno asmens teikiamas paslaugas nuo kito asmens teikiamų paslaugų.
+16. Prekių ženklas – bet koks žymuo, kurio paskirtis – atskirti vieno asmens prekes arba paslaugas nuo kito asmens prekių ar paslaugų ir kurį galima pavaizduoti grafiškai. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
  
 
 
@@ -264,7 +283,10 @@ Reklama turi būti:
 3. Kai sprendžiama, ar reklama yra klaidinanti, ypač reikia atsižvelgti į joje esančią informaciją apie:
 
 
-1) reklamos davėją ar kitą asmenį, veiklą, buveinę, firmos vardą, prekės ar paslaugos ženklą, autorių teises ir gretutines teises, patentus, licencijas;
+1) reklamos davėją ar kitą asmenį, jų veiklą, buveinę, firmos vardą, teisinę formą, prekės ar paslaugos ženklą, turtą, autorių teises ir gretutines teises, patentus, licencijas; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
@@ -292,47 +314,50 @@ Reklama turi būti:
 6 straipsnis. Lyginamoji reklama 
 
 
-1. Lyginamoji reklama leidžiama, jei: 
+1. Lyginamoji reklama leidžiama, kai laikomasi šių reikalavimų:
 
 
-1) ji nėra klaidinanti; 
-
-
-
-
-2) joje lyginamos prekės ar paslaugos, kurios tenkina tuos pačius poreikius ar skirtos tiems patiems tikslams;
+1) reklama nėra klaidinanti pagal šio įstatymo 2 straipsnio 4 dalį ir 5 straipsnį;
 
 
 
 
-3) joje objektyviai lyginamos viena ar daugiau esminių, tikrinamų ir būdingų prekių ar paslaugų savybių, taip pat gali būti lyginama ir kaina;
+2) reklamoje yra lyginamos prekės ar paslaugos, tenkinančios tuos pačius poreikius ar skirtos tiems patiems tikslams;
 
 
 
 
-4) neklaidina vartotojo dėl reklamos davėjo ir jo konkurento, taip pat reklamos davėjo ir jo konkurento prekių ar paslaugų, jų prekių ar paslaugų ženklų, firmų vardų, kitų žymenų tapatumo;
+3) reklamoje yra objektyviai lyginamos viena ar daugiau šių prekių ir paslaugų reikšmingų, svarbių, galimų patikrinti ir būdingų savybių, taip pat gali būti lyginama ir kaina;
 
 
 
 
-5) nediskredituoja ir nemenkina konkurento prekių, paslaugų, jo prekių ar paslaugų ženklų, firmos vardo, kitų žymenų, veiklos, jo teisinės, finansinės ar kitokios padėties;
+4) reklama nesukelia painiavos rinkoje nustatant reklamos davėją ir konkurentą arba reklamos davėjo ir konkurento prekių ar paslaugų ženklus, firmų vardus, kitus skiriamuosius žymenis, prekes ar paslaugas;
 
 
 
 
-6) prekės, turinčios kilmės žymenį, lyginamos tik su prekėmis, turinčiomis tą patį kilmės žymenį;
+5) reklama nediskredituoja ir nemenkina konkurento prekių ar paslaugų ženklų, firmos vardo, kitų skiriamųjų žymenų, jo prekių, paslaugų, veiklos, finansinės ar kitokios padėties;
 
 
 
 
-7) nesiekiama nesąžiningai pasinaudoti konkurento prekės ženklu, firmos vardu, prekės kilmės ar kitų žymenų reputacija;
+6) prekės, turinčios kilmės nuorodą, lyginamos su prekėmis, ant kurių yra tokia pat kilmės nuoroda;
 
 
 
 
-8) nepateikia prekių ar paslaugų, kurios turi prekės ar paslaugos ženklo ar prekės pavadinimo apsaugą, imitacijų ar kopijų.
+7) nesąžiningai nesinaudojama konkurento prekių ženklo, firmos vardo ar kitų skiriamųjų žymenų reputacija arba konkuruojančios prekės nuoroda į kilmę;
 
 
+
+
+8) reklamoje prekės ar paslaugos nepateikiamos kaip prekių ar paslaugų, pažymėtų turinčiu apsaugą prekių ženklu ar firmos vardu, imitacijos ar kopijos. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
@@ -598,7 +623,10 @@ REKLAMOS KONTROLĖ
 
 
 
-5) įspėti reklaminės veiklos subjektus, kad, per Nacionalinės vartotojų teisių apsaugos tarybos nustatytą laiką nenutraukus šio įstatymo nustatytų reikalavimų neatitinkančios reklamos naudojimo, bus skiriamos 22 straipsnyje nustatytos baudos;
+5) skirti reklaminės veiklos subjektams administracinę nuobaudą – įspėjimą, kad, per Nacionalinės vartotojų teisių apsaugos tarybos nustatytą laiką nenutraukus šio įstatymo nustatytų reikalavimų neatitinkančios reklamos naudojimo, bus skiriamos 22 straipsnyje nustatytos baudos. 
+Straipsnio punkto pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
@@ -629,35 +657,37 @@ REKLAMOS KONTROLĖ
 2. Konkurencijos taryba, be Konkurencijos įstatymo nustatytų teisių, taip pat turi teisę:
 
 
-1) priimti sprendimą dėl reklamos pripažinimo klaidinančia;
+1) priimti sprendimą dėl reklamos pripažinimo klaidinančia ar neleidžiama lyginamąja;
 
 
 
 
-2) gavusi Aukštesniojo administracinio teismo teisėjo sankciją, Konkurencijos įstatymo nustatyta tvarka laikinai, kol bus priimtas galutinis Konkurencijos tarybos sprendimas, uždrausti skleisti reklamą, jeigu yra pakankamai duomenų, kad paskleista ar numatoma paskleisti reklama gali būti pripažinta klaidinančia ir padarytų kitiems ūkio subjektams ar visuomenės interesams esminės žalos ar susidarytų nepataisomos pasekmės;
+2) gavusi Vilniaus apygardos administracinio teismo nutartį, Konkurencijos įstatymo nustatyta tvarka laikinai, kol bus priimtas galutinis Konkurencijos tarybos sprendimas, uždrausti skleisti reklamą, jeigu yra pakankamai duomenų, kad paskleista ar numatoma paskleisti reklama gali būti pripažinta klaidinančia ar neleidžiama lyginamąja ir padarytų kitiems asmenims ar visuomenės interesams esminės žalos ar susidarytų nepataisomos pasekmės;
 
 
 
 
-3) įpareigoti reklaminės veiklos subjektus nutraukti klaidinančios reklamos naudojimą;
+3) įpareigoti reklaminės veiklos subjektus nutraukti klaidinančios ar neleidžiamos lyginamosios reklamos naudojimą, nustatant šio įpareigojimo įvykdymo terminus ir sąlygas;
 
 
 
 
-4) įspėti reklaminės veiklos subjektus, kad, per Konkurencijos tarybos nustatytą laiką nenutraukus klaidinančios reklamos naudojimo, bus skiriamos 22 straipsnyje nustatytos baudos;
+4) skirti reklaminės veiklos subjektams administracinę nuobaudą – įspėjimą, kad, per Konkurencijos tarybos nustatytą laiką nenutraukus klaidinančios ar neleidžiamos lyginamosios reklamos naudojimo, bus skiriamos 22 straipsnyje nustatytos baudos;
 
 
 
 
-5) įpareigoti reklaminės veiklos subjektus, kurių reklama pripažinta klaidinančia, ją paneigti;
+5) įpareigoti reklaminės veiklos subjektus, kurių reklama pripažinta klaidinančia ar neleidžiama lyginamąja, ją paneigti;
 
 
 
 
-6) taikyti sankcijas šio bei Konkurencijos įstatymų nustatytais atvejais.
+6) šio bei Konkurencijos įstatymo nustatytais atvejais skirti baudas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
  
-
-
 
 
 
@@ -687,31 +717,42 @@ ATSAKOMYBĖS UŽ REKLAMOS ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA
 
 
 
-21 straipsnis. Atsakomybės už klaidinančios reklamos naudojimą ypatumai
+21 straipsnis. Atsakomybės už klaidinančios ir neleidžiamos lyginamosios  reklamos naudojimą ypatumai
 
 
-1. Reklamos davėjas atsako už klaidinančios reklamos naudojimą, jeigu jis neįrodo, kad šis įstatymas buvo pažeistas ne dėl jo kaltės.
+1. Reklamos davėjas atsako už klaidinančios ir neleidžiamos lyginamosios reklamos naudojimą, jeigu jis neįrodo, kad šis įstatymas buvo pažeistas ne dėl jo kaltės.
 
 
 
 
-2. Reklamos gamintojas, tarpininkas ar skleidėjas atsako už klaidinančios reklamos naudojimą tik tuo atveju, jei žinojo ar turėjo žinoti, kad naudojama klaidinanti reklama arba klaidinimas įvyko dėl jo veiksmų gaminant ar skelbiant reklamą, arba reklamos gamintojas, tarpininkas ar skleidėjas negali pateikti įrodymų, leidžiančių nustatyti reklamos davėją (gamintoją).
+2. Reklamos gamintojas, tarpininkas ar skleidėjas atsako už klaidinančios ir neleidžiamos lyginamosios reklamos naudojimą tik tuo atveju, jei žinojo ar turėjo žinoti, kad naudojama klaidinanti ar neleidžiama lyginamoji reklama arba klaidinimas ar neleistinas lyginimas įvyko dėl jo veiksmų gaminant ar skelbiant reklamą, arba reklamos gamintojas, tarpininkas ar skleidėjas negali pateikti įrodymų, leidžiančių nustatyti reklamos davėją (gamintoją).
+
+
+Straipsnio pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
  
 
 
 
 
+22 straipsnis. Baudos ir kitos administracinės nuobaudos 
+Pakeistas straipsnio pavadinimas:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
-22 straipsnis. Baudos 
+1. Už klaidinančios ar neleidžiamos lyginamosios reklamos naudojimą reklaminės veiklos subjektams gali būti skiriama bauda nuo vieno tūkstančio iki trisdešimties tūkstančių litų, o tais atvejais, kai šioje dalyje išvardyti pažeidimai buvo padaryti sunkinančiomis aplinkybėmis, ūkio subjektams gali būti skiriama ir didesnė bauda, tačiau neviršijanti 3 procentų bendrųjų metinių pajamų. Tais atvejais, kai pažeidimas yra mažareikšmis, pažeidimu nepadaroma esminės žalos šio įstatymo saugomiems asmenų interesams, Konkurencijos taryba, vadovaudamasi teisingumo ir protingumo kriterijais, už klaidinančios ar neleidžiamos lyginamosios reklamos naudojimą gali taikyti administracinę nuobaudą – įspėjimą, neskirdama reklaminės veiklos subjektams baudos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
-1. Už klaidinančios reklamos naudojimą reklaminės veiklos subjektams skiriama bauda nuo penkių tūkstančių iki dvidešimt tūkstančių litų.
 
 
-
-
-2. Už Konkurencijos tarybos laikino draudimo skleisti reklamą nevykdymą arba įpareigojimo paneigti klaidinančią reklamą nevykdymą ar netinkamą jo vykdymą reklaminės veiklos subjektams skiriama bauda nuo vieno tūkstančio iki dvidešimties tūkstančių litų.
+2. Už Konkurencijos tarybos laikino draudimo skleisti reklamą nevykdymą arba įpareigojimo paneigti klaidinančią ar neleidžiamą lyginamąją reklamą nevykdymą ar netinkamą jo vykdymą reklaminės veiklos subjektams skiriama bauda nuo vieno tūkstančio iki dvidešimties tūkstančių litų. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
@@ -726,7 +767,10 @@ ATSAKOMYBĖS UŽ REKLAMOS ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA
 
 
 
-5. Už šio įstatymo 6 straipsnyje nustatytų reklamos naudojimo reikalavimų nesilaikymą reklaminės veiklos subjektams skiriama bauda nuo vieno tūkstančio iki penkiolikos tūkstančių litų.
+5. Neteko galios nuo 2002-12-24
+Straipsnio dalies naikinimas:
+Nr. IX-1212, 2002-12-03, Žin. 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
@@ -736,7 +780,10 @@ ATSAKOMYBĖS UŽ REKLAMOS ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA
 
 
 
-7. Konkurencijos taryba, nustačiusi, kad naudojama klaidinanti reklama, šio įstatymo 9 straipsnyje uždrausta reklama ar nesilaikoma šio straipsnio 5 ir 6 dalyse nurodytuose straipsniuose nustatytų reikalavimų, įpareigoja reklaminės veiklos subjektus nutraukti tokios reklamos naudojimą.
+7. Neteko galios nuo 2002-12-24
+Straipsnio dalies naikinimas:
+Nr. IX-1212, 2002-12-03, Žin. 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
@@ -746,22 +793,34 @@ ATSAKOMYBĖS UŽ REKLAMOS ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA
 
 
 
-9. Bauda už klaidinančios reklamos naudojimą, taip pat bauda už šio straipsnio 5 ir 6 dalyse nurodytuose straipsniuose nustatytų reklamos naudojimo reikalavimų nesilaikymą skiriama tik tuo atveju, jei reklaminės veiklos subjektai po įspėjimo nesilaiko įpareigojimo jį nutraukti. 
+9. Bauda už šio straipsnio 6 dalyje nurodytuose straipsniuose nustatytų reklamos naudojimo reikalavimų nesilaikymą skiriama tik tuo atveju, jei reklaminės veiklos subjektai po administracinės nuobaudos – įspėjimo nesilaiko įpareigojimo jį nutraukti. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
 
-10. Šiame straipsnyje numatytų baudų dydis priklauso nuo reklamos naudojimo reikalavimų pažeidimo pobūdžio, atsakomybę lengvinančių ir sunkinančių aplinkybių. 
+10. Šiame straipsnyje numatytų baudų dydis priklauso nuo reklamos naudojimo reikalavimų pažeidimo pobūdžio, pažeidimo trukmės ir masto, atsakomybę lengvinančių ir sunkinančių aplinkybių. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
 
-11. Atsakomybę lengvinančia aplinkybe laikoma tai, kad reklaminės veiklos subjektas, padaręs pažeidimą, savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo reklamos kontrolės institucijoms tyrimo metu, atlygino nuostolius ar pašalino padarytą žalą. 
+11. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad reklaminės veiklos subjektas, padaręs pažeidimą, savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo reklamos kontrolės institucijoms tyrimo metu, atlygino nuostolius ar pašalino padarytą žalą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
 
-12. Atsakomybę sunkinančia aplinkybe laikoma tai, kad reklaminės veiklos subjektas kliudė vykdyti tyrimą, tęsė pažeidimą, nepaisydamas įpareigojimo jį nutraukti, jei reklamos vartotojams ar kitiems asmenims buvo padaryta žala arba pakartotinai per metus padarytas tokios pačios rūšies pažeidimas, už kurį reklaminės veiklos subjektui buvo paskirta bauda. 
+12. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad reklaminės veiklos subjektas kliudė vykdyti tyrimą, tęsė pažeidimą, nepaisydamas įpareigojimo jį nutraukti, jei reklamos vartotojams ar kitiems asmenims buvo padaryta žala arba pažeidimas padarytas pakartotinai per metus nuo šiame įstatyme numatytos administracinės nuobaudos paskyrimo. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
@@ -771,7 +830,9 @@ ATSAKOMYBĖS UŽ REKLAMOS ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA
 
 
 
-14. Šiame straipsnyje nustatytos baudos fiziniams asmenims netaikomos.
+14. Neteko galios nuo 2002-12-24
+Straipsnio dalies naikinimas:
+Nr. IX-1212, 2002-12-03, Žin. 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
  
 
 
@@ -782,7 +843,10 @@ ATSAKOMYBĖS UŽ REKLAMOS ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA
 23 straipsnis. Reklamos įstatymo pažeidimų nagrinėjimo tvarka
 
 
-1. Šio įstatymo 22 straipsnio 1, 2, 5 dalyse nurodytus pažeidimus tiria ir nagrinėja Konkurencijos taryba. Pažeidimų tyrimo ir nagrinėjimo tvarką bei Konkurencijos tarybos nutarimų vykdymo ir apskundimo tvarką nustato Konkurencijos įstatymas.
+1. Šio įstatymo 22 straipsnio 1 ir 2 dalyse nurodytus pažeidimus tiria ir nagrinėja Konkurencijos taryba. Pažeidimų tyrimo ir nagrinėjimo tvarką bei Konkurencijos tarybos nutarimų vykdymo ir apskundimo tvarką nustato Konkurencijos įstatymas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
 
 
 
@@ -919,3 +983,32 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+
+
+
+
+
+ 
+Lietuvos Respublikos
+reklamos įstatymo
+Nr. VIII-1871
+priedas
+ 
+
+
+Lietuvos Respublikos reklamos įstatymas yra suderintas su 1984 m. rugsėjo 10 d. Tarybos direktyva Nr. 84/450/EEB dėl valstybių narių įstatymų ir kitų teisės aktų, susijusių su klaidinančia reklama, derinimo ir 1997 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva Nr. 97/55/EB, iš dalies pakeičiančia ir papildančia direktyvą Nr. 84/450/EEB dėl klaidinančios reklamos taip, kad būtų įtraukta ir lyginamoji reklama. 
+
+
+Papildyta priedu:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas
