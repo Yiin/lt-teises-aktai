@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
+Suvestinė redakcija nuo 2000-07-26 iki 2002-12-23
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
+ 
+ 
+ 
+
 LIETUVOS RESPUBLIKOS
 NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ KONTROLĖS
 Į S T A T Y M A S
@@ -397,7 +404,10 @@ KETVIRTASIS SKIRSNIS
 
 
 
-3. Į II ir III sąrašus įtrauktų medžiagų įsigijimo, išdavimo sveikatos priežiūros ar veterinarijos tikslams vaistinėse tvarką nustato Sveikatos apsaugos ministerija kartu su Valstybine veterinarijos tarnyba.
+3. Į II ir III sąrašus įtrauktų medžiagų įsigijimo, išdavimo sveikatos priežiūros ar veterinarijos tikslams vaistinėse tvarką nustato Sveikatos apsaugos ministerija kartu su Valstybine maisto ir veterinarijos tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1796, 2000-07-04, Žin., 2000, Nr. 61-1807 (2000-07-26), i. k. 1001010ISTAIII-1796
+ 
 
 
 
@@ -432,7 +442,9 @@ KETVIRTASIS SKIRSNIS
 
 
 
-6. Reikalavimus sveikatos priežiūros ir veterinarijos specialistams, turintiems teisę įsigyti, išduoti į II ir III sąrašus įtrauktas medžiagas profesinėms pareigoms atlikti, nustato Sveikatos apsaugos ministerija kartu su Valstybine veterinarijos tarnyba.
+6. Reikalavimus sveikatos priežiūros ir veterinarijos specialistams, turintiems teisę įsigyti, išduoti į II ir III sąrašus įtrauktas medžiagas profesinėms pareigoms atlikti, nustato Sveikatos apsaugos ministerija kartu su Valstybine maisto ir veterinarijos tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1796, 2000-07-04, Žin., 2000, Nr. 61-1807 (2000-07-26), i. k. 1001010ISTAIII-1796
  
 
 
@@ -590,3 +602,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1796, 2000-07-04, Žin., 2000, Nr. 61-1807 (2000-07-26), i. k. 1001010ISTAIII-1796
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 7 straipsnio pakeitimo įstatymas
