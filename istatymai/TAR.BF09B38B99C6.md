@@ -110,7 +110,6 @@ dalies 7 punkto redakcija nuo 2004 m. sausio 1 d.:
 ir kooperatinių bendrovių (kooperatyvų), kurių apmokestinamasis pelnas pagal
 Lietuvos Respublikos pelno mokesčio įstatymo nuostatas apmokestinamas taikant 0
 procentų pelno mokesčio tarifą, nekilnojamasis turtas;
- 
             8) daugiabučių namų
 savininkų bendrijų, gyvenamųjų namų eksploatavimo, garažų eksploatavimo ir
 sodininkų bendrijų, aptarnaujančių tik savo narius, nekilnojamasis turtas;
@@ -137,9 +136,16 @@ Vyriausybės patvirtintą sąrašą;
 esantis bankrutavusios įmonės balanse;
 17) nepriimti
 naudoti statiniai.
-            2. Savivaldybių tarybos savo
-biudžeto sąskaita turi teisę sumažinti nekilnojamojo turto mokestį arba visai
-nuo jo atleisti.
+ 
+1
+dalies papildymas nuo 2004-01-01:
+18) profesinių sąjungų nekilnojamasis turtas (ar jo
+dalis), naudojamas (-a) tik nekomercinei profesinių sąjungų įstatuose numatytai
+veiklai.
+ 
+2. Savivaldybių
+tarybos savo biudžeto sąskaita turi teisę sumažinti nekilnojamojo turto mokestį
+arba visai nuo jo atleisti.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -150,6 +156,9 @@ VIII-267,
 97.06.17, Žin., 1997, Nr.64-1497 (97.07.04) 
 Nr. VIII-2059,
 00.10.17, Žin., 2000, Nr.92-2888 (00.10.31), įsigalioja nuo 2001.01.01
+Nr.
+IX-1850,
+2003-11-25, Žin., 2003, Nr. 116-5256 (2003-12-12)
  
             6 straipsnis. Nekilnojamojo
 turto mokestinė vertė
@@ -186,8 +195,8 @@ nekilnojamąjį turtą, mokestis
 neskaičiuojamas nuo kito mėnesio, einančio po mėnesio, kurį
 nuosavybės teisė į turtą buvo prarasta.
             Laiku neapmokestinti
-mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas Lietuvos
-Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas
+Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -228,8 +237,8 @@ nuostatos
             Iki 6 straipsnio
 įsigaliojimo nekilnojamojo turto mokestinė vertė nustatoma taip:
             1) įmonių ir organizacijų,
-sudarančių balansą, nekilnojamojo turto mokestine verte laikoma šio turto
-pradinė vertė, indeksuota taikant Lietuvos Respublikos Vyriausybės nustatytus
+sudarančių balansą, nekilnojamojo turto mokestine verte laikoma šio turto pradinė
+vertė, indeksuota taikant Lietuvos Respublikos Vyriausybės nustatytus
 koeficientus;
             2) įmonių ir organizacijų,
 nesudarančių balanso, nekilnojamojo turto mokestine verte laikoma vertė, pagal
@@ -295,8 +304,8 @@ STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2059, 00.10.17,
-Žin., 2000, Nr.92-2888 (00.10.31)
+Nr. VIII-2059,
+00.10.17, Žin., 2000, Nr.92-2888 (00.10.31)
 ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO
 ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Šis
@@ -325,12 +334,23 @@ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
 Šis
 Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1850,
+2003-11-25, Žin., 2003, Nr. 116-5256 (2003-12-12)
+ĮMONIŲ
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-11-07)
-           
-      autrap@lrs.lt
+Aušra Bodin (2003-12-12)
+                 
+aubodi@lrs.lt
 
