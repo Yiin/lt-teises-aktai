@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 Redagavo: Ramunė
-Lūžaitė (1997.10.24)
+Lūžaitė (1998.12.02)
  
 Įstatymas
 paskelbtas: Žin., 1991, Nr.30-804
@@ -48,6 +48,15 @@ Nr. VIII-425,
 97.09.25, Žin., 1997, Nr.96-2423 (97.10.24)
 LIETUVOS
 RESPUBLIKOS TRANSPORTO VEIKLOS PAGRINDŲ ĮSTATYMO 9 STRAIPSNIO PAKEITIMO 
+ 
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-923, 98.11.17,
+Žin., 1998, Nr.105-2894 (98.12.02)
+LIETUVOS
+RESPUBLIKOS TRANSPORTO VEIKLOS PAGRINDŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -83,8 +92,8 @@ atšakos,  riedmenys,  ryšių signalizacijos,  energetiniai  įrengimai,  
 ir  kiti inžineriniai  statiniai,  skirti  tiesiogiai  geležinkelio transportui
 aptarnauti.
      Automobilių 
-transportui  priklauso  keliai,  transporto priemonės, technologiniai įrengimai,
-stotys ir kiti inžineriniai statiniai.
+transportui  priklauso  keliai,  transporto priemonės, technologiniai
+įrengimai, stotys ir kiti inžineriniai statiniai.
      Jūrų
 transportui priklauso jūrų keliai, jūrų uostai, jūrų švyturiai ir kiti
 navigacijos ženklai bei techniniai įrengimai, reguliuojantys laivybą ir
@@ -100,8 +109,8 @@ elektriniam  transportui  priklauso  elektrinės kontaktinės  linijos, 
 elektrinės  transporto  priemonės, technologiniai įrengimai ir kiti
 inžineriniai statiniai.
      Vamzdiniam
-transportui priklauso naftotiekio bei dujotiekio vamzdynų  linijos  technologiniai 
-įrengimai,  inžineriniai statiniai.
+transportui priklauso naftotiekio bei dujotiekio vamzdynų  linijos 
+technologiniai  įrengimai,  inžineriniai statiniai.
  
      3
 straipsnis. Transporto santykių reguliavimas
@@ -132,19 +141,20 @@ straipsnis. Transporto valdymas
 transportą valdo Lietuvos Respublikos susisiekimo ministerija  ir  kitos 
 Respublikos  Vyriausybės  įgaliotos institucijos.
      Vietos
-savivaldybių  žinioje esantį transportą įstatymo nustatyta tvarka valdo
-atitinkamos savivaldybės.
+savivaldybių  žinioje esantį transportą įstatymo nustatyta tvarka valdo atitinkamos
+savivaldybės.
  
      6
 straipsnis. Transporto paslaugų apmokėjimas
  
-     Keleivių
-vežimo ir su tuo susijusių transporto paslaugų maksimalius tarifus, jų taikymo
-taisykles tvirtina Lietuvos Respublikos Vyriausybė.
-    
-Lietuvos Respublikos Seimas gali nustatyti lengvatinio keleivių vežimo  tvarką.
-Tokiu  atveju išlaidos  transporto priemonės  savininkui  kompensuojamos  iš 
-valstybės  arba savivaldybių biudžetų.
+Keleivių vežimo kelių transportu reguliariais
+reisais tolimojo susisiekimo maršrutais, vietinio susisiekimo traukiniais ir
+vidaus vandenų transportu tarifus nustato vežėjas, maksimalius jų dydžius
+suderinęs su Valstybine kainų ir energetikos kontrolės komisija.
+Lietuvos Respublikos Seimas gali nustatyti
+lengvatinio keleivių vežimo  tvarką. Tokiu  atveju išlaidos  transporto
+priemonės  savininkui  kompensuojamos  iš  valstybės  arba savivaldybių
+biudžetų.
      Už
 darbus ir paslaugas, kuriems nėra nustatyti maksimalūs tarifai, atsiskaitoma
 transporto priemonės savininko nustatytomis kainomis.
@@ -158,7 +168,8 @@ Straipsnio
 pakeitimai:
 Nr.
 I-1080, 95.10.31, Žin., 1995, Nr.92-2056 (95.11.10)
- 
+Nr. VIII-923,
+98.11.17, Žin., 1998, Nr.105-2894 (98.12.02)
  
      7
 straipsnis. Teisė vairuoti transporto priemonę
@@ -170,8 +181,7 @@ kvalifikaciją ir yra tinkamos sveikatos.
 reikalavimus vairuoti transporto priemonę nustato Susisiekimo ministerija.
      Sveikatos
 būklės tinkamumą vairuoti transporto priemonę įvertina sveikatos apsaugos
-darbuotojai Lietuvos Respublikos sveikatos apsaugos ministerijos nustatyta
-tvarka.
+darbuotojai Lietuvos Respublikos sveikatos apsaugos ministerijos nustatyta tvarka.
  
      8
 straipsnis. Šalių atsakomybė už pervežimus
@@ -197,7 +207,6 @@ Straipsnio
 pakeitimai:
 Nr. VIII-425,
 97.09.25, Žin., 1997, Nr.96-2423 (97.10.24)
- 
  
      10
 straipsnis. Eismo saugumo kontrolė
@@ -225,7 +234,7 @@ Pavojingų krovinių sąrašą tvirtina Lietuvos Respublikos Vyriausybė.
 LIETUVOS
 RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS
 PIRMININKO
-PAVADUOTOJAS                                  KAZIMIERAS MOTIEKA
+PAVADUOTOJAS                                  KAZIMIERAS MOTIEKA
  
 Vilnius,
 1991 m. spalio 8 d.
