@@ -44,7 +44,6 @@ I-1436,
 Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
 62-2232 (2001-07-18)
  
- 
             2 straipsnis. Mokesčio
 objektas
             Mokesčio objektas yra Lietuvos
@@ -57,7 +56,6 @@ I-1436,
 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19) 
 Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
 62-2232 (2001-07-18)
- 
  
             3 straipsnis. Mokesčio
 mokėtojai
@@ -74,7 +72,6 @@ I-1436,
 Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
 62-2232 (2001-07-18)
  
- 
             4 straipsnis. Mokesčio tarifas
             Metinis mokesčio tarifas - 1
 procentas nekilnojamojo turto mokestinės vertės.
@@ -83,7 +80,6 @@ pakeitimai:
 Nr.
 I-1436,
 96.07.04, Žin., 1996, Nr. 68-1635 (96.07.19) 
- 
  
             5 straipsnis. Mokesčio
 lengvatos
@@ -103,8 +99,18 @@ veiklai, socialinei globai bei rūpybai ir kulto reikmenų gamybai;
 paslaugoms naudojami pastatai, statiniai ar jų dalys;
             6) invalidų draugijų ir jų
 įmonių naudojamas nekilnojamasis turtas;
+ 
+1
+dalies 7 punkto redakcija iki 2004 m. sausio 1 d.:
             7) žemės ūkio įmonėms
 priklausantis nekilnojamasis turtas;
+1
+dalies 7 punkto redakcija nuo 2004 m. sausio 1 d.:
+7) žemės ūkio veiklos subjektų
+ir kooperatinių bendrovių (kooperatyvų), kurių apmokestinamasis pelnas pagal
+Lietuvos Respublikos pelno mokesčio įstatymo nuostatas apmokestinamas taikant 0
+procentų pelno mokesčio tarifą, nekilnojamasis turtas;
+ 
             8) daugiabučių namų
 savininkų bendrijų, gyvenamųjų namų eksploatavimo, garažų eksploatavimo ir
 sodininkų bendrijų, aptarnaujančių tik savo narius, nekilnojamasis turtas;
@@ -145,7 +151,6 @@ VIII-267,
 Nr. VIII-2059,
 00.10.17, Žin., 2000, Nr.92-2888 (00.10.31), įsigalioja nuo 2001.01.01
  
- 
             6 straipsnis. Nekilnojamojo
 turto mokestinė vertė
             Nekilnojamąjį turtą įvertina Lietuvos
@@ -181,8 +186,8 @@ nekilnojamąjį turtą, mokestis
 neskaičiuojamas nuo kito mėnesio, einančio po mėnesio, kurį
 nuosavybės teisė į turtą buvo prarasta.
             Laiku neapmokestinti
-mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas
-Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas Lietuvos
+Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -191,7 +196,6 @@ I-1311,
 Nr. IX-434, 2001-07-10, Žin., 2001, Nr.
 62-2232 (2001-07-18)
  
- 
             8 straipsnis. Mokesčio
 mokėjimo tvarka
             Mokestis mokamas po 1/4
@@ -199,8 +203,8 @@ metinės sumos pasibaigus ketvirčiui, per 25 dienas.
             Nekilnojamojo turto mokestis
 įskaitomas į savivaldybės, kurios teritorijoje yra turtas, biudžetą.
  
-            9 straipsnis. Atsakomybė už neteisingą
-mokesčio apskaičiavimą ir mokėjimą
+            9 straipsnis. Atsakomybė už
+neteisingą mokesčio apskaičiavimą ir mokėjimą
             Atsakomybė už mokesčio
 įstatymo pažeidimus ir mokesčio mokėjimo užtikrinimo priemonės taikomos
 Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
@@ -209,7 +213,6 @@ pakeitimai:
 Nr.
 I-1311,
 96.04.30, Žin., 1996, Nr. 46-1106 (96.05.17) 
- 
  
             10 straipsnis. Ginčų
 nagrinėjimo tvarka
@@ -242,10 +245,11 @@ I-1436,
             Skelbiu šį Lietuvos
 Respublikos Seimo priimtą įstatymą. 
  
+ 
 RESPUBLIKOS PREZIDENTAS                                             
 ALGIRDAS BRAZAUSKAS
  
-__________
+_______________
  
 Pakeitimai:
  
@@ -291,10 +295,10 @@ STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2059,
-00.10.17, Žin., 2000, Nr.92-2888 (00.10.31)
-ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO
-5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+Nr. VIII-2059, 00.10.17,
+Žin., 2000, Nr.92-2888 (00.10.31)
+ĮMONIŲ IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO
+ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
@@ -309,9 +313,24 @@ juridiniai asmenys ir organizacijos už Lietuvos Respublikoje esantį ir
 nuosavybės teise priklausantį nekilnojamąjį turtą mokestį pradeda mokėti nuo
 2002 m. sausio 1 d.
  
-*** Pabaiga ***
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1778,
+2003-10-14, Žin., 2003, Nr. 104-4648 (2003-11-05)
+ĮMONIŲ
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušra Petraitienė (2001-07-19)
-                  aupetr@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2003-11-07)
+           
+      autrap@lrs.lt
 
