@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.99089F3FFA60"
 
 # Lietuvos Respublikos muitinės laikinasis įstatymas
 
+Suvestinė redakcija nuo 1992-02-21 iki 1993-02-10
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 101-0; Žin. 1990, Nr.30-720, i. k. 090XX01ISTA000I-653
+ 
+ 
 LIETUVOS RESPUBLIKOS
 MUITINĖS LAIKINASIS
 ĮSTATYMAS
@@ -67,6 +72,9 @@ Muitinė atlieka tiriamąjį darbą muitinės veiklai tobulinti.
 
 10 straipsnis.
 Muitinė užtikrina per Lietuvos Respublikos valstybinę sieną pervežamos valiutos, vertybių popierių, materialinių, kultūros, meno, intelektualinių ir kitų vertybių, visų rūšių transporto priemonių ir keleivių muito priežiūrą bei kontrolę.
+Muitinė konfiskuoja ūkio subjektų neteisėtai bandomas gabenti prekes ir nustatytąja tvarka jas realizuoja. Sprendimą konfiskuoti ūkio subjektų neteisėtai bandomas gabenti prekes, taip pat teikimą taikyti jiems Lietuvos Respublikos Vyriausybės nustatytas baudas priima muitinės viršininkas arba jo pavaduotojai.
+Straipsnio pakeitimai:
+Nr. I-2306, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-156 (1992-03-10), i. k. 0921010ISTA00I-2306
  
 
 11 straipsnis.
@@ -105,6 +113,9 @@ Muitinės darbuotojo tarnybinio pažymėjimo pavyzdį nustato Lietuvos Respublik
 17 straipsnis.
 Muitinės tarnautojų priėmimą į darbą ir atleidimą reglamentuoja specialios taisyklės, kurias tvirtina Lietuvos Respublikos Vyriausybė Lietuvos Respublikos vyriausiojo muitininko teikimu.
 Muitinės pareigūnai į darbą priimami ir atleidžiami Lietuvos Respublikos vyriausiojo muitininko įsakymu.
+Muitinės pareigūnams ir tarnautojams nustatomas šešių mėnesių išbandymo terminas.
+Straipsnio pakeitimai:
+Nr. I-2306, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-156 (1992-03-10), i. k. 0921010ISTA00I-2306
  
 
 18 straipsnis.
@@ -137,13 +148,24 @@ Lietuvos Respublikos Vyriausybės nustatyta tvarka muitinės darbuotojai skatina
 
 22 straipsnis.
 Muitinė turi teisę raštu atkreipti valstybinių, visuomeninių, kooperatinių, privačių įmonių, įstaigų, organizacijų vadovų ar kitų pareigūnų dėmesį į aplinkybes ir sąlygas, sudarančias galimybę pažeisti Lietuvos Respublikos muitinės veiklą reglamentuojančius įstatymus ir kitus norminius aktus. Pareigūnai privalo per vieną mėnesį išnagrinėti Muitinės pasiūlymus ir pranešti apie priimtas priemones.
- 
- 
 
+ 
+ 
+ 
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
 PIRMININKAS                                                                                               V. LANDSBERGIS
  
 Vilnius, 1990 m. spalio 9 d. 
 Nr. I-653
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2306, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-156 (1992-03-10), i. k. 0921010ISTA00I-2306
+Dėl Lietuvos Respublikos muitinės laikinojo įstatymo papildymo
 
