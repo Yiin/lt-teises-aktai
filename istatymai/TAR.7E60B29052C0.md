@@ -79,8 +79,9 @@ etikos inspektoriui;
 8) Seimo, Seimo
 Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų
 ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus Valstybės
-saugumo departamento generalinį direktorių ir jo pavaduotojus bei Specialiųjų
-tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams; 
+saugumo departamento generalinį direktorių ir jo pavaduotojus, Specialiųjų
+tyrimų tarnybos direktorių ir jo pavaduotojus bei policijos generalinį
+komisarą) bei pareigūnams;
 9) Seimo,
 Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
 (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
@@ -100,12 +101,15 @@ Nr. IX-1045,
 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
 Nr. IX-1326,
 2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
-Nr. IX-1390,
-2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
+Nr. IX-1390, 2003-03-25,
+Žin., 2003, Nr. 35-1464 (2003-04-11)
 Nr. IX-1520,
 2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
 Nr. IX-1594,
 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
+Nr.
+IX-1918,
+2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
  
 3
 straipsnis. Valstybės politikų, teisėjų ir valstybės pareigūnų darbo užmokestis
@@ -162,8 +166,8 @@ Lietuvos valstybei metus nuo 1990 m. kovo 11 d. valstybės ir savivaldybių
 institucijose bei įstaigose einant viešojo administravimo valstybės tarnautojų
 bei A ir B lygio paslaugų valstybės tarnautojų, taip pat Valstybės tarnybos
 įstatymo 4 straipsnio 3 dalies 1–6 punktuose nurodytas pareigas. 
-2. Tarnybos laikas
-einant ne tuo pačiu metu šio straipsnio 1 dalyje nurodytas pareigas
+2. Tarnybos
+laikas einant ne tuo pačiu metu šio straipsnio 1 dalyje nurodytas pareigas
 susumuojamas. Į tarnybos stažą įskaitomas stažuotės ar bandomasis laikotarpis,
 taip pat mokamų atostogų laikas.
 3. Priedą už
@@ -438,8 +442,8 @@ Nr. IX-1012,
 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 Nr. IX-1240,
 2002-12-10, Žin., 2002, Nr. 123-5532 (2002-12-24)
-Nr. IX-1326, 2003-01-28,
-Žin., 2003, Nr. 17-703 (2003-02-19)
+Nr. IX-1326,
+2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
  
 8 straipsnis. Neteko galios.
 Straipsnio
@@ -730,34 +734,19 @@ Ministrai
 
 
 Savivaldybių merai ir
-
-
-Savivaldybės
-  teritorijoje gyvena
-
-
-
-
- 
-
-
 merų pavaduotojai
 
 
-per 500 tūkst.
-  gyventojų
+Savivaldybės teritorijoje
+  gyvena
 
 
-per 100 tūkst.
-  gyventojų
 
 
-per 50 tūkst.
-  gyventojų
+per 100 tūkst. gyventojų
 
 
-50 tūkst. ir
-  mažiau gyventojų
+iki 100 tūkst. gyventojų
 
 
 
@@ -768,16 +757,10 @@ per 50 tūkst.
 Merai
 
 
-12
+12,2
 
 
-11
-
-
-10
-
-
-8,5
+10,5
 
 
 
@@ -788,20 +771,11 @@ Merai
 Merų pavaduotojai
 
 
- 
 10,5
 
 
- 
-9,8
-
-
- 
-8,8
-
-
- 
-7,7
+              
+  8,8          “
 
 
 
@@ -809,10 +783,13 @@ Skirsnio
 pakeitimai:
 Nr. VIII-2057,
 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
-Nr. IX-1326,
-2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
+Nr. IX-1326, 2003-01-28,
+Žin., 2003, Nr. 17-703 (2003-02-19)
 Nr. IX-1594,
 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
+Nr.
+IX-1918,
+2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
  
 
 
@@ -1080,9 +1057,9 @@ Kuriuose dirba 14 ir mažiau teisėjų
 *Pastaba.
 Pripažinti, kad Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės
 pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 3 dalies 1 punktas (2000 m.
-rugpjūčio 29 d., 2000 m. spalio 17 d., 2001 m. kovo 27 d. redakcijos), 7 straipsnio
-5 dalis (2000 m. rugpjūčio 29 d. ir 2001 m. kovo 27 d. redakcijos), 7
-straipsnio 6 dalies nuostata, įtvirtinanti pereinamąjį laikotarpį, ir šio įstatymo
+rugpjūčio 29 d., 2000 m. spalio 17 d., 2001 m. kovo 27 d. redakcijos), 7
+straipsnio 5 dalis (2000 m. rugpjūčio 29 d. ir 2001 m. kovo 27 d. redakcijos),
+7 straipsnio 6 dalies nuostata, įtvirtinanti pereinamąjį laikotarpį, ir šio įstatymo
 priedėlio II skirsnis “Teisėjų pareiginės algos” ta apimtimi, kuria juose
 nustatomas teisėjų, kurių darbo užmokestis yra didesnis už šio įstatymo
 nustatytą darbo užmokestį, darbo užmokesčio mažinimas, prieštarauja Lietuvos
@@ -1546,7 +1523,7 @@ Valstybės kontrolė:
 valstybės kontrolierius
 
 
-14,5
+15,5
 
 
 
@@ -1557,7 +1534,7 @@ valstybės kontrolierius
 valstybės kontrolieriaus pavaduotojai
 
 
-12,9
+13,8
 
 
 
@@ -1646,9 +1623,9 @@ Vaiko teisių apsaugos kontrolierius
 
 Seimo, Seimo Pirmininko, Respublikos
   Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
-  lošimų priežiūros komisijos,  Vertybinių popierių komisijos, Vyriausiosios
-  rinkimų  komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės lošimų
+  priežiūros komisijos,  Vertybinių popierių komisijos, Vyriausiosios rinkimų 
+  komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 
  
@@ -1806,7 +1783,7 @@ nariai
    11.     Lietuvos
 Respublikos draudimo priežiūros komisija:
  11.1.     pirmininkas                                                                                                  12
- 11.2.     pavaduotojai                                                                                                11
+ 11.2.     pavaduotojai                                                                                                11
  11.3.   
 nariai                                                                                                            
 9,5
@@ -1830,6 +1807,9 @@ Nr. IX-1390,
 2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
 Nr. IX-1738,
 2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
+Nr.
+IX-1918,
+2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
  
 __________________
  
@@ -1958,8 +1938,8 @@ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1520, 2003-04-22,
-Žin., 2003, Nr. 42-1920 (2003-05-01)
+IX-1520,
+2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 3
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 5(1) STRAIPSNIU IR
@@ -1987,8 +1967,16 @@ VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO
 PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
- 
+16.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1918,
+2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
+VALSTYBĖS
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO
+IR PRIEDĖLIO I BEI IV SKIRSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2004-01-01.
  
 Konstitucinio
 Teismo nutarimai:
@@ -2023,6 +2011,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-10-08)
+Aušra Bodin (2003-12-31)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
