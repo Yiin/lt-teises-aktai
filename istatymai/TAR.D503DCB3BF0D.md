@@ -15,198 +15,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D503DCB3BF0D"
 
 Redagavo: Ramun? L??ait? (1997
 
-Redagavo:
-Aušrinė Trapinskienė (2000.03.16)
- 
- 
 Įstatymas
 paskelbtas: Žin., 1995, Nr.61-1525
 Neoficialus
 įstatymo tekstas:
  
-Pakeitimai:
- 
-1.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-I-1370, 96.06.06, Žin., 1996, Nr. 57-1342 (96.06.19)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
- 
-2.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-I-1382, 96.06.13, Žin., 1996, Nr. 59-1404 (96.06.22)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO PAPILDYMO 26(1) STRAIPSNIU
-ĮSTATYMAS
- 
-3.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-I-1416, 96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 5, 8, 11, 17, 25, 50, 52, 55, 56
-STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
- 
-4.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-107, 97.02.13, Žin., 1997, Nr.17-362 (97.02.26)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 25, 39, 49, 50, 52, 54, 55, 56
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 39(1) STRAIPSNIU ĮSTATYMAS
- 
-5.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr. VIII-146,
-97.03.13, Žin., 1997, Nr.27-622 (97.03.28)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 49 IR 50 STRAIPSNIŲ PAKEITIMO
-ĮSTATYMAS
- 
-6.
-Lietuvos
-Respublikos Seimas, Įstatymas 
-Nr.
-VIII-164, 97.03.27, Žin., 1997, Nr.28-660 (97.03.29)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 26(1) STRAIPSNIO PAKEITIMO
-ĮSTATYMAS 
- 
-7.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 16, 17, 28, 33, 37, 38, 39, 40,
-47, 48, 50, 55 IR 56 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
- 
-8.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-555, 97.12.09, Žin., 1997, Nr.117-2995 (97.12.24)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 7 STRAIPSNIO PAKETIMO ĮSTATYMAS
- 
-Šis
-įstatymas įsigalioja nuo 1998 m. sausio 1 d.
- 
-9.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 17, 26, 261, 27, 29, 30, 31,
-32, 33, 37, 38, 39, 391, 49, 50, 52, 54, 55, 56, 57, 58 STRAIPSNIŲ PAPILDYMO IR
-PAKEITIMO BEI PAPILDYMO 271, 272, 291, 521, 561 STRAIPSNIAIS IR 47, 48
-STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
- 
-10.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-867, 98.09.29, Žin., 1998, Nr.90-2483 (98.10.14)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO IR
-PAKEITIMO ĮSTATYMAS
- 
-11.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-892, 98.10.15, Žin., 1998, Nr.95-2635 (98.10.30)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 22 STRAIPSNIO PAPILDYMO IR
-PAKEITIMO ĮSTATYMAS
- 
-12.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-963, 98.12.10, Žin., 1998, Nr.114-3190 (98.12.30)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 17 IR 25 STRAIPSNIŲ PAPILDYMO
-ĮSTATYMAS
- 
-13.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-1122, 99.04.06, Žin., 1999, Nr.36-1060 (99.04.23)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 17, 38 STRAIPSNIŲ PAPILDYMO IR
-PAKEITIMO BEI PAPILDYMO 38(1) STRAIPSNIU ĮSTATYMAS
- 
-Šis
-įstatymas įsigalioja nuo 1999 m. gegužės 1 d.
- 
-14.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-1277, 99.07.01, Žin., 1999, Nr.62-2034 (99.07.16)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 39, 50 STRAIPSNIŲ PAPILDYMO IR
-PAKEITIMO ĮSTATYMAS
- 
-15.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-VIII-1310, 99.07.07, Žin., 1999, Nr.66-2126 (99.07.30)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
- 
-16.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1334, 99.09.23, Žin., 1999, Nr.84-2493
-(99.10.08)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 42 STRAIPSNIO PAKEITIMO IR 46
-STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
- 
-17.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1382, 99.11.04, Žin., 1999, Nr.101-2903
-(99.11.26)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 5, 17, 32, 33, 34, 35,
-36, 37 STRAIPSNIŲ PAKEITIMO, 29(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR
-PAPILDYMO 32(1) STRAIPSNIU ĮSTATYMAS
-Šio įstatymo nuostatos,
-susijusios su turto arešto aktų registravimu turto arešto aktų registre, įsigalioja
-turto arešto aktų registrui pradėjus darbą.
-Iki turto arešto aktų registras
-pradės darbą, sprendimas areštuoti turto registre registruojamą turtą
-siunčiamas atitinkamam turto registrui, kuris apie turto areštą nedelsiant turi
-pažymėti turto registre.
- 
-18.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1533, 00.02.08, Žin., 2000, Nr.15-381
-(00.02.23)
-LIETUVOS
-RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 29 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
- 
-19.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1559, 00.02.17, Žin., 2000, Nr.22-555
-(00.03.15)
-MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 29 STRAIPSNIO PAPILDYMO
-ĮSTATYMAS
- 
-***
-Pabaiga ***
  
 LIETUVOS
 RESPUBLIKOS
@@ -215,97 +28,98 @@ ADMINISTRAVIMO
 ĮSTATYMAS
  
 1995 m. birželio
-28 d. Nr. I-974
+28 d. Nr.I-974
 Vilnius
  
 I SKYRIUS.
 BENDROSIOS NUOSTATOS
  
-     1
+     1
 straipsnis. Įstatymo paskirtis
-     Šis
+ 
+     Šis
 įstatymas nustato pagrindines sąvokas ir taisykles, kurių būtina laikytis
-vykdant Lietuvos Respublikos mokesčių įstatymus, pateikia  Lietuvos Respublikoje 
+vykdant Lietuvos Respublikos mokesčių įstatymus, pateikia Lietuvos Respublikoje
 taikomų mokesčių sąrašą, nustato mokesčio administratoriaus teises ir pareigas,
 mokesčio mokėtojo teises ir pareigas, mokesčio apskaičiavimo ir mokėjimo
 tvarką, mokesčio bei su juo susijusių sumų išieškojimo bei ginčų nagrinėjimo
 tvarką.
  
-     2
+     2
 straipsnis. Pagrindinės sąvokos
-     Mokesčio
-įstatyme  vartojamos sąvokos,  jeigu  mokesčio įstatymas nenustato kitaip:
-     mokestis
-- mokesčio įstatyme mokesčio mokėtojui nustatyta piniginė prievolė valstybei,
-kad būtų gauta pajamų valstybės (savivaldybės) funkcijoms vykdyti. Ši prievolė
+ 
+     Mokesčio
+įstatyme vartojamos sąvokos, jeigu mokesčio įstatymas nenustato kitaip:
+     mokestis -
+mokesčio įstatyme mokesčio mokėtojui nustatyta piniginė prievolė valstybei, kad
+būtų gauta pajamų valstybės (savivaldybės) funkcijoms vykdyti. Ši prievolė
 atliekama įstatymų nustatyta tvarka;
-     rinkliava
-- įstatymo nustatyta piniginė prievolė asmeniui už jam suteikiamas tam tikras
-valstybės institucijų paslaugas. Rinkliavos  yra  papildomas  pajamų  šaltinis 
+     rinkliava -
+įstatymo nustatyta piniginė prievolė asmeniui už jam suteikiamas tam tikras
+valstybės institucijų paslaugas. Rinkliavos yra papildomas pajamų šaltinis
 valstybės (savivaldybės) funkcijoms vykdyti;
-     mokesčio
-įstatymas - Lietuvos Respublikos įstatymas, kuris  nustato mokestį,
+     mokesčio
+įstatymas - Lietuvos Respublikos įstatymas, kuris nustato mokestį,
 rinkliavą ar kitą įmoką į valstybės (savivaldybės) biudžetą bei fondus, taip
 pat šis įstatymas ir šio įstatymo 4 straipsnyje minima sutartis;
-     asmuo
-- fizinis asmuo (individas), juridinis asmuo, kitas neturintis juridinio asmens
+     asmuo -
+fizinis asmuo (individas), juridinis asmuo, kitas neturintis juridinio asmens
 teisių asmuo;
-     mokesčio
+     mokesčio
 mokėtojas - asmuo, kuriam pagal mokesčio įstatymą yra nustatyta prievolė mokėti
 mokestį;
-     rinkliavos
-mokėtojas - asmuo, kuris už valstybės institucijų suteiktas  paslaugas 
-privalo  sumokėti  įstatymų  nustatytą rinkliavą;
-     mokesčio
-administratorius  - už mokesčio administravimą atsakinga institucija;
-     mokesčio
+     rinkliavos
+mokėtojas - asmuo, kuris už valstybės institucijų suteiktas paslaugas privalo
+sumokėti įstatymų nustatytą rinkliavą;
+     mokesčio
+administratorius - už mokesčio administravimą atsakinga institucija;
+     mokesčio
 administravimas - mokesčio administratoriaus teisių ir pareigų bei mokesčio
 mokėtojo teisių ir pareigų įgyvendinimas, mokesčio apskaičiavimas, sumokėjimas
-ir išieškojimas, atsakomybės už netinkamą  mokesčio apskaičiavimą  ir mokėjimą
+ir išieškojimas, atsakomybės už netinkamą mokesčio apskaičiavimą ir mokėjimą
 taikymas, mokesčio paskirstymas, informacijos mokesčių mokėtojams teikimas;
-     mokesčio
+     mokesčio
 deklaracija - mokesčio apskaičiavimo dokumentas, kurį mokesčio mokėtojas arba
 mokestį išskaičiuojantis asmuo turi užpildyti ir pateikti mokesčio
 administratoriui mokesčio įstatymo nustatyta tvarka;
-     mokesčio
-nepriemoka  - mokesčio  mokėtojo arba mokestį išskaičiuojančio asmens mokesčio
+     mokesčio
+nepriemoka - mokesčio mokėtojo arba mokestį išskaičiuojančio asmens mokesčio
 įstatymo nustatyta tvarka laiku nesumokėta mokesčio suma;
-     mokesčio
-permoka  -  mokesčio  mokėtojo  arba  mokestį išskaičiuojančio asmens  mokesčio
-įstatymo  nustatyta tvarka sumokėta per didelė mokesčio suma. Mokesčio permoka
+     mokesčio
+permoka - mokesčio mokėtojo arba mokestį išskaičiuojančio asmens mokesčio
+įstatymo nustatyta tvarka sumokėta per didelė mokesčio suma. Mokesčio permoka
 taip pat laikoma per didelė mokesčio suma, kurią patikrinimo metu nustato
 mokesčio administratorius;
-  mokesčio skirtumas -
+ mokesčio skirtumas -
 mokesčio mokėtojui grąžintina (įskaitytina) iš biudžeto suma, kuri gali
 susidaryti mokesčio įstatymo nustatyta tvarka pildant mokesčio deklaraciją;
-     mokesčio
+     mokesčio
 apskaičiavimas - mokesčio deklaracijos arba kito dokumento pildymas
-parodant mokesčio dydį pinigais, privalomą  sumokėti į valstybės (savivaldybės)
+parodant mokesčio dydį pinigais, privalomą sumokėti į valstybės (savivaldybės)
 biudžetą bei fondus;
-     mokesčio
-bazė - mokesčio įstatymo nustatyta tvarka pinigų suma įvertintas 
-apmokestinamasis objektas,  kuriam taikomas nustatytas mokesčio dydis
-(tarifas);
-     mokestį
+     mokesčio
+bazė - mokesčio įstatymo nustatyta tvarka pinigų suma įvertintas
+apmokestinamasis objektas, kuriam taikomas nustatytas mokesčio dydis (tarifas);
+     mokestį
 išskaičiuojantis asmuo - asmuo, kuriam mokesčio įstatymo nustatyta
 prievolė išskaičiuoti iš mokesčio mokėtojo mokestį ir jį sumokėti į valstybės
 (savivaldybės) biudžetą bei fondus;
-     mokesčio 
-įstatymo  pažeidimas  -  atlikta  veika, prieštaraujanti mokesčio įstatymui;
-     apmokestinimo
+     mokesčio
+įstatymo pažeidimas - atlikta veika, prieštaraujanti mokesčio įstatymui;
+     apmokestinimo
 tvarka - mokesčio įstatymo nustatytas mokesčio mokėtojas, mokesčio bazė,
-mokesčio dydžiai (tarifai), mokesčio lengvatos, baudos  ir delspinigiai, 
-mokesčio mokėjimo  bei išieškojimo taisyklės;
-     mokesčio
-lengvata - mokesčio mokėtojui įstatymo nustatytos išskirtinės apmokestinimo 
+mokesčio dydžiai (tarifai), mokesčio lengvatos, baudos ir delspinigiai,
+mokesčio mokėjimo bei išieškojimo taisyklės;
+     mokesčio
+lengvata - mokesčio mokėtojui įstatymo nustatytos išskirtinės apmokestinimo
 sąlygos, dėl kurių reikia mokėti mažesnį mokestį arba mokesčio mokėjimo
 terminas atidėtas ar mokestį galima sumokėti per keletą kartų;
-     veikla
-- visokia asmens veika, kurios dėka asmuo galėjo gauti arba gavo pajamų.
+     veikla -
+visokia asmens veika, kurios dėka asmuo galėjo gauti arba gavo pajamų.
 mokestinė
-nepriemoka - mokesčio mokėtojo arba mokestį išskaičiuojančio asmens
-mokesčio įstatymo nustatyta tvarka nesumokėtos mokesčių, baudų, delspinigių,
-palūkanų pagal mokestinės paskolos sutartis sumos;
+nepriemoka - mokesčio mokėtojo arba mokestį išskaičiuojančio asmens mokesčio
+įstatymo nustatyta tvarka nesumokėtos mokesčių, baudų, delspinigių, palūkanų
+pagal mokestinės paskolos sutartis sumos;
 beviltiška
 mokestinė nepriemoka - mokesčio mokėtojo mokesčio įstatymo nustatyta
 tvarka nesumokėtos mokesčių, baudų, delspinigių, taip pat pagal mokestinės
@@ -316,233 +130,244 @@ požiūriu netikslinga. Beviltiška mokestinė nepriemoka nustatoma vadovaujanti
 Straipsnio
 pakeitimai:
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
 Nr.
-VIII-1122, 99.04.06, Žin., 1999, Nr.36-1060 (99.04.23)
+VIII-1122,
+99.04.06, Žin., 1999, Nr.36-1060 (99.04.23)
  
-     3
+ 
+     3
 straipsnis. Mokesčio mokėtojų lygybė
-     Taikant
+ 
+     Taikant
 mokesčių įstatymus, visi mokesčio mokėtojai dėl šių įstatymų nustatytų sąlygų
 yra lygūs.
  
-     4
+     4
 straipsnis. Tarptautinės sutartys
-     Jeigu 
-tarptautinėse  sutartyse  nustatytos  kitokios apmokestinimo taisyklės  negu
-mokesčių  įstatymuose ir šios sutartys yra ratifikuotos Lietuvos Respublikoje,
+ 
+     Jeigu
+tarptautinėse sutartyse nustatytos kitokios apmokestinimo taisyklės negu
+mokesčių įstatymuose ir šios sutartys yra ratifikuotos Lietuvos Respublikoje,
 tai taikomos tarptautinių sutarčių taisyklės.
  
 II SKYRIUS.
 MOKESČIAI
  
-     5
+     5
 straipsnis. Mokesčiai
-     1.
-Pagal šį įstatymą administruojami mokesčiai:
-     1)
+ 
+     1. Pagal šį
+įstatymą administruojami mokesčiai:
+     1)
 pridėtinės vertės mokestis;
-     2)
-akcizas;
-     3)
-fizinių asmenų pajamų mokestis;
-     4)
+     2) akcizas;
+     3) fizinių
+asmenų pajamų mokestis;
+     4)
 juridinių asmenų pelno mokestis;
-     5)įmonių
-ir organizacijų nekilnojamojo turto mokestis;
-     6)
-žemės mokestis;
-     7)
-mokestis už valstybinius gamtos išteklius;
-     8)
-naftos ir dujų išteklių mokestis;
-     9)
-mokestis už aplinkos teršimą;
-     10)
-konsulinis mokestis;
-     11)
-žyminis mokestis;
-     12)
+     5)įmonių ir
+organizacijų nekilnojamojo turto mokestis;
+     6) žemės
+mokestis;
+     7) mokestis
+už valstybinius gamtos išteklius;
+     8) naftos
+ir dujų išteklių mokestis;
+     9) mokestis
+už aplinkos teršimą;
+     10) konsulinis
+mokestis;
+     11) žyminis
+mokestis;
+     12)
 prekyviečių mokestis;
-     13) 
+     13)
 atskaitymai nuo realizavimo pajamų pagal Lietuvos Respublikos kelių fondo
 įstatymą;
-     14)
+     14)
 paveldimo ar dovanojamo turto mokestis;
-     15)
+     15)
 privalomojo sveikatos draudimo įmokos;
-     16)
-valstybinės žemės ir valstybinio vandens fondo vandens telkinių nuomos
-mokestis.
-     2.
-Apmokestinimo tam tikru mokesčiu tvarką nustato tik atitinkamas mokesčio įstatymas
-arba jo pagrindu priimtas Lietuvos Respublikos Vyriausybės nutarimas, arba jų
-pagrindu priimtas kitas teisės aktas.
-   3.
-Jeigu Lietuvos Respublikos investicijų įstatymo nustatyta tvarka Lietuvos
-Respublikos Vyriausybės ar jos įgaliotos institucijos sudaromoje su
-investuotoju investicijų sutartyje investuotojas įsipareigoja investuoti į
-Lietuvos Respublikos įmonių rejestre įregistruotą ūkio subjektą ne mažiau kaip
-200 mln. litų per 3 metus (36 kalendorinius mėnesius) nuo sutarties sudarymo
-dienos, investuotojo (investuotojų) pageidavimu investicijų sutartyje gali būti
-nustatyta, kad šiam ūkio subjektui 5 metus nuo dienos, kai investicijų
-sutartyje nustatyta investicija pasieks 200 mln. litų, nebus didinami
-tiesioginių mokesčių tarifai (šio straipsnio 1 dalyje išvardyti mokesčiai,
-išskyrus pridėtinės vertės mokestį ir akcizą), nustatyti tą dieną galiojusiuose
-atitinkamuose mokesčių įstatymuose. Lietuvos Respublikos Vyriausybė turi teisę
-strateginiams investuotojams mokesčių nedidinimo terminą pratęsti iki 10 metų.
+     16) valstybinės
+žemės ir valstybinio vandens fondo vandens telkinių nuomos mokestis.
+     2.
+Apmokestinimo tam tikru mokesčiu tvarką nustato tik atitinkamas mokesčio
+įstatymas arba jo pagrindu priimtas Lietuvos Respublikos Vyriausybės nutarimas,
+arba jų pagrindu priimtas kitas teisės aktas.
+3. Jeigu
+Lietuvos Respublikos investicijų įstatymo nustatyta tvarka Lietuvos Respublikos
+Vyriausybės ar jos įgaliotos institucijos sudaromoje su investuotoju
+investicijų sutartyje investuotojas įsipareigoja investuoti į Lietuvos Respublikos
+įmonių rejestre įregistruotą ūkio subjektą ne mažiau kaip 200 mln. litų per 3
+metus (36 kalendorinius mėnesius) nuo sutarties sudarymo dienos, investuotojo
+(investuotojų) pageidavimu investicijų sutartyje gali būti nustatyta, kad šiam
+ūkio subjektui 5 metus nuo dienos, kai investicijų sutartyje nustatyta
+investicija pasieks 200 mln. litų, nebus didinami tiesioginių mokesčių tarifai
+(šio straipsnio 1 dalyje išvardyti mokesčiai, išskyrus pridėtinės vertės
+mokestį ir akcizą), nustatyti tą dieną galiojusiuose atitinkamuose mokesčių
+įstatymuose. Lietuvos Respublikos Vyriausybė turi teisę strateginiams
+investuotojams mokesčių nedidinimo terminą pratęsti iki 10 metų.
 4.
 Administruojant muitų ir socialinio draudimo mokesčius, taikomos tik šio
 įstatymo normos, reglamentuojančios mokesčio mokėtojo turto arešto tvarką.
 Straipsnio
 pakeitimai:
 Nr.
-I-1370, 96.06.06, Žin., 1996, Nr. 57-1342 (96.06.19)
+I-1370,
+96.06.06, Žin., 1996, Nr. 57-1342 (96.06.19)
 Nr.
-I-1416, 96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
+I-1416,
+96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
 Nr.
-VIII-867, 98.09.29, Žin., 1998, Nr.90-2483 (98.10.14)
-Nr.
-VIII-1310, 99.07.07, Žin., 1999, Nr.66-2126 (99.07.30)
-Nr. VIII-1382, 99.11.04, Žin., 1999, Nr.101-2903
-(99.11.26)
+VIII-867,
+98.09.29, Žin., 1998, Nr.90-2483 (98.10.14)
+Nr. VIII-1310,
+99.07.07, Žin., 1999, Nr.66-2126 (99.07.30)
+Nr. VIII-1382, 99.11.04, Žin., 1999,
+Nr.101-2903 (99.11.26)
  
-     6
+ 
+     6
 straipsnis. Mokesčio įstatymo įgyvendinimas
  
-     1.
-Lietuvos Respublikos Seimo priimtus mokesčių įstatymus, taip pat  ir šį 
-įstatymą įgyvendina  Lietuvos Respublikos Vyriausybė, o kai yra jos pavedimas -
-Finansų ministerija. Jokiai kitai valstybės institucijai negali būti pavesta
-įgyvendinti mokesčių įstatymų,  išskyrus Finansų  ministeriją, jeigu to
-nenumato mokesčio įstatymas.
-     2.
-Lietuvos Respublikos Vyriausybė, įgyvendindama mokesčių įstatymus,  nustato 
-atitinkamus  metodus  bei  taisykles, užtikrinančias mokesčio administravimą,
-arba paveda tai padaryti Finansų ministerijai.
-     3.
-Joks poįstatyminis aktas šio įstatymo 5 straipsnio pirmojoje dalyje  išvardytų
-mokesčių  apmokestinimo  tvarkos nustatymo klausimais negali būti priimtas be
+     1. Lietuvos
+Respublikos Seimo priimtus mokesčių įstatymus, taip pat ir šį įstatymą
+įgyvendina Lietuvos Respublikos Vyriausybė, o kai yra jos pavedimas - Finansų
+ministerija. Jokiai kitai valstybės institucijai negali būti pavesta
+įgyvendinti mokesčių įstatymų, išskyrus Finansų ministeriją, jeigu to nenumato
+mokesčio įstatymas.
+     2. Lietuvos
+Respublikos Vyriausybė, įgyvendindama mokesčių įstatymus, nustato atitinkamus
+metodus bei taisykles, užtikrinančias mokesčio administravimą, arba paveda tai
+padaryti Finansų ministerijai.
+     3. Joks
+poįstatyminis aktas šio įstatymo 5 straipsnio pirmojoje dalyje išvardytų
+mokesčių apmokestinimo tvarkos nustatymo klausimais negali būti priimtas be
 finansų ministro sutikimo.
  
-     7
+     7
 straipsnis. Mokesčio administratoriai
  
-     1.
-Šio įstatymo 5 straipsnio pirmojoje dalyje išvardytus mokesčius administruoja
+     1. Šio
+įstatymo 5 straipsnio pirmojoje dalyje išvardytus mokesčius administruoja
 Valstybinė mokesčių inspekcija.
      2. Šio
 įstatymo 5 straipsnio pirmosios dalies 1 ir 2 punktuose išvardytus mokesčius
 taip pat administruoja Lietuvos Respublikos muitinė, tačiau tik tiek, kiek
 muitinei pavesta pagal Lietuvos Respublikos muitinės kodeksą, Pridėtinės vertės
 mokesčio ir Akcizų įstatymus.
-     3.
-Šio įstatymo 5 straipsnio pirmosios dalies 7, 8 ir 9 punktuose išvardytus
-mokesčius taip pat administruoja Aplinkos apsaugos ministerija,  tačiau tik
-tiek, kiek pavesta pagal Mokesčių už valstybinius gamtos išteklius, Mokesčių už
-aplinkos teršimą bei Naftos ir dujų išteklių mokesčio įstatymus.
+     3. Šio
+įstatymo 5 straipsnio pirmosios dalies 7, 8 ir 9 punktuose išvardytus mokesčius
+taip pat administruoja Aplinkos apsaugos ministerija, tačiau tik tiek, kiek
+pavesta pagal Mokesčių už valstybinius gamtos išteklius, Mokesčių už aplinkos
+teršimą bei Naftos ir dujų išteklių mokesčio įstatymus.
 Straipsnio
 pakeitimai:
-Nr.
-VIII-555, 97.12.09, Žin., 1997, Nr.117-2995 (97.12.24)
+Nr. VIII-555,
+97.12.09, Žin., 1997, Nr.117-2995 (97.12.24)
+ 
  
 III SKYRIUS.
 VALSTYBINĖ MOKESČIŲ INSPEKCIJA
  
-     8
+     8
 straipsnis. Valstybinė mokesčių inspekcija
  
-     1. 
-Valstybinė  mokesčių  inspekcija  yra  valstybės institucija, įsteigta prie
-Finansų ministerijos, finansuojama iš valstybės  biudžeto  ir  kitų lėšų bei
-atskaitinga finansų ministrui. Ją sudaro Valstybinė mokesčių inspekcija prie
-Finansų ministerijos ir teritorinės valstybinės mokesčių inspekcijos, kurios
-yra juridiniai asmenys, turintys savo sąskaitas banke, antspaudus ir bendrą
+     1.
+Valstybinė mokesčių inspekcija yra valstybės institucija, įsteigta prie Finansų
+ministerijos, finansuojama iš valstybės biudžeto ir kitų lėšų bei atskaitinga
+finansų ministrui. Ją sudaro Valstybinė mokesčių inspekcija prie Finansų
+ministerijos ir teritorinės valstybinės mokesčių inspekcijos, kurios yra
+juridiniai asmenys, turintys savo sąskaitas banke, antspaudus ir bendrą
 simboliką.
-     2. 
-Valstybinės mokesčių inspekcijos materialinei bazei stiprinti  ir 
-darbuotojams  materialiai skatinti papildomai skiriama 30 procentų patikrinimų
-metu išieškotų į valstybės biudžetą lėšų. Iš šios sumos Valstybinės mokesčių
-inspekcijos materialinei bazei stiprinti skiriama 75 procentai išieškotų lėšų, 
-o  likusios  lėšos  naudojamos  mokesčių inspekcijos darbuotojams skatinti ir
-socialinėms garantijoms.
-     3. 
-Valstybinė mokesčių inspekcija vadovaujasi Lietuvos Respublikos  Konstitucija,
-šiuo įstatymu, kitais įstatymais, poįstatyminiais teisės aktais bei savo
-nuostatais. Valstybinės mokesčių  inspekcijos  prie  Finansų  ministerijos
-nuostatus tvirtina finansų ministras, o teritorinių valstybinių mokesčių
-inspekcijų  tipinius nuostatus tvirtina Valstybinės mokesčių inspekcijos prie
-Finansų ministerijos viršininkas.
-     4.
+     2.
+Valstybinės mokesčių inspekcijos materialinei bazei stiprinti ir darbuotojams
+materialiai skatinti papildomai skiriama 30 procentų patikrinimų metu išieškotų
+į valstybės biudžetą lėšų. Iš šios sumos Valstybinės mokesčių inspekcijos
+materialinei bazei stiprinti skiriama 75 procentai išieškotų lėšų, o likusios
+lėšos naudojamos mokesčių inspekcijos darbuotojams skatinti ir socialinėms
+garantijoms.
+     3. Valstybinė
+mokesčių inspekcija vadovaujasi Lietuvos Respublikos Konstitucija, šiuo
+įstatymu, kitais įstatymais, poįstatyminiais teisės aktais bei savo nuostatais.
+Valstybinės mokesčių inspekcijos prie Finansų ministerijos nuostatus tvirtina
+finansų ministras, o teritorinių valstybinių mokesčių inspekcijų tipinius
+nuostatus tvirtina Valstybinės mokesčių inspekcijos prie Finansų ministerijos
+viršininkas.
+     4.
 Valstybinė mokesčių inspekcija dirba bendradarbiaudama bei keisdamasi
-informacija su visais mokesčių administratoriais, valstybinėmis  
-institucijomis   bei  užsienio  valstybių institucijomis, kurios administruoja
-mokesčių mokėjimą.
- 
+informacija su visais mokesčių administratoriais, valstybinėmis institucijomis
+bei užsienio valstybių institucijomis, kurios administruoja mokesčių mokėjimą.
 Straipsnio
 pakeitimai:
 Nr.
-I-1416, 96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12) 
+I-1416,
+96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12) 
  
-     9
+ 
+     9
 straipsnis. Valstybinės mokesčių inspekcijos struktūra
  
-     1.
+     1.
 Valstybinę mokesčių inspekciją sudaro:
-     1)
+     1)
 Valstybinė mokesčių inspekcija prie Finansų ministerijos - centrinis mokesčio
 administratorius;
-     2) 
-Valstybinės  mokesčių  inspekcijos  prie  Finansų ministerijos teritorinės 
+     2)
+Valstybinės mokesčių inspekcijos prie Finansų ministerijos teritorinės
 valstybinės mokesčių inspekcijos - vietos mokesčio administratoriai.
-     2.
-Vietos mokesčio administratorius pavaldus ir atskaitingas centriniam mokesčio
+     2. Vietos
+mokesčio administratorius pavaldus ir atskaitingas centriniam mokesčio
 administratoriui.
  
-     10
+     10
 straipsnis. Centrinio mokesčio administratoriaus darbo organizavimas
  
-     1. 
-Valstybinei  mokesčių  inspekcijai  prie  Finansų ministerijos vadovauja
-viršininkas, kurį skiria ir atleidžia iš pareigų Lietuvos  Respublikos
-Ministras  Pirmininkas finansų ministro teikimu. Valstybinės mokesčių
-inspekcijos prie Finansų ministerijos viršininkas atskaitingas finansų
-ministrui.
-     2. 
-Valstybinės  mokesčių  inspekcijos  prie  Finansų ministerijos  struktūrą 
-tvirtina  Inspekcijos  viršininkas, suderinęs su finansų ministru.
+     1.
+Valstybinei mokesčių inspekcijai prie Finansų ministerijos vadovauja
+viršininkas, kurį skiria ir atleidžia iš pareigų Lietuvos Respublikos Ministras
+Pirmininkas finansų ministro teikimu. Valstybinės mokesčių inspekcijos prie
+Finansų ministerijos viršininkas atskaitingas finansų ministrui.
+     2.
+Valstybinės mokesčių inspekcijos prie Finansų ministerijos struktūrą tvirtina
+Inspekcijos viršininkas, suderinęs su finansų ministru.
  
-     11
+     11
 straipsnis. Vietos mokesčio administratoriaus darbo organizavimas
  
-     1.
-Teritorinių valstybinių mokesčių inspekcijų skaičių bei jų  teritorines 
-veiklos  zonas  nustato  finansų ministras Valstybinės  mokesčių  inspekcijos
-prie Finansų ministerijos viršininko teikimu.
-     2.
-Teritorinės valstybinės mokesčių inspekcijos struktūrą tvirtina  teritorinės 
-valstybinės  mokesčių  inspekcijos viršininkas,   atsižvelgdamas   į  
-centrinio   mokesčio administratoriaus metodinius nurodymus ir rekomendacijas.
-     3.
+     1.
+Teritorinių valstybinių mokesčių inspekcijų skaičių bei jų teritorines veiklos
+zonas nustato finansų ministras Valstybinės mokesčių inspekcijos prie Finansų
+ministerijos viršininko teikimu.
+     2.
+Teritorinės valstybinės mokesčių inspekcijos struktūrą tvirtina teritorinės
+valstybinės mokesčių inspekcijos viršininkas, atsižvelgdamas į centrinio
+mokesčio administratoriaus metodinius nurodymus ir rekomendacijas.
+     3.
 Teritorinės valstybinės mokesčių inspekcijos viršininką skiria ir atleidžia iš
-pareigų finansų ministras Valstybinės mokesčių  inspekcijos  prie  Finansų
-ministerijos viršininko teikimu.  Teritorinės  valstybinės  mokesčių 
-inspekcijos viršininkas atskaitingas Valstybinės mokesčių inspekcijos prie
-Finansų ministerijos viršininkui.
+pareigų finansų ministras Valstybinės mokesčių inspekcijos prie Finansų
+ministerijos viršininko teikimu. Teritorinės valstybinės mokesčių inspekcijos
+viršininkas atskaitingas Valstybinės mokesčių inspekcijos prie Finansų
+ministerijos viršininkui.
 Straipsnio
 pakeitimai:
 Nr.
-I-1416, 96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12) 
+I-1416,
+96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12) 
  
-     12
+ 
+     12
 straipsnis. Valstybinių mokesčių inspekcijų darbuotojai
  
-     1.
+     1.
 Valstybinių mokesčių inspekcijų darbuotojus priima ir atleidžia iš darbo tos
 mokesčių inspekcijos, į kurią jie priimami dirbti, viršininkas.
-     2.
+     2.
 Centrinis mokesčio administratorius nustato reikalavimus, pagal kuriuos yra
 atrenkami valstybinės mokesčių inspekcijos darbuotojai, taip pat procedūras,
 pagal kurias darbuotojai gali būti skiriami į aukštesnes pareigas bei didinami
@@ -550,47 +375,47 @@ jų atlyginimai. Šie reikalavimai turi būti susiję tik su mokesčių inspekci
 darbuotojų sugebėjimu atlikti darbą pagal patvirtintas pareigines instrukcijas
 ir einamas pareigas.
  
-     13
+     13
 straipsnis. Valstybinės mokesčių inspekcijos darbo apmokėjimas ir socialinės
 garantijos
  
-     Valstybinės
-mokesčių  inspekcijos darbuotojų  darbo  ir apmokėjimo sąlygas,  socialines
-garantijas  nustato Lietuvos Respublikos įstatymai bei poįstatyminiai teisės
+     Valstybinės
+mokesčių inspekcijos darbuotojų darbo ir apmokėjimo sąlygas, socialines
+garantijas nustato Lietuvos Respublikos įstatymai bei poįstatyminiai teisės
 aktai.
  
-     14
+     14
 straipsnis. Informacijos pateikimo mokesčių mokėtojams organizavimas
  
-     1.
+     1.
 Centrinis mokesčio administratorius organizuoja, kad mokesčių mokėtojams būtų
 pateikiama informacija apie mokesčių įstatymus bei kitus teisės aktus mokesčių
 klausimais, ir sudaro programas mokesčių mokėtojams lavinti. Šio darbo tikslas
 - padėti mokesčių mokėtojams vykdyti mokesčių įstatymus bei poįstatyminius
 teisės aktus.
-     2.
-Centrinis mokesčio administratorius organizuoja mokesčių mokėtojų švietimą 
+     2.
+Centrinis mokesčio administratorius organizuoja mokesčių mokėtojų švietimą
 mokesčių įstatymų bei kitų teisės aktų, reglamentuojančių mokesčių mokėjimo
 tvarką, klausimais.
  
-     15
+     15
 straipsnis. Mokesčio administratoriaus darbuotojų mokymo organizavimas
  
-     Centrinis
-mokesčio administratorius organizuoja valstybinės mokesčių inspekcijos
-darbuotojų mokymą (kvalifikacijos kėlimą) pagal tam tikslui parengtas mokymo
-programas.
+     Centrinis
+mokesčio administratorius organizuoja valstybinės mokesčių inspekcijos darbuotojų
+mokymą (kvalifikacijos kėlimą) pagal tam tikslui parengtas mokymo programas.
  
 IV SKYRIUS.
 MOKESČIO ADMINISTRATORIAUS TEISĖS IR PAREIGOS
  
-     16
+     16
 straipsnis. Mokesčio administratoriaus pareigos
-     1.
-Mokesčio administratorius:
-     1)
-tvarko mokesčių mokėtojų ir kitų įmokų į valstybės (savivaldybės) biudžetą bei
-fondus apskaitą;
+ 
+     1. Mokesčio
+administratorius:
+     1) tvarko
+mokesčių mokėtojų ir kitų įmokų į valstybės (savivaldybės) biudžetą bei fondus
+apskaitą;
      2)
 kontroliuoja mokesčių į valstybės (savivaldybės) biudžetą bei fondus
 apskaičiavimą, sumokėjimą, išieško laiku nesumokėtus mokesčius ir delspinigius
@@ -602,70 +427,82 @@ biudžetą bei fondus lengvatų teikimo;
      4)
 paskirsto mokesčius ir kitas įmokas į valstybės ir savivaldybių biudžetus bei
 fondus;
-     5) 
-organizuoja  konfiskuoto,  bešeimininkio,  valstybės paveldėto, į valstybės
+     5)
+organizuoja konfiskuoto, bešeimininkio, valstybės paveldėto, į valstybės
 pajamas perduoto ir paimto turto bei lobių apskaitą, įkainojimą bei
 realizavimą;
-     6)
-Lietuvos  Respublikos  Seimo,  Vyriausybės,  Finansų ministerijos pavedimu 
-leidžia teisės aktus arba rengia jų projektus mokesčių įstatymams įgyvendinti;
-     7)
-teikia paaiškinimus mokesčių mokėtojams mokesčių mokėjimo klausimais;
-     8)
-rengia ir teikia finansų ministrui mokesčių įstatymų bei Lietuvos Respublikos 
-Vyriausybės nutarimų  projektus, kitus pasiūlymus dėl apmokestinimo tvarkos
+     6) Lietuvos
+Respublikos Seimo, Vyriausybės, Finansų ministerijos pavedimu leidžia teisės
+aktus arba rengia jų projektus mokesčių įstatymams įgyvendinti;
+     7) teikia
+paaiškinimus mokesčių mokėtojams mokesčių mokėjimo klausimais;
+     8) rengia
+ir teikia finansų ministrui mokesčių įstatymų bei Lietuvos Respublikos
+Vyriausybės nutarimų projektus, kitus pasiūlymus dėl apmokestinimo tvarkos
 gerinimo;
-     9)
-pagal savo kompetenciją atlieka kvotą;
-     10)
-atlieka kituose įstatymuose nustatytas pareigas.
-     2.
-Šio  straipsnio pirmosios dalies 3 ir 4 punktuose nustatytas pareigas atlieka
+     9) pagal
+savo kompetenciją atlieka kvotą;
+     10) atlieka
+kituose įstatymuose nustatytas pareigas.]
+ 
+[1 dalis papildoma nauju 10 punktu,
+buvęs 10 punktas laikomas 11 punktu nuo 2001 m. sausio 1 d.:
+10) kontroliuoja
+labdaros ir paramos teikimą, gavimą ir naudojimą, kiek tai susiję su mokesčių
+lengvatų taikymu;
+     11) atlieka
+kituose įstatymuose nustatytas pareigas.]
+ 
+     2. Šio
+straipsnio pirmosios dalies 3 ir 4 punktuose nustatytas pareigas atlieka
 vietinis mokesčio administratorius, o 6 ir 8 punktuose - centrinis mokesčio
 administratorius. Visuose kituose punktuose nustatytas pareigas atlieka ir
 vietinis, ir centrinis mokesčio administratorius.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+Nr. VIII-1817, 00.07.11, Žin., 2000,
+Nr.61-1823 (00.07.26), įsigalioja nuo 2001.01.01
  
-     17
+     17
 straipsnis. Mokesčio administratoriaus teisės
  
-     1.
-Mokesčio administratoriaus pareigūnai turi teisę:
-     1)
-gauti iš įmonių, įstaigų bei organizacijų ir kitų asmenų, įskaitant bankus ir kitas
+     1. Mokesčio
+administratoriaus pareigūnai turi teisę:
+     1) gauti iš
+įmonių, įstaigų bei organizacijų ir kitų asmenų, įskaitant bankus ir kitas
 kredito bei finansų įstaigas, pareigoms atlikti reikalingas žinias bei
 dokumentų nuorašus apie juridinio, fizinio asmens ar neturinčio juridinio
 asmens teisių asmens turtą bei pajamas;
-     2)
-pateikęs tarnybinį pažymėjimą, norėdamas nustatyti, kad asmuo vykdo mokestines
+     2) pateikęs
+tarnybinį pažymėjimą, norėdamas nustatyti, kad asmuo vykdo mokestines
 prievoles, be išankstinio įspėjimo įeiti į asmens gamybines (įskaitant ir
 nuomojamas) patalpas arba teritoriją, tikrinti veiklai naudojamus materialinius
-techninius išteklius bei pagamintą produkciją. Mokesčio administratoriaus pareigūnas
-turi šią teisę ir tais atvejais, kai veiklai bei pajamoms  gauti  naudojamos 
-gyvenamosios  patalpos ir kiti objektai. Įmonių, įstaigų, organizacijų vadovai
-bei fiziniai asmenys,  trukdantys  mokesčio  administratoriaus  pareigūnui
-pasinaudoti šia teise, traukiami atsakomybėn įstatymų nustatyta tvarka.  Be
-išankstinio įspėjimo įeiti į mokesčio mokėtojo teritoriją,  pastatus ir
-patalpas (įskaitant ir nuomojamas) galima  tik  mokesčio mokėtojo darbo metu.
-Kitais atvejais reikalingas mokesčio mokėtojo sutikimas;
-     3)
-paimti laikinai - iki 30 dienų - iš mokesčio mokėtojo dokumentus,  reikalingus 
-mokesčio  apskaičiavimo teisingumui nustatyti,  palikus  dokumentų  paėmimo
-aktą, užantspauduoti dokumentų, vertybinių popierių, pinigų ir materialinių
-vertybių saugojimo vietas, daryti dokumentų kopijas arba išrašus, daryti žymas
-ant mokesčio mokėtojo dokumentų, kad būtų išvengta jų klastojimo;
-     4)
-duoti mokesčio mokėtojui privalomus vykdyti nurodymus mokesčio apskaičiavimo ir
-mokėjimo, kitų įmokų į valstybės (savivaldybės) biudžetą bei fondus 
-klausimais, taip pat apskaitos tvarkymo klausimais; 
+techninius išteklius bei pagamintą produkciją. Mokesčio administratoriaus
+pareigūnas turi šią teisę ir tais atvejais, kai veiklai bei pajamoms gauti
+naudojamos gyvenamosios patalpos ir kiti objektai. Įmonių, įstaigų,
+organizacijų vadovai bei fiziniai asmenys, trukdantys mokesčio
+administratoriaus pareigūnui pasinaudoti šia teise, traukiami atsakomybėn įstatymų
+nustatyta tvarka. Be išankstinio įspėjimo įeiti į mokesčio mokėtojo teritoriją,
+pastatus ir patalpas (įskaitant ir nuomojamas) galima tik mokesčio mokėtojo
+darbo metu. Kitais atvejais reikalingas mokesčio mokėtojo sutikimas;
+     3) paimti
+laikinai - iki 30 dienų - iš mokesčio mokėtojo dokumentus, reikalingus mokesčio
+apskaičiavimo teisingumui nustatyti, palikus dokumentų paėmimo aktą,
+užantspauduoti dokumentų, vertybinių popierių, pinigų ir materialinių vertybių
+saugojimo vietas, daryti dokumentų kopijas arba išrašus, daryti žymas ant
+mokesčio mokėtojo dokumentų, kad būtų išvengta jų klastojimo;
+     4) duoti
+mokesčio mokėtojui privalomus vykdyti nurodymus mokesčio apskaičiavimo ir
+mokėjimo, kitų įmokų į valstybės (savivaldybės) biudžetą bei fondus klausimais,
+taip pat apskaitos tvarkymo klausimais; 
 5) išieškoti ne ginčo
 tvarka iš asmenų sąskaitų bankų įstaigose laiku nesumokėtus mokesčius,
 delspinigius, baudas ir kitas valstybės (savivaldybės) biudžetams bei fondams
 priklausančias sumas;
-   6) duoti
+ 6) duoti
 nurodymus banko įstaigoms nutraukti pinigų išdavimą bei pervedimą iš įmonių
 sąskaitų, išskyrus privalomus mokėjimus į valstybės (savivaldybės) biudžetus
 bei fondus, jeigu jos neleidžia patikrinti, ar mokesčiai apskaičiuoti ir
@@ -673,330 +510,342 @@ sumokėti teisingai (nepateikia mokesčių patikrinimui atlikti visų reikaling�
 dokumentų ir duomenų) arba jei patikrinimo metu nustatomi pajamų slėpimo bei
 neteisingo mokesčio apskaičiavimo faktai ir negalima laikinai apriboti mokesčio
 mokėtojo teisės disponuoti jam priklausančiu turtu;
-     7)
-duoti mokesčio mokėtojui privalomus vykdyti nurodymus mokesčio apskaičiavimo ir
+     7) duoti
+mokesčio mokėtojui privalomus vykdyti nurodymus mokesčio apskaičiavimo ir
 mokėjimo klausimais;
-     8)
-surašyti administracinių teisės pažeidimų protokolus bylose,   kurios  pagal 
-įstatymą  priskirtos  mokesčio administratoriaus kompetencijai;
-     9)
-atlikti patys arba pareikalauti iš kitų kompetentingų institucijų  atlikti 
-kontrolinius  matavimus,  materialinių vertybių  inventorizacijas  ir  kitus 
-faktinius tikrinimus, reikalauti, kad būtų sutvarkyta buhalterinė apskaita;
-     10) 
-įrengti  mokesčio mokėtojo saugyklose, produkcijos laikymo  vietose,  kituose
-veiklai naudojamuose įrenginiuose skaitiklius  bei  matavimo  prietaisus; 
-užplombuoti  ir užantspauduoti mokesčio mokėtojo saugyklas, patalpas,
-įrengimus; uždaryti teritoriją ar jos dalis;
-     11) 
-laikinai sustabdyti asmenų veiklą, jeigu vengiama pateikti  mokesčio
+     8) surašyti
+administracinių teisės pažeidimų protokolus bylose, kurios pagal įstatymą
+priskirtos mokesčio administratoriaus kompetencijai;
+     9) atlikti
+patys arba pareikalauti iš kitų kompetentingų institucijų atlikti kontrolinius
+matavimus, materialinių vertybių inventorizacijas ir kitus faktinius
+tikrinimus, reikalauti, kad būtų sutvarkyta buhalterinė apskaita;
+     10) įrengti
+mokesčio mokėtojo saugyklose, produkcijos laikymo vietose, kituose veiklai
+naudojamuose įrenginiuose skaitiklius bei matavimo prietaisus; užplombuoti ir
+užantspauduoti mokesčio mokėtojo saugyklas, patalpas, įrengimus; uždaryti
+teritoriją ar jos dalis;
+     11)
+laikinai sustabdyti asmenų veiklą, jeigu vengiama pateikti mokesčio
 administratoriui reikalaujamus dokumentus, susijusius su mokesčio apskaičiavimu
-ir sumokėjimu, arba jeigu yra  padaryta  kitų mokesčių įstatymų pažeidimų,
-kurie yra išvardyti šio įstatymo 47, 48 ir 49 straipsniuose;
-     12)
-gauti iš mokesčio mokėtojo deklaracijas ir paaiškinimus apie turto įsigijimo
+ir sumokėjimu, arba jeigu yra padaryta kitų mokesčių įstatymų pažeidimų, kurie
+yra išvardyti šio įstatymo 47, 48 ir 49 straipsniuose;
+     12) gauti
+iš mokesčio mokėtojo deklaracijas ir paaiškinimus apie turto įsigijimo
 šaltinius;
-     13) 
-įstatymų  nustatyta  tvarka skirti administracines sankcijas, baudas, numatytas
+     13)
+įstatymų nustatyta tvarka skirti administracines sankcijas, baudas, numatytas
 mokesčių įstatymuose, taip pat apskaičiuoti delspinigius;
-     14)
-kreiptis į visų nuosavybės formų įmonių, įstaigų, organizacijų  vadovus  dėl
-aplinkybių ir sąlygų, trukdančių mokesčio  administratoriui tinkamai atlikti
-pareigas. Įmonių vadovai  bei  kiti  pareigūnai privalo išnagrinėti mokesčio
+     14)
+kreiptis į visų nuosavybės formų įmonių, įstaigų, organizacijų vadovus dėl
+aplinkybių ir sąlygų, trukdančių mokesčio administratoriui tinkamai atlikti
+pareigas. Įmonių vadovai bei kiti pareigūnai privalo išnagrinėti mokesčio
 administratoriaus nurodymus ir nedelsdami (ne vėliau kaip kitą dieną po
 nurodymų gavimo) pranešti mokesčio administratoriui apie priimtas priemones;
 15) areštuoti mokesčio mokėtojo turtą šiame įstatyme
 nustatytais pagrindais ir tvarka;
-16)  Lietuvos  Respublikos
-Vyriausybės nustatyta tvarka laikyti, nešioti ir panaudoti tarnybinį šaunamąjį
-ginklą;
- 17)
-(Neteko galios);
+16)
+Lietuvos Respublikos Vyriausybės nustatyta tvarka laikyti, nešioti ir panaudoti
+tarnybinį šaunamąjį ginklą;
+17) (Neteko
+galios);
 18) nustatyti mokesčio bazę
 netiesiogiai, pasirinkdami Vyriausybės ar jos įgaliotos institucijos
 patvirtintus metodus;
-19) Lietuvos Respublikos
-Vyriausybės nustatyta tvarka atidėti kreditorinių reikalavimų, atsiradusių dėl
-mokesčių, baudų ir delspinigių nesumokėjimo, vykdymo terminus arba jų
-atsisakyti ar pakeisti piniginę prievolę kita prievole (atsiskaityti turtu,
-akcijomis ir vertybiniais popieriais), kai bankrutuojanti įmonė sanuojama ar
-sudaroma taikos sutartis;
+19)
+Lietuvos Respublikos Vyriausybės nustatyta tvarka atidėti kreditorinių reikalavimų,
+atsiradusių dėl mokesčių, baudų ir delspinigių nesumokėjimo, vykdymo terminus
+arba jų atsisakyti ar pakeisti piniginę prievolę kita prievole (atsiskaityti
+turtu, akcijomis ir vertybiniais popieriais), kai bankrutuojanti įmonė
+sanuojama ar sudaroma taikos sutartis;
 20) Vyriausybės
 ar jos įgaliotos institucijos nustatyta tvarka sustabdyti mokesčio permokos
 (visos ar jos dalies) arba mokesčio skirtumo (viso ar jo dalies) grąžinimą
-(įskaitymą), jeigu yra pagrindo manyti, kad pateikti neteisingi duomenys,
-suklastoti dokumentai, ir todėl dokumentams įvertinti, pateiktų duomenų
-pagrįstumui patikrinti yra būtina atlikti papildomą tyrimą, iš kitų valstybės
-institucijų, užsienio valstybių bei užsienio valstybių institucijų gauti
-papildomos informacijos dėl mokesčio mokėtojo pateiktų duomenų tikrumo.
-    2. Mokesčio
+(įskaitymą), jeigu yra pagrindo manyti, kad pateikti neteisingi duomenys, suklastoti
+dokumentai, ir todėl dokumentams įvertinti, pateiktų duomenų pagrįstumui
+patikrinti yra būtina atlikti papildomą tyrimą, iš kitų valstybės institucijų,
+užsienio valstybių bei užsienio valstybių institucijų gauti papildomos
+informacijos dėl mokesčio mokėtojo pateiktų duomenų tikrumo.
+2. Mokesčio
 administratorius šiame straipsnyje išvardytas teises turi ir dėl mokestį
 išskaičiuojančio asmens.
-     3.
-Naudotis  kitų įstatymų,  teisės aktų bei Lietuvos Respublikos Vyriausybės 
-nutarimų mokesčio  administratoriaus pareigūnui suteiktomis teisėmis.
+     3. Naudotis
+kitų įstatymų, teisės aktų bei Lietuvos Respublikos Vyriausybės nutarimų
+mokesčio administratoriaus pareigūnui suteiktomis teisėmis.
 Straipsnio
 pakeitimai:
 Nr.
-I-1416, 96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12) 
+I-1416,
+96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12) 
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+Nr. VIII-963,
+98.12.10, Žin., 1998, Nr.114-3190 (98.12.30)
 Nr.
-VIII-963, 98.12.10, Žin., 1998, Nr.114-3190 (98.12.30)
-Nr.
-VIII-1122, 99.04.06, Žin., 1999, Nr.36-1060 (99.04.23)
-Nr. VIII-1382, 99.11.04, Žin., 1999, Nr.101-2903
-(99.11.26)
+VIII-1122,
+99.04.06, Žin., 1999, Nr.36-1060 (99.04.23)
+Nr. VIII-1382, 99.11.04, Žin., 1999,
+Nr.101-2903 (99.11.26)
  
-     18
+ 
+            18
 straipsnis. Mokesčio administratoriaus ir jo pareigūno veiksmų įforminimas
  
-     Mokesčio
+            Mokesčio
 administratorius ar jo pareigūnas, įgyvendindamas jam įstatymo suteiktas teises
 ir eidamas pareigas, atliekamus veiksmus įformina sprendimais, kurių formas
 (aktas, pažyma, nurodymas, teikimas, paaiškinimas, nutarimas, raginimas ir kt.)
 ir užpildymo tvarką nustato centrinis mokesčio administratorius.
  
-       V SKYRIUS. MOKESČIO MOKĖTOJO IR
-MOKESTĮ IŠSKAIČIUOJANČIO ASMENS
+             V SKYRIUS. MOKESČIO
+MOKĖTOJO IR MOKESTĮ IŠSKAIČIUOJANČIO ASMENS
 TEISĖS IR PAREIGOS
  
-     19
+     19
 straipsnis. Mokesčių mokėjimas
  
-     1.
-Mokesčio mokėtojas moka tik mokesčių įstatymų nustatytus mokesčius,
-laikydamasis mokesčių įstatymų, taip pat šio įstatymo nustatytos mokesčio
-apskaičiavimo ir mokėjimo tvarkos.
-     2.
-Mokestį išskaičiuojantis asmuo išskaičiuoja mokestį ir perveda jį laikydamasis
-įstatymų ir kitų norminių aktų nustatytos tvarkos.
+     1. Mokesčio
+mokėtojas moka tik mokesčių įstatymų nustatytus mokesčius, laikydamasis
+mokesčių įstatymų, taip pat šio įstatymo nustatytos mokesčio apskaičiavimo ir
+mokėjimo tvarkos.
+     2. Mokestį
+išskaičiuojantis asmuo išskaičiuoja mokestį ir perveda jį laikydamasis įstatymų
+ir kitų norminių aktų nustatytos tvarkos.
  
-     20
+     20
 straipsnis. Informacijos kaupimas ir pateikimas
  
-     1.
-Mokesčio  mokėtojas, mokestį  išskaičiuojantis asmuo privalo tvarkyti apskaitą
-įstatymo nustatyta tvarka, išduoti reikalaujamus dokumentus bei teikti kitą
-informaciją, reikalingą mokesčio  administratoriui,  pildyti  ir  pateikti 
-mokesčio deklaraciją arba  kitokiu mokesčio  įstatymo nustatytu būdu pranešti
-mokesčio administratoriui apie mokesčio apskaičiavimą ir sumokėjimą.
-     2.
-Jeigu mokesčio mokėtojas, mokestį išskaičiuojantis asmuo neturi dokumentų (ar
-juos yra praradęs), reikalingų mokesčiui apskaičiuoti,  privalo   juos 
-parengti   per  mokesčio administratoriaus nustatytą laiką.
-     3.
-Mokesčio  mokėtojas, mokestį  išskaičiuojantis asmuo nustatyta tvarka mokesčio
+     1. Mokesčio
+mokėtojas, mokestį išskaičiuojantis asmuo privalo tvarkyti apskaitą įstatymo
+nustatyta tvarka, išduoti reikalaujamus dokumentus bei teikti kitą informaciją,
+reikalingą mokesčio administratoriui, pildyti ir pateikti mokesčio deklaraciją
+arba kitokiu mokesčio įstatymo nustatytu būdu pranešti mokesčio
+administratoriui apie mokesčio apskaičiavimą ir sumokėjimą.
+     2. Jeigu
+mokesčio mokėtojas, mokestį išskaičiuojantis asmuo neturi dokumentų (ar juos
+yra praradęs), reikalingų mokesčiui apskaičiuoti, privalo juos parengti per
+mokesčio administratoriaus nustatytą laiką.
+     3. Mokesčio
+mokėtojas, mokestį išskaičiuojantis asmuo nustatyta tvarka mokesčio
 administratoriui privalo nurodyti savo adresą (veiklos vietą) ir darbo laiką, o
 pasikeitus šiems duomenims, ne vėliau kaip per 5 darbo dienas informuoti apie
 tai mokesčio administratorių.
  
-     21
+     21
 straipsnis. Teisė į informaciją
  
-     Mokesčio
+     Mokesčio
 mokėtojas, mokestį išskaičiuojantis asmuo pateikęs paklausimą mokesčio
 administratoriui, turi teisę gauti norminius dokumentus bei kitą informaciją,
 reikalingą mokesčio įstatymui vykdyti.
  
-     22
+     22
 straipsnis. Informacijos apie mokesčio mokėtoją paslaptis
  
-     1.
+     1.
 Informacija apie mokesčio mokėtoją, pateikta mokesčio administratoriui arba jo
-pareigūnui, turi būti laikoma paslaptyje ir naudojama tik mokesčio įstatymo nustatytiems
-tikslams.
-     2.
-Mokesčio administratoriaus pareigūnas informaciją apie mokesčio mokėtoją laiko
+pareigūnui, turi būti laikoma paslaptyje ir naudojama tik mokesčio įstatymo
+nustatytiems tikslams.
+     2. Mokesčio
+administratoriaus pareigūnas informaciją apie mokesčio mokėtoją laiko
 paslaptyje taip pat ir nutraukęs darbo sutartį su darbdaviu, išskyrus šiame
 įstatyme numatytus atvejus.
-     3.
+     3.
 Informacija, susijusi su mokesčio mokėtoju, gali būti paskleista:
-     1)
-kitam  valstybės mokesčio  administratoriui arba jo pareigūnui, jeigu tai
-būtina administruojant tą patį arba kitą mokestį;
-     2)
+     1) kitam
+valstybės mokesčio administratoriui arba jo pareigūnui, jeigu tai būtina
+administruojant tą patį arba kitą mokestį;
+     2)
 teismams, teisėsaugos ir kitoms institucijoms įstatymų nustatytais atvejais;
 3) Lietuvos
 Respublikos Vyriausybės įgaliotai institucijai Vyriausybės nustatyta tvarka
 įmonių veiklos analizei atlikti;
-     4)
+     4)
 vadovaujantis tarptautinėmis sutartimis, užsienio šalies mokesčio
 administratoriui pagal raštišką paklausimą;
-     5)
-kai  mokesčio mokėtojo  kaltė už mokesčio įstatymo pažeidimus įrodyta arba kai
-mokesčio mokėtojas per šio įstatymo nustatytą laiką  ir nustatyta  tvarka 
-neapskundė  mokesčio administratoriaus veiksmų. Šiuo atveju informacija apie
+     5) kai
+mokesčio mokėtojo kaltė už mokesčio įstatymo pažeidimus įrodyta arba kai
+mokesčio mokėtojas per šio įstatymo nustatytą laiką ir nustatyta tvarka
+neapskundė mokesčio administratoriaus veiksmų. Šiuo atveju informacija apie
 mokesčio mokėtoją gali būti paskleista tik tiek, kiek tai yra susiję su
 mokesčio įstatymo pažeidimu;
-     6)
+     6)
 informacija, susijusi su mokesčio mokėtoju, gali būti taip pat paskleista esant
 raštiškam mokesčio mokėtojo sutikimui arba jo prašymui.
-     4.
-Asmuo,  gaunantis informaciją  pagal šio straipsnio trečiosios dalies 1, 2, 3,
-4 punktus, privalo ją saugoti paslaptyje.
-     5.
-Jeigu mokesčio administratorius šio straipsnio trečiojoje dalyje numatytais
-atvejais paskleidė neteisingą informaciją apie mokesčio mokėtoją, privalo
-ištaisyti klaidą tuojau pat po to, kai buvo apie ją sužinota.
-     6.
-Jeigu mokesčio administratorius paskleidžia informaciją pagal šio straipsnio
+     4. Asmuo,
+gaunantis informaciją pagal šio straipsnio trečiosios dalies 1, 2, 3, 4
+punktus, privalo ją saugoti paslaptyje.
+     5. Jeigu
+mokesčio administratorius šio straipsnio trečiojoje dalyje numatytais atvejais
+paskleidė neteisingą informaciją apie mokesčio mokėtoją, privalo ištaisyti
+klaidą tuojau pat po to, kai buvo apie ją sužinota.
+     6. Jeigu
+mokesčio administratorius paskleidžia informaciją pagal šio straipsnio
 trečiosios dalies 4 punktą užsienio šalies mokesčio administratoriui, apie tai
 būtina informuoti mokesčio mokėtoją.
-     7.
-Mokesčio administratorius, taip pat bet kuris kitas asmuo, kuriam buvo
-paskleista su mokesčio mokėtoju susijusi slapta informacija, atsako už šios
-informacijos paskleidimą įstatymų nustatyta  tvarka, išskyrus atvejus, kai
-įstatymai leidžia tokią informaciją skleisti.
-     8.
-Šio  straipsnio  reikalavimai  taikomi  ir  mokestį išskaičiuojančiam asmeniui.
+     7. Mokesčio
+administratorius, taip pat bet kuris kitas asmuo, kuriam buvo paskleista su
+mokesčio mokėtoju susijusi slapta informacija, atsako už šios informacijos
+paskleidimą įstatymų nustatyta tvarka, išskyrus atvejus, kai įstatymai leidžia
+tokią informaciją skleisti.
+     8. Šio
+straipsnio reikalavimai taikomi ir mokestį išskaičiuojančiam asmeniui.
 Straipsnio
 pakeitimai:
-Nr.
-VIII-892, 98.10.15, Žin., 1998, Nr.95-2635 (98.10.30)
+Nr. VIII-892,
+98.10.15, Žin., 1998, Nr.95-2635 (98.10.30)
+ 
  
 VI SKYRIUS.
 MOKESČIO APSKAIČIAVIMAS, SUMOKĖJIMAS,
 IŠIEŠKOJIMAS IR
 GRĄŽINIMAS
  
-     23
+     23
 straipsnis. Mokesčio deklaracijos reikalavimai
  
-     1.
-Kiekviena  mokesčio mokėtojo  mokesčio  deklaracija, pateikiama mokesčio
+     1.
+Kiekviena mokesčio mokėtojo mokesčio deklaracija, pateikiama mokesčio
 administratoriui, turi atitikti nustatytą formą. Mokesčio deklaracija
 pateikiama nustatytu laiku ir tik tam mokesčio administratoriui, kuriam ji
 skirta.
-     2.
-Šio straipsnio pirmojoje dalyje nurodyti reikalavimai taikomi ir mokesčio
+     2. Šio
+straipsnio pirmojoje dalyje nurodyti reikalavimai taikomi ir mokesčio
 deklaracijai, kurią mokesčio administratoriui turi pateikti mokestį
 išskaičiuojantis asmuo.
-     3.
-Mokesčio deklaracijos arba kito dokumento, rodančio mokestinę prievolę, formas
-ir užpildymo tvarką nustato centrinis mokesčio administratorius, vadovaudamasis
+     3. Mokesčio
+deklaracijos arba kito dokumento, rodančio mokestinę prievolę, formas ir
+užpildymo tvarką nustato centrinis mokesčio administratorius, vadovaudamasis
 mokesčių įstatymais.
  
-     24
+     24
 straipsnis. Apskaičiavimo (perskaičiavimo) laikotarpis
  
-     1.
-Jeigu kitaip nenustatyta mokesčio įstatyme, mokestį apskaičiuoti arba 
-perskaičiuoti galima ne daugiau kaip už penkerius praėjusius kalendorinius
-metus, už kuriuos mokesčio administratoriui turėjo būti pateikta mokesčio
-deklaracija.
-     2.
-Jeigu mokesčio administratoriui pagal mokesčio įstatymą nereikia pateikti
-mokesčio deklaracijos, mokestį apskaičiuoti arba perskaičiuoti galima ne vėliau
-kaip penktaisiais metais po tų kalendorinių metų, kuriais mokestis turėjo būti
-arba buvo sumokėtas.
-     3. 
-Jeigu  mokesčio  mokėtojas  nepateikia  mokesčio deklaracijos, pateikia
-neteisingą mokesčio deklaraciją ar kitaip vengia mokėti mokestį ir jeigu
-mokesčio įstatymas nenustato kitaip, mokestį apskaičiuoti arba perskaičiuoti
-galima ne daugiau kaip už dešimtį praėjusių kalendorinių metų, už kuriuos
-mokesčio administratoriui turėjo būti pateikta mokesčio deklaracija. Ši
-taisyklė taip pat taikoma ir mokestį išskaičiuojančiam asmeniui.
+     1. Jeigu
+kitaip nenustatyta mokesčio įstatyme, mokestį apskaičiuoti arba perskaičiuoti
+galima ne daugiau kaip už penkerius praėjusius kalendorinius metus, už kuriuos
+mokesčio administratoriui turėjo būti pateikta mokesčio deklaracija.
+     2. Jeigu
+mokesčio administratoriui pagal mokesčio įstatymą nereikia pateikti mokesčio
+deklaracijos, mokestį apskaičiuoti arba perskaičiuoti galima ne vėliau kaip
+penktaisiais metais po tų kalendorinių metų, kuriais mokestis turėjo būti arba
+buvo sumokėtas.
+     3. Jeigu
+mokesčio mokėtojas nepateikia mokesčio deklaracijos, pateikia neteisingą
+mokesčio deklaraciją ar kitaip vengia mokėti mokestį ir jeigu mokesčio
+įstatymas nenustato kitaip, mokestį apskaičiuoti arba perskaičiuoti galima ne
+daugiau kaip už dešimtį praėjusių kalendorinių metų, už kuriuos mokesčio
+administratoriui turėjo būti pateikta mokesčio deklaracija. Ši taisyklė taip
+pat taikoma ir mokestį išskaičiuojančiam asmeniui.
  
-     25
+     25
 straipsnis. Mokesčio lengvatos
-     1.
-Mokesčio lengvatą ar lengvatas nustato tik atitinkamas mokesčio įstatymas,
+ 
+     1. Mokesčio
+lengvatą ar lengvatas nustato tik atitinkamas mokesčio įstatymas,
 reglamentuojantis to mokesčio apskaičiavimo tvarką. Šis įstatymas gali numatyti
 mokesčio, baudų ar delspinigių mokėjimo lengvatas, nesusijusias su mokesčio
 apskaičiavimo tvarka arba mokesčio tarifu. Laikinos mokesčių lengvatos gali
 būti nustatomos ir specialiuose Lietuvos Respublikos Seimo priimtuose mokesčių
 įstatymuose.
-     2.
+     2.
 Specialiu mokesčio įstatymu laikomas įstatymas, kuris nustato apmokestinimo
 tvarkos išimtis, nenumatytas šio įstatymo 5 straipsnio pirmojoje dalyje
 išvardytų mokesčių įstatymuose.
-3. Lietuvos Respublikos
-Vyriausybės nustatytais atvejais ir tvarka, kai bankrutuojanti įmonė sanuojama
-ar sudaroma taikos sutartis, piniginės prievolės gali būti įskaitytos ne tik
-pinigais, bet ir kitokia nustatyta forma (turtu, akcijomis ir vertybiniais
-popieriais), gali būti atidėtas jų vykdymo terminas arba atsisakyta
-reikalavimų, kylančių iš šių piniginių prievolių.
+3. Lietuvos
+Respublikos Vyriausybės nustatytais atvejais ir tvarka, kai bankrutuojanti
+įmonė sanuojama ar sudaroma taikos sutartis, piniginės prievolės gali būti
+įskaitytos ne tik pinigais, bet ir kitokia nustatyta forma (turtu, akcijomis ir
+vertybiniais popieriais), gali būti atidėtas jų vykdymo terminas arba
+atsisakyta reikalavimų, kylančių iš šių piniginių prievolių.
 Straipsnio
 pakeitimai:
 Nr.
-I-1416, 96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
+I-1416,
+96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
 Nr.
-VIII-107, 97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
-Nr.
-VIII-963, 98.12.10, Žin., 1998, Nr.114-3190 (98.12.30)
+VIII-107,
+97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
+Nr. VIII-963,
+98.12.10, Žin., 1998, Nr.114-3190 (98.12.30)
  
-     26
+ 
+     26
 straipsnis. Mokesčio apskaičiavimo teisingumo įrodymas
  
-     1.
-Jeigu  mokesčio  mokėtojas  nesutinka  su  mokesčio administratoriaus
-apskaičiuota  mokesčio suma,  jis  privalo įrodyti, kad apskaičiuotoji suma yra
-neteisinga.
-     
+     1. Jeigu
+mokesčio mokėtojas nesutinka su mokesčio administratoriaus apskaičiuota
+mokesčio suma, jis privalo įrodyti, kad apskaičiuotoji suma yra neteisinga.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-     26(1)
+ 
+     26(1)
 straipsnis. Žinių ir informacijos pateikimas mokesčio administratoriui
  
-     1.
-Lietuvos Respublikos registruotos visų rūšių įmonės, įstaigos ir organizacijos,
+     1. Lietuvos
+Respublikos registruotos visų rūšių įmonės, įstaigos ir organizacijos,
 atsiskaitydamos tarpusavyje bei su užsienio subjektais (išskyrus fizinius
 asmenis) už prekes ir paslaugas grynaisiais pinigais, privalo pateikti vietos
-mokesčio administratoriui žinias Finansų ministerijos nustatyta tvarka apie  išmokėtas 
-per  dieną  vienam  ūkio subjektui sumas, viršijančias  10  000 Lt. Jei suma
-išmokama užsienio ūkio subjektui valiuta, tai ji skaičiuojama pagal tos dienos
-oficialų lito kursą ir Lietuvos banko skelbiamą lito ir užsienio valiutos
-santykį.
-     2.
-Šio straipsnio 1 dalyje nurodytos žinios pateikiamos mokesčio 
-administratoriui,  kurio  veiklos  teritorijoje registruotas  pajamas  gavęs
-ūkio subjektas, per 10 dienų, pasibaigus mėnesiui, kurį šios sumos buvo
-išmokėtos. Žinios apie užsienio ūkio subjektams išmokėtas sumas pateikiamos
-centriniam mokesčio administratoriui.
+mokesčio administratoriui žinias Finansų ministerijos nustatyta tvarka apie
+išmokėtas per dieną vienam ūkio subjektui sumas, viršijančias 10 000 Lt. Jei
+suma išmokama užsienio ūkio subjektui valiuta, tai ji skaičiuojama pagal tos
+dienos oficialų lito kursą ir Lietuvos banko skelbiamą lito ir užsienio
+valiutos santykį.
+     2. Šio
+straipsnio 1 dalyje nurodytos žinios pateikiamos mokesčio administratoriui,
+kurio veiklos teritorijoje registruotas pajamas gavęs ūkio subjektas, per 10
+dienų, pasibaigus mėnesiui, kurį šios sumos buvo išmokėtos. Žinios apie
+užsienio ūkio subjektams išmokėtas sumas pateikiamos centriniam mokesčio
+administratoriui.
      3. Asmenys,
 nepateikę ar pavėluotai pateikę šio straipsnio 1 dalyje nurodytas žinias,
 traukiami administracinėn atsakomybėn.
-     4.
+     4.
 Komerciniai bankai privalo iki kiekvieno mėnesio 5 dienos pateikti centriniam
 mokesčio administratoriui informaciją apie praėjusį mėnesį ūkio subjektų
 atidarytas ir uždarytas visų rūšių sąskaitas.
-     5.
-Už klaidingos informacijos apie atidarytas sąskaitas pateikimą  ar 
-nepateikimą  komercinių bankų vadovai atsako Administracinių teisės pažeidimų
-kodekso nustatyta tvarka.
+     5. Už
+klaidingos informacijos apie atidarytas sąskaitas pateikimą ar nepateikimą
+komercinių bankų vadovai atsako Administracinių teisės pažeidimų kodekso
+nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-I-1382, 96.06.13, Žin., 1996, Nr. 59-1404 (96.06.22)
+I-1382,
+96.06.13, Žin., 1996, Nr. 59-1404 (96.06.22)
+Nr. VIII-164,
+97.03.27, Žin., 1997, Nr.28-660 (97.03.29)
 Nr.
-VIII-164, 97.03.27, Žin., 1997, Nr.28-660 (97.03.29)
-Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-     27
-straipsnis. Mokesčio apskaičiavimo ir sumokėjimo tikrinimas
  
-     1. 
-Atlikęs  patikrinimą,  mokesčio  administratoriaus pareigūnas(ai) surašo aktą,
-kurį pasirašo patikrinimą atlikęs mokesčio administratoriaus pareigūnas(ai) bei
+     27 straipsnis.
+Mokesčio apskaičiavimo ir sumokėjimo tikrinimas
+ 
+     1. Atlikęs
+patikrinimą, mokesčio administratoriaus pareigūnas(ai) surašo aktą, kurį
+pasirašo patikrinimą atlikęs mokesčio administratoriaus pareigūnas(ai) bei
 tikrintos įmonės, įstaigos, organizacijos vadovas ir vyriausiasis finansininkas
 (buhalteris) arba fizinis asmuo.
-     2.
-Atsisakymas  pasirašyti patikrinimo dokumentą (aktą) neatleidžia mokesčio
+     2.
+Atsisakymas pasirašyti patikrinimo dokumentą (aktą) neatleidžia mokesčio
 mokėtojo nuo mokesčių, delspinigių ir baudų mokėjimo.
-     3.
-Mokesčio  administratoriaus pareigūnai  savarankiškai pasirenka tikrintinus
-mokesčių mokėtojus, nustato tikrinimo mastą ir laiką.
-     4.
-Mokesčio  mokėtojas, mokestį  išskaičiuojantis asmuo privalo sudaryti  darbo
-sąlygas  mokesčio  administratoriaus pareigūnams, pateikti visus dokumentus,
-reikalingus mokesčio apskaičiavimo ir sumokėjimo teisingumui patikrinti.
+     3. Mokesčio
+administratoriaus pareigūnai savarankiškai pasirenka tikrintinus mokesčių
+mokėtojus, nustato tikrinimo mastą ir laiką.
+     4. Mokesčio
+mokėtojas, mokestį išskaičiuojantis asmuo privalo sudaryti darbo sąlygas
+mokesčio administratoriaus pareigūnams, pateikti visus dokumentus, reikalingus
+mokesčio apskaičiavimo ir sumokėjimo teisingumui patikrinti.
  5. Jei
 patikrinimo metu nustatoma, kad mokesčio mokėtojo pateiktas apskaitos
 dokumentas neturi juridinės galios, nes jame trūksta vieno ar kelių privalomų
@@ -1007,12 +856,14 @@ juridinę galią ir ekonominės sankcijos netaikomos.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-  271
+ 
+271
 straipsnis. Mokesčio bazės netiesioginis nustatymas
  
-   Jei mokesčio
+Jei mokesčio
 bazės neįmanoma nustatyti mokesčio įstatymo nustatyta tvarka, mokesčio
 administratorius, atsižvelgdamas į faktus, aplinkybes bei kitą turimą
 informaciją, turi teisę netiesiogiai nustatyti mokesčio bazę ir pasirinkti
@@ -1021,7 +872,9 @@ metodus tvirtina Vyriausybė ar jos įgaliota institucija.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+ 
  
 272
 straipsnis. Mokesčio apskaičiavimas pagal valstybės institucijų dokumentus
@@ -1036,37 +889,42 @@ atlikti mokesčio administravimo veiksmų. Mokesčio administratoriui kartu su
 aktais pateikiamos pažeidimus patvirtinančių dokumentų kopijos, skaičiavimų
 duomenys ar kiti priedai. Šiuo atveju pakartotinai arba papildomai tikrinti
 mokesčio mokėtojo komercinę, ūkinę ar finansinę veiklą mokesčio
-administratorius neprivalo. Tokiu būdu apskaičiavęs mokestį, mokesčio
-administratoriaus pareigūnas surašo aktą šio įstatymo 27 straipsnyje nustatyta
-tvarka. Tais atvejais, kai iškyla abejonių dėl minėtų institucijų apskaičiavimų
-pagrįstumo ir teisingumo, mokesčio administratorius turi teisę jų pareikalauti
-atlikti pakartotinį patikrinimą, konkrečiai nurodydamas, dėl ko nesutinkama,
-arba pats šio įstatymo nustatyta tvarka pakartotinai patikrinti, ar teisingai
+administratorius neprivalo. Tokiu būdu apskaičiavęs mokestį, mokesčio administratoriaus
+pareigūnas surašo aktą šio įstatymo 27 straipsnyje nustatyta tvarka. Tais
+atvejais, kai iškyla abejonių dėl minėtų institucijų apskaičiavimų pagrįstumo
+ir teisingumo, mokesčio administratorius turi teisę jų pareikalauti atlikti
+pakartotinį patikrinimą, konkrečiai nurodydamas, dėl ko nesutinkama, arba pats
+šio įstatymo nustatyta tvarka pakartotinai patikrinti, ar teisingai
 apskaičiuoti ir sumokėti mokesčiai. 
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-     28
-straipsnis. Mokesčių paskirstymas
  
-     1.
-Mokesčiai ir kitos įmokos į valstybės (savivaldybės) biudžetą bei fondus
-paskirstomi taip, kaip nustatyta Lietuvos Respublikos biudžetinės sandaros
-įstatyme bei mokesčių įstatymuose. Jeigu nėra nurodyta, kur kaupiami mokesčiai
-ar kitos biudžetams priklausančios sumos, jie įskaitomi į valstybės biudžetą.
-     2. Pajamos
-iš delspinigių arba baudų už pavėluotą, mažesnio mokesčio sumokėjimą arba
-visišką nesumokėjimą kaupiamos tokia pat tvarka, kaip  ir mokesčiai,  už kurių 
-netinkamą  mokėjimą delspinigiai arba baudos buvo apskaičiuotos.
+            28 straipsnis. Mokesčių
+paskirstymas
+ 
+            1. Mokesčiai ir kitos įmokos
+į valstybės (savivaldybės) biudžetą bei fondus paskirstomi taip, kaip nustatyta
+Lietuvos Respublikos biudžetinės sandaros įstatyme bei mokesčių įstatymuose.
+Jeigu nėra nurodyta, kur kaupiami mokesčiai ar kitos biudžetams priklausančios
+sumos, jie įskaitomi į valstybės biudžetą.
+            2. Pajamos iš delspinigių
+arba baudų už pavėluotą, mažesnio mokesčio sumokėjimą arba visišką nesumokėjimą
+kaupiamos tokia pat tvarka, kaip ir mokesčiai, už kurių netinkamą mokėjimą
+delspinigiai arba baudos buvo apskaičiuotos.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
  
-     29
-straipsnis. Mokesčio sumokėjimas ir išieškojimas
+ 
+            29 straipsnis. Mokesčio
+sumokėjimas ir išieškojimas
+ 
 1. Mokesčio
 sumokėjimo terminą nustato mokesčio įstatymas.
 2. Mokesčio
@@ -1137,20 +995,19 @@ beviltiška, jeigu yra šie pagrindai:
 1) mirė mokesčio
 mokėtojas (fizinis asmuo), o nepriemokos išieškoti iš palikimo negalima;
 likviduotas mokesčio mokėtojas (juridinis asmuo); 
-2) bankrutuojančią
-įmonę sanuoja valstybė, kuriai yra perleidžiama atitinkama įmonės turto dalis
-ir dėl to įmonė atleidžiama nuo nepriemokos ar jos dalies arba su
-bankrutuojančia įmone sudaroma taikos sutartis ir ji atleidžiama nuo
+2)
+bankrutuojančią įmonę sanuoja valstybė, kuriai yra perleidžiama atitinkama
+įmonės turto dalis ir dėl to įmonė atleidžiama nuo nepriemokos ar jos dalies
+arba su bankrutuojančia įmone sudaroma taikos sutartis ir ji atleidžiama nuo
 nepriemokos dalies;
-         3) netikslinga išieškoti
-mokesčių ir baudų nepriemokas, susidariusias iki 
-1998 m. gruodžio 31 d., bei su šiomis mokesčių ir baudų nepriemokomis
-susijusius delspinigius, kadangi mokesčio mokėtojas Vyriausybės nustatyta
-tvarka už mokesčių ir baudų nepriemokas, susidariusias iki 1998 m. gruodžio 31
-d., atsiskaitė akcijomis ir turtu arba šias mokesčių ir baudų nepriemokas
-sumokėjo, taip pat iki sprendimo pripažinti šias mokestines nepriemokas
-beviltiškomis yra sumokėjęs visus po 1998 m. gruodžio 31d. atsiradusius
-mokėtinus mokesčius; 
+3) netikslinga
+išieškoti mokesčių ir baudų nepriemokas, susidariusias iki 1998 m. gruodžio 31
+d., bei su šiomis mokesčių ir baudų nepriemokomis susijusius delspinigius,
+kadangi mokesčio mokėtojas Vyriausybės nustatyta tvarka už mokesčių ir baudų
+nepriemokas, susidariusias iki 1998 m. gruodžio 31 d., atsiskaitė akcijomis ir
+turtu arba šias mokesčių ir baudų nepriemokas sumokėjo, taip pat iki sprendimo
+pripažinti šias mokestines nepriemokas beviltiškomis yra sumokėjęs visus po
+1998 m. gruodžio 31d. atsiradusius mokėtinus mokesčius; 
 4) netikslinga
 išieškoti nepriemoką, susidariusią iki 1999 m. gruodžio 31 d., tais atvejais ir
 tokio dydžio, kai ji pasibaigia įskaitant priešpriešinius mokesčio mokėtojo ir
@@ -1209,9 +1066,9 @@ mokesčio nesumokėjimu ar sumokėjimu ne laiku susiję delspinigiai, su nesumok
 ar sumokėta ne laiku bauda susiję delspinigiai, su pagal mokestinės paskolos
 sutartis atidėtų mokesčių, delspinigių, baudų sumomis susijusios palūkanos,
 padidintos palūkanos, delspinigiai.
-     12. Mokesčio mokėtojo mokestinių
-nepriemokų pripažinimo beviltiškomis, jų pasibaigimo, priskyrimo vietos
-mokesčio administratoriaus biudžeto pajamų apskaitos dokumentuose prie
+            12. Mokesčio mokėtojo
+mokestinių nepriemokų pripažinimo beviltiškomis, jų pasibaigimo, priskyrimo
+vietos mokesčio administratoriaus biudžeto pajamų apskaitos dokumentuose prie
 mokestinių nepriemokų, kurioms neteikiama išieškojimo pirmenybė ir į kurias
 neatsižvelgiama planuojant biudžeto pajamas, šių nepriemokų nurašymo iš vietos
 mokesčio administratoriaus apskaitos dokumentų ir apskaitos tvarką bei
@@ -1219,29 +1076,34 @@ išieškojimo išlaidų apskaičiavimo metodiką nustato finansų ministras.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
-Nr. VIII-1533, 00.02.08, Žin., 2000, Nr.15-381
-(00.02.23)
-Nr. VIII-1559, 00.02.17, Žin., 2000, Nr.22-555
-(00.03.15)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+Nr. VIII-1533, 00.02.08, Žin., 2000,
+Nr.15-381 (00.02.23)
+Nr. VIII-1559, 00.02.17, Žin., 2000,
+Nr.22-555 (00.03.15)
+ 
  
 291
 straipsnis. (Neteko galios)
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
-Nr. VIII-1382, 99.11.04, Žin., 1999, Nr.101-2903
-(99.11.26)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+Nr. VIII-1382, 99.11.04, Žin., 1999,
+Nr.101-2903 (99.11.26)
+ 
  
 30 straipsnis.
 Raginimas mokestines prievoles įvykdyti geruoju
-1. Mokesčio
-administratorius, prieš pasinaudodamas savo teise priverstine tvarka išieškoti
-nesumokėtą mokestį, delspinigius, baudas ir kitas įmokas (išskyrus deklaruotą
-mokestį ir šio mokesčio delspinigius), nusiunčia mokesčio mokėtojui raginimą
-geruoju sumokėti mokestį, delspinigius, baudas ir kitas įmokas. Raginimas
-siunčiamas, kai:
+ 
+1. Mokesčio administratorius,
+prieš pasinaudodamas savo teise priverstine tvarka išieškoti nesumokėtą
+mokestį, delspinigius, baudas ir kitas įmokas (išskyrus deklaruotą mokestį ir
+šio mokesčio delspinigius), nusiunčia mokesčio mokėtojui raginimą geruoju
+sumokėti mokestį, delspinigius, baudas ir kitas įmokas. Raginimas siunčiamas,
+kai:
 1) mokesčio
 mokėtojas per 20 dienų nesumokėjo (nepervedė) patikrinimo, ar teisingai
 apskaičiuotas ir sumokėtas mokestis, akte nurodytų priskaičiuotų mokesčių,
@@ -1279,7 +1141,8 @@ kurį mokesčio mokėtojas turi geruoju sumokėti raginime nurodytas sumas;
 7) sąskaita, į
 kurią raginime nurodytos sumos turi būti sumokėtos;
 8) pastaba, kad
-nesumokėjus raginime nurodytų sumų geruoju, šios sumos bus išieškotos priverstinai.
+nesumokėjus raginime nurodytų sumų geruoju, šios sumos bus išieškotos
+priverstinai.
 4. Mokesčio
 administratorius sumokėti mokesčio mokėtojui raginime nurodytas sumas leidžia
 per 20 dienų nuo raginimo įteikimo dienos.
@@ -1294,11 +1157,15 @@ nerandama buveinėje jo nurodytu adresu ir darbo laiku du kartus.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
 31
 straipsnis. Mokesčio administratoriaus teisė išieškoti mokesčius, delspinigius,
-baudas ir kitas įmokas iš mokesčio mokėtojo turto
+baudas ir kitas 
+įmokas
+iš mokesčio mokėtojo turto
+ 
 1. Mokesčio
 administratorius įgyja teisę išieškoti mokesčius, delspinigius, baudas ir kitas
 įmokas iš mokesčio mokėtojo turto, į kurį pagal Lietuvos Respublikos civilinio
@@ -1316,31 +1183,34 @@ turto įgyjama kitą dieną po to, kai pasibaigia raginime geruoju sumokėti
 mokesčius, delspinigius, baudas ir kitas įmokas nurodytas terminas, o jeigu
 raginimas nesiunčiamas, - kitą dieną po šio straipsnio 1 dalies 2 punkte
 nustatyto termino pasibaigimo.
-3. Teisė
-išieškoti mokesčius, delspinigius, baudas ir kitas įmokas iš mokesčio mokėtojo
-turto išnyksta tą dieną, kai mokesčio mokėtojas susimoka mokesčio nepriemoką
+            3. Teisė išieškoti
+mokesčius, delspinigius, baudas ir kitas įmokas iš mokesčio mokėtojo turto
+išnyksta tą dieną, kai mokesčio mokėtojas susimoka mokesčio nepriemoką
 (delspinigius, baudas ir kitas įmokas).
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+ 
  
 32
 straipsnis. Mokesčio mokėtojo turto arešto pagrindai, būdai, areštuojamo turto
 kiekis
-1. Turto areštas
-- šio ir kitų įstatymų nustatyta tvarka ir sąlygomis taikomas mokesčio mokėtojo
-nuosavybės teisės į turtą arba atskirų šios teisės sudėtinių dalių - valdymo,
-naudojimosi, disponavimo - priverstinis laikinas apribojimas, siekiant
-užtikrinti mokestinės nepriemokos išieškojimą.
+ 
+1. Turto areštas - šio ir kitų įstatymų
+nustatyta tvarka ir sąlygomis taikomas mokesčio mokėtojo nuosavybės teisės į
+turtą arba atskirų šios teisės sudėtinių dalių - valdymo, naudojimosi,
+disponavimo - priverstinis laikinas apribojimas, siekiant užtikrinti mokestinės
+nepriemokos išieškojimą.
 2. Mokesčio
 mokėtojo turto areštuojama tiek, kad būtų galima realiai ir visiškai užtikrinti
 mokestinių nepriemokų išieškojimą ir padengti su turto areštu bei išieškojimu
 susijusias išlaidas. Areštuojant turtą, mokesčio mokėtojas turi teisę pareikšti
-mokesčio administratoriui, į kuriuos daiktus reikia nukreipti išieškojimą
-pirmiausia, tačiau mokesčio administratorius neprivalo tenkinti tokio prašymo,
-jei tai gali kliudyti tinkamai užtikrinti mokestinės nepriemokos bei su turto
-areštu susijusių išlaidų išieškojimą.
+mokesčio administratoriui, į kuriuos daiktus reikia nukreipti išieškojimą pirmiausia,
+tačiau mokesčio administratorius neprivalo tenkinti tokio prašymo, jei tai gali
+kliudyti tinkamai užtikrinti mokestinės nepriemokos bei su turto areštu
+susijusių išlaidų išieškojimą.
 3. Mokesčio
 mokėtojo turtas gali būti areštuojamas, jeigu mokesčio mokėtojas mokesčio
 įstatymo nustatyta tvarka nesumokėjo (nepervedė) mokesčių, delspinigių, baudų
@@ -1377,11 +1247,14 @@ mokėtojo turto areštas panaikinamas, kai to nebereikia.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
-Nr. VIII-1382, 99.11.04, Žin., 1999, Nr.101-2903
-(99.11.26)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+Nr. VIII-1382, 99.11.04, Žin., 1999,
+Nr.101-2903 (99.11.26)
+ 
  
 32(1) straipsnis. Sprendimas areštuoti turtą
+ 
 1. Sprendimas
 areštuoti turtą įforminamas turto arešto aktu. 
 2. Turto arešto
@@ -1397,20 +1270,20 @@ pavadinimas, buveinės adresas, kodas;
 4) areštuoto
 turto pavadinimas, identifikavimo kodas (jeigu turtas registruojamas turto
 registre), buvimo vieta, kiti turtą identifikuojantys duomenys;
-5) areštuoto
-turto savininkas (bendrasavininkiai) - fizinio asmens vardas, pavardė, kodas,
-adresas; juridinio asmens ar įmonės, neturinčios juridinio asmens teisių,
-pavadinimas, buveinės adresas, kodas;
+5) areštuoto turto savininkas
+(bendrasavininkiai) - fizinio asmens vardas, pavardė, kodas, adresas; juridinio
+asmens ar įmonės, neturinčios juridinio asmens teisių, pavadinimas, buveinės
+adresas, kodas;
 6) turto arešto
 būdai (visos nuosavybės teisės ar tik atskirų jos sudėtinių dalių apribojimas)
 ir areštuojamo turto mastas, taip pat kalendorine data nustatytas turto arešto
 terminas, jeigu jis nustatomas;
 7) kiti teisių
 apribojimai, susiję su turto areštu, jeigu jie taikomi;
-8) turto
-saugotojas ar turto administratorius - fizinio asmens vardas, pavardė, kodas,
-adresas; juridinio asmens ar įmonės, neturinčios juridinio asmens teisių,
-pavadinimas, buveinės adresas, kodas;
+8) turto saugotojas ar turto
+administratorius - fizinio asmens vardas, pavardė, kodas, adresas; juridinio
+asmens ar įmonės, neturinčios juridinio asmens teisių, pavadinimas, buveinės
+adresas, kodas;
 9) turto arešto
 akto apskundimo tvarka;
 10) atsakomybė
@@ -1423,16 +1296,16 @@ mokėtojo, kurio turtas areštuojamas, turto sudėtį ir buvimo vietą bei
 išsiaiškinus įforminti papildomą turto arešto aktą ir pakeisti ankstesnį turto
 arešto aktą. Papildomas turto arešto aktas įforminamas laikantis šio straipsnio
 1 ir 2 dalyse nustatytų reikalavimų.
-4. Turto arešto
-aktas įteikiamas mokesčio mokėtojui, kurio turtas areštuojamas. Jeigu mokesčio
-mokėtojas atsisako priimti turto arešto aktą arba mokesčio mokėtojo ar jo
-atstovų nerandama mokesčio mokėtojo buveinėje, apie tai turto arešto aktą
-pristatantis asmuo pažymi turto arešto akte ir laikoma, kad turto arešto aktas
-yra įteiktas. Mokesčio administratorius privalo nedelsiant pateikti mokesčio
-mokėtojo turto arešto aktą turto arešto aktų registrui. Turto arešto aktas
-nepateikiamas turto arešto aktų registrui, jeigu areštuotas kilnojamasis turtas
-(produktai, kiti greitai gendantys daiktai, gyvūnai) įstatymų nustatyta tvarka
-paimamas ir nedelsiant perduodamas realizuoti.
+4. Turto arešto aktas įteikiamas
+mokesčio mokėtojui, kurio turtas areštuojamas. Jeigu mokesčio mokėtojas
+atsisako priimti turto arešto aktą arba mokesčio mokėtojo ar jo atstovų
+nerandama mokesčio mokėtojo buveinėje, apie tai turto arešto aktą pristatantis
+asmuo pažymi turto arešto akte ir laikoma, kad turto arešto aktas yra įteiktas.
+Mokesčio administratorius privalo nedelsiant pateikti mokesčio mokėtojo turto
+arešto aktą turto arešto aktų registrui. Turto arešto aktas nepateikiamas turto
+arešto aktų registrui, jeigu areštuotas kilnojamasis turtas (produktai, kiti
+greitai gendantys daiktai, gyvūnai) įstatymų nustatyta tvarka paimamas ir
+nedelsiant perduodamas realizuoti.
 5. Turto areštas įsigalioja nuo turto arešto akto
 įteikimo, o jei šio akto įteikti nėra galimybės, - nuo turto arešto akto
 įregistravimo turto arešto aktų registre momento. Tais atvejais, kai areštuotas
@@ -1456,16 +1329,18 @@ turto areštas pažeidžia jų teises ar įstatymo saugomus interesus, gali krei
 į teismą įstatymų nustatyta tvarka.
 Straipsnio
 pakeitimai:
-Nr. VIII-1382, 99.11.04, Žin., 1999, Nr.101-2903
-(99.11.26)
+Nr. VIII-1382, 99.11.04, Žin., 1999,
+Nr.101-2903 (99.11.26)
+ 
  
 33 straipsnis.
 Mokesčio mokėtojo turto apyrašas
-1. Tais
-atvejais, kai turtas areštuojamas apribojant visas nuosavybės teises į turtą ir
-turtas perduodamas kitiems asmenims saugoti ar administruoti, taip pat tais
-atvejais, kai areštuojamas turto registre neregistruojamas kilnojamasis turtas,
-turi būti sudarytas šio turto apyrašas.
+ 
+1. Tais atvejais, kai turtas
+areštuojamas apribojant visas nuosavybės teises į turtą ir turtas perduodamas
+kitiems asmenims saugoti ar administruoti, taip pat tais atvejais, kai areštuojamas
+turto registre neregistruojamas kilnojamasis turtas, turi būti sudarytas šio
+turto apyrašas.
 2. Aprašydamas turtą mokesčio administratorius gali
 atlikti papildomus veiksmus: antspaudavimą, plombavimą, kontrolinį svėrimą,
 matavimą, skaičiavimą, įrašyti žymas ir pan.
@@ -1478,13 +1353,17 @@ gali būti aprašomas minėtiems asmenims ir nedalyvaujant.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
-Nr. VIII-1382, 99.11.04, Žin., 1999, Nr.101-2903
-(99.11.26)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+Nr. VIII-1382, 99.11.04, Žin., 1999,
+Nr.101-2903 (99.11.26)
+ 
  
 34 straipsnis. Areštuojamo turto apyrašo turinys
+ 
 1. Areštuojamo
 turto apyraše turi būti nurodyta:
 1) turto apyrašo
@@ -1521,28 +1400,32 @@ atsisako priimti turto apyrašą arba nėra galimybės turto apyrašo akto jam
 įteikti, apie tai pažymima turto apyraše.
 Straipsnio
 pakeitimai:
-Nr. VIII-1382, 99.11.04, Žin., 1999, Nr.101-2903
-(99.11.26)
+Nr. VIII-1382, 99.11.04, Žin., 1999,
+Nr.101-2903 (99.11.26)
+ 
  
 35 straipsnis.
 Areštuoto turto įvertinimas
-Areštuotą
-aprašytą mokesčio mokėtojo turtą mokesčio administratoriaus pareigūnas įvertina
-atsižvelgdamas į tos rūšies turto kainas toje vietovėje bei į turto
-nusidėvėjimą. Jeigu kai kuriuos daiktus įvertinti sunku, taip pat jeigu
-mokesčio mokėtojas prieštarauja mokesčio administratoriaus pareigūno atliktam
-turto įvertinimui, mokesčio administratorius turto vertei nustatyti kviečia
-turto vertintoją. Turto vertintojui nustačius kitokią areštuoto turto vertę,
-mokesčio administratorius įformina naują turto apyrašą. Išlaidas, susijusias su
-areštuoto turto vertės nustatymu, jei turto vertintojas kviečiamas mokesčio
-mokėtojo iniciatyva, atlygina mokesčio mokėtojas.
+ 
+Areštuotą aprašytą mokesčio mokėtojo
+turtą mokesčio administratoriaus pareigūnas įvertina atsižvelgdamas į tos
+rūšies turto kainas toje vietovėje bei į turto nusidėvėjimą. Jeigu kai kuriuos
+daiktus įvertinti sunku, taip pat jeigu mokesčio mokėtojas prieštarauja
+mokesčio administratoriaus pareigūno atliktam turto įvertinimui, mokesčio
+administratorius turto vertei nustatyti kviečia turto vertintoją. Turto
+vertintojui nustačius kitokią areštuoto turto vertę, mokesčio administratorius
+įformina naują turto apyrašą. Išlaidas, susijusias su areštuoto turto vertės
+nustatymu, jei turto vertintojas kviečiamas mokesčio mokėtojo iniciatyva,
+atlygina mokesčio mokėtojas.
 Straipsnio
 pakeitimai:
-Nr. VIII-1382, 99.11.04, Žin., 1999, Nr.101-2903
-(99.11.26)
+Nr. VIII-1382, 99.11.04, Žin., 1999,
+Nr.101-2903 (99.11.26)
+ 
  
 36 straipsnis. Areštuoto
 turto saugojimas ir administravimas
+ 
 1.
 Areštuotas turtas perduodamas saugoti arba administruoti šio įstatymo ir
 Civilinio kodekso nustatyta tvarka.
@@ -1555,34 +1438,39 @@ nusikalstamas šio turto sunaikinimas ar sužalojimas užtraukia saugotojui ir
 administratoriui baudžiamąją atsakomybę.
 Straipsnio
 pakeitimai:
-Nr. VIII-1382, 99.11.04, Žin., 1999, Nr.101-2903
-(99.11.26)
+Nr. VIII-1382, 99.11.04, Žin., 1999,
+Nr.101-2903 (99.11.26)
  
-     37
-straipsnis. Priverstinis mokesčio ir su juo susijusių sumų išieškojimas
-     1.
-Sprendimas dėl išieškų į valstybės (savivaldybės) biudžetą bei fondus
-perduodamas teismo antstoliams Lietuvos Respublikos civilinio proceso kodekso
-nustatyta tvarka. Sprendimas dėl išieškų į valstybės (savivaldybės) biudžetą
-bei fondus perduodamas teismo antstoliams tik pasibaigus mokesčio
-administratoriaus veiksmų apskundimo procesui, numatytam šio įstatymo X
-skyriuje, arba tada, kai yra pradelstas skundo padavimo terminas.
-     2.
-Kiekvienas asmuo, pas kurį yra areštuotas mokesčio mokėtojo turtas,  negali
-atlikti jokių veiksmų su mokesčio mokėtojo turtu (nei daryti išmokų iš to
-turto, nei jo kam nors perleisti), išskyrus mokesčio administratoriaus nurodymų
-vykdymą.
+ 
+            37 straipsnis. Priverstinis
+mokesčio ir su juo susijusių sumų išieškojimas
+ 
+            1. Sprendimas dėl išieškų į
+valstybės (savivaldybės) biudžetą bei fondus perduodamas teismo antstoliams
+Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Sprendimas dėl
+išieškų į valstybės (savivaldybės) biudžetą bei fondus perduodamas teismo
+antstoliams tik pasibaigus mokesčio administratoriaus veiksmų apskundimo
+procesui, numatytam šio įstatymo X skyriuje, arba tada, kai yra pradelstas
+skundo padavimo terminas.
+            2. Kiekvienas asmuo, pas
+kurį yra areštuotas mokesčio mokėtojo turtas, negali atlikti jokių veiksmų su
+mokesčio mokėtojo turtu (nei daryti išmokų iš to turto, nei jo kam nors
+perleisti), išskyrus mokesčio administratoriaus nurodymų vykdymą.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
-Nr. VIII-1382, 99.11.04, Žin., 1999, Nr.101-2903
-(99.11.26)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+Nr. VIII-1382, 99.11.04, Žin., 1999,
+Nr.101-2903 (99.11.26)
+ 
  
 38 straipsnis.
 Mokesčio grąžinimas
+ 
 1. Mokesčio sumos, kurias
 mokesčio administratorius grąžina mokesčio mokėtojui, išmokamos iš to valstybės
 (savivaldybės) biudžeto arba biudžetų bei fondų, į kuriuos jos buvo įmokėtos,
@@ -1605,8 +1493,8 @@ administratorius:
 to, kai gavo raštišką prašymą dėl mokesčio grąžinimo (įskaitymo);
 2) grąžina
 (įskaito) mokesčio mokėtojui mokesčio skirtumą (visą ar jo dalį) per 10 dienų
-po to, kai gavo raštišką prašymą bei reikalaujamus pateikti dokumentus dėl mokesčio
-skirtumo grąžinimo (įskaitymo);
+po to, kai gavo raštišką prašymą bei reikalaujamus pateikti dokumentus dėl
+mokesčio skirtumo grąžinimo (įskaitymo);
             3) per nurodytą laiką
 negrąžinęs (neįskaitęs) mokesčio permokos (visos ar jos dalies) arba mokesčio
 skirtumo (viso ar jo dalies) sumos, mokesčio mokėtojo naudai skaičiuoja
@@ -1618,19 +1506,19 @@ ar jo dalies) grąžinimą (įskaitymą), palūkanos mokesčio mokėtojo naudai
 neskaičiuojamos, o Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka
 šį sprendimą panaikinus, palūkanos apskaičiuojamos už visą grąžinimo
 (įskaitymo) sustabdymo laikotarpį.
-     6.
-Mokesčio administratorius per 30 dienų nuo pareiškimo gavimo dienos permokėtą
-mokesčio sumą gali įskaityti bet kokio kito mokesčio (įskaitant delspinigius ir
-baudas) įsiskolinimui padengti, nors tai nenurodyta mokesčio mokėtojo raštu
-pateiktame prašyme. Mokesčio administratorius, per nurodytą laiką neįskaitęs
-permokėtos sumos kito mokesčio (įskaitant baudas ir delspinigius) įsiskolinimui
-padengti,  mokesčio mokėtojo naudai skaičiuoja palūkanas tokia pat tvarka, kaip
-ir ne laiku grąžinus permokėtas mokesčio sumas. Mokesčio administratorius šią
-teisę turi ir nesant mokesčio mokėtojo raštiško pareiškimo.
-     7. Jeigu
-mokestį išskaičiuojantis asmuo perveda per didelį mokestį į valstybės
-(savivaldybės) biudžetą bei fondus, už permokėtą mokesčio sumą palūkanos
-neskaičiuojamos, o suma grąžinama per 30 dienų nuo prašymo gavimo dienos.
+            6. Mokesčio administratorius
+per 30 dienų nuo pareiškimo gavimo dienos permokėtą mokesčio sumą gali
+įskaityti bet kokio kito mokesčio (įskaitant delspinigius ir baudas)
+įsiskolinimui padengti, nors tai nenurodyta mokesčio mokėtojo raštu pateiktame
+prašyme. Mokesčio administratorius, per nurodytą laiką neįskaitęs permokėtos
+sumos kito mokesčio (įskaitant baudas ir delspinigius) įsiskolinimui padengti,
+mokesčio mokėtojo naudai skaičiuoja palūkanas tokia pat tvarka, kaip ir ne
+laiku grąžinus permokėtas mokesčio sumas. Mokesčio administratorius šią teisę
+turi ir nesant mokesčio mokėtojo raštiško pareiškimo.
+            7. Jeigu mokestį
+išskaičiuojantis asmuo perveda per didelį mokestį į valstybės (savivaldybės)
+biudžetą bei fondus, už permokėtą mokesčio sumą palūkanos neskaičiuojamos, o
+suma grąžinama per 30 dienų nuo prašymo gavimo dienos.
  
 Pastaba. Iki 1996 m.
 liepos 1 d. susidariusioms mokesčio permokoms grąžinti taikomas permokos
@@ -1644,14 +1532,19 @@ straipsnyje nurodytas terminas.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
 Nr.
-VIII-1122, 99.04.06, Žin., 1999, Nr.36-1060 (99.04.23)
+VIII-1122,
+99.04.06, Žin., 1999, Nr.36-1060 (99.04.23)
+ 
  
 38(1)
 straipsnis. Mokesčio grąžinimo sustabdymas
+ 
 1. Jeigu,
 remiantis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka dėl
 mokesčio permokos (visos ar jos dalies) arba mokesčio skirtumo (viso ar jo
@@ -1692,52 +1585,53 @@ vėliau kaip per tris darbo dienas.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-1122, 99.04.06, Žin., 1999, Nr.36-1060 (99.04.23)
+VIII-1122,
+99.04.06, Žin., 1999, Nr.36-1060 (99.04.23)
  
-      39
-straipsnis. Delspinigiai
-     1.
+ 
+39 straipsnis.
+Delspinigiai
+ 
+          1.
 Delspinigiai skaičiuojami už ne laiku sumokėtą ar pervestą į valstybės
-(savivaldybės) biudžetą bei fondus deklaruotą mokestį (avansinį mokestį) arba
-mokesčio mokėtojo apskaičiuotą ne laiku sumokėtą ar pervestą nedeklaruojamą
-mokestį (avansinį mokestį), arba už per daug grąžintą mokesčio sumą (išskyrus
-tuos atvejus, kai per daug grąžinama mokesčio dėl mokesčio administratoriaus
+(savivaldybės) biudžetą bei fondus deklaruotą mokestį (avansinį mokestį) arba mokesčio
+mokėtojo apskaičiuotą ne laiku sumokėtą ar pervestą nedeklaruojamą mokestį
+(avansinį mokestį), arba už per daug grąžintą mokesčio sumą (išskyrus tuos
+atvejus, kai per daug grąžinama mokesčio dėl mokesčio administratoriaus
 klaidos). Į priežastis, dėl kurių mokestis buvo ne laiku sumokėtas ar pervestas
 į valstybės (savivaldybės) biudžetą bei fondus, neatsižvelgiama, išskyrus šio
 įstatymo 391 straipsnyje numatytas išimtis.
-      2. Delspinigiai nuo deklaruoto
-(apskaičiuoto) arba mokesčio mokėtojo apskaičiuoto nedeklaruojamo mokesčio
-pradedami skaičiuoti nuo kitos dienos po to, kai mokestis turėjo būti sumokėtas
-arba pervestas į biudžetą arba kai mokesčio buvo per daug grąžinta (išskyrus
-tuos atvejus, kai per daug grąžinama dėl mokesčio administratoriaus klaidos), skaičiuojami
-kiekvieną dieną ir baigiami skaičiuoti mokesčio sumokėjimo dieną įskaitytinai
-arba mokesčio į biudžetą grąžinimo dieną arba tą dieną, kai beviltiška
-pripažinta mokestinė nepriemoka pasibaigia, tačiau delspinigių suma negali
-viršyti 100 procentų mokesčio sumos.
-     3. Delspinigių bei padidintų
-delspinigių dydį už ne laiku sumokėtą mokestį ir delspinigių mokėjimo bei
-skaičiavimo tvarką nustato finansų ministras, atsižvelgdamas į vidutinę
+             2. Delspinigiai nuo
+deklaruoto (apskaičiuoto) arba mokesčio mokėtojo apskaičiuoto nedeklaruojamo
+mokesčio pradedami skaičiuoti nuo kitos dienos po to, kai mokestis turėjo būti
+sumokėtas arba pervestas į biudžetą arba kai mokesčio buvo per daug grąžinta
+(išskyrus tuos atvejus, kai per daug grąžinama dėl mokesčio administratoriaus klaidos),
+skaičiuojami kiekvieną dieną ir baigiami skaičiuoti mokesčio sumokėjimo dieną
+įskaitytinai arba mokesčio į biudžetą grąžinimo dieną arba tą dieną, kai
+beviltiška pripažinta mokestinė nepriemoka pasibaigia, tačiau delspinigių suma
+negali viršyti 100 procentų mokesčio sumos.
+            3. Delspinigių bei
+padidintų delspinigių dydį už ne laiku sumokėtą mokestį ir delspinigių mokėjimo
+bei skaičiavimo tvarką nustato finansų ministras, atsižvelgdamas į vidutinę
 praėjusio kalendorinio ketvirčio palūkanų normą, mokamą už Vyriausybės ne
 ilgiau kaip vieneriems metams išleistas obligacijas litais. Delspinigių dydis
 nustatomas palūkanų normą padidinus iki 10 punktų, o padidintų delspinigių
 dydis - iki 15 punktų.
-     4. Iš
-mokesčio mokėtojo ar mokestį išskaičiuojančio asmens, nemokančio delspinigių
-nustatyta tvarka, delspinigiai išieškomi tokia pat tvarka kaip ir nesumokėtas
-mokestis.
-     5.
-Delspinigių  sumokėjimas  neatleidžia  nuo  mokesčio mokėjimo.
-     6. Už
-mokesčio administratoriaus pareigūno (pareigūnų) patikrinimo metu nustatytą
-nedeklaruotą (neapskaičiuotą) mokesčio sumą skaičiuojami padidinti
-delspinigiai. Šie delspinigiai pradedami skaičiuoti nuo kitos dienos po to, kai
-mokestis turėjo būti sumokėtas (pervestas) į valstybės (savivaldybės) biudžetus
-ar fondus, iki patikrinimo akto surašymo dienos, o nesumokėjus mokesčio per 29
-straipsnio 2 dalyje nustatytą terminą, padidinti delspinigiai skaičiuojami
-nepertraukiamai ir baigiami skaičiuoti mokesčio sumokėjimo (pervedimo) dieną
-įskaitytinai arba tą dieną, kai beviltiška pripažinta mokestinė nepriemoka
-pasibaigia. Padidintų delspinigių suma negali viršyti 150 procentų mokesčio
-sumos.
+            4. Iš mokesčio mokėtojo ar
+mokestį išskaičiuojančio asmens, nemokančio delspinigių nustatyta tvarka,
+delspinigiai išieškomi tokia pat tvarka kaip ir nesumokėtas mokestis.
+            5. Delspinigių sumokėjimas
+neatleidžia nuo mokesčio mokėjimo.
+            6. Už mokesčio
+administratoriaus pareigūno (pareigūnų) patikrinimo metu nustatytą nedeklaruotą
+(neapskaičiuotą) mokesčio sumą skaičiuojami padidinti delspinigiai. Šie
+delspinigiai pradedami skaičiuoti nuo kitos dienos po to, kai mokestis turėjo
+būti sumokėtas (pervestas) į valstybės (savivaldybės) biudžetus ar fondus, iki
+patikrinimo akto surašymo dienos, o nesumokėjus mokesčio per 29 straipsnio 2
+dalyje nustatytą terminą, padidinti delspinigiai skaičiuojami nepertraukiamai
+ir baigiami skaičiuoti mokesčio sumokėjimo (pervedimo) dieną įskaitytinai arba
+tą dieną, kai beviltiška pripažinta mokestinė nepriemoka pasibaigia. Padidintų
+delspinigių suma negali viršyti 150 procentų mokesčio sumos.
 7. Nuo mokesčio administratoriaus pareigūno (pareigūnų) už mokesčio
 įstatymų pažeidimus paskirtos baudos, nesumokėtos per 52 straipsnio 1 dalyje
 nustatytą terminą, delspinigiai skaičiuojami nuo kitos dienos po to, kai
@@ -1751,204 +1645,226 @@ tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-107, 97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
+VIII-107,
+97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
-Nr.
-VIII-1277, 99.07.01, Žin., 1999, Nr.62-2034 (99.07.16)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+Nr. VIII-1277,
+99.07.01, Žin., 1999, Nr.62-2034 (99.07.16)
  
-     39(1)
-straipsnis. Atleidimo nuo ekonominių sankcijų, nesant kaltės, tvarka
-     1.
-Mokesčio mokėtojas atleidžiamas nuo delspinigių ir baudų mokėjimo, jei
-mokestinių ginčų nagrinėjimo procese įrodo, kad pažeidė mokesčio įstatymą dėl
-aplinkybių, kurios nepriklausė nuo jo valios ir kurių jis nenumatė ir negalėjo
-numatyti. Tokiomis aplinkybėmis nelaikomi mokesčio mokėtojo ar jo darbuotojų
-(savininko, administracijos darbuotojų ir kt.) veiksmai ar neveikimas, taip pat
-mokesčio mokėtojo nemokumas. Atleidimas nuo delspinigių ar (ir) baudų turi būti
+ 
+            39(1) straipsnis. Atleidimo
+nuo ekonominių sankcijų, nesant kaltės, tvarka
+ 
+            1. Mokesčio mokėtojas
+atleidžiamas nuo delspinigių ir baudų mokėjimo, jei mokestinių ginčų
+nagrinėjimo procese įrodo, kad pažeidė mokesčio įstatymą dėl aplinkybių, kurios
+nepriklausė nuo jo valios ir kurių jis nenumatė ir negalėjo numatyti. Tokiomis
+aplinkybėmis nelaikomi mokesčio mokėtojo ar jo darbuotojų (savininko,
+administracijos darbuotojų ir kt.) veiksmai ar neveikimas, taip pat mokesčio
+mokėtojo nemokumas. Atleidimas nuo delspinigių ar (ir) baudų turi būti
 įformintas institucijos, nagrinėjančios mokestinį ginčą, sprendimu. Šio
 straipsnio lengvatos netaikomos, jei mokesčio mokėtojas padarė piktybinius
 mokesčių įstatymų pažeidimus, numatytus šio įstatymo 49 straipsnyje.
-     2. Kad
-kaltės nėra, mokesčio mokėtojas turi įrodyti pats.
+            2. Kad kaltės nėra, mokesčio
+mokėtojas turi įrodyti pats.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-107, 97.02.13, Žin., 1997, Nr.17-362 (97.02.26)
+VIII-107,
+97.02.13, Žin., 1997, Nr.17-362 (97.02.26)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-     40
-straipsnis. VI skyriaus išimtys
-     1. Šio
-skyriaus nuostatos netaikomos tiems mokesčio mokėtojams, iš kurių mokestį
-išskaičiuoja ir sumoka į valstybės (savivaldybės) biudžetą bei fondus mokestį
-išskaičiuojantis asmuo.
-    2. Jeigu mokestį išskaičiuojantis
-asmuo neteisingai išskaitė ir sumokėjo mokestį į valstybės (savivaldybės)
-biudžetą bei fondus, įskaitant delspinigius ir baudas, tai šie įsiskolinimai
-išieškomi iš mokestį išskaičiuojančio asmens šiame skyriuje nustatyta tvarka.
+ 
+            40 straipsnis. VI skyriaus
+išimtys
+ 
+            1. Šio skyriaus nuostatos
+netaikomos tiems mokesčio mokėtojams, iš kurių mokestį išskaičiuoja ir sumoka į
+valstybės (savivaldybės) biudžetą bei fondus mokestį išskaičiuojantis asmuo.
+ 2. Jeigu mokestį išskaičiuojantis asmuo
+neteisingai išskaitė ir sumokėjo mokestį į valstybės (savivaldybės) biudžetą
+bei fondus, įskaitant delspinigius ir baudas, tai šie įsiskolinimai išieškomi
+iš mokestį išskaičiuojančio asmens šiame skyriuje nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
  
-VII SKYRIUS. MOKESČIO
-MOKĖTOJŲ APSKAITA
  
-     41
-straipsnis. Mokesčio mokėtojų registras
-     1.
-Mokesčio mokėtojų apskaitai tvarkyti sudaromas bendras mokesčio mokėtojų
-registras.
-     2.
-Mokesčio administratorius registruoja visus asmenis, kurių registravimas  yra
-privalomas  pagal šio įstatymo 43 straipsnį.
+VII SKYRIUS.
+MOKESČIO MOKĖTOJŲ APSKAITA
+ 
+            41 straipsnis. Mokesčio
+mokėtojų registras
+ 
+            1. Mokesčio mokėtojų
+apskaitai tvarkyti sudaromas bendras mokesčio mokėtojų registras.
+            2. Mokesčio administratorius
+registruoja visus asmenis, kurių registravimas yra privalomas pagal šio
+įstatymo 43 straipsnį.
  
 42 straipsnis.
 Mokesčio mokėtojų registro steigimas ir tvarkymas
-1. Mokesčio mokėtojų registrą steigia Lietuvos
-Respublikos Vyriausybė Finansų ministerijos teikimu.
-2. Mokesčio mokėtojų duomenų rinkimo, kaupimo, apdorojimo,
-sisteminimo, saugojimo, naudojimo, teikimo tvarka nustatoma Mokesčio mokėtojų
-registro nuostatuose, kuriuos tvirtina Lietuvos Respublikos Vyriausybė.
+ 
+1. Mokesčio mokėtojų registrą steigia Lietuvos Respublikos Vyriausybė
+Finansų ministerijos teikimu.
+2. Mokesčio mokėtojų duomenų rinkimo, kaupimo, apdorojimo, sisteminimo,
+saugojimo, naudojimo, teikimo tvarka nustatoma Mokesčio mokėtojų registro
+nuostatuose, kuriuos tvirtina Lietuvos Respublikos Vyriausybė.
 Straipsnio
 pakeitimai:
-Nr. VIII-1334, 99.09.23, Žin., 1999, Nr.84-2493
-(99.10.08)
+Nr. VIII-1334, 99.09.23, Žin., 1999,
+Nr.84-2493 (99.10.08)
  
-     43 straipsnis.
-Mokesčio mokėtojų bei asmenų, išskaičiuojančių  mokesčius, registracija
-     1. Asmuo,
-kuriam pagal mokesčio įstatymą yra nustatyta prievolė mokėti mokestį, privalo
-registruotis pas atitinkamą vietos mokesčio administratorių kaip mokesčio
-mokėtojas.
-     2.
-Kiekvienas fizinis asmuo, dirbantis pagal darbo sutartį, pas vietos  mokesčio
-administratorių registruojasi per savo darbdavį.
-     3.
-Kiekvienas  mokestį išskaičiuojantis  asmuo  privalo registruotis pas vietos
-mokesčio administratorių ir pateikti mokesčio mokėtojų, iš kurių išskaito
-mokestį, sąrašą pagal nustatytą formą ir tvarką.
  
-     44
-straipsnis. Mokesčio mokėtojų registravimo laikas
-     Asmuo,
-kuriam pagal mokesčio įstatymą yra nustatyta prievolė mokėti mokestį,  privalo
-registruotis pas atitinkamą vietos mokesčio administratorių  ne vėliau kaip per
-5 dienas nuo prievolės atsiradimo.  Prievolės atsiradimo momentu laikomas
-teisinis asmens įregistravimas, o kai teisinis registravimas įstatymo
-nenumatytas - veiklos vykdymo pradžia.
+            43 straipsnis. Mokesčio
+mokėtojų bei asmenų, išskaičiuojančių mokesčius, registracija
  
-     45 straipsnis.
-Mokesčio mokėtojo identifikacinis numeris
-     1.
-Kiekvienas mokesčio mokėtojas ar mokestį išskaičiuojantis asmuo privalo turėti
-nuolatinį identifikacinį numerį, leidžiantį identifikuoti mokesčio  mokėtoją
-ar  išskaičiuojantį mokestį asmenį, nesvarbu, kas administruoja mokestį.
-     2. Įmonėms
-ir organizacijoms naudojamas Juridinių vienetų registro identifikacinis kodas,
-fiziniams asmenims - Gyventojų registro asmenų kodas.
-     3.
-Mokesčio mokėtojams, kuriems dėl kokių nors priežasčių negalima naudoti
-Juridinių vienetų registro identifikacinio kodo ar Gyventojų registro asmenų
-kodo, priskiriamas laikinas mokesčio mokėtojo identifikacinis numeris, kurio
-taikymo tvarką nustato mokesčio mokėtojų registro tvarkytojas.
+            1. Asmuo, kuriam pagal
+mokesčio įstatymą yra nustatyta prievolė mokėti mokestį, privalo registruotis
+pas atitinkamą vietos mokesčio administratorių kaip mokesčio mokėtojas.
+            2. Kiekvienas fizinis asmuo,
+dirbantis pagal darbo sutartį, pas vietos mokesčio administratorių
+registruojasi per savo darbdavį.
+            3. Kiekvienas mokestį
+išskaičiuojantis asmuo privalo registruotis pas vietos mokesčio administratorių
+ir pateikti mokesčio mokėtojų, iš kurių išskaito mokestį, sąrašą pagal
+nustatytą formą ir tvarką.
  
-     46
-straipsnis. (Neteko galios)
+            44 straipsnis. Mokesčio
+mokėtojų registravimo laikas
+ 
+            Asmuo, kuriam pagal mokesčio
+įstatymą yra nustatyta prievolė mokėti mokestį, privalo registruotis pas
+atitinkamą vietos mokesčio administratorių ne vėliau kaip per 5 dienas nuo
+prievolės atsiradimo. Prievolės atsiradimo momentu laikomas teisinis asmens
+įregistravimas, o kai teisinis registravimas įstatymo nenumatytas - veiklos
+vykdymo pradžia.
+ 
+            45 straipsnis. Mokesčio
+mokėtojo identifikacinis numeris
+ 
+            1. Kiekvienas mokesčio
+mokėtojas ar mokestį išskaičiuojantis asmuo privalo turėti nuolatinį
+identifikacinį numerį, leidžiantį identifikuoti mokesčio mokėtoją ar
+išskaičiuojantį mokestį asmenį, nesvarbu, kas administruoja mokestį.
+            2. Įmonėms ir organizacijoms
+naudojamas Juridinių vienetų registro identifikacinis kodas, fiziniams asmenims
+- Gyventojų registro asmenų kodas.
+            3. Mokesčio mokėtojams,
+kuriems dėl kokių nors priežasčių negalima naudoti Juridinių vienetų registro
+identifikacinio kodo ar Gyventojų registro asmenų kodo, priskiriamas laikinas
+mokesčio mokėtojo identifikacinis numeris, kurio taikymo tvarką nustato
+mokesčio mokėtojų registro tvarkytojas.
+ 
+            46 straipsnis. (Neteko
+galios)
 Straipsnio
 pakeitimai:
-Nr. VIII-1334, 99.09.23, Žin., 1999, Nr.84-2493
-(99.10.08)
+Nr. VIII-1334, 99.09.23, Žin., 1999,
+Nr.84-2493 (99.10.08)
+ 
  
 VIII SKYRIUS.
 MOKESČIŲ ĮSTATYMŲ PAŽEIDIMAI
  
-     47
-straipsnis. (Neteko galios).
+            47 straipsnis. (Neteko
+galios).
 Straipsnio
 pakeitimai:
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-     48
-straipsnis.(Neteko galios).
+            48 straipsnis.(Neteko
+galios).
 Straipsnio
 pakeitimai:
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-     49 straipsnis.
+ 
+            49 straipsnis.
 Piktybiniai mokesčių įstatymų pažeidimai
-     Piktybiniu
-mokesčių įstatymų pažeidimu laikoma, jei:
-     1) asmuo
-aplaidžiai tvarko įmonės, įstaigos, organizacijos buhalterinę apskaitą arba
-neišsaugo apskaitos dokumentų ir dėl to negalima visiškai ar iš dalies nustatyti
-įmonės, įstaigos, organizacijos veiklos, komercinės, ūkinės, finansinės būklės
-rezultatų ar įvertinti turto;
-     2) asmuo
-apgaulingai tvarko įmonės, įstaigos, organizacijos buhalterinę apskaitą arba
-paslepia ar sunaikina apskaitos dokumentus ir dėl to negalima visiškai ar iš
-dalies nustatyti įmonės, įstaigos, organizacijos komercinės, ūkinės, finansinės
-būklės rezultatų ar įvertinti turto;
-     3) asmuo
-mokesčio administratoriui pateikiamoje mokesčio deklaracijoje, ataskaitoje ir
-kitame dokumente įrašo žinomai neteisingus duomenis apie savo arba įmonės,
-įstaigos, organizacijos pajamas, pelną ar jų naudojimą;
-     4) asmuo
-mokesčio administratoriui laiku nepateikia mokesčio deklaracijos, ataskaitos ar
-kito dokumento arba pateikęs šiuos dokumentus nesumoka mokesčių po to, kai
-mokesčių administratorius raštu priminė pareigą pateikti deklaraciją, ataskaitą
-ar kitą dokumentą ir sumokėti mokesčius;
-     5) asmuo
-naudoja neregistruotą kasos aparatą, kuris dubliuoja registruotąjį kasos
-aparatą, pakeistos konstrukcijos ar programos kasos aparatą arba klastoja ar
-sunaikina jo duomenis;
-     6) asmuo laiko, parduoda ar įsigyja
-prekes be norminiuose aktuose nustatytų privalomų dokumentų, banderolių, kitų
-specialių ženklų;
-     7) asmuo
-buhalterinės apskaitos dokumentuose neapskaito darbuotojams išmokamų su darbo
-santykiais susijusių išmokų;
-     8) asmuo
-neleidžia mokesčio administratoriaus pareigūnui susipažinti su apskaitos
-dokumentais;
-     9) asmuo,
-gavęs mokesčio administratoriaus nurodymą, be svarbių priežasčių neatvyksta
-nurodytu laiku pas mokesčio administratorių;
-     10) asmuo
-klastoja arba pateikia mokesčio administratoriui žinomai suklastotus
-dokumentus;
-     11) asmuo
-vengia mokėti mokesčius arba trukdo mokesčio nustatymo ar surinkimo procesui;
-    12) asmuo
-pažeidinėja apskaitos taisykles;
+ 
+            Piktybiniu mokesčių įstatymų
+pažeidimu laikoma, jei:
+            1) asmuo aplaidžiai tvarko
+įmonės, įstaigos, organizacijos buhalterinę apskaitą arba neišsaugo apskaitos
+dokumentų ir dėl to negalima visiškai ar iš dalies nustatyti įmonės, įstaigos,
+organizacijos veiklos, komercinės, ūkinės, finansinės būklės rezultatų ar
+įvertinti turto;
+            2) asmuo apgaulingai tvarko
+įmonės, įstaigos, organizacijos buhalterinę apskaitą arba paslepia ar sunaikina
+apskaitos dokumentus ir dėl to negalima visiškai ar iš dalies nustatyti įmonės,
+įstaigos, organizacijos komercinės, ūkinės, finansinės būklės rezultatų ar
+įvertinti turto;
+            3) asmuo mokesčio
+administratoriui pateikiamoje mokesčio deklaracijoje, ataskaitoje ir kitame
+dokumente įrašo žinomai neteisingus duomenis apie savo arba įmonės, įstaigos,
+organizacijos pajamas, pelną ar jų naudojimą;
+            4) asmuo mokesčio
+administratoriui laiku nepateikia mokesčio deklaracijos, ataskaitos ar kito
+dokumento arba pateikęs šiuos dokumentus nesumoka mokesčių po to, kai mokesčių
+administratorius raštu priminė pareigą pateikti deklaraciją, ataskaitą ar kitą
+dokumentą ir sumokėti mokesčius;
+            5) asmuo naudoja
+neregistruotą kasos aparatą, kuris dubliuoja registruotąjį kasos aparatą,
+pakeistos konstrukcijos ar programos kasos aparatą arba klastoja ar sunaikina
+jo duomenis;
+            6) asmuo laiko, parduoda ar
+įsigyja prekes be norminiuose aktuose nustatytų privalomų dokumentų,
+banderolių, kitų specialių ženklų;
+            7) asmuo buhalterinės
+apskaitos dokumentuose neapskaito darbuotojams išmokamų su darbo santykiais
+susijusių išmokų;
+            8) asmuo neleidžia mokesčio
+administratoriaus pareigūnui susipažinti su apskaitos dokumentais;
+            9) asmuo, gavęs mokesčio
+administratoriaus nurodymą, be svarbių priežasčių neatvyksta nurodytu laiku pas
+mokesčio administratorių;
+            10) asmuo klastoja arba
+pateikia mokesčio administratoriui žinomai suklastotus dokumentus;
+            11) asmuo vengia mokėti
+mokesčius arba trukdo mokesčio nustatymo ar surinkimo procesui;
+ 12) asmuo pažeidinėja apskaitos
+taisykles;
 13) asmuo gabena
 prekes be norminiuose aktuose nustatytų privalomų įsigijimo arba gabenimo
 dokumentų.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-107, 97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
-Nr.
-VIII-146, 97.03.13, Žin., 1997, Nr.27-622 (97.03.28)
-Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-107,
+97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
+Nr. VIII-146,
+97.03.13, Žin., 1997, Nr.27-622 (97.03.28)
+Nr. VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-           IX
-SKYRIUS. ATSAKOMYBĖ UŽ MOKESČIŲ ĮSTATYMŲ PAŽEIDIMUS
  
-50 straipsnis.
-Sankcijų taikymas.
- 1. Banko
+IX SKYRIUS.
+ATSAKOMYBĖ UŽ MOKESČIŲ ĮSTATYMŲ PAŽEIDIMUS
+ 
+50 straipsnis. Sankcijų
+taikymas.
+ 
+1. Banko
 (kredito) įstaigai, nevykdančiai mokesčio administratoriaus nurodymo nurašyti
 pinigų sumas ne ginčo tvarka iš mokesčio mokėtojo ar mokestį išskaičiuojančio
 asmens sąskaitos arba vykdančiai (įvykdžiusiai) tokį nurodymą nesilaikant
@@ -1965,21 +1881,21 @@ pajamos iš viso nedeklaruotos ir buhalterinėje apskaitoje neapskaitytos, iš
 mokesčio mokėtojo nuo nedeklaruotų pajamų (įplaukų), neatsižvelgiant į
 išlaidas, priskaičiuojama mokesčio (mokesčių) suma ir skiriama 100 procentų
 mokesčio (mokesčių) sumos dydžio bauda.
-3. Tais atvejais,
-kai 49 straipsnyje nurodytus mokesčių įstatymų pažeidimus padarė ūkio subjektas
-- juridinis asmuo arba asmuo, neturintis juridinio asmens teisių, -
+3. Tais
+atvejais, kai 49 straipsnyje nurodytus mokesčių įstatymų pažeidimus padarė ūkio
+subjektas - juridinis asmuo arba asmuo, neturintis juridinio asmens teisių, -
 administracinėn arba baudžiamojon atsakomybėn traukiami to ūkio subjekto
 darbuotojai ar savininkai, atsakingi už teisingą mokesčio apskaičiavimą ir
 sumokėjimą į valstybės (savivaldybės) biudžetą bei fondus. Ūkio subjektams -
 įmonėms, įstaigoms ir organizacijoms už 49 straipsnio 2, 5, 6, 7 ir 13
 punktuose nurodytus pažeidimus skiriamos baudos:
-1) 10 procentų dydžio
-bauda, skaičiuojama nuo paskutiniųjų 12 mėnesių pajamų (įplaukų), arba
+1) 10 procentų
+dydžio bauda, skaičiuojama nuo paskutiniųjų 12 mėnesių pajamų (įplaukų), arba
 dešimteriopa bauda už dėl apgaulingos apskaitos nuslėptas pajamas, prekių
 vertę, neapskaitytas išmokas darbuotojams. Ši bauda turi būti ne mažesnė kaip
 20 000 litų :
-a) už 49 straipsnio
-2, 5 ir 7 punktuose nurodytus pažeidimus, padarytus pirmą kartą;
+a) už 49
+straipsnio 2, 5 ir 7 punktuose nurodytus pažeidimus, padarytus pirmą kartą;
 b) už 49
 straipsnio 6 punkte nurodytą pažeidimą, kai asmens laikomų, parduodamų ar
 įsigyjamų prekių (išskyrus etilo alkoholį, alkoholio, tabako bei naftos
@@ -2008,9 +1924,10 @@ straipsnio 13 punkte nurodytą pažeidimą, padarytą pakartotinai, neatsižvelg
 į prekių (išskyrus etilo alkoholį, alkoholio, tabako bei naftos produktus)
 vertę;
 e) už 49
-straipsnio 13 punkte nurodytą pažeidimą, kai ūkio subjektas gabena etilo alkoholį,
-alkoholio, tabako bei naftos produktus be norminiuose aktuose nustatytų
-privalomų dokumentų, banderolių, specialių ženklų arba gabenimo dokumentų.
+straipsnio 13 punkte nurodytą pažeidimą, kai ūkio subjektas gabena etilo
+alkoholį, alkoholio, tabako bei naftos produktus be norminiuose aktuose
+nustatytų privalomų dokumentų, banderolių, specialių ženklų arba gabenimo
+dokumentų.
 4. Jei pagal šio
 straipsnio 3 dalį apskaičiuota dešimteriopa (nuslėptų pajamų, prekių vertės,
 neapskaitytų išmokų darbuotojams) baudos suma yra mažesnė kaip 10 procentų
@@ -2048,21 +1965,20 @@ subjektas padaro du ar daugiau šio įstatymo 49 straipsnyje nustatytų pažeidi
 tai galutinė bauda skiriama už tą pažeidimą, pagal kurį apskaičiuota baudos
 suma yra didžiausia.
 7. Asmenims,
-pažeidusiems mokesčių įstatymus, skaičiuojami delspinigiai, padidinti
-delspinigiai ir skiriamos baudos pagal teisės aktus, galiojančius
-pažeidimo padarymo metu. Delspinigių ir padidintų delspinigių dydis
-apskaičiuojamas pagal mokesčio ar baudos nesumokėjimo arba nepervedimo į
-valstybės (savivaldybės) biudžetą ar fondus konkrečią dieną galiojusių mokesčio
-įstatyme ar finansų ministro įsakyme nustatytų delspinigių ir padidintų
-delspinigių tarifų dydžius. Teisės aktai, kuriais sumažinamos arba panaikinamos
-baudos, taikomi ir už mokesčių įstatymų pažeidimus, padarytus prieš šių aktų
-įsigaliojimą, jei atsakomybę švelninantis arba panaikinantis teisės aktas
-įsigalioja ne vėliau kaip nutarimo skirti baudą priėmimo dieną, o jei mokesčio
-mokėtojas apskundžia mokesčio administratoriaus veiksmus, - ne vėliau kaip
-vietos mokesčio administratoriaus sprendimo, centrinio mokesčio
-administratoriaus sprendimo, Mokestinių ginčų komisijos sprendimo, Aukštesniojo
-administracinio teismo sprendimo, Lietuvos apeliacinio teismo Administracinių
-bylų skyriaus sprendimo priėmimo dieną.
+pažeidusiems mokesčių įstatymus, skaičiuojami delspinigiai, padidinti delspinigiai
+ir skiriamos baudos pagal teisės aktus, galiojančius pažeidimo padarymo
+metu. Delspinigių ir padidintų delspinigių dydis apskaičiuojamas pagal mokesčio
+ar baudos nesumokėjimo arba nepervedimo į valstybės (savivaldybės) biudžetą ar
+fondus konkrečią dieną galiojusių mokesčio įstatyme ar finansų ministro įsakyme
+nustatytų delspinigių ir padidintų delspinigių tarifų dydžius. Teisės aktai,
+kuriais sumažinamos arba panaikinamos baudos, taikomi ir už mokesčių įstatymų
+pažeidimus, padarytus prieš šių aktų įsigaliojimą, jei atsakomybę švelninantis
+arba panaikinantis teisės aktas įsigalioja ne vėliau kaip nutarimo skirti baudą
+priėmimo dieną, o jei mokesčio mokėtojas apskundžia mokesčio administratoriaus
+veiksmus, - ne vėliau kaip vietos mokesčio administratoriaus sprendimo,
+centrinio mokesčio administratoriaus sprendimo, Mokestinių ginčų komisijos
+sprendimo, Aukštesniojo administracinio teismo sprendimo, Lietuvos apeliacinio
+teismo Administracinių bylų skyriaus sprendimo priėmimo dieną.
 8. Tuo atveju,
 kai po deklaracijos (apyskaitos) pristatymo mokesčio administratoriui mokesčio
 mokėtojas pastebėjo, kad deklaravo per mažai mokesčio, bet iki pavedime
@@ -2071,8 +1987,8 @@ klaidas savanoriškai ištaisė, sumokėjo trūkstamą mokesčio dalį ir prista
 ataskaitinio (mokestinio) laikotarpio, kurį buvo padaryta klaida, patikslintas
 mokesčio deklaracijas (apyskaitas), už padarytą pažeidimą bauda neskiriama.
 Šiuo atveju delspinigiai skaičiuojami nuo kitos dienos po to, kai mokestis
-pagal įstatymus turėjo būti sumokėtas, iki mokesčio sumokėjimo dienos pagal patikslintą
-deklaraciją.
+pagal įstatymus turėjo būti sumokėtas, iki mokesčio sumokėjimo dienos pagal
+patikslintą deklaraciją.
 9. Teisės aktai,
 kuriais panaikinami delspinigiai už mokesčio administratoriui laiku nepraneštas
 žinias apie išmokėtas sumas, taikomi ir už teisės pažeidimus, padarytus prieš
@@ -2088,48 +2004,57 @@ tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-I-1416, 96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
+I-1416,
+96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
 Nr.
-VIII-107, 97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
+VIII-107,
+97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
+Nr. VIII-146,
+97.03.13, Žin., 1997, Nr.27-622 (97.03.28)
 Nr.
-VIII-146, 97.03.13, Žin., 1997, Nr.27-622 (97.03.28)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
-Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
-Nr.
-VIII-1277, 99.07.01, Žin., 1999, Nr.62-2034 (99.07.16)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+Nr. VIII-1277,
+99.07.01, Žin., 1999, Nr.62-2034 (99.07.16)
  
-     51
-straipsnis. Mokesčio administratoriaus atsakomybė
-     1.
-Įstatymus pažeidę mokesčio administratoriaus pareigūnai traukiami drausminėn, 
-materialinėn, baudžiamojon atsakomybėn įstatymų nustatyta tvarka.
-     2.
-Mokesčio  mokėtojų patirti nuostoliai dėl neteisėtų mokesčio administratoriaus
-ar jo pareigūnų veiksmų atlyginami Lietuvos Respublikos įstatymų nustatyta
-tvarka.
+ 
+            51 straipsnis. Mokesčio
+administratoriaus atsakomybė
+ 
+            1. Įstatymus pažeidę
+mokesčio administratoriaus pareigūnai traukiami drausminėn, materialinėn,
+baudžiamojon atsakomybėn įstatymų nustatyta tvarka.
+            2. Mokesčio mokėtojų patirti
+nuostoliai dėl neteisėtų mokesčio administratoriaus ar jo pareigūnų veiksmų
+atlyginami Lietuvos Respublikos įstatymų nustatyta tvarka.
  
 52 straipsnis.
 Baudų sumokėjimas ir išieškojimas
  
-1. Mokesčio administratoriaus
-paskirtos baudos už mokesčio įstatymų pažeidimus sumokamos ne vėliau kaip per
-90 dienų nuo tos dienos, kai asmeniui buvo įteiktas nutarimas skirti baudą.
-Tačiau jei per 20 dienų bauda nesumokama ar sumokama ne visa paskirta bauda,
-per likusį baudos sumokėjimo terminą skaičiuojamos tokio dydžio palūkanos kaip
-ir už suteiktą mokestinę paskolą. 
+1. Mokesčio
+administratoriaus paskirtos baudos už mokesčio įstatymų pažeidimus sumokamos ne
+vėliau kaip per 90 dienų nuo tos dienos, kai asmeniui buvo įteiktas nutarimas
+skirti baudą. Tačiau jei per 20 dienų bauda nesumokama ar sumokama ne visa
+paskirta bauda, per likusį baudos sumokėjimo terminą skaičiuojamos tokio dydžio
+palūkanos kaip ir už suteiktą mokestinę paskolą. 
 2. Bauda,
 nesumokėta per šio straipsnio pirmojoje dalyje nurodytą terminą, išieškoma
 tokia pat tvarka kaip ir nesumokėtas mokestis.
 Straipsnio
 pakeitimai:
 Nr.
-I-1416, 96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
+I-1416,
+96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
 Nr.
-VIII-107, 97.02.13, Žin., 1997, Nr.17-362 (97.02.26)
+VIII-107,
+97.02.13, Žin., 1997, Nr.17-362 (97.02.26)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+ 
  
 521
 straipsnis. Mokestinės nepriemokos į biudžetą ir fondus mokėjimo atidėjimas
@@ -2173,88 +2098,85 @@ straipsnio nuostatos netaikomos mokestį išskaičiuojančiam asmeniui.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-     53
-straipsnis. Leidimo (licencijos) verstis veikla ir eksporto bei importo
-operacijų atšaukimas
  
-     1.
-Asmeniui,  neįsiregistravusiam nustatyta tvarka kaip mokesčio mokėtojui,
-nepateikusiam mokesčio įstatymo nustatyta tvarka ir per nustatytus terminus
-mokesčio deklaracijos arba kitokiu būdu vengiančiam mokėti mokesčius,
-trukdančiam mokesčio administratoriui tinkamai  atlikti pareigas  ir 
-įgyvendinti įstatymo suteiktas teises, mokesčio administratoriaus pareigūnai
-gali sustabdyti leidimo (licencijos) galiojimą verstis atitinkama veikla, taip
-pat gali priimti sprendimą sustabdyti eksporto bei importo operacijas.
-     2.
-Institucija, gavusi šio straipsnio pirmojoje dalyje nustatyta tvarka mokesčio
-administratoriaus nurodymą, privalo jį įvykdyti nedelsdama, tik gavusi
-nurodymą.
+            53 straipsnis. Leidimo
+(licencijos) verstis veikla ir eksporto bei importo operacijų atšaukimas
+ 
+            1. Asmeniui,
+neįsiregistravusiam nustatyta tvarka kaip mokesčio mokėtojui, nepateikusiam
+mokesčio įstatymo nustatyta tvarka ir per nustatytus terminus mokesčio
+deklaracijos arba kitokiu būdu vengiančiam mokėti mokesčius, trukdančiam
+mokesčio administratoriui tinkamai atlikti pareigas ir įgyvendinti įstatymo
+suteiktas teises, mokesčio administratoriaus pareigūnai gali sustabdyti leidimo
+(licencijos) galiojimą verstis atitinkama veikla, taip pat gali priimti
+sprendimą sustabdyti eksporto bei importo operacijas.
+            2. Institucija, gavusi šio
+straipsnio pirmojoje dalyje nustatyta tvarka mokesčio administratoriaus
+nurodymą, privalo jį įvykdyti nedelsdama, tik gavusi nurodymą.
  
  
 X SKYRIUS.
 MOKESTINIAI GINČAI IR BYLINĖJIMASIS
  
-     54
-straipsnis. Mokestiniai ginčai
+            54 straipsnis. Mokestiniai
+ginčai
  
-     1.
-Mokesčio mokėtojas gali užginčyti kiekvieną mokesčio administratoriaus ar jo
-pareigūno veiksmą dėl jo ir šio veiksmo pasekmes.
-     2. Mokestinius
-ginčus nagrinėja vietos mokesčio administratorius, centrinis mokesčio
-administratorius, Mokestinių ginčų komisija ir teismas. Mokestinių ginčų
-komisiją steigia, jos sudėtį ir nuostatus tvirtina Vyriausybė ar jos įgaliota
-institucija.
-     3.
-Kiekviename mokestinio ginčo nagrinėjimo etape mokesčio mokėtojas turi teisę
-būti išklausytas.
-     4.
-Kiekviename mokestinio ginčo nagrinėjimo etape mokesčio administratorius turi
-stengtis, kad su mokesčio mokėtoju būtų pasiektas abipusis supratimas dėl
-vienodo mokesčio įstatymo taikymo.
-     5.
-Mokestiniai ginčai tarp mokesčio administratoriaus ir mokestį išskaičiuojančio
-asmens nagrinėjami tokia pat tvarka kaip ir mokestiniai ginčai tarp mokesčio
-administratoriaus ir mokesčio mokėtojo.
-     6.
-Mokesčio mokėtojas ar jo atstovas privalo pranešti mokestinį ginčą
-nagrinėjančiam mokesčio administratoriui apie savo adreso pasikeitimą šio ginčo
-proceso metu. Nesant tokio pranešimo, mokesčio administratoriaus sprendimas bei
-kita informacija siunčiama paskutiniu mokesčio administratoriui žinomu adresu
-ir laikoma įteikta, nors mokesčio mokėtojo adresas ir būtų pasikeitęs.
-     7.
-Mokesčio mokėtojui, praleidusiam įstatymo nustatytą skundo padavimo terminą dėl
-priežasčių, kurias mokesčio administratorius pripažįsta svarbiomis, šis
-terminas mokesčio administratoriaus sprendimu gali būti atnaujintas.
-Pareiškimas dėl praleisto termino atnaujinimo paduodamas tam mokesčio
-administratoriui, kurio kompetencijai priklauso sprendimo dėl skundo priėmimas,
-ir nagrinėjamas tokia pat tvarka kaip ir skundas.
-     8.
-Pareiškimas dėl praleisto termino atnaujinimo centriniam mokesčio
-administratoriui paduodamas per vietos mokesčio administratorių arba tiesiai.
-     9.
-Paduodant pareiškimą dėl termino atnaujinimo, kartu turi būti paduodamas ir
-skundas, kurio padavimo terminas yra praleistas. Mokesčio administratoriaus
-sprendimas, kuriuo atmetamas pareiškimas dėl termino atnaujinimo, gali būti
-apskųstas bendra šio įstatymo nustatyta tvarka.
-     10.
-Mokesčio administratorius, turintis priimti sprendimą dėl skundo, gali
-nuspręsti skundo ar jo dalies nagrinėjimą sustabdyti, jeigu priimamas
-sprendimas visiškai ar iš dalies priklauso nuo tam tikro juridinio fakto buvimo
-ar nebuvimo ir tokio juridinio fakto buvimas ar nebuvimas dar turi būti
-nustatytas teismo ar kitos valstybinės institucijos. Skundo ar jo dalies
-nagrinėjimas sustabdomas, iki mokesčio administratorius sužinos apie teismo ar
-kitos valstybės institucijos tokio juridinio fakto buvimo ar nebuvimo
-nustatymą.
-     11.
-Priėmus sprendimą atnaujinti praleistą terminą skundui paduoti, sustabdomas iki
-šio sprendimo priėmimo dienos dar neišieškotų pagal mokesčio administratoriaus
-(jo pareigūno) sprendimą mokesčių, baudų ir delspinigių išieškojimas. Tačiau
-šis sustabdymas nėra kliūtis paskirti bet kokią mokesčių ir kitų įmokų į
-biudžetą išieškojimo užtikrinimo priemonę, nustatytą šio įstatymo 17 straipsnio
-1 dalies 6, 11 ir 15 punktuose, ar pagrindas ją naikinti.
+            1. Mokesčio mokėtojas gali
+užginčyti kiekvieną mokesčio administratoriaus ar jo pareigūno veiksmą dėl jo
+ir šio veiksmo pasekmes.
+            2. Mokestinius ginčus
+nagrinėja vietos mokesčio administratorius, centrinis mokesčio administratorius,
+Mokestinių ginčų komisija ir teismas. Mokestinių ginčų komisiją steigia, jos
+sudėtį ir nuostatus tvirtina Vyriausybė ar jos įgaliota institucija.
+            3. Kiekviename mokestinio
+ginčo nagrinėjimo etape mokesčio mokėtojas turi teisę būti išklausytas.
+            4. Kiekviename mokestinio
+ginčo nagrinėjimo etape mokesčio administratorius turi stengtis, kad su
+mokesčio mokėtoju būtų pasiektas abipusis supratimas dėl vienodo mokesčio
+įstatymo taikymo.
+            5. Mokestiniai ginčai tarp
+mokesčio administratoriaus ir mokestį išskaičiuojančio asmens nagrinėjami tokia
+pat tvarka kaip ir mokestiniai ginčai tarp mokesčio administratoriaus ir
+mokesčio mokėtojo.
+            6. Mokesčio mokėtojas ar jo
+atstovas privalo pranešti mokestinį ginčą nagrinėjančiam mokesčio
+administratoriui apie savo adreso pasikeitimą šio ginčo proceso metu. Nesant
+tokio pranešimo, mokesčio administratoriaus sprendimas bei kita informacija
+siunčiama paskutiniu mokesčio administratoriui žinomu adresu ir laikoma
+įteikta, nors mokesčio mokėtojo adresas ir būtų pasikeitęs.
+            7. Mokesčio mokėtojui,
+praleidusiam įstatymo nustatytą skundo padavimo terminą dėl priežasčių, kurias
+mokesčio administratorius pripažįsta svarbiomis, šis terminas mokesčio
+administratoriaus sprendimu gali būti atnaujintas. Pareiškimas dėl praleisto termino
+atnaujinimo paduodamas tam mokesčio administratoriui, kurio kompetencijai
+priklauso sprendimo dėl skundo priėmimas, ir nagrinėjamas tokia pat tvarka kaip
+ir skundas.
+            8. Pareiškimas dėl praleisto
+termino atnaujinimo centriniam mokesčio administratoriui paduodamas per vietos
+mokesčio administratorių arba tiesiai.
+            9. Paduodant pareiškimą dėl
+termino atnaujinimo, kartu turi būti paduodamas ir skundas, kurio padavimo
+terminas yra praleistas. Mokesčio administratoriaus sprendimas, kuriuo
+atmetamas pareiškimas dėl termino atnaujinimo, gali būti apskųstas bendra šio
+įstatymo nustatyta tvarka.
+            10. Mokesčio
+administratorius, turintis priimti sprendimą dėl skundo, gali nuspręsti skundo
+ar jo dalies nagrinėjimą sustabdyti, jeigu priimamas sprendimas visiškai ar iš
+dalies priklauso nuo tam tikro juridinio fakto buvimo ar nebuvimo ir tokio
+juridinio fakto buvimas ar nebuvimas dar turi būti nustatytas teismo ar kitos
+valstybinės institucijos. Skundo ar jo dalies nagrinėjimas sustabdomas, iki
+mokesčio administratorius sužinos apie teismo ar kitos valstybės institucijos
+tokio juridinio fakto buvimo ar nebuvimo nustatymą.
+            11. Priėmus sprendimą
+atnaujinti praleistą terminą skundui paduoti, sustabdomas iki šio sprendimo
+priėmimo dienos dar neišieškotų pagal mokesčio administratoriaus (jo pareigūno)
+sprendimą mokesčių, baudų ir delspinigių išieškojimas. Tačiau šis sustabdymas
+nėra kliūtis paskirti bet kokią mokesčių ir kitų įmokų į biudžetą išieškojimo
+užtikrinimo priemonę, nustatytą šio įstatymo 17 straipsnio 1 dalies 6, 11 ir 15
+punktuose, ar pagrindas ją naikinti.
  
 Pastaba. Iki
 aukštesniojo administracinio teismo įsteigimo mokesčio mokėtojo skundai dėl
@@ -2266,166 +2188,173 @@ Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-107, 97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
+VIII-107,
+97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-     55
-straipsnis. Skundo pateikimas vietos mokesčio administratoriui
  
-     1. Vietos
-mokesčio administratorius nagrinėja mokestinius ginčus, kurie  iškyla
-tiesiogiai tarp mokesčio mokėtojo ir mokesčio administratoriaus pareigūno,
-atliekančio patikrinimą, laikydamasis mokesčių ir kitų įstatymų bei jų pagrindu
-priimtų poįstatyminių aktų.
-     2.
-Mokesčio mokėtojo skundas priimamas tik tada, jeigu:
-     1) 
-pateikiamas  raštu  per  20  dienų  nuo  mokesčio administratoriaus pareigūno
-surašyto sprendimo gavimo dienos;
-     2)  
-pateikiamas tam  mokesčio administratoriui, kurio pareigūno veiksmai
-skundžiami;
-     3) jame
-nurodyta mokesčio mokėtojo vardas, pavardė (pavadinimas), adresas, jo surašymo
-data; skundžiamas sprendimas, veiksmas ar neveikimas; skundžiamos aplinkybės,
-kuriomis pagrindžiamas sprendimo, veiksmo ar neveikimo arba jo dalies
-neteisėtumas ar nepagrįstumas; yra skundo pareiškėjo reikalavimas; prie skundo
-yra pridėtas rašytinės medžiagos sąrašas ir skundas yra pasirašytas.
-3. Skundo
-padavimas sustabdo ginčijamo mokesčio administratoriaus sprendimo ar jo dalies
-dėl mokesčių, baudų, delspinigių ir kitų įmokų išieškojimo vykdymą, bet nėra
+            55 straipsnis. Skundo
+pateikimas vietos mokesčio administratoriui
+ 
+            1. Vietos mokesčio
+administratorius nagrinėja mokestinius ginčus, kurie iškyla tiesiogiai tarp
+mokesčio mokėtojo ir mokesčio administratoriaus pareigūno, atliekančio
+patikrinimą, laikydamasis mokesčių ir kitų įstatymų bei jų pagrindu priimtų
+poįstatyminių aktų.
+            2. Mokesčio mokėtojo skundas
+priimamas tik tada, jeigu:
+            1) pateikiamas raštu per 20
+dienų nuo mokesčio administratoriaus pareigūno surašyto sprendimo gavimo
+dienos;
+            2) pateikiamas tam mokesčio
+administratoriui, kurio pareigūno veiksmai skundžiami;
+            3) jame nurodyta mokesčio
+mokėtojo vardas, pavardė (pavadinimas), adresas, jo surašymo data; skundžiamas
+sprendimas, veiksmas ar neveikimas; skundžiamos aplinkybės, kuriomis
+pagrindžiamas sprendimo, veiksmo ar neveikimo arba jo dalies neteisėtumas ar
+nepagrįstumas; yra skundo pareiškėjo reikalavimas; prie skundo yra pridėtas
+rašytinės medžiagos sąrašas ir skundas yra pasirašytas.
+3. Skundo padavimas
+sustabdo ginčijamo mokesčio administratoriaus sprendimo ar jo dalies dėl
+mokesčių, baudų, delspinigių ir kitų įmokų išieškojimo vykdymą, bet nėra
 kliūtis paskirti ar pagrindas naikinti bet kurią mokesčių ir kitų įmokų į
 valstybės (savivaldybės) biudžetą bei fondus išieškojimo užtikrinimo priemonę,
 nustatytą šio įstatymo 17 straipsnio 1 dalies 6, 11, 15, 17 punktuose.
-     4. Skundą
-gavęs vietos mokesčio administratorius privalo patikrinti, ar skundas atitinka
-įstatymo reikalavimus ir ar nepraleistas skundo padavimo terminas. Nustatęs,
-kad skundas neatitinka įstatymo reikalavimų, vietos mokesčio administratorius
-priima sprendimą ir nustato skundą padavusiam mokesčio mokėtojui 15 dienų
-terminą trūkumams pašalinti. Šis terminas pradedamas skaičiuoti nuo dienos,
-kurią gautas mokesčio administratoriaus sprendimas. Jeigu skundą padavęs
-mokesčio mokėtojas per nustatytą 15 dienų terminą įvykdo sprendime nurodytus
+            4. Skundą gavęs vietos
+mokesčio administratorius privalo patikrinti, ar skundas atitinka įstatymo
+reikalavimus ir ar nepraleistas skundo padavimo terminas. Nustatęs, kad skundas
+neatitinka įstatymo reikalavimų, vietos mokesčio administratorius priima
+sprendimą ir nustato skundą padavusiam mokesčio mokėtojui 15 dienų terminą
+trūkumams pašalinti. Šis terminas pradedamas skaičiuoti nuo dienos, kurią
+gautas mokesčio administratoriaus sprendimas. Jeigu skundą padavęs mokesčio
+mokėtojas per nustatytą 15 dienų terminą įvykdo sprendime nurodytus
 reikalavimus, skundas nagrinėjamas ir laikomas paduotu šių reikalavimų įvykdymo
 dieną. Priešingu atveju skundas laikomas nepaduotu ir grąžinamas jį padavusiam
 mokesčio mokėtojui. Jeigu yra praleistas skundo padavimo terminas, skundas taip
 pat laikomas nepaduotu ir grąžinamas jį padavusiam mokesčio mokėtojui.
 Klaidingas ar kitoks skundo pavadinimas nėra trūkumas, dėl kurio skundas būtų
 nenagrinėjamas.
-     5. Skundą 
-nagrinėjantis mokesčio administratorius turi priimti sprendimą per 30 dienų nuo
-skundo gavimo dienos.
-     6. Skundą
-nagrinėjantis mokesčio administratorius pagal savo kompetenciją:
-     1) 
-patvirtina  mokesčio  administratoriaus  pareigūno sprendimą;
-     2)
+            5. Skundą nagrinėjantis
+mokesčio administratorius turi priimti sprendimą per 30 dienų nuo skundo gavimo
+dienos.
+            6. Skundą nagrinėjantis
+mokesčio administratorius pagal savo kompetenciją:
+            1) patvirtina mokesčio
+administratoriaus pareigūno sprendimą;
+            2) panaikina mokesčio
+administratoriaus pareigūno sprendimą;
+            3) iš dalies patvirtina arba
 panaikina mokesčio administratoriaus pareigūno sprendimą;
-     3)  iš 
-dalies  patvirtina  arba  panaikina  mokesčio administratoriaus pareigūno
-sprendimą;
-     4) paveda
-atlikti pakartotinį patikrinimą.
+            4) paveda atlikti
+pakartotinį patikrinimą.
 Straipsnio
 pakeitimai:
 Nr.
-I-1416, 96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
+I-1416,
+96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
 Nr.
-VIII-107, 97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
+VIII-107,
+97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-     56
-straipsnis. Skundo nagrinėjimas ir pateikimas centriniam mokesčio
-administratoriui
  
-     1.
-Centrinis  mokesčio administratorius  nagrinėja tuos mokestinius  ginčus, 
-kuriuos  nagrinėjo  vietos  mokesčio administratorius, arba  jei vietos
-mokesčio administratorius nepriėmė jokio sprendimo per 55 straipsnio
-ketvirtojoje dalyje nurodytą terminą.
-     2. Skundas
-centriniam mokesčio administratoriui dėl vietos mokesčio administratoriaus
-sprendimo, veiksmo ar neveikimo arba dėl to, kad vietos mokesčio
-administratorius nepriėmė jokio sprendimo per 55 straipsnio 5 dalyje nurodytą
-terminą, paduodamas per tą vietos mokesčio administratorių, kurio sprendimas,
-veiksmas ar neveikimas skundžiamas arba kuris nepriėmė jokio sprendimo per 55
-straipsnio 5 dalyje nurodytą terminą, arba tiesiai. Centriniam mokesčio
-administratoriui pateikiamame skunde negalima skųsti vietos mokesčio
-administratoriaus pareigūno sprendimo, veiksmo ar neveikimo tos dalies, kuri
-nebuvo apskųsta vietos mokesčio administratoriui, taip pat negalima kelti
-reikalavimų, kurie nebuvo pareikšti vietos mokesčio administratoriui. Mokesčio
-administratorius, gavęs skundą, atlieka 55 straipsnio 4 dalyje nurodytus
-veiksmus. Jei skundas paduodamas per vietos mokesčio administratorių ir jis
-atitinka įstatymo reikalavimus bei yra paduotas nepraleidus įstatyme nustatyto
-skundo padavimo termino arba kreipiamasi dėl šio termino atnaujinimo, vietos
-mokesčio administratorius per 3 paras jį su skundo nagrinėjimui reikalinga
-medžiaga nusiunčia centriniam mokesčio administratoriui.
-     3. Jeigu 
-skundas pateikiamas  dėl centrinio  mokesčio administratoriaus pareigūnų
-priimtų sprendimų, šio straipsnio pirmoji dalis netaikoma.
-     4. Skundas
-centriniam mokesčio administratoriui nagrinėjamas tik tada, jeigu:
-     1)
-pateikiamas raštu per 20 dienų po to, kai buvo gautas vietos mokesčio
-administratoriaus sprendimas dėl skundo tyrimo rezultatų arba pasibaigė laikas,
-per kurį toks sprendimas turėjo būti priimtas;
-     2) dėl
-centrinio mokesčio administratoriaus (jo pareigūnų) sprendimo pateikiamas
-centriniam mokesčio administratoriui raštu per 20 dienų po skundžiamo sprendimo
-gavimo dienos;
-     3) jis
-atitinka šio įstatymo 55 straipsnio 2 dalies 3 punkto reikalavimus.
-     5. Skundo
-padavimas centriniam mokesčio administratoriui sustabdo ginčijamo vietos
-mokesčio administratoriaus sprendimo ar jo dalies dėl mokesčių, baudų,
-delspinigių ir kitų įmokų išieškojimo vykdymą, bet nėra kliūtis paskirti ar
-pagrindas naikinti bet kurią mokesčių ir kitų įmokų į valstybės (savivaldybės)
-biudžetą bei fondus išieškojimo užtikrinimo priemonę, nustatytą šio įstatymo 17
-straipsnio 1 dalies 6, 11, 15, 17 punktuose.
-     6.
-Centrinis  mokesčio  administratorius  turi  priimti sprendimą dėl skundo per
-30 dienų nuo skundo pateikimo dienos. Šis terminas  centrinio  mokesčio 
-administratoriaus  vadovo sprendimu gali būti pratęstas iki 60 dienų, jeigu
-skundui nagrinėti reikalingas papildomas tyrimas. Apie tai turi būti raštu
-pranešta skundą padavusiam asmeniui.
-     7. 
-Centrinis  mokesčio  administratorius  pagal  savo kompetenciją:
-     1)
-patvirtina  vietos mokesčio  administratoriaus  arba centrinio mokesčio
-administratoriaus pareigūno sprendimą, kurį mokesčio mokėtojas skundžia;
-     2)
-panaikina  vietos  mokesčio  administratoriaus  arba centrinio mokesčio
-administratoriaus pareigūno sprendimą, kurį mokesčio mokėtojas skundžia;
-     3) iš
-dalies patvirtina arba panaikina vietos mokesčio administratoriaus arba 
-centrinio mokesčio  administratoriaus pareigūno sprendimą, kuris buvo
-skundžiamas;
-     4)  duoda 
-nurodymą  vietos  mokesčio  administratoriui skundžiamą sprendimą apsvarstyti
-iš naujo ir priimti naują sprendimą.
-     8.
-Centrinis mokesčio administratorius, nagrinėdamas vietos mokesčio
-administratoriaus sprendimą, savo arba savo pareigūno tiesiogiai priimtą 
-sprendimą, turi teisę išnagrinėti visus klausimus, susijusius su mokesčio
-mokėtojo apmokestinimu, ir turi teisę pakeisti priimtą sprendimą.
+            56 straipsnis. Skundo
+nagrinėjimas ir pateikimas centriniam mokesčio administratoriui
+ 
+            1. Centrinis mokesčio
+administratorius nagrinėja tuos mokestinius ginčus, kuriuos nagrinėjo vietos
+mokesčio administratorius, arba jei vietos mokesčio administratorius nepriėmė
+jokio sprendimo per 55 straipsnio ketvirtojoje dalyje nurodytą terminą.
+            2. Skundas centriniam
+mokesčio administratoriui dėl vietos mokesčio administratoriaus sprendimo,
+veiksmo ar neveikimo arba dėl to, kad vietos mokesčio administratorius nepriėmė
+jokio sprendimo per 55 straipsnio 5 dalyje nurodytą terminą, paduodamas per tą
+vietos mokesčio administratorių, kurio sprendimas, veiksmas ar neveikimas
+skundžiamas arba kuris nepriėmė jokio sprendimo per 55 straipsnio 5 dalyje
+nurodytą terminą, arba tiesiai. Centriniam mokesčio administratoriui
+pateikiamame skunde negalima skųsti vietos mokesčio administratoriaus pareigūno
+sprendimo, veiksmo ar neveikimo tos dalies, kuri nebuvo apskųsta vietos
+mokesčio administratoriui, taip pat negalima kelti reikalavimų, kurie nebuvo
+pareikšti vietos mokesčio administratoriui. Mokesčio administratorius, gavęs
+skundą, atlieka 55 straipsnio 4 dalyje nurodytus veiksmus. Jei skundas
+paduodamas per vietos mokesčio administratorių ir jis atitinka įstatymo
+reikalavimus bei yra paduotas nepraleidus įstatyme nustatyto skundo padavimo
+termino arba kreipiamasi dėl šio termino atnaujinimo, vietos mokesčio
+administratorius per 3 paras jį su skundo nagrinėjimui reikalinga medžiaga
+nusiunčia centriniam mokesčio administratoriui.
+            3. Jeigu skundas pateikiamas
+dėl centrinio mokesčio administratoriaus pareigūnų priimtų sprendimų, šio
+straipsnio pirmoji dalis netaikoma.
+            4. Skundas centriniam
+mokesčio administratoriui nagrinėjamas tik tada, jeigu:
+            1) pateikiamas raštu per 20
+dienų po to, kai buvo gautas vietos mokesčio administratoriaus sprendimas dėl
+skundo tyrimo rezultatų arba pasibaigė laikas, per kurį toks sprendimas turėjo
+būti priimtas;
+            2) dėl centrinio mokesčio
+administratoriaus (jo pareigūnų) sprendimo pateikiamas centriniam mokesčio
+administratoriui raštu per 20 dienų po skundžiamo sprendimo gavimo dienos;
+            3) jis atitinka šio įstatymo
+55 straipsnio 2 dalies 3 punkto reikalavimus.
+            5. Skundo padavimas
+centriniam mokesčio administratoriui sustabdo ginčijamo vietos mokesčio
+administratoriaus sprendimo ar jo dalies dėl mokesčių, baudų, delspinigių ir
+kitų įmokų išieškojimo vykdymą, bet nėra kliūtis paskirti ar pagrindas naikinti
+bet kurią mokesčių ir kitų įmokų į valstybės (savivaldybės) biudžetą bei fondus
+išieškojimo užtikrinimo priemonę, nustatytą šio įstatymo 17 straipsnio 1 dalies
+6, 11, 15, 17 punktuose.
+            6. Centrinis mokesčio
+administratorius turi priimti sprendimą dėl skundo per 30 dienų nuo skundo
+pateikimo dienos. Šis terminas centrinio mokesčio administratoriaus vadovo
+sprendimu gali būti pratęstas iki 60 dienų, jeigu skundui nagrinėti reikalingas
+papildomas tyrimas. Apie tai turi būti raštu pranešta skundą padavusiam
+asmeniui.
+            7. Centrinis mokesčio
+administratorius pagal savo kompetenciją:
+            1) patvirtina vietos
+mokesčio administratoriaus arba centrinio mokesčio administratoriaus pareigūno
+sprendimą, kurį mokesčio mokėtojas skundžia;
+            2) panaikina vietos mokesčio
+administratoriaus arba centrinio mokesčio administratoriaus pareigūno sprendimą,
+kurį mokesčio mokėtojas skundžia;
+            3) iš dalies patvirtina arba
+panaikina vietos mokesčio administratoriaus arba centrinio mokesčio
+administratoriaus pareigūno sprendimą, kuris buvo skundžiamas;
+            4) duoda nurodymą vietos
+mokesčio administratoriui skundžiamą sprendimą apsvarstyti iš naujo ir priimti
+naują sprendimą.
+            8. Centrinis mokesčio
+administratorius, nagrinėdamas vietos mokesčio administratoriaus sprendimą,
+savo arba savo pareigūno tiesiogiai priimtą sprendimą, turi teisę išnagrinėti
+visus klausimus, susijusius su mokesčio mokėtojo apmokestinimu, ir turi teisę
+pakeisti priimtą sprendimą.
 Straipsnio
 pakeitimai:
 Nr.
-I-1416, 96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
+I-1416,
+96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
 Nr.
-VIII-107, 97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
+VIII-107,
+97.02.13, Žin., 1997, Nr.17-362 (97.02.26) 
 Nr.
-VIII-293, 97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+ 
  
 561
-straipsnis. Mokesčio administratoriaus sprendimo apskundimas Mokestinių ginčų 
-komisijai
-
+straipsnis. Mokesčio administratoriaus sprendimo apskundimas Mokestinių ginčų
+komisijai 
+ 
 1. Mokestinių
 ginčų komisija nagrinėja tuos skundus, kuriuos išnagrinėjo centrinis mokesčio
 administratorius. 
@@ -2460,20 +2389,24 @@ dalies patvirtino Mokestinių ginčų komisija, nagrinėjami Vilniaus apygardos
 teisme. Skundai dėl vietos arba centrinio mokesčio administratoriaus veiksmų
 (sprendimų), paduoti teismams iki šio įstatymo įsigaliojimo, toliau nagrinėjami
 Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+ 
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-     57
-straipsnis. Sprendimo dėl skundo formulavimas
-     1.
-Mokesčio administratorius ar Mokestinių ginčų komisija, išnagrinėjusi skundą,
-apie priimtą sprendimą nedelsdama raštu informuoja mokesčio mokėtoją,
-nurodydama sprendimo priėmimo pagrindus, o Mokestinių ginčų komisija - taip pat
-ir centrinį mokesčio administratorių.
-     2.
-Sprendime išaiškinama mokesčio mokėtojo teisė apskųsti priimtąjį sprendimą.
+ 
+            57 straipsnis. Sprendimo dėl
+skundo formulavimas
+ 
+            1. Mokesčio administratorius
+ar Mokestinių ginčų komisija, išnagrinėjusi skundą, apie priimtą sprendimą
+nedelsdama raštu informuoja mokesčio mokėtoją, nurodydama sprendimo priėmimo
+pagrindus, o Mokestinių ginčų komisija - taip pat ir centrinį mokesčio
+administratorių.
+            2. Sprendime išaiškinama
+mokesčio mokėtojo teisė apskųsti priimtąjį sprendimą.
 3. Praėjus šiame
 įstatyme nustatytiems apskundimo terminams, mokesčio administratoriaus ar
 Mokestinių ginčų komisijos priimtą sprendimą privalo vykdyti ginčo šalys, taip
@@ -2493,10 +2426,12 @@ Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
-      58
-straipsnis. Apskundimas teismui
+58 straipsnis.
+Apskundimas teismui
+ 
 1. Mokesčio
 mokėtojas, nesutinkantis su Mokestinių ginčų komisijos sprendimu, kuriuo
 patvirtinamas visiškai arba iš dalies centrinio mokesčio administratoriaus
@@ -2507,8 +2442,8 @@ teismui mokesčio mokėtojas turi paduoti ne vėliau kaip per 20 dienų po
 Mokestinių ginčų komisijos sprendimo gavimo dienos. 
 3. Mokesčio
 mokėtojo skundai nagrinėjami aukštesniajame administraciniame teisme. 
-    4. Mokesčio administratorius turi
-teisę per visuomenės informavimo priemones supažindinti visuomenę su teismų
+ 4. Mokesčio administratorius turi teisę
+per visuomenės informavimo priemones supažindinti visuomenę su teismų
 sprendimais mokesčių bylose.
  
 Pastaba. Iki
@@ -2521,43 +2456,254 @@ Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-838, 98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
  
 XI SKYRIUS. DATŲ IR
 DOKUMENTŲ PRIPAŽINIMAS
  
-     59
-straipsnis. Terminų nustatymas
-     1.
-Dokumentų įteikimo mokesčio administratoriui data laikoma ta data, kurią
-mokesčio administratorius pažymi, kad dokumentai gauti.
-     2.
-Dokumentų įteikimo mokesčio mokėtojui data laikoma ta data, kurią mokesčio
-mokėtojas pažymi, kad dokumentus jis gavo.
-     3. Jeigu
-mokesčio administratorius arba mokesčio mokėtojas dokumentus siunčia paštu,
-dokumento gavimo data nustatoma pagal oficialų pašto antspaudą, uždėtą pašto
-įstaigos, turinčios tam teisę.
-     4. Tais
-atvejais, kai nėra įrodymų apie dokumento gavimą paštu, terminai nustatomi
-pagal išsiuntimo datą, patvirtintą oficialiu pašto antspaudu.
-     5. Šio
-straipsnio pirmojoje, antrojoje ir trečiojoje dalyse išvardytos datų  nustatymo
-taisyklės taikomos tikrinant, ar nepažeisti mokesčių įstatymuose nustatyti
-terminai.
-     6. Jeigu
-pagal įstatymą paskutinė veiksmo atlikimo diena mokesčio administratoriui yra
-ne darbo diena, veiksmas turi būti atliktas kitą dieną po ne darbo dienos.
+            59 straipsnis. Terminų
+nustatymas
  
-     60
-straipsnis. Dokumentų pripažinimas
-     Senaties
-terminai nustatomi tik pagal dokumentų originalus, turinčius visus privalomus
-rekvizitus, suteikiančius dokumentui juridinę galią.
+            1. Dokumentų įteikimo
+mokesčio administratoriui data laikoma ta data, kurią mokesčio administratorius
+pažymi, kad dokumentai gauti.
+            2. Dokumentų įteikimo
+mokesčio mokėtojui data laikoma ta data, kurią mokesčio mokėtojas pažymi, kad
+dokumentus jis gavo.
+            3. Jeigu mokesčio
+administratorius arba mokesčio mokėtojas dokumentus siunčia paštu, dokumento
+gavimo data nustatoma pagal oficialų pašto antspaudą, uždėtą pašto įstaigos,
+turinčios tam teisę.
+            4. Tais atvejais, kai nėra
+įrodymų apie dokumento gavimą paštu, terminai nustatomi pagal išsiuntimo datą,
+patvirtintą oficialiu pašto antspaudu.
+            5. Šio straipsnio pirmojoje,
+antrojoje ir trečiojoje dalyse išvardytos datų nustatymo taisyklės taikomos
+tikrinant, ar nepažeisti mokesčių įstatymuose nustatyti terminai.
+            6. Jeigu pagal įstatymą
+paskutinė veiksmo atlikimo diena mokesčio administratoriui yra ne darbo diena,
+veiksmas turi būti atliktas kitą dieną po ne darbo dienos.
  
-     Skelbiu šį
-Lietuvos Respublikos Seimo priimtą įstatymą.
+            60 straipsnis. Dokumentų
+pripažinimas
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
-BRAZAUSKAS
+            Senaties terminai nustatomi
+tik pagal dokumentų originalus, turinčius visus privalomus rekvizitus,
+suteikiančius dokumentui juridinę galią.
+ 
+            Skelbiu šį Lietuvos Respublikos
+Seimo priimtą įstatymą.
+ 
+RESPUBLIKOS PREZIDENTAS                     
+                       ALGIRDAS BRAZAUSKAS
+ 
+_________
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-1370, 96.06.06, Žin., 1996, Nr. 57-1342 (96.06.19)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-1382,
+96.06.13, Žin., 1996, Nr. 59-1404 (96.06.22)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO PAPILDYMO 26(1) STRAIPSNIU
+ĮSTATYMAS
+ 
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+I-1416,
+96.07.02, Žin., 1996, Nr. 66-1574 (96.07.12)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 5, 8, 11, 17, 25, 50, 52, 55, 56
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-107,
+97.02.13, Žin., 1997, Nr.17-362 (97.02.26)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 25, 39, 49, 50, 52, 54, 55, 56
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 39(1) STRAIPSNIU ĮSTATYMAS
+ 
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-146,
+97.03.13, Žin., 1997, Nr.27-622 (97.03.28)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 49 IR 50 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+ 
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas 
+Nr.
+VIII-164,
+97.03.27, Žin., 1997, Nr.28-660 (97.03.29)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 26(1) STRAIPSNIO PAKEITIMO
+ĮSTATYMAS 
+ 
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-293,
+97.06.24, Žin., 1997, Nr.66-1594 (97.07.11)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 16, 17, 28, 33, 37, 38, 39, 40,
+47, 48, 50, 55 IR 56 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-555,
+97.12.09, Žin., 1997, Nr.117-2995 (97.12.24)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 7 STRAIPSNIO PAKETIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 1998 m. sausio 1 d.
+ 
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-838,
+98.07.02, Žin., 1998, Nr.68-1978 (98.07.31)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 17, 26, 261, 27, 29, 30, 31,
+32, 33, 37, 38, 39, 391, 49, 50, 52, 54, 55, 56, 57, 58 STRAIPSNIŲ PAPILDYMO IR
+PAKEITIMO BEI PAPILDYMO 271, 272, 291, 521, 561 STRAIPSNIAIS IR 47, 48
+STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+ 
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-867,
+98.09.29, Žin., 1998, Nr.90-2483 (98.10.14)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO IR
+PAKEITIMO ĮSTATYMAS
+ 
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-892,
+98.10.15, Žin., 1998, Nr.95-2635 (98.10.30)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 22 STRAIPSNIO PAPILDYMO IR
+PAKEITIMO ĮSTATYMAS
+ 
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-963,
+98.12.10, Žin., 1998, Nr.114-3190 (98.12.30)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 17 IR 25 STRAIPSNIŲ PAPILDYMO
+ĮSTATYMAS
+ 
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-1122,
+99.04.06, Žin., 1999, Nr.36-1060 (99.04.23)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 17, 38 STRAIPSNIŲ PAPILDYMO IR
+PAKEITIMO BEI PAPILDYMO 38(1) STRAIPSNIU ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 1999 m. gegužės 1 d.
+ 
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-1277,
+99.07.01, Žin., 1999, Nr.62-2034 (99.07.16)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 39, 50 STRAIPSNIŲ PAPILDYMO IR
+PAKEITIMO ĮSTATYMAS
+ 
+15.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-1310,
+99.07.07, Žin., 1999, Nr.66-2126 (99.07.30)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1334, 99.09.23, Žin., 1999,
+Nr.84-2493 (99.10.08)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 42 STRAIPSNIO PAKEITIMO IR 46
+STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1382, 99.11.04, Žin., 1999,
+Nr.101-2903 (99.11.26)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 5, 17, 32, 33, 34, 35,
+36, 37 STRAIPSNIŲ PAKEITIMO, 29(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR
+PAPILDYMO 32(1) STRAIPSNIU ĮSTATYMAS
+Šio
+įstatymo nuostatos, susijusios su turto arešto aktų registravimu turto arešto
+aktų registre, įsigalioja turto arešto aktų registrui pradėjus darbą.
+Iki
+turto arešto aktų registras pradės darbą, sprendimas areštuoti turto registre
+registruojamą turtą siunčiamas atitinkamam turto registrui, kuris apie turto
+areštą nedelsiant turi pažymėti turto registre.
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1533, 00.02.08, Žin., 2000,
+Nr.15-381 (00.02.23)
+LIETUVOS
+RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 29 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1559, 00.02.17, Žin., 2000,
+Nr.22-555 (00.03.15)
+MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 29 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1817, 00.07.11, Žin., 2000,
+Nr.61-1823 (00.07.26)
+MOKESČIŲ ADMINSTRAVIMO ĮSTATYMO 16 STRAIPSNIO PAPILDYMO
+IR PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2001
+m. sausio 1 d.
+ 
+*** Pabaiga ***
+ 
+ 
+Redagavo: Aušrinė Trapinskienė (2000.08.08)
 
