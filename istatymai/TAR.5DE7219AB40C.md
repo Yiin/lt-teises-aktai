@@ -16,7 +16,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
-Ramunė Lūžaitė (1997.04.23)
+Ramunė Lūžaitė (1997.06.19)
+ 
+Įstatymas
+paskelbtas: Žin., 1991, Nr.6-161
  
 Neoficialus
 įstatymo tekstas
@@ -40,6 +43,14 @@ LIETUVOS
 RESPUBLIKOS FARMACINĖS VEIKLOS ĮSTATYMO 1, 5, 7, 10, 12, 14, 16, 17, 19, 21,
 22, 23, 24 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 25 STRAIPSNIU ĮSTATYMAS
  
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-258,
+97.06.12, Žin., 1997, Nr.58-1332 (97.06.20)
+FARMACINĖS
+VEIKLOS ĮSTATYMO 10, 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS 
+ 
 ***
 Pabaiga ***
  
@@ -48,7 +59,7 @@ LIETUVOS RESPUBLIKOS
 FARMACINĖS VEIKLOS
  
 Į S T A T Y M A S
-(Žin., 1991, Nr.6-161) 
+ 
  
  
  
@@ -102,8 +113,8 @@ gaminiai gyventojams, sveikatos priežiūros ir kitoms įstaigoms bei įmonėms;
 kokybę, gamybą, kokybinę bei kiekybinę kontrolę, laikymo sąlygas bei
 pavadinimus, rinkinys;
      valstybinis 
-vaistų registras - vaistų ir  vaistinių medžiagų, kurios leidžiamos vartoti medicinos
-ir veterinarijos reikmėms Lietuvos Respublikoje, galiojantis sąrašas.
+vaistų registras - vaistų ir  vaistinių medžiagų, kurios leidžiamos vartoti
+medicinos ir veterinarijos reikmėms Lietuvos Respublikoje, galiojantis sąrašas.
  
 Straipsnio
 pakeitimai:
@@ -199,17 +210,17 @@ sąlygos
      10
 straipsnis.
  
-     Lietuvos
-Respublikoje įmonės ir fiziniai asmenys gali užsiimti farmacine veikla tik
-turėdami Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos
-ministerijos leidimą (licenciją). Sveikatos priežiūros įstaigų padaliniai  gali
-užsiimti farmacine veikla tik turėdami Valstybinės vaistų kontrolės  tarnybos 
-prie Sveikatos apsaugos  ministerijos akreditavimo pažymėjimą.
- 
+    
+Lietuvos Respublikoje įmonės, sveikatos priežiūros įstaigų padaliniai ir
+fiziniai asmenys gali užsiimti farmacine veikla tik turėdami Sveikatos apsaugos
+ministerijos leidimą (licenciją).
+     
 Straipsnio
 pakeitimai:
 Nr.
 I-1442, 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
+Nr. VIII-258,
+97.06.12, Žin., 1997, Nr.58-1332 (97.06.20)
  
      11
 straipsnis.
@@ -258,14 +269,23 @@ vaistinėse.
 straipsnis.
  
      Vaistai,
-vaistinės medžiagos bei gamtinės kilmės vaistinės žaliavos gali būti
-parduodamos gyventojams, taip pat įmonėms ar įstaigoms,  neturinčioms  leidimo 
-(licencijos)  farmacinei veiklai, tik per vaistines.
+vaistinės medžiagos bei gamtinės kilmės vaistinės žaliavos gali būti parduodamos
+gyventojams, taip pat įmonėms ar įstaigoms, neturinčioms leidimo (licencijos)
+farmacinei veiklai, tik per vaistines.
+    
+Kaimo vietovėse, jeigu nėra vaistinės ar jos filialo, gyventojai aprūpinami
+vaistais, įrašytais Sveikatos apsaugos ministerijos patvirtintame sąraše, per
+kaimo vietovėse esančias pirminės sveikatos priežiūros įstaigas pagal dvišales
+sutartis su vaistinėmis Sveikatos apsaugos ministerijos nustatyta tvarka.
+Pirminės sveikatos priežiūros įstaigos gali užsiimti šia veikla tik turėdamos
+savivaldybės mero rekomendaciją.
  
 Straipsnio
 pakeitimai:
 Nr.
 I-1442, 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)  
+Nr. VIII-258,
+97.06.12, Žin., 1997, Nr.58-1332 (97.06.20)
  
      15
 straipsnis.
@@ -305,7 +325,8 @@ reklamos  priežiūrą vykdo  Valstybinė  vaistų kontrolės tarnyba prie Sv
 apsaugos ministerijos ir Valstybinė veterinarijos tarnyba.
      Vaistus,
 išduodamus tik su gydytojų receptais, reklamuoti leidžiama tik per specialiąją
-spaudą ir kitas informavimo priemones, skirtas medicinos ar farmacijos specialistams.
+spaudą ir kitas informavimo priemones, skirtas medicinos ar farmacijos
+specialistams.
      Vaistus, 
 išduodamus be gydytojo  receptų,  leidžiama reklamuoti visuomenės informavimo
 priemonėse su būtina nuoroda “ Dėl vaistų vartojimo ir galimo pašalinio veikimo
@@ -397,8 +418,8 @@ veterinarijoje  tik  turėdami Valstybinės veterinarijos tarnybos leidimą
 (licenciją).
      Leidimas 
 (licencija)  užsiimti  farmacine  veikla veterinarijoje  gali būti išduodamas
-tik tiems  fiziniams asmenims, kurie turi aukštąjį ar specialųjį vidurinį
-farmacinį arba veterinarinį išsilavinimą.
+tik tiems  fiziniams asmenims, kurie turi aukštąjį ar specialųjį vidurinį farmacinį
+arba veterinarinį išsilavinimą.
  
 Straipsnio
 pakeitimai:
@@ -434,7 +455,7 @@ I-1442, 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
 LIETUVOS
 RESPUBLIKOS
  AUKŠČIAUSIOSIOS
-TARYBOS PIRMININKAS                       V.LANDSBERGIS 
+TARYBOS PIRMININKAS                       V.LANDSBERGIS 
  
 Vilnius,
 1991 m. sausio 31 d. Nr. I-1025
