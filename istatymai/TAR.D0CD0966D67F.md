@@ -430,16 +430,19 @@ Savivaldybių institucijų ar kitų savivaldybės viešojo administravimo subjek
 priimtus norminius administracinius teisės aktus gali sustabdyti Vyriausybės
 atstovas apskrityje. Be to, jis gali kreiptis į teismą dėl tokių aktų
 panaikinimo.
-3. Bet kuri šio
-straipsnio 2 dalyje nurodyta institucija, panaikinusi kito savivaldybės
-administravimo subjekto norminį administracinį teisės aktą, prireikus perduoda
-klausimą iš naujo nagrinėti tam pačiam administravimo subjektui, kurios aktas
-panaikintas, arba pati jį išnagrinėja ir priima tuo klausimu norminį
-administracinį teisės aktą, arba pripažįsta, kad tokio akto priimti nereikia.
+3. Bet kuri šio straipsnio 2 dalyje nurodyta savivaldybės
+institucija, panaikinusi kito savivaldybės administravimo subjekto norminį
+administracinį teisės aktą, prireikus perduoda klausimą iš naujo nagrinėti tam
+pačiam administravimo subjektui, kurio aktas panaikintas, arba pati jį
+išnagrinėja ir priima tuo klausimu norminį administracinį teisės aktą, arba
+pripažįsta, kad tokio akto priimti nereikia.
 4. Savivaldybių
 institucijų ir kitų savivaldybės viešojo administravimo subjektų priimti
 individualūs administraciniai teisės aktai gali būti skundžiami teismui.
 
+Straipsnio pakeitimai:
+Nr. IX-519,
+2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
  
 12 straipsnis.
 Savivaldybės taryba
@@ -468,12 +471,11 @@ taryba netenka įgaliojimų.
 13 straipsnis.
 Tarybos veiklos formos
 1. Savivaldybės
-taryba savo įgaliojimus įgyvendina kolegialiai savivaldybės tarybos
-posėdžiuose. Savivaldybės tarybos posėdžiams klausimus rengia savivaldybės
-tarybos komitetai (toliau – komitetai) bei komisijos savo posėdžiuose, tarybos
-narių frakcijos ir grupės pasitarimuose ir savivaldybės administracija.
-Savivaldybės taryba svarstomais klausimais priima sprendimus ir kontroliuoja jų
-įgyvendinimą. 
+taryba savo įgaliojimus įgyvendina kolegialiai savivaldybės tarybos posėdžiuose.
+Savivaldybės tarybos posėdžiams klausimus rengia savivaldybės tarybos komitetai
+(toliau – komitetai) bei komisijos savo posėdžiuose, tarybos narių frakcijos ir
+grupės pasitarimuose ir savivaldybės administracija. Savivaldybės taryba
+svarstomais klausimais priima sprendimus ir kontroliuoja jų įgyvendinimą. 
 2. Savivaldybės
 taryba ne rečiau kaip vieną kartą per metus tarybos veiklos reglamente
 nustatyta tvarka turi pateikti savivaldybės gyventojams viešą atlikto darbo
@@ -487,20 +489,20 @@ Savivaldybės tarybos posėdžiai
 1. Savivaldybės
 tarybos posėdžiai yra teisėti, jeigu juose dalyvauja išrinktų tarybos narių
 dauguma.
-2. Pirmąjį
-naujai išrinktos savivaldybės tarybos posėdį šaukia apygardos rinkimų komisijos
-pirmininkas ne vėliau kaip per dvi savaites po rinkimų rezultatų paskelbimo.
-Apie pirmojo posėdžio sušaukimo laiką ir vietą apygardos rinkimų komisijos
-pirmininkas ne vėliau kaip prieš 3 dienas paskelbia per visuomenės informavimo
-priemones. Pirmajame savivaldybės tarybos posėdyje, kuriam pirmininkauja
-apygardos rinkimų komisijos pirmininkas, svarstomas tik vienas klausimas –
-renkamas savivaldybės meras. Jeigu per pirmąjį posėdį meras neišrenkamas,
-savivaldybės taryba priima sprendimą dėl kito posėdžio datos. Jis turi įvykti
-ne vėliau kaip per 7 kalendorines dienas po pirmojo posėdžio, jam taip pat
-pirmininkauja apygardos rinkimų komisijos pirmininkas. Jeigu apygardos rinkimų
-komisijos pirmininkas posėdžio nešaukia, tarybos nariai renkasi patys kitą
-dieną pasibaigus dviejų savaičių terminui po rinkimų rezultatų paskelbimo. Šiuo
-atveju posėdžiui pirmininkauja pagal amžių vyriausias tarybos narys.
+2. Pirmąjį naujai išrinktos savivaldybės tarybos
+posėdį šaukia apygardos rinkimų komisijos pirmininkas ne vėliau kaip per dvi
+savaites po rinkimų rezultatų paskelbimo. Apie pirmojo posėdžio sušaukimo laiką
+ir vietą apygardos rinkimų komisijos pirmininkas ne vėliau kaip prieš 3 dienas
+paskelbia per visuomenės informavimo priemones. Pirmajame savivaldybės tarybos
+posėdyje, kuriam pirmininkauja apygardos rinkimų komisijos pirmininkas,
+svarstomas tik vienas klausimas – renkamas savivaldybės meras. Jeigu per
+pirmąjį posėdį meras neišrenkamas, savivaldybės taryba priima sprendimą dėl
+kito posėdžio datos. Jis turi įvykti ne vėliau kaip per 7 kalendorines dienas
+po pirmojo posėdžio, jam taip pat pirmininkauja apygardos rinkimų komisijos
+pirmininkas. Jeigu apygardos rinkimų komisijos pirmininkas posėdžio nešaukia,
+tarybos nariai renkasi patys kitą dieną pasibaigus dviejų savaičių terminui po
+rinkimų rezultatų paskelbimo. Šiuo atveju posėdžiui pirmininkauja pagal amžių
+vyriausias tarybos narys.
 3. Kitus
 savivaldybės tarybos posėdžius prireikus, bet ne rečiau kaip kas 3 mėnesiai,
 šaukia meras, o kai jo nėra,– mero pavaduotojas. Posėdžiams pirmininkauja
@@ -528,9 +530,9 @@ siūlymu.
 6. Savivaldybės
 tarybos sprendimai priimami posėdyje dalyvaujančių tarybos narių balsų dauguma.
 Jeigu balsai pasiskirsto po lygiai, lemia mero arba posėdžio pirmininko balsas.
-Tarybos narys privalo nusišalinti, kai sprendžiami su juo ar jo šeimos nariais
-ir artimaisiais giminaičiais susiję turtiniai bei finansiniai klausimai arba
-kai jo dalyvavimas balsuojant galėtų sukelti viešųjų ir privačių interesų
+Tarybos narys privalo nusišalinti, kai sprendžiami su juo ar jo šeimos nariais ir
+artimaisiais giminaičiais susiję turtiniai bei finansiniai klausimai arba kai
+jo dalyvavimas balsuojant galėtų sukelti viešųjų ir privačių interesų
 konfliktą. Savivaldybės tarybos sprendimai įsigalioja nuo priėmimo, jeigu juose
 nenustatyta vėlesnė įsigaliojimo data, o sprendimai, kuriuose nustatomos,
 keičiamos ar pripažįstamos netekusiomis galios teisės normos, – kitą dieną po
@@ -564,12 +566,11 @@ Savivaldybės tarybos komitetai
 tarybos komitetai sudaromi savivaldybės tarybai teikiamiems klausimams
 preliminariai nagrinėti ir išvadoms bei pasiūlymams teikti, kontroliuoti, kaip
 laikomasi įstatymų ir vykdomi savivaldybės tarybos, valdybos, mero sprendimai. 
-2. Komitetai sudaromi iš tarybos narių
-savivaldybės tarybos sprendimu. Kiekvienoje savivaldybėje privaloma sudaryti
-Kontrolės komitetą. Į Kontrolės komitetą įeina vienodas visų savivaldybės
-taryboje atstovaujamų partijų arba koalicijų deleguotų atstovų skaičius.
-Kontrolės komiteto narių skaičius neturi viršyti ketvirtadalio išrinktų tarybos
-narių. Sudarant kitus komitetus, laikomasi proporcingo daugumos ir mažumos
+2. Komitetai
+sudaromi iš tarybos narių savivaldybės tarybos sprendimu. Kiekvienoje savivaldybėje
+privaloma sudaryti Kontrolės komitetą. Į Kontrolės komitetą įeina vienodas visų
+savivaldybės taryboje atstovaujamų partijų arba koalicijų deleguotų atstovų
+skaičius. Sudarant kitus komitetus, laikomasi proporcingo daugumos ir mažumos
 atstovavimo principo. Komitetų ir jų narių skaičių bei įgaliojimus, išskyrus
 Kontrolės komiteto, nustato taryba. Kontrolės komiteto įgaliojimus taryba
 nustato atsižvelgdama į šio straipsnio 4 dalį. Komitetų darbo tvarka nustatoma
@@ -612,9 +613,9 @@ reikalavimų įvykdymo;
 savivaldybės tarybos patvirtintą veiklos programą ir kiekvienų metų pabaigoje
 už savo veiklą atsiskaito savivaldybės tarybai.
 5. Komitetai
-pagal savo kompetenciją priima rekomendacinius sprendimus. savivaldybės
-institucijos su jų veikla susijusius komitetų sprendimus privalo apsvarstyti ir
-pranešti komitetams apie priimtus sprendimus. Savivaldybės administracija, jos
+pagal savo kompetenciją priima rekomendacinius sprendimus. savivaldybės institucijos
+su jų veikla susijusius komitetų sprendimus privalo apsvarstyti ir pranešti
+komitetams apie priimtus sprendimus. Savivaldybės administracija, jos
 padaliniai, savivaldybės biudžetinės ir viešosios įstaigos bei savivaldybės
 kontroliuojamos įmonės su jų veikla susijusius komitetų sprendimus turi
 apsvarstyti ir apie svarstymo rezultatus pranešti komitetams.
@@ -622,6 +623,9 @@ apsvarstyti ir apie svarstymo rezultatus pranešti komitetams.
 komisijų darbe patariamojo balso teise savivaldybės tarybos veiklos
 reglamento nustatyta tvarka gali dalyvauti visuomenės atstovai, ekspertai ir
 savivaldybės tarnautojai.
+Straipsnio pakeitimai:
+Nr. IX-519,
+2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
  
 16 straipsnis.
 Savivaldybės tarybos komisijos
@@ -636,8 +640,8 @@ savivaldybės tarnautojas, šios funkcijos įrašomas į jo pareigybės aprašym
 nustatytais atvejais ar savivaldybės tarybos sprendimu gali būti sudaromos ir
 kitos nuolatinės (tos kadencijos laikotarpiui) bei laikinosios (atskiriems
 klausimams nagrinėti) komisijos. Šių komisijų sudarymo tvarką nustato
-savivaldybės tarybos veiklos reglamentas, jų veiklos nuostatus tvirtina
-savivaldybės taryba. 
+savivaldybės tarybos veiklos reglamentas, jų veiklos nuostatus tvirtina savivaldybės
+taryba. 
 3. Savivaldybės
 tarybos sudaromų komisijų nariais gali būti tarybos nariai, savivaldybės
 tarnautojai bei gyvenamųjų vietovių bendruomenių atstovai.
@@ -674,9 +678,11 @@ steigia savivaldybės kontrolieriaus tarnybą, tvirtina savivaldybės
 kontrolieriaus (savivaldybės kontrolieriaus tarnybos) veiksmų planą ir kartą
 per metus išklauso savivaldybės kontrolieriaus ataskaitą bei priima dėl jos
 sprendimą;
-9) mero teikimu
-tvirtina savivaldybės administracijos struktūrą, administracijos nuostatus ir
-darbo užmokesčio fondą; 
+9) sudaro pretendentų į savivaldybės administratoriaus
+pareigas atrankos komisiją, priima sprendimą dėl savivaldybės administratoriaus
+priėmimo į pareigas ir atleidimo iš valstybės tarnybos, mero teikimu tvirtina
+savivaldybės administracijos struktūrą, administracijos nuostatus ir darbo
+užmokesčio fondą;
 10) mero teikimu
 priima sprendimus dėl seniūnijų steigimo ir jų skaičiaus, priskiria seniūnijoms
 savivaldybės teritorijas, nustato jų ribas ir prireikus jas keičia; 
@@ -697,18 +703,19 @@ nustato savivaldybės tarnautojų mokymo prioritetus;
 kainas ir tarifus už savivaldybės įmonių, specialios paskirties bendrovių,
 savivaldybės biudžetinių ir viešųjų įstaigų teikiamas atlygintinas paslaugas
 bei keleivių vežimą vietiniais maršrutais, taip pat įstatymų numatyta tvarka
-nustato centralizuotai tiekiamos šilumos, šalto ir karšto vandens kainas,
-nustato vietines rinkliavas bei kitas įmokas; 
+nustato centralizuotai tiekiamos šilumos, šalto ir karšto vandens kainas, nustato
+vietines rinkliavas bei kitas įmokas; 
 17) Vyriausybės
 įgaliotos institucijos nustatyta tvarka laikydamasi įstatymų nustatytų
 skolinimosi limitų priima sprendimus dėl naudojimosi bankų kreditais, paskolų
 ėmimo ir teikimo, garantijų suteikimo ir laidavimo kreditoriams už savivaldybės
 kontroliuojamų įmonių imamas paskolas; 
 18)
-priima sprendimus teikti mokesčių, rinkliavų ir kitas įstatymų nustatytas lengvatas
-savivaldybės biudžeto sąskaita. Nustato subsidijų ir kompensacijų skyrimo
-naujas darbo vietas steigiančioms visų rūšių įmonėms tvarką, atitinkamai keičia
-savivaldybės biudžetą tais atvejais, kai lėšų tam nebuvo numatyta; 
+priima sprendimus teikti mokesčių, rinkliavų ir kitas įstatymų nustatytas
+lengvatas savivaldybės biudžeto sąskaita. Nustato subsidijų ir kompensacijų
+skyrimo naujas darbo vietas steigiančioms visų rūšių įmonėms tvarką,
+atitinkamai keičia savivaldybės biudžetą tais atvejais, kai lėšų tam nebuvo
+numatyta; 
 19) tvirtina
 savivaldybės socialinės ir ekonominės plėtros programas; 
 20)
@@ -747,10 +754,10 @@ pavadinimus;
 higienos, atliekų tvarkymo, gyvūnų laikymo, prekybos turgavietėse ir kitas
 taisykles; 
 29) teikia
-siūlymus nustatyta tvarka tvirtinti savivaldybės gyvenamųjų vietovių herbus,
-tvirtina kitus savivaldybės simbolius ir jų naudojimo tvarką, nustatyta tvarka
-gali už nuopelnus suteikti savivaldybės (jos centro ar kitos gyvenamosios
-vietovės) piliečio garbės vardą;
+siūlymus nustatyta tvarka tvirtinti savivaldybės gyvenamųjų vietovių herbus, tvirtina
+kitus savivaldybės simbolius ir jų naudojimo tvarką, nustatyta tvarka gali už
+nuopelnus suteikti savivaldybės (jos centro ar kitos gyvenamosios vietovės)
+piliečio garbės vardą;
 30) savivaldybės
 tarybos veiklos reglamento nustatyta tvarka išklauso savivaldybės tarybai
 atskaitingų institucijų ataskaitas bei mero, savivaldybės administratoriaus,
@@ -777,9 +784,9 @@ savivaldybės vardu gautos labdaros skirstymo tvarką;
 37) gali priimti
 sprendimą atlikti savivaldybės įstaigų ar savivaldybės kontroliuojamų įmonių
 tam tikros veiklos nepriklausomą auditą; 
-38) tvirtina sutarčių
-pasirašymo tvarką ir nustato, kokios sutartys negali būti
-sudaromos be išankstinio savivaldybės tarybos pritarimo;
+38) tvirtina
+sutarčių pasirašymo tvarką ir nustato, kokios sutartys negali
+būti sudaromos be išankstinio savivaldybės tarybos pritarimo;
 39)
 priima sprendimą išieškoti iš valdybos narių (mero) žalą, atsiradusią dėl jų
 (jo) tyčinių neteisėtų sprendimų, pareigų neatlikimo ar šiurkštaus aplaidumo
@@ -790,6 +797,9 @@ mėnesių vidutinio darbo užmokesčio dydžio;
 sprendimus dėl jungimosi į savivaldybių sąjungas, dėl bendradarbiavimo su
 užsienio šalių savivaldybėmis ar prisijungimo prie tarptautinių savivaldos
 organizacijų.
+Straipsnio pakeitimai:
+Nr. IX-519,
+2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
  
 18 straipsnis.
 Valdyba
@@ -916,8 +926,8 @@ pažeidimus, dėl kurių padaryta esminės žalos valstybės ar savivaldybės
 interesams bei nuosavybei;
 2) kai dėl
 laikino nedarbingumo nedirba daugiau kaip šimtą dvidešimt kalendorinių dienų iš
-eilės arba daugiau kaip šimtą keturiasdešimt dienų per paskutinius dvylika
-mėnesių; 
+eilės arba daugiau kaip šimtą keturiasdešimt dienų per paskutinius dvylika mėnesių;
+
 3)
 kai pateikia atsistatydinimo prašymą.
 3. Meras, mero
@@ -937,12 +947,12 @@ savivaldybės tarybos įgaliojimams, šios tarybos išrinkto mero bei mero
 pavaduotojo įgaliojimai baigiasi, kai naujai išrinkta savivaldybės
 taryba išrenka merą. Jeigu meras atsisako eiti pareigas iki to
 laiko, kol naujai išrinkta savivaldybės taryba išrinks merą, laikoma, kad jis
-atsistatydino savo noru, ir jam išeitinė pašalpa nemokama. Šiuo atveju savivaldybės
-taryba mero pareigas laikinai eiti paveda vienam naujai išrinktos tarybos
-nariui.
+atsistatydino savo noru, ir jam išeitinė pašalpa nemokama. Šiuo atveju
+savivaldybės taryba mero pareigas laikinai eiti paveda vienam naujai išrinktos
+tarybos nariui.
 7. Po savo kadencijos pabaigos meras bei mero
-pavaduotojas, jeigu neišrenkamas meru ar nepaskiriamas mero pavaduotoju, turi
-teisę Vyriausybės nustatyta tvarka grįžti į iki išrinkimo tarybos nariais eitas
+pavaduotojas, jeigu neišrenkamas meru ar nepaskiriamas mero pavaduotoju, turi teisę
+Vyriausybės nustatyta tvarka grįžti į iki išrinkimo tarybos nariais eitas
 pareigas, o kai tokios galimybės nėra, – į kitas to paties lygio ir kategorijos
 pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos karjeros
 valstybės tarnautojų pareigoms. Jeigu šie asmenys iki išrinkimo tarybos nariais
@@ -951,11 +961,11 @@ dydžio kompensacija. Ji išmokama per 3 mėnesius lygiomis dalimis kas mėnesį
 Jeigu asmuo pradeda eiti pareigas valstybės tarnyboje anksčiau negu po 3
 mėnesių, likusi neišmokėta kompensacijos dalis nemokama. Jeigu šie asmenys mero
 ir mero pavaduotojo pareigas ėjo mažiau kaip vienerius metus iki kadencijos
-pabaigos, jiems išmokama 1 mėnesio jų vidutinio darbo užmokesčio dydžio
-kompensacija. Nutrūkus mero bei mero pavaduotojo įgaliojimams prieš terminą,
-kai jiems nepasitikėjimą pareiškia ne mažiau kaip 1/3 tarybos narių ir už tokį
-sprendimą balsavo ne mažiau kaip 1/2 visų tarybos narių, jiems išmokama 2
-mėnesių jų vidutinio darbo užmokesčio dydžio kompensacija.
+pabaigos, jiems išmokama 1 mėnesio jų vidutinio darbo užmokesčio dydžio kompensacija.
+Nutrūkus mero bei mero pavaduotojo įgaliojimams prieš terminą, kai jiems
+nepasitikėjimą pareiškia ne mažiau kaip 1/3 tarybos narių ir už tokį sprendimą
+balsavo ne mažiau kaip 1/2 visų tarybos narių, jiems išmokama 2 mėnesių jų
+vidutinio darbo užmokesčio dydžio kompensacija.
 8. Mero ir mero
 pavaduotojo darbo užmokestį pagal įstatymų nustatytus koeficientus tvirtina
 savivaldybės taryba. 
@@ -1001,12 +1011,13 @@ savivaldybės tarybai mero pavaduotojo (pavaduotojų), valdybos narių ir komisi
 pirmininkų kandidatūras, taip pat gali siūlyti atleisti juos iš pareigų;
 5)
 atsižvelgdamas į savivaldybės administratoriaus teikimą, tvirtina savivaldybės
-administracijos padalinių nuostatus, padalinių etatus, neviršydamas darbo
-užmokesčiui skirtų lėšų ir valdybos nustatyto savivaldybės administracijos
-tarnautojų skaičiaus; 
-6)
-administruoja savivaldybės asignavimus arba įgalioja tai daryti savivaldybės
-administratorių;
+administracijos padalinių nuostatus, padalinių etatus, neviršydamas darbo užmokesčiui
+skirtų lėšų ir valdybos nustatyto savivaldybės administracijos tarnautojų
+skaičiaus; 
+6) administruoja
+savivaldybės asignavimus, organizuoja savivaldybės biudžeto vykdymą ir atsako
+už savivaldybės ūkinę bei finansinę veiklą arba įgalioja visa tai daryti
+savivaldybės administratorių;
 7)
 per savivaldybės administratorių vadovauja savivaldybės administracijos
 struktūriniams ir struktūriniams teritoriniams padaliniams; 
@@ -1029,8 +1040,8 @@ viešąja tvarka ir gyventojų rimtimi;
 migracijos procesų tyrimą ir analizę, kartu su teritorinėmis darbo biržomis
 rūpinasi gyventojų užimtumu, jų kvalifikacijos kėlimu ir perkvalifikavimu bei
 viešųjų darbų organizavimu;
-13)
-atsako už valstybinės kalbos vartojimo kontrolę;
+13) atsako už valstybinės kalbos
+vartojimo kontrolę;
 14) įstatymų
 nustatyta tvarka išduoda statinių projektavimo sąlygų sąvadus, organizuoja
 statinių projektų derinimą ir išduoda leidimus statyti, rekonstruoti,
@@ -1056,14 +1067,17 @@ kultūros vertybių apsauga;
 21) ne
 rečiau kaip kartą per metus atsiskaito rinkėjams už savivaldybės tarybos ir
 valdybos veiklą. 
-2. Mero
-sprendimai įforminami potvarkiais.
+2. Mero sprendimai
+įforminami potvarkiais.
 3. Mero
 pavaduotojas atlieka savivaldybės tarybos nustatytas funkcijas ir mero
 pavedimus. Kai meras negali eiti pareigų, mero pavaduotojas atlieka visas jo
 pareigas, išskyrus šio straipsnio 1 dalies 4 ir 8 punktuose numatytus
 įgaliojimus. Mero veiklą ir jo pavadavimo procedūrą reglamentuoja savivaldybės
 tarybos veiklos reglamentas. 
+Straipsnio pakeitimai:
+Nr. IX-519,
+2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
  
 PENKTASIS
 SKIRSNIS
@@ -1083,12 +1097,11 @@ rinkimų komisijos pirmininkas, o jeigu asmuo tarybos nariu tampa vietoj
 netekusio mandato tarybos nario, – meras.
 3. Draudžiama
 tarybos narį persekioti už balsavimą ar pareikštą nuomonę savivaldybės tarybos
-ar jos komitetų posėdžiuose. Už asmens įžeidimą ar šmeižtą, už asmens garbę ir orumą
-žeminančios ir tikrovės neatitinkančios informacijos paskleidimą tarybos narys
-gali būti traukiamas atsakomybėn bendra tvarka.
+ar jos komitetų posėdžiuose. Už asmens įžeidimą ar šmeižtą, už asmens garbę ir
+orumą žeminančios ir tikrovės neatitinkančios informacijos paskleidimą tarybos
+narys gali būti traukiamas atsakomybėn bendra tvarka.
 4. Tarybos nario
-pareigas ir teises nustato šis įstatymas ir savivaldybės tarybos veiklos
-reglamentas.
+pareigas ir teises nustato šis įstatymas ir savivaldybės tarybos veiklos reglamentas.
  
 23 straipsnis.
 Tarybos nario pareigos
@@ -1119,12 +1132,12 @@ institucijose;
 tarybos veiklos reglamento nustatyta tvarka siūlyti savivaldybės tarybai
 svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, iš
 savivaldybės administracijos ar kitų savivaldybės įstaigų ir organizacijų gauti
-su savivaldybės taryboje nagrinėjamais klausimais susijusią informaciją,
-dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas
-dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo
-tvarkos ir kt., savivaldybės tarybos posėdžio metu klausti pranešėjus,
-pasisakyti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės
-institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir
+su savivaldybės taryboje nagrinėjamais klausimais susijusią informaciją, dalyvauti
+diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas dėl
+savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo tvarkos
+ir kt., savivaldybės tarybos posėdžio metu klausti pranešėjus, pasisakyti dėl
+vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų,
+savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir
 organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės
 teritorijoje, vadovus ir tarnautojus;
 3) dalyvauti ir
@@ -1177,8 +1190,8 @@ Savivaldybės kontrolierius, savivaldybės kontrolieriaus tarnyba
 1. Savivaldybės
 kontrolierius yra savivaldybės kontrolės institucija, tiesiogiai
 kontroliuojanti savivaldybės biudžeto naudojimą bei atliekanti vidaus audito
-funkcijas savivaldybėje. Ši institucija atskaitinga savivaldybės tarybai ir nesusijusi
-su savivaldybės tarybos įgaliojimų pabaiga. 
+funkcijas savivaldybėje. Ši institucija atskaitinga savivaldybės tarybai ir
+nesusijusi su savivaldybės tarybos įgaliojimų pabaiga. 
 2. Savivaldybės
 kontrolės institucijos funkcijoms įgyvendinti savivaldybės kontrolieriaus
 teikimu savivaldybės taryba gali steigti (o kai savivaldybės gyventojų skaičius
@@ -1186,9 +1199,9 @@ viršija 30 tūkstančių gyventojų, privalo steigti) savivaldybės kontrolieri
 tarnybą. Jai vadovauja savivaldybės kontrolierius. 
 3.
 Savivaldybės kontrolierius skiriamas į pareigas Valstybės tarnybos įstatymo
-nustatyta tvarka atviro konkurso būdu 5 metams. Pasibaigus kadencijai, savivaldybės
-kontrolierius gali pakartotinai dalyvauti konkurse į tas pačias pareigas naujam
-terminui. Kadencijų skaičius tam pačiam asmeniui neribojamas.
+nustatyta tvarka atviro konkurso būdu 5 metams. Pasibaigus kadencijai,
+savivaldybės kontrolierius gali pakartotinai dalyvauti konkurse į tas pačias
+pareigas naujam terminui. Kadencijų skaičius tam pačiam asmeniui neribojamas.
 4. Pretendentų į
 savivaldybės kontrolieriaus pareigas atrankos komisiją, į kurią savo atstovą
 deleguoja Finansų ministerija, tvirtina savivaldybės taryba. Priėmimo į
@@ -1204,30 +1217,36 @@ kontrolierius privalo turėti aukštąjį išsilavinimą ir ne mažesnį kaip tr
 metų darbo stažą finansų, ekonomikos, kontrolės arba viešojo administravimo
 srityse.
 7. Savivaldybės
-kontrolieriaus ir savivaldybės kontrolieriaus tarnybos veiklos nuostatus
-tvirtina savivaldybės taryba. Be to, taryba nustato savivaldybės kontrolieriaus
-tarnybos (jeigu ji steigiama) darbo užmokesčio fondą ir, vadovaudamasi įstatymų
+kontrolieriaus ir savivaldybės kontrolieriaus tarnybos veiklos nuostatus tvirtina
+savivaldybės taryba. Be to, taryba nustato savivaldybės kontrolieriaus tarnybos
+(jeigu ji steigiama) darbo užmokesčio fondą ir, vadovaudamasi įstatymų
 nustatytais koeficientais, tvirtina savivaldybės kontrolieriaus atlyginimą. 
 8. Savivaldybės
 kontrolierius gali būti savivaldybės tarybos sprendimu atleistas iš pareigų iki
 kadencijos pabaigos Valstybės tarnybos įstatymo numatytais pagrindais. 
-9. Savivaldybės
-kontrolieriaus, taip pat savivaldybės kontrolieriaus tarnybos (jeigu ji
-steigiama) finansinį, ūkinį bei materialinį aptarnavimą atlieka savivaldybės
-administracija. Savivaldybės kontrolierius (savivaldybės kontrolieriaus
-tarnyba) turi savo antspaudą.
+9. Savivaldybės kontrolieriaus, taip pat savivaldybės
+kontrolieriaus tarnybos (jeigu ji steigiama) finansinį, ūkinį bei materialinį
+aptarnavimą atlieka savivaldybės administracija. Savivaldybės taryba nustato
+atskirą savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos)
+išlaidų sąmatą. Savivaldybės kontrolierius (savivaldybės kontrolieriaus tarnyba)
+turi savo antspaudą.
 10. Savivaldybės
 kontrolierius (savivaldybės kontrolieriaus tarnyba) savo veikloje vadovaujasi
-įstatymais, Vyriausybės patvirtintais Vidaus audito nuostatais, Valstybės
-kontrolės metodiniais nurodymais ir savivaldybės tarybos patvirtintais
-savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos) veiklos
-nuostatais. 
+įstatymais, Vyriausybės patvirtintais Valstybės institucijos vidaus audito
+tarnybos nuostatais, Nacionaliniais valstybinio sektoriaus vidaus audito
+standartais ir savivaldybės tarybos patvirtintais savivaldybės kontrolieriaus
+(savivaldybės kontrolieriaus tarnybos) veiklos nuostatais. Savivaldybės
+kontrolieriui (savivaldybės kontrolieriaus tarnybai) vidaus audito klausimais
+metodiškai vadovauja Finansų ministerija.
 11. Savivaldybės
 kontrolieriaus, taip pat savivaldybės kontrolieriaus tarnybos tarnautojų
 statusą nustato Valstybės tarnybos ir šis įstatymas.
 12. Savivaldybės
 kontrolierius, taip pat savivaldybės kontrolieriaus tarnybos tarnautojai negali
 būti savivaldybės, kurioje jie dirba, tarybos nariais.
+Straipsnio pakeitimai:
+Nr. IX-519,
+2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
  
 28 straipsnis. Savivaldybės
 kontrolieriaus (savivaldybės kontrolieriaus tarnybos) 
@@ -1250,19 +1269,23 @@ patikrinimų plano vykdymą;
 iniciatyva, savivaldybės tarybos ar mero rašytiniu pavedimu atlieka arba organizuoja
 tikslinius patikrinimus bei revizijas savivaldybės administracijoje
 (struktūriniuose ir struktūriniuose teritoriniuose padaliniuose),
-savivaldybės biudžetinėse ir viešosiose įstaigose bei savivaldybės kontroliuojamose
-įmonėse; 
+savivaldybės biudžetinėse ir viešosiose įstaigose bei savivaldybės
+kontroliuojamose įmonėse; 
 4) valstybės
 kontrolieriaus, jo pavaduotojų arba Valstybės kontrolės skyrių vadovų prašymu
 dalyvauja arba paveda tarnybos tarnautojams dalyvauti Valstybės
-kontrolės organizuojamuose tiksliniuose patikrinimuose bei revizijose savivaldybės
-institucijose ir įstaigose bei savivaldybės kontroliuojamose įmonėse;
+kontrolės organizuojamuose tiksliniuose patikrinimuose bei revizijose
+savivaldybės institucijose ir įstaigose bei savivaldybės kontroliuojamose
+įmonėse;
 5) nustato
 tarnybos tarnautojų užduotis ir jų atlikimo metodus;
-6) teikia
-savivaldybės administratoriui bei tikrinamų įstaigų ir įmonių vadovams išvadas
-bei pasiūlymus dėl patikrinimų metu konstatuotų trūkumų pašalinimo ir
-reikalauja iš jų informacijos apie pasiūlymų vykdymą; 
+6) teikia savivaldybės administratoriui bei
+tikrinamų įstaigų ir įmonių vadovams išvadas bei pasiūlymus dėl patikrinimų
+metu konstatuotų trūkumų pašalinimo ir reikalauja iš jų informacijos apie tokių
+trūkumų pašalinimą ir pasiūlymų vykdymą. Savivaldybės administratorius bei
+tikrinamų įstaigų ar įmonių vadovai per mėnesį nuo teikimo gavimo dienos
+privalo pateikti informaciją savivaldybės kontrolieriui dėl patikrinimų metu
+konstatuotų trūkumų pašalinimo bei pasiūlymų vykdymo;
 7) tikrinimų
 išvadas teikia savivaldybės tarybos Kontrolės komitetui ir merui, o išvadas dėl
 savivaldybės biudžeto vykdymo, dėl kitų savivaldybės lėšų ir turto naudojimo –
@@ -1289,10 +1312,11 @@ terminais ir tvarka) informaciją apie Europos Sąjungos struktūrinių fondų b
 kitų lėšų, skiriamų iš Europos Sąjungos, naudojimą savivaldybėje. 
 3. Savivaldybės
 kontrolieriaus tarnybos (jeigu ji steigiama) tarnautojai:
-1) kontrolieriaus
-pavedimu atlieka planinius ir tikslinius patikrinimus bei revizijas
-savivaldybės administracijoje, jos padaliniuose, savivaldybės biudžetinėse ir
-viešosiose įstaigose bei savivaldybės kontroliuojamose įmonėse; 
+1)
+kontrolieriaus pavedimu atlieka planinius ir tikslinius patikrinimus bei
+revizijas savivaldybės administracijoje, jos padaliniuose, savivaldybės
+biudžetinėse ir viešosiose įstaigose bei savivaldybės kontroliuojamose įmonėse;
+
 2) tikrina
 savivaldybės biudžeto lėšų naudojimo teisėtumą visose, nepaisant jų
 statuso, įstaigose, įmonėse bei organizacijose, kurioms tos lėšos skirtos; 
@@ -1304,6 +1328,10 @@ nagrinėjami, jeigu taip nusprendžia savivaldybės kontrolierius;
 Administracinių teisės pažeidimų kodekso nustatytais atvejais surašo
 administracinių teisės pažeidimų protokolus ir juos teikia nagrinėti įstatymų
 nustatyta tvarka savivaldybės Administracinei komisijai.
+Straipsnio pakeitimai:
+Nr. IX-519,
+2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
+ 
  
 SEPTINTASIS
 SKIRSNIS
@@ -1314,25 +1342,40 @@ SUDARYMAS IR ĮGALIOJIMAI
  
 29 straipsnis.
 Savivaldybės administracija, administratorius
-1. Savivaldybės
-administracija yra savivaldybės įstaiga, kurią sudaro struktūriniai,
-struktūriniai teritoriniai padaliniai – seniūnijos ir į struktūrinius
-padalinius neįeinantys viešojo administravimo bei paslaugų valstybės
-tarnautojai (išskyrus politinio (asmeninio) pasitikėjimo tarnautojus). Savivaldybės
-administracijos struktūrą, jos veiklos nuostatus ir darbo užmokesčio fondą mero
-teikimu tvirtina arba keičia savivaldybės taryba, o etatus, didžiausią leistiną
-darbuotojų skaičių savivaldybės administratoriaus teikimu tvirtina valdyba.
-Savivaldybės administracijos įgaliojimai nesusiję su savivaldybės tarybos
-įgaliojimų pabaiga. Savivaldybės administracija turi sąskaitų bankuose ir
-antspaudą su savivaldybės herbu. Savivaldybės administracijos struktūriniai ir
-struktūriniai teritoriniai padaliniai – seniūnijos taip pat gali turėti
-sąskaitų bankuose. 
+1. Savivaldybės administracija yra savivaldybės įstaiga,
+kurią sudaro struktūriniai, struktūriniai teritoriniai padaliniai – seniūnijos
+ir į struktūrinius padalinius neįeinantys viešojo administravimo bei paslaugų
+valstybės tarnautojai (išskyrus politinio (asmeninio) pasitikėjimo
+tarnautojus). Savivaldybės administracijos struktūrą, jos veiklos nuostatus ir
+darbo užmokesčio fondą mero teikimu tvirtina arba keičia savivaldybės taryba, o
+etatus, didžiausią leistiną darbuotojų skaičių savivaldybės administratoriaus
+teikimu tvirtina valdyba. Savivaldybės administracijos įgaliojimai nesusiję su
+savivaldybės tarybos įgaliojimų pabaiga. Savivaldybės administracija turi
+sąskaitų bankuose ir antspaudą su savivaldybės herbu. Savivaldybės
+administracijos struktūriniai ir struktūriniai teritoriniai padaliniai –
+seniūnijos taip pat gali turėti sąskaitų bankuose. 
 2. Savivaldybės
-administratorius yra savivaldybės administracijos vadovas – karjeros valstybės
-tarnautojas, atsakingas ir atskaitingas savivaldybės merui.
-Savivaldybės administratoriaus skyrimo ir atleidimo tvarką nustato Valstybės
-tarnybos įstatymas. 
-3.
+administratorius yra savivaldybės administracijos vadovas – viešojo
+administravimo valstybės tarnautojas – įstaigos vadovas, atsakingas ir
+atskaitingas savivaldybės tarybai ir merui. Savivaldybės administratoriaus
+skyrimo ir atleidimo tvarką nustato šis ir Valstybės tarnybos įstatymai. 
+3. Savivaldybės
+administratorius skiriamas į pareigas Valstybės tarnybos įstatymo nustatyta
+tvarka atviro konkurso būdu 5 metams. Pasibaigus kadencijai, savivaldybės
+administratorius gali pakartotinai dalyvauti konkurse į tas pačias pareigas
+naujam terminui. Kadencijų skaičius tam pačiam asmeniui neribojamas.
+4. Pretendentų į
+savivaldybės administratoriaus pareigas atrankos komisiją, į kurią savo atstovą
+deleguoja Vidaus reikalų ministerija, tvirtina savivaldybės taryba. Priėmimo į
+savivaldybės administratoriaus pareigas konkursą teisės aktų nustatyta tvarka
+organizuoja meras arba kitas savivaldybės tarybos įgaliotas asmuo. Sprendimą
+dėl savivaldybės administratoriaus paskyrimo į pareigas priima savivaldybės
+taryba.
+5. Savivaldybės
+taryba gali nepripažinti konkurso rezultatų, jeigu konkursas vyko pažeidžiant
+teisės aktų nustatytą tvarką ir sąlygas. Tokiu atveju konkursas organizuojamas
+iš naujo.
+6.
 Savivaldybės administracija:
 1) savivaldybės
 teritorijoje organizuoja ir kontroliuoja savivaldybės institucijų sprendimų
@@ -1351,19 +1394,20 @@ rengia savivaldybės institucijų sprendimų ir potvarkių projektus;
 6) techniškai
 aptarnauja merą, kitas savivaldybės institucijas ir tarybos narius, kai šie
 vykdo savo įgaliojimus.
-4.
+7.
 Savivaldybės administratorius:
 1) atsako už
 vidaus administravimą savivaldybės administracijoje; 
 2) administruoja
 asignavimus, tarybos skirtus savivaldybės administracijai;
-3) atsako už
-savivaldybės biudžeto vykdymą ir savivaldybės ūkinę bei finansinę veiklą; 
+3) gavęs mero įgaliojimus, administruoja savivaldybės biudžeto
+asignavimus, organizuoja savivaldybės biudžeto vykdymą ir atsako už
+savivaldybės ūkinę bei finansinę veiklą;
 4) organizuoja
 savivaldybės administracijos darbą; 
 5) padeda merui
-rengti savivaldybės institucijų posėdžius, juose dalyvauja ir,
-kai posėdžio pirmininkas leidžia, gali pasisakyti, rūpinasi, kad būtų rašomi ir
+rengti savivaldybės institucijų posėdžius, juose dalyvauja ir, kai
+posėdžio pirmininkas leidžia, gali pasisakyti, rūpinasi, kad būtų rašomi ir
 saugomi posėdžių protokolai, nustatyta tvarka skelbiami ir išsiuntinėjami
 savivaldybės institucijų sprendimai, mero potvarkiai; 
 6) atsako
@@ -1383,17 +1427,20 @@ subjektus, leisti įsakymus, privalomus savivaldybės administracijos
 struktūriniams bei struktūriniams teritoriniams padaliniams ir į struktūrinius
 padalinius neįeinantiems viešojo administravimo bei paslaugų valstybės
 tarnautojams.
-5. Savivaldybės
+8. Savivaldybės
 tarnautojų teisinius santykius reglamentuoja Valstybės tarnybos įstatymas.
 Savivaldybės administracijos karjeros ir paslaugų valstybės tarnautojai
 atskaitingi savivaldybės administratoriui, o politinio (asmeninio) pasitikėjimo
 valstybės tarnautojai – merui.
-6. Kai
+9. Kai
 savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės
 administratorius yra pavaldus ir atskaitingas Vyriausybės įgaliotiniui.
-7. Savivaldybės
+10. Savivaldybės
 administracijos tarnautojai negali būti savivaldybės, kurioje jie dirba,
 tarybos nariais.
+Straipsnio pakeitimai:
+Nr. IX-519,
+2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
  
 30 straipsnis.
 Seniūnija ir seniūnas
@@ -1409,9 +1456,12 @@ savivaldybės administratorius, vadovaudamasis Valstybės tarnybos įstatymu.
 3.
 Seniūnija gali turėti sąskaitą banke. 
 4. Seniūnijoje
-iš gyvenamųjų vietovių bendruomenės atstovų gali būti sudaroma patariamoji visuomeniniais
-pagrindais dirbanti seniūnijos taryba. Jos nuostatus tvirtina meras pagal
-Vyriausybės patvirtintus pavyzdinius nuostatus.
+iš gyvenamųjų vietovių bendruomenės atstovų gali būti sudaroma patariamoji
+visuomeniniais pagrindais dirbanti seniūnijos taryba. Jos nuostatus tvirtina
+meras pagal vidaus reikalų ministro patvirtintus pavyzdinius nuostatus.
+Straipsnio pakeitimai:
+Nr. IX-519,
+2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
  
 31 straipsnis.
 Seniūnijos ir seniūno funkcijos 
@@ -1424,8 +1474,8 @@ Seniūnija:
 paslaugų teikimą;
 2) prireikus
 įvertina atskirų šeimų (asmenų) gyvenimo sąlygas ir praneša atitinkamiems
-savivaldybės administravimo subjektams bei administratoriui dėl socialinės paramos
-teikimo joms (jiems) reikalingumo;
+savivaldybės administravimo subjektams bei administratoriui dėl socialinės
+paramos teikimo joms (jiems) reikalingumo;
 3) gali organizuoti
 socialinės paramos teikimą ir pašalpų mokėjimą;
 4) organizuoja
@@ -1454,9 +1504,9 @@ gatvių, šaligatvių ir aikščių tvarkymo, vietinio susisiekimo transporto
 organizavimo, savivaldybei nuosavybės teise priklausančių pastatų ir statinių
 remonto, paminklų priežiūros, viešųjų paslaugų teikimo gyventojams
 organizavimo;
-12) mero pavedimu
-rengia ir teikia savivaldybės tarybos bei valdybos sprendimų ir mero potvarkių
-projektus seniūnijos veiklos klausimais, kontroliuoja jų vykdymą;
+12) mero
+pavedimu rengia ir teikia savivaldybės tarybos bei valdybos sprendimų ir mero
+potvarkių projektus seniūnijos veiklos klausimais, kontroliuoja jų vykdymą;
 13) šaukia
 seniūnijai priskirtos teritorijos gyventojų sueigas ir organizuoja gyventojų
 susitikimus su savivaldybės ir valstybės institucijų pareigūnais;
@@ -1473,9 +1523,9 @@ priskirtos teritorijos bendruomenės gyvenimu susiję klausimai.
 2) administruoja
 asignavimus, skirtus seniūnijai;
 3) kaimo
-gyvenamųjų vietovių seniūnijose ir miestuose, kuriuose nėra civilinės metrikacijos
-skyrių bei notaro biurų, registruoja gimimus bei mirtis, įstatymų nustatyta
-tvarka atlieka notarinius ir kitus veiksmus;
+gyvenamųjų vietovių seniūnijose ir miestuose, kuriuose nėra civilinės
+metrikacijos skyrių bei notaro biurų, registruoja gimimus bei mirtis, įstatymų
+nustatyta tvarka atlieka notarinius ir kitus veiksmus;
  
 [3 dalies papildymas 4 punktu
 galioja iki 2003 m. sausio 1 d.]
@@ -1504,8 +1554,9 @@ GYVENAMŲJŲ VIETOVIŲ BENDRUOMENĖMS
 32 straipsnis.
 Gyvenamosios vietovės bendruomenės atstovo statusas
 1. Gyvenamosios
-vietovės ar kelių gyvenamųjų vietovių (kaimo ar kelių kaimų, miesto arba miestelio)
-bendruomenės gyventojai gali išsirinkti bendruomenės atstovą (atstovus). 
+vietovės ar kelių gyvenamųjų vietovių (kaimo ar kelių kaimų, miesto arba
+miestelio) bendruomenės gyventojai gali išsirinkti bendruomenės atstovą
+(atstovus). 
 2. Gyvenamosios
 vietovės bendruomenės atstovas renkamas savivaldybės tarybos nustatyta tvarka.
 3. Pagrindinis
@@ -1610,13 +1661,13 @@ Savivaldybės dalį pajamų gauna iš mokesčių, kurių tarifus neviršydamos �
 numatytų dydžių, didina ar mažina savivaldybių tarybos.
 3. Savivaldybių
 biudžetų lėšos gali būti naudojamos tik savivaldybių funkcijoms: savivaldybių
-tarybų patvirtintoms socialinėms ir ekonominėms bei kitoms programoms įgyvendinti,
-savivaldybių biudžetinėms įstaigoms išlaikyti ir viešųjų paslaugų teikimui
-organizuoti.
-4. Savivaldybės
-arba jų vardu Lietuvos savivaldybių asociacija derina teisės akto, pagal kurį
-numatomas savivaldybių funkcijų ir (ar) išlaidų pasikeitimas, projektą kartu su
-prie jo pridėtais finansiniais skaičiavimais. 
+tarybų patvirtintoms socialinėms ir ekonominėms bei kitoms programoms
+įgyvendinti, savivaldybių biudžetinėms įstaigoms išlaikyti ir viešųjų paslaugų
+teikimui organizuoti.
+4. Savivaldybės arba jų vardu Lietuvos savivaldybių
+asociacija derina teisės akto, pagal kurį numatomas savivaldybių funkcijų,
+pajamų ir (ar) išlaidų pasikeitimas, projektą kartu su prie jo pridėtais
+finansiniais skaičiavimais.
 5. Jeigu
 savivaldybių biudžetų pajamos ar išlaidos dėl valstybės institucijų priimtų
 aktų keičiasi, pasikeitusios sumos kompensuojamos atitinkamai iš Lietuvos
@@ -1630,14 +1681,17 @@ taip pat sutaupytos lėšos (išlaidos) lieka savivaldybėms.
 Lėšos valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti skiriamos iš
 valstybės biudžeto arba valstybės piniginių fondų ir pervedamos
 savivaldybėms kaip specialioji dotacija.
+Straipsnio pakeitimai:
+Nr. IX-519,
+2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
  
 37 straipsnis.
 Savivaldybės biudžeto rengimas ir kontrolė
 1.
 Kiekviena savivaldybė turi savarankišką biudžetą. Savivaldybės biudžetas
 sudaromas ir tvirtinamas vieneriems biudžetiniams metams. Savivaldybių biudžetų
-rengimo, svarstymo ir tvirtinimo procedūrą nustato Biudžetinės sandaros įstatymas
-ir Vyriausybės nutarimu patvirtintos taisyklės. 
+rengimo, svarstymo ir tvirtinimo procedūrą nustato Biudžetinės sandaros
+įstatymas ir Vyriausybės nutarimu patvirtintos taisyklės. 
 2. Biudžetiniais
 metais savivaldybės taryba biudžetą gali tikslinti.
 3. Savivaldybės
@@ -1653,8 +1707,14 @@ Savivaldybės finansų vidaus kontrolę atlieka savivaldybės kontrolierius.
 biudžetiniams metams, savivaldybės tarybos sprendimu gali būti
 atliekamas nepriklausomas finansų ir (ar) veiklos auditas. Jeigu nepriklausomas
 auditas atliekamas, audito ataskaita turi būti viešai apsvarstyta savivaldybės
-tarybos posėdyje ne vėliau kaip iki atitinkamų biudžetinių metų rugsėjo
-1 d. 
+tarybos posėdyje ne vėliau kaip iki atitinkamų biudžetinių metų rugsėjo 1 d. 
+7. Prireikus valstybės kontrolieriaus
+sprendimu Valstybės kontrolė gali atlikti savivaldybių biudžetų vykdymo, taip
+pat savivaldybių įstaigų bei savivaldybių kontroliuojamų įmonių ūkinės ir
+finansinės veiklos patikrinimus.
+Straipsnio pakeitimai:
+Nr. IX-519,
+2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
  
 DEŠIMTASIS
 SKIRSNIS
@@ -1675,14 +1735,14 @@ Centriniai ir teritoriniai valstybinio administravimo subjektai, svarstydami su
 vienos savivaldybės ar visų savivaldybių interesais susijusius klausimus,
 praneša apie tai atitinkamos savivaldybės merui ar Lietuvos savivaldybių
 asociacijai. Savivaldybės tarybos ar Lietuvos savivaldybių asociacijos valdymo
-organų raštu pateiktus siūlymus valstybinio administravimo subjektai
-išnagrinėja (įvertina) ir pateikia atsakymą.
+organų raštu pateiktus siūlymus valstybinio administravimo subjektai išnagrinėja
+(įvertina) ir pateikia atsakymą.
 4.
 Sprendimų dėl valstybės teritorijos administracinių vienetų ir jų ribų
 pakeitimo projektai svarstomi su savivaldybėmis teisės aktų
 nustatyta tvarka. 
-5. Valstybė remia
-savivaldybių tarnautojų mokymą ir kvalifikacijos kėlimą
+5. Valstybė
+remia savivaldybių tarnautojų mokymą ir kvalifikacijos kėlimą
 6. Savivaldybės
 prireikus gali gauti konsultacijų iš valstybės institucijų, planuodamos ir
 spręsdamos visus su jomis tiesiogiai susijusius klausimus.
@@ -1706,8 +1766,8 @@ savivaldybių interesams atstovauja Lietuvos savivaldybių asociacija.
  
 VIENUOLIKTASIS
 SKIRSNIS
-SAVIVALDYBIŲ TEISINĖS
-GARANTIJOS IR ADMINISTRACINĖ PRIEŽIŪRA 
+SAVIVALDYBIŲ
+TEISINĖS GARANTIJOS IR ADMINISTRACINĖ PRIEŽIŪRA 
  
 40 straipsnis.
 Savivaldybių teisės ir jų apsauga
@@ -1727,15 +1787,15 @@ suvaržyti ar apriboti, išskyrus įstatymų nustatytus atvejus.
 tarybos sprendimai dėl vietinių rinkliavų, taip pat tarybos sprendimais
 patvirtintos taisyklės, už kurių pažeidimą įstatymai numato administracinę
 atsakomybę, galioja visoje savivaldybės teritorijoje ir jų laikytis privalo
-visos institucijos, įstaigos, įmonės ir gyventojai bei į savivaldybės teritoriją
-atvykę kiti fiziniai ir juridiniai asmenys. 
+visos institucijos, įstaigos, įmonės ir gyventojai bei į savivaldybės
+teritoriją atvykę kiti fiziniai ir juridiniai asmenys. 
 5. Savivaldybės
 turi teisę imtis visų teisėtų priemonių, kad būtų laikomasi savivaldybės
 teritorijos bendrojo plano ir su jo įgyvendinimu susijusių reikalavimų. 
 6. Savivaldybės
-turi teisę pačios ir per Lietuvos savivaldybių asociaciją dalyvauti
-rengiant įstatymus ir kitus teisės aktus, reglamentuojančius vietos savivaldą
-ar nustatančius savivaldybių funkcijas, dėl parengtų projektų pareikšti savo
+turi teisę pačios ir per Lietuvos savivaldybių asociaciją dalyvauti rengiant
+įstatymus ir kitus teisės aktus, reglamentuojančius vietos savivaldą ar
+nustatančius savivaldybių funkcijas, dėl parengtų projektų pareikšti savo
 pasiūlymus ir pastabas.
  
 41 straipsnis.
@@ -1950,7 +2010,7 @@ PAPILDYMO ĮSTATYMAS
 Šio
 įstatymo 1 ir 3 straipsniai galioja iki Gyvenamosios vietos deklaravimo
 įstatymo įsigaliojimo, 
-t. y. 2003 m. sausio 1 d.
+t. y. iki 2003 m. sausio 1 d.
  
 17.
 Lietuvos
@@ -1960,11 +2020,21 @@ Nr. IX-482,
 VIETOS
 SAVIVALDOS ĮSTATYMO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+18.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-519,
+2001-09-25, Žin., 2001, Nr. 85-2969 (2001-10-05)
+VIETOS
+SAVIVALDOS ĮSTATYMO 11, 15, 17, 21, 27, 28, 29, 30, 36, 37 STRAIPSNIŲ PAKEITIMO
+IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001-08-17)
+Aušrinė Trapinskienė (2001-10-08)
                  
 autrap@lrs.lt
