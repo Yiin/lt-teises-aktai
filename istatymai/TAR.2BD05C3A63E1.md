@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2BD05C3A63E1"
 
 # Laikinosios atsiskaitymų tvarkos ir sąlygų įstatymas
 
+Suvestinė redakcija nuo 1994-06-15 iki 1994-11-17
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 31-711, i. k. 0931010ISTA000I-218
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
@@ -33,9 +37,12 @@ DĖL LAIKINOSIOS ATSISKAITYMŲ TVARKOS IR SĄLYGŲ
 
 4 straipsnis. Žemės ūkio produkciją superkančiosios įmonės atsiskaito su tos produkcijos pardavėjais mokamaisiais pavedimais ir mokamaisiais reikalavimais, kuriuos Lietuvos Respublikos bankai priima bei apskaito ir nesant pakankamai lėšų mokėtojų sąskaitose.
 Prekybos įmonės ir organizacijos už perkamas iš žemės ūkio produkcijos perdirbimo pramonės įmonių prekes atsiskaito apmokėdamos tiekėjų inkasuotus mokamuosius reikalavimus.
-Bankų įstaigos tikrina, ar produkcijos gavėjai laiku apmoka atsiskaitomuosius dokumentus. Jeigu išaiškinama, jog atsiskaitomieji dokumentai banko įstaigoms buvo pateikti nelaiku, tai produkcijos gavėjai neginčo tvarka moka bankui 0,5 procento baudą už kiekvieną pradelstą dieną.
-Už laiku neapmokėtus mokamuosius pavedimus ir mokamuosius reikalavimus bankai apskaičiuoja ir neginčo tvarka išieško 0,8 procento delspinigių už kiekvieną pradelstą dieną gavėjo naudai.
+Bankų įstaigos tikrina, ar produkcijos gavėjai laiku apmoka atsiskaitomuosius dokumentus. Jeigu išaiškinama, jog atsiskaitomieji dokumentai banko įstaigoms buvo pateikti ne laiku, tai produkcijos gavėjai ne ginčo tvarka moka bankui 0,3 procento baudą už kiekvieną pradelstą dieną.
+Už laiku neapmokėtus mokamuosius pavedimus ir mokamuosius reikalavimus bankai apskaičiuoja ir ne ginčo tvarka išieško 0,3 procento delspinigių už kiekvieną pradelstą dieną gavėjo naudai.
 Delspinigius už pristatytą bet neapmokėtą žemės ūkio produkciją pradėti skaičiuoti nuo 1992 m. gruodžio 15 dienos.
+Žemės ūkio produkciją superkančios įmonės atsiskaito su šios produkcijos pardavėjais tarpusavio sutartyse numatytais terminais, kurių trukmė negali būti ilgesnė negu nustatyta Lietuvos Respublikos Vyriausybės.
+Straipsnio pakeitimai:
+Nr. I-493, 1994-06-07, Žin., 1994, Nr. 45-827 (1994-06-15), i. k. 0941010ISTA000I-493
  
 
 5 straipsnis. Valstybinių, valstybinių akcinių įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių pelno dalis, gauta pradedant 1993 metais už parduotą produkciją (prekes), kurios gamybai buvo panaudotos pigiau pirktos žaliavos ar medžiagos (pigiau nupirktos prekės), atskaičius įstatymo nustatytą pelno mokestį, priskiriama įstatiniam kapitalui, proporcingai paskirstant jį įregistruotiems valstybiniam ir akciniam kapitalams, ir naudojama savo apyvartinėms lėšoms didinti.
@@ -51,4 +58,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-493, 1994-06-07, Žin., 1994, Nr. 45-827 (1994-06-15), i. k. 0941010ISTA000I-493
+Dėl Lietuvos Respublikos įstatymo "Dėl laikinosios atsiskaitymų tvarkos ir sąlygų" 4 straipsnio pakeitimo ir papildymo
 
