@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FAFBBF47946B"
 
 # Lietuvos Respublikos administracinių teismų įsteigimo įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2002-04-30
+Suvestinė redakcija nuo 2002-05-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-309, i. k. 0991010ISTAIII-1030
  
@@ -98,7 +98,10 @@ Nr. VIII-1928, 2000-09-19, Žin., 2000, Nr. 85-2567 (2000-10-11), i. k. 1001010I
 3 straipsnis. Administracinių teismų sudėtis
 
 
-1. Administracinį teismą sudaro teismo pirmininkas ir kiti teisėjai. Administraciniame teisme, kuriame yra ne mažiau kaip šeši teisėjai, gali būti skiriami teismo pirmininko pavaduotojai.
+1. Administracinį teismą sudaro teismo pirmininkas ir kiti teisėjai. Administraciniame teisme, kuriame yra ne mažiau kaip dešimt teisėjų, gali būti skiriamas teismo pirmininko pavaduotojas. Administraciniame teisme, kuriame yra daugiau kaip dvidešimt teisėjų, gali būti skiriami du pirmininko pavaduotojai.
+Straipsnio dalies pakeitimai:
+Nr. IX-776, 2002-03-12, Žin., 2002, Nr. 31-1124 (2002-03-27), i. k. 1021010ISTA00IX-776
+ 
 
 
 
@@ -113,66 +116,22 @@ Nr. VIII-1928, 2000-09-19, Žin., 2000, Nr. 85-2567 (2000-10-11), i. k. 1001010I
 
 
 
-4 straipsnis. Administracinių teismų teisėjai
+4 straipsnis. Administracinių teismų teisėjų darbo apmokėjimas
 
 
-1. Administracinių teismų teisėjais gali būti skiriami ne jaunesni kaip 25 metų, nepriekaištingos reputacijos asmenys, turintys aukštąjį teisinį išsilavinimą, atitinkantį Vyriausybės nustatytus kvalifikacinius reikalavimus, ir išlaikę teisėjo egzaminus.
+Iki Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo įgyvendinimo pradžios paskirtiems į pareigas apygardos administracinio teismo pirmininkui, pirmininko pavaduotojui ir teisėjui mokama atitinkamai bendrosios kompetencijos apygardos teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginė alga. Šiuo laikotarpiu į pareigas paskirtų Lietuvos vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo ir teisėjo pareiginė alga yra atitinkamai lygi Lietuvos Aukščiausiojo Teismo pirmininko, skyriaus pirmininko ir teisėjo bei Lietuvos apeliacinio teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginių algų vidurkiui.
 
 
-
-
-2. Pretendentai į apygardų administracinių teismų teisėjus turi turėti ne mažesnį kaip 3 metų teisėjo, Lietuvos Aukščiausiojo Teismo teisėjo padėjėjo, teismo pirmininko ar skyriaus pirmininko patarėjo, prokuroro, prokuroro pavaduotojo, advokato, notaro ar Seimo kontrolieriaus darbo stažą, 5 metų darbo stažą valstybės tarnyboje ar ne mažesnį kaip 5 metų teisinio darbo stažą pagal Vyriausybės patvirtintą teisinių pareigybių sąrašą, taip pat Teismų įstatymo nustatyta tvarka laimėti konkursą. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1928, 2000-09-19, Žin., 2000, Nr. 85-2567 (2000-10-11), i. k. 1001010ISTAIII-1928
+Straipsnio pakeitimai:
+Nr. IX-776, 2002-03-12, Žin., 2002, Nr. 31-1124 (2002-03-27), i. k. 1021010ISTA00IX-776
  
 
 
 
 
-3. Pretendentai į Lietuvos vyriausiojo administracinio teismo teisėjus turi turėti ne mažesnį kaip 10 metų teisėjo darbo stažą, iš jų ne mažiau kaip 5 metų apygardos, apygardos administracinio ar Lietuvos apeliacinio teismo teisėjo darbo stažą, arba teisės krypties socialinių mokslų daktaro ar habilituoto daktaro mokslinį laipsnį ir ne mažesnį kaip 10 metų teisinio pedagoginio darbo stažą, arba 10 metų darbo stažą valstybės tarnyboje, taip pat Teismų įstatymo nustatyta tvarka laimėti konkursą. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1928, 2000-09-19, Žin., 2000, Nr. 85-2567 (2000-10-11), i. k. 1001010ISTAIII-1928
- 
-
-
-
-
-4. Administracinių teismų teisėjais be egzaminų gali būti skiriami Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo teisėjai (taip pat buvę išvardytų teismų teisėjai), apygardų, apylinkių teismų teisėjai, teisės krypties socialinių mokslų daktarai bei habilituoti daktarai.
-
-
-
-
-5. Administracinių teismų teisėjai skiriami bei atleidžiami iš pareigų Konstitucijos bei įstatymų nustatyta tvarka.
-
-
-
-
-6. Administracinių teismų teisėjų teisinė padėtis yra tolygi bendrosios kompetencijos teismų teisėjų teisinei padėčiai, t.y. jiems taikomos Teismų įstatymo nuostatos, išskyrus šiame įstatyme numatytas išimtis. Administracinių teismų teisėjams taip pat taikoma darbo užmokesčio sistema, socialinio aprūpinimo bei kitos garantijos, nustatytos bendrosios kompetencijos teismų teisėjams.
-
-
-
-
-7. Iki Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo įgyvendinimo pradžios paskirtiems į pareigas apygardos administracinio teismo pirmininkui, pirmininko pavaduotojui ir teisėjui mokama atitinkamai bendrosios kompetencijos apygardos teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginė alga. Šiuo laikotarpiu į pareigas paskirtų Lietuvos vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo ir teisėjo pareiginė alga yra atitinkamai lygi Lietuvos Aukščiausiojo Teismo pirmininko, skyriaus pirmininko ir teisėjo bei Lietuvos apeliacinio teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginių algų vidurkiui.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1928, 2000-09-19, Žin., 2000, Nr. 85-2567 (2000-10-11), i. k. 1001010ISTAIII-1928
- 
-
-
-
-
-
-
-5 straipsnis. Administracinių teismų darbo organizavimas
-
-
-1. Administraciniuose teismuose bylas nagrinėja trijų teisėjų kolegija. Tik įstatymų nustatytais atvejais atskirų kategorijų bylas pirmąja instancija nagrinėja vienas teisėjas. Lietuvos vyriausiajame administraciniame teisme sudėtingoms byloms nagrinėti gali būti sudaroma išplėstinė penkių ar septynių teisėjų kolegija arba byla gali būti perduota nagrinėti teismo plenarinei sesijai.
-
-
-
-
-2. Administracinių teismų darbo organizavimo ir kiti jų veiklos klausimai sprendžiami vadovaujantis Teismų įstatymo nuostatomis, jeigu šis įstatymas bei Administracinių bylų teisenos įstatymas nenustato kitaip.
-
-
+5 straipsnis. Neteko galios nuo 2002-05-01
+Straipsnio naikinimas:
+Nr. IX-776, 2002-03-12, Žin. 2002, Nr. 31-1124 (2002-03-27), i. k. 1021010ISTA00IX-776
 Straipsnio pakeitimai:
 Nr. VIII-1928, 2000-09-19, Žin., 2000, Nr. 85-2567 (2000-10-11), i. k. 1001010ISTAIII-1928
  
@@ -220,3 +179,8 @@ Lietuvos Respublikos administracinių teismų įsteigimo įstatymo 1 ir 5 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1928, 2000-09-19, Žin., 2000, Nr. 85-2567 (2000-10-11), i. k. 1001010ISTAIII-1928
 Lietuvos Respublikos administracinių teismų įsteigimo įstatymo 2, 3, 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-776, 2002-03-12, Žin., 2002, Nr. 31-1124 (2002-03-27), i. k. 1021010ISTA00IX-776
+Lietuvos Respublikos administracinių teismų įsteigimo įstatymo 3, 4 straipsnių pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas
