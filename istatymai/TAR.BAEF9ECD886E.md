@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BAEF9ECD886E"
 
 # Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos įstatymas
 
+Suvestinė redakcija nuo 2002-10-25 iki 2004-09-30
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 71-1717, i. k. 0961010ISTA00I-1485
+ 
 LIETUVOS RESPUBLIKOS GINKLŲ FONDO  Į S T A T Y M A S
  
 1996 m. liepos 11 d. Nr. I-1485
@@ -30,7 +34,10 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Lietuvos Respublikos ginklų fondas
 
-1. Lietuvos Respublikos ginklų fondas (toliau – Ginklų fondas) yra valstybės institucija, įsteigta ir veikianti prie Lietuvos Respublikos Vyriausybės, turinti išimtinę teisę aprūpinti valstybės institucijas ir kitus juridinius asmenis ginklais, šaudmenimis, sprogmenimis, kovine technika ar specialiosiomis priemonėmis pagal Vyriausybės patvirtintą sąrašą.
+1. Lietuvos Respublikos ginklų fondas (toliau – Ginklų fondas) yra valstybės institucija, įsteigta ir veikianti prie Lietuvos Respublikos Vyriausybės, turinti išimtinę teisę aprūpinti valstybės institucijas ir kitus juridinius asmenis, išskyrus Krašto apsaugos ministeriją, ginklais, šaudmenimis, sprogmenimis, kovine technika ar specialiosiomis priemonėmis. Krašto apsaugos ministerija turi teisę įstatymų nustatyta tvarka aprūpinti krašto apsaugos sistemą ginklais, šaudmenimis, sprogmenimis, kovine technika ir specialiosiomis priemonėmis. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1134, 2002-10-15, Žin., 2002, Nr. 102-4549 (2002-10-25), i. k. 1021010ISTA0IX-1134
+ 
 
 2. Ginklų fondas turi išimtinę teisę pardavinėti fiziniams asmenims pistoletus (revolverius) savigynai ir šaudmenis šiems ginklams.
 
@@ -142,4 +149,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1134, 2002-10-15, Žin., 2002, Nr. 102-4549 (2002-10-25), i. k. 1021010ISTA0IX-1134
+Lietuvos Respublikos ginklų fondo įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas
 
