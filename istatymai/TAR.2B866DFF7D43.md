@@ -5274,11 +5274,19 @@ pagrobtus du ar daugiau žmonių,
 baudžiamas
 laisvės atėmimu nuo penkerių iki penkiolikos metų.
  
+ 
 XXXVI
 SKYRIUS
 NUSIKALTIMAI
 IR BAUDŽIAMIEJI NUSIŽENGIMAI, SUSIJĘ SU DISPONAVIMU GINKLAIS, ŠAUDMENIMIS,
 SPROGMENIMIS, SPROGSTAMOSIOMIS AR RADIOAKTYVIOSIOMIS MEDŽIAGOMIS
+ARBA
+KARINE ĮRANGA
+Skyriaus
+pavadinimas keistas:
+Nr.
+IX-2512,
+2004-10-28, Žin., 2004, Nr. 166-6061 (2004-11-16)
  
 253 straipsnis. Neteisėtas disponavimas šaunamaisiais ginklais,
 šaudmenimis, sprogmenimis ar sprogstamosiomis medžiagomis
@@ -5293,6 +5301,21 @@ realizavo ne mažiau kaip tris šaunamuosius ginklus, didelės sprogstamosios
 galios arba didelį kiekį šaudmenų, sprogmenų ar sprogstamųjų medžiagų,
 baudžiamas
 laisvės atėmimu nuo ketverių iki aštuonerių metų.
+ 
+253(1)
+straipsnis. Neteisėtas tarpininkavimas dėl karinės įrangos perdavimo 
+1. Tas, kas
+neturėdamas leidimo tarpininkavo dėl karinės įrangos perdavimo į kitą, ne
+Europos Sąjungos, valstybę,
+baudžiamas
+teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba
+bauda, arba areštu, arba laisvės atėmimu iki trejų metų. 
+2.
+Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+Kodeksas papildytas straipsniu:
+Nr.
+IX-2512,
+2004-10-28, Žin., 2004, Nr. 166-6061 (2004-11-16)
  
 254 straipsnis. Šaunamojo ginklo, šaudmenų, sprogmenų ar
 sprogstamųjų medžiagų pagrobimas
@@ -5319,17 +5342,17 @@ baudžiamas
 bauda arba areštu, arba teisės dirbti tam tikrą darbą ar užsiimti tam tikra
 veikla atėmimu.
 2.
-Asmuo pagal šį straipsnį atsako tik tais atvejais, kai numatytos veikos padarytos
-dėl neatsargumo.
+Asmuo pagal šį straipsnį atsako tik tais atvejais, kai numatytos veikos
+padarytos dėl neatsargumo.
 3.
 Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
  
 256 straipsnis. Neteisėtas radioaktyviųjų medžiagų įgijimas,
 laikymas ar naudojimas
 1.
-Tas, kas pagrobė ar kitaip neteisėtai įgijo, laikė, panaudojo ar suardė bet kokio
-pavidalo ir bet kokios fizinės būsenos jonizuojančios spinduliuotės šaltinius,
-radioaktyviąsias ar branduolines medžiagas,
+Tas, kas pagrobė ar kitaip neteisėtai įgijo, laikė, panaudojo ar suardė bet
+kokio pavidalo ir bet kokios fizinės būsenos jonizuojančios spinduliuotės
+šaltinius, radioaktyviąsias ar branduolines medžiagas,
 baudžiamas
 areštu arba laisvės atėmimu iki ketverių metų.
 2.
@@ -5376,8 +5399,8 @@ bauda arba areštu.
 XXXVII
 SKYRIUS
 NUSIKALTIMAI
-IR BAUDŽIAMIEJI NUSIŽENGIMAI, SUSIJĘ SU DISPONAVIMU NARKOTINĖMIS AR
-PSICHOTROPINĖMIS, NUODINGOSIOMIS AR STIPRIAI VEIKIANČIOMIS MEDŽIAGOMIS
+IR BAUDŽIAMIEJI NUSIŽENGIMAI, SUSIJĘ SU DISPONAVIMU NARKOTINĖMIS AR PSICHOTROPINĖMIS,
+NUODINGOSIOMIS AR STIPRIAI VEIKIANČIOMIS MEDŽIAGOMIS
  
 259 straipsnis. Neteisėtas disponavimas narkotinėmis ar
 psichotropinėmis medžiagomis be tikslo jas platinti
@@ -5413,15 +5436,15 @@ laisvės atėmimu nuo dvejų iki aštuonerių metų.
 2. Tas, kas
 neteisėtai gamino, perdirbo, įgijo, laikė, gabeno ar siuntė didelį kiekį
 narkotinių ar psichotropinių medžiagų turėdamas tikslą jas parduoti ar kitaip
-platinti arba pardavė ar kitaip platino didelį kiekį narkotinių ar
-psichotropinių medžiagų,
+platinti arba pardavė ar kitaip platino didelį kiekį narkotinių ar psichotropinių
+medžiagų,
 baudžiamas
 laisvės atėmimu nuo aštuonerių iki dešimties metų.
 3. Tas, kas
 neteisėtai gamino, perdirbo, įgijo, laikė, gabeno, siuntė, pardavė ar kitaip
 platino labai didelį kiekį narkotinių ar psichotropinių medžiagų,
-baudžiamas
-laisvės atėmimu nuo dešimties iki penkiolikos metų.
+baudžiamas laisvės
+atėmimu nuo dešimties iki penkiolikos metų.
 Straipsnio pakeitimai:
 Nr. IX-1495,
 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
@@ -5459,8 +5482,8 @@ areštu, arba laivės atėmimu iki penkerių metų.
 2. Tas, kas
 prievartavo arba pagrobė narkotines ar psichotropines medžiagas panaudodamas
 fizinį ar psichinį smurtą,
-baudžiamas
-laisvės atėmimu nuo trejų iki dešimties metų.
+baudžiamas laisvės
+atėmimu nuo trejų iki dešimties metų.
 3. Tas, kas šio
 straipsnio 1 ar 2 dalyje nurodytais veiksmais užvaldė didelį kiekį narkotinių
 ar psichotropinių medžiagų arba narkotines ar psichotropines medžiagas užvaldė
@@ -5526,8 +5549,8 @@ taisyklių pažeidimas
 1.
 Tas, kas pažeidė narkotinių, psichotropinių, stipriai veikiančių ar nuodingųjų
 medžiagų gaminimo, laikymo, apskaitos, išdavimo, gabenimo ar siuntimo
-taisykles, jeigu dėl to tos medžiagos buvo pagrobtos arba kitaip tapo nelegalios
-apyvartos dalyku,
+taisykles, jeigu dėl to tos medžiagos buvo pagrobtos arba kitaip tapo
+nelegalios apyvartos dalyku,
 baudžiamas
 teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba
 bauda, arba areštu, arba laisvės atėmimu iki dvejų metų.
@@ -5744,8 +5767,7 @@ ji padaryta dėl neatsargumo.
 straipsnis. Tarptautinių skrydžių taisyklių pažeidimas
 Orlaivio
 ar kito skraidymo įrenginio ekipažo narys, pažeidęs tarptautinių skrydžių
-taisykles įskrisdamas į Lietuvos Respubliką arba išskrisdamas iš Lietuvos
-Respublikos,
+taisykles įskrisdamas į Lietuvos Respubliką arba išskrisdamas iš Lietuvos Respublikos,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
  
@@ -5796,9 +5818,8 @@ alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiag
 baudžiamas
 laisvės atėmimu iki šešerių metų.
 5. Tas, kas vairuodamas kelių
-transporto priemonę pažeidė kelių eismo saugumo ar transporto priemonės
-eksploatavimo taisykles, jeigu dėl to įvyko eismo įvykis, dėl kurio žuvo
-žmogus,
+transporto priemonę pažeidė kelių eismo saugumo ar transporto priemonės eksploatavimo
+taisykles, jeigu dėl to įvyko eismo įvykis, dėl kurio žuvo žmogus,
 baudžiamas
 laisvės atėmimu iki aštuonerių metų.
 6.
@@ -5819,8 +5840,8 @@ kitos mechaninės transporto priemonės.
 Straipsnio pakeitimai:
 Nr. IX-1495,
 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
-Nr. IX-1706, 2003-07-04,
-Žin., 2003, Nr. 74-3423 (2003-07-25)
+Nr. IX-1706,
+2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)
  
 282
 straipsnis. Transporto eismo tvarkos ar saugumo taisyklių pažeidimas
@@ -5878,8 +5899,8 @@ didelės turtinės žalos,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki dvejų metų. 
 2.
-Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to buvo
-iškviestos specialios tarnybos, padarė baudžiamąjį nusižengimą ir
+Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to buvo iškviestos
+specialios tarnybos, padarė baudžiamąjį nusižengimą ir
 baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
  
@@ -5918,9 +5939,9 @@ Nr. IX-2314,
 288 straipsnis. Kišimasis į valstybės tarnautojo ar viešojo
 administravimo funkcijas atliekančio asmens veiklą
 Valstybės
-tarnautojas, visuomenės veikėjas, politinės ar visuomeninės organizacijos atstovas,
-kuris naudodamasis savo įtaka kišosi į valstybės tarnautojo ar viešojo
-administravimo funkcijas atliekančio asmens veiklą siekdamas priversti
+tarnautojas, visuomenės veikėjas, politinės ar visuomeninės organizacijos
+atstovas, kuris naudodamasis savo įtaka kišosi į valstybės tarnautojo ar
+viešojo administravimo funkcijas atliekančio asmens veiklą siekdamas priversti
 atsisakyti teisėtų veiksmų ar atlikti neteisėtus veiksmus savo ar kitų asmenų
 naudai,
 baudžiamas
@@ -6028,8 +6049,8 @@ juridinį ar fizinį asmenį rinkti,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
  
-296 straipsnis. Tarnybos paslapties pagrobimas ar kitoks
-neteisėtas įgijimas
+296 straipsnis. Tarnybos paslapties pagrobimas ar kitoks neteisėtas
+įgijimas
 Tas,
 kas pagrobė, pirko ar kitaip neteisėtai įgijo materialų objektą, kurio turinys
 ar informacija apie jį yra tarnybos paslaptis, ar perdavė taip įgytą objektą ar
@@ -6093,8 +6114,8 @@ Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 straipsnis. Antspaudo, spaudo ar blanko suklastojimas
 1.
 Tas, kas suklastojo tikrą ar pagamino netikrą fizinio ar juridinio asmens
-antspaudą, spaudą ar griežtos atskaitomybės blanką arba pasinaudojo žinomai
-suklastotu antspaudu, spaudu ar blanku, arba jį realizavo,
+antspaudą, spaudą ar griežtos atskaitomybės blanką arba pasinaudojo žinomai suklastotu
+antspaudu, spaudu ar blanku, arba jį realizavo,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 2.
@@ -6200,8 +6221,7 @@ IR BAUDŽIAMIEJI NUSIŽENGIMAI DOROVEI
 307
 straipsnis. Pelnymasis iš kito asmens prostitucijos
 1.
-Tas, kas turėjo pajamų iš kito asmens prostitucijos arba sąvadavo
-prostitucijai,
+Tas, kas turėjo pajamų iš kito asmens prostitucijos arba sąvadavo prostitucijai,
 baudžiamas
 bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių
 metų.
@@ -6630,11 +6650,21 @@ Galutinį sprendimą pasibaigus bausmės vykdymo atidėjimo terminui teismas pri
 vadovaudamasis Lietuvos Respublikos baudžiamojo kodekso 3, 75 ir 92
 straipsniais.
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2512,
+2004-10-28, Žin., 2004, Nr. 166-6061 (2004-11-16)
+BAUDŽIAMOJO
+KODEKSO XXXVI SKYRIAUS PAVADINIMO PAKEITIMO IR KODEKSO PAPILDYMO 253(1)
+STRAIPSNIU ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-07-15)
+Aušrinė Trapinskienė (2004-11-16)
                  
 autrap@lrs.lt
