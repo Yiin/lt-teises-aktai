@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97BDCD719E57"
 
 # Lietuvos Respublikos veterinarijos įstatymas
 
+Suvestinė redakcija nuo 1999-10-27 iki 2000-07-25
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 3-0; Žin. 1992, Nr.2-15, i. k. 091XX01ISTA00I-2110
+ 
+ 
 LIETUVOS RESPUBLIKOS VETERINARIJOS ĮSTATYMAS
  
 1991 m. gruodžio 17 d. Nr. I-2110
@@ -31,6 +36,49 @@ I. BENDRIEJI NUOSTATAI
  
 
 
+
+
+
+
+11 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+
+1. Veterinarija – mokslo ir praktinės veiklos sritis, apimanti gyvulių priežiūrą bei apsaugą, susirgimų diagnostiką ir sergančių gyvulių gydymą, ligų prevenciją, gyvulinių produktų gamybos ir perdirbimo valstybinę priežiūrą, veterinarijos medikamentų ir biologinių preparatų, pašarinių priedų gamybą bei naudojimą, Lietuvos Respublikos teritorijos apsaugą nuo gyvulių užkrečiamųjų ligų patekimo.
+
+
+
+
+2. Gyvuliniai produktai – visi produktai ir žaliavos, gauti iš žinduolių, paukščių, žuvų, vabzdžių, roplių, vėžiagyvių ir kitų hidrobiontų, moliuskų, sraigių, naudojami žmonių maistui, gyvuliams šerti ir pramonėje.
+
+
+
+
+3. Gyvulių laikytojas – gyvulio savininkas ar kitas asmuo, atsakingas už laikomus gyvulius.
+
+
+
+
+4. Gyvulių laikymo vieta – patalpa, aptverta teritorija, vandens telkinys, kuriuose laikomas gyvulys arba gyvūnas.
+
+
+
+
+5. Gyvulių apskaita – specialiame žurnale daromi įrašai apie gyvulių laikymo vietoje esančius galvijus, kiaules, avis, ožkas ir arklius, jų pardavimą, paskerdimą, kritimą ar kitokį netekimą, pirkimą ir prieauglio atsivedimą.
+
+
+
+
+6. Gyvulių ženklinimas – specialių ausies ženklų su užkoduotais įrašais, pagal kuriuos identifikuojamas gyvulys, įsegimas.
+
+
+
+
+7. Gyvulių supirkimo punktai, karantino bazės – laikinos gyvulių surinkimo ir laikymo vietos, kol gyvuliai bus parduoti kitam savininkui.
+
+
+Papildyta straipsniu:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
+ 
 
 
 
@@ -79,7 +127,9 @@ Veterinarijos uždaviniai yra:
 
 
 
-2. Valstybinės veterinarijos struktūrą ir kompetenciją nustato Lietuvos Respublikos Vyriausybė.
+2. Neteko galios nuo 1999-10-27
+Straipsnio dalies naikinimas:
+Nr. VIII-1350, 1999-10-07, Žin. 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
  
 
 
@@ -90,20 +140,27 @@ Veterinarijos uždaviniai yra:
 4 straipsnis. Veterinarijos valdymas
 
 
-1. Lietuvos Respublikos veterinarijos uždavinius įgyvendina Valstybinis veterinarijos departamentas.
+1. Valstybės politiką veterinarijos srityje įgyvendina Valstybinis veterinarijos departamentas.
 
 
 
 
-2. Valstybinis veterinarijos departamentas organizuoja praktinį veterinarijos darbą, leidžia instrukcijas ir duoda nurodymus, privalomus vykdyti Lietuvos Respublikos teritorijoje.
+2. Valstybinis veterinarijos departamentas yra Vyriausybės įstaiga.
 
 
 
 
-3. Valstybinis veterinarijos departamentas yra juridinis asmuo, turintis herbinį antspaudą.
+3. Valstybinio veterinarijos departamento nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+
+
+
+
+4. Valstybinis veterinarijos departamentas įstatymų nustatyta tvarka steigia valstybines veterinarijos biudžetines ir viešąsias įstaigas, tvirtina jų nuostatus, jas reorganizuoja arba likviduoja.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
  
-
-
 
 
 
@@ -162,7 +219,10 @@ Valstybinė veterinarija:
 
 
 
-6) veterinariniu sanitariniu požiūriu įvertina gaminamus, perdirbamus, sandėliuojamus gyvulinius produktus ir žaliavas;
+6) prižiūri gyvulinių maisto produktų gamybą, perdirbimą, sandėliavimą, transportavimą ir prekybą; organoleptiniais, bakteriologiniais, biocheminiais ir radiologiniais tyrimais įvertina gyvulinių produktų tinkamumą žmonių maistui; sprendžia, ar žmonių maistui netinkami produktai tinka gyvuliams šerti; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
+ 
 
 
 
@@ -187,12 +247,30 @@ Valstybinė veterinarija:
 
 
 
-11) kontroliuoja, kad į Lietuvą nepatektų užkrečiamosios gyvulių ligos iš užsienio, tikrina importuojamų gyvulių ir kitų gyvūnų, žaliavų, gyvulinių produktų bei pašarų veterinarinę būklę;
+11) nustato privalomus reikalavimus, suderintus su Jungtinių Tautų, Europos Sąjungos, Zoosanitarinio kodekso, Pasaulio prekybos organizacijos reikalavimais, užtikrinančiais, kad į Lietuvą nepatektų užkrečiamosios gyvulių ligos, žmonių sveikatai kenksmingi gyvuliniai produktai; vykdo importuojamų gyvulių ir kitų gyvūnų, gyvulinių produktų, žaliavų, pašarų veterinarijos kontrolę; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
+ 
 
 
 
 
-12) kontroliuoja ir koordinuoja visose valstybinėse ir privačiose įmonėse bei organizacijose dirbančių veterinarijos specialistų veiklą.
+12) kontroliuoja ir koordinuoja visose valstybinėse ir privačiose įmonėse bei organizacijose dirbančių veterinarijos specialistų veiklą;
+
+
+
+
+13) vykdo galvijų, kiaulių, arklių, avių, ožkų, triušių, kailinių žvėrelių, paukščių ir laboratoriniams bandymams auginamų gyvūnų gerovės apsaugos reikalavimų laikymosi kontrolę
+Papildyta straipsnio punktu:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
+ 
+
+
+
+
+14) pagal savo kompetenciją leidžia įsakymus ir įsakymais patvirtintus teisės aktus.
+Papildyta straipsnio punktu:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
  
 
 
@@ -205,25 +283,32 @@ Valstybinė veterinarija:
 7 straipsnis. Valstybinės veterinarijos teisės
 
 
-Valstybinė veterinarija pagal savo kompetenciją gali:
+Valstybinė veterinarija pagal savo kompetenciją turi teisę:
 
 
-1) duoti privalomus nurodymus, kad auginantys gyvulius fiziniai ir juridiniai asmenys, perdirbančios, sandėliuojančios gyvulinius produktus, žaliavas ir jais prekiaujančios įmonės, organizacijos ir asmenys, vykdytų priešepizootines ir veterinarines sanitarines priemones;
-
-
-
-
-2) lankyti visų įmonių ir organizacijų objektus, reikalingus veterinarinės priežiūros, gauti informaciją, būtiną epizootinei būklei nustatyti, gyvulių, kitų gyvūnų ligų priežastims išaiškinti, gyvulinės kilmės produktų ir žaliavų veterinarinei sanitarinei kokybei įvertinti;
+1) duoti privalomus nurodymus fiziniams ir juridiniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, besiverčiantiems gyvulių auginimu, gyvulinių produktų ir žaliavų perdirbimu, sandėliavimu, transportavimu ar prekyba, vykdyti Valstybinio veterinarijos departamento nustatytus reikalavimus, kad neplistų gyvulių ligos ir gaminami gyvuliniai produktai nebūtų kenksmingi žmonių sveikatai;
 
 
 
 
-3) nustačius užkrečiamąją ar įtarus labai pavojingą gyvulių, kitų gyvūnų ligą, vadovaudamiesi šio įstatymo 15 ir 16 straipsniais, pateikti visoms įmonėms, organizacijoms, ūkininkams ir piliečiams privalomas vykdyti gyvulių skerdimo ar sunaikinimo, gyvulinių produktų, žaliavos padarymo nekenksmingais, perdirbimo arba utilizavimo sąlygas.
+2) lankyti visų įmonių ir organizacijų objektus, kuriems būtina veterinarinė priežiūra, gauti informaciją, būtiną epizootinei būklei nustatyti, gyvulių, kitų gyvūnų ligų priežastims išaiškinti, gyvulinės kilmės produktų ir žaliavų veterinarinei sanitarinei kokybei įvertinti;
+
+
+
+
+3) nustačius užkrečiamąją ar įtarus labai pavojingą gyvulių, kitų gyvūnų ligą, vadovaudamasi šio įstatymo 15 ir 16 straipsniais, pateikti visoms įmonėms, organizacijoms, ūkininkams ir piliečiams privalomas vykdyti gyvulių skerdimo ar sunaikinimo, gyvulinių produktų, žaliavos nukenksminimo, perdirbimo arba utilizavimo sąlygas;
+
+
+
+
+4) turėti kitų įstatymuose ir kituose teisės aktuose nustatytų teisių.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
  
-
-
-
-
 
 
 
@@ -236,7 +321,9 @@ Valstybinė veterinarija pagal savo kompetenciją gali:
 
 
 
-2. Respublikinių, tarprajoninių, miestų, rajonų valstybinių veterinarijos organizacijų, įstaigų vadovai, jų pavaduotojai atitinkamai yra Respublikos, tarprajoniniai, miestų, rajonų valstybiniai veterinarijos inspektoriai ir jų pavaduotojai.
+2. Valstybinio veterinarijos departamento teritorinių padalinių: apskričių, miestų arba rajonų valstybinių veterinarijos įstaigų vadovai, jų pavaduotojai atitinkamai yra apskričių, miestų, rajonų valstybiniai veterinarijos inspektoriai ir jų pavaduotojai.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
  
 
 
@@ -387,99 +474,181 @@ IV. VETERINARINIAI-SANITARINIAI REIKALAVIMAI UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKA
  
 
 
-15 straipsnis. Gyvulių augintojų ir juos aptarnaujančių organizacijų pareigos
+15 straipsnis. Gyvulių ir kitų gyvūnų laikytojų, įmonių, besiverčiančių gyvulinių produktų ir žaliavų gamyba, perdirbimu, sandėliavimu, transportavimu ar prekyba, kitų fizinių ir juridinių asmenų bei įmonių, neturinčių juridinio asmens teisių, pareigos
 
 
-1. Auginantys gyvulius ir kitus gyvūnus fiziniai ir juridiniai asmenys, taip pat perdirbančios, sandėliuojančios, pervežančios gyvulinius produktus , žaliavas ir prekiaujančios šiais produktais ir žaliavomis įmonės bei organizacijos užtikrina, kad laiku būtų imtasi veterinarinės sanitarijos ir ūkinių priemonių, neplistų gyvulių užkrečiamosios ligos ir būtų likviduojami jų židiniai.
-
-
-
-
-2. Fiziniai ir juridiniai asmenys gali įsigyti iš užsienio gyvulių, kitų gyvūnų tik gavę Valstybinio veterinarijos departamento leidimą. Įsigytus gyvulius ir gyvūnus privalo izoliuoti nustatytam laikotarpiui.
+1. Gyvulių ir kitų gyvūnų laikytojai, įmonės, besiverčiančios gyvulinių produktų ir žaliavų gamyba, perdirbimu, sandėliavimu, transportavimu ar prekyba, užtikrina, kad laiku būtų imtasi veterinarijos sanitarijos ir ūkinių priemonių, neplistų gyvulių ir kitų gyvūnų užkrečiamosios ligos ir būtų likviduojami jų židiniai.
 
 
 
 
-3. Įsivežti iš užsienio gyvulinius produktus ir žaliavas, pašarus, medikamentus, biologinius preparatus galima tik Valstybinio veterinarijos departamento nustatyta tvarka.
+2. Fiziniai ir juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių, gali įsigyti iš užsienio gyvulių, kitų gyvūnų, tik gavę Valstybinio veterinarijos departamento leidimą. Įsigytus gyvulius 24 dienas privaloma laikyti atskirtus nuo kitų fermos (ūkio) gyvulių.
 
 
 
 
-4. Fiziniai ir juridiniai asmenys, auginantys gyvulius, kitus gyvūnus, privalo nedelsiant pranešti valstybinei veterinarijai apie staigius ir gausius gyvulių, kitų gyvūnų susirgimus bei gaišimus.
+3. Įsivežti iš užsienio gyvulinių produktų ir žaliavų, pašarų, medikamentų, biologinių preparatų galima tik Valstybinio veterinarijos departamento nustatyta tvarka.
 
 
 
 
-5. Gyvulių, kitų gyvūnų savininkai privalo leisti veterinarijos specialistams apžiūrėti gyvulius, imti tyrimui jų kraują ar kitą medžiagą, juos skiepyti, atlikti priešepizootines ir kitas vaterinarines, profilaktines priemones bei visokeriopai padėti vykdyti šiuos darbus.
+4. Gyvulių ir kitų gyvūnų laikytojai privalo nedelsiant pranešti teritorinei valstybinės veterinarijos įstaigai apie staigius arba gausius gyvulių, kitų gyvūnų susirgimus bei gaišimus.
 
 
 
 
-6. Prekiauti gyvuliais, kitais gyvūnais, gyvuliniais produktais ir žaliavomis gali tik fiziniai ir juridiniai asmenys , turintys nustatytos formos veterinarijos pažymėjimus.
+5. Gyvulių, kitų gyvūnų laikytojai privalo leisti veterinarijos specialistams apžiūrėti gyvulius, imti tyrimui jų kraują ar kitą medžiagą, juos skiepyti, imtis priešepizootinių ir kitų veterinarinių, profilaktinių priemonių bei visokeriopai padėti atlikti šiuos darbus.
 
 
 
 
-7. Nugaišusius gyvulius, kitus gyvūnus, paskerstų gyvulių atliekas, abortuotus vaisius, sugadintas odas bei kailius, kitokias gyvulines atliekas, veterinarijos gydytojo ar felčerio nurodymu, gyvulių savininkas privalo pristatyti į tam reikalui įrengtas patalpas arba sunaikinti (užkasti) gyvulių kapinyne.
+6. Prekiauti gyvuliais, kitais gyvūnais, gyvuliniais produktais ir žaliavomis gali tik fiziniai ir juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių, turintys Valstybinio veterinarijos departamento nustatytos formos pažymėjimus.
 
 
 
 
-8. Nugaišę nuo ypač pavojingų žmonėms ir gyvuliams užkrečiamųjų ligų gyvuliai valstybinės veterinarijos gydytojo nurodymu deginami su visa oda ir vidaus organais.
+7. Nugaišę gyvuliai, gyvulių skerdimo atliekos, išskyrus šio įstatymo 16 straipsnio 10 dalyje nurodytus atvejus, perduodama atliekų perdirbimo įmonėms. 
 
 
 
 
-9. Be veterinarijos gydytojo ar felčerio leidimo draudžiama skersti sveikus bei sergančius gyvulius, vartoti jų mėsą maistui, gyvuliams šerti, pardavinėti mėsą ar kitus skerdienos produktus.
+8. Gyvulinių produktų perdirbimo įmonėse turi būti vidinės savikontrolės sistema. 
 
 
 
 
-10. Pervežti gyvulius, kitus gyvūnus bei jų produkciją galima tik specialiai parengtu transportu, atitinkančiu veterinarinės sanitarijos reikalavimus. Kroviniui pervežti reikia turėti veterinarijos dokumentą.
+9. Be raštiško veterinarijos gydytojo leidimo draudžiama skersti sergančius gyvulius, naudoti jų mėsą maistui, gyvuliams šerti, pardavinėti jų skerdieną ir jos produktus.
 
 
 
 
-11. Gyvuliai bei kiti gyvūnai gydomi, profilaktinės ir veterinarinės sanitarinės priemonės atliekamos savininkų lėšomis, išskyrus šio įstatymo 16 straipsnyje nurodytus atvejus.
+10. Sveikų gyvulių ir kitų gyvūnų skerdimo, turint tikslą parduoti skerdieną ir subproduktus, tvarką nustato Valstybinis veterinarijos departamentas.
+
+
+
+
+11. Vežti gyvulius, kitus gyvūnus bei jų produkciją galima tik specialiai paruoštu transportu, atitinkančiu Valstybinio veterinarijos departamento nustatytus reikalavimus.
+
+
+
+
+12. Valstybinis veterinarijos departamentas tvirtina gyvulių užkrečiamųjų ligų sąrašą. Šių ligų prevencijai ir likvidavimui reikalingos veterinarijos priemonės įsigyjamos iš valstybės biudžeto lėšų. Kitų susirgimų profilaktika ir gydymas, gyvulinių produktų gamybos, perdirbimo, sandėliavimo, transportavimo, importo ir eksporto veterinarijos priežiūra atliekama savininkų lėšomis.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
  
 
 
 
 
+16 straipsnis. Gyvulių užkrečiamųjų ligų prevencijos, šių ligų židinių ir epizootijų likvidavimo priemonės
 
 
-16 straipsnis. Karantinas ir kiti apribojimai užkrečiamųjų ligų atvejais
-
-
-1. Lietuvos Respublikos Vyriausybė, Valstybinio veterinarijos departamento teikimu, tvirtina gyvulių, kitų gyvūnų užkrečiamųjų ligų, kurioms taikomas karantinas arba apribojimai, sąrašą bei sąrašą ligų, kurių profilaktikos priemones ir likvidavimą finansuoja valstybė.
-
-
-
-
-2. Veterinarijos gydytojas ar felčeris, aptarnaujantis fizinius ir juridinius asmenis ar gyvenamąją vietovę, gavęs pranešimą apie gyvulių, kitų gyvūnų staigius susirgimus, įtaręs užkrečiamąją ligą, tuoj pat atvyksta į vietą, patikrina susirgusius ir kartu laikomus gyvulius, imasi priemonių ligai nustatyti, sergančius izoliuoja ir praneša miesto ar rajono valstybiniam veterinarijos inspektoriui.
+1. Gyvulių laikytojai, įtarę, kad jų laikomi gyvuliai serga užkrečiamąja liga, nedelsdami praneša teritorinei valstybinei veterinarijos įstaigai ir imasi būtiniausių priemonių, kad liga neplistų.
 
 
 
 
-3. Nustačius ūkyje ar gyvenvietėje gyvulių, kitų gyvūnų užkrečiamąją ligą, miesto (rajono) valdybos sprendimu skelbiamas karantinas arba apribojimai, būtini ligos plitimui likviduoti.
+1. Gavęs pranešimą apie įtarimą, kad gyvulys serga užkrečiamąja liga, valstybinis veterinarijos gydytojas tuoj pat nuvyksta į vietą, tikslina diagnozę, siunčia medžiagą laboratoriniams tyrimams, imasi priemonių išvengti ligos plitimo, įskaitant draudimą išvežti gyvulius ar gyvulinius produktus iš įtariamo židinio bei židinyje esantiems žmonėms išvykti už židinio teritorijos.
 
 
 
 
-4. Užkrėstos zonos izoliaciniam režimui palaikyti gali būti steigiami policijos ir veterinarijos kontroliniai postai, kurių skaičių ir išdėstymo vietas numato savivaldybės.
+2. Nustačius, kad gyvuliai serga užkrečiamąja liga, teritorinės valstybinės veterinarijos įstaigos vadovas, atsižvelgęs į ligos sukėlėjo pavojingumą, plitimo savybes, vietos geografinę padėtį ir kitas gamtines sąlygas, nustato:
+
+
+1) židinio teritorijos ribas;
 
 
 
 
-5. Karantino metu gali būti laikinai sustabdoma turgaviečių, gyvulių priėmimo punktų, įmonių veikla, draudžiamos mugės, aukcionai, parodos ir kiti susibūrimai, susiję su gyvulių, kitų gyvūnų pervežimu.
+2) apsaugos zonos, esančios 3 km spinduliu apie židinį, ribas;
 
 
 
 
-6. Esant pavojingai užkrečiamajai ligai, užkrėstuose rajonuose arba visoje Lietuvos teritorijoje Lietuvos Respublikos Vyriausybės sprendimu gali būti nustatomi ypatingi karantininiai apribojimai.
+3) stebėjimo zonos, esančios 10 km spinduliu nuo apsaugos zonos, ribas;
+
+
+
+
+4) veterinarijos priemones, kurias reikia taikyti šios dalies 1, 2 ir 3 punktuose nurodytose teritorijose.
+
+
+
+
+
+
+4. Valstybinis veterinarijos departamentas tvirtina gyvulių ir kitų gyvūnų užkrečiamųjų ligų, kuriomis susirgus nustatomos apsaugos ir stebėjimo zonos, sąrašą.
+
+
+
+
+5. Kai į ligos židinio, apsaugos ar stebėjimo zonas įeina dviejų rajonų teritorijos, zonų ribas ir ligos židinio likvidavimo priemones nustato bendru nutarimu šių teritorinių valstybinių veterinarijos įstaigų vadovai. Kai gyvulių ar kitų gyvūnų ligos židiniai nustatomi keliuose rajonuose, ligos likvidavimo priemonių įgyvendinimą organizuoja Valstybinis veterinarijos departamentas.
+
+
+
+
+6. Kai gyvulių užkrečiamosios ligos sukėlėjas yra pavojingas žmonėms, žmonių sveikatos apsaugos priemones nustato Sveikatos apsaugos ministerija arba jos įgaliota institucija.
+
+
+
+
+7. Jeigu būtina, teritorinės valstybinės veterinarijos įstaigos vadovas kreipiasi į atitinkamo rajono arba miesto savivaldos instituciją dėl papildomų apsaugos priemonių – policijos postų steigimo, keleivinių autobusų maršrutų pakeitimo, transporto srauto nukreipimo aplenkiant šio straipsnio 3 dalies 1, 2 ir 3 punktuose nurodytas teritorijas, gyventojų observacijos ir kt. Rajono arba miesto savivaldos institucija klausimus dėl papildomų apsaugos priemonių svarsto skubos tvarka ir per 24 valandas priima sprendimą.
+
+
+
+
+8. Nustačius, kad gyvuliai serga užkrečiamąja liga, valstybinės veterinarijos įstaigos veterinarijos gydytojų nurodymų ligos židiniui likviduoti privalo laikytis visi šio straipsnio 3 dalies 1, 2 ir 3 punktuose nurodytose teritorijose esantys fiziniai ir juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių.
+
+
+
+
+9. Valstybinio veterinarijos departamento direktorius ar jo pavaduotojai gali įpareigoti skerdyklą ar gyvulinių produktų perdirbimo įmonę, nepaisant jos pavaldumo, paskersti gyvulius ar perdirbti gyvulinius produktus laikantis veterinarijos reikalavimų, kai tai būtina gyvulių užkrečiamosios ligos prevencijai ar tokios ligos židiniui likviduoti.
+
+
+
+
+10. Nugaišusius ar dėl ligų numarintus gyvulius, abortuotus vaisius, odas bei kailius, gyvulių skerdienas ir skerdimo atliekas, gyvulinius produktus, jei tai būtina norint likviduoti gyvulių užkrečiamuosius susirgimus ar išvengti jų plitimo, valstybinio veterinarijos gydytojo raštišku nurodymu savininkai privalo sudeginti, užkasti į žemę arba, laikydamiesi veterinarijos reikalavimų, kad ligos sukėlėjas neplistų, pristatyti į gyvulinių atliekų perdirbimo įmones.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
  
 
 
+
+
+161 straipsnis. Gyvulių registravimas ir identifikavimas
+
+
+1. Lietuvos Respublikoje privalomas visų gyvulių ir kitų gyvūnų laikymo vietų registravimas, jose esančių galvijų, kiaulių, avių, ožkų apskaita ir ženklinimas.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytų gyvulių ir kitų gyvūnų laikymo vietų registravimo bei jose laikomų gyvulių apskaitos ir ženklinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+
+
+
+3. Kiekvienas galvijų, kiaulių, avių ir ožkų laikytojas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pildo laikomų gyvulių apskaitos žurnalą, atsako už turimų gyvulių ženklinimą, informacijos apie gyvulių skaičiaus pokytį pateikimą.
+
+
+
+
+4. Gyvulių supirkimo punktų, karantino bazių, gyvulių skerdyklų ir turgaviečių vadovai paskiria asmenis, kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pildo į supirkimo punktus, karantino bazes, gyvulių skerdyklas, turgavietes pristatytų galvijų, kiaulių, avių ir ožkų apskaitos žurnalus, teikia ataskaitas už parduotus ar paskerstus gyvulius.
+
+
+
+
+5. Lėšos gyvulių ir kitų gyvūnų laikymo vietų registravimui, jose laikomų galvijų, kiaulių, avių ir ožkų apskaitai, reikiamiems blankams, žurnalams ir gyvulių pasams spausdinti, gyvulių identifikavimo ženklams ir ženklinimui reikalingai įrangai įsigyti, ženklinimui, duomenų bankams steigti 1999-2001 metais skiriamos iš Kaimo rėmimo fondo.
+
+
+Papildyta straipsniu:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
+ 
 
 
 
@@ -493,7 +662,10 @@ V. VETERINARINĖ KONTROLĖ
 17 straipsnis. Gyvulininkystėje vartojamų veterinarinių preparatų kontrolė
 
 
-1. Gyvulininkystėje leidžiama vartoti tik tuos medikamentus, pašarinius priedus, mikroelementus, vakcinas, kitus biologinius preperatus ir reagentus, kurie įregistruoti farmakopėjoje arba farmakologinėje tarnyboje. Gyvulininkystėje galima vartoti veterinarinius ir diagnostinius preparatus, pagamintus pagal Valstybinio veterinarijos departamento patvirtintą techninę normatyvinę dokumentaciją ir vartojimo instrukciją.
+1. Gyvulininkystėje leidžiama vartoti tik tuos importuotus ar Lietuvoje pagamintus vaistus, pašarinius (vitamininius) priedus, mikroelementus, vakcinas, kitus biologinius ir diagnostinius preparatus, reagentus, kurie įregistruoti Valstybiniame veterinarijos departamente Lietuvos Respublikos teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
+ 
 
 
 
@@ -543,12 +715,15 @@ Kiekvienas medžioklės būrelis privalo įsirengti sumedžiotų žvėrių apdor
 
 
 
-20 straipsnis. Ginčų, kylančių dėl veterinarinių teisinių santykių, sprendimas
+20 straipsnis. Ginčų, kilusių vykdant šį įstatymą, sprendimas
 
 
-Ginčai tarp veterinarijos organizacijų ir fizinių bei juridinių asmenų sprendžiami teisme arba arbitraže Lietuvos Respublikos įstatymų nustatyta tvarka.
+Ginčai, kilę vykdant šį įstatymą, sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka. 
 
 
+Straipsnio pakeitimai:
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
+ 
 
 
 
@@ -565,3 +740,14 @@ PIRMININKAS                                  �
  
 Vilnius, 1991 m. gruodžio 17 d. 
 Nr. I-2110
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1350, 1999-10-07, Žin., 1999, Nr. 90-2639 (1999-10-27), i. k. 0991010ISTAIII-1350
+Lietuvos Respublikos veterinarijos įstatymo 3, 4, 6, 7, 8, 15, 16, 17, 20 straipsnių pakeitimo ir papildymo 1(1) ir 16(1) straipsniais įstatymas
