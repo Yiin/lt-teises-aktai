@@ -13,6 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.34E303A73CD8"
 
 # Lietuvos Respublikos socialinės bei psichologinės reabilitacijos taikymo laikinasis įstatymas
 
+Įstatymas netenka galios 2000-08-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1759, 2000-06-27, Žin., 2000, Nr. 56-1650 (2000-07-12), i. k. 1001010ISTAIII-1759
+Lietuvos Respublikos įstatymo "Dėl asmenų, kurie sistemingai daro administracinius teisės pažeidimus būdami apsvaigę nuo alkoholio, narkotinių ar toksinių priemonių, socialinės bei psichologinės reabilitacijos" ir kitų su juo susijusių teisės aktų pripažinimo netekusiais galios įstatymas
+ 
+Suvestinė redakcija nuo 1991-12-29 iki 2000-07-31
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 30-0; Žin. 1991, Nr.6-163, i. k. 0911010ISTA00I-1034
+ 
+ 
 LIETUVOS RESPUBLIKOS
 SOCIALINĖS BEI PSICHOLOGINĖS REABILITACIJOS TAIKYMO LAIKINASIS
 Į S T A T Y M A S
@@ -118,10 +128,12 @@ Ilgalaikiai pasimatymai suteikiami tik su artimais giminaičiais ir sutuoktiniu.
 Šių asmenų darbas organizuojamas įstaigos teritorijoje. Įstaigos administracija turi teisę pavyzdingai besielgiantiems ir sąžiningai dirbantiems asmenims leisti dirbti už įstaigos teritorijos ribų.
 Asmenų, laikomų bendrojo tipo socialinės bei psichologinės reabilitacijos įstaigose, darbas apmokamas pagal jo kiekį ir kokybę, laikantis galiojančių normų ir įkainių.
 Asmenys, laikomi bendrojo tipo socialinės bei psichologinės reabilitacijos įstaigoje, gali būti pasitelkiami neapmokant už darbą tik įstaigos teritorijos tvarkymo bei savo kultūrinių buitinių sąlygų gerinimo darbams. Šie darbai paprastai atliekami eilės tvarka ir ne darbo metu. Jie neturi trukti ilgiau kaip 2 valandas per savaitę.
-Iš asmenų, laikomų bendrojo tipo socialinės bei psichologinės reabilitacijos įstaigoje, uždarbio išskaitoma 30 procentų įstaigos išlaikymui, taip pat maisto ir aprangos kaina. Atlyginus šias išlaidas, iš priskaičiuoto uždarbio normos daromos išskaitos pagal vykdomuosius dokumentus Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+Iš asmenų, laikomų bendrojo tipo socialinės bei psichologinės reabilitacijos įstaigose, uždarbio išskaitoma 15 % įstaigai išlaikyti, taip pat maisto ir aprangos kaina. Atlyginus šias išlaidas, iš priskaičiuoto uždarbio normos daromos išskaitos pagal vykdomuosius dokumentus Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 Alimentai nepilnamečiams vaikams išlaikyti skaičiuojami nuo visos uždarbio sumos.
 Iš šių asmenų uždarbio, priskaičiuoto už nustatytų išdirbio normų viršijimą, taip pat iš visų rūšių premijų išskaitos socialinės bei psichologinės reabilitacijos įstaigos išlaikymui nedaromos.
 Į bendrojo tipo socialinės bei psichologinės reabilitacijos įstaigoje laikomų asmenų, kurie įvykdo išdirbio normas ar nustatytąsias užduotis, asmeninę sąskaitą turi būti įrašoma ne mažiau kaip 25 procentai jiems priskaityto mėnesinio uždarbio.
+Straipsnio pakeitimai:
+Nr. I-2109, 1991-12-17, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1991, Nr. 36-984 (1991-12-31), i. k. 0911010ISTA00I-2109
  
 
 17 straipsnis. Asmenys, laikomi specialaus tipo socialinės bei psichologinės reabilitacijos įstaigoje, gali dirbti.
@@ -199,4 +211,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1991 m. vasario 4 d. 
 Nr. I-1034
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2109, 1991-12-17, Lietuvos aidas, 1991, Nr. 257-0 (1991-12-28); Žin., 1991, Nr. 36-984 (1991-12-31), i. k. 0911010ISTA00I-2109
+Dėl Lietuvos Respublikos socialinės bei psichologinės reabilitacijos taikymo laikinojo įstatymo 16 straipsnio pakeitimo
 
