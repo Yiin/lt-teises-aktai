@@ -13,6 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3D3FAA1E98C8"
 
 # Lietuvos Respublikos administracinių teisės pažeidimų kodekso pakeitimo ir papildymo įstatymas
 
+Įstatymas netenka galios 2017-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1869, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11216
+Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
+ 
+Suvestinė redakcija nuo 2002-12-24 iki 2016-12-31
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 75-3214, i. k. 1021010ISTA0IX-1049
+ 
+ 
 LIETUVOS RESPUBLIKOS
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
 Į S T A T Y M A S
@@ -528,19 +538,9 @@ Aplinkos apsaugos organų vardu nagrinėti administracinių teisės pažeidimų 
 
 3) už šio kodekso 63 ir 71 straipsniuose numatytus administracinius teisės pažeidimus – Aplinkos ministerijos Valstybinės aplinkos apsaugos inspekcijos Miškų kontrolės skyriaus valstybiniai aplinkos apsaugos inspektoriai.“
 
-2. 242 straipsnio 1 dalyje ir 2 dalies 1 ir 2 punktuose po skaičiaus „5110“ įrašyti skaičių „5112“ ir visą straipsnį išdėstyti taip:
-
-„242 straipsnis. Aplinkos apsaugos organai 
-
-Aplinkos apsaugos organai nagrinėja šio kodekso 423, 51, 511 straipsniuose, 512 straipsnio antrojoje ir trečiojoje dalyse, 513, 514 straipsniuose, 515 straipsnio pirmojoje ir antrojoje dalyse, 516, 517, 5110, 5112, 52, 521, 53, 55 straipsniuose, 56 straipsnio pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje ir šeštojoje dalyse, 57, 58, 60 straipsniuose, 62 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 621 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 622 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 63, 64, 66–78 straipsniuose, 79–84 straipsniuose (kai administraciniai teisės pažeidimai nėra higienos norminių aktų, reglamentuojančių atmosferos apsaugą, pažeidimai), 841, 85, 86, 87, 871, 872, 873, 874, 875 straipsniuose, 876 straipsnio pirmojoje dalyje, 88, 90 straipsniuose numatytų administracinių teisės pažeidimų bylas. 
-
-Aplinkos apsaugos organų vardu nagrinėti administracinių teisės pažeidimų bylas ir skirti nuobaudas turi teisę: 
-
-1) už šio kodekso 423, 51, 511 straipsniuose, 512 straipsnio antrojoje ir trečiojoje dalyse, 513, 514 straipsniuose, 515 straipsnio pirmojoje ir antrojoje dalyse, 516, 517, 5110, 5112, 52, 521, 53, 55 straipsniuose, 56 straipsnio pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje ir šeštojoje dalyse, 57, 58, 60 straipsniuose, 62 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 621 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 622 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 64, 66–70, 72–78 straipsniuose, 79–84 straipsniuose (kai administraciniai teisės pažeidimai nėra higienos norminių aktų, reglamentuojančių atmosferos apsaugą, pažeidimai), 841, 85, 86, 87, 871, 872, 873, 874, 875 straipsniuose, 876 straipsnio pirmojoje dalyje, 88, 90 straipsniuose numatytus administracinius teisės pažeidimus – Lietuvos Respublikos vyriausieji ir vyresnieji valstybiniai aplinkos apsaugos inspektoriai, regionų vyriausieji ir vyresnieji valstybiniai aplinkos apsaugos inspektoriai, miestų, rajonų vyriausieji ir vyresnieji valstybiniai aplinkos apsaugos inspektoriai, atskirų teritorijų ar objektų vyriausieji ir vyresnieji valstybiniai aplinkos apsaugos inspektoriai; 
-
-2) už šio kodekso 51, 511, 513 straipsniuose, 514 straipsnio pirmojoje ir antrojoje dalyse, 516, 517, 5110, 5112, 52, 521, 53, 55, 561–58, 60 straipsniuose, 62 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 621 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 622 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 64, 66–70, 72–78 straipsniuose, 79–84 straipsniuose (kai administraciniai teisės pažeidimai nėra higienos norminių aktų, reglamentuojančių atmosferos apsaugą, pažeidimai), 841, 85, 86 straipsniuose, 87, 871, 872, 873, 874, 875 straipsniuose, 876 straipsnio pirmojoje dalyje, 88–90 straipsniuose numatytus administracinius teisės pažeidimus – Lietuvos Respublikos valstybiniai aplinkos apsaugos inspektoriai, regionų valstybiniai aplinkos apsaugos inspektoriai, miestų, rajonų valstybiniai aplinkos apsaugos inspektoriai, atskirų teritorijų ar objektų valstybiniai aplinkos apsaugos inspektoriai;
-
-3) už šio kodekso 63 ir 71 straipsniuose numatytus administracinius teisės pažeidimus – Aplinkos ministerijos Valstybinės aplinkos apsaugos inspekcijos Miškų kontrolės skyriaus valstybiniai aplinkos apsaugos inspektoriai.“
+2. Neteko galios nuo 2002-12-24
+Straipsnio dalies naikinimas:
+Nr. IX-1234, 2002-12-10, Žin. 2002, Nr. 123-5526 (2002-12-24), i. k. 1021010ISTA0IX-1234
  
 
 42 straipsnis. 2461 straipsnio pakeitimas ir papildymas
@@ -775,13 +775,30 @@ Pakeisti 267 straipsnio 2 dalį ir ją išdėstyti taip:
 
 1. Šio Įstatymo 1 straipsnis įsigalioja nuo 2002 m. rugpjūčio 1 d. 
 
-2. Šio Įstatymo 6, 28 straipsniai ir 41 straipsnio 2 dalis įsigalioja nuo 2003 m. sausio 1 d.
-
-3. Šio Įstatymo 24 straipsnis, 42 straipsnio 2 dalis bei 46 straipsnio nuostatos, kuriomis keičiama Kodekso 2591 straipsnio 1 dalies 1 punkto keturiasdešimt antroji pastraipa, įsigalioja nuo 2003 m. liepos 1 d.
+2. Šio Įstatymo 6 ir 28 straipsniai įsigalioja nuo 2003 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1234, 2002-12-10, Žin., 2002, Nr. 123-5526 (2002-12-24), i. k. 1021010ISTA0IX-1234
  
+
+3. Šio Įstatymo 24 straipsnis, 42 straipsnio 2 dalis bei 46 straipsnio nuostatos, kuriomis keičiama Kodekso 2591 straipsnio 1 dalies 1 punkto keturiasdešimt antroji pastraipa, įsigalioja nuo 2004 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. IX-1234, 2002-12-10, Žin., 2002, Nr. 123-5526 (2002-12-24), i. k. 1021010ISTA0IX-1234
  
 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
+ 
+ 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1234, 2002-12-10, Žin., 2002, Nr. 123-5526 (2002-12-24), i. k. 1021010ISTA0IX-1234
+Lietuvos Respublikos administracinių teisės pažeidimų kodekso pakeitimo ir papildymo įstatymo 41 ir 52 straipsnių pakeitimo įstatymas
 
