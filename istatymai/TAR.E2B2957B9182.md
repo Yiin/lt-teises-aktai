@@ -1284,6 +1284,9 @@ VEIKLOS VALSTYBINIO VALDYMO KITI YPATUMAI
 specialistų profesinės pareigos, teisės ir 
 atsakomybė
 
+ 
+1
+ir 2 dalių redakcija iki 2004 m. gegužės 1 d.:
 1. Pagrindines
 profesines sveikatos priežiūros ir farmacijos specialistų pareigas, teises, jų
 praktikos ribojimo tvarką, atsakomybę už padarytą žalą sveikatai nustato
@@ -1295,9 +1298,30 @@ priežiūros ir farmacijos specialistai gali praktikuoti tik pagal įgytą
 specialybę, o įstatymų nustatytais atvejais - tik gavę licenciją. Specialybėms
 registruoti sudaromas sveikatos priežiūros ir farmacijos specialybių registras,
 kurio tvarkytojas yra Sveikatos apsaugos ministerija.
+1
+ir 2 dalių redakcija nuo 2004 m. gegužės 1 d.:
+1. Pagrindines profesines sveikatos priežiūros ir
+farmacijos specialistų pareigas, teises, jų praktikos ribojimo tvarką,
+atsakomybę už padarytą žalą sveikatai nustato Medicinos praktikos,
+Odontologijos praktikos, Slaugos praktikos, Farmacinės veiklos, Žmonių
+užkrečiamųjų ligų profilaktikos ir kontrolės, Pacientų teisių ir žalos
+sveikatai atlyginimo įstatymai, kiti įstatymai ir teisės aktai.
+2. Sveikatos
+priežiūros ir farmacijos specialistai gali praktikuoti tik pagal įgytą
+specialybę. Įstatymų nustatytais atvejais arba kai asmens sveikatos priežiūros
+specialybė įtraukta į Lietuvos Respublikos Vyriausybės reglamentuojamų
+profesijų sąrašą, specialistai gali praktikuoti tik gavę licenciją.
+Specialybėms registruoti sudaromas sveikatos priežiūros ir farmacijos
+specialybių registras, kurio tvarkytojas yra Sveikatos apsaugos ministerija.
+ 
 3. Sveikatos
 priežiūros įstaigų specialistai, dirbantys valstybės ar savivaldybių sveikatos
 priežiūros įstaigose, turi teisę privačiai praktikuoti tik už šių įstaigų ribų.
+Straipsnio
+pakeitimai:
+Nr.
+IX-2150,
+2004-04-20, Žin., 2004, Nr. 68-2367 (2004-04-29)
  
 51 straipsnis. Sveikatos priežiūros ir farmacijos
 specialistų profesinis tobulinimasis 
@@ -1310,9 +1334,9 @@ sveikatos priežiūros ir farmacinės veiklos specialistų organizacijos. Šių
 specialistų rengimo ir profesinio tobulinimosi užsakovai yra Sveikatos apsaugos
 ministerija ir Švietimo ir mokslo ministerija.
 2. Sveikatos
-priežiūros bei farmacijos specialistų kvalifikacijos kėlimo tvarką nustato Sveikatos
-apsaugos ministerija, derindama su profesinėmis sveikatos priežiūros ir
-farmacinės veiklos specialistų organizacijomis.
+priežiūros bei farmacijos specialistų kvalifikacijos kėlimo tvarką nustato
+Sveikatos apsaugos ministerija, derindama su profesinėmis sveikatos priežiūros
+ir farmacinės veiklos specialistų organizacijomis.
 3. Valstybės ir
 savivaldybių sveikatos priežiūros įstaigų specialistų kvalifikacijos kėlimo ir
 persikvalifikavimo išlaidos Sveikatos apsaugos ministerijos nustatyta tvarka ir
@@ -1350,8 +1374,8 @@ Sveikatos apsaugos ministerijos nustatyta tvarka.
 2. Asmens ir
 visuomenės sveikatos priežiūros įstaigų ir įmonių, kurios verčiasi asmens ar
 visuomenės sveikatos priežiūros veikla, valstybinį medicininį ar visuomenės
-sveikatos priežiūros auditą pagal kompetenciją atlieka Sveikatos apsaugos ministerijos
-įgaliota institucija.
+sveikatos priežiūros auditą pagal kompetenciją atlieka Sveikatos apsaugos
+ministerijos įgaliota institucija.
  
 54
 straipsnis. Asmens ir visuomenės sveikatos priežiūros technologijų įvertinimas
@@ -1424,9 +1448,9 @@ sveikatinimo paslaugų rūšių, jų nomenklatūros, teikimo masto ir terminų;
 apmokėti reikalingų išlaidų padengimo;
 3) sveikatinimo
 veiklos sutarties pakeitimo, papildymo ir nutraukimo tvarkos;
-4) paslaugų
-tinkamumo ir organizacinio bei teritorinio prieinamumo reikalavimų, jeigu
-teisės aktuose šie reikalavimai nėra nustatyti; 
+4) paslaugų tinkamumo
+ir organizacinio bei teritorinio prieinamumo reikalavimų, jeigu teisės aktuose
+šie reikalavimai nėra nustatyti; 
 5) netesybų dėl
 sutarties įsipareigojimų netinkamo vykdymo, nevykdymo ar jos vienašalio
 nutraukimo, įskaitant netesybas už nustatytų sveikatos priežiūros būtinųjų
@@ -1447,9 +1471,9 @@ veiklos normatyvinių dokumentų reikalavimus.
 dokumentai, reglamentuojantys visuomenės sveikatos saugos, užkrečiamųjų ligų
 profilaktikos ir kontrolės bei farmacinės veiklos reikalavimus, tampa privalomi
 įmonėms, įstaigoms ir fiziniams asmenims, patvirtinus juos Sveikatos apsaugos
-ministerijos teisės aktais, ir įsigalioja kitą dieną po jų paskelbimo “Valstybės
-žiniose”, jeigu pačiuose teisės aktuose nenustatoma vėlesnė jų įsigaliojimo
-data.
+ministerijos teisės aktais, ir įsigalioja kitą dieną po jų paskelbimo
+“Valstybės žiniose”, jeigu pačiuose teisės aktuose nenustatoma vėlesnė jų
+įsigaliojimo data.
  
 IV DALIS
 SVEIKATINIMO
@@ -1472,9 +1496,8 @@ ministerijų, Vyriausybės įstaigų ar kitų valstybės institucijų kompetenci
 sveikatinimo veiklos klausimais;
 3) užtikrina
 tarpžinybinės sveikatinimo veiklos koordinavimą valstybiniu lygiu;
-4) rengia ir
-teikia Seimui svarstyti sveikatinimo veiklos įstatymų ir kitų teisės aktų
-projektus;
+4) rengia ir teikia
+Seimui svarstyti sveikatinimo veiklos įstatymų ir kitų teisės aktų projektus;
 5) pagal
 kompetenciją rengia ir priima teisės aktus kitais sveikatinimo veiklos
 reguliavimo klausimais;
@@ -1559,10 +1582,9 @@ veiklą, kad būtų pašalintos visuomenės sveikatai ypatingos situacijos pasek
 12) plėtoja ir
 optimizuoja valstybinių sveikatos priežiūros įstaigų, tarnybų bei valstybinių
 farmacijos įmonių tinklą;
-13)
-kontroliuoja, kaip juridiniai ir fiziniai asmenys laikosi Sveikatos priežiūros
-įstatymų, vykdo sveikatos priežiūros standartizacijos norminių dokumentų
-reikalavimus;
+13) kontroliuoja,
+kaip juridiniai ir fiziniai asmenys laikosi Sveikatos priežiūros įstatymų,
+vykdo sveikatos priežiūros standartizacijos norminių dokumentų reikalavimus;
 14) teikia
 pasiūlymus Vyriausybei, kaip įstatymais nustatyti fizinių ir juridinių asmenų
 atsakomybę už sveikatinimo veiklos teisės aktų pažeidimus, už padarytą žalą
@@ -1646,9 +1668,9 @@ visuomenės sveikatos priežiūros auditą;
 pacientų teisių įgyvendinimo priežiūrą pirminio lygio asmens sveikatos
 priežiūros įstaigose;
 9) įstatymų
-numatytais pagrindais neleidžia įmonėms verstis ūkine komercine veikla,
-nustatyta tvarka atšaukia juridiniams ir fiziniams asmenims išduotas šios
-veiklos licencijas;
+numatytais pagrindais neleidžia įmonėms verstis ūkine komercine veikla, nustatyta
+tvarka atšaukia juridiniams ir fiziniams asmenims išduotas šios veiklos
+licencijas;
 10) organizuoja
 alkoholio ir tabako reklamos išorinėse reklamos priemonėse ribojimo ir draudimų
 laikymosi kontrolę;
@@ -1686,9 +1708,8 @@ sveikatos santykių valstybinio reguliavimo priemonių taikymo praktiką
 apskrityje ir rengia pasiūlymus Valstybinei sveikatos reikalų komisijai dėl šių
 priemonių rengimo bei tobulinimo;
 3) derina su
-apskrities administracija ir Sveikatos apsaugos ministerija antrinio lygio
-asmens sveikatos priežiūros įstaigų steigimo, reorganizavimo ar likvidavimo
-klausimus;
+apskrities administracija ir Sveikatos apsaugos ministerija antrinio lygio asmens
+sveikatos priežiūros įstaigų steigimo, reorganizavimo ar likvidavimo klausimus;
 4) prižiūri,
 kaip apskrities administracija atlieka antrinio lygio sveikatos priežiūros
 statybos, kapitalinio remonto ir užsakovo funkcijas;
@@ -1754,9 +1775,9 @@ funkcijoms vykdyti;
 kompetenciją atlikti įstatymų, kitų teisės aktų, socialinio ir ekonominio
 plėtojimo programų projektų ekspertizę ir teikti šių programų rengėjams savo
 išvadas;
-3) pagal
-kompetenciją teikti konsultacijas Seimui, Vyriausybei, ministerijoms, kitoms
-Vyriausybės įstaigoms;
+3) pagal kompetenciją
+teikti konsultacijas Seimui, Vyriausybei, ministerijoms, kitoms Vyriausybės
+įstaigoms;
 4) sudaryti
 ekspertų komisijas Tarybos funkcijoms įgyvendinti.
  
@@ -1844,17 +1865,17 @@ bendruomenės sveikatos taryba - tai savarankiška sveikatinimo veiklos
 koordinavimo institucija prie savivaldybės tarybos. Savivaldybės bendruomenės
 sveikatos tarybą sudaro ir jos nuostatus tvirtina savivaldybės taryba.
 Savivaldybės bendruomenės sveikatos tarybą sudaro: 1/3 savivaldybės paskirtų
-asmenų, 1/3 savivaldybės įmonių, įstaigų, organizacijų atstovų, 1/3
-visuomeninių organizacijų, ginančių visuomenės sveikatos interesus, atstovų.
-Savivaldybės bendruomenės sveikatos tarybos veiklos programa yra finansuojama
-iš savivaldybės biudžeto.
+asmenų, 1/3 savivaldybės įmonių, įstaigų, organizacijų atstovų, 1/3 visuomeninių
+organizacijų, ginančių visuomenės sveikatos interesus, atstovų. Savivaldybės
+bendruomenės sveikatos tarybos veiklos programa yra finansuojama iš
+savivaldybės biudžeto.
 2. Savivaldybės
 bendruomenės sveikatos taryba koordinuoja savivaldybės teritorijoje sveikatos
 ugdymo, alkoholio, tabako ir narkotikų kontrolės, visuomenės sveikatos saugos
 ir sveikatos stiprinimo, ligų profilaktikos priemonių rengimą ir įgyvendinimą,
 nustato savivaldybės sveikatos fondo lėšų naudojimo prioritetus, teikia
-savivaldybės tarybai tvirtinti šio fondo sąmatos projektą bei vykdo kitas funkcijas,
-priskirtas pagal šį ir kitus įstatymus bei jos nuostatus.
+savivaldybės tarybai tvirtinti šio fondo sąmatos projektą bei vykdo kitas
+funkcijas, priskirtas pagal šį ir kitus įstatymus bei jos nuostatus.
 3. Savivaldybės
 bendruomenės sveikatos taryba turi teisę:
 1) gauti iš
@@ -1924,8 +1945,8 @@ Nr.61-1810 (00.07.26)
 prie Sveikatos apsaugos ministerijos
 1. Valstybinę
 vaistų kontrolės tarnybą prie Sveikatos apsaugos ministerijos steigia ir jos
-nuostatus tvirtina Sveikatos apsaugos ministerija. Ši tarnyba yra juridinis asmuo.
-Jos veikla finansuojama iš valstybės biudžeto.
+nuostatus tvirtina Sveikatos apsaugos ministerija. Ši tarnyba yra juridinis
+asmuo. Jos veikla finansuojama iš valstybės biudžeto.
 2. Valstybinė
 vaistų kontrolės tarnyba prie Sveikatos apsaugos ministerijos:
 1) registruoja
@@ -1934,9 +1955,9 @@ vaistus;
 vaistų ir vaistinių medžiagų kokybę;
 3) kontroliuoja
 farmacinę veiklą;
-4) vykdo farmacinės
-veiklos monitoringą (informacijos apie vaistus, jų gamybą, importą, prekybą,
-eksportą rinkimas, kaupimas, apdorojimas ir platinimas);
+4) vykdo
+farmacinės veiklos monitoringą (informacijos apie vaistus, jų gamybą, importą,
+prekybą, eksportą rinkimas, kaupimas, apdorojimas ir platinimas);
 5) vykdo
 įstatymų, tarnybos nuostatų nustatytas kitas funkcijas. 
  
@@ -1947,8 +1968,8 @@ medicinos institutas yra valstybės mokslo įstaiga. Jo veikla finansuojama iš
 valstybės biudžeto. Instituto nuostatus tvirtina Vyriausybė.
 2. Teismo
 medicinos institutas : 
-1) atlieka
-teismo medicinos ekspertizes teismams;
+1) atlieka teismo
+medicinos ekspertizes teismams;
 2) diegia naujas
 teismo medicinos ekspertizės rūšis ir metodikas, plėtoja teismo medicinos
 mokslą;
@@ -2053,15 +2074,15 @@ Nr.61-1810 (00.07.26)
 79 straipsnis. Valstybinė medicininio audito
 inspekcija prie Sveikatos apsaugos 
 ministerijos
-1. Valstybinę
-medicininio audito inspekciją prie Sveikatos apsaugos ministerijos steigia ir
-jos veiklos nuostatus tvirtina Sveikatos apsaugos ministerija. Ši inspekcija
-yra juridinis asmuo. Jos veikla yra finansuojama iš valstybės biudžeto.
+1. Valstybinę medicininio
+audito inspekciją prie Sveikatos apsaugos ministerijos steigia ir jos veiklos
+nuostatus tvirtina Sveikatos apsaugos ministerija. Ši inspekcija yra juridinis
+asmuo. Jos veikla yra finansuojama iš valstybės biudžeto.
 2. Valstybinė
 medicininio audito inspekcija prie Sveikatos apsaugos ministerijos:
-1) atlieka asmens
-sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir ekonominio
-efektyvumo kontrolę;
+1) atlieka
+asmens sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir
+ekonominio efektyvumo kontrolę;
 2) kontroliuoja,
 kaip fiziniai ir juridiniai asmenys laikosi standartizacijos norminių dokumentų
 reikalavimų sveikatos priežiūros kokybės klausimais;
@@ -2077,10 +2098,9 @@ veikla finansuojama iš valstybės biudžeto.
 2. Lietuvos
 bioetikos komitetas : 
 1) analizuoja
-bioetikos problemas ir konsultuoja valstybės bei vietos savivaldos
-institucijas, įstaigas, organizacijas šiais klausimais, teikia išvadas bei
-pasiūlymus dėl bioetikos klausimus reglamentuojančių įstatymų ir kitų teisės
-aktų projektų; 
+bioetikos problemas ir konsultuoja valstybės bei vietos savivaldos institucijas,
+įstaigas, organizacijas šiais klausimais, teikia išvadas bei pasiūlymus dėl
+bioetikos klausimus reglamentuojančių įstatymų ir kitų teisės aktų projektų; 
 2) išduoda
 leidimus biomedicininiams tyrimams ir atlieka etinę šių tyrimų priežiūrą;
 3) kasmet
@@ -2114,8 +2134,8 @@ pagal Sveikatos apsaugos ministerijos patvirtintus pavyzdinius nuostatus.
 straipsnis. Savivaldybių sanitarijos inspekcija
 1. Savivaldybių
 sanitarijos inspekcija yra specializuotas savivaldybės administracijos
-padalinys, kontroliuojantis, kaip laikomasi sanitarijos reikalavimų savivaldybės
-teritorijoje.
+padalinys, kontroliuojantis, kaip laikomasi sanitarijos reikalavimų
+savivaldybės teritorijoje.
 2. Savivaldybių
 sanitarijos inspekcijos uždavinius, kompetenciją, struktūrą, jos pareigūnų
 teises ir pareigas, sanitarinės kontrolės turinį ir tvarką reglamentuoja
@@ -2156,9 +2176,9 @@ informaciją apie savo sveikatą bei teisę į šios informacijos konfidencialum
 tvarka pasirinkti sveikatos priežiūros specialistą, sveikatos priežiūros
 įstaigą, sveikatos priežiūros rūšį arba jų atsisakyti, išskyrus įstatymuose
 numatytus atvejus;
-7) gauti
-valstybės laiduojamą (nemokamą) ir savivaldybių remiamą sveikatos priežiūrą šio
-ir kitų įstatymų nustatyta tvarka.
+7) gauti valstybės
+laiduojamą (nemokamą) ir savivaldybių remiamą sveikatos priežiūrą šio ir kitų
+įstatymų nustatyta tvarka.
  
 85
 straipsnis. Lietuvos Respublikos gyventojų pareigos sveikatinimo veikloje
@@ -2175,8 +2195,8 @@ kitų asmenų sveikatos teisių;
 5) nekenkti
 aplinkai;
 6) mokėti
-privalomojo sveikatos draudimo įmokas, kurias nustato Sveikatos draudimo
-įstatymas. 
+privalomojo sveikatos draudimo įmokas, kurias nustato Sveikatos draudimo įstatymas.
+
  
 86 straipsnis. Lietuvos Respublikoje veikiančių
 įmonių ir įstaigų teisės sveikatinimo 
@@ -2250,10 +2270,10 @@ draudimas
 sveikatos priežiūros įmonės ir įstaigos privalo drausti savo civilinę
 atsakomybę dėl žalos, padarytos pacientų sveikatai vykdant asmens sveikatos
 priežiūrą.
-2. Asmens
-sveikatos priežiūros įmonių ir įstaigų civilinės atsakomybės dėl žalos,
-padarytos pacientų sveikatai, vykdant asmens sveikatos priežiūrą, draudimo
-tvarką reglamentuoja Pacientų teisių ir žalos sveikatai atlyginimo, Draudimo
+2. Asmens sveikatos
+priežiūros įmonių ir įstaigų civilinės atsakomybės dėl žalos, padarytos
+pacientų sveikatai, vykdant asmens sveikatos priežiūrą, draudimo tvarką
+reglamentuoja Pacientų teisių ir žalos sveikatai atlyginimo, Draudimo
 įstatymas, kiti įstatymai bei teisės aktai.
  
 90 straipsnis. Prievolė atlyginti valstybinių
@@ -2318,9 +2338,9 @@ nelaimių neigiamas pasekmes visuomenės sveikatai.
  
 95
 straipsnis. Sveikatos sistemos įstatymas ir tarptautinės sutartys
-Jeigu Lietuvos
-Respublikos tarptautinėje sutartyje nustatyti kitokie reikalavimai nei nustato
-šis įstatymas, taikomos tarptautinės sutarties nuostatos.”
+Jeigu Lietuvos Respublikos
+tarptautinėje sutartyje nustatyti kitokie reikalavimai nei nustato šis
+įstatymas, taikomos tarptautinės sutarties nuostatos.
  
  
 Skelbiu šį
@@ -2373,8 +2393,8 @@ Nauja
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1462, 99.12.02, Žin., 1999,
-Nr.108-3128 (99.12.22)
+Nr. VIII-1462, 99.12.02, Žin., 1999, Nr.108-3128
+(99.12.22)
 SVEIKATOS SISTEMOS ĮSTATYMO PAPILDYMO 67(1) STRAIPSNIU
 ĮSTATYMAS
  
@@ -2382,8 +2402,8 @@ SVEIKATOS SISTEMOS ĮSTATYMO PAPILDYMO 67(1) STRAIPSNIU
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1672, 00.05.11, Žin., 2000,
 Nr.44-1245 (00.05.31)
-SVEIKATOS SISTEMOS ĮSTATYMO 55 IR 80 STRAIPSNIŲ PAKEITIMO
-ĮSTATYMAS
+SVEIKATOS SISTEMOS ĮSTATYMO 55 IR 80 STRAIPSNIŲ
+PAKEITIMO ĮSTATYMAS
  
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2463,6 +2483,16 @@ SISTEMOS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
  
+17.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-2150,
+2004-04-20, Žin., 2004, Nr. 68-2367 (2004-04-29)
+SVEIKATOS
+SISTEMOS ĮSTATYMO 50 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
@@ -2486,6 +2516,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2004-01-08)
+Aušrinė Trapinskienė (2004-05-05)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
