@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8"
 
 # Dėl Lietuvos Respublikos tarptautinių sutarčių
 
+Suvestinė redakcija nuo 1992-10-11 iki 1995-10-19
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 106-0; Žin. 1991, Nr.16-415, i. k. 0911010ISTA00I-1344
+ 
 LIETUVOS RESPUBLIKOS
 DĖL LIETUVOS RESPUBLIKOS TARPTAUTINIŲ SUTARČIŲ
 ĮSTATYMAS
@@ -47,25 +51,32 @@ Pasiūlymus dėl Lietuvos Respublikos tarptautinių sutarčių sudarymo Lietuvos
 Jeigu siūlomos Lietuvos Respublikos tarptautinės sutartys nustato kitokias normas negu galiojantys Lietuvos Respublikos įstatymai, pasiūlymai dėl tokių tarptautinių sutarčių derinami su Lietuvos Respublikos teisingumo ministerija ir pateikiami kartu su ekspertų atliktu skirtumų įvertinimu.
  
 
-4 straipsnis
+4 straipsnis. 
 
-Sprendimus dėl Lietuvos Respublikos tarptautinių sutarčių parengimo ir derybų priima Lietuvos Respublikos Vyriausybė arba jos pavedimu – Užsienio reikalų ministerija, išskyrus sprendimus dėl šio įstatymo 7 straipsnio antrojoje dalyje nurodytų Lietuvos Respublikos tarptautinių sutarčių.
+Sprendimus dėl Lietuvos Respublikos tarptautinių sutarčių parengimo ir derybų priima Lietuvos Respublikos Vyriausybė arba jos pavedimu – Užsienio reikalų ministerija. 
 
-Dėl jų sprendimus priima Lietuvos Respublikos Aukščiausioji Taryba.
+Straipsnio pakeitimai:
+Nr. I-2929, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-915 (1992-10-31), i. k. 0921010ISTA00I-2929
  
 
 5 straipsnis
 
-Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas, Lietuvos Respublikos Ministras Pirmininkas ir Lietuvos Respublikos užsienio reikalų ministras turi teisę derėtis dėl Lietuvos Respublikos tarptautinių sutarčių sudarymo, priimti jų tekstus ar jas pasirašyti be specialių įgaliojimų, remdamiesi 4 straipsnio nuostatomis.
+Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas, Lietuvos Respublikos Ministras Pirmininkas ir Lietuvos Respublikos užsienio reikalų ministras turi teisę derėtis dėl Lietuvos Respublikos tarptautinių sutarčių sudarymo, priimti jų tekstus ar jas pasirašyti be specialių įgaliojimų.
 
-Lietuvos Respublikos diplomatinės atstovybės vadovas arba Lietuvos Respublikos atstovas tarptautinėje konferencijoje, tarptautinėje organizacijoje ar viename iš jos organų turi teisę derėtis dėl Lietuvos Respublikos tarptautinės sutarties sudarymo ar priimti jos tekstą atitinkamai – su valstybe, kurioje yra ta Lietuvos Respublikos diplomatinė atstovybė, arba tarptautinėje konferencijoje, tarptautinėje organizacijoje ar viename iš jos organų.
+Lietuvos Respublikos diplomatinės atstovybės vadovas arba Lietuvos Respublikos įgaliotasis atstovas tarptautinėje konferencijoje, tarptautinėje organizacijoje ar viename iš jos organų turi teisę derėtis dėl Lietuvos Respublikos tarptautinės sutarties sudarymo ar priimti jos tekstą atitinkamai – su valstybe, kurioje yra ta Lietuvos Respublikos diplomatinė atstovybė, arba tarptautinėje konferencijoje, tarptautinėje organizacijoje ar viename iš jos organų.
 
 Kiti asmenys gali derėtis dėl Lietuvos Respublikos tarptautinės sutarties sudarymo, priimti jos tekstą arba ją pasirašyti, tik turėdami šio įstatymo 6 straipsnyje nurodytus įgaliojimus.
+
+Straipsnio pakeitimai:
+Nr. I-2929, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-915 (1992-10-31), i. k. 0921010ISTA00I-2929
  
 
-6 straipsnis
+6 straipsnis. 
 
-Įgaliojimus derėtis ir pasirašyti Lietuvos Respublikos tarptautines sutartis suteikia Lietuvos Respublikos Vyriausybė, o pasirašo Lietuvos Respublikos Ministras Pirmininkas ir kontrasignuoja Lietuvos Respublikos užsienio reikalų ministras, išskyrus įgaliojimus Lietuvos Respublikos vardu derėtis ir pasirašyti šio įstatymo 7 straipsnio antrojoje dalyje nurodytas Lietuvos Respublikos tarptautines sutartis. Įgaliojimus derėtis ir pasirašyti šio įstatymo 7 straipsnio antrojoje dalyje nurodytas Lietuvos Respublikos tarptautines sutartis suteikia Lietuvos Respublikos Aukščiausioji Taryba, o pasirašo Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas ir Lietuvos Respublikos užsienio reikalų ministras. Įgaliojimuose turi būti apibrėžtas derybų objektas ir sukonkretinti kiti veiksmai, kuriuos įgaliojama atlikti.
+Įgaliojimus derėtis ir pasirašyti Lietuvos Respublikos tarptautines sutartis suteikia Lietuvos Respublikos Vyriausybė, o pasirašo Lietuvos Respublikos Ministras Pirmininkas ir kontrasignuoja Lietuvos Respublikos užsienio reikalų ministras, išskyrus įgaliojimus Lietuvos Respublikos vardu pasirašyti šio įstatymo 7 straipsnio antrojoje dalyje nurodytas Lietuvos Respublikos tarptautines sutartis. Įgaliojimus pasirašyti šio įstatymo 7 straipsnio antrojoje dalyje nurodytas Lietuvos Respublikos tarptautines sutartis suteikia Lietuvos Respublikos Aukščiausioji Taryba, o pasirašo Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas ir Lietuvos Respublikos užsienio reikalų ministras, jeigu Lietuvos Respublikos Aukščiausioji Taryba nenusprendžia kitaip. 
+
+Straipsnio pakeitimai:
+Nr. I-2929, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-915 (1992-10-31), i. k. 0921010ISTA00I-2929
  
 
 7 straipsnis
@@ -86,15 +97,32 @@ Turi būti ratifikuojamos šios Lietuvos Respublikos tarptautinės sutartys:
 
 6) dėl užsienio valstybių ginkluotųjų pajėgų buvimo ir jų statuso Lietuvos Respublikos teritorijoje;
 
-7) dėl Lietuvos Respublikos sienų;
+7) dėl Lietuvos Respublikos valstybės sienų;
+Straipsnio punkto pakeitimai:
+Nr. I-2929, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-915 (1992-10-31), i. k. 0921010ISTA00I-2929
+ 
 
-8) dėl Lietuvos Respublikos dalyvavimo universaliosiose tarptautinėse organizacijose bei regioninėse tarptautinėse organizacijose;
+8) dėl Lietuvos Respublikos dalyvavimo tarptautinėse universaliosiose, regioninėse ir tarpvalstybinėse ekonominėse organizacijose
+Straipsnio punkto pakeitimai:
+Nr. I-2929, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-915 (1992-10-31), i. k. 0921010ISTA00I-2929
+ 
 
-9) daugiašalės arba ilgalaikės ekonominės sutartys;
+9) daugiašalės ekonominės sutartys; 
+Straipsnio punkto pakeitimai:
+Nr. I-2929, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-915 (1992-10-31), i. k. 0921010ISTA00I-2929
+ 
 
 10) sutartys, nustatančios kitokias normas negu galiojantys Lietuvos Respublikos įstatymai;
 
-11) gynybinio pobūdžio sutartys.
+11) gynybinio pobūdžio ir karinio bendradarbiavimo sutartys;
+Straipsnio punkto pakeitimai:
+Nr. I-2929, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-915 (1992-10-31), i. k. 0921010ISTA00I-2929
+ 
+
+12) dvišalės ekonominės sutartys, sudaromos ilgesniam nei 5 metų laikotarpiui, turinčios ypač svarbios reikšmės ir kurias ratifikuoti laiko būtina Lietuvos Respublikos Vyriausybė. 
+Papildyta straipsnio punktu:
+Nr. I-2929, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-915 (1992-10-31), i. k. 0921010ISTA00I-2929
+ 
 
 Taip pat ratifikuojamos tos Lietuvos Respublikos tarptautinės sutartys, kuriose numatytas jų ratifikavimas.
 
@@ -166,4 +194,15 @@ Ratifikuotos ir patvirtintos Lietuvos Respublikos sutartys, taip pat sutartys, p
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
 PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2929, 1992-10-06, Lietuvos aidas, 1992, Nr. 199-0 (1992-10-10); Žin., 1992, Nr. 30-915 (1992-10-31), i. k. 0921010ISTA00I-2929
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos tarptautinių sutarčių" pakeitimo ir papildymo
 
