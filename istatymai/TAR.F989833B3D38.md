@@ -16,10 +16,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F989833B3D38"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo: Ramunė
-Lūžaitė (1997.04.16)
+Lūžaitė (1997.06.30)
  
- Neoficialus
-įstatymo tekstas
+Įstatymas
+paskelbtas: Žin., 1994, Nr.102-2051
+ 
+Neoficialus įstatymo
+tekstas
  
 Pakeitimai:
  
@@ -50,31 +53,30 @@ LIETUVOS RESPUBLIKOS
 ĮSTATYMO “DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI
 AKCIONUOTI, NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
  
+4.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-259,
+97.06.12, Žin., 1997, Nr.60-1402 (97.06.27)
+LIETUVOS RESPUBLIKOS
+ĮSTATYMO “DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ NENUMATOMA NEI
+AKCIONUOTI, NEI PRIVATIZUOTI” PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
-                     
 LIETUVOS RESPUBLIKOS
-                           
 ĮSTATYMAS
  
-                
 1994 m. gruodžio 28 d. Nr.I-744
-                            
 Vilnius
  
-         DĖL
-VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ METŲ
-          
+DĖL VALSTYBINIŲ ĮMONIŲ, KURIŲ IKI 2000-ŲJŲ
+METŲ
 NENUMATOMA NEI AKCIONUOTI, NEI PRIVATIZUOTI
-                    
-
-                      
-(Žin., 1994,
-Nr.102-2051)
+                     
  
-     Patvirtinti
-valstybinių  įmonių,  kurių  iki  2000-ųjų  metų
-nenumatoma nei
+    
+Patvirtinti valstybinių  įmonių,  kurių  iki  2000-ųjų  metų nenumatoma nei
 akcionuoti, nei privatizuoti, sąrašą (priedėlis).
  
      Skelbiu šį
@@ -82,9 +84,8 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
- 
 RESPUBLIKOS
-PREZIDENTAS                 ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                                ALGIRDAS BRAZAUSKAS
  
  
  
@@ -143,7 +144,7 @@ Statybos ir urbanistikos ministerija
 Respublikinis valstybinis inventorizavimo,
          
 projektavimo ir paslaugų biuras
-2008215   Valstybinė
+2008215   Valstybinė
 projektų ekspertizės valdyba
 2135144  
 Valstybinis distancinių tyrimų ir geoinformatikos
@@ -154,8 +155,6 @@ Valstybinis distancinių tyrimų ir geoinformatikos
 ministerija
 8453346   Valstybinė
 specifinė firma "Dzūkija"
-1005145   Valstybinė
-gamybinė eksperimentinė įmonė "Vytis"
 2225111   Valstybinė
 įmonė "Energetikos agentūra"
 5545008   Ignalinos
@@ -199,7 +198,7 @@ siuvimo įmonė "Apdaras"
  
                  
 Sveikatos apsaugos ministerija
-2013426   Vilniaus
+2013426   Vilniaus
 valstybinė Gedimino vaistinė
 2013464   Vilniaus
 valstybinė Lazdynų vaistinė
@@ -232,14 +231,13 @@ kelių įmonė "Problematika"
 valstybinė jūrų uosto direkcija
 3209092   Lietuvos
 valstybinė vandens kelių valdyba
-2086335   Valstybinis
-geležinkelio projektavimo institutas
+2086335  
+Valstybinis geležinkelio projektavimo institutas
 1006046   Lietuvos
 Respublikos civilinės aviacijos direkcija
 3218218   Valstybinė
 įmonė "Transporto kelių tyrimo
-         
-institutas"
+          institutas"
 2086407   Valstybinė
 įmonė "Vilniaus aerouostas"
 3302149   Valstybinė
@@ -254,8 +252,8 @@ valstybinė žuvivaisos įmonė
 7068525   Šilavoto
 valstybinė žuvų selekcinės veislininkystės
           įmonė
-2123254   Valstybinis
-gyvulių veislininkystės informacijos
+2123254  
+Valstybinis gyvulių veislininkystės informacijos
           centras
 3381629   Valstybinė
 eksperimentinė pieno kokybės tyrimo
@@ -265,8 +263,8 @@ laboratorija
 Valstybinis žemėtvarkos institutas
 2123235   Valstybinė
 žemės kadastro įmonė
-5881943   Kaišiadorių
-valstybinė utilizacijos įmonė
+5881943  
+Kaišiadorių valstybinė utilizacijos įmonė
 6970416   Rietavo
 valstybinė utilizacijos įmonė
 5953517   Kauno
@@ -297,8 +295,8 @@ valstybinis metrologijos centras
 valstybinis metrologijos centras
 4021649   Klaipėdos
 valstybinis metrologijos centras
-4413211   Šiaulių valstybinis
-metrologijos centras
+4413211   Šiaulių
+valstybinis metrologijos centras
 4714667   Panevėžio
 valstybinis metrologijos centras
 2082689   Valstybinė
@@ -322,8 +320,8 @@ Lietuvos bankas
 1005293   Lietuvos
 monetų kalykla 
  
-             
-Alytaus apskrities valdytojo administracija
+              Alytaus
+apskrities valdytojo administracija
 8453729  
 Valstybinė  gyvulių  sėklinimo  įmonė  (Varėnos rajonas)
      
@@ -331,8 +329,8 @@ Valstybinė  gyvulių  sėklinimo  įmonė  (Varėnos rajonas)
 apskrities valdytojo administracija
 5657226  
 Valstybinė   veislininkystės   įmonė   (Jonavos rajonas)
-6113181  
-Valstybinė  įmonė  “Pagirių  sodai”   (Kėdainių rajonas)
+6113181   Valstybinė 
+įmonė  “Pagirių  sodai”   (Kėdainių rajonas)
      
             
 Panevėžio apskrities valdytojo administracija
@@ -355,8 +353,8 @@ Valstybinė  gyvulių  sėklinimo  įmonė  (Plungės rajonas)
      
               Utenos
 apskrities valdytojo administracija
-8365663   Valstybinė 
-gyvulių  sėklinimo  įmonė   (Utenos rajonas)
+8365663  
+Valstybinė  gyvulių  sėklinimo  įmonė   (Utenos rajonas)
      
             Vilniaus
 apskrities valdytojo administracija
@@ -445,4 +443,6 @@ Nr. I-1279,
 96.04.04, Žin., 1996, Nr.35-875 (96.04.19)
 Nr. VIII-175,
 97.04.03, Žin., 1997, Nr.32-785 (97.04.16)
+Nr. VIII-259,
+97.06.12, Žin., 1997, Nr.60-1402 (97.06.27)
 
