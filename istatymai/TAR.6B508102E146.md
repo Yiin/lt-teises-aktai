@@ -235,11 +235,11 @@ veterinarinių vaistų gamybos įmonėms - veterinarinių vaistų gamybai ir
 veterinarijos tiekimo įmonėms - veterinarijos reikmėms.
 3. Kiekvienos Lietuvoje alų gaminančios įmonės 100
 tūkst. dekalitrų per metus pagaminto ir realizuoto alaus taikomas 50 procentų
-mažesnis, negu šio įstatymo 5(1) straipsnyje nustatytas akcizo alui
+mažesnis negu šio įstatymo 5(1 )straipsnyje nustatytas akcizo alui
 tarifas. Ši lengvata taikoma, iki Lietuva įstos į Pasaulinę prekybos
-organizaciją. Įstojus į šią organizaciją, Lietuvoje alų gaminančios įmonės savo
-pagamintam ir realizuojamam alui taikys šio įstatymo 5 (1 )straipsnyje
-nustatytą akcizo alui tarifą.
+organizaciją, bet ne vėliau kaip iki 1999 m. gruodžio 31 d. Nuo šios datos
+Lietuvoje alų gaminančios įmonės savo pagamintam ir realizuotam alui taikys šio
+įstatymo 5(1 )straipsnyje nustatytą akcizo alui tarifą.
 4. Degtinei, kurios alkoholio koncentracija didesnė
 kaip 30 procentų tūrio, bet ne didesnė kaip 37 procentai tūrio, ir kuri
 atitinka Vyriausybės nustatytus technologinius bei kokybės reikalavimus,
@@ -252,6 +252,8 @@ Nr. VIII-626, 98.02.17, Žin., 1998,
 Nr.25-629 (98.03.13), įsigalioja nuo 1998.07.01
 Nr. VIII-982, 98.12.21, Žin., 1998,
 Nr.114-3194 (98.12.30), įsigalioja nuo 1999.01.01
+Nr. VIII-1321, 99.07.08, Žin., 1999,
+Nr.66-2132 (99.07.30)
  
  
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
@@ -283,8 +285,7 @@ pateikti akcizų apyskaitą.
 į biudžetą iki kito mėnesio 30 dienos.
 2. Mokėtojai, kurių praėjusio pusmečio vidutinė
 mėnesinė akcizų suma buvo didesnė kaip 50 tūkst. litų, akcizus moka:
-1) iki mėnesio 30 dienos - už mėnesio pirmąjį
-dešimtadienį;
+1) iki mėnesio 30 dienos - už mėnesio pirmąjį dešimtadienį;
 2) iki kito mėnesio 10 dienos - už mėnesio antrąjį
 dešimtadienį;
 3) iki kito mėnesio 20 dienos - už likusią mėnesio
@@ -421,8 +422,8 @@ Nauja įstatymo redakcija nuo
 9.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. VIII-626, 98.02.17, Žin., 1998,
-Nr.25-629 (98.03.13)
+Nr. VIII-626, 98.02.17, Žin., 1998, Nr.25-629
+(98.03.13)
 AKCIZŲ ĮSTATYMO 6
 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 1998 m. liepos 1 d.
@@ -441,6 +442,12 @@ AKCIZŲ ĮSTATYMO 3, 6, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 5(1)
 STRAIPSNIU ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 1999 m. sausio 1 d.
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1321, 99.07.08, Žin., 1999,
+Nr.66-2132 (99.07.30)
+AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 *** Pabaiga ***
  
