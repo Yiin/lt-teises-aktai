@@ -6788,10 +6788,6 @@ Draudžiama teisės aktuose diskriminacijos tikslais nustatyti skirtingas teises
 
 2.77 straipsnis. Juridinių asmenų veiklos licencijavimas
 
-
 1. Įstatymų nustatytais atvejais juridiniai asmenys gali imtis tam tikros rūšies veiklos, atlikti tam tikrą veiksmą ar veiksmus arba naudoti tam tikrus objektus tik gavę įstatymų nustatyta tvarka išduotą licenciją.
-
-
-
 
 2. Juridinis asmuo privalo turėti visas licencijas, kurios įstatymuose nurodytos kaip būtinos jo veiklos sąlygos.
