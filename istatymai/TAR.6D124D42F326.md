@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6D124D42F326"
 
 # Lietuvos Respublikos pilietybės įstatymas
 
-Suvestinė redakcija nuo 1992-02-21 iki 1992-11-18
+Suvestinė redakcija nuo 1992-11-19 iki 1993-07-27
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 251-0; Žin. 1991, Nr.36-977, i. k. 0911010ISTA00I-2072
  
@@ -156,6 +156,10 @@ Lietuvos Respublikos pilietybė neteikiama (įskaitant optavimą) asmenims, kuri
 14 straipsnis. Lietuvos Respublikos pilietybės suteikimas asmeniui, sudariusiam santuoką su Lietuvos Respublikos piliečiu
 
 Asmeniui, sudariusiam santuoką su Lietuvos Respublikos piliečiu ir gyvenančiam šioje santuokoje pastaruosius trejus metus Lietuvoje, Lietuvos Respublikos pilietybė suteikiama, jei jis atitinka šio įstatymo 12 straipsnio pirmosios dalies 1, 4, 5 punktuose nustatytas sąlygas.
+
+Asmenims, sudariusiems santuoką su Lietuvos Respublikos piliečiais: tremtiniais, politiniais kaliniais ir jų vaikais, gimusiais tremtyje – Lietuvos Respublikos pilietybė suteikiama, jei jie gyvena šioje santuokoje pastaruosius trejus metus, persikelia nuolat gyventi į Lietuvą kartu su sutuoktiniu, kuris yra Lietuvos Respublikos pilietis, ir atitinka šio įstatymo 12 straipsnio pirmosios dalies 4, 5 punktuose nustatytas sąlygas. 
+Papildyta straipsnio dalimi:
+Nr. I-3067, 1992-11-19, Lietuvos aidas, 1992, Nr. 232-0 (1992-11-26); Žin., 1992, Nr. 34-1031 (1992-11-30), i. k. 0921010ISTA00I-3067
  
 
 15 straipsnis. Priesaika Lietuvos Respublikai
@@ -256,11 +260,14 @@ IV. VAIKŲ PILIETYBĖ, PASIKEITUS TĖVŲ PILIETYBEI
 Jeigu abu tėvai įgyja Lietuvos Respublikos pilietybę arba abu jos netenka, atitinkamai pasikeičia jų vaikų, nesukakusių 14 metų, pilietybė.
  
 
-25 straipsnis. Vaikų Lietuvos Respublikos pilietybės įgijimas, kai Lietuvos Respublikos pilietybę įgijo vienas iš tėvų.
+25 straipsnis. Vaikų Lietuvos Respublikos pilietybės įgijimas, kai Lietuvos Respublikos pilietybę įgijo vienas iš tėvų
 
-Jeigu Lietuvos Respublikos piliečiu tampa vienas iš tėvų, o antrasis lieka kitos valstybės pilietis, jų vaikas gali įgyti Lietuvos Respublikos pilietybę, jei to prašo abu vaiko tėvai.
+Jeigu Lietuvos Respublikos piliečiu tampa vienas iš tėvų, o antrasis lieka kitos valstybės piliečiu, jų vaikas gali įgyti Lietuvos Respublikos pilietybę, jei to raštu prašo abu vaiko tėvai. Jeigu vaiko tėvai išsituokę, vaikas gali įgyti Lietuvos Respublikos pilietybę, jei to raštu prašo įgijęs Lietuvos Respublikos pilietybę vienas iš tėvų, pas kurį teismo sprendimu liko gyventi vaikas arba pas kurį vaikas faktiškai nuolat gyvena.
 
-Jeigu Lietuvos Respublikos piliečiu tampa vienas iš tėvų, o kitas lieka asmeniu be pilietybės, jų vaikas, gyvenantis už Lietuvos Respublikos ribų, gali įgyti Lietuvos Respublikos pilietybę, jeigu to prašo įgijęs Lietuvos Respublikos pilietybę vienas iš tėvų.
+Jeigu Lietuvos Respublikos piliečiu tampa vienas iš tėvų, o kitas lieka asmeniu be pilietybės, jų vaikas gali įgyti Lietuvos Respublikos pilietybę, jei to raštu prašo įgijęs Lietuvos Respublikos pilietybę vienas iš tėvų. 
+
+Straipsnio pakeitimai:
+Nr. I-3067, 1992-11-19, Lietuvos aidas, 1992, Nr. 232-0 (1992-11-26); Žin., 1992, Nr. 34-1031 (1992-11-30), i. k. 0921010ISTA00I-3067
  
 
 26 straipsnis. Vaikų Lietuvos Respublikos pilietybės išsaugojimas, vienam iš tėvų netekus Lietuvos Respublikos pilietybės
@@ -409,4 +416,9 @@ Dėl Lietuvos Respublikos pilietybės dokumentų galiojimo ir pilietybės įstat
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-2312, 1992-02-11, Lietuvos aidas, 1992, Nr. 35-0 (1992-02-20); Žin., 1992, Nr. 7-162 (1992-03-10), i. k. 0921010ISTA00I-2312
 Dėl Lietuvos Respublikos pilietybės įstatymo 28 ir 31 straipsnių pakeitimo
+ 
+3.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-3067, 1992-11-19, Lietuvos aidas, 1992, Nr. 232-0 (1992-11-26); Žin., 1992, Nr. 34-1031 (1992-11-30), i. k. 0921010ISTA00I-3067
+Dėl Lietuvos Respublikos pilietybės įstatymo 14 ir 25 straipsnių pakeitimo
 
