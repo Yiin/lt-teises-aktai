@@ -1016,18 +1016,17 @@ Referate Taisyklėse nustatyta tvarka pateikiama techninė informacija apie išr
 
 29 straipsnis. Lietuvos Respublikos patentų registras
 
+1. Lietuvos Respublikos patentų registro objektas yra pagal šį įstatymą išduoti patentai ir papildomos apsaugos liudijimai.
 
-1. Lietuvos Respublikos patentų registras yra valstybės registras. Registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, registro tvarkytojas – Valstybinis patentų biuras. Lietuvos Respublikos Vyriausybė gali skirti papildomą registro tvarkytoją.
+2. Lietuvos Respublikos patentų registro informacinėje sistemoje tvarkomi aprašomųjų duomenų apie patentų ir papildomos apsaugos liudijimų paraiškas, patentus, įskaitant brėžinius, papildomos apsaugos liudijimus, išradėjus, pareiškėjus, patentų ir papildomos apsaugos liudijimų savininkus ir jų atstovus, patentų ir papildomos apsaugos liudijimų išdavimą, naudojimą ir apsaugą rinkiniai. Lietuvos Respublikos patentų registro informacinėje sistemoje tvarkomų duomenų rinkinius sudarantys duomenys nustatomi šio registro informacinės sistemos nuostatuose.
 
+3. Duomenų tvarkymo Lietuvos Respublikos patentų registro informacinėje sistemoje tikslas – užtikrinti išimtinių teisių į patentus, kaip nuosavybės objektus, apsaugą ir informuoti apie šias teises kompetentingas institucijas ir visuomenę.
 
+4. Lietuvos Respublikos patentų registro informacinės sistemos ir Lietuvos Respublikos patentų registro duomenų, įskaitant asmens duomenis, valdytojas yra Valstybinis patentų biuras.
 
+5. Lietuvos Respublikos patentų registro informacinės sistemos duomenys teikiami šios informacinės sistemos nuostatuose nustatyta tvarka, jeigu šiame įstatyme nenustatyta kitaip, laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
 
-2. Lietuvos Respublikos patentų registro objektas yra pagal šį įstatymą išduotas patentas.
-
-
-
-
-3. Lietuvos Respublikos patentų registro objektų registravimo tvarka, registro duomenų tvarkymas reglamentuoti Lietuvos Respublikos patentų registro nuostatuose. 
+6. Lietuvos Respublikos patentų registro informacinėje sistemoje tvarkomi duomenys, įskaitant asmens duomenis, atveriami pakartotinai naudoti. Asmens kodas pakartotinai naudoti neatveriamas. Kiti asmens duomenys (vardas, pavardė ir adresas) atveriami pakartotinai naudoti laikantis Reglamento (ES) 2016/679 reikalavimų.
 
 
 Straipsnio pakeitimai:
@@ -1037,55 +1036,27 @@ Nr. XIII-263, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06263
 
 
 
-30 straipsnis. Pakeitimai patento paraiškoje, patente ir Lietuvos Respublikos patentų registre 
+30 straipsnis. Patento paraiškos, patento ir kitų Lietuvos Respublikos patentų registro duomenų pakeitimas
 
-
-1. Pareiškėjas, patento savininkas ar jų atstovai privalo pranešti Valstybiniam patentų biurui, jeigu: 
-
+1. Pareiškėjas, patento savininkas ar jų atstovai privalo pranešti Valstybiniam patentų biurui, jeigu:
 
 1) pasikeitė pareiškėjo ar patento savininko pavadinimas ar vardas, pavardė arba buveinės ar gyvenamosios vietos adresas;
 
-
-
-
 2) pasikeitė pareiškėjo ar patento savininko atstovas arba atstovo gyvenamosios vietos (buveinės) adresas, įskaitant susirašinėjimui skirtą adresą;
-
-
-
 
 3) visiškai arba iš dalies pasikeitė pareiškėjas arba patento savininkas;
 
-
-
-
 4) reikia ištaisyti technines klaidas.
 
+2. Pareiškėjas, patento savininkas ar jų atstovai, prašydami pakeisti patento paraiškos ar kitus Lietuvos Respublikos patentų registro duomenis šio straipsnio 1 dalyje numatytais atvejais, turi sumokėti nustatytą mokestį ir pateikti šiuos dokumentus:
 
-
-
-
-
-2. Pareiškėjas, patento savininkas ar jų atstovai, prašydami įrašyti pakeitimą patento paraiškoje ar Lietuvos Respublikos patentų registre šio straipsnio 1 dalyje numatytais atvejais, turi sumokėti nustatytą mokestį ir pateikti šiuos dokumentus:
-
-
-1) prašymą įrašyti pakeitimą patento paraiškoje ar Lietuvos Respublikos patentų registre;
-
-
-
+1) prašymą pakeisti patento paraiškos ar kitus Lietuvos Respublikos patentų registro duomenis;
 
 2) šios dalies 1 punkte nurodytą prašymą pagrindžiančius dokumentus.
 
+3. Gavęs šio straipsnio 2 dalyje nurodytus dokumentus, Valstybinis patentų biuras per 1 mėnesį nuo dokumentų gavimo dienos juos patikrina ir, jeigu dokumentai atitinka šio įstatymo ir Taisyklių reikalavimus, pakeičia patento paraiškos ar Lietuvos Respublikos patentų registro duomenis.
 
-
-
-
-
-3. Gavęs šio straipsnio 2 dalyje nurodytus dokumentus, Valstybinis patentų biuras per 1 mėnesį nuo dokumentų gavimo dienos juos patikrina ir, jeigu dokumentai atitinka šio įstatymo ir Taisyklių reikalavimus, pakeitimą įrašo į patento paraišką ar Lietuvos Respublikos patentų registrą.
-
-
-
-
-4. Pakeitimas įsigalioja nuo jo įrašymo dienos. Apie pakeitimą Lietuvos Respublikos patentų registre skelbiama Valstybinio patentų biuro oficialiame biuletenyje.
+4. Pakeitimas įsigalioja nuo duomenų įrašymo Lietuvos Respublikos patentų registro informacinėje sistemoje dienos. Apie Lietuvos Respublikos patentų registro duomenų pakeitimą skelbiama Valstybinio patentų biuro oficialiame biuletenyje.
 
 
 
@@ -1451,38 +1422,19 @@ TEISIŲ PERDAVIMAS, LICENCIJAVIMAS, ĮKEITIMAS IR AREŠTAS
 
 42 straipsnis. Teisės į patento paraišką ar patentą perdavimas
 
-
 1. Sutartis dėl teisės į patento paraišką ar patentą perdavimo turi būti sudaryta raštu.
 
+2. Duomenys apie teisės į patento paraišką ar patentą perdavimą, sumokėjus mokestį, įrašomi Lietuvos Respublikos patentų registro informacinėje sistemoje vienos iš sutarties dėl šios teisės perdavimo šalių prašymu, jeigu Valstybiniam patentų biurui pateikiami šie dokumentai:
 
+1) prašymas įrašyti duomenis apie šios teisės perdavimą;
 
-
-2. Teisės į patento paraišką ar patentą perdavimas, sumokėjus mokestį, įrašomas į Lietuvos Respublikos patentų registrą vienos iš sutarties dėl teisės perdavimo šalių prašymu, jeigu Valstybiniam patentų biurui pateikiami šie dokumentai: 
-
-
-1) prašymas įrašyti teisės perdavimą į Lietuvos Respublikos patentų registrą;
-
-
-
-
-2) teisės perdavimą patvirtinantis dokumentas;
-
-
-
+2) šios teisės perdavimą patvirtinantis dokumentas;
 
 3) paprastos rašytinės formos įgaliojimas atstovui (jeigu reikia).
 
+3. Valstybinis patentų biuras per 1 mėnesį nuo šio straipsnio 2 dalyje nurodytų dokumentų gavimo dienos patikrina gautus dokumentus ir, jeigu jie atitinka šio straipsnio ir Taisyklių reikalavimus, teisės į patento paraišką ar patentą perdavimo duomenis įrašo Lietuvos Respublikos patentų registro informacinėje sistemoje.
 
-
-
-
-
-3. Valstybinis patentų biuras per 1 mėnesį nuo šio straipsnio 2 dalyje nurodytų dokumentų gavimo dienos patikrina gautus dokumentus ir, jeigu jie atitinka šio straipsnio ir Taisyklių reikalavimus, teisės į patento paraišką ar patentą perdavimo duomenis įrašo į Lietuvos Respublikos patentų registrą.
-
-
-
-
-4. Teisės į patento paraišką ar patentą perdavimas įsigalioja nuo jo įrašymo į Lietuvos Respublikos patentų registrą dienos. Duomenys apie teisės į patento paraišką ar patentą perdavimą skelbiami Valstybinio patentų biuro oficialiame biuletenyje. 
+4. Teisės į patento paraišką ar patentą perdavimas įsigalioja nuo duomenų apie šį faktą įrašymo Lietuvos Respublikos patentų registro informacinėje sistemoje dienos. Duomenys apie teisės į patento paraišką ar patentą perdavimą skelbiami Valstybinio patentų biuro oficialiame biuletenyje. 
  
 
 
@@ -1529,19 +1481,11 @@ Suinteresuotas asmuo gali pareikšti teismui ieškinį dėl teisės į patento p
 
 45 straipsnis. Licencinė sutartis
 
-
 1. Pareiškėjas arba patento savininkas turi teisę suteikti kitam asmeniui išimtinę ar neišimtinę patento licenciją naudoti išradimą visoje Lietuvos Respublikos teritorijoje arba tam tikroje jos dalyje.
 
+2. Licencinės sutarties duomenys, sumokėjus mokestį, įrašomi Lietuvos Respublikos patentų registro informacinėje sistemoje vienos iš licencinės sutarties šalių prašymu. Kartu su prašymu Valstybiniam patentų biurui pateikiami šie dokumentai ar duomenys:
 
-
-
-2. Licencinės sutarties duomenys, sumokėjus mokestį, įrašomi į Lietuvos Respublikos patentų registrą vienos iš licencinės sutarties šalių prašymu. Kartu su prašymu įrašyti licencinės sutarties duomenis į Lietuvos Respublikos patentų registrą Valstybiniam patentų biurui pateikiami šie dokumentai ar duomenys:
-
-
-1) abiejų sutarties šalių pasirašytas licencinės sutarties sudarymą patvirtinantis dokumentas ar notaro patvirtintas licencinės sutarties išrašas; 
-
-
-
+1) abiejų sutarties šalių pasirašytas licencinės sutarties sudarymą patvirtinantis dokumentas ar notaro patvirtintas licencinės sutarties išrašas;
 
 2) paprastos rašytinės formos įgaliojimas atstovui (jeigu reikia).
 
@@ -1552,45 +1496,21 @@ Suinteresuotas asmuo gali pareikšti teismui ieškinį dėl teisės į patento p
 
 3. Licencinės sutarties sudarymą patvirtinančiame dokumente arba licencinės sutarties išraše turi būti nurodyta:
 
-
 1) paskelbtos patento paraiškos arba patento savininko pavadinimas arba vardas, pavardė ir buveinės arba gyvenamosios vietos adresas;
-
-
-
 
 2) licenciato pavadinimas arba vardas, pavardė ir buveinės arba gyvenamosios vietos adresas;
 
-
-
-
 3) paskelbtos patento paraiškos arba patento, kuriems naudoti suteikiama patento licencija, numeris;
-
-
-
 
 4) licencinės sutarties rūšis;
 
-
-
-
 5) licencinės sutarties sudarymo data ir galiojimo terminas;
-
-
-
 
 6) licencinės sutarties galiojimo teritorija.
 
+4. Valstybinis patentų biuras per 1 mėnesį nuo šio straipsnio 2 dalyje nurodytų dokumentų gavimo dienos patikrina gautus dokumentus ir, jeigu jie atitinka šio straipsnio ir Taisyklių reikalavimus, licencinės sutarties duomenis įrašo Lietuvos Respublikos patentų registro informacinėje sistemoje.
 
-
-
-
-
-4. Valstybinis patentų biuras per 1 mėnesį nuo šio straipsnio 2 dalyje nurodytų dokumentų gavimo dienos patikrina gautus dokumentus ir, jeigu jie atitinka šio straipsnio ir Taisyklių reikalavimus, licencinės sutarties duomenis įrašo į Lietuvos Respublikos patentų registrą.
-
-
-
-
-5. Licencinė sutartis tretiesiems asmenims įsigalioja nuo jos duomenų įrašymo į Lietuvos Respublikos patentų registrą dienos. Duomenys apie licencinės sutarties įrašymą skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+5. Licencinė sutartis tretiesiems asmenims įsigalioja nuo jos duomenų įrašymo Lietuvos Respublikos patentų registro informacinėje sistemoje dienos. Duomenys apie licencinės sutarties įrašymą Lietuvos Respublikos patentų registro informacinėje sistemoje skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
 
 
 
@@ -1610,13 +1530,9 @@ Suinteresuotas asmuo gali pareikšti teismui ieškinį dėl teisės į patento p
 
 46 straipsnis. Vieša licencija
 
+1. Patento savininkas gali paduoti Valstybiniam patentų biurui pareiškimą, kad už tam tikrą atlyginimą jis sutinka leisti bet kuriam asmeniui naudotis išradimu licenciato teisėmis. Šiuo atveju metys mokestis už patento galiojimą sumažinamas 50 procentų.
 
-1. Patento savininkas gali paduoti Valstybiniam patentų biurui pareiškimą, kad už tam tikrą atlyginimą jis sutinka leisti bet kuriam asmeniui naudotis išradimu licenciato teisėmis. Šiuo atveju metų mokestis už patento galiojimą sumažinamas 50 procentų.
-
-
-
-
-2. Valstybinis patentų biuras šio straipsnio 1 dalyje nurodyto pareiškimo nepriima, jeigu į Lietuvos Respublikos patentų registrą jau yra įrašyta išimtinė patento licencija, patento savininko išduota tam pačiam išradimui.
+2. Valstybinis patentų biuras šio straipsnio 1 dalyje nurodyto pareiškimo nepriima, jeigu Lietuvos Respublikos patentų registro informacinėje sistemoje jau yra įrašyti duomenys apie išimtinę patento licenciją, kuri patento savininko išduota tam pačiam išradimui.
 
 
 
@@ -1628,10 +1544,7 @@ Suinteresuotas asmuo gali pareikšti teismui ieškinį dėl teisės į patento p
 
 4. Norintis pasinaudoti vieša licencija asmuo paduoda prašymą pasinaudoti vieša licencija Valstybiniam patentų biurui. Tokiu būdu įgyta licencija yra laikoma neišimtine. 
 
-
-
-
-5. Valstybinis patentų biuras, gavęs asmens prašymą pasinaudoti vieša licencija, neturi teisės įrašyti į Lietuvos Respublikos patentų registrą tam pačiam išradimui išduotą išimtinę patento licenciją, išskyrus atvejį, kai šio straipsnio 1 dalyje nurodytas pareiškimas yra vėliau atšaukiamas. 
+5. Valstybinis patentų biuras, gavęs asmens prašymą pasinaudoti vieša licencija, neturi teisės įrašyti Lietuvos Respublikos patentų registro informacinėje sistemoje duomenų apie tam pačiam išradimui išduotą išimtinę patento licenciją, išskyrus atvejį, kai šio straipsnio 1 dalyje nurodytas pareiškimas yra vėliau atšaukiamas. 
 
 
 
@@ -1646,13 +1559,92 @@ Suinteresuotas asmuo gali pareikšti teismui ieškinį dėl teisės į patento p
 
 47 straipsnis. Teisės į patento paraišką ar patentą įkeitimas ar areštas
 
-
 1. Teisė į patento paraišką ar patentą gali būti įkeista ar areštuota (laikinai apribota teisė naudoti, valdyti teisę į paraišką arba patentą arba ja disponuoti) Lietuvos Respublikos įstatymų nustatyta tvarka.
 
+2. Gavęs Sutarčių ir teisių suvaržymų registro informacinės sistemos ar Turto arešto aktų registro informacinės sistemos tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į patento paraišką ar patentą, Valstybinis patentų biuras teisės į patento paraišką ar patentą įkeitimo ar arešto duomenis įrašo Lietuvos Respublikos patentų registro informacinėje sistemoje ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+</search>
+
+<search>
+61 straipsnis. Patento pakeitimai 
+
+1. Patento savininkas, norėdamas susiaurinti patento suteikiamą teisinę apsaugą, sumokėjęs nustatytą mokestį, turi teisę reikalauti, kad Valstybinis patentų biuras padarytų patento pakeitimus.
+
+2. Neleidžiama daryti tokių patento pakeitimų, kurie išplėstų patento paraiškoje nustatytas išradimo ribas.
+
+3. Valstybinis patentų biuras padarytus patento pakeitimus įrašo į Lietuvos Respublikos patentų registrą ir apie tai skelbia savo oficialiame biuletenyje. Patento pakeitimai įsigalioja nuo jų įrašymo į Lietuvos Respublikos patentų registrą dienos.
+</search>
+<replace>
+61 straipsnis. Patento pakeitimai 
+
+1. Patento savininkas, norėdamas susiaurinti patento suteikiamą teisinę apsaugą, sumokėjęs nustatytą mokestį, turi teisę reikalauti, kad Valstybinis patentų biuras padarytų patento pakeitimus.
+
+2. Neleidžiama daryti tokių patento pakeitimų, kurie išplėstų patento paraiškoje nustatytas išradimo ribas.
+
+3. Valstybinis patentų biuras patento duomenų pakeitimus įrašo Lietuvos Respublikos patentų registro informacinėje sistemoje ir apie tai skelbia savo oficialiame biuletenyje. Patento duomenų pakeitimai įsigalioja nuo jų įrašymo Lietuvos Respublikos patentų registro informacinėje sistemoje dienos.
+</search>
+
+<search>
+62 straipsnis. Patento atsisakymas
+
+1. Patento savininkas gali atsisakyti patento apie tai raštu pranešdamas Valstybiniam patentų biurui. Patento atsisakymas gali būti dalinis, kai atsisakoma vieno ar daugiau išradimo apibrėžties punktų.
+
+2. Valstybinis patentų biuras apie patento atsisakymą įrašo į Lietuvos Respublikos patentų registrą ir apie tai paskelbia savo oficialiame biuletenyje.
+</search>
+<replace>
+62 straipsnis. Patento atsisakymas
+
+1. Patento savininkas gali atsisakyti patento apie tai raštu pranešdamas Valstybiniam patentų biurui. Patento atsisakymas gali būti dalinis, kai atsisakoma vieno ar daugiau išradimo apibrėžties punktų.
+
+2. Valstybinis patentų biuras duomenis apie patento atsisakymą įrašo Lietuvos Respublikos patentų registro informacinėje sistemoje ir apie tai paskelbia savo oficialiame biuletenyje.
+</search>
+
+<search>
+63 straipsnis. Patento pripažinimas negaliojančiu
+
+1. Teismas pagal suinteresuotų asmenų ieškinį gali pripažinti patentą visiškai arba iš dalies negaliojančiu, jeigu:
+
+1) išradimas pagal šio įstatymo 4–8 straipsnius yra nepatentabilus;
+
+2) patente išradimo esmė neatskleista taip aiškiai ir išsamiai, kad jį galėtų panaudoti tos srities specialistas;
+
+3) patento objektas yra platesnis negu paduotos patento paraiškos turinys arba patentas buvo išduotas pagal atskirtą patento paraišką, kuri yra platesnio turinio negu pirminė patento paraiška;
+
+4) patento savininkas pagal šio įstatymo 11 straipsnio 1 dalį neturi teisės į patentą.
+
+2. Jeigu patentas pripažįstamas iš dalies negaliojančiu, apribojamos patento suteikiamos teisės, sumažinama išradimo apibrėžties punktų ir atitinkamai pakeičiamas išradimo aprašymas ir brėžiniai. 
 
 
 
-2. Gavęs Sutarčių ir teisių suvaržymų registro ar Turto arešto aktų registro tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į patento paraišką ar patentą, Valstybinis patentų biuras teisės į patento paraišką ar patentą įkeitimo ar arešto duomenis įrašo į Lietuvos Respublikos patentų registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje.
+
+64 straipsnis. Patento pripažinimo negaliojančiu pasekmės
+
+1. Patentas, teismo pripažintas visiškai ar iš dalies negaliojančiu, netenka galios nuo patento paraiškos padavimo datos.
+
+2. Įsigaliojus teismo sprendimui dėl patento pripažinimo visiškai ar iš dalies negaliojančiu, teismas savo sprendimą siunčia Valstybiniam patentų biurui, o šis duomenis apie patento pripažinimą visiškai ar iš dalies negaliojančiu įrašo į Lietuvos Respublikos patentų registrą ir skelbia savo oficialiame biuletenyje.
+</search>
+<replace>
+63 straipsnis. Patento pripažinimas negaliojančiu
+
+1. Teismas pagal suinteresuotų asmenų ieškinį gali pripažinti patentą visiškai arba iš dalies negaliojančiu, jeigu:
+
+1) išradimas pagal šio įstatymo 4–8 straipsnius yra nepatentabilus;
+
+2) patente išradimo esmė neatskleista taip aiškiai ir išsamiai, kad jį galėtų panaudoti tos srities specialistas;
+
+3) patento objektas yra platesnis negu paduotos patento paraiškos turinys arba patentas buvo išduotas pagal atskirtą patento paraišką, kuri yra platesnio turinio negu pirminė patento paraiška;
+
+4) patento savininkas pagal šio įstatymo 11 straipsnio 1 dalį neturi teisės į patentą.
+
+2. Jeigu patentas pripažįstamas iš dalies negaliojančiu, apribojamos patento suteikiamos teisės, sumažinama išradimo apibrėžties punktų ir atitinkamai pakeičiamas išradimo aprašymas ir brėžiniai. 
+
+
+
+
+64 straipsnis. Patento pripažinimo negaliojančiu pasekmės
+
+1. Patentas, teismo pripažintas visiškai ar iš dalies negaliojančiu, netenka galios nuo patento paraiškos padavimo datos.
+
+2. Įsigaliojus teismo sprendimui dėl patento pripažinimo visiškai ar iš dalies negaliojančiu, teismas savo sprendimą siunčia Valstybiniam patentų biurui, o šis duomenis apie patento pripažinimą visiškai ar iš dalies negaliojančiu įrašo Lietuvos Respublikos patentų registro informacinėje sistemoje ir skelbia savo oficialiame biuletenyje.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2734, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00109
  
