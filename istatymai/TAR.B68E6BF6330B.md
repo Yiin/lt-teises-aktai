@@ -1,0 +1,214 @@
+---
+tar_id: TAR.B68E6BF6330B
+dok_nr: IX-2332
+pavadinimas: Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymas
+rusis: istatymas
+leidziantis_organas: Lietuvos Respublikos Seimas
+priemimo_data: 2004-07-08
+isigaliojimo_data: 2005-01-01
+paskelbimo_data: 2004-07-08
+statusas: galioja
+etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B68E6BF6330B"
+---
+
+# Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymas
+
+LIETUVOS RESPUBLIKOS MOKESČIO UŽ VALSTYBĖS TURTO NAUDOJIMĄ PATIKĖJIMO TEISE ĮSTATYMAS
+ 
+2004 m. liepos 8 d. Nr. IX-2332
+Vilnius
+ 
+
+
+1 straipsnis. Įstatymo paskirtis 
+
+
+Šis įstatymas nustato valstybei nuosavybės teise priklausančio ir valstybės įmonei patikėjimo teise perduoto turto apmokestinimą mokesčiu už valstybės turto naudojimą patikėjimo teise (toliau – mokestis).
+ 
+
+
+
+
+
+
+2 straipsnis. Pagrindinės šio įstatymo sąvokos 
+
+
+Šiame įstatyme vartojamos sąvokos:
+
+
+1) valstybės įmonė – suprantama taip, kaip ji apibrėžta Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatyme;
+
+
+
+
+2) finansiniai metai, ūkinės veiklos pradžios balansas – suprantama taip, kaip šios sąvokos apibrėžtos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme. 
+ 
+
+
+
+
+
+
+
+
+3 straipsnis. Mokesčio mokėtojai 
+
+
+Mokestį moka valstybės įmonės.
+ 
+
+
+
+
+
+
+4 straipsnis. Mokesčio objektas 
+
+
+Mokesčio objektas – valstybės įmonės savininko patikėjimo teise valstybės įmonei perduotas turtas, kuris šiame įstatyme prilyginamas valstybės įmonės savininko kapitalui. 
+ 
+
+
+
+
+
+
+5 straipsnis. Mokesčio tarifas 
+
+
+Taikomi šie mokesčio tarifai:
+
+
+1) valstybės įmonėms prie pataisos įstaigų, tauriųjų metalų ir brangakmenių bei jų gaminių valstybinę priežiūrą atliekančiai valstybės įmonei, Klaipėdos valstybinį jūrų uostą valdančiai valstybės įmonei – 0,1 procento;
+
+
+
+
+2) valstybinės reikšmės kelius (automobilių bei vandens) valdančioms, naudojančioms ir disponuojančioms jais valstybės įmonėms, indėlininkų indėlių, įsipareigojimų investuotojams draudimą atliekančiai valstybės įmonei – 0,05 procento;
+
+
+
+
+3) kitoms valstybės įmonėms – 0,5 procento.
+ 
+
+
+
+
+
+
+
+
+6 straipsnis. Mokestinis laikotarpis 
+
+
+1. Mokesčio mokestinis laikotarpis – valstybės įmonės finansiniai metai.
+
+
+
+
+2. Pirmuoju mokestiniu laikotarpiu yra laikomas laikotarpis nuo valstybinės įmonės įsteigimo (pertvarkymo į valstybės įmonę) dienos iki finansinių metų pabaigos. 
+
+
+
+
+3. Paskutiniu mokestiniu laikotarpiu yra laikomas laikotarpis nuo finansinių metų pradžios iki valstybės įmonės pabaigos (pertvarkymo) dienos. 
+ 
+
+
+
+
+
+
+7 straipsnis. Mokesčio skaičiavimo, deklaravimo ir mokėjimo tvarka
+
+
+1. Valstybės įmonės savininko kapitalo dydis, nuo kurio skaičiuojamas mokestis, nustatomas pagal mokestinio laikotarpio pirmos dienos būklę. 
+
+
+
+
+2. Valstybės įmonė pateikia teritorinei valstybinei mokesčių inspekcijai, kurioje ji įregistruota kaip mokesčių mokėtoja, mokesčio deklaraciją iki mokestinio laikotarpio septinto mėnesio pirmos dienos.
+
+
+
+
+3. Mokesčio deklaracijos formą bei užpildymo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos.
+
+
+
+
+4. Įsteigtų naujų (pertvarkomų) valstybės įmonių savininko kapitalo dydis pirmąjį mokestinį laikotarpį nustatomas pagal įsteigtos (pertvarkomos) valstybės įmonės parengto ūkinės veiklos pradžios balanso duomenis. Šios įmonės mokestį skaičiuoja proporcingai likusiai mokestinio laikotarpio daliai (mėnesių skaičiui nuo kito mėnesio po valstybinės įmonės įsteigimo (pertvarkymo į valstybės įmonę) iki mokestinio laikotarpio pabaigos) ir deklaraciją pateikia teritorinei valstybinei mokesčių inspekcijai iki pirmojo mokestinio laikotarpio paskutinės dienos.
+
+
+
+
+5. Mokestį už paskutinį mokestinį laikotarpį valstybės įmonė skaičiuoja proporcingai paskutinio mokestinio laikotarpio mėnesių skaičiui (įskaitant valstybės įmonės pabaigos (pertvarkymo) mėnesį) ir deklaraciją pateikia teritorinei valstybinei mokesčių inspekcijai iki paskutinio mokestinio laikotarpio paskutinės dienos.
+
+
+
+
+6. Valstybės įmonė mokestį sumoka ne vėliau kaip paskutinę mokesčio deklaracijos pateikimo termino dieną.
+
+
+
+
+7. Mokestis sumokamas į teritorinės valstybinės mokesčių inspekcijos, kurioje valstybės įmonė įregistruota kaip mokesčių mokėtoja, biudžeto pajamų surenkamąją sąskaitą.
+ 
+
+
+
+
+
+
+8 straipsnis. Mokesčio įskaitymas
+
+
+Mokestis įskaitomas į valstybės biudžetą. 
+ 
+
+
+
+
+
+
+9 straipsnis. Mokesčio administravimas
+
+
+Mokestį administruoja Valstybinė mokesčių inspekcija. Mokesčio administravimui taikomos Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+ 
+
+
+
+
+
+
+10 straipsnis. Atsakomybė už šio įstatymo pažeidimą
+
+
+Už šio įstatymo pažeidimus skiriamos baudos ir skaičiuojami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+11 straipsnis. Įstatymo įsigaliojimas
+
+
+Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+ 
+ 
+
+
+
+
+
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
+ 
+ 
+ 
+RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
