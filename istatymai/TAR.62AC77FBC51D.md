@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.62AC77FBC51D"
 
 # Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas
 
-Suvestinė redakcija nuo 1996-04-19 iki 1996-07-31
+Suvestinė redakcija nuo 1996-08-01 iki 1998-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 55-1351, i. k. 0951010ISTA000I-938
  
@@ -33,12 +33,14 @@ BENDROSIOS NUOSTATOS
 
 Šis įstatymas nustato Lietuvos Respublikos juridinių bei fizinių asmenų ir užsienio valstybių investavimo subjektų santykius, atsirandančius investuojant užsienio kilmės kapitalą Lietuvos Respublikoje šio įstatymo nustatytomis investavimo formomis, santykius tarp valstybės ir užsienio investuotojų, taip pat užsienio kilmės kapitalo investicijas per visą jų buvimo laiką.
 
-Užsienio arba kartu su užsienio kapitalu komercinio banko steigimo ir veiklos tvarką nustato Lietuvos Respublikos komercinių bankų įstatymas.
+Šis įstatymas nenustato ir nereguliuoja užsienio arba kartu su užsienio kapitalu komercinio banko steigimo bei veiklos. Užsienio arba kartu su užsienio kapitalu komercinio banko steigimo ir veiklos tvarką nustato Lietuvos Respublikos komercinių bankų įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. I-1481, 1996-07-11, Žin., 1996, Nr. 71-1714 (1996-07-26), i. k. 0961010ISTA00I-1481
  
 
 2 straipsnis. Sąvokų apibrėžimai
 Šiame įstatyme vartojamos sąvokos:
-užsienio valstybių įmonės – tai turinčios ir neturinčios juridinio asmens teisių įmonės, susivienijimai, asociacijos ir kitokios organizacijos, nesvarbu, ar jos savo veikla siekia pelno, ar ne, kurios yra sudarytos ar kitokiu būdu organizuotos bei registruotos pagal užsienio valstybės įstatymus, kurių buveinė yra užsienio valstybėje ir kuriose nėra Lietuvos juridinių ir fizinių asmenų kapitalo;
+užsienio valstybių įmonės –tai turinčios ir neturinčios juridinio asmens teisių įmonės, susivienijimai, asociacijos ir kitokios organizacijos, kurios yra įsteigtos ar kitokiu būdu organizuotos bei registruotos pagal užsienio valstybės įstatymus ir kurių buveinė yra užsienio valstybėje;
 investavimo subjektai – investuojantys Lietuvos Respublikoje užsienio kilmės kapitalą užsienio valstybių įmonės, ne Lietuvos piliečiai arba nuolat užsienyje gyvenantys asmenys be pilietybės (apatridai), kurių kapitalas investavimo metu yra užsienio kilmės;
 užsienio kilmės kapitalas – investavimo subjektui nuosavybės teise priklausantis kapitalas, kuris buvo sukurtas arba kitaip teisėtai įgytas ne Lietuvos Respublikos teritorijoje ir ne Lietuvos juridinių ar fizinių asmenų, taip pat reinvesticija. Tai gali būti:
 1) piniginės lėšos laisvai konvertuojama valiuta arba Lietuvos nacionaline valiuta;
@@ -51,7 +53,8 @@ užsienio investuotojas – investavimo subjektas, kuris Lietuvos Respublikos į
 užsienio kilmės kapitalo investicijos – užsienio investuotojams priklausantis užsienio kilmės kapitalas, investuotas Lietuvos Respublikoje;
 įmonė – ūkinis vienetas, veikiantis pagal Lietuvos Respublikos įmonių ir įmonių rūšių įstatymus, į kurį investuotas užsienio kilmės kapitalas;
 investicinis ginčas – kiekvienas su užsienio investicija susijęs teisinio pobūdžio ginčas tarp užsienio investuotojo (investuotojų) ir Lietuvos Respublikos.
- 
+Straipsnio pakeitimai:
+Nr. I-1481, 1996-07-11, Žin., 1996, Nr. 71-1714 (1996-07-26), i. k. 0961010ISTA00I-1481
  
 
 II SKIRSNIS
@@ -179,11 +182,16 @@ Jei įmonė buvo įsteigta (registruota) arba buvo investuotas užsienio kapital
 
 13 straipsnis. Įmonių mokesčių lengvatos
 
-Jeigu užsienio investuotojas (investuotojai) įsigijo ne mažiau kaip 30 procentų įmonės įstatinio (nuosavo) kapitalo ir investavo ne mažesnį kaip dviejų milijonų JAV dolerių vertės užsienio kilmės kapitalą, tai tokia įmonė trejus metus nuo pelno gavimo pradžios nemoka pelno (pajamų) mokesčio. Kitus trejus metus ši įmonė moka 50 procentų mažesnį pelno (pajamų) mokestį.
+Jeigu įmonėje užsienio investuotojo (investuotojų) užsienio kapitalo investicija yra pasiekusi du milijonus JAV dolerių, tai ši įmonė trejus metus nemoka pelno (pajamų) mokesčio. Kitus trejus metus ši įmonė moka 50 procentų mažesnį pelno (pajamų) mokestį.
 
-Įmonė, norinti įgyvendinti teisę į šiame straipsnyje numatytas mokesčių lengvatas, privalo pateikti mokesčių inspekcijai Lietuvos Respublikos Vyriausybės nustatytus dokumentus, patvirtinančius užsienio kapitalo kilmę ir investavimą į įmonės kapitalą.
+Įmonės pelno (pajamų) mokesčio nemoka nuo apyskaitinio ketvirčio, kurį pradėtas gauti pelnas (pajamos), pradžios.
+
+Šiame straipsnyje numatytos mokesčių lengvatos netaikomos įmonėms, kurios verčiasi didmenine, mažmenine naftos produktų prekyba, jeigu jų pajamos iš prekybos šiais produktais sudaro daugiau kaip 30 procentų jų realizacinių pajamų.
 
 Kitos mokesčių lengvatos taikomos remiantis Lietuvos Respublikos įstatymais.
+
+Straipsnio pakeitimai:
+Nr. I-1481, 1996-07-11, Žin., 1996, Nr. 71-1714 (1996-07-26), i. k. 0961010ISTA00I-1481
  
 
 14 straipsnis. Muitų lengvatos
@@ -223,7 +231,9 @@ Užsienio valstybių įmonių filialai, įsteigti ir įregistruoti iki šio įst
 
 Akcinės ar uždarosios akcinės bendrovės, kuriose užsienio investuotojai įsigijo bent vieną akciją iki šio įstatymo įsigaliojimo dienos, turi per 6 mėnesius nuo šio įstatymo įsigaliojimo dienos pakeisti rejestro tvarkytoją Lietuvos Respublikos vyriausiojo rejestro tvarkytojo nustatyta tvarka.
 
-Jeigu užsienio valstybių įmonių filialai ir akcinės bendrovės ar uždarosios akcinės bendrovės, kuriose užsienio investuotojas turi bent vieną akciją, nepertvarko savo veiklos ar nepakeičia rejestro tvarkytojo per šio straipsnio pirmojoje ir antrojoje dalyse nustatytus terminus, jos likviduojamos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Jeigu užsienio valstybių įmonių filialai nepertvarko savo veiklos per šio straipsnio pirmojoje dalyje nustatytus terminus, jiems taikomos sankcijos, nustatytos Lietuvos Respublikos įstatyme „Dėl atsakomybės už Lietuvos Respublikos akcinių bendrovių įstatymo 50 straipsnio pirmosios ir trečiosios dalių pažeidimus“ (Žin., 1995, Nr.59-1474) Statistikos departamento prie Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. I-1481, 1996-07-11, Žin., 1996, Nr. 71-1714 (1996-07-26), i. k. 0961010ISTA00I-1481
  
 
 18 straipsnis. Kitų įstatymų, reglamentuojančių užsienio kapitalo investicijas, pripažinimas netekusiais galios
@@ -233,8 +243,10 @@ Užsienio investicijų Lietuvos Respublikoje įstatymą, 1990 m. gruodžio 29 d.
  
 
 19 straipsnis. Įstatymo įsigaliojimas
+Įmonės, kurios naudojosi Užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo (Žin., 1995, Nr. 55-1351; 1996, Nr. 35-872) 13 straipsnyje nustatyta mokesčių lengvata, po šio įstatymo (1996 m. liepos 11 d. Nr. I-1481) įsigaliojimo naudojasi šio įstatymo nustatytomis lengvatomis.
 Šis įstatymas įsigalioja nuo 1995 m. rugpjūčio 1 dienos.
- 
+Straipsnio pakeitimai:
+Nr. I-1481, 1996-07-11, Žin., 1996, Nr. 71-1714 (1996-07-26), i. k. 0961010ISTA00I-1481
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -252,4 +264,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1269, 1996-04-02, Žin., 1996, Nr. 35-872 (1996-04-19), i. k. 0961010ISTA00I-1269
 Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 7 straipsnio papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1481, 1996-07-11, Žin., 1996, Nr. 71-1714 (1996-07-26), i. k. 0961010ISTA00I-1481
+Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymo 1, 2, 13, 17, 19 straipsnių papildymo ir pakeitimo įstatymas
 
