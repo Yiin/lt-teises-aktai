@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6CADC13B548B"
 
 # Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2000-11-01 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 35-974, i. k. 1001010ISTAIII-1621
  
@@ -426,17 +426,26 @@ NAUDOJIMO TVARKA
 
 
 
-5) sulaikant asmenį, įtariamą padarius nusikaltimą, jeigu jis priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu; 
+5) sulaikant asmenį, įtariamą padarius nusikalstamą veiką, jeigu jis priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010ISTA0IX-1424
+ 
 
 
 
 
-6) sulaikant karį, darantį nusikaltimą, jeigu kitaip jo sulaikyti neįmanoma;
+6) sulaikant karį, darantį nusikalstamą veiką, jeigu kitaip jo sulaikyti neįmanoma; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010ISTA0IX-1424
+ 
 
 
 
 
-7) sulaikant kitus asmenis, užkluptus darant sunkų nusikaltimą, jeigu kitaip jų sulaikyti neįmanoma; 
+7) sulaikant kitus asmenis, užkluptus darant sunkų ar labai sunkų nusikaltimą, jeigu kitaip jų sulaikyti neįmanoma;
+Straipsnio punkto pakeitimai:
+Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010ISTA0IX-1424
+ 
 
 
 
@@ -639,12 +648,18 @@ NAUDOJIMO TVARKA
 
 
 
-6) persekioti arba sulaikyti asmenis, užkluptus darant sunkų nusikaltimą, jeigu kitaip jų sulaikyti neįmanoma;
+6) persekioti arba sulaikyti asmenis, užkluptus darant sunkų ar labai sunkų nusikaltimą, jeigu kitaip jų sulaikyti neįmanoma; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010ISTA0IX-1424
+ 
 
 
 
 
-7) persekioti arba sulaikyti įtariamą padarius nusikaltimą asmenį, jeigu šis asmuo, norėdamas išvengti sulaikymo, ketina panaudoti ar panaudoja šaunamąjį ginklą, taip pat kitokius daiktus arba įrankius bei veiksmus, pavojingus žmonių sveikatai ar gyvybei;
+7) persekioti arba sulaikyti įtariamą padarius nusikalstamą veiką asmenį, jeigu šis asmuo, norėdamas išvengti sulaikymo, ketina panaudoti ar panaudoja šaunamąjį ginklą, taip pat kitokius daiktus arba įrankius bei veiksmus, pavojingus žmonių sveikatai ar gyvybei; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010ISTA0IX-1424
+ 
 
 
 
@@ -749,7 +764,10 @@ NAUDOJIMO TVARKA
 
 
 
-3) sulaikant asmenį, padariusį nusikaltimą arba šiurkščiai pažeidžiantį viešąją tvarką ar tvarką karinėje teritorijoje;
+3) sulaikant asmenį, padariusį nusikalstamą veiką arba šiurkščiai pažeidžiantį viešąją tvarką ar tvarką karinėje teritorijoje;
+Straipsnio punkto pakeitimai:
+Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010ISTA0IX-1424
+ 
 
 
 
@@ -834,7 +852,10 @@ NAUDOJIMO TVARKA
 20 straipsnis. Kovinių ginklų ir specialiųjų priemonių naudojimo ribos
 
 
-1. Kiekvienas karys ar civilis krašto apsaugos sistemos pareigūnas bei tarnautojas, kuriems šio statuto nustatyta tvarka leista naudoti kovinius ginklus ir specialiąsias priemones, turi teisę savarankiškai naudoti kovinį ginklą ir specialiąsias priemones esant Baudžiamajame kodekse numatytoms būtinosios ginties, būtinojo reikalingumo sąlygoms ir sulaikant nusikaltimą padariusį asmenį.
+1. Kiekvienas karys ar civilis krašto apsaugos sistemos pareigūnas bei tarnautojas, kuriems šio statuto nustatyta tvarka leista naudoti kovinius ginklus ir specialiąsias priemones, turi teisę savarankiškai naudoti kovinį ginklą ir specialiąsias priemones esant Baudžiamajame kodekse numatytoms būtinosios ginties, būtinojo reikalingumo sąlygoms ir sulaikant nusikalstamą veiką padariusį asmenį.
+Straipsnio dalies pakeitimai:
+Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010ISTA0IX-1424
+ 
 
 
 
@@ -1532,3 +1553,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2000, 2000-10-10, Žin., 2000, Nr. 92-2852 (2000-10-31), i. k. 1001010ISTAIII-2000
 Lietuvos Respublikos kovinių ginklų naudojimo krašto apsaugos sistemoje statuto 30 ir 31 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010ISTA0IX-1424
+Lietuvos Respublikos kovinių ginklų naudojimo krašto apsaugos sistemoje statuto 14, 17 ir 20 straipsnių pakeitimo įstatymas
