@@ -1463,6 +1463,11 @@ straipsnis. Lietuvos banko atleidimas nuo mokesčių
 yra taip pat mokesčio įstatymas. 
 2. Lietuvos bankas nemoka jokių mokesčių ir
 rinkliavų, išskyrus šio įstatymo 24 straipsnio 1 dalyje numatytą įmoką.
+57 straipsnis
+netenka galios nuo 2004 m. gegužės 1 d.
+Straipsnio pakeitimai:
+Nr. IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
  
 58
 straipsnis. Lietuvos banko 2000 metų pelno paskirstymas
@@ -1513,9 +1518,8 @@ reglamentas (EB) 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo
 padirbinėjimo.
 6. 2001 m.
 birželio 28 d. Tarybos reglamentas (EB) 1339/2001, išplečiantis Reglamento (EB)
-Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo klastojimo,
-veikimą toms valstybėms, kurios nėra priėmusios euro kaip savo bendros
-valiutos.
+Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo klastojimo, veikimą
+toms valstybėms, kurios nėra priėmusios euro kaip savo bendros valiutos.
 Įstatymas papildytas priedu:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
@@ -1619,6 +1623,20 @@ Nr. IX-2131,
 2004-04-15, Žin., 2004, Nr. 61-2187 (2004-04-27)
 LIETUVOS BANKO ĮSTATYMO 53
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja nuo 2004
+m. gegužės 1 d.
+ 
+11.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+ĮMONIŲ IR ORGANIZACIJŲ
+NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS
+FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ
+UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS
+TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2004
 m. gegužės 1 d.
  
