@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2003-07-25 iki 2004-02-13
+Suvestinė redakcija nuo 2004-02-14 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
  
@@ -143,6 +143,22 @@ Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA
 15. Gyvūno savininkas – kiekvienas sukakęs 16 metų fizinis ar juridinis asmuo , kuris nuolat ar laikinai augina gyvūną.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+ 
+
+
+
+
+16. Agresyvaus šuns ženklinimas – agresyvaus šuns žymėjimas išorinio ženklinimo žymekliu ir tatuiruote ar implantu – mikroschema.
+Papildyta straipsnio dalimi:
+Nr. IX-1978, 2004-01-27, Žin., 2004, Nr. 25-753 (2004-02-14), i. k. 1041010ISTA0IX-1978
+ 
+
+
+
+
+17. Agresyvaus šuns tapatybės nustatymas – paženklinto agresyvaus šuns ir jo savininko nustatymas (atpažinimas) pagal agresyvaus šuns išorinio ženklinimo žymeklį ir tatuiruotę ar implantą – mikroschemą.
+Papildyta straipsnio dalimi:
+Nr. IX-1978, 2004-01-27, Žin., 2004, Nr. 25-753 (2004-02-14), i. k. 1041010ISTA0IX-1978
  
 
 
@@ -289,7 +305,7 @@ Pavojingi gyvūnai gali būti laikomi ir auginami tik pagal taisykles, kurias nu
 
 
 
-61 straipsnis. Agresyvių šunų įvežimas, įsigijimas, laikymas, registravimas, veisimas, dresavimas, prekyba jais bei jų paėmimas
+61 straipsnis. Agresyvių šunų įvežimas, įsigijimas, laikymas, registravimas, ženklinimas, veisimas, dresavimas, prekyba jais bei jų paėmimas
 
 
 1. Į Lietuvos Respubliką įvežti kovoms išvestų veislių šunis ir jų mišrūnus, juos veisti ir jais prekiauti yra draudžiama.
@@ -297,12 +313,17 @@ Pavojingi gyvūnai gali būti laikomi ir auginami tik pagal taisykles, kurias nu
 
 
 
-2. Kitus agresyvius šunis įvežti į Lietuvos Respubliką, veisti, dresuoti ir jais prekiauti, taip pat agresyvius šunis įsigyti ir laikyti gali tik asmenys, turintys savivaldybės ar Vyriausybės įgaliotos institucijos išduotus leidimus. Agresyvių šunų įvežimo į Lietuvos Respubliką, įsigijimo, laikymo, registravimo, veisimo, dresavimo ir prekybos jais taisykles, kuriose nustatoma taip pat ir leidimų įvežti, įsigyti, laikyti, veisti, dresuoti ir prekiauti išdavimo, sustabdymo ir panaikinimo tvarka, tvirtina Vyriausybė ar jos įgaliota institucija. Šias taisykles įgyvendina ir jų priežiūrą vykdo savivaldybės ir Vyriausybės įgaliotos institucijos.
+2. Kitus agresyvius šunis įvežti į Lietuvos Respubliką, veisti, dresuoti, ženklinti ir jais prekiauti, taip pat agresyvius šunis įsigyti ir laikyti gali tik asmenys, turintys savivaldybės ar Vyriausybės įgaliotos institucijos išduotus leidimus. Agresyvių šunų įvežimo į Lietuvos Respubliką, įsigijimo, laikymo, registravimo, veisimo, dresavimo, ženklinimo, prekybos jais bei agresyvių šunų tapatybės nustatymo taisykles, kuriose nustatoma taip pat ir leidimų įvežti, įsigyti, laikyti, veisti, dresuoti, ženklinti ir prekiauti išdavimo, sustabdymo ir panaikinimo tvarka, tvirtina Vyriausybė ar jos įgaliota institucija. Šias taisykles įgyvendina ir jų priežiūrą vykdo savivaldybės ir Vyriausybės įgaliotos institucijos.
 
 
 
 
-3. Leidimai, nurodyti šio straipsnio 2 dalyje, neišduodami asmenims:
+3. Agresyvūs šunys turi būti ženklinami.
+
+
+
+
+4. Leidimai, nurodyti šio straipsnio 2 dalyje, neišduodami asmenims:
 
 
 1) jaunesniems negu 18 metų;
@@ -320,22 +341,22 @@ Pavojingi gyvūnai gali būti laikomi ir auginami tik pagal taisykles, kurias nu
 
 
 
-4) nepateikusiems pažymos, kad jie yra išklausę atitinkamą mokymo programą, kurią tvirtina Vyriausybės įgaliota institucija;
+4) nepateikusiems pažymos, kad jie yra išklausę atitinkamą Vyriausybės įgaliotos institucijos patvirtintą mokymo programą;
 
 
 
 
-5) gyvenantiems kartu su asmenimis, nurodytais šios dalies 2 ir 3 punktuose.
+5) gyvenantiems kartu su asmenimis, nurodytais šios dalies 2 ir 3 punktuose. 
 
 
 
 
 
 
-4. Savivaldybės ar Vyriausybės įgaliotos institucijos agresyvius šunis gali paimti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka:
+5. Savivaldybės ar Vyriausybės įgaliotos institucijos agresyvius šunis gali paimti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka:
 
 
-1) kai atsiranda šio straipsnio 3 dalies 2, 3 ir 5 punktuose numatyti pagrindai;
+1) kai atsiranda šio straipsnio 4 dalies 2, 3 ir 5 punktuose nurodyti pagrindai;
 
 
 
@@ -345,28 +366,34 @@ Pavojingi gyvūnai gali būti laikomi ir auginami tik pagal taisykles, kurias nu
 
 
 
-3) sustabdžius leidimo laikyti agresyvų šunį galiojimą, iki išnyks leidimo sustabdymo pagrindai;
+3) sustabdžius leidimo laikyti agresyvų šunį galiojimą, kol išnyks leidimo sustabdymo pagrindai;
 
 
 
 
-4) mirus šuns savininkui, iki jo įpėdiniui bus išduotas leidimas laikyti agresyvų šunį;
+4) mirus šuns savininkui, kol jo įpėdiniui bus išduotas leidimas laikyti agresyvų šunį;
 
 
 
 
-5) mirus šuns savininkui, jei įpėdinis nepriėmė palikimo ar įpėdiniui atsisakyta išduoti leidimą laikyti agresyvų šunį.
+5) mirus šuns savininkui, jei įpėdinis nepriėmė palikimo ar įpėdiniui atsisakyta išduoti leidimą laikyti agresyvų šunį;
+
+
+
+
+6) jei agresyvus šuo nepaženklintas.
 
 
 
 
 
 
-5. Šio straipsnio 4 dalies 1, 2 ir 4 punktuose numatytais atvejais paimti agresyvūs šunys realizuojami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Realizavus šunį, gauti pinigai, atskaičius realizavimo išlaidas, grąžinami šuns savininkui ar įpėdiniui (išskyrus atvejį, jeigu įpėdinis nepriėmė palikimo).
+6. Šio straipsnio 5 dalies 1, 2, 4 ir 6 punktuose nurodytais atvejais paimti agresyvūs šunys realizuojami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Realizavus šunį gauti pinigai, atskaičius realizavimo išlaidas, grąžinami šuns savininkui ar įpėdiniui (išskyrus atvejį, jeigu įpėdinis nepriėmė palikimo).
 
 
 Straipsnio pakeitimai:
 Nr. IX-1697, 2003-07-04, Žin., 2003, Nr. 74-3418 (2003-07-25), i. k. 1031010ISTA0IX-1697
+Nr. IX-1978, 2004-01-27, Žin., 2004, Nr. 25-753 (2004-02-14), i. k. 1041010ISTA0IX-1978
  
 
 
@@ -800,3 +827,8 @@ Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 1, 2, 5, 7 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1697, 2003-07-04, Žin., 2003, Nr. 74-3418 (2003-07-25), i. k. 1031010ISTA0IX-1697
 Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 2, 6-1 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1978, 2004-01-27, Žin., 2004, Nr. 25-753 (2004-02-14), i. k. 1041010ISTA0IX-1978
+Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 2, 6(1) straipsnių pakeitimo ir papildymo įstatymas
