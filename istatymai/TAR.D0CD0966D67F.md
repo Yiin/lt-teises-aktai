@@ -2002,8 +2002,11 @@ atributiką ir jos naudojimo tvarką reglamentuoja Savivaldybių atributikos
 herbai yra savivaldybių nuosavybė ir Savivaldybių atributikos įstatymo
 nenumatytais atvejais gali būti naudojami tik savivaldybių tarybų
 leidimu.
-4.
-Savivaldybių vėliavų etaloną tvirtina savivaldybių tarybos.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1568,
+2003-05-20, Žin., 2003, Nr. 54-2371 (2003-06-04)
  
 43 straipsnis.
 Savivaldybių raštvedyba
@@ -2037,9 +2040,9 @@ gali dalyvauti savivaldybės gyventojai, kurie turi teisę rinkti šios
 savivaldybės tarybą.
 5. Atrankinės
 apklausos metu apklausiami gyventojai turi būti parenkami taip, kad kiekvienas,
-kuris galėtų būti apklausiamas, turėtų vienodas galimybes patekti tarp apklausiamųjų.
-Vertinant atrankinių apklausų rezultatus, turi būti nurodomi jų patikimumo
-duomenys.
+kuris galėtų būti apklausiamas, turėtų vienodas galimybes patekti tarp
+apklausiamųjų. Vertinant atrankinių apklausų rezultatus, turi būti nurodomi jų
+patikimumo duomenys.
 6. Apklausa yra
 tiesioginė. Gyventojai apklausoje dalyvauja asmeniškai, jų reiškiamos valios
 kontroliuoti neleidžiama.
@@ -2119,8 +2122,8 @@ iniciatyvinės grupės nariai ir jis pateikiamas merui.
 4. Meras paveda savivaldybės administracijos direktoriui
 spręsti iniciatyvinės grupės įregistravimo klausimą. Savivaldybės
 administracijos direktorius, gavęs iniciatyvinės grupės prašymą, ne vėliau kaip
-per 5 darbo dienas įregistruoja iniciatyvinę grupę ir ne vėliau kaip per 5
-darbo dienas nuo jos įregistravimo išduoda vidaus reikalų ministro patvirtintos
+per 5 darbo dienas įregistruoja iniciatyvinę grupę ir ne vėliau kaip per 5 darbo
+dienas nuo jos įregistravimo išduoda vidaus reikalų ministro patvirtintos
 formos gyventojų parašų dėl reikalavimo paskelbti apklausą rinkimo lapus.
 5. Gyventojų
 iniciatyvos paskelbti apklausą teisei įgyvendinti nustatomas vieno mėnesio
@@ -2158,8 +2161,8 @@ komisiją deleguoti savo atstovą.
 tarybos sprendimas paskelbti apklausą turi būti paskelbtas per vietines
 (regiono) visuomenės informavimo priemones.
 Straipsnio pakeitimai:
-Nr. IX-1327, 2003-01-28,
-Žin., 2003, Nr. 17-704 (2003-02-19)
+Nr. IX-1327,
+2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)
  
 51 straipsnis.
 Apklausos agitacija
@@ -2431,8 +2434,8 @@ VIETOS
 SAVIVALDOS ĮSTATYMO 3, 14, 18, 20, 25, 36, 41 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
 Šis
-Įstatymas, išskyrus 6 straipsnį, įsigalioja nuo Lietuvos Respublikos
-Konstitucijos 119 straipsnio pakeitimo įstatymo įsigaliojimo dienos.
+Įstatymas, išskyrus 6 straipsnį, įsigalioja nuo Lietuvos Respublikos Konstitucijos
+119 straipsnio pakeitimo įstatymo įsigaliojimo dienos.
  
 23.
 Lietuvos
@@ -2525,6 +2528,14 @@ Nr. IX-1514,
 VIETOS
 SAVIVALDOS ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+32.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1568,
+2003-05-20, Žin., 2003, Nr. 54-2371 (2003-06-04)
+VIETOS
+SAVIVALDOS ĮSTATYMO 42 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -2554,6 +2565,6 @@ RESPUBLIKOS KONSTITUCIJAI
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-05)
+Aušrinė Trapinskienė (2003-06-05)
                  
 autrap@lrs.lt
