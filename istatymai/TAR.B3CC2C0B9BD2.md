@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2004-04-15 iki 2004-04-29
+Suvestinė redakcija nuo 2004-04-30 iki 2009-12-27
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
  
@@ -172,7 +172,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-18. Paviršinis vandens telkinys – identifikuota reikšminga vandens aplinkos dalis, esanti žemės paviršiuje, tai yra: upė ar jos dalis, kanalas, ežeras, tvenkinys, kūdra, rekultivuotas į vandens telkinį karjeras. Prie paviršinių vandens telkinių taip pat priskiriami tarpinių ir priekrantės vandenų plotai.
+18. Paviršinis vandens telkinys – identifikuota reikšminga vandens aplinkos dalis, esanti žemės paviršiuje, tai yra: upė ar jos dalis, kanalas, ežeras, tvenkinys, kūdra, rekultivuotas į vandens telkinį karjeras. Prie paviršinių vandens telkinių taip pat priskiriami tarpinių ir pakrantės vandenų plotai. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
+ 
 
 
 
@@ -202,7 +205,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-24. Priekrantės vandenys – Baltijos jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus ir teritorinius vandenis skiriančios linijos.
+24. Pakrantės vandenys – Baltijos jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus ir teritorinius vandenis skiriančios linijos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
+ 
 
 
 
@@ -237,7 +243,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-31. Upių baseinų rajonas – šio Įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vieno ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais bei tarpiniais ir priekrančių vandenimis.
+31. Upių baseinų rajonas – šio Įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vieno ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais bei tarpiniais ir pakrančių vandenimis.
+Straipsnio dalies pakeitimai:
+Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
+ 
 
 
 
@@ -725,7 +734,10 @@ Vandens apsauga ir valdymas organizuojami upių baseinų rajonų pagrindu. Šiuo
 
 
 
-4. Priekrančių vandenys identifikuojami ir priskiriami artimiausiam arba valdymo požiūriu tinkamiausiam upių baseinų rajonui ar rajonams.
+4. Pakrančių vandenys identifikuojami ir priskiriami artimiausiam arba valdymo požiūriu tinkamiausiam upių baseinų rajonui ar rajonams.
+Straipsnio dalies pakeitimai:
+Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
+ 
 
 
 
@@ -1117,3 +1129,8 @@ Lietuvos Respublikos vandens įstatymo 10 ir 13 straipsnių pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2089, 2004-03-30, Žin., 2004, Nr. 54-1833 (2004-04-15), i. k. 1041010ISTA0IX-2089
 Lietuvos Respublikos vandens įstatymo 14 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
+Lietuvos Respublikos vandens įstatymo 3 ir 19 straipsnių pakeitimo įstatymas
