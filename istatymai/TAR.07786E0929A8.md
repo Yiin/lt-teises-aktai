@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 1997-12-31 iki 2000-07-04
+Suvestinė redakcija nuo 2000-07-05 iki 2000-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
  
@@ -657,32 +657,18 @@ PATENTO GALIOJIMAS
 26 straipsnis. Patento savininko teisės
 
 
-Jeigu išduotas gaminio (įrenginio, medžiagos ir pan.) patentas, be patento savininko leidimo kitas asmuo neturi teisės atlikti šių veiksmų:
-
-
-1) gaminti gaminį naudodamas patentuotą išradimą;
-
-
-
-
-2) siūlyti, įvežti ar tiekti bei kaupti rinkai patentuotą gaminį.
+Kai patento objektas yra gaminys, patento savininkas turi išimtinę teisę drausti kitiems asmenims be jo leidimo gaminti, naudoti, siūlyti parduoti, parduoti, importuoti ar eksportuoti tą gaminį
+Straipsnio dalies pakeitimai:
+Nr. VIII-1738, 2000-06-15, Žin., 2000, Nr. 54-1560 (2000-07-05), i. k. 1001010ISTAIII-1738
+ 
 
 
 
 
-
-
-Jeigu išduotas būdo patentas, be patento savininko leidimo kiti asmenys neturi teisės atlikti šių veiksmų:
-
-
-1) naudoti patentuotą būdą;
-
-
-
-
-2) atlikti šio straipsnio pirmosios dalies 2 punkte nurodytus veiksmus su bet kuriuo tuo būdu pagamintu gaminiu, net jeigu šis gaminys negali būti patentuojamas.
-
-
+Kai patento objektas yra gaminio gamybos būdas, patento savininkas turi išimtinę teisę drausti kitiems asmenims be jo leidimo naudoti tą būdą bei naudoti, siūlyti parduoti, parduoti, importuoti ar eksportuoti tiesiogiai tuo būdu gautą gaminį.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1738, 2000-06-15, Žin., 2000, Nr. 54-1560 (2000-07-05), i. k. 1001010ISTAIII-1738
+ 
 
 
 
@@ -999,39 +985,93 @@ PRIVERSTINĖ LICENCIJA
  
 
 
-38 straipsnis. Priverstinė licencija
-
-
-Jei patento saugomas išradimas, praėjus ketveriems metams nuo paraiškos padavimo datos arba trejiems – nuo patento išdavimo datos (taikomas vėlesnis terminas), nenaudojamas arba nepakankamai naudojamas, o norinčiajam jį naudoti neišduodama licencija, teismas bet kuriam asmeniui, galinčiam įrodyti savo sugebėjimą naudoti patentuotą išradimą, prašant gali išduoti neišimtinę priverstinę licenciją. Už priverstinės licencijos išdavimą patento savininkui turi būti sumokėtas atlyginimas, kurio dydį nustato teismas.
-
-
-
-
-Priverstinė licencija neišduodama, jeigu teismas nusprendžia, jog yra aplinkybių, kurios pateisina patentuoto išradimo nenaudojimą ar nepakankamą naudojimą Lietuvos Respublikoje.
-
-
-
-
-Jeigu išdavus priverstinę licenciją išradimas ir toliau nenaudojamas arba nepakankamai naudojamas, teismas pagal suinteresuotųjų asmenų ieškinį patentą gali panaikinti. Patentą panaikinti galima tik praėjus dvejiems metams nuo pirmosios priverstinės licencijos išdavimo datos.
+38 straipsnis. Neteko galios nuo 2000-07-05
+Straipsnio naikinimas:
+Nr. VIII-1738, 2000-06-15, Žin. 2000, Nr. 54-1560 (2000-07-05), i. k. 1001010ISTAIII-1738
  
 
 
 
 
+39 straipsnis. Išradimo naudojimas su Lietuvos Respublikos Vyriausybės leidimu
 
 
-39 straipsnis. Lietuvos Respublikos Vyriausybės sankcionuotas išradimo naudojimas
+Lietuvos Respublikos Vyriausybė gali priimti nutarimą leisti valstybės ar savivaldybės institucijai, fiziniam arba juridiniam asmeniui, taip pat įmonei, neturinčiai juridinio asmens teisių, be patento savininko sutikimo naudoti patentuotą išradimą Lietuvos Respublikos rinkoje, jeigu:
 
 
-Lietuvos Respublikos Vyriausybė, atsižvelgdama į valstybės ar visuomenės interesus, gali be patento savininko sutikimo priimti nutarimą leisti įmonei arba asmeniui naudoti patentuotą išradimą ir už jį patento savininkui sumokėti atlyginimą. Patento savininkas, nesutinkąs su Vyriausybės nustatytu atlyginimo dydžiu, gali kreiptis į teismą.
+1) patentu saugomas išradimas yra susijęs su visuomenės poreikiais, nacionaliniu saugumu bei visuomenės sveikatos apsauga, ekonomiškai svarbių sektorių plėtra;
 
 
 
 
-Valstybinis patentų biuras, gavęs Lietuvos Respublikos Vyriausybės nutarimą dėl sankcionuoto išradimo naudojimo, jį skelbia savo oficialaus biuletenio artimiausiame numeryje.
+2) teismas nusprendžia, kad patento savininko ar licenciato išradimo naudojimo būdas riboja konkurenciją.
+
+
+
+
+
+
+Išradimas gali būti naudojamas tik tam tikslui, dėl kurio buvo priimtas nutarimas. Už išradimo naudojimą patento savininkui turi būti teisingai atlyginama, atsižvelgiant į išradimo ekonominę vertę. 
+
+
+
+
+Jei patento savininkas ar asmuo, kuriam leista naudoti patentuotą išradimą, prašo, Lietuvos Respublikos Vyriausybė, atsižvelgdama į jų argumentus, gali pakeisti patentuoto išradimo naudojimo sąlygas bei leidimo galiojimo laiką.
+
+
+
+
+Kai leidimas naudoti patentuotą išradimą duodamas patento, kuris patobulina jau anksčiau patentuotą išradimą (antrojo patento), savininkui ir tai gali pažeisti pirmojo patento savininko išimtines teises, Lietuvos Respublikos Vyriausybė prieš priimdama šį nutarimą atsižvelgia į papildomas sąlygas:
+
+
+1) išradimas, patentuotas antruoju patentu, reiškia didelę techninę pažangą bei turi svarią ekonominę reikšmę palyginti su pirmuoju patentuotu išradimu;
+
+
+
+
+2) pirmojo patento savininkas turi teisę į abipusę licenciją (leidimą vienas kitam naudotis patentuotais išradimais), kad galėtų naudoti antruoju patentu patentuotą išradimą;
+
+
+
+
+3) leidimu suteikta teisė naudoti pirmuoju patentu patentuotą išradimą negali būti perleidžiama, išskyrus atvejus, kai perleidžiamas antrasis patentas.
+
+
+
+
+
+
+Lietuvos Respublikos Vyriausybė gali pripažinti nutarimą netekusiu galios, jeigu aplinkybės, dėl kurių buvo leista naudoti patentuotą išradimą, išnyko arba jeigu valstybės ar savivaldybės institucija, fizinis arba juridinis asmuo, taip pat įmonė, neturinti juridinio asmens teisių, naudoja patentuotą išradimą ne tuo tikslu, kuriam buvo priimtas nutarimas.
+
+
+
+
+Leidimas naudoti išradimą turi būti neišimtinis, t.y. patento savininkas nepraranda teisės pats naudoti patentuotą išradimą ir neuždraudžia patento savininkui sudaryti licencines sutartis dėl patentuoto išradimo naudojimo bei toliau naudoti patentuotą išradimą ar kitaip įgyvendinti savo teises.
+
+
+
+
+Leidimas naudoti patentuotą išradimą negali būti perleistas, išskyrus, kai įstatymų nustatyta tvarka yra perleidžiama įmonė (jos dalis), kurioje naudojamas patentuotas išradimas. 
+
+
+
+
+Prie prašymo leisti naudoti patentuotą išradimą turi būti pridedami įrodymai, patvirtinantys, kad leidimo siekiantis asmuo prašė, bet negavo patento savininko leidimo naudoti patentuotą išradimą. Ši nuostata netaikoma ekstremalių situacijų ar kitų ekstremalių įvykių šalyje atvejais arba naudojant patentuotą išradimą nekomerciniais tikslais visuomenės poreikiams. Patento savininkas apie rengiamą nutarimą leisti naudoti patentuotą išradimą bei apie ketinimą naudoti patentuotą išradimą šio straipsnio 1 dalies 1 punkte numatytais tikslais turi būti informuotas raštu. 
+
+
+
+
+Lietuvos Respublikos Vyriausybės nutarimai dėl leidimo be patento savininko sutikimo naudoti patentuotą išradimą gali būti skundžiami teismui įstatymų nustatyta tvarka.
+
+
+
+
+Valstybinis patentų biuras, gavęs Lietuvos Respublikos Vyriausybės nutarimą dėl leidimo naudoti išradimą, informaciją apie leidimą skelbia savo oficialaus biuletenio artimiausiame numeryje.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1738, 2000-06-15, Žin., 2000, Nr. 54-1560 (2000-07-05), i. k. 1001010ISTAIII-1738
  
-
-
 
 
 
@@ -1054,19 +1094,28 @@ Ginčus dėl išradimų patentavimo ir naudojimo nagrinėja šios institucijos:
 
 
 
-2) kol pradės veikti Lietuvos Respublikos Konstitucijoje numatyti teismai – Lietuvos Aukščiausiasis Teismas, o po to – Vilniaus apygardos teismas ginčus dėl:
-Valstybinio patentų biuro Apeliacinio skyriaus sprendimo atsisakyti išduoti patentą;
-patentinės paraiškos ar patento nuosavybės teisės pripažinimo kitam asmeniui;
-išduoto patento pripažinimo visiškai ar iš dalies negaliojančiu;
-paskelbtos patentinės paraiškos, kuriai suteikta laikina apsauga, pažeidimo;
-išduoto patento pažeidimo;
-patento pažeidimo fakto nebuvimo nustatymo;
-priverstinės licencijos išdavimo ir patento panaikinimo.
+2) Vilniaus apygardos teismas ginčus dėl: 
+Valstybinio patentų biuro Apeliacinio skyriaus sprendimo atsisakyti išduoti patentą; 
+patentinės paraiškos ar patento nuosavybės teisės pripažinimo kitam asmeniui; 
+išduoto patento pripažinimo visiškai ar iš dalies negaliojančiu; 
+paskelbtos patentinės paraiškos, kuriai suteikta laikina apsauga, pažeidimo; 
+išduoto patento pažeidimo; 
+patento pažeidimo fakto nebuvimo nustatymo; 
+patento panaikinimo. 
 Straipsnio punkto pakeitimai:
 Nr. I-638, 1994-11-08, Žin., 1994, Nr. 89-1713 (1994-11-18), i. k. 0941010ISTA000I-638
+Nr. VIII-1738, 2000-06-15, Žin., 2000, Nr. 54-1560 (2000-07-05), i. k. 1001010ISTAIII-1738
  
 
 
+
+
+
+
+Ginčai dėl Lietuvos Respublikos Vyriausybės nutarimo dėl leidimo naudoti patentuotą išradimą suteikimo, patentuoto išradimo naudojimo su Vyriausybės leidimu sąlygų pakeitimo, atlyginimo patentuoto išradimo savininkui už tokio patento naudojimą dydžio nustatymo bei leidimo panaikinimo sprendžiami įstatymų nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. VIII-1738, 2000-06-15, Žin., 2000, Nr. 54-1560 (2000-07-05), i. k. 1001010ISTAIII-1738
+ 
 
 
 
@@ -1605,3 +1654,8 @@ Lietuvos Respublikos patentų įstatymo 34 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-590, 1997-12-23, Žin., 1997, Nr. 119-3078 (1997-12-31), i. k. 0971010ISTAVIII-590
 Lietuvos Respublikos patentų įstatymo 7, 8, 22 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1738, 2000-06-15, Žin., 2000, Nr. 54-1560 (2000-07-05), i. k. 1001010ISTAIII-1738
+Lietuvos Respublikos patentų įstatymo 26, 39, 40 straipsnių pakeitimo ir papildymo bei 38 straipsnio pripažinimo netekusiu galios įstatymas
