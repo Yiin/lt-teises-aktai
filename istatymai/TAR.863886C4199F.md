@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.863886C4199F"
 
 # Lietuvos Respublikos muziejų įstatymas
 
+Suvestinė redakcija nuo 1997-07-09 iki 1999-03-18
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 53-1292, i. k. 0951010ISTA000I-930
+ 
 LIETUVOS RESPUBLIKOS
 MUZIEJŲ
 ĮSTATYMAS
@@ -304,7 +308,10 @@ Respublikinius muziejus steigia Kultūros ministerija bei kitos valstybės valdy
 
 
 
-Apskrities muziejus steigia apskričių valdytojai.
+Apskrities muziejus steigia apskričių viršininkai. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-319, 1997-06-26, Žin., 1997, Nr. 65-1546 (1997-07-09), i. k. 0971010ISTAVIII-319
+ 
 
 
 
@@ -581,10 +588,10 @@ V. MUZIEJŲ VEIKLOS REGULIAVIMAS
 
 
 
-21 straipsnis. Apskrities valdytojo kompetencija muziejų veiklos reguliavimo srityje
+21 straipsnis. Apskrities viršininko kompetencija muziejų veiklos reguliavimo srityje
 
 
-Apskrities valdytojas pagal savo kompetenciją:
+Apskrities viršininkas pagal savo kompetenciją:
 
 
 1) steigia, finansuoja ir kontroliuoja apskrities muziejus;
@@ -602,12 +609,14 @@ Apskrities valdytojas pagal savo kompetenciją:
 
 
 
-4) esant bendram susitarimui, kooperuoja apskrities teritorijoje esančių savivaldybių lėšas bendroms muziejų programoms finansuoti.
+4) esant bendram susitarimui, kooperuoja apskrities teritorijoje esančių savivaldybių lėšas bendroms muziejų programoms finansuoti. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. VIII-319, 1997-06-26, Žin., 1997, Nr. 65-1546 (1997-07-09), i. k. 0971010ISTAVIII-319
  
-
-
-
-
 
 
 
@@ -705,3 +714,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-319, 1997-06-26, Žin., 1997, Nr. 65-1546 (1997-07-09), i. k. 0971010ISTAVIII-319
+Lietuvos Respublikos muziejų įstatymo 9 ir 21 straipsnių pakeitimo įstatymas
