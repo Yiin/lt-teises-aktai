@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
 
+Suvestinė redakcija nuo 2004-04-29 iki 2004-07-23
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
+ 
 LIETUVOS RESPUBLIKOS
 BIOMEDICININIŲ TYRIMŲ ETIKOS
 Į S T A T Y M A S
@@ -56,7 +60,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Pagrindinis tyrėjas – mokslininkas, turintis sutartinius santykius su biomedicininio tyrimo užsakovu ir sveikatos priežiūros įstaigomis, kuriose atliekami biomedicininiai tyrimai. Jeigu biomedicininį tyrimą atlieka grupė, tai jos nariai vadinami tyrėjais, kuriems reikalavimus nustato pagrindinis tyrėjas – grupės vadovas. Tyrimų su medicinos dokumentais atveju pagrindiniu tyrėju laikomas mokslininkas arba turintis medicinos praktikos licenciją gydytojas, turintis sutartinius santykius su biomedicininio tyrimo užsakovu ir sveikatos priežiūros įstaigomis, kuriose atliekami biomedicininiai tyrimai. 
+3. Tyrėjas – gydytojas ar asmuo, kuris gali atlikti biomedicininį tyrimą, nes turi atitinkamą išsilavinimą ir pacientų priežiūros patirties. Tyrėjas atsako už biomedicininį tyrimą, atliekamą tyrimo vietoje. Jei biomedicininį tyrimą tyrėjas atlieka vienas arba tyrimo atlikimo vietoje vadovauja tyrimą atliekančių asmenų grupei ir yra atsakingas už šios grupės veiklą, tyrėjas vadinamas pagrindiniu tyrėju. Kvalifikacinius reikalavimus pagrindiniam tyrėjui nustato Sveikatos apsaugos ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
+ 
 
 
 
@@ -66,7 +73,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Tiriamasis – asmuo, kuriam atliekamas biomedicininis tyrimas. 
+5. Tiriamasis – asmuo, dalyvaujantis biomedicininiame tyrime. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
+ 
 
 
 
@@ -102,6 +112,13 @@ BENDROSIOS NUOSTATOS
 
 
 12. Moralinė žala – žala, atsiradusi dėl medicinos etikos reikalavimų neatitinkančios pagrindinio tyrėjo ir kitų biomedicininį tyrimą atliekančių asmenų veikos. Šiuos medicinos etikos reikalavimus nustato Lietuvos bioetikos komitetas. 
+
+
+
+
+13. Klinikinis vaistinio preparato tyrimas – visi su žmonėmis susiję biomedicininiai tyrimai, skiriami nustatyti, patikrinti ir patvirtinti vieno arba kelių tiriamųjų vaistinių preparatų klinikinį, farmakologinį ir (arba) kitokį farmakodinaminį poveikį, ir (arba) nustatyti nepageidaujamas reakcijas į vieną ar kelis tiriamuosius vaistinius preparatus, ir (arba) ištirti vieno ar kelių tiriamųjų preparatų absorbciją, pasiskirstymą, metabolizmą ir išsiskyrimą, siekiant nustatyti tiriamojo vaistinio preparato saugą ir (arba) veiksmingumą.
+Papildyta straipsnio dalimi:
+Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
  
 
 
@@ -410,20 +427,22 @@ BIOMEDICININIŲ TYRIMŲ ATLIKIMO KONTROLĖS TVARKA
 12 straipsnis. Leidimus išduodančios institucijos
 
 
-1. Biomedicininiai tyrimai Lietuvoje gali būti atliekami tik gavus Lietuvos bioetikos komiteto ar Regioninio biomedicininių tyrimų etikos komiteto leidimą. Biomedicininių tyrimų atlikimas neturint leidimo yra neteisėtas. 
+1. Biomedicininiai tyrimai Lietuvoje gali būti atliekami tik gavus šio straipsnio 2 dalyje nurodytų institucijų leidimą. Biomedicininių tyrimų atlikimas neturint leidimo yra neteisėtas. 
 
 
 
 
-2. Leidimus išduoda Lietuvos bioetikos komitetas, kuris turi teisę šias funkcijas perduoti Regioniniam biomedicininių tyrimų etikos komitetui. Jei Regioninis biomedicininių tyrimų etikos komitetas netinkamai atlieka šias funkcijas, teisė išduoti leidimus gali būti panaikinta motyvuotu Lietuvos bioetikos komiteto sprendimu.
+2. Leidimus atlikti biomedicininį tyrimą, išskyrus klinikinį vaistinio preparato tyrimą, išduoda Lietuvos bioetikos komitetas, kuris turi teisę šias funkcijas perduoti Regioniniam biomedicininių tyrimų etikos komitetui. Jei Regioninis biomedicininių tyrimų etikos komitetas šias funkcijas atlieka netinkamai, teisė išduoti leidimus gali būti panaikinta motyvuotu Lietuvos bioetikos komiteto pritarimu. 
 
 
 
 
-3. Leidimai vaistų klinikiniams tyrimams išduodami Valstybinės vaistų kontrolės tarnybos teikimu. 
+3. Leidimus atlikti klinikinį vaistinio preparato tyrimą išduoda Valstybinė vaistų kontrolės tarnyba prie Sveikatos apsaugos ministerijos Lietuvos bioetikos komiteto ar Regioninio biomedicininių tyrimų etikos komiteto pritarimu. Leidimų atlikti klinikinį vaistinio preparato tyrimą išdavimo tvarką nustato Sveikatos apsaugos ministerija.
+
+
+Straipsnio pakeitimai:
+Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
  
-
-
 
 
 
@@ -675,3 +694,29 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+
+
+
+
+Lietuvos Respublikos
+2000 m. gegužės 11 d.
+įstatymo Nr. VIII-1679
+priedas
+ 
+ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+ 
+2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių narių įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo.
+Papildyta priedu:
+Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
+Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 2, 12 straipsnių pakeitimo bei papildymo ir įstatymo papildymo priedu įstatymas
