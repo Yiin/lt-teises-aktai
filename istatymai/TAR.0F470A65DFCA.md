@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2004-01-01 iki 2004-07-26
+Suvestinė redakcija nuo 2004-07-27 iki 2005-07-11
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
  
@@ -72,7 +72,10 @@ Programos lėšas (įplaukas) sudaro:
 
 
 
-3) lėšos iš baudų  už išmetamus į aplinką normatyvus viršijančius teršalų kiekius, už nuslėptus teršalų ar gamtos išteklių kiekius;
+3) lėšos, gautos kaip didesnio tarifo mokestis už aplinkos teršimą, kai šis mokestis taikomas už nuslėptą teršalų ir apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį, už normatyvus viršijantį teršalų kiekį, taip pat lėšos iš baudų už nuslėptą, limitus viršijantį, sugadintą valstybinių gamtos išteklių kiekį ar valstybinių gamtos išteklių, kurių panaudojimo sąlygos buvo pablogintos, kiekį;
+Straipsnio punkto pakeitimai:
+Nr. IX-2380, 2004-07-15, Žin., 2004, Nr. 116-4328 (2004-07-27), i. k. 1041010ISTA0IX-2380
+ 
 
 
 
@@ -231,4 +234,9 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3, 4 straipsn
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1611, 2003-06-10, Žin., 2003, Nr. 61-2764 (2003-06-27), i. k. 1031010ISTA0IX-1611
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2380, 2004-07-15, Žin., 2004, Nr. 116-4328 (2004-07-27), i. k. 1041010ISTA0IX-2380
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio pakeitimo įstatymas
