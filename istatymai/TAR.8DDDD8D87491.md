@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
+Suvestinė redakcija nuo 2000-07-26 iki 2001-12-31
+ 
+Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
+ 
 LIETUVOS RESPUBLIKOS
 GYVŪNŲ GLOBOS, LAIKYMO IR NAUDOJIMO
 Į S T A T Y M A S
@@ -246,7 +250,10 @@ Pavojingi gyvūnai gali būti laikomi ir auginami tik pagal taisykles, kurias nu
 7 straipsnis. Gyvūnų vežimas
 
 
-1. Gyvūnai turi būti vežami laikantis vežimo taisyklių, kurias tvirtina Žemės ir miškų ūkio ministerija kartu su Valstybine veterinarijos tarnyba. 
+1. Gyvūnai turi būti vežami laikantis vežimo taisyklių, kurias tvirtina Žemės ūkio ministerija kartu su Valstybine maisto ir veterinarijos tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
+ 
 
 
 
@@ -298,7 +305,10 @@ Prekiauti naminiais ir dekoratyviniais gyvūnais leidžiama savivaldos instituci
 9 straipsnis. Gyvūnų skerdimas
 
 
-1. Skerdyklose gyvūnai turi būti apsvaiginami ir skerdžiami Valstybinės veterinarijos tarnybos patvirtintais būdais ir konkrečiai gyvūnų rūšiai pritaikytais instrumentais. 
+1. Skerdyklose gyvūnai turi būti apsvaiginami ir skerdžiami Valstybinės maisto ir veterinarijos tarnybos patvirtintais būdais ir konkrečiai gyvūnų rūšiai pritaikytais instrumentais.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
+ 
 
 
 
@@ -313,7 +323,9 @@ Prekiauti naminiais ir dekoratyviniais gyvūnais leidžiama savivaldos instituci
 
 
 
-4. Skersti gyvūnus pagal religinius ritualus be išankstinio apsvaiginimo leidžiama turint veterinarijos tarnybos išduotą leidimą.
+4. Skersti gyvūnus pagal religinius ritualus be išankstinio apsvaiginimo leidžiama tik turint Valstybinės maisto ir veterinarijos tarnybos leidimą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
  
 
 
@@ -329,7 +341,10 @@ Prekiauti naminiais ir dekoratyviniais gyvūnais leidžiama savivaldos instituci
 
 
 
-2. Apmokyti ir išduoti leidimus operuoti gyvūnus turi teisę tik veterinarijos tarnyba. Operacijų, kurias leidžiama atlikti specialiai apmokytiems asmenims, sąrašus tvirtina Valstybinė veterinarijos tarnyba.
+2. Apmokyti ir išduoti leidimus operuoti gyvūnus turi teisę tik veterinarijos tarnyba. Operacijų, kurias leidžiama atlikti specialiai apmokytiems asmenims, sąrašus tvirtina Valstybinė maisto ir veterinarijos tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
+ 
 
 
 
@@ -361,7 +376,10 @@ Prekiauti naminiais ir dekoratyviniais gyvūnais leidžiama savivaldos instituci
 12 straipsnis. Laukinių gyvūnų gaudymas, laikymas ir jaukinimas
 
 
-1. Juridiniai ir fiziniai asmenys gali gaudyti, laikyti ir jaukinti laukinius gyvūnus tik gavę Aplinkos apsaugos ministerijos leidimą ir laikydamiesi jos nustatytos tvarkos.
+1. Juridiniai ir fiziniai asmenys gali gaudyti, laikyti ir jaukinti laukinius gyvūnus tik gavę Aplinkos ministerijos leidimą ir laikydamiesi jos nustatytos tvarkos.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
+ 
 
 
 
@@ -377,7 +395,10 @@ Prekiauti naminiais ir dekoratyviniais gyvūnais leidžiama savivaldos instituci
 13 straipsnis. Gyvūnų naudojimas zoologinėms kolekcijoms
 
 
-1. Juridiniai ir fiziniai asmenys rinkti zoologines kolekcijas (zoologijos sodams, okeanariumams, terariumams, taip pat gyvūnų iškamšų ir kitas) gali tik gavę Aplinkos apsaugos ministerijos leidimą.
+1. Juridiniai ir fiziniai asmenys rinkti zoologines kolekcijas (zoologijos sodams, okeanariumams, terariumams, taip pat gyvūnų iškamšų ir kitas) gali tik gavę Aplinkos ministerijos leidimą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
+ 
 
 
 
@@ -387,7 +408,9 @@ Prekiauti naminiais ir dekoratyviniais gyvūnais leidžiama savivaldos instituci
 
 
 
-3. Laukinių gyvūnų paėmimo iš aplinkos zoologinėms kolekcijoms tvarką, taip pat gyvūnų laikymo nelaisvėje taisykles tvirtina Aplinkos apsaugos ministerija ir Valstybinė veterinarijos tarnyba.
+3. Laukinių gyvūnų paėmimo iš aplinkos zoologinėms kolekcijoms tvarką, taip pat gyvūnų laikymo nelaisvėje taisykles tvirtina Aplinkos ministerija ir Valstybinė maisto ir veterinarijos tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
  
 
 
@@ -423,12 +446,17 @@ Prekiauti naminiais ir dekoratyviniais gyvūnais leidžiama savivaldos instituci
 
 
 
-4. Laboratorinių gyvūnų veisimą, auginimą, laikymą ir naudojimą bandymams reguliuoja Valstybinės veterinarijos tarnybos patvirtintos taisyklės.
+4. Laboratorinių gyvūnų veisimą, auginimą, laikymą ir naudojimą bandymams reguliuoja Valstybinės maisto ir veterinarijos tarnybos patvirtintos taisyklės.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
+ 
 
 
 
 
-5. Gyvūnų naudojimą bandymams kontroliuoja Vyriausybės įgaliotų institucijų patvirtinta Lietuvos laboratorinių gyvūnų naudojimo etikos komisija prie Valstybinės veterinarijos tarnybos, sudaryta iš suinteresuotų institucijų ir organizacijų atstovų. Leidimus atlikti bandymus su stuburiniais gyvūnais išduoda Valstybinė veterinarijos tarnyba Lietuvos laboratorinių gyvūnų naudojimo etikos komisijos teikimu.
+5. Gyvūnų naudojimą bandymams kontroliuoja Vyriausybės įgaliotų institucijų patvirtinta Lietuvos laboratorinių gyvūnų naudojimo etikos komisija prie Valstybinės maisto ir veterinarijos tarnybos, sudaryta iš suinteresuotų institucijų ir organizacijų atstovų. Leidimus atlikti bandymus su stuburiniais gyvūnais išduoda Valstybinė maisto ir veterinarijos tarnyba Lietuvos laboratorinių gyvūnų naudojimo etikos komisijos teikimu.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
  
 
 
@@ -624,3 +652,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
+Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 7, 9, 10, 12, 13, 14 straipsnių pakeitimo įstatymas
