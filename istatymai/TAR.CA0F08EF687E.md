@@ -111,9 +111,25 @@ socialinio draudimo įmokos, baudos, delspinigiai bei kitos pajamos, gautinos
 taikant sankcijas, asignavimai iš valstybės biudžeto, atgautos į ankstesnių
 metų Fondo biudžeto išlaidas iškeltos abejotinai atgautinos sumos, Fondo
 biudžeto veiklos pajamos ir iš turimo kapitalo gaunamos pajamos.
+ 
+[2
+dalies redakcija nuo 2003 m. sausio 1 d.:
+2.
+Fondo biudžeto pajamas sudaro draudėjų ir apdraustųjų valstybinio socialinio
+draudimo įmokos, individualių (personalinių) įmonių savininkų, individualių
+(personalinių) įmonių nuomininkų, advokatų, advokatų padėjėjų, notarų, tikrųjų
+ūkinių bendrijų narių, komanditinių ūkinių bendrijų tikrųjų narių, verslo
+liudijimus turinčių asmenų bei ūkininkų valstybinio socialinio  draudimo
+įmokos, valstybinio savanoriškojo socialinio  draudimo įmokos, baudos,
+delspinigiai bei kitos pajamos, gautinos taikant sankcijas, asignavimai iš
+valstybės biudžeto, atgautos į ankstesnių metų Fondo biudžeto išlaidas iškeltos
+abejotinai atgautinos sumos, Fondo biudžeto veiklos pajamos ir iš turimo
+kapitalo gaunamos pajamos.]
 Straipsnio pakeitimai:
-Nr. IX-871,
-2002-05-07, Žin., 2002, Nr. 52-1984 (2002-05-24)
+Nr. IX-871, 2002-05-07,
+Žin., 2002, Nr. 52-1984 (2002-05-24)
+Nr. IX-1266,
+2002-12-10, Žin., 2002, Nr. 123-5551 (2002-12-24), įsigalioja nuo 2003-01-01
  
 4 straipsnis Fondo biudžeto pajamų planavimas
 1.
@@ -153,8 +169,8 @@ pajamų kitimą per paskutinius dvejus metus.
 5
 straipsnis. Fondo biudžeto išlaidos
 1.
-Fondo biudžeto pajamų ir išlaidų biudžetinių metų plane ir Fondo biudžeto
-vykdymo ataskaitoje parodomos biudžetiniams metams priskirtinos Fondo biudžeto
+Fondo biudžeto pajamų ir išlaidų biudžetinių metų plane ir Fondo biudžeto vykdymo
+ataskaitoje parodomos biudžetiniams metams priskirtinos Fondo biudžeto
 išlaidos, neatsižvelgiant į mokėjimo laiką. Pinigų srautų plane ir ataskaitoje
 parodomos faktinės pinigų išlaidos.
 2.
@@ -238,8 +254,8 @@ laiku nepervestas lėšas draudėjams pašalpoms mokėti, nekilnojamojo turto ir
 įmokų administravimu bei su išmokų, finansuojamų iš valstybės biudžeto,
 mokėjimu.]
 Straipsnio pakeitimai:
-Nr. IX-871, 2002-05-07,
-Žin., 2002, Nr. 52-1984 (2002-05-24)
+Nr. IX-871,
+2002-05-07, Žin., 2002, Nr. 52-1984 (2002-05-24)
  
 7
 straipsnis. Fondo rezervas ir kasos apyvartos lėšos
@@ -412,7 +428,7 @@ straipsnis. Baigiamosios nuostatos
 Įsigaliojus
 šiam Įstatymui, netenka galios:
 1)
-Valstybinio socialinio draudimo fondo biudžeto sandaros laikinasis įstatymas
+Valstybinio socialinio draudimo fondo biudžeto sandaros laikinasis įstatymas 
 (Žin., 1999, Nr. 110-3206);
 2)
 Valstybinio socialinio draudimo fondo biudžeto sandaros laikinojo įstatymo 4, 7
@@ -454,17 +470,26 @@ dalies nuostata, kad Fondo biudžeto veiklos sąnaudas sudaro ir Fondo įstaigų
 darbuotojų darbo apmokėjimo bei jų valstybinio socialinio draudimo sąnaudos,
 įsigalioja nuo 2002 m. liepos 1 d.
 Šis Įstatymas,
-išskyrus 1 straipsnį, įsigalioja nuo 2004 m. sausio 1 d.(pakeistas įstatymo
+išskyrus 1 straipsnį, įsigalioja nuo 2004 m. sausio 1 d. (pakeistas įstatymo
 įsigaliojimas) 
 Tai nusako:
-Lietuvos Respublikos Seimas,
-Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. IX-1230,
 2002-12-10, Žin., 2002, Nr. 123-5522 (2002-12-24)
-VALSTYBINIO
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 5, 6 IR 7 STRAIPSNIŲ
-PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+VALSTYBINIO SOCIALINIO DRAUDIMO
+FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 5, 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 5
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-1266,
+2002-12-10, Žin., 2002, Nr. 123-5551 (2002-12-24)
+VALSTYBINIO SOCIALINIO DRAUDIMO
+FONDO BIUDŽETO SANDAROS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas
+įsigalioja nuo 2003 m. sausio 1 d.
  
 *** Pabaiga ***
  
