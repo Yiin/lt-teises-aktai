@@ -20,6 +20,8 @@ Redagavo: Ramunė Lūžaitė (1997
 
 Įstatymas
 skelbtas: Žin., 1996, Nr.66-1572
+Nauja
+įstatymo redakcija skelbta: Žin., 1998, Nr.109-2995
 Neoficialus
 įstatymo tekstas
  
@@ -101,15 +103,14 @@ užsakovai.
 sveikatos priežiūros teikiamų paslaugų kokybės standartus, ir akreditavimo
 pažymėjimo išdavimas.
  
- 
 II skyrius
 Įstaigų rūšys, jų LICENCIJAVIMO, akreditavimo, registravimo
 ir veiklos valstybinio reguliavimo pagrindai
  
             3
 straipsnis. Įstaigų klasifikavimas
-            1. LNSS
-įstaigoms priskiriamos licencijas sveikatos priežiūrai turinčios:
+            1. LNSS įstaigoms
+priskiriamos licencijas sveikatos priežiūrai turinčios:
             1)
 valstybės ir savivaldybių asmens sveikatos priežiūros viešosios (toliau - LNSS
 viešosios įstaigos) ir biudžetinės įstaigos (toliau - LNSS biudžetinės
@@ -127,8 +128,8 @@ Valstybine ar teritorinėmis ligonių kasomis arba kitais LNSS veiklos užsakova
 - šių sutarčių galiojimo laikotarpiu.
             2.
 Pagal sveikatos priežiūros paslaugų rūšis yra šios įstaigų grupės:
-            1) asmens
-sveikatos priežiūros;
+            1)
+asmens sveikatos priežiūros;
             2)
 visuomenės sveikatos priežiūros;
             3)
@@ -217,8 +218,8 @@ atsisakymo išduoti licencijas atvejai;
             9)
 licencijuojamos veiklos sąlygos, tarp jų licencijos turėtojų teisės ir
 pareigos;
-            10)
-licencijos sąlygų laikymosi priežiūros tvarka;
+            10) licencijos
+sąlygų laikymosi priežiūros tvarka;
             11)
 licencijos galiojimo sustabdymo, atnaujinimo bei panaikinimo atvejai ir tvarka;
             12)
@@ -339,8 +340,8 @@ priėmimo dienos įstatymų nustatyta tvarka gali būti skundžiamas teismui.
             7.
 Akreditavimo reikalavimus rengia aukštosios mokyklos bei mokslo įstaigos kartu
 su sveikatos priežiūros specialistų organizacijomis. Akreditavimo reikalavimų
-rengimą užsako, juos tvirtina ir registruoja Sveikatos apsaugos ministerija ar
-jos įgaliota institucija. 
+rengimą užsako, juos tvirtina ir registruoja Sveikatos apsaugos ministerija ar jos
+įgaliota institucija. 
             
             7
 straipsnis. Licencijuotų įstaigų registravimas
@@ -405,8 +406,8 @@ reguliavimo
 klausimais
             Sveikatos
 apsaugos ministerija:
-            1) šio įstatymo nustatyta tvarka
-steigia, reorganizuoja ar likviduoja jai pavaldžias LNSS įstaigas;
+            1) šio įstatymo nustatyta
+tvarka steigia, reorganizuoja ar likviduoja jai pavaldžias LNSS įstaigas;
             2)
 šio įstatymo nustatyta tvarka kartu su valstybinėmis aukštosiomis mokyklomis ar
 valstybinėmis mokslo įstaigomis steigia, reorganizuoja ir likviduoja įstaigas; 
@@ -524,10 +525,10 @@ LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovų t
 pareigas nustato šių įstaigų pavyzdiniai nuostatai, kuriuos tvirtina Sveikatos
 apsaugos ministerija. 
             7.
-LNSS biudžetinių ir viešųjų įstaigų ar jų filialų ir padalinių, teikiančių
-tretinę sveikatos priežiūrą, sveikatos priežiūros specialistai į darbą priimami
-viešo konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir jo
-nuostatus tvirtina atitinkamos įstaigos vadovas.
+LNSS biudžetinių ir viešųjų įstaigų ar jų filialų ir padalinių, teikiančių tretinę
+sveikatos priežiūrą, sveikatos priežiūros specialistai į darbą priimami viešo
+konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir jo nuostatus
+tvirtina atitinkamos įstaigos vadovas.
             8. Šio straipsnio 1-7 dalių
 nuostatos netaikomos tų LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir
 filialų vadovams, kurių steigėjos yra Krašto apsaugos ministerija ar Vidaus
@@ -546,15 +547,15 @@ lotynų kalba.
 apsaugos ir Vidaus reikalų ministerijų įsteigtų įstaigų dokumentų saugojimo
 tvarką reglamentuoja įstaigos steigėjas, suderinęs su Sveikatos apsaugos
 ministerija.
-            
-            
+ 
 II dalis
 Sveikatos priežiūros įstaigos
  
 I skyrius
 LNSS NEPRIKLAUSANČIOS įstaigOS
  
-            17 straipsnis. LNSS nepriklausančių įstaigų steigimas
+            17 straipsnis. LNSS nepriklausančių įstaigų
+steigimas
             LNSS
 nepriklausančių įstaigų steigimo, reorganizavimo, likvidavimo klausimus
 reguliuoja Įmonių įstatymas, Viešųjų įstaigų įstatymas, Įmonių rejestro
@@ -579,10 +580,10 @@ reglamentuoja Sveikatos draudimo įstatymas.
 nedarbingumo ekspertizė LNSS nepriklausančiose įstaigose atliekama Sveikatos
 apsaugos ir Socialinės apsaugos ir darbo ministerijų nustatyta tvarka. 
             3. LNSS nepriklausančios
-įstaigos gali naudotis LNSS įstaigų paslaugomis (tyrimais, specialistų
-konsultacijomis ir kt.) tik pagal sudarytas su šiomis įstaigomis sutartis. Už
-paslaugas apmokama sutartinėmis kainomis, kurios negali būti mažesnės už
-nustatytas LNSS įstaigoms.
+įstaigos gali naudotis LNSS įstaigų paslaugomis (tyrimais, specialistų konsultacijomis
+ir kt.) tik pagal sudarytas su šiomis įstaigomis sutartis. Už paslaugas
+apmokama sutartinėmis kainomis, kurios negali būti mažesnės už nustatytas LNSS
+įstaigoms.
             4.
 LNSS nepriklausančios įstaigos pagal savo kompetenciją ir savo lėšomis privalo
 įgyvendinti būtinąsias visuomenės sveikatos priežiūros priemones, kurias
@@ -617,9 +618,9 @@ steigimą,
 veiklą,
 reorganizavimą ir likvidavimą
             Biudžetinių
-įstaigų steigimo, veiklos, valdymo, reorganizavimo ir likvidavimo klausimus reguliuoja
-Biudžetinių įstaigų įstatymas, Sveikatos sistemos įstatymas, šis ir kiti
-įstatymai bei teisės aktai.
+įstaigų steigimo, veiklos, valdymo, reorganizavimo ir likvidavimo klausimus
+reguliuoja Biudžetinių įstaigų įstatymas, Sveikatos sistemos įstatymas, šis ir
+kiti įstatymai bei teisės aktai.
             
             22
 straipsnis. Biudžetinių įstaigų valdymo, veiklos ir lėšų naudojimo ypatumai
@@ -648,8 +649,8 @@ sutrikusio vystymosi kūdikių namai;
             3)
 audinių ir organų transplantacijos biuras, kurio steigėja yra Sveikatos
 apsaugos ministerija;
-            4) teismo
-psichiatrijos ir narkologijos bei teismo medicinos asmens ekspertizės įstaigos;
+4)
+teismo psichiatrijos ir narkologijos asmens ekspertizės įstaigos;
             5)
 patologoanatominės ekspertizės įstaigos;
             6)
@@ -661,7 +662,11 @@ biudžetinės įstaigos;
 priklausomybės ligų centrai;
             9)
 kitos LNSS biudžetinės įstaigos, kurių nomenklatūrą nustato Vyriausybė.
-            
+Straipsnio pakeitimai:
+Nr. VIII-1943, 00.09.19, Žin., 2000,
+Nr.85-2579 (00.10.11)
+ 
+ 
 24
 straipsnis. LNSS valstybės ir savivaldybių visuomenės sveikatos priežiūros 
 biudžetinių
@@ -694,8 +699,8 @@ teisę vykdyti visuomenės sveikatos priežiūrą.
 LNSS valstybės visuomenės sveikatos priežiūros biudžetinių įstaigų veiklą
 koordinuoja Valstybinė visuomenės sveikatos priežiūros tarnyba.
             4.
-LNSS visuomenės sveikatos priežiūros biudžetinės įstaigos turi teisę steigti
-padalinius ar filialus visuomenės sveikatos priežiūros paslaugoms teikti.
+LNSS visuomenės sveikatos priežiūros biudžetinės įstaigos turi teisę steigti padalinius
+ar filialus visuomenės sveikatos priežiūros paslaugoms teikti.
             5.
 LNSS savivaldybių ir valstybės visuomenės sveikatos priežiūros biudžetinių
 įstaigų pavyzdinius nuostatus tvirtina Sveikatos apsaugos ministerija.
@@ -896,13 +901,13 @@ viešosios įstaigos veiklos viešumui užtikrinti sudaroma stebėtojų taryba.
 LNSS viešosios įstaigos stebėtojų taryba (toliau - stebėtojų taryba) yra
 patariamasis organas, sudaromas penkeriems metams.
             3.
-LNSS viešosios įstaigos, išskyrus valstybės aukštųjų mokyklų ar valstybinių
-mokslo įstaigų ir Sveikatos apsaugos ministerijos įsteigtas įstaigas, stebėtojų
-taryba sudaroma iš dviejų įstaigos steigėjo (steigėjų) bendru sprendimu
-paskirtų atstovų; vieno savivaldybės, kurios teritorijoje yra įstaiga, tarybos
-paskirto tarybos nario; vieno savivaldybės, kurios teritorijoje yra įstaiga,
-tarybos paskirto visuomenės atstovo ir įstaigos sveikatos priežiūros
-specialistų profesinių sąjungų paskirto vieno atstovo. 
+LNSS viešosios įstaigos, išskyrus valstybės aukštųjų mokyklų ar valstybinių mokslo
+įstaigų ir Sveikatos apsaugos ministerijos įsteigtas įstaigas, stebėtojų taryba
+sudaroma iš dviejų įstaigos steigėjo (steigėjų) bendru sprendimu paskirtų
+atstovų; vieno savivaldybės, kurios teritorijoje yra įstaiga, tarybos paskirto
+tarybos nario; vieno savivaldybės, kurios teritorijoje yra įstaiga, tarybos
+paskirto visuomenės atstovo ir įstaigos sveikatos priežiūros specialistų
+profesinių sąjungų paskirto vieno atstovo. 
             4.
 Valstybės aukštųjų mokyklų ar valstybinių mokslo įstaigų ir Sveikatos apsaugos
 ministerijos įsteigtų įstaigų stebėtojų taryba sudaroma iš dviejų Sveikatos
@@ -919,9 +924,9 @@ Valstybinėje ar teritorinėje ligonių kasoje, taip pat sveikatos draudimo
             
             34
 straipsnis. LNSS viešosios įstaigos gydymo taryba ir slaugos taryba
-            1. LNSS
-viešosios įstaigos gydymo taryba (toliau - gydymo taryba) sudaroma iš įstaigos
-padalinių ir filialų gydytojų.
+            1. LNSS viešosios
+įstaigos gydymo taryba (toliau - gydymo taryba) sudaroma iš įstaigos padalinių
+ir filialų gydytojų.
             2.
 Gydymo taryba svarsto asmens sveikatos priežiūros organizavimo ir tobulinimo
 klausimus, periodiškai rengia klinikines konferencijas, svarsto naujų asmens
@@ -932,11 +937,11 @@ taryba savo pasiūlymą gali pateikti steigėjui (steigėjams).
             3.
 Asmens sveikatos priežiūros viešosios įstaigos slaugos taryba (toliau - slaugos
 taryba) sudaroma iš įstaigos padalinių ir filialų slaugos specialistų.
-            4. Slaugos
-taryba svarsto pacientų slaugos organizavimo ir tobulinimo klausimus.Ši taryba
-svarstomais klausimais gali teikti rekomendacinio pobūdžio pasiūlymus įstaigos
-administracijai. Jei įstaigos administracija su pasiūlymu nesutinka, slaugos
-taryba savo pasiūlymą gali pateikti steigėjui (steigėjams).
+            4.
+Slaugos taryba svarsto pacientų slaugos organizavimo ir tobulinimo klausimus.Ši
+taryba svarstomais klausimais gali teikti rekomendacinio pobūdžio pasiūlymus
+įstaigos administracijai. Jei įstaigos administracija su pasiūlymu nesutinka,
+slaugos taryba savo pasiūlymą gali pateikti steigėjui (steigėjams).
             5.
 Gydymo ar slaugos tarybai pirmininkauja įstaigos administracijos vadovas arba
 jo įgaliotas administracijos darbuotojas. Gydymo tarybos, slaugos tarybos
@@ -1132,8 +1137,8 @@ asmenimis).
 LNSS savivaldybių ir valstybės visuomenės sveikatos priežiūros viešųjų įstaigų
 sąrašą bei pavyzdinius įstatus tvirtina Sveikatos apsaugos ministerija.
              
-            41
-straipsnis. LNSS įstaigų finansavimas iš valstybės ir savivaldybių biudžetų
+            41 straipsnis.
+LNSS įstaigų finansavimas iš valstybės ir savivaldybių biudžetų
             1. Iš valstybės
 biudžeto asignavimų, skirtų sveikatos priežiūrai:
             1)
@@ -1159,11 +1164,11 @@ atsirasti ir priemonės joms likviduoti;
             6)
 finansuojamos valstybinės sveikatos programos; 
             7)
-finansuojami medicinos mokslo taikomieji tyrimai pagal Sveikatos apsaugos ministerijos
-patvirtintas prioritetines programas, jei šie tyrimai skirti LNSS valdymo ir
-gyventojų sveikatos saugos, grąžinimo ir stiprinimo, paslaugų tinkamumo,
-prieinamumo, jų teikimo, socialinio teisingumo plėtojimo aktualioms problemoms
-spręsti.
+finansuojami medicinos mokslo taikomieji tyrimai pagal Sveikatos apsaugos
+ministerijos patvirtintas prioritetines programas, jei šie tyrimai skirti LNSS
+valdymo ir gyventojų sveikatos saugos, grąžinimo ir stiprinimo, paslaugų
+tinkamumo, prieinamumo, jų teikimo, socialinio teisingumo plėtojimo aktualioms
+problemoms spręsti.
             2.
 Iš savivaldybės biudžeto asignavimų, skirtų sveikatos priežiūrai:
             1)
@@ -1254,8 +1259,8 @@ protrūkius, kitus žalos pacientų sveikatai padarymo atvejus;
 teikti nemokamas planinės sveikatos priežiūros paslaugas, įsitikinus, kad
 pacientas turi teisę tokias paslaugas gauti.
             
-            46 straipsnis.
-Asmens sveikatos priežiūros įstaigų vidaus tvarkos taisyklės 
+            46
+straipsnis. Asmens sveikatos priežiūros įstaigų vidaus tvarkos taisyklės 
             1. Asmens
 sveikatos priežiūros įstaigos privalo turėti vidaus tvarkos taisykles ir
 užtikrinti, kad jos būtų prieinamos pacientams susipažinti.
@@ -1325,8 +1330,8 @@ nustato Sveikatos apsaugos ministerija.
 straipsnis. Asmens sveikatos priežiūros įstaigos pareigos pacientui mirus
             1. Pacientui
 mirus, įstaiga privalo ne vėliau kaip per dvylika valandų pranešti apie tai jo
-šeimos nariams, jo įstatyminiams atstovams arba paciento prieš mirtį
-nurodytiems asmenims.
+šeimos nariams, jo įstatyminiams atstovams arba paciento prieš mirtį nurodytiems
+asmenims.
             2.
 Paciento mirties įstaigoje patvirtinimo tvarką nustato Sveikatos apsaugos
 ministerija.
@@ -1401,7 +1406,8 @@ juridinių ir fizinių asmenų kreipimosi į įstaigą tvarka;
             2)
 su įstaiga susijusių juridinių ir fizinių asmenų teisės ir pareigos;
             3)
-ginčų ir konfliktų tarp įstaigos ir juridinių ar fizinių asmenų sprendimo tvarka;
+ginčų ir konfliktų tarp įstaigos ir juridinių ar fizinių asmenų sprendimo
+tvarka;
             4)
 informacijos suinteresuotiems juridiniams ir fiziniams asmenims apie įstaigos
 veiklą suteikimo tvarka;
@@ -1430,8 +1436,8 @@ kontrolę ir privalomojo sveikatos draudimo fondo lėšų naudojimo finansinę b
 ekonominę analizę įstaigose, kurios sudariusios sutartis su teritorinėmis
 ligonių kasomis dėl paslaugų teikimo ir kompensavimo;
             4)
-Lietuvos medicinos etikos komitetas - asmens sveikatos priežiūros įstaigos
-teikiamų paslaugų atitikimo medicinos etikos reikalavimams valstybinę kontrolę;
+Lietuvos medicinos etikos komitetas - asmens sveikatos priežiūros įstaigos teikiamų
+paslaugų atitikimo medicinos etikos reikalavimams valstybinę kontrolę;
 5)
 Valstybinė visuomenės sveikatos priežiūros tarnyba -
 paslaugų, teikiamų visuomenės sveikatos priežiūros įstaigose, prieinamumo,
@@ -1540,9 +1546,9 @@ straipsnio 1 dalyje nurodytų valstybės institucijų įsakymu gali būti
 atnaujinta.
 6.
 Jei per nustatytą terminą įstaiga trūkumų nepašalina, paslaugų teikimą
-sustabdžiusi institucija kreipiasi į Akreditavimo tarnybą dėl įstaigos licencijos
-galiojimo panaikinimo ir į Sveikatos apsaugos ministeriją dėl įstaigos valdymo
-organų nušalinimo ir laikinojo administratoriaus paskyrimo.
+sustabdžiusi institucija kreipiasi į Akreditavimo tarnybą dėl įstaigos
+licencijos galiojimo panaikinimo ir į Sveikatos apsaugos ministeriją dėl
+įstaigos valdymo organų nušalinimo ir laikinojo administratoriaus paskyrimo.
 Straipsnio pakeitimai:
 Nr. VIII-1800, 00.07.04, Žin., 2000,
 Nr.61-1811 (00.07.26)
@@ -1591,8 +1597,8 @@ sprendimai, išskyrus šio straipsnio 5 dalyje nurodytus atvejus.
             5.
 Laikinasis administratorius be įstaigos steigėjo ar savininko įgaliojimų ar
 sutikimo negali parduoti ar kitaip perleisti, įkeisti turto, reorganizuoti ar
-likviduoti įstaigos, spręsti kitų įstaigos steigėjo ar savininko išimtinei
-kompetencijai priklausančių klausimų.
+likviduoti įstaigos, spręsti kitų įstaigos steigėjo ar savininko išimtinei kompetencijai
+priklausančių klausimų.
             6.
 Apie administravimo eigą ir rezultatus laikinasis administratorius privalo
 informuoti sveikatos apsaugos ministrą, Akreditavimo tarnybą ir įstaigos
@@ -1741,7 +1747,14 @@ Nr.61-1811 (00.07.26)
 SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 52 IR 54
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1943, 00.09.19, Žin., 2000,
+Nr.85-2579 (00.10.11)
+SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 23 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.17)
+Redagavo: Aušrinė Trapinskienė (2000.10.13)
