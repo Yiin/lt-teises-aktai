@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 1999-11-26 iki 1999-12-08
+Suvestinė redakcija nuo 1999-12-09 iki 2000-04-04
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
  
@@ -391,7 +391,10 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 3. Privatizavimo lėšos, esančios Finansų ministerijai atidarytoje privatizavimo fondo sąskaitoje, naudojamos:
 
 
-1) gyventojų santaupoms atkurti ir palūkanoms už gyventojų santaupoms atkurti pasiskolintas lėšas mokėti;
+1) gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Vyriausybės sprendimu rezerviniam (stabilizavimo) fondui sudaryti (ne mažiau kaip 2/3 iš privatizavimo gautų lėšų). Lėšos gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti Vyriausybės sprendimu laikinai, 1999–2001 metais, gali būti naudojamos su Lietuvos Respublikos valstybės skolos įstatymo įgyvendinimu atsirandantiems valstybės turtiniams įsipareigojimams vykdyti; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1454, 1999-11-25, Žin., 1999, Nr. 105-3030 (1999-12-09), i. k. 0991010ISTAIII-1454
+ 
 
 
 
@@ -1381,3 +1384,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 4
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1391, 1999-11-04, Žin., 1999, Nr. 101-2905 (1999-11-26), i. k. 0991010ISTAIII-1391
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 5 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1454, 1999-11-25, Žin., 1999, Nr. 105-3030 (1999-12-09), i. k. 0991010ISTAIII-1454
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 7 straipsnio pakeitimo įstatymas
