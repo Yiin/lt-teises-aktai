@@ -34,8 +34,8 @@ Straipsnio pakeitimai:
 Nr. IX-2294, 2004-06-22,
 Žin., 2004, Nr. 104-3828 (2004-07-03)
  
-2 straipsnis. Savivaldybių
-biudžetų finansinių rodiklių patvirtinimas
+2 straipsnis.
+Savivaldybių biudžetų finansinių rodiklių patvirtinimas
 1. Patvirtinti
 gyventojų pajamų mokesčio dalį, tenkančią visų savivaldybių biudžetams nuo
 pajamų į nacionalinį biudžetą – 47,14 procento (įskaitant 76740 tūkst. litų
@@ -113,21 +113,20 @@ ministerija atitinkamoms savivaldybėms ir valstybės biudžeto asignavimų
 valdytojams tarpusavio atsiskaitymų tvarka – kai mokiniai migruoja tarp
 savivaldybių ir valstybės biudžeto finansuojamų mokyklų. 
  
-6
-straipsnis. Specialios tikslinės dotacijos mokinio krepšeliui finansuoti
-naudojimas
+6 straipsnis. Specialios tikslinės
+dotacijos mokinio krepšeliui finansuoti naudojimas
 Nustatyti, kad vykdant biudžetą
 nepanaudotos specialios tikslinės dotacijos mokinio krepšeliui finansuoti
 sumos, įvykdžius bendruosius ugdymo planus, gali būti naudojamos kitoms
 savivaldybių švietimo reikmėms finansuoti.
-7 straipsnis. Atskaitymų iš gyventojų pajamų mokesčio į Privalomojo
-sveikatos draudimo fondo biudžetą dydis
+7 straipsnis. Atskaitymų iš gyventojų pajamų
+mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis
 Nustatyti, kad 2004 metais gyventojų pajamų mokesčio
 įmokos į Privalomojo sveikatos draudimo fondo biudžetą sudaro 30 procentų
 apskaičiuotos šio mokesčio sumos.
  
-8 straipsnis. Įmokų dydis už valstybės lėšomis
-draudžiamus asmenis
+8 straipsnis. Įmokų dydis už
+valstybės lėšomis draudžiamus asmenis
 Nustatyti, kad 2004 metais valstybės biudžeto įmokos į
 Privalomojo sveikatos draudimo fondo biudžetą yra po 221,4 lito už kiekvieną
 valstybės lėšomis draudžiamą asmenį.
@@ -147,16 +146,14 @@ Straipsnio pakeitimai:
 Nr. IX-2294,
 2004-06-22, Žin., 2004, Nr. 104-3828 (2004-07-03)
  
-10
-straipsnis.
-Garantijų institucijų prisiimtų įsipareigojimų su valstybės garantija
-limitas
+10 straipsnis. Garantijų institucijų
+prisiimtų įsipareigojimų su valstybės garantija limitas
 Nustatyti, kad garantijų
 institucijų prisiimtų įsipareigojimų, kuriems suteikta valstybės garantija,
 suma negali viršyti 300000 tūkst. litų. 
  
-11 straipsnis.
-Valstybės skolos limitai
+11
+straipsnis. Valstybės skolos limitai
 1. Nustatyti 2004 metų Vyriausybės grynojo skolinimosi
 limitą – 1500000 tūkst. litų.
 2. Nustatyti, kad 2004 metais naujos valstybės
@@ -167,8 +164,8 @@ Straipsnio pakeitimai:
 Nr. IX-2294,
 2004-06-22, Žin., 2004, Nr. 104-3828 (2004-07-03)
  
-12 straipsnis.
-Savivaldybių skolinimosi limitai
+12
+straipsnis. Savivaldybių skolinimosi limitai
 1. Nustatyti
 šiuos savivaldybės skolinimosi limitus:
 1) savivaldybės
@@ -296,9 +293,8 @@ mokėtojai į pridėtinės vertės mokesčio atskaitą įtrauktas iš valstybės
 pirkimo (importo) pridėtinės vertės mokesčio sumas privalo grąžinti į
 Valstybinės mokesčių inspekcijos prie Finansų ministerijos nurodytas sąskaitas.
  
-16
-straipsnis. Privatizavimo fondo ir Rezervinio (stabilizavimo) fondo lėšų sąmatų
-patvirtinimas
+16 straipsnis. Privatizavimo fondo ir
+Rezervinio (stabilizavimo) fondo lėšų sąmatų patvirtinimas
 Patvirtinti 2004 metų
 Privatizavimo fondo ir Rezervinio (stabilizavimo) fondo lėšų sąmatas (7
 priedėlis).
@@ -308,9 +304,9 @@ Valstybės investicijų 2004–2006 metų programos patvirtinimas
 Patvirtinti Valstybės investicijų
 2004–2006 metų programą (8 priedėlis).
  
-18
-straipsnis. Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo 
-nutraukimo fondo lėšų sąmatos patvirtinimas
+18 straipsnis. Valstybės įmonės
+Ignalinos atominės elektrinės eksploatavimo  nutraukimo fondo lėšų sąmatos
+patvirtinimas
 Patvirtinti 2004 metų Valstybės
 įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo lėšų sąmatą
 (9 priedėlis).
@@ -848,13 +844,13 @@ Vyriausioji
   rinkimų komisija
 
 
-31226
+36226
 
 
-31226
+36226
 
 
-22011
+25361
 
 
  
@@ -1171,10 +1167,10 @@ Finansų
   ministerija
 
 
-3953671
+3942671
 
 
-3826864
+3815864
 
 
 73993
@@ -1279,10 +1275,10 @@ Socialinės
   apsaugos ir darbo ministerija
 
 
-661795
+660795
 
 
-632113
+631113
 
 
 11293
@@ -1423,10 +1419,10 @@ Vidaus
   ūkio ministerija
 
 
-1128919
+1130919
 
 
-1119538
+1121538
 
 
 19186
@@ -4883,10 +4879,10 @@ Dotacija
   politinėms partijoms ir politinėms organizacijoms
 
 
-1000
+6000
 
 
-1000
+6000
 
 
  
@@ -4907,7 +4903,7 @@ IŠ
 11935561
 
 
-2123885
+2127235
 
 
 1817401
@@ -4921,6 +4917,9 @@ Sąjungos ir valstybės biudžeto piniginių lėšų srautus.
 Priedėlio pakeitimai:
 Nr. IX-2294,
 2004-06-22, Žin., 2004, Nr. 104-3828 (2004-07-03)
+Nr.
+IX-2427,
+2004-08-23, Žin., 2004, Nr. 134-4841 (2004-09-02)
  
 
 
@@ -4935,7 +4934,8 @@ Lietuvos Respublikos
 
 LIETUVOS RESPUBLIKOS
   2004 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI
-       tūkst.Lt
+      
+  tūkst.Lt
 
 
 
@@ -4977,13 +4977,13 @@ Bendros
   valstybės paslaugos 
 
 
-5415450
+5409450
 
 
-5229506
+5223506
 
 
-457825
+461175
 
 
 185944
@@ -5014,10 +5014,10 @@ valstybės
   skolos aptarnavimo išlaidos
 
 
-716361
+705361
 
 
-716361
+705361
 
 
  
@@ -5107,10 +5107,10 @@ Viešoji
 Ekonomika
 
 
-2949833
+2951833
 
 
-2251363
+2253363
 
 
 146658
@@ -5183,10 +5183,10 @@ Poilsis,
   kultūra ir religija
 
 
-326304
+331304
 
 
-257750
+262750
 
 
 48223
@@ -5220,10 +5220,10 @@ Socialinė
   apsauga
 
 
-928430
+927430
 
 
-883240
+882240
 
 
 53478
@@ -5245,7 +5245,7 @@ IŠ
 11935561
 
 
-2123885
+2127235
 
 
 1817401
@@ -5256,6 +5256,9 @@ IŠ
 Priedėlio pakeitimai:
 Nr. IX-2294,
 2004-06-22, Žin., 2004, Nr. 104-3828 (2004-07-03)
+Nr.
+IX-2427,
+2004-08-23, Žin., 2004, Nr. 134-4841 (2004-09-02)
  
 
 
@@ -5263,7 +5266,7 @@ Nr. IX-2294,
 Respublikos
                                                                                     2003
 m. gruodžio 11 d.
-                                                                        įstatymo
+                                                                        įstatymo
 Nr. IX-1884
                                                                         3
 priedėlis
@@ -5272,9 +5275,8 @@ IŠ
 LIETUVOS RESPUBLIKOS 2004 METŲ VALSTYBĖS BIUDŽETO IŠLAIKOMŲ ĮSTAIGŲ BEI
 VALSTYBINIŲ MOKSLO IR STUDIJŲ INSTITUCIJŲ PAJAMŲ ĮMOKOS Į VALSTYBĖS BIUDŽETĄ
  
-                                                        
-                                                                         tūkst.
-Lt
+                                                            
+                                                                     tūkst. Lt
 
 
 
@@ -5811,7 +5813,8 @@ Lietuvos Aukščiausiasis Teismas
 
 
 
-Lietuvos vyriausiasis administracinis teismas
+Lietuvos vyriausiasis administracinis
+  teismas
 
 
 50
@@ -11731,11 +11734,20 @@ IX-2294,
 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
 PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-2427,
+2004-08-23, Žin., 2004, Nr. 134-4841 (2004-09-02)
+2004
+METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+PATVIRTINIMO ĮSTATYMO 1 IR 2 PRIEDĖLIŲ PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-07-13)
+Aušra Bodin (2004-09-03)
                  
-autrap@lrs.lt
+ausra.bodin@lrs.lt
