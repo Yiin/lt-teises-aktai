@@ -13,27 +13,30 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-LIETUVOS RESPUBLIKOS ŪKININKO ŪKIO Į S T A T Y M A S
+Suvestinė redakcija nuo 2003-04-01 iki 2004-12-31
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
+ 
+Nauja redakcija nuo 2003-04-01:
+Nr. IX-1250, 2002-12-10, Žin. 2002, Nr. 123-5537 (2002-12-24), i. k. 1021010ISTA0IX-1250
+ 
+LIETUVOS RESPUBLIKOS  ŪKININKO ŪKIO  ĮSTATYMAS
  
 1999 m. gegužės 4 d. Nr. VIII-1159
 Vilnius
  
-
-
-I SKYRIUS
-BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+PIRMASIS SKIRSNIS 
+BENDROSIOS NUOSTATOS 
+ 
 
 
-1. Šis įstatymas nustato ūkininko ūkio (toliau – ūkio) teisinę padėtį, veiklos pagrindus, registravimo tvarką, jam teikiamą valstybės paramą ir veiklos nutraukimą.
+1 straipsnis. Įstatymo paskirtis 
 
 
-
-
-2. Valstybė sudaro teisines ir ekonomines sąlygas ūkių atkūrimui ir įkūrimui bei ūkininkavimui – gyvenimo būdo, dvasinių, kultūrinių ir gamtos vertybių kaime išsaugojimo pagrindui. 
+Šis Įstatymas nustato ūkininko teisinį statusą, ūkininko ir jo partnerių veiklos pagrindus, ūkininko ūkio įregistravimo bei išregistravimo sąlygas ir tvarką, ūkininkui teikiamą paramą. 
  
 
 
@@ -41,35 +44,30 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos 
+2 straipsnis. Pagrindinės Įstatymo sąvokos 
 
 
-1. Ūkis – šio įstatymo nustatyta tvarka įregistruotas žemės ūkio veiklos vienetas.
-
-
-
-
-2. Ūkininkas – fizinis asmuo, besiverčiantis žemės ūkio veikla savo vardu įregistruotame ir atstovaujamame ūkyje.
+1. Ūkininkas – fizinis asmuo, kuris vienas arba su partneriais verčiasi žemės ūkio veikla ir miškininkyste, o jo ūkis yra įregistruotas Ūkininkų ūkių registre.
 
 
 
 
-3. Ūkio nariai – savo nuolatiniu darbu ir turtu ūkio veikloje dalyvaujantys ūkininko šeimos nariai ir kiti asmenys.
+2. Ūkininko partneriai – fiziniai asmenys ( ūkininko sutuoktinis, pilnamečiai šeimos nariai ar kiti fiziniai asmenys), kurie kartu su ūkininku verčiasi žemės ūkio veikla pagal sudarytą jungtinės veiklos (partnerystės) sutartį. 
 
 
 
 
-4. Žemės ūkio veikla – ūkio veikla, apimanti žemės, miškų ir vidaus vandenų ūkio produktų gamybą, savo ūkyje pagamintų produktų perdirbimą, realizavimą ir paslaugas šiai veiklai.
+3. Ūkininko ūkis (toliau – ūkis) – ūkininko turtinių ir asmeninių neturtinių teisių bei prievolių visuma. 
 
 
 
 
-5. Paslauga žemės ūkiui – žemės, miškų ir vidaus vandenų ūkį aptarnaujanti veikla.
+4. Talkininkas – fizinis asmuo, tarpusavio susitarimu ūkyje atliekantis neapmokamą darbą.
 
 
 
 
-6. Talkininkas – fizinis asmuo, tarpusavio susitarimu atliekantis neapmokamą darbą ūkyje. 
+5. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos kituose įstatymuose.
  
 
 
@@ -77,15 +75,20 @@ BENDROSIOS NUOSTATOS
 
 
 
-3 straipsnis. Ūkio teisinė padėtis 
+3 straipsnis. Įstatymo subjektas ir jo teisinis statusas
 
 
-1. Ūkis neturi juridinio asmens teisių. Pagal ūkio prievoles ūkininkas ir jo šeimos nariai atsako bendrai, išskyrus tą turtą, kuris, remiantis įstatymais, negali būti išieškomas pagal kreditorių reikalavimus. Kiti ūkio nariai pagal ūkio prievoles atsako ta bendro turto dalimi, kurią jie sukūrė savo darbu ar lėšomis. Pagal savo narių prievoles, nesusijusias su ūkio veikla, ūkis neatsako.
+1. Įstatymo subjektas yra ūkininkas. 
 
 
 
 
-2. Ūkininkas gali turėti sąskaitas Lietuvos Respublikos ir užsienio valstybių bankuose. 
+2. Ūkininko statusą fizinis asmuo įgyja nuo ūkio įregistravimo Ūkininkų ūkių registre. Ūkininkas šio statuso netenka nuo ūkio išregistravimo iš Ūkininkų ūkių registro.
+
+
+
+
+3. Ūkininkas privalo turėti bent vieną sąskaitą Lietuvos Respublikoje įregistruotame banke ar kitoje kredito įstaigoje.
  
 
 
@@ -95,37 +98,35 @@ BENDROSIOS NUOSTATOS
 
 
 
-II SKYRIUS
-ŪKININKO IR ŪKIO NARIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO SANTYKIAI
- 
- 
-
-
-4 straipsnis. Ūkininko ir ūkio narių nuosavybė
-
-
-1. Ūkiui priskiriamas turtas – žemė, miškai, vidaus vandenys ir kitas nekilnojamasis turtas, kuris nuosavybės teise priklauso ūkininkui, taip pat kuris nuosavybės teise priklauso jo šeimos nariams bei kitiems ūkio nariams ir kurį šie asmenys sutarčių pagrindu perdavė valdyti ir naudotis ūkiui. Ūkio turtui priskiriamas ir nuomos bei kitais sutartiniais pagrindais valdomas ir naudojamas turtas. 
-
-
-
-
-2. Gamybos priemonės, žemės ūkio žaliavos, produkcija, gautos pajamos ir kitas ūkio narių darbu ar lėšomis sukurtas turtas yra ūkio narių bendroji nuosavybė. Kilus ginčui, turto atidalijimo būdą, dalies dydį ir atidalijimo terminus nustato teismas.
-
-
-
-
-3. Ūkininko ir jo sutuoktinio ūkininkaujant įgytas turtas priklauso jiems abiem bendrosios jungtinės nuosavybės teise, jeigu sutuoktiniai nesusitaria kitaip ar santuokos, šeimos įstatymai nenustato ko kita. Ūkininko vaikams (įvaikiams), tėvams (įtėviams) priklauso ta ūkio turto dalis, kurią jie savo darbu ar lėšomis ūkyje sukūrė. 
+ANTRASIS SKIRSNIS
+ŪKININKO VEIKLOS PAGRINDAI 
  
 
 
+4 straipsnis. Veiklos sritys ir sąlygos 
+
+
+1. Ūkininkas ir jo partneriai nesteigdami įmonės verčiasi žemės ūkio veikla, miškininkyste ir kitokia įstatymų neuždrausta veikla, kuriai nereikia steigti įmonės. 
 
 
 
 
-5 straipsnis. Ūkininko ir ūkio narių teisės
+2. Ūkininkas žemės ūkio veiklai naudoja nuosavybės teise turimą ir (arba) nuomos, panaudos ar kitais pagrindais valdomą žemės ūkio paskirties ir (arba) miško žemę bei (arba) vandens telkinius. Jei ūkininko pajamos per metus neviršija 12 minimaliųjų gyvenimo lygių dydžio, jis Vyriausybės nustatyta tvarka turi teisę gauti papildomas socialines išmokas.
 
 
-Ūkininkas tvarko ūkio reikalus, sudaro sutartis ir kitus sandorius, susijusius su ūkio veikla. Ūkio interesams gali atstovauti ūkininko įgaliotas ūkio narys ar kitas asmuo. 
+
+
+3. Ūkininkas arba jo partneris (partneriai) turi turėti Vyriausybės įgaliotos institucijos nustatytą profesinį pasirengimą ūkininkauti. 
+
+
+
+
+4. Žemės ūkio veikla, miškininkyste ir kitokia įstatymų neuždrausta veikla, kuriai nereikia steigti įmonės, ūkininkas gali verstis vienas arba kartu su fiziniais asmenimis (partneriais), sudaręs jungtinės veiklos (partnerystės) sutartį. Ūkininkas ir jo sutuoktinis jungtinės veiklos (partnerystės) sutartį sudaro tuo atveju, kai yra sudaryta vedybų sutartis. 
+
+
+
+
+5. Ūkininko partneriai turi būti nurodyti Ūkininkų ūkių registre. Ūkininko sutuoktinis, jei nėra sudaryta jungtinės veiklos (partnerystės) sutartis, jo paties pageidavimu gali būti nurodytas Ūkininkų ūkių registre kaip partneris.
  
 
 
@@ -133,20 +134,20 @@ II SKYRIUS
 
 
 
-6 straipsnis. Ūkyje naudojama žemė 
+5 straipsnis. Darbo ir turtiniai santykiai
 
 
-1. Ūkyje naudojamos žemės nuosavybės, nuomos ir kitus santykius nustato Žemės, Žemės nuomos, kiti įstatymai ir Civilinis kodeksas.
-
-
-
-
-2. Ūkininkui ir ūkio nariams nuosavybės teise priklausančio ūkio žemės valda negali būti didesnė kaip 150 hektarų, išskyrus atvejus, kai registruojant santuoką abiejų sutuoktinių nuosavybės teise turima žemės valda viršija šį plotą arba žemė įsigyta iki šio įstatymo įsigaliojimo. Nuomojamos žemės plotas neribojamas.
+1. Ūkininkas su samdomais fiziniais asmenimis sudaro darbo sutartis teisės aktų nustatyta tvarka. Šių sutarčių ypatumus nustato Vyriausybė.
 
 
 
 
-3. Ūkyje naudojama nuosavybės teise ūkininko ir (ar) ūkio narių žemė visuomenės poreikiams gali būti paimama tik įstatymo nustatyta tvarka. Savininko pageidavimu už ją suteikiamas lygiavertis žemės sklypas arba kitaip teisingai atlyginama. 
+2. Ūkininkas su partneriais, nurodytais Ūkininkų ūkių registre, ir talkininkais darbo sutarčių nesudaro. 
+
+
+
+
+3. Ūkininko ir jo partnerių turto valdymą ir naudojimą nustato Civilinis kodeksas.
  
 
 
@@ -156,83 +157,73 @@ II SKYRIUS
 
 
 
-III SKYRIUS
-ŪKIO VEIKLOS PAGRINDAI
+TREČIASIS SKIRSNIS
+ŪKININKO ŪKIO REGISTRAVIMAS
  
 
 
-7 straipsnis. Ūkio veiklos sritys
+6 straipsnis. Ūkininkų ūkių registras ir registravimo duomenys
 
 
-Ūkyje galima žemės ūkio veikla bei ūkyje išaugintų produktų perdirbimas, realizavimas ir paslaugų žemės ūkiui teikimas nesteigiant įmonės, taip pat kitokia įstatymų neuždrausta veikla Lietuvoje ir už jos ribų.
- 
-
-
+1. Ūkis turi būti įregistruotas Ūkininkų ūkių registre ūkininko vardu.
 
 
 
 
-8 straipsnis. Ūkio veiklos sąlygos 
-
-
-1. Valstybės ir savivaldos institucijos bei pareigūnai savo sprendimais ir veiksmais ūkio veiklos negali riboti kitaip, negu įstatymų nustatytais atvejais ir tvarka.
+2. Ūkius Ūkininkų ūkių registre registruoja savivaldybės administracija Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
 
 
 
 
-2. Ūkio veiklos buhalterinės apskaitos tvarką nustato Vyriausybė.
- 
+3. Ūkininkų ūkių registre turi būti nurodyti šie ūkio duomenys:
+
+
+1) ūkininko vardas, pavardė, asmens kodas, gyvenamoji vieta; 
 
 
 
 
-
-
-9 straipsnis. Darbas ūkyje
-
-
-1. Ūkininkas su ūkio nariais ir talkininkais darbo sutarčių nesudaro.
+2) ūkininko žemės naudojimo teisinis pagrindas; 
 
 
 
 
-2. Ūkininkas su samdomais fiziniais asmenimis sudaro darbo sutartis. Šiems asmenims taikomi darbo įstatymai. 
+3) ūkininko nuosavybės teise valdomos ir (arba) nuomos, panaudos ar kitais pagrindais naudojamos žemės kadastriniai duomenys; 
 
 
 
 
-3. Ūkininko ir ūkio narių nepilnamečiai vaikai laisvu nuo mokyklos lankymo metu gali dirbti atitinkančius amžių įvairius ūkio darbus, jeigu tai nepažeidžia vaiko teisių.
+4) žemės ūkio ir kitokios veiklos pobūdis (pagrindinė ir papildoma veikla);
 
 
 
 
-4. Ūkininkas už save ir pilnamečius ūkio narius moka privalomojo sveikatos draudimo ir valstybinio socialinio draudimo įmokas Sveikatos draudimo ir Valstybinio socialinio draudimo įstatymuose nustatyta tvarka.
- 
+5) ūkio įregistravimo data ir ūkininko ūkio įregistravimo pažymėjimo numeris.
 
 
 
 
 
 
-10 straipsnis. Ūkio ir valstybės bei savivaldybių institucijų santykiai 
+4. Jeigu yra registruojamas ūkis, kurio ūkininkas žemės ūkio veikla verčiasi kartu su kitais asmenimis (partneriais), turi būti papildomai nurodyta:
 
 
-1. Ūkininkas teikia valstybės ir savivaldybių institucijoms įstatymų nustatytą informaciją.
-
-
-
-
-2. Darbo santykių, darbuotojų saugos, sanitarinių, priešgaisrinės apsaugos, aplinkosaugos, kovos su gyvulių ir augalų ligų sukėlėjais, kenkėjais ir piktžolėmis reikalavimų laikymąsi ūkyje valstybės ir savivaldybių institucijos kontroliuoja teisės aktuose nustatyta tvarka.
+1) jungtinės veiklos (partnerystės) sutarties sudarymo data;
 
 
 
 
-3. Ūkio veiklos tikrinimas ir revizija leidžiama tik įstatymų numatytais atvejais.
+2) partnerių vardai, pavardės, asmens kodai, gyvenamoji vieta;
 
 
 
 
-4. Valstybės ir savivaldybių institucijų ir pareigūnų ūkiui padaryti nuostoliai atlyginami įstatymų nustatyta tvarka.
+3) partnerių bendrai veiklai skirtos žemės naudojimo teisinis pagrindas ir žemės kadastriniai duomenys, jei partneriai bendrai veiklai skiria žemę;
+
+
+
+
+4) asmuo arba asmenys, turintys teisę veikti visų partnerių vardu.
  
 
 
@@ -242,75 +233,65 @@ III SKYRIUS
 
 
 
-IV SKYRIUS
-ŪKIO registravimas IR VEIKLOS NUTRAUKIMAS
- 
+7 straipsnis. Ūkio įregistravimo dokumentai
 
 
-11 straipsnis. Ūkio registravimas
+1. Ūkiui įregistruoti Ūkininkų ūkių registre asmuo pateikia šiuos dokumentus:
 
 
-1. Ūkį registruoti gali pagal civilinius įstatymus veiksnūs fiziniai asmenys.
-
-
-
-
-2. Registruojamo ūkio žemės valdoje turi būti ne mažiau kaip 1 ha žemės ūkio naudmenų (neskaitant kitiems asmenims išnuomotos žemės), o jei ūkio žemės valdoje yra mažiau kaip 1 ha žemės ūkio naudmenų, turi būti deklaruojama tokia per kalendorinius metus gautų iš žemės ūkio veiklos pajamų suma, kuri sudarytų ne mažiau kaip 40 minimalių gyvenimo lygių dydžio sumą. Ūkio pajamos iš žemės ūkio veiklos turi sudaryti ne mažiau kaip 50 procentų visų per metus gautų verslo pajamų. Jeigu ūkis verčiasi dar ir agroturizmu, amatais, pajamos iš žemės ūkio turi sudaryti ne mažiau kaip 25 procentus visų per metus gautų verslo pajamų.
+1) asmens prašymą įregistruoti ūkį;
 
 
 
 
-3. Ūkiui registruoti pateikiami šie dokumentai:
-
-
-1) prašymas įregistruoti ūkį;
+2) asmens tapatybę patvirtinantį dokumentą; 
 
 
 
 
-2) ūkininko ir ūkio narių žemės nuosavybės arba žemės nuomos dokumentų kopijos;
+3) ūkininku registruojamo asmens žemės nuosavybės ar kitais pagrindais naudojamos žemės valdymo ir naudojimo teisę suteikiančių dokumentų kopijas; 
 
 
 
 
-3) ūkio narių sąrašas;
+4) registruojamo asmens nuosavybės teise turimo ar kitais pagrindais naudojamo žemės sklypo plano arba schemos kopiją;
 
 
 
 
-4) duomenys apie gautas iš žemės ūkio veiklos pajamas, jei žemės ūkio naudmenų plotas mažesnis nei 1 ha.
+5) dokumento, patvirtinančio asmens profesinį pasirengimą ūkininkauti, kopiją.
 
 
 
 
 
 
-4. Ūkis įregistruojamas ūkininko vardu.
+2. Jeigu ūkininkas žemės ūkio veikla verčiasi kartu su kitais asmenimis (partneriais), turi būti papildomai pateikiama: 
+
+
+1) partnerių asmens tapatybę patvirtinančių dokumentų kopijos;
 
 
 
 
-5. Ūkio registravimo dokumentų turinį, formą ir konkrečią registravimo tvarką nustato Žemės ūkio ministerija.
+2) jungtinės veiklos (partnerystės) sutarties kopija;
 
 
 
 
-6. Ūkius registruoja rajonų žemės ūkio skyriai ūkininkų ūkių registre. 
+3) partnerių bendrai veiklai skirtos nuosavybės teise priklausančios žemės nuosavybės teisę patvirtinančių ar kitais pagrindais naudojamos žemės valdymo ir naudojimo teisę suteikiančių dokumentų bei žemės sklypo plano arba schemos kopijos, jei partneriai bendrai veiklai skiria žemę;
 
 
 
 
-7. Ne vėliau kaip per 15 dienų nuo dokumentų ūkiui įregistruoti pateikimo ūkis turi būti įregistruotas arba pareiškėjui raštu nurodyta ūkio neįregistravimo priežastis. Atsisakymas įregistruoti ūkį gali būti apskundžiamas apskrities viršininkui. Šis skundas turi būti išnagrinėtas ne vėliau kaip per l mėnesį. Jei prašytojas nesutinka su priimtu sprendimu, jį gali apskųsti teismui. 
+4) ūkininko sutuoktinio prašymas įregistruoti jį partneriu šio Įstatymo 4 straipsnio 5 dalyje nurodytu atveju.
 
 
 
 
-8. Įregistravus ūkį, ne vėliau kaip per 5 dienas ūkininkui išduodamas ūkio įregistravimo pažymėjimas.
 
 
-
-
-9. Pasikeitus ūkiui įregistruoti pateiktuose dokumentuose nurodytai informacijai, ūkininkas per mėnesį nuo šių pokyčių atsiradimo dienos pateikia pakitimus patvirtinančius dokumentus ūkius registruojančiai institucijai. 
+3. Su šio straipsnio 1 ir 2 dalyse nurodytų dokumentų kopijomis kartu turi būti pateikiami ir jų originalai arba notaro patvirtinti dokumentų nuorašai.
  
 
 
@@ -318,50 +299,40 @@ IV SKYRIUS
 
 
 
-12 straipsnis. Ūkio veiklos nutraukimas ir išregistravimas
+8 straipsnis. Ūkio įregistravimas 
 
 
-1. Ūkio veikla nutraukiama:
-
-
-1) ūkininko ir ūkio narių sprendimu; 
+1. Ūkis įregistruojamas, jei pageidaujančio įregistruoti ūkį asmens pateikti dokumentai atitinka šio Įstatymo 4 straipsnyje nurodytas sąlygas.
 
 
 
 
-2) kai nelieka ūkininko ir nė vieno ūkio nario;
+2. Ūkis turi būti įregistruotas ir ūkio įregistravimo pažymėjimas išduotas ne vėliau kaip per 10 darbo dienų nuo dokumentų, nurodytų 7 straipsnyje, pateikimo. Jeigu ūkį įregistruoti atsisakoma, priežastys nurodomos raštu. Atsisakymas įregistruoti gali būti skundžiamas teismui įstatymų nustatyta tvarka.
 
 
 
 
-3) pakeitus žemės ūkio paskirties žemės naudojimo paskirtį.
+3. Ūkis neįregistruojamas, jeigu:
+
+
+1) ūkininko veiklos pagrindai neatitinka šio Įstatymo 4 straipsnyje nurodytų sąlygų;
 
 
 
 
-
-
-2. Ūkis išregistruojamas:
-
-
-1) nutraukus ūkio veiklą šio straipsnio 1 dalyje numatytais atvejais;
+2) pateikti ne visi ūkininko ūkiui įregistruoti reikiami dokumentai;
 
 
 
 
-2) prijungus ūkį prie kito ūkio; 
-
-
-
-
-3) jeigu neišlaikomi šio įstatymo 11 straipsnio 2 dalyje nustatyti rodikliai ir jie per vienerius metus neatkuriami. 
+3) pateikti dokumentai neatitinka teisės aktų reikalavimų.
 
 
 
 
 
 
-3. Ginčai dėl ūkio veiklos nutraukimo, ūkio išregistravimo iš ūkininkų ūkių registro bei ūkio turto sprendžiami teismine tvarka.
+4. Jeigu ūkiui įregistruoti pateiktuose dokumentuose nurodyti duomenys pasikeičia, ūkininkas per 6 mėnesius nuo šių pokyčių atsiradimo dienos privalo pateikti savivaldybės administracijai prašymą, kad šiuos pakitimus įregistruotų, ir dokumentus, patvirtinančius, kad duomenys pasikeitė.
  
 
 
@@ -369,42 +340,30 @@ IV SKYRIUS
 
 
 
+9 straipsnis. Ūkio išregistravimas 
 
 
-V SKYRIUS
-VALSTYBĖS PARAMA ŪKIui
- 
+1. Ūkis iš Ūkininkų ūkių registro išregistruojamas:
 
 
-13 straipsnis. Valstybės parama ūkiui 
-
-
-1. Ūkiai, kurie Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka priskirti prie visiško ir dalinio užimtumo ūkių ir šio įstatymo nustatyta tvarka įregistruoti, turi teisę naudotis valstybės parama. Valstybės paramą nustato Žemės ūkio ekonominių santykių valstybinio reguliavimo įstatymas ir kiti teisės aktai. 
+1) ūkininko prašymu;
 
 
 
 
-2. Valstybės parama skiriama ūkio atkūrimui, įkūrimui ir jo veiklai, pirmenybę teikiant ūkiams, kuriuose ūkininkauja asmenys iki 40 metų ir aukštųjų bei kitų žemės ūkio mokyklų absolventai. 
+2) ūkininkui mirus;
 
 
 
 
-3. Valstybės paramos skyrimo sąlygas ir tvarką nustato Vyriausybė, jeigu įstatymai nenustato kitaip.
+3) teismo sprendimu.
 
 
 
 
-4. Ūkininkai moka žemės ir (ar) žemės nuomos mokesčius. Mokesčius ir mokesčių lengvatas ūkiams nustato atitinkami mokesčių įstatymai. Ūkio pajamos yra neapmokestinamos. 
 
 
-
-
-5. Ūkininkui ir ūkio nariams sveikatos draudimo ir valstybinio socialinio draudimo lengvatos taikomos Sveikatos draudimo ir Valstybinio socialinio draudimo įstatymų nustatyta tvarka. 
-
-
-
-
-6. Vienintelis darbingas ūkio narys karinės prievolės atlikti nešaukiamas. 
+2. Ūkį iš Ūkininkų ūkių registro išregistruoja savivaldybės administracija. Priimtas sprendimas dėl išregistravimo gali būti skundžiamas teismui įstatymų nustatyta tvarka.
  
 
 
@@ -414,27 +373,35 @@ VALSTYBĖS PARAMA ŪKIui
 
 
 
-VI SKYRIUS
-BAIGIAMOSIOS NUOSTATOS
+KETVIRTASIS SKIRSNIS
+PARAMA ŪKININKUI
  
 
 
-14 straipsnis. Pasiūlymas Vyriausybei
+10 straipsnis. Parama ūkininkui 
 
 
-Vyriausybė iki 1999 m. rugsėjo 1d. parengia su šiuo įstatymu susijusių įstatymų pakeitimo ir papildymo įstatymų projektus ir priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
- 
-
-
+1. Ūkininkui ir jo partneriams, kurių pajamos iš žemės ūkio veiklos per kalendorinius metus yra ne mažesnės kaip 50 procentų visų gautų pajamų, taikomi įstatymų nustatyti lengvatiniai apmokestinimo tarifai. 
 
 
 
 
-15 straipsnis. Įstatymo įsigaliojimas
+2. Vyriausybė, teikdama prioritetą jauniesiems (iki 40 metų) ūkininkams, nustato jų įsikūrimo ir kvalifikacijos kėlimo paramos formą ir dydį.
 
 
-Šiam įstatymui įsigaliojus, netenka galios įstatymas „Dėl Lietuvos Respublikos valstiečio ūkio“ (Žin., 1989, Nr. 20-242) bei Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos valstiečio ūkio įstatymo įsigaliojimo tvarkos“ (Žin., 1989, Nr. 20-243).
- 
+
+
+3. Ūkininkams teikiamą kitą paramą nustato Žemės ūkio ir kaimo plėtros įstatymas bei kiti teisės aktai. 
+
+
+
+
+4. Ūkininkas ir jo partneriai, nurodyti Ūkininkų ūkių registre, valstybiniu socialiniu draudimu draudžiami laisvai, o sveikatos draudimu – privalomai.
+
+
+
+
+5. Vienintelis darbingas ūkininko partneris karinės prievolės atlikti nešaukiamas.
  
 
 
@@ -447,3 +414,15 @@ Vyriausybė iki 1999 m. rugsėjo 1d. parengia su šiuo įstatymu susijusių įst
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1250, 2002-12-10, Žin., 2002, Nr. 123-5537 (2002-12-24), i. k. 1021010ISTA0IX-1250
+Lietuvos Respublikos ūkininko ūkio įstatymo pakeitimo įstatymas
