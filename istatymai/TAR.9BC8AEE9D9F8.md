@@ -23,7 +23,6 @@ paskelbtas: Žin., 1995, Nr. 3-37
 Neoficialus
 įstatymo tekstas
  
- 
 LIETUVOS
 RESPUBLIKOS
 NEKILNOJAMŲJŲ
@@ -32,7 +31,7 @@ KULTŪROS VERTYBIŲ APSAUGOS
 S
  
 1994 m. gruodžio
-22 d. Nr.I-733
+22 d. Nr. I-733
 Vilnius 
  
  
@@ -650,46 +649,16 @@ ar vietovių teritorinio planavimo dokumentuose turi būti numatytos
 nekilnojamųjų kultūros vertybių saugojimo ir integravimo į visuomenės gyvenimą
 priemonės.
  
-            21 straipsnis. Nekilnojamųjų
-kultūros vertybių tvarkymo darbai
-            Nekilnojamųjų kultūros
-vertybių tvarkymo darbai yra priešavariniai, remonto, pritaikymo, tyrimo,
-konservavimo, restauravimo ir atkūrimo.
-            Nekilnojamųjų kultūros
-vertybių priešavarinių, remonto ir pritaikymo darbų tikslas - garantuoti šių
-vertybių gerą fizinę būklę ir praktinį naudojimą išsaugant nekilnojamųjų
-kultūros vertybių apsaugos reglamentuose nustatytą sudėtį ir apimtį,
-pagrindinius kultūrinės vertės požymius ir teritorijas.
-            Nekilnojamųjų kultūros
-vertybių tyrimo, konservavimo, restauravimo ir atkūrimo darbų tikslas -
-atskleisti šių vertybių kultūrinę vertę, išsaugoti autentišką jų sudėtį ir
-apimtį bei pagrindinius kultūrinės vertės požymius, eksponuoti šias vertybes ar
-jų atskiras dalis, atkurti prarastus vertybių elementus.
-            Tvarkymo darbų parinkimas
-priklauso nuo nekilnojamosios kultūros vertybės kultūrinės vertės, fizinės
-būklės, autentiškumo bei tvarkymo ir naudojimo režimų, nustatytų apsaugos
-reglamente.
-            Atkūrimo darbai atliekami
-tik išimtiniais atvejais.
-            Kultūros vertybių apsaugos
-departamento pareigūnai ir jo įgalioti specialistai turi teisę stebėti bei
-fiksuoti atliekamus tvarkymo darbus. Darbų metu išaiškėjus naujiems kultūrinės
-vertės požymiams, jie turi teisę darbus sustabdyti. Sustabdžius darbus, ne
-vėliau kaip per 15 dienų Kultūros vertybių apsaugos departamentas turi priimti
-sprendimus dėl naujai išaiškintų vertybių ištyrimo ir tolesnės darbų eigos.
- 
-[21
-straipsnio redakcija nuo 2002 m. liepos 1 d.:
 21 straipsnis.
 Nekilnojamųjų kultūros vertybių tvarkymo darbai
 Nekilnojamųjų kultūros vertybių tvarkymo darbai yra
 priešavariniai (avarijos grėsmės pašalinimo), remonto, pritaikymo, tyrimo,
 konservavimo, restauravimo ir atkūrimo, atliekami taikant paveldo apsaugos
-technologijas (visų darbų, susijusių su nekilnojamosios kultūros vertybės autentiškumu,
-jos dokumentacija ir išsaugojimu, vykdymo būdai ir reikalavimai, nustatyti
-kultūros ministro tvirtinamais reglamentais), bei nekilnojamųjų kultūros
-vertybių tvarkymo statybos darbai (statinio ar atskirų jo dalių statybos ar
-griovimo darbai atliekami statinyje – nekilnojamojoje kultūros vertybėje ar
+technologijas (visų darbų, susijusių su nekilnojamosios kultūros vertybės
+autentiškumu, jos dokumentacija ir išsaugojimu, vykdymo būdai ir reikalavimai,
+nustatyti kultūros ministro tvirtinamais reglamentais), bei nekilnojamųjų
+kultūros vertybių tvarkymo statybos darbai (statinio ar atskirų jo dalių statybos
+ar griovimo darbai atliekami statinyje – nekilnojamojoje kultūros vertybėje ar
 nekilnojamosios kultūros vertybės teritorijoje).
 Nekilnojamosios
 kultūros vertybės priešavariniais darbais (projektavimo – esant reikalui,
@@ -727,42 +696,17 @@ pagrįstas išsamiais istorinių šaltinių bei fiziniais tyrimais;
 2) vertybė turi ypatingą meninę ar simbolinę reikšmę,
 yra itin svarbi tautinės savimonės ir kultūros paveldo puoselėjimui bei dera
 prie kraštovaizdžio;
-3) yra išreikštas administravimo institucijų ir
-visuomenės (gyventojų apklausos būdu) pritarimas.
+3) yra išreikštas administravimo institucijų ir visuomenės
+(gyventojų apklausos būdu) pritarimas.
 Nekilnojamąją
 kultūros vertybę draudžiama perkelti, išskyrus atvejus, kai perkėlimas yra
 būtinas užtikrinant tokios vertybės išsaugojimą. Turi būti imtasi visų būtinų
 atsargos priemonių tokį objektą išardant, pervežant ir vėl pastatant tinkamoje
-vietoje.]
+vietoje.
 Straipsnio pakeitimai:
 Nr. IX-991,
 2002-06-25, Žin., 2002, Nr. 68-2775 (2002-07-03), įsigalioja nuo 2002-07-01
  
-            22 straipsnis. Nekilnojamųjų
-kultūros vertybių saugojimas atliekant priešavarinius, 
-remonto ar
-pritaikymo darbus
-            Nekilnojamųjų kultūros
-vertybių priešavariniams, remonto ar pritaikymo darbams bei tokiems darbams jų
-teritorijose atlikti reikalingas Kultūros vertybių apsaugos departamento
-leidimas. Pritaikymo darbams reikalingas projektas suderintas su Kultūros
-vertybių apsaugos departamentu.
-            Kultūros vertybių apsaugos
-departamentas per vieną mėnesį nuo kreipimosi dienos turi išduoti leidimą
-atlikti darbus ar suderinti pritaikymo projektus arba motyvuotai atsisakyti,
-jeigu darbai neatitinka šio įstatymo 21 straipsnio sąlygų.
-            Kultūros vertybių apsaugos
-departamento leidimas pradėti darbus ir suderintas pritaikymo projektas galioja
-vienerius metus.
-            Kultūros vertybių apsaugos
-departamentas, išduodamas leidimą priešavariniams, remonto ar pritaikymo
-darbams, derindamas pritaikymo projektą, privalo pareikalauti kartu atlikti
-būtinus tyrimo, konservavimo ar restauravimo darbus.
-            Priešavarinius, remonto ar
-pritaikymo darbus turi prižiūrėti atestuoti specialistai.
- 
-[22
-straipsnio redakcija nuo 2002 m. liepos 1 d.:
 22 straipsnis.
 Nekilnojamųjų kultūros vertybių tyrimas
 Nekilnojamosios
@@ -789,37 +733,11 @@ ministro patvirtinta tvarka.
 Nekilnojamosios
 kultūros vertybės tvarkymo metu išaiškėjus naujiems kultūrinės vertės
 požymiams, valstybės biudžeto lėšomis atliekami būtini tyrimai, pagal kuriuos
-tokia vertybė gali būti papildomai konservuojama ar restauruojama.]
+tokia vertybė gali būti papildomai konservuojama ar restauruojama.
 Straipsnio pakeitimai:
 Nr. IX-991,
 2002-06-25, Žin., 2002, Nr. 68-2775 (2002-07-03), įsigalioja nuo 2002-07-01
  
-            23 straipsnis. Nekilnojamųjų
-kultūros vertybių tyrimas, konservavimas, restauravimas 
-ir atkūrimas
-            Nekilnojamąsias kultūros
-vertybes tirti, konservuoti, restauruoti ir atkurti galima tik pagal Kultūros
-vertybių apsaugos departamento patvirtintas sąlygas, programas ar projektus ir
-gavus šio departamento leidimą. Nustatant tyrimo tvarką ir darbuose dalyvauja
-Lietuvos istorijos institutas.
-            Patvirtintos sąlygos,
-programos ar projektai galioja trejus metus.
-            Kultūros vertybių apsaugos
-departamento leidimas pradėti darbus galioja vienerius metus.
-            Nekilnojamųjų kultūros
-vertybių tyrimo, konservavimo, restauravimo ar atkūrimo sąlygas, programas ar
-projektus Kultūros vertybių apsaugos departamentas turi patvirtinti arba
-motyvuotai atsisakyti, jeigu darbai neatitinka šio įstatymo 21 straipsnio
-sąlygų, per du mėnesius nuo kreipimosi dienos, o išduoti leidimą - per 15
-dienų.
-Nekilnojamųjų
-kultūros vertybių remonto, tyrimo, konservavimo, restauravimo ir atkūrimo
-darbus atlikti, taip pat rengti šių darbų sąlygas, programas ir projektus gali
-tik Lietuvos Respublikos Vyriausybės nustatyta tvarka Kultūros vertybių
-apsaugos departamento atestuotos įmonės.
- 
-[23
-straipsnio redakcija nuo 2002 m. liepos 1 d.:
 23
 straipsnis. Nekilnojamųjų kultūros vertybių tvarkymo darbų organizavimas
 Nekilnojamosios
@@ -828,8 +746,7 @@ kultūros vertybės tvarkymo darbai parenkami ir atliekami:
 būtinais tyrimais nustatytą sudėtį, apimtį ir kultūrinės vertės požymius bei
 jos apsaugos reikalavimus; 
 2) pagal statinių – nekilnojamųjų kultūros vertybių
-tvarkymo statybos darbų reglamentus, patvirtintus aplinkos ir kultūros
-ministrų;
+tvarkymo statybos darbų reglamentus, patvirtintus aplinkos ir kultūros ministrų;
 3) pagal kultūros ministro patvirtintus paveldo
 apsaugos technologijų techninio normavimo reglamentus.
 Parengti
@@ -848,12 +765,22 @@ tokiems darbams, projekto vykdymo priežiūrai, tokio statinio projekto
 ekspertizei turi teisę aplinkos ir kultūros ministrų nustatyta tvarka
 atestuotas darbų vadovas. Vyriausybės nustatyta tvarka jis įsigyja patentą arba
 aplinkos ir kultūros ministrų nustatyta tvarka dirba atestuotoje įmonėje.
+ 
+[3
+dalies redakcija nuo 2003 m. sausio 1 d.:
+Vadovauti
+statinių – nekilnojamųjų kultūros vertybių tvarkymo statybos darbų projektams,
+tokiems darbams, projekto vykdymo priežiūrai, tokio statinio projekto
+ekspertizei turi teisę aplinkos ir kultūros ministrų nustatyta tvarka
+atestuotas darbų vadovas, jei jis turi verslo liudijimą arba dirba įmonėje,
+kuri yra atestuota aplinkos ir kultūros ministrų nustatyta tvarka.]
+ 
 Leidimus
 nekilnojamųjų kultūros vertybių tvarkymo statybos darbams Vietos savivaldos bei
 Statybos įstatymų nustatyta tvarka išduoda savivaldybės meras ar jo įgaliotas
-pagal šio įstatymo 5 straipsnio 10 dalį įsteigtos tarnybos vadovas ar
-pareigūnas. Leidimas nekilnojamosios kultūros vertybės tvarkymo statybos
-darbams išduodamas, jei savivaldybės mero įsteigtos Nuolatinės statybos komisijos
+pagal šio įstatymo 5 straipsnio 10 dalį įsteigtos tarnybos vadovas ar pareigūnas.
+Leidimas nekilnojamosios kultūros vertybės tvarkymo statybos darbams
+išduodamas, jei savivaldybės mero įsteigtos Nuolatinės statybos komisijos
 protokolą, rekomenduojantį išduoti šį leidimą, pasirašo Kultūros vertybių
 apsaugos departamento pareigūnas ar įgaliotas specialistas. 
 Iki leidimo išdavimo ne vėliau kaip per vieną mėnesį nuo projekto
@@ -887,7 +814,7 @@ Nekilnojamosios
 kultūros vertybės tvarkymo darbų programos galioja penkerius metus. Tokios
 vertybės konservavimo, pritaikymo, restauravimo ir atkūrimo darbų projekto
 galiojimo laikas nustatomas šių darbų leidime, tačiau projektas netenka galios,
-jei per trejus metus nuo leidimo išdavimo darbai nebuvo pradėti vykdyti.]
+jei per trejus metus nuo leidimo išdavimo darbai nebuvo pradėti vykdyti.
 Straipsnio
 pakeitimai:
 Nr. VIII-423, 97.09.25,
@@ -896,6 +823,8 @@ Nr. VIII-1663, 00.05.04, Žin., 2000,
 Nr.40-1114 (00.05.17)
 Nr. IX-991,
 2002-06-25, Žin., 2002, Nr. 68-2775 (2002-07-03), įsigalioja nuo 2002-07-01
+Nr. IX-1267,
+2002-12-10, Žin., 2002, Nr. 123-5552 (2002-12-24)
  
             24 straipsnis. Nekilnojamųjų
 kultūros vertybių požymių turinčių objektų apsauga
@@ -934,9 +863,9 @@ vertybių apsaugos departamentui.
 vertybių požymių turintys objektai randami kasant žemę, atliekant statybos ar
 kitus darbus, šios vietos savininkas, valdytojas ar atsakingas darbų vykdytojas
 privalo nedelsdamas sustabdyti darbus, garantuoti objektų apsaugą ir pranešti
-Kultūros vertybių apsaugos departamentui. Kultūros vertybių apsaugos
-departamentas ne vėliau kaip per 15 dienų turi priimti sprendimą dėl šios
-vietos ir atrastų objektų ištyrimo ir registravimo.
+Kultūros vertybių apsaugos departamentui. Kultūros vertybių apsaugos departamentas
+ne vėliau kaip per 15 dienų turi priimti sprendimą dėl šios vietos ir atrastų
+objektų ištyrimo ir registravimo.
  
             27 straipsnis.
 Nekilnojamųjų kultūros vertybių saugojimo finansavimas
@@ -963,9 +892,9 @@ konservavimo, restauravimo ir kiti darbai;
 kultūros paminklais nepaskelbtų nekilnojamųjų kultūros vertybių priežiūros,
 priešavariniai, remonto, tyrimo, konservavimo, restauravimo ir kiti darbai.
             Kultūros vertybių apsaugos
-departamentas iš valstybės biudžeto jam skirtų lėšų gali finansuoti nekilnojamųjų
-kultūros vertybių avarinės būklės likvidavimo, apsaugos techninių priemonių
-įrengimo ir kitus išsaugojimo darbus.
+departamentas iš valstybės biudžeto jam skirtų lėšų gali finansuoti
+nekilnojamųjų kultūros vertybių avarinės būklės likvidavimo, apsaugos techninių
+priemonių įrengimo ir kitus išsaugojimo darbus.
             Nekilnojamųjų kultūros
 vertybių išsaugojimą finansuoti galima ir iš kitų šaltinių.
  
@@ -981,9 +910,9 @@ naudojamos šioms vertybėms remontuoti, konservuoti ir restauruoti.
             29 straipsnis. Sandoriai dėl
 nekilnojamųjų kultūros vertybių
             Nekilnojamųjų kultūros
-vertybių savininkai, norėdami parduoti ar kitaip perleisti šias vertybes,
-privalo įspėti būsimus savininkus apie šių vertybių statusą ir apsaugos
-reglamento reikalavimus.
+vertybių savininkai, norėdami parduoti ar kitaip perleisti šias vertybes, privalo
+įspėti būsimus savininkus apie šių vertybių statusą ir apsaugos reglamento
+reikalavimus.
             Naujiems nekilnojamųjų
 kultūros vertybių savininkams pereina visos šio įstatymo nustatytos pareigos ir
 teisės.
@@ -1042,8 +971,9 @@ Kultūros vertybių apsaugos departamentas raštu įspėja savininką ir nurodo
 terminą trūkumams pašalinti. Jeigu savininkas neįvykdo šio reikalavimo, tai
 pagal Kultūros vertybių apsaugos departamento ieškinį teismas gali šią vertybę
 iš savininko paimti ir perduoti valstybės nuosavybėn. Savininkui apmokama pagal
-nekilnojamosios kultūros vertybės vertę, kuri nustatoma buvusio savininko susitarimu
-su Kultūros vertybių apsaugos departamentu, o esant ginčui, ją nustato teismas.
+nekilnojamosios kultūros vertybės vertę, kuri nustatoma buvusio savininko
+susitarimu su Kultūros vertybių apsaugos departamentu, o esant ginčui, ją
+nustato teismas.
  
             35 straipsnis. Ginčų dėl
 nekilnojamųjų kultūros vertybių apsaugos sprendimas
@@ -1106,8 +1036,8 @@ PAKEITIMO
  
 4.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1663, 00.05.04, Žin., 2000, Nr.40-1114
-(00.05.17)
+Nr. VIII-1663, 00.05.04, Žin., 2000,
+Nr.40-1114 (00.05.17)
 NEKILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 6, 23
 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
@@ -1122,18 +1052,28 @@ STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-991,
-2002-06-25, Žin., 2002, Nr. 68-2775 (2002-07-03)
+IX-991, 2002-06-25,
+Žin., 2002, Nr. 68-2775 (2002-07-03)
 NEKILNOJAMŲJŲ
 KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 21, 22 IR 23 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2002 m. liepos 1 d.
+ 
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1267,
+2002-12-10, Žin., 2002, Nr. 123-5552 (2002-12-24)
+NEKILNOJAMŲJŲ
+KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-07-05)
+Aušrinė Trapinskienė (2003-01-17)
                  
 autrap@lrs.lt
