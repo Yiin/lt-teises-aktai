@@ -81,7 +81,6 @@ Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 Nr. IX-488,
 2001-08-02, Žin., 2001, Nr. 71-2517 (2001-08-17)
  
- 
 3 straipsnis. Asmenų, dirbančių
 valstybinėje tarnyboje, prievolės 
 Viešųjų interesų viršenybei užtikrinti
@@ -115,7 +114,6 @@ Straipsnio pakeitimai:
 Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 35-1165 (2001 04 25)
  
- 
 5 straipsnis. Deklaracijų pateikimas 
 1. Asmens, dirbančio valstybinėje
 tarnyboje, metinė privačių interesų deklaracija pateikiama kiekvienais metais
@@ -136,7 +134,6 @@ Vyriausiajai tarnybinės etikos komisijai.
 Straipsnio pakeitimai:
 Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 35-1165 (2001 04 25)
- 
  
 6 straipsnis. Privačių interesų
 deklaracijų turinys 
@@ -180,7 +177,6 @@ bendro ūkio ir dėl to šie duomenys deklaruojančiajam nėra žinomi.
 Straipsnio pakeitimai:
 Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 35-1165 (2001 04 25)
- 
  
 7 straipsnis. Deklaracija paaiškėjus
 naujoms aplinkybėms 
@@ -237,9 +233,8 @@ pavaduotojo ir pavaduotojo, savivaldybių valdybų narių, merų, vicemerų,
 administratorių, savivaldybių kontrolierių, Seimo kontrolierių metinių privačių
 interesų deklaracijų suvestiniai duomenys kiekvienais metais ne vėliau kaip iki
 liepos 15 d. valstybės lėšomis yra skelbiami Vyriausiosios tarnybinės etikos
-komisijos nustatyta tvarka. Vardinį šioje dalyje išvardytų pareigų sąrašą
-kiekvienais metais iki kovo 15 d. nustato Vyriausioji tarnybinės etikos
-komisija.
+komisijos nustatyta tvarka. Vardinį šioje dalyje išvardytų pareigų sąrašą kiekvienais
+metais iki kovo 15 d. nustato Vyriausioji tarnybinės etikos komisija.
 2. Vyriausiosios tarnybinės etikos
 komisijos nustatyta tvarka su šio straipsnio 1 dalyje išvardytų asmenų metinių
 privačių interesų deklaracijų suvestiniais duomenimis, saugomais šio įstatymo 8
@@ -253,7 +248,6 @@ Nr. VIII-1936, 2000 09 19, Žin., 2000, Nr.
 85-2574 (2000 10 11), įsigalioja nuo 2001 01 01
 Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 35-1165 (2001 04 25)
- 
  
 TREČIASIS
 SKIRSNIS
@@ -269,10 +263,10 @@ kitaip paveikti sprendimus, kurie sukelia interesų konfliktą.
 rengimo, svarstymo ar priėmimo procedūrą arba pačios procedūros metu asmuo,
 dirbantis valstybinėje tarnyboje, privalo informuoti savo tiesioginį vadovą ar
 institucijos vadovo įgaliotą atstovą bei asmenis, kurie kartu dalyvauja
-sprendimo rengimo, svarstymo ar priėmimo procedūroje, apie esamą interesų
-konfliktą ir nusišalinti nuo dalyvavimo tolesnėje procedūroje. Institucijos
-vadovas ar jo įgaliotas atstovas gali nepriimti pareikšto nusišalinimo ir
-įpareigoti asmenį dalyvauti tolesnėje procedūroje. 
+sprendimo rengimo, svarstymo ar priėmimo procedūroje, apie esamą interesų konfliktą
+ir nusišalinti nuo dalyvavimo tolesnėje procedūroje. Institucijos vadovas ar jo
+įgaliotas atstovas gali nepriimti pareikšto nusišalinimo ir įpareigoti asmenį
+dalyvauti tolesnėje procedūroje. 
 3. Asmuo, dirbantis valstybinėje
 tarnyboje, privalo vykdyti institucijos vadovo arba jo įgalioto atstovo
 rašytines išankstines rekomendacijas, nuo kokių sprendimų rengimo, svarstymo ar
@@ -312,9 +306,9 @@ interesų valstybės ar savivaldybių institucijose, išskyrus atvejus, kai jie
 veikia kaip įstatyminiai atstovai. Skundų ir pareiškimų nagrinėjimas, tyrimas
 ir svarstymas nelaikomas atstovavimu privačioms grupėms ar asmenims. 
 3. Šio straipsnio 1 ir 2 dalyse
-išvardytų apribojimų išimtis konkrečiu atveju gali nustatyti atitinkamos
-institucijos vadovas ar jo įgaliotas atstovas. Sprendimas apie išimties taikymą
-turi būti viešai paskelbtas. 
+išvardytų apribojimų išimtis konkrečiu atveju gali nustatyti atitinkamos institucijos
+vadovas ar jo įgaliotas atstovas. Sprendimas apie išimties taikymą turi būti
+viešai paskelbtas. 
  
 13 straipsnis. Tarnybinių teisių
 apribojimas 
@@ -334,8 +328,8 @@ sukelti šio įstatymo 2 straipsnyje numatytą viešųjų ir privačių interes�
 konfliktą.
 2. Šio straipsnio 1 dalyje nustatytas
 apribojimas netaikomas asmenims, gavusiems dovanų ar paslaugų pagal tarptautinį
-protokolą ar tradicijas, kurios įprastai yra susijusios su asmens, dirbančio
-valstybinėje tarnyboje, pareigomis. 
+protokolą ar tradicijas, kurios įprastai yra susijusios su asmens, dirbančio valstybinėje
+tarnyboje, pareigomis. 
 3. Jeigu šio straipsnio 2 dalyje
 nurodytų dovanų vertė viršija 1 minimalų gyvenimo lygį (toliau - MGL), o
 paslaugų vertė viršija 5 MGL, asmuo, dirbantis valstybinėje tarnyboje, privalo
@@ -393,7 +387,6 @@ Straipsnio pakeitimai:
 Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 35-1165 (2001 04 25)
  
- 
 19
 straipsnis. Apribojimai sudaryti sandorius ar naudotis individualiomis
 lengvatomis 
@@ -411,18 +404,23 @@ metus
 neviršija 10 000 Lt. 
  
 20 straipsnis. Atstovavimo apribojimai 
-1. Asmuo, nustojęs eiti pareigas
+1. Asmuo,
+nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus negali
+atstovauti fiziniams ar juridiniams asmenims toje institucijoje, kurioje jis
+paskutinius metus dirbo.
+2. Asmuo, nustojęs eiti pareigas
 valstybinėje tarnyboje, vienerius metus negali atstovauti fiziniams ar
-juridiniams asmenims toje institucijoje, kurioje jis paskutinius metus dirbo,
-taip pat negali atstovauti fiziniams ar juridiniams asmenims kitose valstybės
-ar savivaldybių institucijose tais klausimais, kurie buvo priskirti jo
-tarnybinėms funkcijoms. Ši nuostata netaikoma advokatams. 
-2. Asmeniui, dirbančiam valstybinėje
+juridiniams asmenims kitose valstybės ar savivaldybių institucijose tais
+klausimais, kurie buvo priskirti jo tarnybinėms funkcijoms.
+3. Asmeniui, dirbančiam valstybinėje
 tarnyboje, neleidžiama turėti tarnybinių santykių su anksčiau valstybinėje
 tarnyboje dirbusiu asmeniu, kuriam taikomi šio straipsnio 1 dalies apribojimai.
 Asmuo, dirbantis valstybinėje tarnyboje, apie tokius tarnybinius santykius
 privalo nedelsdamas informuoti savo institucijos vadovą ar jo įgaliotą atstovą.
 
+Straipsnio pakeitimai:
+Nr. IX-597, 2001-11-13,
+Žin., 2001, Nr. 99-3529 (2001-11-28)
  
 21 straipsnis. Apribojimų netaikymas 
 Šio įstatymo 18-20 straipsniuose
@@ -450,20 +448,19 @@ institucijų vadovai ar jų įgalioti atstovai, kontroliuodami, kaip vykdomas š
 1) prižiūri, ar asmenys, dirbantys
 valstybinėje tarnyboje, laiku ir tinkamai pateikia privačių interesų
 deklaracijas; 
-2) remdamiesi metinėmis privačių
-interesų deklaracijomis arba asmens, dirbančio valstybinėje tarnyboje, prašymu
-parengia asmeniui rašytines rekomendacijas, kokių priemonių asmuo turi imtis,
-kad savo tarnybinę veiklą suderintų su šio įstatymo reikalavimais; 
-3) savo iniciatyva, Vyriausiosios
-tarnybinės etikos komisijos nurodymu arba gavę pareiškimą, kad kuris nors
-asmuo, dirbantis jiems pavaldžioje valstybinėje tarnyboje, savo tarnybinėje
-veikloje nevykdo šio įstatymo reikalavimų, gali atlikti šio asmens tarnybinės
-veiklos patikrinimą. Tokiam tikrinimui įstaigoje gali būti įsteigta Tarnybinės
-etikos komisija. Apie tikrinimo rezultatus informuojamas pareiškimą pateikęs
-asmuo, asmuo, kurio veikla buvo tikrinta, taip pat Vyriausioji tarnybinės
-etikos komisija. Vyriausioji tarnybinės etikos komisija supažindinama ir su
-visais gaunamais pareiškimais, kuriuose pateikiama informacija apie šio
-įstatymo pažeidimus. 
+2) remdamiesi metinėmis privačių interesų
+deklaracijomis arba asmens, dirbančio valstybinėje tarnyboje, prašymu parengia
+asmeniui rašytines rekomendacijas, kokių priemonių asmuo turi imtis, kad savo
+tarnybinę veiklą suderintų su šio įstatymo reikalavimais; 
+3) savo iniciatyva, Vyriausiosios tarnybinės
+etikos komisijos nurodymu arba gavę pareiškimą, kad kuris nors asmuo, dirbantis
+jiems pavaldžioje valstybinėje tarnyboje, savo tarnybinėje veikloje nevykdo šio
+įstatymo reikalavimų, gali atlikti šio asmens tarnybinės veiklos patikrinimą.
+Tokiam tikrinimui įstaigoje gali būti įsteigta Tarnybinės etikos komisija. Apie
+tikrinimo rezultatus informuojamas pareiškimą pateikęs asmuo, asmuo, kurio
+veikla buvo tikrinta, taip pat Vyriausioji tarnybinės etikos komisija.
+Vyriausioji tarnybinės etikos komisija supažindinama ir su visais gaunamais
+pareiškimais, kuriuose pateikiama informacija apie šio įstatymo pažeidimus. 
  
 23 straipsnis. Vyriausioji tarnybinės
 etikos komisija 
@@ -516,7 +513,6 @@ komisijos sprendimai gali būti skundžiami teismui.
 Straipsnio pakeitimai:
 Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 35-1165 (2001 04 25)
- 
  
 24 straipsnis. Atsakomybė
 Asmenys, dirbantys valstybinėje
@@ -591,14 +587,24 @@ Nr.
 IX-488,
 2001-08-02, Žin., 2001, Nr. 71-2517 (2001-08-17)
 VIEŠŲJŲ
-IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 2 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
+IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 
+2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-597,
+2001-11-13, Žin., 2001, Nr. 99-3529 (2001-11-28)
+VIEŠŲJŲ
+IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 
+20 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2001-08-16)
+Aušrinė Trapinskienė (2001-11-28)
                  
 autrap@lrs.lt
