@@ -13,30 +13,39 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.73F76F9D2EF1"
 
 # Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinis įstatymas
 
-LIETUVOS RESPUBLIKOS  KONSTITUCIJOS 47 STRAIPSNIO ANTROJOJE DALYJE NUMATYTO  ŽEMĖS SKLYPŲ ĮSIGIJIMO NUOSAVYBĖN SUBJEKTŲ, TVARKOS,  SĄLYGŲ IR APRIBOJIMŲ  KONSTITUCINIS ĮSTATYMAS
+Suvestinė redakcija nuo 2003-04-09 iki 2011-11-11
+ 
+Konstitucinis įstatymas paskelbtas: Žin. 1996, Nr. 64-1503, i. k. 0961010KIST00I-1392
+ 
+Nauja redakcija nuo 2003-04-09:
+Nr. IX-1381, 2003-03-20, Žin. 2003, Nr. 34-1418 (2003-04-09), i. k. 1031010ISTA0IX-1381
+ 
+LIETUVOS RESPUBLIKOS 
+KONSTITUCIJOS 47 STRAIPSNIO 3 DALIES ĮGYVENDINIMO  KONSTITUCINIS  ĮSTATYMAS
  
 1996 m. birželio 20 d. Nr. I-1392
 Vilnius
  
+ 
 
 
-1 straipsnis. Įstatymo tikslai
+PIRMASIS SKIRSNIS
+BENDROSIOS NUOSTATOS
+ 
 
 
-Įgyvendinant Konstitucijos 47 straipsnio antrosios dalies nuostatas, šiuo konstituciniu įstatymu nustatomi:
+1 straipsnis. Įstatymo paskirtis
 
 
-1) subjektai, kuriems šiame įstatyme numatytai veiklai Lietuvoje gali būti leidžiama nuosavybės teise įsigyti ne žemės ūkio paskirties žemės sklypus;
+Įgyvendinant Konstitucijos 47 straipsnio 3 dalies nuostatas, šiame Įstatyme nustatomi:
 
 
-
-
-2) sąlygos, tvarka ir apribojimai, kurių laikydamiesi šio įstatymo nustatyti subjektai gali įsigyti nuosavybėn žemės sklypą;
+1) užsienio subjektai, kuriems šiame Įstatyme nustatyta tvarka ir sąlygomis Lietuvoje gali būti leidžiama nuosavybės teise įsigyti žemę, vidaus vandenis ir miškus;
 
 
 
 
-3) įsigyjamo nuosavybėn žemės sklypo dydžio nustatymo pagrindai.
+2) sąlygos, tvarka ir apribojimai, kurių laikydamiesi šio Įstatymo nustatyti užsienio subjektai gali įsigyti nuosavybės teise žemę, vidaus vandenis ir miškus.
  
 
 
@@ -46,93 +55,40 @@ Vilnius
 
 
 
-2 straipsnis. Įstatyme vartojamų sąvokų apibrėžimai
+2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
-Šiame įstatyme vartojamos sąvokos apibrėžiamos taip:
+1. Užsienio subjektai – užsieniečiai ir užsienio juridiniai asmenys, taip pat kitos užsienio organizacijos, apibūdintos šio straipsnio 4 dalyje. 
 
 
 
 
-1. Nacionaliniai subjektai yra:
+2. Užsieniečiai – užsienio valstybių piliečiai ir užsienio valstybių nuolatiniai gyventojai, taip pat Lietuvos Respublikos nuolatiniai gyventojai, neturintys Lietuvos Respublikos pilietybės.
 
 
-1) Lietuvos Respublikos savivaldybės;
 
 
+3. Užsienio juridinis asmuo – užsienio valstybėje įsteigta įmonė, įstaiga ar organizacija, kuri gali savo vardu įgyti ir turėti teisių bei pareigų, būti ieškovu ar atsakovu teisme.
 
 
-2) Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtos ir juridinio asmens teises turinčios įmonės, kurios turi Lietuvoje savo buveinę, centrinę administraciją arba pagrindinę verslo vietą, vykdo čia ūkinę veiklą ir kurių veiksmingos kontrolės teisės priklauso Lietuvos Respublikos piliečiams, savivaldybėms, valstybei arba kitoms Lietuvos kilmės įmonėms, kurių veiksmingos kontrolės teisės taip pat priklauso Lietuvos piliečiams, savivaldybėms ar valstybei;
 
 
+4. Kitos užsienio organizacijos – užsienio valstybėse įsteigtos organizacijos, neturinčios juridinio asmens statuso, tačiau turinčios civilinį teisnumą pagal tų valstybių įstatymus. 
 
 
-3) juridinio asmens teises turinčios Lietuvos Respublikos piliečių visuomeninės organizacijos ir kiti Lietuvos piliečių susivienijimai, kurių vadovaujančių institucijų buveinės yra Lietuvos teritorijoje ir kurios užsiima įstatuose numatyta realia tęstine (ne trumpiau kaip penkerius metus) veikla, taip pat juridinio asmens teises turinčios valstybės pripažintos tradicinės bažnyčios bei kitos religinės organizacijos;
 
 
+5. Ūkinė veikla – įstatymų nustatyta tvarka Lietuvoje vykdoma neterminuota ir nuolatinė pramoninė, komercinė, profesinė, amatininkų bei kita veikla, kuria siekiama pelno laikantis Lietuvos Respublikos įstatymų nustatytos tvarkos bei sąlygų. 
 
 
-4) šio straipsnio pirmosios dalies 3 punkte išvardytų subjektų įsteigti pelno nesiekiantys juridiniai asmenys, užsiimantys realia socialinės paramos ar globos veikla.
 
 
+6. Ne žemės ūkio paskirties žemės sklypai – žemės sklypai, pagal įstatymų nustatyta tvarka patvirtintus detaliuosius planus numatyti tam tikros paskirties veiklai reikalingiems pastatams ir įrenginiams statyti, taip pat tam tikros paskirties veiklai skirtų esamų pastatų ir įrenginių žemės sklypai, kurie būtini tiems pastatams ir įrenginiams eksploatuoti.
 
 
 
 
-2. Užsienio subjektai:
-
-
-1) užsienio kilmės įmonių ar užsienio valstybių piliečių įsteigtos ar įgytos bei juridinio asmens teisėmis įregistruotos įmonės Lietuvoje, turinčios čia savo buveinę, centrinę administraciją arba pagrindinę verslo vietą, kurios čia vykdo ūkinę veiklą ir kurių veiksmingos kontrolės teisės priklauso užsienio valstybių kilmės įmonėms ar užsienio piliečiams;
-
-
-
-
-2) užsienio kilmės įmonės, kurios ūkinei veiklai Lietuvoje yra įsteigusios neturinčius juridinio asmens teisių savo filialus ar padalinius;
-
-
-
-
-3) užsienio valstybių piliečiai, užsiimantys įsteigta ūkine veikla Lietuvoje.
-
-
-
-
-
-
-3. Užsienio subjekto kilmė reiškia įmonę, filialą ar padalinį Lietuvoje įsigyjančios ar steigiančios užsienio įmonės priklausomybę atitinkamai užsienio valstybei, kurioje šis subjektas yra registruotas, turi savo buveinę, centrinę administraciją arba pagrindinę verslo vietą ir su kuria yra susijęs realiais ir tęstiniais ryšiais. Realūs ryšiai reiškia pagrindinę verslo veiklą atitinkamoje užsienio valstybėje ar narystę verslo ar profesinėse asociacijose. Tęstiniai ryšiai reiškia ne mažesnę kaip penkerių metų bendrą veiklos atitinkamose valstybėse ar realių ryšių su jomis trukmę. Kai steigėjas yra užsienietis privatus asmuo, apie jo kilmę sprendžiama pagal pilietybę ir realius tęstinius ryšius su atitinkama užsienio valstybe.
-
-
-
-
-4. Veiksmingos kontrolės teisės reiškia įmonės kapitalo valdymą ir akcijų paketo priklausymą, kurie užtikrina galimybę priimti nuosavybės disponavimo ir(ar) įmonės valdymo sprendimus.
-
-
-
-
-5. Ūkinė veikla – įstatymo nustatyta tvarka įsteigta ir registruota neterminuota ir nuolatinė pramoninė, komercinė, profesinio pobūdžio, amatininkų bei kita veikla Lietuvoje, kuria siekiama pelno laikantis Lietuvos Respublikos įstatymų nustatytos tvarkos bei sąlygų. Tiesioginė ūkinė veikla – konkreti ūkinė veikla, kuri nurodyta įmonės, jos filialo ar padalinio steigimo Lietuvoje dokumentuose.
-
-
-
-
-6. Ne žemės ūkio paskirties žemės sklypai – žemės sklypai, pagal valstybės nustatyta tvarka patvirtintus detaliuosius planus numatyti atitinkamos paskirties veiklai reikalingų pastatų ir įrenginių statybai, taip pat atitinkamos paskirties veiklai skirtų esamų pastatų ir įrenginių žemės sklypai, kurie būtini tokių pastatų ir įrenginių eksploatavimui.
-
-
-
-
-7. Pastatai ir įrenginiai – tokie pastatai ir įrenginiai, kurie susiję su žeme ir kurie negali būti perkelti nepakeitus jų paskirties ir esmės:
-
-
-1) įmonių, jų filialų ar padalinių, taip pat užsienio piliečių tiesioginei ūkinei veiklai Lietuvoje reikalingi pastatai ir įrenginiai;
-
-
-
-
-2) nacionalinių subjektų – juridinių asmenų, kurie nėra įmonės, tiesioginėms funkcijoms vykdyti reikalingi pastatai ir įrenginiai;
-
-
-
-
-3) įstatymų nustatytoms savivaldybių funkcijoms vykdyti reikalingi pastatai ir įrenginiai.
+7. Pastatai ir įrenginiai – užsienio subjektų steigimo dokumentuose nurodytai ūkinei veiklai Lietuvoje reikalingi pastatai ir įrenginiai, kurie susiję su žeme ir kurie negali būti perkelti nepakeitus jų paskirties ir esmės.
  
 
 
@@ -140,28 +96,11 @@ Vilnius
 
 
 
+3 straipsnis. Užsienio subjektai, kuriems gali būti leidžiama įsigyti nuosavybės teise žemę, vidaus vandenis ir miškus
 
 
-3 straipsnis. Subjektai, kuriems gali būti leidžiama įsigyti nuosavybėn žemės sklypus
-
-
-Pagal šį įstatymą įsigyti nuosavybėn pastatų ir įrenginių statybai ir eksploatavimui reikalingus žemės sklypus gali būti leidžiama:
-
-
-1) nacionaliniams subjektams;
-
-
-
-
-2) užsienio subjektams, kurių kilmė atitinka nustatytąją šio įstatymo 4 straipsnyje, išskyrus užsienio valstybių piliečius;
-
-
-
-
-3) užsienio valstybių piliečiams – ne vėliau kaip pasibaigus Europos sutarties, steigiančios Europos bendrijų bei jų šalių narių ir Lietuvos Respublikos asociaciją, numatytam pereinamajam laikotarpiui.
+Pagal šį Įstatymą įsigyti nuosavybės teise žemę, vidaus vandenis ir miškus gali būti leidžiama užsienio subjektams, atitinkantiems Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus.
  
-
-
 
 
 
@@ -171,15 +110,38 @@ Pagal šį įstatymą įsigyti nuosavybėn pastatų ir įrenginių statybai ir e
 4 straipsnis. Europinės ir transatlantinės integracijos kriterijus atitinkantys užsienio subjektai
 
 
-Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atitinka užsienio subjektai, kurie pagal kilmės požymius yra iš:
+1. Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atitinka užsienio juridiniai asmenys, taip pat kitos užsienio organizacijos, įsteigti:
 
 
-1) valstybių, priklausančių Europos Sąjungai, arba valstybių Europos sutarties dalyvių, įsteigusių asociaciją su Europos bendrijomis ir joms priklausančiomis šalimis narėmis;
+1) valstybėse Europos Sąjungos narėse arba valstybėse, sudariusiose Europos sutartį (Asociacijos sutartį) su Europos bendrijomis bei jų šalimis narėmis;
 
 
 
 
-2) valstybių, kurios šio įstatymo priėmimo momentu yra Ekonominio bendradarbiavimo ir plėtros organizacijos (OECD) arba Šiaurės Atlanto sutarties organizacijos narės.
+2) valstybėse Ekonominio bendradarbiavimo ir plėtros organizacijos, Šiaurės Atlanto Sutarties Organizacijos narėse bei valstybėse Europos ekonominės erdvės susitarimo dalyvėse.
+
+
+
+
+
+
+2. Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atitinka šio straipsnio 1 dalyje nurodytų valstybių piliečiai ir šių užsienio valstybių nuolatiniai gyventojai, taip pat Lietuvos Respublikos nuolatiniai gyventojai, neturintys Lietuvos Respublikos pilietybės.
+ 
+
+
+
+
+
+
+5 straipsnis. Draudimas parduoti žemę, vidaus vandenis ir miškus, kol į juos neatkurtos Lietuvos Respublikos piliečių nuosavybės teisės
+
+
+1. Žemę, į kurią pagal Lietuvos Respublikos įstatymus privalo būti atkurtos Lietuvos Respublikos piliečių nuosavybės teisės, šio Įstatymo 4 straipsnyje nurodyti užsienio subjektai gali įsigyti po to, kai pagal įstatymus bus atkurtos Lietuvos Respublikos piliečių nuosavybės teisės į ją ir žemės nuosavybės teisės bus įstatymų nustatyta tvarka įregistruotos.
+
+
+
+
+2. Valstybinė žemės ūkio paskirties žemė, vidaus vandenys ir miškai gali būti parduodami ar kitaip perduodami privačios nuosavybės teise šio Įstatymo 4 straipsnyje nurodytiems užsienio subjektams tik baigus atkurti nuosavybės teises bei žemės reformą toje kadastro vietovėje Žemės reformos įstatymo nustatyta tvarka.
  
 
 
@@ -189,10 +151,20 @@ Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atit
 
 
 
-5 straipsnis. Kitų užsienio subjektų teisės
+ANTRASIS SKIRSNIS
+UŽSIENIO SUBJEKTŲ TEISĖ ĮSIGYTI NUOSAVYBĖS TEISE ŽEMĘ, VIDAUS VANDENIS IR MIŠKUS
+ 
 
 
-Šio įstatymo 4 straipsnyje nustatytų kriterijų neatitinkantiems užsienio subjektams, kurie vykdo ūkinę veiklą Lietuvoje, šiai veiklai skirtų pastatų ir įrenginių statybai ir eksploatavimui reikalingus žemės sklypus leidžiama tik nuomoti.
+6 straipsnis. Užsienio subjektų teisė įsigyti nuosavybės teise žemę, vidaus vandenis ir miškus
+
+
+1. Šio Įstatymo 4 straipsnyje nustatytus kriterijus atitinkantys užsienio subjektai Lietuvos Respublikoje turi teisę įsigyti nuosavybės teise žemę, vidaus vandenis ir miškus ta pačia tvarka ir tomis pačiomis sąlygomis kaip ir Lietuvos Respublikos piliečiai bei juridiniai asmenys.
+
+
+
+
+2. Šio Įstatymo 4 straipsnyje nustatytų kriterijų neatitinkantiems užsienio subjektams draudžiama įsigyti nuosavybės teise žemę, vidaus vandenis ir miškus, tačiau šį turtą jie gali valdyti ar naudoti Lietuvos Respublikos įstatymų nustatyta tvarka.
  
 
 
@@ -200,15 +172,22 @@ Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atit
 
 
 
-6 straipsnis. Žemė, kurią gali įsigyti nuosavybėn šio įstatymo nustatyti subjektai
 
 
-1. Savivaldybės, laikydamosi šio įstatymo nustatytos tvarkos ir sąlygų, gali įsigyti nuosavybėn įstatymo nustatytoms jų funkcijoms vykdyti skirtiems pastatams ir įrenginiams eksploatuoti reikalingus ne žemės ūkio paskirties žemės sklypus, taip pat žemės sklypus tokios paskirties pastatų ir įrenginių statybai, išskyrus žemę, nurodytą šio įstatymo 7 straipsnyje.
+TREČIASIS SKIRSNIS
+PEREINAMOSIOS NUOSTATOS DĖL UŽSIENIO SUBJEKTŲ TEISĖS ĮSIGYTI NUOSAVYBĖS TEISE NE ŽEMĖS ŪKIO PASKIRTIES ŽEMĘ
+ 
+
+
+7 straipsnis. Užsienio subjektai, kuriems gali būti leidžiama įsigyti nuosavybės teise ne žemės ūkio paskirties žemės sklypus 
+
+
+1. Pagal šį skirsnį įsigyti nuosavybės teise pastatų ir įrenginių statybai ir eksploatavimui reikalingus ne žemės ūkio paskirties žemės sklypus gali būti leidžiama šio Įstatymo 4 straipsnyje nustatytus kriterijus atitinkantiems užsienio subjektams.
 
 
 
 
-2. Kiti šio įstatymo nustatyti subjektai, laikydamiesi šio įstatymo nustatytos tvarkos ir sąlygų, gali įsigyti nuosavybėn savo tiesioginei veiklai skirtų esamų pastatų ir įrenginių eksploatacijai reikalingus ne žemės ūkio paskirties žemės sklypus, taip pat žemės sklypus tokių pastatų ir įrenginių statybai ir eksploatacijai, išskyrus žemę, nurodytą šio įstatymo 7 straipsnyje. Kitą žemę, kuri yra būtina jų tiesioginei ūkinei veiklai Lietuvoje, šie subjektai gali tik nuomoti.
+2. Šio Įstatymo 4 straipsnyje nustatytų kriterijų neatitinkantiems užsienio subjektams pagal šį skirsnį draudžiama įsigyti nuosavybės teise pastatų ir įrenginių statybai ir eksploatavimui reikalingus ne žemės ūkio paskirties žemės sklypus, tačiau šį turtą jiems gali būti leidžiama valdyti ar naudoti Lietuvos Respublikos įstatymų nustatyta tvarka.
  
 
 
@@ -216,18 +195,29 @@ Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atit
 
 
 
-7 straipsnis. Žemė, kurios šio įstatymo nustatyti subjektai negali įsigyti
+8 straipsnis. Žemė, kurią gali įsigyti nuosavybės teise šio Įstatymo 4 straipsnyje nustatytus kriterijus atitinkantys užsienio subjektai
 
 
-1. Šio įstatymo nustatyti subjektai negali įsigyti nuosavybėn šios žemės:
-
-
-1) išimtinės nuosavybės teise Lietuvos Respublikai priklausančių objektų žemės;
-
+Šio Įstatymo 4 straipsnyje nustatytus kriterijus atitinkantys užsienio subjektai, laikydamiesi šio skirsnio nustatytos tvarkos ir sąlygų, gali įsigyti nuosavybės teise steigimo dokumentuose nurodytai veiklai skirtų esamų pastatų ir įrenginių eksploatavimui reikalingus ne žemės ūkio paskirties žemės sklypus, taip pat žemės sklypus tokiems pastatams ir įrenginiams statyti ir eksploatuoti, išskyrus šio Įstatymo 9 straipsnyje nurodytą žemę.
+ 
 
 
 
-2) valstybinių parkų, valstybinių rezervatų, draustinių, biosferos monitoringo teritorijų apsaugos zonų žemės;
+
+
+
+9 straipsnis. Žemė, kurios šio Įstatymo nustatyti užsienio subjektai negali įsigyti
+
+
+Užsienio subjektai negali įsigyti nuosavybės teise šios žemės:
+
+
+1) išimtine nuosavybės teise Lietuvos Respublikai priklausančių objektų žemės;
+
+
+
+
+2) valstybinių parkų, rezervatų, draustinių, biosferos stebėsenos (monitoringo) teritorijų žemės;
 
 
 
@@ -237,32 +227,32 @@ Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atit
 
 
 
-4) miškų ūkio paskirties žemės, išskyrus ūkinei veiklai skirtų pastatų ir įrenginių eksploatacijai reikalingus sklypus, numatytus patvirtintuose planavimo dokumentuose;
+4) miškų ūkio paskirties žemės, išskyrus ūkinei veiklai skirtiems pastatams ir įrenginiams eksploatuoti reikalingus sklypus, numatytus patvirtintuose teritorijų planavimo dokumentuose;
 
 
 
 
-5) rekreacinių ir apsauginių miškų, upių, kitų, didesnių kaip 1 ha, vandens telkinių ir jų pakrančių apsaugos juostų žemės;
+5) rekreacinių ir apsauginių miškų, upių, kitų didesnių kaip 1 ha vandens telkinių ir jų pakrančių apsaugos juostų žemės;
 
 
 
 
-6) kurortų, viešosios paskirties rekreacijos ir poilsio teritorijų, paskirų bendro viešojo naudojimo poilsio objektų žemės;
+6) kurortų, viešosios paskirties rekreacijos ir poilsio teritorijų, paskirų viešojo naudojimo poilsio objektų žemės;
 
 
 
 
-7) valstybės saugomų gamtinio karkaso, gamtos, istorijos, archeologijos ir kultūros objektų bei jų apsaugos teritorijų žemės;
+7) valstybės saugomų gamtos, istorijos, archeologijos ir kitų kultūros objektų bei jų apsaugos teritorijų žemės;
 
 
 
 
-8) teritorijų, pagal planavimo dokumentus rezervuotų bendrojo naudojimo keliams ir inžinerinėms komunikacijoms, miestų ar kitų vietovių bendrojo naudojimo infrastruktūros objektams ir kitiems bendriems visuomenės poreikiams, žemės;
+8) teritorijų, pagal jų planavimo dokumentus rezervuotų viešojo naudojimo keliams ir inžinerinėms komunikacijoms, miestų ar kitų vietovių viešojo naudojimo infrastruktūros objektams ir kitiems bendriems visuomenės poreikiams, žemės;
 
 
 
 
-9) bendrojo naudojimo kelių, geležinkelių, aerouostų, jūros ar upių uostų, magistralinių vamzdynų ir kitų bendrojo naudojimo inžinerinių komunikacijų bei jų eksploatacijai reikalingos žemės;
+9) viešojo naudojimo kelių, geležinkelių, oro, jūrų ar upių uostų, magistralinių vamzdynų ir kitų viešojo naudojimo inžinerinių komunikacijų žemės bei jiems eksploatuoti reikalingos žemės;
 
 
 
@@ -272,12 +262,12 @@ Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atit
 
 
 
-11) saugomų teritorijų, kuriose aptikta naudingųjų iškasenų ir kitų gamtos turtų, žemės, išskyrus žemės sklypus, kurie pagal planavimo dokumentus tiesiogiai skirti šių išteklių gavybai ar eksploatavimui reikalingų pastatų ir įrenginių statybai;
+11) teritorijų, kuriose aptikta naudingųjų iškasenų ir kitų gamtos turtų, žemės, išskyrus žemės sklypus, kurie pagal teritorijų planavimo dokumentus tiesiogiai skirti šių išteklių gavybai ar eksploatavimui reikalingiems pastatams ir įrenginiams statyti;
 
 
 
 
-12) Kuršių nerijos žemės, Baltijos jūros ir Kuršių marių pakrantės 15 km pločio ruožo žemės, išskyrus nekurortinius miestus;
+12) Kuršių nerijos žemės, Baltijos jūros ir Kuršių marių pakrantės 7 km pločio ruožo žemės, išskyrus kurorto statuso neturinčių miestų žemę;
 
 
 
@@ -287,14 +277,7 @@ Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atit
 
 
 
-14) teritorijų, skirtų ar rezervuotų krašto apsaugos reikmėms, taip pat teritorijų, kuriose žemės įsigijimas įstatymų ar Vyriausybės nutarimų apribotas saugumo motyvais.
-
-
-
-
-
-
-2. Šio straipsnio pirmosios dalies 12 punkto draudimas netaikomas atitinkamų teritorijų savivaldybėms, norinčioms įsigyti žemės sklypą, reikalingą įstatymo nustatytoms jų funkcijoms vykdyti skirtų pastatų ir įrenginių eksploatacijai ar tokių pastatų ir įrenginių statybai.
+14) teritorijų, skirtų ar rezervuotų krašto apsaugos reikmėms, žemės, taip pat teritorijų, kuriose žemės įsigijimas įstatymų ar Lietuvos Respublikos Vyriausybės nutarimų apribotas saugumo motyvais, žemės.
  
 
 
@@ -302,10 +285,12 @@ Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atit
 
 
 
-8 straipsnis. Draudimas parduoti žemę, kol į ją neatstatytos piliečių nuosavybės teisės
 
 
-Žemės, į kurią pagal Lietuvos Respublikos įstatymus privalo būti atstatytos Lietuvos Respublikos piliečio nuosavybės teisės, kol jos nėra atstatytos, ją valdantis subjektas negali parduoti. Tokią žemę šio įstatymo nustatyti subjektai gali įsigyti tik po to, kai pagal įstatymus bus atstatytos Lietuvos piliečio nuosavybės teisės ir žemės nuosavybė bus įstatymo nustatyta tvarka įregistruota.
+10 straipsnis. Įsigyjamo žemės sklypo dydžio nustatymas
+
+
+Žemės sklypo, būtino ūkinei veiklai skirtiems pastatams ir įrenginiams eksploatuoti pagal jų tiesioginius funkcinius reikalavimus, įskaitant šių pastatų neatskiriamiems įrenginiams būtiną žemę, dydis nustatomas pagal Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintą žemės sklypo ir jame esančių pastatų ir įrenginių planą, sudarytą laikantis Lietuvos Respublikos ar jos pripažintų projektavimo normų ir techninių sąlygų bei racionalaus žemės naudojimo reikalavimų.
  
 
 
@@ -313,10 +298,45 @@ Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atit
 
 
 
-9 straipsnis. Įgyjamo žemės sklypo dydžio nustatymas
+11 straipsnis. Leidimų įsigyti žemės sklypą išdavimo tvarka
 
 
-Žemės sklypo, būtino ūkinei veiklai skirtiems pastatams ir įrenginiams eksploatuoti pagal jų tiesioginius funkcinius reikalavimus, įskaitant žemę šių pastatų neatskiriamiems įrenginiams, dydis nustatomas pagal įgaliotos institucijos patvirtintą žemės sklypo su jame išdėstytais pastatais ir įrenginiais planą, sudarytą laikantis Lietuvos Respublikos galiojančių ar jos pripažintų projektavimo normų ir techninių sąlygų bei racionalaus žemės naudojimo reikalavimų. Žemės sklypo ribos tvirtinamos įstatymo nustatyta tvarka.
+1. Šio Įstatymo 4 straipsnyje nustatytus kriterijus atitinkantys užsienio subjektai, norėdami įsigyti ne žemės ūkio paskirties žemės sklypą, raštu prašo Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos leidimo.
+
+
+
+
+2. Kartu su prašymu pageidaujantys nuosavybės teise įsigyti žemės sklypą užsienio subjektai turi pateikti Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytus dokumentus. Prašydami leidimo įsigyti žemės sklypą ūkinei veiklai reikalingiems pastatams ar įrenginiams statyti, investuojantys užsienio subjektai taip pat privalo pateikti būtinus duomenis apie investuojamą kapitalą, konkrečius investicijos ir steigimo dokumentuose nurodytos ūkinės veiklos Lietuvoje planus, kuriamas darbo vietas, ekologinio saugumo garantijas.
+
+
+
+
+3. Užsienio subjektas, kuris prašo leidimo įsigyti žemės sklypą investicijai, susijusiai su pastatų ir įrenginių statyba, privalo raštu įsipareigoti Lietuvos Respublikos Vyriausybei arba jos įgaliotai institucijai iki tam tikro termino baigti pastatus ir įrenginius statyti ir pradėti steigimo dokumentuose numatytą ūkinę veiklą. 
+
+
+
+
+4. Nekilnojamojo turto registro tvarkytojas prašančiam leidimo įsigyti žemės sklypą užsienio subjektui privalo išduoti su pageidaujamu žemės sklypu susijusius reikalingus dokumentus.
+
+
+
+
+5. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija nustato prašymo formą, kokius dokumentus ir informaciją privaloma pateikti, prašymų pateikimo, nagrinėjimo ir leidimų išdavimo procedūras.
+
+
+
+
+6. Gavusi prašymą leisti įsigyti nuosavybės teise žemės sklypą, Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija jį išnagrinėja ir, nustačiusi, kad norintis tą sklypą įsigyti užsienio subjektas ir žemės sklypas atitinka šio Įstatymo sąlygas, priima sprendimą dėl leidimo išdavimo.
+
+
+
+
+7. Leidimas įsigyti nuosavybės teise žemės sklypą gali būti neišduotas, jeigu prašomai veiklai yra įstatymų ar kitų teisės aktų nustatytų apribojimų ar draudimų.
+
+
+
+
+8. Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos atsisakymas išduoti leidimą įsigyti nuosavybės teise žemės sklypą įstatymų nustatyta tvarka gali būti skundžiamas teismui.
  
 
 
@@ -324,45 +344,10 @@ Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atit
 
 
 
-10 straipsnis. Leidimų įsigyti žemės sklypą išdavimo tvarka
+12 straipsnis. Šio Įstatymo įgyvendinimo priežiūra
 
 
-1. Šio įstatymo nustatyti subjektai, norėdami įsigyti ne žemės ūkio paskirties žemės sklypą, raštu prašo Lietuvos Respublikos Vyriausybės leidimo.
-
-
-
-
-2. Kartu su prašymu pretenduojanti nuosavybėn įsigyti žemės sklypą įmonė turi pateikti Vyriausybės nustatytus dokumentus ir oficialią informaciją, kurie reikalingi subjekto kilmei ir veiksmingos kontrolės teisių priklausomybei nustatyti, bei valstybinio žemės tvarkytojo dokumentaciją apie žemės sklypą. Jeigu prašoma leidimo įsigyti žemės sklypą ūkinei veiklai reikalingų pastatų ar įrenginių statybai, investuojantys subjektai taip pat privalo pateikti būtinas žinias apie investuojamą kapitalą, konkrečius investicijos ir tiesioginės ūkinės veiklos Lietuvoje planus, kuriamas darbo vietas, ekologinio saugumo garantijas.
-
-
-
-
-3. Išskyrus įmones ir savivaldybes, kiti šio įstatymo 2 straipsnyje numatyti nacionaliniai subjektai, norintys gauti leidimą įsigyti nuosavybėn žemės sklypą jų tiesioginei veiklai reikalingiems pastatams ir įrenginiams eksploatuoti arba tokių pastatų ir įrenginių statybai, kartu su prašymu turi pateikti dokumentus, patvirtinančius, kad subjektas ir įsigyjamos nuosavybės paskirtis atitinka šio įstatymo nustatytas sąlygas.
-
-
-
-
-4. Subjektas, prašantis leidimo įsigyti žemės sklypą investicijai, susijusiai su pastatų ir įrenginių statyba, privalo įsipareigoti raštu Lietuvos Respublikos Vyriausybei iki tam tikro termino užbaigti pastatų ir įrenginių statybą ir pradėti numatyto pobūdžio ūkinę veiklą. Subjektas, neįvykdęs šių įsipareigojimų, moka įstatymo nustatyto dydžio baudas.
-
-
-
-
-5. Žemės kadastrą tvarkanti įstaiga savininkui prašant privalo išduoti reikalingą dokumentaciją apie žemės sklypą.
-
-
-
-
-6. Vyriausybė nustato prašymo formą, reikalingus pateikti dokumentus ir informaciją, prašymų pateikimo, nagrinėjimo ir leidimų išdavimo procedūras.
-
-
-
-
-7. Gavusi prašymą leisti įsigyti nuosavybėn žemės sklypą, Vyriausybė arba jos įgaliotoji institucija jį išnagrinėja ir, įsitikinusi, kad norintis jį įsigyti subjektas ir žemės sklypas atitinka šio įstatymo sąlygas, priima sprendimą dėl leidimo išdavimo.
-
-
-
-
-8. Leidimas įsigyti žemės sklypą gali būti neišduotas, jeigu prašomai veiklai yra įstatymo ar kito teisės akto nustatyti apribojimai ar draudimai.
+Lietuvos Respublikos Seimas, laikydamasis frakcijų proporcinio atstovavimo principo, sudaro nuolatinę Seimo komisiją šio Įstatymo įgyvendinimui prižiūrėti ir nustato jos įgaliojimus.
  
 
 
@@ -370,78 +355,46 @@ Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atit
 
 
 
-11 straipsnis. Seimo komisija, prižiūrinti šio įstatymo įgyvendinimą
+13 straipsnis. Žemės sklypų įsigijimo nuosavybės teise būdai
 
 
-Seimas, laikydamasis proporcingo frakcijų atstovavimo principo, sudaro komisiją, kuri, vadovaudamasi Seimo suteiktais įgaliojimais ir patvirtintu reglamentu, prižiūri, ar Vyriausybė arba jos įgaliotoji institucija išduoda leidimus įsigyti nuosavybėn pastatų ir įrenginių statybai ir eksploatacijai reikalingus žemės sklypus subjektams, kurie atitinka šio įstatymo nustatytas sąlygas.
+Gavę leidimą įsigyti nuosavybės teise žemės sklypą, užsienio subjektai gali įsigyti:
+
+
+1) Lietuvos Respublikos piliečiams, juridiniams asmenims, išskyrus valstybę ir savivaldybes, taip pat kitiems užsienio subjektams nuosavybės teise priklausančią žemę:
+
+
+a) pirkimo būdu;
+
+
+
+
+b) mainų būdu;
+
+
+
+
+c) kitais būdais, kurie neprieštarauja šio Įstatymo nustatytoms sąlygoms;
+
+
+
+
+
+
+2) Lietuvos valstybei ar savivaldybėms nuosavybės teise priklausančią žemę:
+
+
+a) viešojo pirkimo būdu;
+
+
+
+
+b) pirkimo būdu – kai pastatai ir įrenginiai jau priklauso šio Įstatymo sąlygas atitinkančiam užsienio subjektui, o žemę jis nuomoja iš valstybės ar savivaldybių.
  
 
 
 
 
-
-
-12 straipsnis. Žemės sklypų įsigijimo nuosavybėn būdai
-
-
-Šio įstatymo 3 straipsnyje nustatyti subjektai, gavę leidimą, žemės sklypą gali įsigyti:
-
-
-
-
-1. Iš Lietuvos Respublikos piliečių ir kitų šio įstatymo nustatytų subjektų, išskyrus valstybės ir savivaldybės nuosavybe esančią žemę, šiais būdais:
-
-
-1) pirkimo;
-
-
-
-
-2) mainų;
-
-
-
-
-3) kitais būdais, kurie neprieštarauja šio įstatymo nustatytoms sąlygoms.
-
-
-
-
-
-
-2. Lietuvos valstybės ir savivaldybių nuosavybe esančią žemę:
-
-
-1) viešojo pardavimo-pirkimo būdu;
-
-
-
-
-2) kai pastatai ir įrenginiai jau priklauso šio įstatymo sąlygas atitinkančiam subjektui, o žemę jis nuomoja iš valstybės, – pirkimo būdu.
-
-
-
-
-
-
-3. Savivaldybių funkcijoms vykdyti reikalingų žemės sklypų įsigijimo ir perleidimo ypatumus nustato įstatymas.
- 
-
-
-
-
-
-
-13 straipsnis. Žemės sklypų perleidimo kitam asmeniui sąlygos
-
-
-1. Šio įstatymo nustatyta tvarka ir sąlygomis įsigytą nuosavybėn žemės sklypą subjektai gali perleisti Lietuvos Respublikos piliečiams ir Lietuvos valstybei be apribojimų, o šio įstatymo nustatytiems kitiems subjektams – tik laikydamiesi šio įstatymo nustatytos tvarkos ir sąlygų.
-
-
-
-
-2. Šio straipsnio nuostata taikoma ir įsigyjant įmonės veiksmingą kontrolę užtikrinantį akcijų paketą.
- 
 
 
 
@@ -451,12 +404,12 @@ Seimas, laikydamasis proporcingo frakcijų atstovavimo principo, sudaro komisij�
 14 straipsnis. Žemės sklypų perleidimo sandoriai
 
 
-1. Žemės sklypo įsigijimo nuosavybėn sandoris, nesvarbu, kokiu būdu žemės sklypas įsigytas, turi būti notariškai patvirtintas ir įregistruotas įstatymo nustatyta tvarka. Notaras sandorį gali tvirtinti tik po to, kai jam yra pateikiamas šio įstatymo nustatyta tvarka išduotas leidimas.
+1. Žemės sklypo įsigijimo nuosavybės teise sandoris, nesvarbu, kokiu būdu žemės sklypas įsigytas, turi būti notariškai patvirtintas ir įregistruotas įstatymų nustatyta tvarka. Notaras sandorį gali tvirtinti tik po to, kai jam yra pateikiamas šio Įstatymo nustatyta tvarka išduotas leidimas įsigyti nuosavybės teise žemės sklypą.
 
 
 
 
-2. Negali būti sudarytas ir negalioja joks sandoris, pagal kurį žemės sklypą su pastatais ir įrenginiais nuosavybėn įsigyja subjektas, neatitinkantis šio įstatymo nustatytų sąlygų.
+2. Negali būti sudarytas ir negalioja joks sandoris, pagal kurį žemės sklypą kartu su pastatais ir įrenginiais nuosavybės teise įsigyja užsienio subjektas, neatitinkantis šio Įstatymo nustatytų sąlygų.
  
 
 
@@ -467,17 +420,7 @@ Seimas, laikydamasis proporcingo frakcijų atstovavimo principo, sudaro komisij�
 15 straipsnis. Žemės įsigijimo sandorių pripažinimas negaliojančiais
 
 
-1. Jeigu leidimas įsigyti nuosavybėn žemės sklypą buvo išduotas remiantis pateiktomis neteisingomis žiniomis arba nesilaikant įstatymų nustatytos tvarkos ir sąlygų, leidimas ir jo pagrindu sudarytas sandoris gali būti teismine tvarka pripažinti negaliojančiais.
-
-
-
-
-2. Žemės perleidimo sandoriai, pažeidžiantys šio ar kitų įstatymų reikalavimus, teismine tvarka pripažįstami negaliojančiais.
-
-
-
-
-3. Sandoriams, sudarytiems pažeidžiant šio įstatymo sąlygas, tvarką ir apribojimus, taikomas įstatymo nustatytas specialus senaties terminas.
+Leidimas įsigyti nuosavybės teise žemės sklypą, išduotas remiantis pateiktais neteisingais duomenimis arba nesilaikant įstatymų nustatytos tvarkos ir sąlygų, ir jo pagrindu sudarytas sandoris gali būti teismo tvarka pripažinti negaliojančiais.
  
 
 
@@ -485,20 +428,27 @@ Seimas, laikydamasis proporcingo frakcijų atstovavimo principo, sudaro komisij�
 
 
 
-16 straipsnis. Šis įstatymas ir tarptautinės sutartys
 
 
-1. Šio įstatymo 4 straipsnyje nustatytos kilmės užsienio subjektams teisė įsigyti žemės sklypus Lietuvoje yra preferencija, skirta Lietuvos pasirinktai europinei ir transatlantinei integracijai į valstybių sąjungas ir organizacijas bei Europos sutarties, steigiančios Europos bendrijų bei jų šalių narių ir Lietuvos Respublikos asociaciją, nuostatoms įgyvendinti. Ši preferencija taikoma abipusiškumo pagrindais, kai Lietuvos kilmės subjektams užsienio šalyje suteikiamos ne mažesnės teisės.
+KETVIRTASIS SKIRSNIS
+BAIGIAMOSIOS NUOSTATOS
+ 
+
+
+16 straipsnis. Šis Įstatymas ir tarptautinės sutartys
+
+
+1. Šio Įstatymo 4 straipsnyje nustatytus kriterijus atitinkančių užsienio subjektų teisė įsigyti žemės sklypus Lietuvoje yra preferencija, skirta Lietuvos pasirinktai europinei ir transatlantinei integracijai į valstybių sąjungas ir organizacijas bei Europos sutarties, steigiančios Europos bendrijų bei jų šalių narių ir Lietuvos Respublikos asociaciją, nuostatoms įgyvendinti. Ši preferencija taikoma abipusiškumo pagrindais, kai Lietuvos kilmės subjektams užsienio šalyje suteikiamos ne mažesnės teisės.
 
 
 
 
-2. Negali būti sudaroma ir negalios tarptautinė sutartis, kuri nustatytų teisę įsigyti žemės sklypus nuosavybėn šio įstatymo 4 straipsnio sąlygų neatitinkantiems užsienio subjektams.
+2. Negali būti sudaroma Lietuvos Respublikos tarptautinė sutartis, kuri nustatytų teisę įsigyti žemės sklypus nuosavybės teise šio Įstatymo 4 straipsnyje nustatytų kriterijų neatitinkantiems užsienio subjektams.
 
 
 
 
-3. Jokia Lietuvos Respublikos tarptautinė sutartis, sudaryta iki šio įstatymo įsigaliojimo, išskyrus nurodytąją šio straipsnio pirmojoje dalyje, negali būti aiškinama kaip suteikianti pagrindą gauti leidimą įsigyti nuosavybėn žemės sklypą šio įstatymo 3 straipsnio sąlygų neatitinkantiems užsienio subjektams.
+3. Jokia Lietuvos Respublikos tarptautinė sutartis, sudaryta iki šio Įstatymo įsigaliojimo, išskyrus šio straipsnio 1 dalyje nurodytąją, negali būti aiškinama kaip suteikianti pagrindą gauti leidimą įsigyti nuosavybės teise žemės sklypą šio Įstatymo 4 straipsnyje nustatytų kriterijų neatitinkantiems užsienio subjektams.
  
 
 
@@ -506,27 +456,23 @@ Seimas, laikydamasis proporcingo frakcijų atstovavimo principo, sudaro komisij�
 
 
 
-17 straipsnis. Įstatymo įrašymas į Lietuvos Respublikos konstitucinių įstatymų sąrašą
+17 straipsnis. Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo galiojimas ir taikymas
 
 
-Šis konstitucinis įstatymas turi būti įrašytas į Lietuvos Respublikos konstitucinių įstatymų sąrašą.
+1. Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo trečiasis skirsnis galioja iki Lietuvos Respublikos įstojimo į Europos Sąjungą dienos. Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo antrasis skirsnis įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos, išskyrus šio straipsnio 2 dalyje nustatytą išimtį dėl žemės ūkio paskirties ir miškų ūkio paskirties žemės įsigijimo.
+
+
+
+
+2. Šio Įstatymo 4 straipsnyje nustatytus kriterijus atitinkantys užsienio subjektai, išskyrus tuos užsieniečius, kurie ne mažiau kaip 3 metus Lietuvoje nuolat gyveno ir vertėsi žemės ūkio veikla, ir užsienio juridinius asmenis bei kitas užsienio organizacijas, įsteigusius Lietuvoje atstovybes ar filialus, negali įsigyti žemės ūkio paskirties ir miškų ūkio paskirties žemės iki Lietuvos Respublikos stojimo į Europos Sąjungą sutartyje apibrėžto 7 metų pereinamojo laikotarpio pabaigos.
+
+
+
+
+3. Nuo tos dienos, kurią Lietuvos Respublika taps Europos Sąjungos nare, galios tik tos šio Įstatymo nuostatos, kurios neprieštaraus Lietuvos Respublikos stojimo į Europos Sąjungą sutarčiai.
  
 
 
-
-
-
-
-18 straipsnis. Įstatymo galiojimas
-
-
-1. Šis įstatymas įsigalioja kitą dieną po Europos sutarties, steigiančios Europos bendrijų bei jų šalių narių ir Lietuvos Respublikos asociaciją, įsigaliojimo.
-
-
-
-
-2. Nuo tos dienos, kurią Lietuvos Respublika taps pilnateise Europos Sąjungos nare, iki šį konstitucinį įstatymą pakeičiančio įstatymo priėmimo galios tik tos šio įstatymo nuostatos, kurios neprieštaraus Lietuvos narystės Europos Sąjungoje sutarčiai.
- 
 
 
 
@@ -536,4 +482,16 @@ Seimas, laikydamasis proporcingo frakcijų atstovavimo principo, sudaro komisij�
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1381, 2003-03-20, Žin., 2003, Nr. 34-1418 (2003-04-09), i. k. 1031010ISTA0IX-1381
+Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinio įstatymo pakeitimo įstatymas
