@@ -31,7 +31,6 @@ Nauja
 Nr. IX-682,
 2001-12-21, Žin., 2001, Nr. 112-4089 (2001-12-30)
  
- 
 1 straipsnis.
 Įstatymo paskirtis
 1. Šis Įstatymas
@@ -121,16 +120,16 @@ užsienio valstybių tikslinės lėšos.
  
 4 straipsnis.
 Atskaitymai nuo pajamų 
-1. Atskaitymų
-nuo pajamų mokėtojai – juridiniai asmenys, išskyrus pelno nesiekiančius
-juridinius asmenis, šio Įstatymo 1 priedėlyje nurodytų dydžių atskaitymus
-į Programos finansavimo sąskaitą moka nuo pajamų už parduotas prekes ir
-suteiktas paslaugas, taip pat už parduotą ilgalaikį materialųjį ir
-nematerialųjį turtą, vertybinius popierius, išvestines finansines priemones ir
-nuo palūkanų pajamų. Šios pajamos pripažįstamos vadovaujantis tais pačiais
-pajamų pripažinimo apskaitoje principais kaip ir apskaičiuojant pelno mokestį
-pagal Pelno mokesčio įstatymo nuostatas. Apskaičiuojant atskaitymus nuo pajamų
-į Programos finansavimo sąskaitą, atsižvelgiama į šias ypatybes:
+1. Atskaitymų nuo
+pajamų mokėtojai – juridiniai asmenys, išskyrus pelno nesiekiančius juridinius
+asmenis, šio Įstatymo 1 priedėlyje nurodytų dydžių atskaitymus į Programos
+finansavimo sąskaitą moka nuo pajamų už parduotas prekes ir suteiktas
+paslaugas, taip pat už parduotą ilgalaikį materialųjį ir nematerialųjį turtą,
+vertybinius popierius, išvestines finansines priemones ir nuo palūkanų pajamų.
+Šios pajamos pripažįstamos vadovaujantis tais pačiais pajamų pripažinimo
+apskaitoje principais kaip ir apskaičiuojant pelno mokestį pagal Pelno mokesčio
+įstatymo nuostatas. Apskaičiuojant atskaitymus nuo pajamų į Programos
+finansavimo sąskaitą, atsižvelgiama į šias ypatybes:
 1) gaunant statybų
 veiklos pajamas, atskaitymai į Programos finansavimo sąskaitą mokami nuo
 pajamų, gautų už pačių juridinių asmenų atliktus statybos ir montavimo darbus;
@@ -182,9 +181,8 @@ atskaitymų mokėjimo į Programos finansavimo sąskaitą atleidžiami:
 2) kūrybinės
 sąjungos (architektų, mokslininkų, dailininkų, dizainerių, fotomenininkų,
 kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro,
-žurnalistų), jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų
-pelno sunaudoja kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų
-įstatuose;
+žurnalistų), jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų pelno
+sunaudoja kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų įstatuose;
 3) įmonės,
 kuriose dirba ne mažiau kaip 50 procentų riboto darbingumo darbuotojų ir kurių
 pajamos gaunamos tik už jų pačių pagamintą produkciją;
@@ -382,32 +380,27 @@ susijusioms su keliais, finansuoti.
 4. Metinėse
 sąmatose turi būti numatoma 20 procentų Programos finansavimo lėšų panaudoti
 vietinės reikšmės keliams bei gatvėms tiesti, taisyti, prižiūrėti. 
- 
-5 dalies redakcija iki 2003 m.
-liepos 1 d.:
-5. Programos
-finansavimo lėšos taip pat naudojamos keleivių ir transporto priemonių
-neatlygintino perkėlimo keltais per Kuršių marias išlaidoms kompensuoti
-Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
-5 dalies redakcija nuo 2003 m.
-liepos 1 d.:
 5.
 Lietuvos Respublikos Vyriausybės nustatyta tvarka programos finansavimo lėšos
 taip pat naudojamos tarnybos reikalais vykstantiems medicinos greitosios
-pagalbos ir reanimacijos automobiliams, priešgaisrinių gelbėjimo tarnybų,
-policijos, civilinės saugos, kelių priežiūros, uosto saugos tarnyboms,
-prokuratūros, muitinės, inspekcijų, taip pat kitų valstybės pareigūnų, nurodytų
-Vyriausybės nustatytoje tvarkoje, ir jų transporto priemonėms, tolimojo,
-vietinio (miesto) reguliaraus susisiekimo autobusams, Neringos mieste ir
-Klaipėdos miesto dalyje Smiltynėje gyvenamąją vietą deklaravusiems asmenims ir
-jų lengvosioms transporto priemonėms neatlygintinai perkelti keltais per
-Klaipėdos valstybinio jūrų uosto akvatoriją į (iš) Kuršių 
-neriją (-os) bei Šilutės rajono gyventojų ir jų lengvųjų transporto priemonių
-neatlygintino perkėlimo užlieta krašto kelio Šilutė–Rusnė atkarpa sąnaudoms
-kompensuoti.
+pagalbos ir reanimacijos automobiliams, priešgaisrinėms gelbėjimo tarnyboms,
+policijos, valstybės sienos apsaugos, civilinės saugos, kelių
+priežiūros, uosto saugos tarnyboms, prokuratūros, muitinės, inspekcijų, taip
+pat kitiems valstybės pareigūnams, nurodytiems Vyriausybės nustatytoje
+tvarkoje, ir jų transporto priemonėms, tolimojo, vietinio (miesto) reguliaraus
+susisiekimo autobusams, dviračiams, autocisternoms, vežančioms kurą į Kuršių
+neriją, juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę, 
+transporto priemonėms ir darbuotojams, Neringos mieste ir Klaipėdos miesto
+dalyje Smiltynėje gyvenamąją vietą deklaravusiems asmenims ir jų lengvosioms
+transporto priemonėms neatlygintinai perkelti keltais per Klaipėdos valstybinio
+jūrų uosto akvatoriją į (iš) Kuršių neriją (-os) bei Šilutės rajono gyventojų
+ir jų lengvųjų transporto priemonių neatlygintino perkėlimo užlieta krašto
+kelio Šilutė–Rusnė atkarpa sąnaudoms kompensuoti.
 Straipsnio pakeitimai:
 Nr. IX-1592,
 2003-05-29, Žin., 2003, Nr. 59-2637 (2003-06-20)
+Nr. IX-1703,
+2003-07-04, Žin., 2003, Nr. 69-3122 (2003-07-10)
  
 12 straipsnis. Programos
 finansavimo garantijos
@@ -416,15 +409,14 @@ finansavimo pajamos ir išlaidos, vadovaujantis Biudžeto sandaros įstatymo
 nustatytais specialiųjų programų finansavimo principais, planuojamos valstybės
 biudžete.
 2. Programos
-finansavimo lėšos negali būti naudojamos kitoms valstybės reikmėms, nenumatytoms
-šio Įstatymo 11 straipsnyje, finansuoti.
+finansavimo lėšos negali būti naudojamos kitoms valstybės reikmėms,
+nenumatytoms šio Įstatymo 11 straipsnyje, finansuoti.
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS
 PREZIDENTAS                                                   VALDAS ADAMKUS
- 
 
 
                                                                                                 Lietuvos
@@ -453,8 +445,8 @@ iki 0,1 procento pajamų;
 įstaigos, išskyrus Lietuvos banką, – iki 1 procento pajamų, gautų iš maržos ir
 už kitas paslaugas.
 Priedėlio pakeitimai:
-Nr. IX-840, 2002-04-09,
-Žin., 2002, Nr. 43-1605 (2002-04-26)
+Nr. IX-840,
+2002-04-09, Žin., 2002, Nr. 43-1605 (2002-04-26)
  
  
 
@@ -530,8 +522,8 @@ nuo 12 t
 
 
 
-nuo 15 t (įskaitytinai)
-  iki 23 t bendrosios masės*
+nuo 15 t
+  (įskaitytinai) iki 23 t bendrosios masės*
 
 
 440–640
@@ -940,9 +932,8 @@ skirtos specialiems darbams atlikti,
 
 
  
-2.
-Specialios kelių transporto priemonės, skirtos specialiems darbams atlikti,
-yra:
+2. Specialios
+kelių transporto priemonės, skirtos specialiems darbams atlikti, yra:
 1) automobiliniai kranai;
 2) automobiliniai keltuvai;
 3) automobiliai su gręžimo
@@ -961,8 +952,8 @@ bibliotekų automobiliai;
 11) kelių valymo automobiliai;
 12) kelių priežiūros žiemą
 automobiliai;
-13) šiukšliavežės ir šiukšlių rinkimo
-automobiliai;
+13) šiukšliavežės ir šiukšlių
+rinkimo automobiliai;
 14) automobiliai, naudojami tik
 karjeruose;
 15) automobiliai, naudojami tik
@@ -1003,8 +994,8 @@ Transporto
   priemonės tipas, kategorijos, klasės ir grupės
 
 
- Ribiniai
-  tarifai (litais)
+ Ribiniai tarifai
+  (litais)
 
 
 
@@ -1068,8 +1059,8 @@ B
 
 transporto priemonė, turinti daugiau
   kaip 8 sėdimas vietas keleiviams ir 1 sėdimą vietą vairuotojui ir kurios
-  bendroji masė didesnė kaip 5 t, bet ne daugiau kaip 22 vietos keleiviams,
-  neskaitant vairuotojo
+  bendroji masė didesnė kaip 5 t, bet ne daugiau kaip 22 vietos keleiviams, neskaitant
+  vairuotojo
 
 
  
@@ -1234,8 +1225,8 @@ Leidžiami
   matmenys viršyti (cm)
 
 
-                                                
-  Ribiniai tarifai (litais)
+                                              
+    Ribiniai tarifai (litais)
 
 
 
@@ -1605,8 +1596,7 @@ Lietuvos
 
 
 
- 7,1–8,0
-  įskaitytinai
+ 7,1–8,0 įskaitytinai
 
 
 48,00–55,20
@@ -1633,8 +1623,8 @@ konteinerius, pagamintus pagal ISO standartus, – 44 t), nustatomi mokesčio
 ribiniai tarifai, kurie nurodyti šio priedo III skirsnyje. 
 3. Triašiu vilkiku su
 dviaše ar triaše puspriekabe 40 pėdų konteinerius, pagamintus pagal ISO
-standartus, leidžiama vežti tik magistraliniais keliais. Vežant šiuos konteinerius
-kitais keliais, būtina gauti kelio savininko leidimą.
+standartus, leidžiama vežti tik magistraliniais keliais. Vežant šiuos
+konteinerius kitais keliais, būtina gauti kelio savininko leidimą.
 4. Kai ašies
 (ašių) faktiška apkrova ir faktiškas transporto priemonės (jų junginio) svoris
 viršija leidžiamus, mokesčio dydis nustatomas tas, kuris yra didesnis.
@@ -1665,8 +1655,8 @@ Leidžiama
  
 Vienkartiniai
   ribiniai tarifai už kiekvieną viršytą toną, Lt / 10 km
-     
-  
+  
+     
 
 
 
@@ -1756,11 +1746,21 @@ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO
 Šis
 Įstatymas įsigalioja nuo 2003 m. liepos 1 d.
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1703,
+2003-07-04, Žin., 2003, Nr. 69-3122 (2003-07-10)
+KELIŲ
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-06-23)
+Aušrinė Trapinskienė (2003-07-11)
                  
 autrap@lrs.lt
