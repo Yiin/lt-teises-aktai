@@ -151,13 +151,16 @@ darbui; nuo įsidarbinimo pradžios ne mažiau kaip kalendorinį mėnesį dirbus
 šeimos nariui (vienam gyvenančiam asmeniui) apskaičiuotas darbo užmokestis yra
 ne mažesnis už minimalią mėnesinę algą arba minimalų valandinį atlygį
 proporcingai dirbtam laikui arba atliktam darbui; 
+ 
+1
+dalies 4 punkto redakcija iki 2005 m. sausio 1 d.:
 4) vyresni kaip 18 metų šeimos nariai (vienas gyvenantis
 asmuo): mokosi dieninėse
 bendrojo lavinimo mokyklose ir kitų formaliojo švietimo įstaigų dieniniuose skyriuose, kol
 jiems sukaks 24 metai; laikotarpiu nuo dieninių bendrojo lavinimo mokyklų
 baigimo dienos iki tų pačių metų rugsėjo 1 d., bet ne ilgiau, iki jiems sukaks
-24 metai; yra įstatymo nustatyto senatvės pensijos amžiaus arba gaunantys
-pensijas (išskyrus III grupės invalidui paskirtą valstybinę socialinio draudimo
+24 metai; yra įstatymo nustatyto senatvės pensijos amžiaus arba gaunantys pensijas
+(išskyrus III grupės invalidui paskirtą valstybinę socialinio draudimo
 invalidumo pensiją), pensijų išmokas ar šalpos išmokas; yra I, II grupės
 invalidai (invalidas) arba neįgalieji (neįgalusis) įstatymo nustatyta tvarka;
 yra bedarbiai (bedarbis), gaunantys bedarbio pašalpą, mokymosi laikotarpiu –
@@ -166,12 +169,37 @@ bei pasibaigus nurodytiems laikotarpiams; yra asmenys (asmuo), ne mažiau kaip 6
 mėnesius įsiregistravę valstybinėje teritorinėje darbo biržoje; yra asmenys
 (asmuo), kuriems iki senatvės pensijos amžiaus yra likę ne ilgiau kaip 2 metai,
 įsiregistravę valstybinėje teritorinėje darbo biržoje ir gaunantys bedarbio
-pašalpą; vienas iš šeimos narių slaugo šeimos narį, vaiką, kurį įstatymo
-nustatyta tvarka globoja šeima, arba artimąjį savo ar sutuoktinio giminaitį,
-kuriems nuolatinės slaugos (pagalbos, priežiūros) būtinumas nustatytas teisės
-aktų nustatyta tvarka; ne trumpiau kaip vieną mėnesį gydosi sveikatos
-priežiūros įstaigos stacionare; moteris yra nėščia ir iki gimdymo yra likę ne
-daugiau kaip 70 kalendorinių dienų (suėjus 28 nėštumo savaitėms ir daugiau); 
+pašalpą; vienas iš šeimos narių slaugo šeimos narį, vaiką, kurį įstatymo nustatyta
+tvarka globoja šeima, arba artimąjį savo ar sutuoktinio giminaitį, kuriems
+nuolatinės slaugos (pagalbos, priežiūros) būtinumas nustatytas teisės aktų
+nustatyta tvarka; ne trumpiau kaip vieną mėnesį gydosi sveikatos priežiūros
+įstaigos stacionare; moteris yra nėščia ir iki gimdymo yra likę ne daugiau kaip
+70 kalendorinių dienų (suėjus 28 nėštumo savaitėms ir daugiau); 
+1
+dalies 4 punkto redakcija nuo 2005 m. sausio 1 d.:
+4) vyresni kaip 18 metų šeimos nariai (vienas gyvenantis
+asmuo): mokosi dieninėse bendrojo lavinimo mokyklose ir kitų formaliojo
+švietimo įstaigų dieniniuose skyriuose, kol jiems sukaks 24 metai; laikotarpiu
+nuo dieninių bendrojo lavinimo mokyklų baigimo dienos iki tų pačių metų rugsėjo
+1 d., bet ne ilgiau, iki jiems sukaks 24 metai; yra įstatymo nustatyto senatvės
+pensijos amžiaus arba gaunantys pensijas (išskyrus III grupės invalidui
+paskirtą valstybinę socialinio draudimo invalidumo pensiją), pensijų išmokas ar
+šalpos išmokas; yra I, II grupės invalidai (invalidas) arba neįgalieji (neįgalusis)
+įstatymo nustatyta tvarka; yra bedarbiai (bedarbis), gaunantys nedarbo
+socialinio draudimo išmoką, mokymosi laikotarpiu – mokymosi pašalpą arba
+dirbantys viešuosius ar Užimtumo fondo remiamus darbus, bei pasibaigus
+nurodytiems laikotarpiams; yra asmenys (asmuo), ne mažiau kaip 6 mėnesius
+įsiregistravę valstybinėje teritorinėje darbo biržoje; yra asmenys (asmuo),
+kuriems iki senatvės pensijos amžiaus yra likę ne ilgiau kaip 2 metai,
+įsiregistravę valstybinėje teritorinėje darbo biržoje ir gaunantys nedarbo
+socialinio draudimo išmoką; vienas iš šeimos narių slaugo šeimos narį, vaiką,
+kurį įstatymo nustatyta tvarka globoja šeima, arba artimąjį savo ar sutuoktinio
+giminaitį, kuriems nuolatinės slaugos (pagalbos, priežiūros) būtinumas
+nustatytas teisės aktų nustatyta tvarka; ne trumpiau kaip vieną mėnesį gydosi
+sveikatos priežiūros įstaigos stacionare; moteris yra nėščia ir iki gimdymo yra
+likę ne daugiau kaip 70 kalendorinių dienų (suėjus 28 nėštumo savaitėms ir
+daugiau);
+ 
 5) motina arba tėvas (globėja ar rūpintoja arba globėjas ar
 rūpintojas) augina namuose: nelankantį ikimokyklinės ugdymo įstaigos vaiką iki
 3 metų; bent vieną nelankantį ikimokyklinės ugdymo įstaigos arba mokyklos vaiką
@@ -218,8 +246,10 @@ studentas iki 24 metų;
 atlieka privalomąją pradinę karo tarnybą.
 Straipsnio
 pakeitimai:
-Nr. IX-2450, 2004-09-21,
-Žin., 2004, Nr. 146-5303 (2004-10-01)
+Nr. IX-2450,
+2004-09-21, Žin., 2004, Nr. 146-5303 (2004-10-01)
+Nr. IX-2539,
+2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
  
 5 straipsnis. Socialinės pašalpos dydis
 1. Šio Įstatymo 4 straipsnyje, išskyrus 4 straipsnio 4 dalį, nustatyta
@@ -277,6 +307,9 @@ darbui; nuo įsidarbinimo pradžios ne mažiau kaip kalendorinį mėnesį dirbus
 šeimos nariui (vienam gyvenančiam asmeniui) apskaičiuotas darbo užmokestis yra
 ne mažesnis už minimalią mėnesinę algą arba minimalų valandinį atlygį
 proporcingai dirbtam laikui arba atliktam darbui;
+ 
+1
+dalies 6 punkto redakcija iki 2005 m. sausio 1 d.:
 6) vyresni kaip 18 metų šeimos nariai (vienas gyvenantis
 asmuo): mokosi dieninėse bendrojo lavinimo mokyklose ir kitų formaliojo
 švietimo įstaigų dieniniuose skyriuose, kol jiems sukaks 24 metai; laikotarpiu
@@ -286,18 +319,43 @@ pensijos amžiaus arba gaunantys pensijas (išskyrus III grupės invalidui
 paskirtą valstybinę socialinio draudimo invalidumo pensiją), pensijų išmokas ar
 šalpos išmokas; yra I, II grupės invalidai (invalidas) arba neįgalieji
 (neįgalusis) įstatymo nustatyta tvarka; yra bedarbiai (bedarbis), gaunantys
-bedarbio pašalpą, mokymosi laikotarpiu – mokymosi pašalpą arba dirbantys viešuosius
-ar Užimtumo fondo remiamus darbus, bei pasibaigus nurodytiems laikotarpiams;
-yra asmenys (asmuo), ne mažiau kaip 6 mėnesius įsiregistravę valstybinėje
-teritorinėje darbo biržoje; yra asmenys (asmuo), kuriems iki senatvės pensijos
-amžiaus yra likę ne ilgiau kaip 2 metai, įsiregistravę valstybinėje
-teritorinėje darbo biržoje ir gaunantys bedarbio pašalpą; vienas iš šeimos
-narių slaugo šeimos narį, vaiką, kurį įstatymo nustatyta tvarka globoja šeima,
-arba artimąjį savo ar sutuoktinio giminaitį, kuriems nuolatinės slaugos
-(pagalbos, priežiūros) būtinumas nustatytas teisės aktų nustatyta tvarka; ne
-trumpiau kaip vieną mėnesį gydosi sveikatos priežiūros įstaigos stacionare;
-moteris yra nėščia ir iki gimdymo yra likę ne daugiau kaip 70 kalendorinių
-dienų (suėjus 28 nėštumo savaitėms ir daugiau); 
+bedarbio pašalpą, mokymosi laikotarpiu – mokymosi pašalpą arba dirbantys
+viešuosius ar Užimtumo fondo remiamus darbus, bei pasibaigus nurodytiems
+laikotarpiams; yra asmenys (asmuo), ne mažiau kaip 6 mėnesius įsiregistravę
+valstybinėje teritorinėje darbo biržoje; yra asmenys (asmuo), kuriems iki
+senatvės pensijos amžiaus yra likę ne ilgiau kaip 2 metai, įsiregistravę
+valstybinėje teritorinėje darbo biržoje ir gaunantys bedarbio pašalpą; vienas
+iš šeimos narių slaugo šeimos narį, vaiką, kurį įstatymo nustatyta tvarka
+globoja šeima, arba artimąjį savo ar sutuoktinio giminaitį, kuriems nuolatinės
+slaugos (pagalbos, priežiūros) būtinumas nustatytas teisės aktų nustatyta
+tvarka; ne trumpiau kaip vieną mėnesį gydosi sveikatos priežiūros įstaigos
+stacionare; moteris yra nėščia ir iki gimdymo yra likę ne daugiau kaip 70
+kalendorinių dienų (suėjus 28 nėštumo savaitėms ir daugiau); 
+1
+dalies 6 punkto redakcija nuo 2005 m. sausio 1 d.:
+6) vyresni kaip 18 metų šeimos nariai (vienas gyvenantis
+asmuo): mokosi dieninėse bendrojo lavinimo mokyklose ir kitų formaliojo
+švietimo įstaigų dieniniuose skyriuose, kol jiems sukaks 24 metai; laikotarpiu
+nuo dieninių bendrojo lavinimo mokyklų baigimo dienos iki tų pačių metų rugsėjo
+1 d., bet ne ilgiau, iki jiems sukaks 24 metai; yra įstatymo nustatyto senatvės
+pensijos amžiaus arba gaunantys pensijas (išskyrus III grupės invalidui
+paskirtą valstybinę socialinio draudimo invalidumo pensiją), pensijų išmokas ar
+šalpos išmokas; yra I, II grupės invalidai (invalidas) arba neįgalieji
+(neįgalusis) įstatymo nustatyta tvarka; yra bedarbiai (bedarbis), gaunantys
+nedarbo socialinio draudimo išmoką, mokymosi laikotarpiu – mokymosi pašalpą
+arba dirbantys viešuosius ar Užimtumo fondo remiamus darbus, bei pasibaigus
+nurodytiems laikotarpiams; yra asmenys (asmuo), ne mažiau kaip 6 mėnesius
+įsiregistravę valstybinėje teritorinėje darbo biržoje; yra asmenys (asmuo),
+kuriems iki senatvės pensijos amžiaus yra likę ne ilgiau kaip 2 metai,
+įsiregistravę valstybinėje teritorinėje darbo biržoje ir gaunantys nedarbo
+socialinio draudimo išmoką; vienas iš šeimos narių slaugo šeimos narį, vaiką,
+kurį įstatymo nustatyta tvarka globoja šeima, arba artimąjį savo ar sutuoktinio
+giminaitį, kuriems nuolatinės slaugos (pagalbos, priežiūros) būtinumas
+nustatytas teisės aktų nustatyta tvarka; ne trumpiau kaip vieną mėnesį gydosi
+sveikatos priežiūros įstaigos stacionare; moteris yra nėščia ir iki gimdymo yra
+likę ne daugiau kaip 70 kalendorinių dienų (suėjus 28 nėštumo savaitėms ir
+daugiau);
+ 
 7) motina arba tėvas (globėja ar rūpintoja arba globėjas ar
 rūpintojas) augina namuose: nelankantį ikimokyklinės ugdymo įstaigos vaiką iki
 3 metų; bent vieną nelankantį ikimokyklinės ugdymo įstaigos arba mokyklos vaiką
@@ -312,8 +370,8 @@ laikotarpiu nuo formaliojo švietimo įstaigos baigimo dienos iki tų pačių me
 rugsėjo 1 d.; yra invalidai ar neįgalūs įstatymo nustatyta tvarka; yra
 įsiregistravę valstybinėje teritorinėje darbo biržoje; yra nėščios moterys.
 2. Nutraukusių
-santuoką arba gyvenančių skyrium sutuoktinių, auginančių vaikus iki 18 metų, šeimoms,
-atitinkančioms šio straipsnio 1 dalyje nurodytas sąlygas, kompensacijos
+santuoką arba gyvenančių skyrium sutuoktinių, auginančių vaikus iki 18 metų,
+šeimoms, atitinkančioms šio straipsnio 1 dalyje nurodytas sąlygas, kompensacijos
 skiriamos, jeigu jie yra sudarę teismo patvirtintą vaiko (vaikų) išlaikymo
 sutartį arba jei vaiko (vaikų) išlaikymą yra priteisęs teismas.        
 3. Nesusituokusių asmenų, kurie vieni augina vaikus
@@ -332,8 +390,8 @@ neskiriamos ir jo pajamos į šeimos pajamas neįskaitomos, jeigu jis:
 1) yra užsienio valstybėje
 besimokantis ir gyvenantis moksleivis ar
 studentas iki 24 metų;
-2) yra sulaikytas ar suimtas arba yra paskelbta jo paieška, arba
-atlieka privalomąją pradinę karo tarnybą.
+2) yra sulaikytas ar suimtas arba yra paskelbta jo paieška, arba atlieka
+privalomąją pradinę karo tarnybą.
 5.
 Jeigu viena iš kelių viename būste gyvenančių šeimų (vienų gyvenančių asmenų),
 už komunalines paslaugas atsiskaitančių pagal vieną sąskaitą (atsiskaitomąją
@@ -343,6 +401,8 @@ Straipsnio
 pakeitimai:
 Nr. IX-2450,
 2004-09-21, Žin., 2004, Nr. 146-5303 (2004-10-01)
+Nr. IX-2539,
+2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
  
 7 straipsnis. Normatyvai
 kompensacijoms apskaičiuoti 
@@ -383,14 +443,14 @@ faktinį šalto vandens bei nuotekų kiekį, bet ne didesnį už šio Įstatymo 
 straipsnyje nustatytą normatyvą, dalis, viršijanti 2 procentus šeimos (vieno
 gyvenančio asmens) pajamų; 
 3) išlaidų už faktiniam karšto vandens kiekiui, bet ne didesniam už šio
-Įstatymo 7 straipsnyje nustatytą normatyvą, paruošti dalis, viršijanti 5 procentus
-šeimos (vieno gyvenančio asmens) pajamų. Į išlaidas karštam vandeniui paruošti
-įskaičiuojamos neviršijančios nustatyto normatyvo energijos ar kuro sąnaudos
-vandeniui pašildyti ir būstui priskirtos energijos ar kuro sąnaudos karšto
-vandens temperatūrai palaikyti (cirkuliacijai). Kai karštas vanduo ruošiamas
-naudojant centralizuotai tiekiamą šilumą, į išlaidas karštam vandeniui paruošti
-įskaičiuojamos ir išlaidos už karštam vandeniui paruošti sunaudotą šaltą
-vandenį (įskaitant išlaidas nuotekoms).
+Įstatymo 7 straipsnyje nustatytą normatyvą, paruošti dalis, viršijanti 5
+procentus šeimos (vieno gyvenančio asmens) pajamų. Į išlaidas karštam vandeniui
+paruošti įskaičiuojamos neviršijančios nustatyto normatyvo energijos ar kuro
+sąnaudos vandeniui pašildyti ir būstui priskirtos energijos ar kuro sąnaudos
+karšto vandens temperatūrai palaikyti (cirkuliacijai). Kai karštas vanduo
+ruošiamas naudojant centralizuotai tiekiamą šilumą, į išlaidas karštam
+vandeniui paruošti įskaičiuojamos ir išlaidos už karštam vandeniui paruošti sunaudotą
+šaltą vandenį (įskaitant išlaidas nuotekoms).
 2. Jeigu daugiabučio namo savininkų bendrija yra
 pasinaudojusi valstybės teikiamais tiksliniais kreditais šilumos taupymo
 priemonėms įgyvendinti, būsto šildymo išlaidų kompensacija skaičiuojama taikant
@@ -414,8 +474,8 @@ kiekvienos šeimos (vieno gyvenančio asmens) būsto naudingajam plotui, o karš
 vandeniui – pagal nustatytą normatyvą. Jeigu bendras šių šeimų karštam
 vandeniui paruošti sunaudoto energijos ar kuro kiekis yra mažesnis už nustatytą
 normatyvą, kiekvienos šeimos sunaudoto energijos ar kuro kiekis karštam
-vandeniui paruošti apskaičiuojamas proporcingai kiekvienos šeimos narių, deklaravusių
-šiame name gyvenamąją vietą, skaičiui.
+vandeniui paruošti apskaičiuojamas proporcingai kiekvienos šeimos narių,
+deklaravusių šiame name gyvenamąją vietą, skaičiui.
 Straipsnio
 pakeitimai:
 Nr. IX-2450,
@@ -454,9 +514,9 @@ dalies 1–7 punktuose nenurodytas turtas, jeigu vieneto (komplekto) vertė
 viršija 2000 litų.
 2. Į šeimos (vieno gyvenančio asmens) turtą įskaitoma
 per praėjusį laikotarpį nuo paskutinio duomenų apie turimą turtą pateikimo
-perleisto nuosavybėn kitam asmeniui šio straipsnio 1 dalies 1–8 punktuose nurodyto
-turto arba jo dalies vertė, kuri nenurodoma kaip naujai nuosavybėn įsigytas
-turtas ar gautos piniginės lėšos.
+perleisto nuosavybėn kitam asmeniui šio straipsnio 1 dalies 1–8 punktuose
+nurodyto turto arba jo dalies vertė, kuri nenurodoma kaip naujai nuosavybėn
+įsigytas turtas ar gautos piniginės lėšos.
 Straipsnio
 pakeitimai:
 Nr. IX-2450,
@@ -465,8 +525,8 @@ Nr. IX-2450,
 10 straipsnis. Nekilnojamojo turto normatyvai
 1. Būsto normatyvas šeimai (vienam gyvenančiam
 asmeniui) yra 60 kvadratinių metrų būsto naudingojo ploto vienam iš jame
-gyvenamąją vietą deklaravusių šeimos narių, pridedant po 15 kvadratinių metrų kiekvienam
-kitam šeimos nariui. 
+gyvenamąją vietą deklaravusių šeimos narių, pridedant po 15 kvadratinių metrų
+kiekvienam kitam šeimos nariui. 
 2. Žemės sklypo normatyvas šeimai (vienam gyvenančiam
 asmeniui), atsižvelgiant į turimos žemės rūšį, yra:
 1) namų valdos žemės sklypo ploto: miestuose – 6 arai,
@@ -558,8 +618,8 @@ socialinė pašalpa bei šiuo Įstatymu nustatytos kompensacijos;
 sutartis nutraukiama;
 14) išeitinė
 išmoka arba kompensacija atleidžiamam iš pareigų valstybės tarnautojui;
-15) ligos, motinystės ir
-motinystės (tėvystės) pašalpa;
+15) ligos, motinystės ir motinystės
+(tėvystės) pašalpa;
 16) turtinės ar
 neturtinės žalos atlyginimas (iš jų vienkartinė netekto darbingumo
 kompensacija);
@@ -573,8 +633,8 @@ dydžius;
 22) turto nuomos pajamos;
 23) loterijų ar kitų žaidimų
 laimėjimai, prizai;
-24) kitos
-faktiškai gautos pajamos.
+24) kitos faktiškai
+gautos pajamos.
 2. Šio
 straipsnio 1 dalyje nurodytos pajamos imamos išskaičius gyventojų pajamų
 mokestį ir valstybinio socialinio draudimo įmokas.
@@ -660,8 +720,8 @@ buvo nurodytos iki to mėnesio, nuo kurio skiriamos kompensacijos. Į šias
 pajamas įskaitomas paskutinį kartą paskirtos socialinės pašalpos dydis. 
 6. Jeigu viename
 būste gyvena daugiau kaip viena šeima ir šios šeimos už komunalines paslaugas
-atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), bendros būste
-gyvenamąją vietą deklaravusių šeimos narių (vienų gyvenančių asmenų) pajamos
+atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), bendros būste gyvenamąją
+vietą deklaravusių šeimos narių (vienų gyvenančių asmenų) pajamos
 apskaičiuojamos sudedant kiekvienos šeimos būste gyvenamąją vietą
 deklaravusiems šeimos nariams (vieniems gyvenantiems asmenims) tenkančią
 vidutinių šeimos (vieno gyvenančio asmens) pajamų per mėnesį dalį, prieš tai
@@ -725,9 +785,9 @@ prašymą-paraišką, pirmos dienos.
 skiriamos 3 mėnesiams nuo mėnesio, kurį šeima (vienas gyvenantis asmuo) įgijo
 teisę į kompensacijas, pirmos dienos, tačiau ne daugiau kaip už 2 praėjusius
 mėnesius iki prašymo-paraiškos pateikimo mėnesio. 
-3. Piniginei
-socialinei paramai gauti reikalingi dokumentai pateikiami ne vėliau kaip iki
-piniginės socialinės paramos teikimo laikotarpio pabaigos.
+3. Piniginei socialinei
+paramai gauti reikalingi dokumentai pateikiami ne vėliau kaip iki piniginės
+socialinės paramos teikimo laikotarpio pabaigos.
 4. Kai pasibaigus paskirtos piniginės socialinės paramos teikimo
 laikotarpiui dėl tolesnio jos skyrimo šeima (vienas gyvenantis asmuo) per 3
 mėnesius kreipiasi su prašymu-paraiška ir pateikia naujus dokumentus ir
@@ -747,11 +807,10 @@ trumpesniam negu 3 mėnesių laikotarpiui, jeigu:
 gyvenantis asmuo) per šį laikotarpį neteks teisės į piniginę socialinę paramą,
 arba
 2) pasikeitus aplinkybėms (šeimos sudėčiai, pajamų
-šaltiniui, apgyvendintam globos įstaigoje vaikui paskyrus valstybės ar savivaldybės
-išlaikymą ir kita), pasikeitė piniginės socialinės
-paramos dydis. Šiuo atveju piniginė socialinė parama skiriama iš naujo nuo kito
-mėnesio, apskaičiuojant ją pagal to mėnesio šeimos (vieno gyvenančio asmens)
-pajamas.
+šaltiniui, apgyvendintam globos įstaigoje vaikui paskyrus valstybės ar
+savivaldybės išlaikymą ir kita), pasikeitė piniginės socialinės paramos dydis. Šiuo atveju piniginė socialinė
+parama skiriama iš naujo nuo kito mėnesio, apskaičiuojant ją pagal to mėnesio
+šeimos (vieno gyvenančio asmens) pajamas.
 8. Savivaldybės sprendimas dėl piniginės socialinės paramos
 skyrimo priimamas ne vėliau kaip per mėnesį nuo prašymo-paraiškos ir visų
 reikalingų dokumentų gavimo dienos. 
@@ -759,15 +818,15 @@ reikalingų dokumentų gavimo dienos.
 piniginė socialinė parama neskiriama, kopija ne vėliau kaip per 5 darbo dienas
 nuo sprendimo priėmimo dienos išsiunčiama pareiškėjui. Šiame sprendime yra
 nurodomos piniginės socialinės paramos neskyrimo priežastys ir šio sprendimo
-apskundimo tvarka. Pareiškėjo pateikti dokumentai jam grąžinami, o jo byloje paliekamos
-šių dokumentų kopijos.
+apskundimo tvarka. Pareiškėjo pateikti dokumentai jam grąžinami, o jo byloje
+paliekamos šių dokumentų kopijos.
 Straipsnio
 pakeitimai:
 Nr. IX-2450,
 2004-09-21, Žin., 2004, Nr. 146-5303 (2004-10-01)
  
-18 straipsnis.
-Piniginės socialinės paramos teikimas
+18 straipsnis. Piniginės
+socialinės paramos teikimas
 1. Socialinė pašalpa teikiama vienu iš šių būdų:
 1) piniginėmis
 lėšomis;
@@ -835,10 +894,11 @@ teikti socialinėmis paslaugomis, vadovaudamosi Socialinių paslaugų įstatymu;
 asmenims) skirti paslaugomis, kai šeima (vienas gyvenantis asmuo) nevykdo šio
 Įstatymo 22 straipsnio 1 dalies 4 punkte ir 2 dalyje nustatytų pareigų; 
 3) skirti kompensacijas šio Įstatymo 18 straipsnio 4
-dalies 2 punkte nustatytu būdu šeimai (vienam gyvenančiam asmeniui),
-įsiskolinusiai už būsto šildymą, šaltą bei karštą vandenį, jai (jam) sudarius sutartį su šių paslaugų tiekėjais
-dėl dalies įsiskolinimo, bet ne daugiau kaip 20 procentų šeimos (vieno
-gyvenančio asmens) pajamų, grąžinimo kas mėnesį;
+dalies 2 punkte nustatytu būdu šeimai (vienam gyvenančiam asmeniui), įsiskolinusiai
+už būsto šildymą, šaltą bei karštą vandenį, jai
+(jam) sudarius sutartį su šių paslaugų tiekėjais dėl dalies įsiskolinimo, bet
+ne daugiau kaip 20 procentų šeimos (vieno gyvenančio asmens) pajamų, grąžinimo
+kas mėnesį;
 4) neskirti kompensacijų, nutraukti jų teikimą įsiskolinusiai už būsto šildymą, šaltą bei karštą
 vandenį šeimai (vienam gyvenančiam asmeniui), kai ji (jis) atsisako sudaryti
 šios dalies 3 punkte nurodytą sutartį arba jos nevykdo; 
@@ -863,9 +923,9 @@ teisės į piniginę socialinę paramą;
 šeimoms (vieniems gyvenantiems asmenims) piniginę socialinę paramą ir kitais
 šio Įstatymo nenustatytais atvejais (vienkartinę pašalpą; socialinę pašalpą;
 kompensuoti Įstatyme nenurodytas būsto išlaikymo išlaidas; kompensuoti išlaidas
-už didesnį karšto ir šalto vandens kiekį, negu šiame Įstatyme nustatytas
-normatyvas, bei didesnio būsto naudingojo ploto šildymo išlaidas; padengti
-įsiskolinimą už būstą ir kita); 
+už didesnį karšto ir šalto vandens kiekį, negu šiame Įstatyme nustatytas normatyvas,
+bei didesnio būsto naudingojo ploto šildymo išlaidas; padengti įsiskolinimą už
+būstą ir kita); 
 5) atsiradus neaiškumų dėl prašyme-paraiškoje pateiktų
 duomenų apie turimą turtą ir gaunamas pajamas arba patikrinimo metu kilus
 įtarimų, kad yra pateikti neteisingi duomenys arba kad jie nuslepiami,
@@ -956,8 +1016,8 @@ NETEISĖTAI GAUTOS PINIGINĖS SOCIALINĖS PARAMOS
 IŠIEŠKOJIMAS
  
 23
-straipsnis. Dėl gavėjo kaltės neteisėtai gautos piniginės socialinės paramos išieškojimas
-
+straipsnis. Dėl gavėjo kaltės neteisėtai gautos piniginės socialinės paramos
+išieškojimas 
 Asmenys, nuslėpę ar pateikę neteisingus duomenis, reikalingus
 piniginei socialinei paramai gauti, ir dėl to neteisėtai gavę šio Įstatymo
 nustatytą piniginę socialinę paramą, privalo savivaldybei grąžinti neteisėtai
@@ -965,8 +1025,9 @@ gautos piniginės socialinės paramos dydžio pinigines lėšas. Jei jie to nepa
 per mėnesį nuo savivaldybės pareikalavimo dienos, neteisėtai gautos piniginės
 socialinės paramos dydžio piniginės lėšos išieškomos įstatymų nustatyta tvarka.
  
-24 straipsnis. Dėl savivaldybės ar jos tarnautojo
-kaltės neteisėtai išmokėtos piniginės socialinės paramos išieškojimas 
+24 straipsnis. Dėl savivaldybės ar jos
+tarnautojo kaltės neteisėtai išmokėtos piniginės socialinės paramos
+išieškojimas 
 Dėl savivaldybės
 ar jos tarnautojo kaltės neteisėtai išmokėtos piniginės socialinės paramos
 lėšos išieškomos įstatymų nustatyta tvarka.
@@ -1030,8 +1091,8 @@ pakeitimai:
 Nr. IX-2450,
 2004-09-21, Žin., 2004, Nr. 146-5303 (2004-10-01)
  
-28
-straipsnis. Įstatymo įsigaliojimas
+28 straipsnis.
+Įstatymo įsigaliojimas
 Šis
 Įstatymas, išskyrus 26 straipsnį, įsigalioja nuo 2004 m.
 balandžio 1 d.
@@ -1100,10 +1161,23 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2004
 m. spalio 1 d.
  
+5.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-2539,
+2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
+MOKSLININKŲ VALSTYBINIŲ PENSIJŲ
+LAIKINOJO ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO, TEISĖJŲ VALSTYBINIŲ PENSIJŲ
+ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO
+ĮSTATYMO, PINIGINĖS SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS
+(VIENIEMS GYVENANTIEMS ASMENIMS) ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2005
+m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
 Redagavo:
-Aušrinė Trapinskienė (2004-10-04)
+Aušrinė Trapinskienė (2004-12-07)
                  
 autrap@lrs.lt
