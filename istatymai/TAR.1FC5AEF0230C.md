@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FC5AEF0230C"
 
 # Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso 177(2) straipsnio ir baudžiamojo kodekso 163 ir 239 straipsnių pakeitimo
 
-Suvestinė redakcija nuo 2002-11-22 iki 2003-04-30
+Įstatymas netenka galios 2017-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1869, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11216
+Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
+ 
+Suvestinė redakcija nuo 2003-05-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1991, Nr. 32-858, i. k. 0911010ISTA00I-1926
  
@@ -26,12 +31,10 @@ DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 1772 STRA
 
 Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
-I. Padaryti Lietuvos Respublikos administracinių teisės pažeidimų kodekse (Žin., 1985, Nr. 1-1, 7-62, 16-178, 33-370; 1986, Nr. 16-158, 18-184, 31-321; 1987, Nr. 13-134, 17-189, 21-261, 262; 1988, Nr. 4-29, 14-111, 29-301; 1989, Nr. 4-19, 20-228, 27-329; 1990, Nr. 1-8, 9-267, 19-495, 23-565, 32-776, 36-862, 866; 1991, Nr. 2-37, 6-162, 17-453, 22-568, 23-600) šį pakeitimą:
-1772 straipsnį išdėstyti taip:
-
-„1772 straipsnis. Namų gamybos stiprių alkoholinių gėrimų gaminimas ar laikymas be tikslo parduoti
-
-Naminės degtinės, brogos arba kitų namų gamybos stiprių alkoholinių gėrimų gaminimas ar laikymas be tikslo parduoti, jiems gaminti aparatų gaminimas arba laikymas be tikslo parduoti užtraukia baudą nuo vieno tūkstančio iki penkių tūkstančių rublių.“
+1 skyrius. Neteko galios nuo 2003-05-01
+Skyriaus naikinimas:
+Nr. IX-1162, 2002-10-29, Žin. 2002, Nr. 112-4970 (2002-11-22), i. k. 1021010ISTA0IX-1162
+ 
 
 II. Padaryti Lietuvos Respublikos baudžiamajame kodekse (Žin., 1961, Nr. 18-147; 1977, Nr. 9107; 1982, Nr. 36-400; 1984, Nr. 6-66; 1985, Nr. 18-207, Nr. 33-370; 1986, Nr. 18-184, 185; 1987, Nr. 21-261, 262) šiuos pakeitimus:
 
