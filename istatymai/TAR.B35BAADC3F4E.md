@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B35BAADC3F4E"
 
 # Lietuvos Respublikos prekybos, pramonės ir amatų rūmų įstatymas
 
+Suvestinė redakcija nuo 1999-07-23 iki 2016-11-09
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 99-2201, i. k. 0951010ISTA00I-1093
+ 
 LIETUVOS RESPUBLIKOS PREKYBOS, PRAMONĖS IR AMATŲ RŪMŲ ĮSTATYMAS
  
 1995 m. lapkričio 14 d. Nr. I-1093
@@ -34,7 +38,18 @@ Vilnius
 2 straipsnis. Rūmų statusas
 
 
-Rūmai yra juridinių bei fizinių asmenų, užsiimančių komercine-ūkine veikla Lietuvos Respublikos įstatymų nustatyta tvarka, savanoriški susivienijimai, įgyvendinantys verslo savivaldos principus.
+Rūmai yra savanoriški juridinių bei fizinių asmenų, užsiimančių Lietuvos Respublikos įstatymų reglamentuojama ekonomine veikla, susivienijimai, ne pelno organizacijos, įgyvendinančios verslo savivaldos principus. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
+
+
+
+
+Šiame įstatyme ne pelno organizacija – tai įstatymų nustatyta tvarka įsteigtas juridinio asmens teises turintis subjektas, kurio veiklos tikslas nėra pelno siekimas. Ji moka įstatymų nustatytą pelno mokestį, gauto pelno negali skirstyti steigėjams ir nariams. 
+Papildyta straipsnio dalimi:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
@@ -55,7 +70,10 @@ Rūmų veiklą nustato šis įstatymas, Rūmų įstatai bei kiti teisės aktai.
 3 straipsnis. Rūmų nariai
 
 
-Rūmų nariais gali būti visų rūšių įmonės, įregistruotos Lietuvos Respublikos įmonių registre, ir fiziniai asmenys, turintys įstatymų nustatyta tvarka leidimus užsiimti komercine-ūkine veikla. Į Rūmų narius priimama pagal teritorinį principą, atsižvelgiant į įmonės ar fizinio asmens registracijos vietą. Įmonės ir fiziniai asmenys, norėdami tapti kito regiono Rūmų nariais, pirmiausia privalo įstoti į savo regiono Rūmus. Į Rūmų narius įmonės ir fiziniai asmenys priimami arba narystė Rūmuose nutraukiama Rūmų tarybos sprendimu pagal Rūmų įstatuose nustatytą tvarką.
+Rūmų nariais gali būti visų rūšių įmonės, įregistruotos Lietuvos Respublikos įmonių rejestre, fiziniai asmenys, turintys įstatymų nustatyta tvarka leidimus užsiimti ekonomine veikla, taip pat švietimo, mokslo ir studijų institucijos. Į Rūmų narius priimama pagal teritorinį principą, atsižvelgiant į įmonės, organizacijos ar fizinio asmens teisinės registracijos vietą. Įmonės, organizacijos ir fiziniai asmenys, norėdami tapti kito regiono Rūmų nariais, pirmiausia privalo įstoti į savo regiono Rūmus. Švietimo, mokslo ir studijų institucijos gali tapti tų Rūmų nariais, kurių veiklos teritorijoje vyksta nuolatinė jų veikla. Į Rūmų narius priimama arba narystė Rūmuose nutraukiama pagal Rūmų įstatuose nustatytą tvarką.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
@@ -150,57 +168,98 @@ Rūmai atlieka šias pagrindines funkcijas:
 
 
 
-8) tvarko prekybos registrą;
+8) steigia ir tvarko verslo (prekybos) registrą pagal Lietuvos Respublikos įstatymus;
+Straipsnio punkto pakeitimai:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
 
-9) Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda įvairių formų prekių kilmės dokumentus ir force majeure aplinkybes liudijančias pažymas;
+9) vykdo prekių numeravimą ir kodavimą brūkšniniais kodais pagal Tarptautinės prekių numeravimo asociacijos EAN sistemos reikalavimus; 
+Papildyta straipsnio punktu:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
 
-10) tvirtina užsienio prekyboje naudojamų dokumentų autentiškumą;
+10) Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda įvairių formų prekių kilmės dokumentus ir force majeure aplinkybes liudijančias pažymas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
 
-11) steigia Rūmų arbitražą;
+11) tvirtina užsienio prekyboje naudojamų dokumentų autentiškumą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
 
-12) renka ir platina informaciją apie užsienio prekybą bei teikia užsienio partneriams informaciją apie Lietuvos įmonių veiklą;
+12) steigia Rūmų arbitražą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
 
-13) Lietuvos Respublikos įstatymų nustatyta tvarka padeda organizuoti profesinį mokymą bei suaugusiųjų švietimą;
+13) renka ir platina informaciją apie užsienio prekybą bei teikia užsienio partneriams informaciją apie Lietuvos įmonių veiklą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
 
-14) organizuoja parodas, muges, konferencijas bei kitus renginius;
+14) Lietuvos Respublikos įstatymų nustatyta tvarka padeda organizuoti profesinį mokymą bei suaugusiųjų švietimą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
 
-15) užsiima leidyba;
+15) organizuoja parodas, muges, konferencijas bei kitus renginius;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
 
-16) atlieka nevyriausybinių dokumentų oficialius vertimus į lietuvių ir užsienio kalbas;
+16) užsiima leidyba;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
 
-17) steigia įvairių rūšių įmones, kurios realizuoja Rūmų funkcijas;
+17) atlieka nevyriausybinių dokumentų oficialius vertimus į lietuvių ir užsienio kalbas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
 
-18) steigia Rūmų filialus bei atstovybes savo regione ir užsienyje.
+18) steigia įvairių rūšių įmones, kurios realizuoja Rūmų funkcijas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
+
+
+
+
+19) steigia Rūmų filialus bei atstovybes savo regione ir užsienyje.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
@@ -351,7 +410,10 @@ Rūmų steigėjais gali būti juridiniai ir fiziniai asmenys, nurodyti šio įst
 9 straipsnis. Rūmų asociacija
 
 
-Rūmai turi teisę savanoriškai jungtis į Lietuvos prekybos, pramonės ir amatų rūmų asociaciją, toliau vadinamą Asociacija. Asociaciją turi teisę įsteigti ne mažiau kaip treji regioniniai Rūmai. Asociacijos veikla, valdymo struktūra, lėšų formavimas bei jų naudojimas yra nustatomi Asociacijos įstatuose. Juos priima, keičia ir papildo Asociacijos steigėjų delegatų (įgaliotinių) susirinkimas – aukščiausias Asociacijos valdymo organas.
+Rūmai turi teisę savanoriškai jungtis į Lietuvos prekybos, pramonės ir amatų rūmų asociaciją, toliau vadinamą Asociacija. Asociacija yra ne pelno organizacija. Asociaciją turi teisę įsteigti ne mažiau kaip treji regioniniai Rūmai. Asociacijos veikla, valdymo struktūra, lėšų formavimas bei jų naudojimas yra nustatomi Asociacijos įstatuose. Juos priima, keičia ir papildo Asociacijos steigėjų delegatų (įgaliotinių) susirinkimas - aukščiausiasis Asociacijos valdymo organas.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+ 
 
 
 
@@ -368,9 +430,16 @@ Asociacijos prezidiumą sudaro Asociacijos narių-Rūmų prezidentai, generalini
 
 
 Rūmai bei jų Asociacija vykdydami savo pareigas bendradarbiauja su valstybės institucijomis, miestų ir rajonų savivaldos organais remdamiesi šiuo įstatymu bei kitais Lietuvos Respublikos įstatymais ir teisės aktais.
+
+
+
+
+Rūmai bei jų Asociacija panaudos sutarties pagrindu gali naudotis valstybės ir savivaldybių turtu. 
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
  
-
-
 
 
 
@@ -433,3 +502,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+Lietuvos Respublikos prekybos, pramonės ir amatų rūmų įstatymo 2, 3, 5, 9, 10 straipsnių pakeitimo ir papildymo įstatymas
