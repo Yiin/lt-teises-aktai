@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CCC6F1CC7CE"
 
 # Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
 
-Suvestinė redakcija nuo 1995-07-26 iki 2003-12-31
+Suvestinė redakcija nuo 2004-01-01 iki 2011-06-03
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 62-1169, i. k. 0931010ISTA000I-300
  
@@ -63,16 +63,10 @@ Nr. I-528, 1994-07-05, Žin. 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA00
 
 
 
-4. Lietuvos Respublikos ūkinių bendrijų įstatymo (Žin., 1990, Nr. 31-747) 6 straipsnio pirmosios dalies 5 punktą išdėstyti taip:
-
-
-
-
-„5) bendrosios jungtinės veiklos sutartyje numatytais atvejais sudaryti sutartis, prisiimti įsipareigojimus, skolinti (tik nuosavo kapitalo lėšas) ir skolintis piniginių lėšų už palūkanas, nustatomas sutartimi;“.
-
-
-
-
+4. Neteko galios nuo 2004-01-01
+Straipsnio dalies naikinimas:
+Nr. IX-1804, 2003-11-06, Žin. 2003, Nr. 112-4990 (2003-11-28), i. k. 1031010ISTA0IX-1804
+ 
 
 
 
@@ -91,26 +85,10 @@ Nr. I-528, 1994-07-05, Žin. 1994, Nr. 55-1046 (1994-07-20), i. k. 0941010ISTA00
 
 
 
-6. Papildyti Lietuvos Respublikos įmonių rejestro įstatymo (Žin., 1990, Nr. 24-599) 9 straipsnį:
-
-
-1) po ketvirtosios dalies įrašyti penktąją dalį:
-
-
-
-
-„5. Rejestro tvarkytojas turi teisę Valstybinės mokesčių inspekcijos ir Valstybės kontrolės departamento teikimu atšaukti už Lietuvos Respublikos įstatymų numatytus pažeidimus ūkinių subjektų registravimą įstatymų nustatyta tvarka.“;
-
-
-
-
-
-
-
-
-2) penktąją dalį laikyti šeštąja dalimi.
-
-
+6. Neteko galios nuo 2004-01-01
+Straipsnio dalies naikinimas:
+Nr. IX-1890, 2003-12-11, Žin. 2003, Nr. 123-5575 (2003-12-30), i. k. 1031010ISTA0IX-1890
+ 
 
 
 
@@ -146,3 +124,13 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-975, 1995-06-28, Žin., 1995, Nr. 61-1526 (1995-07-26); Žin., 1996, Nr. 78-0 (1996-08-16), i. k. 0951010ISTA000I-975
 Dėl Lietuvos Respublikos mokesčių administravimo įstatymo įsigaliojimo
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1804, 2003-11-06, Žin., 2003, Nr. 112-4990 (2003-11-28), i. k. 1031010ISTA0IX-1804
+Lietuvos Respublikos ūkinių bendrijų įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1890, 2003-12-11, Žin., 2003, Nr. 123-5575 (2003-12-30), i. k. 1031010ISTA0IX-1890
+Lietuvos Respublikos įmonių rejestro įstatymo, jį keitusių, papildžiusių bei su juo susijusių įstatymų pripažinimo netekusiais galios įstatymas
