@@ -13,6 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0EEBEC3B24"
 
 # Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymas
 
+Suvestinė redakcija nuo 2000-09-01 iki 2002-05-13
+ 
+Įstatymas paskelbtas: Žin. 1990, Nr. 18-468, i. k. 0901010ISTA000I-281
+ 
+TAR pastaba. Įsigaliojus šiam įstatymui, Vilniaus universiteto statutas, patvirtintas Lietuvos Respublikos įstatymu „Dėl Vilniaus universiteto statuto patvirtinimo“ (Žin., 1990, Nr. 18-468); galioja tiek, kiek jis neprieštarauja šiam įstatymui.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1586, 2000-03-21, Žin., 2000, Nr. 27-715 (2000-03-31), i. k. 1001010ISTAIII-1586
+Lietuvos Respublikos aukštojo mokslo įstatymas
+ 
+ 
 LIETUVOS RESPUBLIKOS
 VILNIAUS UNIVERSITETO STATUTO PATVIRTINIMO
 Į S T A T Y M A S
@@ -797,3 +807,20 @@ Pasiūlymus keisti Universiteto Statutą priima Universiteto taryba dviem trečd
 
 
 ______________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1586, 2000-03-21, Žin., 2000, Nr. 27-715 (2000-03-31), i. k. 1001010ISTAIII-1586
+Lietuvos Respublikos aukštojo mokslo įstatymas
