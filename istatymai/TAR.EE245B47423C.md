@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
+Suvestinė redakcija nuo 1997-07-11 iki 2000-07-25
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
+ 
 LIETUVOS RESPUBLIKOS ŽMONIŲ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS ĮSTATYMAS
  
 1996 m. rugsėjo 25 d. Nr. I-1553
@@ -327,7 +331,10 @@ UŽKREČIAMŲJŲ LIGŲ EPIDEMIOLOGINĖ PRIEŽIŪRA
 
 
 
-2) apskrityse: teritorinis visuomenės sveikatos centras – atitinkamos apskrities valdytojui ir Tarnybai;
+2) apskrityse: teritorinis visuomenės sveikatos centras – atitinkamos apskrities viršininkui ir Tarnybai;
+Straipsnio punkto pakeitimai:
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
+ 
 
 
 
@@ -450,6 +457,7 @@ UŽKREČIAMŲJŲ LIGŲ NUSTATYMAS, LIGONIŲ, ASMENŲ, ĮTARIAMŲ SERGANČIŲ, TU
 
 
 9. Asmuo, turėjęs kontaktą su ligoniu ar asmeniu, įtariamu sergančiu ypač pavojinga liga, įrašyta į šio straipsnio 2 dalyje nurodytą sąrašą, arba šios ligos sukėlėjo nešiotoju, privalo būti izoliuotas savivaldos vykdomųjų institucijų specialiai šiam tikslui įrengtose patalpose, stacionariose asmens sveikatos priežiūros įstaigose arba šių asmenų namuose, jeigu higieninės sąlygos leidžia tai padaryti. Izoliavimą skiria, jo vietą bei terminus nustato teritorijos vyriausiasis valstybinis gydytojas higienistas.
+ 
 
 
 
@@ -799,7 +807,10 @@ Ypatingųjų epideminių situacijų nustatymo pagrindus reglamentuoja šis įsta
 
 
 
-2) vienos apskrities teritorijoje – Vyriausybė bendru apskrities valdytojo ir sveikatos apsaugos ministro teikimu.
+2) vienos apskrities teritorijoje – Vyriausybė bendru apskrities viršininko ir sveikatos apsaugos ministro teikimu.
+Straipsnio punkto pakeitimai:
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
+ 
 
 
 
@@ -835,7 +846,10 @@ Ypatingųjų epideminių situacijų nustatymo pagrindus reglamentuoja šis įsta
 
 
 
-2) vienos apskrities teritorijoje – Vyriausybė bendru apskrities valdytojo ir sveikatos apsaugos ministro teikimu.
+2) vienos apskrities teritorijoje – Vyriausybė bendru apskrities viršininko ir sveikatos apsaugos ministro teikimu. 
+Straipsnio punkto pakeitimai:
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
+ 
 
 
 
@@ -847,7 +861,10 @@ Ypatingųjų epideminių situacijų nustatymo pagrindus reglamentuoja šis įsta
 
 
 
-4. Teritorijų karantino režimo priemonių įgyvendinimą turi organizuoti atitinkamų savivaldybių, kurių teritorijose skelbiamas karantinas, tarybos ir merai, apskričių, kurioms priskiriamos šios savivaldybės, valdytojai.
+4. Teritorijų karantino režimo priemonių įgyvendinimą turi organizuoti atitinkamų savivaldybių, kurių teritorijose skelbiamas karantinas, tarybos ir merai, apskričių, kurioms priskiriamos šios savivaldybės, viršininkai.
+Straipsnio dalies pakeitimai:
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
+ 
 
 
 
@@ -933,10 +950,12 @@ Pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolė
 23 straipsnis. Pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės strategijos įgyvendinimas
 
 
-Vyriausybės institucijos, apskričių valdytojai ir savivaldybių merai, vadovaudamiesi Vyriausybės patvirtintu pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių planu, privalo pagal kompetenciją planuoti pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės organizacines, teisines ir ekonomines priemones bei užtikrinti jų įgyvendinimą. Šių priemonių rengimą ir įgyvendinimą koordinuoja Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės.
+Vyriausybės institucijos, apskričių viršininkai ir savivaldybių merai, vadovaudamiesi Vyriausybės patvirtintu pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių planu, privalo pagal kompetenciją planuoti pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės organizacines, teisines ir ekonomines priemones bei užtikrinti jų įgyvendinimą. Šių priemonių rengimą ir įgyvendinimą koordinuoja Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
  
-
-
 
 
 
@@ -949,7 +968,9 @@ Vyriausybės institucijos, apskričių valdytojai ir savivaldybių merai, vadova
 
 
 
-2. Apskričių valdytojai ir savivaldybių merai, vadovaudamiesi Vyriausybės patvirtintu užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių planu bei atsižvelgdami į Lietuvos Respublikos teritorijos administracinių vienetų higieninę ir gyventojų sveikatos būklę, privalo pagal kompetenciją rengti apskričių ir savivaldybių tikslines pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės programas bei užtikrinti jų įgyvendinimą.
+2. Apskričių viršininkai ir savivaldybių merai, vadovaudamiesi Vyriausybės patvirtintu užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių planu bei atsižvelgdami į Lietuvos Respublikos teritorijos administracinių vienetų higieninę ir gyventojų sveikatos būklę, privalo pagal kompetenciją rengti apskričių ir savivaldybių tikslines pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės programas bei užtikrinti jų įgyvendinimą.
+Straipsnio dalies pakeitimai:
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
  
 
 
@@ -972,7 +993,10 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 
 
-2. Užkrečiamųjų ligų profilaktikos ir kontrolės valdymą apskrityse šio ir kitų įstatymų bei teisės aktų nustatyta tvarka vykdo apskričių valdytojai.
+2. Užkrečiamųjų ligų profilaktikos ir kontrolės valdymą apskrityse šio ir kitų įstatymų bei teisės aktų nustatyta tvarka vykdo apskričių viršininkai. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
+ 
 
 
 
@@ -1062,7 +1086,7 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 
 
-8. Apskrities valdytojas, įgyvendindamas savo teritorijoje užkrečiamųjų ligų profilaktikos ir kontrolės valstybės politikos programą:
+8. Apskrities viršininkas, įgyvendindamas savo teritorijoje užkrečiamųjų ligų profilaktikos ir kontrolės valstybės politikos programą:
 
 
 1) organizuoja užkrečiamųjų ligų profilaktikos ir kontrolės valstybinių privalomųjų ir tikslinių programų įgyvendinimą;
@@ -1081,9 +1105,11 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 
 4) vykdo kitas šio ir kitų įstatymų nustatytas funkcijas užkrečiamųjų ligų profilaktikos ir kontrolės srityse.
+
+
+Straipsnio dalies pakeitimai:
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
  
-
-
 
 
 
@@ -1608,3 +1634,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-332, 1997-06-26, Žin., 1997, Nr. 66-1603 (1997-07-11), i. k. 0971010ISTAVIII-332
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 5, 20, 21, 23, 24, 25 straipsnių pakeitimo įstatymas
