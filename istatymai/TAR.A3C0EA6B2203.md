@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A3C0EA6B2203"
 
 # Lietuvos Respublikos metrologijos įstatymas
 
+Suvestinė redakcija nuo 2000-05-24 iki 2006-10-29
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 74-1768, i. k. 0961010ISTA00I-1452
+ 
 LIETUVOS RESPUBLIKOS METROLOGIJOS ĮSTATYMAS
  
 1996 m. liepos 9 d. Nr. I-1452
@@ -472,7 +476,9 @@ Lietuvos metrologijos sistemą sudaro:
 
 
 
-5) Lietuvos metrologijos inspekcija – Lietuvos Respublikos Vyriausybės įgaliotos institucijos padalinys, kuris atlieka valstybinę matavimo priemonių būklės ir naudojimo kontrolę.
+5) Lietuvos metrologijos inspekcija – įstaiga prie Lietuvos Respublikos Vyriausybės įgaliotos ministerijos, atliekanti valstybinę matavimo priemonių būklės ir naudojimo kontrolę. 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1660, 2000-05-02, Žin., 2000, Nr. 42-1188 (2000-05-24), i. k. 1001010ISTAIII-1660
  
 
 
@@ -560,3 +566,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1660, 2000-05-02, Žin., 2000, Nr. 42-1188 (2000-05-24), i. k. 1001010ISTAIII-1660
+Lietuvos Respublikos metrologijos įstatymo 18 straipsnio pakeitimo įstatymas
