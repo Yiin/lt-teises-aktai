@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD"
 Neoficialus įstatymo tekstas
 
 Įstatymas
-skelbtas: Žin., 1993, Nr.70-1304
+skelbtas: Žin., 1993, Nr. 70-1304
 Neoficialus
 įstatymo tekstas
  
@@ -25,7 +25,7 @@ RESPUBLIKOS
 ĮSTATYMAS
 
 1993 m. gruodžio
-9 d. Nr.I-322
+9 d. Nr. I-322
 Vilnius
 
 DĖL LIETUVOS
@@ -106,19 +106,19 @@ VIII-167,
 Nr. VIII-1957, 00.09.26, Žin., 2000,
 Nr.85-2582 (00.10.11)
  
- 
             4 straipsnis.
             Pajamų deklaracija
 pateikiama jas deklaruojančio asmens nuolatinės gyvenamosios vietos valstybinei
 mokesčių inspekcijai.
-            Kai valstybinė mokesčių
-inspekcija turi pagrindo įtarti, kad pajamos yra neteisėtos, apie tai praneša
-pajamas deklaruojančio asmens gyvenamosios vietos policijos komisariatui.
-Straipsnio
-pakeitimai:
+Kai valstybinė
+mokesčių inspekcija turi pagrindo įtarti, kad pajamos yra neteisėtos, apie tai
+praneša Finansinių nusikaltimų tyrimo tarnybai prie Vidaus reikalų
+ministerijos.
+Straipsnio pakeitimai:
 Nr.I-890,
 95.05.11, Žin., 1995, Nr. 44-1075 (95.05.27)
-
+Nr. IX-1193,
+2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
  
             5 straipsnis.
             Valstybinė mokesčių
@@ -160,10 +160,10 @@ Nr.I-890,
 95.05.11, Žin., 1995, Nr. 44-1075 (95.05.27)
 
             7 straipsnis.
-            Valstybinės mokesčių inspekcijos
-pajamų deklaracijų duomenis naudoja tik apmokestinimo reikalams ir neturi
-teisės jų skelbti, išskyrus šio įstatymo 4 ir 11 straipsniuose ir kituose
-įstatymuose numatytais atvejais.
+            Valstybinės mokesčių
+inspekcijos pajamų deklaracijų duomenis naudoja tik apmokestinimo reikalams ir
+neturi teisės jų skelbti, išskyrus šio įstatymo 4 ir 11 straipsniuose ir
+kituose įstatymuose numatytais atvejais.
 Straipsnio
 pakeitimai:
 Nr.I-890,
@@ -188,7 +188,6 @@ Nr.I-890,
 Nr. VIII-1957, 00.09.26, Žin., 2000,
 Nr.85-2582 (00.10.11)
  
-
             9 straipsnis.
             Pajamų deklaraciją pateikęs
 asmuo atsako už joje pateiktų duomenų teisingumą.
@@ -215,7 +214,6 @@ Nr.I-890,
 Nr. VIII-1957, 00.09.26, Žin., 2000,
 Nr.85-2582 (00.10.11)
  
- 
             11 straipsnis.
             Nustačius, kad šiame
 įstatyme įvardytas registruojamas brangus turtas įsigytas nedeklaravus pajamų,
@@ -225,7 +223,6 @@ pakeitimai:
 Nr.I-890,
 95.05.11, Žin., 1995, Nr. 44-1075 (95.05.27)
 
- 
             12 straipsnis.
             Valstybės kontrolės
 departamentas kontroliuoja, kaip valstybinės mokesčių inspekcijos vykdo šio
@@ -272,7 +269,6 @@ Nr.
 VIII-167,
 97.03.27, Žin., 1997, Nr.28-663 (97.03.29) 
 
- 
             13 straipsnis.
             Baigiamosios
 nuostatos:
@@ -309,7 +305,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS
 PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
 
-____________
+________________
  
 Pakeitimai:
 
@@ -322,6 +318,8 @@ DĖL
 LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL BRANGŲ TURTĄ ĮSIGIJUSIŲ ARBA
 ĮSIGYJANČIŲ LIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ DEKLARAVIMO" PAKEITIMO
 IR PAPILDYMO
+Keistas
+įstatymo pavadinimas
 
 2.
 Lietuvos
@@ -352,8 +350,24 @@ Nr.85-2582 (00.10.11)
 BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ LĖŠŲ DEKLARAVIMO“ 3,
 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1193,
+2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
+AZARTINIŲ
+LOŠIMŲ ĮSTATYMO, DARBO SUTARTIES ĮSTATYMO, ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS
+GYVENTOJŲ PAJAMŲ BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ
+LĖŠŲ DEKLARAVIMO“, GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO
+ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.10.16)
+Redagavo:
+Aušrinė Trapinskienė (2002-12-09)
+                 
+autrap@lrs.lt
 
