@@ -19,7 +19,7 @@ LIETUVOS RESPUBLIKOS
 
 
 Redagavo:
-Ramunė Lūžaitė (1998.05.04)
+Ramunė Lūžaitė (1999.01.06)
  
 Įstatymas
 paskelbtas: Žin., 1994,
@@ -50,6 +50,19 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 Šis įstatymas
 įsigalioja nuo 1998 m. liepos 1 d.
+ 
+3.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-985,
+98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
+LIETUVOS RESPUBLIKOS
+VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 5, 7, 8, 9
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+Šio
+įstatymo 1, 2, 4 straipsniai įsigalioja nuo 1999 m. sausio 1 d., o 3 straipsnis
+- nuo 2000 m. sausio 1 d.
  
 ***
 Pabaiga ***
@@ -132,10 +145,9 @@ VIII-676, 98.03.24, Žin., 1998, Nr.35-934 (98.04.15)
 auginančioms tris ir daugiau vaikų
  
 Motinoms už tris ir daugiau vaikų iki 16 metų
-ir vyresnius, iki jie baigs dienines bendrojo lavinimo mokyklas, aukštųjų,
-aukštesniųjų ir profesinių mokyklų dieninius skyrius, mokama vieno MGL dydžio
-pašalpa per mėnesį. Už ketvirtą ir kiekvieną paskesnį vaiką pašalpa didinama
-0,3 MGL.
+ir vyresnius, iki jie baigs dienines bendrojo lavinimo mokyklas, aukštųjų, aukštesniųjų
+ir profesinių mokyklų dieninius skyrius, mokama vieno MGL dydžio pašalpa per
+mėnesį. Už ketvirtą ir kiekvieną paskesnį vaiką pašalpa didinama 0,3 MGL.
 Šio straipsnio pirmojoje dalyje nurodyta
 pašalpa motinoms už tris vaikus iki 16 metų ir vyresnius, iki jie baigs
 dienines bendrojo lavinimo mokyklas, aukštųjų, aukštesniųjų ir profesinių
@@ -143,7 +155,7 @@ mokyklų dieninius skyrius, mokama, jeigu šeimos pajamos, tenkančios vienam jo
 nariui, yra mažesnės už trigubo dydžio Vyriausybės tvirtinamas valstybės
 remiamas pajamas.
 Jei motinos nėra, jei ji atsisako vaikų, jei
-iš jos atimtos motinystės  teisės arba jei ji negali prižiūrėti vaikų dėl
+iš jos atimtos motinystės  teisės arba jei ji negali prižiūrėti vaikų dėl
 ligos, pašalpa mokama tėvui arba kitam vaikus auginančiam asmeniui.
  
 Straipsnio
@@ -152,31 +164,12 @@ Nr.
 VIII-478, 97.10.23, Žin., 1997, Nr.99-2506 (97.10.31)
  
     
-[5 straipsnio redakcija iki 1998 m. liepos 1 d.]
-     5
-straipsnis. Vaiko globos (rūpybos) pašalpa
- 
-     Asmenims
-arba nevalstybinėms globos įstaigoms, įstatymų nustatyta tvarka paskirtiems
-našlaičių ar likusių be tėvų globos vaikų globėjais (rūpintojais), šių vaikų
-išlaikymui mokama 1,5 MGL dydžio pašalpa kas mėnesį. Ji mokama už kiekvieną
-globojamą (rūpinamą) ikimokyklinio  amžiaus arba  besimokantį bendrojo lavinimo
-mokykloje  vaiką, kuriam  nėra numatytas valstybės išlaikymas.
-     Ši
-pašalpa taip pat mokama neturintiems lėšų našlaičiams ir likusiems be tėvų
-globos vaikams, pasibaigus jų buvimo pas globėją (rūpintoją) ar valstybinėje 
-vaikų įstaigoje laikui, ir kitiems negaunantiems valstybės arba artimųjų
-paramos našlaičiams bei likusiems be tėvų globos vaikams jų mokymosi dieninėse
-bendrojo lavinimo mokyklose metu ir po mokyklos baigimo iki tų pačių metų
-rugsėjo 1 dienos, jeigu jie tuo metu nedirba ir ketina toliau mokytis.
- 
-    
-[5 straipsnio redakcija nuo 1998 m. liepos 1 d.]
+[5 straipsnio redakcija nuo 1998 m. liepos 1 d. iki 1999 m. sausio 1 d.]
    
  5 straipsnis. Vaiko globos
 pašalpa
  
-    
+  
 Fiziniam asmeniui, šeimynai arba nevyriausybinei globos institucijai, įstatymų
 nustatyta tvarka paskirtai likusio be tėvų globos vaiko globėju, šiam vaikui
 išlaikyti nuo 1998 m. liepos 1 d. mokama 2 MGL, o nuo 1999 m. sausio 1 d. - 4
@@ -185,10 +178,32 @@ kai vaikas sulaukia pilnametystės, nurodyta pašalpa mokama tol, kol jis baigs
 bendrojo lavinimo mokyklą ir ją baigus iki tų pačių metų rugsėjo 1 dienos,
 jeigu jis tuo metu nedirba.
  
+    
+[5 straipsnio redakcija nuo 1999 m. sausio 1 d.]
+5 straipsnis.Vaiko globos pašalpa
+ 
+Fiziniam asmeniui, šeimynai arba nevyriausybinei
+globos institucijai, įstatymų nustatyta tvarka paskirtai likusio be tėvų globos
+vaiko globėju, šiam vaikui išlaikyti mokama 4 MGL dydžio pašalpa kiekvieną
+mėnesį, kol jam sukaks 18 metų. 
+Likusiam be tėvų globos vaikui, sulaukusiam
+pilnametystės, nustatyto dydžio pašalpa mokama jam pačiam, kol jis mokosi
+dieninėje bendrojo lavinimo mokykloje arba ją baigus iki tų pačių metų rugsėjo
+1 d., jeigu jis tuo metu nedirba. 
+Kai globojamas vaikas įstatymų nustatyta
+tvarka gauna našlaičių pensiją arba alimentus, globėjui šiam vaikui išlaikyti
+mokama pašalpa, lygi skirtumui tarp šio straipsnio pirmojoje dalyje nustatyto
+vaiko globos pašalpos dydžio ir gaunamos našlaičių pensijos bei gaunamų
+alimentų dydžio.
+Už valstybės išlaikomą vaiką globos pašalpa
+nemokama.
+ 
 Straipsnio
 pakeitimai:
 Nr.
 VIII-676, 98.03.24, Žin., 1998, Nr.35-934 (98.04.15)
+Nr. VIII-985,
+98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
  
      6
 straipsnis. Pašalpa tikrosios krašto apsaugos tarnybos karių 
@@ -199,9 +214,10 @@ straipsnis. Pašalpa tikrosios krašto apsaugos tarnybos karių
 Respublikos tikrosios krašto apsaugos tarnybos karių (prievolininkų) vaikams
 išlaikyti tėvų tarnybos laikotarpiu mokama 1,5 MGL dydžio pašalpa kas mėnesį.
      Ši
-pašalpa mokama už kiekvieną vaiką motinai arba kitam faktiškai jį auginančiam
-asmeniui.
+pašalpa mokama už kiekvieną vaiką motinai arba kitam faktiškai jį auginančiam asmeniui.
  
+    
+[7 straipsnio redakcija iki 1999 m. sausio 1 d.]
      7
 straipsnis. Našlaičio stipendija
  
@@ -210,10 +226,37 @@ ir likusiems be tėvų globos aukštųjų mokyklų studentams, aukštesniųjų 
 profesinių mokyklų moksleiviams mokama 1,5 MGL dydžio našlaičio stipendija ir
 paliekama jiems teisė gauti stipendijas pagal mokymosi rezultatus.
  
+    
+[7 straipsnio redakcija nuo 1999 m. sausio 1 d.]
+7 straipsnis. Našlaičio stipendija
+ 
+Našlaičiams ir likusiems be tėvų globos
+vyresniems negu 18 metų aukštųjų mokyklų dieninių skyrių nedirbantiems
+studentams, pirmą kartą įgyjantiems bakalauro ar magistro laipsnį, bei
+aukštesniųjų ir profesinių mokyklų dieninių skyrių nedirbantiems moksleiviams,
+pirmą kartą įgyjantiems profesiją, mokama 3 MGL, o nuo 2000 m. sausio 1 d. - 4
+MGL dydžio našlaičio stipendija. Jiems paliekama teisė gauti stipendijas pagal
+mokymosi rezultatus. 
+Našlaičiui ar likusiam be tėvų globos vaikui,
+įstatymų nustatyta tvarka gaunančiam našlaičių pensiją, mokama našlaičio
+stipendija, lygi skirtumui tarp šio straipsnio pirmojoje dalyje nustatyto
+našlaičio stipendijos dydžio ir gaunamos našlaičių pensijos dydžio.
+Našlaičiams ir likusiems be tėvų globos
+vaikams, nesukakusiems 18 metų, kai jie mokosi pirmojoje šio straipsnio dalyje
+nurodytose mokymo įstaigose, nustatyto dydžio našlaičio stipendija mokama,
+jeigu jiems nėra įsteigta globa.
+ 
+Straipsnio
+pakeitimai:
+Nr. VIII-985,
+98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
+ 
+    
+[8 straipsnio redakcija iki 2000 m. sausio 1 d.]
      8
 straipsnis. Pašalpa našlaičiams ir likusiems be tėvų globo
-          
-        vaikams įsikurti
+                  
+vaikams įsikurti
  
      Našlaičiams
 ir likusiems be tėvų globos vaikams, kurie buvo auklėjami vaikų namuose
@@ -225,26 +268,36 @@ išlaikymas bei kita parama, išmokama vienkartinė 18 MGL dydžio pašalpa
      Pašalpų
 sumos pervedamos į šių vaikų asmenines sąskaitas banke.
  
+    
+[8 straipsnio redakcija nuo 2000 m. sausio 1 d.]
+8 straipsnis. Pašalpa našlaičiams ir
+likusiems be tėvų globos 
+             vaikams įsikurti
+ 
+Sukakusiems 18 metų našlaičiams ir likusiems
+be tėvų globos vaikams, kurie iki pilnametystės buvo globojami globos
+institucijose, šeimynose arba globėjų, skiriama vienkartinė 50 MGL dydžio
+pašalpa gyvenamajam namui, butui (gyvenamajai patalpai) įsigyti arba įsikurti,
+jeigu jie nėra toliau valstybės išlaikomi globos institucijose.
+Straipsnio
+pakeitimai:
+Nr. VIII-985,
+98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
+ 
      9
 straipsnis. Lėšos pašalpoms mokėti
  
-    
-[9 straipsnio redakcija iki 1998 m. liepos 1 d.]
-     Pašalpos,
-nurodytos šio įstatymo 2, 4, 4(1), 5, 6 ir 8 straipsniuose,
-mokamos iš savivaldybių biudžeto lėšų. Lėšos, reikalingos 4(1)
-straipsnyje nurodytoms pašalpoms mokėti 1997 metų gruodžio mėnesį, iš valstybės
-biudžeto pervedamos į savivaldybių biudžetus.
-     Pašalpos,
-nurodytos šio įstatymo 3 ir 7 straipsniuose, mokamos iš valstybės biudžeto lėšų
-mokymo įstaigoms skirtų asignavimų.
- 
-    
-[9 straipsnio redakcija nuo 1998 m. liepos 1 d.]
+   
+[9 straipsnio 1 dalies redakcija iki 1999 m. sausio 1 d.]
 Pašalpos, nurodytos šio įstatymo 2, 4, 4(1),
 6 ir 8 straipsniuose, mokamos iš savivaldybių biudžetų lėšų. Lėšos, reikalingos
 4(1) straipsnyje nurodytoms pašalpoms mokėti 1997 metų gruodžio
 mėnesį, iš valstybės biudžeto pervedamos į savivaldybių biudžetus.
+   
+[9 straipsnio 1 dalies redakcija nuo 1999 m. sausio 1 d.]
+Pašalpos, nurodytos šio įstatymo 2, 4, 4(1),
+6 ir 8 straipsniuose, mokamos iš tikslinių lėšų, numatytų savivaldybių
+biudžetams skaičiuojant jų finansinius rodiklius.
 Pašalpos, nurodytos šio įstatymo 3 ir 7
 straipsniuose, mokamos iš valstybės biudžeto lėšų mokymo įstaigoms skirtų
 asignavimų.
@@ -258,6 +311,8 @@ Nr.
 VIII-478, 97.10.23, Žin., 1997, Nr.99-2506 (97.10.31)
 Nr.
 VIII-676, 98.03.24, Žin., 1998, Nr.35-934 (98.04.15)
+Nr. VIII-985,
+98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
  
      10
 straipsnis. Atsakomybė už neteisėtą pašalpos gavimą
