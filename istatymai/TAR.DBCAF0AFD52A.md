@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DBCAF0AFD52A"
 
 # Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statuso
 
-Suvestinė redakcija nuo 1990-08-04 iki 1991-11-14
+Suvestinė redakcija nuo 1991-11-15
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 20-0; Žin. 1990, Nr.12-366, i. k. 0901010ISTA000I-137
  
@@ -90,10 +90,12 @@ Deputato įgaliojimai gali būti nutraukti: 1) rinkėjams jį atšaukus; 2) Auk�
 4 straipsnis. Deputato pareigų derinimas su kitokia veikla
 
 
-Deputatas gali užsiimti kita darbine veikla tik Aukščiausiosios Tarybos sutikimu. Tokio sutikimo nereikia deputatams, užsiimantiems moksline, pedagogine ar kūrybine veikla ir laisvųjų profesijų susivienijimų nariams.
+Deputatas gali užsiimti kita darbine veikla tik Aukščiausiajai Tarybai sutikus. Lietuvos Respublikos valstybės organai, įmonės, įstaigos ar organizacijos negali priimti į nuolatinį darbą Aukščiausiosios Tarybos deputato be Aukščiausiosios Tarybos sutikimo. Negavus tokio sutikimo, kita darbinė veikla turi būti nutraukta. Tokio sutikimo nereikia deputatams, užsiimantiems moksline, pedagogine ar kūrybine veikla. 
+
+
+Straipsnio pakeitimai:
+Nr. I-1933, 1991-10-29, Lietuvos aidas, 1991, Nr. 221-0 (1991-11-05); Žin., 1991, Nr. 32-865 (1991-11-20), i. k. 091XX01ISTA00I-1933
  
-
-
 
 
 
@@ -474,3 +476,8 @@ Pakeitimai:
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-438, 1990-07-30, Lietuvos aidas, 1990, Nr. 52-0 (1990-08-03); Žin., 1990, Nr. 23-568 (1990-08-20), i. k. 0901010ISTA000I-438
 Dėl Lietuvos Respublikos įstatymo "Dėl Aukščiausiosios Tarybos deputato statuso" papildymo
+ 
+2.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-1933, 1991-10-29, Lietuvos aidas, 1991, Nr. 221-0 (1991-11-05); Žin., 1991, Nr. 32-865 (1991-11-20), i. k. 091XX01ISTA00I-1933
+Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statuso" 4 straipsnio pakeitimo
