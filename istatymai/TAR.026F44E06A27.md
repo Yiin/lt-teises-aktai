@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.026F44E06A27"
 
 # Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas
 
+Suvestinė redakcija nuo 1995-07-05 iki 1997-07-08
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 54-1048, i. k. 0931010ISTA000I-270
+ 
 LIETUVOS RESPUBLIKOS
 STATISTIKOS
 Į S T A T Y M A S
@@ -75,7 +79,10 @@ Statistika yra:
 
 
 
-3) savivaldybių - apie atitinkamą teritorinį darinį, detalesnė negu valstybinės ir žinybinės statistikų teikiama;
+3) apskričių ir savivaldybių - apie atitinkamą teritorinį darinį, detalesnė negu valstybinės ir žinybinės statistikų teikiama;
+Straipsnio punkto pakeitimai:
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
+ 
 
 
 
@@ -111,7 +118,10 @@ Statistiką Lietuvos Respublikoje tvarko:
 
 
 
-3) Statistikos departamento miestų ir rajonų statistikos skyriai, išlaikomi iš Statistikos departamento ir atitinkamų savivaldybių skirtų lėšų;
+3) Statistikos departamento apskričių statistikos valdybos, miestų ir rajonų statistikos skyriai išlaikomi iš Statistikos departamento lėšų; 
+Straipsnio punkto pakeitimai:
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
+ 
 
 
 
@@ -133,7 +143,10 @@ Valstybinės statistikos atskaitomybės, surašymų ir tyrimų blankai pildomi i
 
 
 
-Įmonių, įstaigų, organizacijų, taip pat privačių asmenų korespondencija su statistikos formuliarais siunčiama Statistikos departamentui, miestų ir rajonų statistikos skyriams nemokamai. Pašto išlaidas apmoka Statistikos departamentas. Šios korespondencijos siuntimo ir apmokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Įmonių, įstaigų, organizacijų, taip pat privačių asmenų korespondencija su statistikos formuliarais siunčiama Statistikos departamentui, apskričių statistikos valdyboms, miestų ir rajonų statistikos skyriams nemokamai. Pašto išlaidas apmoka Statistikos departamentas. Šios korespondencijos siuntimo ir apmokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
+ 
 
 
 
@@ -175,7 +188,7 @@ Pagrindiniai statistikos tarnybų tikslai yra:
 6 straipsnis. Statistikos departamentas
 
 
-Statistikos departamentui vadovauja generalinis direktorius, kurį skiria ir atleidžia Lietuvos Respublikos Ministras Pirmininkas. Generalinio direktoriaus pavaduotojus skiria Lietuvos Respublikos Ministras Pirmininkas Statistikos departamento generalinio direktoriaus teikimu.
+Statistikos departamentui vadovauja generalinis direktorius, kurį skiria ir atleidžia Lietuvos Respublikos Ministras Pirmininkas. Generalinio direktoriaus pavaduotojus skiria Lietuvos Respublikos Ministras  Pirmininkas Statistikos departamento generalinio direktoriaus teikimu.
 
 
 
@@ -183,7 +196,7 @@ Statistikos departamentui vadovauja generalinis direktorius, kurį skiria ir atl
 Statistikos departamentas:
 
 
-1) organizuoja ir tvarko valstybinę statistiką bei statistikos registrus, gauna, apibendrina ir analizuoja statistikos duomenis apie gyventojus, taip pat demografinius ir aplinkos procesus, juridinių bei fizinių asmenų gamybinę, komercinę, finansinę veiklą ir jos sąlygas;
+1) organizuoja ir tvarko valstybinę statistiką bei statistikos  registrus, gauna, apibendrina ir analizuoja statistikos duomenis apie gyventojus, taip pat demografinius ir aplinkos procesus, juridinių bei fizinių asmenų gamybinę, komercinę, finansinę veiklą ir jos sąlygas;
 
 
 
@@ -193,7 +206,7 @@ Statistikos departamentas:
 
 
 
-3) atsižvelgdamas į valstybės ir savivaldybių poreikius, rengia metines darbų programas miestų ir rajonų statistikos skyriams;
+3) atsižvelgdamas į valstybės, apskričių ir savivaldybių poreikius, rengia metines darbų programas apskričių statistikos valdyboms, miestų ir rajonų statistikos skyriams;
 
 
 
@@ -213,7 +226,7 @@ Statistikos departamentas:
 
 
 
-7) nemokamai teikia valstybės valdžios ir valdymo institucijoms nustatytos apimties statistikos informaciją, taip pat pagal sutartis teikia ir mokamą statistikos informaciją;
+7) nemokamai  teikia  valstybės  valdžios  ir  valdymo institucijoms nustatytos apimties statistikos informaciją, taip pat pagal sutartis teikia ir mokamą statistikos informaciją;
 
 
 
@@ -223,33 +236,39 @@ Statistikos departamentas:
 
 
 
-9) atstovauja Lietuvos Respublikai tarptautinėse statistikos organizacijose, dalyvauja įgyvendinant šių organizacijų programas, rengia joms Lietuvos Respublikos statistikos duomenis, naudojasi tų organizacijų metodikomis ir rekomendacijomis dėl nacionalinės sąskaitybos, statistikos rodiklių rengimo ir skelbimo, laikosi tarptautinių statistikos klasifikacijų ir standartų, kontroliuoja, kaip laikomasi Lietuvos Respublikoje statistiką reglamentuojančių tarptautinių susitarimų;
+9) atstovauja Lietuvos Respublikai tarptautinėse statistikos organizacijose, dalyvauja įgyvendinant šių organizacijų programas, rengia joms Lietuvos Respublikos statistikos duomenis, naudojasi tų organizacijų metodikomis ir rekomendacijomis dėl nacionalinės sąskaitybos, statistikos rodiklių rengimo ir skelbimo, laikosi  tarptautinių statistikos klasifikacijų ir standartų, kontroliuoja, kaip laikomasi Lietuvos Respublikoje statistiką reglamentuojančių tarptautinių susitarimų;
 
 
 
 
 10) apibendrina ir taiko užsienio šalių statistikos tarnybų veiklos patyrimą.
+
+
+
+
+
+
 Statistikos departamentas turi teisę:
 
 
-
-
-11) tvirtinti statistikos atskaitomybės formas, nustatyti duomenų pateikimo tvarką ir laiką bei tikrinti duomenų tikslumą;
-
-
-
-
-12) atlikti surašymus ir kitus statistikos tyrimus, pasitelkęs gyventojus. Statistikos tarnybos juos atlieka Lietuvos Respublikos Vyriausybės sprendimu ir jos nustatyta gyventojų pasitelkimo tvarka;
+1) tvirtinti statistikos atskaitomybės formas, nustatyti duomenų pateikimo tvarką ir laiką bei tikrinti duomenų tikslumą;
 
 
 
 
-13) naudotis leidybos teise ir skelbti statistikos duomenis.
+2) atlikti surašymus ir kitus statistikos tyrimus, pasitelkęs gyventojus. Statistikos tarnybos juos atlieka Lietuvos Respublikos Vyriausybės sprendimu ir jos nustatyta gyventojų pasitelkimo tvarka;
+
+
+
+
+3) naudotis leidybos teise ir skelbti statistikos duomenis.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
  
-
-
-
-
 
 
 
@@ -270,13 +289,13 @@ Statistikos tarybos sudėtį ir nuostatus tvirtina Lietuvos Respublikos Vyriausy
 
 
 
-8 straipsnis. Statistikos departamento miestų ir rajonų statistikos skyriai
+8 straipsnis. Statistikos departamento apskričių statistikos valdybos, miestų ir rajonų statistikos skyriai
 
 
-Miestų ir rajonų statistikos skyriai yra pavaldūs Statistikos departamentui ir savivaldybėms. Jie:
+Apskričių statistikos valdybos, miestų ir rajonų statistikos skyriai pavaldūs Statistikos departamentui. Jie:
 
 
-1) atlieka statistikos darbus, numatytus Statistikos departamento metinėse darbų programose, gali atlikti kitus statistikos darbus, kuriuos paveda ir finansuoja savivaldybė;
+1) atlieka statistikos darbus, numatytus Statistikos departamento metinėse darbų programose, gali atlikti kitus statistikos darbus, kuriuos paveda ir finansuoja apskrities valdytojas ir savivaldybės; 
 
 
 
@@ -286,25 +305,27 @@ gyventojų skaičių ir sudėtį,
 administracinį suskirstymą,
 ūkio subjektų gamybinį potencialą ir veiklos rezultatus,
 aplinkos apsaugą,
-savivaldybių ekonomiką,
+ekonomiką,
 memorialinius objektus,
 politinių partijų, politinių ir visuomeninių organizacijų bei profesinių sąjungų veiklą.
-Šiam tikslui statistikos skyriai naudoja savo sukauptą ir kitų savivaldybės skyrių bei tarnybų surinktą statistikos medžiagą, nurodydami šaltinius ar autorius;
+Šiam tikslui statistikos valdybos ir skyriai naudoja savo sukauptą ir kitų apskrities valdytojo administracijos ir savivaldybės administracijos padalinių surinktą statistikos medžiagą, nurodydami šaltinius ar autoriu.
 
 
 
 
-3) nemokamai teikia miestų, rajonų valdžios ir valdymo institucijoms statistikos informaciją, pagal sutartis teikia ir mokamą statistikos informaciją;
+3) nemokamai teikia apskričių valdytojams ir vietos savivaldos institucijoms statistikos informaciją, pagal sutartis teikia ir mokamą statistikos informaciją;
 
 
 
 
 4) informuoja visuomenę apie teritorinio darinio ekonominę ir socialinę būklę, demografinius bei aplinkos procesus.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
  
-
-
-
-
 
 
 
@@ -317,7 +338,10 @@ Statistikos informaciją, atitinkančią jų veiklos pobūdį, nedubliuodamos va
 
 
 
-Statistikos tyrimus Lietuvos Respublikos Vyriausybės ar miestų, rajonų savivaldybių pavedimu gali atlikti kitos įstaigos ir organizacijos, jei užsakovas apmoka.
+Statistikos tyrimus Lietuvos Respublikos Vyriausybės, apskričių valdytojų ar vietos savivaldos institucijų pavedimu gali atlikti kitos įstaigos ir organizacijos, jei užsakovas apmoka. 
+Straipsnio dalies pakeitimai:
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
+ 
 
 
 
@@ -348,7 +372,10 @@ Valstybiniai statistikos tyrimai rengiami pagal statistikos darbų programą arb
 
 
 
-Miestų, rajonų savivaldybės gali atlikti statistikos tyrimus savo teritorijoje. Šių tyrimų tvarką nustato statistikos skyriai ar kitos juos atliekančios tarnybos.
+Apskričių valdytojai ir vietos savivaldos institucijos gali atlikti statistikos tyrimus savo teritorijoje. Šių tyrimų atlikimo tvarką nustato atitinkamai apskričių statistikos valdybos, miestų ir rajonų statistikos skyriai ar kitos juos atliekančios tarnybos. 
+Straipsnio dalies pakeitimai:
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
+ 
 
 
 
@@ -379,7 +406,9 @@ Ataskaitų ir tyrimų blankuose pateikiamų duomenų tikrumą patvirtina juos u�
 
 
 
-Valstybinės statistikos reikalams gali būti naudojama ir kitose duomenų sistemose sukaupta informacija: bankų, mokesčių, muitinių, švietimo, sveikatos, užimtumo, socialinės apsaugos, pasų, komunalinio ūkio, žemės kadastro, savivaldybių ir kitose.
+Valstybinės statistikos reikalams gali būti naudojama ir kitose duomenų sistemose sukaupta informacija: bankų, mokesčių, muitinių, švietimo, sveikatos, užimtumo, socialinės apsaugos, pasų, komunalinio ūkio, žemės kadastro, apskričių, savivaldybių ir kitose.
+Straipsnio dalies pakeitimai:
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
  
 
 
@@ -390,7 +419,10 @@ Valstybinės statistikos reikalams gali būti naudojama ir kitose duomenų siste
 12 straipsnis. Statistikos duomenų pateikimo prievolė
 
 
-Statistikos duomenis korespondencijos būdu statistikos tarnyboms privalo teikti visų nuosavybės formų įmonės, įstaigos ir organizacijos, ministerijos, kitos valstybės valdymo institucijos, savivaldybės, politinės partijos, kitos politinės ir visuomeninės organizacijos, profesinės sąjungos bei fiziniai asmenys. Duomenys rengiami, išnagrinėjus metodinius nurodymus ir remiantis atitinkamais dokumentais, o pateikiami statistikos tarnybų nustatytu laiku.
+Statistikos duomenis korespondencijos būdu statistikos tarnyboms privalo teikti visų nuosavybės formų įmonės, įstaigos ir organizacijos, ministerijos, kitos valstybės valdymo institucijos, savivaldybės, apskričių valdytojai, vietos savivaldos institucijos, politinės partijos, kitos politinės ir visuomeninės organizacijos, profesinės sąjungos bei fiziniai asmenys. Duomenys rengiami, išnagrinėjus metodinius nurodymus ir remiantis atitinkamais dokumentais, o pateikiami statistikos tarnybų nustatytu laiku.
+Straipsnio dalies pakeitimai:
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
+ 
 
 
 
@@ -443,13 +475,17 @@ Lietuvos Respublikos juridiniai ir fiziniai asmenys gali naudotis tik suvestinė
 15 straipsnis. Statistikos duomenų patikimumas ir atsakomybė už statistikos duomenų pateikimo ir naudojimo tvarkos pažeidimą
 
 
-Kai respondentai pateikia nepatikimus ataskaitų duomenis, Statistikos departamentas, miestų ir rajonų statistikos skyriai gali tikrinti jų tikslumą, derindami finansinių statistikos ataskaitų rodiklius su finansinės atskaitomybės formomis, apskaitos dokumentais, gauti žodinius ir raštiškus paaiškinimus, reikiamais atvejais kviesti ekspertus duomenims įvertinti.
-
-
-
-
-Asmenys, pažeidę statistikos duomenų pateikimo valstybinės statistikos tarnyboms tvarką arba pateikę melagingus statistikos duomenis, taip pat Statistikos departamento bei miestų ir rajonų statistikos skyrių pareigūnai ir tarnautojai, pažeidę šio įstatymo reikalavimus arba pateikę melagingus duomenis valstybės valdžios ir valdymo institucijoms, paskelbę juos savo leidiniuose, atsako pagal Lietuvos Respublikos įstatymus.
+Kai respondentai pateikia nepatikimus ataskaitų duomenis, Statistikos departamentas, apskričių statistikos valdybos, miestų ir rajonų statistikos skyriai gali tikrinti jų tikslumą, derindami finansinių statistikos ataskaitų rodiklius su finansinės atskaitomybės formomis, apskaitos dokumentais, gauti žodinius ir raštiškus paaiškinimus, reikiamais atvejais kviesti ekspertus duomenims įvertinti.
+Straipsnio dalies pakeitimai:
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
  
+
+
+
+
+Asmenys, pažeidę statistikos duomenų pateikimo valstybinės statistikos tarnyboms tvarką arba pateikę melagingus statistikos duomenis, taip pat Statistikos departamento, apskričių statistikos valdybų bei miestų ir rajonų statistikos skyrių pareigūnai ir tarnautojai, pažeidę šio įstatymo reikalavimus arba pateikę melagingus duomenis valstybės valdžios ir valdymo institucijoms, paskelbę juos savo leidiniuose, atsako pagal Lietuvos Respublikos įstatymus.
+Straipsnio dalies pakeitimai:
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
  
 
 
@@ -462,3 +498,16 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-956, 1995-06-20, Žin., 1995, Nr. 55-1355 (1995-07-05), i. k. 0951010ISTA000I-956
+Dėl Lietuvos Respublikos statistikos įstatymo pakeitimo
