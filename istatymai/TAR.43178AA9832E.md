@@ -37,15 +37,6 @@ PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
  
 1 straipsnis. Įstatymo paskirtis ir taikymas
-1. Šis Įstatymas nustato ribotos ir neribotos
-civilinės atsakomybės juridinių asmenų, ūkininkų ūkių, antstolių, notarų
-ir advokatų, patentus įsigijusių fizinių asmenų, užsienio ūkio subjektų
-nuolatinių buveinių ir atstovybių (toliau – ūkio subjektai) turto, nuosavo
-kapitalo, įsipareigojimų, ūkinių operacijų ir ūkinių įvykių buhalterinę
-apskaitą, jos organizavimą ir tvarkymą.
- 
-[1 dalies
-redakcija nuo 2003 m. sausio 1 d.:
 1. Šis
 Įstatymas nustato ribotos ir neribotos civilinės atsakomybės juridinių asmenų,
 ūkininkų ūkių turto, nuosavo kapitalo, įsipareigojimų, ūkinių operacijų ir
@@ -60,23 +51,13 @@ organizavimą ir tvarkymą. Ribotos ir neribotos civilinės atsakomybės juridin
 asmenys, ūkininkų ūkiai, gyventojai, kurie verčiasi individualia veikla,
 užsienio ūkio subjektai, veikiantys per nuolatinę buveinę Lietuvos
 Respublikoje, užsienio ūkio subjektai, kurių atstovybės yra Lietuvos
-Respublikoje, toliau šiame Įstatyme vadinami ūkio subjektais.]
- 
-2. Ūkininkų ūkių, notarų, advokatų, patentus
-įsigijusių fizinių asmenų, užsienio ūkio subjektų nuolatinių buveinių ir
-atstovybių, pelno nesiekiančių ribotos civilinės atsakomybės juridinių asmenų
-buhalterinės apskaitos tvarką nustato Vyriausybė arba jos įgaliota institucija
-tiek, kiek šis Įstatymas nenustato kitaip.
- 
-[2 dalies
-redakcija nuo 2003 m. sausio 1 d.:
+Respublikoje, toliau šiame Įstatyme vadinami ūkio subjektais.
 2. Ūkininkų ūkių, gyventojų, kurie verčiasi
 individualia veikla, užsienio ūkio subjektų, veikiančių per nuolatinę buveinę
 Lietuvos Respublikoje, užsienio ūkio subjektų, kurių atstovybės yra Lietuvos
 Respublikoje, pelno nesiekiančių ribotos civilinės atsakomybės juridinių asmenų
 buhalterinės apskaitos tvarką nustato Vyriausybė arba jos įgaliota institucija
-tiek, kiek šis Įstatymas nenustato kitaip.]
- 
+tiek, kiek šis Įstatymas nenustato kitaip.
 3. Lietuvos banko, kitų kredito įstaigų, finansų
 maklerio įmonių, investicinių bendrovių, pensijų fondų, jų valdymo įmonių
 buhalterinės apskaitos tvarkymą ir organizavimą nustato šis Įstatymas, jeigu
@@ -85,9 +66,9 @@ Straipsnio
 pakeitimai:
 Nr.
 IX-1159,
-2002-10-29, Žin., 2002, Nr. 112-4967 (2002-11-22), įsigalioja nuo 2003-01-01
+2002-10-29, Žin., 2002, Nr. 112-4967 (2002-11-22)
 Nr. IX-1263,
-2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
  
 2 straipsnis. Pagrindinės Įstatymo
 sąvokos
@@ -124,10 +105,10 @@ ir ūkinių įvykių, už kuriuos ūkio subjektas privalės ateityje atsiskaityt
 turtu ir kurių dydį galima objektyviai nustatyti.
 9. Nuosavas kapitalas – ūkio subjekto turto
 dalis, likusi iš viso turto atėmus visus įsipareigojimus. 
-10. Pajamos – ūkio subjekto ekonominės naudos padidėjimas per
-ataskaitinį laikotarpį, t. y. ūkio subjekto turto padidėjimas arba
-įsipareigojimų sumažėjimas, kai dėl to padidėja nuosavas kapitalas, išskyrus
-papildomus savininkų įnašus.
+10. Pajamos – ūkio subjekto ekonominės naudos padidėjimas per ataskaitinį
+laikotarpį, t. y. ūkio subjekto turto padidėjimas arba įsipareigojimų
+sumažėjimas, kai dėl to padidėja nuosavas kapitalas, išskyrus papildomus
+savininkų įnašus.
 11. Paprastasis įrašas – ūkinių operacijų ir
 ūkinių įvykių registravimo būdas, kai nedaromas dvejybinis įrašas.
 12. Pinigų apskaitos dokumentas – popierinis
@@ -171,8 +152,8 @@ buhalterinę apskaitą.
  
 3 straipsnis. Bendrieji
 apskaitos tvarkymo reikalavimai
-1. Apskaita tvarkoma pagal šį
-Įstatymą ir kitus teisės aktus.
+1. Apskaita tvarkoma pagal šį Įstatymą
+ir kitus teisės aktus.
 2. Bendrąjį metodinį vadovavimą
 apskaitai pagal Lietuvos Respublikos teisės aktus, atsižvelgdama į
 Tarptautinius apskaitos standartus ir Europos Sąjungos teisę, atlieka Finansų
@@ -228,28 +209,18 @@ ir nuosavybės forma.
 visas ūkines operacijas ir ūkinius įvykius, susijusius su turto, nuosavo
 kapitalo, įsipareigojimų dydžio arba struktūros pasikeitimu.
 3. Ūkio subjektai, tvarkydami apskaitą, daro dvejybinį
-įrašą. Neribotos civilinės atsakomybės juridiniai asmenys, kurie nėra
-pridėtinės vertės mokesčio mokėtojai ir neturi samdomų darbuotojų
-ataskaitiniais ir praėjusiais ataskaitiniais metais, gali pasirinkti
-supaprastintą apskaitą. Supaprastintos apskaitos tvarką nustato Vyriausybė arba
-jos įgaliota institucija.
- 
-[3 dalies
-redakcija nuo 2003 m. sausio 1d.:
-3. Ūkio subjektai, tvarkydami apskaitą, daro dvejybinį
 įrašą. Gyventojai, kurie verčiasi individualia veikla, neribotos civilinės
 atsakomybės juridiniai asmenys, kurie nėra pridėtinės vertės mokesčio mokėtojai
 ir neturi samdomų darbuotojų ataskaitiniais ir praėjusiais ataskaitiniais
 metais, gali pasirinkti supaprastintą apskaitą. Supaprastintos apskaitos tvarką
 nustato Vyriausybė arba jos įgaliota institucija.]
- 
 4. Apskaitos dokumentai surašomi
 ir apskaitos registrai sudaromi lietuvių kalba, o prireikus – ir lietuvių, ir
 užsienio kalba. Gauti dokumentai, kurie surašyti užsienio kalba, prireikus turi
 būti išversti į lietuvių kalbą.
 Straipsnio pakeitimai:
 Nr. IX-1263,
-2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
  
 7 straipsnis. Sąskaitų planas
 1. Pavyzdinį sąskaitų planą parengia ir „Valstybės
@@ -267,37 +238,47 @@ sistemą ūkio subjektai pasirenka savarankiškai.
 1. Apskaitos politika – bendrieji apskaitos principai,
 apskaitos metodai ir taisyklės, skirti ūkio subjekto apskaitai tvarkyti ir
 finansinei atskaitomybei sudaryti bei pateikti.
-2. Ūkio subjekto
-vadovas turi parinkti apskaitos politiką ir ją įgyvendinti, atsižvelgdamas į
-konkrečias sąlygas, verslo pobūdį ir vadovaudamasis apskaitos standartais. 
+2. Ūkio subjekto vadovas
+turi parinkti apskaitos politiką ir ją įgyvendinti, atsižvelgdamas į konkrečias
+sąlygas, verslo pobūdį ir vadovaudamasis apskaitos standartais. 
  
 10 straipsnis. Apskaitos tvarkymas
 1. Ūkio subjekto apskaitą tvarko:
 1) ūkio subjekto apskaitos tarnyba (struktūrinis
 padalinys) arba vyriausiasis buhalteris (buhalteris);
 2) pagal sutartį apskaitos paslaugas teikianti įmonė; 
-3) pats savininkas. Ši nuostata taikoma neribotos
-civilinės atsakomybės juridiniams asmenims, turintiems vieną savininką, notarams,
-advokatams bei patentus įsigijusiems fiziniams asmenims; 
- 
-[1 dalies 3
-punkto redakcija nuo 2003 m. sausio 1 d.:
 3) pats
 savininkas. Ši nuostata taikoma neribotos civilinės atsakomybės juridiniams
 asmenims, turintiems vieną savininką, bei gyventojams, kurie verčiasi
-individualia veikla;]
- 
+individualia veikla;
 4) ūkininkas arba jo ūkio nariai.
+ 
+2 dalies
+redakcija iki 2003 m. liepos 1 d.:
 2. Valstybės ir savivaldybės įmonių, biudžetinių
 įstaigų apskaita tvarkoma šio straipsnio 
 1 dalies 1 punkte nustatyta tvarka.
+2 dalies
+redakcija nuo 2003 m. liepos 1 d.:
+2. Valstybės
+ir savivaldybės įmonių apskaita tvarkoma šio straipsnio 1 dalies 1 punkte
+nustatyta tvarka.
+ 
+10 straipsnis
+papildomas 3 dalimi nuo 2003 m. liepos 1 d.:
+3. Biudžetinių įstaigų apskaita tvarkoma šio straipsnio
+1 dalies 1 punkte nustatyta tvarka arba centralizuotai teisės aktų nustatyta
+tvarka.
 Straipsnio
 pakeitimai:
 Nr.
 IX-1159,
-2002-10-29, Žin., 2002, Nr. 112-4967 (2002-11-22), įsigalioja nuo 2003-01-01
+2002-10-29, Žin., 2002, Nr. 112-4967 (2002-11-22)
 Nr. IX-1263,
-2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
+Nr.
+IX-1619,
+2003-06-10, Žin., 2003, Nr. 61-2771 (2003-06-27)
  
 11 straipsnis. Vyriausiojo
 buhalterio (buhalterio) ir apskaitos paslaugas teikiančios
@@ -306,8 +287,8 @@ buhalterio (buhalterio) ir apskaitos paslaugas teikiančios
 Vyriausiasis buhalteris (buhalteris) ir apskaitos paslaugas teikianti
 įmonė atsako už buhalterinių įrašų teisingumą ir finansinės atskaitomybės
 pateikimą laiku. 
-2.
-Vyriausiojo buhalterio (buhalterio) atsakomybę nustato Lietuvos Respublikos teisės
+2. Vyriausiojo
+buhalterio (buhalterio) atsakomybę nustato Lietuvos Respublikos teisės
 aktai.
 3. Apskaitos
 paslaugas teikiančios įmonės atsakomybė nustatoma rašytinėje sutartyje,
@@ -377,29 +358,20 @@ kodas;
 5) paslaugų pavadinimai;
 6) suteiktų paslaugų vertė pinigais ir (arba) jų
 kiekis atitinkamais mato vienetais.
-5. Kai ūkinė operacija jau atlikta arba ūkinis įvykis
-baigėsi, bet nėra gautas tai patvirtinantis apskaitos dokumentas, surašomas
-laisvos formos apskaitos dokumentas, nustatantis ūkinės operacijos arba ūkinio
-įvykio tapatumą. Šį dokumentą pasirašo asmenys, turintys teisę surašyti ir
-pasirašyti arba tik pasirašyti apskaitos dokumentus.
- 
-[13 straipsnis
-papildomas nauja 5 dalimi, buvusi 5 dalis laikoma 6 dalimi nuo 2003 m. sausio 1
-d.:
 5. Šio straipsnio 1 dalies 1 ir 6 punktuose nustatyti
 apskaitos dokumentų rekvizitai kasos aparato kvitui neprivalomi.
 6. Kai ūkinė operacija jau atlikta arba ūkinis įvykis
 baigėsi, bet nėra gautas tai patvirtinantis apskaitos dokumentas, surašomas
 laisvos formos apskaitos dokumentas, nustatantis ūkinės operacijos arba ūkinio
-įvykio tapatumą. Šį dokumentą pasirašo asmenys, turintys teisę surašyti ir
-pasirašyti arba tik pasirašyti apskaitos dokumentus.]
+įvykio tapatumą. Šį dokumentą pasirašo asmenys, turintys teisę surašyti ir pasirašyti
+arba tik pasirašyti apskaitos dokumentus.]
 Straipsnio
 pakeitimai:
 Nr.
 IX-679,
-2001-12-21, Žin., 2001, Nr. 110-3995 (2001-12-29), įsigalioja nuo 2002-01-01
+2001-12-21, Žin., 2001, Nr. 110-3995 (2001-12-29)
 Nr. IX-1263,
-2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
  
 14 straipsnis. Apskaitos dokumentų pasirašymas
 
@@ -531,7 +503,6 @@ nustatyta tvarka atsako ūkio subjekto vadovas.
 Apskaitos informacija, kuri
 nenurodoma finansinėje atskaitomybėje, neskelbiama.
  
- 
 ŠEŠTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
  
@@ -564,7 +535,8 @@ Nr. 18-463);
 pagrindų įstatymo 9, 10 ir 20 straipsnių pakeitimo įstatymas (Žin., 1996, Nr.
 64-1509);
 5) Lietuvos Respublikos buhalterinės apskaitos
-pagrindų įstatymo 9, 10 ir 20 straipsnių pakeitimo įstatymas (Žin., 1996, Nr. 126-2949);
+pagrindų įstatymo 9, 10 ir 20 straipsnių pakeitimo įstatymas (Žin., 1996, Nr.
+126-2949);
 6) Lietuvos Respublikos buhalterinės apskaitos
 pagrindų įstatymo 9 ir 10 straipsnių pakeitimo įstatymas (Žin., 1997, Nr.
 64-1509);
@@ -634,11 +606,22 @@ BUHALTERINĖS APSKAITOS ĮSTATYMO 1, 6, 10 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMA
 Šis
 Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1619,
+2003-06-10, Žin., 2003, Nr. 61-2771 (2003-06-27)
+BUHALTERINĖS
+APSKAITOS ĮSTATYMO 10 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis Įstatymas įsigalioja nuo 2003 m. liepos 1
+d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-01-15)
+Aušrinė Trapinskienė (2003-06-27)
                  
 autrap@lrs.lt
