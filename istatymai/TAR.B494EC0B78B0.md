@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B494EC0B78B0"
 
 # Lietuvos Respublikos prekių ženklų įstatymas
 
+Suvestinė redakcija nuo 2002-11-08 iki 2004-03-12
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 92-2844, i. k. 1001010ISTAIII-1981
+ 
 LIETUVOS RESPUBLIKOS PREKIŲ ŽENKLŲ ĮSTATYMAS
  
 2000 m. spalio 10 d. Nr. VIII-1981
@@ -28,10 +32,17 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato prekių ženklų teisinę apsaugą, registraciją ir naudojimą Lietuvos Respublikoje, Lietuvos Respublikos prekių ženklų registro tvarkymą.
+1. Šis įstatymas nustato prekių ženklų teisinę apsaugą, registraciją ir naudojimą Lietuvos Respublikoje, Lietuvos Respublikos prekių ženklų registro tvarkymą.
+
+
+
+
+2. Šio įstatymo nuostatos yra suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
  
-
-
 
 
 
@@ -135,7 +146,6 @@ BENDROSIOS NUOSTATOS
 
 
 20. Komercializavimas – prekių naudojimas siekiant gauti pelną.
- 
 
 
 
@@ -334,7 +344,7 @@ ANTRASIS SKIRSNIS
 
 
 
-6) tapatus saugomam pramoniniam dizainui ar kitam pramoninės nuosavybės objektui, autorių teisių saugomam literatūros, mokslo, meno kūriniui, žinomo asmens pavardei ar vardui, meniniam pseudonimui ar kito asmens portretui arba yra klaidinamai į jį panašus, išskyrus atvejus, kai šių teisių savininkas ar jo teisių perėmėjas yra davęs sutikimą.
+6) tapatus saugomam pramoniniam dizainui ar kitam pramoninės nuosavybės objektui, autorių teisių saugomam literatūros, mokslo, meno kūriniui, žinomo asmens pavardei ar vardui, meniniam pseudonimui ar kito asmens portretui arba yra klaidinamai į jį panašus, išskyrus atvejus, kai šių teisių savininkas ar jo teisių perėmėjas yra davęs sutikimą;
 
 
 
@@ -584,7 +594,6 @@ TREČIASIS SKIRSNIS
 
 
 2. Nepateikus nors vieno iš šio įstatymo 11 straipsnio 4 dalies 1 ir 2 punktuose nurodytų dokumentų, padavimo data paraiškai nesuteikiama ir paraiškos dokumentai grąžinami pareiškėjui, nurodant paraiškos nepriėmimo motyvus. 
- 
 
 
 
@@ -744,7 +753,10 @@ TREČIASIS SKIRSNIS
 18 straipsnis. Ženklo registracijos užprotestavimas
 
 
-1. Suinteresuoti asmenys per 3 mėnesius nuo įregistruoto ženklo paskelbimo Valstybinio patentų biuro oficialiame biuletenyje dienos, remdamiesi šio įstatymo 6 ir 7 straipsniais, gali užprotestuoti ženklo registraciją paduodami motyvuotą rašytinį protestą Apeliaciniam skyriui.
+1. Suinteresuoti asmenys per 3 mėnesius nuo įregistruoto ženklo paskelbimo Valstybinio patentų biuro oficialiame biuletenyje dienos, remdamiesi šio įstatymo 6 ir (ar) 7 straipsniais, gali užprotestuoti ženklo registraciją paduodami motyvuotą rašytinį protestą Apeliaciniam skyriui.
+Straipsnio dalies pakeitimai:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
 
 
 
@@ -1112,12 +1124,18 @@ TREČIASIS SKIRSNIS
 26 straipsnis. Terminai
 
 
-1. Pareiškėjui ar jo atstovui pateikus prašymą raštu ir sumokėjus nustatytą mokestį, šio įstatymo 13 straipsnio 5 ir 6 dalyse, 14 straipsnio 3 dalyje, 15 straipsnio 1 dalyje, 17 straipsnio 1 dalyje, 18 straipsnio 4 dalyje, 25 straipsnio 1 dalyje numatyti terminai gali būti pratęsti vieną kartą, bet ne ilgiau kaip 2 mėnesiams nuo pirmojo termino pasibaigimo dienos.
+1. Pareiškėjui, ženklo ar tarptautinės registracijos savininkui arba jo atstovui pateikus prašymą raštu ir sumokėjus nustatytą mokestį, šio įstatymo 13 straipsnio 5 ir 6 dalyse, 14 straipsnio 3 dalyje, 15 straipsnio 1 dalyje, 17 straipsnio 1 dalyje, 18 straipsnio 4 dalyje, 25 straipsnio 1 dalyje, 34 straipsnio 1, 2 ir 4 dalyse numatyti terminai gali būti pratęsti vieną kartą, bet ne ilgiau kaip 2 mėnesiams nuo pirmojo termino pasibaigimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
 
 
 
 
-2. Prašymas pratęsti terminą turi būti pateiktas ir nustatytas mokestis turi būti sumokėtas nepasibaigus pirmajam terminui. Terminas pratęsiamas Valstybinio patentų biuro sprendimu.
+2. Pareiškėjas, ženklo ar tarptautinės registracijos savininkas arba jo atstovas ne vėliau kaip per 2 mėnesius nuo pirmojo termino pasibaigimo dienos gali pateikti prašymą pratęsti terminą. Terminas pratęsiamas Valstybinio patentų biuro sprendimu.
+Straipsnio dalies pakeitimai:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
 
 
 
@@ -1342,7 +1360,10 @@ TARPTAUTINĖ ŽENKLO REGISTRACIJA
 32 straipsnis. Tarptautinės paraiškos ar vėlesnio teritorinio išplėtimo prašymo padavimas paraiškos ar registracijos Lietuvos Respublikoje pagrindu
 
 
-1. Pareiškėjas ar ženklo savininkas, atitinkantis Madrido protokolo 2 straipsnio 1 dalies (i) papunkčio reikalavimus, tarptautinę paraišką ar vėlesnio teritorinio išplėtimo prašymą turi paduoti per Valstybinį patentų biurą. 
+1. Pareiškėjas ar ženklo savininkas, atitinkantis Madrido protokolo 2 straipsnio 1 dalies i papunkčio reikalavimus, tarptautinę paraišką turi paduoti per Valstybinį patentų biurą. Vėlesnio teritorinio išplėtimo prašymas gali būti paduodamas per Valstybinį patentų biurą arba siunčiamas Tarptautiniam biurui tiesiogiai.
+Straipsnio dalies pakeitimai:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
 
 
 
@@ -1414,7 +1435,10 @@ TARPTAUTINĖ ŽENKLO REGISTRACIJA
 
 
 
-2. Jeigu tarptautinės ženklo registracijos savininkas nesutinka su pakartotinės ekspertizės metu Valstybinio patentų biuro priimtu sprendimu, jis turi teisę per 5 mėnesius nuo šio sprendimo priėmimo dienos paduoti Apeliaciniam skyriui apeliaciją šio įstatymo 15 straipsnio nustatyta tvarka.
+2. Jeigu tarptautinės ženklo registracijos savininkas nesutinka su pakartotinės ekspertizės metu Valstybinio patentų biuro priimtu sprendimu, jis turi teisę per 3 mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Apeliaciniam skyriui apeliaciją šio įstatymo 15 straipsnio nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
 
 
 
@@ -1424,7 +1448,10 @@ TARPTAUTINĖ ŽENKLO REGISTRACIJA
 
 
 
-4. Užprotestuotos tarptautinės ženklo registracijos savininkas per 5 mėnesius nuo protesto padavimo dienos privalo paskirti atstovą šio įstatymo 11 straipsnio 2 dalies nustatyta tvarka ir pateikti motyvuotą atsakymą į protestą. Motyvuoto atsakymo nepateikimas į protestą laikomas atsisakymu dalyvauti protesto nagrinėjime ir neužkerta kelio Apeliaciniam skyriui nagrinėti protestą užprotestuotos tarptautinės ženklo registracijos savininkui ar jo atstovui nedalyvaujant. Jeigu užprotestuotos tarptautinės ženklo registracijos savininkas nepaskyrė atstovo, Apeliacinio skyriaus priimtas sprendimas tarptautinės ženklo registracijos savininkui nesiunčiamas.
+4. Užprotestuotos tarptautinės ženklo registracijos savininkas per 5 mėnesius nuo pranešime Tarptautiniam biurui apie atsisakymą suteikti apsaugą nurodytos datos privalo paskirti atstovą šio įstatymo 11 straipsnio 2 dalies nustatyta tvarka ir pateikti motyvuotą atsakymą į protestą. Motyvuoto atsakymo nepateikimas į protestą laikomas atsisakymu dalyvauti protesto nagrinėjime ir neužkerta kelio Apeliaciniam skyriui nagrinėti protestą užprotestuotos tarptautinės ženklo registracijos savininkui ar jo atstovui nedalyvaujant. Jeigu užprotestuotos tarptautinės ženklo registracijos savininkas nepaskyrė atstovo, Apeliacinio skyriaus priimtas sprendimas tarptautinės ženklo registracijos savininkui nesiunčiamas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
 
 
 
@@ -1434,7 +1461,17 @@ TARPTAUTINĖ ŽENKLO REGISTRACIJA
 
 
 
-6. Tarptautinės ženklo registracijos galiojimo termino pratęsimą ir kitus šiame įstatyme neaptartus klausimus, susijusius su tarptautine ženklo registracija, reglamentuoja Madrido protokolas, Madrido protokolo bendrosios taisyklės ir Madrido protokolo įgyvendinimo tvarka.
+6. Tarptautinėms kolektyvinio ženklo registracijoms netaikomi šio įstatymo 29 straipsnio reikalavimai. 
+Papildyta straipsnio dalimi:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
+
+
+
+
+7. Tarptautinės ženklo registracijos galiojimo termino pratęsimą ir kitus šiame įstatyme neaptartus klausimus, susijusius su tarptautine ženklo registracija, reglamentuoja Madrido protokolas, Madrido protokolo bendrosios taisyklės ir Madrido protokolo įgyvendinimo tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
  
 
 
@@ -1582,7 +1619,7 @@ SEPTINTASIS SKIRSNIS
 
 
 
-3. Šio straipsnio 1 dalies 3 punkte nurodytu skiriamojo ženklo požymio pažeidimu pripažįstami atvejai, kai:
+3. Šio straipsnio 1 dalies 3 punkte nurodytu skiriamojo ženklo požymio pažeidimu, be to, pripažįstami atvejai, kai:
 
 
 1) žymuo naudojamas kaip firmos vardas ir toks jo naudojimas klaidina visuomenę dėl savo panašumo į įregistruotą ženklą bei prekes ir (ar) paslaugas, kurioms šis ženklas įregistruotas;
@@ -1591,9 +1628,11 @@ SEPTINTASIS SKIRSNIS
 
 
 2) skelbimuose ar kitose visuomenės informavimo priemonėse žymuo atgaminamas arba nurodomas taip, kad gali susidaryti įspūdis, jog atitinkamas ženklas yra tapęs bendriniu tam tikrų prekių ir (ar) paslaugų pavadinimu.
+
+
+Straipsnio dalies pakeitimai:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
  
-
-
 
 
 
@@ -1704,7 +1743,10 @@ TEISĖS Į ŽENKLĄ PERDAVIMAS, LICENCIJAVIMAS IR ĮKEITIMAS
 
 
 
-2. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti perduota vienai, kelioms arba visoms prekių ir (ar) paslaugų klasėms žymėti. 
+2. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti perduota visoms arba daliai prekių ir (ar) paslaugų žymėti.
+Straipsnio dalies pakeitimai:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
 
 
 
@@ -1830,7 +1872,10 @@ TEISĖS Į ŽENKLĄ PERDAVIMAS, LICENCIJAVIMAS IR ĮKEITIMAS
 
 
 
-6. Ženklo savininkas gali panaudoti šio įstatymo 38 straipsnyje numatytas teises prieš licenciatą, jeigu šis nevykdo kurios nors licencinėje sutartyje numatytos sąlygos – dėl jos trukmės, registruoto ženklo naudojimo formos, prekių ir (ar) paslaugų, dėl kurių suteikta licencija, kiekio, teritorijos, kurioje gali būti naudojamas ženklas, arba dėl licenciato gaminamų prekių ir (ar) teikiamų paslaugų kokybės. 
+6. Ženklo savininkas gali panaudoti šio įstatymo 38 straipsnyje numatytas teises prieš licenciatą, jeigu šis nevykdo kurios nors licencinėje sutartyje numatytos sąlygos – dėl jos trukmės, registruoto ženklo naudojimo formos, prekių ir (ar) paslaugų, dėl kurių suteikta licencija, apimties (kiekio, rūšies, kilmės), teritorijos, kurioje gali būti naudojamas ženklas, arba dėl licenciato gaminamų prekių ir (ar) teikiamų paslaugų kokybės.
+Straipsnio dalies pakeitimai:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
 
 
 
@@ -1869,7 +1914,10 @@ DEVINTASIS SKIRSNIS
 46 straipsnis. Ženklo registracijos pripažinimas negaliojančia
 
 
-1. Bet kurio suinteresuoto asmens prašymu teismas, remdamasis tuo, kad ženklas neatitinka šio įstatymo 6 ir 7 straipsnių nuostatų, gali pripažinti ženklo registraciją negaliojančia.
+1. Bet kurio suinteresuoto asmens prašymu teismas, remdamasis tuo, kad ženklas neatitinka šio įstatymo 6 ir (ar) 7 straipsnių nuostatų, gali pripažinti ženklo registraciją negaliojančia.
+Straipsnio dalies pakeitimai:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
 
 
 
@@ -1890,7 +1938,6 @@ DEVINTASIS SKIRSNIS
 
 
 5. Ženklo registraciją pripažinus negaliojančia ar ją panaikinus, netenka galios ir išduotas registracijos liudijimas.
- 
 
 
 
@@ -2022,8 +2069,7 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 
 
 
-5) ženklo pripažinimo plačiai žinomu Lietuvos Respublikoje.
- 
+5) ženklo pripažinimo plačiai žinomu Lietuvos Respublikoje;
 
 
 
@@ -2076,7 +2122,6 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 
 
 3. Išimtinės licencijos turėtojas turi teisę pareikšti ieškinį, net jeigu sutartyje numatyta kitaip, su sąlyga, kad ženklo savininkas po pranešimo apie tokio licenciato teisių pažeidimą per nustatytą terminą nepareiškia ieškinio.
- 
 
 
 
@@ -2197,3 +2242,36 @@ Vyriausybė iki 2001 m. sausio 1 d. suderina teisės aktus, susijusius su šio �
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+
+
+
+
+Lietuvos Respublikos prekių ženklų įstatymo
+Nr. VIII-1981
+priedas
+ 
+Lietuvos Respublikos prekių ženklų įstatymas yra suderintas su 1988 m. gruodžio 21 d. Pirmąja Tarybos direktyva Nr. 89/104/EEB dėl valstybių narių prekių ženklų įstatymų derinimo.
+Papildyta priedu:
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
+Lietuvos Respublikos prekių ženklų įstatymo 1, 18, 26, 32, 34, 38, 43, 44, 46 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+Lietuvos Respublikos prekių ženklų įstatymo 2, 5, 7, 8, 11, 12, 30, 38, 40, 43, 45, 46, 49, 50 straipsnių ir įstatymo priedo pakeitimo bei papildymo ir įstatymo papildymo 55(1) straipsniu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-651, 2006-06-08, Žin., 2006, Nr. 72-2670 (2006-06-28), i. k. 1061010ISTA000X-651
+Lietuvos Respublikos prekių ženklų įstatymo dešimtojo skirsnio ir 56 straipsnio pakeitimo bei papildymo ir Įstatymo priedo papildymo įstatymas
