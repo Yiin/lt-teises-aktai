@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
+Suvestinė redakcija nuo 1997-10-30 iki 1998-12-31
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
@@ -43,7 +47,10 @@ Pašalpos dydis lygus trims Lietuvos Respublikos Vyriausybės nustatytiems minim
 
 
 
-Mirus invalidui, pensininkui, socialinę pašalpą gaunančiam šeimos nariui, mokama dvigubo šio straipsnio pirmojoje dalyje nustatyto dydžio pašalpa.
+Mirus invalidui, pensininkui, socialinę pašalpą gaunančiam šeimos nariui, bedarbiui, įsiregistravusiam darbo biržoje, mokama dvigubo šio straipsnio pirmojoje dalyje nustatyto dydžio pašalpa.
+Straipsnio dalies pakeitimai:
+Nr. VIII-473, 1997-10-21, Žin., 1997, Nr. 98-2484 (1997-10-30), i. k. 0971010ISTAVIII-473
+ 
 
 
 
@@ -88,3 +95,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-473, 1997-10-21, Žin., 1997, Nr. 98-2484 (1997-10-30), i. k. 0971010ISTAVIII-473
+Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2 straipsnio papildymo įstatymas
