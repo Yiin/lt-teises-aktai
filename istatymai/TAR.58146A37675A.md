@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.58146A37675A"
 
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas
 
+Suvestinė redakcija nuo 2000-07-26 iki 2004-11-24
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 82-2414, i. k. 0991010ISTAIII-1328
+ 
 LIETUVOS RESPUBLIKOS ETNINĖS KULTŪROS VALSTYBINĖS GLOBOS PAGRINDŲ ĮSTATYMAS
  
 1999 m. rugsėjo 21 d. Nr. VIII-1328
@@ -228,7 +232,10 @@ ETNINĖS KULTŪROS VALSTYBINĖS GLOBOS REGLAMENTAVIMAS
 1. Etninės kultūros valstybinę globą užtikrina šios institucijos:
 
 
-1) Etninės kultūros globos taryba – valstybės patariamoji ir ekspertų institucija, kurios nuostatai ir sudėtis tvirtinami Vyriausybės nutarimu, remiantis visuomeninių bei valstybės institucijų, susijusių su etninės kultūros globa, pasiūlymais;
+1) Etninės kultūros globos taryba – Seimo ir Vyriausybės ekspertas ir patarėjas etninės kultūros valstybinės globos ir politikos klausimais. Taryba yra juridinis asmuo. Ji išlaikoma iš Lietuvos Respublikos valstybės biudžeto lėšų. Etninės kultūros globos taryba yra atskaitinga Seimui. Ji sudaroma ir veikia pagal Seimo patvirtintus nuostatus. Tarybos sudėtis formuojama remiantis visuomeninių organizacijų bei valstybės institucijų, susijusių su etninės kultūros globa, pasiūlymais;
+Straipsnio punkto pakeitimai:
+Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010ISTAIII-1847
+ 
 
 
 
@@ -258,7 +265,10 @@ ETNINĖS KULTŪROS VALSTYBINĖS GLOBOS REGLAMENTAVIMAS
 2. Etninės kultūros valstybinės globos institucijų kompetencija:
 
 
-1) Etninės kultūros globos taryba padeda formuoti ir įgyvendinti etninės kultūros politiką, koordinuoti etninės kultūros valstybinę globą, teikia išvadas bei pasiūlymus valstybės institucijoms etninės kultūros klausimais; 
+1) Etninės kultūros globos taryba padeda formuoti ir įgyvendinti etninės kultūros politiką, prižiūrėti ir koordinuoti etninės kultūros valstybinę globą vykdančių institucijų veiklą, teikia išvadas bei pasiūlymus valstybės institucijoms etninės kultūros klausimais;
+Straipsnio punkto pakeitimai:
+Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010ISTAIII-1847
+ 
 
 
 
@@ -674,7 +684,10 @@ BAIGIAMOSIOS NUOSTATOS
 Lietuvos Respublikos Vyriausybė:
 
 
-1) iki 1999 m. spalio 31 d. patvirtina Etninės kultūros globos tarybos sudėtį bei nuostatus ir skiria šiai tarybai patalpas;
+1) skiria Etninės kultūros globos tarybai patalpas; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010ISTAIII-1847
+ 
 
 
 
@@ -712,3 +725,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010ISTAIII-1847
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 5 ir 12 straipsnių pakeitimo įstatymas
