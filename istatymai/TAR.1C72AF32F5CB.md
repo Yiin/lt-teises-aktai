@@ -2223,12 +2223,7 @@ nesusijusius su darbu:
 atsitikimas darbe, susijęs su darbu, – įvykis, kurį ištyrus nustatoma, kad jis
 įvyko atliekant darbo sutartimi sulygtą darbą ar kitą darbdavio pavestą ar su
 darbdavio žinia atliekamą darbą arba vykstant į darbą ar iš darbo;
-2) nelaimingas
-atsitikimas, nesusijęs su darbu, – įvykis, kurį ištyrus nustatoma, kad
-nukentėjusysis patyrė traumą ar mirė: norėdamas nusižudyti ar susižaloti; kai
-prieš jį buvo panaudotas smurtas, jeigu smurto aplinkybės ir motyvai nesusiję
-su darbu; kai darė nusikaltimą; kai savavališkai (be darbdavio žinios) dirbo
-sau (savo interesais). 
+2) nelaimingas atsitikimas, nesusijęs su darbu, – įvykis, kurį ištyrus nustatoma, kad nukentėjusysis patyrė traumą ar mirė: norėdamas nusižudyti ar susižaloti; kai prieš jį buvo panaudotas smurtas, jeigu smurto aplinkybės ir motyvai nesusiję su darbu; kai darė nusikalstamą veiką; kai savavališkai (be darbdavio žinios) dirbo sau (savo interesais).
 4. Profesinės
 ligos skirstomos pagal pasireiškimo laiką ir požymius:
 1) lėtinė
@@ -2238,6 +2233,11 @@ kenksmingų ir (ar) pavojingų darbo aplinkos veiksnių per tam tikrą darbo lai
 liga – staigus darbuotojo sveikatos sutrikimas, kurį sukėlė trumpalaikis
 (vienkartinis arba per vieną darbo dieną) darbo aplinkos pavojingas veiksnys
 (veiksniai), pasižymintis ūminiu poveikiu.
+Straipsnio
+pakeitimai:
+Nr.
+IX-1453,
+2003-04-03, Žin., 2003, Nr. 38-1698 (2003-04-24)
  
 72
 straipsnis. Pranešimai apie nelaimingus atsitikimus darbe, profesines ligas
@@ -2262,8 +2262,8 @@ praneša Valstybinei darbo inspekcijai ir Valstybinės visuomenės sveikatos
 priežiūros tarnybos teritorinėms įstaigoms. 
 5. Pranešimų
 apie nelaimingus atsitikimus darbe, profesines ligas ir jų registravimo tvarką
-nustato atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatai,
-Profesinių ligų tyrimo ir apskaitos nuostatai.
+nustato atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatai, Profesinių
+ligų tyrimo ir apskaitos nuostatai.
  
 73 straipsnis.
 Nelaimingų atsitikimų darbe, profesinių ligų tyrimas
@@ -2290,13 +2290,13 @@ inspektorius gali pasitelkti reikalingus specialistus ar ekspertus. Darbdavys
 sudaro sąlygas ir teikia nelaimingam atsitikimui darbe tirti reikalingą
 informaciją. Darbo inspektoriaus surašytą ir pasirašytą nelaimingo atsitikimo
 darbe tyrimo aktą pasirašo tyrime dalyvavę asmenys. Darbo inspektorius
-nelaimingo atsitikimo darbe tyrimo aktą įteikia darbdaviui pasirašyti. Jei
-darbdavys ar darbuotojų atstovas nedalyvauja nelaimingo atsitikimo darbe
-tyrime, darbo inspektorius tiria nelaimingą atsitikimą darbe be suinteresuotos
-šalies atstovo (atstovų). Jei darbdavio ar darbuotojų atstovas arba darbdavys
-nepasirašo nelaimingo atsitikimo darbe tyrimo akto ir raštu nepateikia darbo
-inspektoriui motyvuotos nepasirašymo priežasties, darbo inspektoriaus surašytas
-nelaimingo atsitikimo tyrimo aktas įsigalioja nuo jo surašymo dienos.
+nelaimingo atsitikimo darbe tyrimo aktą įteikia darbdaviui pasirašyti. Jei darbdavys
+ar darbuotojų atstovas nedalyvauja nelaimingo atsitikimo darbe tyrime, darbo
+inspektorius tiria nelaimingą atsitikimą darbe be suinteresuotos šalies atstovo
+(atstovų). Jei darbdavio ar darbuotojų atstovas arba darbdavys nepasirašo
+nelaimingo atsitikimo darbe tyrimo akto ir raštu nepateikia darbo inspektoriui
+motyvuotos nepasirašymo priežasties, darbo inspektoriaus surašytas nelaimingo
+atsitikimo tyrimo aktas įsigalioja nuo jo surašymo dienos.
 5. Darbo
 inspektoriaus surašytas nelaimingo atsitikimo darbe tyrimo aktas kartu su
 priedais išsiunčiamas Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatų
@@ -2345,10 +2345,10 @@ profesinę ligą tirianti komisija nustato, kad profesinei ligai galėjo turėti
 įtakos darbas ankstesnėje darbovietėje, komisija, vadovaudamasi Profesinių ligų
 tyrimo ir apskaitos nuostatais, tyrimą atlieka ankstesnėje įmonėje ar įmonėse.
 12. Komisijos,
-tyrusios profesinę ligą, sprendimus bei išvadas dėl profesinės ligos
-priežasčių, taip pat dėl tyrimo tvarkos tyrime dalyvavę darbdavio ir darbuotojų
-atstovai gali apskųsti teismui arba Profesinių ligų tyrimo ir apskaitos
-nuostatuose nustatyta tvarka vyriausiajam valstybiniam darbo inspektoriui. 
+tyrusios profesinę ligą, sprendimus bei išvadas dėl profesinės ligos priežasčių,
+taip pat dėl tyrimo tvarkos tyrime dalyvavę darbdavio ir darbuotojų atstovai
+gali apskųsti teismui arba Profesinių ligų tyrimo ir apskaitos nuostatuose
+nustatyta tvarka vyriausiajam valstybiniam darbo inspektoriui. 
 13. Ginčytinus
 klausimus, susijusius su profesinės ligos diagnozės nustatymu, sprendžia
 Centrinė darbo medicinos ekspertų komisija. Jos nuostatus ir sudėtį tvirtina
@@ -2364,8 +2364,8 @@ tarnybos teritorinės įstaigos atstovą. Tyrime dalyvauja darbdavio ir darbuoto
 atstovai.
 15. Nelaimingų
 atsitikimų darbe, profesinių ligų tyrimo metu Valstybinės darbo inspekcijos
-skirtos ekspertizės, kurias atlieka ne valstybinės įstaigos, apmokamos Valstybinei
-darbo inspekcijai šiam tikslui skirtomis lėšomis.
+skirtos ekspertizės, kurias atlieka ne valstybinės įstaigos, apmokamos
+Valstybinei darbo inspekcijai šiam tikslui skirtomis lėšomis.
  
 74
 straipsnis. Nelaimingų atsitikimų darbe, profesinių ligų tyrimo aktų saugojimas
@@ -2416,8 +2416,8 @@ pirmasis skirsnis
 Ekonominės priemonės
  
 75
-straipsnis. Darbuotojų nelaimingų atsitikimų darbe ir profesinių ligų
-socialinis 
+straipsnis. Darbuotojų nelaimingų atsitikimų darbe ir profesinių ligų socialinis
+
 draudimas
 1. Darbdaviai
 privalo drausti darbuotojus nelaimingų atsitikimų darbe ir profesinių ligų
@@ -2454,9 +2454,9 @@ arba dėl atsitikimų, kurių padarinių nebuvo galima išvengti, nors ir buvo
 naudojamos visos reikiamos priemonės. 
 3. Darbdavys
 neatsako už nelaimingus atsitikimus pakeliui į darbą ar iš darbo.
-4. Darbdavio atsakomybė už darbuotojų saugos ir
-sveikatos reikalavimų neužtikrinimą gali būti sumažinta įvertinus priemones,
-kurių darbdavys ėmėsi šio įstatymo 36 straipsnio nustatyta tvarka.
+4. Darbdavio atsakomybė už darbuotojų saugos ir sveikatos
+reikalavimų neužtikrinimą gali būti sumažinta įvertinus priemones, kurių
+darbdavys ėmėsi šio įstatymo 36 straipsnio nustatyta tvarka.
 5. Darbuotojui, kuris pažeidė darbuotojų saugos ir
 sveikatos teisės aktus ar įmonės darbuotojų saugos ir sveikatos norminius
 dokumentus, su kuriais buvo supažindintas, taikoma įstatymų nustatyta
@@ -2539,9 +2539,9 @@ ir sveikatos teisės aktų taikymas Lietuvos Respublikoje
 Rengiant
 Lietuvos Respublikos darbuotojų saugos ir sveikatos teisės aktus, taikomos
 Europos Sąjungos darbuotojų saugos ir sveikatos teisės aktų nuostatos,
-Tarptautinės darbo organizacijos konvencijų, kurios nustatyta tvarka
-ratifikuotos Lietuvos Respublikoje, nuostatos, taip pat atsižvelgiama į
-Tarptautinės darbo organizacijos rekomendacijas.
+Tarptautinės darbo organizacijos konvencijų, kurios nustatyta tvarka ratifikuotos
+Lietuvos Respublikoje, nuostatos, taip pat atsižvelgiama į Tarptautinės darbo
+organizacijos rekomendacijas.
  
 86
 straipsnis. Įstatymo 15 straipsnio 3 dalies, 29 straipsnio ir 69 straipsnio 6
@@ -2582,7 +2582,7 @@ Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                             
 ALGIRDAS BRAZAUSKAS 
  
-__________
+_________________
  
 Pakeitimai:
  
@@ -2648,12 +2648,24 @@ Nr. IX-997,
 DARBUOTOJŲ
 SAUGOS IR SVEIKATOS ĮSTATYMO 45 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1453,
+2003-04-03, Žin., 2003, Nr. 38-1698 (2003-04-24)
+DARBUOTOJŲ
+SAUGOS IR SVEIKATOS ĮSTATYMO 71 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin.,
+2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin.,
+2002, Nr. 37-1341), t.y. nuo 2003 m .gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-07-17)
+Aušrinė Trapinskienė (2003-05-08)
                  
 autrap@lrs.lt
 
