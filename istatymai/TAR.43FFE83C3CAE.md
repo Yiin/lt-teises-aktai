@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.43FFE83C3CAE"
 
 # Lietuvos Respublikos 1988 metų Jungtinių Tautų konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta ratifikavimo įstatymas
 
+Suvestinė redakcija nuo 2000-11-01 iki 2024-11-19
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 38-996; Žin. 1998, Nr.93-0, i. k. 0981010ISTAVIII-660
+ 
+ 
 LIETUVOS RESPUBLIKOS
 1988 METŲ JUNGTINIŲ TAUTŲ KONVENCIJOS DĖL KOVOS SU NETEISĖTA NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ APYVARTA RATIFIKAVIMO
 Į S T A T Y M A S
@@ -49,7 +54,9 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 
 
-3) Lietuvos Respublikos pasienio policijos departamentas prie Vidaus reikalų ministerijos yra institucija, atsakinga už paklausimų, gautų pagal Konvencijos 17 straipsnio 3 ir 4 punktus, vykdymą (Konvencijos 17 straipsnio 7 punktas).
+3) Lietuvos Respublikos valstybės sienos apsaugos tarnyba yra institucija, atsakinga už paklausimų, gautų pagal Konvencijos 17 straipsnio 3 ir 4 punktus, vykdymą (Konvencijos 17 straipsnio 7 punktas).
+Straipsnio punkto pakeitimai:
+Nr. VIII-2002, 2000-10-10, Žin., 2000, Nr. 92-2854 (2000-10-31), i. k. 1001010ISTAIII-2002
  
 
 
@@ -95,3 +102,13 @@ Lietuvos Respublikos Vyriausybė paskiria instituciją, kuri, vadovaudamasi Konv
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-2002, 2000-10-10, Žin., 2000, Nr. 92-2854 (2000-10-31), i. k. 1001010ISTAIII-2002
+Lietuvos Respublikos 1988 metų Jungtinių Tautų konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta ratifikavimo įstatymo 2 straipsnio pakeitimo įstatymas
