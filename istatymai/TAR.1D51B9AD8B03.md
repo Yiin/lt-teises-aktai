@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1D51B9AD8B03"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2000-01-21 iki 2000-03-28
+Suvestinė redakcija nuo 2000-03-29 iki 2001-06-19
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 109-3177, i. k. 0991010ISTAIII-1493
  
@@ -45,12 +45,18 @@ Vilnius
 
 
 
-4. Naujai įsteigtoms savivaldybėms ir toms, kurių ribos keičiamos, 2000 metų (balandžio – gruodžio mėnesių) biudžetų finansiniai rodikliai tvirtinami pakeičiant ir papildant Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą. Dėl to Vyriausybė iki 2000 m. vasario 10 d. pateikia Seimui Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymo projektą ir atsižvelgia į tai, kad savivaldybių, kurių teritorijų ribos keičiamos arba kurių teritorijoje steigiamos naujos savivaldybės, tarybos kas mėnesį gali panaudoti tik 1/12 dalį 2000 metams įstatymu nustatyto biudžeto. 
+4. Naujai įsteigtoms savivaldybėms ir toms, kurių ribos keičiamos, 2000 metų (gegužės – gruodžio mėnesių) biudžetų finansiniai rodikliai tvirtinami pakeičiant ir papildant Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą. Dėl to Vyriausybė pateikia Seimui Lietuvos Respublikos 2000 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymo projektą ir atsižvelgia į tai, kad savivaldybių, kurių teritorijų ribos keičiamos arba kurių teritorijoje steigiamos naujos savivaldybės, tarybos kas mėnesį gali panaudoti tik 1/12 dalį 2000 metams įstatymu nustatyto biudžeto. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1576, 2000-03-16, Žin., 2000, Nr. 26-668 (2000-03-29), i. k. 1001010ISTAIII-1576
+ 
 
 
 
 
-5. Naujai įsteigtos savivaldybės veiklą pradeda po rinkimų į savivaldybių tarybas. Remdamosi įstatymų reikalavimais, naujai įsteigtų ir kitų su teritorijos administracinių vienetų reforma susijusių savivaldybių tarybos patvirtina 2000 metų (balandžio – gruodžio mėnesių) biudžetą, suformuoja (performuoja) savivaldybių institucijas (padalinius) bei sprendžia kitus savivaldybės darbo organizavimo klausimus. Marijampolės miesto ir rajono, Akmenės, Kaišiadorių, Lazdijų, Mažeikių, Prienų, Trakų, Plungės, Šakių, Šilutės, Varėnos ir Vilkaviškio rajonų merai pareigas eina tol, kol reikalus perduoda naujai išrinktiems merams, bet ne ilgiau kaip iki 2000 m. gegužės 1 d., o savivaldybių tarnautojai savo pareigas eina iki bus suformuotos ir pradės dirbti Elektrėnų, Kalvarijos, Kazlų Rūdos, Pagėgių ir Rietavo savivaldybių administracijos.
+5. Naujai įsteigtos savivaldybės veiklą pradeda po rinkimų į savivaldybių tarybas. Remdamosi įstatymų reikalavimais, naujai įsteigtų ir kitų su teritorijos administracinių vienetų reforma susijusių savivaldybių tarybos patvirtina 2000 metų (gegužės – gruodžio mėnesių) biudžetą, suformuoja (performuoja) savivaldybių institucijas (padalinius) bei sprendžia kitus savivaldybės darbo organizavimo klausimus. Marijampolės miesto, Akmenės, Kaišiadorių, Lazdijų, Mažeikių, Prienų, Trakų, Plungės, Šakių, Šilutės, Varėnos ir Vilkaviškio rajonų merai pareigas eina tol, kol reikalus perduoda naujai išrinktiems merams, bet ne ilgiau kaip iki 2000 m. gegužės 1 d. Naujai įsteigtos savivaldybės iki 2000 m. gegužės 1 d. finansuojamos iš savivaldybių, kurių teritorijoje jos įsteigtos, biudžetų. Marijampolės rajono meras ir jo pavaduotojas pareigas eina tol, kol reikalus perduoda Kalvarijos, Kazlų Rūdos ir Marijampolės savivaldybių merams, bet ne ilgiau kaip iki 2000 m. gegužės 1 d.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1576, 2000-03-16, Žin., 2000, Nr. 26-668 (2000-03-29), i. k. 1001010ISTAIII-1576
+ 
 
 
 
@@ -374,3 +380,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1529, 2000-01-12, Žin., 2000, Nr. 6-154 (2000-01-21), i. k. 1001010ISTAIII-1529
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1576, 2000-03-16, Žin., 2000, Nr. 26-668 (2000-03-29), i. k. 1001010ISTAIII-1576
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo 1 straipsnio pakeitimo įstatymas
