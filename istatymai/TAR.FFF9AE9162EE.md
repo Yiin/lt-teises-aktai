@@ -527,7 +527,7 @@ Nr. XIV-3118, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20202
 
 
 
-2) registruojant žemės ūkio veiklai naudojamus ne keliais judančius mechanizmus mokestis už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų sumokamas prieš jų įregistravimą Registre;
+2) registruojant žemės ūkio veiklai naudojamus ne keliais judančius mechanizmus mokestis už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų sumokamas prieš jų įregistravimą Registro informacinėje sistemoje;
 
 
 
@@ -542,7 +542,7 @@ Nr. XIV-3118, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20202
 
 
 
-5) nesumokėjus mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų, jie neregistruojami Registre ir nekeičiami Registro duomenys;
+5) nesumokėjus mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų, jie neregistruojami Registro informacinėje sistemoje ir nekeičiami Registro duomenys;
 
 
 
