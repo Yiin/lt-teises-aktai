@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 1999-11-26 iki 2000-12-31
+Suvestinė redakcija nuo 2001-01-01 iki 2001-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
  
@@ -93,7 +93,7 @@ Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010IS
 5 straipsnis. Nekilnojamojo turto registre registruojamas nekilnojamasis turtas
 
 
-Nekilnojamojo turto registre registruojamas šis nekilnojamasis turtas:
+1. Nekilnojamojo turto registre registruojamas šis nekilnojamasis turtas:
 
 
 1) žemės sklypai;
@@ -101,22 +101,34 @@ Nekilnojamojo turto registre registruojamas šis nekilnojamasis turtas:
 
 
 
-2) pastatai ir statiniai;
+2) žemės sklypai su jame esančiais statiniais, inžineriniais įrenginiais;
 
 
 
 
-3) butai daugiabučiuose namuose;
+3) statiniai;
 
 
 
 
-4) kitos patalpos ir inžineriniai įrenginiai, kurie jų savininko rašytiniu prašymu Respublikiniame inventorizavimo, projektavimo ir paslaugų biure yra inventorizuoti kaip nekilnojamasis turtas.
+4) butai;
+
+
+
+
+5) kitos patalpos ir inžineriniai įrenginiai, kurie pagal jų savininko rašytinį prašymą Nekilnojamojo turto kadastro įstatymo nustatyta tvarka suformuoti kaip atskiri nekilnojamojo turto objektai ir kurių duomenys įrašyti į nekilnojamojo turto kadastrą.
+
+
+
+
+
+
+2. Kai statinys yra padalytas į patalpas ar butus, kurie yra suformuoti kaip atskiri nekilnojamojo turto objektai ir įrašyti į nekilnojamojo turto kadastrą, Nekilnojamojo turto registre daiktinės teisės registruojamos tik į butus ir patalpas, o ne į statinį.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1765, 2000-06-27, Žin., 2000, Nr. 58-1705 (2000-07-19), i. k. 1001010ISTAIII-1765
  
-
-
-
-
 
 
 
@@ -267,15 +279,22 @@ Kai nekilnojamasis turtas priklauso keliems asmenims bendrosios dalinės nuosavy
 12 straipsnis. Naujai sukurto (suformuoto) nekilnojamojo turto ir teisių į jį registravimo Nekilnojamojo turto registre sąlygos
 
 
-1. Naujai suformuoti žemės sklypai Nekilnojamojo turto registre registruojami tik tada, kai jie suformuoti, jų ribos ir kadastriniai duomenys nustatyti pagal Žemės įstatymo ir Valstybinio žemės kadastro reikalavimus. Kitas naujai sukurtas nekilnojamasis turtas ir teisės į jį Nekilnojamojo turto registre registruojami tik tada, kai jie Vyriausybės nustatyta tvarka inventorizuoti Respublikiniame inventorizavimo, projektavimo ir paslaugų biure.
+1. Visas nekilnojamasis turtas ir teisės į jį Nekilnojamojo turto registre registruojama tik tada, kai nekilnojamojo turto duomenys nustatyti pagal Nekilnojamojo turto kadastro įstatymo reikalavimus ir nustatyta tvarka įrašyti į nekilnojamojo turto kadastrą.
 
 
 
 
 2. Nuosavybės ir kitos daiktinės teisės į nekilnojamąjį turtą, šių teisių apribojimai, turto savininko prievolės bei kitų asmenų teisės į nekilnojamąjį turtą registruojamos kartu su šiuo nekilnojamuoju turtu ir atsiranda tik po jų įregistravimo Nekilnojamojo turto registre.
+
+
+
+
+3. Registruojant daiktines teises į naujai suformuotą nekilnojamąjį turtą, jeigu jis suformuotas padalijant, sujungiant, atidalijant nekilnojamąjį turtą, kuris jau buvo nustatyta tvarka įregistruotas Nekilnojamojo turto registre, naujai sukurtam turtui lieka galioti visi teisių apribojimai ir prievolės, kurie buvo registruoti Nekilnojamojo turto registre, jeigu įstatymai arba padalijamo, sujungiamo ar atidalijamo nekilnojamojo turto savininkų sudarytos sutartys nenustato kitaip.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1765, 2000-06-27, Žin., 2000, Nr. 58-1705 (2000-07-19), i. k. 1001010ISTAIII-1765
  
-
-
 
 
 
@@ -356,8 +375,16 @@ Nekilnojamojo turto ir teisių į jį įregistravimo Nekilnojamojo turto registr
 
 
 
-6) kiti dokumentai, patvirtinantys registruojamas Nekilnojamojo turto registre teises į nekilnojamąjį turtą, teisių į nekilnojamąjį turtą apribojimus ar nekilnojamojo turto savininko prievoles, susijusias su šiuo turtu.
+6) kiti dokumentai, patvirtinantys registruojamas Nekilnojamojo turto registre teises į nekilnojamąjį turtą, teisių į nekilnojamąjį turtą apribojimus ar nekilnojamojo turto savininko prievoles, susijusias su šiuo turtu;
 TAR pastaba. 16 straipsnio redakcija įsigalioja turto arešto aktų registrui pradėjus darbą.
+
+
+
+
+7) paveldėjimo teisės liudijimas.
+Papildyta straipsnio punktu:
+Nr. VIII-1765, 2000-06-27, Žin., 2000, Nr. 58-1705 (2000-07-19), i. k. 1001010ISTAIII-1765
+ 
 
 
 
@@ -482,9 +509,10 @@ Registruojant bendrosios jungtinės nuosavybės teise įgytą nekilnojamąjį tu
 
 
 
-3) ar dokumente, kurio pagrindu prašoma įregistruoti nekilnojamąjį turtą ir teises į jį, duomenys apie nekilnojamąjį turtą sutampa su žemės kadastro bei pastatų ir statinių inventorizavimo duomenimis apie šį nekilnojamąjį turtą; 
+3) ar dokumente, kurio pagrindu prašoma įregistruoti nekilnojamąjį turtą ir teises į jį, duomenys apie nekilnojamąjį turtą sutampa su nekilnojamojo turto kadastro duomenimis apie šį nekilnojamąjį turtą;
 Straipsnio punkto pakeitimai:
 Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010ISTAVIII-453
+Nr. VIII-1765, 2000-06-27, Žin., 2000, Nr. 58-1705 (2000-07-19), i. k. 1001010ISTAIII-1765
  
 
 
@@ -719,7 +747,10 @@ Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010IS
 3. Nekilnojamojo turto registro antrajame skyriuje įrašoma:
 
 
-1) techninės inventorizacijos duomenys apie pastatą, statinį;
+1) kadastro duomenys apie statinį; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1765, 2000-06-27, Žin., 2000, Nr. 58-1705 (2000-07-19), i. k. 1001010ISTAIII-1765
+ 
 
 
 
@@ -744,7 +775,10 @@ Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010IS
 4. Nekilnojamojo turto registro trečiajame skyriuje įrašoma:
 
 
-1) techninės inventorizacijos duomenys apie butą;
+1) kadastro duomenys apie butą; 
+Straipsnio punkto pakeitimai:
+Nr. VIII-1765, 2000-06-27, Žin., 2000, Nr. 58-1705 (2000-07-19), i. k. 1001010ISTAIII-1765
+ 
 
 
 
@@ -769,7 +803,10 @@ Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010IS
 5. Nekilnojamojo turto registro ketvirtajame skyriuje įrašoma:
 
 
-1) techninės inventorizacijos duomenys apie kitas patalpas ir inžinerinius įrenginius;
+1) kadastro duomenys apie kitas patalpas ir inžinerinius įrenginius;
+Straipsnio punkto pakeitimai:
+Nr. VIII-1765, 2000-06-27, Žin., 2000, Nr. 58-1705 (2000-07-19), i. k. 1001010ISTAIII-1765
+ 
 
 
 
@@ -819,14 +856,15 @@ Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010IS
 
 
 
-31 straipsnis. Nekilnojamojo turto registro centrinis duomenų bankas 
+31 straipsnis. Nekilnojamojo turto registro centrinis duomenų bankas
 
 
-Nekilnojamojo turto registro duomenų originalai kaupiami ir saugomi tik Nekilnojamojo turto registro centriniame duomenų banke. Nekilnojamojo turto registro centrinio duomenų banko duomenų struktūrą ir jų teikimo vartotojams tvarką nustato Nekilnojamojo turto registro nuostatai. 
+Nekilnojamojo turto registro duomenų ir nekilnojamojo turto kadastro duomenų originalai kaupiami ir saugomi Nekilnojamojo turto registro centriniame duomenų banke. Nekilnojamojo turto registro centrinio duomenų banko duomenų struktūrą ir jų teikimo vartotojams tvarką nustato Nekilnojamojo turto registro nuostatai. 
 
 
 Straipsnio pakeitimai:
 Nr. VIII-453, 1997-10-16, Žin., 1997, Nr. 98-2480 (1997-10-30), i. k. 0971010ISTAVIII-453
+Nr. VIII-1765, 2000-06-27, Žin., 2000, Nr. 58-1705 (2000-07-19), i. k. 1001010ISTAIII-1765
  
 
 
@@ -989,7 +1027,10 @@ Už nekilnojamojo turto ir teisių į jį įregistravimą asmenys Nekilnojamojo 
 42 straipsnis. Teisė naudotis Nekilnojamojo turto registro duomenimis
 
 
-1. Nekilnojamojo turto registro duomenys yra vieši, išskyrus Lietuvos Respublikos įstatymų ir Vyriausybės nustatytus atvejus.
+1. Nekilnojamojo turto registro duomenys yra vieši, išskyrus valstybės paslaptį sudarančius duomenis ir fizinio asmens identifikavimo duomenis (asmens kodą). Nekilnojamojo turto registro duomenys teikiami Nekilnojamojo turto registro įstatymo ir Nekilnojamojo turto registro nuostatų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1765, 2000-06-27, Žin., 2000, Nr. 58-1705 (2000-07-19), i. k. 1001010ISTAIII-1765
+ 
 
 
 
@@ -1103,3 +1144,8 @@ Lietuvos Respublikos nekilnojamojo turto registro įstatymo 2, 3, 4, 14, 17, 22,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1384, 1999-11-04, Žin., 1999, Nr. 101-2904 (1999-11-26), i. k. 0991010ISTAIII-1384
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo 3, 8, 16, 35, 37, 40 straipsnių pakeitimo ir papildymo 9(1)straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1765, 2000-06-27, Žin., 2000, Nr. 58-1705 (2000-07-19), i. k. 1001010ISTAIII-1765
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo 5, 12, 16, 22, 29, 31, 42 straipsnių pakeitimo ir papildymo įstatymas
