@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B"
 
 # Lietuvos Respublikos hipotekos įstatymas
 
-Suvestinė redakcija nuo 1999-11-26 iki 2000-10-10
+Suvestinė redakcija nuo 2000-10-11 iki 2001-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 200-0; Žin. 1992, Nr.31-951, i. k. 0921010ISTA00I-2936
- 
-TAR pastaba. Įstatymo Nr. VIII-1379 nuostatos, susijusios su hipotekos teisėjo nutarties areštuoti įkeistą turtą registravimu turto arešto aktų registre, įsigalioja turto arešto aktų registrui pradėjus darbą. Iki turto arešto aktų registras pradės darbą, areštavęs įkeistą turtą hipotekos teisėjas pažymi apie turto areštą hipotekos registre ir apie nutarties areštuoti įkeistą turtą priėmimą ne vėliau kaip kitą darbo dieną praneša įkeisto turto registrui (registrams).
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
-Lietuvos Respublikos hipotekos įstatymo 8, 39, 43 straipsnių pakeitimo ir papildymo 11(1) straipsniu įstatymas
  
 Nauja redakcija nuo 1997-07-02:
 Nr. VIII-251, 1997-06-10, Žin. 1997, Nr. 63-1468 (1997-07-02), i. k. 0971010ISTAVIII-251
@@ -81,7 +76,10 @@ HIPOTEKOS OBJEKTAS
 
 8 straipsnis. Įkeičiamas turtas
 
-1. Pagal šį įstatymą gali būti įkeičiamas nekilnojamasis turtas, įregistruotas Lietuvos Respublikos nekilnojamojo turto registre, laivai, įregistruoti Lietuvos Respublikos laivų registre (rejestre) ar laivų knygoje, orlaiviai, įregistruoti Lietuvos Respublikos valstybės orlaivių bei civilinių orlaivių registruose.
+1. Pagal šį įstatymą gali būti įkeičiamas nekilnojamasis turtas, įregistruotas Lietuvos Respublikos nekilnojamojo turto registre, laivai, įregistruoti Lietuvos Respublikos jūrų laivų registre, orlaiviai, įregistruoti Lietuvos Respublikos valstybės orlaivių bei civilinių orlaivių registruose.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1901, 2000-08-29, Žin., 2000, Nr. 75-2268 (2000-09-07), i. k. 1001010ISTAIII-1901
+ 
 
 2. Pagal šį įstatymą negali būti įkeičiamas turtas, išimtas iš civilinės apyvartos, areštuotas turtas, kuriuo uždrausta disponuoti, taip pat turtas, į kurį pagal Lietuvos Respublikos įstatymus negali būti nukreipiamas išieškojimas. 
 Straipsnio dalies pakeitimai:
@@ -628,4 +626,14 @@ Lietuvos Respublikos hipotekos įstatymo 9 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1379, 1999-11-04, Žin., 1999, Nr. 101-2901 (1999-11-26), i. k. 0991010ISTAIII-1379
 Lietuvos Respublikos hipotekos įstatymo 8, 39, 43 straipsnių pakeitimo ir papildymo 11(1) straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1901, 2000-08-29, Žin., 2000, Nr. 75-2268 (2000-09-07), i. k. 1001010ISTAIII-1901
+Lietuvos Respublikos hipotekos įstatymo 8 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1965, 2000-09-26, Žin., 2000, Nr. 85-2586 (2000-10-11), i. k. 1001010ISTAIII-1965
+Lietuvos Respublikos hipotekos įstatymo 8 straipsnio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
 
