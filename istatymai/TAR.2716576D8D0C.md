@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2716576D8D0C"
 
 # Lietuvos Respublikos angliavandenilių išteklių mokesčio įstatymas
 
+Suvestinė redakcija nuo 1996-07-01 iki 2003-06-30
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 206-0; Žin. 1992, Nr.30-929, i. k. 0921010ISTA00I-2944
+ 
 LIETUVOS RESPUBLIKOS
 NAFTOS IR DUJŲ IŠTEKLIŲ MOKESČIO
 Į S T A T Y M A S
@@ -69,13 +73,15 @@ Jei telkiniai surasti ir išžvalgyti ne vien valstybės lėšomis, bazinis moke
 
 
 
-5 straipsnis.
+5 straipsnis. 
 
 
-Mokestis mokamas avansu lygiomis metinės mokesčio sumos, apskaičiuotos pagal numatomą išgauti naftos ir dujų kiekį, dalimis kas ketvirtį iki kito ketvirčio pirmojo mėnesio 15 dienos. Metams pasibaigus, mokesčio suma perskaičiuojama pagal faktiškai išgautos naftos ir dujų kiekį ir iki vasario 1 dienos metinis apskaičiavimas pateikiamas valstybinei mokesčių inspekcijai. Papildoma pagal metinį apskaičiavimą mokesčio suma sumokama iki vasario 15 dienos. Sumažinus mokestį, permoka, mokėtojui pageidaujant, grąžinama arba įskaitoma į eilinių mokėjimų sąskaitą.
+Mokestis mokamas avansu lygiomis metinės mokesčio sumos, apskaičiuotos pagal numatomą išgauti naftos ir dujų kiekį, dalimis kas ketvirtį iki kito ketvirčio pirmojo mėnesio 15 dienos. Metams pasibaigus, mokesčio suma perskaičiuojama pagal faktiškai išgautos naftos ir dujų kiekį ir iki vasario 1 dienos metinis apskaičiavimas pateikiamas valstybinei mokesčių inspekcijai. Papildoma pagal metinį apskaičiavimą mokesčio suma sumokama iki vasario 15 dienos.
+
+
+Straipsnio pakeitimai:
+Nr. I-1314, 1996-04-30, Žin., 1996, Nr. 46-1109 (1996-05-17), i. k. 0961010ISTA00I-1314
  
-
-
 
 
 
@@ -102,24 +108,28 @@ Kai juridiniai ar fiziniai asmenys, gavę licenciją eksploatuoti naftos ar duj�
 
 
 
-8 straipsnis.
+8 straipsnis. 
 
 
-Patikslinti mokesčio apskaičiavimą, mokestį išieškoti arba grąžinti leidžiama ne daugiau kaip už dvejus praėjusius metus.
+Mokestis apskaičiuojamas, patikslinamas, išieškomas arba grąžinamas Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. I-1314, 1996-04-30, Žin., 1996, Nr. 46-1109 (1996-05-17), i. k. 0961010ISTA00I-1314
  
 
 
 
 
+9 straipsnis. 
 
 
-9 straipsnis.
+Laiku nesumokėjus mokesčio, imami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 
 
-Laiku nesumokėjus mokesčio už kiekvieną pavėluotą dieną imami 0,5 procento delspinigiai.
+Straipsnio pakeitimai:
+Nr. I-1314, 1996-04-30, Žin., 1996, Nr. 46-1109 (1996-05-17), i. k. 0961010ISTA00I-1314
  
-
-
 
 
 
@@ -149,10 +159,12 @@ Mokestis už naftos ir dujų išteklius mokamas į valstybės biudžetą.
 12 straipsnis. 
 
 
-Valstybinė mokesčių inspekcija kartu su Aplinkos apsaugos departamentu kontroliuoja, ar teisingai apskaičiuojamas mokestis.
+Valstybinė mokesčių inspekcija kartu su Aplinkos apsaugos ministerija kontroliuoja, ar teisingai apskaičiuojamas mokestis.
+
+
+Straipsnio pakeitimai:
+Nr. I-1314, 1996-04-30, Žin., 1996, Nr. 46-1109 (1996-05-17), i. k. 0961010ISTA00I-1314
  
-
-
 
 
 
@@ -174,3 +186,14 @@ AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                     �
  
 Vilnius, 1992 m. spalio 7 d. 
 Nr. I-2944
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1314, 1996-04-30, Žin., 1996, Nr. 46-1109 (1996-05-17), i. k. 0961010ISTA00I-1314
+Lietuvos Respublikos naftos ir dujų išteklių mokesčio įstatymo 5, 8, 9, 12 straipsnių pakeitimo įstatymas
