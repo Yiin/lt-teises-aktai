@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23145B5CDF8E"
 
 # Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymas
 
-Suvestinė redakcija nuo 2004-07-31 iki 2004-11-25
+Suvestinė redakcija nuo 2004-11-26 iki 2005-11-02
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2758, i. k. 1031010ISTA0IX-1601
  
@@ -597,7 +597,10 @@ Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010IS
 
 
 
-2. Tarnyba, rengdama vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizą, jį derina su Lietuvos heraldikos komisija (jeigu vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų projekte (toliau – projektas) naudojama Lietuvos Respublikos heraldika), Valstybine paminklosaugos komisija (jei projekte naudojami architektūros paminklų atvaizdai), Kultūros ministerija (jei projekte naudojami kultūros (muzikos, dailės, kitų menų) motyvai, veikėjai ar asmenybės) ar su kitomis institucijomis, jeigu pagal galiojančius teisės aktus toks derinimas numatytas. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizai tvirtinami išleidžiančios įstaigos ir Tarnybos vadovų parašais ir antspaudais, nurodoma eskizo tvirtinimo data.
+2. Tarnyba, rengdama vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizą, jį derina su Lietuvos heraldikos komisija (jeigu vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų projekte (toliau – projektas) naudojama Lietuvos Respublikos heraldika), Valstybine kultūros paveldo komisija (jei projekte naudojami architektūros paminklų atvaizdai), Kultūros ministerija (jei projekte naudojami kultūros (muzikos, dailės, kitų menų) motyvai, veikėjai ar asmenybės) ar su kitomis institucijomis, jeigu pagal galiojančius teisės aktus toks derinimas numatytas. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizai tvirtinami išleidžiančios įstaigos ir Tarnybos vadovų parašais ir antspaudais, nurodoma eskizo tvirtinimo data. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2568, 2004-11-11, Žin., 2004, Nr. 171-6316 (2004-11-26), i. k. 1041010ISTA0IX-2568
+ 
 
 
 
@@ -951,3 +954,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
 Lietuvos Respublikos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos įstatymo 1, 2, 3, 6, 10, 12, 18 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2568, 2004-11-11, Žin., 2004, Nr. 171-6316 (2004-11-26), i. k. 1041010ISTA0IX-2568
+Lietuvos Respublikos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos įstatymo 11 straipsnio pakeitimo įstatymas
