@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2000-04-05 iki 2001-04-19
+Suvestinė redakcija nuo 2001-04-20
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
+ 
+TAR pastaba. Nuo įstatymo Nr. IX-235 įsigaliojimo (2001-04-20)  buvusios žemės ūkio produkcijos gamintojų akcijos laikomos paprastosiomis vardinėmis akcijomis.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
+Lietuvos Respublikos akcinių bendrovių įstatymo 10, 20, 37, 37(1), 43, 45 straipsnių pakeitimo ir papildymo įstatymas
  
 LIETUVOS RESPUBLIKOS
 AKCINIŲ BENDROVIŲ
@@ -642,7 +647,10 @@ Nr. VIII-666, 1998-03-19, Žin. 1998, Nr. 36-961 (1998-04-17), i. k. 0981010ISTA
 
 
 
-4) bendrovių, kurios susiję su reorganizavimu, akcininkų ir jų akcijų skirstymo po reorganizavimo veiksiančioms bendrovėms kriterijai ir taisyklės. Jeigu akcininkų akcijos skirstomos veiksiančioms po reorganizavimo bendrovėms neproporcingai jų įstatiniam kapitalui, projekte turi būti nustatyta tvarka, sudaranti galimybę kiekvienam akcininkui pasirinkti bendroves, kuriose jis nori turėti akcijų. Jei iki bendrovės reorganizavimo valstybei ar savivaldybei nuosavybės teise priklausė akcijų, suteikiančių 2/3 (3/4) visų balsų arba daugiau kaip 1/2 ar 1/3 (1/4) visų balsų, tai bendrovę reorganizavus šio straipsnio ketvirtosios dalies 2 punkte nurodytu būdu, visose naujai įsteigtose bendrovėse valstybei ar savivaldybei nuosavybės teise turi priklausyti akcijų, suteikiančių atitinkamai ne mažiau kaip 2/3 (3/4) visų balsų ar daugiau kaip 1/2 ar 1/3 (1/4) visų balsų;
+4) bendrovių, kurios susijusios su reorganizavimu, akcininkų ir jų akcijų skirstymo po reorganizavimo veiksiančioms bendrovėms kriterijai ir taisyklės. Jeigu akcininkų akcijos skirstomos veiksiančioms po reorganizavimo bendrovėms neproporcingai jų įstatiniam kapitalui, projekte turi būti nustatyta tvarka, sudaranti galimybę kiekvienam akcininkui pasirinkti bendroves, kuriose jis nori turėti akcijų. Jei iki bendrovės reorganizavimo valstybei ar savivaldybei nuosavybės teise priklausė akcijų, suteikiančių 2/3 visų balsų arba daugiau kaip 1/2 ar 1/3 visų balsų, tai bendrovę reorganizavus šio straipsnio ketvirtosios dalies 2 punkte nurodytu būdu, visose naujai įsteigtose bendrovėse valstybei ar savivaldybei nuosavybės teise turi priklausyti akcijų, suteikiančių atitinkamai ne mažiau kaip 2/3 visų balsų ar daugiau kaip 1/2 ar 1/3 visų balsų; 
+Straipsnio punkto pakeitimai:
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
+ 
 
 
 
@@ -1455,7 +1463,10 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 
 
 
-2) kai priimami nutarimai dėl 10 straipsnio vienuoliktojoje dalyje, 19 straipsnio trečiosios dalies 1, 6, 7, 9, 10 ir 11 punktuose, 31 straipsnio trečiojoje dalyje nurodytų klausimų, kuriems priimti reikia 2/3 balsų (nuo 2001 m. gegužės 1 d. – 3/4 balsų) daugumos; taip pat dėl 27 straipsnio septintojoje dalyje nurodytų valdybos sprendimų;
+2) kai priimami nutarimai dėl 10 straipsnio vienuoliktojoje dalyje, 19 straipsnio trečiosios dalies 1, 6, 7, 9, 10 ir 11 punktuose, 31 straipsnio trečiojoje dalyje nurodytų klausimų, kuriems priimti reikia 2/3 balsų daugumos; taip pat dėl 27 straipsnio septintojoje dalyje nurodytų valdybos sprendimų; 
+Straipsnio punkto pakeitimai:
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
+ 
 
 
 
@@ -1478,9 +1489,11 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 
 
 
-5. Bendrovės įstatai gali numatyti ir didesnę nei 2/3 balsų daugumą (3/4 arba 4/5 balsų), reikalingą priimti nutarimams dėl jos įstatų pakeitimo ir papildymo, įstatinio kapitalo didinimo ar mažinimo, reorganizavimo ar likvidavimo, pelno paskirstymo, konvertuojamų obligacijų išleidimo. Nuo 1998 m. liepos 1 d. naujai steigiamos bendrovės savo įstatuose turi numatyti ne mažesnę kaip 3/4 balsų daugumą, reikalingą šio straipsnio ketvirtosios dalies 2 punkte nurodytiems sprendimams priimti. Nuo 2001 m. gegužės 1 d. ši nuostata taikoma visoms bendrovėms
+5. Bendrovės įstatai gali numatyti ir didesnę nei 2/3 balsų daugumą (3/4 arba 4/5 balsų), reikalingą priimti nutarimams dėl jos įstatų pakeitimo ir papildymo, įstatinio kapitalo didinimo ar mažinimo, reorganizavimo ar likvidavimo, pelno paskirstymo, konvertuojamų obligacijų išleidimo. 
 Papildyta straipsnio dalimi:
 Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010ISTAVIII-666
+Straipsnio dalies pakeitimai:
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
  
 
 
@@ -1489,6 +1502,14 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 6. Jei šio įstatymo 16 straipsnio ketvirtojoje dalyje nurodytais atvejais akcininkas negali balsuoti, balsavimo rezultatai nustatomi ne pagal susirinkime dalyvaujančiųjų akcininkų balsų skaičių, bet pagal turinčių teisę dalyvauti sprendžiant šį klausimą akcininkų balsų skaičių. 
 Papildyta straipsnio dalimi:
 Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010ISTAVIII-666
+ 
+
+
+
+
+7. Tais atvejais, kai paaiškėja, kad iš akcininko (akcininkų), turinčio ne mažiau kaip 1/3 balsavimo teisę suteikiančių akcijų, teismo sprendimu (nutartimi, nutarimu, nuosprendžiu) atimta balsavimo teisė, visuotiniam akcininkų susirinkimui draudžiama priimti sprendimus, nurodytus šio įstatymo  19 straipsnio 3 dalies 6 ir 7 punktuose, taip pat 27 straipsnio 7 dalyje, iki tol, kol nustos galioti minėtas teismo sprendimas (nutartis, nutarimas, nuosprendis). 
+Papildyta straipsnio dalimi:
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
  
 
 
@@ -2648,22 +2669,9 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 
 
 
-37 straipsnis. Žemės ūkio produkcijos gamintojų akcijos
-
-
-1. Žemės ūkio produkcijos gamintojų akcijos yra Lietuvos Respublikos Vyriausybės nustatyta tvarka lengvatinėmis sąlygomis parduotos akcijos, kurias įsigijo žemės ūkio produkcijos gamintojai (žaliavų tiekėjai arba paslaugų vartotojai), taip pat jų kooperatinės bendrovės (kooperatyvai). Šios akcijos yra paprastosios vardinės akcijos.
-
-
-
-
-2. Šia tvarka įsigytos akcijos žemės ūkio produkcijos gamintojų akcijų statusą įgyja nuo jų įsigijimo dienos, išskyrus atvejus, kai tokios akcijos buvo parduotos arba kitaip perleistos ne žemės ūkio produkcijos gamintojams iki 1994 m. liepos 21 dienos.
-
-
-
-
-3. Žemės ūkio produkcijos gamintojų akcijų cirkuliacijos sritis ribojama. Šių akcijų savininkai turi teisę jas parduoti ar kitaip perleisti tik žemės ūkio produkcijos gamintojams ir jų kooperatinėms bendrovėms (kooperatyvams) Lietuvos Respublikos Vyriausybės nustatyta tvarka. Žemės ūkio produkcijos gamintojų akcijų statusas negali būti keičiamas. 
-
-
+37 straipsnis. Neteko galios nuo 2001-04-20
+Straipsnio naikinimas:
+Nr. IX-235, 2001-04-05, Žin. 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
 Straipsnio pakeitimai:
 Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
@@ -2674,7 +2682,10 @@ Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010IST
 371 straipsnis. Specialiosios akcijos
 
 
-1. Specialiosios akcijos yra paprastosios vardinės akcijos, suteikiančios valstybei ar savivaldybei papildomų neturtinių teisių. Specialiųjų akcijų statusas gali būti suteiktas (kai valstybė ar savivaldybė atsisako kai kurių neturtinių teisių, kurias joms suteikia 2/3 (3/4) balsų bendrovės visuotiniame akcininkų susirinkime) bet kuriai (bet kurioms) valstybei ar savivaldybei nuosavybės teise priklausančiai akcijai (akcijoms) visuotinio akcininkų susirinkimo sprendimu. Šiuo atveju turi būti parduodama daugiau kaip 1/2 valstybei ar savivaldybei nuosavybės teise priklausančių akcijų ir bendrovės pagrindinė veikla turi atitikti bent vieną veiklos sričių, nustatytų transporto, energetikos, naftos ūkio, ryšių ir komunalinio ūkio sritis reglamentuojančiuose įstatymuose. Be specialiųjų akcijų, valstybei ar savivaldybei gali priklausyti ir suteikiančių mažiau kaip 1/3 (1/4) balsų visuotiniame akcininkų susirinkime paprastųjų vardinių akcijų.
+1. Specialiosios akcijos yra paprastosios vardinės akcijos, suteikiančios valstybei ar savivaldybei papildomų neturtinių teisių. Specialiųjų akcijų statusas gali būti suteiktas (kai valstybė ar savivaldybė atsisako kai kurių neturtinių teisių, kurias joms suteikia 2/3 balsų bendrovės visuotiniame akcininkų susirinkime) bet kuriai (bet kurioms) valstybei ar savivaldybei nuosavybės teise priklausančiai akcijai (akcijoms) visuotinio akcininkų susirinkimo sprendimu. Šiuo atveju turi būti parduodama daugiau kaip 1/2 valstybei ar savivaldybei nuosavybės teise priklausančių akcijų ir bendrovės pagrindinė veikla turi atitikti bent vieną veiklos sričių, nustatytų transporto, energetikos, naftos ūkio, ryšių ir komunalinio ūkio sritis reglamentuojančiuose įstatymuose. Be specialiųjų akcijų, valstybei ar savivaldybei gali priklausyti ir suteikiančių mažiau kaip 1/3 balsų visuotiniame akcininkų susirinkime paprastųjų vardinių akcijų. 
+Straipsnio dalies pakeitimai:
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
+ 
 
 
 
@@ -2994,9 +3005,10 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 
 
 
-2. Nemokiai akcinei bendrovei draudžiama didinti įstatinį kapitalą papildomais įnašais viešai platinant akcijas. Šias akcijas ji gali platinti tik savo kreditoriams, akcininkams ir darbuotojams.
+2. Nemokiai akcinei bendrovei draudžiama didinti įstatinį kapitalą papildomais įnašais viešai platinant akcijas. Šias akcijas ji gali platinti tik savo akcininkams, darbuotojams ir kreditoriams. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010ISTAIII-1532
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
  
 
 
@@ -3007,9 +3019,10 @@ Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010IS
 
 
 
-4. Jei bendrovėje, kurioje valstybei ar savivaldybei priklauso akcijų, suteikiančių 2/3 (3/4) visų balsų arba daugiau kaip 1/2 ar 1/3 (1/4) visų balsų, yra priimamas sprendimas didinti įstatinį kapitalą iš papildomų įnašų ir po šio sprendimo įgyvendinimo valstybės ar savivaldybės dalis bendrovės įstatiniame kapitale galėtų sumažėti ir valstybei ar savivaldybei priklausančios akcijos suteiktų atitinkamai mažiau kaip 2/3 (3/4) visų balsų arba ne daugiau kaip 1/2 ar 1/3 (1/4) visų balsų, įstatinis kapitalas papildomais įnašais gali būti didinamas tik Valstybės ir savivaldybių turto privatizavimo įstatymo nustatyta tvarka, jeigu kiti įstatymai nenustato ko kita. 
+4. Jei bendrovėje, kurioje valstybei ar savivaldybei priklauso akcijų, suteikiančių 2/3 visų balsų arba daugiau kaip 1/2 ar 1/3 visų balsų, yra priimamas sprendimas didinti įstatinį kapitalą iš papildomų įnašų ir po šio sprendimo įgyvendinimo valstybės ar savivaldybės dalis bendrovės įstatiniame kapitale galėtų sumažėti ir valstybei ar savivaldybei priklausančios akcijos suteiktų atitinkamai mažiau kaip 2/3 visų balsų arba ne daugiau kaip 1/2 ar 1/3 visų balsų, įstatinis kapitalas papildomais įnašais gali būti didinamas tik Valstybės ir savivaldybių turto privatizavimo įstatymo nustatyta tvarka, jeigu kiti įstatymai nenustato ko kita. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010ISTAVIII-666
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
  
 
 
@@ -3084,10 +3097,10 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 45 straipsnis. Įstatinio kapitalo sumažinimas
 
 
-1. Įstatinis kapitalas gali būti sumažinamas visuotinio akcininkų susirinkimo nutarimu, priimtu 2/3 balsų. Kai bendrovė turi išleidusi skirtingų klasių akcijas, visuotinis akcininkų susirinkimas gali sumažinti įstatinį kapitalą, jei tam pritaria atskirų klasių akcijų savininkai (taip pat ir neturintys balsavimo teisės) 2/3 tos klasės akcijų savininkų, dalyvavusių susirinkime, balsų. Jeigu bendrovė mažina įstatinį kapitalą šio straipsnio 2 dalies 2 punkte nurodytu atveju, tai kartu tame pačiame visuotiniame akcininkų susirinkime galima nutarti didinti bendrovės įstatinį kapitalą papildomais įnašais, išleidžiant naujas akcijas, kurias įsigis bendrovės kreditoriai. 
-TAR pastaba. 1 dalies redakcija, galiojanti iki 2000 m. gruodžio 31 d.
+1. Įstatinis kapitalas gali būti sumažinamas visuotinio akcininkų susirinkimo nutarimu, priimtu 2/3 balsų. Kai bendrovė turi išleidusi skirtingų klasių akcijas, visuotinis akcininkų susirinkimas gali sumažinti įstatinį kapitalą, jeigu tam pritaria atskirų klasių akcijų savininkai (taip pat ir neturintys balsavimo teisės) 2/3 tos klasės akcijų savininkų, dalyvavusių susirinkime, balsų. Jeigu bendrovė mažina įstatinį kapitalą šio straipsnio 2 dalies 2 punkte nurodytu atveju, tame pačiame visuotiniame akcininkų susirinkime galima nutarti didinti bendrovės įstatinį kapitalą papildomais įnašais išleidžiant naujų akcijų. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010ISTAIII-1532
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
  
 
 
@@ -3102,9 +3115,9 @@ Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010IS
 
 
 2) panaikinti bendrovės balanse įrašyti nuostoliai; 
-TAR pastaba. 2 punkto redakcija, galiojanti iki 2000 m. gruodžio 31 d.
 Straipsnio punkto pakeitimai:
 Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010ISTAIII-1532
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
  
 
 
@@ -3179,11 +3192,11 @@ Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010IST
 
 
 
-7. Dėl įstatinio kapitalo sumažinimo bendrovės įstatų pakeitimai registruojami Įmonių rejestro įstatymo nustatyta tvarka: ne anksčiau kaip praėjus 6 mėnesiams po pirmojo ir 30 dienų po trečiojo viešo paskelbimo arba 3 mėnesiams po to, kai buvo pranešta visiems akcininkams bei kreditoriams ir buvo suteiktos papildomos garantijos jų pareikalavusiems kreditoriams. Šios taisyklės netaikomos, jei įstatinis kapitalas mažinamas, anuliuojant bendrovės akcijas, kurias bendrovė supirko iš grynojo pelno ar nepaskirstytojo pelno arba įsigijo nemokamai. Įstatinis kapitalas laikomas sumažintu tik įstatų pakeitimus įregistravus Lietuvos Respublikos įmonių rejestre. Jei bendrovės įstatinis kapitalas mažinamas, kad būtų panaikinti į bendrovės balansą įrašyti nuostoliai, bendrovės įstatų pakeitimai gali būti pateikiami įmonių rejestro tvarkytojui registruoti iš karto po visuotinio akcininkų susirinkimo nutarimo priėmimo.
-TAR pastaba. 7 dalies redakcija, galiojanti iki 2000 m. gruodžio 31 d. 
+7. Dėl įstatinio kapitalo sumažinimo bendrovės įstatų pakeitimai registruojami Įmonių rejestro įstatymo nustatyta tvarka: ne anksčiau kaip praėjus 6 mėnesiams po pirmojo ir 30 dienų po trečiojo viešo paskelbimo arba 3 mėnesiams po to, kai buvo pranešta visiems akcininkams bei kreditoriams ir buvo suteiktos papildomos garantijos jų pareikalavusiems kreditoriams. Šios taisyklės netaikomos, jei įstatinis kapitalas mažinamas anuliuojant bendrovės akcijas, kurias bendrovė supirko iš grynojo pelno ar nepaskirstytojo pelno arba įsigijo nemokamai. Įstatinis kapitalas laikomas sumažintu tik įstatų pakeitimus įregistravus Lietuvos Respublikos įmonių rejestre. Jei bendrovės įstatinis kapitalas mažinamas, kad būtų panaikinti į bendrovės balansą įrašyti nuostoliai, bendrovės įstatų pakeitimų registravimui netaikomi šioje dalyje nustatyti terminai. Įstatų pakeitimai gali būti registruojami, kai yra įvykdyti kiti šiame straipsnyje nustatyti reikalavimai. 
 Straipsnio dalies pakeitimai:
 Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
 Nr. VIII-1532, 2000-02-08, Žin., 2000, Nr. 15-380 (2000-02-23), i. k. 1001010ISTAIII-1532
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
 Straipsnio dalies numeracijos pakeitimas:
 Nr. VIII-666, 1998-03-19, Žin., 1998, Nr. 36-961 (1998-04-17), i. k. 0981010ISTAVIII-666
  
@@ -3604,3 +3617,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo 43 ir 45 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1570, 2000-03-16, Žin., 2000, Nr. 28-760 (2000-04-05), i. k. 1001010ISTAIII-1570
 Lietuvos Respublikos akcinių bendrovių įstatymo 24 ir 26 straipsnių papildymo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-235, 2001-04-05, Žin., 2001, Nr. 34-1125 (2001-04-20), i. k. 1011010ISTA00IX-235
+Lietuvos Respublikos akcinių bendrovių įstatymo 10, 20, 37, 37(1), 43, 45 straipsnių pakeitimo ir papildymo įstatymas
