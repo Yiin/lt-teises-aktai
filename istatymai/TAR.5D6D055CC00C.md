@@ -20,8 +20,6 @@ Redagavo: Ramun? L??ait? (1996
 
 Įstatymas
 paskelbtas: Žin., 1994, Nr. 96-1872
-Nauja
-įstatymo redakcija skelbta: Žin., 2001, Nr. 35-1161
 Neoficialus
 įstatymo tekstas
  
@@ -84,10 +82,9 @@ Miško parkai – intensyviai rekreacijai naudojami ne mažesnio kaip 3
 hektarų ploto miškai su atitinkama rekreacine įranga bei infrastruktūra. 
 7.
 Miško ištekliai – nenukirstas miškas, sakai, kelmai ir dervuoliai,
-medžių žievė, karnos ir tošis, medžių sula, kalėdiniai medeliai, kitos
-dekoratyvinės miško medžiagos, šakelės, vytelės, grybai, riešutai, uogos,
-vaisiai, vaistažolės ir vaistinės žaliavos, miško paklotė ir lapai bei miško
-augalija.
+medžių žievė, karnos ir tošis, medžių sula, kalėdiniai medeliai, kitos dekoratyvinės
+miško medžiagos, šakelės, vytelės, grybai, riešutai, uogos, vaisiai,
+vaistažolės ir vaistinės žaliavos, miško paklotė ir lapai bei miško augalija.
 8.
 Nenukirstas miškas – augantys medžiai, sausuoliai, vėjavartos,
 vėjalaužos ir kita nenukirsta sumedėjusi miško augalija.
@@ -339,13 +336,12 @@ jeigu kitaip jo neįmanoma nuginkluoti;
 saugomų objektų užpuolimą, jeigu kyla pavojus asmens gyvybei.
 3. Draudžiama
 panaudoti fizinę prievartą bei specialiąsias priemones ar šaunamąjį ginklą
-prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei
-akivaizdu, kad jie invalidai, prieš nepilnamečius, jeigu jų amžius žinomas
-pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi
-pavojingu žmogaus gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė
-ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai. Draudžiama panaudoti
-šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti
-pašaliniai asmenys.
+prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu,
+kad jie invalidai, prieš nepilnamečius, jeigu jų amžius žinomas pareigūnui arba
+išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu žmogaus
+gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas
+kelia grėsmę gyvybei ar sveikatai. Draudžiama panaudoti šaunamąjį ginklą žmonių
+susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys.
 4.
 Valstybiniai miškų
 pareigūnai ir miškų urėdijos darbuotojai neturi teisės dirbti samdos
@@ -435,8 +431,7 @@ reglamentuoja Nenukirsto valstybinio miško skyrimo ir pardavimo taisyklės.
 5. Miško savininkai privalo laikytis šio
 įstatymo, Privačių miškų tvarkymo ir naudojimo nuostatų bei kitų teisės aktų,
 taip pat privalomų vykdyti miškotvarkos projekto dalių –
-pagrindinių kirtimų dešimtmečio normos, miško atkūrimo bei aplinkosaugos
-reikalavimų.
+pagrindinių kirtimų dešimtmečio normos, miško atkūrimo bei aplinkosaugos reikalavimų.
 6. Draudžiama
 atlikti kirtimus ir naudoti kitus miško išteklius negavus nustatyta tvarka
 išduoto leidimo, kai pagal galiojančius teisės aktus toks leidimas reikalingas.
@@ -506,11 +501,11 @@ PROJEKTAS
 inventorizacija, miškų apskaita ir miškų kadastras
 1.
 Valstybinės miškų inventorizacijos ir miškų apskaitos tikslas – nustatyti miško
-išteklius, jų kokybę, teikti informaciją apie miškų gamtinę ir ūkinę būklę.
-Valstybinė miškų inventorizacija atliekama visose miško valdose. Miškų
-urėdijose, valstybiniuose rezervatuose ir valstybiniuose parkuose
-inventorizuojama ir įtraukiama į apskaitą ne tik miško, bet ir valstybinė ne
-miško žemė (žemės ūkio naudmenos, vandenys ir kt.).
+išteklius, jų kokybę, teikti informaciją apie miškų gamtinę ir ūkinę būklę. Valstybinė
+miškų inventorizacija atliekama visose miško valdose. Miškų urėdijose,
+valstybiniuose rezervatuose ir valstybiniuose parkuose inventorizuojama ir
+įtraukiama į apskaitą ne tik miško, bet ir valstybinė ne miško žemė (žemės ūkio
+naudmenos, vandenys ir kt.).
 2.
 Medžių savaiminukais apaugusi ne miško žemė miškotvarkos metu inventorizuojama
 ir įtraukiama į apskaitą kaip miškas Aplinkos ministerijos ir Žemės ūkio
@@ -709,8 +704,8 @@ ministerijos numatytus atvejus. Privačiuose miškuose gyvulių ganiava draudži
 kirtavietėse ir 20 metų neturinčiuose jaunuolynuose.
 2.
 Medžiojamų žvėrių skaičius miško žemėje turi būti palaikomas toks, kad būtų
-garantuotas ekosistemos stabilumas. Reguliuojant žvėrių skaičių miške,
-laikomasi Aplinkos apsaugos įstatymo ir kitų teisės aktų reikalavimų.
+garantuotas ekosistemos stabilumas. Reguliuojant žvėrių skaičių miške, laikomasi
+Aplinkos apsaugos įstatymo ir kitų teisės aktų reikalavimų.
  
 21 straipsnis.
 Miško apsauga nuo taršos
@@ -735,16 +730,16 @@ savininkų ir naudotojų miškui, kitam turtui ir teisėtiems interesams ar miš
 kaip aplinkos objektui, privalo visiškai ją atlyginti arba, jeigu yra galimybė,
 atkurti iki pažeidimo buvusią būklę. Nuostolių apskaičiavimo tvarką nustato
 įstatymai ir kiti teisės aktai. 
-2. Mediena, įgyta pažeidžiant šį įstatymą,
-konfiskuojama miško valdytojo arba savininko ir naudotojo naudai įstatymų ir
-kitų teisės aktų nustatyta tvarka. Nuostolių sumos išieškomos nukentėjusios
-šalies naudai.
-3. Pareikšti
+2. Pareikšti
 ieškinius dėl neteisėta veika padarytos žalos turi teisę:
 1) miško valdytojai, savininkai ir naudotojai, kurių
 miškui, turtui ar teisėtiems interesams padaryta žala;
 2) valstybiniai miškų pareigūnai, kai žala yra
 padaroma miškui, kaip aplinkos objektui.
+Straipsnio pakeitimai:
+Nr.
+IX-771,
+2002-03-07, Žin., 2002, Nr. 31-1122 (2002-03-27)
  
 VII SKYRIUS
 LIETUVOS
@@ -752,8 +747,8 @@ RESPUBLIKOS TARPTAUTINIS BENDRADARBIAVIMAS
 MIŠKŲ
 ŪKIO SRITYJE
  
-24 straipsnis. Lietuvos Respublikos tarptautinis
-bendradarbiavimas miškų ūkio 
+24 straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas
+miškų ūkio 
 klausimais
 Lietuvos
 Respublika, vadovaudamasi tvaraus ir subalansuoto miškų ūkio principais, sudaro
@@ -825,15 +820,26 @@ Nr. IX-240, 2001 04 10, Žin., 2001, Nr.
 35-1161 (2001 04 25)
 MIŠKŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
-Šis įstatymas įsigalioja 2001 m. liepos 1 d.:
+Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d.:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-241,
 2001 04 10, Žin., 2001, Nr. 35-1162 (2001 04 25)
 MIŠKŲ ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-771,
+2002-03-07, Žin., 2002, Nr. 31-1122 (2002-03-27)
+MIŠKŲ
+ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 04 26)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2002-03-27)
+                 
+autrap@lrs.lt
