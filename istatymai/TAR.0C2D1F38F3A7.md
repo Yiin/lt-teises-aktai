@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 1995-05-17 iki 1995-12-29
+Suvestinė redakcija nuo 1995-12-30 iki 1996-01-04
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
  
@@ -74,7 +74,9 @@ BENDROJI DALIS
 
 
 
-6. Bendrovė gali būti steigiama ribotam arba neribotam laikui. Jei bendrovės įstatuose nenurodytas laikotarpis, kuriam ji įsteigta, tai laikoma, kad ji įsteigta neribotam laikui. Bendrovės veiklos laiką galima pratęsti.
+6. Bendrovė gali būti steigiama ribotam arba neribotam laikui. Jei bendrovės įstatuose nenurodytas laikotarpis, kuriam ji įsteigta, tai laikoma, kad ji įsteigta neribotam laikui. Bendrovės veiklos laiką galima pratęsti atitinkamai keičiant jos įstatus. 
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
 
 
@@ -133,7 +135,15 @@ BENDROJI DALIS
 
 
 
-8) ginčų tarp steigėjų sprendimo tvarka.
+8) ginčų tarp steigėjų sprendimo tvarka;
+
+
+
+
+9) steigėjai, kurie gali atstovauti bendrovei. 
+Papildyta straipsnio punktu:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -160,7 +170,10 @@ Bendrovės steigimo sutartis yra viešas dokumentas.
 
 
 
-6. Iki steigiamojo akcininkų susirinkimo bet kuris steigėjų, taip pat steigimo sutartyje nurodyti asmenys turi teisę sudaryti steigiamos bendrovės vardu sandorius. Šie sandoriai bendrovei sukuria prievoles po to, kai steigiamasis akcininkų susirinkimas juos patvirtina. Jeigu susirinkimas šių sandorių nepatvirtina, tai už prievoles, pagrįstas šiais sandoriais, steigėjai atsako solidariai, o kiti steigimo sutartyje nurodyti asmenys – individualiai. Steigėjui pasiūlius, akcininkų susirinkimas gali perkelti bendrovei prievoles, sukurtas sandoriais, kuriuos steigėjas sudarė savo vardu.
+6. Iki steigiamojo akcininkų susirinkimo steigimo sutartyje nurodyti asmenys turi teisę sudaryti steigiamos bendrovės vardu sandorius. Šie sandoriai bendrovei sukuria prievoles po to, kai steigiamasis akcininkų susirinkimas juos patvirtina. Jeigu susirinkimas šių sandorių nepatvirtina, tai už prievoles, pagrįstas šiais sandoriais, steigėjai atsako solidariai, o kiti steigimo sutartyje nurodyti asmenys – individualiai. Steigėjui pasiūlius, akcininkų susirinkimas gali perkelti bendrovei prievoles, sukurtas sandoriais, kuriuos steigėjas sudarė savo vardu.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -181,7 +194,10 @@ Bendrovės steigimo sutartis yra viešas dokumentas.
 4 straipsnis. Akcininkai
 
 
-1. Akcininkas yra fizinis ar juridinis asmuo, kuris įstatymo nustatyta tvarka turi įsigijęs bent vieną bendrovės akciją.
+1. Akcininkas yra fizinis ar juridinis asmuo, valstybė ar savivaldybė, kuri įstatymo nustatyta tvarka turi įsigijusi bent vieną bendrovės akciją. Valstybei ar savivaldybei bendrovėje atstovauja valstybės ar savivaldybės institucija. 
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -303,7 +319,10 @@ BENDROVĖS STEIGIMAS, REORGANIZAVIMAS IR LIKVIDAVIMAS
 
 
 
-6. Akcinės bendrovės steigimo ataskaitą turi patikrinti ir pateikti išvadas steigiamajam akcininkų susirinkimui nepriklausomas auditorius arba revizorius, kurie turi teisę kviestis turto įvertinimo ekspertus. Nepriklausomas auditorius naudojasi šio įstatymo nustatytomis revizoriaus teisėmis. Jeigu steigėjai atsisako pateikti auditoriui duomenis ir paaiškinimus, auditorius apie tai raštu informuoja steigiamąjį akcininkų susirinkimą. Kiekvienas akcininkas turi teisę susipažinti su ataskaita bei auditoriaus išvadomis ir daryti jų nuorašus.
+6. Akcinės bendrovės steigimo ataskaitą turi patikrinti ir pateikti išvadas steigiamajam akcininkų susirinkimui nepriklausomas auditorius arba revizorius, kurie turi teisę kviestis turto įvertinimo ekspertus. Jeigu steigėjai atsisako pateikti auditoriui, revizoriui duomenis ir paaiškinimus, auditorius, revizorius  apie tai raštu informuoja steigiamąjį akcininkų susirinkimą. Kiekvienas akcininkas turi teisę susipažinti su ataskaita bei auditoriaus, revizoriaus išvadomis ir daryti jų nuorašus.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -318,12 +337,18 @@ BENDROVĖS STEIGIMAS, REORGANIZAVIMAS IR LIKVIDAVIMAS
 
 
 
-9. Steigiamajam akcininkų susirinkimui taikomos šio įstatymo nustatytos visuotinio akcininkų susirinkimo nuostatos. Steigiamajame akcininkų susirinkime taip pat privalo dalyvauti visi bendrovės steigėjai. Jeigu kvorumo nėra, šaukiamas pakartotinis susirinkimas.
+9. Steigiamajam akcininkų susirinkimui taikomos šio įstatymo nustatytos visuotinio akcininkų susirinkimo nuostatos. Steigiamajame akcininkų susirinkime taip pat dalyvauja visi bendrovės steigėjai. Jeigu kvorumo nėra, šaukiamas pakartotinis susirinkimas.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
 
-10. Steigiamasis akcininkų susirinkimas tvirtina bendrovės steigimo ataskaitą, bendrovės steigėjų sudarytus sandorius, renka valdymo organus, revizorių, gali keisti arba papildyti įstatus, spręsti kitus visuotinio akcininkų susirinkimo kompetencijos klausimus.
+10. Steigiamasis akcininkų susirinkimas tvirtina bendrovės steigimo ataskaitą, bendrovės steigėjų sudarytus sandorius, renka valdymo organus, revizorių arba auditorių, gali keisti arba papildyti įstatus, spręsti kitus visuotinio akcininkų susirinkimo kompetencijos klausimus.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -596,7 +621,10 @@ Jei bendrovė nebuvo įregistruota dėl priežasčių, nesusijusių su bendrovė
 
 
 
-4) bendrovių, kurios susiję su reorganizavimu, akcininkų ir jų akcijų skirstymo po reorganizavimo veiksiančioms bendrovėms kriterijai ir taisyklės;
+4) bendrovių, kurios susiję su reorganizavimu, akcininkų ir jų akcijų skirstymo po reorganizavimo veiksiančioms bendrovėms kriterijai ir taisyklės. Jeigu akcininkų akcijos skirstomos veiksiančioms po reorganizavimo bendrovėms neproporcingai jų įstatiniam kapitalui, projekte turi būti nustatyta tvarka, sudaranti galimybę kiekvienam akcininkui pasirinkti bendroves, kuriose jis nori turėti akcijų;
+Straipsnio punkto pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -638,17 +666,26 @@ Kartu su reorganizavimo projektu turi būti parengti kiekvienos po reorganizavim
 
 
 
-8. Kiekvienos reorganizuojamos bendrovės valdyba parašo išsamų reorganizavimo projekto vertinimą, taip pat skiria vieną ar daugiau ekspertų reorganizavimo projektų ekspertizei. Ekspertai turi teisę gauti iš reorganizuojamų bendrovių bet kokią su tuo susijusią informaciją. Ekspertizės aktą, kuriame privalo būti išvados dėl turto įvertinimo, kreditavimo sąlygų ir akcijų kainos pasikeitimo, ekspertai pateikia valdybai raštu iki visuotinio akcininkų susirinkimo paskelbimo.
+8. Kiekvienos reorganizuojamos bendrovės valdyba parašo išsamų reorganizavimo projekto vertinimą, taip pat skiria vieną ar daugiau ekspertų reorganizavimo projektų ekspertizei. Ekspertai turi teisę gauti iš reorganizuojamų bendrovių bet kokią su tuo susijusią informaciją. Ekspertizės aktą, kuriame privalo būti išvados dėl turto įvertinimo, kreditavimo sąlygų ir akcijų kainos pasikeitimo, ekspertai pateikia valdybai raštu iki visuotinio akcininkų susirinkimo paskelbimo. Bendrovę reorganizuojant šio straipsnio antrosios dalies 3 punkte nurodytu būdu, turto įvertinimas reorganizavimo projekte ir projekto ekspertizė nėra privalomi, jeigu to nereikalauja akcininkai paprasta balsų dauguma.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
 
-9. Apie numatomą reorganizavimą kiekviena bendrovė privalo viešai paskelbti ne vėliau kaip prieš 30 dienų iki visuotinio akcininkų susirinkimo, kurio darbotvarkėje numatyta svarstyti jos reorganizavimą. Kiekvienas akcininkas turi teisę per tą laikotarpį susipažinti su reorganizavimo projektu, jo vertinimais, reorganizuojamų įmonių veiklos rodikliais ir ekspertizės aktais bei kopijuoti šiuos dokumentus.
+9. Apie numatomą reorganizavimą kiekviena bendrovė privalo viešai paskelbti ir kiekvienam kreditoriui pranešti raštu ne vėliau kaip prieš 30 dienų iki visuotinio akcininkų susirinkimo, kurio darbotvarkėje numatyta svarstyti jos reorganizavimą. Kiekvienas akcininkas turi teisę per tą laikotarpį susipažinti su reorganizavimo projektu, jo vertinimais, reorganizuojamų įmonių veiklos rodikliais ir ekspertizės aktais bei kopijuoti šiuos dokumentus.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
 
-10. Priimti nutarimą reorganizuoti bendrovę ir kartu patvirtinti reorganizavimo projektą bei parengtus įstatus gali akcininkai ne mažiau kaip 2/3 kiekvienos klasės akcijų balsų. Visuotinio susirinkimo nutarimą dėl atsisakymo reorganizuoti bendrovę apskųsti teismui turi teisę ne mažiau kaip 1/2 kiekvienos klasės akcijų balsų turintys akcininkai.
+10. Priimti nutarimą reorganizuoti bendrovę ir kartu patvirtinti reorganizavimo projektą bei parengtus įstatus gali akcininkai ne mažiau kaip 2/3 kiekvienos klasės akcijų balsų. Patvirtintas reorganizavimo projektas ir jį patvirtinusio visuotinio akcininkų susirinkimo protokolas turi būti perduoti įmonių rejestro tvarkytojui ne vėliau kaip per 15 dienų nuo susirinkimo, patvirtinusio projektą, dienos.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -658,12 +695,17 @@ Kartu su reorganizavimo projektu turi būti parengti kiekvienos po reorganizavim
 
 
 
-12. Apie bendrovės reorganizavimą viešai skelbiama tris kartus su ne mažesniu kaip 2 mėnesių intervalu arba kiekvienam akcininkui ir kreditoriui pranešama raštu.
+12. Apie bendrovės reorganizavimą viešai skelbiama tris kartus su ne mažesniu kaip 2 mėnesių intervalu arba kiekvienam akcininkui ir kreditoriui pranešama raštu. Bendrovė privalo suteikti papildomas savo prievolių įvykdymo garantijas kiekvienam to pareikalavusiam kreditoriui.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
 
-13. Po reorganizavimo veikiančių bendrovių įstatai registruojami po pirmojo visuotinio akcininkų susirinkimo. Reorganizuojamų įmonių registravimą reglamentuoja Įmonių rejestro įstatymas.
+13. Po reorganizavimo veikiančių bendrovių įstatai registruojami po pirmojo visuotinio akcininkų susirinkimo. Reorganizuojamų įmonių registravimą reglamentuoja Įmonių rejestro įstatymas. Bendrovės ar jos įstatų registravimui po reorganizavimo vietoj steigimo sutarties pateikiamas visuotinio akcininkų susirinkimo, patvirtinusio reorganizavimo projektą, protokolas.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
 
 
@@ -699,7 +741,10 @@ Kartu su reorganizavimo projektu turi būti parengti kiekvienos po reorganizavim
 
 
 
-2. Institucija, nutarusi likviduoti bendrovę, skiria likvidatorių (likviduojamos bendrovės administratorių). Nuo likvidatoriaus paskyrimo dienos bendrovės valdymo organai netenka įgaliojimų valdyti bendrovę, jų funkcijas atlieka likvidatorius.
+2. Institucija, nutarusi likviduoti bendrovę, skiria likvidatorių (likviduojamos bendrovės administratorių). Nuo likvidatoriaus paskyrimo dienos bendrovės valdymo organai netenka įgaliojimų valdyti bendrovę.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -841,7 +886,10 @@ BENDROVĖS BEI AKCININKŲ TEISĖS IR PAREIGOS
 
 
 
-6) sudaryti sutartis, prisiimti įsipareigojimus, skolinti nuosavo kapitalo lėšas ir skolintis piniginių lėšų už palūkanas, nustatomas sutartimi;
+6) sudaryti sutartis, prisiimti įsipareigojimus, skolintis ir skolinti pinigus tik Lietuvos Respublikos įmonių įstatymo 12 straipsnio trečiojoje dalyje, taip pat įstatymo „Dėl ūkinių subjektų piniginių lėšų skolinimo fiziniams bei juridiniams asmenims“ nustatyta tvarka bei sąlygomis; 
+Straipsnio punkto pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -874,6 +922,13 @@ Bendrovė taip pat gali turėti ir kitokias, šio įstatymo nenustatytas, civili
 
 
 3. Jeigu bendrovė įgyja kitos bendrovės kontrolinį akcijų paketą, tai ši tampa kontroliuojama bendrove. Kontrolinį akcijų paketą sudaro akcijos, kurios suteikia turėtojui daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime. Kontroliuojamoji bendrovė yra dukterinė, o ją kontroliuojanti – patronuojanti bendrovė. Dukterinė bendrovė negali įsigyti patronuojančios bendrovės akcijų.
+
+
+
+
+4. Bendrovei, neatsiskaičiusiai su kreditoriais per nustatytus terminus, jeigu įsiskolinimas didesnis kaip 5 procentai bendrovės įstatinio kapitalo, draudžiama investuoti turtą į kitą įmonę be raštiško šių kreditorių sutikimo. 
+Papildyta straipsnio dalimi:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
 
 
@@ -1005,12 +1060,18 @@ Nr. I-807, 1995-02-22, Žin., 1995, Nr. 21-492 (1995-03-10), i. k. 0951010ISTA00
 
 
 
-5. Jeigu akcijos, suteikiančios balsavimo teisę, yra skirtingos nominalios vertės, tai viena mažiausios nominalios vertės akcija jos savininkui suteikia vieną balsą. Kitų akcijų suteikiamų balsų skaičius yra lygus jų nominaliai vertei, padalintai iš mažiausios nominalios akcijos vertės. Bendrovės įstatuose gali būti numatoma ir kitokia balsų skaičiaus nustatymo tvarka, tačiau akcijos suteikiamų balsų skaičius turi būti proporcingas jos nominaliai vertei, išskyrus šio straipsnio trečiojoje dalyje numatytas išimtis.
+5. Jeigu akcijos, suteikiančios balsavimo teisę, yra skirtingos nominalios vertės, tai viena mažiausios nominalios vertės akcija jos savininkui suteikia vieną balsą. Kitų akcijų suteikiamų balsų skaičius yra lygus jų nominaliai vertei, padalintai iš mažiausios nominalios akcijos vertės. Bendrovės įstatuose gali būti numatoma ir kitokia balsų skaičiaus nustatymo tvarka, tačiau akcijos suteikiamų balsų skaičius turi būti proporcingas jos nominaliai vertei.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
 
-6. Balsavimo teisę visuotiniuose akcininkų susirinkimuose, vykstančiuose iki pirmosios akcijų laidos apmokėjimo termino, nurodyto akcijų pasirašymo sutartyje, suteikia akcijos, apmokėtos ne mažiau kaip 1/4 jų emisijos kainos, po to – tik visiškai apmokėtos akcijos.
+6. Balsavimo teisę visuotiniuose akcininkų susirinkimuose, vykstančiuose iki pirmosios akcijų laidos apmokėjimo termino, nurodyto akcijų pasirašymo sutartyje, suteikia akcijos, apmokėtos šio įstatymo 41 straipsnio trečiojoje dalyje nustatyta tvarka, po to – tik visiškai apmokėtos akcijos.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1037,6 +1098,13 @@ Nr. I-807, 1995-02-22, Žin., 1995, Nr. 21-492 (1995-03-10), i. k. 0951010ISTA00
 
 
 2. Įgaliojimas atstovauti akcininkui susirinkime turi būti pateiktas asmeniui, atsakingam už susirinkimo dalyvių registravimą, kuris registravimo sąraše užrašo, kieno ir kada įgaliojimas patvirtintas, jo numerį ir galiojimo laiką.
+
+
+
+
+3. Valstybės ar savivaldybės akcijoms bendrovėje gali atstovauti ir būti bendrovės valdymo organų nariais valstybės bei savivaldybės valdininkai Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
 
 
@@ -1059,17 +1127,25 @@ BENDROVĖS VALDYMAS
 
 
 
-2. Akcinėje bendrovėje visuotinio akcininkų susirinkimo nutarimu gali būti sudaroma arba stebėtojų taryba, arba valdyba. Jeigu sudaroma tik valdyba, tai ji sudaroma šio įstatymo 24 straipsnyje nustatyta stebėtojų tarybos sudarymo tvarka.
+2. Akcinėje bendrovėje visuotinio akcininkų susirinkimo nutarimu gali būti nesudaroma arba stebėtojų taryba, arba valdyba. Jeigu sudaroma tik valdyba, tai ji sudaroma šio įstatymo 24 straipsnio antrojoje, trečiojoje ir penktojoje dalyse nustatyta stebėtojų tarybos sudarymo tvarka.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
 
-3. Uždarojoje akcinėje bendrovėje visuotinio susirinkimo nutarimu gali būti nesudaromos nei stebėtojų taryba, nei valdyba. Jeigu nei vienas šių valdymo organų nesudaromi, tai valdybos funkcijos perduodamos bendrovės administracijos vadovui ir visuotiniam akcininkų susirinkimui. Jeigu nesudaromos stebėtojų taryba ir valdyba, uždarosios akcinės bendrovės administracijos vadovą renka visuotinis akcininkų susirinkimas.
+3. Uždarojoje akcinėje bendrovėje visuotinio susirinkimo nutarimu gali būti nesudaromos nei stebėtojų taryba, nei valdyba. Jeigu nesudaromas vienas ar abu šie valdymo organai, jo (jų) funkcijos, teisės ir atsakomybė perduodama kitiems valdymo organams. Jeigu nesudaromos stebėtojų taryba ir valdyba, uždarosios akcinės bendrovės administracijos vadovą renka visuotinis akcininkų susirinkimas. Jeigu sudaroma tik valdyba, tai ji sudaroma 24 straipsnio antrojoje, trečiojoje ir penktojoje dalyse nustatyta stebėtojų tarybos sudarymo tvarka.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
 
-4. Jeigu bendrovėje kuris nors valdymo organas nesudaromas, tai funkcijų paskirstymas kitiems valdymo organams turi būti nurodytas bendrovės įstatuose.
+4. Jeigu bendrovėje kuris nors valdymo organas nesudaromas, tai funkcijų, teisių ir atsakomybės paskirstymas kitiems valdymo organams turi būti nurodytas bendrovės įstatuose.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
 
 
@@ -1098,17 +1174,17 @@ BENDROVĖS VALDYMAS
 
 
 
-2) rinkti revizorių, stebėtojų tarybos narius, jeigu stebėtojų taryba nesudaroma – valdybos narius, o jeigu nesudaroma nei stebėtojų taryba, nei valdyba – rinkti administracijos vadovą;
+2) rinkti auditorių, revizorių, stebėtojų tarybos narius, jeigu stebėtojų taryba nesudaroma – valdybos narius, o jeigu nesudaroma nei stebėtojų taryba, nei valdyba – rinkti administracijos vadovą;
 
 
 
 
-3) atšaukti visuotinio akcininkų susirinkimo išrinktus stebėtojų tarybos ir valdybos narius, revizorių, administracijos vadovą;
+3) atšaukti visuotinio akcininkų susirinkimo išrinktus stebėtojų tarybos ir valdybos narius, revizorių (auditorių), administracijos vadovą;
 
 
 
 
-4) nustatyti revizoriaus atlyginimą, metines išmokas (tantjemas) iš pelno valdybos ir stebėtojų tarybos nariams;
+4) nustatyti revizoriaus atlyginimą bei audito paslaugų apmokėjimo sąlygas, metines išmokas (tantjemas) iš grynojo pelno valdybos ir stebėtojų tarybos nariams atsižvelgiant į šio įstatymo 47 straipsnio ketvirtosios dalies ir 48 straipsnio nuostatas;
 
 
 
@@ -1141,6 +1217,9 @@ BENDROVĖS VALDYMAS
 10) spręsti valdybai pavestus bendrovės veiklos klausimus, jeigu to prašo valdyba.
 
 
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1166,7 +1245,10 @@ BENDROVĖS VALDYMAS
 
 
 
-2. Akcininkas, turintis balsavimo teisę ir susipažinęs su darbotvarke bei nutarimo projektu, gali raštu pranešti visuotiniam akcininkų susirinkimui savo valią „už“ ar „prieš“ tik dėl pavienių nutarimų. Šie pranešimai yra įskaitomi į susirinkimo kvorumą ir balsavimo rezultatus tik raštu balsuotam klausimui.
+2. Akcininkas, turintis balsavimo teisę ir susipažinęs su darbotvarke bei nutarimo projektu, gali raštu pranešti visuotiniam akcininkų susirinkimui savo valią „už“ ar „prieš“ pavieniui dėl kiekvieno nutarimo. Šie pranešimai yra įskaitomi į susirinkimo kvorumą ir balsavimo rezultatus tik raštu balsuotam klausimui.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1176,7 +1258,9 @@ BENDROVĖS VALDYMAS
 
 
 
-4. Susirinkimo nutarimai priimami paprasta dalyvaujančių susirinkime akcininkų balsų dauguma, išskyrus šio įstatymo numatytus atvejus, kuriems reikia kvalifikuotos balsų daugumos: pagal 10 straipsnio dešimtąją dalį, 19 straipsnio trečiosios dalies 1, 6, 7 punktus ir 48 straipsnio pirmosios dalies 6 punktą nutarimams ne mažiau 2/3 balsų.
+4. Susirinkimo nutarimai priimami paprasta dalyvaujančių susirinkime akcininkų balsų dauguma, išskyrus šio įstatymo numatytus atvejus, kurių nutarimams reikia ne mažiau kaip 2/3 dalyvaujančiųjų balsų: pagal 10 straipsnio dešimtąją dalį, 19 straipsnio trečiosios dalies 1, 5, 6, 7, 9 punktus, 31 straipsnio trečiąją dalį ir 48 straipsnio pirmosios dalies 6 punktą.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
 
 
@@ -1200,7 +1284,10 @@ BENDROVĖS VALDYMAS
 3. Neeilinis visuotinis akcininkų susirinkimas turi būti sušauktas, jeigu:
 
 
-1) bendrovės nuosavi aktyvai sumažėja iki 1/2 įstatinio kapitalo;
+1) bendrovės mokėtinos sumos ir įsipareigojimai didesni kaip 1/2 nuosavo kapitalo; 
+Straipsnio punkto pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1317,7 +1404,10 @@ BENDROVĖS VALDYMAS
 
 
 
-2) įstatymų numatytais atvejais ir terminais susirinkimo nutarimas nebuvo įregistruotas Lietuvos Respublikos įmonių rejestre;
+2) įstatymų numatytais atvejais ir terminais susirinkimo nutarimu pakeisti registravimo dokumentai ir duomenys nebuvo įregistruoti Lietuvos Respublikos įmonių rejestre;
+Straipsnio punkto pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1355,7 +1445,10 @@ BENDROVĖS VALDYMAS
 
 
 
-3. Stebėtojų taryba renkama ne daugiau kaip 4 metams. Leidžiama stebėtojų tarybos narį atšaukti, taip pat pakartotinai išrinkti kitai kadencijai. Stebėtojų taryba savo veiklą pradeda pasibaigus ją išrinkusiam visuotiniam susirinkimui.
+3. Stebėtojų taryba renkama ne daugiau kaip 4 metams. Leidžiama stebėtojų tarybos narį atšaukti, taip pat pakartotinai išrinkti kitai kadencijai. Stebėtojų taryba savo veiklą pradeda pasibaigus ją išrinkusiam visuotiniam susirinkimui. Stebėtojų tarybos pirmininką renka tarybos nariai.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1365,7 +1458,10 @@ BENDROVĖS VALDYMAS
 
 
 
-5. Visuotinis akcininkų susirinkimas gali atšaukti visą stebėtojų tarybą arba pavienius jos narius. Jeigu atšaukiant pavienius narius nors vienas akcininkas balsuoja prieš, turi būti naujai renkama visa stebėtojų taryba.
+5. Visuotinis akcininkų susirinkimas gali atšaukti visą stebėtojų tarybą arba pavienius jos narius. Jeigu atšaukiant pavienius narius nors vienas akcininkas balsuoja prieš atšaukus narį, turi būti naujai renkama visa stebėtojų taryba.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1385,7 +1481,9 @@ BENDROVĖS VALDYMAS
 
 
 
-9. Už veiklą stebėtojų taryboje jos nariams visuotinis susirinkimas gali atlyginti (mokėti tantjemas) tik iš bendrovės pelno.
+9. Už veiklą stebėtojų taryboje jos nariams visuotinis akcininkų susirinkimas gali atlyginti (mokėti tantjemas) tik iš grynojo pelno, atsižvelgdamas į šio įstatymo 47 straipsnio ketvirtosios dalies ir 48 straipsnio nuostatas. 
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
 
 
@@ -1490,7 +1588,10 @@ BENDROVĖS VALDYMAS
 2. Valdybos nariu gali būti skiriamas arba renkamas tik veiksnus fizinis asmuo. Kiekvienas kandidatas į valdybos narius privalo informuoti stebėtojų tarybą, kur ir kokias pareigas jis turi. Bendrovės valdybos nariu negali būti skiriamas arba renkamas:
 
 
-1) bendrovės arba Lietuvos Respublikoje įregistruotos ją patronuojančios bendrovės stebėtojų tarybos narys, išskyrus 24 straipsnio penktojoje dalyje numatytą atvejį;
+1) bendrovės arba Lietuvos Respublikoje įregistruotos ją patronuojančios bendrovės stebėtojų tarybos narys, išskyrus 24 straipsnio šeštojoje dalyje numatytą atvejį;
+Straipsnio punkto pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1507,7 +1608,10 @@ BENDROVĖS VALDYMAS
 
 
 
-3. Valdybos narius ir jos pirmininką ne daugiau kaip 4 metams skiria stebėtojų taryba, o kai jos nėra, renka visuotinis akcininkų susirinkimas. Valdybos nario kadencijų skaičius neribojamas.
+3. Valdybos narius ir jos pirmininką ne daugiau kaip 4 metams skiria stebėtojų taryba, o kai jos nėra, valdybos narius renka visuotinis akcininkų susirinkimas. Valdybos nario kadencijų skaičius neribojamas.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1517,7 +1621,9 @@ BENDROVĖS VALDYMAS
 
 
 
-5. Už darbą valdyboje jos nariams visuotinis akcininkų susirinkimas gali atlyginti (mokėti tantjemas) tik iš bendrovės pelno. Valdybos nariai gauna pareiginį atlyginimą tuo atveju, jei jie su bendrove yra sudarę darbo sutartį.
+5. Už darbą valdyboje jos nariams visuotinis akcininkų susirinkimas gali atlyginti (mokėti tantjemas) tik iš grynojo pelno, atsižvelgdamas į šio įstatymo 47 straipsnio ketvirtosios dalies ir 48 straipsnio nuostatas. Valdybos nariai gauna pareiginį atlyginimą tuo atveju, jei jie su bendrove yra sudarę darbo sutartį.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
 
 
@@ -1558,7 +1664,7 @@ BENDROVĖS VALDYMAS
 
 
 
-3. Valdyba analizuoja ir aprobuoja administracijos ir revizoriaus pateiktą medžiagą apie:
+3. Valdyba analizuoja ir aprobuoja administracijos ir revizoriaus (auditoriaus) pateiktą medžiagą apie:
 
 
 1) gamybinės, techninės, mokslinių tyrimų, konstravimo ir eksperimentinių darbų bei kitos ūkinės veiklos strategiją;
@@ -1586,9 +1692,12 @@ BENDROVĖS VALDYMAS
 
 
 
-6) revizijų rezultatus.
+6) revizijų bei audito rezultatus.
 
 
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1608,7 +1717,10 @@ BENDROVĖS VALDYMAS
 
 
 
-7. Valdybos sprendimams dėl didesnės kaip 1/10 bendrovės įstatinio kapitalo vertės ilgalaikio turto dalies pardavimo, perleidimo ar nuomos reikalingas visuotinio akcininkų susirinkimo nutarimas.
+7. Valdybos sprendimams dėl didesnės kaip 1/20 bendrovės įstatinio kapitalo vertės ilgalaikio turto dalies pardavimo, perleidimo, nuomos ar įkeitimo, taip pat laidavimo ar garantavimo juo kitų subjektų prievolių įvykdymą reikalingas visuotinio akcininkų susirinkimo nutarimas. Tokių sandorių, sudaromų be visuotinio akcininkų susirinkimo nutarimo, suminė vertė ūkiniais metais negali būti didesnė kaip 1/20 bendrovės įstatinio kapitalo vertės. 
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1623,7 +1735,10 @@ BENDROVĖS VALDYMAS
 
 
 
-10. Valdybos posėdžio šaukimo iniciatyvos teisę turi valdybos pirmininkas, taip pat nariai, jeigu tam pritaria daugiau kaip pusė valdybos narių. Valdybos posėdis yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė narių, o priimti sprendimai yra teisėti, kai už juos balsavo ne mažiau kaip pusė valdybos narių. Valdybos nariai turi lygias balso teises. Jei balsai pasiskirsto po lygiai, lemia valdybos pirmininko balsas.
+10. Valdybos posėdžio šaukimo iniciatyvos teisę turi valdybos pirmininkas, taip pat nariai, jeigu tam pritaria daugiau kaip pusė valdybos narių. Valdybos posėdis yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė narių, o priimti sprendimai yra teisėti, kai už juos balsavo ne mažiau kaip pusė valdybos narių. Valdybos nariai turi lygias balso teises. Jei balsai pasiskirsto po lygiai, lemia valdybos pirmininko balsas. Valdybos narys neturi teisės balsuoti, kai valdybos posėdis sprendžia jo materialinės atsakomybės ar personalinius jo darbo bendrovėje klausimus.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1641,10 +1756,10 @@ BENDROVĖS VALDYMAS
 
 
 
-28 straipsnis. Bendrovės revizorius
+28 straipsnis. Bendrovės revizorius ir auditorius 
 
 
-1. Bendrovėje turi būti bent vienas revizorius, kurį renka visuotinis akcininkų susirinkimas bendrovės įstatuose nustatytam, bet ne ilgesniam kaip 4 metų laikui. Juo gali būti veiksnus fizinis asmuo, turintis kvalifikacinį diplomą, arba juridinis asmuo, turintis teisę teikti audito paslaugas. Revizoriumi negali būti renkamas bendrovės darbuotojas, stebėtojų tarybos bei valdybos narys, taip pat akcininkas, turintis daugiau kaip 10 procentų bendrovės akcijų.
+1. Bendrovėje, ūkiniams metams pasibaigus, iki visuotinio akcininkų susirinkimo privalo būti patikrinta buhalterinė apskaita ir finansinė atskaitomybė. Tikrina revizorius arba auditorius. Revizoriumi arba auditoriumi gali būti veiksnus fizinis asmuo, turintis kvalifikacijos atestatą, arba įmonė, teikianti buhalterinės apskaitos ar audito paslaugas. Revizorių (auditorių) renka visuotinis akcininkų susirinkimas bendrovės įstatuose nustatytam, bet ne ilgesniam kaip 4 metų laikui. Revizoriumi (auditoriumi) negali būti renkamas bendrovės darbuotojas, stebėtojų tarybos bei valdybos narys, taip pat akcininkas, turintis daugiau kaip 10 procentų bendrovės akcijų.
 
 
 
@@ -1679,12 +1794,12 @@ BENDROVĖS VALDYMAS
 
 
 
-5. Bendrovės administracija ir valdyba privalo pateikti revizoriui jo reikalaujamus buhalterinius-finansinius dokumentus.
+5. Bendrovės administracija ir valdyba privalo pateikti revizoriui (auditoriui) jo reikalaujamus buhalterinius-finansinius dokumentus.
 
 
 
 
-6. Už darbą revizoriui bendrovė moka atlyginimą, kurio dydį nustato visuotinis akcininkų susirinkimas.
+6. Už darbą revizoriui (auditoriui) bendrovė moka atlyginimą. Jo dydį ar darbo apmokėjimo sąlygas nustato visuotinis akcininkų susirinkimas.
 
 
 
@@ -1695,9 +1810,11 @@ BENDROVĖS VALDYMAS
 
 
 8. Bendrovės revizorius įstatymų nustatyta tvarka atsako už nepatenkinamą bendrovės veiklos kontrolę ir veiklos trūkumų slėpimą.
+
+
+Straipsnio pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
-
-
 
 
 
@@ -1778,7 +1895,10 @@ BENDROVĖS KAPITALAS
 30 straipsnis. Kapitalo sudėtis
 
 
-1. Bendrovės kapitalas skirstomas į nuosavą ir skolintą. Nuosavas kapitalas formuojamas iš akcininkų įnašų, obligacijų emisijos kainos ir nominalios vertės skirtumo įplaukų, iš bendrovės pelno. Skolintas kapitalas susiformuoja platinant išleistas obligacijas, imant kreditus ir kitaip skolinantis lėšų.
+1. Bendrovės kapitalas skirstomas į nuosavą ir skolintą. Nuosavas kapitalas formuojamas iš akcijų emisijos kainos ir bendrovės pelno. Skolintas kapitalas susiformuoja platinant išleistas obligacijas, imant kreditus ir kitaip skolinantis lėšų.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1791,24 +1911,43 @@ BENDROVĖS KAPITALAS
 
 
 
-2) kapitalo rezervo fondas;
+2) akcijų priedai (nominalios vertės perviršijimas);
 
 
 
 
-3) privalomasis atsargos fondas;
+3) perkainojimo rezervas;
 
 
 
 
-4) pelno rezervo fondas;
+4) privalomasis rezervas;
 
 
 
 
-5) pelnas.
+5) kiti rezervai;
 
 
+
+
+6) nepaskirstytasis pelnas (nuostolis);
+
+
+
+
+7) dotacijos ir negrąžintos subsidijos;
+
+
+
+
+8) atidėtosios išlaidos.
+Atidėtosios išlaidos – einamojo laikotarpio sąnaudų didinimo arba pajamų mažinimo būdu formuojamos išlaidos, numatomos ateinantiems laikotarpiams tam, kad būtų teisingai atspindėti tų laikotarpių veiklos rezultatai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1821,28 +1960,31 @@ BENDROVĖS KAPITALAS
 
 
 
-31 straipsnis. Rezervų fondai
+31 straipsnis. Rezervai ir jų sudėtis
 
 
-1. Kapitalo rezervo fondas formuojamas iš pelnui nepriskirtų lėšų, kurias sudaro bendrovės naujų akcijų bei obligacijų emisijos kainos ir nominalios vertės skirtumas.
-
-
-
-
-2. Privalomasis atsargos fondas formuojamas iš metinių pelno atskaitymų 48 straipsnio penktojoje dalyje nustatyta tvarka ir naudojamas nuostoliams atlyginti.
+1. Perkainojimo rezervas – tai ilgalaikio materialiojo ir finansinio turto vertės padidėjimo suma, gauta perkainojus turtą. Perkainojimo rezervas mažinamas, kai perkainotas turtas parduodamas arba nurašomas. Perkainojimo rezervu negalima mažinti nuostolių. Perkainojimo rezervu gali būti didinamas įstatinis kapitalas 42 straipsnyje nustatyta tvarka.
 
 
 
 
-3. Pelno dalis, neišmokėta dividendo forma ar nepanaudota kitaip, kaupiama pelno rezervo fonde.
+2. Privalomasis rezervas formuojamas iš grynojo pelno atskaitymų 48 straipsnio penktojoje dalyje nustatyta tvarka ir naudojamas nuostoliams padengti. Mažinant įstatinį kapitalą, privalomasis rezervas gali būti sumažintas išlaikant šio įstatymo 48 straipsnio penktojoje dalyje nurodytą santykį. Privalomojo rezervo skirtumas mažinant įstatinį kapitalą priskiriamas prie ataskaitinio laikotarpio paskirstytinojo rezultato.
 
 
 
 
-4. Jei kapitalo rezervo ir privalomasis atsargos fondai sudaro mažiau kaip 1/10 įstatinio kapitalo, tai šių fondų lėšos gali būti panaudotos tik bendrovės nuostoliams atlyginti ir tik tuo atveju, jei šių nuostolių negalima padengti iš pelno ar pelno rezervo fondo.
+3. Kitus rezervus sudaro nepaskirstytinieji ir paskirstytinieji rezervai. Nepaskirstytinieji rezervai sudaromi įstatymo ir bendrovės įstatų nustatyta tvarka konkretiems tikslams įgyvendinti pervedant dalį ataskaitinio laikotarpio grynojo pelno. Nepaskirstytinieji rezervai sudaromi, mažinami ir naikinami visuotinio akcininkų susirinkimo nutarimu ne mažiau kaip 2/3 balsų. Mažinant ir naikinant nepaskirstytinuosius rezervus, tuo dydžiu didinamas įstatinis kapitalas ir proporcingai akcininkų turimų akcijų nominaliai vertei didinama akcijų nominali vertė arba išleidžiamos naujos akcijos.
+Paskirstytinieji rezervai sudaromi ir naudojami tik bendrovės įstatuose nustatyta tvarka. Iš šių rezervų gali būti didinamas įstatinis kapitalas, kartu proporcingai akcininkų turimų akcijų nominaliai vertei didinama akcijų nominali vertė arba išleidžiamos naujos akcijos.
+
+
+
+
+4. Šio straipsnio trečiojoje dalyje numatyti rezervai yra sudaromi tik po to, kai yra sudarytas šio straipsnio antrojoje dalyje nustatytas privalomasis rezervas. 
+
+
+Straipsnio pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
-
-
 
 
 
@@ -1860,7 +2002,20 @@ BENDROVĖS KAPITALAS
 
 
 
-3. Akcijos pagal disponavimo būdą skirstomos į vardines ir pareikštines, o pagal suteikiamas teises – į paprastąsias ir privilegijuotąsias.
+3. Akcijos skirstomos į rūšis:
+
+
+1) pagal disponavimo būdą – į vardines ir pareikštines;
+
+
+
+
+2) pagal suteikiamas teises – į paprastąsias ir privilegijuotąsias. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1928,14 +2083,20 @@ BENDROVĖS KAPITALAS
 
 
 
-Informaciją, kuri turi būti pateikta apie nematerialias akcijas vertybinių popierių sąskaitose, nustato norminiai aktai, reglamentuojantys vertybinių popierių ir jų cirkuliacijos apskaitą.
+Informaciją, kuri turi būti pateikta apie nematerialias akcijas vertybinių popierių sąskaitose, nustato norminiai aktai, reglamentuojantys vertybinių popierių ir jų cirkuliacijos apskaitą. Sertifikatas gali būti išduotas bet kokiam akcijų kiekiui, nurodant akcijų numerius.
+
+
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
 
-
-
-9. Akcijos pagal jų savininkams suteikiamas teises skirstomos į klases. Skirtingų klasių akcijų suteikiamos teisės turi būti nurodytos bendrovės įstatuose.
+9. Vienos rūšies akcijos pagal jų savininkams suteikiamas teises skirstomos į klases. Skirtingų klasių akcijų suteikiamos teisės turi būti nurodytos bendrovės įstatuose. Visų tos pačios klasės akcijų nominalios vertės turi būti vienodos.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1945,7 +2106,10 @@ Informaciją, kuri turi būti pateikta apie nematerialias akcijas vertybinių po
 
 
 
-11. Bendrovei draudžiama išleisti akcijas, kurias galima keisti į obligacijas. Konvertuojamąsias obligacijas (kurias galima keisti į akcijas) bendrovė gali išleisti tik šio įstatymo 43 straipsnio ketvirtojoje dalyje numatytu atveju. Kitokias, šiame įstatyme nenumatytų rūšių akcijas išleisti draudžiama.
+11. Bendrovei draudžiama išleisti akcijas, kurias galima keisti į obligacijas. Konvertuojamąsias obligacijas (kurias galima keisti į akcijas) bendrovė gali išleisti tik šio įstatymo 43 straipsnio trečiojoje dalyje numatytu atveju. Kitokias, šiame įstatyme nenumatytų rūšių akcijas išleisti draudžiama.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1966,7 +2130,10 @@ Informaciją, kuri turi būti pateikta apie nematerialias akcijas vertybinių po
 
 
 
-2. Įregistravus bendrovę arba padidinus jos įstatinį kapitalą, asmenims, pasirašiusiems akcijas ir sumokėjusiems pradinius įnašus, išduodami laikinieji akcininkų pažymėjimai. Laikinasis akcininko pažymėjimas yra terminuotas investicijų vertybinis popierius, turintis vardinių akcijų rekvizitus ir nesantis viešosios apyvartos objektu. Šiame pažymėjime turi būti nurodyta, už kiek pasirašytų akcijų sumokėta suma ir šio pažymėjimo galiojimo terminas. Valdyba turi teisę pratęsti laikinųjų akcininko pažymėjimų galiojimo terminą. Sumokėjus visą akcijų emisijos kainą, laikinieji akcininko pažymėjimai turi būti pakeisti į materialias akcijas arba akcijos pažymėtos atitinkamais įrašais vertybinių popierių sąskaitose.
+2. Įregistravus bendrovę arba padidinus jos įstatinį kapitalą, asmenims, pasirašiusiems akcijas ir sumokėjusiems pradinius įnašus, išduodami laikinieji akcininkų pažymėjimai, išskyrus šio straipsnio trečiojoje dalyje nurodytus atvejus. Laikinasis akcininko pažymėjimas yra terminuotas investicijų vertybinis popierius, turintis vardinių akcijų rekvizitus ir nesantis viešosios apyvartos objektu. Šiame pažymėjime turi būti nurodyta, už kiek pasirašytų akcijų sumokėta suma ir šio pažymėjimo galiojimo terminas. Valdyba turi teisę pratęsti laikinųjų akcininko pažymėjimų galiojimo terminą. Sumokėjus visą akcijų emisijos kainą, laikinieji akcininko pažymėjimai turi būti pakeisti į materialias akcijas arba akcijos pažymėtos atitinkamais įrašais vertybinių popierių sąskaitose.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -1987,7 +2154,10 @@ Informaciją, kuri turi būti pateikta apie nematerialias akcijas vertybinių po
 34 straipsnis. Vardinės ir pareikštinės akcijos
 
 
-1. Materialios vardinės akcijos savininkas (akcininkas) yra tas fizinis ar juridinis asmuo, kuris yra nurodytas akcijoje ir įrašytas į bendrovės akcininkų registracijos knygą. Akcininkų registracijos knygoje turi būti įrašyti tokie duomenys apie akcininką: vardas ir pavardė (pavadinimas), adresas (buveinė), turimų akcijų skaičius.
+1. Materialios vardinės akcijos savininkas (akcininkas) yra tas fizinis ar juridinis asmuo, kuris yra nurodytas akcijoje ir įrašytas į bendrovės akcininkų registracijos knygą. Akcininkų registracijos knygoje turi būti įrašyti tokie duomenys apie akcininką: vardas ir pavardė (pavadinimas), adresas (buveinė), turimų akcijų skaičius, akcijų nominali vertė.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2034,7 +2204,10 @@ savininkų teisę šio įstatymo nustatyta tvarka parduoti ar kitaip perleisti a
 
 
 
-2. Paprastųjų akcijų savininkų turtinės teisės į dividendą ir likviduojamos bendrovės turto dalį gali būti įgyvendintos tik po to, kai yra patenkinti privilegijuotųjų akcijų savininkų reikalavimai. Paprastųjų akcijų savininkai turi teisę gauti naujų akcijų, kurios išleidžiamos, kai iš bendrovės pelno rezervo fondo padidinamas įstatinis kapitalas. Jeigu įstatinis kapitalas padidinamas iš kapitalo rezervo fondo, tai gauti naujų akcijų privilegijuotųjų ir paprastųjų akcijų savininkai turi lygias teises.
+2. Paprastųjų akcijų savininkų turtinės teisės į dividendą ir likviduojamos bendrovės turto dalį gali būti įgyvendintos tik po to, kai yra patenkinti privilegijuotųjų akcijų savininkų reikalavimai. Paprastųjų akcijų savininkai turi teisę gauti naujų akcijų, kurios išleidžiamos, kai iš nepaskirstytojo pelno fondo padidinamas įstatinis kapitalas. Jeigu įstatinis kapitalas padidinamas iš akcijų priedų, tai gauti naujų akcijų privilegijuotųjų ir paprastųjų akcijų savininkai turi lygias teises.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2044,7 +2217,10 @@ savininkų teisę šio įstatymo nustatyta tvarka parduoti ar kitaip perleisti a
 
 
 
-4. Privilegijuotųjų akcijų suteikiamos turtinės ir neturtinės teisės, taip pat jų pakeitimo tvarka turi būti nustatyta iš anksto, iki jas parduodant, ir įrašyta bendrovės įstatuose.
+4. Privilegijuotųjų akcijų suteikiamos turtinės ir neturtinės teisės, taip pat jų pakeitimo tvarka turi būti nustatyta iš anksto, iki jas parduodant, ir įrašyta bendrovės įstatuose. Dividendo dydis nustatomas procentais skaičiuojant nuo akcijos nominalios vertės.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2111,15 +2287,22 @@ savininkų teisę šio įstatymo nustatyta tvarka parduoti ar kitaip perleisti a
 37 straipsnis. Žemės ūkio produkcijos gamintojų akcijos
 
 
-1. Žemės ūkio produkcijos gamintojų akcijos yra žemės ūkio produkcijos gamintojų, kurie yra žaliavų tiekėjai arba paslaugų vartotojai, taip pat jų įkurtų kooperatyvų įsigytos žemės ūkio aptarnavimo ir žemės ūkio produkcijos perdirbimo įmonių akcijos. Šios akcijos yra materialios paprastosios vardinės akcijos.
+1. Žemės ūkio produkcijos gamintojų akcijos yra Lietuvos Respublikos Vyriausybės nustatyta tvarka lengvatinėmis sąlygomis parduotos akcijos, kurias įsigijo žemės ūkio produkcijos gamintojai (žaliavų tiekėjai arba paslaugų vartotojai), taip pat jų kooperatinės bendrovės (kooperatyvai). Šios akcijos yra paprastosios vardinės akcijos.
 
 
 
 
-2. Žemės ūkio produkcijos gamintojų akcijų cirkuliacijos sfera apribojama neterminuotai. Žemės ūkio produkcijos gamintojų akcijų statusas negali būti keičiamas.
+2. Šia tvarka įsigytos akcijos žemės ūkio produkcijos gamintojų akcijų statusą įgyja nuo jų įsigijimo dienos, išskyrus atvejus, kai tokios akcijos buvo parduotos arba kitaip perleistos ne žemės ūkio produkcijos gamintojams iki 1994 m. liepos 21 dienos.
+
+
+
+
+3. Žemės ūkio produkcijos gamintojų akcijų cirkuliacijos sritis ribojama. Šių akcijų savininkai turi teisę jas parduoti ar kitaip perleisti tik žemės ūkio produkcijos gamintojams ir jų kooperatinėms bendrovėms (kooperatyvams) Lietuvos Respublikos Vyriausybės nustatyta tvarka. Žemės ūkio produkcijos gamintojų akcijų statusas negali būti keičiamas. 
+
+
+Straipsnio pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
  
-
-
 
 
 
@@ -2127,7 +2310,10 @@ savininkų teisę šio įstatymo nustatyta tvarka parduoti ar kitaip perleisti a
 38 straipsnis. Obligacijos
 
 
-1. Akcinės bendrovės obligacija yra terminuotas kredito vertybinis popierius, suteikiantis teisę jo savininkui į metines palūkanas ir kitas teises, kurios yra nurodytos obligacijoje arba nutarime išleisti obligacijas. Pasibaigus obligacijos terminui, ji suteikia teisę gauti iš akcinės bendrovės pinigų sumą, lygią obligacijos nominaliai vertei. Obligacijos savininkui metinės palūkanos nemokamos, jeigu taip nurodyta obligacijoje (nutarime išleisti obligacijas) ir jos emisijos kaina mažesnė už nominalią vertę. Obligacijos gali būti nematerialios, tada jos pažymimos įrašais jų savininkų vertybinių popierių sąskaitose. Obligacijų ir jų cirkuliacijos apskaitai taikomos 32 straipsnio penktosios- aštuntosios dalių ir 34 straipsnio antrosios ir ketvirtosios dalių nuostatos.
+1. Akcinės bendrovės obligacija yra terminuotas kredito vertybinis popierius, suteikiantis teisę jo savininkui į metines palūkanas ir kitas teises, kurios yra nurodytos obligacijoje arba nutarime išleisti obligacijas. Pasibaigus obligacijos terminui, ji suteikia teisę gauti iš akcinės bendrovės pinigų sumą, lygią obligacijos nominaliai vertei. Obligacijos savininkui metinės palūkanos nemokamos, jeigu taip nurodyta obligacijoje (nutarime išleisti obligacijas). Obligacijos gali būti nematerialios, tada jos pažymimos įrašais jų savininkų vertybinių popierių sąskaitose. Obligacijų ir jų cirkuliacijos apskaitai taikomos 32 straipsnio penktosios- aštuntosios dalių ir 34 straipsnio antrosios ir ketvirtosios dalių nuostatos.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2214,7 +2400,10 @@ savininkų teisę šio įstatymo nustatyta tvarka parduoti ar kitaip perleisti a
 40 straipsnis. Akcijų pasirašymas
 
 
-1. Akcijų pasirašymas yra sutartis tarp bendrovės ir fizinio ar juridinio asmens, kuria viena šalis įsipareigoja pateikti tam tikrą skaičių naujų akcijų, o kita šalis – apmokėti visą pasirašytų akcijų emisijos kainą.
+1. Akcijų pasirašymas yra sutartis tarp bendrovės ir fizinio ar juridinio asmens, kuria viena šalis įsipareigoja pateikti tam tikrą skaičių naujų akcijų, o kita šalis – apmokėti visą pasirašytų akcijų emisijos kainą. Steigiamos uždarosios akcinės bendrovės akcijų pasirašymo ir bendrovės steigimo sutartis gali būti vienas dokumentas.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2325,8 +2514,11 @@ Akcijų pasirašymo sutarties projektą rengia, skelbia ir už duomenų teisingu
 
 
 
-3. Pradiniai įnašai pinigais turi būti ne mažesni kaip 1/4 akcijų emisijos kainos. Jie akcijų pasirašymo sutartyje nustatytu laiku mokami į kaupiamąją sąskaitą, kurioje esančias lėšas bendrovė gali naudoti tik po jos įregistravimo. Jeigu likusi akcijų emisijos kaina apmokama nepiniginiais (turtiniais) įnašais ir šie įnašai daromi dalimis, jie įskaitomi tik po to, kai nustatyta tvarka įvertintas ir patvirtintas paskutinis turtinis įnašas.
-Jeigu pradiniai įnašai nemokami pinigais, tai tada visa akcijų kaina turtiniais įnašais turi būti padengta iš karto per pradinių įnašų mokėjimo terminą.
+3. Pradiniai įnašai pinigais turi būti ne mažesni kaip 1/4 akcijų emisijos kainos. Nepiniginiai (turtiniai) įnašai už pasirašytas akcijas daromi akcijų pasirašymo sutartyje nustatytais terminais. Jie akcijų pasirašymo sutartyje nustatytu laiku mokami į kaupiamąją sąskaitą, kurioje esančias lėšas bendrovė gali naudoti tik po jos įregistravimo. Jeigu likusi akcijų emisijos kaina apmokama nepiniginiais (turtiniais) įnašais ir šie įnašai daromi dalimis, jie įskaitomi tik po to, kai nustatyta tvarka įvertintas ir patvirtintas paskutinis turtinis įnašas.
+Jeigu už kitų laidų (išskyrus pirmosios) akcijas pradiniai įnašai nemokami pinigais, tai tada visa akcijų kaina turtiniais įnašais turi būti padengta iš karto per pradinių įnašų mokėjimo terminą.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2362,7 +2554,10 @@ Jeigu pradiniai įnašai nemokami pinigais, tai tada visa akcijų kaina turtinia
 
 
 
-2. Bendrovės įstatų pakeitimai dėl įstatinio kapitalo padidinimo registruojami Įmonių rejestro įstatymo nustatyta tvarka po to, kai pasirašytos akcijos ir surinkti pradiniai įnašai.
+2. Bendrovės įstatų pakeitimai dėl įstatinio kapitalo padidinimo registruojami Įmonių rejestro įstatymo nustatyta tvarka po to, kai pasirašytos akcijos ir surinkti pradiniai įnašai. Jeigu per akcijoms pasirašyti skirtą laiką išplatintos ne visos akcijos, tai visuotinio akcininkų susirinkimo nutarimu keičiami įstatai ir nustatomas įstatinio kapitalo dydis. Šiuo atveju įstatinio kapitalo padidėjimas gali būti ne didesnis kaip išplatintų akcijų nominali vertė.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2409,7 +2604,10 @@ Jeigu pradiniai įnašai nemokami pinigais, tai tada visa akcijų kaina turtinia
 44 straipsnis. Įstatinio kapitalo didinimas iš bendrovės lėšų
 
 
-1. Įstatinis kapitalas gali būti didinamas visuotinio susirinkimo nutarimu iš pelno rezervo ar kapitalo rezervo fondų išleidžiant naujas akcijas, kurios nemokamai perduodamos akcininkams, arba padidinant anksčiau išleistų akcijų nominalias vertes.
+1. Įstatinis kapitalas gali būti didinamas visuotinio susirinkimo nutarimu iš nepaskirstytojo rezultato, akcijų priedų ar rezervų išleidžiant naujas akcijas, kurios nemokamai perduodamos akcininkams, arba padidinant anksčiau išleistų akcijų nominalias vertes.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2419,7 +2617,10 @@ Jeigu pradiniai įnašai nemokami pinigais, tai tada visa akcijų kaina turtinia
 
 
 
-3. Iš kapitalo rezervo ir pelno rezervo fondų draudžiama didinti bendrovės įstatinį kapitalą, kol nepadengti finansinėje atskaitomybėje apskaityti bendrovės nuostoliai.
+3. Iš nepaskirstytojo pelno, akcijų priedų ar rezervų draudžiama didinti bendrovės įstatinį kapitalą, kol nepadengti finansinėje atskaitomybėje apskaityti bendrovės nuostoliai.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2429,7 +2630,10 @@ Jeigu pradiniai įnašai nemokami pinigais, tai tada visa akcijų kaina turtinia
 
 
 
-5. Kai bendrovė iš kapitalo rezervo ir pelno rezervo fondų didina įstatinį kapitalą, akcininkai turi teisę nemokamai gauti naujų akcijų, kurių skaičius būtų proporcingas jų turimų akcijų nominaliai vertei, išskyrus šio įstatymo 35 straipsnio antrojoje dalyje numatytus atvejus.
+5. Kai bendrovė iš nepaskirstytojo pelno, akcijų priedų ar rezervų didina įstatinį kapitalą, akcininkai turi teisę nemokamai gauti naujų akcijų, kurių skaičius būtų proporcingas jų turimų akcijų nominaliai vertei, išskyrus šio įstatymo 35 straipsnio antrojoje dalyje numatytus atvejus. Akcijos skiriamos pagal susirinkimo dienos bendrovės akcininkų sąrašą ir tą dieną jų turėtų akcijų nominalią vertę.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2463,7 +2667,10 @@ Jeigu pradiniai įnašai nemokami pinigais, tai tada visa akcijų kaina turtinia
 
 
 
-2) išlygintas skirtumas tarp bendrovės nuosavų aktyvų ir įstatinio kapitalo dydžio, susidaręs dėl nuostolių.
+2) išlygintas skirtumas tarp bendrovės nuosavų aktyvų ir įstatinio kapitalo dydžio, susidaręs dėl nuostolių arba bendrovių reorganizavimo.
+Straipsnio punkto pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2483,9 +2690,12 @@ Jeigu pradiniai įnašai nemokami pinigais, tai tada visa akcijų kaina turtinia
 
 
 
-Bendrovė, mažindama įstatinį kapitalą, pirmiausia turi anuliuoti turimas savo akcijas.
+Bendrovė, mažindama įstatinį kapitalą, pirmiausia turi anuliuoti turimas savo akcijas. Visų akcijų nominali vertė mažinama proporcingai, o visų akcininkų turimų akcijų skaičius – proporcingai jų nominaliai vertei.
 
 
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2500,7 +2710,10 @@ Bendrovė, mažindama įstatinį kapitalą, pirmiausia turi anuliuoti turimas sa
 
 
 
-6. Dėl įstatinio kapitalo sumažinimo bendrovės įstatų pakeitimai registruojami Įmonių rejestro įstatymo nustatyta tvarka: ne anksčiau kaip praėjus 6 mėnesiams po pirmojo ir 30 dienų po trečiojo viešo paskelbimo arba 3 mėnesiams po to, kai buvo pranešta visiems akcininkams ir kreditoriams bei buvo suteiktos papildomos garantijos jų pareikalavusiems kreditoriams. Šios taisyklės netaikomos, jei įstatinis kapitalas mažinamas anuliuojant bendrovės akcijas, kurias bendrovė supirko iš grynojo pelno ar pelno rezervo fondo arba įsigijo nemokamai. Įstatinis kapitalas laikomas sumažintu tik įstatų pakeitimus įregistravus Lietuvos Respublikos įmonių rejestre.
+6. Dėl įstatinio kapitalo sumažinimo bendrovės įstatų pakeitimai registruojami Įmonių rejestro įstatymo nustatyta tvarka: ne anksčiau kaip praėjus 6 mėnesiams po pirmojo ir 30 dienų po trečiojo viešo paskelbimo arba 3 mėnesiams po to, kai buvo pranešta visiems akcininkams ir kreditoriams bei buvo suteiktos papildomos garantijos jų pareikalavusiems kreditoriams. Šios taisyklės netaikomos, jei įstatinis kapitalas mažinamas anuliuojant bendrovės akcijas, kurias bendrovė supirko iš grynojo pelno ar nepaskirstytojo pelno arba įsigijo nemokamai. Įstatinis kapitalas laikomas sumažintu tik įstatų pakeitimus įregistravus Lietuvos Respublikos įmonių rejestre.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2529,7 +2742,15 @@ Bendrovė, mažindama įstatinį kapitalą, pirmiausia turi anuliuoti turimas sa
 
 
 
-2) šio įstatymo nustatyta tvarka sumažinus bendrovės įstatinį kapitalą.
+2) šio įstatymo nustatyta tvarka sumažinus bendrovės įstatinį kapitalą;
+
+
+
+
+3) šio įstatymo 36 straipsnio ketvirtosios dalies nustatytu atveju. 
+Papildyta straipsnio punktu:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2541,7 +2762,10 @@ Bendrovė, mažindama įstatinį kapitalą, pirmiausia turi anuliuoti turimas sa
 
 
 
-3. Akcinė bendrovė gali įsigyti savo akcijas iš įstatinio kapitalo ir privalomojo atsargos fondo lėšų tik įstatinio kapitalo mažinimo atveju.
+3. Akcinė bendrovė gali įsigyti savo akcijų iš įstatinio kapitalo tik įstatinio kapitalo mažinimo atveju. 
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2584,7 +2808,10 @@ FINANSAI IR PELNO PASKIRSTYMAS
 
 
 
-3. Visuotinio akcininkų susirinkimo ar jo pavedimu valdybos nutarimu visos ar dalis pajamų, gautų dėl bendrovės akcijų ir obligacijų emisijos kainos bei jų nominalios vertės skirtumo, gali būti priskiriamos prie pelno. Jeigu visuotinis susirinkimas ar valdyba nepriėmė tokio nutarimo, šios pajamos priskiriamos kapitalo rezervo fondui ir neapmokestinamos.
+3. Neteko galios 1995-12-30.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2600,52 +2827,76 @@ FINANSAI IR PELNO PASKIRSTYMAS
 48 straipsnis. Pelno paskirstymas
 
 
-1. Bendrovės pelnas turi būti paskirstytas ne vėliau kaip per 3 mėnesius po ūkinių metų pabaigos, prieš tai patvirtinus metinę finansinę atskaitomybę. Nutarime dėl pelno paskirstymo turi būti nurodyta:
+1. Per ūkinius metus uždirbtas grynasis pelnas, kuris yra gaunamas prieš tai atskaičius visus mokesčius, turi būti paskirstytas ne vėliau kaip per 3 mėnesius pasibaigus ūkiniams metams, kai tvirtinama metinė finansinė atskaitomybė visuotiniame akcininkų susirinkime. Nutarime dėl grynojo pelno paskirstymo turi būti nurodyta:
 
 
-1) pelnas;
-
-
-
-
-2) privalomi mokėjimai iš pelno;
+1) nepaskirstytasis pelnas (nuostolis) ūkinių metų pradžioje;
 
 
 
 
-3) dividendas;
+2) grynasis ūkinių metų rezultatas (pelnas arba nuostolis);
 
 
 
 
-4) atskaitymai į privalomąjį atsargos ir pelno rezervo fondus;
+3) paskirstytinasis rezultatas (pelnas arba nuostolis);
 
 
 
 
-5) metiniai išmokėjimai (tantjemos) valdybos ir stebėtojų tarybos nariams;
+4) pervedimai iš rezervų;
 
 
 
 
-6) pelno panaudojimas darbuotojų premijoms ir kitiems tikslams;
+5) akcininkų įnašai nuostoliams padengti (jeigu visą ar dalį paskirstytinojo rezultato (nuostolio) nusprendė padengti akcininkai);
 
 
 
 
-7) pelno likutis.
+6) pelno paskirstymas į privalomąjį rezervą;
 
 
 
 
-
-
-2. Visuotinis akcininkų susirinkimas, skirstydamas pelną, turi teisę prie jo pridėti dalį pelno rezervo ar kapitalo rezervo fondų.
+7) pelno paskirstymas į kitus rezervus;
 
 
 
 
-3. Metiniams išmokėjimams (tantjemoms) valdybos ir stebėtojų tarybos nariams, darbuotojų premijoms ir kitiems tikslams (šio straipsnio pirmosios dalies 5 ir 6 punktai) gali būti skirta ne daugiau kaip 1/5 grynojo pelno.
+8) pelno paskirstymas dividendams išmokėti;
+
+
+
+
+9) kiti pelno paskirstymo atvejai: metinės išmokos (tantjemos) valdybos ir stebėtojų tarybos nariams, pelno panaudojimas darbuotojų premijoms ir kitiems tikslams;
+
+
+
+
+10) nepaskirstytasis rezultatas, perkeliamas į kitus ūkinius metus. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
+
+
+
+
+2. Visuotinis akcininkų susirinkimas, skirstydamas paskirstytinąjį rezultatą, turi teisę į jį įtraukti nepaskirstytąjį rezultatą ūkinių metų pradžioje, grynąjį ūkinių metų rezultatą – pelną arba nuostolį, pervedimus iš rezervų, atsižvelgdamas į šio įstatymo kitų straipsnių nuostatas, akcininkų įnašus nuostoliams padengti.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
+
+
+
+
+3. Metiniams išmokėjimams (tantjemoms) valdybos ir stebėtojų tarybos nariams, darbuotojų premijoms ir kitiems tikslams (šio straipsnio pirmosios dalies 9 punktas) gali būti skirta ne daugiau kaip 1/5 grynojo pelno.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2655,7 +2906,10 @@ FINANSAI IR PELNO PASKIRSTYMAS
 
 
 
-5. Jei privalomojo atsargos fondo ir kapitalo rezervo fondo dydžių suma yra mažesnė kaip 1/10 įstatinio kapitalo, tai atskaitymai į privalomąjį atsargos fondą yra privalomi ir negali būti mažesni kaip 1/20 grynojo pelno.
+5. Jei privalomojo rezervo ir akcijų priedų dydžių suma yra mažesnė kaip 1/10 įstatinio kapitalo, tai atskaitymai į privalomąjį rezervą yra privalomi ir negali būti mažesni kaip 1/20 grynojo pelno.
+Straipsnio dalies pakeitimai:
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+ 
 
 
 
@@ -2785,3 +3039,8 @@ Dėl Lietuvos Respublikos akcinių bendrovių įstatymo papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-878, 1995-05-04, Žin., 1995, Nr. 41-993 (1995-05-17), i. k. 0951010ISTA000I-878
 Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 50 straipsnio pakeitimo ir papildymo
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1144, 1995-12-20, Žin., 1995, Nr. 107-2393 (1995-12-30), i. k. 0951010ISTA00I-1144
+Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo
