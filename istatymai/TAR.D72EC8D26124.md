@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D72EC8D26124"
 Neoficialus įstatymo tekstas
 
 Įstatymas
-paskelbtas: Žin., 1990, Nr.31-742
+paskelbtas: Žin., 1990, Nr. 31-742
 Neoficialus
 įstatymo tekstas
  
@@ -113,28 +113,46 @@ esančiose užsienio valstybėse.
 Straipsnio
 pakeitimai:
 Nr.
-I-2280, 1992.02.06, Žin., 1992, Nr. 7-150 
+I-2280,
+1992.02.06, Žin., 1992, Nr. 7-150 
 Nr.
-I-1159, 95.12.28, Žin., 1996, Nr. 1-3 (96.01.05) 
+I-1159,
+95.12.28, Žin., 1996, Nr. 1-3 (96.01.05) 
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 Nr.
-VIII-291, 97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+VIII-291,
+97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+ 
  
 2 straipsnis.
-            Pajamų mokestis
-neišskaitomas:
-            1) pensininkams iš pensijų,
-mokamų iš Lietuvos Respublikos valstybinių socialinio draudimo fondų, valstybės
-ir savivaldybių biudžetų, taip pat iš kitų užsienio valstybių mokamų pensijų,
-kurios apmokestintos tose valstybėse;
-2) iš biudžeto
-finansuojamų mokymo įstaigų studentams bei moksleiviams iš stipendijų ir iš
-stipendijų fondų mokamų pašalpų bei kitų išmokų, iš tarptautinių organizacijų
-ir fondų, kurių sąrašą nustato Lietuvos Respublikos Vyriausybė, mokamų
-stipendijų, taip pat iš valstybės stipendijų.
+Pajamų mokestis neišskaitomas: 
+1) pensininkams iš
+pensijų, mokamų iš Lietuvos Respublikos valstybinių socialinio draudimo fondų,
+valstybės ir savivaldybių biudžetų, taip pat iš kitų užsienio valstybių mokamų
+pensijų, kurios apmokestintos tose valstybėse; 
+2) iš mokymo
+įstaigų studentų ir moksleivių stipendijų ir pašalpų, kurioms mokėti naudojamos
+Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų lėšos;
+3) iš mokymo
+įstaigų studentų ir moksleivių stipendijų, kurioms mokėti naudojamos Lietuvos
+Respublikos įstatymų nustatyta tvarka įsteigtų organizacijų, kurios pagal jų
+steigimą ir veiklą reglamentuojančius teisės aktus yra ne pelno siekiančios
+organizacijos, lėšos, jeigu: stipendijų mokėjimas yra numatytas šių
+organizacijų veiklą reglamentuojančiuose teisės aktuose, stipendija skiriama
+viešo konkurso būdu, stipendijos gavėjas nėra stipendiją mokančios
+organizacijos narys, darbuotojas arba šios organizacijos nario arba darbuotojo
+šeimos narys ir tokia stipendija nėra atlyginimas už stipendijos gavėjo šiai
+organizacijai atliktus arba numatomus atlikti darbus, suteiktas arba numatomas
+suteikti paslaugas;
+4) iš stipendijų, mokamų
+iš tarptautinių organizacijų ir fondų, užsienio valstybių fondų ir
+mokymo įstaigų, kurių sąrašą nustato Lietuvos Respublikos Vyriausybė, lėšų;
+5) iš valstybės
+stipendijų.
 Pajamų mokestis
 taip pat neišskaitomas iš profesinių sąjungų, draugijų, kitų visuomeninių
 organizacijų ir politinių partijų pašalpų, išmokėtų savo organizacijų nariams
@@ -150,17 +168,21 @@ pakeitimai:
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681 
 Nr.
-I-892, 95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26) 
+I-892,
+95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26) 
 Nr.
-VIII-166, 97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
+VIII-166,
+97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
 Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
-Nr.
-VIII-1303, 99.07.07, Žin., 1999, Nr.66-2121 (99.07.30), įsigalioja nuo
-2000.01.01
+VIII-1303,
+99.07.07, Žin., 1999, Nr.66-2121 (99.07.30), įsigalioja nuo 2000.01.01
+Nr. VIII-1740, 00.06.20, Žin., 2000,
+Nr.53-1522 (00.06.30)
  
-       3
-straipsnis.
+ 
+       3 straipsnis.
        Tarptautinis dvigubas apmokestinimas
 panaikinamas remiantis su užsienio valstybėmis sudarytomis ir taikomomis
 dvigubo apmokestinimo išvengimo sutartimis.
@@ -174,9 +196,11 @@ pakeitimai:
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681 
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07) 
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07) 
 Nr.
-VIII-166, 97.03.27, Žin., 1997, Nr.28-662 (97.03.29) 
+VIII-166,
+97.03.27, Žin., 1997, Nr.28-662 (97.03.29) 
  
  
 II. Pajamų,
@@ -188,16 +212,13 @@ susijusios su darbo santykiais, taip pat pajamos už kitą įmonės įstatuose
 numatytą veiklą (išskyrus tas, kurių apmokestinimą reguliuoja šio įstatymo III
 ir IV skyriai), atskaičiavus iš jų neapmokestinamąjį minimumą, apmokestinamos
 33% tarifu.
- 
-[2 dalies redakcija nuo 2000 m. gegužės
-1 d.:
 Jūrininkų,
 įrašytų į laivo, plaukiojančio su Lietuvos valstybės vėliava, įgulos narių
 sąrašą bei dirbančių pagal darbo sutartį to paties laivo valdytojo laivuose
 kaip pagrindinėje darbovietėje, laivo reiso metu gaunamos su darbo santykiais
-susijusios pajamos, atskaičius neapmokestinamąjį minimumą, apmokestinamos
-taikant 15 procentų pajamų mokesčio tarifą Lietuvos Respublikos Vyriausybės
-nustatyta tvarka.]
+susijusios pajamos, atskaičius neapmokestinamąjį minimumą, apmokestinamos taikant
+15 procentų pajamų mokesčio tarifą Lietuvos Respublikos Vyriausybės nustatyta
+tvarka.
 Straipsnio
 pakeitimai:
 Nr.I-211,
@@ -205,10 +226,10 @@ Nr.I-211,
 Nr.I-430,
 94.04.12, Žin., 1994, Nr. 30-531
 Nr.
-VIII-1254, 99.06.22, Žin., 1999, Nr.60-1950 (99.07.09), įsigalioja nuo
-2000.01.01
-Nr. VIII-1615, 00.04.11, Žin., 2000, Nr.34-955
-(00.04.26),
+VIII-1254,
+99.06.22, Žin., 1999, Nr.60-1950 (99.07.09), įsigalioja nuo 2000.01.01
+Nr. VIII-1615, 00.04.11, Žin., 2000,
+Nr.34-955 (00.04.26),
 įsigalioja nuo 2000.05.01
  
  
@@ -243,9 +264,9 @@ kiekvieną paskesnį vaiką apskaičiuotas mokestis mažinamas 10 litų.
 Respublikos Vyriausybė šiame straipsnyje nustatytus neapmokestinamųjų minimumų
 dydžius indeksuoja pagal vartojimo kainų indeksą.
  
-            * Pastaba: 5 straipsnyje
-nurodyti neapmokestinamųjų minimų dydžiai buvo indeksuoti 1998 m. vasario 5 d.
-Lietuvos Respublikos Vyriausybės nutarimu Nr.150
+* Pastaba: 5
+straipsnyje nurodyti neapmokestinamųjų minimų dydžiai buvo indeksuoti 1998 m.
+vasario 5 d. Lietuvos Respublikos Vyriausybės nutarimu Nr.150
 Straipsnio
 pakeitimai: 
 Nr.I-1580,
@@ -268,18 +289,19 @@ užmokestis, įskaitant įvairias priemokas, iš socialinio draudimo lėšų mok
 ligos, motinystės (tėvystės) pašalpos - apskaičiuotos už tą mėnesį sumos.
      Įmonių,
 įstaigų ir organizacijų išmokėtos uždarbio sumos už darbus, kurių trukmė
-viršijo vieną mėnesį ir yra užfiksuotas darbo laikas, nemokant per šį laikotarpį
-kas mėnesį darbo užmokesčio arba mokant darbo užmokesčio dalį, paskirstomos
-proporcingai dirbtų mėnesių skaičiui (bet ne daugiau kaip 12 mėnesių);
+viršijo vieną mėnesį ir yra užfiksuotas darbo laikas, nemokant per šį
+laikotarpį kas mėnesį darbo užmokesčio arba mokant darbo užmokesčio dalį,
+paskirstomos proporcingai dirbtų mėnesių skaičiui (bet ne daugiau kaip 12
+mėnesių);
      2)
 vienkartinės premijos, priklausančios apmokestinti pašalpos ir kitos išmokos -
 išmokėtos per mėnesį sumos;
      3) premijos
 ir kitos skatinamosios išmokos už ilgesnio kaip vieno mėnesio laikotarpio darbo
 rezultatus paskirstomos proporcingai užfiksuoto laikotarpio mėnesių skaičiui
-(bet ne daugiau kaip 12 mėnesių) ir apmokestinamos pagal šio įstatymo 2 priedėlyje
-nurodytų dydžių pajamų mokesčio tarifus, galiojusius tą mėnesį, kurį šios
-išmokos apskaičiuotos išmokėti. Šia tvarka apmokestinamas ir papildomas
+(bet ne daugiau kaip 12 mėnesių) ir apmokestinamos pagal šio įstatymo 2
+priedėlyje nurodytų dydžių pajamų mokesčio tarifus, galiojusius tą mėnesį, kurį
+šios išmokos apskaičiuotos išmokėti. Šia tvarka apmokestinamas ir papildomas
 atlyginimas (tantjemos). Jei per mėnesį išmokamos kelios tokios premijos ar
 kitos skatinamosios išmokos, kiekviena iš jų apmokestinama atskirai;
      4)
@@ -288,20 +310,23 @@ dydžio kompensacijų sumos, išeitinių pašalpų sumos, taip pat priteistos ž
 atlyginimo už priverstinę pravaikštą dėl neteisėto atleidimo iš darbo sumos
 dalijamos į tiek dalių, kiek jo vidutinių mėnesinių darbo užmokesčių sudaro
 atitinkamų išmokų suma, ir kiekviena dalis atskirai apmokestinama pagal šio
-įstatymo 2 priedėlyje nurodytų dydžių pajamų mokesčio tarifus. Apskaičiuojant pajamų
-mokestį nuo išmokamos nepanaudotų atostogų kompensacijos, kiekvienų darbo metų
-nepanaudotų atostogų kompensacijos suma apmokestinama atskirai (jeigu už
-vienerius darbo metus darbuotojui priklauso keli mėnesiai atostogų, tai
-kompensacijos suma, tenkanti kiekvienam mėnesiui, apmokestinama atskirai) pagal
-2 priedėlyje nurodytų dydžių pajamų mokesčio tarifus.
+įstatymo 2 priedėlyje nurodytų dydžių pajamų mokesčio tarifus. Apskaičiuojant
+pajamų mokestį nuo išmokamos nepanaudotų atostogų kompensacijos, kiekvienų
+darbo metų nepanaudotų atostogų kompensacijos suma apmokestinama atskirai
+(jeigu už vienerius darbo metus darbuotojui priklauso keli mėnesiai atostogų,
+tai kompensacijos suma, tenkanti kiekvienam mėnesiui, apmokestinama atskirai)
+pagal 2 priedėlyje nurodytų dydžių pajamų mokesčio tarifus.
 Straipsnio
 pakeitimai: 
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681 
 Nr.
-I-892, 95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26) 
+I-892,
+95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26) 
 Nr.
-VIII-166, 97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
+VIII-166,
+97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
+ 
  
      7
 straipsnis.
@@ -344,16 +369,20 @@ Nr.I-2280,
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681 
 Nr.
-I-892, 95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26) 
+I-892,
+95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26) 
 Nr.
-I-1400, 96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02) 
+I-1400,
+96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02) 
 Nr.
-I-1461, 96.07.10, Žin., 1996, Nr. 73-1747 (96.07.31) 
+I-1461,
+96.07.10, Žin., 1996, Nr. 73-1747 (96.07.31) 
 Nr.
-VIII-166, 97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
+VIII-166,
+97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
 Nr.
-VIII-1303, 99.07.07, Žin., 1999, Nr.66-2121 (99.07.30), įsigalioja nuo
-2000.01.01
+VIII-1303,
+99.07.07, Žin., 1999, Nr.66-2121 (99.07.30), įsigalioja nuo 2000.01.01
  
  
      8
@@ -377,7 +406,8 @@ Nr.I-2280,
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681 
 Nr.
-I-892, 95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
+I-892,
+95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
  
  
      8(1)
@@ -391,7 +421,9 @@ nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+ 
  
 9
 straipsnis. 
@@ -407,8 +439,9 @@ pajamų mokestį. Žinių pateikimo tvarką nustato Lietuvos Respublikos Vyriaus
 ar jos įgaliota institucija.
 Straipsnio
 pakeitimai: 
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+ 
  
      10 straipsnis.
      Įmonės, įstaigos, organizacijos ir gyventojai,
@@ -427,6 +460,7 @@ atlyginimo išmokėjimo.
 Straipsnio pakeitimai:
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681
+ 
  
      11
 straipsnis.
@@ -451,8 +485,8 @@ Straipsnio
 pakeitimai: 
 Nr.I-1055,
 1991.02.14, Žin., 1991, Nr. 6-170 
-Nr. VIII-1520, 00.01.04, Žin., 2000, Nr.5-127
-(00.01.19), įsigalioja nuo 2001.01.01
+Nr. VIII-1520, 00.01.04, Žin., 2000,
+Nr.5-127 (00.01.19), įsigalioja nuo 2001.01.01
  
  
      12
@@ -463,7 +497,8 @@ administravimo įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai: 
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17) 
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17) 
  
  
      13
@@ -487,7 +522,8 @@ pakeitimai:
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
  
 14 straipsnis.
@@ -497,11 +533,14 @@ Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-I-561, 94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
+I-561,
+94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
  
      15
@@ -516,13 +555,14 @@ pakeitimai:
 Nr.I-2280,
 1992.02.06, Žin., 1992, Nr. 7-150
 Nr.
-I-1400, 96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02) 
+I-1400,
+96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02) 
  
  
 III. Autoriams
 ir jų įpėdiniams išmokamo autorinio atlyginimo už mokslo, literatūros,
-meno kūrinius
-bei kitus autorinius darbus apmokestinimo tvarka
+meno kūrinius bei
+kitus autorinius darbus apmokestinimo tvarka
  
      16
 straipsnis.
@@ -541,13 +581,14 @@ pakeitimai:
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681
 Nr.
-I-561, 94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
+I-561,
+94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
 Nr.
-I-1400, 96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02)
+I-1400,
+96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02)
  
  
-     17
-straipsnis.
+     17 straipsnis.
      Pajamų
 mokestis nuo autorinio atlyginimo sumų apskaičiuojamas ir išskaitomas
 tiesiogiai kiekvienoje vietoje,kur išmokamas, ir pervedamas į biudžetą 10
@@ -565,19 +606,20 @@ už kūrinius ir darbus, už kuriuos toks atlyginimas jau buvo mokėtas, imamas 
 dydžio pajamų mokestis.
      Vaikams iki
 18 metų, sutuoktiniams ir tėvams (moterims per 55 metus ir vyrams per 60 metų
-amžiaus bei I ir II grupės invalidams nepriklausomai nuo amžiaus) pagal šį straipsnį
-apskaičiuotas pajamų mokestis mažinamas 50%.
+amžiaus bei I ir II grupės invalidams nepriklausomai nuo amžiaus) pagal šį
+straipsnį apskaičiuotas pajamų mokestis mažinamas 50%.
  
      19
 straipsnis.
      Neteisingai apskaičiuotas mokestis nuo
 autorinio atlyginimo už mokslo, literatūros ir meno kūrinius gali būti
-patikslintas ir išieškotas Lietuvos Respublikos mokesčių administravimo įstatymo
-nustatyta tvarka.
+patikslintas ir išieškotas Lietuvos Respublikos mokesčių administravimo
+įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
  
      20
@@ -589,18 +631,20 @@ Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
  
-     21
-straipsnis. 
+     21 straipsnis.
+
      Išskaityto
 pajamų mokesčio permoka grąžinama Lietuvos Respublikos mokesčių administravimo
 įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
  
      22
@@ -611,11 +655,14 @@ administravimo įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-I-561, 94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
+I-561,
+94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
  
      23
@@ -670,8 +717,8 @@ dolerių vertės užsienio kilmės kapitalą, šios bendrijos 5 metus nuo įmon�
 pajamų mokestį. Laisvųjų ekonominių zonų ūkinių bendrijų ir juridinio asmens
 statuso neturinčių individualių (personalinių) įmonių pajamų dalis, panaudota
 būtinoms pagrindinėms priemonėms įsigyti, tyrimams bei naujoms technologijoms
-diegti, taip pat investicijoms ir kapitaliniams įdėjimams zonose, į
-apmokestinamą pelną neįtraukiama.
+diegti, taip pat investicijoms ir kapitaliniams įdėjimams zonose, į apmokestinamą
+pelną neįtraukiama.
      Jeigu ūkinė
 bendrija ir juridinio asmens statuso neturinti individuali (personalinė) įmonė
 buvo įsteigta (registruota) arba užsienio kapitalas buvo investuotas iki 1993
@@ -757,20 +804,26 @@ Nr.I-211,
 Nr.I-430,
 94.04.12, Žin., 1994, Nr. 30-531 
 Nr.
-I-1251, 96.03.28, Žin., 1996, Nr. 35-858 (96.04.19) 
+I-1251,
+96.03.28, Žin., 1996, Nr. 35-858 (96.04.19) 
 Nr.
-I-1400, 96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02) 
+I-1400,
+96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02) 
 Nr.
-I-1483, 96.07.11, Žin., 1996, Nr. 71-1716 (96.07.26) 
+I-1483,
+96.07.11, Žin., 1996, Nr. 71-1716 (96.07.26) 
 Nr.
-VIII-166, 97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
+VIII-166,
+97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
 Nr.
-VIII-291, 97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
-Nr.
-VIII-1112, 99.03.30, Žin., 1999, Nr.33-947 (99.04.14)
-Nr. VIII-1495, 99.12.23, Žin., 1999, Nr.113-3290 (99.12.30)
+VIII-291,
+97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+Nr. VIII-1112,
+99.03.30, Žin., 1999, Nr.33-947 (99.04.14)
+Nr. VIII-1495, 99.12.23, Žin., 1999,
+Nr.113-3290 (99.12.30)
  
  
      25 straipsnis.
@@ -790,7 +843,8 @@ Nr.I-2280,
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681
 Nr.
-I-892, 95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
+I-892,
+95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
  
  
             26 straipsnis.
@@ -818,13 +872,13 @@ valstybių įmonių apmokestinamąsias pajamas sudaro visos už suteiktas
 rinkotyros, konsultavimo, tarpininkavimo paslaugas ir už suteiktą teisę
 naudotis prekių ženklais, licencijomis, firmų vardais iš Lietuvos Respublikos
 juridinio asmens teisių neturinčių individualių (personalinių) įmonių ir ūkinių
-bendrijų gautos įplaukos bei palūkanos už suteiktas paskolas, išskyrus palūkanas
-už paskolas, kurias suteikė užsienio valstybių bankai ir pagal Lietuvos
-Respublikos Vyriausybės ar jos įgaliotos institucijos sudarytą ir patvirtintą
-sąrašą tarptautinės finansų institucijos, neatskaičiuojant jokių sąnaudų.
-Užsienio valstybių įmonių, įregistruotų lengvatinio mokesčio tarifo valstybėse
-arba zonose, apmokestinamosios pajamos apskaičiuojamos Lietuvos Respublikos
-Vyriausybės nustatyta tvarka.
+bendrijų gautos įplaukos bei palūkanos už suteiktas paskolas, išskyrus
+palūkanas už paskolas, kurias suteikė užsienio valstybių bankai ir pagal
+Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos sudarytą ir
+patvirtintą sąrašą tarptautinės finansų institucijos, neatskaičiuojant jokių
+sąnaudų. Užsienio valstybių įmonių, įregistruotų lengvatinio mokesčio tarifo
+valstybėse arba zonose, apmokestinamosios pajamos apskaičiuojamos Lietuvos
+Respublikos Vyriausybės nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.I-1514,
@@ -834,17 +888,21 @@ Nr.I-211,
 Nr.I-430,
 94.04.12, Žin., 1994, Nr. 30-531
 Nr.
-I-849, 95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
+I-849,
+95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
 Nr.
-VIII-166, 97.03.27, Žin., 1997, Nr.28-662 (97.03.29) 
+VIII-166,
+97.03.27, Žin., 1997, Nr.28-662 (97.03.29) 
 Nr.
-VIII-291, 97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+VIII-291,
+97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
 Nr.
-VIII-266, 97.06.17, Žin., 1997, Nr.63-1474 (97.07.02)
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
-Nr.
-VIII-1112, 99.03.30, Žin., 1999, Nr.33-947 (99.04.14)
+VIII-266,
+97.06.17, Žin., 1997, Nr.63-1474 (97.07.02)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+Nr. VIII-1112,
+99.03.30, Žin., 1999, Nr.33-947 (99.04.14)
  
  
      26(1)
@@ -867,16 +925,18 @@ labdarai ir paramai. Nustatytos pajamų dalies sumokėjimo į biudžetą bei sky
 labdarai ir paramai tvarką, konkrečių labdaros bei paramos davėjų ir gavėjų
 sąrašą nustato Lietuvos Respublikos Vyriausybė. Šiame straipsnyje nustatytoms
 privalomo dydžio labdarai ir paramai skirtoms sumoms netaikomos Juridinių
-asmenų pelno mokesčio įstatymo 6 straipsnio antrojoje dalyje nustatytos lengvatos.
+asmenų pelno mokesčio įstatymo 6 straipsnio antrojoje dalyje nustatytos
+lengvatos.
             Pinigines ir pinigines -
-daiktines loterijas rengiančios įmonės pajamų mokestį moka šio įstatymo
-nustatyta tvarka.
+daiktines loterijas rengiančios įmonės pajamų mokestį moka šio įstatymo nustatyta
+tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-291, 97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+VIII-291,
+97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
  
  
 27 straipsnis.
@@ -889,11 +949,10 @@ perkelti į kitus mokestinius metus. Mokestinių metų nuostolius leidžiama
 perkelti ne ilgiau kaip penkerius mokestinius metus, pradedant skaičiuoti nuo
 kitų metų, kai nuostoliai susidarė. Pasibaigus šiam terminui, nuostoliai
 nebeperkeliami. Mokestiniai metai sutampa su kalendoriniais metais. Mokesčių
-mokėtojams, kurių veikla yra sezoninė, jų prašymu gali būti nustatytas kitoks
-mokestinis laikotarpis su sąlyga, kad tas laikotarpis bus pastovus
-(nekeičiamas) ir lygus 12 mėnesių. Finansų ministras tvirtina tokių mokesčių
-mokėtojų sąrašą. Mokestinių metų nuostolių perkėlimo tvarką taip pat nustato
-finansų ministras.
+mokėtojams, kurių veikla yra sezoninė, jų prašymu gali būti nustatytas kitoks mokestinis
+laikotarpis su sąlyga, kad tas laikotarpis bus pastovus (nekeičiamas) ir lygus
+12 mėnesių. Finansų ministras tvirtina tokių mokesčių mokėtojų sąrašą.
+Mokestinių metų nuostolių perkėlimo tvarką taip pat nustato finansų ministras.
 Straipsnio
 pakeitimai:
 Nr.I-2280,
@@ -901,21 +960,23 @@ Nr.I-2280,
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681
 Nr.
-I-849, 95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
+I-849,
+95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
 Nr.
-VIII-291, 97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+VIII-291,
+97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
  
  
      28
 straipsnis.
      Kūrybinių
-sąjungų (architektų, dailininkų, dizainerių, fotomenininkų, kompozitorių,
-kinematografininkų, mokslininkų, rašytojų, tautodailininkų, teatro, žurnalistų)
-individualioms (personalinėms) įmonėms, neturinčioms juridinio asmens teisių,
-teikiama Juridinių asmenų pelno mokesčio įstatymo 8 straipsnyje numatyta
-mokesčio lengvata.
+sąjungų (architektų, dailininkų, dizainerių, fotomenininkų, kompozitorių, kinematografininkų,
+mokslininkų, rašytojų, tautodailininkų, teatro, žurnalistų) individualioms
+(personalinėms) įmonėms, neturinčioms juridinio asmens teisių, teikiama
+Juridinių asmenų pelno mokesčio įstatymo 8 straipsnyje numatyta mokesčio
+lengvata.
      Ilgalaikio
 materialaus turto perkainojimo rezultatai neapmokestinami Lietuvos Respublikos
 Vyriausybės nustatytais atvejais ir tvarka.
@@ -928,9 +989,10 @@ Nr.I-2280,
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681
 Nr.
-VIII-291, 97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+VIII-291,
+97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
  
  
      29
@@ -956,7 +1018,8 @@ Nr.I-2280,
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681
 Nr.
-VIII-166, 97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
+VIII-166,
+97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
  
  
 30 straipsnis.
@@ -981,8 +1044,8 @@ laikotarpį apskaičiuoto pajamų mokesčio sumos.
 naujos įmonės pirmaisiais mokestiniais metais atleidžiamos nuo pajamų avansinių
 mokesčių. Šios įmonės pajamų avansinius mokesčius pradeda mokėti nuo kitų metų
 gegužės mėnesio (mokestinio laikotarpio penktojo mėnesio). Jeigu praėjęs
-mokestinis laikotarpis buvo trumpesnis negu dvylika mėnesių, apskaičiuojant pajamų
-avansinius mokesčius faktiškai apskaičiuota mokesčio suma laikoma už tą
+mokestinis laikotarpis buvo trumpesnis negu dvylika mėnesių, apskaičiuojant
+pajamų avansinius mokesčius faktiškai apskaičiuota mokesčio suma laikoma už tą
 mokestinį laikotarpį apskaičiuotoji mokesčio suma, padalinta iš to laikotarpio
 mėnesių skaičiaus ir padauginta iš dvylikos.
 Jeigu
@@ -990,24 +1053,24 @@ praėjusiais mokestiniais metais bendrosios įplaukos neviršijo 100 tūkst. lit
 įmonė einamaisiais mokestiniais metais pajamų avansinių mokesčių mokėti
 neprivalo. 
 Mokesčio
-mokėtojas, kuris įrodo, kad einamųjų metų jo bendrosios įplaukos yra 25
-procentais ir daugiau mažesnės už praėjusių metų atitinkamo laikotarpio
-bendrąsias įplaukas arba kuriam pradedamos taikyti šiame įstatyme nustatytos
-mokesčių lengvatos, turi teisę ne vėliau kaip prieš mėnesį iki eilinio pajamų
-avansinio mokesčio mokėjimo termino, nustatyto šiame straipsnyje, kreiptis į
-vietos mokesčio administratorių, kad sumažintų likusius pajamų avansinius
-mokesčius arba nuo jų atleistų. Vietos mokesčio administratorius tokiam
-mokesčio mokėtojui turi sumažinti mokesčio mokėjimo avansu prievolės sumą
-proporcingai sumažėjusioms įplaukoms arba atleisti nuo pajamų avansinio
-mokesčio. Jeigu šio mokesčio mokėtojo einamųjų metų bendrosios įplaukos vėl
-padidėjo iki 25 procentų ir daugiau, jis privalo ne vėliau kaip prieš mėnesį
-iki eilinio pajamų avansinio mokesčio mokėjimo termino kreiptis į vietos mokesčio
-administratorių, kad padidintų likusius pajamų avansinius mokesčius. Pajamų
-mokesčio avansinė apyskaita už pirmuosius keturis mokestinio laikotarpio
-mėnesius pateikiama iki mokestinio laikotarpio pirmojo mėnesio (sausio)
-paskutinės dienos. Pajamų mokesčio avansinė apyskaita už mokestinio laikotarpio
-penktąjį-dvyliktąjį mėnesius pateikiama iki mokestinio laikotarpio penktojo
-mėnesio (gegužės) paskutinės dienos.
+mokėtojas, kuris įrodo, kad einamųjų metų jo bendrosios įplaukos yra 25 procentais
+ir daugiau mažesnės už praėjusių metų atitinkamo laikotarpio bendrąsias
+įplaukas arba kuriam pradedamos taikyti šiame įstatyme nustatytos mokesčių
+lengvatos, turi teisę ne vėliau kaip prieš mėnesį iki eilinio pajamų avansinio
+mokesčio mokėjimo termino, nustatyto šiame straipsnyje, kreiptis į vietos
+mokesčio administratorių, kad sumažintų likusius pajamų avansinius mokesčius
+arba nuo jų atleistų. Vietos mokesčio administratorius tokiam mokesčio
+mokėtojui turi sumažinti mokesčio mokėjimo avansu prievolės sumą proporcingai
+sumažėjusioms įplaukoms arba atleisti nuo pajamų avansinio mokesčio. Jeigu šio
+mokesčio mokėtojo einamųjų metų bendrosios įplaukos vėl padidėjo iki 25
+procentų ir daugiau, jis privalo ne vėliau kaip prieš mėnesį iki eilinio pajamų
+avansinio mokesčio mokėjimo termino kreiptis į vietos mokesčio administratorių,
+kad padidintų likusius pajamų avansinius mokesčius. Pajamų mokesčio avansinė
+apyskaita už pirmuosius keturis mokestinio laikotarpio mėnesius pateikiama iki
+mokestinio laikotarpio pirmojo mėnesio (sausio) paskutinės dienos. Pajamų
+mokesčio avansinė apyskaita už mokestinio laikotarpio penktąjį-dvyliktąjį
+mėnesius pateikiama iki mokestinio laikotarpio penktojo mėnesio (gegužės)
+paskutinės dienos.
 Mokesčio
 mokėtojas gali pasirinkti pajamų avansinį mokestį mokėti pagal apskaičiuotą
 einamųjų metų kiekvieno mėnesio pajamų mokesčio sumą.
@@ -1028,11 +1091,12 @@ mėnesiui, kurį buvo išmokėtos tos pajamos.
 Straipsnio
 pakeitimai:
 Nr.
-VIII-291, 97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
-Nr.
-VIII-1217, 99.06.08, Žin., 1999, Nr.55-1770 (99.06.23)
+VIII-291,
+97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+Nr. VIII-1217,
+99.06.08, Žin., 1999, Nr.55-1770 (99.06.23)
  
  
 31 straipsnis. 
@@ -1043,13 +1107,16 @@ Mokesčių administravimo įstatymo nustatyta tvarka skaičiuojami delspinigiai.
 Straipsnio
 pakeitimai:
 Nr.
-I-561, 94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
+I-561,
+94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
  
  
 32 straipsnis.
@@ -1068,15 +1135,19 @@ Nr.I-2280,
 Nr.I-211,
 1993.07.13, Žin., 1993, Nr. 30-681
 Nr.
-I-849, 95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
+I-849,
+95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
 Nr.
-I-892, 95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
+I-892,
+95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
  
  
 V. Gyventojų
@@ -1090,7 +1161,7 @@ pajamos už turto nuomą bei kitos pajamos, neišvardytos šio įstatymo II, III
 IV dalyse bei šio straipsnio trečiojoje, ketvirtojoje, penktojoje ir šeštojoje
 dalyse ir 33(1) straipsnyje, apmokestinamos taikant 20 procentų
 pajamų mokesčio tarifą.
-*Bendrosioms pajamoms
+* Bendrosioms pajamoms
 nepriskiriama iš įmonės lėšų arba dėl turto vertės padidėjimo akcininkams
 nemokamai išduotos akcijos arba anksčiau išduotų akcijų nominalios vertės
 padidinimo suma, taip pat pajaus vertės padidinimo suma. Iš šiame straipsnyje
@@ -1150,18 +1221,22 @@ Nr.I-296,
 Nr.I-430,
 94.04.12, Žin., 1994, Nr. 30-531
 Nr.
-I-561, 94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
+I-561,
+94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
 Nr.
-I-892, 95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
+I-892,
+95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
 Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+VIII-1303,
+99.07.07, Žin., 1999, Nr.66-2121 (99.07.30), įsigalioja nuo 2000.01.01
 Nr.
-VIII-1303, 99.07.07, Žin., 1999, Nr.66-2121 (99.07.30), įsigalioja nuo
-2000.01.01
-Nr.
-VIII-1476, 99.12.14, Žin., 1999, Nr.109-3174 (99.12.24)
+VIII-1476, 99.12.14, Žin., 1999,
+Nr.109-3174 (99.12.24)
  
  
 33(1)
@@ -1171,9 +1246,9 @@ obligacijų ir kitų vertybinių popierių (toliau - vertybiniai popieriai) vert
 padidėjimo pajamos, išskyrus reinvestuotas į vertybinius popierius,
 viršijančios 12 PNM per metus, apmokestinamos taikant 15 procentų pajamų
 mokesčio tarifą. Vertybinių popierių vertės padidėjimo pajamos yra gautos
-pajamos, kurias sudaro vertybinių popierių pardavimo ar kito perleidimo nuosavybėn
-ir įsigijimo kainų skirtumas. Vertybinių popierių įsigijimo kaina - tai
-išlaidos, padarytos vertybiniams popieriams įsigyti, įskaitant sumokėtus
+pajamos, kurias sudaro vertybinių popierių pardavimo ar kito perleidimo
+nuosavybėn ir įsigijimo kainų skirtumas. Vertybinių popierių įsigijimo kaina -
+tai išlaidos, padarytos vertybiniams popieriams įsigyti, įskaitant sumokėtus
 komisinį atlyginimą bei mokesčius (rinkliavas), susijusias su jų įsigijimu.
 Vertybinių popierių pardavimo kaina - visos pajamos, gautos pardavus
 vertybinius popierius.
@@ -1190,8 +1265,8 @@ popierių vertės padidėjimo pajamų apskaičiavimo, nuostolių apskaičiavimo 
 perkėlimo tvarką nustato Lietuvos Respublikos Vyriausybė. 
 Straipsnio
 pakeitimai:
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
  
  
      34
@@ -1228,11 +1303,13 @@ Nr.I-211,
 Nr.I-296,
 1993.10.28, Žin., 1993, Nr. 59-1144 
 Nr.
-I-561, 94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
+I-561,
+94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
  
  
 35 straipsnis.
@@ -1265,8 +1342,9 @@ savanoriškojo socialinio draudimo ligos, nėštumo ir gimdymo pašalpas;
 * 9) akcininkams
 grąžinami įnašai, neviršijantys buvusios jų vertės įnešant; savininkams
 (pajininkams) grąžinami įnašai, neviršijantys buvusios jų vertės įnešant,
-įskaitant grąžinamų įnašų vertės padidėjimą dėl turto indeksavimo ar perkainojimo
-Lietuvos Respublikos įstatymų ir Vyriausybės nutarimų nustatyta tvarka;
+įskaitant grąžinamų įnašų vertės padidėjimą dėl turto indeksavimo ar
+perkainojimo Lietuvos Respublikos įstatymų ir Vyriausybės nutarimų nustatyta
+tvarka;
 10)
 pajamos už parduotą gyventojui priklausiusį turtą, jei už jį gauta suma
 neviršija 1 PNM per mėnesį arba kai per metus parduotas vienas bet kokios
@@ -1299,13 +1377,13 @@ Politinių kampanijų finansavimo kontrolės įstatymo nustatyta tvarka politin�
 kampanijos metu gautos aukos ir dovanos;
 19)
 pajamos už asmeniniame pagalbiniame ūkyje pagamintą ir realizuotą žemės ūkio
-produkciją, išskyrus pajamas už realizuotus mėsėdžius švelniaplaukius
-žvėrelius, nutrijas ir jų produkciją, taip pat ūkininkų ir ūkio narių pajamos
-už ūkininkų ūkiuose, įregistruotuose Ūkininko ūkio įstatymo nustatyta tvarka,
-vykdomą žemės ūkio veiklą;
+produkciją, išskyrus pajamas už realizuotus mėsėdžius švelniaplaukius žvėrelius,
+nutrijas ir jų produkciją, taip pat ūkininkų ir ūkio narių pajamos už ūkininkų
+ūkiuose, įregistruotuose Ūkininko ūkio įstatymo nustatyta tvarka, vykdomą žemės
+ūkio veiklą;
 20)
-vertybinių popierių vertės padidėjimo pajamos už parduotus arba kitu būdu
-perleistus vertybinius popierius, įsigytus iki 1999 metų.
+vertybinių popierių vertės padidėjimo pajamos už parduotus arba kitu būdu perleistus
+vertybinius popierius, įsigytus iki 1999 metų.
  
 * Pastaba.
 Pajamų mokestis, apskaičiuotas nuo savininkams (pajininkams) grąžintų įnašų
@@ -1327,23 +1405,30 @@ Nr.I-296,
 Nr.I-430,
 94.04.12, Žin., 1994, Nr. 30-531
 Nr.
-I-561, 94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
+I-561,
+94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
 Nr.
-I-892, 95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
+I-892,
+95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 Nr.
-I-1400, 96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02)
+I-1400,
+96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02)
 Nr.
-VIII-166, 97.03.27, Žin., 1997, Nr.28-662 (97.03.29) 
+VIII-166,
+97.03.27, Žin., 1997, Nr.28-662 (97.03.29) 
 Nr.
-VIII-605, 98.01.08, Žin., 1998, Nr.8-162 (98.01.25)
+VIII-605,
+98.01.08, Žin., 1998, Nr.8-162 (98.01.25)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+Nr. VIII-1054,
+99.02.11, Žin., 1999, Nr.19-515 (99.02.24)
 Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
-Nr.
-VIII-1054, 99.02.11, Žin., 1999, Nr.19-515 (99.02.24)
-Nr.
-VIII-1476, 99.12.14, Žin., 1999, Nr.109-3174 (99.12.24)
+VIII-1476, 99.12.14, Žin., 1999,
+Nr.109-3174 (99.12.24)
  
  
      36
@@ -1368,8 +1453,8 @@ Fizinio
 asmens pajamų deklaracija (toliau - pajamų deklaracija) pateikiama nuolatinės
 gyvenamosios vietos valstybinei mokesčių inspekcijai. Užsienio valstybės
 piliečiai arba asmenys be pilietybės (kurie neturi registracijos vietos
-Lietuvoje) pajamų deklaraciją pateikia tai valstybinei mokesčių inspekcijai,
-kurios teritorijoje jie gyvena arba dirba. Pajamų deklaracija pateikiama šiais
+Lietuvoje) pajamų deklaraciją pateikia tai valstybinei mokesčių inspekcijai, kurios
+teritorijoje jie gyvena arba dirba. Pajamų deklaracija pateikiama šiais
 atvejais ir terminais:
 1)
 einamaisiais metais numatomų nuolat gauti pajamų deklaracija pateikiama iki
@@ -1386,10 +1471,11 @@ kai pajamos uždirbamos užsienio valstybėje, pajamų deklaracija pateikiama pe
 dienas, praėjus mėnesiui po sugrįžimo į Lietuvą ar pasibaigus pajamų šaltiniui
 užsienio valstybėje. Šios pajamos deklaruojamos neatsižvelgiant į tai, ar nuo
 jų buvo sumokėti mokesčiai užsienyje;
-5) patikslinta praėjusiais
-metais faktiškai gautų bendrųjų pajamų deklaracija, taip pat bendrųjų pajamų
-deklaracija, jei praėjusiais metais buvo gauta pajamų dėl vertybinių popierių
-vertės padidėjimo, pateikiama pasibaigus metams iki kitų metų vasario 1 dienos;
+5) patikslinta
+praėjusiais metais faktiškai gautų bendrųjų pajamų deklaracija, taip pat
+bendrųjų pajamų deklaracija, jei praėjusiais metais buvo gauta pajamų dėl
+vertybinių popierių vertės padidėjimo, pateikiama pasibaigus metams iki kitų
+metų vasario 1 dienos;
 6)
 einamaisiais metais gerokai pasikeitus (sumažėjus arba padidėjus) gaunamų
 pajamų dydžiui, fiziniai asmenys, anksčiau deklaravę numatomas gauti pajamas ir
@@ -1425,10 +1511,11 @@ Straipsnio
 pakeitimai:
 Nr.I-2280,
 1992.02.06, Žin., 1992, Nr. 7-150
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
 Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
-Nr.
-VIII-1476, 99.12.14, Žin., 1999, Nr.109-3174 (99.12.24)
+VIII-1476, 99.12.14, Žin., 1999,
+Nr.109-3174 (99.12.24)
  
  
 38 straipsnis.
@@ -1442,9 +1529,11 @@ mokesčių administravimo įstatymo nustatytais terminais.
 Straipsnio
 pakeitimai:
 Nr.
-I-849, 95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
+I-849,
+95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
  
 39 straipsnis.
@@ -1454,11 +1543,14 @@ administravimo įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-I-561, 94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
+I-561,
+94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
  
  
 40 straipsnis.
@@ -1468,12 +1560,11 @@ ir nustatytu laiku nesumoka į biudžetą, šį mokestį ir delspinigius apskai�
 ir iš įmonės išieško valstybinės mokesčių inspekcijos. Apskaičiuotas pajamų
 mokestis ir sankcijos sumokami Lietuvos Respublikos mokesčių administravimo
 įstatymo nustatyta tvarka.
-Jei pajamų
-deklaracijos nepateiktos arba pateiktose deklaracijose nurodytos mažesnės
-pajamos, iš turto savininko (pagrindinio buto nuomininko) bei kito asmens,
-gavusio pajamas už turto nuomą bei kitas pajamas, išieškoma apskaičiuota pajamų
-mokesčio suma ir bauda Lietuvos Respublikos mokesčių administravimo įstatymo
-nustatyta tvarka.
+Jei pajamų deklaracijos
+nepateiktos arba pateiktose deklaracijose nurodytos mažesnės pajamos, iš turto
+savininko (pagrindinio buto nuomininko) bei kito asmens, gavusio pajamas už
+turto nuomą bei kitas pajamas, išieškoma apskaičiuota pajamų mokesčio suma ir
+bauda Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
 Jei valstybinė
 mokesčių inspekcija nustato, kad gyventojo pajamos už parduotą turtą viršija 1
 PNM per mėnesį arba gyventojas pardavė per metus ne vieną tos pačios rūšies
@@ -1486,15 +1577,17 @@ pakeitimai:
 Nr.I-2280,
 1992.02.06, Žin., 1992, Nr. 7-150
 Nr.
-I-561, 94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
+I-561,
+94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17) 
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17) 
  
  
-            40(1) straipsnis.
-Neteko galios
+            40(1) straipsnis. Neteko galios
 Straipsnio
 pakeitimai:
 Nr.I-211,
@@ -1520,8 +1613,8 @@ bet kokios vertės vienos arba kitos rūšies daiktą ir neišskaito pajamų
 mokesčio.
      Žinios apie
 užsienio valstybių piliečiams ir asmenims be pilietybės Lietuvoje išmokėtas
-sumas pateikiamos Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų
-ministerijos.
+sumas pateikiamos Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos
+finansų ministerijos.
      Žinios,
 nurodytos šiame straipsnyje, pateikiamos per 10 dienų pasibaigus mėnesiui, kurį
 šios sumos buvo išmokėtos.
@@ -1537,17 +1630,22 @@ Nr.I-211,
 Nr.I-430,
 94.04.12, Žin., 1994, Nr. 30-531
 Nr.
-I-561, 94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
+I-561,
+94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
 Nr.
-I-849, 95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
+I-849,
+95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
 Nr.
-VIII-166, 97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+VIII-166,
+97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
  
  
      42
@@ -1567,7 +1665,6 @@ AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                     �
 LANDSBERGIS 
  
 Vilnius, 1990 m. spalio 5 d. Nr. I-641 
- 
  
 Lietuvos Respublikos fizinių
 asmenų
@@ -1614,14 +1711,14 @@ Nr.I-430,
  
 ________________
  
- 
 Pakeitimai:
  
 1.
 Lietuvos
 Respublikos Aukščiausioji Taryba - Atkuriamasis Seimas, Įstatymas 
 Nr.
-I-1055, 91.02.14, Žin., 1991, Nr. 6-170
+I-1055,
+91.02.14, Žin., 1991, Nr. 6-170
 DĖL
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO
 PAPILDYMO IR PAKEITIMO
@@ -1630,7 +1727,8 @@ PAPILDYMO IR PAKEITIMO
 Lietuvos
 Respublikos Aukščiausioji Taryba - Atkuriamasis Seimas, Įstatymas
 Nr.
-I-1514, 91.06.27, Žin., 1991, Nr. 19-501
+I-1514,
+91.06.27, Žin., 1991, Nr. 19-501
 DĖL
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 7 IR 26
 STRAIPSNIŲ PAPILDYMO BEI 24 STRAIPSNIO PAKEITIMO
@@ -1639,16 +1737,18 @@ STRAIPSNIŲ PAPILDYMO BEI 24 STRAIPSNIO PAKEITIMO
 Lietuvos
 Respublikos Aukščiausioji Taryba - Atkuriamasis Seimas, Įstatymas
 Nr.
-I-1580, 91.07.23, Žin., 1991, Nr. 22-569
+I-1580,
+91.07.23, Žin., 1991, Nr. 22-569
 DĖL
-LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 5
-STRAIPSNIO PAKEITIMO
+LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 5 STRAIPSNIO
+PAKEITIMO
  
 4.
 Lietuvos
 Respublikos Aukščiausioji Taryba - Atkuriamasis Seimas, Įstatymas 
 Nr.
-I-2280, 92.02.06, Žin., 1992, Nr. 7-150
+I-2280,
+92.02.06, Žin., 1992, Nr. 7-150
 DĖL
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO
 PAKEITIMO IR PAPILDYMO
@@ -1657,7 +1757,8 @@ PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Aukščiausioji Taryba - Atkuriamasis Seimas, Įstatymas 
 Nr.
-I-2529, 92.04.28, Žin., 1992, Nr. 14-388
+I-2529,
+92.04.28, Žin., 1992, Nr. 14-388
 DĖL
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO
 PAKEITIMO IR PAPILDYMO
@@ -1666,16 +1767,18 @@ PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-211, 93.07.13, Žin., 1993, Nr. 30-681 (93.07.21)
+I-211,
+93.07.13, Žin., 1993, Nr. 30-681 (93.07.21)
 DĖL
-LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO PAKEITIMO
-IR PAPILDYMO
+LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO
+PAKEITIMO IR PAPILDYMO
  
 7.
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-296, 93.10.28, Žin., 1993, Nr. 59-1144 (93.11.10)
+I-296,
+93.10.28, Žin., 1993, Nr. 59-1144 (93.11.10)
 DĖL
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO
 PAKEITIMO
@@ -1684,7 +1787,8 @@ PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-430, 94.04.12, Žin., 1994, Nr. 30-531 (94.04.22)
+I-430,
+94.04.12, Žin., 1994, Nr. 30-531 (94.04.22)
 DĖL
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO
 PAKEITIMO IR PAPILDYMO
@@ -1693,7 +1797,8 @@ PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-561, 94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
+I-561,
+94.07.20, Žin., 1994, Nr. 58-1135 (94.07.29)
 DĖL
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO
 PAKEITIMO IR PAPILDYMO
@@ -1702,7 +1807,8 @@ PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-849, 95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
+I-849,
+95.04.11, Žin., 1995, Nr. 34-814 (95.04.26)
 DĖL
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO
 PAKEITIMO IR PAPILDYMO
@@ -1711,7 +1817,8 @@ PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-892, 95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
+I-892,
+95.05.16, Žin., 1995, Nr. 44-1077 (95.05.26)
 DĖL
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO
 PAKEITIMO IR PAPILDYMO
@@ -1720,7 +1827,8 @@ PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-1159, 95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
+I-1159,
+95.12.28, Žin., 1996, Nr. 1-3 (96.01.05)
 DĖL
 LIETUVOS RESPUBLIKOS MOKESČIŲ ĮSTATYMŲ PAPILDYMO
  
@@ -1728,7 +1836,8 @@ LIETUVOS RESPUBLIKOS MOKESČIŲ ĮSTATYMŲ PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-1184, 96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
+I-1184,
+96.01.23, Žin., 1996, Nr. 11-285 (96.02.07)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
@@ -1737,16 +1846,18 @@ PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-1251, 96.03.28, Žin., 1996, Nr. 35-858 (96.04.19)
+I-1251,
+96.03.28, Žin., 1996, Nr. 35-858 (96.04.19)
 LIETUVOS
-RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 24 STRAIPSNIO PAPILDYMO
-ĮSTATYMAS
+RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 24 STRAIPSNIO
+PAPILDYMO ĮSTATYMAS
  
 15.
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-1309, 96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
+I-1309,
+96.04.30, Žin., 1996, Nr. 46-1104 (96.05.17)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 12, 13, 14, 19,
 20, 21, 22, 31, 32, 38, 39, 40, 41
@@ -1759,7 +1870,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-1400, 96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02)
+I-1400,
+96.06.25, Žin., 1996, Nr. 62-1464 (96.07.02)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 7, 15, 16, 24, 35
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
@@ -1769,7 +1881,8 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-1461, 96.07.10, Žin., 1996, Nr. 73-1747 (96.07.31)
+I-1461,
+96.07.10, Žin., 1996, Nr. 73-1747 (96.07.31)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 7 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
@@ -1778,7 +1891,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-I-1483, 96.07.11, Žin., 1996, Nr. 71-1716 (96.07.26)
+I-1483,
+96.07.11, Žin., 1996, Nr. 71-1716 (96.07.26)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 24 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
@@ -1789,7 +1903,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-166, 97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
+VIII-166,
+97.03.27, Žin., 1997, Nr.28-662 (97.03.29)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 2, 3, 6, 7, 24,
 26, 29, 35, 41 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
@@ -1800,7 +1915,8 @@ RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 2, 3, 6, 7, 2
 Lietuvos
 Respublikos Seimas, Įstatymas 
 Nr.
-VIII-291, 97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
+VIII-291,
+97.06.24, Žin., 1997, Nr.61-291 (97.06.24)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO PAPILDYMO 26(1)
 STRAIPSNIU IR 1, 24, 26, 27, 28, 30 STRAIPSNIŲ PAKEITIMO
@@ -1809,16 +1925,18 @@ STRAIPSNIU IR 1, 24, 26, 27, 28, 30 STRAIPSNIŲ PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-266, 97.06.17, Žin., 1997, Nr.63-1474 (97.07.02)
+VIII-266,
+97.06.17, Žin., 1997, Nr.63-1474 (97.07.02)
 LIETUVOS
-RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 26 STRAIPSNIO
-PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 26 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
  
 23.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-605, 98.01.08, Žin., 1998, Nr.8-162 (98.01.25)
+VIII-605,
+98.01.08, Žin., 1998, Nr.8-162 (98.01.25)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 35 STRAIPSNIO
 PAPILDYMO ĮSTATYMAS
@@ -1826,8 +1944,8 @@ PAPILDYMO ĮSTATYMAS
 24.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.
-VIII-865, 98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
+Nr. VIII-865,
+98.09.29, Žin., 1998, Nr.90-2481 (98.10.14)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 1, 2, 9, 24, 26,
 26(1), 27, 28, 30, 31, 32, 33, 34, 35, 41 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
@@ -1836,8 +1954,8 @@ RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 1, 2, 9, 24, 
 25.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.
-VIII-1054, 99.02.11, Žin., 1999, Nr.19-515 (99.02.24)
+Nr. VIII-1054,
+99.02.11, Žin., 1999, Nr.19-515 (99.02.24)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 35 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
@@ -1845,8 +1963,8 @@ PAKEITIMO ĮSTATYMAS
 26.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.
-VIII-1112, 99.03.30, Žin., 1999, Nr.33-947 (99.04.14)
+Nr. VIII-1112,
+99.03.30, Žin., 1999, Nr.33-947 (99.04.14)
 LIETUVOS RESPUBLIKOS
 FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 24 IR 26 STRAIPSNIŲ PAPILDYMO
 ĮSTATYMAS
@@ -1854,8 +1972,8 @@ FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 24 IR 26 STRAIPSNIŲ PAPI
 27.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.
-VIII-1217, 99.06.08, Žin., 1999, Nr.55-1770 (99.06.23)
+Nr. VIII-1217,
+99.06.08, Žin., 1999, Nr.55-1770 (99.06.23)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 30 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
@@ -1864,7 +1982,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-1254, 99.06.22, Žin., 1999, Nr.60-1950 (99.07.09)
+VIII-1254,
+99.06.22, Žin., 1999, Nr.60-1950 (99.07.09)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 4 STRAIPSNIO
 PAPILDYMO ĮSTATYMAS
@@ -1875,7 +1994,8 @@ PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-1303, 99.07.07, Žin., 1999, Nr.66-2121 (99.07.30)
+VIII-1303,
+99.07.07, Žin., 1999, Nr.66-2121 (99.07.30)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 2, 7, 33
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
@@ -1884,42 +2004,48 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 30.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr.
-VIII-1476, 99.12.14, Žin., 1999, Nr.109-3174 (99.12.24)
+Nr. VIII-1476, 99.12.14, Žin., 1999,
+Nr.109-3174 (99.12.24)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 33,
 35, 37 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 31.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1495, 99.12.23, Žin., 1999, Nr.113-3290
-(99.12.30)
+Nr. VIII-1495, 99.12.23, Žin., 1999,
+Nr.113-3290 (99.12.30)
 LIETUVOS
 RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 24
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 32.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1520, 00.01.04, Žin., 2000, Nr.5-127 (00.01.19)
+Nr. VIII-1520, 00.01.04, Žin., 2000,
+Nr.5-127 (00.01.19)
 LIETUVOS
-RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 11
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 11 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja
 nuo 2001 m. sausio 1 d.
  
 33.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1615, 00.04.11, Žin., 2000, Nr.34-955
-(00.04.26)
+Nr. VIII-1615, 00.04.11, Žin., 2000,
+Nr.34-955 (00.04.26)
 FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 4
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja
 nuo 2000 m. gegužės 1 d.
  
-***
-Pabaiga ***
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1740, 00.06.20, Žin., 2000,
+Nr.53-1522 (00.06.30)
+FIZINIŲ ASMENŲ PAJAMŲ MOKESČIO LAIKINOJO ĮSTATYMO 2
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2000.04.26)
+Redagavo: Aušrinė Trapinskienė (2000.06.30)
 
