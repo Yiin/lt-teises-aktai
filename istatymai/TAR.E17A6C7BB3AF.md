@@ -274,7 +274,8 @@ organizuoja ir įgyvendina regionines kaimo plėtros programas;
 5)
 (neteko galios);
 6) organizuoja
-valstybinės melioracijos ir hidrotechnikos įrenginių priežiūros vykdymą;
+melioracijos darbų ir melioracijos statinių naudojimo valstybinės priežiūros
+atlikimą;
 7) (neteko galios);
 8) parduoda ar kitaip perleidžia
 privačion nuosavybėn valstybinę žemę, išskyrus privatizuojamiems nekilnojamojo
@@ -302,6 +303,9 @@ Nr. IX-681,
 Nr.
 IX-1511,
 2003-04-17, Žin., 2003, Nr. 42-1915 (2003-05-01)
+Nr.
+IX-2290,
+2004-06-22, Žin., 2004, Nr. 103-3754 (2004-07-01)
  
 11 straipsnis. Apskrities viršininko
 įgaliojimai gamtos išteklių naudojimo ir aplinkos apsaugos klausimais 
@@ -349,9 +353,9 @@ teritorijoje;
 6) organizuoja
 stichinių nelaimių, avarijų padarinių likvidavimą, paieškos ir gelbėjimo
 darbus;
-7) steigia, reorganizuoja,
-likviduoja valstybės įmones, valdo apskričių viršininkams perduotų įmonių
-valstybei priklausančias akcijas;
+7) steigia,
+reorganizuoja, likviduoja valstybės įmones, valdo apskričių viršininkams
+perduotų įmonių valstybei priklausančias akcijas;
 8) Vyriausybės
 įgaliotos institucijos nustatyta tvarka atstovauja valstybei akcinėse
 bendrovėse ar uždarosiose akcinėse bendrovėse, kuriose valstybei priklausančių
@@ -507,7 +511,8 @@ Nr. IX-619,
 Apskrities viršininkas inicijuoja regiono plėtros
 tarybos sudarymą. Regiono plėtros tarybos sudarymo tvarką bei funkcijas nustato
 Regioninės plėtros įstatymas.
-Straipsnio žymėjimas pakeistas:
+Straipsnio žymėjimas
+pakeistas:
 Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
 Straipsnio pakeitimai:
@@ -531,8 +536,7 @@ viršininko administracija yra juridinis asmuo, turi antspaudą su Lietuvos
 valstybės herbu ir apskrities pavadinimu.
 Apskrities viršininko administracijos struktūrą ir jos
 nuostatus tvirtina apskrities viršininkas pagal Vyriausybės patvirtintus
-apskrities viršininko administracijos tipinę struktūrą ir jos tipinius
-nuostatus.
+apskrities viršininko administracijos tipinę struktūrą ir jos tipinius nuostatus.
 Straipsnio žymėjimas
 pakeistas:
 Nr. VIII-33,
@@ -563,8 +567,7 @@ taryba išsirenka pirmininką ir patvirtina savo nuostatus;
 vykdo kitus Lietuvos Respublikos įstatymų, Vyriausybės ir Ministro Pirmininko
 jam suteiktus įgaliojimus.
             Kai
-apskrities viršininko nėra, jo pareigas eina apskrities viršininko
-pavaduotojas.
+apskrities viršininko nėra, jo pareigas eina apskrities viršininko pavaduotojas.
 Straipsnio žymėjimas
 pakeistas:
 Nr. VIII-33,
@@ -598,8 +601,7 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
  
             21
 straipsnis. Neteko galios.
-Straipsnio žymėjimas
-pakeistas:
+Straipsnio žymėjimas pakeistas:
 Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31) 
 Straipsnio pakeitimai:
@@ -612,7 +614,7 @@ Nr. VIII-896,
  
  
 RESPUBLIKOS
-PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS 
+PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS 
  
 _________
  
@@ -726,10 +728,10 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. IX-471,
 2001-07-12, Žin., 2001, Nr. 66-2412 (2001-08-01)
-APSKRITIES VALDYMO ĮSTATYMO 9
-STRAIPSNIO PAKEITIMO ĮSTATYMO IR APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO
-PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIAIS
-GALIOS ĮSTATYMAS
+APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO
+PAKEITIMO ĮSTATYMO IR APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO PAKEITIMO
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIAIS GALIOS
+ĮSTATYMAS
  
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -801,12 +803,20 @@ VALDYMO ĮSTATYMO 9 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
+20.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-2290,
+2004-06-22, Žin., 2004, Nr. 103-3754 (2004-07-01)
+APSKRITIES
+VALDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-05-14)
+Aušra Bodin (2004-07-01)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
 
