@@ -15,8 +15,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Redagavo:
-Ramunė Lūžaitė (1997.01.21)
+Redagavo: Ramunė
+Lūžaitė (1997.07.11)
+ 
+Įstatymas
+paskelbtas: Žin., 1991,
+Nr.36-973
  
 Neoficialus
 įstatymo tekstas
@@ -27,24 +31,24 @@ Pakeitimai:
 
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.
-1-2076, 91.12.10, Žin., 1991, Nr. 36-979
+Nr.I-2076,
+91.12.10, Žin., 1991, Nr. 36-979
 DĖL
 LIETUVOS RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 35 STRAIPSNIO DALINIO PAKEITIMO
  
 2.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.
-1-215, 93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
+Nr.I-215,
+93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
 DĖL
 LIETUVOS RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO PAKEITIMO
  
 3.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.
-1-475, 94.05.24, Žin., 1994, Nr. 42-759 (94.06.03)
+Nr.I-475,
+94.05.24, Žin., 1994, Nr. 42-759 (94.06.03)
 DĖL
 LIETUVOS RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO PAKEITIMO
  
@@ -52,7 +56,7 @@ LIETUVOS RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
+I-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
 DĖL
 LIETUVOS RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO PAKEITIMO IR PAPILDYMO
  
@@ -60,7 +64,7 @@ LIETUVOS RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-1190, 96.02.01, Žin., 1996, Nr. 15-385 (96.02.17)
+I-1190, 96.02.01, Žin., 1996, Nr. 15-385 (96.02.17)
 LIETUVOS
 RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
@@ -68,7 +72,7 @@ RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
 LIETUVOS
 RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 5, 12, 15, 17, 18, 24-1, 26, 29, 30, 32,
 41 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
@@ -77,7 +81,7 @@ RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 5, 12, 15, 17, 18, 24-1, 26, 29, 30, 32,
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-1-1296, 96.04.18, Žin., 1996, Nr. 43-1043 (96.05.10) LIETUVOS RESPUBLIKOS DARBO
+I-1296, 96.04.18, Žin., 1996, Nr. 43-1043 (96.05.10) LIETUVOS RESPUBLIKOS DARBO
 SUTARTIES ĮSTATYMO 26 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 8.
@@ -104,6 +108,17 @@ VIII-75, 97.01.16, Žin., 1997, Nr.6-88 (97.01.22)
 LIETUVOS
 RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 29 STRAIPSNIO PAPILDYMO ĮSTATYMAS 
  
+12.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-286,
+97.06.24, Žin., 1997, Nr.66-1593 (97.07.11)
+LIETUVOS
+RESPUBLIKOS DARBO SUTARTIES ĮSTATYMO 26 IR 29 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+ 
+Įstatymas įsigalioja
+nuo 1997 m. spalio 1 d.
+ 
 ***
 Pabaiga *** 
  
@@ -124,10 +139,10 @@ straipsnis.Įstatymo reguliuojami santykiai
 tvarką.
      Darbo 
 sutarčių  sudarymo, pakeitimo ir nutraukimo  su renkamaisiais,  užimančiais 
-pareigas  konkurso  tvarka  ir atestuojamaisiais darbuotojais,  valstybinės 
-ir  vykdomosios valdžios,  teismo  ir prokuratūros tarnautojais,  komercinių
-bankų ir kitų kredito įstaigų darbuotojais, profesionaliosios karo tarnybos
-kariais, namudininkais, mokiniais, stažuotojais, riboto  darbingumo  ir  kitais
+pareigas  konkurso  tvarka  ir atestuojamaisiais darbuotojais,  valstybinės  ir 
+vykdomosios valdžios,  teismo  ir prokuratūros tarnautojais,  komercinių bankų
+ir kitų kredito įstaigų darbuotojais, profesionaliosios karo tarnybos kariais,
+namudininkais, mokiniais, stažuotojais, riboto  darbingumo  ir  kitais
 asmenimis  ypatumus  nustato įstatymai  ir  kiti norminiai  aktai,
 reguliuojantys  tokių darbuotojų ir karių darbo santykius, jeigu šis įstatymas
 to nedraudžia.
@@ -144,10 +159,10 @@ asmenims  darbus,  nustato  Lietuvos Respublikos Vyriausybė.
  
 Straipsnio
 pakeitimai:
+Nr.I-215,
+93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
 Nr.
-1-215, 93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
-Nr.
-1-1190, 96.02.01, Žin., 1996, Nr. 15-385 (96.02.17)
+I-1190, 96.02.01, Žin., 1996, Nr. 15-385 (96.02.17)
 Nr.
 I-1549, 96.09.25, Žin., 1996, Nr.101-2303 (96.10.18)
  
@@ -179,12 +194,12 @@ nesusijusių su dalykinėmis darbuotojų savybėmis.
 straipsnis.Darbo sutartis
  
      Darbo
-sutartis yra darbuotojo ir darbdavio susitarimas, kuriuo darbuotojas
-įsipareigoja dirbti tam tikros profesijos, specialybės, kvalifikacijos darbą
-arba eiti tam tikras pareigas, paklusdamas  nustatytai  vidaus  darbo tvarkai,
-o darbdavys įsipareigoja mokėti darbuotojui darbo užmokestį ir užtikrinti
-darbo  sąlygas,  numatytas  darbo įstatymuose, kolektyvinėje sutartyje, kituose
-norminiuose aktuose ir šalių susitarimu.
+sutartis yra darbuotojo ir darbdavio susitarimas, kuriuo darbuotojas įsipareigoja
+dirbti tam tikros profesijos, specialybės, kvalifikacijos darbą arba eiti tam
+tikras pareigas, paklusdamas  nustatytai  vidaus  darbo tvarkai, o darbdavys
+įsipareigoja mokėti darbuotojui darbo užmokestį ir užtikrinti darbo  sąlygas, 
+numatytas  darbo įstatymuose, kolektyvinėje sutartyje, kituose norminiuose
+aktuose ir šalių susitarimu.
  
      4
 straipsnis.Darbuotojas
@@ -207,10 +222,10 @@ Lietuvos Respublikos Vyriausybė.
  
 Straipsnio
 pakeitimai:
+Nr.I-215,
+93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
 Nr.
-1-215, 93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
-Nr.
-1-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
+I-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
  
  
      5
@@ -233,7 +248,7 @@ pareigų  Darbo  sutarties įstatymo klausimais.
 Straipsnio
 pakeitimai:
 Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08) 
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08) 
  
  
      6
@@ -351,7 +366,7 @@ kitais įstatymų numatytais atvejais.
 Straipsnio
 pakeitimai:
 Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
  
  
      13
@@ -402,7 +417,7 @@ Darbdavys turi  teisę pareikalauti ir kitų įstatymuose numatytų dokumentų.
 Straipsnio
 pakeitimai:
 Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
 Nr.
 I-1599, 96.10.22, Žin., 1996, Nr.106-2429 (96.11.06)
  
@@ -449,7 +464,7 @@ reglamentuojančiais jo darbo sąlygas.
 Straipsnio
 pakeitimai: 
 Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
  
  
      18
@@ -458,16 +473,16 @@ straipsnis. Giminaičių darbo apribojimas
      Draudžiama
 eiti tarnautojų pareigas vienoje valstybės ir savivaldybės institucijoje bei
 valstybės (vietos savivaldybės) įmonėje asmenims, kuriuos sieja artimi
-giminystės ar svainystės ryšiai (tėvai, įtėviai, sutuoktiniai, broliai,
-seserys, vaikai, įvaikiai,  taip pat sutuoktinių broliai, seserys, tėvai ir
-vaikai), jeigu jų tarnyba kartu yra susijusi su vieno iš jų tiesioginiu
-pavaldumu kitam arba su vieno teise kontroliuoti kitą. Šios taisyklės išimtis
-gali nustatyti Lietuvos Respublikos Vyriausybė.
+giminystės ar svainystės ryšiai (tėvai, įtėviai, sutuoktiniai, broliai, seserys,
+vaikai, įvaikiai,  taip pat sutuoktinių broliai, seserys, tėvai ir vaikai),
+jeigu jų tarnyba kartu yra susijusi su vieno iš jų tiesioginiu pavaldumu kitam
+arba su vieno teise kontroliuoti kitą. Šios taisyklės išimtis gali nustatyti
+Lietuvos Respublikos Vyriausybė.
  
 Straipsnio
 pakeitimai:
 Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
  
  
      19
@@ -488,9 +503,10 @@ kitais įstatymuose numatytais atvejais.
 priimti į darbą šio straipsnio pirmojoje dalyje numatytais  atvejais  gali būti
 ne vėliau kaip per mėnesį ginčijamas teismine tvarka.
      Teismui
-nustačius, kad atsisakymas priimti į darbą yra neteisėtas, darbdavys teismo sprendimu
-įpareigojamas priimti šį asmenį į darbą nuo jo kreipimosi dėl įdarbinimo dienos
-ir sumokėti jam už tą laiką minimalaus darbo užmokesčio dydžio kompensaciją. 
+nustačius, kad atsisakymas priimti į darbą yra neteisėtas, darbdavys teismo
+sprendimu įpareigojamas priimti šį asmenį į darbą nuo jo kreipimosi dėl
+įdarbinimo dienos ir sumokėti jam už tą laiką minimalaus darbo užmokesčio
+dydžio kompensaciją. 
  
  
 III skyrius. Darbo sutarties vykdymas ir
@@ -578,10 +594,9 @@ ne dėl darbuotojo kaltės yra padėtis įmonėje, kai darbdavys neduoda darbuot
 darbo sutartyje sulygto darbo dėl tam tikrų objektyvių priežasčių (gamybinių ir
 kt.).
      Prastova,
-trunkanti ne ilgiau kaip darbo dieną, žymima darbo laiko apskaitos
-žiniaraštyje, o viršijanti darbo dienos trukmę - įforminama dar ir darbdavio
-įsakymu (potvarkiu), su kuriuo supažindinami dėl prastovos nedirbantys
-darbuotojai.
+trunkanti ne ilgiau kaip darbo dieną, žymima darbo laiko apskaitos žiniaraštyje,
+o viršijanti darbo dienos trukmę - įforminama dar ir darbdavio įsakymu
+(potvarkiu), su kuriuo supažindinami dėl prastovos nedirbantys darbuotojai.
      Prastovos
 laikui darbuotojai, atsižvelgiant į jų profesiją, specialybę,  kvalifikaciją 
 ir sveikatos būklę, jų raštišku sutikimu perkeliami į kitą darbą toje įmonėje.
@@ -593,11 +608,11 @@ priklausančių aplinkybių, jam mokamas iki perkėlimo buvęs vidutinis darbo
 užmokestis.
      Jeigu 
 darbuotojui prastovos atveju nepasiūloma įmonėje esančio kito darbo, kurį jis
-galėtų dirbti nepakenkdamas savo profesijai, specialybei, kvalifikacijai, sveikatos
-būklei, jam už kiekvieną prastovos valandą mokamas jo dviejų trečdalių
-vidutinio  valandinio  darbo užmokesčio dydžio, buvusio iki prastovos, atlygis,
-bet ne mažesnis nei valstybės patvirtintas minimalus valandinis atlygis už
-kiekvieną prastovos valandą.
+galėtų dirbti nepakenkdamas savo profesijai, specialybei, kvalifikacijai,
+sveikatos būklei, jam už kiekvieną prastovos valandą mokamas jo dviejų
+trečdalių vidutinio  valandinio  darbo užmokesčio dydžio, buvusio iki
+prastovos, atlygis, bet ne mažesnis nei valstybės patvirtintas minimalus
+valandinis atlygis už kiekvieną prastovos valandą.
      Jeigu
 darbuotojas atsisako pasiūlyto darbo, kurį jis galėtų dirbti   nepakenkdamas  
 savo   profesijai,  specialybei, kvalifikacijai ir sveikatos būklei, jam
@@ -614,7 +629,7 @@ atvejai.
 Straipsnio
 pakeitimai:
 Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
  
  
      25
@@ -703,17 +718,25 @@ kai  komercinio  banko laikinasis administratorius (administratorius)
 įgyvendina jam suteiktą teisę nutraukti darbo sutartį su Lietuvos Respublikos
 komercinių bankų įstatymo 40 straipsnio  trečiojoje dalyje ir 47 straipsnio
 ketvirtojoje dalyje nurodytais darbuotojais.
+    
+[26 straipsnio 1 dalis papildyta 22 punktu nuo 1997 m. spalio 1 d.]
+    
+22) kai bankrutuojančios įmonės administratorius įgyvendina jam suteiktą teisę
+nutraukti darbo sutartį su Lietuvos Respublikos įmonių bankroto įstatymo 14
+straipsnio 6 dalies 2 punkte nurodytais darbuotojais.
  
 Straipsnio
 pakeitimai:
+Nr.I-215,
+93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
 Nr.
-1-215, 93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
+I-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
 Nr.
-1-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
 Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
-Nr.
-1-1296, 96.04.18, Žin., 1996, Nr. 43-1043 (96.05.10)
+I-1296, 96.04.18, Žin., 1996, Nr. 43-1043 (96.05.10)
+Nr. VIII-286,
+97.06.24, Žin., 1997, Nr.66-1593 (97.07.11)
  
  
      27
@@ -761,8 +784,8 @@ pareiškimu sprendžia darbo ginčus nagrinėjantys organai.
  
      28-1
 straipsnis. Darbo sutarties nutraukimas ne dėl nuo darbuotojo
-                     
-priklausančių aplinkybių
+    
+                 priklausančių aplinkybių
  
      Darbuotojas 
 turi  teisę  nutraukti  neterminuotą darbo sutartį, taip pat terminuotą darbo
@@ -778,12 +801,14 @@ dienos.
 Straipsnio
 pakeitimai:
 Nr.
-1-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
+I-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
  
  
      29
 straipsnis.Darbo sutarties nutraukimas darbdavio iniciatyva
  
+      [29
+straipsnio 1 dalies redakcija iki 1997 m. spalio 1 d.]
      Darbo
 sutarties nutraukimo darbdavio iniciatyva pagrindai:
      1)
@@ -801,7 +826,55 @@ keturiasdešimt kalendorinių dienų per paskutiniuosius dvylika mėnesių, jei
 įstatymuose nenustatyta, kad tam tikros ligos atveju darbo vieta (pareigos)
 paliekama ilgesnį  laiką.  Darbuotojams,  netekusiems  darbingumo  dėl
 suluošinimo darbe ar profesinės ligos, darbo vieta (pareigos) paliekama,  kol 
-bus  atgautas  darbingumas arba nustatytas invalidumas;
+bus  atgautas  darbingumas arba nustatytas invalidumas;
+     5)
+kai darbuotojas, atleistas iš krašto apsaugos tarnybos, daugiau kaip du
+mėnesius po atleidimo negrįžo į darbą;
+     6)
+kai darbuotojas nerūpestingai atliko pareigas ar kitaip pažeidė darbo drausmę,
+jei prieš tai jam nors vieną kartą per paskutiniuosius  dvylika  mėnesių  buvo 
+taikytos drausminės nuobaudos;
+     7)
+kai darbuotojas įvykdo turto grobimą darbovietėje arba kai  darbuotojas 
+tyčine  neteisėta veika padaro darbdaviui nuostolių;
+     8)
+kai įsiteisėja teismo nuosprendis, kuriuo darbuotojas nuteisiamas už tyčinį
+nusikaltimą;
+     9) 
+kai  darbuotojas  darbo metu darbe yra neblaivus, apsvaigęs nuo narkotikų ar
+toksinių medžiagų;
+     10) 
+kai  darbuotojas  neatvyksta  į darbą be svarbių priežasčių per visą darbo
+dieną (pamainą);
+     11) 
+kai darbuotojas atskleidžia įmonės komercines bei technologines paslaptis arba
+jas praneša konkuruojančiai įmonei;
+     12)
+kai darbuotojai, turintys įgalinimus duoti privalomus vykdyti  patvarkymus 
+(nurodymus),  vieną  kartą  šiurkščiai pažeidžia darbo pareigas;
+    
+13) kai darbuotojas netinka eiti pareigų pagal atestavimo rezultatus.
+    
+ [29 straipsnio 1 dalies redakcija nuo 1997 m. spalio 1 d.]
+      Darbo
+sutarties nutraukimo darbdavio iniciatyva pagrindai:
+     1)
+kai įmonė likviduojama, apribojama ar nutraukiama bankrutuojančios įmonės ūkinė
+veikla;
+     2)
+kai sumažinamas darbuotojų skaičius dėl gamybos ar darbo organizavimo
+pakeitimų;
+     3)
+kai paaiškėja, jog darbuotojas negali tinkamai atlikti jam pavesto darbo dėl
+pablogėjusios sveikatos arba dėl to, kad jis neturi reikiamos kvalifikacijos;
+     4)
+kai darbuotojas dėl laikinojo nedarbingumo neatvyksta į darbą daugiau kaip
+šimtą dvidešimt kalendorinių dienų iš eilės arba daugiau kaip šimtą
+keturiasdešimt kalendorinių dienų per paskutiniuosius dvylika mėnesių, jei įstatymuose
+nenustatyta, kad tam tikros ligos atveju darbo vieta (pareigos) paliekama
+ilgesnį  laiką.  Darbuotojams,  netekusiems  darbingumo  dėl suluošinimo darbe
+ar profesinės ligos, darbo vieta (pareigos) paliekama,  kol  bus  atgautas 
+darbingumas arba nustatytas invalidumas;
      5)
 kai darbuotojas, atleistas iš krašto apsaugos tarnybos, daugiau kaip du
 mėnesius po atleidimo negrįžo į darbą;
@@ -843,10 +916,10 @@ iniciatyva neleidžiama darbuotojų atleisti iš darbo jų laikinojo nedarbingum
 laikotarpiu (išskyrus atleidimą pagal šio straipsnio 1 ir 4 punktus), taip pat
 darbuotojų atostogų  metu  (išskyrus atleidimą pagal šio straipsnio 1 punktą). 
 Jeigu  darbo  sutartis  nutraukta pažeidžiant šią nuostatą, jos nutraukimo
-diena laikoma kita po atostogų ar kita po  nedarbingumo pasibaigimo darbo diena.
-Už laiką, kuriam pratęstas darbo sutarties nutraukimas, darbuotojui išmokamas
-dvigubas  darbo  užmokestis,  įskaitant per šį laiką gautą nedarbingumo pašalpą
-ir apmokėjimą už atostogas.
+diena laikoma kita po atostogų ar kita po  nedarbingumo pasibaigimo darbo
+diena. Už laiką, kuriam pratęstas darbo sutarties nutraukimas, darbuotojui
+išmokamas dvigubas  darbo  užmokestis,  įskaitant per šį laiką gautą
+nedarbingumo pašalpą ir apmokėjimą už atostogas.
      Draudžiama 
 atleisti darbuotoją iš darbo dėl politinių įsitikinimų, pažiūros į religiją,
 dėl tautybės, pilietybės ir kitų  aplinkybių,  nesusijusių  su  dalykinėmis 
@@ -854,14 +927,16 @@ darbuotojo savybėmis.
  
 Straipsnio
 pakeitimai:
+Nr.I-215,
+93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
 Nr.
-1-215, 93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
+I-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
 Nr.
-1-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
-Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
 Nr.
 VIII-75, 97.01.16, Žin., 1997, Nr.6-88 (97.01.22)
+Nr. VIII-286,
+97.06.24, Žin., 1997, Nr.66-1593 (97.07.11)
  
  
      30
@@ -888,10 +963,10 @@ straipsnių nuostatos.
  
 Straipsnio
 pakeitimai:
+Nr.I-215,
+93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
 Nr.
-1-215, 93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
-Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
  
  
      31
@@ -902,25 +977,25 @@ sutartis,  kai  jos  sudėtinės  dalys  (dalis) prieštarauja  įstatymų
 draudžiančioms  nuostatoms  ir  tų prieštaravimų  negalima  pašalinti, taip pat
 nėra galimybės perkelti darbuotojo, jam sutinkant, į kitą darbą, nutraukiama.
      Jei
-darbuotojas atsisako siūlomo darbo, nutraukiant darbo sutartį, jam išmokama
-vieno vidutinio mėnesinio darbo užmokesčio dydžio išeitinė pašalpa, o jei nėra
-darbo, į kurį darbuotojas galėtų būti perkeltas, jam išmokama trijų vidutinių
+darbuotojas atsisako siūlomo darbo, nutraukiant darbo sutartį, jam išmokama vieno
+vidutinio mėnesinio darbo užmokesčio dydžio išeitinė pašalpa, o jei nėra darbo,
+į kurį darbuotojas galėtų būti perkeltas, jam išmokama trijų vidutinių
 mėnesinių darbo užmokesčių dydžio išeitinė pašalpa.
      Ginčus 
 dėl  darbo sutarties nutraukimo ar jos dalių, prieštaraujančių  įstatymams, 
 pripažinimo  negaliojančiomis sprendžia teismas.
      Darbo 
 sutartis,  sudaryta  pažeidžiant  įstatymus  ar tarptautinius susitarimus,
-reglamentuojančius laikinai atvykusių į  Lietuvos  Respubliką  asmenų
-įdarbinimą (šio įstatymo 4 straipsnio trečioji dalis), turi būti nutraukta.
-Darbdaviui ar jo įgaliotam asmeniui, padariusiam tokį pažeidimą, taikomos
-įstatymų numatytos sankcijos.
+reglamentuojančius laikinai atvykusių į  Lietuvos  Respubliką  asmenų įdarbinimą
+(šio įstatymo 4 straipsnio trečioji dalis), turi būti nutraukta. Darbdaviui ar
+jo įgaliotam asmeniui, padariusiam tokį pažeidimą, taikomos įstatymų numatytos
+sankcijos.
  
  
      32
 straipsnis. Apribojimai nutraukti darbo sutartį reorganizuojant
-             
-      įmonę
+         
+          įmonę
  
      Įmonės
 savininko, jos pavaldumo, steigėjo ar pavadinimo pasikeitimas darbo sutarties
@@ -932,7 +1007,7 @@ darbuotojo darbo santykiai tęsiasi.
 Straipsnio
 pakeitimai:
 Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
  
  
      33
@@ -971,10 +1046,10 @@ sprendimu turi būti grąžintas į pirmesnįjį darbą.
  
 Straipsnio
 pakeitimai:
-Nr.
-1-215, 93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
-Nr.
-1-475, 94.05.24, Žin., 1994, Nr. 42-759 (94.06.03)
+Nr.I-215,
+93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
+Nr.I-475,
+94.05.24, Žin., 1994, Nr. 42-759 (94.06.03)
  
  
      34
@@ -1010,19 +1085,19 @@ darbuotoją iš darbo darbdavio iniciatyva, kai nėra darbuotojo kaltės, taip p
 šio įstatymo 26 straipsnio 9, 10 ir 11 punktuose nurodytais pagrindais ir kai
 darbuotojas atsisako persikelti į kitą vietovę, perkeliant tik įmonės padalinį,
 kuriame jis dirba (26 straipsnio 8 punktas), bei kai darbuotojas neišrenkamas 
-naujam  terminui  į  ankstesnes pareigas arba atšaukiamas iš jų nesant jo
-kaltės (26 straipsnio 12 punktas), leidžiama, jei negalima darbuotojo perkelti
-jo sutikimu į kitą darbą.
+naujam  terminui  į  ankstesnes pareigas arba atšaukiamas iš jų nesant jo kaltės
+(26 straipsnio 12 punktas), leidžiama, jei negalima darbuotojo perkelti jo
+sutikimu į kitą darbą.
  
 Straipsnio
 pakeitimai:
-Nr.
-1-215, 93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
+Nr.I-215,
+93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
  
      35
 straipsnis.Apribojimai nutraukiant darbo sutartį su nėščia
-            
-      moterimi ir motina, auginančia vaiką iki 3 metų
+           
+       moterimi ir motina, auginančia vaiką iki 3 metų
  
      Darbo
 sutartis darbdavio iniciatyva ir darbdavio valia negali būti nutraukta su
@@ -1038,8 +1113,8 @@ sutartis nutraukiama pagal šio įstatymo 29 straipsnio 1 punktą.
  
 Straipsnio
 pakeitimai:
-Nr.
-1-2076, 91.12.10, Žin., 1991, Nr. 36-979
+Nr.I-2076,
+91.12.10, Žin., 1991, Nr. 36-979
  
      36
 straipsnis.Apribojimai nutraukiant darbo sutartį su asmenimis,
@@ -1085,8 +1160,8 @@ kvalifikaciją ir darbo našumą.
  
 Straipsnio
 pakeitimai:
-Nr.
-1-215, 93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
+Nr.I-215,
+93.07.14, Žin., 1993, Nr. 30-684 (93.07.21)
  
  
      38
@@ -1126,11 +1201,11 @@ svarbioms priežastims (šio įstatymo 28 straipsnio antroji ir  ketvirtoji 
 dalys),  darbuotojui  išmokama jo vidutinio mėnesinio darbo užmokesčio dydžio
 išeitinė pašalpa. Atleidžiant iš darbo pagal šio įstatymo 26 straipsnio 7
 punktą, taip pat pagal 26 straipsnio 12 punkto nuostatą, numatančią darbuotojo
-atleidimą iš darbo, kai jis neišrenkamas ar nepaskiriamas į eitas pareigas
-naujam terminui arba kai atšaukiamas iš pareigų prieš terminą įstatymų
-numatytais atvejais nesant darbuotojo kaltės, bei pagal 281 straipsnį ir 29
-straipsnio 1 ir 2 punktus, darbuotojui  išmokama  dviejų  jo vidutinių
-mėnesinių darbo užmokesčių dydžio išeitinė pašalpa.
+atleidimą iš darbo, kai jis neišrenkamas ar nepaskiriamas į eitas pareigas naujam
+terminui arba kai atšaukiamas iš pareigų prieš terminą įstatymų numatytais
+atvejais nesant darbuotojo kaltės, bei pagal 281 straipsnį ir 29 straipsnio 1
+ir 2 punktus, darbuotojui  išmokama  dviejų  jo vidutinių mėnesinių darbo
+užmokesčių dydžio išeitinė pašalpa.
      Šio
 straipsnio pirmojoje dalyje numatyto dydžio išeitinė pašalpa didinama:
 darbuotojui, turinčiam nepertrauktojo darbo stažą toje įmonėje didesnį kaip
@@ -1146,7 +1221,7 @@ dienos.
 Straipsnio
 pakeitimai:
 Nr.
-1-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
+I-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
  
  
      41
@@ -1166,9 +1241,9 @@ vidutinis darbo užmokestis už uždelsimo laiką.
 Straipsnio
 pakeitimai:
 Nr.
-1-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
+I-900, 95.05.23, Žin., 1995, Nr. 46-1119 (95.06.02)
 Nr.
-1-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
+I-1285, 96.04.17, Žin., 1996, Nr. 41-983 (96.05.08)
  
  
      42
