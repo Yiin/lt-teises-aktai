@@ -497,8 +497,7 @@ Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
  
  
 18 straipsnis. Bedarbio pašalpos sumažinimas, jos
-mokėjimo sustabdymas arba 
-nutraukimas
+mokėjimo sustabdymas arba nutraukimas
             Bedarbio
 pašalpa sumažinama 50 procentų, jeigu bedarbis vieną kartą atsisakė siūlomo
 darbo šio įstatymo 17 straipsnio pirmojoje dalyje nurodytomis sąlygomis ir
@@ -524,8 +523,7 @@ Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
  
  
 19 straipsnis. Bedarbių ir darbuotojų, įspėtų apie
-atleidimą iš darbo, profesinis 
-mokymas
+atleidimą iš darbo, profesinis mokymas
             Bedarbiai,
 kuriems darbo birža nustatyta tvarka negali pasiūlyti darbo, atitinkančio jų
 profesinį pasirengimą bei sveikatos būklę, taip pat bedarbiai, neturintys
@@ -558,37 +556,41 @@ Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
 18-457 (1996 02 28)
  
  
-            20
-straipsnis. Viešieji darbai 
-            Bedarbiams,
-kuriems sunku parinkti darbą, darbo birža kartu su savivaldybėmis organizuoja
-laikinus, iki dviejų mėnesių viešuosius darbus.
-            Jeigu
-piliečiai sutinka, viešieji darbai jiems gali būti pratęsiami.
-            Viešuosius
-darbus dirbantiems piliečiams atlyginama įstatymų nustatyta tvarka.
-            Dirbantieji
-viešuosius darbus negauna bedarbio pašalpos, jeigu darbo užmokestis yra
-didesnis už šią pašalpą. Jeigu darbo užmokestis yra mažesnis už gaunamą
-pašalpą, darbo birža moka darbo užmokesčio ir bedarbio pašalpos skirtumą.
-            Viešuosius
-darbus dirbantiems piliečiams taikomos visos socialinės garantijos, numatytos
-atitinkamos profesijos (specialybės) darbuotojams.
-            Viešųjų
-darbų atlikimo tvarką nustato Lietuvos Respublikos Vyriausybė. 
+20 straipsnis. Viešieji darbai
+Bedarbiams ir kitiems asmenims, nustatyta tvarka
+užsiregistravusiems valstybinėje darbo biržoje, organizuojami laikini viešieji
+darbai.
+Viešuosius darbus kartu su savivaldybėmis organizuoja
+valstybinės darbo biržos.
+Asmenims, dirbantiems viešuosius darbus, už darbo
+laiką mokamas darbo užmokestis, apskaičiuotas taikant ne mažesnį už valstybės nustatytą
+minimalų valandinį atlygį.
+Asmenys, dirbantys viešuosius darbus, negauna bedarbio
+pašalpos, jeigu darbo užmokestis yra didesnis už šią pašalpą. Jeigu darbo
+užmokestis yra mažesnis už gaunamą pašalpą, valstybinė darbo birža moka darbo
+užmokesčio ir bedarbio pašalpos skirtumą.
+Asmenys, dirbantys viešuosius darbus, toliau
+registruojami valstybinėje darbo biržoje ir jiems taikomos šio ir kitų įstatymų
+nustatytos valstybinės užimtumo ir socialinės garantijos.
+Viešųjų darbų atlikimo tvarką nustato Lietuvos
+Respublikos Vyriausybė ar jos įgaliota institucija.
+Straipsnio pakeitimai:
+Nr. VIII-608, 1998 01 15, Žin., 1998, Nr.
+8-165 (1998 01 25)
+ 
  
 20(1) straipsnis. Iš Užimtumo fondo remiami
 darbai
             Užimtumo
 fondo remiami darbai organizuojami bedarbiams, nurodytiems šio įstatymo 15
 straipsnio trečiojoje ir ketvirtojoje dalyse, taip pat 19 straipsnyje nurodyta
-tvarka baigusiems profesinį mokymą, kuriems darbo birža negali pasiūlyti
-nuolatinio darbo.
+tvarka baigusiems profesinį mokymą, kuriems darbo birža negali pasiūlyti nuolatinio
+darbo.
             Užimtumo
 fondo remiamus darbus valstybinė darbo birža organizuoja ne daugiau kaip 6
 mėnesiams, sudarydama sutartis su darbdaviais dėl bedarbių, pirmiausia
 pradedančių darbo veiklą, įdarbinimo, sudarydama jiems galimybę įgyti pirminių
-darbo įgūdžių bei padėdama įsitvirtinti nuolatiniam darbui. Šių darbų trukmė
+darbo įgūdžių bei padėdama įsitvirtinti nuolatiniam darbui.Šių darbų trukmė
 gali būti pratęsta iki 8 mėnesių, jeigu paaiškėja, kad norint pradėti dirbti
 nuolatinį darbą būtinas papildomas profesinis mokymas.
             Darbdaviams,
@@ -740,6 +742,12 @@ Nr. I-1191, 1996 02 01, Žin., 1996, Nr.
 18-457 (1996 02 28) 
 LIETUVOS RESPUBLIKOS GYVENTOJŲ UŽIMTUMO ĮSTATYMO PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-608, 1998 01 15, Žin., 1998, Nr.
+8-165 (1998 01 25)
+BEDARBIŲ RĖMIMO ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 *** Pabaiga ***
  
