@@ -18,14 +18,131 @@ Redagavo: Ramunė Lūžaitė (1997.07.09)
 
 
 
-Redagavo:
-Ramunė Lūžaitė (1998.07.10)
- 
 Įstatymas
-paskelbtas: Žin., 1990, Nr.17-439
- 
+paskelbtas: Žin., 1990, Nr. 17-439
 Neoficialus
 įstatymo tekstas
+ 
+LIETUVOS
+RESPUBLIKOS
+Į S T A T Y M A
+S
+DĖL LIETUVOS
+VALSTYBĖS HERBO
+ 
+ 
+1
+straipsnis.
+Lietuvos valstybės herbas yra Vytis: herbinio skydo raudonajame lauke
+vaizduojamas sidabrinis šarvuotas raitelis ant balto žirgo, laikantis dešinėje
+rankoje virš galvos iškeltą sidabrinį kalaviją. Prie raitelio kairiojo peties
+kabo mėlynas skydas su dvigubu auksiniu kryžiumi. Žirgo balnas, gūnia, kamanos
+ir diržai mėlyni. Kalavijo rankena, kamanų žąslai, balno kilpa ir pentinas,
+makšties bei žirgo aprangos metaliniai sutvirtinimai auksiniai.
+Straipsnio
+pakeitimai: 
+Nr.
+I-1751, 91.09.04,
+Žin., 1991, Nr. 26-681
+ 
+2
+straipsnis.
+Antspaudais, dokumentų blankais, leidinių viršeliais, tituliniais lapais su
+Lietuvos valstybės herbu turi teisę naudotis:
+1) Lietuvos Respublikos Seimas ir institucijos prie
+jo, Lietuvos Respublikos Seimo kontrolierių įstaiga;
+2) Respublikos
+Prezidentas;
+3) Lietuvos
+Respublikos Vyriausybė ir jos įstaigos, apskričių viršininkų administracijos;
+4) Lietuvos
+Respublikos ministerijos, įstaigos prie ministerijų;
+5) Lietuvos
+Respublikos Konstitucinis Teismas;
+6) Lietuvos
+Respublikos teismai, Nacionalinė teismų administracija; 
+7) Lietuvos
+Respublikos generalinė prokuratūra, teritorinės prokuratūros, Lietuvos
+Respublikos valstybės saugumo departamentas, jo teritorinės įstaigos ir
+specialios paskirties įstaigos prie Lietuvos Respublikos valstybės saugumo
+departamento, Lietuvos Respublikos specialiųjų tyrimų tarnyba ir jos
+teritoriniai padaliniai, teritorinės ir specializuotos policijos įstaigos;
+8) savivaldybių, kurios neturi nustatyta tvarka
+patvirtinto savo herbo, institucijos ir įstaigos, savivaldybių administracijos
+padaliniai, įgyvendinantys valstybines (perduotas savivaldybėms) funkcijas;
+9) Valstybės kontrolė;
+10) Lietuvos Respublikos diplomatinės atstovybės ir
+konsulinės įstaigos;
+11) valstybinės mokslo, tyrimo ir studijų
+institucijos, valstybinės švietimo įstaigos;
+12) Lietuvos bankas;
+13) antstoliai, notarai;
+14) seniūnai įstatymų nustatyta tvarka atlikdami
+notarinius veiksmus ir tvirtindami oficialiesiems testamentams prilyginamus
+testamentus, kaimo gyvenamųjų vietovių bei miestų, kuriuose nėra
+civilinės metrikacijos įstaigų, seniūnijų (išskyrus savivaldybių centrų
+seniūnijas) seniūnai registruodami mirtis.
+Antspauduose
+raitelis (valstybės herbo elementas) vaizduojamas ne herbinio skydo lauke.
+Straipsnio
+pakeitimai:
+Nr.
+I-1228,
+96.03.14, Žin., 1996, Nr. 33-805
+Nr.
+VIII-305,
+97.06.26, Žin., 1997, Nr. 65-1536 (97.07.09)
+Nr. IX-1566,
+2003-05-20, Žin., 2003, Nr. 52-2314 (2003-05-30)
+ 
+            3
+straipsnis. Lietuvos Respublikos įstatymuose gali būti numatyti ir kiti
+juridiniai asmenys, turintys teisę naudotis valstybės herbu, bei valstybės
+herbo naudojimo atvejai.
+ 
+4
+straipsnis.
+Antspaudų su Lietuvos valstybės herbu gaminimo, saugojimo, apskaitos ir
+sunaikinimo tvarką nustato Lietuvos Respublikos antspaudų ir spaudų apyvartos
+kontrolės įstatymas.
+Straipsnio
+pakeitimai:
+Nr. IX-1566,
+2003-05-20, Žin., 2003, Nr. 52-2314 (2003-05-30)
+ 
+41
+straipsnis. Lietuvos
+valstybės herbo išniekinimas baudžiamas įstatymų nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr. VIII-821, 98.06.30,
+Žin., 1998, Nr. 61-1735 (98.07.08)
+ 
+            5
+straipsnis. Pripažinti netekusiais galios:
+            Lietuvos TSR Aukščiausiosios
+Tarybos Prezidiumo 1977 m. lapkričio 30 d. įsaką "Dėl Lietuvos TSR rajono,
+miesto, miesto rajono, apylinkės ir gyvenvietės Liaudies deputatų tarybos
+vykdomojo komiteto herbinio antspaudo" (Žin., 1977, Nr. 35-453);
+            Lietuvos TSR Aukščiausiosios
+Tarybos Prezidiumo 1981 m. spalio 28 d. įsaką "Dėl Lietuvos Tarybų
+Socialistinės Respublikos valstybinio herbo nuostatų patvirtinimo" (Žin.,
+1981, Nr. 31371);
+            Lietuvos Tarybų Socialistinės
+Respublikos 1981 m. gruodžio 4 d. įstatymą "Apie patvirtinimą Lietuvos TSR
+Aukščiausiosios Tarybos Prezidiumo įsako "Dėl Lietuvos Tarybų
+Socialistinės Respublikos valstybinio herbo nuostatų patvirtinimo" (Žin.,
+1981, Nr. 34-427). 
+ 
+ 
+LIETUVOS RESPUBLIKOS
+AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                                           
+V.LANDSBERGIS 
+ 
+Vilnius, 1990 m. balandžio 10 d.
+            Nr. I-130 
+ 
+___________________
  
 Pakeitimai:
  
@@ -34,7 +151,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-I-1751, 91.09.04, Žin., 1991, Nr. 26-681
+I-1751, 91.09.04,
+Žin., 1991, Nr. 26-681
 DĖL
 LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS VALSTYBĖS HERBO"
 PAKEITIMO
@@ -42,8 +160,9 @@ PAKEITIMO
 2.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.I-1228,
-96.03.14, Žin., 1996, Nr.33-805
+Nr.
+I-1228,
+96.03.14, Žin., 1996, Nr. 33-805
 LIETUVOS
 RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS VALSTYBĖS HERBO" 2 STRAIPSNIO
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
@@ -52,129 +171,34 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-305, 97.06.26, Žin., 1997, Nr.65-1536 (97.07.09)
+VIII-305,
+97.06.26, Žin., 1997, Nr. 65-1536 (97.07.09)
 LIETUVOS
 RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS VALSTYBĖS HERBO” 2 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
 4.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. VIII-821,
-98.06.30, Žin., 1998, Nr.61-1735 (98.07.08)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-821,
+98.06.30, Žin., 1998, Nr. 61-1735 (98.07.08)
 LIETUVOS
 RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS VALSTYBĖS HERBO” PAPILDYMO ĮSTATYMAS
+ 
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1566,
+2003-05-20, Žin., 2003, Nr. 52-2314 (2003-05-30)
+ĮSTATYMO
+„DĖL LIETUVOS VALSTYBĖS HERBO“ 2, 4 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
-                           
-LIETUVOS RESPUBLIKOS
-                           
-Į S T A T Y M A S
-                       
-DĖL LIETUVOS VALSTYBĖS HERBO
  
- 
-     1 
-straipsnis. Lietuvos  valstybės  herbas yra  Vytis: herbinio  skydo
-raudonajame  lauke vaizduojamas  sidabrinis šarvuotas raitelis ant balto žirgo,
-laikantis dešinėje rankoje virš galvos iškeltą sidabrinį kalaviją. Prie raitelio
-kairiojo peties kabo mėlynas skydas su dvigubu auksiniu kryžiumi. Žirgo balnas,
-gūnia, kamanos ir diržai mėlyni. Kalavijo rankena, kamanų žąslai, balno kilpa
-ir pentinas, makšties bei žirgo aprangos metaliniai sutvirtinimai auksiniai.
- 
-Straipsnio
-pakeitimai: 
-Nr.
-I-1751, 91.09.04, Žin., 1991, Nr. 26-681
- 
-     2
-straipsnis. Antspaudais, dokumentų blankais, leidinių viršeliais, tituliniais
-lapais su Lietuvos valstybės herbu turi teisę naudotis:
-     1)
-Lietuvos Respublikos Seimas ir institucijos prie jo, Lietuvos Respublikos Seimo
-kontrolierių įstaiga;
-     2)
-Respublikos Prezidentas;
-     3)
-Lietuvos Respublikos Vyriausybė ir jos įstaigos, apskričių viršininkų
-administracijos;
-     4) 
-Lietuvos  Respublikos  ministerijos,  departamentai, tarnybos ir inspekcijos
-prie ministerijų;
-     5)
-Lietuvos Respublikos Konstitucinis Teismas;
-     6)
-Lietuvos Respublikos teismai, teismo antstolių kontoros, notarai;
-     7)
-Lietuvos Respublikos generalinė prokuratūra prie Lietuvos Aukščiausiojo 
-Teismo,  teritorinės  prokuratūros,  Lietuvos Respublikos valstybės saugumo
-departamentas;
-     8)
-savivaldybių, kurios neturi nustatyta tvarka patvirtinto savo herbo, vietos
-savivaldos institucijos;
-     9)
-Valstybės kontrolė;
-     10)
-Lietuvos  Respublikos  diplomatinės  atstovybės  ir konsulinės įstaigos;
-     11)
-valstybinės mokslo, tyrimo ir studijų institucijos, valstybinės švietimo
-įstaigos;
-     12)
-Lietuvos bankas. 
-Antspauduose
-raitelis (valstybės herbo elementas) vaizduojamas ne herbinio skydo lauke.
- 
-Straipsnio
-pakeitimai:
-Nr.I-1228,
-96.03.14, Žin., 1996, Nr.33-805
-Nr.
-VIII-305, 97.06.26, Žin., 1997, Nr.65-1536 (97.07.09)
- 
-     3
-straipsnis. Lietuvos Respublikos įstatymuose gali būti numatyti ir kiti
-juridiniai asmenys, turintys teisę naudotis valstybės herbu, bei valstybės
-herbo naudojimo atvejai.
- 
-     4
-straipsnis. Antspaudų ir dokumentų blankų su Lietuvos valstybės herbu gaminimo,
-naudojimo, saugojimo ir sunaikinimo tvarką nustato Lietuvos Respublikos
-vyriausybė.
- 
-41 straipsnis. Lietuvos valstybės
-herbo išniekinimas baudžiamas įstatymų nustatyta tvarka.
- 
-Straipsnio
-pakeitimai:
-Nr. VIII-821,
-98.06.30, Žin., 1998, Nr.61-1735 (98.07.08)
- 
-     5
-straipsnis. Pripažinti netekusiais galios:
-     Lietuvos
-TSR Aukščiausiosios Tarybos Prezidiumo 1977 m. lapkričio 30 d. įsaką "Dėl
-Lietuvos TSR rajono, miesto, miesto rajono, apylinkės  ir gyvenvietės Liaudies
-deputatų tarybos vykdomojo komiteto herbinio antspaudo" (Žin., 1977, Nr.
-35-453);
-     Lietuvos
-TSR Aukščiausiosios Tarybos Prezidiumo 1981 m. spalio 28 d. įsaką "Dėl
-Lietuvos Tarybų Socialistinės Respublikos valstybinio herbo nuostatų
-patvirtinimo" (Žin., 1981, Nr. 31371);
-     Lietuvos
-Tarybų Socialistinės Respublikos 1981 m. gruodžio 4 d. įstatymą "Apie
-patvirtinimą Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo įsako "Dėl
-Lietuvos Tarybų Socialistinės Respublikos valstybinio herbo nuostatų
-patvirtinimo" (Žin., 1981, Nr. 34-427). 
- 
- 
-LIETUVOS
-RESPUBLIKOS
-AUKŠČIAUSIOSIOS
-TARYBOS PIRMININKAS                           V.LANDSBERGIS 
- 
-Vilnius,
-1990 m. balandžio 10 d.
-       
-Nr. I-130
+Redagavo:
+Aušrinė Trapinskienė (2003-06-02)
+                 autrap@lrs.lt
