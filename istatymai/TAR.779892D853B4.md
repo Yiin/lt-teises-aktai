@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2003-09-26 iki 2004-04-30
+Suvestinė redakcija nuo 2004-05-01 iki 2004-09-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -221,7 +221,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-23. Kredito įstaiga – Lietuvos Respublikos įmonė ar įstaiga arba užsienio valstybės įmonės padalinys, veikiantis Lietuvos Respublikoje, kurie turi licenciją verstis ir verčiasi indėlių ir kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių bei piniginių paskolų teikimu, taip pat turintys teisę verstis dalies ar visų kitų šio Įstatymo 3 straipsnio 1 dalyje nustatytų paslaugų teikimu ir prisiimantys su tuo susijusią riziką bei atsakomybę. 
+23. Kredito įstaiga - Lietuvos Respublikos įmonė ar įstaiga arba užsienio valstybės įmonės padalinys, veikiantis Lietuvos Respublikoje, kurie turi licenciją verstis ir verčiasi indėlių ir kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių bei jų skolinimu, taip pat turintys teisę verstis dalies ar visų kitų šio Įstatymo 3 straipsnio 1 dalyje nustatytų paslaugų teikimu ir prisiimantys su tuo susijusią riziką bei atsakomybę. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
+ 
 
 
 
@@ -459,7 +462,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) teikiant finansines paslaugas gavimas iš veiklos 10 procentų ar daugiau pajamų, skaičiuojant nuo visų pajamų per kiekvieną ataskaitinį laikotarpį (ketvirtį) atskirai ir (ar) per finansinius metus.
+2) veikla, kurios pagrindinę dalį sudaro finansinių paslaugų teikimas. 
+Straipsnio punkto pakeitimai:
+Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
  
 
 
@@ -618,7 +623,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Finansų įstaiga gali verstis tik finansinių paslaugų teikimu bei jai nuosavybės teise priklausančio turto valdymu, naudojimu ir disponavimu juo, taip pat kita veikla, jeigu vykdant šią veiklą gauna ne daugiau kaip 10 procentų pajamų, skaičiuojant nuo visų pajamų per kiekvieną ataskaitinį laikotarpį (ketvirtį) atskirai ir (ar) per finansinius metus. 
+2. Neteko galios nuo 2004-05-01.
+Straipsnio dalies pakeitimai:
+Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
+ 
 
 
 
@@ -629,6 +637,13 @@ BENDROSIOS NUOSTATOS
 
 
 4. Finansų įstaigos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo Įstatymu, Lietuvos Respublikos įstatymais, reglamentuojančiais finansinių paslaugų teikimą ir finansų įstaigų veiklą, taip pat atitinkamos teisinės formos, kurios pagrindu finansų įstaiga yra įsteigta ir veikia, juridinį asmenį, ir kitais teisės aktais. 
+
+
+
+
+5. Jei Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustato kitokias normas negu šis Įstatymas, taikomos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, normos. 
+Papildyta straipsnio dalimi:
+Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
  
 
 
@@ -2392,7 +2407,10 @@ FINANSŲ ĮSTAIGOS APSKAITA IR AUDITAS
 
 
 
-3. Ta pati audito įmonė gali atlikti auditą toje pačioje finansų įstaigoje ne daugiau kaip 3 metus iš eilės. 
+3. Tos pačios audito įmonės auditoriui draudžiama atlikti auditą, taip pat kitam asmeniui draudžiama kartu su auditoriumi dalyvauti atliekant auditą toje pačioje finansų įstaigoje daugiau kaip už 3 finansinius metus iš eilės. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
+ 
 
 
 
@@ -2909,3 +2927,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo 6 ir 20 straipsnių pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1734, 2003-09-16, Žin., 2003, Nr. 91-4109 (2003-09-26), i. k. 1031010ISTA0IX-1734
 Lietuvos Respublikos finansų įstaigų įstatymo 31 ir 59 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
+Lietuvos Respublikos finansų įstaigų įstatymo 2, 4, 45 straipsnių pakeitimo ir papildymo įstatymas
