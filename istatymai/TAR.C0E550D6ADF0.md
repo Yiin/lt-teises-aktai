@@ -47,11 +47,14 @@ sąvokos
 
 1. Asmenys,
 dirbantys valstybinėje tarnyboje, – valstybės politikai, viešojo
-administravimo valstybės tarnautojai pagal Valstybės tarnybos įstatymą bei kiti
-asmenys, kurie dirbdami valstybės valdžios, valdymo, vietos savivaldos,
-teisminėse, teisėsaugos, valstybės kontrolės bei priežiūros ir joms
-prilygintose institucijose vykdo valdžios atstovo funkcijas arba turi
-administravimo įgaliojimus. 
+administravimo valstybės tarnautojai pagal Valstybės tarnybos įstatymą, kiti
+asmenys, kurie dirbdami valstybės valdžios, valdymo, savivaldybių, teisminėse,
+teisėsaugos, valstybės kontrolės bei priežiūros ir joms prilygintose
+institucijose vykdo valdžios atstovo funkcijas arba turi administravimo
+įgaliojimus, taip pat asmenys, dirbantys valstybės ir savivaldybių įmonėse,
+biudžetinėse įstaigose ir turintys administravimo įgaliojimus, bei asmenys,
+dirbantys viešosiose įstaigose, kurios gauna lėšų iš Lietuvos valstybės ar
+savivaldybių biudžetų bei fondų, ir turintys administravimo įgaliojimus.
 2. Privatūs
 interesai – kandidato ar asmens, dirbančio valstybinėje tarnyboje, (ar jo
 artimojo giminaičio, ar šeimos nario) asmeninis turtinis ar neturtinis
@@ -75,6 +78,8 @@ asociacijos, susivienijimai ir organizacijos.
 Straipsnio pakeitimai:
 Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 35-1165 (2001 04 25)
+Nr. IX-488,
+2001-08-02, Žin., 2001, Nr. 71-2517 (2001-08-17)
  
  
 3 straipsnis. Asmenų, dirbančių
@@ -83,8 +88,8 @@ Viešųjų interesų viršenybei užtikrinti
 asmenys, dirbantys valstybinėje tarnyboje, privalo: 
 1) nešališkai, sąžiningai ir tinkamai
 atlikti tarnybines pareigas; 
-2) įstatymų nustatyta tvarka ir priemonėmis
-vengti interesų konflikto; 
+2) įstatymų nustatyta tvarka ir
+priemonėmis vengti interesų konflikto; 
 3) nesinaudoti pareigomis asmeninei
 naudai gauti; 
 4) priimdami sprendimus, vadovautis
@@ -135,17 +140,18 @@ Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
  
 6 straipsnis. Privačių interesų
 deklaracijų turinys 
-1. Asmens, dirbančio valstybinėje tarnyboje, metinėse
-privačių interesų deklaracijose turi būti nurodyta deklaruojančiojo ir jo
-sutuoktinio:
+1. Asmens, dirbančio valstybinėje tarnyboje,
+metinėse privačių interesų deklaracijose turi būti nurodyta deklaruojančiojo ir
+jo sutuoktinio:
 1) pagal Gyventojų turto ir pajamų deklaravimo
 įstatymą mokesčių inspekcijai privalomo deklaruoti turto, piniginių lėšų,
 vertybinių popierių, turtinių įsipareigojimų, pajamų ir mokesčių duomenys. Šis
 reikalavimas netaikomas tuo atveju, jei asmuo yra pildęs Lietuvos Respublikos
 turto ir pajamų deklaraciją už paskutinius kalendorinius metus. Tuomet
 pateikiamas šios deklaracijos nuorašas (kopija);
-2) kiti turtiniai įsipareigojimai,
-užtikrinantys prievolių įvykdymą, nenurodyti turto ir pajamų deklaracijoje;
+2) kiti turtiniai
+įsipareigojimai, užtikrinantys prievolių įvykdymą, nenurodyti turto ir pajamų
+deklaracijoje;
 3) įmonės pavadinimas, buveinės adresas,
 veiklos pobūdis, jeigu deklaruojantysis ar jo sutuoktinis yra personalinės
 įmonės savininkas;
@@ -211,19 +217,19 @@ Teismo pirmininko ir teisėjų, Lietuvos Aukščiausiojo Teismo, Lietuvos
 apeliacinio teismo ir apygardų teismų pirmininkų, skyrių pirmininkų ir teisėjų,
 Lietuvos vyriausiojo administracinio teismo, apygardų administracinių teismų ir
 apylinkių teismų pirmininkų, teismų pirmininkų pavaduotojų ir teisėjų,
-generalinio prokuroro ir generalinio prokuroro pavaduotojų, Generalinės
-prokuratūros struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų
-vadovų, Valstybės kontrolės vadovaujančių pareigūnų, apskričių viršininkų,
-apskričių viršininkų pavaduotojų, Vyriausybės atstovų apskrityse, Vyriausybės
-įstaigų (departamentų, agentūrų, tarnybų, inspekcijų), prie ministerijų
-įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų
-vadovų (generalinių direktorių, direktorių, viršininkų) ir vadovų pavaduotojų,
+generalinio prokuroro ir generalinio prokuroro pavaduotojų, Generalinės prokuratūros
+struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovų,
+Valstybės kontrolės vadovaujančių pareigūnų, apskričių viršininkų, apskričių
+viršininkų pavaduotojų, Vyriausybės atstovų apskrityse, Vyriausybės įstaigų
+(departamentų, agentūrų, tarnybų, inspekcijų), prie ministerijų įsteigtų
+departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų vadovų
+(generalinių direktorių, direktorių, viršininkų) ir vadovų pavaduotojų,
 Lietuvos banko valdybos pirmininko ir valdybos pirmininko pavaduotojų, Muitinės
 departamento prie Finansų ministerijos ir teritorinių muitinių vadovaujančių
 pareigūnų, Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir
-teritorinių mokesčių inspekcijų vadovaujančių pareigūnų, Vidaus reikalų
-ministerijos Ekonominių nusikaltimų tyrimo valdybos ir miestų bei rajonų
-komisariatų ekonominių nusikaltimų tyrimo skyrių (poskyrių) vadovaujančių pareigūnų,
+teritorinių mokesčių inspekcijų vadovaujančių pareigūnų, Vidaus reikalų ministerijos
+Ekonominių nusikaltimų tyrimo valdybos ir miestų bei rajonų komisariatų
+ekonominių nusikaltimų tyrimo skyrių (poskyrių) vadovaujančių pareigūnų,
 policijos generalinio komisaro, vyriausiųjų komisarų, vyresniųjų komisarų,
 komisarų, vadovaujančių miestų bei rajonų policijos komisariatams, Specialiųjų
 tyrimų tarnybos direktoriaus, Specialiųjų tyrimų tarnybos direktoriaus pirmojo
@@ -240,8 +246,8 @@ privačių interesų deklaracijų suvestiniais duomenimis, saugomais šio įstat
 straipsnio nustatyta tvarka, gali susipažinti Lietuvos Respublikos pilietis,
 pateikęs asmens tapatybę liudijantį dokumentą. 
 3. Asmenų, dirbančių valstybinėje
-tarnyboje, metinės privačių interesų deklaracijos gali būti skelbiamos
-Vyriausiosios tarnybinės etikos komisijos motyvuotu sprendimu. 
+tarnyboje, metinės privačių interesų deklaracijos gali būti skelbiamos Vyriausiosios
+tarnybinės etikos komisijos motyvuotu sprendimu. 
 Straipsnio pakeitimai:
 Nr. VIII-1936, 2000 09 19, Žin., 2000, Nr.
 85-2574 (2000 10 11), įsigalioja nuo 2001 01 01
@@ -467,9 +473,10 @@ komisija sudaroma iš 5 asmenų.
 etikos komisijos nepriekaištingos reputacijos narį siūlo Respublikos
 Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, Lietuvos Aukščiausiojo
 Teismo pirmininkas ir Lietuvos teisininkų draugija. Vyriausiosios tarnybinės
-etikos komisijos sudėtį tvirtina Seimas. Vyriausiosios tarnybinės etikos komisijos
-narių kadencijos laikas - 4 metai. Patvirtinti asmenys Vyriausiosios tarnybinės
-etikos komisijos nariais gali būti ne ilgiau kaip dvi kadencijas iš eilės. 
+etikos komisijos sudėtį tvirtina Seimas. Vyriausiosios tarnybinės etikos
+komisijos narių kadencijos laikas - 4 metai. Patvirtinti asmenys Vyriausiosios
+tarnybinės etikos komisijos nariais gali būti ne ilgiau kaip dvi kadencijas iš
+eilės. 
 3. Vyriausiosios tarnybinės etikos
 komisijos pirmininką iš šios komisijos narių Seimo Pirmininko teikimu tvirtina
 Seimas. 
@@ -487,8 +494,8 @@ komisija:
 1) analizuoja šio įstatymo taikymo
 problemas; 
 2) teikia ieškinius teismui dėl darbo
-sutarčių ir sandorių, sudarytų pažeidžiant šio įstatymo reikalavimus, nutraukimo
-ar pripažinimo negaliojančiais; 
+sutarčių ir sandorių, sudarytų pažeidžiant šio įstatymo reikalavimus,
+nutraukimo ar pripažinimo negaliojančiais; 
 3) atitinkamų valstybės ar savivaldybių
 institucijų vadovams ar jų įgaliotiems atstovams teikia rekomendacijas dėl šio
 įstatymo įgyvendinimo tvarkos; 
@@ -497,8 +504,8 @@ jo įgaliotam atstovui atlikti arba pati atlikti tyrimą, jeigu yra gauta
 pagrįsta informacija, kad asmuo, dirbantis valstybinėje tarnyboje, nesilaiko
 šio įstatymo reikalavimų; 
 5) asmens, dirbančio valstybinėje
-tarnyboje, raštišku prašymu gali atlikti tyrimą, ar institucijos vadovas tinkamai
-taiko pareiškėjui šio įstatymo nuostatas;
+tarnyboje, raštišku prašymu gali atlikti tyrimą, ar institucijos vadovas
+tinkamai taiko pareiškėjui šio įstatymo nuostatas;
 6) atlikdama tyrimą, turi teisę gauti iš valstybės
 ir savivaldybių institucijų, valstybinio ir privataus kapitalo įmonių,
 komercinių bankų, įstaigų bei kitų organizacijų visą reikiamą informaciją,
@@ -557,8 +564,8 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1562, 2000 02 17, Žin., 2000, Nr.
 18-431 (2000 02 29)
 LIETUVOS
-RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ
-DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE
+TARNYBOJE ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
  
 5.
@@ -577,8 +584,21 @@ Nr. IX-244,
 VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 2,
 4, 5, 6, 10, 18, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-488,
+2001-08-02, Žin., 2001, Nr. 71-2517 (2001-08-17)
+VIEŠŲJŲ
+IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 2 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 04 25)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2001-08-16)
+                 
+autrap@lrs.lt
