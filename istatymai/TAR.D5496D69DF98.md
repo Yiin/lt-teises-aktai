@@ -221,8 +221,9 @@ savivaldybių biudžetinių įstaigų pajamos už teikiamas paslaugas;
 6)
 pajamos už savivaldybių lėšų likučius einamosiose sąskaitose; 
 7)
-pajamos, gautos Vyriausybės nustatyta tvarka paskirsčius lėšas už parduotus ir
-išnuomotus ne žemės ūkio paskirčiai valstybinės žemės sklypus; 
+pajamos, gautos už išnuomotą valstybinę žemę ir valstybinio vidaus vandenų
+fondo vandens telkinius ir Vyriausybės nustatyta tvarka paskirsčius lėšas už
+parduotus ne žemės ūkio paskirčiai valstybinės žemės sklypus;
 8)
 valstybės biudžeto dotacijos; 
 9)
@@ -236,6 +237,10 @@ savivaldybėms nuosavybės teise priklausantys vertybiniai popieriai ir turtinė
 teisės, atsirandančios iš šių vertybinių popierių;
 13)
 savivaldybės įmonių kapitalas ir grynasis šių įmonių pelnas.
+Straipsnio pakeitimai:
+Nr. IX-1652,
+2003-06-26, Žin., 2003, Nr. 70-3165 (2003-07-16)
+ 
  
 ANTRASIS
 SKIRSNIS
@@ -486,16 +491,16 @@ partijoms;
 kitiems subjektams, jei tai nustatyta įstatymuose arba tarptautinėse sutartyse.
 2.
 Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1
-dalyje nurodytiems subjektams priima Vyriausybė ar jos įgaliota institucija. Sprendimą
-dėl savivaldybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje
-nurodytiems subjektams priima savivaldybės taryba ar jos įgaliota institucija.
-Sprendime turi būti nurodytas panaudos sutarties terminas, taip pat gali būti
-nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į panaudos
-sutartį. Vyriausybės įgaliota institucija sprendimus priima Vyriausybės
-nustatyta tvarka. Savivaldybės tarybos įgaliota institucija sprendimus priima
-savivaldybės tarybos nustatyta tvarka. Valstybės ar savivaldybės turto panaudos
-sutartį sudaro valstybės ar savivaldybės turto valdytojas, valdantis valstybės
-ar savivaldybės turtą patikėjimo teise. 
+dalyje nurodytiems subjektams priima Vyriausybė ar jos įgaliota institucija.
+Sprendimą dėl savivaldybės turto perdavimo pagal panaudos sutartį šio
+straipsnio 1 dalyje nurodytiems subjektams priima savivaldybės taryba ar jos
+įgaliota institucija. Sprendime turi būti nurodytas panaudos sutarties
+terminas, taip pat gali būti nurodytos kitos panaudos sąlygos. Šios sąlygos
+privalo būti įrašytos į panaudos sutartį. Vyriausybės įgaliota institucija
+sprendimus priima Vyriausybės nustatyta tvarka. Savivaldybės tarybos įgaliota
+institucija sprendimus priima savivaldybės tarybos nustatyta tvarka. Valstybės
+ar savivaldybės turto panaudos sutartį sudaro valstybės ar savivaldybės turto
+valdytojas, valdantis valstybės ar savivaldybės turtą patikėjimo teise. 
 3.
 Valstybės ar savivaldybės turto panaudos sutartyje turi būti nustatyta pagal
 panaudos sutartį perduodamo turto naudojimo paskirtis, panaudos gavėjo pareiga
@@ -633,12 +638,12 @@ joms patikėjimo teise priklausantį lygiavertį (iki 10 procentų vertės
 besiskiriantį) ilgalaikį ir trumpalaikį materialųjį turtą, jeigu šis turtas
 reikalingas valstybės ar savivaldybės funkcijoms įgyvendinti.
 2.
-Pagal mainų sutartį valstybės ar savivaldybės institucijos, valstybės ir
-savivaldybės įmonės, įstaigos ir organizacijos turi teisę perleisti kitiems
-juridiniams ir fiziniams asmenims patikėjimo teise valdomą lygiavertį (iki 5
-procentų besiskiriantį) ilgalaikį ir trumpalaikį materialųjį turtą, jeigu
-įsigyjamas pagal mainų sutartį turtas reikalingas valstybės ar savivaldybių
-funkcijoms įgyvendinti. 
+Pagal mainų sutartį valstybės ar savivaldybės institucijos, valstybės ir savivaldybės
+įmonės, įstaigos ir organizacijos turi teisę perleisti kitiems juridiniams ir
+fiziniams asmenims patikėjimo teise valdomą lygiavertį (iki 5 procentų
+besiskiriantį) ilgalaikį ir trumpalaikį materialųjį turtą, jeigu įsigyjamas
+pagal mainų sutartį turtas reikalingas valstybės ar savivaldybių funkcijoms
+įgyvendinti. 
 3.
 Sprendimus dėl valstybei ar savivaldybei nuosavybės teise priklausančio
 ilgalaikio ir trumpalaikio materialiojo turto mainų priima:
@@ -679,8 +684,8 @@ pagrįsti.
 3.
 Valstybės ar savivaldybių turtas negali būti investuojamas įmonei ar
 vertybiniams popieriams įsigyti iš fizinių ir privačiųjų juridinių asmenų, taip
-pat privačiajam juridiniam asmeniui steigti, išskyrus šio ir kitų įstatymų nustatytus
-atvejus.
+pat privačiajam juridiniam asmeniui steigti, išskyrus šio ir kitų įstatymų
+nustatytus atvejus.
 4.
 Valstybė ar savivaldybė gali turtą investuoti įsigydama steigiamos arba
 didinančios įstatinį kapitalą akcinės bendrovės ar uždarosios akcinės bendrovės
@@ -709,8 +714,8 @@ disponavimo
 juo kontrolė
 1.
 Valstybės turto apskaitą, valdymą, naudojimą ir disponavimą juo kontroliuoja
-valstybės institucijos, valstybės įmonės, įstaigos ar organizacijos vidaus audito
-tarnyba (vidaus auditoriai) ir Valstybės kontrolė.
+valstybės institucijos, valstybės įmonės, įstaigos ar organizacijos vidaus
+audito tarnyba (vidaus auditoriai) ir Valstybės kontrolė.
 2.
 Valstybės kontrolė kasmet iki gruodžio 1 dienos pateikia Seimui išvadą dėl šio
 Įstatymo 15 straipsnio 4 dalyje nurodytos ataskaitos.
@@ -796,12 +801,12 @@ valstybės ar savivaldybės įstaigos ar organizacijos kitai tokiai institucijai
 įstaigai ar organizacijai, taip pat šio Įstatymo 9 straipsnio 4 dalyje bei 11
 straipsnio 3 dalyje nurodytiems asmenims;
 2)
-perduodant pagal panaudos sutartį viešosioms įstaigoms, veikiančioms pagal
-Viešųjų įstaigų įstatymą, kai bent vienas iš jų steigėjų yra valstybės ar
-savivaldybių institucija, arba viešosioms švietimo įstaigoms, turinčioms
-Švietimo ir mokslo ministerijos leidimus (licencijas) mokyti, labdaros ir paramos
-organizacijoms, fondams, visuomeninėms organizacijoms ir kitiems subjektams,
-jei tai numatyta įstatymuose;
+perduodant pagal panaudos sutartį viešosioms įstaigoms, veikiančioms pagal Viešųjų
+įstaigų įstatymą, kai bent vienas iš jų steigėjų yra valstybės ar savivaldybių
+institucija, arba viešosioms švietimo įstaigoms, turinčioms Švietimo ir mokslo
+ministerijos leidimus (licencijas) mokyti, labdaros ir paramos organizacijoms,
+fondams, visuomeninėms organizacijoms ir kitiems subjektams, jei tai numatyta
+įstatymuose;
 3)
 investuojant šio Įstatymo nustatyta tvarka;
 4)
@@ -841,8 +846,8 @@ dalyje, išskyrus 1 dalies 1 ir 2 punktus, nurodytais būdais arba jį išardži
 likvidavusi, turi jį nurašyti.
 5.
 Šio Įstatymo 22 straipsnio 1 dalies 6 punkte nurodytu atveju pripažintas
-netinkamu (negalimu) naudoti nematerialusis, ilgalaikis ir trumpalaikis
-materialusis turtas nurašomas.
+netinkamu (negalimu) naudoti nematerialusis, ilgalaikis ir trumpalaikis materialusis
+turtas nurašomas.
 6.
 Valstybės ir savivaldybių turtas, pripažinus jį nereikalingu arba netinkamu
 (negalimu) naudoti, nurašomas, išardomas ir likviduojamas Vyriausybės nustatyta
@@ -854,9 +859,9 @@ skiriamos:
 1)
 investicijoms į valstybės ar savivaldybės įmonę, valdžiusią šį turtą;
 2)
-kai turtą valdo valstybės ar savivaldybių institucijos, įstaigos ir
-organizacijos – 50 procentų atitinkamai į valstybės ar savivaldybės biudžetą ir
-50 procentų institucijoms, įstaigoms ir organizacijoms.
+kai turtą valdo valstybės ar savivaldybių institucijos, įstaigos ir organizacijos
+– 50 procentų atitinkamai į valstybės ar savivaldybės biudžetą ir 50 procentų
+institucijoms, įstaigoms ir organizacijoms.
  
 24
 straipsnis. Nereikalingo arba netinkamo (negalimo) naudoti valstybės ir
@@ -922,8 +927,8 @@ VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO
  
 4.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-383, 2001-06-19, Žin., 2001, Nr. 56-1981
-(2001-06-30)
+Nr. IX-383, 2001-06-19, Žin., 2001, Nr.
+56-1981 (2001-06-30)
 VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR
 DISPONAVIMO JUO ĮSTATYMO 25 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -956,13 +961,14 @@ Nr.
 IX-900,
 2002-05-23, Žin., 2002, Nr. 60-2412 (2002-06-19)
 VALSTYBĖS
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO
+ĮSTATYMAS
 Nauja įstatymo redakcija
 Šio Įstatymo 1 straipsnyje
 išdėstyto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo
 įstatymo 13 straipsnio 3 dalies ir 14 straipsnio 5 dalies nuostatos dėl
-neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo
-sudarytos iki šio Įstatymo įsigaliojimo.
+neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo sudarytos
+iki šio Įstatymo įsigaliojimo.
  
 8.
 Lietuvos
@@ -998,11 +1004,21 @@ VALSTYBĖS
 IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1652,
+2003-06-26, Žin., 2003, Nr. 70-3165 (2003-07-16)
+VALSTYBĖS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 4
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-06-13)
+Aušrinė Trapinskienė (2003-07-16)
                  
 autrap@lrs.lt
