@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 2001-06-30 iki 2002-12-31
+Suvestinė redakcija nuo 2003-01-01 iki 2003-12-09
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
- 
-TAR pastaba. Pripažinta, kad Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymas (Nr. VIII-1492)  bei Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas (Nr. VIII-1493) pagal jų priėmimo tvarką prieštarauja Lietuvos Respublikos Konstitucijos 69 straipsnio 1 daliai, 33 straipsnio 1 daliai ir 120 straipsnio 2 daliai.
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2001-06-28, Žin., 2001, Nr. 56-1997 (2001-06-30), i. k. 1011000NUTARG011960        
-Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės 1999 m. lapkričio 29 d. nutarimo Nr. 1307 "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo (1999 m. gegužės 4 d. redakcija) 7 bei 13 straipsniams ir Lietuvos Respublikos vietos savivaldos įstatymo (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui
  
  
 LIETUVOS RESPUBLIKOS
@@ -166,14 +161,20 @@ Antrojo teritorijos administracinių vienetų reformos etapo pirmojoje pakopoje:
 
 
 
-4) pakeičiami šie savivaldybių pavadinimai: Birštono miesto – į Birštono, Druskininkų miesto – į Druskininkų, Marijampolės miesto – į Marijampolės, Neringos miesto – į Neringos.
+4) pakeičiami šie savivaldybių pavadinimai: Birštono miesto – į Birštono, Druskininkų miesto – į Druskininkų, Marijampolės miesto – į Marijampolės, Neringos miesto – į Neringos, Visagino miesto – į Visagino. 
+Straipsnio punkto pakeitimai:
+Nr. IX-1101, 2002-09-26, Žin., 2002, Nr. 101-4489 (2002-10-23), i. k. 1021010ISTA0IX-1101
+ 
 
 
 
 
 
 
-Nustatomos savivaldybės ir jų centrai: Akmenės rajono (centras – Naujoji Akmenė), Alytaus miesto (centras – Alytus), Alytaus rajono (centras – Alytus), Anykščių rajono (centras – Anykščiai), Birštono (centras – Birštonas), Biržų rajono (centras – Biržai), Druskininkų (centras – Druskininkai), Elektrėnų (centras – Elektrėnai), Klaipėdos rajono (centras – Gargždai), Ignalinos rajono (centras – Ignalina), Jonavos rajono (centras – Jonava), Joniškio rajono (centras – Joniškis), Jurbarko rajono (centras – Jurbarkas), Kaišiadorių rajono (centras – Kaišiadorys), Kalvarijos (centras – Kalvarija), Kauno miesto (centras – Kaunas), Kauno rajono (centras – Kaunas), Kazlų Rūdos (centras – Kazlų Rūda), Kelmės rajono (centras – Kelmė), Kėdainių rajono (centras – Kėdainiai), Klaipėdos miesto (centras – Klaipėda), Kretingos rajono (centras – Kretinga), Kupiškio rajono (centras – Kupiškis), Lazdijų rajono (centras – Lazdijai), Marijampolės (centras – Marijampolė), Mažeikių rajono (centras – Mažeikiai), Molėtų rajono (centras – Molėtai), Neringos (centras – Nida), Pagėgių (centras – Pagėgiai), Pakruojo rajono (centras – Pakruojis), Palangos miesto (centras – Palanga), Panevėžio miesto (centras – Panevėžys), Panevėžio rajono (centras – Panevėžys), Pasvalio rajono (centras – Pasvalys), Plungės rajono (centras – Plungė), Prienų rajono (centras – Prienai), Radviliškio rajono (centras – Radviliškis), Raseinių rajono (centras – Raseiniai), Rietavo (centras – Rietavas), Rokiškio rajono (centras – Rokiškis), Skuodo rajono (centras – Skuodas), Šakių rajono (centras – Šakiai), Šalčininkų rajono (centras – Šalčininkai), Šiaulių miesto (centras – Šiauliai), Šiaulių rajono (centras – Šiauliai), Šilalės rajono (centras – Šilalė), Šilutės rajono (centras –Šilutė), Širvintų rajono (centras – Širvintos), Švenčionių rajono (centras – Švenčionys), Tauragės rajono (centras – Tauragė), Telšių rajono (centras – Telšiai), Trakų rajono (centras – Trakai), Ukmergės rajono (centras – Ukmergė), Utenos rajono (centras – Utena), Varėnos rajono (centras – Varėna), Vilkaviškio rajono (centras – Vilkaviškis), Vilniaus miesto (centras – Vilnius), Vilniaus rajono (centras – Vilnius), Visagino miesto (centras – Visaginas) ir Zarasų rajono (centras – Zarasai).
+Nustatomos savivaldybės ir jų centrai: Akmenės rajono (centras – Naujoji Akmenė), Alytaus miesto (centras – Alytus), Alytaus rajono (centras – Alytus), Anykščių rajono (centras – Anykščiai), Birštono (centras – Birštonas), Biržų rajono (centras – Biržai), Druskininkų (centras – Druskininkai), Elektrėnų (centras – Elektrėnai), Klaipėdos rajono (centras – Gargždai), Ignalinos rajono (centras – Ignalina), Jonavos rajono (centras – Jonava), Joniškio rajono (centras – Joniškis), Jurbarko rajono (centras – Jurbarkas), Kaišiadorių rajono (centras – Kaišiadorys), Kalvarijos (centras – Kalvarija), Kauno miesto (centras – Kaunas), Kauno rajono (centras – Kaunas), Kazlų Rūdos (centras – Kazlų Rūda), Kelmės rajono (centras – Kelmė), Kėdainių rajono (centras – Kėdainiai), Klaipėdos miesto (centras – Klaipėda), Kretingos rajono (centras – Kretinga), Kupiškio rajono (centras – Kupiškis), Lazdijų rajono (centras – Lazdijai), Marijampolės (centras – Marijampolė), Mažeikių rajono (centras – Mažeikiai), Molėtų rajono (centras – Molėtai), Neringos (centras – Nida), Pagėgių (centras – Pagėgiai), Pakruojo rajono (centras – Pakruojis), Palangos miesto (centras – Palanga), Panevėžio miesto (centras – Panevėžys), Panevėžio rajono (centras – Panevėžys), Pasvalio rajono (centras – Pasvalys), Plungės rajono (centras – Plungė), Prienų rajono (centras – Prienai), Radviliškio rajono (centras – Radviliškis), Raseinių rajono (centras – Raseiniai), Rietavo (centras – Rietavas), Rokiškio rajono (centras – Rokiškis), Skuodo rajono (centras – Skuodas), Šakių rajono (centras – Šakiai), Šalčininkų rajono (centras – Šalčininkai), Šiaulių miesto (centras – Šiauliai), Šiaulių rajono (centras – Šiauliai), Šilalės rajono (centras – Šilalė), Šilutės rajono (centras – Šilutė), Širvintų rajono (centras – Širvintos), Švenčionių rajono (centras – Švenčionys), Tauragės rajono (centras – Tauragė), Telšių rajono (centras – Telšiai), Trakų rajono (centras – Trakai), Ukmergės rajono (centras – Ukmergė), Utenos rajono (centras – Utena), Varėnos rajono (centras – Varėna), Vilkaviškio rajono (centras – Vilkaviškis), Vilniaus miesto (centras – Vilnius), Vilniaus rajono (centras – Vilnius), Visagino (centras – Visaginas) ir Zarasų rajono (centras – Zarasai).
+Straipsnio dalies pakeitimai:
+Nr. IX-1101, 2002-09-26, Žin., 2002, Nr. 101-4489 (2002-10-23), i. k. 1021010ISTA0IX-1101
+ 
 
 
 Straipsnio pakeitimai:
@@ -234,7 +235,10 @@ Apskričių teritorijas sudaro šių savivaldybių teritorijos:
 
 
 
-9) Utenos – Anykščių rajono, Ignalinos rajono, Molėtų rajono, Utenos rajono, Visagino miesto, Zarasų rajono savivaldybės;
+9) Utenos – Anykščių rajono, Ignalinos rajono, Molėtų rajono, Utenos rajono, Visagino, Zarasų rajono savivaldybės;
+Straipsnio punkto pakeitimai:
+Nr. IX-1101, 2002-09-26, Žin., 2002, Nr. 101-4489 (2002-10-23), i. k. 1021010ISTA0IX-1101
+ 
 
 
 
@@ -511,3 +515,8 @@ Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatym
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2001-06-28, Žin., 2001, Nr. 56-1997 (2001-06-30), i. k. 1011000NUTARG011960                
 Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės 1999 m. lapkričio 29 d. nutarimo Nr. 1307 "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo (1999 m. gegužės 4 d. redakcija) 7 bei 13 straipsniams ir Lietuvos Respublikos vietos savivaldos įstatymo (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1101, 2002-09-26, Žin., 2002, Nr. 101-4489 (2002-10-23), i. k. 1021010ISTA0IX-1101
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymas
