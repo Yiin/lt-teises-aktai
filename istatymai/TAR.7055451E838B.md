@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2001-12-07 iki 2002-03-26
+Suvestinė redakcija nuo 2002-03-27 iki 2002-03-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
  
@@ -553,7 +553,10 @@ OBJEKTŲ PARENGIMAS PRIVATIZUOTI
 
 
 
-2. Privatizavimo objektų sąrašą Turto fondo teikimu tvirtina Vyriausybė. Į šį sąrašą turi būti įtrauktos visų valstybei ir savivaldybei nuosavybės teise priklausančių įmonių akcijos, išskyrus tas akcinių ir uždarųjų akcinių bendrovių akcijas, kurių privatizavimą riboja įstatymai, ir tas valstybės įmones, kurių pagal įstatymą iki 2000-ųjų metų nenumatoma nei akcionuoti, nei privatizuoti. Į privatizavimo objektų sąrašą savivaldybių teikimu Turto fondas įtraukia ir savivaldybėms nuosavybės teise priklausančius privatizavimo objektus, kuriuos savivaldybės nusprendžia privatizuoti. Į privatizavimo objektų sąrašą pagal šį įstatymą negali būti įtrauktas Lietuvos Respublikai išimtine nuosavybės teise priklausantis turtas, savivaldybių gyvenamosios patalpos (išskyrus avarinius gyvenamuosius namus, iš kurių iškeldinti gyventojai ir jiems neterminuotai išnuomotos kitos gyvenamosios patalpos, ir jei tie avariniai namai išbraukti iš gyvenamųjų patalpų apskaitos dokumentų) ir turtas, į kurį Lietuvos Respublikos įstatymų nustatyta tvarka pretenduoja atkurti nuosavybės teisę fiziniai asmenys ir religinės bendruomenės.
+2. Privatizavimo objektų sąrašą Turto fondo teikimu tvirtina Vyriausybė. Į šį sąrašą gali būti įtrauktos visų valstybei ir savivaldybei nuosavybės teise priklausančių įmonių akcijos, išskyrus tas akcinių ir uždarųjų akcinių bendrovių akcijas, kurių privatizavimą riboja įstatymai. Į privatizavimo objektų sąrašą savivaldybių teikimu Turto fondas įtraukia ir savivaldybėms nuosavybės teise priklausančius privatizavimo objektus, kuriuos savivaldybės nusprendžia privatizuoti. Į privatizavimo objektų sąrašą pagal šį įstatymą negali būti įtrauktas Lietuvos Respublikai išimtine nuosavybės teise priklausantis turtas, savivaldybių gyvenamosios patalpos (išskyrus avarinius gyvenamuosius namus, iš kurių iškeldinti gyventojai ir jiems neterminuotai išnuomotos kitos gyvenamosios patalpos, ir jei tie avariniai namai išbraukti iš gyvenamųjų patalpų apskaitos dokumentų) ir turtas, į kurį Lietuvos Respublikos įstatymų nustatyta tvarka pretenduoja atkurti nuosavybės teisę fiziniai asmenys ir religinės bendruomenės. 
+Straipsnio dalies pakeitimai:
+Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
+ 
 
 
 
@@ -636,14 +639,19 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, o jo privatizavimo programa gali būti sustabdyta ir(ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, ar dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas.
+12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, jo privatizavimo programa gali būti sustabdyta ir (ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, arba jei dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat kai šiuo objektu atlyginama piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą vadovaujantis Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymu, taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas. Privatizavimo objektas iš privatizavimo objektų sąrašo taip pat gali būti išbrauktas, jei jis yra reikalingas atitinkamai valstybės, savivaldybių ar visuomenės reikmėms tenkinti. 
+Straipsnio dalies pakeitimai:
+Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
+ 
 
 
 
 
-13. Nuomos metu dėl privatizavimo objekto (statinio) pagerinimo padarytas išlaidas pagal Lietuvos Respublikos civilinį kodeksą nuomininkui Lietuvos Respublikos Vyriausybės nustatyta tvarka atlygina potencialus pirkėjas, įsigyjantis privatizavimo objektą. Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka vertinant tokį privatizavimo objektą turi būti nustatytas vertės padidėjimas procentais dėl šiam objektui (statiniui) pagerinti padarytų išlaidų. Gaunamos iš privatizavimo sandorio lėšos, atitinkamai jas sumažinus dėl privatizavimo objekto vertės padidėjimo, pervedamos į Finansų ministerijai atidarytą privatizavimo fondo sąskaitą (jei privatizavimo objektas nuosavybės teise priklauso savivaldybei, - į savivaldybės specialiąją sąskaitą). Likusi privatizavimo lėšų dalis pervedama nuomininkui, išskyrus tą dalį, kuri buvo įskaityta į nuomos mokestį. Ši lėšų dalis pervedama į privatizavimo objekto valdytojo sąskaitą.
+13. Nuomos metu dėl privatizavimo objekto (statinio) pagerinimo padarytas išlaidas pagal Lietuvos Respublikos civilinį kodeksą nuomininkui Lietuvos Respublikos Vyriausybės nustatyta tvarka atlygina potencialus pirkėjas, įsigyjantis privatizavimo objektą. Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka vertinant tokį privatizavimo objektą turi būti nustatytas vertės padidėjimas procentais dėl šiam objektui (statiniui) pagerinti padarytų išlaidų. Gaunamos iš privatizavimo sandorio lėšos, atitinkamai jas sumažinus dėl privatizavimo objekto vertės padidėjimo, bet ne daugiau už šiam objektui pagerinti padarytas išlaidas, pervedamos į Finansų ministerijai atidarytą privatizavimo fondo sąskaitą (jei privatizavimo objektas nuosavybės teise priklauso savivaldybei, – į savivaldybės specialiąją sąskaitą). Likusi privatizavimo lėšų dalis pervedama nuomininkui, išskyrus tą dalį, kuri buvo įskaityta į nuomos mokestį. Ši į nuomos mokestį įskaityta lėšų dalis pervedama į privatizavimo objekto valdytojo sąskaitą. 
 Papildyta straipsnio dalimi:
 Nr. VIII-1575, 2000-03-16, Žin., 2000, Nr. 28-765 (2000-04-05), i. k. 1001010ISTAIII-1575
+Straipsnio dalies pakeitimai:
+Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
  
 
 
@@ -689,7 +697,9 @@ Nr. VIII-1575, 2000-03-16, Žin., 2000, Nr. 28-765 (2000-04-05), i. k. 1001010IS
 
 
 
-3. Šio straipsnio 1 dalyje nurodyta informacija apie privatizavimo objektą Informaciniame privatizavimo biuletenyje turi būti paskelbta ne vėliau kaip prieš 30 dienų iki paraiškų ar kitų privatizavimo dokumentų dėl dalyvavimo privatizavime priėmimo pradžios. Kai akcijos parduodamos Nacionalinėje vertybinių popierių biržoje, informacija apie privatizavimo objektą yra skelbiama Informaciniame privatizavimo biuletenyje ir biržos informaciniame leidinyje pagal šios biržos nustatytas taisykles. Kai yra reali tikimybė parduoti privatizavimo objektą užsienio fiziniam ar juridiniam asmeniui, Turto fondo nustatyta informacija apie privatizavimo objektą turi būti paskelbta ir užsienio spaudoje.
+3. Šio straipsnio 1 dalyje nurodyta informacija apie privatizavimo objektą Informaciniame privatizavimo biuletenyje turi būti paskelbta ne vėliau kaip prieš 30 dienų iki paraiškų ar kitų privatizavimo dokumentų dėl dalyvavimo privatizavime priėmimo pradžios, o kai informacija apie privatizavimo objektą skelbiama ne pirmą kartą, – ne vėliau kaip prieš 10 dienų. Kai akcijos parduodamos Nacionalinėje vertybinių popierių biržoje, informacija apie privatizavimo objektą yra skelbiama Informaciniame privatizavimo biuletenyje ir biržos informaciniame leidinyje pagal šios biržos nustatytas taisykles. Kai yra reali tikimybė parduoti privatizavimo objektą užsienio fiziniam ar juridiniam asmeniui, Turto fondo nustatyta informacija apie privatizavimo objektą turi būti paskelbta ir užsienio spaudoje. 
+Straipsnio dalies pakeitimai:
+Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
  
 
 
@@ -911,9 +921,27 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-5. Tiesioginių derybų būdu gali būti privatizuojami valstybei ar savivaldybei nuosavybės teise priklausantys pastatai ar patalpos, į kuriuos buvo investuota privataus kapitalo, ir tenkinamos sąlygos, nustatytos Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 20 straipsnio 5 dalyje. Privatizuojant tokį turtą, Vyriausybės nustatyta tvarka tiesioginės derybos gali būti vykdomos su vienu pirkėju, investavusiu privatų kapitalą. 
+5. Tiesioginių derybų būdu gali būti privatizuojami valstybei ar savivaldybei nuosavybės teise priklausantys pastatai ar patalpos, į kuriuos, gavus nuomotojo leidimą, buvo investuota privataus kapitalo, kurio vertė didesnė negu 1/2 išsinuomotų pastatų ar patalpų rinkos vertės, jeigu šie pastatai ar patalpos atitinka bent vieną iš šių sąlygų: pakeista ne mažiau kaip 1/2 jų pagrindinių konstrukcijų; bendras jų plotas ar tūris padidintas daugiau kaip 1/3; pakeista daugiau kaip 1/2 jų inžinerinių komunikacijų ar įrengtos naujos inžinerinės komunikacijos; taip pat juose atlikta šių darbų dalis ir (arba) sumontuota technologinė įranga ir gamybiniai įrengimai, kuriuos išmontuojant būtų padaryta esminės žalos įrangai, įrengimams, pastatui arba patalpoms. Privatizuojant tokį turtą, Vyriausybės nustatyta tvarka tiesioginės derybos gali būti vykdomos su vienu pirkėju, investavusiu privatų kapitalą šioje dalyje nustatytomis sąlygomis. 
 Papildyta straipsnio dalimi:
 Nr. VIII-1888, 2000-07-20, Žin., 2000, Nr. 66-1986 (2000-08-04), i. k. 1001010ISTAIII-1888
+Straipsnio dalies pakeitimai:
+Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
+ 
+
+
+
+
+6. Tiesioginės derybos su vienu ar daugiau potencialių pirkėjų gali būti vykdomos ir privatizuojant uždarosios akcinės bendrovės akcijas, kurias valstybė ar savivaldybė įsigijo už šiai uždarajai akcinei bendrovei perduotus negyvenamuosius pastatus ar patalpas, jei potencialūs pirkėjai yra šios uždarosios akcinės bendrovės akcininkai. 
+Papildyta straipsnio dalimi:
+Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
+ 
+
+
+
+
+7. Privatizavimo objekto valdytojas per 45 kalendorines dienas nuo potencialaus pirkėjo iniciatyvinio pasiūlymo ir dokumentų, patvirtinančių, kad tenkinamos šio straipsnio 5 ar 6 dalyse nustatytos sąlygos, gavimo dienos privalo priimti sprendimą vykdyti tiesiogines derybas dėl šio straipsnio 5 ar 6 dalyse nurodyto turto privatizavimo arba motyvuotai atsakyti, kodėl pagal pateiktus dokumentus šis turtas negali būti privatizuojamas tiesioginių derybų būdu. 
+Papildyta straipsnio dalimi:
+Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
  
 
 
@@ -921,7 +949,7 @@ Nr. VIII-1888, 2000-07-20, Žin., 2000, Nr. 66-1986 (2000-08-04), i. k. 1001010I
 
 
 
-18 straipsnis.       Valstybės ar savivaldybės kontrolės perdavimas valstybės ar savivaldybės kontroliuojamoje įmonėje
+18 straipsnis. Valstybės ar savivaldybės kontrolės perdavimas valstybės ar savivaldybės kontroliuojamoje įmonėje
 
 
 1. Kontrolės perdavimas valstybės ar savivaldybės kontroliuojamoje įmonėje – konvertuojamų obligacijų arba naujų akcijų emisija iš papildomų įnašų, dėl kurios valstybės ar savivaldybės dalis įmonės įstatiniame kapitale sumažėja ar gali sumažėti atitinkamai peržengdama 2/3, 1/2 ar 1/3 akcijų, suteikiančių balso teisę visuotiniame akcininkų susirinkime, ribą.
@@ -958,7 +986,10 @@ Nr. VIII-1888, 2000-07-20, Žin., 2000, Nr. 66-1986 (2000-08-04), i. k. 1001010I
 
 
 
-2) valstybei ar savivaldybei nuosavybės teise priklausančius pastatus ar patalpas, į kurias buvo investuota privataus kapitalo, ir yra tenkinamos sąlygos, nustatytos Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 20 straipsnio 5 dalyje. Privatizuojant tokį turtą nuomos su išsipirkimu būdu, Vyriausybės nustatyta tvarka derybos gali būti vykdomos su vienu nuomininku (pirkėju), investavusiu privatų kapitalą. Tokiais atvejais nuomos su išsipirkimu vertinimo kriterijus yra nuomos kaina, diskontuota nuomos su išsipirkimu sutarties pasirašymo dieną. 
+2) valstybei ar savivaldybei nuosavybės teise priklausančius pastatus ar patalpas, į kuriuos, gavus nuomotojo leidimą, buvo investuota privataus kapitalo, kurio vertė didesnė negu 1/2 išsinuomotų pastatų ar patalpų rinkos vertės, jeigu šie pastatai ar patalpos atitinka bent vieną iš šių sąlygų: pakeista ne mažiau kaip 1/2 jų pagrindinių konstrukcijų; bendras jų plotas ar tūris padidintas daugiau kaip 1/3; pakeista daugiau kaip 1/2 jų inžinerinių komunikacijų ar įrengtos naujos inžinerinės komunikacijos; taip pat juose atlikta šių darbų dalis ir (arba) sumontuota technologinė įranga ir gamybiniai įrengimai, kuriuos išmontuojant būtų padaryta esminės žalos įrangai, įrengimams, pastatui arba patalpoms. Privatizuojant tokį turtą nuomos su išsipirkimu būdu, Vyriausybės nustatyta tvarka derybos gali būti vykdomos su vienu nuomininku (pirkėju), investavusiu privatų kapitalą šiame punkte nustatytomis sąlygomis. Nuomos su išsipirkimu vertinimo kriterijus yra nuomos kaina, diskontuota nuomos su išsipirkimu konkurso rengimo dieną. 
+Straipsnio punkto pakeitimai:
+Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1441,3 +1472,13 @@ Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-611, 2001-11-20, Žin., 2001, Nr. 103-3654 (2001-12-07), i. k. 1011010ISTA00IX-611
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 2, 4, 5, 7, 16 ir 17 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10, 11, 17, 19 straipsnių pakeitimo ir papildymo įstatymas
