@@ -21,12 +21,7 @@ VALSTYBĖS IR TARNYBOS PASLAPČIŲ
 ĮSTATYMAS
 1999 m. lapkričio 25 d. Nr. VIII-1443
 Vilnius
-
-
-
-
- 
-Nauja įstatymo redakcija nuo 2004-05-01:
+Nauja įstatymo redakcija nuo 2004 m. gegužės 1 d.:
 Nr.
 IX-1908,
 2003-12-16, Žin., 2004, Nr. 4-29 (2004-01-07)
@@ -103,9 +98,9 @@ skysčiai, dujos, mineralai, biologinės ir kitos materijos formos, kurių pagal
 savybes ar prigimtį negalima priskirti dokumento, gaminių ar darbų sąvokai.
 8. Paslapčių
 subjektai – Respublikos Prezidento, Seimo, Vyriausybės steigiamos
-institucijos, valstybės ir savivaldybių institucijos, jų steigiamos įmonės ir
-įstaigos, kurių veikla yra susijusi su informacijos įslaptinimu ir
-išslaptinimu, įslaptintos informacijos naudojimu ar jos apsauga.
+institucijos, valstybės ir savivaldybių institucijos, jų steigiamos įmonės ir įstaigos,
+kurių veikla yra susijusi su informacijos įslaptinimu ir išslaptinimu, įslaptintos
+informacijos naudojimu ar jos apsauga.
 9.
 Įslaptintos informacijos rengėjas – paslapčių subjektas, parengęs ir šio
 Įstatymo nustatyta tvarka įslaptinęs informaciją, arba jo teisių
@@ -128,8 +123,8 @@ siekiant išvengti įslaptintos informacijos praradimo ar neteisėto atskleidimo
 patikimumas – nustatytos asmenų, kurie pretenduoja gauti leidimus dirbti
 ar susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimus,
 kandidatūrų tikrinimo procedūros, leidžiančios priimti sprendimą, ar asmeniui
-galima patikėti įslaptintą informaciją, taip pat asmens, kuriam išduotas
-leidimas dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo
+galima patikėti įslaptintą informaciją, taip pat asmens, kuriam išduotas leidimas
+dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo
 pažymėjimas, kontrolė ir periodiškas instruktavimas apie įslaptintos
 informacijos apsaugos reikalavimus ir įstatymų nustatytą atsakomybę už tokių
 reikalavimų pažeidimą.
@@ -151,11 +146,11 @@ susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimą,
 raštiškas sutikimas, suteikiantis teisę įgaliotoms institucijoms rinkti bei
 gauti duomenis apie jį ir jo ryšius bei aplinką, turinčius įtakos vertinant
 asmens patikimumą ir lojalumą Lietuvos valstybei.
-18. Pasižadėjimas
-saugoti įslaptintą informaciją – asmens, kuriam suteiktas leidimas dirbti
-ar susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimas,
-raštiškas įsipareigojimas saugoti jam patikėtą ar sužinotą įslaptintą
-informaciją.
+18.
+Pasižadėjimas saugoti įslaptintą informaciją – asmens, kuriam suteiktas
+leidimas dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo
+pažymėjimas, raštiškas įsipareigojimas saugoti jam patikėtą ar sužinotą
+įslaptintą informaciją.
 19. Fizinė
 apsauga – visuma fizinių, mechaninių, elektroninių ir procedūrinių
 apsaugos priemonių bei metodų, užtikrinančių teritorijų, patalpų, kuriose
@@ -184,12 +179,12 @@ ir elektroninių apsaugos priemonių visuma, užtikrinanti ADA sistemose ir
 tinkluose saugomos, apdorojamos bei šiais tinklais perduodamos įslaptintos
 informacijos slaptumą (konfidencialumą), prieinamumą teisėtiems informacijos
 vartotojams bei tokios informacijos vientisumą ir autentiškumą.
-24.
-Įslaptintas sandoris – paslapčių subjekto ir juridinio ar fizinio asmens sudaryta
-sutartis dėl tam tikrų darbų, gaminių ar kitų objektų, kurie patys arba
-informacija apie kuriuos yra žymima slaptumo žymomis „Visiškai slaptai“,
-„Slaptai“ arba „Konfidencialiai“, atlikimo, sukūrimo, pirkimo, pardavimo,
-tiekimo, fizinės apsaugos, gabenimo bei techninės priežiūros.
+24. Įslaptintas
+sandoris – paslapčių subjekto ir juridinio ar fizinio asmens sudaryta sutartis
+dėl tam tikrų darbų, gaminių ar kitų objektų, kurie patys arba informacija apie
+kuriuos yra žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“ arba
+„Konfidencialiai“, atlikimo, sukūrimo, pirkimo, pardavimo, tiekimo, fizinės
+apsaugos, gabenimo bei techninės priežiūros.
 25.
 Įslaptintų sandorių saugumas – įslaptintos informacijos apsaugos priemonių
 ir procedūrų taikymas įslaptintų sandorių sudarymo bei vykdymo metu.
@@ -203,9 +198,9 @@ asmuo.
 patikimumą patvirtinantis pažymėjimas – šio Įstatymo nustatyta tvarka
 išduotas dokumentas, patvirtinantis, kad rangovas (subrangovas) yra įvykdęs
 visus įslaptintos informacijos apsaugos reikalavimus, būtinus konkrečiam
-įslaptintam sandoriui vykdyti. Reikalavimas gauti įmonės patikimumą
-patvirtinantį pažymėjimą yra taikomas tuo atveju, kai rangovas (subrangovas)
-yra juridinis asmuo.
+įslaptintam sandoriui vykdyti. Reikalavimas gauti įmonės patikimumą patvirtinantį
+pažymėjimą yra taikomas tuo atveju, kai rangovas (subrangovas) yra juridinis
+asmuo.
 29.
 Įslaptintų sandorių saugumą užtikrinančios institucijos – institucijos,
 įgyvendinančios įslaptintų sandorių saugumo reikalavimus ir vykdančios kontrolę
@@ -231,7 +226,6 @@ sprendimu paskirtas atskiras struktūrinis paslapčių subjekto padalinys
 darbuotojas, organizuojantis ir įgyvendinantis įslaptintos informacijos, kuria
 disponuoja paslapčių subjektas ar rangovas (subrangovas), administravimą,
 apsaugą ir kontrolę.
- 
  
 3
 straipsnis. Pagrindiniai įslaptintos informacijos apsaugos organizavimo
@@ -260,11 +254,11 @@ informacijai visuose tokios informacijos administravimo etapuose turi būti
 užtikrinta reikiama apsauga visą jos įslaptinimo terminą.
 6. Įslaptinta
 informacija turi būti patikima griežtai laikantis principo „Būtina žinoti“.
-Principas „Būtina žinoti“ reiškia, kad įslaptinta informacija gali būti patikėta
-tik atitinkamus leidimus dirbti ar susipažinti su įslaptinta informacija
-turintiems asmenims, kuriems vykdant tarnybines pareigas reikalinga susipažinti
-su įslaptinta informacija. Asmeniui gali būti patikėta tokios apimties
-įslaptinta informacija, kokios reikia jo pareigoms atlikti.
+Principas „Būtina žinoti“ reiškia, kad įslaptinta informacija gali būti
+patikėta tik atitinkamus leidimus dirbti ar susipažinti su įslaptinta
+informacija turintiems asmenims, kuriems vykdant tarnybines pareigas reikalinga
+susipažinti su įslaptinta informacija. Asmeniui gali būti patikėta tokios
+apimties įslaptinta informacija, kokios reikia jo pareigoms atlikti.
 7. Įslaptintos
 informacijos apsaugai užtikrinti turi būti kompleksiškai taikomi visų
 įslaptintos informacijos apsaugos sričių (personalo patikimumo, įslaptintos
@@ -280,7 +274,6 @@ pranešti įgaliotoms institucijoms, o šios nustatyta tvarka turi atlikti tyrim
 dėl informacijos apsaugos reikalavimų pažeidimų faktų nustatymo ir kaltų asmenų
 patraukimo atsakomybėn.
  
- 
 4
 straipsnis. Įslaptintos informacijos nuosavybės teisė, įslaptintos informacijos
 perdavimas užsienio valstybėms ar tarptautinėms organizacijoms
@@ -291,29 +284,27 @@ sudarančią informaciją, yra Lietuvos Respublikos nuosavybė.
 informaciją, kuri pagal savo pobūdį ir svarbą turėtų būti įslaptinta, tačiau
 nuosavybės teise priklauso fiziniam ar juridiniam asmeniui, kuris nėra
 paslapčių subjektas, turi būti teisingai atlyginama. Sprendimą dėl informacijos
-įsigijimo valstybės nuosavybėn priima Vyriausybė. Lietuvos Respublikos
-paslapčių apsaugos koordinavimo komisija (toliau – Paslapčių apsaugos
-koordinavimo komisija) paslapčių subjektų teikimu įvertina tokios informacijos
-įsigijimo pagrįstumą ir nustato galimą atlygį informacijos savininkui.
-Informacijos savininkui sutikus su siūlomu atlygiu, paslapčių subjektas
-kreipiasi į Vyriausybę, kad būtų priimtas atitinkamas sprendimas. Informacijos
-savininkui nesutikus su siūlomu atlygiu, informacija Vyriausybės sprendimu
-paimama valstybės nuosavybėn tokios informacijos savininkui atlyginant Paslapčių
+įsigijimo valstybės nuosavybėn priima Vyriausybė. Lietuvos Respublikos paslapčių
+apsaugos koordinavimo komisija (toliau – Paslapčių apsaugos koordinavimo
+komisija) paslapčių subjektų teikimu įvertina tokios informacijos įsigijimo
+pagrįstumą ir nustato galimą atlygį informacijos savininkui. Informacijos
+savininkui sutikus su siūlomu atlygiu, paslapčių subjektas kreipiasi į
+Vyriausybę, kad būtų priimtas atitinkamas sprendimas. Informacijos savininkui
+nesutikus su siūlomu atlygiu, informacija Vyriausybės sprendimu paimama
+valstybės nuosavybėn tokios informacijos savininkui atlyginant Paslapčių
 apsaugos koordinavimo komisijos nustatyta kaina. Informacijos savininkas tokį
 Vyriausybės sprendimą įstatymų nustatyta tvarka gali apskųsti teismui.
 3. Valstybės paslaptį sudaranti
-informacija gali būti perduodama tik toms valstybėms ar tarptautinėms organizacijoms,
-su kuriomis Lietuvos Respublika yra pasirašiusi sutartis dėl įslaptintos
-informacijos abipusės apsaugos. Valstybėms ar tarptautinėms organizacijoms, su
-kuriomis Lietuvos Respublika nėra sudariusi sutarties dėl įslaptintos
-informacijos abipusės apsaugos, tokia informacija gali būti perduodama
-Paslapčių apsaugos koordinavimo komisijos sprendimu.
+informacija gali būti perduodama tik toms valstybėms ar tarptautinėms
+organizacijoms, su kuriomis Lietuvos Respublika yra pasirašiusi sutartis dėl
+įslaptintos informacijos abipusės apsaugos. Valstybėms ar tarptautinėms
+organizacijoms, su kuriomis Lietuvos Respublika nėra sudariusi sutarties dėl
+įslaptintos informacijos abipusės apsaugos, tokia informacija gali būti
+perduodama Paslapčių apsaugos koordinavimo komisijos sprendimu.
 4. Tarnybos paslaptį sudaranti
 informacija užsienio valstybėms ar tarptautinėms organizacijoms gali būti
 perduodama paslapčių subjekto vadovo ar jo įgalioto asmens sprendimu, kai tai
 būtina paslapčių subjekto funkcijoms atlikti.
- 
- 
  
 ANTRASIS SKIRSNIS
 ĮSLAPTINTOS INFORMACIJOS ŽYMĖJIMAS,
@@ -384,10 +375,10 @@ apie mobilizacinį materialinių išteklių rezervą;
 savivaldybių institucijų veiklos nepaprastosios padėties ir karo padėties
 sąlygomis planai bei mobilizacijos planai;
 3) detalūs
-duomenys apie technologinės apsaugos elementų, naudojamų vertybiniams
-popieriams, dokumentams, banderolėms, žymenims, banknotams, monetoms nuo
-suklastojimo apsaugoti, kūrimą, gamybos technologijas, fizikines ir chemines
-savybes;
+duomenys apie technologinės apsaugos priemonių, naudojamų vertybiniams
+popieriams, dokumentams, dokumentų blankams, banderolėms, oficialiems žymėjimo
+ženklams, banknotams, monetoms nuo suklastojimo apsaugoti, kūrimą, naudojimą,
+gamybos technologijas, techninius duomenis;
 4) detali
 informacija apie technologinių procesų panaudojimą kokybiškai tobulinant
 ginkluotę, karinę techniką bei operatyvinėje veikloje naudojamas technines
@@ -445,18 +436,18 @@ socialinio draudimo ir privalomojo sveikatos draudimo įmokas, pajamų mokesči�
 18) detalūs
 duomenys apie Valstybės saugumo departamento bei Antrojo operatyvinių tarnybų
 departamento prie Krašto apsaugos ministerijos struktūrinių padalinių,
-vykdančių žvalgybą ar kontržvalgybą, vykdomos operatyvinės veiklos
-organizavimą, eigą ir rezultatus, priemonių ir metodų naudojimą, jų
-finansavimą, aprūpinimą operatyvinės veiklos techninėmis priemonėmis, kitą
-materialinį bei techninį aprūpinimą, operatyvinių veiksmų metu gauta
-informacija, taip pat analitinė informacija, kurioje naudojama žvalgybos,
-kontržvalgybos metu gauta informacija;
+vykdančių žvalgybą ar kontržvalgybą, vykdomos operatyvinės veiklos organizavimą,
+eigą ir rezultatus, priemonių ir metodų naudojimą, jų finansavimą, aprūpinimą
+operatyvinės veiklos techninėmis priemonėmis, kitą materialinį bei techninį
+aprūpinimą, operatyvinių veiksmų metu gauta informacija, taip pat analitinė
+informacija, kurioje naudojama žvalgybos, kontržvalgybos metu gauta
+informacija;
 19) detalūs
 duomenys apie operatyvinės veiklos subjektų operatyvinės veiklos slaptųjų
 dalyvių vykdomos operatyvinės veiklos organizavimą, eigą ir rezultatus,
-priemonių ir metodų naudojimą, jų finansavimą, materialinį bei techninį aprūpinimą,
-operatyvinės veiklos slaptųjų dalyvių operatyvinių veiksmų metu gauta
-informacija bei jos pagrindu parengta analitinė informacija;
+priemonių ir metodų naudojimą, jų finansavimą, materialinį bei techninį
+aprūpinimą, operatyvinės veiklos slaptųjų dalyvių operatyvinių veiksmų metu
+gauta informacija bei jos pagrindu parengta analitinė informacija;
 20) informacija,
 kurią esami ar buvę kitų valstybių specialiųjų tarnybų darbuotojai ar
 slaptieji bendradarbiai savanoriškai suteikė operatyvinės veiklos
@@ -481,8 +472,8 @@ sudarančiais juridiniais asmenimis;
 saugumą užtikrinančių institucijų parengta analitinė informacija, susijusi su
 užsienio rizikos veiksnių ir grėsmių įvertinimu;
 27) duomenys
-apie krašto apsaugos sistemos specialiosios paskirties karinių vienetų operacijų
-eigą bei jų personalinę sudėtį;
+apie krašto apsaugos sistemos specialiosios paskirties karinių vienetų
+operacijų eigą bei jų personalinę sudėtį;
 28) detalūs
 duomenys apie naujas technologijas, mokslinius tyrimus, bandymus ir jų
 rezultatus, turinčius ypatingą reikšmę valstybės interesams.
@@ -544,9 +535,9 @@ pajėgų organizacinės bei techninės plėtros planai;
 detalizuoti duomenys apie Lietuvos kariuomenės, kitų krašto apsaugos sistemos
 institucijų ir ginkluotųjų pajėgų, vidaus reikalų sistemos institucijų,
 operatyvinės veiklos subjektų, Ginklų fondo aprūpinimą ginklais, šaudmenimis,
-sprogmenimis, kovine technika, specialiosiomis priemonėmis, taip pat
-informacija apie operatyvinės veiklos subjektų aprūpinimą operatyvinės veiklos
-techninėmis priemonėmis;
+sprogmenimis, kovine technika, specialiosiomis priemonėmis, taip pat informacija
+apie operatyvinės veiklos subjektų aprūpinimą operatyvinės veiklos techninėmis
+priemonėmis;
 17) detalūs
 duomenys apie ginklų, šaudmenų, sprogmenų, kovinės technikos, specialiųjų
 priemonių, operatyvinės veiklos techninių priemonių gamybos programas ir
@@ -559,13 +550,13 @@ ir operatyvinės veiklos techninėms priemonėms įsigyti;
 duomenys apie krašto apsaugos sistemos institucijų, vidaus reikalų sistemos
 institucijų, operatyvinės veiklos subjektų, prokuratūros, Lietuvos banko,
 Ginklų fondo turimus ginklus, šaudmenis, sprogmenis, kovinę techniką,
-specialiąsias priemones, operatyvinės veiklos technines priemones, taip pat asmens
-saugos ir aktyviosios ginties, radiacinės ir cheminės saugos, specialiųjų
-degazavimo priemonių ir inžinerinės technikos saugojimo bei apskaitos normas,
-paskirstymą ir apsaugos organizavimą;
-20) detalūs
-duomenys apie operatyvinės veiklos subjektų operatyvinės veiklos organizavimą
-ir eigą, priemonių ir metodų naudojimą, užduotis, operacijas, jų finansavimą,
+specialiąsias priemones, operatyvinės veiklos technines priemones, taip pat
+asmens saugos ir aktyviosios ginties, radiacinės ir cheminės saugos,
+specialiųjų degazavimo priemonių ir inžinerinės technikos saugojimo bei
+apskaitos normas, paskirstymą ir apsaugos organizavimą;
+20) detalūs duomenys
+apie operatyvinės veiklos subjektų operatyvinės veiklos organizavimą ir eigą,
+priemonių ir metodų naudojimą, užduotis, operacijas, jų finansavimą,
 rezultatus, materialinį bei techninį aprūpinimą, operatyvinių veiksmų metu
 gauta informacija, jeigu tokia informacija nepriskiriama valstybės paslaptims,
 taip pat operatyvinės veiklos subjektų parengta analitinė-informacinė medžiaga,
@@ -576,11 +567,8 @@ charakteristikos, karinių ir valstybės sienos apsaugos objektų charakteristik
 bei paskirtis, taip pat karinės paskirties žemėlapiai;
 22) tyrimo
 poligrafu išvada ir tyrimo metu padaryti garso ir (ar) vaizdo įrašai;
-23) informacija,
-telekomunikacinės veiklos reguliavimo, priežiūros ir Telekomunikacijų įstatymo
-nuostatų įgyvendinimo tikslams gauta iš valstybės ir savivaldybės institucijų,
-telekomunikacijų operatorių bei paslaugų teikėjų ir radijo dažnių (kanalų) bei
-telefono ryšio numerių naudotojų;
+23) (neteko galios
+nuo 2004 m. gegužės 1 d.);
 24) informacija
 apie Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei
 kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 3 straipsnio 1
@@ -604,6 +592,12 @@ informacijos slaptumo žymos, tokios informacijos įslaptinimo terminai arba
 išslaptinimo sąlygos. Detalius įslaptinamos informacijos sąrašus tvirtina ir
 keičia paslapčių subjektų vadovai, suderinę su Paslapčių apsaugos koordinavimo
 komisija.
+Straipsnio
+pakeitimai:
+Nr. IX-2137,
+2004-04-15, Žin., 2004, Nr. 68-2364 (2004-04-29)
+Nr. IX-2349, 2004-07-13, Žin., 2004, Nr. 116-4322
+(2004-07-27)
  
 8 straipsnis.
 Įslaptinimo terminai
@@ -631,16 +625,16 @@ informacijos įslaptinimas yra tikslingas tik iki tam tikro įvykio, kuriam
 įvykus informacijos įslaptinimas nebetenka prasmės, šalia slaptumo žymos
 nurodomas konkretus įvykis ar kitos informacijos išslaptinimo sąlygos.
 5. Tais atvejais, kai neįmanoma
-nustatyti konkretaus įslaptinimo termino, tačiau žinoma, kad netikslinga
-informaciją laikyti įslaptintą visą įstatymo nustatytą įslaptinimo terminą arba
-ją automatiškai išslaptinti pasibaigus įstatymo nustatytam įslaptinimo
-terminui, arba yra žinoma, kad bus keičiama įslaptintos informacijos slaptumo
-žyma, informacijos rengėjo sprendimu šalia slaptumo žymos rašoma nuoroda „ISS“
+nustatyti konkretaus įslaptinimo termino, tačiau žinoma, kad netikslinga informaciją
+laikyti įslaptintą visą įstatymo nustatytą įslaptinimo terminą arba ją
+automatiškai išslaptinti pasibaigus įstatymo nustatytam įslaptinimo terminui,
+arba yra žinoma, kad bus keičiama įslaptintos informacijos slaptumo žyma,
+informacijos rengėjo sprendimu šalia slaptumo žymos rašoma nuoroda „ISS“
 (išslaptinama subjekto sprendimu).
 6. Tais atvejais, kai valstybės
 paslaptį sudarančios informacijos įslaptinimo terminas turi būti ilgesnis, negu
-nustatyta šio straipsnio 1 dalies 1 ir 2 punktuose, šį klausimą paslapčių subjekto
-teikimu sprendžia bei įslaptinimo terminą pratęsia Paslapčių apsaugos
+nustatyta šio straipsnio 1 dalies 1 ir 2 punktuose, šį klausimą paslapčių
+subjekto teikimu sprendžia bei įslaptinimo terminą pratęsia Paslapčių apsaugos
 koordinavimo komisija. Įslaptinimo terminas gali būti pratęsiamas iki 10 metų.
 Pratęsimų skaičius neribojamas.
 7. Tais
@@ -711,8 +705,8 @@ apsaugos koordinavimo komisija susideda iš septynių narių – po du narius
 deleguoja Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas.
 Šios komisijos pirmininkas yra Valstybės saugumo departamento generalinis
 direktorius. 
-3. Valstybės saugumo
-departamento struktūrinis padalinys, įgyvendinantis ir kontroliuojantis
+3. Valstybės
+saugumo departamento struktūrinis padalinys, įgyvendinantis ir kontroliuojantis
 įslaptintos informacijos apsaugos veiksmus, atlieka Paslapčių apsaugos
 koordinavimo komisijos sekretoriato funkcijas, šio padalinio vadovas skiriamas
 Paslapčių apsaugos koordinavimo komisijos sekretoriumi. Paslapčių apsaugos
@@ -739,8 +733,8 @@ Respublikai perduotos įslaptintos informacijos, žymimos slaptumo žymų „Vis
 slaptai“, „Slaptai“ ir „Konfidencialiai“ atitikmenimis, reikiamų apsaugos
 veiksmų įgyvendinimo kontrolę, atlieka kitas funkcijas užtikrindama Lietuvos
 Respublikai perduotos įslaptintos informacijos saugumą pagal Europos Sąjungos
-teisės aktus ar Lietuvos Respublikos tarptautines sutartis su užsienio
-valstybėmis arba tarptautinėmis organizacijomis;
+teisės aktus ar Lietuvos Respublikos tarptautines sutartis su užsienio valstybėmis
+arba tarptautinėmis organizacijomis;
 3) užtikrina
 Lietuvos Respublikos tarptautinėse sutartyse, susijusiose su įslaptintos
 informacijos apsaugos užtikrinimu, numatytų informacijos apsaugos veiksmų
@@ -751,8 +745,8 @@ tarptautinių organizacijų Lietuvos Respublikai perduota įslaptinta informacij
 tikrinimą atlikusių institucijų teikimu išduoda asmens patikimumo pažymėjimus
 asmenims, kuriems atliekant tarnybines pareigas reikia dirbti ar susipažinti su
 įslaptinta užsienio valstybių ar tarptautinių organizacijų Lietuvos Respublikai
-perduota įslaptinta informacija, taip pat, esant šio Įstatymo nustatytiems
-pagrindams, panaikina asmens patikimumo pažymėjimus;
+perduota įslaptinta informacija, taip pat, esant šio Įstatymo nustatytiems pagrindams,
+panaikina asmens patikimumo pažymėjimus;
 5) siūlo Valstybės saugumo
 departamentui steigti nacionalinę Centrinę registratūrą, vykdančią užsienio
 valstybių, Europos Sąjungos ar tarptautinių organizacijų Lietuvos Respublikai
@@ -760,10 +754,10 @@ perduotų įslaptintų dokumentų su slaptumo žymų „Visiškai slaptai“, �
 atitikmenimis registraciją, apskaitą ir paskirstymą;
 6) paslapčių
 subjektų teikimu priima sprendimus dėl naujų Lietuvos Respublikai perduotos
-įslaptintos informacijos registratūrų steigimo tikslingumo, įsteigtas registratūras
-pripažįsta tinkamomis saugoti perduotą įslaptintą informaciją, priima
-sprendimus dėl įsteigtų registratūrų panaikinimo tikslingumo. Prireikus siūlo
-paslapčių subjektams steigti kitas savarankiškas įslaptintos informacijos
+įslaptintos informacijos registratūrų steigimo tikslingumo, įsteigtas
+registratūras pripažįsta tinkamomis saugoti perduotą įslaptintą informaciją,
+priima sprendimus dėl įsteigtų registratūrų panaikinimo tikslingumo. Prireikus
+siūlo paslapčių subjektams steigti kitas savarankiškas įslaptintos informacijos
 registratūrų sistemas arba jas panaikinti, jei to reikalauja Lietuvos
 Respublikos tarptautinės sutartys ar susitarimai;
 7) įgalioja paslapčių subjektus
@@ -777,9 +771,9 @@ tobulinimo;
 9) nustato
 bendruosius atskirų įslaptintos informacijos apsaugos sričių (personalo
 patikimumo, fizinės apsaugos, įslaptintų sandorių saugumo, užsienio valstybių
-ar tarptautinių organizacijų Lietuvai perduotų įslaptintų dokumentų
-administravimo) reikalavimus, teikia paslapčių subjektams išaiškinimus
-įslaptintos informacijos apsaugos klausimais;
+ar tarptautinių organizacijų Lietuvai perduotų įslaptintų dokumentų administravimo)
+reikalavimus, teikia paslapčių subjektams išaiškinimus įslaptintos informacijos
+apsaugos klausimais;
 10) nagrinėja
 paslapčių subjektų parengtus detalius įslaptinamos informacijos, susijusios su
 jų vykdoma veikla, sąrašus bei tokių sąrašų pakeitimus ir teikia dėl jų
@@ -800,11 +794,11 @@ asmenų, kylančius dėl informacijos įslaptinimo, įslaptintos informacijos
 saugojimo, naudojimo, išslaptinimo, apsaugos kontrolės ir dėl leidimų dirbti ar
 susipažinti su įslaptinta informacija bei asmens patikimumo pažymėjimų, įmonės
 patikimumo pažymėjimų neišdavimo ar panaikinimo pagrįstumo;
-14) teikia
-paslapčių subjektams siūlymus dėl informacijos, kuri pagal savo pobūdį ir
-svarbą turėtų būti įslaptinta, tačiau nuosavybės teise priklauso paslapčių
-subjektu nesančiam fiziniam ar juridiniam asmeniui, įsigijimo pagrįstumo ir
-galimo atlygio informacijos savininkui dydžio;
+14) teikia paslapčių
+subjektams siūlymus dėl informacijos, kuri pagal savo pobūdį ir svarbą turėtų
+būti įslaptinta, tačiau nuosavybės teise priklauso paslapčių subjektu nesančiam
+fiziniam ar juridiniam asmeniui, įsigijimo pagrįstumo ir galimo atlygio
+informacijos savininkui dydžio;
 15) paslapčių
 subjektų teikimu sprendžia klausimus dėl galimybės valstybės paslaptį
 sudarančią informaciją perduoti kitoms valstybėms ar tarptautinėms
@@ -857,10 +851,10 @@ susipažinti su įslaptinta informacija, sąrašus.
 5. Paslapčių
 subjektai sudaro pareigų, kurias einantiems asmenims reikia asmens patikimumo
 pažymėjimų, sąrašus.
-6. Šio straipsnio
-4 ir 5 dalyse nurodytuose pareigų sąrašuose turi būti nurodoma aukščiausia
-kategorija įslaptintos informacijos, su kuria asmenys, einantys sąraše
-nurodytas pareigas, gali dirbti ar susipažinti.
+6. Šio
+straipsnio 4 ir 5 dalyse nurodytuose pareigų sąrašuose turi būti nurodoma
+aukščiausia kategorija įslaptintos informacijos, su kuria asmenys, einantys
+sąraše nurodytas pareigas, gali dirbti ar susipažinti.
 7. Asmenys,
 vykdantys įslaptintos informacijos, žymimos slaptumo žymomis „Visiškai
 slaptai“, „Slaptai“ arba „Konfidencialiai“, fizinę apsaugą ar įgalioti tokią
@@ -934,16 +928,16 @@ atrinkti pareigoms, susijusioms su įslaptintos informacijos naudojimu ar jos
 apsauga, į šias pareigas gali būti skiriami prieš tai patikrinus jų
 kandidatūras ir gavus išvadą, kad asmuo atitinka šio Įstatymo 16 straipsnio 1
 dalyje nurodytas sąlygas.
-2. Pagal
-pareigas susipažinti su įslaptinta informacija ir ja naudotis gali Respublikos
+2. Pagal pareigas
+susipažinti su įslaptinta informacija ir ja naudotis gali Respublikos
 Prezidentas, Seimo Pirmininkas ir Ministras Pirmininkas.
 3. Atliekant
 ikiteisminį tyrimą ir nagrinėjant baudžiamąją bylą, kurių medžiagoje yra
 įslaptintos informacijos, įtariamasis (kaltinamasis) ir įtariamojo
 (kaltinamojo) gynėjai Baudžiamojo proceso kodekso nustatyta tvarka turi teisę
 susipažinti su bylos medžiagoje esančia įslaptinta informacija, išskyrus
-nukentėjusiojo ar liudytojo, kuriam taikomas anonimiškumas, asmens tapatybę
-padedančius nustatyti duomenis.
+nukentėjusiojo ar liudytojo, kuriam taikomas anonimiškumas, asmens tapatybę padedančius
+nustatyti duomenis.
 4. Šio
 straipsnio 3 dalyje išvardyti asmenys, prieš jiems suteikiant teisę susipažinti
 su įslaptinta informacija, yra įspėjami dėl baudžiamosios atsakomybės už
@@ -960,12 +954,12 @@ susipažinti, jeigu tokia informacija yra būtina atliekant jam pavestas
 funkcijas ar užduotis.
 6. Išimtiniais
 atvejais, nustatytais NATO norminiuose dokumentuose, reglamentuojančiuose
-įslaptintos informacijos apsaugą, asmeniui, neturinčiam asmens patikimumo
-pažymėjimo, paslapčių subjekto vadovas gali išduoti rašytinį laikiną leidimą
-susipažinti su Lietuvai perduota NATO įslaptinta informacija, jei tokio asmens
-lojalumas Lietuvos valstybei ir patikimumas nekelia abejonių. Paslapčių
-subjekto vadovo išduotame leidime privalo būti nurodyta, su kokia įslaptinta
-informacija asmeniui suteikiama teisė susipažinti.
+įslaptintos informacijos apsaugą, asmeniui, neturinčiam asmens patikimumo pažymėjimo,
+paslapčių subjekto vadovas gali išduoti rašytinį laikiną leidimą susipažinti su
+Lietuvai perduota NATO įslaptinta informacija, jei tokio asmens lojalumas
+Lietuvos valstybei ir patikimumas nekelia abejonių. Paslapčių subjekto vadovo
+išduotame leidime privalo būti nurodyta, su kokia įslaptinta informacija
+asmeniui suteikiama teisė susipažinti.
 7. Paslapčių
 subjektai gali išduoti asmenims leidimus dirbti ar susipažinti su įslaptinta
 informacija tik gavę Valstybės saugumo departamento išvadą, kad asmuo atitinka
@@ -1067,8 +1061,8 @@ atskiras leidimas ar patikimumo pažymėjimas dirbti ar susipažinti su
 informacija, žymima žemesnio laipsnio slaptumo žyma, nereikalingas.
 4. Asmeniui
 prireikus dirbti ar susipažinti su įslaptinta informacija, žymima aukštesne
-slaptumo žyma, negu asmeniui yra išduotas leidimas arba asmens patikimumo
-pažymėjimas, jo kandidatūra tikrinama iš naujo.
+slaptumo žyma, negu asmeniui yra išduotas leidimas arba asmens patikimumo pažymėjimas,
+jo kandidatūra tikrinama iš naujo.
 5. Asmens
 patikimumo pažymėjimas ir leidimas dirbti ar susipažinti su įslaptinta
 informacija, žymima slaptumo žyma “Visiškai slaptai”, išduodamas ne ilgesniam
@@ -1080,8 +1074,8 @@ išvados pateikimo dienos, kai leidimas dirbti ar susipažinti su įslaptinta
 informacija arba asmens patikimumo pažymėjimas išduodamas slaptiesiems
 operatyvinės veiklos dalyviams, įslaptintiems žvalgybos tarnautojams ir
 žvalgybos slaptiesiems bendradarbiams.
-6. Likus 6 mėnesiams
-iki leidimo dirbti ar susipažinti su įslaptinta informacija ar asmens
+6. Likus 6
+mėnesiams iki leidimo dirbti ar susipažinti su įslaptinta informacija ar asmens
 patikimumo pažymėjimo galiojimo termino pabaigos, asmuo tikrinamas papildomai.
 Asmuo gali būti pakartotinai tikrinamas ir nesibaigus šiame straipsnyje
 nustatytiems terminams, jeigu kyla įtarimas, kad atsirado šio straipsnio 2
@@ -1094,10 +1088,10 @@ kad asmeniui būtų išduotas toks leidimas, taip pat kandidatūrą tikrinanči�
 institucijų sprendimą nutraukti kandidatūros tikrinimą, nustačius šio
 straipsnio 2 dalyje nurodytas aplinkybes, per 30 darbo dienų nuo tokio
 sprendimo gavimo dienos pats asmuo arba paslapčių subjektas turi teisę apskųsti
-Paslapčių apsaugos koordinavimo komisijai. Prireikus ši komisija įpareigoja
-kandidatūros tikrinimą atlikusias institucijas surinkti ir pateikti papildomus
-duomenis apie tokį asmenį. Paslapčių apsaugos koordinavimo komisijos sprendimas
-paslapčių subjektui yra privalomas.
+Paslapčių apsaugos koordinavimo komisijai. Prireikus ši komisija įpareigoja kandidatūros
+tikrinimą atlikusias institucijas surinkti ir pateikti papildomus duomenis apie
+tokį asmenį. Paslapčių apsaugos koordinavimo komisijos sprendimas paslapčių
+subjektui yra privalomas.
 8. Asmenims,
 kurių darbas susijęs su tarnybos paslaptį sudarančios informacijos, žymimos
 slaptumo žyma „Riboto naudojimo“, naudojimu ar tokios informacijos apsauga,
@@ -1113,8 +1107,8 @@ Asmens kandidatūros tikrinimas
 asmens kandidatūros tikrinimo tikslas – nustatyti, ar asmeniui, kuris
 pretenduoja gauti leidimą dirbti ar susipažinti su įslaptinta informacija arba
 asmens patikimumo pažymėjimą, gali būti patikėta įslaptinta informacija, ar
-tikrinamas asmuo yra patikimas ir lojalus Lietuvos valstybei. Kandidatūros tikrinamos
-paslapčių subjekto vadovo ar jo įgalioto asmens teikimu.
+tikrinamas asmuo yra patikimas ir lojalus Lietuvos valstybei. Kandidatūros
+tikrinamos paslapčių subjekto vadovo ar jo įgalioto asmens teikimu.
 2. Asmuo,
 pretenduojantis gauti leidimą dirbti ar susipažinti su įslaptinta informacija
 arba asmens patikimumo pažymėjimą, atsakingam asmeniui pateikia užpildytą
@@ -1124,8 +1118,8 @@ ar susipažinti su įslaptinta informacija, žymima slaptumo žymomis „Visišk
 slaptai“ arba „Slaptai“. Kandidatūros patikrinimo metu siekiama nustatyti, ar
 nėra šio Įstatymo 16 straipsnio 2 dalyje nustatytų sąlygų. Patikrinimo metu
 negali būti naudojami operatyvinės veiklos metodai ir priemonės, išskyrus
-operatyvinę apklausą ir duomenų, esančių operatyvinėje įskaitoje, peržiūrą. Prieš
-priimdamos sprendimą, kandidatūrą tikrinančios institucijos asmenį gali
+operatyvinę apklausą ir duomenų, esančių operatyvinėje įskaitoje, peržiūrą.
+Prieš priimdamos sprendimą, kandidatūrą tikrinančios institucijos asmenį gali
 iškviesti pokalbio, pareikalauti raštiškų asmens paaiškinimų ir prireikus, jei
 šis asmuo sutinka, patikrinti poligrafu.
 3. Asmenų, kurie
@@ -1144,9 +1138,9 @@ tarnyba ir Valstybės saugumo departamentas;
 operatyvinės veiklos dalyvių, įslaptintų žvalgybos tarnautojų ir žvalgybos
 slaptųjų bendradarbių – patys paslapčių subjektai;
 5) Valstybės
-saugumo departamentas, jei leidimą dirbti ar susipažinti su įslaptinta
-informacija arba asmens patikimumo pažymėjimą pretenduoja gauti asmuo,
-nenurodytas šios dalies 1–4 punktuose.
+saugumo departamentas, jei leidimą dirbti ar susipažinti su įslaptinta informacija
+arba asmens patikimumo pažymėjimą pretenduoja gauti asmuo, nenurodytas šios
+dalies 1–4 punktuose.
 4. Jeigu
 kandidatūrą patikrino Antrasis operatyvinių tarnybų departamentas prie Krašto
 apsaugos ministerijos, vidaus reikalų ministro įgaliotos institucijos ar
@@ -1156,18 +1150,18 @@ autobiografija ir atlikto tikrinimo išvados pateikiamos Valstybės saugumo
 departamentui. Valstybės saugumo departamentas įvertina atlikto tikrinimo
 rezultatus pagal informaciją, kuria jis disponuoja, prireikus surenka papildomą
 informaciją arba rekomenduoja tai padaryti kandidatūrą tikrinusioms
-institucijoms ir teikia paslapčių subjektui sutikimą arba motyvuotą prieštaravimą
-dėl galimybės asmeniui išduoti atitinkamos kategorijos leidimą dirbti ar
-susipažinti su įslaptinta informacija.
+institucijoms ir teikia paslapčių subjektui sutikimą arba motyvuotą
+prieštaravimą dėl galimybės asmeniui išduoti atitinkamos kategorijos leidimą
+dirbti ar susipažinti su įslaptinta informacija.
 5. Tais
 atvejais, kai kandidatūrą patikrino Antrasis operatyvinių tarnybų departamentas
 prie Krašto apsaugos ministerijos, vidaus reikalų ministro įgaliotos
 institucijos ar Specialiųjų tyrimų tarnyba, ir tikrinimo metu buvo nustatytos
 aplinkybės, nurodytos šio Įstatymo 16 straipsnio 2 dalyje, tikrinimas krašto
-apsaugos arba vidaus reikalų ministrų ar jų įgaliotų asmenų arba Specialiųjų tyrimų
-tarnybos direktoriaus sprendimu nutraukiamas. Apie šį sprendimą informuojamas
-paslapčių subjektas ir asmuo, kurio kandidatūra buvo tikrinama. Valstybės
-saugumo departamentas tokios kandidatūros netikrina.
+apsaugos arba vidaus reikalų ministrų ar jų įgaliotų asmenų arba Specialiųjų
+tyrimų tarnybos direktoriaus sprendimu nutraukiamas. Apie šį sprendimą
+informuojamas paslapčių subjektas ir asmuo, kurio kandidatūra buvo tikrinama.
+Valstybės saugumo departamentas tokios kandidatūros netikrina.
 6. Asmens, kuris
 pretenduoja gauti asmens patikimumo pažymėjimą, kandidatūrą tikrina Valstybės
 saugumo departamentas. Jeigu asmuo turi leidimą dirbti ar susipažinti su
@@ -1205,7 +1199,8 @@ departamentui.
 10. Paslapčių
 subjekto asmeniui išduotas leidimas dirbti ar susipažinti su įslaptinta
 informacija kartu su asmens rašytiniu pasižadėjimu saugoti įslaptintą
-informaciją laikomi asmens byloje arba paslapčių subjekto vadovo nustatyta tvarka.
+informaciją laikomi asmens byloje arba paslapčių subjekto vadovo nustatyta
+tvarka.
 11. Asmens
 patikimumo pažymėjimai registruojami ir saugomi Paslapčių apsaugos koordinavimo
 komisijos
@@ -1253,8 +1248,9 @@ arba asmens patikimumo pažymėjimas, prašymu paslapčių subjektas turi raštu
 nurodyti leidimo dirbti ar susipažinti su įslaptinta informacija panaikinimo
 motyvus.
 4. Asmens
-patikimumo pažymėjimą savo iniciatyva ar Valstybės saugumo departamento arba paslapčių
-subjekto motyvuotu teikimu panaikina Paslapčių apsaugos koordinavimo komisija.
+patikimumo pažymėjimą savo iniciatyva ar Valstybės saugumo departamento arba
+paslapčių subjekto motyvuotu teikimu panaikina Paslapčių apsaugos koordinavimo
+komisija.
 5. Sprendimą dėl
 leidimo dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo
 pažymėjimo panaikinimo per 30 darbo dienų nuo tokio sprendimo gavimo dienos
@@ -1265,10 +1261,10 @@ atlikusias institucijas surinkti ir pateikti papildomų duomenų apie tokį
 asmenį. Paslapčių apsaugos koordinavimo komisijos sprendimas paslapčių
 subjektui yra privalomas. 
 6. Leidimo
-dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo
-pažymėjimo panaikinimas neatleidžia asmens nuo įsipareigojimo neatskleisti
-tarnybos metu sužinotos įslaptintos informacijos, taip pat nuo atsakomybės už
-tokios informacijos atskleidimą.
+dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimo
+panaikinimas neatleidžia asmens nuo įsipareigojimo neatskleisti tarnybos metu
+sužinotos įslaptintos informacijos, taip pat nuo atsakomybės už tokios
+informacijos atskleidimą.
  
 19
 straipsnis. Asmens, kuriam yra išduotas leidimas dirbti ar susipažinti su
@@ -1459,8 +1455,8 @@ straipsnis. Susipažinimas su įslaptinta informacija, kuria disponuoja kitas
 paslapčių subjektas
 1. Asmeniui
 teisę susipažinti su įslaptinta informacija, žymima slaptumo žymomis „Visiškai
-slaptai“, „Slaptai“ ar „Konfidencialiai“, kuria disponuoja kitas paslapčių
-subjektas, vadovaudamasis principu „Būtina žinoti“, suteikia šia informacija
+slaptai“, „Slaptai“ ar „Konfidencialiai“, kuria disponuoja kitas paslapčių subjektas,
+vadovaudamasis principu „Būtina žinoti“, suteikia šia informacija
 disponuojančio paslapčių subjekto vadovas. Asmuo privalo pateikti institucijos,
 kurioje dirba, vadovo tikslinį siuntimą. Siuntime turi būti patvirtinta, kad
 asmuo turi leidimą dirbti ar susipažinti su atitinkama slaptumo žyma pažymėta
@@ -1481,9 +1477,9 @@ privalomą sprendimą.
 Įslaptintos informacijos gabenimas
 1. Įslaptintus
 dokumentus, gaminius ir kitus objektus, žymimus slaptumo žymomis „Visiškai
-slaptai“ ir „Slaptai“, turi gabenti šaunamaisiais ginklais ginkluoti diplomatiniai,
-kariniai, specialius įgaliojimus turinčių kurjerių pašto tarnybų kurjeriai arba
-paslapčių subjekto įgalioti asmenys.
+slaptai“ ir „Slaptai“, turi gabenti šaunamaisiais ginklais ginkluoti
+diplomatiniai, kariniai, specialius įgaliojimus turinčių kurjerių pašto tarnybų
+kurjeriai arba paslapčių subjekto įgalioti asmenys.
 2. Įslaptintus dokumentus,
 gaminius ir kitus objektus, žymimus slaptumo žymomis „Konfidencialiai“ ir
 „Riboto naudojimo“, gali gabenti šio straipsnio 1 dalyje išvardyti asmenys arba
@@ -1598,9 +1594,9 @@ patikrinimą;
 29 straipsnis.
 Įslaptintos informacijos administravimo reglamentavimas
 Smulkesnę
-įslaptintos informacijos rengimo, įforminimo, siuntimo, gabenimo, gavimo,
-dauginimo, naikinimo bei apskaitos tvarką, vadovaudamasi šio Įstatymo penktojo
-skirsnio nuostatomis, nustato Vyriausybė.
+įslaptintos informacijos rengimo, įforminimo, siuntimo, gabenimo, gavimo, dauginimo,
+naikinimo bei apskaitos tvarką, vadovaudamasi šio Įstatymo penktojo skirsnio
+nuostatomis, nustato Vyriausybė.
  
 ŠEŠTASIS
 SKIRSNIS
@@ -1639,8 +1635,8 @@ veiksniai – paslapčių subjekte dirbančių asmenų patikimumas, aplinkos
 charakteristika, kriminogeninė padėtis, pastato dislokavimo vieta, patalpų
 išplanavimas, teritorijos dydis, patekimo nepastebėtam į saugomą zoną tikimybė
 ir kita.
-4. Fizinės apsaugos
-užtikrinimo sudėtinės dalys:
+4. Fizinės
+apsaugos užtikrinimo sudėtinės dalys:
 1) saugumo zonų
 nustatymas;
 2) mechaninių
@@ -1681,14 +1677,14 @@ arba su tokia informacija dirbama. Administracinėje saugumo zonoje saugoma
 3. II klasės
 saugumo zona – teritorijos ir patalpos, kuriose saugoma informacija, žymima
 slaptumo žyma „Konfidencialiai“ ir aukštesnėmis slaptumo žymomis, arba su tokia
-informacija dirbama, taip pat patalpos, į kurias patekus galima tiesiogiai
-prieiti prie šios saugumo zonos elektroninių apsaugos priemonių centrinio
-valdymo. II klasės saugumo zonoje saugoma įslaptinta informacija, žymima
-slaptumo žyma „Slaptai“ arba „Visiškai slaptai“, turi būti laikoma seifuose,
-turinčiuose individualius vartotojų kodinius bei mechaninius užraktus, ar
-specialiai tokiai informacijai saugoti skirtose saugyklose. II klasės saugumo
-zonoje saugoma įslaptinta informacija, žymima slaptumo žyma „Konfidencialiai“,
-turi būti laikoma metalinėse spintose arba seifuose. 
+informacija dirbama, taip pat patalpos, į kurias patekus galima tiesiogiai prieiti
+prie šios saugumo zonos elektroninių apsaugos priemonių centrinio valdymo. II
+klasės saugumo zonoje saugoma įslaptinta informacija, žymima slaptumo žyma
+„Slaptai“ arba „Visiškai slaptai“, turi būti laikoma seifuose, turinčiuose
+individualius vartotojų kodinius bei mechaninius užraktus, ar specialiai tokiai
+informacijai saugoti skirtose saugyklose. II klasės saugumo zonoje saugoma
+įslaptinta informacija, žymima slaptumo žyma „Konfidencialiai“, turi būti
+laikoma metalinėse spintose arba seifuose. 
 4. II klasės
 saugumo zonai keliami šie reikalavimai:
 1) turi būti
@@ -1715,10 +1711,10 @@ informacija, žymima slaptumo žyma „Visiškai slaptai“, įėjimas į zoną 
 įėjimai į zonoje esančias patalpas turi būti stebimi vaizdo kameromis, turi
 būti kaupiamas 30 kalendorinių dienų vaizdo archyvas.
 5. I klasės
-saugumo zona – patalpos, kuriose dirbama ar saugoma informacija, žymima
-slaptumo žyma „Konfidencialiai“ ir aukštesnėmis slaptumo žymomis. Į jas patekus
-galima tiesiogiai prieiti prie jose saugomos informacijos, taip pat prie šios
-saugumo zonos elektroninių apsaugos priemonių centrinio valdymo. 
+saugumo zona – patalpos, kuriose dirbama ar saugoma informacija, žymima slaptumo
+žyma „Konfidencialiai“ ir aukštesnėmis slaptumo žymomis. Į jas patekus galima
+tiesiogiai prieiti prie jose saugomos informacijos, taip pat prie šios saugumo
+zonos elektroninių apsaugos priemonių centrinio valdymo. 
 6. I klasės
 saugumo zonai keliami šie reikalavimai:
 1) šio
@@ -1762,10 +1758,10 @@ asmuo:
 kad teritorijose ir patalpose, kuriose dirbama su įslaptinta informacija ar
 kuriose ji saugoma, būtų įdiegtos ir tinkamai veiktų reikiamos fizinės apsaugos
 priemonės;
-2) rengia
-fizinės apsaugos procedūras reglamentuojančius dokumentus, kontroliuoja, kaip
-laikomasi nustatytų procedūrų, periodiškai atlieka taikomų fizinės apsaugos
-priemonių patikrinimus;
+2) rengia fizinės
+apsaugos procedūras reglamentuojančius dokumentus, kontroliuoja, kaip laikomasi
+nustatytų procedūrų, periodiškai atlieka taikomų fizinės apsaugos priemonių
+patikrinimus;
 3) organizuoja
 darbuotojų apmokymus;
 4) teikia
@@ -1793,8 +1789,8 @@ darbuotojai, kuriems vykdant įslaptintą sandorį reikės susipažinti su
 įslaptinta informacija, iki sandorio pasirašymo dienos turi gauti leidimą
 dirbti ar susipažinti su įslaptinta informacija. Leidimą išduoda paslapčių
 subjektas, sudarantis įslaptintą sandorį. Rangovas, gavęs paslapčių subjekto
-sutikimą, turi teisę įslaptinto sandorio daliai vykdyti pasitelkti subrangovą, kuris
-šio Įstatymo 35 straipsnio nustatyta tvarka turi gauti įmonės patikimumą
+sutikimą, turi teisę įslaptinto sandorio daliai vykdyti pasitelkti subrangovą,
+kuris šio Įstatymo 35 straipsnio nustatyta tvarka turi gauti įmonės patikimumą
 patvirtinantį pažymėjimą.
 3. Juridiniams
 asmenims, dalyvaujantiems užsienio valstybių ar tarptautinių organizacijų
@@ -1802,8 +1798,8 @@ paskelbtuose konkursuose dėl įslaptinto sandorio sudarymo, jei užsienio
 valstybė arba tarptautinė organizacija reikalauja jų patikimumą patvirtinančių
 pažymėjimų, taikomi šio Įstatymo 35 straipsnio reikalavimai.
 4. Užsienio
-valstybėse veikiančios ir ten registruotos įmonės, įstaigos ar organizacijos
-gali dalyvauti Lietuvos Respublikos paslapčių subjektų paskelbtuose konkursuose
+valstybėse veikiančios ir ten registruotos įmonės, įstaigos ar organizacijos gali
+dalyvauti Lietuvos Respublikos paslapčių subjektų paskelbtuose konkursuose
 sudaryti įslaptintą sandorį, kurį vykdant bus perduodama Lietuvos Respublikos
 įslaptinta informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“
 arba „Konfidencialiai“, jeigu jos atitinka tose valstybėse keliamus įslaptintų
@@ -1812,13 +1808,13 @@ pateikia atitinkamą išvadą.
  
 34
 straipsnis. Įslaptintos informacijos apsauga įslaptinto sandorio vykdymo metu
-1. Paslapčių
-subjektai, sudarę įslaptintą sandorį, privalo kontroliuoti, kaip rangovas ar
-subrangovas vykdo perduotos ar sandorio metu sukurtos įslaptintos
-informacijos apsaugos reikalavimus.
+1. Paslapčių subjektai,
+sudarę įslaptintą sandorį, privalo kontroliuoti, kaip rangovas ar subrangovas
+vykdo perduotos ar sandorio metu sukurtos įslaptintos informacijos apsaugos
+reikalavimus.
 2. Įslaptintas
-sandoris gali būti vienašališkai nutrauktas, jei rangovas ar subrangovas nevykdo
-nustatytų įslaptintos informacijos apsaugos reikalavimų.
+sandoris gali būti vienašališkai nutrauktas, jei rangovas ar subrangovas
+nevykdo nustatytų įslaptintos informacijos apsaugos reikalavimų.
 3. Nesudarius
 sandorio, įvykdžius įslaptintą sandorį ar jį nutraukus, rangovas bei
 subrangovas privalo grąžinti visą jiems perduotą ir perduoti sandorio metu
@@ -1866,8 +1862,8 @@ rangovui ar subrangovui numatomos perduoti įslaptintos informacijos pobūdį,
 apimtis bei tokios informacijos slaptumo žymas, taip pat įslaptintame sandoryje
 numatytas teikti paslaugas;
 2) rangovo ar
-subrangovo užpildytą įslaptintų sandorių saugumo klausimyną ir jo rašytinį sutikimą
-būti tikrinamam;
+subrangovo užpildytą įslaptintų sandorių saugumo klausimyną ir jo rašytinį
+sutikimą būti tikrinamam;
 3) rangovo ar
 subrangovo darbuotojų, pretenduojančių gauti leidimus dirbti ar susipažinti su
 įslaptinta informacija ar asmens patikimumo pažymėjimus, užpildytus
@@ -1911,10 +1907,10 @@ teisinė registracija;
 3) rangovo
 (subrangovo) finansinė būklė ir padaryti įstatymų pažeidimai, rangovo
 (subrangovo) darbuotojų ar savininkų padarytos korupcinės veikos;
-4) rangovo
-(subrangovo) verslo ryšiai, ryšiai su kriminaliniais elementais ir užsienio
-valstybių specialiosiomis tarnybomis, kurių veikla yra priešiška Lietuvos
-valstybės interesams;
+4) rangovo (subrangovo)
+verslo ryšiai, ryšiai su kriminaliniais elementais ir užsienio valstybių
+specialiosiomis tarnybomis, kurių veikla yra priešiška Lietuvos valstybės
+interesams;
 5) įslaptintos
 informacijos apsaugos užtikrinimo galimybės;
 6) darbuotojų,
@@ -1926,8 +1922,8 @@ pateikti duomenis apie praėjusių finansinių metų finansinę veiklą, taip pa
 kitą įslaptintų sandorių saugumą užtikrinančių institucijų prašomą informaciją.
 10. Duomenis
 apie rangovo ar subrangovo finansinius įsiskolinimus, padarytus finansinius
-pažeidimus įslaptintų sandorių saugumą užtikrinančioms institucijoms teikia mokesčių
-administratoriai.
+pažeidimus įslaptintų sandorių saugumą užtikrinančioms institucijoms teikia
+mokesčių administratoriai.
 11. Įslaptintų
 sandorių saugumą užtikrinančios institucijos turi teisę gauti iš valstybės,
 savivaldybės institucijų, bankų ir kitų juridinių asmenų visą reikiamą
@@ -2041,9 +2037,9 @@ subrangovui teikia metodinę pagalbą įslaptintos informacijos apsaugos
 klausimais.
 2. Rangovo ar
 subrangovo atsakingas asmuo:
-1) teikia paslapčių
-subjekto atsakingam asmeniui šio Įstatymo 35 straipsnio 5 dalies 2 ir 3
-punktuose nurodytą informaciją;
+1) teikia
+paslapčių subjekto atsakingam asmeniui šio Įstatymo 35 straipsnio 5 dalies 2 ir
+3 punktuose nurodytą informaciją;
 2) užtikrina
 personalo patikimumo procedūrų įgyvendinimą;
 3) užtikrina
@@ -2088,20 +2084,20 @@ perduodamos informacijos bei sistemos paslaugų ir išteklių vientisumą;
 4) saugomos,
 apdorojamos ar perduodamos informacijos bei sistemos paslaugų ir išteklių
 prieinamumą teisėtiems vartotojams;
-5) tyčinių ar atsitiktinių
-ADA sistemose ir tinkluose saugomos, apdorojamos, perduodamos įslaptintos
-informacijos bei ADA sistemos ir tinklų paslaugų bei išteklių slaptumo,
-vientisumo arba prieinamumo pažeidimų fiksavimą;
+5) tyčinių ar
+atsitiktinių ADA sistemose ir tinkluose saugomos, apdorojamos, perduodamos
+įslaptintos informacijos bei ADA sistemos ir tinklų paslaugų bei išteklių
+slaptumo, vientisumo arba prieinamumo pažeidimų fiksavimą;
 6) ADA sistemų
 ir tinklų sujungimo kontrolę;
 7) ADA sistemose
 ir tinkluose esančių apsaugos mechanizmų tinkamumo įvertinimą bei patikrinimą.
 2. ADA sistemose
 ir tinkluose turi būti įdiegti apsaugos mechanizmai ir saugumo valdymo
-procedūros, trukdančios atsirasti saugumo pažeidimams, aptinkančios atsiradusius
-saugumo pažeidimus, atkuriančios saugumo pažeidimų paveiktą įslaptintos
-informacijos ir ADA sistemų bei tinklų paslaugų ir išteklių slaptumą,
-vientisumą ir prieinamumą teisėtiems vartotojams.
+procedūros, trukdančios atsirasti saugumo pažeidimams, aptinkančios
+atsiradusius saugumo pažeidimus, atkuriančios saugumo pažeidimų paveiktą
+įslaptintos informacijos ir ADA sistemų bei tinklų paslaugų ir išteklių
+slaptumą, vientisumą ir prieinamumą teisėtiems vartotojams.
 3. ADA sistemose
 ir tinkluose turi būti įdiegtos apsaugos priemonės, leidžiančios apsaugoti
 įslaptintą informaciją, žymimą slaptumo žyma „Konfidencialiai“ ar aukštesne
@@ -2152,10 +2148,10 @@ neteisėtas atskleidimas, dydį.
  
 43 straipsnis.
 Kompiuterių informacijos laikmenų apsauga
-1. Visos įslaptintos
-kompiuterių informacijos laikmenos turi būti tinkamai identifikuotos, laikomos
-ir saugomos pagal jose esančios aukščiausia slaptumo žyma žymimos
-informacijos apsaugos reikalavimus.
+1. Visos
+įslaptintos kompiuterių informacijos laikmenos turi būti tinkamai
+identifikuotos, laikomos ir saugomos pagal jose esančios aukščiausia
+slaptumo žyma žymimos informacijos apsaugos reikalavimus.
 2. Įslaptinta
 informacija, laikoma daugkartinio naudojimo kompiuterių informacijos
 laikmenose, gali būti ištrinama ir tokios laikmenos išslaptinamos tik
@@ -2172,8 +2168,8 @@ apsaugos priemonių įdiegimą, veikimą ir priežiūrą darbo vietose, turinči
 elementų;
 2) sudaryti
 telekomunikacijų planus ir schemas ir juose nurodyti laidų, kabelių
-lokalizacijos vietą, jų kiekį, tipus,
-numeraciją;
+lokalizacijos vietą, jų kiekį,
+tipus, numeraciją;
 3)
 vadovaudamasis Saugumo priežiūros tarnybos nustatytais reikalavimais, rengti,
 įgyvendinti ir kontroliuoti paslapčių subjekto, rangovo (subrangovo) ADA
@@ -2186,8 +2182,8 @@ sistemas ir tinklus, reikalingus gauti leidimui saugoti, apdoroti ar perduoti
 5) užtikrinti,
 kad ADA sistemose ir tinkluose dirbtų vartotojai, kuriems suteikta teisė
 susipažinti su ADA sistemose ar tinkluose saugoma, apdorojama, perduodama
-informacija, kuri susijusi su jų pareigų vykdymu, taip pat kontroliuoti
-vartotojų veiksmus;
+informacija, kuri susijusi su jų pareigų vykdymu, taip pat kontroliuoti vartotojų
+veiksmus;
 6) vykdyti
 vartotojams suteiktų slaptažodžių ir (ar) vartotojų tapatybės nustatymo
 įrenginių administravimo kontrolę;
@@ -2199,8 +2195,8 @@ rangovo ar subrangovo pasirengimą įvykdyti jam numatytos perduoti įslaptintos
 informacijos, žymimos slaptumo žyma „Riboto naudojimo“, aparatūrinės ar
 programinės įrangos apsaugos reikalavimus, kontroliuoti tokių reikalavimų
 įgyvendinimą;
-9) organizuoti ir tikrinti sisteminį
-rezervinį ADA sistemų ir tinklų informacijos kopijavimą ir atkūrimą;
+9) organizuoti ir tikrinti
+sisteminį rezervinį ADA sistemų ir tinklų informacijos kopijavimą ir atkūrimą;
 10) tikrinti
 surinktą informaciją apie įvykius (procesų klaidas, neteisėtus vartotojus ir
 sistemos veiklą);
@@ -2228,8 +2224,8 @@ tikrinimo metu nustatytus trūkumus paslapčių subjektas privalo pašalinti per
 šio departamento nustatytą terminą ir apie tai raštu pranešti Valstybės saugumo
 departamentui;
 2)
-teikia pasiūlymus Vyriausybei, Paslapčių apsaugos koordinavimo komisijai dėl įslaptintos
-informacijos apsaugos sistemos tobulinimo;
+teikia pasiūlymus Vyriausybei, Paslapčių apsaugos koordinavimo komisijai dėl
+įslaptintos informacijos apsaugos sistemos tobulinimo;
 3) atlieka
 ikiteisminio tyrimo veiksmus dėl neteisėto disponavimo įslaptinta informacija,
 įslaptintos informacijos atskleidimo, praradimo, pagrobimo ar kitokio neteisėto
@@ -2239,9 +2235,9 @@ paslapčių subjektams dėl įslaptintos informacijos apsaugos.
 2. Įslaptintos
 informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos kontrolę vykdo
 šia informacija disponuojantys paslapčių subjektai.
-3. Asmenys, kontroliuojantys
-įslaptintos informacijos apsaugą, privalo turėti leidimus dirbti ar susipažinti
-su įslaptinta informacija, žymima slaptumo žyma „Visiškai slaptai“. Asmenys,
+3. Asmenys, kontroliuojantys įslaptintos
+informacijos apsaugą, privalo turėti leidimus dirbti ar susipažinti su
+įslaptinta informacija, žymima slaptumo žyma „Visiškai slaptai“. Asmenys,
 kontroliuojantys kitų valstybių ar tarptautinių organizacijų Lietuvos
 Respublikai perduotos įslaptintos informacijos apsaugą, privalo turėti
 atitinkamus asmens patikimumo pažymėjimus.
@@ -2320,17 +2316,15 @@ RESPUBLIKOS PREZIDENTAS                             
 ADAMKUS
                                                                         Lietuvos
 Respublikos
-                                                                        2003
+                                                                                    2003
 m. gruodžio 16 d. 
-                                                                        įstatymo
+                                                                                    įstatymo
 Nr. IX-1908
-                                                                        priedas
- 
+                                                                                    priedas
  
 ĮGYVENDINIMAS
 EUROPOS SĄJUNGOS
 TEISĖS AKTAS
- 
  
 2001 m. kovo 19
 d. Europos Tarybos sprendimas 2001/264/EB dėl Europos Sąjungos Tarybos saugumo
@@ -2378,8 +2372,8 @@ Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. VIII-1907, 00.08.29, Žin., 2000,
 Nr.75-2274 (00.09.07)
-VALSTYBĖS IR TARNYBOS
-PASLAPČIŲ ĮSTATYMO 5 IR 9 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+VALSTYBĖS IR
+TARNYBOS PASLAPČIŲ ĮSTATYMO 5 IR 9 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 6.
 Lietuvos
@@ -2427,15 +2421,36 @@ Nr. IX-1908,
 2003-12-16, Žin., 2004, Nr. 4-29 (2004-01-07)
 VALSTYBĖS
 IR TARNYBOS PASLAPČIŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Nauja įstatymo redakcija.
-Įstatymas įsigalioja nuo 2004-05-01.
+Nauja įstatymo redakcija
+Šis
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2137,
+2004-04-15, Žin., 2004, Nr. 68-2364 (2004-04-29)
+VALSTYBĖS
+IR TARNYBOS PASLAPČIŲ ĮSTATYMO, PAKEISTO 2003 M. GRUODŽIO 16 D. ĮSTATYMU NR.
+IX-1908, 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+Įstatymo atitaisymas skelbtas: Žin., 2004, Nr. 82 (2004-05-20)
+ 
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2349, 2004-07-13, Žin., 2004, Nr. 116-4322 (2004-07-27)
+VALSTYBĖS
+IR TARNYBOS PASLAPČIŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2004-01-09)
+Aušrinė Trapinskienė (2004-07-27)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
