@@ -13,17 +13,54 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-LIETUVOS RESPUBLIKOS ARCHYVŲ ĮSTATYMAS
+Suvestinė redakcija nuo 2005-01-01 iki 2007-01-10
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
+ 
+Nauja redakcija nuo 2005-01-01:
+Nr. IX-2084, 2004-03-30, Žin. 2004, Nr. 57-1982 (2004-04-20), i. k. 1041010ISTA0IX-2084
+ 
+LIETUVOS RESPUBLIKOS DOKUMENTŲ IR ARCHYVŲ ĮSTATYMAS
  
 1995 m. gruodžio 5 d. Nr. I-1115
 Vilnius
  
 
 
+PIRMASIS SKIRSNIS
+BENDROSIOS NUOSTATOS
+ 
+
+
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas reglamentuoja Lietuvos archyvų fondo sudėtį, organizavimą, saugojimą, naudojimą valstybės ir visuomenės poreikiams tenkinti bei piliečių teisėms realizuoti.
+1. Šio Įstatymo tikslas – sudaryti teisinį pagrindą:
+
+
+1) dokumentams efektyviai valdyti, kad būtų pagrįstas juridinių asmenų veiklos skaidrumas ir atskaitingumas bei užtikrinami susijusių asmenų teisėti interesai;
+
+
+
+
+2) galimybei prieiti prie valstybės ir savivaldybių institucijų, įstaigų ir įmonių veiklos dokumentų, kad būtų įgyvendinta piliečių ir kitų asmenų teisė ieškoti, gauti ir skleisti informaciją, taip skatinant šių institucijų, įstaigų ir įmonių veiklos veiksmingumą ir teisėtumą, stiprinant visuomenės pasitikėjimą jomis;
+
+
+
+
+3) Nacionaliniam dokumentų fondui kaupti ir administruoti, kad būtų išsaugotas valstybės dokumentinis paveldas, atminimas ir nacionalinis tapatumas.
+
+
+
+
+
+
+2. Šis Įstatymas reglamentuoja valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų, nevalstybinių organizacijų, privačių juridinių asmenų veiklos dokumentų valdymą ir naudojimą, nustato valstybinės archyvų sistemos kompetenciją ir uždavinius.
+
+
+
+
+3. Šis Įstatymas netaikomas dokumentams, priklausantiems bibliotekų ir muziejų fondams.
  
 
 
@@ -31,15 +68,90 @@ Vilnius
 
 
 
-2 straipsnis. Lietuvos archyvų fondas
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-Lietuvos archyvų fondas – Lietuvos Respublikos dokumentų saugyklose esantys, kiti juridinių ir fizinių asmenų sukaupti Lietuvos valstybės bei jos istorinio paveldo dokumentai, įtraukti į Lietuvos archyvų fondo sąvadą, nesvarbu, koks jų sudarymo šaltinis, informacijos fiksavimo būdas, saugojimo vieta ir nuosavybės forma.
+1. Archyvas – įstaiga ar jos struktūrinis padalinys arba kita sukauptų dokumentų saugojimo vieta.
 
 
 
 
-Lietuvos archyvų fondas yra nacionalinis turtas ir priklauso valstybės jurisdikcijai. Lietuvos archyvų fondo kaupimas ir išsaugojimas yra valstybinių ir nevalstybinių institucijų bei kiekvieno Lietuvos Respublikos piliečio pareiga.
+2. Atsarginės kopijos – naudojimui skirtos dokumentų kopijos, pagamintos mikroformos ar skaitmeninėje laikmenoje.
+
+
+
+
+3. Dokumentacijos planas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės veiklos dokumentų sisteminimo metų planas.
+
+
+
+
+4. Dokumentas – juridinio ar fizinio asmens veiklos procese užfiksuota informacija, nepaisant jos pateikimo būdo, formos ir laikmenos.
+
+
+
+
+5. Dokumentų konvertavimas – programinės ir (ar) techninės aplinkos ar pateikimo būdo pakeitimas užtikrinant dokumentuose užfiksuotos informacijos išsaugojimą.
+
+
+
+
+6. Dokumentų naudojimas – dokumentuose esančios informacijos naudojimas komerciniais ir nekomerciniais tikslais.
+
+
+
+
+7. Dokumentų valdymas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens, nevalstybinės organizacijos, privataus juridinio asmens vidaus administravimo sritis, kuri apima dokumentų rengimą, tvarkymą, apskaitą, saugojimą.
+
+
+
+
+8. Kontekstinė informacija – informacija apie dokumento sandarą, turinį ir aplinką, sudaranti būtinas ir pakankamas sąlygas dokumento autentiškumui ir prieinamumui užtikrinti.
+
+
+
+
+9. Nevalstybinės organizacijos – politinės partijos, asociacijos, kitos organizacijos ir susivienijimai, sudaryti narių poreikiams ir viešiems interesams tenkinti.
+
+
+
+
+10. Nuolatinis saugojimas – išliekamąją vertę turinčių dokumentų saugojimas neribotą laiką.
+
+
+
+
+11. Oficialus dokumentas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens vykdant teisės norminių aktų nustatytus įgaliojimus sudarytas, patvirtintas ar gautas dokumentas, įtrauktas į apskaitą.
+
+
+
+
+12. Priėjimas prie dokumentų – teisė susipažinti su dokumentais įstatymų ir kitų teisės norminių aktų nustatyta tvarka.
+
+
+
+
+13. Specialios įrangos priemonės – dokumentų saugojimo ir (ar) peržiūrėjimo programinė ir techninė įranga.
+
+
+
+
+14. Saugojimo terminas – laikas, kurį dokumentas turi būti išsaugotas.
+
+
+
+
+15. Valstybės įgalioti asmenys – asmenys, atliekantys valstybės suteiktas įstatymų nustatytas funkcijas (antstoliai, notarai).
+
+
+
+
+16. Valstybės ir savivaldybių institucijos, įstaigos, įmonės – valstybės ir savivaldybių institucijos ir įstaigos, finansuojamos iš valstybės ar savivaldybių biudžetų, valstybės pinigų fondų, valstybės ir savivaldybių įmonės.
+
+
+
+
+17. Veiklos dokumentai – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens, nevalstybinės organizacijos, privataus juridinio asmens vykdant veiklą sudaryti, patvirtinti, gauti, iš kitų juridinių ar fizinių asmenų perimti dokumentai.
  
 
 
@@ -47,18 +159,41 @@ Lietuvos archyvų fondas yra nacionalinis turtas ir priklauso valstybės jurisdi
 
 
 
-3 straipsnis. Lietuvos archyvų fondo sudėtis
+3 straipsnis. Nacionalinis dokumentų fondas
 
 
-Lietuvos archyvų fondas susideda iš:
-
-
-1) valstybinio archyvų fondo, kurį sudaro visi dokumentai, esantys Lietuvos valstybiniuose archyvuose, kitose valstybinėse saugyklose, taip pat sudaryti ir sukaupti valstybės valdžios ir valdymo, vietos savivaldos, teisėtvarkos institucijose, Lietuvos banke, valstybinėse įstaigose ir įmonėse (toliau – valstybės ir vietos savivaldos institucijos). Valstybinio archyvų fondo sudarymo, saugojimo, naudojimo tvarką, jo organizavimą ir valdymą nustato Lietuvos valstybinio archyvų fondo nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė;
+1. Nacionalinį dokumentų fondą sudaro valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų veiklos dokumentai, Lietuvoje įvairiais istorijos laikotarpiais veikusių valstybinių įstaigų ir įmonių veiklos dokumentai, taip pat valstybės archyvuose saugomi dokumentai.
 
 
 
 
-2) nevalstybinių institucijų ir fizinių asmenų archyvų fondų, įtrauktų į Lietuvos archyvų fondo sąvadą. Šiuos archyvų fondus sudaro nevalstybinių įstaigų, įmonių, organizacijų bei fizinių asmenų veiklos dokumentai bei jų surinkti, paveldėti, pirkti ar jiems dovanoti dokumentai, jei jie nepriklauso valstybiniam archyvų fondui.
+2. Nacionalinis dokumentų fondas gali būti papildomas išliekamąją vertę turinčiais nevalstybinių organizacijų, privačių juridinių ir fizinių asmenų veiklos dokumentais, taip pat iš kitų valstybių gautais Lietuvos istorinio paveldo ar su Lietuva susijusiais dokumentais ar jų kopijomis.
+
+
+
+
+3. Duomenys apie Nacionalinį dokumentų fondą kaupiami šio fondo registre. Nacionalinio dokumentų fondo registro nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+ 
+
+
+
+
+
+
+4 straipsnis. Dokumentų nuosavybė
+
+
+1. Nacionalinis dokumentų fondas yra Lietuvos Respublikos nuosavybė.
+
+
+
+
+2. Nacionalinio dokumentų fondo dokumentai yra išimti iš civilinės apyvartos. Jei šio fondo dokumentais disponuoja privatūs juridiniai ar fiziniai asmenys, jie turi būti perduoti valstybės ar savivaldybės institucijai, įstaigai ar įmonei, kuriai pagal kompetenciją priklausytų, o jei tokia institucija, įstaiga ar įmonė jau neveikia, dokumentai turi būti perduoti valstybinės archyvų sistemos įstaigoms. Kai juridinis ar fizinis asmuo, disponuojantis Nacionalinio dokumentų fondo dokumentais, perduoti šiuos dokumentus atsisako, kompetentinga valstybės ar savivaldybės institucija, įstaiga ar įmonė, jei tokios nėra, – valstybinės archyvų sistemos įstaiga turi imtis priemonių įstatymų nustatyta tvarka.
+
+
+
+
+3. Nevalstybinių organizacijų ir privačių juridinių asmenų veiklos dokumentai yra jų nuosavybė.
  
 
 
@@ -68,51 +203,20 @@ Lietuvos archyvų fondas susideda iš:
 
 
 
-4 straipsnis. Ypatingoji valstybinio archyvų fondo dalis
-Buvusio SSRS valstybės saugumo komiteto (KGB) LTSR padalinio ir kitų Lietuvoje veikusių SSRS saugumo ir žvalgybos tarnybų, taip pat buvusios LTSR vidaus reikalų ministerijos ir Lietuvos komunistų partijos archyvai, buvusių LTSR institucijų pirmųjų skyrių archyvai sudaro ypatingąją valstybinio archyvų fondo dalį. Ypatingosios valstybinio archyvų fondo dalies saugojimo, tvarkymo, tyrimo ir naudojimo tvarką nustato atskiras reglamentas, kurį tvirtina Lietuvos Respublikos Vyriausybė.
+ANTRASIS SKIRSNIS
+VALSTYBINĖ ARCHYVŲ SISTEMA
  
 
 
-5 straipsnis. Lietuvos archyvų fondo nuosavybė
+5 straipsnis. Valstybinė archyvų sistema
 
 
-Valstybinis archyvų fondas yra valstybės nuosavybė. Valstybinio archyvų fondo dokumentai negali būti pirkimo, pardavimo bei kitų sandorių, pažeidžiančių valstybės nuosavybės teisę į tokius dokumentus, objektas. Keičiantis valstybinės institucijos nuosavybės formai, iki jos pasikeitimo sudaryti ir sukaupti dokumentai išlieka valstybinio archyvų fondo dalimi. Valstybinio archyvų fondo dokumentai buvusiems savininkams negrąžinami. Fiziniams asmenims gali būti padarytos dokumentų, paimtų valstybiniam saugojimui, kopijos. Nevalstybinių institucijų ir fizinių asmenų archyvų fondai ir dokumentai yra jų privati nuosavybė.
- 
-
-
+1. Valstybės politiką dokumentų ir archyvų srityje įgyvendina valstybinės archyvų sistemos įstaigos.
 
 
 
 
-6 straipsnis. Valstybinė archyvų sistema
-
-
-Valstybinę archyvų sistemą sudaro Lietuvos archyvų departamentas, tiesiogiai pavaldus Lietuvos Respublikos Vyriausybei, valstybiniai archyvai ir kitos Lietuvos archyvų departamentui pavaldžios įstaigos.
-
-
-
-
-Lietuvos archyvų departamentas formuoja ir įgyvendina valstybės politiką raštvedybos ir archyvų srityje, valdo Lietuvos valstybinį archyvų fondą ir valstybinius archyvus bei kitas pavaldžias įstaigas, prižiūri ir kontroliuoja visą Lietuvos archyvų fondą, tvarko Lietuvos archyvų fondo sąvadą, registruoja privačius archyvus, rengia, tvirtina ir derina norminius dokumentus Lietuvos archyvų fondo saugojimo, tvarkymo, naudojimo ir kitais klausimais. Norminiai dokumentai, reglamentuojantys dokumentų saugojimo ir restauravimo sąlygas, turi būti derinami su Valstybine paminklosaugos komisija. Lietuvos archyvų departamentas atstovauja Lietuvos Respublikai tarptautinėse archyvų organizacijose. Lietuvos archyvų departamento nuostatus tvirtina Lietuvos Respublikos Vyriausybė, o direktorių skiria ir atleidžia Ministras Pirmininkas.
-
-
-
-
-Lietuvos archyvų departamento leidžiami norminiai dokumentai Lietuvos archyvų fondo klausimais privalomi visiems juridiniams asmenims ir pareigūnams.
-
-
-
-
-Valstybės institucijos, leidžiančios norminius dokumentus raštvedybos ir archyvų tvarkymo klausimais, privalo juos suderinti su Lietuvos archyvų departamentu.
-
-
-
-
-Lietuvos valstybiniai archyvai kaupia, saugo, restauruoja ir tiria dokumentus, reikšmingus Lietuvos istorijai ir kultūrai, užtikrina jų naudojimą, kontroliuoja, kaip valstybės institucijos tvarko ir saugo dokumentus, teikia metodinę pagalbą Lietuvos archyvų fondo laikytojams.
-
-
-
-
-Valstybinių archyvų nuostatus tvirtina Lietuvos archyvų departamento direktorius.
+2. Valstybinę archyvų sistemą sudaro Lietuvos archyvų departamentas prie Lietuvos Respublikos Vyriausybės (toliau – Lietuvos archyvų departamentas), valstybės archyvai, kitos įstatymų nustatyta tvarka Lietuvos archyvų departamento įsteigtos įstaigos.
  
 
 
@@ -120,10 +224,63 @@ Valstybinių archyvų nuostatus tvirtina Lietuvos archyvų departamento direktor
 
 
 
-7 straipsnis. Valstybinės archyvų sistemos finansavimas ir lėšos
+6 straipsnis. Lietuvos archyvų departamentas
 
 
-Valstybinė archyvų sistema finansuojama iš valstybės biudžeto. Lietuvos archyvų departamentas ir jam pavaldžios įstaigos gali turėti nebiudžetinių lėšų, kurias sudaro pajamos, gaunamos už archyvų teikiamas paslaugas ir leidybinę veiklą. Mokamų paslaugų rūšis, jų kainas ir lėšų naudojimo tvarką nustato Lietuvos archyvų departamentas. Valstybinė archyvų sistema gali gauti labdaros ir aukų iš juridinių ir fizinių asmenų.
+1. Lietuvos archyvų departamentas yra viešasis juridinis asmuo, veikiantis pagal šį Įstatymą ir kitus teisės norminius aktus. Lietuvos archyvų departamentas yra Vyriausybės įstaiga, administruojanti Nacionalinį dokumentų fondą ir prižiūrinti, kaip laikomasi šio Įstatymo ir su jo įgyvendinimu susijusių teisės aktų. Lietuvos archyvų departamento nuostatus tvirtina Lietuvos Respublikos Vyriausybė. Lietuvos archyvų departamento generalinį direktorių skiria ir atleidžia Ministras Pirmininkas Valstybės tarnybos įstatymo nustatyta tvarka.
+
+
+
+
+2. Lietuvos archyvų departamentas:
+
+
+1) dalyvauja formuojant ir įgyvendina valstybės politiką bei strategiją dokumentų valdymo ir naudojimo srityje, taip pat administruoja valstybinę archyvų sistemą;
+
+
+
+
+2) pagal šio Įstatymo nustatytą kompetenciją rengia ir leidžia teisės norminius aktus, derina kitų valstybės institucijų ir įstaigų parengtus teisės aktus;
+
+
+
+
+3) formuoja vienodą dokumentų valdymo praktiką valstybės ir savivaldybių institucijose, įstaigose ir įmonėse;
+
+
+
+
+4) sprendžia valstybės ir savivaldybių institucijų, įstaigų ir įmonių veiklos dokumentų perdavimo valstybės archyvams, Nacionalinio dokumentų fondo papildymo nevalstybinių organizacijų, privačių juridinių ir fizinių asmenų perduodamais veiklos dokumentais klausimus;
+
+
+
+
+5) turi kitus šiame ir kituose įstatymuose bei teisės norminiuose aktuose nustatytus įgaliojimus.
+
+
+
+
+
+
+3. Lietuvos archyvų departamentas turi teisę:
+
+
+1) iš valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų, nevalstybinių organizacijų, privačių juridinių asmenų gauti informaciją, susijusią su savo uždavinių ir funkcijų vykdymu;
+
+
+
+
+2) tikrinti, kaip valstybės ir savivaldybių institucijos, įstaigos ir įmonės laikosi šio Įstatymo reikalavimų;
+
+
+
+
+3) duoti rekomendacijas ir privalomus nurodymus pagal šio Įstatymo nustatytą kompetenciją;
+
+
+
+
+4) turi kitas įstatymų ir kitų teisės norminių aktų suteiktas teises.
  
 
 
@@ -131,10 +288,55 @@ Valstybinė archyvų sistema finansuojama iš valstybės biudžeto. Lietuvos arc
 
 
 
-8 straipsnis. Kitos valstybinės saugyklos
 
 
-Valstybinės kultūros, mokslo ir studijų įstaigos nuolat saugo istoriškai susiklosčiusius valstybinio archyvų fondo dokumentų kompleksus bei pagal sutartis įgytus, paveldėtus, dovanotus ar pirktus nevalstybinių institucijų ir fizinių asmenų dokumentus. Šioms saugykloms draudžiama įsigyti institucijų, kurios yra valstybinių archyvų komplektavimo šaltiniai, dokumentų originalus arba jiems prilygstančias kopijas.
+7 straipsnis. Valstybės archyvai
+
+
+1. Valstybės archyvai yra viešieji juridiniai asmenys, atliekantys viešojo administravimo funkcijas, susijusias su šio ir kitų įstatymų įgyvendinimu. Valstybės archyvus įstatymų nustatyta tvarka steigia ir jų nuostatus tvirtina Lietuvos archyvų departamentas. Valstybės archyvų direktorius skiria ir atleidžia Lietuvos archyvų departamento generalinis direktorius Valstybės tarnybos įstatymo nustatyta tvarka.
+
+
+
+
+2. Valstybės archyvų pagrindiniai uždaviniai:
+
+
+1) kaupti ir saugoti Nacionalinio dokumentų fondo nuolatinio saugojimo dokumentus;
+
+
+
+
+2) užtikrinti visuomenės priėjimą prie saugomų dokumentų;
+
+
+
+
+3) saugomų dokumentų pagrindu išduoti pažymas, patvirtintas dokumentų kopijas, išrašus juridinių faktų patvirtinimui;
+
+
+
+
+4) atlikti Lietuvos archyvų departamento priskirtų valstybės ir savivaldybių institucijų, įstaigų ir įmonių dokumentų valdymo priežiūrą.
+
+
+
+
+
+
+3. Valstybės archyvai turi teisę:
+
+
+1) iš valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų, nevalstybinių organizacijų, privačių juridinių asmenų gauti informaciją, susijusią su savo uždavinių ir funkcijų vykdymu;
+
+
+
+
+2) tikrinti, kaip valstybės ir savivaldybių institucijos, įstaigos ir įmonės laikosi šio Įstatymo reikalavimų;
+
+
+
+
+3) duoti rekomendacijas ir privalomus nurodymus pagal šio Įstatymo nustatytą kompetenciją.
  
 
 
@@ -142,35 +344,12 @@ Valstybinės kultūros, mokslo ir studijų įstaigos nuolat saugo istoriškai su
 
 
 
-9 straipsnis. Valstybės ir vietos savivaldos institucijų dokumentai
 
 
-Valstybės ir vietos savivaldos institucijos saugo savo ar jų reguliavimo sričiai priklausančių institucijų veiklos dokumentus.
+8 straipsnis. Valstybinės archyvų sistemos įstaigų mokamos paslaugos
 
 
-
-
-Valstybės ir vietos savivaldos institucijos privalo:
-
-
-1) organizuoti raštvedybą Lietuvos archyvų departamento nustatyta tvarka;
-
-
-
-
-2) užtikrinti tinkamą dokumentų vertės ekspertizę ir tvarkymą;
-
-
-
-
-3) turėti savo institucijos archyvą, užtikrinti archyvo dokumentų saugojimą ir naudojimą.
-
-
-
-
-
-
-Už valstybės ir vietos savivaldos institucijų dokumentų kaupimą, saugojimą ir naudojimą atsako kiekvienos institucijos vadovas.
+Valstybės archyvai ir kitos įstatymų nustatyta tvarka Lietuvos archyvų departamento įsteigtos įstaigos gali teikti mokamas dokumentų tvarkymo, paieškos, restauravimo, kopijavimo, konvertavimo, demonstravimo, taip pat mokymo ir konsultavimo paslaugas. Detalų mokamų paslaugų sąrašą, jų įkainius ir teikimo tvarką nustato Lietuvos archyvų departamentas.
  
 
 
@@ -178,40 +357,15 @@ Už valstybės ir vietos savivaldos institucijų dokumentų kaupimą, saugojimą
 
 
 
-10 straipsnis. Nevalstybinių institucijų ir fizinių asmenų dokumentai
+9 straipsnis. Valstybinės archyvų sistemos įstaigų finansavimas
 
 
-Privatine nuosavybe esančiais dokumentais disponuoja jų savininkai.
-
-
-
-
-Nevalstybinės institucijos privalo:
-
-
-1) laikytis valstybinės archyvų sistemos įstaigų nustatytų dokumentų saugojimo terminų, teikti joms informaciją apie saugomus dokumentus;
+1. Valstybinės archyvų sistemos įstaigos finansuojamos iš valstybės biudžeto. Asignavimų valdytojas yra Lietuvos archyvų departamentas.
 
 
 
 
-2) parduodamos ar perduodamos dokumentus, įtrauktus į Lietuvos archyvų fondo sąvadą, kitam juridiniam ar fiziniam asmeniui, apie tai pranešti Lietuvos archyvų departamentui;
-
-
-
-
-3) jeigu jos prekiauja kultūros vertybėmis, pateikti Lietuvos archyvų departamentui numatytų parduoti dokumentų sąrašus, o sandoriui įvykus informuoti apie jų naują savininką;
-
-
-
-
-4) dokumentus, įrašytus į kilnojamųjų kultūros vertybių registrą, saugoti pagal Kilnojamųjų kultūros vertybių apsaugos įstatymo nustatytus reikalavimus.
-
-
-
-
-
-
-Tais atvejais, kai reikšmingiems Lietuvos istorijai ir kultūrai dokumentams gresia sunykimo ar sunaikinimo pavojus, Lietuvos archyvų departamentas gali priimti sprendimą dėl jų paėmimo, jeigu raštu apie tai įspėtas savininkas nevykdo nustatytų reikalavimų. Savininkui atlyginama paimtų dokumentų vertė, kurios dydis nustatomas buvusio savininko susitarimu su valstybine saugykla, o kilus ginčui – ekspertų komisijos. Lietuvos archyvų departamento sprendimas gali būti apskundžiamas teismine tvarka per vienerius metus.
+2. Valstybinės archyvų sistemos įstaigoms finansuoti gali būti naudojamos ir kitos įstatymų nustatyta tvarka gautos lėšos.
  
 
 
@@ -219,20 +373,67 @@ Tais atvejais, kai reikšmingiems Lietuvos istorijai ir kultūrai dokumentams gr
 
 
 
-11 straipsnis. Surasti archyviniai dokumentai
 
 
-Asmenys, Lietuvos Respublikos teritorijoje radę archyvinių dokumentų, privalo apie tai pranešti Lietuvos archyvų departamentui.
+TREČIASIS SKIRSNIS
+DOKUMENTŲ VALDYMAS IR PERDAVIMAS
+ 
+
+
+10 straipsnis. Dokumentų valdymo organizavimas
+
+
+1. Valstybės ar savivaldybės institucijos, įstaigos ar įmonės veiklos dokumentai turi būti efektyviai valdomi ir prieinami jos pačios ir kitų asmenų poreikiams tenkinti, apsaugoti nuo sugadinimo, praradimo, neteisėto naudojimo, pakeitimo, naikinimo. Už valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentų valdymo organizavimą teisės norminių aktų nustatyta tvarka atsako tos institucijos, įstaigos ar įmonės vadovas ar kitas įgaliotas asmuo (toliau – vadovas).
 
 
 
 
-Surasti valstybės institucijų ir nevalstybinių organizacijų archyviniai dokumentai turi būti perduoti Lietuvos valstybiniams archyvams.
+2. Valstybės ar savivaldybės institucijos, įstaigos ar įmonės vadovas privalo:
+
+
+1) nustatyti institucijos, įstaigos ar įmonės veiklos dokumentų registrus, kitus apskaitos dokumentus;
 
 
 
 
-Asmenims, perdavusiems rastus nevalstybinių organizacijų dokumentus, Lietuvos archyvų departamento nustatyta tvarka išmokamas honoraras.
+2) paskirti už veiklos dokumentų registravimą, tvarkymą, apskaitą, saugojimą ir naikinimą atsakingus asmenis ir nustatyti jų įgaliojimus.
+
+
+
+
+
+
+3. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, perduodančios nuolatinio saugojimo dokumentus į valstybės archyvus, su jais derina:
+
+
+1) teisės aktus, kuriais nustatomi šio straipsnio 2 dalies 1 punkte nurodyti dokumentai;
+
+
+
+
+2) dokumentacijos planus, apskaitos dokumentus, kompiuterizuotas dokumentų valdymo sistemas.
+
+
+
+
+
+
+4. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, neperduodančios dokumentų į valstybės archyvus, šio straipsnio 3 dalies 1 ir 2 punktuose nurodytus dokumentus derina su jų steigėjo funkcijas atliekančia institucija ar įstaiga.
+
+
+
+
+5. Valstybės įgalioti asmenys veiklos dokumentų valdymą organizuoja šio ir įgaliojimus suteikiančių įstatymų nustatyta tvarka tiek, kiek jie neprieštarauja šiam Įstatymui.
+
+
+
+
+6. Nevalstybinės organizacijos, privatūs juridiniai ir fiziniai asmenys veiklos dokumentų valdymą organizuoja vadovaudamiesi įstatymais, kitais teisės norminiais aktais ir atsižvelgdami į savo prievoles bei poreikius.
+
+
+
+
+7. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, nevalstybinės organizacijos, privatūs juridiniai asmenys turimų dokumentų pagrindu privalo teisės aktų nustatyta tvarka išduoti juridinius faktus patvirtinančius dokumentus, susijusius su asmens teisių įgyvendinimu.
  
 
 
@@ -240,20 +441,25 @@ Asmenims, perdavusiems rastus nevalstybinių organizacijų dokumentus, Lietuvos 
 
 
 
-12 straipsnis. Dokumentų vertės ekspertizė ir jų saugojimo terminai
+11 straipsnis. Dokumentų rengimas, tvarkymas, apskaita
 
 
-Lietuvos archyvų fondo dokumentai yra nuolatinio, ilgo (nuo 10 iki 100 metų) ir laikino (iki 10 metų) saugojimo. Dokumentų saugojimo terminai nustatomi darant jų vertės ekspertizę pagal Lietuvos archyvų departamento patvirtintus norminius dokumentus. Ją atlieka fondų sudarytojų ar laikytojų ekspertų komisijos, sudaromos institucijos vadovo.
-
-
-
-
-Naikinti institucijų dokumentus be jų vertės ekspertizės draudžiama.
+1. Dokumentai turi būti rengiami laikantis teisės norminiuose aktuose atitinkamiems dokumentams nustatytų reikalavimų.
 
 
 
 
-Valstybinės archyvų sistemos įstaigos turi teisę tikrinti, ar teisingai atlikta dokumentų vertės ekspertizė. Jeigu rasta pažeidimų, jos gali uždrausti naikinti dokumentus.
+2. Valstybės ar savivaldybių institucijų, įstaigų ar įmonių vykdant teisės norminių aktų nustatytus įgaliojimus ir veiklą sudaryti ir gauti dokumentai turi būti užregistruoti dokumentų registruose, susisteminti pagal institucijos, įstaigos ar įmonės dokumentacijos planą, sutvarkyti ir įtraukti į apskaitą.
+
+
+
+
+3. Nevalstybinės organizacijos ir privatūs juridiniai asmenys dokumentus, kurių rengimą nustato teisės norminiai aktai, privalo rengti, tvarkyti ir į apskaitą įtraukti nustatyta tvarka.
+
+
+
+
+4. Dokumentų rengimo, tvarkymo ir apskaitos bendruosius reikalavimus nustato Lietuvos archyvų departamentas.
  
 
 
@@ -261,50 +467,40 @@ Valstybinės archyvų sistemos įstaigos turi teisę tikrinti, ar teisingai atli
 
 
 
-13 straipsnis. Dokumentų perdavimas valstybiniam saugojimui
+12 straipsnis. Dokumentų saugojimas
 
 
-Dokumentus bei apskaitos ir informacijos sistemą valstybiniams archyvams perduoda: Lietuvos Respublikos Seimas, Respublikos Prezidento kanceliarija, Lietuvos Respublikos Vyriausybė, ministerijos, kitos Vyriausybės įstaigos, teisėtvarkos institucijos, Lietuvos bankas, vietos savivaldos institucijos.
+1. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, valstybės įgalioti asmenys, nevalstybinės organizacijos, privatūs juridiniai asmenys privalo:
 
 
-
-
-Į institucijų, perduodančių dokumentus valstybiniam saugojimui, sąrašą Lietuvos archyvų departamento sprendimu įtraukiamos kitos valstybinės bei valstybės remiamos nevalstybinės institucijos, jei per jų veiklos laiką sudaroma reikšmingų Lietuvos istorijai ir kultūrai dokumentų. Valstybiniai archyvai priima tik pagal valstybiniam archyvų fondui nustatytus reikalavimus sutvarkytus šių institucijų nuolatinio saugojimo dokumentus.
-
-
-
-
-Nuolatinio saugojimo dokumentų saugojimo laikas valstybės institucijose, perduodančiose dokumentus į valstybinius archyvus valstybiniam saugojimui, yra:
+1) saugoti dokumentus patikimoje ir saugioje aplinkoje, įvertindami galimus rizikos veiksnius;
 
 
 
 
-bendrosios raštvedybos dokumentų – 15 metų;
+2) išsaugoti savo veiklos dokumentus reikiamą laiką, kad būtų užtikrinti veiklos įrodymai, apsaugotos su ja susijusių fizinių ir juridinių asmenų teisės;
 
 
 
 
-slaptosios raštvedybos dokumentų – 30 metų;
+3) išsaugoti reikiamą laiką kitų juridinių ir fizinių asmenų veiklos dokumentus, perimtus šio Įstatymo ir kitų teisės norminių aktų nustatyta tvarka;
 
 
 
 
-civilinės metrikacijos, teismo bylų, hipotekos, kadrų dokumentų – 75 metai;
+4) užtikrinti, kad turimi dokumentai, prie kurių prieinama tik specialios įrangos priemonėmis, išliktų autentiški, patikimi ir prieinami visą jų saugojimo laiką. Kartu su šiais dokumentais turi būti saugoma ir kontekstinė informacija.
 
 
 
 
-mokslo, technikos, kūrybos dokumentų – 15 metų (Lietuvos archyvų departamentas šios rūšies dokumentų saugojimo laiką gali pratęsti arba sutrumpinti).
+
+
+2. Už valstybės ar savivaldybės institucijos, įstaigos ar įmonės, nevalstybinės organizacijos, privataus juridinio asmens veiklos dokumentų išsaugojimą reikiamą laiką atsako vadovas.
 
 
 
 
-Valstybiniai archyvai ir kitos valstybinės saugyklos gali priimti pagal sutartį valstybiniam arba depozitiniam saugojimui nevalstybinių institucijų ir fizinių asmenų dokumentus.
-
-
-
-
-Valstybiniai archyvai ir kitos valstybinės saugyklos gali priimti fizinių asmenų testamentu paliktus dokumentus, reikšmingus Lietuvos istorijai ir kultūrai, atlikus jų vertės ekspertizę.
+3. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių dokumentų saugojimo ir saugyklų įrengimo reikalavimus nustato ir dokumentų saugyklų statinių projektavimo sąlygas Statybos įstatymo nustatyta tvarka išduoda Lietuvos archyvų departamentas. 
  
 
 
@@ -312,30 +508,25 @@ Valstybiniai archyvai ir kitos valstybinės saugyklos gali priimti fizinių asme
 
 
 
-14 straipsnis. Likviduojamų institucijų dokumentų perdavimas
+13 straipsnis. Dokumentų saugojimo terminai
 
 
-Jei likviduojamos valstybės, vietos savivaldos ar valstybės remiamos nevalstybinės institucijos, perduodančios dokumentus valstybiniam saugojimui, nuolatinio saugojimo dokumentai iki šių institucijų likvidavimo pabaigos ar kitu valstybinės archyvų sistemos įstaigų nustatytu laiku turi būti perduoti valstybiniam saugojimui į valstybinius archyvus.
-
-
-
-
-Ilgo saugojimo dokumentai perduodami tai valstybės ar vietos savivaldos institucijai, kurios reguliavimo sričiai jos priklausė.
+1. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, nevalstybinės organizacijos ir privatūs juridiniai asmenys veiklos dokumentų saugojimo terminus nustato vadovaudamiesi įstatymų ir kitų teisės norminių aktų reikalavimais. Jei šie reikalavimai nėra nustatyti, dokumentų saugojimo terminai nustatomi atsižvelgiant į valstybės ir savivaldybių institucijų, įstaigų ir įmonių, nevalstybinių organizacijų, privačių juridinių asmenų ir kitų susijusių asmenų prievoles ir teisėtus interesus. 
 
 
 
 
-Jei likviduojamos kitos valstybinės institucijos, jų dokumentai perduodami tai valstybės institucijai, kurios reguliavimo sričiai jos priklausė, o tokios nesant - vietos savivaldos institucijų archyvams. Apie institucijos likvidavimą informuojamas Lietuvos archyvų departamentas.
+2. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių vidaus administravimo dokumentų, nevalstybinių organizacijų ir privačių juridinių asmenų veiklos dokumentų, kurių rengimą nustato teisės norminiai aktai, saugojimo terminų rodykles rengia ir, suderinęs su suinteresuotais centriniais valstybinio administravimo subjektais, tvirtina Lietuvos archyvų departamentas.
 
 
 
 
-Jei likviduojamų valstybės institucijų funkcijas perima naujai susikūrusios institucijos, jos privalo užtikrinti likviduotų institucijų archyvų saugojimą.
+3. Centriniai valstybinio administravimo subjektai rengia ir kartu su Lietuvos archyvų departamentu tvirtina šiems subjektams priskirtoje srityje susidarančių dokumentų saugojimo terminų rodykles.
 
 
 
 
-Jei likviduojamos nevalstybinės institucijos, dokumentai, reikšmingi Lietuvos istorijai ir kultūrai, gali būti perduoti valstybiniam saugojimui į valstybinius archyvus. Administracinę ar socialinę ir teisinę reikšmę turintys dokumentai turi būti perduodami tai valstybės institucijai, kurios reguliavimo sričiai priklausė likviduojama institucija, o tokios nesant – vietos savivaldos institucijų archyvams.
+4. Sprendimą dėl dokumentų nuolatinio saugojimo priima Lietuvos archyvų departamentas ar jo įgalioti valstybės archyvai.
  
 
 
@@ -343,25 +534,30 @@ Jei likviduojamos nevalstybinės institucijos, dokumentai, reikšmingi Lietuvos 
 
 
 
-15 straipsnis. Lietuvos archyvų fondo sąvadas
+14 straipsnis. Dokumentų naikinimas
 
 
-Lietuvos archyvų fondo sąvadas sudaromas valstybiniams archyvams, kitų valstybinių saugyklų, valstybės institucijų archyvams registruoti ir informacijai apie jų archyvinius fondus bei dokumentus kaupti. Duomenys apie nevalstybinių institucijų ir fizinių asmenų archyvus, dokumentų fondus bei dokumentų kolekcijas, reikšmingas Lietuvos istorijai ir kultūrai, į Lietuvos archyvų fondo sąvadą įtraukiami tų fondų sudarytojų ar laikytojų sutikimu.
-
-
-
-
-Institucijos, įstatymų nustatyta tvarka registruojančios naujai įsteigtas įstaigas, įmones ir organizacijas, privalo apie tai pranešti Lietuvos archyvų departamentui.
+1. Dokumentus galima naikinti atlikus jų vertės ekspertizę, kai pasibaigia teisės norminių aktų nustatyti dokumentų saugojimo terminai. Sprendimą dėl valstybės ar savivaldybės institucijos, įstaigos ar įmonės, nevalstybinės organizacijos, privataus juridinio asmens veiklos dokumentų naikinimo ar jų saugojimo terminų pratęsimo priima vadovas pagal Lietuvos archyvų departamento nustatytus dokumentų rengimo, tvarkymo ir apskaitos bendruosius reikalavimus.
 
 
 
 
-Lietuvos archyvų fondo sąvade įregistruotos institucijos ir fiziniai asmenys privalo pateikti sąvado tvarkymo įstaigai nustatytos formos apskaitos dokumentus.
+2. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės sprendimus dėl dokumentų naikinimo turi suderinti su:
+
+
+1) valstybės archyvu, kuriam perduoda nuolatinio saugojimo dokumentus;
 
 
 
 
-Lietuvos archyvų fondo sąvado nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+2) steigėjo funkcijas atliekančia institucija ar įstaiga, kai dokumentai valstybės archyvams neperduodami.
+
+
+
+
+
+
+3. Naikinti atrinkti valstybės ir savivaldybių institucijų, įstaigų ir įmonių dokumentai turi būti sunaikinti.
  
 
 
@@ -369,25 +565,40 @@ Lietuvos archyvų fondo sąvado nuostatus tvirtina Lietuvos Respublikos Vyriausy
 
 
 
-16 straipsnis. Lietuvos archyvų fondo dokumentų naudojimas
+15 straipsnis. Dokumentų perdavimas valstybės archyvams
 
 
-Valstybinio archyvų fondo dokumentais bei informacijos sistema turi teisę naudotis juridiniai ir fiziniai asmenys. Skaitytojai valstybinio archyvų fondo dokumentais naudojasi šio fondo nuostatų ir dokumentus saugančių institucijų nustatyta tvarka.
-
-
-
-
-Valstybiniai archyvai, kitos institucijos privalo turimų dokumentų pagrindu išduoti juridiniams ir fiziniams asmenims archyvo pažymėjimus, patvirtintus dokumentų nuorašus, išrašus, užtikrinančius šių asmenų teisėtus interesus.
+1. Nuolatinio saugojimo veiklos dokumentus valstybės archyvams perduoda Lietuvos Respublikos Seimas, Respublikos Prezidentas, jų įsteigtos institucijos ir įstaigos, Lietuvos Respublikos Vyriausybė, teismai, Lietuvos bankas, ministerijos ir Vyriausybės įstaigos, kariuomenės, teisėsaugos institucijos ir įstaigos, kiti centriniai ir teritoriniai valstybinio administravimo ir savivaldybių administravimo subjektai, viešąsias paslaugas teikiančios įstaigos ir įmonės, kurių veikloje susidaro nuolatinio saugojimo dokumentai. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių, perduodančių dokumentus valstybės archyvams, sąrašą tvirtina Lietuvos archyvų departamentas. 
 
 
 
 
-Nevalstybinių institucijų dokumentų naudojimo tvarką nustato pačios institucijos, tačiau ši tvarka turi garantuoti valstybės institucijų ir piliečių poreikį informacijai.
+2. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės nuolatinio saugojimo dokumentus gali saugoti iki 20 metų nuo dokumentų įtraukimo į apskaitą. Per šį laikotarpį institucijos, įstaigos ar įmonės dokumentus turi perduoti saugoti valstybės archyvams. 
 
 
 
 
-Fizinių asmenų nuosavybe esančiais dokumentais naudotis galima tik savininkui sutikus.
+3. Lietuvos archyvų departamentas gali:
+
+
+1) pratęsti nuolatinio saugojimo dokumentų saugojimo valstybės ar savivaldybės institucijoje, įstaigoje ar įmonėje laiką, kai yra tam pagrįstų motyvų, tačiau ne ilgiau kaip iki 40 metų;
+
+
+
+
+2) nustatyti konkretų perdavimo valstybės archyvams terminą dokumentams, prie kurių prieinama tik specialios įrangos priemonėmis.
+
+
+
+
+
+
+4. Perduodami valstybės archyvams valstybės ir savivaldybių institucijų, įstaigų ir įmonių nuolatinio saugojimo dokumentai turi būti sutvarkyti teisės norminių aktų nustatyta tvarka. Kartu su perduodamais valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentais gali būti perduotos informacijos paieškos priemonės ir esančios dokumentų atsarginės kopijos. Dokumentų, tarp jų ir tų, prie kurių prieinama specialios įrangos priemonėmis, perdavimo valstybės archyvams tvarką nustato Lietuvos archyvų departamentas.
+
+
+
+
+5. Nevalstybinių organizacijų, privačių juridinių ir fizinių asmenų veiklos dokumentai į valstybės archyvus papildant Nacionalinį dokumentų fondą perduodami šalių susitarimu. Sutartyje aptariamos šių dokumentų perdavimo, tvarkymo, priėjimo prie jų ir naudojimo sąlygos.
  
 
 
@@ -395,55 +606,18 @@ Fizinių asmenų nuosavybe esančiais dokumentais naudotis galima tik savininkui
 
 
 
-17 straipsnis. Lietuvos archyvų fondo dokumentų naudojimo ribojimas
+16 straipsnis. Likviduojamų valstybės ir savivaldybių institucijų, įstaigų ir įmonių veiklos dokumentų perdavimas
 
 
-Ribojamas šių dokumentų naudojimas:
+Likviduojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės veiklos dokumentai perduodami:
 
 
-1) dokumentų, kuriuose yra valstybės arba tarnybinę paslaptį sudarančių žinių;
-
-
-
-
-2) asmens bylų – 50 metų po bylos baigimo;
+1) nuolatinio saugojimo dokumentai – valstybės archyvui;
 
 
 
 
-3) dokumentų, turinčių medicininio pobūdžio informacijos apie asmenis, – 25 metus po tokių asmenų mirties;
-
-
-
-
-4) dokumentų, susijusių su turtiniais ir teisiniais asmens interesais, – 75 metus po dokumentų sudarymo;
-
-
-
-
-5) dokumentų, kurių naudojimas gali pakenkti jų fizinei būklei.
-
-
-
-
-
-
-Dokumentų, kuriuose yra valstybės arba tarnybinę paslaptį sudarančių žinių, naudojimo tvarką reglamentuoja atitinkami įstatymai bei kiti norminiai aktai.
-
-
-
-
-Dokumentų, priimtų valstybiniam ar depozitiniam saugojimui pagal sutartis, naudojimo ribojimą nustato susitariančios pusės.
-
-
-
-
-Archyvinių dokumentų naudojimas neturi prieštarauti įstatymams bei kitiems norminiams aktams, ginantiems autorių teisę.
-
-
-
-
-Kiekvienas pareigūnas ar įgaliotas asmuo, saugantis ar naudojantis dokumentus, kuriuose yra valstybės arba tarnybinę paslaptį sudarančių žinių arba informacijos, galinčios pakenkti įstatymų ginamiems arba sutartimi nustatytiems asmens interesams, privalo saugoti profesinę paslaptį šių dokumentų atžvilgiu.
+2) dokumentai, kurių saugojimo terminas, nustatytas teisės norminiuose aktuose, nėra pasibaigęs, – likviduojamos institucijos, įstaigos ar įmonės funkcijų perėmėjui, o jeigu jo nėra, – steigėjo funkcijų vykdytojui.
  
 
 
@@ -451,20 +625,12 @@ Kiekvienas pareigūnas ar įgaliotas asmuo, saugantis ar naudojantis dokumentus,
 
 
 
-18 straipsnis. Lietuvos archyvų fondo priežiūra
 
 
-Valstybinės archyvų sistemos įstaigos kontroliuoja, kaip institucijos ir pareigūnai laikosi įstatymų ir kitų norminių aktų, reglamentuojančių Lietuvos archyvų fondo kaupimą, saugojimą ir naudojimą.
+17 straipsnis. Likviduojamų nevalstybinių organizacijų ir privačių juridinių asmenų veiklos dokumentų perdavimas
 
 
-
-
-Valstybinės archyvų sistemos įstaigų darbuotojai turi teisę susipažinti su Lietuvos archyvų fondo dokumentų saugojimo sąlygomis, patikrinti jų būklę ir kiekį, gauti visą tam reikalingą informaciją.
-
-
-
-
-Valstybės valdžios ir valdymo, vietos savivaldos institucijos privalo kontroliuoti jų reguliavimo sričiai priklausančių institucijų dokumentų kaupimą, saugojimą, tvarkymą ir naudojimą.
+Likviduojamos nevalstybinės organizacijos ir privataus juridinio asmens veiklos dokumentai, kurių saugojimo terminas, nustatytas teisės norminiuose aktuose, nėra pasibaigęs, turi būti perduoti savivaldybei, kurios teritorijoje buvo nevalstybinės organizacijos ar privataus juridinio asmens buveinė, iki jo išregistravimo iš juridinių asmenų registro.
  
 
 
@@ -472,10 +638,15 @@ Valstybės valdžios ir valdymo, vietos savivaldos institucijos privalo kontroli
 
 
 
-19 straipsnis. Lietuvos istorinio paveldo dokumentų, esančių kitose valstybėse, susigrąžinimas ir įsigijimas
+18 straipsnis. Dokumentų tvarkymo ir saugojimo paslaugos
 
 
-Valstybė rūpinasi Lietuvos istorinio paveldo dokumentų, esančių kitose valstybėse, susigrąžinimu ir jo finansavimu, skatina, remia ir finansuoja dokumentų ar jų kopijų, reikšmingų Lietuvos istorijai ir kultūrai, įsigijimą.
+1. Juridiniai asmenys gali teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas, gavę Lietuvos archyvų departamento išduotą licenciją tokiai veiklai. Licencijų išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+
+
+
+2. Kitose Europos Sąjungos valstybėse narėse ir Europos ekonominės erdvės valstybėse įsteigti juridiniai asmenys ir jų filialai Lietuvos Respublikoje gali teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas, pagal šio straipsnio 1 dalies nuostatas gavę Lietuvos archyvų departamento išduotą licenciją tokiai veiklai arba Lietuvos archyvų departamentui pateikę Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės kompetentingos institucijos dokumentus, įrodančius, kad juridinis asmuo turi teisę teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas pagal tos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teisės aktus.
  
 
 
@@ -483,30 +654,27 @@ Valstybė rūpinasi Lietuvos istorinio paveldo dokumentų, esančių kitose vals
 
 
 
-20 straipsnis. Lietuvos archyvų fondo dokumentų išvežimas
 
 
-Valstybinio archyvų fondo dokumentus išvežti visam laikui į kitas valstybes draudžiama.
+KETVIRTASIS SKIRSNIS
+PRIĖJIMAS PRIE NACIONALINIO DOKUMENTŲ FONDO DOKUMENTŲ IR JŲ NAUDOJIMAS
+ 
 
 
+19 straipsnis. Priėjimas prie Nacionalinio dokumentų fondo dokumentų
 
 
-Išimties tvarka pagal susitarimą su kitos valstybės kompetentinga institucija dėl valstybinio archyvinio palikimo atkūrimo, Lietuvos Respublikos Vyriausybė, remdamasi jos sudarytos ekspertų komisijos teikimu, gali leisti mainais išvežti dokumentus, priklausančius valstybiniam archyvų fondui, jei jie buvo sudaryti kitos šalies teritorijoje.
-
-
-
-
-Lietuvos archyvų departamentas gali leisti laikinai (iki 3 metų) išvežti kultūrinių mainų ar kitiems tikslams valstybinio archyvų fondo dokumentus.
+1. Asmenys turi teisę prieiti prie Nacionalinio dokumentų fondo dokumentų, išskyrus tuos dokumentus, prie kurių priėjimą riboja įstatymai. Prie šių dokumentų asmenys turi teisę prieiti tų įstatymų nustatyta tvarka.
 
 
 
 
-Lietuvos valstybinio archyvų fondo dokumentų išvežimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+2. Asmuo, norintis susipažinti su dokumentais, prie kurių priėjimas neribojamas, turi kreiptis į dokumentų saugotoją pateikdamas rašytinį prašymą ir asmens tapatybę liudijantį dokumentą. Asmuo neprivalo nurodyti susipažinimo su dokumentais priežasčių. Su dokumentais asmuo gali susipažinti tik dokumentų saugotojo patalpose.
 
 
 
 
-Nevalstybinių institucijų ir fizinių asmenų dokumentams, įrašytiems į kilnojamųjų kultūros vertybių registrą, išvežti į kitas valstybes taikoma Kilnojamųjų kultūros vertybių apsaugos įstatymo nustatyta tvarka.
+3. Dokumentų saugotojas asmeniui, norinčiam susipažinti su dokumentais, turi pateikti turimas paieškos priemones ir jo nurodytus dokumentus arba jų kopijas. Dokumentai ir jų paieškos priemonės asmeniui susipažinti pateikiami nemokamai. Kai susipažinti su dokumentais galima tik specialios įrangos priemonėmis arba kai asmens prašymu pagaminamos dokumentų kopijos, asmuo turi padengti su dokumentų demonstravimu ar kopijavimu susijusias išlaidas. Jei dokumentų saugotojas atsisako pateikti asmens nurodytus dokumentus, jis turi raštu paaiškinti atsisakymo priežastis ir galimybę šį atsisakymą apskųsti įstatymų nustatyta tvarka.
  
 
 
@@ -514,10 +682,70 @@ Nevalstybinių institucijų ir fizinių asmenų dokumentams, įrašytiems į kil
 
 
 
-21 straipsnis. Atsakomybė už Lietuvos Respublikos archyvų įstatymo pažeidimus
+20 straipsnis. Priėjimo prie Nacionalinio dokumentų fondo dokumentų teisės ribojimas
 
 
-Pareigūnai ir asmenys, pažeidę Lietuvos Respublikos archyvų įstatymą, traukiami atsakomybėn įstatymų nustatyta tvarka.
+1. Priėjimo prie Nacionalinio dokumentų fondo dokumentų teisė gali būti ribojama tik įstatymais, kad būtų apsaugota juose esanti informacija šiais tikslais:
+
+
+1) nacionalinio saugumo, gynybos, tarptautinių santykių;
+
+
+
+
+2) visuomenės saugumo;
+
+
+
+
+3) privatumo ir kitų teisėtų privačių interesų;
+
+
+
+
+4) nusikalstamų veikų prevencijos, tyrimo ir baudžiamojo persekiojimo;
+
+
+
+
+5) šalių lygiateisiškumo teismo procesuose;
+
+
+
+
+6) valstybės ekonominės, pinigų (monetarinės), valiutos keitimo politikos;
+
+
+
+
+7) viešųjų ir privačių komercinių ir kitų ekonominių interesų.
+
+
+
+
+
+
+2. Pasibaigus įstatymų nustatytiems priėjimo prie dokumentų ribojimo terminams, dokumentai turi būti vieši ir prieinami.
+
+
+
+
+3. Priėjimas prie Nacionaliniam dokumentų fondui priklausančių buvusių SSRS valstybės saugumo komiteto (KGB) Lietuvos SSR padalinio, Lietuvos SSR vidaus reikalų ministerijos ir kitų Lietuvos teritorijoje veikusių specialiųjų tarnybų dokumentų, kuriuose yra agentūrinės informacijos, sudarytų baudžiamųjų ir trėmimo bylų ribojamas 70 metų nuo jų sudarymo. Šių dokumentų naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+
+
+
+4. Priėjimas prie nevalstybinių organizacijų, privačių juridinių ar fizinių asmenų veiklos dokumentų, perduotų papildant Nacionalinį dokumentų fondą, gali būti ribojamas, jei tai numatyta dokumentų perdavimo sutartyje.
+
+
+
+
+5. Priėjimas prie Nacionalinio dokumentų fondo dokumentų, kuriose yra informacijos apie asmens privatų gyvenimą, taip pat prie valstybės archyvams perduotų susistemintų asmens duomenų rinkmenų ribojamas 50 metų po asmens mirties, o jei šio fakto nustatyti neįmanoma, – 100 metų nuo dokumentų sudarymo.
+
+
+
+
+6. Priėjimas prie blogos fizinės būklės dokumentų gali būti ribojamas tol, kol bus pataisyta tokių dokumentų būklė ar pagamintos jų atsarginės kopijos.
  
 
 
@@ -525,10 +753,50 @@ Pareigūnai ir asmenys, pažeidę Lietuvos Respublikos archyvų įstatymą, trau
 
 
 
-22 straipsnis. Tarpvalstybinės sutartys
+21 straipsnis. Nacionalinio dokumentų fondo dokumentų naudojimas
 
 
-Jeigu Lietuvos Respublikos tarpvalstybinėje sutartyje nustatytos kitokios taisyklės negu tos, kurias numato Lietuvos Respublikos archyvų įstatymas, taikomos tarpvalstybinės sutarties taisyklės.
+1. Nacionaliniu dokumentų fondu gali naudotis fiziniai ir juridiniai asmenys.
+
+
+
+
+2. Dokumentai, kuriuose esančios informacijos naudojimą riboja įstatymai, naudojami tų įstatymų nustatyta tvarka.
+
+
+
+
+3. Dokumentai, kurie yra autorių teisių objektai, naudojami teisės norminių aktų, reglamentuojančių autorių teises, nustatyta tvarka.
+
+
+
+
+4. Dokumentai gali būti naudojami:
+
+
+1) faktų įrodymo, švietimo, mokslinio tyrimo ir kitais nekomerciniais tikslais;
+
+
+
+
+2) komerciniais tikslais, kai dokumentų pagrindu siekiant pelno sukuriamas naujas produktas.
+
+
+
+
+
+
+5. Dokumentus naudojant komerciniais tikslais, sudaroma dokumentų saugotojo ir jų naudotojo sutartis dėl dokumentų komercinio naudojimo sąlygų. Jos turi būti tokios, kad nebūtų diskriminuojami visi naudotojai.
+
+
+
+
+6. Dokumentų saugotojas neprivalo išversti turimą dokumentą, jį adaptuoti ar konvertuoti, sukurti naudotojo prašomą naują informaciją.
+
+
+
+
+7. Skelbiant Nacionalinio dokumentų fondo dokumentus, būtina nurodyti dokumentų saugotoją. Kai dokumentų naudotojas paskelbia informaciją, parengtą Nacionalinio dokumentų fondo dokumentų pagrindu, jis privalo dokumentų saugotojui nemokamai pateikti vieną leidinio egzempliorių.
  
 
 
@@ -536,16 +804,86 @@ Jeigu Lietuvos Respublikos tarpvalstybinėje sutartyje nustatytos kitokios taisy
 
 
 
-23 straipsnis. Baigiamosios nuostatos
+22 straipsnis. Nacionalinio dokumentų fondo dokumentų laikinas perdavimas naudotis
 
 
-Pripažinti netekusiu galios 1990 m. vasario 13 d. Lietuvos Respublikos archyvų įstatymą Nr. XI-3687 (Žin., 1990, Nr. 8-188).
+1. Nacionaliniam dokumentų fondui priklausančius dokumentus jų saugotojas gali laikinai perduoti naudotis:
+
+
+1) dokumentus perdavusiems juridiniams ar fiziniams asmenims, jų funkcijų ar teisių perėmėjams – iki 12 mėnesių;
 
 
 
 
-Perdavus ypatingąją valstybinio archyvų fondo dalį Lietuvos archyvų departamento žinion, pripažinti netekusiu galios 1992 m. spalio 29 d. Lietuvos Respublikos įstatymą „Dėl ypatingos reikšmės archyvų išsaugojimo“ Nr. I-3020 (Žin., 1992, Nr. 33-1011) ir 1993 m. birželio 1 d. Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo „Dėl ypatingos reikšmės archyvų išsaugojimo“ pakeitimo“ Nr. I-167 (Žin., 1993, Nr. 20-490).
+2) parodų organizatoriams – parodos rengimo ir eksponavimo laikotarpiui.
+
+
+
+
+
+
+2. Teismams ir ikiteisminio tyrimo įstaigoms dokumentus, priklausančius Nacionaliniam dokumentų fondui, jų saugotojai perduoda ir susigrąžina įstatymų nustatyta tvarka.
+
+
+
+
+3. Dokumentai perduodami tiesiogiai, siunčiami pasiuntinių ar kitu specialiu paštu.
+
+
+
+
+4. Už perduotų dokumentų saugumą, fizinę būklę ir jų grąžinimą dokumentų saugotojui teisės norminių aktų nustatytais ar perdavimo dokumente nurodytais terminais teisės norminių aktų nustatyta tvarka atsako juos laikinai perėmę naudotis juridiniai ar fiziniai asmenys.
  
+
+
+
+
+
+
+
+
+PENKTASIS SKIRSNIS
+DOKUMENTŲ IŠVEŽIMAS IŠ LIETUVOS RESPUBLIKOS
+ 
+
+
+23 straipsnis. Dokumentų išvežimas iš Lietuvos Respublikos 
+
+
+1. Nacionalinio dokumentų fondo dokumentus negrąžinamai išvežti iš Lietuvos Respublikos draudžiama, išskyrus atvejus, kai yra sudarytos tarptautinės sutartys dėl valstybių dokumentinio paveldo atkūrimo.
+
+
+
+
+2. Nacionalinio dokumentų fondo dokumentai, kuriems yra daugiau kaip 10 metų, kultūrinių mainų ar kitais tikslais gali būti laikinai išvežti iš Lietuvos Respublikos gavus Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos leidimą.
+
+
+
+
+3. Nevalstybinėms organizacijoms, privatiems juridiniams ir fiziniams asmenims priklausančius dokumentus, kuriems yra daugiau kaip 50 metų, išvežti iš Lietuvos Respublikos galima tik gavus Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos leidimą. Jei nustatoma, kad dokumentų nebuvimas nuskurdintų Lietuvos kultūrinį paveldą, leidimas negrąžinamai išvežti dokumentus neišduodamas.
+
+
+
+
+4. Dokumentų išvežimo iš Lietuvos Respublikos tvarką nustato Lietuvos Respublikos Vyriausybė.
+ 
+
+
+
+
+
+
+
+
+ŠEŠTASIS SKIRSNIS
+BAIGIAMOSIOS NUOSTATOS
+ 
+
+
+24 straipsnis. Atsakomybė už šio Įstatymo pažeidimus 
+
+
+Fiziniai ir juridiniai asmenys, pažeidę šio Įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
  
 
 
@@ -560,3 +898,16 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2084, 2004-03-30, Žin., 2004, Nr. 57-1982 (2004-04-20), i. k. 1041010ISTA0IX-2084
+Lietuvos Respublikos archyvų įstatymo pakeitimo įstatymas
