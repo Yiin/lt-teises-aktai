@@ -39,65 +39,116 @@ straipsnis. Specialiajam fondui veikiančioms ir besisteigiančioms profesinėms
 sąjungoms
 remti perduoto turto valdymo, naudojimo ir disponavimo juo 
 tvarka
-1. Specialusis
+*1. Specialusis
 fondas veikiančioms ir besisteigiančioms profesinėms sąjungoms remti jam
 perduotą turtą, išskyrus šio Įstatymo 3 straipsnyje nurodytą turtą, valdo,
 naudoja ir disponuoja juo Specialiojo fondo veikiančioms ir besisteigiančioms
 profesinėms sąjungoms remti tarybos nustatyta tvarka. 
-2. Specialiojo
+*2. Specialiojo
 fondo veikiančioms ir besisteigiančioms profesinėms sąjungoms remti lėšos ir
 lėšos, gautos valdant, naudojant šiam fondui perduotą turtą ir disponuojant
-juo, pervedamos į Profesinių sąjungų paramos fondą. Profesinių sąjungų paramos
-fondo steigėjais turi teisę būti Lietuvos profesinių sąjungų centras, Lietuvos
-profesinių sąjungų susivienijimas, Lietuvos darbo federacija ir Lietuvos
-darbininkų sąjunga. Jei Profesinių sąjungų paramos fondas neįsteigiamas iki
-2002 m. gegužės 1 d., šioje dalyje nurodytos lėšos lygiomis dalimis
-paskirstomos Lietuvos profesinių sąjungų centrui, Lietuvos profesinių sąjungų
-susivienijimui, Lietuvos darbo federacijai ir Lietuvos darbininkų sąjungai.
+juo, pervedamos į Profesinių sąjungų paramos fondą. Profesinių sąjungų
+paramos fondo steigėjais turi teisę būti Lietuvos profesinių sąjungų centras,
+Lietuvos profesinių sąjungų susivienijimas, Lietuvos darbo federacija ir
+Lietuvos darbininkų sąjunga. Jei Profesinių sąjungų paramos fondas
+neįsteigiamas iki 2002 m. gegužės 1 d., šioje dalyje nurodytos lėšos lygiomis
+dalimis paskirstomos Lietuvos profesinių sąjungų centrui, Lietuvos profesinių
+sąjungų susivienijimui, Lietuvos darbo federacijai ir Lietuvos darbininkų
+sąjungai.
  
-3 straipsnis. Profesinių sąjungų turto
-paskirstymas jų nuosavybėn
+*Pastaba.
+Pripažinti, kad Lietuvos
+Respublikos Konstitucijos 7 straipsnio 2 daliai, konstituciniam teisinės
+valstybės principui prieštarauja Lietuvos Respublikos profesinių sąjungų
+turto paskirstymo įstatymo (2002 m. sausio 22 d. redakcija) 2 straipsnio 1
+dalis;
+Lietuvos
+Respublikos profesinių sąjungų turto paskirstymo įstatymo (2002 m. sausio 22
+d. redakcija) 2 straipsnio 2 dalies nuostata „Specialiojo fondo
+veikiančioms ir besisteigiančioms profesinėms sąjungoms remti lėšos ir lėšos,
+gautos valdant, naudojant šiam fondui perduotą turtą ir disponuojant juo,
+pervedamos į Profesinių sąjungų paramos fondą“.
+Straipsnio
+pakeitimai:
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2003-09-30,
+Žin., 2003, Nr. 93-4223 (2003-10-03)
+ 
+3 straipsnis. Profesinių sąjungų turto paskirstymas jų nuosavybėn
 1. Pastatas su priklausiniais
 J.Basanavičiaus g. 29a, Vilniuje, perduodamas nuosavybės teise Lietuvos
 profesinių sąjungų centrui.
 2. Pastatas su priklausiniais
-J.Jasinskio g. 9, Vilniuje, perduodamas nuosavybės teise Lietuvos profesinių
-sąjungų susivienijimui.
+J.Jasinskio g. 9, Vilniuje, perduodamas
+nuosavybės teise Lietuvos profesinių sąjungų susivienijimui.
 3. Respublikinių profesinių sąjungų
 kultūros rūmų pastatas su priklausiniais V.Mykolaičio-Putino g. 5, Vilniuje,
 perduodamas bendrosios dalinės nuosavybės teise lygiomis dalimis Lietuvos darbo
-federacijai ir Lietuvos darbininkų sąjungai. Lietuvos darbo federacija ir Lietuvos darbininkų sąjunga nuo nuosavybės teisių į
-Respublikinių profesinių sąjungų kultūros rūmų pastatą su priklausiniais
-įregistravimo nekilnojamojo turto registre dienos sudaro su Kultūros
-ministerija 5 metams sutartį dėl tame pastate
-veikiančių meno kolektyvų veiklos užtikrinimo bei plėtojimo. 
+federacijai ir Lietuvos darbininkų sąjungai.
+Lietuvos darbo federacija ir Lietuvos darbininkų sąjunga nuo nuosavybės teisių
+į Respublikinių profesinių sąjungų kultūros rūmų pastatą su priklausiniais
+įregistravimo nekilnojamojo turto registre dienos sudaro su Kultūros ministerija 5 metams sutartį dėl tame
+pastate veikiančių meno kolektyvų veiklos užtikrinimo bei plėtojimo. 
 4. Negyvenamosios patalpos
 E.Ožeškienės g. 21-1, Kaune, perduodamos nuosavybės teise Kauno darbininkų
 sąjungai.
-5. Viešoji įstaiga „Anykščių šilelis“ (buvę poilsio namai „Šilelis“) ir UAB
-„Neringos kopos“ (buvę poilsio namai
-„Neringa“) akcijos lygiomis dalimis perduodamos bendrosios dalinės nuosavybės
-teise Lietuvos darbo federacijai, Lietuvos profesinių sąjungų centrui, Lietuvos
-darbininkų sąjungai ir Lietuvos profesinių sąjungų susivienijimui.
+*5. Viešoji įstaiga „Anykščių šilelis“ (buvę poilsio namai „Šilelis“) ir
+UAB „Neringos kopos“ (buvę poilsio namai „Neringa“) akcijos lygiomis dalimis
+perduodamos bendrosios dalinės nuosavybės teise Lietuvos darbo federacijai,
+Lietuvos profesinių sąjungų centrui, Lietuvos darbininkų sąjungai ir Lietuvos profesinių sąjungų susivienijimui.
  
-4 straipsnis.
-Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms 
+*Pastaba. Pripažinti, kad Lietuvos
+Respublikos Konstitucijos 5 straipsnio 2 daliai, 23 straipsnio 2 daliai, 50
+straipsnio 1 daliai, 128 straipsnio 2 daliai, konstituciniam teisinės valstybės
+principui prieštarauja Lietuvos Respublikos profesinių sąjungų turto
+paskirstymo įstatymo (2002 m. sausio 22 d. redakcija) 3 straipsnio 5 dalis.
+Straipsnio
+pakeitimai:
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2003-09-30,
+Žin., 2003, Nr. 93-4223 (2003-10-03)
+ 
+*4
+straipsnis. Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms 
 sąjungoms
 remti likvidavimas
-Specialusis fondas veikiančioms ir besisteigiančioms
-profesinėms sąjungoms remti likviduojamas ir šio fondo tarybos įgaliojimai
-nutraukiami atskiru Seimo nutarimu, kai atsiskaityta už Specialiojo fondo
-veikiančioms ir besisteigiančioms profesinėms sąjungoms remti įsteigtų viešųjų
-įstaigų įsipareigojimus, Fondo valdomas turtas perduotas atskirų profesinių
-sąjungų ar savivaldybių nuosavybėn arba šis turtas parduotas ir lėšos pervestos
-šio įstatymo 2 straipsnio 2 dalyje nurodytiems subjektams.
+Specialusis
+fondas veikiančioms ir besisteigiančioms profesinėms sąjungoms remti
+likviduojamas ir šio fondo tarybos įgaliojimai nutraukiami atskiru Seimo
+nutarimu, kai atsiskaityta už Specialiojo fondo veikiančioms ir
+besisteigiančioms profesinėms sąjungoms remti įsteigtų viešųjų įstaigų
+įsipareigojimus, Fondo valdomas turtas perduotas atskirų profesinių sąjungų ar
+savivaldybių nuosavybėn arba šis turtas parduotas ir lėšos pervestos šio
+įstatymo 2 straipsnio 2 dalyje nurodytiems subjektams.
  
-5 straipsnis.
+*Pastaba.
+Pripažinti, kad Lietuvos
+Respublikos Konstitucijos 7 straipsnio 2 daliai, konstituciniam teisinės
+valstybės principui prieštarauja Lietuvos Respublikos profesinių sąjungų
+turto paskirstymo įstatymo (2002 m. sausio 22 d. redakcija) 4 straipsnis.
+Straipsnio
+pakeitimai:
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2003-09-30,
+Žin., 2003, Nr. 93-4223 (2003-10-03)
+ 
+*5 straipsnis.
 Specialiojo fondo veikiančioms ir besisteigiančioms profesinėms 
 sąjungoms
 remti tarybos sudarymas
-Sudaroma Specialiojo fondo veikiančioms ir besisteigiančioms
-profesinėms sąjungoms remti naujos sudėties taryba.
+Sudaroma Specialiojo fondo veikiančioms ir
+besisteigiančioms profesinėms sąjungoms remti naujos sudėties taryba.
+ 
+*Pastaba.
+Pripažinti, kad Lietuvos
+Respublikos Konstitucijos 7 straipsnio 2 daliai, konstituciniam teisinės
+valstybės principui prieštarauja Lietuvos Respublikos profesinių sąjungų
+turto paskirstymo įstatymo (2002 m. sausio 22 d. redakcija) 5 straipsnis.
+Straipsnio
+pakeitimai:
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2003-09-30,
+Žin., 2003, Nr. 93-4223 (2003-10-03)
  
  
 Vadovaudamasis
@@ -109,7 +160,8 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 LIETUVOS
 RESPUBLIKOS 
-SEIMO PIRMININKAS                                                           VYTAUTAS
+SEIMO
+PIRMININKAS                                                           VYTAUTAS
 LANDSBERGIS
  
 ______________
@@ -126,7 +178,25 @@ Nauja įstatymo redakcija
  
 *** Pabaiga ***
  
+Konstitucinio
+Teismo nutarimai:
  
-Redagavo: Aušrinė Trapinskienė (2002-02-13)
-                  autrap@lrs.lt
+1.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2003-09-30,
+Žin., 2003, Nr. 93-4223 (2003-10-03)
+DĖL
+TEISĖS AKTŲ, KURIAIS BUVO SPRENDŽIAMI IKI LIETUVOS NEPRIKLAUSOMOS VALSTYBĖS
+ATKŪRIMO LIETUVOJE VEIKUSIŲ VALSTYBINIŲ PROFESINIŲ SĄJUNGŲ VALDYTO TURTO
+KLAUSIMAI, ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+***
+Pabaiga ***
+ 
+ 
+Redagavo:
+Aušrinė Trapinskienė (2003-10-03)
+                 
+autrap@lrs.lt
 
