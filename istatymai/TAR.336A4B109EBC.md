@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 Redagavo: Ramunė Lūžaitė (1997
 
 Redagavo: Ramunė
-Lūžaitė (1997.06.19)
+Lūžaitė (1999.02.24)
  
 Nauja įstatymo
 redakcija paskelbta: (Žin., 1996, Nr.126-2944)
@@ -87,18 +87,25 @@ LIETUVOS RESPUBLIKOS
 SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 16, 51, 64 IR 68 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
  
+8.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1047,
+99.02.09, Žin., 1999, Nr.19-511 (99.02.24)
+LIETUVOS
+RESPUBLIKOS SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 19, 34, 83 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+Šis įstatymas įsigalioja nuo 1999 m. gegužės
+1 d.
 ***
 Pabaiga ***
  
 LIETUVOS RESPUBLIKOS
- 
 SAVIVALDYBIŲ TARYBŲ RINKIMŲ
- 
 ĮSTATYMAS
  
- 
 1994 m. liepos 7 d. Nr.I-532
- 
  
  
 PIRMASIS SKIRSNIS
@@ -114,8 +121,8 @@ slaptu balsavimu tiesioginiuose rinkimuose pagal proporcinę rinkimų sistemą.
 Visuotinė rinkimų teisė
  
 1. Rinkimų teisę turi Lietuvos
-Respublikos piliečiai, kuriems rinkimų dieną yra sukakę 18 metų. Rinkimuose nedalyvauja
-piliečiai, kurie teismo pripažinti neveiksniais. 
+Respublikos piliečiai, kuriems rinkimų dieną yra sukakę 18 metų. Rinkimuose
+nedalyvauja piliečiai, kurie teismo pripažinti neveiksniais. 
 2. Tarybos nariu gali būti
 renkamas Lietuvos Respublikos pilietis, kuris rinkimų dieną yra ne jaunesnis
 kaip 21 metų.
@@ -124,9 +131,9 @@ renkami asmenys, kurie, likus 65 dienoms iki rinkimų, yra nebaigę atlikti
 bausmės pagal teismo paskirtą nuosprendį, taip pat asmenys, teismo pripažinti
 neveiksniais arba nepakaltinamais.
 4. Tarybos nariais negali būti
-renkami asmenys, rinkimų dieną atliekantys tikrąją karo arba alternatyviąją
-krašto apsaugos tarnybą, taip pat likus 65 dienoms iki rinkimų neišėję į
-atsargą krašto apsaugos sistemos, policijos ir vidaus tarnybos karininkai,
+renkami asmenys, rinkimų dieną atliekantys tikrąją karo arba alternatyviąją krašto
+apsaugos tarnybą, taip pat likus 65 dienoms iki rinkimų neišėję į atsargą
+krašto apsaugos sistemos, policijos ir vidaus tarnybos karininkai,
 puskarininkiai ir liktiniai, kitų sukarintų ir saugumo tarnybų apmokami
 pareigūnai.
 5. Kiti tiesioginiai arba netiesioginiai
@@ -167,14 +174,13 @@ Tarybų rinkimų datos paskelbimas
  
 1. Visų tarybų nariai renkami
 vienu metu.
-2. Tarybų rinkimus skelbia
-Lietuvos Respublikos Seimas ne vėliau kaip likus 5 mėnesiams iki tarybų narių
-įgaliojimų pabaigos. Jeigu, likus 4 mėnesiams iki tarybų narių įgaliojimų
-pabaigos, Lietuvos Respublikos Seimas nepaskelbia tarybų rinkimų datos, tarybų
-rinkimai rengiami paskutinį sekmadienį, nuo kurio iki tarybų narių įgaliojimų
-pabaigos lieka ne mažiau kaip mėnuo. Tarybų rinkimai rengiami ne anksčiau kaip
-prieš 2 mėnesius ir ne vėliau kaip prieš mėnesį iki tarybų narių įgaliojimų
-pabaigos.
+2. Tarybų rinkimus skelbia Lietuvos
+Respublikos Seimas ne vėliau kaip likus 5 mėnesiams iki tarybų narių įgaliojimų
+pabaigos. Jeigu, likus 4 mėnesiams iki tarybų narių įgaliojimų pabaigos,
+Lietuvos Respublikos Seimas nepaskelbia tarybų rinkimų datos, tarybų rinkimai
+rengiami paskutinį sekmadienį, nuo kurio iki tarybų narių įgaliojimų pabaigos
+lieka ne mažiau kaip mėnuo. Tarybų rinkimai rengiami ne anksčiau kaip prieš 2
+mėnesius ir ne vėliau kaip prieš mėnesį iki tarybų narių įgaliojimų pabaigos.
 3. Jeigu tarybų rinkimai turi
 būti rengiami karo veiksmų metu, sprendimas dėl rinkimų rengimo priimamas pagal
 specialius įstatymus ar kitus teisės aktus.
@@ -202,8 +208,8 @@ asmeniškai ne vėliau kaip likus 24 valandoms iki posėdžio pradžios. Vyriaus
 rinkimų komisija apie savo posėdžius, kuriuose sprendžiama dėl rinkimų datų,
 tarybų narių skaičiaus nustatymo, rinkimų apygardų komisijų sudarymo ir
 sudėties keitimo, kandidatų į tarybos narius registravimo, burtais sprendžiamų
-klausimų, rinkimų rezultatų ir galutinių rinkimų rezultatų nustatymo, tarybos
-nario įgaliojimų nutraukimo prieš terminą, naujo tarybos nario įgaliojimų
+klausimų, rinkimų rezultatų ir galutinių rinkimų rezultatų nustatymo, tarybos nario
+įgaliojimų nutraukimo prieš terminą, naujo tarybos nario įgaliojimų
 pripažinimo, taip pat nagrinėjami ginčai dėl rinkimų agitacijos bei šio
 įstatymo pažeidimų, papildomai praneša visuomenės informavimo priemonėms per
 Lietuvos telegramų agentūrą (ELTA).
@@ -444,16 +450,16 @@ pasiūlytus teisingumo ministro, Lietuvos teisininkų draugijos arba miesto,
 rajono mero.
 5. Visais atvejais asmenys,
 paskirti į apygardų rinkimų komisijas iš teisingumo ministro, Lietuvos
-teisininkų draugijos ir miesto, rajono mero pasiūlytųjų, turi sudaryti ne
-mažiau kaip 1/4 komisijos narių. Jeigu šių asmenų yra mažiau, komisija
-padidinama iš teisingumo ministro, Lietuvos teisininkų draugijos arba miesto,
-rajono mero pasiūlytų asmenų.
+teisininkų draugijos ir miesto, rajono mero pasiūlytųjų, turi sudaryti ne mažiau
+kaip 1/4 komisijos narių. Jeigu šių asmenų yra mažiau, komisija padidinama iš
+teisingumo ministro, Lietuvos teisininkų draugijos arba miesto, rajono mero
+pasiūlytų asmenų.
 6. Jeigu tą pačią dieną vyksta
 arba Seimo, arba savivaldybės tarybos rinkimai, arba referendumas, sudaromos
 tos pačios apylinkių rinkimų ar referendumo komisijos. Vyriausioji rinkimų
 komisija atskiroje rinkimų, referendumo teritorijoje sudaro vieną - miesto,
-rajono, apygardos rinkimų arba referendumo - komisiją ir nustato jos funkcijas organizuojant
-ir vykdant kitus rinkimus ar referendumą.
+rajono, apygardos rinkimų arba referendumo - komisiją ir nustato jos funkcijas
+organizuojant ir vykdant kitus rinkimus ar referendumą.
 7. Apygardos rinkimų komisijos
 pirmininką skiria Vyriausioji rinkimų komisija. Bendras pirmininkų,
 atstovaujančių partijoms, politinėms organizacijoms, skaičius proporcingas
@@ -538,10 +544,10 @@ pasiūlytos po nustatyto termino, apygardų rinkimų komisija gali sumažinti
 anksčiau nustatytą rinkimų apylinkės komisijos narių skaičių arba kreiptis į
 merą, kad šis pasiūlytų į apylinkių rinkimų komisiją trūkstamas kandidatūras.
 Mero siūlomi asmenys negali būti partijų, politinių organizacijų nariai ar jais
-tapti iki rinkimų komisijos nario įgaliojimų pabaigos. Jeigu ne mažiau kaip 3
-apygardos rinkimų komisijos nariai posėdyje skiriant apylinkės rinkimų
-komisijos narį prieštarauja mero siūlomo asmens paskyrimui apylinkės rinkimų
-komisijos nariu, šis asmuo negali būti skiriamas komisijos nariu.
+tapti iki rinkimų komisijos nario įgaliojimų pabaigos. Jeigu ne mažiau kaip 3 apygardos
+rinkimų komisijos nariai posėdyje skiriant apylinkės rinkimų komisijos narį
+prieštarauja mero siūlomo asmens paskyrimui apylinkės rinkimų komisijos nariu,
+šis asmuo negali būti skiriamas komisijos nariu.
 7. Apylinkių rinkimų komisijų
 pirmininkus skiria apygardų rinkimų komisijos.
 8. Apylinkės rinkimų komisija
@@ -550,11 +556,11 @@ pirmajame posėdyje išsirenka komisijos pirmininko pavaduotoją ir sekretorių.
 Apylinkės rinkimų komisijos įgaliojimai
  
 Apylinkės rinkimų komisija:
-1) iš apygardos rinkimų
-komisijos gauna apylinkės rinkėjų sąrašus, sudaro sąlygas su jais susipažinti
-rinkėjams, atstovams rinkimams, įteikia ar kitaip perduoda rinkėjams rinkėjo
-pažymėjimus, praneša apygardos rinkimų komisijai apie apylinkės rinkėjų sąraše
-aptiktus netikslumus;
+1) iš apygardos rinkimų komisijos
+gauna apylinkės rinkėjų sąrašus, sudaro sąlygas su jais susipažinti rinkėjams,
+atstovams rinkimams, įteikia ar kitaip perduoda rinkėjams rinkėjo pažymėjimus,
+praneša apygardos rinkimų komisijai apie apylinkės rinkėjų sąraše aptiktus
+netikslumus;
 2) nagrinėja skundus dėl
 apylinkės rinkėjų sąraše padarytų klaidų;
 3) Vyriausiosios rinkimų
@@ -609,21 +615,25 @@ Rinkimų komisijų darbo organizavimas
  
 1. Rinkimų komisijos posėdžiai
 yra teisėti, kai juose dalyvauja ne mažiau kaip 3/5 komisijos narių. Komisijos
-sprendimai priimami atviru balsavimu posėdyje dalyvaujančių komisijos narių balsų
-dauguma. Balsams pasidalijus po lygiai, lemia komisijos pirmininko balsas.
-Komisijos nariai, nesutinkantys su sprendimu, turi teisę raštu pareikšti
-atskirąją nuomonę, kuri pridedama prie protokolo ir yra neatsiejama jo dalis.
-2. Pasibaigus rinkimams, apygardų
-ir apylinkių rinkimų komisijų narių, pirmininkų įgaliojimai nutraukiami.
-Sprendimą nutraukti įgaliojimus priima rinkimų komisija, paskyrusi komisijos
-narius, kai ši komisija, jos pirmininkas yra atlikę visus pagal įstatymą jiems
-pavestus darbus.
+sprendimai priimami atviru balsavimu posėdyje dalyvaujančių komisijos narių
+balsų dauguma. Balsams pasidalijus po lygiai, lemia komisijos pirmininko
+balsas. Komisijos nariai, nesutinkantys su sprendimu, turi teisę raštu
+pareikšti atskirąją nuomonę, kuri pridedama prie protokolo ir yra neatsiejama
+jo dalis.
+2. Pasibaigus rinkimams,
+apygardų ir apylinkių rinkimų komisijų narių, pirmininkų įgaliojimai
+nutraukiami. Sprendimą nutraukti įgaliojimus priima rinkimų komisija, paskyrusi
+komisijos narius, kai ši komisija, jos pirmininkas yra atlikę visus pagal
+įstatymą jiems pavestus darbus.
 3. Rinkimų komisijos nariui ar
 pirmininkui, davusiam rašytinį pasižadėjimą, draudžiama bet kokios formos
 rinkimų agitacija ar kiti bandymai paveikti rinkėjų valią. Asmuo, pažeidęs šį
 reikalavimą, rinkimų komisijos nario rašytinį pasižadėjimą, turi būti atleistas
 iš komisijos ir gali būti patrauktas baudžiamojon atsakomybėn įstatymų
 nustatyta tvarka.
+ 
+[19 straipsnio redakcija iki
+1999 m. gegužės 1 d.]
 19
 straipsnis. Skundai dėl rinkimų komisijų sprendimų, priimtų iki balsavimo
 pabaigos
@@ -646,6 +656,41 @@ tvarkos, nenagrinėjami ir persiunčiami tai rinkimų komisijai, kuri privalo ju
 nagrinėti. Apylinkės rinkimų komisija, apygardos rinkimų komisija negali
 persiųsti Vyriausiajai rinkimų komisijai nagrinėti joms pačioms žinybingų ir
 neišnagrinėtų skundų.
+ 
+[19 straipsnio redakcija nuo
+1999 m. gegužės 1 d.]
+19
+straipsnis. Skundai dėl rinkimų komisijų sprendimų, priimtų iki balsavimo
+pabaigos
+ 
+1. Partija, politinė
+organizacija, iškėlusi kandidatą į tarybos narius, kandidatas į tarybos narius,
+atstovas rinkimams, rinkimų stebėtojas rinkimų komisijos sprendimą, priimtą iki
+balsavimo pabaigos, ar kitą jos veiką gali apskųsti:
+1) apylinkės rinkimų komisijos
+- apygardos rinkimų komisijai;
+2) apygardos rinkimų komisijos
+- Vyriausiajai rinkimų komisijai;
+3) Vyriausiosios rinkimų komisijos –
+Aukštesniajam administraciniam teismui.
+2. Rinkėjas, politinės partijos, politinės ar
+visuomeninės organizacijos atstovas, nesutikdamas su apylinkės rinkimų
+komisijos sprendimu, priimtu pagal skundą dėl rinkėjų sąraše padarytų klaidų,
+dėl kurių rinkėjas negali įgyvendinti savo teisės rinkti (neteisingai įrašytas
+į sąrašą arba išbrauktas iš sąrašo, taip pat kai sąraše netiksliai nurodyti
+duomenys apie rinkėją), gali apylinkės rinkimų komisijos sprendimą apskųsti
+atitinkamos apygardos administraciniam teismui.
+3. Skundas turi būti išnagrinėtas ne vėliau
+kaip per 48 valandas nuo jo padavimo. Į šį terminą įskaitomos ir ne darbo
+dienos. Teismo sprendimas įsiteisėja nuo paskelbimo. Skundai, paduoti
+nesilaikant šiame straipsnyje nustatytos tvarkos, nenagrinėjami ir persiunčiami
+tai rinkimų komisijai, kuri privalo juos nagrinėti. Apylinkės rinkimų komisija,
+apygardos rinkimų komisija negali persiųsti Vyriausiajai rinkimų komisijai
+nagrinėti joms pačioms žinybingų ir neišnagrinėtų skundų.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-1047,
+99.02.09, Žin., 1999, Nr.19-511 (99.02.24)
 20 straipsnis.
 Parama rinkimų komisijoms
  
@@ -667,8 +712,8 @@ Rinkimų komisijų narių darbo apmokėjimas
 Rinkimų komisijų pirmininkai ir
 nariai už darbą rinkimų komisijose gauna atlyginimą pagal Vyriausiosios rinkimų
 komisijos pateiktus ir Vyriausybės patvirtintus tarifus.
-22 straipsnis. Rinkimų
-komisijų sudėties keitimas
+22 straipsnis.
+Rinkimų komisijų sudėties keitimas
  
 1. Rinkimų komisijos pirmininką
 ar narį iš pareigų komisijoje gali atleisti rinkimų komisija, patvirtinusi šios
@@ -676,9 +721,9 @@ komisijos sudėtį, arba Vyriausioji rinkimų komisija.
 2. Rinkimų komisija gali
 svarstyti tik motyvuotą partijos ar politinės organizacijos siūlymą atšaukti
 jos pačios pasiūlytą rinkimų komisijos narį.
-3. Prireikus naujas rinkimų
-komisijos pirmininkas ar narys gali būti skiriamas šio įstatymo nustatyta
-tvarka ir praėjus 13 straipsnio 1 dalyje ir 15 straipsnio 5 dalyje nustatytiems
+3. Prireikus naujas rinkimų komisijos
+pirmininkas ar narys gali būti skiriamas šio įstatymo nustatyta tvarka ir
+praėjus 13 straipsnio 1 dalyje ir 15 straipsnio 5 dalyje nustatytiems
 terminams.
  
 KETVIRTASIS
@@ -761,12 +806,12 @@ Rinkimų apylinkės rinkėjų sąrašas
 Rinkimų apylinkės rinkėjų
 sąrašą pagal apygardos rinkėjų sąrašą ir jame nurodytą rinkėjo gyvenamąją vietą
 sudaro apygardos rinkimų komisija ir ne vėliau kaip likus 55 dienoms iki
-rinkimų perduoda apylinkės rinkimų komisijai. Taip pat sudaromas piliečių, kurių
-gyvenamoji vieta tiksliai nežinoma, sąrašas. Rinkėjai - laivų įgulų nariai ir
-keleiviai, kurie balsavimo paštu laikotarpiu ir rinkimų dieną negali sugrįžti į
-Lietuvą, - Vyriausiosios rinkimų komisijos nustatyta tvarka įrašomi į rinkimų
-apylinkės, kurios teritorijoje yra laivo registravimo uostas ar laivo savininko
-administracija, rinkėjų sąrašą.
+rinkimų perduoda apylinkės rinkimų komisijai. Taip pat sudaromas piliečių,
+kurių gyvenamoji vieta tiksliai nežinoma, sąrašas. Rinkėjai - laivų įgulų
+nariai ir keleiviai, kurie balsavimo paštu laikotarpiu ir rinkimų dieną negali
+sugrįžti į Lietuvą, - Vyriausiosios rinkimų komisijos nustatyta tvarka įrašomi
+į rinkimų apylinkės, kurios teritorijoje yra laivo registravimo uostas ar laivo
+savininko administracija, rinkėjų sąrašą.
 27
 straipsnis. Rinkėjų sąrašų paskelbimas ir susipažinimas su rinkėjų sąrašais
  
@@ -793,7 +838,8 @@ mėnuo, diena);
 4) rinkimų apygardos, kurioje
 balsuoja rinkėjas, pavadinimas ir numeris;
 5) rinkimų apylinkės, į kurios
-rinkėjų sąrašą įtrauktas rinkėjas, pavadinimas, numeris ir balsavimo patalpos adresas;
+rinkėjų sąrašą įtrauktas rinkėjas, pavadinimas, numeris ir balsavimo patalpos
+adresas;
 6) rinkėjo eilės numeris
 rinkimų apylinkės rinkėjų sąraše;
 7) rinkimų data, balsavimo
@@ -883,8 +929,8 @@ vidaus tarnybos karininkai, puskarininkiai ir liktiniai įrašomi į rinkimų
 apylinkės, kurios teritorijoje jie nuolat gyvena, rinkėjų sąrašus.
 3. Laivuose esantys rinkėjai,
 kurie balsavimo paštu laikotarpiu ir rinkimų dieną negali sugrįžti į Lietuvą,
-įrašomi į rinkimų apylinkės, kurios rinkėjų sąraše yra įrašyta laivo įgula, papildomą
-rinkėjų sąrašą.
+įrašomi į rinkimų apylinkės, kurios rinkėjų sąraše yra įrašyta laivo įgula,
+papildomą rinkėjų sąrašą.
 4. Rinkėjai, esantys bausmės
 atlikimo vietose, įrašomi į rinkimų apylinkės, kurios teritorijoje jie nuolat
 gyveno, iki pateko į bausmės atlikimo vietą, rinkėjų sąrašą. Jeigu asmuo,
@@ -906,9 +952,9 @@ numerį ir pase įrašytą adresą tuoj pat praneša apygardos rinkimų komisija
 Apygardos rinkimų komisija patikrina, ar rinkėjas įrašytas į rinkimų apygardos
 rinkėjų sąrašą, ir imasi priemonių garantuoti, kad rinkėjas negalėtų 2 kartus
 balsuoti arba jo užpildyti biuleteniai būtų skaičiuojami tik vieną kartą. Jeigu
-rinkėjas yra balsavęs 2 kartus, skaičiuojamas tik tas balsas, kuris pateko į
-rinkimų apylinkės balsadėžę. Kitas šio rinkėjo balsas, gautas paštu arba
-balsavus pagal papildomą apylinkės rinkėjų sąrašą, neskaičiuojamas.
+rinkėjas yra balsavęs 2 kartus, skaičiuojamas tik tas balsas, kuris pateko į rinkimų
+apylinkės balsadėžę. Kitas šio rinkėjo balsas, gautas paštu arba balsavus pagal
+papildomą apylinkės rinkėjų sąrašą, neskaičiuojamas.
 34 straipsnis.
 Skundai dėl rinkėjų sąrašų
  
@@ -919,15 +965,27 @@ rinkėjų sąrašus, gali pateikti apylinkės rinkimų komisijai likus ne mažia
 7 dienoms iki rinkimų. Apylinkės rinkimų komisija skundą privalo išnagrinėti ir
 sprendimą priimti tuoj pat arba ne vėliau kaip per 2 dienas nuo jo gavimo,
 jeigu iki rinkimų dienos liko daugiau kaip 10 dienų.
+[34 straipsnio 2 dalies iki
+1999 m. gegužės 1 d.]
 2. Apylinkės rinkimų komisijos
 sprendimas per 3 dienas gali būti apskųstas apylinkės teismui, kuris skundą
 išnagrinėja per 2 dienas. Teismo sprendimas yra galutinis.
+34 straipsnio 2 dalies nuo 1999 m. gegužės 1
+d.]
+2. Apylinkės rinkimų komisijos sprendimas per
+3 dienas gali būti apskųstas atitinkamos apygardos administraciniam teismui,
+kuris skundą išnagrinėja per 2 dienas. Teismo sprendimas yra galutinis.
 3. Praleidus nustatytus
 terminus pastaboms ir skundams pateikti, pastabos ir skundai nenagrinėjami.
 4. Apie gautus skundus ir pagal
 teismo sprendimus rinkėjų sąrašuose padarytus pataisymus apylinkių rinkimų
 komisijos praneša apygardos rinkimų komisijai, o ši - Vyriausiajai rinkimų
 komisijai per kiek įmanoma trumpesnį laiką, bet ne vėliau kaip per 12 valandų.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-1047,
+99.02.09, Žin., 1999, Nr.19-511 (99.02.24)
+ 
  
 PENKTASIS
 SKIRSNIS
@@ -1228,8 +1286,8 @@ organizacijų ir kandidatų sąrašų lygiateisiškumo principai. Kiekvienai
 kandidatų sąrašus keliančiai organizacijai skiriama ne mažiau kaip po 20
 minučių radijo ir televizijos laiko ir pridedama laiko proporcingai iškeltų
 kandidatų sąrašų skaičiui.
-2. Konkrečią savivaldybių radijo
-ir televizijos laidų trukmę ir laiką, skirtą rinkimų agitacijai, nustato
+2. Konkrečią savivaldybių
+radijo ir televizijos laidų trukmę ir laiką, skirtą rinkimų agitacijai, nustato
 apygardos rinkimų komisija, suderinusi su radijo ir televizijos vadovais, ir
 paskirsto taip, kad nebūtų pažeisti kandidatų sąrašų lygiateisiškumo principai.
 3. Kandidatų sąrašo rinkimų
@@ -1816,9 +1874,9 @@ būtų sudarytos sąlygos į jį atvykti rinkėjams.
 pacientai ir globotiniai balsuoja patys balsavimo patalpoje šio įstatymo 64
 straipsnyje nustatyta tvarka.
 3. Pas negalinčius atvykti į
-balsavimo patalpą dėl sveikatos būklės gydymo, socialinės rūpybos bei globos įstaigų
-pacientus ir globotinius atvyksta ne mažiau kaip 2 komisijos nariai, stebėtojai
-(jeigu jie dalyvauja) ir specialaus pašto skyriaus pareigūnai.
+balsavimo patalpą dėl sveikatos būklės gydymo, socialinės rūpybos bei globos
+įstaigų pacientus ir globotinius atvyksta ne mažiau kaip 2 komisijos nariai,
+stebėtojai (jeigu jie dalyvauja) ir specialaus pašto skyriaus pareigūnai.
 4. Balsuojantis asmuo turi pats
 jam sudarytomis slaptumo sąlygomis užpildyti rinkimų biuletenį ir įdėti jį į
 balsavimo paštu voką. Prireikus jis gali pasinaudoti kito asmens (išskyrus tos
@@ -1940,7 +1998,6 @@ skaičiuojami sąžiningai ir teisingai.
 4. Konkrečią balsų skaičiavimo
 tvarką nustato Vyriausioji rinkimų komisija ne vėliau kaip likus 20 dienų iki
 rinkimų.
- 
 75
 straipsnis. Balsavusių paštu rinkėjų apskaita ir balsų skaičiavimas
  
@@ -2030,8 +2087,8 @@ kiek biuletenių buvo rasta daugiau.
 balsų skaičiavimo protokolą įrašyti visi duomenys ir visi biuleteniai sudėti į
 antspauduotus paketus, rinkimų apylinkės balsų skaičiavimo protokolus pasirašo
 apylinkės rinkimų komisijos pirmininkas ir nariai. Po to protokolus pasirašo
-stebėtojai. Jų pastabos, komisijos narių atskirosios nuomonės pridedamos prie protokolo
-ir yra neatskiriama jo dalis.
+stebėtojai. Jų pastabos, komisijos narių atskirosios nuomonės pridedamos prie
+protokolo ir yra neatskiriama jo dalis.
 77 straipsnis.
 Negaliojantys biuleteniai
  
@@ -2169,6 +2226,8 @@ rinkimų komisijos pateiktus rinkimų biuletenius, o nustačiusi protokole
 aritmetinę klaidą, neteisingai suskaičiuotus galiojančius ar negaliojančius
 biuletenius, surašo papildomą apygardos, apylinkės balsų skaičiavimo protokolą
 ir prideda jį prie apygardos balsų skaičiavimo protokolo.
+[83 straipsnio 5 dalies
+redakcija iki 1999 m. gegužės  d.]
 5. Partijos, politinės
 organizacijos, iškėlusios kandidatų sąrašus, Vyriausiosios rinkimų komisijos
 sprendimus arba jos atsisakymą nagrinėti skundus dėl šio įstatymo pažeidimų ne
@@ -2177,6 +2236,20 @@ rezultatai, gali apskųsti Vilniaus apygardos teismui. Vilniaus apygardos
 teismas skundus dėl rinkimų pripažinimo negaliojančiais arba neteisingo rinkimų
 rezultatų nustatymo išnagrinėja per 5 dienas. Vilniaus apygardos teismo
 sprendimas įsiteisėja nuo paskelbimo.
+[83 straipsnio 5 dalies
+redakcija nuo 1999 m. gegužės  d.]
+5. Partijos, politinės organizacijos,
+iškėlusios kandidatų sąrašus, Vyriausiosios rinkimų komisijos sprendimus arba
+jos atsisakymą nagrinėti skundus dėl šio įstatymo pažeidimų ne vėliau kaip per
+5 dienas po to, kai oficialiai paskelbiami galutiniai rinkimų rezultatai, gali
+apskųsti Aukštesniajam administraciniam teismui. Aukštesnysis administracinis
+teismas skundus dėl rinkimų pripažinimo negaliojančiais arba neteisingo rinkimų
+rezultatų nustatymo išnagrinėja per 5 dienas. Aukštesniojo administracinio
+teismo sprendimas įsiteisėja nuo paskelbimo.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-1047,
+99.02.09, Žin., 1999, Nr.19-511 (99.02.24)
 84 straipsnis.
 Rinkimų apygardos balsų skaičiavimo protokolas
  
@@ -2244,8 +2317,8 @@ padalijami kitiems sąrašams, tęsiant toliau jų dalijimą liekanų metodu.
 7. Viename sąraše kandidatai
 gauna mandatus ta eilės tvarka, kuri buvo nurodyta kandidatų sąrašus keliančios
 organizacijos ar koalicijos pareiškiniuose dokumentuose.
-86 straipsnis.
-Galutinių rinkimų rezultatų tvirtinimas ir paskelbimas
+86 straipsnis. Galutinių
+rinkimų rezultatų tvirtinimas ir paskelbimas
  
 1. Galutinius rinkimų
 rezultatus, išnagrinėjusi visus skundus ir nustačiusi visus rinkimų rezultatus
@@ -2265,9 +2338,9 @@ pradeda išduoti ne anksčiau kaip po 7, o baigia ne vėliau kaip po 10 dienų p
 rinkimų rezultatų ar sprendimo paskelbimo.
 3. Vyriausioji rinkimų komisija
 kandidatų sąrašus iškėlusioms organizacijoms, dalyvavusioms paskirstant
-mandatus, grąžina rinkimų užstatus, išskyrus užstatus už sąrašus tose
-apygardose, kuriose jos per rinkimus nedalyvavo paskirstant mandatus. Užstatas
-grąžinamas per 15 dienų po galutinių rinkimų rezultatų paskelbimo.
+mandatus, grąžina rinkimų užstatus, išskyrus užstatus už sąrašus tose apygardose,
+kuriose jos per rinkimus nedalyvavo paskirstant mandatus. Užstatas grąžinamas
+per 15 dienų po galutinių rinkimų rezultatų paskelbimo.
 4. Vyriausioji rinkimų komisija
 ne vėliau kai per 3 mėnesius po galutinių rinkimų rezultatų paskelbimo
 išleidžia knygą apie rinkimų rezultatus ir per 4 mėnesius perduoda valstybės
@@ -2309,8 +2382,8 @@ nustato naujų rinkimų į savivaldybės tarybą datą.
  
 Straipsnio
 pakeitimai:
-Nr. VIII-231,
-97.05.29, Žin., 1997, Nr.50-1191 (97.06.06)
+Nr. VIII-231, 97.05.29,
+Žin., 1997, Nr.50-1191 (97.06.06)
 89
 straipsnis. Tarybos nario įgaliojimų pripažinimas nutrūkusiais prieš terminą
  
@@ -2329,8 +2402,8 @@ iš eilės 3 tarybos posėdžiuose be pateisinamos priežasties - pagal įsigali
 savivaldybės tarybos nutarimą;
 3) teismui pripažinus tarybos
 narį neveiksniu - pagal įsigaliojusį teismo sprendimą;
-4) įsiteisėjus teismo apkaltinamajam
-nuosprendžiui - pagal įsigaliojusį teismo nuosprendį;
+4) įsiteisėjus teismo
+apkaltinamajam nuosprendžiui - pagal įsigaliojusį teismo nuosprendį;
 5) tarybos nariui netekus
 Lietuvos Respublikos pilietybės - pagal įsigaliojusį teisės aktą dėl pilietybės
 netekimo;
@@ -2383,18 +2456,18 @@ bendradarbiavo su kitų valstybių  specialiosiomis tarnybomis, nuo tos dienos
 nutraukiami jo tarybos nario įgaliojimai.
 3. Kiekvienas kandidatas į
 tarybos narius turi viešai paskelbti, jeigu jis po 1990 m. kovo 11 d. Lietuvos
-Respublikos teismo įsigaliojusiu nuosprendžiu yra pripažintas kaltu dėl
-nusikaltimo. Apie tai jis nurodo kandidato į tarybos narius anketoje. Rinkimų
-komisijos leidžiamame plakate su kandidatų sąrašu prie kandidato pavardės turi
-būti pažymėta: “Teismo nuosprendžiu yra pripažintas kaltu dėl nusikaltimo”.
+Respublikos teismo įsigaliojusiu nuosprendžiu yra pripažintas kaltu dėl nusikaltimo.
+Apie tai jis nurodo kandidato į tarybos narius anketoje. Rinkimų komisijos
+leidžiamame plakate su kandidatų sąrašu prie kandidato pavardės turi būti
+pažymėta: “Teismo nuosprendžiu yra pripažintas kaltu dėl nusikaltimo”.
 4. Jeigu kandidatas to nenurodė
 ir yra po 1990 m. kovo 11 d. įsigaliojęs teismo nuosprendis, kuriuo asmuo
 pripažintas kaltu dėl nusikaltimo, rinkimų komisija jo neregistruoja kandidatu
-į tarybos narius, o jei buvo įregistravusi, Vyriausioji rinkimų komisija nedelsdama
-panaikina jo registravimą kandidatu į tarybos narius. Jei kandidatas to
-nenurodė ir po tarybos rinkimų nustatoma, kad yra Lietuvos Respublikos teismo
-nuosprendis pripažinti šį asmenį kaltu dėl nusikaltimo, Vyriausioji rinkimų
-komisija per 15 dienų nutraukia jo  tarybos nario įgaliojimus.
+į tarybos narius, o jei buvo įregistravusi, Vyriausioji rinkimų komisija
+nedelsdama panaikina jo registravimą kandidatu į tarybos narius. Jei kandidatas
+to nenurodė ir po tarybos rinkimų nustatoma, kad yra Lietuvos Respublikos
+teismo nuosprendis pripažinti šį asmenį kaltu dėl nusikaltimo, Vyriausioji
+rinkimų komisija per 15 dienų nutraukia jo  tarybos nario įgaliojimus.
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 įstatymą.
