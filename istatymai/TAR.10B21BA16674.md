@@ -72,6 +72,17 @@ už nepilnametį jo buvimo Lietuvos Respublikos teritorijoje metu.
 įdarbinimo kvota - įdarbinamų užsieniečių skaičius, kurį, atsižvelgdama į
 Lietuvos darbo rinkos poreikius, kasmet nustato Lietuvos Respublikos
 Vyriausybė.
+11. Užsieniečio
+šeimos nariai – sutuoktinis, vaikai ir įvaikiai iki 18 metų, jeigu jie nesudarę
+santuokos, ir užsieniečio visiškai išlaikomi asmenys.
+12. Europos
+sutartis – Europos sutartis, steigianti asociaciją tarp Europos bendrijų
+bei jų šalių narių iš vienos pusės ir Lietuvos Respublikos iš kitos pusės,
+pasirašyta 1995 m. birželio 12 d. Liuksemburge.
+Straipsnio
+pakeitimai:
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
  
 2 straipsnis.
 Įstatymo reglamentuojami santykiai 
@@ -79,10 +90,12 @@ Vyriausybė.
 nustato užsieniečių atvykimo ir išvykimo, laikino ir nuolatinio gyvenimo,
 darbo, teisinės atsakomybės bei kitus užsieniečių teisinės padėties Lietuvos
 Respublikoje klausimus.
-2. Įstatymas
-netaikomas užsieniečiams, ieškantiems politinio prieglobsčio Lietuvos
-Respublikoje, taip pat užsieniečiams, kuriems Lietuvos Respublikos įstatymai
-arba Lietuvos Respublikos tarptautinės sutartys nustato kitokią teisinę padėtį.
+2. (Neteko
+galios)
+Straipsnio
+pakeitimai:
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
  
 3 straipsnis.
 Užsieniečių teisės ir pareigos Lietuvos Respublikoje 
@@ -91,10 +104,10 @@ Lietuvos Respublikoje turi tas teises ir laisves, kurias numato Lietuvos
 Respublikos Konstitucija, šis ir kiti Lietuvos Respublikos įstatymai bei
 tarptautinės sutartys.
 2. Užsieniečiai
-Lietuvos Respublikoje yra lygūs pagal įstatymus, neatsižvelgiant į jų rasę, lytį,
-odos spalvą, kalbą, religiją, politinius ar kitokius įsitikinimus, nacionalinę
-ir socialinę kilmę, priklausymą tautinei mažumai, nuosavybę, gimimo vietą ar
-kokią nors kitokią padėtį.
+Lietuvos Respublikoje yra lygūs pagal įstatymus, neatsižvelgiant į jų rasę,
+lytį, odos spalvą, kalbą, religiją, politinius ar kitokius įsitikinimus,
+nacionalinę ir socialinę kilmę, priklausymą tautinei mažumai, nuosavybę, gimimo
+vietą ar kokią nors kitokią padėtį.
 3. Užsieniečiai,
 esantys Lietuvos Respublikoje, privalo laikytis Lietuvos Respublikos
 Konstitucijos, Lietuvos Respublikos įstatymų ir kitų teisės aktų.
@@ -122,15 +135,20 @@ atvykstantis į Lietuvos Respubliką, galiojančiame kelionės dokumente privalo
 turėti Lietuvos Respublikos vizą, jeigu Lietuvos Respublikos Vyriausybės
 nutarimu arba tarptautine sutartimi nenumatyta kitaip.
 2. Vizą atvykti
-į Lietuvos Respubliką išduoda Lietuvos Respublikos diplomatinės atstovybės arba
-konsulinės įstaigos. Lietuvos Respublikoje teisę išduoti vizas turi Užsienio
-reikalų ministerija, Vidaus reikalų ministerija ar jos įgaliota institucija. 
+į Lietuvos Respubliką išduoda Lietuvos Respublikos diplomatinės atstovybės,
+konsulinės įstaigos ar Užsienio reikalų ministerijos įgaliotos institucijos.
+Esant tarptautiniam susitarimui, Užsienio reikalų ministerija taip pat gali
+įgalioti išduoti vizas užsienio valstybės diplomatines atstovybes ir
+konsulines įstaigas. Lietuvos Respublikoje teisę išduoti vizas turi Užsienio
+reikalų ministerija, Vidaus reikalų ministerija ar jos įgaliota institucija.
 3. Vizų
 išdavimo ir sveikatos draudimo sąlygas ir tvarką nustato Lietuvos Respublikos
 Vyriausybė.
 Straipsnio pakeitimai:
 Nr. VIII-1352, 1999 10 07, Žin., 1999, Nr.
 89-2618 (1999 10 22)
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
  
  
 6 straipsnis.
@@ -175,7 +193,6 @@ Nr. VIII-1352, 1999 10 07, Žin., 1999, Nr.
 89-2618 (1999 10 22)
 Nr. VIII-2013, 2000 10 10, Žin., 2000, Nr.
 92-2865 (2000 10 31)
- 
  
 8 straipsnis.
 Išvykimas
@@ -224,8 +241,8 @@ ar jos įgaliota institucija.
 išduoti leidimą gyventi Lietuvos Respublikoje užsienietis gali pateikti
 Lietuvos Respublikos diplomatinei atstovybei arba konsulinei įstaigai. 
 3. Užsienietis,
-esantis Lietuvos Respublikoje teisėtai, prašymą išduoti leidimą gyventi arba
-prašymą pakeisti leidimą pateikia Vidaus reikalų ministerijai ar jos įgaliotai
+esantis Lietuvos Respublikoje teisėtai, prašymą išduoti leidimą gyventi arba prašymą
+pakeisti leidimą pateikia Vidaus reikalų ministerijai ar jos įgaliotai
 institucijai.
  
 12
@@ -303,8 +320,8 @@ tvarkos interesų Lietuvos Respublikos įstatymų nustatytais atvejais.
 Duomenų pranešimas
 1. Užsienietis,
 kuriam leista laikinai apsigyventi Lietuvos Respublikoje, ne vėliau kaip per 7
-dienas po atvykimo į Lietuvos Respubliką privalo apie atvykimą pranešti Vidaus reikalų
-ministerijai ar jos įgaliotai institucijai.
+dienas po atvykimo į Lietuvos Respubliką privalo apie atvykimą pranešti Vidaus
+reikalų ministerijai ar jos įgaliotai institucijai.
 2. Užsienietis,
 turintis leidimą laikinai apsigyventi Lietuvos Respublikoje, ne vėliau kaip per
 7 dienas po duomenų pasikeitimo privalo apie tai pranešti Vidaus reikalų
@@ -357,11 +374,14 @@ ministerija.
  
 17 straipsnis.
 Užsieniečių registras
-1. Užsieniečiui,
-kuris turi leidimą gyventi Lietuvos Respublikoje ilgiau nei vienerius metus,
-Lietuvos Respublikos Vyriausybės nustatyta tvarka yra suteikiamas asmens kodas.
+1. (Neteko
+galios)
 2. Užsieniečių
 registrą tvarko Vidaus reikalų ministerija ar jos įgaliota institucija.
+Straipsnio
+pakeitimai:
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
  
 IV SKYRIUS
 LAIKINAS
@@ -371,9 +391,10 @@ RESPUBLIKOJE
  
 18 straipsnis.
 Leidimas laikinai apsigyventi Lietuvos Respublikoje
-1. Užsienietis,
-kuris ketina gyventi Lietuvos Respublikoje ilgiau kaip 90 dienų per metus,
-privalo gauti leidimą laikinai apsigyventi Lietuvos Respublikoje.
+1. Užsienietis, kuris ketina gyventi Lietuvos
+Respublikoje ilgiau kaip 3 mėnesius per pusę metų, skaičiuojant nuo pirmojo
+įvažiavimo dienos, arba pradėti dirbti ar verstis kita teisėta veikla Lietuvos
+Respublikoje, privalo gauti leidimą laikinai apsigyventi Lietuvos Respublikoje.
 2. Leidimas
 laikinai apsigyventi Lietuvos Respublikoje išduodamas vieneriems metams. 
 3. Pasibaigus
@@ -381,6 +402,10 @@ leidimo laikinai apsigyventi Lietuvos Respublikoje galiojimo laikui,
 užsieniečiui jo prašymu naujas leidimas laikinai apsigyventi išduodamas
 laikantis nustatytos leidimų laikinai apsigyventi Lietuvos Respublikoje
 išdavimo tvarkos.
+Straipsnio
+pakeitimai:
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
  
 19
 straipsnis. Užsieniečių teisė gauti leidimą laikinai apsigyventi Lietuvos
@@ -422,15 +447,14 @@ laikotarpį galima pratęsti dar 6 mėnesius.
 3. Leidimas
 laikinai apsigyventi Lietuvos Respublikoje užsieniečiui gali būti išduotas dėl
 humanitarinio pobūdžio priežasčių.
-4. Šio
-straipsnio 1 dalyje ir 2 dalies 1-3 punktuose nurodytų užsieniečių šeimos
-nariai ir jų visiškai išlaikomi asmenys (vaikai iki 18 metų ir asmenys,
-nedarbingi dėl amžiaus arba invalidumo) turi teisę kartu laikinai apsigyventi
-Lietuvos Respublikoje.
+4. Šio straipsnio 1 dalyje, 2 dalies 1–3 ir 5
+punktuose bei 3 dalyje nurodytų užsieniečių šeimos nariai turi teisę laikinai
+apsigyventi Lietuvos Respublikoje.
 Straipsnio pakeitimai:
 Nr. VIII-1518, 2000 01 04, Žin., 2000, Nr.
 5-125 (2000 01 19)
- 
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
  
 20
 straipsnis. Leidimo laikinai apsigyventi Lietuvos Respublikoje išdavimas
@@ -489,15 +513,19 @@ metus;
 gyvenamąją vietą Lietuvos Respublikoje;
 3) turi teisėtą
 pragyvenimo šaltinį Lietuvos Respublikoje.
-2. Šio
-straipsnio 1 dalyje nustatytos sąlygos netaikomos užsieniečiui, išsaugojusiam
-teisę į Lietuvos Respublikos pilietybę, ir kartu su juo atvykstantiems šeimos
-nariams, kai jie persikelia nuolat gyventi į Lietuvos Respubliką.
+2. Šio straipsnio 1 dalyje nustatytos sąlygos
+netaikomos užsieniečiui, išsaugojusiam teisę į Lietuvos Respublikos pilietybę,
+ir jo šeimos nariams bei užsieniečiams, kurie yra Lietuvos Respublikos piliečio
+šeimos nariai, kai jie kartu atvyksta nuolat gyventi į Lietuvos Respubliką.
 3.
 Užsieniečiams, nurodytiems šio įstatymo 19 straipsnio 2 ir 3 dalyse ir
 atitinkantiems šio straipsnio 1 dalyje numatytas sąlygas, leidimai nuolat
 gyventi Lietuvos Respublikoje išduodami atsižvelgiant į Lietuvos Respublikos
 interesus.
+Straipsnio
+pakeitimai:
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
  
 23
 straipsnis. Leidimo nuolat gyventi Lietuvos Respublikoje išdavimo sąlygos šeimų
@@ -524,17 +552,17 @@ Lietuvos Respublikoje padarė tyčinį nusikaltimą, už kurį įstatymas numato
 laisvės atėmimo bausmę, - po bausmės atlikimo arba atleidimo nuo tolesnio
 bausmės atlikimo Lietuvos Respublikoje;
 3) jo gyvenimas
-kelia didelę grėsmę Lietuvos valstybės saugumui, viešajai tvarkai, gyventojų
-sveikatai ir dorovei;
+kelia didelę grėsmę Lietuvos valstybės saugumui, viešajai tvarkai, gyventojų sveikatai
+ir dorovei;
 4) užsienietis
 išvyko nuolat gyventi į kitą valstybę;
 5) nustatyta,
 kad užsienietis sudarė fiktyvią santuoką su Lietuvos Respublikos piliečiu arba
 nuolat gyvenančiu Lietuvos Respublikoje užsieniečiu. 
-2. Šio straipsnio
-1 dalies 2, 3 punktuose numatytais atvejais leidimai nuolat gyventi Lietuvos
-Respublikoje panaikinami teismo sprendimu, o kitais atvejais - Vidaus reikalų
-ministerijos ar jos įgaliotos institucijos sprendimu.
+2. Šio
+straipsnio 1 dalies 2, 3 punktuose numatytais atvejais leidimai nuolat gyventi
+Lietuvos Respublikoje panaikinami teismo sprendimu, o kitais atvejais - Vidaus
+reikalų ministerijos ar jos įgaliotos institucijos sprendimu.
  
 VI SKYRIUS
 UŽSIENIEČIŲ
@@ -556,7 +584,7 @@ atleidžiamas nuo pareigos įsigyti leidimą dirbti, jeigu:
 nuolat gyventi Lietuvos Respublikoje;
 2) turi leidimą
 laikinai apsigyventi Lietuvos Respublikoje, išduotą pagal šio įstatymo 19
-straipsnio 1 dalies 1-4 punktus bei 19 straipsnio 2 dalies 1-3 punktus;
+straipsnio 1 dalį, 19 straipsnio 2 dalies 1–3 punktus bei 19 straipsnio 3 dalį;
 3) nori
 įsidarbinti vykdyti bendras su užsienio valstybėmis vyriausybines programas;
 4) yra užsienio
@@ -581,7 +609,8 @@ dar 6 mėnesius.
 Straipsnio pakeitimai:
 Nr. VIII-1518, 2000 01 04, Žin., 2000, Nr.
 5-125 (2000 01 19)
- 
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
  
 27 straipsnis.
 Leidimo dirbti išdavimas
@@ -602,13 +631,13 @@ vėliau kaip per 3 mėnesius nuo prašymo pateikimo dienos.
 29 straipsnis.
 Leidimo dirbti galiojimas Lietuvos Respublikoje
 1. Leidimas
-dirbti užsieniečiui išduodamas ne ilgiau kaip vieneriems metams, nurodant darbą
+dirbti užsieniečiui išduodamas ne ilgiau kaip dvejiems metams, nurodant darbą
 (pareigas) ir įmonę (įstaigą), kurioje užsienietis dirbs. 
-2. Esant
-gamybiniam būtinumui, leidimą Socialinės apsaugos ir darbo ministerija gali išduoti
-laikui, reikalingam užbaigti pradėtą darbą, bet ne ilgiau kaip dvejiems metams.
-Jei darbo sutartis pratęsiama, tokie užsieniečiai įskaitomi į tų metų
-užsieniečių įdarbinimo kvotą.
+2. (Neteko galios)
+Straipsnio
+pakeitimai:
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
  
 30 straipsnis.
 Užsieniečių įsidarbinimas
@@ -683,8 +712,8 @@ Užsienietis
 išsiunčiamas iš Lietuvos Respublikos, jeigu jis:
 1) per nustatytą
 laiką neįvykdė įpareigojimo išvykti iš Lietuvos Respublikos;
-2) neteisėtai atvyko
-į Lietuvos Respubliką ar neteisėtai gyvena Lietuvos Respublikoje.
+2) neteisėtai
+atvyko į Lietuvos Respubliką ar neteisėtai gyvena Lietuvos Respublikoje.
  
 35
 straipsnis. Sprendimų dėl užsieniečio įpareigojimo išvykti arba jo išsiuntimo
@@ -821,11 +850,15 @@ netesėtai ir jis neįrodo savo buvimo teisėtumo.
 kuris negali patvirtinti arba nepatvirtina asmens tapatybės ar teisėto buvimo
 Lietuvos Respublikoje, policija gali sulaikyti ne ilgiau kaip 48 valandoms. Per
 nurodytą laiką nepavykus nustatyti užsieniečio asmens tapatybės ar teisėto
-buvimo Lietuvos Respublikoje, užsienietis teismo sprendimu siunčiamas į
-Užsieniečių registracijos centrą.
+buvimo Lietuvos Respublikoje, užsienietis teismo sprendimu sulaikomas ir
+apgyvendinamas Užsieniečių registracijos centre.
 3. Užsieniečio
 laikino apgyvendinimo Užsieniečių registracijos centre tvarką ir sąlygas
 nustato Lietuvos Respublikos Vyriausybė. 
+Straipsnio
+pakeitimai:
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
  
 IX SKYRIUS
 TEISĖ APSKŲSTI
@@ -862,6 +895,141 @@ paduodamas teismui pagal valdymo institucijos arba pagal pareigūno, kurių
 veiksmai ar neveikimas skundžiami per 7 dienas, darbo vietą, o teismas per 10
 dienų privalo išnagrinėti užsieniečio skundą.
  
+Įstatymas papildomas IX(1 )skyriumi
+nuo 2002 m. sausio 1 d.:
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
+IX(1 )SKYRIUS
+UŽSIENIEČIŲ,
+ATVYKSTANČIŲ Į LIETUVOS RESPUBLIKĄ
+PAGAL EUROPOS
+SUTARTĮ, TEISINĖ PADĖTIS
+ 
+48(1 )straipsnis.
+Atvykimas į Lietuvos Respubliką
+1. Užsienietis, kuris yra
+vienos iš Europos Sąjungos valstybės narės pilietis, gali atvykti į Lietuvos
+Respubliką ir būti joje ne ilgiau kaip 3 mėnesius per pusę metų, skaičiuojant
+nuo pirmojo įvažiavimo dienos, o toks užsienietis, ieškantis darbo arba
+ketinantis verstis kita teisėta veikla Lietuvos Respublikoje, gali būti šalyje
+dar 3 mėnesius.
+2. Europos
+Sąjungos valstybės narės piliečio šeimos nariai gali atvykti į Lietuvos
+Respubliką kartu su Europos Sąjungos valstybės narės piliečiu arba atvykti pas
+jį ir būti Lietuvos Respublikoje šio straipsnio 1 dalyje nurodytą laiką.
+ 
+48(2 )straipsnis.
+Gyvenimas Lietuvos Respublikoje
+Europos Sąjungos
+valstybės narės pilietis, kuris ketina pradėti dirbti ar verstis kita teisėta
+veikla arba ilgiau, nei nurodyta šio įstatymo 48(1) straipsnio 1
+dalyje, gyventi Lietuvos Respublikoje, privalo gauti leidimą laikinai
+apsigyventi.
+ 
+48(3)
+straipsnis. Prašymo išduoti leidimą laikinai apsigyventi Lietuvos Respublikoje 
+nagrinėjimo
+terminas 
+Europos Sąjungos
+valstybės narės piliečio prašymas išduoti leidimą laikinai apsigyventi Lietuvos
+Respublikoje turi būti išnagrinėtas ne vėliau kaip per 1 mėnesį nuo prašymo
+pateikimo dienos. 
+ 
+48(4)
+straipsnis. Teisė gauti leidimą laikinai apsigyventi Lietuvos Respublikoje
+1. Europos
+Sąjungos valstybės narės pilietis turi teisę gauti leidimą laikinai apsigyventi
+Lietuvos Respublikoje, jeigu jis ketina: 
+1) įsidarbinti
+Lietuvos Respublikoje pagal darbo sutartį;
+2) verstis
+Lietuvos Respublikoje ūkine komercine veikla;
+3) teikti
+paslaugas Lietuvos Respublikoje;
+4) gauti
+paslaugų Lietuvos Respublikoje;
+5) gyventi
+Lietuvos Respublikoje, turėdamas teisėtą pragyvenimo šaltinį;
+6) gauti
+išsimokslinimą įstatymų nustatyta tvarka Lietuvos Respublikoje įregistruotoje
+mokymo įstaigoje.
+2. Europos
+Sąjungos valstybės narės piliečio šeimos nariai turi teisę gauti leidimą
+laikinai apsigyventi Lietuvos Respublikoje, kai atvyksta gyventi į Lietuvos
+Respubliką kartu su Europos Sąjungos valstybės narės piliečiu ar pas jį.
+ 
+48(5 )straipsnis.
+Atleidimas nuo pareigos įsigyti leidimą dirbti
+Europos Sąjungos
+valstybės narės piliečiams ir jų šeimos nariams, kurie ketina dirbti
+Lietuvos Respublikoje pagal darbo sutartį, nereikia įsigyti leidimo dirbti. 
+ 
+48(6)
+straipsnis. Teisė pasilikti gyventi Lietuvos Respublikoje nutraukus darbą ar
+kitą 
+teisėtą
+veiklą
+1. Europos
+Sąjungos valstybės narės piliečiams nutraukus darbą ar kitą teisėtą veiklą
+Lietuvos Respublikoje, leidimas gyventi Lietuvos Respublikoje gali būti
+išduodamas tuo atveju, jeigu jie sulaukė senatvės pensijos amžiaus,
+nustatyto pagal Lietuvos Respublikos įstatymus, ir įgijo teisę į pensiją
+Lietuvos Respublikoje.
+2. Kartu su Europos Sąjungos
+valstybės narės piliečiu turi teisę pasilikti gyventi Lietuvos Respublikoje ir
+jo šeimos nariai. 
+ 
+48(7)
+straipsnis. Leidimo laikinai apsigyventi Lietuvos Respublikoje išdavimas
+1. Leidimas laikinai
+apsigyventi Lietuvos Respublikoje Europos Sąjungos valstybės narės piliečiams
+išduodamas: 
+1) šio įstatymo
+48(4) straipsnio 1 dalies 1 punkte nurodytu pagrindu – darbo
+sutarties galiojimo laikotarpiui, bet ne ilgiau kaip 5 metams;
+2) šio įstatymo
+48(4) straipsnio 1 dalies 2 punkte nurodytu pagrindu – 5 metams;
+3) šio įstatymo
+48(4) straipsnio 1 dalies 3 punkte nurodytu pagrindu – paslaugų
+teikimo laikotarpiui, bet ne ilgiau kaip 5 metams;
+4) šio įstatymo 48(4)
+straipsnio 1 dalies 4 punkte nurodytu pagrindu – gaunamų paslaugų laikotarpiui,
+bet ne ilgiau kaip 5 metams;
+5) šio įstatymo
+48(4) straipsnio 1 dalies 5 punkte nurodytu pagrindu – 5 metams; 
+6) šio įstatymo
+48(4) straipsnio 1 dalies 6 punkte nurodytu pagrindu – vieneriems
+mokslo metams.
+2. Europos
+Sąjungos valstybės narės piliečio šeimos nariams leidimas laikinai apsigyventi
+Lietuvos Respublikoje išduodamas tokiam pat laikotarpiui kaip ir Europos
+Sąjungos valstybės narės piliečiui.
+ 
+48(8
+)straipsnis. Leidimo laikinai apsigyventi Lietuvos Respublikoje
+panaikinimo 
+pagrindai
+1. Leidimas
+laikinai apsigyventi Lietuvos Respublikoje Europos Sąjungos valstybės narės
+piliečiui panaikinamas, jei yra bent vienas iš pagrindų, nustatytų šio įstatymo
+21 straipsnyje, išskyrus nurodyto straipsnio 1 dalies 3, 4 ir 5 punktus bei 2
+dalį. 
+2. Kartu su Europos Sąjungos
+valstybės narės piliečiu netenka teisės gyventi Lietuvos Respublikoje ir jo
+šeimos nariai.
+ 
+48(9)
+straipsnis.
+Leidimo nuolat gyventi Lietuvos Respublikoje išdavimas Europos 
+Sąjungos valstybės narės piliečiui
+Užsieniečiui,
+kuris yra Europos Sąjungos valstybės narės pilietis, leidimas nuolat gyventi išduodamas,
+jeigu jis teisėtai gyveno Lietuvos Respublikoje pastaruosius 5 metus bei
+atitinka šio įstatymo 22 straipsnio 1 dalies 2, 3 punktuose nustatytus
+reikalavimus. Nebuvimo šalyje laikotarpis, neviršijantis 6 mėnesių iš eilės,
+negali būti pagrindas atsisakyti išduoti leidimą nuolat gyventi Lietuvos
+Respublikoje šio straipsnio nustatytomis sąlygomis.
+ 
 X SKYRIUS
 BAIGIAMOSIOS
 NUOSTATOS
@@ -882,7 +1050,6 @@ teisinės padėties” įgyvendinimo įstatymas.
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
- 
  
  
 RESPUBLIKOS
@@ -906,23 +1073,33 @@ Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. VIII-1518, 2000 01 04, Žin., 2000, Nr.
 5-125 (2000 01 19)
-LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES"
-19 IR 26 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES" 19 IR 26
+STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
 3.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. VIII-2013, 2000 10 10, Žin., 2000, Nr.
 92-2865 (2000 10 31)
-LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ 7
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ 7 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2000 m.
 lapkričio 1 d.
+ 
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-372, 2001-06-12, Žin., 2001, Nr.
+55-1944 (2001-06-27)
+ĮSTATYMO „DĖL
+UŽSIENIEČIŲ TEISINĖS PADĖTIES“ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šio įstatymo 11
+straipsnis įsigalioja nuo 2002 m. sausio 1 d.
  
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė
-Trapinskienė (2000 11 23)
-                  autrap@lrs.lt
+Redagavo: Angonita
+Rupšytė (2001-07-02)
+                  anrups@lrs.lt
 
