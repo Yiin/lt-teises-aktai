@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2DC339105C33"
 
 # Lietuvos Respublikos muitų tarifų įstatymas
 
-Suvestinė redakcija nuo 1996-04-19 iki 1997-05-06
+Suvestinė redakcija nuo 1997-05-07 iki 1997-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 88-0; Žin. 1993, Nr.15-375, i. k. 0931010ISTA000I-138
  
@@ -244,11 +244,18 @@ Jeigu Lietuvos Respublikos tarptautinėse sutartyse numatyta kita apmokestinimo 
 
 18 straipsnis. 
 
-Nesumokėjus muitų mokesčių arba laiku jų nesumokėjus, iš juridinių asmenų ir juridinio asmens teisių neturinčių įmonių, įstaigų ir organizacijų, veikiančių Lietuvos Respublikoje, ne ginčo tvarka, o iš fizinių asmenų – įstatymų nustatyta tvarka muitinė išieško nesumokėto muito dvigubo dydžio baudą per penkerius metus nuo muito įforminimo dienos.
+Nesumokėjus muitų arba laikų jų nesumokėjus, skaičiuojami delspinigiai. Delspinigių dydį už nesumokėtus arba laiku nesumokėtus muitus ir delspinigių mokėjimo bei skaičiavimo tvarką nustato finansų ministras, atsižvelgdamas į vidutinę praėjusio kalendorinio ketvirčio palūkanų normą, mokamą už valstybės ne ilgiau kaip vieneriems metams išleistas obligacijas, padidintą iki 10 punktų.
+
+Delspinigiai pradedami skaičiuoti nuo kitos dienos po to, kai muitas turėjo būti sumokėtas, ir baigiami skaičiuoti muito sumokėjimo dieną įskaitytinai, neatsižvelgiant į priežastis, dėl kurių muitai buvo nesumokėti arba laiku nesumokėti.
+
+Iš muitų mokėtojo, nemokančio delspinigių nustatyta tvarka, delspinigiai išieškomi tokia pat tvarka kaip ir nesumokėti muitai.
+
+Delspinigių sumokėjimas neatleidžia nuo muitų mokėjimo.
 
 Straipsnio pakeitimai:
 Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
 Nr. I-1236, 1996-03-19, Žin., 1996, Nr. 30-732 (1996-04-03), i. k. 0961010ISTA00I-1236
+Nr. VIII-201, 1997-04-29, Žin., 1997, Nr. 39-953 (1997-05-07), i. k. 0971010ISTAVIII-201
  
 
 VII. BAIGIAMOSIOS NUOSTATOS
@@ -289,4 +296,9 @@ Lietuvos Respublikos muitų tarifų įstatymo 11, 15, 16 ir 18 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1257, 1996-03-28, Žin., 1996, Nr. 35-864 (1996-04-19), i. k. 0961010ISTA00I-1257
 Lietuvos Respublikos muitų tarifų įstatymo 13 straipsnio papildymo ir pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-201, 1997-04-29, Žin., 1997, Nr. 39-953 (1997-05-07), i. k. 0971010ISTAVIII-201
+Lietuvos Respublikos muitų tarifų įstatymo 18 straipsnio pakeitimo įstatymas
 
