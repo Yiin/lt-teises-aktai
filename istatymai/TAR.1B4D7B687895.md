@@ -137,9 +137,18 @@ valstybių kredito įstaigų skyrių, veikiančių Lietuvos Respublikoje, veikl�
 Lietuvos Respublikos kredito įstaigų ir užsienio valstybių kredito įstaigų
 skyrių, veikiančių Lietuvos Respublikoje, finansinės apskaitos principus ir
 atskaitomybės tvarką; 
+ 
+1 dalies 8 punkto redakcija iki
+2003 m. liepos 1 d.:
 8) kuria ir
 valdo tarpbankinę lėšų pervedimo sistemą ir nustato reikalavimus tarpbankinės
 lėšų pervedimo sistemos dalyviams;
+1 dalies 8 punkto redakcija nuo
+2003 m. liepos 1 d.:
+8)
+skatina patvarų ir veiksmingą mokėjimo ir vertybinių popierių atsiskaitymo
+sistemų veikimą;
+ 
 9) renka pinigų
 ir bankų, mokėjimo balanso, Lietuvos finansinės ir su ja susijusios statistikos
 duomenis, diegia šios statistikos surinkimo, atskaitomybės, jos skelbimo
@@ -148,6 +157,10 @@ standartus, sudaro Lietuvos Respublikos mokėjimų balansą.
 Lietuvos bankas vykdo veiklą, reikalingą šio straipsnio 1 dalyje numatytoms
 funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei
 palaikyti.
+Straipsnio pakeitimai:
+Nr.
+IX-1598,
+2003-06-05, Žin., 2003, Nr. 61-2755 (2003-06-27)
  
 9
 straipsnis. Lietuvos banko teisės aktai
@@ -202,11 +215,11 @@ kurso reguliavimo sistemą ir oficialaus lito kurso skaičiavimo tvarką;
 4) nustato
 Lietuvos banko užsienio atsargų valdymo, naudojimo ir disponavimo jomis
 principus ir tvarką;
-5) nustato
-Lietuvos banko išleidžiamų skolos vertybinių popierių emisijos ir apyvartos
-tvarką; 
-6) nustato kredito
-įstaigų riziką ribojančius normatyvus, jų dydžius bei skaičiavimo metodiką;
+5) nustato Lietuvos
+banko išleidžiamų skolos vertybinių popierių emisijos ir apyvartos tvarką; 
+6) nustato
+kredito įstaigų riziką ribojančius normatyvus, jų dydžius bei skaičiavimo
+metodiką;
 7) priima nutarimus;
 8) sprendžia klausimus dėl
 Lietuvos banko dalyvavimo tarptautiniuose bankuose ir kitose tarptautinėse
@@ -261,7 +274,7 @@ kurio buvo teikimas, toliau eina pareigas.
 straipsnis. Lietuvos banko valdybos narių atsistatydinimas
 1. Lietuvos
 banko valdybos pirmininkas gali atsistatydinti įteikęs prašymą Respublikos
-Prezidentui, o valdybos pirmininko pavaduotojai ir valdybos nariai –valdybos
+Prezidentui, o valdybos pirmininko pavaduotojai ir valdybos nariai – valdybos
 pirmininkui.
 2. Lietuvos
 banko valdybos pirmininko prašymą dėl atsistatydinimo svarsto Seimas, o
@@ -305,8 +318,8 @@ privačiais interesais, keliančiais viešųjų ir privačių interesų konflikt
 narys apie tai raštu praneša prieš svarstymą ir neturi teisės dalyvauti
 svarstant ir priimant sprendimą. 
  
-16
-straipsnis. Lietuvos banko valdybos narių darbo apribojimas 
+16 straipsnis.
+Lietuvos banko valdybos narių darbo apribojimas 
 1. Lietuvos
 banko valdybos pirmininkas, jo pavaduotojai gali dirbti tik Lietuvos banke,
 išskyrus atvejus, kai valdyba duoda sutikimą dirbti mokslinį ar pedagoginį
@@ -331,8 +344,8 @@ skiria drausmines nuobaudas;
 valdybos pirmininko ir jo pavaduotojų pasiskirstymą pareigomis;
 5) išduoda
 įgaliojimus;
-6) tvirtina
-Lietuvos banko struktūrinių padalinių nuostatus;
+6) tvirtina Lietuvos
+banko struktūrinių padalinių nuostatus;
 7) atlieka kitas
 Lietuvos banko valdybos pavestas funkcijas.
 2. Kai Lietuvos
@@ -361,11 +374,12 @@ tarnautojams taikomi darbo santykius reglamentuojantys įstatymai.
 tarnautojai gali dirbti tik šiame banke. Lietuvos banko valdybos sutikimu
 galima dirbti ir kitur. Ši nuostata netaikoma šio įstatymo 16 straipsnio 1
 dalyje numatytais atvejais.
-4. Lietuvos banko tarnautojams
-gali būti suteikiamos paskolos ir kitos finansinės paslaugos Lietuvos banko
-valdybos nustatyta tvarka ir sąlygomis. Nustatydama paskolų ir kitų finansinių
-paslaugų suteikimo sąlygas, valdyba privalo atsižvelgti į šalies kredito
-įstaigų fiziniams asmenims teikiamų analogiškų paslaugų teikimo sąlygas. 
+4. Lietuvos banko
+tarnautojams gali būti suteikiamos paskolos ir kitos finansinės paslaugos
+Lietuvos banko valdybos nustatyta tvarka ir sąlygomis. Nustatydama paskolų ir
+kitų finansinių paslaugų suteikimo sąlygas, valdyba privalo atsižvelgti į
+šalies kredito įstaigų fiziniams asmenims teikiamų analogiškų paslaugų teikimo
+sąlygas. 
 5. Lietuvos banko
 tarnautojai negali skolintis iš jokios kredito įstaigos, išskyrus naudojimąsi
 kredito įstaigų kortelėmis.
@@ -403,9 +417,9 @@ nepaskirstytas pelnas arba nuostolis.
 2. Įstatinis
 kapitalas yra 100 mln. litų. Jis sudaromas iš Lietuvos valstybės lėšų ir (ar)
 Lietuvos banko pelno.
-3. Atsargos
-kapitalas yra ne mažesnis kaip 10 procentų Lietuvos banko įsipareigojimų
-litais. Jis sudaromas iš Lietuvos banko pelno.
+3. Atsargos kapitalas
+yra ne mažesnis kaip 10 procentų Lietuvos banko įsipareigojimų litais. Jis
+sudaromas iš Lietuvos banko pelno.
 4. Lietuvos
 banke sudaromi rezervai. Jų sudarymo ir naudojimo tvarką nustato Lietuvos banko
 valdyba.
@@ -451,8 +465,8 @@ IX-1352,
 straipsnis. Lietuvos banko ir valstybės biudžeto santykis
 Lietuvos banko
 pelno dalis, likusi po pelno skyrimo įstatiniam ir (arba) atsargos kapitalams,
-įmokama į valstybės biudžetą vieną kartą per metus, ne vėliau kaip iki kitų
-metų gegužės 1 dienos.
+įmokama į valstybės biudžetą vieną kartą per metus, ne vėliau kaip iki kitų metų
+gegužės 1 dienos.
  
 KETVIRTASIS
 SKIRSNIS
@@ -597,8 +611,8 @@ SKIRSNIS
 VALSTYBĖS IŽDO
 AGENTO FUNKCIJOS
  
-37 straipsnis.
-Skolinimo teisės apribojimas
+37
+straipsnis. Skolinimo teisės apribojimas
 Lietuvos bankui
 draudžiama skolinti Vyriausybei ir kitoms valstybės vykdomosios valdžios
 įstaigoms, valstybės ir savivaldybių įmonėms arba pirkti jų vertybinių popierių
@@ -713,12 +727,12 @@ kredito įstaigų licencijavimo ir priežiūros funkcijas, Lietuvos bankas turi
 teisę keistis su kitų valstybių kredito įstaigų priežiūros institucijomis
 informacija apie bet kurios kredito įstaigos veiklą, užtikrindamas tokios
 informacijos konfidencialumą. Gauta iš kitos kredito įstaigų priežiūros
-institucijos informacija, susijusi su nusikalstama veika, gali būti perduota įstatymų
-numatytais atvejais tik teismui, prokurorui, ikiteisminio tyrimo įstaigoms,
-taip pat valstybės kontrolės (priežiūros) institucijoms, jeigu jose dirbantys
-asmenys pagal jų veiklą reglamentuojančius teisės aktus gautą informaciją
-privalo laikyti paslaptyje ir yra užsienio valstybės kredito įstaigų priežiūros
-institucijos sutikimas informaciją atskleisti.
+institucijos informacija, susijusi su nusikalstama veika, gali būti perduota
+įstatymų numatytais atvejais tik teismui, prokurorui, ikiteisminio tyrimo
+įstaigoms, taip pat valstybės kontrolės (priežiūros) institucijoms, jeigu jose
+dirbantys asmenys pagal jų veiklą reglamentuojančius teisės aktus gautą
+informaciją privalo laikyti paslaptyje ir yra užsienio valstybės kredito
+įstaigų priežiūros institucijos sutikimas informaciją atskleisti.
 Straipsnio pakeitimai:
 Nr.
 IX-1465,
@@ -763,8 +777,8 @@ bankas viešai skelbia ir leidžia atskiru leidiniu metinę ataskaitą, kurioje
 pateikia informaciją apie pagrindinius pinigų politikos uždavinius ir jų
 vykdymą, pinigų politikos operacijas, veiklą vykdant kredito įstaigų priežiūrą
 ir kitas įstatymų numatytas funkcijas bei apie šalies makroekonominę padėtį –
-pokyčių šalies ekonomikoje ir finansų rinkose analizę, taip pat apie banko
-finansinę būklę ir veiklos rezultatus.
+pokyčių šalies ekonomikoje ir finansų rinkose analizę, taip pat apie banko finansinę
+būklę ir veiklos rezultatus.
  
 52 straipsnis. Lietuvos
 banko valdybos pirmininko pranešimai apie pagrindinio tikslo 
@@ -779,14 +793,16 @@ SKIRSNIS
 BAIGIAMOSIOS
 NUOSTATOS
  
+53 straipsnio redakcija iki 2003
+m. liepos 1 d.:
 53
 straipsnis. Lėšų ir vertybinių popierių išieškojimas iš skolininkų, nevykdančių
 savo 
 įsipareigojimų
 1. Lietuvos
 bankas turi teisę be kredito įstaigos nurodymo nurašyti lėšas iš kredito
-įstaigos sąskaitų, jeigu ši įstaiga Lietuvos banko teisės aktuose ar sutartyse numatytu
-laiku neįvykdo savo įsipareigojimų Lietuvos bankui.
+įstaigos sąskaitų, jeigu ši įstaiga Lietuvos banko teisės aktuose ar sutartyse
+numatytu laiku neįvykdo savo įsipareigojimų Lietuvos bankui.
 2. Jeigu skolininkas sutartyje
 nustatytu laiku neįvykdo prievolių, kurių įvykdymas buvo užtikrintas
 Vyriausybės ar Lietuvos banko vertybinių popierių įkeitimu, Lietuvos bankas
@@ -795,6 +811,33 @@ Vertybinių popierių komisijos nustatyta tvarka į Lietuvos banko vertybinių
 popierių sąskaitą pervesti įkeistų vertybinių popierių už tokią sumą, kokia
 buvo neįvykdytos prievolės, jei tai numatyta Lietuvos banko ir skolininko
 sutartyje.
+53 straipsnio redakcija nuo 2003
+m. liepos 1 d.:
+53
+straipsnis. Lėšų ir vertybinių popierių išieškojimas iš skolininkų, nevykdančių
+savo 
+įsipareigojimų
+1. Lietuvos bankas
+turi teisę be finansų įstaigos nurodymo nurašyti lėšas iš finansų įstaigos
+sąskaitų, jeigu ši įstaiga Lietuvos banko teisės aktuose ar sutartyse nustatytu
+laiku neįvykdo savo įsipareigojimų Lietuvos bankui. 
+2.
+Jeigu finansų įstaigai iškelta bankroto byla ar priimtas sprendimas, kuris
+susijęs su draudimu disponuoti lėšomis, Lietuvos bankas turi teisę be teismo ar
+kitos įgaliotos institucijos sprendimo panaudoti Lietuvos banke finansų
+įstaigos sąskaitose esančias lėšas įstaigos piniginiams įsipareigojimams
+Lietuvos bankui įvykdyti. 
+3. Jeigu
+skolininkas sutartyje nustatytu laiku neįvykdo prievolių, kurių įvykdymas buvo
+užtikrintas vertybinių popierių ar kito finansinio turto, išskyrus lėšų,
+esančių skolininko banko sąskaitoje, įkeitimu, Lietuvos bankas, raštu įspėjęs
+skolininką, turi teisę perimti įkeistą turtą ir jį realizuoti sutartyje
+numatytu būdu. Tokią teisę Lietuvos bankas gali įgyvendinti net ir tada, kai
+skolininkui iškelta bankroto byla ar draudžiama disponuoti įkeistu turtu.
+Straipsnio pakeitimai:
+Nr.
+IX-1598,
+2003-06-05, Žin., 2003, Nr. 61-2755 (2003-06-27)
  
 54
 straipsnis. Informacijos gavimas
@@ -814,8 +857,8 @@ straipsnis. Atsargos kapitalo sudarymo ypatumai
 Lietuvos bankas sukauptą bendros paskirties rezervą perkelia į atsargos
 kapitalą.
  
-57
-straipsnis. Lietuvos banko atleidimas nuo mokesčių
+57 straipsnis.
+Lietuvos banko atleidimas nuo mokesčių
 1. Šis įstatymas
 yra taip pat mokesčio įstatymas. 
 2. Lietuvos bankas nemoka jokių mokesčių ir
@@ -840,7 +883,6 @@ Skelbiu
 RESPUBLIKOS
 PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
 
- 
 ___________________
  
 Pakeitimai:
@@ -894,16 +936,27 @@ IX-1465,
 2003-04-03, Žin., 2003, Nr. 38-1710 (2003-04-24)
 LIETUVOS
 BANKO ĮSTATYMO 47 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šis Įstatymas įsigalioja kartu su Lietuvos
-Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
-Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
-2003 m. gegužės 1 d.
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos
+baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos
+baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės
+1 d.
+ 
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-1598,
+2003-06-05, Žin., 2003, Nr. 61-2755 (2003-06-27)
+LIETUVOS
+BANKO ĮSTATYMO 8 IR 53 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis Įstatymas
+įsigalioja nuo 2003 m. liepos 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-12)
+Aušrinė Trapinskienė (2003-06-27)
                  
 autrap@lrs.lt
