@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.33A63C3E9D4C"
 
 # Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymas
 
-Suvestinė redakcija nuo 1995-10-25 iki 1995-12-07
+Suvestinė redakcija nuo 1995-12-08 iki 1998-12-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 58-0; Žin. 1993, Nr.11-265, i. k. 0931010ISTA000I-108
  
@@ -24,10 +24,11 @@ LIETUVOS RESPUBLIKOS VALSTYBINĖS LIETUVIŲ KALBOS KOMISIJOS STATUSO
  
 
 
-1 straipsnis. Valstybinė lietuvių kalbos komisija prie Lietuvos Respublikos Seimo sprendžia lietuvių kalbos kodifikacijos, normų vartojimo ir Valstybinės kalbos įstatymo įgyvendinimo klausimus.
+1 straipsnis. Valstybinė lietuvių kalbos komisija prie Lietuvos Respublikos Seimo sprendžia lietuvių kalbos kodifikacijos, normų vartojimo ir Valstybinės kalbos įstatymo įgyvendinimo klausimus, taip pat vykdo valstybinės lietuvių kalbos ugdymo programas, tvarko ir naudoja valstybės biudžeto bei kitas lėšas, skirtas šioms programoms įgyvendinti.
 Valstybinė lietuvių kalbos komisija koordinuoja Kalbos inspekcijos inspektorių, apskričių ir savivaldybių kalbos tvarkytojų darbą, savo nustatyta tvarka atestuoja Kalbos inspekcijos inspektorius ir kalbos tvarkytojus.
 Straipsnio pakeitimai:
 Nr. I-1061, 1995-10-12, Žin., 1995, Nr. 87-1955 (1995-10-25), i. k. 0951010ISTA00I-1061
+Nr. I-1098, 1995-11-28, Žin., 1995, Nr. 100-2227 (1995-12-08), i. k. 0951010ISTA00I-1098
  
 
 
@@ -100,4 +101,9 @@ Dėl Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstat
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1061, 1995-10-12, Žin., 1995, Nr. 87-1955 (1995-10-25), i. k. 0951010ISTA00I-1061
+Dėl Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1098, 1995-11-28, Žin., 1995, Nr. 100-2227 (1995-12-08), i. k. 0951010ISTA00I-1098
 Dėl Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo
