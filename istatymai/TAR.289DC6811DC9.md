@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.289DC6811DC9"
 
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje ratifikavimo
 
+Suvestinė redakcija nuo 2004-07-13
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 91-4105, i. k. 1031010ISTA0IX-1686
+ 
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS 
  
@@ -48,6 +53,13 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 
 3. Vadovaudamasis Konvencijos 40 straipsnio 3 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Konvencijos 40 straipsnio 1 dalyje nurodytą pažymėjimą išduoda Lietuvos Respublikos vaiko gyvenamosios vietos apylinkės teismas.
+
+
+
+
+4. Konvencijos 23, 26 ir 52 straipsniai suteikia Susitariančiosioms Šalims tam tikro lankstumo, kad būtų galima taikyti paprastą ir greitą teismo sprendimų pripažinimo ir vykdymo režimą. Bendrijos taisyklės numato pripažinimo ir vykdymo sistemą, kuri yra ne mažiau palanki negu Konvencijoje nustatytos taisyklės. Atsižvelgiant į tai, Europos Sąjungos valstybės narės teisme priimtas sprendimas su Konvencija susijusiais klausimais pripažįstamas ir vykdomas Lietuvoje taikant atitinkamas Bendrijos teisės vidaus taisykles. 
+Papildyta straipsnio dalimi:
+Nr. IX-2322, 2004-07-08, Žin., 2004, Nr. 108-4033 (2004-07-13), i. k. 1041010ISTA0IX-2322
  
 
 
@@ -77,3 +89,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2322, 2004-07-08, Žin., 2004, Nr. 108-4033 (2004-07-13), i. k. 1041010ISTA0IX-2322
+Lietuvos Respublikos įstatymo dėl Konvencijos dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje ratifikavimo 2 straipsnio papildymo įstatymas
