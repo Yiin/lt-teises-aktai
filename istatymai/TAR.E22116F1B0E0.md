@@ -3513,7 +3513,7 @@ statusas valstybei ar savivaldybei nuosavybės teise priklausančiai akcijai
 (akcijoms), išskyrus atvejus, kai specialiųjų akcijų statuso suteikimas iki šio
 įstatymo įsigaliojimo paskelbtas privatizavimo programoje.
 5.
-Iki 2001 m. gruodžio 31 d. bendrovė gali mažinti įstatinį kapitalą, kad būtų
+Iki 2003 m. gruodžio 31 d. bendrovė gali mažinti įstatinį kapitalą, kad būtų
 Lietuvos Respublikos Vyriausybės nustatyta tvarka ištaisytos įstatinio kapitalo
 sudarymo ar didinimo metu padarytos klaidos (jei akcininkai, kurių akcijų
 skaičius mažinamas, su tuo raštiškai sutinka), taip pat kad gamybinės ir
@@ -3537,6 +3537,8 @@ pakeitimai:
 Nr.
 IX-844,
 2002-04-16, Žin., 2002, Nr. 43-1607 (2002-04-26)
+Nr. IX-998,
+2002-06-27, Žin., 2002, Nr. 72-3013 (2002-07-17)
  
 80
 straipsnis. Pasiūlymai Vyriausybei
@@ -3550,8 +3552,8 @@ liepos 1 d. pateikti Seimui įstatymo projektą, kuriame būtų bendrovėms numa
 atsakomybė už reikalavimų, nustatytų šio įstatymo 79 straipsnio 1 ir 2 dalyse,
 pažeidimus.
 2. Vyriausybė ar jos įgaliota
-institucija iki 2000 m. gruodžio 1 d. nustato akcijų apskaitos uždarosiose
-akcinėse bendrovėse tvarką.
+institucija iki 2000 m. gruodžio 1 d. nustato
+akcijų apskaitos uždarosiose akcinėse bendrovėse tvarką.
 Straipsnio pakeitimai:
 Nr. IX-120, 2000 12 21, Žin., 2000, Nr.
 113-3614 (2000 12 30)
@@ -3566,7 +3568,7 @@ Respublikos Seimo priimtą įstatymą.
 
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
-________
+_______________
  
 Pakeitimai:
  
@@ -3598,11 +3600,19 @@ IX-844,
 AKCINIŲ
 BENDROVIŲ ĮSTATYMO 79 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+4.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-998,
+2002-06-27, Žin., 2002, Nr. 72-3013 (2002-07-17)
+AKCINIŲ BENDROVIŲ ĮSTATYMO 79
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-04-26)
+Aušrinė Trapinskienė (2002-07-17)
                  
 autrap@lrs.lt
