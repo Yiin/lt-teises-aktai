@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 Įstatymas
-paskelbtas: Žin., 1996, Nr.14-352
+paskelbtas: Žin., 1996, Nr. 14-352
 Neoficialus
 įstatymo tekstas
  
@@ -474,9 +474,9 @@ papildomi apsaugos, saugojimo, konservavimo ir restauravimo reikalavimai.
             18 straipsnis. Įrašytų į
 Registrą kilnojamųjų kultūros vertybių saugojimas
             1. Kultūros vertybių
-apsaugos departamentas parengia kiekvienos įrašytos į Registrą kilnojamosios kultūros
-vertybės apsaugos reglamentą, užpildo kilnojamosios kultūros vertybės pasą ir
-įteikia juos savininkui, valdytojui ar naudotojui.
+apsaugos departamentas parengia kiekvienos įrašytos į Registrą kilnojamosios
+kultūros vertybės apsaugos reglamentą, užpildo kilnojamosios kultūros vertybės
+pasą ir įteikia juos savininkui, valdytojui ar naudotojui.
             2. Kilnojamąsias kultūros
 vertybes saugo savininkai, valdytojai ar naudotojai. Jie privalo laikytis
 kilnojamųjų kultūros vertybių apsaugos reglamentų reikalavimų.
@@ -512,8 +512,8 @@ bei kilnojamosios kultūros vertybės savininką ir nustato terminą apsaugos
 reglamento reikalavimams įvykdyti. Jeigu kilnojamosios kultūros vertybės
 valdytojas ar naudotojas iki nurodyto termino neįvykdo apsaugos reglamento
 reikalavimų, Kultūros vertybių apsaugos departamentas turi teisę pareikalauti,
-kad kilnojamosios kultūros vertybės savininkas paimtų kilnojamąją kultūros
-vertybę iš valdytojo ar naudotojo ir užtikrintų jos tinkamą saugojimą.
+kad kilnojamosios kultūros vertybės savininkas paimtų kilnojamąją kultūros vertybę
+iš valdytojo ar naudotojo ir užtikrintų jos tinkamą saugojimą.
  
             19 straipsnis. Kilnojamųjų
 kultūros vertybių priverstinis paėmimas
@@ -715,25 +715,31 @@ kultūros vertybių apsaugos fondas
             1. Prie Kultūros
 ministerijos steigiamas kilnojamųjų kultūros vertybių apsaugos fondas, kurio
 nuostatus tvirtina Vyriausybė.
-            2. Fondo lėšas sudaro:
-            1) baudos už kilnojamųjų
-kultūros vertybių apsaugos, prekybos antikvariniais daiktais, kilnojamųjų
-kultūros vertybių konservavimo ir restauravimo taisyklių pažeidimus;
-            2) žyminis mokestis už leidimų
-išvežti (išsiųsti) kilnojamąsias kultūros vertybes ir antikvarinius daiktus
-išdavimą;
-            3) lėšos, gautos realizavus
-konfiskuotas kilnojamąsias kultūros vertybes ir antikvarinius daiktus;
-            4) valstybės, savivaldybių,
-fizinių ir juridinių asmenų parama, labdara;
-            5) kitos teisėtai įgytos
-lėšos.
+2. Fondo lėšas
+sudaro:
+1)
+baudos už kilnojamųjų kultūros vertybių apsaugos, prekybos antikvariniais
+daiktais, kilnojamųjų kultūros vertybių konservavimo ir restauravimo taisyklių
+pažeidimus;
+2) valstybės
+biudžeto tiksliniai asignavimai;
+3) lėšos, gautos
+realizavus konfiskuotas kilnojamąsias kultūros vertybes ir antikvarinius
+daiktus;
+4) valstybės,
+savivaldybių, fizinių ir juridinių asmenų parama;
+5) kitos
+teisėtai įgytos lėšos.
             3. Fondas:
             1) finansuoja norimų išvežti
 ar parduoti kilnojamųjų kultūros vertybių pirkimą valstybinėms saugykloms;
             2) kompensuoja į Registrą
 įrašytų eksponuojamų ar kitaip prieinamų visuomenei kilnojamųjų kultūros
 vertybių savininkams konservavimo, restauravimo ir tyrimo darbų išlaidas.
+Straipsnio
+pakeitimai:
+Nr. IX-384, 2001-06-19, Žin., 2001, Nr.
+57-2028 (2001-07-04)
  
 VII. ATSAKOMYBĖ
 UŽ ĮSTATYMO PAŽEIDIMĄ
@@ -782,7 +788,15 @@ Nr.87-2655 (00.10.18)
 KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 24
 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-384, 2001-06-19, Žin., 2001, Nr.
+57-2028 (2001-07-04)
+KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 27
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.10.19)
+Redagavo: Angonita Rupšytė (2001-07-04)
+                  anrups@lrs.lt
