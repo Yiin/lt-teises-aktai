@@ -123,14 +123,37 @@ užsienio valstybių tikslinės lėšos.
 Atskaitymai nuo pajamų 
 1. Atskaitymų
 nuo pajamų mokėtojai – juridiniai asmenys, išskyrus pelno nesiekiančius
-juridinius asmenis, šio Įstatymo 1 priedėlyje nurodytų dydžių
-atskaitymus į Programos finansavimo sąskaitą moka nuo pajamų (tie, kurie
-verčiasi statybų veikla, – nuo pajamų, gautų už jų pačių atliktus statybos ir
-montavimo darbus). Į pajamas, nuo kurių mokami atskaitymai į Programos
-finansavimo sąskaitą pagal Pelno mokesčio įstatymo nuostatas, kai pajamoms
-priskiriama grąžinta beviltiškomis pripažintų skolų suma, neįskaitoma. Ši nuostata
-netaikoma juridiniams asmenims, kurie pagal Pelno mokesčio įstatymą, taikydami
-pinigų apskaitos principą, pajamas pripažįsta faktišku jų gavimo momentu.
+juridinius asmenis, šio Įstatymo 1 priedėlyje nurodytų dydžių atskaitymus
+į Programos finansavimo sąskaitą moka nuo pajamų už parduotas prekes ir
+suteiktas paslaugas, taip pat už parduotą ilgalaikį materialųjį ir
+nematerialųjį turtą, vertybinius popierius, išvestines finansines priemones ir
+nuo palūkanų pajamų. Šios pajamos pripažįstamos vadovaujantis tais pačiais
+pajamų pripažinimo apskaitoje principais kaip ir apskaičiuojant pelno mokestį
+pagal Pelno mokesčio įstatymo nuostatas. Apskaičiuojant atskaitymus nuo pajamų
+į Programos finansavimo sąskaitą, atsižvelgiama į šias ypatybes:
+1) gaunant statybų
+veiklos pajamas, atskaitymai į Programos finansavimo sąskaitą mokami nuo
+pajamų, gautų už pačių juridinių asmenų atliktus statybos ir montavimo darbus;
+2) gaunant
+tarpininkavimo veiklos pajamas, atskaitymai į Programos finansavimo sąskaitą
+mokami nuo pagal sutartį apskaičiuoto ir (arba) apskaitos dokumente nustatyto
+atlyginimo;
+3) gaunant pajamas
+iš komisinės prekybos, atskaitymai į Programos finansavimo sąskaitą mokami nuo
+pagal sutartį apskaičiuoto ir (arba) dokumente nustatyto komisinio atlyginimo
+dydžio;
+4) parduodant
+ilgalaikį materialųjį ir nematerialųjį turtą, vertybinius popierius, išvestines
+finansines priemones, atskaitymai į Programos finansavimo sąskaitą mokami nuo
+šio turto vertės padidėjimo pajamų, apskaičiuotų Pelno mokesčio įstatymo
+nustatyta tvarka; 
+5) gaunant
+lizingo (finansinės nuomos) veiklos pajamas, atskaitymai į Programos
+finansavimo sąskaitą mokami nuo palūkanų pajamų;
+6) gaunant
+azartinių lošimų, organizuotų pagal Azartinių lošimų įstatymą, veiklos pajamas,
+atskaitymai į Programos finansavimo sąskaitą mokami nuo įplaukų, gautų iš
+azartinių lošimų.
 2. Šio Įstatymo
 1 priedėlio 1 dalies 2 ir 3 punktuose nurodytų dydžių atskaitymus į Programos
 finansavimo sąskaitą moka juridiniai asmenys, kurių pajamos iš šiuose punktuose
@@ -160,7 +183,8 @@ atskaitymų mokėjimo į Programos finansavimo sąskaitą atleidžiami:
 sąjungos (architektų, mokslininkų, dailininkų, dizainerių, fotomenininkų,
 kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro,
 žurnalistų), jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų
-pelno sunaudoja kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų įstatuose;
+pelno sunaudoja kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų
+įstatuose;
 3) įmonės,
 kuriose dirba ne mažiau kaip 50 procentų riboto darbingumo darbuotojų ir kurių
 pajamos gaunamos tik už jų pačių pagamintą produkciją;
@@ -181,6 +205,9 @@ ugdymo įstaigos.
 nuo pajamų apskaičiavimo, mokėjimo ir kontrolės tvarką bei dydžius, neviršydama
 šio Įstatymo 1 priedėlyje nurodytų maksimalių dydžių, nustato Lietuvos
 Respublikos Vyriausybė.
+Straipsnio pakeitimai:
+Nr. IX-840,
+2002-04-09, Žin., 2002, Nr. 43-1605 (2002-04-26)
  
 5 straipsnis. Dalis akcizo
 pajamų, gautų už realizuotą benziną, dyzelinius degalus, bei 
@@ -230,10 +257,10 @@ straipsnis. Lietuvos Respublikoje įregistruotų transporto priemonių savinink�
 ar 
 valdytojų
 naudotojo mokestis 
-1. Lietuvos
-Respublikoje įregistruotų transporto priemonių savininkai ar valdytojai,
-sumokėję naudotojo mokestį, įgyja teisę naudotis Lietuvos Respublikos keliais
-ir jų infrastruktūra. 
+1. Lietuvos Respublikoje
+įregistruotų transporto priemonių savininkai ar valdytojai, sumokėję naudotojo
+mokestį, įgyja teisę naudotis Lietuvos Respublikos keliais ir jų
+infrastruktūra. 
 2.
 Naudotojo mokestį į Programos finansavimo sąskaitą transporto priemonių
 savininkai ar valdytojai sumoka iki transporto priemonės valstybinės techninės
@@ -250,8 +277,8 @@ ir transportavimo grupėms. Pristatant šias transporto priemones valstybinei
 techninei apžiūrai, turi būti pateikiamas dokumentas, patvirtinantis
 pristatomos transporto priemonės priskyrimą tai ar kitai transportavimo grupei;
 2) už specialiai
-neįgaliesiems pritaikytas transporto priemones, priklausančias savivaldybių
-institucijoms ir nevyriausybinėms neįgaliųjų organizacijoms;
+neįgaliesiems pritaikytas transporto priemones, priklausančias savivaldybių institucijoms
+ir nevyriausybinėms neįgaliųjų organizacijoms;
 3) už valstybės ir savivaldybių
 sveikatos priežiūros įstaigų greitosios pagalbos ir reanimacijos automobilius.
  
@@ -278,8 +305,8 @@ tarifų, mokėjimo ir kontrolės tvarką nustato Lietuvos Respublikos Vyriausyb�
  
 9 straipsnis. Mokestis už važiavimą keliais Lietuvos
 Respublikoje ir užsienio šalyse 
-įregistruotomis transporto priemonėmis (jų
-junginiais), kurių matmenys 
+įregistruotomis transporto priemonėmis (jų junginiais),
+kurių matmenys 
 su kroviniu ar be jo viršija leidžiamus, arba kai
 viršijama leidžiama ašies 
 (ašių) apkrova ir (ar) transporto priemonės (jų
@@ -347,25 +374,26 @@ Respublikos Vyriausybė nustato Programos finansavimo lėšų naudojimo
 tvarką ir paskiria institucijas šiam Įstatymui įgyvendinti. Šio Įstatymo
 įgyvendinimą kontroliuoja nuolatinė Kelių priežiūros ir plėtros programos
 komisija. Jos sudėtį ir nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
-3. Programos finansavimo
-lėšos naudojamos pagal Lietuvos Respublikos Vyriausybės patvirtintą metinę lėšų
-naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5 procentų
-Programos finansavimo lėšų rezervas kitoms valstybės reikmėms, susijusioms su
-keliais, finansuoti.
+3. Programos
+finansavimo lėšos naudojamos pagal Lietuvos Respublikos Vyriausybės patvirtintą
+metinę lėšų naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5
+procentų Programos finansavimo lėšų rezervas kitoms valstybės reikmėms,
+susijusioms su keliais, finansuoti.
 4. Metinėse
 sąmatose turi būti numatoma 20 procentų Programos finansavimo lėšų panaudoti
 vietinės reikšmės keliams bei gatvėms tiesti, taisyti,
 prižiūrėti. 
 5. Programos
-finansavimo lėšos taip pat naudojamos keleivių ir transporto priemonių neatlygintino
-perkėlimo keltais per Kuršių marias išlaidoms kompensuoti Lietuvos Respublikos
-Vyriausybės nustatyta tvarka. 
+finansavimo lėšos taip pat naudojamos keleivių ir transporto priemonių
+neatlygintino perkėlimo keltais per Kuršių marias išlaidoms kompensuoti
+Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
  
 12 straipsnis. Programos
 finansavimo garantijos
 1. Programos
-finansavimo pajamos ir išlaidos, vadovaujantis Biudžeto sandaros įstatymo nustatytais
-specialiųjų programų finansavimo principais, planuojamos valstybės biudžete.
+finansavimo pajamos ir išlaidos, vadovaujantis Biudžeto sandaros įstatymo
+nustatytais specialiųjų programų finansavimo principais, planuojamos valstybės
+biudžete.
 2. Programos
 finansavimo lėšos negali būti naudojamos kitoms valstybės reikmėms,
 nenumatytoms šio Įstatymo 11 straipsnyje, finansuoti.
@@ -384,34 +412,33 @@ Respublikos
 m. gruodžio 21 d.
                                                                                                 įstatymo
 Nr. IX-682
-                                                                                                1
-priedėlis 
+1
+priedėlis
  
 ATSKAITYMŲ NUO PAJAMŲ Į PROGRAMOS FINANSAVIMO SĄSKAITĄ
 MAKSIMALŪS DYDŽIAI
  
-1. Maksimalaus
-dydžio atskaitymus nuo pajamų į Programos finansavimo sąskaitą moka:
+Maksimalaus dydžio
+atskaitymus nuo pajamų į Programos finansavimo sąskaitą moka:
 1) juridiniai
-asmenys, išskyrus kredito įstaigas bei tuos, kurie verčiasi prekybos veikla,
-suskystintų dujų, skirtų automobiliams, realizavimu, taip pat
-išskyrus juridinius asmenis, kurie verčiasi veikla ir negauna pajamų iš
-veiklos, – iki 0,5 procento  pajamų;
-2) juridiniai
-asmenys, kurie verčiasi prekybos veikla, – iki 0,3 procento pajamų;
+asmenys, išskyrus kredito įstaigas ir tuos, kurie verčiasi prekybos veikla,
+suskystintų dujų, skirtų automobiliams, realizavimu, – iki 0,5 procento pajamų;
+2) juridiniai asmenys,
+kurie verčiasi prekybos veikla, – iki 0,3 procento pajamų; 
 3) juridiniai
 asmenys, kurie verčiasi suskystintų dujų, skirtų automobiliams, realizavimu, –
-iki 0,1 procento  pajamų;
-4) kredito įstaigos,
-išskyrus Lietuvos banką, – iki 1 procento pajamų, gautų iš maržos ir už kitas
-paslaugas.
-2. Atskaitymai
-atliekami nuo pajamų, apskaičiuotų Pelno mokesčio įstatymo nustatyta tvarka. 
+iki 0,1 procento pajamų;
+4) kredito
+įstaigos, išskyrus Lietuvos banką, – iki 1 procento pajamų, gautų iš maržos ir
+už kitas paslaugas.
+Priedėlio pakeitimai:
+Nr. IX-840,
+2002-04-09, Žin., 2002, Nr. 43-1605 (2002-04-26)
  
  
 
 
-Lietuvos Respublikos                                                                                                  2001
+Lietuvos Respublikos                                                                                                  2001
 m. gruodžio 21 d.
                                                                                                 įstatymo
 Nr. IX–682
@@ -454,8 +481,8 @@ Krovininės kelių transporto priemonės kategorijos
   (įskaitytinai)
 
 
-nuo 12 t
-  (įskaitytinai) iki 15 t bendrosios masės*
+nuo 12 t (įskaitytinai)
+  iki 15 t bendrosios masės*
 
 
  
@@ -591,8 +618,8 @@ nuo 33 t
 
 
 
-nuo 33 t (įskaitytinai)
-  iki 40 t bendrosios masės**
+nuo 33 t
+  (įskaitytinai) iki 40 t bendrosios masės**
 
 
 2540–5080
@@ -653,14 +680,15 @@ Respublikos
 m. gruodžio 21 d.
                                                                                                 įstatymo
 Nr. IX-682
-                                                                                                3
+                                                                                                3
 priedėlis
  
  
 LIETUVOS
 RESPUBLIKOJE ĮREGISTRUOTŲ TRANSPORTO PRIEMONIŲ SAVININKŲ AR VALDYTOJŲ NAUDOTOJO
 MOKESČIO
-RIBINIAI TARIFAI
+RIBINIAI
+TARIFAI
  
 1. Lietuvos Respublikoje
 įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio
@@ -903,7 +931,8 @@ yra:
 5) automobiliai-techninės
 pagalbos dirbtuvės;
 6) automobiliai-parduotuvės;
-7) automobiliai-televizijos stotys;
+7) automobiliai-televizijos
+stotys;
 8) automobiliai-radijo stotys;
 9) kinofikacijos, parodų,
 bibliotekų automobiliai;
@@ -1172,9 +1201,9 @@ priedėlis
  
  
 I. MOKESČIO
-UŽ VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE IR UŽSIENIO ŠALYSE ĮREGISTRUOTOMIS TRANSPORTO
-PRIEMONĖMIS (JŲ JUNGINIAIS), KURIŲ MATMENYS SU KROVINIU AR BE JO VIRŠIJA
-LEIDŽIAMUS, RIBINIAI TARIFAI
+UŽ VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE IR UŽSIENIO ŠALYSE ĮREGISTRUOTOMIS
+TRANSPORTO PRIEMONĖMIS (JŲ JUNGINIAIS), KURIŲ MATMENYS SU KROVINIU AR BE JO
+VIRŠIJA LEIDŽIAMUS, RIBINIAI TARIFAI
  
  
 
@@ -1653,13 +1682,15 @@ iki   10,0
 
 
  
-2. Triašiu
-puspriekabių vilkiku su dviaše ar triaše puspriekabe 40 pėdų konteinerius,
-pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais.
-Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą.
-3. Kai ašies (ašių)
-faktiška apkrova ir faktiška transporto priemonės (jų junginio) bendroji masė 
-viršija leidžiamą, mokesčio dydis nustatomas tas, kuris yra didesnis.
+2.
+Triašiu puspriekabių vilkiku su dviaše ar triaše puspriekabe 40 pėdų
+konteinerius, pagamintus pagal ISO standartus, leidžiama vežti tik
+magistraliniais keliais. Vežant šiuos konteinerius kitais keliais, būtina gauti
+kelio savininko leidimą.
+3.
+Kai ašies (ašių) faktiška apkrova ir faktiška transporto priemonės (jų
+junginio) bendroji masė  viršija leidžiamą, mokesčio dydis nustatomas tas,
+kuris yra didesnis.
                                                 
  
 _______________
@@ -1674,16 +1705,28 @@ IX-682,
 2001-12-21, Žin., 2001, Nr. 112-4089 (2001-12-30)
 KELIŲ
 PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Šis
-Įstatymas įsigalioja nuo 2002 m. sausio 1 d. 
-Nauja
-įstatymo redakcija
+Šis Įstatymas įsigalioja nuo 2002 m.
+sausio 1 d. 
+Nauja įstatymo redakcija
+ 
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-840,
+2002-04-09, Žin., 2002, Nr. 43-1605 (2002-04-26)
+KELIŲ PRIEŽIŪROS IR PLĖTROS
+PROGRAMOS FINANSAVIMO ĮSTATYMO 4 STRAIPSNIO IR 
+1 PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+Šis Įstatymas
+taikomas apskaičiuojant atskaitymus į Programos finansavimo sąskaitą nuo 2002
+metų balandžio mėnesio ir vėlesnių mėnesių pajamų.
+ 
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-01-07)
+Aušrinė Trapinskienė (2002-04-29)
                  
 autrap@lrs.lt
