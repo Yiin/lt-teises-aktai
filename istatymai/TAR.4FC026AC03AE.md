@@ -1622,15 +1622,26 @@ pareigūnių nėštumo ir gimdymo atostogų trukmę, apmokėjimo sąlygas (išsk
 išimtis, nustatytas šio straipsnio 3 dalyje), taip pat laikinojo nedarbingumo
 pažymėjimo išdavimo tvarką reglamentuoja privalomojo valstybinio socialinio
 draudimo santykius reglamentuojantys teisės aktai.
+ 
+3 dalies redakcija iki 2005 m. sausio 1 d.:
 3. Laikinojo
 nedarbingumo bei nėštumo ir gimdymo atostogų laikotarpiu pareigūnams mokamas
 vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam sueis vieni metai,
 atostogų laikotarpiu – 60 procentų vidutinio jų darbo užmokesčio.
+3 dalies redakcija nuo 2005 m. sausio 1 d.:
+3.
+Laikinojo nedarbingumo bei nėštumo ir gimdymo atostogų laikotarpiu pareigūnams
+mokamas vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam sueis vieni
+metai, atostogų laikotarpiu – 70 procentų vidutinio jų darbo užmokesčio.
+ 
 4. Pareigūnų,
 kai jų laikinojo nedarbingumo trukmė atitinka nedarbingumo pažymėjimų išdavimo
 tvarkoje nustatytus maksimalius terminus arba anksčiau, nei šie terminai
 nustatyti, jeigu yra invalidumo požymių, sveikata tikrinama Centrinėje
 medicinos ekspertizės komisijoje.
+Straipsnio pakeitimai:
+Nr. IX-2526,
+2004-11-02, Žin., 2004, Nr. 167-6105 (2004-11-17)
  
 42 straipsnis. Pareigūnų medicininės reabilitacijos,
 sveikatos grąžinamojo ir antirecidyvinio gydymo išlaidų apmokėjimas
@@ -1680,9 +1691,9 @@ sąjungos renkamojo organo sutikimas.
 profesinės sąjungos organus, atleidžiamas iš vidaus tarnybos, jei su juo ši
 profesinė sąjunga sudaro darbo sutartį.
 6. Profesinių
-sąjungų nariai, atleisti iš vidaus tarnybos dėl išrinkimo į renkamąsias
-pareigas profesinių sąjungų organizacijose, pasibaigus renkamųjų pareigų
-įgaliojimams, grąžinami į vidaus tarnybą šio Statuto nustatyta tvarka.
+sąjungų nariai, atleisti iš vidaus tarnybos dėl išrinkimo į renkamąsias pareigas
+profesinių sąjungų organizacijose, pasibaigus renkamųjų pareigų įgaliojimams,
+grąžinami į vidaus tarnybą šio Statuto nustatyta tvarka.
  
 44
 straipsnis. Vidaus reikalų įstaigos vadovai ir profesinės sąjungos
@@ -1711,9 +1722,9 @@ streikus ir juose dalyvauti;
 piketus ar mitingus, kurie tiesiogiai trukdytų vidaus reikalų įstaigos veiklai
 ar atlikti pareigūno tarnybines pareigas, taip pat juose dalyvauti;
 3) organizuoti
-(vadovauti) profesinių sąjungų narių susirinkimus darbo laiku, naudoti profesinių
-sąjungų veiklai tarnybines patalpas, ryšio ir transporto priemones be vidaus
-reikalų įstaigos vadovo sutikimo.
+(vadovauti) profesinių sąjungų narių susirinkimus darbo laiku, naudoti
+profesinių sąjungų veiklai tarnybines patalpas, ryšio ir transporto priemones
+be vidaus reikalų įstaigos vadovo sutikimo.
  
 DEŠIMTASIS
 SKIRSNIS
@@ -1743,11 +1754,11 @@ Pareigūnas, kuris pats, jo sutuoktinis, sugyventinis (partneris) vaikai ir
 techninius ir sanitarinius reikalavimus atitinkančio buto, namo ar jo dalies ir
 pastaruosius 5 metus nėra jo perleidę (išskyrus perleidimą dėl santuokos
 nutraukimo), iš Vidaus reikalų ministerijos ar atitinkamos vidaus reikalų
-centrinės įstaigos atitinkamoje vietovėje turimo tarnybinių butų fondo aprūpinami
-pagal tos gyvenamosios vietovės sąlygas įrengtu, techninius ir higienos
-reikalavimus atitinkančiu ir suremontuotu tarnybiniu butu (viengungis arba
-pareigūnas, kurio šeima negali persikelti į pareigūno tarnybos vietą – atskira
-tarnybine gyvenamąja patalpa). Už suteiktą tarnybinį butą (gyvenamąsias
+centrinės įstaigos atitinkamoje vietovėje turimo tarnybinių butų fondo
+aprūpinami pagal tos gyvenamosios vietovės sąlygas įrengtu, techninius ir
+higienos reikalavimus atitinkančiu ir suremontuotu tarnybiniu butu (viengungis
+arba pareigūnas, kurio šeima negali persikelti į pareigūno tarnybos vietą –
+atskira tarnybine gyvenamąja patalpa). Už suteiktą tarnybinį butą (gyvenamąsias
 patalpas) pareigūnas moka Vyriausybės nustatyta tvarka apskaičiuotą
 gyvenamosios patalpos nuomos mokestį ir mokesčius už energijos, ryšių bei visas
 komunalines paslaugas pagal toje vietovėje galiojančius tarifus.
@@ -1805,8 +1816,8 @@ vadovaujamos vidaus reikalų įstaigos darbo užmokesčiui skirtų lėšų.
 straipsnis. Grąžinimas į vidaus tarnybą
 Pareigūnas,
 atleistas iš vidaus tarnybos vidaus reikalų įstaigoje dėl pareigybės
-panaikinimo, atleistas iš vidaus tarnybos jo paties prašymu ar atleistas iš vidaus
-tarnybos jo paties prašymu dėl išėjimo į pensiją, jo prašymu gali būti
+panaikinimo, atleistas iš vidaus tarnybos jo paties prašymu ar atleistas iš
+vidaus tarnybos jo paties prašymu dėl išėjimo į pensiją, jo prašymu gali būti
 grąžinamas į vidaus tarnybą. Grąžinimo į vidaus tarnybą tvarką nustato vidaus
 reikalų ministras.
  
@@ -1831,13 +1842,14 @@ Pareigūnai gali būti vežami į tarnybos vietą tarnybiniu transportu. Vežimo
 tvarką ir sąlygas nustato vidaus reikalų ministras ar jo įgalioti vidaus
 reikalų centrinių įstaigų vadovai.
 4.
-Pareigūnui, kuris pagal tarnybos pobūdį važinėja keleiviniu ar asmeniniu transportu
-tarnybiniais tikslais, taip pat vyksta į tarnybos vietą ir iš jos, išskyrus
-taksi, važiavimo išlaidos kompensuojamos Vyriausybės ar jos įgaliotos
+Pareigūnui, kuris pagal tarnybos pobūdį važinėja keleiviniu ar asmeniniu
+transportu tarnybiniais tikslais, taip pat vyksta į tarnybos vietą ir iš jos,
+išskyrus taksi, važiavimo išlaidos kompensuojamos Vyriausybės ar jos įgaliotos
 institucijos nustatyta tvarka.
 5.
-Šiame Statute nustatytos socialinės garantijos pareigūnams teikiamos finansuojant
-iš tų pačių šaltinių, iš kurių išlaikomos atitinkamos vidaus reikalų įstaigos.
+Šiame Statute nustatytos socialinės garantijos pareigūnams teikiamos
+finansuojant iš tų pačių šaltinių, iš kurių išlaikomos atitinkamos vidaus
+reikalų įstaigos.
  
 VIENUOLIKTASIS
 SKIRSNIS
@@ -1864,8 +1876,9 @@ priesaikos;
 poelgiu pažemino pareigūno vardą;
 8) jei
 įsiteisėjo teismo nuosprendis, kuriuo pareigūnas nuteisiamas už tyčinį
-nusikaltimą ar baudžiamąjį nusižengimą arba jam atimama teisė dirbti teisėsaugos
-institucijose, arba dėl kurio vykdymo jis negali atlikti savo pareigų;
+nusikaltimą ar baudžiamąjį nusižengimą arba jam atimama teisė dirbti
+teisėsaugos institucijose, arba dėl kurio vykdymo jis negali atlikti savo
+pareigų;
 9) jei paaiškėjo
 šio Statuto 11 straipsnyje nurodytos aplinkybės, kurios pareigūno priėmimo į
 vidaus tarnybą metu nebuvo žinomos;
@@ -1886,9 +1899,9 @@ jei paskirta tarnybinė nuobauda – atleidimas iš vidaus tarnybos;
 15) jei dėl
 laikinojo nedarbingumo neatvyko į tarnybą daugiau kaip 120 kalendorinių dienų
 iš eilės arba daugiau kaip 140 kalendorinių dienų per paskutinius 12 mėnesių,
-jeigu įstatymų nenustatyta, kad tam tikros ligos atveju pareigos paliekamos ilgesnį
-laiką, jei susirgimas nesusijęs su sužeidimu, suluošinimu ar kitu sveikatos
-sutrikimu vykdant tarnybos pareigas;
+jeigu įstatymų nenustatyta, kad tam tikros ligos atveju pareigos paliekamos
+ilgesnį laiką, jei susirgimas nesusijęs su sužeidimu, suluošinimu ar kitu
+sveikatos sutrikimu vykdant tarnybos pareigas;
 16) jeigu jis
 nesutinka eiti jam pasiūlytų pareigų, kai į jo einamas pareigas teismo
 sprendimu grąžinamas anksčiau šias pareigas ėjęs pareigūnas;
@@ -1949,10 +1962,9 @@ atleidžiamas iš vidaus tarnybos, apie galimą jo atleidimą jį įspėjus raš
 iki atleidimo dienos. Nėščia moteris (kai vidaus reikalų įstaiga likviduojama),
 moteris ar vyras, vieni auginantys vaikus (vaiką) iki 14 metų, asmuo,
 kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, apie galimą jų atleidimą turi būti įspėti raštu ne
-vėliau kaip prieš 4 mėnesius iki atleidimo dienos. Įspėjimas apie galimą
-atleidimą netenka galios, jei nuo jo termino pabaigos praeina daugiau
-kaip vienas mėnuo, neįskaitant pareigūno laikinojo nedarbingumo ir atostogų
-laiko.
+vėliau kaip prieš 4 mėnesius iki atleidimo dienos. Įspėjimas apie galimą atleidimą
+netenka galios, jei nuo jo termino pabaigos praeina daugiau kaip vienas
+mėnuo, neįskaitant pareigūno laikinojo nedarbingumo ir atostogų laiko.
 3. Pareigūnas
 šio Statuto 53 straipsnio 1 dalies 15 punkte nurodytu pagrindu atleidžiamas iš
 vidaus tarnybos kitą darbo dieną, kai sueina šiame punkte nurodyti terminai, ir
@@ -1997,11 +2009,12 @@ straipsnis. Neteisėtai atleisto pareigūno grąžinimas į vidaus tarnybą
 grąžinus neteisėtai atleistą pareigūną į ankstesnes pareigas, atlyginama už
 visą priverstinės pravaikštos laiką.
 2. Teismui
-grąžinus neteisėtai atleistą pareigūną į ankstesnes pareigas, pareigūno grąžinimas
-į eitas pareigas įforminamas vadovo, turinčio teisę skirti į pareigas, įsakymu. Jei tokios pareigos panaikintos,
-pareigūnas grąžinamas į lygiavertes pareigas. Jeigu tokių pareigų nėra arba
-pareigūnas atsisako eiti pasiūlytas pareigas, jis atleidžiamas iš vidaus
-tarnybos pagal šio Statuto 53 straipsnio 1 dalies 11 punktą.
+grąžinus neteisėtai atleistą pareigūną į ankstesnes pareigas, pareigūno
+grąžinimas į eitas pareigas įforminamas vadovo, turinčio teisę skirti į pareigas, įsakymu. Jei tokios
+pareigos panaikintos, pareigūnas grąžinamas į lygiavertes pareigas. Jeigu tokių
+pareigų nėra arba pareigūnas atsisako eiti pasiūlytas pareigas, jis
+atleidžiamas iš vidaus tarnybos pagal šio Statuto 53 straipsnio 1 dalies 11
+punktą.
  
 III SKYRIUS
 VIDAUS TARNYBOS
@@ -2022,8 +2035,7 @@ nustatyta tvarka. Vidaus reikalų pareigūnų registro paskirtį, jo objektus,
 registro tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą,
 reorganizavimą ir likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro
 nuostatai. Šiuos nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
- 
-___________________
+________________
  
 Pakeitimai:
  
@@ -2058,11 +2070,22 @@ TARNYBOS STATUTO 4 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2526,
+2004-11-02, Žin., 2004, Nr. 167-6105 (2004-11-17)
+VIDAUS
+TARNYBOS STATUTO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-11-10)
+Aušrinė Trapinskienė (2004-11-19)
                  
 autrap@lrs.lt
