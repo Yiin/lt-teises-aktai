@@ -1523,6 +1523,9 @@ sveikatos draudimą bei diplomato sutuoktinio valstybinį socialinį pensijų
 draudimą nustato šis įstatymas, taip pat Valstybinio socialinio draudimo,
 Sveikatos draudimo, Valstybinių socialinio draudimo pensijų įstatymai ir kiti
 teisės aktai.
+ 
+2 dalies
+redakcija iki 2005 m. sausio 1 d.:
 2. Privalomos valstybinio
 socialinio draudimo pensijų įmokos už diplomatų sutuoktinius tuo laikotarpiu,
 kurį diplomato sutuoktinis praleido užsienyje dėl to, kad jis ten gyveno kartu
@@ -1530,10 +1533,22 @@ su diplomatu, dirbančiu Lietuvos Respublikos diplomatinėje atstovybėje ar
 konsulinėje įstaigoje, mokamos iš Lietuvos Respublikos valstybės biudžeto.
 Įmokų dydis skaičiuojamas nuo 0,5 diplomato pareiginės algos. Šis reikalavimas
 netaikomas diplomato sutuoktiniui įsidarbinus.
+2 dalies
+redakcija nuo 2005 m. sausio 1 d.:
+2. Valstybinio socialinio
+draudimo pensijų įmokos už diplomatų sutuoktinius tuo laikotarpiu, kurį
+diplomato sutuoktinis praleido užsienyje dėl to, kad jis ten gyveno kartu su
+diplomatu, dirbančiu Lietuvos Respublikos diplomatinėje atstovybėje ar
+konsulinėje įstaigoje, mokamos iš Lietuvos Respublikos valstybės biudžeto.
+Įmokų dydis skaičiuojamas nuo 0,5 diplomato pareiginės algos. Šis reikalavimas
+netaikomas diplomato sutuoktiniui įsidarbinus arba sukakus senatvės pensijos
+amžių.
 Straipsnio
 pakeitimai:
 Nr. VIII-1574,
 00.03.16, Žin., 2000, Nr.28-764 (00.04.05)
+Nr. IX-2536,
+2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
  
 70
 straipsnis. Kompensacijos diplomato žūties ar sužalojimo atveju. Palaikų
@@ -1558,8 +1573,8 @@ SKYRIUS
 BAIGIAMOSIOS
 NUOSTATOS
  
-71 straipsnis. Įstatymai,
-netenkantys galios įsigaliojus šiam įstatymui
+71 straipsnis.
+Įstatymai, netenkantys galios įsigaliojus šiam įstatymui
 Įsigaliojus šiam įstatymui,
 netenka galios:
 1) Lietuvos Respublikos įstatymas
@@ -1578,8 +1593,8 @@ organizacijų darbuotojų darbo apmokėjimo pagrindų įstatymo (Žin., 1996, Nr
 72 straipsnis.
 Įstatymo įgyvendinimas
 Šio įstatymo įgyvendinimo tvarką
-ir sąlygas nustato Lietuvos Respublikos diplomatinės tarnybos įstatymo įgyvendinimo
-įstatymas.
+ir sąlygas nustato Lietuvos Respublikos diplomatinės tarnybos įstatymo
+įgyvendinimo įstatymas.
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -1746,17 +1761,16 @@ vieta)
 Sudarė šią
 terminuotą diplomato tarnybos sutartį:
  
-1.
-________________________________________________________________
+1. ________________________________________________________________
 (priimamojo
 į terminuotą diplomatinę tarnybą vardas ir pavardė)
 priimamas į
 Lietuvos Respublikos diplomatinę tarnybą
-1. 1. ______________________________________________________________
+1. 1.
+______________________________________________________________
                                                   (nurodyti
 padalinį)
-1. 2.
-______________________________________________________________
+1. 2. ______________________________________________________________
 (nurodyti
 pareigų pavadinimą)
  
@@ -1818,7 +1832,8 @@ diplomato tarnybos sutarties šalių parašai:
 Darbdavys                                                                  Diplomatas
 _________________________                                 _________________________
 (Vardas ir
-pavardė) (Parašas)                                      (Vardas ir pavardė)  (Parašas)
+pavardė) (Parašas)                                      (Vardas ir pavardė) 
+(Parašas)
                      
                      A.
 V.
@@ -1833,8 +1848,8 @@ Terminuotos
 diplomato tarnybos sutarties šalių parašai:
  
 Darbdavys                                                                  Diplomatas
-_________________________                                 
-_________________________
+_________________________             
+                    _________________________
 (Vardas ir
 pavardė) ( Parašas)                                     (Vardas ir pavardė)
 (Parašas)
@@ -2084,8 +2099,8 @@ _________________
 Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1574, 00.03.16, Žin., 2000,
-Nr.28-764 (00.04.05)
+Nr. VIII-1574, 00.03.16, Žin., 2000, Nr.28-764
+(00.04.05)
 DIPLOMATINĖS TARNYBOS ĮSTATYMO 69 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 2.
@@ -2097,9 +2112,9 @@ IX-1431,
 DIPLOMATINĖS
 TARNYBOS ĮSTATYMO 18 IR 58 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja kartu su Lietuvos
-Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos
-baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės
-1 d. 
+Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo 2003
+m. gegužės 1 d. 
  
 3.
 Lietuvos
@@ -2129,13 +2144,25 @@ DIPLOMATINĖS TARNYBOS ĮSTATYMO 1,
 53, 54, 55, 56, 57, 58, 60, 61, 62, 68 STRAIPSNIŲ IR 4 PRIEDĖLIO PAKEITIMO IR
 PAPILDYMO BEI 5, 64, 67 STRAIPSNIŲ IR 3 PRIEDĖLIO PRIPAŽINIMO NETEKUSIAIS
 GALIOS ĮSTATYMAS
-Šio
-įstatymo 17 straipsnis įsigalioja nuo 2006 m. sausio 1 d.
+Šio įstatymo 17 straipsnis
+įsigalioja nuo 2006 m. sausio 1 d.
+ 
+6.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-2536,
+2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
+VALSTYBĖS TARNYBOS ĮSTATYMO,
+VIDAUS TARNYBOS STATUTO, BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO, DIPLOMATINĖS TARNYBOS
+ĮSTATYMO, KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO
+PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
 ***
 Pabaiga ***
  
 Redagavo:
-Aušrinė Trapinskienė (2004-11-26)
+Aušrinė Trapinskienė (2004-12-06)
                  
 autrap@lrs.lt
