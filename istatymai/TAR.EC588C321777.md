@@ -2387,34 +2387,44 @@ nusikalstamoms veikoms.
 120
 straipsnis. Kardomųjų priemonių rūšys
 1. Kardomosios
-priemonės yra šios: suėmimas, namų areštas, užstatas, dokumentų paėmimas,
-įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis
-pasižadėjimas neišvykti.
+priemonės yra šios: suėmimas, namų areštas, įpareigojimas gyventi skyrium nuo
+nukentėjusiojo, užstatas, dokumentų paėmimas, įpareigojimas periodiškai
+registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti.
 2. Kariui kaip
-kardomoji priemonė gali būti skiriamas karinio dalinio, kuriame jis tarnauja, vadovybės stebėjimas, o
-nepilnamečiui – atidavimas tėvams, rūpintojams arba kitiems fiziniams ar
-juridiniams asmenims, kurie rūpinasi vaikais, prižiūrėti.
+kardomoji priemonė gali būti skiriamas
+karinio dalinio, kuriame jis tarnauja, vadovybės stebėjimas, o nepilnamečiui –
+atidavimas tėvams, rūpintojams arba kitiems fiziniams ar juridiniams asmenims,
+kurie rūpinasi vaikais, prižiūrėti.
+Straipsnio
+pakeitimai:
+Nr. IX-2553,
+2004-11-09, Žin., 2004, Nr. 171-6307 (2004-11-26)
  
 121
 straipsnis. Kardomųjų priemonių skyrimo bendrosios nuostatos
-1. Suėmimas ir namų
-areštas gali būti paskirti tik ikiteisminio tyrimo teisėjo ar teismo nutartimi,
-kitos kardomosios priemonės – prokuroro nutarimu, ikiteisminio tyrimo teisėjo
-ar teismo nutartimi.
+1. Suėmimas,
+namų areštas ir įpareigojimas gyventi skyrium nuo nukentėjusiojo gali būti
+paskirti tik ikiteisminio tyrimo teisėjo ar teismo nutartimi, kitos kardomosios
+priemonės – prokuroro nutarimu, ikiteisminio tyrimo teisėjo ar teismo
+nutartimi.
 2. Kardomosios
 priemonės gali būti skiriamos tik tuo atveju, kai yra pakankamai duomenų,
 leidžiančių manyti, kad įtariamasis padarė nusikalstamą veiką.
 3. Vienu metu
 gali būti skiriamos kelios švelnesnės už suėmimą kardomosios priemonės.
 4. Prokuroras,
-teisėjas ar teismas, spręsdamas, ar reikia skirti kardomąją priemonę, ir parinkdamas
-jos rūšį, turi atsižvelgti į įtariamojo nusikalstamos veikos sunkumą,
-įtariamojo asmenybę, į tai, ar jis turi nuolatinę gyvenamąją vietą ir darbą ar
-kitokį legalų pragyvenimo šaltinį, į įtariamojo amžių, sveikatos būklę, šeiminę
-padėtį ir kitas aplinkybes, galinčias turėti reikšmės sprendžiant dėl
-kardomosios priemonės.
+teisėjas ar teismas, spręsdamas, ar reikia skirti kardomąją priemonę, ir
+parinkdamas jos rūšį, turi atsižvelgti į įtariamojo nusikalstamos veikos
+sunkumą, įtariamojo asmenybę, į tai, ar jis turi nuolatinę gyvenamąją vietą ir
+darbą ar kitokį legalų pragyvenimo šaltinį, į įtariamojo amžių, sveikatos
+būklę, šeiminę padėtį ir kitas aplinkybes, galinčias turėti reikšmės
+sprendžiant dėl kardomosios priemonės.
 5. Kardomoji
 priemonė taip pat gali būti skiriama kaltinamajam ir nuteistajam.
+Straipsnio
+pakeitimai:
+Nr. IX-2553,
+2004-11-09, Žin., 2004, Nr. 171-6307 (2004-11-26)
  
 122
 straipsnis. Suėmimo skyrimo pagrindai ir sąlygos
@@ -2509,13 +2519,14 @@ naują suėmimo terminą arba pakeisti šią kardomąją priemonę ar ją panaik
 perduota į teismą, paskirti, palikti galioti, pratęsti ar panaikinti suėmimą
 arba pakeisti jį kita kardomąja priemone gali teismas, kurio žinioje yra byla,
 vadovaudamasis šio Kodekso 122 straipsnio reikalavimais.
-7. Teisėjui nagrinėjant suėmimo skyrimo klausimą,
-rašomas posėdžio protokolas. Jame užrašomi pristatyto teisėjui asmens
+7. Teisėjui
+nagrinėjant suėmimo skyrimo klausimą, rašomas posėdžio protokolas. Jame
+užrašomi pristatyto teisėjui asmens
 paaiškinimai, prokuroro ir gynėjo pareiškimai bei pastabos.
  
 124
-straipsnis. Suimto asmens pristatymas kitos apylinkės teismo ikiteisminio tyrimo
-teisėjui
+straipsnis. Suimto asmens pristatymas kitos apylinkės teismo ikiteisminio
+tyrimo teisėjui
 1. Suimtas
 asmuo, kurio per keturiasdešimt aštuonias valandas nuo suėmimo neįmanoma
 pristatyti suėmimą paskyrusiam ikiteisminio tyrimo teisėjui arba kitam tos
@@ -2541,8 +2552,8 @@ nutartyje skirti kardomąją priemonę turi būti nurodoma:
 vardas, pavardė, gimimo data, gyvenamoji vieta, darbo vieta;
 2) nusikalstama
 veika, kurios padarymu asmuo įtariamas, šios veikos padarymo vieta, laikas,
-būdas ir kitos aplinkybės, atsakomybę už tą nusikalstamą veiką numatantis
-baudžiamasis įstatymas;
+būdas ir kitos aplinkybės, atsakomybę už tą nusikalstamą veiką numatantis baudžiamasis
+įstatymas;
 3) duomenys,
 leidžiantys manyti, kad įtariamasis padarė tą nusikalstamą veiką;
 4) tikslas,
@@ -2553,11 +2564,17 @@ nustatyti suėmimo skyrimo pagrindai ir motyvai.
 nutartis skirti kardomąją priemonę paskelbiami įtariamajam pasirašytinai.
  
 126
-straipsnis. Nutarties atsisakyti skirti suėmimą ar namų areštą turinys
+straipsnis. Nutarties atsisakyti skirti suėmimą, namų areštą ar įpareigojimą
+gyventi skyrium nuo nukentėjusiojo turinys
 Nutartyje
-atsisakyti skirti suėmimą ar namų areštą turi būti nurodoma šio Kodekso 125
-straipsnio 2 dalies 1 ir 2 punktuose išvardyti duomenys, taip pat motyvai, dėl
-kurių atsisakoma skirti suėmimą ar namų areštą.
+atsisakyti skirti suėmimą, namų areštą ar įpareigojimą gyventi skyrium nuo
+nukentėjusiojo turi būti nurodoma šio Kodekso 125 straipsnio 2 dalies 1 ir 2
+punktuose išvardyti duomenys, taip pat motyvai, dėl kurių atsisakoma skirti
+suėmimą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo.
+Straipsnio
+pakeitimai:
+Nr. IX-2553,
+2004-11-09, Žin., 2004, Nr. 171-6307 (2004-11-26)
  
 127
 straipsnis. Suėmimo taikymo trukmė ir jo termino pratęsimas
@@ -2636,19 +2653,19 @@ nutarties skirti suėmimą arba pratęsti suėmimo terminus nuorašus išsiunči
 suėmimo vietą.
 3. Apie tai, kad
 suėmimas paskirtas kitos valstybės piliečiui, prokuroras nedelsdamas praneša
-Lietuvos Respublikos užsienio reikalų ministerijai ir, jeigu suimtasis pageidauja,
-– jo valstybės diplomatinei atstovybei ar konsulinei įstaigai.
+Lietuvos Respublikos užsienio reikalų ministerijai ir, jeigu suimtasis
+pageidauja, – jo valstybės diplomatinei atstovybei ar konsulinei įstaigai.
  
-129
-straipsnis. Priemonės pasirūpinti suimtojo vaikais ir jo turtui apsaugoti 
+129 straipsnis.
+Priemonės pasirūpinti suimtojo vaikais ir jo turtui apsaugoti 
 1. Jeigu
 suimtasis turi vaikų iki aštuoniolikos metų, kurie lieka be reikalingos
 priežiūros, prokuroras arba teismas privalo atiduoti juos šeimos
 nariams, artimiesiems giminaičiams, kitiems asmenims ar įstaigoms globoti ar
 rūpintis.
 2. Jeigu suimtasis turi turtą arba būstą, liekantį be
-priežiūros, prokuroras arba teismas privalo aptarti su suimtuoju priemones turtui
-ar būstui apsaugoti ir jų imtis.
+priežiūros, prokuroras arba teismas privalo aptarti su suimtuoju priemones
+turtui ar būstui apsaugoti ir jų imtis.
 3. Apie šio
 straipsnio 1 ar 2 dalyje nurodytas priemones prokuroras arba teismas praneša
 suimtajam.
@@ -2671,24 +2688,22 @@ medžiagą. Jei skundas paduotas nagrinėjant bylą teisme, teismas, kurio nutar
 apskųsta, privalo aukštesniajam teismui perduoti skundui nagrinėti reikalingą
 bylos medžiagą.
 2. Aukštesniojo
-teismo teisėjo priimta nutartis yra galutinė
-ir neskundžiama.
+teismo teisėjo priimta nutartis yra galutinė ir neskundžiama.
  
 131
 straipsnis. Prokuroro teisė apskųsti teisėjo nutartį
 1. Prokuroras
 ikiteisminio tyrimo arba bylos nagrinėjimo teisme metu ne vėliau kaip per tris
-dienas nuo atitinkamos nutarties priėmimo turi teisę aukštesniajam teismui paduoti skundą dėl suėmimo nepaskyrimo
-arba suimtojo paleidimo į laisvę, arba suėmimo termino nepratęsimo. Skundas
-paduodamas per suėmimo nepaskyrusį, suimtąjį paleidusį arba suėmimo termino
-nepratęsusį teismą, o šis privalo nedelsdamas perduoti skundą aukštesniajam teismui. Aukštesniojo teismo teisėjas privalo
-išnagrinėti skundą ne vėliau kaip per septynias dienas nuo jo gavimo dienos.
-Skundui nagrinėti rengiamas posėdis; į jį šaukiami įtariamasis ar kaltinamasis
-ir gynėjas. Šių asmenų neatvykimas netrukdo
-teismui nagrinėti skundą. Prokuroro dalyvavimas tokiame posėdyje būtinas.
-Prokuroras turi pateikti aukštesniajam teismui skundui nagrinėti reikalingą
-ikiteisminio tyrimo medžiagą. Jei skundas paduotas nagrinėjant bylą teisme,
-teismas, kurio nutartis apskųsta, privalo
+dienas nuo atitinkamos nutarties priėmimo turi teisę aukštesniajam teismui
+paduoti skundą dėl suėmimo nepaskyrimo arba suimtojo paleidimo į laisvę, arba suėmimo termino nepratęsimo.
+Skundas paduodamas per suėmimo nepaskyrusį, suimtąjį paleidusį arba suėmimo
+termino nepratęsusį teismą, o šis privalo nedelsdamas perduoti skundą
+aukštesniajam teismui. Aukštesniojo teismo teisėjas privalo išnagrinėti skundą ne vėliau kaip per septynias dienas
+nuo jo gavimo dienos. Skundui nagrinėti rengiamas posėdis; į jį šaukiami
+įtariamasis ar kaltinamasis ir gynėjas. Šių asmenų neatvykimas netrukdo teismui
+nagrinėti skundą. Prokuroro dalyvavimas tokiame posėdyje būtinas. Prokuroras turi pateikti aukštesniajam teismui skundui
+nagrinėti reikalingą ikiteisminio tyrimo medžiagą. Jei skundas paduotas
+nagrinėjant bylą teisme, teismas, kurio nutartis apskųsta, privalo
 aukštesniajam teismui perduoti skundui nagrinėti reikalingą bylos medžiagą.
 2. Aukštesniojo
 teismo teisėjo priimta nutartis yra galutinė ir neskundžiama.
@@ -2708,6 +2723,29 @@ areštą, nustatomos šios kardomosios priemonės sąlygos. Įtariamasis įspėj
 kad už namų arešto sąlygų pažeidimą jam gali būti paskirtas suėmimas, jei tam
 būtų pagrindas.
  
+132(1)
+straipsnis. Įpareigojimas gyventi skyrium nuo nukentėjusiojo
+1. Įtariamasis gali būti įpareigojamas gyventi
+skyrium nuo nukentėjusiojo, jeigu pagrįstai manoma, kad jis, gyvendamas kartu
+su nukentėjusiuoju, bandys neteisėtai paveikti nukentėjusįjį arba
+nukentėjusiajam ar kartu su juo gyvenantiems asmenims darys naujas
+nusikalstamas veikas. Skiriant įpareigojimą gyventi skyrium nuo nukentėjusiojo,
+įtariamasis taip pat gali būti įpareigojamas nebendrauti ir neieškoti ryšių su
+nukentėjusiuoju ir kartu su juo gyvenančiais asmenimis, taip pat nesilankyti
+nurodytose vietose, kuriose būna nukentėjusysis ar kartu su juo gyvenantys
+asmenys.
+2. Ikiteisminio
+tyrimo metu įpareigojimą gyventi skyrium nuo nukentėjusiojo prokuroro prašymu
+skiria ikiteisminio tyrimo teisėjas nutartimi.
+3. Skiriant
+kardomąją priemonę – įpareigojimą gyventi skyrium nuo nukentėjusiojo,
+įtariamasis įspėjamas, kad už šio įpareigojimo nesilaikymą jam gali būti
+paskirta kita kardomoji priemonė.
+Kodeksas
+papildytas straipsniu:
+Nr. IX-2553,
+2004-11-09, Žin., 2004, Nr. 171-6307 (2004-11-26)
+ 
 133
 straipsnis. Užstatas
 1. Užstatas –
@@ -2724,15 +2762,15 @@ užstatą, užstato davėjui turi būti išaiškinta jo, kaip užstato davėjo,
 atsakomybė.
 4. Nutarime ar
 nutartyje skirti kardomąją priemonę – užstatą nurodoma, kad įtariamajam
-išaiškinta jo pareiga šaukiamam atvykti pas ikiteisminio tyrimo pareigūną,
-prokurorą, teisėją ar į teismą, nekliudyti proceso eigos, nedaryti naujų
-nusikalstamų veikų ir kad jis pasižada šią pareigą vykdyti, o užstato davėjas
-įspėtas, kad jei įtariamasis nevykdys šios pareigos, užstatas pereis valstybei.
-Be to, nutarime ar nutartyje pažymima, kokioje banko įstaigoje įtariamasis ar
-užstato davėjas sumokėjo nustatyto dydžio piniginę įmoką, ir nurodomas įmokos
-dokumento (kvito) numeris. Įmokos dokumentas (kvitas) pridedamas prie
-baudžiamosios bylos. Įtariamajam ir užstato davėjui pasirašytinai įteikiami
-nutarimo ar nutarties skirti kardomąją priemonę – užstatą nuorašas.
+išaiškinta jo pareiga šaukiamam atvykti pas ikiteisminio tyrimo pareigūną, prokurorą,
+teisėją ar į teismą, nekliudyti proceso eigos, nedaryti naujų nusikalstamų
+veikų ir kad jis pasižada šią pareigą vykdyti, o užstato davėjas įspėtas, kad
+jei įtariamasis nevykdys šios pareigos, užstatas pereis valstybei. Be to,
+nutarime ar nutartyje pažymima, kokioje banko įstaigoje įtariamasis ar užstato
+davėjas sumokėjo nustatyto dydžio piniginę įmoką, ir nurodomas įmokos dokumento
+(kvito) numeris. Įmokos dokumentas (kvitas) pridedamas prie baudžiamosios
+bylos. Įtariamajam ir užstato davėjui pasirašytinai įteikiami nutarimo ar
+nutarties skirti kardomąją priemonę – užstatą nuorašas.
 5. Jei
 įtariamasis pažeidžia kardomąją priemonę – užstatą, jam kaip kardomoji priemonė
 skiriamas suėmimas, kai tam yra pagrindas, o užstatas pereina valstybei. Dėl
@@ -2746,23 +2784,25 @@ priimtas sprendimas nutraukti procesą, įsiteisėjo nuosprendis arba nuspręsta
 kad taikyti užstatą kaip kardomąją priemonę netikslinga, užstatas grąžinamas
 užstato davėjui.
  
-134 straipsnis.
-Dokumentų paėmimas
+134
+straipsnis. Dokumentų paėmimas
 Dokumentų
 paėmimas kaip kardomoji priemonė gali būti skiriamas prokuroro nutarimu ar
 teismo nutartimi. Iš įtariamojo gali būti paimtas pasas, asmens tapatybės
-kortelė, vairuotojo pažymėjimas. Paėmus dokumentus, įtariamajam išduodama
-generalinio prokuroro nustatytos formos pažyma, kurioje nurodomi paimti
-dokumentai.
+kortelė, vairuotojo pažymėjimas. Paėmus dokumentus, įtariamajam
+išduodama generalinio prokuroro nustatytos formos pažyma, kurioje nurodomi
+paimti dokumentai.
  
 135
 straipsnis. Įtariamojo įpareigojimas periodiškai registruotis policijos
 įstaigoje
 1. Prokuroro
-nutarimu ar teismo nutartimi įtariamasis gali būti įpareigotas registruotis policijos įstaigoje. Nutarime ar nutartyje
+nutarimu ar teismo nutartimi įtariamasis
+gali būti įpareigotas registruotis policijos įstaigoje. Nutarime ar nutartyje
 turi būti nurodytas įstaigos adresas, kokiomis savaitės ar mėnesio dienomis ir
 kokią valandą įtariamasis privalo atvykti į policijos įstaigą registruotis. Jei
-įtariamasis nustatytu laiku neatvyksta registruotis, policijos įstaigos pareigūnas privalo nedelsdamas pranešti
+įtariamasis nustatytu laiku neatvyksta
+registruotis, policijos įstaigos pareigūnas privalo nedelsdamas pranešti
 prokurorui ir imtis priemonių įtariamojo buvimo vietai nustatyti.
 2. Pažeidusiam įpareigojimą periodiškai registruotis
 policijos įstaigoje įtariamajam gali būti paskirta griežtesnė kardomoji
@@ -2813,12 +2853,13 @@ prokurorą ar į teismą, asmenims, įsipareigojusiems jį prižiūrėti, prokur
 nutarimu ar teismo nutartimi gali būti paskirta iki penkių minimalių gyvenimo
 lygių (MGL) dydžio bauda.
  
-139
-straipsnis. Kardomosios priemonės panaikinimas ar pakeitimas
+139 straipsnis.
+Kardomosios priemonės panaikinimas ar pakeitimas
 1. Paskirta
 kardomoji priemonė panaikinama, kai ji tampa nebereikalinga, arba pakeičiama
 griežtesne ar švelnesne, kai to reikalauja bylos aplinkybės. Kardomąją priemonę
-panaikina arba pakeičia prokuroras nutarimu arba teismas nutartimi.
+panaikina arba pakeičia prokuroras nutarimu
+arba teismas nutartimi.
 2. Jeigu
 ikiteisminio tyrimo metu išnyksta suėmimo pagrindai ar jam taikyti reikalingos
 sąlygos, prokuroras privalo nedelsdamas priimti nutarimą paleisti į laisvę
@@ -2831,8 +2872,8 @@ Nr. IX-2336,
 XII skyrius
 Kitos procesinės prievartos priemonės
  
-140 straipsnis.
-Laikinas sulaikymas
+140
+straipsnis. Laikinas sulaikymas
 1. Ikiteisminio
 tyrimo pareigūnas arba prokuroras gali sulaikyti asmenį, užkluptą darant
 nusikalstamą veiką ar tuoj po to, kai jis nusikalstamą veiką padarė, kai yra
@@ -2866,9 +2907,8 @@ gali būti pratęstas arba įtariamasis gali būti perkeltas į kitą specialią
 atiduodamas į ekspertizės įstaigą, taip pat laikymo joje terminai nustatomi ar
 pratęsiami laikantis tos pačios tvarkos kaip ir skiriant, pratęsiant ar
 apskundžiant suėmimą.
-4. Suimtas
-įtariamasis į ekspertizės įstaigą ikiteisminio tyrimo metu atiduodamas
-prokuroro nutarimu.
+4. Suimtas įtariamasis
+į ekspertizės įstaigą ikiteisminio tyrimo metu atiduodamas prokuroro nutarimu.
 5. Į ekspertizės
 įstaigą gali būti atiduotas ir kaltinamasis.
  
@@ -2944,11 +2984,12 @@ pagrindžiančiais duomenimis.
 4. Darant
 kratą, turi dalyvauti buto, namo ar kitų patalpų, kuriose daroma krata,
 savininkas, nuomotojas, valdytojas, pilnametis jų šeimos narys ar artimasis
-giminaitis, o darant kratą įmonėje, įstaigoje ar organizacijoje, – tos įmonės,
-įstaigos ar organizacijos atstovas. Kai nėra
+giminaitis, o darant kratą įmonėje, įstaigoje
+ar organizacijoje, – tos įmonės, įstaigos ar organizacijos atstovas. Kai nėra
 galimybės užtikrinti šių asmenų dalyvavimą, krata daroma kviestinio ar
 savivaldybės institucijos atstovo akivaizdoje. Prireikus kviestiniai gali būti
-kviečiami dalyvauti atliekant kratą ir kitais atvejais.
+kviečiami dalyvauti atliekant kratą ir
+kitais atvejais.
 5. Krata žemėje,
 miške, vandens telkiniuose gali būti daroma ir nedalyvaujant savininkui,
 nuomotojui ar valdytojui, tačiau šiems asmenims vėliau pranešama raštu apie
@@ -3023,8 +3064,7 @@ susižinoti tarpusavyje arba su kitais asmenimis iki kratos ar poėmio pabaigos.
 vieta, kur daroma krata ar poėmis, gali būti pareigūnų apsupta.
 5. Daryti kratas
 ar poėmius nakties metu, išskyrus neatidėliotinus atvejus, draudžiama.
-6. Darantis
-kratą ar poėmį pareigūnas turi teisę paimti tik tuos
+6. Darantis kratą ar poėmį pareigūnas turi teisę paimti tik tuos
 daiktus ir dokumentus, kurie gali turėti reikšmės tyrimui. Daiktai ir
 dokumentai, kurių apyvarta įstatymų uždrausta, turi būti paimami
 neatsižvelgiant į jų ryšį su tyrimu.
@@ -3059,12 +3099,11 @@ Lietuvos Respublikos užsienio reikalų ministerijos atstovo dalyvavimas.
 151
 straipsnis. Laikinas nuosavybės teisės apribojimas
 1. Civiliniam
-ieškiniui ar galimam turto konfiskavimui užtikrinti prokuroro nutarimu
-įtariamajam ar pagal įstatymus materialiai
+ieškiniui ar galimam turto konfiskavimui užtikrinti prokuroro nutarimu įtariamajam ar pagal įstatymus materialiai
 atsakingam už įtariamojo veiksmus fiziniam asmeniui arba fiziniams asmenims,
 kurie turi nusikalstamu būdu gautą ar įgytą turtą, gali būti skiriamas laikinas
-nuosavybės teisės apribojimas. Laikinas nuosavybės teisės apribojimas gali būti
-skiriamas kartu su poėmiu ar krata.
+nuosavybės teisės apribojimas. Laikinas nuosavybės teisės apribojimas gali būti skiriamas kartu su poėmiu ar
+krata.
 2. Juridinio
 asmens nuosavybės teisė gali būti laikinai apribota prokuroro nutarimu, kai:
 1) siekiama
@@ -3102,9 +3141,10 @@ kaip šešis mėnesius. Šis terminas ikiteisminio tyrimo teisėjo nutartimi gal
 būti pratęstas, tačiau ne daugiau kaip du kartus po tris mėnesius. Ikiteisminio
 tyrimo teisėjo atsisakymas pratęsti laikino nuosavybės teisės apribojimo
 terminą skundžiamas šio Kodekso 65 straipsnyje nustatyta tvarka. Kai
-byla perduota į teismą, dėl laikino nuosavybės teisės apribojimo paskyrimo ar jo
-taikymo termino pratęsimo priimdamas nutartį nusprendžia teismas, kurio žinioje
-yra byla. Teismo nutartis skundžiama šio Kodekso X dalyje nustatyta tvarka.
+byla perduota į teismą, dėl laikino nuosavybės teisės apribojimo paskyrimo ar
+jo taikymo termino pratęsimo priimdamas nutartį nusprendžia teismas, kurio
+žinioje yra byla. Teismo nutartis skundžiama šio Kodekso X dalyje nustatyta
+tvarka.
 7.
 Baudžiamosiose bylose dėl sunkių ar labai sunkių nusikaltimų arba kai
 įtariamasis yra pasislėpęs laikino nuosavybės teisės apribojimo termino
@@ -3135,8 +3175,8 @@ priėmimo motyvai ir laikino nuosavybės teisės apribojimo pagrindas;
 asmens pavadinimas, buveinės adresas, kodas);
 5) asmuo, kurio
 ieškinio reikalavimo įvykdymui užtikrinti laikinai apribojama nuosavybės teisė
-(fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta; juridinio
-asmens pavadinimas, buveinės adresas, kodas), – kai laikinai nuosavybės teisė
+(fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta; juridinio asmens
+pavadinimas, buveinės adresas, kodas), – kai laikinai nuosavybės teisė
 apribojama siekiant užtikrinti civilinį ieškinį;
 6) turto, į kurį
 laikinai apribojama nuosavybės teisė, pavadinimas, kodas (jei turtas
@@ -3161,9 +3201,9 @@ nedelsiant ir ne vėliau kaip kitą darbo dieną šio Kodekso nustatyta tvarka
 paskelbiamas asmeniui, kurio nuosavybės teisė laikinai apribojama, ir visiems
 turto, į kurį laikinai apribojamos nuosavybės teisės, savininkams
 (bendraturčiams). Nutarimo skirti laikiną nuosavybės teisės apribojimą nuorašas
-įteikiamas turto, į kurį laikinai apribojama nuosavybės teisė, savininkui
-(bendraturčiams). Jeigu nėra galimybės nedelsiant paskelbti nutarimą, laikoma,
-kad nutarimas paskelbtas, kai jis įregistruojamas turto arešto aktų registre.
+įteikiamas turto, į kurį laikinai apribojama nuosavybės teisė, savininkui (bendraturčiams).
+Jeigu nėra galimybės nedelsiant paskelbti nutarimą, laikoma, kad nutarimas
+paskelbtas, kai jis įregistruojamas turto arešto aktų registre.
 3. Nutarimo
 skirti laikiną nuosavybės teisės apribojimą nuorašas nedelsiant ir ne vėliau
 kaip kitą darbo dieną turi būti išsiųstas turto arešto aktų registro
@@ -3187,12 +3227,10 @@ nutarimą ar nutartį panaikinti laikiną nuosavybės teisės apribojimą.
 straipsnis. Dokumentų dėl laikino nuosavybės teisės apribojimo perdavimas
 bankroto bylą nagrinėjančiam teismui
 1. Jeigu
-baudžiamojoje byloje, užtikrinant civilinį ieškinį, šio Kodekso 151 straipsnyje
-nustatyta tvarka laikinai apribota įmonės,
+baudžiamojoje byloje, užtikrinant civilinį ieškinį, šio Kodekso 151 straipsnyje nustatyta tvarka laikinai apribota įmonės,
 kuriai iškelta bankroto byla, nuosavybės teisė, visi su laikinu nuosavybės
 teisės apribojimu susiję dokumentai gali būti perduoti bankroto bylą
-nagrinėjančiam teismui. Bankroto bylą nagrinėjantis teismas sprendžia visus su
-apribota nuosavybės teise susijusius
+nagrinėjančiam teismui. Bankroto bylą nagrinėjantis teismas sprendžia visus su apribota nuosavybės teise susijusius
 klausimus.
 2. Baudžiamojoje
 byloje paskirtam turto saugotojui ar administratoriui išlieka visos teisės ir
@@ -9587,15 +9625,14 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą
 dienos.
 Pakeitimai:
-1)
 Lietuvos Respublikos
 Seimas, Įstatymas
 Nr. IX-1732,
 2003-09-16, Žin., 2003, Nr. 92-4138 (2003-10-01)
 TEISMŲ ĮSTATYMO,
-ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO, CIVILINIO PROCESO KODEKSO, BAUDŽIAMOJO
-PROCESO KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMO KETVIRTOJO SKIRSNIO 1 IR 2
-STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO, CIVILINIO PROCESO KODEKSO, BAUDŽIAMOJO PROCESO
+KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMO KETVIRTOJO SKIRSNIO 1 IR 2 STRAIPSNIŲ
+PAKEITIMO ĮSTATYMAS
 Šis Įstatymas
 įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
  
@@ -9666,11 +9703,18 @@ KODEKSO 65, 94, 103, 109, 139, 151, 154, 158, 168, 181, 218, 220, 225, 232,
 426, 429, 446, 456, 457, 458 STRAIPSNIŲ IR XXXV SKYRIAUS PAVADINIMO PAKEITIMO
 IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMAS
  
+8.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-2553,
+2004-11-09, Žin., 2004, Nr. 171-6307 (2004-11-26)
+BAUDŽIAMOJO PROCESO KODEKSO 120,
+121, 126 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 132(1) STRAIPSNIU ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušrinė Trapinskienė (2004-07-27)
+Aušrinė Trapinskienė (2004-12-02)
                  
 autrap@lrs.lt
