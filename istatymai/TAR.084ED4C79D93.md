@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.084ED4C79D93"
 
 # Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2007-01-29
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2848, i. k. 1001010ISTAIII-1996
  
@@ -436,11 +436,10 @@ Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010IST
 
 10. Pareigūnai turi ir kitų įstatymų, įstatymų lydimųjų aktų ir Lietuvos Respublikos tarptautinių sutarčių nustatytų teisių.
 
-11. Tarnybos orlaiviams, laivams, saugantiems valstybės sieną, suteikiama teisė nemokamai:
-
-1) naudotis Lietuvos Respublikos oro erdve ir vandenimis, jūrų, upių uostais, oro uostais, aerodromais;
-
-2) gauti meteorologinę, hidrografinę, navigacinę bei kitą informaciją, reikalingą laivų navigacijai, orlaivių skrydžiams.
+11. Neteko galios nuo 2005-01-01
+Straipsnio dalies naikinimas:
+Nr. IX-2575, 2004-11-11, Žin. 2004, Nr. 171-6321 (2004-11-26), i. k. 1041010ISTA0IX-2575
+ 
 
 12. Šio straipsnio 1 dalies 4 punkte, 2–4 ir 6 dalyse nurodytos priemonės negali būti taikomos užsienio valstybių karo laivams ar laivams, naudojamiems nekomerciniais tikslais.
  
@@ -603,4 +602,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010ISTA0IX-1420
 Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymo 2, 6, 20 ir 21 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2575, 2004-11-11, Žin., 2004, Nr. 171-6321 (2004-11-26), i. k. 1041010ISTA0IX-2575
+Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymo 21 straipsnio 11 dalies pripažinimo netekusia galios įstatymas
 
