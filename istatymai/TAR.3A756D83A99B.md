@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 Redagavo: Ramunė
-Lūžaitė (1997.07.11)
+Lūžaitė (1998.03.13)
  
 Įstatymas
 paskelbtas: Žin., 1995, Nr.104-2322
@@ -39,46 +39,47 @@ LIETUVOS
 RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 2.
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. VIII-322,
-97.06.26, Žin., 1997, Nr.66-1601 (97.07.11)
-LIETUVOS RESPUBLIKOS
-BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-322, 97.06.26, Žin., 1997, Nr.66-1601 (97.07.11)
+LIETUVOS
+RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+VIII-639, 98.02.24, Žin., 1998, Nr.25-635 (98.03.13)
+LIETUVOS
+RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga *** 
  
- 
-                                     
 LIETUVOS RESPUBLIKOS
-                                   
 BIUDŽETINIŲ ĮSTAIGŲ
-                                        
 ĮSTATYMAS
  
-                                
 1995 m. gruodžio 5 d. Nr.I-1113
-                  
-                          Vilnius 
-                
-             
+Vilnius 
+ 
  
      1
 straipsnis. Įstatymo paskirtis
  
      Šis
 įstatymas nustato iš Lietuvos valstybės biudžeto ir savivaldybių biudžetų lėšų
-visiškai arba iš dalies išlaikomų įstaigų steigimą,  reorganizavimą ir  likvidavimą, 
-valdymą, finansavimą ir kitus su jų veikla susijusius pagrindus.
+visiškai arba iš dalies išlaikomų įstaigų steigimą,  reorganizavimą ir 
+likvidavimą,  valdymą, finansavimą ir kitus su jų veikla susijusius pagrindus.
  
      2
 straipsnis. Biudžetinė įstaiga
  
      Biudžetinė 
 įstaiga  yra  valstybės  arba  savivaldybės institucija, steigiama įstatymų
-nustatyta tvarka, visiškai arba iš dalies išlaikoma iš biudžeto ir taip
-įvardyta steigimo akte bei nuostatuose.
+nustatyta tvarka, visiškai arba iš dalies išlaikoma iš biudžeto ir taip įvardyta
+steigimo akte bei nuostatuose.
  
      3
 straipsnis. Biudžetinių įstaigų steigimas
@@ -100,13 +101,12 @@ pakeitimai:
 Nr.
 VIII-322, 97.06.26, Žin., 1997, Nr.66-1601 (97.07.11)
  
- 
      4
 straipsnis. Biudžetinių įstaigų reorganizavimas ir likvidavimas
  
      Biudžetines
-įstaigas  reorganizuoja arba  likviduoja jų steigėjai Lietuvos Respublikos
-Vyriausybės nustatyta tvarka, jeigu įstatymai nenumato kitaip.
+įstaigas  reorganizuoja arba  likviduoja jų steigėjai Lietuvos Respublikos Vyriausybės
+nustatyta tvarka, jeigu įstatymai nenumato kitaip.
  
      5
 straipsnis. Biudžetinių įstaigų nuostatai
@@ -176,8 +176,8 @@ etatų normatyvus, materialinių vertybių atsargų,  inventoriaus,  mitybos,�
 medikamentų  finansinius normatyvus ir, suderinę su Finansų ministerija, juos
 tvirtinti bei taikyti;
      prižiūrėti
-apskaitos tvarkymą, kontroliuoti įsiskolinimus bei imtis visų priemonių jiems išvengti
-ir analizuoti pavaldžių įstaigų apyskaitas;
+apskaitos tvarkymą, kontroliuoti įsiskolinimus bei imtis visų priemonių jiems
+išvengti ir analizuoti pavaldžių įstaigų apyskaitas;
      garantuoti
 pavaldžių  įstaigų bei  savo finansinių  ir statistinių ataskaitų teisingumą.
      Iš
@@ -193,20 +193,21 @@ pakeitimai:
 Nr.
 VIII-127, 97.02.25, Žin., 1997, Nr.20-449 (97.03.07) 
  
- 
      9
 straipsnis. Biudžetinių įstaigų išlaidos
  
      Išlaidų
 sandarą nustato asignavimų valdytojai, neviršydami jiems patvirtintų  bendrųjų
-asignavimų,  tarp jų  -  darbo užmokesčio, paprastųjų ir nepaprastųjų išlaidų.
+asignavimų,  tarp jų  -  darbo užmokesčio, paprastųjų ir nepaprastųjų išlaidų.
      Biudžetinių
 įstaigų darbuotojų tarnybiniai atlyginimai ir darbo apmokėjimo  sąlygos
 tvirtinamos  Lietuvos  Respublikos įstatymų ir Vyriausybės nutarimų nustatyta
 tvarka.
  
      10
-straipsnis. Biudžetinių įstaigų buhalterinė apskaita ir atskaitomybė
+straipsnis. Biudžetinių įstaigų buhalterinė apskaita ir 
+                   
+atskaitomybė
  
      Biudžetinės
 įstaigos buhalterinę apskaitą organizuoja ir atskaitomybę tvarko Finansų
@@ -226,10 +227,15 @@ institucijos.
      12
 straipsnis. Materialinių vertybių nurašymas ir realizavimas
  
-     Biudžetinės
-įstaigos susidėvėjusias ar joms nereikalingas materialines vertybes nurašo ar
-realizuoja Lietuvos Respublikos Vyriausybės nustatyta  tvarka ir  gautas
-pajamas perveda į atitinkamą biudžetą.
+    
+Biudžetinės įstaigos susidėvėjusias ar joms nereikalingas materialines vertybes
+nurašo ar realizuoja ir gautas pajamas naudoja Lietuvos Respublikos įstatymų ar
+Vyriausybės nustatyta tvarka.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+VIII-639, 98.02.24, Žin., 1998, Nr.25-635 (98.03.13)
  
      13
 straipsnis. Biudžetinių įstaigų registravimas
@@ -250,4 +256,4 @@ straipsnis. Įstatymo įsigaliojimas
  
  
 RESPUBLIKOS
-PREZIDENTAS            ALGIRDAS BRAZAUSKAS
+PREZIDENTAS                               ALGIRDAS BRAZAUSKAS
