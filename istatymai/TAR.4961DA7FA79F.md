@@ -321,7 +321,8 @@ draudimo sutartį gali būti ginčijamas teismo tvarka.
 sumos, draudimo įmokos ir dydžiai
 1. Transporto priemonių savininkų ir valdytojų
 civilinės atsakomybės privalomojo draudimo suma yra 30 000 litų asmeniui ir 30
-000 litų turtui.
+000 litų turtui arba 500 000 eurų asmeniui ir 
+100 000 eurų turtui.
 2. Draudimo įmoką nustato draudikas vadovaudamasis
 Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo
 draudimo taisyklėmis ir atsižvelgdamas į transporto priemonės tipą, variklio
@@ -331,17 +332,21 @@ transporto priemonės), jos naudojimo rūšį (naudojamos komerciniams ir
 nekomerciniams vežimams), draudimo sutarties laikotarpį, taip pat
 atsižvelgdamas į šio įstatymo nustatytas bazines draudimo įmokas ir
 koeficientus.
+Straipsnio
+pakeitimai:
+Nr. IX-2043,
+2004-03-05, Žin., 2004, Nr. 39-1273 (2004-03-13)
  
 14
 straipsnis. Bazinės draudimo įmokos ir koeficientai
 1. Bazinės draudimo įmokos dydis lengviesiems
 automobiliams ir jų pagrindu sukonstruotoms transporto priemonėms, įskaitant
 mikroautobusus, kuriuose be vairuotojo vietos yra ne daugiau kaip 8 sėdimosios
-vietos, yra ne daugiau kaip 220 litų per metus. Sudarant konkrečią
-draudimo sutartį, draudimo įmokos dydis, atsižvelgiant į šio tipo transporto
-priemonės variklio cilindrų darbinį tūrį, negali viršyti bazinės draudimo
-įmokos daugiau kaip 1,5 karto, o jeigu transporto priemonė naudojama
-komerciniams vežimams – daugiau kaip 2 kartus.
+vietos, yra ne daugiau kaip 220 litų per metus. Sudarant konkrečią draudimo
+sutartį, draudimo įmokos dydis, atsižvelgiant į šio tipo transporto priemonės
+variklio cilindrų darbinį tūrį, negali viršyti bazinės draudimo įmokos daugiau
+kaip 1,5 karto, o jeigu transporto priemonė naudojama komerciniams vežimams –
+daugiau kaip 2 kartus.
 2. Bazinės draudimo įmokos dydis krovininiams
 automobiliams ir jų pagrindu sukonstruotoms transporto priemonėms yra ne
 daugiau kaip 375 litai per metus. Sudarant konkrečią draudimo sutartį,
@@ -412,10 +417,10 @@ pensininkams.
 transporto priemonių savininko ir valdytojo civilinės atsakomybės privalomojo
 draudimo tarptautinę kortelę (žalią kortą), draudimo įmoka mažinama 50
 procentų.
-4. Draudimo
-įmokos sumažinimo tvarka, atsižvelgiant į draudėjo rizikos grupę, nustatoma
-Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo
-draudimo taisyklėse. Mažinant draudimo įmoką, atsižvelgiant į šiame straipsnyje
+4. Draudimo įmokos
+sumažinimo tvarka, atsižvelgiant į draudėjo rizikos grupę, nustatoma Transporto
+priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo
+taisyklėse. Mažinant draudimo įmoką, atsižvelgiant į šiame straipsnyje
 nustatytus dydžius, draudėjo sumokėta draudimo įmoka negali būti mažesnė kaip
 50 procentų draudimo liudijime (polise) nurodytos transporto priemonės draudimo
 įmokos, nustatytos vadovaujantis šios įstatymo 14 straipsnio nuostatomis.
@@ -439,7 +444,8 @@ nuo narkotinių ar psichotropinių medžiagų.
 3.
 Draudimo įmoka didinama iki 300 procentų, jeigu per paskutinius kalendorinius
 metus transporto priemonės savininkas arba teisėtas valdytojas, būdamas
-neblaivus ar apsvaigęs nuo narkotinių ar psichotropinių medžiagų, padarė autoavariją.
+neblaivus ar apsvaigęs nuo narkotinių ar psichotropinių medžiagų, padarė
+autoavariją.
 4.
 Draudimo įmokos didinimo tvarka, atsižvelgiant į draudėjo rizikos grupę,
 nustatoma Transporto priemonių savininkų ir valdytojų civilinės atsakomybės
@@ -452,12 +458,12 @@ IR DRAUDIMO IŠMOKOS MOKĖJIMAS
  
 17
 straipsnis. Pranešimas apie autoavariją
-1. Įvykus
-autoavarijai, su ja susijęs transporto priemonės vairuotojas (eismo
-dalyvis) privalo pranešti policijai ir pateikti autoavarijos dalyviams
-draudimo liudijimus (polisus). Autoavarijoje dalyvavęs vairuotojas taip pat
-privalo per 3 darbo dienas raštu pranešti draudikui, apdraudusiam jo civilinę
-atsakomybę, apie autoavariją, kurioje dalyvavo. 
+1. Įvykus autoavarijai,
+su ja susijęs transporto priemonės vairuotojas (eismo dalyvis) privalo
+pranešti policijai ir pateikti autoavarijos dalyviams draudimo
+liudijimus (polisus). Autoavarijoje dalyvavęs vairuotojas taip pat privalo per
+3 darbo dienas raštu pranešti draudikui, apdraudusiam jo civilinę atsakomybę,
+apie autoavariją, kurioje dalyvavo. 
 2. Jei
 atsakingas už autoavarijos metu padarytą žalą asmuo yra nežinomas, nėra sudaręs
 draudimo sutarties ar autoavarijos vietoje negalima nustatyti, ar draudimo
@@ -481,9 +487,9 @@ suteikti galimybę draudikui ar Biuro atstovui apžiūrėti sugadintą ar sunaik
 turtą bei leisti susipažinti su dokumentais, galinčiais patvirtinti
 autoavarijos metu padarytos žalos faktą ir dydį. 
 2. Draudikas ar Biuras nedelsdami ir ne vėliau kaip
-per 3 darbo dienas nuo nukentėjusio autoavarijoje asmens rašytinio pranešimo apie
-autoavariją gavimo dienos privalo nusiųsti ekspertą apžiūrėti sugadinto arba
-sunaikinto turto.
+per 3 darbo dienas nuo nukentėjusio autoavarijoje asmens rašytinio pranešimo
+apie autoavariją gavimo dienos privalo nusiųsti ekspertą apžiūrėti sugadinto
+arba sunaikinto turto.
 3. Nukentėjęs autoavarijoje asmuo pats ar per
 atstovą privalo pateikti draudikui, apdraudusiam atsakingo už autoavarijos metu
 padarytą žalą asmens civilinę atsakomybę, arba šio įstatymo 20 straipsnio 2 ir
@@ -493,26 +499,26 @@ patvirtinančius, kokia žala jam buvo padaryta dėl įvykusios autoavarijos.
 metu padarytos žalos dydį nustato draudikas, apdraudęs atsakingo už
 autoavarijos metu padarytą žalą asmens civilinę atsakomybę, arba šio įstatymo
 20 straipsnio 2 ir 3 dalyse nurodytais atvejais – Biuras, vadovaudamasis
-ekspertų ir (ar) turto vertintojų išvadomis bei dokumentais, patvirtinančiais autoavarijos
-metu padarytos žalos faktą ir dydį. Kai automobilį remontuoti ekonomiškai
-tikslinga, nustatant autoavarijos metu padarytos žalos dydį remontuotinas
-automobilis (jo detalės, dalys, mazgai ir panašiai) dėl nusidėvėjimo
-nenuvertinamas. Jeigu draudiko ar Biuro ekspertas neatvyko per šio straipsnio 2
-dalyje nustatytą terminą, nukentėjęs autoavarijoje asmuo turi teisę pasamdyti
-turto vertintoją, kad šis nustatytų turtui padarytos žalos dydį. Tokiu atveju
-draudikas ar Biuras privalo atlyginti žalą ir atlyginti nukentėjusio asmens
-turėtas turto vertintojo samdymo išlaidas. Jeigu yra pateiktas prašymas
-atlyginti žalą asmeniui, draudikas turi teisę siųsti nukentėjusį autoavarijos
-metu asmenį atlikti medicininę apžiūrą arba vadovautis Valstybinės medicininės
-socialinės ekspertizės komisijos ar kitų įstaigų bei įmonių, turinčių teisę
-nustatyti žalos sveikatai dydį, išvadomis. Nukentėjęs autoavarijos metu asmuo
-turi teisę papildomai savo iniciatyva ir savo lėšomis kreiptis į turto
-vertintoją, kad šis nustatytų turtui padarytos žalos dydį.
+ekspertų ir (ar) turto vertintojų išvadomis bei dokumentais, patvirtinančiais
+autoavarijos metu padarytos žalos faktą ir dydį. Kai automobilį remontuoti
+ekonomiškai tikslinga, nustatant autoavarijos metu padarytos žalos dydį
+remontuotinas automobilis (jo detalės, dalys, mazgai ir panašiai) dėl
+nusidėvėjimo nenuvertinamas. Jeigu draudiko ar Biuro ekspertas neatvyko per šio
+straipsnio 2 dalyje nustatytą terminą, nukentėjęs autoavarijoje asmuo turi
+teisę pasamdyti turto vertintoją, kad šis nustatytų turtui padarytos žalos
+dydį. Tokiu atveju draudikas ar Biuras privalo atlyginti žalą ir atlyginti
+nukentėjusio asmens turėtas turto vertintojo samdymo išlaidas. Jeigu yra
+pateiktas prašymas atlyginti žalą asmeniui, draudikas turi teisę siųsti
+nukentėjusį autoavarijos metu asmenį atlikti medicininę apžiūrą arba vadovautis
+Valstybinės medicininės socialinės ekspertizės komisijos ar kitų įstaigų bei įmonių,
+turinčių teisę nustatyti žalos sveikatai dydį, išvadomis. Nukentėjęs
+autoavarijos metu asmuo turi teisę papildomai savo iniciatyva ir savo lėšomis
+kreiptis į turto vertintoją, kad šis nustatytų turtui padarytos žalos dydį.
 5. Draudimo išmokos dydį pagal nustatytos žalos
 dydį, vadovaudamiesi Lietuvos Respublikos įstatymais ir Transporto priemonių
 savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo taisyklėmis,
-nustato draudikas arba šio įstatymo 20 straipsnio 2 ir 3 dalyse nurodytais
-atvejais – Biuras. 
+nustato draudikas arba šio įstatymo 20 straipsnio 2 ir 3 dalyse nurodytais atvejais
+– Biuras. 
 6. Ginčai dėl atsisakymo mokėti draudimo išmoką,
 draudimo išmokos dydžio ir draudimo išmokos nesumokėjimo per Transporto
 priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo
@@ -541,9 +547,9 @@ civilinę atsakomybę, arba šio straipsnio 2 ir 3 dalyse nurodytais atvejais �
 Biuras, mokėdami draudimo išmoką, o jos mokėjimo tvarką ir terminus nustato
 Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo
 draudimo taisyklės. 
-2. Biuras moka draudimo išmokas nukentėjusiems
-autoavarijoje asmenims tais atvejais, jei atsakingas už autoavarijos metu
-padarytą žalą transporto priemonės vairuotojas: 
+2. Biuras moka draudimo išmokas
+nukentėjusiems autoavarijoje asmenims tais atvejais, jei atsakingas už
+autoavarijos metu padarytą žalą transporto priemonės vairuotojas: 
 1) nebuvo
 apsidraudęs šio įstatymo nustatytu transporto priemonės savininkų ir valdytojų
 civilinės atsakomybės privalomuoju draudimu arba nebuvo apdraustas šiuo
@@ -607,9 +613,9 @@ varžybose, lenktynėse ar treniruotėse;
 dėl karo veiksmų, neramumų šalies viduje arba dėl nepaprastosios padėties
 paskelbimo, taip pat dėl teroristinių išpuolių, branduolinės energijos
 poveikio; 
-4) žala dėl
-transporto priemonės ir joje buvusių daiktų sugadinimo ar dingimo atsirado ne
-autoavarijos metu; 
+4) žala dėl transporto
+priemonės ir joje buvusių daiktų sugadinimo ar dingimo atsirado ne autoavarijos
+metu; 
 5) žala turtui
 padaryta nenustatytos transporto priemonės;
 6) žala padaryta atsakingam už
@@ -727,8 +733,8 @@ straipsnis. Biuro funkcijos
 transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomąjį
 draudimą vykdančių draudimo įmonių veiklą; 
 2) užtikrina
-transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo
-sistemos sukūrimą, šios sistemos funkcionavimą; 
+transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo
+draudimo sistemos sukūrimą, šios sistemos funkcionavimą; 
 3) moka draudimo
 išmokas šio įstatymo 20 straipsnio 2 ir 3 dalyse numatytais atvejais; 
 4) kaupia ir
@@ -811,16 +817,16 @@ teisių netenkama atšaukus leidimą vykdyti transporto priemonių savininkų ir
 Sustabdžius leidimą vykdyti transporto priemonių savininkų ir valdytojų
 civilinės atsakomybės privalomąjį draudimą, tam pačiam laikotarpiui sustabdoma
 teisė dalyvauti Biuro valdyme. Nustatytu laiku nepervedus šio įstatymo 34
-straipsnio 1 dalies 2 punkte nurodytų atskaitymų, narystė Biure sustabdoma vienam
-mėnesiui ir atnaujinama įvykdžius šią pareigą bei sumokėjus delspinigius už
-pavėluotą atskaitymų sumokėjimą. Narystė Biure sustabdoma Biuro įstatų
+straipsnio 1 dalies 2 punkte nurodytų atskaitymų, narystė Biure sustabdoma
+vienam mėnesiui ir atnaujinama įvykdžius šią pareigą bei sumokėjus delspinigius
+už pavėluotą atskaitymų sumokėjimą. Narystė Biure sustabdoma Biuro įstatų
 nustatyta tvarka. Jeigu atskaitymai nepervedami per vieną mėnesį nuo narystės
 Biure sustabdymo dienos, Biuras privalo apie tai pranešti Valstybinei draudimo
 priežiūros tarnybai prie Finansų ministerijos.
             7. Biuro
 narių, vykdančių šiame įstatyme nustatytas draudiko funkcijas, grynosios
-veiklos sąnaudos per finansinius metus negali viršyti 15 procentų bendros uždirbtų
-draudimo įmokų sumos. 
+veiklos sąnaudos per finansinius metus negali viršyti 15 procentų bendros
+uždirbtų draudimo įmokų sumos. 
             8. Biuro narių pelnas, gautas vykdant
 paprastąsias ir grupines transporto priemonių savininkų ir valdytojų civilinės
 atsakomybės privalomojo draudimo sutartis, negali viršyti 4 procentų per
@@ -850,14 +856,14 @@ yra Biuro narių visuotinis susirinkimas, Biuro valdyba ir Biuro administracija.
  
 31
 straipsnis. Biuro narių visuotinis susirinkimas
-1. Biuro narių visuotinis susirinkimas yra
-aukščiausiasis Biuro organas. Šis susirinkimas šaukiamas ir nutarimai priimami
-Biuro įstatuose nustatyta tvarka. Biuro narių eilinis visuotinis susirinkimas
-privalo būti šaukiamas ne rečiau kaip kas 3 mėnesiai. Biuro narių visuotiniame
-susirinkime patariamojo balso teise gali dalyvauti po vieną Finansų
-ministerijos, Valstybinės draudimo priežiūros tarnybos prie Finansų
-ministerijos bei Vartotojų teisių gynimo asociacijos atstovą. Susirinkimui
-pirmininkauja Biuro valdybos pirmininkas. 
+1. Biuro narių visuotinis susirinkimas yra aukščiausiasis
+Biuro organas. Šis susirinkimas šaukiamas ir nutarimai priimami Biuro įstatuose
+nustatyta tvarka. Biuro narių eilinis visuotinis susirinkimas privalo būti
+šaukiamas ne rečiau kaip kas 3 mėnesiai. Biuro narių visuotiniame susirinkime
+patariamojo balso teise gali dalyvauti po vieną Finansų ministerijos,
+Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos bei
+Vartotojų teisių gynimo asociacijos atstovą. Susirinkimui pirmininkauja Biuro
+valdybos pirmininkas. 
 2. Biuro narių
 visuotinio susirinkimo funkcijos:
 1) nustatyti
@@ -866,8 +872,8 @@ Biuro veiklos uždavinius;
 išsirinkti Biuro valdybą ir nustatyti jos funkcijas bei įgaliojimus;
 3) tvirtinti
 Biuro valdybos ataskaitas;
-4) tvirtinti metinę
-finansinę atskaitomybę;
+4) tvirtinti
+metinę finansinę atskaitomybę;
 5) priimti,
 keisti ir papildyti Biuro įstatus;
 6) atlikti kitas
@@ -909,9 +915,9 @@ nustatyta tvarka. Administracijos vadovas atlieka Asociacijų įstatyme ir Biuro
 įstatuose nustatytas funkcijas. Administracijos vadovas dalyvauja Biuro narių
 visuotiniame susirinkime ir Biuro valdybos posėdžiuose patariamojo balso teise.
 
-2. Administracijos
-vadovas ir darbuotojai įstatymų nustatyta tvarka privalo atlyginti Biurui
-nuostolius, padarytus dėl jų kaltės. 
+2.
+Administracijos vadovas ir darbuotojai įstatymų nustatyta tvarka privalo
+atlyginti Biurui nuostolius, padarytus dėl jų kaltės. 
  
 34
 straipsnis. Biuro pajamos
@@ -920,8 +926,8 @@ sudaro:
 1) stojamieji
 Biuro narių mokesčiai;
 2) Biuro narių
-atskaitymai nuo transporto priemonių savininkų ir valdytojų civilinės
-atsakomybės privalomojo draudimo pasirašytų draudimo įmokų; 
+atskaitymai nuo transporto priemonių savininkų ir valdytojų civilinės atsakomybės
+privalomojo draudimo pasirašytų draudimo įmokų; 
 3) delspinigiai
 už pavėluotą atskaitymų sumokėjimą;
 4) pajamos,
@@ -933,8 +939,8 @@ juridinių asmenų neatlygintinai perduotos lėšos ir turtas;
 7) kitos
 Asociacijų įstatyme nustatytos lėšos.
 2. Biuras pagal savo prievoles nukentėjusiems
-autoavarijos metu asmenims atsako Biuro iždo lėšomis. Biuras pagal kitas prievoles
-atsako savo turtu, išskyrus Biuro ižde esančias lėšas.
+autoavarijos metu asmenims atsako Biuro iždo lėšomis. Biuras pagal kitas
+prievoles atsako savo turtu, išskyrus Biuro ižde esančias lėšas.
 3. Stojamojo Biuro narės mokesčio dydį, jo mokėjimo
 terminus ir tvarką nustato Finansų ministerija. 
 4. Biuro narių atskaitymai nuo transporto priemonių
@@ -1000,8 +1006,9 @@ civilinės atsakomybės privalomojo draudimo pasirašytų draudimo įmokų;
 2) delspinigių
 už pavėluotą šio įstatymo 34 straipsnio 1 dalies 2 punkte nurodytų atskaitymų
 sumokėjimą; 
-3) fizinių ir juridinių
-asmenų neatlygintinai perduotų lėšų ir turto, skirtų Biuro iždui papildyti; 
+3) fizinių ir
+juridinių asmenų neatlygintinai perduotų lėšų ir turto, skirtų Biuro iždui
+papildyti; 
 4) pajamų, gautų
 investavus Biuro lėšas šio įstatymo 38 straipsnio nustatyta tvarka; 
 5) atgręžtinio
@@ -1019,8 +1026,8 @@ valdyba.
 6. Biuro iždo lėšos turi būti apskaitomos atskiroje
 sąskaitoje.
  
-38 straipsnis.
-Biuro iždo lėšų investavimas
+38
+straipsnis. Biuro iždo lėšų investavimas
 Biuro iždo
 laisvos lėšos turi būti investuojamos Vyriausybės arba jos įgaliotos
 institucijos nustatyta tvarka ir dydžiais. 
@@ -1122,15 +1129,31 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-1399,
-2003-03-25, Žin., 2003, Nr. 34-1420 (2003-04-09)
+Nr. IX-1399, 2003-03-25,
+Žin., 2003, Nr. 34-1420 (2003-04-09)
 TRANSPORTO PRIEMONIŲ SAVININKŲ IR
 VALDYTOJŲ CIVILINĖS ATSAKOMYBĖS PRIVALOMOJO DRAUDIMO ĮSTATYMO 10, 14, 15, 18
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-2043,
+2004-03-05, Žin., 2004, Nr. 39-1273 (2004-03-13)
+TRANSPORTO PRIEMONIŲ SAVININKŲ IR
+VALDYTOJŲ CIVILINĖS ATSAKOMYBĖS PRIVALOMOJO DRAUDIMO ĮSTATYMO 13 STRAIPSNIO
+PAPILDYMO ĮSTATYMAS
+Įsigaliojus šiam Įstatymui, draudikas privalo sudaryti draudimo sutartį
+pagal draudėjo pasirinktas draudimo sumas.
+Įstatyme nurodyti dydžiai eurais
+yra išreiškiami litais pagal Lietuvos banko skelbiamą oficialų euro ir lito
+santykį.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė
-(2003-04-10)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2004-03-15)
+                 
+autrap@lrs.lt
