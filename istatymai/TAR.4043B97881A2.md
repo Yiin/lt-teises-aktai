@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4043B97881A2"
 
 # Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2001-07-25 iki 2003-04-30
+Suvestinė redakcija nuo 2003-05-01 iki 2005-07-13
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1290, i. k. 0951010ISTA000I-924
  
@@ -435,7 +435,9 @@ VIII SKYRIUS. ASMENŲ, NUTEISTŲ LAISVĖS ATĖMIMU IR SUSIRGUSIŲ PSICHIKOS LIGA
 
 
 
-IX SKYRIUS. PSICHIKOS LIGONIŲ, PADARIUSIŲ VISUOMENEI PAVOJINGĄ VEIKĄ (NUSIKALTIMĄ), PSICHIKOS SVEIKATOS PRIEŽIŪRA
+IX SKYRIUS. PSICHIKOS LIGONIŲ, PADARIUSIŲ VISUOMENEI PAVOJINGĄ VEIKĄ (NUSIKALSTAMĄ VEIKĄ), PSICHIKOS SVEIKATOS PRIEŽIŪRA 
+Pakeistas skyriaus pavadinimas:
+Nr. IX-1444, 2003-04-03, Žin., 2003, Nr. 38-1689 (2003-04-24), i. k. 1031010ISTA0IX-1444
  
 
 
@@ -551,3 +553,8 @@ Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo papildymo IX(1) 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
 Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 1, 4, 14, 15, 16, 17, 19, 25, 28, 29, 47 straipsnių bei V skyriaus pakeitimo ir X skyriaus pripažinimo netekusiu galios įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1444, 2003-04-03, Žin., 2003, Nr. 38-1689 (2003-04-24), i. k. 1031010ISTA0IX-1444
+Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo IX skyriaus pavadinimo pakeitimo įstatymas
