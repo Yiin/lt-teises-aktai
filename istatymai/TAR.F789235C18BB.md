@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
+Suvestinė redakcija nuo 2003-10-31 iki 2006-12-27
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
+ 
 LIETUVOS RESPUBLIKOS
 VIDAUS KONTROLĖS IR VIDAUS AUDITO
 Į S T A T Y M A S
@@ -284,7 +288,10 @@ VIDAUS AUDITAS
 6 straipsnis. Vidaus audito tarnybos steigimas
 
 
-1. Vidaus audito tarnybos turi būti įsteigtos Respublikos Prezidento institucijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje, ministerijose, apskričių viršininkų ir savivaldybių administracijose. 
+1. Vidaus audito tarnybos turi būti įsteigtos Respublikos Prezidento institucijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje, ministerijose ir apskričių viršininkų administracijose. Savivaldybėse turi būti įsteigtos centralizuotos vidaus audito tarnybos. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010ISTA0IX-1766
+ 
 
 
 
@@ -636,7 +643,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-3) šio Įstatymo 6 straipsnio 1, 2 ir 4 dalių nuostatos dėl vidaus audito tarnybos įsteigimo savivaldybių administracijose, joms pavaldžiuose ir jų valdymo sričiai priskirtuose viešuosiuose juridiniuose asmenyse ir 10 straipsnio 7 punkto nuostata dėl savivaldybių administracijos vadovo atsakomybės už vidaus audito tarnybos įsteigimą viešajame juridiniame asmenyje ir jos veikimą taikomos nuo 2004 m. sausio 1 d.;
+3) šio Įstatymo 6 straipsnio 1 dalies nuostata dėl centralizuotų vidaus audito tarnybų įsteigimo savivaldybėse ir 10 straipsnio 7 punkto nuostata dėl savivaldybės administracijos direktoriaus atsakomybės už centralizuotos vidaus audito tarnybos įsteigimą savivaldybėje ir jos veikimą taikomos nuo 2004 m. sausio 1 d.; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010ISTA0IX-1766
+ 
 
 
 
@@ -662,3 +672,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010ISTA0IX-1766
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 ir 11 straipsnių pakeitimo įstatymas
