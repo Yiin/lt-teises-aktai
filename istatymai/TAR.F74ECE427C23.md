@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
-Suvestinė redakcija nuo 2004-05-14 iki 2004-11-25
+Suvestinė redakcija nuo 2004-11-26 iki 2006-12-27
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
  
@@ -379,7 +379,38 @@ Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA
 
 
 
-4. Sprendimas dėl deklaravimo duomenų taisymo, keitimo ir panaikinimo gali būti skundžiamas gyvenamosios vietos deklaravimo duomenų valdytojui arba teismui. 
+4. Deklaravimo įstaigos sprendimu deklaravimo duomenys taip pat naikinami, kai:
+
+
+1) panaikinamas užsieniečiui išduotas leidimas gyventi Lietuvos Respublikoje;
+
+
+
+
+2) atsisakoma išduoti ar pakeisti užsieniečiui leidimą gyventi Lietuvos Respublikoje;
+
+
+
+
+3) pasibaigia užsieniečiui išduoto leidimo laikinai gyventi Lietuvos Respublikoje galiojimo laikas; 
+
+
+
+
+4) asmuo netenka Lietuvos Respublikos pilietybės, Lietuvos Respublikos pilietybės suteikimo aktas ar Lietuvos Respublikos pilietybės įgijimas pripažįstamas negaliojančiu arba pagal Lietuvos Respublikos pilietybės įstatymo įgyvendinimo įstatymo (Žin., 2002, Nr. 95-4088) 4 straipsnio 5 dalį priimamas sprendimas dėl asmens Lietuvos Respublikos pilietybės, pagal kurį asmuo nelaikomas Lietuvos Respublikos piliečiu, jeigu tas asmuo per 3 mėnesius nuo Lietuvos Respublikos pilietybės netekimo, Lietuvos Respublikos pilietybės suteikimo akto ar Lietuvos Respublikos pilietybės įgijimo pripažinimo negaliojančiu arba nuo sprendimo, kad asmuo nelaikomas Lietuvos Respublikos piliečiu, priėmimo dienos Lietuvos Respublikos teisės aktų nustatyta tvarka nepateikia prašymo išduoti leidimą gyventi Lietuvos Respublikoje. 
+
+
+Papildyta straipsnio dalimi:
+Nr. IX-2552, 2004-11-09, Žin., 2004, Nr. 171-6306 (2004-11-26), i. k. 1041010ISTA0IX-2552
+ 
+
+
+
+
+5. Sprendimas dėl deklaravimo duomenų taisymo, keitimo ir panaikinimo gali būti skundžiamas gyvenamosios vietos deklaravimo duomenų valdytojui arba teismui. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. IX-2552, 2004-11-09, Žin., 2004, Nr. 171-6306 (2004-11-26), i. k. 1041010ISTA0IX-2552
+ 
 
 
 Straipsnio pakeitimai:
@@ -571,3 +602,8 @@ Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 4, 6, 7, 8, 9,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 3, 4 ir 11 straipsnių papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2552, 2004-11-09, Žin., 2004, Nr. 171-6306 (2004-11-26), i. k. 1041010ISTA0IX-2552
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 8 straipsnio papildymo ir pakeitimo įstatymas
