@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AAC3F61596EE"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2003-05-14 iki 2003-06-03
+Suvestinė redakcija nuo 2003-06-04 iki 2009-11-27
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2633, i. k. 1021010ISTA00IX-965
  
@@ -562,7 +562,10 @@ Operatyvinės veiklos subjektų operatyvinius veiksmus koordinuoja ir jų teisė
 
 23 straipsnis. Parlamentinė priežiūra
 
-1. Seimo statuto nustatyta tvarka Seimo nutarimu, išlaikant frakcijų proporcinio atstovavimo principą, iš Seimo Nacionalinio saugumo ir gynybos, Teisės ir teisėtvarkos, Žmogaus teisių, Biudžeto ir finansų komitetų narių, turinčių leidimus susipažinti su valstybės paslaptį sudarančia informacija, sudaroma Operatyvinės veiklos parlamentinės kontrolės komisija (toliau – Komisija). Ši Komisija yra nuolatinė.
+1. Seimo statuto nustatyta tvarka Seimo nutarimu, išlaikant frakcijų proporcinio atstovavimo principą, sudaroma Operatyvinės veiklos parlamentinės kontrolės komisija (toliau – Komisija). Ši Komisija sudaroma iš 7 narių ir yra nuolatinė. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1563, 2003-05-20, Žin., 2003, Nr. 54-2369 (2003-06-04), i. k. 1031010ISTA0IX-1563
+ 
 
 2. Komisijos uždaviniai:
 
@@ -578,7 +581,10 @@ Operatyvinės veiklos subjektų operatyvinius veiksmus koordinuoja ir jų teisė
 
 3. Komisijos teisės:
 
-1) išklausyti operatyvinės veiklos subjektų, jų pagrindinių institucijų, ministerijų ir kitų valstybės institucijų informacijas bei pranešimus, kaip vykdomas Operatyvinės veiklos įstatymas;
+1) išklausyti operatyvinės veiklos subjektų, jų pagrindinių institucijų, prokurorų, ministerijų ir kitų valstybės institucijų informacijas bei pranešimus, kaip vykdomas Operatyvinės veiklos įstatymas;
+Straipsnio punkto pakeitimai:
+Nr. IX-1563, 2003-05-20, Žin., 2003, Nr. 54-2369 (2003-06-04), i. k. 1031010ISTA0IX-1563
+ 
 
 2) savo darbe pasitelkti profesionalius ekspertus, turinčius leidimus susipažinti su valstybės paslaptį sudarančia informacija;
 
@@ -667,4 +673,9 @@ Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 7, 10, 23 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
 Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 5, 9, 11, 17, 19 straipsnių pakeitimo ir 25 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1563, 2003-05-20, Žin., 2003, Nr. 54-2369 (2003-06-04), i. k. 1031010ISTA0IX-1563
+Lietuvos Respublikos operatyvinės veiklos įstatymo 23 straipsnio pakeitimo įstatymas
 
