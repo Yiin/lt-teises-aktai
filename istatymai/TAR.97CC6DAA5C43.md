@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97CC6DAA5C43"
 
 # Lietuvos Respublikos laikinasis valiutos fondų ir atskaitymų konvertuojama valiuta įstatymas
 
-Suvestinė redakcija nuo 1991-12-18 iki 1992-02-27
+Įstatymas netenka galios 1992-10-10:
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2933, 1992-10-06, Lietuvos aidas, 1992, Nr. 198-0 (1992-10-09); Žin., 1992, Nr. 30-919 (1992-10-31), i. k. 0921010ISTA00I-2933
+Dėl Lietuvos Respublikos laikinojo valiutos fondų ir atskaitymų konvertuojama valiuta įstatymo galiojimo termino
+ 
+Suvestinė redakcija nuo 1992-02-28 iki 1992-10-09
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.10-265, i. k. 0911010ISTA00I-1159
  
@@ -56,7 +61,10 @@ Lietuvos Respublikos valiutos fondų sistemą sudaro Lietuvos valstybės valiuto
 
 1. Valiutos fondo įplaukas sudaro juridinių ir fizinių asmenų pelno (pajamų) mokesčiai, privaloma tvarka valstybei parduodamos valiutos įplaukos, akcizo mokesčiai ir kitos rinkliavos konvertuojama valiuta.
 
-2. Valstybinės ir valstybinės akcinės įmonės 1991 metais privalo Lietuvos Respublikos Vyriausybės nustatyta tvarka valstybei (valiutos fondui) atskaityti 20 procentų valiutinių įplaukų, o įmonės, už valiutą įsigyjančios prekes pardavimui, 20 procentų valiutos įplaukų, viršijančių valiutos išlaidas toms prekėms įsigyti. Ši tvarka galioja taip pat valiutinėms įplaukoms, gautoms kitose įmonėse realizavus valstybinėse ir valstybinėse akcinėse įmonėse pagamintą produkciją. Atskaitymai netaikomi nuo tos įplaukų (pajamų) dalies, kuri tenka užsienio fiziniams ir juridiniams asmenims. Specifinės paskirties valstybinėms įmonėms gali būti taikoma kita konvertuojamos valiutos pardavimo fondui tvarka, kuri nustatoma steigėjo patvirtintais įstatais.
+2. Valstybinės ir valstybinės akcinės įmonės 1991 metais ir 1992 metų pirmame ketvirtyje privalo Lietuvos Respublikos Vyriausybės nustatyta tvarka valstybei (valiutos fondui) atskaityti 20 procentų valiutinių įplaukų, o įmonės, už valiutą įsigyjančios prekes pardavimui, 20 procentų valiutos įplaukų, viršijančių valiutos išlaidas toms prekėms įsigyti. Ši tvarka galioja taip pat valiutinėms įplaukoms, gautoms kitose įmonėse realizavus valstybinėse ir valstybinėse akcinėse įmonėse pagamintą produkciją. Atskaitymai netaikomi nuo tos įplaukų (pajamų) dalies, kuri tenka užsienio fiziniams ir juridiniams asmenims. Specifinės paskirties valstybinėms įmonėms gali būti taikoma kita konvertuojamos valiutos pardavimo fondui tvarka, kuri nustatoma steigėjo patvirtintais įstatais.
+Straipsnio dalies pakeitimai:
+Nr. I-2342, 1992-02-20, Lietuvos aidas, 1992, Nr. 40-0 (1992-02-27); Žin., 1992, Nr. 7-163 (1992-03-10), i. k. 0921010ISTA00I-2342
+ 
 
 3. Lietuvos Respublikos įmonės, gaunančios įplaukas vidaus pinigais ir konvertuojama valiuta, pelno (pajamų) mokestį moka rubliais (litais) ir konvertuojama valiuta proporcingai įmonės įplaukoms rubliais (litais) ir konvertuojama valiuta. Nustatant šias proporcijas, konvertuojama valiuta gautos įmonių įplaukos ir išlaidos perskaičiuojamos rubliais (litais) pagal oficialų rinkos kursą, taip pat apskaičiuojamas ir pelnas.
 Įmonėms, užsiimančioms komercine ūkine veikla, kuriose įplaukos už produkciją, įsigyjamą ir eksportuojamą už konvertuojamą valiutą, sudaro daugiau kaip pusę visų įplaukų, jų prašymu Lietuvos Respublikos Vyriausybė gali nustatyti pelno mokestį rubliais (litais) ir konvertuojama valiuta proporcingai įmonės pajamoms (įplaukos, viršijančios materialines bei joms prilygstančias sąnaudas) rubliais (litais) ir konvertuojama valiuta.
@@ -142,4 +150,9 @@ Pakeitimai:
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-2047, 1991-11-28, Lietuvos aidas, 1991, Nr. 251-0 (1991-12-17); Žin., 1991, Nr. 36-972 (1991-12-31), i. k. 0911010ISTA00I-2047
 Dėl Lietuvos Respublikos laikinojo valiutos fondų ir atskaitymų konvertuojama valiuta įstatymo papildymo
+ 
+2.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2342, 1992-02-20, Lietuvos aidas, 1992, Nr. 40-0 (1992-02-27); Žin., 1992, Nr. 7-163 (1992-03-10), i. k. 0921010ISTA00I-2342
+Dėl Lietuvos Respublikos laikinojo valiutos fondų ir atskaitymų konvertuojama valiuta įstatymo 3 straipsnio papildymo
 
