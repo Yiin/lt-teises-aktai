@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2001-10-26 iki 2004-02-13
+Suvestinė redakcija nuo 2004-01-01 iki 2004-02-13
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
  
@@ -377,63 +377,60 @@ Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA
 
 
 
-14 straipsnis. Įstatų ir bendrijos registravimas
+14 straipsnis. Bendrijos registravimas
 
 
-1. Įstatus ir bendriją registruoja vietos savivaldos vykdomoji institucija. Įstatams ir bendrijai registruoti pateikiami šie dokumentai:
+1. Bendrija registruojama juridinių asmenų registre. Bendrijai registruoti pateikiami šie dokumentai: 
 
 
-1) prašymas įregistruoti įstatus ir bendriją;
-
-
-
-
-2) steigiamojo susirinkimo protokolo nuorašas;
+1) prašymas įregistruoti bendriją; 
 
 
 
 
-3) dalyvavusių steigiamajame susirinkime namo patalpų savininkų pasirašytas sąrašas;
+2) steigiamojo susirinkimo protokolas; 
 
 
 
 
-4) įstatai.
+3) dalyvavusių steigiamajame susirinkime patalpų savininkų pasirašytas sąrašas; 
+
+
+
+
+4) bendrijos įstatai. 
 
 
 
 
 
 
-2. Prašymą įregistruoti bendriją ir įstatus bei steigiamojo susirinkimo protokolą pasirašo steigiamojo susirinkimo pirmininkas.
+2. Prašymą įregistruoti bendriją ir steigiamojo susirinkimo protokolą pasirašo bei bendrijos įstatus juridinių asmenų registrui pateikia steigiamojo susirinkimo pirmininkas. 
 
 
 
 
-3. Vietos savivaldos vykdomoji institucija per 30 dienų nuo dokumentų pateikimo dienos privalo įregistruoti bendriją ir įstatus arba raštu pranešti bendrijos steigėjams atsisakymo registruoti priežastis. Atsisakymas registruoti bendriją ir įstatus per 1 mėnesį gali būti apskųstas teismui įstatymų nustatyta tvarka.
+3. Juridinių asmenų registro tvarkytojas per 30 dienų nuo dokumentų pateikimo dienos privalo įregistruoti bendriją arba raštu pranešti bendrijos steigėjams atsisakymo įregistruoti priežastis. Atsisakymas įregistruoti bendriją gali būti apskųstas teismui įstatymų nustatyta tvarka. 
 
 
 
 
-4. Įregistravus bendriją ir įstatus, per 30 dienų šaukiamas bendrijos narių susirinkimas išrinkti bendrijos valdybą ir valdybos pirmininką (bendrijos pirmininką), taip pat revizijos komisiją (revizorių). 
+4. Per 30 dienų po bendrijos įregistravimo dienos sušaukiamas bendrijos narių susirinkimas, skirtas bendrijos valdybai ir valdybos pirmininkui (bendrijos pirmininkui), taip pat revizijos komisijai (revizoriui) išrinkti.
 
 
 
 
-5. Nuo įstatų ir bendrijos įregistravimo dienos bendrija įgyja juridinio asmens teises.
+5. Nuo bendrijos įregistravimo dienos bendrija įgyja juridinio asmens teises. 
 
 
 
 
-6. Pataisyti ir (ar) papildyti bendrijos įstatai įsigalioja nuo jų perregistravimo savivaldos vykdomojoje institucijoje dienos.
+6. Pataisyti ir (ar) papildyti bendrijos įstatai įsigalioja nuo jų perregistravimo juridinių asmenų registre dienos.
 
 
-
-
-7. Bendrijos ir įstatų registravimas vietos savivaldos vykdomojoje institucijoje neapmokestinamas.
+Straipsnio pakeitimai:
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
  
-
-
 
 
 
@@ -458,12 +455,18 @@ BENDRIJOS REORGANIZAVIMAS IR LIKVIDAVIMAS
 
 
 
-3. Vietos savivaldos vykdomoji institucija privalo įregistruoti atsiskyrusios bendrijos įstatus, jei pateikiami visi šio įstatymo 23 straipsnyje nustatyti dokumentai, ir pranešti bendrijai, nuo kurios atsiskyrė naujoji bendrija, kad ji turi per tris mėnesius perregistruoti bendrijos įstatus. 
+3. Juridinių asmenų registro tvarkytojas privalo įregistruoti atsiskyrusią bendriją, jei pateikiami visi šio įstatymo 14 straipsnyje numatyti dokumentai, ir pranešti bendrijai, nuo kurios atsiskyrė naujoji bendrija, kad ji turi Civilinio kodekso nustatyta tvarka perregistruoti bendrijos įstatus. 
+Straipsnio dalies pakeitimai:
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+ 
 
 
 
 
-4. Bendrija, nuo kurios atsiskyrė naujoji bendrija, per 1 mėnesį nuo atsiskyrusios bendrijos ir jos įstatų įregistravimo vietos savivaldos vykdomojoje institucijoje dienos privalo sudaryti turto ir lėšų padalijimo balansą, kitus bendrijos teisėms ir prievolėms perimti reikalingus dokumentus ir pateikti bendrijų valdyboms (bendrijų pirmininkams) tvirtinti. Ginčai dėl turto ir lėšų padalijimo sprendžiami įstatymo nustatyta tvarka.
+4. Bendrija, nuo kurios atsiskyrė naujoji bendrija, per 1 mėnesį nuo atsiskyrusios bendrijos įregistravimo juridinių asmenų registre dienos privalo sudaryti turto ir lėšų padalijimo balansą, kitus bendrijos teisėms ir prievolėms perimti reikalingus dokumentus ir pateikti bendrijų valdyboms (bendrijų pirmininkams) tvirtinti. Ginčai dėl turto ir lėšų padalijimo sprendžiami įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+ 
 
 
 
@@ -501,7 +504,7 @@ Nr. IX-532, 2001-10-09, Žin. 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA0
 18 straipsnis. Likviduotų bendrijų išregistravimas
 
 
-Likviduotai bendrijai išregistruoti likvidatorius vietos savivaldos vykdomajai institucijai turi pateikti:
+Likviduotai bendrijai išregistruoti likvidatorius juridinių asmenų registro tvarkytojui turi pateikti:
 
 
 1) prašymą išregistruoti bendriją;
@@ -514,12 +517,12 @@ Likviduotai bendrijai išregistruoti likvidatorius vietos savivaldos vykdomajai 
 
 
 
-3) likviduotos bendrijos įregistravimo dokumento ir įstatų originalus;
+3) likviduotos bendrijos įregistravimo dokumento ir įstatų originalus; 
 
 
 
 
-4) teritorinės valstybinės mokesčių inspekcijos išduotą atsiskaitymo su biudžetu pažymą. Pažymoje turi būti nurodytos baudų ir delspinigių sumos, priskaičiuotos iki reorganizavimo dienos;
+4) teritorinės valstybinės mokesčių inspekcijos išduotą atsiskaitymo su biudžetu pažymą. Pažymoje turi būti nurodytos baudų ir delspinigių sumos, priskaičiuotos iki reorganizavimo dienos; 
 
 
 
@@ -539,12 +542,14 @@ Likviduotai bendrijai išregistruoti likvidatorius vietos savivaldos vykdomajai 
 
 
 
-8) policijos komisariato išduotą kvitą, kad antspaudas sunaikintas.
+8) policijos komisariato išduotą pažymą, kad antspaudas sunaikintas.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
  
-
-
-
-
 
 
 
@@ -639,17 +644,10 @@ Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA
 21 straipsnis. Susirinkimų šaukimo ir organizavimo tvarka
 
 
-1. Bendrijos narių susirinkimus šaukia bendrijos valdyba (bendrijos pirmininkas) įstatuose nustatyta tvarka, bet ne rečiau kaip vieną kartą per metus, pasibaigus ūkiniams metams. Susirinkimus taip pat gali šaukti:
-
-
-1) revizijos komisija (revizorius);
-
-
-
-
-2) ne mažiau kaip 1/4 bendrijos narių.
-
-
+1. Bendrijos narių susirinkimus šaukia bendrijos valdyba (bendrijos pirmininkas) įstatuose nustatyta tvarka, bet ne rečiau kaip vieną kartą per metus, pasibaigus ūkiniams metams. Susirinkimas taip pat turi būti sušauktas, kai to reikalauja revizijos komisija (revizorius) arba ne mažiau kaip 1/4 bendrijos narių (įgaliotinių). Jeigu bendrijos valdyba (bendrijos pirmininkas) per mėnesį nuo reikalavimo sušaukti bendrijos narių susirinkimą pateikimo dienos susirinkimo nesušaukia, jį gali šaukti revizijos komisija (revizorius) arba 1/4 bendrijos narių (įgaliotinių).      
+Straipsnio dalies pakeitimai:
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+ 
 
 
 
@@ -669,7 +667,10 @@ Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA
 
 
 
-5. Bendrijos narių susirinkimo nutarimai dėl bendrojo naudojimo objektų rekonstrukcijos, jeigu tai susiję su privalomaisiais mokėjimais, nutarimai dėl lėšų skolinimosi, bendrijos įstatų pakeitimo ar papildymo yra teisėti, kai už juos balsuoja daugiau kaip 1/2 daugiabučio namo savininkų.
+5. Bendrijos narių susirinkimo nutarimai dėl bendrijos įstatų pakeitimo ar papildymo, dėl lėšų, susijusių su bendrojo naudojimo objektų priežiūros ir naudojimo privalomųjų reikalavimų įgyvendinimu, kaupimo ar skolinimosi yra teisėti, jei už juos balsuoja daugiau kaip pusė bendrijos narių. 
+Straipsnio dalies pakeitimai:
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+ 
 
 
 
@@ -679,12 +680,17 @@ Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA
 
 
 
-7. Susirinkimų nutarimai yra protokoluojami. Protokolus pasirašo susirinkimo pirmininkas ir susirinkimo sekretorius. Protokolai registruojami pagal raštvedybos taisykles.
+7. Susirinkimai yra protokoluojami. Protokolus pasirašo susirinkimo pirmininkas ir susirinkimo sekretorius. Protokolai registruojami pagal raštvedybos taisykles ir saugomi ne mažiau kaip 10 metų. 
+Straipsnio dalies pakeitimai:
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+ 
 
 
 
 
-8. Bendrijos narių sprendimai taip pat gali būti priimti apklausos būdu bendrijos įstatų nustatyta tvarka.
+8. Bendrijos narių sprendimai taip pat gali būti priimti balsuojant raštu bendrijos įstatų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
  
 
 
