@@ -266,7 +266,7 @@ VIII-356,
 97.07.01, Žin., 1997, Nr.69-1734 (97.07.23)
  
  
-            16(5 )straipsnis.
+            16(5) straipsnis.
 Specialiųjų tyrimų tarnybos uždaviniai
             Specialiųjų tyrimų tarnyba
 renka, analizuoja, klasifikuoja, o jeigu reikia, perduoda vidaus reikalų
@@ -510,25 +510,12 @@ pakeitimai:
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
  
-            31 straipsnis. Policijos
-rezervas
-            Lietuvos Respublikos policijos
-įstaigos turi policijos rezervą. Jį sudaro policijos pareigūnai, dėl objektyvių
-priežasčių atleisti iš tarnybos ir jų sutikimu perkelti į policijos rezervą,
-bei tinkantys tarnybai policijoje Lietuvos Respublikos piliečiai, kurie
-pasižada sąžiningai ir dorai vykdyti jiems patikėtas pareigas. Asmenys į
-policijos rezervą atrenkami pagal šiame įstatyme numatytus bendruosius
-policijos komplektavimo reikalavimus.
-            Piliečiai, esantys policijos
-rezerve, gauna nustatyto pavyzdžio pažymėjimus, yra mokomi, aprūpinami apranga
-ir amunicija valstybės lėšomis. Tarnybos metu jie vykdo policijos pareigūnų
-funkcijas, turėdami bendrąsias jų teises bei pareigas.
-            Įtraukimo į policijos
-rezervą sąlygas ir tvarką nustato Lietuvos Respublikos policijos rezervo
-nuostatai, kuriuos tvirtina Vyriausybė.
-            Rezerve esantys policijos
-pareigūnai turi teisę naudotis atleidimo metu turėtu pareiginiu laipsniu,
-pridėjus žodį "rezervo".
+            31 straipsnis. Neteko galios.
+Straipsnio
+pakeitimai:
+Nr.
+IX-888,
+2002-05-16, Žin., 2002, Nr. 54-2117 (2002-05-31)
  
             32 straipsnis. Policijos
 kadrų rengimas
@@ -553,8 +540,8 @@ Nr.90-2777 (00.10.27)
 galios.
 Straipsnio
 pakeitimai:
-Nr. VIII-2048, 00.10.17, Žin., 2000,
-Nr.90-2777 (00.10.27)
+Nr. VIII-2048, 00.10.17, Žin., 2000, Nr.90-2777
+(00.10.27)
  
             35 straipsnis. Neteko
 galios.
@@ -580,8 +567,7 @@ VIII-356,
 Nr. VIII-2048, 00.10.17, Žin., 2000,
 Nr.90-2777 (00.10.27)
  
-            38 straipsnis. Neteko
-galios.
+            38 straipsnis. Neteko galios.
 Straipsnio
 pakeitimai:
 Nr. VIII-2048, 00.10.17, Žin., 2000,
@@ -669,8 +655,8 @@ patalpos.
             Vyriausybės nustatyta tvarka
 atskirų policijos tarnybų pareigūnams gali būti suteikiami tarnybiniai butai. 
             Policijos pareigūnai turi
-teisę į butų nuomos nuolaidas ir lengvatas, panaudojant valstybės ir
-savivaldybių lėšas, skirtas policijos socialinėms reikmėms tenkinti.
+teisę į butų nuomos nuolaidas ir lengvatas, panaudojant valstybės ir savivaldybių
+lėšas, skirtas policijos socialinėms reikmėms tenkinti.
  
             45 straipsnis. Policijos
 pareigūnų atlyginimai
@@ -683,9 +669,9 @@ vietą, užsienio kalbų mokėjimą, taip pat šeimyniniai ir specialūs priedai
 slaptą darbą, kompensuojamos persikėlimo išlaidos, išmokamos vienkartinės
 pašalpos bei kitos išmokos.
             Pagrindinės algos, papildomo
-apmokėjimo, priedų, kompensacijų, pašalpų ir kitų išmokų dydį bei skyrimo tvarką
-reguliuoja Lietuvos Respublikos įstatymai ir nustato Respublikos Vyriausybė
-vidaus reikalų ministro teikimu.
+apmokėjimo, priedų, kompensacijų, pašalpų ir kitų išmokų dydį bei skyrimo
+tvarką reguliuoja Lietuvos Respublikos įstatymai ir nustato Respublikos
+Vyriausybė vidaus reikalų ministro teikimu.
  
             46 straipsnis. Policijos
 pareigūnų pensijos
@@ -696,8 +682,8 @@ aprūpinimą.
 policijos pareigūnams, tarnaujantiems Lietuvos Respublikos policijoje, draudimą
 nuo nelaimingų atsitikimų.
             Policijos pareigūnų pensijų
-ir socialinių garantijų dydį nustato Lietuvos Respublikos įstatymai, o jų taikymo
-tvarką Lietuvos Respublikos Vyriausybė. 
+ir socialinių garantijų dydį nustato Lietuvos Respublikos įstatymai, o jų
+taikymo tvarką Lietuvos Respublikos Vyriausybė. 
  
             47 straipsnis. Kitos
 policijos pareigūnų socialinės garantijos
@@ -708,8 +694,8 @@ Už tai jiems papildomai apmokama šio įstatymo 45 straipsnyje numatyta tvarka.
             Nustatoma tokia kasmetinių
 atostogų trukmė policijos pareigūnams, ištarnavusiems policijoje (vidaus
 reikalų sistemoje):
-            iki 10 metų - 30 kalendorinių
-dienų;
+            iki 10 metų - 30
+kalendorinių dienų;
             nuo 10 iki 15 metų - 35
 kalendorinės dienos;
             nuo 15 iki 20 metų - 40
@@ -717,8 +703,8 @@ kalendorinių dienų;
             daugiau kaip 20 metų - 45
 kalendorinės dienos.
             Policijos pareigūnai
-įstatymų bei kitų norminių aktų nustatyta tvarka turi teisę į kompensaciją už išlaidas
-medikamentams, kelialapiams bei sanatoriniam gydymui.
+įstatymų bei kitų norminių aktų nustatyta tvarka turi teisę į kompensaciją už
+išlaidas medikamentams, kelialapiams bei sanatoriniam gydymui.
             Policijos darbuotojų
 sveikatos apsaugos ir socialinio draudimo ypatumus reglamentuoja nuostatai,
 kuriuos tvirtina vidaus reikalų, sveikatos apsaugos ir socialinės apsaugos
@@ -784,8 +770,8 @@ jo sutuoktiniui, nepilnamečiams vaikams (įvaikiams), iki jiems sukaks 16 metų
 taip pat vaikams (įvaikiams), besimokantiems nustatyta tvarka įregistruotų
 mokymo įstaigų dieniniuose skyriuose, iki jiems sukaks 24 metai, žuvusiojo
 vaikams, gimusiems po jo mirties, tėvui (motinai) bei nedarbingiems asmenims,
-kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą.
-Žuvusysis laidojamas valstybės lėšomis.
+kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo
+išlaikymą. Žuvusysis laidojamas valstybės lėšomis.
 Policijos
 pareigūnui, kuris buvo sužalotas vykdydamas tarnybines pareigas ir dėl to liko
 sveikatos pakitimų bei sumažėjo jo tinkamumas tarnybai, neatsižvelgiant į
@@ -883,10 +869,10 @@ I-1080,
 95.10.31, Žin., 1995, Nr. 92-2056 (95.11.10)
 DĖL
 KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU
-LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU
-LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ
-VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO
-IR PAPILDYMO
+LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU LENGVATŲ
+IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO
+KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO IR
+PAPILDYMO
  
 5.
 Lietuvos
@@ -926,7 +912,6 @@ POLICIJOS ĮSTATYMO 12, 13, 25 STRAIPSNIŲ PAKEITIMO,
 16(1), 16(2), 21(1) STRAIPSNIŲ, 27 STRAIPSNIO 5 DALIES IR 39(1) STRAIPSNIO
 PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.
- 
 Pakeitimai:
 1)
 Lietuvos
@@ -962,19 +947,26 @@ POLICIJOS
 12.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-816,
-2002-03-28, Žin., 2002, Nr. 33-1250 (2002-03-30)
+Nr. IX-816, 2002-03-28, Žin., 2002, Nr. 33-1250 (2002-03-30)
 FINANSINIŲ
 NUSIKALTIMŲ TYRIMO TARNYBOS ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2002 m. balandžio 1 d.
+ 
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-888,
+2002-05-16, Žin., 2002, Nr. 54-2117 (2002-05-31)
+POLICIJOS
+ĮSTATYMO 31 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-04-02)
+Aušrinė Trapinskienė (2002-05-31)
                  
 autrap@lrs.lt
 
