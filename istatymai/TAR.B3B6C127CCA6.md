@@ -13,27 +13,37 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3B6C127CCA6"
 
 # Lietuvos Respublikos atostogų įstatymas
 
-@D1=19911217;D2=19960417;D3=19960515
+@D1=19911217;D2=19960613;D3=19960624
 
-@D1=19911217;D2=19960417;D3=19960515
+@D1=19911217;D2=19960613;D3=19960624
 Pakeitimai:
  1.
  Parlamentas,
 Įstatymas
-{#96CPAA1288 ;} Nr.
-1-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
+{#19960417AA1288 ;}
+Nr. 1-1288, 96.04.17, Žin., 1996, Nr. 41-986 (96.05.08)
  LIETUVOS
 RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 6 IR 16 STRAIPSNIŲ
  PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
+ 
+ 2.
+ Parlamentas,
+Įstatymas
+{#19960613AA1383 ;}
+Nr. 1-1383, 96.06.13, Žin., 1996, Nr. 57-1348 (96.06.19)
+ LIETUVOS
+RESPUBLIKOS ATOSTOGŲ ĮSTATYMO 15 STRAIPSNIO PAKEITIMO
+ LAIKINASIS
+ĮSTATYMAS
  
  *** Pabaiga ***
  
                       
 LIETUVOS RESPUBLIKOS
  
-                       
-ATOSTOGŲ ĮSTATYMAS
+                        ATOSTOGŲ
+ĮSTATYMAS
  
  
                  I
@@ -115,7 +125,7 @@ atostogos yra:
      6 straipsnis.
 Kasmetinių minimalių atostogų trukmė
  
-     Kasmetinių 
+     Kasmetinių 
 minimalių  atostogų  trukmė  -  28  kalendorinės
 dienos.
      Darbuotojams  
@@ -138,7 +148,7 @@ pakeitimai:
 Kasmetinės pailgintos atostogos
  
      Pailgintos iki 
-58 kalendorinių  dienų atostogos suteikiamos
+58 kalendorinių  dienų atostogos suteikiamos
 tam  tikrų 
 kategorijų  darbuotojams,  kurių  darbas  susijęs  su
 didesne nervine, 
@@ -146,7 +156,7 @@ emocine, protine  įtampa bei  profesine rizika,
 taip pat kurių
 specifinės darbo sąlygos.
      Darbuotojų,
-turinčių  teisę  į  šias  atostogas,  kategorijų
+turinčių  teisę  į  šias  atostogas,  kategorijų
 sąrašą tvirtina  ir 
 jame  konkrečią  pailgintų  atostogų  trukmę
 kiekvienai
@@ -202,13 +212,13 @@ metu.
      Darbuotojams, 
 vykstantiems  gydytis  į  sanatorijas,  kitas
 sveikatos įstaigas, 
-taip pat  į poilsio  namus  su  šeimyniniais
+taip pat  į poilsio  namus  su  šeimyniniais
 kelialapiais, jų 
 pageidavimu, atostogos  suteikiamos kelialapyje
 nurodytu  laiku.  
 Darbuotojai,  pageidaujantys  gauti  atostogas
 šeimyniniame 
-kelialapyje   nurodytu  laiku,   privalo  apie  tai
+kelialapyje   nurodytu  laiku,   privalo  apie  tai
 pranešti darbdaviui
 ne vėliau kaip prieš 30 kalendorinių dienų.
      Darbuotojams,
@@ -217,18 +227,18 @@ medicininę
 rekomendaciją,  atostogos suteikiamos  jų pageidaujamu
 laiku.
      Darbuotojams, 
-sergantiems   chroniškomis   ligomis,   kurių
+sergantiems   chroniškomis   ligomis,   kurių
 paūmėjimas 
-priklauso  nuo  metų  sezono,  turintiems  medicininę
+priklauso  nuo  metų  sezono,  turintiems  medicininę
 išvadą,  šalims 
 susitarus,  atostogos  suteikiamos  pageidaujamu
 laiku.
     
 Besimokantiesiems  neatsitraukus  nuo  darbo  atostogos,  jų
-pageidavimu, derinamos 
-prie egzaminų,  įskaitų, diplominio darbo
-gynimo,
-laboratorinių darbų ir konsultacijų laiko.
+pageidavimu,
+derinamos  prie egzaminų,  įskaitų, diplominio darbo
+gynimo, laboratorinių
+darbų ir konsultacijų laiko.
  
      10 straipsnis.
 Kasmetinių atostogų pratęsimo ir perkėlimo
@@ -269,17 +279,17 @@ suteikiamos  dalimis šalims  susitarus.  Viena  iš
 atostogų dalių
 negali būti trumpesnė kaip 14 kalendorinių dienų.
  
-     12 straipsnis.
+     12 straipsnis.
 Atšaukimas iš kasmetinių atostogų
  
      Atšaukti iš
 atostogų leidžiama tik darbuotojui sutikus.
      Nepanaudota
 atostogų  dalis turi  būti suteikiama kitu darbo
-metų laiku  arba prijungiama 
-prie kitų  darbo metų  atostogų šio
-įstatymo 11
-straipsnyje nustatyta tvarka.
+metų laiku  arba
+prijungiama  prie kitų  darbo metų  atostogų šio
+įstatymo 11 straipsnyje
+nustatyta tvarka.
  
      13 straipsnis.
 Laikotarpiai, įskaitomi į darbo stažą, už
@@ -296,8 +306,8 @@ vieta (pareigos)  ir
 visas  darbo užmokestis  arba jo dalis, taip
 pat, kai jam mokama
 stipendija arba kitokios išmokos;
-     laikas, kai  darbuotojas
-gavo  laikinojo  nedarbingumo  arba
+     laikas, kai 
+darbuotojas gavo  laikinojo  nedarbingumo  arba
 nėštumo ir gimdymo
 pašalpą;
      nemokamos
@@ -345,18 +355,38 @@ užmokestis.
 darbo  užmokesčio  apskaičiavimo  tvarką  nustato
 Lietuvos Respublikos
 Vyriausybė.
+***[3 dalies
+redakcija nuo 19960620 iki 19961031 imtinai]
+     Darbo 
+užmokestis už kasmetines minimalias atostogas mokamas
+ne vėliau  kaip
+prieš  tris kalendorines  dienas iki  prasidedant
+atostogoms. Darbo 
+užmokestis už  kasmetines pailgintas atostogas
+mokamas dalimis. Už
+pirmąją atostogų dalį (30 kalendorinių dienų)
+sumokama ne  vėliau 
+kaip  prieš  tris  kalendorines  dienas  iki
+prasidedant
+atostogoms,  o už  likusią atostogų  dalį - ne vėliau
+kaip prieš tris
+kalendorines dienas iki jų tęsinio.
+***[3 dalies
+redakcija nuo 19961101 ]
      Darbo
 užmokestis  už atostogas  mokamas ne vėliau kaip prieš
 tris kalendorines
 dienas iki prasidedant atostogoms.
+***[3 dalies laikino
+pakeitimo pabaiga]
      Jei
 darbuotojui  priklausantis  darbo  užmokestis  nustatytu
 laiku nesumokamas ne
 dėl darbuotojo kaltės, atostogos pratęsiamos
 tiek dienų,  kiek
 buvo  delsiama  sumokėti  darbo  užmokestį,  už
-praleistą laiką mokant
-kaip už atostogas.
+praleistą laiką
+mokant kaip už atostogas.
  
      16 straipsnis.
 Piniginė kompensacija už nepanaudotas
@@ -432,7 +462,7 @@ Atostogos vaikui prižiūrėti iki jam sueis
                    
 treji metai
  
-     Motinai,  jos  
+     Motinai,  jos  
 pageidavimu,  suteikiamos  atostogos  vaikui
 prižiūrėti iki jam
 sueis treji metai.
@@ -528,8 +558,8 @@ pasirengti  ir laikyti  - po dvi dienas kiekvienai
 darbams  atlikti ir  konsultavimuisi -  tiek
 dienų, kiek nurodyta
 mokymo planuose ir tvarkaraščiuose;
-     diplominiam
-darbui baigti ir ginti - trisdešimt kalendorinių
+     diplominiam darbui
+baigti ir ginti - trisdešimt kalendorinių
 dienų;
      valstybiniams
 egzaminams  (tarp  jų  ir  vidurinės  bendrojo
@@ -537,8 +567,8 @@ lavinimo  mokyklos 
 brandos  atestato  egzaminui)  pasirengti  ir
 laikyti - po šešias
 dienas kiekvienam egzaminui.
-     Į atostogų
-laiką neįskaitomas kelionėje sugaištas laikas.
+     Į atostogų laiką
+neįskaitomas kelionėje sugaištas laikas.
  
      24 straipsnis.
 Atostogų, suteikiamų besimokantiesiems
@@ -547,8 +577,8 @@ neatsitraukus nuo darbo,  apmokėjimo sąlygos
  
      Šio įstatymo 
 23 straipsnyje nurodytiems darbuotojams, kurie
-mokosi,   laiko   
-stojamuosius   egzaminus   į   aukštąsias   ir
+mokosi,   laiko    stojamuosius  
+egzaminus   į   aukštąsias   ir
 aukštesniąsias
 mokyklas  su  įmonių  siuntimais,  už  suteikiamas
 atostogas  šios 
@@ -589,7 +619,7 @@ nemokamos atostogos
 skirsnis. BAIGIAMOJI DALIS
  
  
-     26 straipsnis.
+     26 straipsnis.
 Teisė nustatyti papildomų atostogų garantijas
  
      Kolektyvinėse
@@ -638,9 +668,10 @@ PIRMININKAS                                 
 VYTAUTAS LANDSBERGIS
  
  
-Vilnius, 1991 m.
-gruodžio 17 d.
+Vilnius, 1991 m. gruodžio
+17 d.
           Nr.I-2113
+ 
  
  
 _
