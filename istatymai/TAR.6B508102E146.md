@@ -233,13 +233,8 @@ Nr.113-3289 (99.12.30), įsigalioja nuo 2000.01.01
  
 6 straipsnis. Akcizų netaikymo atvejai
 1. Akcizais neapmokestinama:
-1) kaip labdara įvežamos prekės;
- 
-[1
-dalies 1 punkto redakcija nuo 2001 m. sausio 1 d.:
 1) 3 straipsnio 1 dalies 3 ir 10 punktuose nurodytos
-prekės, įvežamos kaip parama;]
- 
+prekės, įvežamos kaip parama;
 2) fizinių asmenų (keleivių) įvežamos prekės, jeigu jų
 įvežama ne daugiau kaip Vyriausybės leista jiems įvežti be importo mokesčių;
 3) prekės, įvežamos užsienio šalių diplomatinių ir
@@ -257,11 +252,11 @@ gaminti šiuos gėrimus;
 7) eksportuotos prekės;
 8) importuojamos prekės, jei jos atleidžiamos nuo
 importo muitų pagal Lietuvos Respublikos muitų tarifų įstatymą.
-9) orlaivių variklių kuras (kodus pagal KPN nustato Vyriausybė),
-kurį importuoja ar įsigyja iš Lietuvos gamintojų įmonės, turinčios licenciją
-verstis naftos produktų importu, prekyba ar eksportu, jeigu šioje licencijoje
-nurodyta, kad įmonė verčiasi orlaivių (lėktuvų) pripildymu, taip pat nurodyti
-šio kuro kodai pagal KPN;
+9) orlaivių variklių kuras (kodus pagal KPN nustato
+Vyriausybė), kurį importuoja ar įsigyja iš Lietuvos gamintojų įmonės, turinčios
+licenciją verstis naftos produktų importu, prekyba ar eksportu, jeigu šioje
+licencijoje nurodyta, kad įmonė verčiasi orlaivių (lėktuvų) pripildymu, taip
+pat nurodyti šio kuro kodai pagal KPN;
 10) Lietuvos
 Respublikos įmonių, gaminančių cigaretes, importuojamas tabakas (kodą pagal KPN
 nustato Vyriausybė). Lietuvos Respublikos įmonių, kurioms taikoma ši lengvata,
@@ -275,8 +270,20 @@ ar eksportu, jeigu šioje licencijoje nurodyta, kad įmonė verčiasi laivų
 pripildymu (bunkeravimu), taip pat nurodyti šio kuro kodai pagal KPN;
 12) nustatyta tvarka dehidratuotas etilo alkoholis,
 skirtas naudoti kaip žaliava biokuro gamybai;
-13) rapsų metilo (etilo) esteris (RME) - biokuras,
-pagamintas iš rapsų aliejaus ir pagal technologiją reikalingų sudedamųjų dalių.
+13) rapsų metilo (etilo) esteris (RME) - biokuras, pagamintas
+iš rapsų aliejaus ir pagal technologiją reikalingų sudedamųjų dalių.
+ 
+[6
+straipsnio 1 dalis papildoma 14 punktu nuo 2002 m. sausio 1 d.:
+14) gazolis (dyzeliniai
+degalai), skirtas naudoti žemės ūkyje, taip pat tvenkinių ir kitų vidaus
+vandenų žuvininkystėje. Akcizu neapmokestinamo gazolio (dyzelinių degalų)
+kiekis Vyriausybės nustatyta tvarka registruotiems žemės ūkio subjektams per
+vienus kalendorinius metus negali viršyti 120 litrų už vieną Vyriausybės ar jos
+įgaliotos institucijos nustatyta tvarka deklaruotą žemės ūkio naudmenų hektarą
+bei 275 litrų už vieną toną sugautų ir realizuotų žuvų. Lengvatos taikymo
+tvarką nustato Vyriausybė ar jos įgaliota institucija.]
+ 
 2. Be to, akcizas netaikomas, kai etilo alkoholis bei
 etilo alkoholio turinčios žaliavos parduodami: 
 1) Lietuvos Respublikos įmonėms actui ir akcizu
@@ -317,6 +324,8 @@ Nr. VIII-1814, 00.07.11, Žin., 2000,
 Nr.61-1820 (00.07.26), įsigalioja nuo 2001.01.01
 Nr. VIII-1876, 00.07.18, Žin., 2000,
 Nr.64-1941 (00.07.31)
+Nr. IX-167, 2001 01 25, Žin., 2001, Nr.
+16-494 (2001 02 21), įsigalioja nuo 2002 01 01
  
  
 7 straipsnis. Akcizų grąžinimas arba atsisakymas juos
@@ -428,7 +437,8 @@ Nr. I-993,
 2.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. I-905, 95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
+Nr. I-905,
+95.05.30, Žin., 1995, Nr. 49-1179 (95.06.14)
 DĖL LIETUVOS RESPUBLIKOS AKCIZŲ
 ĮSTATYMO PAKEITIMO IR PAPILDYMO
  
@@ -453,8 +463,8 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. I-1307,
 96.04.30, Žin., 1996, Nr. 46-1102 (96.05.17)
-LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO
-8-1, 8-2, 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS AKCIZŲ
+ĮSTATYMO 8-1, 8-2, 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 1996
 metų liepos 1 dienos.
  
@@ -541,8 +551,8 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2000 m. balandžio 1 d., išskyrus šio įstatymo 2
 straipsnio 1 dalies nuostatas, susijusias su laivų pripildymu (aprūpinimu
-atsargomis), taip pat šio įstatymo 3 straipsnyje išdėstytą 6 straipsnio 1 dalies
-11 punktą.
+atsargomis), taip pat šio įstatymo 3 straipsnyje išdėstytą 6 straipsnio 1
+dalies 11 punktą.
 Šio įstatymo 2 straipsnio 1
 dalies nuostatos, susijusios su laivų pripildymu (aprūpinimu atsargomis), taip
 pat šio įstatymo 3 straipsnyje išdėstytas 6 straipsnio 1 dalies 11 punktas
@@ -562,9 +572,17 @@ Nr. VIII-1876, 00.07.18, Žin., 2000,
 Nr.64-1941 (00.07.31)
 AKCIZŲ ĮSTATYMO 3 IR 6 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-167, 2001 01 25, Žin., 2001, Nr.
+16-494 (2001 02 21)
+AKCIZŲ ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2002
+m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė
-Trapinskienė (2000.08.17)
+Redagavo: Aušrinė Trapinskienė (2001 02 23)
+                  autrap@lrs.lt
 
