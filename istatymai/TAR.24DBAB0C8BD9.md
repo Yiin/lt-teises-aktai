@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.24DBAB0C8BD9"
 
 # Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, jų išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus
 
+Suvestinė redakcija nuo 1990-12-02 iki 1991-05-29
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 84-0; Žin. 1990, Nr.27-657, i. k. 0901010ISTA000I-572
+ 
+ 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
  
@@ -34,14 +39,20 @@ Tos pačios veikos, padarytos pakartotinai, užtraukia administracinę nuobaudą
 
 2 straipsnis. Prekių pardavimo kainų pažeidimas
 
-Valstybinėse įmonėse pagamintų ar importinių prekių (gaminių) pardavimas gyventojams ne valstybinės, ne vartotojų kooperacijos ar ne komiso prekybos įmonėse didesne už valstybės nustatytą kainą užtraukia administracinę nuobaudą – baudą nuo vieno tūkstančio rublių iki trijų tūkstančių rublių, konfiskuojant parduodamas prekes.
+Lietuvos Respublikos valstybinėse įmonėse pagamintų ar valstybės užpirktų importinių žaliavų ir prekių pardavimas didesne už valstybės (vietos savivaldybės) nustatytą ar kitaip apribotą kainą arba bet kokių žaliavų ir prekių pardavimas, išskyrus vienkartinį asmeninio vartojimo prekių pardavimą be tikslo verstis prekyba, ne tam skirtose vietose (ne valstybės (vietos savivaldybės) įregistruotose prekybos ir kitose įmonėse ar organizacijose bei turgavietėse) – baudą nuo vieno tūkstančio rublių iki trijų tūkstančių rublių, konfiskuojant parduodamas prekes.
+Straipsnio dalies pakeitimai:
+Nr. I-808, 1990-11-27, Lietuvos aidas, 1990, Nr. 135-0 (1990-12-01); Žin., 1990, Nr. 35-839 (1990-12-20), i. k. 0901010ISTA000I-808
+ 
 
 Tie patys veiksmai, padaryti pakartotinai, užtraukia administracinę nuobaudą – baudą nuo trijų tūkstančių rublių iki penkių tūkstančių rublių, konfiskuojant parduodamas prekes.
  
 
 3 straipsnis. Privačių įmonių (kooperatyvų) prekių pardavimas viršijant valstybės nustatytas kainas
 
-Prekių pardavimas, padarytas privačios įmonės (kooperatyvo), išskyrus vartotojų kooperatyvą, nario ar darbuotojo, viršijant valstybės nustatytas kainas, užtraukia administracinę nuobaudą baudą nuo trijų tūkstančių rublių iki penkių tūkstančių rublių, konfiskuojant parduodamas prekes.
+Lietuvos Respublikos valstybinėse įmonėse pagamintų ar valstybės užpirktų importinių žaliavų ir prekių arba žaliavų ir prekių, kurioms yra valstybės (vietos savivaldybių) nustatytos ar kitaip apribotos kainos, pardavimas, padarytas privačios įmonės (įskaitant kooperatyvą) nario ar darbuotojo, viršijant valstybės nustatytą (apribotą) kainą arba prekių (žaliavų) pardavimas pažeidžiant nustatytą pardavimo tvarką, įskaitant prekybą nenustatytose vietose, užtraukia administracinę nuobaudą – baudą nuo trijų tūkstančių rublių iki penkių tūkstančių rublių, konfiskuojant parduodamas prekes.
+Straipsnio dalies pakeitimai:
+Nr. I-808, 1990-11-27, Lietuvos aidas, 1990, Nr. 135-0 (1990-12-01); Žin., 1990, Nr. 35-839 (1990-12-20), i. k. 0901010ISTA000I-808
+ 
 
 Tie patys veiksmai, padaryti pakartotinai, užtraukia administracinę nuobaudą – baudą nuo penkių tūkstančių rublių iki dešimties tūkstančių rublių, konfiskuojant parduodamas prekes.
  
@@ -78,7 +89,11 @@ Tie patys veiksmai, padaryti pakartotinai, užtraukia administracinę nuobaudą 
 
 8 straipsnis. Pasinaudojimas svetimais vardiniais normuoto prekių pirkimo dokumentais
 
-Pasinaudojimas kito asmens vardiniais normuoto prekių pirkimo dokumentais užtraukia administracinę nuobaudą – baudą nuo trijų šimtų rublių iki penkių šimtų rublių.
+Pasinaudojimas kito asmens vardiniais normuoto prekių pirkimo dokumentais, išskyrus atvejus kaimo parduotuvėse, kai pardavėjui yra žinoma, kad pirkėjas yra tos apylinkės gyventojas, 
+užtraukia administracinę nuobaudą - baudą nuo trijų šimtų rublių iki penkių šimtų rublių. 
+Straipsnio dalies pakeitimai:
+Nr. I-808, 1990-11-27, Lietuvos aidas, 1990, Nr. 135-0 (1990-12-01); Žin., 1990, Nr. 35-839 (1990-12-20), i. k. 0901010ISTA000I-808
+ 
 
 Normuojamų prekių pardavimas asmenims, nepateikusiems vardinio normuoto prekių pirkimo dokumento ar pateikusiems svetimą dokumentą, užtraukia administracinę nuobaudą – baudą nuo penkių šimtų rublių iki vieno tūkstančio rublių.
  
@@ -88,19 +103,28 @@ Normuojamų prekių pardavimas asmenims, nepateikusiems vardinio normuoto preki�
 Įrašymas į prekių dokumentą melagingų žinių, surašymas ar išdavimas melagingo prekių dokumento, taip pat suklastojimas tokio dokumento, esančio įmonės, įstaigos ar organizacijos byloje, jei veikoje nėra Lietuvos Respublikos baudžiamojo kodekso 182 straipsnyje numatytų požymių, užtraukia administracinę nuobaudą – baudą nuo vieno tūkstančio rublių iki trijų tūkstančių rublių.
  
 
-10 straipsnis. Pasienio posto patrulio reikalavimų nevykdymas
+10 straipsnis. Pasienio posto patrulio ar muitinės pareigūno reikalavimų nevykdymas
 
-Pasienio posto patrulio, einančio tarnybos pareigas, teisėtų reikalavimų nevykdymas, užtraukia administracinę nuobaudą – baudą nuo penkių šimtų rublių iki vieno tūkstančio rublių.
+Pasienio posto patrulio ar muitinės pareigūno, einančio tarnybines pareigas, teisėtų reikalavimų nevykdymas užtraukia administracinę nuobaudą - baudą nuo penkių šimtų rublių iki vieno tūkstančio rublių. 
+
+Straipsnio pakeitimai:
+Nr. I-808, 1990-11-27, Lietuvos aidas, 1990, Nr. 135-0 (1990-12-01); Žin., 1990, Nr. 35-839 (1990-12-20), i. k. 0901010ISTA000I-808
  
 
 11 straipsnis. Pasipriešinimas pasienio posto patruliui
 
 Pasipriešinimas smurtu pasienio posto patruliui, einančiam tarnybos pareigas, užtraukia baudžiamąją atsakomybę ir baudžiamas bauda nuo vieno tūkstančio rublių iki dešimties tūkstančių rublių arba laisvės atėmimu iki penkerių metų.
+
+Straipsnio pakeitimai:
+Nr. I-808, 1990-11-27, Lietuvos aidas, 1990, Nr. 135-0 (1990-12-01); Žin., 1990, Nr. 35-839 (1990-12-20), i. k. 0901010ISTA000I-808
  
 
-12 straipsnis. Kėsinimasis į pasienio posto patrulio gyvybę
+12 straipsnis. Kėsinimasis į pasienio posto patrulio ar muitinės pareigūno gyvybę
 
-Kėsinimasis į pasienio posto patrulio, einančio tarnybos pareigas, gyvybę, užtraukia baudžiamąją atsakomybę ir baudžiamas laisvės atėmimu nuo penkerių iki dešimties metų.
+Kėsinimasis į pasienio posto patrulio ar muitinės pareigūno, einančio tarnybines pareigas, gyvybę užtraukia baudžiamąją atsakomybę ir baudžiamas laisvės atėmimu nuo penkerių iki dešimties metų.
+
+Straipsnio pakeitimai:
+Nr. I-808, 1990-11-27, Lietuvos aidas, 1990, Nr. 135-0 (1990-12-01); Žin., 1990, Nr. 35-839 (1990-12-20), i. k. 0901010ISTA000I-808
  
 
 13 straipsnis. Nepilnamečio įtraukimas į prekybos tvarkos pažeidimus
@@ -135,4 +159,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1990 m. rugsėjo 13 d. 
 Nr. I-572
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-808, 1990-11-27, Lietuvos aidas, 1990, Nr. 135-0 (1990-12-01); Žin., 1990, Nr. 35-839 (1990-12-20), i. k. 0901010ISTA000I-808
+Padaryti pataisas Lietuvos Respublikos laikinajame įstatyme "Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, jų išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus"
 
