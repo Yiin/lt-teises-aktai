@@ -141,8 +141,8 @@ Respublikoje gali:
             1) vienas ar kartu su kitais
 bankais steigti dukterinį banką;
             
-[1 dalies 1 punkto redakcija nuo Lietuvos Respublikos
-įstojimo į Europos Sąjungą dienos:
+[1 dalies 1 punkto
+redakcija nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
             1) vienas ar kartu su kitais
 steigėjais steigti dukterinį banką;]
  
@@ -158,8 +158,8 @@ būdu. Užsienio banko dukterinio banko steigėjais gali būti tik bankai. Banko
 steigimo sutartis sudaroma Lietuvos Respublikos akcinių bendrovių įstatymo
 nustatyta tvarka.
  
-[2 dalies redakcija nuo Lietuvos Respublikos įstojimo į
-Europos Sąjungą dienos:
+[2 dalies redakcija nuo
+Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
 Užsienio banko
 dukterinis bankas gali būti steigiamas kaip uždaroji akcinė bendrovė ar akcinė
 bendrovė. Bent vienas užsienio banko dukterinio banko steigėjas turi būti
@@ -298,8 +298,8 @@ kaip 7. Kiekvienas banko steigėjas turi būti ir jo akcininkas, steigimo metu
 įsigijęs ne mažiau 
 kaip 2 procentus banko akcinio kapitalo.
  
-[1 dalies redakcija nuo Lietuvos Respublikos įstojimo į
-Europos Sąjungą dienos:
+[1 dalies redakcija nuo
+Lietuvos Respublikos įstojimo į Europos Sąjungą dienos:
 Banko steigėjais
 gali būti Lietuvos Respublikos ir užsienio valstybių fiziniai ir juridiniai
 asmenys, įmonės, neturinčios juridinio asmens teisių, Lietuvos Respublikos
@@ -1717,6 +1717,33 @@ apyvartą reglamentuojančių teisės aktų nustatyta tvarka.
 Reikalavimo teises (skolas bankui), kurių dėl
 galiojančių sutarčių, skolininko nemokumo arba dėl kitų priežasčių negalima
 išreikalauti įvykdyti iki banko likvidavimo pabaigos, taip pat antrosiose
+(pakartotinėse) varžytynėse neparduotą turtą, įskaitant reikalavimo teises, likvidatorius
+gali perduoti kreditoriams šių reikalavimams tenkinti vadovaudamasis šio
+įstatymo 54 straipsnyje nustatyta eile. Šis turtas, įskaitant reikalavimo
+teises, gali būti perduotas paskesnės eilės kreditoriams, jeigu pirmesnės eilės
+kreditoriai nustatyta tvarka nepateikia prašymų, kad šiuo būdu būtų tenkinami
+jų reikalavimai. Apie turto, įskaitant reikalavimo teises, perdavimą
+kreditoriams skelbiama viešai arba kiekvienam kreditoriui pranešama raštu,
+nurodant terminą, per kurį kreditoriai turi teisę raštu pateikti prašymus
+perimti turtą, įskaitant reikalavimo teises. Jeigu per 24 mėnesius nuo teismo
+nutarties likviduoti banką dėl bankroto įsiteisėjimo dienos lieka neparduoto ir
+kreditoriams neperduoto banko turto, likvidavimo procedūra laikoma baigta. Likusios
+neparduotos ir kreditorių neperimtos reikalavimo teisės neatlygintinai
+perduodamos valstybės įmonei Indėlių draudimo fondui ar kitai Vyriausybės
+nustatytai institucijai. Valstybės įmonei Indėlių draudimo fondui reikalavimo
+teises perduoti gali tik toks likviduojamas bankas, kuris buvo apdraudęs
+indėlius Lietuvos Respublikos gyventojų indėlių draudimo įstatymo ir (ar)
+Lietuvos Respublikos indėlių draudimo įstatymo nustatyta tvarka. Kitas turtas,
+kaip neturintis rinkos vertės, nurašomas ir panaudojamas arba sunaikinamas
+vadovaujantis likvidatoriaus parengta ir teismo patvirtinta tvarka. Nurašytas
+nekilnojamasis turtas per 30 dienų nuo jo nurašymo dienos pagal perdavimo aktą
+neatlygintinai perduodamas savivaldybei, kurios teritorijoje yra šis turtas.
+ 
+[8 dalies redakcija nuo
+2002 m. liepos 1 d.:
+Reikalavimo teises (skolas bankui), kurių dėl
+galiojančių sutarčių, skolininko nemokumo arba dėl kitų priežasčių negalima
+išreikalauti įvykdyti iki banko likvidavimo pabaigos, taip pat antrosiose
 (pakartotinėse) varžytynėse neparduotą turtą, įskaitant reikalavimo teises,
 likvidatorius gali perduoti kreditoriams šių reikalavimams tenkinti
 vadovaudamasis šio įstatymo 54 straipsnyje nustatyta eile. Šis turtas,
@@ -1729,16 +1756,18 @@ prašymus perimti turtą, įskaitant reikalavimo teises. Jeigu per 24 mėnesius 
 teismo nutarties likviduoti banką dėl bankroto įsiteisėjimo dienos lieka
 neparduoto ir kreditoriams neperduoto banko turto, likvidavimo procedūra
 laikoma baigta. Likusios neparduotos ir kreditorių neperimtos reikalavimo
-teisės neatlygintinai perduodamos valstybės įmonei Indėlių draudimo fondui ar
-kitai Vyriausybės nustatytai institucijai. Valstybės įmonei Indėlių draudimo
-fondui reikalavimo teises perduoti gali tik toks likviduojamas bankas, kuris
-buvo apdraudęs indėlius Lietuvos Respublikos gyventojų indėlių draudimo
-įstatymo ir (ar) Lietuvos Respublikos indėlių draudimo įstatymo nustatyta
-tvarka. Kitas turtas, kaip neturintis rinkos vertės, nurašomas ir panaudojamas
-arba sunaikinamas vadovaujantis likvidatoriaus parengta ir teismo patvirtinta
-tvarka. Nurašytas nekilnojamasis turtas per 30 dienų nuo jo nurašymo dienos
-pagal perdavimo aktą neatlygintinai perduodamas savivaldybei, kurios
-teritorijoje yra šis turtas.
+teisės neatlygintinai perduodamos valstybės įmonei „Indėlių ir investicijų
+draudimas“ ar kitai Vyriausybės nustatytai institucijai. Valstybės įmonei
+„Indėlių ir investicijų draudimas“ reikalavimo teises perduoti gali tik toks
+likviduojamas bankas, kuris buvo apdraudęs indėlius Lietuvos Respublikos
+gyventojų indėlių draudimo įstatymo ir (ar) Lietuvos Respublikos indėlių
+draudimo įstatymo arba Lietuvos Respublikos indėlių ir įsipareigojimų
+investuotojams draudimo įstatymo nustatyta tvarka. Kitas turtas, kaip
+neturintis rinkos vertės, nurašomas ir panaudojamas arba sunaikinamas
+vadovaujantis likvidatoriaus parengta ir teismo patvirtinta tvarka. Nurašytas
+nekilnojamasis turtas per 30 dienų nuo jo nurašymo dienos pagal perdavimo aktą
+neatlygintinai perduodamas savivaldybei, kurios teritorijoje yra šis turtas.]
+ 
 Prieš kiekvieną atsiskaitymą su kreditoriais banko
 likvidatorius pateikia teismui tvirtinti atsiskaitymų su kreditoriais planą.
 Jame turi būti nurodyti atsiskaitymo terminai, išmokėtinų sumų dydžiai ir
@@ -1757,8 +1786,8 @@ pabaigos.
 Jeigu
 atsiskaitant su kreditoriais lieka kreditorių, kurie neatsiėmė jiems
 priklausančių lėšų, likvidatorius, prieš pradėdamas tenkinti paskesnės eilės
-kreditorių reikalavimus ar siūlydamas teismui priimti sprendimą dėl banko
-pabaigos, perveda šias nepareikalautas lėšas į notarų biuro depozitinę sąskaitą
+kreditorių reikalavimus ar siūlydamas teismui priimti sprendimą dėl banko pabaigos,
+perveda šias nepareikalautas lėšas į notarų biuro depozitinę sąskaitą
 kreditoriaus vardu.
 Teismas,
 nustatęs, kad neliko likviduojamo banko turto, iš kurio būtų galima tenkinti
@@ -1778,6 +1807,8 @@ Nr. IX-193,
 2001 02 27, Žin., 2001, Nr. 23-761 (2001 03 16)
 Nr. IX-406, 2001-06-26, Žin., 2001, Nr.
 60-2140 (2001-07-11)
+Nr. IX-978,
+2002-06-20, Žin., 2002, Nr. 65-2638 (2002-06-28), įsigalioja nuo 2002-07-01
  
 53(1) straipsnis. Atlyginimas įkaito turėtojui
 Įkeitimu ir
@@ -1819,9 +1850,9 @@ pat dėl suteiktų paskolų, gautų valstybės vardu ir su valstybės garantija.
 Ketvirtąja eile
 tenkinami fizinių asmenų reikalavimai dėl indėlio ar jo dalies, neviršijančios
 5000 litų, jeigu indėliai nebuvo apdrausti pagal Lietuvos Respublikos gyventojų
-indėlių draudimo įstatymą. Jeigu fizinių asmenų indėliai ar jų dalis buvo
-kompensuoti iš Gyventojų indėlių kompensavimo fondo lėšų, tai šia eile
-tenkinamas tik 5000 litų ir išmokėtos kompensacijos sumos skirtumas.
+indėlių draudimo įstatymą. Jeigu fizinių asmenų indėliai ar jų dalis buvo kompensuoti
+iš Gyventojų indėlių kompensavimo fondo lėšų, tai šia eile tenkinamas tik 5000
+litų ir išmokėtos kompensacijos sumos skirtumas.
 Penktąja
 eile tenkinami kiti banko kreditorių, išskyrus nurodytus šio straipsnio
 antrojoje, trečiojoje, ketvirtojoje, penktojoje, septintojoje, aštuntojoje ir
@@ -1884,7 +1915,8 @@ gali būti registruojamos nesušaukiant visuotinio akcininkų susirinkimo.
  
             56 straipsnis. Kai kurių
 teisės aktų pripažinimas netekusiais galios
-            Pripažinti netekusiais galios:
+            Pripažinti netekusiais
+galios:
             Lietuvos Respublikos
 komercinių (akcinių) bankų įstatymą (Žin., 1992, Nr.24-696; 1994, Nr.43-775,
 Nr. 55-1048);
@@ -1900,8 +1932,8 @@ pavedimo Lietuvos Respublikos Vyriausybei spręsti kai kuriuos klausimus" 2
 punktą.
  
  
-            Skelbiu šį Lietuvos
-Respublikos Seimo priimtą įstatymą. 
+            Skelbiu šį Lietuvos Respublikos
+Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 BRAZAUSKAS 
@@ -2123,6 +2155,16 @@ KOMERCINIŲ
 BANKŲ ĮSTATYMO 31 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2002 m.balandžio 1 d.
+ 
+24.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-978, 2002-06-20,
+Žin., 2002, Nr. 65-2638 (2002-06-28)
+KOMERCINIŲ
+BANKŲ ĮSTATYMO 53 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2002 m. liepos 1 d.
  
 ***
 Pabaiga ***
