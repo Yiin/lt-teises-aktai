@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2000-08-04 iki 2001-12-06
+Suvestinė redakcija nuo 2001-12-07 iki 2002-03-26
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
  
@@ -391,9 +391,10 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 3. Privatizavimo lėšos, esančios Finansų ministerijai atidarytoje privatizavimo fondo sąskaitoje, naudojamos:
 
 
-1) gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Vyriausybės sprendimu rezerviniam (stabilizavimo) fondui sudaryti (ne mažiau kaip 2/3 iš privatizavimo gautų lėšų). Lėšos gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti Vyriausybės sprendimu laikinai, 1999–2001 metais, gali būti naudojamos su Lietuvos Respublikos valstybės skolos įstatymo įgyvendinimu atsirandantiems valstybės turtiniams įsipareigojimams vykdyti; 
+1) gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti, taip pat Vyriausybės sprendimu Rezerviniam (stabilizavimo) fondui sudaryti (ne mažiau kaip 2/3 iš privatizavimo gautų lėšų). Rezervinį (stabilizavimo) fondą steigia Vyriausybė, jo nuostatus tvirtina Seimas Vyriausybės teikimu. Rezervinio (stabilizavimo) fondo lėšos Vyriausybės nutarimu gali būti naudojamos: pensijų sistemos reformai finansuoti, Lietuvos valstybės rezervo piniginėms lėšoms, reikalingoms ūkio funkcionavimui palaikyti ekstremalių situacijų bei ekonominės grėsmės sąlygomis, sukaupti ir atkurti, šio fondo valdymo išlaidoms, taip pat grąžintinai gali būti naudojamos valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, vykdyti. Lėšos gyventojų santaupoms atkurti ir su tuo susijusioms išlaidoms padengti Vyriausybės sprendimu laikinai, 1999–2001 metais, gali būti naudojamos su Lietuvos Respublikos valstybės skolos įstatymo įgyvendinimu atsirandantiems valstybės turtiniams įsipareigojimams vykdyti.
 Straipsnio punkto pakeitimai:
 Nr. VIII-1454, 1999-11-25, Žin., 1999, Nr. 105-3030 (1999-12-09), i. k. 0991010ISTAIII-1454
+Nr. IX-611, 2001-11-20, Žin., 2001, Nr. 103-3654 (2001-12-07), i. k. 1011010ISTA00IX-611
  
 
 
@@ -1435,3 +1436,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1888, 2000-07-20, Žin., 2000, Nr. 66-1986 (2000-08-04), i. k. 1001010ISTAIII-1888
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 17, 19 straipsnių papildymo ir pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-611, 2001-11-20, Žin., 2001, Nr. 103-3654 (2001-12-07), i. k. 1011010ISTA00IX-611
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 7 straipsnio pakeitimo įstatymas
