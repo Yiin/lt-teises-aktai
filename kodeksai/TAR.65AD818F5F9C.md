@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2004-04-30 iki 2004-07-26
+Suvestinė redakcija nuo 2004-07-27 iki 2005-04-11
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -484,14 +484,15 @@ Nr. IX-283, 2001-04-19, Žin., 2001, Nr. 39-1353 (2001-05-09), i. k. 1011010ISTA
  
 
 
-15 straipsnis. Valstybės rinkliava
+15 straipsnis. Valstybės rinkliava 
 
 
-Už kelių transporto priemonių registravimą, dokumentų, licencijų (leidimų) verstis keleivių ir krovinių vežimais išdavimą mokama nustatyto dydžio valstybės rinkliava.
+Už licencijų (leidimų) verstis kelių transporto ūkine komercine veikla, kitų su kelių transporto veikla susijusių juridinę galią turinčių dokumentų ir jų dublikatų išdavimą mokama nustatyto dydžio valstybės rinkliava.
 
 
 Straipsnio pakeitimai:
 Nr. IX-283, 2001-04-19, Žin., 2001, Nr. 39-1353 (2001-05-09), i. k. 1011010ISTA00IX-283
+Nr. IX-2328, 2004-07-08, Žin., 2004, Nr. 116-4318 (2004-07-27), i. k. 1041010ISTA0IX-2328
  
 
 
@@ -1771,3 +1772,8 @@ Lietuvos Respublikos kelių transporto kodekso 1, 2, 4, 7, 8, 13, 14, 16, 17, 18
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2195, 2004-04-29, Žin., 2004, Nr. 73-2529 (2004-04-30), i. k. 1041010ISTA0IX-2195
 Lietuvos Respublikos kelių transporto kodekso 1, 3, 8, 11, 16 straipsnių pakeitimo ir papildymo bei Kodekso papildymo priedu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2328, 2004-07-08, Žin., 2004, Nr. 116-4318 (2004-07-27), i. k. 1041010ISTA0IX-2328
+Lietuvos Respublikos kelių transporto kodekso 15 straipsnio pakeitimo įstatymas
