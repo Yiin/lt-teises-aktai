@@ -92,8 +92,8 @@ Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
 (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
 Straipsnio
 pakeitimai:
-Nr. VIII-2057, 00.10.17, Žin., 2000,
-Nr.92-2887 (00.10.31)
+Nr. VIII-2057,
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
  
  
 3 straipsnis. Valstybės politikų,
@@ -141,9 +141,10 @@ taip pat mokamų atostogų laikas.
 ištarnautus valstybei metus sudaro 3 procentai valstybės politiko, teisėjo ar
 valstybės pareigūno pareiginės algos už kiekvienus trejus metus, tačiau
 priedo dydis neturi viršyti 30 procentų pareiginės algos.
-Straipsnio pakeitimai:
-Nr. VIII-2057, 00.10.17, Žin., 2000,
-Nr.92-2887 (00.10.31)
+Straipsnio
+pakeitimai:
+Nr. VIII-2057,
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
  
  
 6 straipsnis.
@@ -158,9 +159,9 @@ metų, priemokos dydis perskaičiuojamas proporcingai esamoms darbo užmokesčio
 lėšoms arba dirbtam laikui tais metais.
 2. Institucijų
 teisės aktuose (statutuose, nuostatuose), reglamentuojančiuose teisėjų ir
-valstybės pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas
-konkretizuojamos šio straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir
-išmokėjimo sąlygos bei tvarka. 
+valstybės pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas konkretizuojamos
+šio straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir išmokėjimo
+sąlygos bei tvarka. 
  
 7 straipsnis.
 Įstatymo įgyvendinimo tvarka
@@ -171,8 +172,9 @@ pradedamos taikyti naujai išrinktam ar perrinktam Respublikos Prezidentui.
 Pirmininko, Seimo pareigūnų ir Seimo narių darbo užmokesčio dydis ir apmokėjimo
 sąlygos pradedamos taikyti nuo kito naujai išrinkto Seimo pirmojo posėdžio
 dienos.
-3. Valstybės
-politikams, teisėjams ir valstybės pareigūnams: 
+3. Valstybės politikams,
+teisėjams ir valstybės pareigūnams: 
+ 
 1) kurių
 vidutinis darbo užmokestis, Vyriausybės nustatyta tvarka apskaičiuotas iš trijų
 paskutinių mėnesių tarnybinių atlyginimų (pareiginių algų) ir iš paskutinių
@@ -180,21 +182,21 @@ dvylikos mėnesių nustatytų priedų ir priemokų (toliau – buvęs darbo
 užmokestis), yra didesnis už šio įstatymo nustatytą darbo užmokestį,
 įsigaliojus šiam įstatymui, mokamas iki tol gautas darbo užmokestis ir 2000
 metais nedidinamas. Nustatytu pereinamuoju laikotarpiu (2001 m. sausio 1 d. –
-2003 m. sausio 1 d.) iki 2001 m. sausio 1 d. buvęs darbo užmokestis mažinamas
-kiekvieną mėnesį priklausantį darbo užmokestį apskaičiuojant
-(kol susilygins su šio įstatymo nustatytu darbo užmokesčiu) pagal formulę:
-A =
-C - [(C-B )
-x M].
+2003 m. liepos 1 d.) iki 2001 m. sausio 1 d. buvęs darbo užmokestis
+mažinamas kiekvieną mėnesį priklausantį darbo užmokestį apskaičiuojant (kol
+susilygins su šio įstatymo nustatytu darbo užmokesčiu) pagal formulę:
+A = C – [(C–B) x
+M].
 Čia:
-A –
-pereinamuoju laikotarpiu priklausantis darbo užmokestis;
-C – buvęs darbo užmokestis;
+A – pereinamuoju
+laikotarpiu priklausantis darbo užmokestis;
+C – buvęs darbo
+užmokestis;
 B – valstybės politiko, teisėjo ar valstybės pareigūno
 darbo užmokestis, nustatytas šiuo įstatymu;
-M –
-darbo užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį
-darbo užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
+M – darbo
+užmokesčio perskaičiavimo koeficientas, nuosekliai mažinantis buvusį darbo
+užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
  
 
 
@@ -206,6 +208,9 @@ Metai
 
 
 2002
+
+
+2003
 
 
 
@@ -225,18 +230,24 @@ I
 II
 
 
+I
+
+
 
 
 M
 
 
-0,2
+0
 
 
 0,4
 
 
-0,65
+0,6
+
+
+0,8
 
 
 0,9
@@ -249,8 +260,7 @@ darbo užmokestis yra mažesnis už šio įstatymo nustatytą darbo užmokestį,
 naujasis darbo užmokesčio dydis pasiekiamas laipsniškai, pereinamuoju
 laikotarpiu kiekvieną mėnesį valstybės politikui, teisėjui ar valstybės
 pareigūnui priklausantį darbo užmokestį apskaičiuojant pagal formulę:
-A=[ (B–C) x D]
-+C.
+A=[ (B–C) x D] +C.
 Čia:
 A – pereinamuoju
 laikotarpiu priklausantis darbo užmokestis;
@@ -312,12 +322,15 @@ D
 
  
 4. Pereinamuoju laikotarpiu į valstybės politiko, teisėjo ir valstybės
-pareigūno pareigas išrinktiems ar paskirtiems asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio
-nuostatas ir nurodytas formules, kuriose dydis C reiškia naujai išrinkto ar
-paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokesčio,
-apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo apmokėjimo sąlygas, dydį. 
-5. Nuo 2006 m. sausio 1 d. valstybės politikams, teisėjams ir valstybės
-pareigūnams turi būti mokamas šio įstatymo nustatytas darbo užmokestis. 
+pareigūno pareigas išrinktiems ar paskirtiems asmenims darbo užmokestis
+nustatomas ir apskaičiuojamas pagal šio straipsnio nuostatas ir nurodytas
+formules, kuriose dydis C reiškia naujai
+išrinkto ar paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo
+užmokesčio, apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo
+apmokėjimo sąlygas, dydį. 
+5. Pasibaigus
+pereinamajam laikotarpiui, valstybės politikams, teisėjams ir valstybės
+pareigūnams turi būti mokamas šio įstatymo nustatytas darbo užmokestis.
 6. Skaičiuojant
 valstybės politikų, teisėjų ir valstybės pareigūnų darbo užmokestį pereinamuoju
 laikotarpiu, taikomas Lietuvos Respublikos valstybės tarnybos įstatymo 69
@@ -325,15 +338,17 @@ straipsnio 5 dalies 1 punkte nustatytas pareiginės algos koeficiento bazės
 dydis. 
 Straipsnio
 pakeitimai:
-Nr. VIII-2057, 00.10.17, Žin., 2000,
-Nr.92-2887 (00.10.31)
+Nr. VIII-2057,
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
+Nr. IX-231, 2001 03 27, Žin., 2001, Nr.
+29-918 (2001 04 04)
  
  
 8 straipsnis. Neteko galios.
 Straipsnio
 pakeitimai:
-Nr. VIII-2057, 00.10.17, Žin., 2000,
-Nr.92-2887 (00.10.31)
+Nr. VIII-2057,
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
  
  
 9 straipsnis.
@@ -706,8 +721,8 @@ Merų pavaduotojai
 
 Skirsnio
 pakeitimai:
-Nr. VIII-2057, 00.10.17, Žin., 2000,
-Nr.92-2887 (00.10.31)
+Nr. VIII-2057,
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
  
  
 II. Teisėjų pareiginės algos
@@ -1700,9 +1715,10 @@ Vaiko teisių apsaugos kontrolierius
 8.
 
 
-Seimo ar Respublikos Prezidento paskirtų
-  rinkos priežiūros ir reguliavimo institucijų – Vertybinių popierių komisijos,
-  Konkurencijos tarybos, Valstybinės kainų ir energetikos kontrolės komisijos:
+Seimo ar Respublikos Prezidento
+  paskirtų rinkos priežiūros ir reguliavimo institucijų – Vertybinių popierių
+  komisijos, Konkurencijos tarybos, Valstybinės kainų ir energetikos kontrolės
+  komisijos:
 
 
  
@@ -1825,8 +1841,8 @@ Pareigūnai
 
 Skirsnio
 pakeitimai:
-Nr. VIII-2057, 00.10.17, Žin., 2000,
-Nr.92-2887 (00.10.31)
+Nr. VIII-2057,
+00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
  
 __________
  
@@ -1835,14 +1851,23 @@ Pakeitimai:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. VIII-2057, 2000 10 17, Žin., 2000, Nr.
-92-2887 (2000 10 31)
+Nr. VIII-2057,
+2000 10 17, Žin., 2000, Nr. 92-2887 (2000 10 31)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PAKEITIMO
 ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-231,
+2001 03 27, Žin., 2001, Nr. 29-918 (2001 04 04)
+VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO
+APMOKĖJIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė
-(2000 11 03)
+Redagavo: Aušrinė
+Trapinskienė (2001 04 04)
+                  autrap@lrs.lt
