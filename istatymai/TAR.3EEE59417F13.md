@@ -24,11 +24,6 @@ PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS)
 ĮSTATYMAS
 2003 m. liepos 1 d. Nr. IX-1675
 Vilnius
-
-
-
-
- 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
@@ -116,14 +111,14 @@ nesusituokusios nėščios moterys iki 18 metų, kol joms iki gimdymo yra likę 
 daugiau kaip 70 kalendorinių dienų (suėjus 28 nėštumo savaitėms ir daugiau).
 Vienu gyvenančiu asmeniu nelaikomi nedirbantys mokymo įstaigų dieninių skyrių
 moksleiviai ir studentai iki 24 metų.
-                         
+ 
 ANTRASIS
 SKIRSNIS
 SOCIALINĖ
 PAŠALPA
  
-4 straipsnis.
-Šeimų (vienų gyvenančių asmenų) teisė į socialinę pašalpą
+4
+straipsnis. Šeimų (vienų gyvenančių asmenų) teisė į socialinę pašalpą
 1. Šeimos (vieni gyvenantys asmenys) turi teisę į socialinę
 pašalpą, jeigu jos (jie) atitinka
 šios dalies 1
@@ -131,9 +126,9 @@ ir 2 punktuose nurodytas sąlygas ir kiekvienas šeimos narys (vienas gyvenantis
 asmuo) atitinka bent vieną iš 3, 4 ar 5 punktuose nurodytų sąlygų: 
 1) turimo turto, nurodyto šio Įstatymo 9 straipsnyje, vertė
 neviršija turto vertės normatyvo, nustatyto pagal šio Įstatymo 11 straipsnį;
-2) vidutinės 3 praėjusių iki kreipimosi dėl pašalpos skyrimo
-mėnesių šeimos (vieno gyvenančio asmens) pajamos yra mažesnės už valstybės
-remiamas pajamas šeimai (vienam gyvenančiam asmeniui);
+2) vidutinės 3 praėjusių iki kreipimosi dėl pašalpos
+skyrimo mėnesių šeimos (vieno gyvenančio asmens) pajamos yra mažesnės už
+valstybės remiamas pajamas šeimai (vienam gyvenančiam asmeniui);
 3) dirbantys vyresni kaip 18 metų šeimos nariai (vienas
 gyvenantis asmuo) dirba ir per 3 mėnesių laikotarpį, už kurį pajamas reikia
 apskaičiuoti, dirbo ne mažiau kaip du trečdalius darbo laiko trukmės,
@@ -201,9 +196,9 @@ KOMPENSACIJOS
 6
 straipsnis. Šeimų (vienų gyvenančių asmenų) teisė į kompensacijas
 1. Šeimos
-(vieni gyvenantys asmenys) turi teisę į kompensacijas, jeigu atitinka šios
-dalies 1–4 punktuose nurodytas sąlygas ir kiekvienas šeimos narys (vienas
-gyvenantis asmuo) atitinka bent vieną iš 5, 6 ar 7 punktuose nurodytų sąlygų: 
+(vieni gyvenantys asmenys) turi teisę į kompensacijas, jeigu atitinka šios dalies
+1–4 punktuose nurodytas sąlygas ir kiekvienas šeimos narys (vienas gyvenantis
+asmuo) atitinka bent vieną iš 5, 6 ar 7 punktuose nurodytų sąlygų: 
 1) nuosavybės teise turimo turto, nurodyto šio Įstatymo 9
 straipsnyje, vertė neviršija turto vertės normatyvo, nustatyto vadovaujantis
 šio Įstatymo 11 straipsniu;
@@ -256,11 +251,11 @@ kaip 8 metų, nelankantį ikimokyklinės ugdymo įstaigos pagal gydytojų
 rekomendaciją arba dėl to, kad gyvenamojoje vietovėje nėra ikimokyklinės ugdymo
 įstaigos ar vietų joje. 
 2. Nutraukusių
-santuoką arba gyvenančių skyrium sutuoktinių, auginančių vaikus iki 18 metų,
-šeimoms, atitinkančioms šio straipsnio 1 dalies 1–4 punktuose nurodytas sąlygas
-ir bent vieną iš 5, 6 ar 7 punktuose nurodytų sąlygų, kompensacijos skiriamos,
-jeigu jie yra sudarę teismo patvirtintą vaiko (vaikų) išlaikymo sutartį arba
-jei vaiko (vaikų) išlaikymą yra priteisęs teismas.            
+santuoką arba gyvenančių skyrium sutuoktinių, auginančių vaikus iki 18 metų, šeimoms,
+atitinkančioms šio straipsnio 1 dalies 1–4 punktuose nurodytas sąlygas ir bent
+vieną iš 5, 6 ar 7 punktuose nurodytų sąlygų, kompensacijos skiriamos, jeigu
+jie yra sudarę teismo patvirtintą vaiko (vaikų) išlaikymo sutartį arba jei
+vaiko (vaikų) išlaikymą yra priteisęs teismas.            
 3. Nesusituokusių asmenų, kurie vieni augina vaikus iki 18
 metų, šeimoms, atitinkančioms šio straipsnio 1 dalies 1–4 punktuose nurodytas
 sąlygas ir bent vieną iš 5, 6 ar 7 punktuose nurodytų sąlygų, kompensacijos
@@ -279,10 +274,10 @@ punktuose nurodytų sąlygų.
 straipsnis. Normatyvai kompensacijoms apskaičiuoti 
 1. Kompensacijoms
 apskaičiuoti taikomi šie normatyvai:
-1) būsto naudingojo ploto normatyvas: vienam iš būste
-gyvenančių šeimos narių (vienam gyvenančiam asmeniui) – 38 kvadratiniai metrai,
-kiekvienam kitam šeimos nariui – 12 kvadratinių metrų. Šie plotai nustatomi
-pagal kadastrinių matavimų duomenis;
+1) būsto naudingojo ploto normatyvas: vienam iš būste gyvenančių
+šeimos narių (vienam gyvenančiam asmeniui) – 38 kvadratiniai metrai, kiekvienam
+kitam šeimos nariui – 12 kvadratinių metrų. Šie plotai nustatomi pagal
+kadastrinių matavimų duomenis;
 2) karšto vandens – 1 kubinis metras vienam šeimos nariui (vienam
 gyvenančiam asmeniui) per mėnesį;
 3) šalto vandens ir nuotėkų – 2 kubiniai metrai vienam
@@ -368,8 +363,8 @@ miesteliuose ir kaimuose – 25 arai;
 3) didesnio kaip 1 hektaro žemės ūkio paskirties žemės
 sklypo, žemės sklypo, kurį sudaro tik vandens telkinys, bei miškų ūkio
 paskirties žemės sklypo – 3,5 hektaro. Jeigu šeimos (vieno gyvenančio
-asmens) turimi žemės sklypai yra ne tos pačios paskirties, nustatant žemės sklypo
-normatyvą imamas vienos paskirties, didžiausios vertės žemės sklypas;
+asmens) turimi žemės sklypai yra ne tos pačios paskirties, nustatant žemės
+sklypo normatyvą imamas vienos paskirties, didžiausios vertės žemės sklypas;
 4) šeimai (vienam gyvenančiam asmeniui), neturinčiai
 šios dalies 1–3 punktuose nurodyto žemės sklypo, taikomas šios dalies 2 punkte
 nustatytas žemės sklypo normatyvas.
@@ -507,8 +502,8 @@ gyvenančio asmens) vidutinių mėnesio pajamų dalį, tenkančią būstą, kaip
 gyvenamąją vietą, deklaravusiems šeimos nariams (vienam gyvenančiam asmeniui). 
 2. Vidutinės šeimos
 (vieno gyvenančio asmens) pajamos per mėnesį apskaičiuojamos pagal 3 mėnesių,
-praėjusių iki laikotarpio, nuo kurio šeimai (vienam gyvenančiam asmeniui)
-skiriamos kompensacijos, pajamas, nurodytas šio Įstatymo 12 straipsnyje. 
+praėjusių iki laikotarpio, nuo kurio šeimai (vienam gyvenančiam asmeniui) skiriamos
+kompensacijos, pajamas, nurodytas šio Įstatymo 12 straipsnyje. 
 3.
 Jeigu viename būste gyvena daugiau kaip viena šeima ir šios šeimos atsiskaito
 pagal vieną sąskaitą (atsiskaitomąją knygelę), bendros būstą, kaip gyvenamąją
@@ -542,13 +537,13 @@ piniginis laimėjimas ir kitos).
 
 1) nuolat arba darbo dienomis gyvena (aprūpintas nakvyne ir maistu)
 valstybės ar savivaldybės finansuojamoje įstaigoje;
-2) neturi leidimo
-nuolat gyventi Lietuvos Respublikoje.
+2) neturi
+leidimo nuolat gyventi Lietuvos Respublikoje.
 8. Kompensacijos šeimos nariui (vienam gyvenančiam
 asmeniui) neskiriamos ir jo pajamos neįskaitomos į šeimos pajamas, jeigu jis: 
 1) yra
-moksleivis ar studentas iki 24 metų ir gyvena kitoje valstybėje bei mokosi tos valstybės
-mokymo įstaigos dieniniame skyriuje;
+moksleivis ar studentas iki 24 metų ir gyvena kitoje valstybėje bei mokosi tos
+valstybės mokymo įstaigos dieniniame skyriuje;
 2) atlieka privalomąją pradinę karo tarnybą.
 9. Jeigu name, kuris šildomas gamtinėmis dujomis, yra
 vienas dujų apskaitos prietaisas, o būstai priklauso kelioms šeimoms (vieniems
@@ -562,18 +557,22 @@ SOCIALINĖS PARAMOS ADMINISTRAVIMAS
  
 15
 straipsnis. Piniginę socialinę paramą administruojanti institucija
-Piniginę socialinę
-paramą administruoja šeimos (vieno gyvenančio asmens) deklaruojamos
-gyvenamosios vietos savivaldybė. 
+Piniginę socialinę paramą administruoja šeimos (vieno
+gyvenančio asmens) deklaruojamos gyvenamosios vietos savivaldybė, o jei šeima
+(vienas gyvenantis asmuo) gyvenamosios vietos neturi, – savivaldybė, kurioje
+šeima (vienas gyvenantis asmuo) gyvena.
+Straipsnio pakeitimai:
+Nr. IX-2217,
+2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14)
  
 16
 straipsnis. Kreipimasis dėl piniginės socialinės paramos
 1. Kreipdamasi
-dėl piniginės socialinės paramos, šeima (vienas gyvenantis asmuo) užpildo Vyriausybės
-ar jos įgaliotos institucijos patvirtintą prašymą-paraišką, joje nurodo
-duomenis apie šeimą, jos narių veiklos pobūdį, turimą turtą ir šio Įstatymo 9
-straipsnio 1 dalies 6–12 punktuose nurodyto turto vertę, gaunamas pajamas bei
-kitą piniginei socialinei paramai gauti būtiną informaciją. Prie
+dėl piniginės socialinės paramos, šeima (vienas gyvenantis asmuo) užpildo
+Vyriausybės ar jos įgaliotos institucijos patvirtintą prašymą-paraišką, joje
+nurodo duomenis apie šeimą, jos narių veiklos pobūdį, turimą turtą ir šio
+Įstatymo 9 straipsnio 1 dalies 6–12 punktuose nurodyto turto vertę, gaunamas
+pajamas bei kitą piniginei socialinei paramai gauti būtiną informaciją. Prie
 prašymo-paraiškos pridedamos šeimos narių (vieno gyvenančio asmens) pažymos
 apie šio Įstatymo 12 straipsnyje nurodytas pajamas, gautas per 3 praėjusius iki
 kreipimosi dėl piniginės socialinės paramos mėnesius. Visų
@@ -591,8 +590,8 @@ socialinės paramos šeima (vienas gyvenantis asmuo) kreipiasi pakartotinai, ji
 (jis) turi pranešti savivaldybei apie turto pasikeitimus po laikotarpio, už
 kurį turtas buvo deklaruotas. 
 3. Savivaldybė pagal Vyriausybės ar jos įgaliotos institucijos parengtą
-metodiką nustato šeimos (vieno gyvenančio asmens) turto, nurodyto šio Įstatymo
-9 straipsnio 1 dalies 1–4 punktuose, vertę, o remdamasi Vyriausybės ar jos
+metodiką nustato šeimos (vieno gyvenančio asmens) turto, nurodyto šio Įstatymo 9
+straipsnio 1 dalies 1–4 punktuose, vertę, o remdamasi Vyriausybės ar jos
 įgaliotos institucijos patvirtintomis žemės ūkio produkcijos sąlyginėmis
 vertėmis – šio Įstatymo 9 straipsnio 1 dalies 5 punkte nurodyto turto vertę. 
 4. Savivaldybė surenka kitų valstybės ir savivaldybių įmonių,
@@ -640,13 +639,17 @@ lėšomis;
 (perkant maistą ir kitas reikalingas prekes, organizuojant suaugusiųjų bei
 vaikų maitinimą ir kita).
 2. Šeimai (vienam gyvenančiam asmeniui) pakeitus deklaruotą gyvenamąją
-vietą, piniginės socialinės paramos teikimas ankstesnėje savivaldybėje
-nutraukiamas, išmokėjus ją už tą mėnesį, kurį ją gavusi šeima (vienas gyvenantis
-asmuo) pakeitė deklaruotą gyvenamąją vietą. Šeima (vienas gyvenantis asmuo)
-nustatyta tvarka nuo kito mėnesio kreipiasi į naujai deklaruojamos gyvenamosios
-vietos savivaldybę, o ši piniginę socialinę paramą teikia nustatyta tvarka, bet
-ne anksčiau negu nuo kito mėnesio po to, kai šeimos (vieno gyvenančio asmens)
-deklaruojama gyvenamoji vieta buvo pakeista.
+vietą (jei gyvenamosios vietos neturi, – savivaldybę, kurioje gyvena),
+piniginės socialinės paramos teikimas ankstesnėje savivaldybėje nutraukiamas,
+išmokėjus ją už tą mėnesį, kurį ją gavusi šeima (vienas gyvenantis asmuo)
+pakeitė deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, –
+savivaldybę, kurioje gyvena). Šeima (vienas gyvenantis asmuo) nustatyta
+tvarka nuo kito mėnesio kreipiasi į naujai deklaruojamos gyvenamosios vietos
+savivaldybę (jei gyvenamosios vietos neturi, – į savivaldybę, kurioje gyvena),
+o ši piniginę socialinę paramą teikia nustatyta tvarka, bet ne anksčiau negu
+nuo kito mėnesio po to, kai šeimos (vieno gyvenančio asmens) deklaruojama
+gyvenamoji vieta (jei gyvenamosios vietos neturi, – savivaldybė, kurioje
+gyvena), buvo pakeista.
 3. Paskirta, bet laiku neatsiimta socialinė pašalpa išmokama, jeigu dėl
 jos buvo kreiptasi ne vėliau kaip per 3 mėnesius nuo paskutinio mėnesio, už
 kurį pašalpa priklausė. 
@@ -670,7 +673,9 @@ praėjusį mėnesį savivaldybės nustatyta tvarka.
 7. Jeigu šeimai
 (vienam gyvenančiam asmeniui) apskaičiuota socialinė pašalpa yra mažesnė kaip 5
 litai, ji nemokama.
- 
+Straipsnio pakeitimai:
+Nr. IX-2217,
+2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14)
  
 19
 straipsnis. Savivaldybės teisės administruojant piniginę socialinę paramą
@@ -683,13 +688,11 @@ darbams atlikti;
 2) socialinės rizikos šeimoms (asmenims) ir nedarnioms
 šeimoms socialinę paramą teikti socialinėmis paslaugomis, vadovaujantis
 Socialinių paslaugų įstatymu;       
-3) socialinę pašalpą šeimoms (vieniems gyvenantiems
-asmenims) skirti paslaugomis, kai šeima (vienas gyvenantis asmuo) neatitinka
-šio Įstatymo 4 straipsnio 2 ir 3 dalių reikalavimų ar nevykdo šio Įstatymo 22 straipsnio 1 dalies 4 punkte ir 2 dalyje nustatytų
-pareigų ir kai neturi galimybės deklaruoti savo gyvenamosios vietos (būsto savininkas
-nesutinka, kad šeima (vienas gyvenantis asmuo) deklaruotų savo gyvenamąją vietą
-jam priklausančiame būste arba nėra galimybės nurodyti gyvenamosios vietos
-adreso);
+3) socialinę
+pašalpą šeimoms (vieniems gyvenantiems asmenims) skirti paslaugomis, kai šeima
+(vienas gyvenantis asmuo) neatitinka šio Įstatymo 4 straipsnio 2 ir 3 dalių reikalavimų
+ar nevykdo šio Įstatymo 22 straipsnio 1 dalies 4 punkte ir 2 dalyje nustatytų
+pareigų;
 4) papildomai apklausti asmenis, kurie kreipiasi dėl
 piniginės socialinės paramos ar gauna šią paramą, tikrinti jų pateiktus
 dokumentus ir reikalauti papildomos informacijos, įrodančios šeimos (vieno
@@ -724,7 +727,8 @@ pakeitimai:
 Nr.
 IX-1912,
 2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
- 
+Nr. IX-2217,
+2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14)
  
 20
 straipsnis. Informacijos teikimas
@@ -745,7 +749,6 @@ socialinę paramą.
 turi užtikrinti šeimų (vienų gyvenančių asmenų) pateiktos piniginei socialinei
 paramai gauti informacijos konfidencialumą.
  
- 
 21
 straipsnis. Piniginės socialinės paramos lėšos
 1. Socialinė pašalpa ir kompensacijos mokamos iš valstybės
@@ -757,9 +760,9 @@ SEPTINTASIS
 SKIRSNIS
 PINIGINĘ
 SOCIALINĘ PARAMĄ GAUNANČIOS ŠEIMOS (VIENO GYVENANČIO ASMENS) PAREIGOS
-             
-22 straipsnis. Piniginę socialinę
-paramą gaunančios šeimos (vieno gyvenančio asmens) pareigos
+ 
+22 straipsnis. Piniginę
+socialinę paramą gaunančios šeimos (vieno gyvenančio asmens) pareigos
 1. Piniginę socialinę paramą gaunanti šeima (vienas
 gyvenantis asmuo) privalo:
 1) pagal Vyriausybės ar jos įgaliotos institucijos
@@ -868,12 +871,7 @@ Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-
-
-
-
- 
-RESPUBLIKOS PREZIDENTAS                                 ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                         ROLANDAS PAKSAS
  
 _________________
  
@@ -897,18 +895,30 @@ IX-1912,
 2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
 PROKURATŪROS ĮSTATYMO, VIEŠŲJŲ IR
 PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO, SAVIVALDYBIŲ TARYBŲ
-RINKIMŲ ĮSTATYMO, PREZIDENTO RINKIMŲ ĮSTATYMO, SEIMO RINKIMŲ ĮSTATYMO, PINIGINĖS
-SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS
-ASMENIMS) ĮSTATYMO, VALSTYBĖS GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO IR
-VALSTYBĖS KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Šis įstatymas įsigalioja nuo
-2004-01-01.
+RINKIMŲ ĮSTATYMO, PREZIDENTO RINKIMŲ ĮSTATYMO, SEIMO RINKIMŲ ĮSTATYMO,
+PINIGINĖS SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS
+GYVENANTIEMS ASMENIMS) ĮSTATYMO, VALSTYBĖS GARANTUOJAMOS TEISINĖS PAGALBOS
+ĮSTATYMO IR VALSTYBĖS KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2004
+m. sausio 1 d.
+ 
+3.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-2217,
+2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14)
+VALSTYBINIŲ SOCIALINIO DRAUDIMO
+PENSIJŲ ĮSTATYMO, VALSTYBINIŲ ŠALPOS IŠMOKŲ ĮSTATYMO, MOKSLININKŲ VALSTYBINIŲ
+PENSIJŲ LAIKINOJO ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO, VALSTYBĖS PARAMOS
+BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO, PINIGINĖS SOCIALINĖS PARAMOS MAŽAS
+PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS) ĮSTATYMO PAKEITIMO
+ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2004-01-05)
+Aušrinė Trapinskienė (2004-05-18)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
