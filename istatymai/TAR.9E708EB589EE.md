@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9E708EB589EE"
 
 # Dėl apylinkių teismų teisėjų etatų skaičiaus
 
-Suvestinė redakcija nuo 1995-01-01 iki 1998-08-31
+Įstatymas netenka galios 1999-07-09:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1261, 1999-06-22, Žin., 1999, Nr. 60-1954 (1999-07-09), i. k. 0991010ISTAIII-1261
+Lietuvos Respublikos įstatymo "Dėl apylinkių teismų teisėjų etatų skaičiaus" pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 1998-09-01 iki 1999-07-08
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 25-396, i. k. 0941010ISTA000I-408
  
@@ -33,15 +38,15 @@ Nustatyti Lietuvos Respublikos apylinkių teismų teisėjų etatų skaičių:
 
  Vilniaus miesto 1 apylinkės teisme 
  –  
- 33 teisėjų etatus; 
+ 35 teisėjų etatus; 
 
  Vilniaus miesto 2 apylinkės teisme 
  –  
- 19 teisėjų etatų; 
+ 22 teisėjų etatus; 
 
  Vilniaus miesto 3 apylinkės teisme 
  –  
- 11 teisėjų etatų; 
+ 13 teisėjų etatų; 
 
  Vilniaus miesto 4 apylinkės teisme 
  –  
@@ -252,6 +257,7 @@ Nustatyti Lietuvos Respublikos apylinkių teismų teisėjų etatų skaičių:
 Straipsnio pakeitimai:
 Nr. I-682, 1994-12-06, Žin., 1994, Nr. 96-1877 (1994-12-14), i. k. 0941010ISTA000I-682
 Nr. I-695, 1994-12-13, Žin., 1994, Nr. 99-1960 (1994-12-23), i. k. 0941010ISTA000I-695
+Nr. VIII-653, 1998-03-03, Žin., 1998, Nr. 26-674 (1998-03-18), i. k. 0981010ISTAVIII-653
  
 
 2 straipsnis
@@ -280,4 +286,9 @@ Dėl Lietuvos Respublikos įstatymo "Dėl apylinkių teismų teisėjų etatų sk
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-695, 1994-12-13, Žin., 1994, Nr. 99-1960 (1994-12-23), i. k. 0941010ISTA000I-695
 Dėl Lietuvos Respublikos įstatymo "Dėl apylinkių teismų teisėjų etatų skaičiaus" 1 straipsnio pakeitimo
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-653, 1998-03-03, Žin., 1998, Nr. 26-674 (1998-03-18), i. k. 0981010ISTAVIII-653
+Lietuvos Respublikos įstatymo "Dėl apylinkių teismų teisėjų etatų skaičiaus" 1 straipsnio pakeitimo įstatymas
 
