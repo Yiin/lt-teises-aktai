@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
+Suvestinė redakcija nuo 1996-07-19 iki 1998-12-31
+ 
+Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBINIŲ ŠALPOS IŠMOKŲ
 Į S T A T Y M A S
@@ -192,7 +196,10 @@ Miesto (rajono) valdytojo bei atitinkamų globos ir rūpybos institucijų sprend
 
 
 
-Šalpos (socialinių) pensijų skyrimą ir mokėjimą miestų (rajonų) savivaldybių globos ir rūpybos institucijos perima iki 1996 m. sausio 1 dienos.
+Šalpos (socialinių) pensijų skyrimą ir mokėjimą miestų (rajonų) savivaldybių globos ir rūpybos institucijos perima iki 1997 m. sausio 1 dienos.
+Straipsnio dalies pakeitimai:
+Nr. I-1439, 1996-07-04, Žin., 1996, Nr. 68-1637 (1996-07-19), i. k. 0961010ISTA00I-1439
+ 
 
 
 
@@ -246,3 +253,13 @@ Jei mokama kompensacija, šalpos (socialinė) pensija nemokama. Įgijus teisę g
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1439, 1996-07-04, Žin., 1996, Nr. 68-1637 (1996-07-19), i. k. 0961010ISTA00I-1439
+Lietuvos Respublikos šalpos (socialinių) pensijų įstatymo pakeitimo įstatymas
