@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2000-11-01 iki 2001-12-29
+Suvestinė redakcija nuo 2001-12-30 iki 2005-07-11
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
  
@@ -279,7 +279,7 @@ Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010IS
 
 
 
-2) nustato rinkliavas bendriems zonos reikalams;
+2) nustato rinkliavas zonos įmonėms;
 
 
 
@@ -319,17 +319,17 @@ Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010IS
 
 
 
-10) nustato zonos valdymo bendrovės iškvietimų norintiems atvykti į zoną užsienio piliečiams ir asmenims be pilietybės, nuolat gyvenantiems užsienyje, išdavimo tvarką bei tarpininkavimo dėl vizų išdavimo užsieniečiams vykti per Lietuvos Respublikos teritoriją nuo sienos perėjimo punktų iki zonos teritorijos tvarką;
+10) suderinusi su Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į laisvąsias teritorijas tvarką bei tvirtina leidimų pavyzdžius;
 
 
 
 
-11) suderinusi su Valstybės sienos apsaugos tarnyba bei Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į zoną tvarką bei tvirtina leidimų pavyzdžius. 
-Straipsnio punkto pakeitimai:
-Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010ISTAIII-2004
+11) suderinusi su Muitinės departamentu prie Finansų ministerijos, skelbia zonos teritorijos dalis laisvosiomis teritorijomis ir nustato šių teritorijų ribas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010ISTA00IX-671
  
-
-
 
 
 
@@ -357,10 +357,7 @@ Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010I
 
 
 
-4) išduoda bendrovės valdybos nustatyto ir su Valstybės sienos apsaugos tarnyba bei Muitinės departamentu prie Finansų ministerijos suderinto pavyzdžio leidimus įeiti į zoną; 
-Straipsnio punkto pakeitimai:
-Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010ISTAIII-2004
- 
+4) išduoda bendrovės valdybos nustatyto ir su Muitinės departamentu prie Finansų ministerijos suderinto pavyzdžio leidimus įeiti į laisvąsias teritorijas;
 
 
 
@@ -370,12 +367,12 @@ Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010I
 
 
 
-6) užtikrina zonos ribų apsaugą ir sudaro sąlygas Lietuvos Respublikos muitinės darbui muitinės kontrolės postuose;
+6) užtikrina laisvųjų teritorijų ribų apsaugą ir sudaro sąlygas Lietuvos Respublikos muitinės darbui laisvųjų teritorijų muitinės kontrolės postuose;
 
 
 
 
-7) užtikrina zonos teritorijos fizinę apsaugą;
+7) užtikrina laisvųjų teritorijų fizinę apsaugą;   
 
 
 
@@ -390,14 +387,12 @@ Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010I
 
 
 
-10) renka iš ūkio subjektų statistinius ataskaitinius duomenis ir juos analizuoja atsižvelgdama į Statistikos įstatymo reikalavimus;
+10) dirba kitą valdybos jai pavestą darbą.
 
 
-
-
-11) dirba kitą valdybos jai pavestą darbą.
-
-
+Straipsnio dalies pakeitimai:
+Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010ISTA00IX-671
+ 
 
 
 
@@ -473,7 +468,9 @@ Per Kauno oro uostą įvežamų į zoną ir iš jos išvežamų prekių muitinis
 
 
 
-2. Zonos valdymo bendrovė zonos statute nustatyta tvarka nustato rinkliavų bendriems zonos reikalams tarifų dydžius, subjektus, iš kurių bus imamos rinkliavos, taip pat kitas rinkliavų rinkimo ir mokėjimo sąlygas.
+2. Zonos valdymo bendrovė zonos statute nustatyta tvarka nustato rinkliavų zonos įmonėms tarifų dydžius, subjektus, iš kurių bus imamos rinkliavos, taip pat kitas rinkliavų rinkimo ir mokėjimo sąlygas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010ISTA00IX-671
  
 
 
@@ -481,6 +478,7 @@ Per Kauno oro uostą įvežamų į zoną ir iš jos išvežamų prekių muitinis
 
 
 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
@@ -515,3 +513,8 @@ Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 3 ir 4 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2004, 2000-10-10, Žin., 2000, Nr. 92-2856 (2000-10-31), i. k. 1001010ISTAIII-2004
 Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010ISTA00IX-671
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7, 10 straipsnių pakeitimo ir papildymo įstatymas
