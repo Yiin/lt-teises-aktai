@@ -13,85 +13,60 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2001-05-09 iki 2004-04-30
+Suvestinė redakcija nuo 2004-05-01 iki 2005-07-13
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
  
+Nauja redakcija nuo 2004-05-01:
+Nr. IX-2148, 2004-04-20, Žin. 2004, Nr. 68-2365 (2004-04-29), i. k. 1041010ISTA0IX-2148
  
-LIETUVOS RESPUBLIKOS GYDYTOJO MEDICINOS PRAKTIKOS Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS MEDICINOS PRAKTIKOS Į S T A T Y M A S
  
 1996 m. rugsėjo 25 d. Nr. I-1555
 Vilnius
  
+ 
 
 
-I SKYRIUS
+PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Šiame įstatyme vartojamos sąvokos
+1 straipsnis. Įstatymo paskirtis 
 
 
-1. Gydytojas – asmuo, turintis aukštąjį medicinos išsilavinimą ir šio įstatymo nustatyta tvarka turintis teisę užsiimti asmens sveikatos priežiūra, kuri apima asmens sveikatos būklės nustatymą (ekspertizę), ligų profilaktiką, ligų diagnozavimą, ligonių gydymą ir medicininę reabilitaciją. Šiame įstatyme gydytojo sąvoka apima gydytojo asistento, gydytojo rezidento, gydytojo tyrėjo, medicinos gydytojo ir gydytojo specialisto sąvokas.
-
-
-
-
-2. Gydytojas asistentas – asmuo, turintis gydytojo diplomą, bet nebaigęs podiplominių aukštojo medicinos mokslo studijų specialybės rezidentūroje arba baigęs rezidentūrą, tačiau ne tos specialybės ir neturintis teisės savarankiškai verstis medicinos praktika.
+1. Šio Įstatymo paskirtis – reglamentuoti medicinos gydytojo, šeimos gydytojo ir gydytojo specialisto vertimosi medicinos praktika Lietuvos Respublikoje sąlygas.
 
 
 
 
-3. Gydytojas rezidentas – asmuo, turintis gydytojo diplomą ir tęsiantis podiplomines aukštojo medicinos mokslo studijas medicinos gydytojo pirminėje ar specialybės rezidentūroje, neturintis teisės savarankiškai verstis tos specialybės medicinos praktika.
+2. Šis Įstatymas nustato:
+
+
+1) gydytojo profesinės kvalifikacijos įgijimo sąlygas; 
 
 
 
 
-4. Gydytojas tyrėjas – asmuo, turintis gydytojo diplomą ir sertifikatą, patvirtinantį teisę atlikti tam tikras ligų diagnozavimo (tyrimo) procedūras, bei turintis teisę savarankiškai verstis medicinos praktika, kurią apibrėžia gydytojo tyrėjo specialybės norma.
-Straipsnio dalies pakeitimai:
-Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
- 
+2) gydytojo teisės verstis medicinos praktika įgijimo, įgyvendinimo ir praradimo sąlygas;
 
 
 
 
-5. Medicinos gydytojas – gydytojas, šio įstatymo nustatyta tvarka turintis galiojančią pirminės medicinos praktikos licenciją ir galintis savarankiškai verstis pirmine medicinos praktika.
+3) gydytojo pagrindines profesines teises, pareigas ir atsakomybę.
 
 
 
 
-6. Gydytojas specialistas – gydytojas, šio įstatymo nustatyta tvarka turintis galiojančią specializuotos medicinos praktikos licenciją ir galintis savarankiškai verstis licencijoje nurodytos specialybės medicinos praktika.
+
+
+3. Šis Įstatymas taikomas gydytojams, dirbantiems Lietuvos Respublikoje. 
 
 
 
 
-7. Medicinos praktika (pirminė ar specializuota) – gydytojo, turinčio licenciją, atliekama asmens sveikatos priežiūra.
-
-
-
-
-8. Pirminės medicinos praktikos licencija (toliau – licencija) – dokumentas, suteikiantis teisę asmeniui Lietuvos Respublikoje verstis pirmine medicinos praktika. Pirminės medicinos praktikos mastą ir tvarką nustato Sveikatos apsaugos ministerija.
-
-
-
-
-9. Specializuotos medicinos praktikos licencija (toliau – licencija) – dokumentas, suteikiantis teisę asmeniui Lietuvos Respublikoje verstis viena iš specializuotos medicinos praktikos rūšių. Specializuotos medicinos praktikos rūšis, mastą ir tvarką nustato Sveikatos apsaugos ministerija.
-
-
-
-
-10. Laikinosios medicinos praktikos licencija – dokumentas, suteikiantis teisę užsienio valstybių gydytojams specialistams, laikinai atvykusiems į Lietuvos Respubliką, laikinai atlikti asmens sveikatos priežiūrą Lietuvos Respublikoje tik mokymo ir (ar) labdaros tikslais.
-
-
-
-
-11. Licencijų registras – Sveikatos apsaugos ministerijos tvarkomas ir saugomas sąrašas, kuriame fiksuojami duomenys apie licencijų išdavimą, perregistravimą, jų galiojimo sustabdymą ir panaikinimą.
-
-
-
-
-12. Sertifikatas (pažymėjimas) – specialus dokumentas, patvirtinantis asmens teisę teikti tam tikras medicinos praktikos paslaugas.
+4. Šiuo Įstatymu įgyvendinami šio Įstatymo priede nurodyti Europos Sąjungos teisės aktai dėl gydytojų rengimo, diplomų, pažymėjimų ir kitų oficialią gydytojo kvalifikaciją patvirtinančių dokumentų abipusio pripažinimo ir gydytojo praktikos sąlygų. 
  
 
 
@@ -99,323 +74,100 @@ Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010IS
 
 
 
-2 straipsnis. Įstatymo paskirtis
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Šis įstatymas nustato:
+1. Gydytojas – medicinos gydytojas, šeimos gydytojas ar gydytojas specialistas.
 
 
-1) gydytojų teisės verstis medicinos praktika įgijimo ir įgyvendinimo sąlygas;
 
 
+2. Gydytojas internas – asmuo, studijuojantis medicinos internatūroje.
 
 
-2) licencijų išdavimo, įregistravimo, perregistravimo, sustabdymo, atnaujinimo ir panaikinimo tvarką;
 
 
+3. Gydytojas rezidentas – medicinos gydytojas, studijuojantis medicinos rezidentūroje ir atliekantis gydytojo rezidento pareigas gydytojo rezidento vadovo prižiūrimas universiteto įvertintoje ir atrinktoje medicinos rezidentūros programai vykdyti įstaigoje ar jos padalinyje, turinčiame teisę vykdyti asmens sveikatos priežiūrą.
 
 
-3) gydytojų pagrindines profesines teises, pareigas ir atsakomybę.
 
 
+4. Gydytojas specialistas – medicinos gydytojas, įgijęs gydytojo specialisto profesinę kvalifikaciją. 
 
 
 
 
-2. Gydytojų stomatologų teisę verstis medicinos (stomatologijos) praktika, jų profesines teises ir pareigas nustato šis ir kiti įstatymai. Visuomenės sveikatos priežiūros specialistų, tarp jų ir visuomenės sveikatos priežiūros gydytojų, teisę atlikti visuomenės sveikatos priežiūrą nustato kiti įstatymai ir teisės aktai.
- 
+5. Grubi medicinos praktikos klaida – gydytojo veika, kai dėl jo kaltės paciento sveikatai buvo padaryta žala, sukėlusi paciento invalidumą arba mirtį. Grubią medicinos praktikos klaidą nustato gydytojo profesinės kompetencijos vertinimo komisija.
 
 
 
 
+6. Licencijas išduodanti institucija – Lietuvos Respublikos sveikatos apsaugos ministerija ar jos įgaliota valstybės institucija ar įstaiga.
 
 
 
 
-II SKYRIUS
-TEISĖ VERSTIS MEDICINOS PRAKTIKA
- 
+7. Medicinos gydytojas – asmuo, įgijęs medicinos gydytojo profesinę kvalifikaciją. 
 
 
-3 straipsnis. Gydytojo medicinos praktikos reguliavimo pagrindai
 
 
-1. Licencijas verstis medicinos praktika (pirmine ir specializuota) gydytojams išduoda, įregistruoja, perregistruoja, sustabdo, atnaujina ir panaikina Sveikatos apsaugos ministerija šio įstatymo ir Gydytojo medicinos praktikos licencijavimo nuostatų nustatyta tvarka. Gydytojo medicinos praktikos licencijavimo nuostatus tvirtina Sveikatos apsaugos ministerija.
+8. Medicinos internatūra – ne ilgesnė kaip vienų metų (40 kreditų) medicinos studijų, kurių metu asmuo studijuoja ir atlieka bendrąją medicinos praktiką gydytojo interno vadovo prižiūrimas ir įgyja bendrosios medicinos žinių, įgūdžių ir klinikinės patirties, dalis. Jeigu būtinasis minimalus praktinis pasirengimas įgyjamas atskirai per organizuojamą medicinos internatūrą, aukštojo mokslo diplomas išduodamas prieš šias studijas. 
 
 
 
 
-2. Sveikatos apsaugos ministerija šio straipsnio 1 dalyje nurodytai veiklai sudaro nuolatinę komisiją, kurios sudėtį, sudarymo tvarką ir veiklą reglamentuoja Gydytojo medicinos praktikos licencijavimo nuostatai.
+9. Medicinos praktika – gydytojo pagal įgytą profesinę kvalifikaciją ir nustatytą kompetenciją atliekama sveikatos priežiūra, apimanti asmens sveikatos būklės tikrinimą, ligų profilaktiką, diagnozavimą ir ligonių gydymą.
 
 
-Straipsnio pakeitimai:
-Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
- 
 
 
+10. Medicinos praktikos klaida – gydytojo veika, dėl gydytojo kaltės sukėlusi pavojų ar padariusi žalą paciento sveikatai. Pagal medicinos praktiką kontroliuojančių institucijų nustatytus pažeidimus ir jų aplinkybes medicinos praktikos klaidą vertina gydytojo profesinės kompetencijos vertinimo komisija.
 
 
-4 straipsnis. Teisė verstis medicinos praktika
 
 
-Verstis medicinos praktika (pirmine ar specializuota) Lietuvos Respublikoje gali asmenys, turintys šio įstatymo nustatyta tvarka išduotą ir galiojančią licenciją.
- 
+11. Medicinos praktikos licencija (toliau – licencija) – dokumentas, patvirtinantis gydytojo teisę verstis atitinkama medicinos praktika. 
 
 
 
 
+12. Medicinos praktikos specializacija – papildomų medicinos praktikos žinių, įgūdžių ir atitinkamos gydytojo specialisto profesinės kvalifikacijos įgijimas. Baigusiesiems medicinos praktikos specializaciją išduodamas medicinos specializacijos pažymėjimas. 
 
 
-5 straipsnis. Pirminės medicinos praktikos licencijų išdavimo tvarka
 
 
-1. Asmuo, kreipdamasis į Sveikatos apsaugos ministeriją dėl pirminės medicinos praktikos licencijos išdavimo, privalo pateikti šiuos dokumentus:
+13. Medicinos rezidentūra – trečiosios pakopos universitetinės medicinos krypties studijos, skirtos gydytojui, norinčiam įgyti ar pakeisti medicinos praktikos rūšies (specialybės) gydytojo profesinę kvalifikaciją. Baigusiesiems šias studijas išduodamas rezidentūros pažymėjimas, patvirtinantis suteiktą gydytojo specialisto arba šeimos gydytojo profesinę kvalifikaciją. Per rezidentūrą gydytojas rezidentas studijuoja bei atlieka nustatytas pareigas gydytojo rezidento vadovo prižiūrimas ir įgyja specialių medicinos žinių, įgūdžių ir klinikinės patirties.
 
 
-1) Lietuvos Respublikos piliečio pasą ar dokumentą, suteikiantį jam teisę nuolat gyventi Lietuvos Respublikoje;
 
 
+14. Medicinos studijos – ne trumpesnės kaip 6 metų arba ne mažiau kaip 240 kreditų vientisosios universitetinės medicinos krypties studijos, kurias baigusiesiems išduodamas aukštojo mokslo diplomas, patvirtinantis suteiktą gydytojo kvalifikaciją, ir internatūros pažymėjimas, patvirtinantis suteiktą medicinos gydytojo profesinę kvalifikaciją. 
 
 
-2) aukštojo medicinos išsilavinimo diplomą, kuris įstatymų nustatyta tvarka pripažįstamas Lietuvos Respublikoje;
 
 
+15. Receptas – sveikatos apsaugos ministro nustatytos formos rašytinis gydytojo nurodymas vaistininkui, pagal kurį vaistinė paruošia ir (ar) išduoda vaistus, medicinos pagalbos priemones. 
 
 
-3) dokumentą, patvirtinantį pirminės medicinos praktikos rezidentūros atlikimą;
 
 
+16. Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registras (toliau – registras) – valstybės registras, kuriame kaupiami, saugomi, sisteminami, teikiami duomenys ir dokumentai apie licencijų išdavimą ar neišdavimą, jų galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir licencijos galiojimo panaikinimą.
 
 
-4) Sveikatos apsaugos ministerijos nustatytos formos sveikatos pažymėjimą.
 
 
+17. Šeimos gydytojas – medicinos gydytojas, įgijęs šeimos gydytojo profesinę kvalifikaciją.
 
 
 
 
-2. Sveikatos apsaugos ministerija, išduodama licenciją, privalo įsitikinti, kad asmens profesinis pasirengimas atitinka pirminės medicinos praktikos reikalavimus, asmuo moka valstybinę kalbą pagal Vyriausybės nustatytas kalbos mokėjimo kategorijas, pagal sveikatos būklę gali verstis medicinos praktika ir teismas nėra iš asmens atėmęs teisės verstis medicinos praktika. Jeigu nuo pirminės medicinos praktikos rezidentūros baigimo praėjo daugiau negu dveji metai, asmuo privalo pateikti dokumentą, patvirtinantį papildomą pasirengimą, kurio trukmę ir mastą nustato Sveikatos apsaugos ministerija. Sveikatos apsaugos ministerija gali pareikalauti iš asmens paaiškinimų ir papildomų dokumentų, tiesiogiai susijusių su licencijos išdavimu.
+18. Valstybė narė – Europos Sąjungos valstybė narė, Šveicarija ar valstybė, pasirašiusi Europos ekonominės erdvės susitarimą.
 
 
 
 
-3. Užsieniečiams ir asmenims be pilietybės, turintiems leidimą nuolat gyventi Lietuvos Respublikoje, gali būti taikomi papildomi reikalavimai (papildoma praktika, specialybės egzaminai ir kita), kuriuos nustato Sveikatos apsaugos ministerija, jeigu kitaip nenustatyta Lietuvos Respublikos tarptautinėse sutartyse.
-
-
-
-
-4. Sveikatos apsaugos ministerija privalo per vieną mėnesį išnagrinėti asmens prašymą išduoti pirminės medicinos praktikos licenciją.
-
-
-
-
-5. Jeigu Sveikatos apsaugos ministerija atsisako išduoti pirminės medicinos praktikos licenciją, ji privalo per penkiolika darbo dienų pareiškėjui raštu išdėstyti atsisakymo išduoti licenciją motyvus. Sveikatos apsaugos ministerijos atsisakymą išduoti pirminės medicinos praktikos licenciją asmuo gali skųsti teismui.
-
-
-
-
-6. Pirminės medicinos praktikos licenciją pasirašo sveikatos apsaugos ministras.
- 
-
-
-
-
-
-
-6 straipsnis. Specializuotos medicinos praktikos licencijų išdavimo tvarka
-
-
-1. Gydytojas, norintis verstis specializuota medicinos praktika, turi kreiptis į Sveikatos apsaugos ministeriją dėl specializuotos medicinos praktikos licencijos išdavimo ir privalo pateikti šiuos dokumentus:
-
-
-1) Lietuvos Respublikos piliečio pasą ar dokumentą, suteikiantį jam teisę nuolat gyventi Lietuvos Respublikoje;
-
-
-
-
-2) pirminės medicinos praktikos licenciją arba dokumentą, patvirtinantį pirminės medicinos praktikos rezidentūros atlikimą. Jei asmuo pateikia pirminės medicinos praktikos rezidentūros atlikimo dokumentą, kartu privalo pateikti ir Sveikatos apsaugos ministerijos nustatytos formos sveikatos pažymėjimą;
-
-
-
-
-3) dokumentą, patvirtinantį specializuotos medicinos praktikos rezidentūros atlikimą. Užsieniečiams ir asmenims be pilietybės gali būti taikomi papildomi reikalavimai (papildoma praktika, specialybės egzaminai ir kita), kuriuos nustato Sveikatos apsaugos ministerija, jeigu kitaip nenustatyta Lietuvos Respublikos tarptautinėse sutartyse.
-
-
-
-
-
-
-2. Sveikatos apsaugos ministerija, išduodama licenciją, privalo įsitikinti, kad asmens profesinis pasirengimas atitinka specializuotos medicinos praktikos reikalavimus, asmuo moka valstybinę kalbą pagal Vyriausybės nustatytas kalbos mokėjimo kategorijas, pagal sveikatos būklę gali verstis medicinos praktika ir teismas nėra iš asmens atėmęs teisės verstis medicinos praktika. Jeigu nuo specializuotos medicinos praktikos rezidentūros baigimo praėjo daugiau negu dveji metai, asmuo privalo pateikti dokumentą, patvirtinantį papildomą pasirengimą, kurio trukmę ir mastą nustato Sveikatos apsaugos ministerija. Sveikatos apsaugos ministerija gali pareikalauti iš asmens paaiškinimų ir papildomų dokumentų, tiesiogiai susijusių su licencijos išdavimu.
-
-
-
-
-3. Sveikatos apsaugos ministerija, išduodama licenciją, gali atsižvelgti į įstatymų nustatyta tvarka įregistruotos atitinkamos gydytojų specialybės draugijos nuomonę.
-
-
-
-
-4. Sveikatos apsaugos ministerija privalo per du mėnesius išnagrinėti asmens prašymą išduoti specializuotos medicinos praktikos licenciją ir pranešti jam apie sprendimą.
-
-
-
-
-5. Sveikatos apsaugos ministerijos atsisakymą išduoti specializuotos medicinos praktikos licenciją asmuo gali skųsti teismui.
-
-
-
-
-6. Specializuotos medicinos praktikos licenciją pasirašo sveikatos apsaugos ministras.
- 
-
-
-
-
-
-
-7 straipsnis. Laikinosios medicinos praktikos licencijų išdavimo tvarka
-
-
-1. Laikinosios medicinos praktikos licencija gali būti išduodama užsienio valstybių gydytojams, turintiems leidimą laikinai gyventi Lietuvos Respublikoje ir norintiems laikinai atlikti asmens sveikatos priežiūrą Lietuvoje tik mokymo ir (ar) labdaros tikslais.
-
-
-
-
-2. Laikinosios medicinos praktikos licencijos išduodamos ne ilgesniam kaip trijų mėnesių laikotarpiui.
- 
-
-
-
-
-
-
-8 straipsnis. Valstybės rinkliava 
-
-
-Asmuo, gaudamas ar perregistruodamas licenciją, taip pat gaudamas sertifikatą, privalo sumokėti nustatyto dydžio valstybės rinkliavą.
-
-
-Straipsnio pakeitimai:
-Nr. IX-282, 2001-04-19, Žin., 2001, Nr. 39-1352 (2001-05-09), i. k. 1011010ISTA00IX-282
- 
-
-
-
-
-9 straipsnis. Licencijų registras
-
-
-1. Sveikatos apsaugos ministerija, priėmusi sprendimą išduoti, perregistruoti, sustabdyti, atnaujinti, panaikinti licenciją, privalo per penkias darbo dienas šį sprendimą įrašyti į licencijų registrą.
-Straipsnio dalies pakeitimai:
-Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
- 
-
-
-
-
-2. Licencijų registro nuostatus tvirtina Vyriausybė.
- 
-
-
-
-
-
-
-10 straipsnis. Licencijų perregistravimas
-
-
-1. Asmuo kas penkeri metai nuo licencijos išdavimo ar perregistravimo dienos privalo kreiptis į Sveikatos apsaugos ministeriją dėl licencijos (pirminės medicinos praktikos ar specializuotos medicinos praktikos) perregistravimo.
-
-
-
-
-2. Asmuo, kreipdamasis dėl licencijos perregistravimo, privalo pateikti dokumentus:
-
-
-1) patvirtinančius, kad jis per pastaruosius penkerius metus tobulinosi pagal profesiją. Profesinio tobulinimosi tvarką ir mastą nustato Sveikatos apsaugos ministerija;
-
-
-
-
-2) patvirtinančius trejų metų medicinos praktiką per pastaruosius penkerius metus.
-
-
-
-
-
-
-3. Pirminės ar specializuotos medicinos praktikos licencija Sveikatos apsaugos ministerijos sprendimu perregistruojama per du mėnesius nuo asmens kreipimosi į Sveikatos apsaugos ministeriją dienos.
-Straipsnio dalies pakeitimai:
-Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
- 
-
-
-
-
-4. Sveikatos apsaugos ministerijos sprendimas atsisakyti perregistruoti licenciją turi būti per penkiolika darbo dienų išdėstytas raštu nurodant atsisakymo motyvus ir reikalavimus, kuriuos įvykdžius, licencija gali būti perregistruota.
-
-
-
-
-5. Licencija, kuri per vienerius metus nuo šio straipsnio 1 dalyje nurodyto termino nebuvo perregistruota, prilyginama licencijai, kurios galiojimas sustabdytas ir kurios galiojimą asmuo gali atnaujinti šio įstatymo 11 straipsnyje nustatyta tvarka.
- 
-
-
-
-
-
-
-11 straipsnis. Licencijų galiojimo atnaujinimas
-
-
-1. Asmuo, norintis atnaujinti licencijos galiojimą, kuris yra sustabdytas dėl 10 straipsnio 5 dalyje nurodytų aplinkybių arba asmens iniciatyva, privalo kreiptis į Sveikatos apsaugos ministeriją dėl licencijos galiojimo atnaujinimo ir jos perregistravimo.
-
-
-
-
-2. Kreipdamasis dėl licencijos galiojimo atnaujinimo, asmuo privalo pateikti dokumentus, patvirtinančius papildomos medicinos praktikos atlikimą, arba dokumentą, patvirtinantį, kad jis ne mažiau kaip 200 val. tobulinosi pagal savo profesiją. Papildomos medicinos praktikos ir profesinio tobulinimosi trukmę, mastą ir tvarką nustato Sveikatos apsaugos ministerija. Asmens prašymas atnaujinti licencijos galiojimą turi būti išnagrinėtas per du mėnesius.
- 
-
-
-
-
-
-
-12 straipsnis. Licencijų galiojimo panaikinimo pagrindai
-
-
-Licencijos galiojimas panaikinamas, jeigu:
-
-
-1) asmuo, kreipdamasis dėl licencijos išdavimo, pateikė suklastotus ar netinkamus dokumentus;
-
-
-
-
-2) asmens kvalifikacija neatitinka licencijoje nurodytos specialybės reikalavimų;
-
-
-
-
-3) asmuo padarė grubią medicinos praktikos klaidą ar dažnai pasikartojančių medicinos praktikos klaidų;
-Straipsnio punkto pakeitimai:
-Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
- 
-
-
-
-
-4) asmuo grubiai pažeidė paciento teises;
-
-
-
-
-5) asmuo dėl sveikatos būklės negali atlikti profesinių pareigų;
-
-
-
-
-6) asmeniui įsigaliojusiu teismo nuosprendžiu yra uždrausta verstis medicinos praktika.
+19. Valstybės narės pilietis – Europos Sąjungos valstybės narės, Šveicarijos ar valstybės, pasirašiusios Europos ekonominės erdvės susitarimą, pilietis.
  
 
 
@@ -425,70 +177,35 @@ Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010IS
 
 
 
-13 straipsnis. Licencijų galiojimo panaikinimo tvarka
-
-
-1. Pirminės ar specializuotos medicinos praktikos licencijų galiojimą panaikina Sveikatos apsaugos ministerija savo iniciatyva arba kai dėl to kreipiasi šio straipsnio 2 dalyje nurodytos institucijos šio įstatymo 12 straipsnyje nurodytais pagrindais. Licencijos galiojimo panaikinimo klausimas turi būti išnagrinėtas per vieną mėnesį nuo kreipimosi į Sveikatos apsaugos ministeriją dienos. Sveikatos apsaugos ministerija apie priimtą sprendimą per penkias darbo dienas praneša gydytojui bei jo darbdaviui. Pagal šį sprendimą darbdavys privalo nutraukti darbo sutartį su gydytoju Darbo sutarties įstatymo nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
+ANTRASIS SKIRSNIS
+MEDICINOS PRAKTIKA
  
 
 
+3 straipsnis. Gydytojo profesinių kvalifikacijų įgijimas
 
 
-2. Dėl licencijos galiojimo panaikinimo gali kreiptis Lietuvos medicinos etikos komitetas, Valstybinė medicininio audito inspekcija, savivaldybių gydytojai, sveikatos priežiūros įstaigos administracija, atitinkamos gydytojų specialybės mokslinė draugija.
-Straipsnio dalies pakeitimai:
-Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
- 
-
-
-
-
-3. Ginčai dėl licencijų galiojimo panaikinimo sprendžiami teismine tvarka.
+1. Medicinos gydytojo profesinė kvalifikacija įgyjama baigus medicinos studijas.
 
 
 
 
-4. Asmuo, kurio licencijos galiojimas panaikintas, gali pakartotinai kreiptis dėl jos išdavimo į Sveikatos apsaugos ministeriją ne anksčiau kaip po vienerių metų nuo jos galiojimo panaikinimo.
- 
+2. Šeimos gydytojo profesinė kvalifikacija įgyjama baigus medicinos studijas ir šeimos medicinos rezidentūrą.
 
 
 
 
-
-
-14 straipsnis. Licencijų galiojimo sustabdymas
-
-
-1. Licencijos galiojimas gali būti sustabdytas nagrinėjant licencijos galiojimo panaikinimo klausimą. Šiuo pagrindu sustabdžius licencijos galiojimą, licencijos galiojimo sustabdymo laiku gydytojui draudžiama verstis medicinos praktika.
+3. Gydytojo specialisto profesinė kvalifikacija įgyjama baigus medicinos studijas ir medicinos praktikos specializaciją universitete ar kitoje teisės aktais valstybės pripažintoje mokymo įstaigoje, turinčioje teisę vykdyti gydytojų medicinos praktikos specializaciją arba medicinos rezidentūrą.
 
 
 
 
-2. Licencijos galiojimas privalo būti sustabdytas, jei yra šio įstatymo 10 straipsnio 5 dalyje nurodytų aplinkybių.
+4. Gydytojo profesinės kvalifikacijos Lietuvos Respublikoje įgyjamos Lietuvos Respublikos teisės aktų nustatyta tvarka. 
 
 
 
 
-3. Licencijos galiojimas gali būti sustabdytas ir paties gydytojo prašymu.
-
-
-
-
-4. Licencija, kurios galiojimas sustabdytas, negalioja. Asmuo, kurio licencijos galiojimas sustabdytas, neturi teisės verstis medicinos praktika, kuriai teisę suteikė licencija.
-
-
-
-
-5. Sprendimą sustabdyti licencijos galiojimą priima Sveikatos apsaugos ministerija ir per penkias darbo dienas apie tai praneša gydytojui bei jo darbdaviui. Pagal šį Sveikatos apsaugos ministerijos sprendimą darbdavys privalo licencijos galiojimo sustabdymo laikotarpiui nušalinti gydytoją nuo darbo (pareigų) įstatymų nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
- 
-
-
-
-
-6. Sveikatos apsaugos ministerijos sprendimas sustabdyti licencijos galiojimą gali būti skundžiamas teismui.
+5. Užsienio valstybėse įgytos gydytojo profesinės kvalifikacijos pripažįstamos Lietuvos Respublikos tarptautinių sutarčių ir kitų teisės aktų nustatyta tvarka.
  
 
 
@@ -496,20 +213,90 @@ Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010IS
 
 
 
-15 straipsnis. Sertifikatų išdavimas, sustabdymas ir panaikinimas
+4 straipsnis. Gydytojo teisės verstis medicinos praktika įgijimas ir  įgyvendinimas 
 
 
-1. Sertifikatai teikti tam tikras medicinos praktikos paslaugas išduodami, nostrifikuojami, sustabdomi ir panaikinami Sveikatos apsaugos ministerijos nustatyta tvarka.
-
-
-
-
-2. Medicinos praktikos paslaugų rūšių, kurioms yra būtinas sertifikatas, sąrašą tvirtina Sveikatos apsaugos ministerija gydytojų specialybių draugijų teikimu.
+1. Verstis medicinos praktika Lietuvos Respublikoje turi teisę gydytojas, turintis šio Įstatymo nustatyta tvarka išduotą ir galiojančią licenciją.
 
 
 
 
-3. Ginčus dėl sertifikatų išdavimo, nostrifikavimo, sustabdymo ir panaikinimo sprendžia sveikatos apsaugos ministras ir teismas.
+2. Gydytojas verstis medicinos praktika gali tik sveikatos priežiūros įstaigoje, turinčioje licenciją teikti asmens sveikatos priežiūros paslaugas.
+
+
+
+
+3. Licencija išduodama pagal įgytą gydytojo profesinę kvalifikaciją. 
+
+
+
+
+4. Medicinos praktikos profesinių kvalifikacijų rūšis ir gydytojo kompetenciją nustato sveikatos apsaugos ministras. Gydytojo rezidento kompetencija įgyjama medicinos rezidentūros metu išėjus rezidentūros programą ar jos dalį.
+
+
+
+
+5. Medicinos praktikos licencija išduodama neterminuotam laikui, jeigu yra įvykdytos Medicinos praktikos licencijavimo taisyklėse nustatytos sąlygos.
+
+
+
+
+6. Licenciją gydytojui išduoda, atsisako ją išduoti, jos galiojimą sustabdo, panaikina jos galiojimo sustabdymą ir licencijos galiojimą panaikina licencijas išduodanti institucija, vadovaudamasi šiuo Įstatymu ir sveikatos apsaugos ministro patvirtintomis Medicinos praktikos licencijavimo taisyklėmis.
+
+
+
+
+7. Jei licencijai įgyti pateikiami užsienio valstybės dokumentai, jie turi būti išversti į lietuvių kalbą ir jų vertimas patvirtintas teisės aktų nustatyta tvarka.
+
+
+
+
+8. Licencijas išduodanti institucija nuo tos dienos, kai pareiškėjas pateikė paraišką ir visus patvirtinamuosius dokumentus, priima sprendimą dėl licencijos išdavimo:
+
+
+1) ne vėliau kaip per 3 mėnesius, jei gydytojui taikytinas kitoje valstybėje narėje įgytos profesinės kvalifikacijos pripažinimo procesas;
+
+
+
+
+2) ne vėliau kaip per 30 dienų, jei gydytojui netaikytinas įgytos profesinės kvalifikacijos pripažinimo procesas.
+
+
+
+
+
+
+9. Panaikinus licencijos galiojimą, gydytojas per 3 darbo dienas nuo dienos, kai sužinojo ar turėjo sužinoti apie licencijos galiojimo panaikinimą, privalo grąžinti licencijas išduodančiai institucijai medicinos praktikos licencijos originalą. Licencijas išduodanti institucija, per nustatytą laiką negavusi medicinos praktikos licencijos originalo, kreipiasi į teisėsaugos institucijas dėl šios licencijos paėmimo iš asmens Lietuvos Respublikos teisės aktų nustatyta tvarka.
+
+
+
+
+10. Atsisakymas išduoti licenciją turi būti motyvuotas ir negali būti grindžiamas praktikos netikslingumu. 
+
+
+
+
+11. Licencijas išduodanti institucija savo sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą, panaikinti licencijos galiojimą skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
+
+
+
+
+12. Licencijas išduodanti institucija apie priimtą sprendimą dėl licencijos išdavimo, atsisakymo išduoti, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ar licencijos galiojimo panaikinimo privalo pranešti registro tvarkytojui registro nuostatų nustatyta tvarka.
+
+
+
+
+13. Registro nuostatus tvirtina Vyriausybė.
+
+
+
+
+14. Registrą tvarko Vyriausybės įgaliota institucija.
+
+
+
+
+15. Licencijas išduodančios institucijos sprendimai gali būti skundžiami teisės aktų nustatyta tvarka.
  
 
 
@@ -517,35 +304,158 @@ Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010IS
 
 
 
-16 straipsnis. Neteisėta medicinos praktika
+5 straipsnis.         Europos Sąjungos valstybių narių gydytojų teisės laikinai verstis medicinos praktika ar atlikti vienkartinę medicinos praktikos paslaugą Lietuvos Respublikoje įgijimo sąlygos 
 
 
-1. Neteisėta medicinos praktika – tai veikla, kai asmuo:
-
-
-1) verčiasi medicinos praktika neturėdamas licencijos arba ši yra negaliojanti;
+1. Gydytojas valstybės narės pilietis turi teisę teikti laikinas medicinos praktikos paslaugas Lietuvos Respublikoje teisės aktų nustatyta tvarka ir neturėdamas licencijos. Prieš suteikdamas laikiną medicinos praktikos paslaugą, jis apie šios paslaugos teikimą iš anksto privalo sveikatos apsaugos ministro nustatyta tvarka raštu informuoti licencijas išduodančią instituciją. Ypatingais atvejais, suteikus būtinąją medicinos pagalbą, informacija apie tai privalo būti pateikta licencijas išduodančiai institucijai nedelsiant po šios paslaugos suteikimo. Informuojant apie teikiamas paslaugas būtina pateikti pranešimą ir dokumentus, patvirtinančius, kad toks gydytojas teisėtai verčiasi gydytojo veikla valstybėje narėje, kurioje yra jis įsisteigęs ir turi gydytojo diplomą, pažymėjimą ar kitą oficialų kvalifikaciją patvirtinantį dokumentą, būtiną konkrečioms paslaugoms teikti. Dokumentai turi būti pateikti ne vėliau kaip po 12 mėnesių nuo jų išdavimo dienos. Gydytojo, norinčio teikti arba jau suteikusio vienkartines medicinos praktikos paslaugas ir apie tai informavusio licencijas išduodančią instituciją, pateiktas prašymas ir dokumentai registruojami registre.
 
 
 
 
-2) teikia medicinos praktikos paslaugas neturėdamas sertifikato, kai jis yra būtinas;
+2. Gydytojas, nesilaikęs šio straipsnio 1 dalies reikalavimų, atsako Lietuvos Respublikos teisės aktų nustatyta tvarka 
 
 
 
 
-3) verčiasi medicinos praktika ne pagal licencijoje nurodytą specialybę;
-
-
-
-
-4) neteisėtai pasisavina gydytojo vardą.
+3. Gydytojas, laikinai teikiantis medicinos praktikos paslaugas, turi tas pačias šio Įstatymo ir kitų teisės aktų nustatytas teises ir pareigas. Jeigu paslaugų teikėjas nusižengia šioms pareigoms ar licencijas išduodanti institucija sužino faktų, prieštaraujančių šio straipsnio 1 dalies nuostatoms, licencijas išduodanti institucija nedelsdama privalo informuoti apie tai paslaugų teikėjo kilmės valstybės arba tos valstybės, iš kurios jis yra atvykęs, atsakingą instituciją.
+ 
 
 
 
 
 
 
-2. Asmuo, besiverčiantis neteisėta medicinos praktika, traukiamas atsakomybėn pagal įstatymus.
+6 straipsnis. Licencijos galiojimo panaikinimo pagrindai
+
+
+1. Licencijos galiojimas panaikinamas, jeigu:
+
+
+1) gydytojas pateikė suklastotus dokumentus licencijai gauti;
+
+
+
+
+2) gydytojas per vienus metus neįvykdė licencijas išduodančios institucijos reikalavimų, kai licencijos galiojimas buvo sustabdytas šio Įstatymo 8 straipsnio 1 dalies 1, 3 ar 4 punkto pagrindu;
+
+
+
+
+3) gydytojas padarė grubią medicinos praktikos klaidą;
+
+
+
+
+4) gydytojas grubiai pažeidė paciento teises: šiurkščiai ir žeminančiai elgėsi su pacientu; pasinaudojo pareigomis norėdamas sau gauti neteisėtų pajamų arba dėl kitokių asmeninių paskatų; seksualiai priekabiavo prie paciento; atliko prieš pacientą veiką, turinčią vagystės, sukčiavimo požymių, ir gydytojui teisės aktų nustatyta tvarka buvo pritaikyta atsakomybė; būdamas neblaivus ar apsvaigęs nuo narkotinių ar toksinių medžiagų teikė pacientui medicinos praktikos paslaugas; nustatyta kitų panašaus pobūdžio pažeidimų, kuriais buvo grubiai pažeistos paciento teisės;
+
+
+
+
+5) gydytojui įsiteisėjusiu teismo nuosprendžiu uždrausta verstis medicinos praktika;
+
+
+
+
+6) teismas pripažino gydytoją neveiksniu arba apribojo jo veiksnumą;
+
+
+
+
+7) gydytojas miršta.
+
+
+
+
+
+
+2. Panaikinus licencijos galiojimą remiantis šio straipsnio 1 dalies 4, 6 ar 7 punktu, panaikinamas visų turimų licencijų, suteikiančių teisę verstis medicinos gydytojo, šeimos gydytojo ar gydytojo specialisto praktika, galiojimas.
+
+
+
+
+3. Licencijos galiojimą, vadovaudamasi Medicinos praktikos licencijavimo taisyklių nustatyta tvarka, panaikina licencijas išduodanti institucija savo iniciatyva arba kai dėl to kreipiasi šiame straipsnyje nurodytos institucijos šio straipsnio 1 dalyje nurodytais pagrindais, vadovaudamasi Medicinos praktikos licencijavimo taisyklių nustatyta tvarka. Dėl licencijų galiojimo panaikinimo į licencijas išduodančią instituciją turi teisę kreiptis Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, asmens sveikatos priežiūros įstaigų steigėjai ar jų įgaliotų institucijų vadovai, asmens sveikatos priežiūros įstaigos vadovas, gydytojų profesinės organizacijos, pacientų teises ginančios organizacijos.
+
+
+
+
+4. Licencijas išduodanti institucija apie sprendimą panaikinti licencijos galiojimą praneša įstaigos, kurioje gydytojas dirbo, vadovui arba jo įgaliotam atstovui. 
+ 
+
+
+
+
+
+
+7 straipsnis.         Licencijos išdavimo sąlygos gydytojui, kuriam anksčiau buvo panaikintas licencijos galiojimas
+
+
+1. Gydytojas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo 6 straipsnio 1 dalies 1, 2, 3 ar 4 punktu, Medicinos praktikos licencijavimo taisyklių nustatyta tvarka gali kreiptis dėl naujos licencijos išdavimo įvykdęs teisės aktuose nustatytus reikalavimus, susijusius su medicinos praktikos licencijavimo sąlygų laikymusi.
+
+
+
+
+2. Gydytojas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo 6 straipsnio 1 dalies 5 ar 6 punktu, gali kreiptis dėl naujos licencijos išdavimo Medicinos praktikos licencijavimo taisyklių nustatyta tvarka, kai išnyksta licencijos galiojimo panaikinimo pagrindas ir yra įvykdyti teisės aktuose nustatyti reikalavimai, susiję su medicinos praktikos licencijavimo sąlygų laikymusi.
+ 
+
+
+
+
+
+
+8 straipsnis. Licencijos galiojimo sustabdymas
+
+
+1. Licencijos galiojimas sustabdomas, jei:
+
+
+1) gydytojo profesinės kompetencijos vertinimo komisija nusprendžia, kad gydytojo profesinė kvalifikacija neatitinka licencijoje nurodytos profesinės kvalifikacijos reikalavimų; 
+
+
+
+
+2) gydytojas dėl sveikatos būklės negali atlikti profesinių pareigų;
+
+
+
+
+3) gydytojas nevykdė vienos iš šio Įstatymo 10 straipsnio 1 ar 2 punktuose nustatytų profesinių pareigų;
+
+
+
+
+4) gydytojo profesinės kompetencijos vertinimo komisija nustatė, kad gydytojas padarė dvi ar daugiau medicinos praktikos klaidų. 
+
+
+
+
+
+
+2. Licencijos galiojimas gali būti sustabdytas:
+
+
+1) nagrinėjant licencijos galiojimo panaikinimo klausimą;
+
+
+
+
+2) jei gydytojas šiurkščiai arba dažnai pažeidžia vieną iš šio Įstatymo 10 straipsnio 3, 4, 5, 6, 7, 8, 9 ar 10 punktuose nustatytų profesinių pareigų.
+
+
+
+
+
+
+3. Sustabdžius licencijos galiojimą, gydytojui draudžiama verstis medicinos praktika.
+
+
+
+
+4. Vykdydamas licencijas išduodančios institucijos sprendimą sustabdyti licencijos galiojimą, darbdavys privalo licencijos galiojimo sustabdymo laikotarpiui nušalinti gydytoją nuo pareigų Darbo kodekso nustatyta tvarka. 
+
+
+
+
+5. Licencijos galiojimo sustabdymas panaikinamas Medicinos praktikos licencijavimo taisyklių nustatyta tvarka. 
  
 
 
@@ -555,97 +465,104 @@ Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010IS
 
 
 
-III SKYRIUS
-GYDYTOJŲ PROFESINĖS TEISĖS, PAREIGOS IR ATSAKOMYBĖ. MEDICINOS PRAKTIKOS KONTROLĖ
+TREČIASIS SKIRSNIS
+GYDYTOJO PROFESINĖS TEISĖS, PAREIGOS IR ATSAKOMYBĖ. MEDICINOS PRAKTIKOS KONTROLĖ
  
 
 
-17 straipsnis. Gydytojų profesinės teisės
+9 straipsnis. Gydytojo profesinės teisės
 
 
-Gydytojas turi teisę:
+1. Gydytojas turi teisę:
 
 
-1) verstis medicinos praktika įstatymų ir kitų teisės aktų nustatyta tvarka;
+1) išrašyti receptus sveikatos apsaugos ministro nustatyta tvarka;
 
 
 
 
-2) skirti ir išrašyti vaistus. Vaistų skyrimo ir išrašymo receptuose tvarką reglamentuoja Sveikatos apsaugos ministerija;
-Straipsnio punkto pakeitimai:
-Nr. VIII-748, 1998-05-19, Žin., 1998, Nr. 52-1423 (1998-06-05), i. k. 0981010ISTAVIII-748
+2) nustatyti vaiko gimimo momentą ir asmens mirties faktus teisės aktų nustatyta tvarka;
+
+
+
+
+3) išduoti asmens sveikatos pažymėjimus (pažymas) teisės aktų nustatyta tvarka;
+
+
+
+
+4) atsisakyti teikti sveikatos priežiūros paslaugas, jei tai prieštarauja gydytojo profesinės etikos principams arba gali sukelti realų pavojų paciento ar gydytojo gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba;
+
+
+
+
+5) dalyvauti pagal įgytą profesinę kvalifikaciją gydytojų profesinių organizacijų veikloje, jeigu tam neprieštarauja kiti teisės aktai.
+
+
+
+
+
+
+2. Gydytojas turi ir kitų teisių, nustatytų kitų Lietuvos Respublikos teisės aktų.
  
 
 
 
 
-3) konstatuoti žmogaus gimimo ir mirties faktus Sveikatos apsaugos ministerijos nustatyta tvarka;
 
 
-
-
-4) išduoti asmens sveikatos pažymėjimus (pažymas) Sveikatos apsaugos ministerijos nustatyta tvarka;
-
-
-
-
-5) atsisakyti taikyti asmens sveikatos priežiūros metodus (gydymą), kurie prieštarauja gydytojo etikos principams ir moralės normoms, jeigu tai nesukels realaus pavojaus asmens sveikatai arba gyvybei.
- 
-
-
-
-
-
-
-
-
-18 straipsnis. Gydytojų profesinės pareigos
+10 straipsnis. Gydytojo profesinės pareigos
 
 
 Gydytojas privalo:
 
 
-1) teikti būtinąją medicinos pagalbą;
+1) tobulinti savo profesinę kvalifikaciją sveikatos apsaugos ministro nustatyta tvarka;
 
 
 
 
-2)tinkamai verstis medicinos praktika pagal šio įstatymo ir kitų teisės aktų reikalavimus, tobulintis pagal savo profesiją;
+2) Medicinos praktikos licencijavimo taisyklių nustatyta tvarka ne rečiau kaip kas 5 metus pranešti licencijas išduodančiai institucijai apie profesinės kvalifikacijos tobulinimą ir medicinos praktiką; 
 
 
 
 
-3) gerbti pacientų teises, saugoti medicininę paslaptį;
+3) nediskriminuoti pacientų dėl lyties, amžiaus, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų;
 
 
 
 
-4) laikytis medicinos etikos reikalavimų;
+4) gerbti pacientų teises, jų nepažeisti;
 
 
 
 
-5) Sveikatos apsaugos ministerijos nustatyta tvarka teikti statistikos ir kitos privalomos atskaitomybės duomenis. Privalomų atskaitomybės duomenų sąrašą nustato Sveikatos apsaugos ministerijos teisės aktai;
+5) laikytis gydytojo profesinės etikos principų;
 
 
 
 
-6) tinkamai tvarkyti medicininius dokumentus;
+6) tvarkyti medicinos praktikos dokumentus teisės aktų nustatyta tvarka;
 
 
 
 
-7) pranešti policijai ir (ar) prokuratūrai apie sužalotus pacientus, kurie galėjo būti nusikaltimo aukomis;
+7) teisės aktų nustatyta tvarka pranešti teisėsaugos bei kitoms įgaliotoms valstybės institucijoms apie sužalotus pacientus, kuriems žala galėjo būti padaryta nusikalstama veika;
 
 
 
 
-8) Sveikatos apsaugos ministerijos, prokuratūros, policijos, teismo prašymu paaiškinti medicinos praktikos aplinkybes;
+8) paaiškinti medicinos praktikos aplinkybes Sveikatos apsaugos ministerijos, teisėsaugos institucijų prašymu;
 
 
 
 
-9) atlikti kitas įstatymuose ir kituose teisės aktuose numatytas pareigas.
+9) gydytojo kompetencijai nepriskirtais atvejais pacientui, kuris į jį kreipiasi, suteikti būtinąją pagalbą ir pacientą pasiųsti pas gydytoją, turintį licenciją verstis atitinkama medicinos praktika;
+
+
+
+
+10) atlikti kitas Lietuvos Respublikos teisės aktų nustatytas pareigas.
  
 
 
@@ -655,10 +572,10 @@ Gydytojas privalo:
 
 
 
-19 straipsnis. Gydytojų profesinė atsakomybė
+11 straipsnis. Gydytojo atsakomybė
 
 
-Gydytojas, pažeidęs šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
+Gydytojas, pažeidęs šio Įstatymo reikalavimus, atsako Lietuvos Respublikos teisės aktų nustatyta tvarka.
  
 
 
@@ -666,28 +583,15 @@ Gydytojas, pažeidęs šio įstatymo reikalavimus, atsako įstatymų nustatyta t
 
 
 
-20 straipsnis. Medicinos praktikos kontrolė
+12 straipsnis. Medicinos praktikos kontrolė
 
 
-Gydytojo profesinę veiklą kontroliuoja Sveikatos apsaugos ministerija ir kitos įstatymų įgaliotos valstybės institucijos.
- 
-
-
+1. Medicinos praktikos kontrolė vykdoma Lietuvos Respublikos teisės aktų nustatyta tvarka.
 
 
 
 
-
-
-IV SKYRIUS
-BAIGIAMOSIOS NUOSTATOS
- 
-
-
-21 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas įsigalioja Lietuvos Respublikos gydytojo medicinos praktikos įstatymo įsigaliojimo ir įgyvendinimo įstatymo nustatyta tvarka.
+2. Gydytojo profesinę kompetenciją vertina atitinkamos medicinos praktikos profesinės kvalifikacijos rūšies (specialybės) gydytojo profesinės kompetencijos vertinimo komisija, vadovaudamasi sveikatos apsaugos ministro patvirtinta Sveikatos priežiūros specialistų profesinės kompetencijos patikrinimo tvarka. 
  
 
 
@@ -704,6 +608,50 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+
+
+
+
+ 
+ 
+Lietuvos Respublikos
+medicinos praktikos
+įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 1993 m. balandžio 5 d. Tarybos direktyva 93/16/EEB, skirta palengvinti laisvą gydytojų judėjimą ir jų diplomų, pažymėjimų ir kitų oficialias kvalifikacijas patvirtinančių dokumentų abipusį pripažinimą.
+
+
+
+
+2. 1997 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva 97/50/EB, iš dalies pakeičianti Direktyvą 93/16/EEB, skirtą palengvinti laisvą gydytojų judėjimą ir jų diplomų, pažymėjimų ir kitų oficialias kvalifikacijas patvirtinančių dokumentų abipusį pripažinimą.
+
+
+
+
+3. 1998 m. balandžio 8 d. Komisijos direktyva 98/21/EB, iš dalies pakeičianti Tarybos Direktyvą 93/16/EEB, skirtą palengvinti laisvą gydytojų judėjimą ir jų diplomų, pažymėjimų bei kitų oficialias kvalifikacijas patvirtinančių dokumentų abipusį pripažinimą.
+
+
+
+
+4. 1998 m. rugsėjo 3 d. Komisijos direktyva 98/63/EB, iš dalies pakeičianti Tarybos Direktyvą 93/16/EEB, skirtą palengvinti laisvą gydytojų judėjimą ir jų diplomų, pažymėjimų bei kitų oficialias kvalifikacijas patvirtinančių dokumentų abipusį pripažinimą.
+
+
+
+
+5. 1999 m. gegužės 21 d. Komisijos direktyva 1999/46/EB, iš dalies pakeičianti Tarybos Direktyvą 93/16/EEB, skirtą palengvinti laisvą gydytojų judėjimą ir abipusį diplomų, pažymėjimų bei kitų oficialias kvalifikacijas patvirtinančių dokumentų pripažinimą.
+
+
+
+
+6. 2001 m. gegužės 14 d. Europos Parlamento ir Tarybos direktyva 2001/19/EB, iš dalies pakeičianti Tarybos direktyvas 89/48/EEB ir 92/51/EEB dėl profesinių kvalifikacijų pripažinimo bendrosios sistemos ir Tarybos direktyvas 77/452/EEB, 77/453/EEB, 78/686/EEB, 78/687/EEB, 78/1026/EEB, 78/1027/EEB, 80/154/EEB, 80/155/EEB, 85/384/EEB, 85/432/EEB, 85/433/EEB ir 93/16/EEB dėl bendrosios praktikos slaugytojo, stomatologo, veterinarijos gydytojo, akušerio, architekto, vaistininko ir gydytojo profesijų.
+
+
+ 
  
 Pakeitimai:
  
@@ -716,3 +664,13 @@ Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 1, 3, 9, 10, 12, 13,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-282, 2001-04-19, Žin., 2001, Nr. 39-1352 (2001-05-09), i. k. 1011010ISTA00IX-282
 Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 8 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1933, 2003-12-18, Žin., 2004, Nr. 4-39 (2004-01-07), i. k. 1031010ISTA0IX-1933
+Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2148, 2004-04-20, Žin., 2004, Nr. 68-2365 (2004-04-29), i. k. 1041010ISTA0IX-2148
+Lietuvos Respublikos gydytojo medicinos praktikos įstatymo pakeitimo įstatymas
