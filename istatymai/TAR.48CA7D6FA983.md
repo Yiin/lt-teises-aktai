@@ -171,9 +171,7 @@ veikas, dėl kurių gali būti padaryta arba daroma žala valstybės saugumui, j
 ekonominiams ir strateginiams interesams;
 7) organizuoja
 ir užtikrina techninę vyriausybinio ryšio apsaugą;
-8) kontroliuoja
-Lietuvos Respublikos valstybės paslapčių apsaugą šalies viduje bei jos
-įstaigose užsienyje;
+8) kontroliuoja Lietuvos Respublikos įslaptintos informacijos, žymimos slaptumo žymomis „Visiškai slaptai“, „Slaptai“, „Konfidencialiai“, apsaugą valstybės viduje bei jos įstaigose užsienyje;
 9) savarankiškai
 arba kartu su kitomis įgaliotomis valstybės ar savivaldybių institucijomis
 ar įstaigomis rengia ir įgyvendina priemones užsienio diplomatinių įstaigų
@@ -186,6 +184,8 @@ institucijoms.
 Straipsnio pakeitimai:
 Nr. VIII-1945,
 00.09.19, Žin., 2000, Nr.83-2514 (00.10.04)
+Nr. IX-2182,
+2004-04-27, Žin., 2004, Nr. 73-2516 (2004-04-30)
  
 8(1)
 straipsnis. Oficialus įspėjimas asmeniui
@@ -221,10 +221,10 @@ Saugumo departamento pagrindai
 struktūra formuojama, remiantis Saugumo departamento paskirtimi ir jam
 keliamais uždaviniais.
 Saugumo
-departamento sistemą sudaro Saugumo departamento centrinis aparatas,
-teritorinės įstaigos ir specialios paskirties įstaigos prie Saugumo
-departamento. Saugumo departamento struktūrą sudaro Saugumo departamento
-centrinis aparatas (su struktūriniais padaliniais) bei teritorinės įstaigos.
+departamento sistemą sudaro Saugumo departamento centrinis aparatas, teritorinės
+įstaigos ir specialios paskirties įstaigos prie Saugumo departamento. Saugumo
+departamento struktūrą sudaro Saugumo departamento centrinis aparatas (su
+struktūriniais padaliniais) bei teritorinės įstaigos.
             Saugumo departamento
 padalinius, išskyrus specialios paskirties įstaigas, steigia ir likviduoja, jų
 vidaus struktūrą nustato Saugumo departamento generalinis direktorius. 
@@ -268,8 +268,8 @@ skirtų asignavimų valdytoja.
 Straipsnio
 pakeitimai:
 Nr.
-IX-1043,
-2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+IX-1043, 2002-07-05,
+Žin., 2002, Nr. 73-3102 (2002-07-19)
  
 13 straipsnis. Saugumo departamento darbuotojų statusas
 Saugumo
@@ -589,8 +589,8 @@ pareigas iki atleidimo iš jų dienos.
  
             33 straipsnis. Saugumo
 departamento pareigūnų aprūpinimas butais
-            Saugumo departamento
-pareigūnai aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
+            Saugumo departamento pareigūnai
+aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
             Lietuvos Respublikos
 Vyriausybės nustatyta tvarka atskirų Saugumo departamento padalinių pareigūnams
 gali būti suteikti tarnybiniai butai. 
@@ -720,12 +720,23 @@ SAUGUMO DEPARTAMENTO ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin.,
 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės 1 d.
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-2182,
+2004-04-27, Žin., 2004, Nr. 73-2516 (2004-04-30)
+VALSTYBĖS
+SAUGUMO DEPARTAMENTO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-08)
+Aušrinė Trapinskienė (2004-05-06)
                  
 autrap@lrs.lt
 
