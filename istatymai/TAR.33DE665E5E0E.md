@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.33DE665E5E0E"
 
 # Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas
 
+Suvestinė redakcija nuo 2001-01-01 iki 2002-12-30
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 51-1392; Žin. 2004, Nr.98-3626, i. k. 0981010ISTAVIII-730
+ 
+ 
 LIETUVOS RESPUBLIKOS
 SAVIVALDYBIŲ ADMINISTRACINĖS PRIEŽIŪROS
 Į S T A T Y M A S
@@ -157,7 +162,10 @@ Vyriausybės atstovas privalo kiekvieną pusmetį pateikti Vyriausybei, apskriti
 8 straipsnis. Vyriausybės atstovo skyrimas, atlyginimo nustatymas, Vyriausybės atstovo pavadavimas
 
 
-1. Vyriausybės atstovą skiria ir atleidžia Vyriausybė valdymo reformų ir savivaldybių reikalų ministro teikimu.
+1. Vyriausybės atstovas skiriamas 4 metų laikotarpiui (kadencijai) ir atleidžiamas Valstybės tarnybos įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. IX-126, 2000-12-21, Žin., 2000, Nr. 113-3616 (2000-12-30), i. k. 1001010ISTA00IX-126
+ 
 
 
 
@@ -172,7 +180,9 @@ Vyriausybės atstovas privalo kiekvieną pusmetį pateikti Vyriausybei, apskriti
 
 
 
-4. Vyriausybės atstovo atostogų metu ar jo nesant (dėl ligos, išvykus į komandiruotę ir pan.) Vyriausybė valdymo reformų ir savivaldybių reikalų ministro teikimu gali pavesti eiti jo pareigas kitam asmeniui, atitinkančiam šio straipsnio 2 dalies reikalavimus.
+4. Vyriausybės atstovo atostogų metu ar jo nesant (dėl ligos, išvykus į komandiruotę ir pan.) Vyriausybė vidaus reikalų ministro teikimu gali pavesti eiti jo pareigas kitam asmeniui, atitinkančiam šio straipsnio 2 dalies reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. IX-126, 2000-12-21, Žin., 2000, Nr. 113-3616 (2000-12-30), i. k. 1001010ISTA00IX-126
  
 
 
@@ -197,3 +207,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-126, 2000-12-21, Žin., 2000, Nr. 113-3616 (2000-12-30), i. k. 1001010ISTA00IX-126
+Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo 8 straipsnio pakeitimo įstatymas
