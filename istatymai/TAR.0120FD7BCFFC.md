@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 2003-01-01 iki 2003-12-09
+Suvestinė redakcija nuo 2003-12-10 iki 2004-09-03
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
  
@@ -324,9 +324,10 @@ Gyvenamosioms vietovėms pavadinimus savivaldybės tarybos teikimu suteikia ir k
 
 
 
-Gatvėms, pastatams, statiniams ir kitiems savivaldybių teritorijoje esantiems jų nuosavybės objektams pavadinimai suteikiami ir keičiami atitinkamų savivaldybių tarybų sprendimais, pritarus Valstybinei lietuvių kalbos komisijai.
+Gatvėms, pastatams, statiniams ir kitiems savivaldybių teritorijoje esantiems jų nuosavybės teisės objektams pavadinimai suteikiami ir keičiami atitinkamų savivaldybių tarybų sprendimais pagal Vyriausybės nustatytus kriterijus. 
 Straipsnio dalies pakeitimai:
 Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
+Nr. IX-1839, 2003-11-20, Žin., 2003, Nr. 115-5194 (2003-12-10), i. k. 1031010ISTA0IX-1839
  
 
 
@@ -520,3 +521,8 @@ Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1101, 2002-09-26, Žin., 2002, Nr. 101-4489 (2002-10-23), i. k. 1021010ISTA0IX-1101
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1839, 2003-11-20, Žin., 2003, Nr. 115-5194 (2003-12-10), i. k. 1031010ISTA0IX-1839
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio pakeitimo įstatymas
