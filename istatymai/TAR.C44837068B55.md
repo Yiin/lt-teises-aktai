@@ -30,6 +30,7 @@ PREVENCIJOS
 Į S T A T Y M A
 S 
  
+ 
 1997 m. birželio 19 d. Nr. VIII-275
 Vilnius
 Nauja
@@ -68,6 +69,16 @@ Lietuvos banko išduotą licenciją.
 kapitalo bendrovės, investicinių bendrovių valdymo įmonės ir depozitoriumai,
 finansų maklerių įmonės, investicijų valdymo bei konsultavimo įmonės. Lombardo
 ir pašto veikla šiame įstatyme prilyginama finansinės įstaigos veiklai.
+ 
+[5 dalies redakcija nuo 2001 m. liepos 1
+d.:
+5. Finansinės
+įstaigos – draudimo įmonės ir draudimo brokeriai, investicinės kintamojo
+kapitalo bendrovės, investicinių bendrovių valdymo įmonės ir depozitoriumai,
+finansų maklerių įmonės, investicijų valdymo bei konsultavimo įmonės. Lombardo,
+azartinius lošimus organizuojančios bendrovės ir pašto veikla šiame įstatyme
+prilyginama finansinės įstaigos veiklai.]
+ 
 6. Klientas
 - juridinis ar fizinis asmuo ar įmonė, neturinti juridinio asmens teisių,
 atliekanti operacijas pinigais su kredito ar finansine įstaiga ar kitu
@@ -86,6 +97,8 @@ fondais, užsienio valstybių diplomatinėmis atstovybėmis ar konsulinėmis
 Straipsnio pakeitimai:
 Nr. VIII-1388,
 1999-11-04, Žin., 1999, Nr. 99-2845 (1999-11-24)
+Nr. IX-335,
+2001-05-22, Žin., 2001, Nr. 48-1659 (2001-06-06), įsigalioja nuo 2001-07-01
  
 ANTRASIS
 SKIRSNIS 
@@ -93,7 +106,8 @@ VALSTYBĖS
 INSTITUCIJOS, ATSAKINGOS UŽ PINIGŲ PLOVIMO PREVENCIJOS PRIEMONIŲ ĮGYVENDINIMĄ 
  
 3 straipsnis.
-Valstybės institucijos, atsakingos už pinigų plovimo prevencijos priemonių 
+Valstybės institucijos, atsakingos už pinigų plovimo prevencijos 
+priemonių
 įgyvendinimą 
 Lietuvos Respublikos
 Vyriausybė, mokesčių policija, Lietuvos bankas ir Muitinės departamentas prie
@@ -102,24 +116,21 @@ pagal kompetenciją atsakingos už šiame įstatyme numatytų pinigų plovimo
 prevencijos priemonių įgyvendinimą. 
  
 4 straipsnis.
-Metodinių rekomendacijų kredito įstaigoms pinigų plovimo prevencijos 
-klausimais
+Metodinių rekomendacijų kredito įstaigoms pinigų plovimo prevencijos klausimais
 priėmimas 
 Lietuvos bankas
 priima kredito įstaigoms skirtas metodines rekomendacijas, kuriomis būtų
 siekiama užkirsti kelią pinigų plovimui. 
  
 5 straipsnis.
-Mokesčių policijos funkcijos įgyvendinant pinigų plovimo prevencijos 
-priemones 
+Mokesčių policijos funkcijos įgyvendinant pinigų plovimo prevencijos priemones 
 Mokesčių policija pagal
 kompetenciją: 
 1) renka ir
 registruoja šiame įstatyme nurodytą informaciją apie kliento operacijas
-pinigais ir klientą, atliekantį šias operacijas;                                                                                                                                
-2) renka ir
-analizuoja informaciją, susijusią su pinigų plovimo prevencijos priemonių
-įgyvendinimu; 
+pinigais ir klientą, atliekantį šias operacijas;                                                                                                                                  
+2) renka ir analizuoja
+informaciją, susijusią su pinigų plovimo prevencijos priemonių įgyvendinimu; 
 3) teikia
 informaciją teisėsaugos ir kitoms valstybės institucijoms šių motyvuotu
 reikalavimu apie kliento atliekamas operacijas pinigais; 
@@ -144,15 +155,15 @@ policija turi teisę:
 valstybės institucijų, kredito ir finansinių įstaigų, kitų juridinių asmenų ir
 įmonių, neturinčių juridinio asmens teisių, notarų bei asmenų, turinčių teisę
 atlikti notarinius veiksmus, savo funkcijoms atlikti reikalingus duomenis ir
-dokumentus apie atliekamas operacijas pinigais;                                                         
+dokumentus apie atliekamas operacijas pinigais;                                                           
 2) tikrinti
 valstybės institucijų, kredito ir finansinių įstaigų, kitų juridinių asmenų ir
 įmonių, neturinčių juridinio asmens teisių, veiklą, susijusią su pinigų plovimo
 prevencijos priemonių įgyvendinimu; 
 3) gauti iš
 valstybės institucijų, kredito ir finansinių įstaigų, kitų juridinių asmenų ir
-įmonių, neturinčių juridinio asmens teisių, informaciją, susijusią su pinigų
-plovimo prevencijos priemonių įgyvendinimu; 
+įmonių, neturinčių juridinio asmens teisių, informaciją, susijusią su pinigų plovimo
+prevencijos priemonių įgyvendinimu; 
 4) koordinuoti
 valstybės institucijų veiklą, susijusią su pinigų plovimo prevencijos priemonių
 įgyvendinimu; 
@@ -161,7 +172,7 @@ valstybės institucijų, kredito ir finansinių įstaigų vadovams aplinkybes ir
 sąlygas, sudarančias galimybes pažeisti įstatymus ir kitus teisės aktus,
 susijusius su pinigų plovimo prevencijos priemonių įgyvendinimu. Vadovai
 privalo išnagrinėti mokesčių policijos nurodymus ir ne vėliau kaip per 7 dienas
-po nurodymo gavimo pranešti mokesčių policijai apie priimtas priemones.                                                                                    
+po nurodymo gavimo pranešti mokesčių policijai apie priimtas priemones.                                                                                      
 2. Mokesčių
 policijos pareigūnų, atliekančių kvotą pinigų plovimo bylose, teises
 reglamentuoja Baudžiamojo proceso kodeksas. 
@@ -169,11 +180,11 @@ reglamentuoja Baudžiamojo proceso kodeksas.
 7 straipsnis.
 Valstybės institucijų bendradarbiavimas 
 1. Teisėsaugos
-ir kitos valstybės institucijos privalo pranešti mokesčių policijai apie pastebėtus
-galimo pinigų plovimo požymius, šio įstatymo pažeidimus ir priemones, kurių
-buvo imtasi prieš pažeidėjus. Duomenis, kuriuos valstybės institucijos turi
-pranešti mokesčių policijai, ir šios informacijos pateikimo tvarką nustato
-Vyriausybė.       
+ir kitos valstybės institucijos privalo pranešti mokesčių policijai apie
+pastebėtus galimo pinigų plovimo požymius, šio įstatymo pažeidimus ir
+priemones, kurių buvo imtasi prieš pažeidėjus. Duomenis, kuriuos valstybės
+institucijos turi pranešti mokesčių policijai, ir šios informacijos pateikimo
+tvarką nustato Vyriausybė.       
 2. Informacija,
 kurią mokesčių policija gauna iš teisėsaugos ir kitų valstybės institucijų,
 kredito ir finansinių įstaigų, notarų ir asmenų, turinčių teisę atlikti
@@ -192,16 +203,16 @@ Operacijų pinigais įtartinumas
 1. Jeigu kredito
 ir finansinės įstaigos įtaria, kad jose atliekamos kliento operacijos pinigais
 gali būti susijusios su pinigų plovimu, jos privalo nustatyti kliento tapatybę
-ir 12 straipsnio 1 dalyje nurodytą informaciją apie atliktą operaciją pinigais nedelsdamos,
-bet ne vėliau kaip per 3 darbo dienas nuo operacijos atlikimo dienos, pateikti
-mokesčių policijai nepaisant operacijos pinigais dydžio.                                                                                
+ir 12 straipsnio 1 dalyje nurodytą informaciją apie atliktą operaciją pinigais
+nedelsdamos, bet ne vėliau kaip per 3 darbo dienas nuo operacijos atlikimo
+dienos, pateikti mokesčių policijai nepaisant operacijos pinigais dydžio.                                                                                   
 2. Notarai ar
 asmenys, turintys teisę atlikti notarinius veiksmus, esant įtarimui, kad jų
 klientų sudaromi sandoriai gali būti susiję su pinigų plovimu, privalo kliento
 tapatybę patvirtinančius duomenis ir 12 straipsnio 1 dalyje nurodytą
-informaciją apie sudarytą sandorį nedelsdami, bet ne vėliau kaip per 3 darbo
-dienas nuo sandorio patvirtinimo dienos, pateikti mokesčių policijai nepaisant
-pagal sandorį kliento gaunamos ar mokamos pinigų sumos dydžio. 
+informaciją apie sudarytą sandorį nedelsdami, bet ne vėliau kaip per 3 darbo dienas
+nuo sandorio patvirtinimo dienos, pateikti mokesčių policijai nepaisant pagal
+sandorį kliento gaunamos ar mokamos pinigų sumos dydžio. 
 3. Kriterijus,
 kuriais vadovaujantis operacija pinigais laikoma įtartina, nustato Vyriausybė
 kartu su Lietuvos banku. 
@@ -294,6 +305,12 @@ straipsnio 6 dalyje nurodyta išimtis netaikoma, jeigu kredito ar finansinės
 paslaugų teikimu, advokato praktika, notaro veikla; 
 2) loterijų,
 bingo organizavimu ir vykdymu; 
+ 
+[7 dalies 2 punkto redakcija nuo 2001 m.
+liepos 1 d.:
+2) loterijų
+organizavimu ir vykdymu;]
+ 
 3) veikla,
 susijusia su juodaisiais, spalvotaisiais arba tauriaisiais (retaisiais)
 metalais, brangakmeniais, juvelyriniais dirbiniais, meno kūriniais; 
@@ -315,6 +332,9 @@ prekyba alkoholiniais gėrimais ir alkoholio produktais, tabako gaminiais;
 naftos produktais; 
 12) prekyba
 medikamentais. 
+Straipsnio pakeitimai:
+Nr. IX-335,
+2001-05-22, Žin., 2001, Nr. 48-1659 (2001-06-06), įsigalioja nuo 2001-07-01
  
 13 straipsnis.
 Muitinės įstaigų veikla 
@@ -323,9 +343,8 @@ Muitinės įstaigų veikla
 pinigų sumų kontrolę Vyriausybės nustatyta tvarka. 
 2. Muitinės
 įstaigos privalo registruoti kiekvieną grynųjų pinigų įvežimo į Lietuvos
-Respubliką ir išvežimo iš jos atvejį, jeigu įvežamų arba išvežamų grynųjų
-pinigų vienkartinė suma viršija 10 000 litų ar ją atitinkančią sumą užsienio
-valiuta. 
+Respubliką ir išvežimo iš jos atvejį, jeigu įvežamų arba išvežamų grynųjų pinigų
+vienkartinė suma viršija 10 000 litų ar ją atitinkančią sumą užsienio valiuta. 
 3. Muitinės
 įstaigos privalo nedelsdamos, bet ne vėliau kaip per 7 darbo dienas, pranešti
 mokesčių policijai, jeigu juridinis ar fizinis asmuo ar įmonė, neturinti
@@ -338,11 +357,11 @@ vienkartinę grynųjų pinigų sumą, viršijančią 500 000 litų, ar ją atiti
 sumą užsienio valiuta, išskyrus, kai grynuosius pinigus į savo sąskaitas išveža
 Lietuvos bankas ar komerciniai bankai bei įstatymų ar Lietuvos Respublikos
 tarptautinių sutarčių numatytus atvejus. 
-                                                                                                                                             
+                                                                                                                                               
 14 straipsnis.
-Asmenys, kredito ir finansinėse įstaigose atsakingi už pinigų plovimo 
-prevencijos
-priemonių įgyvendinimą
+Asmenys, kredito ir finansinėse įstaigose atsakingi už pinigų 
+plovimo
+prevencijos priemonių įgyvendinimą
 1. Kredito ir finansinių
 įstaigų vadovai privalo paskirti asmenis, kurie organizuotų šiame įstatyme
 numatytų pinigų plovimo prevencijos priemonių įgyvendinimą ir palaikytų ryšius
@@ -378,7 +397,7 @@ NUOSTATOS
 Mokesčių policijos veiksmų apskundimas 
 Mokesčių
 policijos pareigūnų veiksmai gali būti skundžiami įstatymų nustatyta tvarka. 
-                                                                                                                                            
+ 
 17 straipsnis.
 Žalos atlyginimo tvarka 
 Žala, padaryta
@@ -394,7 +413,7 @@ asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvar
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
  
-                                                                                                                                                 
+ 
 RESPUBLIKOS
 PREZIDENTAS                                                 
 VALDAS
@@ -418,6 +437,17 @@ Nr.
 VIII-1388, 1999-11-04, Žin., 1999, Nr. 99-2845 (1999-11-24)
 PINIGŲ
 PLOVIMO PREVENCIJOS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-335,
+2001-05-22, Žin., 2001, Nr. 48-1659 (2001-06-06)
+PINIGŲ
+PLOVIMO PREVENCIJOS ĮSTATYMO 2, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2001 m. liepos 1 d.
  
 ***
 Pabaiga ***
