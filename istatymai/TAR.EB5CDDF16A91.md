@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EB5CDDF16A91"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
+Suvestinė redakcija nuo 1993-07-21 iki 1993-12-17
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 140-0; Žin. 1992, Nr.22-639, i. k. 0921010ISTA00I-2747
+ 
 LIETUVOS RESPUBLIKOS OPERATYVINĖS VEIKLOS ĮSTATYMAS
  
  
@@ -119,6 +123,25 @@ Atsisakius pratęsti orderį arba pasibaigus jo galiojimo terminui, orderis grą
 Operatyvinės veiklos subjekto parengtas nusikalstamos veiklos imitacijos elgesio modelis sankcionuojamas vienerių metų laikotarpiui, kuriam praėjus gali būti pratęstas.
  
 
+81 straipsnis. Asmens prevencinis sulaikymas
+
+Remdamasis operatyvinės veiklos priemonėmis gautais duomenimis, kurie įtvirtinti atitinkamuose dokumentuose, reglamentuojančiuose operatyvinę veiklą, ir turėdamas pakankamą pagrindą manyti, kad asmuo gali padaryti pavojingą veiką, numatytą Lietuvos Respublikos baudžiamojo kodekso 2271 arba 2272 straipsniuose, miesto (rajono) policijos komisaras arba jį pavaduojantis policijos pareigūnas motyvuotu nutarimu, sankcionuotu Lietuvos Respublikos generalinio prokuroro arba jo pavaduotojų ar miestų, rajonų vyriausiųjų prokurorų, turi teisę tokį asmenį sulaikyti. Miestų, rajonų vyriausieji prokurorai nedelsiant informuoja Lietuvos Respublikos generalinį prokurorą apie sankcijas, kurias jie davę šio įstatymo numatytoms priemonėms taikyti.
+
+Klausimą, ar sankcionuoti sulaikymą, prokuroras sprendžia tik susipažinęs su visa medžiaga, duodančia pagrindą asmenį sulaikyti.
+
+Su prokuroro sankcija asmuo gali būti sulaikomas iki dviejų mėnesių. Tikslią sulaikymo trukmę nustato sankciją duodantis prokuroras. Jeigu per sulaikymo laikotarpį sulaikytojo asmens veikoje nustatomi nusikaltimo požymiai, tai dėl šio nusikaltimo iškeliama baudžiamoji byla ir sulaikytasis patraukiamas baudžiamojon atsakomybėn įstatymo nustatyta tvarka. Šiuo atveju prevencinio sulaikymo terminas įskaitomas į suėmimo terminą.
+
+Sulaikytasis asmuo turi teisę tiek pats, tiek per savo gynėją sulaikymui duotą sankciją apskųsti Lietuvos Respublikos generaliniam prokurorui. Jeigu generalinis prokuroras nusprendžia panaikinti sankciją ar jau po sulaikymo pripažįsta, kad asmuo buvo sulaikytas neteisėtai, tai nepagrįstai sulaikytas asmuo turi būti nedelsiant paleistas ir turi teisę gauti įstatymo numatytą kompensaciją.
+
+Jeigu pasibaigus prevencinio sulaikymo terminui asmuo nepatraukiamas baudžiamojon atsakomybėn, jis turi būti nedelsiant paleistas.
+
+Jeigu asmens sulaikymu buvo užkirstas kelias nusikaltimui, tai sankciją davusiojo ar Lietuvos Respublikos generalinio prokuroro sprendimu sulaikytasis asmuo gali būti paleidžiamas ir nepasibaigus sulaikymo terminui, kuriam buvo duota sankcija. 
+TAR pastaba. 81 straipsnis galioja iki 1994 m. sausio 1 dienos.
+
+Papildyta straipsniu:
+Nr. I-210, 1993-07-13, Žin., 1993, Nr. 30-679 (1993-07-21), i. k. 0931010ISTA000I-210
+ 
+
 9 straipsnis. Informacijos panaudojimas
 
 Operatyvinės veiklos priemonėmis gauta informacija gali būti atskleista teismo procedūroje su išankstiniu generalinio prokuroro leidimu. Draudžiama operatyvinės veiklos priemonėmis gautą informaciją panaudoti ne tiems tikslams, kurie kyla iš sankcionuoto sekimo.
@@ -176,4 +199,14 @@ PIRMININKAS                                  �
  
 Vilnius, 1992 m. liepos 15 d. 
 Nr. I-2747
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-210, 1993-07-13, Žin., 1993, Nr. 30-679 (1993-07-21), i. k. 0931010ISTA000I-210
+Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo
 
