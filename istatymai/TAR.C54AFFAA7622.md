@@ -1107,7 +1107,14 @@ didinama pasiūlymo kaina;
 7) strateginis investuotojas (strateginiai
 investuotojai) po 1998 m. spalio 1 d. per 3 metus (36 kalendorinius mėnesius)
 investavo į perkančiąją organizaciją ne mažiau kaip 200 mln. Lt ir perkančioji
-organizacija yra patvirtinusi savo pirkimų taisykles.
+organizacija yra patvirtinusi savo pirkimų taisykles;
+8) iš įkalinimo įstaigų, valstybės įmonių, kurių
+steigėja yra Vidaus reikalų ar Teisingumo ministerija, ir kuriose dirba daugiau
+kaip 50 procentų nuteistųjų, įmonių, kuriose dirba daugiau kaip 50 procentų
+invalidų, bei įmonių prie sveikatos priežiūros įstaigų, kuriose darbo terapijos
+pagrindais dirba ne mažiau kaip 50 procentų pacientų, perkamos jų pagamintos
+prekės, teikiamos paslaugos ar atliekami darbai yra mažesnės vertės už nurodytą
+šio įstatymo 12 straipsnio 3 dalyje.
 3. Jeigu prekių ar paslaugų pirkimo vertė viršija 150
 tūkst. litų, o darbų - 500 tūkst. litų, pirkimas iš vienintelio šaltinio
 galimas tik esant bent vienai iš šio straipsnio 2 dalyje numatytų sąlygų, gavus
@@ -1122,13 +1129,15 @@ telekomunikacijų srityse, Lietuvos Respublikos Vyriausybės sutikimas
 reikalingas, kai prekių, paslaugų ar darbų pirkimų vertė viršija nurodytą šio
 įstatymo 1 straipsnio 1 dalies 3 punkte. Lietuvos Respublikos Vyriausybės
 sutikimas nereikalingas karšto ir šalto vandens, elektros, šiluminės energijos,
-vamzdynais tiekiamų dujų ir laidinio ryšio paslaugų pirkimams bei įmonių,
-veikiančių vandentvarkos, energetikos, transporto ir telekomunikacijų srityse,
+vamzdynais tiekiamų dujų ir laidinio ryšio paslaugų pirkimams bei įmonių, veikiančių
+vandentvarkos, energetikos, transporto ir telekomunikacijų srityse,
 atliekamiems pirkimams pagal šio straipsnio 2 dalies 2 punkto reikalavimus.
-Lietuvos Respublikos Vyriausybės sutikimas nereikalingas VĮ Ignalinos AE pagrindinei
-veiklai naudojamų žaliavų, medžiagų, komplektuojančių dalių, pirminių energijos
-išteklių ir su jų tiekimu susijusių paslaugų, specialiosios įrangos, atsarginių
-dalių pirkimams.
+Lietuvos Respublikos Vyriausybės sutikimas nereikalingas VĮ Ignalinos AE
+pagrindinei veiklai naudojamų žaliavų, medžiagų, komplektuojančių dalių,
+pirminių energijos išteklių ir su jų tiekimu susijusių paslaugų, specialiosios
+įrangos, atsarginių dalių pirkimams. Lietuvos Respublikos Vyriausybės sutikimas
+nereikalingas perkant prekes, darbus arba paslaugas šio straipsnio 2 dalies 8
+punkte nurodytu atveju.
 4. Šio straipsnio 2 dalies 4 ir 5 punktuose
 numatytomis sąlygomis pirkimai gali būti atliekami ne ilgiau kaip 3 metus.
 5. Perkant iš vienintelio šaltinio, pasiūlymų
@@ -1143,6 +1152,8 @@ Nr. VIII-1349, 1999 10 05, Žin., 1999, Nr.
 86-2565 (1999 10 15)
 Nr. VIII-1526, 2000 01 12, Žin., 2000, Nr.
 7-177 (2000 01 26)
+Nr. VIII-1577, 2000 03 21, Žin., 2000, Nr.
+28-766 (2000 04 05)
  
  
 ŠEŠTASIS SKIRSNIS
@@ -1219,9 +1230,9 @@ laimėjusiu, bei šio įstatymo 32 straipsnio 6 dalyje nurodytu tiekėju (rangov
 Pasiūlymą pateikusiam tiekėjui (rangovui) raštu pranešama, kad jo pasiūlymas
 pripažintas laimėjusiu, ir nurodomas laikas, iki kada reikia atvykti sudaryti
 pirkimo sutartį.
-4. Jeigu tiekėjas (rangovas), kuriam buvo
-pasiūlyta sudaryti pirkimo sutartį, raštu atsisako ją sudaryti arba nepateikia
-pirkimo dokumentuose nustatyto pirkimo sutarties įvykdymo užtikrinimo, arba iki
+4. Jeigu tiekėjas (rangovas), kuriam buvo pasiūlyta
+sudaryti pirkimo sutartį, raštu atsisako ją sudaryti arba nepateikia pirkimo
+dokumentuose nustatyto pirkimo sutarties įvykdymo užtikrinimo, arba iki
 perkančiosios organizacijos nurodyto laiko neatvyksta sudaryti pirkimo
 sutarties, laikoma, kad jis atsisakė sudaryti pirkimo sutartį. Tuo
 atveju perkančioji organizacija siūlo sudaryti pirkimo sutartį tiekėjui
@@ -1244,7 +1255,8 @@ pirkimo sutartį. Šiais atvejais perkančioji organizacija privalo gauti Vieš�
 pirkimų tarnybos sutikimą. Perkančioji organizacija pirkimo kainą  taip pat
 gali didinti atsižvelgus į kainos indeksavimą dėl infliacijos antraisiais ir
 vėlesniais metais, kai pirkimo sutartis sudaryta dėl viso objekto statybos,
-kurios trukmė ilgesnė nei 1 metai.
+kurios trukmė ilgesnė 
+nei 1 metai.
 Straipsnio pakeitimai:
 Nr. VIII-1526, 2000 01 12, Žin., 2000, Nr.
 7-177 (2000 01 26)
@@ -1514,10 +1526,14 @@ Nr. VIII-1526, 2000 01 12, Žin., 2000, Nr.
 VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 1, 17, 18, 20, 27, 32, 34, 35, 46 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1577, 2000 03 21, Žin., 2000, Nr.
+28-766 (2000 04 05)
+VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 32 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2000 12 05)
-                 
-autrap@lrs.lt
+Redagavo: Aušrinė Trapinskienė (2000 12 05)
+                  autrap@lrs.lt
