@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.08F2F39FF20B"
 
 # Lietuvos Respublikos laukinės gyvūnijos įstatymas
 
-Suvestinė redakcija nuo 2001-12-29 iki 2002-10-03
+Suvestinė redakcija nuo 2002-10-04 iki 2003-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2726, i. k. 0971010ISTAVIII-498
  
@@ -181,47 +181,40 @@ BENDROSIOS NUOSTATOS
 4 straipsnis. Laukinės gyvūnijos apsaugos ir jos išteklių naudojimo reglamentavimas
 
 
-1. Lietuvos Respublikos Vyriausybė:
+1. Lietuvos Respublikos Vyriausybė:
 
 
-1) koordinuoja laukinės gyvūnijos apsaugos ir jos išteklių naudojimo valstybinių strategijų bei programų rengimą ir jas tvirtina;
-
-
-
-
-2) koordinuoja valstybės ir savivaldybių institucijų veiklą laukinės gyvūnijos apsaugos ir jos išteklių naudojimo srityje;
+1) koordinuoja laukinės gyvūnijos apsaugos ir jos išteklių naudojimo valstybinių strategijų bei programų rengimą ir jas tvirtina;
 
 
 
 
-3) įstatymų nustatyta tvarka sudaro Lietuvos Respublikos tarptautines sutartis dėl laukinės gyvūnijos apsaugos ir jos išteklių naudojimo bei užtikrina jų vykdymą;
+2) koordinuoja valstybės ir savivaldybių institucijų veiklą laukinės gyvūnijos apsaugos ir jos išteklių naudojimo srityje;
 
 
 
 
-4) Saugomų teritorijų įstatymo nustatyta tvarka steigia saugomas teritorijas;
+3) įstatymų nustatyta tvarka sudaro Lietuvos Respublikos tarptautines sutartis dėl laukinės gyvūnijos apsaugos ir jos išteklių naudojimo bei užtikrina jų vykdymą;
 
 
 
 
-5) nustato laukinės gyvūnijos išteklių naudotojams privalomas laukinės gyvūnijos išteklių apsaugos ir atkūrimo priemones;
+4) Saugomų teritorijų įstatymo nustatyta tvarka steigia saugomas teritorijas;
 
 
 
 
-6) tvirtina žalos, padarytos laukinei gyvūnijai, apskaičiavimo metodiką;
+5) tvirtina žalos, padarytos laukinei gyvūnijai, apskaičiavimo metodiką;
 
 
 
 
-7) tvirtina Medžioklės Lietuvos Respublikoje nuostatus;
+6) atlieka kitas įstatymų nustatytas funkcijas.
 
 
-
-
-8) atlieka kitas įstatymų nustatytas funkcijas.
-
-
+Straipsnio dalies pakeitimai:
+Nr. IX-1091, 2002-09-19, Žin., 2002, Nr. 96-4168 (2002-10-04), i. k. 1021010ISTA0IX-1091
+ 
 
 
 
@@ -470,7 +463,10 @@ LAUKINĖS GYVŪNIJOS IŠTEKLIŲ NAUDOJIMAS
 
 
 
-2) Lietuvos Respublikos Vyriausybės nustatyta tvarka įgyvendinti privalomas laukinės gyvūnijos apsaugos ir jos išteklių atkūrimo priemones;
+2) įgyvendinti privalomas laukinės gyvūnijos apsaugos ir jos išteklių atkūrimo priemones, nurodytas leidime naudoti laisvėje gyvenančios laukinės gyvūnijos išteklius;
+Straipsnio punkto pakeitimai:
+Nr. IX-1091, 2002-09-19, Žin., 2002, Nr. 96-4168 (2002-10-04), i. k. 1021010ISTA0IX-1091
+ 
 
 
 
@@ -560,13 +556,17 @@ Atsižvelgiant į saugomų teritorijų paskirtį, laukinės gyvūnijos ištekli�
 
 
 
-2. Kad būtų užtikrintas racionalus medžiojamųjų gyvūnų populiacijų naudojimas, šiuos gyvūnus medžioti leidžiama tik vientisoje ne mažesnėje kaip 1000 ha teritorijoje, kurioje neuždrausta medžioti ir kuri Lietuvos Respublikos Vyriausybės nustatyta tvarka įregistruota kaip medžioklės plotų vienetas, išskyrus Lietuvos Respublikos Vyriausybės nustatytus atvejus, kai medžiojamųjų gyvūnų išteklius leidžiama naudoti mažesnėje teritorijoje.
-TAR pastaba. 13 straipsnio 2 dalis įsigalioja nuo 2003 m. balandžio 1 d.
+2. Kad būtų užtikrintas racionalus medžiojamųjų gyvūnų populiacijų naudojimas, šiuos gyvūnus medžioti leidžiama tik vientisoje ne mažesnėje kaip 1000 ha teritorijoje, kurioje neuždrausta medžioti, išskyrus Medžioklės įstatyme nustatytus atvejus, kai medžiojamųjų gyvūnų išteklius leidžiama naudoti mažesnėje teritorijoje. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1091, 2002-09-19, Žin., 2002, Nr. 96-4168 (2002-10-04), i. k. 1021010ISTA0IX-1091
+ 
 
 
 
 
-3. Medžiojimą reglamentuoja Lietuvos Respublikos Vyriausybės tvirtinami Medžioklės Lietuvos Respublikoje nuostatai, Aplinkos ministerijos tvirtinamos Medžioklės Lietuvos Respublikos teritorijoje taisyklės bei kiti teisės aktai.
+3. Medžiojimą reglamentuoja Medžioklės įstatymas, Aplinkos ministerijos tvirtinamos Medžioklės Lietuvos Respublikos teritorijoje taisyklės bei kiti teisės aktai.
+Straipsnio dalies pakeitimai:
+Nr. IX-1091, 2002-09-19, Žin., 2002, Nr. 96-4168 (2002-10-04), i. k. 1021010ISTA0IX-1091
  
 
 
@@ -871,3 +871,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-638, 2001-12-11, Žin., 2001, Nr. 110-3988 (2001-12-29), i. k. 1011010ISTA00IX-638
 Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1091, 2002-09-19, Žin., 2002, Nr. 96-4168 (2002-10-04), i. k. 1021010ISTA0IX-1091
+Lietuvos Respublikos laukinės gyvūnijos įstatymo 4, 10 ir 13 straipsnių pakeitimo įstatymas
