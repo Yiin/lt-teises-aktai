@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.717DD0E6FE37"
 
 # Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas
 
+Suvestinė redakcija nuo 1999-01-27 iki 2003-04-30
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 20-520, i. k. 0961010ISTA00I-1202
+ 
 LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO BEI OPERATYVINĖS VEIKLOS DALYVIŲ,  TEISINGUMO IR TEISĖSAUGOS INSTITUCIJŲ PAREIGŪNŲ  APSAUGOS NUO NUSIKALSTAMO POVEIKIO ĮSTATYMAS 
  
 1996 m. vasario 13 d. Nr. I-1202
@@ -174,7 +178,10 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONĖS
 
 
 
-2. Vieną arba kelias konkrečias apsaugos nuo nusikalstamo poveikio priemones parenka Vidaus reikalų ministerijos Policijos departamento vadovas, atsižvelgdamas į konkrečias aplinkybes bei saugotino asmens pageidavimus. Draudžiama skirti tokią apsaugos nuo nusikalstamo poveikio priemonę, su kuria nesutinka saugotinas asmuo.
+2. Vieną arba kelias konkrečias apsaugos nuo nusikalstamo poveikio priemones parenka Vidaus reikalų ministerijos Policijos departamento vadovas, atsižvelgdamas į konkrečias aplinkybes bei saugotino asmens pageidavimus. Tais atvejais, kai pagal bylos aplinkybes yra pagrindas skirti apsaugos nuo nusikalstamo poveikio priemones, bet asmuo dėl savo fizinės ar (ir) psichinės būsenos negali pareikšti savo sutikimo, šiam asmeniui turi būti skiriama apsauga, o pasikeitus aplinkybėms ir atsiradus galimybei pareikšti savo valią, jam apie tai turi būti pranešama ir gaunamas jo sutikimas. Asmeniui atsisakius apsaugos priemonių, paskirta apsauga nutraukiama. Draudžiama skirti tokią apsaugos nuo nusikalstamo poveikio priemonę, su kuria nesutinka galintis pareikšti savo valią saugotinas asmuo. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1024, 1999-01-14, Žin., 1999, Nr. 11-243 (1999-01-27), i. k. 0991010ISTAIII-1024
+ 
 
 
 
@@ -386,7 +393,10 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ TAIKYMAS
 15 straipsnis. Sprendimo paskirti apsaugos nuo nusikalstamo poveikio priemones panaikinimas
 
 
-1. Išnykus šio įstatymo 4 straipsnyje nurodytiems pagrindams, Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovas, generalinis prokuroras ar jo pavaduotojai, apygardos vyriausiasis prokuroras ar jo pavaduotojai, apylinkės vyriausiasis prokuroras pagal asmens, kuriam paskirtos apsaugos nuo nusikalstamo poveikio priemonės, prašymą gali panaikinti savo ankstesnį sprendimą paskirti apsaugos nuo nusikalstamo poveikio priemones. Jei saugomas asmuo nesutinka su sprendimo paskirti apaugos nuo nusikalstamo poveikio priemones panaikinimu, šį klausimą sprendžia generalinis prokuroras.
+1. Išnykus šio įstatymo 4 straipsnyje nurodytiems pagrindams, Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovas, generalinis prokuroras ar jo pavaduotojai, apygardos vyriausiasis prokuroras ar jo pavaduotojai, apylinkės vyriausiasis prokuroras pagal asmens, kuriam paskirtos apsaugos nuo nusikalstamo poveikio priemonės, prašymą arba esant aplinkybėms, nurodytoms šio įstatymo 5 straipsnio 2 dalyje, asmeniui atsisakius jam paskirtos apsaugos, gali panaikinti savo ankstesnį sprendimą paskirti apsaugos nuo nusikalstamo poveikio priemones. Jei saugomas asmuo nesutinka su sprendimo paskirti apsaugos nuo nusikalstamo poveikio priemones panaikinimu, šį klausimą sprendžia generalinis prokuroras. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1024, 1999-01-14, Žin., 1999, Nr. 11-243 (1999-01-27), i. k. 0991010ISTAIII-1024
+ 
 
 
 
@@ -469,3 +479,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1024, 1999-01-14, Žin., 1999, Nr. 11-243 (1999-01-27), i. k. 0991010ISTAIII-1024
+LIetuvos Respublikos baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo 5 ir 15 straipsnių papildymo įstatymas
