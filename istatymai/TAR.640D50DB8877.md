@@ -13,19 +13,24 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-LIETUVOS RESPUBLIKOS
-SMULKAUS IR VIDUTINIO VERSLO
-ĮSTATYMAS
+Suvestinė redakcija nuo 2003-01-01 iki 2004-08-02
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
+ 
+Nauja redakcija nuo 2003-01-01:
+Nr. IX-1142, 2002-10-22, Žin. 2002, Nr. 105-4689 (2002-11-06), i. k. 1021010ISTA0IX-1142
+ 
+Lietuvos Respublikos  smulkaus ir vidutinio verslo  įstatymas
  
 1998 m. lapkričio 24 d. Nr. VIII-935
 Vilnius
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis 
 
 
-Šis įstatymas nustato smulkaus ir vidutinio verslo subjektus, jiems taikomas paramos formas.
+Šis Įstatymas nustato smulkaus ir vidutinio verslo subjektus, jiems taikomas valstybės pagalbos formas.
  
 
 
@@ -33,28 +38,155 @@ Vilnius
 
 
 
-2 straipsnis. Smulkaus ir vidutinio verslo subjektai
+2 straipsnis. Smulkaus ir vidutinio verslo subjektai
 
 
-Smulkaus ir vidutinio verslo subjektai yra šie:
-
-
-1) fiziniai asmenys, įsigiję patentą, šio patento galiojimo laikotarpiu;
+1. Smulkaus ir vidutinio verslo subjektai yra vidutinės įmonės, mažos įmonės (tarp jų ir mikroįmonės) bei fiziniai asmenys, įstatymų nustatyta tvarka turintys teisę verstis savarankiška komercine, gamybine arba profesine ir kita panašaus pobūdžio veikla, įskaitant tą, kuria verčiamasi turint verslo liudijimą.
 
 
 
 
-2) mikroįmonė – individuali (personalinė) įmonė, kurioje dirba tik savininkas ir jo šeimos nariai (sutuoktiniai, tėvai, įtėviai, vaikai, įvaikiai);
+2. Vidutinė įmonė – tai įmonė, kuri atitinka visas šias sąlygas:
+
+
+1) įmonėje dirba mažiau kaip 250 darbuotojų;
 
 
 
 
-3) smulki įmonė – įmonė, kurioje vidutinis sąrašinis metinis darbuotojų skaičius ne daugiau kaip 9;
+2) įmonės metinės pajamos neviršija 138 mln. litų ar įmonės turto balansinė vertė yra ne didesnė kaip 93 mln. litų;
 
 
 
 
-4) vidutinė įmonė – įmonė, kurioje vidutinis sąrašinis metinis darbuotojų skaičius ne daugiau kaip 49.
+3) įmonė pagal šio straipsnio 5 dalį yra savarankiška.
+
+
+
+
+
+
+3. Maža įmonė – tai įmonė, kuri atitinka visas šias sąlygas:
+
+
+1) įmonėje dirba mažiau kaip 50 darbuotojų;
+
+
+
+
+2) įmonės metinės pajamos neviršija 24 mln. litų ar įmonės turto balansinė vertė yra ne didesnė kaip 17 mln. litų;
+
+
+
+
+3) įmonė pagal šio straipsnio 5 dalį yra savarankiška.
+
+
+
+
+
+
+4. Mikroįmonė – tai maža įmonė, kuri atitinka visas šias sąlygas:
+
+
+1) įmonėje dirba mažiau kaip 10 darbuotojų;
+
+
+
+
+2) įmonės metinės pajamos neviršija 7 mln. litų ar įmonės turto balansinė vertė yra ne didesnė kaip 5 mln. litų;
+
+
+
+
+3) įmonė pagal šio straipsnio 5 dalį yra savarankiška.
+
+
+
+
+
+
+5. Pagal šį Įstatymą savarankiškomis įmonėmis laikomos visos įmonės, išskyrus tas, kurių 1/4 ar daugiau įstatinio kapitalo ar balsavimo teisių priklauso vienai ar kelioms įmonėms, kurios pagal šio straipsnio 2 ir 3 dalyse pateiktus apibrėžimus nėra mažos įmonės ar vidutinės įmonės (tais atvejais, kai apibrėžiamos vidutinės įmonės) arba pagal šio straipsnio 3 dalyje pateiktą apibrėžimą nėra mažos įmonės (tais atvejais, kai apibrėžiamos mažos įmonės). Ši riba gali būti viršyta, jei įmonė priklauso investicinėms bendrovėms, fondams ar kitiems juridiniams asmenims, investuojantiems rizikos kapitalą į smulkų ir vidutinį verslą.
+
+
+
+
+6. Skaičiuojant šio straipsnio 2, 3 ar 4 dalyje nustatytus rodiklius, prie įmonės rodiklių būtina pridėti visų kitų įmonių, kurias įmonė tiesiogiai ar netiesiogiai kontroliuoja, atitinkamus rodiklius. Įmonė tiesiogiai kontroliuoja kitą įmonę, jei turi 1/4 ar daugiau šios įmonės įstatinio kapitalo ar balsavimo teisių. Įmonė netiesiogiai kontroliuoja kitą įmonę, jei 1/4 ar daugiau šios įmonės kapitalo ar balsavimo teisių turi įmonės kontroliuojama įmonė ar kelios kontroliuojamos įmonės kartu arba įmonė ir jos kontroliuojama įmonė kartu.
+
+
+
+
+7. Įmonė tampa vidutine įmone, maža įmone ar mikroįmone, jei įmonės metinėje finansinėje atskaitomybėje dvejus finansinius metus iš eilės fiksuojami duomenys atitinka šio straipsnio 2, 3 ar 4 dalyje nustatytas sąlygas. Vidutinė įmonė, maža įmonė ar mikroįmonė atitinkamai praranda tokį statusą, jei įmonės metinėje finansinėje atskaitomybėje dvejus finansinius metus iš eilės fiksuojami duomenys neatitinka šio straipsnio 2, 3 ar 4 dalyje nustatytų sąlygų. Laikoma, kad įmonė tampa vidutine įmone, maža įmone ar mikroįmone arba tokį statusą praranda nuo metinės finansinės atskaitomybės patvirtinimo dienos.
+
+
+
+
+8. Ar steigiamos arba naujai įsisteigusios įmonės, kurių metinė finansinė atskaitomybė dar nėra patvirtinta, atitinka šio straipsnio 2 dalies 2 punkte, 3 dalies 2 punkte arba 4 dalies 2 punkte nustatytas sąlygas, nustatoma pagal planuojamas įmonės pajamas ir turto balansinę vertę bei įmonės pajamas ir turto balansinę vertę per finansinius metus.
+
+
+
+
+9. Šio straipsnio 2 dalies 1 punkte, 3 dalies 1 punkte ar 4 dalies 1 punkte nurodytą darbuotojų skaičių atitinka vidutinis sąrašinis metinis darbuotojų skaičius. Vidutinio sąrašinio metinio darbuotojų skaičiaus apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+
+
+
+10.  Vyriausybė, apskričių viršininkai, savivaldybės, smulkaus ir vidutinio verslo subjektams taikydami konkrečią pagalbos formą, atsižvelgdami į konkrečios pagalbos tikslą, šios pagalbos gavėjams gali nustatyti papildomas sąlygas.
+ 
+
+
+
+
+
+
+3 straipsnis. Valstybės pagalbos smulkaus ir vidutinio verslo subjektams teikimas
+
+
+1. Valstybės pagalba smulkaus ir vidutinio verslo subjektams teikiama pagal Vyriausybės, apskričių ar savivaldybių smulkaus ir vidutinio verslo plėtros programas.
+
+
+
+
+2. Smulkaus ir vidutinio verslo plėtros programų rengimas ir įgyvendinimas finansuojami iš valstybės ar savivaldybių biudžetų bei piniginių fondų lėšų.
+
+
+
+
+3. Rengiant ir įgyvendinant smulkaus ir vidutinio verslo plėtros programas, finansuojamas iš valstybės biudžeto, prioritetas teikiamas mažoms įmonėms (tarp jų ir mikroįmonėms).
+ 
+
+
+
+
+
+
+4 straipsnis. Valstybės pagalbos smulkaus ir vidutinio verslo subjektams formos
+
+
+Smulkaus ir vidutinio verslo subjektams gali būti taikomos šios valstybės pagalbos formos:
+
+
+1) mokesčių lengvatos (jei jos nustatytos įstatymuose), rinkliavų lengvatos;
+
+
+
+
+2) finansinė parama: lengvatinių kreditų teikimas, dalinis ar visiškas palūkanų dengimas, garantijų teikimas, kreditų draudimas, rizikos kapitalo investavimas į smulkias ir vidutines įmones, tam tikrų išlaidų (steigimo, tyrimų, garantijų mokesčių, kreditų draudimo įmokų, kokybės sertifikatų įsigijimo ir kitų išlaidų) kompensavimas, subsidijos darbo vietoms kurti;
+
+
+
+
+3) įmonių savininkų, įmonių organų narių bei darbuotojų konsultavimo, mokymo, kvalifikacijos kėlimo ar perkvalifikavimo paslaugos lengvatinėmis sąlygomis;
+
+
+
+
+4) verslo inkubatorių, verslo centrų, technologinių parkų steigimas ir jų teikiamos paslaugos;
+
+
+
+
+5) Vyriausybės, apskričių viršininkų ar savivaldybių nustatytos kitos pagalbos formos.
  
 
 
@@ -64,157 +196,30 @@ Smulkaus ir vidutinio verslo subjektai yra šie:
 
 
 
-3 straipsnis. Smulkaus ir vidutinio verslo rėmimas
+5 straipsnis. Valstybės pagalbos smulkaus ir vidutinio verslo subjektams apribojimai
 
 
-1. Parama smulkaus ir vidutinio verslo subjektams teikiama pagal Vyriausybės, apskričių ar savivaldybių smulkaus ir vidutinio verslo plėtros programas.
+1. Šio Įstatymo 4 straipsnyje nustatytos valstybės pagalbos smulkaus ir vidutinio verslo subjektams formos netaikomos (jei kituose įstatymuose nenustatyta kitaip) šiems smulkaus ir vidutinio verslo subjektams:
 
 
+1) valstybės įmonėms ir savivaldybės įmonėms; 
 
 
-2. Smulkaus ir vidutinio verslo plėtros programų rengimas ir vykdymas finansuojamas iš Vyriausybės ir (arba) savivaldybių smulkaus ir vidutinio verslo skatinimo fondų lėšų.
 
 
+2) įmonėms, kuriose valstybei ar savivaldybei priklauso daugiau kaip 1/2 įstatinio kapitalo ar balsavimo teisių;
 
 
-3. Lėšos smulkiam ir vidutiniam verslui skatinti numatomos Valstybės biudžete, savivaldybių biudžetuose bei Vyriausybės sprendimu skiriamos iš Privatizavimo fondo lėšų.
 
 
+3) įmonėms, kurių paskutinių finansinių metų pajamos iš valstybės neremtinos veiklos sudaro daugiau kaip 1/3 visų paskutinių finansinių metų įmonės pajamų. Šis apribojimas netaikomas tais atvejais, kai suteikiama valstybės pagalba bus panaudota konkrečiai veiklai pradėti ar plėtoti ir ši veikla nėra valstybės neremtina veikla. Valstybės neremtinos veiklos rūšių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija.
 
 
-4. Verslininkai ir jų organizacijos rengia verslo plėtros projektus ir įgyvendina juos dalyvaudami Vyriausybės, apskričių ar (ir) savivaldybių vykdomose smulkaus ir vidutinio verslo plėtros programose.
- 
 
 
 
 
-
-
-4 straipsnis. Valstybės paramos įgyvendinimas
-
-
-Smulkaus ir vidutinio verslo subjektai gali naudotis šiomis paramos formomis:
-
-
-1) mokestinėmis paskolomis ir mokesčių lengvatomis įstatymų nustatyta tvarka;
-
-
-
-
-2) smulkaus ir vidutinio verslo skatinimo fondų finansine parama;
-
-
-
-
-3) Vyriausybės ir savivaldybių finansine parama pagal smulkaus ir vidutinio verslo plėtros programas;
-
-
-
-
-4) konsultacinėmis ir mokymo paslaugomis lengvatinėmis sąlygomis pagal verslo plėtojimo programas;
-
-
-
-
-5) verslo inkubatorių, technologinių parkų paslaugomis; 
-
-
-
-
-6) pagal Valstybės skolos įstatymo 7 ir 7-1 straipsnius Vyriausybės įsteigtų garantijų institucijų ir (arba) draudimo įmonių bei kitų verslo plėtrą skatinančių institucijų parama;
-
-
-
-
-7) kvalifikacijos kėlimo paslaugomis lengvatinėmis sąlygomis pagal verslo plėtojimo ir užimtumo programas;
-
-
-
-
-8) valstybės užsakymo preferencija;
-
-
-
-
-9) parama naujoms darbo vietoms kurti;
-
-
-
-
-10) mikrokreditavimo sistema pradedantiems verslą;
-
-
-
-
-11) taikoma pagreitinta amortizacija.
- 
-
-
-
-
-
-
-
-
-5 straipsnis. Baigiamosios nuostatos
-
-
-1. Šio įstatymo 3 ir 4 straipsniai netaikomi (jei kituose įstatymuose nenumatyta kitaip) šiems smulkaus ir vidutinio verslo subjektams:
-
-
-1) valstybės ir savivaldybių įmonėms;
-
-
-
-
-2) įmonėms, kuriose valstybei, savivaldybėms priklauso daugiau kaip 1/2 balsavimo teisę suteikiančių akcijų;
-
-
-
-
-3) įmonėms, kurių daugiau kaip 1/2 balsavimo teisę suteikiančių akcijų priklauso kitoms įmonėms, neatitinkančioms šio įstatymo 2 straipsnio reikalavimų;
-
-
-
-
-4) įmonėms, besiverčiančioms neskatintinomis veiklomis, kurių sąrašą tvirtina Vyriausybė.
-
-
-
-
-
-
-2. Vyriausybė arba jos įgaliota institucija:
-
-
-1) iki 1999 m. balandžio 1 d. nustato šio įstatymo 4 straipsnyje numatytų paramos formų teikimo tvarką;
-
-
-
-
-2) iki 1999 m. sausio 15 d. parengia ir patvirtina neskatintinų veiklų sąrašą;
-
-
-
-
-3) kiekvienais metais atnaujina ir papildo Smulkaus ir vidutinio verslo plėtros programos įgyvendinimo priemones;
-
-
-
-
-4) nustato smulkaus ir vidutinio verslo subjekto statuso įgijimo ir jo netekimo tvarką.
-
-
-
-
-
-
-3. Vyriausybė kartą per metus atsiskaito Seimui už Smulkaus ir vidutinio verslo plėtros programos finansavimą ir jos įgyvendinimą.
-
-
-
-
-4. Įstatymas įsigalioja nuo 1999 m. sausio 1 d.
+2. Valstybės pagalba smulkaus ir vidutinio verslo subjektams teikiama nepažeidžiant Valstybės pagalbos ūkio subjektams kontrolės įstatymo nustatytų apribojimų.
 
 
 
@@ -228,3 +233,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1142, 2002-10-22, Žin., 2002, Nr. 105-4689 (2002-11-06), i. k. 1021010ISTA0IX-1142
+Lietuvos Respublikos smulkaus ir vidutinio verslo plėtros įstatymo pakeitimo įstatymas
