@@ -194,11 +194,10 @@ išdavimą.
 straipsnis. Valstybės rinkliavos mokėjimas
 1. Valstybės
 rinkliavos mokėjimo tvarką nustato Vyriausybė. 
-2. (Neteko galios 2002-05-04).
+2. Neteko galios (2002-05-04).
 Straipsnio pakeitimai:
-Nr.
-IX-857,
-2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
+Nr.IX-847,
+2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
  
  
  
@@ -223,39 +222,50 @@ RINKLIAVOS
  
 11
 straipsnis. Vietinių rinkliavų objektai
-1.
-Savivaldybės taryba turi teisę savivaldybės teritorijoje nustatyti vietines
-rinkliavas tik už:
+1. Savivaldybės
+taryba turi teisę savivaldybės teritorijoje nustatyti vietines rinkliavas tik
+už:
 1) leidimo
 atlikti kasinėjimo darbus savivaldybės viešojo naudojimo teritorijoje (gatvėse,
-aikštėse, žaliuosiuose plotuose), atitverti ją ar jos dalį arba apriboti eismą
-joje išdavimą;
+vietinės reikšmės keliuose, aikštėse, žaliuosiuose plotuose), atitverti ją ar
+jos dalį arba apriboti eismą joje išdavimą;
 2) leidimo
 prekiauti ar teikti paslaugas savivaldybės tarybos nustatytose viešosiose
 vietose išdavimą (išskyrus prekybą prekyvietėse, kai mokamas prekyviečių
 mokestis pagal Prekyviečių mokesčio įstatymą);
-3) leidimo įrengti vaizdinę komercinę reklamą ant savivaldybei
-priklausančių ar valdytojo teise valdomų objektų išdavimą;
+3) leidimo
+įrengti išorinę reklamą ant savivaldybei priklausančių ar valdytojo teise
+valdomų objektų išdavimą; 
 4) leidimo
 organizuoti komercinius renginius savivaldybei priklausančiose ar valdytojo
 teise valdomose viešojo naudojimo teritorijose išdavimą;
-5) leidimo
-įvažiuoti mechaninėmis transporto priemonėmis į valstybės saugomas teritorijas,
-savivaldybių įsteigtus saugomus draustinius, jų paskelbtų kraštovaizdžio
-objektų teritorijas ir nustatytas vietinės reikšmės apsaugines zonas išdavimą
-(išskyrus važiavimą per šias teritorijas magistraliniais ir krašto keliais,
-naudojimąsi jų statiniais, stovėjimo ir poilsio aikštelėmis, terminalais ir
-pasienio kontrolės punktais);
-6) naudojimąsi savivaldybių tarybos nustatytomis miestų ar miestelių
-gatvių bei aikščių vietomis automobiliams statyti;
+5) leidimo įvažiuoti mechaninėmis transporto priemonėmis į
+valstybės saugomas teritorijas, savivaldybių įsteigtus saugomus draustinius, jų
+paskelbtų kraštovaizdžio objektų teritorijas ir nustatytas vietinės reikšmės
+apsaugines zonas išdavimą (išskyrus važiavimą per šias teritorijas valstybinės
+reikšmės keliais, naudojimąsi jų statiniais, stovėjimo ir poilsio aikštelėmis,
+terminalais ir pasienio kontrolės punktais; šios išimtys netaikomos Neringos
+miestui);
+6) naudojimąsi
+savivaldybių tarybos nustatytomis vietomis automobiliams statyti (išskyrus
+vietas automobiliams statyti prie valstybinės reikšmės kelių ir 5–15 m
+pažymėtoje atkarpoje prie valstybės įstaigų, institucijų ir tarnybų);
 7) gyvūnų (šunų,
 kačių) registravimą ir laikymą daugiabučiuose namuose;
 8) komunalinių
-atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą.
+atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą;
+9) leidimo
+įrengti laikinus kilnojamus įrenginius savivaldybės teritorijoje (išskyrus prie
+valstybinės reikšmės kelių, privačiuose ir išnuomotuose valstybinės
+žemės sklypuose) išdavimą.
 2. Iš vietinės
 rinkliavos mokėtojo negali būti reikalaujama atlyginti už objektą, už kurį
 pagal šį įstatymą nustatyta vietinė rinkliava, kitaip negu sumokant vietinę
 rinkliavą.
+Straipsnio pakeitimai:
+Nr.
+IX-857,
+2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
  
 12
 straipsnis. Vietinių rinkliavų nustatymas
@@ -263,8 +273,8 @@ Savivaldybės
 taryba savo sprendimu:
 1) nustato
 vietinę rinkliavą;
-2) tvirtina vietinės
-rinkliavos nuostatus;
+2) tvirtina
+vietinės rinkliavos nuostatus;
 3) nustato
 lengvatas vietinių rinkliavų mokėtojams;
 4) nustato
@@ -379,6 +389,15 @@ IX-847,
 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
 RINKLIAVŲ
 ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-857, 2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
+RINKLIAVŲ
+ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
  
 ***
 Pabaiga ***
