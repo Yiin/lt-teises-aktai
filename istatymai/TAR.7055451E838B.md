@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2002-03-27 iki 2002-03-31
+Suvestinė redakcija nuo 2002-04-01 iki 2004-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
  
@@ -88,17 +88,20 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Privatizavimo objektai privačios nuosavybės teise gali būti perleisti pagal šį įstatymą ir šio straipsnio 3 dalyje nurodytu atveju pagal Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymą. Valstybei ar savivaldybei nuosavybės teise priklausančios akcijos ir kitas turtas kitų asmenų nuosavybėn gali būti perleistas pagal šį įstatymą, jei kituose įstatymuose nenustatyta kitaip
+2. Privatizavimo objektai privačios nuosavybės teise gali būti perleisti pagal šį įstatymą ir šio straipsnio 3 dalyje nurodytu atveju pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą. Valstybei ar savivaldybei nuosavybės teise priklausančios akcijos ir kitas turtas kitų asmenų nuosavybėn gali būti perleistas pagal šį įstatymą, jei kituose įstatymuose nenustatyta kitaip. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
  
 
 
 
 
-3. Valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, privatizavimo institucijos gali parduoti Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymo nustatyta tvarka, kai yra pateiktas oficialus privalomas pasiūlymas. 
+3. Valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, privatizavimo institucijos gali parduoti Lietuvos Respublikos vertybinių popierių rinkos įstatymo nustatyta tvarka, kai yra pateiktas privalomas oficialus pasiūlymas. 
 Papildyta straipsnio dalimi:
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+Straipsnio dalies pakeitimai:
+Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
  
 
 
@@ -203,7 +206,10 @@ Nr. VIII-1360, 1999-10-14, Žin., 1999, Nr. 90-2640 (1999-10-27), i. k. 0991010I
 
 
 
-10) perduoda privatizavimo objektus įsigijusiems asmenims nuosavybės teisę patvirtinančius dokumentus (akcijų sertifikatus ar kitus nuosavybės teisę patvirtinančius dokumentus, nustatytus Akcinių bendrovių ir Vertybinių popierių viešosios apyvartos įstatymuose);
+10) perduoda privatizavimo objektus įsigijusiems asmenims nuosavybės teisę patvirtinančius dokumentus; 
+Straipsnio punkto pakeitimai:
+Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
+ 
 
 
 
@@ -285,9 +291,11 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-5) pritarti ar nepritarti valstybei, taip pat savivaldybei nuosavybės teise priklausančių akcijų paketų pagal sutartį perduotų privatizuoti valstybės įmonei Valstybės turto fondas, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, pardavimui, kai Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymo nustatyta tvarka yra pateiktas oficialus privalomas pasiūlymas pirkti šį akcijų paketą. 
+5) pritarti ar nepritarti valstybei, taip pat savivaldybei nuosavybės teise priklausančių akcijų paketų, pagal sutartį perduotų privatizuoti valstybės įmonei Valstybės turto fondas, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, pardavimui, kai Lietuvos Respublikos vertybinių popierių rinkos įstatymo nustatyta tvarka yra pateiktas privalomas oficialus pasiūlymas pirkti šį akcijų paketą. 
 Papildyta straipsnio punktu:
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+Straipsnio punkto pakeitimai:
+Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
  
 
 
@@ -358,7 +366,10 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 1. Privatizavimo lėšos yra:
 
 
-1) pajamos, gautos iš privatizavimo sandorių ir pardavus valstybei (savivaldybei) nuosavybės teise priklausančius akcijų paketus pagal Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymą, kai yra pateiktas oficialus privalomas pasiūlymas;
+1) pajamos, gautos iš privatizavimo sandorių ir pardavus valstybei (savivaldybei) nuosavybės teise priklausančius akcijų paketus pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą, kai yra pateiktas privalomas oficialus pasiūlymas; 
+Straipsnio punkto pakeitimai:
+Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
+ 
 
 
 
@@ -887,7 +898,9 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-4. Informaciniai leidiniai apie viešame konkurse parduodamus akcinių ir uždarųjų akcinių bendrovių akcijų paketus yra rengiami Turto fondo nustatyta tvarka. Šiems informaciniams leidiniams Vertybinių popierių viešosios apyvartos įstatymo reikalavimai netaikomi.
+4. Informaciniai leidiniai apie viešame konkurse parduodamus akcinių ir uždarųjų akcinių bendrovių akcijų paketus yra rengiami Turto fondo nustatyta tvarka. Šiems informaciniams leidiniams Vertybinių popierių rinkos įstatymo reikalavimai netaikomi. 
+Straipsnio dalies pakeitimai:
+Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
  
 
 
@@ -916,7 +929,10 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-4. Informaciniai leidiniai apie tiesioginių derybų būdu parduodamus akcinių ir uždarųjų akcinių bendrovių akcijų paketus yra rengiami Turto fondo nustatyta tvarka. Šiems informaciniams leidiniams Vertybinių popierių viešosios apyvartos įstatymo reikalavimai netaikomi.
+4. Informaciniai leidiniai apie tiesioginių derybų būdu parduodamus akcinių ir uždarųjų akcinių bendrovių akcijų paketus yra rengiami Turto fondo nustatyta tvarka. Šiems informaciniams leidiniams Vertybinių popierių rinkos įstatymo reikalavimai netaikomi. 
+Straipsnio dalies pakeitimai:
+Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010ISTA00IX-658
+ 
 
 
 
