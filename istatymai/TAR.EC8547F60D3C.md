@@ -28,14 +28,14 @@ Vilnius
 
  
  
-1 straipsnis.
-Įstatymo paskirtis
+1
+straipsnis. Įstatymo paskirtis
 Šis įstatymas
 nustato Lietuvos Respublikos Seimo laikinųjų tyrimo komisijų sudarymą,
 uždavinius, įgaliojimus ir darbo tvarką.
  
-2 straipsnis.
-Komisijos sudarymas ir jos veiklos trukmė
+2
+straipsnis. Komisijos sudarymas ir jos veiklos trukmė
 1. Seimas,
 pripažinęs būtinybę ištirti valstybinės svarbos klausimą, gali sudaryti Seimo
 laikinąją tyrimo komisiją (toliau - komisija).
@@ -45,8 +45,8 @@ vienos Seimo narių frakcijos atstovai.
 3. Komisijos
 tiriamas klausimas ir darbo trukmė nustatomi Seimo nutarimu.
  
-3 straipsnis.
-Komisijos uždaviniai
+3
+straipsnis. Komisijos uždaviniai
 1. Komisija turi
 išsiaiškinti ir nustatyti, ar buvo atlikti veiksmai, priimti sprendimai dėl
 klausimų, kuriuos jai pavesta ištirti, taip pat išsiaiškinti kitas su tiriamu
@@ -61,8 +61,8 @@ Nr.
 IX-1471,
 2003-04-03, Žin., 2003, Nr. 38-1716 (2003-04-24)
  
-4 straipsnis.
-Komisijos teisės
+4
+straipsnis. Komisijos teisės
 1. Komisija turi
 teisę:
 1) susipažinti
@@ -126,8 +126,8 @@ Nr.
 IX-1471,
 2003-04-03, Žin., 2003, Nr. 38-1716 (2003-04-24)
  
-5 straipsnis.
-Komisijos narių pareigos
+5
+straipsnis. Komisijos narių pareigos
 1. Komisijos
 nariai privalo:
 1) vadovautis
@@ -148,8 +148,8 @@ darbuotojams.
 nariai už šiame straipsnyje nustatytų pareigų pažeidimą atsako įstatymų
 nustatyta tvarka.
  
-6 straipsnis.
-Komisijos darbo organizavimas
+6
+straipsnis. Komisijos darbo organizavimas
 1. Komisija,
 suderinusi su atitinkamų valstybės institucijų vadovais, tyrimui atlikti turi
 teisę pasitelkti prokuratūros, Valstybės kontrolės, Valstybės saugumo
@@ -159,8 +159,8 @@ darbuotojus. Komisijos pasitelkti asmenys privalo vykdyti jos pavedimus.
 komisija iš savo narių gali sudaryti tyrimo grupes. Šios grupės turi tik tuos
 įgaliojimus, kuriuos joms suteikė komisija.
  
-7 straipsnis.
-Komisijos darbo tvarka
+7
+straipsnis. Komisijos darbo tvarka
 1. Komisijos
 darbo tvarką nustato jos reglamentas.
 2. Komisija savo
@@ -175,30 +175,36 @@ narių balsų dauguma.
 5. Nesutinkantys
 su komisijos sprendimu komisijos nariai turi teisę pareikšti atskirąją nuomonę,
 kuri pridedama prie sprendimo.
-6. Komisijos
-posėdžiai yra uždari. Komisijos sprendimu posėdžiuose gali dalyvauti komisijos
-pasitelkti asmenys.
-7. Po kiekvieno
-komisijos posėdžio gali būti parengiamas pranešimas visuomenės informavimo
-priemonėms. Pranešimą raštu arba žodžiu gali pateikti tik komisijos pirmininkas
-ar komisijos įgaliotas jos narys ir tik tokį, kokį įgaliojo pateikti komisija.
+6. Jeigu nagrinėjamas klausimas yra susijęs su
+valstybės paslaptimi, komisijos posėdžiai uždari visiems asmenims, išskyrus
+kviestuosius. Kviečiamųjų asmenų sąrašas sudaromas pagal komisijos narių pageidavimus.
+Kitais atvejais komisija rengti uždarus posėdžius gali tik gavusi Seimo
+pritarimą.
+7. Po kiekvieno komisijos posėdžio gali būti
+parengiamas pranešimas visuomenės informavimo priemonėms. Pranešimą raštu arba
+žodžiu gali pateikti tik komisijos pirmininkas ar komisijos įgaliotas jos narys
+ir tik tokį, kokį įgaliojo pateikti komisija.
+Straipsnio pakeitimai:
+Nr.
+IX-1806,
+2003-11-06, Žin., 2003, Nr. 107-4785 (2003-11-13)
  
-8 straipsnis.
-Komisijos sprendimai
+8
+straipsnis. Komisijos sprendimai
 1. Komisijos
 tyrimo rezultatai surašomi išvados projekte. Jame nurodoma tyrimo metu
 išaiškintos aplinkybės, surinkti įrodymai bei pateikiamas situacijos teisinis
 įvertinimas. 
 2. Apsvarsčiusi
 išvados projektą, komisija gali:
-1) nuspręsti
-perduoti medžiagą ikiteisminio tyrimo įstaigoms ar prokuratūrai;
+1) nuspręsti perduoti
+medžiagą ikiteisminio tyrimo įstaigoms ar prokuratūrai;
 2) pasiūlyti
 valstybės valdymo, savivaldos institucijoms patraukti pažeidimus padariusius
 asmenis drausminėn atsakomybėn arba spręsti, ar šie asmenys tinka einamoms
 pareigoms;
-3) konstatuoti,
-kad, komisijos nuomone, nebuvo atlikti veiksmai ar priimti sprendimai, kuriuos
+3) konstatuoti, kad,
+komisijos nuomone, nebuvo atlikti veiksmai ar priimti sprendimai, kuriuos
 komisijai pavesta ištirti, taip pat, kad atlikti veiksmai ar priimti sprendimai
 neprieštarauja įstatymams ir kitiems teisės aktams. 
 3. Komisijos
@@ -210,8 +216,7 @@ ir informuoti komisiją apie nagrinėjimo rezultatus.
 5. Komisija,
 pateikusi Seimui išvadą ir priimtą sprendimą, apie tai praneša visuomenės
 informavimo priemonėms. Neskelbiami duomenys ar žinios, kurie yra valstybės,
-komercinė, banko, tarnybinė, privataus gyvenimo ar kita įstatymų saugoma
-paslaptis.
+komercinė, banko, tarnybinė, privataus gyvenimo ar kita įstatymų saugoma paslaptis.
 6. Informaciją
 visuomenės informavimo priemonėms komisijos vardu teikia jos pirmininkas ar
 komisijos įgaliotas narys. Komisijos nariai, posėdyje pareiškę atskirąją
@@ -221,11 +226,11 @@ Nr.
 IX-1471,
 2003-04-03, Žin., 2003, Nr. 38-1716 (2003-04-24)
  
-9 straipsnis.
-Baigiamosios nuostatos
+9
+straipsnis. Baigiamosios nuostatos
 1. Vykdydami
-tyrimą, komisijos nariai ir jos pasitelkti asmenys netrikdo valstybės
-institucijų, kitų įmonių, įstaigų ar organizacijų darbo ir privalo susilaikyti nuo
+tyrimą, komisijos nariai ir jos pasitelkti asmenys netrikdo valstybės institucijų,
+kitų įmonių, įstaigų ar organizacijų darbo ir privalo susilaikyti nuo
 preliminarių vertinimų bei išvadų, kol nebus baigtas tyrimas ir nėra komisijos
 išvados.
 2. Šį įstatymą
@@ -255,16 +260,24 @@ Nr. IX-1471,
 SEIMO
 LAIKINŲJŲ TYRIMO KOMISIJŲ ĮSTATYMO 3, 4 IR 8 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja kartu su
-Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
-Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
 2003 m. 
 gegužės 1 d.
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1806,
+2003-11-06, Žin., 2003, Nr. 107-4785 (2003-11-13)
+SEIMO
+LAIKINŲJŲ TYRIMO KOMISIJŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-04-30)
+Aušrinė Trapinskienė (2003-11-13)
                  
 autrap@lrs.lt
