@@ -206,14 +206,20 @@ Nr. IX-96, 2000 12 20, Žin., 2000, Nr.
 113-3605 (2000 12 30), įsigalioja nuo 2001 01 01
  
  
-            4 straipsnis. Turto ir
-pajamų deklaravimas
-            Turto ir pajamų deklaracijos
-formą bei metodinius nurodymus, kaip ją pildyti, nustato Vyriausybė. Valstybinė
-mokesčių inspekcija pagal šį įstatymą deklaruojančius turtą ir pajamas asmenis
-nemokamai aprūpina turto ir pajamų deklaracijų blankais bei metodiniais
-nurodymais. Užpildytos turto ir pajamų deklaracijos saugomos nuolatinai.
-
+4 straipsnis.
+Turto ir pajamų deklaravimas
+Turto
+ir pajamų deklaracijos formą bei metodinius nurodymus, kaip ją pildyti, nustato
+Vyriausybė arba jos įgaliota institucija. Valstybinė mokesčių inspekcija pagal
+šį įstatymą deklaruojančius turtą ir pajamas asmenis nemokamai aprūpina turto
+ir pajamų deklaracijų blankais bei metodiniais nurodymais. Užpildytos turto ir
+pajamų deklaracijos saugomos 10 metų nuo gavimo datos.
+Straipsnio
+pakeitimai:
+Nr. IX-334, 2001 05 22, Žin., 2001, Nr.
+48-1658 (2001 06 06)
+ 
+ 
 5
 straipsnis. Kandidatų į politikus, naujų politikų ar valstybės tarnautojų,
 nustojusių
@@ -225,10 +231,10 @@ turto ir pajamų deklaravimas
 Kandidatai į Respublikos prezidentus, Seimo narius, ministrus pirmininkus,
 ministrus ir savivaldybių tarybų narius bei jų šeimų nariai privalo deklaruoti
 turtą ir pajamas nuo kalendorinių metų pradžios iki kandidatavimo pradžios.
-Turtą ir pajamas deklaravusiems kandidatams į politikus valstybinė mokesčių
-inspekcija per 15 darbo dienų išduoda patvirtintus pagrindinių deklaracijos
-duomenų išrašus, kuriuos šie asmenys privalo pateikti Vyriausiajai rinkimų
-komisijai ar apygardos rinkimų komisijai. 
+Turtą ir pajamas deklaravusiems kandidatams į politikus valstybinė mokesčių inspekcija
+per 15 darbo dienų išduoda patvirtintus pagrindinių deklaracijos duomenų
+išrašus, kuriuos šie asmenys privalo pateikti Vyriausiajai rinkimų komisijai ar
+apygardos rinkimų komisijai. 
 2.
 Paskirti į pareigas valstybės tarnautojai ir jų šeimų nariai privalo deklaruoti
 savo turtą ir pajamas už laikotarpį nuo kalendorinių metų pradžios iki
@@ -286,10 +292,10 @@ vertybių ar suteikę paslaugų ir tam tikrais atvejais išskaitę mokesčius, k
 iki kovo 1 dienos privalo parengti centrinio mokesčio administratoriaus
 patvirtintos formos pažymas apie Lietuvos Respublikos gyventojams per
 praėjusius metus išmokėtas sumas, išskaičiuotus mokesčius, nemokamai išduotą
-turtą ar suteiktas paslaugas. Vieną šios pažymos egzempliorių išdavėjai
-nemokamai išsiunčia ar išduoda šio įstatymo 11 straipsnio 1–5 punktuose
-nurodytiems Lietuvos Respublikos gyventojams, o kitą – jų gyvenamosios vietos
-valstybinei mokesčių inspekcijai.
+turtą ar suteiktas paslaugas. Vieną šios pažymos egzempliorių išdavėjai nemokamai
+išsiunčia ar išduoda šio įstatymo 11 straipsnio 1–5 punktuose nurodytiems
+Lietuvos Respublikos gyventojams, o kitą – jų gyvenamosios vietos valstybinei
+mokesčių inspekcijai.
 2. Šio įstatymo 11
 straipsnio 1–5 punktuose nurodyti asmenys kasmet iki vasario 1 dienos
 juridiniams, fiziniams asmenims bei juridinių asmens teisių neturintiems
@@ -335,8 +341,8 @@ Nr. IX-96, 2000 12 20, Žin., 2000, Nr.
 113-3605 (2000 12 30), įsigalioja nuo 2001 01 01
  
  
-            7 straipsnis. Duomenų
-kaupimas ir kontrolė
+            7 straipsnis. Duomenų kaupimas
+ir kontrolė
             1. Valstybinė mokesčių
 inspekcija tikrina turto ir pajamų deklaracijose nurodytų duomenų teisingumą,
 kaupia ir saugo šio įstatymo 3 straipsnyje nurodytų Lietuvos Respublikos
@@ -419,8 +425,8 @@ VIII-623,
 98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
 Nr. VIII-714,
 98.04.23, Žin., 1998, Nr.41-1096 (98.05.01)
-Nr. VIII-1887, 00.07.20, Žin., 2000, Nr.67-2017
-(00.08.09)
+Nr. VIII-1887, 00.07.20, Žin., 2000,
+Nr.67-2017 (00.08.09)
  
  
 11 straipsnis.
@@ -503,10 +509,10 @@ Respublikos Seimo nariai.
 3. Lietuvos
 Respublikos Ministras Pirmininkas ir ministrai, viceministrai, ministerijų
 sekretoriai.
-4. Lietuvos Respublikos
-teismų pirmininkai, jų pavaduotojai, skyrių pirmininkai, teisėjai ir teismų
-antstoliai, Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės
-nariai.
+4. Lietuvos
+Respublikos teismų pirmininkai, jų pavaduotojai, skyrių pirmininkai, teisėjai
+ir teismų antstoliai, Mokestinių ginčų komisijos prie Lietuvos Respublikos
+Vyriausybės nariai.
 5. Generalinis
 prokuroras ir generalinio prokuroro pavaduotojai, Generalinės prokuratūros
 struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovai.
@@ -575,12 +581,12 @@ Prezidentūros vyriausiasis buhalteris, Prezidentūros kanceliarijos skyrių
 Respublikos Vyriausybės sekretorius, kanceliarijos skyrių vedėjai (viršininkai)
 ir skyrių vedėjų (viršininkų) pavaduotojai, vyriausiasis buhalteris
 (finansininkas) ir vyriausiojo buhalterio (finansininko) pavaduotojai.
-5. Lietuvos
-Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų),
-prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės
-valdymo institucijų vyriausieji buhalteriai (finansininkai) ir vyriausiųjų
-buhalterių (finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos
-institucijos šiame punkte išvardytų institucijų skelbiamą sąrašą).
+5. Lietuvos Respublikos
+Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų), prie
+ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo
+institucijų vyriausieji buhalteriai (finansininkai) ir vyriausiųjų buhalterių
+(finansininkų) pavaduotojai (pagal Vyriausybės įgaliotos institucijos šiame
+punkte išvardytų institucijų skelbiamą sąrašą).
 6. Ministerijų
 struktūrinių padalinių (departamentų, valdybų, kanceliarijų, skyrių, poskyrių,
 sektorių, biurų, grupių, sekretoriatų) vadovai ir padalinių vadovų
@@ -693,8 +699,15 @@ STRAIPSNIU ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-334, 2001 05 22, Žin., 2001, Nr.
+48-1658 (2001 06 06)
+GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 4
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2001 01 11)
+Redagavo: Aušrinė Trapinskienė (2001 06 06)
                   autrap@lrs.lt
