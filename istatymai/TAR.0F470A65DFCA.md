@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
+Suvestinė redakcija nuo 2003-01-01 iki 2003-12-31
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
+ 
 LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS RĖMIMO PROGRAMOS ĮSTATYMAS
  
 2000 m. spalio 12 d. Nr. VIII-2025
@@ -93,17 +97,33 @@ Programos lėšas (įplaukas) sudaro:
 
 
 
-8) lėšos, išieškotos už savivaldybės gamtos apsaugos fondo naudojimo nuostatų pažeidimą;
+8) 30 procentų medžioklės plotų naudotojų mokamo mokesčio už medžiojamųjų gyvūnų išteklių naudojimą; 
+Papildyta straipsnio punktu:
+Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
+ 
 
 
 
 
-9) savanoriškos juridinių ir fizinių asmenų ir įmonių, neturinčių juridinio asmens teisių, įmokos;
+9) lėšos, išieškotos už savivaldybės gamtos apsaugos fondo naudojimo nuostatų pažeidimą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
+ 
 
 
 
 
-10) kitos teisėtai gautos lėšos.
+10) savanoriškos juridinių ir fizinių asmenų ir įmonių, neturinčių juridinio asmens teisių, įmokos;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
+ 
+
+
+
+
+11) kitos teisėtai gautos lėšos.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
  
 
 
@@ -119,44 +139,52 @@ Programos lėšas (įplaukas) sudaro:
 1. Programos lėšos naudojamos:
 
 
-1) priemonėms, kuriomis kompensuojama aplinkai padaryta žala, kraštovaizdžio kompleksams ar elementams atkurti, aplinkosaugos objektams projektuoti, statyti, rekonstruoti, remontuoti, aplinkos teršimo šaltiniams pašalinti, gamtos ištekliams atkurti ir gausinti – ne mažiau kaip 30 procentų Programos metinių įplaukų (neįskaitant įplaukų pagal 3 straipsnio 5, 6 ir 7 punktus);
+1) priemonėms, kuriomis kompensuojama aplinkai padaryta žala, kraštovaizdžio kompleksams ar elementams atkurti, aplinkosaugos objektams projektuoti, statyti, rekonstruoti, remontuoti, aplinkos teršimo šaltiniams pašalinti, gamtos ištekliams atkurti ir gausinti – ne mažiau kaip 30 procentų Programos metinių įplaukų (neįskaitant įplaukų pagal 3 straipsnio 5, 6, 7 ir 8 punktus);
 
 
 
 
-2) žuvų ištekliams atkurti ir saugoti – įplaukos pagal 3 straipsnio 5, 6 ir 7 punktus;
+2) žuvų ištekliams atkurti ir saugoti – įplaukos pagal 3 straipsnio 5, 6 ir 7 punktus;
 
 
 
 
-3) aplinkos apsaugos, gamtos išteklių naudojimo ir jų gausinimo programoms, schemoms, planams, įstatymų ir kitų teisės aktų projektams rengti;
+3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; priemonėms prieš brakonieriavimą; medžioklės plėtrą skatinančioms bei medžioklės kultūrą ir tradicijas puoselėjančioms priemonėms; retų ir nykstančių rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta ištisus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti bei šių gyvūnų daromos žalos prevencijos priemonėms – įplaukos pagal 3 straipsnio 8 punktą;
 
 
 
 
-4) moksliniams taikomiesiems darbams, aplinkos monitoringui, poveikio aplinkai vertinimui;
+4) aplinkos apsaugos, gamtos išteklių naudojimo ir jų gausinimo programoms, schemoms, planams, įstatymų ir kitų teisės aktų projektams rengti;
 
 
 
 
-5) valstybinėms aplinkos apsaugos įstaigoms ir organizacijoms aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis jų aplinkosaugos veiklai vykdyti;
+5) moksliniams taikomiesiems darbams, aplinkos monitoringui, poveikio aplinkai vertinimui;
 
 
 
 
-6) aplinkosaugos srityje švietimui, mokymui, specialistų kvalifikacijai kelti, leidybai, aplinkosaugos informacijai skleisti, aplinkos apsaugos renginiams bei konkursams organizuoti, tarptautinių projektų ir sutarčių aplinkosaugos srityje įgyvendinimo išlaidoms apmokėti;
+6) valstybinėms aplinkos apsaugos įstaigoms ir organizacijoms aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis jų aplinkosaugos veiklai vykdyti;
 
 
 
 
-7) vardinėms premijoms skirti asmenims už nuopelnus aplinkosaugos srityje;
+7) aplinkosaugos srityje švietimui, mokymui, specialistų kvalifikacijai kelti, leidybai, aplinkosaugos informacijai skleisti, aplinkos apsaugos renginiams bei konkursams organizuoti, tarptautinių projektų ir sutarčių aplinkosaugos srityje įgyvendinimo išlaidoms apmokėti;
 
 
 
 
-8) neetatinių aplinkos apsaugos inspektorių atliekamiems aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės darbams bei rengiamoms programoms įgyvendinti – ne daugiau kaip 5 procentai Programos metinių įplaukų (neįskaitant įplaukų pagal 3 straipsnio 5, 6 ir 7 punktus).
+8) vardinėms premijoms skirti asmenims už nuopelnus aplinkosaugos srityje;
 
 
+
+
+9) neetatinių aplinkos apsaugos inspektorių atliekamiems aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės darbams bei rengiamoms programoms įgyvendinti – ne daugiau kaip 5 procentai Programos metinių įplaukų (neįskaitant įplaukų pagal 3 straipsnio 5, 6, 7 ir 8 punktus).
+
+
+Straipsnio dalies pakeitimai:
+Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
+ 
 
 
 
@@ -186,3 +214,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                        VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3, 4 straipsnių pakeitimo ir papildymo įstatymas
