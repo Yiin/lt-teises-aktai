@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.75C66B100186"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 1995-12-29 iki 1995-12-29
+Suvestinė redakcija nuo 1995-12-30 iki 1996-05-09
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 191-0; Žin. 1992, Nr.29-843, i. k. 0921010ISTA00I-2880
  
@@ -87,6 +87,11 @@ Jeigu šalys nesusitaria dėl bankroto procedūros taikymo arba jei kreditorių 
 Bankroto neteisminę procedūrą vykdo kreditorių susirinkimas. Šis susirinkimas taip pat atlieka šio įstatymo 6, 10, 19, 20, 21, 22, 23, 26 ir 28 straipsniuose numatytus veiksmus. 
 Straipsnio dalies pakeitimai:
 Nr. I-466, 1994-05-19, Žin., 1994, Nr. 43-774 (1994-06-08), i. k. 0941010ISTA000I-466
+ 
+
+Bankroto neteisminės procedūros taikymo įmonėje atveju kyla šio įstatymo 6 straipsnio septintojoje dalyje numatytos pasekmės.
+Papildyta straipsnio dalimi:
+Nr. I-1147, 1995-12-20, Žin., 1995, Nr. 107-2396 (1995-12-30), i. k. 0951010ISTA00I-1147
  
 
 5 straipsnis. Tyčinis bankrotas
@@ -499,4 +504,9 @@ Dėl Lietuvos Respublikos įmonių bankroto įstatymo 29 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1136, 1995-12-19, Žin., 1995, Nr. 106-2352 (1995-12-29), i. k. 0951010ISTA00I-1136
 Dėl Lietuvos Respublikos įmonių bankroto įstatymo 29 straipsnio pakeitimo
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1147, 1995-12-20, Žin., 1995, Nr. 107-2396 (1995-12-30), i. k. 0951010ISTA00I-1147
+Dėl Lietuvos Respublikos įmonių bankroto įstatymo 4 straipsnio papildymo
 
