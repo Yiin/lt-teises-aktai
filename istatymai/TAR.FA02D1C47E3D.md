@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA02D1C47E3D"
 
 # Lietuvos Respublikos Vyriausybės įstatymas
 
-Suvestinė redakcija nuo 1992-09-01 iki 1992-11-26
+Suvestinė redakcija nuo 1992-11-27 iki 1993-01-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 13-0; Žin. 1990, Nr.11-330, i. k. 0901010ISTA0000I-61
  
@@ -295,11 +295,16 @@ SU KITAIS VALSTYBINIAIS ORGANAIS
 Lietuvos Respublikos Vyriausybė pagal savo įgaliojimus:
 
 1) kontroliuoja, kaip vietos savivaldybės vykdo Lietuvos Respublikos įstatymus ir Vyriausybės sprendimus; gali reikalauti iš savivaldybių tarybų ir valdybų prieš terminą atleisti iš pareigų tarybų rinktus, skirtus ar tvirtintus, taip pat valdybų skirtus pareigūnus, jeigu jie nevykdo Lietuvos Respublikos įstatymų, Aukščiausiosios Tarybos nutarimų ar Lietuvos Respublikos Vyriausybės sprendimų arba juos šiurkščiai pažeidžia, taip pat įstatymų nustatytais atvejais atleisti iš darbo savivaldybių valdybų pareigūnus. 
+Skiria savo atstovus regionuose ir tvirtina jų nuostatus;
 Straipsnio punkto pakeitimai:
 Nr. I-1795, 1991-09-12, Lietuvos aidas, 1991, Nr. 190-0 (1991-09-20); Žin., 1991, Nr. 27-737 (1991-09-30), i. k. 091XX01ISTA00I-1795
+Nr. I-3070, 1992-11-19, Lietuvos aidas, 1992, Nr. 232-0 (1992-11-26); Žin., 1992, Nr. 34-1034 (1992-11-30), i. k. 0921010ISTA00I-3070
  
 
-2) gali sustabdyti ir užprotestuoti aukštesniosios pakopos savivaldybės valdymo organų sprendimus šios savivaldybės Taryboje, jeigu jie prieštarauja Lietuvos Respublikos Konstitucijai (Pagrindiniam įstatymui), ar kitiems Respublikos įstatymams, kilus ginčui, klausimus galutinai sprendžia Lietuvos Respublikos Aukščiausioji Taryba;
+2) gali sustabdyti ir panaikinti aukštesniosios pakopos savivaldybės valdymo organų sprendimus, jeigu jie neatitinka įstatymų ar poįstatyminių aktų; 
+Straipsnio punkto pakeitimai:
+Nr. I-3070, 1992-11-19, Lietuvos aidas, 1992, Nr. 232-0 (1992-11-26); Žin., 1992, Nr. 34-1034 (1992-11-30), i. k. 0921010ISTA00I-3070
+ 
 
 3) kartu su vietos savivaldybės valdymo organais organizuoja valstybinės reikšmės objektų (gamybinės infrastruktūros) valdymą;
 
@@ -519,4 +524,9 @@ Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo
 LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
 Nr. I-2814, 1992-07-30, Žin., 1992, Nr. 24-700 (1992-08-31), i. k. 0921010ISTA00I-2814
 Dėl Lietuvos Respublikos prekybos ir materialinių išteklių ministerijos pertvarkymo į Lietuvos Respublikos pramonės ir prekybos ministeriją
+ 
+12.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-3070, 1992-11-19, Lietuvos aidas, 1992, Nr. 232-0 (1992-11-26); Žin., 1992, Nr. 34-1034 (1992-11-30), i. k. 0921010ISTA00I-3070
+Dėl Lietuvos Respublikos Vyriausybės įstatymo 19 straipsnio pakeitimo
 
