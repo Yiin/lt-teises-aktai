@@ -149,10 +149,9 @@ deklaracijų turinys
 1. Asmens, dirbančio valstybinėje tarnyboje,
 metinėse privačių interesų deklaracijose turi būti nurodyta deklaruojančiojo ir
 jo sutuoktinio:
-1) mokesčių inspekcijai privalomo deklaruoti turto
-ir pajamų mokesčio duomenys. Šis reikalavimas netaikomas tuo atveju, jei asmuo
-yra pildęs gyventojo turto ir gyventojų pajamų mokesčio deklaracijas už
-paskutinius metus. Tuomet pateikiami šių deklaracijų nuorašai (kopijos);
+1) Vyriausiosios tarnybinės etikos komisijos
+nustatytoje privačių interesų deklaracijos formoje nurodyti turto ir pajamų
+duomenys;
 2) kiti turtiniai
 įsipareigojimai, užtikrinantys prievolių įvykdymą, nenurodyti turto ir pajamų
 deklaracijoje;
@@ -165,8 +164,8 @@ gautas iš artimųjų giminaičių ir šeimos narių;
 5) per paskutinius kalendorinius metus
 kitų fizinių ar juridinių asmenų suteiktos paslaugos, jeigu jų vertė yra
 didesnė nei 5 MGL ir jeigu tai gali sukelti viešųjų ir privačių interesų
-konfliktą, išskyrus atvejus, kai paslaugas apmoka ar suteikia artimieji giminaičiai
-ar šeimos nariai;
+konfliktą, išskyrus atvejus, kai paslaugas apmoka ar suteikia artimieji
+giminaičiai ar šeimos nariai;
 6) pareigos ir ryšiai su įmonėmis ar
 tarptautinėmis organizacijomis, narystė ir pareigos visuomeniniuose judėjimuose
 ar organizacijose, jeigu tai gali sukelti viešųjų ir privačių interesų
@@ -176,8 +175,8 @@ nariai, kiti deklaruojančiajam žinomi asmenys, dėl kurių, jo nuomone, tarnyb
 gali kilti interesų konfliktas, galimo interesų konflikto pagrindai.
 2. Pasikeitus deklaruojamiems duomenims po to, kai
 buvo užpildyta deklaracija, asmuo, dirbantis valstybinėje tarnyboje, ne vėliau
-kaip per dvi savaites nuo duomenų pasikeitimo dienos privalo juos deklaruoti.
-Ši deklaracija pridedama prie metinės deklaracijos ir yra jos priedas. 
+kaip per dvi savaites nuo duomenų pasikeitimo dienos privalo juos deklaruoti. Ši
+deklaracija pridedama prie metinės deklaracijos ir yra jos priedas. 
 3. Deklaruojantysis gali
 nenurodyti duomenų apie sutuoktinį, jeigu sutuoktiniai kartu negyvena, neturi
 bendro ūkio ir dėl to šie duomenys deklaruojančiajam nėra žinomi.
@@ -187,6 +186,9 @@ Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 Nr.
 IX-1912,
 2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
+Nr.
+IX-2274,
+2004-06-15, Žin., 2004, Nr. 98-3630 (2004-06-24)
  
 7 straipsnis. Deklaracija paaiškėjus
 naujoms aplinkybėms 
@@ -208,9 +210,9 @@ kuriems jos yra pateiktos.
 tikrinimas 
 Jeigu reikia patikrinti, ar
 deklaracijoje pateikti duomenys atitinka tikrovę, tikrina: 
-1) šio įstatymo 6 straipsnio 1 dalies 1-5
-punktuose nurodytus duomenis - institucijos vadovo ar Vyriausiosios tarnybinės
-etikos komisijos teikimu Valstybinė mokesčių inspekcija; 
+1) šio įstatymo 6 straipsnio 1 dalies
+1-5 punktuose nurodytus duomenis - institucijos vadovo ar Vyriausiosios
+tarnybinės etikos komisijos teikimu Valstybinė mokesčių inspekcija; 
 2) šio įstatymo 6 straipsnio 1 dalies 6,
 7 punktuose nurodytus duomenis - institucijos vadovas, jo įgaliotas atstovas
 arba Vyriausioji tarnybinės etikos komisija. 
@@ -219,33 +221,33 @@ arba Vyriausioji tarnybinės etikos komisija.
 deklaracijų viešumas 
 1. Respublikos
 Prezidento, Seimo narių, Ministro Pirmininko, ministrų, viceministrų,
-ministerijų sekretorių, Konstitucinio Teismo pirmininko ir teisėjų, Lietuvos
-Aukščiausiojo Teismo, Lietuvos apeliacinio teismo ir apygardų teismų
-pirmininkų, skyrių pirmininkų ir teisėjų, Lietuvos vyriausiojo administracinio
-teismo, apygardų administracinių teismų ir apylinkių teismų pirmininkų, teismų
-pirmininkų pavaduotojų ir teisėjų, generalinio prokuroro ir generalinio
-prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip
-pat apygardų ir apylinkių prokuratūrų vadovų, Valstybės kontrolės vadovaujančių
-pareigūnų, apskričių viršininkų, apskričių viršininkų pavaduotojų, Vyriausybės
-atstovų apskrityse, Vyriausybės įstaigų (departamentų, agentūrų, tarnybų,
-inspekcijų), prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų
-valstybės valdymo institucijų vadovų (generalinių direktorių, direktorių,
-viršininkų) ir vadovų pavaduotojų, Lietuvos banko valdybos pirmininko ir
-valdybos pirmininko pavaduotojų, Muitinės departamento prie Finansų
-ministerijos ir teritorinių muitinių vadovaujančių pareigūnų, Valstybinės
-mokesčių inspekcijos prie Finansų ministerijos ir teritorinių mokesčių
-inspekcijų vadovaujančių pareigūnų, Vidaus reikalų ministerijos Ekonominių
-nusikaltimų tyrimo valdybos ir miestų bei rajonų komisariatų ekonominių
-nusikaltimų tyrimo skyrių (poskyrių) vadovaujančių pareigūnų, policijos
-generalinio komisaro, policijos įstaigų vadovų ir jų pavaduotojų, Specialiųjų
-tyrimų tarnybos direktoriaus, Specialiųjų tyrimų tarnybos direktoriaus pirmojo
-pavaduotojo ir pavaduotojo, savivaldybių tarybų narių, merų, vicemerų,
-savivaldybių administracijų direktorių, savivaldybių kontrolierių, Seimo
-kontrolierių metinių privačių interesų deklaracijų suvestiniai duomenys
-kiekvienais metais ne vėliau kaip iki rugsėjo 15 d. valstybės lėšomis yra
-skelbiami Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka. Detalų
-šioje dalyje išvardytų pareigybių sąrašą kiekvienais metais iki kovo 15 d.
-nustato Vyriausioji tarnybinės etikos komisija.
+ministerijų sekretorių, Konstitucinio Teismo pirmininko ir teisėjų, Lietuvos Aukščiausiojo
+Teismo, Lietuvos apeliacinio teismo ir apygardų teismų pirmininkų, skyrių
+pirmininkų ir teisėjų, Lietuvos vyriausiojo administracinio teismo, apygardų
+administracinių teismų ir apylinkių teismų pirmininkų, teismų pirmininkų
+pavaduotojų ir teisėjų, generalinio prokuroro ir generalinio prokuroro
+pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip pat apygardų
+ir apylinkių prokuratūrų vadovų, Valstybės kontrolės vadovaujančių pareigūnų,
+apskričių viršininkų, apskričių viršininkų pavaduotojų, Vyriausybės atstovų
+apskrityse, Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų),
+prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės
+valdymo institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir
+vadovų pavaduotojų, Lietuvos banko valdybos pirmininko ir valdybos pirmininko
+pavaduotojų, Muitinės departamento prie Finansų ministerijos ir teritorinių
+muitinių vadovaujančių pareigūnų, Valstybinės mokesčių inspekcijos prie Finansų
+ministerijos ir teritorinių mokesčių inspekcijų vadovaujančių pareigūnų, Vidaus
+reikalų ministerijos Ekonominių nusikaltimų tyrimo valdybos ir miestų bei
+rajonų komisariatų ekonominių nusikaltimų tyrimo skyrių (poskyrių)
+vadovaujančių pareigūnų, policijos generalinio komisaro, policijos įstaigų
+vadovų ir jų pavaduotojų, Specialiųjų tyrimų tarnybos direktoriaus, Specialiųjų
+tyrimų tarnybos direktoriaus pirmojo pavaduotojo ir pavaduotojo, savivaldybių
+tarybų narių, merų, vicemerų, savivaldybių administracijų direktorių, savivaldybių
+kontrolierių, Seimo kontrolierių metinių privačių interesų deklaracijų
+suvestiniai duomenys kiekvienais metais ne vėliau kaip iki rugsėjo 15 d.
+valstybės lėšomis yra skelbiami Vyriausiosios tarnybinės etikos komisijos
+nustatyta tvarka. Detalų šioje dalyje išvardytų pareigybių sąrašą
+kiekvienais metais iki kovo 15 d. nustato Vyriausioji tarnybinės etikos
+komisija.
 2. Vyriausiosios tarnybinės etikos
 komisijos nustatyta tvarka su šio straipsnio 1 dalyje išvardytų asmenų metinių
 privačių interesų deklaracijų suvestiniais duomenimis, saugomais šio įstatymo 8
@@ -259,8 +261,8 @@ Nr. VIII-1936, 2000 09 19, Žin., 2000, Nr.
 85-2574 (2000 10 11), įsigalioja nuo 2001 01 01
 Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 35-1165 (2001 04 25)
-Nr. IX-1505,
-2003-04-17, Žin., 2003, Nr. 42-1911 (2003-05-01)
+Nr. IX-1505, 2003-04-17,
+Žin., 2003, Nr. 42-1911 (2003-05-01)
 Nr. IX-1809,
 2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
  
@@ -317,8 +319,7 @@ gauna bet kurios rūšies pajamų;
 2) tvarkydamas reikalus su visų rūšių
 įmonėmis, kuriose jis, jo artimieji giminaičiai ar šeimos nariai turi daugiau
 kaip 10 procentų įstatinio kapitalo arba akcijų; 
-3) jeigu dėl to kyla interesų
-konfliktas.
+3) jeigu dėl to kyla interesų konfliktas.
 2. Asmuo, dirbantis valstybinėje
 tarnyboje, negali atstovauti privačioms grupėms ar asmenims ir ginti jų
 interesų valstybės ar savivaldybių institucijose, išskyrus atvejus, kai jie
@@ -352,8 +353,8 @@ valstybinėje tarnyboje, pareigomis.
 3. Jeigu šio straipsnio 2 dalyje
 nurodytų dovanų vertė viršija 1 minimalų gyvenimo lygį (toliau - MGL), o
 paslaugų vertė viršija 5 MGL, asmuo, dirbantis valstybinėje tarnyboje, privalo
-tai per kalendorinį mėnesį deklaruoti. Ši deklaracija pridedama prie metinės privačių
-interesų deklaracijos ir yra jos priedas. 
+tai per kalendorinį mėnesį deklaruoti. Ši deklaracija pridedama prie metinės
+privačių interesų deklaracijos ir yra jos priedas. 
 4. Jeigu šio straipsnio 2 dalyje
 nurodytos dovanos vertė viršija 5 MGL, ši dovana yra laikoma valstybės ar
 savivaldybės nuosavybe. Tokia dovana įvertinama ir saugoma Vyriausiosios
@@ -389,8 +390,8 @@ Asmuo, dirbantis valstybinėje tarnyboje,
 privalo nedelsdamas raštu informuoti savo institucijos vadovą ar jo įgaliotą
 atstovą apie tai, kad jis priėmė siūlymą pereiti į kitą darbą. Institucijos
 vadovas ar jo įgaliotas atstovas, nustatęs, kad šis asmuo yra artimai tarnybos
-santykiais susijęs su būsimuoju darbdaviu, turi nedelsdamas imtis priemonių, kad
-būtų pašalinta interesų konflikto grėsmė. 
+santykiais susijęs su būsimuoju darbdaviu, turi nedelsdamas imtis priemonių,
+kad būtų pašalinta interesų konflikto grėsmė. 
  
 PENKTASIS
 SKIRSNIS
@@ -400,13 +401,14 @@ PASIBAIGUS TARNYBAI
 18 straipsnis. Apribojimai sudaryti
 darbo sutartį
 Asmuo, nustojęs eiti pareigas
-valstybinėje tarnyboje, vienerius metus neturi dirbti įmonės vadovu, vadovo pavaduotoju,
-būti įmonės tarybos ar valdybos nariu, taip pat eiti kitas pareigas, tiesiogiai
-susijusias su sprendimų priėmimu įmonės valdymo, turto tvarkymo, finansų
-apskaitos bei kontrolės srityse, jeigu per paskutinius darbo metus jo tarnyba
-buvo tiesiogiai susijusi su šių įmonių veiklos priežiūra ar kontrole arba jeigu
-asmuo dalyvavo svarstant ir priimant palankius šioms įmonėms sprendimus
-konkurso ar kitokiu būdu teikti valstybės užsakymus ar finansinę paramą.
+valstybinėje tarnyboje, vienerius metus neturi dirbti įmonės vadovu, vadovo
+pavaduotoju, būti įmonės tarybos ar valdybos nariu, taip pat eiti kitas
+pareigas, tiesiogiai susijusias su sprendimų priėmimu įmonės valdymo, turto
+tvarkymo, finansų apskaitos bei kontrolės srityse, jeigu per paskutinius darbo
+metus jo tarnyba buvo tiesiogiai susijusi su šių įmonių veiklos priežiūra ar
+kontrole arba jeigu asmuo dalyvavo svarstant ir priimant palankius šioms
+įmonėms sprendimus konkurso ar kitokiu būdu teikti valstybės užsakymus ar
+finansinę paramą.
 Straipsnio pakeitimai:
 Nr. IX-244, 2001 04 10, Žin., 2001, Nr.
 35-1165 (2001 04 25)
@@ -429,9 +431,9 @@ neviršija 10 000 Lt.
  
 20 straipsnis. Atstovavimo apribojimai 
 1. Asmuo,
-nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus negali
-atstovauti fiziniams ar juridiniams asmenims toje institucijoje, kurioje jis
-paskutinius metus dirbo.
+nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus negali atstovauti
+fiziniams ar juridiniams asmenims toje institucijoje, kurioje jis paskutinius
+metus dirbo.
 2. Asmuo, nustojęs eiti pareigas
 valstybinėje tarnyboje, vienerius metus negali atstovauti fiziniams ar
 juridiniams asmenims kitose valstybės ar savivaldybių institucijose tais
@@ -479,13 +481,13 @@ kad savo tarnybinę veiklą suderintų su šio įstatymo reikalavimais;
 3) savo iniciatyva, Vyriausiosios
 tarnybinės etikos komisijos nurodymu arba gavę pareiškimą, kad kuris nors
 asmuo, dirbantis jiems pavaldžioje valstybinėje tarnyboje, savo tarnybinėje
-veikloje nevykdo šio įstatymo reikalavimų, gali atlikti šio asmens tarnybinės veiklos
-patikrinimą. Tokiam tikrinimui įstaigoje gali būti įsteigta Tarnybinės etikos
-komisija. Apie tikrinimo rezultatus informuojamas pareiškimą pateikęs asmuo,
-asmuo, kurio veikla buvo tikrinta, taip pat Vyriausioji tarnybinės etikos
-komisija. Vyriausioji tarnybinės etikos komisija supažindinama ir su visais
-gaunamais pareiškimais, kuriuose pateikiama informacija apie šio įstatymo
-pažeidimus. 
+veikloje nevykdo šio įstatymo reikalavimų, gali atlikti šio asmens tarnybinės
+veiklos patikrinimą. Tokiam tikrinimui įstaigoje gali būti įsteigta Tarnybinės
+etikos komisija. Apie tikrinimo rezultatus informuojamas pareiškimą pateikęs
+asmuo, asmuo, kurio veikla buvo tikrinta, taip pat Vyriausioji tarnybinės
+etikos komisija. Vyriausioji tarnybinės etikos komisija supažindinama ir su
+visais gaunamais pareiškimais, kuriuose pateikiama informacija apie šio
+įstatymo pažeidimus. 
  
 23 straipsnis. Vyriausioji tarnybinės
 etikos komisija 
@@ -595,8 +597,8 @@ VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 23
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 3.
-Lietuvos
-Respublikos Seimas, Įstatymas
+Lietuvos Respublikos
+Seimas, Įstatymas
 Nr. VIII-1148,
 99.04.20, Žin., 1999, Nr.39-1198 (99.05.05)
 LIETUVOS
@@ -696,11 +698,20 @@ TEISINĖS PAGALBOS ĮSTATYMO IR VALSTYBĖS KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTAT
 Šis
 įstatymas įsigalioja nuo 2004-01-01.
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-2274,
+2004-06-15, Žin., 2004, Nr. 98-3630 (2004-06-24)
+VIEŠŲJŲ
+IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 6 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2003-12-31)
-           
-      aubodi@lrs.lt
+Aušra Bodin (2004-06-25)
+              
+   aubodi@lrs.lt
