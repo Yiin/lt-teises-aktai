@@ -14,7 +14,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99"
 # Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymas
 
 Redagavo:
-Ramunė Lūžaitė (1998.01.05)
+Ramunė Lūžaitė (1998.10.16)
  
 Įstatymas
 paskelbtas: Žin., 1997,
@@ -30,23 +30,40 @@ Nr. VIII-575, 97.12.09,
 LIETUVOS RESPUBLIKOS GYVENTOJŲ
 SANTAUPŲ ATKŪRIMO ĮSTATYMO 3, 5, 7 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
-*** pabaiga ***
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. VIII-872, 98.10.06,
+Žin., 1998, Nr.91-2510 (98.10.16)
 LIETUVOS RESPUBLIKOS
+GYVENTOJŲ SANTAUPŲ ATKŪRIMO ĮSTATYMO 1 IR 7 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+ 
+*** pabaiga ***
+LIETUVOS
+RESPUBLIKOS
 GYVENTOJŲ
 SANTAUPŲ ATKŪRIMO
 ĮSTATYMAS
+ 
 1997 m. birželio 5 d. Nr. VIII-240
 Vilnius
+ 
+ 
 
  
 1 straipsnis. Įstatymo paskirtis
  
 Šis įstatymas nustato Lietuvos Respublikos piliečių
-ir asmenų, nuolat gyvenančių Lietuvos Respublikoje (toliau - gyventojų),
+ir asmenų, nuolat gyvenančių Lietuvos Respublikoje, taip pat buvusių tremtinių
+ir politinių kalinių, kurie negrįžo gyventi į Lietuvą (toliau - gyventojų),
 buvusios okupacinės sovietinės valdžios nusavintų indėlių, sukauptų Lietuvos
 valstybiniuose bankuose iki 1991 m. vasario 26 d., taip pat kitų lėšų (toliau -
 santaupų), padėtų į indėlių sąskaitas ir inventorizuotų šio įstatymo 3
 straipsnio 1, 2, 3 ir 4 dalyse nustatyta tvarka, atkūrimą.
+ 
+Straipsnio pakeitimai:
+Nr. VIII-872, 98.10.06,
+Žin., 1998, Nr.91-2510 (98.10.16)
  
 2 straipsnis. Atkuriamos santaupos ir kitos lėšos
  
@@ -61,21 +78,21 @@ vaikaičių, marčių, žentų, svainių) sąskaitas toje pačioje ar kitoje ban
 įstaigoje (neviršijant sumos, buvusios 1991 m. vasario 26 d.) ir nėra sumažėję
 iki 1992 m. gegužės 1 d. ir iki 1993 m. birželio 24 d.;
 3) draudimo sutarčių įmokos, sutaupytos Valstybinėje
-draudimo įstaigoje iki 1991 m. vasario 26 d. ir neišmokėtos gyventojams iki 1993
-m. birželio 24 d. Pagal nutrauktas papildomų pensijų draudimo sutartis draudėjų
-neatsiimtos draudimo įmokos neatkuriamos;
+draudimo įstaigoje iki 1991 m. vasario 26 d. ir neišmokėtos gyventojams iki
+1993 m. birželio 24 d. Pagal nutrauktas papildomų pensijų draudimo sutartis
+draudėjų neatsiimtos draudimo įmokos neatkuriamos;
 4) draudimo sutarčių įmokos, sutaupytos Valstybinėje
-draudimo įstaigoje iki 1991 m. vasario 26 d. ir, draudimo sutarčių terminui suėjus
-arba apdraustiesiems mirus, Valstybinės draudimo įstaigos po šios datos iki
-1993 m. birželio 24 d. pervestos į sąskaitas valstybiniuose bankuose ir
+draudimo įstaigoje iki 1991 m. vasario 26 d. ir, draudimo sutarčių terminui
+suėjus arba apdraustiesiems mirus, Valstybinės draudimo įstaigos po šios datos
+iki 1993 m. birželio 24 d. pervestos į sąskaitas valstybiniuose bankuose ir
 nesumažėjusios iki 1992 m. gegužės 1 d. ir iki 1993 m. birželio 24 d.;
 5) buvusios SSRS 1982 m. išleistos obligacijos, 1994
 m. įregistruotos akcinėje bendrovėje (toliau - AB) Lietuvos taupomasis bankas.
 2. Kitos atkuriamos gyventojų lėšos:
 1) grąžintino turto vertės atlyginimų sumos,
-priskaičiuotos buvusiems politiniams kaliniams, tremtiniams ir jiems prilygintiems
-asmenims, jeigu šios sumos buvo pervestos į nurodytų asmenų indėlių sąskaitas
-valstybiniuose bankuose;
+priskaičiuotos buvusiems politiniams kaliniams, tremtiniams ir jiems
+prilygintiems asmenims, jeigu šios sumos buvo pervestos į nurodytų asmenų
+indėlių sąskaitas valstybiniuose bankuose;
 2) kompensacijos už laiką, išbūtą laisvės atėmimo
 vietose, išmokėtos reabilituotiems asmenims, suimtiems arba nuteistiems nuo
 1940 m. birželio 15 d. iki 1981 m. birželio 1 d., jeigu šios sumos buvo
@@ -86,14 +103,14 @@ išbūtą laiką, ir asmenims, 1951-1952 m. neteisėtai iškeldintiems iš vien�
 Lietuvos vietovių į kitas, jeigu šios sumos buvo pervestos į nurodytų asmenų
 arba jų įpėdinių indėlių sąskaitas, taip pat pensijų likučių sumos,
 išmokėtos reabilituotiems politiniams kaliniams, tremtiniams ir rezistencijos
-dalyviams pagal 1991 m. lapkričio 23 d. Vyriausybės nutarimą Nr.482 “Dėl darbo
-užmokesčio, pensijų ir kitų socialinių išmokų didinimo padidėjus prekių
-kainoms” ir pervestos į nurodytų asmenų indėlių sąskaitas;
+dalyviams pagal 1991 m. lapkričio 23 d. Vyriausybės nutarimą Nr.482 “Dėl darbo užmokesčio,
+pensijų ir kitų socialinių išmokų didinimo padidėjus prekių kainoms” ir pervestos
+į nurodytų asmenų indėlių sąskaitas;
 3) vienkartinės kompensacijos, išmokėtos įstatymų
-nustatyta tvarka asmenims, nukentėjusiems kovojant už Lietuvos Respublikos
-laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių,
-jeigu šios sumos buvo pervestos į nurodytų asmenų indėlių sąskaitas
-valstybiniuose bankuose;
+nustatyta tvarka asmenims, nukentėjusiems kovojant už Lietuvos Respublikos laisvę
+nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių, jeigu
+šios sumos buvo pervestos į nurodytų asmenų indėlių sąskaitas valstybiniuose
+bankuose;
 4) lėšos, gautos už parduotus valstybei
 gyvulininkystės produktus ir pervestos į atskiras indėlių sąskaitas arba į
 atskiras atsiskaitomąsias sąskaitas Lietuvos taupomojo banko ar Lietuvos žemės
@@ -147,8 +164,9 @@ atkuriamosios sąskaitos) AB Lietuvos taupomasis bankas. Iki šios datos iš ši
 įstatymo 4 straipsnyje nurodytų šaltinių padengiamos AB Lietuvos taupomasis
 bankas išlaidos atkuriamosioms sąskaitoms atidaryti.
 8. Atkuriamosiose sąskaitose apskaitomomis
-atkurtomis santaupomis gyventojai pagal šio įstatymo 6 straipsnio 3 dalyje nurodytą
-eiliškumą pradeda laisvai disponuoti nuo Vyriausybės nustatytos datos.
+atkurtomis santaupomis gyventojai pagal šio įstatymo 6 straipsnio 3 dalyje
+nurodytą eiliškumą pradeda laisvai disponuoti nuo Vyriausybės nustatytos
+datos.
  
 Straipsnio pakeitimai:
 Nr. VIII-575, 97.12.09,
@@ -194,19 +212,19 @@ sunaudoti Lietuvos gyventojų indėliai.
 5 straipsnis. Santaupų atkuriamosios sąskaitos
  
 1. Atkuriamoji sąskaita atidaroma kiekvienam
-gyventojui (toliau - indėlininkas), kuriam pagal šį įstatymą atkuriamos santaupos
-AB Lietuvos taupomasis bankas. Atkuriamoji sąskaita atidaroma indėlininko
-(indėlininkui mirus, jo turto paveldėtojo) raštišku prašymu, kurį jis turi
-pateikti AB Lietuvos taupomasis bankas iki 1998 m. kovo 31 d. Atkuriamos
-santaupos iš kitų valstybinių bankų perkeliamos į AB Lietuvos taupomasis bankas
-Vyriausybės nustatyta tvarka. AB Lietuvos taupomasis bankas aptarnauja
-gyventojų santaupų atkuriamąsias sąskaitas pagal sutartį su Finansų
+gyventojui (toliau - indėlininkas), kuriam pagal šį įstatymą atkuriamos
+santaupos AB Lietuvos taupomasis bankas. Atkuriamoji sąskaita atidaroma
+indėlininko (indėlininkui mirus, jo turto paveldėtojo) raštišku prašymu, kurį
+jis turi pateikti AB Lietuvos taupomasis bankas iki 1998 m. kovo 31 d.
+Atkuriamos santaupos iš kitų valstybinių bankų perkeliamos į AB Lietuvos
+taupomasis bankas Vyriausybės nustatyta tvarka. AB Lietuvos taupomasis bankas
+aptarnauja gyventojų santaupų atkuriamąsias sąskaitas pagal sutartį su Finansų
 ministerija.
 2. Indėlininkas gali turėti tik vieną atkuriamąją
 sąskaitą ir tik vienoje paties pasirinktoje AB Lietuvos taupomasis bankas
-įstaigoje. Šioje sąskaitoje įrašomos visos jo vardu atkuriamos santaupos,
-kurios yra apskaitomos nebalansiniuose straipsniuose Vyriausybės ir Lietuvos
-banko nustatyta tvarka.
+įstaigoje. Šioje sąskaitoje įrašomos visos jo vardu atkuriamos santaupos, kurios
+yra apskaitomos nebalansiniuose straipsniuose Vyriausybės ir Lietuvos banko
+nustatyta tvarka.
 3. Atkuriamojoje sąskaitoje įrašoma indėlininko
 atkuriamų santaupų suma (perskaičiuota pagal šio įstatymo 3 straipsnio 1-3
 dalyse nustatytą santykį ir maksimalų atkuriamų santaupų dydį vienam
@@ -260,8 +278,8 @@ už Lietuvos laisvę;
 4. Šio straipsnio 3 dalyje nustatyta tvarka
 netaikoma ir atkurtų santaupų lėšomis leidžiama laisvai disponuoti šiais
 atvejais:
-1) indėlininko mirties (po 1998 m. sausio 1d.) atveju;
-
+1) indėlininko mirties (po 1998 m. sausio 1d.)
+atveju; 
 2) gaisro ar kitos stichinės nelaimės (po 1998 m.
 sausio 1d.) atveju. Jei turtas buvo apdraustas, tiek, kiek nepakanka draudimo
 išmokos nuostoliams padengti.
@@ -281,15 +299,20 @@ dalyje bei 5 straipsnio 1 dalyje nustatytą terminą - iki 1998 m. kovo 31 d. -
 dėl nuo jų nepriklausančių priežasčių, raštišką prašymą atidaryti atkuriamąją
 sąskaitą gali pateikti Vyriausybės sudarytai komisijai. Komisijos sudėtį ir jos
 nuostatus tvirtina Vyriausybė. Ši komisija nusprendžia, priimti ar nepriimti
-gyventojo prašymą atidaryti atkuriamąją sąskaitą. Komisijos sprendimai
-perduodami vykdyti AB Lietuvos taupomasis bankas.
+gyventojo prašymą atidaryti atkuriamąją sąskaitą. Taip pat šiai komisijai
+suteikiama teisė nagrinėti prašymus ir priimti sprendimus dėl santaupų,
+nurodytų šio įstatymo 2 straipsnio 1 dalyje, ir lėšų, nurodytų šio įstatymo 2
+straipsnio 2 dalyje, atkūrimo, jei šios lėšos buvo pervestos ir laikomos
+Lietuvos valstybiniuose bankuose buvusių tremtinių ir politinių kalinių, kurie
+negrįžo gyventi į Lietuvą, sąskaitose. Komisijos sprendimai perduodami vykdyti
+AB Lietuvos taupomasis bankas.
 2. Iki 1997 m. gruodžio 31 d. gyventojų santaupos
 kompensuojamos Seimo 1993 m. gruodžio 15 d. nutarimo “Dėl gyventojų santaupų
 indeksavimo” ir atitinkamų Vyriausybės nutarimų nustatyta tvarka.
 3. Nuo 1998 m. sausio 1 d. Seimo nutarimą “Dėl
-gyventojų santaupų indeksavimo” (Žin., 1993, Nr.71-1329), taip pat Seimo nutarimą
-“Dėl santaupų atkūrimo ir kompensavimo fondo nuostatų patvirtinimo” (Žin.,
-1994, Nr.33-589) pripažinti netekusiais galios.
+gyventojų santaupų indeksavimo” (Žin., 1993, Nr.71-1329), taip pat Seimo
+nutarimą “Dėl santaupų atkūrimo ir kompensavimo fondo nuostatų patvirtinimo”
+(Žin., 1994, Nr.33-589) pripažinti netekusiais galios.
 4. Nuo šio įstatymo įsigaliojimo dienos Gyventojų
 santaupų kompensavimo įstatymą (Žin., 1996, Nr.104-2369) pripažinti netekusiu
 galios.
@@ -297,12 +320,15 @@ galios.
 Straipsnio pakeitimai:
 Nr. VIII-575, 97.12.09,
 Žin., 1997, Nr.118-3038 (97.12.27)
+Nr. VIII-872, 98.10.06,
+Žin., 1998, Nr.91-2510 (98.10.16)
  
 8 straipsnis. Pasiūlymai Vyriausybei ir Lietuvos
 bankui
  
 1. Vyriausybė ir Lietuvos
-bankas iki 1997 m. liepos 1 d. parengia ir priima Atkurtųjų santaupų apskaitos tvarką.
+bankas iki 1997 m. liepos 1 d. parengia ir priima Atkurtųjų santaupų apskaitos
+tvarką.
 2. Vyriausybė iki 1997 m.
 rugsėjo 1 d. parengia ir priima teisės aktus, susijusius su Gyventojų santaupų
 atkūrimo įstatymo įgyvendinimu.
