@@ -15,11 +15,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455"
 
 Redagavo: Ramun? L??ait? (1997
 
-Redagavo: Ramunė
-Lūžaitė (1999.07.09)
+Redagavo: Ramunė Lūžaitė
+(1999.10.28)
  
-Neoficialus įstatymo
-tekstas
+ 
+Įstatymas paskelbtas: Žin.,
+1995, Nr. 21-490
+ 
+Neoficialus įstatymo tekstas
  
 Pakeitimai:
  
@@ -38,8 +41,8 @@ Respublikos Seimas, Įstatymas
 Nr.
 I-1409, 96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
 LIETUVOS
-RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS
-SRIČIŲ" PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ"
+PAKEITIMO ĮSTATYMAS
  
 3.
 Lietuvos
@@ -60,22 +63,30 @@ RESPUBLIKOS ĮSTATYMO "DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS
 SRIČIŲ" 2 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 5.
-Lietuvos Respublikos
-Seimas, Įstatymas 
-Nr. VIII-174,
-97.04.03, Žin., 1997, Nr.31-784 (97.04.16)
-LIETUVOS RESPUBLIKOS
-ĮSTATYMO “DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ” PAKEITIMO
-IR PAPILDYMO ĮSTATYMAS
+Lietuvos Respublikos Seimas,
+Įstatymas 
+Nr. VIII-174, 97.04.03, Žin.,
+1997, Nr.31-784 (97.04.16)
+LIETUVOS RESPUBLIKOS ĮSTATYMO
+“DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ” PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
  
 6.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr.
 VIII-1256, 99.06.22, Žin., 1999, Nr.60-1952 (99.07.09)
 LIETUVOS
 RESPUBLIKOS ĮSTATYMO „DĖL SPECIALIOS PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“
 4 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1365, 99.10.19, Žin., 1999, Nr.90-2641
+(99.10.27)
+LIETUVOS
+RESPUBLIKOS ĮSTATYMO „DĖL SPECIALIOS
+PASKIRTIES BENDROVIŲ IR JŲ VEIKLOS SRIČIŲ“ PAKEITIMO ĮSTATYMAS
  
 ***Pabaiga***
  
@@ -87,8 +98,6 @@ Vilnius
  
 DĖL SPECIALIOS PASKIRTIES BENDROVIŲ
 IR JŲ VEIKLOS SRIČIŲ 
- 
-(Žin., 1995, Nr.21-490)
  
  
      Lietuvos 
@@ -133,7 +142,7 @@ Nr.
 VIII-59, 96.12.23, Žin., 1996, Nr.126-2946 (96.12.31)
  
      3
-straipsnis. (Panaikintas)
+straipsnis. (Neteko galios)
  
 Straipsnio
 pakeitimai:
@@ -157,8 +166,7 @@ Nr.
 I-1409, 96.06.27, Žin., 1996, Nr.62-1468 (96.07.02)
  
     
-4 straipsnis.(Neteko
-galios)
+4 straipsnis.(Neteko galios)
  
 Įstatymas
 papildytas straipsniu:
@@ -176,8 +184,8 @@ RESPUBLIKOS
 PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
  
  
-                                
-       Lietuvos Respublikos
+                                       
+Lietuvos Respublikos
                                        
 1995 m. vasario 15 d.
                                        
@@ -188,8 +196,8 @@ PREZIDENTAS                       ALGIRDAS BRAZAUSKAS
  
                
 Veiklos sričių, kuriose gali būti
-   
-            specialios paskirties bendrovių,
+               
+specialios paskirties bendrovių,
                          
 s ą r a š a s
  
@@ -198,8 +206,8 @@ Veiklos
 kodas            Veiklos pavadinimas
 _________________________________________________________________
  
-                          
-Žemės ūkis
+            
+              Žemės ūkis
 011107   
 Uždaro grunto daržininkystė
 012100   
@@ -223,8 +231,8 @@ Maisto produktų ir gėrimų gamyba
 Žuvies ir žuvies produktų perdirbimas ir konservavimas
 151401   
 Augalinių ir gyvulinių aliejų bei taukų gamyba
-155101 
-  Degtinės, likerio gamyba
+155101   
+Degtinės, likerio gamyba
 155102   
 Žaliavų su alkoholiu, skirtų gaminti gėrimus, gamyba
 155103   
@@ -239,8 +247,8 @@ Leidinių leidimas
 222101   
 Leidinių spausdinimas
  
-         
-Kokso, naftos produktų ir branduolinio kuro gamyba
+    
+     Kokso, naftos produktų ir branduolinio kuro gamyba
 232000   
 Naftos produktų gamyba
  
@@ -302,8 +310,8 @@ Vaizdinių mokymo priemonių gamyba
 Elektros energijos, dujų, garo
                   
 ir karšto vandens tiekimas
-401001   
-Elektros energijos gamyba
+401001
+   Elektros energijos gamyba
 401002   
 Elektros energijos paskirstymas
 402000   
@@ -326,8 +334,8 @@ Vandens paskirstymas gyventojams
 Statyba
 451003   
 Sprogdinimo, išlyginimo, žemių stumdymo ir užpylimo
-     
-    darbai
+         
+darbai
 451004   
 Melioravimo darbai
 452002   
@@ -353,8 +361,8 @@ Didmeninė prekyba chirurginiais ir ortopediniais
 instrumentais bei protezais
 514100   
 Didmeninė prekyba benzinu, dujų kuru, tepalais,
-   
-      dizeliniu kuru, žibalu, kitais naftos produktais
+         
+dizeliniu kuru, žibalu, kitais naftos produktais
 514901   
 Prekyba cheminėmis augalų apsaugos priemonėmis ir
          
@@ -448,8 +456,8 @@ Jūrų uostų aptarnavimas
  
                        
 Paštas ir ryšiai
-641100
-   Nacionalinio pašto veikla
+641100   
+Nacionalinio pašto veikla
 642000   
 Ryšiai
  
@@ -476,8 +484,8 @@ Kvalifikacijos kėlimas
  
            
 Sveikatos apsauga ir socialinės paslaugos
-851100  
- Gydymas ligonių, sergančių pavojingomis ir ypač
+851100   
+Gydymas ligonių, sergančių pavojingomis ir ypač
          
 pavojingomis infekcinėmis, tarp jų ir venerinėmis bei
          
@@ -512,8 +520,8 @@ Gatvių valymas ir laistymas
 900010   
 Želdynų įrengimas ir priežiūra
  
-               
-Poilsio ir pramogų organizavimas,
+       
+        Poilsio ir pramogų organizavimas,
              
 kultūros ir sporto veiklos plėtojimas
 921100   
@@ -523,8 +531,8 @@ Kino ir videofilmų gamyba
 Kitų paslaugų rūšių teikimas
 930106   
 Įmonių ir įstaigų skalbinių skalbimas
-930301  
- Mirusiųjų kremavimas ir laidojimas
+930301   
+Mirusiųjų kremavimas ir laidojimas
 930302   
 Karstų gamyba
 930303   
@@ -549,24 +557,20 @@ Lietuvos Respublikos
 1995 m. vasario 15 d.
                                        
 įstatymo Nr.I-794
-                                     
-  2 priedėlis
+                                       
+2 priedėlis
  
  
-           
-Valstybinių įmonių, kurios iki 2000 metų
+    
+       Valstybinių įmonių, kurios iki 2000 metų
           
 turi būti specialios paskirties bendrovės,
                          
 s ą r a š a s
 _________________________________________________________________
 Įmonės
-kodas                             Pavadinimas
+kodas                             Pavadinimas
 _________________________________________________________________
-2055155       
-Lietuvos valstybinė energetikos sistema
-2005952       
-Valstybinė įmonė "Lietuvos dujos"
 1005384       
 Valstybinė įmonė "Lietuvos geležinkeliai"
 2005728       
@@ -579,8 +583,8 @@ Valstybinė įmonė "Anykščių vynas"
 Valstybinė firma "Alita"
 6855597       
 Panevėžio valstybinė veislinių gyvulių supirkimo
-        
-      firma
+              
+firma
 7224603       
 Raseinių valstybinė gyvulių sėklinimo įmonė
 2054584       
@@ -621,8 +625,8 @@ Joniškio valstybinė vandens tiekimo įmonė
 Kaišiadorių valstybinė vandens tiekimo įmonė
 5884794       
 Žiežmarių valstybinė vandens ir šilumos tiekimo
-              
-įmonė
+ 
+             įmonė
 6118642       
 Kėdainių valstybinė vandens tiekimo įmonė
 6243382       
@@ -631,8 +635,8 @@ Kelmės valstybinė vandens tiekimo įmonė
 Kretingos valstybinė vandens tiekimo įmonė
 6517137       
 Lazdijų valstybinė vandens tiekimo įmonė
-6648611       
-Mažeikių valstybinė vandens tiekimo įmonė
+6648611   
+    Mažeikių valstybinė vandens tiekimo įmonė
 6752475       
 Molėtų valstybinė vandens tiekimo įmonė
 6792269       
@@ -674,4 +678,6 @@ Nr.
 I-1091, 95.11.09, Žin., 1995, Nr.94-2088 (95.11.17)
 Nr.
 I-1537, 96.09.24, Žin., 1996, Nr.100-2259 (96.10.16)
+Nr. VIII-1365, 99.10.19, Žin., 1999, Nr.90-2641
+(99.10.27)
 
