@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2027-01-01 iki 2029-12-31
+Suvestinė redakcija nuo 2030-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -5617,9 +5617,29 @@ Nr. XIV-483, 2021-06-30, paskelbta TAR 2021-07-13, i. k. 2021-15833
 
 
 2. Garantinis elektros energijos tiekėjas garantinį tiekimą atlieka laikydamasis šių sąlygų:
+
+
+1) garantinis tiekimas vartotojui užtikrinamas, kai vartotojas, ne vėliau kaip prieš 3 savaites iki nepriklausomo tiekėjo nutraukiamos veiklos arba su vartotoju sudarytos elektros energijos pirkimo–pardavimo sutarties, arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties nutraukimo gavęs nepriklausomo tiekėjo rašytinį ar elektroninių ryšių priemonėmis pateiktą įspėjimą, per 2 savaites nuo šio pranešimo gavimo dienos nepasirenka kito nepriklausomo tiekėjo ar paaiškėja šio straipsnio 3 dalyje nurodytos aplinkybės, – tokiais atvejais vartotojų su nepriklausomu tiekėju sudaryta elektros energijos pirkimo–pardavimo arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartis laikoma nutraukta. Garantinis tiekimas vartotojams, išskyrus buitinius vartotojus, užtikrinamas persiuntimo paslaugos teikimo sutarties su skirstomųjų tinklų operatoriumi pagrindu. Buitiniams vartotojams garantinis elektros energijos tiekimas užtikrinamas pagal garantinio elektros energijos tiekėjo viešai skelbiamas garantinio elektros energijos tiekimo užtikrinimo ir persiuntimo paslaugos teikimo sąlygas, kurios rengiamos Elektros energijos tiekimo ir naudojimo taisyklėse nustatyta tvarka. Vartotojui, kuriam užtikrinamas garantinis tiekimas, nusprendusiam sudaryti elektros energijos pirkimo–pardavimo arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su nepriklausomu tiekėju, garantinis tiekimas nutraukiamas ne vėliau kaip per 3 savaites nuo nepriklausomo tiekėjo pranešimo garantiniam elektros energijos tiekėjui pateikimo dienos. Garantinio tiekimo trukmė – ne ilgiau kaip 6 mėnesiai, išskyrus pažeidžiamus vartotojus. Jeigu per 6 mėnesius vartotojas, išskyrus pažeidžiamus vartotojus, nepasirenka naujo nepriklausomo tiekėjo, garantinis elektros energijos tiekėjas įgyja teisę nutraukti elektros energijos tiekimą vartotojui. Apie garantinio tiekimo nutraukimą garantinis elektros energijos tiekėjas įspėja vartotoją ne vėliau kaip prieš 3 savaites iki elektros energijos tiekimo nutraukimo dienos;
+
+
+
+
+2) jeigu vartotojas, kuriam buvo suteiktas garantinis tiekimas, garantinio tiekimo laikotarpiu pasirenka nepriklausomą tiekėją, vartotojas privalo sumokėti garantiniam elektros energijos tiekėjui už suvartotą elektros energiją pagal garantinio elektros energijos tiekėjo pateiktą mokėjimo dokumentą;
+
+
+
+
+3) buitiniams vartotojams, kuriems užtikrinamas garantinis tiekimas, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinę einamojo ataskaitinio mėnesio elektros energijos biržos kainą, susiformavusią Lietuvos kainų zonoje kitos paros rinkoje, padauginus iš koeficiento 1,15. Vartotojams, išskyrus buitinius vartotojus, kuriems užtikrinamas garantinis tiekimas, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinę einamojo ataskaitinio mėnesio elektros energijos biržos kainą, susiformavusią Lietuvos kainų zonoje kitos paros rinkoje, padauginus iš koeficiento 1,25. Šią kainą apskaičiuoja garantinis elektros energijos tiekėjas ir paskelbia savo interneto svetainėje. Skirtumas tarp faktinių ataskaitinio laikotarpio pajamų ir garantinio elektros energijos tiekėjo patirtų garantinio elektros energijos tiekimo veiklos sąnaudų, įskaitant elektros energijos įsigijimo sąnaudas, priskiriamas garantinio elektros energijos tiekėjo sąnaudoms ar pajamoms pagal šio įstatymo 9 straipsnio 3 dalies 4 punkte nurodytą metodiką. 
+Straipsnio punkto pakeitimai:
+Nr. XV-167, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07427
+ 
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 Nr. XIV-1668, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26106
+Nr. XV-169, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07431
  
 
 
@@ -5649,6 +5669,22 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 4) kitais tiesiogiai nuo nepriklausomo tiekėjo veiksmų nepriklausančiais atvejais, dėl kurių nepriklausomas tiekėjas nebegali vykdyti prisiimtų įsipareigojimų tiekti elektros energiją vartotojams (force majeure).
 
 
+
+
+
+
+31. Šio straipsnio 3 dalyje nurodytais atvejais vartotojams, išskyrus pažeidžiamus vartotojus, užtikrinant garantinį tiekimą 3 savaites taikoma kaina, apskaičiuojama kaip vidutinės einamojo ataskaitinio mėnesio elektros energijos biržos kainos, susiformavusios Lietuvos kainų zonoje kitos paros rinkoje, ir garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainos, kurią nustato Taryba, suma.
+Papildyta straipsnio dalimi:
+Nr. XV-169, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07431
+ 
+
+
+
+
+31. Šio straipsnio 3 dalyje nurodytais atvejais vartotojams, išskyrus pažeidžiamus vartotojus, užtikrinant garantinį tiekimą 3 savaites taikoma kaina, apskaičiuojama kaip vidutinės praėjusio ataskaitinio mėnesio elektros energijos biržos kainos, susiformavusios Lietuvos kainų zonoje kitos paros rinkoje, ir garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainos, kurią nustato Taryba, suma. 
+Papildyta straipsnio dalimi:
+Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
+ 
 
 
 
@@ -6718,7 +6754,7 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 7) vartotojai turi teisę būti atsinaujinančių išteklių energijos bendrijos dalininkais ir elektros energiją gaminančiais vartotojais;
-7 punkto redakcija, įsigaliojanti praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, jeigu šis pritarimas gaunamas po 2022 m. liepos 8 d. 7 punkto redakcija įsigalioja kitą darbo dieną po Lietuvos Respublikos energetikos ministerijos pranešimo Teisės aktų registro tvarkytojui apie gautą Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas:  
+7 punkto redakcija, įsigaliojanti praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, jeigu šis pritarimas gaunamas po 2022 m. liepos 8 d. 7 punkto redakcija įsigalioja kitą darbo dieną po Lietuvos Respublikos energetikos ministerijos pranešimo Teisės aktų registro tvarkytojui apie gautą Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas:  
 7) vartotojai turi teisę būti atsinaujinančių išteklių energijos bendrijos dalyviais ir elektros energiją gaminančiais vartotojais; 
 Papildyta straipsnio punktu:
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
