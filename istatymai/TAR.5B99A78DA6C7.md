@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5B99A78DA6C7"
 
 # Lietuvos Respublikos maisto įstatymas
 
-Suvestinė redakcija nuo 2002-06-26 iki 2003-09-30
+Suvestinė redakcija nuo 2003-10-01 iki 2004-06-11
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-893, i. k. 1001010ISTAIII-1608
  
@@ -66,7 +66,10 @@ BENDRosios NUOSTatos
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Maistas – kiekviena medžiaga ar produktas, apdorotas, pusiau apdorotas, ar žaliava (neapdorotas produktas), skirti žmogaus mitybai. Maistui taip pat priskiriamas geriamasis vanduo, alkoholiniai gėrimai, kramtomoji guma ir kitos medžiagos bei produktai, skirti žmogui praryti, kramtyti ar vartoti, išskyrus vaistus ir kitus medicinos gaminius, narkotines bei psichotropines medžiagas, tabako gaminius.
+1. Maistas – tai perdirbtas, perdirbtas iš dalies arba neperdirbtas produktas ar medžiaga, skirta žmogui nuryti arba pagrįstai tikintis, kad ji bus nuryta. Maistui taip pat priskiriami gėrimai, kramtomoji guma ar bet kuri kita medžiaga, įskaitant vandenį, apgalvotai įdėta į maistą jį gaminant, ruošiant ar apdorojant. Į maisto sąvoką neįeina: pašarai, gyvi gyvūnai (nebent jie būtų paruošti teikti į rinką žmonėms vartoti), augalai iki jų derliaus nuėmimo, medicinos gaminiai, kosmetikos gaminiai, tabakas ir jo gaminiai, narkotinės ir psichotropinės medžiagos, augalų apsaugos priemonių likučiai ir kiti teršalai. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
 
 
 
@@ -86,12 +89,18 @@ BENDRosios NUOSTatos
 
 
 
-5. Maisto tvarkymas – bet koks poveikis maistui arba veiksmai su juo ar atskiromis jo sudėtinėmis dalimis (įskaitant maistui skirtų augalų ir gyvūnų auginimą, maisto gaminimą, ruošimą, perdirbimą, pakavimą, laikymą, saugojimą, gabenimą, paskirstymą, tiekimą, pateikimą parduoti, pardavimą), galintys turėti įtakos maisto saugai, kokybei ir mitybos vertei.
+5. Maisto tvarkymas – bet koks poveikis maistui arba veiksmai su juo ar atskiromis jo sudėtinėmis dalimis (įskaitant maisto gaminimą, ruošimą, perdirbimą, pakavimą, laikymą, saugojimą, gabenimą, paskirstymą, tiekimą, pateikimą parduoti, pardavimą), galintys turėti įtakos maisto saugai, kokybei ir mitybos vertei. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
 
 
 
 
-6. Maisto tvarkymo vieta – vieta (įskaitant teritoriją, statinius ir transporto priemones), kurioje tvarkomas maistas.
+6. Maisto tvarkymo vieta – viešųjų ar privačių juridinių asmenų vieta (įskaitant teritoriją, statinius ir transporto priemones), kurioje tvarkomas maistas. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
 
 
 
@@ -150,9 +159,11 @@ Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA
 
 
 
-12. Vartotojas – fizinis asmuo, kuris įsigyja maistą ar naudojasi paslaugomis savo asmeniniams, šeimos ar namų ūkio poreikiams, nesusijusiems su verslu ar profesija, tenkinti. 
+12. Vartotojas – maisto vartotojas, kuris maisto nevartoja kokiai nors su maisto verslu susijusiai operacijai atlikti ar veiklai vykdyti. 
 Papildyta straipsnio dalimi:
 Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+Straipsnio dalies pakeitimai:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
  
 
 
@@ -192,9 +203,10 @@ Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA
 
 
 
-17. Maisto pateikimas į rinką – vartotojams skirto maisto laikymas (saugojimas), pardavimas ar kitoks perdavimo vartotojams būdas.
+17. Pateikimas į rinką – maisto laikymas iki jį parduodant, įskaitant siūlymą parduoti arba kurį nors kitą jo perdavimo būdą nemokamai ar už pinigus, maisto pardavimas, paskirstymas bei kitos jo perdavimo formos. 
 Straipsnio dalies pakeitimai:
 Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
  
@@ -204,13 +216,26 @@ Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA
 
 
 
+18. Pirminės produkcijos gamyba – naminių ir laukinių gyvūnų bei augalų auginimas, veisimas, dauginimas, derliaus nuėmimas, melžimas, medžiojimas, žvejojimas. 
+Papildyta straipsnio dalimi:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
+
+
+
+
+19. Valstybinė maisto kontrolė – tikrinimas, kurį atlieka kompetentinga institucija, siekdama nustatyti, ar maistas, maisto priedai, vitaminai, mineralinės medžiagos, mikroelementai bei kitokie priedai, skirti parduoti, taip pat medžiagos ir prekės, kurios liečiasi su maisto produktais, atitinka nuostatas, skirtas užkirsti kelią pavojui visuomenės sveikatai, užtikrinant sąžiningus verslo sandorius ar saugant vartotojų interesus, įskaitant ir vartotojų informavimo nuostatas.
+Papildyta straipsnio dalimi:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
+
+
+
+
 3 straipsnis. Įstatymo taikymas
 
 
-1. Šis įstatymas taikomas juridiniams ir fiziniams asmenims, tvarkantiems ir (ar) teikiantiems į rinką maistą, taip pat valstybės institucijoms, prižiūrinčioms bei kontroliuojančioms maisto saugą, kokybę ir tvarkymą. 
-Straipsnio dalies pakeitimai:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
- 
+1. Šis įstatymas taikomas juridiniams ir fiziniams asmenims, tvarkantiems ir (ar) teikiantiems į rinką maistą, taip pat valstybės institucijoms, prižiūrinčioms bei kontroliuojančioms maisto saugą, kokybę ir tvarkymą. Šio įstatymo nuostatos negali riboti maisto pateikimo į rinką, jeigu tas maistas yra legaliai pagamintas ir teikiamas į rinką vienoje iš Europos Sąjungos arba Europos ekonominės erdvės valstybių ir atitinka jų lygiaverčius saugos, kokybės ir tvarkymo reikalavimus.
 
 
 
@@ -223,17 +248,19 @@ Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA
 
 
 
-2) asmeniniams ir savo namų ūkio poreikiams skirtam maistui;
+2) asmeniniam naudojimui ar paruošimui skirtos  pirminės produkcijos gamybai, asmeniniame namų ūkyje vartojamam maistui arba su asmeniniu namų ūkio vartojimu susijusiam maisto tvarkymui;
 
 
 
 
 3) maistui, pateiktam į rinką iki šio įstatymo įsigaliojimo.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
  
-
-
-
-
 
 
 
@@ -327,7 +354,10 @@ Vartotojams turi būti teikiama teisinga informacija apie maistą. Draudžiama:
 
 
 
-2) nurodyti ar užsiminti apie tas maisto savybes, kurių jis neturi, taip pat apie gydomąsias ar nuo ligų saugančias savybes, nesant Sveikatos apsaugos ministerijos nustatyta tvarka išduoto šią informaciją patvirtinančio specialios paskirties maisto produkto registravimo pažymėjimo;
+2) nurodyti ar užsiminti apie tas maisto savybes, kurių jis neturi, taip pat apie gydomąsias ar nuo ligų saugančias savybes, nesant Sveikatos apsaugos ministerijos nustatyta tvarka išduoto šią informaciją patvirtinančio specialios paskirties maisto produkto pažymėjimo;
+Straipsnio punkto pakeitimai:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
 
 
 
@@ -465,7 +495,18 @@ Vyriausybė, įgyvendindama maisto saugos srityje visuomenės sveikatai palanki�
 
 
 
-4) atlieka kitas funkcijas, kurias reglamentuoja įstatymai bei kiti teisės aktai.
+4) pati ar per įgaliotas institucijas atlieka šviežių vaisių ir daržovių nustatytų kokybės reikalavimų įgyvendinimo kontrolę; 
+Papildyta straipsnio punktu:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
+
+
+
+
+5) atlieka kitas funkcijas, kurias reglamentuoja įstatymai bei kiti teisės aktai.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
 
 
 
@@ -495,12 +536,18 @@ Vyriausybė, įgyvendindama maisto saugos srityje visuomenės sveikatai palanki�
 5. Valstybinė maisto ir veterinarijos tarnyba pagal savo kompetenciją:
 
 
-1) įgyvendina maisto saugos, kokybės ir tvarkymo priežiūros bei maistui skirtų gyvūnų sergamumo mažinimo politiką;
+1) įgyvendina maisto saugos, kokybės ir tvarkymo priežiūros bei maistui skirtų gyvūnų sergamumo mažinimo politiką, atsako už skubaus įspėjimo apie pavojų dėl maisto teikimą; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
 
 
 
 
-2) nustato maisto saugos, kokybės ir tvarkymo, maisto tvarkymo ir pateikimo į rinką higienos bei kontrolės, specialius rizikos veiksnių analizės ir valdymo sistemos diegimo maisto tvarkymo vietose privalomuosius reikalavimus;
+2) nustato specialius maisto saugos, kokybės, maisto tvarkymo ir pateikimo į rinką higienos bei kontrolės, rizikos veiksnių analizės ir valdymo sistemos diegimo maisto tvarkymo vietose privalomuosius reikalavimus;
+Straipsnio punkto pakeitimai:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
 
 
 
@@ -533,43 +580,20 @@ Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA
 
 
 
-10 straipsnis. Visuomeninių vartotojų teisių gynimo organizacijų teisės
+10 straipsnis. Mokslo komitetai
 
 
-Visuomeninės vartotojų teisių gynimo organizacijos, užtikrindamos vartotojų interesus maisto saugos, kokybės bei informavimo apie tai srityse, turi teisę:
-
-
-1) tirti vartotojų nuomonę apie maisto saugą ir kokybę bei skelbti apibendrintą informaciją visuomenės informavimo priemonėse;
+1. Siekiant bendradarbiauti su Europos Komisija ir teikti jai reikalingą paramą, konsultuoti suinteresuotas Lietuvos Respublikos institucijas teikiant moksliškai pagrįstas išvadas su mityba, maisto sauga, kokybe ir vartotojų apsauga susijusiais klausimais, gali būti steigiami tarpžinybiniai mokslo komitetai.
 
 
 
 
-2) vartotojo prašymu ar savo iniciatyva kreiptis į teismą dėl vartotojo teisių ir teisėtų interesų pažeidimo;
+2. Mokslo komitetai, vykdydami Europos Komisijos pavedimus ir įgyvendindami jiems nustatytus uždavinius, turi teisę gauti būtiną informaciją bei pasitelkti reikiamus specialistus ir laboratorijas, taip pat atlikti kitas funkcijas, kurias reglamentuoja įstatymai bei kiti teisės aktai.
 
 
-
-
-3) gauti informaciją iš gamintojų ir pardavėjų apie maisto saugą ir kokybę;
-
-
-
-
-4) steigti informavimo ir konsultavimo centrus bei bandymų laboratorijas maisto saugai ir kokybei tirti;
-
-
-
-
-5) teikti Nacionalinei vartotojų teisių apsaugos tarybai bei maisto kontrolės institucijai informaciją apie maisto saugą ir kokybę reglamentuojančių teisės aktų pažeidimus ir pasiūlymus dėl priemonių vartotojų teisių gynimui gerinti;
-
-
-
-
-6) stebėtojo teisėmis dalyvauti Nacionalinės vartotojų teisių apsaugos tarybos posėdžiuose.
+Straipsnio pakeitimai:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
  
-
-
-
-
 
 
 
@@ -627,7 +651,10 @@ valstybinĖ maisto kontrolė
 
 
 
-5) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paimti ir tirti šio straipsnio 5 dalies 3 punkte išvardytų objektų bandinius bei šio straipsnio 5 dalies 4 punkte išvardytų dokumentų kopijas ar nuorašus, gauti kitą su šio įstatymo bei kitų teisės aktų laikymusi susijusią informaciją bei lyginti tikrinimo rezultatus su maisto tvarkymo vietoje įrengtų matavimo ir kitų prietaisų duomenimis.
+5) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paimti ir tirti šio straipsnio 5 dalies 3 punkte išvardytų objektų mėginius bei šio straipsnio 5 dalies 4 punkte išvardytų dokumentų kopijas ar nuorašus, gauti kitą su šio įstatymo bei kitų teisės aktų laikymusi susijusią informaciją bei lyginti tikrinimo rezultatus su maisto tvarkymo vietoje įrengtų matavimo ir kitų prietaisų duomenimis.
+Straipsnio punkto pakeitimai:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
 
 
 
@@ -667,20 +694,22 @@ Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA
 12 straipsnis. Valstybinės maisto kontrolės laboratorijos
 
 
-1. Valstybinei maisto kontrolei atrinktų bandinių laboratorinius tyrimus atlieka akredituotos bandymų laboratorijos.
+1. Valstybinei maisto kontrolei atrinktų mėginių laboratorinius tyrimus atlieka Vyriausybės nustatyta tvarka akredituotos laboratorijos.
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodytos bandymų laboratorijos privalo taikyti Lietuvos Respublikoje įteisintus bandinių atrinkimo ir analizės metodus.
+2. Valstybinei maisto kontrolei mėginiai paimami nustatyta tvarka ir tiriami galiojančiais tyrimo metodais.
 
 
 
 
-3. Bandinių paėmimo ir apmokėjimo tvarką nustato Vyriausybė.
+3. Mėginių paėmimo ir apmokėjimo tvarką nustato Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
  
-
-
 
 
 
@@ -720,7 +749,37 @@ Vyriausybė iki 2000 m. birželio 1 d. priima šį įstatymą įgyvendinančius 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-______________
+ 
+
+
+
+
+Lietuvos Respublikos
+2000 m. balandžio 4 d.
+įstatymo Nr. VIII-1608
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 1989 m. birželio 14 d. Tarybos  direktyva 89/397/EEB dėl oficialios maisto produktų kontrolės.
+
+
+
+
+2. 1993 m. spalio 23 d. Tarybos direktyva 93/99/EEB dėl oficialios maisto produktų kontrolės papildomų priemonių turinio.
+
+
+
+
+3. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas 178/2002/EB dėl maisto įstatymo pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo.
+ 
+
+
+Papildyta priedu:
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+ 
 
 
  
@@ -731,3 +790,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
 Lietuvos Respublikos maisto įstatymo 2, 3, 4, 7, 9, 11 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+Lietuvos Respublikos maisto įstatymo 2, 3, 5, 9, 10, 11 ir 12 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas
