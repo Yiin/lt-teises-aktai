@@ -177,10 +177,20 @@ vykdymą;
 valdymo institucijas ir paramos gavėjus, kaip naudojamos Lietuvos Respublikoje
 gautos Europos Sąjungos lėšos ir kaip vykdomos programos, kuriose dalyvauja
 Lietuva.
+ 
+[Iki 2004-01-01]
 2. Valstybės kontrolė turi teisę audituoti
 savivaldybių biudžetų vykdymą. Savivaldybių turto valdymą, naudojimą bei
 disponavimą juo Valstybės kontrolė audituoja pagal valstybinio audito mastą,
 nustatytą Įstatymo 14 straipsnio 2 dalyje.
+ 
+[Nuo 2004-01-01]
+2. Valstybės
+kontrolė audituoja valstybės biudžeto lėšų, skiriamų  savivaldybių
+biudžetams, naudojimą. Savivaldybių turto valdymą, naudojimą bei
+disponavimą juo Valstybės kontrolė audituoja pagal valstybinio audito mastą,
+nustatytą šio Įstatymo 14 straipsnyje.
+ 
 3. Valstybės
 kontrolė kasmet teikia Seimui: 
 1) išvadą dėl valstybės biudžeto įvykdymo apyskaitos; 
@@ -192,10 +202,20 @@ kontrolės veiklos ataskaitą.
 tarptautinių sutarčių, kitų teisės aktų nustatyta tvarka atlieka Lietuvos
 Respublikoje gaunamos Europos Sąjungos finansinės paramos auditus ir teikia
 atitinkamoms institucijoms šių auditų dokumentus.
+ 
+[Nuo
+2004-01-01]
+5. Valstybės kontrolė rengia savivaldybių kontrolierių
+tarnyboms audito metodikas bei valstybės kontrolieriaus nustatyta tvarka
+atlieka savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos)
+atliekamo audito išorinę peržiūrą.
 Straipsnio pakeitimai:
 Nr.
 IX-1666,
 2003-07-01, Žin., 2003, Nr. 73-3346 (2003-07-23)
+Nr.
+IX-1851,
+2003-11-25, Žin., 2003, Nr. 116-5257 (2003-12-12)
  
 10 straipsnis. Valstybės kontrolieriaus kompetencija
 Valstybės kontrolierius:
@@ -265,6 +285,8 @@ valstybinio audito reikalavimus.
 3. Valstybinio audito reikalavimai skelbiami
 leidinyje „Valstybės žinios“.
  
+[Iki
+2004-01-01]
 14 straipsnis. Valstybinio audito mastas 
 1. Finansinio audito
 subjektai yra šie:
@@ -285,6 +307,30 @@ fondo biudžeto ir Privalomojo sveikatos draudimo fondo biudžeto vykdymo veiklo
 auditas.
 3. Seimas nutarimu gali pavesti Valstybės kontrolei
 atlikti valstybinį auditą pagal jos kompetenciją. 
+ 
+[Nuo
+2004-01-01]
+14 straipsnis. Valstybinio audito mastas 
+1. Valstybės kontrolė valstybinio audito mastą
+kasmet nustato valstybinio audito programose. Šias programas tvirtina valstybės
+kontrolierius.
+2. Valstybinio audito subjektai yra:
+1) valstybės institucijos ir įstaigos;
+2) savivaldybės;
+3) visų rūšių įmonės, kuriose valstybei ar
+savivaldybei priklausančios akcijos suteikia ne mažiau kaip 1/2 balsų;
+4) įmonės ir kiti juridiniai asmenys, kuriems
+valstybės ar savivaldybės institucija suteikė lėšų arba perdavė turto.
+3. Valstybės kontrolė taip pat atlieka valstybės
+biudžeto, Valstybinio socialinio draudimo fondo biudžeto ir Privalomojo
+sveikatos draudimo fondo biudžeto vykdymo valstybinį auditą.
+4. Seimas nutarimu gali pavesti Valstybės kontrolei atlikti
+valstybinį auditą pagal jos kompetenciją.
+Straipsnio
+pakeitimai
+Nr.
+IX-1851,
+2003-11-25, Žin., 2003, Nr. 116-5257 (2003-12-12)
  
 15 straipsnis. Audituojamo subjekto teisės ir pareigos
 
@@ -332,10 +378,10 @@ sprendimus pagal audito ataskaitas, turi teisę:
 audituotiems subjektams jų veiklos trūkumus ir nustatyti terminą teisės aktų
 pažeidimams pašalinti; 
 2) siūlyti
-audituotų subjektų vadovams ar aukštesniųjų institucijų vadovams įstatymų nustatyta
-tvarka patraukti materialinėn (civilinėn) atsakomybėn asmenis už padarytą žalą
-valstybei ar savivaldybei, institucijai, įstaigai, įmonei, organizacijai ar
-kitam juridiniam asmeniui; 
+audituotų subjektų vadovams ar aukštesniųjų institucijų vadovams įstatymų
+nustatyta tvarka patraukti materialinėn (civilinėn) atsakomybėn asmenis už
+padarytą žalą valstybei ar savivaldybei, institucijai, įstaigai, įmonei,
+organizacijai ar kitam juridiniam asmeniui; 
 3) siūlyti
 audituotų subjektų ar aukštesniųjų institucijų vadovams skirti pažeidimus
 padariusiems asmenims tarnybinę (drausminę) nuobaudą; 
@@ -506,8 +552,8 @@ kontrolieriaus, jo pavaduotojų ir Valstybės kontrolės
 pareigūnų priesaikos tekstas
 1. Valstybės kontrolierius, jo pavaduotojai ir
 Valstybės kontrolės pareigūnai prisiekia Lietuvos Respublikai šiais žodžiais:
-„Aš, (vardas, pavardė),
-prisiekiu būti ištikimas Lietuvos Respublikai; gerbti ir vykdyti jos
+„Aš, (vardas,
+pavardė), prisiekiu būti ištikimas Lietuvos Respublikai; gerbti ir vykdyti jos
 Konstituciją bei įstatymus; visomis išgalėmis stiprinti Lietuvos
 nepriklausomybę, saugoti valstybės turtą, sąžiningai tarnauti Tėvynei,
 demokratijai, Lietuvos žmonių gerovei.
@@ -633,10 +679,10 @@ kontrolės pareigūnai turi tas pačias pareigas kaip ir valstybės tarnautojai.
 2. Valstybės
 kontrolės pareigūnai privalo: gerbti audituojamo subjekto teises ir teisėtus
 interesus; neskelbti atlikto audito duomenų ir viešai jų nevertinti, kol
-nepasirašyta audito ataskaita; saugoti valstybės ir tarnybos paslaptis;
-nesinaudoti ir neleisti naudotis tarnybine ar su tarnyba susijusia riboto
-naudojimo informacija kitokia tvarka ir mastu, nei nustato įstatymai ar kiti
-teisės aktai. 
+nepasirašyta audito ataskaita; saugoti valstybės ir tarnybos paslaptis; nesinaudoti
+ir neleisti naudotis tarnybine ar su tarnyba susijusia riboto naudojimo
+informacija kitokia tvarka ir mastu, nei nustato įstatymai ar kiti teisės
+aktai. 
  
 X SKYRIUS
 VALSTYBĖS KONTROLĖS PAREIGŪNŲ MOKYMAS IR
@@ -686,7 +732,8 @@ alga;
 stažą valstybės tarnyboje; 
 3) priemokos,
 susijusios su tarnyba Valstybės kontrolėje atliekant sudėtingus, didelius
-valstybinius auditus, ir kitos Valstybės tarnybos įstatymo nustatytos priemokos.
+valstybinius auditus, ir kitos Valstybės tarnybos įstatymo nustatytos
+priemokos.
  
 42 straipsnis. Pareigūnų darbo apmokėjimo tvarka ir
 sąlygos
@@ -750,7 +797,8 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS
 KONTROLĖS ĮSTATYMO 55 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 3.
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. VIII-692, 98.04.07,
 Žin., 1998, Nr.38-999 (98.04.22)
 LIETUVOS RESPUBLIKOS VALSTYBĖS
@@ -776,10 +824,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 64-2328 (2001-07-25)
 VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO, KONSTITUCINIO TEISMO
-ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, PROKURATŪROS
-ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ
-LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTATYMO
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO,
+PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE STATUTO,
+MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 7.
 Lietuvos
@@ -810,11 +858,20 @@ Nr. IX-1666,
 VALSTYBĖS
 KONTROLĖS ĮSTATYMO 9 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1851,
+2003-11-25, Žin., 2003, Nr. 116-5257 (2003-12-12)
+VALSTYBĖS
+KONTROLĖS ĮSTATYMO 9 IR 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Įstatymas
+įsigalioja nuo 2004-01-01.
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-08-04)
+Aušra Bodin (2003-12-12)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
