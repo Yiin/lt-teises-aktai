@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2004-12-31
+Suvestinė redakcija nuo 2005-01-01 iki 2010-01-04
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
  
@@ -1236,7 +1236,10 @@ Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010IST
 
 
 
-7) užbaigia gamybinę ir komercinę veiklą, baigia vykdyti prievoles, įskaitant mokesčius į biudžetą ir privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas;
+7) užbaigia gamybinę ir komercinę veiklą, baigia vykdyti prievoles, įskaitant mokesčius į biudžetą ir valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas;
+Straipsnio punkto pakeitimai:
+Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
+ 
 
 
 
@@ -1322,7 +1325,10 @@ Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010IST
 
 
 
-3) antrąja eile tenkinami reikalavimai dėl mokesčių bei kitų įmokų į biudžetą ir dėl privalomojo valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų;
+3) antrąja eile tenkinami reikalavimai dėl mokesčių bei kitų įmokų į biudžetą ir dėl valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų;
+Straipsnio punkto pakeitimai:
+Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
+ 
 
 
 
@@ -1503,3 +1509,8 @@ Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010ISTA0IX-1513
 Lietuvos Respublikos žemės ūkio bendrovių įstatymo 18, 19, 30, 33 straipsnių pakeitimo ir 32 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
+Lietuvos Respublikos garantinio fondo įstatymo, Įmonių bankroto įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo, Žemės ūkio bendrovių įstatymo, Ūkininko ūkio įstatymo pakeitimo įstatymas
