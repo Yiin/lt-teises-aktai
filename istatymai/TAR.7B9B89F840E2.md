@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7B9B89F840E2"
 
 # Lietuvos Respublikos lobistinės veiklos įstatymas
 
+Suvestinė redakcija nuo 2001-05-23 iki 2003-04-30
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 56-1644, i. k. 1001010ISTAIII-1749
+ 
+ 
 LIETUVOS RESPUBLIKOS LOBISTINĖS VEIKLOS ĮSTATYMAS
  
 2000 m. birželio 27 d. Nr. VIII-1749
@@ -398,7 +403,10 @@ LOBISTŲ SĄRAŠAS
 
 
 
-6. Apie priimtą sprendimą įrašyti ar atsisakyti įrašyti fizinį asmenį ar įmonę į lobistų sąrašą Vyriausioji tarnybinės etikos komisija praneša raštu fiziniam asmeniui ar įmonei per 5 darbo dienas nuo sprendimo priėmimo dienos. Fizinis asmuo arba įmonė, gavusi pranešimą apie sprendimą įrašyti fizinį asmenį ar įmonę į lobistų sąrašą, per 1 mėnesį nuo pranešimo gavimo dienos turi sumokėti žyminį mokestį ir pateikti Vyriausiajai tarnybinės etikos komisijai jo sumokėjimą patvirtinantį dokumentą. Fiziniam asmeniui arba įmonei, nustatytu laiku pateikusiems žyminio mokesčio sumokėjimą patvirtinantį dokumentą, išduodamas lobisto pažymėjimas, kurio formą nustato Vyriausioji tarnybinės etikos komisija. Jeigu fizinis asmuo arba įmonė nustatytu laiku nepateikia žyminio mokesčio sumokėjimą patvirtinančio dokumento, Vyriausioji tarnybinės etikos komisija sprendimą įrašyti fizinį asmenį ar įmonę į lobistų sąrašą panaikina ir priima sprendimą atsisakyti įrašyti fizinį asmenį ar įmonę į lobistų sąrašą.
+6. Apie priimtą sprendimą įrašyti ar atsisakyti įrašyti fizinį asmenį ar įmonę į lobistų sąrašą Vyriausioji tarnybinės etikos komisija praneša raštu fiziniam asmeniui ar įmonei per 5 darbo dienas nuo sprendimo priėmimo dienos. Fizinis asmuo arba įmonė, gavusi pranešimą apie sprendimą įrašyti fizinį asmenį ar įmonę į lobistų sąrašą, per 1 mėnesį nuo pranešimo gavimo dienos turi sumokėti valstybės rinkliavą ir pateikti Vyriausiajai tarnybinės etikos komisijai jos sumokėjimą patvirtinantį dokumentą. Fiziniam asmeniui arba įmonei, nustatytu laiku pateikusiems valstybės rinkliavos sumokėjimą patvirtinantį dokumentą, išduodamas lobisto pažymėjimas, kurio formą nustato Vyriausioji tarnybinės etikos komisija. Jeigu fizinis asmuo arba įmonė nustatytu laiku nepateikia valstybės rinkliavos sumokėjimą patvirtinančio dokumento, Vyriausioji tarnybinės etikos komisija sprendimą įrašyti fizinį asmenį ar įmonę į lobistų sąrašą panaikina ir priima sprendimą atsisakyti įrašyti fizinį asmenį ar įmonę į lobistų sąrašą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-308, 2001-05-08, Žin., 2001, Nr. 43-1488 (2001-05-23), i. k. 1011010ISTA00IX-308
+ 
 
 
 
@@ -637,7 +645,10 @@ LOBISTINĖS VEIKLOS KONTROLĖ IR INFORMACIJOS PATEIKIMAS
 3. Vyriausioji tarnybinės etikos komisija privalo: 
 
 
-1) per 15 darbo dienų nuo dokumento, patvirtinančio žyminio mokesčio sumokėjimą, pateikimo Vyriausiajai tarnybinės etikos komisijai dienos ar nuo sprendimo sustabdyti, atnaujinti ar nutraukti lobistinę veiklą priėmimo dienos, ar nuo informacijos apie lobistinės veiklos pasibaigimą gavimo dienos „Valstybės žinių“ priede „Informaciniai pranešimai“ paskelbti šio įstatymo 13 straipsnio 2 dalyje nurodytą informaciją apie lobistus ir lobistinę veiklą;
+1) per 15 darbo dienų nuo dokumento, patvirtinančio valstybės rinkliavos sumokėjimą, pateikimo Vyriausiajai tarnybinės etikos komisijai dienos ar nuo sprendimo sustabdyti, atnaujinti ar nutraukti lobistinę veiklą priėmimo dienos, ar nuo informacijos apie lobistinės veiklos pasibaigimą gavimo dienos „Valstybės žinių“ priede „Informaciniai pranešimai“ paskelbti šio įstatymo 13 straipsnio 2 dalyje nurodytą informaciją apie lobistus ir lobistinę veiklą; 
+Straipsnio punkto pakeitimai:
+Nr. IX-308, 2001-05-08, Žin., 2001, Nr. 43-1488 (2001-05-23), i. k. 1011010ISTA00IX-308
+ 
 
 
 
@@ -710,3 +721,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-308, 2001-05-08, Žin., 2001, Nr. 43-1488 (2001-05-23), i. k. 1011010ISTA00IX-308
+Lietuvos Respublikos lobistinės veiklos įstatymo 8 ir 12 straipsnių pakeitimo įstatymas
