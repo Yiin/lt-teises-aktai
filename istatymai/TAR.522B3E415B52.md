@@ -18,7 +18,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Redagavo: Ramunė Lūžaitė (2000.01.12)
+Redagavo: Ramunė Lūžaitė (2000.02.23)
  
  
 Įstatymas paskelbtas: Žin., 1994,
@@ -172,6 +172,13 @@ Nr.101-2902 (99.11.26)
 LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO
 68(1), 68(2), 68(4), 68(5) IR 68(6) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1535, 00.02.10, Žin., 2000, Nr.15-382
+(00.02.23)
+LIETUVOS
+RESPUBLIKOS TEISMŲ ĮSTATYMO 8(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO NUTARIMAI:
  
 1.
@@ -209,9 +216,9 @@ Teismas priima 
 sprendimus  ir  nuosprendžius  Lietuvos Respublikos vardu.
 Įsiteisėję
 teismų sprendimai, nuosprendžiai, nutartys ir nutarimai yra privalomi visoms
-valstybinės valdžios ir valdymo institucijoms, įmonėms, įstaigoms, organizacijoms
-bei fiziniams asmenims ir  turi būti vykdomi visoje Lietuvos Respublikos
-teritorijoje.
+valstybinės valdžios ir valdymo institucijoms, įmonėms, įstaigoms,
+organizacijoms bei fiziniams asmenims ir  turi būti vykdomi visoje Lietuvos
+Respublikos teritorijoje.
  
 2 straipsnis.
 Lygybė įstatymui ir teismui
@@ -233,12 +240,12 @@ Nr.38-1001 (98.04.22)
  4
 straipsnis. Teisė į teisminę gynybą
  
- Lietuvos Respublikoje
-visi jos piliečiai turi teisę į teisminę gynybą nuo kėsinimosi į jų gyvybę ir
-sveikatą, asmeninę laisvę, nuosavybę, garbę ir orumą, kitas Lietuvos
-Respublikos Konstitucijos ir įstatymų jiems garantuotas teises ir laisves, taip
-pat į teisminę gynybą nuo valstybinės valdžios ir valdymo institucijų bei
-pareigūnų neteisėtų veiksmų ar neveikimo.
+ Lietuvos
+Respublikoje visi jos piliečiai turi teisę į teisminę gynybą nuo kėsinimosi į
+jų gyvybę ir sveikatą, asmeninę laisvę, nuosavybę, garbę ir orumą, kitas
+Lietuvos Respublikos Konstitucijos ir įstatymų jiems garantuotas teises ir
+laisves, taip pat į teisminę gynybą nuo valstybinės valdžios ir valdymo
+institucijų bei pareigūnų neteisėtų veiksmų ar neveikimo.
  Kitų
 valstybių piliečiai bei asmenys be pilietybės turi teisę į  teisminę gynybą 
 lygiai su  Lietuvos  Respublikos piliečiais, jeigu kitaip nenumato įstatymai ir
@@ -300,17 +307,22 @@ paslaugos atlyginamos iš valstybės biudžeto.
 8(1)
 straipsnis. Teismų sprendimų, nuosprendžių ir nutarčių skelbimas
  
-Teismų
-departamentas prie Teisingumo ministerijos nuo 2000 m. sausio 1 d. interneto
-tinklapyje skelbia nuo 1999 m. gegužės 20 d. viešame teismo posėdyje priimtus
-apygardų teismų ir Apeliacinio teismo sprendimus, nuosprendžius ir kai kurias
-nutartis (turinčias viešąjį interesą, atrinktas Teismų departamento prie
-Teisingumo ministerijos). Lietuvos Aukščiausiasis Teismas nutartis skelbia
-savame interneto tinklapio puslapyje.
+Teisingumo ministerija
+nuo 2000 m. liepos 1 d. interneto tinklapyje skelbia visus nuo 2000 m. sausio 1
+d. baudžiamosiose bylose priimtus ir įsiteisėjusius apygardų teismų ir
+Apeliacinio teismo nuosprendžius ir nutartis, turinčias viešąjį interesą,
+civilinėse ir administracinėse bylose priimtus ir įsiteisėjusius apygardų
+teismų, apygardų administracinių teismų, Aukštesniojo administracinio teismo ir
+Apeliacinio teismo sprendimus ir nutartis, turinčias viešąjį interesą, taip pat
+skelbia uždaruose teismo posėdžiuose priimtų sprendimų rezoliucines dalis.
+Lietuvos Aukščiausiasis
+Teismas nutartis skelbia interneto tinklapyje.
  
 Straipsnio pakeitimai:
 Nr.
 VIII-1192, 99.05.20, Žin., 1999, Nr.48-1526 (99.06.02)
+Nr. VIII-1535, 00.02.10, Žin., 2000, Nr.15-382
+(00.02.23)
  
 II skirsnis
  
@@ -427,8 +439,8 @@ pirmininko nuomonės. Išimtiniais atvejais teismo pirmininkas turi teisę savo
 iniciatyva konkrečios bylos nagrinėjimo laikui perkelti teisėją iš vieno to
 paties teismo skyriaus į kitą.
 Teisėjų skaičių
-Lietuvos Aukščiausiajame Teisme nustato Seimas Respublikos  Prezidento
-teikimu,  pasiūlius  Lietuvos Aukščiausiojo Teismo pirmininkui.
+Lietuvos Aukščiausiajame Teisme nustato Seimas Respublikos  Prezidento teikimu,
+ pasiūlius  Lietuvos Aukščiausiojo Teismo pirmininkui.
  Apylinkės
 teisme turi dirbti ne mažiau kaip du teisėjai, iš kurių vienas skiriamas
 apylinkės teismo pirmininku.
@@ -470,10 +482,10 @@ sprendimams (nutarimams) dėl įstatymų numatytų prievartos priemonių taikymo
 6) įstatymo
 nustatytais atvejais nagrinėti skundams dėl kvotėjo, tardytojo ar prokuroro
 veiksmų.
-Įstatymo nustatytais
-atvejais apylinkės teismo teisėjai vykdo ikiteisminio tyrimo teisėjo funkcijas.
-Apylinkės teismo teisėjas nenagrinėja tų bylų, kuriose vykdė ikiteisminio
-tyrimo teisėjo funkcijas.
+Įstatymo
+nustatytais atvejais apylinkės teismo teisėjai vykdo ikiteisminio tyrimo
+teisėjo funkcijas. Apylinkės teismo teisėjas nenagrinėja tų bylų, kuriose vykdė
+ikiteisminio tyrimo teisėjo funkcijas.
 Apylinkės teismo
 hipotekos skyriaus kompetencija nustatyta šio įstatymo XVI skirsnyje.
  
@@ -496,8 +508,7 @@ instancija baudžiamosioms byloms, įstatymo priskirtoms jo kompetencijai;
 apeliacinė instancija apylinkių teismų sprendimams, nuosprendžiams, nutartims
 ir nutarimams;
 4) atlieka kitas
-su teisingumo vykdymu susijusias ir įstatymo priskirtas jo kompetencijai
-funkcijas.
+su teisingumo vykdymu susijusias ir įstatymo priskirtas jo kompetencijai funkcijas.
 Apygardos
 teismas analizuoja teismų praktiką susipažindamas su savo veiklos teritorijoje
 esančių apylinkės teismų darbu vietose bei kitais būdais.
@@ -564,9 +575,9 @@ finansuojamas iš valstybės biudžeto ir iš jį pardavus gautų lėšų. Lietu
 Respublikos teismai ir teisėjai biuletenį gauna nemokamai.
 Lietuvos
 Aukščiausiojo Teismo veiklą reguliuoja Lietuvos Respublikos Konstitucija, šis
-įstatymas, įstatymu patvirtintas Lietuvos Aukščiausiojo Teismo statutas,
-Lietuvos Respublikos baudžiamojo proceso kodeksas, Lietuvos Respublikos
-civilinio proceso kodeksas bei kiti specialūs įstatymai.
+įstatymas, įstatymu patvirtintas Lietuvos Aukščiausiojo Teismo statutas, Lietuvos
+Respublikos baudžiamojo proceso kodeksas, Lietuvos Respublikos civilinio
+proceso kodeksas bei kiti specialūs įstatymai.
  
 Straipsnio pakeitimai:
 Nr. I-687, 94.12.08, Žin., 1994, Nr.
@@ -661,12 +672,12 @@ straipsnis. Lietuvos Aukščiausiojo Teismo senato posėdžiai
  
 Lietuvos Aukščiausiojo Teismo senato
 posėdžius šaukia Senato pirmininkas.
-Lietuvos
-Aukščiausiojo Teismo senato darbotvarkė pranešama, dokumentų projektai
-išsiunčiami Senato nariams, Seimo Teisės ir teisėtvarkos komiteto pirmininkui,
-teisingumo ministrui, generaliniam prokurorui, apygardų teismų pirmininkams ir
-Apeliacinio teismo pirmininkui bei, jeigu reikia, ir kitiems asmenims ne vėliau
-kaip prieš dešimt dienų iki posėdžio.
+Lietuvos Aukščiausiojo
+Teismo senato darbotvarkė pranešama, dokumentų projektai išsiunčiami Senato
+nariams, Seimo Teisės ir teisėtvarkos komiteto pirmininkui, teisingumo
+ministrui, generaliniam prokurorui, apygardų teismų pirmininkams ir Apeliacinio
+teismo pirmininkui bei, jeigu reikia, ir kitiems asmenims ne vėliau kaip prieš
+dešimt dienų iki posėdžio.
 Lietuvos
 Aukščiausiojo Teismo senato posėdis yra teisėtas, jeigu jame dalyvauja ne
 mažiau kaip du trečdaliai Senato narių. Senato nutarimai priimami atviru
@@ -706,8 +717,8 @@ teisėjo padėjėjų, teismo primininkų ar skyriaus pirmininko patarėjų, prok
 prokuroro pavaduotojų, advokatų, notarų ar Seimo kontrolierių darbo stažą, ar
 ne mažesnį kaip 5 metų teisinio darbo stažą pagal Vyriausybės patvirtintą
 pareigybių sąrašą, bei asmenims, skiriamiems hipotekos teisėjais. Išvardyti
-asmenys gali būti skiriami apylinkės teismo teisėjais, jeigu jie yra ne
-jaunesni kaip 25 metų, nepriekaištingos reputacijos, turi teisės magistro arba
+asmenys gali būti skiriami apylinkės teismo teisėjais, jeigu jie yra ne jaunesni
+kaip 25 metų, nepriekaištingos reputacijos, turi teisės magistro arba
 teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį
 išsilavinimą) bei išlaikę teisėjo egzaminus. Užsienyje įgytas teisinis
 išsimokslinimas yra pripažįstamas Vyriausybės nustatyta tvarka.
@@ -828,10 +839,10 @@ Asmuo nelaikomas
 nepriekaištingos reputacijos, jeigu:
 1) buvo
 nuteistas už tyčinį nusikaltimą, nesvarbu, ar išnyko teistumas;
-2) buvo nuteistas
-už neatsargų nusikaltimą ir nėra išnykęs teistumas;
-3) buvo
-atleistas iš teisėjų garbės teismo sprendimo pagrindu;
+2) buvo
+nuteistas už neatsargų nusikaltimą ir nėra išnykęs teistumas;
+3) buvo atleistas
+iš teisėjų garbės teismo sprendimo pagrindu;
 4)
 piktnaudžiauja psichotropinėmis, narkotinėmis, toksinėmis medžiagomis ar
 alkoholiu;
@@ -882,8 +893,8 @@ Aukščiausiojo Teismo teisėju gali būti skiriamas:
 1) apygardos ar
 Apeliacinio teismo teisėjas, turintis ne mažesnį kaip 5 metų apygardos teismo
 ar Apeliacinio teismo teisėjo darbo stažą;
-2) buvęs
-Lietuvos Aukščiausiojo Teismo (taip pat ir iki 1994 m. gruodžio 31 d. veikusio
+2) buvęs Lietuvos
+Aukščiausiojo Teismo (taip pat ir iki 1994 m. gruodžio 31 d. veikusio
 Aukščiausiojo Teismo) teisėjas, atleistas iš pareigų savo noru, išrinktas į
 kitas pareigas arba jo sutikimu perkeltas į kitą darbą;
 3) teisės
@@ -900,8 +911,8 @@ grandies teismo teisėju.
 Straipsnio pakeitimai:
 Nr. I-792, 95.02.14, Žin., 1995, Nr.
 17-386 (95.02.24)
-Nr. VIII-696, 98.04.08, Žin., 1998,
-Nr.38-1001 (98.04.22)
+Nr. VIII-696, 98.04.08, Žin., 1998, Nr.38-1001
+(98.04.22)
  
   24-1
 straipsnis. Konstitucinio Teismo teisėjo teisė būti šio įstatymo  numatytu
@@ -921,10 +932,10 @@ Nr.38-1001 (98.04.22)
  25
 straipsnis. Apribojimai eiti teisėjo pareigas
  
- Teisėju
-negali  būti asmuo,  prieš tai buvęs teisėju, prokuroru, advokatu, notaru,
-policijos ar vidaus reikalų sistemos darbuotoju ir atleistas už profesinės
-veiklos pažeidimus.
+ Teisėju negali 
+būti asmuo,  prieš tai buvęs teisėju, prokuroru, advokatu, notaru, policijos ar
+vidaus reikalų sistemos darbuotoju ir atleistas už profesinės veiklos
+pažeidimus.
  Teisėjas negali
 būti skiriamas dirbti teisme, kuriame teisėju dirba jo sutuoktinis (buvęs
 sutuoktinis), vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai,
@@ -1013,8 +1024,8 @@ Nr.38-1001 (98.04.22)
 Nr.
 VIII-1043, 99.02.09, Žin., 1999, Nr.19-507 (99.02.24)
  
- 29 straipsnis.
-Teisėjų egzaminų komisijų išvados
+ 29
+straipsnis. Teisėjų egzaminų komisijų išvados
  
  Teisėjų
 egzaminų komisijos, išegzaminavusios teisėjus arba kandidatus į teisėjus, savo
@@ -1230,7 +1241,7 @@ Aukščiausiojo
 Teismo teisėjus, o iš jų - pirmininką, skiria Seimas Respublikos Prezidento
 teikimu.
 Aukščiausiojo
-Teismo skyrių pirmininkus iš paskirtų teisėjų skiria  Seimas  Respublikos 
+Teismo skyrių pirmininkus iš paskirtų teisėjų skiria  Seimas  Respublikos 
 Prezidento  teikimu,  pasiūlius Aukščiausiojo Teismo pirmininkui.
 Aukščiausiojo 
 Teismo pirmininkas ir skyrių pirmininkai skiriami devyneriems metams.
@@ -1388,12 +1399,12 @@ Nesant apylinkės
 teismo pirmininko, šias pareigas eina pirmininko pavaduotojas.
 Apylinkės
 teisme, kuriame nėra pirmininko pavaduotojo, nesant pirmininko, jo pareigas
-Teismų departamento direktorius paveda laikinai eiti vienam iš to apylinkės teismo
-teisėjų.
+Teismų departamento direktorius paveda laikinai eiti vienam iš to apylinkės
+teismo teisėjų.
  
 Straipsnio pakeitimai:
-Nr. VIII-696, 98.04.08, Žin., 1998,
-Nr.38-1001 (98.04.22)
+Nr. VIII-696, 98.04.08, Žin., 1998, Nr.38-1001
+(98.04.22)
  
 X skirsnis
  
@@ -1435,9 +1446,9 @@ priesaikos tekstą pasirašo. Šis jo priesaikos tekstas laikomas teisėjo tarny
 byloje.
 Teisėjas
 prisiekia, vilkėdamas mantiją.
- Po
-priesaikos Seimo Pirmininkas arba Respublikos Prezidentas teisėjui įteikia
-teisėjo valdžios simbolį - ženklą su Lietuvos valstybės herbo atvaizdu.
+ Po priesaikos
+Seimo Pirmininkas arba Respublikos Prezidentas teisėjui įteikia teisėjo
+valdžios simbolį - ženklą su Lietuvos valstybės herbo atvaizdu.
  Teisėjas
 prisiekia tik vieną kartą.
  Asmuo,
@@ -1755,9 +1766,9 @@ Aukščiausiojo Teismo senato tvirtinamais Lietuvos Aukščiausiojo Teismo teis�
 garbės teismo nuostatais.
  
             1 58 straipsnio 2
-dalis ta apimtimi, kuria nustatytas teisingumo ministro teikimas skirti
-teisėjus į Teisėjų garbės teismą, prieštarauja Lietuvos Respublikos
-Konstitucijos 109 straipsnio 2 daliai.
+dalis ta apimtimi, kuria nustatytas teisingumo ministro teikimas skirti teisėjus
+į Teisėjų garbės teismą, prieštarauja Lietuvos Respublikos Konstitucijos 109
+straipsnio 2 daliai.
  
 Straipsnio pakeitimai:
 Nr. I-1432, 96.07.04, Žin., 1996, Nr.
@@ -1783,13 +1794,12 @@ administracinio teisės pažeidimo padarymą.
 Teisėjo vardą žeminantis poelgis
 yra aiškiai aplaidus konkrečios teisėjo pareigos atlikimas arba jos neatlikimas
 be pateisinamos priežasties.
- Teisėjo 
-vardą žeminančiu poelgiu laikoma ir tai, kai teisėjas per 1 metus nuo šio
-straipsnio pirmosios dalies 1 - 3 punktuose numatytais pagrindais paskirtos
-nuobaudos aplaidžiai eina jam pavestas pareigas ar padaro pareiginį
-nusižengimą, kenkiantį teismo autoritetui, ir už tai jam Teisėjų garbės
-teismas  paskiria nuobaudą, taip pat kai teisėjas verčiasi įstatymų draudžiama
-darbine veikla.
+ Teisėjo  vardą
+žeminančiu poelgiu laikoma ir tai, kai teisėjas per 1 metus nuo šio straipsnio
+pirmosios dalies 1 - 3 punktuose numatytais pagrindais paskirtos nuobaudos
+aplaidžiai eina jam pavestas pareigas ar padaro pareiginį nusižengimą,
+kenkiantį teismo autoritetui, ir už tai jam Teisėjų garbės teismas  paskiria
+nuobaudą, taip pat kai teisėjas verčiasi įstatymų draudžiama darbine veikla.
 1 Apylinkių,
 apygardų teismų, Apeliacinio teismo pirmininkams, jų pavaduotojams, skyrių
 pirmininkams ir kitiems teisėjams drausminę bylą gali iškelti Lietuvos
@@ -1911,7 +1921,8 @@ prie teismo posėdžio protokolo, o garso, vaizdo įrašas laikomas prie bylos i
 teismo sprendimo įsiteisėjimo.
 Teismo posėdžių
 sekretorius, prieš pradėdamas eiti pareigas, pasirašo tarnybinį pasižadėjimą,
-kurio turinį ir formą nustato teisingumo ministras ir Aukščiausiojo Teismo pirmininkas.
+kurio turinį ir formą nustato teisingumo ministras ir Aukščiausiojo Teismo
+pirmininkas.
  
 XV skirsnis
  
@@ -1981,8 +1992,8 @@ straipsnis. Apylinkės teismo hipotekos skyriaus kompetencija
 Apylinkės teismo hipotekos skyrius (toliau -
 hipotekos skyrius) įstatymų nustatytais atvejais ir tvarka registruoja turto
 įkeitimus ir turto arešto aktus, tvarko hipotekos registrą ir turto arešto aktų
-registrą, priima sprendimus dėl skolos išieškojimo iš įkeisto turto bei
-paskirsto išieškotas sumas išieškotojams.
+registrą, priima sprendimus dėl skolos išieškojimo iš įkeisto turto bei paskirsto
+išieškotas sumas išieškotojams.
 Hipotekos
 skyrius vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais Lietuvos
 Respublikos įstatymais, Vyriausybės nutarimais, Vyriausybės patvirtintais
@@ -2062,7 +2073,8 @@ už registrų duomenų teisingumą
  
             Hipotekos skyrius atsako už hipotekos registro
 ir turto arešto aktų registro duomenų atitikimą pateiktų hipotekos skyriui
-registruoti dokumentų, taip pat hipotekos skyriaus išduodamų dokumentų duomenims.
+registruoti dokumentų, taip pat hipotekos skyriaus išduodamų dokumentų
+duomenims.
  
 Straipsnio pakeitimai:
 Nr. I-1543, 96.09.24, Žin., 1996, Nr.
@@ -2190,8 +2202,8 @@ Straipsnio pakeitimai:
 Nr. VIII-696, 98.04.08, Žin., 1998,
 Nr.38-1001 (98.04.22)
  
- 70
-straipsnis. Teismų veiklos statistinės ataskaitos
+ 70 straipsnis.
+Teismų veiklos statistinės ataskaitos
  
  Teismai
 rengia metines, pusmetines ir kitokias statistines ataskaitas.
@@ -2200,8 +2212,8 @@ statistinių  ataskaitų formas nustato teisingumo ministras.
   Statistinės 
 ataskaitos  nustatyta  tvarka  pateikiamos teisingumo ministrui. Teisingumo
 ministerijoje teismų veiklos statistika apibendrinama ir analizuojama, su ja
-supažindinami teismai.  Statistiniai  duomenys  pateikiami  Statistikos departamentui
-ir gali būti pateikiami kitoms institucijoms.
+supažindinami teismai.  Statistiniai  duomenys  pateikiami  Statistikos
+departamentui ir gali būti pateikiami kitoms institucijoms.
  
 71 straipsnis.
 Teismo raštinė
@@ -2359,8 +2371,8 @@ suteikia atostogas kitiems teismo antstoliams.
 Straipsnio pakeitimai:
 Nr. I-687, 94.12.08, Žin., 1994, Nr.
 96-1880 (94.12.14)
-Nr. VIII-696, 98.04.08, Žin., 1998,
-Nr.38-1001 (98.04.22)
+Nr. VIII-696, 98.04.08, Žin., 1998, Nr.38-1001
+(98.04.22)
  
  79
 straipsnis. Vyresniojo teismo antstolio pavaduotojas
@@ -2450,8 +2462,8 @@ Straipsnio pakeitimai:
 Nr. I-687, 94.12.08, Žin., 1994, Nr.
 96-1880 (94.12.14)
  
- 86
-straipsnis. Teismo antstolių atlyginimai ir kitos socialinės garantijos
+ 86 straipsnis.
+Teismo antstolių atlyginimai ir kitos socialinės garantijos
  
 Teismo antstolių
 atlyginimus nustato Lietuvos Respublikos įstatymai.
@@ -2471,8 +2483,8 @@ veiksmus.
 88 straipsnis.
 Skundų dėl teismo antstolio veiksmų nagrinėjimas
  
-Skundus dėl  teismo
-antstolio veiksmų, atliktų vykdant sprendimą, arba dėl atsisakymo tokius
+Skundus dėl 
+teismo antstolio veiksmų, atliktų vykdant sprendimą, arba dėl atsisakymo tokius
 veiksmus atlikti įstatymo nustatyta tvarka nagrinėja apylinkės teismas.
  
 89 straipsnis.
