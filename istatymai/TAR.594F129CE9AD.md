@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2003-04-11 iki 2004-01-06
+Suvestinė redakcija nuo 2004-01-07 iki 2008-11-14
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
  
@@ -30,7 +30,10 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato bendrą ikiteisminę skundų (prašymų) dėl priimtų individualių administracinių aktų ar valstybės bei savivaldybių tarnautojų veiksmų (neveikimo) viešojo administravimo srityje nagrinėjimo tvarką.
+1. Šis įstatymas nustato bendrą ikiteisminę skundų (prašymų) dėl priimtų individualių administracinių aktų ar valstybės tarnautojų veiksmų (neveikimo) viešojo administravimo srityje nagrinėjimo tvarką.
+Straipsnio dalies pakeitimai:
+Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
+ 
 
 
 
@@ -51,12 +54,18 @@ Vilnius
 2 straipsnis. Administracinių ginčų komisijos
 
 
-1. Savivaldybių tarybos gali sudaryti savivaldybių visuomenines administracinių ginčų komisijas su sprendžiamojo balso teise. Išskyrus išimtis, kurias nustato Lietuvos Respublikos administracinių bylų teisenos įstatymas arba kiti įstatymai, savivaldybių visuomeninės administracinių ginčų komisijos ikiteismine tvarka nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų arba savivaldybių tarnautojų veiksmų (neveikimo).
+1. Savivaldybių tarybos gali sudaryti savivaldybių visuomenines administracinių ginčų komisijas su sprendžiamojo balso teise. Išskyrus išimtis, kurias nustato Lietuvos Respublikos administracinių bylų teisenos įstatymas arba kiti įstatymai, savivaldybių visuomeninės administracinių ginčų komisijos ikiteismine tvarka nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų arba valstybės tarnautojų veiksmų (neveikimo). 
+Straipsnio dalies pakeitimai:
+Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
+ 
 
 
 
 
-2. Skundams (prašymams) dėl priimtų individualių administracinių aktų ar valstybės arba savivaldybės tarnautojų veiksmų (neveikimo) viešojo administravimo srityje ikiteismine tvarka nagrinėti steigiamos apskričių administracinių ginčų komisijos ir Vyriausioji administracinių ginčų komisija.
+2. Skundams (prašymams) dėl priimtų individualių administracinių aktų ar valstybės tarnautojų veiksmų (neveikimo) viešojo administravimo srityje ikiteismine tvarka nagrinėti steigiamos apskričių administracinių ginčų komisijos ir Vyriausioji administracinių ginčų komisija.
+Straipsnio dalies pakeitimai:
+Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
+ 
 
 
 
@@ -74,7 +83,10 @@ Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010I
 3 straipsnis. Savivaldybės ir apskrities administracinių ginčų komisijos sudarymas
 
 
-1. Savivaldybės visuomeninė administracinių ginčų komisija sudaroma 3 metams savivaldybės tarybos sprendimu iš 5 narių, iš kurių bent pirmininkas ir sekretorius turi turėti aukštąjį teisinį išsilavinimą. Komisijos narių kandidatūras, iš jų komisijos pirmininko  ir pirmininko pavaduotojo kandidatūras, savivaldybės tarybai teikia savivaldybės meras. 
+1. Savivaldybės visuomeninė administracinių ginčų komisija sudaroma 4 metams savivaldybės tarybos sprendimu iš 5 narių, iš kurių bent pirmininkas ir sekretorius turi turėti aukštąjį teisinį išsilavinimą. Komisijos narių kandidatūras, iš jų komisijos pirmininko ir pirmininko pavaduotojo kandidatūras, savivaldybės tarybai teikia savivaldybės meras.
+Straipsnio dalies pakeitimai:
+Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
+ 
 
 
 
@@ -97,26 +109,27 @@ Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA
 4 straipsnis. Apskrities administracinių ginčų komisijų statusas
 
 
-1. Apskrities administracinių ginčų komisijos nariais jų sutikimu gali būti valstybės ar savivaldybių tarnautojai, taip pat šio statuso neturintys asmenys. 
+1. Apskrities administracinių ginčų komisijos nariais jų sutikimu gali būti valstybės tarnautojai, taip pat šio statuso neturintys asmenys.
 
 
 
 
-2. Apskrities administracinių ginčų komisiją aptarnauja apskrities viršininko administracija. 
+2. Apskrities administracinių ginčų komisiją aptarnauja apskrities viršininko administracija.
 
 
 
 
-3. Komisijos technines funkcijas (skundų registravimas, raštvedyba, susirašinėjimas ir kt.) atlieka apskrities viršininko paskirtas administracijos tarnautojas. Jis kartu yra ir atsakingasis komisijos sekretorius.
+3. Komisijos technines funkcijas (skundų registravimas, raštvedyba, susirašinėjimas ir kt.) atlieka apskrities viršininko paskirtas valstybės tarnautojas. Jis kartu yra ir atsakingasis komisijos sekretorius.
 
 
 
 
-4. Valstybės ir savivaldybių tarnautojams už darbą komisijoje nemokama, o kitiems komisijos nariams atlyginama Vyriausybės nustatyta tvarka.
+4. Valstybės tarnautojams už darbą komisijoje nemokama, o kitiems komisijos nariams atlyginama Vyriausybės nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
+Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
  
 
 
@@ -130,7 +143,10 @@ Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010I
 
 
 
-2. Apskrities administracinių ginčų komisija nagrinėja skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų, t.y. dėl apskrityje esančių valstybės institucijų, įstaigų, tarnybų bei jų tarnautojų, taip pat apskrities teritorijoje esančių savivaldybių institucijų, įstaigų, tarnybų bei jų tarnautojų priimtų individualių administracinių aktų ir veiksmų teisėtumo, taip pat dėl šių subjektų atsisakymo ar vilkinimo atlikti jų kompetencijai priskirtus veiksmus teisėtumo ir pagrįstumo.
+2. Apskrities administracinių ginčų komisija nagrinėja skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų, t. y. dėl apskrityje esančių valstybės institucijų, įstaigų, tarnybų bei jų valstybės tarnautojų, taip pat apskrities teritorijoje esančių savivaldybių institucijų, įstaigų, tarnybų bei jų valstybės tarnautojų priimtų individualių administracinių aktų ir veiksmų teisėtumo, taip pat dėl šių subjektų atsisakymo ar vilkinimo atlikti jų kompetencijai priskirtus veiksmus teisėtumo ir pagrįstumo.
+Straipsnio dalies pakeitimai:
+Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
+ 
 
 
 
@@ -276,7 +292,10 @@ Su skundu (prašymu) į atitinkamą administracinių ginčų komisiją jos kompe
 12 straipsnis. Administracinių ginčų komisijų teisės rengiant medžiagą posėdžiui
 
 
-1. Administracinių ginčų komisija turi teisę reikalauti iš viešojo administravimo subjekto, priėmusio ginčijamą individualų administracinį aktą ar įvykdžiusio skundžiamą veiką, dokumentų, medžiagos ir informacijos, susijusių su posėdžiui rengiamu klausimu, taip pat gauti raštu ar žodžiu valstybės ir savivaldybių tarnautojų paaiškinimus dėl ginčo dalyko.
+1. Administracinių ginčų komisija turi teisę reikalauti iš viešojo administravimo subjekto, priėmusio ginčijamą individualų administracinį aktą ar įvykdžiusio skundžiamą veiką, dokumentų, medžiagos ir informacijos, susijusių su posėdžiui rengiamu klausimu, taip pat gauti raštu ar žodžiu valstybės tarnautojų paaiškinimus dėl ginčo dalyko.
+Straipsnio dalies pakeitimai:
+Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
+ 
 
 
 
@@ -315,10 +334,12 @@ Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010I
 14 straipsnis. Administracinių ginčų komisijos sprendimas 
 
 
-Administracinių ginčų komisija sprendimą dėl ginčo paprastai priima bendru sutarimu dalyvaujant ne mažiau kaip 4 komisijos nariams. Kai bendras sutarimas nepasiekiamas, priimtu laikomas tas sprendimas, už kurį balsavo bent 3 komisijos nariai.
+Administracinių ginčų komisija sprendimą dėl ginčo paprastai priima bendru sutarimu dalyvaujant ne mažiau kaip 3 komisijos nariams. Kai bendro sutarimo nėra, sprendimas laikomas priimtu, kai už jį balsavo dauguma posėdyje dalyvavusiųjų. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
  
-
-
 
 
 
@@ -456,3 +477,8 @@ Lietuvos Respublikos administracinių ginčų komisijų įstatymo 3, 6, 8 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1389, 2003-03-25, Žin., 2003, Nr. 35-1463 (2003-04-11), i. k. 1031010ISTA0IX-1389
 Lietuvos Respublikos administracinių ginčų komisijų įstatymo 8 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
+Lietuvos Respublikos administracinių ginčų komisijų įstatymo 1, 2, 3, 4, 5, 12 ir 14 straipsnių pakeitimo įstatymas
