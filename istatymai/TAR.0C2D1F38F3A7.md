@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C2D1F38F3A7"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 1995-03-10 iki 1995-05-16
+Suvestinė redakcija nuo 1995-05-17 iki 1995-12-29
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1046, i. k. 0941010ISTA000I-528
  
@@ -2711,7 +2711,7 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-50 straipsnis
+50 straipsnis. 
 
 
 1. Akcinės bendrovės ir uždarosios akcinės bendrovės turi pataisyti savo įstatus pagal šį įstatymą ir įregistruoti juos per 9 mėnesius nuo šio įstatymo įsigaliojimo Įmonių rejestro įstatymo nustatyta tvarka. Per šį laiką neperregistravusios įstatų bendrovės likviduojamos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
@@ -2740,6 +2740,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 6. Neteko galios 1994-12-31.
+
+
+
+
+6. Lietuvos Respublikos valstybinių įmonių įstatymas (Žin., 1990, Nr. 30-709; 1991, Nr. 4-107; 1992, Nr. 30-914; 1993, Nr. 31-710, Nr. 32-730, Nr. 49-963, Nr. 52-995, Nr. 62-1169) galioja tik valstybinėms įmonėms, kurios įrašytos šio straipsnio trečiojoje dalyje nustatytame įmonių sąraše.
 
 
 Straipsnio pakeitimai:
@@ -2775,3 +2780,8 @@ Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-807, 1995-02-22, Žin., 1995, Nr. 21-492 (1995-03-10), i. k. 0951010ISTA000I-807
 Dėl Lietuvos Respublikos akcinių bendrovių įstatymo papildymo
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-878, 1995-05-04, Žin., 1995, Nr. 41-993 (1995-05-17), i. k. 0951010ISTA000I-878
+Dėl Lietuvos Respublikos akcinių bendrovių įstatymo 50 straipsnio pakeitimo ir papildymo
