@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F15B67B048EB"
 Redagavo: Ramun? L??ait? (1997
 
 Redagavo:
-Ramunė Lūžaitė (1999.10.28)
+Ramunė Lūžaitė (1999.12.22)
  
  
 Įstatymas
@@ -79,9 +79,16 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1368, 99.10.19, Žin., 1999, Nr.90-2644
 (99.10.27)
-LIETUVOS
-RESPUBLIKOS BUHALTERINĖS APSKAITOS PAGRINDŲ ĮSTATYMO 1 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS BUHALTERINĖS APSKAITOS PAGRINDŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. VIII-1466,
+99.12.07, Žin., 1999, Nr.108-3130 (99.12.22)
+LIETUVOS RESPUBLIKOS BUHALTERINĖS APSKAITOS PAGRINDŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
  
 *** Pabaiga ***
  
@@ -95,8 +102,8 @@ I SKIRSNIS
 BENDRIEJI
 NUOSTATAI 
  
-     1
-straipsnis. Įstatymo taikymo sritis
+1 straipsnis.
+Įstatymo taikymo sritis
  
 Šiame įstatyme nustatyta privaloma individualių
 (personalinių) įmonių, tikrųjų ūkinių bendrijų, komanditinių (pasitikėjimo)
@@ -105,11 +112,13 @@ investicinių bendrovių, valstybės ir savivaldybės įmonių nuolatinių buvei
 (toliau - įmonių), viešųjų įstaigų, visuomeninių organizacijų bei visų tipų
 įmonių ir organizacijų junginių, advokatų kontorų, taip pat įstaigų ir
 organizacijų, išlaikomų iš biudžeto (toliau - organizacijų), finansinės
-apskaitos tvarka.
-     Kitos
-įstaigos ir organizacijos, užsiimančios nekomercine veikla (veikla, kuria
-nesiekiama pelno), buhalterinės apskaitos tvarką pasirenka savarankiškai,
-laikydamosi šio įstatymo.
+apskaitos tvarka. Užsienio valstybių įmonių, susivienijimų ir kitokių pelno
+siekiančių organizacijų įsteigti Lietuvos Respublikoje filialai ir atstovybės
+finansinę apskaitą tvarko šio įstatymo nustatyta tvarka.“
+Kitos įstaigos
+ir organizacijos, užsiimančios nekomercine veikla (veikla, kuria nesiekiama
+pelno), buhalterinės apskaitos tvarką pasirenka savarankiškai, laikydamosi šio
+įstatymo.
  
 Straipsnio pakeitimai:
 Nr. I-1050, 95.09.28, Žin., 1995, Nr.
@@ -118,6 +127,8 @@ Nr.
 VIII-842, 98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
 Nr. VIII-1368, 99.10.19, Žin., 1999, Nr.90-2644
 (99.10.27)
+Nr. VIII-1466,
+99.12.07, Žin., 1999, Nr.108-3130 (99.12.22)
  
      2 straipsnis. Įstatymo paskirtis
  
@@ -126,9 +137,9 @@ apskaitos pagrindų įstatymas reglamentuoja įmonių ir organizacijų turto,
 nuosavybės, ūkinių procesų ir veiklos rezultatų bendruosius apskaitos principus
 (įmonės besitęsiančios veiklos, apskaitos pastovumo, pajamų ir sąnaudų
 kaupimo). Buhalterinė apskaita turi būti organizuota taip, kad būtų teikiama
-laiku ir tiksli informacija mokesčius skaičiuojančioms tarnyboms, valstybinei statistikai,
-savininkams, kreditoriams, komercinės veiklos partneriams ir garantuojamas
-ūkiniams komerciniams sandoriams informacinis pagrindas. 
+laiku ir tiksli informacija mokesčius skaičiuojančioms tarnyboms, valstybinei
+statistikai, savininkams, kreditoriams, komercinės veiklos partneriams ir
+garantuojamas ūkiniams komerciniams sandoriams informacinis pagrindas. 
  
 Straipsnio pakeitimai:
 Nr.
@@ -137,12 +148,12 @@ VIII-842, 98.07.02, Žin., 1998, Nr.68-1981 (98.07.31)
      3 straipsnis. Bendras vadovavimas
 buhalterinei apskaitai
  
-     Bendrą metodinį  vadovavimą
-buhalterinei apskaitai pagal Lietuvos  Respublikos  įstatymus,  tarptautinius 
-apskaitos standartus ir Europos ekonominės bendrijos direktyvas vykdo Lietuvos
+     Bendrą metodinį  vadovavimą buhalterinei
+apskaitai pagal Lietuvos  Respublikos  įstatymus,  tarptautinius  apskaitos
+standartus ir Europos ekonominės bendrijos direktyvas vykdo Lietuvos
 Respublikos Vyriausybė. 
  
-     4 straipsnis. Buhalterinės
+     4 straipsnis. Buhalterinės
 apskaitos sistema
  
      Buhalterinės
@@ -162,8 +173,8 @@ apskaita tvarkoma valstybine lietuvių kalba. Bendrose  įmonėse  ir Lietuvoj
 esančiose užsienio kapitalo įmonėse apskaita tvarkoma lietuvių kalba, o esant
 reikalui - ir užsienio kalba. 
  
-     5 straipsnis. Buhalterinės
-apskaitos sąskaitų planas
+     5 straipsnis. Buhalterinės apskaitos
+sąskaitų planas
  
      Pavyzdinis buhalterinės apskaitos
 sąskaitų planas tvirtinamas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
@@ -240,8 +251,8 @@ telekomunikacijų paslaugų teikimą masiniams vartotojams, pagrindžiamos
 pavyzdiniais ar laisvos formos dokumentais.
  
 Straipsnio pakeitimai:
-Nr. I-1050, 95.09.28, Žin., 1995, Nr.
-83-1882 (95.10.11)
+Nr. I-1050, 95.09.28, Žin., 1995, Nr. 83-1882
+(95.10.11)
 Nr. I-1213, 96.02.20, Žin., 1996, Nr.
 18-463 (96.02.28)
 Nr. I-1410, 96.06.27, Žin., 1996, Nr.
@@ -265,8 +276,8 @@ vienas mėnuo, surašomi ir pateikiami (išsiunčiami) paslaugos gavėjui ne vė
 kaip iki kito mėnesio 10 dienos.
      Apskaitos
 dokumentų (išskyrus kasos aparatų išduodamus kvitus bei dokumentus, išrašytus
-už telekomunikacijų paslaugų teikimą masiniams vartotojams) privalomi rekvizitai:
-įmonės ar organizacijos, surašiusios apskaitos dokumentą, pavadinimas,
+už telekomunikacijų paslaugų teikimą masiniams vartotojams) privalomi
+rekvizitai: įmonės ar organizacijos, surašiusios apskaitos dokumentą, pavadinimas,
 apskaitos dokumento pavadinimas, jo surašymo data, ūkinės operacijos turinys,
 ūkinės operacijos matavimo rodikliai, ūkinės operacijos rezultato kiekinė ir
 piniginė išraiška, asmenų, atlikusių ūkinę operaciją ir atsakingų už jos
@@ -277,10 +288,10 @@ vardas, pavardė, asmens kodas, paso numeris ir gyvenamoji vieta.
 aparato išduodamame kvite turi būti nurodyta: įmonės, įstaigos ar
 organizacijos, nurodytos šio įstatymo 1 straipsnyje, kodas arba jeigu įmonė,
 įstaiga arba organizacija, nurodyta šio įstatymo 1 straipsnyje, yra pridėtinės
-vertės mokesčio mokėtoja, tai pridėtinės vertės mokesčio mokėtojo kodas,
-unikalus kasos aparato numeris, prekės (paslaugos) pavadinimas arba kodas,
-prekės arba paslaugos kaina, visa sumokėtina suma, išskiriant pridėtinės vertės
-mokesčio dydį, kvito išdavimo data ir kvito eilės numeris.
+vertės mokesčio mokėtoja, tai pridėtinės vertės mokesčio mokėtojo kodas, unikalus
+kasos aparato numeris, prekės (paslaugos) pavadinimas arba kodas, prekės arba
+paslaugos kaina, visa sumokėtina suma, išskiriant pridėtinės vertės mokesčio
+dydį, kvito išdavimo data ir kvito eilės numeris.
      Specialių
 apskaitos dokumentų sąrašą, privalomus papildomus rekvizitus, gaminimo,
 platinimo bei naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
@@ -288,12 +299,12 @@ platinimo bei naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 Respublikos jurisdikcijai priklausančios įmonės išrašytas apskaitos dokumentas,
 kuriame nėra privalomų visų rekvizitų, išskyrus apskaitos dokumentus, išrašytus
 už telekomunikacijų paslaugų suteikimą masiniams vartotojams, ir specialus
-apskaitos dokumentas, kuriame nėra visų privalomų ir papildomų privalomų rekvizitų
-arba jei jis surašytas ne ant Lietuvos Respublikos Vyriausybės nustatyta tvarka
-įsigyto blanko, juridinės galios neturi. Apskaitos dokumente, išrašytame už
-telekomunikacijų paslaugų suteikimą masiniams vartotojams, turi būti nurodyta:
-įmonės, suteikusios šias paslaugas, pavadinimas, kodas, o jei įmonė yra PVM
-mokėtoja, - PVM mokėtojo kodas, adresas, įmonės, gavusios paslaugą,
+apskaitos dokumentas, kuriame nėra visų privalomų ir papildomų privalomų
+rekvizitų arba jei jis surašytas ne ant Lietuvos Respublikos Vyriausybės nustatyta
+tvarka įsigyto blanko, juridinės galios neturi. Apskaitos dokumente, išrašytame
+už telekomunikacijų paslaugų suteikimą masiniams vartotojams, turi būti
+nurodyta: įmonės, suteikusios šias paslaugas, pavadinimas, kodas, o jei įmonė
+yra PVM mokėtoja, - PVM mokėtojo kodas, adresas, įmonės, gavusios paslaugą,
 pavadinimas, paslaugos pavadinimas ir jos piniginė išraiška bei apskaitos
 dokumento surašymo data.
  
@@ -369,23 +380,23 @@ nustatyta tvarka.   Prieš pateikiant tvirtinti gali būti atliekama finansin�
 atskaitomybės auditinė kontrolė. Už pateiktą neteisingą finansinę atskaitomybę,
 nors ji patikrinta ir patvirtinta auditoriaus, atsako įmonės administracijos
 vadovas arba savininkas.   Juridinio  asmens  teises  turinčios  įmonės 
-finansinę atskaitomybę sudaro gruodžio 31 dienos duomenimis, o balansą - dar įmonės
-steigimo ir likvidavimo dienos duomenimis. 
+finansinę atskaitomybę sudaro gruodžio 31 dienos duomenimis, o balansą - dar
+įmonės steigimo ir likvidavimo dienos duomenimis. 
  
 V SKIRSNIS
-TURTO
-ĮKAINOJIMAS IR INVENTORIZACIJA
+TURTO ĮKAINOJIMAS
+IR INVENTORIZACIJA
  
      16 straipsnis. Turto įkainojimas
  
     Įmonės ar organizacijos ilgalaikis
-turtas apskaitoje įkainojamas ir rodomas įsigijimo arba perkainota (iš naujo įvertina)
-verte Vyriausybės nustatyta tvarka, balanse - likutine verte (įsigijimo arba
-perkainotos vertės ir nusidėvėjimo skirtumas).
+turtas apskaitoje įkainojamas ir rodomas įsigijimo arba perkainota (iš naujo
+įvertina) verte Vyriausybės nustatyta tvarka, balanse - likutine verte (įsigijimo
+arba perkainotos vertės ir nusidėvėjimo skirtumas).
     Atsargos  apskaitoje  įkainojamos 
 įsigijimo  verte,  o finansinėje atskaitomybėje - faktine savikaina. Faktinė
-savikaina apskaičiuojama  pirmiausia  nurašant  anksčiausiai  įsigytas
-atsargas. 
+savikaina apskaičiuojama  pirmiausia  nurašant  anksčiausiai  įsigytas atsargas.
+
  
 Straipsnio pakeitimai:
 Nr.
@@ -491,15 +502,16 @@ atskaitomybės rodikliai.
      24 straipsnis. Atsakomybė už
 buhalterinės apskaitos organizavimą
  
-     Už  buhalterinės  apskaitos  organizavimą, 
-atskaitomybės pateikimą laiku, apskaitos dokumentų išsaugojimą atsako įmonės
-administracijos vadovas (savininkas).   Įmonės pareigūnai, pažeidusieji šio
-įsatymo ir kitų apskaitos norminių aktų reikalavimus, atsako pagal Lietuvos
-Respublikos įstatymus. 
+     Už  buhalterinės  apskaitos 
+organizavimą,  atskaitomybės pateikimą laiku, apskaitos dokumentų išsaugojimą
+atsako įmonės administracijos vadovas (savininkas).   Įmonės pareigūnai,
+pažeidusieji šio įstatymo ir kitų apskaitos norminių aktų reikalavimus, atsako
+pagal Lietuvos Respublikos įstatymus. 
+ 
  
  LIETUVOS RESPUBLIKOS
- AUKŠČIAUSIOSIOS TARYBOS
-PIRMININKAS               VYTAUTAS LANDSBERGIS
+ AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS              
+VYTAUTAS LANDSBERGIS
  
 Vilnius, 1992 m. birželio 18 d.  
 Nr.I-2654
