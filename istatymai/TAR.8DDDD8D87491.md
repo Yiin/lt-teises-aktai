@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2026-12-31
+Suvestinė redakcija nuo 2027-01-01
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
  
@@ -241,7 +241,10 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 
 
-27. Ūkinis gyvūnas – gyvūnas, laikomas ar veisiamas maistui, kailiams, vaistams ir kitai produkcijai gauti, darbo ir kitais ūkininkavimo tikslais.
+27. Ūkinis gyvūnas – gyvūnas, laikomas ar veisiamas maistui, vaistams ir kitai produkcijai gauti, darbo ir kitais ūkininkavimo tikslais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
+ 
 
 
 
@@ -1138,9 +1141,19 @@ Nr. XIV-2978, 2024-09-12, paskelbta TAR 2024-09-19, i. k. 2024-16410
 
 
 
-8. Gyvūnų augintinių veisėjai teisės aktų nustatyta tvarka registruoja savo veiklą Gyvūnų augintinių registro duomenų bazėje. 
+8. Draudžiama laikyti ir (ar) veisti gyvūnus kailių gavybos ar pardavimo tikslu.
+Papildyta straipsnio dalimi:
+Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
+ 
+
+
+
+
+9. Gyvūnų augintinių veisėjai teisės aktų nustatyta tvarka registruoja savo veiklą Gyvūnų augintinių registro duomenų bazėje. 
 Papildyta straipsnio dalimi:
 Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
  
 
 
@@ -1193,6 +1206,14 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 51. Draudžiama parduoti ar kitaip perleisti nuosavybės teises į gyvūnus augintinius, kuriems atliktos šio įstatymo 4 straipsnio 2 dalies 9 punkte išvardytos veterinarinės procedūros, išskyrus atvejus, numatytus Valstybinės maisto ir veterinarijos tarnybos direktoriaus tvirtinamuose veterinarijos reikalavimuose gyvūnų augintinių veisėjams ir prekybai gyvūnais augintiniais.
 Papildyta straipsnio dalimi:
 Nr. XIV-2978, 2024-09-12, paskelbta TAR 2024-09-19, i. k. 2024-16410
+ 
+
+
+
+
+6. Draudžiama parduoti ar kitaip perleisti gyvūnus kailių gavybos tikslu.
+Papildyta straipsnio dalimi:
+Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
  
 
 
@@ -1343,7 +1364,10 @@ SPECIALIEJI GYVŪNŲ GEROVĖS IR APSAUGOS REIKALAVIMAI
 
 
 
-17 straipsnis. Ūkinių gyvūnų skerdimas, ūkiuose auginamų kailinių žvėrelių, paukščių jauniklių ir embrionų nužudymas
+17 straipsnis. Ūkinių gyvūnų skerdimas, paukščių jauniklių ir embrionų nužudymas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
+ 
 
 
 1. Ūkiniai gyvūnai skerdyklose laikomi, svaiginami, skerdžiami laikantis skerdžiamų gyvūnų apsaugą reglamentuojančių teisės aktų reikalavimų.
@@ -1364,7 +1388,10 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 
 
-4. Ūkiuose auginami kailiniai žvėreliai, paukščių peryklose paukščių jaunikliai iki 72 valandų amžiaus ir embrionai turi būti nužudomi teisės aktuose nustatytais metodais, laikantis žudomų gyvūnų apsaugą reglamentuojančių teisės aktų reikalavimų.
+4. Paukščių peryklose paukščių jaunikliai iki 72 valandų amžiaus ir embrionai turi būti nužudomi teisės aktuose nustatytais metodais, laikantis žudomų gyvūnų apsaugą reglamentuojančių teisės aktų reikalavimų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
+ 
 
 
 
@@ -1760,3 +1787,8 @@ Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 3 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2978, 2024-09-12, paskelbta TAR 2024-09-19, i. k. 2024-16410
 Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 4, 10, 12 ir 19 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 10, 12 ir 17 straipsnių pakeitimo įstatymas
