@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7669EDB22079"
 
 # Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 4, 6, 7, 8, 9, 11, 12, 13, 49, 55, 58, 59, 75, 78, 81, 82 straipsnių pakeitimo ir papildymo, 10, 53, 54, 56 straipsnių pripažinimo netekusiais galios ir devintojo skirsnio pavadinimo pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2000-10-11
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 75-2266, i. k. 1001010ISTAIII-1899
+ 
 LIETUVOS RESPUBLIKOS
 PREKYBINĖS LAIVYBOS ĮSTATYMO 1, 2, 4, 6, 7, 8, 9, 11, 12, 13, 49, 55, 58, 59, 75, 78, 81, 82 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 10, 53, 54, 56 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR DEVINTOJO SKIRSNIO PAVADINIMO PAKEITIMO
 Į S T A T Y M A S
@@ -565,17 +569,31 @@ Pakeisti 58 straipsnio 3 dalį ir ją išdėstyti taip:
 24 straipsnis. Įstatymo įsigaliojimas
 
 
-Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d.
+Šis įstatymas įsigalioja nuo 2000 m. spalio 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1963, 2000-09-26, Žin., 2000, Nr. 85-2584 (2000-10-11), i. k. 1001010ISTAIII-1963
  
+
+
+
+
  
-
-
-
-
-
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-1963, 2000-09-26, Žin., 2000, Nr. 85-2584 (2000-10-11), i. k. 1001010ISTAIII-1963
+Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 4, 6, 7, 8, 9, 11, 12, 13, 49, 55, 58, 59, 75, 78, 81, 82 straipsnių pakeitimo ir papildymo, 10, 53, 54, 56 straipsnių pripažinimo netekusiais galios ir devintojo skirsnio pavadinimo pakeitimo įstatymo 24 straipsnio pakeitimo įstatymas
