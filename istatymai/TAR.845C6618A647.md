@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
+Suvestinė redakcija nuo 2003-04-24 iki 2003-04-30
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
+ 
 LIETUVOS RESPUBLIKOS
 NEPAPRASTOSIOS PADĖTIES
 Į S T A T Y M A S
@@ -527,7 +531,9 @@ Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prez
 
 
 
-2. Institucijos, atsakingos už ekstremalių situacijų valdymą, vadovas, komendantai turi teisę panaudoti būstą komendantūros pareigūnams, asmenims, pasitraukusiems iš savo gyvenamųjų vietų, apgyvendinti užtikrinant šių būstų gyventojams galimybę toliau gyventi šiuose būstuose arba perkelti gyventojus į kitus gyventi tinkamus būstus. Nepaprastajai padėčiai pasibaigus, būsto savininko reikalavimu šiais veiksmais padaryta žala atlyginama įstatymų nustatyta tvarka.
+2. Institucijos, atsakingos už ekstremalių situacijų valdymą, vadovas, komendantai turi teisę panaudoti būstą komendantūros pareigūnams, asmenims, pasitraukusiems iš savo gyvenamųjų vietų, apgyvendinti užtikrinant šių būstų gyventojams galimybę toliau gyventi šiuose būstuose arba perkelti gyventojus į kitus gyventi tinkamus būstus. Nepaprastajai padėčiai pasibaigus, būsto savininko reikalavimu šiais veiksmais padarytą žalą atlygina valstybė Vyriausybės nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-1416, 2003-04-03, Žin., 2003, Nr. 38-1661 (2003-04-24), i. k. 1031010ISTA0IX-1416
  
 
 
@@ -851,3 +857,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1416, 2003-04-03, Žin., 2003, Nr. 38-1661 (2003-04-24), i. k. 1031010ISTA0IX-1416
+Lietuvos Respublikos nepaprastosios padėties įstatymo 20 straipsnio pakeitimo įstatymas
