@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2003-04-30 iki 2004-04-30
+Suvestinė redakcija nuo 2004-05-01 iki 2006-01-11
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -343,10 +343,12 @@ Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA
 11 straipsnis. Labdaros ir paramos teikėjų ir gavėjų apmokestinimas
 
 
-Labdaros ir paramos teikėjų ir gavėjų apmokestinimą Lietuvos Respublikoje nustato Lietuvos Respublikos mokesčių ir Muitų tarifų įstatymai.
+Labdaros ir paramos teikėjų ir gavėjų apmokestinimą Lietuvos Respublikoje nustato mokesčių įstatymai.
+
+
+Straipsnio pakeitimai:
+Nr. IX-2190, 2004-04-27, Žin., 2004, Nr. 73-2524 (2004-04-30), i. k. 1041010ISTA0IX-2190
  
-
-
 
 
 
@@ -554,3 +556,8 @@ Lietuvos Respublikos labdaros ir paramos įstatymo 1, 3, 5, 10, 12 ir 15 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1519, 2003-04-22, Žin., 2003, Nr. 40-1812 (2003-04-30), i. k. 1031010ISTA0IX-1519
 Lietuvos Respublikos labdaros ir paramos įstatymo 5 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2190, 2004-04-27, Žin., 2004, Nr. 73-2524 (2004-04-30), i. k. 1041010ISTA0IX-2190
+Lietuvos Respublikos labdaros ir paramos įstatymo 11 straipsnio pakeitimo įstatymas
