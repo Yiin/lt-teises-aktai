@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.22F9E22CD358"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 1993-09-29 iki 1993-10-12
+Suvestinė redakcija nuo 1993-10-13 iki 1993-11-18
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 107-0; Žin. 1990, Nr.31-747, i. k. 090XX01ISTA000I-676
  
@@ -700,7 +700,10 @@ BENDRIJOS VEIKLOS NUTRAUKIMAS
 
 
 
-2. Jeigu bendrija likviduojama pasibaigus bendrosios jungtinės veiklos sutarties terminui arba nariams nutarus nutraukti veiklą, tai jie turi teisę patys paskirti likvidatorius iš tikrųjų narių. Kitais likvidavimo atvejais likvidatorius skiria teismas.
+2. Jeigu bendrija likviduojama pasibaigus bendrosios jungtinės veiklos sutarties terminui arba nariams nutarus nutraukti veiklą, tai jie turi teisę patys paskirti likvidatorius iš tikrųjų narių. Kitais likvidavimo atvejais likvidatorius skiria teismas arba kreditorių susirinkimas.
+Straipsnio dalies pakeitimai:
+Nr. I-257, 1993-09-28, Žin., 1993, Nr. 52-998 (1993-10-13), i. k. 0931010ISTA000I-257
+ 
 
 
 
@@ -757,7 +760,18 @@ BENDRIJOS VEIKLOS NUTRAUKIMAS
 
 
 
-6. Likviduotos bendrijos dokumentai perduodami saugoti savivaldybei ir saugomi joje 10 metų. Buvę bendrijos nariai ir jų įpėdiniai turi teisę susipažinti su saugomais dokumentais ir gauti jų nuorašus.
+6. Likviduojant bankrutavusią bendriją, jos turtas dalijamas Lietuvos Respublikos įmonių bankroto įstatymo nustatyta tvarka. 
+Papildyta punktu:
+Nr. I-257, 1993-09-28, Žin., 1993, Nr. 52-998 (1993-10-13), i. k. 0931010ISTA000I-257
+ 
+
+
+
+
+7. Likviduotos bendrijos dokumentai perduodami saugoti savivaldybei ir saugomi joje 10 metų. Buvę bendrijos nariai ir jų įpėdiniai turi teisę susipažinti su saugomais dokumentais ir gauti jų nuorašus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. I-257, 1993-09-28, Žin., 1993, Nr. 52-998 (1993-10-13), i. k. 0931010ISTA000I-257
+ 
 
 
 
@@ -790,3 +804,8 @@ Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-249, 1993-09-21, Žin., 1993, Nr. 49-964 (1993-09-29), i. k. 0931010ISTA000I-249
 Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo pakeitimo
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-257, 1993-09-28, Žin., 1993, Nr. 52-998 (1993-10-13), i. k. 0931010ISTA000I-257
+Dėl Lietuvos Respublikos ūkinių bendrijų įstatymo papildymo
