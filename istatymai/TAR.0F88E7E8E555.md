@@ -13,6 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F88E7E8E555"
 
 # Lietuvos Respublikos laikinasis pasienio apsaugos tarnybos įstatymas
 
+Įstatymas netenka galios 1992-07-01:
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2673, 1992-06-25, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 20-594 (1992-07-20), i. k. 0921010ISTA00I-2673
+Lietuvos Respublikos valstybės sienos apsaugos įstatymas
+ 
+Suvestinė redakcija nuo 1991-11-28 iki 1992-06-30
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 124-0; Žin. 1990, Nr.34-821, i. k. 0901010ISTA000I-765
+ 
+ 
 LIETUVOS RESPUBLIKOS
 LAIKINASIS PASIENIO APSAUGOS TARNYBOS
 ĮSTATYMAS
@@ -79,7 +89,10 @@ Pasienio apsaugos tarnybon priimti asmenys (išskyrus atliekančius krašto apsa
 
 11 straipsnis. Pasienio apsaugos tarnyba bendradarbiauja su Lietuvos Respublikos prokuratūra, vidaus reikalų ir valstybės saugumo tarnybomis, muitine, kaimyninių valstybių pasienio tarnybomis.
 Lietuvos Respublikos vidaus reikalų ir valstybės saugumo tarnybos, muitinė, jų teritoriniai padaliniai, miestų ir rajonų savivaldybės, įmonės ir organizacijos privalo perduoti pasienio apsaugos tarnybos padaliniams informaciją, susijusią su pasienio apsauga.
-Visų žinybų veikla pasienio ruože ir pasienio apsaugos tarnybos patalpose turi būti suderinta su Pasienio apsaugos tarnybos užkardos viršininku.
+Pasienio ruože leidžiama kitų žinybų veikla, jeigu ši tiesiogiai netrukdo valstybės sienų apsaugai. Visų žinybų veikla Pasienio apsaugos tarnybos patalpose turi būti suderinta su Pasienio apsaugos tarnybos užkardos viršininku.
+Pasienio apsaugos tarnybai draudžiama užsiimti ūkine-komercine veikla.
+Straipsnio pakeitimai:
+Nr. I-2017, 1991-11-21, Lietuvos aidas, 1991, Nr. 237-0 (1991-11-27); Žin., 1991, Nr. 34-932 (1991-12-10), i. k. 0911010ISTA00I-2017
  
 
 III. PAREIGŪNŲ KOMPETENCIJA IR VEIKLOS GARANTIJOS
@@ -144,4 +157,15 @@ AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                     �
  
 Vilnius, 1990 m. lapkričio 8 d. 
 Nr. I-765
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2017, 1991-11-21, Lietuvos aidas, 1991, Nr. 237-0 (1991-11-27); Žin., 1991, Nr. 34-932 (1991-12-10), i. k. 0911010ISTA00I-2017
+Dėl Lietuvos Respublikos laikinojo pasienio apsaugos tarnybos įstatymo 11 straipsnio pakeitimo ir papildymo
 
