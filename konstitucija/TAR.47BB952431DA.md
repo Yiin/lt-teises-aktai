@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"
 
 # Lietuvos Respublikos Konstitucija
 
-Suvestinė redakcija nuo 2003-02-24 iki 2003-04-20
+Suvestinė redakcija nuo 2003-04-21 iki 2004-08-13
  
 Konstitucija paskelbtas: Lietuvos aidas 1992, Nr. 220-0; Žin. 1992, Nr.33-1014, i. k. 0921010KONSRG922324
  
@@ -38,11 +38,12 @@ LIETUVIŲ TAUTA
 – puoselėdama Lietuvos žemėje tautinę santarvę,
 – siekdama atviros, teisingos, darnios pilietinės visuomenės ir teisinės valstybės,
 atgimusios Lietuvos valstybės piliečių valia priima ir skelbia šią 
+ 
 
 
 
 
-KONSTITUCIJĄ
+KONSTITUCIJA
  
 
 
@@ -1865,7 +1866,10 @@ Respublikos Prezidentas:
 
 
 
-11) teikia Seimui Aukščiausiojo Teismo teisėjų kandidatūras, o paskyrus visus Aukščiausiojo Teismo teisėjus, iš jų teikia Seimui skirti Aukščiausiojo Teismo pirmininką; skiria Apeliacinio teismo teisėjus, o iš jų – Apeliacinio teismo pirmininką, jeigu jų kandidatūroms pritaria Seimas; skiria apygardų ir apylinkių teismų teisėjus ir pirmininkus, keičia jų darbo vietas; įstatymo numatytais atvejais teikia Seimui atleisti teisėjus;
+11) teikia Seimui Aukščiausiojo Teismo teisėjų kandidatūras, o paskyrus visus Aukščiausiojo Teismo teisėjus, iš jų teikia Seimui skirti Aukščiausiojo Teismo pirmininką; skiria Apeliacinio teismo teisėjus, o iš jų – Apeliacinio teismo pirmininką, jeigu jų kandidatūroms pritaria Seimas; skiria apygardų ir apylinkių teismų teisėjus ir pirmininkus, keičia jų darbo vietas; įstatymo numatytais atvejais teikia Seimui atleisti teisėjus; Seimo pritarimu skiria ir atleidžia Lietuvos Respublikos generalinį prokurorą;
+Straipsnio punkto pakeitimai:
+Nr. IX-1378, 2003-03-20, Žin., 2003, Nr. 32-1315 (2003-04-02), i. k. 1031010ISTA0IX-1378
+ 
 
 
 
@@ -2747,17 +2751,36 @@ Asmenims, nemokantiems lietuvių kalbos, garantuojama teisė dalyvauti tardymo i
 118 straipsnis
 
 
-Valstybinį kaltinimą baudžiamosiose bylose palaiko, baudžiamąjį persekiojimą vykdo ir kvotos organų veiklą kontroliuoja prokurorai.
+Ikiteisminį tyrimą organizuoja ir jam vadovauja, valstybinį kaltinimą baudžiamosiose bylose palaiko prokuroras.
 
 
 
 
-Parengtinį tardymą atlieka tardytojai.
+Prokuroras įstatymo nustatytais atvejais gina asmens, visuomenės ir valstybės teises bei teisėtus interesus.
 
 
 
 
-Prokurorų ir tardytojų skyrimo tvarką ir jų statusą nustato įstatymas.
+Prokuroras, vykdydamas savo funkcijas, yra nepriklausomas ir klauso tik įstatymo.
+
+
+
+
+Lietuvos Respublikos prokuratūra yra Generalinė prokuratūra ir teritorinės prokuratūros. 
+
+
+
+
+Generalinį prokurorą skiria ir atleidžia Respublikos Prezidentas Seimo pritarimu.
+
+
+
+
+Prokurorų skyrimo ir atleidimo tvarką, jų statusą nustato įstatymas. 
+
+
+Straipsnio pakeitimai:
+Nr. IX-1379, 2003-03-20, Žin., 2003, Nr. 32-1316 (2003-04-02), i. k. 1031010ISTA0IX-1379
  
 
 
@@ -2765,8 +2788,7 @@ Prokurorų ir tardytojų skyrimo tvarką ir jų statusą nustato įstatymas.
 
 
 
-
-
+ 
 X SKIRSNIS
 VIETOS SAVIVALDA IR VALDYMAS
  
@@ -3460,3 +3482,13 @@ Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1305, 2003-01-23, Žin., 2003, Nr. 14-540 (2003-02-07), i. k. 1031010ISTA0IX-1305
 Lietuvos Respublikos Konstitucijos 47 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1378, 2003-03-20, Žin., 2003, Nr. 32-1315 (2003-04-02), i. k. 1031010ISTA0IX-1378
+Lietuvos Respublikos Konstitucijos 84 straipsnio papildymo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1379, 2003-03-20, Žin., 2003, Nr. 32-1316 (2003-04-02), i. k. 1031010ISTA0IX-1379
+Lietuvos Respublikos Konstitucijos 118 straipsnio pakeitimo įstatymas
