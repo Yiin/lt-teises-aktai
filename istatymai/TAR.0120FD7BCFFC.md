@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
+Suvestinė redakcija nuo 1995-09-27 iki 1997-07-08
+ 
+Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
+ 
+ 
 LIETUVOS RESPUBLIKOS
 TERITORIJOS ADMINISTRACINIŲ VIENETŲ IR JŲ RIBŲ
 Į S T A T Y M A S
@@ -209,12 +214,30 @@ Gyvenamosioms vietovėms pavadinimus savivaldybės tarybos teikimu suteikia ir k
 
 
 
-Gatvėms, pastatams, statiniams ir kitiems savivaldybių teritorijoje esantiems jų nuosavybės objektams pavadinimai suteikiami atitinkamų savivaldybių tarybų sprendimais, pritarus Valstybinei lietuvių kalbos komisijai.
+Gatvėms, pastatams, statiniams ir kitiems savivaldybių teritorijoje esantiems jų nuosavybės objektams pavadinimai suteikiami ir keičiami atitinkamų savivaldybių tarybų sprendimais, pritarus Valstybinei lietuvių kalbos komisijai.
+Straipsnio dalies pakeitimai:
+Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
+ 
 
 
 
 
 Valstybinės nuosavybės objektams pavadinimus suteikia ir juos keičia Lietuvos Respublikos Vyriausybė.
+
+
+
+
+Gyvenamųjų vietovių gatvėms priskirtų pastatų bei gyvenamųjų namų butų numerius suteikia ir keičia vietos savivaldos vykdomosios institucijos. Numerių suteikimo, keitimo ir apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė
+Papildyta straipsnio dalimi:
+Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
+ 
+
+
+
+
+Gatvių, pastatų, statinių ir kitų objektų pavadinimai įtraukiami į apskaitą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
  
 
 
@@ -301,3 +324,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
+Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 9 straipsnio papildymo
