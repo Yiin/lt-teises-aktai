@@ -30,13 +30,13 @@ PREVENCIJOS
 Į S T A T Y M A
 S 
  
- 
 1997 m. birželio 19 d. Nr. VIII-275
 Vilnius
 Nauja
 įstatymo redakcija:
-Nr. VIII-903,
-98.10.20, Žin., 1998, Nr.96-2658 (98.11.04)
+Nr. VIII-903, 98.10.20,
+Žin., 1998, Nr.96-2658 (98.11.04)
+ 
  
 PIRMASIS
 SKIRSNIS 
@@ -65,27 +65,23 @@ pavedimai bei kiti mokėjimo dokumentai.
 įstaigos - bankai, kredito unijos ir kitos įstaigos, veikiančios pagal
 Lietuvos banko išduotą licenciją. 
 5. Finansinės
-įstaigos - draudimo įmonės ir draudimo brokeriai, investicinės kintamojo
-kapitalo bendrovės, investicinių bendrovių valdymo įmonės ir depozitoriumai,
-finansų maklerių įmonės, investicijų valdymo bei konsultavimo įmonės. Lombardo
-ir pašto veikla šiame įstatyme prilyginama finansinės įstaigos veiklai.
- 
-[5 dalies redakcija nuo 2001 m. liepos 1
-d.:
-5. Finansinės
 įstaigos – draudimo įmonės ir draudimo brokeriai, investicinės kintamojo
 kapitalo bendrovės, investicinių bendrovių valdymo įmonės ir depozitoriumai,
 finansų maklerių įmonės, investicijų valdymo bei konsultavimo įmonės. Lombardo,
 azartinius lošimus organizuojančios bendrovės ir pašto veikla šiame įstatyme
-prilyginama finansinės įstaigos veiklai.]
+prilyginama finansinės įstaigos veiklai.
+ 
+[5 dalies redakcija nuo 2002 m.
+balandžio 1 d.:
+5. Finansinės įstaigos – draudimo įmonės ir draudimo brokeriai, investicinės kintamojo kapitalo bendrovės, investicinių bendrovių valdymo įmonės ir depozitoriumai, finansų maklerių įmonės. Lombardo, azartinius lošimus organizuojančios bendrovės ir pašto veikla šiame įstatyme prilyginama finansinės įstaigos veiklai.]
  
 6. Klientas
 - juridinis ar fizinis asmuo ar įmonė, neturinti juridinio asmens teisių,
-atliekanti operacijas pinigais su kredito ar finansine įstaiga ar kitu
-juridiniu asmeniu arba įmone, neturinčia juridinio asmens teisių, išskyrus
-valstybės ir savivaldos institucijas, kitas biudžetines įstaigas, Lietuvos
-banką bei valstybės ar savivaldybės fondus, užsienio valstybių diplomatines
-atstovybes ar konsulines įstaigas. 
+atliekanti operacijas pinigais su kredito ar finansine įstaiga ar kitu juridiniu
+asmeniu arba įmone, neturinčia juridinio asmens teisių, išskyrus valstybės ir
+savivaldos institucijas, kitas biudžetines įstaigas, Lietuvos banką bei
+valstybės ar savivaldybės fondus, užsienio valstybių diplomatines atstovybes ar
+konsulines įstaigas. 
 7. Operacijos
 pinigais - pinigų padėjimas ar priėmimas, paėmimas ar išdavimas, keitimas
 finansinėse ir kredito įstaigose, taip pat pinigų skolinimas, dovanojimas bei
@@ -99,6 +95,9 @@ Nr. VIII-1388,
 1999-11-04, Žin., 1999, Nr. 99-2845 (1999-11-24)
 Nr. IX-335,
 2001-05-22, Žin., 2001, Nr. 48-1659 (2001-06-06), įsigalioja nuo 2001-07-01
+Nr.
+IX-660,
+2001-12-17, Žin., 2001, Nr. 112-4079 (2001-12-30), įsigalioja nuo 2002-04-01
  
 ANTRASIS
 SKIRSNIS 
@@ -106,8 +105,7 @@ VALSTYBĖS
 INSTITUCIJOS, ATSAKINGOS UŽ PINIGŲ PLOVIMO PREVENCIJOS PRIEMONIŲ ĮGYVENDINIMĄ 
  
 3 straipsnis.
-Valstybės institucijos, atsakingos už pinigų plovimo prevencijos 
-priemonių
+Valstybės institucijos, atsakingos už pinigų plovimo prevencijos priemonių 
 įgyvendinimą 
 Lietuvos Respublikos
 Vyriausybė, mokesčių policija, Lietuvos bankas ir Muitinės departamentas prie
@@ -129,11 +127,12 @@ kompetenciją:
 1) renka ir
 registruoja šiame įstatyme nurodytą informaciją apie kliento operacijas
 pinigais ir klientą, atliekantį šias operacijas;                                                                                                                                  
-2) renka ir analizuoja
-informaciją, susijusią su pinigų plovimo prevencijos priemonių įgyvendinimu; 
-3) teikia
-informaciją teisėsaugos ir kitoms valstybės institucijoms šių motyvuotu
-reikalavimu apie kliento atliekamas operacijas pinigais; 
+2) renka ir
+analizuoja informaciją, susijusią su pinigų plovimo prevencijos priemonių
+įgyvendinimu; 
+3) teikia informaciją
+teisėsaugos ir kitoms valstybės institucijoms šių motyvuotu reikalavimu apie
+kliento atliekamas operacijas pinigais; 
 4) atlieka kvotą
 pinigų plovimo bylose; 
 5)
@@ -162,8 +161,8 @@ valstybės institucijų, kredito ir finansinių įstaigų, kitų juridinių asme
 prevencijos priemonių įgyvendinimu; 
 3) gauti iš
 valstybės institucijų, kredito ir finansinių įstaigų, kitų juridinių asmenų ir
-įmonių, neturinčių juridinio asmens teisių, informaciją, susijusią su pinigų plovimo
-prevencijos priemonių įgyvendinimu; 
+įmonių, neturinčių juridinio asmens teisių, informaciją, susijusią su pinigų
+plovimo prevencijos priemonių įgyvendinimu; 
 4) koordinuoti
 valstybės institucijų veiklą, susijusią su pinigų plovimo prevencijos priemonių
 įgyvendinimu; 
@@ -210,9 +209,9 @@ dienos, pateikti mokesčių policijai nepaisant operacijos pinigais dydžio.  
 asmenys, turintys teisę atlikti notarinius veiksmus, esant įtarimui, kad jų
 klientų sudaromi sandoriai gali būti susiję su pinigų plovimu, privalo kliento
 tapatybę patvirtinančius duomenis ir 12 straipsnio 1 dalyje nurodytą
-informaciją apie sudarytą sandorį nedelsdami, bet ne vėliau kaip per 3 darbo dienas
-nuo sandorio patvirtinimo dienos, pateikti mokesčių policijai nepaisant pagal
-sandorį kliento gaunamos ar mokamos pinigų sumos dydžio. 
+informaciją apie sudarytą sandorį nedelsdami, bet ne vėliau kaip per 3 darbo
+dienas nuo sandorio patvirtinimo dienos, pateikti mokesčių policijai nepaisant
+pagal sandorį kliento gaunamos ar mokamos pinigų sumos dydžio. 
 3. Kriterijus,
 kuriais vadovaujantis operacija pinigais laikoma įtartina, nustato Vyriausybė
 kartu su Lietuvos banku. 
@@ -261,19 +260,19 @@ klientu pabaigos.
 Informacijos pateikimas mokesčių policijai 
 1. Kredito ir
 finansinės įstaigos, atliekančios operacijas pinigais, privalo kliento tapatybę
-patvirtinančius duomenis ir informaciją apie atliktą operaciją pinigais
-pateikti mokesčių policijai, jeigu kliento vienkartinės operacijos pinigais
-arba kelių tarpusavyje susijusių operacijų suma viršija 50 000 litų arba ją
-atitinkančią sumą užsienio valiuta. Notarai ar asmenys, turintys teisę atlikti
-notarinius veiksmus, privalo kliento tapatybę patvirtinančius duomenis ir
-informaciją apie kliento sudarytą sandorį pranešti mokesčių policijai, jei
-pagal sandorį gaunama ar mokama pinigų suma viršija 50 000 litų ar ją
-atitinkančią sumą užsienio valiuta. Mokesčių policijai pateikiamoje
-informacijoje nurodomi kliento tapatybę patvirtinantys duomenys; jeigu
-operacija pinigais atliekama per atstovą, - ir atstovo tapatybę patvirtinantys
-duomenys; operacijos pinigais suma; valiuta, kuria atlikta operacija pinigais;
-operacijos pinigais atlikimo data; operacijos pinigais atlikimo būdas;
-subjektas, kurio naudai atlikta operacija pinigais. 
+patvirtinančius duomenis ir informaciją apie atliktą operaciją pinigais pateikti
+mokesčių policijai, jeigu kliento vienkartinės operacijos pinigais arba kelių
+tarpusavyje susijusių operacijų suma viršija 50 000 litų arba ją atitinkančią
+sumą užsienio valiuta. Notarai ar asmenys, turintys teisę atlikti notarinius
+veiksmus, privalo kliento tapatybę patvirtinančius duomenis ir informaciją apie
+kliento sudarytą sandorį pranešti mokesčių policijai, jei pagal sandorį gaunama
+ar mokama pinigų suma viršija 50 000 litų ar ją atitinkančią sumą užsienio
+valiuta. Mokesčių policijai pateikiamoje informacijoje nurodomi kliento
+tapatybę patvirtinantys duomenys; jeigu operacija pinigais atliekama per
+atstovą, - ir atstovo tapatybę patvirtinantys duomenys; operacijos pinigais
+suma; valiuta, kuria atlikta operacija pinigais; operacijos pinigais atlikimo
+data; operacijos pinigais atlikimo būdas; subjektas, kurio naudai atlikta
+operacija pinigais. 
 2. Draudimo
 įmonės praneša mokesčių policijai kliento ir draudžiamo asmens tapatybę
 patvirtinančius duomenis ir informaciją apie gautas draudimo įmokas, jeigu nuo
@@ -303,14 +302,8 @@ straipsnio 6 dalyje nurodyta išimtis netaikoma, jeigu kredito ar finansinės
 įstaigos klientas verčiasi: 
 1) teisinių
 paslaugų teikimu, advokato praktika, notaro veikla; 
-2) loterijų,
-bingo organizavimu ir vykdymu; 
- 
-[7 dalies 2 punkto redakcija nuo 2001 m.
-liepos 1 d.:
 2) loterijų
-organizavimu ir vykdymu;]
- 
+organizavimu ir vykdymu;
 3) veikla,
 susijusia su juodaisiais, spalvotaisiais arba tauriaisiais (retaisiais)
 metalais, brangakmeniais, juvelyriniais dirbiniais, meno kūriniais; 
@@ -343,8 +336,9 @@ Muitinės įstaigų veikla
 pinigų sumų kontrolę Vyriausybės nustatyta tvarka. 
 2. Muitinės
 įstaigos privalo registruoti kiekvieną grynųjų pinigų įvežimo į Lietuvos
-Respubliką ir išvežimo iš jos atvejį, jeigu įvežamų arba išvežamų grynųjų pinigų
-vienkartinė suma viršija 10 000 litų ar ją atitinkančią sumą užsienio valiuta. 
+Respubliką ir išvežimo iš jos atvejį, jeigu įvežamų arba išvežamų grynųjų
+pinigų vienkartinė suma viršija 10 000 litų ar ją atitinkančią sumą užsienio
+valiuta. 
 3. Muitinės
 įstaigos privalo nedelsdamos, bet ne vėliau kaip per 7 darbo dienas, pranešti
 mokesčių policijai, jeigu juridinis ar fizinis asmuo ar įmonė, neturinti
@@ -359,8 +353,7 @@ Lietuvos bankas ar komerciniai bankai bei įstatymų ar Lietuvos Respublikos
 tarptautinių sutarčių numatytus atvejus. 
                                                                                                                                                
 14 straipsnis.
-Asmenys, kredito ir finansinėse įstaigose atsakingi už pinigų 
-plovimo
+Asmenys, kredito ir finansinėse įstaigose atsakingi už pinigų plovimo
 prevencijos priemonių įgyvendinimą
 1. Kredito ir finansinių
 įstaigų vadovai privalo paskirti asmenis, kurie organizuotų šiame įstatyme
@@ -448,6 +441,16 @@ PINIGŲ
 PLOVIMO PREVENCIJOS ĮSTATYMO 2, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2001 m. liepos 1 d.
+ 
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-660,
+2001-12-17, Žin., 2001, Nr. 112-4079 (2001-12-30)
+PINIGŲ
+PLOVIMO PREVENCIJOS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Įstatymas
+įsigalioja nuo 2002 m. balandžio 1 d.
  
 ***
 Pabaiga ***
