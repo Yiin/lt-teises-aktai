@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4C2B9F5E31B7"
 
 # Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymas
 
+Suvestinė redakcija nuo 1992-01-12 iki 1992-07-14
+ 
+Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 12-0; Žin. 1991, Nr.3-78, i. k. 0911010ISTA000I-954
+ 
 LIETUVOS RESPUBLIKOS ĮSTATYMAS
  
  
@@ -24,7 +28,10 @@ DĖL PAPILDOMŲ SOCIALINIŲ GARANTIJŲ ŠEIMOMS ASMENŲ, NUKENTĖJUSIŲ KOVOJANT
 1 straipsnis. 
 
 
-Skirti maitintojo netekimo pensijas asmenų, žuvusių už Lietuvos Respublikos laisvę, šeimoms pagal Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo normas ir sąlygas, taikomas to įstatymo 14 straipsnio 2 dalyje išvardytiems asmenims.
+Skirti maitintojo netekimo pensijas asmenų, žuvusių už Lietuvos Respublikos laisvę, šeimoms, o asmenims, tapusiems invalidais kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, – invalidumo pensijas pagal Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymo normas ir sąlygas, taikomas to įstatymo 14 straipsnio pirmojoje ir antrojoje dalyse išvardytiems asmenims. 
+Straipsnio dalies pakeitimai:
+Nr. I-2198, 1992-01-12, Lietuvos aidas, 1992, Nr. 10-0 (1992-01-16); Žin., 1992, Nr. 3-38 (1992-01-31), i. k. 0921010ISTA00I-2198
+ 
 
 
 
@@ -64,6 +71,42 @@ Taikyti žuvusiųjų šeimų nariams, taip pat asmenims, kurie tapo invalidais d
 
 
 
+4 straipsnis.
+
+
+Išmokėti žuvusiųjų kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 dienomis vykdytos agresijos ir po to buvusių įvykių šeimoms 180 tūkst. rublių vienkartines kompensacijas. Kompensacija mokama žuvusiojo sutuoktiniui, vaikams (įvaikiams), tėvams (įtėviams) ir nedarbingiems išlaikytiniams lygiomis dalimis.
+
+
+
+
+Išmokėti asmenims, sužalotiems kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, tokio dydžio vienkartines kompensacijas: asmenims, kuriems padarytas sunkus kūno sužalojimas, – 90 tūkst. rublių, asmenims, kuriems padarytas apysunkis kūno sužalojimas, – 45 tūkst. rublių, asmenims, kuriems padarytas lengvas kūno sužalojimas, – 10 tūkst. rublių.
+
+
+
+
+Kompensacijos turi būti išmokėtos ne vėliau kaip per vieną mėnesį nuo atitinkamų dokumentų pateikimo Krašto apsaugos ministerijai ir ne vėliau kaip iki 1992 m. kovo 31 dienos.
+
+
+Papildyta straipsniu:
+Nr. I-2198, 1992-01-12, Lietuvos aidas, 1992, Nr. 10-0 (1992-01-16); Žin., 1992, Nr. 3-38 (1992-01-31), i. k. 0921010ISTA00I-2198
+ 
+
+
+
+
+5 straipsnis. 
+
+
+Asmenims, nukentėjusiems kovojant už Lietuvos Respublikos laisvę nuo įvykių, kurie buvo po 1991 m. sausio 11–13 dienomis vykdytos agresijos, šis įstatymas taikomas pagal atskirą Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą. 
+
+
+Papildyta straipsniu:
+Nr. I-2198, 1992-01-12, Lietuvos aidas, 1992, Nr. 10-0 (1992-01-16); Žin., 1992, Nr. 3-38 (1992-01-31), i. k. 0921010ISTA00I-2198
+ 
+
+
+
+
  
  
 LIETUVOS RESPUBLIKOS 
@@ -71,4 +114,14 @@ AUKŠČIAUSIOSIOS TARYBOS
 PIRMININKAS                                                                                                    V. LANDSBERGIS
  
 Vilnius, 1991 m. sausio 16 d. 
-Nr. I-954
+Nr. I-954 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2198, 1992-01-12, Lietuvos aidas, 1992, Nr. 10-0 (1992-01-16); Žin., 1992, Nr. 3-38 (1992-01-31), i. k. 0921010ISTA00I-2198
+Dėl Lietuvos Respublikos įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių kovojant už Lietuvos Respublikos laisvę nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo ir papildymo
