@@ -256,6 +256,34 @@ biudžeto.
 Transporto išlaidų kompensacijų mokėjimo tvarką nustato Vyriausybė arba jos
 įgaliota institucija.
  
+[7 straipsnio redakcija nuo
+2002 m. liepos 1 d.:
+7 straipsnis. Teisė į
+transporto išlaidų kompensaciją
+1. Invalidai, turintys
+sutrikusią judėjimo funkciją, turi teisę:
+1) kiekvieną mėnesį gauti 0,25 minimalaus gyvenimo lygio
+(MGL) dydžio transporto išlaidų kompensaciją;
+2)
+vieną kartą per 6 metus gauti iki 32 MGL dydžio specialių lengvųjų automobilių
+įsigijimo ir jų techninio pritaikymo išlaidų kompensaciją, jeigu šie asmenys
+gali patys vairuoti šiuos lengvuosius automobilius.
+2.
+Laikotarpiu, kai invalidas, turintis teisę gauti transporto išlaidų kompensaciją,
+atlieka bausmę laisvės atėmimo vietoje, ši kompensacija nemokama. Šis
+laikotarpis taip pat neįskaitomas specialių lengvųjų automobilių įsigijimo ir
+jų techninio pritaikymo išlaidų kompensacijai gauti.
+3.
+Kompensacijos, nustatytos šio straipsnio 1 dalyje, mokamos iš valstybės
+biudžeto.
+4.
+Transporto išlaidų kompensacijų mokėjimo tvarką nustato Vyriausybė arba jos
+įgaliota institucija.]
+Straipsnio pakeitimai:
+Nr. IX-919,
+2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21), įsigalioja nuo 2002-07-01
+ 
+ 
 TREČIASIS
 SKIRSNIS
 VEŽĖJŲ
@@ -279,16 +307,17 @@ dėl važiavimo tolimojo reguliaraus susisiekimo autobusais lengvatų, nustatyt�
 savivaldybių, kuriose įregistruotos šių vežėjų įmonės, biudžetų, nuo 2001 m.
 sausio 1 d. - iš valstybės biudžeto;
 4) dėl važiavimo
-vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir
-troleibusais lengvatų, nustatytų šio įstatymo 5 straipsnio 1, 2, 5 ir 6 dalyse, – iš savivaldybių, išdavusių
-šiems vežėjams leidimus vežti keleivius vietinio (miesto ir priemiestinio)
-reguliaraus susisiekimo autobusais ir troleibusais, biudžetų;
+vietinio (miesto ir priemiestinio)
+reguliaraus susisiekimo autobusais ir troleibusais lengvatų, nustatytų šio
+įstatymo 5 straipsnio 1, 2, 5 ir 6 dalyse, – iš savivaldybių, išdavusių šiems
+vežėjams leidimus vežti keleivius vietinio (miesto ir priemiestinio)
+reguliaraus susisiekimo autobusais ir
+troleibusais, biudžetų;
 5) dėl važiavimo
-vietinio (priemiestinio) reguliaraus susisiekimo autobusais, vežančiais keleivius per dviejų gretimų savivaldybių, iš kurių
-viena yra didžiųjų miestų - Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir
-Alytaus - savivaldybė, teritorijas, - iš miesto ir apie jį esančios
-savivaldybės biudžetų solidariai pagal
-tarpusavio susitarimą.
+vietinio (priemiestinio) reguliaraus susisiekimo autobusais, vežančiais
+keleivius per dviejų gretimų savivaldybių, iš kurių viena yra didžiųjų miestų -
+Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir Alytaus - savivaldybė, teritorijas, - iš miesto ir apie jį esančios
+savivaldybės biudžetų solidariai pagal tarpusavio susitarimą.
  
 KETVIRTASIS
 SKIRSNIS
@@ -301,8 +330,8 @@ NUOSTATOS
 m. gegužės 1 d., išskyrus 7 straipsnio 1 dalį, kuri įsigalioja nuo 2001 m.
 sausio 1 d.
  
-10 straipsnis. Įstatymo įgyvendinimo
-tvarka
+10 straipsnis. Įstatymo
+įgyvendinimo tvarka
 Vyriausybė iki 2000 m. balandžio
 30 d. nustato šio įstatymo įgyvendinimo tvarką.
  
@@ -344,11 +373,22 @@ Nr. IX-791,
 TRANSPORTO
 LENGVATŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+IX-919,
+2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21)
+TRANSPORTO
+LENGVATŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2002 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-04-09)
+Aušrinė Trapinskienė (2002-06-21)
                  
 autrap@lrs.lt
