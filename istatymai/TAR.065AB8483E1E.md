@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 Redagavo:
-Ramunė Lūžaitė (1998.01.26)
+Ramunė Lūžaitė (1999.08.24)
  
 Įstatymas
 paskelbtas: Žin., 1996, Nr.71-1706
@@ -79,6 +79,14 @@ Nr. VIII-614,
 LIETUVOS
 RESPUBLIKOS VISUOMENĖS INFORMAVIMO ĮSTATYMO 25 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+7.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. VIII-1308,
+99.07.07, Žin., 1999, Nr.66-2125 (99.07.30)
+LIETUVOS
+RESPUBLIKOS VISUOMENĖS INFORMAVIMO ĮSTATYMO 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
                  
@@ -93,13 +101,13 @@ VISUOMENĖS INFORMAVIMO
 
                      
 1996 m. liepos 2 d. Nr. I-1418
-                          
-     Vilnius
+                               
+Vilnius
                                     
 
  
-                               
-I SKYRIUS
+              
+                 I SKYRIUS
                          
 BENDROSIOS NUOSTATOS
      
@@ -116,8 +124,8 @@ straipsnis. Sąvokos ir apibrėžimai
  
      1.
 Visuomenės informavimas - veikla, kuria visų žiniai siekiama  pateikti  bet 
-kurio visuomenės  nario  turimą informaciją apie jį patį, jo aplinką ir
-gyvenimą, tautos ir pasaulio žinias apie praeitį, dabartį ir ateitį.
+kurio visuomenės  nario  turimą informaciją apie jį patį, jo aplinką ir gyvenimą,
+tautos ir pasaulio žinias apie praeitį, dabartį ir ateitį.
      2.
 Visuomenės informavimo priemonė - knyga, laikraštis, žurnalas, biuletenis ar
 kitas leidinys, televizijos, radijo programa, kino ar kita garso ir vaizdo
@@ -142,9 +150,9 @@ asmuo, nuosavybės teise vienas arba su  kitais  juridiniais ar fiziniais
 asmenimis valdantis informacijos visuomenei rengėją (platintoją).
      7.
 Radijo, televizijos stotis - viešosios informacijos rengėjas  arba  rengėjas ir
-platintojas,  rengiantis  ir nuosavybės  teise  sau  priklausančiais  ar  nuomojamais
-įrenginiais transliuojantis arba retransliuojantis radijo, televizijos
-programas.
+platintojas,  rengiantis  ir nuosavybės  teise  sau  priklausančiais  ar 
+nuomojamais įrenginiais transliuojantis arba retransliuojantis radijo,
+televizijos programas.
      8.
 Kabelinė televizija, radijas - televizijos, radijo stotis,  transliuojanti 
 arba  retransliuojanti  radijo, televizijos programas kabelinėmis priemonėmis.
@@ -204,8 +212,9 @@ sveikatą, garbę ir orumą,  privatų  gyvenimą, dorovę ar ginti  konstitu
 santvarką.
      3.
 Valstybės pareigūnai už trukdymą skleisti žinias visuomenės informavimo
-priemonėmis bei neteisėtą atsisakymą suteikti informaciją viešosios informacijos
-rengėjams  ir žurnalistams atsako pagal Lietuvos Respublikos įstatymus.
+priemonėmis bei neteisėtą atsisakymą suteikti informaciją viešosios
+informacijos rengėjams  ir žurnalistams atsako pagal Lietuvos Respublikos
+įstatymus.
      4. 
 Monopolizuoti  visuomenės  informavimo  priemones draudžiama.
      5.
@@ -227,18 +236,18 @@ Viešoji informacija turi būti pateikiama teisingai, tiksliai ir nešališkai.
      3.
 Neleidžiama persekioti viešosios informacijos rengėjo, platintojo,  jų 
 savininko ar  žurnalisto  už  paskelbtą informaciją, tačiau už šio įstatymo
-pažeidimus jie atsako įstatymų nustatyta tvarka. Draudžiama daryti įtaką
-viešosios informacijos  rengėjui,  platintojui,  jų  savininkui  ar žurnalistui
-verčiant neteisingai atspindėti įvykius, faktus. Parama  viešosios informacijos
+pažeidimus jie atsako įstatymų nustatyta tvarka. Draudžiama daryti įtaką viešosios
+informacijos  rengėjui,  platintojui,  jų  savininkui  ar žurnalistui verčiant
+neteisingai atspindėti įvykius, faktus. Parama  viešosios informacijos
 rengėjui, platintojui,  jų savininkui, žurnalistui gali būti teikiama tik pagal
 Labdaros ir paramos įstatymą bei kitus įstatymus.
      4.
 Viešosios informacijos rengėjo, platintojo ir jų savininkų santykiai
 reglamentuojami šio ir kitų įstatymų, norminių aktų ir šalių susitarimu.
      5.
-Žurnalistikos, mokslo, literatūros bei kitus meno kūrinius viešosios
-informacijos rengėjai, platintojai  ir žurnalistai  naudoja  vadovaudamiesi
-Lietuvos  Respublikos įstatymais.
+Žurnalistikos, mokslo, literatūros bei kitus meno kūrinius viešosios informacijos
+rengėjai, platintojai  ir žurnalistai  naudoja  vadovaudamiesi Lietuvos 
+Respublikos įstatymais.
      
      5
 straipsnis. Visuomenės informavimo laisvės teisinis ribojimas
@@ -258,25 +267,25 @@ asmens sveikatos (medicininę) paslaptį ir jos apsaugą;
 asmens teisių, jo privataus gyvenimo apsaugą.
      2.
 Vyriausybė, ministerijos, kitos valstybės institucijos ir savivaldybės neturi
-teisės savo teisės aktais siaurinti visuomenės informavimo laisvės. Vyriausybės,
-ministerijų, kitų valstybės institucijų, savivaldybių teisės aktų nuostatos,
-kurios siaurina visuomenės informavimo laisvę, reglamentuojamą šio ir kitų
-įstatymų, negalioja.
+teisės savo teisės aktais siaurinti visuomenės informavimo laisvės.
+Vyriausybės, ministerijų, kitų valstybės institucijų, savivaldybių teisės aktų
+nuostatos, kurios siaurina visuomenės informavimo laisvę, reglamentuojamą šio
+ir kitų įstatymų, negalioja.
      3.
-Seimas karo ar nepaprastosios padėties atveju įstatymu gali  nustatyti  viešosios
-informacijos  rengėjų  veiklos ribojimus, būtinus piliečių bei visuomenės
-interesų apsaugai.
+Seimas karo ar nepaprastosios padėties atveju įstatymu gali  nustatyti 
+viešosios informacijos  rengėjų  veiklos ribojimus, būtinus piliečių bei
+visuomenės interesų apsaugai.
      4.
 Stichinių ar gaivalinių nelaimių, didelių avarijų ar epidemijų, karo ar
-nepaprastosios padėties atveju viešosios informacijos rengėjai privalo nemokamai
-ir operatyviai skelbti oficialius valstybinius pranešimus.
+nepaprastosios padėties atveju viešosios informacijos rengėjai privalo
+nemokamai ir operatyviai skelbti oficialius valstybinius pranešimus.
      
      6
 straipsnis. Teisė gauti informaciją
  
      1.
 Kiekvienas žmogus Lietuvos Respublikoje turi teisę susipažinti su visais
-valstybės ar savivaldybių valdžios ir valdymo  institucijų  bei  kitų
+valstybės ar savivaldybių valdžios ir valdymo  institucijų  bei  kitų
 biudžetinių  organizacijų oficialiais dokumentais, išskyrus tuos, kurie
 įslaptinami įstatymų nustatyta tvarka.
      2.
@@ -287,11 +296,11 @@ raštu, nurodydami atsisakymo priežastį.
 Valstybės  pareigūnų  atsakomybę  už  nepagrįstą atsisakymą teikti informaciją
 arba neteisingos informacijos teikimą nustato įstatymai.
      4. 
-Politinės  partijos, politinės ir  visuomeninės, profsąjungų bei kitos
+Politinės  partijos, politinės ir  visuomeninės, profsąjungų bei kitos
 organizacijos savo įstatų nustatyta tvarka teikia žmonėms ir viešosios
 informacijos rengėjams oficialią  informaciją apie jų atstovaujamų 
-organizacijų veiklą,  išskyrus  tai, kas neskelbtina  pagal  Lietuvos Respublikos
-įstatymus.
+organizacijų veiklą,  išskyrus  tai, kas neskelbtina  pagal  Lietuvos
+Respublikos įstatymus.
      
      7
 straipsnis. Informacijos šaltinio paslaptis
@@ -329,9 +338,9 @@ gyvenimo apsaugą, išskyrus atvejus,  kai jų privatus gyvenimas gali turėti�
      4.
 Neleidžiama platinti pornografijos.
      5. 
-Jeigu  nesilaikoma  šio straipsnio  reikalavimų, kiekvienas Lietuvos
-Respublikos pilietis, valstybės valdžios ar  valdymo  institucijos, kitos 
-organizacijos  įstatymų nustatyta tvarka turi teisę kreiptis į teismą.
+Jeigu  nesilaikoma  šio straipsnio  reikalavimų, kiekvienas Lietuvos Respublikos
+pilietis, valstybės valdžios ar  valdymo  institucijos, kitos  organizacijos 
+įstatymų nustatyta tvarka turi teisę kreiptis į teismą.
      
      9
 straipsnis. Teisė ginti informacijos laisvę
@@ -368,8 +377,8 @@ Viešosios informacijos rengėjai privalo rūpintis kalbos kultūra.
 
                               
 III SKYRIUS
-   
-         VALSTYBĖS ATSAKOMYBĖ UŽ VISUOMENĖS INFORMAVIMĄ
+            
+VALSTYBĖS ATSAKOMYBĖ UŽ VISUOMENĖS INFORMAVIMĄ
      
      12
 straipsnis. Valstybės ir savivaldybių, valdžios ir valdymo
@@ -393,8 +402,8 @@ ar viešosios informacijos  rengėjams tvarką, vienodą  visoje  Lietuvos
 Respublikos teritorijoje, nustato Vyriausybė. Jei valstybės ir savivaldybės,
 valdžios ir valdymo institucijų bei biudžetinių organizacijų  pareigūnai 
 atsisako  pateikti  oficialią informaciją arba pateikia neteisingą, tokie jų 
-veiksmai užtraukia atsakomybę pagal Lietuvos Respublikos įstatymus, taip pat jie
-gali būti apskundžiami teismui.
+veiksmai užtraukia atsakomybę pagal Lietuvos Respublikos įstatymus, taip pat
+jie gali būti apskundžiami teismui.
      4.
 Niekas negali būti verčiamas platinti valstybės ir savivaldybių, valdžios ir
 valdymo institucijų bei kitų įstaigų informaciją, išskyrus įstatymų nustatytus
@@ -444,11 +453,14 @@ jų rūšies rinkoje.
      3. 
 Monopolinę padėtį visuomenės informavimo rinkoje apibrėžia Konkurencijos
 įstatymas.
-     4. 
-Valstybė  rūpinasi  investicijomis  viešosios informacijos rengimo ir platinimo
-srityje. Investavimo iš užsienio  visuomenės informavimo rinkoje  tvarką 
-nustato Užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas.
+4. Valstybė rūpinasi investicijomis viešosios
+informacijos rengimo ir platinimo srityje. Investavimo į visuomenės informavimo
+rinką sąlygas nustato Lietuvos Respublikos investicijų įstatymas.
  
+Straipsnio
+pakeitimai: 
+Nr. VIII-1308,
+99.07.07, Žin., 1999, Nr.66-2125 (99.07.30)
  
     
 17 straipsnis. Valstybės parama viešosios informacijos rengėjams ir 
@@ -460,10 +472,10 @@ platintojams
 informacijos rengėjų kultūrinę, šviečiamąją veiklą pagal pateiktas programas.
 Valstybės finansinė parama viešosios informacijos rengėjams, išskyrus lėšas jų
 leidžiamoms knygoms, kino ar kitai garso ir vaizdo produkcijai, yra teikiama
-per Spaudos, radijo ir televizijos rėmimo fondą. Į Fondą lėšas iš valstybės
-biudžeto kasmet skiria Seimas. Valstybės subsidijos ir mokesčių lengvatos
-teikiamos be išankstinių sąlygų. Spaudos, radijo ir televizijos rėmimo fondą
-įkuria kūrybinių sąjungų, viešosios informacijos rengėjų, teisininkų ir mokslininkų
+per Spaudos, radijo ir televizijos rėmimo fondą. Į Fondą lėšas iš valstybės biudžeto
+kasmet skiria Seimas. Valstybės subsidijos ir mokesčių lengvatos teikiamos be
+išankstinių sąlygų. Spaudos, radijo ir televizijos rėmimo fondą įkuria
+kūrybinių sąjungų, viešosios informacijos rengėjų, teisininkų ir mokslininkų
 sąjungų atstovų susirinkimas, kurį kviečia Lietuvos periodinės spaudos leidėjų
 asociacija, Radijo ir televizijos asociacija, Kabelinės televizijos asociacija,
 Lietuvos žurnalistų sąjunga ir Lietuvos žurnalistų draugija. Kiekviena šių
@@ -552,15 +564,15 @@ Reikalavime paneigti turi būti tiksliai nurodyta, kokios paskelbtos žinios
 neatitinka tikrovės, kada ir kur jos buvo paskelbtos, kokie paskelbtų žinių
 teiginiai žemina asmens garbę ir orumą. Paneigimai, neatitinkantys šios
 nuostatos reikalavimo, taip pat tais atvejais, kai reikalaujama paneigti
-paskelbtas žinias ne dėl jų esmės, o tik dėl formos, skelbiami viešosios
-informacijos rengėjo nuožiūra.
+paskelbtas žinias ne dėl jų esmės, o tik dėl formos, skelbiami viešosios informacijos
+rengėjo nuožiūra.
      3. 
 Viešosios informacijos rengėjas, gavęs  pagrįstą reikalavimą paneigti
 neatitinkančias tikrovės ar žeminančias garbę  ir orumą žinias, privalo
-paskelbti paneigimą  be komentarų, adekvačioje vietoje artimiausiame savo
-spaudos leidinyje, televizijos ar radijo laidoje. Vėlesnis paneigimas
-neatleidžia viešosios informacijos rengėjo nuo atsakomybės ir nėra prielaida
-bausmei sušvelninti.
+paskelbti paneigimą  be komentarų, adekvačioje vietoje artimiausiame savo spaudos
+leidinyje, televizijos ar radijo laidoje. Vėlesnis paneigimas neatleidžia
+viešosios informacijos rengėjo nuo atsakomybės ir nėra prielaida bausmei
+sušvelninti.
      
      21
 straipsnis. Žalos atlyginimas
@@ -569,9 +581,9 @@ straipsnis. Žalos atlyginimas
 Viešosios informacijos rengėjas, paskelbęs be asmens sutikimo žinias apie jo
 privatų gyvenimą, žeminančias jo garbę ir orumą (išskyrus šio įstatymo 8
 straipsnyje nustatytus atvejus), taip pat paskelbęs žinomai tikrovės
-neatitinkančias žinias, žeminančias asmens garbę ir orumą ir jų nepaneigęs,
-atlygina asmeniui padarytą moralinę žalą įstatymų nustatyta tvarka, tačiau
-moralinės žalos atlyginimo dydis negali viršyti 10000 litų.
+neatitinkančias žinias, žeminančias asmens garbę ir orumą ir jų nepaneigęs, atlygina
+asmeniui padarytą moralinę žalą įstatymų nustatyta tvarka, tačiau moralinės
+žalos atlyginimo dydis negali viršyti 10000 litų.
      2.
 Viešosios informacijos rengėjo šio įstatymo nustatyta tvarka paskelbtas
 paneigimas ir atsiprašymas teikia pagrindą teismui mažinti moralinės žalos
@@ -586,7 +598,8 @@ priteisti atlyginti padarytą moralinę žalą, tačiau šiuo atveju moralinės 
 atlyginimo dydis negali viršyti 1000 litų.
      4.
 Materialinės žalos atlyginimo dydį už paskelbtas tikrovės  neatitinkančias 
-žinias,  padariusias  nuostolių juridiniams ar fiziniams asmenims, nustato teismas.
+žinias,  padariusias  nuostolių juridiniams ar fiziniams asmenims, nustato
+teismas.
      
      22
 straipsnis. Atleidimas nuo žalos atlyginimo
@@ -604,8 +617,8 @@ mitinguose bei kituose renginiuose, o viešosios informacijos rengėjas
 neiškraipė kalbėjimo esmės ir konkrečių faktų. Šiuo atveju visa atsakomybė
 tenka renginių organizatoriams ir žinias paskelbusiems asmenims;
      3)
-anksčiau paskelbtos kitose visuomenės informavimo priemonėse,  jeigu  šios 
-žinios  nebuvo  paneigtos  jas paskelbusiose visuomenės informavimo priemonėse;
+anksčiau paskelbtos kitose visuomenės informavimo priemonėse,  jeigu  šios  žinios 
+nebuvo  paneigtos  jas paskelbusiose visuomenės informavimo priemonėse;
      4)
 paskelbtos tiesioginių radijo ar televizijos laidų dalyvių, nepavaldžių
 viešosios informacijos rengėjui;
@@ -621,8 +634,8 @@ visuomenės informavimo priemonėse.
      2.
 Šiais atvejais atsako tas, kas pirmas paskleidė tikrovės  neatitinkančias
 žinias.  Viešosios  informacijos rengėjas, paskleidęs tikrovės neatitinkančias
-žinias ir gavęs paneigimo tekstą, nedelsdamas privalo jį paskelbti  savo
-visuomenės informavimo priemonėje.
+žinias ir gavęs paneigimo tekstą, nedelsdamas privalo jį paskelbti  savo visuomenės
+informavimo priemonėje.
      
      23
 straipsnis. Žurnalistų ir leidėjų etikos kodeksas
@@ -690,10 +703,10 @@ su savo išvada supažindinti pareiškėjus bei viešosios informacijos rengėju
      4.
 Pripažinęs, jog pareiškėjo skundas yra pagrįstas, žurnalistų  etikos 
 inspektorius  kreipiasi  į  tikrovės neatitinkančias ir asmens garbę ir orumą
-žeidžiančias žinias išplatinusį  viešosios  informacijos  rengėją,  siūlydamas
-paskelbti paneigimą. Jei tai padaryti atsisakoma, žurnalistų etikos
-inspektorius skundą perduoda nagrinėti Žurnalistų ir leidėjų etikos komisijai
-ir dalyvauja jos posėdyje.
+žeidžiančias žinias išplatinusį  viešosios  informacijos  rengėją,  siūlydamas paskelbti
+paneigimą. Jei tai padaryti atsisakoma, žurnalistų etikos inspektorius skundą
+perduoda nagrinėti Žurnalistų ir leidėjų etikos komisijai ir dalyvauja jos
+posėdyje.
      5.
 Žurnalistų etikos inspektorius ne rečiau kaip kartą per metus atsiskaito Seimui
 už savo darbą.
@@ -715,9 +728,9 @@ licencijuojama. Terminuotas  licencijas  radijo bei  televizijos  stotims
 transliuoti ir retransliuoti programas suteikia Radijo ir televizijos komisija
 konkursų tvarka. Programos turinio, jos gamybos ir techninius reikalavimus,
 licencijų skaičių, jų galiojimo trukmę, licencijų mokesčio dydį, kuris
-pervedamas į Spaudos, radijo ir televizijos rėmimo fondą, bei kitas sąlygas
-nustato Radijo ir televizijos komisija ne mažesne kaip dviejų trečdalių
-komisijos narių balsų dauguma.
+pervedamas į Spaudos, radijo ir televizijos rėmimo fondą, bei kitas sąlygas nustato
+Radijo ir televizijos komisija ne mažesne kaip dviejų trečdalių komisijos narių
+balsų dauguma.
      
      27
 straipsnis. Radijo ir televizijos komisijos veikla ir jos sudarymo
@@ -729,13 +742,13 @@ Radijo ir televizijos komisija:
      1)
 skelbia ir vykdo radijo ir televizijos stočių bei kabelinių televizijų, radijų
 konkursus radijo ir televizijos programų transliavimo ir retransliavimo
-licencijoms gauti, pratęsia  licencijų galiojimo laiką,  skelbia  ir  vykdo valstybinėms 
-įmonėms priklausančių transliavimo  įrengimų nuomos konkursus radijo ir
-televizijos programoms transliuoti ir retransliuoti, tvirtina konkursų sąlygas,
-priima sprendimus dėl  konkursų  rezultatų.  Pirmenybė  teikiama  stotims,
-įsipareigojančioms rengti originalios kūrybos  kultūrinio, informacinio,
-šviečiamojo pobūdžio laidas arba tas programas, kurių numatomoje priėmimo
-zonoje dar netransliuoja kitos stotys;
+licencijoms gauti, pratęsia  licencijų galiojimo laiką,  skelbia  ir  vykdo
+valstybinėms  įmonėms priklausančių transliavimo  įrengimų nuomos konkursus
+radijo ir televizijos programoms transliuoti ir retransliuoti, tvirtina
+konkursų sąlygas, priima sprendimus dėl  konkursų  rezultatų.  Pirmenybė 
+teikiama  stotims, įsipareigojančioms rengti originalios kūrybos  kultūrinio,
+informacinio, šviečiamojo pobūdžio laidas arba tas programas, kurių numatomoje
+priėmimo zonoje dar netransliuoja kitos stotys;
      2) 
 kontroliuoja, kaip laikomasi konkursams pateiktų įsipareigojimų dėl programų
 struktūros ir turinio bei kitų konkursų reikalavimų, o atradusi pažeidimų,
@@ -795,7 +808,7 @@ Radijo ir televizijos komisija yra atskaitinga Seimui.
 straipsnis. Radijo ir televizijos komisijos veiklos finansavimas
  
      Radijo
-ir televizijos komisijos veiklai finansuoti radijo ir  televizijos,  kabelinės 
+ir televizijos komisijos veiklai finansuoti radijo ir  televizijos,  kabelinės 
 televizijos,  radijo  stočių savininkai kas mėnesį privalo pervesti į Radijo ir
 televizijos komisijos sąskaitą sumą, kurią nustato komisija, tačiau ši suma
 negali viršyti 1 procento įplaukų, gautų iš radijo ir televizijos  stoties
@@ -811,16 +824,16 @@ Lietuvos  nacionalinis radijas ir televizija  - valstybei nuosavybės teise
 priklausanti viešoji ne pelno institucija, veikianti pagal Lietuvos
 nacionalinio radijo ir televizijos įstatymą.
      2. 
-Lietuvos  nacionalinis  radijas  ir  televizija finansuojama iš valstybės
-biudžeto asignavimų, abonentinio mokesčio, pajamų, gautų už radijo ir
-televizijos  laidų pardavimą,  leidybą, rėmimo, labdaros lėšų ir komercinių
-pajamų.  Pajamų  gavimo  tvarką  reglamentuoja  Lietuvos nacionalinio  radijo 
-ir televizijos įstatymas.  Didėjant Lietuvos nacionalinio radijo ir televizijos
-įplaukoms iš abonentinio  mokesčio,  atitinkamai  mažinamas  Lietuvos
-nacionalinio radijo ir televizijos finansavimas iš valstybės biudžeto.
-Abonentinio mokesčio įvedimas ir su tuo susijusių valstybės asignavimų
-mažinimas nustatomas įstatymo. Reklamos laikas Lietuvos nacionalinio radijo ir
-televizijos programose mažinamas nuosekliai Seimo nustatyta tvarka.
+Lietuvos  nacionalinis  radijas  ir  televizija finansuojama iš valstybės biudžeto
+asignavimų, abonentinio mokesčio, pajamų, gautų už radijo ir televizijos  laidų
+pardavimą,  leidybą, rėmimo, labdaros lėšų ir komercinių pajamų.  Pajamų 
+gavimo  tvarką  reglamentuoja  Lietuvos nacionalinio  radijo  ir televizijos
+įstatymas.  Didėjant Lietuvos nacionalinio radijo ir televizijos įplaukoms iš
+abonentinio  mokesčio,  atitinkamai  mažinamas  Lietuvos nacionalinio radijo ir
+televizijos finansavimas iš valstybės biudžeto. Abonentinio mokesčio įvedimas
+ir su tuo susijusių valstybės asignavimų mažinimas nustatomas įstatymo.
+Reklamos laikas Lietuvos nacionalinio radijo ir televizijos programose
+mažinamas nuosekliai Seimo nustatyta tvarka.
     
 3. Aukščiausiasis Lietuvos nacionalinio radijo ir televizijos valdymo organas
 yra taryba , sudaroma 3 metams iš 15 asmenų. Savo atstovus į Lietuvos
