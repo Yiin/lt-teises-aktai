@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2003-07-01 iki 2004-07-26
+Suvestinė redakcija nuo 2004-07-27 iki 2007-12-14
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
  
@@ -400,7 +400,10 @@ KREDITO IR DEBETO PERVEDIMŲ ATLIKIMAS
 
 
 
-7. Atsiskaitymo už žemės ūkio produkciją įstatyme nustatytu atveju mokėjimo nurodymas priimamas, nors mokėtojas ir nepateikė finansinio padengimo.
+7. Atsiskaitymo už žemės ūkio produkciją įstatyme nustatytu atveju žemės ūkio produkcijos pardavėjo pateiktas mokėjimo nurodymas įvykdyti debeto pervedimą priimamas, nors mokėtojo sąskaitoje ir nėra pakankamai lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2404, 2004-07-15, Žin., 2004, Nr. 116-4336 (2004-07-27), i. k. 1041010ISTA0IX-2404
+ 
 
 
 
@@ -1087,3 +1090,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1596, 2003-06-05, Žin., 2003, Nr. 61-2753 (2003-06-27), i. k. 1031010ISTA0IX-1596
 Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2404, 2004-07-15, Žin., 2004, Nr. 116-4336 (2004-07-27), i. k. 1041010ISTA0IX-2404
+Lietuvos Respublikos mokėjimų įstatymo 7 straipsnio pakeitimo įstatymas
