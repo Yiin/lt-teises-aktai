@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2DC339105C33"
 
 # Lietuvos Respublikos muitų tarifų įstatymas
 
-Suvestinė redakcija nuo 1994-07-29 iki 1996-04-02
+Suvestinė redakcija nuo 1996-04-03 iki 1996-04-18
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 88-0; Žin. 1993, Nr.15-375, i. k. 0931010ISTA000I-138
  
@@ -153,10 +153,13 @@ IV. MUITŲ APSKAIČIAVIMAS IR MOKĖJIMAS
 
 11 straipsnis. 
 
-Lietuvos Respublikos muitinė muitą apskaičiuoja pagal eksporto, importo muitų tarifų normas, galiojančias krovinio eksporto-importo bei keleivio deklaracijų pateikimo dieną. Muito mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota valstybės institucija. 
+Muitai skaičiuojami pagal importo arba eksporto muitų tarifų normas, galiojančias importo arba eksporto bei keleivio muitinės deklaracijos priėmimo dieną. Jeigu nesilaikoma nustatytos muitinės procedūrų atlikimo tvarkos ir importo arba eksporto muitinės deklaracija laiku nepateikiama, muitai skaičiuojami pagal importo arba eksporto muitų tarifų normas, galiojančias tą dieną, kai ši deklaracija turėjo būti pateikta.
+
+Muitai mokami Lietuvos Respublikos Vyriausybės nustatyta tvarka ir terminais. Jeigu nesilaikoma nustatytos muitinės procedūrų atlikimo tvarkos ir importo arba eksporto muitinės deklaracija laiku nepateikiama, laikas, per kurį turi būti sumokėti muitai, skaičiuojamas nuo tos dienos, kai ši deklaracija turėjo būti pateikta.
 
 Straipsnio pakeitimai:
 Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
+Nr. I-1236, 1996-03-19, Žin., 1996, Nr. 30-732 (1996-04-03), i. k. 0961010ISTA00I-1236
  
 
 12 straipsnis. 
@@ -211,15 +214,21 @@ VI. MUITŲ GRĄŽINIMAS, IŠIEŠKOJIMAS, APMOKESTINIMAS IR ATSAKOMYBĖ UŽ MUIT�
 
 15 straipsnis. 
 
-Prekių ir kitų vertybių savininkui pareikalavus, nepagrįstai išieškoti muitai pagal Muitinės departamento prie Lietuvos Respublikos finansų ministerijos direktoriaus arba teismo sprendimą turi būti grąžinami per vienerius metus nuo muitų sumokėjimo dienos.
+Prašymai dėl nepagrįstai ir neteisingai apskaičiuotų muitų perskaičiavimo, sumokėtų (išieškotų) muitų grąžinimo paduodami sprendimą priėmusiai muitinei ne vėliau kaip per penkerius metus nuo muitų įforminimo dienos. Prašymų pateikimas nesustabdo ir nenaikina muitinės procedūros vykdytojo prievolės įvykdyti muitinės priimtą sprendimą.
+
+Per penkerius metus nuo muitų įforminimo dienos nepagrįstai ir neteisingai apskaičiuoti muitai perskaičiuojami, o sumokėti (išieškoti) muitai grąžinami Lietuvos Respublikos Vyriausybės arba jos įgaliotos valstybinės institucijos nustatyta tvarka.
+
+Straipsnio pakeitimai:
+Nr. I-1236, 1996-03-19, Žin., 1996, Nr. 30-732 (1996-04-03), i. k. 0961010ISTA00I-1236
  
 
 16 straipsnis. 
 
-Dėl prekių ir kitų vertybių savininko kaltės nesumokėtą muito sumą muitinė privalo išieškoti iš juridinių asmenų ir juridinio asmens teisių neturinčių įmonių, veikiančių Lietuvos Respublikoje, ne ginčo tvarka, o iš fizinių asmenų - įstatymų nustatyta tvarka per vienerius metus nuo muito įforminimo dienos. 
+Nesumokėtą muito sumą muitinė išieško iš juridinių asmenų ir juridinio asmens teisių neturinčių įmonių, įstaigų ir organizacijų, veikiančių Lietuvos Respublikoje, ne ginčo tvarka, o iš fizinių asmenų – įstatymų nustatyta tvarka per penkerius metus nuo muito įforminimo dienos.
 
 Straipsnio pakeitimai:
 Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
+Nr. I-1236, 1996-03-19, Žin., 1996, Nr. 30-732 (1996-04-03), i. k. 0961010ISTA00I-1236
  
 
 17 straipsnis. 
@@ -229,10 +238,11 @@ Jeigu Lietuvos Respublikos tarptautinėse sutartyse numatyta kita apmokestinimo 
 
 18 straipsnis. 
 
-Laiku nesumokėjus arba nesumokėjus muitų mokesčių, iš juridinių asmenų ir juridinio asmens teisių neturinčių įmonių, veikiančių Lietuvos Respublikoje, ne ginčo tvarka, o iš fizinių asmenų – įstatymų nustatyta tvarka muitinė privalo išieškoti trigubo dydžio baudą per vienerius metus nuo muito įforminimo dienos.
+Nesumokėjus muitų mokesčių arba laiku jų nesumokėjus, iš juridinių asmenų ir juridinio asmens teisių neturinčių įmonių, įstaigų ir organizacijų, veikiančių Lietuvos Respublikoje, ne ginčo tvarka, o iš fizinių asmenų – įstatymų nustatyta tvarka muitinė išieško nesumokėto muito dvigubo dydžio baudą per penkerius metus nuo muito įforminimo dienos.
 
 Straipsnio pakeitimai:
 Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
+Nr. I-1236, 1996-03-19, Žin., 1996, Nr. 30-732 (1996-04-03), i. k. 0961010ISTA00I-1236
  
 
 VII. BAIGIAMOSIOS NUOSTATOS
@@ -263,4 +273,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-537, 1994-07-12, Žin., 1994, Nr. 58-1130 (1994-07-29), i. k. 0941010ISTA000I-537
 Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos muitų tarifų įstatymo pakeitimo ir papildymo
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-1236, 1996-03-19, Žin., 1996, Nr. 30-732 (1996-04-03), i. k. 0961010ISTA00I-1236
+Lietuvos Respublikos muitų tarifų įstatymo 11, 15, 16 ir 18 straipsnių pakeitimo įstatymas
 
