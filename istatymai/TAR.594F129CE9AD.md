@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2000-10-11 iki 2000-12-31
+Suvestinė redakcija nuo 2001-01-01 iki 2002-03-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
  
@@ -61,7 +61,9 @@ Vilnius
 
 
 
-3. Išskyrus išimtis, kurias nustato Administracinių bylų teisenos įstatymas arba kiti įstatymai, apskričių administracinių ginčų komisijos sprendžia ginčus, kurie priskirti apygardų administracinių teismų kompetencijai, o Vyriausioji administracinių ginčų komisija - ginčus, kurie priskirti Aukštesniojo administracinio teismo kompetencijai.
+3. Išskyrus išimtis, kurias nustato Administracinių bylų teisenos įstatymas arba kiti įstatymai, apskričių administracinių ginčų komisijos sprendžia ginčus, kurie priskirti apygardų administracinių teismų kompetencijai, o Vyriausioji administracinių ginčų komisija – ginčus, kurie priskirti Vilniaus apygardos administracinio teismo papildomai kompetencijai.
+Straipsnio dalies pakeitimai:
+Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
  
 
 
@@ -142,18 +144,20 @@ Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010I
 
 
 
-3. Komisijos nesprendžia:
+3. Savivaldybės ir apskrities administracinių ginčų komisijos nesprendžia: 
 
 
-1) Administracinių bylų teisenos įstatymo 5 straipsnyje ir 6 straipsnio 2 dalyje nurodytų ginčų (bylų);
+1) Administracinių bylų teisenos įstatymo 16 straipsnyje, 18 straipsnio 2 ir 3 dalyse, 19 straipsnyje ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų; 
 
 
 
 
-2) administracinių ginčų, kuriems nagrinėti įstatymai numato kitokią tvarką. 
+2) administracinių ginčų, kuriems nagrinėti įstatymai numato kitokią tvarką.
+
+
+Straipsnio dalies pakeitimai:
+Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
  
-
-
 
 
 
@@ -228,18 +232,20 @@ Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010I
 
 
 
-3. Komisija nesprendžia:
+3. Vyriausioji administracinių ginčų komisija nesprendžia: 
 
 
-1) Administracinių bylų teisenos įstatymo 5 straipsnyje ir 7 straipsnio 2 dalyje nurodytų ginčų (bylų);
+1) Administracinių bylų teisenos įstatymo 16 straipsnyje, 18 straipsnyje, 19 straipsnio 2 ir 3 dalyse ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų;
 
 
 
 
 2) administracinių ginčų, kuriems nagrinėti įstatymai numato kitokią tvarką.
+
+
+Straipsnio dalies pakeitimai:
+Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
  
-
-
 
 
 
@@ -294,13 +300,20 @@ Su skundu (prašymu) į atitinkamą administracinių ginčų komisiją jos kompe
 
 
 
-13 straipsnis. Administracinių ginčų nagrinėjimo terminai
+13 straipsnis. Administracinių ginčų nagrinėjimo terminai 
 
 
-Administracinių ginčų komisijai paduoti skundai (prašymai) turi būti išnagrinėti ir sprendimai dėl jų priimti ne vėliau kaip per 14 dienų nuo jų gavimo.
+1. Administracinių ginčų komisijai paduoti skundai (prašymai) turi būti išnagrinėti ir sprendimai dėl jų priimti ne vėliau kaip per 14 dienų nuo jų gavimo. 
+
+
+
+
+2. Prireikus motyvuotu komisijos sprendimu bendras skundo nagrinėjimo terminas gali būti pratęstas dar 14 dienų.
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
  
-
-
 
 
 
@@ -362,7 +375,9 @@ Administracinių ginčų komisija, nagrinėdama skundus (prašymus), nei turtin�
 
 
 
-2. Vyriausiosios administracinių ginčų komisijos sprendimas per 20 dienų nuo jo gavimo dienos gali būti apskųstas Aukštesniajam administraciniam teismui.
+2. Vyriausiosios administracinių ginčų komisijos sprendimas per 20 dienų nuo jo gavimo dienos gali būti apskųstas Vilniaus apygardos administraciniam teismui. 
+Straipsnio dalies pakeitimai:
+Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
  
 
 
@@ -370,13 +385,15 @@ Administracinių ginčų komisija, nagrinėdama skundus (prašymus), nei turtin�
 
 
 
-19 straipsnis. Asmenys, turintys teisę skųsti administracinių ginčų komisijų sprendimus
+19 straipsnis. Subjektai, turintys teisę skųsti administracinių ginčų komisijų sprendimus
 
 
-Visų administracinių ginčų komisijų sprendimus skųsti administraciniams teismams turi teisę tik asmenys ir kiti subjektai, kurių teisės viešojo administravimo srityje buvo pažeistos.
+Ginčo šalis, nesutinkanti su administracinių ginčų komisijos sprendimu, turi teisę skųsti tą sprendimą atitinkamam apygardos administraciniam teismui. 
+
+
+Straipsnio pakeitimai:
+Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
  
-
-
 
 
 
