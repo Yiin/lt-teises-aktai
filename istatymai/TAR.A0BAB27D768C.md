@@ -100,7 +100,6 @@ pakeitimai:
 Nr. VIII-770,
 1998 06 04, Žin., 1998, Nr. 55-1520 (1998 06 17)
  
- 
 6 straipsnis.
 Vyriausybės ataskaitos apie nacionalinio saugumo sistemos plėtrą 
 Vyriausybė kasmet ne vėliau kaip
@@ -455,12 +454,12 @@ Gynybos visuotinumas reiškia, kad
 Lietuvą ginklu gina valstybės ginkluotosios pajėgos, kad gynybai panaudojami
 valstybės ištekliai, kad kiekvienas pilietis ir Tauta priešinasi visais
 įmanomais būdais. 
-Gynybos besąlyginumas reiškia,
-kad Lietuvos gynyba nėra saistoma jokių sąlygų ir kad niekas negali varžyti
-Tautos ir kiekvieno piliečio teisės priešintis agresoriui, okupantui ir bet
-kam, kas prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos
-vientisumą ir konstitucinę santvarką. Siekdama tarptautinės pagalbos gynybai,
-Lietuva ginasi ir priešinasi pati, nelaukdama, kada toji pagalba bus suteikta.
+Gynybos besąlyginumas reiškia, kad
+Lietuvos gynyba nėra saistoma jokių sąlygų ir kad niekas negali varžyti Tautos
+ir kiekvieno piliečio teisės priešintis agresoriui, okupantui ir bet kam, kas
+prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos vientisumą
+ir konstitucinę santvarką. Siekdama tarptautinės pagalbos gynybai, Lietuva
+ginasi ir priešinasi pati, nelaukdama, kada toji pagalba bus suteikta.
  
 Antrasis skirsnis
 BENDROSIOS
@@ -649,7 +648,6 @@ Nr. VIII-770,
 Nr. VIII-1026,
 1999 01 14, Žin., 1999, Nr. 11-245 (1999 01 27)
  
- 
 II
 DALIS
 RIZIKOS
@@ -751,8 +749,8 @@ pažeidinėjimai bei Konstitucijos nenumatyti jų apribojimai;
 - ilgalaikių nacionalinių tikslų
 nepaisymas valstybės politikoje. 
 EKONOMINIAI: 
-- darbo vietų, gamybos mastų ir nacionalinio
-produkto sumažėjimas iki kritinio lygio; 
+- darbo vietų, gamybos mastų ir
+nacionalinio produkto sumažėjimas iki kritinio lygio; 
 - ūkio struktūrinis ir
 technologinis atsilikimas; 
 - ekonomikos kriminalizacija;
@@ -837,9 +835,9 @@ prisiimti savąją dalį įsipareigojimų. Lietuva dalyvauja Jungtinių Tautų
 (JT/UN), Europos Tarybos (ET/CE), Europos saugumo ir bendradarbiavimo
 organizacijos (ESBO/OSCE), Šiaurės Atlanto Bendradarbiavimo Tarybos
 (ŠABT/NACC), Šiaurės Atlanto Asamblėjos (ŠAA/NAA) ir kitų tarptautinių
-organizacijų, kurių paskirtis - užtikrinti taiką, stiprinti saugumą ir stabilumą
-Europoje, veikloje, taip pat dalyvauja taikos palaikymo misijose ir kitose
-akcijose.
+organizacijų, kurių paskirtis - užtikrinti taiką, stiprinti saugumą ir
+stabilumą Europoje, veikloje, taip pat dalyvauja taikos palaikymo misijose ir
+kitose akcijose.
  
 TrečiasIS skirsnis
 NARYSTĖ
@@ -946,51 +944,54 @@ VALSTYBINĖS SAUGUMO STIPRINIMO PROGRAMOS
  
 Svarbiausios ilgalaikės
 nacionalinio saugumo stiprinimo valstybinės programos: 
-- krašto apsaugos sistemos ir
+– krašto apsaugos sistemos ir
 gynybai reikalingos infrastruktūros plėtotės; 
-- kariuomenės ir jos aktyvaus
+– kariuomenės ir jos aktyvaus
 rezervo parengimo bei apginklavimo; 
-- valstybės sienos apsaugos
+– valstybės sienos apsaugos
 sistemos plėtotės; 
-- oro erdvės kontrolės sistemos
-plėtotės ir jos integravimo į vieningą Europos kontrolės sistemą; 
-- karinių specialistų rengimo,
+– oro erdvės kontrolės sistemos
+plėtotės ir jos integravimo į bendrą Europos kontrolės sistemą; 
+– karinių specialistų rengimo,
 karinio švietimo ir karo mokslo plėtojimo; 
-- piliečių mokymo ir rengimo
+– piliečių mokymo ir rengimo
 pasipriešinimui bei civilinei saugai; 
-- ekonominių grėsmių mažinimo ir
+– ekonominių grėsmių mažinimo ir
 ekonominio saugumo stiprinimo, krašto ūkio funkcionavimo ekstremaliomis
 sąlygomis; 
-- valstybės valdžios institucijų
+– valstybės valdžios institucijų
 funkcionavimo ekstremaliomis sąlygomis; 
-- valstybės strateginių atsargų
+– valstybės strateginių atsargų
 kaupimo ir išlaikymo; 
-- vientisos civilinės saugos ir
+– vientisos civilinės saugos ir
 gelbėjimo sistemos plėtotės; 
-- ekologinio saugumo užtikrinimo;
+– ekologinio saugumo užtikrinimo;
 
-- Ignalinos AE saugios eksploatacijos
-užtikrinimo iki jos eksploatacijos pabaigos ir po to; 
-- energetikos sistemos stabilumo
+– Ignalinos AE saugios
+eksploatacijos užtikrinimo iki jos eksploatacijos pabaigos ir po to; 
+– energetikos sistemos stabilumo
 ir integravimosi į Europos energetikos sistemas; 
-- geležinkelio rekonstravimo
+– geležinkelio rekonstravimo
 pagal europinės vėžės standartus, jo integravimo į Europos transporto sistemą; 
-- svarbiausių nacionalinių
+– svarbiausių nacionalinių
 išteklių tausojimo ir apsaugos; 
-- natūralaus gyventojų prieaugio
+– natūralaus gyventojų prieaugio
 palaikymo; 
-- kovos su nusikalstamumu; 
-- kovos su korupcija. 
+– kovos su nusikalstamumu; 
+– kovos su korupcija;
+– narkotikų kontrolės ir
+narkomanijos prevencijos.
 Prireikus parengiamos ir kitos
-programos. Saugumo stiprinimo valstybines programas, išskyrus valstybės paslaptį
-sudarančias jų dalis, Vyriausybė pateikia Seimui. Dėl pateiktų programų
-Seimas priima nutarimą. Programos finansuojamos iš valstybės biudžeto ar kitų
-įstatymuose numatytų šaltinių.
+programos. Saugumo stiprinimo valstybines programas, išskyrus valstybės
+paslaptį sudarančias jų dalis, Vyriausybė pateikia Seimui. Dėl pateiktų
+programų Seimas priima nutarimą. Programos finansuojamos iš valstybės biudžeto
+ar kitų įstatymuose numatytų šaltinių.
 Skyriaus
 pakeitimai:
 Nr. VIII-770,
 1998 06 04, Žin., 1998, Nr. 55-1520 (1998 06 17)
- 
+Nr. IX-1360,
+2003-03-13, Žin., 2003, Nr. 32-1309 (2003-04-02)
  
 III
 DALIS
@@ -1026,7 +1027,6 @@ Skyriaus
 pakeitimai:
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr.
 92-2849 (2000 10 31)
- 
  
 13
 skyrius
@@ -1103,8 +1103,8 @@ projektus;
 3) rengia išvadas ir pasiūlymus
 Vyriausybei aktualiais nacionalinio saugumo stiprinimo klausimais.
 Nacionalinio saugumo strateginio
-planavimo grupė bendradarbiauja su Krizių valdymo centru ir naudojasi jo
-teikiama informacija bei rekomendacijomis.
+planavimo grupė bendradarbiauja su Krizių valdymo centru ir naudojasi jo teikiama
+informacija bei rekomendacijomis.
 Vyriausybės įsteigtas Krizių
 valdymo centras yra pagrindinis valstybės įvairaus pobūdžio krizių valdymo
 strateginiu lygmeniu štabas. Krizių valdymo centro uždaviniai yra:
@@ -1189,13 +1189,14 @@ apsaugos tarnybos, policijos dalinių pasirengimo ir dalyvavimo krašto gynyboje
 mobilizacijos; vieningos civilinės saugos ir gelbėjimo sistemos; piliečių
 rengimo pasipriešinimui, įskaitant institucinę mokymo struktūrą; Valstybės
 gynimo tarybos; kariškių pareigų, teisių ir atsakomybės; kolaboravimo veikų ir
-atsakomybės už jas; valstybės paslapčių apsaugos; Valstybės saugumo departamento
-veiklos: žvalgybos, kontržvalgybos ir kovos su ardomąja veikla; operatyvinės
-veiklos; Ginklų fondo ir kitas.
+atsakomybės už jas; valstybės paslapčių apsaugos; Valstybės saugumo
+departamento veiklos: žvalgybos, kontržvalgybos ir kovos su ardomąja veikla;
+operatyvinės veiklos; Ginklų fondo ir kitas.
 Seimas priima įstatymus,
 tvirtinančius kariuomenės ir policijos drausmės statutus, nustatančius arešto
 pagrindus ir teisines procedūras.
-Skirsnio pakeitimai:
+Skirsnio
+pakeitimai:
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr.
 92-2849 (2000 10 31)
  
@@ -1254,8 +1255,8 @@ politiką. Krašto apsaugos ministerijos administracija formuojama iš
 ministerijos funkcijoms vykdyti reikalingų civilių pareigūnų ir karinių reikalų
 specialistų. Krašto apsaugos ministerijos administracija ir kariuomenės vadui
 pavaldus Gynybos štabas krašto gynybos sistemos plėtojimo ir valdymo funkcijas
-vykdo vieningai. Ministerijos administracijos padaliniai ir Gynybos štabas funkcijas
-vykdo vieningai bendradarbiaudami ir jų nedubliuodami. 
+vykdo vieningai. Ministerijos administracijos padaliniai ir Gynybos štabas
+funkcijas vykdo vieningai bendradarbiaudami ir jų nedubliuodami. 
 Krašto apsaugos ministerijos ir
 Gynybos štabo funkcijas nustato ir paskirsto įstatymai ir kiti teisės aktai
 vadovaujantis krašto apsaugos sistemos valdymo integralumo principu. 
@@ -1272,8 +1273,8 @@ alternatyviąją tarnybą. Šiam tikslui ministerija sudaro civilines teritorine
 šaukimo komisijas. Aktyviojo rezervo karių apskaitą ir šaukimą į rezervo
 tarnybą vykdo kariuomenės štabai. 
 Krašto apsaugos ministerijos
-administracija organizuoja kariuomenės bendradarbiavimą su visuomene ir civilinėmis
-institucijomis. 
+administracija organizuoja kariuomenės bendradarbiavimą su visuomene ir
+civilinėmis institucijomis. 
 Skirsnio
 pakeitimai:
 Nr. VIII-770,
@@ -1296,8 +1297,8 @@ nesant kariuomenės vado, nustato įstatymai.
 Svarbiausias kariuomenės vado
 uždavinys taikos metu - parengti visas reguliariosios kariuomenės rūšis,
 Savanorių pajėgas ir aktyvųjį kariuomenės rezervą ginkluotai valstybės gynybai,
-vadovauti valstybės teritorijos apsaugai, teritorinės jūros, ekonominės zonos ir
-oro erdvės kontrolei bei apsaugai.
+vadovauti valstybės teritorijos apsaugai, teritorinės jūros, ekonominės zonos
+ir oro erdvės kontrolei bei apsaugai.
 Kariuomenės vadas atsako, kad
 būtų iš anksto parengti kariuomenės dalinių veiksmų planai netikėto užpuolimo
 ir kitais neatidėliotinais atvejais. 
@@ -1372,12 +1373,12 @@ tarnybos pareigoms vykdyti ir kariniam paklusnumui užtikrinti. Šie apribojimai
 taikomi dėl nuomonės reiškimo, privataus gyvenimo apsaugos, tarnybos vietos
 garantijų, susivienijimų laisvės, grupinių peticijų, gyvenimo vietos
 pasirinkimo, gyvenamojo būsto neliečiamybės. 
-Kariuomenėje veikia karo kapelionų
-institutas. Politinių partijų veikla kariuomenėje neleidžiama. 
+Kariuomenėje veikia karo
+kapelionų institutas. Politinių partijų veikla kariuomenėje neleidžiama. 
 Kariui ar kariuomenės daliniui
 negali būti duotas įsakymas, prieštaraujantis įstatymams. Joks kariuomenėje
-tarnaujantis asmuo negali būti verčiamas tarnauti kitam asmeniui ar asmenų grupei,
-išskyrus oficialią pareigą.
+tarnaujantis asmuo negali būti verčiamas tarnauti kitam asmeniui ar asmenų
+grupei, išskyrus oficialią pareigą.
  
 AntrasIS skirsnis
 KARIUOMENĖS
@@ -1392,8 +1393,8 @@ Reguliariosios pajėgos
 formuojamos Konstitucijos nustatytos privalomosios karo tarnybos, taip pat
 profesinės karo tarnybos pagrindais. Privalomoji karo tarnyba susideda iš
 pradinės tarnybos reguliariosiose pajėgose ir paskesnės tarnybos aktyviajame
-rezerve ir yra skirta parengti piliečiams ginkluotai Lietuvos gynybai. Privalomoji
-karo tarnyba atliekama tik kariuomenėje.
+rezerve ir yra skirta parengti piliečiams ginkluotai Lietuvos gynybai.
+Privalomoji karo tarnyba atliekama tik kariuomenėje.
 Privalomosios
 tarnybos reguliariosiose pajėgose ir aktyviajame rezerve trukmę, periodiškumą
 ir kitas sąlygas nustato įstatymai. Įstatymai taip pat nustato darbo vietos
@@ -1402,10 +1403,10 @@ apsaugos garantijas privalomosios (pradinės ir rezervo) tarnybos metu.
 piliečio, kuriam pradinė privalomoji karo tarnyba buvo atidėta, nepriekaištinga
 ir įstatymo nustatytos trukmės savanoriškoji krašto apsaugos tarnyba
 prilyginama pradinei privalomajai karo tarnybai. Įstatymai nustato atvejus ir
-tvarką, kai tarnyba Savanorių pajėgose gali būti prilyginta privalomajai
-tarnybai aktyviajame rezerve. Įstatymai nustato aukštųjų ir aukštesniųjų
-specialiųjų mokyklų studentų karinio apmokymo ir pirminės tarnybos trukmę bei
-atlikimo tvarką. 
+tvarką, kai tarnyba Savanorių pajėgose gali būti prilyginta privalomajai tarnybai
+aktyviajame rezerve. Įstatymai nustato aukštųjų ir aukštesniųjų specialiųjų
+mokyklų studentų karinio apmokymo ir pirminės tarnybos trukmę bei atlikimo
+tvarką. 
 Karo padėties, mobilizacijos ir
 karo atveju tarnybos trukmė neribojama.
 Yra dvi rezervo stadijos: tarnyba
@@ -1446,7 +1447,6 @@ pakeitimai:
 Nr. VIII-770,
 1998 06 04, Žin., 1998, Nr. 55-1520 (1998 06 17)
  
- 
 TrečiasIS skirsnis
 KRAŠTO
 APSAUGOS SAVANORIŲ PAJĖGOS
@@ -1473,16 +1473,16 @@ Nr. VIII-770,
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr.
 92-2849 (2000 10 31)
  
- 
 KetvirtasIS skirsnis
 KARO
 AKADEMIJA
  
-Karo akademija yra karininkų rengimo
-ir jų karinės kvalifikacijos kėlimo institucija, pavaldi krašto apsaugos
-ministrui ir kariuomenės vadui. Biudžeto lėšos Akademijai finansuoti skiriamos
-Krašto apsaugos ministerijai. Bendruosius aukštojo mokslo reikalavimus karo
-akademijos studentams nustato Švietimo ir mokslo ministerija. 
+Karo akademija yra karininkų
+rengimo ir jų karinės kvalifikacijos kėlimo institucija, pavaldi krašto
+apsaugos ministrui ir kariuomenės vadui. Biudžeto lėšos Akademijai finansuoti
+skiriamos Krašto apsaugos ministerijai. Bendruosius aukštojo mokslo
+reikalavimus karo akademijos studentams nustato Švietimo ir mokslo ministerija.
+
 Krašto apsaugos ministerija,
 atsižvelgdama į NATO narių ir kitų Europos valstybių patirtį bei Lietuvos
 karininkų poreikius, parengia ir pateikia Seimui aprobuoti Lietuvos karininkų
@@ -1495,8 +1495,9 @@ Penktasis skirsnis
 KARIUOMENĖS
 PANAUDOJIMAS TAIKOS METU 
  
-Taikos metu Lietuvos kariuomenė už
-Lietuvos Respublikos teritorijos ribų gali būti panaudota tik Seimui leidus. 
+Taikos metu Lietuvos kariuomenė
+už Lietuvos Respublikos teritorijos ribų gali būti panaudota tik Seimui leidus.
+
 Nepaprastosios padėties atveju
 kariuomenė gali būti pasiųsta padėti policijai, kai reikia užkirsti kelią
 antikonstituciniams smurtiniams veiksmams ar juos stabdyti. Įsakymą pasiųsti
@@ -1598,7 +1599,6 @@ pakeitimai:
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr.
 92-2849 (2000 10 31)
  
- 
 20
 skyrius
 VALSTYBĖS
@@ -1606,8 +1606,8 @@ SAUGUMO DEPARTAMENTAS
  
 Valstybės saugumo departamentas
 yra Seimui ir Respublikos Prezidentui atskaitinga institucija, kurios paskirtis
-- apsaugoti nuo pasikėsinimų valstybę, jos suverenitetą ir konstitucinę
-santvarką. 
+- apsaugoti nuo pasikėsinimų valstybę, jos suverenitetą ir konstitucinę santvarką.
+
 Valstybės saugumo departamento
 uždaviniai - vykdyti užsienio žvalgybą ir kontržvalgybą, laiku atskleisti
 veikas, keliančias grėsmę valstybės saugumui, suverenitetui, teritorijos
@@ -1707,7 +1707,6 @@ pakeitimai:
 Nr. VIII-770,
 1998 06 04, Žin., 1998, Nr. 55-1520 (1998 06 17)
  
- 
 22
 skyrius
 GINKLŲ
@@ -1763,7 +1762,7 @@ Nacionalinio saugumo sistemos pagrindais vadovaujamasi ir jie išplėtojami
 įstatymuose ir kituose teisės aktuose pertvarkant ir plėtojant valstybės
 nacionalinio saugumo institucijas ir tobulinant jų veiklą. 
  
-_______________
+____________________
  
 Pakeitimai:
  
@@ -1801,7 +1800,18 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja nuo 2000 m. lapkričio 1 d.
  
+5.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-1360,
+2003-03-13, Žin., 2003, Nr. 32-1309 (2003-04-02)
+NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO
+PRIEDĖLIO 11 SKYRIAUS PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000 11 14)
+Redagavo:
+Aušrinė Trapinskienė (2003-04-02)
+                 
+autrap@lrs.lt
