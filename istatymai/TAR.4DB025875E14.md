@@ -13,12 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14"
 
 # Lietuvos Respublikos įmonių rejestro įstatymas
 
-@D1=19900731;D2=19941215;D3=19950719
+Redaguota: 1996 04 19
 
-@D1=19900731;D2=19941215;D3=19950719
-     Redaguota: 1995
-07 19
-     G
+     Redaguota: 1996
+04 19
+ 
      Pakeitimai:
  
      1.Lietuvos
@@ -31,7 +30,7 @@ Nr.8-218;
 RESPUBLIKOS ĮMONIŲ REJESTRO ĮSTATYMO
      PAPILDYMO
  
-     2.Lietuvos
+     2.Lietuvos
 Respublikos 1993 06 01;
      įstatymas
 Nr.1-169,
@@ -48,7 +47,7 @@ Respublikos 1993 11 09;
 Nr.1-300,
      Žin., 1993,
 Nr.62-1169;
-     DĖL KAI KURIŲ
+     DĖL KAI KURIŲ
 LIETUVOS RESPUBLIKOS ĮSTATYMŲ,
     
 REGLAMENTUOJANČIŲ ĮMONIŲ VEIKLĄ, PAKEITIMO IR PAPILDYMO
@@ -74,8 +73,8 @@ RESPUBLIKOS ĮMONIŲ REJESTRO ĮSTATYMO
      PAKEITIMO IR
 PAPILDYMO
  
-     6.Lietuvos Respublikos
-1995 07 19
+     6.Lietuvos
+Respublikos 1995 07 19
      įstatymas
 Nr.1-1017;
      Žin., 1994, Nr.
@@ -85,6 +84,17 @@ RESPUBLIKOS ĮMONIŲ REJESTRO ĮSTATYMO
      PAKEITIMO IR
 PAPILDYMO
  
+     7.Lietuvos
+Respublikos 1996 03 28
+     įstatymas
+Nr.1-1254;
+     Žin., 1996, Nr.
+35-861
+     LIETUVOS
+RESPUBLIKOS ĮMONIŲ REJESTRO ĮSTATYMO
+     5 STRAIPSNIO 
+PAPILDYMO ĮSTATYMAS
+ 
  
                      
 LIETUVOS RESPUBLIKOS
@@ -92,8 +102,8 @@ LIETUVOS RESPUBLIKOS
                         
 ĮMONIŲ REJESTRO
  
-                        Į
-S T A T Y M A S
+                       
+Į S T A T Y M A S
  
  
      1 straipsnis.
@@ -176,11 +186,11 @@ vadovauja teisinę registraciją atliekantiems
 rejestro
 tvarkytojams, kontroliuoja jų darbą.";
     3. 
-Aukštesniosios   pakopos  vietos   savivaldybių  valdymo
+Aukštesniosios   pakopos  vietos   savivaldybių  valdymo
 organai
 registruoja,  kaupia   ir tvarko  įmonių,  įsteigtų    jų
-teritorijose
-registravimo  duomenis, išskyrus  įmones,  įsteigtas
+teritorijose registravimo 
+duomenis, išskyrus  įmones,  įsteigtas
 iš  valstybės lėšų.
      4. 
 Įregistravus   įmonę  Ekonomikos   ministerijoje   arba
@@ -207,7 +217,7 @@ Nr.1-1103;
  
      2.Lietuvos
 Respublikos 1994 11 29
-     įstatymas
+     įstatymas
 Nr.1-677;
      Žin., 1994, Nr.
 96-1875,
@@ -216,8 +226,8 @@ Nr.1-677;
      4 straipsnis.
 Registravimo duomenys
  
-     1. Rejestre  
-turi būti  nurodyti šie  registruojamos įmonės
+     1. Rejestre   turi
+būti  nurodyti šie  registruojamos įmonės
 duomenys:
      1) pavadinimas
 (firmos vardas);
@@ -229,14 +239,14 @@ pobūdis;
      5) atstovų
 (įgaliotinių) vardai, pavardės, adresai, taip pat
 jų įgalinimai;
-     6) numatomas
-komercinės-ūkinės veiklos laikotarpis;
+     6) numatomas komercinės-ūkinės
+veiklos laikotarpis;
      7)
 įregistravimo data.
      2. Jeigu
 registruojamos įmonės, neturinčios juridinio asmens
-teisių (individualios 
-įmonės,   tikrosios ūkinės   bendrijos  ir
+teisių
+(individualios  įmonės,   tikrosios ūkinės   bendrijos  ir
 komanditinės ūkinės
 bendrijos),turi būti papildomai nurodyta:
      1)
@@ -262,7 +272,7 @@ bendrovės   ir   uždarosios   akcinės bendrovės,
 valstybės (vietos 
 savivaldybės)   įmonės,  turi būti  papildomai
 nurodyta:
-     1) akcinės 
+     1) akcinės 
 bendrovės ir uždarosios akcinės bendrovės įstatų
 (pataisų)
 registravimo data;
@@ -281,8 +291,8 @@ tarybos pirmininko  ir jo  pavaduotojo vardai,
 pavardės ir adresai;
      7)
 administracijos vadovo vardas, pavardė ir adresas;
-     8) likviduojamos 
-įmonės   statuso    įgijimo   data  ir jos
+     8)
+likviduojamos  įmonės   statuso    įgijimo   data  ir jos
 likvidatorių
 vardai,  pavardės (juridinių  asmenų pavadinimai  ir
 buveinės).
@@ -299,7 +309,7 @@ asociacijos sutartį numatoma grąžinti iš asociacijos
 išstojančiam nariui;
      3) įmonių
 asociacijos narių einamųjų įnašų dydis;
-     4) įmonių
+     4) įmonių
 asociacijos vadovų vardai, pavardės ir adresai.
      5.   Jeigu  
 registruojamos  įmonių  atstovybės  arba įmonių
@@ -322,7 +332,7 @@ papildomi  registravimo   duomenys,  reikalingi
 valstybės valdymui.
  
 Pakeitimai:
-     Lietuvos
+     Lietuvos
 Respublikos 1994 11 29
      įstatymas
 Nr.1-677;
@@ -337,8 +347,8 @@ Registravimo dokumentai
 tvarkytojui turi būti pateikti šie dokumentai:
      1) pareiškimas
 įregistruoti įmonę;
-     2) valstybės
-(vietos savivaldybės) įmonės steigimo aktas;
+     2) valstybės (vietos
+savivaldybės) įmonės steigimo aktas;
      3)  akcinės  
 bendrovės,  uždarosios   akcinės    bendrovės,
 valstybinės-akcinės
@@ -383,8 +393,8 @@ suteikimą
 (nurodant,  kokiu pagrindu,  kuriam laikui  ir  adresą)
 įmonės
 komercinei-ūkinei veiklai;
-     12)   
-registruojant    įmonę    gyvenamuosiuose    namuose,
+     12)    registruojant   
+įmonę    gyvenamuosiuose    namuose,
 priklausančiuose     
 savivaldybei,      įmonėms,      įstaigoms,
 organizacijoms, 
@@ -410,8 +420,73 @@ notaro.
 savininkui,  pačiam steigiančiam  įmonę, pažyma apie
 patalpų suteikimą
 komercinei-ūkinei veiklai nereikalinga.
+     Rejestro
+tvarkytojui turi būti pateikti šie dokumentai:
+     1) pareiškimas
+įregistruoti įmonę;
+     2) valstybės
+(vietos savivaldybės) įmonės steigimo aktas;
+     3)  akcinės  
+bendrovės,   uždarosios   akcinės   bendrovės,
+valstybinės-akcinės 
+įmonės,   įmonių   asociacijos   ir   ūkinės
+bendrijos steigimo
+sutartys arba jų nuorašai;
+     4) akcinės
+bendrovės steigimo ataskaita ir akcinės bendrovės
+revizoriaus išvada
+dėl šios ataskaitos;
+     5)  akcinės  
+bendrovės  ar   uždarosios  akcinės  bendrovės
+buhalteriniai
+balansai,  jeigu tai  Lietuvos Respublikos įstatymų
+numatyta;
+     6)  akcinės  
+bendrovės,   uždarosios   akcinės   bendrovės,
+valstybės (vietos 
+savivaldybės) įmonės, jų filialų ir atstovybių
+įstatai (įstatų
+pakeitimai) arba jų nuorašai;
+     7)  pažyma  
+apie  šio   įstatymo  10  straipsnyje  nurodyto
+registravimo
+mokesčio sumokėjimą;
+     8) leidimas
+(licenzija) užsiimti komercine-ūkine veikla, jei
+tai Lietuvos
+Respublikos įstatymų numatyta;
+     9) vietos 
+savivaldybės  leidimas  užsiimti  komercine-ūkine
+veikla, jei  įmonė
+registruojama  Lietuvos Respublikos ekonomikos
+ministerijoje;
+     10) žemės 
+sklypo suteikimo  aktas, jei pagal įmonės veiklos
+pobūdį jai tokio
+sklypo reikia;
+     11)  negyvenamųjų 
+patalpų  savininko  pažyma  apie  patalpų
+suteikimą
+(nurodant,  kokiu pagrindu,  kuriam laikui  ir  adresą)
+įmonės
+komercinei-ūkinei veiklai;
+     12)   
+registruojant    įmonę    gyvenamuosiuose    namuose,
+priklausančiuose     
+savivaldybei,      įmonėms,      įstaigoms,
+organizacijoms, 
+kooperatyvams  ir  bendrijoms,  išduota  pažyma,
+patvirtinanti,  
+kad   butas   (namas)   priklauso   registravimo
+dokumentuose
+nurodytam  savininkui ir  kad jis  suteikia patalpas
+įmonės veiklai;
+     13) leidimas
+veiklai laisvojoje ekonominėje zonoje, išduotas
+zonos valdymo
+bendrovės, jei registruojama zonos įmonė.
  
-Pakeitimai:
+       Pakeitimai:
      1.Lietuvos
 Respublikos 1994 11 29
      įstatymas
@@ -425,13 +500,20 @@ Respublikos 1995 07 19
 Nr.1-1017;
      Žin., 1994, Nr.
 59-1478,
+     
+     3.Lietuvos
+Respublikos 1996 03 28
+     įstatymas
+Nr.1-1254;
+     Žin., 1996, Nr.
+35-861
  
  
      6 straipsnis.
 Rejestro standartas
  
      Rejestre 
-naudojamos  dokumentų  klasifikacijos  ir  duomenų
+naudojamos  dokumentų  klasifikacijos  ir  duomenų
 kodai turi atitikti
 Lietuvos Respublikos standartus.
  
@@ -443,8 +525,8 @@ Rejestro dokumentų ir duomenų naudojimas
 duomenimis   ir   dokumentais   turi   teisę
 atlygintinai
 naudotis visi juridiniai ir fiziniai asmenys.
-     2.  Apie  
-naujai  įsteigtų   įmonių   įregistravimą   arba
+     2.  Apie  
+naujai  įsteigtų   įmonių   įregistravimą   arba
 išregistravimą
 vietos  savivaldybių  spaudoje  kartą  per  mėnesį
 paskelbia
@@ -460,7 +542,7 @@ steigėjai  ir  
 rejestro
 tvarkytojas.
      3.  Jeigu  
-apie  įmonių   įregistravimą    (išregistravimą)
+apie  įmonių   įregistravimą    (išregistravimą)
 paskelbta viešai, 
 tai nagrinėjant   bylas teisme, asmenys negali
 nežinojimu apie
@@ -493,12 +575,12 @@ nustatytos   formos  pažymėjimas   ir   suteikiamas
 rejestro numeris 
 (kodas). Šį  pažymėjimą  pasirašo  ir  rejestro
 numerį (kodą) 
-skiria rejestro  tvarkytojai, atliekantys  teisinę
+skiria rejestro  tvarkytojai, atliekantys  teisinę
 registraciją.
  
 Pakeitimai:
-     Lietuvos Respublikos
-1994 11 29
+     Lietuvos
+Respublikos 1994 11 29
      įstatymas
 Nr.1-677;
      Žin., 1994, Nr.
@@ -528,8 +610,8 @@ turi teisę tokį įrašą pakeisti.
 tvarkytojas,  pakeitęs  įrašą, apie  tai per 3
 dienas privalo
 pranešti steigėjui (įmonininkui).
-     4. Rejestro  tvarkytojui 
-draudžiama  koreguoti  pateikiamus
+     4. Rejestro 
+tvarkytojui  draudžiama  koreguoti  pateikiamus
 duomenis ir  
 dokumentus  arba reikalauti to iš jų pateikėjo, jei
 įmonės įstatai  ar 
@@ -605,8 +687,8 @@ nustato Lietuvos Respublikos Vyriausybė.
 rejestro  steigimo,   tvarkymo  ir  likvidavimo
 išlaidos įstatymų
 nustatytoms funkcijoms įgyvendinti Respublikoje
-dengiamos   iš   
-Lietuvos   valstybės   biudžeto,   savivaldybių
+dengiamos   iš    Lietuvos  
+valstybės   biudžeto,   savivaldybių
 teritorijoje -  iš 
 aukštesniosios  pakopos  vietos  savivaldybių
 biudžetų.
@@ -632,7 +714,7 @@ nepateikusioms mokesčių ataskaitų valstybinėms
 mokesčių 
 inspekcijoms,   socialinio   draudimo   įstaigoms   bei
 statistikos 
-ataskaitų  -  Statistikos  departamentui,  taip  pat
+ataskaitų  -  Statistikos  departamentui,  taip  pat
 nesumokėjusioms  
 mokesčių   muitinėms   valstybinėms    mokesčių 
 inspekcijoms ir
@@ -640,7 +722,7 @@ socialinio draudimo įstaigoms, prevencine  tvarka
 taikomi šie
 komercinės-ūkinės  veiklos  apribojimai:  sustabdomos
 muitinės 
-procedūros, naujų  įmonių,  filialų  steigimas,  ūkinių
+procedūros, naujų  įmonių,  filialų  steigimas,  ūkinių
 sandorių  
 sudarymas,   įsigytų  transporto  priemonių valstybinė
 registracija.
