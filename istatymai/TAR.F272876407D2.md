@@ -13,6 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F272876407D2"
 
 # Lietuvos Respublikos užsienio investicijoms draudžiamų ir ribojamų veiklos sričių įstatymas
 
+Įstatymas netenka galios 1995-08-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-938, 1995-06-13, Žin., 1995, Nr. 55-1351 (1995-07-05), i. k. 0951010ISTA000I-938
+Lietuvos Respublikos užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas
+ 
+Suvestinė redakcija nuo 1992-07-03 iki 1995-07-31
+ 
+Įstatymas paskelbtas: Žin. 1991, Nr. 14-361, i. k. 0911010ISTA00I-1276
+ 
+ 
 LIETUVOS RESPUBLIKOS UŽSIENIO INVESTICIJOMS DRAUDŽIAMŲ IR RIBOJAMŲ  VEIKLOS SRIČIŲ ĮSTATYMAS
  
  
@@ -45,9 +55,11 @@ užsiimti kurortiniu gydymu.
 
 Užsienio kapitalo įmonėms ir bendroms įmonėms, kurios veikia ne kaip valstybinės ar valstybinės akcinės įmonės, draudžiama: 
 gaminti degtinės, likerio ir kitus spiritinius gėrimus;
-gaminti tabako gaminius;
 gydyti ligonius, sergančius pavojingomis ir ypač pavojingomis infekcinėmis, tarp jų ir venerinėmis bei užkrečiamomis odos ligomis, agresyviomis psichinių ligų formomis;
 gydyti gyvulius, sergančius ypač pavojingomis ligomis.
+
+Straipsnio pakeitimai:
+Nr. I-2658, 1992-06-23, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 20-590 (1992-07-20), i. k. 0921010ISTA00I-2658
  
 
 6 straipsnis 
@@ -78,4 +90,15 @@ PIRMININKAS                                  �
  
 Vilnius, 1991 m. gegužės 2 d. 
 Nr. I-1276
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA, Įstatymas
+Nr. I-2658, 1992-06-23, Lietuvos aidas, 1992, Nr. 128-0 (1992-07-02); Žin., 1992, Nr. 20-590 (1992-07-20), i. k. 0921010ISTA00I-2658
+Dėl kai kurių Lietuvos Respublikos įstatymų atskirų straipsnių pakeitimo
 
