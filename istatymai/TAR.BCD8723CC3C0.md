@@ -13,6 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BCD8723CC3C0"
 
 # Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 2, 3, 8, 9, 10, 15, 16, 17 straipsnių pakeitimo, papildymo 10(1) straipsniu ir 7 straipsnio pripažinimo netekusiu galios įstatymas
 
+Įstatymas netenka galios 2014-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2220, 2012-09-18, Žin., 2012, Nr. 110-5564 (2012-09-22), i. k. 1121010ISTA0XI-2220
+Lietuvos Respublikos teisėkūros pagrindų įstatymas
+ 
+Suvestinė redakcija nuo 2001-12-05 iki 2013-12-31
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 48-1524, i. k. 0991010ISTAIII-1184
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ SKELBIMO IR ĮSIGALIOJIMO TVARKOS“ 2, 3, 8, 9, 10, 15, 16, 17 STRAIPSNIŲ PAKEITIMO, PAPILDYMO 101 STRAIPSNIU IR 7 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 Į S T A T Y M A S
@@ -41,6 +50,10 @@ Lietuvos Respublikos Seimo priimti teisės aktai, išskyrus įstatymus, Respubli
 Ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų įsakymai ir įsakymais patvirtinti kiti teisės aktai, kuriuose nėra nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, šiuos aktus pasirašiusių asmenų nuožiūra gali būti skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“.
 
 Teisės aktai, kuriuose yra valstybės ar tarnybinę paslaptį sudarančių žinių, „Valstybės žiniose“ neskelbiami. Šie aktai turi būti išsiunčiami toms institucijoms, kurios įstatymų nustatyta tvarka gali disponuoti valstybės ar tarnybinę paslaptį sudarančiomis žiniomis.“
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ 3 straipsnio (1996 m. liepos 4 d. ir 1999 m. gegužės 18 d. redakcijos) nuostata, pagal kurią Lietuvos Respublikos Vyriausybės nutarimai, kuriuose nėra nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, šiuos aktus pasirašiusių asmenų nuožiūra gali būti oficialiai neskelbiami, prieštarauja Lietuvos Respublikos Konstitucijoje įtvirtintam teisinės valstybės principui.
+
+Straipsnio pakeitimai:
+2001-11-29, Žin., 2001, Nr. 102-3636 (2001-12-05), i. k. 1011000NUTARG013574            
  
 
 3 straipsnis. 7 straipsnio pripažinimas netekusiu galios
@@ -57,6 +70,10 @@ Teisės aktai, kuriuose yra valstybės ar tarnybinę paslaptį sudarančių žin
 Lietuvos Respublikos Vyriausybės nutarimai, kuriuose nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, įsigalioja kitą dieną po to, kai jie Ministro Pirmininko ir atitinkamo ministro pasirašyti paskelbiami „Valstybės žiniose“, jeigu pačiuose nutarimuose nenustatyta vėlesnė jų įsigaliojimo data.
 
 Lietuvos Respublikos Vyriausybės nutarimai, kuriuose nėra nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, taip pat Ministro Pirmininko potvarkiai įsigalioja jų pasirašymo dieną, nors jie ir paskelbti „Valstybės žiniose“, jeigu pačiuose nutarimuose ir potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data.“
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ 8 straipsnio 2 dalies (1993 m. balandžio 6 d. ir 1999 m. gegužės 18 d. redakcijos) nuostata, pagal kurią Lietuvos Respublikos Vyriausybės nutarimai, kuriuose nėra nustatomos, keičiamos ar pripažįstamos netekusiomis galios teisės normos, gali įsigalioti jų oficialiai nepaskelbus, prieštarauja Lietuvos Respublikos Konstitucijoje įtvirtintam teisinės valstybės principui.
+
+Straipsnio pakeitimai:
+2001-11-29, Žin., 2001, Nr. 102-3636 (2001-12-05), i. k. 1011000NUTARG013574            
  
 
 5 straipsnis. 9 straipsnio pakeitimas ir papildymas
@@ -140,4 +157,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2001-11-29, Žin., 2001, Nr. 102-3636 (2001-12-05), i. k. 1011000NUTARG013574                
+Dėl į Lietuvos Respublikos Vyriausybės 1998 m. liepos 22 d. posėdžio protokolą įrašyto Lietuvos Respublikos Vyriausybės sprendimo "Dėl kompanijos "Danisco Sugar" A/S prašymo įsigyti cukraus pramonės įmonių akcijų" atitikties Lietuvos Respublikos Konstitucijai ir dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos" 3 bei 8 straipsnių nuostatų atitikties Lietuvos Respublikos Konstitucijai
 
