@@ -19,11 +19,10 @@ LIETUVOS RESPUBLIKOS
 Nr. 51-1248
 Neoficialus įstatymo tekstas
  
- 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
-1995m. birželio 8 d. Nr.I-934
+1995m. birželio 8 d. Nr. I-934
 Vilnius
  
 DĖL LIETUVOS RESPUBLIKOS SANATORINIŲ-KURORTINIŲ
@@ -81,58 +80,71 @@ Birštono sanatoriją "Tulpė".
 Respublikos Vyriausybė iki 1995m. liepos 1 d. nustato šiame straipsnyje
 nurodytų objektų priklausomybę pagal reguliavimo sritis.
  
-            2
-straipsnis. Pripažinti Lietuvos
-profesinių sąjungų nuosavybe ir perduoti Specialiajam fondui veikiančioms ir
-besisteigiančioms profesinėms sąjungoms remti šiuos objektus ir jų balanse
-apskaitomą turtą bei lėšas:
-            1)
-poilsio namus "Trakai";
-            2)
-Lampėdžių poilsio namus;
-            3)
-Valstybinę įmonę "Neringos kopos" (buvę poilsio namai
-"Neringa");
-            4)
-Druskininkų kurortinių įstaigų autoūkiui priklausiusias autotransporto
-priemones, jų detales ir inventorių;
-            5)
-Druskininkų sanatoriją "Nemunas";
-            6)
-Palangos sanatoriją "Jūratė" (išskyrus jos balanse apskaitomus
-bendrabučius);
-            7)
-Palangos sveikatos rūmus;
-            8)
-Anykščių reabilitacijos centrą (buvę poilsio namai "Šilelis");
-            9)
-Druskininkų gydomosios kūno kultūros ir ambulatorinio gydymo centrą.
+            *2
+straipsnis. Pripažinti Lietuvos profesinių sąjungų nuosavybe ir perduoti
+Specialiajam fondui veikiančioms ir besisteigiančioms profesinėms sąjungoms
+remti šiuos objektus ir jų balanse apskaitomą turtą bei lėšas:
+            1) poilsio namus "Trakai";
+            2) Lampėdžių poilsio namus;
+            3) Valstybinę įmonę "Neringos kopos" (buvę
+poilsio namai "Neringa");
+            4) Druskininkų kurortinių įstaigų autoūkiui priklausiusias
+autotransporto priemones, jų detales ir inventorių;
+            5) Druskininkų sanatoriją "Nemunas";
+            6) Palangos sanatoriją "Jūratė" (išskyrus jos
+balanse apskaitomus bendrabučius);
+            7) Palangos sveikatos rūmus;
+            8) Anykščių reabilitacijos centrą (buvę poilsio namai
+"Šilelis");
+            9) Druskininkų gydomosios kūno kultūros ir ambulatorinio
+gydymo centrą.
+ 
+*Pastaba.
+Pripažinti, kad Lietuvos
+Respublikos Konstitucijos 5 straipsnio 2 daliai, 23 straipsnio 2 daliai, 50
+straipsnio 1 daliai, 128 straipsnio 2 daliai, konstituciniam teisinės valstybės
+principui prieštarauja Lietuvos Respublikos įstatymo „Dėl Lietuvos
+Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių
+Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo“ 2
+straipsnis.
+Straipsnio pakeitimai:
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2003-09-30, Žin., 2003, Nr. 93-4223 (2003-10-03)
  
             3
 straipsnis. (Neteko galios)
 Straipsnio pakeitimai:
 Nr. VIII-877, 98.10.08, Žin., 1998, Nr.92-2544 (98.10.21)
  
- 
-            4
-straipsnis. Lietuvos profesinėms
-sąjungoms už valstybės nuosavybėn perduotus objektus, turtą ir lėšas
-kompensuojama pagal Vyriausybės komisijos inventorizacijos 1991 m. sausio 1 d.
-duomenis išmokant kompensaciją kiekvienais metais lygiomis dalimis iki 2006 m.
-birželio 1 dienos.
+            *4
+straipsnis. Lietuvos profesinėms sąjungoms už valstybės nuosavybėn perduotus
+objektus, turtą ir lėšas kompensuojama pagal Vyriausybės komisijos
+inventorizacijos 1991 m. sausio 1 d. duomenis išmokant kompensaciją kiekvienais
+metais lygiomis dalimis iki 2006 m. birželio 1 dienos.
 Kompensuojamos lėšos yra Lietuvos profesinių sąjungų
 nuosavybė. Jos pervedamos lygiomis dalimis į einamąsias sąskaitas profesinėms
 sąjungoms, registruotoms Lietuvos Respublikos teisingumo ministerijoje ir
 atstovaujamoms Lietuvos Respublikos trišalėje taryboje: Lietuvos darbo
 federacijos, Lietuvos darbininkų sąjungos, Lietuvos profesinių sąjungų centro
-ir Lietuvos profesinių sąjungų susivienijimo, bei Specialiajam fondui veikiančioms
-ir besisteigiančioms profesinėms sąjungoms remti.
-            Kompensacijos
-dydis negali viršyti 0,5 procento objektų neindeksuotos balansinės vertės.
-Kompensacijos išmokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+ir Lietuvos profesinių sąjungų susivienijimo, bei Specialiajam fondui
+veikiančioms ir besisteigiančioms profesinėms sąjungoms remti.
+            Kompensacijos dydis negali viršyti 0,5 procento objektų
+neindeksuotos balansinės vertės. Kompensacijos išmokėjimo tvarką nustato
+Lietuvos Respublikos Vyriausybė.
+ 
+*Pastaba.
+Pripažinti, kad Lietuvos
+Respublikos Konstitucijos 5 straipsnio 2 daliai, 23 straipsnio 2 daliai, 50
+straipsnio 1 daliai, 128 straipsnio 2 daliai, konstituciniam teisinės valstybės
+principui prieštarauja Lietuvos Respublikos įstatymo „Dėl Lietuvos
+Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių
+Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo“ 4
+straipsnis (2000 m. liepos 20 d. redakcija).
 Straipsnio pakeitimai:
 Nr. VIII-1892, 00.07.20, Žin.,
 2000, Nr.67-2020 (00.08.09)
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2003-09-30, Žin., 2003, Nr. 93-4223 (2003-10-03)
  
  
             Skelbiu
@@ -148,7 +160,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. VIII-877, 98.10.08, Žin., 1998, Nr.92-2544 (98.10.21)
+Nr. VIII-877, 98.10.08, Žin., 1998, Nr. 92-2544 (98.10.21)
 LIETUVOS RESPUBLIKOS ĮSTATYMO
 “DĖL LIETUVOS RESPUBLIKOS SANATORINIŲ-KURORTINIŲ ĮSTAIGŲ IR POILSIO NAMŲ,
 VALDYTŲ BUVUSIŲ LIETUVOS TSR VALSTYBINIŲ PROFESINIŲ SĄJUNGŲ, NUOSAVYBĖS
@@ -157,13 +169,30 @@ NUSTATYMO” 3 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1892, 00.07.20, Žin.,
-2000, Nr.67-2020 (00.08.09)
+2000, Nr. 67-2020 (00.08.09)
 ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS SANATORINIŲ-KURORTINIŲ ĮSTAIGŲ IR
 POILSIO NAMŲ, VALDYTŲ BUVUSIŲ LIETUVOS TSR VALSTYBINIŲ PROFESINIŲ SĄJUNGŲ,
 NUOSAVYBĖS NUSTATYMO“ 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+ 
+Konstitucinio Teismo nutarimai:
+ 
+1.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2003-09-30,
+Žin., 2003, Nr. 93-4223 (2003-10-03)
+DĖL
+TEISĖS AKTŲ, KURIAIS BUVO SPRENDŽIAMI IKI LIETUVOS NEPRIKLAUSOMOS VALSTYBĖS
+ATKŪRIMO LIETUVOJE VEIKUSIŲ VALSTYBINIŲ PROFESINIŲ SĄJUNGŲ VALDYTO TURTO
+KLAUSIMAI, ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.24)
+Redagavo:
+Aušrinė Trapinskienė (2003-10-03)
+                 
+autrap@lrs.lt
 
