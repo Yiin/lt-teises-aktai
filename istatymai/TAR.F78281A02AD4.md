@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f78281a02ad411eabe008ea93139d588"
 
 # Lietuvos Respublikos principinės kariuomenės struktūros, karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinio skaičiaus patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2026-01-01 iki 2026-12-31
+Suvestinė redakcija nuo 2027-01-01
  
 Įstatymas paskelbtas: TAR 2019-12-30, i. k. 2019-21556
  
@@ -94,7 +94,10 @@ Vilnius
 1) sausumos pajėgos: 
 
 
-a) Pėstininkų divizija – Pėstininkų brigada „Geležinis Vilkas“ (Lietuvos didžiojo kunigaikščio Algirdo pėstininkų batalionas, Didžiosios kunigaikštienės Birutės ulonų batalionas, Kunigaikščio Vaidoto pėstininkų batalionas, Karaliaus Mindaugo husarų batalionas, Generolo Romualdo Giedraičio artilerijos batalionas, Logistikos batalionas), Lietuvos didžiojo etmono Jono Karolio Chodkevičiaus pėstininkų brigada „Žemaitija“ (Lietuvos didžiojo kunigaikščio Kęstučio pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Butigeidžio dragūnų batalionas, Kunigaikščio Margirio pėstininkų batalionas, Brigados generolo Motiejaus Pečiulionio artilerijos batalionas, Logistikos batalionas), Pėstininkų brigada „Aukštaitija“, Artilerijos pulkas, Pulkininko Juozo Vitkaus inžinerijos pulkas; 
+a) Pėstininkų divizija – Pėstininkų brigada „Geležinis Vilkas“ (Karaliaus Mindaugo husarų tankų batalionas, Lietuvos didžiojo kunigaikščio Algirdo pėstininkų batalionas, Didžiosios kunigaikštienės Birutės ulonų batalionas, Kunigaikščio Vaidoto pėstininkų batalionas, Generolo Romualdo Giedraičio artilerijos batalionas, Logistikos batalionas), Lietuvos didžiojo etmono Jono Karolio Chodkevičiaus pėstininkų brigada „Žemaitija“ (Lietuvos didžiojo kunigaikščio Kęstučio pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Butigeidžio dragūnų batalionas, Kunigaikščio Margirio pėstininkų batalionas, Brigados generolo Motiejaus Pečiulionio artilerijos batalionas, Logistikos batalionas), Pėstininkų brigada „Aukštaitija“, Artilerijos pulkas, Pulkininko Juozo Vitkaus inžinerijos pulkas; 
+Papunkčio pakeitimai:
+Nr. XIV-2899, 2024-07-11, paskelbta TAR 2024-07-17, i. k. 2024-13175
+ 
 
 
 
