@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
+Suvestinė redakcija nuo 1997-12-19 iki 2001-06-30
+ 
+Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
+ 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
  
@@ -469,10 +473,12 @@ Konsulinis pareigūnas praneša atvykusiems į jo konsulinę apygardą Lietuvos 
 27 straipsnis
 
 
-Konsulinis pareigūnas padeda Lietuvos Respublikos piliečiams ir juridiniams asmenims organizuoti konsulinės apygardos teritorijoje kultūros, švietimo ir sporto renginius, kad valstybės, kurioje yra Lietuvos Respublikos konsulinė įstaiga, visuomenė būtų supažindinta su Lietuvos Respublikos tradicijomis, papročiais, mokslo ir kultūros laimėjimais.
+Konsulinis pareigūnas padeda Lietuvos Respublikos piliečiams ir juridiniams asmenims organizuoti konsulinės apygardos teritorijoje kultūros, švietimo ir sporto renginius, kad valstybės, kurioje yra Lietuvos Respublikos konsulinė įstaiga, visuomenė būtų supažindinta su Lietuvos Respublikos tradicijomis, papročiais, mokslo ir kultūros laimėjimais, taip pat rūpinasi toje šalyje gyvenančių lietuvių ryšių su Lietuva palaikymu ir stiprinimu. 
+
+
+Straipsnio pakeitimai:
+Nr. VIII-554, 1997-12-09, Žin., 1997, Nr. 116-2955 (1997-12-19), i. k. 0971010ISTAVIII-554
  
-
-
 
 
 
@@ -1163,3 +1169,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. VIII-554, 1997-12-09, Žin., 1997, Nr. 116-2955 (1997-12-19), i. k. 0971010ISTAVIII-554
+Lietuvos Respublikos konsulinio statuto 27 straipsnio papildymo įstatymas
