@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1B266F2EB841"
 
 # Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo
 
+Suvestinė redakcija nuo 1995-01-04 iki 1995-12-28
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 70-1310, i. k. 0931010ISTA000I-336
+ 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
  
@@ -49,13 +53,25 @@ Kiekvienas asmuo, kuris buvo nepagrįstai sulaikytas pagal šį įstatymą, turi
 
 3. Patvirtinus asmens sulaikymo pagrįstumą Lietuvos Respublikos baudžiamojo proceso kodekso 501 straipsnyje numatytais atvejais, bendras sulaikymo terminas, įskaitant faktiškai sulaikytam išbūtą laiką pagal 1993 m. liepos 13 d. Lietuvos Respublikos laikinojo įstatymo „Dėl Lietuvos Respublikos operatyvinės veiklos įstatymo papildymo“ nustatytą tvarką, negali būti ilgesnis kaip šešiasdešimt dienų.
 
-4. Lietuvos Respublikos baudžiamojo proceso kodekso 501 straipsnis galioja iki 1995 m. sausio 1 dienos.
- 
+4. Lietuvos Respublikos baudžiamojo proceso kodekso 501 straipsnis galioja iki 1996 m. sausio 1 dienos.
+Punkto pakeitimai:
+Nr. I-735, 1994-12-22, Žin., 1995, Nr. 1-6 (1995-01-04), i. k. 0941010ISTA000I-735
  
 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. I-735, 1994-12-22, Žin., 1995, Nr. 1-6 (1995-01-04), i. k. 0941010ISTA000I-735
+Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 50(1) straipsnio ir įstatymo "Dėl Lietuvos Respublikos baudžiamojo proceso kodekso papildymo" pakeitimo
 
