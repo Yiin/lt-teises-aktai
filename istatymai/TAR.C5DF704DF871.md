@@ -1175,26 +1175,15 @@ jo sumokėjo į biudžetą (per daug įskaityta arba grąžinta iš biudžeto),
 apskaičiuota papildoma mokesčio suma, bauda ir delspinigiai turi būti sumokėti
 į biudžetą Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta
 tvarka.
- 
-[1 dalies
-redakcija nuo 2001 m. rugsėjo 1 d.:
-Jeigu tikrinant nustatoma, kad asmenys, nurodyti
-šio įstatymo 6 straipsnio trečiojoje dalyje ir 8 straipsnyje, nesumokėjo PVM, o
-mokėtojai deklaracijoje sumažino apskaičiuotą mokėtiną į biudžetą PVM sumą arba
-padidino apskaičiuotą grąžintiną iš biudžeto PVM sumą, turi būti apskaičiuojama
-papildoma mokėtina PVM suma arba sumažinama grąžintina iš biudžeto PVM suma ir
-skiriama bauda, kurios dydis – nuo 10 iki 50 procentų papildomai mokėtinos į
-biudžetą PVM sumos arba sumažintos grąžintinos iš biudžeto PVM sumos.]
- 
-            PVM už prekes (išskyrus importuojamas)
-ir paslaugas mokėjimą kontroliuoja teritorinės valstybinės mokesčių
-inspekcijos, kurios PVM nepriemokas, delspinigius ir Lietuvos Respublikos
-mokesčių administravimo įstatymo nustatytas baudas išieško Lietuvos Respublikos
-mokesčių administravimo įstatymo nustatyta tvarka. PVM už importuojamas prekes
-mokėjimą kontroliuoja teritorinės muitinės, kurios PVM nepriemokas ir
-delspinigius išieško Muitinės kodekso nustatyta tvarka. Šio įstatymo
-nustatytais atvejais Lietuvos Respublikos Vyriausybės nustatyta tvarka PVM už
-importuojamas prekes mokėjimo kontrolė gali būti perduota teritorinėms
+            PVM už prekes (išskyrus
+importuojamas) ir paslaugas mokėjimą kontroliuoja teritorinės valstybinės
+mokesčių inspekcijos, kurios PVM nepriemokas, delspinigius ir Lietuvos
+Respublikos mokesčių administravimo įstatymo nustatytas baudas išieško Lietuvos
+Respublikos mokesčių administravimo įstatymo nustatyta tvarka. PVM už
+importuojamas prekes mokėjimą kontroliuoja teritorinės muitinės, kurios PVM
+nepriemokas ir delspinigius išieško Muitinės kodekso nustatyta tvarka. Šio
+įstatymo nustatytais atvejais Lietuvos Respublikos Vyriausybės nustatyta tvarka
+PVM už importuojamas prekes mokėjimo kontrolė gali būti perduota teritorinėms
 valstybinėms mokesčių inspekcijoms.
             Lietuvos Respublikos
 įstatymų nustatytais atvejais mokesčio mokėtojai gali būti atleisti nuo
@@ -1217,8 +1206,6 @@ VIII-557,
 97.12.09, Žin., 1997, Nr.117-2997 (97.12.24)
 Nr. VIII-1841,
 00.07.13, Žin., 2000, Nr.64-1918 (00.07.31), įsigalioja nuo 2000.10.01
-Nr. IX-396, 2001-06-26, Žin., 2001, Nr.
-62-2213 (2001-07-18), įsigalioka nuo 2001-09-01
  
  
 X. BAIGIAMOSIOS
@@ -1258,8 +1245,8 @@ Nr.
 I-1615,
 96.11.14, Žin., 1996, Nr.116-2690 (96.12.04)
 Nr.
-VIII-557,
-97.12.09, Žin., 1997, Nr.117-2997 (97.12.24)
+VIII-557, 97.12.09,
+Žin., 1997, Nr.117-2997 (97.12.24)
  
  
 38(1)
@@ -1313,8 +1300,8 @@ Nr.
 I-1346,
 96.05.21, Žin., 1996, Nr. 50-1198 (96.05.29)
 Nr.
-VIII-707,
-98.04.16, Žin., 1998, Nr.41-1095 (98.05.01)
+VIII-707, 98.04.16,
+Žin., 1998, Nr.41-1095 (98.05.01)
  
  
 [Įstatymas
@@ -1328,16 +1315,14 @@ Jeigu galutiniam paslaugos vartotojui parduodamos kelių iš trečiųjų asmenų
 PVM mokėtojas suteikė vieną turizmo paslaugą. Šioje dalyje numatytais atvejais
 PVM mokėtojo teikiamos paslaugos apmokestinamoji vertė yra laikantis šio
 straipsnio 2 dalies nuostatų apskaičiuota marža. Taikant šio straipsnio
-nuostatas, turizmo paslaugų ir kelionių organizavimo paslaugų sąvokos suprantamos
-taip, kaip jos apibrėžtos turizmo paslaugų teikimą reglamentuojančiuose teisės
-aktuose.
+nuostatas, turizmo paslaugų ir kelionių organizavimo paslaugų sąvokos
+suprantamos taip, kaip jos apibrėžtos turizmo paslaugų teikimą
+reglamentuojančiuose teisės aktuose.
 Marža nustatoma kaip skirtumas tarp sumos
-(neįskaitant PVM), kurią už šio straipsnio pirmojoje dalyje nurodytas paslaugas
-PVM mokėtojui turi sumokėti galutinis paslaugos
-vartotojas, ir sumos, kurią PVM mokėtojas sumokėjo ar turi sumokėti tretiesiems
-asmenims už šias turizmo paslaugas (įskaitant PVM). Skaičiuojant maržą,
-neatsižvelgiama į tai, ar tos trečiųjų asmenų teikiamos turizmo paslaugos yra
-apmokestinamos PVM.
+(neįskaitant PVM), kurią už šio straipsnio pirmojoje dalyje nurodytas paslaugas PVM mokėtojui turi sumokėti galutinis
+paslaugos vartotojas, ir sumos, kurią PVM mokėtojas sumokėjo ar turi sumokėti
+tretiesiems asmenims už šias turizmo paslaugas (įskaitant PVM). Skaičiuojant
+maržą, neatsižvelgiama į tai, ar tos trečiųjų asmenų teikiamos turizmo paslaugos yra apmokestinamos PVM.
 Marža apmokestinama taikant 0 procentų PVM tarifą. 
 Šio straipsnio
 antrojoje dalyje nurodytos tretiesiems asmenims sumokėtinos PVM sumos už
@@ -1390,8 +1375,8 @@ sumokėjimo į biudžetą (įskaitymo į biudžetą ir grąžinimo iš biudžeto
 Straipsnio
 pakeitimai:
 Nr.
-I-423, 94.04.07,
-Žin., 1994, Nr. 28-489 (94.04.15)
+I-423,
+94.04.07, Žin., 1994, Nr. 28-489 (94.04.15)
 Nr.
 I-567,
 94.07.20, Žin., 1994, Nr. 58-1136 (94.07.29)
@@ -1496,7 +1481,8 @@ Nr.
 I-1185,
 96.01.23, Žin., 1996, Nr. 13-343 (96.02.10)
 LIETUVOS
-RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 1996 m. balandžio 1 dienos.
 Pakeitimai:
@@ -1684,8 +1670,8 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 26.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1815, 00.07.11,
-Žin., 2000, Nr.61-1821 (00.07.26)
+Nr. VIII-1815,
+00.07.11, Žin., 2000, Nr.61-1821 (00.07.26)
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 23 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001
@@ -1701,13 +1687,14 @@ PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 6, 7, 17, 25, 32,
 spalio 1 d.
 Mokėtojams, iki šio įstatymo
 įsigaliojimo pateikusiems prašymą gražinti (įskaityti) PVM skirtumą,
-įsigaliojus šiam įstatymui, negrąžintas (neįskaitytas) skirtumas įskaitomas
-(grąžinamas), kaip nustatyta šiame įstatyme.
+įsigaliojus šiam įstatymui, negrąžintas
+(neįskaitytas) skirtumas įskaitomas (grąžinamas), kaip nustatyta šiame
+įstatyme.
  
 28.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1879, 00.07.18,
-Žin., 2000, Nr.64-1944 (00.07.31)
+Nr. VIII-1879,
+00.07.18, Žin., 2000, Nr.64-1944 (00.07.31)
 PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4 IR 23 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
  
@@ -1814,19 +1801,9 @@ PAKEITIMO ĮSTATYMAS
 Iki šio įstatymo įsigaliojimo negrąžintas (neįskaitytas)
 PVM skirtumas grąžinamas (įskaitomas) vadovaujantis šio įstatymo nuostatomis.
  
-38
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-396, 2001-06-26, Žin., 2001, Nr.
-62-2213 (2001-07-18)
-PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 36 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
- 
-Šis
-įstatymas įsigalioja nuo 2001 m. rugsėjo 1 d.
- 
 *** Pabaiga ***
  
  
-Redagavo: Angonita Rupšytė (2001-07-30)
+Redagavo: Angonita Rupšytė (2001-07-04)
                   anrups@lrs.lt
 
