@@ -13,15 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.84CB75BE0C44"
 
 # Lietuvos Respublikos juridinių asmenų pelno mokesčio įstatymas
 
-Redaguota: 1995 04 26
+Redaguota: 1996 01 05
 
-Redaguota: 1995 04
-26
+Redaguota: 1996 01
+05
 g
 Pakeitimai:
  
-        1.
-Parlamentas, Įstatymas
+     1. Parlamentas,
+Įstatymas
         Nr. 1-642, 
 priimtas 90.10.05, 
       Žin., 1990, 
@@ -31,9 +31,9 @@ RESPUBLIKOS  JURIDINIŲ ASMENŲ
       PELNO 
 MOKESČIO  ĮSTATYMO PAPILDYMO
  
-        2.
-Parlamentas, Įstatymas
-        Nr. 1-1397, 
+     2. Parlamentas,
+Įstatymas
+        Nr. 1-1397, 
 priimtas 91.05.30,
       Žin., 1991, 
 Nr. 16-426
@@ -42,8 +42,8 @@ RESPUBLIKOS  JURIDINIŲ ASMENŲ
       PELNO MOKESČIO
 ĮSTATYMO 7 STRAIPSNIO PAKEITIMO
  
-        3.
-Parlamentas, Įstatymas
+     3. Parlamentas,
+Įstatymas
         Nr. 1-1516, 
 priimtas 91.06.27,
       Žin., 1991, 
@@ -54,8 +54,8 @@ RESPUBLIKOS  JURIDINIŲ ASMENŲ
 ĮSTATYMO 5, 6 IR 8 STRAIPSNIŲ
       PAPILDYMO
  
-        4.
-Parlamentas, Įstatymas
+     4. Parlamentas,
+Įstatymas
         Nr. 1-2275, 
 priimtas 92.02.06,
       Žin., 1992, 
@@ -66,8 +66,8 @@ RESPUBLIKOS  JURIDINIŲ ASMENŲ
 ĮSTATYMO 3,5,6 IR 7 STRAIPSNIŲ
       PAKEITIMO
  
-        5.
-Parlamentas, Įstatymas
+     5. Parlamentas,
+Įstatymas
         Nr. 1-152, 
 priimtas 93.05.11,
       Žin., 1993, 
@@ -77,9 +77,9 @@ RESPUBLIKOS  JURIDINIŲ ASMENŲ
       PELNO 
 MOKESČIO  ĮSTATYMO PAKEITIMO IR PAPILDYMO
  
-        6. Parlamentas,
+     6. Parlamentas,
 Įstatymas
-        Nr. 1-212, 
+        Nr. 1-212, 
 priimtas 93.07.13,
       Žin., 1993, 
 Nr. 30-682
@@ -88,8 +88,8 @@ RESPUBLIKOS  JURIDINIŲ ASMENŲ
       PELNO 
 MOKESČIO  ĮSTATYMO PAPILDYMO IR PAKEITIMO
  
-        7.
-Parlamentas, Įstatymas
+     7. Parlamentas,
+Įstatymas
         Nr.1-326,
 priimtas 93.12.09.;
       Žin., 1993,
@@ -99,8 +99,8 @@ RESPUBLKOS JURIDINIŲ ASMENŲ
       PELNO MOKESČIO
 ĮSTATYMO 12 STRAIPSNIO PAPILDYMO
  
-        8.
-Parlamentas, Įstatymas
+     8. Parlamentas,
+Įstatymas
         Nr.1-395,
 priimtas 94.02.17.;
       Žin., 1994,
@@ -110,8 +110,8 @@ RESPUBLIKOS JURIDINIŲ ASMENŲ
       PELNO MOKESČIO
 ĮSTATYMO PAKEITIMO IR PAPILDYMO
  
-        9.
-Parlamentas, Įstatymas
+     9. Parlamentas,
+Įstatymas
         Nr. 1-539,
 priimtas 94.07.12.;
       Žin., 1994,
@@ -121,9 +121,9 @@ RESPUBLIKOS JURIDINIŲ ASMENŲ
       PELNO 
 MOKESČIO ĮSTATYMO PAPILDYMO
  
-       
-10.Parlamentas, Įstatymas
-        Nr. 1-705,
+    10. Parlamentas,
+Įstatymas
+        Nr. 1-705,
 priimtas 94.12.15.;
       Žin., 1994,
 Nr.100-1999
@@ -132,7 +132,7 @@ RESPUBLIKOS JURIDINIŲ ASMENŲ
       PELNO MOKESČIO
 ĮSTATYMO 8 STRAIPSNIO PAKEITIMO
  
-        11.Lietuvos
+    11. Lietuvos
 Respublikos 1995 04 11,
       įstatymas Nr.
 1-848,
@@ -143,6 +143,16 @@ RESPUBLIKOS JURIDINIŲ ASMENŲ
       PELNO MOKESČIO
 ĮSTATYMO PAKEITIMO IR PAPILDYMO
  
+    12. Lietuvos
+Respublikos 1995 12 28     
+        Įstatymas
+Nr.1-1159
+        Žin., 1996,
+Nr.1-3
+        DĖL LIETUVOS
+RESPUBLIKOS 
+        MOKESČIŲ
+ĮSTATYMŲ PAPILDYMO
 *** Pabaiga ***
  
  
@@ -180,7 +190,7 @@ pelno, kuris
 apskaičiuojamas II skyriuje nustatyta tvarka.
  
  
-              II.
+              II.
 Apmokestinamojo pelno nustatymas
  
  
@@ -204,7 +214,7 @@ nesusijusios
 pajamos,  įskaitant pajamas,  gautas  už  išnuomotą,
 investuotą turtą.
      Į 
-nerealizacines  pajamas,  apskaičiuojant  apmokestinamąjį
+nerealizacines  pajamas,  apskaičiuojant  apmokestinamąjį
 pelną, neįskaitoma:
      1) gauti
 dividendai ir palūkanos už obligacijas;
@@ -245,12 +255,12 @@ nurodytus gamybos ir
 cirkuliacijos kaštus, tenkančius realizuotai
 produkcijai, 
 darbams ir  paslaugoms, apskaičiuojamas pelnas.
-     Iš pelno atskaičius
-6 straipsnyje  nurodytas
+     Iš pelno
+atskaičius 6 straipsnyje  nurodytas
 neapmokestinamąsias
 sumas, nustatomas apmokestinamasis pelnas.
      Juridinių  
-asmenų,    užsiimančių    nekomercine    veikla,
+asmenų,    užsiimančių    nekomercine    veikla,
 apmokestinamasis
 pelnas  nustatomas kaip skirtumas tarp pajamų už
 mokamas priemones ir
@@ -264,7 +274,7 @@ atimami   šie  faktiški  gamybos ir cirkuliacijos
 kaštai bei įmonės
 išlaidos, tenkančios realizuotai produkcijai:
      1)  išlaidos,  
-susijusios   su   materialinėmis   ir   joms
+susijusios   su   materialinėmis   ir   joms
 prilygintomis
 sąnaudomis, įskaitant komandiruočių išlaidas;
      2) ilgalaikio  
@@ -341,8 +351,8 @@ straipsnyje
 nustatyta tvarka apskaičiuoto pelno 2 kartus atimamos
 faktiškai padarytos 
 ir  juridinę  galią  turinčiais  dokumentais
-patvirtintos  išlaidos, 
-skirtos  labdarai  ir  paramai,  bet  ne
+patvirtintos 
+išlaidos,  skirtos  labdarai  ir  paramai,  bet  ne
 daugiau kaip  40
 procentų  apmokestinamojo pelno.  Lėšos, skirtos
 labdarai ir  
@@ -413,7 +423,7 @@ realizavimo 
 pajamose   mažesnė  kaip   50%,  visas        pelnas
 apmokestinamas pagal
 7 straipsnyje nustatytus tarifus.
-     Kūrybinių 
+     Kūrybinių 
 sąjungų  (architektų,  dailininkų,    dizainerių,
 fotomenininkų, 
 kompozitorių,   kinematografininkų,  mokslininkų,
@@ -435,12 +445,12 @@ pakeitimai: 
  
  
      9 straipsnis.
-Įmonės,  kurių   realizavimo  pajamos  už  pačių  pagamintą
-produkciją sudaro 
-daugiau kaip  50% visų gautų pajamų ir kuriose
-dirba riboto 
-darbingumo dirbantieji,  mažina apskaičiuotą  pelno
-mokestį tokia
+Įmonės, kurių  realizavimo  pajamos  už  pačių  
+pagamintą 
+produkciją sudaro  daugiau kaip  50% visų gautų pajamų 
+ir kuriose dirba
+riboto darbingumo dirbantieji, mažina apskaičiuotą  
+pelno mokestį tokia
 tvarka:
       Riboto
 darbingumo  dirbančiųjų Apskaičiuoto  pelno  mokesčio
@@ -478,7 +488,7 @@ Nr.34-813
  
      10 straipsnis. 
 Savivaldybių  Tarybos turi teisę kai kuriems
-asmenims   sumažinti
+asmenims   sumažinti
 mokesčio  dydį arba  iš viso  juos  atleisti
 konkrečiam
 laikotarpiui  nuo pelno mokesčio, tačiau tai turi būti
@@ -492,6 +502,20 @@ mokėtojas   pagal Lietuvos  Respublikos įstatymus turi
 teisę   į  kelias 
 mokesčio  lengvatas,  teikiama  tik didžiausia
 lengvata.
+     Lietuvos
+Respublikos įstatymai gali numatyti atvejus, kuriems 
+esant mokesčių
+mokėtojai gali būti atleisti nuo nesumokėtų mokesčių,
+taip pat dėl to
+priskaičiuotų baudų ir delspinigių mokėjimo.
+ 
+     Pakeitimai:
+  1. Lietuvos
+Respublikos 1995 12 28
+     Įstatymas
+Nr.1-1159
+     Žin., 1996,
+Nr.1-3
  
  
              V.
@@ -506,13 +530,13 @@ numatytą biudžetą.
      Juridiniai 
 asmenys,  turintys  nesavarankiškų  struktūrinių
 padalinių   kitų 
-savivaldybių  teritorijose, apskaičiuoto  pelno
+savivaldybių  teritorijose, apskaičiuoto  pelno
 mokesčio dalį,  
 priklausančią sumokėti į savivaldybės  biudžetą,
 paskirsto tarp 
 savivaldybių proporcingai jų teritorijose esančių
-nesavarankiškų  struktūrinių  
-padalinių   dirbančiųjų   skaičiui
+nesavarankiškų 
+struktūrinių   padalinių   dirbančiųjų   skaičiui
 atitinkamo periodo
 pabaigoje.
  
@@ -545,7 +569,7 @@ suderinus   tai su  atitinkama valstybine mokesčių
 inspekcija Finansų
 ministerijos nustatyta tvarka.
      Avansiniai
-mokėjimai  skaičiuojami nuo  faktinių realizavimo
+mokėjimai  skaičiuojami nuo  faktinių realizavimo
 įplaukų  taikant  
 išėmimo  koeficientą.   Apskaičiuotas   įmokas
 mokėtojas  perveda  
@@ -561,19 +585,20 @@ mokėjimams  taikomas praėjusiais  metais     naudotas
 išėmimo
 koeficientas.
  
-     Straipsnio  pakeitimai:
+     Straipsnio 
+pakeitimai:
 1. 1-326;
 1993.12.09; Žin., 1993, Nr.70-1306;
-2. 1-395;
-1994.02.17; Žin., 1994, Nr.15-251;
+2. 1-395; 1994.02.17;
+Žin., 1994, Nr.15-251;
  
  
      13 straipsnis. 
 Mokėtojai, kurie didelę dalį pajamų gauna ne
 per bankus,
 avansinius mokėjimus moka suderinta  su valstybinėmis
-mokesčių inspekcijomis
-tvarka.
+mokesčių
+inspekcijomis tvarka.
  
           Straipsnio
 pakeitimai: 
@@ -601,8 +626,8 @@ sumokėta mažiau 
 negu priklauso,  mokėtojas  per    10  dienų  po
 mokesčio 
 apskaičiavimui  pateikti  nustatyto    termino  privalo
-papildomai apskaičiuotą 
-sumą  sumokėti  į  Lietuvos  Respublikos
+papildomai
+apskaičiuotą  sumą  sumokėti  į  Lietuvos  Respublikos
 biudžetinės   
 sandaros    įstatymo    numatytą    biudžetą,    o
 permokamokėtojo
@@ -618,8 +643,8 @@ Atsakomybė už teisingą pelno mokesčio
 apskaičiavimą ir sumokėjimą
  
  
-     15
-straipsnis.Mokėtojas  atsako už  tai, kad  pelno mokestis
+     15 straipsnis.Mokėtojas 
+atsako už  tai, kad  pelno mokestis
 būtų teisingai
 apskaičiuotas.
      Jeigu    
@@ -670,8 +695,8 @@ biudžetą   
 terminą.     Atidėjimo    laikotarpiu    delspinigiai
 neskaičiuojami. 
 Jeigu   mokėtojas   iki   delspinigių   mokėjimo
-atidėjimo paskutinės
- dienos nesumoka  priskaičiuotų delspinigių,
+atidėjimo
+paskutinės  dienos nesumoka  priskaičiuotų delspinigių,
 tai delspinigiai 
 priskaičiuojami ir  sumokami į  biudžetą ir  už
 visą atidėjimo 
@@ -693,8 +718,8 @@ pakeitimai:
 1994.02.17.; Žin., 1994, Nr.15-251;
  
  
-     17 
-straipsnis.  Mokėtojo  pareigūnai,  pateikę  neteisingas
+     17  straipsnis. 
+Mokėtojo  pareigūnai,  pateikę  neteisingas
 žinias,  dėl  
 kurių  mokestis  buvo  neteisingai  apskaičiuotas,
 traukiami
@@ -727,8 +752,8 @@ Nr.34-813
 Kai  Lietuvos  Respublikos  juridinis  asmuo
 gauna pelną, 
 apmokestinamą užsienyje, ir nėra sutarties dvigubam
-apmokestinimui išvengti, 
-Lietuvos Respublikos  Vyriausybės  arba
+apmokestinimui
+išvengti,  Lietuvos Respublikos  Vyriausybės  arba
 jos pavedimu 
 Finansų ministerijos  nustatyta  tvarka  galima  iš
 tokio juridinio 
