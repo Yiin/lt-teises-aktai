@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C828E20E430B"
 
 # Lietuvos Respublikos kino įstatymas
 
+Suvestinė redakcija nuo 2003-11-19 iki 2010-02-28
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 31-1107, i. k. 1021010ISTA00IX-752
+ 
+ 
 LIETUVOS RESPUBLIKOS KINO ĮSTATYMAS
  
 2002 m. kovo 5 d. Nr. IX-752
@@ -295,7 +300,10 @@ VALSTYBINIS KINO VALDYMAS
 6 straipsnis. Kino taryba 
 
 
-1. Kino taryba (toliau – Taryba) yra kolegiali, patariamojo balso teisę turinti visuomeniniais pagrindais veikianti institucija prie Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje. Ji analizuoja Lietuvos kino plėtros ir sklaidos klausimus, nagrinėja kino programas ir filmų gamybos projektus, pretenduojančius gauti valstybės finansavimą, ir pasiūlymus šiais klausimais teikia Vyriausybės įgaliotai institucijai, atsakingai už valstybės politiką kino srityje. Tarybos darbo reglamentą tvirtina pati Taryba.
+1. Kino taryba (toliau – Taryba) yra kolegiali, patariamojo balso teisę turinti institucija, veikianti prie Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje. Ji, kaip ekspertas ir konsultantas, analizuoja Lietuvos kino plėtros ir sklaidos klausimus, nagrinėja kino programas ir filmų gamybos projektus, pretenduojančius gauti valstybės finansavimą, ir pasiūlymus šiais klausimais teikia Vyriausybės įgaliotai institucijai, atsakingai už valstybės politiką kino srityje. Tarybos darbo reglamentą tvirtina pati Taryba. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
+ 
 
 
 
@@ -305,7 +313,9 @@ VALSTYBINIS KINO VALDYMAS
 
 
 
-3. Tarybos sudėtį ir nuostatus tvirtina Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje.
+3. Tarybos sudėtį, nuostatus, teikiamų paslaugų apmokėjimo tvarką tvirtina Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje.
+Straipsnio dalies pakeitimai:
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
  
 
 
@@ -383,7 +393,7 @@ KINO FINANSAVIMAS
 
 
 
-3.    Lėšų skyrimo tvarką ir sąlygas, atsižvelgdamos į Tarybos pasiūlymus, nustato Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje, ir Vyriausybės įgaliota institucija, atsakinga už kino paveldo apsaugą.
+3. Lėšų skyrimo tvarką ir sąlygas, atsižvelgdamos į Tarybos pasiūlymus, nustato Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje, ir Vyriausybės įgaliota institucija, atsakinga už kino paveldo apsaugą.
 
 
 
@@ -429,12 +439,15 @@ KINO FINANSAVIMAS
 8 straipsnis. Nacionalinio kino rėmimo programa
 
 
-1. Filmų gamybai, debiutinių filmų gamybos projektams įgyvendinti, nacionaliniams filmams rodyti, kino priemonėms modernizuoti, kinui populiarinti Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje, sudaro Nacionalinio kino rėmimo programą. Ją tvirtina Vyriausybė. 
+1. Filmų gamybai, debiutinių filmų gamybos projektams įgyvendinti, nacionaliniams filmams rodyti, kino priemonėms modernizuoti, kinui populiarinti Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje, sudaro ir tvirtina Nacionalinio kino rėmimo programą. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
+ 
 
 
 
 
-2. Nacionalinės kino rėmimo programos lėšas sudaro:
+2.Nacionalinės kino rėmimo programos lėšas sudaro:
 
 
 1) valstybės biudžeto asignavimai. Planuojant kiekvienų metų valstybės biudžeto išlaidas, Nacionalinio kino rėmimo programai yra numatoma suma, lygi 30 procentų praėjusiais metais apskaičiuoto pridėtinės vertės mokesčio už kino filmų platinimą ir viešą rodymą. Suma apskaičiuojama pagal Statistikos departamento paskelbtus duomenis (pajamos už filmų viešą rodymą kino salėse);
@@ -442,19 +455,17 @@ KINO FINANSAVIMAS
 
 
 
-2) 50 procentų atskaitymų nuo mokesčio už televizijos stočių ir kabelinės televizijos veiklos licencijas;
+2) 25 procentai surinkto atlyginimo už garso ir vaizdo (audiovizualinių) kūrinių panaudojimą asmeniniams tikslams (atlyginimo už tuščią vaizdo laikmeną ir asmeniniam atgaminimui skirtą vaizdo įrangą);
 
 
 
 
-3) 25 procentai surinkto atlyginimo už garso ir vaizdo (audiovizualinių) kūrinių panaudojimą asmeniniams tikslams (atlyginimo už tuščią vaizdo laikmeną ir asmeniniam atgaminimui skirtą vaizdo įrangą);
+3) rinkliava už filmų registro duomenų teikimą.
 
 
-
-
-4) rinkliava už filmų registro duomenų teikimą.
-
-
+Straipsnio dalies pakeitimai:
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
+ 
 
 
 
@@ -625,7 +636,10 @@ FILMŲ PLATINIMAS, RODYMAS
 
 
 
-2. Indeksus, kurie turi būti nurodomi filmų afišose, kitoje reklamoje ir bet kokio pobūdžio informacinėje medžiagoje, skirtoje filmams anonsuoti, suteikia Filmų indeksavimo komisija. Jos sudėtį ir nuostatus Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje, teikimu tvirtina bei Komisijos narių darbo apmokėjimo tvarką nustato Vyriausybė. Ne mažiau kaip pusę Filmų indeksavimo komisijos narių sudaro Lietuvos kinematografininkų sąjungos, prodiuserių, filmų platintojų ir rodytojų asociacijų deleguoti atstovai.
+2. Indeksus, kurie turi būti nurodomi filmų afišose, kitoje reklamoje ir bet kokio pobūdžio informacinėje medžiagoje, skirtoje filmams anonsuoti, suteikia Filmų indeksavimo komisija. Jos sudėtį ir nuostatus Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje, teikimu tvirtina bei Komisijos narių teikiamų paslaugų apmokėjimo tvarką nustato Vyriausybė. Ne mažiau kaip pusę Filmų indeksavimo komisijos narių sudaro Lietuvos kinematografininkų sąjungos, prodiuserių, filmų platintojų ir rodytojų asociacijų deleguoti atstovai.
+Straipsnio dalies pakeitimai:
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
+ 
 
 
 
@@ -790,3 +804,14 @@ skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 LIETUVOS RESPUBLIKOS SEIMO PIRMININKAS                       ARTŪRAS PAULAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
+Lietuvos Respublikos kino įstatymo 6, 8 ir 12 straipsnių pakeitimo įstatymas
