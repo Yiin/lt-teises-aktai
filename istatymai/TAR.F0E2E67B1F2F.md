@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 
 # Lietuvos Respublikos turizmo įstatymas
 
+Suvestinė redakcija nuo 2001-04-20 iki 2003-03-31
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
+ 
+ 
 LIETUVOS RESPUBLIKOS TURIZMO Į S T A T Y M A S
  
 1998 m. kovo 19 d. Nr. VIII-667
@@ -841,7 +846,10 @@ Turistų apgyvendinimo paslaugas teikia:
 
 
 
-5. Šio straipsnio 4 dalyje išvardyti asmenys kaimo turizmo paslaugai plėsti turi teisę gauti finansinę paramą iš Kaimo rėmimo ir Miškų fondų bei kitų fondų Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka bei kompensacijas dėl jų ūkinės veiklos apribojimų saugomose teritorijose.
+5. Kaimo turizmo paslaugų sukūrimas ir plėtojimas gali būti remiamas specialiųjų ir kitų programų vykdymui skirtomis lėšomis įstatymų ir kitų teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. IX-239, 2001-04-05, Žin., 2001, Nr. 34-1128 (2001-04-20), i. k. 1011010ISTA00IX-239
+ 
 
 
 
@@ -1365,3 +1373,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-239, 2001-04-05, Žin., 2001, Nr. 34-1128 (2001-04-20), i. k. 1011010ISTA00IX-239
+Lietuvos Respublikos turizmo įstatymo 18 straipsnio pakeitimo įstatymas
