@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7083DB116A2E"
 
 # Lietuvos Respublikos radiacinės saugos įstatymas
 
+Suvestinė redakcija nuo 2004-05-01 iki 2010-12-31
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 11-239, i. k. 0991010ISTAIII-1019
+ 
+ 
 LIETUVOS RESPUBLIKOS RADIACINĖS SAUGOS ĮSTATYMAS
  
 1999 m. sausio 12 d. Nr. VIII-1019
@@ -395,7 +400,9 @@ VEIKLOS RADIACINĖS SAUGOS SRITYJE LICENCIJAVIMO SĄLYGOS
 
 
 
-2. Leidimus radioaktyviąsias medžiagas, skirtas asmens ir visuomenės sveikatos priežiūros įstaigoms, įmonėms, mokslo ir mokymo įstaigoms bei valstybės valdymo ir savivaldos institucijoms, įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ar pervežti joje išduoda Aplinkos ministerija, suderinusi su Radiacinės saugos centru, o visais kitais atvejais - Aplinkos ministerijos teikimu Vyriausybė.
+2. Leidimus radioaktyviąsias medžiagas, skirtas asmens ir visuomenės sveikatos priežiūros įstaigoms, įmonėms, mokslo ir mokymo įstaigoms bei valstybės ir savivaldybių institucijoms, įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ar pervežti joje išduoda Radiacinės saugos centras, o visais kitais atvejais – Sveikatos apsaugos ministerijos teikimu Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. IX-2115, 2004-04-13, Žin., 2004, Nr. 60-2123 (2004-04-24), i. k. 1041010ISTA0IX-2115
  
 
 
@@ -504,7 +511,9 @@ Juridinis asmuo ar įmonė, neturinti juridinio asmens teisių, turintys licenci
 
 
 
-2. Jonizuojančiosios spinduliuotės šaltinių, radiacinės saugos įrangos bei kitų įtaisų ir medžiagų, galinčių sąlygoti papildomą žmonių apšvitą, taip pat gaminių, turinčių jonizuojančiosios spinduliuotės šaltinių, radiacinės saugos reikalavimų atitiktį kontroliuoja Radiacinės saugos centras Sveikatos apsaugos ministerijos nustatyta tvarka, o tais atvejais, kai jonizuojančiosios spinduliuotės šaltiniai, radiacinės saugos įranga bei kiti įtaisai, medžiagos ir gaminiai, turintys jonizuojančiosios spinduliuotės šaltinių, gali sąlygoti papildomą įtaką aplinkai, - Radiacinės saugos centras kartu su Aplinkos ministerija.
+2. Jonizuojančiosios spinduliuotės šaltinių, radiacinės saugos įrangos bei kitų įtaisų ir medžiagų, galinčių sąlygoti papildomą žmonių apšvitą, taip pat gaminių, turinčių jonizuojančiosios spinduliuotės šaltinių, radiacinės saugos reikalavimų atitiktį kontroliuoja Radiacinės saugos centras Sveikatos apsaugos ministerijos nustatyta tvarka, o tais atvejais, kai jonizuojančiosios spinduliuotės šaltiniai, radiacinės saugos įranga bei kiti įtaisai, medžiagos ir gaminiai, turintys jonizuojančiosios spinduliuotės šaltinių, gali sąlygoti papildomą įtaką aplinkai, – Radiacinės saugos centras kartu su Aplinkos apsaugos agentūra.
+Straipsnio dalies pakeitimai:
+Nr. IX-2115, 2004-04-13, Žin., 2004, Nr. 60-2123 (2004-04-24), i. k. 1041010ISTA0IX-2115
  
 
 
@@ -666,7 +675,10 @@ MAISTO PRODUKTŲ SĄLYGOTOS APŠVITOS RIBOJIMAS
 
 
 
-2. Leistinas dirvožemio, galinčio įtakoti maisto produktų taršą, radioaktyviojo užterštumo normas ir šios taršos valstybinės ekspertizės bei kontrolės tvarką nustato Aplinkos ministerija kartu su Sveikatos apsaugos ministerija.
+2. Dirvožemio, galinčio daryti įtaką maisto produktų ir geriamojo vandens kokybei, radioaktyviojo užterštumo, atsiradusio dėl radiologinės ar branduolinės avarijos, leistinas normas ir kontrolės, ar atitinka normas, tvarką nustato Sveikatos apsaugos ministerija, suderinusi su Aplinkos ministerija.
+Straipsnio dalies pakeitimai:
+Nr. IX-2115, 2004-04-13, Žin., 2004, Nr. 60-2123 (2004-04-24), i. k. 1041010ISTA0IX-2115
+ 
 
 
 
@@ -877,3 +889,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2115, 2004-04-13, Žin., 2004, Nr. 60-2123 (2004-04-24), i. k. 1041010ISTA0IX-2115
+Lietuvos Respublikos radiacinės saugos įstatymo 9, 11 ir 19 straipsnių pakeitimo įstatymas
