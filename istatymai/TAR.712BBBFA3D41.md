@@ -360,7 +360,7 @@ Nr.90-2778 (00.10.27)
 Nr. IX-364, 2001-06-07, Žin., 2001, Nr.
 55-1939 (2001-06-27)
  
-*18 straipsnis.
+18 straipsnis.
 Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių 
 patvirtinimo
 įstatymo projekto pateikimas Seimui
@@ -370,12 +370,7 @@ patvirtinimo įstatymo projektą pateikia Seimui ne vėliau kaip prieš 75
 kalendorines dienas iki biudžetinių metų pabaigos. Vyriausybė, prieš teikdama
 projektą Seimui, pateikia jį Lietuvos savivaldybių asociacijai pagal
 Vyriausybės nustatytą finansinių rodiklių derinimo tvarką.
-*2. Vyriausybė, rengdama ir teikdama Seimui
-atitinkamų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų
-finansinių rodiklių patvirtinimo įstatymo projektą, Seimo kanceliarijai
-numatomų asignavimų dydžius, kurie yra nustatyti Seimo valdybos patvirtintoms
-Seimo kanceliarijos programoms pagal išlaidų sąmatas, įtraukia į šį projektą
-Seimo valdybos teikimu.
+2. (Neteko galios)
 3. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 patvirtinimo įstatymo projekte nustatoma:
 1) bendra pajamų
@@ -404,19 +399,14 @@ asmenų pajamų mokesčio dalis (procentais), tenkanti atskiroms savivaldybėms.
 finansinių rodiklių patvirtinimo įstatymo projekte gali būti pateikiamos
 nuostatos, apribojančios teisę prisiimti įsipareigojimus naudoti biudžeto
 lėšas. 
- 
-*Pastaba. Pripažinti, kad Lietuvos Respublikos biudžeto
-sandaros įstatymo 18 straipsnio 2 dalis prieštarauja Lietuvos Respublikos
-Konstitucijos 5 straipsniui, 94 straipsnio 4 punkto nuostatai, kad
-Vyriausybė rengia valstybės biudžeto projektą, Konstitucijos 130 straipsnio
-nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, konstituciniam
-valdžių padalijimo principui ir konstituciniam teisinės valstybės principui.
 Straipsnio pakeitimai:
 Nr. IX-364, 2001-06-07, Žin., 2001, Nr.
 55-1939 (2001-06-27)
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2002-07-11, Žin., 2002, Nr. 72-3080 (2002-07-17)
- 
+Nr.
+IX-1089,
+2002-09-19, Žin., 2002, Nr. 96-4167 (2002-10-04)
  
 19 straipsnis.
 Dokumentai, teikiami Seimui kartu su Valstybės biudžeto ir savivaldybių 
@@ -435,14 +425,14 @@ valstybės vardu arba su valstybės garantija, nevykdomų finansinių
 4) duomenis apie numatomą valstybės skolinimosi iš užsienio ir vidaus
 kreditorių bendrą sumą;
 5) asignavimų valdytojų programų uždavinių vertinimo kriterijus;
-**6) Valstybinio
+*6) Valstybinio
 socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų
 projektus, Privatizavimo fondo lėšų sąmatą, Valstybės įmonės Ignalinos atominės
 elektrinės eksploatavimo nutraukimo fondo sąmatą, Kelių fondo sąmatą; 
 7) kitus įstatymų bei
 teisės aktų nustatytus dokumentus.
  
-**
+*
 Pastaba.
 Įstatymo 19 straipsnio 6 punkto nuostatos dėl Kelių fondo galioja iki 2002 m.
 sausio 1 d.
@@ -517,8 +507,8 @@ dydis nustatomas tvirtinant savivaldybių biudžetus.
 būti atkurtos ne vėliau kaip iki biudžetinių metų pabaigos.
  
 25 straipsnis. Savivaldybės valdybos (mero) rezervas
-1. Savivaldybės gali sudaryti savivaldybės valdybos (mero) rezervą,
-kuris turi būti ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto
+1. Savivaldybės gali sudaryti savivaldybės valdybos (mero) rezervą, kuris
+turi būti ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto
 asignavimų sumos. Konkretų savivaldybės valdybos (mero) rezervo dydį kasmet
 nustato savivaldybės taryba, tvirtindama atitinkamų biudžetinių metų
 savivaldybės biudžetą. Savivaldybės valdybos (mero) rezervo lėšas skirsto
@@ -625,9 +615,9 @@ valdytojai jas yra įmokėję.
 2. Jeigu savivaldybių biudžetai
 nevykdomi, t.y. gaunama mažiau pajamų, negu buvo numatyta, finansavimas iš
 savivaldybių biudžetų vykdomas savivaldybių tarybų nustatyta tvarka. Jeigu
-numatoma, kad nustatytas pajamų planas iki metų pabaigos nebus įvykdytas,
-sprendimus dėl šiuose biudžetuose numatytų išlaidų finansavimo tvarkos
-savivaldybės valdybos (mero) teikimu priima savivaldybės taryba.
+numatoma, kad nustatytas pajamų planas iki metų pabaigos nebus įvykdytas, sprendimus
+dėl šiuose biudžetuose numatytų išlaidų finansavimo tvarkos savivaldybės
+valdybos (mero) teikimu priima savivaldybės taryba.
 3. Asignavimų
 valdytojams pervedamos valstybės biudžeto arba savivaldybių biudžetų asignavimų
 sumos specialiosioms programoms finansuoti mažinamos faktiškai
@@ -694,8 +684,8 @@ metais valstybės pasiskolintų lėšų suma ir anksčiau perskolintų ūkio sub
 valstybės pasiskolintų lėšų grąžintina suma (ne balanso dalyje).
 6. Valstybės biudžeto ir savivaldybių biudžetų įvykdymo apyskaitos
 sudarymo tvarką ir periodiškumą nustato Finansų ministerija.
-7. Valstybės biudžeto įvykdymo apyskaitą Vyriausybei teikia Finansų
-ministerija Vyriausybės nustatyta tvarka ir terminais.
+7. Valstybės biudžeto įvykdymo apyskaitą Vyriausybei teikia Finansų ministerija
+Vyriausybės nustatyta tvarka ir terminais.
 8. Valstybės ir savivaldybių
 biudžetų finansuojamų įstaigų gaunama negrąžintina finansinė parama
 įtraukiama į valstybės ir savivaldybių biudžetų finansuojamų biudžetinių
@@ -736,7 +726,6 @@ pavaldžių institucijų programų išlaidų sąmatų vidaus auditą atlieka
 vidaus audito tarnybos.
 5. Programų vykdymą vertina vidaus audito tarnybos. Programų
 vykdymo vertinimo tvarką nustato Vyriausybė.
- 
  
  
 LIETUVOS RESPUBLIKOS
@@ -878,8 +867,8 @@ Nauja įstatymo redakcija
  
 13.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2058, 00.10.17, Žin., 2000,
-Nr.90-2778 (00.10.27)
+Nr. VIII-2058, 00.10.17, Žin., 2000, Nr.90-2778
+(00.10.27)
 BIUDŽETO SANDAROS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
@@ -890,10 +879,19 @@ Nr. IX-364, 2001-06-07, Žin., 2001, Nr.
 BIUDŽETO SANDAROS ĮSTATYMO 8, 17, 18, 20, 31 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+15.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1089,
+2002-09-19, Žin., 2002, Nr. 96-4167 (2002-10-04)
+BIUDŽETO
+SANDAROS ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+ 
 *** Pabaiga ***
  
  
-KONSTITUCINIO TEISMO NUTARIMAI:
+Konstitucinio Teismo nutarimai:
  
 1.
 Lietuvos
@@ -912,6 +910,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2002-07-18)
+Aušrinė Trapinskienė (2002-10-04)
                  
 autrap@lrs.lt
