@@ -26,929 +26,713 @@ Vilnius
 
 
  
+Nauja
+įstatymo reakcija nuo 2004 m. sausio 1 d.:
+Nr.
+IX-1582,
+2003-05-27, Žin., 2003, Nr. 57-2530 (2003-06-13)
  
-1
-straipsnis. Įstatymo paskirtis
-Šis įstatymas reglamentuoja
-nekilnojamojo turto objektų - žemės sklypų, statinių ir kito nekilnojamojo
-turto kadastro tvarkymo principus bei duomenų apie nekilnojamąjį turtą įrašymo
-į nekilnojamojo turto kadastro duomenų bazes tvarką, nustato Lietuvos
-Respublikos nekilnojamojo turto kadastro (toliau - nekilnojamojo turto
-kadastras) teisinį statusą, šį kadastrą tvarkančių įmonių, įstaigų ir fizinių,
-juridinių asmenų bei įmonių, neturinčių juridinio asmens teisių (įskaitant
-įmones ir organizacijas, tvarkančias nekilnojamojo turto kadastrą) teises,
-pareigas bei atsakomybę.
+1 straipsnis.
+Įstatymo paskirtis
+Šis Įstatymas reglamentuoja nekilnojamųjų
+daiktų, registruojamų Nekilnojamojo turto registre, kadastro duomenų nustatymą,
+jų įrašymą į nekilnojamojo turto kadastrą, nekilnojamojo turto kadastro
+statusą, šio kadastro steigimą, tvarkymą, reorganizavimą ir likvidavimą.
  
 2
-straipsnis. Įstatymo taikymas
-1. Įstatymas taikomas formuojant visus
-nekilnojamojo turto objektus Lietuvos Respublikoje. 
-2. Formuojant
-nekilnojamojo turto objektus taikomos šio įstatymo, Žemės įstatymo, Miškų
-įstatymo, Nekilnojamųjų kultūros vertybių apsaugos įstatymo, Statybos įstatymo,
-Teritorijų planavimo įstatymo, Saugomų teritorijų įstatymo bei kitų teisės
-norminių aktų nuostatos, o įrašant nekilnojamojo turto objektų duomenis į
-nekilnojamojo turto kadastrą taikomos Nekilnojamojo turto registro įstatymo ir
-šio įstatymo nuostatos. Nekilnojamojo turto kadastro duomenų tvarkymą
-(naudojimą) reglamentuoja Nekilnojamojo turto kadastro nuostatai, parengti
-pagal Vyriausybės patvirtintus Valstybės registrų tipinius nuostatus.
+straipsnis. Pagrindinės šio Įstatymo sąvokos
+1.
+Nekilnojamojo turto kadastras – susistemintas ir metodiškai sutvarkytas
+nekilnojamųjų daiktų grafinių ir atributinių duomenų rinkinys (valstybinėje
+koordinačių sistemoje), saugomas kompiuterių laikmenose. Juo galima
+individualiai naudotis elektroniniu ar kitu būdu.
+2. Nekilnojamojo
+daikto kadastro duomenys – duomenys, apibūdinantys nekilnojamojo
+daikto dislokaciją, žemės gamtines ir ūkines savybes, statinių geometrinius
+parametrus bei nekilnojamųjų daiktų naudojimo sąlygas.
+3. Nekilnojamojo
+daikto kadastro duomenų nustatymas – procesas, kurio metu atliekami
+nekilnojamojo daikto kadastriniai matavimai ar kiti teisės aktų nustatyti
+veiksmai, parengiami dokumentai, kurių reikia naujo nekilnojamojo daikto
+kadastro duomenims įrašyti į nekilnojamojo turto kadastrą ar jau įrašytiems
+duomenims pakeisti, ir parengiama nekilnojamojo daikto kadastro duomenų byla ar
+papildoma jau sudaryta byla. 
+4. Nekilnojamojo
+daikto kadastriniai matavimai – veiksmai, kuriais identifikuojamas
+nekilnojamasis daiktas, nustatomos žemės sklypo ribų posūkio taškų ir statinių
+fizinių ribų koordinatės, nekilnojamųjų daiktų geometriniai ir techniniai
+parametrai, apskaičiuojami žemės sklypo bei jame esančių žemės naudmenų plotai
+ir kiti šį daiktą apibūdinantys faktiški kadastro duomenys.
+5. Nekilnojamojo
+daikto kadastro duomenų byla – nekilnojamojo daikto kadastro duomenų
+nustatymo metu parengtų planų, užpildytų kadastro formų ir kitų dokumentų apie
+nekilnojamąjį daiktą sukomplektuotas rinkinys.
+6.
+Nekilnojamojo turto kadastro žemėlapis – nekilnojamojo turto kadastro
+grafinė dalis, kurioje parodoma nekilnojamojo turto kadastre įrašytų
+nekilnojamųjų daiktų vieta ir ribos valstybinėje koordinačių sistemoje. Ši
+informacija pateikiama skaitmenimis, grafiniais elementais.
+7. Kadastro
+vietovė – pagrindinis nekilnojamojo turto kadastro teritorinis vienetas,
+skirtas nekilnojamųjų daiktų apskaitai ir žymėjimui, turintis nustatytas ribas,
+plotą, pavadinimą ir unikalų skaitmeninį kodą. Kadastro vietovė skaidoma į
+kadastro blokus, kurie turi ribas ir unikalius skaitmeninius kodus. Kadastro
+vietovės nustatomos ir keičiamos Vyriausybės nustatyta tvarka.
+8. Riboženklis
+– žemės sklypo ribas vietovėje žymintis ženklas, atitinkantis Vyriausybės
+įgaliotos institucijos nustatytą standartą ir teisiškai saugomas įstatymų
+nustatyta tvarka.
+9. Patalpa –
+pastato dalis, turinti aiškią funkcinę paskirtį (butai, kontoros ir pan.),
+atitvarų konstrukcijomis atskirta nuo bendrojo naudojimo patalpų, kitų butų ar
+negyvenamųjų patalpų.
+10. Amalgamacija
+– nekilnojamojo daikto pertvarkymo būdas, kai vieno nekilnojamojo daikto dalis
+atidalijama nesuformuojant atskiro nekilnojamojo daikto ir sujungiama su greta
+esančiu nekilnojamuoju daiktu.
  
 3
-straipsnis. Pagrindinės šio įstatymo sąvokos
-1.
-Nekilnojamojo turto kadastras - duomenims, kurių reikia nekilnojamojo turto
-objektui suformuoti vadovaujantis Žemės, Miškų, Nekilnojamųjų kultūros vertybių
-apsaugos, Statybos, Teritorijų planavimo, Saugomų teritorijų įstatymų, šio
-įstatymo bei kitų teisės norminių aktų nuostatomis, sukaupti skirtų priemonių
-ir taisyklių bei kadastro duomenų apie suformuotus nekilnojamojo turto objektus
-visuma.
-2. Nekilnojamojo
-turto kadastro duomenys - tekstu, skaitmenimis, grafiniais elementais
-(taškais, linijomis bei poligonais), taip pat kartografiniais būdais išreikšta
-informacija, apibūdinanti nekilnojamojo turto kiekybines bei kokybines savybes.
+straipsnis. Nekilnojamojo turto kadastro statusas
+1. Nekilnojamojo turto kadastras
+steigiamas nekilnojamųjų daiktų kadastro duomenims kaupti, oficialiai
+informacijai apie kadastre sukauptus duomenis teikti.
+2.
+Nekilnojamojo turto kadastre įrašyti duomenys kaupiami ir saugomi Nekilnojamojo
+turto registro centriniame duomenų banke.
+3. Nekilnojamojo daikto kadastro
+duomenų įrašymas į nekilnojamojo turto kadastrą yra laikomas
+nekilnojamojo daikto įregistravimu Nekilnojamojo turto registre.
+4. Nekilnojamojo turto kadastre įrašyti
+duomenys nuo jų įrašymo laikomi teisingais ir išsamiais, kol jie nepakeisti
+arba nenuginčyti įstatymų nustatyta tvarka. 
+ 
+4
+straipsnis. Nekilnojamojo turto kadastro tvarkymas
+1. Nekilnojamojo turto kadastrą tvarko
+Vyriausybės įsteigta valstybės įmonė Kadastro tvarkytojas.
+2.
+Kadastro tvarkytojas įstatymų nustatyta tvarka atsako, kad nekilnojamojo turto
+kadastre kaupiami duomenys atitiktų dokumentus, kurių pagrindu jie buvo
+įrašyti, ir už šių duomenų apsaugą.
 3.
-Nekilnojamojo turto kadastro duomenų bazė - nekilnojamojo turto kadastro
-duomenų visuma, kurią sudaro taip atrinkti, organizuoti ir susisteminti
-duomenys, kad juos galima rasti, apdoroti ir teikti vartotojams naudojant
-kompiuterius ir specialią programinę įrangą.
-4.
-Nekilnojamojo turto kadastro žemėlapis - nekilnojamojo turto kadastro
-duomenų dalis, kurioje nurodyta nekilnojamojo turto buvimo vieta, jo kiekybinės
-ir kokybinės savybės bei skirtingų nekilnojamojo turto objektų padėtis
-valstybinėje geodezinių koordinačių sistemoje ir kurioje ši informacija
-išreikšta žodžiais, skaitmenimis, grafiniais elementais ir kartografinėmis
-priemonėmis. Nekilnojamojo turto kadastro žemėlapio turinį ir jo rengimo tvarką
-nustato Nekilnojamojo turto kadastro nuostatai. 
-5.
-Riboženklis - žemės sklypo formavimo ir jo naudojimo elementas, vietovėje
-nustatantis tikslią žemės sklypo ribos posūkio vietą. Riboženklių gaminimo ir
-naudojimo tvarką nustato Vyriausybės įgaliota institucija, atliekanti žemės
-administravimo ir kadastro veiklos priežiūrą.
-6.
-Nekilnojamojo turto objektas - žemė ir kitokie daiktai, kurie susiję
-su žeme, kurie negali būti perkelti iš vienos vietos į kitą nepakeitus jų
-paskirties ir iš esmės nesumažinus jų vertės (statiniai, pastatai, patalpos,
-butai, inžineriniai įrenginiai ir kiti daiktai, kurie pagal savo paskirtį ir
-prigimtį yra nekilnojamieji) ir kurie Nekilnojamojo turto kadastro tvarkytojo
-nustatyta tvarka gali būti aprašomi kaip atskiri daiktai. Daiktu laikomas iš
-gamtos išgautas arba gaminant sukurtas materialus daiktinės teisės objektas. 
-7. Kiemo
-įrenginys - neturintis aiškios funkcinės priklausomybės ar apibrėžto
-naudojimo arba ūkinės veiklos pobūdžio statinys, kuris tarnauja pagrindiniam
-daiktui ar jo priklausiniui.
-8. Statinys
-- pastatas, priestatas, tiesinys (inžineriniai tinklai, keliai ir pan.) ir visa
-tai, kas statoma (montuojama, tiesiama) ar pastatyta (sumontuota, nutiesta)
-naudojant statybines medžiagas, statybos gaminius, statybos dirbinius ir yra
-tvirtai sujungta su žeme. 
-9. Patalpa
-- statinio dalis, suformuota kaip atskiras nekilnojamojo turto objektas,
-turinti aiškią funkcinę paskirtį bei atskirą išėjimą į lauką arba į kitas
-patalpas.
-10. Butas
-- gyvenamojo ar negyvenamojo pastato, kuriame įrengtos gyvenamosios patalpos,
-dalis iš vieno ar kelių kambarių ir pagalbinių patalpų, turinti atskirą išėjimą
-į lauką arba į bendro naudojimo patalpas.
-11.
-Pagrindinės nekilnojamojo turto formavimo sąlygos - taisyklių ir
-reikalavimų, kuriais privaloma vadovautis formuojant nekilnojamojo turto objektą,
-visuma.
-12.
-Amalgamacija - nekilnojamojo turto objektų pertvarkymo būdas, kai vieno
-nekilnojamojo turto objekto dalis atidalijama nesuformuojant atskiro
-nekilnojamojo turto objekto ir sujungiama su greta esančiu nekilnojamojo turto
-objektu, t. y. atliekamas nekilnojamojo turto objektų sujungimas. 
-13. Žemės
-konsolidavimas - žemės sklypų pertvarkymas vadovaujantis parengtu tam
-tikros teritorijos žemėtvarkos projektu, kad būtų iš esmės pagerintos žemės
-naudojimo sąlygos ir suformuotos žemėnaudos, kurios žemės sklypų savininkams
-sudarytų galimybes efektyviau plėtoti ūkinę veiklą.
-14. Kadastro
-vietovė - pagrindinis nekilnojamojo turto klasifikavimo ir apskaitos
-teritoriniu principu elementas, turintis nustatytas ribas, plotą, pavadinimą ir
-unikalų skaitmeninį kodą. Kadastro vietovės nustatomos ir keičiamos
-Vyriausybės nustatyta tvarka. 
-15. Kadastriniai
-matavimai – veiksmai, kuriais Vyriausybės įgaliotos institucijos nustatyta
-tvarka nustatoma žemės sklypų ribų posūkio taškų bei riboženklių koordinatės
-valstybinėje geodezinių koordinačių sistemoje ir apskaičiuojamas tų žemės
-sklypų plotas ir (arba) statinių techniniai parametrai.
-16.
-Nekilnojamojo turto objekto formavimas - veiksmų nekilnojamajam turtui,
-kaip daiktinės teisės objektui, sukurti ar pertvarkyti visuma.
-17. (Neteko
-galios).
-Straipsnio
-pakeitimai:
-Nr. IX-175, 2001 01 26, Žin., 2001, Nr.
-16-497 (2001 02 21)
+Nekilnojamųjų daiktų kadastro duomenis į nekilnojamojo turto kadastrą
+įrašo Kadastro tvarkytojo darbuotojai, turintys Nekilnojamojo turto kadastro
+nuostatų (toliau – Kadastro nuostatai) nustatyta tvarka suteiktą kvalifikaciją.
+Kadastro nuostatus tvirtina Vyriausybė.
  
- 
-4 straipsnis.
-Nekilnojamojo turto kadastro paskirtis
-Nekilnojamojo
-turto kadastras skirtas reikalingiems duomenims apie nekilnojamąjį turtą,
-suformuotą vadovaujantis šio įstatymo, Žemės įstatymo, Nekilnojamųjų kultūros
-vertybių apsaugos įstatymo, Statybos įstatymo, Teritorijų planavimo įstatymo,
-kitų teisės norminių aktų nuostatomis ir reikalavimais, nustatyti, jiems
-įrašyti į nekilnojamojo turto kadastro duomenų bazes, kaupti, tvarkyti ir
-teikti juos vartotojams. 
- 
-5 straipsnis.
-Nekilnojamojo turto kadastro duomenų teisinis statusas
-Į nekilnojamojo turto kadastro
-duomenų bazes įrašyti nekilnojamojo turto kadastro duomenys pripažįstami
-teisingais ir išsamiais, kol jie nenuginčyti įstatymų nustatyta tvarka.
- 
-6 straipsnis.
-Nekilnojamojo turto kadastro duomenų tvarkymas
+5
+straipsnis. Nekilnojamojo turto kadastro objektai
 1.
-Nekilnojamojo turto kadastro tvarkytojas yra Vyriausybės įsteigta valstybės
-įmonė, registruojanti nekilnojamąjį turtą ir teises į jį, - Nekilnojamojo turto
-registro tvarkytojas.
-2. Nekilnojamojo
-turto kadastro tvarkytojas atsako už duomenų, sukauptų nekilnojamojo turto
-kadastre, teisingumą ir apsaugą. Nekilnojamojo turto duomenis į nekilnojamojo
-turto kadastrą įrašo Nekilnojamojo turto kadastro tvarkytojo vietiniai
-padaliniai. Jų skaičių ir struktūrą nustato Nekilnojamojo turto kadastro
-tvarkytojas. Asmenys, įgalioti tvarkyti nekilnojamojo turto kadastro duomenis,
-privalo turėti Nekilnojamojo turto kadastro nuostatų nustatyta tvarka suteiktą
-kvalifikaciją. Nekilnojamojo turto kadastro tvarkytojo vietinių padalinių į
-nekilnojamojo turto kadastrą įrašyti duomenys Nekilnojamojo turto kadastro
-tvarkytojo nustatyta tvarka perduodami į Nekilnojamojo turto registro centrinį
-duomenų banką. Nekilnojamojo turto kadastro duomenų originalai kaupiami ir
-saugomi Nekilnojamojo turto registro centriniame duomenų banke.
-3. Už Nekilnojamojo turto
-kadastro tvarkytojui teikiamų duomenų, įskaitant ir kartografinius duomenis,
-teisingumą įstatymų nustatyta tvarka atsako šiuos duomenis pateikę asmenys.
-4. Nekilnojamojo turto kadastro
-duomenys, išskyrus valstybės paslaptį sudarančius duomenis, yra vieši. Su
-viešais duomenimis Nekilnojamojo turto kadastro nuostatų nustatyta tvarka
-atlygintinai gali susipažinti kiekvienas asmuo. Neatlygintinai viešais
-nekilnojamojo turto kadastro duomenimis gali naudotis valstybės ir vietos
-savivaldos institucijos, kurių sąrašą tvirtina Vyriausybė.
+Nekilnojamojo turto kadastro objektais laikomi nekilnojamieji daiktai:
+1) žemės sklypas;
+2) statinys
+(taip pat nebaigtas statyti), išskyrus laikiną statinį ar nesudėtingą statinį,
+kuriam nereikia statybos leidimo;
+3) patalpa, šio Įstatymo 7 straipsnio 1
+dalyje nustatytais būdais suformuota kaip atskiras nekilnojamasis daiktas.
+2. Atskirais
+nekilnojamojo turto kadastro objektais negali būti:
+1) patalpos (bendrojo naudojimo
+patalpos, kambariai butuose ir pan.), kurių negalima suformuoti kaip atskirus
+nekilnojamuosius daiktus;
+2) statinių ar patalpų, suformuotų kaip
+atskiri nekilnojamieji daiktai, priklausiniai, kuriais laikomi savarankiški
+pagrindiniam daiktui tarnauti skirti antraeiliai daiktai, pagal savo savybes
+nuolat susiję su pagrindiniu daiktu;
+3) žemės dangos, sankasos, iškasos, pylimai,
+geležinkelio pabėgiai ir bėgiai, riboženkliai, melioracijos ir kiti įrenginiai,
+kurių funkcijos yra tiesiogiai susijusios su žemės sklypu ar statiniu, kaip
+atskiru nekilnojamuoju daiktu. 
+ 
+6
+straipsnis. Nekilnojamojo turto kadastro duomenys
+1.
+Į Nekilnojamojo turto kadastrą įrašomi žemės sklypų kadastro duomenys:
+1) kadastro
+vietovės pavadinimas ir kodas, kadastro bloko kodas, žemės sklypo bloke numeris
+(žemės sklypo kadastro numeris), kurį Kadastro nuostatų nustatyta tvarka
+suteikia Kadastro tvarkytojas;
+2)
+unikalus žemės sklypo numeris, kurį Kadastro nuostatų nustatyta tvarka suteikia
+Kadastro tvarkytojas ir kuris nekinta visą žemės sklypo egzistavimo laiką;
+3) pagrindinė
+tikslinė žemės naudojimo paskirtis;
+4) žemės sklypo
+naudojimo būdas ir pobūdis;
+5) žemės sklypo
+plotas;
+6) žemės sklypo
+ploto sudėtis pagal žemės naudmenų rūšis: žemės ūkio naudmenos, kurias sudaro
+ariamoji žemė, sodai, pievos ir natūralios ganyklos; miško žemė; keliai;
+užstatyta teritorija; žemė, užimta vandens telkinių; kita žemė, kurią sudaro
+medžių ir krūmų želdiniai, pelkės, pažeista žemė ir kita nenaudojama žemė; 
+7) žemės plotas
+su melioracijos įrenginiais: nusausinta žemė; drėkinama žemė;
+8) žemės ūkio
+naudmenų kokybės įvertinimas, išreikštas našumo balu;
+9)
+žemės naudojimo specialiosios sąlygos ir saugomų teritorijų apsaugos
+reglamentai;
+10)
+saugomos teritorijos, kurioje yra kultūros paminklų ir kultūros vertybių,
+duomenys;
+11) žemės sklypo
+vertės, nustatytos Vyriausybės nustatyta tvarka; verčių nustatymo datos;
+12) įsigijimo kaina
+ir įsigijimo data;
+13) žemės sklypo ribų posūkio taškų
+koordinatės valstybinėje koordinačių sistemoje;
+14) žemės sklypo
+kadastro duomenų nustatymo data;
+15) kiti teisės
+aktų nustatyti duomenys.
+2.
+Į nekilnojamojo turto kadastrą įrašomi statinių kadastro duomenys:
+1) objektas:
+pastatas; patalpa; inžinerinis statinys;
+2) unikalus
+statinio (taip pat nebaigto statyti) numeris, kurį Kadastro nuostatų nustatyta
+tvarka suteikia Kadastro tvarkytojas ir kuris nekinta visą statinio buvimo
+laiką;
+3)
+patalpų, suformuotų kaip atskiras nekilnojamojo turto objektas, unikalus
+numeris, kurį Kadastro nuostatų nustatyta tvarka suteikia Kadastro tvarkytojas
+ir kuris nekinta visą šio daikto egzistavimo laiką;
+4) statinio
+pagrindinė tikslinė naudojimo paskirtis ir statinio pavadinimas;
+5) statinio
+parametrai: plotas; tūris; ilgis, plotis, skersmuo, skerspjūvis, aukštis,
+gylis, perimetras arba kiti statiniams būdingi geometriniai parametrai;
+6) statinio
+statybinė medžiaga;
+7) statinio
+vidaus įrangos charakteristikos;
+8) statinio
+vertės, nustatytos Vyriausybės nustatyta tvarka; verčių nustatymo datos;
+9) statinio
+fizinio nusidėvėjimo ir baigtumo procentas;
+10) įsigijimo
+kaina ir įsigijimo data;
+11) statinio
+statybos (rekonstravimo) pradžios ir pabaigos metai;
+12) duomenys
+apie statinio statybos būklę;
+13) statinio
+buvimo vieta žemės sklype (žemės sklypo, kuriame yra statinys, unikalus
+numeris);
+14)
+patalpos, suformuotos kaip atskiras nekilnojamasis daiktas, buvimo vieta
+pastate (statinio, kuriame yra patalpa, unikalus numeris);
+15) statinio
+aukštų skaičius;
+16) patalpų,
+suformuotų kaip atskiri nekilnojamieji daiktai, skaičius;
+17) gyvenamosios
+paskirties patalpų, suformuotų kaip atskiri nekilnojamieji daiktai, skaičius;
+18) gyvenamosios
+paskirties patalpų, suformuotų kaip atskiri nekilnojamieji daiktai, kambarių
+skaičius;
+19) aukštas,
+kuriame yra patalpa, suformuota kaip atskiras nekilnojamasis daiktas;
+20) kultūros
+paminklo ir kultūros vertybės duomenys;
+21) statinio
+kontūrų skaitmeninė grafinė informacija ir statinio vidaus išplanavimo
+skaitmeniniai grafiniai duomenys;
+22) statinio
+kadastro duomenų nustatymo data; 
+23) kiti teisės
+aktų nustatyti duomenys.
+3.
+Įrašant nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą,
+turi būti įrašomas nekilnojamajam daiktui Vyriausybės nustatyta tvarka
+suteiktas adresas (gyvenamosios vietovės pavadinimas, gatvės pavadinimas ir
+pastato numeris).
+4. Nekilnojamojo daikto kadastro
+duomenų įrašymo į nekilnojamojo turto kadastrą tvarką nustato Kadastro
+nuostatai.
  
 7
-straipsnis. Dėl Nekilnojamojo turto kadastro tvarkytojo kaltės patirtos žalos 
-atlyginimas
-
-1. Fizinių ir
-juridinių asmenų, įmonių, neturinčių juridinio asmens teisių, ar valstybės ir
-savivaldybių patirtą žalą dėl Nekilnojamojo turto kadastro tvarkytojo kaltės
-atlygina Nekilnojamojo turto kadastro tvarkytojas įstatymų nustatyta tvarka
-Nekilnojamojo turto registro įstatymo nustatytais atvejais.
- 2. Kai remiantis nekilnojamojo
-turto kadastro įrašais nekilnojamasis turtas įregistruotas Nekilnojamojo turto
-registre, žala atlyginama Nekilnojamojo turto registro įstatymo nustatyta
-tvarka. 
- 
-II SKYRIUS
-NEKILNOJAMOJO
-TURTO OBJEKTO FORMAVIMAS
+straipsnis. Nekilnojamųjų daiktų formavimas
+1.
+Nekilnojamieji daiktai formuojami šiais būdais:
+1) suformuojant naują nekilnojamąjį
+daiktą;
+2) padalijant Nekilnojamojo turto
+registre įregistruotą nekilnojamąjį daiktą į atskirus nekilnojamuosius daiktus;
+3) atidalijant Nekilnojamojo turto
+registre įregistruoto bendrosios nuosavybės teise valdomo nekilnojamojo daikto
+dalis ir jas suformuojant kaip atskirus nekilnojamuosius daiktus;
+4) sujungiant kelis Nekilnojamojo turto
+registre įregistruotus nekilnojamuosius daiktus į vieną nekilnojamąjį daiktą;
+5) atliekant nekilnojamojo daikto
+amalgamaciją.
+2.
+Žemės sklypai formuojami:
+1) kai žemės reformos metu grąžinama
+turėta žemė, perduodama arba suteikiama nuosavybėn neatlygintinai, parduodama
+arba nuomojama valstybinė žemė – Žemės reformos įstatymo nustatyta tvarka
+rengiant žemės reformos žemėtvarkos projektus, o miestuose – Teritorijų
+planavimo įstatymo nustatyta tvarka rengiant detaliuosius planus;
+2) kitais atvejais – Žemės įstatymo,
+Teritorijų planavimo įstatymo ir kitų įstatymų nustatyta tvarka rengiant
+žemėtvarkos projektus, detaliuosius planus ar kitus teritorijų planavimo
+dokumentus.
+3.
+Statiniai formuojami Statybos įstatymo nustatyta tvarka.
+4.
+Nekilnojamasis daiktas laikomas baigtu formuoti, kai yra nustatyti jo kadastro
+duomenys ir teisės aktų nustatyta tvarka priimtas viešojo administravimo
+subjekto sprendimas nekilnojamąjį daiktą suformuoti.
  
 8
-straipsnis. Nekilnojamojo turto objekto formavimo būdai
-Nekilnojamojo
-turto objektas formuojamas šiais būdais:
-1) suformuojant
-nekilnojamojo turto daiktinių teisių objektą; 
-2) padalijant
-Nekilnojamojo turto registre įregistruotą nekilnojamojo turto objektą į
-atskirus naujus nekilnojamojo turto objektus;
-3) atidalijant
-iš Nekilnojamojo turto registre įregistruoto nekilnojamojo turto objekto dalį,
-kuri suformuojama kaip atskiras nekilnojamojo turto objektas;
-4) sujungiant
-kelis Nekilnojamojo turto registre įregistruotus nekilnojamojo turto objektus į
-vieną nekilnojamojo turto objektą;
-5) atliekant
-nekilnojamojo turto objektų amalgamaciją.
+straipsnis. Nekilnojamojo daikto kadastro duomenų nustatymas
+1.
+Nekilnojamojo daikto kadastro duomenys nustatomi atliekant tikslius ir išsamius
+kadastrinius matavimus, naudojant tiksliausias priemones, kai šio Įstatymo 7
+straipsnio 1 dalyje nustatytais būdais formuojami nekilnojamieji daiktai ar šio
+Įstatymo 9 straipsnyje nustatytais atvejais keičiami nekilnojamųjų daiktų
+kadastro duomenys.
+2. Žemės reformos metu Žemės
+reformos įstatymo ir kitų teisės aktų nustatyta tvarka atliekant žemės sklypų
+kadastrinius matavimus, jų ribų posūkio taškų koordinatės nustatomos grafiškai
+pagal paskiausiai atnaujintą kartografinę medžiagą Kadastro nuostatų nustatyta
+tvarka.
+3. Nekilnojamojo
+daikto kadastro duomenų nustatymo metu:
+1) nustatomos ir
+riboženkliais paženklinamos žemės sklypo ribos, kurių standartus ir ženklinimo
+taisykles nustato Vyriausybės įgaliota institucija;
+2) kadastriniais matavimais nustatomos
+žemės sklypo ribų posūkio taškų ir riboženklių bei statinių kontūrų koordinatės
+valstybinėje koordinačių sistemoje, išskyrus šio straipsnio 2 dalyje nustatytus
+atvejus;
+3)
+kartografuojamos faktinės žemės naudmenos; 
+4)
+apskaičiuojamas bendras žemės sklypo plotas bei žemės naudmenų plotai;
+5) parengiamas
+žemės sklypo planas;
+6)
+apskaičiuojama žemės sklypo vertė Vyriausybės nustatyta tvarka;
+7) užpildoma
+žemės sklypo kadastro duomenų forma;
+8) išmatuojamos
+statinių ribos, nustatoma statinių pagrindinių konstrukcijų statybinė medžiaga,
+pastato vidaus įrangos charakteristikos ir kiti techniniai duomenys, kurių
+reikia nekilnojamojo daikto duomenims įrašyti į nekilnojamojo turto kadastrą;
+9) nustatomos
+inžinerinių statinių kontūrų ir (arba) ašių koordinatės valstybinėje
+koordinačių sistemoje;
+10) nustatoma
+statinio paskirtis, pavadinimas, adresas (gyvenamosios vietovės pavadinimas,
+gatvės pavadinimas ir pastato numeris), statybos pradžios ir pabaigos,
+rekonstravimo metai;
+11)
+apskaičiuojami statinių ir patalpų plotai, tūriai ir kiti parametrai, kurių
+reikia nekilnojamojo daikto duomenims įrašyti į kadastrą;
+12) parengiami
+statinių aukštų planai;
+13)
+apskaičiuojamos statinio vertės Vyriausybės nustatyta tvarka;
+14) užpildomos
+statinių kadastro duomenų formos;
+15) parengiama
+nekilnojamojo daikto kadastro duomenų byla.
+4. Nekilnojamojo
+daikto kadastro duomenų bylą sudaro:
+1) nekilnojamojo
+daikto planai, nurodyti šio straipsnio 3 dalies 5 ir 12 punktuose;
+2) nekilnojamojo
+daikto kadastro duomenų formos, nurodytos šio straipsnio 3 dalies 7 ir 14
+punktuose;
+3) dokumentai,
+nurodyti šio Įstatymo 12 straipsnyje, kurių pagrindu nekilnojamojo turto
+kadastre yra įrašyti ar pakeisti nekilnojamojo daikto kadastro duomenys.
+5. Nekilnojamojo
+daikto planai turi būti parengti taip, kad naudojantis valstybinės koordinačių
+sistemos duomenimis būtų galima nustatyti nekilnojamojo daikto vietą Lietuvos
+teritorijoje. Parengtas žemės sklypo planas turi būti suderintas su žemės
+tvarkymo darbus administruojančia valstybės institucija.
+6. Nekilnojamųjų
+daiktų kadastro duomenų nustatymo detalią tvarką ir reikalavimus, nekilnojamojo
+daikto planų bei kadastro duomenų formų turinį ir parengimo bei nekilnojamojo
+daikto kadastro duomenų bylos suformavimo tvarką nustato Kadastro nuostatai.
  
 9
-straipsnis. Nekilnojamojo turto objektai
-1. Nekilnojamojo
-turto (kartu su jo priklausiniais) objektais laikomi:
-1) žemės sklypas
-su jame esančiais statiniais, įskaitant ir inžinerinius įrenginius;
-2) žemės
-sklypas;
-3) statinys
-(taip pat nebaigtas statyti);
-4) butas;
-5) patalpa
-pastate, šio įstatymo 11 straipsnyje nustatytais atvejais suformuota kaip
-atskiras nekilnojamojo turto objektas; 
-6) inžinerinis
-įrenginys, kurio funkcijos tiesiogiai nesusijusios su žemės sklypu ar pastatu;
-7) šio straipsnio
-3 dalyje išvardyti objektai, kurių naudojimo pagrindinė tikslinė paskirtis
-pakeista, jeigu statybos valstybinę priežiūrą atliekančios institucijos siūlymu
-yra priimtas sprendimas dėl šių objektų, kaip atskirų nekilnojamojo turto
-objektų, suformavimo.
-2. Atskirais
-nekilnojamojo turto objektais negali būti:
-1) žemės sklypo
-priklausiniai, nurodyti Nekilnojamojo turto registro įstatymo 6 straipsnio 1
-dalyje; 
-2) patalpos
-individualiuose gyvenamuosiuose namuose ir butuose, kurių negalima pertvarkyti
-į atskirus nekilnojamojo turto objektus; 
-3) bendro
-naudojimo patalpos, įrenginiai ir rūsiai;
-4) ūkio
-pastatai, priestatai, kurie pagal panaudojimą ar ūkinės veiklos būdą yra
-tiesiogiai susiję su pastatu, butu ar patalpa, suformuotu kaip atskiras
-nekilnojamojo turto objektas; 
-5) kito
-nekilnojamojo turto objektų (statinių) priklausiniai: inžineriniai įrenginiai,
-kurie pagal savo funkcijas yra tiesiogiai susiję su žemės sklypu ar statiniu,
-kuris jau yra suformuotas kaip atskiras nekilnojamojo turto objektas (keliai,
-geležinkeliai, uosto įrenginiai ir pan.); kiemo įrenginiai, jei negalima
-nustatyti aiškios jų tikslinės priklausomybės, paskirties ar neapibrėžtas šių
-objektų naudojimo ar ūkinės veiklos būdas; tvoros, sienos, žemės dangos,
-sankasos, geležinkelio pabėgiai ir bėgiai, riboženkliai ir kiti įrenginiai,
-kurių funkcijos yra tiesiogiai susijusios su žemės sklypu ar pastatu,
-suformuotu kaip atskiras nekilnojamojo turto objektas.
-3. Kai statinys
-yra padalytas į patalpas ar butus, kurie šio įstatymo nustatyta tvarka yra
-suformuoti kaip atskiri nekilnojamojo turto objektai, į nekilnojamojo turto
-kadastrą įrašomi duomenys apie statinį ir apie statinio sudėtines dalis - butus
-bei patalpas.
-4. Atsisakymas
-suformuoti nekilnojamojo turto objektą kaip atskirą nekilnojamojo turto objektą
-skundžiamas įstatymų nustatyta tvarka.
+straipsnis. Nekilnojamojo turto kadastre įrašytų duomenų pakeitimai
+1. Nekilnojamojo turto kadastre
+įrašyti statinių kadastro duomenys turi būti keičiami, jei statiniai buvo
+rekonstruoti, kapitaliai remontuoti ar jei buvo atlikti nekilnojamosios
+kultūros paveldo vertybės tvarkymo statybos darbai ir jei šie pakitimai nebuvo
+nustatyti šio straipsnio 2 dalyje numatytu atveju.
+2. Nekilnojamojo turto kadastre
+įrašyti žemės sklypų kadastro duomenys turi būti keičiami, jei žemės sklype
+buvo pastatyti, rekonstruoti, kapitaliai remontuoti statiniai ar atlikti
+nekilnojamosios kultūros paveldo vertybės tvarkymo statybos darbai, nutiesti
+keliai, iškasti tvenkiniai, įrengti valymo ar melioracijos ir kiti žemės sklypo
+įrenginiai, taip pat atlikti kiti veiksmai, pakeitę kadastro duomenis, bei
+įstatymų nustatyta tvarka nustačius, kad dėl gamtinių procesų pakito žemės
+naudmenų sudėtis.
+3. Nekilnojamojo turto kadastre
+įrašytų duomenų pakeitimo tvarką ir reikalavimus bei leistinus kadastro duomenų
+neatitikimų dydžius dėl skirtingo tikslumo kadastrinių matavimų nustato
+Kadastro nuostatai.
+4.
+Nekilnojamojo turto kadastre įrašyti duomenys keičiami valstybės
+valdžios ar valdymo institucijų teikimu Kadastro nuostatų nustatyta
+tvarka:
+1) įgyvendinant
+Vyriausybės sprendimus dėl nekilnojamųjų daiktų vertės perskaičiavimo;
+2) vykdant teismų sprendimus dėl nekilnojamojo turto
+kadastre įrašytų duomenų patikslinimo;
+3) patikslinant nekilnojamųjų daiktų kadastro duomenis, kai
+šie nekilnojamieji daiktai ar jų dalys paimami visuomenės poreikiams;
+4)
+kitais teisės aktų nustatytais atvejais.
  
-10 straipsnis. Žemės sklypų, kaip atskirų
-nekilnojamojo turto objektų, formavimas 
-1. Žemės
-sklypai, kaip atskiri nekilnojamojo turto daiktinių teisių objektai, formuojami
-remiantis Žemės įstatymo, Žemės reformos įstatymo, Teritorijų planavimo
-įstatymo ir Nekilnojamųjų kultūros vertybių apsaugos įstatymo nuostatomis.
- 2. Pagrindas
-žemės sklypo formavimo darbams pradėti yra žemės sklypo savininko, valstybinės
-žemės naudotojo ar valdytojo funkcijas atliekančios institucijos rašytinis
-prašymas arba įstatymų nustatytais atvejais įgaliotos institucijos teikimas.
-Šis prašymas ar teikimas pateikiamas:
-1) Žemės
-įstatymo, Žemės nuomos įstatymo ir Žemės reformos įstatymo nustatyta tvarka
-institucijai, kuriai pavesta parduoti ar kitaip perleisti privačion nuosavybėn,
-išnuomoti ar suteikti naudotis valstybinę žemę - kai žemės sklypai formuojami
-valstybinėje žemėje; 
-2) institucijai
-ar asmenims, turintiems teisę atlikti žemės sklypų formavimo darbus, - kai
-formuojami žemės sklypai, valdomi privačios nuosavybės teise. Kai
-nekilnojamasis turtas bendrosios nuosavybės teise priklauso keliems asmenims,
-prašymą paduoda visi nuosavybės bendrasavininkiai arba notarine tvarka jų
-įgalioti asmenys. 
-3. Žemės sklypai
-baigiami formuoti jų duomenų įrašymu į nekilnojamojo turto kadastrą.
+10
+straipsnis. Pranešimai Kadastro tvarkytojui
+1. Institucija, išdavusi leidimą
+statinį statyti, rekonstruoti, kapitaliai remontuoti ar atlikti nekilnojamosios
+kultūros paveldo vertybės tvarkymo statybos darbus, per 14 kalendorinių dienų
+nuo išdavimo dienos perduoda pranešimą Kadastro tvarkytojui. Kadastro
+tvarkytojas padaro žymą nekilnojamojo turto kadastre.
+2. Institucija,
+pripažinusi statinį tinkamu naudoti, per 14 kalendorinių dienų nuo pripažinimo
+dienos perduoda pranešimą Kadastro tvarkytojui. Kadastro tvarkytojas padaro
+žymą nekilnojamojo turto kadastre.
+3. Institucija,
+priėmusi sprendimą gyvenamąsias patalpas pripažinti netinkamomis gyventi, per
+14 kalendorinių dienų nuo sprendimo priėmimo dienos perduoda pranešimą Kadastro
+tvarkytojui. Kadastro tvarkytojas padaro žymą nekilnojamojo turto kadastre.
+4. Institucija,
+teisės aktų nustatytais atvejais priėmusi sprendimą nekilnojamąjį daiktą
+paskelbti saugomu arba Vyriausybei priėmus sprendimą gamtos ar kultūros vertybę
+paskelbti kultūros paminklu, per 14 kalendorinių dienų nuo sprendimo priėmimo
+dienos perduoda pranešimą Kadastro tvarkytojui. Kadastro tvarkytojas padaro
+žymą nekilnojamojo turto kadastre. 
+5. Institucija,
+priėmusi sprendimą atkurti nuosavybės teises į nekilnojamąjį daiktą, per 14
+kalendorinių dienų nuo sprendimo priėmimo dienos perduoda nuosavybės teisių
+atkūrimo bylą Kadastro tvarkytojui. Kadastro tvarkytojas Kadastro nuostatų
+nustatyta tvarka duomenis įrašo į nekilnojamojo turto kadastrą.
+6. Kitus
+pranešimų Kadastro tvarkytojui atvejus nustato įstatymai.
+7. Šio
+straipsnio 1–4 dalyse nurodytų pranešimų Kadastro tvarkytojui perdavimo tvarką
+ir jų turinį bei žymos nekilnojamojo turto kadastre padarymo tvarką nustato
+Kadastro nuostatai.
  
-11 straipsnis. Statinių, butų, patalpų ir
-inžinerinių įrenginių, kurių funkcijos 
-tiesiogiai
-nesusijusios su žemės sklypu ar statiniu, kaip atskirų 
-nekilnojamojo
-turto objektų, formavimas
-1. Statiniai,
-butai, patalpos ir inžineriniai įrenginiai, kurių funkcijos tiesiogiai
-nesusijusios su žemės sklypu ar statiniu, (toliau - statiniai) kaip atskiri
-nekilnojamojo turto objektai šio įstatymo 8 straipsnyje numatytais būdais
-formuojami tik tais atvejais, kai nekilnojamojo turto savininkai ar juridiniai
-asmenys, valdantys nekilnojamąjį turtą patikėjimo teise, turi Statybos įstatymo
-nustatyta tvarka išduotą leidimą statyti, rekonstruoti, remontuoti ar kitaip
-statinius pertvarkyti. Kad statinys suformuotas kaip atskiras nekilnojamojo
-turto objektas, patvirtina nustatyta tvarka išduotas statinių priėmimo naudoti
-aktas, o tais atvejais, kai statinys nebaigtas statyti, - statybos valstybinę
-priežiūrą atliekančios institucijos pažyma, kad statinys statomas iš esmės
-nenukrypstant nuo projekto. Kai kaip atskiri nekilnojamojo turto objektai
-formuojami statiniai, kuriems statyti ar kitaip pertvarkyti įstatymų nustatyta
-tvarka nebuvo išduoti leidimai, tie statiniai pastatyti tada, kai šių
-reikalavimų nebuvo, arba tokie leidimai pagal įstatymus nebūtini, statinių
-savininkai ar juridiniai asmenys, valdantys nekilnojamąjį turtą patikėjimo
-teise, Nekilnojamojo turto kadastro tvarkytojui pateikia nuosavybės teisę ar
-valdymo teisę patvirtinančius dokumentus. 
-2. Leidimą
-statinį statyti, rekonstruoti, remontuoti ar kitaip pertvarkyti išdavusi
-institucija leidimo kopiją per 30 dienų nuo išdavimo dienos Nekilnojamojo turto
-kadastro nuostatų nustatyta tvarka perduoda Nekilnojamojo turto kadastro
-tvarkytojui, kuris statiniui suteikia unikalų statinio kodą. 
-3. Laikoma, kad
-naujai statomi ar rekonstruojami statiniai baigti formuoti, kai nustatyta
-tvarka parengtas ir patvirtintas statinių priėmimo naudoti aktas, o tais
-atvejais, kai statinys nebaigtas statyti, - išduota statybos valstybinę
-priežiūrą atliekančios institucijos pažyma, kad statinys statomas iš esmės
-nenukrypstant nuo projekto, ir parengta statinių kadastrinių matavimų byla.
-Statinių kadastrinių matavimų bylos turinį ir jos parengimo tvarką nustato
-Vyriausybės įgaliota institucija. 
-4. Statiniai,
-kaip atskiri nekilnojamojo turto objektai, baigiami formuoti jų duomenų įrašymu
-į Nekilnojamojo turto kadastrą. 
+11
+straipsnis. Nekilnojamųjų daiktų kadastro duomenis nustatančių asmenų teisės, 
+pareigos ir
+atsakomybė
+1.
+Nekilnojamųjų daiktų kadastro duomenis nustato asmenys, turintys Vyriausybės
+įgaliotos institucijos Geodezijos ir kartografijos įstatymo nustatyta tvarka
+išduotą licenciją vykdyti nekilnojamojo turto kadastro objektų geodezinius
+matavimus, išskyrus atvejus, kai žemės reformos metu Žemės reformos įstatymo
+nustatyta tvarka formuojami žemės sklypai, kurių kadastro duomenis nustato
+asmenys, turintys kvalifikacinius leidimus, išduotus Vyriausybės nustatyta
+tvarka.
+2. Nekilnojamųjų
+daiktų kadastro duomenis nustatantys asmenys įstatymų nustatyta tvarka turi
+teisę laisvai vienytis į asociacijas.
+3.
+Nekilnojamųjų daiktų kadastro duomenis nustatantys asmenys turi teisę patekti į
+kadastro duomenis nustatyti pageidaujančiam asmeniui nuosavybės teise
+priklausantį arba jo valdomą nekilnojamąjį daiktą šiems kadastro duomenims
+nustatyti. 
+4. Nekilnojamųjų daiktų kadastro
+duomenis nustatantys asmenys turi teisę atlikti kadastro duomenų nustatymo
+darbus ir gretimuose žemės sklypuose, jei tai būtina kadastro duomenims
+nustatyti. Tokiu atveju apie atliekamus darbus Kadastro nuostatų nustatyta
+tvarka pranešama gretimų žemės sklypų savininkams ar naudotojams ir turi būti
+gautas jų sutikimas.
+5. Nekilnojamųjų
+daiktų kadastro duomenis nustatantys asmenys Civilinio kodekso nustatyta tvarka
+atsako už žalą, kurią jie padarė kaltais veiksmais, nustatydami nekilnojamojo
+daikto kadastro duomenis.
  
 12
-straipsnis. Pagrindinės nekilnojamojo turto objekto formavimo sąlygos
+straipsnis. Nekilnojamojo daikto kadastro duomenų įrašymo į nekilnojamojo 
+turto kadastrą
+ir jų pakeitimo teisiniai pagrindai
 1. Nekilnojamojo
-turto objektas turi būti suformuotas taip, kad atitiktų teritorijų planavimo
-dokumentuose nustatytą nekilnojamojo turto objekto naudojimo pagrindinę
-tikslinę paskirtį.
-2. Nekilnojamojo
-turto objektas turi būti formuojamas vadovaujantis Teritorijų planavimo
-įstatymo nustatyta tvarka parengtais dokumentais.
-3. Jei
-formuojamo nekilnojamojo turto objekto ribos kerta Lietuvos Respublikos
-teritorijos administracinių vienetų, gyvenamųjų vietovių bei kadastro vietovių
-ribas, atskiri nekilnojamojo turto objektai formuojami kiekviename administraciniame
-vienete - savivaldybėje.
-4. Kai
-nekilnojamojo turto objektas formuojamas teritorijoje, kuri turi sudarytą
-detalųjį planą ar kurioje taikomos specialios žemės naudojimo ir statinių
-statybos bei naudojimo taisyklės, formuojamo nekilnojamojo turto objekto forma,
-dydis ir kiti kadastro duomenys derinami su minėtu planu ar taisyklėmis. 
+daikto kadastro duomenų įrašymo į nekilnojamojo turto kadastrą ir jų pakeitimo
+dokumentai yra:
+1) valstybės valdžios ar
+valdymo institucijos sprendimas;
+2) teismo sprendimas,
+nutartis, nutarimas, nuosprendis;
+3) rašytiniai sandoriai;
+4) kitų valstybės kadastrų
+ir registrų dokumentai;
+5) kiti įstatymų ir
+Vyriausybės nustatyti dokumentai.
+2. Kartu su dokumentais dėl
+nekilnojamojo daikto kadastro duomenų įrašymo į nekilnojamojo turto kadastrą ar
+jų pakeitimo, išskyrus atvejus, nurodytus šio straipsnio 3 dalyje, Kadastro
+tvarkytojui turi būti pateikiamas prašymas įrašyti nekilnojamojo daikto
+kadastro duomenis į nekilnojamojo turto kadastrą ir nekilnojamojo daikto kadastro
+duomenų byla.
+3. Kai prašoma
+nekilnojamojo turto kadastre pakeisti nekilnojamojo daikto kadastro duomenis
+dėl skirtingo tikslumo kadastrinių matavimų, Kadastro tvarkytojas šiuos
+duomenis pakeičia pagal nekilnojamojo daikto kadastro duomenų bylą Kadastro
+nuostatų nustatyta tvarka.
+4. Kadastro tvarkytojui pateikiamų
+dokumentų sąrašą, kai yra prašoma įrašyti į nekilnojamojo turto kadastrą
+duomenis apie statinius, kurie buvo įgyti ar pastatyti iki 1991 m. liepos 25 d., nustato Vyriausybė.
  
 13
-straipsnis. Nekilnojamojo turto objekto ribų nustatymas
-Statinių ir kitų
-nekilnojamojo turto objektų ribos nustatomos kadastriniais matavimais, kurių
-atlikimo tvarką nustato Nekilnojamojo turto kadastro nuostatai.
-Straipsnio
-pakeitimai:
-Nr. IX-175, 2001 01 26, Žin., 2001, Nr.
-16-497 (2001 02 21)
+straipsnis. Nekilnojamojo daikto kadastro duomenų įrašymas į nekilnojamojo 
+turto kadastrą
+ir jų pakeitimas
+1.
+Nekilnojamojo daikto kadastro duomenys įrašomi į nekilnojamojo turto kadastrą
+ir pakeičiami pagal nekilnojamojo daikto buvimo vietą Kadastro nuostatų nustatyta
+tvarka. 
+2.
+Prašymą įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto
+kadastrą ar juos pakeisti paduoda nekilnojamojo daikto savininkas ar patikėjimo
+teise valdantis nekilnojamąjį daiktą asmuo, išskyrus šio Įstatymo 9 straipsnio
+4 dalyje nustatytus atvejus, kai nekilnojamojo turto kadastre įrašyti duomenys
+keičiami valstybės valdžios ar valdymo institucijų
+teikimu Kadastro nuostatų nustatyta tvarka.
+3.
+Prašymai įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto
+kadastrą ar juos pakeisti pateikiami ir nagrinėjami Kadastro nuostatų nustatyta
+tvarka.
+4.
+Išnagrinėjęs prašymą, Kadastro tvarkytojas gali priimti vieną iš šių sprendimų:
+1)
+prašymą tenkinti. Kai prašymų įrašyti nekilnojamojo daikto kadastro duomenis į
+nekilnojamojo turto kadastrą ar juos pakeisti nagrinėjimo metu nenustatyta
+aplinkybių, nurodytų šio Įstatymo 14 straipsnyje, Kadastro tvarkytojas Kadastro
+nuostatų nustatyta tvarka įrašo nekilnojamojo daikto kadastro duomenis į
+nekilnojamojo turto kadastrą ar juos pakeičia;
+2)
+prašymą atmesti. Kai prašymų įrašyti nekilnojamojo daikto kadastro duomenis į
+nekilnojamojo turto kadastrą ar juos pakeisti nagrinėjimo metu nustatomos
+aplinkybės, nurodytos šio Įstatymo 14 straipsnyje, Kadastro tvarkytojas
+Kadastro nuostatų nustatyta tvarka atsisako patenkinti prašymą, grąžina
+pateiktus dokumentus ir raštu praneša apie tai prašymą padavusiam asmeniui bei
+išdėsto atsisakymo motyvus;
+3)
+sprendimo priėmimą atidėti. Kai prašymų įrašyti nekilnojamojo daikto kadastro
+duomenis į nekilnojamojo turto kadastrą ar juos pakeisti nagrinėjimo metu
+nustatomos aplinkybės, nurodytos šio Įstatymo 14 straipsnyje, ir yra reali
+tikimybė tas aplinkybes pašalinti per vieną mėnesį, Kadastro tvarkytojas
+Kadastro nuostatų nustatyta tvarka atideda spendimo priėmimą dėl prašymo
+patenkinimo. Atidėdamas sprendimą kadastro tvarkytojas nustato ne ilgesnį kaip
+vieno mėnesio terminą aplinkybėms, trukdančioms įrašyti nekilnojamojo daikto
+kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti, pašalinti.
+5. Kadastro tvarkytojas, įrašęs ar
+pakeitęs nekilnojamojo daikto kadastro duomenis, prašymą padavusiam asmeniui
+įteikia arba išsiunčia (prašyme nurodytu adresu) Nekilnojamojo turto registro
+nuostatų nustatytos formos ir turinio išrašą iš Nekilnojamojo turto registro,
+patvirtinantį nekilnojamojo daikto kadastro duomenų įrašymo ar pakeitimo faktą.
+Prašymą padavusiam asmeniui kartu grąžinami dėl nekilnojamojo daikto kadastro
+duomenų įrašymo ar pakeitimo pateiktų dokumentų originalai.
  
+14
+straipsnis. Kadastro tvarkytojo teisė atsisakyti įrašyti nekilnojamojo daikto 
+kadastro
+duomenis į nekilnojamojo turto kadastrą ar juos pakeisti
+Kadastro tvarkytojas atsisako įrašyti
+nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar juos
+pakeisti, jeigu prašymo nagrinėjimo metu nustatoma nors viena iš šių
+aplinkybių:
+1) asmenys, padavę prašymą, neturėjo
+teisės jį paduoti;
+2) dokumentas, kurio pagrindu prašoma
+įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą
+ar juos pakeisti, yra įstatymų nustatyta tvarka panaikintas;
+3) dokumento, kurio pagrindu prašoma
+įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą
+ar juos pakeisti, duomenys apie nekilnojamąjį daiktą nesutampa su šio daikto
+kadastro duomenų bylos duomenimis;
+4) nekilnojamojo daikto kadastro duomenų
+byla neatitinka šio Įstatymo reikalavimų;
+5) šio Įstatymo 17 straipsnio 4 dalyje
+nustatyta tvarka negalima nekilnojamojo daikto pažymėti kadastro žemėlapyje.
  
-14 straipsnis.
-Nekilnojamojo turto objekto formavimo procedūra
-Nekilnojamojo turto objektų formavimo
-procedūrą nustato Nekilnojamojo turto kadastro nuostatai.
-Straipsnio
-pakeitimai:
-Nr. IX-175, 2001 01 26, Žin., 2001, Nr.
-16-497 (2001 02 21)
- 
- 
-15 straipsnis. Nekilnojamojo turto objektą
-formuojančių asmenų teisės ir 
-atsakomybė
-1. Nekilnojamojo
-turto objektus formuoja asmenys, atitinkantys Vyriausybės nustatytus
-kvalifikacinius reikalavimus.
-2. Nekilnojamojo
-turto kadastro tvarkytojas yra atsakingas, kad į nekilnojamojo turto kadastrą
-būtų tiksliai įrašyti nekilnojamojo turto objektą suformavusių asmenų pateikti
-duomenys.
-3. Nekilnojamojo
-turto objektus formuojantys asmenys, kai to reikalauja nekilnojamojo turto
-objekto formavimo procedūra, pareiškėjo sutikimu turi teisę įeiti į nuosavybės
-teise pareiškėjui priklausantį arba jo valdomą statinį, atlikti kadastrinius
-matavimus ir žemės tyrimus bei imtis kitų su nekilnojamojo turto objekto
-formavimo procedūra susijusių priemonių. Statiniai, medžiai ir kiti augalai
-negali būti be savininko sutikimo pažeisti ar sunaikinti, jei tai nebūtina
-nekilnojamojo turto objekto formavimo procedūrai tinkamai atlikti. Formuojant
-nekilnojamojo turto objektus saugomose teritorijose, nekilnojamųjų kultūros
-vertybių teritorijose, apsaugos zonose, šiuos objektus formuojantys asmenys
-privalo laikytis Saugomų teritorijų ir Nekilnojamųjų kultūros vertybių apsaugos
-įstatymų nuostatų bei Vyriausybės nustatytos medžių bei kitų augalų apsaugos ir
-priežiūros tvarkos.
-4. Nekilnojamojo
-turto objektus formuojantys asmenys, jei tai būtina nekilnojamojo turto objekto
-formavimo procedūrai atlikti, turi teisę atlikti nekilnojamojo turto objekto
-formavimo darbus ir gretimuose žemės sklypuose, kai šių žemės sklypų
-savininkai, naudotojai ar valdytojai sutinka, ne vėliau kaip prieš 5 dienas
-raštu apie atliekamus darbus pranešę šių žemės sklypų savininkams, naudotojams
-ar valdytojams.
-5. Jei asmuo
-nekilnojamojo turto objekto formavimo metu patiria žalos dėl turto objektą
-formuojančių asmenų kaltės, žala turi būti atlyginta iki nekilnojamojo turto
-objekto formavimo procedūros užbaigimo, bet ne vėliau kaip per 1 mėnesį nuo
-paaiškėjimo apie padarytą žalą, o kai žala paaiškėjo baigus formuoti
-nekilnojamojo turto objektą, – per 1 mėnesį po formavimo procedūros užbaigimo,
-jeigu su žalos patyrusiu asmeniu nesusitarta kitaip. Žalą atlygina
-nekilnojamojo turto objektus formuojantys asmenys, o ginčai dėl žalos
-atlyginimo sprendžiami įstatymų nustatyta tvarka.
-Straipsnio pakeitimai:
-Nr. IX-175, 2001 01 26, Žin., 2001, Nr.
-16-497 (2001 02 21)
- 
- 
-III SKYRIUS
-NEKILNOJAMOJO
-TURTO OBJEKTO PADALIJIMAS
+15 straipsnis.
+Kadastro tvarkytojo sprendimų apskundimas
+1. Nekilnojamojo turto registro įstatyme
+nustatyta teritorinių registratorių priimtų sprendimų skundimo tvarka mutatis
+mutandis taikoma ir skundžiant Kadastro tvarkytojo sprendimus.
+2. Suinteresuoti
+asmenys, sužinoję, kad nekilnojamojo turto kadastre įrašyti duomenys yra
+netikslūs, neteisingi ar neišsamūs, gali pareikalauti, kad Kadastro tvarkytojas
+neatlygintinai ištaisytų netikslius ar neteisingus duomenis, o neišsamius
+papildytų. Kadastro tvarkytojas, gavęs tokį prašymą, per 5 darbo dienas turi jį
+išnagrinėti ir priimti sprendimą. Apie priimtą sprendimą per 5 darbo dienas nuo
+sprendimo priėmimo dienos Kadastro tvarkytojas raštu praneša suinteresuotam
+asmeniui.
  
 16
-straipsnis. Nekilnojamojo turto objekto padalijimo turinys
-Nekilnojamojo
-turto objekto padalijimas yra toks nekilnojamojo turto objekto formavimo būdas,
-kai Nekilnojamojo turto registre įregistruotas nekilnojamojo turto objektas jo
-savininko ar subjekto, valdančio nekilnojamojo turto objektą patikėjimo teise
-ir turinčio teisę jį padalyti, prašymu ar įstatymų nustatytais atvejais
-įgaliotos institucijos teikimu yra padalijamas į atskirus nekilnojamojo turto
-objektus. Šiuo atveju naujai suformuotiems nekilnojamojo turto objektams
-įstatymuose ir kituose norminiuose teisės aktuose nustatyta tvarka valstybės
-institucijų sprendimais ar nekilnojamojo turto savininko ir kitų asmenų
-sutartimis gali būti nustatomi nauji arba pakeičiami galiojantys nekilnojamojo
-turto objektų naudojimo apribojimai bei specialios sąlygos. 
- 
-17
-straipsnis. Neteko
-galios.
-Straipsnio
-pakeitimai:
-Nr. IX-175, 2001 01 26, Žin., 2001, Nr.
-16-497 (2001 02 21)
- 
- 
-18 straipsnis. Institucijos, tvirtinančios
-nekilnojamojo turto objekto padalijimo 
-projektus
-
-1. Nekilnojamojo
-turto objekto padalijimo projektus tvirtina:
-1) žemės sklypų
-- institucija, pagal Teritorijų planavimo įstatymą atsakinga už teritorijos
-detaliųjų planų tvirtinimą;
-2) statinių ir
-kitų nekilnojamojo turto objektų - statybos valstybinę priežiūrą atliekanti
-institucija. 
-2. Nekilnojamojo
-turto objekto padalijimo projektus, kai nustatomi objekto naudojimo apribojimai
-ar specialios sąlygos, gali tvirtinti įstatymų įgaliota institucija.
- 
-IV SKYRIUS
-NEKILNOJAMOJO
-TURTO OBJEKTO ATIDALIJIMAS
- 
-19
-straipsnis. Nekilnojamojo turto objekto atidalijimo turinys
-Nekilnojamojo
-turto objekto atidalijimas yra toks nekilnojamojo turto objekto formavimo
-būdas, kai iš Nekilnojamojo turto registre įregistruoto bendrosios nuosavybės
-teise valdomo nekilnojamojo turto objekto nuosavybės bendrasavininkių prašymu
-atidalijamos nekilnojamojo turto objekto dalys, kurios suformuojamos kaip
-atskiri nekilnojamojo turto objektai. 
- 
-20
-straipsnis. Nekilnojamojo turto objekto atidalijimo sąlygos
-Atidalijant
-nekilnojamojo turto objektą, vadovaujamasi Žemės įstatymo ir Teritorijų
-planavimo įstatymo nustatyta tvarka.
-Straipsnio
-pakeitimai:
-Nr. IX-175, 2001 01 26, Žin., 2001, Nr.
-16-497 (2001 02 21)
- 
- 
- 
-V SKYRIUS
-NEKILNOJAMOJO
-TURTO OBJEKTŲ SUJUNGIMAS
- 
-21
-straipsnis. Nekilnojamojo turto objektų sujungimo turinys
-1. Nekilnojamojo
-turto objektų sujungimas yra toks nekilnojamojo turto objekto formavimo būdas,
-kai keletas Nekilnojamojo turto registre įregistruotų nekilnojamojo turto
-objektų, turinčių bendrą žemės sklypo ribą ar statinio (patalpos) sieną
-(konstrukciją), jų savininkų ar nuosavybės bendrasavininkių, taip pat valstybei
-priklausančio turto valdytojų prašymu  sujungiami į vieną nekilnojamojo turto
-objektą. 
-2. Tais
-atvejais, kai atskirose teritorijose įgyvendinami žemės konsolidavimo
-projektai, žemės sklypų sujungimo procedūra yra tų projektų sudėtinė dalis.
-Atskirais atvejais žemės savininkų pageidavimu kartu su žemės konsolidavimo
-projektais gali būti rengiami žemės sklypų išdėstymo pakeitimo žemėtvarkos
-projektai, skirti žemės sklypų išdėstymui optimizuoti ir žemės naudojimo
-sąlygoms iš esmės pagerinti. 
- 
-22 straipsnis. Nekilnojamojo turto objektų sujungimo
-sąlygos ir nekilnojamojo turto 
-objekto
-priskyrimo konkrečiai kadastro vietovei tvarka
-1. Nekilnojamojo
-turto objektai sujungiami tik tais atvejais, kai sujungimo metu nepažeidžiamos
-teritorijų planavimo dokumentų ir žemėtvarkos projektų rengimo taisyklės. Po sujungimo
-naujai suformuoto nekilnojamojo turto objekto naudojimo pagrindinė tikslinė 
-paskirtis bei ūkinės veiklos pobūdis turi neprieštarauti teritorijų planavimo
-dokumentams ir iki sujungimo galiojusiems naudojimo apribojimams bei
-specialioms sąlygoms. 
-2. Jei jungiami
-nekilnojamojo turto objektai yra skirtingose kadastro vietovėse, naujai
-suformuotas nekilnojamojo turto objektas priskiriamas vienai konkrečiai
-kadastro vietovei: 
-1) pagal
-savininko gyvenamojo namo buvimo vietą - kai sujungiamuose žemės sklypuose yra
-gyvenamasis namas (-ai); 
-2) pagal
-didžiausią iš buvusių žemės sklypų - kai sujungtame žemės sklype nėra
-gyvenamojo namo; 
-3) pagal
-didžiausios vertės žemės sklypą iš buvusių žemės sklypų  - kai sujungtame žemės
-sklype nėra gyvenamojo namo ir sujungiami vienodo dydžio (ploto) žemės sklypai;
-
-4) pagal
-savininko ar valdytojo pageidavimą - kai žemės sklype nėra gyvenamojo namo, o
-sujungiami vienodo dydžio (ploto) ir vertės žemės sklypai.
-3. Kai
-nekilnojamojo turto objektai sujungti, pagal naujai suformuoto nekilnojamojo
-turto objekto ribas  prireikus  Vyriausybės nustatyta tvarka atitinkamai
-pakeičiamos kadastro vietovių ribos.
-4. Nekilnojamojo
-turto objekto sujungimo projektus tvirtina:
-1) žemės sklypų
-- institucija, pagal Teritorijų planavimo įstatymą atsakinga už teritorijos
-detaliųjų planų tvirtinimą;
-2) statinių ir
-kito nekilnojamojo turto objektų - statybos valstybinę priežiūrą atliekanti
-institucija. 
- 
-23
-straipsnis. Nekilnojamojo turto amalgamacija 
-Nekilnojamojo
-turto amalgamacija daroma, kai yra nekilnojamojo turto savininko ar valdytojo
-prašymas arba kelių nekilnojamojo turto savininkų bendras prašymas atlikti tokį
-nekilnojamojo turto pertvarkymą ir notariškai patvirtintas susitarimas dėl
-nekilnojamojo turto atidalijimo ir atidalytos dalies sujungimo su greta esančiu
-nekilnojamojo turto objektu.
- 
-VI SKYRIUS
-NEKILNOJAMOJO
-TURTO KADASTRO DUOMENYS
- 
-24
-straipsnis. Į nekilnojamojo turto kadastrą įrašomi duomenys 
-1. Į
-nekilnojamojo turto kadastrą turi būti įrašyti šie žemės sklypo duomenys: 
-1) žemės
-naudojimo pagrindinė tikslinė paskirtis; žemės naudojimo ar ūkinės veiklos
-pobūdis;
-2) žemės sklypo
-plotas;
-3) žemės sklypo
-naudmenos;
-4) melioracinė
-būklė;
-5) žemės ūkio
-naudmenų našumo balas;
-6) specialios
-žemės ir miško bei vandens telkinių naudojimo sąlygos ir kiti žemės naudojimo
-apribojimai;
-7) žemės sklypo
-vidutinė rinkos vertė;
-8) žemės sklypo
-ribos;
-9) buvimo vieta.
-2. Į
-nekilnojamojo turto kadastrą turi būti įrašyti šie statinio, patalpos, buto ir
-kito nekilnojamojo turto objekto duomenys:
-1) objekto
-tipas;
-2)  objekto
-naudojimo būdas;
-3)  objekto
-plotas ( tūris ar ilgis);
-4) statinio
-statybos metai;
-5) statinio
-statybinė medžiaga;
-6) kambarių ar
-patalpų skaičius;
-7) vidaus
-įrangos charakteristikos;
-8) objekto
-naudojimo apribojimai;
-9) objekto
-vidutinė rinkos vertė;
-10) objekto
-ribos;
-11) objekto
-buvimo vieta.
-3. Nekilnojamojo
-turto kadastro duomenų detalų turinį nustato Nekilnojamojo turto kadastro
-nuostatai. 
-4. Duomenis apie
-dirvožemio kiekybines ir kokybines savybes rengia, kaupia ir tvarko Vyriausybės
-įgaliota valstybės įmonė Vyriausybės nustatyta tvarka. 
-5. Įrašydamas
-nekilnojamojo turto objekto duomenis į nekilnojamojo turto kadastrą,
-Nekilnojamojo turto kadastro tvarkytojas kiekvienam nekilnojamojo turto
-objektui suteikia   identifikatorių, kuris visą  objekto egzistavimo laikotarpį
-nekinta ir naudojamas nekilnojamojo turto objektą registruojant Nekilnojamojo
-turto registre. Nekilnojamojo turto objektų identifikatorių suteikimo tvarką
-nustato Nekilnojamojo turto kadastro nuostatai.
-6. Nekilnojamojo turto objektų, kurie
-pagal Valstybės ir tarnybos paslapčių įstatymą įrašyti į valstybės paslapčių
-sąrašą, duomenys apie statinių plotą, pastatų skaičių, vidaus įrangos
-charakteristikas ir vertę į nekilnojamojo turto kadastrą neįrašomi ir saugomi
-Vyriausybės nustatyta tvarka.
- 
-25
-straipsnis. Nekilnojamojo turto objekto duomenų pakeitimas 
-1. Suformuoto
-nekilnojamojo turto objekto duomenys keičiami nekilnojamojo turto savininko ar
-juridinio asmens, valdančio tą turtą patikėjimo teise, prašymu, o įstatymų
-nustatytais atvejais - Vyriausybės įgaliotos institucijos teikimu, kai
-Nekilnojamojo turto kadastro tvarkytojui pateikiami pakeitimams atlikti
-reikalingi šio įstatymo 28 straipsnyje nurodyti dokumentai. Jei kadastro
-duomenų pasikeitimas susijęs su detaliųjų planų ar žemėtvarkos projektų
-priėmimu ar keitimu, kadastro duomenys keičiami, kai Teritorijų planavimo
-įstatymo nustatyta tvarka priimti ar pakeisti detalieji planai ar žemėtvarkos
-projektai.
-2. Suformuoto
-nekilnojamojo turto objekto forma ir kiti kadastro duomenys gali būti pakeisti
-dėl naujai sudarytų miestų, miestelių ir kaimų gyvenamųjų vietovių teritorijų
-planavimo dokumentų reikalavimų ar nustatytų specialių žemės ir statinių
-naudojimo taisyklių be savininko, valdytojo ar naudotojo sutikimo  tik įstatymų
-nustatytais pagrindais. Šiuo atveju nekilnojamojo turto kadastro duomenys
-keičiami Statybos įstatymo ir Teritorijų planavimo įstatymo nustatyta tvarka
-pagal atitinkamų valstybės valdžios ar valdymo institucijų teikimą. Atlyginimą
-už kadastro duomenų pakeitimą moka kadastro duomenų keitimą inicijavusi
-institucija, išskyrus tuos atvejus, kai kadastro duomenys keičiami taisant
-Nekilnojamojo turto kadastro tvarkytojo padarytas klaidas arba kai tai numato
-kiti įstatymai. 
- 
-26
-straipsnis. Duomenų įrašymo į nekilnojamojo turto kadastrą vieta
-Nekilnojamojo
-turto objekto duomenys į nekilnojamojo turto kadastrą įrašomi pagal
-nekilnojamojo turto objekto buvimo vietą Nekilnojamojo turto kadastro
-tvarkytojo vietiniuose padaliniuose Nekilnojamojo turto kadastro nuostatų
-nustatyta tvarka. 
- 
- 
-27
-straipsnis. Prašymas įrašyti duomenis į nekilnojamojo turto kadastrą
-Prašymų įrašyti
-duomenis į nekilnojamojo turto kadastrą pateikimo tvarką nustato Nekilnojamojo
-turto registro nuostatai.
-Straipsnio
-pakeitimai:
-Nr. IX-175, 2001 01 26, Žin., 2001, Nr.
-16-497 (2001 02 21)
- 
- 
-28
-straipsnis. Nekilnojamojo turto kadastro tvarkytojui pateiktini dokumentai 
-duomenims apie
-nekilnojamojo turto objektą įrašyti į nekilnojamojo 
-turto kadastrą
-1. Duomenys apie
-žemės sklypus į nekilnojamojo turto kadastrą įrašomi pagal šiuos dokumentus:
-1) Vyriausybės ar apskrities
-viršininko sprendimą dėl žemės paėmimo visuomenės poreikiams;
-2) Vyriausybės įgaliotos institucijos
-sprendimą dėl naujo žemės sklypo suformavimo, kai žemės sklypas suformuotas
-vadovaujantis Žemės reformos įstatymo reikalavimais, taip pat kai padalijami,
-atidalijami ar sujungiami valstybinės žemės sklypai bei privačios nuosavybės
-teise valdomų žemės sklypų žemė išperkama visuomenės poreikiams; 
-3) Teritorijų planavimo įstatymo (dėl
-detaliųjų planų tvirtinimo tvarkos) įgaliotos institucijos sprendimą dėl
-privačios žemės sklypų suformavimo, kai jie padalijami, atidalijami ar
-sujungiami; 
-4) nekilnojamojo
-turto objektą suformavusių asmenų Nekilnojamojo turto kadastro nuostatų
-nustatyta tvarka parengtą ir patvirtintą nekilnojamojo turto objekto
-kadastrinių matavimų bylą;
-5) įstatymų ir kitų teisės aktų
-įgaliotų kitų institucijų sprendimus ar asmenų tarpusavio sutartis dėl
-nekilnojamojo turto objekto formavimo, servitutų bei kitų apribojimų naudotis
-nekilnojamuoju turtu nustatymo. 
-2. Duomenys apie statinius,
-patalpas, butus ir inžinierinius įrenginius į nekilnojamojo turto kadastrą
-įrašomi pagal šiuos dokumentus:
-1) Statybos įstatymo nustatyta
-tvarka statybos valstybinę priežiūrą atliekančios institucijos išduotą leidimą
-statyti, rekonstruoti, griauti, remontuoti ar kitaip statinį pertvarkyti; 
-2) Statybos įstatymo nustatyta tvarka
-parengtą ir patvirtintą statinių priėmimo naudoti aktą - kai įrašomi duomenys
-apie baigtą statyti statinį;
-3) statybos
-valstybinę priežiūrą atliekančios institucijos nustatyta tvarka parengtą
-pažymą, kad statinys statomas iš esmės nenukrypstant nuo suderinto bei
-patvirtinto projekto, - kai įrašomi duomenys apie nebaigtą statyti statinį;
-4) nustatyta tvarka parengtą
-nekilnojamojo turto objekto kadastrinių matavimų bylą ar atskiras šios bylos
-dalis; 
-5) įstatymų ir kitų teisės aktų įgaliotų
-kitų institucijų arba teismo sprendimus ar asmenų tarpusavio sutartis dėl
-nekilnojamojo turto objekto formavimo, servitutų bei kitų apribojimų naudotis
-nekilnojamuoju turtu nustatymo. 
-3. Nekilnojamojo turto kadastro
-tvarkytojui šio straipsnio 1 ir 2 dalyse išvardytus dokumentus Nekilnojamojo turto
-kadastro nuostatų nustatyta tvarka pateikia pareiškėjas ar šio įgaliotas asmuo,
-išskyrus dokumentus, kuriuos teikti įstatymų nustatyta tvarka įgaliotos
-valstybės institucijos.
- 
-29 straipsnis. Duomenų įrašymas į nekilnojamojo
-turto kadastrą ir jų išbraukimas
-1. Nekilnojamojo turto kadastro
-tvarkytojas, gavęs prašymą įrašyti nekilnojamojo turto objekto duomenis į
-nekilnojamojo turto kadastrą ir šio įstatymo 28 straipsnyje nurodytus
-dokumentus, per 3 darbo dienas nuo jų gavimo patikrina, ar pateikti dokumentai
-atitinka keliamus reikalavimus, ar jų pakanka duomenims įrašyti, ir priima
-sprendimą dėl nekilnojamojo turto objekto duomenų įrašymo į nekilnojamojo turto
-kadastrą.
-2. Kai tikrinimo metu nenustatyta
-aplinkybių, trukdančių įrašyti nekilnojamojo turto objekto duomenis į
-nekilnojamojo turto kadastrą, Nekilnojamojo turto kadastro tvarkytojas
-Nekilnojamojo turto kadastro nuostatų nustatyta tvarka įrašo suformuoto
-nekilnojamojo turto objekto duomenis į nekilnojamojo turto kadastrą. 
-3. Kai tikrinimo
-metu nustatoma kliūčių (nesilaikyta įstatymuose nustatytų nekilnojamojo turto
-objektų formavimo procedūrų arba nepateikti ar pateikti ne visi šio įstatymo 28
-straipsnyje nurodyti dokumentai), trukdančių įrašyti nekilnojamojo turto
-objekto duomenis į nekilnojamojo turto kadastrą, Nekilnojamojo turto kadastro
-tvarkytojas Nekilnojamojo turto kadastro nuostatų nustatyta tvarka atideda
-nekilnojamojo turto objekto duomenų įrašymą į nekilnojamojo turto kadastrą iki
-tol, kol bus pašalintos įrašyti duomenis kliudančios priežastys, arba atsisako
-patenkinti pareiškėjo prašymą, grąžina pateiktus dokumentus ir raštu praneša
-apie tai pareiškėjui bei išdėsto atidėjimo ar atsisakymo motyvus. 
-4. Sprendimas
-atmesti pareiškėjo prašymą įrašyti nekilnojamojo turto objekto duomenis į nekilnojamojo
-turto kadastrą skundžiamas Administracinių bylų teisenos įstatymo nustatyta
+straipsnis. Nekilnojamojo turto kadastro sandara ir duomenų turinys
+1. Nekilnojamojo turto kadastrą
+sudaro įrašai apie nekilnojamuosius daiktus. Įraše nurodomi:
+1) tekstiniai nekilnojamojo daikto
+kadastro duomenys;
+2) grafiniai nekilnojamojo daikto
+kadastro duomenys apie šio daikto padėtį valstybinėje koordinačių sistemoje –
+nekilnojamojo turto kadastro žemėlapis.
+2. Nekilnojamojo turto kadastro įrašų
+sudarymo ir įforminimo tvarką nustato Kadastro nuostatai. 
+3. Į nekilnojamojo turto kadastrą
+įrašomi šio Įstatymo 6 straipsnyje numatyti nekilnojamojo daikto kadastro
+duomenys.
+4. Kai statinys
+yra padalytas į patalpas, kurios suformuotos kaip atskiri nekilnojamieji
+daiktai, į nekilnojamojo turto kadastrą įrašomi duomenys apie statinį ir apie
+jo sudėtines dalis – patalpas.
+5.
+Nekilnojamųjų daiktų, kurie pagal Valstybės ir tarnybos paslapčių įstatymą yra
+įrašyti į valstybės paslapčių sąrašą, duomenys apie statinių statybinę
+medžiagą, plotą, vidaus įrangos charakteristikas saugomi Vyriausybės nustatyta
 tvarka.
-5. Įrašęs nekilnojamojo turto objekto
-duomenis į nekilnojamojo turto kadastrą Nekilnojamojo turto kadastro
-tvarkytojas apie tai praneša pareiškėjui išsiųsdamas arba įteikdamas jam
-Nekilnojamojo turto kadastro tvarkytojo nustatytos formos pažymą apie
-nekilnojamojo turto duomenų įrašymą į Nekilnojamojo turto registro centrinį
-duomenų banką.
-6. Įrašai iš
-nekilnojamojo turto kadastro nekilnojamojo turto savininko ar juridinio asmens,
-valdančio šį turtą patikėjimo teise, prašymu ar teismo sprendimu išbraukiami
-Nekilnojamojo turto kadastro nuostatų nustatyta tvarka.
  
-30
-straipsnis. Nekilnojamojo turto kadastro sandara
-Nekilnojamojo
-turto kadastrą sudaro šios dalys:
-1) pirmoji dalis - žemės sklypų kadastro
-duomenys;
-2) antroji dalis - statinių, patalpų,
-butų ir kitų nekilnojamojo turto objektų kadastro (techninės inventorizacijos)
-duomenys;
-3) trečioji dalis - žemės sklypų ir kito
-nekilnojamojo turto grafiniai duomenys.
+17 straipsnis. Nekilnojamojo daikto pažymėjimas kadastro
+žemėlapyje
+1.
+Nekilnojamojo turto kadastro žemėlapis rengiamas ir tikslinamas naudojantis
+georeferencinių duomenų bazėmis, Nekilnojamojo turto registro duomenimis,
+nekilnojamojo daikto formavimo procese sudarytais dokumentais, kurie yra
+pateikti nekilnojamojo daikto kadastro duomenims įrašyti.
+2.
+Kadastro žemėlapis apima visą Lietuvos Respublikos teritoriją. Jį sudaro šie
+pagrindiniai grafiniai sluoksniai:
+1)
+georeferenciniai duomenys: vektorinė ar rastrinė kartografinė medžiaga;
+valstybinio ir vietinio geodezinio pagrindo taškų, susietų su valstybine
+koordinačių sistema, koordinatės ir kita šiuos taškus apibūdinanti atributinė
+informacija; 
+2)
+administracinių vienetų ribų, pavadinimų, kodų;
+3) gyvenamųjų
+vietovių ribų, pavadinimų, kodų;
+4) kadastro
+vietovių ribų, pavadinimų, kodų;
+5) kadastro
+blokų ribų, pavadinimų, kodų;
+6) žemės sklypų
+ribų, šių ribų posūkio taškų koordinačių valstybinėje koordinačių sistemoje ir
+jų unikalių bei kadastro numerių;
+7) pastatų
+kontūrų ar centro taškų koordinačių valstybinėje koordinačių sistemoje ir
+unikalių numerių;
+8) inžinerinių
+statinių (tiesinių) kontūrų ar ašinių linijų, jų pradžios, pabaigos ir posūkio
+taškų koordinačių valstybinėje koordinačių sistemoje ir unikalių numerių;
+9) nekilnojamojo
+daikto rinkos verčių, nustatytų masinio vertinimo būdu, zonų, pavadinimų, kodų.
+3.
+Nekilnojamojo turto kadastro žemėlapis naudojamas teritorijų planavimo,
+žemėtvarkos projektų rengimo darbams, kitiems kadastrams bei registrams,
+nustatant nekilnojamojo turto apmokestinimą ir kitiems tikslams.
+4.
+Įrašydamas nekilnojamųjų daiktų kadastro duomenis į nekilnojamojo turto
+kadastrą, Kadastro tvarkytojas Kadastro nuostatų nustatyta tvarka pažymi šiuos
+daiktus nekilnojamojo turto kadastro žemėlapyje. Prieš pažymint nekilnojamojo
+turto kadastro žemėlapyje nekilnojamojo daikto ribas patikrinama, ar:
+1)
+nekilnojamojo daikto planai parengti taip, kad naudojantis valstybinės
+koordinačių sistemos duomenimis būtų galima nustatyti nekilnojamojo daikto
+vietą Lietuvos teritorijoje;
+2)
+žemės sklypų ribos nekilnojamojo turto kadastro žemėlapyje nekerta gretimų ir
+jau pažymėtų nekilnojamojo turto kadastro žemėlapyje žemės sklypų ribų arba su
+jomis nesiriboja dėl kadastriniais matavimais netiksliai nustatytų žemės sklypų
+ribų, išskyrus atvejus, kai šių žemės sklypų ribos kertasi ar nesiriboja su
+gretimų žemės sklypų ribomis, kurių šio Įstatymo 8 straipsnio 2 dalyje
+nustatytu atveju posūkio taškų koordinatės nustatytos grafiniu būdu dėl šiems
+žemės sklypų planams parengti naudotos kartografinės medžiagos tikslumo;
+3)
+žemės sklypo ribos nekerta administracinių vienetų, kadastro vietovių ir blokų
+ribų dėl priežasčių, nesusijusių su nekilnojamojo turto kadastro žemėlapiui
+naudojamos kartografinės medžiagos tikslumu ar administracinių vienetų,
+kadastro vietovių ir blokų ribų tikslumu;
+4)
+žemės sklypo ribos nekerta su šio sklypo ribomis besiribojančių kelių ar
+hidrografijos objektų ribų dėl priežasčių, nesusijusių su nekilnojamojo turto
+kadastro žemėlapiui naudojamos kartografinės medžiagos tikslumu.
+5.
+Nenustačius aplinkybių, trukdančių pažymėti nekilnojamąjį daiktą, Kadastro
+tvarkytojas Kadastro nuostatų nustatyta tvarka pažymi jį nekilnojamojo turto
+kadastro žemėlapyje. Kad nekilnojamasis daiktas yra pažymėtas kadastro
+žemėlapyje, rodo Kadastro tvarkytojo žyma – spaudas nekilnojamojo daikto plane.
+Šio spaudo formą ir turinį nustato ir tvirtina Kadastro tvarkytojas.
+6.
+Leistinus nekilnojamojo turto kadastro duomenų neatitikimų dydžius ir
+nekilnojamojo turto kadastro žemėlapio tikslinimo dėl to, kad buvo naudota
+skirtingo tikslumo kartografinė medžiaga, tvarką nustato Kadastro nuostatai.
  
-31
-straipsnis. Nekilnojamojo turto kadastro tvarkytojui pateiktų dokumentų 
-nekilnojamojo
-turto kadastro duomenims įrašyti saugojimas
-Dokumentai, kuriais vadovaujantis
-nekilnojamojo turto objektų duomenys buvo įrašyti į nekilnojamojo turto
-kadastrą, ar jų notariškai patvirtintos kopijos saugomi Nekilnojamojo turto
+18
+straipsnis. Nekilnojamojo daikto dokumentų archyvinė byla
+1. Įrašius nekilnojamojo daikto kadastro duomenis į
+nekilnojamojo turto kadastrą, sudaroma šio daikto dokumentų archyvinė byla. 
+2. Nekilnojamojo daikto dokumentų
+archyvinėje byloje saugomi:
+1) prašymai įrašyti ar pakeisti nekilnojamojo daikto
+kadastro duomenis;
+2) prašymai atsiimti prašymus įrašyti ar pakeisti
+nekilnojamojo daikto kadastro duomenis;
+3)
+sprendimai atsisakyti įrašyti ar pakeisti nekilnojamojo daikto kadastro
+duomenis;
+4) dokumentai arba įstatymų nustatyta tvarka patvirtinti jų
+nuorašai, pagal kuriuos įrašyti ar pakeisti nekilnojamojo daikto kadastro
+duomenys.
+3. Nekilnojamojo
+daikto dokumentų archyvinės bylos saugomos Kadastro tvarkytojo nustatyta tvarka
 kadastro tvarkytojo archyve.
  
-32 straipsnis. Netikslių ar neteisingų nekilnojamojo
-turto kadastro duomenų 
-taisymas
-1. Suinteresuoti
-asmenys, iki nekilnojamojo turto objekto įregistravimo Nekilnojamojo turto
-registre sužinoję, kad nekilnojamojo turto kadastro duomenys yra netikslūs ar
-neteisingi, ar neišsamūs, gali pareikalauti, kad Nekilnojamojo turto kadastro
-tvarkytojas netikslius ar neteisingus duomenis ištaisytų, o neišsamius
-papildytų. Nekilnojamojo turto kadastro tvarkytojas, gavęs tokį prašymą, per 5
-darbo dienas nuo prašymo gavimo turi išnagrinėti prašymą ištaisyti arba
-papildyti nekilnojamojo turto kadastro duomenis ir priimti sprendimą dėl
-prašymo. Apie priimtą sprendimą Nekilnojamojo turto kadastro tvarkytojas raštu
-praneša suinteresuotam asmeniui. 
-2. Nekilnojamojo
-turto kadastro tvarkytojo sprendimas atmesti prašymą ištaisyti netikslius ar
-neteisingus nekilnojamojo turto kadastro duomenis arba juos papildyti
-skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
- 
-33
-straipsnis. Nekilnojamojo turto kadastro duomenų suvestinės
+19
+straipsnis. Naudojimasis nekilnojamojo turto kadastre įrašytais duomenimis
 1. Nekilnojamojo
-turto kadastro duomenų suvestines Nekilnojamojo turto kadastro nuostatų
-nustatyta tvarka rengia Nekilnojamojo turto kadastro tvarkytojas. 
-2. Suvestiniai
-ir analitiniai nekilnojamojo turto kadastro duomenys rengiami atitinkamų
-ministerijų bei žinybų užsakymu ir jų lėšomis.
-3. Suvestiniams
-ir analitiniams nekilnojamojo turto kadastro duomenims parengti juridiniai ir
-fiziniai asmenys privalo Nekilnojamojo turto kadastro tvarkytojui teikti būtiną
-informaciją apie turimą arba valdomą nekilnojamąjį turtą, jei tokios
-informacijos nėra kituose valstybės registruose ar kadastruose. 
+turto kadastre įrašyti duomenys kaupiami, saugomi ir teikiami iš Nekilnojamojo
+turto registro centrinio duomenų banko. Nekilnojamojo turto registro įstatyme
+nustatyta nekilnojamojo turto registro duomenų teikimo tvarka mutatis mutandis
+taikoma ir nekilnojamojo turto kadastre įrašytų duomenų teikimui.
+2. Nekilnojamojo
+turto kadastre įrašytų duomenų suvestines rengia Kadastro tvarkytojas Kadastro
+nuostatų nustatyta tvarka.
  
-VII SKYRIUS
-NEKILNOJAMOJO
-TURTO KADASTRO LĖŠOS
- 
-34 straipsnis.
-Nekilnojamojo turto kadastro lėšos
-Nekilnojamojo turto objektai
-formuojami ir jų duomenys į nekilnojamojo turto kadastrą įrašomi:
-1) nekilnojamojo turto, privačios
-nuosavybės teise priklausančio fiziniams ar juridiniams asmenims, - šio
-nekilnojamojo turto savininkų lėšomis;
- 2) nekilnojamojo turto,
-priklausančio valstybei, - nekilnojamojo turto valdytojų, valdančių
-nekilnojamąjį turtą patikėjimo teise, lėšomis; 
-3) nekilnojamojo turto, priklausančio
-savivaldybėms nuosavybės teise ar jų valdomo patikėjimo teise, - savivaldybių
-biudžetų lėšomis.
- 
-35
-straipsnis. Atlyginimas už nekilnojamojo turto objektų suformavimą ir duomenų 
-įrašymą
-į nekilnojamojo turto kadastrą bei už naudojimąsi 
+20
+straipsnis. Atlyginimas už nekilnojamojo daikto kadastro duomenų įrašymą į 
 nekilnojamojo
-turto kadastro duomenimis
+turto kadastrą ar jų pakeitimą bei už naudojimąsi 
+nekilnojamojo
+turto kadastre įrašytais duomenimis
 1.
-Atlyginimo už nekilnojamojo turto objektų suformavimą ir duomenų įrašymą į
-nekilnojamojo turto kadastrą bei už naudojimąsi nekilnojamojo turto kadastro
-duomenimis dydį, maksimalius tarifus ir atsiskaitymo už nekilnojamojo turto
-objekto formavimą tvarką nustato Vyriausybė. 
-2. Nekilnojamojo
-turto savininkai ar asmenys, valdantys šį turtą patikėjimo teise, su
-nekilnojamojo turto objektus formuojančiais asmenimis ir Nekilnojamojo turto
-kadastro tvarkytoju atsiskaito per sutartyse su šiais subjektais sulygtus
-terminus ir neviršydami Vyriausybės nustatytų maksimalių atlyginimo tarifų. 
-3. Už duomenų
-įrašymą į nekilnojamojo turto kadastrą asmenys, padavę prašymus įrašyti šiuos
-duomenis į nekilnojamojo turto kadastrą, Nekilnojamojo turto kadastro
-tvarkytojui atlygina Nekilnojamojo turto kadastro nuostatų nustatyta tvarka,
-jei įstatymai nenustato kitaip.
-4. Už naudojimąsi nekilnojamojo turto
-kadastro duomenimis atlyginimas imamas Vyriausybės nustatyta tvarka. Kai
-nekilnojamojo turto kadastro duomenimis neatlygintinai naudojasi valstybės ar
-vietos savivaldos institucijos, Nekilnojamojo turto kadastro tvarkytojui
-Vyriausybės nustatyta tvarka atlyginama iš valstybės biudžeto.
+Atlyginimo už nekilnojamojo daikto kadastro duomenų įrašymą į
+nekilnojamojo turto kadastrą ar jų pakeitimą bei už naudojimąsi nekilnojamojo
+turto kadastre įrašytais duomenimis dydį ir tvarką nustato Vyriausybė.
+2.
+Suvestiniai nekilnojamojo turto kadastre įrašyti duomenys rengiami fizinių ir
+juridinių asmenų užsakymu ir jų lėšomis.
  
+21
+straipsnis. Nekilnojamojo turto kadastro lėšos
+Nekilnojamojo turto kadastras
+tvarkomas lėšomis, gautomis už nekilnojamųjų daiktų kadastro duomenų įrašymą į
+nekilnojamojo turto kadastrą ar jų pakeitimą bei už naudojimąsi nekilnojamojo
+turto kadastre įrašytais duomenimis. Nekilnojamojo
+turto kadastrui tvarkyti gali būti skiriama valstybės biudžeto lėšų.
  
-VIII SKYRIUS (Neteko galios)
-Skyriaus
-pakeitimai:
-Nr. IX-175, 2001 01 26, Žin., 2001, Nr.
-16-497 (2001 02 21)
- 
- 
-IX SKYRIUS
-BAIGIAMOSIOS
-NUOSTATOS
- 
-38
-straipsnis. Į nekilnojamojo turto kadastrą įrašytų nekilnojamojo turto objektų 
-duomenų
-pirmenybė prieš kitais būdais nustatytus nekilnojamojo turto 
-objektų duomenis
-Kilus ginčui dėl nekilnojamojo turto
-objekto duomenų, vadovaujamasi nekilnojamojo turto kadastre įrašytais
-duomenimis iki to laiko, kol jie nenuginčyti įstatymų nustatyta tvarka.
- 
-39 straipsnis. Nekilnojamojo
-turto kadastro tvarkytojo saugomų dokumentų, 
-duomenų bei nekilnojamojo turto kadastro žemėlapių
-likimas 
-likvidavus ar reorganizavimas Nekilnojamojo turto
-kadastro 
-tvarkytoją
+22
+straipsnis. Nekilnojamojo turto kadastro reorganizavimas ir likvidavimas
 Nekilnojamojo
-turto kadastro tvarkytojo saugomi dokumentai, pagal kuriuos buvo suformuoti
-nekilnojamojo turto objektai, duomenys magnetinėse laikmenose bei nekilnojamojo
-turto kadastro žemėlapiai, likvidavus Nekilnojamojo turto kadastro tvarkytoją,
-Archyvų įstatymo nustatyta tvarka perduodami Valstybės archyvui, o
-reorganizavus Nekilnojamojo turto kadastro tvarkytoją - naujajam šio kadastro
-tvarkytojui (jo teisių perėmėjui).
- 
- 
-40 straipsnis. Anksčiau suformuotų nekilnojamojo
-turto objektų duomenų juridinis 
-statusas
-1. Į
-nekilnojamojo turto kadastrą įrašytiems duomenims prilyginami tie nekilnojamojo
-turto objektų duomenys, kurie iki šio įstatymo įsigaliojimo dienos
-Nekilnojamojo turto registro įstatymo nustatyta tvarka įregistruoti
-Nekilnojamojo turto registre.
-2. Nekilnojamojo
-turto objektų duomenys, įrašyti Valstybinio žemės kadastro duomenų registre bei
-Žemės ir kito nekilnojamojo turto kadastro ir registro valstybės įmonėje
-saugomose statinių techninės inventorizacijos bylose, lieka galioti iki jų
-įrašymo į nekilnojamojo turto kadastrą ir į jį perrašomi Nekilnojamojo turto
-kadastro nuostatų nustatyta tvarka ir per šiuose nuostatuose nurodytus
-terminus.
-3. Nekilnojamojo
-turto objektai, kurie iki šio įstatymo įsigaliojimo buvo pradėti, tačiau
-nebaigti formuoti, formuojami šio įstatymo nustatyta tvarka.
- 
-41
-straipsnis. Pasiūlymai Vyriausybei
-Įsigaliojus šiam
-įstatymui, Vyriausybė:
-1) visus su
-nekilnojamojo turto objekto vertės nustatymu susijusius teisės aktus suderina
-su šio įstatymo 24 straipsnio 1 dalies 7 punktu ir 2 dalies 9 punktu;
-2) patikslina
-daiktinių teisių į statinį, kuris padalytas į butus ar patalpas, registravimą
-reglamentuojančius teisės aktus. 
-Straipsnio
-pakeitimai:
-Nr. IX-175, 2001 01 26, Žin., 2001, Nr.
-16-497 (2001 02 21)
- 
- 
-42
-straipsnis. Įstatymo įsigaliojimas
-Šis įstatymas
-įsigalioja nuo 2001 m. sausio 1 d.
+turto kadastras reorganizuojamas ir likviduojamas įstatymu. Likvidavus
+nekilnojamojo turto kadastrą, dokumentai, pagal kuriuos buvo įrašyti ar
+pakeisti nekilnojamųjų daiktų kadastro duomenys, Archyvų įstatymo nustatyta
+tvarka perduodami Valstybės archyvui, o reorganizavus nekilnojamojo turto
+kadastrą – naujajam kadastrui.
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -961,22 +745,36 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-___________
+________________
  
 Pakeitimai:
  
 1.
-Lietuvos
-Respublikos Seimas, Įstatymas
+Lietuvos Respublikos
+Seimas, Įstatymas
 Nr. IX-175, 2001 01 26, Žin., 2001, Nr.
 16-497 (2001 02 21)
 NEKILNOJAMOJO
 TURTO KADASTRO ĮSTATYMO 3, 13, 14, 15, 20, 27, 41 STRAIPSNIŲ PAKEITIMO IR 17
 STRAIPSNIO BEI VIII SKYRIAUS PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. IX-1582,
+2003-05-27, Žin., 2003, Nr. 57-2530 (2003-06-13)
+NEKILNOJAMOJO
+TURTO KADASTRO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Nauja
+įstatymo redakcija
+Šis
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė
-Trapinskienė (2001 02 22)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2003-06-17)
+                 
+autrap@lrs.lt
