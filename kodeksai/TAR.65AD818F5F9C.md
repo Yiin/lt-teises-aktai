@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2004-07-27 iki 2005-04-11
+Suvestinė redakcija nuo 2005-04-12 iki 2005-12-30
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -1093,18 +1093,20 @@ Krovinio vežimo sutartyje vežėjas pagal priimtą užsakymą įsipareigoja pri
 
 
 
-3. Važtaraštyje gali būti įrašyti ir kiti duomenys, susiję su krovinio pristatymo terminu, jo įvertinimu, pakuote ar kitomis vežimo sąlygomis. Privalomus važtaraščio rekvizitus nustato Finansų ministerija. 
+3. Važtaraštyje gali būti įrašyti ir kiti duomenys, susiję su krovinio pristatymo terminu, jo įvertinimu, pakuote ar kitomis vežimo sąlygomis. 
 Straipsnio dalies pakeitimai:
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+Nr. X-151, 2005-03-31, Žin., 2005, Nr. 47-1559 (2005-04-12), i. k. 1051010ISTA000X-151
  
 
 
 
 
-4. Važtaraščių apskaita tvarkoma Valstybinės mokesčių inspekcijos prie Finansų ministerijos nustatyta tvarka, suderinta su Finansų ministerija. Finansų ministerija gali nustatyti reikalavimus naudoti specialius tam tikrų prekių važtaraščių blankus. Specialių važtaraščių blankų apskaitos, užsakymo, gamybos, technologinės apsaugos, platinimo, įsigijimo, naudojimo ir likvidavimo tvarką nustato Finansų ministerija. 
+4. Neteko galios 2005-04-12. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-346, 1997-06-30, Žin., 1997, Nr. 66-1611 (1997-07-11), i. k. 0971010ISTAVIII-346
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+Nr. X-151, 2005-03-31, Žin., 2005, Nr. 47-1559 (2005-04-12), i. k. 1051010ISTA000X-151
  
 
 
@@ -1777,3 +1779,8 @@ Lietuvos Respublikos kelių transporto kodekso 1, 3, 8, 11, 16 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2328, 2004-07-08, Žin., 2004, Nr. 116-4318 (2004-07-27), i. k. 1041010ISTA0IX-2328
 Lietuvos Respublikos kelių transporto kodekso 15 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-151, 2005-03-31, Žin., 2005, Nr. 47-1559 (2005-04-12), i. k. 1051010ISTA000X-151
+Lietuvos Respublikos kelių transporto kodekso 29 straipsnio pakeitimo įstatymas
