@@ -57,9 +57,7 @@ nario darbo laikas yra nenormuotas.
             
 4 straipsnis. Seimo narių draudimas 
             1.
-Seimo nariui įvykdžius Lietuvos Respublikos Seimo statuto 2 straipsnio
-reikalavimus, jo socialinio draudimo pažymėjime įrašoma: “Lietuvos Respublikos
-Seimo narys”.
+(Neteko galios nuo 2005 m. gegužės 7 d.)
             2. Seimo nariai
 draudžiami valstybiniu socialiniu draudimu Valstybinio socialinio draudimo
 įstatyme nustatyta tvarka.
@@ -69,6 +67,8 @@ ir tvarką nustato įstatymas.
 Straipsnio pakeitimai:
 Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 64-2328 (2001-07-25)
+Nr. X-163, 2005-04-21,
+Žin., 2005, Nr. 58-2001 (2005-05-07)
  
 ANTRASIS SKIRSNIS
 SEIMO NARIŲ DARBO SĄLYGOS
@@ -116,9 +116,9 @@ Straipsnio pakeitimai:
 Nr. VIII-1421,
 1999 11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
 Nr. VIII-1976,
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
-64-2322 (2001-07-25), įsigalioja nuo 2002-01-01
+64-2322 (2001-07-25)
  
 TREČIASIS SKIRSNIS
 SEIMO NARIŲ DALYVAVIMAS SEIMO, JO KOMITETŲ,
@@ -138,10 +138,10 @@ straipsnis. Nedalyvavimo priežastys
             Nedalyvavimo
 Seimo posėdyje iš anksto numatytų balsavimų metu, taip pat nedalyvavimo
 komiteto, komisijos ar pakomitečio posėdyje svarbiomis priežastimis laikoma:
-Seimo nario laikinasis nedarbingumas, išvyka Seimo valdybai komandiravus ar
-pritarus, nelaimingi atsitikimai ar kitos aplinkybės, apie kurių pateisinamumą
-sprendžia Seimo Etikos ir procedūrų komisija (toliau - Etikos ir procedūrų
-komisija), atitinkamų komitetų, komisijų bei pakomitečių pirmininkai.
+Seimo nario laikinasis nedarbingumas, išvyka Seimo valdybai komandiravus ar pritarus,
+nelaimingi atsitikimai ar kitos aplinkybės, apie kurių pateisinamumą sprendžia
+Seimo Etikos ir procedūrų komisija (toliau - Etikos ir procedūrų komisija),
+atitinkamų komitetų, komisijų bei pakomitečių pirmininkai.
             
             10
 straipsnis. Informacija apie dalyvavimą posėdžiuose 
@@ -183,9 +183,9 @@ nedalyvavusiam daugiau kaip ketvirtadalyje Seimo posėdžių iš anksto numatyt�
 balsavimų metu, kai buvo priimami teisės aktai, arba daugiau kaip
 ketvirtadalyje Seimo komiteto, komisijos ar pakomitečio, kurių darbe turi
 dalyvauti, posėdžių, to mėnesio atlyginimas sumažinamas vienu trečdaliu.
-Remiantis Seimo Etikos ir procedūrų komisijos išvadomis, atlyginimas sumažinamas
-Seimo valdybos sprendimu. Suma, kuria sumažinamas Seimo nario atlyginimas,
-išskaitoma iš kito, artimiausio mėnesio atlyginimo. 
+Remiantis Seimo Etikos ir procedūrų komisijos išvadomis, atlyginimas
+sumažinamas Seimo valdybos sprendimu. Suma, kuria sumažinamas Seimo nario
+atlyginimas, išskaitoma iš kito, artimiausio mėnesio atlyginimo. 
 3. Jeigu Seimo
 nariui įstatymų nustatyta tvarka paskirtas suėmimas, atlyginimas jam nemokamas
 už visą suėmimo laiką. Kai ikiteisminis tyrimas dėl Seimo nario ar baudžiamoji
@@ -205,7 +205,7 @@ pakeitimai:
 Nr. VIII-685, 1998 03 26, Žin., 1998,
 Nr. 34-900 (1998 04 10) 
 Nr. VIII-1976,
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 Nr.
 IX-1479,
 2003-04-03, Žin., 2003, Nr. 38-1724 (2003-04-24)
@@ -215,7 +215,7 @@ straipsnis. Neteko galios
 Straipsnio
 pakeitimai: 
 Nr. VIII-1976,
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
  
 15
 straipsnis. Seimo Pirmininko fondas 
@@ -256,11 +256,11 @@ Nr. VIII-1421,
 Nr. VIII-1483,
 1999 12 16, Žin., 1999, Nr. 109-3175 (1999 12 24)
 Nr. VIII-1976,
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 Nr. IX-182, 2001 02 20, Žin., 2001, Nr.
 21-690 (2001 03 09)
 Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
-64-2322 (2001-07-25), įsigalioja nuo 2002-01-01
+64-2322 (2001-07-25)
  
 17 straipsnis. Seimo narių teisė grįžti į ankstesnį
 darbą 
@@ -279,7 +279,7 @@ Aukščiausiojoje Taryboje, bet ne mažesnė kaip 2 ir ne didesnė kaip 6 viduti
 mėnesinių Seimo nario atlyginimų dydžio.
 Straipsnio pakeitimai:
 Nr. IX-121, 2000
-12 21, Žin., 2000, Nr. 111-3580 (2000 12 29), įsigalioja nuo 2001 01 01
+12 21, Žin., 2000, Nr. 111-3580 (2000 12 29)
 Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
 64-2322 (2001-07-25)
  
@@ -298,7 +298,7 @@ Seimo narys gali turėti padėjėjų, dirbančių visuomeniniais pagrindais.
 Straipsnio
 pakeitimai: 
 Nr. VIII-1976,
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
  
             19
 straipsnis. Frakcijų darbuotojai 
@@ -312,7 +312,7 @@ pareigas priima ir atleidžia iš jų Seimo kancleris.
 Straipsnio
 pakeitimai: 
 Nr. VIII-1976,
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
  
 ŠEŠTASIS SKIRSNIS 
 SEIMO NARIŲ GYVENIMO SĄLYGOS
@@ -339,9 +339,9 @@ Straipsnio pakeitimai:
 Nr. VIII-1421,
 1999 11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
 Nr. VIII-1976,
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
 Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
-64-2322 (2001-07-25), įsigalioja nuo 2002-01-01
+64-2322 (2001-07-25)
  
 SEPTINTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
@@ -349,8 +349,8 @@ BAIGIAMOSIOS NUOSTATOS
             21
 straipsnis. Seimo narių darbo sąlygų įstatymo įgyvendinimas 
             1.
-Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo
-įstatymu, sudaro Seimo kanceliarija, savivaldybės.
+Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo įstatymu,
+sudaro Seimo kanceliarija, savivaldybės.
             2.
 Lietuvos Respublikos diplomatinės atstovybės užsienyje privalo teikti Seimo
 nariams paramą komandiruočių atitinkamoje užsienio valstybėje metu.
@@ -365,7 +365,7 @@ Straipsnio pakeitimai:
 Nr. VIII-1421,
 1999 11 16, Žin., 1999, Nr. 104-2974 (1999 12 08)
 Nr. VIII-1976,
-2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31), įsigalioja nuo 2000 10 19
+2000 10 10, Žin., 2000, Nr. 92-2842 (2000 10 31)
  
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
@@ -467,11 +467,22 @@ IX-1671,
 SEIMO
 NARIŲ DARBO SĄLYGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-163,
+2005-04-21, Žin., 2005, Nr. 58-2001 (2005-05-07)
+DARBO
+KODEKSO, ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO, BAUSMIŲ VYKDYMO KODEKSO,
+SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, VIDAUS TARNYBOS STATUTO, SVEIKATOS DRAUDIMO
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Angonita Rupšytė (2003-07-23)
-anrups@lrs.lt
+Aušrinė Trapinskienė (2005-05-09)
+                 
+autrap@lrs.lt
 
