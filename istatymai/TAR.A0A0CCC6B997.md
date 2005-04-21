@@ -53,7 +53,6 @@ Respublikos
                                                                                                 įstatymu
 Nr. IX-994
  
- 
 Lietuvos
 Respublikos
 Bausmių vykdymo
@@ -146,8 +145,8 @@ Taikant bausmių
 vykdymo įstatymus, vadovaujamasi principu, kad visi nuteistieji lygūs nepaisant
 jų kilmės, lyties, socialinės ar turtinės padėties, tautybės ar rasės,
 politinių pažiūrų ir partiškumo, išsilavinimo, kalbos, religinių ar kitokių
-įsitikinimų, genetinių savybių, neįgalumo, seksualinės orientacijos, veiklos rūšies
-ir pobūdžio, gyvenamosios vietos ir kitų nenumatytų Lietuvos Respublikos
+įsitikinimų, genetinių savybių, neįgalumo, seksualinės orientacijos, veiklos
+rūšies ir pobūdžio, gyvenamosios vietos ir kitų nenumatytų Lietuvos Respublikos
 įstatymuose aplinkybių.
  
 7
@@ -194,8 +193,8 @@ straipsnis. Nuteistųjų teisinė padėtis
 atliekantys Lietuvos Respublikos piliečiai turi visas Lietuvos Respublikos
 piliečiams įstatymų nustatytas teises, laisves ir pareigas su apribojimais,
 kuriuos numato Lietuvos Respublikos įstatymai ir teismo nuosprendis.
-2. Bausmes
-atliekančių užsieniečių teisinę padėtį nustato Lietuvos Respublikos įstatymai,
+2. Bausmes atliekančių
+užsieniečių teisinę padėtį nustato Lietuvos Respublikos įstatymai,
 reglamentuojantys šių asmenų teises, laisves bei pareigas jiems esant Lietuvos
 Respublikoje, Lietuvos Respublikos tarptautinės sutartys, Lietuvos Respublikos
 įstatymai ir teismo nuosprendis.
@@ -284,9 +283,8 @@ bausmes vykdanti institucija
 1. Teisės dirbti
 tam tikrą darbą arba užsiimti tam tikra veikla atėmimo, viešųjų teisių atėmimo
 ir viešųjų darbų bausmes vykdo pataisos inspekcijos.
-2. Pataisos
-inspekcijas steigia, reorganizuoja, pertvarko ir likviduoja Teisingumo
-ministerija.
+2. Pataisos inspekcijas
+steigia, reorganizuoja, pertvarko ir likviduoja Teisingumo ministerija.
 Straipsnio pakeitimai:
 Nr. IX-1497,
 2003-04-10, Žin., 2003, Nr. 38-1735 (2003-04-24)
@@ -440,7 +438,6 @@ jo paskirtas asmuo atlieka nuosprendžiui vykdyti būtinus veiksmus.
 visą bausmės vykdymo laikotarpį pats arba per paskirtą asmenį kontroliuoja,
 kaip juridinis asmuo laikosi nuosprendyje nustatytų veiklos apribojimų.
  
- 
 28
 straipsnis. Juridinio asmens likvidavimo bausmės vykdymas
 1. Antstolis per
@@ -497,15 +494,16 @@ darbuotojas, atsakingas už juridiniam asmeniui paskirtos juridinio asmens
 veiklos apribojimo arba juridinio asmens likvidavimo bausmės vykdymą, jos
 nevykdęs, atsako pagal Baudžiamojo kodekso 244 straipsnį.
  
-31 straipsnis. Juridinio asmens veiklos apribojimo arba juridinio asmens likvidavimo
-veiksmų pabaiga
+31 straipsnis. Juridinio asmens veiklos apribojimo arba juridinio asmens
+likvidavimo veiksmų pabaiga
 Kai įvykdyta
 juridinio asmens veiklos apribojimo arba juridinio asmens likvidavimo bausmė,
 antstolis apie tai praneša nuosprendį priėmusiam teismui.
  
 IIi
 Dalis 
-nuteistųjų asmeninių teisių apribojimo bausmių vykdymo tvarka ir sąlygos
+nuteistųjų asmeninių teisių apribojimo bausmių vykdymo tvarka ir
+sąlygos
  
 VII
 skyrius 
@@ -623,12 +621,12 @@ organizacijos ir institucijos, išduodančios leidimus tam tikrai veiklai, vykdo
 nustatytas pareigas.
 *2. Teisės dirbti
 tam tikrą darbą arba užsiimti tam tikra veikla atėmimo bausmę arba viešųjų
-teisių atėmimo bausmę vykdanti institucija pagal nuteistojo gyvenamąją vietą,
-vykdydama teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo
-bausmę arba viešųjų teisių atėmimo bausmę, turi teisę gauti reikalingą
-informaciją iš Valstybinio socialinio draudimo fondo valdybos prie Socialinės
-apsaugos ir darbo ministerijos Apdraustųjų įskaitos informacinės duomenų bazės
-(registro) ir Valstybės tarnautojų registro.
+teisių atėmimo bausmę vykdanti institucija pagal nuteistojo gyvenamąją vietą, vykdydama
+teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo bausmę
+arba viešųjų teisių atėmimo bausmę, turi teisę gauti reikalingą informaciją iš
+Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir
+darbo ministerijos Apdraustųjų įskaitos informacinės duomenų bazės (registro)
+ir Valstybės tarnautojų registro.
 *Pastaba. Iki Valdininkų
 registro reorganizavimo į Valstybės tarnautojų registrą įstatymo Nr. X-163 trečiajame
 skirsnyje išdėstyto Bausmių vykdymo kodekso 35 straipsnio 2 dalyje nurodyta
@@ -729,8 +727,9 @@ nuteistojo pageidavimą. Darbas parenkamas atsižvelgiant, kiek tai įmanoma, į
 nuteistojo specialybę ar profesiją.
 3. Viešųjų darbų
 bausmė vykdoma tik rašytiniu nuteistojo sutikimu. Jei nuteistasis atlikti
-viešųjų darbų bausmę nesutinka, šią bausmę vykdanti institucija kreipiasi į nuosprendį
-priėmusį teismą su teikimu viešųjų darbų bausmę pakeisti kita bausme.
+viešųjų darbų bausmę nesutinka, šią bausmę vykdanti institucija kreipiasi į
+nuosprendį priėmusį teismą su teikimu viešųjų darbų bausmę pakeisti kita
+bausme.
 4.
 Nuteistasis, kuriam paskirta viešųjų darbų bausmė, šaukiamas privalo atvykti į
 šią bausmę vykdančią instituciją. Jei nuteistasis šios pareigos be svarbių
@@ -775,11 +774,11 @@ straipsnis. Viešųjų darbų atlikimo laikas
 1. Viešųjų darbų
 atlikimo laikas skaičiuojamas mėnesiais.
 2. Nuteistojo
-dirbtų valandų skaičius per mėnesį turi būti ne mažesnis už teismo paskirtą bausmės
-laiką. Jeigu nuteistasis dėl ligos ar kitų pateisinamų priežasčių nustatyto
-darbo valandų skaičiaus neišdirbo, teismas bausmę vykdančios institucijos
-teikimu gali pratęsti viešųjų darbų laiką, kol nuteistasis išdirbs paskirtas
-valandas.
+dirbtų valandų skaičius per mėnesį turi būti ne mažesnis už teismo paskirtą
+bausmės laiką. Jeigu nuteistasis dėl ligos ar kitų pateisinamų priežasčių
+nustatyto darbo valandų skaičiaus neišdirbo, teismas bausmę vykdančios
+institucijos teikimu gali pratęsti viešųjų darbų laiką, kol nuteistasis išdirbs
+paskirtas valandas.
 3.
 Į viešųjų darbų bausmės atlikimo laiką įskaitomas šios bausmės atlikimo metu
 paskirto sulaikymo, kardomosios priemonės – suėmimo ir administracinės
@@ -827,8 +826,8 @@ viešųjų darbų bausmę vykdančiai institucijai;
  
 45 straipsnis. Viešųjų darbų bausmę atliekantiems
 nuteistiesiems skiriamos paskatinimo priemonės ir nuobaudos
-1. Už dorą
-elgesį ir stropų darbą viešųjų darbų bausmę vykdančios institucijos pareigūnai
+1. Už dorą elgesį
+ir stropų darbą viešųjų darbų bausmę vykdančios institucijos pareigūnai
 nuteistiesiems gali skirti paskatinimo priemonę – padėką.
 2. Už vengimą
 atlikti viešuosius darbus šią bausmę vykdančios institucijos pareigūnai gali
@@ -898,8 +897,8 @@ paskirtus įpareigojimus.
 3. Nuteistasis, kuriam paskirtas laisvės apribojimas,
 privalo ne vėliau kaip prieš septynias dienas pranešti nuosprendį priėmusiam
 teismui arba šią bausmę vykdančiai institucijai apie planuojamą gyvenamosios
-vietos pakeitimą. Gavęs šią informaciją, teismas nedelsdamas apie tai praneša laisvės
-apribojimo bausmę vykdančiai institucijai.
+vietos pakeitimą. Gavęs šią informaciją, teismas nedelsdamas apie tai praneša
+laisvės apribojimo bausmę vykdančiai institucijai.
 4. Jeigu teismas paskyrė baudžiamajame įstatyme
 nenumatytų draudimų ir įpareigojimų, jų vykdymo tvarką nustato laisvės
 apribojimo bausmę vykdanti institucija. Nuteistasis turi teisę tokių draudimų
@@ -1070,6 +1069,9 @@ nuteistojo sutuoktiniui, sugyventiniui ir artimiesiems giminaičiams jį
 aplankyti. Toks aplankymas neįskaitomas į pasimatymus. Pasimatymų ir areštą
 atliekančių nuteistųjų lankymo tvarką nustato Areštinių vidaus tvarkos
 taisyklės.
+ 
+3 dalies redakcija iki 2006 m. sausio 1
+d.:
 3.
 Areštą atliekantys nuteistieji turi teisę per trisdešimt parų gauti vieną pašto
 ar perduodamą siuntinį, taip pat teisę gauti smulkiųjų paketų su spauda. Vienas
@@ -1078,8 +1080,23 @@ siuntinys – ne daugiau kaip penkiolika kilogramų. Areštinės administracija 
 priimti maisto produktų ir drabužių labdaros siuntas. Pašto bei perduodamų
 siuntinių ir smulkiųjų paketų su spauda priėmimo ir įteikimo nuteistiesiems
 tvarką, taip pat labdaros siuntų priėmimo ir paskirstymo nuteistiesiems tvarką
-nustato Areštinių vidaus tvarkos taisyklės. Daiktų, kuriuos areštą atliekantiems
-nuteistiesiems draudžiama gauti, sąrašą nustato šio Kodekso 1 priedas. 
+nustato Areštinių vidaus tvarkos taisyklės. Daiktų, kuriuos areštą
+atliekantiems nuteistiesiems draudžiama gauti, sąrašą nustato šio Kodekso 1
+priedas. 
+3 dalies redakcija nuo 2006 m. sausio 1
+d.:
+3. Areštą
+atliekantys nuteistieji turi teisę gauti vieną pašto ar perduodamą drabužių,
+avalynės siuntinį, taip pat teisę gauti smulkiųjų paketų su spauda. Vienas
+pašto siuntinys neturi sverti daugiau kaip dešimt kilogramų, o perduodamas
+siuntinys – daugiau kaip penkiolika kilogramų. Areštinės administracija gali
+priimti drabužių labdaros siuntas. Pašto bei perduodamų drabužių, avalynės
+siuntinių ir smulkiųjų paketų su spauda priėmimo ir įteikimo nuteistiesiems
+tvarką, taip pat labdaros siuntų priėmimo ir paskirstymo nuteistiesiems tvarką
+nustato Areštinių vidaus tvarkos taisyklės. Drabužius ir avalynę, kuriuos
+areštą atliekantiems nuteistiesiems draudžiama gauti, nustato šio Kodekso 1
+priedas.
+ 
 4. Kamerose
 laikomi areštą atliekantys nuteistieji kasdien gauna ne trumpesnį kaip vienos
 valandos, o I bei II grupių invalidai, nepilnamečiai ir ligoniai (pagal
@@ -1097,6 +1114,9 @@ tvarką nustato Areštinių vidaus tvarkos taisyklės.
 6. Sugyventinis
 yra Civilinio kodekso 3.229 straipsnyje nurodytas asmuo, o artimieji
 giminaičiai – Civilinio kodekso 3.135 straipsnyje nurodyti asmenys.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 56 straipsnis. Nuteistųjų darbas areštinėse
 1. Areštą
@@ -1236,17 +1256,17 @@ pažeidimo sunkumą ir pobūdį.
 būti skiriama tik pažeidimą padariusiam nuteistajam. Už kelis vienu metu
 padarytus pažeidimus skiriama viena nuobauda. Nuobauda turi būti paskirta ne
 vėliau kaip per dešimt parų nuo pažeidimo atskleidimo dienos, o jei dėl
-pažeidimo buvo atliekamas tyrimas, –  ne vėliau kaip per dešimt parų nuo dienos,
-kurią tyrimas baigtas, bet ne vėliau kaip per vieną mėnesį nuo pažeidimo
-padarymo dienos. Paskirta nuobauda vykdoma tuoj pat arba ne vėliau kaip per
-dvidešimt dienų nuo jos paskyrimo. Nuobauda, kuri nebuvo pradėta vykdyti per
-dvidešimt dienų nuo jos paskyrimo dienos, nebevykdoma.
+pažeidimo buvo atliekamas tyrimas, –  ne vėliau kaip per dešimt parų nuo
+dienos, kurią tyrimas baigtas, bet ne vėliau kaip per vieną mėnesį nuo
+pažeidimo padarymo dienos. Paskirta nuobauda vykdoma tuoj pat arba ne vėliau
+kaip per dvidešimt dienų nuo jos paskyrimo. Nuobauda, kuri nebuvo pradėta
+vykdyti per dvidešimt dienų nuo jos paskyrimo dienos, nebevykdoma.
 7. Areštą
 atliekantis nuteistasis turi teisę per penkias dienas nuo nuobaudos paskyrimo
 apskųsti ją aukštesniam pagal pareigas pareigūnui. Skundo padavimas nuobaudos
 vykdymo nesustabdo. Aukštesnis pagal pareigas pareigūnas paskirtą nuobaudą
-sušvelnina arba panaikina, jeigu ją paskyręs pareigūnas viršijo savo
-įgaliojimus arba jeigu nuobauda paskirta nepadariusiam pažeidimo nuteistajam.
+sušvelnina arba panaikina, jeigu ją paskyręs pareigūnas viršijo savo įgaliojimus
+arba jeigu nuobauda paskirta nepadariusiam pažeidimo nuteistajam.
 8. Jeigu per
 vieną mėnesį po nuobaudos atlikimo dienos nuteistajam nepaskiriama nauja
 nuobauda, laikoma, kad jis nuobaudų neturi.
@@ -1270,15 +1290,25 @@ straipsnis. Pataisos įstaigų rūšys
 atėmimo bausmę vykdančios pataisos įstaigos yra šių rūšių: pataisos namai,
 nepilnamečių pataisos namai, kalėjimai ir atviros kolonijos.
 2. Šio
-straipsnio 1 dalyje numatytoms pataisos įstaigų rūšims prilyginamos laisvės
-atėmimo vietų gydymo įstaigos: gydymo-pataisos namai ir laisvės atėmimo vietos
+straipsnio 1 dalyje numatytoms pataisos įstaigų rūšims prilyginamos laisvės atėmimo
+vietų gydymo įstaigos: gydymo-pataisos namai ir laisvės atėmimo vietos
 ligoninė.
+62 straipsnis papildomas 3 dalimi nuo
+2006 m. sausio 1 d.:
+3. Pataisos
+įstaiga gali vykdyti kelių rūšių, nurodytų šio straipsnio 1 ir 2 dalyse,
+pataisos įstaigų funkcijas, taip pat gali vykdyti vienos iš šio straipsnio 1 ir
+2 dalyse nurodytų rūšių, pataisos įstaigos ir kardomąjį kalinimą vykdančios
+įstaigos funkcijas.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 63
 straipsnis. Pataisos įstaigos rūšies nustatymas nuteistajam
-Kokios rūšies pataisos
-įstaigoje nuteistasis atliks laisvės atėmimo bausmę, nustato teismas remdamasis
-Baudžiamojo kodekso 50 straipsniu.
+Kokios rūšies
+pataisos įstaigoje nuteistasis atliks laisvės atėmimo bausmę, nustato teismas
+remdamasis Baudžiamojo kodekso 50 straipsniu.
  
 64
 straipsnis. Didžiausias pataisos įstaigoje laikomų nuteistųjų skaičius
@@ -1325,8 +1355,8 @@ saugumo pajėgos, atsakingos už viešąjį saugumą, Lietuvos Respublikos
 Vyriausybės nustatyta tvarka.
  
 67 straipsnis. Nuteistųjų laikinas palikimas
-kardomojo kalinimo vietose ir nuteistųjų perkėlimas iš pataisos įstaigos į
-kardomojo kalinimo vietas
+kardomojo kalinimo vietose ir nuteistųjų perkėlimas iš pataisos įstaigos į kardomojo
+kalinimo vietas
 Nuteistųjų
 laikino palikimo kardomojo kalinimo vietose ir nuteistųjų perkėlimo iš pataisos
 įstaigų į kardomojo kalinimo vietas pagrindus ir tvarką, taip pat esančių
@@ -1385,12 +1415,12 @@ nepilnamečiai.
 3. Izoliuoti nuo
 kitų nuteistųjų toje pačioje pataisos įstaigoje arba atskirose įstaigose, jei
 yra tokia galimybė, laikomi: nuteistieji, kuriems paskirtas laisvės atėmimas
-pirmą kartą; nuteistieji už tyčinius ir neatsargius nusikaltimus; nuteistieji užsieniečiai;
-buvę ar esantys valstybės politikai, teisėsaugos, teismų, prokuratūros,
-kontrolės, valdžios ir valdymo institucijų pareigūnai; pavojingi recidyvistai,
-nuteisti už sunkius ir labai sunkius nusikaltimus; nuteistieji, sergantys
-aktyvia plaučių tuberkulioze; nuteistieji, kuriems paskirtas laisvės atėmimas
-iki gyvos galvos.
+pirmą kartą; nuteistieji už tyčinius ir neatsargius nusikaltimus; nuteistieji
+užsieniečiai; buvę ar esantys valstybės politikai, teisėsaugos, teismų,
+prokuratūros, kontrolės, valdžios ir valdymo institucijų pareigūnai; pavojingi
+recidyvistai, nuteisti už sunkius ir labai sunkius nusikaltimus; nuteistieji,
+sergantys aktyvia plaučių tuberkulioze; nuteistieji, kuriems paskirtas laisvės
+atėmimas iki gyvos galvos.
 4. Pataisos
 įstaigos administracija turi teisę laikyti izoliuotus nuo kitų nuteistųjų
 buvusius ar esamus valstybės tarnautojus, I ir II grupių invalidus, sergančius
@@ -1426,6 +1456,8 @@ Laisvės atėmimo
 bausmę pataisos namuose, išskyrus laisvės atėmimo vietų gydymo įstaigas,
 atliekantys nuteistieji suskirstomi į paprastąją, lengvąją ir drausmės grupes.
  
+73 straipsnio redakcija iki 2006 m.
+sausio 1 d.:
 73
 straipsnis. Paprastajai grupei priskirtų nuteistųjų laikymo sąlygos
 Paprastajai
@@ -1434,13 +1466,32 @@ grupei priskirti nuteistieji turi teisę:
 maisto produktų ir būtiniausių reikmenų;
 2) per tris
 mėnesius gauti vieną pašto arba perduodamą siuntinį;
-3) per tris
-mėnesius gauti vieną ilgalaikį ir vieną trumpalaikį pasimatymą;
+3) per tris mėnesius
+gauti vieną ilgalaikį ir vieną trumpalaikį pasimatymą;
 4) gauti ir
 siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda;
 5) vieną kartą
 per mėnesį paskambinti telefonu.
+73 straipsnio redakcija nuo 2006 m.
+sausio 1 d.:
+73
+straipsnis. Paprastajai grupei priskirtų nuteistųjų laikymo sąlygos
+Paprastajai
+grupei priskirti nuteistieji turi teisę:
+1) įsigyti
+maisto produktų ir būtiniausių reikmenų;
+2) per tris
+mėnesius gauti vieną ilgalaikį ir vieną trumpalaikį pasimatymą;
+3) gauti ir siųsti
+neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda;
+4) vieną kartą
+per savaitę paskambinti telefonu.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
+74 straipsnio redakcija iki 2006 m.
+sausio 1 d.:
 74
 straipsnis. Lengvajai grupei priskirtų nuteistųjų laikymo sąlygos
 Lengvajai grupei
@@ -1455,9 +1506,28 @@ mėnesius gauti vieną ilgalaikį ir vieną trumpalaikį pasimatymą;
 siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda; 
 5) paskambinti
 telefonu.
+74 straipsnio redakcija nuo 2006 m.
+sausio 1 d.:
+74
+straipsnis. Lengvajai grupei priskirtų nuteistųjų laikymo sąlygos
+Lengvajai grupei
+priskirti nuteistieji turi teisę:
+1) įsigyti
+maisto produktų ir būtiniausių reikmenų;
+2) per du mėnesius
+gauti vieną ilgalaikį ir vieną trumpalaikį pasimatymą;
+3) gauti ir
+siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda;
+4) paskambinti
+telefonu.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 75
 straipsnis. Drausmės grupei priskirtų nuteistųjų laikymo sąlygos
+1 dalies redakcija iki 2006 m. sausio 1
+d.:
 1. Drausmės
 grupei priskirti nuteistieji turi teisę:
 1) įsigyti
@@ -1468,9 +1538,23 @@ mėnesius gauti vieną pašto arba perduodamą siuntinį;
 siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda;
 4) vieną kartą
 per du mėnesius paskambinti telefonu.
+1 dalies redakcija nuo 2006 m. sausio 1
+d.:
+1. Drausmės
+grupei priskirti nuteistieji turi teisę:
+1) įsigyti
+maisto produktų ir būtiniausių reikmenų;
+2) gauti ir
+siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda;
+3) vieną kartą
+per mėnesį paskambinti telefonu.
+ 
 2. Drausmės
 grupei priskirti nuteistieji nakties metu užrakinami gyvenamosiose patalpose,
 įrengtose pagal kamerų įrengimo reikalavimus.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 76 straipsnis. Nuteistųjų laikymo laisvės atėmimo
 vietų gydymo įstaigose sąlygos
@@ -1484,7 +1568,8 @@ pataisos namų, taikomos tų grupių, kurioms nuteistieji buvo priskirti, kol
 bausmę atliko pataisos namuose, laikymo sąlygos. Šis reikalavimas netaikomas,
 kai pagal gydytojų komisijos išvadą tokios laikymo sąlygos netaikytinos.
  
-Trečiasis skirsnis
+Trečiasis
+skirsnis
 NEPILNAMEČIŲ
 PATAISOS NAMAI
  
@@ -1501,6 +1586,8 @@ Laisvės atėmimo
 bausmę nepilnamečių pataisos namuose atliekantys nuteistieji suskirstomi į
 paprastąją ir lengvąją grupes.
  
+79 straipsnio redakcija iki 2006 m.
+sausio 1 d.:
 79
 straipsnis. Paprastajai grupei priskirtų nuteistųjų laikymo sąlygos
 Paprastajai
@@ -1515,7 +1602,26 @@ trumpalaikį ir vieną ilgalaikį pasimatymą;
 siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda;
 5) vieną kartą
 per dvi savaites paskambinti telefonu.
+79 straipsnio redakcija nuo 2006 m.
+sausio 1 d.:
+79
+straipsnis. Paprastajai grupei priskirtų nuteistųjų laikymo sąlygos
+Paprastajai
+grupei priskirti nuteistieji turi teisę:
+1) įsigyti
+maisto produktų ir būtiniausių reikmenų;
+2) per du
+mėnesius gauti vieną trumpalaikį ir vieną ilgalaikį pasimatymą;
+3) gauti ir
+siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda;
+4) vieną kartą
+per savaitę paskambinti telefonu.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
+80 straipsnio redakcija nuo 2006 m.
+sausio 1 d.:
 80
 straipsnis. Lengvajai grupei priskirtų nuteistųjų laikymo sąlygos 
 Lengvajai grupei
@@ -1530,6 +1636,23 @@ gauti vieną trumpalaikį ir vieną ilgalaikį pasimatymą;
 siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda;
 5) paskambinti
 telefonu.
+80 straipsnio redakcija nuo 2006 m.
+sausio 1 d.:
+80
+straipsnis. Lengvajai grupei priskirtų nuteistųjų laikymo sąlygos
+Lengvajai grupei
+priskirti nuteistieji turi teisę:
+1) įsigyti
+maisto produktų ir būtiniausių reikmenų;
+2) per mėnesį
+gauti vieną trumpalaikį ir vieną ilgalaikį pasimatymą;
+3) gauti ir
+siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda;
+4) paskambinti
+telefonu.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 81 straipsnis. Nuteistųjų, kuriems suėjo
 aštuoniolika metų, palikimas nepilnamečių pataisos namuose
@@ -1555,17 +1678,18 @@ atlikimo režimą, gali būti Kalėjimų departamento direktoriaus nutarimu, pri
 pagal nepilnamečių pataisos namų direktoriaus teikimą, perkelti iš nepilnamečių
 pataisos namų į pataisos namus bausmę atlikti paprastojoje grupėje.
  
-Ketvirtasis skirsnis
+Ketvirtasis
+skirsnis
 KALĖJIMAI
  
 83
 straipsnis. Kalėjimuose laisvės atėmimo bausmę atliekantys nuteistieji 
 1. Kalėjimuose
 laisvės atėmimo bausmę atlieka pilnamečiai asmenys (išskyrus ribotai
-pakaltinamus asmenis, nėščias moteris ir vaikų iki trejų metų turinčias motinas),
-nuteisti už labai sunkius nusikaltimus, taip pat iš pataisos namų perkelti
-nuteistieji ir nuteistieji, kuriems paskirtas laisvės atėmimas iki gyvos
-galvos.
+pakaltinamus asmenis, nėščias moteris ir vaikų iki trejų metų turinčias
+motinas), nuteisti už labai sunkius nusikaltimus, taip pat iš pataisos namų
+perkelti nuteistieji ir nuteistieji, kuriems paskirtas laisvės atėmimas iki
+gyvos galvos.
 2. Kalėjimuose
 taip pat atlieka bausmę nuteistieji, šio Kodekso 68 straipsnio nustatyta tvarka
 palikti kalėjime atlikti ūkio darbų.
@@ -1581,6 +1705,8 @@ kalėjimuose suskirstomi į paprastąją ir drausmės grupes.
  
 85
 straipsnis. Paprastajai grupei priskirtų nuteistųjų laikymo sąlygos 
+1 dalies redakcija iki 2006 m. sausio 1
+d.:
 1. Paprastajai
 grupei priskirti nuteistieji turi teisę:
 1) įsigyti
@@ -1596,6 +1722,22 @@ pasivaikščioti pusantros valandos, o ligoniai pagal gydytojų išvadą – dvi
 valandas;
 6) vieną kartą
 per mėnesį paskambinti telefonu. 
+1 dalies redakcija nuo 2006 m. sausio 1
+d.:
+1. Paprastajai
+grupei priskirti nuteistieji turi teisę:
+1) įsigyti maisto
+produktų ir būtiniausių reikmenų;
+2) per du
+mėnesius gauti vieną trumpalaikį pasimatymą;
+3) gauti ir
+siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda;
+4) gauti kasdien
+pasivaikščioti pusantros valandos, o ligoniai pagal gydytojų išvadą – dvi
+valandas;
+5) vieną kartą
+per savaitę paskambinti telefonu.
+ 
 2. Šio
 straipsnio 1 dalies 3 punkte nurodytas trumpalaikis pasimatymas kalėjimo
 direktoriaus arba jį pavaduojančio pareigūno leidimu su sutuoktiniu,
@@ -1607,6 +1749,9 @@ nuteistojo ir į pasimatymą atvykusio asmens vaikas. Toks pasimatymas vyksta
 uždarose specialiai įrengtose patalpose.
 3. Paprastajai
 grupei priskirti nuteistieji laikomi rakinamose kamerose.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 86
 straipsnis. Drausmės grupei priskirtų nuteistųjų laikymo sąlygos
@@ -1618,8 +1763,16 @@ maisto produktų ir būtiniausių reikmenų;
 siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų su spauda;
 3) gauti kasdien
 pasivaikščioti vieną valandą.
-2. Drausmės
-grupei priskirti nuteistieji laikomi rakinamose kamerose.
+1
+dalis papildoma 4 punktu nuo 2006 m. sausio 1 d.:
+4) vieną kartą
+per mėnesį paskambinti telefonu.
+ 
+2. Drausmės grupei
+priskirti nuteistieji laikomi rakinamose kamerose.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 87 straipsnis. Nuteistųjų laikymo drausmės grupės
 sąlygomis terminai ir jų nustatymo tvarka
@@ -1635,6 +1788,8 @@ straipsnio 2 dalyje nurodytas nutarimas nuteistajam paskelbiamas pasirašytinai.
 perkelti nuteistąjį iš drausmės grupės į paprastąją grupę leidžiama tik dėl
 sveikatos būklės, kai yra atitinkama gydytojo išvada.
  
+88 straipsnio redakcija iki 2006 m.
+sausio 1 d.:
 88
 straipsnis. Paliktų kalėjime atlikti ūkio darbų nuteistųjų laikymo sąlygos
 Palikti kalėjime
@@ -1643,6 +1798,19 @@ laikomi nerakinamose kamerose. Šie nuteistieji naudoja asmeninėse sąskaitose
 esančius pinigus, gauna pašto ir perduodamus siuntinius, smulkiuosius paketus
 su spauda, pasimatymus, gauna ir siunčia laiškus, skambina telefonu pagal šio
 Kodekso 73 ir 74 straipsniuose nustatytas taisykles.
+88 straipsnio redakcija nuo 2006 m.
+sausio 1 d.:
+88
+straipsnis. Paliktų kalėjime atlikti ūkio darbų nuteistųjų laikymo sąlygos
+Palikti kalėjime
+atlikti ūkio darbų nuteistieji gyvena atskirai nuo kitų nuteistųjų ir gali būti
+laikomi nerakinamose kamerose. Šie nuteistieji naudoja asmeninėse sąskaitose
+esančius pinigus, gauna smulkiuosius paketus su spauda, pasimatymus, gauna ir
+siunčia laiškus, skambina telefonu pagal šio Kodekso 73 ir 74 straipsniuose
+nustatytas taisykles.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 89
 straipsnis. Laikinai laikomų kalėjime nuteistųjų laikymo sąlygos
@@ -1661,8 +1829,8 @@ KOLONIJOS
 bausmę atliekantys nuteistieji 
 1. Atvirose
 kolonijose laisvės atėmimo bausmę atlieka už neatsargius bei nesunkius tyčinius
-nusikaltimus nuteisti pilnamečiai asmenys, kuriems teismas nustatė bausmę atlikti
-atvirose kolonijose.
+nusikaltimus nuteisti pilnamečiai asmenys, kuriems teismas nustatė bausmę
+atlikti atvirose kolonijose.
 2. Vienoje
 atviroje kolonijoje gali būti laikomi ir nuteistieji vyrai, ir nuteistosios
 moterys.
@@ -1775,8 +1943,10 @@ suteikiami papildomi trumpalaikiai ir ilgalaikiai pasimatymai.
 sergančių nuteistųjų lankymo tvarką nustato Pataisos įstaigų vidaus tvarkos
 taisyklės. 
  
-95 straipsnis. Nuteistųjų teisė gauti pašto bei
-perduodamus siuntinius ir smulkiuosius paketus su spauda
+95 straipsnio redakcija iki 2006 m.
+sausio 1 d.:
+95 straipsnis. Nuteistųjų teisė gauti pašto bei perduodamus
+siuntinius ir smulkiuosius paketus su spauda
 1.
 Nuteistiesiems leidžiama gauti pašto ir perduodamus siuntinius. Jų skaičių
 nustato šio Kodekso 73–75, 79, 80, 85, 91 ir 152 straipsniai.
@@ -1823,7 +1993,31 @@ pateiktą sąrašą.
 9. Maisto
 produktų, kuriuos draudžiama siųsti pašto siuntiniuose arba perduoti
 nuteistiesiems, sąrašą nustato Teisingumo ministerija.
+95 straipsnio redakcija nuo 2006 m.
+sausio 1 d.:
+95 straipsnis. Nuteistųjų teisė gauti pašto bei
+perduodamus siuntinius ir smulkiuosius paketus su spauda
+1.
+Nuteistiesiems leidžiama per šešis mėnesius gauti vieną pašto arba perduodamą
+drabužių, avalynės siuntinį.
+2. Vienas pašto
+siuntinys neturi sverti daugiau kaip dešimt kilogramų, o perduodamas siuntinys
+– daugiau kaip penkiolika kilogramų. 
+3. Pataisos
+įstaigų administracija gali priimti drabužių labdaros siuntas. 
+4. Pašto ir
+perduodamų drabužių, avalynės siuntinių, smulkiųjų paketų su spauda priėmimo ir
+įteikimo nuteistiesiems, labdaros siuntų priėmimo ir paskirstymo nuteistiesiems
+tvarką nustato Pataisos įstaigų vidaus tvarkos taisyklės. 
+5. Drabužius ir
+avalynę, kuriuos nuteistiesiems draudžiama gauti, nustato šio Kodekso 1
+priedas.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
+96 straipsnio redakcija iki 2006 m.
+sausio 1 d.:
 96 straipsnis. Nuteistųjų teisė naudotis
 nešiojamaisiais televizoriais, kompiuteriais, vaizdo magnetofonais,
 nešiojamaisiais radijo imtuvais bei kompiuterinių žaidimų aparatais
@@ -1847,7 +2041,34 @@ direktoriaus nutarimu paimami ir saugomi pataisos įstaigoje. Paimti daiktai
 grąžinami juos perdavusiems asmenims pagal jų arba nuteistojo rašytinį
 pareiškimą, arba nuteistajam, kai jis perkeliamas į paprastąją grupę arba baigė
 atlikti bausmę, arba yra atleistas nuo bausmės. 
- 
+96 straipsnio redakcija nuo 2006 m.
+sausio 1 d.:
+96 straipsnis. Nuteistųjų teisė naudotis
+televizoriais, kompiuteriais, vaizdo magnetofonais, radijo imtuvais bei
+kompiuterinių žaidimų aparatais
+1.
+Nuteistiesiems, išskyrus laisvės atėmimo bausmę atliekančius pataisos įstaigose
+drausmės grupės laikymo sąlygomis, leidžiama naudotis sutuoktinio, sugyventinio
+arba artimųjų giminaičių perduotais televizoriais, kompiuteriais, vaizdo
+magnetofonais, radijo imtuvais, kompiuterinių žaidimų aparatais ir kitais
+Pataisos įstaigų vidaus tvarkos taisyklėse nurodytais daiktais.
+2. Naudojimosi
+televizoriais, kompiuteriais, vaizdo magnetofonais, radijo imtuvais,
+kompiuterinių žaidimų aparatais ir kitais daiktais tvarką nustato Pataisos
+įstaigų vidaus tvarkos taisyklės.
+3. Iš
+nuteistųjų, sistemingai pažeidinėjančių naudojimosi televizoriais,
+kompiuteriais, vaizdo magnetofonais, radijo imtuvais, kompiuterinių žaidimų
+aparatais ir kitais daiktais tvarką, taip pat iš perkeltų į drausmės grupę
+nuteistųjų šie daiktai motyvuotu pataisos įstaigos direktoriaus nutarimu
+paimami ir saugomi pataisos įstaigoje. Paimti daiktai grąžinami juos
+perdavusiems asmenims pagal jų arba nuteistojo rašytinį pareiškimą arba
+nuteistajam, kai jis perkeliamas į paprastąją grupę arba baigė atlikti bausmę,
+arba yra atleistas nuo bausmės.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
+
 97 straipsnis. Nuteistųjų teisė turėti laikrodžius,
 dėvėti savo drabužius bei avėti savo avalynę 
 Nuteistiesiems
@@ -1858,10 +2079,10 @@ parduotuvėje.
  
 98
 straipsnis. Nuteistųjų teisė gauti ir siųsti pinigines perlaidas
-1.
-Nuteistiesiems leidžiama gauti pinigines perlaidas ir siųsti jas sutuoktiniams,
-sugyventiniams bei artimiesiems giminaičiams ir pataisos įstaigos direktoriaus
-arba jį pavaduojančio pareigūno leidimu – kitiems asmenims.
+1. Nuteistiesiems
+leidžiama gauti pinigines perlaidas ir siųsti jas sutuoktiniams, sugyventiniams
+bei artimiesiems giminaičiams ir pataisos įstaigos direktoriaus arba jį
+pavaduojančio pareigūno leidimu – kitiems asmenims.
 2. Perlaidomis
 gauti pinigai įrašomi į nuteistojo asmeninę sąskaitą, o nuteistiesiems,
 turintiems teisę turėti grynų pinigų, įteikiami.
@@ -1912,8 +2133,8 @@ straipsnio 2 dalyje numatytų tarptautinių institucijų atsakymai nuteistiesiem
 įteikiami ne vėliau kaip per vieną darbo dieną nuo jų gavimo momento.
 4. Nuteistieji
 turi teisę tiesiogiai kreiptis į Respublikos Prezidentą, Lietuvos Respublikos
-Seimo ar Vyriausybės narį, prokurorą, Seimo skiriamą kontrolierių arba
-Teisingumo ministerijos atstovą šių asmenų lankymosi pataisos įstaigose metu.
+Seimo ar Vyriausybės narį, prokurorą, Seimo skiriamą kontrolierių arba Teisingumo
+ministerijos atstovą šių asmenų lankymosi pataisos įstaigose metu.
 5.
 Nuteistiesiems draudžiama siųsti anoniminius ar kolektyvinius skundus valstybės
 ir savivaldybių institucijoms ir pareigūnams.
@@ -1940,11 +2161,21 @@ taisyklės.
  
 102
 straipsnis. Nuteistųjų teisė paskambinti telefonu 
+1 dalies redakcija iki 2006 m. sausio 1
+d.:
 1.
 Nuteistiesiems leidžiama paskambinti telefonu. Telefoninių pokalbių skaičių
 nustato šio Kodekso 73–75, 79, 80, 85, 91 ir 152 straipsniai. Pataisos įstaigos
 direktorius turi teisę leisti papildomai vieną kartą paskambinti telefonu, jei
 to prašo nuteistasis dėl svarbių aplinkybių.
+1 dalies redakcija nuo 2006 m. sausio 1
+d.:
+1.
+Nuteistiesiems leidžiama paskambinti telefonu. Telefoninių pokalbių skaičių
+nustato šio Kodekso 73–75, 79, 80, 85, 86, 91 ir 152 straipsniai. Pataisos
+įstaigos direktorius turi teisę leisti papildomai vieną kartą paskambinti
+telefonu, jei to prašo nuteistasis dėl svarbių aplinkybių.
+ 
 2. Nuteistajam paskambinti telefonu leidžiama, jeigu jis tuo metu yra
 mokus arba naudojasi ryšio paslauga kalbėti telefonu kito abonento sąskaita.
 Vienas telefoninis pokalbis negali trukti ilgiau kaip 15 minučių. Kam skambinti
@@ -1961,6 +2192,8 @@ telefonu tvarką nustato Pataisos įstaigų vidaus tvarkos taisyklės.
 Straipsnio pakeitimai:
 Nr. IX-2338,
 2004-07-08, Žin., 2004, Nr. 115-4278 (2004-07-24)
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 103
 straipsnis. Nuteistųjų teisė pasivaikščioti gryname ore
@@ -2003,9 +2236,9 @@ Nuteistiesiems, laikomiems atvirose kolonijose, pataisos namuose lengvosios ir
 paprastosios grupių laikymo sąlygomis bei nepilnamečių pataisos namuose, gali
 būti leidžiama išvykti už šių pataisos įstaigų ribų ne ilgiau kaip dešimčiai
 parų dėl sutuoktinio, sugyventinio ar artimojo giminaičio mirties ar sunkios
-ligos, gresiančios ligonio gyvybei, taip pat dėl gaivalinės nelaimės, padariusios
-didelės materialinės žalos nuteistajam ar jo sutuoktiniui, sugyventiniui arba
-artimiesiems giminaičiams.
+ligos, gresiančios ligonio gyvybei, taip pat dėl gaivalinės nelaimės,
+padariusios didelės materialinės žalos nuteistajam ar jo sutuoktiniui,
+sugyventiniui arba artimiesiems giminaičiams.
 2. Leidimą
 išvykti už pataisos įstaigos ribų duoda pataisos įstaigos direktorius,
 atsižvelgdamas į nuteistojo asmenybę, elgesį bausmės atlikimo metu, kokia
@@ -2058,9 +2291,9 @@ taisyklės.
 straipsnis. Nuteistųjų teisė sudaryti civilinius sandorius
 Laisvės atėmimo
 bausmę atliekantys nuteistieji turi teisę Civilinio kodekso nustatyta tvarka
-disponuoti savo turtu, esančiu ne pataisos įstaigoje, taip pat per atstovą
-sudaryti sandorius, išskyrus sandorius, kurie dėl savo pobūdžio gali būti
-sudaromi tik asmeniškai.
+disponuoti savo turtu, esančiu ne pataisos įstaigoje, taip pat per atstovą sudaryti
+sandorius, išskyrus sandorius, kurie dėl savo pobūdžio gali būti sudaromi tik
+asmeniškai.
  
 109 straipsnis. Nuteistųjų užsieniečių teisė
 palaikyti ryšius su savo valstybių atstovais
@@ -2074,8 +2307,8 @@ Respublikos tarptautinių sutarčių numatytais atvejais ir tvarka nuteistieji
 užsieniečiai, kuriems paskirta laisvės atėmimo bausmė, gali būti perduoti
 bausmės atlikti į kitą valstybę.
  
-110 straipsnis. Specialiosios nuteistųjų, kuriems paskirta
-laisvės atėmimo bausmė, pareigos
+110 straipsnis. Specialiosios nuteistųjų, kuriems
+paskirta laisvės atėmimo bausmė, pareigos
 1. Laisvės
 atėmimo bausmę atliekantys nuteistieji privalo:
 1) laikytis
@@ -2141,10 +2374,10 @@ diferencijuotų laisvės atėmimo bausmės vykdymo sąlygų ir šią bausmę atl
 nuteistųjų elgesio taisyklių visuma.
 2. Pagrindiniai
 pataisos įstaigų režimo reikalavimai yra šie: būtinas nuteistųjų izoliavimas ir
-nuolatinė jų priežiūra; reikalavimas nuteistiesiems tiksliai ir nenukrypstamai
-atlikti savo pareigas; skirtingų laikymo sąlygų sudarymas atsižvelgiant į
-nuteistojo padaryto nusikaltimo pavojingumą ir pobūdį, nuteistojo asmenybę ir
-elgesį bausmės atlikimo metu.
+nuolatinė jų priežiūra; reikalavimas nuteistiesiems tiksliai ir nenukrypstamai atlikti
+savo pareigas; skirtingų laikymo sąlygų sudarymas atsižvelgiant į nuteistojo
+padaryto nusikaltimo pavojingumą ir pobūdį, nuteistojo asmenybę ir elgesį
+bausmės atlikimo metu.
 3. Laisvės
 atėmimo bausmę atliekantys nuteistieji dėvi savo arba pataisos įstaigos
 išduotus drabužius. Nuteistiesiems daroma krata. Nuteistojo asmens kratą daro
@@ -2165,8 +2398,8 @@ sunaikinami.
 nustatyta tvarka nuteistiesiems leidžiama ne už grynus pinigus, išskyrus šio
 Kodekso 91 ir 152 straipsniuose numatytus atvejus, įsigyti maisto produktų ir
 būtiniausių reikmenų, gauti pasimatymus, pašto ir perduodamus siuntinius,
-smulkiuosius paketus su spauda, gauti ir siųsti pinigines perlaidas, susirašinėti,
-skambinti telefonu, pasivaikščioti.
+smulkiuosius paketus su spauda, gauti ir siųsti pinigines perlaidas,
+susirašinėti, skambinti telefonu, pasivaikščioti.
  
 113
 straipsnis. Pataisos įstaigų režimo užtikrinimo priemonės
@@ -2231,15 +2464,15 @@ paskelbiama nuteistiesiems.
 118 straipsnis. Pataisos įstaigų administracijos
 veiksmai nuteistųjų badavimo, atsisakymo dirbti ar vykdyti kitus
 administracijos įsakymus ir nurodymus atveju
-1. Jeigu
-nuteistieji paskelbia badavimą, atsisako dirbti ar vykdyti kitus
-administracijos įsakymus ir nurodymus, pataisos įstaigos direktorius arba jį
-pavaduojantis pareigūnas privalo nedelsdamas išsiaiškinti badavimo, atsisakymo
-dirbti ar vykdyti kitus administracijos įsakymus ir nurodymus priežastis,
-nuteistųjų reikalavimus ir jų teisėtumą. Pataisos įstaigos direktorius arba jį
-pavaduojantis pareigūnas privalo apie tai nedelsdamas pranešti Kalėjimų
-departamento direktoriui arba jį pavaduojančiam pareigūnui bei prokurorui ir
-imtis įmanomų priemonių teisėtiems nuteistųjų reikalavimams patenkinti.
+1. Jeigu nuteistieji
+paskelbia badavimą, atsisako dirbti ar vykdyti kitus administracijos įsakymus
+ir nurodymus, pataisos įstaigos direktorius arba jį pavaduojantis pareigūnas
+privalo nedelsdamas išsiaiškinti badavimo, atsisakymo dirbti ar vykdyti kitus
+administracijos įsakymus ir nurodymus priežastis, nuteistųjų reikalavimus ir jų
+teisėtumą. Pataisos įstaigos direktorius arba jį pavaduojantis pareigūnas
+privalo apie tai nedelsdamas pranešti Kalėjimų departamento direktoriui arba jį
+pavaduojančiam pareigūnui bei prokurorui ir imtis įmanomų priemonių teisėtiems
+nuteistųjų reikalavimams patenkinti.
 2. Jeigu
 nuteistųjų reikalavimai yra neteisėti, pataisos įstaigos direktorius arba jį
 pavaduojantis pareigūnas privalo asmeniškai apie tai pranešti nuteistiesiems ir
@@ -2259,8 +2492,8 @@ laiškų išsiuntimą, taip pat gautų laiškų, pašto bei perduodamų siuntini
 smulkiųjų paketų su spauda įteikimą nuteistiesiems;
 2) pasimatymų
 suteikimą nuteistiesiems;
-3) maisto
-produktų ir būtiniausių reikmenų pirkimą;
+3) maisto produktų
+ir būtiniausių reikmenų pirkimą;
 4) paskatinimo
 priemonių skyrimą nuteistiesiems;
 5) leidimą
@@ -2278,9 +2511,9 @@ būti panaudotos specialiosios priemonės: antrankiai, tramdomieji marškiniai a
 surišimo priemonės, guminės lazdos, koviniai imtynių veiksmai, dujos,
 vandensvaidžiai, tarnybiniai šunys, šarvuočiai ir kita technika.
 2. Specialiosios
-priemonės naudojamos atsižvelgiant į teisėtvarkos pažeidimo pobūdį, pažeidėjo
-asmenybę ir konkrečias aplinkybes bei situaciją. Naudodami specialiąsias
-priemones, pareigūnai privalo stengtis išvengti sunkių pasekmių.
+priemonės naudojamos atsižvelgiant į teisėtvarkos pažeidimo pobūdį, pažeidėjo asmenybę
+ir konkrečias aplinkybes bei situaciją. Naudodami specialiąsias priemones,
+pareigūnai privalo stengtis išvengti sunkių pasekmių.
 3. Prieš
 naudojant specialiąsias priemones, jei leidžia aplinkybės, asmenys, prieš
 kuriuos jos bus panaudotos, įspėjami.
@@ -2372,8 +2605,8 @@ Kalėjimų departamento direktoriaus arba jį pavaduojančio pareigūno žodiniu
 nurodymu prieš nuteistuosius gali būti panaudoti vandensvaidžiai, specialios
 paskirties dujos, šarvuočiai ir kita technika.
 2.
-Vandensvaidžiai gali būti panaudoti ir pataisos įstaigos direktoriaus arba jį
-pavaduojančio pareigūno žodiniu nurodymu.
+Vandensvaidžiai gali būti panaudoti ir pataisos įstaigos direktoriaus arba jį pavaduojančio
+pareigūno žodiniu nurodymu.
 3. Šio
 straipsnio 1 dalyje nurodytas priemones draudžiama panaudoti prieš
 nepilnamečius, moteris ir invalidus su akivaizdžiais invalidumo požymiais,
@@ -2431,8 +2664,8 @@ arba priešinasi šaunamuoju ginklu.
 šaunamąjį ginklą, pareigūnai privalo stengtis išvengti sunkių pasekmių.
 Panaudojęs šaunamąjį ginklą, pareigūnas privalo suteikti neatidėliotiną
 medicinos pagalbą, jeigu ji būtina. Apie kiekvieną šaunamojo ginklo panaudojimo
-prieš asmenį atvejį, aplinkybes ir pasekmes nedelsiant pranešama Teisingumo ministerijai
-ir prokurorui. Prokuroras gali nurodyti atlikti tarnybinį patikrinimą.
+prieš asmenį atvejį, aplinkybes ir pasekmes nedelsiant pranešama Teisingumo
+ministerijai ir prokurorui. Prokuroras gali nurodyti atlikti tarnybinį patikrinimą.
  
 Antrasis
 skirsnis
@@ -2446,11 +2679,11 @@ laisvės atėmimo bausmę atliekantis nuteistasis privalo dirbti, jeigu jam darb
 siūlo pataisos įstaigos administracija. Pataisos įstaigos administracija
 privalo užtikrinti, kad nuteistieji būtų įtraukiami į darbą atsižvelgiant į jų
 darbingumą ir, kiek galima, į turimą specialybę.
-2. Nuteistieji invalidai,
-pensinio amžiaus ir ribotai pakaltinami asmenys į darbą gali būti įtraukiami
-tik rašytiniu jų sutikimu, kai yra tam neprieštaraujanti gydytojų išvada ir
-laisvų darbo vietų. Šių asmenų darbingumo įvertinimo tvarką nustato Sveikatos
-apsaugos ministerija.
+2. Nuteistieji
+invalidai, pensinio amžiaus ir ribotai pakaltinami asmenys į darbą gali būti
+įtraukiami tik rašytiniu jų sutikimu, kai yra tam neprieštaraujanti gydytojų
+išvada ir laisvų darbo vietų. Šių asmenų darbingumo įvertinimo tvarką nustato
+Sveikatos apsaugos ministerija.
 3.
 Nuteistiesiems darbą parenka pataisos įstaigos administracija, atsižvelgdama į
 laisvas pareigas ir darbo vietas.
@@ -2475,11 +2708,11 @@ teisėtais būdais ir priemonėmis.
  
 126
 straipsnis. Nuteistųjų teisė užsiimti individualia darbine ar kūrybine veikla
-1. Laisvės
-atėmimo bausmę atliekantiems atvirose kolonijose bei pataisos namuose
-lengvosios grupės laikymo sąlygomis nuteistiesiems, kurie to pageidauja, gali
-būti sudaromos sąlygos užsiimti individualia darbine ar kūrybine veikla. Ši
-veikla leidžiama laisvu nuo darbo pataisos įstaigoje metu.
+1. Laisvės atėmimo
+bausmę atliekantiems atvirose kolonijose bei pataisos namuose lengvosios grupės
+laikymo sąlygomis nuteistiesiems, kurie to pageidauja, gali būti sudaromos
+sąlygos užsiimti individualia darbine ar kūrybine veikla. Ši veikla leidžiama
+laisvu nuo darbo pataisos įstaigoje metu.
 2. Pataisos
 įstaigos direktorius turi teisę leisti nuteistiesiems individualia darbine ar
 kūrybine veikla užsiimti ir vietoj darbo pataisos įstaigoje.
@@ -2498,8 +2731,8 @@ kvalifikacijos specialistams, išskyrus pataisos įstaigose drausmės grupės
 sąlygomis laikomus nuteistuosius, užsiimti vietoj darbo pataisos įstaigoje
 moksline, menine ir kitokia veikla.
 2. Šio
-straipsnio 1 dalyje nurodytos teisės įgyvendinimo tvarką nustato Pataisos įstaigos
-vidaus tvarkos taisyklės.
+straipsnio 1 dalyje nurodytos teisės įgyvendinimo tvarką nustato Pataisos
+įstaigos vidaus tvarkos taisyklės.
  
 128
 straipsnis. Nuteistųjų darbo sąlygos
@@ -2518,9 +2751,9 @@ kur yra pertraukiamasis darbo dienos (pamainos) režimas, taip pat darbuose, kur
 dėl techninių gamybos sąlygų negalima laikytis nuteistiesiems nustatytos
 kasdieninės ar kassavaitinės darbo trukmės, vadovaujantis Darbo kodekso
 nuostatomis, galima taikyti suminę darbo laiko apskaitą. 
-3. Nuteistiesiems,
-kurie įtraukiami į darbą poilsio arba švenčių dienomis, suteikiamas poilsis
-kitomis dienomis arba šios dienos pridedamos prie atostogų.
+3.
+Nuteistiesiems, kurie įtraukiami į darbą poilsio arba švenčių dienomis,
+suteikiamas poilsis kitomis dienomis arba šios dienos pridedamos prie atostogų.
 4. Atvirose
 kolonijose bei nepilnamečių pataisos namuose atliekančių laisvės atėmimo bausmę
 nuteistųjų, taip pat nuteistųjų invalidų darbo ir poilsio laikas nustatomas
@@ -2536,8 +2769,8 @@ straipsnis.
 draudimo ir valstybinio  socialinio draudimo stažo klausimai
 1.
 Laisvės atėmimo bausmę atliekantys nuteistieji valstybiniu socialiniu draudimu
-nedraudžiami, išskyrus Lietuvos Respublikos įstatymų nustatytą nelaimingų
-atsitikimų darbe ir profesinių ligų socialinį draudimą.
+nedraudžiami, išskyrus Lietuvos Respublikos įstatymų nustatytą nelaimingų atsitikimų
+darbe ir profesinių ligų socialinį draudimą.
 2.
 Laisvės atėmimo bausmę atliekantys nuteistieji gali draustis savanorišku
 valstybiniu socialiniu draudimu nustatyta tvarka arba sudaryti pensijos
@@ -2551,10 +2784,10 @@ draudimo stažą, išskyrus šio straipsnio 1 ir 2 dalyse nustatyta tvarka.
 straipsnis. Nuteistųjų teisė į atostogas
 1. Atvirose
 kolonijose, nepilnamečių pataisos namuose, pataisos namuose lengvosios ir
-paprastosios grupių laikymo sąlygomis atliekantys laisvės atėmimo bausmę nuteistieji,
-kurie stropiai dirba, turi teisę į keturiolikos kalendorinių dienų nemokamas
-atostogas per vienerius metus. Šios atostogos įskaitomas į bausmės atlikimo
-laiką.
+paprastosios grupių laikymo sąlygomis atliekantys laisvės atėmimo bausmę
+nuteistieji, kurie stropiai dirba, turi teisę į keturiolikos kalendorinių dienų
+nemokamas atostogas per vienerius metus. Šios atostogos įskaitomas į bausmės
+atlikimo laiką.
 2. Šio
 straipsnio 1 dalyje nurodytos atostogos suteikiamos nuteistajam atlikus
 vienuolika mėnesių bausmės, jeigu jis neturi galiojančių nuobaudų. Atostogos
@@ -2600,22 +2833,22 @@ nuteistiesiems, kurie moka alimentus nepilnamečiams vaikams.
 132
 straipsnis. Išskaitos iš nuteistųjų darbo užmokesčio
 1. Iš nuteistųjų
-darbo užmokesčio į pataisos įstaigose sudaromą socialinės paramos
-nuteistiesiems fondą atskaitoma: atvirose kolonijose – dešimt procentų,
-pataisos namuose, gydymo-pataisos namuose bei kalėjimuose – dvidešimt penki
-procentai, nepilnamečių pataisos namuose – dvidešimt procentų bendros darbo
-užmokesčio sumos. Šios išskaitos nedaromos iš darbo užmokesčio dalies,
-priskaičiuotos už nustatytų išdirbio normų viršijimą, ir premijų. Socialinės
-paramos nuteistiesiems fondo sudarymo ir jo lėšų naudojimo tvarką nustato
-Lietuvos Respublikos Vyriausybė.
+darbo užmokesčio į pataisos įstaigose sudaromą socialinės paramos nuteistiesiems
+fondą atskaitoma: atvirose kolonijose – dešimt procentų, pataisos namuose,
+gydymo-pataisos namuose bei kalėjimuose – dvidešimt penki procentai,
+nepilnamečių pataisos namuose – dvidešimt procentų bendros darbo užmokesčio
+sumos. Šios išskaitos nedaromos iš darbo užmokesčio dalies, priskaičiuotos už
+nustatytų išdirbio normų viršijimą, ir premijų. Socialinės paramos
+nuteistiesiems fondo sudarymo ir jo lėšų naudojimo tvarką nustato Lietuvos
+Respublikos Vyriausybė.
 2. Be šio
 straipsnio 1 dalyje nurodytų išskaitų, iš bendros darbo užmokesčio sumos,
 išskyrus atviras kolonijas, atskaitomi penki procentai į nuteistojo
 neliečiamąją asmeninės sąskaitos dalį, kurios naudoti nuteistasis neturi
-teisės. Ypatingais atvejais bausmės atlikimo metu pataisos įstaigos
-direktoriaus leidimu nuteistasis gali panaudoti pinigus, turimus neliečiamojoje
-asmeninės sąskaitos dalyje. Likusi šioje sąskaitoje pinigų suma nuteistajam
-išduodama tik paleidimo iš pataisos įstaigos metu.
+teisės. Ypatingais atvejais bausmės atlikimo metu pataisos įstaigos direktoriaus
+leidimu nuteistasis gali panaudoti pinigus, turimus neliečiamojoje asmeninės
+sąskaitos dalyje. Likusi šioje sąskaitoje pinigų suma nuteistajam išduodama tik
+paleidimo iš pataisos įstaigos metu.
 3. Atlikus šio
 straipsnio 1 ir 2 dalyse nustatytas išskaitas, iš likusios uždirbtos sumos
 atskaitoma pagal vykdomuosius raštus ir kitus vykdomuosius dokumentus Civilinio
@@ -2642,9 +2875,9 @@ straipsnis. Nuteistųjų įtraukimas į nemokamus darbus
 darbą, nuteistieji gali būti įtraukti tik į pataisos įstaigų ir gretimų
 teritorijų tvarkymo, taip pat į nuteistųjų kultūros ir buities sąlygų gerinimo
 darbus.
-2. Šio straipsnio
-1 dalyje nurodytus darbus nuteistieji atlieka paeiliui ne darbo metu. Tokie
-darbai neturi trukti ilgiau kaip dvi valandas per dieną.
+2. Šio
+straipsnio 1 dalyje nurodytus darbus nuteistieji atlieka paeiliui ne darbo
+metu. Tokie darbai neturi trukti ilgiau kaip dvi valandas per dieną.
  
 135
 straipsnis. Nuteistųjų aprūpinimas pensijomis ir pašalpomis
@@ -2693,9 +2926,8 @@ socialinės reabilitacijos formos yra šios:
 1) individualus
 ir grupinis darbas su nuteistaisiais, kuriuo siekiama skatinti nuteistuosius
 keisti savo elgesį bei išlaikyti šeimos ir kitus socialinius ryšius ir kuris
-dirbamas atsižvelgiant į nuteistųjų asmenybę, amžių, lytį, padarytos
-nusikalstamos veikos pobūdį, išsilavinimą, elgesį bausmės atlikimo metu ir
-kitas aplinkybes;
+dirbamas atsižvelgiant į nuteistųjų asmenybę, amžių, lytį, padarytos nusikalstamos
+veikos pobūdį, išsilavinimą, elgesį bausmės atlikimo metu ir kitas aplinkybes;
 2) ilgalaikė
 nuteistųjų visuomeninio elgesio korekcija;
 3) nuteistųjų
@@ -2710,8 +2942,8 @@ priemonių ir nuobaudų skyrimas nuteistiesiems.
 138 straipsnis.
 Pataisos įstaigos psichologinė tarnyba
 1. Pataisos
-įstaigose veikia psichologinės tarnybos. Šių tarnybų veiklos pagrindinės
-kryptys yra šios:
+įstaigose veikia psichologinės tarnybos. Šių tarnybų veiklos pagrindinės kryptys
+yra šios:
 1) nuteistųjų
 asmenybės tyrimas ir individualaus psichologinio poveikio bei socialinės
 reabilitacijos krypčių nustatymas ir koregavimas;
@@ -2734,19 +2966,21 @@ būti steigiamos nuteistųjų kolektyvo tarybos. Jos padeda pataisos įstaigų
 administracijai organizuoti socialinę reabilitaciją ir sprendžia nuteistųjų
 buities klausimus. Nuteistųjų kolektyvo tarybos veiklos kryptis ir formas
 nustato pataisos įstaigos direktorius.
-2. Pataisos
-įstaigose, išskyrus kalėjimus, nuteistieji gali Lietuvos Respublikos įstatymų
-nustatyta tvarka steigti visuomenines organizacijas.
+2. Pataisos įstaigose,
+išskyrus kalėjimus, nuteistieji gali Lietuvos Respublikos įstatymų nustatyta
+tvarka steigti visuomenines organizacijas.
 3. Nuteistųjų
 kolektyvo tarybų ir visuomeninių organizacijų veikla neturi prieštarauti darbo,
-mokymosi, režimo, saugumo ir socialinės reabilitacijos interesams. 
+mokymosi, režimo, saugumo ir socialinės reabilitacijos interesams.
  
 140 straipsnis. Laisvės atėmimo bausmę atliekantiems
 nuteistiesiems skiriamos paskatinimo priemonės
+1 dalies redakcija iki 2006 m. sausio 1
+d.:
 1. Už
-nepriekaištingą elgesį, iniciatyvą ir aktyvų dalyvavimą socialinės
-reabilitacijos programose, stropų darbą bei mokymąsi laisvės atėmimo bausmę
-atliekantiems nuteistiesiems gali būti skiriamos šios paskatinimo priemonės:
+nepriekaištingą elgesį, iniciatyvą ir aktyvų dalyvavimą socialinės reabilitacijos
+programose, stropų darbą bei mokymąsi laisvės atėmimo bausmę atliekantiems
+nuteistiesiems gali būti skiriamos šios paskatinimo priemonės:
 1) padėka;
 2) premija už
 geriausius darbo rezultatus;
@@ -2759,9 +2993,8 @@ papildomų ilgalaikių arba trumpalaikių pasimatymų per vienerius metus
 suteikimas;
 6) paskirtos
 nuobaudos panaikinimas prieš terminą;
-7)
-pasivaikščiojimo laiko pailginimas iki dviejų valandų kalėjime laikomiems
-nuteistiesiems;
+7) pasivaikščiojimo
+laiko pailginimas iki dviejų valandų kalėjime laikomiems nuteistiesiems;
 8) leidimas
 nepilnamečiams pasimatymo su tėvais, globėjais (rūpintojais), artimaisiais
 giminaičiais ar kitais pasitikėjimo vertais asmenimis metu išeiti iki aštuonių
@@ -2774,7 +3007,39 @@ išvykos į namus suteikimas;
 ne mažiau kaip vienerius metus, o nepilnamečiams, atlikusiems ne mažiau kaip
 šešis mėnesius paskirtos bausmės, – perkėlimas iš paprastosios grupės į
 lengvąją grupę ir iš drausmės grupes į paprastąją grupę.
- 2. Nepilnamečių
+1 dalies redakcija nuo 2006 m. sausio 1
+d., 1 dalies 10 punktas įsigalioja nuo 2005 m. birželio 1 d.:
+1. Už
+nepriekaištingą elgesį, iniciatyvą ir aktyvų dalyvavimą socialinės
+reabilitacijos programose, stropų darbą bei mokymąsi laisvės atėmimo bausmę
+atliekantiems nuteistiesiems gali būti skiriamos šios paskatinimo priemonės:
+1) padėka;
+2) premija už
+geriausius darbo rezultatus;
+3) teisės vieną
+kartą papildomai paskambinti telefonu suteikimas;
+4) trijų
+papildomų ilgalaikių arba trumpalaikių pasimatymų per vienerius metus
+suteikimas;
+5) paskirtos
+nuobaudos panaikinimas prieš terminą;
+6)
+pasivaikščiojimo laiko pailginimas iki dviejų valandų kalėjime laikomiems
+nuteistiesiems;
+7) leidimas
+nepilnamečiams pasimatymo su tėvais, globėjais (rūpintojais), artimaisiais
+giminaičiais ar kitais pasitikėjimo vertais asmenimis metu išeiti iki aštuonių
+valandų už nepilnamečių pataisos namų teritorijos ribų;
+8) leidimas atostogų
+metu parvykti į namus;
+9) trumpalaikės
+išvykos į namus suteikimas;
+10) atlikusiems ne
+mažiau kaip vienerius metus, o nepilnamečiams, atlikusiems ne mažiau kaip šešis
+mėnesius paskirtos bausmės, – perkėlimas iš paprastosios grupės į lengvąją
+grupę.
+ 
+2. Nepilnamečių
 pataisos namuose laikomiems nuteistiesiems, kurie gerai elgiasi, gali būti
 leidžiama kartu su pataisos įstaigos darbuotojais nueiti į kiną, teatrą,
 koncertą, sporto varžybas ar kitus ne pataisos įstaigoje organizuojamus
@@ -2789,6 +3054,9 @@ kurie nepriekaištingu elgesiu ir stropiu darbu bei mokymusi įrodė, kad
 pasitaisė, gali būti Lietuvos Respublikos įstatymų nustatyta tvarka teikiami
 lygtinai atleisti nuo laisvės atėmimo bausmės prieš terminą arba neatliktą
 laisvės atėmimo bausmės dalį pakeisti švelnesne bausme.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 141
 straipsnis. Paskatinimo priemonių skyrimo nuteistiesiems tvarka
@@ -2800,11 +3068,21 @@ skiriant paskatinimo priemones nustato Pataisos įstaigų vidaus tvarkos
 taisyklės.
 2. Piniginė
 premija įrašoma į asmeninę nuteistojo sąskaitą.
+ 
+3 dalies redakcija iki 2006 m. sausio 1
+d.:
 3. Paskatinimas,
 kuriuo leidžiama papildomai paskambinti telefonu, gauti pašto ar perduodamą
 siuntinį ir pasimatymą, gali būti skiriamas tik nuteistiesiems, kurie pagal šį
 Kodeksą turi teisę paskambinti telefonu, gauti pašto arba perduodamų siuntinių
 ir pasimatymų.
+3 dalies redakcija nuo 2006 m. sausio 1
+d.:
+3. Paskatinimas,
+kuriuo leidžiama papildomai paskambinti telefonu, gauti pasimatymą, gali būti
+skiriamas tik nuteistiesiems, kurie pagal šį Kodeksą turi teisę paskambinti
+telefonu, gauti pasimatymų.
+ 
 4. Laisvės
 atėmimo bausmę atliekantiems kalėjime nuteistiesiems kaip paskatinimas gali
 būti suteikiamas tik trumpalaikis pasimatymas. 
@@ -2814,6 +3092,9 @@ pailginamas ne ilgiau kaip vieną mėnesį.
 6. Paskatinimo
 tvarka nuteistajam gali būti prieš terminą panaikinama vienu metu viena pirmiau
 paskirta nuobauda.
+ 
+7 dalies redakcija iki 2006 m. sausio 1
+d.:
 7. Paskatinimas,
 kuriuo pareiškiama padėka, leidžiama paskambinti telefonu, gauti papildomai
 tris pašto arba perduodamus siuntinius per vienerius metus, suteikiami trys
@@ -2823,6 +3104,19 @@ leidžiama nepilnamečiui pasimatymo su tėvais, globėjais (rūpintojais),
 artimaisiais giminaičiais ar kitais pasitikėjimo vertais asmenimis metu išeiti
 už nepilnamečių pataisos namų teritorijos ribų, skiriamas turinčio teisę skirti
 šias paskatinimo priemones pataisos įstaigos pareigūno nutarimu arba įsakymu.
+7 dalies redakcija nuo 2006 m. sausio 1
+d.:
+7. Paskatinimas,
+kuriuo pareiškiama padėka, leidžiama paskambinti telefonu, suteikiami trys
+papildomi trumpalaikiai arba ilgalaikiai pasimatymai per vienerius metus, prieš
+terminą panaikinama paskirta nuobauda, pailginamas pasivaikščiojimo laikas,
+leidžiama nepilnamečiui pasimatymo su tėvais, globėjais (rūpintojais),
+artimaisiais giminaičiais ar kitais pasitikėjimo vertais asmenimis metu išeiti
+už nepilnamečių pataisos namų teritorijos ribų, skiriamas turinčio teisę skirti
+šias paskatinimo priemones pataisos įstaigos pareigūno nutarimu arba įsakymu.
+ 
+8 dalies redakcija iki 2006 m. sausio 1
+d.:
 8. Padėka kaip
 paskatinimas gali būti paskelbta ir žodžiu. Iš paskatinimų, kuriais leidžiama
 gauti papildomai tris pašto arba perduodamus siuntinius per vienerius metus,
@@ -2834,6 +3128,17 @@ nutarimu arba įsakymu galima leisti gauti tik vieną papildomą pašto arba
 perduodamą siuntinį, suteikti vieną papildomą trumpalaikį arba ilgalaikį
 pasimatymą, leisti vieną kartą išeiti už nepilnamečių pataisos namų teritorijos
 ribų.
+8 dalies redakcija nuo 2006 m. sausio 1
+d.:
+8. Padėka kaip
+paskatinimas gali būti paskelbta ir žodžiu. Iš paskatinimų, kuriais suteikiami
+trys papildomi trumpalaikiai arba ilgalaikiai pasimatymai per vienerius metus,
+leidžiama nepilnamečiui pasimatymo su tėvais, globėjais (rūpintojais),
+artimaisiais giminaičiais ar kitais pasitikėjimo vertais asmenimis metu išeiti
+už nepilnamečių pataisos namų teritorijos ribų, vienu nutarimu arba įsakymu
+galima suteikti tik vieną papildomą trumpalaikį arba ilgalaikį pasimatymą,
+leisti vieną kartą išeiti už nepilnamečių pataisos namų teritorijos ribų.
+ 
 9. Paskatinimas,
 kuriuo leidžiama trumpalaikė išvyka į namus arba leidžiama atostogų metu
 parvykti į namus, skiriamas pataisos įstaigos direktoriaus įsakymu, o
@@ -2848,18 +3153,30 @@ nueiti į kiną, teatrą, koncertą, sporto varžybas ar kitą ne pataisos įsta
 organizuojamą renginį.
 11. Apie
 paskatinimo priemonės paskyrimą paskelbiama nuteistajam.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 142 straipsnis. Laisvės atėmimo bausmę atliekantiems
 nuteistiesiems skiriamos nuobaudos 
 1. Už bausmės
-atlikimo režimo reikalavimų pažeidimą nuteistiesiems gali būti skiriamos šios nuobaudos:
+atlikimo režimo reikalavimų pažeidimą nuteistiesiems gali būti skiriamos šios
+nuobaudos:
 1) įspėjimas
 arba papeikimas;
 2) pataisos
 įstaigos patalpų ir teritorijos tvarkymas be eilės;
+ 
+1 dalies 3 punkto redakcija iki 2006 m.
+sausio 1 d.:
 3) teisės gauti
 eilinį pašto arba perduodamą siuntinį atėmimas ir draudimas iki vieno mėnesio
 pirkti maisto produktų;
+1 dalies 3 punkto redakcija nuo 2006 m.
+sausio 1 d.:
+3) draudimas iki
+vieno mėnesio pirkti maisto produktų;
+ 
 4) atvirose
 kolonijose ir pataisos namuose laikomų nuteistųjų uždarymas į baudos
 izoliatorių iki penkiolikos parų arba nepilnamečių nuteistųjų uždarymas į
@@ -2871,10 +3188,22 @@ namuose drausmės grupės sąlygomis laikomų nuteistųjų perkėlimas į kamer�
 patalpas iki šešių mėnesių;
 7) kalėjimuose
 laikomų nuteistųjų perkėlimas į drausmės grupę nuo dviejų iki šešių mėnesių.
+ 
+2 dalies redakcija iki 2005 m. birželio
+1 d.:
 2.
 Nuteistiesiems, sistemingai pažeidinėjantiems arba itin piktybiškai
 pažeidusiems režimą, gali būti paskirtas perkėlimas iš lengvosios į paprastąją
 grupę arba iš paprastosios į drausmės grupę.
+2 dalies redakcija nuo 2005 m. birželio
+1 d.:
+2.
+Nuteistiesiems, sistemingai pažeidinėjantiems arba itin piktybiškai
+pažeidusiems režimą, gali būti panaikinta anksčiau paskirta paskatinimo
+priemonė – perkėlimas iš paprastosios grupės į lengvąją grupę arba gali būti
+paskirtas perkėlimas iš paprastosios grupės į drausmės grupę nuo šešių
+mėnesių iki vienerių metų.
+ 
 3. Kalėjimų
 departamento direktorius pataisos namų direktoriaus teikimu gali nuteistąjį,
 perkeltą į pataisos namų kamerų tipo patalpas, pasiųsti šią nuobaudą atlikti
@@ -2882,13 +3211,16 @@ kalėjime.
 4. Nėščioms
 moterims ir turinčioms vaikų iki trejų metų motinoms šio straipsnio 1 dalies
 4–7 punktuose numatytos nuobaudos netaikomos. 
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 143 straipsnis. Nuobaudų skyrimo atliekantiems
 laisvės atėmimo bausmę nuteistiesiems tvarka
 1. Šio Kodekso
-142 straipsnio 1 ir 2 dalyse numatytos nuobaudos skiriamos tam įgalioto
-pareigūno nutarimu arba įsakymu. Turinčių teisę skirti nuobaudas pareigūnų
-sąrašą ir jų įgaliojimus nustato Pataisos įstaigų vidaus tvarkos taisyklės.
+142 straipsnio 1 ir 2 dalyse numatytos nuobaudos skiriamos tam įgalioto pareigūno
+nutarimu arba įsakymu. Turinčių teisę skirti nuobaudas pareigūnų sąrašą ir jų
+įgaliojimus nustato Pataisos įstaigų vidaus tvarkos taisyklės.
 2. Skiriant
 nuobaudas, atsižvelgiama į pažeidimo padarymo aplinkybes, į paskirtų nuobaudų
 kiekį ir pobūdį, taip pat į nuteistojo rašytinį pasiaiškinimą dėl pažeidimo.
@@ -2904,6 +3236,9 @@ ne vėliau kaip per du mėnesius nuo pažeidimo padarymo dienos.
 nuobauda vykdoma tuoj pat ir ne vėliau kaip per vieną mėnesį nuo jos paskyrimo.
 Nuobauda, kuri nebuvo pradėta vykdyti per vieną mėnesį nuo jos paskyrimo
 dienos, nebevykdoma.
+ 
+6 dalies redakcija iki 2005 m. birželio
+1 d.:
 6. Pakartotinai
 perkelti nuteistąjį iš paprastosios grupės į lengvąją grupę arba iš drausmės
 grupės į paprastąją grupę galima ne anksčiau kaip po vienerių metų, o
@@ -2912,6 +3247,13 @@ atlikimo dienos arba anksčiau, negu sueis vieneri metai arba šeši mėnesiai,
 jeigu nuobaudą, kuria panaikintos geresnės laikymo sąlygos, pataisos įstaigos
 administracija panaikino prieš sueinant vieneriems metams arba šešiems
 mėnesiams.
+6 dalies redakcija nuo 2005 m. birželio
+1 d.:
+6. Pakartotinai
+perkelti nuteistąjį iš paprastosios grupės į lengvąją grupę galima ne anksčiau
+kaip po vienerių metų, o nepilnametį nuteistąjį – ne anksčiau kaip po šešių
+mėnesių nuo nuobaudos paskyrimo dienos.
+ 
 7. Nuobaudos –
 įspėjimas arba papeikimas, paskyrimas be eilės budėti pataisos įstaigos
 patalpose ir tvarkyti teritoriją – skiriamos žodžiu arba raštu tam įgalioto
@@ -2921,6 +3263,7 @@ Kodekso 142 straipsnio 2 dalyje numatytos nuobaudos skiriamos tik tais
 atvejais, kai yra pataisos įstaigos Drausmės komisijos teikimas. Drausmės
 komisijos sudarymo tvarką ir kompetenciją nustato Pataisos įstaigų vidaus
 tvarkos taisyklės.
+ 
 8. Nuobauda –
 atimti teisę gauti eilinį pašto arba perduodamą siuntinį ir kartu uždrausti iki
 vieno mėnesio pirkti maisto produktų skiriama visa arba dalinė, t. y. tik
@@ -2928,6 +3271,10 @@ atimama teisė gauti eilinį pašto arba perduodamą siuntinį arba tik uždraud
 iki vieno mėnesio pirkti maisto produktų. Nuobauda – uždrausti iki vieno
 mėnesio pirkti maisto produktų skiriama pašto siuntinių arba perdavimų
 negaunantiems nuteistiesiems.
+8 dalis netenka galios nuo 2006 m.
+sausio 1 d.
+9, 10, 11 dalių redakcija iki 2006 m.
+sausio 1 d.:
 9. Nuteistasis
 turi teisę per penkias dienas nuo nuobaudos paskyrimo apskųsti jam paskirtą
 nuobaudą aukštesniam pagal pareigas pareigūnui. Skundo padavimas nuobaudos
@@ -2941,7 +3288,25 @@ neturinčiu nuobaudų.
 11. Apie
 nuobaudos, išskyrus žodžiu skiriamą nuobaudą, paskyrimą nuteistajam paskelbiama
 pasirašytinai.
- 
+9, 10, 11 dalys laikomos atitinkamai 8,
+9 ir 10 dalimis nuo 2006 m. sausio 1 d.:
+8. Nuteistasis
+turi teisę per penkias dienas nuo nuobaudos paskyrimo apskųsti jam paskirtą
+nuobaudą aukštesniam pagal pareigas pareigūnui. Skundo padavimas nuobaudos
+vykdymo nesustabdo. Aukštesnis pagal pareigas pareigūnas nuobaudą sušvelnina
+arba ją panaikina, jeigu ją paskyręs pareigūnas viršijo savo įgaliojimus arba
+jeigu nuobauda paskirta nepadariusiam pažeidimo nuteistajam.
+9. Jeigu
+nuteistajam per vienerius metus, o nepilnamečiui nuteistajam per šešis mėnesius
+nuo nuobaudos atlikimo dienos nepaskiriama nauja nuobauda, jis laikomas
+neturinčiu nuobaudų.
+10. Apie
+nuobaudos, išskyrus žodžiu skiriamą nuobaudą, paskyrimą nuteistajam paskelbiama
+pasirašytinai.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
+
 144 straipsnis. Nuobaudų – uždaryti nuteistąjį į
 baudos arba drausmės  izoliatorių ar į karcerį arba perkelti į kamerų tipo
 patalpas vykdymo tvarka
@@ -2988,9 +3353,9 @@ kalėjime sąlygas.
 2. Kamerų tipo
 patalpose laikomi nuteistieji dirba atskirai nuo kitų nuteistųjų.
 3. Sergantiems
-tuberkulioze nuteistiesiems, perkeltiems į kamerų tipo patalpas, gyvenamojo
-ploto norma vienam asmeniui negali būti mažesnė kaip penki kvadratiniai metrai.
-Šiems nuteistiesiems kasdien turi būti suteikiama ne mažiau kaip dvi valandos
+tuberkulioze nuteistiesiems, perkeltiems į kamerų tipo patalpas, gyvenamojo ploto
+norma vienam asmeniui negali būti mažesnė kaip penki kvadratiniai metrai. Šiems
+nuteistiesiems kasdien turi būti suteikiama ne mažiau kaip dvi valandos
 pasivaikščioti.
 4. Prieš terminą
 perkelti nuteistuosius iš kamerų tipo patalpų leidžiama tik tuo atveju, kai
@@ -2998,20 +3363,35 @@ pagal gydytojo išvadą to reikia dėl nuteistojo sveikatos būklės.
  
 146 straipsnis. Nuteistųjų laikymo sąlygos baudos
 arba drausmės izoliatoriuose ir karceriuose
+1 dalies redakcija iki 2006 m. sausio 1
+d.:
 1. Baudos arba
 drausmės izoliatoriuose ir karceriuose laikomi nuteistieji neturi teisės gauti
 pasimatymų, pašto arba perduodamų siuntinių ir smulkiųjų paketų su spauda,
-įsigyti maisto produktų ir būtiniausių reikmenų, siųsti laiškų, taip pat paskambinti
-telefonu. Jiems neleidžiama naudotis stalo žaidimais, nešiojamaisiais
-televizoriais, kompiuteriais, vaizdo magnetofonais, kompiuterinių žaidimų
-aparatais, nešiojamaisiais radijo imtuvais bei kitais Pataisos įstaigų vidaus
-tvarkos taisyklėse nurodytais daiktais.
+įsigyti maisto produktų ir būtiniausių reikmenų, siųsti laiškų, taip pat
+paskambinti telefonu. Jiems neleidžiama naudotis stalo žaidimais,
+nešiojamaisiais televizoriais, kompiuteriais, vaizdo magnetofonais,
+kompiuterinių žaidimų aparatais, nešiojamaisiais radijo imtuvais bei kitais
+Pataisos įstaigų vidaus tvarkos taisyklėse nurodytais daiktais.
+1 dalies redakcija nuo 2006 m. sausio 1
+d.:
+1. Baudos arba
+drausmės izoliatoriuose ir karceriuose laikomi nuteistieji neturi teisės gauti
+pasimatymų, smulkiųjų paketų su spauda, įsigyti maisto produktų ir būtiniausių
+reikmenų, siųsti laiškų, taip pat paskambinti telefonu. Jiems neleidžiama naudotis
+stalo žaidimais, televizoriais, kompiuteriais, vaizdo magnetofonais,
+kompiuterinių žaidimų aparatais, radijo imtuvais bei kitais Pataisos įstaigų
+vidaus tvarkos taisyklėse nurodytais daiktais.
+ 
 2. Baudos arba
 drausmės izoliatoriuose ir karceriuose laikomiems nuteistiesiems leidžiama
 skaityti knygas, žurnalus, laikraščius ir kitą literatūrą, jiems leidžiama
 kasdien vieną valandą pasivaikščioti.
 3. Karceriuose
 nuteistieji laikomi po vieną.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 Ketvirtasis
 skirsnis
@@ -3021,9 +3401,9 @@ BAUSMĘ ATLIEKANČIŲ NUTEISTŲJŲ BENDRASIS LAVINIMAS IR PROFESINIS MOKYMAS
 147
 straipsnis. Nuteistųjų bendrasis lavinimas
 1. Pataisos
-įstaigose organizuojamas nuteistųjų iki šešiolikos metų bendrasis lavinimas. Nuteistųjų
-iki šešiolikos metų bendrojo lavinimo pataisos įstaigose tvarką nustato
-Lietuvos Respublikos Vyriausybė.
+įstaigose organizuojamas nuteistųjų iki šešiolikos metų bendrasis lavinimas.
+Nuteistųjų iki šešiolikos metų bendrojo lavinimo pataisos įstaigose tvarką
+nustato Lietuvos Respublikos Vyriausybė.
 2. Vyresnių negu
 šešiolikos metų nuteistųjų bendrasis lavinimas organizuojamas rašytiniu jų
 pageidavimu. Nuteistųjų invalidų bei ribotai pakaltinamų asmenų bendrasis
@@ -3043,8 +3423,8 @@ invalidų, ribotai pakaltinamų asmenų ir pensinio amžiaus nuteistųjų profes
 mokymas organizuojamas jų pageidavimu.
 3. Nepilnamečių
 profesinis mokymas vyksta neviršijant nuteistųjų darbo dienos trukmės.
-4. Nuteistųjų
-profesinio mokymo tvarką nustato Lietuvos Respublikos Vyriausybė.
+4. Nuteistųjų profesinio
+mokymo tvarką nustato Lietuvos Respublikos Vyriausybė.
  
 149
 straipsnis. Nuteistųjų profesinis mokymas gamyboje 
@@ -3062,11 +3442,10 @@ fiziniai ir juridiniai asmenys.
 150 straipsnis. Nuteistųjų atleidimas nuo darbo
 pataisos įstaigose egzaminams laikyti
 Pataisos
-įstaigose baigiamiesiems kvalifikaciniams egzaminams laikyti nuteistieji
-atleidžiami nuo darbo pagal Lietuvos Respublikos įstatymus. Nuteistųjų atleidimo
-nuo darbo pataisos įstaigose egzaminams laikyti tvarką nustato Pataisos įstaigų
-vidaus tvarkos taisyklės.
- 
+įstaigose baigiamiesiems kvalifikaciniams egzaminams laikyti nuteistieji atleidžiami
+nuo darbo pagal Lietuvos Respublikos įstatymus. Nuteistųjų atleidimo nuo darbo
+pataisos įstaigose egzaminams laikyti tvarką nustato Pataisos įstaigų vidaus
+tvarkos taisyklės.
  
 Penktasis
 skirsnis
@@ -3162,12 +3541,12 @@ nuteistųjų išvykimas be sargybos arba be palydos
 1.
 Nuteistiesiems, laikomiems pataisos namuose lengvosios grupės sąlygomis, bei
 nuteistiesiems, laikomiems pataisos namuose paprastosios grupės sąlygomis ir
-atbuvusiems ne mažiau kaip vieną trečdalį bausmės laiko, taip pat
-nuteistiesiems, paliktiems kardomojo kalinimo vietose, laisvės atėmimo vietos
-ligoninėje ar kalėjime atlikti ūkio darbus gali būti leidžiama išvykti be
-sargybos už pataisos įstaigos ar kardomojo kalinimo vietos teritorijos ribų,
-jeigu to reikia dėl bendrojo lavinimo, profesinio mokymo arba dėl nuteistųjų
-dirbamo darbo pobūdžio.
+atbuvusiems ne mažiau kaip vieną trečdalį bausmės laiko, taip pat nuteistiesiems,
+paliktiems kardomojo kalinimo vietose, laisvės atėmimo vietos ligoninėje ar
+kalėjime atlikti ūkio darbus gali būti leidžiama išvykti be sargybos už
+pataisos įstaigos ar kardomojo kalinimo vietos teritorijos ribų, jeigu to
+reikia dėl bendrojo lavinimo, profesinio mokymo arba dėl nuteistųjų dirbamo
+darbo pobūdžio.
 2. Nepilnamečių
 pataisos namuose laikomiems nuteistiesiems, atlikusiems ne mažiau kaip tris
 mėnesius laisvės atėmimo bausmės, gali būti leidžiama išvykti be palydos už
@@ -3277,12 +3656,12 @@ gydytis nuo alkoholizmo, narkomanijos, toksikomanijos ar venerinės ligos, jei
 lygtinai paleidžiamas asmuo sutinka.
 6. Lygtinai
 paleistas iš pataisos įstaigos darbingas nuteistasis, kuris vengia dirbti arba
-sistemingai pažeidinėja ar itin piktybiškai pažeidžia darbo drausmę, taip pat
-pažeidinėja viešąją tvarką arba jam nustatytas pareigas, teismo nutartimi
-siunčiamas į pataisos įstaigą atlikti likusią laisvės atėmimo bausmės dalį. 
+sistemingai pažeidinėja ar itin piktybiškai pažeidžia darbo drausmę, taip pat pažeidinėja
+viešąją tvarką arba jam nustatytas pareigas, teismo nutartimi siunčiamas į
+pataisos įstaigą atlikti likusią laisvės atėmimo bausmės dalį. 
 Straipsnio pakeitimai:
-Nr. IX-2338,
-2004-07-08, Žin., 2004, Nr. 115-4278 (2004-07-24)
+Nr. IX-2338, 2004-07-08,
+Žin., 2004, Nr. 115-4278 (2004-07-24)
  
 158
 straipsnis. Lygtinio paleidimo iš pataisos įstaigų netaikymas
@@ -3298,10 +3677,22 @@ iki gyvos galvos, taip pat laisvės atėmimu iki gyvos galvos nuteisti asmenys;
 kurie neatlikę visos teismo paskirtos laisvės atėmimo bausmės buvo anksčiau
 lygtinai atleisti nuo šios bausmės prieš terminą ir neatliktos bausmės dalies
 metu vėl padarė tyčinį nusikaltimą;
+ 
+4 punkto redakcija iki 2005 m. birželio
+1 d.:
 4) asmenys,
 nuteisti už tyčinius nusikaltimus, padarytus pataisos įstaigose;
+4 punkto redakcija nuo 2005 m. birželio
+1 d.:
+4) asmenys,
+nuteisti už tyčinius nusikaltimus, padarytus areštinėse, pataisos įstaigose ir
+kardomojo kalinimo vietose;
+ 
 5) asmenys,
 laikomi kalėjime ar pataisos namuose drausmės grupės sąlygomis.
+Straipsnio pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 159
 straipsnis. Lygtinio paleidimo iš pataisos įstaigų tvarka
@@ -3343,8 +3734,8 @@ atsižvelgdamas į paleisto nuteistojo elgesį.
 elgesio taisyklių pažeidimą
 1. Lygtinai
 paleistam iš pataisos įstaigos asmeniui, kuris pažeidžia darbo drausmę ar
-viešąją tvarką, gali būti taikoma Lietuvos Respublikos įstatymų numatyta drausminė
-ar administracinė atsakomybė.
+viešąją tvarką, gali būti taikoma Lietuvos Respublikos įstatymų numatyta
+drausminė ar administracinė atsakomybė.
 2. Lygtinai
 paleistam iš pataisos įstaigos asmeniui taip pat gali būti pritaikytos šio
 Kodekso 162 straipsnio 2 dalyje numatytos poveikio priemonės.
@@ -3420,10 +3811,10 @@ teikimas galimas ne anksčiau kaip po šešių mėnesių po nutarties atsisakyti
 nuteistąjį lygtinai paleisti priėmimo dienos.
 5. Lygtinai
 paleistas iš pataisos įstaigos nuteistasis, kuris buvo nukreiptas atlikti
-likusią nuosprendžiu paskirtos laisvės atėmimo bausmės dalį, įstatymų numatytais
-atvejais gali būti teikiamas lygtinai paleisti iš pataisos įstaigos ne anksčiau
-kaip praėjus vieneriems metams po teismo nutarties dėl pasiuntimo į pataisos
-įstaigą vykdymo pradžios.
+likusią nuosprendžiu paskirtos laisvės atėmimo bausmės dalį, įstatymų
+numatytais atvejais gali būti teikiamas lygtinai paleisti iš pataisos įstaigos
+ne anksčiau kaip praėjus vieneriems metams po teismo nutarties dėl pasiuntimo į
+pataisos įstaigą vykdymo pradžios.
 Straipsnio pakeitimai:
 Nr. IX-1497,
 2003-04-10, Žin., 2003, Nr. 38-1735 (2003-04-24)
@@ -3462,9 +3853,9 @@ Kodekso XI skyriaus pirmajame skirsnyje numatytos poveikio priemonės.
 2.
 Laisvės atėmimo iki gyvos galvos bausmę atliekančių nuteistųjų bendrasis
 lavinimas ir profesinis mokymas gali vykti tik pataisos namuose.
-3. Laisvės
-atėmimo iki gyvos galvos bausmę atliekantys nuteistieji gali dirbti, jei patys
-to pageidauja, kalėjimo arba pataisos namų administracijos parinktą darbą.
+3. Laisvės atėmimo
+iki gyvos galvos bausmę atliekantys nuteistieji gali dirbti, jei patys to
+pageidauja, kalėjimo arba pataisos namų administracijos parinktą darbą.
 Dirbantiems laisvės atėmimo iki gyvos galvos bausmę atliekantiems
 nuteistiesiems taikomos šio Kodekso 125–129, 131, 132, 134 ir 135 straipsnių
 nuostatos.
@@ -3481,8 +3872,8 @@ artimiesiems giminaičiams. Šiems asmenims jų pageidavimu sudaromos sąlygos
 aplankyti nuteistąjį. Lankymo tvarką nustato Pataisos įstaigų vidaus tvarkos
 taisyklės.
 2. Laisvės
-atėmimo iki gyvos galvos bausmę atliekančio nuteistojo mirties atveju kalėjimo
-arba pataisos namų administracija privalo nedelsdama apie tai pranešti Kalėjimų
+atėmimo iki gyvos galvos bausmę atliekančio nuteistojo mirties atveju kalėjimo arba
+pataisos namų administracija privalo nedelsdama apie tai pranešti Kalėjimų
 departamento direktoriui ar jį pavaduojančiam pareigūnui ir nuteistojo
 sutuoktiniui, sugyventiniui arba artimiesiems giminaičiams. Pataisos įstaigos
 direktorius ar jį pavaduojantis pareigūnas privalo apie nuteistojo mirtį per
@@ -3582,25 +3973,55 @@ terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes
 atliekantys nuteistieji gauna maistą pagal fiziologines mitybos normas, o
 ligoniai, gydomi pataisos įstaigų gydymo įstaigose, – pagal dietinio maitinimo
 normas. Maistu šie nuteistieji aprūpinami nemokamai.
+ 
+5 dalies redakcija iki 2006 m. sausio 1
+d.:
 5. Nėščioms
 moterims, krūtimi maitinančioms motinoms, nepilnamečiams, taip pat ligoniams
 sudaromos geresnės gyvenamųjų patalpų ir buities sąlygos ir nustatomos didesnės
 mitybos normos. Šiems nuteistiesiems pagal gydytojų komisijos išvadą gali būti
 leista gauti papildomų maisto produktų, pašto ir perduodamų siuntinių.
+5 dalies redakcija nuo 2006 m. sausio 1
+d.:
+5. Nėščioms
+moterims, krūtimi maitinančioms motinoms, nepilnamečiams, neįgaliesiems, taip
+pat ligoniams sudaromos geresnės gyvenamųjų patalpų ir buities sąlygos ir
+nustatomos didesnės mitybos normos. Nėščioms moterims ir krūtimi maitinančioms
+motinoms pagal gydytojų komisijos išvadą leidžiama gauti pašto ar perduodamų maisto
+produktų siuntinių. Jų svorį ir periodiškumą nustato Kalėjimų departamento
+direktorius.
+ 
 6. Laisvės
 atėmimo bausmę atliekantys atvirose kolonijose nuteistieji maistu, drabužiais,
 baltiniais ir avalyne apsirūpina patys. Šiems nuteistiesiems kiekvieną mėnesį
 iš atviros kolonijos lėšų išmokami vieno MGL dydžio maistpinigiai. Nuteistųjų,
 uždarytų į baudos izoliatorių, maitinimas organizuojamas šio Kodekso 173
-straipsnio 4 dalyje nustatyta tvarka, o maistpinigiai už baudos izoliatoriuje praleistą
-laiką šiems nuteistiesiems nemokami.
+straipsnio 4 dalyje nustatyta tvarka, o maistpinigiai už baudos izoliatoriuje
+praleistą laiką šiems nuteistiesiems nemokami.
+ 
+7 dalies redakcija iki 2006 m. sausio 1
+d.:
 7. Arešto,
 terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes
 atliekančių nuteistųjų mitybos ir materialinio buitinio aprūpinimo normas
 nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+173 straipsnis papildomas nauja7 dalimi,
+buvusi 7 dalis laikoma 8 dalimi nuo 2006 m. sausio 1 d.:
+7. Arešto,
+terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes
+atliekantiems nuteistiesiems kartą per mėnesį iš areštinės arba pataisos
+įstaigos lėšų gali būti išmokama iki 0,3 MGL dydžio išmoka. Kriterijus, pagal
+kuriuos gali būti skiriamos išmokos, išmokų skyrimo ir mokėjimo taisykles
+nustato Kalėjimų departamento direktorius.
+8. Arešto,
+terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekančių
+nuteistųjų mitybos ir materialinio buitinio aprūpinimo normas nustato Lietuvos
+Respublikos Vyriausybė arba jos įgaliota institucija.
 Straipsnio pakeitimai:
 Nr. IX-2338,
 2004-07-08, Žin., 2004, Nr. 115-4278 (2004-07-24)
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 174 straipsnis. Arešto, terminuoto laisvės atėmimo
 ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų sveikatos
@@ -3612,8 +4033,8 @@ atliekama pagal Lietuvos Respublikos sveikatos apsaugos įstatymus.
 įstaigose ir areštinėse steigiamos asmens sveikatos priežiūros įstaigos arba
 tarnybos. Šių įstaigų bei tarnybų struktūrą, etatų skaičių ir veiklos tvarką
 nustato Sveikatos apsaugos ministerija ir Teisingumo ministerija. Infekcinėmis
-ligomis sergantiems nuteistiesiems, atliekantiems laisvės atėmimo bausmę,
-gydyti ir laikyti steigiamos laisvės atėmimo vietų gydymo įstaigos.
+ligomis sergantiems nuteistiesiems, atliekantiems laisvės atėmimo bausmę, gydyti
+ir laikyti steigiamos laisvės atėmimo vietų gydymo įstaigos.
 3. Laisvės
 atėmimo bausmę arba areštą atliekančiam nuteistajam reikalinga specializuota
 būtinoji medicinos pagalba, kurią suteikti pataisos įstaigų gydymo įstaigose
@@ -3642,8 +4063,8 @@ baigiamOSiOS nuostatOS
 XV
 skyrius
 ATLEIDIMAS NUO
-BAUSMĖS ATLIKIMO, PAGALBA ATLEISTIEMS NUO BAUSMĖS ATLIKIMO ASMENIMS. BAUSMIŲ
-VYKDYMO INSTITUCIJŲ, ĮSTAIGŲ IR PAREIGŪNŲ VEIKSMŲ IR SPRENDIMŲ APSKUNDIMAS
+BAUSMĖS ATLIKIMO, PAGALBA ATLEISTIEMS NUO BAUSMĖS ATLIKIMO ASMENIMS. BAUSMIŲ VYKDYMO
+INSTITUCIJŲ, ĮSTAIGŲ IR PAREIGŪNŲ VEIKSMŲ IR SPRENDIMŲ APSKUNDIMAS
  
 Pirmasis
 skirsnis
@@ -3677,8 +4098,8 @@ sunkia nepagydoma liga nuteistasis gali būti apylinkės teismo atleistas nuo
 tolesnio bausmės atlikimo.
 2. Teikimą
 atleisti nuteistąjį nuo bausmės atlikimo dėl ligos teismui paduoda bausmės
-vykdymo institucijos vadovas. Kartu su teikimu teismui nusiunčiama gydytojų komisijos
-išvada ir nuteistojo asmens byla.
+vykdymo institucijos vadovas. Kartu su teikimu teismui nusiunčiama gydytojų
+komisijos išvada ir nuteistojo asmens byla.
  
 178 straipsnis. Atleidimas nuo bausmės atlikimo dėl
 invalidumo, pensinio amžiaus ir nėštumo
@@ -3751,20 +4172,20 @@ straipsnis. Ligonių paleidimo iš pataisos įstaigų ypatumai
 atėmimo vietos gydymo įstaigoje laikomas sergantis asmuo, kuriam reikalinga
 stacionarinė medicinos pagalba, paleidimo dieną jo rašytiniu sutikimu už
 valstybės lėšas pervežamas į valstybės ar savivaldybės asmens sveikatos
-priežiūros viešąją įstaigą. Apie pervežimą nedelsiant pranešama paleidžiamo ligonio
-sutuoktiniui, sugyventiniui arba artimiesiems giminaičiams.
+priežiūros viešąją įstaigą. Apie pervežimą nedelsiant pranešama paleidžiamo
+ligonio sutuoktiniui, sugyventiniui arba artimiesiems giminaičiams.
 2.
 Laisvės atėmimo vietos gydymo įstaigoje laikomas sunkiai sergantis asmuo, kurio
 paleidimo dieną pagal gydytojų išvadą negalima pervežti į valstybės ar
 savivaldybės asmens sveikatos priežiūros viešąją įstaigą, paliekamas laisvės
 atėmimo vietos gydymo įstaigoje. Jeigu šis asmuo nesutinka pasilikti, pataisos
 įstaigos administracija privalo nedelsdama iškviesti Sveikatos apsaugos
-ministerijos ir Teisingumo ministerijos atstovus bei ligonio sutuoktinį,
-sugyventinį arba artimuosius giminaičius. Jeigu paleidžiamas asmuo ir toliau
-nesutinka pasilikti laisvės atėmimo vietos gydymo įstaigoje, jo ir (arba) jo
-sutuoktinio, sugyventinio ar artimųjų giminaičių rašytiniu sutikimu pervežamas
-į valstybės ar savivaldybės asmens sveikatos priežiūros viešąją įstaigą ar kitą
-sveikatos priežiūros įstaigą.
+ministerijos ir Teisingumo ministerijos atstovus bei ligonio sutuoktinį, sugyventinį
+arba artimuosius giminaičius. Jeigu paleidžiamas asmuo ir toliau nesutinka
+pasilikti laisvės atėmimo vietos gydymo įstaigoje, jo ir (arba) jo sutuoktinio,
+sugyventinio ar artimųjų giminaičių rašytiniu sutikimu pervežamas į valstybės
+ar savivaldybės asmens sveikatos priežiūros viešąją įstaigą ar kitą sveikatos
+priežiūros įstaigą.
  
 Antrasis
 skirsnis
@@ -3791,8 +4212,8 @@ Lietuvos Respublikos Vyriausybė.
 Paleidžiamiems neįgaliesiems ir pagyvenusiems asmenims jų prašymu turi būti
 suteikta Lietuvos Respublikos teisės aktuose nustatyta socialinė parama.
 Neturinčius tėvų paleidžiamus nepilnamečius pataisos įstaigos ar areštinės
-administracija pasiunčia į internatus arba perduoda šeimos nariams,
-artimiesiems giminaičiams, kitiems asmenims globoti ar rūpintis.
+administracija pasiunčia į internatus arba perduoda šeimos nariams, artimiesiems
+giminaičiams, kitiems asmenims globoti ar rūpintis.
  
 Trečiasis
 skirsnis
@@ -3849,8 +4270,17 @@ transporto priemonės
 vertingi daiktai, vertybiniai popieriai
 5. Optiniai
 prietaisai
+ 
+6 dalies redakcija iki 2006 m. sausio 1
+d.:
 6. Magnetofonai,
 telefonai, radijo ryšio priemonės
+6 dalies redakcija nuo 2006 m. sausio 1
+d.:
+6. Garso
+magnetofonai, televizoriai, kurių ekranų įstrižainės didesnės kaip 51
+centimetras, telefonai (jų dalys ir priedai), radijo ryšio priemonės.
+ 
 7. Laikrodžiai
 iš brangiųjų metalų
 8. Visų rūšių
@@ -3867,8 +4297,8 @@ skutimosi aparatus su kasetėmis) ir kiti aštriabriauniai bei smailūs daiktai
 12. Šaltkalvio,
 staliaus ir kiti įrankiai
 13. Kortos
-14.
-Fotoaparatai, vaizdo ir kino kameros, fotomedžiagos, chemikalai
+14. Fotoaparatai,
+vaizdo ir kino kameros, fotomedžiagos, chemikalai
 15. Dokumentai
 (išskyrus teisės aktų tekstus, baudžiamosios bylos medžiagos, nuosprendžių,
 nutarčių ir nutarimų nuorašus ar kopijas, valstybės ir savivaldybių institucijų
@@ -3878,7 +4308,11 @@ institucijų atsakymus, atiduotų saugoti pinigų, vertingų daiktų kvitus)
 Topografiniai žemėlapiai, kompasai
 17. Karinė ir
 kitokia uniforma, jos reikmenys
-18. Kopijavimo popierius
+18. Kopijavimo
+popierius
+Priedo pakeitimai:
+Nr. X-164, 2005-04-21,
+Žin., 2005, Nr. 58-2002 (2005-05-07)
  
 
 
@@ -3955,10 +4389,25 @@ dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo bausmę arba
 viešųjų teisių atėmimo bausmę, turi teisę gauti reikalingą informaciją iš
 Valdininkų registro.
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-164,
+2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
+BAUSMIŲ
+VYKDYMO KODEKSO 55, 62, 73, 74, 75, 79, 80, 85, 86, 88, 95, 96, 102, 140, 141,
+142, 143, 146, 158, 173 STRAIPSNIŲ IR 1 PRIEDO PAKEITIMO BEI PAPILDYMO
+ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2006 m. sausio 1 d., išskyrus 14 straipsnio 3 dalį, 16
+straipsnio 2 dalį, 17 straipsnio 1 dalį, 19 straipsnį,  kurie  įsigalioja nuo
+2005 m. birželio 1 d.
+ 
 ***
 Pabaiga ***
  
 Redagavo:
-Aušrinė Trapinskienė (2005-05-10)
+Aušrinė Trapinskienė (2005-05-11)
                  
 autrap@lrs.lt
