@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2005-03-05 iki 2005-04-29
+Suvestinė redakcija nuo 2005-04-30 iki 2005-12-02
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -1895,10 +1895,22 @@ Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010IS
 73 straipsnis. Draudimas
 
 
-Orlaivio savininko arba naudotojo civilinė atsakomybė, taip pat keleiviai, bagažas ir kroviniai turi būti apdrausti. Minimalius draudimo sumos dydžius nustato Vyriausybė ar jos įgaliota institucija.
+1. Turi būti apdrausta oro vežėjų ir civilinių orlaivių naudotojų civilinė atsakomybė už žalą, padarytą keleiviams, bagažui, kroviniams bei tretiesiems asmenims. Būtiniausius oro vežėjų ir orlaivių naudotojų civilinės atsakomybės už žalą, padarytą keleiviams, bagažui, kroviniams bei tretiesiems asmenims, draudimo reikalavimus bei minimalius draudimo sumų dydžius nustato 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams.
+
+
+
+
+2. Lietuvos Respublikos Vyriausybė, vadovaudamasi šio straipsnio 1 dalyje nurodyto reglamento 6 straipsnio 1 dalies nuostatomis, nekomerciniams orlaiviams, kurių maksimali kilimo  ir tūpimo masė (MTOM) neviršija 2 700 kg, gali nustatyti žemesnį būtiniausios draudimo apsaugos lygį, ne mažesnį kaip 100 000 specialių skolinimosi teisių, nustatytų Tarptautinio valiutos fondo, vienam keleiviui.
+
+
+
+
+3. CAA kontroliuoja, kaip oro vežėjai ir orlaivių naudotojai laikosi šio straipsnio 1 dalyje nurodyto reglamento nuostatų. 
+
+
+Straipsnio pakeitimai:
+Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
  
-
-
 
 
 
