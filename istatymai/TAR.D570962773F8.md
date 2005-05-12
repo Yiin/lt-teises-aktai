@@ -24,8 +24,87 @@ DIENŲ
 1997 m. liepos 3 d. Nr. VIII-397
 Vilnius
  
-1 straipsnis. Atmintinos dienosNustatyti šias atmintinas dienas:1) sausio 1-oji – Lietuvos vėliavos diena;2) sausio 13-oji – Laisvės gynėjų diena;3) kovo 4-oji – Lietuvos globėjo šv. Kazimiero diena;4) kovo 8-oji – Tarptautinė moterų solidarumo diena;5) kovo 20-oji – Žemės diena;6) kovo 29 -oji – Lietuvos įstojimo į NATO diena;7) balandžio 27-oji – Medicinos darbuotojų diena;8) gegužės 1-oji – Lietuvos įstojimo į Europos Sąjungą diena;9) gegužės 7-oji – Spaudos atgavimo, kalbos ir knygos diena;10) gegužės 9-oji – Europos diena;11) gegužės 14-oji – Pilietinio pasipriešinimo diena;12) gegužės 15-oji – Tarptautinė šeimos diena;13) gegužės trečiasis sekmadienis – Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;14) birželio 1-oji – Tarptautinė vaikų gynimo diena;15) birželio 3-ioji – Sąjūdžio diena;16) birželio pirmasis sekmadienis – Tėvo diena;17) birželio 14-oji – Gedulo ir vilties diena;18) birželio 15-oji – Okupacijos ir genocido diena;19) birželio 23-ioji – Birželio sukilimo diena;20) liepos 15-oji – Žalgirio mūšio diena;21) liepos paskutinis sekmadienis – Jūros diena;22) rugpjūčio 23-ioji – Juodojo kaspino diena;23) rugpjūčio 31-oji – Laisvės diena;24) rugsėjo 1-oji – Mokslo ir žinių diena;25) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;26) rugsėjo 22-oji – Baltų vienybės diena;27) rugsėjo 23-ioji – Lietuvos žydų genocido diena;28) rugsėjo 27-oji – Lietuvos socialinių darbuotojų diena;29) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena;30) spalio 5-oji – Tarptautinė mokytojų diena;31) spalio antrasis šeštadienis – Derliaus diena;32) spalio 25-oji – Konstitucijos diena;33) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena;34) lapkričio 23-ioji – Lietuvos karių diena;35) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
-36) gruodžio
+1 straipsnis.
+Atmintinos dienos
+Nustatyti šias
+atmintinas dienas:
+1) sausio 1-oji
+– Lietuvos vėliavos diena;
+2) sausio 13-oji
+– Laisvės gynėjų diena;
+3) kovo 4-oji –
+Lietuvos globėjo šv. Kazimiero diena;
+4) kovo 8-oji –
+Tarptautinė moterų solidarumo diena;
+5) kovo 20-oji –
+Žemės diena;
+6) kovo 29 -oji
+– Lietuvos įstojimo į NATO diena;
+7) balandžio
+27-oji – Medicinos darbuotojų diena;
+8) gegužės 1-oji
+– Lietuvos įstojimo į Europos Sąjungą diena;
+9) gegužės 7-oji
+– Spaudos atgavimo, kalbos ir knygos diena;
+10) gegužės
+8-oji – Antrojo pasaulinio karo aukų atminimo diena;
+11) gegužės
+9-oji – Europos diena;
+12) gegužės
+14-oji – Pilietinio pasipriešinimo diena;
+13) gegužės
+15-oji – Steigiamojo Seimo susirinkimo diena, Tarptautinė šeimos diena;
+14) gegužės
+trečiasis sekmadienis – Partizanų pagerbimo, kariuomenės ir visuomenės vienybės
+diena;
+15) birželio
+1-oji – Tarptautinė vaikų gynimo diena;
+16) birželio
+3-ioji – Sąjūdžio diena;
+17) birželio
+pirmasis sekmadienis – Tėvo diena;
+18) birželio
+14-oji – Gedulo ir vilties diena;
+19) birželio
+15-oji – Okupacijos ir genocido diena;
+20) birželio
+23-ioji – Birželio sukilimo diena;
+21) liepos
+15-oji – Žalgirio mūšio diena;
+22) liepos
+paskutinis sekmadienis – Jūros diena;
+23) rugpjūčio
+12-oji – Tarptautinė jaunimo diena;
+24) rugpjūčio
+23-ioji – Juodojo kaspino ir Baltijos kelio diena;
+25) rugpjūčio
+31-oji – Laisvės diena;
+26) rugsėjo
+1-oji – Mokslo ir žinių diena;
+27) rugsėjo
+8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo
+karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
+28) rugsėjo
+22-oji – Baltų vienybės diena;
+29) rugsėjo
+23-ioji – Lietuvos žydų genocido diena;
+30) rugsėjo
+27-oji – Lietuvos socialinių darbuotojų diena;
+31) spalio 1-oji
+– Tarptautinė pagyvenusių žmonių diena;
+32) spalio 5-oji
+– Tarptautinė mokytojų diena;
+33) spalio
+antrasis šeštadienis – Derliaus diena;
+34) spalio
+25-oji – Konstitucijos diena;
+35) lapkričio
+2-oji – Mirusiųjų atminimo (Vėlinių) diena;
+36) lapkričio
+23-ioji – Lietuvos kariuomenės diena;
+37) lapkričio 30-oji
+– Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
+38) gruodžio
 10-oji – Tarptautinė žmogaus teisių diena.
 Straipsnio
 pakeitimai:
@@ -42,8 +121,8 @@ Nr. IX-379, 2001-06-14, Žin., 2001, Nr.
 Nr. IX-735,
 2002-01-24, Žin., 2002, Nr. 15-554 (2002-02-13)
 Nr.
-IX-874,
-2002-05-07, Žin., 2002, Nr. 48-1835 (2002-05-14)
+IX-874, 2002-05-07,
+Žin., 2002, Nr. 48-1835 (2002-05-14)
 Nr. IX-1050,
 2002-07-05, Žin., 2002, Nr. 73-3105 (2002-07-19)
 Nr.
@@ -56,6 +135,8 @@ Nr. IX-2099,
 Nr.
 IX-2442,
 2004-09-14, Žin., 2004, Nr. 141-5159 (2004-09-21)
+Nr. X-195, 2005-05-12,
+Žin., 2005, Nr. 67-2403 (2005-05-28)
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
@@ -63,7 +144,6 @@ priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS
 BRAZAUSKAS
 ___________________
- 
 Pakeitimai:
  
 1.
@@ -158,11 +238,20 @@ Nr. IX-2442,
 ATMINTINŲ
 DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-195,
+2005-05-12, Žin., 2005, Nr. 67-2403 (2005-05-28)
+ATMINTINŲ
+DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-09-21)
+Aušrinė Trapinskienė (2005-05-30)
                  
 autrap@lrs.lt
