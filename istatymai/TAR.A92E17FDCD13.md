@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2004-01-01 iki 2005-05-12
+Suvestinė redakcija nuo 2005-05-13 iki 2009-07-17
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
- 
  
  
 LIETUVOS RESPUBLIKOS MEDŽIOKLĖS ĮSTATYMAS
@@ -587,11 +586,19 @@ MEDŽIOKLĖS PLOTŲ VIENETAI IR TEISĖS NAUDOTI JUOSE MEDŽIOJAMŲJŲ GYVŪNŲ I
 
 
 9. Šio straipsnio 3 dalyje nurodyta komisija, parengusi preliminarų medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projektą, paskelbia apie tai šalies bei vietinėje spaudoje ir nurodo 1 mėnesio terminą, per kurį šio Įstatymo 13 straipsnio 2 dalyje nurodyti asmenys atitinkamos savivaldybės komisijai raštu gali pateikti reikalavimus, o kiti suinteresuoti fiziniai ar juridiniai asmenys – siūlymus dėl medžioklės plotų vieneto sudarymo ar jo ribų pakeitimo projekto. Tokie rašytiniai siūlymai ir reikalavimai pateikiami šio straipsnio 3 dalyje numatytai komisijai tiesiogiai arba per seniūnijas, kuriose yra siūlymus ir reikalavimus pateikiantiems asmenims priklausantys žemės sklypai. Pasikeitus žemės sklypo savininkui, toks pareiškimas gali būti pateikiamas per seniūniją, kurioje yra šis žemės sklypas, per 1 mėnesį po nuosavybės teisės įregistravimo Nekilnojamojo turto registre. Teritorijas, kuriose medžioklė draudžiama pagal šio Įstatymo 13 straipsnio 2 dalį iki šiuos reikalavimus nustatančių asmenų nurodyto termino, šio straipsnio 3 dalyje nurodyta komisija pažymi medžioklės plotų vieneto plane. Mokesčiai už medžiojamųjų gyvūnų išteklių naudojimą medžioklės plotų vienete mažinami proporcingai tokių teritorijų dydžiui, tačiau šių apribojimų nustatymas nesuardo medžioklės plotų vienetų vientisumo.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 8 straipsnio 9 dalis ta apimtimi, kuria nustatyta, jog privačios žemės sklypo savininkas apie tai, kad jam nuosavybės teise priklausantį žemės sklypą ketinama naudoti medžiojimui, informuojamas ne tiesiogiai, o tik atitinkamos savivaldybės komisijai apie parengtą preliminarų medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projektą paskelbus šalies bei vietinėje spaudoje, ir ta apimtimi, kuria nustatytas 1 mėnesio terminas, per kurį šio įstatymo 13 straipsnio 2 dalyje nurodyti asmenys atitinkamos savivaldybės komisijai raštu gali pateikti reikalavimus dėl medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto, taip pat Lietuvos Respublikos medžioklės įstatymo 8 straipsnio 9 dalies nuostata „Pasikeitus žemės sklypo savininkui, toks pareiškimas gali būti pateikiamas per seniūniją, kurioje yra šis žemės sklypas, per 1 mėnesį po nuosavybės teisės įregistravimo Nekilnojamojo turto registre“ prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims.
+Straipsnio dalies pakeitimai:
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+ 
 
 
 
 
 10. Pasibaigus šio straipsnio 9 dalyje nustatytam terminui, komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti, išnagrinėjusi gautus reikalavimus ar siūlymus ir įvertinusi, kad jie atitinka šio straipsnio 1 dalyje numatytus reikalavimus, priima sprendimą, ar tikslinga atsižvelgti į gautus siūlymus, prireikus koreguoja medžioklės plotų vieneto sudarymo ar ribų pakeitimo projektą, ir per 1 mėnesį šį projektą pateikia tvirtinti atitinkamos apskrities viršininkui. Neatsiejamos tvirtinamo medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto dalys yra medžioklės plotų vieneto planas su pažymėtomis teritorijomis, kuriose leidžiama medžioti ir kuriose medžioklė yra uždrausta, bei priedas apie medžioklės plotų dydį bei pasiskirstymą pagal tinkamumą medžiojamiesiems gyvūnams gyventi ir veistis.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 8 straipsnio 10 dalis ta apimtimi, kuria nustatyta, jog komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti gali ir neatsižvelgti į privačios žemės, miško, vandens telkinio savininko valią, kad jam nuosavybės teise priklausančiame žemės sklype, miške, vandens telkinyje nebūtų medžiojama, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims.
+Straipsnio dalies pakeitimai:
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+ 
 
 
 
@@ -860,6 +867,10 @@ Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. 1031010IST
 
 
 2. Privačios žemės sklypo savininkas, kurio žemė šio Įstatymo 8 straipsnyje nustatyta tvarka yra numatoma priskirti arba yra priskirta medžioklės plotų vienetui, turi teisę uždrausti medžioti jam priklausančioje žemėje, jeigu medžioklės metu žemės ūkio pasėliams arba miškui bus daroma žala. Medžioklės plotų vieneto sudarymo ar ribų pakeitimo projekto rengimo atveju apie tai jis privalo raštu pranešti šio Įstatymo 8 straipsnio nustatyta tvarka veikiančiai komisijai per šio Įstatymo 8 straipsnio 9 dalyje nustatytą terminą.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 13 straipsnio 2 dalies nuostata „Privačios žemės sklypo savininkas, kurio žemė šio Įstatymo 8 straipsnyje nustatyta tvarka yra numatoma priskirti arba yra priskirta medžioklės plotų vienetui, turi teisę uždrausti medžioti jam priklausančioje žemėje, jeigu medžioklės metu žemės ūkio pasėliams arba miškui bus daroma žala“ ta apimtimi, kuria nenumatyta privačios žemės sklypo savininko teisė nevaržomai uždrausti medžioti jam priklausančioje žemėje ne tik jeigu medžioklės metu žemės ūkio pasėliams arba miškui bus daroma žala, bet ir visais kitais atvejais, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims.
+Straipsnio dalies pakeitimai:
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+ 
 
 
 
@@ -1223,6 +1234,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 1) Medžioklės Lietuvos Respublikoje nuostatų nustatyta tvarka įregistruotas medžioklės plotų nuomos sutartis, sudarytas su žemės sklypų savininkais ir valdytojais iki Laukinės gyvūnijos įstatymo pakeitimo įstatymo įsigaliojimo (2001 m. gruodžio 29 d.), su išsinuomotų medžioklės plotų schemomis;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 22 straipsnio 3 dalies nuostatos „Šio straipsnio 2 dalyje nurodyti medžioklės plotų naudotojai kartu su atitinkamu prašymu turi pateikti: 1) Medžioklės Lietuvos Respublikoje nuostatų nustatyta tvarka įregistruotas medžioklės plotų nuomos sutartis, sudarytas su žemės sklypų savininkais ir valdytojais iki Laukinės gyvūnijos įstatymo pakeitimo įstatymo įsigaliojimo (2001 m. gruodžio 29 d.), su išsinuomotų medžioklės plotų schemomis <....>“ dalis „iki Laukinės gyvūnijos įstatymo pakeitimo įstatymo įsigaliojimo (2001 m. gruodžio 29 d.)“ prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims, 29 straipsniui, konstituciniam teisėtų lūkesčių apsaugos principui.
 
 
 
@@ -1240,6 +1252,9 @@ BAIGIAMOSIOS NUOSTATOS
 4) kitus dokumentus, patvirtinančius teisėtą medžioklės plotų naudojimą.
 
 
+Straipsnio dalies pakeitimai:
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+ 
 
 
 
@@ -1255,11 +1270,19 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 6. Medžioklės plotų, mažesnių kaip 1000 ha, naudotojai su gretimų medžioklės plotų naudotojais gali susitarti dėl medžioklės plotų padidinimo iki 1000 ha arba šių plotų sujungimo, įtvirtindami tai šio straipsnio 3 dalies 3 punkte numatytu dokumentu ir pateikdami bendrą prašymą šio Įstatymo 8 straipsnio 3 dalyje numatytai komisijai dėl medžioklės plotų pripažinimo medžioklės plotų vienetu. Nesusitarus dėl medžioklės plotų vieneto padidinimo iki nurodyto dydžio iki 2003 m. balandžio 1 d., galutinį sprendimą dėl medžioklės plotų vienetų ribų nustatymo atsižvelgdama į Įstatymo 8 straipsnio 1 dalyje nustatytus tikslus priima nurodyta komisija.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 22 straipsnio 6 dalies nuostata, „Nesusitarus dėl medžioklės plotų vieneto padidinimo iki nurodyto dydžio iki 2003 m. balandžio 1 d., galutinį sprendimą dėl medžioklės plotų vienetų ribų nustatymo atsižvelgdama į Įstatymo 8 straipsnio 1 dalyje nustatytus tikslus priima nurodyta komisija“ prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims, konstituciniam teisėtų lūkesčių apsaugos principui.
+Straipsnio dalies pakeitimai:
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+ 
 
 
 
 
 7. Iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis šio Įstatymo 8 straipsnio 9, 10 ir 11 dalyse nustatytų sąlygų.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 22 straipsnio 7 dalis ta apimtimi, kuria įtvirtinta, kad iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis: 1) Medžioklės įstatymo 8 straipsnio 9 dalies ta apimtimi, kuria nustatyta, jog privačios žemės sklypo savininkas apie tai, kad jam nuosavybės teise priklausantį žemės sklypą ketinama naudoti medžiojimui, informuojamas ne tiesiogiai, o tik atitinkamos savivaldybės komisijai apie parengtą preliminarų medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projektą paskelbus šalies bei vietinėje spaudoje; 2) Medžioklės įstatymo 8 straipsnio 9 dalies ta apimtimi, kuria nustatytas 1 mėnesio terminas, per kurį šio įstatymo 13 straipsnio 2 dalyje nurodyti asmenys atitinkamos savivaldybės komisijai raštu gali pateikti reikalavimus dėl medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto; 3) Medžioklės įstatymo 8 straipsnio 9 dalies nuostatos „Pasikeitus žemės sklypo savininkui, toks pareiškimas gali būti pateikiamas per seniūniją, kurioje yra šis žemės sklypas, per 1 mėnesį po nuosavybės teisės įregistravimo Nekilnojamojo turto registre“; 4) Medžioklės įstatymo 8 straipsnio 10 dalies ta apimtimi, kuria nustatyta, kad komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti gali ir neatsižvelgti į privačios žemės, miško, vandens telkinio savininko valią, kad jam nuosavybės teise priklausančiame žemės sklype, miške, vandens telkinyje nebūtų medžiojama, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims.
+Straipsnio dalies pakeitimai:
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+ 
 
 
 
@@ -1307,3 +1330,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. 1031010ISTA0IX-1612
 Lietuvos Respublikos medžioklės įstatymo 6, 12 ir 18 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456                
+Dėl Lietuvos Respublikos medžioklės įstatymo 7 straipsnio 2 dalies, 8 straipsnio 1, 9, 10 dalių, 13 straipsnio 2 dalies, 18 straipsnio 7 dalies ir 22 straipsnio 3, 6, 7 dalių atitikties Lietuvos Respublikos Konstitucijai
