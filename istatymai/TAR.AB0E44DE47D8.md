@@ -27,23 +27,18 @@ LAIKINASIS
 Vilnius
  
  
-
-
-
-
- 
-PIRMASIS
-SKIRSNIS 
+PIRMASIS SKIRSNIS 
 BENDROSIOS
 NUOSTATOS
  
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis.
+Įstatymo paskirtis
 Šis įstatymas nustato žalos atlyginimo
 dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga tvarką, dydį bei
 asmenis, turinčius teisę į šį atlyginimą.
  
-2 straipsnis. Pagrindinės šio įstatymo
-sąvokos
+2 straipsnis.
+Pagrindinės šio įstatymo sąvokos
 1. Įmonė - Lietuvos Respublikos įmonių
 įstatyme įvardytas ūkinis vienetas. 
 2. Ūkininkas - asmuo, besiverčiantis
@@ -65,6 +60,9 @@ darbe, susirgimo profesine liga ar jo mirties.
 7. Nukentėjusysis - asmuo, nukentėjęs
 dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga, jeigu jis pagal šį
 įstatymą turi teisę gauti žalos atlyginimą.
+ 
+8 dalies
+redakcija iki 2005 m. liepos 1 d.:
 8. Darbingumo netekimas - laikinas ar
 visiškas profesinio darbingumo netekimas (toliu - darbingumo netekimas) dėl
 nelaimingo atsitikimo darbe arba dėl susirgimo profesine liga. Netektas
@@ -72,6 +70,10 @@ darbingumas išreiškiamas procentais. Jei nukentėjusysis miršta dėl nelaimin
 atsitikimo darbe, laikoma, kad netekta 100 procentų darbingumo. Darbingumo
 netekimo dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga procentą
 nustato Valstybinė medicininė socialinės ekspertizės komisija (toliau - VMSEK).
+8 dalies
+redakcija nuo 2005 m. liepos 1 d.:
+8. Darbingumo netekimas – darbingumo netekimas dėl nelaimingo atsitikimo darbe arba dėl susirgimo profesine liga. Netektas darbingumas išreiškiamas procentais. Jei nukentėjusysis miršta dėl nelaimingo atsitikimo darbe, laikoma, kad netekta 100 procentų darbingumo. Darbingumo netekimo dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga procentą nustato Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – NDNT). Nukentėjusiajam dėl kelių įvykių nustatomas darbingumo netekimo procentas dėl kiekvieno įvykio atskirai.
+ 
 9. Darbingumo netekimo koeficientas (d)
 - vieneto dalimis išreikštas dydis, apskaičiuojamas netekto darbingumo procentą
 dalijant iš šimto.
@@ -85,8 +87,11 @@ IX-1121,
 2002-10-08, Žin., 2002, Nr. 102-4546 (2002-10-25)
 Nr. IX-1247,
 2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
+Nr. X-211, 2005-05-19,
+Žin., 2005, Nr. 71-2557 (2005-06-07)
  
-3 straipsnis. Įstatymo taikymas 
+3 straipsnis. Įstatymo
+taikymas 
 1. Šis įstatymas taikomas:
 1) visų rūšių įmonėms, įstaigoms,
 organizacijoms, esančioms Lietuvos Respublikos teritorijoje, taip pat užsienyje
@@ -95,26 +100,26 @@ Respublikos jurisdikcijai;
 2) užsienio kapitalo įmonėms, įstaigoms,
 organizacijoms, esančioms Lietuvos Respublikos teritorijoje, taip pat įmonėms,
 įstaigoms, organizacijoms, kurių įstatinio kapitalo dalis priklauso užsienio
-investuotojui (bendroms įmonėms, įstaigoms, organizacijoms) ir kurios yra Lietuvos
-Respublikos teritorijoje, jeigu kitaip nenumatyta tarptautinėse sutartyse ar
-šių įmonių, įstaigų, organizacijų steigimo dokumentuose.
+investuotojui (bendroms įmonėms, įstaigoms, organizacijoms) ir kurios yra
+Lietuvos Respublikos teritorijoje, jeigu kitaip nenumatyta tarptautinėse
+sutartyse ar šių įmonių, įstaigų, organizacijų steigimo dokumentuose.
 2. Lietuvos Respublikos nuolatiniams
-gyventojams, kurių sveikata buvo sužalota arba kurie dėl to mirė ar susirgo profesine
-liga dirbdami užsienyje esančiose įmonėse, žala atlyginama tarptautinėse
-sutartyse nustatyta tvarka. 
+gyventojams, kurių sveikata buvo sužalota arba kurie dėl to mirė ar susirgo
+profesine liga dirbdami užsienyje esančiose įmonėse, žala atlyginama
+tarptautinėse sutartyse nustatyta tvarka. 
  
 ANTRASIS
 SKIRSNIS 
 ŽALOS ATLYGINIMO
 PAGRINDAI. VIENKARTINĖ PAŠALPA 
  
-4 straipsnis. Atsakomybė už padarytą
-žalą
+4 straipsnis.
+Atsakomybė už padarytą žalą
 1. Įmonės, įstaigos, organizacijos,
 ūkinės bendrijos, žemės ūkio bendrovės, kooperatinės organizacijos (toliau -
 įmonė), ūkininkai, dėl kurių kaltės buvo sužalota nukentėjusiojo sveikata arba
-dėl to jis mirė, susirgo profesine liga, privalo atlyginti šiame įstatyme
-nustatytą žalą, jeigu tai įvyksta: 
+dėl to jis mirė, susirgo profesine liga, privalo atlyginti šiame įstatyme nustatytą
+žalą, jeigu tai įvyksta: 
 1) nukentėjusiojo darbo vietoje, įmonės
 patalpose, įmonės teritorijoje arba už jos ribų, kai jis dirba darbo sutartyje
 sulygtą darbą arba veikia darbdavio pavedimu ar jo interesais; 
@@ -136,13 +141,15 @@ pakeitimai:
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr.
 102-2918 (1999 12 01)
  
-5 straipsnis. Teisė į žalos atlyginimą
+5 straipsnis.
+Teisė į žalos atlyginimą
 Teisę į žalos atlyginimą turi
 nukentėjusieji, kurių sveikata dėl nelaimingo atsitikimo darbe ar susirgimo
 profesine liga buvo sužalota šio įstatymo 4 straipsnyje nurodytomis
 aplinkybėmis. 
  
-6 straipsnis. Žalos atlyginimas
+6 straipsnis.
+Žalos atlyginimas
 1. Juridiniai ir fiziniai asmenys,
 atsakingi už žalos atlyginimą dėl nukentėjusiojo sveikatos sužalojimo darbe,
 susirgimo profesine liga ar jo mirties, privalo atlyginti su darbo užmokesčio
@@ -153,8 +160,8 @@ išlaidas), turėtus dėl sveikatos sužalojimo ar susirgimo profesine liga
 2. Šiame straipsnyje nurodytas žalos
 atlyginimas mokamas nepaisant nukentėjusiojo gaunamų kitų pajamų.
  
-7 straipsnis. Žalos atlyginimas
-maitintojo netekimo atveju 
+7 straipsnis.
+Žalos atlyginimas maitintojo netekimo atveju 
 1. Jeigu nukentėjusysis dėl nelaimingo
 atsitikimo darbe miršta, teisę į žalos atlyginimą turi nedarbingi asmenys,
 kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti iš jo
@@ -166,7 +173,14 @@ profesinių, vidurinių mokyklų dieniniuose skyriuose, - iki jiems sukanka 24
 metai;
 2) asmenims, sulaukusiems senatvės
 pensijos amžiaus, - iki gyvos galvos;
+ 
+1 dalies 3
+punkto redakcija iki 2005 m. liepos 1 d.:
 3) invalidams - invalidumo laiku;
+1 dalies 3
+punkto redakcija nuo 2005 m. liepos 1 d.:
+3) asmenims, kurie pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais), – nedarbingumo ar dalinio darbingumo (invalidumo) laiku;
+ 
 4) mirusiojo sutuoktiniui ar tėvui
 (motinai), įtėviui, nepaisant amžiaus ir darbingumo, jeigu jis nedirba ir
 prižiūri mirusiojo vaikus, vaikaičius, įvaikius, brolius ar seseris, - iki
@@ -177,9 +191,13 @@ kompensacijai (šio įstatymo 13 straipsnis), padalintai iš vienetu padidinto �
 straipsnio 1 dalyje nustatytų asmenų skaičiaus, mokamas kas mėnesį.
 3. Šiame straipsnyje nurodyta žala
 atlyginama nepaisant žalos atlyginimo gavėjų gaunamų kitų pajamų.
+Straipsnio
+pakeitimai:
+Nr. X-211, 2005-05-19,
+Žin., 2005, Nr. 71-2557 (2005-06-07)
  
-8 straipsnis. Pašalpa žuvus dėl
-nelaimingo atsitikimo darbe
+8 straipsnis.
+Pašalpa žuvus dėl nelaimingo atsitikimo darbe
 1. Įmonė, kurioje dėl saugos darbe norminių aktų
 pažeidimo įvyko mirtinas nelaimingas atsitikimas, mirusiojo šeimai išmoka
 Lietuvos Respublikos žmonių saugos darbe įstatyme nustatyto dydžio vienkartinę
@@ -212,8 +230,8 @@ nustatymo ir darbo sąlygų higieninio įvertinimo dokumentai;
 dokumentai, kuriuose yra žinių apie nelaimingą atsitikimą darbe, susirgimą
 profesine liga arba apie mirties dėl nelaimingo atsitikimo darbe priežastį.
  
-10 straipsnis. Žalos atlyginimas
-atsižvelgiant į nukentėjusiojo kaltę
+10 straipsnis.
+Žalos atlyginimas atsižvelgiant į nukentėjusiojo kaltę
 1. Jeigu paties nukentėjusiojo didelis
 neatsargumas padėjo žalai atsirasti arba jai padidėti, atsižvelgiant į
 nukentėjusiojo kaltės laipsnį, žalos atlyginimas turi būti sumažinamas arba
@@ -239,12 +257,19 @@ IR JO DYDŽIO NUSTATYMAS
 BEI MOKĖJIMO
 TVARKA
  
-11 straipsnis. Vidutinis darbo
-užmokestis
+11 straipsnis.
+Vidutinis darbo užmokestis
+ 
+1 dalies
+redakcija iki 2005 m. liepos 1 d.:
 1. Nukentėjusiojo vidutinis darbo
 užmokestis apskaičiuojamas laikantis Vyriausybės patvirtintos Darbuotojo
 vidutinio darbo užmokesčio apskaičiavimo tvarkos pagal darbo užmokestį, gautą
 iki nelaimingo atsitikimo darbe arba susirgimo profesine liga nustatymo.
+1 dalies
+redakcija nuo 2005 m. liepos 1 d.:
+1. Nukentėjusiojo vidutinis darbo užmokestis apskaičiuojamas laikantis Vyriausybės patvirtintos Darbuotojo ir valstybės tarnautojo vidutinio darbo užmokesčio apskaičiavimo tvarkos pagal darbo užmokestį, gautą iki nelaimingo atsitikimo darbe arba susirgimo profesine liga nustatymo.
+ 
 2. Profesinės ligos atveju nukentėjusiojo
 pageidavimu vidutinis darbo užmokestis apskaičiuojamas pagal nukentėjusiojo
 pasirinktų paeiliui einančių 6 mėnesių iš 24 mėnesių, einančių iki susirgimo
@@ -253,19 +278,21 @@ patvirtintos Darbuotojo vidutinio darbo užmokesčio apskaičiavimo tvarkos.
 3. Tuo atveju, kai nustatoma, kad susirgimą
 profesine liga sukėlė darbas darbovietėje, kurioje nukentėjusysis dirbo iki jo
 atleidimo iš šios darbovietės ar perkėlimo į kitą mažiau apmokamą darbą toje
-pačioje darbovietėje, vidutinis darbo užmokestis nukentėjusiojo pageidavimu apskaičiuojamas
-pagal toje darbovietėje, kurioje darbas sukėlė profesinę ligą, gautą darbo
-užmokestį iš nukentėjusiojo pasirinktų paeiliui einančių 6 mėnesių per 24
-mėnesių laikotarpį iki jo perkėlimo į kitą mažiau apmokamą darbą ar atleidimo
-iš tos darbovietės dienos, laikantis Vyriausybės patvirtintos Darbuotojo
-vidutinio darbo užmokesčio apskaičiavimo tvarkos.
+pačioje darbovietėje, vidutinis darbo užmokestis nukentėjusiojo pageidavimu
+apskaičiuojamas pagal toje darbovietėje, kurioje darbas sukėlė profesinę ligą,
+gautą darbo užmokestį iš nukentėjusiojo pasirinktų paeiliui einančių 6 mėnesių
+per 24 mėnesių laikotarpį iki jo perkėlimo į kitą mažiau apmokamą darbą ar
+atleidimo iš tos darbovietės dienos, laikantis Vyriausybės patvirtintos
+Darbuotojo vidutinio darbo užmokesčio apskaičiavimo tvarkos.
 Straipsnio
 pakeitimai:
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr.
 102-2918 (1999 12 01)
+Nr. X-211, 2005-05-19,
+Žin., 2005, Nr. 71-2557 (2005-06-07)
  
-12 straipsnis. Vienkartinė netekto
-darbingumo kompensacija
+12 straipsnis.
+Vienkartinė netekto darbingumo kompensacija
 1. Jeigu nukentėjusysis neteko iki 20
 procentų (imtinai) darbingumo, jam išmokama 10 procentų jo 24 mėnesių
 kompensuojamojo uždarbio dydžio vienkartinė kompensacija; jei nukentėjusysis
@@ -273,8 +300,9 @@ neteko daugiau negu 20, bet mažiau negu 30 procentų darbingumo, jam išmokama 
 procentų jo 24 mėnesių kompensuojamojo uždarbio dydžio vienkartinė
 kompensacija.
 2. Kompensuojamasis uždarbis
-apskaičiuojamas dauginant jų kompensavimo koeficientą (k) (šio įstatymo 2 straipsnio
-11 dalis) iš draudžiamųjų pajamų (D) (šio įstatymo 2 straipsnio 10 dalis), 
+apskaičiuojamas dauginant jų kompensavimo koeficientą (k) (šio įstatymo 2
+straipsnio 11 dalis) iš draudžiamųjų pajamų (D) (šio įstatymo 2 straipsnio 10
+dalis), 
 t. y. pagal formulę k x D.
 3. Jeigu nukentėjusiajam nustatytas pastovus
 nedarbingumas, išmokama trigubai didesnė vienkartinė kompensacija, negu
@@ -284,7 +312,21 @@ lygiomis dalimis, bet ne ilgiau kaip per metus. Nuo neišmokėtos per
 kompensacijos mokėjimo dalimis laikotarpį sumos skaičiuojami ir išmokami
 delspinigiai Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su
 darbo santykiais, pavėluotą mokėjimą įstatymo nustatyta tvarka ir dydžiais.
+ 
+5 dalies
+redakcija iki 2005 m. liepos 1 d.:
 5. Šiame straipsnyje nurodyta
+vienkartinė kompensacija mokama nepaisant nukentėjusiojo gaunamų kitų pajamų.
+12 straipsnis
+papildomas nauja 5 dalimi, buvusi 5 dalis laikoma 6 dalimi nuo 2005 m. liepos 1
+d.:
+5. Jeigu nukentėjusiajam, kuriam jau
+buvo išmokėta vienkartinė netekto darbingumo kompensacija, netekto darbingumo
+procentai pasikeičia, bet neviršija šiame straipsnyje nustatytų dydžių, o
+naujai apskaičiuota vienkartinė netekto darbingumo kompensacija yra didesnė už
+gautąją, išmokamas iš naujo apskaičiuotos ir jau išmokėtos netekto darbingumo
+kompensacijos skirtumas.
+6. Šiame straipsnyje nurodyta
 vienkartinė kompensacija mokama nepaisant nukentėjusiojo gaunamų kitų pajamų.
 Straipsnio
 pakeitimai:
@@ -293,9 +335,11 @@ Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr.
 Nr.
 IX-1121,
 2002-10-08, Žin., 2002, Nr. 102-4546 (2002-10-25)
+Nr. X-211, 2005-05-19,
+Žin., 2005, Nr. 71-2557 (2005-06-07)
  
-13 straipsnis. Periodinė netekto
-darbingumo kompensacija
+13 straipsnis.
+Periodinė netekto darbingumo kompensacija
 1. Jeigu nustatoma, kad nukentėjusysis
 neteko 30 ir daugiau procentų darbingumo, jam mokama periodinė netekto
 darbingumo kompensacija.
@@ -315,8 +359,10 @@ Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr.
 Nr. IX-1247,
 2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
  
-14 straipsnis. Žalos atlyginimas
-pasikeitus nedarbingumui 
+14 straipsnio
+redakcija iki 2005 m. liepos 1 d.:
+14 straipsnis.
+Žalos atlyginimas pasikeitus nedarbingumui 
 1. Jeigu nukentėjusiajam, turėjusiam
 teisę gauti vienkartinę netekto darbingumo kompensaciją, VMSEK naujai nustato,
 kad jis neteko 30 ir daugiau procentų darbingumo, periodinė netekto darbingumo
@@ -336,14 +382,31 @@ periodinę netekto darbingumo kompensaciją, netektas darbingumas sumažėja iki
 šio įstatymo 12 straipsnio 1 dalyje nustatytų dydžių, vienkartinė netekto
 darbingumo kompensacija už tą patį nelaimingą atsitikimą darbe ar susirgimą
 profesine liga gali būti išmokama tik vieną kartą. 
+14 straipsnio
+redakcija nuo 2005 m. liepos 1 d.:
+14 straipsnis. Žalos atlyginimas pasikeitus nedarbingumui1. Jeigu nukentėjusiajam, turėjusiam teisę gauti vienkartinę netekto darbingumo kompensaciją, NDNT iš naujo nustato, kad jis neteko 30 ir daugiau procentų darbingumo, periodinė netekto darbingumo kompensacija mokama šio įstatymo 13 straipsnyje nustatyta tvarka nuo netekto darbingumo pasikeitimo dienos, o vienkartinės netekto darbingumo kompensacijos (šio įstatymo 12 straipsnis) mokėjimas nutraukiamas, išskyrus šios kompensacijos įsiskolinimą, kuris susidarė dėl jos neišmokėjimo laiku.2. Jeigu nukentėjusiajam, turėjusiam teisę gauti periodinę netekto darbingumo kompensaciją (šio įstatymo 13 straipsnis), NDNT iš naujo nustato, kad jis neteko mažiau negu 30 procentų darbingumo ir atitinka šio įstatymo 12 straipsnio 1 dalyje nustatytus dydžius, jam išmokama šio įstatymo 12 straipsnyje nustatyta vienkartinė netekto darbingumo kompensacija, o periodinės netekto darbingumo kompensacijos mokėjimas nutraukiamas.3. Jeigu nukentėjusiajam, gaunančiam periodinę netekto darbingumo kompensaciją, netekto darbingumo procentai pakartotinai sumažėja iki šio įstatymo 12 straipsnio 1 dalyje nustatyto dydžio, vienkartinė netekto darbingumo kompensacija mokama šio įstatymo 12 straipsnio 5 dalyje nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. X-211, 2005-05-19,
+Žin., 2005, Nr. 71-2557 (2005-06-07)
  
-15 straipsnis. Periodinės netekto
-darbingumo kompensacijos mokėjimo trukmė 
+15 straipsnio
+redakcija iki 2005 m. liepos 1 d.:
+15 straipsnis.
+Periodinės netekto darbingumo kompensacijos mokėjimo trukmė 
 Periodinė netekto darbingumo
 kompensacija mokama iki VMSEK nustatyto darbingumo netekimo termino pabaigos.
+15 straipsnio
+redakcija nuo 2005 m. liepos 1 d.:
+15 straipsnis. Periodinės netekto darbingumo kompensacijos mokėjimo trukmėPeriodinė netekto darbingumo kompensacija mokama iki NDNT nustatyto darbingumo netekimo termino pabaigos.
+Straipsnio
+pakeitimai:
+Nr. X-211, 2005-05-19,
+Žin., 2005, Nr. 71-2557 (2005-06-07)
  
-16 straipsnis. Žalos atlyginimo dydžio
-pakeitimas žalos atlyginimo mokėtojo 
+16 straipsnio
+redakcija iki 2005 m. liepos 1 d.:
+16 straipsnis.
+Žalos atlyginimo dydžio pakeitimas žalos atlyginimo mokėtojo 
 reikalavimu
 Žalos atlyginimo mokėtojas turi teisę
 atitinkamai sumažinti nukentėjusiajam žalos atlyginimą dėl nelaimingo
@@ -351,19 +414,46 @@ atsitikimo darbe ar susirgimo profesine liga, jeigu VMSEK naujai nustato, kad
 nukentėjusiojo netektas darbingumas sumažėjo. Jeigu žalos atlyginimas buvo
 nustatytas teismo sprendimu, jis šiame straipsnyje nustatytu atveju gali būti
 atitinkamai sumažintas tik teismine tvarka. 
+16 straipsnio
+redakcija nuo 2005 m. liepos 1 d.:
+16 straipsnis. Žalos atlyginimo dydžio pakeitimas žalos atlyginimo mokėtojo reikalavimu
+Žalos atlyginimo mokėtojas turi teisę
+atitinkamai sumažinti nukentėjusiajam žalos atlyginimą dėl nelaimingo
+atsitikimo darbe ar susirgimo profesine liga, jeigu NDNT iš naujo nustato, kad
+nukentėjusiojo netekto darbingumo procentai sumažėjo. Jeigu žalos atlyginimas
+buvo nustatytas teismo sprendimu, jis šiame straipsnyje nustatytu atveju gali
+būti atitinkamai sumažintas tik teismine tvarka.
+Straipsnio
+pakeitimai:
+Nr. X-211, 2005-05-19,
+Žin., 2005, Nr. 71-2557 (2005-06-07)
  
-17 straipsnis. Žalos atlyginimo dydžio
-pakeitimas nukentėjusiojo reikalavimu, jei 
+17 straipsnio
+redakcija iki 2005 m. liepos 1 d.:
+17 straipsnis.
+Žalos atlyginimo dydžio pakeitimas nukentėjusiojo reikalavimu, jei 
 pasikeičia
 nedarbingumas 
 Iš dalies netekęs
 darbingumo dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga asmuo
 turi teisę bet kada reikalauti, kad žalos atlyginimo mokėtojas atitinkamai
-padidintų žalos atlyginimą, jeigu VMSEK naujai nustato, kad jo netektas darbingumas
-padidėjo.
+padidintų žalos atlyginimą, jeigu VMSEK naujai nustato, kad jo netektas
+darbingumas padidėjo.
+17 straipsnio
+redakcija nuo 2005 m. liepos 1 d.:
+17 straipsnis. Žalos atlyginimo dydžio pakeitimas nukentėjusiojo reikalavimu, jei pasikeičia nedarbingumas
+Iš dalies netekęs darbingumo dėl
+nelaimingo atsitikimo darbe ar susirgimo profesine liga asmuo turi teisę bet
+kada reikalauti, kad žalos atlyginimo mokėtojas atitinkamai
+padidintų žalos atlyginimą, jeigu NDNT iš naujo nustato, kad jo netekto
+darbingumo procentai padidėjo.
+Straipsnio
+pakeitimai:
+Nr. X-211, 2005-05-19,
+Žin., 2005, Nr. 71-2557 (2005-06-07)
  
-18 straipsnis. Žalos atlyginimo
-mokėjimas reorganizavus ar likvidavus įmonę 
+18 straipsnis.
+Žalos atlyginimo mokėjimas reorganizavus ar likvidavus įmonę 
 1. Jeigu įmonė, įpareigota atlyginti
 nukentėjusiajam žalą dėl nelaimingo atsitikimo darbe ar susirgimo profesine
 liga arba kai dėl nelaimingo atsitikimo darbe asmuo miršta, reorganizuojama,
@@ -374,12 +464,13 @@ bankroto, žalos atlyginimas mokamas Įmonių bankroto įstatyme nustatyta tvark
 Jeigu įmonė likviduojama ne Įmonių bankroto įstatymo nustatyta tvarka, ji
 nukentėjusiojo pageidavimu sumoka visą žalos atlyginimą iš karto arba jį
 kapitalizuoja Civilinio kodekso 508 straipsnyje nustatyta tvarka.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr.
 102-2918 (1999 12 01)
  
-18(1) straipsnis. Žalos
-atlyginimo mokėjimo prievolės perėjimas valstybei
+18(1)
+straipsnis. Žalos atlyginimo mokėjimo prievolės perėjimas valstybei
 1. Šiame įstatyme nurodyta žalos atlyginimo mokėjimo
 prievolė pereina valstybei šiais atvejais:
 1) kai įmonei iškelta bankroto
@@ -391,6 +482,9 @@ priteistą žalos atlyginimą;
 (ar) išregistruota, kai nėra jos teisių ir pareigų perėmėjo, tačiau žalos
 atlyginimas nebuvo nei išmokėtas, nei kapitalizuotas, nei perduota ši prievolė
 aukštesniajai organizacijai;
+ 
+1 dalies 3
+punkto redakcija iki 2005 m. liepos 1 d.:
 3) kai nukentėjusieji
 susirgo profesine liga arba buvo sužaloti dėl nelaimingo atsitikimo darbe,
 dirbdami buvusiose valstybinėse įmonėse ir buvusiose žemės ūkio įmonėse
@@ -402,13 +496,15 @@ ligą po įmonės privatizavimo, nukentėjusiesiems, dirbantiems toje pačioje a
 kitoje įmonėje, kurioje darbo aplinka dėl jos kenksmingo veiksnio (veiksnių)
 poveikio taip pat turėjo įtakos darbuotojo sveikatos sutrikimui, valstybė
 atlygina tą darbingumo netekimo dalį, kurios nukentėjusysis neteko dirbdamas
-buvusioje valstybinėje įmonėje iki jos privatizavimo, atsižvelgdama į darbo
-sąlygas ir toje įmonėje dirbtą laiką. Kitą darbingumo netekimo dalį atlygina
-įmonė, kurioje darbas po įmonės privatizavimo turėjo įtakos susirgimui profesine
-liga. Darbingumo netekimo dalį, kurios nukentėjusysis neteko dirbdamas
-buvusioje valstybinėje įmonėje iki jos privatizavimo, nustato VMSEK. Kilus
-ginčui, darbingumo netekimo ir žalos atlyginimo dalis kiekvienu atveju nustato
-teismas;
+buvusioje valstybinėje įmonėje iki jos privatizavimo, atsižvelgdama į darbo sąlygas
+ir toje įmonėje dirbtą laiką. Kitą darbingumo netekimo dalį atlygina įmonė,
+kurioje darbas po įmonės privatizavimo turėjo įtakos susirgimui profesine liga.
+Darbingumo netekimo dalį, kurios nukentėjusysis neteko dirbdamas buvusioje
+valstybinėje įmonėje iki jos privatizavimo, nustato VMSEK. Kilus ginčui,
+darbingumo netekimo ir žalos atlyginimo dalis kiekvienu atveju nustato teismas;
+1 dalies 3
+punkto redakcija nuo 2005 m. liepos 1 d.:
+3) kai nukentėjusieji susirgo profesine liga arba buvo sužaloti dėl nelaimingo atsitikimo darbe, dirbdami buvusiose valstybinėse įmonėse ir buvusiose žemės ūkio įmonėse (kolūkiuose, valstybiniuose ūkiuose) iki jų privatizavimo (valstybinių, valstybinių akcinių įmonių ir buvusių žemės ūkio įmonių, reorganizuotų į akcines bendroves, uždarąsias akcines bendroves ar žemės ūkio bendroves, – įregistravimo įmonių rejestre datos). Nustačius profesinę ligą po įmonės privatizavimo, nukentėjusiesiems, dirbantiems toje pačioje ar kitoje įmonėje, kurioje darbo aplinka dėl jos kenksmingo veiksnio (veiksnių) poveikio taip pat turėjo įtakos darbuotojo sveikatos sutrikimui, valstybė atlygina tą darbingumo netekimo dalį, kurios nukentėjusysis neteko dirbdamas buvusioje valstybinėje įmonėje iki jos privatizavimo, atsižvelgdama į darbo sąlygas ir toje įmonėj dirbtą laiką. Kitą darbingumo netekimo dalį atlygina įmonė, kurioje darbas po įmonės privatizavimo turėjo įtakos susirgimui profesine liga. Darbingumo netekimo dalį, kurios nukentėjusysis neteko dirbdamas buvusioje valstybinėje įmonėje iki jos privatizavimo, nustato NDNT. Kilus ginčui, darbingumo netekimo ir žalos atlyginimo dalis kiekvienu atveju nustato teismas; 
 4)
 kai nuolatinis Lietuvos Respublikos gyventojas, turintis teisę gauti žalos
 atlyginimą tarptautinėje sutartyje nustatyta tvarka iš užsienyje esančios už
@@ -431,8 +527,11 @@ IX-1121,
 Nr.
 IX-1540,
 2003-04-29, Žin., 2003, Nr. 47-2064 (2003-05-14)
+Nr. X-211, 2005-05-19,
+Žin., 2005, Nr. 71-2557 (2005-06-07)
  
-19 straipsnis. Laidojimo išlaidų atlyginimas
+19 straipsnis.
+Laidojimo išlaidų atlyginimas
 Jeigu dėl nelaimingo atsitikimo darbe
 nukentėjusysis miršta, įmonė, ūkininkas, atsakingi už su nukentėjusiojo mirtimi
 susijusią žalą, jo laidojimo išlaidas atlygina mirusiojo šeimos nariams arba
@@ -443,33 +542,23 @@ vidutinis darbo užmokestis.
  
 KETVIRTASIS
 SKIRSNIS
-BAIGIAMOSIOS
-NUOSTATOS
+BAIGIAMOSIOS NUOSTATOS
  
-20 straipsnis. Žalos atlyginimo
-mokėjimas ir jo kontrolė 
+20 straipsnis.
+Žalos atlyginimo mokėjimas ir jo kontrolė 
 1. Šiame įstatyme nustatytą žalos
 atlyginimą apskaičiuoja ir moka darbdaviai, įmonės, įstaigos, organizacijos,
 ūkininkai, atsakingi už žalos atlyginimo mokėjimą.
-2. Žalos atlyginimas jo gavėjams pristatomas,
-persiunčiamas ar pervedamas į jų sąskaitą bet kuriame Lietuvos Respublikos
-banke įmonės, ūkininko, privalančių mokėti šias išmokas, lėšomis.
- 
-3 dalies redakcija iki 2005 m. sausio 1 d.:
-3. Kai žalos atlyginimą
-moka darbdaviai, įmonės, įstaigos, organizacijos, ūkininkai, žalos atlyginimo
-apskaičiavimą ir mokėjimą kontroliuoja Valstybinė darbo inspekcija. Kai žalos
-atlyginimo mokėjimo prievolę vykdo Valstybinio socialinio draudimo fondo
-valdybos teritoriniai skyriai, žalos atlyginimo apskaičiavimo ir mokėjimo
-kontrolę vykdo Valstybinio socialinio draudimo fondo valdyba.
-3 dalies redakcija nuo 2005 m. sausio 1 d.:
+2. Žalos atlyginimas jo gavėjams
+pristatomas, persiunčiamas ar pervedamas į jų sąskaitą bet kuriame Lietuvos
+Respublikos banke įmonės, ūkininko, privalančių mokėti šias išmokas, lėšomis.
 3. Kai
 žalos atlyginimą moka darbdaviai, įmonės, įstaigos, organizacijos, ūkininkai,
 žalos atlyginimo apskaičiavimą ir mokėjimą kontroliuoja Valstybinė darbo
 inspekcija. Kai žalos atlyginimo mokėjimo prievolę vykdo Valstybinio socialinio
 draudimo fondo valdybos teritoriniai skyriai, žalos atlyginimo apskaičiavimo ir
-mokėjimo kontrolę vykdo Valstybinio socialinio draudimo fondo valdyba prie Socialinės
-apsaugos ir darbo ministerijos.
+mokėjimo kontrolę vykdo Valstybinio socialinio draudimo fondo valdyba prie
+Socialinės apsaugos ir darbo ministerijos.
 Straipsnio
 pakeitimai:
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr.
@@ -480,8 +569,8 @@ IX-1121,
 Nr. IX-2540,
 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
  
-21 straipsnis. Kreipimosi dėl žalos
-atlyginimo tvarka
+21 straipsnis.
+Kreipimosi dėl žalos atlyginimo tvarka
 1. Dėl žalos atlyginimo nukentėjusieji
 kreipiasi į įmonę, įstaigą, organizaciją ar ūkininką su pareiškimu pridėdami
 turimus dokumentus, būtinus žalos atlyginimui apskaičiuoti. Jeigu
@@ -498,17 +587,32 @@ išnagrinėti šio straipsnio 1 dalyje nustatyta tvarka.
 atsakymo ar nesutikdamas su pareiškimo nagrinėjimo rezultatais, gali kreiptis į
 teismą įstatymų nustatyta tvarka. 
  
-22 straipsnis. Žalos atlyginimo mokėjimo
-terminai
+22 straipsnis.
+Žalos atlyginimo mokėjimo terminai
+ 
+1 dalies
+redakcija iki 2005 m. liepos 1 d.:
 1. Žalos atlyginimas nukentėjusiajam
 mokamas nuo nelaimingo atsitikimo darbe dienos ar susirgimo profesine liga
 nustatymo dienos, o jeigu tai paaiškėja vėliau - nuo paaiškėjimo dienos. 
+1 dalies
+redakcija nuo 2005 m. liepos 1 d.:
+1. Žalos atlyginimas
+nukentėjusiajam mokamas nuo darbingumo netekimo (dėl nelaimingo atsitikimo
+darbe ar susirgimo profesine liga) nustatymo dienos, jeigu dėl netekto
+darbingumo kompensacijos skyrimo kreipiamasi per 3 metus nuo teisės į
+kompensaciją atsiradimo dienos.
+ 
 2. Jeigu nukentėjusysis dėl žalos
 atlyginimo kreipėsi praėjus trejiems metams nuo teisės į žalos atlyginimą
 atsiradimo dienos, žalos atlyginimas mokamas nuo kreipimosi dienos.
+Straipsnio
+pakeitimai:
+Nr. X-211, 2005-05-19,
+Žin., 2005, Nr. 71-2557 (2005-06-07)
  
-23 straipsnis. Įstatymo įsigaliojimas ir
-įgyvendinimas
+23 straipsnis.
+Įstatymo įsigaliojimas ir įgyvendinimas
 1. Šis įstatymas įsigalioja nuo 1997 m.
 rugsėjo 1 d.
 2. Pagal šį įstatymą žala atlyginama ir
@@ -536,12 +640,11 @@ darbingumo kompensacija ims viršyti 1997 metų rugpjūčio mėnesį mokėtą ž
 atlyginimą.
 6. Vyriausybė iki 1997 m. rugsėjo 1 d.:
 1) pakeičia ir papildo Pašalpos,
-darbuotojui žuvus dėl nelaimingo atsitikimo darbe, skyrimo nuostatus,
-patvirtintus Vyriausybės 1994 m. gruodžio 27 d. nutarimu Nr.1325 (Žin., 1995,
-Nr.1-12);
+darbuotojui žuvus dėl nelaimingo atsitikimo darbe, skyrimo nuostatus, patvirtintus
+Vyriausybės 1994 m. gruodžio 27 d. nutarimu Nr.1325 (Žin., 1995, Nr.1-12);
 2) patvirtina Žalos atlyginimo
-nukentėjusiesiems dėl sveikatos sužalojimo darbe ar susirgimo profesine liga,
-kai ši prievolė pereina valstybei, tvarką.
+nukentėjusiesiems dėl sveikatos sužalojimo darbe ar susirgimo profesine liga, kai
+ši prievolė pereina valstybei, tvarką.
 7. Šis įstatymas taikomas žalai
 atlyginti:
 1) dėl nelaimingų atsitikimų darbe,
@@ -579,15 +682,14 @@ LIETUVOS RESPUBLIKOS ŽALOS
 ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
 LAIKINOJO ĮSTATYMO 2, 4, 8, 11, 12, 13, 18, 20 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO 18(1) STRAIPSNIU ĮSTATYMAS
-Asmenims,
-kurių teisė į žalos atlyginimą atsirado iki šio įstatymo įsigaliojimo, šio
-įstatymo nustatyta tvarka, bet ne vėliau kaip per 6 mėnesius nuo šio įstatymo
-įsigaliojimo, pateikusiems prašymą žalos atlyginimo mokėtojui, perskaičiuotas
-didesnis žalos atlyginimas pradedamas mokėti už laikotarpį nuo1999 m. gruodžio
-1 d. Jeigu perskaičiavus žalos atlyginimą susidaro didesnė suma, ji išmokama:
-1)
-gaunantiems periodinę netekto darbingumo kompensaciją - ne vėliau kaip iki 2000
-m. birželio 31 d.;
+Asmenims, kurių teisė į
+žalos atlyginimą atsirado iki šio įstatymo įsigaliojimo, šio įstatymo nustatyta
+tvarka, bet ne vėliau kaip per 6 mėnesius nuo šio įstatymo įsigaliojimo,
+pateikusiems prašymą žalos atlyginimo mokėtojui, perskaičiuotas didesnis žalos
+atlyginimas pradedamas mokėti už laikotarpį nuo1999 m. gruodžio 1 d. Jeigu
+perskaičiavus žalos atlyginimą susidaro didesnė suma, ji išmokama:
+1) gaunantiems periodinę
+netekto darbingumo kompensaciją - ne vėliau kaip iki 2000 m. birželio 31 d.;
 2) gavusiems ar
 gaunantiems vienkartinę netekto darbingumo kompensaciją - ne vėliau kaip iki
 2000 m. rugsėjo 30 d.
@@ -611,7 +713,8 @@ IX-1121,
 2002-10-08, Žin., 2002, Nr. 102-4546 (2002-10-25)
 ŽALOS
 ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
-LAIKINOJO ĮSTATYMO 2, 12, 18(1), 20, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+LAIKINOJO ĮSTATYMO 2, 12, 18(1), 20, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
 Šio
 Įstatymo 3 straipsnis įsigalioja nuo 2003 m. sausio 1 d. 
  
@@ -681,10 +784,25 @@ LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO
 Šis
 Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-211,
+2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
+LIGOS
+IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO, NELAIMINGŲ ATSITIKIMŲ DARBE IR
+PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO, ŽALOS ATLYGINIMO DĖL NELAIMINGŲ
+ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO BEI VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2005 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2004-12-08)
+Aušrinė Trapinskienė (2005-06-14)
                  
 autrap@lrs.lt
