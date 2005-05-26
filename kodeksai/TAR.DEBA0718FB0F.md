@@ -44,15 +44,17 @@ pakeitimai:
 Nr. IX-1214,
 2002-12-03, Žin., 2002, Nr. 123-5510 (2002-12-24)
             
-            2 straipsnis. Vidaus vandenų transporto
+2 straipsnis. Vidaus vandenų transporto
 sąvoka
-            1. Vidaus vandenų transportas - ūkinės
-veiklos sritis, kuri apima keleivių, krovinių, bagažo, pašto vežimą,
-buksyravimą vidaus vandenų keliais.
-            2. Vidaus vandenų transportui priklauso
-laivai, laivų eksploatacijos ir remonto bei kitos vidaus vandenų transporto
-priemonės, vidaus vandenų keliai, uostai ir prieplaukos, tam tikslui įrengti
-hidrotechnikos statiniai, ryšių ir radijo navigacijos įrenginiai.
+Vidaus vandenų transportas – ūkinės
+veiklos sritis, kuri apima keleivių, krovinių, bagažo, pašto vežimą, žvejybą,
+buksyravimą, vidaus vandenų transporto priemonių bei hidrotechnikos statinių
+eksploatavimą ir remontą, vidaus vandenų kelių, uostų ir prieplaukų, ryšių ir
+radijo navigacijos įrenginių eksploatavimą ir priežiūrą.
+Straipsnio
+pakeitimai:
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
             
             3 straipsnis. Vidaus vandenų transporto
 objektų nuosavybė
@@ -65,12 +67,12 @@ keliai ir jų infrastruktūra (hidrotechninių ir inžinerinių statinių komple
 nuosavybės teise priklauso tik Lietuvos valstybei.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
-            4 straipsnis. Vidaus vandenų transporto
-valstybinis valdymas
+            4 straipsnis. Vidaus vandenų transporto valstybinis
+valdymas
             1. Vidaus vandenų transporto valstybinį
 valdymą vykdo Susisiekimo ministerija, kuri pagal savo kompetenciją leidžia
 visiems fiziniams ir juridiniams asmenims privalomus teisės aktus ir tiesiogiai
@@ -80,28 +82,80 @@ specialias vidaus vandenų transporto valstybinio valdymo institucijas.
             3. Lietuvos Respublikos vidaus vandenų
 kelius valdo, prižiūri ir tvarko Susisiekimo ministerija arba jos įgaliota
 institucija.
-4. Valstybinės ir vietinės reikšmės vidaus
-vandenų kelių būklės bei navigacinių įrenginių juose funkcionavimo, laivybos,
-uostų veiklos valstybinę kontrolę atlieka, laivų avarinius atvejus nagrinėja
-Susisiekimo ministerija arba jos įgaliota institucija.
+4. Valstybinės ir vietinės reikšmės
+vidaus vandenų kelių būklės bei navigacinių įrenginių juose funkcionavimo,
+laivybos, uostų veiklos valstybinę kontrolę atlieka, laivų avarinius atvejus
+nagrinėja Susisiekimo ministerija arba jos įgaliota institucija.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
-4(1) straipsnis. Keleivių
-ir krovinių vežimas vidaus vandenų keliais
-Vežti keleivius ir krovinius už atlygį
-tarp Lietuvos Respublikos vidaus vandenų uostų (kabotažas) gali tik laivai,
-plaukiojantys su Lietuvos valstybės vėliava, arba laivai, plaukiojantys su bet
-kurios Europos Sąjungos valstybės vėliava.
-Kodeksas papildytas straipsniu nuo 2000 m. spalio
-1 d.:
+4(1)
+straipsnis. Keleivių ir krovinių vežimas vidaus vandenų keliais, keleivių
+vežimo laivais vidaus vandenimis Lietuvos Respublikoje bei keleivių ir krovinių
+vežimo laivais vidaus vandenimis tarptautiniais maršrutais licencijavimas
+1. Vežti keleivius laivais Lietuvos
+Respublikos vidaus vandenimis turi teisę įmonės, įsteigtos Lietuvos
+Respublikoje ir turinčios licenciją verstis keleivių vežimu laivais vidaus
+vandenimis Lietuvos Respublikoje, taip pat įmonės, įsteigtos bet kurioje
+Europos Sąjungos ar Pasaulio prekybos organizacijos valstybėje narėje pagal
+šios valstybės narės įstatymus ir turinčios šios valstybės narės kompetentingų
+institucijų išduotą dokumentą, suteikiantį teisę vežti keleivius laivais vidaus
+vandenimis.
+2. Vežti keleivius ir krovinius laivais
+vidaus vandenimis tarptautiniais maršrutais turi teisę įmonės, įsteigtos
+Lietuvos Respublikoje ir turinčios licenciją verstis keleivių ir krovinių
+vežimu laivais vidaus vandenimis tarptautiniais maršrutais, taip pat įmonės,
+įsteigtos bet kurioje Europos Sąjungos ar Pasaulio prekybos organizacijos
+valstybėje narėje pagal šios valstybės narės įstatymus ir turinčios šios
+valstybės narės kompetentingų institucijų išduotą dokumentą, suteikiantį teisę
+vežti keleivius ir krovinius laivais vidaus vandenimis tarptautiniais
+maršrutais.
+3. Licencijas verstis keleivių vežimu
+laivais vidaus vandenimis Lietuvos Respublikoje arba verstis keleivių ir
+krovinių vežimu laivais vidaus vandenimis tarptautiniais maršrutais išduoda
+Susisiekimo ministerija arba jos įgaliota institucija licencijavimo taisyklių,
+patvirtintų Vyriausybės, nustatyta tvarka.
+4. Įmonė, siekianti verstis licencijuojama
+veikla, privalo atitikti šiuos reikalavimus:
+1) užtikrinti, kad laivai, kuriais
+ketinama vykdyti licencijuojamą veiklą, atitinka Lietuvos Respublikos teisės
+aktų nustatytus reikalavimus ir turi tai patvirtinančius dokumentus;
+2) turėti atitinkamus padalinius
+(specialistus), kurie galėtų organizuoti ir užtikrinti saugų keleivių ir
+krovinių vežimą laivais, taip pat saugų laivų eksploatavimą ir apsaugą, arba
+privalo sudaryti sutartį su kita įmone, kuri turi nurodytus padalinius
+(specialistus) ir sutinka užtikrinti šiam vežėjui saugų plaukiojimą;
+3) laivų, kuriais ketinama vykdyti
+licencijuojamą veiklą, įgulos turi būti sudarytos iš vidaus vandenų transporto
+specialistų, turinčių galiojančius dokumentus, kurie patvirtina vidaus vandenų
+transporto specialistų įgytą kvalifikaciją ir teisę eiti atitinkamas pareigas
+laive.
+5. Įmonė, siekianti gauti licenciją,
+Susisiekimo ministerijai arba jos įgaliotai institucijai licencijavimo
+taisyklių nustatyta tvarka pateikia nustatytos formos prašymą bei kitus
+taisyklėse nurodytus dokumentus.
+6. Licencija neišduodama, jeigu:
+1) įmonė neatitinka šio straipsnio 4 dalyje
+nustatytų reikalavimų;
+2) pateikiami ne visi dokumentai;
+3) pateikti dokumentai užpildyti
+neteisingai;
+4) pateiktuose dokumentuose yra nurodyta
+klaidingų duomenų.
+7. Priėmus sprendimą
+licencijos neišduoti, apie tai per 3 darbo dienas raštu pranešama pareiškėjui,
+nurodant atsisakymo išduoti licenciją priežastis.
+Kodeksas papildytas straipsniu:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
+Straipsnio pakeitimai:
 Nr. VIII-1964,
 00.09.26, Žin., 2000, Nr.85-2585 (00.10.11)
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
  
             5 straipsnis. Tarptautinės sutartys
             Jeigu Lietuvos Respublikos tarptautinių
@@ -128,15 +182,15 @@ Nr. IX-1214,
             7 straipsnis. Vidaus vandenų kelių
 naudotojai
 1.
-Vidaus vandenų kelių naudotojai – fiziniai ir juridiniai asmenys, besiverčiantys
-laivyba šiuose keliuose.
+Vidaus vandenų kelių naudotojai – fiziniai ir juridiniai asmenys,
+besiverčiantys laivyba šiuose keliuose.
             2. Vidaus vandenų kelių naudotojais taip
 pat laikomi fiziniai ir juridiniai asmenys, kurie, suderinę su vidaus vandenų
 kelių valdytojais, nepažeisdami laivybos taisyklių, naudoja vidaus vandenis
 hidrotechnikai, žvejybai, sportui, poilsiui bei kitoms reikmėms.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
 Nr.
@@ -162,12 +216,17 @@ priklauso hidroelektrinės, užtvankos ir kiti hidrotechnikos statiniai vidaus
 vandenų keliuose, nustatyta tvarka privalo:
             1) aukščiau ir žemiau įrenginių išlaikyti
 vandens lygį, būtiną saugiai laivybai per visą navigacijos laikotarpį;
-            2) sudaryti sąlygas, kad laivai
-nekliudomai ir saugiai praplauktų pro hidrotechnikos įrenginius;
+2) sudaryti sąlygas, kad
+vidaus vandenų transporto priemonės nekliudomai ir saugiai praplauktų pro
+hidrotechnikos statinius;
             3) išleisti vandenį iš vandens saugyklų
 vidaus vandenų kelių valdymo institucijų nustatytu laiku;
-            4) prižiūrėti hidrotechnikos įrenginių
+4) prižiūrėti hidrotechnikos statinių
 techninę būklę.
+Straipsnio
+pakeitimai:
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
             
             10 straipsnis. Tiltų, antvandeninių ir
 povandeninių komunikacijų valdytojų 
@@ -177,11 +236,11 @@ komunikacijų (kabelių linijų, diukerių ir kt.) valdytojai privalo:
             1) derinti su vidaus vandenų kelių valdymo
 institucijomis tiltų statybos, rekonstrukcijos ir remonto, antvandeninių ir
 povandeninių komunikacijų įrengimo projektus;
-            2) įrengti ir aptarnauti įrenginius,
-garantuojančius saugų ir nekliudomą laivų plaukimą po tiltais ir
-antvandeninėmis komunikacijomis bei virš povandeninių komunikacijų. Kranto
-juostoje įrengti perspėjamieji ir nurodomieji (signaliniai) ženklai privalo
-atitikti vidaus vandenų laivybos reikalavimus;
+2) įrengti ir aptarnauti
+įrenginius, garantuojančius saugų ir nekliudomą vidaus vandenų transporto
+priemonių plaukimą po tiltais ir antvandeninėmis komunikacijomis bei virš
+povandeninių komunikacijų. Kranto juostose įrengti perspėjamieji ir nurodomieji
+(signaliniai) ženklai privalo atitikti vidaus vandenų laivybos reikalavimus;
 3) pastačius ir suremontavus tiltus,
 įrengus ir pertvarkius antvandenines ir povandenines komunikacijas, atlikti
 dugno gilinimo ir valymo darbus bei sutvarkytus vidaus vandenų kelių ruožus
@@ -190,9 +249,11 @@ priduoti vidaus vandenų kelių valdytojui;
 pakeliamųjų tiltų tarpatramius pagal laivybos taisykles.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
  
             11 straipsnis. Apsaugos juosta ir kranto
 juosta
@@ -243,20 +304,24 @@ apkrovų hidrotechninis įrenginys, skirtas laivams švartuoti ir krauti,
 keleiviams įlaipinti arba išlaipinti.
 4. Uostai ir prieplaukos pagal atitinkamų darbų pobūdį
 yra keleiviniai, krovininiai, mišrieji, žvejybiniai bei pramoginių laivų. Uostų
-ir prieplaukų pastatai, statiniai ir įrenginiai turi atitikti nustatytus techninius
-ir aplinkos apsaugos reikalavimus, užtikrinti keleivių, krovinių, bagažo ir
-pašto saugumą, greitą ir patogų krovinių pakrovimą bei iškrovimą.
-5. Vidaus vandenų uostai gali būti valstybės,
-savivaldybių ir privatūs. Valstybės vidaus vandenų uostų teritorijos ir
-akvatorijos ribas nustato Vyriausybė Susisiekimo ministerijos teikimu;
-savivaldybės vidaus vandenų uostų teritorijos ir akvatorijos ribas –
-savivaldybės taryba, suderinusi su apskrities viršininku; privačių vidaus
-vandenų uostų teritorijos ir akvatorijos ribas – steigėjas, suderinęs su
-apskrities viršininku ir savivaldybe. Vidaus vandenų uostus steigiant saugomose
-teritorijose, uostų teritorijos ir akvatorijos ribos turi būti suderintos su
-saugomos teritorijos administracija.
-            6. Vidaus vandenų uostai steigiami
-Vyriausybės nustatyta tvarka.
+ir prieplaukų pastatai, statiniai ir įrenginiai turi atitikti nustatytus
+techninius ir aplinkos apsaugos reikalavimus, užtikrinti keleivių, krovinių,
+bagažo ir pašto saugumą, greitą ir patogų krovinių pakrovimą bei iškrovimą.
+5. Vidaus vandenų uostai ir prieplaukos
+gali būti valstybės, savivaldybių ir privatūs. Valstybės vidaus vandenų uostų
+ir prieplaukų teritorijos ir akvatorijos ribas nustato Vyriausybė Susisiekimo
+ministerijos teikimu; savivaldybės vidaus vandenų uostų ir prieplaukų teritorijos
+ir akvatorijos ribas – savivaldybės taryba, suderinusi su apskrities
+viršininku; privačių vidaus vandenų uostų ir prieplaukų teritorijos ir
+akvatorijos ribas – steigėjas, suderinęs su apskrities viršininku ir
+savivaldybe. Vidaus vandenų uostus ir prieplaukas steigiant saugomose
+teritorijose, uostų ir prieplaukų teritorijos ir akvatorijos ribos turi būti
+suderintos su saugomos teritorijos administracija.
+6. Vidaus vandenų uostai ir prieplaukos,
+naudojami keleiviams įlaipinti ir išlaipinti bei kroviniams pakrauti ir
+iškrauti, steigiami Vyriausybės nustatyta tvarka. Nekomercinės mažųjų,
+pramoginių arba sportinių laivų prieplaukos steigiamos Susisiekimo ministerijos
+arba jos įgaliotos institucijos nustatyta tvarka.
             7. Susisiekimo ministerija registruoja
 vidaus vandenų uostus, o jos įgaliotos institucijos atlieka juose valstybinę
 laivybos priežiūrą.
@@ -264,109 +329,127 @@ laivybos priežiūrą.
 teikimu tvirtina Susisiekimo ministerija.
             9. Tarptautinio vidaus vandenų uosto
 statusą Susisiekimo ministerijos teikimu suteikia Vyriausybė.
-            10. Visų nuosavybės formų vidaus vandenų
-uostų savininkai privalo užtikrinti visų vežėjų vienodas teises įplaukti į
-uostus, naudotis uostų krantinėmis ir kitais įrenginiais kroviniams pakrauti ir
-iškrauti, įlaipinti ir išlaipinti keleivius, naudotis visomis logistinėmis
-vidaus vandenų transporto paslaugomis juose, mokant su tuo susijusius mokesčius
-ir rinkliavas.
+10. Visų nuosavybės formų
+vidaus vandenų uostų ir prieplaukų savininkai privalo užtikrinti visų vežėjų
+vienodas teises įplaukti į uostus ir prieplaukas, naudotis uostų ir prieplaukų
+krantinėmis ir kitais įrenginiais kroviniams pakrauti ir iškrauti, įlaipinti ir
+išlaipinti keleivius, naudotis juose visomis logistinėmis vidaus vandenų
+transporto paslaugomis, mokant su tuo susijusius mokesčius ir rinkliavas.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
 Nr. IX-1214,
 2002-12-03, Žin., 2002, Nr. 123-5510 (2002-12-24)
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
  
 TREČIASIS SKIRSNIS
 VIDAUS VANDENŲ TRANSPORTO PRIEMONĖS
             
-            14 straipsnis. Vidaus vandenų transporto
+14 straipsnis. Vidaus vandenų transporto
 priemonių sąvoka
-            Vidaus vandenų transporto priemonės -
-laivai, vežantys keleivius, krovinius, bagažą, paštą, buksyruojantys
-nesavaeigius laivus, bei kiti plaukiojantys objektai, eksploatuojantys,
-aptarnaujantys vandens kelius.
-            
-15 straipsnis. Laivų klasės
-1. Vidaus vandenų laivas – bet kokio
-tipo savaeigis ar nesavaeigis plaukiojantis statinys, kuris yra arba gali būti
-naudojamas laivybai vidaus vandenyse.
-2. Mažasis laivas – bet kuris laivas,
-kurio korpuso ilgis ne ilgesnis kaip 20 metrų, išskyrus laivus, kurie yra
+Vidaus vandenų transporto priemonės –
+vidaus vandenų, žvejybos, mažieji, pramoginiai, sportiniai ir asmeniniai
+laivai, plūduriuojantys įrenginiai bei plūduriuojančios priemonės, eksploatuojantys
+arba aptarnaujantys vandenų kelius.
+Straipsnio
+pakeitimai:
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
+ 
+15 straipsnis. Vidaus vandenų transporto
+priemonių klasifikavimas
+1. Vidaus vandenų laivas – bet kurio tipo
+savaeigis ar nesavaeigis keleivinis, krovininis, techninis (tarnybinis,
+mokslinio tyrinėjimo, techninio aptarnavimo ir kiti) laivas, keltas
+(keleivinis, krovininis, mišrus), kuris yra arba gali būti naudojamas laivybai
+vidaus vandenyse.
+2. Žvejybos laivas – bet kuris laivas su
+jame esančia verslinės žvejybos įranga arba laivas, naudojamas šiai žvejybai ir
+įregistruotas Lietuvos Respublikos jūrų laivų registre ar Lietuvos Respublikos
+vidaus vandenų laivų registre bei įgaliotos klasifikacinės bendrovės išduotuose
+laivo dokumentuose turintis įrašą „Žvejybos laivas“. Lietuvos Respublikos
+žvejybos laivas, žvejojantis jūrų vandenyse, turi būti įregistruotas Žvejybos
+laivų rejestre.
+3. Mažasis laivas – bet kuris laivas,
+kurio korpuso ilgis ne didesnis kaip 20 metrų, išskyrus laivus, kurie yra
 pastatyti ir įrengti vilkti, stumti arba vilkti bortais sujungtus kitus negu
-mažasis laivas, laivus, taip pat laivus, galinčius vežti daugiau kaip 12
-keleivių, ir keltus. Mažiesiems laivams nepriskiriamos irklinės valtys, kurių keliamoji
-galia iki 100 kg, taip pat baidarės, kurių keliamoji galia iki 150 kg, ir
-burlentės.
-3. Pramoginis laivas – bet kurio tipo su
-įvairios rūšies jėgainėmis laivas, skirtas poilsiui, pramogoms bei sportui, ir
-kurio korpuso ilgis yra nuo 2,5 iki 24 metrų.
-4. Sportinis laivas – specialiai
+mažasis laivas laivus, taip pat laivus, galinčius vežti daugiau kaip 12
+keleivių, ir keltus. Mažiesiems laivams nepriskiriamos irklinės valtys, kurių
+keliamoji galia iki 100 kg, taip pat baidarės, kurių keliamoji galia iki 150
+kg, ir burlentės.
+4. Pramoginis laivas – bet kurio tipo ir
+bet kuriuo būdu varomas sportui ir pramogoms skirtas laivas, kurio korpuso
+ilgis yra nuo 2,5 iki 24 metrų.
+5. Sportinis laivas – specialiai
 sukonstruotas ir gamintojo atitinkamai pažymėtas laivas, skirtas tik sporto
 tikslams.
+6. Asmeninis laivas – trumpesnis kaip 4
+metrų laivas, naudojantis vidaus degimo variklį, turintį vandens srauto pompą
+kaip pirminį varymo šaltinį, ir suprojektuotas taip, kad jį sėdėdamas,
+stovėdamas ar klūpėdamas ant korpuso valdytų žmogus.
+7. Plūduriuojantis įrenginys –
+plaukiojantis įrenginys, turintis mechaninę įrangą ir skirtas darbui vidaus
+vandenų keliuose ir uostuose (žemkasė, žemsiurbė, dokas, plaukiojantis kranas
+ir kiti).
+8. Plūduriuojanti priemonė – nesavaeigis
+plūduriuojantis statinys (angaras, debarkaderis, mažųjų, pramoginių, sportinių
+ir asmeninių laivų stovėjimo įrenginys, vasarnamis, restoranas, valgykla,
+viešbutis, turistinis plaustas, maudykla ir kiti).
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
 Nr. IX-1214,
 2002-12-03, Žin., 2002, Nr. 123-5510 (2002-12-24)
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
  
 16 straipsnis. Vidaus vandenų laivų
 registravimas ir techninė priežiūra
-1. Vidaus vandenų laivai registruojami
-Lietuvos Respublikos vidaus vandenų laivų registre. Šį registrą tvarko Valstybinė
-vidaus vandenų laivybos inspekcija.
+1. Vidaus vandenų transporto priemonės
+registruojamos Lietuvos Respublikos vidaus vandenų laivų registre.
 2. Lietuvos Respublikos vidaus vandenų
-laivų registre registruojami:
-1) vidaus vandenų savaeigiai ir
-nesavaeigiai laivai;
-2) plaukiojantys kranai, žemkasės,
-žemsiurbės;
-3) mažieji, sportiniai ir pramoginiai
-savaeigiai ir nesavaeigiai, mažesni kaip 
-80 registro tonų, laivai;
-4) burinės ir motorinės jachtos, baidarės,
-kanojos, irklinės ir guminės valtys, kurių keliamoji galia per 130 kg,
-turistiniai plaustai, plaukiojantys vasarnamiai, mažųjų ir sportinių laivų
-stovėjimo įrenginiai (bazės), vandens
-dviračiai ir motociklai;
-5) taip pat gali būti registruojami statomi vidaus
-vandenų, mažieji, pramoginiai bei sportiniai laivai.
-3. Lietuvos Respublikos vidaus vandenų laivų registre
-įregistruoto laivo valdytojui išduodamas laivo bilietas, laivo tinkamumo
-plaukioti liudijimas, leidimas plaukioti su Lietuvos valstybės vėliava ir laivo
-įgulos minimalios sudėties liudijimas.
-4. Vidaus vandenų laivų registravimo
-tvarką ir sąlygas nustato Lietuvos Respublikos vidaus vandenų laivų registravimo
-taisyklės, kurias tvirtina susisiekimo ministras.
-5. Lietuvos Respublikos vidaus vandenų
-laivų registre įregistruotų laivų techninę priežiūrą atlieka Valstybinė vidaus
-vandenų laivybos inspekcija susisiekimo ministro nustatyta tvarka. Laivų techninė
-priežiūra atliekama apžiūrint laivus ir nuolat kontroliuojant jų techninę
-būklę. Laivui leidžiama plaukioti tik nustačius, kad jis atitinka saugios
-laivybos reikalavimus.
+laivų registrą steigia ir jo nuostatus tvirtina Lietuvos Respublikos
+Vyriausybė.
+3. Neteko galios nuo 2005 m. birželio 9 d.
+4. Neteko galios nuo 2005 m. birželio 9
+d.
+5. Lietuvos Respublikos
+vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių
+techninę priežiūrą atlieka Valstybinė vidaus vandenų laivybos inspekcija
+susisiekimo ministro nustatyta tvarka. Žvejybos laivams, plaukiojantiems
+Lietuvos Respublikos teritorinėje jūroje, taikomi techniniai reikalavimai,
+nustatyti Lietuvos Respublikos vidaus vandenų laivų registre įregistruotiems
+vidaus vandenų laivams. Vidaus vandenų transporto priemonių techninė priežiūra
+atliekama jas apžiūrint ir nuolat kontroliuojant jų techninę būklę. Vidaus
+vandenų transporto priemonei leidžiama plaukti tik nustačius, kad ji atitinka
+saugios laivybos reikalavimus.
 6. Burinių jachtų techninę priežiūrą
 atlieka Lietuvos buriuotojų sąjunga pagal su Susisiekimo ministerija suderintas
 Jachtų techninės priežiūros taisykles.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
 Nr. IX-1214,
 2002-12-03, Žin., 2002, Nr. 123-5510 (2002-12-24)
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
  
             17 straipsnis. Laivų valdytojai
             1. Laivo valdytojas yra savininkas ar
 kitas asmuo, kuris teisėtai naudojasi laivu.
 2. Perleidus nuosavybės teisę į laivą,
-sudarius laivo nuomos ar panaudos sutartį, duomenys apie naują valdytoją įrašomi
-į Lietuvos Respublikos vidaus vandenų laivų registrą.
+sudarius laivo nuomos ar panaudos sutartį, duomenys apie naują valdytoją
+įrašomi į Lietuvos Respublikos vidaus vandenų laivų registrą.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
@@ -384,9 +467,9 @@ Lietuvos Respublikos vidaus vandenų laivuose statutas (toliau - Tarnybos
 laivuose statutas) ir pareiginiai nuostatai.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
-Nr. VIII-1964, 00.09.26, Žin., 2000,
-Nr.85-2585 (00.10.11)
+Nr.75-2267 (00.09.07)
+Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585
+(00.10.11)
  
 19 straipsnis. Laivo įgula
 1. Laivo įgulą sudaro kapitonas
@@ -404,7 +487,7 @@ narių diplomavimo taisyklės, kurias, suderinusi su Susisiekimo ministerija,
 tvirtina Lietuvos buriuotojų sąjunga.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
@@ -449,6 +532,15 @@ pagalbos suteikimą priklausančio atlyginimo dydis nustatomas šiame susitarime
 savo išgelbėjimą.
             4. Asmenys, gelbėję žmones, turi teisę į
 dalį atlyginimo už turto gelbėjimą kartu su gelbėjusiais turtą žmonėmis.
+ 
+22(1) straipsnis. Laivybos sąvoka
+Laivyba – laivų ir kitų vidaus vandenų
+transporto priemonių plaukiojimas Lietuvos Respublikos vidaus vandenyse
+(prekybinė, pramoginė, žvejybinė, linijinė ir kitos laivybos rūšys). 
+Kodeksas
+papildytas straipsniu:
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
             
 PENKTASIS SKIRSNIS
 LAIVYBA
@@ -469,7 +561,7 @@ vidaus vandenų kelio juosta, tinkanti plaukioti tam tikrų matmenų laivams.
 pažymėta navigacijos ženklais arba nurodyta locmano žemėlapiuose.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
@@ -487,8 +579,8 @@ Valstybinę saugios laivybos vidaus
 vandenų keliuose priežiūrą atlieka Valstybinė vidaus vandenų laivybos
 inspekcija.
 Straipsnio pakeitimai:
-Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267
-(00.09.07), įsigalioja nuo 2000.10.01
+Nr. VIII-1900, 00.08.29, Žin., 2000,
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
@@ -499,7 +591,7 @@ registravimo ir tyrimo tvarką nustato Vidaus vandenų laivų avarijų tyrimo
 taisyklės, kurias tvirtina susisiekimo ministras.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
@@ -510,19 +602,22 @@ Nr. IX-289, 2001 04 19, Žin., 2001, Nr.
 39-1359 (2001 05 09)
             
 28 straipsnis. Valstybės rinkliava
-Už laivo
-įregistravimą, perregistravimą, išregistravimą, techninę apžiūrą ir atitinkamų
-dokumentų išdavimą mokama nustatyto dydžio valstybės rinkliava.
+Už laivo įregistravimą,
+išregistravimą, techninę apžiūrą, atitinkamų dokumentų bei licencijų, numatytų
+šio kodekso 4(1) straipsnyje, išdavimą mokama nustatyto dydžio
+valstybės rinkliava.
 Straipsnio pakeitimai:
 Nr. IX-289, 2001 04 19, Žin., 2001, Nr.
 39-1359 (2001 05 09)
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
  
-            29 straipsnis. Rinkliavos
-            1. Už naudojimąsi Lietuvos Respublikos
-uostais, vidaus vandenų keliais imamos rinkliavos.
-            2. Rinkliavų dydžius ir jų mokėjimo tvarką
-nustato Vyriausybė.
-            
+            29 straipsnis. Neteko galios nuo 2005 m. birželio 9 d.
+Straipsnio
+pakeitimai:
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
+ 
 SEPTINTASIS SKIRSNIS
 KELEIVIŲ IR BAGAŽO VEŽIMAS
             
@@ -545,22 +640,13 @@ pakeitimai:
 Nr. VIII-926,
 98.11.17, Žin., 1998, Nr.105-2897 (98.12.02)
  
-            31 straipsnis. Licencija (leidimas)
-verstis keleivių vežimu
-1. Vežti keleivius vidaus vandenų
-keliais turi teisę įmonės, įsteigtos Lietuvos Respublikoje ir turinčios
-licenciją (leidimą) verstis keleivių vežimu, taip pat įmonės, įsteigtos bet
-kurioje Europos Sąjungos ar Pasaulio prekybos organizacijos valstybėje narėje
-pagal šios valstybės narės įstatymus ir turinčios šios valstybės narės
-kompetentingų institucijų išduotą dokumentą, suteikiantį teisę vežti keleivius
-laivais tarptautiniais maršrutais.
-            2. Licenciją (leidimą) verstis keleivių
-vežimu vidaus vandenų keliais Vyriausybės nustatyta tvarka išduoda Susisiekimo
-ministerija.
+            31 straipsnis. Neteko galios nuo 2005 m. birželio 9 d.
 Straipsnio
 pakeitimai:
 Nr. IX-1214,
 2002-12-03, Žin., 2002, Nr. 123-5510 (2002-12-24)
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
             
             32 straipsnis. Keleivio bilietas
             1. Keleivio bilietas - keleivio vežimo
@@ -583,11 +669,11 @@ bagažą - už nustatytą užmokestį;
 valdytojo ar jei yra laivų valdytojų susitarimas - kitais laivais, kai laivas
 dėl kokių nors priežasčių negali plaukti;
             5) nutraukti keleivio ir bagažo vežimo
-sutartis ir, grąžinęs į kasą bilietą arba bagažo kvitą, gauti sumokėtus
-pinigus. Kai keleivio vežimo sutartis nutraukiama ne dėl nuo keleivio
-priklausančių priežasčių, pinigai už bilietą grąžinami proporcingai nuo bilieto
-grąžinimo laiko Keleivių ir bagažo vežimo vidaus vandenų transportu taisyklėse
-nustatyta tvarka.
+sutartis ir, grąžinęs į kasą bilietą arba bagažo kvitą, gauti sumokėtus pinigus.
+Kai keleivio vežimo sutartis nutraukiama ne dėl nuo keleivio priklausančių
+priežasčių, pinigai už bilietą grąžinami proporcingai nuo bilieto grąžinimo
+laiko Keleivių ir bagažo vežimo vidaus vandenų transportu taisyklėse nustatyta
+tvarka.
             
             34 straipsnis. Keleivio pareigos
             1. Keleivis privalo:
@@ -623,11 +709,18 @@ tvarką nustato Keleivių ir bagažo vežimo vidaus vandenų transportu taisykl�
 AŠTUNTASIS SKIRSNIS
 KROVINIO IR PAŠTO VEŽIMAS
             
-            38 straipsnis. Krovinio vežimo sutartis
-            Krovinio vežimo sutartyje vežėjas pagal
-priimtą užsakymą įsipareigoja priimti krovinį, pateikti laivą, pagal važtaraštį
-nugabenti patikėtą jam krovinį į paskirties punktą ir išduoti jį gavėjui, o
-siuntėjas įsipareigoja pateikti krovinį ir už jo vežimą sumokėti nustatytą užmokestį.
+38 straipsnis. Krovinio vežimo sutartis
+Krovinio vežimo sutartyje
+vežėjas pagal priimtą užsakymą įsipareigoja priimti krovinį, pateikti laivą,
+pagal važtaraštį nugabenti patikėtą jam krovinį į paskirties punktą ir išduoti
+jį gavėjui, o siuntėjas įsipareigoja pateikti krovinį ir už jo vežimą sumokėti
+nustatytą užmokestį. Krovinio vežimo vidaus vandenų laivais tvarką
+nustato krovinių vežimo vidaus vandenų laivais taisyklės, kurias tvirtina
+susisiekimo ministras.
+Straipsnio
+pakeitimai:
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
             
             39 straipsnis. Užsakymas
             1. Užsakymas - siuntėjo pasiūlymas jo
@@ -679,7 +772,7 @@ du išduodami vežėjui.
 krovinio įvertinimą, įpakavimą (tarą) ir kitos.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
@@ -693,7 +786,7 @@ ministerija, o jo įgula turi būti sukomplektuota taip, kad užtikrintų saugų
 krovinio vežimą iki paskirties punkto.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
@@ -712,7 +805,7 @@ vežėjas parašu ir kalendoriniu spaudu važtaraštyje patvirtina krovinio
 priėmimą.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
@@ -723,9 +816,9 @@ jeigu sutartyje nenumatyta kitaip.
             2. Vežėjas privalo tikrinti, ar krovinių
 pakrovimas, išdėstymas, tvirtinimas laive atitinka technines sąlygas,
 nustatytas Krovinių vežimo vidaus vandenų keliais taisyklėse.
-            3. Visi siuntėjui priklausantys krovinių
-įtvirtinimai ir medžiagos, įtraukti į važtaraštį, vežami kaip krovinys ir
-išduodami gavėjui kartu su kroviniu paskirties punkte.
+            3. Visi siuntėjui priklausantys krovinių įtvirtinimai
+ir medžiagos, įtraukti į važtaraštį, vežami kaip krovinys ir išduodami gavėjui
+kartu su kroviniu paskirties punkte.
             
             44 straipsnis. Krovinio vežimo, pakrovimo
 ir iškrovimo terminai
@@ -776,37 +869,35 @@ gendančių krovinių pristatymo termino, arba jeigu krovinio kiekio (svorio)
 trūksta ar yra sužalojimų, vežėjas ir gavėjas tai pažymi važtaraštyje ir
 patvirtina parašais. 
 5. Gavėjas gali
-atsisakyti priimti krovinį, kai krovinį
-sužalojus ar pablogėjus jo kokybei visiškai ar iš dalies negalima krovinio
+atsisakyti priimti krovinį, kai krovinį sužalojus ar pablogėjus jo kokybei
+visiškai ar iš dalies negalima krovinio
 naudoti pagal tikslinę jo paskirtį.
 6. Jeigu perduodant krovinį gavėjui,
 kyla ginčų dėl krovinio plombų, krovinio būklės ar krovinio kiekio (svorio),
 kviečiamas ekspertas.
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000,
-Nr.75-2267 (00.09.07), įsigalioja nuo 2000.10.01
+Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 Nr.85-2585 (00.10.11)
  
             48 straipsnis. Krovinio saugojimas
             1. Krovinio gavėjas privalo laiku priimti
 ir išgabenti iš uosto ar prieplaukos krovinį.
-            2. Krovinys paskirties uoste ar prieplaukoje
-nemokamai saugomas 24 val. neskaičiuojant krovinio atgabenimo dienos. Po šio
-termino už kiekvieną saugojimo parą imamas sutartyje ar Krovinių vežimo vidaus
-vandenų keliais taisyklėse nustatyto dydžio užmokestis.
+            2. Krovinys paskirties uoste ar
+prieplaukoje nemokamai saugomas 24 val. neskaičiuojant krovinio atgabenimo
+dienos. Po šio termino už kiekvieną saugojimo parą imamas sutartyje ar Krovinių
+vežimo vidaus vandenų keliais taisyklėse nustatyto dydžio užmokestis.
             3. Jeigu krovinio išdavimas vilkinamas dėl
 vežėjo kaltės, užmokestis už krovinio saugojimą nemokamas.
             4. Krovinio saugojimo uoste ar
 prieplaukoje tvarką nustato Krovinių vežimo vidaus vandenų keliais taisyklės.
             
-            49 straipsnis. Licencija (leidimas)
-verstis krovinių vežimu tarptautiniais 
-maršrutais
-            Vežti krovinius tarptautiniais maršrutais
-turi teisę įmonės, turinčios licenciją (leidimą) verstis krovinių vežimu
-tarptautiniais maršrutais. Šias licencijas (leidimus) išduoda Susisiekimo
-ministerija Vyriausybės nustatyta tvarka.
+            49 straipsnis. Neteko galios nuo 2005 m. birželio 9 d.
+Straipsnio
+pakeitimai:
+Nr. X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
             
             50 straipsnis. Krovinių vežimų ribojimas
 ar uždraudimas dėl nenugalimos jėgos 
@@ -817,8 +908,8 @@ kelių techninę būklę, hidrometeorologijos tarnybų informaciją bei kitus
 pranešimus.
             2. Jeigu dėl nenugalimos jėgos ar kitų
 įvykių, trukusių ilgiau kaip 24 val., buvo sustabdyti ar uždrausti krovinių
-vežimai, uosto ar prieplaukos administracija privalo apie tai pranešti
-nurodydama priežastį ir sustabdymo trukmę siuntėjui ar gavėjui.
+vežimai, uosto ar prieplaukos administracija privalo apie tai pranešti nurodydama
+priežastį ir sustabdymo trukmę siuntėjui ar gavėjui.
             3. Jeigu dėl nurodytų priežasčių uosto ar
 prieplaukos darbas nutraukiamas ilgiau kaip 48 val., apie tai skelbiama
 visuomenės informavimo priemonėse nurodant priežastį ir nutraukimo trukmę.
@@ -848,8 +939,8 @@ BUKSYRAVIMAS
 tikrą laiką, taip pat atlikti manevrą, o stumiamo ar velkamo laivo valdytojas
 įsipareigoja sumokėti nustatytą užmokestį.
             2. Buksyravimo sutartis gali būti sudaryta
-rašytine forma ar kitu šalių pasirinktu būdu (pasikeičiant raštais, telefonogramomis,
-faksogramomis ir kt.).
+rašytine forma ar kitu šalių pasirinktu būdu (pasikeičiant raštais,
+telefonogramomis, faksogramomis ir kt.).
             
             54 straipsnis. Nesavaeigių laivų
 parengimas buksyravimui
@@ -934,9 +1025,9 @@ siuntėjo krovinį ar bagažą, atsako už žalą, padarytą dėl krovinio ar ba
 praradimo, trūkumo ar sužalojimo.
             3. Vežimu laikomas laikotarpis, per kurį
 krovinys ar bagažas buvo vežėjo žinioje neatsižvelgiant į tai, ar jis buvo
-laive, uoste, prieplaukoje ar kitoje vietoje. Jeigu vežėjas atliko priimto krovinio
-ar bagažo pakrovimą, perkrovimą ar perdavimą, tai padaryta tokiu metu žala
-laikoma atsiradusia vežimo laivu metu.
+laive, uoste, prieplaukoje ar kitoje vietoje. Jeigu vežėjas atliko priimto
+krovinio ar bagažo pakrovimą, perkrovimą ar perdavimą, tai padaryta tokiu metu
+žala laikoma atsiradusia vežimo laivu metu.
             
             63 straipsnis. Atsakomybė už pavėluotą
 vežimą
@@ -1134,11 +1225,22 @@ Nr. IX-1942,
 VIDAUS
 VANDENŲ TRANSPORTO KODEKSO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-224, 2005-05-26,
+Žin., 2005, Nr. 72-2589 (2005-06-09)
+VIDAUS
+VANDENŲ TRANSPORTO KODEKSO 2, 4(1), 9, 10, 13, 14, 15, 16, 28, 38 STRAIPSNIŲ
+PAKEITIMO, KODEKSO PAPILDYMO 22(1) STRAIPSNIU IR 29, 31, 49 STRAIPSNIŲ
+PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2004-01-07)
+Aušrinė Trapinskienė (2005-06-15)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
