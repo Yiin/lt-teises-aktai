@@ -1050,15 +1050,14 @@ pateikti iki 2003 m. balandžio 1 d. Jeigu pilietis iki 2003 m. balandžio 1 d.
 nepareiškia valios dėl būdo, kuriuo atkuriamos nuosavybės teisės į
 nekilnojamąjį turtą, atkūrimo būdą parenka šio įstatymo 17 straipsnyje
 nurodytos institucijos.
-4.
-Pilietis iki 2004 m. liepos 1 d. gali pakeisti pareikštą valią, kad jam už
-valstybės išperkamą turtą būtų atlyginta pinigais, ir prašyti už išperkamą
-turtą atlyginti vertybiniais popieriais. Jeigu sprendimas priimtas, bet
-nepradėtas vykdyti, piliečio prašymu šio įstatymo 17 straipsnyje nurodytos
-institucijos jį pakeičia administracine tvarka, o jei sprendimas pradėtas
-vykdyti, jis gali būti panaikinamas Vyriausybės nustatyta tvarka. Prašymus dėl
-priimtų sprendimų pakeitimo ir panaikinimo piliečiai turi pateikti iki 2004 m.
-liepos 1 d.
+4. Pilietis iki 2005 m. gruodžio 31 d. gali
+pakeisti pareikštą valią, kad jam už valstybės išperkamą turtą būtų atlyginta
+pinigais, ir prašyti už išperkamą turtą atlyginti vertybiniais popieriais. Jeigu
+sprendimas priimtas, bet nepradėtas vykdyti, piliečio prašymu šio įstatymo 17
+straipsnyje nurodytos institucijos jį pakeičia administracine tvarka, o jei
+sprendimas pradėtas vykdyti, jis gali būti panaikinamas Vyriausybės nustatyta
+tvarka. Prašymus dėl priimtų sprendimų pakeitimo ir panaikinimo piliečiai turi
+pateikti iki 2005 m. gruodžio 31 d.
 5. Piliečiams, kuriems gali būti taikomos šio
 įstatymo 4 straipsnio 8 dalies nuostatos, per 6 mėnesius nuo šio įstatymo
 įsigaliojimo dienos turi būti pateikti raštiški siūlymai dėl jų galimybės gauti
@@ -1094,8 +1093,8 @@ Straipsnio pakeitimai:
 Nr. VIII-1181, 99.05.13, Žin.,
 1999, Nr.48-1522 (99.06.02)
 Nr.
-IX-489,
-2001-08-03, Žin., 2001, Nr. 71-2518 (2001-08-17)
+IX-489, 2001-08-03,
+Žin., 2001, Nr. 71-2518 (2001-08-17)
 Nr. IX-708,
 2002-01-15, Žin., 2002, Nr. 5-161 (2002-01-18)
 Nr. IX-832,
@@ -1104,18 +1103,19 @@ Nr. IX-1139,
 2002-10-15, Žin., 2002, Nr. 102-4552 (2002-10-25)
 Nr. IX-1759,
 2003-10-14, Žin., 2003, Nr. 101-4542 (2003-10-29)
+Nr. X-223, 2005-05-26,
+Žin., 2005, Nr. 72-2588 (2005-06-09)
  
 22
 straipsnis. Netekę galios teisės aktai 
 Įsigaliojus
 šiam įstatymui, netenka galios:
 1)
-Lietuvos Respublikos įstatymas “Dėl piliečių nuosavybės teisių į išlikusį
-nekilnojamąjį turtą atstatymo tvarkos ir sąlygų” (Žin.1991, Nr.21-545; 1992,
-Nr.3-40, Nr.7-155, Nr.11-278, 
-Nr.15-405; 1993, Nr.5-83, Nr.32-725; 1994, Nr.7-100, Nr.14-229, Nr.43-778;
-1995, Nr.39-965, 
-Nr.50-1226, Nr.59-1465, Nr.85-1916, Nr.103-2299; 1996, Nr.37-929);
+Lietuvos Respublikos įstatymas “Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį
+turtą atstatymo tvarkos ir sąlygų” (Žin.1991, Nr.21-545; 1992, Nr.3-40,
+Nr.7-155, Nr.11-278, Nr.15-405; 1993, Nr.5-83, Nr.32-725; 1994, Nr.7-100,
+Nr.14-229, Nr.43-778; 1995, Nr.39-965, Nr.50-1226, Nr.59-1465, Nr.85-1916,
+Nr.103-2299; 1996, Nr.37-929);
 2)
 Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas “Dėl Lietuvos
 Respublikos įstatymo “Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį
@@ -1159,16 +1159,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1866, 00.07.18, Žin., 2000,
 Nr.64-1934 (00.07.31)
 PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ
-TURTĄ ATKŪRIMO ĮSTATYMO 
-4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+TURTĄ ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1995, 00.10.10, Žin., 2000,
 Nr.89-2753 (00.10.25)
 PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ
-TURTĄ ATKŪRIMO ĮSTATYMO 
-2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+TURTĄ ATKŪRIMO ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1214,8 +1212,8 @@ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 2, 
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-822, 2002-03-28,
-Žin., 2002, Nr. 40-1464 (2002-04-17)
+IX-822,
+2002-03-28, Žin., 2002, Nr. 40-1464 (2002-04-17)
 PILIEČIŲ
 NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 4 IR 12
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
@@ -1266,8 +1264,8 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1759, 2003-10-14,
-Žin., 2003, Nr. 101-4542 (2003-10-29)
+IX-1759,
+2003-10-14, Žin., 2003, Nr. 101-4542 (2003-10-29)
 PILIEČIŲ
 NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 2, 10, 12,
 15, 17, 20, 21 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
@@ -1292,6 +1290,16 @@ PILIEČIŲ
 NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 10
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+17.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-223,
+2005-05-26, Žin., 2005, Nr. 72-2588 (2005-06-09)
+PILIEČIŲ
+NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 21
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
@@ -1305,8 +1313,8 @@ Respublikos Konstitucinis Teismas, Nutarimas
 10 27, Žin., 1998, Nr. 95-2642 (1998 10 30)
 DĖL
 LIETUVOS RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ
-ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO 1, 4, 9 IR 11 DALIŲ, 8 STRAIPSNIO 1 DALIES, 
-15 STRAIPSNIO 2 PUNKTO IR 20 STRAIPSNIO 1, 2, 3 BEI 4 DALIŲ ATITIKIMO LIETUVOS
+ATKŪRIMO ĮSTATYMO 4 STRAIPSNIO 1, 4, 9 IR 11 DALIŲ, 8 STRAIPSNIO 1 DALIES, 15
+STRAIPSNIO 2 PUNKTO IR 20 STRAIPSNIO 1, 2, 3 BEI 4 DALIŲ ATITIKIMO LIETUVOS
 RESPUBLIKOS KONSTITUCIJAI
  
 2.
@@ -1314,13 +1322,12 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2001 04 02, Žin., 2001, Nr. 29-938 (2001 04 04)
 DĖL LIETUVOS RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į
 IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO ĮSTATYMO 5 STRAIPSNIO 2, 3, 4 IR 5 DALIŲ,
-12 STRAIPSNIO 3 PUNKTO, 
-16 STRAIPSNIO 3 DALIES IR ŠIO STRAIPSNIO 9 DALIES 5 PUNKTO ATITIKTIES LIETUVOS
-RESPUBLIKOS KONSTITUCIJAI IR DĖL ŠIO ĮSTATYMO 5 STRAIPSNIO 2, 3, 4 BEI 5 DALIŲ
-IR 
-12 STRAIPSNIO 3 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJOS 47
-STRAIPSNIO ANTROJOJE DALYJE NUMATYTO ŽEMĖS SKLYPŲ ĮSIGIJIMO NUOSAVYBĖN
-SUBJEKTŲ, TVARKOS, SĄLYGŲ IR APRIBOJIMŲ KONSTITUCINIO ĮSTATYMO 8 STRAIPSNIUI
+12 STRAIPSNIO 3 PUNKTO, 16 STRAIPSNIO 3 DALIES IR ŠIO STRAIPSNIO 9 DALIES 5
+PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR DĖL ŠIO ĮSTATYMO 5
+STRAIPSNIO 2, 3, 4 BEI 5 DALIŲ IR 12 STRAIPSNIO 3 PUNKTO ATITIKTIES LIETUVOS
+RESPUBLIKOS KONSTITUCIJOS 47 STRAIPSNIO ANTROJOJE DALYJE NUMATYTO ŽEMĖS SKLYPŲ
+ĮSIGIJIMO NUOSAVYBĖN SUBJEKTŲ, TVARKOS, SĄLYGŲ IR APRIBOJIMŲ KONSTITUCINIO
+ĮSTATYMO 8 STRAIPSNIUI
  
 3.
 Lietuvos
@@ -1339,15 +1346,15 @@ IR 4 DALIŲ, 16 STRAIPSNIO 10 DALIES, 20 STRAIPSNIO (2002 M. SPALIO 29 D.
 REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR DĖL LIETUVOS
 RESPUBLIKOS VYRIAUSYBĖS 1994 M. SAUSIO 17 D. NUTARIMO NR. 27 „DĖL GYVENAMŲJŲ
 NAMŲ, BŪTINŲ VALSTYBĖS REIKMĖMS, IŠPIRKIMO" ATITIKTIES LIETUVOS
-RESPUBLIKOS KONSTITUCIJAI BEI LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL PILIEČIŲ NUOSAVYBĖS
-TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR SĄLYGŲ" 14
-STRAIPSNIUI (1993 M. SAUSIO 12 D. REDAKCIJA)
+RESPUBLIKOS KONSTITUCIJAI BEI LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL PILIEČIŲ
+NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATSTATYMO TVARKOS IR
+SĄLYGŲ" 14 STRAIPSNIUI (1993 M. SAUSIO 12 D. REDAKCIJA)
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-10-26)
+Aušrinė Trapinskienė (2005-06-10)
                  
 autrap@lrs.lt
