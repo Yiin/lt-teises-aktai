@@ -18,7 +18,6 @@ paskelbtas: Žin., 1997, Nr. 2-16
 Neoficialus
 įstatymo tekstas
  
- 
 LIETUVOS RESPUBLIKOS
 NACIONALINIO SAUGUMO
 PAGRINDŲ
@@ -31,8 +30,8 @@ Vilnius
 1. Šis įstatymas nustato Lietuvos
 nacionalinio saugumo užtikrinimo pagrindus, kurie išdėstyti priedėlyje.
 2. Lietuvos nacionalinio saugumo
-užtikrinimas - tai Tautos ir valstybės laisvos ir demokratinės raidos sąlygų
-sudarymas, Lietuvos valstybės nepriklausomybės, jos teritorinio vientisumo ir
+užtikrinimas - tai Tautos ir valstybės laisvos ir demokratinės raidos sąlygų sudarymas,
+Lietuvos valstybės nepriklausomybės, jos teritorinio vientisumo ir
 konstitucinės santvarkos apsauga ir gynimas.
 3. Lietuvos nacionalinio saugumo
 sistemą sudaro valstybės ir piliečių veiklos šiam tikslui patvirtintų
@@ -628,9 +627,9 @@ LIETUVOS GYNYBOS PAGRINDAI
 Lietuvos suvereniteto,
 teritorijos vientisumo ir konstitucinės santvarkos gynimas bei gynybos
 institucijų veikla grindžiama Konstitucija, reguliuojama įstatymų ir kitų
-Lietuvos teisės aktų, taip pat tarptautinių teisės aktų, kuriuos Lietuva yra
-ratifikavusi arba prie kurių prisijungusi. Lietuva numato pasinaudoti ir kitais
-tarptautinės teisės aktais, kurių principus ir normas ji gerbia. 
+Lietuvos teisės aktų, taip pat tarptautinių teisės aktų, kuriuos Lietuva yra ratifikavusi
+arba prie kurių prisijungusi. Lietuva numato pasinaudoti ir kitais tarptautinės
+teisės aktais, kurių principus ir normas ji gerbia. 
 Konstitucijos kertinės normos,
 tiesiogiai reglamentuojančios valstybės gynybos klausimus, yra: 
 - Konstitucijos 3 straipsnio
@@ -969,9 +968,9 @@ ORGANIZACIJOJE
 Lietuvos narystė
 Europos Sąjungoje ir Šiaurės Atlanto sutarties organizacijoje remiasi idealų ir
 vertybių bendrumu. 
-Lietuva įgyvendina Europos Sąjungos
-teisyną, dalyvauja jos institucijų veikloje ir bendroje Europos Sąjungos
-saugumo ir gynybos politikoje.
+Lietuva įgyvendina Europos
+Sąjungos teisyną, dalyvauja jos institucijų veikloje ir bendroje Europos
+Sąjungos saugumo ir gynybos politikoje.
 Lietuva imasi atsakomybės už savo
 suvereniteto bei teritorijos gynybą, stiprina ir išlaiko savo krašto apsaugos
 sistemą, kaip NATO kolektyvinės gynybos sistemos dalį. 
@@ -1341,12 +1340,13 @@ būstinėje užtikrinimą ir aktyvų dalyvavimą politiniame derinime siekiant N
 narių konsensuso strateginiais klausimais; vadovauja Lietuvos Respublikos
 diplomatinių atstovybių užsienio valstybėse ir tarptautinėse organizacijose
 veiklai; koordinuoja ir kontroliuoja Lietuvos Respublikos tarptautinių sutarčių
-rengimą ir sudarymą su užsienio valstybėmis ir tarptautinėmis organizacijomis; įgyvendina
-Lietuvos Respublikos Vyriausybės nutarimus dėl stojimo į tarptautines
-organizacijas ir prisijungimo prie daugiašalių tarptautinių sutarčių;
-organizuoja tarptautinių sutarčių ir Lietuvos Respublikos įstatymų bei kitų
-teisės aktų tarptautinių santykių klausimais vykdymo kontrolę; atlieka kitas
-įstatymų ir Lietuvos Respublikos Vyriausybės nutarimų nustatytas funkcijas.
+rengimą ir sudarymą su užsienio valstybėmis ir tarptautinėmis organizacijomis;
+įgyvendina Lietuvos Respublikos Vyriausybės nutarimus dėl stojimo į
+tarptautines organizacijas ir prisijungimo prie daugiašalių tarptautinių
+sutarčių; organizuoja tarptautinių sutarčių ir Lietuvos Respublikos įstatymų
+bei kitų teisės aktų tarptautinių santykių klausimais vykdymo kontrolę; atlieka
+kitas įstatymų ir Lietuvos Respublikos Vyriausybės nutarimų nustatytas
+funkcijas.
 Skyriaus
 pakeitimai:
 Nr. VIII-770,
@@ -1362,17 +1362,17 @@ skyrius
 KRAŠTO
 APSAUGOS SISTEMA
  
-Krašto apsaugos sistemą sudaro
-Krašto apsaugos ministerija, kariuomenė (ginkluotosios pajėgos), Lietuvos karo
-akademija, puskarininkių mokykla ir kitos karo mokymo įstaigos, žvalgybos ir
-kontržvalgybos tarnyba (Antrasis operatyvinių tarnybų departamentas prie Krašto
-apsaugos ministerijos), karo prievolės ir mobilizacijos bei kitos krašto
-apsaugos ministrui pavaldžios valstybės institucijos, krašto apsaugos reikmėms
-paskirti infrastruktūros objektai ir įmonės. Krašto apsaugos ministerija yra
-vadovaujanti krašto apsaugos sistemos institucija. Ministerijos integrali dalis
-yra Gynybos štabas, tiesiogiai pavaldus kariuomenės vadui. Krašto apsaugos
-ministerijos ir visos krašto apsaugos sistemos struktūrą bei veiklą išsamiau
-reglamentuoja kiti įstatymai ir kiti teisės aktai.
+Krašto apsaugos
+sistemą sudaro Krašto apsaugos ministerija, kariuomenė (ginkluotosios pajėgos),
+Generolo Jono Žemaičio Lietuvos karo akademija, puskarininkių mokykla ir kitos
+karo mokymo įstaigos, žvalgybos ir kontržvalgybos tarnyba (Antrasis
+operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos), karo
+prievolės ir mobilizacijos bei kitos krašto apsaugos ministrui pavaldžios
+institucijos, krašto apsaugos reikmėms skirtos karinės teritorijos, kiti
+infrastruktūros objektai, įmonės bei įstaigos. Krašto apsaugos
+ministerija yra vadovaujanti krašto apsaugos sistemos institucija. Krašto
+apsaugos ministerijos ir visos krašto apsaugos sistemos struktūrą bei veiklą
+išsamiau reglamentuoja kiti įstatymai ir teisės aktai.
 Krašto apsaugos
 ministerijos ir visos krašto apsaugos sistemos veiklai vadovauja krašto
 apsaugos ministras. Jis atsako už gynybos politikos įgyvendinimą, krašto
@@ -1443,6 +1443,8 @@ IX-1524,
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2554,
 2004-11-09, Žin., 2004, Nr. 171-6308 (2004-11-26)
+Nr. X-226, 2005-05-26,
+Žin., 2005, Nr. 72-2591 (2005-06-09)
  
 19 skyrius
 VIDAUS REIKALŲ MINISTERIJA, POLICIJA IR KITOS MINISTERIJOS VALDYMO
@@ -1461,10 +1463,10 @@ ministerijos vidaus tarnybos daliniai reorganizuojami į policijos viešojo
 saugumo dalinį (tarnybą), kuris yra tiesiogiai pavaldus vidaus reikalų
 ministrui. Šio dalinio (tarnybos) funkcijas ir panaudojimo tvarką reglamentuoja
 Policijos veiklos įstatymas.
-Valstybės finansų sistemos
-apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų tyrimo
-tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus reglamentuoja
-įstatymas.
+Valstybės finansų
+sistemos apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų
+tyrimo tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus
+reglamentuoja įstatymas.
 Lietuvos Respublikos vadovybės ir
 oficialių svečių apsaugą nuo teroro aktų, smurto ir kitokio
 kėsinimosi bei su šio uždavinio įgyvendinimu susijusių saugomų objektų apsaugą
@@ -1563,9 +1565,9 @@ Jeigu reikia, katastrofoms ir
 kitoms didelio masto nelaimėms įveikti, gelbėjimo darbams dirbti bei
 padariniams šalinti pasitelkiama ir kariuomenė, specialistai iš mobilizacinio
 rezervo, ministerijų, kitų valstybės ir savivaldybių institucijų bei įstaigų,
-panaudojami joms priklausantys ištekliai, pasitelkiami savaveiksmių organizacijų
-savanoriai. Šio telkimo ir dalyvavimo darbuose sąlygas ir tvarką nustato
-įstatymas.
+panaudojami joms priklausantys ištekliai, pasitelkiami savaveiksmių
+organizacijų savanoriai. Šio telkimo ir dalyvavimo darbuose sąlygas ir tvarką
+nustato įstatymas.
 Skyriaus
 pakeitimai:
 Nr.
@@ -1646,8 +1648,8 @@ tobulinant jų veiklą.
 Skyriaus
 pakeitimai:
 Nr.
-IX-1524,
-2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
+IX-1524, 2003-04-22,
+Žin., 2003, Nr. 42-1922 (2003-05-01)
  
 ________________
 Pakeitimai:
@@ -1732,8 +1734,16 @@ NACIONALINIO SAUGUMO PAGRINDŲ
 9.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-2554, 2004-11-09,
-Žin., 2004, Nr. 171-6308 (2004-11-26)
+Nr. IX-2554,
+2004-11-09, Žin., 2004, Nr. 171-6308 (2004-11-26)
+NACIONALINIO SAUGUMO PAGRINDŲ
+ĮSTATYMO PRIEDĖLIO 18 SKYRIAUS PAKEITIMO ĮSTATYMAS
+ 
+10.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-226, 2005-05-26,
+Žin., 2005, Nr. 72-2591 (2005-06-09)
 NACIONALINIO SAUGUMO PAGRINDŲ
 ĮSTATYMO PRIEDĖLIO 18 SKYRIAUS PAKEITIMO ĮSTATYMAS
  
@@ -1742,6 +1752,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-11-30)
+Aušrinė Trapinskienė (2005-06-13)
                  
 autrap@lrs.lt
