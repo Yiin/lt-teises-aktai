@@ -13,17 +13,22 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BAEF9ECD886E"
 
 # Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos įstatymas
 
-Suvestinė redakcija nuo 2004-10-01 iki 2005-05-27
+Suvestinė redakcija nuo 2005-05-28 iki 2008-06-02
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1717, i. k. 0961010ISTA00I-1485
  
 Nauja redakcija nuo 2004-10-01:
 Nr. IX-2259, 2004-06-01, Žin. 2004, Nr. 96-3525 (2004-06-19), i. k. 1041010ISTA0IX-2259
  
-LIETUVOS RESPUBLIKOS 
-GINKLŲ FONDO
+ 
+LIETUVOS RESPUBLIKOS
+ GINKLŲ FONDO PRIE LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 
+ 
  
 Į S T A T Y M A S
+ 
+Pakeistas teisės akto pavadinimas:
+Nr. X-184, 2005-05-12, Žin., 2005, Nr. 67-2396 (2005-05-28), i. k. 1051010ISTA000X-184
  
 
 PIRMASIS SKIRSNIS
@@ -35,14 +40,20 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato Lietuvos Respublikos ginklų fondo teisinį statusą, veiklos teisinius pagrindus, uždavinius, funkcijas, struktūrą ir finansavimą.
+Šis įstatymas nustato Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos Vyriausybės teisinį statusą, veiklos teisinius pagrindus, uždavinius, funkcijas, struktūrą ir finansavimą.
+
+Straipsnio pakeitimai:
+Nr. X-184, 2005-05-12, Žin., 2005, Nr. 67-2396 (2005-05-28), i. k. 1051010ISTA000X-184
  
 
-2 straipsnis. Lietuvos Respublikos ginklų fondas 
+2 straipsnis. Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės
 
-1. Lietuvos Respublikos ginklų fondas (toliau – Ginklų fondas) yra Vyriausybės įsteigta Vyriausybės įstaiga, aprūpinanti valstybės institucijas, juridinius ir fizinius asmenis ginklais, šaudmenimis, sprogmenimis, specialiosiomis priemonėmis ir atliekanti kitas šiame įstatyme nustatytas funkcijas. 
+1. Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės (toliau – Ginklų fondas) yra Vyriausybės įsteigta Vyriausybės įstaiga, aprūpinanti valstybės institucijas, juridinius ir fizinius asmenis ginklais, šaudmenimis, sprogmenimis, specialiosiomis priemonėmis ir atliekanti kitas šiame įstatyme nustatytas funkcijas. 
 
-2. Ginklų fondas yra viešasis juridinis asmuo, turintis sąskaitų banke ir antspaudą su Lietuvos valstybės herbu bei pavadinimu „Lietuvos Respublikos ginklų fondas“.
+2. Ginklų fondas yra viešasis juridinis asmuo, turintis sąskaitų banke ir antspaudą su Lietuvos valstybės herbu bei pavadinimu „Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės.
+
+Straipsnio pakeitimai:
+Nr. X-184, 2005-05-12, Žin., 2005, Nr. 67-2396 (2005-05-28), i. k. 1051010ISTA000X-184
  
 
 3 straipsnis. Ginklų fondo veiklos teisiniai pagrindai
@@ -153,4 +164,9 @@ Lietuvos Respublikos ginklų fondo įstatymo 2 straipsnio pakeitimo ir papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2259, 2004-06-01, Žin., 2004, Nr. 96-3525 (2004-06-19), i. k. 1041010ISTA0IX-2259
 Lietuvos Respublikos ginklų fondo įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-184, 2005-05-12, Žin., 2005, Nr. 67-2396 (2005-05-28), i. k. 1051010ISTA000X-184
+Lietuvos Respublikos ginklų fondo įstatymo pavadinimo, 1 ir 2 straipsnių pakeitimo įstatymas
 
