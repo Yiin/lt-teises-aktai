@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2005-05-27
+Suvestinė redakcija nuo 2005-05-28 iki 2006-06-27
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
  
@@ -676,7 +676,10 @@ Nepaprastosios padėties metu gali būti taikomos šios nepaprastosios priemonė
 
 
 
-4) draudimas išduoti leidimus ribotos civilinės apyvartos ginklams įsigyti bei jais prekiauti, taip pat laikyti šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas ar priemones, sprogmenis, laikinas jų paėmimas iš Lietuvos gyventojų, įstaigų ir organizacijų (išskyrus krašto apsaugos sistemos institucijų karius ir tarnautojus, prokuratūros, Specialiųjų tyrimų tarnybos, Valstybės saugumo departamento, vidaus reikalų sistemos pareigūnus, Ginklų fondą prie Lietuvos Respublikos Vyriausybės, Kalėjimų departamentą prie Teisingumo ministerijos ir Muitinės departamentą prie Finansų ministerijos bei Lietuvos banką);
+4) draudimas išduoti leidimus ribotos civilinės apyvartos ginklams įsigyti bei jais prekiauti, taip pat laikyti šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas ar priemones, sprogmenis, laikinas jų paėmimas iš Lietuvos gyventojų, įstaigų ir organizacijų (išskyrus krašto apsaugos sistemos institucijų karius ir tarnautojus, prokuratūros, Specialiųjų tyrimų tarnybos, Valstybės saugumo departamento, vidaus reikalų sistemos pareigūnus, Lietuvos Respublikos ginklų fondą prie Lietuvos Respublikos Vyriausybės, Kalėjimų departamentą prie Teisingumo ministerijos ir Muitinės departamentą prie Finansų ministerijos bei Lietuvos banką);
+Straipsnio punkto pakeitimai:
+Nr. X-187, 2005-05-12, Žin., 2005, Nr. 67-2399 (2005-05-28), i. k. 1051010ISTA000X-187
+ 
 
 
 
@@ -875,3 +878,8 @@ Lietuvos Respublikos nepaprastosios padėties įstatymo 20 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1468, 2003-04-03, Žin., 2003, Nr. 38-1713 (2003-04-24), i. k. 1031010ISTA0IX-1468
 Lietuvos Respublikos nepaprastosios padėties įstatymo 19 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-187, 2005-05-12, Žin., 2005, Nr. 67-2399 (2005-05-28), i. k. 1051010ISTA000X-187
+Lietuvos Respublikos nepaprastosios padėties įstatymo 28 straipsnio pakeitimo įstatymas
