@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2001-01-01 iki 2005-06-06
+Suvestinė redakcija nuo 2005-06-07 iki 2007-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
  
@@ -74,11 +74,12 @@ Nr. VIII-1704, 2000-05-23, Žin., 2000, Nr. 45-1298 (2000-06-02), i. k. 1001010I
 2 straipsnis. Pašalpos dydis
 
 
-Pašalpa yra 6 minimalių gyvenimo lygių dydžio.
+Pašalpa yra 6 minimalių gyvenimo lygių (toliau – MGL) dydžio. Pašalpos dydis apskaičiuojamas pagal tą mėnesį, kurį atsirado teisė į pašalpą, galiojusio MGL dydį.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1704, 2000-05-23, Žin., 2000, Nr. 45-1298 (2000-06-02), i. k. 1001010ISTAIII-1704
+Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
  
 
 
@@ -92,7 +93,35 @@ Pašalpa mokama iš tikslinių lėšų, numatytų savivaldybių biudžetams skai
 
 
 
-Laidojantis asmuo dėl pašalpos gavimo turi kreiptis į savivaldybę pagal mirusio asmens buvusią gyvenamąją vietą arba laidojančio asmens gyvenamąją vietą ne vėliau kaip per tris mėnesius nuo šios teisės atsiradimo dienos.
+Laidojantis asmuo dėl pašalpos gavimo turi kreiptis į savivaldybę pagal mirusio asmens buvusią gyvenamąją vietą arba laidojančio asmens gyvenamąją vietą ne vėliau kaip per šešis mėnesius nuo šios teisės atsiradimo dienos, pateikdamas prašymą, mirties liudijimą (išskyrus atvejus, kai vaikas gimė negyvas) ir pažymėjimą laidojimo pašalpai gauti.
+TAR pastaba. Jeigu teisė į pašalpą atsirado iki įstatymo Nr. X-213 įsigaliojimo (2005-06-07), o trijų mėnesių kreipimosi terminas nebuvo pasibaigęs ir pašalpa nebuvo išmokėta, taikomas šešių mėnesių kreipimosi terminas. 
+Straipsnio dalies pakeitimai:
+Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
+ 
+
+
+
+
+Teisės į pašalpą atsiradimo diena yra asmens mirties data (rasto mirusio asmens – mirties liudijimo išdavimo data) 
+Papildyta straipsnio dalimi:
+Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
+ 
+
+
+
+
+Teismas gali atnaujinti šio straipsnio 2 dalyje nurodytą terminą, jei jis praleistas dėl priežasčių, kurias teismas pripažįsta svarbiomis. Tokiu atveju kartu su kitais šio straipsnio 2 dalyje nurodytais dokumentais savivaldybei pateikiamas teismo nutarties nuorašas
+Papildyta straipsnio dalimi:
+Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
+ 
+
+
+
+
+Laidojantis asmuo bylose dėl šio straipsnio 2 dalyje nurodyto termino atnaujinimo nuo žyminio mokesčio mokėjimo atleidžiamas.
+Papildyta straipsnio dalimi:
+Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
+ 
 
 
 Straipsnio pakeitimai:
@@ -139,3 +168,8 @@ Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 3 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1704, 2000-05-23, Žin., 2000, Nr. 45-1298 (2000-06-02), i. k. 1001010ISTAIII-1704
 Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 1, 2 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
+Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2, 3 straipsnių pakeitimo ir papildymo įstatymas
