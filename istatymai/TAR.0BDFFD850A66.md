@@ -21,11 +21,6 @@ VIEŠOJO ADMINISTRAVIMO
 ĮSTATYMAS
 1999 m. birželio 17 d. Nr. VIII-1234
 Vilnius
-
-
-
-
- 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
@@ -280,30 +275,8 @@ tvarką pasirenka pati administravimo institucija, jei kitaip nenustato šis
 įstatymas ar jo pagrindu priimtas kitas teisės aktas. Tai gali būti:
 1) vidaus administravimo kontrolė,
 vykdoma pagal administracines pareigas ir vidaus reglamentavimo dokumentus;
- 
-2 punkto
-redakcija iki 2004 m. sausio 1 d.:
-2) vidaus auditas, atliekamas
-administravimo institucijos auditoriaus ar audito įmonės jų nuostatuose
-nustatyta tvarka, turint tikslą patikrinti, ar viskas institucijoje vyksta
-taip, kaip buvo numatyta; ar yra pakankamai garantijų, kad turtas yra saugomas
-ir kontroliuojamas; ar sandorius vykdo atitinkamus įgaliojimus turintys
-asmenys; ar ištekliai tvarkomi ekonomiškai, o atliekamos finansinės ir
-organizacinės operacijos yra efektyvios; taip pat teikti vadovybei
-rekomendacijas administravimo kontrolei gerinti; 
-2 punkto
-redakcija nuo 2004 m. sausio 1 d.:
 2) finansų kontrolė ir  vidaus auditas,
 atliekamas Vidaus kontrolės ir vidaus audito įstatymo nustatyta tvarka;
- 
-3 punkto
-redakcija iki 2004 m. sausio 1 d.:
-3) išorės auditas, atliekamas
-nepriklausomų auditorių arba audito įmonių, siekiant įvertinti administracinės
-veiklos kokybę bei efektyvumą, taip pat vidaus audito sistemos patikimumą ir
-teikti rekomendacijas jai gerinti.
-3 punkto
-redakcija nuo 2004 m. sausio 1 d.:
 3) išorės auditas, atliekamas Valstybės
 kontrolės pareigūnų ar savivaldybių kontrolierių (savivaldybių kontrolierių
 tarnybų) ir audito įmonių, siekiant įvertinti administracinės veiklos
@@ -384,9 +357,9 @@ Administracinių procedūrų inicijavimas
 straipsnyje nustatytas pagrindas ir kai neužtenka vidinio administravimo
 dokumentuose nustatytos tvarkos, kad būtų tenkinamas pareiškėjo prašymas, ir
 kai informacijoje pateikti faktai apie institucijoje pažeistas piliečių ar kitų
-asmenų teises pakankamai pagrįsti, inicijuoja viešojo administravimo institucijos
-vadovas, jo pavaduotojas ar tam jų įgaliotas valstybės ar savivaldybės
-tarnautojas. 
+asmenų teises pakankamai pagrįsti, inicijuoja viešojo administravimo
+institucijos vadovas, jo pavaduotojas ar tam jų įgaliotas valstybės ar
+savivaldybės tarnautojas. 
 2. Administracinei procedūrai inicijuoti
 reikalingą informaciją, esančią viešojo administravimo institucijose, valstybės
 registruose ar kitose valstybinėse informacinėse sistemose, surenka pati
@@ -394,18 +367,18 @@ institucija.
  
 19 straipsnis. Prašymo priėmimas ir
 nagrinėjimas 
-1. Kiekviena viešojo administravimo
-institucija privalo priimti asmenų prašymus ir juos nagrinėti pagal savo
-kompetenciją. Prašymo priėmimo faktas patvirtinamas atitinkamu dokumentu,
-kuriame nurodoma prašymo priėmimo data, valstybės tarnautojo, kuriam pavesta
-nagrinėti prašymą, vardas, pavardė, telefono numeris, prašymo registracijos
-numeris. Patvirtinimo dokumentas įteikiamas arba siunčiamas paštu prašymo pateikėjui.
-
+1. Kiekviena
+viešojo administravimo institucija privalo priimti asmenų prašymus ir juos
+nagrinėti pagal savo kompetenciją. Prašymo priėmimo faktas patvirtinamas
+atitinkamu dokumentu, kuriame nurodoma prašymo priėmimo data, valstybės
+tarnautojo, kuriam pavesta nagrinėti prašymą, vardas, pavardė, telefono
+numeris, prašymo registracijos numeris. Patvirtinimo dokumentas įteikiamas arba
+siunčiamas paštu ar elektroniniu paštu prašymo pateikėjui.
 2. Jeigu institucija neįgaliota priimti
-sprendimo prašomu klausimu, ji ne vėliau kaip per 5 darbo dienas perduoda
-prašymą kompetentingai institucijai, apie tai pranešdama pareiškėjui. Kai
-prašymą nagrinėja teismas, prašymas grąžinamas pareiškėjui pateikiant
-reikalingą informaciją.
+sprendimo prašomu klausimu, ji ne vėliau kaip per 5 darbo dienas perduoda prašymą
+kompetentingai institucijai, apie tai pranešdama pareiškėjui. Kai prašymą
+nagrinėja teismas, prašymas grąžinamas pareiškėjui pateikiant reikalingą
+informaciją.
 3. Prašymų nagrinėjimo terminas
 pradedamas skaičiuoti nuo tos dienos, kai kompetentinga institucija gauna
 prašymą.
@@ -413,6 +386,17 @@ prašymą.
 atvejais, kai juos galima išnagrinėti tuoj pat, nefiksuojant jų rašytiniuose
 dokumentuose, ir dėl jų nenukenčia nei pareiškėjo, nei valstybės ar
 savivaldybės interesai.
+5. Asmenų prašymai, pateikti
+elektroniniu būdu, turi būti pasirašyti elektroniniu parašu. Atsakymai į šiuos prašymus pateikiami asmeniui
+elektroniniu paštu, o asmenų pageidavimu – siunčiami paštu
+prašyme nurodytu adresu arba įteikiami. Atsakymas elektroniniu paštu turi būti
+pasirašytas institucijos vadovo arba jo įgalioto asmens saugiu elektroniniu
+parašu.
+Straipsnio
+pakeitimai:
+Nr.
+X-239,
+2005-06-09, Žin., 2005, Nr. 76-2746 (2005-06-18)
  
 20 straipsnis. Prašymų priėmimo laikas
 1. Kiekviena viešojo administravimo
@@ -438,8 +422,8 @@ gali tikėtis gauti asmeninės naudos arba kai svarstomu klausimu veikia kaip
 procedūroje dalyvaujančios šalies yra tarnybiniai santykiai;
 3) tarnautojo bešališkumu pagrįstai
 abejojama dėl kokių nors kitų priežasčių, galinčių sukelti interesų konfliktą.
-2.   Sutuoktiniui prilyginamas ir asmuo, su
-kuriuo valstybės ar savivaldybės tarnautojas kartu gyvena neįregistravęs
+2. Sutuoktiniui prilyginamas ir asmuo,
+su kuriuo valstybės ar savivaldybės tarnautojas kartu gyvena neįregistravęs
 santuokos arba su kuriuo yra susižadėjęs (padavęs pareiškimą santuokai
 įregistruoti), taip pat buvęs sutuoktinis. Vaikams ir tėvams prilyginami
 įvaikiai ir įtėviai, taip pat buvę įvaikiai bei įtėviai.
@@ -452,15 +436,15 @@ derinimo valstybės tarnyboje įstatymo nustatyta tvarka.
  
 22 straipsnis. Papildomos informacijos
 sprendimui priimti reikalavimas
-1.   Papildomos informacijos ar komentarų reikalavimas
-iš pareiškėjo turi būti pagrįstas ir motyvuotas.
+1.   Papildomos informacijos ar komentarų
+reikalavimas iš pareiškėjo turi būti pagrįstas ir motyvuotas.
 2. Papildomai informacijai pateikti turi
 būti nustatytas realus terminas. Pakartotinis papildomos informacijos
 reikalavimas galimas tik išimtiniais atvejais, atitinkamai motyvuojant, kodėl
 šios informacijos nebuvo pareikalauta iš karto. Viešojo administravimo
 institucija gali reikalauti tik tos papildomos informacijos, kurios nėra kitose
 viešojo administravimo institucijose, valstybės registruose ar kitose
-valstybinėse informacijos sistemose.                
+valstybinėse informacijos sistemose.
  
 23 straipsnis. Procedūros sustabdymas 
 1. Jeigu administracinis sprendimas
@@ -504,10 +488,10 @@ pagal įstatymus negali būti vieša, pareiškėjui ir suinteresuotiems asmenims
 sudaroma galimybė susipažinti tik su patikrinimo rezultatais. Tikrinant
 faktinius duomenis, gali būti paprašyta paaiškinimų iš asmenų, turinčių
 reikalingos informacijos dėl tikrinamų faktinių duomenų. 
-2. Žodiniai pareiškimai arba žodžiu pateikti
-parodymai bei patikrinimo metu nustatyti faktiniai duomenys turi būti
-užfiksuoti patikrinimo akte (išvadoje) ir tikrintojų pasirašyti. Rašytiniai
-paaiškinimai pridedami prie patikrinimo akto. 
+2. Žodiniai pareiškimai arba žodžiu
+pateikti parodymai bei patikrinimo metu nustatyti faktiniai duomenys
+turi būti užfiksuoti patikrinimo akte (išvadoje) ir tikrintojų pasirašyti.
+Rašytiniai paaiškinimai pridedami prie patikrinimo akto. 
  
 27
 straipsnis. Teisė susipažinti su administravimo procedūros metu surinktais 
@@ -525,7 +509,7 @@ pratęstas. Nesutarimo atveju ginčas sprendžiamas Administracinių ginčų
 komisijoje. Ginčo nagrinėjimą inicijuoja suinteresuota šalis.
  
 29 straipsnis. Administracinių procedūrų
-kalba               
+kalba
 1. Administracinės procedūros kalba -
 valstybinė lietuvių kalba.
 2. Kai pareiškėjas ar kiti suinteresuoti
@@ -540,8 +524,8 @@ administraciniams sprendimams priimti
 Valstybės ar savivaldybės tarnautojas,
 atlikęs administracinę procedūrą, surašo raštišką teikimą ir perduoda jį
 institucijos vadovui sprendimui priimti. Teikime turi būti nurodytos visos
-faktinės aplinkybės sprendžiamu klausimu, teisės aktai, reglamentuojantys šį klausimą,
-siūlomo sprendimo projektas ir teikimo data. 
+faktinės aplinkybės sprendžiamu klausimu, teisės aktai, reglamentuojantys šį
+klausimą, siūlomo sprendimo projektas ir teikimo data. 
  
 31 straipsnis. Sprendimo priėmimas 
 1.   Sprendimas,
@@ -557,13 +541,13 @@ tai pareiškėją ar kitą suinteresuotą asmenį.
  
 32 straipsnis. Klaidų ištaisymo
 procedūra
-1. Sprendimą priėmusi institucija,
-gavusi pareiškėjo ar kito suinteresuoto asmens pagrįstą prašymą arba pranešimą
-apie neteisingą faktinių duomenų administraciniame sprendime įvertinimą ar
-teisinių klaidų jame buvimą, sustabdo sprendimo galiojimą ir pradeda klaidų
-ištaisymo procedūrą. Prieš priimant sprendimą dėl klaidų ištaisymo, turi būti
-išklausyti pareiškėjai ar kiti suinteresuoti asmenys ir įvertinti jų argumentai
-klaidų ištaisymo klausimu. 
+1. Sprendimą priėmusi institucija, gavusi
+pareiškėjo ar kito suinteresuoto asmens pagrįstą prašymą arba pranešimą apie
+neteisingą faktinių duomenų administraciniame sprendime įvertinimą ar teisinių
+klaidų jame buvimą, sustabdo sprendimo galiojimą ir pradeda klaidų ištaisymo
+procedūrą. Prieš priimant sprendimą dėl klaidų ištaisymo, turi būti išklausyti
+pareiškėjai ar kiti suinteresuoti asmenys ir įvertinti jų argumentai klaidų
+ištaisymo klausimu. 
 2. Sustabdžiusi sprendimo galiojimą
 viešojo administravimo institucija privalo imtis reikalingų priemonių klaidos
 ištaisymo sprendimui realiai įgyvendinti ir informuoti apie jį visus
@@ -630,8 +614,8 @@ Tarnybinės pagalbos teikimo ypatumai
 pagalbos prašanti institucija yra atsakinga už prašymo pagrįstumą ir
 teisėtumą. 
 2. Institucija,
-į kurią kreipiamasi tarnybinės pagalbos, privalo ją suteikti, išskyrus 
-35 straipsnyje išvardytus atvejus.
+į kurią kreipiamasi tarnybinės pagalbos, privalo ją suteikti, išskyrus 35 straipsnyje
+išvardytus atvejus.
 3. Negalima
 atsisakyti teikti tarnybinės pagalbos motyvuojant, kad ji yra netikslinga. 
 4. Vienos
@@ -677,11 +661,6 @@ Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
  
-
-
-
-
- 
 RESPUBLIKOS
 PREZIDENTAS                                                     VALDAS ADAMKUS
  
@@ -707,11 +686,19 @@ ADMINISTRAVIMO ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-239, 2005-06-09,
+Žin., 2005, Nr. 76-2746 (2005-06-18)
+VIEŠOJO
+ADMINISTRAVIMO ĮSTATYMO 19 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-11-06)
+Aušrinė Trapinskienė (2005-06-20)
                  
 autrap@lrs.lt
