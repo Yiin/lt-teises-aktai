@@ -138,10 +138,10 @@ straipsnis. Nedalyvavimo priežastys
             Nedalyvavimo
 Seimo posėdyje iš anksto numatytų balsavimų metu, taip pat nedalyvavimo
 komiteto, komisijos ar pakomitečio posėdyje svarbiomis priežastimis laikoma:
-Seimo nario laikinasis nedarbingumas, išvyka Seimo valdybai komandiravus ar pritarus,
-nelaimingi atsitikimai ar kitos aplinkybės, apie kurių pateisinamumą sprendžia
-Seimo Etikos ir procedūrų komisija (toliau - Etikos ir procedūrų komisija),
-atitinkamų komitetų, komisijų bei pakomitečių pirmininkai.
+Seimo nario laikinasis nedarbingumas, išvyka Seimo valdybai komandiravus ar
+pritarus, nelaimingi atsitikimai ar kitos aplinkybės, apie kurių pateisinamumą
+sprendžia Seimo Etikos ir procedūrų komisija (toliau - Etikos ir procedūrų
+komisija), atitinkamų komitetų, komisijų bei pakomitečių pirmininkai.
             
             10
 straipsnis. Informacija apie dalyvavimą posėdžiuose 
@@ -225,8 +225,8 @@ fondas, kuriam kiekvieną mėnesį skiriama 12 VMDU dydžio lėšų suma. Pusė 
 Pirmininko fondo lėšų naudojama neatsiskaitytinai.
 Straipsnio
 pakeitimai: 
-Nr. IX-182, 2001 02 20, Žin., 2001, Nr.
-21-690 (2001 03 09)
+Nr. IX-182, 2001 02 20, Žin., 2001, Nr. 21-690
+(2001 03 09)
  
             16
 straipsnis. Lėšos kitoms išlaidoms
@@ -270,18 +270,22 @@ nustatyta tvarka grįžti į ankstesnį darbą.
             2.
 Seimo nario parlamentinės veiklos laikas įskaitomas į visų rūšių darbo stažą.
             3.
-Nutrūkus
-Seimo nario įgaliojimams Lietuvos Respublikos Konstitucijos 63 straipsnio 1, 2,
-3 ir 4 punktuose numatytais atvejais, išmokama išeitinė pašalpa. Ši pašalpa
-išmokama tiek vidutinių mėnesinių Seimo nario atlyginimų dydžio, kiek metų
-nepertraukiamai truko jo kadencija Seime ar Seime ir Lietuvos Respublikos
-Aukščiausiojoje Taryboje, bet ne mažesnė kaip 2 ir ne didesnė kaip 6 vidutinių
+Nutrūkus Seimo nario įgaliojimams Lietuvos Respublikos Konstitucijos 63
+straipsnio 1, 2 ir 4 punktuose numatytais atvejais, išmokama išeitinė išmoka.
+Išeitinė išmoka taip pat išmokama nutrūkus Seimo nario įgaliojimams pagal
+Lietuvos Respublikos Konstitucijos 63 straipsnio 3 punktą, kai Seimo narys
+atsistatydina dėl ligos ar invalidumo, trukdančio tinkamai eiti pareigas. Ši
+išmoka išmokama tiek vidutinių mėnesinių Seimo nario atlyginimų dydžio, kiek
+metų nepertraukiamai truko jo kadencija Seime ar Seime ir Lietuvos Respublikos
+Aukščiausioje Taryboje, bet ne mažesnė kaip 2 ir ne didesnė kaip 6 vidutinių
 mėnesinių Seimo nario atlyginimų dydžio.
 Straipsnio pakeitimai:
 Nr. IX-121, 2000
 12 21, Žin., 2000, Nr. 111-3580 (2000 12 29)
 Nr. IX-425, 2001-07-05, Žin., 2001, Nr.
 64-2322 (2001-07-25)
+Nr. X-256, 2005-06-16,
+Žin., 2005, Nr. 84-3104 (2005-07-12)
  
 PENKTASIS SKIRSNIS 
 SEIMO NARIŲ PADĖJĖJAI-SEKRETORIAI IR FRAKCIJŲ
@@ -349,8 +353,8 @@ BAIGIAMOSIOS NUOSTATOS
             21
 straipsnis. Seimo narių darbo sąlygų įstatymo įgyvendinimas 
             1.
-Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo įstatymu,
-sudaro Seimo kanceliarija, savivaldybės.
+Seimo nariams reikiamas darbo ir gyvenimo sąlygas, vadovaudamiesi šiuo
+įstatymu, sudaro Seimo kanceliarija, savivaldybės.
             2.
 Lietuvos Respublikos diplomatinės atstovybės užsienyje privalo teikti Seimo
 nariams paramą komandiruočių atitinkamoje užsienio valstybėje metu.
@@ -471,18 +475,27 @@ NARIŲ DARBO SĄLYGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-163,
-2005-04-21, Žin., 2005, Nr. 58-2001 (2005-05-07)
+X-163, 2005-04-21,
+Žin., 2005, Nr. 58-2001 (2005-05-07)
 DARBO
 KODEKSO, ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO, BAUSMIŲ VYKDYMO KODEKSO,
 SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, VIDAUS TARNYBOS STATUTO, SVEIKATOS DRAUDIMO
 ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-256,
+2005-06-16, Žin., 2005, Nr. 84-3104 (2005-07-12)
+SEIMO
+NARIŲ DARBO SĄLYGŲ ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2005-05-09)
-                 
-autrap@lrs.lt
+Angonita Rupšytė (2005-07-12)
+anrups@lrs.lt
 
