@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 1999-12-30 iki 2005-06-17
+Suvestinė redakcija nuo 2005-06-18 iki 2008-04-23
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -1162,28 +1162,30 @@ Valstybės institucijos, skyrusios lėšas šio straipsnio pirmojoje dalyje nuro
 
 
 
-41 straipsnis. Parama didelio meistriškumo sportininkams
+41 straipsnis.       Sportininkų ir jų trenerių, gydytojų, masažuotojų ir mokslininkų skatinimas
 
 
-Didelio meistriškumo sportininkams, kuriems reikalinga valstybės parama pasiruošti varžyboms ir varžybose atstovauti Lietuvai, gali būti skiriamos Vyriausybės nustatyto dydžio valstybės stipendijos. Tokių sportininkų sąrašą sudaro Kūno kultūros ir sporto departamentas atitinkamų sporto šakų federacijų (draugijų, asociacijų) ir Lietuvos tautinio olimpinio komiteto teikimu.
-
-
-
-
-Skiriant stipendiją tarp sportininko ir Kūno kultūros ir sporto departamento sudaroma sutartis, kurioje numatomi sportininko įsipareigojimai tinkamai ruoštis varžyboms ir dalyvauti jose, taip pat sportininko atsakomybė už sutartyje nurodytų įsipareigojimų neįvykdymą ir kitos įstatymams neprieštaraujančios sąlygos.
+Didelio meistriškumo sportininkams, kuriems reikalinga valstybės parama rengtis tarptautinėms varžyboms, atstovauti jose Lietuvai, gali būti mokamos Vyriausybės nustatyto dydžio valstybės stipendijos.
 
 
 
 
-Kūno kultūros ir sporto departamentas ar jo įgaliota institucija, išmokanti sportininkui stipendiją, moka už jį socialinio draudimo įnašus. Laikotarpis, kuriam buvo skirta stipendija, įskaitomas į sportininko darbo stažą.
+Stipendijas skiria Kūno kultūros ir sporto departamentas atitinkamų sporto šakų federacijų (draugijų, asociacijų), Lietuvos tautinio olimpinio komiteto ir savivaldybių administracijų sporto padalinių teikimu.
 
 
 
 
-Valstybės institucijos, vykdančios kūno kultūros ir sporto valdymo funkcijas, kartu su sporto šakų federacijomis rūpinasi didelio meistriškumo sportininkų profesionalumo panaudojimu.
+Skiriant stipendiją, sportininkas ir Kūno kultūros ir sporto departamentas sudaro sutartį. Joje numatomi sportininko įsipareigojimai tinkamai rengtis varžyboms ir dalyvauti jose, sportininko atsakomybė už sutartyje nurodytų įsipareigojimų neįvykdymą, taip pat kitos įstatymams neprieštaraujančios sąlygos.
+
+
+
+
+Taip pat gali būti skiriamos Vyriausybės nustatyto dydžio premijos sportininkams ir jų treneriams, gydytojams, masažuotojams ir mokslininkams, mokamos iš valstybės biudžeto lėšų, skirtų Kūno kultūros ir sporto departamentui.
+
+
+Straipsnio pakeitimai:
+Nr. X-238, 2005-06-09, Žin., 2005, Nr. 76-2745 (2005-06-18), i. k. 1051010ISTA000X-238
  
-
-
 
 
 
@@ -1420,3 +1422,8 @@ Lietuvos Respublikos kūno kultūros ir sporto įstatymo 9, 12, 13 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
 Lietuvos Respublikos kūno kultūros ir sporto įstatymo 11, 27, 49, 50 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-238, 2005-06-09, Žin., 2005, Nr. 76-2745 (2005-06-18), i. k. 1051010ISTA000X-238
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo įstatymas
