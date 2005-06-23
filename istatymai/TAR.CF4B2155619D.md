@@ -47,8 +47,9 @@ Nr. IX-2174,
  
 2
 straipsnis. Pagrindinės Įstatymo sąvokos
-1. Akcijų paketas – 1/10 ar daugiau visų
-bendrovės akcijų arba balsavimo teisę suteikiančių akcijų.
+1. Akcijų paketas – akcininko turimų balsavimo
+teisių emitento visuotiniame akcininkų susirinkime dalis, sudaranti 1/20 ar
+daugiau visų balsavimo teisių..
 2. Antrinė vertybinių popierių apyvarta – pasiūlymas
 įsigyti vertybinių popierių ir jų perleidimas pasibaigus pirminei
 apyvartai. 
@@ -60,8 +61,8 @@ asmuo;
 3) emitento vadovas;
 4) asmuo, turintis emitento vertybinių popierių,
 suteikiančių daugiau kaip 1/20 visų balsų.
-4. Atskaitingas emitentas – emitentas,
-įregistravęs vertybinių popierių emisiją Vertybinių popierių komisijoje.
+4. Atskaitingas emitentas – emitentas, kurio
+išleistų vertybinių popierių prospektą patvirtino Vertybinių popierių komisija.
 5. Depozitoriumo pakvitavimas dėl akcijų –
 vertybinis popierius, patvirtinantis jo turėtojo teisę iš emitento gauti
 pajamas, kurių dydis priklauso nuo emitento pajamų iš kito emitento akcijų, ir
@@ -120,17 +121,44 @@ arba psichotropinėmis medžiagomis.
 15. Patronuojanti įmonė – kitą įmonę
 kontroliuojanti įmonė.
 16. Pirminė vertybinių popierių apyvarta –
-emitento arba vertybinių popierių viešosios apyvartos tarpininko pasiūlymas
-įsigyti vertybinių popierių bei jų perleidimas jų išleidimo metu.
-17. Profesionalus investuotojas – investicinė
-kintamojo kapitalo bendrovė, pensijų fondo ar investicinio fondo valdymo įmonė,
-kredito įstaiga, finansų maklerio įmonė, draudimo įmonė ar kitas asmuo, kurį
-Vertybinių popierių komisija, atsižvelgdama į jo galimybę kvalifikuotai
-įvertinti investavimo riziką, savo nutarimu pripažino profesionaliu
-investuotoju.
+pasiūlymas įsigyti vertybinių popierių bei jų perleidimas jų išleidimo metu.
+17. Profesionalūs investuotojai –
+investuotojai, kurie yra:
+1) juridiniai asmenys, turintys licenciją veikti
+finansų rinkose arba veikiantys jose be licencijos, tačiau kurių veikla yra
+prižiūrima kompetentingų finansų rinkų priežiūros institucijų. Profesionaliais
+investuotojais laikomos kredito įstaigos, vertybinių popierių viešosios
+apyvartos tarpininkai, kitos licencijuojama ar prižiūrima veikla
+besiverčiančios finansų įstaigos, draudimo įmonės, investicinių fondų valdymo
+įmonės, investicinės kintamojo kapitalo bendrovės ir jų valdymo įmonės, pensijų
+fondai ir jų valdymo įmonės, prekiautojai biržos prekėmis, taip pat kitos
+įmonės, kurių veikla nėra licencijuojama ar prižiūrima ir kurių vienintelis
+tikslas yra investuoti į vertybinius popierius;
+2) valstybių centrinės ir regioninės valdžios
+institucijos, centriniai bankai, tarptautinės ir tarpvalstybinės organizacijos,
+įskaitant Tarptautinį valiutos fondą, Europos centrinį banką, Europos
+investicijų banką ir kitas panašias tarptautines organizacijas;
+3) kiti juridiniai asmenys, kurie neatitinka šio
+straipsnio 36 dalyje nurodytų mažų ir vidutinių įmonių kriterijų;
+4) fiziniai asmenys, turintys nuolatinę gyvenamąją
+vietą Lietuvos Respublikoje, kurie yra įtraukti į Vertybinių popierių komisijos
+tvarkomą profesionalių investuotojų sąrašą, šiems fiziniams asmenims aiškiai
+paprašius juos pripažinti profesionaliais investuotojais, su sąlyga, kad jie
+atitinka bent du kriterijus, nurodytus šio Įstatymo 2 straipsnio 35 dalyje,
+taip pat fiziniai asmenys, turintys nuolatinę gyvenamąją vietą kitose Europos
+Sąjungos valstybėse narėse, jeigu jie tose valstybėse yra įtraukti į
+analogiškus profesionalių investuotojų sąrašus;
+5) mažos arba vidutinės įmonės, kurių buveinė yra
+Lietuvos Respublikoje ir kurios yra įtrauktos į Vertybinių popierių komisijos tvarkomą
+profesionalių investuotojų sąrašą, šioms įmonėms aiškiai paprašius jas
+pripažinti profesionaliais investuotojais, taip pat mažos arba vidutinės
+įmonės, kurių buveinė yra kitose Europos Sąjungos valstybėse narėse, jeigu jos
+tose valstybėse yra įtrauktos į tokius pat ar panašius profesionalių
+investuotojų sąrašus.
 18. Prospektas – investuotojams ir
 visuomenei skirtas dokumentas, kuriame yra pagrindinė informacija apie emitentą
-ir siūlomus jo vertybinius popierius.
+ir jo vertybinius popierius, kurie yra viešai siūlomi arba įtraukiami į prekybą
+reguliuojamoje rinkoje.
 19. Reklama arba viešas
 kreipimasis į visuomenę – skelbimas (reklama) visuomenės informavimo
 priemonėse, informacija apie vertybinių popierių pardavimą, nurodant vertybinių
@@ -144,35 +172,47 @@ vertybinių popierių depozitoriumas.
 – tikimybė, jog vieno vertybinių popierių viešosios apyvartos tarpininko ar
 investuotojo nemokumas turės neigiamos įtakos daugelio vertybinių popierių
 viešosios apyvartos tarpininkų ar investuotojų interesams.
-22. Skolos vertybinis
-popierius – vertybinis popierius, patvirtinantis jo turėtojo teisę gauti iš
-jį išleidusio asmens jame nustatytais terminais jo nominalią vertę atitinkančią
-sumą, palūkanas ar kitą ekvivalentą.
-23.
-Užsienio priežiūros institucija: 
-1) institucija, registruojanti vertybinių popierių
+22. Ne nuosavybės
+vertybiniai popieriai – vertybiniai popieriai, kurie pagal šio straipsnio
+38 dalį nelaikomi nuosavybės vertybiniais popieriais.
+23. Užsienio
+priežiūros institucija:
+1) institucija, tvirtinanti vertybinių popierių
 prospektus, išduodanti licenciją teikti investicines paslaugas, prižiūrinti,
 kaip investicinės paslaugos yra teikiamos, ar atliekanti kitas į Vertybinių
-popierių komisijos panašias funkcijas Europos Sąjungos valstybėje narėje, kurią
-atitinkama valstybė nurodė Europos bendrijų komisijai;
-2) institucija, atliekanti 1 punkte nurodytas funkcijas
-valstybėje ne Europos Sąjungos narėje.
+popierių komisijos panašias funkcijas kitoje Europos Sąjungos valstybėje
+narėje, kurią atitinkama Europos Sąjungos valstybė narė nurodė Europos
+bendrijų komisijai;
+2) institucija, atliekanti 1 punkte nurodytas funkcijas ne
+Europos Sąjungos valstybėje narėje.
 24. Emitento vadovas – įmonės stebėtojų tarybos, valdybos narys, vadovas.
 25. Vertybinių popierių
-apyvarta – vertybinių popierių siūlymas, platinimas ir perleidimas.
-26. Vertybinių popierių emisijos įregistravimas
-(toliau – vertybinių popierių įregistravimas) – administracinis aktas,
-kuriuo Vertybinių popierių komisija leidžia platinti vertybinius popierius.
-27. Vertybinių popierių komisija – vertybinių
-popierių rinkos reguliavimo ir priežiūros institucija.
+siūlytojas – fizinis ar juridinis asmuo, kuris viešai siūlo arba ketina
+viešai siūlyti vertybinius popierius.
+26. Prospekto patvirtinimas – buveinės
+valstybės narės kompetentingos institucijos teigiamas sprendimas, kuris
+priimamas patikrinus prospekto išsamumą, prospekte pateiktos informacijos
+nuoseklumą ir suprantamumą ir kuriuo patvirtinama, kad prospekte pateikta
+informacija atitinka teisės aktuose nustatytas informacijos pateikimo
+taisykles.
+27. Vertybinių popierių komisija – Lietuvos
+Respublikos vertybinių popierių rinkos reguliavimo ir priežiūros institucija.
 28. Vertybinių popierių portfelis – investuotojo
 turimų vertybinių popierių rinkinys.
 29. Vertybinių popierių
 rinka – vieta, kurioje vyksta organizuota prekyba vertybiniais
 popieriais.
-30. Vertybinių popierių viešoji apyvarta – vertybinių
-popierių siūlymas, platinimas ir perleidimas viešai kreipiantis į visuomenę
-arba kreipiantis į daugiau kaip 100 asmenų.
+30. Vertybinių popierių viešas siūlymas (toliau
+– viešas siūlymas) – bet kuria forma ir bet kokiomis priemonėmis
+vykdomas kreipimasis į asmenis, kurio metu siūlomi vertybiniai popieriai ir
+kuriame pateikiama pakankamai informacijos apie tokio siūlymo sąlygas ir
+siūlomus vertybinius popierius tam, kad pateiktos informacijos pagrindu
+investuotojas galėtų priimti sprendimą įsigyti ar pasirašyti siūlomus
+vertybinius popierius. Vertybinių popierių platinimas per vertybinių popierių
+viešosios apyvartos tarpininkus laikomas viešu siūlymu, jei tenkinami šios
+dalies pirmame sakinyje nurodyti viešo siūlymo požymiai. Kreipimasis į asmenis,
+vykdomas prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje
+pagrindu, nelaikomas vertybinių popierių viešu siūlymu.
 31. Vertybinių popierių viešosios apyvartos
 tarpininkai (toliau – tarpininkai) – finansų maklerio įmonės bei
 komerciniai bankai, turintys teisę teikti investicines paslaugas.
@@ -180,23 +220,125 @@ komerciniai bankai, turintys teisę teikti investicines paslaugas.
 33. Finansų
 maklerio įmonės vadovas – kaip
 nustatyta Finansų įstaigų įstatymo 20 straipsnio 1 dalyje.
+ 
+[Papildyti 2 straipsnį 34-45
+dalimis]
+34. Buveinės valstybė narė:
+1) Europos Sąjungos valstybėje narėje įsteigtiems
+vertybinių popierių, nenurodytų šios dalies 3 punkte, emitentams – ta Europos
+Sąjungos valstybė narė, kurioje yra emitento buveinė;
+2) ne Europos Sąjungos valstybėje narėje įsteigtiems
+vertybinių popierių, nenurodytų šios dalies 3 punkte, emitentams – ta Europos
+Sąjungos valstybė narė, kurioje pirmą kartą po 2003 m. gruodžio 31 d.
+vertybiniai popieriai buvo viešai siūlomi ar ketinama juos viešai siūlyti arba
+kurioje pirmą kartą kreipiamasi dėl įtraukimo į prekybą reguliuojamoje rinkoje.
+Buveinės valstybė narė nustatoma emitento, vertybinių popierių siūlytojo ar
+asmens, kuris kreipiasi dėl įtraukimo į prekybą reguliuojamoje rinkoje,
+pasirinkimu, o jei tokio pasirinkimo nebuvo, – atsižvelgiant į vėlesnį ne
+Europos Sąjungos valstybėje narėje įsteigtų emitentų pasirinkimą;
+3) ne nuosavybės vertybinių popierių, kurių vieno
+vieneto nominali vertė yra ne mažesnė kaip 1000 eurų, emisijoms, taip pat
+kitoms ne nuosavybės vertybinių popierių, suteikiančių teisę įsigyti
+perleidžiamus vertybinius popierius arba gauti pinigus tuo atveju, kai
+vertybiniai popieriai konvertuojami arba pasinaudojama jų suteikiamomis
+teisėmis, su sąlyga, kad ne nuosavybės vertybinių popierių emitentas nėra
+suteikiamų vertybinių popierių emitentas ir nėra susijęs su suteikiamų
+vertybinių popierių emitentu, emisijoms – ta Europos Sąjungos valstybė narė,
+kurioje emitentas turi buveinę arba kurioje emitento vertybiniai popieriai buvo
+ar bus įtraukti į prekybą reguliuojamoje rinkoje, arba kurioje vertybiniai
+popieriai yra viešai siūlomi. Buveinės valstybė narė nustatoma emitento,
+vertybinių popierių siūlytojo ar asmens, kuris kreipiasi dėl įtraukimo į
+prekybą reguliuojamoje rinkoje, pasirinkimu. Tokia pat tvarka taikoma ir ne
+eurais nominuotiems ne nuosavybės vertybiniams popieriams, su sąlyga, kad šių
+vertybinių popierių vieno vieneto minimali nominali vertė apytiksliai lygi 1000
+eurų.
+35. Kriterijai, pagal kuriuos fiziniai asmenys
+pripažįstami profesionaliais investuotojais:
+1) investuotojas sudarinėjo didelės apimties sandorius
+vertybinių popierių rinkose ir per paskutinius keturis ketvirčius sudarydavo
+vidutiniškai ne mažiau kaip 10 tokių sandorių per ketvirtį;
+2) investuotojo vertybinių popierių portfelio vertė viršija
+500 tūkstančių eurų;
+3) investuotojas ne trumpiau kaip vienus metus finansų
+sektoriuje eina arba ėjo tokias pareigas, kurias einant būtina išmanyti
+investavimą į vertybinius popierius.
+36. Mažos ir vidutinės įmonės – juridiniai
+asmenys, kurie, atsižvelgiant į jų paskutinę metinę arba konsoliduotą finansinę
+atskaitomybę, atitinka bent du iš šių kriterijų:
+1) vidutinis metų sąrašinis darbuotojų skaičius per
+finansinius metus nesiekia 250;
+2) balanse nurodyto turto vertė neviršija 43 milijonų
+eurų;
+3) pardavimo grynosios pajamos per finansinius metus
+neviršija 50 milijonų eurų.
+37. Nuolat ar pakartotinai leidžiami vertybiniai
+popieriai – nuolat vykdoma tų pačių vertybinių popierių emisija arba
+mažiausiai dvi atskiros panašios rūšies ir (ar) klasės vertybinių popierių
+emisijos per 12 mėnesių laikotarpį.
+38. Nuosavybės vertybiniai popieriai – šie
+vertybiniai popieriai:
+1) akcinių bendrovių akcijos;
+2) kiti perleidžiami vertybiniai popieriai,
+lygiaverčiai akcinių bendrovių akcijoms;
+3) bet kokios kitos rūšies perleidžiami vertybiniai
+popieriai, kurie suteikia teisę juos konvertavus arba realizavus jų suteiktas
+teises įgyti šios dalies 1 ir 2 punktuose nurodytus vertybinius popierius, su
+sąlyga, kad šiame punkte nurodytus vertybinius popierius yra išleidęs su šiais
+vertybiniais popieriais susietų šios dalies 1 ir 2 punktuose nurodytų
+vertybinių popierių emitentas arba kita šio emitento įmonių grupės įmonė.
+39. Priimančioji valstybė narė – Europos
+Sąjungos valstybė narė, kurioje vykdomas viešas siūlymas arba siekiama
+įtraukimo į prekybą reguliuojamoje rinkoje, jei ši valstybė narė nėra buveinės
+valstybė narė.
+40. Profesionalių investuotojų sąrašas –
+sąrašas, kuriame kaupiami duomenys apie profesionaliais investuotojais
+pripažintus fizinius asmenis bei mažas ir vidutines įmones.
+41. Reguliuojama rinka – Europos Sąjungos
+valstybės narės teritorijoje nuolat funkcionuojanti vertybinių popierių rinka,
+kurią ta valstybė narė įtraukė į reguliuojamų rinkų sąrašą ir kurios veiklą
+reglamentuoja tos valstybės narės kompetentingos institucijos patvirtintos
+taisyklės.
+42. Siūlymo programa – planas, kurio pagrindu
+per apibrėžtą laikotarpį nuolat ar pakartotinai leidžiami panašios rūšies ir
+(ar) klasės ne nuosavybės vertybiniai popieriai.
+43. Europos Sąjungos valstybė narė –
+Europos Sąjungos valstybė narė ar Europos ekonominei erdvei priklausanti
+valstybė.
+44. Garantas – asmuo, užtikrinantis emitento
+įsipareigojimų, kylančių iš vertybinių popierių, vykdymą ir (ar) savo sąskaita
+užtikrinantis emitento vertybinių popierių išplatinimą.
+45. Kolektyvinio investavimo subjekto vertybiniai
+popieriai – vertybiniai popieriai (investicinio fondo investiciniai
+vienetai ir investicinės kintamojo kapitalo bendrovės akcijos), patvirtinantys
+jų turėtojo teisę į kolektyvinio investavimo subjekto turto dalį bei teisę bet
+kada pareikalauti juos išpirkti.
 Straipsnio
 pakeitimai:
-Nr. IX-1719,
-2003-07-04, Žin., 2003, Nr. 74-3434 (2003-07-25)
+Nr. IX-1719, 2003-07-04,
+Žin., 2003, Nr. 74-3434 (2003-07-25)
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
 3
 straipsnis. Įstatymo taikymas vertybiniams popieriams 
-1. Vertybiniais popieriais šiame Įstatyme yra laikomi šie
-vertybiniai popieriai, kuriais galima prekiauti vertybinių popierių rinkose:
-1) akcinių bendrovių akcijos bei depozitoriumo pakvitavimai
-dėl akcijų;
-2) skolos vertybiniai popieriai;
-3) vertybiniai popieriai, kurie suteikia teisę įsigyti šios
-dalies 1 ar 2 punkte nurodytus vertybinius popierius pasirašymo ar keitimo
-būdu, įskaitant ir tuos, kurie suteikia teisę tik gauti pinigus.
+1. Vertybiniais popieriais šiame Įstatyme yra laikomi
+šie nuosavybės ir ne nuosavybės vertybiniai popieriai, kuriais galima prekiauti
+vertybinių popierių rinkose:
+1) akcinių bendrovių akcijos bei depozitoriumo
+pakvitavimai dėl akcijų;
+2) obligacijos ir kiti emitento įsiskolinimą
+patvirtinantys vertybiniai popieriai, suteikiantys jų turėtojui teisę
+nustatytais terminais ir tvarka gauti iš jų emitento nominalią vertę atitinkančią
+sumą, palūkanas ar kitą ekvivalentą, taip pat depozitoriumo pakvitavimai dėl
+šiame punkte nurodytų vertybinių popierių;
+3) vertybiniai popieriai, suteikiantys teisę įsigyti ar
+perleisti šios dalies 1 ar 2 punkte nurodytus vertybinius popierius arba
+lemiantys piniginius atsiskaitymus, nustatomus atsižvelgiant į vertybinių
+popierių ar valiutų kursus, palūkanų normas, ne nuosavybės vertybinių popierių
+pajamingumą, biržos prekių kainas, biržos indeksus arba kitas panašias
+priemones.
 2. Investicinėmis priemonėmis yra vadinami šie vertybiniai
 popieriai ar sandoriai:
 1) priemonės, patvirtinančios dalyvavimą investicinėje
@@ -212,141 +354,351 @@ apsikeitimo sandoriai;
 3. Įstatymo ketvirtajame, penktajame, septintajame ir
 aštuntajame skirsniuose vertybiniais popieriais laikomos ir šio straipsnio 2
 dalyje numatytos investicinės priemonės.
-4. Įstatymo 9 ir 10 straipsniuose vertybiniais popieriais laikomi vertybiniai popieriai bei investicinės priemonės, numatyti šio straipsnio 1 bei 2 dalyse, ir: 1) išvestinės priemonės, susietos su prekėmis; 2) kitos priemonės, kuriomis prekiaujama Europos Sąjungos valstybės reguliuojamoje rinkoje arba dėl kurių įtraukimo į tokią rinką yra pateiktas prašymas.
-5. Lietuvos Respublikos
-Vyriausybės, Lietuvos banko vertybiniams popieriams bei tarptautinių finansinių
-organizacijų, kurių narė yra Lietuvos Respublika ir kurios turi Lietuvos
-Respublikos finansų ministro išduotą leidimą platinti vertybinius popierius,
-įsiskolinimą patvirtinantiems vertybiniams popieriams yra taikomi
-tik ketvirtasis, šeštasis, septintasis ir aštuntasis Įstatymo skirsniai,
-išskyrus 46 straipsnio 2 ir 3 dalis.
+4. Įstatymo 9 ir 10 straipsniuose vertybiniais popieriais laikomi vertybiniai popieriai bei investicinės priemonės, numatyti šio straipsnio 1 bei 2 dalyse, ir: 1) išvestinės priemonės, susietos su prekėmis; 2) kitos priemonės, kuriomis prekiaujama Europos Sąjungos valstybės narės reguliuojamoje rinkoje arba dėl kurių įtraukimo į tokią rinką yra pateiktas prašymas.
+5. Europos Sąjungos valstybių
+narių vyriausybių, centrinių bankų vertybiniams popieriams bei tarptautinių
+finansinių organizacijų, kurių narė yra Lietuvos Respublika ir kurios turi
+Lietuvos Respublikos finansų ministro išduotą leidimą, taip pat kitų viešųjų
+tarptautinių finansinių organizacijų, kurių narė yra bent viena Europos
+Sąjungos valstybė narė, įsiskolinimą patvirtinantiems vertybiniams popieriams
+yra taikomi tik ketvirtasis, šeštasis, septintasis ir aštuntasis Įstatymo
+skirsniai, išskyrus 46 straipsnio 2 ir 3 dalis.
 6. Vekseliai, išleisti pagal Lietuvos Respublikos
 įsakomųjų ir paprastųjų vekselių įstatymą, čekiai ir kitos Lietuvos Respublikos
 mokėjimų įstatyme numatytos mokėjimo priemonės šiame Įstatyme nelaikomi
 vertybiniais popieriais.
 Straipsnio
 pakeitimai:
-Nr. IX-1719, 2003-07-04,
-Žin., 2003, Nr. 74-3434 (2003-07-25)
+Nr. IX-1719,
+2003-07-04, Žin., 2003, Nr. 74-3434 (2003-07-25)
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
 ANTRASIS
 SKIRSNIS
-VERTYBINIŲ POPIERIŲ APYVARTA
+Skirsnio pavadinimo pakeitimai:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
-4 straipsnis. Pareiga įregistruoti vertybinių popierių
-emisiją
-1. Vertybinių popierių įregistravimas patvirtina, kad
-emitento teikiama informacija atitinka šiame Įstatyme ir kituose teisės aktuose
-nustatytas informacijos pateikimo taisykles. Jis nepatvirtina pateiktos
-informacijos teisingumo, taip pat negali būti laikomas Vertybinių popierių
-komisijos rekomendacija investuotojams. Vertybinių popierių įregistravimo
-panaikinimas reiškia, kad juos platinti draudžiama.
-2. Vertybinius popierius Vertybinių popierių
-komisijoje privalo įregistruoti:
-1) steigiama ar veikianti Lietuvos Respublikos akcinė
-bendrovė arba pertvarkoma į akcinę bendrovę bet kokios kitos teisinės formos
-įmonė;
-2) asmuo, ketinantis išleisti vertybinius popierius į
-viešąją apyvartą Lietuvos Respublikoje.
-3. Vertybinių popierių komisija, atsižvelgdama į vertybinių
-popierių rūšį, jų platinimo ypatybes, informacijos poreikį, turi teisę
-nustatyti atvejus, kada vertybiniai popieriai gali būti neregistruojami.
+VERTYBINIŲ POPIERIŲ VIEŠAS SIŪLYMAS IR ĮTRAUKIMAS Į
+PREKYBĄ REGULIUOJAMOJE RINKOJE
  
-5
-straipsnis. Prospekto turinys
-1. Prospekte emitentas turi pateikti finansinės
-atskaitomybės duomenis, informaciją apie savo veiklą, vertybinius popierius,
-vadovus bei sandorius su asmenimis, susijusiais su emitentu, ir veiklos
-partneriais. Informacija turi būti pakankama tam, kad būtų galima daryti
-pagrįstas išvadas apie emitento turtą, prievoles, finansinę padėtį, pelną ir
-nuostolius bei teises, sietinas su išleidžiamais vertybiniais popieriais.
-2. Jeigu vertybiniai popieriai skirti ne viešajai
-apyvartai, vietoj prospekto gali būti pateiktas sutrumpintas jo variantas –
-memorandumas.
-3. Išsamų prospekto (memorandumo) turinį nustato Vertybinių
-popierių komisija. Skirtingi informacijos pateikimo reikalavimai gali būti
-nustatyti atsižvelgiant į emitento veiklos pobūdį, išleistų ar išleidžiamų
-vertybinių popierių rūšį, vertybinių popierių savininkų skaičių ir į tai, ar
-vertybinius popierius bus siekiama įtraukti į vertybinių popierių biržos
-prekybos sąrašus.
-4. Prospekte (memorandume) turi būti pateikta auditoriaus
-išvada, kaip emitento buhalterinė apskaita ir finansinė atskaitomybė (ne
-senesnė kaip 15 mėnesių) atitinka Lietuvos Respublikos teisės aktus ir
-bendruosius apskaitos principus ar tarptautinius apskaitos standartus. 
+4 straipsnis. Taikymo sritis
+1. Šiame skirsnyje nustatyti prospekto rengimo,
+tvirtinimo ir paskelbimo reikalavimai, kurių turi būti laikomasi, kai emitento,
+kurio buveinės valstybė narė yra Lietuvos Respublika, vertybinius popierius
+ketinama viešai siūlyti ar įtraukti į prekybą reguliuojamoje rinkoje Lietuvos
+Respublikoje ir (ar) kitoje Europos Sąjungos valstybėje narėje. Jei emitento
+buveinės valstybė narė yra ne Lietuvos Respublika, šiame skirsnyje nustatytų
+reikalavimų turi būti laikomasi, jeigu emitento vertybinius popierius ketinama
+viešai siūlyti arba įtraukti į prekybą reguliuojamoje rinkoje Lietuvos
+Respublikoje. 
+2. Šiame skirsnyje nustatyti reikalavimai netaikomi:
+1) kolektyvinio investavimo subjektų (išskyrus
+uždarojo tipo kolektyvinio investavimo subjektų) leidžiamiems (išleistiems)
+vertybiniams popieriams;
+2) ne nuosavybės vertybiniams popieriams, kuriuos
+leidžia (išleido) Europos Sąjungos valstybė narė, jos regioninės valdžios
+institucijos, Europos centrinis bankas, valstybių narių centriniai bankai, taip
+pat viešosios tarptautinės organizacijos, kurių nare yra bent viena Europos
+Sąjungos valstybė narė;
+3) Europos Sąjungos valstybių narių centrinių bankų
+akcijoms;
+4) vertybiniams popieriams, už kuriuos besąlygiškai ir
+neatšaukiamai garantuoja Europos Sąjungos valstybė narė, jos regioninės
+valdžios institucijos;
+5) ne nuosavybės vertybiniams popieriams, kuriuos
+nuolat ar pakartotinai leidžia Europos Sąjungos valstybių narių kredito
+įstaigos, su sąlyga, kad šie vertybiniai popieriai nėra subordinuoti,
+konvertuojami ar keičiami, nesuteikia teisės pasirašyti ar įgyti kitos rūšies
+vertybinių popierių ir nėra susieti su išvestine finansine priemone, šiais
+vertybiniais popieriais patvirtinamas grąžintinų indėlių priėmimas ir jiems yra
+taikomas indėlių draudimas;
+6) viešai siūlomiems vertybiniams popieriams, kuriuos
+išleido Europos Sąjungos valstybėje narėje įsteigtas emitentas, jei visų
+siūlomų vertybinių popierių bendra pardavimo vertė nesiekia 2,5 milijono eurų,
+skaičiuojant per 12 mėnesių laikotarpį;
+7) ne nuosavybės vertybiniams popieriams, kuriuos
+nuolat ar pakartotinai leidžia Europos Sąjungos valstybėje narėje įsteigtos
+kredito įstaigos, jei visų siūlomų vertybinių popierių bendra pardavimo vertė
+nesiekia 50 milijonų eurų, skaičiuojant per 12 mėnesių laikotarpį, su sąlyga,
+kad šie vertybiniai popieriai nėra subordinuoti, konvertuojami ar keičiami,
+nesuteikia teisės pasirašyti ar įgyti kitos rūšies vertybinių popierių ir nėra
+susieti su išvestine finansine priemone.
+3. Jei šio straipsnio 2 dalies 2, 4, 6 ir 7 punktuose
+nurodytais atvejais vertybinius popierius ketinama viešai siūlyti arba įtraukti
+į prekybą reguliuojamoje rinkoje, emitentas, vertybinių popierių siūlytojas ar
+asmuo, kuris kreipiasi dėl įtraukimo į prekybą reguliuojamoje rinkoje, turi
+teisę parengti prospektą.
+Straipsnio
+pakeitimai:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
-6 straipsnis. Vertybinių popierių
-įregistravimo ir įregistravimo panaikinimo tvarka
-1. Emitentas, ketinantis įregistruoti vertybinius
-popierius, Vertybinių popierių komisijai turi pateikti:
-1) paraišką;
-2) prospektą (memorandumą);
-3) steigimo dokumentų originalus arba notaro
-patvirtintus nuorašus, jeigu vertybiniai popieriai registruojami pirmą kartą,
-arba steigimo dokumentų pakeitimų, atsiradusių po paskutinio vertybinių
-popierių įregistravimo, originalus ar notaro patvirtintus nuorašus;
-4) sprendimų, kurių pagrindu emitentas yra išleidęs ar
-ketina išleisti vertybinius popierius, originalus arba notaro patvirtintus
-nuorašus;
-5) reorganizavimo sąlygas, jeigu vertybiniai popieriai
-registruojami dėl reorganizavimo.
-2. Vertybinių popierių komisija nustato, kokius
-dokumentus turi pateikti emitentas, ketinantis panaikinti vertybinių popierių
-įregistravimą.
-3. Vertybinių popierių komisija per 30 dienų turi
-išnagrinėti vertybiniams popieriams įregistruoti ar jų įregistravimui
-panaikinti pateiktus dokumentus ir raštu atsakyti emitentui. Vertybinių
-popierių komisija turi teisę reikalauti, kad emitentas pateiktų papildomą informaciją,
-būtiną investuotojų interesams apsaugoti, taip pat paaiškintų ar pataisytų
-pateiktus duomenis. Tokiu atveju Vertybinių popierių komisija per 20 dienų nuo
-papildomos informacijos, paaiškinimų ar pataisų pateikimo turi emitentui
-atsakyti.
-4. Vertybinių popierių komisija turi teisę
-atsisakyti įregistruoti vertybinius popierius, jeigu:
-1) emitentas pateikė duomenis ne pagal Vertybinių
-popierių komisijos nustatytas taisykles;
-2) emitentas nepateikė šiame straipsnyje nurodytų
-dokumentų, duomenų ar paaiškinimų arba paaiškėjo, kad jie yra neteisingi;
-3) emitento vertybiniai popieriai išleidžiami, jų
-rūšis, klasė ar nominali vertė keičiama nesilaikant Lietuvos Respublikos
-įstatymų ar Vertybinių popierių komisijos nutarimų.
-5. Vertybinių popierių komisija turi teisę atsisakyti
-panaikinti vertybinių popierių įregistravimą, jeigu:
-1) emitentas nepateikė įregistravimo panaikinimui nustatytų
-dokumentų;
-2) emitento vertybiniai popieriai panaikinami nesilaikant
-Lietuvos Respublikos įstatymų ar Vertybinių popierių komisijos nutarimų.
-6. Vertybinių popierių komisija turi teisę panaikinti
-vertybinių popierių įregistravimą, jeigu:
-1) šio straipsnio 4 dalyje numatyti pagrindai nustatomi jau
-įregistravus vertybinius popierius;
-2) emitentas pažeidžia 11 ar 12 straipsniuose nustatytą
-pirminės vertybinių popierių apyvartos tvarką.
-7. Vertybinių popierių komisijos sprendimas atsisakyti
-įregistruoti vertybinius popierius, atsisakyti panaikinti jų įregistravimą ar
-panaikinti jų įregistravimą turi būti motyvuotas. Emitento iš naujo
-pateikti dokumentai nagrinėjami bendra tvarka. 
-8. Vertybinių popierių komisija „Valstybės žinių“
-priede „Informaciniai pranešimai“ skelbia duomenis apie registruotų
-vertybinių popierių klasę, emisijos dydį, taip pat turi sudaryti sąlygas
-investuotojams susipažinti su prospektu (memorandumu). Emitentas turi sudaryti
-sąlygas susipažinti su vertybinių popierių įregistravimui pateiktais
-dokumentais visiems to pageidaujantiems asmenims.
-9. Vertybinių popierių komisija turi teisę nustatyti:
-1) atvejus, kai vertybiniai popieriai įregistruojami
-nepateikiant jų prospekto (memorandumo);
-2) vertybinių popierių, kurių prospektas buvo patikrintas
-Europos Sąjungos valstybėje narėje esančios užsienio priežiūros institucijos,
-registravimo tvarkos ypatumus;
-3) vertybinių popierių, išleidžiamų pagal specialias
-programas, registravimo tvarkos ypatumus.
+4(1) straipsnis. Pareiga paskelbti prospektą 
+1. Vertybinių popierių viešas siūlymas Lietuvos
+Respublikoje gali būti vykdomas tik po to, kai šio skirsnio nustatyta tvarka
+vertybinių popierių emitentas ar siūlytojas paskelbia prospektą.
+2. Pareiga paskelbti prospektą netaikoma, jei:
+1) vertybiniai popieriai siūlomi tik profesionaliems
+investuotojams; ir (ar)
+2) vertybiniai popieriai siūlomi mažiau kaip 100
+fizinių ar juridinių asmenų kiekvienoje Europos Sąjungos valstybėje narėje, neskaitant
+profesionalių investuotojų; ir (ar)
+3) kiekvienas iš investuotojų įsigyja vertybinių
+popierių mažiausiai už 50 tūkstančių eurų, skaičiuojant atskirai kiekvienam
+siūlymui; ir (ar)
+4) siūlomi vertybiniai popieriai, kurių vieno vieneto
+nominali vertė yra ne mažesnė kaip 50 tūkstančių eurų; ir (ar)
+5) siūlomi vertybiniai popieriai, kurių visų bendra
+pardavimo vertė nesiekia 100 tūkstančių eurų, skaičiuojant per 12 mėnesių
+laikotarpį. 
+3. Vertybinių popierių, nurodytų šio straipsnio 2
+dalyje, paskesnis pardavimas laikomas atskiru siūlymu ir, vadovaujantis šio
+Įstatymo 2 straipsnio 30 dalies nuostata, vertinama, ar toks siūlymas gali būti
+laikomas viešu siūlymu. Platinant vertybinius popierius per tarpininkus,
+prospektas turi būti skelbiamas, jei galutiniam siūlymui netaikoma nė viena iš
+šio straipsnio 2 dalyje nustatytų išimčių.
+4. Vertybinių popierių įtraukimas į prekybą
+reguliuojamoje rinkoje, kuri veikia Lietuvos Respublikoje, gali būti vykdomas
+tik po to, kai asmuo, siekiantis vertybinių popierių įtraukimo į prekybą
+reguliuojamoje rinkoje, šio skirsnio nustatyta tvarka paskelbia prospektą.
+5. Vertybinių popierių komisija nustato bendrąsias
+išimtis, taikomas vertybiniams popieriams, kuriuos viešai siūlant arba
+įtraukiant į prekybą reguliuojamoje rinkoje pareiga paskelbti prospektą
+netaikoma.
+Įstatymas papildytas straipsniu:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
+ 
+5 straipsnis. Prospekto rengimas
+1. Prospekte pateikiama informacija apie emitentą ir
+jo vertybinius popierius, kurie bus viešai siūlomi arba įtraukiami į prekybą
+reguliuojamoje rinkoje. Prospekte turi būti pateikiama visa informacija, kuri,
+atsižvelgiant į konkretaus emitento ir jo išleistų vertybinių popierių, kurie
+bus viešai siūlomi arba įtraukiami į prekybą reguliuojamoje rinkoje, ypatumus,
+yra būtina, kad investuotojai, remdamiesi šia informacija, galėtų teisingai
+įvertinti emitento ir kiekvieno garanto turtą bei įsipareigojimus, finansinę
+padėtį, pelną ir nuostolius, veiklos perspektyvas, taip pat šių vertybinių
+popierių suteikiamas teises. Prospektas privalo būti tokios formos, kuri
+palengvintų informacijos suprantamumą ir jos analizę.
+2. Jei galutinė siūlymo kaina ir vertybinių popierių,
+kurie bus viešai siūlomi, skaičius negali būti nurodyti prospekte, tai:
+1) prospekte turi būti nurodomi kriterijai ir (ar)
+sąlygos, pagal kurias bus nustatomi vertybinių popierių skaičius ir kaina arba
+maksimali kaina; arba
+2) investuotojas turi teisę, paprasta rašytine forma
+pateikdamas pareiškimą prospekte specialiai nurodytam asmeniui, atšaukti
+vertybinių popierių įsigijimą arba pasirašymą ne vėliau kaip per dvi darbo
+dienas po to, kai šio skirsnio nustatyta tvarka Vertybinių popierių komisijai
+buvo pranešta ir viešai paskelbta apie vertybinių popierių, kurie bus viešai
+siūlomi, galutinę siūlymo kainą ir kiekį. 
+3. Vertybinių popierių komisija gali leisti nepateikti
+prospekte tam tikros informacijos, kurios įtraukimo į prospektą reikalauja šio
+skirsnio ir 2004 m. balandžio 29 d. Komisijos reglamento (EB) Nr. 809/2004,
+įgyvendinančio Europos Parlamento ir Tarybos direktyvos 2003/71/EB nuostatas
+dėl prospektuose pateikiamos informacijos bei šių prospektų formato, įtraukimo
+nuorodos būdu ir paskelbimo bei reklamos skleidimo, nuostatos, jei yra
+pagrindas manyti, kad:
+1) tokios informacijos atskleidimas prieštarautų
+viešajam interesui; arba
+2) tokios informacijos atskleidimas padarytų didelę
+žalą emitentui, su sąlyga, kad informacijos nepateikimas nesuklaidins
+visuomenės dėl faktų ir aplinkybių, kuriuos būtina žinoti siekiant visapusiškai
+įvertinti emitentą, kiekvieną garantą ar vertybinių popierių siūlytoją, taip
+pat vertybinių popierių, dėl kurių rengiamas prospektas, suteikiamas teises;
+arba
+3) tokia informacija yra nereikšminga konkretaus
+siūlymo ar įtraukimo į prekybą reguliuojamoje rinkoje atveju ir negali paveikti
+emitento, garanto ar vertybinius popierius siūlančio asmens finansinės padėties
+ir perspektyvų vertinimo.
+4. Emitento, vertybinių popierių siūlytojo arba
+asmens, kuris kreipiasi dėl įtraukimo į prekybą reguliuojamoje rinkoje,
+pasirinkimu prospektą gali sudaryti vienas dokumentas arba keletas atskirų
+dokumentų. Prospekte, kurį sudaro vienas dokumentas, privalo būti santrauka,
+kurioje glaustai ir suprantamai nurodomos pagrindinės emitento, kiekvieno
+garanto ir vertybinių popierių charakteristikos bei su tuo susijusios rizikos.
+Prospekte, sudarytame iš atskirų dokumentų, turi būti registravimo dokumentas,
+vertybinių popierių raštas ir santraukos raštas. Informacija prospekte gali
+būti pateikiama nuorodos būdu. 
+5. Prospektų, jų sudedamųjų dalių formą, turinį ir sudarymo
+tvarką nustato Vertybinių popierių komisija. 
+Straipsnio
+pakeitimai:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
+ 
+5(1) straipsnis. Atsakomybė už prospekte pateiktą informaciją
+1. Už prospekte pateiktos informacijos teisingumą ir
+išsamumą yra atsakingas emitentas, garantas, emitento administracijos, valdymo
+ar priežiūros organai, vertybinių popierių siūlytojas arba asmuo, kuris
+kreipiasi dėl įtraukimo į prekybą reguliuojamoje rinkoje. Be šių asmenų ar
+bendrovės organų, už prospekte pateiktą informaciją gali būti atsakingi ir kiti
+asmenys. Atsakingi asmenys turi būti aiškiai nurodyti prospekte: fizinio asmens
+vardas, pavardė ir einamos pareigos, juridinio asmens pavadinimas ir buveinės
+adresas. Kartu turi būti pridedamas atsakingų asmenų patvirtinimas, kad, jų
+žiniomis, prospekte pateikta informacija atitinka tikrovę ir kad jokia svarbi
+informacija nėra praleista.
+2. Investuotojas, patyręs žalos dėl prospekte
+pateiktos neteisingos ar neišsamios informacijos, turi teisę iš atsakingų
+asmenų reikalauti žalos atlyginimo Civilinio kodekso nustatyta tvarka. Tačiau
+civilinė atsakomybė netaikoma, jei investicinis sprendimas buvo priimtas
+vadovaujantis vien tik santraukoje (įskaitant ir santraukos vertimą) pateikta
+informacija, nebent santrauka yra klaidinanti, neteisinga arba prieštaringa,
+kai ji skaitoma kartu su kitomis prospekto dalimis.
+3. Vertybinių popierių komisija turi teisę reikalauti,
+kad emitentas, vertybinių popierių siūlytojas ar asmuo, kuris kreipiasi dėl
+prospekto patvirtinimo, kai emitento buveinė yra ne Europos Sąjungos valstybėje
+narėje, pateiktų dokumentą, kuriame būtų nurodyti ir pasirašytų asmenys,
+atsakingi už kiekvieno iš prospekte pateikiamos informacijos punkto teisingumą
+ir išsamumą, įskaitant ir Lietuvos Respublikos konsultantus, dalyvaujančius
+rengiant prospektą ar konsultuojančius emitentą, vertybinių popierių siūlytoją
+ar asmenį, kuris kreipiasi dėl prospekto patvirtinimo.
+Įstatymas papildytas straipsniu:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
+ 
+6 straipsnis. Prospekto tvirtinimas
+1. Gali būti skelbiamas tik Vertybinių popierių
+komisijos arba kitos Europos Sąjungos valstybės narės kompetentingos
+institucijos patvirtintas prospektas.
+2. Apie priimtą sprendimą dėl prospekto patvirtinimo
+Vertybinių popierių komisija ne vėliau kaip per 10 darbo dienų nuo prospekto
+projekto pateikimo tvirtinti informuoja emitentą, vertybinių popierių siūlytoją
+ar asmenį, kuris kreipėsi dėl vertybinių popierių įtraukimo į prekybą
+reguliuojamoje rinkoje.
+3. Jei vertybinius popierius, kurie bus viešai
+siūlomi, išleido (leidžia) emitentas, kurio vertybiniai popieriai nėra įtraukti
+į prekybą reguliuojamoje rinkoje ir kuris anksčiau viešai nesiūlė vertybinių
+popierių, šio straipsnio 2 dalyje nurodytas terminas yra 20 darbo dienų.
+4. Jei Vertybinių popierių komisija šiame straipsnyje
+nustatytais terminais jokio sprendimo nepriima, laikoma, kad prospektas
+nepatvirtintas. 
+5. Jei Vertybinių popierių komisijai pateikiami ne
+visi būtini dokumentai arba ji turi rimtų priežasčių reikalauti papildomos
+informacijos, Vertybinių popierių komisija ne vėliau kaip per 10 darbo dienų po
+prašymo patvirtinti prospektą pateikimo informuoja emitentą, vertybinių
+popierių siūlytoją arba asmenį, kuris kreipiasi dėl vertybinių popierių
+įtraukimo į prekybą reguliuojamoje rinkoje, kad turi būti pateikti papildomi
+dokumentai ar informacija. Šio straipsnio 2 ir 3 dalyse nustatyti terminai
+pradedami skaičiuoti po to, kai pateikiami visi būtini dokumentai ir
+informacija.
+6. Vertybinių popierių komisija, gavusi kitos Europos
+Sąjungos valstybės narės kompetentingos institucijos išankstinį sutikimą, turi
+teisę perduoti jai tvirtinti prospektą. Apie sprendimą perduoti prospekto
+tvirtinimą kitos Europos Sąjungos valstybės narės kompetentingai institucijai
+Vertybinių popierių komisija ne vėliau kaip per 3 darbo dienas nuo sprendimo
+priėmimo praneša emitentui, vertybinių popierių siūlytojui ar asmeniui, kuris
+kreipėsi dėl įtraukimo į prekybą reguliuojamoje rinkoje. Šio straipsnio 2 ir 3
+dalyse nustatyti terminai pradedami skaičiuoti nuo Vertybinių popierių
+komisijos sprendimo perduoti prospekto tvirtinimą kitos Europos Sąjungos
+valstybės narės kompetentingai institucijai priėmimo.
+7. Vertybinių popierių komisija, gavusi prašymą
+patvirtinti prospektą, turi teisę:
+1) reikalauti, kad emitentas, vertybinių popierių
+siūlytojas ar asmuo, kuris kreipiasi dėl vertybinių popierių įtraukimo į
+prekybą reguliuojamoje rinkoje, prospekte pateiktų informaciją, būtiną
+investuotojų interesų apsaugai;
+2) reikalauti, kad emitentas, vertybinių popierių
+siūlytojas ar asmuo, kuris kreipiasi dėl įtraukimo į prekybą reguliuojamoje
+rinkoje, taip pat jų kontroliuojami ar juos kontroliuojantys asmenys pateiktų
+Vertybinių popierių komisijai papildomą informaciją ir dokumentus, reikalingus
+sprendimui dėl prospekto patvirtinimo priimti;
+3) reikalauti, kad emitento, vertybinių popierių
+siūlytojo ar asmens, kuris kreipiasi dėl įtraukimo į prekybą reguliuojamoje
+rinkoje, vadovai ir auditoriai, taip pat tarpininkai, kurie vykdo viešą siūlymą
+ar kreipiasi dėl įtraukimo į prekybą reguliuojamoje rinkoje, pateiktų
+Vertybinių popierių komisijai papildomą informaciją, reikalingą sprendimui dėl
+prospekto patvirtinimo priimti.
+8. Vertybinių popierių komisija priima sprendimą dėl
+prospekto patvirtinimo, atlikusi prospekto išsamumo patikrinimą, įskaitant jame
+pateiktos informacijos suderinamumo ir suprantamumo patikrinimą. Prospekto
+patvirtinimas reiškia, kad prospekte pateikta informacija atitinka šiame
+Įstatyme ir kituose teisės aktuose nustatytas informacijos pateikimo taisykles.
+Jis nepatvirtina pateiktos informacijos teisingumo, taip pat negali būti
+laikomas Vertybinių popierių komisijos rekomendacija investuotojams.
+Straipsnio
+pakeitimai:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
+ 
+6(1) straipsnis. Prospekto paskelbimas
+1. Emitentas, vertybinių popierių siūlytojas ar asmuo,
+kuris kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje
+rinkoje, patvirtintą prospektą pateikia Vertybinių popierių komisijai ir jį
+viešai paskelbia nedelsdamas, ne vėliau kaip prieš pradedant viešą siūlymą ar
+įtraukimą į prekybą reguliuojamoje rinkoje.
+2. Prospektas laikomas viešai paskelbtu, jeigu jis
+paskelbiamas:
+1) bent viename visoje Lietuvoje platinamame
+laikraštyje, kai viešas siūlymas bus vykdomas arba siekiama įtraukimo į prekybą
+reguliuojamoje rinkoje Lietuvos Respublikoje; arba
+2) brošiūros pavidalu, kuri yra nemokamai teikiama
+emitento buveinėje, reguliuojamos rinkos, kurioje bus prekiaujama vertybiniais
+popieriais, operatoriaus buveinėje arba vertybinių popierių viešosios apyvartos
+tarpininkų (įskaitant mokėjimų tarpininkus), platinančių ar parduodančių
+vertybinius popierius, buveinėse visiems to pageidaujantiems asmenims; arba
+3) elektronine forma emitento interneto tinklalapyje
+ir tarpininkų (įskaitant mokėjimų tarpininkus), platinančių ar parduodančių
+vertybinius popierius, interneto tinklalapyje; arba
+4) elektronine forma reguliuojamos rinkos, kurioje
+siekiama įtraukimo į prekybą, operatoriaus interneto tinklalapyje. 
+3. Jei prospektas paskelbiamas šio straipsnio 2 dalies
+1 ar 2 punkte nustatytu būdu, prospektas papildomai turi būti paskelbiamas
+elektronine forma šio straipsnio 2 dalies 3 punkte nustatyta tvarka.
+Elektronine forma paskelbto prospekto popieriuje išspausdinta kopija turi būti
+nemokamai pateikiama investuotojui, jeigu jis to prašo. Prospekto kopiją turi
+pateikti emitentas, vertybinių popierių siūlytojas arba asmuo, kuris kreipiasi
+dėl įtraukimo į prekybą reguliuojamoje rinkoje, arba tarpininkai, parduodantys
+arba kitaip platinantys vertybinius popierius. 
+4. Vertybinių popierių komisija savo interneto
+tinklalapyje skelbia per paskutinius 12 mėnesių patvirtintus prospektus. 
+5. Jei prospektas sudarytas iš atskirų dokumentų ir
+(ar) informacija pateikiama nuorodos būdu, prospektą sudarantys dokumentai ir
+informacija gali būti paskelbiami nepriklausomai vienas nuo kito, su sąlyga,
+kad visi prospektą sudarantys dokumentai ir informacija yra viešai prieinami ir
+teikiami nemokamai šio straipsnio 2 ir 3 dalyse nustatyta tvarka. Kiekviename
+atskirai paskelbtame dokumente turi būti nurodoma, kur yra paskelbti kiti
+prospektą sudarantys dokumentai. 
+6. Viešai paskelbto prospekto ir jo priedų tekstas bei
+formatas turi atitikti Vertybinių popierių komisijos patvirtinto prospekto ir
+jo priedų tekstą bei formatą.
+Įstatymas papildytas straipsniu:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
+ 
+6(2) straipsnis. Prospekto galiojimas ir prospekto priedas
+1. Prospektas galioja 12 mėnesių po jo paskelbimo, su
+sąlyga, kad yra laikomasi šio straipsnio 2 dalyje nustatytų
+reikalavimų. 
+2. Kiekvienas svarbus naujas veiksnys, reikšminga
+klaida ar netikslumas, susiję su prospekte pateikta informacija ir galintys
+turėti įtakos vertybinių popierių vertinimui, kurie atsirado ar buvo pastebėti
+laikotarpiu nuo prospekto patvirtinimo iki viešo siūlymo pabaigos arba iki
+prekybos reguliuojamoje rinkoje pradžios, turi būti nurodyti prospekto priede.
+Prospekto priedas tvirtinamas ta pačia tvarka kaip ir pats prospektas, tačiau
+ne vėliau kaip per 7 darbo dienas nuo dokumentų pateikimo, o skelbiamas ta
+pačia tvarka, kokia buvo paskelbtas pats prospektas. Santrauka, įskaitant ir
+jos vertimą, taip pat turi būti papildoma atsižvelgiant į prospekto priede
+pateiktą naują informaciją. Investuotojai, kurie išreiškė sutikimą įsigyti ar
+pasirašyti vertybinių popierių iki prospekto priedo paskelbimo, turi teisę per
+penkias darbo dienas po prospekto priedo paskelbimo atšaukti savo sutikimą, o
+emitentas, vertybinių popierių siūlytojas ar asmuo, kuris kreipiasi dėl
+įtraukimo į prekybą reguliuojamoje rinkoje, privalo per 10 darbo dienų grąžinti
+jų įnašus be jokių atskaitymų.
+Įstatymas papildytas straipsniu:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
 7 straipsnis. Periodinis informacijos skelbimas
-1. Atskaitingas emitentas Vertybinių popierių
-komisijos nustatyta tvarka ir laiku turi parengti ir Vertybinių popierių
-komisijai, vertybinių popierių biržai, kurios prekybos sąrašuose yra jo
-vertybinių popierių, bei visuomenei pateikti šias periodines ataskaitas:
+Atskaitingas emitentas ir bet kuris kitas emitentas,
+kurio išleisti vertybiniai popieriai yra viešai siūlomi arba įtraukti į prekybą
+reguliuojamoje rinkoje Lietuvos Respublikoje, Vertybinių popierių komisijos
+nustatyta tvarka ir laiku turi parengti ir Vertybinių popierių komisijai,
+reguliuojamos rinkos, kurioje prekiaujama jo išleistais vertybiniais
+popieriais, operatoriui bei visuomenei pateikti šias periodines ataskaitas: 
 1) metų prospektus-ataskaitas;
 2) kitas periodines ataskaitas.
 2. Metų prospekto-ataskaitos ir kitų periodinių
@@ -359,7 +711,7 @@ būti pateikta kartu su nepriklausomo auditoriaus išvada.
 pusmečio. Šių periodinių ataskaitų parengimo periodiškumą nustato Vertybinių
 popierių komisija, atsižvelgdama į atskaitingo emitento ir jo išleistų
 vertybinių popierių apyvartos dydį ir į tai, ar vertybiniai popieriai yra
-įtraukti į vertybinių popierių biržos prekybos sąrašus.
+įtraukti į prekybą reguliuojamoje rinkoje.
 4. Atskaitingas emitentas neatlygintinai privalo
 sudaryti sąlygas susipažinti kiekvienam jo išleistų vertybinių popierių
 savininkui su šiame straipsnyje numatytomis periodinėmis ataskaitomis, o
@@ -367,9 +719,18 @@ pastarojo reikalavimu padaryti jam šių ataskaitų kopijas. Už ataskaitų kopi
 gali būti imamas atskaitingo emitento įstatuose nustatytas mokestis,
 neviršijantis dokumentų pateikimo sąnaudų.
  
+[Straipsnis papildytas 5 dalimi] 
+5. Šio straipsnio 1 dalyje nustatyta pareiga netaikoma
+emitentams, kurių išleistų ne nuosavybės vertybinių popierių vieno vieneto
+nominali vertė yra ne mažesnė kaip 50 tūkstančių eurų.
+Straipsnio
+pakeitimai:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
+ 
 8 straipsnis. Informacijos apie esminius įvykius
 skelbimas
-1. Atskaitingas emitentas Vertybinių popierių komisijos nustatyta tvarka nedelsdamas turi pateikti Vertybinių popierių komisijai, vertybinių popierių biržai, kurios prekybos sąrašuose yra jo vertybinių popierių, ir bent dviem Lietuvos informacijos agentūroms ar dienraščiams informacinį pranešimą apie kiekvieną esminį įvykį ir paskelbti jį savo interneto tinklalapyje (jeigu jį turi), išskyrus šio straipsnio 3 dalyje numatytą atvejį. Informaciniame pranešime turi būti atskleistas įvykio pobūdis ir trumpas turinys.
+1. Atskaitingas emitentas ir bet kuris kitas emitentas, kurio išleisti vertybiniai popieriai yra viešai siūlomi arba įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje, Vertybinių popierių komisijos nustatyta tvarka nedelsdamas turi pateikti Vertybinių popierių komisijai, reguliuojamos rinkos, kurioje prekiaujama jo išleistais vertybiniais popieriais, operatoriui ir bent dviem Lietuvos informacijos agentūroms ar dienraščiams informacinį pranešimą apie kiekvieną esminį įvykį ir paskelbti jį savo interneto tinklalapyje, išskyrus šio straipsnio 3 dalyje numatytą atvejį. Informaciniame pranešime turi būti atskleistas įvykio pobūdis ir trumpas turinys.
 2. Naujienų agentūra ar dienraštis, kuriems bus
 pateikiama informacija apie esminius įvykius, turi būti nurodyti metų prospekte-ataskaitoje.
 Vertybinių popierių komisija, atsižvelgdama į emitento ir jo išleistų
@@ -378,12 +739,15 @@ turi būti pranešta ne iš karto, o per 5 darbo dienas.
 3. Jeigu dėl šio straipsnio 1 dalyje numatyto informacijos paskelbimo atskaitingas emitentas gali patirti finansinės ar konkurencinės žalos, o jos nepaskelbimas nesuklaidins visuomenės ir emitentas gali užtikrinti tos informacijos konfidencialumą, jis gali neskelbti šio informacinio pranešimo ir pateikti jį tik Vertybinių popierių komisijai su žyma „konfidenciali informacija“. Kartu jis privalo raštu paaiškinti, kodėl negalima atskleisti informacijos, ir nurodyti datą, iki kurios ji turi likti konfidenciali. Informacijos konfidencialumo pabaigos dieną ji turi būti atskleista šio straipsnio 1 dalyje nustatyta tvarka. Vertybinių popierių komisija turi teisę įpareigoti emitentą pranešti apie esminį įvykį ir anksčiau nei emitento numatyta atskleidimo diena, jei: 1) nebėra šioje dalyje numatyto pagrindo neskelbti informacijos arba 
 2) informacija tapo žinoma
 asmenims, kuriems ji neturėjo būti perduota.
-4. Vertybinių popierių birža turi teisę nustatyti
-papildomus informacijos apie esminius įvykius pateikimo reikalavimus
-emitentams, kurių vertybiniai popieriai įtraukti į jos prekybos sąrašus.
+4. Reguliuojamos rinkos operatorius turi teisę
+nustatyti papildomus informacijos apie esminius įvykius pateikimo reikalavimus
+emitentams, kurių vertybiniai popieriai įtraukti į prekybą toje reguliuojamoje
+rinkoje.
 Straipsnio pakeitimai:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
 9 straipsnis. Draudimas naudotis viešai neatskleista informacija prekiaujant vertybiniais popieriais1. Asmenims, kurie viešai neatskleistą informaciją turi dėl to, kad yra emitento administracijos pareigūnai, valdymo ar priežiūros organų nariai ar tokia informacija jiems yra prieinama dėl jų tarnybinės padėties, profesijos, pareigų arba dėl buvimo emitento akcininku ar dėl to, kad ją gavo nusikalstamu būdu, draudžiama tiesiogiai ar netiesiogiai bandyti sudaryti ar sudaryti savo ar trečiojo asmens sąskaita sandorių dėl vertybinių popierių, su kuriais informacija susijusi, kol ji bus viešai atskleista. Jeigu aukščiau paminėtas asmuo yra juridinis asmuo, atitinkamas draudimas taip pat taikomas fiziniams asmenims, dalyvaujantiems priimant sprendimus dėl sandorių to juridinio asmens sąskaita sudarymo.2. Šio straipsnio 1 dalyje nurodytiems asmenims taip pat draudžiama: 1) tiesiogiai ar netiesiogiai perduoti viešai neatskleistą informaciją kitam asmeniui, išskyrus atvejus, kai informacija atskleidžiama įprastai vykdant tarnybinę, profesinę veiklą arba pareigas; 2) remiantis viešai neatskleista informacija rekomenduoti, paskatinti ar pasiūlyti kitam asmeniui sudaryti sandorį dėl vertybinių popierių, su kuriais viešai neatskleista informacija yra susijusi.3. Draudimai, nustatyti šiame straipsnyje, taip pat taikomi kiekvienam viešai neatskleistą informaciją turinčiam asmeniui, kuris žino ar turi žinoti, kad ta informacija nėra viešai atskleista. Šio straipsnio 1 dalyje nustatyti draudimai netaikomi sandorių, sudarytų iki viešai neatskleistos informacijos sužinojimo, vykdymui. 4. Emitento vadovai ir su jais glaudžiai susiję asmenys, kurių sąrašą nustato Vertybinių popierių komisija, šios nustatyta tvarka ir terminais turi pranešti apie sandorius, kuriuos jie sudarė savo sąskaita dėl jų vadovaujamo emitento vertybinių popierių ir dėl išvestinių ar kitų su tais vertybiniais popieriais susietų finansinių priemonių. Šiuose pranešimuose turi būti nurodoma sandorių rūšis, skaičius, datos, perleistų ar įsigytų vertybinių popierių rūšis ir skaičius, sandorių suma, atsiskaitymo forma ir kiti Vertybinių popierių komisijos reikalaujami duomenys. Šioje dalyje nurodyta informacija skelbiama visuomenei Vertybinių popierių komisijos nustatyta tvarka.5. Emitentas ar asmuo, veikiantis emitento vardu ar sąskaita, atskleisdamas viešai neatskleistą informaciją bet kuriam trečiajam asmeniui atlikdamas įprastines tarnybines, profesines ar kitas pareigas, turi tuo pačiu metu (jei atskleidimas iš anksto neapgalvotas – nedelsiant po atskleidimo) veiksmingai paskelbti visą tą informaciją visuomenei. Šis reikalavimas netaikomas, jei informaciją sužinojęs asmuo privalo laikytis konfidencialumo pareigos, kylančios iš teisės aktų, įmonės įstatų ar sutarties. Emitentai ar asmenys, veikiantys emitentų vardu ar jų sąskaita, Vertybinių popierių komisijos nustatyta tvarka turi jai pranešti duomenis (įskaitant asmens kodus) apie asmenis, turinčius teisę sužinoti viešai neatskleistą informaciją darbo sutarčių ar kitokiais pagrindais, ir apie asmenis, susijusius su emitentu.6. Tarpininkas, tarpininkaudamas sudarant sandorį ir pagrįstai įtardamas, kad sandoris vyktų pažeidžiant šio straipsnio 1, 2 ar 3 dalyje arba 10 straipsnyje numatytus draudimus, turi nedelsdamas apie tai pranešti Vertybinių popierių komisijai. 7. Šiame straipsnyje ir 10 straipsnyje numatyti draudimai netaikomi Lietuvos Respublikos, kitos Europos Sąjungos valstybės, Lietuvos banko, Europos centrinių bankų sistemos ar kitos panašias funkcijas atliekančios institucijos ar pagal jų pavedimą veikiančio asmens operacijoms pinigų politikos, valiutos kurso reguliavimo, valstybės skolos ir rezervų tvarkymo politikos srityje.8. Šiame straipsnyje ir 10 straipsnyje numatyti draudimai netaikomi savų akcijų supirkimui ar kainų stabilizavimui, jeigu jis vykdomas teisės aktų nustatyta tvarka.9. Šiame straipsnyje ir 10 straipsnyje numatyti draudimai ir reikalavimai vertybinių popierių, kuriais prekiaujama Lietuvos Respublikoje esančiose ar veikiančiose reguliuojamose rinkose (arba dėl kurių įtraukimo į tokias rinkas yra kreiptasi), atžvilgiu taikomi tiek veiksmams, atliktiems Lietuvos Respublikos teritorijoje, tiek už jos ribų. Šiame straipsnyje ir 10 straipsnyje numatyti draudimai ir reikalavimai vertybinių popierių, kuriais prekiaujama Europos Sąjungos valstybių reguliuojamose rinkose (arba dėl kurių įtraukimo į tokias rinkas yra kreiptasi), atžvilgiu taikomi veiksmams, atliktiems Lietuvos Respublikos teritorijoje, net jei atitinkamas sandoris yra sudarytas už tokios rinkos ribų. 10. Šiame straipsnyje numatyti draudimai yra taikomi ir vertybiniams popieriams, kuriais nėra prekiaujama šio straipsnio 9 dalyje numatytose rinkose, jeigu jų vertė yra susieta su 9 dalyje numatytais vertybiniais popieriais.
 Straipsnio pakeitimai:
@@ -395,78 +759,210 @@ Straipsnio pakeitimai:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
  
-11 straipsnis. Pirminė vertybinių popierių apyvarta
-1. Pirminė vertybinių popierių apyvarta gali vykti,
-kai emitentas platina vertybinius popierius savo jėgomis ar pagal sutartis su
-tarpininkais. Platinimas gali vykti per vertybinių popierių biržą pagal
-Vertybinių popierių komisijos patvirtintas taisykles.
-2. Pirminės apyvartos metu visiems asmenims, turintiems
-teisę įsigyti vertybinių popierių, turi būti užtikrintos vienodos įsigijimo
-sąlygos. Kiekvienam investuotojui turi būti sudarytos sąlygos susipažinti su
-prospektu (memorandumu) ir kitais dokumentais, kurių pagrindu vertybiniai
-popieriai buvo įregistruoti.
-3. Prospekte (memorandume) nurodyta platinimo tvarka,
-apmokėjimo tvarka ir terminai gali būti pakeisti tik platinimo metu
-Vertybinių popierių komisijos leidimu. Draudžiama keisti vertybinių popierių
-emisijos kainą, nominalią vertę, klasę ar rūšį. Vertybinius popierius platinant
-per vertybinių popierių biržą ir kitais Vertybinių popierių komisijos
-nustatytais atvejais prospekte gali būti nurodomos mažiausios ir didžiausios
-vertybinių popierių kainos ribos.
-4. Jeigu iki pradedant pirminę apyvartą arba pirminės
-apyvartos metu pasikeičia prospekte (memorandume) pateikti duomenys ar įvyksta
-esminis įvykis, emitentas turi apie tai paskelbti esminiams įvykiams nustatyta
-tvarka ir atitinkamai pataisyti prospektą (memorandumą). Tokiais atvejais
-asmenys, jau pasirašę emitento vertybinių popierių, per 5 dienas nuo naujos
-informacijos atskleidimo turi teisę jų atsisakyti, o emitentas privalo be jokių
-atskaitymų per 10 dienų grąžinti jų įnašus.
-5. Vertybinių popierių komisija turi teisę sustabdyti
-vertybinių popierių platinimą, jeigu:
-1)
-emitentas arba tarpininkas nesilaiko nustatytos platinimo tvarkos;
-2) paaiškėja, kad registruojant vertybinius popierius
-buvo pateikti ne visi ar neteisingi duomenys.
+11 straipsnis. Vertybinių popierių reklama
+1. Bet kokios rūšies reklama, susijusi su vertybinių
+popierių viešu siūlymu ar įtraukimu į prekybą reguliuojamoje rinkoje, gali būti
+vykdoma tik laikantis šio straipsnio 2–6 dalyse nustatytų reikalavimų. Šio
+straipsnio 2–5 dalyse nustatytų reikalavimų privaloma laikytis, jei paskelbti
+prospektą privaloma.
+2. Reklamoje turi būti patvirtinama, kad prospektas
+yra arba bus paskelbtas, ir nurodoma, kur investuotojai jį gali arba galės
+gauti. 
+3. Reklamoje pateikiama informacija turi būti tiksli
+ir neklaidinanti. Reklamoje pateikiama informacija turi atitikti prospekte
+esančią informaciją (kai prospektas jau paskelbtas) arba informaciją, kurią
+būtina paskelbti prospekte (kai prospektas bus paskelbtas vėliau).
+4. Žodine ar rašytine forma atskleista informacija,
+susijusi su viešu siūlymu ar įtraukimu į prekybą reguliuojamoje rinkoje, turi
+atitikti prospekte esančią informaciją neatsižvelgiant į tai, ar informacija
+buvo paskelbta reklamos tikslais. 
+5. Kai emitentas arba vertybinių popierių siūlytojas
+teikia svarbią informaciją profesionaliems investuotojams ar specialioms
+investuotojų kategorijoms (įskaitant informaciją, atskleidžiamą su vertybinių
+popierių siūlymais susijusiuose susirinkimuose), tokia informacija turi būti
+įtraukiama į prospektą arba prospekto priedą Vertybinių popierių komisijos
+nustatyta tvarka. 
+6. Kai pagal šį Įstatymą ar Vertybinių popierių
+komisijos patvirtintas taisykles parengti prospektą nėra privaloma, o emitentas
+arba vertybinių popierių siūlytojas teikia svarbią informaciją šio straipsnio 5
+dalyje nurodytiems asmenims, tokia informacija visiems nurodytiems asmenims
+turi būti atskleidžiama vienodomis sąlygomis.
+7. Šiame straipsnyje nustatytų reikalavimų laikymosi
+priežiūrą vykdo Vertybinių popierių komisija. Vertybinių popierių komisija,
+turėdama pagrindą įtarti, kad buvo pažeistos šio straipsnio nuostatos, turi
+teisę uždrausti vertybinių popierių reklamą ar ją sustabdyti ne ilgesniam kaip
+10 iš eilės einančių darbo dienų terminui.
 Straipsnio pakeitimai:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
-12 straipsnis. Pirminės viešosios vertybinių popierių
-apyvartos ypatybės
-1. Draudžiama reklamuoti vertybinius popierius ir
-skelbti apie jų pasirašymą, jeigu jie nėra įregistruoti Vertybinių popierių
-komisijoje. Emitentas arba jam atstovaujantis tarpininkas turi teisę iki
-vertybinių popierių įregistravimo atlikti rinkos tyrimus, sudarydamas sąlygas
-investuotojams susipažinti su Vertybinių popierių komisijai pateikto prospekto
-projektu.
-2. Emitentas privalo bent viename iš šalies dienraščių
-paskelbti visą prospekto tekstą arba skelbimą, nurodantį, kur prospektą galima
-gauti. Jei paskelbiamas tik skelbimas, emitentas privalo sudaryti sąlygas gauti
-nemokamą prospekto kopiją emitento buveinėje ir vertybinių popierių platinimo
-vietose kiekvienam pageidaujančiam.
-3. Vertybinių popierių reklamos projektai turi būti iš
-anksto pateikti Vertybinių popierių komisijai. Reklamoje gali būti tik
-prospekte ar periodinėse ataskaitose esanti informacija. Kiekvienoje reklamoje
-turi būti nurodyta, kur ir kada galima susipažinti su prospektu ir emitento
-ataskaitomis.
+12 straipsnis. Lietuvos Respublikos
+emitento kitoje Europos Sąjungos valstybėje
+narėje vykdomo viešo siūlymo ir
+įtraukimo į prekybą
+reguliuojamoje rinkoje ypatumai 
+1. Vertybinių popierių komisija, gavusi emitento arba
+už prospekto parengimą atsakingo asmens prašymą leisti vykdyti vertybinių
+popierių viešą siūlymą ar įtraukimą į prekybą reguliuojamoje rinkoje kitoje
+Europos Sąjungos valstybėje narėje, ne vėliau kaip per 3 darbo dienas po
+prašymo pateikimo, kai prašymas pateikiamas kartu su patvirtintu prospektu,
+arba ne vėliau kaip kitą darbo dieną po prospekto patvirtinimo, kai prašymas
+pateikiamas kartu su prospekto projektu, perduoda priimančiosios Europos
+Sąjungos valstybės narės kompetentingai institucijai prospekto kopiją ir
+prospekto patvirtinimo pažymą, liudijančią, kad prospektas parengtas laikantis teisės
+aktų reikalavimų. Jei priimančiosios valstybės narės teisės aktuose nustatyta,
+kad turi būti pateikiamas prospekto santraukos vertimas, Vertybinių popierių
+komisija priimančiosios valstybės narės kompetentingai institucijai papildomai
+perduoda emitento ar kito už prospekto parengimą atsakingo asmens parengtą
+prospekto santraukos vertimą, taip pat prospekto priedą, jei atsiranda šiame
+Įstatyme numatyta pareiga pateikti prospekto priedą.
+2. Jei yra šiame Įstatyme nustatytas pagrindas
+neteikti prospekte tam tikros informacijos, atitinkamas pagrindas ir
+informacijos nepateikimą pateisinantys motyvai turi būti nurodyti prospekto
+patvirtinimo pažymoje.
+Straipsnio
+pakeitimai:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
-13 straipsnis. Tarpininko vykdoma
-pirminė viešoji vertybinių popierių apyvarta
-Visi pirminės viešosios vertybinių popierių apyvartos
-reikalavimai yra taikomi ir tuo atveju, kai tarpininkas vykdo viešąją jam
-priklausančių vertybinių popierių, kuriuos įsigijo iš emitento įsipareigodamas
-juos platinti, apyvartą. 
+12(1) straipsnis.
+Emitento, kurio buveinės valstybė narė yra ne Lietuvos Respublika, išleistų
+vertybinių popierių viešas siūlymas ir įtraukimas į prekybą reguliuojamoje
+rinkoje Lietuvos Respublikoje 
+1. Emitento, kurio buveinės valstybė narė yra ne
+Lietuvos Respublika, išleistų vertybinių popierių viešas siūlymas ar įtraukimas
+į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje gali būti vykdomas tik
+po to, kai buveinės valstybės narės kompetentinga institucija perduoda
+Vertybinių popierių komisijai prospekto kopiją ir patvirtinimo pažymą,
+liudijančią, kad prospektas parengtas pagal buveinės valstybės narės teisės
+aktų reikalavimus.
+2. Jei prospektas parengtas ne lietuvių kalba, kartu
+su prospektu ir patvirtinimo pažyma turi būti perduodamas prospekto santraukos
+vertimas į lietuvių kalbą, taip pat prospekto priedai, jei atsiranda buveinės
+valstybės narės teisės aktuose nustatyta pareiga pateikti prospekto priedus. 
+3. Jei Vertybinių popierių komisija nustato, kad emitentas
+arba už viešą siūlymą atsakingos finansų įstaigos pažeidė šiame Įstatyme ir
+kituose teisės aktuose nustatytus reikalavimus, taikomus emitentams, kurių
+vertybiniai popieriai yra viešai siūlomi arba įtraukti į prekybą reguliuojamoje
+rinkoje, apie nustatytus pažeidimus ji turi nedelsdama pranešti emitento
+buveinės valstybės narei. Jei emitentas arba už viešą siūlymą atsakinga finansų
+įstaiga, nepaisydama buveinės valstybės narės kompetentingos institucijos
+pritaikytų poveikio priemonių, ir toliau pažeidinėja šiame Įstatyme ir kituose
+teisės aktuose nustatytus reikalavimus, arba paaiškėja, kad pritaikytos
+poveikio priemonės buvo nepakankamos, Vertybinių popierių komisija, prieš tai
+informavusi buveinės valstybės narės kompetentingą instituciją, imasi visų
+būtinų priemonių investuotojų interesams apsaugoti. Vertybinių popierių
+komisija nedelsdama informuoja Europos Komisiją apie priemones, kurių buvo
+imtasi.
+Įstatymas papildytas straipsniu:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
-14 straipsnis. Antrinė vertybinių popierių apyvarta
-1. Jau išleistų į apyvartą vertybinių popierių viešoji
-apyvarta ar viešas siūlymas juos perleisti gali būti atliekamas tik per
-tarpininkus. Šis reikalavimas netaikomas vykdant valstybei ar savivaldybėms
-priklausančių vertybinių popierių privatizavimą. 
-2. Jeigu vertybiniai popieriai yra įtraukti į Lietuvos
-Respublikos įregistruotos vertybinių popierių biržos oficialųjį  ar einamąjį
-prekybos  sąrašą, jų antrinės apyvartos pirkimo–pardavimo sandoriai turi būti
-sudaromi tik toje vertybinių popierių biržoje.  
+12(2) straipsnis. Ne Europos Sąjungos
+valstybėse narėse įsteigti emitentai
+1. Vertybinių popierių komisija turi teisę patvirtinti
+emitento, kurio buveinė yra ne Europos Sąjungos valstybėje narėje, o buveinės
+valstybė narė pagal šio Įstatymo 2 straipsnio 34 dalį yra Lietuvos Respublika,
+prospektą dėl vertybinių popierių viešo siūlymo ar įtraukimo į prekybą
+reguliuojamoje rinkoje, jei prospektas parengtas pagal valstybės, kurioje yra
+emitento buveinė, teisės aktų reikalavimus, su sąlyga, kad: 
+1) prospektas parengtas pagal vertybinių popierių
+komisijų tarptautinių organizacijų patvirtintus tarptautinius standartus,
+įskaitant Tarptautinės vertybinių popierių komisijų organizacijos (IOSCO)
+patvirtintus Atskleidimo standartus;
+2) pateikiamai informacijai keliami reikalavimai
+(įskaitant finansinio pobūdžio informaciją) atitinka šiame Įstatyme keliamus
+reikalavimus.
+2. Jei vertybinių popierių, kuriuos išleido šio
+straipsnio 1 dalyje nurodytas emitentas, viešas siūlymas arba įtraukimas į
+prekybą reguliuojamoje rinkoje vykdomas vienoje ar keliose Europos Sąjungos
+valstybėse narėse arba vienoje ar keliose Europos Sąjungos valstybėse narėse,
+išskyrus Lietuvą, turi būti laikomasi šio Įstatymo 12 ir 13 straipsnių reikalavimų.
+Įstatymas papildytas straipsniu:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
+ 
+13 straipsnis. Prospekto kalba, kai
+emitento buveinės valstybė narė yra Lietuvos
+Respublika 
+1. Jei viešas siūlymas bus vykdomas ar įtraukimo į
+prekybą reguliuojamoje rinkoje siekiama tik Lietuvos Respublikoje, prospektas
+turi būti parengtas lietuvių kalba. 
+2. Jei viešas siūlymas bus vykdomas ar įtraukimo į
+prekybą reguliuojamoje rinkoje siekiama vienoje ar keliose Europos Sąjungos valstybėse
+narėse, išskyrus Lietuvos Respubliką, Vertybinių popierių komisijai teikiamas
+tvirtinti prospektas emitento, vertybinių popierių siūlytojo ar asmens, kuris
+kreipiasi dėl įtraukimo į prekybą reguliuojamoje rinkoje, pasirinkimu turi būti
+parengtas lietuvių arba tarptautinių finansų srityje vartojama kalba.
+3. Jei viešas siūlymas bus vykdomas arba įtraukimo į
+prekybą reguliuojamoje rinkoje siekiama Lietuvos Respublikoje ir vienoje ar
+keliose kitose Europos Sąjungos valstybėse narėse, prospektas, teikiamas
+tvirtinti Vertybinių popierių komisijai, turi būti parengtas lietuvių kalba.
+Emitento, vertybinių popierių siūlytojo ar asmens, kuris kreipiasi dėl
+įtraukimo į prekybą reguliuojamoje rinkoje, pasirinkimu papildomai turi būti
+pateikiamas prospekto vertimas kiekvienos priimančiosios valstybės narės
+kompetentingai institucijai priimtina kalba arba tarptautinių finansų srityje
+vartojama kalba. 
+4. Jei ne nuosavybės vertybinius popierius, kurių
+vieno vieneto nominali vertė yra ne mažesnė kaip 50 tūkstančių eurų, siekiama
+įtraukti į prekybą reguliuojamoje rinkoje vienoje ar keliose Europos Sąjungos
+valstybėse narėse, prospektas emitento, vertybinių popierių siūlytojo ar
+asmens, kuris kreipiasi dėl įtraukimo į prekybą reguliuojamoje rinkoje,
+pasirinkimu turi būti parengtas buveinės valstybės narės ir priimančiųjų
+valstybių narių kompetentingoms institucijoms priimtina kalba arba tarptautinių
+finansų srityje vartojama kalba. Jei šių vertybinių popierių įtraukimas į prekybą
+reguliuojamoje rinkoje bus vykdomas Lietuvos Respublikoje, papildomai turi būti
+parengta prospekto santrauka lietuvių kalba. 
+Straipsnio
+pakeitimai:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
+ 
+14 straipsnis. Pirminė vertybinių popierių apyvarta
+1. Pirminė vertybinių popierių apyvarta gali vykti,
+kai emitentas platina vertybinius popierius savo jėgomis ar pagal sutartis su
+tarpininkais. Platinimas gali vykti ir pasitelkiant reguliuojamos rinkos
+operatoriaus technines-organizacines priemones pagal Vertybinių popierių
+komisijos patvirtintas taisykles.
+2. Pirminės apyvartos metu visiems asmenims,
+turintiems teisę įsigyti vertybinių popierių, turi būti užtikrintos vienodos
+įsigijimo sąlygos. Kiekvienam investuotojui turi būti sudarytos sąlygos
+susipažinti su šio skirsnio nustatyta tvarka parengtu, patvirtintu ir paskelbtu
+prospektu.
+3. Prospekte nurodyta vertybinių popierių platinimo
+tvarka, apmokėjimo tvarka ir terminai gali būti pakeisti tik Vertybinių
+popierių komisijos leidimu platinimo metu. Tokiu atveju turi būti patvirtinamas
+ir paskelbiamas prospekto priedas šio Įstatymo 6(2) straipsnio 2
+dalyje nustatyta tvarka. Draudžiama keisti vertybinių popierių emisijos kainą,
+nominalią vertę, klasę ar rūšį.
+4. Visi pirminės apyvartos reikalavimai yra taikomi ir
+tuo atveju, kai tarpininkas vykdo jam priklausančių vertybinių popierių,
+kuriuos įsigijo iš emitento įsipareigodamas juos platinti, apyvartą.
+5. Emitentui draudžiama įsigyti savo paties
+išleidžiamų vertybinių popierių. 
+Straipsnio
+pakeitimai:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
+ 
+14(1) straipsnis. Antrinė vertybinių
+popierių apyvarta
+1. Vertybinių popierių viešas siūlymas antrinėje
+apyvartoje gali būti atliekamas tik per tarpininkus. Šis reikalavimas
+netaikomas vykdant valstybei ar savivaldybėms priklausančių vertybinių popierių
+privatizavimą. 
+2. Lietuvos Respublikoje sudaromi vertybinių popierių,
+kurie įtraukti į prekybą Lietuvoje veikiančioje reguliuojamoje rinkoje,
+pirkimo–pardavimo sandoriai turi būti sudaromi tik toje reguliuojamoje rinkoje.
+
 3. Vertybinių popierių komisijos nustatytais atvejais
 ir tvarka sąskaitų tvarkytojai turi pranešti apie sandorius, sudarytus už
-vertybinių popierių biržos ribų. 
+reguliuojamos rinkos ribų.
+Įstatymas papildytas straipsniu:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
 TREČIASIS SKIRSNIS
 VERTYBINIŲ
@@ -474,27 +970,22 @@ POPIERIŲ PAKETO ĮSIGIJIMAS
  
 15 straipsnis. Pareiga pranešti apie akcijų paketo
 įsigijimą ar netekimą
-*1. Asmuo,
+1. Asmuo,
 kuris veikdamas savarankiškai ar kartu su kitais asmenimis įgyja 1/20, 1/10,
-1/5, 1/3, 1/2, 2/3 ar 3/4 balsų Lietuvos Respublikoje įregistruoto atskaitingo
-emitento visuotiniame akcininkų susirinkime arba
-įgyja 19/20 balsų emitento, kurio akcijos yra įtrauktos į Lietuvos Respublikoje
-įregistruotos vertybinių popierių biržos oficialųjį arba einamąjį prekybos
-sąrašą, visuotiniame akcininkų susirinkime, ne vėliau kaip per 7
+1/5, 1/3, 1/2, 2/3, 3/4 ar 19/20 balsų Lietuvos Respublikoje įsteigto
+atskaitingo emitento visuotiniame akcininkų susirinkime, ne vėliau kaip per 7
 dienas privalo pranešti Vertybinių popierių komisijai ir emitentui turimų balsų
 skaičių, kartu pateikdamas duomenis apie vertybinius popierius, suteikiančius
 ateityje teisę balsuoti arba turėti emitento akcijų. Tokia pat pareiga taikoma
 ir tuo atveju, kai nurodytos ribos peržengiamos mažėjimo tvarka.
-*Pastaba. Vertybinių popierių rinkos įstatymo 15 straipsnio 1 dalies nuostatos dėl būtinumo pranešti įgijus 19/20 balsų emitento, kurio akcijos yra įtrauktos į Lietuvos Respublikoje įregistruotos vertybinių popierių biržos oficialųjį arba einamąjį prekybos sąrašą, visuotiniame akcininkų susirinkime, įsigalioja nuo 2005 m. sausio 1 d.
- 
 2. Šio straipsnio 1 dalyje nustatyta pareiga atsiranda
 tą dieną, kai asmuo sužino apie atitinkamo balsų kiekio įgijimą ar praradimą
 arba, atsižvelgiant į aplinkybes, turi apie tai sužinoti.
 3. Jei šio straipsnio 1 dalyje nustatytas balsų kiekis
 įgyjamas ar jo netenkama įsigyjant ar perleidžiant depozitoriumo pakvitavimus dėl akcijų, pareiga pranešti
 atsiranda pakvitavimų savininkams.
-4. Šio straipsnio 1 dalyje nustatyta pareiga netaikoma įmonei,
-kuri priklauso įmonių grupei, privalančiai sudaryti konsoliduotą metinę
+4. Šio straipsnio 1 dalyje nustatyta pareiga netaikoma
+įmonei, kuri priklauso įmonių grupei, privalančiai sudaryti konsoliduotą metinę
 finansinę atskaitomybę, jei apie tai praneša įmonei patronuojanti įmonė ar
 pastarąją patronuojanti
 įmonė.
@@ -518,6 +1009,8 @@ vadovai, pažeistos akcininkų turtinės ar neturtinės teisės.
 Straipsnio pakeitimai:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
 16 straipsnis. Asmens turimų balsų skaičiavimo tvarka
 1. Asmens turimais balsais šiame Įstatyme yra laikoma teisė
@@ -557,9 +1050,9 @@ Nr. IX-2174,
 17 straipsnis. Oficialus pasiūlymas
 1. Oficialus pasiūlymas yra asmens ketinimo įsigyti
 dalį ar visus atskaitingo emitento vertybinius popierius paskelbimo procedūra.
-2. Visiems atskaitingo
-emitento vertybinių popierių savininkams turi būti sudaromos vienodos galimybės
-gauti informaciją apie pasiūlymą ir parduoti vertybinius popierius. Pasiūlymo
+2. Visiems atskaitingo emitento
+vertybinių popierių savininkams turi būti sudaromos vienodos galimybės gauti
+informaciją apie pasiūlymą ir parduoti vertybinius popierius. Pasiūlymo
 įgyvendinimo laikotarpis negali būti trumpesnis kaip 30 dienų ir ilgesnis kaip
 60 dienų.
 3. Siūlytojas turi
@@ -597,14 +1090,14 @@ paskelbimą sušauktas emitento visuotinis akcininkų susirinkimas.
 19 straipsnis. Pareiga skelbti privalomą oficialų
 pasiūlymą
 1. Jeigu asmuo, veikdamas savarankiškai ar kartu su
-kitais asmenimis, įgyja daugiau kaip 40 procentų balsų atskaitingo emitento
-akcininkų susirinkime, jis per 30 dienų privalo:
-1)
-perleisti vertybinius popierius, viršijančius šią ribą, arba
+kitais asmenimis, įgyja daugiau kaip 40 procentų balsų Lietuvos Respublikoje
+įsteigto atskaitingo emitento akcininkų susirinkime, jis per 30 dienų privalo:
+1) perleisti vertybinius
+popierius, viršijančius šią ribą, arba
 2) pateikti oficialų pasiūlymą supirkti likusius
 atskaitingo emitento vertybinius popierius, suteikiančius balsavimo teisę, ir
-vertybinius popierius, patvirtinančius teisę įsigyti balsavimo teisę suteikiančius
-vertybinius popierius.
+vertybinius popierius, patvirtinančius teisę įsigyti balsavimo teisę
+suteikiančius vertybinius popierius.
 2. Privalomo pasiūlymo kaina turi būti ne mažesnė nei
 didžiausia vertybinių popierių, kuriuos siūlytojas įsigijo per 12 mėnesių iki
 peržengdamas šio straipsnio 1 dalyje nurodytą ribą, kaina. Kitais atvejais privalomo pasiūlymo būdu superkamų
@@ -614,9 +1107,9 @@ turi teisę nepatvirtinti turto vertintojo, jeigu jis yra susijęs su siūlytoju
 ar kitais asmenimis, turinčiais turtinį interesą dėl emitento vertybinių
 popierių. Kiekvienas emitento akcininkas
 turi teisę kreiptis į teismą reikalaudamas įpareigoti asmenį, pateikusį
-privalomą oficialų pasiūlymą, padidinti privalomo pasiūlymo kainą taip, kad ji nepažeistų
-sąžiningumo reikalavimų. Tokiu atveju Civilinio kodekso 2.118, 2.119 ir
-2.127–2.130 straipsniai taikomi mutatis mutandis.
+privalomą oficialų pasiūlymą, padidinti privalomo pasiūlymo kainą taip, kad ji
+nepažeistų sąžiningumo reikalavimų. Tokiu atveju Civilinio kodekso 2.118, 2.119
+ir 2.127–2.130 straipsniai taikomi mutatis mutandis.
 3. Savarankiškai veikiantis asmuo ar kartu veikiantys
 asmenys nuo šio straipsnio 1 dalyje nurodytos balsų ribos peržengimo netenka
 visų balsų visuotiniame emitento akcininkų susirinkime. Balsavimo teisė vėl
@@ -638,19 +1131,17 @@ oficialų pasiūlymą atsiliepė.
 Straipsnio pakeitimai:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
-Įstatymas papildomas 19(1) straipsniu nuo 2005 m. sausio 1 d.:
-
 19(1)
 straipsnis. Privalomas akcijų pardavimas ir pirkimas
-1. Emitento, kurio
-akcijos yra įtrauktos į Lietuvos Respublikoje įregistruotos vertybinių popierių
-biržos oficialųjį arba einamąjį prekybos sąrašą, akcininkas, veikdamas
-savarankiškai ar kartu su kitais asmenimis, įsigijęs akcijų, suteikiančių ne
-mažiau kaip 95 procentus visų balsų šio emitento visuotiniame akcininkų
-susirinkime, turi teisę reikalauti, kad visi kiti emitento akcininkai parduotų
-jiems priklausančias akcijas, suteikiančias balso teisę, o šie privalo jas
-parduoti šio Įstatymo nustatyta tvarka.
+1. Lietuvos Respublikoje įsteigto atskaitingo emitento
+akcininkas, veikdamas savarankiškai ar kartu su kitais asmenimis, įsigijęs
+akcijų, suteikiančių ne mažiau kaip 95 procentus visų balsų šio emitento
+visuotiniame akcininkų susirinkime, turi teisę reikalauti, kad visi kiti
+emitento akcininkai parduotų jiems priklausančias akcijas, suteikiančias balso
+teisę, o šie privalo jas parduoti šio Įstatymo nustatyta tvarka.
 2. Akcininko,
 veikiančio savarankiškai ar kartu su kitais asmenimis, balsai skaičiuojami
 pagal šio Įstatymo 16 straipsnį. Jei emitentas yra išleidęs skirtingų klasių
@@ -674,8 +1165,8 @@ turi būti teisinga. Akcijų kaina nustatoma vadovaujantis tokiais principais:
 1) jei akcininkas,
 veikdamas savarankiškai ar kartu su kitais asmenimis ir įsigijęs akcijų,
 suteikiančių ne mažiau kaip 95 procentus visų balsų emitento visuotiniame
-akcininkų susirinkime, teikė privalomą oficialų pasiūlymą, kaina nustatoma tokia,
-kokia buvo mokama jam įsigyjant emitento akcijas šiuo būdu;
+akcininkų susirinkime, teikė privalomą oficialų pasiūlymą, kaina nustatoma
+tokia, kokia buvo mokama jam įsigyjant emitento akcijas šiuo būdu;
 2) jei akcininkas,
 veikdamas savarankiškai ar kartu su kitais asmenimis ir įsigijęs akcijų,
 suteikiančių ne mažiau kaip 95 procentus visų balsų emitento visuotiniame
@@ -705,8 +1196,8 @@ visas emitento akcijas, turi pateikti emitentui pranešimą apie akcijų
 išpirkimą, kuriame turi būti nurodyta:
 1) duomenys apie
 akcijas išperkantį akcininką, veikiantį savarankiškai ar kartu su kitais
-asmenimis (fizinio asmens vardas, pavardė, gyvenamoji vieta; juridinio asmens pavadinimas,
-buveinė);
+asmenimis (fizinio asmens vardas, pavardė, gyvenamoji vieta; juridinio asmens
+pavadinimas, buveinė);
 2) akcijas išperkančio
 akcininko, veikiančio savarankiškai ar kartu su kitais asmenimis, turimų akcijų
 skaičius pagal klases ir jų suteikiami balsai;
@@ -721,8 +1212,8 @@ ir vieta.
 8. Prie šio straipsnio
 7 dalyje nurodyto pranešimo emitentui pridedami dokumentai, pagrindžiantys
 akcijų kainos nustatymą:
-1) šio straipsnio 4
-dalies 1 ir 2 punkte nustatytais atvejais – oficialaus pasiūlymo cirkuliaras ir
+1) šio straipsnio 4 dalies
+1 ir 2 punkte nustatytais atvejais – oficialaus pasiūlymo cirkuliaras ir
 ataskaita;
 2) šio straipsnio 4
 dalies 3 punkte nustatytu atveju – kiti dokumentai, pagrindžiantys akcijų
@@ -754,9 +1245,9 @@ kainos nustatymą pagrindžiančiais dokumentais, pateiktais pagal šio straipsn
 10. Per 90 dienų nuo
 šio straipsnio 9 dalyje nurodyto paskelbimo emitento įstatuose nurodytame
 Lietuvos Respublikos dienraštyje dienos visi akcininkai turi parduoti savo
-akcijas pranešime apie akcijų išpirkimą nurodytam akcininkui, veikiančiam savarankiškai
-ar kartu su kitais asmenimis, arba ginčyti šiame pranešime nurodytą už akcijas
-siūlomą kainą šio straipsnio 14 dalyje nustatyta tvarka. 
+akcijas pranešime apie akcijų išpirkimą nurodytam akcininkui, veikiančiam
+savarankiškai ar kartu su kitais asmenimis, arba ginčyti šiame pranešime
+nurodytą už akcijas siūlomą kainą šio straipsnio 14 dalyje nustatyta tvarka. 
 11. Jei akcininkas per šio
 straipsnio 10 dalyje nustatytą terminą akcijų nepardavė ir siūlomos akcijų
 kainos neginčijo, laikoma, kad paskutinę šio straipsnio 10 dalyje nustatyto
@@ -769,11 +1260,11 @@ akcijas:
 nepardavusiems akcininkams už akcijas pasiūlyta kaina sumoka į depozitinę
 sąskaitą Civilinio kodekso 6.56 straipsnyje nustatyta tvarka, jeigu jie vengia
 priimti mokėjimą kitu būdu;
-2) akcininko, kurio
-akcijos privalomai išperkamos, ir savo vertybinių popierių sąskaitos
-tvarkytojams pateikęs dokumentą apie tai, kad akcijų nepardavusiam akcininkui
-atliktas mokėjimas į depozitinę sąskaitą ar kitu būdu, turi teisę reikalauti,
-kad vertybinių popierių sąskaitose būtų padaryti įrašai apie akcijų nuosavybės
+2) akcininko, kurio akcijos
+privalomai išperkamos, ir savo vertybinių popierių sąskaitos tvarkytojams
+pateikęs dokumentą apie tai, kad akcijų nepardavusiam akcininkui atliktas
+mokėjimas į depozitinę sąskaitą ar kitu būdu, turi teisę reikalauti, kad
+vertybinių popierių sąskaitose būtų padaryti įrašai apie akcijų nuosavybės
 teisės perėjimą akcijas superkančiam akcininkui. Tokiu atveju sąskaitų
 tvarkytojai privalo padaryti atitinkamus įrašus.
 12. Jei akcijas išperkantis
@@ -783,38 +1274,37 @@ teisę ateityje reikalauti parduoti jam akcijas šiame straipsnyje nustatyta
 tvarka.
 13. Už perkamas akcijas
 gali būti atsiskaitoma tik pinigais.
-14. Kiekvienas
-akcininkas per šio straipsnio 10 dalyje nustatytą terminą turi teisę kreiptis į
-apygardos teismą pagal emitento buveinę, reikalaudamas nustatyti akcijų kainą
-taip, kad ji nepažeistų teisingumo reikalavimų. Tokiu atveju Civilinio kodekso
-2.118, 2.119 ir 2.127–2.130 straipsniai taikomi mutatis mutandis. Jei
-bent vienas akcininkas kreipėsi į teismą, teismas gali privalomą akcijų
-išpirkimo procedūrą sustabdyti iki teismo nutarties dėl akcijų kainos nustatymo
+14. Kiekvienas akcininkas
+per šio straipsnio 10 dalyje nustatytą terminą turi teisę kreiptis į apygardos
+teismą pagal emitento buveinę, reikalaudamas nustatyti akcijų kainą taip, kad
+ji nepažeistų teisingumo reikalavimų. Tokiu atveju Civilinio kodekso 2.118,
+2.119 ir 2.127–2.130 straipsniai taikomi mutatis mutandis. Jei bent
+vienas akcininkas kreipėsi į teismą, teismas gali privalomą akcijų išpirkimo
+procedūrą sustabdyti iki teismo nutarties dėl akcijų kainos nustatymo
 įsiteisėjimo dienos. Tuo laikotarpiu, kol yra sustabdyta akcijų išpirkimo
 procedūra, akcininkai neprivalo parduoti ir pirkti akcijų ir neskaičiuojami
 šiame straipsnyje nustatyti akcininkų įsipareigojimų įvykdymo terminai. Visoms
-akcijoms, įskaitant ir tas, kurios parduotos pranešimą apie akcijų išpirkimą
-pateikusiam akcininkui iki kreipimosi į teismą, turi būti taikoma ne mažesnė
-kaina, nei nustatyta teismo nutartimi.
-15. Emitento, kurio
-akcijos yra įtrauktos į Lietuvos Respublikoje įregistruotos vertybinių popierių
-biržos oficialųjį arba einamąjį prekybos sąrašą, bet kuris akcininkas turi
+akcijoms, įskaitant ir tas, kurios parduotos pranešimą apie akcijų išpirkimą pateikusiam
+akcininkui iki kreipimosi į teismą, turi būti taikoma ne mažesnė kaina, nei
+nustatyta teismo nutartimi.
+15. Lietuvos Respublikoje įsteigto atskaitingo emitento, išskyrus tuos
+emitentus, kurie yra įtraukti į privatizavimo objektų sąrašą ir kurių akcijos
+nėra įtrauktos į reguliuojamų rinkų prekybos sąrašus, bet kuris akcininkas turi
 teisę reikalauti iš akcininko, veikiančio savarankiškai ar kartu su kitais
 asmenimis ir įsigijusio akcijas, suteikiančias ne mažiau kaip 95 procentus visų
 balsų emitento visuotiniame akcininkų susirinkime, nupirkti jam priklausančias
 akcijas, suteikiančias balso teisę, o šis akcininkas privalo nupirkti jas šio
-įstatymo nustatyta tvarka. Tokiu atveju akcijas reikalaujantis išpirkti akcininkas
-pateikia emitentui pranešimą. Pranešime turi būti nurodyta:
-1) duomenys apie
-akcininką, reikalaujantį nupirkti akcijas (fizinio asmens vardas, pavardė,
-gyvenamoji vieta; juridinio asmens pavadinimas, buveinė);
-2) akcininko,
-reikalaujančio nupirkti akcijas, turimų akcijų skaičius pagal klases ir jų
-suteikiami balsai;
-3) akcininko
-reikalavimas nupirkti jam priklausančias atitinkamos klasės emitento akcijas;
-4) už akcijas norima
-gauti kaina ir jos nustatymo būdas;
+Įstatymo nustatyta tvarka. Tokiu atveju akcijas reikalaujantis išpirkti
+akcininkas pateikia emitentui pranešimą. Pranešime turi būti nurodyta:
+1) duomenys apie akcininką, reikalaujantį
+nupirkti akcijas (fizinio asmens vardas, pavardė, gyvenamoji vieta; juridinio
+asmens pavadinimas, buveinė);
+2) akcininko, reikalaujančio nupirkti akcijas,
+turimų akcijų skaičius pagal klases ir jų suteikiami balsai;
+3) akcininko reikalavimas nupirkti jam
+priklausančias atitinkamos klasės emitento akcijas;
+4) už akcijas norima gauti kaina ir jos nustatymo
+būdas;
 5) akcijų pardavimo vieta.
 16. Tais atvejais, kai
 bet kuris akcininkas reikalauja, kad akcininkas, veikdamas savarankiškai ar
@@ -829,6 +1319,10 @@ kurią sumokėti praleistas terminas.
 Įstatymas papildytas straipsniu:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Straipsnio
+pakeitimai:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
 KETVIRTASIS SKIRSNIS
 TARPININKAI
@@ -905,9 +1399,9 @@ ir reklamoje tik tos įmonės, kurios turi teisę teikti investicines paslaugas.
 portfelius, gali savo pavadinime vartoti žodžius „investicijų valdymo įmonė“ ar
 kitokius šių žodžių junginius ir vedinius.
 3. Komerciniams bankams teisę teikti investicines
-paslaugas suteikia banko licencija, jeigu joje ši veikla nėra apribota. Vertybinių
-popierių komisija pateikia Lietuvos bankui išvadą apie komercinio banko
-pasirengimą, įkūrus specializuotą vidaus struktūrinį padalinį, teikti
+paslaugas suteikia banko licencija, jeigu joje ši veikla nėra apribota.
+Vertybinių popierių komisija pateikia Lietuvos bankui išvadą apie komercinio
+banko pasirengimą, įkūrus specializuotą vidaus struktūrinį padalinį, teikti
 investicines paslaugas. Komerciniams bankams taikomi tokie pat reikalavimai ir
 apribojimai kaip ir finansų maklerio įmonėms, išskyrus atvejus, kai šis
 Įstatymas nustato, jog tam tikros taisyklės taikomos tik finansų maklerio
@@ -936,8 +1430,8 @@ nesilaikoma kitų teisės aktų nustatytų reikalavimų;
 šio Įstatymo 26 straipsnio 3 dalies 1 ir 2 punktuose nustatytų reikalavimų ar
 nepateikia informacijos apie savo dalyvius, veiklą ir finansinę būklę; 
 4) bent vienas juridinio asmens darbuotojas yra
-vertybinių popierių biržos ar Lietuvos centrinio vertybinių popierių depozitoriumo
-(toliau – Centrinis depozitoriumas) darbuotojas;
+vertybinių popierių biržos ar Lietuvos centrinio vertybinių popierių
+depozitoriumo (toliau – Centrinis depozitoriumas) darbuotojas;
 5) juridinio asmens valdybos nariai ar administracijos
 vadovas nėra nepriekaištingos reputacijos, neturi Vertybinių popierių komisijos
 nustatytos kvalifikacijos ar darbo patirties finansų ir joms prilygintose
@@ -985,9 +1479,9 @@ Straipsnio pakeitimai:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
  
-23 straipsnis. Europos Sąjungos valstybėse
-narėse licencijuotų finansų maklerio įmonių teisė teikti investicines paslaugas
-Lietuvos Respublikoje
+23 straipsnis. Europos Sąjungos
+valstybėse narėse licencijuotų finansų maklerio įmonių teisė teikti
+investicines paslaugas Lietuvos Respublikoje
 1. Europos
 Sąjungos valstybėje narėje licencijuota finansų maklerio įmonė gali įsteigti
 filialą Lietuvos Respublikoje, jei užsienio priežiūros institucija Vertybinių
@@ -995,14 +1489,14 @@ popierių komisijai perdavė įmonės veiklos planą, nurodydama veiklos rūšis
 numatomą filialo adresą, struktūrą ir informaciją apie filialo vadovus. Gavusi
 tokį pranešimą, Vertybinių popierių komisija pasiruošia atlikti priežiūrą ir
 nurodo finansų maklerio įmonei, kurių veiklos reikalavimų, nustatytų viešo
-intereso sumetimais, ji privalės laikytis. Filialas gali būti įsteigtas, kai
-finansų maklerio įmonė gauna tokį Vertybinių popierių komisijos pranešimą, o
-jei pranešimo negauna, – kai praeina 2 mėnesiai nuo tada, kai užsienio
-priežiūros institucija Vertybinių popierių komisijai perdavė šioje dalyje
-numatytą informaciją.
+intereso sumetimais, ji privalės laikytis. Filialas gali būti įsteigtas, kai finansų
+maklerio įmonė gauna tokį Vertybinių popierių komisijos pranešimą, o jei
+pranešimo negauna, – kai praeina 2 mėnesiai nuo tada, kai užsienio priežiūros
+institucija Vertybinių popierių komisijai perdavė šioje dalyje numatytą
+informaciją.
 2. Jei šio straipsnio 1 dalyje nurodyta finansų
-maklerio įmonė jau turi bent vieną filialą Lietuvos Respublikoje, šio straipsnio
-nustatyta tvarka netaikoma kitiems jos filialams steigti.
+maklerio įmonė jau turi bent vieną filialą Lietuvos Respublikoje, šio
+straipsnio nustatyta tvarka netaikoma kitiems jos filialams steigti.
 3. Europos Sąjungos valstybėje narėje licencijuota finansų
 maklerio įmonė gali pradėti teikti investicines paslaugas Lietuvos Respublikoje
 nesteigdama filialo, suėjus 1 mėnesiui nuo tos dienos, kai užsienio priežiūros
@@ -1117,9 +1611,9 @@ akcijų paketą arba padidinti jau turimą akcijų kiekį tiek, kad jo turimų b
 ar įstatinio kapitalo dalis pasiektų 1/5, 1/3 ar 1/2 ribą, arba tiek, kad
 finansų maklerio įmonė taptų jo dukterine įmone, turi gauti išankstinį
 Vertybinių popierių komisijos sutikimą. Akcijų paketu šiame straipsnyje yra
-laikomas ir toks akcijų ar balso teisę suteikiančių akcijų kiekis, kuris yra mažesnis
-nei 1/10 visų ar balso teisę suteikiančių akcijų, jeigu jis leidžia iš esmės
-daryti įtaką finansų maklerio įmonės valdymui. Asmens turimi balsai yra
+laikomas ir toks akcijų ar balso teisę suteikiančių akcijų kiekis, kuris yra
+mažesnis nei 1/10 visų ar balso teisę suteikiančių akcijų, jeigu jis leidžia iš
+esmės daryti įtaką finansų maklerio įmonės valdymui. Asmens turimi balsai yra
 skaičiuojami šio Įstatymo 16 straipsnyje nustatyta tvarka. 
 2. Toks asmuo turi pateikti Vertybinių popierių
 komisijos nustatyto turinio prašymą, o Vertybinių popierių komisija ne vėliau
@@ -1131,9 +1625,16 @@ arba atsisakymą leisti įsigyti akcijų paketą.
 – vadovai ir kontroliuojantys asmenys) nėra nepriekaištingos reputacijos;
 2) asmuo yra vertybinių popierių biržos, Vertybinių
 popierių komisijos ar Centrinio depozitoriumo darbuotojas;
-3) juridinis asmuo nepateikė informacijos apie savo
-dalyvius, veiklą ir finansinę būklę;
-4) išdavus leidimą atsirastų toks glaudus ryšys, kuris
+3) asmuo nepateikė informacijos apie savo veiklą ir
+finansinę padėtį;
+[Papildyti 3 dalį naujais 4, 5, 6
+punktais]
+4) juridinis asmuo nepateikė informacijos apie savo
+dalyvius;
+5) asmuo nepateikė dokumentų, įrodančių, kad lėšos,
+skirtos akcijoms apmokėti, yra gautos teisėtai;
+6) asmens finansinė padėtis nėra gera ir stabili;
+7) išdavus leidimą atsirastų toks glaudus ryšys, kuris
 būtų pagrindas atsisakyti išduoti finansų maklerio įmonės licenciją.
 4. Atsisakymas leisti įsigyti finansų maklerio įmonės
 akcijų paketą turi būti motyvuotas raštu ir gali būti skundžiamas teismui.
@@ -1165,14 +1666,16 @@ patirties ir reputacijos.
 Straipsnio pakeitimai:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
 27 straipsnis. Finansų maklerio įmonės valdymas
 Finansų maklerio įmonėje turi būti vienasmenis
 valdymo organas − bendrovės vadovas ir sudaromas kolegialus valdymo organas –
 valdyba.
 Straipsnio pakeitimai:
-Nr. IX-2174,
-2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. IX-2174, 2004-04-27,
+Žin., 2004, Nr. 73-2514 (2004-04-30)
  
 28 straipsnis. Makleriai
 1. Makleriu gali būti
@@ -1181,9 +1684,9 @@ suteikiančią teisę vykdyti vieną ar kelias numatytas maklerių operacijas.
 2. Asmuo, pretenduojantis gauti maklerio licenciją,
 turi išlaikyti Vertybinių popierių komisijos organizuojamus egzaminus ar
 pateikti šiai komisijai jos pripažintą kvalifikacijos dokumentą. Vertybinių
-popierių komisija turi teisę nustatyti pretendentams išsimokslinimo ir
-profesinius reikalavimus. Maklerio licencija negali būti išduodama asmeniui,
-kuris nėra nepriekaištingos reputacijos. 
+popierių komisija turi teisę nustatyti pretendentams išsimokslinimo ir profesinius
+reikalavimus. Maklerio licencija negali būti išduodama asmeniui, kuris nėra
+nepriekaištingos reputacijos. 
 3. Vertybinių popierių komisija turi teisę panaikinti
 maklerio licenciją:
 1) raštišku maklerio prašymu;
@@ -1245,10 +1748,10 @@ dalyje numatytą informaciją per 3 mėnesius turi perduoti užsienio priežiūr
 institucijai, pridėdama informaciją apie įsipareigojimų investuotojams draudimo
 sistemą. Vertybinių popierių komisija turi neleisti įsteigti filialą ir
 atsisakyti perduoti numatytą informaciją tik tuo atveju, jei numatomo filialo
-organizacinė struktūra ar įmonės finansinė padėtis neatitinka Vertybinių
-popierių komisijos nustatytų reikalavimų tokiai veiklai vykdyti. Finansų
-maklerio įmonei turi būti nedelsiant pranešama apie informacijos perdavimą arba
-atsisakymą ją perduoti. 
+organizacinė struktūra ar įmonės finansinė padėtis neatitinka Vertybinių popierių
+komisijos nustatytų reikalavimų tokiai veiklai vykdyti. Finansų maklerio įmonei
+turi būti nedelsiant pranešama apie informacijos perdavimą arba atsisakymą ją
+perduoti. 
 4. Finansų maklerio įmonė, norėdama teikti
 investicines paslaugas užsienio valstybėje nesteigdama filialo, turi apie tai
 pranešti Vertybinių popierių komisijai. Kartu įmonė turi pateikti veiklos
@@ -1357,9 +1860,9 @@ tarpininkų, teikiančių investicines paslaugas Lietuvos
 Respublikoje, veiklos
 priežiūra
 1. Užsienio tarpininkai, teikiantys investicines paslaugas
-Lietuvos Respublikoje, privalo laikytis Lietuvos Respublikos teisės aktais
-nustatytų veiklos reikalavimų. Jų filialų organizacinė struktūra turi atitikti
-tuos Vertybinių popierių komisijos nustatytus reikalavimus, kuriais siekiama
+Lietuvos Respublikoje, privalo laikytis Lietuvos Respublikos teisės aktais nustatytų
+veiklos reikalavimų. Jų filialų organizacinė struktūra turi atitikti tuos
+Vertybinių popierių komisijos nustatytus reikalavimus, kuriais siekiama
 apriboti tarpininko ir kliento ar klientų tarpusavio interesų konfliktų
 galimybę.
 2. Vertybinių popierių komisija turi teisę iš užsienio
@@ -1387,8 +1890,8 @@ Respublikoje.
 apie užsienio tarpininko licencijos panaikinimą, nedelsdama imasi priemonių jo
 veiklai Lietuvos Respublikoje nutraukti.
 Straipsnio pakeitimai:
-Nr. IX-2174,
-2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. IX-2174, 2004-04-27,
+Žin., 2004, Nr. 73-2514 (2004-04-30)
 
  
 37 straipsnis. Finansų maklerio įmonės reorganizavimas
@@ -1420,13 +1923,13 @@ POPIERIŲ BIRŽA
  
 39 straipsnis. Draudimas be
 licencijos verstis vertybinių popierių biržos veikla
-1. Veikla, kuria
-techninėmis ir organizacinėmis priemonėmis koncentruojama vertybinių popierių
-paklausa ir pasiūla, kartu prekybos dalyviams sukuriant galimybę pagal
-nustatytas prekybos taisykles sudaryti sandorius, turi teisę verstis tik
-Vertybinių popierių komisijos išduotą licenciją vertybinių popierių biržos
-veiklai turinti akcinė bendrovė. Biržos pavadinime turi būti žodžiai
-„vertybinių popierių birža“ arba šių žodžių santrumpa – VPB.
+1. Veikla, kuria techninėmis
+ir organizacinėmis priemonėmis koncentruojama vertybinių popierių paklausa ir
+pasiūla, kartu prekybos dalyviams sukuriant galimybę pagal nustatytas prekybos
+taisykles sudaryti sandorius, turi teisę verstis tik Vertybinių popierių
+komisijos išduotą licenciją vertybinių popierių biržos veiklai turinti akcinė
+bendrovė. Biržos pavadinime turi būti žodžiai „vertybinių popierių birža“ arba
+šių žodžių santrumpa – VPB.
 2. Vertybinių popierių biržų, kurių buveinė yra Lietuvos
 Respublikoje, prekybos sąrašus Vertybinių popierių komisija įtraukia į Lietuvos
 Respublikos reguliuojamų rinkų sąrašą. 
@@ -1442,7 +1945,8 @@ pažeidimu.
 įtraukimą į prekybos sąrašus, kotiravimą, saugų ir veiksmingą sandorių sudarymą
 bei atsiskaitymus;
 2) skatinti sąžiningą prekybą vertybiniais popieriais
-ir siekti užkirsti kelią manipuliavimui rinka bei kitiems nesąžiningiems veiksmams;
+ir siekti užkirsti kelią manipuliavimui rinka bei kitiems nesąžiningiems
+veiksmams;
 3) skleisti informaciją, leidžiančią įvertinti biržoje
 kotiruojamus vertybinius popierius, taip pat informaciją apie jų emitentus;
 4) užtikrinti
@@ -1486,8 +1990,8 @@ atsakyti per 2 mėnesius.
 3. Vertybinių popierių komisija atsisako išduoti
 licenciją biržos veiklai, jeigu:
 1) biržos įstatai, steigimo sutartis, prekybos
-taisyklės ar kiti pateikti dokumentai prieštarauja Lietuvos Respublikos įstatymams
-ar kitiems teisės aktams;
+taisyklės ar kiti pateikti dokumentai prieštarauja Lietuvos Respublikos
+įstatymams ar kitiems teisės aktams;
 2) pateiktuose dokumentuose nurodyta neteisinga
 informacija;
 3) pateiktas biržos veiklos pagrindimas yra
@@ -1502,8 +2006,8 @@ institucijose.
 licenciją vertybinių popierių biržos veiklai, jei birža nesilaiko teisės aktų
 nustatytų reikalavimų.
 Straipsnio pakeitimai:
-Nr. IX-2174, 2004-04-27,
-Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. IX-2174,
+2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
  
 42 straipsnis. Vertybinių popierių biržos akcijų
 paketo įsigijimas
@@ -1513,8 +2017,8 @@ paketui įsigyti. Vertybinių popierių komisija gali atsisakyti leisti įsigyti
 biržos akcijų paketą, jei:
 1) asmuo (juridinio asmens – vadovai ir kontroliuojantys
 asmenys) nėra nepriekaištingos reputacijos;
-2) juridinis asmuo nepateikė informacijos apie savo dalyvius,
-veiklą ir finansinę būklę.
+2) juridinis asmuo nepateikė informacijos apie savo
+dalyvius, veiklą ir finansinę būklę.
  
 43 straipsnis. Vertybinių popierių biržos valdymas
 1.Vertybinių popierių biržoje privalo būti sudarytos
@@ -1526,8 +2030,8 @@ balsu ir gauti posėdžio dalyviams pateikiamą medžiagą.
 44 straipsnis. Prekyba vertybiniais popieriais
 vertybinių popierių biržoje
 1. Prekyba vertybiniais popieriais vertybinių popierių
-biržoje vyksta pagal prekybos taisykles, kurias biržos teikimu tvirtina
-Vertybinių popierių komisija.
+biržoje vyksta pagal prekybos taisykles, kurias biržos teikimu tvirtina Vertybinių
+popierių komisija.
 2. Vertybinių popierių biržos prekybos taisyklės turi
 nustatyti:
 1) vertybinių popierių įtraukimo į biržos prekybos
@@ -1544,12 +2048,12 @@ tvarką ir sąlygas, atsakomybę už pareigų nevykdymą;
 9) metinės nario įmokos, įmokos už biržos sandorius,
 vertybinių popierių įtraukimo į biržos prekybos sąrašus ir metinės kotiravimo
 įmokos dydžius. 
-3. Visi Vertybinių popierių komisijoje įregistruoti
-vertybiniai popieriai, skirti viešajai apyvartai, gali būti įtraukti į
-vertybinių popierių biržos prekybos sąrašus pagal biržos prekybos taisyklėse
-nustatytus reikalavimus. Emitentas, kurio vertybiniai popieriai yra biržos
-prekybos sąrašuose, biržos nustatyta tvarka ir laiku turi pateikti jai kituose
-šio Įstatymo straipsniuose numatytą informaciją.
+3. Emitento vertybiniai popieriai gali būti įtraukti į
+prekybą reguliuojamoje rinkoje pagal reguliuojamos rinkos prekybos taisyklėse
+nustatytus reikalavimus. Emitentas, kurio vertybiniai popieriai yra įtraukti į
+prekybą reguliuojamoje rinkoje, reguliuojamos rinkos operatoriaus nustatyta
+tvarka ir laiku turi pateikti jam kituose šio Įstatymo straipsniuose numatytą
+informaciją.
 4. Tapti vertybinių popierių biržos nariu ir naudotis
 jos atsiskaitymo sistema gali tie tarpininkai, kurie turi teisę Lietuvos
 Respublikoje teikti investicines paslaugas, numatytas šio Įstatymo 2 straipsnio
@@ -1561,6 +2065,10 @@ taisyklėse numatytas sankcijas už padarytus pažeidimus.
 6. Vertybinių popierių komisija turi teisę įpareigoti
 vertybinių popierių biržą sustabdyti prekybą vertybiniais popieriais, jei tai
 būtina investuotojų interesams apsaugoti.
+Straipsnio
+pakeitimai:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
 ŠEŠTASIS SKIRSNIS
 VERTYBINIŲ POPIERIŲ APSKAITA
@@ -1568,8 +2076,8 @@ VERTYBINIŲ POPIERIŲ APSKAITA
 45 straipsnis. Vertybinių popierių apskaitos pagrindai
 1. Vertybiniai popieriai fiksuojami įrašais asmeninėse
 vertybinių popierių sąskaitose, tvarkomose vertybinių popierių ir jų
-cirkuliacijos apskaitos taisyklių nustatyta tvarka. Šias taisykles parengia
-Centrinis depozitoriumas ir patvirtina Vertybinių popierių komisija. Asmeninės sąskaitos
+cirkuliacijos apskaitos taisyklių nustatyta tvarka. Šias taisykles parengia Centrinis
+depozitoriumas ir patvirtina Vertybinių popierių komisija. Asmeninės sąskaitos
 atidaromos vertybinių popierių savininkų vardu, išskyrus šio straipsnio 2 ir 3
 dalyse nustatytas išimtis.
 2. Įkeistų vertybinių
@@ -1663,8 +2171,8 @@ išleistų į apyvartą kiekvienos emisijos vertybinių popierių skaičius atit
 faktiškai cirkuliuojančių šių vertybinių popierių skaičių;
 6) rengti ir diegti priemones, užtikrinančias
 vertybinių popierių apskaitos sistemos vientisumą ir saugumą;
-7) kontroliuoti, kaip sąskaitų tvarkytojai laikosi
-vertybinių popierių apskaitos taisyklių ir instrukcijų;
+7) kontroliuoti, kaip sąskaitų tvarkytojai laikosi vertybinių
+popierių apskaitos taisyklių ir instrukcijų;
 8) kaupti, apdoroti ir platinti informaciją apie
 vertybinių popierių apskaitą, rengti ir konsultuoti vertybinių popierių
 apskaitos specialistus;
@@ -1764,8 +2272,8 @@ taisyklių vertybinių popierių apyvartoje;
 vertybinių popierių rinkos veikimą ir investuotojų apsaugą;
 3) teikti pasiūlymus dėl valstybės ekonominės
 politikos, skatinančios vertybinių popierių rinkos plėtrą, formavimo;
-4) skleisti informaciją apie vertybinių popierių rinkos
-veikimo principus;
+4) skleisti informaciją apie vertybinių popierių
+rinkos veikimo principus;
 5) imtis kitų priemonių šiam Įstatymui ir kitiems
 teisės aktams, susijusiems su vertybinių popierių rinka, įgyvendinti.
 2. Įgyvendindama šio straipsnio 1 dalyje numatytus
@@ -1787,7 +2295,7 @@ sąskaitų tvarkytojų veiklą;
 6) taiko šiame bei kituose Lietuvos Respublikos
 įstatymuose numatytas sankcijas asmenims, pažeidusiems šį Įstatymą ir
 Vertybinių popierių komisijos nutarimus;
-7) registruoja vertybinių popierių emisijas;
+7) tvirtina vertybinių popierių prospektus;
 8) spausdina ar dalyvauja spausdinant leidinius apie
 vertybinių popierių rinkos veikimą ir reguliavimą;
 9) rengia egzaminus ir
@@ -1816,9 +2324,10 @@ nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
-53 straipsnis. Vertybinių popierių komisijos darbo
-organizavimas
+53 straipsnis. Vertybinių popierių komisijos darbo organizavimas
 1. Vertybinių popierių komisijos darbui vadovauja
 pirmininkas, o kai jo nėra, – pirmininko pavaduotojas. 
 2. Vertybinių popierių komisijos pirmininkas:
@@ -1837,11 +2346,10 @@ daryti administracijos darbuotojo.
 3. Kiekvienas Vertybinių popierių komisijos narys yra
 atsakingas už jam pavestą veiklos sritį ir dalyvauja svarstant bei priimant
 sprendimus (nutarimus) visais Vertybinių popierių komisijos kompetencijai
-priklausančiais klausimais. Jei Vertybinių popierių komisijos posėdyje
-sprendžiamas klausimas, susijęs su nario privačiais interesais, keliančiais
-viešųjų ir privačių interesų konfliktą, narys apie tai raštu praneša prieš
-svarstymą ir neturi teisės dalyvauti svarstant ir priimant sprendimą
-(nutarimą).
+priklausančiais klausimais. Jei Vertybinių popierių komisijos posėdyje sprendžiamas
+klausimas, susijęs su nario privačiais interesais, keliančiais viešųjų ir
+privačių interesų konfliktą, narys apie tai raštu praneša prieš svarstymą ir
+neturi teisės dalyvauti svarstant ir priimant sprendimą (nutarimą).
 4. Vertybinių popierių komisija organizuoja viešus ir
 uždarus posėdžius. Uždaruose posėdžiuose svarstomi klausimai, susiję su rinkos
 dalyvių padarytais šio Įstatymo ir kitų teisės aktų pažeidimais arba
@@ -1856,11 +2364,12 @@ laikomas priimtu, jeigu už jį balsuoja ne mažiau kaip 3 nariai.
 sprendžiamojo balso teises. Vertybinių popierių komisijos narys neturi teisės
 atsisakyti balsuoti arba susilaikyti. Jei narių balsai pasiskirsto po lygiai,
 lemia posėdžio pirmininko balsas. Posėdžio sprendimai (nutarimai) priimami
-vardiniu balsavimu, jeigu to reikalauja bent vienas Vertybinių popierių komisijos
-narys. Vertybinių popierių komisijos sprendimai (nutarimai) ir jų motyvai
-skelbiami viešai. Vertybinių popierių komisijos pritaikytos poveikio priemonės
-ar sankcijos skelbiamos viešai, išskyrus atvejus, kai toks paskelbimas padarytų
-žalos rinkai ar padarytų neproporcingos žalos suinteresuotiems asmenims.
+vardiniu balsavimu, jeigu to reikalauja bent vienas Vertybinių popierių
+komisijos narys. Vertybinių popierių komisijos sprendimai (nutarimai) ir jų
+motyvai skelbiami viešai. Vertybinių popierių komisijos pritaikytos poveikio
+priemonės ar sankcijos skelbiamos viešai, išskyrus atvejus, kai toks
+paskelbimas padarytų žalos rinkai ar padarytų neproporcingos žalos
+suinteresuotiems asmenims.
 Straipsnio pakeitimai:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
@@ -1915,21 +2424,21 @@ numatyta tvarka.
 57 straipsnis. Vertybinių popierių
 komisijos teisė perduoti konfidencialią informaciją
 1. Vertybinių popierių komisija turi teisę
-konfidencialią informaciją perduoti Lietuvos Respublikos priežiūros institucijoms,
-užsienio priežiūros institucijoms, esančioms Europos Sąjungos valstybėse
-narėse, ir šiame straipsnyje nurodytoms kitoms institucijoms jų priežiūros
-funkcijoms atlikti. Šiame straipsnyje numatytas perdavimas leidžiamas tik tuo
-atveju, jei informaciją gaunančioms institucijoms taikomas toks pat draudimas
-atskleisti konfidencialią informaciją kaip ir Vertybinių popierių komisijai.
-Priežiūros funkcijos yra teisės aktų laikymosi priežiūra, poveikio priemonių
-taikymas ar dalyvavimas teismo procesuose dėl priimto priežiūros institucijos
-sprendimo.
+konfidencialią informaciją perduoti Lietuvos Respublikos priežiūros
+institucijoms, užsienio priežiūros institucijoms, esančioms Europos Sąjungos
+valstybėse narėse, ir šiame straipsnyje nurodytoms kitoms institucijoms jų
+priežiūros funkcijoms atlikti. Šiame straipsnyje numatytas perdavimas
+leidžiamas tik tuo atveju, jei informaciją gaunančioms institucijoms taikomas
+toks pat draudimas atskleisti konfidencialią informaciją kaip ir Vertybinių
+popierių komisijai. Priežiūros funkcijos yra teisės aktų laikymosi priežiūra,
+poveikio priemonių taikymas ar dalyvavimas teismo procesuose dėl priimto
+priežiūros institucijos sprendimo.
 2. Vertybinių popierių komisija turi teisę sudaryti
 bendradarbiavimo susitarimus, numatančius apsikeitimą konfidencialia
 informacija, ir su užsienio priežiūros institucijomis, kurios yra valstybėse ne
-Europos Sąjungos narėse, ar šiame straipsnyje nurodytomis kitomis
-institucijomis. Tokia informacija joms gali būti perduota tik jų priežiūros
-funkcijoms atlikti. 
+Europos Sąjungos narėse, ar šiame straipsnyje nurodytomis kitomis institucijomis.
+Tokia informacija joms gali būti perduota tik jų priežiūros funkcijoms atlikti.
+
 3.
 Konfidenciali informacija gali būti perduota šioms institucijoms:
 1)
@@ -1947,8 +2456,8 @@ draudimo fondus;
 5) institucijoms, atsakingoms už tarpininkų, kredito
 įstaigų, investicinių kintamojo kapitalo bendrovių, investicinių fondų valdymo
 įmonių, kitų finansinių institucijų bei draudimo įmonių auditorių priežiūrą;
-6) valstybių centriniams bankams ar kitoms
-monetarines funkcijas atliekančioms institucijoms;
+6) valstybių centriniams bankams ar kitoms monetarines
+funkcijas atliekančioms institucijoms;
 7) valstybės įstaigoms, prižiūrinčioms mokėjimų
 sistemas;
 8) įstaigoms, vykdančioms kliringą ir atsiskaitymus.
@@ -1974,8 +2483,8 @@ institucijos išankstinį sutikimą.
 6. Vertybinių popierių komisija turi teisę
 konfidencialią informaciją perduoti ir tarpininkų asociacijai, prižiūrinčiai,
 kaip jos nariai laikosi asociacijos nustatytų taisyklių, jeigu jos atstovai,
-atliekantys priežiūros funkcijas, užtikrina informacijos konfidencialumo išsaugojimą.
-
+atliekantys priežiūros funkcijas, užtikrina informacijos konfidencialumo
+išsaugojimą. 
 7. Vertybinių popierių komisija keičiasi informacija,
 teikia pagalbą ir bendradarbiauja su užsienio priežiūros institucijomis, kai to
 reikia Įstatymo 9 ar 10 straipsniuose numatytų pažeidimų tyrimui. Šiems
@@ -2021,8 +2530,8 @@ Vertybinių popierių komisija finansuojama iš valstybės
 biudžeto.
  
 59 straipsnis. Vertybinių popierių
-komisijos teisės nagrinėjant vertybinių popierių rinkos veikimą
-reglamentuojančių norminių aktų pažeidimus
+komisijos teisės nagrinėjant vertybinių popierių rinkos veikimą reglamentuojančių
+norminių aktų pažeidimus
 1. Vertybinių popierių komisija turi teisę organizuoti
 ir atlikti patikrinimus, kad nustatytų, ar laikomasi šio Įstatymo bei jo
 pagrindu priimtų teisės aktų.
@@ -2053,13 +2562,21 @@ susijusius su tikrinamu asmeniu, iš kitų ūkio subjektų, taip pat iš valstyb
 ir savivaldybės institucijų.
 3. Šio straipsnio 2 dalyje numatytoms teisėms
 įgyvendinti Vertybinių popierių komisija gali pasitelkti policijos pareigūnus.
-4.
-Vertybinių popierių komisijos sprendimu gali būti sustabdoma prekyba
-vertybiniais popieriais, asmenims gali būti laikinai uždraudžiama vykdyti
-profesinę veiklą, susijusią su investicinių paslaugų teikimu, ar Vertybinių
-popierių komisijos prašymo pagrindu teisėjo nutartimi laikinai areštuojamas
-turtas. Vertybinių popierių komisijos prašymus dėl turto areštavimo nagrinėja
-Vilniaus apygardos administracinis teismas.
+4. Vertybinių
+popierių komisija, turėdama pagrindą įtarti, kad buvo pažeistos šio Įstatymo ar
+jo pagrindu priimtų Vertybinių popierių komisijos nutarimų nuostatos, turi
+teisę uždrausti viešą siūlymą arba ne ilgesniam kaip 10 darbo dienų terminui
+sustabdyti viešą siūlymą, prekybą reguliuojamoje rinkoje ar įtraukimą į prekybą
+reguliuojamoje rinkoje. Vertybinių popierių komisija, nustačiusi, kad buvo
+pažeistos šio Įstatymo ar jo pagrindu priimtų Vertybinių popierių komisijos
+nutarimų nuostatos, turi teisę uždrausti viešą siūlymą ar prekybą
+reguliuojamoje rinkoje. Vertybinių popierių komisijos sprendimu gali būti
+viešai paskelbiama apie tai, kad emitentas nevykdo savo įsipareigojimų,
+asmenims gali būti laikinai uždraudžiama vykdyti profesinę veiklą, susijusią su
+investicinių paslaugų teikimu, ar Vertybinių popierių komisijos prašymo
+pagrindu teismo (teisėjo) nutartimi laikinai areštuojamas turtas. Vertybinių
+popierių komisijos prašymus dėl turto areštavimo nagrinėja Vilniaus apygardos administracinis
+teismas.
 5. Vertybinių popierių komisija gali prašyti, kad
 užsienio priežiūros institucijos atliktų reikalingus patikrinimus šių valstybių
 teritorijoje ir kad tokiuose patikrinimuose būtų leista dalyvauti Vertybinių
@@ -2070,6 +2587,8 @@ Europos vertybinių popierių reguliavimo institucijų komitetui.
 Straipsnio pakeitimai:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
 AŠTUNTASIS SKIRSNIS
 ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
@@ -2085,42 +2604,45 @@ popierių komisijos paskirtas sankcijas.
 61 straipsnis. Piniginės baudos už Įstatymo pažeidimą
 1. Vertybinių popierių komisija turi teisę skirti
 pinigines baudas:
-1) emitentams, pagal šį Įstatymą turintiems
-įregistruoti vertybinius popierius, bet to nepadariusiems, – iki 10 procentų
-registruotinų vertybinių popierių bendros nominalios vertės;
-2) emitentams, tarpininkams ar kitiems juridiniams
-asmenims, organizuojantiems ar vykdantiems Vertybinių popierių komisijoje
-neįregistruotų vertybinių popierių, taip pat vertybinių popierių, kurių
-įregistravimas panaikintas, viešąją apyvartą, – iki 100 tūkstančių litų, jei
-siūlytų vertybinių popierių bendra nominali vertė yra mažesnė nei 100
-tūkstančių litų, ir iki siūlytų viešojoje apyvartoje vertybinių popierių
-bendros nominalios vertės dydžio, jei siūlytų vertybinių popierių bendra
-nominali vertė yra didesnė nei 100 tūkstančių litų;
-3) emitentams, nesilaikantiems šio Įstatymo 8
-straipsnio reikalavimų, – iki 100 tūkstančių litų;
-4) juridiniams
+1) (neteko galios)
+[Buvusius 61 straipsnio 1 dalies
+2-10 punktus laikyti 1-9 punktais]
+1) emitentams, tarpininkams ar kitiems juridiniams
+asmenims, organizuojantiems ar vykdantiems vertybinių popierių viešą siūlymą ar
+prekybą reguliuojamoje rinkoje, jei prieš tai nebuvo paskelbtas prospektas arba
+šių vertybinių popierių viešas siūlymas ar prekyba reguliuojamoje rinkoje yra
+uždrausta ar sustabdyta, – iki 100 tūkstančių litų, jei viešai siūlytų ar į
+prekybą reguliuojamoje rinkoje įtrauktų vertybinių popierių bendra nominali
+vertė yra mažesnė nei 100 tūkstančių litų, ir iki viešai siūlytų ar į prekybą
+reguliuojamoje rinkoje įtrauktų vertybinių popierių bendros nominalios vertės
+dydžio, jei viešai siūlytų ar į prekybą reguliuojamoje rinkoje įtrauktų vertybinių
+popierių bendra nominali vertė yra didesnė nei 100 tūkstančių litų;
+2) emitentams, nesilaikantiems šio Įstatymo 7 ar 8
+straipsniuose nustatytų reikalavimų, – iki 100 tūkstančių litų;
+3) juridiniams
 asmenims, nesilaikantiems įstatymo 9 ar 10 straipsniuose nustatytų reikalavimų,
 – iki 100 tūkstančių litų, jei neteisėtai gautų pajamų dydis yra iki 100
 tūkstančių litų, ir iki trigubo neteisėtai gautų pajamų dydžio, jei neteisėtai
 gautų pajamų yra daugiau kaip 100 tūkstančių litų;
-5) juridiniams asmenims, nesilaikantiems šio Įstatymo
-14 straipsnio reikalavimų, – iki 100 tūkstančių litų;
-6) juridiniams asmenims, įregistravusiems oficialų
+4) juridiniams asmenims, nesilaikantiems šio Įstatymo
+14 ar 14(1) straipsniuose nustatytų reikalavimų, – iki 100
+tūkstančių litų;
+5) juridiniams asmenims, įregistravusiems oficialų
 pasiūlymą Vertybinių popierių komisijoje, bet jo neįgyvendinusiems, – iki 500
 tūkstančių litų;
-7) juridiniams asmenims, veikiantiems kaip tarpininkai
+6) juridiniams asmenims, veikiantiems kaip tarpininkai
 be šio Įstatymo numatytos licencijos, – iki 100 tūkstančių litų, jei neteisėtai
 gautų pajamų dydis yra iki 100 tūkstančių litų, ir iki dvigubo neteisėtai gautų
 pajamų dydžio, jei neteisėtai gautų pajamų dydis yra didesnis nei 100
 tūkstančių litų;
-8) tarpininkams, nesilaikantiems šio Įstatymo 24
+7) tarpininkams, nesilaikantiems šio Įstatymo 24
 straipsnio reikalavimų, – iki 100 tūkstančių litų;
-9) juridiniams asmenims, kurie verčiasi vertybinių
+8) juridiniams asmenims, kurie verčiasi vertybinių
 popierių biržos veikla be šio Įstatymo numatytos Vertybinių popierių komisijos
 licencijos, – iki 100 tūkstančių litų, jei neteisėtai gautų pajamų dydis yra
 iki 100 tūkstančių litų, ir iki dvigubo neteisėtai gautų pajamų dydžio, jei
 neteisėtai gautų pajamų dydis yra didesnis nei 100 tūkstančių litų;
-10) juridiniams asmenims, šio įstatymo 19(1)
+9) juridiniams asmenims, šio įstatymo 19(1)
 straipsnio nustatyta tvarka
 pareikalavusiems, kad visi kiti emitento akcininkai parduotų jiems
 priklausančias akcijas, bet nustatytais terminais neatsiskaičiusiems su jais
@@ -2134,8 +2656,10 @@ atlikimo dienos.
 juridiniams asmenims neatleidžia jų vadovų nuo įstatymų numatytos
 civilinės, administracinės ir baudžiamosios atsakomybės.
 Straipsnio pakeitimai:
-Nr. IX-2174, 2004-04-27,
-Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. IX-2174,
+2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
 62 straipsnis. Piniginių baudų skyrimo tvarka
 1. Prieš spręsdama šio Įstatymo nustatytų baudų
@@ -2159,8 +2683,8 @@ nustatytą piniginę baudą;
 2) nutraukti tyrimą nesant pažeidimo ar įstatymo
 pagrindo skirti baudą;
 3) pratęsti tyrimą.
-5. Vertybinių popierių komisija diferencijuoja skiriamos
-baudos dydį, atsižvelgdama į:
+5. Vertybinių popierių komisija diferencijuoja
+skiriamos baudos dydį, atsižvelgdama į:
 1)
 pažeidimu padarytos žalos dydį;
 2) pažeidimo trukmę;
@@ -2195,8 +2719,8 @@ BAIGIAMOSIOS NUOSTATOS
 straipsnis. Įstatymo įsigaliojimas
 1. Įstatymas, išskyrus 23
 straipsnį, įsigalioja nuo 2002 m. balandžio 1 d.
-2. Įstatymo 23 straipsnis įsigalioja, Lietuvos Respublikai
-tapus Europos Sąjungos nare. 
+2. Įstatymo 23 straipsnis įsigalioja, Lietuvos
+Respublikai tapus Europos Sąjungos nare. 
  
 65
 straipsnis. Pereinamasis laikotarpis
@@ -2209,8 +2733,8 @@ depozitoriumas bei vertybinių popierių biržos, įregistruotos iki Įstatymo
 įsigaliojimo, turi ne vėliau kaip per 1 metus, remdamiesi Įstatymu, priimti
 savo įstatų ir taisyklių pataisas. Asmenys, buvę Centrinio depozitoriumo
 akcininkais Įstatymo įsigaliojimo dieną, turi teisę naudotis visomis akcininko
-teisėmis, tačiau neturi teisės akcijas parduoti ar kitaip perleisti asmenims, kurie
-negali būti šių bendrovių akcininkais.
+teisėmis, tačiau neturi teisės akcijas parduoti ar kitaip perleisti asmenims,
+kurie negali būti šių bendrovių akcininkais.
 3. Emitentai, patys tvarkantys savo išleistų
 vertybinių popierių asmenines sąskaitas, privalo perduoti šių sąskaitų tvarkymą
 tarpininkams iki 2004 m. sausio 1 d. Šis
@@ -2218,28 +2742,16 @@ reikalavimas netaikomas likviduojamiems emitentams ir emitentams, kuriems yra i�
 4. Tiems savarankiškai ar kartu veikiantiems asmenims,
 kurie Įstatymo įsigaliojimo dieną turėjo daugiau nei 40 procentų, tačiau ne
 daugiau nei 50 procentų balsų atskaitingo emitento visuotiniame akcininkų
-susirinkime, pareiga skelbti oficialų pasiūlymą atsiranda, jeigu jie įgyja
-daugiau nei 50 procentų balsų.
-5. Kol Lietuvos Respublika nėra Europos Sąjungos narė,
-finansų maklerio įmonėms, licencijuotoms Europos Sąjungos valstybėse narėse,
-taikomi tokie pat reikalavimai, kokie Įstatyme nustatyti įmonėms,
-licencijuotoms valstybėse ne Europos Sąjungos narėse.
-6. Lietuvos Respublikai tapus Europos Sąjungos nare,
-Vertybinių popierių komisija:
-1) praneša Europos bendrijų komisijai, pagal kurias Europos
-Sąjungos direktyvas Vertybinių popierių komisija ar vertybinių popierių birža
-yra laikomos atsakingomis institucijomis;
-2) praneša Europos bendrijų komisijai, kurios institucijos
-Lietuvos Respublikoje atlieka Įstatymo 57 straipsnio 3 dalyje nurodytas
-funkcijas;
-3) perduoda Lietuvos Respublikos reguliuojamų rinkų sąrašą
-ir jų veiklą reglamentuojančias taisykles Europos bendrijų komisijai bei
-Europos Sąjungos valstybėms narėms ir informuoja apie vėliau įvykusius sąrašo
-ar taisyklių pasikeitimus.
+susirinkime, pareiga skelbti oficialų pasiūlymą atsiranda, jeigu jie įgyja daugiau
+nei 50 procentų balsų.
+5. (neteko galios)
+6. (neteko galios)
 7. Neteko galios nuo 2004 m. balandžio 30 d.
 Straipsnio pakeitimai:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
  
  
             Skelbiu
@@ -2258,29 +2770,37 @@ popierių rinkos
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-1. 1989 m. balandžio
-17 d. Tarybos direktyva 89/298/EEB dėl prospekto, kurį privaloma paskelbti
-siūlant perleidžiamus vertybinius popierius visuomenei, sudarymo, patikrinimo
-ir platinimo, reikalavimų suderinimo.
-2. 1993 m. kovo 15 d. Tarybos direktyva 93/6/EEB dėl investicinių įmonių ir kredito įstaigų kapitalo pakankamumo su pakeitimais, padarytais 1998 m. birželio 22 d. Europos Parlamento ir Tarybos direktyva 98/31/EB, iš dalies pakeičiančia Tarybos direktyvą 93/6/EEB dėl investicinių įmonių ir kredito įstaigų kapitalo pakankamumo, 1998 m. birželio 22 d. Europos Parlamento ir Tarybos direktyva 98/33/EB, iš dalies pakeičiančia Tarybos direktyvos 77/780/EEB dėl kredito įstaigų steigimosi ir veiklos 12 straipsnį, Tarybos direktyvos 89/647/EEB dėl kredito įstaigų mokumo normatyvo 2, 5, 6, 7, 8 straipsnius ir II bei III priedus ir Tarybos direktyvos 93/6/EEB dėl investicinių firmų ir kredito įstaigų kapitalo pakankamumo 2 straipsnį ir II priedą, ir 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB, nustatančia papildomą priežiūrą kredito įstaigoms, draudimo įmonėms ir investicinėms firmoms, priklausančioms finansiniam konglomeratui, ir iš dalies pakeičiančia Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB bei 2000/12/EB.
-3. 1993 m. gegužės 10
-d. Tarybos direktyva 93/22/EEB dėl investicinių paslaugų vertybinių popierių
-srityje su paskutiniais pakeitimais, padarytais 2002 m. gruodžio 16 d. Europos
-Parlamento ir Tarybos direktyva 2002/87/EB, nustatančia papildomą priežiūrą
-kredito įstaigoms, draudimo įmonėms ir investicinėms firmoms, priklausančioms
-finansiniam konglomeratui, ir iš dalies pakeičiančia Tarybos direktyvas
-73/239/EEB, 79//267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei
-Europos Parlamento ir Tarybos direktyvas 98/78/EB bei 2000/12/EB.
-4. 2001 m. gegužės 28
-d. Europos Parlamento ir Tarybos direktyva 2001/34/EB dėl vertybinių popierių
-įtraukimo į biržos oficialųjį prekybos sąrašą ir dėl informacijos apie tuos
-vertybinius popierius paskelbimo.
+1. (Neteko galios)
+Punkto pakeitimai:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
+ 2. 1993 m. kovo 15 d. Tarybos direktyva 93/6/EEB dėl investicinių įmonių ir kredito įstaigų kapitalo pakankamumo su pakeitimais, padarytais 1998 m. birželio 22 d. Europos Parlamento ir Tarybos direktyva 98/31/EB, iš dalies pakeičiančia Tarybos direktyvą 93/6/EEB dėl investicinių įmonių ir kredito įstaigų kapitalo pakankamumo, 1998 m. birželio 22 d. Europos Parlamento ir Tarybos direktyva 98/33/EB, iš dalies pakeičiančia Tarybos direktyvos 77/780/EEB dėl kredito įstaigų steigimosi ir veiklos 12 straipsnį, Tarybos direktyvos 89/647/EEB dėl kredito įstaigų mokumo normatyvo 2, 5, 6, 7, 8 straipsnius ir II bei III priedus ir Tarybos direktyvos 93/6/EEB dėl investicinių firmų ir kredito įstaigų kapitalo pakankamumo 2 straipsnį ir II priedą, ir 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB, nustatančia papildomą priežiūrą kredito įstaigoms, draudimo įmonėms ir investicinėms firmoms, priklausančioms finansiniam konglomeratui, ir iš dalies pakeičiančia Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB bei 2000/12/EB.
+3. 1993 m. gegužės 10 d. Tarybos direktyva 93/22/EEB dėl
+investicinių paslaugų vertybinių popierių srityje su paskutiniais pakeitimais,
+padarytais 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva
+2002/87/EB, nustatančia papildomą priežiūrą kredito įstaigoms, draudimo įmonėms
+ir investicinėms firmoms, priklausančioms finansiniam konglomeratui, ir iš
+dalies pakeičiančia Tarybos direktyvas 73/239/EEB, 79//267/EEB, 92/49/EEB,
+92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas
+98/78/EB bei 2000/12/EB.
+4. 2001 m. gegužės 28 d. Europos Parlamento ir Tarybos
+direktyva 2001/34/EB dėl vertybinių popierių įtraukimo į biržos oficialųjį
+prekybos sąrašą ir dėl informacijos apie tuos vertybinius popierius paskelbimo.
 5. 2003 m. sausio 28 d. Europos Parlamento ir Tarybos
 direktyva 2003/6/EB dėl prekybos vertybiniais popieriais, pasinaudojant viešai
 neatskleista informacija, ir manipuliavimo rinka (piktnaudžiavimo rinka).
+6. 2003 m.
+lapkričio 4 d. Europos Parlamento ir Tarybos direktyva 2003/71/EB dėl
+prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi
+visuomenei ar įtraukiami į prekybos sąrašą, ir iš dalies pakeičianti Direktyvą
+2001/34/EB.
 Įstatymas papildytas priedu:
 Nr. IX-2174,
 2004-04-27, Žin., 2004, Nr. 73-2514 (2004-04-30)
+Priedas papildytas punktu:
+Nr. X-270, 2005-06-23,
+Žin., 2005, Nr. 84-3108 (2005-07-12)
+ 
  
 _____________
  
@@ -2323,7 +2843,8 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1839, 00.07.13, Žin., 2000,
 Nr.61-1837 (00.07.26)
 VERTYBINIŲ POPIERIŲ VIEŠOSIOS
-APYVARTOS ĮSTATYMO 28, 38 STRAIPSNIŲ PAKEITIMO IR 41 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+APYVARTOS ĮSTATYMO 28, 38 STRAIPSNIŲ PAKEITIMO IR 41 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
  
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2409,11 +2930,45 @@ apie savo turimus balsus privalo pranešti ne vėliau kaip likus 10 dienų iki
 artimiausio emitento visuotinio akcininkų susirinkimo, jei informacija apie jų
 turimus balsus nebuvo paskelbta emitento 2003 metų prospekte-ataskaitoje.
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-270,
+2005-06-23, Žin., 2005, Nr. 84-3108 (2005-07-12)
+VERTYBINIŲ
+POPIERIŲ RINKOS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Vertybinių
+popierių rinkos įstatymo pakeitimo ir papildymo į įgyvendinimas:
+1. Ne Europos
+Sąjungos valstybėje narėje įsteigti emitentai, kurių vertybiniais
+popieriais prekiaujama reguliuojamoje rinkoje iki šio Įstatymo įsigaliojimo ir
+kurie, vadovaudamiesi šiuo Įstatymu, savo buveinės valstybe nare pasirenka
+Lietuvos Respubliką, apie tai ne vėliau kaip iki 2005 m. gruodžio 31 d. turi
+pranešti Vertybinių popierių komisijai.
+2. Lietuvos
+Respublikoje įsteigti emitentai, kurie buvo laikomi atskaitingais emitentais
+paskutinę dieną iki šio Įstatymo įsigaliojimo, ir toliau laikomi atskaitingais
+emitentais.
+3. Šio
+straipsnio 2 dalyje nurodyti emitentai nebelaikomi atskaitingais emitentais,
+jei išnyksta pagrindas, kuriuo vadovaujantis jie buvo pripažinti atskaitingais
+emitentais, ir tai pagrindžiantys dokumentai pateikiami Vertybinių popierių
+komisijai. Šios nuostatos įgyvendinimo tvarką nustato Vertybinių popierių
+komisija. 
+4. Asmenys, kurie iki šio
+Įstatymo įsigaliojimo veikdami savarankiškai ar kartu su kitais asmenimis įgijo
+19/20 balsų Lietuvos Respublikoje įsteigto atskaitingo emitento visuotiniame
+akcininkų susirinkime, ne vėliau kaip per 30 dienų privalo Lietuvos Respublikos
+vertybinių
+popierių rinkos įstatymo 15
+straipsnyje nustatyta tvarka pranešti apie turimų balsų skaičių.
+                
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-05-24)
-                  autrap@lrs.lt
+Angonita Rupšytė (2005-07-13)
+anrups@lrs.lt
 
