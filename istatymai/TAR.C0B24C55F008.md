@@ -595,13 +595,29 @@ Aukštojo mokslo įstatymas.
  
 33 straipsnis. Mokslinių tyrimų
 įstaigų tyrėjai
+[1 dalies sena redakcija iki 2005-07-31]
 1. Minimalius kvalifikacinius tyrėjų pareigybių
 reikalavimus, konkursų į šias pareigas organizavimo, tyrėjų atestavimo tvarką
 nustato Vyriausybė ar jos įgaliota institucija. 
+[1 dalies nauja redakcija nuo 2005-08-01]
+1. Minimalius kvalifikacinius
+tyrėjų, išskyrus mokslininkus stažuotojus, pareigybių reikalavimus, konkursų į
+šias pareigas organizavimo, tyrėjų, išskyrus mokslininkus stažuotojus,
+atestavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 2. Asmuo, norintis dirbti
 mokslinių tyrimų įstaigoje kaip nepagrindinėje darbovietėje, kartu su prašymu
 priimti dirbti tyrėju privalo nurodyti savo pareigas (dirbamą darbą)
 pagrindinėje ir visose nepagrindinėse darbovietėse.
+[Papildyti 3
+dalimi nuo 2005-08-01]
+3. Kvalifikacinius mokslininkų
+stažuotojų pareigybių reikalavimus, skyrimo į šias pareigas tvarką bei
+mokslininkų stažuočių finansavimo tvarką nustato Vyriausybė.
+Straipsnio
+pakeitimai:
+Nr.
+X-292,
+2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14)
  
 34 straipsnis. Administracijos ir
 kiti tarnautojai
@@ -611,17 +627,24 @@ atlikti, taip pat kitų tarnautojų, reikalingų įstaigos mokslinių tyrimų,
 eksperimentinės plėtros bei ūkinės veiklos uždaviniams įgyvendinti.
 2. Administraciją sudaro
 mokslinių tyrimų įstaigų ir jų padalinių vadovai, vadovų pavaduotojai bei
-įstaigų moksliniai sekretoriai, jei kitaip nenustato įstaigos statutas
-(įstatai).
+įstaigų moksliniai sekretoriai, jei kitaip nenustato įstaigos statutas (įstatai).
 3. Kitų (ne administracijos)
 mokslinių tyrimų įstaigos tarnautojų skaičių, jų pareigas ir funkcijas nustato
 pati įstaiga.
  
 35 straipsnis. Skyrimo į pareigas
 mokslinių tyrimų įstaigose tvarka
+[1 dalies sena redakcija iki 2005-07-31]
 1. Į mokslinių tyrimų įstaigų mokslo darbuotojų ir
 kitų tyrėjų pareigas asmenys skiriami viešo konkurso būdu ne ilgesniam kaip
 penkerių metų laikotarpiui. 
+[1 dalies nauja redakcija nuo 2005-08-01]
+1. Į mokslinių tyrimų įstaigų mokslo darbuotojų,
+išskyrus mokslininkus stažuotojus, ir kitų tyrėjų pareigas asmenys
+skiriami viešo konkurso būdu ne ilgesnei kaip 5 metų kadencijai. Į mokslininkų
+stažuotojų pareigas asmenys skiriami Vyriausybės nustatyta tvarka ne ilgesniam
+kaip 2 metų laikotarpiui. Šis laikotarpis gali būti pratęstas dar vieniems
+metams.
 2. Prieš du mėnesius iki
 mokslinių tyrimų įstaigos mokslo darbuotojo ar kito tyrėjo darbo sutarties
 termino pabaigos skelbiamas viešas konkursas į šias pareigas. Jame gali
@@ -634,6 +657,7 @@ penkerių metų mokslo darbuotojai ar kiti tyrėjai gali dirbti mokslinių tyrim
 įstaigoje, jei įstaigos taryba pritaria, kad su jais būtų sudaroma terminuota
 darbo sutartis ne ilgesniam kaip trejų metų laikotarpiui. Tokia sutartis
 tarybos sprendimu gali būti sudaroma pakartotinai.
+[5 dalies sena redakcija iki 2005-07-31]
 5. Į mokslinių tyrimų įstaigų,
 taip pat jų padalinių vadovų ar jų pavaduotojų pareigas gali būti renkami
 (skiriami) ne vyresni kaip šešiasdešimt penkerių metų asmenys. Vyresniems kaip
@@ -641,11 +665,26 @@ taip pat jų padalinių vadovų ar jų pavaduotojų pareigas gali būti renkami
 įstaigų, jų padalinių vadovų ar šių vadovų pavaduotojų bei įstaigų mokslinių
 sekretorių pareigas ir kurių kadencija dar nėra pasibaigusi, šio straipsnio 4
 dalies reikalavimai netaikomi iki kadencijos pabaigos.
+[5 dalies nauja redakcija nuo 2005-08-01]
+5. Į mokslinių tyrimų įstaigų, taip pat jų padalinių
+vadovų ar jų pavaduotojų pareigas paprastai renkami (skiriami) ne vyresni kaip
+65 metų asmenys. Vyresni kaip 65 metų asmenys gali būti renkami (skiriami) į
+mokslinių tyrimų įstaigos, taip pat jos padalinių vadovų ar jų pavaduotojų
+pareigas, jei tam pritaria mokslinių tyrimų įstaigos taryba. Vyresniems kaip 65
+metų asmenims, kurie eina mokslinių tyrimų įstaigų, jų padalinių vadovų ar šių
+vadovų pavaduotojų bei įstaigų mokslinių sekretorių pareigas ir kurių kadencija
+dar nėra pasibaigusi, šio straipsnio 4 dalies reikalavimai netaikomi iki
+kadencijos pabaigos.
 6. Mokslinių tyrimų įstaigos direktorius ne ilgesniam
 kaip vienerių metų laikotarpiui gali be konkurso priimti dirbti mokslo
 darbuotojus ar kitus tyrėjus pagal terminuotą darbo sutartį. Šiems asmenims
 taikomi atitinkamoms pareigoms nustatyti reikalavimai. Tolesniam darbui
 įstaigoje toks darbuotojas gali būti priimtas tik viešo konkurso būdu.
+Straipsnio
+pakeitimai:
+Nr.
+X-292,
+2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14)
  
 36 straipsnis. Asocijuoti
 mokslininkai
@@ -665,11 +704,11 @@ dėstytojai, mokslo darbuotojai ir tyrėjai
 1. Mokslo ir studijų įstaiga gali
 ne ilgesniam kaip dvejų metų laikotarpiui pakviesti dėstytojus, mokslo
 darbuotojus ir kitus tyrėjus iš kitų valstybių dirbti pagal terminuotą darbo
-sutartį. Kviestiniams dėstytojams, mokslo darbuotojams ir kitiems tyrėjams
-netaikoma šiame Įstatyme nustatyta skyrimo į pareigas tvarka.
+sutartį. Kviestiniams dėstytojams, mokslo darbuotojams ir kitiems tyrėjams netaikoma
+šiame Įstatyme nustatyta skyrimo į pareigas tvarka.
 2. Mokslinių tyrimų įstaiga gali
-pagal sutartis su ūkio subjektais sudaryti galimybes jų tarnautojams atlikti įstaigoje
-mokslinius tyrimus ir (ar) eksperimentinės plėtros darbus.
+pagal sutartis su ūkio subjektais sudaryti galimybes jų tarnautojams atlikti
+įstaigoje mokslinius tyrimus ir (ar) eksperimentinės plėtros darbus.
  
 38 straipsnis. Profesoriai emeritai
 1. Vyresniems kaip šešiasdešimt
@@ -705,8 +744,8 @@ moksliniam darbui reikalingą informaciją. Jeigu tokia informacija yra valstyb�
 ar tarnybos paslaptis, ji teikiama ir naudojama teisės aktų nustatyta tvarka;
 4) dalyvauti priimant sprendimus dėl
 savo įstaigos statuto (įstatų) turinio ir veiklos plano;
-5) dalyvauti įvairiose profesinėse sąjungose
-bei visuomeninėse organizacijose, tarp jų ir esančiose užsienyje.
+5) dalyvauti įvairiose profesinėse
+sąjungose bei visuomeninėse organizacijose, tarp jų ir esančiose užsienyje.
 3. Mokslininkai, be šio straipsnio 2
 dalyje išvardytų teisių, taip pat turi teisę:
 1) dirbti savarankiškai arba jungtis į
@@ -764,12 +803,19 @@ Nr. IX-2487,
 MOKSLO
 IR STUDIJŲ ĮSTATYMO 24 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-292, 2005-06-30,
+Žin., 2005, Nr. 85-3136 (2005-07-14)
+AUKŠTOJO
+MOKSLO ĮSTATYMO IR MOKSLO IR STUDIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-11-02)
-                 
-autrap@lrs.lt
+Angonita Rupšytė (2005-07-15)
+anrups@lrs.lt
 
