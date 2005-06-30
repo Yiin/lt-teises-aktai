@@ -889,6 +889,23 @@ per metus) į Lietuvos Respubliką atvykusiems užsieniečiams, kurie neturi
 leidimo laikinai apsigyventi arba leidimo nuolat gyventi Lietuvos Respublikoje,
 taip pat Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra
 užsienio valstybėje.
+[19 straipsnį papildyti 2 dalimi, nuostatos,
+susijusios su Lietuvos Respublikos kelių transporto priemonių registru,
+įsigalioja nuo 2005 m. spalio 1 d.]
+2. Motorinės
+transporto priemonės, priekabos ir puspriekabės registruojamos Lietuvos
+Respublikos kelių transporto priemonių registre arba Lietuvos Respublikos
+traktorių, savaeigių ir žemės ūkio mašinų ir jų priekabų registre.
+[19 straipsnį papildyti 3 dalimi, nuostatos,
+susijusios su Lietuvos Respublikos Lietuvos Respublikos traktorių, savaeigių ir
+žemės ūkio mašinų ir jų priekabų registru, įsigalioja nuo 2006 m. spalio 1 d.]
+3. Lietuvos
+Respublikos kelių transporto priemonių registrą tvarko Vyriausybės įgaliotos
+institucijos. Lietuvos Respublikos traktorių, savaeigių ir žemės ūkio mašinų ir
+jų priekabų registrą tvarko Vyriausybės įgaliotos institucijos ir savivaldybės.
+Straipsnio pakeitimai:
+Nr. X-290, 2005-06-30,
+Žin., 2005, Nr. 86-3207 (2005-07-16)
  
 20
 straipsnis. Transporto priemonių atitikties įvertinimas 
@@ -964,12 +981,12 @@ Nr. IX-1256,
 25 straipsnis. Eismo įvykių
 tyrimas
 1.
-Eismo įvykių tyrimą, ikiteisminį tyrimą, siekiant nustatyti eismo įvykio
-kaltininką, eismo įvykių bylose atlieka policija.
+Eismo įvykių tyrimą, ikiteisminį tyrimą, siekiant nustatyti eismo įvykio kaltininką,
+eismo įvykių bylose atlieka policija.
 2.
 Eismo įvykius, sukėlusius itin sunkių pasekmių, siekiant nustatyti ir pašalinti
-tokių eismo įvykių priežastis, tiria Komisijos sudaryta speciali ekspertų grupė.
-Informaciją, susijusią su atliekamu tyrimu, išskyrus įstatymų nustatytus
+tokių eismo įvykių priežastis, tiria Komisijos sudaryta speciali ekspertų
+grupė. Informaciją, susijusią su atliekamu tyrimu, išskyrus įstatymų nustatytus
 atvejus, ši grupė turi teisę gauti iš visų įmonių, įstaigų, organizacijų ar
 kitų asmenų.
 3.
@@ -1027,8 +1044,8 @@ priedas
 Saugaus
 eismo automobilių keliais įstatymas yra suderintas su:
 1) 1970 m. vasario
-6 d. Tarybos direktyva 70/156/EEB dėl valstybių narių įstatymų, priimtų dėl
-transporto priemonių ir jų priekabų tipų patvirtinimo, derinimo; 
+6 d. Tarybos direktyva 70/156/EEB dėl valstybių narių įstatymų, priimtų dėl transporto
+priemonių ir jų priekabų tipų patvirtinimo, derinimo; 
 2) 1992 m.
 birželio 30 d. Tarybos direktyva 92/61/EEB dėl dviračių arba triračių
 transporto priemonių tipo patvirtinimo; 
@@ -1051,8 +1068,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1256,
-2002-12-10, Žin., 2002, Nr. 123-5543 (2002-12-24)
+IX-1256, 2002-12-10,
+Žin., 2002, Nr. 123-5543 (2002-12-24)
 SAUGAUS
 EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 4, 5, 6, 7, 13, 14, 17, 23, 24, 25
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, PENKTOJO SKIRSNIO PAVADINIMO PAKEITIMO IR
@@ -1093,11 +1110,25 @@ EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 1, 6, 7, 8 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-290,
+2005-06-30, Žin., 2005, Nr. 86-3207 (2005-07-16)
+SAUGAUS
+EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 19 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+1. Šio įstatymo
+nuostatos, susijusios su Lietuvos Respublikos kelių transporto priemonių
+registru, įsigalioja nuo 2005 m. spalio 1 d.
+2. Šio įstatymo nuostatos,
+susijusios su Lietuvos Respublikos traktorių, savaeigių ir žemės ūkio mašinų ir
+jų priekabų registru, įsigalioja nuo 2006 m. spalio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-05-17)
-                 
-autrap@lrs.lt
+Angonita Rupšytė (2005-07-18)
+anrups@lrs.lt
