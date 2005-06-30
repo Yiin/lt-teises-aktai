@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B68E6BF6330B"
 
 # Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymas
 
+Suvestinė redakcija nuo 2005-06-30 iki 2008-12-31
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 117-4369, i. k. 1041010ISTA0IX-2332
+ 
 LIETUVOS RESPUBLIKOS MOKESČIO UŽ VALSTYBĖS TURTO NAUDOJIMĄ PATIKĖJIMO TEISE ĮSTATYMAS
  
 2004 m. liepos 8 d. Nr. IX-2332
@@ -63,13 +67,16 @@ Mokestį moka valstybės įmonės.
 
 
 
-4 straipsnis. Mokesčio objektas 
+4 straipsnis. Mokesčio objektas
 
 
-Mokesčio objektas – valstybės įmonės savininko patikėjimo teise valstybės įmonei perduotas turtas, kuris šiame įstatyme prilyginamas valstybės įmonės savininko kapitalui. 
+Mokesčio objektas yra valstybės įmonės savininko patikėjimo teise valstybės įmonei perduotas turtas, kurio vertė šiame įstatyme prilyginama valstybės įmonės savininko kapitalui, išskyrus žemę. 
+TAR pastaba. 4 straipsnio nuostata taikoma apskaičiuojant mokestį už valstybės turto naudojimą patikėjimo teise už 2005 metais prasidėjusį ir vėlesnius mokestinius laikotarpius.
+
+
+Straipsnio pakeitimai:
+Nr. X-246, 2005-06-16, Žin., 2005, Nr. 81-2938 (2005-06-30), i. k. 1051010ISTA000X-246
  
-
-
 
 
 
@@ -212,3 +219,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-246, 2005-06-16, Žin., 2005, Nr. 81-2938 (2005-06-30), i. k. 1051010ISTA000X-246
+Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 4 straipsnio pakeitimo įstatymas
