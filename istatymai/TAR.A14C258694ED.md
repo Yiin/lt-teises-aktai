@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A14C258694ED"
 
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2005-06-30
+Suvestinė redakcija nuo 2005-07-01 iki 2006-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 1-4, i. k. 0941010ISTA000I-732
  
@@ -68,7 +68,10 @@ Mokslininkų valstybinės pensijos mokamos iš Lietuvos Respublikos valstybės b
 Mokslininkų valstybinė pensija skiriama ir mokama šio įstatymo 1 straipsnyje nurodytiems asmenims, kurie: 
 
 
-1) sukako Lietuvos Respublikos įstatymų nustatytą senatvės pensijos amžių arba yra pripažinti I ar II grupių invalidais; 
+1) sukako Lietuvos Respublikos įstatymų nustatytą senatvės pensijos amžių arba yra pripažinti nedarbingais ar iš dalies darbingais, netekusiais 60 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. – I ar II grupės invalidais); 
+Straipsnio punkto pakeitimai:
+Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
+ 
 
 
 
@@ -80,9 +83,10 @@ Mokslininkų valstybinė pensija skiriama ir mokama šio įstatymo 1 straipsnyje
 
 
 
-Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi  pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba jei jie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės) pašalpas ar nedarbo socialinio draudimo išmokas. Apie draudžiamųjų pajamų turėjimą mokslininkų valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos dydis išieškomas iš pensijos gavėjo, neapribojant kokiu nors terminu, Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
+Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba jei jie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, motinystės (tėvystės), profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas. Apie draudžiamųjų pajamų turėjimą mokslininkų valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos dydis išieškomas iš pensijos gavėjo, neapribojant kokiu nors terminu, Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
+Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
  
 
 
@@ -228,3 +232,8 @@ Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo, Valsty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
 Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo, Teisėjų valstybinių pensijų įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybinių pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Teisėjų valstybinių pensijų įstatymo, Pensijų kaupimo įstatymo, Lietuvos nepriklausomybės akto signatarų statuso įstatymo pakeitimo ir papildymo įstatymas
