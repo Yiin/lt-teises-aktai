@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0B5321D2DB"
 
 # Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas
 
-Suvestinė redakcija nuo 2004-11-26 iki 2005-06-30
+Suvestinė redakcija nuo 2005-07-01 iki 2010-12-17
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 101-4543, i. k. 1031010ISTA0IX-1789
  
@@ -208,7 +208,10 @@ Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010IS
 9 straipsnis. Valstybinė signataro našlių ir našlaičių renta
 
 
-1. Valstybinę signataro našlių ir našlaičių rentą turi teisę gauti mirusio signataro (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) sutuoktinis, vaikai bei įvaikiai iki 18 metų, vyresni kaip 18 metų, jeigu jie tapo invalidais iki 18 metų, taip pat vidurinių bei nustatyta tvarka įregistruotų aukštųjų, aukštesniųjų ir profesinių mokyklų dieninių skyrių studentai ir moksleiviai iki šių mokyklų baigimo, bet ne ilgiau, negu jiems sukaks 24 metai.
+1. Valstybinę signataro našlių ir našlaičių rentą turi teisę gauti mirusio signataro (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) sutuoktinis, vaikai bei įvaikiai iki 18 metų, vyresni kaip 18 metų, jeigu jie tapo neįgaliaisiais (iki 2005 m. liepos 1 d. - invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (iki 2005 m. liepos 1 d. - invalidai), taip pat vidurinių bei nustatyta tvarka įregistruotų aukštųjų, aukštesniųjų ir profesinių mokyklų dieninių skyrių studentai ir moksleiviai iki šių mokyklų baigimo, bet ne ilgiau, negu jiems sukaks 24 metai.
+Straipsnio dalies pakeitimai:
+Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
+ 
 
 
 
@@ -1058,3 +1061,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
 Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų statuso įstatymo 6, 9 straipsnių ir priedėlio papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybinių pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Teisėjų valstybinių pensijų įstatymo, Pensijų kaupimo įstatymo, Lietuvos nepriklausomybės akto signatarų statuso įstatymo pakeitimo ir papildymo įstatymas
