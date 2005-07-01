@@ -109,7 +109,9 @@ darbingumo praradimo, gali būti papildomai remiami priimant juos į darbą.
 Darbo rinkoje papildomai remiami bedarbiai, taikant
 jiems šio įstatymo 8 straipsnyje nustatytą užimtumo rėmimą, yra:
 1)
-invalidai – Invalidų socialinės integracijos įstatymo nustatyta tvarka;
+asmenys, kuriems nustatytas 30–40 procentų darbingumo lygis (iki 2005 m. liepos
+1 d. – I ir II grupių invalidai), 45–55 procentų darbingumo lygis (iki 2005 m.
+liepos 1 d. – III grupės invalidai) arba vidutinis neįgalumas;
 2)
 asmenys nuo 16 iki 25 metų, pirmą kartą pradedantys darbinę veiklą;
 3)
@@ -120,14 +122,14 @@ ilgalaikiai bedarbiai, kurių nedarbo trukmė nuo įsiregistravimo darbo biržoj
 dienos ilgiau kaip 2 metai;
 5)
 asmenys, kuriems iki senatvės pensijos amžiaus likę ne ilgiau kaip 5 metai;
-6) motina arba tėvas, auginanti (auginantis) vaiką iki
-8 metų;
+6) nėščios moterys, motina arba tėvas bei kiti
+asmenys, faktiškai auginantys vaiką iki aštuonerių metų;
 7) asmenys, grįžę iš laisvės atėmimo vietų, kai
 laisvės atėmimo laikotarpis buvo ilgesnis negu 6 mėnesiai.
 Šio straipsnio antrosios dalies 7 punkte nurodyti
-asmenys laikomi darbo rinkoje papildomai remiamais bedarbiais, kai jie kreipiasi
-į darbo biržą ne vėliau kaip per 6 mėnesių laikotarpį, pasibaigus priežastims,
-dėl kurių nedirbo.
+asmenys laikomi darbo rinkoje papildomai remiamais bedarbiais, kai jie
+kreipiasi į darbo biržą ne vėliau kaip per 6 mėnesių laikotarpį, pasibaigus
+priežastims, dėl kurių nedirbo.
 Straipsnio pakeitimai:
 Nr. I-1191, 1996
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
@@ -135,37 +137,45 @@ Nr. IX-687,
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 Nr. IX-1366,
 2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Nr.
+X-255,
+2005-06-16, Žin., 2005, Nr. 81-2941 (2005-06-30)
  
 8 straipsnis. Darbo rinkoje
 papildomai remiamų bedarbių užimtumo rėmimas
 Darbo biržos teikimu
-savivaldybės kasmet nustato darbdaviams I ir II grupių invalidų įdarbinimo arba
-papildomų darbo vietų skaičiaus steigimo
-kvotas nuo 2 iki 5 procentų nuo įmonės bendro darbuotojų skaičiaus, jeigu
-įmonėje yra ne mažiau kaip 50 darbuotojų. Invalidai įdarbinami Invalidų
-socialinės integracijos įstatymo nustatyta tvarka.
+savivaldybės kasmet nustato darbdaviams
+asmenų, kuriems nustatytas 30–40 procentų darbingumo lygis (iki 2005 m. liepos
+1 d. – I ir II grupių invalidų) arba vidutinis neįgalumas, įdarbinimo arba
+papildomų darbo vietų skaičiaus steigimo kvotas nuo 2 iki 5 procentų nuo įmonės
+bendro darbuotojų skaičiaus, jeigu įmonėje
+yra ne mažiau kaip 50 darbuotojų.
 Darbdaviai, nevykdantys
-invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotų, už
-kiekvieną neįdarbintą invalidą moka 15 minimalių mėnesinių algų dydžių įmoką į
-Užimtumo fondą, išskyrus atvejus, kai darbo birža nesikreipė dėl invalidų
-įdarbinimo. Šios lėšos naudojamos invalidų darbo vietoms steigti. 
-Darbdaviams, įdarbinusiems I ir II grupių invalidus į
-papildomas kvotomis nustatytas darbo vietas, jų darbo laikotarpiu mokamos
-užimtumo rėmimo subsidijos darbo vietų steigimo arba jų pritaikymo išlaidoms
-padengti: 
+neįgaliųjų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotų, už
+kiekvieną neįdarbintą neįgalųjį moka 15 minimalių mėnesinių algų dydžių įmoką į
+Užimtumo fondą, išskyrus atvejus, kai darbo birža nesikreipė dėl neįgaliųjų
+įdarbinimo. Šios lėšos naudojamos neįgaliųjų darbo vietoms steigti.
+Darbdaviams, įdarbinusiems asmenis, kuriems nustatytas
+30–40 procentų darbingumo lygis (iki 2005 m. liepos 1 d. – I ir II grupių
+invalidus) arba vidutinis neįgalumas, į papildomas kvotomis nustatytas darbo
+vietas, jų darbo laikotarpiu mokamos užimtumo rėmimo subsidijos darbo vietų
+steigimo arba jų pritaikymo išlaidoms padengti:
 1) per pirmuosius 12 mėnesių – vienos minimalios
 mėnesinės algos dydžio už kiekvieną mėnesį;
 2) per kitus 6 mėnesius – pusės vienos minimalios
 mėnesinės algos dydžio už kiekvieną mėnesį.
 Šių dydžių užimtumo rėmimo subsidijos taip pat mokamos
-darbdaviams, įdarbinusiems I ir II grupių invalidus įmonėse, kuriose yra mažiau
-kaip 50 darbuotojų.
+darbdaviams, įdarbinusiems asmenis, kuriems nustatytas 30–40 procentų
+darbingumo lygis (iki 2005 m. liepos 1 d. – I ir II grupių invalidus) arba
+vidutinis neįgalumas, įmonėse, kuriose yra mažiau kaip 50 darbuotojų.
 Tuo atveju, kai darbo birža per 3 mėnesius nustatyta tvarka
-nepasiūlo darbo III grupės invalidams ir kitiems šio įstatymo 7 straipsnyje
-nurodytiems bedarbiams, darbo biržos siuntimu juos įdarbinusiems darbdaviams
-mokamos užimtumo rėmimo subsidijos darbo vietų steigimo išlaidoms padengti:
-1) per pirmuosius 6 mėnesius – vienos minimalios
-mėnesinės algos dydžio už kiekvieną mėnesį;
+nepasiūlo darbo asmenims, kuriems nustatytas 45–55 procentų darbingumo lygis
+(iki 2005 m. liepos 1 d. – III grupės invalidams) arba vidutinis neįgalumas, ir
+kitiems šio įstatymo 7 straipsnio antrosios dalies 2–7 punktuose nurodytiems
+bedarbiams, darbo biržos siuntimu juos įdarbinusiems darbdaviams mokamos
+užimtumo rėmimo subsidijos darbo vietų steigimo išlaidoms padengti:
+1) per pirmuosius 6 mėnesius – vienos minimalios mėnesinės
+algos dydžio už kiekvieną mėnesį;
 2) per kitus 6 mėnesius – pusės vienos minimalios mėnesinės
 algos dydžio už kiekvieną mėnesį.
 Tuo atveju, kai asmenys įdarbinami ne visam darbo laikui,
@@ -191,6 +201,9 @@ rėmimo tvarką nustato socialinės apsaugos ir darbo ministras.
 Straipsnio pakeitimai:
 Nr. IX-687,
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
+Nr.
+X-255,
+2005-06-16, Žin., 2005, Nr. 81-2941 (2005-06-30)
  
             9
 straipsnis. Neteko galios nuo 2005 m.
@@ -207,14 +220,14 @@ Nr. VIII-1291,
 11 straipsnis. Laisvų darbo vietų registravimas
 Ieškantys darbuotojų
 darbdaviai turi informuoti teritorines darbo biržas apie laisvas darbo vietas,
-darbo funkcijas ir darbo pobūdį, darbo apmokėjimo ir kitas sąlygas bei
-pretendentams įsidarbinti keliamus
+darbo funkcijas ir darbo pobūdį, darbo
+apmokėjimo ir kitas sąlygas bei pretendentams įsidarbinti keliamus
 kvalifikacinius reikalavimus.
 Teritorinės darbo
 biržos registruoja laisvas darbo vietas, viešai jas skelbia ir siūlo
 ieškantiems darbo asmenims.
-Laisvų darbo vietų
-registravimo teritorinėje darbo biržoje tvarką nustato socialinės apsaugos ir darbo ministras.
+Laisvų darbo vietų registravimo teritorinėje darbo biržoje
+tvarką nustato socialinės apsaugos ir darbo ministras.
 Straipsnio pakeitimai:
 Nr. I-1191, 1996
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
@@ -297,8 +310,7 @@ politikos priemonėms finansuoti;
 draudimo išmokoms pagal Nedarbo socialinio draudimo įstatymą;
 4) Lietuvos darbo
 biržos ir jos teritorinių darbo biržų bei Lietuvos darbo rinkos mokymo tarnybos
-ir jos teritorinių darbo rinkos mokymo ir konsultavimo tarnybų išlaikymui ir
-plėtrai;
+ir jos teritorinių darbo rinkos mokymo ir konsultavimo tarnybų išlaikymui ir plėtrai;
 5) bendrai finansuojamiems Europos Sąjungos ir
 tarptautiniams projektams užimtumo srityje.
 Straipsnio pakeitimai:
@@ -337,8 +349,8 @@ Nr. I-1191, 1996
 02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
 Nr. VIII-1291,
 1999 07 07, Žin., 1999, Nr. 65-2086 (1999 07 28)
-Nr. IX-687, 2001-12-21,
-Žin., 2002, Nr. 2-51 (2002-01-09)
+Nr. IX-687,
+2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 Nr. IX-1366,
 2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
  
@@ -377,10 +389,12 @@ profesinio pasirengimo, gali būti siunčiami mokytis profesijos, atitinkančios
 vietos darbo rinkos poreikius, arba tobulinti kvalifikacijos.
 Mokymosi laikotarpiu bedarbiams mokama 1,5 mokėjimo
 mėnesį galiojančio minimalaus gyvenimo lygio dydžio mokymo stipendija.
-Bedarbių profesinis mokymas finansuojamas ir mokymo stipendijos iš Užimtumo fondo lėšų bedarbiams mokamos ne ilgiau
-kaip 6 mėnesius. Kai kuriais atvejais, jeigu tam tikrai profesijai įgyti reikia
-daugiau laiko, trišalės komisijos prie darbo biržos siūlymu profesinio mokymo
-finansavimas ir mokymo stipendijos mokėjimas gali būti pratęstas iki 10 mėnesių.
+Bedarbių profesinis mokymas finansuojamas ir mokymo stipendijos iš
+Užimtumo fondo lėšų bedarbiams mokamos ne ilgiau kaip 6 mėnesius. Kai kuriais
+atvejais, jeigu tam tikrai profesijai įgyti reikia daugiau laiko, trišalės
+komisijos prie darbo biržos siūlymu
+profesinio mokymo finansavimas ir mokymo stipendijos mokėjimas gali būti
+pratęstas iki 10 mėnesių.
             Profesinis
 mokymas, finansuojamas iš Užimtumo fondo, taip pat gali būti organizuojamas
 darbuotojams, įspėtiems apie darbo sutarties nutraukimą šio įstatymo 9 ir 10
@@ -418,10 +432,10 @@ Nr. VIII-608,
  
 20(1) straipsnis. Iš Užimtumo fondo remiami
 darbai
-Užimtumo fondo remiami darbai organizuojami bedarbiams, nurodytiems šio
-įstatymo 7 straipsnyje, taip pat 19 straipsnyje
-nurodyta tvarka baigusiems profesinį mokymą, kuriems darbo birža negali
-pasiūlyti nuolatinio darbo.
+Užimtumo fondo remiami darbai
+organizuojami bedarbiams, nurodytiems šio įstatymo 7 straipsnyje, taip pat 19
+straipsnyje nurodyta tvarka baigusiems profesinį mokymą, kuriems darbo birža
+negali pasiūlyti nuolatinio darbo.
             Užimtumo
 fondo remiamus darbus valstybinė darbo birža organizuoja ne daugiau kaip 6
 mėnesiams, sudarydama sutartis su darbdaviais dėl bedarbių, pirmiausia
@@ -443,17 +457,17 @@ Nr. IX-687,
 Nr. X-66, 2004-12-22,
 Žin., 2004, Nr. 188-6998 (2004-12-31)
  
-20(2) straipsnis. Vietinių užimtumo
-iniciatyvų projektų įgyvendinimas
-Vietinių užimtumo iniciatyvų projektai – tai naujų darbo
-vietų kūrimo projektai, padedantys sutelkti vietos bendruomenės, įmonių,
+20(2) straipsnis. Vietinių užimtumo iniciatyvų
+projektų įgyvendinimas
+Vietinių užimtumo iniciatyvų projektai – tai naujų
+darbo vietų kūrimo projektai, padedantys sutelkti vietos bendruomenės, įmonių,
 įstaigų ir trišalių socialinių partnerių pastangas didinti savivaldybės
 gyventojų užimtumą plėtojant vietos socialinę ekonominę infrastruktūrą. 
-Vietinių užimtumo iniciatyvų projektai
-gali būti įgyvendinami savivaldybių (seniūnijų) teritorijose, kuriose nedarbo
-lygis viršija vidutinį šalies nedarbo lygį arba kuriose dėl grupės darbuotojų
-atleidimų numatomas toks nedarbo lygis. Šie projektai skirti teritorinėse darbo
-biržose užsiregistravusiems bedarbiams įdarbinti. 
+Vietinių užimtumo iniciatyvų
+projektai gali būti įgyvendinami savivaldybių (seniūnijų) teritorijose, kuriose
+nedarbo lygis viršija vidutinį šalies nedarbo lygį arba kuriose dėl grupės
+darbuotojų atleidimų numatomas toks nedarbo lygis. Šie projektai skirti
+teritorinėse darbo biržose užsiregistravusiems bedarbiams įdarbinti. 
 Vietinių užimtumo iniciatyvų
 projektų įgyvendinimą organizuoja Lietuvos darbo birža prie Socialinės apsaugos
 ir darbo ministerijos.
@@ -463,7 +477,8 @@ valstybės biudžeto, savivaldybių biudžetų bei Užimtumo fondo lėšų.
 Vietinių užimtumo iniciatyvų projektų rengimo,
 atrankos, įgyvendinimo finansavimo ir kontrolės tvarką nustato socialinės
 apsaugos ir darbo ministras.
-Įstatymas papildytas straipsniu:
+Įstatymas papildytas
+straipsniu:
 Nr. IX-1366,
 2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
  
@@ -488,20 +503,21 @@ turi savo sąskaitas banke, antspaudus ir bendrą simboliką.
 Lietuvos darbo birža
 koordinuoja, kontroliuoja bei metodiškai vadovauja teritorinių darbo biržų
 darbui.
-Lietuvos darbo biržai vadovauja
-direktorius. Jį skiria ir atleidžia socialinės apsaugos ir darbo ministras
-Valstybės tarnybos įstatymo nustatyta tvarka. Lietuvos darbo biržos direktorius
-atskaitingas socialinės apsaugos ir darbo ministrui.
+Lietuvos darbo biržai
+vadovauja direktorius. Jį skiria ir atleidžia socialinės apsaugos ir darbo
+ministras Valstybės tarnybos įstatymo nustatyta tvarka. Lietuvos darbo biržos
+direktorius atskaitingas socialinės apsaugos ir darbo ministrui.
 Teritorines darbo biržas
 steigia ir jų nuostatus tvirtina Lietuvos darbo birža.
 Lietuvos darbo birža ir jos
 teritorinės darbo biržos yra išlaikomos iš Užimtumo fondo lėšų ir paslaugas
 teikia nemokamai.
-Darbo rinkos būklės bei darbo rinkos politikos
-priemonių ir paslaugų įgyvendinimo klausimams nagrinėti prie Lietuvos darbo biržos bei teritorinių darbo biržų steigiamos
+Darbo rinkos būklės
+bei darbo rinkos politikos priemonių ir paslaugų įgyvendinimo klausimams
+nagrinėti prie Lietuvos darbo biržos bei teritorinių darbo biržų steigiamos
 visuomeniniais pagrindais veikiančios trišalės komisijos. Jos sudaromos iš
-vienodo skaičiaus lygiateisių narių: darbuotojų (profesinių sąjungų,
-susivienijimų, asociacijų ir kt.), darbdavių
+vienodo skaičiaus lygiateisių narių:
+darbuotojų (profesinių sąjungų, susivienijimų, asociacijų ir kt.), darbdavių
 (asociacijų, konfederacijų ir kt.) ir valstybės bei savivaldybių institucijų
 atstovų.
 Trišalės komisijos prie Lietuvos darbo biržos
@@ -556,15 +572,15 @@ kontrolė
 Bedarbių rėmimo įstatymo laikymąsi kontroliuoja
 Valstybinė darbo inspekcija.
 Straipsnio pakeitimai:
-Nr. IX-1366,
-2003-03-13, Žin., 2003, Nr. 32-1313 (2003-04-02)
+Nr. IX-1366, 2003-03-13,
+Žin., 2003, Nr. 32-1313 (2003-04-02)
  
 25 straipsnis. Ginčų sprendimas
 Ginčai, kilę dėl šio įstatymo taikymo, nagrinėjami
 teisme.
 Straipsnio pakeitimai:
-Nr. I-1191, 1996 02
-01, Žin., 1996, Nr. 18-457 (1996 02 28)
+Nr. I-1191, 1996
+02 01, Žin., 1996, Nr. 18-457 (1996 02 28)
  
 26 straipsnis. Neteisėto
 pasinaudojimo Užimtumo fondo lėšomis pasekmės
@@ -630,8 +646,8 @@ Nr.
 IX-687,
 2001-12-21, Žin., 2002, Nr. 2-51 (2002-01-09)
 BEDARBIŲ
-RĖMIMO ĮSTATYMO 5, 7, 8, 11, 13, 14, 16, 16(1), 19, 20(1), 22 STRAIPSNIŲ PAKEITIMO
-ĮSTATYMAS
+RĖMIMO ĮSTATYMO 5, 7, 8, 11, 13, 14, 16, 16(1), 19, 20(1), 22 STRAIPSNIŲ
+PAKEITIMO ĮSTATYMAS
  
 6.
 Lietuvos
@@ -655,8 +671,8 @@ RĖMIMO ĮSTATYMO 14 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 8.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1830, 2003-11-18,
-Žin., 2003, Nr. 114-5118 (2003-12-05)
+Nr. IX-1830,
+2003-11-18, Žin., 2003, Nr. 114-5118 (2003-12-05)
 BEDARBIŲ
 RĖMIMO ĮSTATYMO 16(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
@@ -675,12 +691,22 @@ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-255, 2005-06-16,
+Žin., 2005, Nr. 81-2941 (2005-06-30)
+BEDARBIŲ
+RĖMIMO ĮSTATYMO 7 IR 8 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+Įstatymas įsigalioja nuo 2005 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2005-01-04)
+Aušra Bodin (2005-07-05)
                  
-autrap@lrs.lt
+ausra.bodin@lrs.lt
 
