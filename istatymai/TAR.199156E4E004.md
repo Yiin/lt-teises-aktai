@@ -13,21 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2005-06-30
+Suvestinė redakcija nuo 2005-07-01 iki 2005-10-26
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
-Nauja redakcija nuo 1999-01-01:
-Nr. VIII-904, 1998-10-22, Žin. 1998, Nr. 98-2706 (1998-11-11), i. k. 0981010ISTAVIII-904
+Nauja redakcija nuo 2005-07-01:
+Nr. IX-2228, 2004-05-11, Žin. 2004, Nr. 83-2983 (2004-05-22), i. k. 1041010ISTA0IX-2228
  
-LIETUVOS RESPUBLIKOS  INVALIDŲ SOCIALINĖS INTEGRACIJOS  ĮSTATYMAS 
+LIETUVOS RESPUBLIKOS NEĮGALIŲJŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMAS
  
-
-
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucija, humanizmo ir teisingumo principais, siekdamas įgyvendinti tarptautiniuose aktuose įtvirtintas invalidų teises, pripažindamas, kad invalidų integracija į visuomenės ir valstybės gyvenimą yra vienas iš civilizuotumo rodiklių, priima šį įstatymą.
- 
-
-
 
 
 PIRMASIS SKIRSNIS
@@ -35,23 +29,15 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo tikslas 
 
 
-1. Invalidų socialinės integracijos įstatymas reguliuoja invalidumo nustatymą, invalidų medicininę, profesinę ir socialinę reabilitaciją, aplinkos pritaikymą invalidams, invalidų ugdymą, mokymą, nustato invalidų integracijos į darbą, profesiją, visuomeninį gyvenimą teisines, ekonomines ir organizacines garantijas.
-
-
-
-
-2. Šis įstatymas taip pat apibrėžia visiškos negalios invalido sąvoką, nustato pagrindinius kriterijus, pagal kuriuos I grupės invalidui ir vaikui invalidui pripažįstama visiška negalia (toliau – visiškos negalios invalidas).
-Straipsnio dalies pakeitimai:
-Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
- 
+1. Šio Įstatymo tikslas – užtikrinti neįgaliųjų lygias teises ir galimybes visuomenėje, nustatyti neįgaliųjų socialinės integracijos principus, apibrėžti socialinės integracijos sistemą ir jos prielaidas bei sąlygas, neįgaliųjų socialinę integraciją įgyvendinančias institucijas, neįgalumo lygio ir darbingumo lygio nustatymą, profesinės reabilitacijos paslaugų teikimą, specialiųjų poreikių nustatymo ir tenkinimo principus. 
 
 
 
 
-3. Šis įstatymas taikomas nuolat Lietuvos Respublikoje gyvenantiems invalidams, pripažintiems tokiais pagal šio įstatymo antrojo skirsnio nuostatas.
+2. Šis Įstatymas taikomas Lietuvos Respublikoje nuolat gyvenantiems neįgaliesiems. 
  
 
 
@@ -59,60 +45,157 @@ Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA
 
 
 
-2 straipsnis. Invalidų socialinės integracijos principai
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Invalidai, nepaisant invalidumo priežasties, pobūdžio, pasireiškimo laipsnio, Lietuvos Respublikoje turi tas pačias teises kaip ir kiti Lietuvos Respublikos gyventojai. Invalidams, negalintiems savarankiškai įgyvendinti savo teisių, visuomenė ir valstybė teikia papildomą paramą ir garantijas.
-
-
-
-
-2. Visuomenės ir valstybės struktūros yra atviros invalidams. Invalidai dalyvauja sprendžiant visus su jų gyvenimu ir veikla susijusius klausimus.
+1. Aplinka – neįgaliojo viešojo ir asmeninio gyvenimo bei veiklos sąlygos ir galimybės laisvai judėti, naudotis visuomenėje teikiamomis paslaugomis, gauti reikiamą informaciją, bendrauti ir dalyvauti visose visuomenės gyvenimo srityse. 
 
 
 
 
-3. Invalidai turi būti apsaugoti nuo bet kokio išnaudojimo, diskriminavimo, juos įžeidžiančio arba paniekinančio elgesio.
+2. Aplinkos veiksniai – išorinės aplinkybės, lengvinančios arba trukdančios neįgaliojo gyvenimui ir veiklai. Aplinkos veiksniai neįgaliojo socialinei integracijai gali būti palankūs arba nepalankūs.
 
 
 
 
-4. Invalidai gyvena šeimoje arba ją pakeičiančioje aplinkoje ir negali būti apgyvendinti specialiose asmens sveikatos priežiūros, globos ir rūpybos įstaigose be jų pačių, jų tėvų, globėjų, rūpintojų sutikimo.
+3. Darbingumo lygis – asmens pajėgumas įgyvendinti anksčiau įgytą profesinę kompetenciją ar įgyti naują profesinę kompetenciją arba atlikti mažesnės profesinės kompetencijos reikalaujančius darbus.
 
 
 
 
-5. Medicininė, funkcinė, psichologinė ir pedagoginė pagalba invalidams teikiama gyvenamojoje vietoje, išskyrus atvejus, kai tokią pagalbą būtina teikti specialiose įstaigose.
+4. Finansinės pagalbos priemonės – socialinė piniginė parama, tikslinės kompensacijos ir išmokos bei lengvatos. Šios priemonės skirtos neįgaliųjų specialiesiems poreikiams tenkinti bei materialinės padėties garantijoms užtikrinti. 
 
 
 
 
-6. Invalidai ugdomi, mokomi, įgyja profesiją, dirba, užsiima naudinga veikla pagal savo sugebėjimus, interesus ir galimybes.
+5. Medicininė reabilitacija – asmens sveikatos priežiūros paslaugų rūšis, apimanti kompleksišką reabilitacijos priemonių taikymą (sugrąžinant, kompensuojant sutrikusias funkcijas, palaikant pasiektą lygį) siekiant didžiausio galimo fizinio, psichinio, socialinio asmens savarankiškumo. 
 
 
 
 
-7. Rengiant Vyriausybės ir kitas valstybines programas, atsižvelgiama į specifinius invalidų poreikius.
+6. Neįgalumas – dėl asmens kūno sandaros ir funkcijų sutrikimo bei nepalankių aplinkos veiksnių sąveikos atsiradęs ilgalaikis sveikatos būklės pablogėjimas, dalyvavimo visuomenės gyvenime ir veiklos galimybių sumažėjimas. 
 
 
 
 
-8. Invalidams, jų tėvams, globėjams, rūpintojams bei invalidų visuomeninėms organizacijoms teikiama informacija ir kvalifikuota konsultacija apie jų teises ir teisėtus interesus.
+7. Neįgalumo lygis – kompleksiškai įvertinus nustatytas asmens sveikatos būklės, savarankiškumo kasdienėje veikloje ir galimybių ugdytis netekimo mastas.
 
 
 
 
-9. Invalidai atlieka savo pareigas pagal išgales, sugebėjimus ir žinias. Invalidumas neatleidžia asmens nuo atsakomybės už savo veiksmus, išskyrus įstatymų numatytus atvejus.
+8. Neįgalusis – asmuo, kuriam šio Įstatymo nustatyta tvarka pripažintas neįgalumo lygis arba mažesnis negu 55 procentų darbingumo lygis ir (ar) nustatyta specialiųjų poreikių tenkinimo reikmė. 
 
 
 
 
-10. Lietuvos Respublika plėtoja ir skatina tarptautinį bendradarbiavimą sprendžiant invalidumo problemas.
+9. Profesinė reabilitacija – asmens darbingumo, profesinės kompetencijos bei pajėgumo dalyvauti darbo rinkoje atkūrimas arba didinimas ugdymo, socialinio, psichologinio, reabilitacijos ir kitomis poveikio priemonėmis. 
 
 
 
 
-11. Gestų kalba yra kurčiųjų gimtoji kalba.
+10. Specialusis poreikis – specialiosios pagalbos reikmė, atsirandanti dėl asmens įgimtų ar įgytų ilgalaikių sveikatos sutrikimų (neįgalumo ar darbingumo netekimo) ir nepalankių aplinkos veiksnių.
+
+
+
+
+11. Specialiosios pagalbos priemonės – specialiojo poreikio tenkinimo priemonės, kurių tikslas – jas gaunančiam neįgaliajam užtikrinti lygias ugdymo, profesines, socialines bei visaverčio integravimosi į visuomenę galimybes.
+
+
+
+
+12. Specialiųjų ugdymosi poreikių asmuo – asmuo, kurio galimybės dalyvauti ugdymo procese ir visuomenės gyvenime yra ribotos dėl įgimtų ar įgytų ilgalaikių sveikatos sutrikimų (neįgalumo ar darbingumo netekimo).
+
+
+
+
+13. Socialinė reabilitacija – socialinio poveikio priemonių visuma, skatinanti neįgaliųjų socialinį savarankiškumą, dalyvavimo galimybių didėjimą ir veiklos ribojimo mažėjimą siekiant užtikrinti lygias teises ir galimybes dalyvauti visuomenės gyvenime.
+
+
+
+
+14. Techninės pagalbos priemonės – bet koks neįgaliųjų naudojamas specialus ar standartinis gaminys, įrankis, įranga ar techninė sistema, padedantys išvengti, kompensuoti, sumažinti arba pašalinti sutrikusių funkcijų įtaką sveikatos būklei, asmens savarankiškumui, ugdymuisi, darbinei veiklai.
+
+
+
+
+15. Ugdymas – mokymas, lavinimas, įgūdžių, gebėjimų ir vertybinių nuostatų formavimas. 
+ 
+
+
+
+
+
+
+3 straipsnis. Pagrindiniai neįgaliųjų socialinės integracijos principai
+
+
+Neįgaliųjų socialinė integracija organizuojama vadovaujantis šiais principais: 
+
+
+1) lygių teisių – neįgalieji turi tokias pačias teises kaip ir kiti visuomenės nariai; 
+
+
+
+
+2) lygių galimybių – neįgaliesiems, kaip ir kitiems visuomenės nariams, sudaromos tokios pat ugdymosi, darbo, laisvalaikio leidimo, dalyvavimo visuomenės, politiniame ir bendruomenės gyvenime galimybės. Tik tais atvejais, kai tokios pat sąlygos ir priemonės yra neveiksmingos, numatomos specialiosios priemonės, gerinančios neįgaliųjų padėtį;
+
+
+
+
+3) diskriminavimo prevencijos – neįgalieji apsaugomi nuo bet kokios diskriminacijos ar išnaudojimo;
+
+
+
+
+4) visapusiško dalyvavimo – visais lygmenimis visi su neįgaliųjų gyvenimu ir veikla susiję klausimai sprendžiami derinant su jais ir (ar) jų atstovais pagal įstatymą bei atsižvelgiant į jų patirtį; 
+
+
+
+
+5) savarankiškumo ir pasirinkimo laisvės užtikrinimo – neįgalieji nuolat skatinami būti savarankiški; 
+
+
+
+
+6) prieinamumo – neįgaliesiems sudaromos sąlygos veiklai visose gyvenimo srityse ir galimybė naudotis ištekliais;
+
+
+
+
+7) neįgalumo kompensavimo – neįgalumo pasekmės kompensuojamos neįgaliesiems skirtomis įvairiomis piniginės ir nepiniginės paramos formomis;
+
+
+
+
+8) decentralizacijos – pagalba neįgaliesiems priartinama prie jų gyvenamosios vietos, bendruomenė įtraukiama į socialinę neįgaliųjų reabilitaciją;
+
+
+
+
+9) destigmatizacijos – visuomenė šviečiama siekiant šalinti neigiamas nuostatas ir stereotipus, susijusius su neįgaliaisiais;
+
+
+
+
+10) perimamumo ir lankstumo – visos institucijos veikia darniai teikdamos socialines paslaugas ir ugdydamos neįgaliuosius;
+
+
+
+
+11) skirtingų poreikių tenkinimo – neįgalieji sudaro labai įvairialypę visuomenės grupę, todėl, teikiant paramą, atsižvelgiama į skirtingus neįgaliųjų poreikius.
+ 
+
+
+
+
+
+
+
+
+4 straipsnis. Gestų kalba
+
+
+Gestų kalba yra kurčiųjų gimtoji kalba.
  
 
 
@@ -123,37 +206,19 @@ Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA
 
 
 ANTRASIS SKIRSNIS
-INVALIDUMO NUSTATYMAS. INVALIDUMO STATISTIKA
+NEĮGALIŲJŲ SOCIALINĖS INTEGRACIJOS SISTEMA IR JOS PRIELAIDOS BEI SĄLYGOS
  
 
 
-3 straipsnis. Invalidumas
+5 straipsnis. Neįgaliųjų socialinės integracijos sistema
 
 
-1. Invalidumas yra tokia kompetentingų įstaigų nustatyta asmens būklė, kai asmuo dėl įgimtų ar įgytų fizinių ar psichinių trūkumų visai arba iš dalies negali pasirūpinti savo asmeniniu ir socialiniu gyvenimu, įgyvendinti savo teisių ir vykdyti pareigų.
-
-
-
-
-2. Asmenų iki 18 metų, išskyrus tuos, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, invalidumas pagal pasireiškimo mastą skirstomas į tris lygius: sunkią, vidutinę ir lengvą negalią. Asmenų iki 18 metų, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, ir asmenų nuo 18 metų invalidumas pagal pasireiškimo mastą skirstomas į tris grupes: I, II ir III grupių invalidumą. Bendrojo ir profesinio darbingumo netekimas reiškiamas procentais (%). 
-Straipsnio dalies pakeitimai:
-Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
- 
+1. Neįgaliųjų socialinės integracijos sistemą sudaro medicininės, profesinės ir socialinės reabilitacijos paslaugų teikimas, specialiųjų poreikių tenkinimas specialiosios pagalbos priemonėmis, neįgaliųjų užimtumo rėmimas, socialinės paramos teikimas, Valstybinio socialinio draudimo fondo pensijų ir išmokų skyrimas ir mokėjimas, Privalomojo sveikatos draudimo fondo išmokų skyrimas ir mokėjimas, ugdymo paslaugų teikimas, lygių galimybių dalyvauti kultūros, sporto ir kitose visuomenės gyvenimo srityse užtikrinimas.
 
 
 
 
-3. Invalidas - tai bet kurio amžiaus asmuo, kuris dėl įgimtų ar įgytų fizinių ar psichinių trūkumų visai arba iš dalies negali pasirūpinti savo asmeniniu ir socialiniu gyvenimu, įgyvendinti savo teisių ir vykdyti pareigų.
-
-
-
-
-4. Visiškos negalios invalidas – tai bet kurio amžiaus invalidas, kurio fizinė ir psichinė negalia visiškai apriboja galimybę jam orientuotis, judėti, dirbti, integruotis ir būti ekonomiškai savarankiškam. 
-
-
-
-
-5. Invalidumo ir visiškos negalios invalidumo medicininius ir socialinius kriterijus reglamentuoja Sveikatos apsaugos ir Socialinės apsaugos ir darbo ministerijos.
+2. Neįgaliųjų socialinės integracijos sistema finansuojama iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo, Užimtumo fondo, Europos Sąjungos struktūrinių fondų ir kitų teisėtai įgytų lėšų. 
  
 
 
@@ -161,74 +226,10 @@ Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA
 
 
 
-4 straipsnis. Invalidumo nustatymas
+6 straipsnis. Informacijos teikimas
 
 
-1. Invalidumą nustato: 
-
-
-1) asmenims iki 18 metų, išskyrus tuos, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, – Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigų gydytojų konsultacinės komisijos; jų nuostatus tvirtina Sveikatos apsaugos ministerija. Šie asmenys pripažįstami vaikais invalidais; 
-
-
-
-
-2) asmenims iki 18 metų, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, ir asmenims nuo 18 metų – valstybinės medicininės-socialinės ekspertizės komisijos; jų nuostatus tvirtina Vyriausybė (toliau šios dalies 1 ir 2 punktuose nurodytos komisijos vadinamos invalidumą nustatančiomis komisijomis). Šie asmenys pripažįstami invalidais. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
- 
-
-
-
-
-2. Invalido visišką negalią pripažįsta šio straipsnio 1 dalyje nurodytos invalidumą nustatančios komisijos, remdamosi Sveikatos apsaugos bei Socialinės apsaugos ir darbo ministerijų patvirtintu funkcinių būklių, dėl kurių pripažįstama visiška invalido negalia, sąrašu.
-
-
-
-
-3. Invalidumą nustatančios komisijos priima sprendimus dėl: 
-
-
-1) invalidumo fakto, pobūdžio, priežasties, atsiradimo laiko, grupės (lygio), termino, bendrojo ir profesinio darbingumo netekimo masto; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
- 
-
-
-
-
-2) invalidų medicininės, profesinės ir socialinės reabilitacijos priemonių;
-
-
-
-
-3) invalidų ugdymo, mokymo, darbo pobūdžio ir sąlygų; 
-
-
-
-
-4) invalidų nuolatinės slaugos būtinumo;
-
-
-
-
-5) specialių kompensacinių priemonių invalidams;
-
-
-
-
-6) visiškos negalios pripažinimo.
-
-
-
-
-
-
-4. Invalidumą nustatančių komisijų sprendimai privalomi socialinės globos ir rūpybos įstaigoms (pensionatams), savivaldybių globos ir rūpybos institucijoms, Valstybinio socialinio draudimo fondo valdybai prie Socialinės apsaugos ir darbo ministerijos, darbdaviams, ugdymo, mokymo, specialioms invalidų medicininės, profesinės ir socialinės reabilitacijos įstaigoms, invalidams, jų tėvams, globėjams, rūpintojams.
-Straipsnio dalies pakeitimai:
-Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
-Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010ISTA0IX-2540
+Visos valstybės bei savivaldybių institucijos ir įstaigos teikia neįgaliesiems, jų šeimos nariams arba jų atstovams pagal įstatymą, specialistams, dirbantiems neįgaliųjų socialinės integracijos srityje, informaciją apie įgyvendinamas ir numatomas įgyvendinti neįgaliųjų socialinės integracijos programas, teikiamas paslaugas ir materialinę paramą. Visa informacija neįgaliesiems turi būti teikiama jiems prieinama forma.
  
 
 
@@ -236,29 +237,20 @@ Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010IS
 
 
 
-5 straipsnis. Suinteresuotų asmenų dalyvavimas nustatant invalidumą
+7 straipsnis. Neįgaliųjų asmens sveikatos priežiūra
 
 
-Nustatant invalidumą, gali dalyvauti su patariamojo balso teise asmenį gydantis gydytojas, darbdavių, ugdymo, mokymo įstaigų, socialinės globos ir rūpybos įstaigų (pensionatų), savivaldybių globos ir rūpybos institucijų, Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos, invalidų visuomeninių organizacijų atstovai. Jų dalyvavimo tvarką reglamentuoja invalidumą nustatančių komisijų nuostatai. 
-
-
-Straipsnio pakeitimai:
-Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
-Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010ISTA0IX-2540
- 
+1. Kad būtų užtikrintos lygios neįgaliųjų teisės asmens sveikatos priežiūros srityje, neįgaliesiems asmens sveikatos priežiūros paslaugos teikiamos tokio pat lygio ir pagal tą pačią sistemą kaip ir kitiems visuomenės nariams.
 
 
 
 
-6 straipsnis. Invalido pažymėjimas
-
-
-1. Invalido pažymėjimas yra dokumentas, patvirtinantis invalidumą ir suteikiantis galimybę jo savininkui naudotis šiame įstatyme, kituose įstatymuose ir poįstatyminiuose aktuose įtvirtintomis teisėmis, socialinėmis garantijomis ir lengvatomis.
+2. Neįgaliesiems taikomos prevencijos priemonės, padedančios išvengti komplikacijų ir darbingumo lygio mažėjimo.
 
 
 
 
-2. Invalido pažymėjimo formą, jo išdavimo ir paėmimo tvarką reglamentuoja Socialinės apsaugos ir darbo ministerija.
+3. Už tinkamų asmens sveikatos priežiūros paslaugų neįgaliesiems teikimo ir komplikacijų bei darbingumo lygio mažėjimo prevencijos priemonių organizavimą bei šių paslaugų kokybės užtikrinimą atsako Sveikatos apsaugos ministerija.
  
 
 
@@ -266,20 +258,187 @@ Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010IS
 
 
 
-7 straipsnis. Invalidumo statistika
+8 straipsnis. Medicininės reabilitacijos paslaugos 
 
 
-1. Invalidumo statistika tvarkoma reguliariai. Invalidų statistinės apskaitos formas ir tvarką tvirtina Statistikos departamentas prie Vyriausybės Socialinės apsaugos ir darbo ministerijos teikimu.
-
-
-
-
-2. Invalidų visuomeninės organizacijos gali tvarkyti visuomeninę invalidumo apskaitą. Jos turi teisę įstatymo nustatyta tvarka gauti duomenis iš valstybinių statistikos ir kitų tarnybų. 
+1. Medicininės reabilitacijos paslaugos yra skirtos asmens funkcinei būklei maksimaliai pagerinti, sveikatos būklei stabilizuoti ir fiziniam bei socialiniam savarankiškumui atkurti.
 
 
 
 
-3. Invalidumo statistika skelbiama viešai, jei įstatymai nenumato kitaip.
+2. Medicininės reabilitacijos paslaugos gali būti teikiamos kartu su profesinės ir socialinės reabilitacijos paslaugomis.
+
+
+
+
+3. Už medicininės reabilitacijos paslaugų teikimo organizavimą ir šių paslaugų kokybės užtikrinimą atsako Sveikatos apsaugos ministerija.
+ 
+
+
+
+
+
+
+9 straipsnis. Profesinės reabilitacijos paslaugos
+
+
+1. Profesinės reabilitacijos paslaugomis siekiama ugdyti ar atkurti neįgaliųjų darbingumą ir didinti jų įsidarbinimo galimybes.
+
+
+
+
+2. Skiriamos šios pagrindinės profesinės reabilitacijos paslaugos: profesinis orientavimas, konsultavimas, profesinių gebėjimų įvertinimas, atkūrimas arba naujų išugdymas, perkvalifikavimas. Šios paslaugos skirtos asmens darbingumui atkurti ir galimybėms savarankiškai įsidarbinti ar dalyvauti įdarbinimo programose didinti.
+
+
+
+
+3. Už profesinės reabilitacijos paslaugų teikimo organizavimą atsako Socialinės apsaugos ir darbo ministerija. Šią funkciją ji įgyvendina pasitelkdama Lietuvos darbo biržą prie Socialinės apsaugos ir darbo ministerijos bei Lietuvos darbo rinkos mokymo tarnybą prie Socialinės apsaugos ir darbo ministerijos.
+
+
+
+
+4. Už profesinės reabilitacijos specialistų, gebančių įvertinti ir skatinti asmens darbingumą, rengimą ir kvalifikacijos tobulinimą atsako Švietimo ir mokslo ministerija. Šią funkciją ji įgyvendina bendradarbiaudama su Sveikatos apsaugos ministerija bei Socialinės apsaugos ir darbo ministerija.
+ 
+
+
+
+
+
+
+10 straipsnis. Socialinės reabilitacijos paslaugos
+
+
+1. Socialinės reabilitacijos paslaugos teikiamos asmenims siekiant suformuoti arba atkurti jų socialinius ir savarankiško gyvenimo įgūdžius, padėti įsigyti išsilavinimą, užtikrinti galimybes dalyvauti visuomenės gyvenime bei darbo rinkoje.
+
+
+
+
+2. Skiriamos šios pagrindinės socialinės reabilitacijos paslaugos: socialinių ir savarankiško gyvenimo įgūdžių ugdymas, palaikymas bei atkūrimas, motyvacijos įsigyti išsilavinimą ir dirbti didinimas, meninių, sportinių bei kitų gebėjimų lavinimas. 
+
+
+
+
+3. Už socialinės reabilitacijos paslaugų teikimo organizavimą ir šių paslaugų kokybės užtikrinimą atsako apskričių viršininkai ir savivaldybių institucijos.
+ 
+
+
+
+
+
+
+11 straipsnis. Aplinkos prieinamumas
+
+
+1. Reikalavimai dėl neįgaliesiems fiziškai tinkamos aplinkos visose gyvenimo srityse įgyvendinami atliekant teritorijų planavimą ir statinių projektavimą bei viešosios paskirties pastatų, būsto ir jo aplinkos, viešojo transporto objektų, skirtų keleiviams aptarnauti, ir jų infrastruktūros, informacinės aplinkos pritaikymą neįgaliųjų specialiesiems poreikiams.
+
+
+
+
+2. Už aplinkos pritaikymo neįgaliųjų specialiesiems poreikiams statybos normatyvinių techninių dokumentų parengimą ir jų įgyvendinimo priežiūrą atsako Aplinkos ministerija.
+
+
+
+
+3. Už objektų pritaikymą neįgaliųjų specialiesiems poreikiams atsako savivaldybių institucijos ir šio straipsnio 1 dalyje nurodytų objektų savininkai bei naudotojai.
+
+
+
+
+4. Už informacinės aplinkos neįgaliesiems pritaikymo organizavimą atsako Vyriausybės įgaliota institucija. 
+ 
+
+
+
+
+
+
+12 straipsnis. Neįgaliųjų ugdymas
+
+
+1. Visi neįgalieji turi teisę būti ugdomi, nesvarbu, koks jų neįgalumo lygis ar darbingumo lygis. 
+
+
+
+
+2. Neįgalieji ugdomi mokyklose ir kitose įstaigose, kuriose teikiamos ugdymo paslaugos, atsižvelgiant į jų specialiuosius ugdymosi poreikius, sugebėjimus ir fizinę bei psichinę būklę. 
+
+
+
+
+3. Neįgaliųjų ugdymo sistemos struktūrą, valdymą bei šių asmenų formaliojo ir neformaliojo ugdymo bei pagalbos jiems pagrindus nustato Švietimo įstatymas ir kiti teisės aktai.
+
+
+
+
+4. Už neįgaliųjų ugdymo kokybę Švietimo įstatymo ir kitų teisės aktų nustatyta tvarka atsako Švietimo ir mokslo ministerija, kitos valstybės ir savivaldybių institucijos bei įstaigos pagal kompetenciją.
+ 
+
+
+
+
+
+
+13 straipsnis. Neįgaliųjų užimtumas
+
+
+1. Neįgaliųjų įdarbinimo rėmimą reglamentuoja Darbo kodeksas ir kiti teisės aktai. 
+
+
+
+
+2. Darbo terapijos ir bendrojo užimtumo socialinių paslaugų teikimą reglamentuoja Socialinių paslaugų įstatymas ir kiti teisės aktai.
+
+
+
+
+3. Neįgaliųjų darbo sąlygas, darbo laiką, poilsio laiką ir kitas su darbu susijusias garantijas nustato Darbo kodeksas, Darbuotojų saugos ir sveikatos įstatymas, kiti teisės aktai.
+
+
+
+
+4. Be to, kiti teisės aktai gali nustatyti paramos teikimą įsidarbinti siekiantiems neįgaliesiems ir neįgaliuosius įdarbinusiems darbdaviams.
+ 
+
+
+
+
+
+
+14 straipsnis. Neįgaliųjų materialinės padėties garantijos
+
+
+1. Neįgaliųjų pensijų ir pašalpų dydį, jų mokėjimo tvarką, kitas sąlygas nustato Valstybinių socialinio draudimo pensijų, Valstybinių pensijų, Valstybinių šalpos išmokų įstatymai, šis Įstatymas ir kiti teisės aktai.
+
+
+
+
+2. Be to, kiti teisės aktai gali nustatyti įvairių išmokų ar lengvatų teikimą neįgaliesiems.
+ 
+
+
+
+
+
+
+15 straipsnis. Kultūrinė veikla, kūno kultūra ir sportas
+
+
+1. Už neįgaliųjų integravimą į kultūrinę veiklą, poilsį ir sportą ir lygių galimybių jiems dalyvauti šiose gyvenimo srityse kartu su kitais visuomenės nariais sudarymą atsako apskričių viršininkai ir savivaldybių institucijos. Apskričių viršininkai iš apskričių viršininkų administracijoms skirtų valstybės biudžeto lėšų, o savivaldybių institucijos – iš savivaldybių biudžetų lėšų remia neįgaliųjų visuomeninių organizacijų įgyvendinamas kultūros, kūno kultūros ir sporto programas ir kitas priemones, skirtas visiems atitinkamoje apskrities ar savivaldybės teritorijoje gyvenantiems neįgaliesiems.
+
+
+
+
+2. Valstybės masto ir tarptautinius neįgaliųjų kūno kultūros ir sporto renginius organizuoja ir rengia neįgaliųjų sporto organizacijos kartu su kitomis neįgaliųjų visuomeninėmis organizacijomis. Šie renginiai remiami iš valstybės biudžeto lėšų.
+
+
+
+
+3. Už neįgaliųjų kūno kultūros ir sporto rėmimą ir organizavimą atsako Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės.
+
+
+
+
+4. Neįgaliųjų kūno kultūros ir sporto, kūno kultūros ir sporto organizacijų veiklos teisinius pagrindus, valstybės institucijų ir visuomeninių organizacijų kompetenciją neįgaliųjų kūno kultūros ir sporto srityje reglamentuoja Kūno kultūros ir sporto įstatymas ir kiti teisės aktai.
  
 
 
@@ -290,76 +449,47 @@ Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010IS
 
 
 TREČIASIS SKIRSNIS
-MEDICININĖ, PROFESINĖ IR SOCIALINĖ INVALIDŲ REABILITACIJA, JŲ MEDICININIS, SOCIALINIS IR TECHNINIS APTARNAVIMAS
+NEĮGALIŲJŲ SOCIALINĘ INTEGRACIJĄ ĮGYVENDINANČIOS INSTITUCIJOS 
  
 
 
-8 straipsnis. Medicininės, profesinės ir socialinės invalidų reabilitacijos tikslas ir priemonės
+16 straipsnis. Neįgaliųjų socialinės integracijos valdymas
 
 
-1. Medicininės, profesinės ir socialinės invalidų reabilitacijos tikslas yra invalidumo pašalinimas, palengvinimas arba stabilizavimas, invalidų fizinių ir protinių sugebėjimų puoselėjimas, integracija į darbą, profesiją, visuomeninį gyvenimą.
-
-
-
-
-2. Medicininės invalidų reabilitacijos priemonės apima: invalidų sveikatos priežiūrą, gydymą ligoninėse, sanatorijose, specialiose įstaigose, namuose, aprūpinimą medikamentais, atkuriamąją judesių, kalbos, klausos, darbo terapiją ir kt.
+1. Neįgaliųjų socialinės integracijos valdymas apima neįgaliųjų socialinės integracijos priemonių planavimą, administravimą, organizavimą bei įgaliojimų ir atsakomybės paskirstymą bei priežiūrą.
 
 
 
 
-3. Profesinės ir socialinės invalidų reabilitacijos priemonės apima: pagalbą profesijai, specialybei įsigyti, išmokti amato, darbo vietos steigimą ir išsaugojimą, kvalifikacijos kėlimą, perkvalifikavimą, protezinę pagalbą, aprūpinimą ortopedinėmis priemonėmis, surdo, tiflo ir kitokia kompensacine technika, prisitaikymą gyvenime, psichologinę ir kitokią pagalbą, aplinkos pritaikymą specifiniams invalidų poreikiams ir kt.
- 
+2. Pagrindinės neįgaliųjų socialinę integraciją įgyvendinančios institucijos yra:
+
+
+1) Lietuvos Respublikos Vyriausybė. Ji koordinuoja ir įgyvendina neįgaliųjų socialinės integracijos sistemą, tvirtina ilgalaikes valstybines neįgaliųjų socialinės integracijos programas ir strategijas; 
 
 
 
 
-
-
-9 straipsnis. Medicininės, profesinės ir socialinės invalidų reabilitacijos vykdymas
-
-
-1. Medicininę, profesinę ir socialinę invalidų reabilitaciją vykdo: asmens sveikatos priežiūros įstaigos, savivaldybių globos ir rūpybos institucijos, socialinės globos ir rūpybos įstaigos (pensionatai), ugdymo, mokymo įstaigos, darbo birža, darbdaviai, invalidų visuomeninės organizacijos ir jų įmonės, specialios medicininės, profesinės ir socialinės invalidų reabilitacijos įstaigos, kitos įstaigos ir organizacijos.
+2) ministerijos. Jos pagal savo kompetenciją rengia ir teikia Lietuvos Respublikos Vyriausybei siūlymus, įstatymų ir kitų teisės aktų projektus dėl neįgaliųjų socialinės integracijos sistemos tobulinimo bei organizuoja neįgaliųjų socialinės integracijos sistemos įgyvendinimą;
 
 
 
 
-2. Medicininės, profesinės ir socialinės invalidų reabilitacijos vykdytojai, sudarydami individualią invalidų reabilitacijos programą ir ją realizuodami, bendradarbiauja tarpusavyje, informuoja gyventojus ir pačius invalidus apie priemones, padedančias invalidams integruotis į darbą, profesiją, visuomeninį gyvenimą, efektyviai naudoja kitų šalių patirtį, vykdo tarptautinį bendradarbiavimą.
+3) apskričių viršininkai. Jie kartu su apskrities savivaldybių institucijomis rengia ir įgyvendina apskrities neįgaliųjų socialinės integracijos programas, atsako už socialinių paslaugų įstaigų, teikiančių specialiąsias socialines paslaugas neįgaliesiems, veiklos užtikrinimą; 
 
 
 
 
-3. Medicininės, profesinės ir socialinės invalidų reabilitacijos veiksmus organizuoja ir koordinuoja invalidą gydantis gydytojas (gydytojas reabilitologas) ir savivaldybių globos ir rūpybos institucijos.
- 
+4) savivaldybių institucijos. Jos rengia ir įgyvendina savivaldybės neįgaliųjų socialinės integracijos programas, atsako už neįgaliųjų specialiųjų poreikių tenkinimą teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymą, bendradarbiavimą su neįgaliųjų visuomeninėmis organizacijomis;
 
 
 
 
-
-
-10 straipsnis. Medicininis ir socialinis invalidų aptarnavimas
-
-
-1. Medicininė ir socialinė pagalba invalidams teikiama asmens sveikatos priežiūros įstaigose, ugdymo, mokymo, globos ir rūpybos įstaigose (pensionatuose), namuose.
+5) Lietuvos neįgaliųjų reikalų taryba prie Lietuvos Respublikos Vyriausybės. Ji padeda Lietuvos Respublikos Vyriausybei koordinuoti ir įgyvendinti neįgaliųjų socialinės integracijos sistemą, koordinuoja ir įgyvendina Nacionalinę žmonių su negalia socialinės integracijos programą, kitas neįgaliųjų socialinės integracijos priemones, atlieka kitas teisės aktų jai pavestas funkcijas;
 
 
 
 
-2. Asmens sveikatos priežiūros įstaigos medicininę pagalbą invalidams teikia pirmąja eile.
-
-
-
-
-3. Medicininė ir socialinė pagalba invalidų, jų tėvų, globėjų, rūpintojų pageidavimu teikiama specialiose valstybinėse globos ir rūpybos įstaigose (pensionatuose) arba privačiose religinių ir kitų visuomeninių organizacijų globos ir rūpybos įstaigose (pensionatuose).
-
-
-
-
-4. Invalidams, kuriems nustatytas nuolatinės slaugos būtinumas, medicininė ir socialinė pagalba teikiama namuose, išskyrus atvejus, kai tokią pagalbą būtina teikti specialiose įstaigose.
-
-
-
-
-5. Invalidų medicininį ir socialinį aptarnavimą namuose organizuoja invalidą gydantis gydytojas ir savivaldybių globos ir rūpybos institucijos.
+6) visuomeninės neįgaliųjų organizacijos. Jos atstovauja neįgaliųjų interesams bei padeda įgyvendinti neįgaliųjų socialinės integracijos priemones: organizuoja socialinių paslaugų teikimą neįgaliesiems, neįgaliųjų poilsį, sportą, turizmą, kultūrinę veiklą, tarptautinį bendradarbiavimą. Organizuodamos savo veiklą, visuomeninės neįgaliųjų organizacijos bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis, gali gauti šių institucijų ir įstaigų finansinę paramą. 
  
 
 
@@ -367,52 +497,37 @@ MEDICININĖ, PROFESINĖ IR SOCIALINĖ INVALIDŲ REABILITACIJA, JŲ MEDICININIS, 
 
 
 
-11 straipsnis. Protezinė pagalba invalidams, jų aprūpinimas ortopedinėmis priemonėmis, surdo, tiflo ir kitokia kompensacine technika
 
 
-1. Protezinės pagalbos invalidams teikimo, jų aprūpinimo ortopedinėmis priemonėmis, surdo, tiflo ir kitokia kompensacine technika tvarką ir sąlygas nustato Vyriausybė.
+17 straipsnis. Lietuvos neįgaliųjų reikalų taryba prie Lietuvos Respublikos Vyriausybės
 
 
-
-
-2. Socialinės apsaugos ir darbo ministerija organizuoja invalidams protezinę pagalbą, aprūpinimą ortopedinėmis priemonėmis, surdo, tiflo ir kitokia kompensacine technika.
- 
+1. Lietuvos neįgaliųjų reikalų taryba prie Lietuvos Respublikos Vyriausybės (toliau – Taryba) yra Vyriausybei atskaitinga kolegiali institucija.
 
 
 
 
-
-
-12 straipsnis. Miestų, gyvenviečių, viešųjų pastatų, gyvenamųjų namų projektavimo, statybos, rekonstravimo reikalavimai
-
-
-1. Projektuojant, statant, rekonstruojant miestų, gyvenamųjų vietovių gatves, aikštes, parkus, mašinų stovėjimo aikšteles, susisiekimo linijas, viešuosius pastatus, asmens sveikatos priežiūros įstaigas, gyvenamuosius namus, kultūros, sporto ir kitus objektus, būtina juos pritaikyti specifiniams invalidų poreikiams. Tokius reikalavimus nustato Vyriausybė.
+2. Tarybos nuostatus ir sudėtį tvirtina Vyriausybė. 
 
 
 
 
-2. Pastatyti, rekonstruoti ir išplėsti aukščiau nurodyti objektai priimami naudoti tik įvykdžius jų pritaikymo specifiniams invalidų poreikiams reikalavimus.
+3. Taryba sudaroma pariteto principu iš visuomeninių neįgaliųjų organizacijų, turinčių filialus, atstovybes ar narius – kitas visuomenines neįgaliųjų organizacijas, ir valstybės institucijų atstovų. Lietuvos Respublikos Vyriausybės sprendimu į Tarybą gali būti įtraukti ir kitų organizacijų ir institucijų atstovai.
 
 
 
 
-3. Vyriausybė, apskričių viršininkų administracijos ir savivaldybės užtikrina aukščiau nurodytų reikalavimų įgyvendinimą.
- 
+4. Tarybos sprendimus vykdo sekretoriatas. Sekretoriatą sudaro valstybės tarnautojai ir dirbantys pagal darbo sutartis darbuotojai. Sekretoriato nuostatus tvirtina Taryba. 
 
 
 
 
-
-
-13 straipsnis. Medicininės, profesinės ir socialinės invalidų reabilitacijos programos. Invalidų aprūpinimo kompensacine technika skatinimas
-
-
-1. Vyriausybė rengia ir vykdo valstybinę, apskritys – regionines, o savivaldybės – teritorines medicininės, profesinės ir socialinės invalidų reabilitacijos programas.
+5. Taryba yra juridinis asmuo. Ji turi sąskaitą banke, antspaudą su valstybės herbu ir savo pavadinimu.
 
 
 
 
-2. Įmonėms, gaminančioms kompensacinę techniką invalidams, taikomos įstatymų, Vyriausybės, savivaldybių aktų numatytos lengvatos. 
+6. Už savo veiklą Taryba atsiskaito Lietuvos Respublikos Vyriausybei Tarybos nuostatuose nustatyta tvarka.
  
 
 
@@ -423,58 +538,54 @@ MEDICININĖ, PROFESINĖ IR SOCIALINĖ INVALIDŲ REABILITACIJA, JŲ MEDICININIS, 
 
 
 KETVIRTASIS SKIRSNIS
-INVALIDŲ UGDYMAS, MOKYMAS, PROFESINIS ORIENTAVIMAS, KULTŪROS IR SPORTO VEIKLA
+NEĮGALUMO LYGIO IR DARBINGUMO LYGIO NUSTATYMAS, PROFESINĖS REABILITACIJOS PASLAUGŲ TEIKIMAS, REABILITACIJOS PAŠALPA IR GINČŲ SPRENDIMAS
  
 
 
-14 straipsnis. Invalidų ugdymas, mokymas ir profesinis orientavimas
+18 straipsnis. Neįgalumo lygį ir darbingumo lygį nustatanti įstaiga
 
 
-1. Invalidai ugdomi, mokomi atsižvelgiant į jų sugebėjimus, polinkius, fizinę ir psichinę būklę bendrose ugdymo, mokymo įstaigose gyvenamojoje vietoje, namuose arba specialiose įstaigose. Jeigu invalidumą nustatančių komisijų išvados nenumato kitaip, ugdymo, mokymo įstaigos negali atsisakyti priimti invalido dėl jo invalidumo.
-
-
-
-
-2. Švietimo ir mokslo ministerijos nustatyta tvarka invalidai aprūpinami specialiomis ugdymo, mokymo priemonėmis, jiems pritaikoma mokymosi vieta.
+1. Neįgalumo lygį ir darbingumo lygį nustato Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Tarnyba).
 
 
 
 
-3. Invalidai ugdomi, mokomi specialiose įstaigose pagal invalidumą nustatančių komisijų ar (ir) pedagoginių psichologinių tarnybų išvadas, sutikus invalidų tėvams, globėjams, rūpintojams.
-Straipsnio dalies pakeitimai:
-Nr. VIII-970, 1998-12-15, Žin., 1998, Nr. 115-3229 (1998-12-31), i. k. 0981010ISTAVIII-970
- 
+2. Tarnybos nuostatus tvirtina Socialinės apsaugos ir darbo ministerija.
 
 
 
 
-4. Invalidai ugdomi, mokomi namuose, jei nėra galimybių juos ugdyti, mokyti bendrose ugdymo, mokymo arba specialiose įstaigose, sutikus jų tėvams, globėjams, rūpintojams.
+3. Tarnyba priima sprendimus dėl: 
+
+
+1) neįgalumo lygio, jo priežasties, atsiradimo laiko, termino; 
 
 
 
 
-5. Pasirinkti ir įsigyti profesiją invalidai orientuojami pagal Švietimo ir mokslo ministerijos ir Sveikatos apsaugos ministerijų parengtą programą bendrose ir specialiose ugdymo, mokymo įstaigose, atsižvelgiant į invalidų polinkius, sugebėjimus, fizinę ir psichinę būklę.
- 
+2) darbingumo lygio, jo priežasties, atsiradimo laiko, termino; 
 
 
 
 
-
-
-15 straipsnis. Invalidų ugdymo, mokymo, profesinio orientavimo skatinimas
-
-
-1. Vyriausybės ir savivaldybių nustatyta tvarka materialiai skatinami specialistai, dirbantys su invalidais.
+3) profesinės reabilitacijos paslaugų poreikio asmenims iki 18 metų, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, ir asmenims, vyresniems kaip 18 metų;
 
 
 
 
-2. Iš valstybės biudžeto skiriami asignavimai specialioms mokymo, ugdymo priemonėms, invalidams skirtiems vadovėliams, specialioms ugdymo, mokymo, profesinio orientavimo programoms, specialistams rengti.
+4) neįgaliųjų darbo pobūdžio ir sąlygų;
 
 
 
 
-3. Esant kitoms vienodoms sąlygoms, į aukštąsias ir aukštesniąsias mokyklas invalidai priimami pirmąja eile. Aukštosios ir aukštesniosios mokyklos ir invalidų visuomeninės organizacijos gali nustatyti papildomas lengvatines invalidų priėmimo į šias mokyklas sąlygas ir tvarką.
+5) bendro pirminio neįgaliųjų specialiųjų poreikių nustatymo;
+
+
+
+
+6) netekto darbingumo procentų.
+Papildyta straipsnio punktu:
+Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
  
 
 
@@ -482,33 +593,176 @@ Nr. VIII-970, 1998-12-15, Žin., 1998, Nr. 115-3229 (1998-12-31), i. k. 0981010I
 
 
 
-16 straipsnis. Invalidų kultūrinė veikla, sportas ir poilsis
 
 
-1. Nacionalinius ir tarptautinius invalidų kultūros, sporto ir poilsio renginius organizuoja Kultūros ministerija, Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės, kitos įstaigos ir organizacijos kartu su invalidų visuomeninėmis organizacijomis.
-Straipsnio dalies pakeitimai:
-Nr. VIII-970, 1998-12-15, Žin., 1998, Nr. 115-3229 (1998-12-31), i. k. 0981010ISTAVIII-970
+19 straipsnis. Neįgalumo lygio nustatymas
+
+
+1. Neįgalumo lygis nustatomas asmenims iki 18 metų, išskyrus asmenis, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu.
+
+
+
+
+2. Neįgalumas gali būti trijų lygių – sunkus, vidutinis ir lengvas.
+
+
+
+
+3. Neįgalumo lygis nustatomas kompleksiškai vertinant asmens sveikatos būklę, galimybes būti savarankiškam kasdienėje veikloje, galimybes ugdytis, aplinkos veiksnių įtaką ir kitus svarbius aspektus. 
+
+
+
+
+4. Neįgalumo lygio nustatymo kriterijus ir tvarką nustato Sveikatos apsaugos ministerija kartu su Socialinės apsaugos ir darbo ministerija bei Švietimo ir mokslo ministerija. 
  
 
 
 
 
-2. Teritorinius invalidų kultūros, sporto ir poilsio renginius organizuoja savivaldybės kartu su invalidų visuomeninėmis ir kitomis organizacijomis.
+
+
+20 straipsnis. Darbingumo lygio nustatymas 
+
+
+1. Darbingumo lygis nustatomas asmenims nuo 18 metų iki senatvės pensijos amžiaus. 
 
 
 
 
-3. Kultūros, sporto ir poilsio programų ir renginių organizatoriai privalo pagal realias ekonomines ir technines galimybes juos adaptuoti specifiniams invalidų poreikiams.
+2. Jeigu jaunesnis kaip 18 metų asmuo teisės aktų nustatyta tvarka yra (buvo) draudžiamas valstybiniu socialiniu draudimu, darbingumo lygis nustatomas nesukakusiam 18 metų asmeniui. 
 
 
 
 
-4. Invalidų sporto medicininius reikalavimus nustato Sveikatos apsaugos ministerija. Invalidų sporto metodines rekomendacijas rengia Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės.
+3. Darbingumo lygis dėl nelaimingo atsitikimo darbe ar profesinės ligos nustatomas asmenims neatsižvelgiant į jų amžių Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. 
 
 
 
 
-5. Juridinio asmens teises turinčioms įmonėms, skiriančioms dalį savo pelno (pajamų) invalidų medicininiam ir socialiniam reabilitavimui, taip pat jiems nemokamai teikiamoms techninėms priemonėms kurti bei gaminti, invalidų kultūriniams ir sportiniams poreikiams tenkinti, taikomos įstatymo numatytos pelno (pajamų) apmokestinimo lengvatos.
+4. Darbingumo lygis nustatomas įvertinus asmens sveikatos būklę ir galimybes atlikti turimos kvalifikacijos darbus, įgyti naują kvalifikaciją ar dirbti darbus, nereikalaujančius profesinės kvalifikacijos po to, kai yra panaudotos visos galimos medicininės ir profesinės reabilitacijos bei specialiosios pagalbos priemonės.
+
+
+
+
+5. Kai dėl asmens sunkių organizmo funkcinių sutrikimų profesinė reabilitacija nėra galima arba dėl asmens amžiaus netikslinga, darbingumo lygis nustatomas vadovaujantis medicininiais kriterijais. 
+
+
+
+
+6. Darbingumo lygis nustatomas remiantis asmenį gydančių gydytojų, profesinės reabilitacijos ir kitų specialistų pateiktais dokumentais. Nustatant darbingumo lygį turi teisę dalyvauti asmuo, kurio darbingumo lygis vertinamas, ir (ar) jo atstovas pagal įstatymą. Darbingumo lygį nustatanti institucija gali nuspręsti pakviesti asmenį ir (ar) jo atstovą pagal įstatymą dalyvauti nustatant darbingumo lygį. 
+
+
+
+
+7. Darbingumas įvertinamas procentais ir jo lygis nustatomas 5 punktų intervalais, t. y.:
+
+
+1) jei asmeniui nustatoma 0–25 procentų darbingumo, asmuo laikomas nedarbingu;
+
+
+
+
+2) jei asmeniui nustatoma 30–55 procentų darbingumo, asmuo laikomas iš dalies darbingu;
+
+
+
+
+3) jei asmeniui nustatoma 60–100 procentų darbingumo, asmuo laikomas darbingu.
+
+
+
+
+
+
+8. Darbingumo lygio nustatymo kriterijus ir tvarką nustato Socialinės apsaugos ir darbo ministerija kartu su Sveikatos apsaugos ministerija. 
+ 
+
+
+
+
+
+
+21 straipsnis. Profesinės reabilitacijos paslaugų poreikio tenkinimas
+
+
+1. Koks yra profesinės reabilitacijos paslaugų poreikis, nustato Tarnyba.
+
+
+
+
+2. Profesinės reabilitacijos paslaugų poreikio nustatymo kriterijus, profesinės reabilitacijos paslaugų teikimo bei finansavimo taisykles tvirtina Socialinės apsaugos ir darbo ministerija. 
+
+
+
+
+3. Profesinės reabilitacijos programas įgyvendina asmens sveikatos priežiūros įstaigos, teikiančios reabilitacijos paslaugas, profesinės reabilitacijos centrai, profesinio rengimo ir kitos ugdymo institucijos.
+
+
+
+
+4. Profesinės reabilitacijos paslaugų teikimas finansuojamas iš valstybės biudžeto, Užimtumo fondo ir kitų lėšų.
+ 
+
+
+
+
+
+
+22 straipsnis. Profesinės reabilitacijos pašalpa
+
+
+1. Kai asmuo, dalyvaujantis profesinės reabilitacijos programoje, yra draudžiamas visų rūšių valstybiniu socialiniu draudimu, jam iš Valstybinio socialinio draudimo fondo biudžeto lėšų mokama profesinės reabilitacijos pašalpa. Jos dydis ir mokėjimo tvarka nustatyti Ligos ir motinystės socialinio draudimo įstatyme.
+
+
+
+
+2. Kai asmuo, dalyvaujantis profesinės reabilitacijos programoje, nedraudžiamas valstybiniu socialiniu draudimu arba draudžiamas tik valstybiniu socialiniu pensijų draudimu, jam Lietuvos Respublikos Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų mokama dviejų valstybinių socialinio draudimo bazinių pensijų dydžio profesinės reabilitacijos pašalpa.
+
+
+
+
+3. Teisę gauti profesinės reabilitacijos pašalpą turi asmenys, kuriems Tarnyba nustatė profesinės reabilitacijos paslaugų poreikį ir kurie dalyvauja profesinės reabilitacijos programoje. 
+
+
+
+
+4. Profesinės reabilitacijos pašalpa asmeniui skiriama nuo pirmos dalyvavimo profesinės reabilitacijos programoje dienos ir mokama kiekvieną mėnesį, bet ne ilgiau kaip 180 kalendorinių dienų. Ši pašalpa skiriama ir mokama neatsižvelgiant į kitas asmens gaunamas pajamas. 
+
+
+
+
+5. Sprendimą dėl profesinės reabilitacijos pašalpos mokėjimo priima šią pašalpą skirianti ir mokanti institucija, vadovaudamasi Tarnybos sprendimu dėl profesinės reabilitacijos paslaugų poreikio. 
+
+
+
+
+6. Pasibaigus profesinės reabilitacijos programai, Tarnyba priima sprendimą dėl asmens darbingumo lygio.
+ 
+
+
+
+
+
+
+23 straipsnis. Ginčų dėl neįgalumo lygio ir darbingumo lygio nustatymo sprendimas
+
+
+1. Ginčus dėl neįgalumo lygio ir darbingumo lygio nustatymo nagrinėja ir sprendžia Ginčų komisija prie Socialinės apsaugos ir darbo ministerijos (toliau – Komisija). 
+
+
+
+
+2. Komisiją steigia, jos sudėtį, nuostatus bei ginčų nagrinėjimo tvarką tvirtina socialinės apsaugos ir darbo ministras.
+
+
+
+
+3. Komisijos priimtą sprendimą privalo vykdyti ginčo šalys ir kiti su ginču susiję asmenys.
+
+
+
+
+4. Komisijos sprendimas gali būti skundžiamas teismui įstatymų nustatyta tvarka. 
  
 
 
@@ -519,63 +773,29 @@ Nr. VIII-970, 1998-12-15, Žin., 1998, Nr. 115-3229 (1998-12-31), i. k. 0981010I
 
 
 PENKTASIS SKIRSNIS
-INVALIDŲ INTEGRACIJA Į DARBĄ
+SPECIALIŲJŲ POREIKIŲ NUSTATYMAS IR TENKINIMAS
  
 
 
-17 straipsnis. Invalidų užimtumas
+24 straipsnis. Specialiųjų poreikių nustatymas ir tenkinimas
 
 
-1. Invalidai pasirenka darbą pagal savo fizinę ir psichinę būklę, profesinį pasirengimą ir interesus arba verstis kita įstatymų nedraudžiama veikla. Darbdavys negali atsisakyti priimti į darbą invalido arba kitaip jį diskriminuoti vien dėl jo invalidumo, jeigu invalido kvalifikacija yra tinkama.
-
-
-
-
-2. Jeigu verstis komercine-ūkine arba kitokia teisėta veikla arba verslui organizuoti reikalingas leidimas (licencija), kompetentingos valstybinės tarnybos pagal invalidumą nustatančių komisijų sprendimus dėl invalidų darbo pobūdžio ir sąlygų išduoda jiems tokius leidimus (licencijas) pirmąja eile. Invalidams Vyriausybės nustatyta tvarka gali būti suteikiami kreditai lengvatinėmis sąlygomis tokia veikla verstis arba verslui organizuoti.
- 
+1. Specialieji neįgaliųjų poreikiai nustatomi ir tenkinami neatsižvelgiant į jų amžių, neįgalumo lygį ar darbingumo lygį ir siekiant užtikrinti lygias teises ir galimybes visose gyvenimo srityse.
 
 
 
 
-
-
-18 straipsnis. Invalidų įdarbinimas
-
-
-1. Invalidai įdarbinami įprastinėse darbo vietose arba specialiai jiems įrengtose darbo vietose. Invalidų darbo vietų ir profesijų reikalavimus nustato Sveikatos apsaugos ir Socialinės apsaugos ir darbo ministerijos.
+2. Specialieji poreikiai nustatomi tokiose pagrindinėse neįgaliųjų veiklos srityse: buityje ir asmeniniame gyvenime, ugdymesi, darbinėje veikloje, visuomeniniame gyvenime. 
 
 
 
 
-2. Darbo biržos teikimu savivaldybės kasmet nustato darbdaviams invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotas – ne mažiau kaip 2 procentus bendro darbuotojų skaičiaus, jeigu yra ne mažiau kaip 50 darbuotojų.
+3. Specialiųjų poreikių nustatymo, jų tenkinimo tvarką ir sąlygas nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. 
 
 
 
 
-3. Invalido, kurio integracija į darbą reikalauja iš darbdavio ypatingų pastangų, įdarbinimą darbo birža gali prilyginti ne daugiau kaip 3 invalidų įdarbinimui.
-
-
-
-
-4. Darbdaviai, nevykdantys invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotų, moka papildomas įmokas į Užimtumo fondą Nedarbo socialinio draudimo įstatymo nustatyta tvarka. Papildomų įmokų mokėjimas neatleidžia darbdavių nuo pareigos įdarbinti invalidus.
-Straipsnio dalies pakeitimai:
-Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010ISTA0IX-2540
- 
-
-
-
-
-5. Jeigu darbo birža arba invalidai nesikreipė dėl įdarbinimo, darbdaviai invalidams rezervuotose darbo vietose gali įdarbinti kitus asmenis pagal terminuotą darbo sutartį, kuri pasibaigia atsiradus poreikiui įdarbinti invalidus.
-
-
-
-
-6. Darbdaviai, vykdantys invalidų įdarbinimo arba papildomų darbo vietų steigimo kvotas, gali gauti subsidijas iš Užimtumo fondo invalidų darbo vietoms steigti, įrengti ir pritaikyti.
-
-
-
-
-7. Darbdaviai privalo pagal invalidumą nustatančių komisijų sprendimą įdarbinti asmenis, kurie, dirbdami šių darbdavių įmonėje, įstaigoje ar organizacijoje, tapo invalidais dėl suluošinimo darbe ar profesinio susirgimo, arba perkelti į jų sveikatą atitinkantį kitą darbą.
+4. Specialieji poreikiai tenkinami specialiosios pagalbos priemonėmis. Jos gali būti šių tipų: techninės pagalbos priemonės, finansinės pagalbos priemonės ir socialinės paslaugos. 
  
 
 
@@ -583,10 +803,60 @@ Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010IS
 
 
 
-19 straipsnis. Invalido atleidimo iš darbo apribojimas
+25 straipsnis. Aprūpinimas techninės pagalbos priemonėmis 
 
 
-Darbdavys savo iniciatyva gali atleisti iš darbo invalidą, nesant šio asmens kaltės, tik gavęs savivaldybės globos ir rūpybos institucijos sutikimą ir prieš 4 mėnesius raštu pranešęs invalidui apie numatomą atleidimą. Savivaldybės globos ir rūpybos institucijos sutikimo nereikia, jei įmonė likviduojama darbdavio valia.
+1. Skiriamos šios techninės pagalbos priemonių rūšys: 
+
+
+1) gydymo ir funkcinio lavinimo priemonės;
+
+
+
+
+2) įtvarai (ortezai) ir protezai (išskyrus endoprotezus);
+
+
+
+
+3) asmeninės apsaugos ir priežiūros priemonės;
+
+
+
+
+4) asmens judėsenos priemonės;
+
+
+
+
+5) judėsenos namuose priemonės (įskaitant valgymo ir gėrimo įtaisus);
+
+
+
+
+6) butų ir kitų patalpų baldai ir pagalbiniai įtaisai (įskaitant poilsio ir darbo baldus, taip pat baldų priedėlius ir gyvenamosios, darbo bei mokomosios aplinkos pritaikymo priemones);
+
+
+
+
+7) bendravimo, informavimo ir signalizavimo priemonės (įskaitant skaitymo, rašymo, telefono ryšio priemones ir apsaugos signalizatorius);
+
+
+
+
+8) produktų ir prekių naudojimo priemonės.
+
+
+
+
+
+
+2. Techninės pagalbos priemonių poreikį nustato Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigų reabilitacijos specialistai ar (ir) savivaldybių administracijų padalinių, atsakingų už socialinių paslaugų organizavimą ir administravimą, sudarytos komisijos (į šias komisijas turi būti įtraukti medicininės reabilitacijos ir socialinio darbo specialistai), ar (ir) ugdymo įstaigos specialiojo ugdymo komisijos, ar (ir) pedagoginės psichologinės tarnybos. 
+
+
+
+
+3. Aprūpinimą techninės pagalbos priemonėmis pagal kompetenciją organizuoja ir aprūpinimo atitinkamomis techninės pagalbos priemonėmis tvarką nustato Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija bei Švietimo ir mokslo ministerija.
  
 
 
@@ -594,25 +864,30 @@ Darbdavys savo iniciatyva gali atleisti iš darbo invalidą, nesant šio asmens 
 
 
 
-20 straipsnis. Invalidų darbo sąlygos, darbo ir poilsio laikas
+26 straipsnis. Finansinės pagalbos priemonės
 
 
-1. Invalidams sudaromos darbo sąlygos pagal invalidumą nustatančių komisijų išvadas.
-
-
-
-
-2. Jei invalidumą nustatančių komisijų išvados nenumato kitaip, invalidai jų pageidavimu atleidžiami nuo viršvalandinio darbo, darbo poilsio ir švenčių dienomis ir nakties metu.
+1. Skiriamos šios finansinės pagalbos priemonių neįgaliesiems rūšys: socialinė piniginė parama, tikslinės kompensacijos ir išmokos bei lengvatos. 
 
 
 
 
-3. Invalidams suteikiamos kasmetinės 35 kalendorinių dienų atostogos. Invalidams, tėvams, globėjams, rūpintojams, slaugantiems invalidą, kuriam nustatytas nuolatinės slaugos būtinumas, suteikiamos 30 kalendorinių dienų nemokamos atostogos jų pageidaujamu laiku.
+2. Socialinė piniginė parama skiriama siekiant užtikrinti neįgaliųjų materialinės padėties garantijas.
 
 
 
 
-4. Tėvų, globėjų, rūpintojų, slaugančių invalidą, kuriam nustatytas nuolatinės slaugos būtinumas, pageidavimu darbdaviai suteikia namudinį darbą, darbą pagal lankstų darbo grafiką, ne visą darbo dieną (savaitę).
+3. Tikslinės kompensacijos ir išmokos skiriamos siekiant neįgaliesiems kompensuoti specialiųjų poreikių tenkinimo išlaidas.
+
+
+
+
+4. Lengvatos teikiamos siekiant neįgaliesiems užtikrinti specialiųjų poreikių tenkinimą tais atvejais, kai kitomis specialiosios pagalbos priemonėmis nėra galimybių patenkinti šiuos poreikius.
+
+
+
+
+5. Finansinės pagalbos priemonių teikimą reglamentuoja šis Įstatymas ir kiti teisės aktai.
  
 
 
@@ -620,23 +895,26 @@ Darbdavys savo iniciatyva gali atleisti iš darbo invalidą, nesant šio asmens 
 
 
 
-21 straipsnis. Invalidų visuomeninių organizacijų įmonių skatinimas
+27 straipsnis. Socialinės paslaugos 
 
 
-1. Invalidų visuomeninių organizacijų įmonėms taikomos mokesčių ir kitų įstatymų nustatytos lengvatos.
-
-
-
-
-2. Invalidų visuomeninių organizacijų įmonėms taikomos lengvatos ir pirmumas teikiant valstybinius užsakymus.
-
-
-
-
-3. Vyriausybė gali suteikti teisę tik invalidų visuomeninių organizacijų įmonėms gaminti tam tikros produkcijos rūšis.
+Neįgaliesiems teikiamų socialinių paslaugų sampratą, teises į socialines paslaugas, socialinių paslaugų valdymo, teikimo, skyrimo ir gavimo sąlygas, socialinių paslaugų kontrolės ir priežiūros, pirkimo, finansavimo, mokėjimo už socialines paslaugas principus apibrėžia Socialinių paslaugų įstatymas ir kiti teisės aktai. 
  
 
 
+
+
+
+
+28 straipsnis. Specialiosios pagalbos priemonių finansavimas 
+
+
+Specialiosios pagalbos priemonių teikimas finansuojamas iš valstybės ir savivaldybių biudžetų, Privalomojo sveikatos draudimo fondo biudžeto, kitų įstaigų (organizacijų) lėšų, paramos lėšų, suteikus specialiosios pagalbos priemones gautų lėšų ir kitų lėšų. 
+
+
+Straipsnio pakeitimai:
+Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
+ 
 
 
 
@@ -644,42 +922,14 @@ Darbdavys savo iniciatyva gali atleisti iš darbo invalidą, nesant šio asmens 
 
 
 ŠEŠTASIS SKIRSNIS
-INVALIDŲ MATERIALINĖS PADĖTIES GARANTIJOS
+BAIGIAMOSIOS NUOSTATOS
  
 
 
-22 straipsnis. Pensijos, pašalpos, kitos išmokos invalidams, jų tėvams, globėjams, rūpintojams
+29 straipsnis. Teisių ir garantijų išsaugojimas
 
 
-1. Pensijų, valstybinių šalpos išmokų, pašalpų dydį, jų mokėjimo tvarką, kitas sąlygas nustato Valstybinių socialinio draudimo pensijų, Valstybinių pensijų, Valstybinių šalpos išmokų, Gyventojų pajamų garantijų, šis ir kiti įstatymai.
-
-
-
-
-2. Vienas iš visiškos negalios invalido tėvų arba asmuo, nustatyta tvarka pripažintas visiškos negalios invalido globėju arba rūpintoju, slaugantis namuose visiškos negalios invalidą, valstybės lėšomis privalomai draudžiamas valstybiniu socialiniu pensijų draudimu bazinei pensijai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Šis asmuo privalomai draudžiamas valstybės lėšomis tik tuo atveju, kai jis negauna jam pačiam priklausančios valstybinės socialinio draudimo pensijos, valstybinės pensijos, šalpos pensijos už invalidų slaugą namuose, socialinės pensijos ar šalpos pensijos. 
-
-
-
-
-3. Savivaldybės, įmonės, įstaigos, organizacijos, invalidų visuomeninės organizacijos gali mokėti invalidams, jų tėvams, globėjams, rūpintojams nuolatines ar vienkartines pašalpas, kitas išmokas.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA0IX-1967
- 
-
-
-
-
-23 straipsnis. Invalidų apsirūpinimas butais
-
-
-1. Šeimoms, kuriose yra I, II grupės invalidų, vaikų invalidų, kuriems nustatytas nuolatinės slaugos būtinumas, valstybės parama apsirūpinant gyvenamosiomis patalpomis teikiama lengvatinėmis sąlygomis įstatymų nustatyta tvarka.
-
-
-
-
-2. Invalidų butų projektavimo ir statybos reikalavimus nustato Vyriausybė.
+Šis Įstatymas ir kiti teisės aktai, susiję su šiuo Įstatymu ir jo įgyvendinimu, neturi pabloginti asmenų, kuriems iki šio Įstatymo įsigaliojimo buvusia tvarka buvo nustatytas invalidumas, materialinės ir socialinės padėties.
  
 
 
@@ -687,15 +937,15 @@ Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA
 
 
 
-24 straipsnis. Lengvatos invalidams, jų tėvams, globėjams, rūpintojams
+30 straipsnis. Asmenų iki 18 metų teisių išsaugojimas 
 
 
-1. Invalidams, invalidumą nustatančių komisijų pripažintiems nedarbingais, kurių šeimose nėra darbingų asmenų, Vyriausybės nustatyto dydžio ir nustatyta tvarka mokamos kompensacijos už komunalines paslaugas, naudojimąsi kuru, elektros energija, telefonu.
+1. Asmenims iki 18 metų, kuriems iki šio Įstatymo įsigaliojimo buvusia tvarka buvo nustatytas invalidumas, iki nustatyto invalidumo termino pabaigos neįgalumo lygis nustatomas jų atstovų pagal įstatymą pageidavimu. Pakartotinai tikrinant šių asmenų sveikatos būklę dėl to, kad pasibaigė nustatytas invalidumo terminas, neįgalumo lygis nustatomas privalomai.
 
 
 
 
-2. Įstatymai, Vyriausybės nutarimai, savivaldybių sprendimai nustato transporto, prekybos, aptarnavimo ir kitas lengvatas invalidams, jų tėvams, globėjams, rūpintojams.
+2. Asmenims iki 18 metų, kuriems iki šio Įstatymo įsigaliojimo buvusia tvarka buvo nustatytas invalidumas, iki to laiko, kol jiems bus nustatytas neįgalumo lygis, mokamos ne mažesnės negu iki 2005 m. birželio 30 d. galiojusiuose teisės aktuose nustatytos išmokos (pensijos, pašalpos ir kompensacijos) ir jie turi teisę naudotis ne mažesnėmis garantijomis ir lengvatomis negu iki 2005 m. birželio 30 d. galiojusiuose teisės aktuose nustatytosios.
  
 
 
@@ -703,52 +953,15 @@ Nr. IX-1967, 2004-01-20, Žin., 2004, Nr. 21-620 (2004-02-07), i. k. 1041010ISTA
 
 
 
+31 straipsnis. Sukakusių senatvės pensijos amžių asmenų teisių išsaugojimas 
 
 
-SEPTINTASIS SKIRSNIS
-INVALIDŲ SOCIALINĖS INTEGRACIJOS ORGANIZACINĖS GARANTIJOS. INVALIDŲ SOCIALINIO APRŪPINIMO FINANSAVIMAS. INVALIDŲ FONDAS
- 
-
-
-25 straipsnis. Invalidų visuomeninės organizacijos
-
-
-1. Pagrindinis invalidų visuomeninių organizacijų tikslas yra atstovauti ir ginti invalidų, jų tėvų, globėjų, rūpintojų teises ir teisėtus interesus, integruoti invalidus į darbą ir visuomeninį gyvenimą.
+1. Iki šio Įstatymo įsigaliojimo sukakusiems senatvės pensijos amžių asmenims, kuriems iki šio Įstatymo įsigaliojimo buvusia tvarka buvo nustatytas invalidumas, iki nustatyto invalidumo termino pabaigos mokamos ne mažesnės negu iki 2005 m. birželio 30 d. galiojusiuose teisės aktuose nustatytos išmokos (pensijos, pašalpos ir kompensacijos) ir jie turi teisę naudotis ne mažesnėmis garantijomis ir lengvatomis negu iki 2005 m. birželio 30 d. galiojusiuose teisės aktuose nustatytosios. 
 
 
 
 
-2. Invalidų visuomeninės organizacijos turi juridinio asmens teises.
-
-
-
-
-3. Invalidų visuomeninės organizacijos pagal savo kompetenciją:
-
-
-1) vykdo ir remia invalidų medicininę, profesinę ir socialinę reabilitaciją, jų ugdymą, mokymą, medicininį ir socialinį aptarnavimą;
-
-
-
-
-2) organizuoja invalidų poilsį, sportą, turizmą, kultūrinę veiklą, tarptautinį bendradarbiavimą;
-
-
-
-
-3) kontroliuoja šio įstatymo bei kitų invalidų visuomeninius santykius reguliuojančių įstatymų įgyvendinimą;
-
-
-
-
-4) dalyvauja nustatant invalidumą ir kontroliuoja invalidumo nustatymą.
-
-
-
-
-
-
-4. Vyriausybės nustatyta tvarka iš valstybės biudžeto finansuojamos invalidų visuomeninių organizacijų invalidų reabilitacijos programos, o savivaldybių nustatyta tvarka iš savivaldybių biudžetų finansuojamos invalidų teritorinių visuomeninių organizacijų invalidų reabilitacijos programos.
+2. Iki šio Įstatymo įsigaliojimo sukakusiems senatvės pensijos amžių asmenims, kuriems iki šio Įstatymo įsigaliojimo buvusia tvarka invalidumas buvo nustatytas neterminuotam laikui, mokamos ne mažesnės negu iki 2005 m. birželio 30 d. galiojusiuose teisės aktuose nustatytos išmokos (pensijos, pašalpos ir kompensacijos) ir jie turi teisę naudotis ne mažesnėmis garantijomis ir lengvatomis negu iki 2005 m. birželio 30 d. galiojusiuose teisės aktuose nustatytosios. 
  
 
 
@@ -756,97 +969,30 @@ INVALIDŲ SOCIALINĖS INTEGRACIJOS ORGANIZACINĖS GARANTIJOS. INVALIDŲ SOCIALIN
 
 
 
-26 straipsnis. Lietuvos invalidų reikalų taryba
+32 straipsnis. Nesukakusių senatvės pensijos amžiaus asmenų teisių išsaugojimas 
 
 
-1. Prie Lietuvos Respublikos Vyriausybės veikia Lietuvos invalidų reikalų taryba, kurios tikslas – padėti įgyvendinti šį įstatymą ir kitus invalidų visuomeninius santykius reguliuojančius įstatymus, užtikrinti invalidų dalyvavimą sprendžiant visus su jų gyvenimu ir veikla susijusius klausimus. Lietuvos invalidų reikalų tarybos nuostatus tvirtina Vyriausybė.
+1. Siekiant išsaugoti nesukakusių senatvės pensijos amžiaus asmenų, kuriems iki šio Įstatymo įsigaliojimo buvo nustatyta invalidumo grupė, teises, numatomas pereinamasis laikotarpis – nuo 2005 m. liepos 1 d. iki 2007 m. birželio 30 d.
 
 
 
 
-2. Lietuvos invalidų reikalų taryba padeda Vyriausybei rengti valstybinę medicininės, profesinės, socialinės invalidų reabilitacijos programą, kontroliuoja jos įgyvendinimą, padeda rengti įstatymus, kitus norminius aktus, susijusius su invalidų gyvenimu ir veikla, disponuoja Invalidų fondu, tvarko lėšas, skirtas Invalidų socialinės integracijos įstatymui įgyvendinti, organizuoja tarptautinį bendradarbiavimą, sprendžia kitus klausimus.
+2. Socialinės apsaugos ir darbo ministerijos nustatyta tvarka iki 2007 m. birželio 30 d. visiems nuo 18 metų iki senatvės pensijos amžiaus asmenims, kuriems iki šio Įstatymo įsigaliojimo buvusia tvarka buvo nustatytas invalidumas, turi būti nustatytas darbingumo lygis. 
 
 
 
 
-3. Miestuose ir rajonuose gali būti sudaromos teritorinės invalidų reikalų tarybos.
- 
+3. Nesukakę senatvės pensijos amžiaus asmenys, kuriems iki šio Įstatymo įsigaliojimo buvo nustatyta I, II ar III invalidumo grupė, pereinamuoju laikotarpiu iki to laiko, kol jiems bus nustatytas darbingumo lygis, prilyginami neįgaliesiems, kurie šio Įstatymo nustatyta tvarka pripažinti nedarbingais arba iš dalies darbingais remiantis iki šio Įstatymo įsigaliojimo buvusia tvarka išduotais invalidumo pažymėjimais. 
 
 
 
 
+4. Nesukakusiems senatvės pensijos amžiaus asmenims, kuriems iki šio Įstatymo įsigaliojimo buvusia tvarka buvo nustatytas invalidumas, pereinamuoju laikotarpiu iki to laiko, kol jiems bus nustatytas darbingumo lygis, mokamos ne mažesnės negu iki 2005 m. birželio 30 d. galiojusiuose teisės aktuose nustatytos išmokos (pensijos, pašalpos ir kompensacijos) ir jie turi teisę naudotis ne mažesnėmis garantijomis ir lengvatomis negu iki 2005 m. birželio 30 d. galiojusiuose teisės aktuose nustatytosios.
 
 
-27 straipsnis. Invalidų socialinio aprūpinimo finansavimas
 
 
-1. Pagrindiniai invalidų socialinio aprūpinimo finansavimo šaltiniai yra valstybinio socialinio draudimo, valstybės biudžeto ir savivaldybių biudžetų lėšos. Iš valstybės biudžeto gali būti skiriamos lėšos svarbiausioms savivaldybių invalidų reabilitacijos programoms finansuoti. Invalidų reabilitacijos programos iš biudžeto finansuojamos prioritetine tvarka.
-
-
-
-
-2. Invalidų socialiniam aprūpinimui finansuoti taip pat gali būti naudojamos invalidų visuomeninių organizacijų, Invalidų fondo, darbdavių, Užimtumo fondo, labdaros organizacijų, privačių asmenų ir kitos lėšos.
- 
-
-
-
-
-
-
-28 straipsnis. Invalidų fondas
-
-
-1. Invalidų fondas yra papildomas invalidų socialinio aprūpinimo finansavimo šaltinis, kurį steigia ir tvarko Lietuvos invalidų reikalų taryba. Invalidų fondo sudarymo ir naudojimo tvarką nustato Lietuvos invalidų reikalų taryba. Invalidų fondui papildyti Lietuvos invalidų reikalų taryba gali organizuoti nustatyta tvarka loterijas ir aukcionus. Draudžiama Invalidų fondo lėšas naudoti tikslams, nesusijusiems su invalidų socialiniu aprūpinimu.
-
-
-
-
-2. Invalidų fondo lėšas gali papildyti palūkanos, mokamos už bankuose saugomas šio fondo lėšas.
- 
-
-
-
-
-
-
-
-
-AŠTUNTASIS SKIRSNIS
-ĮSTATYMO ĮGYVENDINIMO KONTROLĖ. INVALIDŲ GINČŲ SPRENDIMAS. ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
- 
-
-
-29 straipsnis. Įstatymo įgyvendinimo kontrolė
-
-
-Įstatymo įgyvendinimą kontroliuoja pagal savo kompetenciją ministerijos ir žinybos, savivaldybės, invalidų visuomeninės organizacijos.
- 
-
-
-
-
-
-
-30 straipsnis. Invalidų ginčų sprendimas
-
-
-1. Ginčus tarp invalidų, jų tėvų, globėjų, rūpintojų ir darbdavių, savivaldybių globos ir rūpybos institucijų, kitų įstaigų ir organizacijų sprendžia teismas, jeigu įstatymai nenustato kitaip.
-
-
-
-
-2. Ginčus tarp invalidų ir valstybinių medicininės-socialinės ekspertizės komisijų sprendžia Konfliktų komisija prie Lietuvos Respublikos vyriausiojo medicininės-socialinės ekspertizės eksperto, kurią sudaro aukštos kvalifikacijos gydytojai ekspertai, kiti specialistai, invalidų visuomeninių organizacijų atstovai. Konfliktų komisijos veiklą reglamentuoja Valstybinių medicininės-socialinės ekspertizės komisijų nuostatai.
- 
-
-
-
-
-
-
-31 straipsnis. Atsakomybė už Invalidų socialinės integracijos įstatymo pažeidimus
-
-
-Įmonės, įstaigos, organizacijos, jų pareigūnai, piliečiai, kiti asmenys, pažeidę Invalidų socialinės integracijos įstatymo reikalavimus, traukiami administracinėn, baudžiamojon, drausminėn arba materialinėn atsakomybėn pagal Lietuvos Respublikos įstatymus.
+5. Nesukakusiems senatvės pensijos amžiaus asmenims, kuriems iki šio Įstatymo įsigaliojimo neterminuotai buvo nustatytas invalidumas, darbingumo lygis nustatomas remiantis iki šio Įstatymo įsigaliojimo buvusia tvarka išduotais invalidumo pažymėjimais bei šio straipsnio 3 dalies nuostatomis, išskyrus atvejus, kai neįgalusis pats savo noru kreipiasi į Tarnybą dėl darbingumo lygio nustatymo.
 
 
 
@@ -915,3 +1061,13 @@ Lietuvos Respublikos invalidų socialinės integracijos įstatymo 1, 3, 4, 5 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26), i. k. 1041010ISTA0IX-2540
 Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo, Sveikatos draudimo įstatymo, Nedarbo socialinio draudimo įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo, Invalidų socialinės integracijos įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45 straipsnių pakeitimo ir papildymo 45-1 straipsniu įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 55-6 straipsniu ir VII skyriumi įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 55-1, 55-2, 55-3, 55-4, 55-5 straipsniais įstatymo, Ligos ir motinystės socialinio draudimo įstatymo pakeitimo ir papildymo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. IX-2228, 2004-05-11, Žin., 2004, Nr. 83-2983 (2004-05-22), i. k. 1041010ISTA0IX-2228
+Lietuvos Respublikos invalidų socialinės integracijos įstatymo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybinių pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Teisėjų valstybinių pensijų įstatymo, Pensijų kaupimo įstatymo, Lietuvos nepriklausomybės akto signatarų statuso įstatymo pakeitimo ir papildymo įstatymas
