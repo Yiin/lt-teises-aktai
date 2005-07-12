@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2001-12-30 iki 2005-07-11
+Suvestinė redakcija nuo 2005-07-12 iki 2010-04-26
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
  
@@ -55,18 +55,17 @@ Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas tik įsta
 3 straipsnis. Zonos teritorija
 
 
-1. Zonos teritorija užima 1000 ha, o jos ribas nustato šio įstatymo 4 straipsnis. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1457, 1999-12-02, Žin., 1999, Nr. 108-3126 (1999-12-22), i. k. 0991010ISTAIII-1457
+1. Zonos teritorija užima 534 ha. 
+
+
+
+
+2. Zonos teritorija ne aukciono būdu Civilinio kodekso, Žemės įstatymo bei šio įstatymo nustatytomis sąlygomis ir tvarka išnuomojama zonos valdymo bendrovei (pasibaigus zonos veiklos laikotarpiui - jos teisių ir pareigų perėmėjai) 99 metams. Zonos valdymo bendrovė turi teisę žemės nuomos mokestį Lietuvos Respublikos Vyriausybės arba jos įgaliotos valstybės institucijos nustatyta tvarka sumokėti iš anksto už visą nuomos laikotarpį ar jo dalį. Jeigu zonos valdymo bendrovė iš anksto sumokėjo žemės nuomos mokestį, o vėliau pasikeitė žemės vertė, pagal kurią skaičiuojamas žemės nuomos mokesčio dydis, ar žemės nuomos mokesčio tarifas, ar kitoks žemės nuomos mokesčio skaičiavimo pagrindas, žemės nuomos mokesčio dydis už laikotarpį, už kurį žemės nuomos mokestis sumokėtas iš anksto, nekeičiamas. Pasibaigus zonos veiklos terminui, nurodytam šio įstatymo 2 straipsnyje,  išnuomotos zonos teritorijos nuomos sutartis lieka galioti likusiam nuomos laikotarpiui, o zonos teritorijos nuomininku lieka zonos valdymo bendrovė ar jos teisių ir pareigų perėmėjas. 
+
+
+Straipsnio pakeitimai:
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
  
-
-
-
-
-2. Zonos teritorija Žemės nuomos įstatymo nustatyta tvarka išnuomojama zonos valdymo bendrovei.
- 
-
-
 
 
 
@@ -74,38 +73,12 @@ Nr. VIII-1457, 1999-12-02, Žin., 1999, Nr. 108-3126 (1999-12-22), i. k. 0991010
 4 straipsnis. Zonos teritorijos ribos
 
 
-1. Nustatomos šios zonos teritorijos ribos:
+Zonos teritorijos ribas nustato Lietuvos Respublikos Vyriausybė. 
 
 
-1) šiaurinė riba – tiesi linija, lygiagreti Kauno oro uosto kilimo-tūpimo tako ašiai septynių šimtų penkiasdešimties metrų atstumu į pietus nuo šios ašies linijos;
-
-
-
-
-2) rytinė riba – geležinkelio ruožas Gaižiūnai – Palemonas;
-
-
-
-
-3) pietinė riba – Karmėlavos miško pietrytinė riba iki rekreacinį (54 ir 57 kvartalai) ir ūkinį (440 ir 58 kvartalai) mišką atskiriančios kvartalo linijos, ši linija šiaurės vakarų kryptimi iki miško šiaurinės ribos, melioracijos griovys iki Karmėlavos miško 52 kvartalo pietvakarinės ribos, pietvakarinė šio kvartalo riba (lauko kelias) šiaurės vakarų kryptimi šimto penkiasdešimties metrų linija, aplenkiant Sergeičikų I ir Sergeičikų II gyvenvietes iš šiaurės ir vakarų pusių sanitariniu atstumu nuo kraštinių gyvenvietės sklypų ribų, šimto dvidešimties metrų atstumu iki Karmėlavos miško šiaurės vakarų ribos, pasukama pietvakarių kryptimi ir tiesi linija iki melioracijos griovio statmeno posūkio, melioracijos griovys link Zversvos upelio, Zversvos upelis, pasukama vakarų kryptimi penkiasdešimt metrų nepasiekus kelio Nr.1918, toliau linija eina lygiagrečiai kelio Nr.1918 vakarų kryptimi iki kelio Nr.1919, aštuoniasdešimt metrų šiaurės kryptimi keliu Nr.1918, statmenai kertamas kelias Nr.1918 ir aplenkiamas Ramučių žemės ūkio bendrovės gamybinio centro žemės sklypas iš šiaurės, vakarų ir pietų, kelias Nr.1919 pietų kryptimi iki 330/110 kV elektros linijų koridoriaus šiaurinės ribos (apsaugos zonos riba nuo kraštinio 330 kV elektros linijos laido), ši šiaurinė riba ir kertantis elektros linijų koridorių ties Davalgonių miško ir šio koridoriaus suartėjimo riba melioracijos griovys (šiaurinė Davalgonių miško riba) iki kelio A-1 Vilnius – Kaunas, magistralinis kelias A-1 Vilnius – Kaunas, išskyrus kavinės bei degalinės teritorijas;
-
-
-
-
-4) šiaurės vakarų riba – magistralinio kelio A-1 Vilnius–Kaunas dešinioji nuovaža į kelią A-6 Kaunas–Zarasai, kelias A-6 Kaunas–Zarasai, išskyrus esamos 330/110 kV transformatorinės pastotės, veterinarijos ligoninės, garažų bei sodininkų bendrijos sodų teritorijas, Ramučių gyvenvietės vakarinė ir pietinė ribos sanitariniu apsauginiu atstumu nuo kraštinių gyvenvietės sklypų ribų iki susikirtimo su keliu Nr.1918, kertamas kelias Nr.1918 statmenai ir pratęsiama tiesi linija iki Zversvos upelio, Zversvos upelis iki šiaurinės zonos ribos. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. VIII-1457, 1999-12-02, Žin., 1999, Nr. 108-3126 (1999-12-22), i. k. 0991010ISTAIII-1457
+Straipsnio pakeitimai:
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
  
-
-
-
-
-2. Zonos teritorijos ribų schema, pateikta kaip Įstatymo priedas, yra neatskiriama šio įstatymo dalis.
- 
-
-
 
 
 
@@ -150,7 +123,10 @@ Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010IS
 
 
 
-2) investicijų, pirmiausia iš užsienio, realumą, šių investicijų dydį, jų dalį zonos infrastruktūrai plėtoti, investicijų atsipirkimo trukmę;
+2) investicijų realumą, šių investicijų dydį, jų dalį zonos infrastruktūrai plėtoti, investicijų atsipirkimo trukmę; 
+Straipsnio punkto pakeitimai:
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
+ 
 
 
 
@@ -319,7 +295,10 @@ Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010IS
 
 
 
-10) suderinusi su Muitinės departamentu prie Finansų ministerijos, nustato Lietuvos Respublikos piliečių ir kitų asmenų įleidimo į laisvąsias teritorijas tvarką bei tvirtina leidimų pavyzdžius;
+10) neteko galios;
+Straipsnio punkto pakeitimai:
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
+ 
 
 
 
@@ -357,7 +336,10 @@ Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010IST
 
 
 
-4) išduoda bendrovės valdybos nustatyto ir su Muitinės departamentu prie Finansų ministerijos suderinto pavyzdžio leidimus įeiti į laisvąsias teritorijas;
+4) neteko galios;
+Straipsnio punkto pakeitimai:
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
+ 
 
 
 
@@ -485,15 +467,16 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
  
-
-
-
-
-
-
  
- 
 
+
+
+
+
+
+Priedas. Neteko galios nuo 2005-07-12
+Priedo naikinimas:
+Nr. X-262, 2005-06-21, Žin. 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
  
  
  
@@ -518,3 +501,8 @@ Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010ISTA00IX-671
 Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7, 10 straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 3, 4, 6, 7 straipsnių pakeitimo ir priedėlio pripažinimo netekusiu galios įstatymas
