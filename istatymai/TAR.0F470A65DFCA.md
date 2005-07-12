@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2004-07-27 iki 2005-07-11
+Suvestinė redakcija nuo 2005-07-12 iki 2008-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
  
@@ -85,7 +85,10 @@ Nr. IX-2380, 2004-07-15, Žin., 2004, Nr. 116-4328 (2004-07-27), i. k. 1041010IS
 
 
 
-5) juridinių asmenų, fizinių asmenų ir įmonių, neturinčių juridinio asmens teisių, kurie verčiasi versline  žūkle valstybinės reikšmės vandens telkiniuose, kitų valstybių ekonominėse zonose (pagal valstybių pasikeitimus kvotomis) bei tarptautiniuose vandenyse, lėšos, skirtos žuvų ištekliams atkurti ir saugoti;
+5) juridinių ir fizinių asmenų, kurie verčiasi versline žūkle valstybinės reikšmės vandens telkiniuose, kitų valstybių ekonominėse zonose (pagal valstybių pasikeitimus kvotomis) bei tarptautiniuose vandenyse, lėšos, skirtos žuvų ištekliams atkurti ir saugoti; 
+Straipsnio punkto pakeitimai:
+Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA000X-268
+ 
 
 
 
@@ -95,7 +98,10 @@ Nr. IX-2380, 2004-07-15, Žin., 2004, Nr. 116-4328 (2004-07-27), i. k. 1041010IS
 
 
 
-7) juridinių asmenų, fizinių asmenų ir įmonių, neturinčių juridinio asmens teisių, kurių ūkinė veikla daro neigiamą poveikį žuvų ištekliams, lėšos, skirtos šiam poveikiui kompensuoti;
+7) juridinių ir fizinių asmenų, kurių ūkinė veikla daro neigiamą poveikį žuvų ištekliams, lėšos, skirtos šiam poveikiui kompensuoti; 
+Straipsnio punkto pakeitimai:
+Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA000X-268
+ 
 
 
 
@@ -118,7 +124,9 @@ Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010IST
 
 
 
-10) savanoriškos juridinių ir fizinių asmenų ir įmonių, neturinčių juridinio asmens teisių, įmokos;
+10) savanoriškos juridinių ir fizinių asmenų įmokos;
+Straipsnio punkto pakeitimai:
+Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA000X-268
 Straipsnio punkto numeracijos pakeitimas:
 Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
  
@@ -184,7 +192,10 @@ Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010IST
 
 
 
-9) neetatinių aplinkos apsaugos inspektorių atliekamiems aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės darbams bei rengiamoms programoms įgyvendinti – ne daugiau kaip 5 procentai Programos metinių įplaukų (neįskaitant įplaukų pagal 3 straipsnio 5, 6, 7 ir 8 punktus).
+9) neetatinių aplinkos apsaugos inspektorių skatinimui ir atliekamiems aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės darbams bei rengiamoms programoms įgyvendinti – ne daugiau kaip 5 procentai Programos metinių įplaukų (neįskaitant įplaukų pagal 3 straipsnio 5, 6, 7 ir 8 punktus).
+Straipsnio punkto pakeitimai:
+Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA000X-268
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -240,3 +251,8 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2380, 2004-07-15, Žin., 2004, Nr. 116-4328 (2004-07-27), i. k. 1041010ISTA0IX-2380
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA000X-268
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
