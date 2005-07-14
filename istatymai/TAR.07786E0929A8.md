@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2002-01-01 iki 2005-07-13
+Suvestinė redakcija nuo 2005-07-14 iki 2006-06-27
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
  
@@ -27,6 +27,9 @@ Vilnius
 
 
 Įstatymas įteisina išradimus kaip pramoninės nuosavybės objektus, reglamentuoja fizinių ir juridinių asmenų teises bei pareigas, atsirandančias sukūrus išradimus, suteikia šiems išradimams teisinę apsaugą.
+Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+Preambulės pakeitimai:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
 
 
@@ -48,7 +51,7 @@ Išradimų apsaugos forma yra patentas, kurį išduoda Lietuvos Respublikos vals
 
 
 
-2 straipsnis. Patentabilūs išradimai 
+2 straipsnis. Patentabilūs išradimai
 
 
 Bet kokios technikos srities išradimai yra patentabilūs, jeigu jie yra nauji, išradimo lygio ir turi pramoninį pritaikomumą.
@@ -74,7 +77,12 @@ Išradimais nelaikomi:
 
 
 
-4) informacijos teikimo būdai.
+4) informacijos teikimo būdai;
+
+
+
+
+5) natūralioje aplinkoje esantis žmogaus kūnas ar jo elementas, įskaitant geno seką ar jos dalis, bet kuriais jo formavimosi ir raidos etapais. Ši nuostata netaikoma išskirtam iš žmogaus kūno ar kitaip, taikant technologinį procesą, gautam elementui, taip pat geno sekai ar jos daliai, net jeigu šio elemento struktūra yra tapati natūralioje aplinkoje esančio elemento struktūrai.
 
 
 
@@ -89,14 +97,44 @@ Patentai neišduodami už:
 
 
 
-2) augalų arba gyvūnų veisles ar iš esmės biologinius jų išvedimo būdus. Ši nuostata netaikoma mikrobiologiniams augalų arba gyvūnų produkavimo būdams bei tokiais būdais gautiems produktams;
+2) augalų arba gyvūnų veisles ar iš esmės biologinius jų išvedimo būdus. Ši nuostata netaikoma mikrobiologiniams augalų arba gyvūnų produkavimo būdams bei tokiais būdais gautiems produktams, taip pat augalams ar gyvūnams, jeigu išradimo techninis įgyvendinimas neapsiriboja konkrečia augalo arba gyvūno veisle;
 
 
 
 
-3) išradimus, kurių komercinis panaudojimas prieštarautų visuomenės interesams, moralės ir humaniškumo principams. Sprendimai neišduoti patentų negali būti priimami vien dėl to, kad naudoti tokius išradimus draudžia įstatymai ar kiti teisės aktai. 
+3) išradimus, kurių komercinis panaudojimas prieštarautų visuomenės interesams, moralės ir humaniškumo principams. Sprendimai neišduoti patentų negali būti priimami vien dėl to, kad naudoti tokius išradimus draudžia įstatymai ar kiti teisės aktai.
 
 
+
+
+
+
+Šio straipsnio trečiosios dalies 3 punkte nurodytais pagrindais patentai neišduodami inter alia už:
+
+
+1) žmonių klonavimo būdus;
+
+
+
+
+2) žmogaus lytinių ląstelių genetinės linijos tapatumo keitimo būdus;
+
+
+
+
+3) žmogaus embrionų panaudojimą pramoniniais arba komerciniais tikslais;
+
+
+
+
+4) genetinio gyvūnų tapatumo modifikavimo būdus, kurie gali jiems sukelti kančių be didesnės medicininės naudos žmonėms ar gyvūnams, ir šiais būdais produkuotus gyvūnus.
+
+
+
+
+
+
+Patentabiliais gali būti pripažinti išradimai, kurie susiję su objektu, kurį sudaro arba kuriame yra biologinė medžiaga, arba kurie yra būdai, kuriais biologinė medžiaga gaunama, apdorojama arba panaudojama. Biologinė medžiaga, išskiriama iš natūralios aplinkos arba gaminama techninių procesų metu, gali būti išradimo objektu, net jeigu ji ligi tol egzistavo gamtoje.
 
 
 
@@ -106,6 +144,7 @@ Jeigu išradimo objektas yra būdas, tai patentinė apsauga suteikiama ir tuo b�
 
 Straipsnio pakeitimai:
 Nr. IX-568, 2001-10-30, Žin., 2001, Nr. 94-3308 (2001-11-09), i. k. 1011010ISTA00IX-568
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
 
 
@@ -135,10 +174,17 @@ Išradimas nelaikomas nauju, jeigu jis, nors ir nežinomas technikos lygiu, yra 
 4 straipsnis. Išradimo lygis
 
 
-Išradimas yra išradimo lygio, jeigu jis nežinomas atitinkamos srities specialistui technikos lygiu.
+Išradimas laikomas išradimo lygio, jeigu jis, atsižvelgiant į technikos lygį, nėra akivaizdus atitinkamos srities specialistui. 
+
+
+
+
+Jeigu technikos lygiui priskiriami šio įstatymo 3 straipsnio trečiojoje dalyje nurodyti dokumentai, sprendžiant, ar išradimas yra išradimo lygio, į tokius dokumentus neatsižvelgiama. 
+
+
+Straipsnio pakeitimai:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
-
-
 
 
 
@@ -291,15 +337,27 @@ PATENTŲ IŠDAVIMAS
 10 straipsnis. Patentinės paraiškos padavimas
 
 
-Asmuo, norintis gauti išradimo patentą, turi paduoti patentinę paraišką Valstybiniam patentų biurui. Paraišką gali paduoti keletas juridinių ar fizinių asmenų arba fiziniai ir juridiniai asmenys kartu.
+Asmuo, norintis gauti išradimo patentą, turi paduoti patentinę paraišką Valstybiniam patentų biurui. Paraišką gali paduoti keletas juridinių ar fizinių asmenų arba fiziniai ir juridiniai asmenys kartu. 
 
 
 
 
-Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Juridiniai ir fiziniai asmenys iš užsienio valstybių paraiškas Valstybiniam patentų biurui paduoda per Lietuvos Respublikos patentinius patikėtinius.
+Patentinę paraišką pareiškėjas gali paduoti per atstovą, kuris turi būti įrašytas į Lietuvos Respublikos patentinių patikėtinių sąrašą, išskyrus šio straipsnio trečiojoje dalyje nustatytą atvejį. 
+
+
+
+
+Pareiškėjui, nuolat gyvenančiam arba turinčiam nuolatinę buveinę, įregistruotą filialą ar atstovybę Lietuvos Respublikoje, kitoje Europos ekonominės erdvės valstybėje ar Europos patentų konvencijos valstybėje narėje, gali atstovauti teisės aktų nustatyta tvarka įgaliotas darbuotojas. 
+
+
+
+
+Užsienio valstybių fiziniai ir juridiniai asmenys, nuolat negyvenantys ar neturintys nuolatinės buveinės, įregistruoto filialo ar atstovybės Lietuvos Respublikoje, kitoje Europos ekonominės erdvės valstybėje ar Europos patentų konvencijos valstybėje narėje, patentines paraiškas Valstybiniam patentų biurui paduoda ir visus su patento išdavimu susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Valstybinio patentų biuro Apeliaciniame skyriuje, atlieka per patentinį patikėtinį, įrašytą į Lietuvos Respublikos patentinių patikėtinių sąrašą. 
+
+
+Straipsnio pakeitimai:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
-
-
 
 
 
@@ -340,7 +398,15 @@ Patentinę paraišką sudaro:
 
 
 
-7) dokumentas apie teisę paduoti patentinę paraišką (jei ją paduoda ne išradėjas) ir pareiškimas dėl išradimo autorystės.
+7) dokumentas apie teisę paduoti patentinę paraišką (jei ją paduoda ne išradėjas) ir pareiškimas dėl išradimo autorystės;
+
+
+
+
+8) dokumentas, patvirtinantis biologinės medžiagos deponavimą (jei reikia). 
+Papildyta straipsnio punktu:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
 
 
 
@@ -348,6 +414,13 @@ Patentinę paraišką sudaro:
 
 
 Prašymas išduoti patentą pateikiamas lietuvių kalba. Kiti dokumentai pateikiami lietuvių ar kita Valstybinio patentų biuro nustatyta kalba. Jeigu patentinės paraiškos dokumentai pateikiami ne lietuvių kalba, prie jų pridedamas vertimas į lietuvių kalbą. Patentinės paraiškos dokumentų vertimą pareiškėjas privalo pateikti Valstybiniam patentų biurui per 3 mėnesius nuo patentinės paraiškos padavimo datos.
+
+
+
+
+Šio straipsnio pirmosios dalies 2–8 punktuose nurodytų patentinės paraiškos dokumentų, pateiktų ne lietuvių kalba, vertimas laikomas atitinkančiu originalo tekstą, kol neįrodyta priešingai. 
+Papildyta straipsnio dalimi:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
 
 
@@ -399,7 +472,10 @@ Išradimo aprašymas turi atskleisti išradimą aiškiai ir išsamiai, kad atiti
 
 
 
-Jeigu patentinė paraiška paduota dėl biologinės medžiagos, kurios negalima aprašyti taip, kad ją galėtų panaudoti tos srities specialistas, ir ši medžiaga yra visuomenei neprieinama, ji turi būti atiduota saugoti deponavimo įstaigai. Prie Valstybiniam patentų biurui paduodamos patentinės paraiškos pridedamas dokumentas apie biologinės medžiagos deponavimą.
+Jeigu patentinė paraiška paduota dėl išradimo, kuriam naudojama biologinė medžiaga arba kuris susijęs su biologine medžiaga, kuri nėra viešai visuomenei prieinama ir kurios negalima aprašyti taip, kad išradimą galėtų panaudoti tos srities specialistas, išradimo aprašymas pripažįstamas nepakankamu. Ši nuostata netaikoma, jeigu biologinė medžiaga iki paraiškos padavimo datos teisės aktų nustatyta tvarka buvo atiduota saugoti deponavimo įstaigai. 
+Straipsnio dalies pakeitimai:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
 
 
 
@@ -520,7 +596,17 @@ Valstybinis patentų biuras, atlikdamas patentinės paraiškos ekspertizę, nust
 
 
 
-Valstybinis patentų biuras, nustatęs, kad paraiška neatitinka šio straipsnio pirmojoje dalyje išvardytų straipsnių reikalavimų, pasiūlo pareiškėjui šiuos reikalavimus įvykdyti. Pareiškėjui to nepadarius, Valstybinis patentų biuras priima sprendimą neišduoti patento.
+Valstybinis patentų biuras, nustatęs, kad paraiška neatitinka šio straipsnio pirmojoje dalyje išvardytų straipsnių reikalavimų, pasiūlo pareiškėjui šiuos reikalavimus įvykdyti per Valstybinio patentų biuro nustatytą terminą. Jeigu pareiškėjas to nepadaro, paraiška laikoma atšaukta. 
+Straipsnio dalies pakeitimai:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
+
+
+
+
+Valstybinis patentų biuras, nustatęs, kad išradimas yra nepatentabilus šio įstatymo 2 straipsnio antrojoje, trečiojoje ir (ar) ketvirtojoje dalyse numatytais pagrindais, priima sprendimą neišduoti patento. 
+Papildyta straipsnio dalimi:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
 
 
@@ -562,7 +648,10 @@ Valstybinis patentų biuras oficialiame biuletenyje skelbia patentinę paraišk�
 
 
 
-Patentinė paraiška neskelbiama, jeigu per 17 mėnesių nuo jos padavimo ar prioriteto datos ji buvo atšaukta.
+Patentinė paraiška neskelbiama, jeigu per 17 mėnesių nuo jos padavimo ar prioriteto datos ji buvo atšaukta, laikoma atšaukta arba išradimas teisės aktų nustatyta tvarka buvo įslaptintas. 
+Straipsnio dalies pakeitimai:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
 
 
 
@@ -577,7 +666,17 @@ Jeigu paskelbta patentinė paraiška vėliau buvo atšaukta arba nuginčyta kito
 
 
 
-Įslaptinus išradimą, jo autoriui išmokamas atlyginimas pagal sutartį, sudarytą tarp valstybinių paslapčių saugojimo institucijos ir išradimo autoriaus.
+Įslaptinus išradimą teisės aktų nustatytais pagrindais ir tvarka, išradėjui išmokamas atlyginimas pagal valstybės paslapčių subjekto ir išradėjo sudarytą sutartį. 
+Straipsnio dalies pakeitimai:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
+
+
+
+
+Išslaptinus išradimą teisės aktų nustatytais pagrindais ir tvarka, šio išradimo duomenys skelbiami Valstybinio patentų biuro oficialiame biuletenyje. 
+Papildyta straipsnio dalimi:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
 
 
@@ -588,9 +687,10 @@ Jeigu paskelbta patentinė paraiška vėliau buvo atšaukta arba nuginčyta kito
 22 straipsnis. Patento išdavimas
 
 
-Jeigu patentinė paraiška atitinka ekspertizės reikalavimus, Valstybinis patentų biuras, pareiškėjui sumokėjus mokestį, per šešis mėnesius išduoda patentą. 
+Jeigu patentinė paraiška atitinka šio įstatymo reikalavimus, nėra atšaukta ar nelaikoma atšaukta, Valstybinis patentų biuras, pareiškėjui sumokėjus nustatyto dydžio mokestį, per 6 mėnesius išduoda patentą. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-590, 1997-12-23, Žin., 1997, Nr. 119-3078 (1997-12-31), i. k. 0971010ISTAVIII-590
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
 
 
@@ -644,6 +744,29 @@ Paskelbus patentinę paraišką, susipažinti su ja gali bet kuris suinteresuota
 
 
 Jeigu patentinė paraiška pagal 20 straipsnio trečiąją dalį buvo atšaukta iki jos paskelbimo, susipažinti su ja galima tik gavus raštišką ją atšaukusio asmens sutikimą.
+
+
+
+
+Susipažinti su įslaptintu išradimu galima teisės aktų nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
+
+
+
+
+Jeigu pagal šio įstatymo 13 straipsnio antrąją dalį prie patentinės paraiškos buvo pridėtas biologinės medžiagos deponavimą patvirtinantis dokumentas, po patentinės paraiškos paskelbimo susipažinti su biologinės medžiagos mėginiu gali bet kuris suinteresuotas asmuo arba pareiškėjo reikalavimu tik nepriklausomas ekspertas. Po patento išdavimo, neatsižvelgiant į tai, ar jis panaikintas, ar pripažintas negaliojančiu, susipažinti su biologinės medžiagos mėginiu gali bet kuris suinteresuotas asmuo. 
+Papildyta straipsnio dalimi:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
+
+
+
+
+Jeigu patentinė paraiška atšaukiama arba laikoma atšaukta, galimybė susipažinti su biologinės medžiagos mėginiu pareiškėjo prašymu gali būti apribota suteikiant šią teisę tik nepriklausomam ekspertui dvidešimčiai metų nuo paraiškos padavimo datos. 
+Papildyta straipsnio dalimi:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
 
 
@@ -716,8 +839,31 @@ Patento savininkas turi teisę uždrausti kitiems asmenims tiekti arba siūlyti 
 
 
 
-Teisės į patentinę paraišką ir patentą yra paveldimos. Šių teisių nepaveldi valstybė.
+Kai patento savininkas leidžia ar pats parduoda, ar kitokiu komerciniu būdu perleidžia ūkininkui augalų veisimo medžiagą naudoti žemės ūkyje, laikoma, kad jis suteikia ūkininkui teisę naudoti savo derliaus produktus veisimui ar dauginimui to ūkininko ūkyje. Šios išimties taikymo ribas ir sąlygas nustato 1994 m. liepos 27 d. Tarybos reglamento (EB) Nr. 2100/94 dėl augalų veislių teisinės apsaugos Bendrijoje 14 straipsnis. 
+Papildyta straipsnio dalimi:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
+
+
+
+
+Kai patento savininkas leidžia, pats parduoda ar kitokiu komerciniu būdu perleidžia ūkininkui veislinius gyvulius ar kitokią gyvūnų dauginimo medžiagą, laikoma, kad jis suteikia ūkininkui teisę naudoti teisinę apsaugą turinčius naminius gyvulius žemės ūkio tikslais. Be to, tai reiškia, kad patento savininkas perduoda gyvūnus ar kitą gyvūnų veisimo medžiagą naudoti žemės ūkyje, bet ne pardavimui ar parduoti komerciniam veisimui. 
+Papildyta straipsnio dalimi:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
+
+
+
+
+Šio straipsnio šeštojoje dalyje numatytos išimties taikymo ribas ir sąlygas gali nustatyti teisės aktai. 
+Papildyta straipsnio dalimi:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
+
+
+
+
+Teisės į patentinę paraišką ir patentą yra paveldimos. Šių teisių nepaveldi valstybė.
 
 
 
@@ -856,6 +1002,34 @@ Jeigu patento aprašyme pateikiami išradimo naudojimo, atliekamų funkcijų ar 
  
 
 
+
+
+
+
+281 straipsnis. Biotechnologinių išradimų teisinės apsaugos apimtis
+
+
+Specifinių požymių biologinės medžiagos patento suteikiama teisinė apsauga apima ir bet kurią tos pačios ar skirtingos formos biologinę medžiagą, turinčią tuos pačius požymius, gautą iš pirmosios medžiagos veisimo arba dauginimo būdu.
+
+
+
+
+Specifinių požymių biologinės medžiagos gavimo būdo patento suteikiama teisinė apsauga apima ir tiesiogiai tuo būdu gautą biologinę medžiagą, ir bet kurią kitą tos pačios ar skirtingos formos biologinę medžiagą, turinčią tuos pačius požymius, gautą iš pirmosios medžiagos veisimo arba dauginimo būdu.
+
+
+
+
+Produkto, turinčio ar sudarančio genetinę informaciją, patento suteikiama teisinė apsauga apima ir visas medžiagas, kuriose yra produktas ir savo funkcijas atliekanti genetinė informacija, išskyrus žmogaus kūną ar jo elementus, įskaitant geno seką ar jos dalis natūralioje aplinkoje bet kuriais jų formavimosi ir raidos etapais.
+
+
+
+
+Šio straipsnio pirmojoje, antrojoje ir trečiojoje dalyse nustatyta teisinė apsauga neapima biologinės medžiagos, veisimo ar dauginimo būdu gautos iš kitos biologinės medžiagos, kurią patento savininkas pateikė ar leido pateikti į Lietuvos Respublikos rinką, kai veisimas ar dauginimas yra neišvengiamas panaudojimo, dėl kurio biologinė medžiaga buvo pateikta į rinką, rezultatas, jeigu gautoji medžiaga nebus naudojama kitam veisimui ar dauginimui. 
+
+
+Papildyta straipsniu:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
 
 
 
@@ -1063,6 +1237,54 @@ Valstybinis patentų biuras, gavęs asmens pareiškimą pasinaudoti vieša licen
 
 
 
+38 straipsnis. Priverstinė abipusė licencija, kai išradimas susijęs su saugoma augalo veisle
+
+
+Jeigu selekcininkas negali gauti augalo veislės teisinės apsaugos ar ja pasinaudoti nepažeisdamas ankstesnio patento saugomų išimtinių teisių, jis už atlyginimą gali prašyti priverstinės licencijos dėl neišimtinės teisės naudotis patento saugomu išradimu tiek, kiek tokia licencija reikalinga norint pasinaudoti saugoma augalo veisle. Išdavus tokią licenciją, patento savininkas normaliomis sąlygomis turi teisę gauti abipusę licenciją naudoti apsaugotą veislę.
+
+
+
+
+Jeigu biotechnologinio išradimo patento savininkas negali išradimu naudotis nepažeisdamas ankstesnės augalo veislės teisinės apsaugos, jis už atlyginimą gali prašyti priverstinės licencijos dėl neišimtinės teisės naudotis saugoma augalo veisle. Išdavus tokią licenciją, augalo veislės teisinės apsaugos savininkas normaliomis sąlygomis turi teisę gauti abipusę licenciją naudoti patentuotą išradimą.
+
+
+
+
+Pareiškėjai, siekdami gauti šio straipsnio pirmojoje ir antrojoje dalyse nurodytas licencijas, privalo įrodyti, kad:
+
+
+1) jie kreipėsi į biotechnologinio išradimo patento ar augalo veislės teisinės apsaugos savininką norėdami gauti sutartinę licenciją, bet jos negavo; 
+
+
+
+
+2) augalo veislė ar biotechnologinis išradimas, palyginti su patentuotu išradimu ar saugoma augalo veisle, reiškia didelę techninę pažangą ir turi svarią ekonominę reikšmę.
+
+
+
+
+
+
+Sprendimą dėl šio straipsnio pirmojoje ir antrojoje dalyse nurodytų licencijų išdavimo, atlyginimo dydžio ir kitų priverstinės licencijos sąlygų ir apimties priima teismas. Jeigu priverstinės licencijos išdavimo sąlygos pasikeičia ar išnyksta, biotechnologinio išradimo patento ar augalo veislės teisinės apsaugos savininko prašymu teismas gali panaikinti priverstinę licenciją arba pakeisti jos sąlygas. 
+
+
+
+
+Saugomų augalų veislių sąrašą ir Lietuvos Respublikos patentų registrą tvarkančios įstaigos yra atsakingos už šio straipsnio pirmojoje ir antrojoje dalyse nurodytų licencijų registravimą teisės aktų nustatyta tvarka. 
+
+
+
+
+Kai augalo veislės licenciją gali išduoti tik Bendrijos augalų veislių tarnyba, taikomas 1994 m. liepos 27 d. Tarybos reglamento (EB) Nr. 2100/94 dėl augalų veislių teisinės apsaugos Bendrijoje 29 straipsnis. 
+
+
+Papildyta straipsniu:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
+
+
+
+
 
 
 VI SKIRSNIS
@@ -1081,17 +1303,20 @@ Nr. VIII-1738, 2000-06-15, Žin. 2000, Nr. 54-1560 (2000-07-05), i. k. 1001010IS
 39 straipsnis. Išradimo naudojimas su Lietuvos Respublikos Vyriausybės leidimu
 
 
-Lietuvos Respublikos Vyriausybė gali priimti nutarimą leisti valstybės ar savivaldybės institucijai, fiziniam arba juridiniam asmeniui, taip pat įmonei, neturinčiai juridinio asmens teisių, be patento savininko sutikimo naudoti patentuotą išradimą Lietuvos Respublikos rinkoje, jeigu:
+Lietuvos Respublikos Vyriausybė gali priimti nutarimą leisti valstybės ar savivaldybės institucijai, fiziniam arba juridiniam asmeniui be patento savininko sutikimo naudoti patentuotą išradimą Lietuvos Respublikos rinkoje, jeigu: 
 
 
-1) patentu saugomas išradimas yra susijęs su visuomenės poreikiais, nacionaliniu saugumu bei visuomenės sveikatos apsauga, ekonomiškai svarbių sektorių plėtra;
+1) patentu saugomas išradimas yra susijęs su visuomenės poreikiais, nacionaliniu saugumu bei visuomenės sveikatos apsauga, ekonomiškai svarbių sektorių plėtra; 
 
 
 
 
-2) teismas nusprendžia, kad patento savininko ar licenciato išradimo naudojimo būdas riboja konkurenciją.
+2) teismas nusprendžia, kad patento savininko ar licenciato išradimo naudojimo būdas riboja konkurenciją. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
 
 
 
@@ -1126,7 +1351,10 @@ Kai leidimas naudoti patentuotą išradimą duodamas patento, kuris patobulina j
 
 
 
-Lietuvos Respublikos Vyriausybė gali pripažinti nutarimą netekusiu galios, jeigu aplinkybės, dėl kurių buvo leista naudoti patentuotą išradimą, išnyko arba jeigu valstybės ar savivaldybės institucija, fizinis arba juridinis asmuo, taip pat įmonė, neturinti juridinio asmens teisių, naudoja patentuotą išradimą ne tuo tikslu, kuriam buvo priimtas nutarimas.
+Lietuvos Respublikos Vyriausybė gali pripažinti nutarimą netekusiu galios, jeigu aplinkybės, dėl kurių buvo leista naudoti patentuotą išradimą, išnyko arba jeigu valstybės ar savivaldybės institucija, fizinis arba juridinis asmuo naudoja patentuotą išradimą ne tuo tikslu, kuriam buvo priimtas nutarimas. 
+Straipsnio dalies pakeitimai:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
 
 
 
@@ -1180,16 +1408,18 @@ Ginčus dėl išradimų patentavimo ir naudojimo nagrinėja šios institucijos:
 
 
 2) Vilniaus apygardos teismas ginčus dėl: 
-Valstybinio patentų biuro Apeliacinio skyriaus sprendimo atsisakyti išduoti patentą; 
+Valstybinio patentų biuro Apeliacinio skyriaus sprendimų; 
 patentinės paraiškos ar patento nuosavybės teisės pripažinimo kitam asmeniui; 
 išduoto patento pripažinimo visiškai ar iš dalies negaliojančiu; 
 paskelbtos patentinės paraiškos, kuriai suteikta laikina apsauga, pažeidimo; 
 išduoto patento pažeidimo; 
 patento pažeidimo fakto nebuvimo nustatymo; 
+licencijų, nurodytų šio įstatymo 38 straipsnyje, išdavimo, panaikinimo ir sąlygų pakeitimo;
 patento panaikinimo. 
 Straipsnio punkto pakeitimai:
 Nr. I-638, 1994-11-08, Žin., 1994, Nr. 89-1713 (1994-11-18), i. k. 0941010ISTA000I-638
 Nr. VIII-1738, 2000-06-15, Žin., 2000, Nr. 54-1560 (2000-07-05), i. k. 1001010ISTAIII-1738
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
 
 
@@ -1436,6 +1666,13 @@ Laikina apsauga įsigalioja nuo datos, kada Valstybinio patentų biuro oficialia
 
 
 Kai Valstybinis patentų biuras yra nurodytoji ar pasirinktoji patentų tarnyba, tarptautinės patentinės paraiškos pareiškėjas, norėdamas gauti Lietuvos Respublikos patentą pagal šį įstatymą, privalo per Patentinės kooperacijos sutarties 22 ar 39 straipsnyje nustatytą laiką pateikti tarptautinės patentinės paraiškos vertimą į lietuvių kalbą ir sumokėti mokestį.
+
+
+
+
+Nuo Europos patentų konvencijos įsigaliojimo Lietuvos Respublikoje dienos tarptautinė patentinė paraiška, kurioje nurodyta ar pasirinkta Lietuvos Respublika, pagal Patentinės kooperacijos sutarties 45 straipsnio 1 dalį laikoma Europos patento paraiška. 
+Papildyta straipsnio dalimi:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
 
 
@@ -1495,6 +1732,13 @@ Nacionalinė patentinė paraiška – tai patentinė paraiška, paduota pagal š
 
 
 Nacionalinis patentas – tai patentas, išduotas pagal nacionalinę patentinę paraišką.
+
+
+
+
+Europos patentinei paraiškai ir Europos patentui, išplėstiems į Lietuvos Respubliką pagal šio skirsnio nuostatas, Europos patentų konvencijos reikalavimai netaikomi, jeigu ko kita nenustato šis įstatymas. 
+Papildyta straipsnio dalimi:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
  
 
 
@@ -1668,6 +1912,178 @@ Europos patentų konvencijos ir jos įgyvendinimo taisyklių reikalavimai netaik
 
 
 
+X1 SKIRSNIS
+EUROPOS PATENTŲ KONVENCIJOS ĮGYVENDINIMAS
+ 
+
+
+59 straipsnis. Europos patentų konvencijos taikymas
+
+
+Europos patentų konvencijos įsigaliojimo Lietuvos Respublikoje dieną arba vėliau paduotoms Europos patentų paraiškoms, kuriose nurodoma Lietuvos Respublika, ir Europos patentams taikoma Europos patentų konvencija.
+
+
+
+
+Paskelbtas ir įsigaliojęs Lietuvos Respublikoje Europos patentas gali būti panaikintas arba pripažintas negaliojančiu remiantis šiuo įstatymu ir (ar) Europos patentų konvencijos 138 straipsniu. 
+
+
+
+
+Valstybinis patentų biuras yra centrinė pramoninės nuosavybės tarnyba pagal Europos patentų konvenciją.
+
+
+
+
+Valstybinis patentų biuras patvirtina Europos patentų konvencijos įgyvendinimo Lietuvos Respublikoje tvarką.
+ 
+
+
+
+
+
+
+591 straipsnis. Europos patento paraiškos padavimas
+
+
+Europos patento paraiška paduodama tiesiogiai Europos patentų tarnybai arba Valstybiniam patentų biurui Europos patentų konvencijos 14 straipsnio 1 ir 2 dalyse numatytomis kalbomis. 
+
+
+
+
+Valstybinis patentų biuras gautas Europos patento paraiškas, išskyrus susijusias su valstybės ar tarnybos paslaptimis, persiunčia Europos patentų tarnybai per Europos patentų konvencijos 77 straipsnyje nurodytą terminą. 
+
+
+
+
+Atskirta Europos patento paraiška paduodama tiesiogiai Europos patentų tarnybai.
+
+
+
+
+Bet kokia Europos patento paraiška, kurioje yra valstybės ir tarnybos paslaptis sudarančios informacijos, paduodama tik Valstybiniam patentų biurui.
+ 
+
+
+
+
+
+
+592 straipsnis. Europos patento paraiškos galiojimas
+
+
+Europos patento paraiška, kuriai suteikta padavimo data ir kurioje nurodyta Lietuvos Respublika, yra tokios pat teisinės galios kaip ir įprastu būdu paduota nacionalinė patento paraiška, pripažįstant Europos patento paraiškos prioriteto datą, neatsižvelgiant į jos nagrinėjimo eigą.
+
+
+
+
+Paskelbtai Europos patento paraiškai suteikiama tokia pat laikina teisinė apsauga kaip ir nacionalinei patento paraiškai pagal šio įstatymo 21 straipsnio trečiąją dalį. Laikina teisinė apsauga suteikiama nuo tos dienos, kurią paskelbtos Europos patento paraiškos apibrėžties vertimas buvo paskelbtas Valstybinio patentų biuro oficialiame biuletenyje. 
+
+
+
+
+Laikoma, kad Europos patento paraiškai nebuvo suteikta laikina teisinė apsauga pagal šio straipsnio antrąją dalį, jeigu Lietuvos Respublikos nurodymas vėliau buvo atšauktas arba laikomas atšauktu.
+ 
+
+
+
+
+
+
+593 straipsnis. Europos patento galiojimas
+
+
+Europos patentas, kuriame nurodyta Lietuvos Respublika, vadovaujantis šio straipsnio antrąja ir trečiąja dalimis, nuo paskelbimo apie jo išdavimą Europos patentų tarnyboje datos suteikia tokias pat teises kaip ir nacionalinis patentas pagal šio įstatymo 26 straipsnį.
+
+
+
+
+Europos patento savininkas per 3 mėnesius nuo paskelbimo apie patento išdavimą dienos pateikia Valstybiniam patentų biurui Europos patento apibrėžties vertimą į lietuvių kalbą ir sumoka nustatyto dydžio mokestį už vertimo paskelbimą.
+
+
+
+
+Jeigu dėl Europos patentų tarnybai paduoto protesto pakeičiama Europos patento apibrėžtis, patento savininkas per 3 mėnesius nuo pakeistos Europos patento apibrėžties paskelbimo dienos turi pateikti Valstybiniam patentų biurui pakeistos Europos patento apibrėžties vertimą į lietuvių kalbą ir sumokėti mokestį už jos paskelbimą.
+
+
+
+
+Valstybinis patentų biuras skubiai, ne vėliau kaip per 3 mėnesius, paskelbia pagal šio straipsnio antrąją ir trečiąją dalis pateiktus vertimus.
+
+
+
+
+Jeigu per šio straipsnio antrojoje ir trečiojoje dalyse nurodytą terminą Europos patento apibrėžties vertimas nepateikiamas, Europos patentas laikomas ab initio negaliojančiu Lietuvos Respublikoje.
+ 
+
+
+
+
+
+
+594 straipsnis. Europos patento paraiškos ir Europos patento teksto autentiškumas
+
+
+Europos patento paraiškos arba Europos patento tekstas, pateiktas Europos patentų tarnybos procedūrų kalba, laikomas autentišku tekstu ir Lietuvos Respublikoje.
+
+
+
+
+Šio įstatymo 592 ir 593 straipsniuose nurodyti vertimai laikomi autentiškais, išskyrus patentų panaikinimo procesą, kai patentams suteikiama siauresnė teisinė apsauga, negu buvo suteikta tekstams Europos patentų tarnybos procedūrų kalba. 
+
+
+
+
+Pareiškėjas ar patento savininkas gali bet kada pateikti ištaisytą Europos patento paraiškos arba Europos patento apibrėžties vertimą. Ištaisytas vertimas įsigalioja, kai jį paskelbia Valstybinis patentų biuras. Bet kuris asmuo, sąžiningai naudojantis arba pasirengęs naudoti išradimą nepažeisdamas patentinės paraiškos ar patento apibrėžties pirminio vertimo, po apibrėžties vertimo ištaisymo gali ir toliau nemokamai naudoti išradimą savo veikloje arba savo reikmėms.
+ 
+
+
+
+
+
+
+595 straipsnis. Europos patentų metų mokesčiai
+
+
+Europos patento metų mokestis mokamas Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo nustatyta tvarka. Jis pradedamas mokėti nuo kitų metų po paskelbimo apie Europos patento išdavimą.
+ 
+
+
+
+
+
+
+596 straipsnis. Europos patento paraiškos pakeitimas nacionaline paraiška 
+
+
+Europos patento paraiška, kurioje nurodyta Lietuvos Respublika, gali būti pakeista nacionaline patento paraiška, jeigu pagal Europos patentų konvencijos 77 straipsnio 5 dalį, 90 straipsnio 3 dalį Europos patento paraiška laikoma atšaukta arba pagal Europos patentų konvencijos 14 straipsnio 2 dalį Europos patentų tarnybai nebuvo laiku pateiktas paraiškos vertimas. 
+
+
+
+
+Pareiškėjas per nustatytą terminą sumoka nustatyto dydžio mokestį ir pateikia Valstybiniam patentų biurui Europos patento paraiškos vertimą į lietuvių kalbą.
+ 
+
+
+
+
+
+
+597 straipsnis. Dviguba apsauga
+
+
+Jeigu Europos patentas ir nacionalinis patentas, turintys tą pačią padavimo arba prioriteto datą, buvo išduoti tam pačiam asmeniui ar jo teisių perėmėjui už tą patį išradimą, nacionalinis patentas netenka galios nuo tos datos, kai pasibaigia Europos patentui užprotestuoti skirtas laikas ir protestas nebuvo gautas, arba nuo tos datos, kai, atsižvelgus į protestą, buvo priimtas sprendimas Europos patentą palikti galioti. 
+
+
+
+
+Papildyta skirsniu:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
+
+
+
+
 XI SKIRSNIS
 TARPTAUTINIAI SUSITARIMAI
  
@@ -1742,8 +2158,37 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
  
+ 
 
 
+
+
+
+
+Lietuvos Respublikos 
+patentų įstatymo 
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 1992 m. birželio 18 d. Tarybos reglamentas (EEB) Nr. 1768/92 dėl medicinos produktų papildomos apsaugos liudijimo sukūrimo.
+
+
+
+
+2. 1996 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1610/96 dėl augalų apsaugos priemonių papildomos apsaugos liudijimo sukūrimo.
+
+
+
+
+3. 1998 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva 98/44/EB dėl teisinės biotechnologinių išradimų apsaugos. 
+
+
+Papildyta priedu:
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
  
  
 Pakeitimai:
@@ -1777,3 +2222,8 @@ Lietuvos Respublikos patentų įstatymo papildymo 41(1) straipsniu įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-568, 2001-10-30, Žin., 2001, Nr. 94-3308 (2001-11-09), i. k. 1011010ISTA00IX-568
 Lietuvos Respublikos patentų įstatymo 2, 6, 26, 31, 41 straipsnių pakeitimo ir įstatymo papildymo 27(1) straipsniu įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+Lietuvos Respublikos patentų įstatymo preambulės, 2, 4, 10, 11, 13, 19, 21, 22, 24, 26, 39, 40, 48, 50 straipsnių pakeitimo bei papildymo ir įstatymo papildymo 28-1, 38 straipsniais, X-1 skirsniu ir priedu įstatymas
