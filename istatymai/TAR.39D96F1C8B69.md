@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.39D96F1C8B69"
 
 # Lietuvos Respublikos narkologinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2004-04-29 iki 2005-07-13
+Įstatymas netenka galios 2019-05-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1906, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00838
+Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo Nr. I-924 pakeitimo įstatymas
+ 
+Suvestinė redakcija nuo 2005-07-14 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 30-711, i. k. 0971010ISTAVIII-156
  
@@ -173,7 +178,10 @@ Sveikatos priežiūros įstaigos narkologinės priežiūros srityje:
 
 7) tvarko narkologinių ligonių įskaitą;
 
-8) tvarko pasekmių (smurtinių mirčių ir savižudybių, invalidumo atvejų, traumų, apsinuodijimų, somatinių ir infekcinių susirgimų ir pan.), susijusių su piktnaudžiavimu alkoholiu ir narkotikais, apskaitą;
+8) tvarko pasekmių (smurtinių mirčių ir savižudybių, neįgalumo atvejų, traumų, apsinuodijimų, somatinių ir infekcinių susirgimų ir pan.), susijusių su piktnaudžiavimu alkoholiu ir narkotikais, apskaitą;
+Straipsnio punkto pakeitimai:
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
+ 
 
 9) rūpinasi visuomenės sveikatos ugdymu. 
  
@@ -314,9 +322,12 @@ Nr. IX-2149, 2004-04-20, Žin., 2004, Nr. 68-2366 (2004-04-29), i. k. 1041010IST
 3. Narkologinių ligonių buvimo įskaitoje trukmės kriterijus nustato Sveikatos apsaugos ministerija. 
  
 
-20 straipsnis.       Narkologinių susirgimų ar piktnaudžiavimo psichiką veikiančiomis medžiagomis sukeltų pasekmių apskaita 
+20 straipsnis. Narkologinių susirgimų ar piktnaudžiavimo psichiką veikiančiomis medžiagomis sukeltų pasekmių apskaita 
 
-1. Apskričių ligų profilaktikos ir kontrolės centrai tvarko narkologinių susirgimų, piktnaudžiavimo psichiką veikiančiomis medžiagomis pasekmių (smurtinių mirčių ir savižudybių, invalidumo atvejų, traumų, apsinuodijimų, somatinių ir infekcinių susirgimų bei kitų komplikacijų) apskaitą.
+1. Apskričių ligų profilaktikos ir kontrolės centrai tvarko narkologinių susirgimų, piktnaudžiavimo psichiką veikiančiomis medžiagomis pasekmių (smurtinių mirčių ir savižudybių, neįgalumo atvejų, traumų, apsinuodijimų, somatinių ir infekcinių susirgimų bei kitų komplikacijų) apskaitą. 
+Straipsnio dalies pakeitimai:
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
+ 
 
 2. Apskričių ligų profilaktikos ir kontrolės centrai renka, sistemina, analizuoja informaciją apie narkologinių susirgimų, piktnaudžiavimo psichiką veikiančiomis medžiagomis sukeltas pasekmes ir teikia duomenis Sveikatos apsaugos ministerijai jos nustatyta tvarka.
 
@@ -342,7 +353,10 @@ NARKOLOGINIŲ LIGONIŲ INTEGRACIJA Į VISUOMENĘ
 
 3. Vietos savivaldos institucijos planuoja ir suteikia vietas nakvynės namuose narkologiniams ligoniams, likusiems be gyvenamosios vietos.
 
-4. Apskričių ir vietos savivaldos institucijos steigia globos namus invalidams, sergantiems narkomanija ir alkoholizmu.
+4. Apskričių ir vietos savivaldos institucijos steigia globos namus neįgaliesiems, sergantiems narkomanija ir alkoholizmu.
+Straipsnio dalies pakeitimai:
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
+ 
 
 5. Vietos savivaldos institucijos skatina, remia visuomenines organizacijas, ginančias narkologinių ligonių bei jų šeimų teises.
 
@@ -357,7 +371,9 @@ NARKOLOGINIŲ LIGONIŲ INTEGRACIJA Į VISUOMENĘ
 
 2. Asmens savanoriškas gydymasis nuo narkologinio susirgimo negali būti priežastis darbo sutarčiai nutraukti.
 
-3. Nedarbingiems narkologiniams ligoniams tokia pat tvarka kaip ir kitiems pacientams, atsižvelgiant į jų sveikatos būklę, suteikiamas invalidumas ir skiriama socialinė globa. 
+3. Nedarbingiems narkologiniams ligoniams tokia pat tvarka kaip ir kitiems pacientams, atsižvelgiant į jų sveikatos būklę, nustatomas neįgalumas ir teikiama socialinė parama.
+Straipsnio dalies pakeitimai:
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
  
 
 ŠEŠTASIS SKIRSNIS
@@ -399,4 +415,9 @@ Lietuvos Respublikos narkologinės priežiūros įstatymo 6 ir 14 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2149, 2004-04-20, Žin., 2004, Nr. 68-2366 (2004-04-29), i. k. 1041010ISTA0IX-2149
 Lietuvos Respublikos narkologinės priežiūros įstatymo 16 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
+Lietuvos Respublikos medicinos praktikos įstatymo, Odontologijos praktikos įstatymo, Sveikatos sistemos įstatymo, Psichikos sveikatos priežiūros įstatymo, Narkologinės priežiūros įstatymo pakeitimo įstatymas
 
