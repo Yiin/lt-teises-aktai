@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F19AC41B9F15"
 
 # Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymas
 
+Suvestinė redakcija nuo 2005-07-14 iki 2023-03-31
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 5-124, i. k. 1001010ISTAIII-1517
+ 
+ 
 LIETUVOS RESPUBLIKOS
 NEPRIKLAUSOMYBĖS GYNĖJŲ IR KITŲ NUKENTĖJUSIŲ NUO 1991 M. SAUSIO 11–13 D. IR PO TO VYKDYTOS SSRS AGRESIJOS ASMENŲ TEISINIO STATUSO PRIPAŽINIMO
 Į S T A T Y M A S
@@ -39,12 +44,17 @@ Vilnius
 Lietuvos Respublikos nepriklausomybės gynėjais, nukentėjusiais nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, pripažįstami asmenys, kurie:
 
 
-1) žuvo dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos (asmenų žuvimo faktą patvirtina Generalinės prokuratūros prie Lietuvos Aukščiausiojo Teismo išduotos pažymos);
+1) žuvo dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos (asmenų žuvimo faktą patvirtina Generalinės prokuratūros išduotos pažymos); 
+Straipsnio punkto pakeitimai:
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+ 
 
 
 
 
-2) buvo sužaloti dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos ir turi Generalinės prokuratūros prie Lietuvos Aukščiausiojo Teismo išduotas pažymas, patvirtinančias sužalojimo, padaryto ginant Lietuvos Respublikos laisvę 1991 m., faktą.
+2) buvo sužaloti dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos ir turi Generalinės prokuratūros pažymas, patvirtinančias sužalojimo, padaryto ginant Lietuvos Respublikos laisvę 1991 m., faktą.
+Straipsnio punkto pakeitimai:
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
  
 
 
@@ -75,17 +85,25 @@ Lietuvos Respublikos nepriklausomybės gynėjų šeimų nariais, nukentėjusiais
 
 
 
-4) asmenų, tapusių invalidais dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, sutuoktiniai;
+4) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, sutuoktiniai;
+Straipsnio punkto pakeitimai:
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+ 
 
 
 
 
-5) asmenų, tapusių invalidais dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, nepilnamečiai vaikai (įvaikiai); 
+5) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, nepilnamečiai vaikai (įvaikiai); 
+Straipsnio punkto pakeitimai:
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+ 
 
 
 
 
-6) asmenų, tapusių invalidais dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, tėvai (įtėviai). 
+6) asmenų, pripažintų nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, tėvai (įtėviai).
+Straipsnio punkto pakeitimai:
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
  
 
 
@@ -155,3 +173,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo, Įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)", Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo, Įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių, kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo įstatymas
