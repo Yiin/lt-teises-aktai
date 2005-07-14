@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D841592F4E8A"
 
 # Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymas
 
-Suvestinė redakcija nuo 1999-12-22 iki 2005-07-13
+Suvestinė redakcija nuo 2005-07-14 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 114-2868, i. k. 0971010ISTAVIII-541
  
@@ -53,40 +53,40 @@ Vilnius
 
 
 
-3 straipsnis.         Valstybės parama kariams savanoriams, sužalotiems ginkluoto pasipriešinimo kovose ar tapusiems invalidais dėl šių sužalojimų, taip pat tapusiems invalidais kalėjimuose
+3 straipsnis.         Valstybės parama kariams savanoriams, sužalotiems ginkluoto pasipriešinimo kovose, tardymo ar kalinimo metu 
 
 
-1. Ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams, sužalotiems ginkluoto pasipriešinimo kovose ar tapusiems invalidais dėl šių sužalojimų, taip pat tapusiems invalidais dėl sveikatos pakenkimo tardymo ar kalinimo metu, išmokama vienkartinė pašalpa:
-
-
-1) I grupės invalidams – 14 400 Lt;
+1. Ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams, sužalotiems ginkluoto pasipriešinimo kovose, tardymo ar kalinimo metu, išmokama 5600 Lt vienkartinė pašalpa. 
 
 
 
 
-2) II grupės invalidams – 11 520 Lt;
+2. Asmenims, kuriems iki 2005 m. liepos 1 d. buvo nustatytas invalidumas, susijęs su ginkluotu pasipriešinimu kovose, tardymu ar kalinimu, išmokama vienkartinė pašalpa: 
+
+
+1) pripažintiems netekusiais 75–100 procentų darbingumo (iki 2005 m. liepos 1 d. – I grupės invalidais) – 14400 litų;
 
 
 
 
-3) III grupės invalidams – 8 640 Lt;
+2) pripažintiems netekusiais 60–70 procentų darbingumo (iki 2005 m. liepos 1 d. – II grupės invalidais) – 11520 litų;
 
 
 
 
-4) sužalotiems kovose – 5 600 Lt.
+3) pripažintiems netekusiais 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. – III grupės invalidais) – 8640 litų. 
 
 
 
 
 
 
-2. Pašalpos išmokamos iš valstybės biudžeto. Pašalpų mokėjimo tvarką nustato Vyriausybė. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1471, 1999-12-07, Žin., 1999, Nr. 108-3131 (1999-12-22), i. k. 0991010ISTAIII-1471
+3. Vienkartinės pašalpos išmokamos iš valstybės biudžeto. Pašalpas skiria ir moka šiame įstatyme nurodytų asmenų gyvenamosios vietos savivaldybės. Savivaldybėms skiriami 2 procentai nuo pašalpoms mokėti skirtų lėšų administravimo išlaidoms padengti. Vienkartinių pašalpų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė. 
+
+
+Straipsnio pakeitimai:
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
  
-
-
 
 
 
@@ -139,3 +139,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1471, 1999-12-07, Žin., 1999, Nr. 108-3131 (1999-12-22), i. k. 0991010ISTAIII-1471
 Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo, Įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)", Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo, Įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių, kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo įstatymas
