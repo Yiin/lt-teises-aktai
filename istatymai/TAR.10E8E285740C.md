@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2005-07-13
+Suvestinė redakcija nuo 2005-07-14 iki 2007-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
  
@@ -97,7 +97,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Grubi medicinos praktikos klaida – gydytojo veika, kai dėl jo kaltės paciento sveikatai buvo padaryta žala, sukėlusi paciento invalidumą arba mirtį. Grubią medicinos praktikos klaidą nustato gydytojo profesinės kompetencijos vertinimo komisija.
+5. Grubi medicinos praktikos klaida – gydytojo veika, kai dėl jo kaltės paciento sveikatai buvo padaryta žala, sukėlusi paciento neįgalumą arba mirtį. Grubią medicinos praktikos klaidą nustato gydytojo profesinės kompetencijos vertinimo komisija.
+Straipsnio dalies pakeitimai:
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
+ 
 
 
 
@@ -674,3 +677,8 @@ Lietuvos Respublikos gydytojo medicinos praktikos įstatymo 2 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2148, 2004-04-20, Žin., 2004, Nr. 68-2365 (2004-04-29), i. k. 1041010ISTA0IX-2148
 Lietuvos Respublikos gydytojo medicinos praktikos įstatymo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
+Lietuvos Respublikos medicinos praktikos įstatymo, Odontologijos praktikos įstatymo, Sveikatos sistemos įstatymo, Psichikos sveikatos priežiūros įstatymo, Narkologinės priežiūros įstatymo pakeitimo įstatymas
