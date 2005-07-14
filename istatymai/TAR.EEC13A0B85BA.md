@@ -13,6 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
+Suvestinė redakcija nuo 2005-07-14 iki 2006-10-31
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
+ 
+ 
+ 
 LIETUVOS RESPUBLIKOS SOCIALINIŲ ĮMONIŲ Į S T A T Y M A S
  
 2004 m. birželio 1 d. Nr. IX-2251
@@ -47,7 +53,15 @@ Socialinių įmonių tikslas – įdarbinant šiame įstatyme nurodytoms tikslin
 
 4) nevykdo veiklos, įtrauktos į socialinių įmonių neremtinų veiklos rūšių sąrašą, kurį tvirtina Vyriausybė ar jos įgaliota institucija, arba iš tokios veiklos gautos pajamos sudaro ne daugiau kaip 20 procentų visų šio juridinio asmens pajamų.
 
-2. Neįgaliųjų socialinė įmonė – socialinė įmonė, kurioje darbuotojai, priklausantys neįgaliųjų tikslinei grupei, sudaro ne mažiau kaip 50 procentų jos metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, iš jų I ir II grupės invalidai – ne mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus. Neįgaliųjų socialinė įmonė turi visas socialinės įmonės teises ir pareigas, tačiau gali gauti ir papildomą šiame bei kituose įstatymuose nustatytą valstybės pagalbą.
+2. Neįgaliųjų socialinė įmonė – šio įstatymo nustatyta tvarka šį statusą įgijęs Lietuvos Respublikoje įsteigtas juridinis asmuo, kuris atitinka visas šias sąlygas:
+
+1) atitinka šio straipsnio 1 dalies 1, 3 ir 4 punktuose nurodytas sąlygas;
+
+2) darbuotojai, priklausantys neįgaliųjų tikslinei grupei, sudaro ne mažiau kaip 50 procentų jos metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, iš jų neįgalieji, turintys I ar II invalidumo grupę arba vidutinį neįgalumo lygį, ar neįgalieji, kuriems nustatytas 30–55 procentų darbingumo lygis, – ne mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus.
+
+Straipsnio dalies pakeitimai:
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
+ 
 
 3. Kai šiame įstatyme vartojama sąvoka „socialinė įmonė“, ta norma yra bendra, taikoma ir neįgaliųjų socialinėms įmonėms, o kai norma yra speciali, taikoma tik neįgaliųjų socialinėms įmonėms, tai vartojama sąvoka „neįgaliųjų socialinės įmonės“. 
 
@@ -58,7 +72,10 @@ Socialinių įmonių tikslas – įdarbinant šiame įstatyme nurodytoms tikslin
 
 1. Pagal šį įstatymą socialinėse įmonėse remiamas įdarbinimas asmenų, kurie priklauso bent vienai iš šių tikslinių grupių:
 
-1) nedirbantys neįgalieji, turintys I, II ar III invalidumo grupę (nesvarbu, ar yra užsiregistravę teritorinėje darbo biržoje, ar ne);
+1) neįgalieji, turintys I, II ar III invalidumo grupę arba vidutinį neįgalumo lygį, ar neįgalieji, kuriems nustatytas 30–55 procentų darbingumo lygis (nesvarbu, ar yra užsiregistravę teritorinėje darbo biržoje, ar ne);
+Straipsnio punkto pakeitimai:
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
+ 
 
 2) ilgalaikiai bedarbiai, kurių nedarbo trukmė nuo užsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip dveji metai;
 
@@ -68,7 +85,10 @@ Socialinių įmonių tikslas – įdarbinant šiame įstatyme nurodytoms tikslin
 
 5) asmenys, grįžę iš laisvės atėmimo vietų, kai laisvės atėmimo laikotarpis buvo ilgesnis kaip šeši mėnesiai, ne vėliau kaip per šešis mėnesius nuo jų paleidimo iš pataisos įstaigų dienos yra įsiregistravę teritorinėje darbo biržoje, ir jei šios registracijos trukmė yra ne trumpesnė kaip šeši mėnesiai.
 
-2. Neįgalieji, turintys I, II ar III invalidumo grupę ir siekiantys įsidarbinti socialinėje įmonėje, darbo biržoje įsiregistruoti neprivalo. Jie turi pateikti darbdaviui neįgalumo faktą patvirtinantį dokumentą.
+2. Neįgalieji, turintys I, II ar III invalidumo grupę arba vidutinį neįgalumo lygį, ar neįgalieji, kuriems nustatytas 30–55 procentų darbingumo lygis, siekiantys įsidarbinti socialinėje įmonėje, darbo biržoje įsiregistruoti neprivalo. Jie turi pateikti darbdaviui neįgalumo faktą patvirtinantį dokumentą.
+Straipsnio dalies pakeitimai:
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
+ 
 
 3. Teritorinės darbo biržos privalo parengti turimą informaciją apie šioje darbo biržoje įregistruotus, šio straipsnio 1 dalies 2–5 punktuose nurodytoms tikslinėms grupėms priklausančius asmenis, jeigu tokios informacijos pageidauja socialinės įmonės statuso siekiantis ar jį turintis juridinis asmuo.
 
@@ -156,7 +176,10 @@ Socialinės įmonės statuso įgijimas ir NETEKIMAS
 
 9) turto (pastato, žemės ir kt.) nuosavybę patvirtinančių dokumentų, susijusių su darbo vietų steigimu ar pritaikymu, kopijos.
 
-3. Vyriausybės įgaliota institucija, gavusi socialinės įmonės prašymą pripažinti ją neįgaliųjų socialine įmone ir nustačiusi, kad ji atitinka šio įstatymo 3 straipsnio 2 dalyje nurodytus reikalavimus, pripažįsta šią socialinę įmonę neįgaliųjų socialine įmone.
+3. Neteko galios nuo 2005-07-14. 
+Straipsnio dalies pakeitimai:
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
+ 
 
 4. Šio straipsnio 2 dalies 5–8 punktuose nurodyti dokumentai pateikiami tik tuo atveju, jeigu iki kreipimosi suteikti socialinės įmonės statusą juridinis asmuo jau vykdė ūkinę veiklą.
 
@@ -196,7 +219,9 @@ Socialinės įmonės statuso įgijimas ir NETEKIMAS
 
 1. Priėmus sprendimą suteikti socialinės įmonės statusą, juridiniam asmeniui išduodamas Vyriausybės įgaliotos institucijos nustatytos formos pažymėjimas. 
 
-2. Priėmus sprendimą socialinę įmonę pripažinti neįgaliųjų socialine įmone, juridiniam asmeniui išduodamas Vyriausybės įgaliotos institucijos nustatytos formos pažymėjimas.
+2. Priėmus sprendimą juridinį asmenį pripažinti neįgaliųjų socialine įmone, jam išduodamas Vyriausybės įgaliotos institucijos nustatytos formos pažymėjimas.
+Straipsnio dalies pakeitimai:
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
  
 
 11 straipsnis. Socialinės įmonės statuso netekimas
@@ -254,14 +279,16 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 3) subsidija asistento (gestų kalbos vertėjo) išlaidoms kompensuoti. 
  
 
- 
 14 straipsnis. Darbo užmokesčio ir valstybinio socialinio draudimo įmokų dalinė kompensacija
 
 1. Darbo užmokesčio ir valstybinio socialinio draudimo įmokų dalinė kompensacija yra skirta kompensuoti socialinei įmonei papildomas išlaidas, susijusias su tikslinėms grupėms priklausančių darbuotojų darbinių įgūdžių stoka, jų mažesniu darbo našumu ar ribotu darbingumu.
 
 2. Kompensacija apskaičiuojama procentais nuo kiekvienam socialinėje įmonėje dirbančiam tikslinei grupei priklausančiam darbuotojui tą mėnesį apskaičiuoto visų rūšių darbo užmokesčio, tačiau neviršijant dviejų tą mėnesį galiojusių Vyriausybės patvirtintų minimalių mėnesinių algų dydžio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumos. 
 
-3. Už kiekvieną I ar II invalidumo grupę turintį neįgalų darbuotoją skiriama kompensacija sudaro 60 procentų šio straipsnio 2 dalyje nurodytos sumos.
+3. Už kiekvieną I ar II invalidumo grupę arba vidutinį neįgalumo lygį turintį neįgalų darbuotoją ar neįgalų darbuotoją, kuriam nustatytas 30–55 procentų darbingumo lygis, skiriama kompensacija sudaro 60 procentų šio straipsnio 2 dalyje nurodytos sumos.
+Straipsnio dalies pakeitimai:
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
+ 
 
 4. Už kiekvieną III invalidumo grupę turintį neįgalų darbuotoją ir už kiekvieną šio įstatymo 4 straipsnio 1 dalies 2–5 punktuose nurodytai tikslinei grupei priklausantį darbuotoją skiriama kompensacija sudaro 50 procentų šio straipsnio 2 dalyje nurodytos sumos.
  
@@ -317,16 +344,22 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 
 1. Siekiant kompensuoti neįgaliųjų socialinių įmonių papildomas administravimo išlaidas, susidarančias dėl neįgalių darbuotojų darbo, skiriama subsidija papildomoms administracinėms išlaidoms kompensuoti.
 
-2. Jeigu socialinė įmonė organizuoja šioje įmonėje dirbančių neįgalių darbuotojų, turinčių I ar II invalidumo grupę, vežimą į darbą ir iš darbo ir šių neįgaliųjų skaičius yra ne mažesnis kaip keturi, šiai įmonei gali būti skiriama subsidija jos transporto kuro išlaidoms kompensuoti. 
+2. Jeigu socialinė įmonė organizuoja joje dirbančių neįgalių darbuotojų, turinčių I ar II invalidumo grupę arba vidutinį neįgalumo lygį, ar neįgalių darbuotojų, kuriems nustatytas 30–55 procentų darbingumo lygis, vežimą į darbą ir iš darbo, taip pat šių neįgalių darbuotojų, sudarius su jais namudinio darbo sutartis, darbui namuose reikalingų medžiagų, detalių, gaminių ir kt. vežimą į namus ir iš namų, šiai įmonei gali būti skiriama subsidija jos transporto kuro išlaidoms kompensuoti.
+Straipsnio dalies pakeitimai:
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
+ 
 
 3. Šio straipsnio 1 ir 2 dalyse nurodytos kiekvienos subsidijos dydis gali sudaryti ne daugiau kaip 70 procentų visų reikalingų išlaidų.
  
 
 19 straipsnis. Subsidija asistento (gestų kalbos vertėjo) išlaidoms kompensuoti
 
-1. Kadangi I ar II invalidumo grupę turintiems neįgaliųjų socialinių įmonių darbuotojams darbo funkcijoms atlikti būtina asistento pagalba, tai šioms išlaidoms kompensuoti skiriama subsidija. 
+1. Kadangi I ar II invalidumo grupę arba vidutinį neįgalumo lygį turintiems neįgaliems darbuotojams ar neįgaliems darbuotojams, kuriems nustatytas 30–55 procentų darbingumo lygis, darbo funkcijoms atlikti būtina asistento (gestų kalbos vertėjo) pagalba, tai šioms išlaidoms kompensuoti skiriama subsidija. 
 
-2. Šio straipsnio 1 dalyje nurodyta subsidija sudaro 30 procentų subsidijos skyrimo mėnesį galiojančios Vyriausybės patvirtintos minimalios mėnesinės algos dydžio už kiekvieną I invalidumo grupę turintį neįgalų darbuotoją ir 20 procentų – už kiekvieną II invalidumo grupę turintį neįgalų darbuotoją, atsižvelgiant į faktiškai dirbtą laiką.
+2. Šio straipsnio 1 dalyje nurodyta subsidija sudaro 30 procentų subsidijos skyrimo mėnesį galiojančio Vyriausybės patvirtinto minimalaus valandinio atlygio dydžio už kiekvieną I invalidumo grupę arba vidutinį neįgalumo lygį turintį neįgalų darbuotoją ar neįgalų darbuotoją, kuriam nustatytas 30–40 procentų darbingumo lygis, ir 20 procentų už kiekvieną II invalidumo grupę turintį neįgalų darbuotoją arba neįgalų darbuotoją, kuriam nustatytas 45–55 procentų darbingumo lygis, atsižvelgiant į  neįgalaus darbuotojo faktiškai dirbtą laiką.
+
+Straipsnio pakeitimai:
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
  
 
 20 straipsnis. Valstybės pagalbos skyrimo ir mokėjimo tvarka
@@ -461,4 +494,13 @@ priedas
 1. 2001 m. sausio 12 d. Europos Komisijos reglamentas (EB) Nr. 68/2001 „Dėl EB sutarties 87 ir 88 straipsnių taikymo pagalbai mokymui“.
 
 2. 2002 m. gruodžio 12 d. Europos Komisijos reglamentas (EB) Nr. 2204/2002 „Dėl EB sutarties 87 ir 88 straipsnių taikymo valstybės pagalbai, teikiamai užimtumui“.
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
+Lietuvos Respublikos socialinių įmonių įstatymo 3, 4, 8, 10, 14, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
 
