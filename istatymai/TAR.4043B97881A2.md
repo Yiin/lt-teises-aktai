@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4043B97881A2"
 
 # Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2005-07-13
+Suvestinė redakcija nuo 2005-07-14 iki 2005-07-15
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1290, i. k. 0951010ISTA000I-924
  
@@ -145,8 +145,10 @@ Specialiųjų mokyklų, vaikų darželių, specialiųjų grupių (klasių) švie
 
 
 
-6 straipsnis. Psichikos invalidai yra globojami valstybės. Jiems Lietuvos Respublikos įstatymų nustatyta tvarka yra teikiama socialinė parama. Psichikos invalidų sveikatos priežiūra finansuojama Lietuvos Respublikos įstatymų nustatyta tvarka.
-Savivaldybė organizuoja ir remia psichikos invalidų slaugą ir globą šeimose, sveikatos priežiūros įstaigose, psichikos sveikatos centruose ir kitose globos bei reabilitacijos įstaigose.
+6 straipsnis. Žmonės su psichine negalia yra globojami valstybės. Jiems Lietuvos Respublikos įstatymų nustatyta tvarka yra teikiama socialinė parama. Žmonių su psichine negalia sveikatos priežiūra finansuojama Lietuvos Respublikos įstatymų nustatyta tvarka.
+Savivaldybė organizuoja ir remia žmonių su psichine negalia slaugą ir globą šeimose, sveikatos priežiūros įstaigose, psichikos sveikatos centruose ir kitose globos bei reabilitacijos įstaigose.
+Straipsnio pakeitimai:
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
  
 
 
@@ -558,3 +560,8 @@ Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 1, 4, 14, 15, 16
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1444, 2003-04-03, Žin., 2003, Nr. 38-1689 (2003-04-24), i. k. 1031010ISTA0IX-1444
 Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo IX skyriaus pavadinimo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
+Lietuvos Respublikos medicinos praktikos įstatymo, Odontologijos praktikos įstatymo, Sveikatos sistemos įstatymo, Psichikos sveikatos priežiūros įstatymo, Narkologinės priežiūros įstatymo pakeitimo įstatymas
