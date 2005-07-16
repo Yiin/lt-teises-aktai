@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4043B97881A2"
 
 # Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2005-07-14 iki 2005-07-15
+Suvestinė redakcija nuo 2005-07-16 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1290, i. k. 0951010ISTA000I-924
  
@@ -372,8 +372,10 @@ Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA
 28 straipsnis. Esant šio įstatymo 27 straipsnyje nurodytoms aplinkybėms, pacientas gali būti priverstinai hospitalizuotas ir priverstinai gydomas psichiatrijos įstaigoje ne ilgiau kaip dvi paras be teismo leidimo. Jeigu per dvi paras teismas leidimo neduoda, priverstinis hospitalizavimas ir priverstinis gydymas turi būti nutraukti. Apie priverstinį hospitalizavimą psichiatrijos įstaigos administracija nedelsdama praneša paciento atstovui.
 Kai pacientas priverstinai hospitalizuojamas, psichiatrijos įstaigos administracija privalo ne vėliau kaip per 2 paras kreiptis į teismą. Teismas, apsvarstęs psichiatrų rekomendacijas, turi teisę priimti sprendimą dėl paciento priverstinio hospitalizavimo ir priverstinio gydymo pratęsimo, bet ne ilgiau kaip vienam mėnesiui nuo priverstinio hospitalizavimo pradžios. Pagal psichiatro rekomendacijas psichiatrijos įstaigos administracija turi teisę nutraukti paciento priverstinį hospitalizavimą ir priverstinį gydymą anksčiau. 
 Jeigu paciento priverstinį hospitalizavimą ir priverstinį gydymą reikia pratęsti, psichiatrijos įstaigos administracija dėl šio pratęsimo privalo kreiptis į teismą. Teismas pagal psichiatrijos įstaigos išvadą gali priverstinį paciento hospitalizavimą ir priverstinį gydymą nutraukti arba pratęsti, bet kiekvieną kartą ne daugiau kaip 6 mėnesiams. Pagal gydančiojo psichiatro rekomendaciją psichiatrijos įstaigos administracija paciento priverstinį hospitalizavimą ir priverstinį gydymą turi teisę nutraukti ir anksčiau. 
+Kai sprendžiami sunkiomis psichikos ligomis sergančių pacientų priverstinio hospitalizavimo ir priverstinio gydymo klausimai, psichiatrijos įstaigos administracija privalo kreiptis dėl antrinės teisinės pagalbos pacientui suteikimo, jei tokiam pacientui neatstovauja jo atstovas.
 Straipsnio pakeitimai:
 Nr. IX-429, 2001-07-05, Žin., 2001, Nr. 64-2326 (2001-07-25), i. k. 1011010ISTA00IX-429
+Nr. X-309, 2005-07-05, Žin., 2005, Nr. 86-3208 (2005-07-16), i. k. 1051010ISTA000X-309
  
 
 
@@ -565,3 +567,8 @@ Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo IX skyriaus pava
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
 Lietuvos Respublikos medicinos praktikos įstatymo, Odontologijos praktikos įstatymo, Sveikatos sistemos įstatymo, Psichikos sveikatos priežiūros įstatymo, Narkologinės priežiūros įstatymo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-309, 2005-07-05, Žin., 2005, Nr. 86-3208 (2005-07-16), i. k. 1051010ISTA000X-309
+Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 28 straipsnio papildymo įstatymas
