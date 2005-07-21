@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2003-11-19 iki 2005-07-20
+Suvestinė redakcija nuo 2005-07-21 iki 2007-01-29
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
  
@@ -30,9 +30,10 @@ SKELBIMAS IR ĮSIGALIOJIMAS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis Įstatymas nustato Lietuvos Respublikos įstatymų, kitų Lietuvos Respublikos Seimo priimtų teisės aktų, Respublikos Prezidento dekretų, Lietuvos Respublikos Vyriausybės nutarimų, Lietuvos Respublikos Konstitucinio Teismo sprendimų, nutarimų, išvadų, Konstitucinio Teismo pirmininko potvarkių, kitų valstybės valdžios bei valdymo institucijų priimamų teisės aktų oficialaus skelbimo ir jų įsigaliojimo tvarką. 
+1. Šis Įstatymas nustato Lietuvos Respublikos įstatymų, kitų Lietuvos Respublikos Seimo priimtų teisės aktų, Respublikos Prezidento dekretų, Lietuvos Respublikos Vyriausybės nutarimų, sprendimų ir rezoliucijų, Lietuvos Respublikos Konstitucinio Teismo sprendimų, nutarimų, išvadų, Konstitucinio Teismo pirmininko potvarkių, kitų valstybės valdžios bei valdymo institucijų priimamų teisės aktų oficialaus skelbimo ir jų įsigaliojimo tvarką. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
+Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA000X-331
  
 
 2. Šiame Įstatyme nustatoma oficialaus leidinio „Valstybės žinios“ struktūra, „Valstybės žinių“ skyriuose skelbiamų teisės aktų rūšys bei pasirašytų įstatymų ir kitų teisės aktų pateikimo „Valstybės žinių“ redakcijai tvarka.
@@ -40,7 +41,10 @@ Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010IS
 
 2 straipsnis. Įstatymų ir kitų teisės aktų oficialus paskelbimas ir jų oficialus tekstas
 
-1. Oficialus įstatymų ir kitų teisės aktų paskelbimas yra jų paskelbimas leidinyje „Valstybės žinios“. Paskelbimo „Valstybės žiniose“ diena yra jų išleidimo diena. Ji nurodoma kiekvieno leidinio pirmajame puslapyje.
+1. Oficialus įstatymų ir kitų teisės aktų paskelbimas yra jų paskelbimas leidinyje „Valstybės žinios“. Paskelbimo „Valstybės žiniose“ diena yra jų išleidimo diena. Ji nurodoma kiekvieno leidinio pirmajame puslapyje. Šio Įstatymo nustatytais atvejais oficialus kitų teisės aktų paskelbimas yra jų paskelbimas visuomenės informavimo priemonėse ar atitinkamos institucijos interneto tinklalapyje, taip pat jų išsiuntimas institucijoms, kurios įstatymų nustatyta tvarka gali disponuoti valstybės ar tarnybos paslaptį sudarančia informacija. 
+Straipsnio dalies pakeitimai:
+Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA000X-331
+ 
 
 2. Oficialus įstatymo ar kito teisės akto tekstas yra tas, kurį prieš paskelbimą pasirašo pareigūnas, turintis šią teisę pagal įstatymus.
  
@@ -51,7 +55,10 @@ Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010IS
 
 1) Lietuvos Respublikos įstatymai;
 
-2) Lietuvos Respublikos tarptautinės sutartys;
+2) Lietuvos Respublikos tarptautinės sutartys, išskyrus Europos Bendrijų ir Lietuvos Respublikos, kaip Europos Sąjungos valstybės narės, atstovaujančių vienai tarptautinės sutarties šaliai, tarptautines sutartis (tarptautines mišriąsias sutartis), skelbiamas lietuvių kalba Europos Sąjungos oficialiajame leidinyje; 
+Straipsnio punkto pakeitimai:
+Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA000X-331
+ 
 
 3) Respublikos Prezidento dekretai;
 
@@ -117,11 +124,16 @@ Papildyta straipsnio dalimi:
 Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
  
 
-9 straipsnis. Vyriausybės nutarimų ir Ministro Pirmininko potvarkių įsigaliojimas
+9 straipsnis. Vyriausybės nutarimų, Vyriausybės sprendimų, Vyriausybės  rezoliucijų ir Ministro Pirmininko potvarkių įsigaliojimas
 
-1. Vyriausybės nutarimai įsigalioja kitą dieną po to, kai jie Ministro Pirmininko ir atitinkamo ministro pasirašyti paskelbiami „Valstybės žiniose“, jeigu pačiuose nutarimuose nenustatyta vėlesnė jų įsigaliojimo data.
+1. Vyriausybės nutarimai įsigalioja kitą dieną po to, kai jie Ministro Pirmininko ir atitinkamo ministro pasirašyti, paskelbiami „Valstybės žiniose“, jeigu pačiuose nutarimuose nenustatyta vėlesnė jų įsigaliojimo data. Kai Lietuvos Respublikos teisės aktuose numatytus sprendimus reikia priimti nedelsiant, Vyriausybės nutarimai įsigalioja po jų paskelbimo visuomenės informavimo priemonėse. Šie nutarimai taip pat turi būti paskelbiami ir „Valstybės žiniose“.
 
-2. Ministro Pirmininko potvarkiai įsigalioja jų pasirašymo dieną, jeigu pačiuose potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data. Ministro Pirmininko potvarkiai, paskelbti „Valstybės žiniose“, įsigalioja kitą dieną po jų paskelbimo, jeigu pačiuose potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data. 
+2. Vyriausybės sprendimai ir Vyriausybės rezoliucijos įsigalioja jų pasirašymo dieną.
+
+3. Ministro Pirmininko potvarkiai įsigalioja jų pasirašymo dieną, jeigu pačiuose potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data. Ministro Pirmininko potvarkiai, paskelbti „Valstybės žiniose“, įsigalioja kitą dieną po jų paskelbimo, jeigu pačiuose potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data. 
+
+Straipsnio pakeitimai:
+Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA000X-331
  
 
 10 straipsnis. Konstitucinio Teismo aktų ir Konstitucinio Teismo pirmininko potvarkių įsigaliojimas
@@ -138,21 +150,38 @@ Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010IS
 
 1. Ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų ir kolegialių institucijų norminiai teisės aktai įsigalioja kitą dieną po jų paskelbimo „Valstybės žiniose“, jeigu pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo data. 
 
-2. Šiame straipsnyje nurodytų valstybės institucijų vadovų bei kolegialių institucijų norminiai teisės aktai negalioja, kol jie nepaskelbti „Valstybės žiniose“.
+2. Šio straipsnio 1 dalyje nurodytų valstybės institucijų vadovų bei kolegialių institucijų norminiai teisės aktai negalioja, kol jie nepaskelbti „Valstybės žiniose 
+Straipsnio dalies pakeitimai:
+Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA000X-331
  
 
-12 straipsnis. Aukštesniųjų administracinių vienetų valdymo institucijų, savivaldybių ir jų vykdomųjų institucijų priimtų norminių teisės aktų įsigaliojimas 
-
-Aukštesniųjų administracinių vienetų valdymo institucijų, savivaldybių ir jų vykdomųjų institucijų priimti norminiai teisės aktai įsigalioja kitą dieną po jų paskelbimo vietinėje spaudoje, jeigu pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo data.
+3. Ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų ir kolegialių institucijų individualūs teisės aktai įsigalioja jų pasirašymo dieną, jeigu pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo data. Jeigu šie teisės aktai šio Įstatymo 3 straipsnio 3 dalyje nustatyta tvarka skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“, jie įsigalioja kitą dieną po jų paskelbimo, jei pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo data. 
+Papildyta straipsnio dalimi:
+Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA000X-331
  
 
-13 straipsnis. Teisės aktų paskelbimas interneto tinklapiuose
+12 straipsnis. Apskričių viršininkų, savivaldybių atstovaujamųjų ir vykdomųjų institucijų bei savivaldybių merų teisės aktų įsigaliojimas
 
-1. Šio Įstatymo 3 straipsnyje nurodyti teisės aktai per 3 dienas nuo jų oficialaus paskelbimo „Valstybės žiniose“ turi būti paskelbti Seimo ir juos priėmusios institucijos interneto tinklapiuose.
+1. Savivaldybių atstovaujamųjų institucijų priimti norminiai teisės aktai įsigalioja kitą dieną po jų paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus informacinio pranešimo vietinėje spaudoje apie norminio teisės akto priėmimą ir viso norminio teisės akto teksto paskelbimo atitinkamos savivaldybės interneto tinklalapyje, jeigu pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo data. Oficialiame informaciniame pranešime apie teisės akto priėmimą nurodoma teisės akto priėmimo data, numeris, antraštė, jei ji yra, išdėstoma priimto sprendimo esmė ir nurodomas interneto tinklalapio, kuriame paskelbtas teisės aktas, adresas.
 
-2. Šio Įstatymo 4 straipsnio 1 dalyje nurodyti teisės aktai per 3 dienas nuo jų įsigaliojimo dienos turi būti paskelbti jį priėmusios institucijos interneto tinklapyje.
+2. Apskričių viršininkų, savivaldybių atstovaujamųjų ir vykdomųjų institucijų bei savivaldybių merų priimti individualūs teisės aktai įsigalioja jų pasirašymo dieną, jeigu pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo data. 
 
-3. Teisės aktai, kuriuose yra valstybės ar tarnybos paslaptį sudarančios informacijos, interneto tinklapiuose neskelbiami.
+Straipsnio pakeitimai:
+Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA000X-331
+ 
+
+13 straipsnis. Teisės aktų paskelbimas interneto tinklalapiuose
+
+1. Šio Įstatymo 3 straipsnyje nurodyti teisės aktai per 3 dienas nuo jų oficialaus paskelbimo „Valstybės žiniose“ turi būti paskelbti Seimo ir juos priėmusios institucijos interneto tinklalapiuose.
+
+2. Šio Įstatymo 4 straipsnio 1 dalyje nurodyti teisės aktai per 3 dienas nuo jų įsigaliojimo dienos turi būti paskelbti jį priėmusios institucijos interneto tinklalapyje.
+
+3. Šio Įstatymo 9 straipsnio 2 dalyje nurodyti teisės aktai jų pasirašymo dieną turi būti paskelbti Lietuvos Respublikos Vyriausybės interneto tinklalapyje (www.lrv.lt).
+
+4. Teisės aktai, kuriuose yra valstybės ar tarnybos paslaptį sudarančios informacijos, interneto tinklalapiuose neskelbiami. 
+
+Straipsnio pakeitimai:
+Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA000X-331
  
 
 ANTRASIS SKIRSNIS
@@ -365,4 +394,9 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos įstatymų ir kitų te
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010ISTA0IX-1796
 Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 1, 3, 4, 8, 10, 17, 18, 19, 23 straipsnių pakeitimo ir papildymo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA000X-331
+Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 1, 2, 3, 9, 11, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
 
