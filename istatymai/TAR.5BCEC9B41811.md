@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5BCEC9B41811"
 
 # Lietuvos Respublikos tarptautinių sutarčių įstatymas
 
+Suvestinė redakcija nuo 2005-07-21 iki 2012-06-30
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 60-1948, i. k. 0991010ISTAIII-1248
+ 
+ 
 LIETUVOS RESPUBLIKOS TARPTAUTINIŲ SUTARČIŲ ĮSTATYMAS
  
 1999 m. birželio 22 d. Nr. VIII-1248
@@ -32,7 +37,9 @@ I. BENDROSIOS NUOSTATOS
 
 
 
-2. Lietuvos Respublikos ministerijų ar Vyriausybės įstaigų bei kitų valstybės institucijų vardu ir pagal jų kompetenciją sudaromi su atitinkamomis užsienio valstybių ar organizacijų institucijomis susitarimai nėra Lietuvos Respublikos tarptautinės sutartys. Jų rengimo bei sudarymo tvarką nustato Lietuvos Respublikos Vyriausybė. Šios sutartys registruojamos atskirame registre, kurio tvarkytoja yra Užsienio reikalų ministerija.
+2. Lietuvos Respublikos ministerijų ar Vyriausybės įstaigų bei kitų valstybės institucijų vardu ir pagal jų kompetenciją sudaromi su atitinkamomis užsienio valstybių ar organizacijų institucijomis susitarimai nėra Lietuvos Respublikos tarptautinės sutartys. Jų rengimo bei sudarymo tvarką nustato Lietuvos Respublikos Vyriausybė. Informacija apie šiuos susitarimus turi būti pateikta Lietuvos Respublikos užsienio reikalų ministerijai, kur ji turi būti kaupiama ir tvarkoma.
+Straipsnio dalies pakeitimai:
+Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA000X-332
  
 
 
@@ -76,7 +83,17 @@ Lietuvos Respublikos tarptautinių sutarčių sudarymo iniciatyvos teisę turi L
 
 
 
-2. Priimant sprendimą dėl Lietuvos Respublikos tarptautinės sutarties sudarymo tikslingumo turi būti apsvarstyta, ar šios sutarties projekto nuostatos atitinka Lietuvos Respublikos Konstituciją, Lietuvos Respublikos užsienio politikos ir nacionalinio saugumo pagrindus ir tikslus, šio įstatymo reikalavimus, tarptautinės teisės principus ir normas. 
+2. Sprendimai dėl Europos Bendrijų ir Lietuvos Respublikos, kaip Europos Sąjungos valstybės narės, atstovaujančių vienai tarptautinės sutarties šaliai, tarptautinių sutarčių (toliau – tarptautinės mišriosios sutartys) sudarymo tikslingumo priimami vadovaujantis Lietuvos Respublikos Konstituciniu aktu „Dėl Lietuvos Respublikos narystės Europos Sąjungoje“, įstatymais ir kitais teisės aktais, reglamentuojančiais Lietuvos Respublikos pozicijos dėl Europos Sąjungos institucijose svarstomų teisės aktų ir dokumentų projektų rengimą ir derinimą. 
+Papildyta straipsnio dalimi:
+Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA000X-332
+ 
+
+
+
+
+3. Priimant sprendimą dėl Lietuvos Respublikos tarptautinės sutarties sudarymo tikslingumo turi būti apsvarstyta, ar šios sutarties projekto nuostatos atitinka Lietuvos Respublikos Konstituciją, Lietuvos Respublikos užsienio politikos ir nacionalinio saugumo pagrindus ir tikslus, šio įstatymo reikalavimus, tarptautinės teisės principus ir normas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA000X-332
  
 
 
@@ -108,25 +125,42 @@ Lietuvos Respublikos tarptautinių sutarčių sudarymo iniciatyvos teisę turi L
 6 straipsnis. Įgaliojimų sudaryti Lietuvos Respublikos tarptautines sutartis suteikimo tvarka
 
 
-1. Priėmus sprendimą dėl tarptautinės sutarties sudarymo šio įstatymo 4 straipsnyje nustatyta tvarka, įgaliojimus atlikti veiksmus, susijusius su šio įstatymo 7 straipsnyje nurodytų Lietuvos Respublikos tarptautinių sutarčių sudarymu, suteikia Lietuvos Respublikos Prezidentas Vyriausybės teikimu ar Lietuvos Respublikos Prezidento pavedimu Ministras Pirmininkas. Įgaliojimus atlikti veiksmus, susijusius su Lietuvos Respublikos tarptautinių sutarčių sudarymu, išskyrus šio įstatymo 7 straipsnyje nurodytas sutartis, suteikia Lietuvos Respublikos Ministras Pirmininkas, ministerijos ar Vyriausybės įstaigos, kurios kompetencijai priklauso sutartį rengti, teikimu, esant Užsienio reikalų ministerijos pritarimui.
+1. Įgaliojimus atlikti veiksmus, susijusius su šio įstatymo 7 straipsnyje nurodytų Lietuvos Respublikos tarptautinių sutarčių, išskyrus tarptautines mišriąsias sutartis, sudarymu, suteikia Lietuvos Respublikos Prezidentas Vyriausybės teikimu. 
 
 
 
 
-2. Įgaliojimus sudaryti Lietuvos Respublikos tarptautines sutartis, kurioms netaikomas šio įstatymo 9 straipsnio 1 dalyje numatytas tvirtinimas, suteikia Lietuvos Respublikos Vyriausybė ministerijos ar Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu, esant Užsienio reikalų ministerijos pritarimui.
+2. Įgaliojimus atlikti veiksmus, susijusius su tarptautinių mišriųjų sutarčių sudarymu, suteikia Lietuvos Respublikos Ministras Pirmininkas pritarus Lietuvos Respublikos Prezidentui, ministerijos ar Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu bei Užsienio reikalų ministerijos pritarimu.
 
 
 
 
-3. Įgaliojamuosius raštus išduoda Lietuvos Respublikos užsienio reikalų ministerija Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+3. Įgaliojimus atlikti veiksmus, susijusius su Lietuvos Respublikos tarptautinėmis sutartimis, kurioms Lietuvos Respublikos Konstitucija, šis įstatymas arba pati tarptautinė sutartis nenumato ratifikavimo procedūros, tačiau kurių sudarymą pagal šio įstatymo 9 straipsnyje nustatytą tvarką tvirtina Lietuvos Respublikos Vyriausybė, suteikia Lietuvos Respublikos Ministras Pirmininkas ministerijos ar Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu, pritarus Užsienio reikalų ministerijai.
 
 
 
 
-4. Įgaliojamieji raštai registruojami Lietuvos Respublikos įgaliojamųjų raštų registre Lietuvos Respublikos užsienio reikalų ministerijoje.
+4. Įgaliojimus sudaryti Lietuvos Respublikos tarptautines sutartis, kurios įsigalioja nuo pasirašymo dienos, suteikia Lietuvos Respublikos Vyriausybė ministerijos ar Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu, pritarus Užsienio reikalų ministerijai.
+
+
+
+
+5. Sudaryti tarptautines sutartis, kurios įsigalioja nuo pasikeitimo diplomatinėmis notomis dienos, Lietuvos Respublikos Vyriausybės nutarimu pavedama Užsienio reikalų ministerijai.
+
+
+
+
+6. Suteikus šio straipsnio 1–4 dalyse nurodytus įgaliojimus, įgaliojamuosius raštus išduoda Užsienio reikalų ministerija. 
+
+
+
+
+7. Informacija apie įgaliojamuosius raštus kaupiama ir tvarkoma Užsienio reikalų ministerijoje.
+
+
+Straipsnio pakeitimai:
+Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA000X-332
  
-
-
 
 
 
@@ -211,7 +245,10 @@ Lietuvos Respublikos tarptautinių sutarčių sudarymo iniciatyvos teisę turi L
 9 straipsnis. Lietuvos Respublikos tarptautinių sutarčių tvirtinimas
 
 
-1. Lietuvos Respublikos tarptautines sutartis, kurioms Lietuvos Respublikos Konstitucija ir šis įstatymas nenumato ratifikavimo procedūros, jeigu pačioje sutartyje nenumatyta kitaip, ir kurioms sudaryti įgaliojimai nebuvo išduoti šio įstatymo 6 straipsnio 2 dalyje nustatyta tvarka, tvirtina Lietuvos Respublikos Vyriausybė.
+1. Lietuvos Respublikos tarptautines sutartis, kurioms Lietuvos Respublikos Konstitucija, šis įstatymas arba pati sutartis nenumato ratifikavimo procedūros, tvirtina Lietuvos Respublikos Vyriausybė. Šis reikalavimas netaikomas šio įstatymo 6 straipsnio 4 ir 5 dalyse nurodytoms Lietuvos Respublikos tarptautinėms sutartims.
+Straipsnio dalies pakeitimai:
+Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA000X-332
+ 
 
 
 
@@ -321,13 +358,15 @@ IV. BAIGIAMOSIOS NUOSTATOS
  
 
 
-15 straipsnis. Lietuvos Respublikos tarptautinių sutarčių registravimas
+15 straipsnis. Informacijos apie Lietuvos Respublikos tarptautines sutartis tvarkymas
 
 
-Visos Lietuvos Respublikos tarptautinės sutartys registruojamos Lietuvos Respublikos tarptautinių sutarčių registre Lietuvos Respublikos užsienio reikalų ministerijoje.
+Informacija apie visas Lietuvos Respublikos tarptautines sutartis yra kaupiama ir tvarkoma Užsienio reikalų ministerijoje.
+
+
+Straipsnio pakeitimai:
+Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA000X-332
  
-
-
 
 
 
@@ -335,10 +374,17 @@ Visos Lietuvos Respublikos tarptautinės sutartys registruojamos Lietuvos Respub
 16 straipsnis. Lietuvos Respublikos tarptautinių sutarčių skelbimas
 
 
-Lietuvos Respublikos tarptautinės sutartys Užsienio reikalų ministerijos teikimu skelbiamos „Valstybės žiniose“.
+1. Lietuvos Respublikos tarptautinės sutartys Užsienio reikalų ministerijos teikimu skelbiamos „Valstybės žiniose“.
+
+
+
+
+2. „Valstybės žiniose“ skelbiami tik tarptautinių mišriųjų sutarčių ratifikavimo įstatymai. Tarptautinės mišriosios sutartys, kurios skelbiamos lietuvių kalba Europos Sąjungos oficialiajame leidinyje, „Valstybės žiniose“ papildomai neskelbiamos.
+
+
+Straipsnio pakeitimai:
+Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA000X-332
  
-
-
 
 
 
@@ -372,3 +418,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA000X-332
+Lietuvos Respublikos tarptautinių sutarčių įstatymo 1, 4, 6, 9, 15, 16 straipsnių pakeitimo ir papildymo įstatymas
