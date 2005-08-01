@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F"
 
 # Lietuvos Respublikos aukštojo mokslo įstatymas
 
-Suvestinė redakcija nuo 2003-05-14 iki 2005-07-31
+Suvestinė redakcija nuo 2005-08-01 iki 2006-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 27-715, i. k. 1001010ISTAIII-1586
  
@@ -178,15 +178,35 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 2. Aukštosios mokyklos gali būti valstybinės ir nevalstybinės.
 
-3. Aukštoji mokykla organizuoja studijas, teikia kvalifikacijas, kurioms įgyti būtinas aukštasis išsilavinimas, vykdo mokslinius tyrimus ir (ar) taiko mokslinių tyrimų rezultatus, kaupia mokslo žinias, plėtoja kūrybinę veiklą bei kultūrą, puoselėja akademinės bendruomenės tradicijas.
+3. Nevalstybinė aukštoji mokykla gali pakeisti tipą Vyriausybės nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
-4. Aukštosios mokyklos veikla grindžiama mokslo (meno) ir studijų vienove, akademine laisve ir autonomija, kurią nustato įstatymai ir aukštosios mokyklos statutas.
+4. Aukštoji mokykla organizuoja studijas, teikia kvalifikacijas, kurioms įgyti būtinas aukštasis išsilavinimas, vykdo mokslinius tyrimus ir (ar) taiko mokslinių tyrimų rezultatus, kaupia mokslo žinias, plėtoja kūrybinę veiklą bei kultūrą, puoselėja akademinės bendruomenės tradicijas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
-5. Aukštoji mokykla turi turėti studijų krypties reglamento nustatytos kvalifikacijos akademinį ir profesinį personalą, auditorijų, laboratorijų, biblioteką, mokslo ar meno kūrybinės veiklos bei mokomųjų ir informacinių priemonių, reikalingų atitinkamoms studijų programoms įgyvendinti. Šios priemonės turi atitikti aukštosios mokyklos teikiamas kvalifikacijas.
+5. Aukštosios mokyklos veikla grindžiama mokslo (meno) ir studijų vienove, akademine laisve ir autonomija, kurią nustato įstatymai ir aukštosios mokyklos statutas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
-6. Aukštoji mokykla gali steigti savo veiklai reikalingus padalinius – fakultetus, institutus, katedras, laboratorijas, gamybinius ir kitus padalinius.
+6. Aukštoji mokykla turi turėti studijų krypties reglamento nustatytos kvalifikacijos akademinį ir profesinį personalą, auditorijų, laboratorijų, biblioteką, mokslo ar meno kūrybinės veiklos bei mokomųjų ir informacinių priemonių, reikalingų atitinkamoms studijų programoms įgyvendinti. Šios priemonės turi atitikti aukštosios mokyklos teikiamas kvalifikacijas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
-7. Valstybinė aukštoji mokykla, vykdydama savo funkcijas, turi:
+7. Aukštoji mokykla gali steigti savo veiklai reikalingus padalinius – fakultetus, institutus, katedras, laboratorijas, gamybinius ir kitus padalinius.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
+
+8. Valstybinė aukštoji mokykla, vykdydama savo funkcijas, turi:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 1) visiems Lietuvos nuolatiniams gyventojams pagal jų sugebėjimus ir žinias sudaryti vienodas galimybes įgyti aukštąjį išsilavinimą; 
 
@@ -194,13 +214,17 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 3) periodiškai analizuoti pagrindinių savo sričių veiklą ir ją tobulinti;
 
-4) informuoti visuomenę ir valdžios bei valdymo institucijas apie savo veiklą, studijų kokybės užtikrinimo priemones ir lėšų naudojimą; 
+4) informuoti steigėjus ir visuomenę apie savo veiklą, studijų kokybės užtikrinimo priemones ir lėšų naudojimą; 
+Straipsnio punkto pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 5) teikti studentams konsultacijas dėl įsidarbinimo.
 
-8. Valstybinė aukštoji mokykla yra ne pelno siekianti valstybės įstaiga, turinti Lietuvos Respublikos Konstitucijos bei šio įstatymo nustatytą specialų statusą. 
+9. Valstybinė aukštoji mokykla yra viešasis juridinis asmuo, veikiantis kaip biudžetinė arba viešoji įstaiga, turinti Lietuvos Respublikos Konstitucijos ir šio įstatymo nustatytą specialų statusą. Nevalstybinė aukštoji mokykla yra viešasis arba privatus juridinis asmuo. Jo teisinę veiklos formą pasirenka steigėjas.
 Straipsnio dalies pakeitimai:
 Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
  
 
 6 straipsnis. Universitetas
@@ -287,7 +311,9 @@ Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA0
 
 4. Valstybinio universiteto statutą ir jo pakeitimus ar papildymus tvirtina Seimas, valstybinės kolegijos statutą ir jo pakeitimus ar papildymus – Vyriausybė. 
 
-5. Nevalstybinės aukštosios mokyklos statutas priimamas jos steigėjo nustatyta tvarka, o keičiamas – statute nustatyta tvarka. Nevalstybinės aukštosios mokyklos statutą registruoja Ministerija.
+5. Nevalstybinės aukštosios mokyklos statutas priimamas jos steigėjo nustatyta tvarka, o keičiamas – statute nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
  
 
 9 straipsnis. Aukštųjų mokyklų autonomija
@@ -353,9 +379,12 @@ Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA0
 5. Universitetų teritorijoje valstybės valdžios ir valdymo ar vietos savivaldos institucijos negali atlikti darbų (išskyrus neatidėliotinus avarinius darbus) be rektoriaus arba jo įgalioto asmens leidimo.
  
 
-12 straipsnis. Aukštųjų mokyklų ir studijų programų registrai
+12 straipsnis. Studijų ir mokymo programų registras
 
-Švietimo įstaigų bei mokslo ir studijų institucijų valstybės registrą bei Studijų ir mokymo programų registrą steigia Vyriausybė. Šiuos registrus tvarko Ministerija.
+Studijų ir mokymo programų registrą steigia Vyriausybė. Šį registrą tvarko Ministerija.
+
+Straipsnio pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
  
 
 II skirsnis
@@ -372,9 +401,11 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 3. Valstybinis universitetas steigiamas tik universiteto padalinio, veikiančios aukštosios mokyklos ar kelių veikiančių aukštųjų mokyklų reorganizavimo būdu.
 
-4. Nevalstybinę aukštąją mokyklą ar užsienio šalies aukštosios mokyklos filialą gali steigti tik juridinis asmuo (išskyrus Lietuvos Respublikos valstybines aukštąsias mokyklas), turintis materialinę bazę, būtiną aukštosios mokyklos veiklai užtikrinti, ir Vyriausybės nustatyta tvarka gavęs leidimą vykdyti studijas. Ministerija Vyriausybės nustatyta tvarka teikia Vyriausybei išvadą dėl leidimo steigti aukštąją mokyklą išdavimo arba informuoja pareiškėjus apie neigiamo sprendimo priėmimo priežastis. 
+4. Nevalstybinę aukštąją mokyklą ar užsienio aukštosios mokyklos filialą gali steigti tik juridinis asmuo (išskyrus Lietuvos Respublikos valstybines aukštąsias mokyklas), turintis materialinę bazę, būtiną aukštosios mokyklos veiklai užtikrinti, ir Vyriausybės nustatyta tvarka gavęs leidimą vykdyti studijas. Ministerija Vyriausybės nustatyta tvarka teikia Vyriausybei išvadą dėl pritarimo išduoti leidimą vykdyti studijas arba informuoja pareiškėjus apie neigiamo sprendimo priėmimo priežastis.
 Papildyta straipsnio dalimi:
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
  
 
 5. Asmenų vykdoma su studijomis susijusi veikla be Vyriausybės leidimo yra neteisėta. Ši veikla įstatymų nustatyta tvarka nutraukiama, o asmenys traukiami administracinėn atsakomybėn.
@@ -414,7 +445,10 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 16 straipsnis. Aukštosios mokyklos veiklos pradžia
 
-1. Aukštoji mokykla turi teisę pradėti savo veiklą nuo jos ir studijų programų įregistravimo Švietimo įstaigų bei mokslo ir studijų institucijų valstybės registre bei Studijų ir mokymo programų registre dienos. Nauja aukštoji mokykla registruojama Švietimo įstaigų bei mokslo ir studijų institucijų valstybės registre po to, kai Vyriausybės ar jos įgaliotos institucijos sudaryta komisija patvirtina, kad sąlygos, kurios buvo nurodytos priimant nutarimą steigti aukštąją mokyklą ar išduoti licenciją, yra įvykdytos.
+1. Aukštoji mokykla turi teisę pradėti savo veiklą nuo jos ir studijų programų įregistravimo juridinių asmenų registre bei Studijų ir mokymo programų registre dienos. Nauja aukštoji mokykla registruojama juridinių asmenų registre po to, kai Vyriausybės ar jos įgaliotos institucijos sudaryta komisija patvirtina, kad sąlygos, kurios buvo nurodytos priimant nutarimą steigti aukštąją mokyklą ar pritarti, kad būtų išduotas leidimas vykdyti studijas, yra įvykdytos. 
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 2. Ne vėliau kaip po ketverių metų nuo aukštosios mokyklos veiklos pradžios Studijų kokybės vertinimo centras vertina aukštosios mokyklos veiklą.
 Straipsnio dalies pakeitimai:
@@ -423,7 +457,9 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 3. Jei veikla įvertinama teigiamai, ministras išduoda leidimą valstybinei aukštajai mokyklai priimti statutą ir sudaryti aukštosios mokyklos savivaldos institucijas šio įstatymo nustatyta tvarka. Išrinkus senatą (akademinę tarybą) bei universiteto rektorių (kolegijos direktorių), steigiamosios tarybos ir universiteto laikinojo rektoriaus (kolegijos direktoriaus) įgaliojimai nutrūksta.
 
-4. Jei aukštosios mokyklos veikla įvertinama neigiamai, ministras gali nustatyti aukštajai mokyklai ne didesnį kaip 2 metų laikotarpį trūkumams pašalinti. Jeigu pasibaigus nustatytam terminui valstybinė aukštoji mokykla vėl įvertinama neigiamai, ministras inicijuoja valstybinės aukštosios mokyklos reorganizavimą arba likvidavimą. Jei pakartotinai neigiamai įvertinama nevalstybinės aukštosios mokyklos veikla, Vyriausybė sprendžia šiai mokyklai išduotos licencijos panaikinimo klausimą.
+4. Jei aukštosios mokyklos veikla įvertinama neigiamai, ministras gali nustatyti aukštajai mokyklai ne didesnį kaip 2 metų laikotarpį trūkumams pašalinti. Jeigu pasibaigus nustatytam terminui valstybinė aukštoji mokykla vėl įvertinama neigiamai, ministras inicijuoja valstybinės aukštosios mokyklos reorganizavimą arba likvidavimą. Jei pakartotinai neigiamai įvertinama nevalstybinės aukštosios mokyklos veikla, Vyriausybė sprendžia šiai mokyklai išduoto leidimo vykdyti studijas panaikinimo klausimą.
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
  
 
 17 straipsnis. Aukštųjų mokyklų reorganizavimas bei pabaiga
@@ -438,7 +474,10 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 5. Jeigu Studijų kokybės vertinimo centras pakartotinai neigiamai įvertina aukštosios mokyklos veiklą ir nustato, kad jos teikiamos kvalifikacijos neatitinka nustatytų reikalavimų, Ministerija gali siūlyti Vyriausybei:
 
-1) panaikinti nevalstybinės aukštosios mokyklos licenciją;
+1) panaikinti nevalstybinės aukštosios mokyklos leidimą vykdyti studijas; 
+Straipsnio punkto pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 2) likviduoti ar reorganizuoti valstybinę kolegiją;
 
@@ -452,9 +491,16 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 7. Nuo likvidatoriaus paskyrimo dienos likviduojamos valstybinės aukštosios mokyklos senatas (akademinė taryba) ir universiteto taryba (kolegijos taryba), taip pat rektorius (direktorius) netenka įgaliojimų. Jų funkcijas atlieka likvidatorius.
 
-8. Nuo nevalstybinės aukštosios mokyklos licencijos panaikinimo dienos ta aukštoji mokykla neturi teisės absolventams išduoti aukštąjį išsilavinimą patvirtinančių diplomų.
+8. Nuo nevalstybinės aukštosios mokyklos leidimo vykdyti studijas panaikinimo dienos ta aukštoji mokykla neturi teisės absolventams išduoti aukštąjį išsilavinimą patvirtinančių diplomų. 
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
-9. Aukštoji mokykla laikoma likviduota nuo jos išregistravimo iš Švietimo įstaigų bei mokslo ir studijų institucijų valstybės registro dienos.
+9. Aukštoji mokykla laikoma likviduota nuo jos išregistravimo iš juridinių asmenų registro dienos.
+ 
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
@@ -727,7 +773,15 @@ AUKŠTŲJŲ MOKYKLŲ PERSONALAS
 
 2. Asmuo, norintis dirbti aukštojoje mokykloje, kaip nepagrindinėje darbovietėje, kartu su prašymu priimti dirbti dėstytoju ar mokslo darbuotoju privalo nurodyti savo pareigas (dirbamą darbą) pagrindinėje ir visose nepagrindinėse darbovietėse.
 
-3. Minimalius kvalifikacinius dėstytojų ir mokslo darbuotojų pareigybių reikalavimus, konkursų šias pareigas eiti organizavimo, dėstytojų ir mokslo darbuotojų atestavimo tvarką nustato Vyriausybė ar jos įgaliota institucija. Vertinant dėstytojų peratestavimo rezultatus, turi būti atsižvelgiama ir į studentų vertinimus. Kitus reikalavimus dėstytojų ir mokslo darbuotojų pareigoms nustato aukštosios mokyklos. Šie reikalavimai negali būti mažesni už minimalius kvalifikacinius dėstytojų ir mokslo darbuotojų pareigybių reikalavimus.
+3. Minimalius kvalifikacinius dėstytojų ir mokslo darbuotojų, išskyrus mokslininkus stažuotojus, pareigybių reikalavimus, konkursų šias pareigas eiti organizavimo, dėstytojų ir mokslo darbuotojų, išskyrus mokslininkus stažuotojus, atestavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.Vertinant dėstytojų peratestavimo rezultatus, turi būti atsižvelgiama ir į studentų vertinimus. Kitus dėstytojų ir mokslo darbuotojų, išskyrus mokslininkus stažuotojus, pareigų reikalavimus nustato aukštosios mokyklos. Šie reikalavimai negali būti mažesni už minimalius kvalifikacinius dėstytojų ir mokslo darbuotojų, išskyrus mokslininkus stažuotojus, pareigybių reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
+
+4. Kvalifikacinius mokslininkų stažuotojų pareigybių reikalavimus, skyrimo į šias pareigas tvarką bei mokslininkų stažuočių finansavimo tvarką nustato Vyriausybė.
+Papildyta straipsnio dalimi:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
@@ -760,13 +814,24 @@ Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
  
 
+9. Aukštųjų mokyklų dėstytojai vadovaujasi dėstytojų etikos kodeksu, kurį pagal Ministerijos parengtas rekomendacijas parengia ir tvirtina aukštoji mokykla.
+Papildyta straipsnio dalimi:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
+
 29 straipsnis. Mokslo darbuotojai
 
 1. Aukštoji mokykla savo funkcijoms vykdyti gali turėti mokslo darbuotojų. Aukštosios mokyklos mokslo darbuotojai yra:
 
 1) mokslininkai, einantys vyriausiojo mokslo darbuotojo, vyresniojo mokslo darbuotojo, mokslo darbuotojo pareigas;
 
-2) asmenys su aukštuoju išsilavinimu, einantys jaunesniojo mokslo darbuotojo pareigas. 
+2) mokslininkai stažuotojai;
+
+3) asmenys su aukštuoju išsilavinimu, einantys jaunesniojo mokslo darbuotojo pareigas. 
+
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 2. Vyriausiojo mokslo darbuotojo pareigas gali eiti mokslininkas, atitinkantis šių pareigų reikalavimus ir habilitacijai keliamus reikalavimus. Vyriausiasis mokslo darbuotojas turi rengti mokslininkus, vadovauti mokslinių tyrimų kryptims, skelbti tyrimų rezultatus recenzuojamuose mokslo leidiniuose. 
 Straipsnio dalies pakeitimai:
@@ -784,6 +849,11 @@ Papildyta straipsnio dalimi:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
  
 
+7. Mokslininko stažuotojo pareigas kitoje institucijoje, nei parengė daktaro disertaciją, gali eiti asmuo, kuris apgynė daktaro disertaciją ne anksčiau kaip prieš 3 metus iki skyrimo į šias pareigas dienos.
+Papildyta straipsnio dalimi:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
+
 30 straipsnis. Administracijos ir kiti tarnautojai
 
 1. Aukštosios mokyklos turi turėti administraciją, būtiną jos ir jos padalinių administracinėms funkcijoms vykdyti, taip pat kitų tarnautojų, reikalingų aukštosios mokyklos akademinės bei ūkinės veiklos uždaviniams įgyvendinti.
@@ -795,7 +865,10 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 31 straipsnis. Skyrimo į pareigas tvarka
 
-1. Į aukštųjų mokyklų dėstytojų ir mokslo darbuotojų pagrindines pareigas asmenys skiriami viešo konkurso būdu ne ilgesnei kaip 5 metų kadencijai. 
+1. Į aukštųjų mokyklų dėstytojų ir mokslo darbuotojų, išskyrus mokslininkus stažuotojus, pagrindines pareigas asmenys skiriami viešo konkurso būdu ne ilgesnei kaip 5 metų kadencijai. Į mokslininkų stažuotojų pareigas asmenys skiriami Vyriausybės nustatyta tvarka ne ilgesniam kaip 2 metų laikotarpiui. Šis laikotarpis gali būti pratęstas dar vieniems metams. 
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 2. Prieš 2 mėnesius iki pasibaigiant aukštosios mokyklos dėstytojo ar mokslo darbuotojo kadencijai skelbiamas viešas konkursas šioms pareigoms. Jame gali dalyvauti ir šias pareigas einantis asmuo. 
 
@@ -805,7 +878,10 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 5. Vyresni kaip 65 metų dėstytojai ir mokslo darbuotojai gali dirbti aukštojoje mokykloje, jei senatas (akademinė taryba) pritaria, kad su jais būtų sudaryta terminuota darbo sutartis ne ilgesniam kaip 3 metų laikotarpiui. Tokia sutartis senato (akademinės tarybos) sprendimu gali būti sudaroma pakartotinai.
 
-6. Į aukštųjų mokyklų, taip pat jų padalinių vadovų ar jų pavaduotojų pareigas gali būti renkami (skiriami) ne vyresni kaip 65 metų asmenys. Vyresniems kaip 65 metų asmenims, kurie eina aukštųjų mokyklų ar jų padalinių vadovų ar šių vadovų pavaduotojų pareigas ir kurių kadencija dar nėra pasibaigusi, šio straipsnio 5 dalies reikalavimai netaikomi iki kadencijos pabaigos.
+6. Į aukštųjų mokyklų, taip pat jų padalinių vadovų ar jų pavaduotojų pareigas paprastai renkami (skiriami) ne vyresni kaip 65 metų asmenys. Vyresni kaip 65 metų asmenys gali būti renkami (skiriami) į aukštosios mokyklos, taip pat jos padalinių vadovų ar jų pavaduotojų pareigas, jei tam pritaria aukštosios mokyklos taryba, senatas (akademinė taryba) ir studentų atstovybė. Vyresniems kaip 65 metų asmenims, kurie eina aukštųjų mokyklų ar jų padalinių vadovų ar šių vadovų pavaduotojų pareigas ir kurių kadencija dar nėra pasibaigusi, šio straipsnio 5 dalies reikalavimai netaikomi iki kadencijos pabaigos.
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 7. Rektorius (kolegijos direktorius) ne ilgesniam kaip vienerių metų laikotarpiui nepagrindinėms pareigoms gali be konkurso priimti dėstytojus dirbti pedagoginį darbą pagal terminuotą darbo sutartį. Šiems dėstytojams taikomi šio įstatymo 28 straipsnyje atitinkamoms pareigoms numatyti kvalifikaciniai reikalavimai, išskyrus reikalavimą vykdyti mokslinius tyrimus. 
  
@@ -974,9 +1050,15 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 1. Pagrindinių studijų programa skiriama teoriniams profesijos pagrindams perteikti bei savarankiškam darbui būtiniems profesiniams įgūdžiams suformuoti. Baigusiems pagrindines universitetines studijas suteikiama profesinė kvalifikacija ir (ar) bakalauro laipsnis, baigusiems neuniversitetines pagrindines studijas – profesinė kvalifikacija. 
 
-2. Pagrindinių studijų programos turi atitikti atitinkamos studijų krypties reglamentą, kurį tvirtina Ministerija. Studijų krypties reglamente nustatomi visų tos krypties studijų programų bendrieji reikalavimai, bendrojo socialinio ir humanitarinio (ar gamtos mokslų ir matematikos bei informatikos), mokslo ar meno srities pagrindų ir mokslo ar meno krypties specialaus lavinimo dalykų santykis, bendrieji praktinių įgūdžių formavimo reikalavimai, pagrindiniai kvalifikaciniai reikalavimai akademiniam ir profesiniam personalui.
+2. Pagrindinių ir vientisųjų studijų programos turi atitikti atitinkamos studijų krypties reglamentą, kurį tvirtina Ministerija. Studijų krypties reglamente nustatomi visų tos krypties studijų programų bendrieji reikalavimai, bendrojo socialinio ir humanitarinio (ar gamtos mokslų ir matematikos bei informatikos), mokslo ar meno srities pagrindų ir mokslo ar meno krypties specialaus lavinimo dalykų santykis, bendrieji praktinių įgūdžių formavimo reikalavimai, pagrindiniai kvalifikaciniai reikalavimai akademiniam ir profesiniam personalui. 
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
-3. Valstybės reguliuojamų profesijų sąrašą ir joms keliamus specialiuosius reikalavimus tvirtina Vyriausybė.
+3. Aukštosios mokyklos gali vykdyti jungtinių studijų programas kartu su kitomis aukštosiomis mokyklomis ir teikti jungtinį kvalifikacinį laipsnį arba jungtinę profesinę kvalifikaciją. Bendruosius šių programų reikalavimus nustato Ministerija.
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 4. Universitetų studijų programas tvirtina senatas. Kolegijos studijų programas tvirtina Ministerija kolegijos akademinės tarybos teikimu. 
 
@@ -1050,7 +1132,10 @@ Aukštosios mokyklos gali sudaryti sąlygas studentui studijuoti pagal individua
 
 4. Bendrą maksimaliai leistiną priimamų į aukštąsias mokyklas studentų skaičių pagal studijų pakopas, formas ir finansavimo pobūdį kasmet ne vėliau kaip iki kovo 1 d. tvirtina Vyriausybė, atsižvelgdama į specialistų poreikį, konkrečios aukštosios mokyklos specialistų parengimo kokybę, taip pat aukštosioms mokykloms skirtas valstybės biudžeto lėšas.
 
-5. Asmenys, sutinkantys mokėti visą studijų kainą, konkurso būdu gali būti priimami į vakarinės ir neakivaizdinės formų visų pakopų studijas, taip pat iki 2005–2006 studijų metų – į antrosios pakopos dieninės formos studijas.
+5. Asmenys, sutinkantys mokėti visą studijų kainą, konkurso būdu gali būti priimami į vakarinės ir neakivaizdinės formų visų pakopų studijas ir dieninės formos rezidentūros studijas, taip pat iki 2005–2006 metų – į antrosios pakopos dieninės formos studijas.
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 6. Su studentais, priimamais šio straipsnio 5 dalyje nustatyta tvarka, aukštoji mokykla sudaro studijų sutartis. Standartines studijų sutarties sąlygas nustato Ministerija.
 
@@ -1117,7 +1202,12 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 3) vykdyti aukštosios mokyklos savivaldos institucijų, rektoriaus (kolegijos direktoriaus) sprendimus;
 
-4) teisės aktų nustatytais atvejais ir tvarka grąžinti suteiktas paskolas.
+4) teisės aktų nustatytais atvejais ir tvarka grąžinti suteiktas paskolas;
+
+5) laikytis studentų etikos kodekso, kurį pagal Ministerijos parengtas rekomendacijas parengia ir tvirtina aukštoji mokykla, suderinusi su studentų atstovybe.
+Papildyta straipsnio punktu:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 4. Valstybė sudaro studentui, besimokančiam kitoje vietoje nei jo nuolatinė gyvenamoji vieta, sąlygas pasirinkti asmens sveikatos priežiūros įstaigą ir gydytojus Sveikatos sistemos įstatymo nustatyta tvarka.
 
@@ -1153,9 +1243,10 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 51 straipsnis. Studentų dalyvavimas aukštosios mokyklos savivaldoje
 
-1. Aukštosios mokyklos studentų interesams atstovauja studentų atstovybė. Atstovybę sudaro visuotinio studentų susirinkimo (konferencijos) išrinkti studentai. Studentų atstovybės sudarymo ir jos veiklos principai nustatomi aukštosios mokyklos statute. Studentų atstovybė savo veikloje vadovaujasi Lietuvos Respublikos visuomeninių organizacijų įstatymu ir kitais teisės aktais, jeigu šis įstatymas nenustato kitaip, taip pat aukštosios mokyklos statutu ir visuotinio studentų susirinkimo (konferencijos) patvirtintais įstatais. 
+1. Aukštosios mokyklos studentų interesams atstovauja studentų atstovybė. Atstovybę sudaro visuotinio studentų susirinkimo (konferencijos) išrinkti studentai. Studentų atstovybės sudarymo ir jos veiklos principai nustatomi aukštosios mokyklos statute. Studentų atstovybė savo veikloje vadovaujasi Lietuvos Respublikos asociacijų įstatymu ir kitais teisės aktais, jeigu šis įstatymas nenustato kitaip, taip pat aukštosios mokyklos statutu ir visuotinio studentų susirinkimo (konferencijos) patvirtintais įstatais.
 Straipsnio dalies pakeitimai:
 Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA00IX-169
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
  
 
 2. Visuotinis studentų susirinkimas (konferencija) yra teisėtas, jei jame dalyvauja daugiau kaip pusė visų studentų (visų konferencijos delegatų). Visuotinio studentų susirinkimo (konferencijos) sprendimai laikomi priimtais, jei už juos balsavo daugiau kaip pusė susirinkime (konferencijoje) dalyvavusių studentų.
@@ -1292,7 +1383,10 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 3. Studijų kaina valstybinėje aukštojoje mokykloje nurodoma priėmimo į aukštąją mokyklą taisyklėse, suderintose šio įstatymo 47 straipsnio 2 dalyje nustatyta tvarka.
 
-4. Lietuvos Respublikos piliečiams šio straipsnio 3 dalyje nurodyta studijų kaina negali būti didesnė negu studijų išlaidos, nustatytos šio straipsnio 1 ir 2 dalyse nustatyta tvarka.
+4. Lietuvos Respublikos ir kitų Europos Sąjungos šalių piliečiams šio straipsnio 3 dalyje nurodyta studijų kaina negali būti didesnė negu studijų išlaidos, nustatytos šio straipsnio 1 ir 2 dalyse nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+ 
 
 5. Užsienio valstybių piliečiams ir asmenims be pilietybės šio straipsnio 3 dalyje nurodyta studijų kaina negali būti mažesnė negu studijų išlaidos, nustatytos šio straipsnio 1 ir 2 dalyse nustatyta tvarka, išskyrus atvejus, kai Lietuvos Respublikos tarptautinės sutartys ar kiti teisės aktai nustato kitaip.
 
@@ -1516,4 +1610,9 @@ Lietuvos Respublikos aukštojo mokslo įstatymo 59 ir 67 straipsnių pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
 Lietuvos Respublikos aukštojo mokslo įstatymo 2, 3, 13, 15, 16, 17, 19, 22, 23, 24, 32, 36, 37, 39, 40, 41, 42, 44, 47, 48, 49, 54, 56, 57, 58, 59, 60, 61, 62, 63, 67 straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+Lietuvos Respublikos aukštojo mokslo įstatymo ir Mokslo ir studijų įstatymo pakeitimo ir papildymo įstatymas
 
