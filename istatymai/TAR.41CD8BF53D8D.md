@@ -70,17 +70,19 @@ dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Resp
 bei gyvenimo joje, dėl užsieniečių įdarbinimo, taip pat dokumentą,
 patvirtinantį asmens gyvenamąją vietą;
 3) licencijos
-(leidimo) verstis licencijuojama veikla išdavimą arba perregistravimą;
+(leidimo) verstis licencijuojama veikla išdavimą;
 4) kitas
 institucijų teikiamas paslaugas.
 2. Konkretų
 valstybės rinkliavos objektų sąrašą nustato Vyriausybė.
 3. Institucijos neturi teisės
-reikalauti iš fizinių ir juridinių asmenų atlyginti už suteiktas paslaugas
-kitaip, negu sumokėti pagal šį įstatymą nustatytą valstybės rinkliavą.
+reikalauti iš fizinių ir juridinių asmenų atlyginti už suteiktas paslaugas kitaip,
+negu sumokėti pagal šį įstatymą nustatytą valstybės rinkliavą.
 Straipsnio pakeitimai:
 Nr. IX-435, 2001-07-10, Žin., 2001, Nr.
 62-2233 (2001-07-18)
+Nr. X-359, 2005-09-29,
+Žin., 2005, Nr. 121-4333 (2005-10-11)
  
 5
 straipsnis. Valstybės rinkliavos dydžiai
@@ -123,17 +125,20 @@ dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Resp
 bei gyvenimo joje, užsieniečių įdarbinimo, taip pat už dokumentą, patvirtinantį
 asmens gyvenamąją vietą, nuo valstybės rinkliavos atleidžiami:
 1) asmenys,
-turintys teisę gauti socialinę pašalpą Lietuvos Respublikos Vyriausybės
-nustatyta tvarka, vaikai, kuriems nustatyta globa ir rūpyba, valstybės
-išlaikomi stacionariose globos įstaigose asmenys, vieniši asmenys, sukakę
-senatvės pensijos amžių, nustatytą Valstybinių socialinio draudimo pensijų
-įstatyme, I ir II grupių invalidai, vaikai invalidai iki 16 metų – už asmens
+turintys teisę gauti piniginę socialinę paramą įstatymų nustatyta tvarka,
+vaikai, kuriems nustatyta globa ir rūpyba, valstybės išlaikomi stacionariose
+globos įstaigose asmenys, vieniši asmenys, sukakę senatvės pensijos amžių,
+asmenys, kuriems nustatytas 0–40 procentų darbingumo lygis, ar senatvės
+pensijos amžių sukakę asmenys, kuriems teisės aktų nustatyta tvarka nustatytas
+didelių ar vidutinių specialiųjų poreikių lygis (iki 2007 m. birželio 30 d. –
+ir I bei II grupių invalidai), asmenys iki 18 metų, kuriems nustatytas
+neįgalumo lygis (iki 2007 m. birželio 30 d. – ir invalidumo lygis), – už asmens
 tapatybės kortelės ir paso išdavimą bei pakeitimą, už dokumento, patvirtinančio
 asmens gyvenamąją vietą, išdavimą;
-2) politiniai kaliniai, tremtiniai,
-rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei
-pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės
-dokumento bei vizos išdavimą ir pratęsimą;
+2) politiniai kaliniai, tremtiniai, rezistencijos
+dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei pakeitimą, leidimo
+gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės dokumento bei
+vizos išdavimą ir pratęsimą;
 3) asmenys iki
 16 metų - už asmens be pilietybės kelionės dokumento bei pabėgėlio kelionės
 dokumento išdavimą, už vizų išdavimą ir pratęsimą, už vaiko kelionės dokumento
@@ -147,8 +152,8 @@ valstybės ar vietos savivaldos institucijų, įstaigų ar tarnybų organizuojam
 oficialiuose susitikimuose, labdaros bei organizuotos pagalbos Lietuvai
 tikslais arba su Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų,
 kurių narė yra Lietuvos Respublika, atstovai bei nurodytų asmenų šeimos nariai
-(sutuoktiniai, vaikai (įvaikiai) iki 21 metų, kurie gyvena kartu su tėvais ir nėra
-sudarę santuokos) - už dokumentų, suteikiančių teisę atvykti į Lietuvos
+(sutuoktiniai, vaikai (įvaikiai) iki 21 metų, kurie gyvena kartu su tėvais ir
+nėra sudarę santuokos) - už dokumentų, suteikiančių teisę atvykti į Lietuvos
 Respubliką, išdavimą; 
 6) lietuvių
 kilmės asmenys, pateikę krašto lietuvių bendruomenių arba Lietuvos Respublikos
@@ -171,8 +176,10 @@ aukštesniąsias, profesines ir bendrojo lavinimo mokyklas, - už vizų išdavim
 pratęsimą.
 Straipsnio pakeitimai:
 Nr.
-IX-1077,
-2002-09-17, Žin., 2002, Nr. 95-4086 (2002-10-02)
+IX-1077, 2002-09-17,
+Žin., 2002, Nr. 95-4086 (2002-10-02)
+Nr. X-359, 2005-09-29,
+Žin., 2005, Nr. 121-4333 (2005-10-11)
  
 7
 straipsnis. Valstybės rinkliavos lengvatos
@@ -187,10 +194,9 @@ rinkliava įskaitoma į tos savivaldybės biudžetą.
 8 straipsnis.
 Valstybės rinkliavos keitimas ar panaikinimas pariteto pagrindais
 Tais atvejais,
-kai pariteto pagrindais didinamas, mažinamas ar panaikinamas konsulinis
-mokestis už vizų išdavimą užsienio valstybių piliečiams bei asmenims be
-pilietybės, taip pat keičiama ar panaikinama ir valstybės rinkliava už vizų
-išdavimą.
+kai pariteto pagrindais didinamas, mažinamas ar panaikinamas konsulinis mokestis
+už vizų išdavimą užsienio valstybių piliečiams bei asmenims be pilietybės, taip
+pat keičiama ar panaikinama ir valstybės rinkliava už vizų išdavimą.
  
 9
 straipsnis. Valstybės rinkliavos mokėjimas
@@ -303,8 +309,8 @@ vietinių rinkliavų - dar ir savivaldybės kontrolieriai.
 2. Jeigu
 patikrinimo metu nustatyta, kad valstybės rinkliavos buvo paimta per mažai arba
 ji iš viso nebuvo paimta, tai trūkstama arba visa valstybės rinkliavos suma
-išieškoma į atitinkamą biudžetą iš institucijos, dėl kurios kaltės paimta per maža
-arba visai nepaimta valstybės rinkliava, Mokesčių administravimo įstatymo
+išieškoma į atitinkamą biudžetą iš institucijos, dėl kurios kaltės paimta per
+maža arba visai nepaimta valstybės rinkliava, Mokesčių administravimo įstatymo
 nustatyta tvarka. Institucijai žalą atlygina atsakingi valstybės tarnautojai
 įstatymų nustatyta tvarka.
  
@@ -411,17 +417,24 @@ Nr. IX-2139,
 ĮMONIŲ IR ORGANIZACIJŲ
 NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS
 FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ
-UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS
-TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS TERŠIMĄ
+ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+ 
+6.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-359, 2005-09-29,
+Žin., 2005, Nr. 121-4333 (2005-10-11)
+RINKLIAVŲ ĮSTATYMO 4 IR 6
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušrinė Trapinskienė (2004-05-03)
+Aušrinė Trapinskienė (2005-10-12)
                  
 autrap@lrs.lt
