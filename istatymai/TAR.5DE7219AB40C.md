@@ -119,8 +119,8 @@ verstis vaistų ir vaistinių medžiagų įsigijimu, laikymu, vaistų ruošimu, 
 bei vaistinių medžiagų kokybės kontrole, pardavimu (išdavimu) galutiniam
 vartotojui. Šiame įstatyme sąvoka ,,vaistinė“ neapima veterinarijos vaistinių.
 Vaistinės asortimento
-prekės – prekės, kuriomis Vyriausybės įgaliotų institucijų nustatyta
-tvarka leidžiama prekiauti vaistinėse. Į šią sąvoką vaistai neįeina.
+prekės – prekės, kuriomis Vyriausybės įgaliotų institucijų nustatyta tvarka
+leidžiama prekiauti vaistinėse. Į šią sąvoką vaistai neįeina.
 Vaistinės
 medžiagos
 – medžiagos, kurių kilmė gali būti:
@@ -132,8 +132,8 @@ produktai, gaunami cheminių pokyčių ar sintezės būdu, ir kt.);
 3) iš žmogaus
 (žmogaus kraujas, žmogaus kraujo produktai ir kt.);
 4) gyvūninė
-(mikroorganizmai, gyvūnai, jų organų dalys, gyvūnų sekretai, toksinai,
-ekstraktai, kraujo produktai ir kt.).
+(mikroorganizmai, gyvūnai, jų organų dalys, gyvūnų sekretai, toksinai, ekstraktai,
+kraujo produktai ir kt.).
 Vaistininkas – asmuo, įgijęs vaistininko
 profesinę kvalifikaciją ir farmacijos magistro kvalifikacinį laipsnį.
 Vaisto
@@ -146,9 +146,9 @@ didmeninis platinimas
 tiekimas ar eksportavimas, išskyrus tiekimą galutiniam vartotojui. 
 Vaistų gamyba – vaistų gamybos
 procedūros, kurias vykdo vaistų gamybos licenciją turintis juridinis asmuo.
-Vaistų ruošimas suprantamas kaip vaistų gamyba vaistinėse ar sveikatos priežiūros
-įstaigose, turinčiose licenciją veiklai su jonizuojančiosios spinduliuotės
-šaltiniais.
+Vaistų ruošimas suprantamas kaip vaistų gamyba vaistinėse ar sveikatos
+priežiūros įstaigose, turinčiose licenciją veiklai su jonizuojančiosios
+spinduliuotės šaltiniais.
 Vaistinių
 preparatų registras
 – vaistinių preparatų, kuriuos leidžiama vartoti sveikatos priežiūrai Lietuvos
@@ -183,18 +183,18 @@ aktų nustatytus reikalavimus.
 Tiriamasis
 vaistinis preparatas –
 veikliosios medžiagos vaisto forma arba placebas, kuris klinikinio tyrimo metu
-yra tiriamas arba naudojamas kaip palyginamasis preparatas, įskaitant ir preparatus,
-kurie įregistruoti, bet vartojami arba gaminami (vaisto forma arba pakuotė)
-kitaip negu registruoti, arba kai vaistinis preparatas tiriamas nepatvirtintai
-indikacijai nustatyti ar norint gauti išsamesnių duomenų apie vaistinį
-preparatą, kuris jau registruotas.
+yra tiriamas arba naudojamas kaip palyginamasis preparatas, įskaitant ir
+preparatus, kurie įregistruoti, bet vartojami arba gaminami (vaisto forma arba
+pakuotė) kitaip negu registruoti, arba kai vaistinis preparatas tiriamas
+nepatvirtintai indikacijai nustatyti ar norint gauti išsamesnių duomenų apie
+vaistinį preparatą, kuris jau registruotas.
 Straipsnio
 pakeitimai:
 Nr.
 I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
-Nr. IX-922, 2002-06-04,
-Žin., 2002, Nr. 58-2348 (2002-06-14)
+Nr. IX-922,
+2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
 Nr. IX-2203,
 2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
  
@@ -252,8 +252,8 @@ I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
 Nr. IX-922,
 2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
-Nr. IX-2203,
-2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
+Nr. IX-2203, 2004-04-29,
+Žin., 2004, Nr. 73-2536 (2004-04-30)
  
 6
 straipsnis.
@@ -321,11 +321,11 @@ Farmacinės veiklos teisinės sąlygos
 Vaistininko
 profesinė kvalifikacija ir farmacijos magistro kvalifikacinis laipsnis
 suteikiamas asmenims, aukštojoje mokykloje baigusiems universitetines
-farmacijos studijų krypties ne trumpesnes kaip 5 metų – 200 kreditų) vientisąsias
-studijas, kurių didžiąją dalį (ne mažiau kaip 4 metus (160 kreditų) sudaro
-teorinės ir praktinės studijos aukštosios mokyklos dieniniame skyriuje ir ne
-trumpesnė kaip 6 mėnesių farmacinės veiklos praktika vaistinėje, išskyrus
-labdaros vaistinę.
+farmacijos studijų krypties ne trumpesnes kaip 5 metų – 200 kreditų)
+vientisąsias studijas, kurių didžiąją dalį (ne mažiau kaip 4 metus (160
+kreditų) sudaro teorinės ir praktinės studijos aukštosios mokyklos dieniniame
+skyriuje ir ne trumpesnė kaip 6 mėnesių farmacinės veiklos praktika vaistinėje,
+išskyrus labdaros vaistinę.
 Farmakotechniko
 profesinė kvalifikacija suteikiama asmenims, aukštojoje mokykloje baigusiems
 neuniversitetines studijas pagal farmakotechniko studijų programą.
@@ -374,8 +374,7 @@ Licencijuojamos
 farmacinės veiklos licencijų rūšys:
 1) vaistinių preparatų gamybos
 licencija;
-2) vaistinių preparatų importo
-licencija;
+2) vaistinių preparatų importo licencija;
 3) tiriamųjų vaistinių preparatų gamybos
 licencija;
 4) tiriamųjų vaistinių preparatų importo
@@ -511,7 +510,6 @@ Nr. VIII-258,
 Nr. IX-2203,
 2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
  
- 
 15 straipsnis.
 Vaistų ir vaistinės asortimento
 prekių kainų reguliavimo pagrindus ir tvarką nustato Vyriausybė ar jos įgaliota
@@ -563,15 +561,14 @@ savybes ir skatinti jo racionalų vartojimą.
 Valstybės
 valdymo ir kontrolės bei savivaldybių institucijoms draudžiama reklamuoti
 vaistus. 
-Draudžiama
-receptinius vaistus reklamuoti ir pateikti apie juos informaciją per radiją ir
-televiziją. Šiuos vaistus taip pat draudžiama reklamuoti elektroninėmis
-informacijos priemonėmis.
+*Draudžiama receptinius vaistus reklamuoti ir
+pateikti apie juos informaciją per radiją ir televiziją. Šiuos vaistus
+taip pat draudžiama reklamuoti elektroninėmis informacijos priemonėmis.
 Sveikatos priežiūros, farmacijos ir veterinarijos
 specialistams skirtoje reklamoje leidžiama reklamuoti receptinius ir
 nereceptinius vaistus. Receptinius vaistus leidžiama reklamuoti spaudiniuose,
-kurie skirti tik specialistams. Tokių spaudinių sąrašą tvirtina Vyriausybė ar jos
-įgaliota institucija. 
+kurie skirti tik specialistams. Tokių spaudinių sąrašą tvirtina Vyriausybė ar
+jos įgaliota institucija. 
 Reklamuojant vaistus, neparduodami vaistų pavyzdžiai gali
 būti pateikiami tik gydytojams, turintiems teisę išrašyti vaistus. Ant tokio
 vaisto pakuotės turi būti užrašas „Neparduodamas pavyzdys“. Tam pačiam
@@ -645,6 +642,15 @@ atstovams, jų kvalifikacijai ir veiklai nustato sveikatos apsaugos ministras.
 Vaistų reklamos
 priežiūrą ir šiame straipsnyje nustatytų vaistų reklamos reikalavimų kontrolę
 vykdo Sveikatos apsaugos ministerija ar jos įgaliota institucija.
+ 
+*Pastaba. Pripažinti, kad Lietuvos
+Respublikos farmacinės veiklos įstatymo 17 straipsnio (2002 m. birželio 4 d.
+redakcija) 4 dalis ta apimtimi, kuria draudžiama pateikti per radiją ir
+televiziją neklaidinančią nereklaminio pobūdžio ir reklamai neprilygintiną
+informaciją apie receptinius vaistus, kurią skleidžiant per radiją ir
+televiziją nebūtų sudaroma prielaidų pakenkti žmonių sveikatai, prieštarauja
+Lietuvos Respublikos Konstitucijos 25 straipsnio 3 daliai, konstituciniam
+teisinės valstybės principui.
 Straipsnio
 pakeitimai:
 Nr.
@@ -654,6 +660,8 @@ Nr. VIII-1802, 00.07.04, Žin., 2000,
 Nr.61-1813 (00.07.26)
 Nr. IX-922,
 2002-06-04, Žin., 2002, Nr. 58-2348 (2002-06-14)
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2005-09-29, Žin., 2005, Nr. 117-4239 (2005-10-01)
  
 17(1) straipsnis.
 Klaidinanti
@@ -710,9 +718,9 @@ inspektoriai turi teisę:
 1) tikrinti ir
 vertinti farmacinės veiklos licencijas turinčius juridinius asmenis, taip pat
 kitus asmenis bei laboratorijas, kuriems vaistų ar tiriamųjų vaistų gamybos ar
-importo licencijos turėtojas patikėjo atlikti vaistų ar tiriamųjų vaistų tyrimus,
-nurodytus atitinkamai vaistinio preparato registravimo byloje ar informacijoje
-klinikiniams tyrimams atlikti;
+importo licencijos turėtojas patikėjo atlikti vaistų ar tiriamųjų vaistų
+tyrimus, nurodytus atitinkamai vaistinio preparato registravimo byloje ar
+informacijoje klinikiniams tyrimams atlikti;
 2) imti
 bandinius;
 3) tikrinti, ar
@@ -755,8 +763,8 @@ straipsnis.
 Prieš
 išleidžiant imunologinių preparatų ir iš žmogaus kraujo ar plazmos pagamintų
 preparatų serijas į apyvartą, Valstybinei vaistų kontrolės tarnybai prie
-Sveikatos apsaugos ministerijos turi būti pateikiamos šių serijų kokybės
-kontrolės, atliktos Europos ekonominės erdvės šalies oficialioje ar tuo tikslu
+Sveikatos apsaugos ministerijos turi būti pateikiamos šių serijų kokybės kontrolės,
+atliktos Europos ekonominės erdvės šalies oficialioje ar tuo tikslu
 akredituotoje laboratorijoje, protokolų kopijos. 
 Valstybinė
 farmacinės veiklos kontrolė atliekama vadovaujantis šiuo įstatymu ir
@@ -856,8 +864,8 @@ kiekybinė analizė ir visi kiti bandymai arba patikrinimai, būtini vaistų
 kokybei užtikrinti pagal vaistinio preparato registravimo liudijimą.
 Jei
 vaistai importuojami iš šalies, su kuria Europos Bendrija yra pasirašiusi
-abipusio pripažinimo sutartį, kvalifikuotas asmuo gali neatlikti serijos išsamios
-kontrolės ir jos sertifikavimo patvirtinimo, jei jam pakanka gamintojo
+abipusio pripažinimo sutartį, kvalifikuotas asmuo gali neatlikti serijos
+išsamios kontrolės ir jos sertifikavimo patvirtinimo, jei jam pakanka gamintojo
 patvirtinimo, kad serija pagaminta ir patikrinta pagal gerą gamybos praktiką
 bei vaistinio preparato registravimo byloje pateiktus dokumentus, o serija buvo
 transportuojama, laikoma ir saugoma nustatytomis sąlygomis. 
@@ -904,8 +912,8 @@ Farmacinė veikla veterinarijoje
  
 21 straipsnis.
 Veterinariniai
-vaistai ir veterinarinės paskirties gaminiai registruojami Valstybinės maisto ir
-veterinarijos tarnybos nustatyta tvarka. Valstybinį veterinarinių vaistų
+vaistai ir veterinarinės paskirties gaminiai registruojami Valstybinės maisto
+ir veterinarijos tarnybos nustatyta tvarka. Valstybinį veterinarinių vaistų
 registrą tvarko Valstybinė maisto ir veterinarijos tarnyba.
 Straipsnio
 pakeitimai:
@@ -914,8 +922,8 @@ I-1442,
 96.07.04, Žin., 1996, Nr.69-1667 (96.07.24)
 Nr. VIII-1802, 00.07.04, Žin., 2000,
 Nr.61-1813 (00.07.26)
-Nr. IX-2203, 2004-04-29,
-Žin., 2004, Nr. 73-2536 (2004-04-30)
+Nr. IX-2203,
+2004-04-29, Žin., 2004, Nr. 73-2536 (2004-04-30)
  
 22 straipsnis. 
 Valstybinė maisto ir veterinarijos
@@ -1080,15 +1088,24 @@ Respublikos Konstitucinis Teismas, Nutarimas
 2002-03-14,
 Žin., 2002, Nr. 28-1003 (2002-03-16)
 DĖL
-LIETUVOS RESPUBLIKOS FARMACINĖS VEIKLOS ĮSTATYMO 11 STRAIPSNIO 2 DALIES
-ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+LIETUVOS RESPUBLIKOS FARMACINĖS VEIKLOS ĮSTATYMO 11 STRAIPSNIO 2 DALIES ATITIKTIES
+LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+2.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2005-09-29,
+Žin., 2005, Nr. 117-4239 (2005-10-01)
+DĖL
+LIETUVOS RESPUBLIKOS FARMACINĖS VEIKLOS ĮSTATYMO 17 STRAIPSNIO (2002 M.
+BIRŽELIO 4 D. REDAKCIJA) 4 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-05-19)
+Aušrinė Trapinskienė (2005-10-05)
                  
 autrap@lrs.lt
 
