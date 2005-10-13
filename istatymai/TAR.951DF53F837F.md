@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2005-10-12
+Suvestinė redakcija nuo 2005-10-13 iki 2009-01-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1600; Žin. 1999, Nr.68-0; Žin. 2011, Nr.91-4318, i. k. 0991010ISTAIII-1190
  
@@ -35,10 +35,17 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas reglamentuoja juridinių asmenų, įmonių, neturinčių juridinio asmens teisių, ir fizinių asmenų santykius tvarkant radioaktyviąsias atliekas, taip pat nustato teisinius radioaktyviųjų atliekų tvarkymo pagrindus.
+1. Šis įstatymas reglamentuoja juridinių asmenų, įmonių, neturinčių juridinio asmens teisių, ir fizinių asmenų santykius tvarkant radioaktyviąsias atliekas, taip pat nustato teisinius radioaktyviųjų atliekų tvarkymo pagrindus.
+
+
+
+
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio įstatymo priede. 
+
+
+Straipsnio pakeitimai:
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
  
-
-
 
 
 
@@ -196,6 +203,21 @@ Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA
 
 
 29. Uždarytų kapinynų priežiūra – kapinyno aikštelės priežiūra po kapinynų uždarymo. Priežiūra gali būti aktyvi (monitoringas, priėjimo ribojimas, tvarkymo darbai ir t. t.) arba pasyvi (ribojimai naudoti žemę ir t. t.).
+
+
+
+
+30. Gavėjas – bet kuris fizinis ar juridinis asmuo, kuriam vežamas šaltinis. 
+Papildyta straipsnio dalimi:
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
+ 
+
+
+
+
+31. Tiekėjas – bet kuris fizinis ar juridinis asmuo, tiekiantis ar padedantis gauti šaltinį. 
+Papildyta straipsnio dalimi:
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
  
 
 
@@ -351,12 +373,18 @@ Vyriausybė:
 Ūkio ministerija: 
 
 
-1) Radioaktyviųjų atliekų tvarkymo agentūros siūlymu, suderinus su Aplinkos bei Sveikatos apsaugos ministerijomis, Valstybine atominės energetikos saugos inspekcija, teikia Vyriausybei tvirtinti trejiems metams Radioaktyviųjų atliekų tvarkymo agentūros programą, joje nurodomos numatomos šios agentūros pajamos bei išlaidos, ir kas penkeri metai – Radioaktyviųjų atliekų tvarkymo strategiją;
+1) Radioaktyviųjų atliekų tvarkymo agentūros siūlymu, suderinus su Aplinkos ministerija, Sveikatos apsaugos ministerija ir Valstybine atominės energetikos saugos inspekcija, teikia Vyriausybei tvirtinti trejų metų Radioaktyviųjų atliekų tvarkymo agentūros programą, Radioaktyviųjų atliekų tvarkymo strategiją; 
+Straipsnio punkto pakeitimai:
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
+ 
 
 
 
 
-2) tvirtina Radioaktyviųjų atliekų tvarkymo agentūros įstatus ir vykdo šios agentūros steigėjo funkcijas;
+2) atlieka Radioaktyviųjų atliekų tvarkymo agentūros savininko teises ir pareigas įgyvendinančios institucijos pareigas; 
+Straipsnio punkto pakeitimai:
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
+ 
 
 
 
@@ -376,7 +404,10 @@ Vyriausybė:
 
 
 
-6) tvirtina ateinančių metų Radioaktyviųjų atliekų tvarkymo agentūros veiklos programą ir sąmatą;
+6) tvirtina ateinančių metų Radioaktyviųjų atliekų tvarkymo agentūros veiklos programą ir numatomą lėšų poreikį; 
+Straipsnio punkto pakeitimai:
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
+ 
 
 
 
@@ -566,7 +597,9 @@ RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYMO AGENTŪRA
 
 
 
-2. Agentūra veikia pagal Vyriausybės patvirtintą Radioaktyviųjų atliekų tvarkymo strategiją ir Radioaktyviųjų atliekų tvarkymo programą. Šiai veiklai Agentūra turi gauti licenciją.
+2. Agentūra veikia pagal Vyriausybės patvirtintą Radioaktyviųjų atliekų tvarkymo strategiją ir trejų metų Radioaktyviųjų atliekų tvarkymo agentūros veiklos programą. 
+Straipsnio dalies pakeitimai:
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
  
 
 
@@ -582,69 +615,38 @@ RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYMO AGENTŪRA
 
 
 
-2. Agentūra yra jai priskirtų saugyklų ir kapinynų eksploatuojanti organizacija. 
- 
-
-
-
-
-
-
-14 straipsnis. Agentūros valdymas 
-
-
-1. Agentūra turi tarybą. Agentūros tarybos narius, tarybos pirmininką ir Agentūros direktorių skiria ir atleidžia ūkio ministras.
-
-
-
-
-2. Tarybą sudaro 9 nariai iš valstybės ir savivaldybės institucijų, atliekų gamintojų ir mokslo institucijų. Agentūros tarybos nario pareigos yra visuomeninės. Tarybos nariai negali dirbti Agentūroje. 
+2. Agentūra, gavusi Valstybinės atominės energetikos saugos inspekcijos licenciją, tampa jai priskirtų saugyklų ir kapinynų eksploatuojančia organizacija. 
 Straipsnio dalies pakeitimai:
-Nr. IX-2004, 2004-02-05, Žin., 2004, Nr. 28-875 (2004-02-21), i. k. 1041010ISTA0IX-2004
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
  
 
 
 
 
-3. Pagrindiniai Agentūros tarybos uždaviniai yra:
-
-
-1) prižiūrėti, kad lėšos, skiriamos Agentūros veiklai, būtų naudojamos racionaliai ir efektyviai, ir informuoti Agentūros direktorių bei ūkio ministrą apie trūkumus ir siūlomus jų šalinimo būdus;
-
-
-
-
-2) derinti Agentūros veiklos programą bei sąmatą kitiems metams, taip pat Agentūros programą trejiems metams ir Radioaktyviųjų atliekų tvarkymo strategiją;
-
-
-
-
-3) vertinti Agentūros veiklos ataskaitą, įskaitant ataskaitinių metų darbo veiklos plano ir sąmatos įvykdymą, užtikrinti, kad būtų atliktas Agentūros metinės finansinės ataskaitos auditas;
-
-
-
-
-4) rekomenduoti ūkio ministrui skirti ar atleisti Agentūros direktorių, keisti Agentūros organizacinę struktūrą ar įstatus.
-
-
-
-
-
-
-4. Tarybos darbo reglamentą tvirtina Agentūros taryba.
-
-
-
-
-5. Agentūros direktorius dalyvauja tarybos posėdžiuose ir turi patariamojo balso teisę.
-
-
-
-
-6. Tarybos nariams už kelionių išlaidas ir dalyvavimą posėdžiuose atlyginama Vyriausybės nustatyta tvarka.
+3. Agentūra taip pat atlieka šio įstatymo ir kitų teisės aktų nustatytas ar Ūkio ministerijos pavestas funkcijas. 
+Papildyta straipsnio dalimi:
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
  
 
 
+
+
+
+
+14 straipsnis. Agentūros taryba
+
+
+1. Agentūroje gali būti sudaroma taryba. Agentūros tarybos narius, tarybos pirmininką ir Agentūros direktorių skiria ir atleidžia ūkio ministras.
+
+
+
+
+2. Tarybą sudaro 9 nariai iš valstybės ir savivaldybės institucijų, atliekų gamintojų ir mokslo institucijų. Agentūros tarybos nario pareigos yra visuomeninės. Tarybos nariai negali dirbti Agentūroje. Agentūros tarybos reglamentą tvirtina ūkio ministras. 
+
+
+Straipsnio pakeitimai:
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
+ 
 
 
 
@@ -1012,19 +1014,16 @@ RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYMO PROGRAMŲ VYKDYMAS
  
 
 
-27 straipsnis. Radioaktyviųjų atliekų tvarkymo programų vykdymas
-
-
-Radioaktyviųjų atliekų tvarkymo programoms vykdyti naudojamos Lietuvos Respublikos įstatymų nustatyta tvarka sukauptos lėšos iš privalomų ir kitų įmokų. 
-
-
+27 straipsnis. Neteko galios nuo 2005-10-13
+Straipsnio naikinimas:
+Nr. X-354, 2005-09-29, Žin. 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
+ 
 
 
 
 
 
 
- 
 DEVINTASIS SKIRSNIS
 ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS IR 
 CIVILINĖ ATSAKOMYBĖ UŽ BRANDUOLINĘ ŽALĄ
@@ -1068,7 +1067,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2. Uždarieji šaltiniai gali būti importuojami į Lietuvos Respubliką, jei juos panaudojus numatoma grąžinti tiekėjui arba Valstybinė atominės energetikos saugos inspekcija priima sprendimą leisti šiuos šaltinius palaidoti Lietuvos Respublikoje.
+2. Uždarieji šaltiniai gali būti įvežami į Lietuvos Respubliką, jei juos panaudojus numatoma grąžinti tiekėjui. Gavėjas turi sudaryti sutartį su Agentūra dėl jų tvarkymo tam atvejui, jeigu dėl atsiradusių priežasčių šaltinio grąžinti tiekėjui bus neįmanoma, ir apsidrausti laidavimo draudimu sutarties su Agentūra paslaugų vertei. 
+Straipsnio dalies pakeitimai:
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
+ 
 
 
 
@@ -1128,6 +1130,26 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+
+
+
+
+ 
+Lietuvos Respublikos
+radioaktyviųjų atliekų tvarkymo
+įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2003 m. gruodžio 22 d. Tarybos direktyva 2003/122/Euratomas dėl didelio aktyvumo uždarųjų radioaktyviųjų šaltinių ir paliktųjų šaltinių kontrolės. 
+
+
+Papildyta priedu:
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
+ 
  
  
 Pakeitimai:
@@ -1146,3 +1168,8 @@ Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 10 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2506, 2004-10-26, Žin., 2004, Nr. 163-5944 (2004-11-09); Žin., 2004, Nr. 164-0 (2004-11-11), i. k. 1041010ISTA0IX-2506
 Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 24 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-354, 2005-09-29, Žin., 2005, Nr. 122-4361 (2005-10-13), i. k. 1051010ISTA000X-354
+Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 1 ir 2 straipsnių papildymo, 6, 12, 13, 14, 30 straipsnių pakeitimo, 27 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo priedu įstatymas
