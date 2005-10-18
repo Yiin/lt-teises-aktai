@@ -16,18 +16,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4DC70F7969B"
 Įstatymas paskelbtas: Žin., 1997, Nr. 35-869
 Neoficialus įstatymo tekstas
  
- 
 LIETUVOS RESPUBLIKOS
 AKCINĖS BENDROVĖS LIETUVOS AKCINIO INOVACINIO BANKO PRIEVOLIŲ BANKO
 KREDITORIAMS ĮVYKDYMO BEI JO TURTO PERĖMIMO
 ĮSTATYMAS
 1997 m. balandžio 22 d. Nr. VIII-191
 Vilnius
-
-
-
-
- 
 1 straipsnis. Įstatymo paskirtis
 Šis įstatymas nustato įstatymo “Dėl
 akcinių bendrovių “Lietuvos akcinis inovacinis bankas” ir “Litimpeks” bankas” 2
@@ -82,18 +76,18 @@ eksploatavimo bendrijoms, visuomeninėms organizacijoms, disponuojančioms iš
 gyventojų (fizinių asmenų) surinktomis bei kitaip iš jų gautomis ir banke šiuo
 metu įšaldytomis lėšomis, taip pat invalidų draugijoms, religinėms
 bendruomenėms, užsienio valstybių ambasadoms, labdaros ir paramos fondams,
-veikiantiems pagal Lietuvos Respublikos labdaros ir paramos fondų įstatymą ar pagal
-kitų valstybių atitinkamus įstatymus, sąskaitas litais LTB pagal kiekvienos
-sąskaitos litais ar konvertuojama valiuta likutį (įskaitant banko balansinėse
-sąskaitose šiame punkte nurodytų kreditorių likusias sumas, gautas vykdant
-bankines operacijas, nustatytas Lietuvos banko išduotoje licencijoje, taip pat
-už neįregistruotą LAIB akcijų emisiją), esantį šio įstatymo įsigaliojimo dieną
-(be nuo 1995 m. gruodžio 29 d. priskaičiuotų palūkanų), o šiame punkte
-nurodytiems kreditoriams, kurie LAIB neturėjo sąskaitų, - atidarydama naujas
-sąskaitas LTB, į kurias įskaitomos šio įstatymo įsigaliojimo dieną banko
-balansinėse sąskaitose likusios sumos, gautos vykdant bankines operacijas,
-nustatytas Lietuvos banko išduotoje licencijoje, taip pat už neįregistruotą
-LAIB akcijų emisiją. 
+veikiantiems pagal Lietuvos Respublikos labdaros ir paramos fondų įstatymą ar
+pagal kitų valstybių atitinkamus įstatymus, sąskaitas litais LTB pagal
+kiekvienos sąskaitos litais ar konvertuojama valiuta likutį (įskaitant banko
+balansinėse sąskaitose šiame punkte nurodytų kreditorių likusias sumas, gautas
+vykdant bankines operacijas, nustatytas Lietuvos banko išduotoje licencijoje,
+taip pat už neįregistruotą LAIB akcijų emisiją), esantį šio įstatymo
+įsigaliojimo dieną (be nuo 1995 m. gruodžio 29 d. priskaičiuotų palūkanų), o
+šiame punkte nurodytiems kreditoriams, kurie LAIB neturėjo sąskaitų, -
+atidarydama naujas sąskaitas LTB, į kurias įskaitomos šio įstatymo įsigaliojimo
+dieną banko balansinėse sąskaitose likusios sumos, gautos vykdant bankines
+operacijas, nustatytas Lietuvos banko išduotoje licencijoje, taip pat už
+neįregistruotą LAIB akcijų emisiją. 
 2. Nurašyti kaip beviltišką skolą šiuos
 LAIB įsipareigojimus:
 1) iš valstybės biudžeto lėšų išlaikomų
@@ -140,7 +134,6 @@ pakeitimai:
 Nr. VIII-580,
 97.12.23, Žin., 1997, Nr.118-3039 (97.12.27)
  
- 
 3 straipsnis. VVP išleidimas
 1. Vyriausybė 2 straipsnio 1 dalies 2 ir
 3 punktuose nustatytoms prievolėms įvykdyti išleidžia iki 400 mln. litų
@@ -162,7 +155,6 @@ Nr. VIII-580,
 97.12.23, Žin., 1997, Nr.118-3039 (97.12.27)
 Nr. VIII-1810, 00.07.05, Žin., 2000,
 Nr.61-1817 (00.07.26)
- 
  
 4 straipsnis. Atsiskaitymas su
 kreditoriais
@@ -195,6 +187,8 @@ ne vėliau kaip iki 2001 m. gruodžio 31 d. iš asmenų, kurie pagal
 finansuojamoms įstaigoms, atsiskaityti su šiomis įstaigomis.
 2. Su kitais kreditoriais atsiskaitoma 5
 straipsnio 2 dalyje nustatyta tvarka.
+ 
+3 dalies redakcija iki 2006 m. sausio 27 d.:
 3.
 Pasibaigus šio įstatymo 2 straipsnio 1 dalies 1 ir 4 punktuose nurodytose
 sąskaitose esančių lėšų išmokėjimui, taip pat šios dalies 2 punkte nurodytų VVP
@@ -203,9 +197,25 @@ valstybės garantijas turinčius kreditorius atsiimti jiems priklausančių lė�
 Jeigu pasibaigus lėšų išmokėjimo ir VVP išpirkimo terminui valstybės garantijas
 turinčių kreditorių buvimo vieta nežinoma, jiems priklausančios lėšos saugomos
 Finansų ministerijos specialiosiose sąskaitose. Jeigu valstybės garantijas
-turintys kreditoriai per 3 metus nuo paskelbimo „Valstybės žiniose“ neatsiėmė jiems
-priklausančių lėšų, jie praranda į jas teises ir šios lėšos pervedamos į
+turintys kreditoriai per 3 metus nuo paskelbimo „Valstybės žiniose“ neatsiėmė
+jiems priklausančių lėšų, jie praranda į jas teises ir šios lėšos pervedamos į
 valstybės biudžetą Vyriausybės nustatyta tvarka.
+3 dalies redakcija nuo 2006 m. sausio 27 d.:
+3. Pasibaigus šio įstatymo 2 straipsnio
+1 dalies 1 ir 4 punktuose nurodytose sąskaitose esančių lėšų išmokėjimui, taip
+pat šios dalies 2 punkte nurodytų VVP išpirkimui, Vyriausybė paskelbia apie tai
+„Valstybės žiniose“ ir pakviečia valstybės garantijas turinčius kreditorius
+atsiimti jiems priklausančių lėšų. Jeigu pasibaigus lėšų išmokėjimo ir VVP
+išpirkimo terminui valstybės garantijas turinčių kreditorių buvimo vieta
+nežinoma, jiems priklausančios lėšos saugomos Finansų ministerijos
+specialiosiose sąskaitose. Jeigu valstybės garantijas turintys kreditoriai per
+3 metus nuo paskelbimo „Valstybės žiniose“ neatsiėmė jiems priklausančių lėšų,
+jos išmokamos iš specialiųjų Finansų ministerijos sąskaitų, esančių akcinėje
+bendrovėje banke „Hansabankas“, iki 2006 m. balandžio 1 d. Vyriausybės
+nustatyta tvarka. Pasibaigus lėšų išmokėjimo terminui, specialiosios Finansų
+ministerijos sąskaitos uždaromos, o jose esantys lėšų likučiai pervedami į
+valstybės biudžetą.
+ 
 4. Šio įstatymo 2 straipsnio 1 dalies 3
 punkte nurodytų VVP, kurie nepateko į antrinę apyvartą, išpirkimui pasibaigus,
 taikoma 4 straipsnio 3 dalyje nustatyta tvarka.
@@ -223,7 +233,8 @@ Nr. VIII-580,
 97.12.23, Žin., 1997, Nr.118-3039 (97.12.27)
 Nr. VIII-1810, 00.07.05, Žin., 2000,
 Nr.61-1817 (00.07.26)
- 
+Nr. X-372, 2005-10-18,
+Žin., 2005, Nr. 127-4533 (2005-10-27)
  
 5 straipsnis Reikalavimų tenkinimo iš
 LAIB turto vertės eilės tvarka
@@ -251,9 +262,9 @@ uždarytomis, kai Vyriausybės nustatyta tvarka jiems atidaromos 2 straipsnio 1
 dalies 1 ir 4 punktuose nurodytos sąskaitos bei vertybinių popierių sąskaitos,
 įskaitant į jas pagal 2 straipsnio 1 dalies 2 ir 3 punktus išleistus VVP, ir
 paskelbiama apie tai “Valstybės žiniose”.
-2. LAIB prievolės iš valstybės ir savivaldybių
-biudžetų išlaikomoms įstaigoms ir organizacijoms pasibaigia šio įstatymo
-įsigaliojimo dieną.
+2. LAIB prievolės iš valstybės ir
+savivaldybių biudžetų išlaikomoms įstaigoms ir organizacijoms pasibaigia šio
+įstatymo įsigaliojimo dieną.
 3. LAIB prievolės 2 straipsnio 4 dalyje
 nurodytiems kitiems kreditoriams laikomos pasibaigusiomis, o jų sąskaitos LAIB
 - uždarytomis, šio įstatymo 2 straipsnio 5 dalies nustatyta tvarka patvirtinus
@@ -263,12 +274,11 @@ pakeitimai:
 Nr. VIII-580,
 97.12.23, Žin., 1997, Nr.118-3039 (97.12.27)
  
- 
 8 straipsnis. LAIB likvidavimas   
 1. Vyriausybei šio įstatymo nustatyta
-tvarka įvykdžius LAIB prievoles banko kreditoriams ir perėmus visas LAIB
-reikalavimo teises pagal banko skolininkų neįvykdytas prievoles, LAIB
-Vyriausybės sprendimu likviduojamas.
+tvarka įvykdžius LAIB prievoles banko kreditoriams ir perėmus visas LAIB reikalavimo
+teises pagal banko skolininkų neįvykdytas prievoles, LAIB Vyriausybės sprendimu
+likviduojamas.
 2. LAIB reikalavimo teisių perėmimo
 tvarką ir banko skolininkų prievolių Vyriausybei įvykdymo tvarką nustato
 Vyriausybė. 
@@ -295,12 +305,6 @@ Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
  
- 
-
-
-
-
- 
 RESPUBLIKOS PREZIDENTAS                                         ALGIRDAS
 BRAZAUSKAS
  
@@ -326,7 +330,23 @@ AKCINĖS BENDROVĖS LIETUVOS AKCINIO INOVACINIO BANKO PRIEVOLIŲ BANKO
 KREDITORIAMS ĮVYKDYMO BEI JO TURTO PERĖMIMO ĮSTATYMO 3, 4 STRAIPSNIŲ PAKEITIMO
 IR PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-372,
+2005-10-18, Žin., 2005, Nr. 127-4533 (2005-10-27)
+AKCINĖS
+BENDROVĖS LIETUVOS AKCINIO INOVACINIO BANKO PRIEVOLIŲ BANKO KREDITORIAMS
+ĮVYKDYMO BEI JO TURTO PERĖMIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja po 3 mėnesių nuo jo paskelbimo „Valstybės žiniose“.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2000.08.10)
+Redagavo:
+Aušrinė Trapinskienė (2005-10-28)
+                 
+autrap@lrs.lt
