@@ -21,15 +21,15 @@ ASIGNAVIMAI
 Įstatymas skelbtas: Žin., 2004, Nr. 171-6303
 Neoficialus įstatymo tekstas
  
- 
 LIETUVOS RESPUBLIKOS
 2005 METŲ
 VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO 
 ĮSTATYMAS
 2004 m. lapkričio 9 d. Nr. IX-2550
 Vilnius
-1 straipsnis. Lietuvos Respublikos
-2005 metų valstybės biudžeto pajamų ir asignavimų patvirtinimas
+1 straipsnis.
+Lietuvos Respublikos 2005 metų valstybės biudžeto pajamų ir asignavimų
+patvirtinimas
 Patvirtinti Lietuvos Respublikos 2005 metų valstybės
 biudžetą – 13859660 tūkst. litų pajamų, 15669260 tūkst. litų asignavimų
 išlaidoms ir nefinansiniam turtui įsigyti (asignavimai viršija pajamas 1809600
@@ -39,7 +39,8 @@ pakeitimai:
 Nr. X-289, 2005-06-30,
 Žin., 2005, Nr. 84-3112 (2005-07-12)
  
-2 straipsnis. Savivaldybių biudžetų finansinių rodiklių patvirtinimas
+2 straipsnis. Savivaldybių biudžetų finansinių
+rodiklių patvirtinimas
 1. Patvirtinti gyventojų pajamų mokesčio dalį,
 tenkančią visų savivaldybių biudžetams nuo pajamų į nacionalinį biudžetą, –
 47,4 procento. 
@@ -68,9 +69,8 @@ pakeitimai:
 Nr. X-289, 2005-06-30,
 Žin., 2005, Nr. 84-3112 (2005-07-12)
  
-3
-straipsnis. Specialios tikslinės dotacijos valstybinėms (perduotoms
-savivaldybėms) funkcijoms atlikti naudojimas
+3 straipsnis. Specialios tikslinės
+dotacijos valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti naudojimas
 Nustatyti, kad vykdant biudžetą nepanaudotos
 specialios tikslinės dotacijos valstybinėms (perduotoms savivaldybėms)
 funkcijoms, išskyrus specialią tikslinę dotaciją, numatytą valstybės garantijų
@@ -79,9 +79,9 @@ dalių ir butų, atlikti sumos gali būti ketvirtame ketvirtyje naudojamos
 bendroms savivaldybių biudžetų reikmėms finansuoti, pirmiausia – įsiskolinimams
 dengti.
  
-4 straipsnis. Specialios tikslinės
-dotacijos 1997–2000 metų savivaldybių biudžetų negautoms pajamoms iš dalies
-dengti naudojimas
+4 straipsnis.
+Specialios tikslinės dotacijos 1997–2000 metų savivaldybių biudžetų negautoms
+pajamoms iš dalies dengti naudojimas
 1. Nustatyti, kad speciali tikslinė dotacija 1997–2000 metų
 savivaldybių biudžetų negautoms pajamoms, priimtoms skaičiuojant
 1997–2000 metų savivaldybių biudžetų finansinius rodiklius, iš dalies dengti
@@ -94,8 +94,8 @@ pateikia Finansų ministerijai informaciją apie šio straipsnio 1 dalyje
 nurodytos specialios tikslinės dotacijos, skirtos įsiskolinimui kreditoriams
 dengti, panaudojimą. 
  
-5 straipsnis. Mokinio krepšelio
-dydis ir jam patvirtintų asignavimų perskirstymas
+5 straipsnis.
+Mokinio krepšelio dydis ir jam patvirtintų asignavimų perskirstymas
 1.
 Mokinio krepšelis – tai mokymo lėšos, skirtos vienam sutartiniam mokiniui.
 2. Nustatyti mokinio krepšelio dydį: iki 2005 m.
@@ -108,7 +108,7 @@ finansuojamą;
 2) Finansų ministerija atitinkamoms savivaldybėms ir
 valstybės biudžeto asignavimų valdytojams tarpusavio atsiskaitymų tvarka – kai
 mokiniai pereina iš savivaldybės finansuojamos mokyklos į finansuojamą iš
-valstybės biudžeto mokyklą ar atvirkščiai.;
+valstybės biudžeto mokyklą ar atvirkščiai;
 3) Finansų ministerija atitinkamiems valstybės
 biudžeto asignavimų valdytojams – kai mokiniai pereina iš valstybės biudžeto
 finansuojamų mokyklų į valstybės biudžeto finansuojamas mokyklas.
@@ -117,8 +117,8 @@ pakeitimai:
 Nr. X-289, 2005-06-30,
 Žin., 2005, Nr. 84-3112 (2005-07-12)
  
-6 straipsnis. Specialios tikslinės
-dotacijos mokinio krepšeliui finansuoti naudojimas
+6 straipsnis.
+Specialios tikslinės dotacijos mokinio krepšeliui finansuoti naudojimas
 Nustatyti, kad įvykdžius bendruosius ugdymo planus bei visiškai
 patenkinus mokinio krepšelio poreikį, likusi nepanaudota suma nuo liepos 1 d.
 (mokslo metų pabaiga) bei nuo kitų mokslo metų gruodžio 1 d. gali būti
@@ -128,14 +128,14 @@ pakeitimai:
 Nr. X-289, 2005-06-30,
 Žin., 2005, Nr. 84-3112 (2005-07-12)
  
-7 straipsnis. Atskaitymų iš gyventojų pajamų mokesčio į Privalomojo
-sveikatos draudimo fondo biudžetą dydis
+7 straipsnis. Atskaitymų iš gyventojų pajamų
+mokesčio į Privalomojo sveikatos draudimo fondo biudžetą dydis
 Nustatyti, kad 2005 metais gyventojų pajamų mokesčio
 įmokos į Privalomojo sveikatos draudimo fondo biudžetą sudaro 30 procentų
 apskaičiuotos šio mokesčio sumos.
  
-8 straipsnis. Įmokų dydis už valstybės lėšomis
-draudžiamus asmenis
+8 straipsnis. Įmokų dydis už
+valstybės lėšomis draudžiamus asmenis
 Nustatyti, kad 2005 metais valstybės biudžeto įmokos į
 Privalomojo sveikatos draudimo fondo biudžetą yra po 264,2 lito už kiekvieną
 valstybės lėšomis draudžiamą asmenį.
@@ -159,24 +159,30 @@ valstybės garantija limitas
 Nustatyti, kad garantijų institucijų prisiimtų įsipareigojimų, kuriems
 suteikta valstybės garantija, suma negali viršyti 360000 tūkst. litų. 
  
-11 straipsnis. Valstybės skolos limitai
-1. Nustatyti 2005 metų Vyriausybės grynojo skolinimosi limitą – 1700000
-tūkst. litų.
+11 straipsnis. Valstybės
+skolos limitai
+1. Nustatyti 2005 metų Vyriausybės grynojo skolinimosi
+limitą – 4700000 tūkst. litų.
 2. Nustatyti, kad 2005 metais naujos valstybės
 garantijos nebus teikiamos, išskyrus atvejus, kai valstybės garantijos
 teikiamos suteiktoms paskoloms su valstybės garantija grąžinti ir šio įstatymo
 10 straipsnyje nurodytiems prisiimamiems įsipareigojimams užtikrinti.
+Straipsnio
+pakeitimai:
+Nr. X-378, 2005-10-20,
+Žin., 2005, Nr. 131-4704 (2005-11-05)
  
-12 straipsnis. Savivaldybių skolinimosi limitai
+12 straipsnis. Savivaldybių
+skolinimosi limitai
 1. Nustatyti šiuos savivaldybės skolinimosi limitus:
 1) savivaldybės skola negali viršyti 35 procentų
 (Vilniaus miesto savivaldybės – 50 procentų, Kauno miesto savivaldybės – 50
 procentų) patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš
 valstybės biudžeto savivaldybei skiriamų specialių tikslinių dotacijų);
 2) metinio savivaldybės grynojo skolinimosi suma
-negali viršyti 20 procentų, iš jų metinio trumpalaikio skolinimosi suma – 10
-procentų patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš
-valstybės biudžeto savivaldybei skiriamų specialių tikslinių dotacijų);
+negali viršyti 20 procentų, iš jų metinio trumpalaikio skolinimosi suma – 10 procentų
+patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš valstybės
+biudžeto savivaldybei skiriamų specialių tikslinių dotacijų);
 3) grąžintina tais kalendoriniais metais savivaldybės
 paskolų ir palūkanų bei su paskolų ėmimu susijusių įmokų suma negali viršyti 20
 procentų patvirtintų tų metų savivaldybės biudžeto pajamų (neįskaitant iš
@@ -196,9 +202,7 @@ biudžeto suteiktos trumpalaikės paskolos (įskaitant ir trumpalaikes beprocent
 paskolas, suteiktas iki 2004 m. balandžio 1 d.) laikinam pajamų trūkumui
 padengti.
  
-13
-straipsnis. Vyriausybės teisės
-vykdant biudžetą
+13 straipsnis. Vyriausybės teisės vykdant biudžetą
 Suteikti Vyriausybei arba jos įgaliotai institucijai teisę:
 1) asignavimus, numatytus valstybės biudžete tradicinių Lietuvos
 religinių bendruomenių, bendrijų ir centrų maldos namams atstatyti ir kitoms
@@ -220,15 +224,15 @@ teismų sprendimus, atlyginti ir kitiems tikslams, kai yra atskiras Lietuvos
 Respublikos įstatymas;
 5) nustatyti maksimalią lėšų sumą, dėl kurios einamaisiais
 biudžetiniais metais asignavimų valdytojai turi teisę prisiimti įsipareigojimus
-sudarydami sutartis dėl projektų, remiamų iš Europos Sąjungos paramos ir iš
-bendrojo finansavimo lėšų, įgyvendinimo;
+sudarydami sutartis dėl projektų, remiamų iš Europos Sąjungos paramos ir iš bendrojo
+finansavimo lėšų, įgyvendinimo;
 6) perskirstyti tarp asignavimų valdytojų, investavimo sričių ir
 ekonominės klasifikacijos straipsnių Europos Sąjungos paramos ir bendrojo
-finansavimo programoms bei projektams skirtas lėšas, taip pat lėšas minėtų
-programų ir projektų pridėtinės vertės mokesčiui mokėti. Leisti Europos
-Sąjungos paramos bendrai finansuojamoms programoms ir projektams (įskaitant Pasirengimo
-pereiti prie Europos Sąjungos cukraus režimo programai) skirtų lėšų
-nepanaudotus (palyginti su planu) 2004 metų pabaigos likučius naudoti bendrai
+finansavimo programoms bei projektams skirtas lėšas, taip pat lėšas minėtų programų
+ir projektų pridėtinės vertės mokesčiui mokėti. Leisti Europos Sąjungos paramos
+bendrai finansuojamoms programoms ir projektams (įskaitant Pasirengimo pereiti
+prie Europos Sąjungos cukraus režimo programai) skirtų lėšų nepanaudotus
+(palyginti su planu) 2004 metų pabaigos likučius naudoti bendrai
 finansuojamiems projektams kaip specialiųjų programų nepanaudotas lėšas;
 7) leisti Europos Sąjungos finansinės paramos laikinai laisvas lėšas
 grąžintinai naudoti valstybės biudžeto reikmėms, susijusioms su mokėjimais į
@@ -253,8 +257,8 @@ biudžeto apyvartos bei skolintas lėšas;
 12) apyvartos lėšas papildyti 2004 metais nepanaudotais valstybės
 biudžeto asignavimais ir iš 2005 metų valstybės biudžeto viršplaninių pajamų;
 13) atsižvelgiant į bendrojo šalies biudžeto deficitą, naudoti pagal
-nustatytą paskirtį 2005 metų Privatizavimo fondo lėšų sąmatos II skirsnio trečiojoje
-pastraipoje numatytas rezervuoti lėšas;
+nustatytą paskirtį 2005 metų Privatizavimo fondo lėšų sąmatos II skirsnio
+trečiojoje pastraipoje numatytas rezervuoti lėšas;
 14) nustatyta tvarka kompensuoti Lietuvos Respublikos
 atstovų kelionių į Europos Sąjungos Tarybos darbo organų susitikimus išlaidas
 iš tam tikslui Finansų ministerijai numatytų asignavimų. 
@@ -263,16 +267,15 @@ pakeitimai:
 Nr. X-289, 2005-06-30,
 Žin., 2005, Nr. 84-3112 (2005-07-12)
  
- 
 14 straipsnis. Biudžetinių įstaigų skolų padengimas
-1. Pavesti valstybės biudžeto asignavimų valdytojams, biudžetinių įstaigų
-vadovams ir savivaldybėms išanalizuoti įsiskolinimų priežastis, imtis priemonių
-įsiskolinimams sumažinti ir sudarant bei tvirtinant 2005 metų išlaidų sąmatas
-numatyti reikiamus asignavimus 2005 m. sausio 1 d. esantiems įsiskolinimams už
-suteiktas paslaugas, atliktus darbus ir įsigytas prekes padengti.
+1. Pavesti valstybės biudžeto asignavimų valdytojams, biudžetinių
+įstaigų vadovams ir savivaldybėms išanalizuoti įsiskolinimų priežastis, imtis
+priemonių įsiskolinimams sumažinti ir sudarant bei tvirtinant 2005 metų išlaidų
+sąmatas numatyti reikiamus asignavimus 2005 m. sausio 1 d. esantiems
+įsiskolinimams už suteiktas paslaugas, atliktus darbus ir įsigytas prekes
+padengti.
 2. Iš sutaupytų asignavimų išlaidoms pirmiausia turi būti dengiamas
 įsiskolinimas.
-[Papildyti straipsnį 3 dalimi]
 3. Siūloma savivaldybių taryboms, kad savivaldybių biudžetų gautos
 viršplaninės pajamos, palyginti su prognozuojamomis pajamomis, pirmiausia būtų
 naudojamos įsiskolinimams už suteiktas paslaugas, atliktus darbus padengti.
@@ -282,8 +285,8 @@ Nr. X-289, 2005-06-30,
 Žin., 2005, Nr. 84-3112 (2005-07-12)
  
 15 straipsnis. Pridėtinės vertės mokesčio grąžinimas
-1. Pridėtinės vertės mokesčio mokėtojai sumas, lygias į pridėtinės
-vertės mokesčio atskaitą įtrauktoms iš valstybės biudžeto (išskyrus pajamas už
+1. Pridėtinės vertės mokesčio mokėtojai sumas, lygias į pridėtinės vertės
+mokesčio atskaitą įtrauktoms iš valstybės biudžeto (išskyrus pajamas už
 teikiamas paslaugas) ir Privatizavimo fondo apmokėtoms pirkimo (importo)
 pridėtinės vertės mokesčio sumoms, privalo grąžinti į biudžetą Vyriausybės ar
 jos įgaliotos institucijos nustatyta tvarka.
@@ -291,8 +294,8 @@ jos įgaliotos institucijos nustatyta tvarka.
 (išskyrus pajamas už teikiamas paslaugas) ir Privatizavimo fondo tvarką nustato
 Vyriausybė ar jos įgaliota institucija.
  
-16 straipsnis.
-Privatizavimo fondo ir Rezervinio (stabilizavimo) fondo lėšų sąmatų
+16
+straipsnis. Privatizavimo fondo ir Rezervinio (stabilizavimo) fondo lėšų sąmatų
 patvirtinimas
 Patvirtinti 2005 metų Privatizavimo fondo ir Rezervinio (stabilizavimo)
 fondo lėšų sąmatas (6 priedėlis).
@@ -302,9 +305,9 @@ programos patvirtinimas
 Patvirtinti Valstybės investicijų 2005–2007 metų programą (7
 priedėlis).
  
-18 straipsnis. Valstybės
-įmonės Ignalinos atominės elektrinės eksploatavimo  nutraukimo fondo lėšų
-sąmatos patvirtinimas
+18
+straipsnis. Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo 
+nutraukimo fondo lėšų sąmatos patvirtinimas
 Patvirtinti 2005 metų Valstybės įmonės Ignalinos atominės elektrinės
 eksploatavimo nutraukimo fondo lėšų sąmatą (8 priedėlis).
  
@@ -1788,7 +1791,8 @@ Utenos apskrities
 
 
 
-iš jų: žemės reformai vykdyti
+iš jų: žemės reformai
+  vykdyti
 
 
 3444
@@ -2363,8 +2367,8 @@ Valstybinė saugomų
 
 
 
-Lietuvos hidrometeorologijos
-  tarnyba prie Aplinkos ministerijos
+Lietuvos
+  hidrometeorologijos tarnyba prie Aplinkos ministerijos
 
 
 6625
@@ -2399,8 +2403,8 @@ Lietuvos geologijos tarnyba
 
 
 
-Valstybinė teritorijų
-  planavimo ir statybos inspekcija prie Aplinkos ministerijos
+Valstybinė teritorijų planavimo
+  ir statybos inspekcija prie Aplinkos ministerijos
 
 
 2102
@@ -2613,8 +2617,8 @@ Kultūros ministerijos valdymo sritis
 
 
 
-Kultūros paveldo departamentas
-  prie Kultūros ministerijos
+Kultūros paveldo
+  departamentas prie Kultūros ministerijos
 
 
 27118
@@ -3028,8 +3032,8 @@ Pasienio kontrolės punktų
 
 
 
-Sveikatos apsaugos ministerijos
-  valdymo sritis
+Sveikatos apsaugos
+  ministerijos valdymo sritis
 
 
  
@@ -3424,8 +3428,8 @@ Policijos departamentas
 
 
 
-Žemės ūkio ministerijos valdymo
-  sritis
+Žemės ūkio ministerijos
+  valdymo sritis
 
 
  
@@ -5681,7 +5685,9 @@ Lietuvos
 
 
 Valstybinė
-  darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos
+  darbo inspekcija prie Socialinės apsaugos ir 
+darbo
+  ministerijos
 
 
  
@@ -6247,8 +6253,8 @@ Lietuvos
 
 
 
-Kauno
-  technologijos universiteto Maisto institutas
+Kauno technologijos
+  universiteto Maisto institutas
 
 
 434
@@ -6374,7 +6380,7 @@ Nr. X-289, 2005-06-30,
 
 
 Įstatymo 3 priedėlio
-nauja redakcija nuo 2005 m. liepos 13 d.:
+nauja redakcija nuo 2005 m. liepos 12 d.:
 Nr. X-289, 2005-06-30,
 Žin., 2005, Nr. 84-3112 (2005-07-12)
  
@@ -6695,8 +6701,7 @@ Klaipėdos miesto apylinkės
 
 
 
-Šiaulių miesto apylinkės
-  teismas
+Šiaulių miesto apylinkės teismas
 
 
 3123
@@ -7106,7 +7111,8 @@ iš jų darbo užmokesčiui
 
 
 
-Lazdijų rajono apylinkės teismas
+Lazdijų rajono apylinkės
+  teismas
 
 
 962
@@ -7485,8 +7491,7 @@ Tauragės rajono apylinkės
 
 
 
-Telšių rajono apylinkės
-  teismas
+Telšių rajono apylinkės teismas
 
 
 1099
@@ -7504,7 +7509,8 @@ Telšių rajono apylinkės
 
 
 
-Trakų rajono apylinkės teismas
+Trakų rajono apylinkės
+  teismas
 
 
 1257
@@ -7781,8 +7787,8 @@ Klaipėdos apygardos
 
 
 
-Panevėžio apygardos administracinis
-  teismas
+Panevėžio apygardos
+  administracinis teismas
 
 
 1074
@@ -7842,7 +7848,7 @@ Iš viso:
 
 
 Įstatymo 4 priedėlio
-nauja redakcija nuo 2005 m. liepos 13 d.:
+nauja redakcija nuo 2005 m. liepos 12 d.:
 Nr. X-289, 2005-06-30,
 Žin., 2005, Nr. 84-3112 (2005-07-12)
 Lietuvos Respublikos
@@ -10815,8 +10821,8 @@ pedagogų
    padidintam darbo užmokesčiui nuo rugsėjo 1 d. mokėti
 
 
-aglomeracijų
-   strateginiams triukšmo žemėlapiams parengti (kartogra-favimui)
+aglomeracijų strateginiams
+   triukšmo žemėlapiams parengti (kartogra-favimui)
 
 
 darbo užmokesčiui dėl indeksavimo koeficiento
@@ -12468,7 +12474,7 @@ IŠ VISO:
 
 
 Įstatymo 5 priedėlio
-nauja redakcija nuo 2005 m. liepos 13 d.:
+nauja redakcija nuo 2005 m. liepos 12 d.:
 Nr. X-289, 2005-06-30,
 Žin., 2005, Nr. 84-3112 (2005-07-12)
  
@@ -13262,8 +13268,8 @@ III. Išlaidos
 1. Gyventojų santaupoms atkurti
 ir su tuo susijusioms išlaidoms apmokėti      105000
  
-2. Lietuvos Respublikos Vyriausybės patvirtintoms šalies programoms
-            25000
+2. Lietuvos Respublikos Vyriausybės patvirtintoms šalies
+programoms             25000
     įgyvendinti 
  
 3. Privatizavimo komisijos ir Valstybės turto fondo
@@ -13271,8 +13277,8 @@ funkcijoms atlikti,
    ekspertams už paslaugas sumokėti ir objektams parengti
 privatizuoti             11580
  
-4. Iš viso išlaidų                                                                                                 
-141580
+4. Iš viso išlaidų                                                                                             
+    141580
  
 IV. Numatomas lėšų likutis pagal
 2006 m. sausio 1 d. būklę                             63420
@@ -13314,14 +13320,14 @@ IV. Numatomas lėšų likutis pagal
  
       lėšos, suteiktos
 grąžintinai valstybės turtiniams įsipareigojimams, 
-      susijusiems su valstybės
-skola, vykdyti                                                  445000
+      susijusiems su valstybės skola,
+vykdyti                                                  445000
  
  
 
 
 Įstatymo 7 priedėlio
-nauja redakcija nuo 2005 m. liepos 13 d.:
+nauja redakcija nuo 2005 m. liepos 12 d.:
 Nr. X-289, 2005-06-30,
 Žin., 2005, Nr. 84-3112 (2005-07-12)
  
@@ -13790,7 +13796,7 @@ iš jų informacinėms
 
 
                                                                                     Lietuvos Respublikos 
-                                                                                    2004
+                                                                                    2004
 m. lapkričio 9 d.
                                                                                     įstatymo
 Nr. IX-2550
@@ -13843,8 +13849,8 @@ projektams ir su jais susijusioms techninėms
 priemonėms Lietuvos elektrinėje įgyvendinti                                                19971
  
 iš jų:
-regeneratyviniams oro šildytuvams ir blokų
-valdymo 
+regeneratyviniams oro šildytuvams ir
+blokų valdymo 
 sistemoms modernizuoti                                                                3300
  
 sieros oksidų pašalinimo iš
@@ -13854,7 +13860,8 @@ degikliams
 ir apsaugoms nuo
 sprogimų sumontuoti                                         16671
  
-3.5.     Kitoms valstybės įmonės Ignalinos atominės
+3.5.     Kitoms valstybės įmonės Ignalinos
+atominės
 elektrinės pirmojo bloko eksploatavimo nutraukimo
 programos priemonėms vykdyti                                                   7545
  
@@ -13863,10 +13870,10 @@ išlaidos, susijusios su valstybės
 įmonės Ignalinos atominės elektrinės I bloko
 sustabdymu           23000
  
-4.        Numatomas lėšų likutis Valstybės įmonės Ignalinos
+4.        Numatomas lėšų likutis Valstybės įmonės
+Ignalinos
 atominės elektrinės eksploatavimo nutraukimo fonde
 2006 m. sausio 1 d.                                                                      193352
- 
 Priedėlio
 pakeitimai:
 Nr. X-289, 2005-06-30,
@@ -13882,17 +13889,27 @@ Nr.
 X-289,
 2005-06-30, Žin., 2005, Nr. 84-3112 (2005-07-12)
 2005
-METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO
-ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+PATVIRTINIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-378,
+2005-10-20, Žin., 2005, Nr. 131-4704 (2005-11-05)
+2005
+METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+PATVIRTINIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Angonita Rupšytė (2005-07-14)
-anrups@lrs.lt
- 
+Aušrinė Trapinskienė (2005-11-07)
+                 
+autrap@lrs.lt
  
 
 
