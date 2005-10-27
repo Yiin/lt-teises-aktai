@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2005-07-01 iki 2005-10-26
+Suvestinė redakcija nuo 2005-10-27 iki 2005-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -423,12 +423,12 @@ Visos valstybės bei savivaldybių institucijos ir įstaigos teikia neįgaliesie
 15 straipsnis. Kultūrinė veikla, kūno kultūra ir sportas
 
 
-1. Už neįgaliųjų integravimą į kultūrinę veiklą, poilsį ir sportą ir lygių galimybių jiems dalyvauti šiose gyvenimo srityse kartu su kitais visuomenės nariais sudarymą atsako apskričių viršininkai ir savivaldybių institucijos. Apskričių viršininkai iš apskričių viršininkų administracijoms skirtų valstybės biudžeto lėšų, o savivaldybių institucijos – iš savivaldybių biudžetų lėšų remia neįgaliųjų visuomeninių organizacijų įgyvendinamas kultūros, kūno kultūros ir sporto programas ir kitas priemones, skirtas visiems atitinkamoje apskrities ar savivaldybės teritorijoje gyvenantiems neįgaliesiems.
+1. Už neįgaliųjų integravimą į kultūrinę veiklą, poilsį ir sportą ir lygių galimybių jiems dalyvauti šiose gyvenimo srityse kartu su kitais visuomenės nariais sudarymą atsako apskričių viršininkai ir savivaldybių institucijos. Apskričių viršininkai iš apskričių viršininkų administracijoms skirtų valstybės biudžeto lėšų, o savivaldybių institucijos iš savivaldybių biudžetų lėšų remia neįgaliųjų asociacijų įgyvendinamas kultūros, kūno kultūros ir sporto programas ir kitas priemones, skirtas visiems atitinkamoje apskrities ar savivaldybės teritorijoje gyvenantiems neįgaliesiems.
 
 
 
 
-2. Valstybės masto ir tarptautinius neįgaliųjų kūno kultūros ir sporto renginius organizuoja ir rengia neįgaliųjų sporto organizacijos kartu su kitomis neįgaliųjų visuomeninėmis organizacijomis. Šie renginiai remiami iš valstybės biudžeto lėšų.
+2. Valstybės masto ir tarptautinius neįgaliųjų kūno kultūros ir sporto renginius organizuoja ir rengia neįgaliųjų sporto organizacijos kartu su kitomis neįgaliųjų asociacijomis. Šie renginiai remiami iš valstybės biudžeto lėšų.
 
 
 
@@ -438,10 +438,12 @@ Visos valstybės bei savivaldybių institucijos ir įstaigos teikia neįgaliesie
 
 
 
-4. Neįgaliųjų kūno kultūros ir sporto, kūno kultūros ir sporto organizacijų veiklos teisinius pagrindus, valstybės institucijų ir visuomeninių organizacijų kompetenciją neįgaliųjų kūno kultūros ir sporto srityje reglamentuoja Kūno kultūros ir sporto įstatymas ir kiti teisės aktai.
+4. Neįgaliųjų kūno kultūros ir sporto, kūno kultūros ir sporto organizacijų veiklos teisinius pagrindus, valstybės institucijų ir asociacijų kompetenciją neįgaliųjų kūno kultūros ir sporto srityje reglamentuoja Kūno kultūros ir sporto įstatymas ir kiti teisės aktai.
+
+
+Straipsnio pakeitimai:
+Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
  
-
-
 
 
 
@@ -744,28 +746,125 @@ Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA0
 
 
 
-23 straipsnis. Ginčų dėl neįgalumo lygio ir darbingumo lygio nustatymo sprendimas
+23 straipsnis. Ginčų dėl Tarnybos priimtų sprendimų nagrinėjimas
 
 
-1. Ginčus dėl neįgalumo lygio ir darbingumo lygio nustatymo nagrinėja ir sprendžia Ginčų komisija prie Socialinės apsaugos ir darbo ministerijos (toliau – Komisija). 
-
-
-
-
-2. Komisiją steigia, jos sudėtį, nuostatus bei ginčų nagrinėjimo tvarką tvirtina socialinės apsaugos ir darbo ministras.
+1. Ginčus tarp asmens, pensiją ar išmoką mokančios institucijos ir Tarnybos nagrinėja ir sprendžia Ginčų komisija prie Socialinės apsaugos ir darbo ministerijos (toliau – Komisija).
 
 
 
 
-3. Komisijos priimtą sprendimą privalo vykdyti ginčo šalys ir kiti su ginču susiję asmenys.
+2. Komisija yra viešasis juridinis asmuo, kurį steigia, Komisijos narių skaičių nustato, jos nuostatus bei ginčų nagrinėjimo tvarką tvirtina socialinės apsaugos ir darbo ministras. Komisija yra privalomo išankstinio ginčų nagrinėjimo ne teismo tvarka institucija.
 
 
 
 
-4. Komisijos sprendimas gali būti skundžiamas teismui įstatymų nustatyta tvarka. 
+3. Komisijos pirmininką ir Komisijos narius 5 metams skiria į pareigas ir atleidžia iš jų socialinės apsaugos ir darbo ministras. Komisijos pirmininku ir Komisijos nariu gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis.
+
+
+
+
+4. Komisijos pirmininkas ir Komisijos narys gali būti atleistas prieš terminą, kai:
+
+
+1) atsistatydina savo noru;
+
+
+
+
+2) praranda Lietuvos Respublikos pilietybę;
+
+
+
+
+3) nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 dienų iš eilės ar ilgiau kaip 140 dienų per paskutinius 12 mėnesių;
+
+
+
+
+4) įsiteisėja teismo nuosprendis, pagal kurį jis nuteisiamas bausme, dėl kurios negali tęsti darbo;
+
+
+
+
+5) šiurkščiai pažeidžia darbo pareigas.
+
+
+
+
+
+
+5. Komisijos pirmininkui ir Komisijos nariams draudžiama eiti kitas pareigas, išskyrus dirbti mokslinį ar pedagoginį darbą.
+
+
+
+
+6. Komisijos pirmininkui ir Komisijos nariams darbo užmokestis ir apmokėjimo sąlygos nustatomos pagal Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymą ir kitus teisės aktus.
+
+
+
+
+7. Pasibaigus įgaliojimų laikui, Komisijos pirmininkas ir Komisijos nariai pareigas eina, kol paskiriami nauji nariai.
+
+
+
+
+8. Skundas (prašymas) Komisijai gali būti paduodamas ne vėliau kaip per 30 dienų nuo raštiško Tarnybos priimto sprendimo gavimo dienos. Prie skundo turi būti pridedamas Tarnybos priimto sprendimo ir dokumentų, kurių reikia skundui (prašymui) pagrįsti, patvirtintos kopijos.
+
+
+
+
+9. Visi skundai (prašymai) nagrinėjami ir sprendimai priimami Komisijos posėdžiuose; juos organizuoja ir jiems vadovauja Komisijos pirmininkas.
+
+
+
+
+10. Komisijos sprendimas priimamas, kai už jį balsuoja dauguma Komisijos narių. Jeigu balsai pasiskirsto po lygiai, lemia Komisijos pirmininko balsas. Kai Komisijos pirmininko nėra, laikinai jį pavaduoja vienas iš jos narių, paskirtas Komisijos pirmininko.
+
+
+
+
+11. Komisija sprendimą turi priimti ne vėliau kaip per 30 dienų nuo skundo (prašymo) gavimo dienos.
+
+
+
+
+12. Komisijos sprendimas turi būti pagrįstas išnagrinėtais dokumentais ir įstatymų bei kitų teisės aktų normomis.
+
+
+
+
+13. Komisija priima vieną iš šių sprendimų:
+
+
+1) skundą (prašymą) atmesti Tarnybos sprendimą paliekant nepakeistą;
+
+
+
+
+2) skundą (prašymą) patenkinti įpareigojant Tarnybą per Komisijos nustatytą laiką pakeisti sprendimą.
+
+
+
+
+
+
+14. Komisijos sprendimas įstatymų nustatyta tvarka gali būti skundžiamas teismui. Tais atvejais, kai per šiame įstatyme nustatytą terminą Komisija sprendimo nepriima, Tarnybos priimtas sprendimas įstatymų nustatyta tvarka gali būti skundžiamas teismui.
+
+
+
+
+15. Skundo (prašymo) apskundimas teismui Komisijos sprendimo vykdymo nesustabdo.
+
+
+
+
+16. Komisija, nagrinėdama skundus (prašymus), privalo vadovautis pagarbos žmogaus teisėms, teisingumo, sąžiningumo ir protingumo principais.
+
+
+Straipsnio pakeitimai:
+Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
  
-
-
 
 
 
@@ -777,28 +876,25 @@ SPECIALIŲJŲ POREIKIŲ NUSTATYMAS IR TENKINIMAS
  
 
 
-24 straipsnis. Specialiųjų poreikių nustatymas ir tenkinimas
+24 straipsnis. Specialiųjų poreikių ir jų lygio nustatymas ir specialiųjų poreikių tenkinimas
 
 
-1. Specialieji neįgaliųjų poreikiai nustatomi ir tenkinami neatsižvelgiant į jų amžių, neįgalumo lygį ar darbingumo lygį ir siekiant užtikrinti lygias teises ir galimybes visose gyvenimo srityse.
-
-
-
-
-2. Specialieji poreikiai nustatomi tokiose pagrindinėse neįgaliųjų veiklos srityse: buityje ir asmeniniame gyvenime, ugdymesi, darbinėje veikloje, visuomeniniame gyvenime. 
+1. Specialieji neįgaliųjų poreikiai ir jų lygis nustatomi ir specialieji poreikiai tenkinami neatsižvelgiant į neįgaliųjų amžių, neįgalumo lygį ar darbingumo lygį ir siekiant užtikrinti lygias teises ir galimybes visose gyvenimo srityse.
 
 
 
 
-3. Specialiųjų poreikių nustatymo, jų tenkinimo tvarką ir sąlygas nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. 
+2. Specialieji poreikiai ir jų lygis nustatomi tokiose pagrindinėse neįgaliųjų veiklos srityse: buityje ir asmeniniame gyvenime, ugdymo srityje, darbinėje veikloje, visuomeniniame gyvenime.
 
 
 
 
-4. Specialieji poreikiai tenkinami specialiosios pagalbos priemonėmis. Jos gali būti šių tipų: techninės pagalbos priemonės, finansinės pagalbos priemonės ir socialinės paslaugos. 
+3. Specialiųjų poreikių ir jų lygio nustatymo, specialiųjų poreikių tenkinimo tvarką ir sąlygas nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+
+
+Straipsnio pakeitimai:
+Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
  
-
-
 
 
 
@@ -1071,3 +1167,8 @@ Lietuvos Respublikos invalidų socialinės integracijos įstatymo pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybinių pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Teisėjų valstybinių pensijų įstatymo, Pensijų kaupimo įstatymo, Lietuvos nepriklausomybės akto signatarų statuso įstatymo pakeitimo ir papildymo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 15, 16, 17, 23 ir 24 straipsnių pakeitimo įstatymas
