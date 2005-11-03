@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23145B5CDF8E"
 
 # Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymas
 
-Suvestinė redakcija nuo 2004-11-26 iki 2005-11-02
+Suvestinė redakcija nuo 2005-11-03 iki 2007-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2758, i. k. 1031010ISTA0IX-1601
  
@@ -308,12 +308,18 @@ Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010IS
 4 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registras
 
 
-1. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registras yra valstybės ir savivaldybių institucijų bei įstaigų ir Lietuvos Respublikos teisės aktais įgaliotų kitų juridinių asmenų išleidžiamų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų duomenų bazė.
+1. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registras yra valstybės ir savivaldybių institucijų bei įstaigų ir Lietuvos Respublikos teisės aktais įgaliotų kitų juridinių asmenų, taip pat Europos Sąjungos institucijų nustatytų privalomai naudoti Lietuvos Respublikoje vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų, priskirtų technologinės apsaugos lygiui ir grupei, duomenų bazė. 
+Straipsnio dalies pakeitimai:
+Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 141-0 (2005-12-01), i. k. 1051010ISTA000X-369
+ 
 
 
 
 
-2. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registro objektas – duomenys apie valstybės ir savivaldybių institucijų bei įstaigų, kitų Lietuvos Respublikos teisės aktais įgaliotų juridinių asmenų išleidžiamus vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus. Registro duomenų bazėje kaupiami duomenys apie vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinę apsaugą, leidybą, gamybą ir klastojimą.
+2. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registro objektas – duomenys apie valstybės ir savivaldybių institucijų bei įstaigų, kitų Lietuvos Respublikos teisės aktais įgaliotų juridinių asmenų, taip pat Europos Sąjungos institucijų nustatytus privalomai naudoti Lietuvos Respublikoje vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus. Registro duomenų bazėje kaupiami duomenys apie vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų, priskirtų technologinės apsaugos lygiui ir grupei, technologinę apsaugą, leidybą, gamybą ir klastojimą.
+Straipsnio dalies pakeitimai:
+Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 141-0 (2005-12-01), i. k. 1051010ISTA000X-369
+ 
 
 
 
@@ -430,9 +436,10 @@ Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010IS
 
 
 
-4. Komisiją sudaro 7 nariai – po vieną atstovą iš Tarnybos, Vidaus reikalų ministerijos, Finansų ministerijos, Užsienio reikalų ministerijos, Valstybės saugumo departamento ir du iš Teisingumo ministerijos. Komisijos personalinę sudėtį, pirmininką ir darbo reglamentą tvirtina Vyriausybė ar jos įgaliota institucija.
+4. Komisiją sudaro 7 nariai – po vieną atstovą iš Tarnybos, Asmens dokumentų išrašymo centro prie Vidaus reikalų ministerijos, Finansų ministerijos, Užsienio reikalų ministerijos, Valstybės saugumo departamento, Lietuvos teismo ekspertizės centro ir Lietuvos policijos Kriminalistinių tyrimų centro. Komisijos personalinę sudėtį, pirmininką ir darbo reglamentą tvirtina Vyriausybė ar jos įgaliota institucija. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 141-0 (2005-12-01), i. k. 1051010ISTA000X-369
  
 
 
@@ -959,3 +966,8 @@ Lietuvos Respublikos vertybinių popierių, dokumentų blankų, banderolių, ofi
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2568, 2004-11-11, Žin., 2004, Nr. 171-6316 (2004-11-26), i. k. 1041010ISTA0IX-2568
 Lietuvos Respublikos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos įstatymo 11 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 141-0 (2005-12-01), i. k. 1051010ISTA000X-369
+Lietuvos Respublikos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos įstatymo 4 ir 6 straipsnių pakeitimo įstatymas
