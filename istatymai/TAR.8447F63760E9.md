@@ -5994,13 +5994,15 @@ leidinyje.
  
 210 straipsnis.
 Informacija, susijusi su užsienio valstybių asmenimis
-1. Priežiūros komisija, kartu pateikdama informaciją
-apie grupės, į kurią įeina dukterinė draudimo įmonė, struktūrą, privalo
-informuoti Europos Bendrijų Komisiją apie:
+1. Priežiūros komisija privalo informuoti Europos
+Bendrijų Komisiją ir kitų Europos Sąjungos valstybių narių kompetentingas
+institucijas apie:
 1) draudimo veiklos licencijos išdavimą draudimo
 įmonei, kuri tiesiogiai ar netiesiogiai yra užsienio valstybės juridinio asmens
-ar asmenų dukterinė įmonė;
-2) apie užsienio valstybės juridinio asmens ar asmenų
+ar asmenų dukterinė įmonė. Šiuo atveju Priežiūros komisija taip pat turi
+pateikti informaciją apie grupės, į kurią įeina dukterinė draudimo įmonė,
+struktūrą;
+2) užsienio valstybės juridinio asmens ar asmenų
 įgytas draudimo įmonės akcijas, jei pastaroji tampa dukterine draudimo įmone.
 2. Priežiūros
 komisija privalo informuoti Europos Bendrijų Komisiją apie esmines kliūtis ir
@@ -6039,6 +6041,9 @@ ar asmenų dukterinė įmonė;
 valstybės juridinio asmens ar asmenų prašymus įsigyti draudimo įmonės akcijų,
 po šio akcijų įsigijimo tiesiogiai ar netiesiogiai turėsiančiam ar
 turėsiantiems dukterinę draudimo įmonę Lietuvos Respublikoje.
+Straipsnio pakeitimai:
+Nr. X-371, 2005-10-18,
+Žin., 2005, Nr. 130-4664 (2005-11-03)
  
 211 straipsnis.
 Teisių ir pareigų pagal draudimo sutartis perleidimas
@@ -6075,9 +6080,9 @@ Respublikoje be jokių papildomų formalumų visiškai pripažįstamos kitų Eur
 Sąjungos valstybių narių institucijų taikomos intervencinės priemonės,
 sukelsiančios ar galinčios sukelti pasekmes Lietuvos Respublikos fiziniams ir
 juridiniams asmenims, net jei Lietuvos Respublikoje nėra numatytos tokio
-pobūdžio intervencinės priemonės arba šių intervencinių priemonių taikymas
-Lietuvos Respublikoje yra siejamas su tam tikrų papildomų sąlygų įgyvendinimu,
-o šios sąlygos nėra įgyvendintos.
+pobūdžio intervencinės priemonės arba šių intervencinių priemonių taikymas Lietuvos
+Respublikoje yra siejamas su tam tikrų papildomų sąlygų įgyvendinimu, o šios
+sąlygos nėra įgyvendintos.
 2. Kitų Europos
 Sąjungos valstybių narių institucijų taikomos intervencinės priemonės Lietuvos
 Respublikoje įsigalioja tuo pat metu, kai jos įsigalioja kitoje Europos
@@ -6154,8 +6159,8 @@ pakeitimo įstatymas (Žin., 1997, Nr. 67-1652);
 3) Lietuvos Respublikos draudimo įstatymo 2 straipsnio
 pakeitimo įstatymas (Žin., 1997, Nr. 104-2623); 
 4) Lietuvos Respublikos draudimo įstatymo 2, 7, 11,
-17, 22, 27, 28, 29, 31, 37, 39, 42, 43, 45, 46, 47, 60, 63, 66 straipsnių pakeitimo
-ir papildymo įstatymas (Žin., 2000, Nr. 29-803);
+17, 22, 27, 28, 29, 31, 37, 39, 42, 43, 45, 46, 47, 60, 63, 66 straipsnių
+pakeitimo ir papildymo įstatymas (Žin., 2000, Nr. 29-803);
 5) Lietuvos Respublikos draudimo įstatymo 27 ir 29
 straipsnių pakeitimo įstatymas (Žin., 2000, Nr. 64-1915); 
 6) Lietuvos Respublikos draudimo įstatymo 32
@@ -6237,12 +6242,12 @@ Finansų ministerijos valdyba bei direktorius ir jo pavaduotojas (pavaduotojai)
 netenka savo įgaliojimų ir Lietuvos Respublikos draudimo priežiūros komisija
 tampa Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos turto,
 teisių ir pareigų perėmėja.
-4. Paskyrus Priežiūros
-komisijos narius, Priežiūros komisija pradeda vykdyti ir iki šio Įstatymo
-įsigaliojimo vykdo teisės aktuose nustatytas Valstybinės draudimo priežiūros
-tarnybos prie Finansų ministerijos valdybos teises ir pareigas, o Priežiūros
-komisijos pirmininkas – Valstybinės draudimo priežiūros tarnybos prie Finansų
-ministerijos direktoriaus teises ir pareigas. 
+4. Paskyrus
+Priežiūros komisijos narius, Priežiūros komisija pradeda vykdyti ir iki šio
+Įstatymo įsigaliojimo vykdo teisės aktuose nustatytas Valstybinės draudimo
+priežiūros tarnybos prie Finansų ministerijos valdybos teises ir pareigas, o
+Priežiūros komisijos pirmininkas – Valstybinės draudimo priežiūros tarnybos
+prie Finansų ministerijos direktoriaus teises ir pareigas. 
  
 221 straipsnis. Pasiūlymas Vyriausybei ir
 įpareigojimas Priežiūros komisijai
@@ -6296,12 +6301,12 @@ narėje teikti paslaugų ar steigti filialo.
 3. Veikiančios ne
 gyvybės draudimo įmonės, turinčios galiojančių gyvybės draudimo sutarčių,
 naudojasi teisėmis ir vykdo pareigas pagal šias sutartis iki šių sutarčių
-pasibaigimo. Šių draudimo sutarčių šalys, įsigaliojus šiam Įstatymui, negali
-keisti iki šio Įstatymo įsigaliojimo sudarytos gyvybės draudimo sutarties
-termino nustatydamos ilgesnį gyvybės draudimo sutarties terminą. Veikiančios ne
-gyvybės draudimo įmonės, turinčios galiojančių gyvybės draudimo sutarčių,
-privalo vadovautis Priežiūros komisijos nurodymais dėl gyvybės ir ne gyvybės
-draudimo veiklos atskiro administravimo.
+pasibaigimo. Šių draudimo sutarčių šalys, įsigaliojus šiam Įstatymui, negali keisti
+iki šio Įstatymo įsigaliojimo sudarytos gyvybės draudimo sutarties termino
+nustatydamos ilgesnį gyvybės draudimo sutarties terminą. Veikiančios ne gyvybės
+draudimo įmonės, turinčios galiojančių gyvybės draudimo sutarčių, privalo
+vadovautis Priežiūros komisijos nurodymais dėl gyvybės ir ne gyvybės draudimo
+veiklos atskiro administravimo.
 4. Priežiūros
 komisija turi teisę teikti privalomus nurodymus ar rekomendacijas veiklos
 pertvarkymo pagal šio Įstatymo nuostatas klausimais.
@@ -6311,9 +6316,9 @@ Likvidavimas ir bankrotas
 1. Šio Įstatymo
 nuostatos taikomos draudimo įmonių likvidavimo ir bankroto bei Lietuvos
 Respublikoje įsteigtų užsienio valstybių draudimo įmonių filialų veiklos
-nutraukimo procedūroms, jei sprendimas likviduoti draudimo įmonę ar nutartis
-iškelti jai bankroto bylą, sprendimas nutraukti užsienio valstybės draudimo
-įmonės filialo veiklą buvo priimti įsigaliojus šiam Įstatymui.
+nutraukimo procedūroms, jei sprendimas likviduoti draudimo įmonę ar nutartis iškelti
+jai bankroto bylą, sprendimas nutraukti užsienio valstybės draudimo įmonės
+filialo veiklą buvo priimti įsigaliojus šiam Įstatymui.
 2. Jei sprendimas
 likviduoti draudimo įmonę ar nutartis iškelti jai bankroto bylą, sprendimas
 nutraukti užsienio valstybės, kuri yra Pasaulio prekybos organizacijos narė,
@@ -6339,10 +6344,10 @@ komisija turi teisę teikti privalomus nurodymus ar rekomendacijas veiklos
 pertvarkymo pagal šio Įstatymo nuostatas klausimais.
 4. Pirmasis draudimo
 brokerių kvalifikacinis egzaminas organizuojamas Priežiūros komisijos nustatytą
-dieną ne vėliau kaip praėjus 4 mėnesiams po šio Įstatymo įsigaliojimo. Priežiūros
-komisija inicijuoja Draudimo brokerių rūmų steigiamąjį susirinkimą Priežiūros
-komisijos nustatytą dieną ne vėliau kaip praėjus vienam mėnesiui po pirmojo
-draudimo brokerių kvalifikacinio egzamino pabaigos.
+dieną ne vėliau kaip praėjus 4 mėnesiams po šio Įstatymo įsigaliojimo.
+Priežiūros komisija inicijuoja Draudimo brokerių rūmų steigiamąjį susirinkimą
+Priežiūros komisijos nustatytą dieną ne vėliau kaip praėjus vienam mėnesiui po
+pirmojo draudimo brokerių kvalifikacinio egzamino pabaigos.
 5. Asmenys, iki 2000
 m. rugsėjo 1 d. tapę draudimo brokerių įmonių vadovais ir iki šiol einantys
 šias pareigas, per 30 dienų nuo šio Įstatymo įsigaliojimo be kvalifikacinio
@@ -6412,8 +6417,8 @@ nurodytos priemonės nėra pakankamos pažeidimams pašalinti, Priežiūros komi
 prieš tai įspėjusi užsienio valstybės, kuri yra Pasaulio prekybos organizacijos
 narė, kompetentingą instituciją, turi teisę taikyti poveikio priemonę, nurodytą
 šio straipsnio 3 dalies 2 punkte. Esant neatidėliotinam būtinumui, Priežiūros
-komisija turi teisę taikyti šią poveikio priemonę neatsižvelgdama į šio straipsnio
-5 dalies nuostatas.
+komisija turi teisę taikyti šią poveikio priemonę neatsižvelgdama į šio
+straipsnio 5 dalies nuostatas.
 7. Apie poveikio priemonę Priežiūros komisija raštu
 praneša užsienio valstybės, kuri yra Pasaulio prekybos organizacijos narė,
 draudimo įmonei, kartu nurodydama išsamius šios priemonės taikymo motyvus.
@@ -6508,8 +6513,8 @@ panaikinanti steigimo laisvės apribojimus tiesioginiame draudime, išskyrus
 gyvybės draudimą;
 5) 1976 m. birželio 29 d. Tarybos direktyva
 76/580/EEB, iš dalies pakeičianti direktyvą 73/239/EEB dėl tiesioginio
-draudimo, išskyrus gyvybės draudimą, veiklos pradėjimą ir plėtojimą reglamentuojančių
-įstatymų ir kitų teisės aktų suderinimo;
+draudimo, išskyrus gyvybės draudimą, veiklos pradėjimą ir plėtojimą
+reglamentuojančių įstatymų ir kitų teisės aktų suderinimo;
 6)
 1978 m. gegužės 30 d. Tarybos direktyva 78/473/EEB dėl valstybių narių
 įstatymų, įstatymų lydimųjų aktų ir administracinių nuostatų, susijusių su
@@ -6519,8 +6524,8 @@ Bendrijos bendruoju draudimu, derinimo;
 Bendrijų sutarties 54 straipsnio 3 dalies „g“ punktu dėl tam tikrų rūšių
 bendrovių metinių atskaitomybių;
 8)
-1983 m. birželio 13 d. septintoji Tarybos direktyva 83/349/EEB, pagrįsta Europos
-Bendrijų sutarties 54 straipsnio 3 dalies „g“ punktu dėl konsoliduotų
+1983 m. birželio 13 d. septintoji Tarybos direktyva 83/349/EEB, pagrįsta
+Europos Bendrijų sutarties 54 straipsnio 3 dalies „g“ punktu dėl konsoliduotų
 ataskaitų;
 9) 1983 m. gruodžio 30 d. antroji Tarybos direktyva
 84/5/EEB dėl valstybių narių įstatymų, susijusių su transporto priemonių
@@ -6551,10 +6556,10 @@ subjektų (KIAVPS), kad būtų gerinama riziką ribojanti priežiūra;
 14) 1998 m. spalio
 27 d. Europos Parlamento ir Tarybos direktyva 98/78/EB dėl draudimo įmonių
 papildomos priežiūros draudimo įmonių grupėje;
-15) 2000 m.
-lapkričio 7 d. Europos Parlamento ir Tarybos direktyva 2000/64/EB, iš dalies
-pakeičianti Tarybos 85/611/EEB, 92/49/EEB, 92/96/EEB ir 93/22/EEB direktyvas
-dėl keitimosi informacija su trečiosiomis valstybėmis; 
+15) 2000 m. lapkričio
+7 d. Europos Parlamento ir Tarybos direktyva 2000/64/EB, iš dalies pakeičianti
+Tarybos 85/611/EEB, 92/49/EEB, 92/96/EEB ir 93/22/EEB direktyvas dėl keitimosi
+informacija su trečiosiomis valstybėmis; 
 16) 2001 m. kovo 19 d. Europos Parlamento ir Tarybos
 direktyva 2001/17/EB dėl draudimo įmonių reorganizavimo ir likvidavimo;
 17) 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr.
@@ -6572,7 +6577,17 @@ tarpininkavimo;
 įstaigų, draudimo įmonių ir finansų maklerio įmonių, priklausančių finansų
 konglomeratui, priežiūros ir pakeičianti Tarybos direktyvas 73/239/EEB,
 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB, 93/22/EEB ir Europos Parlamento bei
-Tarybos direktyvas 98/78/EB ir 2000/12/EB.
+Tarybos direktyvas 98/78/EB ir 2000/12/EB;
+22) 2005 m. kovo 9
+d. Europos Parlamento ir Tarybos direktyva 2005/1/EB, iš dalies keičianti
+Tarybos direktyvas 73/239/EEB, 85/611/EEB, 91/675/EEB, 92/49/EEB, 93/6/EEB,
+taip pat Europos Parlamento ir Tarybos direktyvas 94/19/EB, 98/78/EB,
+2000/12/EB, 2001/34/EB, 2002/83/EB ir 2002/87/EB, siekiant sukurti naują
+finansinių paslaugų komitetų organizacinę struktūrą.
+Priedo
+pakeitimai:
+Nr. X-371, 2005-10-18,
+Žin., 2005, Nr. 130-4664 (2005-11-03)
 ________________
  
 Pakeitimai:
@@ -6588,8 +6603,8 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 nuo 2004 m. rugpjūčio 11 d.
  
 2.
-Lietuvos Respublikos Seimas,
-Įstatymas
+Lietuvos Respublikos
+Seimas, Įstatymas
 Nr. IX-2474,
 2004-10-12, Žin., 2004, Nr. 156-5688 (2004-10-26)
 DRAUDIMO ĮSTATYMO 187
@@ -6604,11 +6619,20 @@ X-77,
 DRAUDIMO
 ĮSTATYMO 169 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-371,
+2005-10-18, Žin., 2005, Nr. 130-4664 (2005-11-03)
+DRAUDIMO
+ĮSTATYMO 210 STRAIPSNIO PAKEITIMO IR PRIEDO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2005-02-08)
+Aušrinė Trapinskienė (2005-11-03)
                  
 autrap@lrs.lt
