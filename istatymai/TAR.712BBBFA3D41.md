@@ -31,21 +31,18 @@ SANDAROS
 S
  
 Nauja įstatymo redakcija (keistas įstatymo pavadinimas):
-Nr. VIII-1821, 00.07.11, Žin., 2000, Nr.
-61-1826 (00.07.26)
 Nr.
 IX-1946,
 2003-12-23, Žin., 2004, Nr. 4-47 (2004-01-07)
- 
 PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
  
 1 straipsnis. Įstatymo paskirtis, tikslas
 1. Įstatymo paskirtis – nustatyti
 Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų (toliau – biudžetas) turinį, šių biudžetų pajamų sudarymo
-ir asignavimų naudojimo teisinius pagrindus, taip pat biudžetų rengimo, tvirtinimo,
-vykdymo, vertinimo ir kontrolės pagrindines nuostatas, procedūras, asignavimų
-valdytojų pareigas, teises ir atsakomybę.
+ir asignavimų naudojimo teisinius pagrindus, taip pat biudžetų rengimo,
+tvirtinimo, vykdymo, vertinimo ir kontrolės pagrindines nuostatas, procedūras,
+asignavimų valdytojų pareigas, teises ir atsakomybę.
 2. Įstatymo tikslas – siekiant
 ilgalaikės, visapusiškos ekonominės ir socialinės Lietuvos Respublikos piliečių
 gerovės, užtikrinti, kad sudarant ir vykdant biudžetą piniginiai ištekliai būtų
@@ -67,7 +64,8 @@ Asignavimai įsipareigojimams – didžiausia lėšų suma, kurios dydžio
 teisę prisiimti sudarydami sutartis dėl projektų, remiamų iš Europos Sąjungos
 finansinės paramos ir bendrojo finansavimo lėšų.
 3. Biudžetiniai
-metai – metai, kurie prasideda sausio 1 dieną ir baigiasi gruodžio 31 dieną.
+metai – metai, kurie prasideda sausio 1 dieną ir baigiasi gruodžio 31
+dieną.
 4.
 Biudžetinių įstaigų pajamos – pajamos (išskyrus valstybės rinkliavą,
 žyminį mokestį ir pajamas už ilgalaikio materialiojo turto nuomą), gautos
@@ -113,12 +111,12 @@ biudžeto pajamas sudaro visos valstybės biudžeto ir savivaldybių biudžetų
 sukaupiamos lėšos. Valstybės ir savivaldybių biudžetų pajamos ir asignavimai
 gali būti tik piniginės lėšos.
 2. Nacionalinio biudžeto asignavimai naudojami valstybės ir savivaldybių
-funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos,
-rinkliavos gali būti perskirstomi tik per nacionalinį biudžetą, Valstybinį
-socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Privatizavimo
-fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės
-elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą, savivaldybių
-privatizavimo fondus.
+funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos
+įmokos, rinkliavos gali būti perskirstomi tik per nacionalinį biudžetą,
+Valstybinį socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą,
+Privatizavimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės
+Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą,
+savivaldybių privatizavimo fondus.
 3.
 Nacionaliniame biudžete į apskaitą įtraukiamos ir kitos specialiųjų programų
 išlaidoms apmokėti (išskyrus priskiriamas nacionalinio biudžeto pajamoms)
@@ -309,8 +307,8 @@ prioritetus.
  
 16 straipsnis. Valstybės biudžeto apyvartos lėšos 
 1. Valstybės biudžeto
-apyvartos lėšos sudaromos iš biudžeto lėšų likučio, o kai jo nepakanka – iš biudžeto
-pajamų.
+apyvartos lėšos sudaromos iš biudžeto lėšų likučio, o kai jo nepakanka – iš
+biudžeto pajamų.
 2. Apyvartos lėšos
 naudojamos specialiųjų programų nepanaudotų lėšų likučiams grąžinti ir biudžeto
 lėšų stygiui dengti.
@@ -339,9 +337,8 @@ patvirtinimo įstatymo
 projekto pateikimas Seimui
 1. Vyriausybė atitinkamų metų Valstybės biudžeto ir savivaldybių
 biudžetų finansinių rodiklių patvirtinimo įstatymo projektą pateikia Seimui ne
-vėliau kaip prieš 75 kalendorines dienas iki biudžetinių metų pabaigos.
-Vyriausybė, prieš teikdama projektą Seimui, pateikia jį Lietuvos savivaldybių
-asociacijai.
+vėliau kaip prieš 75 kalendorines dienas iki biudžetinių metų pabaigos. Vyriausybė,
+prieš teikdama projektą Seimui, pateikia jį Lietuvos savivaldybių asociacijai.
 2. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 patvirtinimo įstatymo projekte nustatoma:
 1) bendra pajamų
@@ -384,9 +381,15 @@ valstybės vardu arba su valstybės garantija, nevykdomų finansinių
 įsipareigojimų atidėjimus;
 4) duomenis apie numatomą bendrą valstybės skolinimosi iš užsienio ir
 vidaus kreditorių sumą;
-5) asignavimų valdytojų programų uždavinių vertinimo kriterijus;
+5) informaciją
+apie asignavimų valdytojų strateginiuose veiklos planuose pateiktus vertinimo
+kriterijus;
 6) kitus įstatymų bei
 kitų teisės aktų nustatytus dokumentus.
+Straipsnio pakeitimai:
+Nr.
+X-406,
+2005-11-17, Žin., 2005, Nr. 144-5237 (2005-12-10)
  
 20 straipsnis.
 Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių svarstymas 
@@ -448,8 +451,8 @@ asignavimų valdytojų patvirtintas programas.
 biudžeto lėšų likučio, o kai jo nepakanka – iš
 biudžeto pajamų. 
 2. Apyvartos lėšos
-naudojamos specialiųjų programų nepanaudotų lėšų likučiams grąžinti ir savivaldybių
-tarybų nustatyta tvarka biudžeto lėšų stygiui dengti.
+naudojamos specialiųjų programų nepanaudotų lėšų likučiams grąžinti ir
+savivaldybių tarybų nustatyta tvarka biudžeto lėšų stygiui dengti.
  
 25 straipsnis. Savivaldybės administracijos direktoriaus rezervas
 1. Savivaldybės gali sudaryti savivaldybės administracijos direktoriaus
@@ -500,8 +503,8 @@ BIUDŽETŲ VYKDYMAS
 27
 straipsnis. Biudžeto vykdymo organizavimas ir vykdančios institucijos
 1. Valstybės biudžeto vykdymą organizuoja Vyriausybė.
-2. Valstybės biudžeto kasos operacijų vykdymą organizuoja Finansų ministerija
-per Lietuvos Respublikos kredito įstaigas.
+2. Valstybės biudžeto kasos operacijų vykdymą organizuoja Finansų
+ministerija per Lietuvos Respublikos kredito įstaigas.
 3. Savivaldybių biudžetų vykdymą organizuoja savivaldybių administracijų
 direktoriai.
 4. Savivaldybių biudžetų kasos operacijų vykdymą organizuoja
@@ -527,8 +530,8 @@ kiekvieną mėnesį negali viršyti 1/12 praėjusių metų šių biudžetų asig
 viršyti 1/12 praėjusių metų atitinkamo biudžeto šiam asignavimų valdytojui
 skirtų lėšų ir skiriamos tik tęstinei veiklai bei įstatymuose nustatytiems
 įsipareigojimams finansuoti (išskyrus Europos Sąjungos finansinės paramos ir
-bendrojo finansavimo programas, kurioms asignavimai pervedami vadovaujantis sudarytomis
-sutartimis) bei įsiskolinimams dengti.
+bendrojo finansavimo programas, kurioms asignavimai pervedami vadovaujantis
+sudarytomis sutartimis) bei įsiskolinimams dengti.
  
 30 straipsnis. Biudžeto gautų
 viršplaninių pajamų naudojimas
@@ -578,8 +581,8 @@ sąskaitų į savivaldybių biudžetų sąskaitas.
 2. Užsienio reikalų ministerijai ir kitoms ministerijoms paliekami
 mėnesio išlaidų dydžio pereinamieji lėšų likučiai, esantys Lietuvos Respublikos
 diplomatinių ir kitų atstovybių, konsulinių įstaigų, specialiųjų bei gynybos
-atašė ir Lietuvos atstovų, perkeltų į tarptautines ir užsienio institucijas,
-sąskaitose užsienio kredito įstaigose.
+atašė ir Lietuvos atstovų, perkeltų į tarptautines ir užsienio institucijas, sąskaitose
+užsienio kredito įstaigose.
 3. Metų pabaigoje likusios
 nepanaudotos tikslinės paskirties lėšos, nustatytos savivaldybių biudžetams
 priimant atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių
@@ -603,12 +606,12 @@ metais nuomos pajamos grąžinamos kitais metais įmokėjusioms biudžetinėms
 1) Seimo patvirtintus valstybės biudžeto asignavimus paskirstyti pagal
 programas;
 2) vadovaudamasi Europos Sąjungos ir Lietuvos Respublikos teisės aktais,
-atitinkamais Europos Sąjungos finansinės paramos lėšų administravimą
-reglamentuojančiais procedūrų vadovais bei atsižvelgdama į programų ir projektų
-vykdymo duomenis, perskirstyti Europos Sąjungos finansinės paramos programoms
-ir projektams numatytas lėšas, įskaitant ir bendrojo finansavimo lėšas, tarp
-asignavimų valdytojų, investavimo sričių, valstybės funkcijų ir ekonominės
-klasifikacijos straipsnių;
+atitinkamais Europos Sąjungos finansinės paramos lėšų administravimą reglamentuojančiais
+procedūrų vadovais bei atsižvelgdama į programų ir projektų vykdymo duomenis,
+perskirstyti Europos Sąjungos finansinės paramos programoms ir projektams
+numatytas lėšas, įskaitant ir bendrojo finansavimo lėšas, tarp asignavimų
+valdytojų, investavimo sričių, valstybės funkcijų ir ekonominės klasifikacijos
+straipsnių;
 3) Europos Sąjungos finansinės paramos ir bendrojo finansavimo programų
 laikinam lėšų stygiui padengti panaudoti valstybės biudžeto apyvartos ir
 skolintas lėšas;
@@ -618,10 +621,10 @@ susijusioms su valstybės skola, apmokėti ir valstybės skolai dengti, valstyb�
 investicijoms finansuoti, biudžeto deficitui dengti, valstybės pinigų fondų
 skoliniams įsipareigojimams dengti bei šių fondų pinigų srautams subalansuoti
 ir kitiems tikslams, kai tam yra atskiras Lietuvos Respublikos įstatymas;
-5) laisvus valstybės pinigų fondų ir kitus piniginius išteklius grąžintinai
-naudoti valstybės biudžete numatytoms programoms finansuoti, valstybės skolai
-valdyti, investuoti į valstybės vertybinius popierius, paskoloms savivaldybių
-laikinam pajamų trūkumui padengti;
+5) laisvus valstybės pinigų fondų ir kitus piniginius išteklius
+grąžintinai naudoti valstybės biudžete numatytoms programoms finansuoti,
+valstybės skolai valdyti, investuoti į valstybės vertybinius popierius,
+paskoloms savivaldybių laikinam pajamų trūkumui padengti;
 6) nustatyti maksimalias lėšų sumas, kurioms einamaisiais biudžetiniais
 metais asignavimų valdytojai turi teisę prisiimti įsipareigojimus, sudarydami
 sutartis dėl projektų, remiamų iš Europos Sąjungos finansinės paramos ir
@@ -653,11 +656,11 @@ finansuoti, sumas.
 remdamasi valstybės biudžeto buhalterinės apskaitos duomenimis – į valstybės biudžetą gautų pajamų ir valstybės
 biudžeto asignavimų valdytojų pateiktomis biudžeto programų sąmatų įvykdymo
 ataskaitomis.
-3. Savivaldybių biudžetų
-įvykdymo ataskaitą rengia savivaldybių administracijos, remdamosi savivaldybių
-biudžetų apskaitos duomenimis – į savivaldybių biudžetus gautų pajamų ir
-savivaldybių biudžetų asignavimų valdytojų panaudotų asignavimų bei asignavimų
-valdytojų pateiktomis biudžeto programų sąmatų įvykdymo ataskaitomis.
+3. Savivaldybių biudžetų įvykdymo
+ataskaitą rengia savivaldybių administracijos, remdamosi savivaldybių biudžetų
+apskaitos duomenimis – į savivaldybių biudžetus gautų pajamų ir savivaldybių
+biudžetų asignavimų valdytojų panaudotų asignavimų bei asignavimų valdytojų
+pateiktomis biudžeto programų sąmatų įvykdymo ataskaitomis.
 4. Biudžeto įvykdymo ataskaitos privalomas dokumentas – atitinkamo
 biudžeto įvykdymo rezultatų ataskaita.
 5. Biudžeto įvykdymo ataskaitos sudarymo taisykles nustato Finansų
@@ -855,8 +858,8 @@ BIUDŽETO SANDAROS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-364, 2001-06-07, Žin., 2001, Nr.
 55-1939 (2001-06-27)
-BIUDŽETO SANDAROS ĮSTATYMO 8, 17, 18, 20, 31 STRAIPSNIŲ PAKEITIMO
-IR PAPILDYMO ĮSTATYMAS
+BIUDŽETO SANDAROS ĮSTATYMO 8, 17, 18, 20, 31 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 15.
 Lietuvos
@@ -892,6 +895,14 @@ SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
 įstatymo redakcija
  
+19.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-406, 2005-11-17,
+Žin., 2005, Nr. 144-5237 (2005-12-10)
+BIUDŽETO
+SANDAROS ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -904,17 +915,17 @@ Respublikos Konstitucinis Teismas, Nutarimas
 2002-07-11,
 Žin., 2002, Nr. 72-3080 (2002-07-17)
 DĖL
-LIETUVOS RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 39 STRAIPSNIO, LIETUVOS RESPUBLIKOS
-MOKSLO IR ŠVIETIMO ILGALAIKIO FINANSAVIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ,
-LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 18 STRAIPSNIO 2 DALIES IR
-LIETUVOS RESPUBLIKOS SEIMO STATUTO 172 STRAIPSNIO 1 DALIES ATITIKTIES LIETUVOS
-RESPUBLIKOS KONSTITUCIJAI
+LIETUVOS RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 39 STRAIPSNIO, LIETUVOS
+RESPUBLIKOS MOKSLO IR ŠVIETIMO ILGALAIKIO FINANSAVIMO ĮSTATYMO 1, 2 IR 3
+STRAIPSNIŲ, LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 18 STRAIPSNIO 2
+DALIES IR LIETUVOS RESPUBLIKOS SEIMO STATUTO 172 STRAIPSNIO 1 DALIES ATITIKTIES
+LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2004-01-07)
+Aušrinė Trapinskienė (2005-12-13)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
