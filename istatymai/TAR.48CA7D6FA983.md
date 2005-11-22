@@ -310,29 +310,43 @@ Nr.
 IX-1043,
 2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
  
-17 straipsnis.
-Saugumo departamento pareigūno priesaika
-Priimami į
-Saugumo departamentą pareigūnais asmenys prisiekia Lietuvos valstybei šiais
-žodžiais:
-„Aš, (vardas,
-pavardė), Jums liudijant:
-prisiekiu
-ištikimai ginti Lietuvos valstybę ir jos nepriklausomybę, sąžiningai vykdyti
-Lietuvos Respublikos įstatymus ir savo viršininkų įsakymus, dorai atlikti savo
-pareigas, tarnauti Lietuvos Respublikos žmonėms ir valstybei;
-prisiekiu
-saugoti visas man patikėtas valstybės ir tarnybos paslaptis;
-prisiekiu savo elgesiu visur ir
-visada saugoti gerą Saugumo departamento pareigūno vardą.
-Tepadeda man Dievas.“
-Prisiekti galima
-ir be paskutiniojo sakinio.
+17 straipsnis. Saugumo departamento pareigūno priesaika
+Priimami į Saugumo departamentą pareigūnais asmenys prisiekia
+Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šiame
+straipsnyje nustatytų priesaikos tekstų. Nustatomi šie priesaikos tekstai:
+1) „Aš, (vardas, pavardė), Jums liudijant:
+prisiekiu ištikimai ginti Lietuvos valstybę ir jos
+nepriklausomybę,
+sąžiningai vykdyti Lietuvos Respublikos įstatymus ir savo
+viršininkų įsakymus,
+dorai atlikti savo pareigas,
+tarnauti Lietuvos Respublikos žmonėms ir valstybei;
+prisiekiu saugoti visas man patikėtas valstybės ir tarnybos
+paslaptis;
+prisiekiu savo elgesiu visur ir visada saugoti gerą Saugumo
+departamento pareigūno vardą.
+Tepadeda man Dievas.“;
+2) „Aš, (vardas, pavardė), Jums liudijant:
+prisiekiu ištikimai ginti Lietuvos valstybę ir jos
+nepriklausomybę,
+sąžiningai vykdyti Lietuvos Respublikos įstatymus ir savo
+viršininkų įsakymus, 
+dorai atlikti savo pareigas,
+tarnauti Lietuvos Respublikos žmonėms ir valstybei;
+prisiekiu saugoti visas man patikėtas valstybės ir tarnybos
+paslaptis;
+prisiekiu savo elgesiu visur ir visada saugoti gerą Saugumo
+departamento pareigūno vardą.“
+Prisiekęs
+asmuo po priesaikos tekstu pasirašo.
 Straipsnio
 pakeitimai:
 Nr.
 IX-1043,
 2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+Nr.
+X-422,
+2005-11-22, Žin., 2005, Nr. 143-5184 (2005-12-08)
  
             18 straipsnis. Saugumo
 departamento pareigūno teisinė padėtis
@@ -494,9 +508,9 @@ SOCIALINĖS
 GARANTIJOS
  
 27 straipsnis. Saugumo departamento pareigūnų darbo užmokestis
-Saugumo
-departamento pareigūnų darbo užmokestį ir jo mokėjimo tvarką nustato Saugumo
-departamento statutas ir Valstybės tarnybos įstatymas.
+Saugumo departamento
+pareigūnų darbo užmokestį ir jo mokėjimo tvarką nustato Saugumo departamento
+statutas ir Valstybės tarnybos įstatymas.
 Straipsnio
 pakeitimai:
 Nr. IX-267, 2001 04 19, Žin., 2001, Nr.
@@ -517,9 +531,9 @@ departamento sistemoje nuo paskyrimo į pareigas dienos;
             2) darbo Saugumo
 departamento sistemoje Darbo sutarties įstatymo pagrindais laikas, jeigu vėliau
 tos pareigos priskirtos pareigūno statusui;
-            3) tarnyba Lietuvos
-Respublikos vidaus reikalų, Krašto apsaugos ministerijų ir Lietuvos muitinės
-sistemose, jeigu ta tarnyba buvo organizuota statutiniais pagrindais;
+            3) tarnyba Lietuvos Respublikos
+vidaus reikalų, Krašto apsaugos ministerijų ir Lietuvos muitinės sistemose,
+jeigu ta tarnyba buvo organizuota statutiniais pagrindais;
             4) mokymosi stacionarinėse
 aukštosiose civilinėse mokymo įstaigose, taip pat stacionarinėse vidaus
 reikalų, krašto apsaugos ir kitose statutiniais pagrindais veikiančiose mokymo
@@ -589,8 +603,8 @@ pareigas iki atleidimo iš jų dienos.
  
             33 straipsnis. Saugumo
 departamento pareigūnų aprūpinimas butais
-            Saugumo departamento pareigūnai
-aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
+            Saugumo departamento
+pareigūnai aprūpinami butais Lietuvos Respublikos įstatymų nustatyta tvarka.
             Lietuvos Respublikos
 Vyriausybės nustatyta tvarka atskirų Saugumo departamento padalinių pareigūnams
 gali būti suteikti tarnybiniai butai. 
@@ -617,10 +631,9 @@ MATERIALINIS-TECHNINIS
 APRŪPINIMAS
  
 35 straipsnis. Saugumo departamento finansavimas ir paramaSaugumo departamentas finansuojamas iš Lietuvos valstybės biudžeto.
-Saugumo departamentas šiame įstatyme nustatytiems
-uždaviniams ir funkcijoms įgyvendinti turi teisę įstatymų nustatyta tvarka
-gauti paramą iš užsienio valstybių institucijų bei įstaigų ir tarptautinių
-organizacijų.
+Saugumo departamentas šiame įstatyme nustatytiems uždaviniams
+ir funkcijoms įgyvendinti turi teisę įstatymų nustatyta tvarka gauti paramą iš
+užsienio valstybių institucijų bei įstaigų ir tarptautinių organizacijų.
 Straipsnio
 pakeitimai:
 Nr.
@@ -731,12 +744,20 @@ SAUGUMO DEPARTAMENTO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-422, 2005-11-22,
+Žin., 2005, Nr. 143-5184 (2005-12-08)
+VALSTYBĖS
+SAUGUMO DEPARTAMENTO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-05-06)
+Aušrinė Trapinskienė (2005-12-12)
                  
 autrap@lrs.lt
 
