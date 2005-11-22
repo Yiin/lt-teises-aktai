@@ -38,7 +38,6 @@ Nauja
 Nr.
 IX-1518,
 2003-04-22, Žin., 2003, Nr. 42-1919 (2003-05-01)
- 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS NUOSTATOS
@@ -187,8 +186,8 @@ veiklos praktiką šioje srityje;
 8) organizuoja prokurorų profesinį rengimą,
 kvalifikacijos kėlimą ir teikia jiems metodinę pagalbą;
 9) tarptautinių sutarčių, įstatymų ir kitų teisės aktų
-nustatyta tvarka susižino su užsienio valstybių įstaigomis ir tarptautinėmis
-institucijomis; 
+nustatyta tvarka susižino su užsienio valstybių įstaigomis ir tarptautinėmis institucijomis;
+
 10) rūpinasi prokuratūros finansiniu, materialiniu
 aprūpinimu, taip pat prokurorų socialinėmis garantijomis;
 11) analizuoja prokuratūros veiklą ir tvarko
@@ -697,15 +696,21 @@ ar pedagoginį darbą, dalyvauti teisės aktų projektų rengimo grupėse ar
 komisijose.
  
 30 straipsnis. Prokuroro priesaika
-1. Prieš pradėdamas eiti prokuroro pareigas asmuo prisiekia Lietuvos
-valstybei perskaitydamas šį priesaikos tekstą:
-„Aš, Lietuvos Respublikos prokuroras (-ė) (vardas, pavardė), prisiekiu
-būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus,
-savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus
-interesus, visada būti nešališkas (-a), sąžiningas (-a), saugoti man patikėtas
+1.
+Prieš pradėdamas eiti prokuroro pareigas asmuo prisiekia Lietuvos valstybei. Prisiekiantis
+asmuo turi teisę pasirinkti vieną iš šių priesaikų tekstų:
+1) „Aš, Lietuvos Respublikos prokuroras (-ė) (vardas, pavardė),
+prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir
+įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir
+teisėtus interesus, visada būti nešališkas  (-a), sąžiningas (-a), saugoti man patikėtas
 paslaptis ir gerą prokuroro vardą. 
-Tepadeda man Dievas.“ 
-2. Prisiekti galima ir be paskutinio sakinio. 
+Tepadeda man Dievas.“;
+2) „Aš, Lietuvos Respublikos prokuroras (-ė) (vardas, pavardė),
+prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir
+įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir
+teisėtus interesus, visada būti nešališkas  (-a), sąžiningas (-a), saugoti man
+patikėtas paslaptis ir gerą prokuroro vardą.“  
+2. Prisiekęs asmuo po priesaikos tekstu pasirašo.
 3. Prokuroro priesaiką priima generalinis prokuroras.
 4. Prokuroras prisiekia vieną kartą, jei jis nebuvo iš prokuroro
 pareigų atleistas.
@@ -713,6 +718,9 @@ pareigų atleistas.
 byloje.
 6. Sulaužęs priesaiką, prokuroras atsako kaip padaręs tarnybinį
 nusižengimą ar prokuroro vardą žeminantį poelgį.
+Straipsnio pakeitimai:
+Nr. X-417, 2005-11-22,
+Žin., 2005, Nr. 143-5179 (2005-12-08)
  
 Šeštasis SKIRSNIS
 Prokurorų
@@ -755,8 +763,8 @@ kvalifikaciją pagal Generalinės prokuratūros parengtas mokymo programas.
 2. Prokuratūra turi sudaryti sąlygas prokurorams
 savarankiškai kelti kvalifikaciją.
 3. Mokytis į
-užsienį prokuratūros siuntimu išvykusiam prokurorui paliekamos jo eitos pareigos
-ir ne ilgiau kaip tris mėnesius mokamas jo vidutinis darbo užmokestis.
+užsienį prokuratūros siuntimu išvykusiam prokurorui paliekamos jo eitos
+pareigos ir ne ilgiau kaip tris mėnesius mokamas jo vidutinis darbo užmokestis.
 4. Prokuratūros
 siuntimu mokęsis ilgiau kaip tris mėnesius ir per vienerius metus nuo mokymosi
 pabaigos atleistas iš tarnybos prokuratūroje pagal šio Įstatymo 44 straipsnio 1
@@ -845,8 +853,7 @@ prokurorai į aukštesnes pareigas neskiriami.
 35 straipsnis.
 Prokurorų kvalifikaciniai rangai
 1. Prokurorams
-suteikiami šie kvalifikaciniai rangai, žymintys jų kvalifikaciją ar einamas
-pareigas:
+suteikiami šie kvalifikaciniai rangai, žymintys jų kvalifikaciją ar einamas pareigas:
 1)
 jaunesnysis justicijos patarėjas;
 2) justicijos
@@ -869,9 +876,10 @@ kvalifikacinį rangą suteikia generalinis prokuroras įsakymu remdamasis
 Atestacijos komisijos išvadomis po jo kvalifikacijos vertinimo arba skatinimo
 tvarka:
 1) einančiam
-prokuroro pareigas Generalinėje prokuratūroje arba apygardos vyriausiojo prokuroro
-(jo pavaduotojo), apylinkės vyriausiojo prokuroro (jo pavaduotojo) pareigas –
-ne aukštesnį kaip vyriausiojo justicijos patarėjo kvalifikacinį rangą;
+prokuroro pareigas Generalinėje prokuratūroje arba apygardos vyriausiojo
+prokuroro (jo pavaduotojo), apylinkės vyriausiojo prokuroro (jo pavaduotojo)
+pareigas – ne aukštesnį kaip vyriausiojo justicijos patarėjo kvalifikacinį
+rangą;
 2) einančiam
 prokuroro pareigas teritorinėje prokuratūroje – ne aukštesnį kaip vyresniojo
 justicijos patarėjo kvalifikacinį rangą.
@@ -1072,18 +1080,18 @@ psichotropinių ar toksinių medžiagų ar atsisako pasitikrinti sveikatą arba 
 pagrindas manyti, kad jis padarė veiką, kuri turi tarnybinio nusižengimo ar
 nusikalstamos veikos požymių.
 2. Prokurorą nuo pareigų nušalina
-generalinis prokuroras (jo pavaduotojas) arba jų pavedimu teritorinės
-prokuratūros vyriausiasis prokuroras (jo pavaduotojas) įsakymu ne ilgiau kaip
-iki 45 dienų, o kai yra pagrindas manyti, kad prokuroras padarė nusikalstamą
-veiką, ir generalinis prokuroras pradėjo ikiteisminį tyrimą, – iki galutinio
-sprendimo baudžiamojoje byloje.
+generalinis prokuroras (jo pavaduotojas) arba jų pavedimu teritorinės prokuratūros
+vyriausiasis prokuroras (jo pavaduotojas) įsakymu ne ilgiau kaip iki 45 dienų,
+o kai yra pagrindas manyti, kad prokuroras padarė nusikalstamą veiką, ir
+generalinis prokuroras pradėjo ikiteisminį tyrimą, – iki galutinio sprendimo
+baudžiamojoje byloje.
 3. Iš prokuroro,
 nušalinto nuo pareigų, nedelsiant paimami tarnybinis ginklas, šaudmenys,
 prokuroro pažymėjimas, prokuroro ženklas ir proceso dokumentai.
 4. Prokuroro nušalinimo nuo pareigų
 laikotarpiu darbo užmokestis jam nemokamas.
-5. Kai nuo
-pareigų nušalintas prokuroras atleidžiamas iš tarnybos, atleidimo diena laikoma
+5. Kai nuo pareigų
+nušalintas prokuroras atleidžiamas iš tarnybos, atleidimo diena laikoma
 paskutinė jo tarnybos iki nušalinimo nuo pareigų diena.
 6. Nepagrįstai
 nušalintas nuo pareigų prokuroras grąžinamas į eitas pareigas, už nepagrįsto
@@ -1223,15 +1231,14 @@ pripažino neteisėtu ir prokurorą grąžino į eitas pareigas, prokurorui sumo
 jo vidutinis mėnesinis darbo užmokestis už priverstinės pravaikštos laiką nuo
 neteisėto atleidimo iš tarnybos dienos iki teismo sprendimo įvykdymo dienos. 
 3. Jei teismas
-prokuroro atleidimą iš tarnybos pripažino neteisėtu ir nustatė, kad į eitas
-pareigas jis negali būti grąžintas dėl prokuratūros darbo organizavimo
-pakeitimų arba dėl kitų svarbių priežasčių, prokurorui priteisiama šio Įstatymo
-47 straipsnyje nustatyto dydžio išeitinė išmoka ir vidutinis mėnesinis darbo
-užmokestis už priverstinės pravaikštos laiką nuo neteisėto atleidimo iš
-tarnybos dienos iki teismo sprendimo įsigaliojimo dienos. Šiuo atveju laikoma,
-kad prokuroras iš tarnybos atleistas pagal šio Įstatymo 44 straipsnio 1 dalies
-1 punktą kaip atsistatydinęs savo prašymu nuo teismo sprendimo įsigaliojimo
-dienos. 
+prokuroro atleidimą iš tarnybos pripažino neteisėtu ir nustatė, kad į eitas pareigas
+jis negali būti grąžintas dėl prokuratūros darbo organizavimo pakeitimų arba
+dėl kitų svarbių priežasčių, prokurorui priteisiama šio Įstatymo 47 straipsnyje
+nustatyto dydžio išeitinė išmoka ir vidutinis mėnesinis darbo užmokestis už
+priverstinės pravaikštos laiką nuo neteisėto atleidimo iš tarnybos dienos iki
+teismo sprendimo įsigaliojimo dienos. Šiuo atveju laikoma, kad prokuroras iš
+tarnybos atleistas pagal šio Įstatymo 44 straipsnio 1 dalies 1 punktą kaip
+atsistatydinęs savo prašymu nuo teismo sprendimo įsigaliojimo dienos. 
 4. Generalinis
 prokuroras, remdamasis šio straipsnio 2 ir 3 dalyse nurodytais teismo
 sprendimais, privalo panaikinti neteisėtą įsakymą dėl prokuroro atleidimo iš
@@ -1470,10 +1477,9 @@ Prokuratūra turi teisę įstatymų nustatyta tvarka steigti
 prokurorų kvalifikacijos kėlimo įstaigas ir leisti specialius leidinius.
  
 60 straipsnis. Prokurorų atributai 
-1. Prokurorų atributai yra prokuroro mantija su simboliu – Lietuvos
-valstybės herbu, prokuroro pažymėjimas, prokuroro ženklas, garbės ar kiti
-pasižymėjimo ženklai. Jų išdavimo ir naudojimo tvarką nustato generalinis
-prokuroras.
+1. Prokurorų atributai yra prokuroro mantija su simboliu – Lietuvos valstybės
+herbu, prokuroro pažymėjimas, prokuroro ženklas, garbės ar kiti pasižymėjimo
+ženklai. Jų išdavimo ir naudojimo tvarką nustato generalinis prokuroras.
 2. Prokuroro
 asmens tapatybę patvirtina ir teisę veikti pagal įstatymus suteikia prokuroro
 pažymėjimas ir prokuroro ženklas.
@@ -1518,8 +1524,8 @@ Nr.
 VIII-142,
 1997 03 13, Žin., 1997, Nr. 23-543 (1997 03 15)
 LIETUVOS
-RESPUBLIKOS PROKURATŪROS ĮSTATYMO 11 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
+RESPUBLIKOS PROKURATŪROS ĮSTATYMO 11 STRAIPSNIO PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS 
  
 3.
 Lietuvos
@@ -1578,13 +1584,22 @@ SEIMO RINKIMŲ ĮSTATYMO, PINIGINĖS SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČ
 ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS) ĮSTATYMO, VALSTYBĖS GARANTUOJAMOS
 TEISINĖS PAGALBOS ĮSTATYMO IR VALSTYBĖS KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Šis
-įstatymas įsigalioja nuo 2004-01-01-.
+įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+ 
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-417,
+2005-11-22, Žin., 2005, Nr. 143-5179 (2005-12-08)
+PROKURATŪROS
+ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2003-12-31)
+Aušrinė Trapinskienė (2005-12-09)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
