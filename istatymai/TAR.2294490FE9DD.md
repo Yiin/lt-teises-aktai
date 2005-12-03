@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2004-07-01 iki 2005-12-02
+Suvestinė redakcija nuo 2005-12-03 iki 2007-04-18
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -2458,7 +2458,10 @@ NEAPMUITINAMOS PARDUOTUVĖS
 79 straipsnis. Neapmuitinamų parduotuvių steigimas ir veikla
 
 
-1. Tarptautiniuose oro ir jūrų uostose gali būti įsteigtos neapmuitinamos parduotuvės. Tai muitinės prižiūrimos parduotuvės, kuriose vykstantys iš Lietuvos Respublikos muitų teritorijos į trečiąsias šalis arba į kitas Bendrijos muitų teritorijos dalis, kuriose netaikomos 1992 m. vasario 25 d. Tarybos direktyvos 92/12/EEB dėl bendrųjų procedūrų, susijusių su akcizais apmokestinamais produktais, ir dėl tokių produktų laikymo, judėjimo ir kontrolės nuostatos, keleiviai gali įsigyti neapmokestintų importo muitais bei mokesčiais prekių. Taikant šią straipsnio dalį, keleivio vykimo vieta laikoma artimiausia keleivio išlipimo iš orlaivio arba laivo vieta po įlipimo Lietuvos Respublikos muitų teritorijoje.
+1. Tarptautiniuose oro ir jūrų uostuose, Lietuvos Respublikos valstybės sienos su trečiosiomis šalimis perėjimo punktuose gali būti įsteigtos neapmuitinamos parduotuvės. Tai muitinės prižiūrimos parduotuvės, kuriose vykstantys iš Lietuvos Respublikos muitų teritorijos į trečiąsias šalis arba į kitas Bendrijos muitų teritorijos dalis, kuriose netaikomos 1992 m. vasario 25 d. Tarybos direktyvos 92/12/EEB dėl bendrųjų procedūrų, susijusių su akcizais apmokestinamais produktais, ir dėl tokių produktų laikymo, judėjimo ir kontrolės nuostatos, keleiviai gali įsigyti neapmokestintų importo muitais bei mokesčiais prekių. Taikant šios dalies nuostatas, susijusias su keleivio vykimu oro ar jūrų transportu, keleivio vykimo vieta laikoma artimiausia keleivio išlipimo iš orlaivio arba laivo vieta po įlipimo Lietuvos Respublikos muitų teritorijoje. 
+Straipsnio dalies pakeitimai:
+Nr. X-408, 2005-11-17, Žin., 2005, Nr. 142-5108 (2005-12-03), i. k. 1051010ISTA000X-408
+ 
 
 
 
@@ -3270,3 +3273,13 @@ priedas
 
 
 ______________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-408, 2005-11-17, Žin., 2005, Nr. 142-5108 (2005-12-03), i. k. 1051010ISTA000X-408
+Lietuvos Respublikos muitinės įstatymo 79 straipsnio pakeitimo įstatymas
