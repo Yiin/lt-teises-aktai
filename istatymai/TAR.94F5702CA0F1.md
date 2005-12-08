@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2005-12-07
+Suvestinė redakcija nuo 2005-12-08 iki 2009-03-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -235,26 +235,29 @@ Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu:
 
 
 
-2. Prisiekiama šiais žodžiais:
+2. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų: 
+
+
+1) „Aš, antstolis (-ė) (vardas, pavardė),  prisiekiu būti ištikimas (-a) Lietuvos Respublikai, laikytis jos Konstitucijos, įstatymų, visada būti sąžiningas (-a) ir dorai vykdyti antstolio (-ės) pareigas. 
+Tepadeda man Dievas.“;
 
 
 
 
-„Aš, antstolis (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos Respublikai, laikytis jos Konstitucijos, įstatymų, visada būti sąžiningas (-a) ir dorai vykdyti antstolio (-ės) pareigas. 
+2) „Aš, antstolis (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos Respublikai, laikytis jos Konstitucijos, įstatymų, visada būti sąžiningas (-a) ir dorai vykdyti antstolio (-ės) pareigas.“ 
+
+
+Straipsnio dalies pakeitimai:
+Nr. X-415, 2005-11-22, Žin., 2005, Nr. 143-5177 (2005-12-08), i. k. 1051010ISTA000X-415
+ 
 
 
 
 
-Tepadeda man Dievas.“
-
-
-
-
-
-
-
-
-3. Prisiekti galima ir be antrojo sakinio.
+3. Neteko galios 2005-12-08.
+Straipsnio dalies pakeitimai:
+Nr. X-415, 2005-11-22, Žin., 2005, Nr. 143-5177 (2005-12-08), i. k. 1051010ISTA000X-415
+ 
 
 
 
@@ -1526,3 +1529,8 @@ Lietuvos Respublikos antstolių įstatymo 11 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2537, 2004-11-04, Žin., 2004, Nr. 171-6297 (2004-11-26), i. k. 1041010ISTA0IX-2537
 Lietuvos Respublikos antstolių įstatymo, Notariato įstatymo, Bankų įstatymo, Centrinės kredito unijos įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-415, 2005-11-22, Žin., 2005, Nr. 143-5177 (2005-12-08), i. k. 1051010ISTA000X-415
+Lietuvos Respublikos antstolių įstatymo 9 straipsnio pakeitimo įstatymas
