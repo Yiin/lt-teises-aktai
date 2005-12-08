@@ -27,20 +27,17 @@ SEIMO RINKIMŲ
 Nauja įstatymo redakcija:
 Nr. VIII-1870, 2000 07 18, Žin.,
 2000, Nr. 59-1760 (2000 07 19)
-PIRMASIS
-SKIRSNIS
+PIRMASIS SKIRSNIS
 BENDROSIOS
 NUOSTATOS
  
-1
-straipsnis. Seimo narių rinkimų pagrindai
+1 straipsnis. Seimo narių rinkimų pagrindai
 Lietuvos Respublikos Seimo
 (toliau - Seimo) nariai renkami ketveriems metams vienmandatėse ir
 daugiamandatėje rinkimų apygardose, remiantis visuotine ir lygia rinkimų teise,
 slaptu balsavimu tiesioginiuose mišrios sistemos rinkimuose.
  
-2
-straipsnis. Visuotinė rinkimų teisė
+2 straipsnis. Visuotinė rinkimų teisė
 1. Rinkimų teisę turi Lietuvos
 Respublikos piliečiai, kuriems rinkimų dieną yra sukakę 18 metų. Rinkimuose
 nedalyvauja piliečiai, kurie teismo pripažinti neveiksniais.
@@ -76,8 +73,7 @@ Nr.
 IX-2374, 2004-07-15, Žin., 2004, Nr.
 120-4430 (2004-08-03)
  
-3
-straipsnis. Lygi rinkimų teisė
+3 straipsnis. Lygi rinkimų teisė
 Kiekvienas turintis teisę rinkti
 Lietuvos Respublikos pilietis rinkimuose turi po vieną balsą vienmandatėje ir
 daugiamandatėje rinkimų apygardose, o šie balsai yra lygiaverčiai kiekvieno
@@ -86,13 +82,11 @@ teisę pareikšti savo nuomonę dėl kandidatų, įrašytų į tą kandidatų s�
 kurį jis balsuoja daugiamandatėje rinkimų apygardoje, o ši nuomonė yra
 lygiavertė kiekvieno kito balsavusio už šį sąrašą rinkėjo nuomonei.
  
-4
-straipsnis. Tiesioginiai rinkimai
+4 straipsnis. Tiesioginiai rinkimai
 Seimo narius rinkėjai renka be
 tarpininkų.
  
-5
-straipsnis. Slaptas balsavimas
+5 straipsnis. Slaptas balsavimas
 1. Rinkėjai balsuoja asmeniškai
 ir slaptai. Draudžiama balsuoti už kitą asmenį arba pavesti kitam asmeniui
 balsuoti už save. Rinkėjas, kuris dėl fizinių trūkumų negali pats balsuoti,
@@ -105,24 +99,41 @@ arba nebalsuoti už kurį nors kandidatą ar kandidatų sąrašą. Rinkėjui tur
 sudarytos sąlygos slaptai ir netrukdomam užpildyti biuletenį. Su biuleteniu
 draudžiama atlikti tokius veiksmus, kurie galėtų atskleisti balsavimo paslaptį.
  
+5(1)
+straipsnis. Draudimas papirkti rinkėjus
+1. Seimo rinkimų agitacijos kampanijos metu ir rinkimų dieną draudžiama
+tiesiogiai ar netiesiogiai pirkti rinkėjų balsus, dovanomis ar kitokiu
+atlyginimu skatinti rinkėją dalyvauti arba nedalyvauti rinkimuose ir (arba)
+balsuoti už arba prieš vieną ar kitą kandidatą arba kandidatų sąrašą, taip pat
+žadėti už balsavimą atsilyginti rinkėjams po rinkimų.
+2. Rinkėjų papirkimu nelaikomas spausdintos medžiagos
+(politinės partijos ar kandidato programos, biografijos ar kitokių informacinio
+turinio lankstinukų, kalendorių, atvirukų, lipdukų) bei ženkliukų, specialiai
+pagamintų rinkimų kampanijai ir skirtų politinei partijai ar kandidatui
+propaguoti, gaminimas arba neatlygintinas platinimas rinkėjams. 
+3. Nustatytus rinkėjų papirkimo
+faktus Vyriausioji rinkimų komisija gali pripažinti šiurkščiu šio įstatymo
+pažeidimu, dėl kurio atsiranda šio įstatymo 91 straipsnyje nurodytos pasekmės.
+Įstatymas papildytas straipsniu:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
+ 
 6
 straipsnis. Seimo rinkimų datos paskelbimas
 1. Eilinius Seimo rinkimus
 skelbia Respublikos Prezidentas, pirmalaikius Seimo rinkimus gali paskelbti
 Seimas arba Respublikos Prezidentas.
-2. Eilinius Seimo rinkimus
-skelbia Respublikos Prezidentas ne vėliau kaip likus šešiems mėnesiams iki
-Seimo narių įgaliojimų pabaigos. Eiliniai Seimo rinkimai rengiami ne anksčiau
-kaip prieš du mėnesius ir ne vėliau kaip prieš mėnesį iki Seimo narių
-įgaliojimų pabaigos. Jeigu, likus keturiems mėnesiams iki Seimo narių
-įgaliojimų pabaigos, Respublikos Prezidentas nėra paskelbęs eilinių Seimo
-rinkimų datos, Vyriausioji rinkimų komisija eilinius Seimo rinkimus rengia
-paskutinį sekmadienį, nuo kurio iki Seimo narių įgaliojimų pabaigos lieka ne
-mažiau kaip mėnuo.
-3. Jeigu eiliniai Seimo rinkimai
-turi būti rengiami karo veiksmų metu, Seimas arba Respublikos Prezidentas
-priima sprendimą pratęsti Seimo įgaliojimus. Šiuo atveju rinkimai turi būti
-skiriami ne vėliau kaip po trijų mėnesių karui pasibaigus.
+2. Eiliniai Seimo rinkimai
+rengiami Seimo narių įgaliojimų pabaigos metais spalio mėnesio antrą
+sekmadienį. Juos skelbia Respublikos Prezidentas ne vėliau kaip likus šešiems
+mėnesiams iki Seimo narių įgaliojimų pabaigos. Jeigu, likus keturiems mėnesiams
+iki Seimo narių įgaliojimų pabaigos, Respublikos Prezidentas nėra paskelbęs
+eilinių Seimo rinkimų, Vyriausioji rinkimų komisija eilinius Seimo rinkimus
+rengia šioje dalyje nurodytu laiku.
+3. Jeigu eiliniai Seimo rinkimai turi būti rengiami
+karo veiksmų metu, Seimas arba Respublikos Prezidentas priima sprendimą
+pratęsti Seimo įgaliojimus. Šiuo atveju rinkimai turi būti skiriami ne vėliau
+kaip po trijų mėnesių karui pasibaigus.
 4. Pirmalaikiai Seimo rinkimai
 gali būti rengiami Seimo nutarimu, priimtu ne mažiau kaip 3/5 visų Seimo narių
 balsų dauguma, arba juos skelbia Respublikos Prezidentas Konstitucijos 58
@@ -130,18 +141,23 @@ straipsnio antrojoje dalyje numatytais atvejais. Naujo Seimo rinkimai turi būti
 surengti ne vėliau kaip per tris mėnesius nuo sprendimo dėl pirmalaikių rinkimų
 priėmimo. Respublikos Prezidento dekrete dėl eilinių Seimo rinkimų, Seimo
 nutarime ar Respublikos Prezidento dekrete dėl pirmalaikių Seimo rinkimų turi
-būti nurodoma naujo Seimo rinkimų diena.
+būti nurodoma naujo Seimo rinkimų diena. Eiliniai Seimo rinkimai, einantys po
+pirmalaikių Seimo rinkimų, rengiami šio straipsnio 2 dalyje nurodytu laiku.
 5. Naujo Seimo rinkimų diena yra
 diena, kada balsuojama daugiamandatėje rinkimų apygardoje ir pirmajame rinkimų
 ture vienmandatėse rinkimų apygardose. Rinkimų diena yra ir pakartotinio
-balsavimo diena. Balsavimas paštu bei balsavimas laivuose ir diplomatinėse
-atstovybėse vykdomas iki balsavimo dienos arba baigiamas balsavimo dieną, kaip
-yra nustatyta šio įstatymo. Terminas, kuris skaičiuojamas nuo rinkimų dienos ir
-gali būti įgyvendintas tik esant paskelbtiems rinkimų rezultatams, pradedamas
-skaičiuoti nuo rinkimų rezultatų paskelbimo dienos.
+balsavimo diena. Balsavimas paštu, namuose, sveikatos priežiūros, socialinės
+rūpybos ir globos įstaigose, kariniuose vienetuose ar vidaus tarnybos
+daliniuose, Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse
+įstaigose, laivuose, areštinėse, tardymo izoliatoriuose (sulaikymo namuose) ir
+bausmių vykdymo įstaigose vykdomas iki balsavimo dienos arba baigiamas
+balsavimo dieną, kaip nustato šis įstatymas. Terminas, kuris skaičiuojamas nuo
+rinkimų dienos ir gali būti įgyvendintas tik esant paskelbtiems rinkimų
+rezultatams, pradedamas skaičiuoti nuo rinkimų galutinių rezultatų paskelbimo
+dienos.
 6. Naujų ar pakartotinių rinkimų
 vienmandatėje rinkimų apygardoje datą numatytais šiame įstatyme atvejais ne
-vėliau kaip po 15 dienų nuo dienos, kurią atsirado reikalas rengti šiuos
+vėliau kaip po 15 dienų nuo dienos, kurią atsirado pagrindas rengti šiuos
 rinkimus, jeigu kitko nenumato šis įstatymas, skelbia Vyriausioji rinkimų
 komisija.
 Straipsnio
@@ -149,13 +165,14 @@ pakeitimai:
 Nr.
 IX-2233, 2004-05-11, Žin., 2004, Nr.
 83-2986 (2004-05-22)
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-7
-straipsnis. Viešumas rengiant ir vykdant rinkimus
-1. Apie rinkimų komisijos posėdį
-visuomenei paskelbiama pastate, kuriame yra rinkimų komisijos būstinė,
-įrengtoje skelbimų lentoje ir šios rinkimų komisijos nariams pranešama
-asmeniškai ne vėliau kaip likus 24 valandoms iki posėdžio pradžios.
+7 straipsnis. Viešumas rengiant ir vykdant rinkimus
+1. Apie rinkimų komisijos posėdį visuomenei paskelbiama pastate,
+kuriame yra rinkimų komisijos būstinė, įrengtoje skelbimų lentoje ir šios
+rinkimų komisijos nariams pranešama asmeniškai ne vėliau kaip likus 24
+valandoms iki posėdžio pradžios.
 2. Rinkimų komisijų posėdžiai ir
 balsavimai yra vieši, juos gali stebėti: politinių partijų, politinių
 organizacijų (toliau – partijų), kandidatų į Seimo narius atstovai ir
@@ -177,24 +194,23 @@ rengti uždarų posėdžių. Vyriausioji rinkimų komisija gali uždrausti bet k
 patalpas, jeigu būtina užtikrinti netrikdomą šių darbuotojų darbą, apsaugoti
 rinkimų dokumentus.
 5. Jei yra pagrindo manyti, kad
-rinkimų komisijos posėdžio metu gali kilti grėsmė posėdžio dalyvių saugumui,
-komisijos pirmininkas gali pavesti policijai tikrinti įeinančių į salę asmenų
-dokumentus, daiktus ar atlikti asmens apžiūrą.
+rinkimų komisijos posėdžio metu gali kilti grėsmė posėdžio dalyvių saugumui, komisijos
+pirmininkas gali pavesti policijai tikrinti įeinančių į salę asmenų dokumentus,
+daiktus ar atlikti asmens apžiūrą.
 6. Rinkimų komisija gali
 pašalinti iš posėdžio salės asmenis, kliudančius komisijai normaliai dirbti.
 Straipsnio pakeitimai:
 Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
 68-2766 (2002-07-03)
  
-8
-straipsnis. Rinkimų rengimo ir vykdymo išlaidos
+8 straipsnis. Rinkimų rengimo ir vykdymo išlaidos
 Seimo rinkimų rengimo ir vykdymo
 išlaidos apmokamos iš valstybės ir savivaldybių biudžetų. Iš valstybės biudžeto
 apmokamos rinkimų komisijų išlaidos rinkimams organizuoti ir vykdyti bei už
 rinkimų komisijų narių ir jas aptarnaujančio personalo darbą. Iš savivaldybių
-biudžeto apmokama už balsavimo bei apygardų ir apylinkių rinkimų komisijų
-būstinių patalpų išlaikymą, balsavimo patalpų įrengimo inventoriaus įsigijimą
-ir išsaugojimą. Jeigu savivaldybės administracija nesuteikia tinkamų patalpų ar
+biudžeto apmokama už balsavimo bei apygardų ir apylinkių rinkimų komisijų būstinių
+patalpų išlaikymą, balsavimo patalpų įrengimo inventoriaus įsigijimą ir
+išsaugojimą. Jeigu savivaldybės administracija nesuteikia tinkamų patalpų ar
 inventoriaus rinkimų apylinkės būstinei ir balsavimo patalpoms, tam
 Vyriausiosios rinkimų komisijos sprendimu panaudojamos valstybės lėšos. Šiuo
 atveju faktines išlaidas balsavimo patalpoms ir inventoriui per 2 mėnesius po
@@ -206,8 +222,7 @@ SKIRSNIS
 RINKIMŲ
 APYGARDOS IR APYLINKĖS
  
-9
-straipsnis. Rinkimų apygardų sudarymas
+9 straipsnis. Rinkimų apygardų sudarymas
 1. Rinkimams organizuoti ir
 vykdyti Lietuvos Respublikos teritorija dalijama į 71 vienmandatę rinkimų
 apygardą, atsižvelgiant į rinkėjų skaičių rinkimų apygardoje, Lietuvos
@@ -216,10 +231,10 @@ ankstesnius Seimo rinkimus ir administracinį teritorinį padalijimą. Rinkimų
 apygarda sudaroma iš bendrą ribą turinčių rinkimų apylinkių. Rinkėjų skaičius
 apygardoje turi būti nuo 0,8 iki 1,2 vidutinio rinkėjų visose vienmandatėse
 rinkimų apygardose skaičiaus. Vyriausioji rinkimų komisija, likus ne mažiau
-kaip 95 dienoms iki rinkimų, nustato ir, likus ne mažiau kaip 90 dienų iki rinkimų,
-„Valstybės žiniose“ skelbia rinkimų apygardas sudarančių rinkimų apylinkių
-sąrašą, jų balsavimo būstinių adresus ir telefonus, apygardos rinkėjų skaičių,
-apygardų rinkimų komisijų adresus ir telefonus.
+kaip 95 dienoms iki rinkimų, nustato ir, likus ne mažiau kaip 90 dienų iki
+rinkimų, „Valstybės žiniose“ skelbia rinkimų apygardas sudarančių rinkimų
+apylinkių sąrašą, jų balsavimo būstinių adresus ir telefonus, apygardos rinkėjų
+skaičių, apygardų rinkimų komisijų adresus ir telefonus.
 2. Taip pat sudaroma viena
 daugiamandatė rinkimų apygarda, kurioje balsuoja visi turintys rinkimų teisę
 Lietuvos Respublikos piliečiai. Šioje apygardoje pagal proporcinę rinkimų
@@ -228,16 +243,15 @@ Straipsnio pakeitimai:
 Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
 68-2766 (2002-07-03)
  
-10
-straipsnis. Rinkimų apylinkių sudarymas
+10 straipsnis. Rinkimų apylinkių sudarymas
 1. Atsižvelgiant į patogumą
 rinkėjui atvykti į balsavimo patalpas ir rinkėjų skaičių, miestų, rajonų
 teritorijos dalijamos į rinkimų apylinkes.
 2. Miesto, rajono teritorijos
-suskirstymą, kuris yra pastovus organizuojant ir vykdant rinkimus ir
-referendumus, prireikus į rinkimų apylinkes mero teikimu keičia Vyriausioji
-rinkimų komisija. Patvirtintų rinkimų apylinkių sąrašą, jo pakeitimus
-Vyriausioji rinkimų komisija skelbia „Valstybės žiniose“.
+suskirstymą, kuris yra pastovus organizuojant ir vykdant rinkimus ir referendumus,
+prireikus į rinkimų apylinkes mero teikimu keičia Vyriausioji rinkimų komisija.
+Patvirtintų rinkimų apylinkių sąrašą, jo pakeitimus Vyriausioji rinkimų
+komisija skelbia „Valstybės žiniose“.
 3. Rinkimų apylinkės teritorijoje
 turi gyventi ne daugiau kaip 5000 rinkėjų.
 4. Rinkimų apylinkės ribos,
@@ -246,20 +260,19 @@ dienų iki rinkimų. Meras teikime tvirtinti savivaldybės teritorijos suskirsty
 į rinkimų apylinkes nurodo siūlomą apylinkės pavadinimą, rinkimų apylinkę
 sudarančius adresus, rinkėjų skaičių sudaromoje apylinkėje, balsavimo patalpų
 adresą ir telefoną. Teikime keisti savivaldybės teritorijos suskirstymą į
-rinkimų apylinkes nurodomi siūlomi pakeitimai. Šie pakeitimai turi būti
-pateikti Vyriausiajai rinkimų komisijai ne vėliau kaip likus 110 dienų iki
-rinkimų. Jeigu anksčiau nustatytose balsavimo patalpose negalima surengti
-balsavimo, Vyriausioji rinkimų komisija apygardos rinkimų komisijos teikimu
-gali pakeisti apylinkės rinkimų komisijos balsavimo patalpos adresą likus iki
-rinkimų ir trumpesniam, negu šiame straipsnyje nustatyta, terminui.
+rinkimų apylinkes nurodomi siūlomi pakeitimai. Šie pakeitimai turi būti pateikti
+Vyriausiajai rinkimų komisijai ne vėliau kaip likus 110 dienų iki rinkimų.
+Jeigu anksčiau nustatytose balsavimo patalpose negalima surengti balsavimo,
+Vyriausioji rinkimų komisija apygardos rinkimų komisijos teikimu gali pakeisti
+apylinkės rinkimų komisijos balsavimo patalpos adresą likus iki rinkimų ir
+trumpesniam, negu šiame straipsnyje nustatyta, terminui.
  
 TREČIASIS
 SKIRSNIS
 RINKIMŲ
 ORGANIZAVIMAS
  
-11
-straipsnis. Rinkimų komisijos
+11 straipsnis. Rinkimų komisijos
 1. Rinkimus į Seimą organizuoja
 ir vykdo:
 1) Vyriausioji rinkimų komisija;
@@ -284,33 +297,37 @@ rinkimų komisijos nario pareigų. Jeigu rinkimų komisijos narys to nepadaro, j
 šalinamas iš rinkimų komisijos už šio rinkimų įstatymo pažeidimą ir
 neregistruojamas kandidatu į Seimo narius ar iš jų išbraukiamas.
  
-12 straipsnis. Neteko galios nuo 2002 m. rugpjūčio 1 d.
-Straipsnio pakeitimai:
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr. 68-2766
-(2002-07-03)
- 
-13 straipsnis. Neteko galios nuo 2002 m.
+12
+straipsnis. Neteko galios nuo 2002 m.
 rugpjūčio 1 d.
 Straipsnio pakeitimai:
 Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
 68-2766 (2002-07-03)
  
-14 straipsnis. Neteko galios nuo 2002 m.
-rugpjūčio 1 d.
+13
+straipsnis. Neteko
+galios nuo 2002 m. rugpjūčio 1 d.
 Straipsnio pakeitimai:
 Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
 68-2766 (2002-07-03)
  
-15
-straipsnis. Apygardų rinkimų komisijų sudarymas
-1. Apygardų rinkimų komisijas rinkimų
-laikotarpiui sudaro Vyriausioji rinkimų komisija ne vėliau kaip likus 74
-dienoms iki rinkimų.
+14
+straipsnis. Neteko
+galios nuo 2002 m. rugpjūčio 1 d.
+Straipsnio pakeitimai:
+Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+68-2766 (2002-07-03)
+ 
+15 straipsnis. Apygardų rinkimų komisijų sudarymas
+1. Apygardų rinkimų komisijas
+rinkimų laikotarpiui sudaro Vyriausioji rinkimų komisija ne vėliau kaip likus
+74 dienoms iki rinkimų.
 2. Apygardų rinkimų komisijos
 sudaromos iš:
 1) teisingumo ministro pasiūlyto
-aukštąjį teisinį išsilavinimą turinčio asmens, kuris gyvena ar dirba savivaldybės,
-kuri visa ar jos dalis priskirta šiai rinkimų apygardai, teritorijoje;
+aukštąjį teisinį išsilavinimą turinčio asmens, kuris gyvena ar dirba
+savivaldybės, kuri visa ar jos dalis priskirta šiai rinkimų apygardai,
+teritorijoje;
 2) Lietuvos teisininkų draugijos
 pasiūlyto aukštąjį teisinį išsilavinimą turinčio asmens, kuris gyvena ar dirba
 savivaldybės, kuri visa ar jos dalis priskirta šiai rinkimų apygardai,
@@ -350,8 +367,7 @@ pirmininką iš komisijos narių skiria Vyriausioji rinkimų komisija.
 8. Apygardos rinkimų komisija
 pirmajame posėdyje išsirenka komisijos pirmininko pavaduotoją ir sekretorių.
  
-16
-straipsnis. Apygardos rinkimų komisijos įgaliojimai
+16 straipsnis. Apygardos rinkimų komisijos įgaliojimai
 Apygardos rinkimų komisija:
 1) Vyriausiosios rinkimų
 komisijos nustatyta tvarka informuoja rinkimų apygardoje gyvenančius rinkėjus
@@ -379,8 +395,7 @@ ar kitų teisės aktų reikalavimų neatitinkančius sprendimus;
 10) vykdo kitus šio įstatymo
 nustatytus įgaliojimus.
  
-17
-straipsnis. Apylinkių rinkimų komisijų sudarymas
+17 straipsnis. Apylinkių rinkimų komisijų sudarymas
 1. Ne vėliau kaip likus 65
 dienoms iki rinkimų apygardos rinkimų komisija nustato kiekvienos rinkimų
 apylinkės komisijos narių skaičių, kuris turi būti kartotinis partijų (jų
@@ -390,11 +405,11 @@ vieta, trūkstamas kandidatūras gali pasiūlyti savivaldybės, kurios teritorij
 yra rinkimų apylinkė, meras.
 2. Po vienodą skaičių kandidatūrų
 į apylinkės rinkimų komisiją turi teisę siūlyti:
-1) kiekviena partija ar jų
-koalicija, per paskutinius Seimo rinkimus gavusi Seimo narių mandatų
-daugiamandatėje rinkimų apygardoje. Jeigu partija Seimo narių mandatų gavo
-būdama koalicijoje, tai kandidatūras ji gali siūlyti kartu su koalicijoje
-dalyvavusiomis partijomis;
+1) kiekviena partija ar jų koalicija,
+per paskutinius Seimo rinkimus gavusi Seimo narių mandatų daugiamandatėje
+rinkimų apygardoje. Jeigu partija Seimo narių mandatų gavo būdama koalicijoje,
+tai kandidatūras ji gali siūlyti kartu su koalicijoje dalyvavusiomis
+partijomis;
 2) partija ar jų koalicija, per
 paskutinius savivaldybės, kurios teritorijoje yra rinkimų apylinkė, tarybos
 rinkimus gavusi šios tarybos narių mandatų pagal iškeltų kandidatų sąrašą
@@ -402,9 +417,9 @@ rinkimus gavusi šios tarybos narių mandatų pagal iškeltų kandidatų sąraš
 kandidatūras ji gali siūlyti kartu su koalicijoje dalyvavusiomis partijomis.
 3. Jeigu partija gali siūlyti
 kandidatūras ir pagal Seimo, ir pagal savivaldybių rinkimų rezultatus, tai ji
-kandidatūras siūlo tik pagal vienų iš šių rinkimų rezultatus pasirinktinai.
-Jeigu viena iš partijų, dalyvavusių rinkimų koalicijoje, kandidatūrų nepasiūlo
-arba atsisako jas siūlyti, arba pasirenka siūlyti pagal kitų, kai buvo sudaryta
+kandidatūras siūlo tik pagal vienų iš šių rinkimų rezultatus pasirinktinai. Jeigu
+viena iš partijų, dalyvavusių rinkimų koalicijoje, kandidatūrų nepasiūlo arba
+atsisako jas siūlyti, arba pasirenka siūlyti pagal kitų, kai buvo sudaryta
 koalicija, rinkimų rezultatus, kitos šioje koalicijoje dalyvavusios partijos
 kandidatūras turi teisę siūlyti jai nedalyvaujant.
 4. Partija kandidatūrų į
@@ -432,8 +447,7 @@ pirmininkus iš komisijos narių skiria apygardų rinkimų komisijos.
 savo pirmajame posėdyje išsirenka komisijos pirmininko pavaduotoją ir
 sekretorių.
  
-18
-straipsnis. Apylinkės rinkimų komisijos įgaliojimai
+18 straipsnis. Apylinkės rinkimų komisijos įgaliojimai
 Apylinkės rinkimų komisija:
 1) iš apygardos rinkimų komisijos
 gauna apylinkės rinkėjų sąrašus, sudaro sąlygas su jais susipažinti rinkėjams,
@@ -442,11 +456,14 @@ pažymėjimus, praneša apygardos rinkimų komisijai apie apylinkės rinkėjų s
 aptiktus netikslumus;
 2) nagrinėja skundus dėl rinkėjų
 sąraše padarytų klaidų;
-3) Vyriausiosios rinkimų
-komisijos nustatyta tvarka prižiūri, kaip rinkimų apylinkės teritorijoje vyksta
-balsavimas paštu, kad būtų sudarytos sąlygos balsuoti paštu visose rinkimų
-apylinkės teritorijoje esančiose gydymo, socialinės rūpybos ir globos
-įstaigose, kariniuose daliniuose ir bausmės atlikimo vietose;
+3) Vyriausiosios
+rinkimų komisijos nustatyta tvarka prižiūri, kaip rinkimų apylinkės
+teritorijoje vyksta balsavimas paštu, kad būtų sudarytos sąlygos balsuoti paštu
+visose rinkimų apylinkės teritorijoje esančiose sveikatos priežiūros įstaigose
+(išskyrus ambulatorines), socialinės rūpybos ir globos įstaigose, kariniuose
+vienetuose ir vidaus tarnybos daliniuose, areštinėse, tardymo izoliatoriuose
+(sulaikymo namuose) ir bausmių vykdymo įstaigose, taip pat organizuoja rinkėjų
+balsavimą namuose;
 4) kartu su savivaldybės
 administracijos atstovu pasirūpina, kad pagal šio įstatymo reikalavimus laiku
 būtų parengtos balsavimo patalpos, slapto balsavimo kabinos ir balsadėžės;
@@ -457,8 +474,11 @@ apylinkės balsų skaičiavimo protokolą;
 7) svarsto savo apylinkės rinkėjų
 ir stebėtojų skundus dėl rinkimų rengimo, balsavimo organizavimo, balsų
 skaičiavimo, balsų skaičiavimo protokolų surašymo ir priima sprendimus;
-8) vykdo kitus šio įstatymo nustatytus
-įgaliojimus.
+8) vykdo kitus šio įstatymo
+nustatytus įgaliojimus.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
 19
 straipsnis. Rinkimų komisijų narių rašytinis pasižadėjimas 
@@ -484,26 +504,26 @@ sąžiningai ir garbingai atlikti savo pareigas rinkimų komisijoje ir susilaiky
 nuo poelgių, pažeidžiančių įstatymus ir žmogaus teises.“
 3. Davęs rašytinį pasižadėjimą
 asmuo po rašytinio pasižadėjimo tekstu pasirašo. Rašytinio pasižadėjimo tekstas
-negali būti keičiamas. Rašytinis pasižadėjimas galioja visą paskyrimo dirbti
-rinkimų komisijoje laikotarpį. 
+negali būti keičiamas. Rašytinis pasižadėjimas galioja visą paskyrimo dirbti rinkimų
+komisijoje laikotarpį. 
 4. Rinkimų komisijos narių,
 pirmininkų rašytinius pasižadėjimus saugo juos paskyrusios rinkimų komisijos. 
 5. Rinkimų komisija, skirdama
-rinkimų komisijos narį, nustato laiką, kada jis privalo duoti rašytinį pasižadėjimą.
-Asmuo, nedavęs rašytinio pasižadėjimo per 15 dienų nuo paskyrimo, negali
-pradėti eiti pareigų rinkimų komisijoje.]
+rinkimų komisijos narį, nustato laiką, kada jis privalo duoti rašytinį
+pasižadėjimą. Asmuo, nedavęs rašytinio pasižadėjimo per 15 dienų nuo paskyrimo,
+negali pradėti eiti pareigų rinkimų komisijoje.]
 Straipsnio pakeitimai:
-Nr. IX-967, 2002-06-20, Žin., 2002, Nr. 68-2766
-(2002-07-03)
+Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
+68-2766 (2002-07-03)
  
-20
-straipsnis. Rinkimų komisijų darbo organizavimas
+20 straipsnis. Rinkimų komisijų darbo organizavimas
 1. Rinkimų komisijos posėdžiai
 yra teisėti, kai juose dalyvauja ne mažiau kaip 3/5 komisijos narių. Komisijų
-sprendimai priimami atviru balsavimu posėdyje dalyvaujančių komisijos narių balsų
-dauguma. Balsams pasidalijus po lygiai, lemia komisijos pirmininko balsas.
-Komisijos nariai, nesutinkantys su sprendimu, turi teisę raštu pareikšti
-atskirąją nuomonę, o ši pridedama prie protokolo ir yra neatsiejama jo dalis.
+sprendimai priimami atviru balsavimu posėdyje dalyvaujančių komisijos narių
+balsų dauguma. Balsams pasidalijus po lygiai, lemia komisijos pirmininko
+balsas. Komisijos nariai, nesutinkantys su sprendimu, turi teisę raštu
+pareikšti atskirąją nuomonę, o ši pridedama prie protokolo ir yra neatsiejama
+jo dalis.
 2. Pasibaigus rinkimams, apygardų
 ir apylinkių rinkimų komisijų narių, pirmininkų įgaliojimai nutraukiami.
 Sprendimą nutraukti įgaliojimus priima rinkimų komisija, paskyrusi komisijos
@@ -518,9 +538,8 @@ Straipsnio pakeitimai:
 Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
 68-2766 (2002-07-03)
  
-21
-straipsnis. Skundai dėl rinkimų komisijų sprendimų, priimtų iki balsavimo
-pabaigos
+21 straipsnis. Skundai dėl rinkimų komisijų sprendimų,
+priimtų iki balsavimo pabaigos
 1. Partija, iškėlusi kandidatą į
 Seimo narius, kandidatas į Seimo narius, atstovas rinkimams, rinkimų stebėtojas
 rinkimų komisijos sprendimą, priimtą iki balsavimo pabaigos, ar kitą jos veiką
@@ -542,8 +561,8 @@ apskųsti atitinkamos apygardos administraciniam teismui.
 sprendimai ar kita jos veika per 5 dienas po sprendimo priėmimo, bet ne vėliau
 kaip iki balsavimo pabaigos, gali būti apskųsti Lietuvos vyriausiajam
 administraciniam teismui. Skundas turi būti išnagrinėtas ne vėliau kaip per 48
-valandas nuo jo padavimo. Į šį terminą įskaitomos ir ne darbo dienos. Teismo sprendimas
-įsiteisėja nuo paskelbimo.
+valandas nuo jo padavimo. Į šį terminą įskaitomos ir ne darbo dienos. Teismo
+sprendimas įsiteisėja nuo paskelbimo.
 4. Skundai, paduoti nesilaikant
 šiame straipsnyje nustatytos tvarkos, nenagrinėjami ir persiunčiami tai rinkimų
 komisijai, kuri privalo juos nagrinėti. Apylinkės rinkimų komisija, apygardos
@@ -553,8 +572,7 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1937, 2000.09.19, Žin., 2000, Nr. 85-2575 (2000.10.11)
  
-22
-straipsnis. Parama rinkimų komisijoms
+22 straipsnis. Parama rinkimų komisijoms
 1. Valstybės ir savivaldybių
 institucijos bei įstaigos, jų pareigūnai, tarnautojai, įmonės, jų darbuotojai
 privalo padėti rinkimų komisijoms vykdyti įgaliojimus ir teikti joms reikalingą
@@ -572,16 +590,15 @@ rengti ir vykdyti.
  
 23
 straipsnis. Rinkimų komisijų narių darbo apmokėjimas 
-1. Rinkimų komisijų pirmininkai,
-jų pavaduotojai ir nariai už darbą rinkimų komisijose gauna atlyginimą pagal
+1. Rinkimų komisijų pirmininkai, jų
+pavaduotojai ir nariai už darbą rinkimų komisijose gauna atlyginimą pagal
 Vyriausiosios rinkimų komisijos pateiktus ir Vyriausybės patvirtintus tarifus.
 2. (Neteko galios nuo 2002 m.
 rugpjūčio 1 d.)
 Straipsnio pakeitimai:
 Nr. IX-262, 2001 04 19, Žin., 2001, Nr. 39-1333 (2001 05 09)
  
-24
-straipsnis. Rinkimų komisijų sudėties keitimas
+24 straipsnis. Rinkimų komisijų sudėties keitimas
 1. Rinkimų komisijos pirmininką ar narį iš pareigų
 komisijoje gali atleisti patvirtinusi šios komisijos sudėtį rinkimų komisija
 arba Vyriausioji rinkimų komisija.
@@ -601,8 +618,7 @@ SKIRSNIS
 RINKĖJŲ
 SĄRAŠAI IR RINKĖJO PAŽYMĖJIMAS
  
-25
-straipsnis. Rinkėjų sąrašai
+25 straipsnis. Rinkėjų sąrašai
 1. Rinkimams organizuoti ir
 vykdyti sudaromi šie rinkėjų sąrašai:
 1) Lietuvos Respublikos rinkėjų
@@ -663,8 +679,10 @@ Straipsnio pakeitimai:
 Nr. IX-967,
 2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
  
-26 straipsnis. Piliečių įrašymo į Lietuvos Respublikos
-rinkėjų sąrašą bendra tvarka
+26 straipsnis.
+Piliečių įrašymo į Lietuvos Respublikos rinkėjų sąrašą bendra tvarka
+1 dalies redakcija iki 2007 m. liepos 1
+d.:
 1. Į Lietuvos Respublikos rinkėjų
 sąrašą įrašomi visi rinkimų teisę turintys Lietuvos Respublikos piliečiai pagal
 pilietybę patvirtinančio dokumento (paso) išdavimo duomenis ir Lietuvos
@@ -672,8 +690,22 @@ Respublikos gyventojų registrą. Valstybės institucijos, išduodančios Lietuv
 Respublikos pilietybę patvirtinančius dokumentus, tvarkančios piliečių
 gyvenamosios vietos deklaravimo duomenis, registruojančios piliečių mirtį ir
 pilietybės netekimą, taip pat yra atsakingos, kad Lietuvos Respublikos
-gyventojų registras laiku ir tinkamai būtų keičiamas ir tikslinamas. Pagal Lietuvos
-Respublikos gyventojų registro duomenis sudaryti sąrašai yra išankstiniai.
+gyventojų registras laiku ir tinkamai būtų keičiamas ir tikslinamas. Pagal
+Lietuvos Respublikos gyventojų registro duomenis sudaryti sąrašai yra
+išankstiniai.
+1 dalies redakcija nuo 2007 m. liepos 1
+d.:
+1. Į Lietuvos Respublikos
+rinkėjų sąrašą įrašomi visi rinkimų teisę turintys Lietuvos Respublikos piliečiai
+pagal pilietybę patvirtinančio dokumento (paso arba asmens tapatybės kortelės)
+išdavimo duomenis ir Lietuvos Respublikos gyventojų registrą. Valstybės ir
+savivaldybių institucijos ir įstaigos, išduodančios Lietuvos Respublikos
+pilietybę patvirtinančius dokumentus, tvarkančios piliečių gyvenamosios vietos
+deklaravimo duomenis, registruojančios piliečių mirtį ir pilietybės netekimą,
+taip pat yra atsakingos, kad Lietuvos Respublikos gyventojų registras laiku ir
+tinkamai būtų keičiamas ir tikslinamas. Pagal Lietuvos Respublikos gyventojų
+registro duomenis sudaryti sąrašai yra išankstiniai.
+ 
 2. Rinkėjų sąrašų sudarymą,
 tikslinimą ir tvarkymą organizuoja Vyriausioji rinkimų komisija, remdamasi
 valstybės, savivaldybių institucijų ir apygardų rinkimų komisijų teikiama
@@ -691,6 +723,9 @@ dienoms iki rinkimų, išankstiniai rinkėjų sąrašai su juose padarytais ir
 Vyriausiosios rinkimų komisijos nustatyta tvarka pripažintais pakeitimais
 patvirtinami kaip galutiniai rinkėjų sąrašai. Galutiniai rinkėjų sąrašai gali
 būti keičiami tik Vyriausiajai rinkimų komisijai sutikus.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
 27
 straipsnis. Vienmandatės rinkimų apygardos rinkėjų sąrašai
@@ -700,11 +735,13 @@ nurodytą rinkėjo gyvenamąją vietą (paskutinę žinomą rinkėjo gyvenamąj�
 sudaro Vyriausioji rinkimų komisija ir ne vėliau kaip likus 39 dienoms iki
 rinkimų perduoda apygardos rinkimų komisijai. Kartu sudaromi užsienyje
 gyvenančių rinkėjų sąrašai ir perduodami Lietuvos Respublikos diplomatinėms
-atstovybėms. Taip pat sudaromi piliečių, kurių gyvenamosios vietos tikslus
-adresas nežinomas, sąrašai.
+atstovybėms ir konsulinėms įstaigoms. Taip pat sudaromi piliečių, kurių gyvenamosios
+vietos tikslus adresas nežinomas, sąrašai.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-28
-straipsnis. Rinkimų apylinkės rinkėjų sąrašai
+28 straipsnis. Rinkimų apylinkės rinkėjų sąrašai
 Rinkimų apylinkės rinkėjų sąrašą
 pagal apygardos rinkėjų sąrašą ir jame nurodytą rinkėjo gyvenamąją vietą sudaro
 apygardos rinkimų komisija ir ne vėliau kaip likus 26 dienoms iki rinkimų
@@ -715,8 +752,8 @@ Lietuvą, Vyriausiosios rinkimų komisijos nustatyta tvarka įrašomi į rinkim�
 apylinkės, kurios teritorijoje yra laivo registravimo uostas ar laivo savininko
 administracija, rinkėjų sąrašą.
  
-29 straipsnis.
-Rinkėjų sąrašų paskelbimas ir susipažinimas su rinkėjų sąrašais 
+29
+straipsnis. Rinkėjų sąrašų paskelbimas ir susipažinimas su rinkėjų sąrašais 
 1. Likus ne mažiau kaip 25 dienoms iki rinkimų,
 apylinkės rinkimų komisija, diplomatinė atstovybė sudaro sąlygas rinkėjams
 susipažinti su rinkimų apylinkės rinkėjų sąrašu. Rinkimų apylinkės rinkėjų
@@ -740,18 +777,22 @@ Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
  
 30
 straipsnis. Rinkėjo pažymėjimas
-1. Rinkėjo pažymėjimas yra rinkimų komisijos išduotas dokumentas,
-kuriame nurodoma, kurios rinkimų apylinkės rinkėjų sąraše yra įrašytas Lietuvos
-Respublikos pilietis. Rinkėjo pažymėjimus, pasirašytus rinkimų komisijos
-pirmininko, įteikia rinkimų komisijos. Savo rinkėjo pažymėjimą gali
-atsispausdinti ir pats rinkėjas pagal Lietuvos Respublikos rinkėjų sąrašo
-duomenis, elektroninėmis ryšio priemonėmis gautus Vyriausiosios rinkimų
-komisijos nustatyta tvarka. Šiuo atveju rinkėjo pažymėjimą pasirašo pats
-rinkėjas. Be rinkėjo pažymėjimo balsuoti paštu negalima.
+1. Rinkėjo pažymėjimas yra
+rinkimų komisijos išduotas dokumentas, kuriame nurodoma, kurios rinkimų
+apylinkės rinkėjų sąraše yra įrašytas Lietuvos Respublikos pilietis. Rinkimų
+komisijos pirmininko pasirašytus rinkėjo pažymėjimus įteikia rinkimų
+komisijos. Savo rinkėjo pažymėjimą gali išsispausdinti ir pats rinkėjas ar jo
+prašymu kitas asmuo pagal Lietuvos Respublikos rinkėjų sąrašo duomenis,
+elektroninėmis ryšio priemonėmis gautus Vyriausiosios rinkimų komisijos
+nustatyta tvarka. Šiuo atveju rinkėjo pažymėjimą pasirašo pats rinkėjas, išskyrus
+atvejus, kai dėl fizinių trūkumų rinkėjas jo pats pasirašyti negali ir jį
+pasirašo kitas rinkėjo pasirinktas asmuo, nurodydamas savo vardą, pavardę ir
+asmens kodą. Be rinkėjo pažymėjimo (dublikato) balsuoti, išskyrus balsavimą
+laivuose, negalima.
 2. Rinkėjo pažymėjime nurodoma:
 1) rinkėjo vardas ir pavardė;
-2) rinkėjo gimimo data (metai,
-mėnuo, diena);
+2)
+rinkėjo gimimo data (metai, mėnuo, diena);
 3) rinkėjo adresas;
 4) vienmandatės rinkimų
 apygardos, kurioje balsuoja rinkėjas, pavadinimas ir numeris;
@@ -762,56 +803,62 @@ adresas;
 apylinkės rinkėjų sąraše;
 7) rinkimų data, balsavimo
 rinkimų apylinkės balsavimo patalpoje laikas, kad šis pažymėjimas yra būtinas
-balsuojant paštu, kita rinkėjui reikšminga informacija.
+balsuojant, kita rinkėjui ar organizuojant rinkimus reikšminga informacija.
 3. Jeigu rinkėjas prašo išduoti
-rinkėjo pažymėjimo dublikatą vietoj pamesto ar negauto rinkėjo pažymėjimo,
+rinkėjo pažymėjimo dublikatą vietoj prarasto ar negauto rinkėjo pažymėjimo,
 dublikatas turi būti nedelsiant išduodamas rinkėjui, kai tik yra nustatomi
 rinkėjo duomenys, kurie turi būti įrašomi į pažymėjimą.
 Straipsnio pakeitimai:
 Nr.
 IX-2402, 2004-07-15, Žin., 2004, Nr.
 115-4279 (2004-07-24)
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-31
-straipsnis. Rinkėjo pažymėjimo įteikimas
-1. Rinkėjo pažymėjimų įteikimą rinkėjams organizuoja
-apylinkės rinkimų komisija. Užsienyje esančiam rinkėjui, pranešusiam savo
-adresą diplomatinei atstovybei, rinkėjo pažymėjimus įteikia arba siunčia paštu
-diplomatinė atstovybė. Rinkėjui, balsuojančiam laive, rinkėjo pažymėjimas
-neįteikiamas.
-2. Apie rinkėjo pažymėjimo
-įteikimą pažymima rinkimų apylinkės išankstiniame rinkėjų sąraše. Rinkėjo
-pažymėjimas įteikiamas arba rinkėjui asmeniškai, arba kitam kartu su rinkėju
-gyvenančiam asmeniui, arba rinkėjo kaimynui, kuris pažįsta rinkėją ir
-įsipareigoja perduoti jam rinkėjo pažymėjimą. Rinkėjo pažymėjimų įteikimas
-rinkėjams turi būti baigtas ne vėliau kaip likus 20 dienų iki rinkimų.
-3. Rinkėjas, kuris laiku negavo
+31 straipsnis. Rinkėjo pažymėjimo įteikimas
+1. Rinkėjo pažymėjimų įteikimą
+rinkėjams organizuoja apylinkės rinkimų komisija. 
+2. Rinkėjo pažymėjimų įteikimo rinkėjams, esantiems
+sveikatos priežiūros įstaigose (išskyrus ambulatorines), socialinės rūpybos ir
+globos įstaigose, kariniuose vienetuose ir vidaus tarnybos daliniuose,
+areštinėse, tardymo izoliatoriuose (sulaikymo namuose), atliekantiems bausmę
+bausmių vykdymo įstaigose, taip pat išvykusiems į užsienio valstybes, tvarka
+nustatoma šio įstatymo 70, 71, 72 ir 73 straipsniuose.
+3. Apie rinkėjo pažymėjimo įteikimą pažymima rinkimų apylinkės
+išankstiniame rinkėjų sąraše. Rinkėjo pažymėjimas įteikiamas arba rinkėjui
+asmeniškai, arba kitam kartu su rinkėju gyvenančiam asmeniui, arba rinkėjo
+kaimynui, kuris pažįsta rinkėją ir įsipareigoja perduoti jam rinkėjo
+pažymėjimą. Rinkėjo pažymėjimų įteikimas rinkėjams turi būti baigtas ne vėliau
+kaip likus 20 dienų iki rinkimų.
+4. Rinkėjas, kuris laiku negavo
 rinkėjo pažymėjimo arba kuriam buvo išduotas rinkėjo pažymėjimas su
 netikslumais, privalo nedelsdamas pranešti apie tai apylinkės rinkimų
 komisijai, kurios aptarnaujamoje teritorijoje gyvena, ir pateikti rinkimų
-komisijai savo pasą arba kitą asmenybę patvirtinantį dokumentą. Jeigu rinkėjas
-yra įrašytas į šios rinkimų apylinkės rinkėjų sąrašą, apylinkės rinkimų
-komisija turi rinkėjui išrašyti naują rinkėjo pažymėjimą ir nedelsdama jį išduoti.
-Jeigu rinkėjas neįrašytas į šios rinkimų apylinkės rinkėjų sąrašą, bet rinkėjo
-gyvenamosios vietos adresas pagal gyventojų registro duomenis yra priskirtas
-šiai rinkimų apylinkės teritorijai arba rinkėjas pateikia kitus įrodymus, kad
-jis gyvena šios rinkimų apylinkės teritorijoje, apylinkės rinkimų komisija
-pateikia rinkėjui užpildyti Vyriausiosios rinkimų komisijos nustatytos formos
-prašymą įrašyti rinkėją į šios rinkimų apylinkės rinkėjų sąrašą (arba šį
+komisijai savo pasą arba kitą asmens tapatybę patvirtinantį dokumentą. Jeigu
+rinkėjas yra įrašytas į šios rinkimų apylinkės rinkėjų sąrašą, apylinkės
+rinkimų komisija turi rinkėjui išrašyti naują rinkėjo pažymėjimą ir nedelsdama
+jį išduoti. Jeigu rinkėjas neįrašytas į šios rinkimų apylinkės rinkėjų sąrašą,
+bet rinkėjo gyvenamosios vietos adresas pagal gyventojų registro duomenis yra
+priskirtas šiai rinkimų apylinkės teritorijai arba rinkėjas pateikia kitus
+įrodymus, kad jis gyvena šios rinkimų apylinkės teritorijoje, apylinkės rinkimų
+komisija pateikia rinkėjui užpildyti Vyriausiosios rinkimų komisijos nustatytos
+formos prašymą įrašyti rinkėją į šios rinkimų apylinkės rinkėjų sąrašą (arba šį
 prašymą užpildo apylinkės rinkimų komisijos narys pats) ir apie tai nedelsdama
-praneša apygardos rinkimų komisijai, kuri turi pasirūpinti, kad pagal šį
-prašymą rinkėjas būtų įrašytas į tos rinkimų apylinkės rinkėjų sąrašą. Rinkėjo
+praneša apygardos rinkimų komisijai, kuri turi pasirūpinti, kad pagal šį prašymą
+rinkėjas būtų įrašytas į tos rinkimų apylinkės rinkėjų sąrašą. Rinkėjo
 pažymėjimas išrašomas ir įteikiamas rinkėjui po to, kai yra patikslinti rinkėjų
 sąrašai.
-4. Apygardos rinkimų komisija
+5. Apygardos rinkimų komisija
 Vyriausiosios rinkimų komisijos nustatyta tvarka gali išrašyti rinkėjo
 pažymėjimą kitos rinkimų apygardos rinkėjų sąraše įrašytam rinkėjui, jeigu jis
 negali parvykti į nuolatinę gyvenamąją vietą pasiimti ar kitaip gauti rinkėjo
-pažymėjimo. Rinkėjas to turi prašyti raštu ir pateikti Lietuvos Respublikos
-piliečio pasą.
+pažymėjimo. Rinkėjas to turi prašyti raštu.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-32
-straipsnis. Rinkėjų sąrašų patikslinimas iki galutinių sąrašų sudarymo
+32 straipsnis. Rinkėjų sąrašų patikslinimas iki galutinių
+sąrašų sudarymo
 1. Išankstiniai rinkėjų sąrašai tikslinami perkeliant
 rinkėją iš vieno apylinkės, apygardos rinkėjų sąrašo į kitą, išbraukiant ar
 įrašant rinkėją į Lietuvos Respublikos rinkėjų sąrašą.
@@ -830,51 +877,56 @@ komisijoms. Rinkėją įrašyti arba išbraukti iš Lietuvos Respublikos rinkėj
 sąrašo gali tik Vyriausioji rinkimų komisija šio įstatymo 26 straipsnyje
 nustatytais atvejais.
  
-33
-straipsnis. Užsienyje esančių Lietuvos Respublikos piliečių įrašymas į rinkėjų
-sąrašus
+33 straipsnis. Užsienyje esančių Lietuvos Respublikos piliečių
+įrašymas į rinkėjų sąrašus
 1. Kitose valstybėse esantys Lietuvos Respublikos
 piliečiai įrašomi į tos vienmandatės rinkimų apygardos rinkėjų sąrašą, kurios
 teritorijoje yra Lietuvos Respublikos Seimas.
-2. Lietuvos Respublikos diplomatinė
-atstovybė, likus ne mažiau kaip 15 dienų iki Seimo rinkimų, perduoda
-Vyriausiajai rinkimų komisijai diplomatinėje atstovybėje sudarytą rinkėjų
-sąrašą ir duomenis apie jo patikslinimą. Šis sąrašas gali būti papildomas
-rinkėjais, kurie balsavimo paštu laikotarpiu ir rinkimų dieną negali sugrįžti į
-Lietuvą ir balsuoja diplomatinėje atstovybėje.
+2. Lietuvos Respublikos
+diplomatinė atstovybė, likus ne mažiau kaip 15 dienų iki Seimo rinkimų,
+perduoda Vyriausiajai rinkimų komisijai diplomatinėje atstovybėje sudarytą
+rinkėjų sąrašą ir duomenis apie jo patikslinimą. Šis sąrašas gali būti
+papildomas rinkėjais, kurie balsavimo paštu laikotarpiu ir rinkimų dieną negali
+sugrįžti į Lietuvą ir balsuoja diplomatinėje atstovybėje.
  
-34 straipsnis. Karių, rinkėjų, esančių
-laivuose, pataisos įstaigose, areštinėse ir kardomojo kalinimo vietose,
-įrašymas į rinkėjų sąrašus
+34
+straipsnis. Rinkėjų,
+esančių kariniuose vienetuose ir vidaus tarnybos daliniuose, laivuose,
+areštinėse, tardymo izoliatoriuose (sulaikymo namuose) ir bausmių vykdymo
+įstaigose, įrašymas į rinkėjų sąrašus
 1. Rinkėjai, atliekantys tikrąją
 karo arba alternatyviąją krašto apsaugos tarnybą, įrašomi į rinkimų apylinkės,
 kurios teritorijoje jie nuolat gyveno, iki buvo pašaukti atlikti tikrąją karo
 arba alternatyviąją krašto apsaugos tarnybą, rinkėjų sąrašą.
-2. Krašto apsaugos sistemos ir vidaus
-tarnybos karininkai, puskarininkiai ir liktiniai įrašomi į rinkimų apylinkės,
-kurios teritorijoje jie nuolat gyvena, rinkėjų sąrašus.
+2. Krašto apsaugos sistemos ir
+vidaus tarnybos daliniuose tarnaujantys ir dirbantys rinkėjai įrašomi į rinkimų
+apylinkės, kurios teritorijoje jie deklaravo gyvenamąją vietą, rinkėjų sąrašus.
 3. Laivuose esantys rinkėjai,
 kurie balsavimo paštu laikotarpiu ir rinkimų dieną negali sugrįžti į Lietuvą,
 įrašomi į tos rinkimų apylinkės, į kurios rinkėjų sąrašą yra įrašyta laivo
 įgula, papildomą rinkėjų sąrašą.
-4. Rinkėjai, esantys pataisos
-įstaigose, areštinėse ir kardomojo kalinimo vietose, įrašomi į rinkimų
-apylinkės, kurios teritorijoje jie yra deklaravę gyvenamąją vietą, rinkėjų
-sąrašus. Jei toks asmuo nėra deklaravęs gyvenamosios vietos ir raštu prašo, jis
-įrašomas į rinkimų apylinkės, kurios teritorijoje yra pataisos įstaiga,
-areštinė ar kardomojo kalinimo vieta, rinkėjų sąrašą. Asmuo, deklaravęs
-gyvenamąją vietą, iki jis pateko į pataisos įstaigą, areštinę ar kardomojo
-kalinimo vietą, negali būti įrašomas į rinkimų apylinkės, kurios teritorijoje
-yra pataisos įstaiga, areštinė ar kardomojo kalinimo vieta, rinkėjų sąrašą.
+4. Rinkėjai,
+esantys areštinėse, tardymo izoliatoriuose (sulaikymo namuose) ar bausmių
+vykdymo įstaigose, įrašomi į rinkimų apylinkės, kurios teritorijoje jie yra
+deklaravę gyvenamąją vietą, rinkėjų sąrašus. Jei toks asmuo nėra deklaravęs
+gyvenamosios vietos ir raštu prašo, jis įrašomas į rinkimų apylinkės, kurios
+teritorijoje yra jo bausmės vykdymo įstaiga, areštinė ar tardymo izoliatorius
+(sulaikymo namai), rinkėjų sąrašą. Asmuo, deklaravęs gyvenamąją vietą, kol
+pateko į areštinę, tardymo izoliatorių (sulaikymo namus) ar bausmės vykdymo
+įstaigą, negali būti įrašomas į rinkimų apylinkės, kurios teritorijoje yra jo
+bausmės vykdymo įstaiga, areštinė ar tardymo izoliatorius (sulaikymo namai),
+rinkėjų sąrašą.
 Straipsnio
 pakeitimai:
 Nr.
 IX-2402, 2004-07-15, Žin., 2004, Nr.
 115-4279 (2004-07-24)
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-35
-straipsnis. Rinkėjų sąrašų tikslinimas sudarius galutinius rinkėjų sąrašus,
-taip pat rinkimų dieną
+35 straipsnio redakcija iki 2007 m. liepos 1 d.:
+35 straipsnis. Rinkėjų sąrašų tikslinimas sudarius
+galutinius rinkėjų sąrašus, taip pat rinkimų dieną
 Jeigu į apylinkės rinkimų komisiją po galutinio
 rinkėjų sąrašų patvirtinimo, bet ne vėliau kaip iki rinkimų dienos 18 valandos
 kreipiasi neįrašytas į šios rinkimų apylinkės rinkėjų sąrašą rinkėjas ir
@@ -891,9 +943,32 @@ skaičiuojami tik vieną kartą. Jeigu rinkėjas yra balsavęs du kartus,
 skaičiuojamas tik tas balsas, kuris pateko į rinkimų apylinkės balsadėžę. Kitas
 šio rinkėjo balsas, gautas paštu arba balsavus pagal papildomą apylinkės
 rinkėjų sąrašą, neskaičiuojamas.
+35 straipsnio redakcija nuo 2007 m. liepos 1 d.:
+35
+straipsnis. Rinkėjų sąrašų tikslinimas sudarius galutinius rinkėjų sąrašus,
+taip pat rinkimų dieną
+Jeigu į apylinkės rinkimų
+komisiją po galutinio rinkėjų sąrašų patvirtinimo, bet ne vėliau kaip iki
+rinkimų dienos 18 valandos kreipiasi neįrašytas į šios rinkimų apylinkės
+rinkėjų sąrašą rinkėjas ir pateikia Lietuvos Respublikos piliečio pasą su jame
+įrašytu gyvenamosios vietos adresu arba pasą ar asmens tapatybės kortelę ir
+dokumentą apie deklaruotą gyvenamąją vietą (gyvenamoji vieta turi būti
+priskirta šios rinkimų apylinkės teritorijai), apylinkės rinkimų komisija įrašo
+rinkėją į papildomą rinkimų apylinkės rinkėjų sąrašą ir leidžia jam balsuoti
+Vyriausiosios rinkimų komisijos nustatyta tvarka, o šio rinkėjo vardą, pavardę,
+asmens kodą, jo paso arba asmens tapatybės kortelės numerį ir adresą tuoj pat
+praneša apygardos rinkimų komisijai. Apygardos rinkimų komisija patikrina, ar
+rinkėjas įrašytas į rinkimų apygardos rinkėjų sąrašą, ir imasi priemonių
+garantuoti, kad rinkėjas negalėtų du kartus balsuoti arba jo užpildyti
+biuleteniai būtų skaičiuojami tik vieną kartą. Jeigu rinkėjas yra balsavęs du
+kartus, skaičiuojamas tik tas balsas, kuris pateko į rinkimų apylinkės
+balsadėžę. Kitas šio rinkėjo balsas, gautas paštu arba balsavus pagal papildomą
+apylinkės rinkėjų sąrašą, neskaičiuojamas.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-36
-straipsnis. Skundai dėl rinkėjų sąrašų
+36 straipsnis. Skundai dėl rinkėjų sąrašų
 1. Rinkėjas arba partijos
 atstovas skundus dėl rinkėjų sąraše padarytų klaidų, dėl kurių rinkėjas šio
 įstatymo nustatyta tvarka nėra įrašytas į rinkėjų sąrašą arba yra įrašytas į
@@ -903,8 +978,8 @@ išnagrinėti ir sprendimą priimti tuoj pat arba ne vėliau kaip per 2 dienas n
 jo gavimo, jeigu iki rinkimų dienos liko daugiau kaip 10 dienų.
 2. Apylinkės rinkimų komisijos
 sprendimas per 3 dienas gali būti apskųstas atitinkamos apygardos
-administraciniam teismui, kuris skundą išnagrinėja per 2 dienas. Teismo sprendimas
-yra galutinis.
+administraciniam teismui, kuris skundą išnagrinėja per 2 dienas. Teismo
+sprendimas yra galutinis.
 3. Praleidus nustatytus terminus
 pastaboms ir skundams pateikti, pastabos ir skundai nenagrinėjami.
 4. Apie gautus skundus ir pagal
@@ -912,12 +987,10 @@ teismo sprendimus rinkėjų sąrašuose padarytus pataisymus apylinkių rinkimų
 komisijos praneša apygardos rinkimų komisijai, o ši -Vyriausiajai rinkimų
 komisijai per kiek įmanoma trumpesnį laiką, bet ne vėliau kaip per 12 valandų.
  
-PENKTASIS
-SKIRSNIS
+PENKTASIS SKIRSNIS
 KANDIDATŲ Į SEIMO NARIUS KĖLIMAS
  
-37
-straipsnis. Kandidatų į Seimo narius kėlimas
+37 straipsnis. Kandidatų į Seimo narius kėlimas
 1. Kandidatus į Seimo narius gali
 kelti:
 1) vienmandatėse ir
@@ -936,8 +1009,7 @@ surašytų iš eilės, sąrašas daugiamandatėje rinkimų apygardoje turi būti
 patvirtinti partijos suvažiavimo ar konferencijos. Kandidatų sąraše
 (jungtiniame sąraše) negali būti mažiau kaip 25 ir daugiau kaip 141 kandidatas.
  
-38
-straipsnis. Kandidatų iškėlimo pareiškiniai dokumentai
+38 straipsnis. Kandidatų iškėlimo pareiškiniai dokumentai
 1. Partija turi įteikti
 Vyriausiajai rinkimų komisijai šiuos pareiškinius dokumentus:
 1) pareiškimą dalyvauti
@@ -953,10 +1025,10 @@ pasirašytą įsipareigojimą, jeigu jis bus išrinktas, nutraukti darbo ar kito
 veiklą, nesuderinamą su Seimo nario statusu, sutikimą būti šios partijos
 iškeltu kandidatu konkrečioje rinkimų apygardoje, paties užpildytą kandidato į
 Seimo narius anketą ir gyventojų pajamų mokesčio bei gyventojo turto
-deklaracijų, pateiktų valstybinei mokesčių inspekcijai, pagrindinių duomenų
-išrašus, patvirtintus tos mokesčių inspekcijos, kuriai deklaracijos buvo
-pateiktos. Partija taip pat turi teisę pateikti kiekvieno kandidato
-fotonuotraukas, autobiografiją;
+deklaracijų, pateiktų valstybinei mokesčių inspekcijai, pagrindinių duomenų išrašus,
+patvirtintus tos mokesčių inspekcijos, kuriai deklaracijos buvo pateiktos.
+Partija taip pat turi teisę pateikti kiekvieno kandidato fotonuotraukas,
+autobiografiją;
 6) įgaliojimą atstovui rinkimams
 atstovauti Vyriausiojoje rinkimų komisijoje, taip pat turi teisę pateikti
 įgaliojimus atstovauti jai ir jos keliamiems kandidatams apygardų rinkimų
@@ -968,9 +1040,9 @@ organizacija paskutiniuose Seimo arba savivaldybių tarybų rinkimuose buvo
 iškėlusi kandidatus arba kandidatų sąrašus, ji turi teisę pateikti spaudoje
 paskelbtos vykdant Seimo, Savivaldybių tarybų rinkimų įstatymus ataskaitos apie
 lėšų šaltinius ir naudojimą rinkimų agitacijai kopiją;
-9) praėjusių metų finansinės
-veiklos deklaracijos, kuri vykdant Politinių partijų ir politinių organizacijų
-įstatymą turėjo būti pateikta mokesčių inspekcijai, kopiją, patvirtintą šios
+9) praėjusių metų finansinės veiklos
+deklaracijos, kuri vykdant Politinių partijų ir politinių organizacijų įstatymą
+turėjo būti pateikta mokesčių inspekcijai, kopiją, patvirtintą šios
 inspekcijos, taip pat gali pateikti ataskaitos (pranešimo), kuri turėjo būti
 viešai paskelbta pagal Politinių partijų ir politinių organizacijų įstatymą,
 apie savo biudžeto pajamas ir jų šaltinius, išlaidas ir jų paskirtį, kopiją.
@@ -988,6 +1060,9 @@ teisę pateikti savo fotonuotraukas, autobiografiją;
 3) dokumentą, patvirtinantį, kad
 yra sumokėtas rinkimų užstatas. Taip pat gali būti pateiktas kandidato
 įgaliojimas jam atstovauti Vyriausiojoje ir tos apygardos rinkimų komisijose.
+ 
+3 dalies redakcija iki 2007 m. liepos 1
+d.:
 3. Apygardos rinkimų komisija
 piliečiui, nusprendusiam išsikelti kandidatu į Seimo narius, per tris dienas
 išduoda vardinius parašų rinkimo lapus, kuriuose įrašyta kandidato vardas ir
@@ -1011,18 +1086,59 @@ grasinant reikalauti pasirašyti ar kitaip pažeisti savanoriškumo principą.
 Parašų rinkimo lapus kandidatas turi grąžinti apygardos rinkimų komisijai ne
 vėliau kaip likus 40 dienų iki rinkimų. Gavusi parašų rinkimo lapus, apygardos
 rinkimų komisija ne daugiau kaip per 7 dienas juos patikrina. Apygardos rinkimų
-komisija suskaičiuoja rinkimų apygardos rinkėjų, parėmusių šio piliečio
-išsikėlimą, parašų skaičių. Neįskaičiuojami šie parašai: asmenų, neturinčių
-rinkimų teisės; rinkėjų, neįrašytų į tos rinkimų apygardos rinkėjų sąrašą;
-asmenų, kurie nėra įrašę visų šio įstatymo nustatytų duomenų; jei įrašyti
-neteisingi duomenys; visi parašai piliečio, kuris už to paties asmens
-išsikėlimą pasirašė keletą kartų. Jeigu yra nustatoma, kad piliečių parašai
-suklastoti, kad renkant parašus buvo pažeisti savanoriškumo principas ar kiti
-šio įstatymo reikalavimai, apygardos rinkimų komisija Vyriausiajai rinkimų
-komisijai siūlo neregistruoti asmens kandidatu į Seimo narius. Jeigu parašų
-rinkimo lapuose, atmetus neįskaičiuojamus parašus, yra surinktas šio įstatymo
-nustatytas parašų skaičius, apygardos rinkimų komisija teikia Vyriausiajai
-rinkimų komisijai registruoti asmenį kandidatu į Seimo narius.
+komisija suskaičiuoja rinkimų apygardos rinkėjų, parėmusių šio piliečio išsikėlimą,
+parašų skaičių. Neįskaičiuojami šie parašai: asmenų, neturinčių rinkimų teisės;
+rinkėjų, neįrašytų į tos rinkimų apygardos rinkėjų sąrašą; asmenų, kurie nėra
+įrašę visų šio įstatymo nustatytų duomenų; jei įrašyti neteisingi duomenys;
+visi parašai piliečio, kuris už to paties asmens išsikėlimą pasirašė keletą
+kartų. Jeigu yra nustatoma, kad piliečių parašai suklastoti, kad renkant
+parašus buvo pažeisti savanoriškumo principas ar kiti šio įstatymo
+reikalavimai, apygardos rinkimų komisija Vyriausiajai rinkimų komisijai siūlo
+neregistruoti asmens kandidatu į Seimo narius. Jeigu parašų rinkimo lapuose,
+atmetus neįskaičiuojamus parašus, yra surinktas šio įstatymo nustatytas parašų
+skaičius, apygardos rinkimų komisija teikia Vyriausiajai rinkimų komisijai registruoti
+asmenį kandidatu į Seimo narius.
+3 dalies redakcija nuo 2007 m. liepos 1
+d.:
+3. Apygardos rinkimų komisija
+piliečiui, nusprendusiam išsikelti kandidatu į Seimo narius, per tris dienas
+išduoda vardinius parašų rinkimo lapus, kuriuose įrašyta kandidato vardas ir
+pavardė, kandidato išsikėlimą remiančių tos rinkimų apygardos rinkėjų parašams
+rinkti. Parašus renka pilietis, nusprendęs išsikelti kandidatu į Seimo narius,
+pats arba tai paveda atlikti kitiems rinkimų teisę turintiems asmenims. Parašus
+rinkęs asmuo pasirašo parašų rinkimų lapo pabaigoje ir atsako, kad parašai būtų
+renkami šio įstatymo nustatyta tvarka. Parašų rinkimo lape pilietis, kuris
+remia asmens išsikėlimą kandidatu, pats turi įrašyti šiuos duomenis: pavardę,
+vardą, paso arba asmens tapatybės kortelės numerį, gimimo datą,
+nuolatinės gyvenamosios vietos adresą, – ir pasirašyti. Tuo atveju, kai
+kandidato išsikėlimą remiantis pilietis dėl fizinių trūkumų ar kitų priežasčių
+negali reikalingų duomenų parašų rinkimo lape įrašyti pats, jis gali paprašyti
+kito rinkimų teisę turinčio piliečio, išskyrus parašų rinkėją, tai padaryti už
+jį. Šiuo atveju surašomas Vyriausiosios rinkimų komisijos nustatytos formos
+aktas ir pridedamas prie parašų rinkimo lapo. Pilietis, remiantis asmens
+išsikėlimą kandidatu ir neturintis fizinių trūkumų, kurie jam trukdytų įrašyti
+savo duomenis, turi tuos duomenis į parašų rinkimo lapą įrašyti pats.
+Draudžiama papirkinėti išsikėlimą parėmusius rinkėjus, atsilyginti ar žadėti
+atsilyginti už kandidato išsikėlimo parėmimą, taip pat grasinant reikalauti
+pasirašyti ar kitaip pažeisti savanoriškumo principą. Parašų rinkimo lapus
+kandidatas turi grąžinti apygardos rinkimų komisijai ne vėliau kaip likus 40
+dienų iki rinkimų. Gavusi parašų rinkimo lapus, apygardos rinkimų komisija ne
+daugiau kaip per 7 dienas juos patikrina. Apygardos rinkimų komisija
+suskaičiuoja rinkimų apygardos rinkėjų, parėmusių šio piliečio išsikėlimą,
+parašų skaičių. Neįskaičiuojami šie parašai: asmenų, neturinčių rinkimų teisės;
+rinkėjų, neįrašytų į tos rinkimų apygardos rinkėjų sąrašą; asmenų, kurie nėra
+įrašę visų šio įstatymo nustatytų duomenų; jei įrašyti neteisingi duomenys;
+visi parašai piliečio, kuris už to paties asmens išsikėlimą pasirašė keletą
+kartų. Jeigu yra nustatoma, kad piliečių parašai suklastoti, kad renkant
+parašus buvo pažeisti savanoriškumo principas ar kiti šio įstatymo
+reikalavimai, apygardos rinkimų komisija Vyriausiajai rinkimų komisijai siūlo
+neregistruoti asmens kandidatu į Seimo narius. Jeigu parašų rinkimo lapuose,
+atmetus neįskaičiuojamus parašus, yra surinktas šio įstatymo nustatytas parašų
+skaičius, apygardos rinkimų komisija teikia Vyriausiajai rinkimų komisijai
+registruoti asmenį kandidatu į Seimo narius.
+ 
+4 dalies redakcija iki 2007 m. liepos 1
+d.:
 4. Kandidato į Seimo narius
 anketoje pilietis, išsikėlęs arba keliamas kandidatu į Seimo narius, pats turi
 įrašyti: pavardę, vardą, paso numerį, asmens kodą, gimimo datą, nuolatinės
@@ -1039,10 +1155,34 @@ yra, pateikti kitos valstybės (kitų valstybių) pilietybę patvirtinantį doku
 Vyriausiosios rinkimų komisijos reikalavimu – Lietuvos Respublikos, kitos
 valstybės (kitų valstybių) kompetentingų institucijų išduotą dokumentą apie kitos valstybės (kitų
 valstybių) pilietybės atsisakymą ar jos netekimą, taip pat atitinkamos formos
-ir turinio rašytinį sutikimą, kad Vyriausioji rinkimų komisija galėtų gauti duomenis iš Lietuvos Respublikos,
-kitos valstybės (kitų valstybių) kompetentingų institucijų apie kandidato į Seimo narius
-turimą ar turėtą kitos valstybės (kitų valstybių) pilietybę, jos atsisakymą ar
-netekimą.
+ir turinio rašytinį sutikimą, kad Vyriausioji rinkimų komisija galėtų gauti duomenis iš Lietuvos
+Respublikos, kitos valstybės (kitų valstybių) kompetentingų institucijų apie kandidato į Seimo
+narius turimą ar turėtą kitos valstybės (kitų valstybių) pilietybę, jos
+atsisakymą ar netekimą.
+4 dalies redakcija nuo 2007 m. liepos 1
+d.:
+4. Kandidato į Seimo narius
+anketoje pilietis, išsikėlęs arba keliamas kandidatu į Seimo narius, pats turi
+įrašyti: pavardę, vardą, paso arba asmens tapatybės kortelės numerį, asmens
+kodą, gimimo datą, nuolatinės gyvenamosios vietos adresą, ar neturi nebaigtos
+atlikti teismo nuosprendžiu paskirtos bausmės, ar jis nėra asmuo, atliekantis
+tikrąją karo arba alternatyviąją krašto apsaugos tarnybą, neišėjęs į atsargą
+krašto apsaugos sistemos, policijos ir vidaus tarnybos karininkas,
+puskarininkis ar liktinis, kitos sukarintos ar saugumo tarnybos apmokamas
+pareigūnas. Kandidato į Seimo narius anketoje taip pat gali būti pateikiama ir
+kitų Vyriausiosios rinkimų komisijos nustatytų papildomų klausimų, į kuriuos
+asmuo gali ir neatsakyti.  Kandidatas į Seimo narius taip pat privalo raštu
+pranešti Vyriausiajai rinkimų komisijai, ar jis yra, ar buvo ir kada buvo kitos
+valstybės (kitų valstybių) pilietis, ir jei tokių aplinkybių yra, pateikti
+kitos valstybės (kitų valstybių) pilietybę patvirtinantį dokumentą, o Vyriausiosios
+rinkimų komisijos reikalavimu – Lietuvos Respublikos, kitos valstybės (kitų
+valstybių) kompetentingų institucijų išduotą dokumentą apie kitos valstybės
+(kitų valstybių) pilietybės atsisakymą ar jos netekimą, taip pat atitinkamos
+formos ir turinio rašytinį sutikimą, kad Vyriausioji rinkimų komisija galėtų
+gauti duomenis iš Lietuvos Respublikos, kitos valstybės (kitų valstybių)
+kompetentingų institucijų apie kandidato į Seimo narius turimą ar turėtą kitos
+valstybės (kitų valstybių) pilietybę, jos atsisakymą ar netekimą.
+ 
 5. Pareiškinių dokumentų
 įteikimas pradedamas likus 65 dienoms ir baigiamas 17 valandą likus 34 dienoms
 iki rinkimų. Dokumentai, pateikti pasibaigus pareiškinių dokumentų pateikimo
@@ -1055,8 +1195,11 @@ IX-1912,
 Nr.
 IX-2402,
 2004-07-15, Žin., 2004, Nr. 115-4279 (2004-07-24)
+Nr. X-397, 2005-11-17,
+Žin., 2005, Nr. 143-5171 (2005-12-08)
  
-39 straipsnis. Kandidatų į Seimo narius registravimas
+39 straipsnis.
+Kandidatų į Seimo narius registravimas
 1. Prasidėjus kandidatų sąrašų
 pateikimo terminui, Teisingumo ministerija per vieną dieną Vyriausiosios
 rinkimų komisijos reikalavimu oficialiai patvirtina, kokios partijos yra
@@ -1072,19 +1215,19 @@ nustato, ar kandidatas atitinka šio įstatymo 2 straipsnio reikalavimus.
 Prireikus ji gali kreiptis pagalbos į Užsienio, Vidaus reikalų, Teisingumo
 ministerijas ar kitas Lietuvos Respublikos ir užsienio valstybių kompetentingas
 institucijas, kad šios praneštų reikšmingus kandidato registravimo duomenis.
-Toks Vyriausiosios rinkimų komisijos prašymas Lietuvos Respublikoje turi būti
-nagrinėjamas ypatingos skubos tvarka, o rašytinis atsakymas turi būti duotas
-per 5 dienas, bet ne vėliau kaip likus 32 dienoms iki rinkimų.
+Toks Vyriausiosios rinkimų komisijos prašymas Lietuvos Respublikoje turi būti nagrinėjamas
+ypatingos skubos tvarka, o rašytinis atsakymas turi būti duotas per 5 dienas,
+bet ne vėliau kaip likus 32 dienoms iki rinkimų.
 4.
 Patikrinusi ir nustačiusi, kad pateikti visi šiame įstatyme numatyti
 pareiškiniai dokumentai ir jie atitinka šio įstatymo reikalavimus,
 Vyriausioji rinkimų komisija sprendimą dėl kandidato
 registravimo ar atsisakymo registruoti turi priimti per 10 dienų po pareiškinių
 dokumentų pateikimo, bet ne vėliau kaip likus 31 dienai iki rinkimų.
-5. Jeigu pateikti ne visi šiame
-įstatyme numatyti pareiškiniai dokumentai ar juose yra trūkumų,
-Vyriausioji rinkimų komisija turi apie tai nedelsdama pranešti atitinkamam
-atstovui rinkimams.
+5. Jeigu pateikti ne visi šiame įstatyme
+numatyti pareiškiniai dokumentai ar juose yra trūkumų, Vyriausioji
+rinkimų komisija turi apie tai nedelsdama pranešti atitinkamam atstovui
+rinkimams.
 6. Jeigu po kandidato į Seimo
 narius įregistravimo Vyriausioji rinkimų komisija nustato, kad kandidatas
 neatitinka šio įstatymo 2 straipsnyje nustatytų reikalavimų, arba kandidatas
@@ -1096,8 +1239,7 @@ Nr.
 IX-2402, 2004-07-15, Žin., 2004, Nr.
 115-4279 (2004-07-24)
  
-40
-straipsnis. Atstovas rinkimams
+40 straipsnis. Atstovas rinkimams
 1. Vyriausiojoje ar apygardos
 rinkimų komisijoje atstovas rinkimams visais klausimais atstovauja jį tam
 įgaliojusiai partijai, piliečiui, išsikėlusiam ir įregistruotam kandidatu į
@@ -1121,8 +1263,7 @@ pilietis, išsikėlęs kandidatu, įgaliojimą atstovauti gali bet kada atšaukt
 būti įregistruotas, jam išduotas pažymėjimas, o ankstesniojo atstovo rinkimams
 registravimas nutrauktas ne vėliau kaip per 3 dienas.
  
-41
-straipsnis. Rinkimų užstatas
+41 straipsnis. Rinkimų užstatas
 1. Rinkimų
 užstatas vienam kandidatui į Seimo narius įregistruoti vienmandatėje rinkimų
 apygardoje yra lygus paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo
@@ -1154,9 +1295,8 @@ pervedami į valstybės biudžetą.
 Straipsnio pakeitimai:
 Nr. IX-181, 2001 02 20, Žin., 2001, Nr. 21-689 (2001 03 09)
  
-42
-straipsnis. Draudimai vienam asmeniui būti kandidatu keliose rinkimų apygardose
-arba keliuose kandidatų sąrašuose
+42 straipsnis. Draudimai vienam asmeniui būti kandidatu
+keliose rinkimų apygardose arba keliuose kandidatų sąrašuose
 1. Kiekvienas kandidatas į Seimo narius gali būti
 įrašytas tik į vienos partijos iškeltų kandidatų sąrašą daugiamandatėje rinkimų
 apygardoje.
@@ -1169,8 +1309,7 @@ davęs sutikimą būti iškeltas (ar išsikėlė pats) daugiau kaip vienoje
 vienmandatėje rinkimų apygardoje, jis išbraukiamas iš visų kandidatų sąrašų
 daugiamandatėje ir visose vienmandatėse rinkimų apygardose.
  
-43
-straipsnis. Kandidatų sąrašų sujungimas
+43 straipsnis. Kandidatų sąrašų sujungimas
 Iki pareiškinių dokumentų
 pateikimo pabaigos kelios partijos gali sujungti savo kandidatų sąrašus. Tam
 jos privalo Vyriausiajai rinkimų komisijai pateikti pareiškimą dėl kandidatų
@@ -1183,8 +1322,8 @@ jame negali būti nuorodų į partijų, nesudarančių šios koalicijos, pavadin
 Jungtinis sąrašas laikomas vienu sąrašu. Ta pati partija negali dalyvauti
 daugiau kaip vienoje koalicijoje.
  
-44
-straipsnis. Teisė atšaukti ar papildyti rinkimų pareiškinius dokumentus
+44 straipsnis. Teisė atšaukti ar papildyti rinkimų
+pareiškinius dokumentus
 1. Partija ar rinkimų koalicija,
 taip pat pilietis, iškeltas ar išsikėlęs kandidatu į Seimo narius vienmandatėje
 rinkimų apygardoje arba politinės organizacijos sąraše, bet kuriuo metu patys
@@ -1192,13 +1331,13 @@ gali paskelbti savo pareiškinius dokumentus visiškai ar iš dalies atšauktais
 tačiau ne vėliau kaip likus 25 dienoms iki rinkimų. Partija ar rinkimų
 koalicija Vyriausiajai rinkimų komisijai tai praneša pareiškimu, pilietis -
 pareiškimu, patvirtintu notarine tvarka, ir apie tai yra informuojami
-atitinkami atstovai rinkimams Vyriausiojoje rinkimų komisijoje. Atšaukus pareiškinius
-dokumentus, rinkimų užstatas gali būti grąžinamas tik po rinkimų, jeigu jis
-taps grąžintinu, kaip tai nustatyta šio įstatymo 41 straipsnyje. Iki
+atitinkami atstovai rinkimams Vyriausiojoje rinkimų komisijoje. Atšaukus
+pareiškinius dokumentus, rinkimų užstatas gali būti grąžinamas tik po rinkimų,
+jeigu jis taps grąžintinu, kaip tai nustatyta šio įstatymo 41 straipsnyje. Iki
 pareiškinių dokumentų įteikimo laiko pabaigos, nustatytos šio įstatymo 38
-straipsnio 5 dalyje, papildomai galima teikti naujus pareiškinius dokumentus
-keičiant kandidatų sąrašo eilę arba keliant naujus kandidatus vienmandatėse
-rinkimų apygardose.
+straipsnio 5 dalyje, papildomai galima teikti naujus pareiškinius dokumentus keičiant
+kandidatų sąrašo eilę arba keliant naujus kandidatus vienmandatėse rinkimų
+apygardose.
 2. Jeigu pareiškinius dokumentus
 atšaukia partija, esanti koalicijoje, tai jos iškelti kandidatai išbraukiami iš
 jungtinio kandidatų sąrašo ir, jeigu koalicijos pavadinime yra nuoroda į jos
@@ -1212,8 +1351,8 @@ dokumentus ar anuliavus kandidatų registravimą kandidatų sąraše (jungtiniam
 sąraše) lieka mažiau kaip 20 kandidatų, anuliuojamas visas šio sąrašo kandidatų
 registravimas.
  
-45
-straipsnis. Kandidatų ir kandidatų sąrašų paskelbimas, rinkimų agitacijos
+45 straipsnis. Kandidatų ir kandidatų sąrašų paskelbimas,
+rinkimų agitacijos
  kampanijos
 pradžia
 1. Likus ne mažiau kaip 30 dienų
@@ -1229,13 +1368,12 @@ negali būti keičiamas iki rinkimų rezultatų paskelbimo.
 2. Nuo kandidatų paskelbimo
 dienos prasideda rinkimų agitacijos kampanija.
  
-ŠEŠTASIS
-SKIRSNIS
+ŠEŠTASIS SKIRSNIS
 KANDIDATŲ
 Į SEIMO NARIUS VEIKLOS GARANTIJOS
  
-46
-straipsnis. Kandidato į Seimo narius teisė kalbėti susirinkimuose, naudotis 
+46 straipsnis. Kandidato į Seimo narius teisė kalbėti
+susirinkimuose, naudotis 
 visuomenės
 informavimo priemonėmis
 1. Prasidėjus rinkimų agitacijos kampanijai, kandidatai į Seimo narius
@@ -1250,31 +1388,47 @@ nutarimus.
  
 47
 straipsnis. Atsakomybė už šio įstatymo pažeidimą
-Asmenys, smurtu, apgaule,
-grasinimais, papirkinėjimais arba kitaip kliudantys rinkėjams įgyvendinti teisę
-rinkti ir būti išrinktiems į Seimą, organizuoti rinkimų agitaciją, taip pat
-rinkimų komisijų nariai, kiti pareigūnai, suklastoję rinkimų dokumentus,
-neteisingai suskaičiavę balsus, pažeidę balsavimo slaptumą arba kitaip pažeidę
-šį įstatymą, atsako pagal Lietuvos Respublikos įstatymus. Atsakomybėn taip pat
-traukiami asmenys, paskelbę arba kitaip platinę melagingus duomenis apie
-kandidatą į Seimo narius ar trukdę kandidatui susitikti su rinkėjais.
+Asmenys, smurtu, apgaule, grasinimais, papirkimu arba
+kitu būdu trukdantys rinkėjams įgyvendinti teisę rinkti ir būti išrinktiems į
+Seimą, organizuoti ir vykdyti rinkimų agitaciją, pažeidę rinkimų agitacijos
+tvarką, paskelbę arba kitaip platinę melagingus duomenis apie kandidatą į Seimo
+narius ar trukdę kandidatui susitikti su rinkėjais arba kitaip pažeidę šį
+įstatymą, taip pat rinkimų komisijų nariai ar kiti pareigūnai, suklastoję,
+sugadinę, sunaikinę, pagrobę ar paslėpę rinkimų dokumentus, neteisingai
+suskaičiavę balsus, pažeidę balsavimo slaptumą arba kitaip pažeidę šį įstatymą,
+atsako pagal Lietuvos Respublikos įstatymus.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
 48
-straipsnis. Kandidato į Seimo narius teisė būti atleistam nuo darbo ar
-tarnybinių pareigų rinkimų agitacijos kampanijos metu
-Kandidatas į Seimo narius rinkimų
-į Seimą organizavimo ir vykdymo laikui, bet ne ilgiau kaip 1 mėnesį, jo prašymu
-gali būti atleidžiamas nuo darbo ar tarnybinių pareigų.
+straipsnis. Kandidato į Seimo narius teisė būti atleistam nuo darbo ar 
+tarnybinių
+pareigų rinkimų agitacijos kampanijos metu
+1. Kandidatas į Seimo narius rinkimų į Seimą organizavimo ir vykdymo
+laikui, bet ne ilgiau kaip 1 mėnesį, jo prašymu gali būti atleidžiamas nuo
+darbo ar tarnybinių pareigų.
+2. Šio straipsnio 1 dalies nuostata netaikoma kandidatui į Seimo
+narius, kuris eina Seimo nario, Vyriausybės nario ar Respublikos Prezidento
+pareigas.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
 49
 straipsnis. Kandidato į Seimo narius neliečiamybė
-Kandidatas į Seimo narius rinkimų
-agitacijos kampanijos metu, taip pat iki pirmojo naujai išrinkto Seimo posėdžio
-(po pakartotinių arba naujų rinkimų - iki galutinių rinkimų rezultatų
-paskelbimo) be Vyriausiosios rinkimų komisijos sutikimo negali būti patrauktas
-baudžiamojon atsakomybėn, suimtas, jam negali būti taikomos administracinės
-nuobaudos teismine tvarka už veiksmus, padarytus rinkimų agitacijos kampanijos
-metu.
+1. Kandidatas į Seimo narius
+rinkimų agitacijos kampanijos metu, taip pat iki pirmojo naujai išrinkto Seimo
+posėdžio (po pakartotinių arba naujų rinkimų – iki Seimo nario priesaikos) be
+Vyriausiosios rinkimų komisijos sutikimo negali būti traukiamas baudžiamojon
+atsakomybėn, suimamas, negali būti kitaip varžoma jo laisvė.
+2. Šio straipsnio 1 dalies nuostatos netaikomos
+kandidatams į Seimo narius, kurie eina Seimo nario, Vyriausybės nario ar
+teisėjo pareigas. Šių asmenų neliečiamybės klausimas rinkimų kampanijos metu
+sprendžiamas Konstitucijos ir įstatymų nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
 SEPTINTASIS
 SKIRSNIS
@@ -1285,32 +1439,39 @@ AGITACIJA
 straipsnis. Rinkimų agitacijos pagrindai
 1. Pradėti rinkimų agitaciją
 partijoms ir save iškėlusiems kandidatams sudaromos šio įstatymo nustatytos
-sąlygos nuo tos dienos, kurią prasideda rinkimų agitacijos kampanija.
+sąlygos nuo tos dienos, kurią prasideda rinkimų agitacijos kampanija. Rinkimų
+agitacijos išlaidos ir politinės reklamos išlaidos, turėtos iki rinkimų
+agitacijos kampanijos pradžios, turi būti įstatymų nustatyta tvarka
+deklaruojamos ir negali viršyti pagal įstatymus nustatyto didžiausio leistino
+rinkimų agitacijos išlaidų dydžio.
 2. Rinkimų agitacija gali būti
 įvairių formų ir būdų, išskyrus tuos, kurie pažeidžia Lietuvos Respublikos
-Konstituciją ir įstatymus.
+Konstituciją ir įstatymus, prieštarauja moralei, teisingumui ar visuomenės
+darnai, neatitinka sąžiningų ir garbingų rinkimų.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-51
-straipsnis. Naudojimosi visuomenės informavimo priemonėmis sąlygos ir tvarka
+51 straipsnis. Naudojimosi visuomenės informavimo
+priemonėmis sąlygos ir tvarka
 1. Kandidatų sąrašus iškėlusioms
 partijoms, kandidatams vienmandatėse rinkimų apygardose suteikiama teisė
 nemokamai naudotis valstybinėmis visuomenės informavimo priemonėmis. Rinkimų
-agitacijai skirtų laidų rengimo taisykles patvirtina, konkrečią Lietuvos
-nacionalinio radijo ir televizijos laidų trukmę ir laiką nustato Vyriausioji
-rinkimų komisija, suderinusi su Lietuvos nacionalinio radijo ir televizijos
-vadovais. Ji taip pat paskirsto laidų laiką taip, kad nebūtų pažeisti šie
-lygiateisiškumo principai: tarp kandidatų sąrašų daugiamandatėje rinkimų
-apygardoje; tarp vienmandačių rinkimų apygardų; tarp kandidatų vienmandatėje
-rinkimų apygardoje. Kiekvienam kandidatų sąrašui skiriama ne mažiau kaip po
-vieną valandą visuomeninio (nacionalinio) radijo ir po tiek pat televizijos
-laiko debatams su kito ar kitų kandidatų sąrašų atstovais. Debatuose
-dalyvaujančių kandidatų sąrašų atstovų grupės (2 ir daugiau) sudaromos
-tarpusavio susitarimu, o jeigu jo nėra, – burtais. Kiekvienam kandidatui,
-iškeltam arba išsikėlusiam vienmandatėje rinkimų apygardoje, skiriama ne mažiau
-kaip po 5 minutes visuomeninio (nacionalinio) radijo laiko. Šiose radijo
-laidose kandidatai kalba debatuose, rengiamuose atitinkamos vienmandatės
-rinkimų apygardos kandidatams. Jeigu laidoje dalyvauja tik vienas kandidatas,
-jis diskutuoja su laidos vedėju.
+agitacijai skirtų laidų rengimo taisykles patvirtina, konkrečią Lietuvos nacionalinio
+radijo ir televizijos laidų trukmę ir laiką nustato Vyriausioji rinkimų
+komisija, suderinusi su Lietuvos nacionalinio radijo ir televizijos vadovu. Ji
+taip pat paskirsto laidų laiką taip, kad nebūtų pažeisti šie lygiateisiškumo
+principai: tarp kandidatų sąrašų daugiamandatėje rinkimų apygardoje; tarp
+vienmandačių rinkimų apygardų; tarp kandidatų vienmandatėje rinkimų apygardoje.
+Kiekvienam kandidatų sąrašui skiriama ne mažiau kaip po vieną valandą
+visuomeninio (nacionalinio) radijo ir po tiek pat televizijos laiko debatams su
+kito ar kitų kandidatų sąrašų atstovais. Debatuose dalyvaujančių kandidatų
+sąrašų atstovų grupės (2 ir daugiau) sudaromos tarpusavio susitarimu, o jeigu
+jo nėra, – burtais. Kiekvienam kandidatui, iškeltam arba išsikėlusiam vienmandatėje
+rinkimų apygardoje, skiriama ne mažiau kaip po 5 minutes visuomeninio
+(nacionalinio) radijo laiko. Šiose radijo laidose kandidatai kalba debatuose,
+rengiamuose atitinkamos vienmandatės rinkimų apygardos kandidatams. Jeigu
+laidoje dalyvauja tik vienas kandidatas, jis diskutuoja su laidos vedėju.
 2. Kandidatų sąrašo rinkimų
 programą išspausdina Vyriausioji rinkimų komisija per 20 dienų nuo pateikimo.
 3. Kandidato, dėl kurio
@@ -1325,24 +1486,55 @@ nemokamai, nustato Vyriausioji rinkimų komisija: rinkimų agitacijos per
 televiziją ir radiją – Lietuvos radijo ir televizijos komisijos teikimu,
 rinkimų agitacijos periodinės spaudos leidiniuose – žurnalistų etikos
 inspektoriaus teikimu.
-5. Išorinė politinė reklama yra
-ribojama. Politinė reklama išorinės reklamos priemonėmis gali būti skleidžiama
-tik tam skirtuose stenduose ar kitose vietose (vitrinos, stulpai, skydai,
-pastatų sienos, laikini statiniai ir pan.). Tokius stendus ar kitas vietas
-rinkimų apygardos teritorijoje apygardos rinkimų komisijai teikia skirti
-savivaldybės administracijos direktorius ne vėliau kaip likus 29 dienoms iki
-rinkimų dienos. Stenduose ir kitose vietose visiems sąrašams ar kandidatams
-(partijos išdėstomos pagal sąrašų numerius, o kandidatai – pagal abėcėlę) yra
-skiriamas vienodas reklamos plotas. Kiekvienam skiriamas reklamos plotas turi
-būti ne didesnis kaip A1 formato. Tokių stendų ar kitų vietų negali būti
-mažiau, negu toje vienmandatėje rinkimų apygardoje yra rinkimų apylinkių. Jei
-stendai ar kitos skelbimo vietos neatitinka nurodytų reikalavimų, savivaldybės
-administracijos direktorius privalo nedelsdamas nurodyti kitą tinkamą vietą.
-Politinę reklamą stenduose ar kitose vietose skelbia politinės partijos,
-kandidatai ar jų įgalioti asmenys. Skelbti išorinę politinę reklamą ne jai
-skirtose vietose draudžiama, už šį rinkimų agitacijos pažeidimą baudžiama
-įstatymų nustatyta tvarka.
-6. Visus ginčus dėl rinkimų
+5. Draudžiama įrengti ir skleisti
+išorinę politinę reklamą:
+1) ant statinių, kuriuose veikia
+valstybės valdžios, teisėsaugos ir kitos valstybės institucijos ir įstaigos;
+2) ant transporto priemonių ir
+viešajame transporte;
+3) automobilių keliuose ir jų
+sanitarinės apsaugos zonose, taip pat gatvėse ir prie jų, jeigu ji gali užstoti
+technines eismo reguliavimo priemones, kelio ženklus, pabloginti matomumą,
+akinti eismo dalyvius, atitraukti jų dėmesį ir taip kelti pavojų eismo
+dalyviams, taip pat draudžiama naudoti reklamą, imituojančią kelio ženklus;
+4) ant skulptūrų ir paminklų;
+5) 50 metrų atstumu aplink
+pastatą, kuriame yra balsavimo patalpa;
+6) neturint žemės, statinių ar
+kitų objektų, ant kurių ar kuriuose ji įrengiama, savininko sutikimo.
+6. Išorinė
+politinė reklama saugomose teritorijose ir nekilnojamosiose kultūros vertybėse,
+taip pat jų teritorijose leidžiama tik suderinus su valstybės įstaiga,
+atsakinga už kultūros vertybių apsaugą, ir saugomos teritorijos steigėjo
+įgaliota įstaiga.
+7. Išorinei
+politinei reklamai skelbti laikantis kandidatų ir kandidatų sąrašų
+lygiateisiškumo principo skiriama ne mažiau kaip po vieną specialią vietą
+kiekvienos rinkimų apylinkės teritorijoje. Išorinė politinė reklama šiame
+įstatyme suprantama kaip išorinės reklamos priemonėmis skleidžiama politinė
+reklama. Išorine politine reklama laikoma taip pat politinė reklama, skelbiama
+viešose vietose, pastatuose, transporto priemonėse. Išorinės politinės reklamos
+vietas savo lėšomis įrengia savivaldybė. Išorinė politinė reklama gaminama ir
+skelbiama savarankiškų politinės kampanijos dalyvių lėšomis.
+8. Vietas, kuriose gali būti įrengta ir skleidžiama išorinė politinė
+reklama, rinkimų apygardos teritorijoje privalo parinkti ir pateikti apygardos
+rinkimų komisijai tvirtinti savivaldybės administracijos direktorius ne vėliau
+kaip likus 35 dienoms iki rinkimų dienos. Jeigu stendai, skydai ar teikiamos
+vietos išorinei politinei reklamai netinkamos arba netinkamai įrengtos,
+apygardos rinkimų komisija pareikalauja, kad būtų teikiamos tinkamos vietos ar
+teikiamos vietos būtų tinkamai įrengtos. Kiekvienoje išorinei politinei
+reklamai skirtoje vietoje visiems kandidatų sąrašams ir tos vienmandatės
+rinkimų apygardos kandidatams (partijos išdėstomos pagal sąrašų numerius, o
+kandidatai – pagal abėcėlę) skiriamas vienodas reklamos plotas, kurį nurodo
+apylinkės rinkimų komisijos pirmininkas. Šis plotas kiekvienam turi būti ne didesnis
+kaip A2 formato. Išorinę politinę reklamą skelbia politinės partijos,
+kandidatai ar šių įgalioti asmenys jiems skirtuose reklamos plotuose. Jeigu
+išorinė politinė reklama skelbiama nenustatytose vietose, savivaldybės
+administracijos direktorius užtikrina, kad ji būtų nedelsiant nuimta.
+9. Asmenys, pažeidę šiame
+straipsnyje nustatytus išorinės politinės reklamos įrengimo ir skleidimo
+tvarkos reikalavimus, atsako įstatymų nustatyta tvarka.
+10. Visus ginčus dėl rinkimų
 agitacijos sprendžia Vyriausioji rinkimų komisija, vadovaudamasi šiuo įstatymu.
 Straipsnio pakeitimai:
 Nr. VIII-1913, 2000.08.31, Žin., 2000, Nr. 75-2275 (2000.09.07)
@@ -1352,10 +1544,11 @@ IX-2402, 2004-07-15, Žin., 2004, Nr.
 Nr.
 IX-2414, 2004-08-20, Žin., 2004, Nr.
 134-4835 (2004-09-02)
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-52
-straipsnis. Kandidatą į Seimo narius kompromituojančios medžiagos skelbimas ir
-kandidato atsakomoji nuomonė
+52 straipsnis. Kandidatą į Seimo narius kompromituojančios
+medžiagos skelbimas ir kandidato atsakomoji nuomonė
 1. Jeigu rinkimų agitacijos kampanijos laikotarpiu visuomenės
 informavimo priemonė paskelbia kandidatą į Seimo narius kompromituojančią
 medžiagą (vėliausiai tokius duomenis galima skelbti: visuomenės informavimo
@@ -1401,8 +1594,8 @@ priemonė privalo Vyriausiajai rinkimų komisijai sumokėti trigubą šio paskel
 kainą.
 5. Visais atvejais atsakomoji
 nuomonė neskelbiama rinkimų agitacijos draudimo laikotarpiu. Atsakomosios
-nuomonės paskelbimas neatleidžia visuomenės informavimo priemonės nuo
-atsakomybės pagal Lietuvos Respublikos įstatymus.
+nuomonės paskelbimas neatleidžia visuomenės informavimo priemonės nuo atsakomybės
+pagal Lietuvos Respublikos įstatymus.
 6. Kai kandidato atsakomoji
 nuomonė skelbiama Vyriausiosios rinkimų komisijos sprendimu, šio įstatymo
 nustatyta paskelbimo kaina ne ginčo tvarka išieškoma iš tos visuomenės
@@ -1410,27 +1603,26 @@ informavimo priemonės, kuri kandidatą kompromituojančią medžiagą paskelbė
 neleistinu laikotarpiu arba pati laiku nepaskelbė kandidato atsakomosios
 nuomonės.
  
-53
-straipsnis. Kandidatų sąrašą iškėlusią partiją kompromituojančios medžiagos
-skelbimas ir atsakomoji nuomonė
-1. Jeigu rinkimų agitacijos
-kampanijos laikotarpiu visuomenės informavimo priemonė paskelbia partiją,
-iškėlusią kandidatų sąrašą, kompromituojančią medžiagą (vėliausiai tokius
-duomenis galima skelbti: visuomenės informavimo priemonėje, kuri leidžiama
-daugiau kaip 3 kartus per savaitę, - likus 5 dienoms iki rinkimų, kitose
-visuomenės informavimo priemonėse - likus 10 dienų iki rinkimų, bet visais
-atvejais kompromituojanti medžiaga apie partiją, iškėlusią kandidatų sąrašą,
-gali būti paskelbta ne vėliau kaip priešpaskutiniame iki rinkimų visuomenės
-informavimo priemonės leidinio numeryje), ji privalo suteikti galimybę partijai
-pareikšti atsakomąją nuomonę. Atsakomąją nuomonę sudaro paskelbtos
-kompromituojančios medžiagos trumpas išdėstymas ir atsakymas. Ji paprastai
-negali būti daugiau kaip 3 kartus ilgesnė už kompromituojančią medžiagą.
-Visuomenės informavimo priemonė atsakomąją nuomonę turi paskelbti ne vėliau
-kaip per 7 dienas po to, kai ji buvo pareikšta, ir ne vėliau kaip likus 2
-dienoms iki draudimo vykdyti rinkimų agitaciją pradžios. Jeigu visuomenės
-informavimo priemonė negali per šio įstatymo nustatytą laikotarpį pati
-paskelbti atsakomosios nuomonės, ji turi pasirūpinti savo lėšomis paskelbti
-atsakomąją nuomonę kitoje visuomenės informavimo priemonėje.
+53 straipsnis. Kandidatų sąrašą iškėlusią partiją
+kompromituojančios medžiagos skelbimas ir atsakomoji nuomonė
+1. Jeigu rinkimų agitacijos kampanijos
+laikotarpiu visuomenės informavimo priemonė paskelbia partiją, iškėlusią
+kandidatų sąrašą, kompromituojančią medžiagą (vėliausiai tokius duomenis galima
+skelbti: visuomenės informavimo priemonėje, kuri leidžiama daugiau kaip 3
+kartus per savaitę, - likus 5 dienoms iki rinkimų, kitose visuomenės
+informavimo priemonėse - likus 10 dienų iki rinkimų, bet visais atvejais
+kompromituojanti medžiaga apie partiją, iškėlusią kandidatų sąrašą, gali būti
+paskelbta ne vėliau kaip priešpaskutiniame iki rinkimų visuomenės informavimo
+priemonės leidinio numeryje), ji privalo suteikti galimybę partijai pareikšti
+atsakomąją nuomonę. Atsakomąją nuomonę sudaro paskelbtos kompromituojančios
+medžiagos trumpas išdėstymas ir atsakymas. Ji paprastai negali būti daugiau kaip
+3 kartus ilgesnė už kompromituojančią medžiagą. Visuomenės informavimo priemonė
+atsakomąją nuomonę turi paskelbti ne vėliau kaip per 7 dienas po to, kai ji
+buvo pareikšta, ir ne vėliau kaip likus 2 dienoms iki draudimo vykdyti rinkimų
+agitaciją pradžios. Jeigu visuomenės informavimo priemonė negali per šio
+įstatymo nustatytą laikotarpį pati paskelbti atsakomosios nuomonės, ji turi
+pasirūpinti savo lėšomis paskelbti atsakomąją nuomonę kitoje visuomenės
+informavimo priemonėje.
 2. Kompromituojanti medžiaga yra
 tokia medžiaga, kuria siekiama paveikti rinkėjus, kad šie nebalsuotų už
 konkrečios partijos iškeltus kandidatus, ir kurioje pranešama partiją (jos
@@ -1446,12 +1638,12 @@ partija pasinaudojo atsakomosios nuomonės teise.
 3. Atsakomąją nuomonę partija
 visuomenės informavimo priemonei pateikia per savo atstovą rinkimams prie
 Vyriausiosios rinkimų komisijos arba per savo atstovą rinkimams prie apygardos
-rinkimų komisijos. Jeigu atstovas rinkimams laiku pateikė visuomenės informavimo
-priemonei atsakomąją nuomonę, bet ji nebuvo paskelbta, atsakomoji nuomonė
-Vyriausiosios rinkimų komisijos sprendimu skelbiama per Lietuvos nacionalinį
-radiją ar televiziją ir už tai apmokama pagal reklamos skelbimų kainas. Šiuo
-atveju visuomenės informavimo priemonė privalo Vyriausiajai rinkimų komisijai
-sumokėti dvigubą šio paskelbimo kainą.
+rinkimų komisijos. Jeigu atstovas rinkimams laiku pateikė visuomenės
+informavimo priemonei atsakomąją nuomonę, bet ji nebuvo paskelbta, atsakomoji
+nuomonė Vyriausiosios rinkimų komisijos sprendimu skelbiama per Lietuvos
+nacionalinį radiją ar televiziją ir už tai apmokama pagal reklamos skelbimų kainas.
+Šiuo atveju visuomenės informavimo priemonė privalo Vyriausiajai rinkimų
+komisijai sumokėti dvigubą šio paskelbimo kainą.
 4. Jeigu kompromituojanti
 medžiaga buvo paskelbta laikotarpiu, kuriuo ji pagal šį įstatymą negali būti
 skelbiama, atsakomoji nuomonė Vyriausiosios rinkimų komisijos sprendimu
@@ -1468,8 +1660,8 @@ paskelbimo kaina ne ginčo tvarka išieškoma iš tos visuomenės informavimo
 priemonės, kuri kompromituojančią medžiagą paskelbė neleistinu laikotarpiu arba
 pati laiku nepaskelbė atsakomosios nuomonės.
  
-54
-straipsnis. Draudimas vykdyti rinkimų agitaciją naudojantis tarnybine padėtimi
+54 straipsnis. Draudimas vykdyti rinkimų agitaciją
+naudojantis tarnybine padėtimi
 1. Bet kam draudžiama naudotis
 tarnybine padėtimi valstybės ar savivaldybių institucijose, įstaigose ar
 organizacijose, taip pat valstybinėse ar savivaldybių visuomenės informavimo
@@ -1489,69 +1681,7 @@ visuomenės informavimo priemonių laidose galima skelbti tik tą konferencijos
 įrašą ar jo dalį, kuriuose nėra rinkimų agitacijos.
  
 55
-straipsnio redakcija iki 2004 m. rugsėjo 10 d.:
-55
-straipsnis. Rinkimų agitacijos finansavimas
-1. Rinkimų agitacija finansuojama
-iš partijos ar kandidato į Seimo narius gautų lėšų, kurios kaupiamos
-specialioje rinkimų sąskaitoje, atidarytoje pagal Vyriausiosios rinkimų komisijos
-išduotą pažymą. Specialios rinkimų sąskaitos maksimalus leistinas dydis yra 50
-VMDU kandidatui vienmandatėje rinkimų apygardoje ir 1000 VMDU kandidatų sąrašui
-daugiamandatėje rinkimų apygardoje. Jei į atitinkamą sąskaitą lėšų pervesta
-daugiau, bankas perteklių perveda į valstybės biudžetą.
-2. Rinkimų agitacijos išlaidas
-sudaro: renginių, publikacijų, radijo ar televizijos laidų, taip pat gaminių ar
-paslaugų, kuriais siekiama paveikti rinkėjų valią balsuoti arba nebalsuoti už
-kandidatą ar kandidatus, rengimo, įsigijimo, gamybos ar teikimo kaina. Apmokėti
-rinkimų agitacijos išlaidas ne iš specialių rinkimų sąskaitų draudžiama.
-Rinkimų agitacijos gaminiai ir paslaugos, kurių vertė didesnė kaip 0,5 VMDU,
-negali būti teikiami nemokamai. Rinkimų agitacijos gaminiai ir paslaugos negali
-būti teikiami darant akivaizdžias nuolaidas. Norintysis paremti kandidatų
-sąrašą ar kandidatą privalo tai daryti pervesdamas lėšas į specialias rinkimų
-sąskaitas. Jeigu išlaidos rinkimų agitacijos gaminiams buvo padarytos iki rinkimų
-agitacijos kampanijos pradžios, partija ar kandidatas praneša apie tai
-Vyriausiajai rinkimų komisijai. Vyriausioji rinkimų komisija, įvertinusi
-rinkimų agitacijos gaminius, šių išlaidų suma sumažina specialios rinkimų
-sąskaitos maksimalų leistiną dydį ir išduoda pažymą, kad šie gaminiai gali būti
-panaudoti rinkimų agitacijos kampanijos laikotarpiu. Visuomenės informavimo
-priemonė, neturinti valstybės ar savivaldybių kapitalo, gali nurodyti, kurį
-kandidatų sąrašą (sąrašus) ar kandidatą (kandidatus) ji remia, ir po to jų
-rinkimų agitaciją skelbti nemokamai. Šiuo atveju visuomenės informavimo
-priemonei už tokios rinkimų agitacijos skelbimą negali būti atlyginama jokiais
-kitais būdais. Jeigu vienkartines rinkimų agitacijos paslaugas, kurių vertė
-mažesnė kaip 0,5 VMDU, nemokamai teikia kandidato, kandidatų sąrašo rėmėjai
-(tai draudžiama asmenims, nurodytiems 54 straipsnyje), jos nevertinamos ir
-specialios rinkimų sąskaitos maksimalaus leistino dydžio nekeičia.
-3. Mokesčių inspekcija,
-nustačiusi, kad rinkimų agitacijos kampanijos laikotarpiu už rinkimų agitacijos
-gaminius ar paslaugas buvo sumokėta ne iš specialios rinkimų sąskaitos, taip
-pat grynaisiais pinigais arba netiesiogiai, sumokėtą sumą ar atlyginimą (sumą
-ar atlyginimą, kurie turėjo būti sumokėti) už rinkimų agitacijos gaminius,
-paslaugas ne ginčo tvarka išieško iš jų gavėjo ir perveda į valstybės biudžetą.
-4. Rinkimų agitacija taip pat
-finansuojama iš valstybės lėšų. Kandidatas, partija nemoka už pagal šį įstatymą
-skirtą laiką valstybiniame radijuje ir televizijoje, už kandidato vienmandatėje
-rinkimų apygardoje rinkimų plakato, taip pat rinkimų programos, kandidatų
-sąrašų spausdinimą laikraščiuose ir šios išlaidos nekeičia specialios rinkimų
-sąskaitos maksimalaus leistino dydžio.
-5. Rinkimų agitacijai skirtų lėšų
-naudojimą kontroliuoja mokesčių inspekcijos ir Vyriausioji rinkimų komisija.
-Partijos ataskaitas, kurių formą nustato Vyriausioji rinkimų komisija, apie
-lėšų šaltinius ir naudojimą rinkimų agitacijai turi pateikti Vyriausiajai
-rinkimų komisijai ne vėliau kaip per 25 dienas po galutinių rinkimų rezultatų
-paskelbimo. Vyriausioji rinkimų komisija šias ataskaitas paskelbia „Valstybės
-žiniose“. Vienmandačių rinkimų apygardų kandidatai nustatytos formos ataskaitas
-Vyriausiajai rinkimų komisijai jos nustatyta tvarka pateikia ne vėliau kaip per
-15 dienų po galutinių rinkimų rezultatų paskelbimo.
-6. Specialios rinkimų sąskaitos
-uždaromos ne vėliau kaip per 20 dienų po galutinio rinkimų rezultatų
-paskelbimo. Rinkimų agitacijai nepanaudotas lėšas kandidatai, kandidatų sąrašą
-iškėlusi partija naudoja savo nuožiūra. Laiku neuždarytų sąskaitų lėšas bankas
-perveda į valstybės biudžetą.
-55
-straipsnio redakcija nuo 2004 m. rugsėjo 10 d.:
-55 straipsnis.
-Seimo rinkimų politinės kampanijos finansavimas
+straipsnis. Seimo rinkimų politinės kampanijos finansavimas
 Seimo rinkimų politinės
 kampanijos finansavimą reglamentuoja Politinių partijų ir politinių kampanijų
 finansavimo bei finansavimo kontrolės įstatymas.
@@ -1562,33 +1692,40 @@ IX-2429, 2004-08-23, Žin., 2004, Nr.
  
 56
 straipsnis. Rinkimų agitacijos draudimas rinkimų dieną
-1. Rinkimų agitacija draudžiama
-likus 30 valandų iki rinkimų pradžios ir rinkimų dieną, išskyrus nuolatinę
-vaizdinę agitaciją tam skirtose vietose, jeigu ji iškabinta likus ne mažiau
-kaip 48 valandoms iki rinkimų pradžios. Rinkimų agitacijos draudimo laikotarpiu
-jokių vaizdinių rinkimų agitacijos priemonių (išskyrus tas, kurias išleido
-Vyriausioji rinkimų komisija) negali būti balsavimo patalpoje ir 50 metrų
-atstumu aplink pastatą, kuriame yra balsavimo patalpa.
-2. Asmenys, pažeidę šio
-straipsnio 1 dalyje išdėstytas nuostatas, baudžiami įstatymų nustatyta tvarka.
+1. Rinkimų agitacija, nepaisant jos būdų, formų ir priemonių,
+draudžiama likus 30 valandų iki rinkimų pradžios ir rinkimų dieną iki balsavimo
+pabaigos, išskyrus nuolatinę vaizdinę agitaciją tam skirtose vietose, jeigu ji
+iškabinta likus ne mažiau kaip 48 valandoms iki rinkimų pradžios. Rinkimų
+agitacijos draudimo laikotarpiu jokių vaizdinių rinkimų agitacijos priemonių
+(išskyrus tas, kurias išleido Vyriausioji rinkimų komisija) negali būti
+balsavimo patalpoje ir 50 metrų atstumu aplink pastatą, kuriame yra balsavimo
+patalpa.
+2. Informacija apie vykstančius rinkimus, jų svarbą
+valstybės gyvenimui, atvykusių balsuoti rinkėjų skaičių, dokumentus, kuriuos
+būtina turėti balsuojant, kvietimas atvykti balsuoti ar kita informacija, kuria
+neraginama nedalyvauti rinkimuose, balsuoti už arba prieš kandidatą ar
+kandidatų sąrašą, nelaikoma rinkimų agitacija.
+3. Asmenys, pažeidę šio straipsnio 1 dalyje išdėstytas nuostatas,
+baudžiami įstatymų nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
 AŠTUNTASIS
 SKIRSNIS
 PARENGTINĖ
 RINKIMŲ ORGANIZAVIMO VEIKLA
  
-57
-straipsnis. Rinkimų dokumentų pavyzdžių nustatymas
+57 straipsnis. Rinkimų dokumentų pavyzdžių nustatymas
 Rinkėjo pažymėjimų, rinkimų
 biuletenių, kandidato vienmandatėje rinkimų apygardoje ir kandidatų sąrašų
 daugiamandatėje rinkimų apygardoje plakatų su duomenimis apie kandidatą
-(kandidatus), vidinių ir išorinių balsavimui paštu vokų, kitų dokumentų, blankų,
-anketų, oficialių vokų, paketų, antspaudų, naudojamų rinkimuose, pavyzdžius bei
-formas, taip pat jų pildymo prireikus pavyzdžius nustato Vyriausioji rinkimų
-komisija.
+(kandidatus), vidinių ir išorinių balsavimui paštu vokų, kitų dokumentų,
+blankų, anketų, oficialių vokų, paketų, antspaudų, naudojamų rinkimuose,
+pavyzdžius bei formas, taip pat jų pildymo prireikus pavyzdžius nustato Vyriausioji
+rinkimų komisija.
  
-58
-straipsnis. Rinkimų biuleteniai
+58 straipsnis. Rinkimų biuleteniai
 1. Rinkimams į Seimą kiekvienam
 rinkėjui pateikiami du biuleteniai: vienas - balsuoti dėl kandidato konkrečioje
 vienmandatėje apygardoje, kitas - dėl kandidatų sąrašo daugiamandatėje
@@ -1602,9 +1739,9 @@ narius vardas, pavardė ir jį iškėlusios partijos pavadinimas arba nurodoma
 „Išsikėlė pats“.
 3. Daugiamandatės rinkimų
 apygardos rinkimų biuletenyje visi kandidatų sąrašai įrašomi pagal jiems
-suteiktus rinkimų numerius jų didėjimo tvarka tokiame pat plote ir to paties tipo
-šriftu (šriftais). Šrifto dydis parenkamas toks, kad geriausiai tiktų užpildyti
-įrašui skirtą plotą. Biuletenyje įrašomas partijos, koalicijos pavadinimas
+suteiktus rinkimų numerius jų didėjimo tvarka tokiame pat plote ir to paties
+tipo šriftu (šriftais). Šrifto dydis parenkamas toks, kad geriausiai tiktų
+užpildyti įrašui skirtą plotą. Biuletenyje įrašomas partijos, koalicijos pavadinimas
 (nurodytas jos pareiškiniuose dokumentuose). Po partijos pavadinimo
 skliausteliuose įrašomi jos vadovo vardas ir pavardė, o po koalicijos
 pavadinimo skliausteliuose įrašomi ją sudarančių partijų pavadinimai. Partijos
@@ -1631,23 +1768,21 @@ Nr.
 IX-2233, 2004-05-11, Žin., 2004, Nr.
 83-2986 (2004-05-22)
  
-59
-straipsnis. Rinkimų biuletenių pristatymas
+59 straipsnis. Rinkimų biuletenių pristatymas
 1. Apygardų rinkimų komisijos
 rinkimų biuletenius ir vokus centriniams pašto skyriams pateikia ne vėliau kaip
 prieš 2 dienas iki balsavimo paštu pradžios, rinkimų biuletenius rinkimų
 apylinkėms - ne vėliau kaip prieš 12 valandų iki balsavimo pradžios.
 2. Lietuvos Respublikos
-diplomatinėse atstovybėse biuleteniai ir balsavimui paštu vokai turi būti
-laisvai prieinami rinkėjams likus ne mažiau kaip 20 dienų iki rinkimų. Laivuose
+diplomatinėse atstovybėse biuleteniai ir balsavimui paštu vokai turi būti laisvai
+prieinami rinkėjams likus ne mažiau kaip 20 dienų iki rinkimų. Laivuose
 biuletenių tekstas turi būti laisvai prieinamas rinkėjams likus ne mažiau kaip
 15 dienų iki rinkimų.
 3. Vyriausioji rinkimų komisija
 atsako už rinkimų biuletenių ir balsavimui paštu vokų išleidimą, jų apskaitos
 tvarkymą ir pristatymą nepažeidžiant nurodytų terminų.
  
-60
-straipsnis. Balsavimo patalpų parengimas
+60 straipsnis. Balsavimo patalpų parengimas
 1. Rinkimų apylinkės balsavimo
 patalpa turi būti visiškai parengta rinkimams ne vėliau kaip likus 12 valandų
 iki balsavimo pradžios. Iki šio laiko rinkimų komisija turi būti suskaičiavusi
@@ -1671,30 +1806,29 @@ komisijos pirmininkas praneša apygardos rinkimų komisijai.
 3. Apylinkės rinkimų komisijos
 pirmininkas atsako, kad balsavimo patalpa būtų parengta laiku ir tinkamai.
 Jeigu savivaldybės administracija nepaskiria tinkamų patalpų balsavimo patalpai
-įrengti arba nepasirūpina balsavimui būtinu inventoriumi, apylinkės rinkimų
-komisijos pirmininkas privalo apie tai nedelsdamas pranešti apygardos rinkimų
-komisijai ir imtis priemonių tinkamai balsavimo patalpai surasti ir tinkamam
-inventoriui įsigyti, kaip yra nustatyta šio įstatymo 8 straipsnyje.
+įrengti arba nepasirūpina balsavimui būtinu inventoriumi, apylinkės rinkimų komisijos
+pirmininkas privalo apie tai nedelsdamas pranešti apygardos rinkimų komisijai
+ir imtis priemonių tinkamai balsavimo patalpai surasti ir tinkamam inventoriui
+įsigyti, kaip yra nustatyta šio įstatymo 8 straipsnyje.
  
-61
-straipsnis. Rinkimų stebėtojai
+61 straipsnis. Rinkimų stebėtojai
 1. Partijos, taip pat kandidatai
 į Seimo narius turi teisę skirti rinkimų stebėtojus. Rinkimų stebėtojas yra
 asmuo, turintis Vyriausiosios rinkimų komisijos nustatytos formos pažymėjimą.
 Jis turi teisę stebėti rinkimus rinkimų apygardos arba apylinkės, kuri nurodyta
 jo pažymėjime, teritorijoje. Stebėtojo pažymėjimą išduoda:
-1) Vyriausioji rinkimų komisija -
-stebėti rinkimus visoje Lietuvos Respublikos teritorijoje ir šalies
-diplomatinėse atstovybėse arba tik konkrečiose rinkimų apygardose, apylinkėse
-užsienio reikalų ministro, Respublikos Prezidento patarėjo teikimu, užsienio
-valstybėms arba tarptautinėms institucijoms atstovaujančių asmenų prašymu, taip
-pat ir savo nuožiūra;
-2) apygardos rinkimų komisija -
-stebėti rinkimus visoje šios rinkimų apygardos teritorijoje, vienoje arba
-keliose rinkimų apylinkėse vyresniems kaip 18 metų Lietuvos Respublikos
-piliečiams kandidato, dėl kurio balsuojama daugiamandatėje arba šioje rinkimų
-apygardoje, teikimu arba partijos vietos skyriaus prašymu, kuriame turi būti
-nurodyta asmens pavardė, vardas, asmens kodas, rinkimų apylinkės (apylinkių)
+1) Vyriausioji rinkimų komisija –
+stebėti rinkimus visoje Lietuvos Respublikos teritorijoje, Lietuvos Respublikos
+diplomatinėse atstovybėse ir konsulinėse įstaigose arba tik konkrečiose rinkimų
+apygardose, apylinkėse užsienio reikalų ministro, Respublikos Prezidento ar jo
+įgalioto asmens teikimu, užsienio valstybėms arba tarptautinėms institucijoms
+atstovaujančių asmenų prašymu, taip pat ir savo nuožiūra;
+2) apygardos rinkimų komisija - stebėti
+rinkimus visoje šios rinkimų apygardos teritorijoje, vienoje arba keliose
+rinkimų apylinkėse vyresniems kaip 18 metų Lietuvos Respublikos piliečiams
+kandidato, dėl kurio balsuojama daugiamandatėje arba šioje rinkimų apygardoje,
+teikimu arba partijos vietos skyriaus prašymu, kuriame turi būti nurodyta
+asmens pavardė, vardas, asmens kodas, rinkimų apylinkės (apylinkių)
 pavadinimas.
 2. Stebėtojo pažymėjimus rinkimų
 komisijos vardu išduoda jos pirmininkas arba kitas komisijos narys komisijos
@@ -1712,27 +1846,28 @@ balsavimo patalpose būtų sudarytos tinkamos sąlygos stebėti, kaip laikomasi 
 pažymėjimas gali būti anuliuotas apygardos rinkimų komisijos pirmininko
 sprendimu. Apie sprendimą turi būti iškart pranešta rinkimų komisijos nariams,
 Vyriausiajai rinkimų komisijai ir atitinkamam atstovui rinkimams.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
 DEVINTASIS
 SKIRSNIS
 BALSAVIMAS
  
-62
-straipsnis. Balsavimo laikas ir vieta
+62 straipsnis. Balsavimo laikas ir vieta
 Balsavimas vyksta rinkimų dieną
-nuo 7 iki 20 valandos apylinkės rinkimų komisijos nurodytoje patalpoje.
-Rinkėjas balsuoja toje rinkimų apylinkėje, į kurios rinkėjų sąrašus jis yra
-įrašytas, jei kitko nenumato šis įstatymas.
+nuo 7 iki 20 valandos apylinkės rinkimų komisijos nurodytoje patalpoje. Rinkėjas
+balsuoja toje rinkimų apylinkėje, į kurios rinkėjų sąrašus jis yra įrašytas,
+jei kitko nenumato šis įstatymas.
  
-63
-straipsnis. Draudimas rengti balsavimo patalpoje kitus renginius
+63 straipsnis. Draudimas rengti balsavimo patalpoje kitus
+renginius
 Balsavimo patalpoje negalima
 rengti jokių kitų renginių, išskyrus rinkimų organizavimą ir balsavimą. Jokių
 renginių taip pat negalima rengti ir perėjimo patalpose (koridoriuose) bei prie
 įėjimo į balsavimo patalpos pastatą.
  
-64
-straipsnis. Balsavimo pradžia
+64 straipsnis. Balsavimo pradžia
 Rinkimų dieną rinkėjams balsavimo
 patalpa atidaroma tik susirinkus ne mažiau kaip 3/5 apylinkės rinkimų komisijos
 narių. Iki balsavimo patalpos atidarymo rinkėjams joje gali būti tik rinkimų
@@ -1748,20 +1883,20 @@ skaičių įrašo į rinkimų apylinkės balsų skaičiavimo protokolą, atidaro
 rinkėjams balsavimo patalpą, taip paskelbdamas rinkimų pradžią.
  
 65
-straipsnis. Rinkėjo asmenybės nustatymas
+straipsnis. Rinkėjo asmens tapatybės nustatymas
 1. Prie įėjimo į balsavimo
 patalpą rinkėjas pateikia apylinkės rinkimų komisijos nariui rinkėjo
-pažymėjimą, pasą ar kitą dokumentą, patvirtinantį jo asmenybę bei pilietybę. Komisijos
+pažymėjimą, pasą ar kitą dokumentą, patvirtinantį jo asmens tapatybę. Komisijos
 narys, nustatęs, kad rinkėjas atvyko į tą rinkimų apylinkę, į kurios rinkėjų
 sąrašus jis yra įrašytas, įteikia rinkėjui rinkimų apylinkės antspaudu
 antspauduotą atvykimo lapelį, kuriame yra nurodyta, kelintas rinkėjas atvyko
 balsuoti, ir nurodo, į kurį komisijos narį kreiptis rinkimų biuletenio.
 Draudžiama vienam rinkėjui išduoti kelis atvykimo lapelius arba išduoti kitam
-rinkėjui skirtą lapelį. Jeigu asmuo, atvykęs į balsavimo patalpą, neturi
-reikalingų dokumentų arba neaišku, ar jis yra įrašytas į šios rinkimų apylinkės
-rinkėjų sąrašą, komisijos narys jam atvykimo lapelio neišduoda, bet įteikia
-svečio lapelį ir pasiunčia jį pas komisijos pirmininką ar jo pavaduotoją
-išsiaiškinti dėl balsavimo.
+rinkėjui skirtą lapelį. Jeigu asmuo, atvykęs į balsavimo patalpą, neturi reikalingų
+dokumentų arba neaišku, ar jis yra įrašytas į šios rinkimų apylinkės rinkėjų
+sąrašą, komisijos narys jam atvykimo lapelio neišduoda, bet įteikia svečio
+lapelį ir pasiunčia jį pas komisijos pirmininką ar jo pavaduotoją išsiaiškinti
+dėl balsavimo.
 2. Komisijos narys, kuriam
 pavesta išduoti rinkimų biuletenius, iš pateiktų dokumentų nustatęs, kad
 atvykęs balsuoti asmuo tikrai yra į rinkėjų sąrašą įrašytas pilietis, arba
@@ -1769,17 +1904,19 @@ jeigu rinkimų komisijos pirmininkui raštu tai paliudija du į tos rinkimų
 apylinkės rinkėjų sąrašą įrašyti Lietuvos Respublikos piliečiai, rinkėjų sąraše
 suranda rinkėjo pavardę, paima iš asmens rinkėjo pažymėjimą ir atvykimo lapelį.
 Po to, kai rinkėjas ir rinkimų biuletenius išduodantis komisijos narys pasirašo
-rinkimų apylinkės rinkėjų sąraše, rinkėjui išduodami rinkimų biuleteniai - vienas
-vienmandatės rinkimų apygardos ir vienas daugiamandatės rinkimų apygardos.
-Rinkėjo pažymėjimas ir atvykimo lapelis rinkėjui negrąžinami. Balsuojant paštu,
-rinkėjo pažymėjime pažymima apie biuletenių išdavimą ir rinkėjo pažymėjimas
-grąžinamas rinkėjui.
+rinkimų apylinkės rinkėjų sąraše, rinkėjui išduodami rinkimų biuleteniai -
+vienas vienmandatės rinkimų apygardos ir vienas daugiamandatės rinkimų
+apygardos. Rinkėjo pažymėjimas ir atvykimo lapelis rinkėjui negrąžinami.
+Balsuojant paštu, rinkėjo pažymėjime pažymima apie biuletenių išdavimą ir
+rinkėjo pažymėjimas grąžinamas rinkėjui.
 3. Išduoti rinkėjui kito asmens
 rinkimų biuletenį (biuletenius) draudžiama. Komisijos narys, pažeidęs šį
 reikalavimą, atsako pagal Lietuvos Respublikos įstatymus.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-66
-straipsnis. Balsavimo tvarka
+66 straipsnis. Balsavimo tvarka
 1. Gavęs rinkimų biuletenius,
 rinkėjas eina į balsavimo kabiną ir joje biuletenius užpildo. Pildyti
 biuletenius ne balsavimo kabinoje draudžiama.
@@ -1809,46 +1946,49 @@ trūkumų, kurie trukdytų užpildyti rinkimų biuletenius, turi balsuoti pats.
  
 67
 straipsnis. Balsavimas paštu
-1. Balsavimas paštu suteikia
-galimybę dalyvauti rinkimuose piliečiams, kurie dėl sveikatos būklės arba dėl
-kitų priežasčių rinkimų dieną negali atvykti balsuoti į rinkimų apylinkę.
-Balsuoti paštu galima pašto skyriuose jų darbo valandomis, pradedant 5 diena
-iki rinkimų ir baigiant likus vienai dienai iki rinkimų, jei rinkėjas įrašytas
-į rinkimų apygardos, kuri yra tame mieste, rajone, rinkėjų sąrašus, ir baigiant
-likus 2 dienoms iki rinkimų, jei rinkėjas neįrašytas į rinkimų apygardos, kuri
-yra tame mieste, rajone, rinkėjų sąrašus. Balsavimo paštu išlaidos apmokamos iš
-valstybės biudžeto lėšų.
-2. Už balsavimo organizavimą
-atsako pašto skyriaus viršininkas. Jis yra atsakingas už rinkimų biuletenių ir
-balsavimo vokų apskaitą, išdavimą ir priėmimą balsavimo paštu metu. Už pašto
-skyriaus darbo balsuojant paštu priežiūros organizavimą atsako tos rinkimų
-apylinkės, kurios teritorijoje yra pašto skyrius, komisijos pirmininkas.
-Prireikus jis kartu su kitų rinkimų apylinkių komisijų pirmininkais, kuriems
-tai pavedė apygardos rinkimų komisija, turi pasirūpinti organizuoti apylinkių
-rinkimų komisijų narių budėjimą pašto skyriuose.
+1. Balsuoti paštu gali rinkėjai, kurie rinkimų dieną negali atvykti
+balsuoti į rinkimų apylinkę. Balsuoti paštu galima paštuose ar specialiai
+balsavimui sudarytuose paštuose (toliau – specialiuose paštuose) jų darbo
+valandomis paskutinį trečiadienį, ketvirtadienį ar penktadienį iki rinkimų
+dienos. Paštuose, esančiuose savivaldybių administraciniuose centruose, taip
+pat specialiuose paštuose gali balsuoti į bet kurios rinkimų apygardų rinkėjų
+sąrašus įrašyti rinkėjai. Paštuose, kurie nėra savivaldybių administraciniuose
+centruose, gali balsuoti vienmandatės rinkimų apygardos, kurioje yra tas
+paštas, rinkėjai. Balsavimo paštu išlaidos apmokamos iš valstybės biudžeto
+lėšų.
+2. Už balsavimo paštu organizavimą atsako pašto
+vadovas. Už pašto darbo balsuojant paštu priežiūros organizavimą atsako rinkimų
+apylinkės, kurios teritorijoje tas paštas yra, komisijos pirmininkas. Jis kartu
+su kitų rinkimų apylinkių komisijų pirmininkais, kuriems tai pavedė apygardos
+rinkimų komisija, organizuoja apylinkių rinkimų komisijų narių budėjimą
+paštuose, taip pat kad rinkimų komisijos nariai dalyvautų balsuojant
+specialiuose paštuose.
 3. Rinkimų biuleteniams ir vokams
-išduoti bei priimti balsavimo paštu metu pašto viršininkas apygardos rinkimų
+išduoti ir priimti balsuojant paštu pašto vadovas apygardos rinkimų
 komisijos pritarimu paskiria pašto darbuotojus, kuriems patikima išduoti
 rinkimų biuletenius ir balsavimo vokus. Jeigu apygardos rinkimų komisija
-pareikalauja, pašto viršininkas privalo nušalinti pašto darbuotoją nuo darbo su
+pareikalauja, pašto vadovas privalo nušalinti pašto darbuotoją nuo darbo su
 rinkimų dokumentais. Pašto darbuotojams, kurie įgaliojami išduoti rinkimų
-dokumentus, apygardos rinkimų komisija išduoda nustatytos formos pažymas.
+dokumentus, apygardos rinkimų komisija išduoda nustatytos formos pažymas. Šios
+pažymos neturintis pašto darbuotojas neturi teisės išduoti rinkimų dokumentų.
 Rinkimų komisijos narys, rinkimų stebėtojas, pateikęs pašto darbuotojui savo
-pažymėjimą, rinkėjas, pateikęs rinkėjo pažymėjimą ir asmenybę patvirtinantį
-dokumentą, turi teisę įrašyti į šią pažymą savo pastabą, apie kurią pašto
-viršininkas nedelsdamas praneša apygardos rinkimų komisijai. Šios pažymos
-neturintis pašto darbuotojas neturi teisės išduoti rinkimų dokumentų.
-4. Pašto skyriuose turi būti
-patalpa (vieta), kur rinkėjas galėtų netrukdomas ir slaptai užpildyti rinkimų
-biuletenius ir įdėti juos į balsavimo voką. Balsavimą gali stebėti partijų ir
-politinių organizacijų stebėtojai, turintys pažymėjimus stebėti rinkimus bet
-kurioje rinkimų apylinkėje.
-5. Pašto darbuotojas rinkimų dokumentus
-rinkėjui išduoda Vyriausiosios rinkimų komisijos nustatyta tvarka. Kartu su
-rinkimų biuleteniais rinkėjui išduodami balsavimo paštu vokai. Išorinį
+pažymėjimą, rinkėjas, pateikęs rinkėjo pažymėjimą ir asmens tapatybę patvirtinantį
+dokumentą, turi teisę įrašyti į šią pažymą savo pastabą. Apie ją pašto vadovas
+nedelsdamas praneša apygardos rinkimų komisijai. Šios pažymos neturintis
+pašto darbuotojas neturi teisės išduoti rinkimų dokumentų.
+4. Paštuose, taip pat šio įstatymo 69, 70, 71, 72 ir
+73 straipsniuose nurodytose vietose turi būti patalpa (vieta), kur rinkėjas
+galėtų netrukdomas ir slaptai užpildyti rinkimų biuletenius ir įdėti juos į
+balsavimo voką. Šiais atvejais balsavimą gali stebėti rinkimų stebėtojai,
+turintys rinkimų stebėtojo pažymėjimą stebėti rinkimus bet kurioje rinkimų
+apylinkėje.
+5. Pašto darbuotojas rinkimų
+dokumentus rinkėjui išduoda Vyriausiosios rinkimų komisijos nustatyta tvarka.
+Kartu su rinkimų biuleteniais rinkėjui išduodami balsavimo paštu vokai. Išorinį
 balsavimo paštu voką pašto darbuotojas adresuoja tai apylinkės rinkimų
 komisijai, kuri nurodyta asmens rinkėjo pažymėjime.
-6. Rinkėjas balsuoja slaptai:
+6. Rinkėjas balsuoja asmeniškai ir
+slaptai:
 1) užpildo rinkimų biuletenius;
 2) užpildytus rinkimų biuletenius
 įdeda į vidinį balsavimo paštu voką;
@@ -1856,160 +1996,270 @@ komisijai, kuri nurodyta asmens rinkėjo pažymėjime.
 4) vidinį voką kartu su rinkėjo
 pažymėjimu įdeda į išorinį voką;
 5) užklijuoja išorinį voką.
-7. Balsavimo paštu vokus ir
-rinkimų biuletenius rinkėjams, negalintiems dėl sveikatos būklės atvykti
-balsuoti į paštą arba rinkimų dieną į rinkimų apylinkę, į namus pristato
-paštininkas likus ne mažiau kaip 2 dienoms iki rinkimų. Konkretus paštininkų
-atvykimo pas rinkėjus grafikas turi būti patvirtintas pašto (pašto skyriaus)
-viršininko ne vėliau kaip 12 valandą dienos, jo kopija paskelbiama skelbimų
-lentoje ir gali būti vykdomas tik kitą dieną po patvirtinimo. Kartu su
-paštininku pas rinkėją gali atvykti ne mažiau kaip 2 komisijos nariai, taip pat
-gali atvykti stebėtojai. Šių rinkėjų sąrašą prieš 10 dienų iki rinkimų sudaro
-apylinkės rinkimų komisijos pagal piliečių užpildytus Vyriausiosios rinkimų
-komisijos nustatytos formos prašymus užtikrinti galimybę balsuoti namuose.
-Apylinkių rinkimų komisijos, sutikus apygardos rinkimų komisijos pirmininkui ar
-jo įgaliotam apygardos rinkimų komisijos nariui, gali papildyti sąrašą, jeigu
-gauna šių rinkėjų prašymus, iki rinkimų likus ne mažiau kaip 3 dienoms.
-Piliečių prašymai taip pat turi būti patvirtinti miesto, rajono globos ir
-rūpybos ar sveikatos priežiūros ir gydymo įstaigų vadovų arba šių tam įgaliotų
-pareigūnų. Prašymai pridedami prie apylinkės rinkimų komisijos sudaryto
-rinkėjų, kurie dėl sveikatos būklės negali atvykti balsuoti į paštą arba
-rinkimų dieną į rinkimų apylinkę, sąrašo. Pašto darbuotojai, rinkimų komisijų
-nariai ar kiti asmenys negali atnešti balsavimo paštu vokų ir rinkimų
-biuletenių į namus rinkėjams, neįrašytiems į rinkėjų, kurie dėl sveikatos
-būklės negali atvykti į paštą arba rinkimų dieną į rinkimų apylinkę, sąrašą. Į
-rinkėjų, kurie dėl sveikatos būklės negali atvykti balsuoti į paštą arba
-rinkimų dieną į rinkimų apylinkę, sąrašą gali būti įrašyti: I grupės invalidai,
-II grupės judėjimo invalidai ir laikinai nedarbingi asmenys, taip pat sukakę 70
-metų asmenys, jei jie pateikė šioje dalyje numatytus prašymus užtikrinti
-galimybę balsuoti namuose. Pareigūnai, rinkimų komisijai suteikę klaidingų
-žinių apie rinkėjus, negalinčius dėl sveikatos būklės atvykti balsuoti į paštą
-arba rinkimų dieną į rinkimų apylinkę, atsako įstatymų nustatyta tvarka.
-8. Užklijuotą išorinį voką (su
-jame esančiu rinkėjo pažymėjimu, vidiniu balsavimo paštu voku ir ten esančiais
-biuleteniais) rinkėjas gali:
-1) įteikti pašto skyriaus
-darbuotojui;
-2) įteikti paštininkui,
-atnešusiam jam rinkimų dokumentus;
-3) įmesti į pašto dėžutę.
-9. Kai rinkėjas balsuoja namuose,
-draudžiama daryti poveikį jo apsisprendimui ir skubinti jį balsuoti. Rinkėjas,
-neturintis fizinių trūkumų, neleidžiančių jam užpildyti rinkimų biuletenių,
-slaptai užpildytus biuletenius pats įdeda į vidinį voką, jį užklijuoja,
-užklijuotą vidinį voką kartu su rinkėjo pažymėjimu įdeda į išorinį voką ir jį
-užklijuoja. Rinkėjo, kuris dėl fizinių trūkumų negali pats to atlikti, prašymu
-tai atlieka jo pasirinktas asmuo (išskyrus paštininką, rinkimų komisijos narį
-ar stebėtoją). Šis asmuo privalo išsaugoti balsavimo slaptumą. Rinkėjas
-užklijuotą išorinį voką gali įteikti paštininkui ar išsiųsti tą pačią arba kitą
-dieną.
-10. Draudžiama priimti iš rinkėjo
-neužklijuotą išorinį balsavimo paštu voką.
+7. Šio straipsnio 6 ir 8 dalyse nurodytus veiksmus
+rinkėjas atlieka pats. Jeigu rinkėjas dėl fizinių trūkumų šių veiksmų pats
+atlikti negali, jo prašymu juos atlieka rinkėjo pasirinktas asmuo. Šis asmuo
+rinkimų biuletenius privalo užpildyti rinkėjo akivaizdoje pagal jo nurodymą ir
+išsaugoti balsavimo slaptumą.
+8. Užklijuotą išorinį balsavimo paštu voką (su jame
+esančiu rinkėjo pažymėjimu, vidiniu balsavimo paštu voku ir ten esančiais
+biuleteniais) rinkėjas įteikia pašto darbuotojui. Šis, gavęs rinkėjo įteiktą
+voką, išduoda rinkėjui šio voko priėmimo kvitą.
+9. Pašto darbuotojui draudžiama
+už rinkėją atlikti šio straipsnio 6 dalyje nurodytus veiksmus, taip pat priimti
+iš rinkėjo neužklijuotą išorinį balsavimo paštu voką. Rinkėjams draudžiama
+išsinešti iš pašto rinkimų biuletenius, balsavimo paštu vokus ar juos perduoti
+kitiems asmenims.
 Straipsnio pakeitimai:
 Nr.
 IX-2402, 2004-07-15, Žin., 2004, Nr.
 115-4279 (2004-07-24)
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-68
-straipsnis. Balsavimas diplomatinėje atstovybėje
-1. Balsuoti Lietuvos Respublikos
-diplomatinėje atstovybėje (konsulate) galima jos darbo valandomis tam skiriant
-ne mažiau kaip 4 valandas per dieną. Jeigu rinkėjai prašo, diplomatinė
-atstovybė (konsulatas) gali jiems rinkimų dokumentus siųsti ir juos priimti
-paštu.
-2. Vyriausioji rinkimų komisija
-Užsienio reikalų ministerijos teikimu sudaro diplomatinių atstovybių
-(konsulatų), kuriose vyksta balsavimas, sąrašą ir nustato balsavimo dienas (ne
-mažiau kaip 10) kiekvienai diplomatinei atstovybei (konsulatui).
-3. Už balsavimo organizavimą
-atsako diplomatinės atstovybės (konsulato) vadovas.
+67(1)
+straipsnis. Balsavimas namuose
+1. Balsuoti namuose gali tik šie rinkėjai: neįgalieji,
+dėl ligos laikinai nedarbingi rinkėjai, sukakę 70 metų ir vyresni rinkėjai,
+jeigu jie dėl sveikatos būklės patys negali atvykti balsuoti į paštą arba
+rinkimų dieną į rinkimų apylinkę ir jeigu jie pateikė Vyriausiosios rinkimų
+komisijos nustatytos formos rinkėjo prašymą balsuoti namuose ir yra įrašyti į
+namuose balsuojančių rinkėjų sąrašus.
+2. Rinkėjų prašymai balsuoti namuose pateikiami
+apylinkių rinkimų komisijoms. Rinkėjų, gyvenančių konkrečios rinkimų apylinkės teritorijoje,
+prašymai balsuoti namuose pradedami priimti įteikiant jiems rinkėjo pažymėjimus
+ir baigiami priimti paskutinį ketvirtadienį iki rinkimų dienos. Rinkėjų, kurie
+laikinai apsistojo konkrečios rinkimų apylinkės teritorijoje ir neįrašyti į
+šios rinkimų apylinkės rinkėjų sąrašą, prašymai balsuoti namuose baigiami
+priimti paskutinį antradienį iki rinkimų dienos. Rinkėjas, kuris dėl fizinių
+trūkumų pats negali užpildyti prašymo balsuoti namuose ar jo įteikti apylinkės
+rinkimų komisijai, gali pavesti šiuos veiksmus už jį atlikti savo šeimos
+nariui, kaimynui ar juo besirūpinančiam asmeniui. Šie rinkėjo prašymą pasirašo
+ir nurodo savo vardą, pavardę ir asmens kodą.
+3. Į rinkimų apylinkės rinkėjų sąrašą įrašytų namuose
+balsuojančių rinkėjų sąrašą paskutinį penktadienį iki rinkimų dienos sudaro ir
+tvirtina apylinkės rinkimų komisija. Rinkėjų, kurie gyvena ar laikinai
+apsistojo konkrečios rinkimų apylinkės teritorijoje, bet įrašyti į kitos
+rinkimų apylinkės rinkėjų sąrašus ir juos tikslinant į šios rinkimų apylinkės
+rinkėjų sąrašą nebuvo įrašyti, sąrašą paskutinį trečiadienį iki rinkimų dienos
+sudaro ir tvirtina apygardos rinkimų komisija.
+4. Balsavimo paštu vokus ir rinkimų biuletenius
+rinkėjams, kurie įrašyti į namuose balsuojančių rinkimų apylinkės rinkėjų sąrašą
+ir kurie yra šios rinkimų apylinkės rinkėjai, paskutinį šeštadienį iki rinkimų
+dienos į namus pristato ne mažiau kaip du apylinkės rinkimų komisijos nariai.
+Balsavimo paštu vokus ir rinkimų biuletenius rinkėjams, kurie įrašyti į namuose
+balsuojančių rinkimų apygardos rinkėjų sąrašą, bet neįrašyti į rinkimų
+apylinkės, kurios teritorijoje jie laikinai apsistoję, rinkėjų sąrašą,
+paskutinį ketvirtadienį iki rinkimų dienos į namus pristato ne mažiau kaip du
+apygardos rinkimų komisijos nariai ar jos pirmininko pavedimu ne mažiau kaip du
+apylinkės rinkimų komisijos nariai. Balsavimą namuose gali stebėti rinkimų
+stebėtojai, turintys pažymėjimą stebėti rinkimus bet kurioje rinkimų
+apylinkėje.
+5. Konkretų rinkimų komisijos narių atvykimo į namus pas rinkėjus grafiką
+tvirtina apylinkės ar apygardos rinkimų komisijos pirmininkas ne vėliau kaip
+atitinkamai paskutinį penktadienį ar trečiadienį iki rinkimų dienos 12
+valandos. Šis grafikas yra viešas, jo kopija iškabinama apylinkės (apygardos)
+rinkimų komisijos skelbimų lentoje tą pačią dieną. Vykti pas rinkėjus kartu
+gali tik skirtingų politinių partijų pasiūlyti rinkimų komisijos nariai ir
+rinkimų stebėtojai. Balsuoti į namus pas rinkėjus vykstama šeštadienį šviesiu
+paros metu.
+6. Balsavimui namuose taikomos šio įstatymo 67 straipsnio 6 ir 7 dalių
+nuostatos.
+7. Užklijuotą išorinį balsavimo
+voką (su jame esančiais rinkėjo pažymėjimu, vidiniu balsavimo voku ir ten
+esančiais rinkimų biuleteniais) rinkėjas įteikia apylinkės (apygardos) rinkimų
+komisijos nariui. Šis, gavęs rinkėjo įteiktą voką, išduoda rinkėjui šio voko
+priėmimo kvitą.
+8. Daryti poveikį namuose balsuojančio rinkėjo
+apsisprendimui ar skubinti jį balsuoti draudžiama. Komisijos nariams ir
+stebėtojams draudžiama už rinkėją atlikti šio įstatymo 67 straipsnio 6 ir 7
+dalyse nurodytus veiksmus, taip pat priimti iš rinkėjo neužklijuotą išorinį
+balsavimo voką. Rinkėjams draudžiama išsinešti biuletenius ar juos perduoti
+kitiems asmenims.
+Įstatymas papildytas straipsniu:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-69
-straipsnis. Balsavimas laive
-1. Balsuojama laive, jeigu jis ne
-mažiau kaip prieš 5 dienas iki rinkimų yra išplaukęs iš Lietuvos Respublikos
-uosto ir negrįžęs iki rinkimų dienos arba jei yra kitos aplinkybės, dėl kurių
-turintis teisę rinkti laivo įgulos narys ar keleivis negali balsuoti savo
-rinkimų apylinkėje, paštu ar diplomatinėje atstovybėje.
-2. Sąrašą laivų, kuriuose yra ne
-mažiau kaip 10 įgulos narių - rinkėjų, su kuriais balsavimo metu palaikomas
-radijo ryšys ir kuriuose organizuojamas balsavimas, taip pat balsavimo
-kiekviename laive laiką nustato Vyriausioji rinkimų komisija Susisiekimo
-ministerijos teikimu taip, kad kiekvienam laive esančiam rinkėjui būtų sudaryta
-galimybė balsuoti. Už balsavimo laive organizavimą atsako laivo kapitonas
-Lietuvos Respublikos pilietis. Laive dėl kandidatų sąrašo reitingo nėra
-balsuojama.
-3. Laivuose, kuriuose organizuoti
+68 straipsnis. Balsavimo organizavimas Lietuvos
+Respublikos diplomatinėse 
+atstovybėse, konsulinėse
+įstaigose ir laivuose
+1. Balsavimui
+organizuoti ir paduotiems balsams suskaičiuoti Lietuvos Respublikos
+diplomatinėse atstovybėse, konsulinėse įstaigose ir laivuose sudaromos
+balsavimo komisijos.
+2. Balsavimo komisijos sudaromos
+iš pirmininko ir ne mažiau kaip dviejų narių. Jas Lietuvos Respublikos
+diplomatinėje atstovybėje ar konsulinėje įstaigoje sudaro jų vadovai iš
+Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos darbuotojų
+arba kitų užsienio valstybėje gyvenančių Lietuvos Respublikos piliečių.
+Balsavimo komisijų narių rašytinių pasižadėjimų davimo tvarką nustato
+Vyriausioji rinkimų komisija.
+3. Balsavimo komisijas laivuose
+sudaro laivų kapitonai – Lietuvos Respublikos piliečiai, atsižvelgdami į laivo
+įgulos – Lietuvos Respublikos piliečių susirinkimo sprendimą.
+4. Balsavimo, balsų skaičiavimo
+ir protokolų pateikimo Vyriausiajai rinkimų komisijai tvarką, taip pat rinkimų
+stebėtojų pažymėjimų įteikimo tvarką nustato Vyriausioji rinkimų komisija.
+5. Vyriausioji rinkimų komisija
+užsienio reikalų ministro teikimu sudaro Lietuvos Respublikos diplomatinių
+atstovybių ir konsulinių įstaigų, kuriose vyksta balsavimas, sąrašą ir
+kiekvienai diplomatinei atstovybei ar konsulinei įstaigai nustato balsavimo
+jose dienas (ne mažiau kaip 10 dienų).
+6. Už balsavimo organizavimą, protokolų ir kitų
+Vyriausiosios rinkimų komisijos nustatytų rinkimų dokumentų pateikimą
+Vyriausiajai rinkimų komisijai Lietuvos Respublikos diplomatinėse atstovybėse,
+konsulinėse įstaigose atsako jų vadovai, o laivuose – laivų kapitonai –
+Lietuvos Respublikos piliečiai.
+7. Laivuose, kuriuose organizuoti
 balsavimą pagal šio įstatymo reikalavimus nėra sąlygų, balsavimas
 neorganizuojamas.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-70
-straipsnis. Balsavimo organizavimas Lietuvos Respublikos diplomatinėse
-atstovybėse (konsulatuose) ir laivuose
-1. Balsavimui organizuoti ir
-paduotiems balsams suskaičiuoti Lietuvos Respublikos diplomatinėse atstovybėse
-(konsulatuose) ir laivuose sudaromos balsavimo komisijos.
-2. Balsavimo komisijos sudaromos
-iš pirmininko ir ne mažiau kaip dviejų narių. Balsavimo komisijas sudaro
-Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos vadovas iš
-Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos darbuotojų
-ar kitų užsienio valstybėje gyvenančių Lietuvos Respublikos piliečių. Balsavimo
-komisijų narių rašytinių pasižadėjimų davimo tvarką nustato Vyriausioji rinkimų
-komisija.
-3. Balsavimo komisijas laivuose
-sudaro laivo kapitonas, atsižvelgdamas į laivo 
-įgulos - Lietuvos Respublikos piliečių susirinkimo sprendimą.
-4. Balsavimo, balsų skaičiavimo
-ir protokolų pateikimo Vyriausiajai rinkimų komisijai tvarką, taip pat
-pažymėjimų stebėtojams įteikimo tvarką nustato Vyriausioji rinkimų komisija.
+69 straipsnis. Balsavimas
+laivuose
+1. Rinkėjai (laivo įgulos nariai ir keleiviai),
+esantys laive, jeigu jie ne mažiau kaip prieš 4 dienas iki rinkimų dienos yra
+išplaukę iš Lietuvos Respublikos uosto ir negrįžę iki rinkimų dienos arba jeigu
+yra kitų aplinkybių, dėl kurių jie negali balsuoti savo rinkimų apylinkėje,
+paštu, Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje,
+turi teisę balsuoti laive.
+2. Vyriausioji rinkimų komisija susisiekimo ministro teikimu sudaro su
+Lietuvos valstybės vėliava plaukiojančių laivų, kuriuose yra ne mažiau kaip 5
+įgulos nariai rinkėjai, organizuojamas balsavimas ir balsavimo metu palaikomas
+radijo ryšys, sąrašą. Vyriausioji rinkimų komisija susisiekimo ministro teikimu
+nustato tokį balsavimo kiekviename laive laiką, kad kiekvienam laive esančiam
+rinkėjui būtų sudaryta galimybė balsuoti.
+3. Laivuose balsuojantiems rinkėjams rinkėjo pažymėjimai neįteikiami.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
+ 
+70 straipsnis. Balsavimas Lietuvos Respublikos
+diplomatinėse atstovybėse ir 
+konsulinėse įstaigose
+1. Rinkėjai, išvykę į užsienio
+valstybes, turi teisę balsuoti Lietuvos Respublikos diplomatinėje atstovybėje
+ar konsulinėje įstaigoje šių darbo valandomis. Balsavimui skiriama ne mažiau
+kaip 4 valandos per šių įstaigų darbo dieną. Balsavimas baigiamas rinkimų dieną
+Lietuvos Respublikos laiku. 
+2. Rinkimų dokumentus rinkėjams,
+pranešusiems savo gyvenamosios vietos adresą Lietuvos Respublikos diplomatinei
+atstovybei ar konsulinei įstaigai, įteikia ar jų pageidavimu paštu išsiunčia ir
+priima šių įstaigų sudarytos balsavimo komisijos.
+3. Rinkėjams, atvykusiems balsuoti į Lietuvos Respublikos diplomatinę
+atstovybę ar konsulinę įstaigą, draudžiama išsinešti rinkimų dokumentus ar juos
+perduoti kitiems asmenims.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
 71
-straipsnis. Balsavimas gydymo, socialinės rūpybos ir globos įstaigose
-1. Gydymo, socialinės rūpybos ir
-globos įstaigose sudaromi specialūs balsavimui skirti pašto skyriai. Apygardos
-rinkimų komisija ne vėliau kaip likus 15 dienų iki rinkimų gydymo, socialinės
-rūpybos ir globos įstaigų vadovų teikimu sudaro specialių pašto skyrių sąrašą,
-o pašto viršininko teikimu nustato šių skyrių darbo laiką. Įstaigos vadovas
-skiria tinkamas balsavimui patalpas ir yra atsakingas, kad rinkėjams būtų
-pranešta apie specialaus pašto skyriaus darbo vietą bei laiką ir būtų sudarytos
-sąlygos į jį atvykti rinkėjams.
-2. Galintys judėti šių įstaigų
-pacientai ir globotiniai balsuoja patys balsavimo patalpoje šio įstatymo 67
-straipsnyje nustatyta tvarka.
-3. Pas negalinčius atvykti į
-balsavimo patalpą dėl sveikatos būklės gydymo, socialinės rūpybos bei globos
-įstaigų pacientus ir globotinius atvyksta ne mažiau kaip 2 komisijos nariai,
-stebėtojai (jeigu jie dalyvauja) ir specialaus pašto skyriaus pareigūnai.
-4. Balsuojantis asmuo turi pats
-jam sudarytomis slaptumo sąlygomis užpildyti rinkimų biuletenius ir įdėti juos
-į balsavimo paštu voką. Prireikus jis gali pasinaudoti kito asmens (išskyrus
-tos įstaigos darbuotojo, paštininko, rinkimų komisijos nario ar rinkimų
-stebėtojo), kuriuo pasitiki, paslaugomis.
-5. Gydymo, socialinės rūpybos ar
-globos įstaigos vadovo nurodymu gali būti draudžiama dėl balsavimo trikdyti
-sunkios būklės ligonius. Šis nurodymas paštininkams privalomas.
-6. Taip pat draudžiama dėl
-balsavimo trikdyti asmenį, jeigu Sveikatos apsaugos ministerijos nustatyta
-tvarka gydytojų komisija padarė išvadą, kad jis balsavimo metu dėl chroniškos
-psichinės ligos, silpnaprotystės ar trumpalaikio psichikos sutrikimo negali
-suprasti savo veiksmų esmės.
+straipsnis. Balsavimas sveikatos priežiūros, socialinės rūpybos ir globos 
+įstaigose
+1. Rinkėjai, kurie dėl sveikatos
+būklės ar amžiaus yra sveikatos priežiūros (išskyrus ambulatorines), socialinės
+rūpybos ar globos įstaigose, turi teisę balsuoti šiose įstaigose.
+2. Apygardos rinkimų komisija ne
+vėliau kaip likus 15 dienų iki rinkimų dienos šio straipsnio 1 dalyje nurodytų
+įstaigų vadovų teikimu sudaro specialių paštų sąrašą ir pašto vadovo teikimu
+nustato tokį jų darbo laiką, kad balsavimo juose dienos atitiktų šio įstatymo
+67 straipsnio 1 dalį.
+3. Šio
+straipsnio 1 dalyje nurodytų įstaigų vadovai sudaro specialiame pašte
+balsuojančių rinkėjų sąrašą. Šiame sąraše turi būti nurodyta: rinkėjo vardas ir
+pavardė, asmens kodas, rinkimų apygarda (pavadinimas ir numeris), ar rinkėjas
+turi rinkėjo pažymėjimą. Specialiame pašte balsuojančių rinkėjų sąrašą įstaigos
+vadovas perduoda apygardos rinkimų komisijai, iš jos gauna rinkėjų pažymėjimus
+arba juos išspausdina pagal elektroninio ryšio priemonėmis gautus duomenis ir
+užtikrina jų įteikimą rinkėjams, nustato balsavimui tinkamas patalpas ir
+atsako, kad rinkėjams būtų pranešta apie specialaus pašto darbo vietą ir laiką,
+taip pat kad rinkėjams būtų sudarytos sąlygos į jį atvykti.
+4. Rinkėjai, neturintys judėjimo
+sutrikimų, balsuoja šio įstatymo 67 straipsnio 6 ir 7 dalyse nustatyta tvarka.
+Pas rinkėjus, turinčius judėjimo sutrikimų, atvyksta ne mažiau kaip 2 apylinkės
+rinkimų komisijos nariai, rinkimų stebėtojai (jeigu jie pageidauja) ir
+specialaus pašto darbuotojai.
+5. Rinkėjai, kurie dėl fizinių
+trūkumų negali patys atlikti balsavimo veiksmų, gali pavesti juos atlikti
+kitiems asmenims. Šie asmenys rinkimų biuletenį privalo užpildyti rinkėjo
+akivaizdoje, pagal jo nurodymą ir išsaugoti balsavimo slaptumą.
+6. Komisijos nariams, specialaus
+pašto darbuotojams ir rinkimų stebėtojams draudžiama už rinkėją atlikti
+balsavimo veiksmus, taip pat priimti iš rinkėjo neužklijuotą išorinį balsavimo
+paštu voką.
+7. Daryti poveikį rinkėjui, jo
+apsisprendimui ar skubinti jį balsuoti draudžiama.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
 72
-straipsnis. Balsavimas kariniuose daliniuose
-1. Krašto apsaugos sistemos ir
-vidaus tarnybos daliniuose sudaromi specialūs balsavimui skirti pašto skyriai,
-kaip nustatyta 71 straipsnyje.
-2. Pagal galimybę dalinių vadai
-sudaro sąlygas kariams balsuoti nuolatinės gyvenamosios vietos rinkimų
-apylinkėse.
+straipsnis. Balsavimas kariniuose vienetuose
+1. Rinkėjai, atliekantys privalomąją karo ar savanoriškąją krašto
+apsaugos tarnybą, turi teisę balsuoti tarnybos atlikimo kariniuose vienetuose
+ir vidaus tarnybos daliniuose.
+2. Apygardos rinkimų komisija ne vėliau kaip likus 15 dienų iki rinkimų
+karinių vienetų ir vidaus tarnybos dalinių vadų teikimu sudaro specialių paštų
+sąrašą ir pašto vadovo teikimu nustato tokį jų darbo laiką, kad balsavimo juose
+dienos atitiktų šio įstatymo 67 straipsnio 1 dalį.
+3. Karinių
+vienetų ir vidaus tarnybos dalinių vadai sudaro specialiame pašte balsuojančių
+rinkėjų sąrašą. Šiame sąraše turi būti nurodyta: rinkėjo vardas ir pavardė,
+asmens kodas, rinkimų apygarda (pavadinimas ir numeris), ar rinkėjas turi
+rinkėjo pažymėjimą. Specialiame pašte balsuojančių rinkėjų sąrašą karinio
+vieneto ar vidaus tarnybos dalinio vadas perduoda apygardos rinkimų komisijai,
+iš jos gauna rinkėjų pažymėjimus arba juos išspausdina pagal elektroninio ryšio
+priemonėmis gautus duomenis ir užtikrina jų įteikimą rinkėjams, nustato
+balsavimui tinkamas patalpas ir atsako, kad rinkėjams būtų pranešta apie
+specialaus pašto darbo vietą ir laiką, taip pat kad rinkėjams būtų sudarytos
+sąlygos į jį atvykti. Jeigu nėra sąlygų sudaryti specialų paštą arba
+užtikrinti, kad rinkėjai galės tinkamai atlikti balsavimo veiksmus, karinių
+vienetų ir vidaus tarnybos dalinių vadai sudaro sąlygas rinkėjams nuvykti
+balsuoti į paštą ar parvykti rinkimų dieną į rinkimų apylinkę, į kurios rinkėjų
+sąrašą jie įrašyti.
+4. Balsavimui kariniuose
+vienetuose ir vidaus tarnybos daliniuose taikomos šio įstatymo 67 straipsnio
+nuostatos.
+5. Daryti poveikį kariniame
+vienete ar vidaus tarnybos dalinyje balsuojančio rinkėjo apsisprendimui ar
+skubinti jį balsuoti draudžiama.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
 73
-straipsnis. Balsavimas bausmės atlikimo vietose
-1. Bausmės atlikimo vietose sudaromi specialūs
-balsavimui skirti pašto skyriai, kaip yra nustatyta 71 straipsnyje.
-2. Įkalinimo įstaigų vadovai
-įstatymų nustatyta tvarka gali išleisti nuteistuosius balsuoti jų nuolatinės
-gyvenamosios vietos rinkimų apygardose.
+straipsnis. Balsavimas bausmių vykdymo įstaigose 
+1. Rinkėjai, atliekantys arešto
+ar laisvės atėmimo bausmę, turi teisę balsuoti savo bausmės vykdymo įstaigoje.
+2. Apygardos rinkimų komisija ne
+vėliau kaip likus 15 dienų iki rinkimų dienos bausmių vykdymo įstaigų vadovų
+teikimu sudaro specialių paštų sąrašą ir pašto vadovo teikimu nustato tokį jų
+darbo laiką, kad balsavimo dienos atitiktų šio įstatymo 67 straipsnio 1 dalį.
+3. Bausmių vykdymo įstaigų
+vadovai sudaro specialiame pašte balsuojančių rinkėjų sąrašą. Šiame sąraše turi
+būti nurodyta: rinkėjo vardas ir pavardė, asmens kodas, rinkimų apygarda
+(pavadinimas ir numeris), ar rinkėjas turi rinkėjo pažymėjimą. Specialiame
+pašte balsuojančių rinkėjų sąrašą bausmių vykdymo įstaigos vadovas perduoda
+apygardos rinkimų komisijai, iš jos gauna rinkėjų pažymėjimus arba juos
+išspausdina pagal elektroninio ryšio priemonėmis gautus duomenis ir užtikrina
+jų įteikimą rinkėjams prieš balsavimą, nustato balsavimui tinkamas patalpas ir
+atsako, kad rinkėjams būtų pranešta apie specialaus pašto darbo vietą ir laiką,
+taip pat kad rinkėjams būtų sudarytos sąlygos į jį atvykti.
+4. Balsavimui bausmių vykdymo
+įstaigose taikomos šio įstatymo 67 straipsnio nuostatos.
+5. Balsavimui areštinėse, tardymo
+izoliatoriuose (sulaikymo namuose) taikomos šio straipsnio ir šio įstatymo 67
+straipsnio nuostatos.
+6. Daryti poveikį areštinėje,
+tardymo izoliatoriuje (sulaikymo namuose) ar bausmės vykdymo įstaigoje
+balsuojančio rinkėjo apsisprendimui ar skubinti jį balsuoti draudžiama.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
+
  
 DEŠIMTASIS
 SKIRSNIS
@@ -2017,22 +2267,46 @@ BALSŲ
 SKAIČIAVIMAS
  
 74
-straipsnis. Balsavimo vokų ir biuletenių apskaita pašto skyriuose
-1. Balsavimo paštu vokų ir
-biuletenių apskaitą tvarko pašto skyriaus viršininkas, apskaitos duomenis
-nurodydamas specialiai tam skirtame žurnale Vyriausiosios rinkimų komisijos
-nustatyta tvarka.
-2. Likus vienai dienai iki
-rinkimų, pašto skyriaus viršininkas grąžina nepanaudotus balsavimo paštu vokus
-ir rinkimų biuletenius apygardos rinkimų komisijai.
-3. Paštas vokus su rinkėjų
-užpildytais biuleteniais įteikia apylinkių rinkimų komisijoms rinkimų dieną ne
-vėliau kaip likus 2 valandoms iki rinkimų pabaigos.
-4. Balsavimo vokų ir biuletenių
-apskaitą Lietuvos Respublikoje tvarko Vyriausioji rinkimų komisija.
+straipsnis. Balsavimo vokų ir rinkimų biuletenių apskaita 
+1. Balsavimo vokų ir rinkimų
+biuletenių apskaitos tvarką Lietuvos Respublikoje nustato ir šią apskaitą
+tvarko Vyriausioji rinkimų komisija.
+2. Balsavimo paštu vokų ir
+rinkimų biuletenių apskaitą, išdavimą ir priėmimą balsuojant paštuose tvarko jų
+vadovai. Apskaitos duomenis jie nurodo specialiai tam skirtame žurnale.
+3. Likus vienai dienai iki
+rinkimų dienos, nepanaudotus balsavimo paštu vokus ir rinkimų biuletenius pašto
+vadovas grąžina apygardos rinkimų komisijai.
+4. Balsavimo paštu vokus su
+rinkėjų užpildytais rinkimų biuleteniais pašto vadovas ar jo įgaliotas asmuo
+įteikia apylinkių rinkimų komisijoms rinkimų dieną ne vėliau kaip likus 2
+valandoms iki rinkimų pabaigos.
+5. Rinkėjų, kurie namuose balsavo
+paskutinį ketvirtadienį iki rinkimų dienos, išorinius balsavimo vokus,
+nepanaudotus ir sugadintus rinkimų biuletenius apygardos rinkimų komisijai
+perduoda rinkimų komisijų nariai, kurie pagal šio įstatymo 67(1 )straipsnio
+nuostatas vyko į rinkėjų namus. Apygardos rinkimų komisija ne vėliau kaip
+paskutinį penktadienį iki rinkimų dienos išorinius balsavimo vokus perduoda
+paštui. 
+6. Rinkėjų, kurie namuose balsavo
+paskutinį šeštadienį iki rinkimų dienos, išoriniai balsavimo vokai, nepanaudoti
+ir sugadinti rinkimų biuleteniai tos pačios dienos 19 valandą perduodami
+apylinkės rinkimų komisijos pirmininkui. Apylinkės rinkimų komisija,
+patikrinusi gautus rinkimų dokumentus, sprendžia, ar balsavimas namuose atitiko
+šio įstatymo reikalavimus.
+7. Išoriniai balsavimo vokai
+saugomi kartu su rinkimų biuleteniais.
+8. Prieš skaičiuojant rinkėjų
+balsus gauti paštu balsavusių rinkėjų išoriniai balsavimo vokai sudedami kartu
+su namuose balsavusių rinkėjų išoriniais balsavimo vokais, sumaišomi ir
+skaičiuojami pagal šio įstatymo 78 straipsnį kartu ir ta pačia tvarka kaip ir
+paštu gauti rinkėjų balsai.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-75
-straipsnis. Apylinkės rinkimų komisijos darbo organizavimas skaičiuojant balsus
+75 straipsnis. Apylinkės rinkimų komisijos darbo
+organizavimas skaičiuojant balsus
 1. Balsų skaičiavimą komisijoje
 organizuoja ir jam vadovauja apylinkės rinkimų komisijos pirmininkas. Jo
 nurodymai skaičiuojant balsus privalomi ir turi būti vykdomi visų balsavimo
@@ -2052,8 +2326,8 @@ skelbia balsavimą dėl jo įvertinimo (jeigu tokių biuletenių yra keletas,
 pateikiami po vieną). Šio balsavimo rezultatai užrašomi ant biuletenio
 tuščiojoje pusėje.
  
-76
-straipsnis. Rinkimų biuletenių apskaita rinkimų apylinkėse
+76 straipsnis. Rinkimų biuletenių apskaita rinkimų
+apylinkėse
 1. Uždarius balsavimo patalpą,
 apylinkės rinkimų komisijos pirmininkas, dalyvaujant ne mažiau kaip 3/5 rinkimų
 komisijos narių, užklijuoja ir antspauduoja balsadėžės plyšį.
@@ -2069,8 +2343,8 @@ dešinįjį viršutinį kampą; sudeda į specialiai tam skirtus vokus ir šiuos
 antspauduoja. Nepanaudotų ir sugadintų biuletenių skaičius įrašomas į balsų
 skaičiavimo protokolą.
  
-77
-straipsnis. Rinkimų apylinkės balsavimo patalpoje balsavusių rinkėjų balsų
+77 straipsnis. Rinkimų apylinkės balsavimo patalpoje
+balsavusių rinkėjų balsų
 skaičiavimas
 1. Apylinkės rinkimų komisija,
 dalyvaujant ne mažiau kaip 3/5 jos narių, apžiūri apylinkės rinkimų balsadėžę,
@@ -2082,35 +2356,34 @@ surašomas aktas, balsadėžė supakuojama, paketas antspauduojamas ir balsai
 neskaičiuojami. Balsadėžė pristatoma apygardos rinkimų komisijai. Sprendimą dėl
 šioje balsadėžėje esančių balsų skaičiavimo priima apygardos rinkimų komisija.
 2. Įsitikinus, kad balsadėžė
-nebuvo pažeista, dalyvaujant ne mažiau kaip 3/5 apylinkės rinkimų komisijos narių
-ir stebėtojams, ji atidaroma, visi rinkimų biuleteniai sudedami ant stalų, ant
-kurių negali būti jokių kitų dokumentų bei rašymo priemonių (išskyrus juodus
-grafitinius pieštukus), ir komisija suskaičiuoja visus balsadėžėje buvusius
-biuletenius. Biuleteniai surūšiuojami pagal rinkimų apygardas (vienmandatės ir
-daugiamandatės), po to - į galiojančius ir negaliojančius. Galiojantys
-biuleteniai suskirstomi į grupes pagal juose rinkėjų padarytas žymas. Kiekviena
-biuletenių grupė turi būti perskaičiuota mažiausiai du kartus. Antrą kartą
-biuletenius turi perskaičiuoti kiti komisijos nariai. Iš visų biuletenių turi
-būti išskirti, jeigu aptinkama, neturintys būtinų požymių biuleteniai
-(nenustatytos formos, neantspauduoti ar antspauduoti ne šios rinkimų komisijos
-antspaudu ir pan.). Apie tokius biuletenius nedelsiant turi būti pranešta
-apygardos rinkimų komisijai ir apie tai įrašyta rinkimų apylinkės balsų
-skaičiavimo protokole. Skaičiavimo rezultatai turi būti paskelbti ir įrašyti į
-protokolą, suskaičiuoti biuleteniai sudėti į specialų voką (vokus), kuris
+nebuvo pažeista, dalyvaujant ne mažiau kaip 3/5 apylinkės rinkimų komisijos
+narių ir stebėtojams, ji atidaroma, visi rinkimų biuleteniai sudedami ant
+stalų, ant kurių negali būti jokių kitų dokumentų bei rašymo priemonių
+(išskyrus juodus grafitinius pieštukus), ir komisija suskaičiuoja visus balsadėžėje
+buvusius biuletenius. Biuleteniai surūšiuojami pagal rinkimų apygardas
+(vienmandatės ir daugiamandatės), po to - į galiojančius ir negaliojančius.
+Galiojantys biuleteniai suskirstomi į grupes pagal juose rinkėjų padarytas
+žymas. Kiekviena biuletenių grupė turi būti perskaičiuota mažiausiai du kartus.
+Antrą kartą biuletenius turi perskaičiuoti kiti komisijos nariai. Iš visų
+biuletenių turi būti išskirti, jeigu aptinkama, neturintys būtinų požymių
+biuleteniai (nenustatytos formos, neantspauduoti ar antspauduoti ne šios
+rinkimų komisijos antspaudu ir pan.). Apie tokius biuletenius nedelsiant turi
+būti pranešta apygardos rinkimų komisijai ir apie tai įrašyta rinkimų apylinkės
+balsų skaičiavimo protokole. Skaičiavimo rezultatai turi būti paskelbti ir įrašyti
+į protokolą, suskaičiuoti biuleteniai sudėti į specialų voką (vokus), kuris
 užklijuojamas ir saugomas. Po to, kai rinkimų komisija nustatė, kiek kandidatų
 sąrašai daugiamandatėje rinkimų apygardoje ir kandidatai vienmandatėje rinkimų
 apygardoje gavo apylinkės balsavimo patalpoje balsavusių rinkėjų balsų,
 pradedami skaičiuoti paštu balsavusių rinkėjų balsai.
 3. Biuleteniai, pagal kurių žymas
 galima nustatyti, už kurį kandidatų sąrašą balsavo rinkėjas, bet negalima
-nustatyti, kokią jis pareiškė nuomonę dėl balsuoto sąrašo kandidatų, vien dėl to
-negali būti pripažinti negaliojančiais. Jeigu rinkėjas biuletenyje nenurodė
+nustatyti, kokią jis pareiškė nuomonę dėl balsuoto sąrašo kandidatų, vien dėl
+to negali būti pripažinti negaliojančiais. Jeigu rinkėjas biuletenyje nenurodė
 kandidato rinkimų numerio, nurodė nesamą kandidato rinkimų numerį, taip pat
 jeigu pagal įrašą ar įrašus neįmanoma nustatyti rinkėjo valios, pirmumo balsas
 ar balsai pagal šio biuletenio antrosios dalies specialųjį laukelį (laukelius)
 neskaičiuojami. Jeigu biuletenyje to paties kandidato rinkimų numeris įrašytas
-du ar tris kartus, šiam kandidatui pagal šį biuletenį įskaitomas tik vienas
-balsas.
+du ar tris kartus, šiam kandidatui pagal šį biuletenį įskaitomas tik vienas balsas.
 4. Sprendimą dėl rinkimų
 biuletenio pripažinimo negaliojančiu arba esant ginčui tarp komisijos narių dėl
 biuletenio žymų įvertinimo priima rinkimų komisija balsavimu. Šio balsavimo
@@ -2125,18 +2398,17 @@ komisijos narys ar stebėtojas.
 skaičiavimo tvarką nustato Vyriausioji rinkimų komisija ne vėliau kaip likus 14
 dienų iki rinkimų.
  
-78
-straipsnis. Balsavusių paštu rinkėjų apskaita, jų paduotų balsų ir kandidatų
+78 straipsnis. Balsavusių paštu rinkėjų apskaita, jų paduotų
+balsų ir kandidatų
 pirmumo
 balsų skaičiavimas
 1. Suskaičiavus balsadėžėje
-rastus rinkimų biuletenius, pradedami skaičiuoti paštu gauti rinkimų
+rastus rinkimų biuletenius, pradedami skaičiuoti paštu ir namuose gauti rinkimų
 biuleteniai:
 1) apylinkės rinkimų komisijos
-pirmininkas pateikia neatplėštus visus paštu gautus išorinius balsavimo vokus. Jų
-skaičius paskelbiamas ir įrašomas į balsų skaičiavimo protokolą;
-2) išoriniai vokai po vieną
-atplėšiami;
+pirmininkas pateikia neatplėštus visus paštu ir namuose gautus išorinius balsavimo
+vokus. Jų skaičius paskelbiamas ir įrašomas į balsų skaičiavimo protokolą;
+2) išoriniai vokai po vieną atplėšiami;
 3) iš išorinio voko išimamas
 rinkėjo pažymėjimas, garsiai perskaitoma rinkėjo pavardė, ji sutikrinama su
 apylinkės rinkėjų sąrašu ir vidinis balsavimo paštu vokas antspauduojamas
@@ -2144,13 +2416,14 @@ rinkimų apylinkės antspaudu. Jeigu rinkėjo pažymėjime įrašytas asmuo, kur
 nėra rinkėjų sąraše, arba rinkėjų sąraše yra rinkėjo parašas, liudijantis, kad
 jis jau balsavo apylinkėje, arba yra gautas kitas to paties rinkėjo balsavimo
 paštu vokas, arba išoriniame voke nėra rinkėjo pažymėjimo, arba išoriniame voke
-yra įdėta daugiau kaip vienas vidinis balsavimo vokas, - antspaudas nededamas
+yra įdėta daugiau kaip vienas vidinis balsavimo vokas, – antspaudas nededamas
 ir laikoma, kad voke esantis rinkimų biuletenis (biuleteniai) negalioja, vokas
 neatplėšiamas. Ant vidinio (vidinių) balsavimo voko (vokų) būtina pažymėti, kad
 voke esantys biuleteniai negalioja. Tokių vokų turinys rinkimų apylinkės balsų
 skaičiavimo protokole neįskaičiuojamas;
 4) apylinkės rinkėjų sąraše prie
-rinkėjo, kurio balsas gautas paštu, pavardės įrašoma „balsavo paštu“ arba „BP“;
+rinkėjo, kurio balsas gautas paštu ir namuose, pavardės įrašoma „balsavo paštu“
+arba „BP“;
 5) antspauduotas vidinis
 balsavimo vokas įmetamas į balsadėžę, įrengtą ir antspauduotą pagal nustatytus
 reikalavimus;
@@ -2215,13 +2488,16 @@ skaičiavimo metu dalyvaujantys asmenys ir įsitikintų, jog balsai skaičiuojam
 sąžiningai ir teisingai. Suskaičiuoti balsai įrašomi į daugiamandatės rinkimų
 apygardos balsų skaičiavimo protokolo antrąją dalį, biuleteniai supakuojami,
 paketas antspauduojamas ir perduodamas apygardos rinkimų komisijai.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-79
-straipsnis. Rinkimų apylinkės balsų skaičiavimo protokolai
+79 straipsnis. Rinkimų apylinkės balsų skaičiavimo
+protokolai
 1. Kiekvienoje rinkimų apylinkėje
 surašomi du balsų skaičiavimo protokolai: vienmandatės rinkimų apygardos ir
-daugiamandatės rinkimų apygardos. Daugiamandatės rinkimų apygardos balsų skaičiavimo
-protokolas turi dvi dalis.
+daugiamandatės rinkimų apygardos. Daugiamandatės rinkimų apygardos balsų
+skaičiavimo protokolas turi dvi dalis.
 2. Vienmandatės rinkimų apygardos
 balsų skaičiavimo protokole įrašoma:
 1) rinkėjų skaičius rinkimų
@@ -2243,11 +2519,13 @@ negaliojančių rinkimų biuletenių skaičius;
 rinkimų biuletenių skaičius;
 9) balsadėžėje rastų atskirai už
 kiekvieną kandidatą į Seimo narius paduotų balsų skaičius;
-10) paštu gautų vokų skaičius,
-antspauduotų vidinių balsavimo paštu vokų skaičius;
+10) namuose balsavusių rinkėjų
+balsavimo vokų skaičius, paštu gautų balsavimo vokų skaičius, bendras paštu ir
+namuose gautų balsavimo vokų skaičius, antspauduotų vidinių balsavimo paštu
+vokų skaičius;
 11) paštu gautų negaliojančių
-rinkimų biuletenių skaičius (biuleteniai, kurie yra neantspauduotuose ir neatplėštuose
-vokuose, neskaičiuojami ir nenurodomi kaip negaliojantys);
+rinkimų biuletenių skaičius (biuleteniai, kurie yra neantspauduotuose ir
+neatplėštuose vokuose, neskaičiuojami ir nenurodomi kaip negaliojantys);
 12) paštu gautų galiojančių
 rinkimų biuletenių skaičius;
 13) paštu gautų balsų už
@@ -2260,7 +2538,8 @@ apylinkėje biuletenių skaičius;
 kandidatą į Seimo narius paduotų balsų skaičius.
 3. Daugiamandatės rinkimų
 apygardos balsų skaičiavimo protokole įrašoma:
-1) rinkėjų skaičius rinkimų apylinkėje;
+1) rinkėjų skaičius rinkimų
+apylinkėje;
 2) gautų iš apygardos rinkimų
 komisijos daugiamandatės rinkimų apygardos biuletenių skaičius;
 3) kiekvienam komisijos nariui
@@ -2272,15 +2551,17 @@ skaičius;
 5) rinkimų apylinkės balsavimo
 patalpoje balsavusių rinkėjų skaičius;
 6) balsadėžės atidarymo laikas;
-7) balsadėžėje rastų negaliojančių
-rinkimų biuletenių skaičius;
+7) balsadėžėje rastų
+negaliojančių rinkimų biuletenių skaičius;
 8) balsadėžėje rastų galiojančių
 rinkimų biuletenių skaičius;
 9) balsadėžėje rastų atskirai už
 kiekvienos partijos (jų koalicijos) iškeltų kandidatų sąrašą paduotų balsų
 skaičius;
-10) paštu gautų vokų skaičius,
-antspauduotų vidinių balsavimo paštu vokų skaičius;
+10) namuose balsavusių rinkėjų
+balsavimo vokų skaičius, paštu gautų balsavimo vokų skaičius, bendras paštu ir
+namuose gautų balsavimo vokų skaičius, antspauduotų vidinių balsavimo paštu
+vokų skaičius;
 11) paštu gautų negaliojančių
 rinkimų biuletenių skaičius;
 12) paštu gautų galiojančių
@@ -2314,8 +2595,8 @@ specialųjį voką (vokus), rinkimų apylinkės balsų skaičiavimo protokolus
 pasirašo apylinkės rinkimų komisijos pirmininkas ir nariai. Po to protokolus
 pasirašo stebėtojai. Jų pastabos, komisijos narių atskirosios nuomonės
 pridedamos prie protokolų ir yra neatskiriama jų dalis.
-7. Daugiamandatės rinkimų
-apygardos balsų skaičiavimo protokolo antrojoje dalyje įrašoma:
+7. Daugiamandatės rinkimų apygardos
+balsų skaičiavimo protokolo antrojoje dalyje įrašoma:
 1) skaičiuojamų biuletenių
 skaičius;
 2) biuletenių, kuriuose rinkėjai
@@ -2338,9 +2619,11 @@ kad duomenyse, nurodytuose balsų skaičiavimo protokolo pirmojoje dalyje, yra
 padaryta klaida, yra surašomas protokolas klaidai ištaisyti. Protokolo antroji
 dalis ir biuleteniai grąžinami apygardos rinkimų komisijai. Sprendimą dėl
 klaidos priima apygardos rinkimų komisija.
+Straipsnio pakeitimai:
+Nr. X-397, 2005-11-17, Žin., 2005, Nr.
+143-5171 (2005-12-08)
  
-80
-straipsnis. Negaliojantys biuleteniai
+80 straipsnis. Negaliojantys biuleteniai
 1. Negaliojančiais biuleteniais
 pripažįstami:
 1) nenustatyto pavyzdžio rinkimų
@@ -2366,22 +2649,22 @@ komisija pripažįsta biuletenius negaliojančiais pagal šio įstatymo straipsn
 dalies 1, 2 ar 3 punktą, ji apie tai nedelsdama praneša apygardos rinkimų
 komisijai.
  
-81
-straipsnis. Rinkimų apylinkės dokumentų pateikimas apygardos rinkimų komisijai
+81 straipsnis. Rinkimų apylinkės dokumentų pateikimas apygardos
+rinkimų komisijai
 1. Apylinkės rinkimų komisija
 visus rinkimų biuletenius, taip pat negaliojančius ir nepanaudotus, kitus
 rinkimų dokumentus Vyriausiosios rinkimų komisijos nustatyta tvarka sudeda į
 paketus, juos aprašo ir antspauduoja. Paketai kartu su balsų skaičiavimo
 protokolu ir jo priedais, rinkėjų sąrašas, apylinkės rinkimų komisijos
 protokolai, viso jos darbo laikotarpio finansiniai dokumentai apygardos rinkimų
-komisijai pristatomi ne vėliau kaip per 12 valandų po balsavimo pabaigos, jei
-Vyriausioji rinkimų komisija nenustatė kitaip.
+komisijai pristatomi ne vėliau kaip per 12 valandų po balsavimo pabaigos, jei Vyriausioji
+rinkimų komisija nenustatė kitaip.
 2. Vyriausioji rinkimų komisija
 bei Vidaus reikalų ministerija privalo užtikrinti rinkimų dokumentų gabenimo
 bei juos gabenančių asmenų saugumą.
  
-82
-straipsnis. Balsų skaičiavimas apygardos rinkimų komisijoje
+82 straipsnis. Balsų skaičiavimas apygardos rinkimų
+komisijoje
 1. Apygardos rinkimų komisija
 priima apylinkės rinkimų komisijos pateiktus dokumentus ir patikrina:
 1) ar yra pristatyti visi
@@ -2406,15 +2689,15 @@ skaičiavimo protokolų duomenis, savo pastabas dėl apylinkės rinkimų komisij
 pateiktų dokumentų ir pasirūpina pateiktų dokumentų saugumu.
 3. Apylinkių rinkimų komisijų
 antspauduoti paketai, kuriuose yra rinkimų biuleteniai ar kiti rinkimų
-dokumentai, apygardos rinkimų komisijoje gali būti atidaromi tik apygardos rinkimų
-komisijos sprendimu. Apygardos rinkimų komisija perskaičiuoti apylinkės
-rinkimų komisijos biuletenius gali pati, pavesti perskaičiuoti biuletenius tai
-apylinkės rinkimų komisijai, iš kurios jie buvo gauti, arba pavesti rinkimų
-biuletenius perskaičiuoti kitai apylinkės rinkimų komisijai. Rinkimų komisijos
-perskaičiuodamos balsus turi vadovautis šio įstatymo 78 straipsnio 4 dalimi.
-Apygardos rinkimų komisija šio straipsnio 6 dalyje nurodytu atveju privalo
-priimti sprendimą perskaičiuoti visų rinkimų apylinkių komisijų rinkimų
-biuletenius.
+dokumentai, apygardos rinkimų komisijoje gali būti atidaromi tik apygardos
+rinkimų komisijos sprendimu. Apygardos rinkimų komisija perskaičiuoti
+apylinkės rinkimų komisijos biuletenius gali pati, pavesti perskaičiuoti
+biuletenius tai apylinkės rinkimų komisijai, iš kurios jie buvo gauti, arba
+pavesti rinkimų biuletenius perskaičiuoti kitai apylinkės rinkimų komisijai.
+Rinkimų komisijos perskaičiuodamos balsus turi vadovautis šio įstatymo 78
+straipsnio 4 dalimi. Apygardos rinkimų komisija šio straipsnio 6 dalyje
+nurodytu atveju privalo priimti sprendimą perskaičiuoti visų rinkimų apylinkių
+komisijų rinkimų biuletenius.
 4. Nustačiusi apylinkės rinkimų
 komisijos pateiktų dokumentų trūkumus, apygardos rinkimų komisija imasi
 priemonių juos pašalinti, pareikalauja iš apylinkės rinkimų komisijos
@@ -2430,9 +2713,8 @@ bent vienas komisijos narys, partijos ar kandidato atstovas ir pagal
 išankstinius rinkimų rezultatus šioje vienmandatėje rinkimų apygardoje balsų
 skirtumas tarp už pirmą ir antrą vietą užėmusių kandidatų yra mažesnis nei 50.
  
-83
-straipsnis. Apygardos balsų skaičiavimo dokumentų pateikimas Vyriausiajai
-rinkimų komisijai
+83 straipsnis. Apygardos balsų skaičiavimo dokumentų
+pateikimas Vyriausiajai rinkimų komisijai
 Apygardos rinkimų komisija visus
 dokumentus, gautus iš rinkimų apylinkių (išskyrus finansinius dokumentus),
 rinkėjų sąrašus, rinkimų apygardos balsų skaičiavimo protokolą, apygardos
@@ -2440,9 +2722,8 @@ rinkimų komisijos viso darbo laikotarpio protokolus ir kitus rinkimų dokumentu
 sudeda į specialius paketus ir užantspauduoja. Paketai per Vyriausiosios
 rinkimų komisijos nustatytą laiką perduodami Vyriausiajai rinkimų komisijai.
  
-84
-straipsnis. Stebėtojų dalyvavimas skaičiuojant balsus ir nustatant rinkimų
-rezultatus
+84 straipsnis. Stebėtojų dalyvavimas skaičiuojant balsus ir
+nustatant rinkimų rezultatus
 1. Skaičiuojant balsus rinkimų
 apylinkėse bei apygardose, taip pat nustatant rinkimų rezultatus apygardose,
 gali dalyvauti rinkimų stebėtojai, taip pat visuomenės informavimo priemonių
@@ -2457,8 +2738,7 @@ Rinkimų stebėtojo protestas apygardos rinkimų komisijai pridedamas prie
 apygardos balsų skaičiavimo protokolo. Protestus nagrinėja ta rinkimų komisija,
 kuriai jie pareikšti.
  
-85
-straipsnis. Išankstinių rinkimų rezultatų skelbimas
+85 straipsnis. Išankstinių rinkimų rezultatų skelbimas
 1. Išankstinius rinkimų
 rezultatus gali pranešti tik Vyriausioji rinkimų komisija. Jeigu apygardos
 rinkimų komisija perdavė rinkimų rezultatų visose rinkimų apylinkėse
@@ -2470,9 +2750,8 @@ komisijos pranešimo visuomenės informavimo priemonių atstovams draudžiama
 vaizdo ar garso įrašymo technika, žodžiu, raštu ar kitaip skleisti informaciją
 apie balsų skaičiavimo ar rinkimų rezultatus.
  
-86
-straipsnis. Skundai dėl rinkimų komisijų sprendimų, priimtų pasibaigus
-balsavimui
+86 straipsnis. Skundai dėl rinkimų komisijų sprendimų,
+priimtų pasibaigus balsavimui
 1. Partijos, iškėlusios kandidatą
 į Seimo narius, kandidatai į Seimo narius, jų atstovai rinkimams, rinkimų
 stebėtojai apylinkių rinkimų komisijų sprendimus dėl balsų skaičiavimo
@@ -2482,16 +2761,17 @@ per 24 valandas.
 2. Apygardos rinkimų komisijos
 sprendimai dėl balsų skaičiavimo protokolų surašymo gali būti apskųsti
 Vyriausiajai rinkimų komisijai ne vėliau kaip per 72 valandas nuo jų surašymo
-ir privalo būti išnagrinėti iki oficialaus galutinių rinkimų rezultatų paskelbimo.
+ir privalo būti išnagrinėti iki oficialaus galutinių rinkimų rezultatų
+paskelbimo.
 3. Apygardų komisijos,
 nagrinėdamos skundus dėl apylinkių rinkimų komisijų sprendimų dėl balsų
 skaičiavimo protokolų surašymo, dalyvaujant ne mažiau kaip 3/5 komisijos narių,
-gali perskaičiuoti apylinkės rinkimų komisijos pateiktus biuletenius, o nustačiusios
-protokoluose aritmetinę klaidą, neteisingai suskaičiuotus galiojančius bei
-negaliojančius biuletenius, surašo papildomą apylinkės balsų skaičiavimo
-protokolą ir prideda jį prie apylinkės balsų skaičiavimo protokolo. Apygardos
-rinkimų komisija neturi teisės pripažinti negaliojančiais apylinkės rinkimų
-komisijos balsų skaičiavimo protokolų.
+gali perskaičiuoti apylinkės rinkimų komisijos pateiktus biuletenius, o
+nustačiusios protokoluose aritmetinę klaidą, neteisingai suskaičiuotus
+galiojančius bei negaliojančius biuletenius, surašo papildomą apylinkės balsų
+skaičiavimo protokolą ir prideda jį prie apylinkės balsų skaičiavimo protokolo.
+Apygardos rinkimų komisija neturi teisės pripažinti negaliojančiais apylinkės
+rinkimų komisijos balsų skaičiavimo protokolų.
 4. Vyriausioji rinkimų komisija,
 nagrinėdama skundą dėl apygardos rinkimų komisijos sprendimo dėl apygardos
 balsų skaičiavimo protokolo surašymo, gali perskaičiuoti apygardos rinkimų
@@ -2508,8 +2788,8 @@ Tokiais atvejais Seimas ar Respublikos Prezidentas ne vėliau kaip per 48
 valandas kreipiasi į Konstitucinį Teismą su paklausimu dėl Seimo rinkimų
 įstatymo pažeidimo.
  
-87
-straipsnis. Rinkimų apygardos balsų skaičiavimo protokolai
+87 straipsnis. Rinkimų apygardos balsų skaičiavimo
+protokolai
 1. Pagal rinkimų apylinkių balsų
 skaičiavimo protokolus, rinkimų biuletenius ir kitus rinkimų dokumentus
 apygardos rinkimų komisija nustato:
@@ -2539,15 +2819,15 @@ SKIRSNIS
 RINKIMŲ
 REZULTATŲ NUSTATYMAS IR PASKELBIMAS
  
-88
-straipsnis. Rinkimų rezultatų nustatymas vienmandatėse rinkimų apygardose
+88 straipsnis. Rinkimų rezultatų nustatymas vienmandatėse
+rinkimų apygardose
 1. Rinkimų rezultatus nustato
 Vyriausioji rinkimų komisija po to, kai išnagrinėja visus skundus ir nustato
 visus rinkimų rezultatus šioje apygardoje, taip pat ir rinkėjų, balsavusių
 užsienyje ir laivuose, balsus.
-2. Vienmandatėje rinkimų
-apygardoje išrinktu laikomas kandidatas, jeigu rinkimuose dalyvavo ne mažiau
-kaip 40 procentų į tos rinkimų apygardos rinkėjų sąrašus įrašytų rinkėjų ir tas
+2. Vienmandatėje rinkimų apygardoje
+išrinktu laikomas kandidatas, jeigu rinkimuose dalyvavo ne mažiau kaip 40
+procentų į tos rinkimų apygardos rinkėjų sąrašus įrašytų rinkėjų ir tas
 kandidatas gavo daugiau kaip pusę rinkimuose dalyvavusių rinkėjų balsų. Jeigu
 rinkimuose dalyvavo mažiau kaip 40 procentų į tos rinkimų apygardos rinkėjų
 sąrašus įrašytų rinkėjų, išrinktu laikomas tas kandidatas, kuris gavo
@@ -2578,23 +2858,23 @@ Nr.
 IX-2414, 2004-08-20, Žin., 2004, Nr.
 134-4835 (2004-09-02)
  
-89
-straipsnis. Rinkimų rezultatų nustatymas daugiamandatėje rinkimų apygardoje
+89 straipsnis. Rinkimų rezultatų nustatymas daugiamandatėje
+rinkimų apygardoje
 1. Daugiamandatėje rinkimų
 apygardoje rinkimai laikomi įvykusiais, jeigu juose dalyvavo daugiau kaip
 vienas ketvirtadalis visų rinkėjų.
-2. Partijos kandidatų sąrašas
-gali gauti Seimo narių mandatų (dalyvauja skirstant mandatus) tik tuomet, jei
-už jį balsavo ne mažiau kaip 5 procentai rinkimuose dalyvavusių rinkėjų.
-Jungtinis kandidatų sąrašas, sudarytas pagal šio įstatymo 43 straipsnį, gali
-gauti Seimo narių mandatų (dalyvauja skirstant mandatus) tik tuomet, jeigu už
-jį balsavo ne mažiau kaip 7 procentai rinkimuose dalyvavusių rinkėjų. Jeigu už
-sąrašus, dalyvaujančius skirstant mandatus, yra balsavę mažiau kaip 60 procentų
-visų rinkimuose dalyvavusių rinkėjų, teisę dalyvauti skirstant mandatus įgyja
-tas lig šiol skirstant mandatus nedalyvavęs sąrašas (sąrašai, jeigu už juos
-balsavo vienodas rinkėjų skaičius), už kurį balsavo daugiausiai rinkėjų. Tokiu
-pat būdu kandidatų sąrašų, turinčių teisę dalyvauti skirstant mandatus,
-skaičius didinamas ir toliau iki tokio jų skaičiaus, kada už kandidatų sąrašus,
+2. Partijos kandidatų sąrašas gali
+gauti Seimo narių mandatų (dalyvauja skirstant mandatus) tik tuomet, jei už jį
+balsavo ne mažiau kaip 5 procentai rinkimuose dalyvavusių rinkėjų. Jungtinis
+kandidatų sąrašas, sudarytas pagal šio įstatymo 43 straipsnį, gali gauti Seimo
+narių mandatų (dalyvauja skirstant mandatus) tik tuomet, jeigu už jį balsavo ne
+mažiau kaip 7 procentai rinkimuose dalyvavusių rinkėjų. Jeigu už sąrašus,
+dalyvaujančius skirstant mandatus, yra balsavę mažiau kaip 60 procentų visų
+rinkimuose dalyvavusių rinkėjų, teisę dalyvauti skirstant mandatus įgyja tas
+lig šiol skirstant mandatus nedalyvavęs sąrašas (sąrašai, jeigu už juos balsavo
+vienodas rinkėjų skaičius), už kurį balsavo daugiausiai rinkėjų. Tokiu pat būdu
+kandidatų sąrašų, turinčių teisę dalyvauti skirstant mandatus, skaičius
+didinamas ir toliau iki tokio jų skaičiaus, kada už kandidatų sąrašus,
 dalyvaujančius skirstant mandatus, yra balsavę ne mažiau kaip 60 procentų visų
 rinkimuose dalyvavusių rinkėjų.
 3. Mandatai kandidatų sąrašams
@@ -2610,12 +2890,12 @@ skaičius, tenkantis kiekvienam sąrašui pagal kvotą, o šio dalijimo liekanos
 naudojamos likusiems mandatams paskirstyti pagal liekanas. Dėl to visų sąrašų
 pavadinimai surašomi iš eilės, kurioje po paskutiniojo toliau eina pirmasis,
 pagal jiems atitekusias dalijimo liekanas, pradedant didžiausiąja. Jei dviejų
-sąrašų liekanos yra lygios, pirmiau yra įrašomas tas sąrašas, kuris gavo
-daugiau rinkėjų balsų, o jeigu ir šie skaičiai lygūs, pirmiau įrašomas tas,
-kuris yra gavęs daugiau mandatų visose vienmandatėse apygardose. Jeigu ir
-mandatų gauta po lygiai, pirmiau įrašomas sąrašas su mažesniu rinkimų numeriu.
-Nepadalyti kvotų metodu mandatai po vieną padalijami sąrašams pagal eilę,
-pradedant tuo sąrašu, kuris buvo įrašytas pirmasis.
+sąrašų liekanos yra lygios, pirmiau yra įrašomas tas sąrašas, kuris gavo daugiau
+rinkėjų balsų, o jeigu ir šie skaičiai lygūs, pirmiau įrašomas tas, kuris yra
+gavęs daugiau mandatų visose vienmandatėse apygardose. Jeigu ir mandatų gauta
+po lygiai, pirmiau įrašomas sąrašas su mažesniu rinkimų numeriu. Nepadalyti
+kvotų metodu mandatai po vieną padalijami sąrašams pagal eilę, pradedant tuo
+sąrašu, kuris buvo įrašytas pirmasis.
 6. Jei kuriam nors sąrašui tektų
 didesnis mandatų skaičius, nei sąraše yra kandidatų, tai šie mandatai
 padalijami kitiems sąrašams, tęsiant toliau jų dalijimą liekanų metodu.
@@ -2629,9 +2909,8 @@ nustatomas, apie tai iš anksto pranešama rinkėjams, nurodoma rinkimų
 biuletenyje ir kandidatų reitingas neskaičiuojamas, o įregistruota kandidatų
 eilė sąraše laikoma galutine.
  
-90
-straipsnis. Kandidatų į Seimo narius reitingo skaičiavimas ir sąrašų galutinės
-eilės nustatymas
+90 straipsnis. Kandidatų į Seimo narius reitingo
+skaičiavimas ir sąrašų galutinės eilės nustatymas
 1. Kandidatų į Seimo narius
 reitingą skaičiuoja ir šių kandidatų sąrašų galutinę eilę pagal rinkėjų
 pareikštą nuomonę ir paduotus pirmumo balsus nustato Vyriausioji rinkimų
@@ -2647,28 +2926,27 @@ laikomas lygus nuliui.
 kandidato į Seimo narius surinkti reitingo balai. Jie yra lygūs dviejų skaičių
 - rinkiminio reitingo (pirmojo daugiklio) ir partinio reitingo (antrojo
 daugiklio) sandaugai. Partinis
-reitingas yra sveikas skaičius, kurį nustato Vyriausioji rinkimų komisija
-kiekvienam kandidatui pagal kandidatų rinkimų numerius taip, kad partinis
-reitingas kandidato, turinčio pirmąjį rinkimų numerį, būtų 20 kartų didesnis už
-partinį reitingą kandidato, turinčio paskutinįjį šiame kandidatų sąraše rinkimų
-numerį ir sąrašo kandidatų, kurių rinkimų numeris skiriasi vienetu, partinių
-reitingų skirtumas būtų lygus 19. Tuo būdu nustatytas kandidato, įrašyto
-paskutiniuoju sąraše, partinis reitingas yra vienetu mažesnis už kandidatų
-skaičių šiame sąraše, o įrašyto pirmuoju sąraše yra 20 kartų didesnis už
-kandidato, įrašyto paskutiniuoju sąraše.
-4. Galutinė kandidatų į Seimo narius
-eilė sąrašuose nustatoma pagal kiekvieno kandidato gautus reitingo balus.
-Pirmesniuoju eilėje įrašomas kandidatas, surinkęs daugiau reitingo balų. Jeigu
-keli kandidatai surenka po lygiai reitingo balų, pirmesniuoju įrašomas tas
-kandidatas, kurio didesnis rinkiminis reitingas. Jeigu kandidatų ir rinkiminiai
-reitingai lygūs, tuomet pirmesniuoju įrašomas tas, kurio didesnis partinis
-reitingas.
+reitingas yra sveikas skaičius, kurį nustato Vyriausioji rinkimų komisija kiekvienam
+kandidatui pagal kandidatų rinkimų numerius taip, kad partinis reitingas
+kandidato, turinčio pirmąjį rinkimų numerį, būtų 20 kartų didesnis už partinį
+reitingą kandidato, turinčio paskutinįjį šiame kandidatų sąraše rinkimų numerį
+ir sąrašo kandidatų, kurių rinkimų numeris skiriasi vienetu, partinių reitingų
+skirtumas būtų lygus 19. Tuo būdu nustatytas kandidato, įrašyto paskutiniuoju
+sąraše, partinis reitingas yra vienetu mažesnis už kandidatų skaičių šiame
+sąraše, o įrašyto pirmuoju sąraše yra 20 kartų didesnis už kandidato, įrašyto
+paskutiniuoju sąraše.
+4. Galutinė kandidatų į Seimo
+narius eilė sąrašuose nustatoma pagal kiekvieno kandidato gautus reitingo
+balus. Pirmesniuoju eilėje įrašomas kandidatas, surinkęs daugiau reitingo balų.
+Jeigu keli kandidatai surenka po lygiai reitingo balų, pirmesniuoju įrašomas
+tas kandidatas, kurio didesnis rinkiminis reitingas. Jeigu kandidatų ir
+rinkiminiai reitingai lygūs, tuomet pirmesniuoju įrašomas tas, kurio didesnis
+partinis reitingas.
 5. Galutinę kandidatų į Seimo
 narius sąrašų eilę skelbia Vyriausioji rinkimų komisija tą pačią dieną kaip ir
 balsavimo rezultatus vienmandatėse rinkimų apygardose.
  
-91
-straipsnis. Rinkimų pripažinimas negaliojančiais
+91 straipsnis. Rinkimų pripažinimas negaliojančiais
 1. Vyriausioji rinkimų komisija
 gali pripažinti rinkimų rezultatus rinkimų apygardoje negaliojančiais, jeigu
 nustato, kad šiurkštūs šio įstatymo pažeidimai, padaryti rinkimų apylinkėje
@@ -2678,10 +2956,10 @@ kitus rinkimų dokumentus negalima nustatyti šių esminių rinkimų rezultatų:
 1) vienmandatėje rinkimų
 apygardoje – kandidato, kuriam tenka mandatas, arba kandidatų, dalyvaujančių
 pakartotiniame balsavime;
-2) daugiamandatėje rinkimų
-apygardoje - kandidatų sąrašų, dalyvaujančių paskirstant mandatus, arba
-kandidatų sąrašui tenkančių mandatų skaičių galima nustatyti tik daugiau kaip
-vieno mandato tikslumu.
+2) daugiamandatėje rinkimų apygardoje
+- kandidatų sąrašų, dalyvaujančių paskirstant mandatus, arba kandidatų sąrašui
+tenkančių mandatų skaičių galima nustatyti tik daugiau kaip vieno mandato
+tikslumu.
 2. Rinkimai negali būti skelbiami
 negaliojančiais, jeigu neginčijamai nustatyti rinkimų rezultatai leidžia
 nustatyti esminius rinkimų rezultatus.
@@ -2691,8 +2969,7 @@ Nr.
 IX-2233, 2004-05-11, Žin., 2004, Nr.
 83-2986 (2004-05-22)
  
-92
-straipsnis. Pakartotiniai rinkimai
+92 straipsnis. Pakartotiniai rinkimai
 1. Pakartotiniai rinkimai vyksta
 rinkimų apygardose, kuriose rinkimai neįvyko ar pripažinti negaliojančiais.
 2. Pakartotiniai rinkimai
@@ -2714,16 +2991,16 @@ ne šios rinkimų apygardos teritorijoje esančiuose paštuose (išskyrus miest�
 rajonų centrinius paštus) nerengiamas.
 4. Pakartotiniai
 rinkimai nerengiami, jeigu skelbtina pakartotinių rinkimų data patenka į
-laikotarpį, kai iki eilinių Seimo rinkimų datos, skaičiuojamos pagal Konstituciją,
-yra likę mažiau kaip vieneri metai.
+laikotarpį, kai iki eilinių Seimo rinkimų datos, skaičiuojamos pagal
+Konstituciją, yra likę mažiau kaip vieneri metai.
 Straipsnio
 pakeitimai:
 Nr.
 IX-2233, 2004-05-11, Žin., 2004, Nr.
 83-2986 (2004-05-22)
  
-93
-straipsnis. Galutinių rinkimų rezultatų nustatymas ir paskelbimas
+93 straipsnis. Galutinių rinkimų rezultatų nustatymas ir
+paskelbimas
 1. Galutinius rinkimų rezultatus, išnagrinėjusi visus
 skundus ir nustačiusi visus rinkimų rezultatus apygardoje, taip pat ir rinkėjų,
 balsavusių užsienyje ir laivuose, balsus nustato Vyriausioji rinkimų komisija.
@@ -2737,8 +3014,8 @@ paskelbia internete ir artimiausiame „Valstybės žinių“ numeryje.
 3. Vyriausioji rinkimų komisija
 ne vėliau kai per tris mėnesius po galutinio rinkimų rezultatų paskelbimo
 išleidžia knygą apie rinkimų rezultatus ir per keturis mėnesius perduoda
-valstybės archyvui neterminuotai saugoti rinkimų apylinkių ir rinkimų apygardų
-balsų skaičiavimo protokolus, pareiškinius dokumentus (išskyrus parašų rinkimo
+valstybės archyvui neterminuotai saugoti rinkimų apylinkių ir rinkimų apygardų balsų
+skaičiavimo protokolus, pareiškinius dokumentus (išskyrus parašų rinkimo
 lapus), Vyriausiosios rinkimų komisijos posėdžių protokolus bei sprendimus ir
 rinkimų dokumentų pavyzdžių komplektą. Po to Vyriausioji rinkimų komisija gali
 nuspręsti nesaugotinus rinkimų dokumentus sunaikinti.
@@ -2748,8 +3025,7 @@ Nr.
 IX-2233, 2004-05-11, Žin., 2004, Nr.
 83-2986 (2004-05-22)
  
-94
-straipsnis. Seimo nario pažymėjimas
+94 straipsnis. Seimo nario pažymėjimas
 1. Po rinkimų rezultatų
 paskelbimo Vyriausioji rinkimų komisija per 3 dienas išrinktiems kandidatams
 įteikia Seimo nario pažymėjimus.
@@ -2761,13 +3037,14 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1937, 2000.09.19, Žin., 2000, Nr. 85-2575 (2000.10.11)
  
-95
-straipsnis. Paklausimas dėl Seimo rinkimų įstatymo pažeidimo
+95 straipsnis. Paklausimas dėl Seimo rinkimų įstatymo
+pažeidimo
 1. Su paklausimu, ar nebuvo
 pažeistas Seimo rinkimų įstatymas, į Konstitucinį Teismą gali kreiptis Lietuvos
-Respublikos Seimas, taip pat Respublikos Prezidentas ne vėliau kaip per 3 dienas
-po to, kai paskelbiami oficialūs rinkimų rezultatai arba Vyriausiosios rinkimų
-komisijos sprendimas dėl laisvos Seimo nario vietos atsiradimo ar užėmimo.
+Respublikos Seimas, taip pat Respublikos Prezidentas ne vėliau kaip per 3
+dienas po to, kai paskelbiami oficialūs rinkimų rezultatai arba Vyriausiosios
+rinkimų komisijos sprendimas dėl laisvos Seimo nario vietos atsiradimo ar
+užėmimo.
 2. Konstitucinis Teismas tiria ir
 vertina Vyriausiosios rinkimų komisijos sprendimą arba jos atsisakymą nagrinėti
 skundus dėl Seimo rinkimų įstatymo pažeidimų tais atvejais, kai sprendimai buvo
@@ -2794,8 +3071,8 @@ Straipsnio pakeitimai:
 Nr. IX-967, 2002-06-20, Žin., 2002, Nr.
 68-2766 (2002-07-03)
  
-96
-straipsnis. Seimo nario įgaliojimų pripažinimas nutrūkusiais
+96 straipsnis. Seimo nario įgaliojimų pripažinimas
+nutrūkusiais
 Seimo nario įgaliojimus
 nutrūkusiais pripažįsta Vyriausioji rinkimų komisija, išskyrus šio įstatymo 95
 straipsnio 6 dalyje numatytus atvejus, ne vėliau kaip per 15 dienų po to, kai
@@ -2818,19 +3095,18 @@ arba neatsisakius darbo, nesuderinamo su Seimo nario pareigomis, - pagal
 Respublikos pilietybės - pagal įsigaliojusį teisės aktą dėl pilietybės
 netekimo;
 7) įstatymo nustatyta tvarka
-Seimo narys neprisiekė arba prisiekė lygtinai - pagal įsigaliojusį Seimo
-nutarimą.
+Seimo narys neprisiekė arba prisiekė lygtinai - pagal įsigaliojusį Seimo nutarimą.
  
-97
-straipsnis. Laisvos Seimo nario vietos užėmimas
-Seimo nario įgaliojimus pripažinus
-nutrūkusiais, Seime atsiranda laisva Seimo nario vieta. Ji užimama taip:
+97 straipsnis. Laisvos Seimo nario vietos užėmimas
+Seimo nario įgaliojimus
+pripažinus nutrūkusiais, Seime atsiranda laisva Seimo nario vieta. Ji užimama
+taip:
 1) jei buvęs
-Seimo narys buvo išrinktas vienmandatėje rinkimų apygardoje, šioje rinkimų
-apygardoje organizuojami nauji rinkimai. Nauji rinkimai turi būti surengti ne
-vėliau kaip per 6 mėnesius. Rinkimai nerengiami, jeigu skelbtina naujų rinkimų
-data patenka į laikotarpį, kai iki eilinių Seimo rinkimų datos, skaičiuojamos
-pagal Konstituciją, yra likę mažiau kaip vieneri metai. Konkrečią naujų rinkimų
+Seimo narys buvo išrinktas vienmandatėje rinkimų apygardoje, šioje rinkimų apygardoje
+organizuojami nauji rinkimai. Nauji rinkimai turi būti surengti ne vėliau kaip
+per 6 mėnesius. Rinkimai nerengiami, jeigu skelbtina naujų rinkimų data patenka
+į laikotarpį, kai iki eilinių Seimo rinkimų datos, skaičiuojamos pagal
+Konstituciją, yra likę mažiau kaip vieneri metai. Konkrečią naujų rinkimų
 rengimo tvarką pagal šio įstatymo nustatytus reikalavimus ir terminus nustato
 Vyriausioji rinkimų komisija, atsižvelgdama į tai, kad nauji rinkimai rengiami
 vienoje iš vienmandačių rinkimų apygardų. Vyriausioji rinkimų komisija,
@@ -2845,8 +3121,8 @@ teritorijoje esančiuose paštuose (išskyrus miestų, rajonų centrinius paštu
 nerengiamas;
 2) daugiamandatėje rinkimų apygardoje Seimo nariu
 tampa kandidatų sąrašo, pagal kurį buvo išrinktas buvęs Seimo narys, pirmasis
-Seimo nario mandato negavęs kandidatas. Jeigu šiame kandidatų sąraše Seimo nario
-mandatų negavusių kandidatų nėra, Seimo nario mandatas perduodamas kitam
+Seimo nario mandato negavęs kandidatas. Jeigu šiame kandidatų sąraše Seimo
+nario mandatų negavusių kandidatų nėra, Seimo nario mandatas perduodamas kitam
 sąrašui pagal kandidatų sąrašų eilę, sudarytą po rinkimų mandatams paskirstyti
 liekanų metodu, tai yra tam sąrašui, kuris yra pirmasis po sąrašo, kuris
 paskutinis gavo mandatą pagal šią eilę. Seimo nariu tampa naujai mandatą
@@ -2855,10 +3131,9 @@ rinkimų komisija sprendimą dėl Seimo nario mandato pripažinimo naujam Seimo
 nariui turi priimti ne vėliau kaip per 7 dienas po to, kai atsirado laisva
 Seimo nario vieta.
  
-98
-straipsnis. Seimo nario mandato netekimas dėl rinkėjams nepaskelbto
-bendradarbiavimo su kitų valstybių specialiosiomis tarnybomis ir turėtos teismo
-nuosprendžiu paskirtos bausmės
+98 straipsnis. Seimo nario mandato netekimas dėl rinkėjams
+nepaskelbto bendradarbiavimo su kitų valstybių specialiosiomis tarnybomis ir
+turėtos teismo nuosprendžiu paskirtos bausmės
 1. Kiekvienas kandidatas į Seimo
 narius turi viešai paskelbti, jeigu ne pagal Lietuvos Respublikos užduotis yra
 sąmoningai bendradarbiavęs su kitų valstybių specialiosiomis tarnybomis. Tai
@@ -2876,8 +3151,7 @@ rinkimų komisija jo neregistruoja, o jeigu buvo jį įregistravusi, nedelsdama
 panaikina jo registravimą kandidatu į Seimo narius. Jeigu kandidatas to
 nenurodė ir po Seimo rinkimų įstatymų nustatyta tvarka įrodoma, kad jis ne
 pagal Lietuvos Respublikos užduotis sąmoningai bendradarbiavo su kitų valstybių
-specialiosiomis tarnybomis, nuo įrodymo dienos šio Seimo nario įgaliojimai
-nutraukiami.
+specialiosiomis tarnybomis, nuo įrodymo dienos šio Seimo nario įgaliojimai nutraukiami.
 3. Kiekvienas kandidatas į Seimo narius turi viešai
 paskelbti, jeigu jis po 1990 m. kovo 11 d. Lietuvos Respublikos teismo
 įsiteisėjusiu nuosprendžiu yra pripažintas kaltu dėl nusikalstamos veikos arba
@@ -2888,19 +3162,19 @@ komisijos leidžiamame kandidato į Seimo narius rinkimų plakate, taip pat
 plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Teismo
 nuosprendžiu yra pripažintas kaltu dėl nusikalstamos veikos.
 4. Jeigu kandidatas to nenurodė
-ir yra po 1990 m. kovo 11 d. įsiteisėjęs Lietuvos Respublikos teismo
-nuosprendis, kuriuo asmuo pripažintas kaltu dėl nusikalstamos veikos, arba yra
-įsiteisėjęs teismo nuosprendis, kad asmuo bet kada buvo pripažintas kaltu
-padaręs sunkų ar labai sunkų nusikaltimą, Vyriausioji rinkimų komisija jo
-neregistruoja kandidatu į Seimo narius, o jei buvo įregistravusi, nedelsdama
-panaikina jo registravimą kandidatu į Seimo narius. Jei kandidatas to nenurodė
-ir po Seimo rinkimų nustatoma, kad yra po 1990 m. kovo 11 d. įsiteisėjęs
-Lietuvos Respublikos teismo nuosprendis, kuriuo asmuo pripažintas kaltu dėl
-nusikalstamos veikos, arba yra įsiteisėjęs teismo nuosprendis, kad asmuo bet kada
-buvo pripažintas kaltu padaręs sunkų ar labai sunkų nusikaltimą, Vyriausioji
-rinkimų komisija per 15 dienų teismo nuosprendžio ir kandidato į Seimo narius
-anketos nuorašus perduoda Lietuvos Respublikos Seimui, kad Seimas priimtų
-sprendimą dėl apkaltos proceso pradžios.
+ir yra po 1990 m. kovo 11 d. įsiteisėjęs Lietuvos Respublikos teismo nuosprendis,
+kuriuo asmuo pripažintas kaltu dėl nusikalstamos veikos, arba yra įsiteisėjęs
+teismo nuosprendis, kad asmuo bet kada buvo pripažintas kaltu padaręs sunkų ar
+labai sunkų nusikaltimą, Vyriausioji rinkimų komisija jo neregistruoja
+kandidatu į Seimo narius, o jei buvo įregistravusi, nedelsdama panaikina jo
+registravimą kandidatu į Seimo narius. Jei kandidatas to nenurodė ir po Seimo
+rinkimų nustatoma, kad yra po 1990 m. kovo 11 d. įsiteisėjęs Lietuvos
+Respublikos teismo nuosprendis, kuriuo asmuo pripažintas kaltu dėl
+nusikalstamos veikos, arba yra įsiteisėjęs teismo nuosprendis, kad asmuo bet
+kada buvo pripažintas kaltu padaręs sunkų ar labai sunkų nusikaltimą,
+Vyriausioji rinkimų komisija per 15 dienų teismo nuosprendžio ir kandidato į
+Seimo narius anketos nuorašus perduoda Lietuvos Respublikos Seimui, kad Seimas
+priimtų sprendimą dėl apkaltos proceso pradžios.
 Straipsnio pakeitimai:
 Nr.
 IX-1454,
@@ -2918,7 +3192,7 @@ Vilnius,
 1992 m. liepos 9 d.
 Nr. I-2721
  
-__________________
+________________
  
 Pakeitimai:
  
@@ -2969,8 +3243,8 @@ LIETUVOS RESPUBLIKOS SEIMO RINKIMŲ
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1049,
 1999.02.09, Žin., 1999, Nr. 19-513 (1999.02.24)
-LIETUVOS RESPUBLIKOS SEIMO RINKIMŲ
-ĮSTATYMO 21, 36, 93 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS SEIMO RINKIMŲ ĮSTATYMO
+21, 36, 93 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 1999 m.
 gegužės 1 d.
  
@@ -3044,14 +3318,14 @@ RINKIMŲ ĮSTATYMO 58 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 15.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1454, 2003-04-03,
-Žin., 2003, Nr. 38-1699 (2003-04-24)
+Nr. IX-1454,
+2003-04-03, Žin., 2003, Nr. 38-1699 (2003-04-24)
 SEIMO
 RINKIMŲ ĮSTATYMO 98 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos
-baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos
-baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341)., t.y. nuo 2003 m.
-gegužės 1 d.
+baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341)., t.y.
+nuo 2003 m. gegužės 1 d.
  
 16.
 Lietuvos
@@ -3113,12 +3387,25 @@ RINKIMŲ ĮSTATYMO IR PREZIDENTO RINKIMŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2004 m. rugsėjo 10 d.
  
+22.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-397,
+2005-11-17, Žin., 2005, Nr. 143-5171 (2005-12-08)
+SEIMO
+RINKIMŲ ĮSTATYMO PAPILDYMO 5(1), 67(1) STRAIPSNIAIS IR 6, 18, 26, 27, 30, 31,
+34, 35, 38, 47, 48, 49, 50, 51, 56, 61, 65, 67, 68, 69, 70, 71, 72, 73, 74, 78,
+79 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO ĮSTATYMAS
+Šio
+įstatymo 4, 9, 10 straipsniai įsigalioja nuo 2007 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-09-06)
+Aušrinė Trapinskienė (2005-12-16)
                  
 autrap@lrs.lt
 
