@@ -89,8 +89,8 @@ straipsnis. Valstybės rinkliavos dydžiai
 1. Valstybės
 rinkliavos dydis nustatomas atsižvelgiant į paslaugos suteikimo išlaidas,
 kurias sudaro išlaidos:
-1) darbui,
-susijusiam su paslaugos suteikimu, apmokėti;
+1) darbui, susijusiam
+su paslaugos suteikimu, apmokėti;
 2) juridinę
 galią turinčio dokumento blankui pagaminti;
 3) teisės aktų
@@ -135,10 +135,10 @@ ir I bei II grupių invalidai), asmenys iki 18 metų, kuriems nustatytas
 neįgalumo lygis (iki 2007 m. birželio 30 d. – ir invalidumo lygis), – už asmens
 tapatybės kortelės ir paso išdavimą bei pakeitimą, už dokumento, patvirtinančio
 asmens gyvenamąją vietą, išdavimą;
-2) politiniai kaliniai, tremtiniai, rezistencijos
-dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei pakeitimą, leidimo
-gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės dokumento bei
-vizos išdavimą ir pratęsimą;
+2) politiniai kaliniai, tremtiniai,
+rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei
+pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės
+dokumento bei vizos išdavimą ir pratęsimą;
 3) asmenys iki
 16 metų - už asmens be pilietybės kelionės dokumento bei pabėgėlio kelionės
 dokumento išdavimą, už vizų išdavimą ir pratęsimą, už vaiko kelionės dokumento
@@ -176,8 +176,8 @@ aukštesniąsias, profesines ir bendrojo lavinimo mokyklas, - už vizų išdavim
 pratęsimą.
 Straipsnio pakeitimai:
 Nr.
-IX-1077, 2002-09-17,
-Žin., 2002, Nr. 95-4086 (2002-10-02)
+IX-1077,
+2002-09-17, Žin., 2002, Nr. 95-4086 (2002-10-02)
 Nr. X-359, 2005-09-29,
 Žin., 2005, Nr. 121-4333 (2005-10-11)
  
@@ -194,9 +194,10 @@ rinkliava įskaitoma į tos savivaldybės biudžetą.
 8 straipsnis.
 Valstybės rinkliavos keitimas ar panaikinimas pariteto pagrindais
 Tais atvejais,
-kai pariteto pagrindais didinamas, mažinamas ar panaikinamas konsulinis mokestis
-už vizų išdavimą užsienio valstybių piliečiams bei asmenims be pilietybės, taip
-pat keičiama ar panaikinama ir valstybės rinkliava už vizų išdavimą.
+kai pariteto pagrindais didinamas, mažinamas ar panaikinamas konsulinis
+mokestis už vizų išdavimą užsienio valstybių piliečiams bei asmenims be
+pilietybės, taip pat keičiama ar panaikinama ir valstybės rinkliava už vizų
+išdavimą.
  
 9
 straipsnis. Valstybės rinkliavos mokėjimas
@@ -213,8 +214,8 @@ straipsnis. Valstybės rinkliavos grąžinimas
 valstybės rinkliava arba jos dalis grąžinama šiais atvejais:
 1) kai sumokėta
 daugiau negu Vyriausybės nustatytas rinkliavos dydis;
-2) jeigu
-paslaugos nesuteikiamos.
+2) jeigu paslaugos
+nesuteikiamos.
 2. Valstybės
 rinkliava grąžinama, jeigu prašymas dėl jos grąžinimo vietos mokesčio
 administratoriui pateiktas per Mokesčių administravimo įstatyme nustatytą
@@ -237,8 +238,12 @@ vietinės reikšmės keliuose, aikštėse, žaliuosiuose plotuose), atitverti j�
 jos dalį arba apriboti eismą joje išdavimą;
 2) leidimo
 prekiauti ar teikti paslaugas savivaldybės tarybos nustatytose viešosiose
-vietose išdavimą (išskyrus prekybą prekyvietėse, kai mokamas prekyviečių
-mokestis pagal Prekyviečių mokesčio įstatymą);
+vietose išdavimą (viešąja vieta, kurioje vykdoma prekyba, teikiamos paslaugos,
+laikytina savivaldybės teritorijoje esanti savivaldybei ar valstybei nuosavybės
+teise priklausanti ar patikėjimo teise valdoma teritorija (išskyrus
+išnuomotą ar perduotą naudotis teritoriją), kurioje teikiamos paslaugos, taip
+pat vykdoma prekyba nuo (iš) laikinųjų prekybos įrenginių, kioskų paviljonų,
+prekybai pritaikytų automobilių ar priekabų, lauko kavinių);
 3) leidimo
 įrengti išorinę reklamą ant savivaldybei priklausančių ar valdytojo teise
 valdomų objektų išdavimą; 
@@ -254,8 +259,10 @@ terminalais ir pasienio kontrolės punktais; šios išimtys netaikomos Neringos
 miestui);
 6) naudojimąsi
 savivaldybių tarybos nustatytomis vietomis automobiliams statyti (išskyrus
-vietas automobiliams statyti prie valstybinės reikšmės kelių ir 5–15 m
-pažymėtoje atkarpoje prie valstybės įstaigų, institucijų ir tarnybų);
+vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje
+atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas,
+kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar
+kitus viešuosius interesus užtikrinančius reikalavimus);
 7) gyvūnų (šunų,
 kačių) registravimą ir laikymą daugiabučiuose namuose;
 8) komunalinių
@@ -263,7 +270,16 @@ atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą;
 9) leidimo
 įrengti laikinus kilnojamus įrenginius savivaldybės teritorijoje (išskyrus prie
 valstybinės reikšmės kelių, privačiuose ir išnuomotuose valstybinės
-žemės sklypuose) išdavimą.
+žemės sklypuose) išdavimą;
+10)
+leidimo pardavinėti I, II ir TO klasės civilines pirotechnikos priemones
+išdavimą;
+11) naudojimąsi
+gyvenamųjų vietovių, turinčių kurorto statusą, viešąja infrastruktūra (viešoji
+kurorto infrastruktūra – valstybei ar savivaldybei nuosavybės teise
+priklausantys statiniai, įranga ir bendro naudojimo želdynai, sudarantys
+visuomenei galimybę naudoti kurorte esančius gamtinius išteklius sveikatinimo,
+turizmo ir poilsio reikmėms).
 2. Iš vietinės
 rinkliavos mokėtojo negali būti reikalaujama atlyginti už objektą, už kurį
 pagal šį įstatymą nustatyta vietinė rinkliava, kitaip negu sumokant vietinę
@@ -272,6 +288,8 @@ Straipsnio pakeitimai:
 Nr.
 IX-857,
 2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
+Nr. X-431, 2005-12-08,
+Žin., 2005, Nr. 149-5416 (2005-12-22)
  
 12
 straipsnis. Vietinių rinkliavų nustatymas
@@ -281,8 +299,8 @@ taryba savo sprendimu:
 vietinę rinkliavą;
 2) tvirtina
 vietinės rinkliavos nuostatus;
-3) nustato
-lengvatas vietinių rinkliavų mokėtojams;
+3) nustato lengvatas
+vietinių rinkliavų mokėtojams;
 4) nustato
 vietinės rinkliavos grąžinimo atvejus.
  
@@ -417,9 +435,9 @@ Nr. IX-2139,
 ĮMONIŲ IR ORGANIZACIJŲ
 NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS
 FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ
-UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS TERŠIMĄ
-ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO PAKEITIMO IR
-PAPILDYMO ĮSTATYMAS
+UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS
+TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
  
@@ -431,10 +449,19 @@ Nr. X-359, 2005-09-29,
 RINKLIAVŲ ĮSTATYMO 4 IR 6
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+7.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-431, 2005-12-08,
+Žin., 2005, Nr. 149-5416 (2005-12-22)
+RINKLIAVŲ ĮSTATYMO 11 STRAIPSNIO
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2005-10-12)
+Aušrinė Trapinskienė (2005-12-22)
                  
 autrap@lrs.lt
